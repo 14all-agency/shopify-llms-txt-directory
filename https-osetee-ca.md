@@ -6,12 +6,12 @@
 - Timezone: America/Toronto
 - Created At: 2026-01-31T19:20:29Z
 - Contact Email: osetee@northmail.ca
-- Updated At: 2026-04-15T01:36:04.096Z
+- Updated At: 2026-04-22T04:00:29.673Z
 
 ## Products
 
 - [Ferblantier T Shirt](https://osetee.ca/products/ferblantier-t-shirt): Affiche fièrement ton métier.La collection Métiers OseTee célèbre celles et ceux qui bâtissent, créent et tiennent debout le Québec.Un design fort, une identité assumée, un vêtement fait pour durer. Disponible en t-shirt homme, femme et hoodie.Confort premium. Style streetwear. Fierté québécoise. 👉 Porte ce que tu es.
-  Updated: 2026-02-28T05:12:47Z
+  Updated: 2026-04-20T21:11:24Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -217,7 +217,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40361524_4_2.jpg?v=1770001859
     Price: 42,99 $ CAD
 - [Tuyauteur T Shirt](https://osetee.ca/products/tuyauteur-t-shirt): Affiche fièrement ton métier.La collection Métiers OseTee célèbre celles et ceux qui bâtissent, créent et tiennent debout le Québec.Un design fort, une identité assumée, un vêtement fait pour durer. Disponible en t-shirt homme, femme et hoodie.Confort premium. Style streetwear. Fierté québécoise. 👉 Porte ce que tu es.
-  Updated: 2026-02-28T05:12:47Z
+  Updated: 2026-04-20T21:11:25Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -423,7 +423,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40361523_4_2.jpg?v=1770001792
     Price: 42,99 $ CAD
 - [Mécanicien Automobile T Shirt](https://osetee.ca/products/mecanicien-automobile-t-shirt): Affiche fièrement ton métier.La collection Métiers OseTee célèbre celles et ceux qui bâtissent, créent et tiennent debout le Québec.Un design fort, une identité assumée, un vêtement fait pour durer. Disponible en t-shirt homme, femme et hoodie.Confort premium. Style streetwear. Fierté québécoise. 👉 Porte ce que tu es.
-  Updated: 2026-02-28T05:12:47Z
+  Updated: 2026-04-20T21:11:25Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -629,7 +629,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40361522_4_2.jpg?v=1770001686
     Price: 42,99 $ CAD
 - [Mécanicien Machinerie Lourde T Shirt](https://osetee.ca/products/mecanicien-machinerie-lourde-t-shirt): Affiche fièrement ton métier.La collection Métiers OseTee célèbre celles et ceux qui bâtissent, créent et tiennent debout le Québec.Un design fort, une identité assumée, un vêtement fait pour durer. Disponible en t-shirt homme, femme et hoodie.Confort premium. Style streetwear. Fierté québécoise. 👉 Porte ce que tu es.
-  Updated: 2026-02-28T05:12:47Z
+  Updated: 2026-04-20T21:11:25Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -835,7 +835,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40361473_4_2.jpg?v=1770001022
     Price: 42,99 $ CAD
 - [Opérateur De Niveleuse T Shirt](https://osetee.ca/products/operateur-de-niveleuse-t-shirt): Affiche fièrement ton métier.La collection Métiers OseTee célèbre celles et ceux qui bâtissent, créent et tiennent debout le Québec.Un design fort, une identité assumée, un vêtement fait pour durer. Disponible en t-shirt homme, femme et hoodie.Confort premium. Style streetwear. Fierté québécoise. 👉 Porte ce que tu es.
-  Updated: 2026-02-28T05:12:48Z
+  Updated: 2026-04-20T21:11:26Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -1041,7 +1041,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40361472_4_2.jpg?v=1770000936
     Price: 42,99 $ CAD
 - [Opérateur De Pelle T Shirt](https://osetee.ca/products/operateur-de-pelle-t-shirt): Affiche fièrement ton métier.La collection Métiers OseTee célèbre celles et ceux qui bâtissent, créent et tiennent debout le Québec.Un design fort, une identité assumée, un vêtement fait pour durer. Disponible en t-shirt homme, femme et hoodie.Confort premium. Style streetwear. Fierté québécoise. 👉 Porte ce que tu es.
-  Updated: 2026-02-28T05:12:48Z
+  Updated: 2026-04-20T21:11:26Z
   Vendor: OseTee
   Product Type: T-Shirt
   Availability: Available
@@ -1247,7 +1247,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40361471_4_2.jpg?v=1770000833
     Price: 42,99 $ CAD
 - [Mécanicien Industriel T Shirt](https://osetee.ca/products/mecanicien-industriel-t-shirt): Affiche fièrement ton métier.La collection Métiers OseTee célèbre celles et ceux qui bâtissent, créent et tiennent debout le Québec.Un design fort, une identité assumée, un vêtement fait pour durer. Disponible en t-shirt homme, femme et hoodie.Confort premium. Style streetwear. Fierté québécoise. 👉 Porte ce que tu es.
-  Updated: 2026-02-28T05:12:48Z
+  Updated: 2026-04-20T21:11:26Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -1453,7 +1453,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40361470_4_2.jpg?v=1770000737
     Price: 42,99 $ CAD
 - [Soudeur T Shirt](https://osetee.ca/products/soudeur-t-shirt): Affiche fièrement ton métier.La collection Métiers OseTee célèbre celles et ceux qui bâtissent, créent et tiennent debout le Québec.Un design fort, une identité assumée, un vêtement fait pour durer. Disponible en t-shirt homme, femme et hoodie.Confort premium. Style streetwear. Fierté québécoise. 👉 Porte ce que tu es.
-  Updated: 2026-02-28T05:12:48Z
+  Updated: 2026-04-20T21:11:27Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -1659,7 +1659,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40361469_4_2.jpg?v=1770000629
     Price: 42,99 $ CAD
 - [Charpentier Menuisier T Shirt](https://osetee.ca/products/charpentier-menuisier-t-shirt): Affiche fièrement ton métier.La collection Métiers OseTee célèbre celles et ceux qui bâtissent, créent et tiennent debout le Québec.Un design fort, une identité assumée, un vêtement fait pour durer. Disponible en t-shirt homme, femme et hoodie.Confort premium. Style streetwear. Fierté québécoise. 👉 Porte ce que tu es.
-  Updated: 2026-02-28T05:12:48Z
+  Updated: 2026-04-20T21:11:27Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -1840,7 +1840,7 @@
     Availability: Available
     Price: 42,99 $ CAD
 - [Peintre T Shirt](https://osetee.ca/products/peintre-t-shirt): Affiche fièrement ton métier.La collection Métiers OseTee célèbre celles et ceux qui bâtissent, créent et tiennent debout le Québec.Un design fort, une identité assumée, un vêtement fait pour durer. Disponible en t-shirt homme, femme et hoodie.Confort premium. Style streetwear. Fierté québécoise. 👉 Porte ce que tu es.
-  Updated: 2026-02-28T05:12:48Z
+  Updated: 2026-04-20T21:11:27Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -2021,7 +2021,7 @@
     Availability: Available
     Price: 42,99 $ CAD
 - [Plâtrier T Shirt](https://osetee.ca/products/platrier-t-shirt): Affiche fièrement ton métier.La collection Métiers OseTee célèbre celles et ceux qui bâtissent, créent et tiennent debout le Québec.Un design fort, une identité assumée, un vêtement fait pour durer. Disponible en t-shirt homme, femme et hoodie.Confort premium. Style streetwear. Fierté québécoise. 👉 Porte ce que tu es.
-  Updated: 2026-02-28T05:12:48Z
+  Updated: 2026-04-20T21:11:27Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -2227,7 +2227,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40361406_4_2.jpg?v=1770000232
     Price: 42,99 $ CAD
 - [Opérateur T Shirt](https://osetee.ca/products/operateur-t-shirt): Affiche fièrement ton métier.La collection Métiers OseTee célèbre celles et ceux qui bâtissent, créent et tiennent debout le Québec.Un design fort, une identité assumée, un vêtement fait pour durer. Disponible en t-shirt homme, femme et hoodie.Confort premium. Style streetwear. Fierté québécoise. 👉 Porte ce que tu es.
-  Updated: 2026-02-28T05:12:49Z
+  Updated: 2026-04-20T21:11:28Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -2433,7 +2433,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40361405_4_2.jpg?v=1770000069
     Price: 42,99 $ CAD
 - [Ferrailleur T Shirt](https://osetee.ca/products/ferrailleur-t-shirt): Affiche fièrement ton métier.La collection Métiers OseTee célèbre celles et ceux qui bâtissent, créent et tiennent debout le Québec.Un design fort, une identité assumée, un vêtement fait pour durer. Disponible en t-shirt homme, femme et hoodie.Confort premium. Style streetwear. Fierté québécoise. 👉 Porte ce que tu es.
-  Updated: 2026-02-28T05:12:49Z
+  Updated: 2026-04-20T21:11:28Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -2614,7 +2614,7 @@
     Availability: Available
     Price: 42,99 $ CAD
 - [Grutier T Shirt](https://osetee.ca/products/grutier-t-shirt): Affiche fièrement ton métier.La collection Métiers OseTee célèbre celles et ceux qui bâtissent, créent et tiennent debout le Québec.Un design fort, une identité assumée, un vêtement fait pour durer. Disponible en t-shirt homme, femme et hoodie.Confort premium. Style streetwear. Fierté québécoise. 👉 Porte ce que tu es.
-  Updated: 2026-02-28T05:12:49Z
+  Updated: 2026-04-20T21:11:28Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -2795,7 +2795,7 @@
     Availability: Available
     Price: 42,99 $ CAD
 - [Plombier T Shirt](https://osetee.ca/products/plombier-t-shirt): Affiche fièrement ton métier.La collection Métiers OseTee célèbre celles et ceux qui bâtissent, créent et tiennent debout le Québec.Un design fort, une identité assumée, un vêtement fait pour durer. Disponible en t-shirt homme, femme et hoodie.Confort premium. Style streetwear. Fierté québécoise. 👉 Porte ce que tu es.
-  Updated: 2026-02-28T05:12:49Z
+  Updated: 2026-04-20T21:11:29Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -2976,7 +2976,7 @@
     Availability: Available
     Price: 42,99 $ CAD
 - [Électricien T Shirt](https://osetee.ca/products/electricien-t-shirt): Affiche fièrement ton métier.La collection Métiers OseTee célèbre celles et ceux qui bâtissent, créent et tiennent debout le Québec.Un design fort, une identité assumée, un vêtement fait pour durer. Disponible en t-shirt homme, femme et hoodie.Confort premium. Style streetwear. Fierté québécoise. 👉 Porte ce que tu es.
-  Updated: 2026-02-28T05:12:49Z
+  Updated: 2026-04-20T21:11:29Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -3157,7 +3157,7 @@
     Availability: Available
     Price: 42,99 $ CAD
 - [Cimentier T Shirt](https://osetee.ca/products/cimentier-t-shirt): Affiche fièrement ton métier.La collection Métiers OseTee célèbre celles et ceux qui bâtissent, créent et tiennent debout le Québec.Un design fort, une identité assumée, un vêtement fait pour durer. Disponible en t-shirt homme, femme et hoodie.Confort premium. Style streetwear. Fierté québécoise. 👉 Porte ce que tu es.
-  Updated: 2026-04-14T14:35:07Z
+  Updated: 2026-04-20T21:11:29Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -3338,7 +3338,7 @@
     Availability: Available
     Price: 42,99 $ CAD
 - [Artisan Du Bois T Shirt](https://osetee.ca/products/artisan-du-bois-t-shirt): Affiche fièrement ton métier.La collection Métiers OseTee célèbre celles et ceux qui bâtissent, créent et tiennent debout le Québec.Un design fort, une identité assumée, un vêtement fait pour durer. Disponible en t-shirt homme, femme et hoodie.Confort premium. Style streetwear. Fierté québécoise. 👉 Porte ce que tu es.
-  Updated: 2026-02-28T05:12:50Z
+  Updated: 2026-04-20T21:11:30Z
   Vendor: OseTee
   Product Type: T-Shirt
   Availability: Available
@@ -3519,7 +3519,7 @@
     Availability: Available
     Price: 42,99 $ CAD
 - [Patriotes Québec T Shirt](https://osetee.ca/products/patriotes-quebec-t-shirt): 🔥 Description produit – Collection OseTee Patriotes Affiche ce que tu es. Sans compromis. La collection OseTee Patriotes incarne une identité forte, debout et assumée. Inspirée par l’histoire, portée par le présent, chaque pièce est pensée comme un symbole : celui de la fierté, de la résilience et de la liberté d’esprit. Que ce soit en t-shirt homme, t-shirt femme ou hoodie, ce vêtement n’est pas une tendance. C’est une position. 🦉 Détails qui font la différence Design exclusif OseTee Patriotes Symboles puissants : harfang des neiges, fleur de lys, codes urbains Impression premium durable (DTF / sérigraphie selon modèle) Coupe confortable, moderne et polyvalente Pensé pour être porté au quotidien, en ville comme en événement 👕 Versions disponibles T-shirt homme : coupe droite, look streetwear affirmé T-shirt femme : coupe flatteuse, attitude assumée Hoodie unisexe : confort, chaleur et caractère ✊ Plus qu’un vêtement Porter OseTee, c’est choisir de ne pas s’effacer.C’est affirmer une culture vivante, moderne et fière. OseTee — Indépendant d’esprit.
-  Updated: 2026-02-28T05:12:50Z
+  Updated: 2026-04-20T21:11:30Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -3725,7 +3725,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40362131_4_2.jpg?v=1770084089
     Price: 42,99 $ CAD
 - [Patriotes Squad T Shirt](https://osetee.ca/products/patriotes-squad-t-shirt): 🔥 Description produit – Collection OseTee Patriotes Affiche ce que tu es. Sans compromis. La collection OseTee Patriotes incarne une identité forte, debout et assumée. Inspirée par l’histoire, portée par le présent, chaque pièce est pensée comme un symbole : celui de la fierté, de la résilience et de la liberté d’esprit. Que ce soit en t-shirt homme, t-shirt femme ou hoodie, ce vêtement n’est pas une tendance. C’est une position. 🦉 Détails qui font la différence Design exclusif OseTee Patriotes Symboles puissants : harfang des neiges, fleur de lys, codes urbains Impression premium durable (DTF / sérigraphie selon modèle) Coupe confortable, moderne et polyvalente Pensé pour être porté au quotidien, en ville comme en événement 👕 Versions disponibles T-shirt homme : coupe droite, look streetwear affirmé T-shirt femme : coupe flatteuse, attitude assumée Hoodie unisexe : confort, chaleur et caractère ✊ Plus qu’un vêtement Porter OseTee, c’est choisir de ne pas s’effacer.C’est affirmer une culture vivante, moderne et fière. OseTee — Indépendant d’esprit.
-  Updated: 2026-02-28T05:12:50Z
+  Updated: 2026-04-20T21:11:30Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -3931,7 +3931,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40362130_4_1.jpg?v=1770084019
     Price: 42,99 $ CAD
 - [15 Février 1839 T Shirt](https://osetee.ca/products/15-fevrier-1839-t-shirt): 🔥 Description produit – Collection OseTee Patriotes Affiche ce que tu es. Sans compromis. La collection OseTee Patriotes incarne une identité forte, debout et assumée. Inspirée par l’histoire, portée par le présent, chaque pièce est pensée comme un symbole : celui de la fierté, de la résilience et de la liberté d’esprit. Que ce soit en t-shirt homme, t-shirt femme ou hoodie, ce vêtement n’est pas une tendance. C’est une position. 🦉 Détails qui font la différence Design exclusif OseTee Patriotes Symboles puissants : harfang des neiges, fleur de lys, codes urbains Impression premium durable (DTF / sérigraphie selon modèle) Coupe confortable, moderne et polyvalente Pensé pour être porté au quotidien, en ville comme en événement 👕 Versions disponibles T-shirt homme : coupe droite, look streetwear affirmé T-shirt femme : coupe flatteuse, attitude assumée Hoodie unisexe : confort, chaleur et caractère ✊ Plus qu’un vêtement Porter OseTee, c’est choisir de ne pas s’effacer.C’est affirmer une culture vivante, moderne et fière. OseTee — Indépendant d’esprit.
-  Updated: 2026-02-28T05:12:50Z
+  Updated: 2026-04-20T21:11:31Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -4112,7 +4112,7 @@
     Availability: Available
     Price: 42,99 $ CAD
 - [Patriotes Niveau 2 T Shirt](https://osetee.ca/products/patriotes-niveau-2-t-shirt): 🔥 Description produit – Collection OseTee Patriotes Affiche ce que tu es. Sans compromis. La collection OseTee Patriotes incarne une identité forte, debout et assumée. Inspirée par l’histoire, portée par le présent, chaque pièce est pensée comme un symbole : celui de la fierté, de la résilience et de la liberté d’esprit. Que ce soit en t-shirt homme, t-shirt femme ou hoodie, ce vêtement n’est pas une tendance. C’est une position. 🦉 Détails qui font la différence Design exclusif OseTee Patriotes Symboles puissants : harfang des neiges, fleur de lys, codes urbains Impression premium durable (DTF / sérigraphie selon modèle) Coupe confortable, moderne et polyvalente Pensé pour être porté au quotidien, en ville comme en événement 👕 Versions disponibles T-shirt homme : coupe droite, look streetwear affirmé T-shirt femme : coupe flatteuse, attitude assumée Hoodie unisexe : confort, chaleur et caractère ✊ Plus qu’un vêtement Porter OseTee, c’est choisir de ne pas s’effacer.C’est affirmer une culture vivante, moderne et fière. OseTee — Indépendant d’esprit.
-  Updated: 2026-02-28T05:12:50Z
+  Updated: 2026-04-20T21:11:31Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -4294,7 +4294,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40361122_4_1.jpg?v=1770166530
     Price: 42,99 $ CAD
 - [Patriotes Nouvelle Génération T Shirt](https://osetee.ca/products/patriotes-nouvelle-generation-t-shirt): 🔥 Description produit – Collection OseTee Patriotes Affiche ce que tu es. Sans compromis. La collection OseTee Patriotes incarne une identité forte, debout et assumée. Inspirée par l’histoire, portée par le présent, chaque pièce est pensée comme un symbole : celui de la fierté, de la résilience et de la liberté d’esprit. Que ce soit en t-shirt homme, t-shirt femme ou hoodie, ce vêtement n’est pas une tendance. C’est une position. 🦉 Détails qui font la différence Design exclusif OseTee Patriotes Symboles puissants : harfang des neiges, fleur de lys, codes urbains Impression premium durable (DTF / sérigraphie selon modèle) Coupe confortable, moderne et polyvalente Pensé pour être porté au quotidien, en ville comme en événement 👕 Versions disponibles T-shirt homme : coupe droite, look streetwear affirmé T-shirt femme : coupe flatteuse, attitude assumée Hoodie unisexe : confort, chaleur et caractère ✊ Plus qu’un vêtement Porter OseTee, c’est choisir de ne pas s’effacer.C’est affirmer une culture vivante, moderne et fière. OseTee — Indépendant d’esprit.
-  Updated: 2026-02-28T05:12:51Z
+  Updated: 2026-04-20T21:11:31Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -4476,7 +4476,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40361120_4_1.jpg?v=1770166320
     Price: 42,99 $ CAD
 - [Patriotes Héritage T Shirt](https://osetee.ca/products/patriotes-heritage-t-shirt): 🔥 Description produit – Collection OseTee Patriotes Affiche ce que tu es. Sans compromis. La collection OseTee Patriotes incarne une identité forte, debout et assumée. Inspirée par l’histoire, portée par le présent, chaque pièce est pensée comme un symbole : celui de la fierté, de la résilience et de la liberté d’esprit. Que ce soit en t-shirt homme, t-shirt femme ou hoodie, ce vêtement n’est pas une tendance. C’est une position. 🦉 Détails qui font la différence Design exclusif OseTee Patriotes Symboles puissants : harfang des neiges, fleur de lys, codes urbains Impression premium durable (DTF / sérigraphie selon modèle) Coupe confortable, moderne et polyvalente Pensé pour être porté au quotidien, en ville comme en événement 👕 Versions disponibles T-shirt homme : coupe droite, look streetwear affirmé T-shirt femme : coupe flatteuse, attitude assumée Hoodie unisexe : confort, chaleur et caractère ✊ Plus qu’un vêtement Porter OseTee, c’est choisir de ne pas s’effacer.C’est affirmer une culture vivante, moderne et fière. OseTee — Indépendant d’esprit.
-  Updated: 2026-02-28T05:12:51Z
+  Updated: 2026-04-20T21:11:32Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -4658,7 +4658,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40361119_4_1.jpg?v=1770165892
     Price: 42,99 $ CAD
 - [Le Bleu Au Coeur T Shirt](https://osetee.ca/products/le-bleu-au-coeur-t-shirt): 🔥 Fiche produit – Collection Identité Québécoise | OseTee Affirme qui tu es. Sans détour. La collection Identité Québécoise OseTee incarne la fierté, la liberté d’esprit et la force tranquille du Québec. Chaque pièce est pensée comme un symbole : un message clair, un style streetwear assumé et une identité qui ne s’excuse pas d’exister. Disponible en t-shirt homme, t-shirt femme et hoodie, cette collection est faite pour celles et ceux qui avancent debout, avec conviction. 🦉 Ce qui fait la différence Design exclusif OseTee – Identité Québécoise Symboles forts et références culturelles d’ici Impression durable, conçue pour résister au temps Confort optimal pour un usage quotidien Style streetwear polyvalent : ville, événements, quotidien 👕 Choisis ton format T-shirt homme : coupe droite, look urbain affirmé T-shirt femme : coupe confortable et flatteuse Hoodie unisexe : chaleur, confort et attitude ✊ Plus qu’un vêtement Porter OseTee, c’est affirmer une culture vivante.C’est choisir l’authenticité plutôt que la conformité. OseTee – Indépendant d’esprit.
-  Updated: 2026-04-08T13:38:57Z
+  Updated: 2026-04-20T21:11:32Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -4864,7 +4864,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40361526_4_1.jpg?v=1770755322
     Price: 42,99 $ CAD
 - [Demain Nous Appartient TShirt](https://osetee.ca/products/a-partir-d-039-aujourd-039-hui-demain-nous-appartient-ladies-t-shirt): 🔥 Fiche produit – Collection Identité Québécoise | OseTee Affirme qui tu es. Sans détour. La collection Identité Québécoise OseTee incarne la fierté, la liberté d’esprit et la force tranquille du Québec. Chaque pièce est pensée comme un symbole : un message clair, un style streetwear assumé et une identité qui ne s’excuse pas d’exister. Disponible en t-shirt homme, t-shirt femme et hoodie, cette collection est faite pour celles et ceux qui avancent debout, avec conviction. 🦉 Ce qui fait la différence Design exclusif OseTee – Identité Québécoise Symboles forts et références culturelles d’ici Impression durable, conçue pour résister au temps Confort optimal pour un usage quotidien Style streetwear polyvalent : ville, événements, quotidien 👕 Choisis ton format T-shirt homme : coupe droite, look urbain affirmé T-shirt femme : coupe confortable et flatteuse Hoodie unisexe : chaleur, confort et attitude ✊ Plus qu’un vêtement Porter OseTee, c’est affirmer une culture vivante.C’est choisir l’authenticité plutôt que la conformité. OseTee – Indépendant d’esprit.
-  Updated: 2026-02-28T05:12:51Z
+  Updated: 2026-04-20T21:11:32Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -5046,7 +5046,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40361197_2_1.jpg?v=1770754914
     Price: 28,99 $ CAD
 - [Nous Vaincrons T Shirt](https://osetee.ca/products/nous-vaincrons-t-shirt): 🔥 Fiche produit – Collection Identité Québécoise | OseTee Affirme qui tu es. Sans détour. La collection Identité Québécoise OseTee incarne la fierté, la liberté d’esprit et la force tranquille du Québec. Chaque pièce est pensée comme un symbole : un message clair, un style streetwear assumé et une identité qui ne s’excuse pas d’exister. Disponible en t-shirt homme, t-shirt femme et hoodie, cette collection est faite pour celles et ceux qui avancent debout, avec conviction. 🦉 Ce qui fait la différence Design exclusif OseTee – Identité Québécoise Symboles forts et références culturelles d’ici Impression durable, conçue pour résister au temps Confort optimal pour un usage quotidien Style streetwear polyvalent : ville, événements, quotidien 👕 Choisis ton format T-shirt homme : coupe droite, look urbain affirmé T-shirt femme : coupe confortable et flatteuse Hoodie unisexe : chaleur, confort et attitude ✊ Plus qu’un vêtement Porter OseTee, c’est affirmer une culture vivante.C’est choisir l’authenticité plutôt que la conformité. OseTee – Indépendant d’esprit.
-  Updated: 2026-03-28T14:20:48Z
+  Updated: 2026-04-20T21:11:33Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -5226,7 +5226,7 @@
     Availability: Available
     Price: 42,99 $ CAD
 - [Québec Je Me Souverain T Shirt](https://osetee.ca/products/quebec-je-me-souverain-t-shirt): 🔥 Fiche produit – Collection Identité Québécoise | OseTee Affirme qui tu es. Sans détour. La collection Identité Québécoise OseTee incarne la fierté, la liberté d’esprit et la force tranquille du Québec. Chaque pièce est pensée comme un symbole : un message clair, un style streetwear assumé et une identité qui ne s’excuse pas d’exister. Disponible en t-shirt homme, t-shirt femme et hoodie, cette collection est faite pour celles et ceux qui avancent debout, avec conviction. 🦉 Ce qui fait la différence Design exclusif OseTee – Identité Québécoise Symboles forts et références culturelles d’ici Impression durable, conçue pour résister au temps Confort optimal pour un usage quotidien Style streetwear polyvalent : ville, événements, quotidien 👕 Choisis ton format T-shirt homme : coupe droite, look urbain affirmé T-shirt femme : coupe confortable et flatteuse Hoodie unisexe : chaleur, confort et attitude ✊ Plus qu’un vêtement Porter OseTee, c’est affirmer une culture vivante.C’est choisir l’authenticité plutôt que la conformité. OseTee – Indépendant d’esprit.
-  Updated: 2026-02-28T05:12:51Z
+  Updated: 2026-04-20T21:11:33Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -5407,7 +5407,7 @@
     Availability: Available
     Price: 42,99 $ CAD
 - [Coeur Québécois T Shirt](https://osetee.ca/products/coeur-quebecois-t-shirt): 🔥 Fiche produit – Collection Identité Québécoise | OseTee Affirme qui tu es. Sans détour. La collection Identité Québécoise OseTee incarne la fierté, la liberté d’esprit et la force tranquille du Québec. Chaque pièce est pensée comme un symbole : un message clair, un style streetwear assumé et une identité qui ne s’excuse pas d’exister. Disponible en t-shirt homme, t-shirt femme et hoodie, cette collection est faite pour celles et ceux qui avancent debout, avec conviction. 🦉 Ce qui fait la différence Design exclusif OseTee – Identité Québécoise Symboles forts et références culturelles d’ici Impression durable, conçue pour résister au temps Confort optimal pour un usage quotidien Style streetwear polyvalent : ville, événements, quotidien 👕 Choisis ton format T-shirt homme : coupe droite, look urbain affirmé T-shirt femme : coupe confortable et flatteuse Hoodie unisexe : chaleur, confort et attitude ✊ Plus qu’un vêtement Porter OseTee, c’est affirmer une culture vivante.C’est choisir l’authenticité plutôt que la conformité. OseTee – Indépendant d’esprit.
-  Updated: 2026-02-28T05:12:52Z
+  Updated: 2026-04-20T21:11:33Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -5613,7 +5613,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40360908_4_1.jpg?v=1770753419
     Price: 42,99 $ CAD
 - [Le Québec Un Pays T Shirt](https://osetee.ca/products/le-quebec-un-pays-t-shirt): 🔥 Fiche produit – Collection Identité Québécoise | OseTee Affirme qui tu es. Sans détour. La collection Identité Québécoise OseTee incarne la fierté, la liberté d’esprit et la force tranquille du Québec. Chaque pièce est pensée comme un symbole : un message clair, un style streetwear assumé et une identité qui ne s’excuse pas d’exister. Disponible en t-shirt homme, t-shirt femme et hoodie, cette collection est faite pour celles et ceux qui avancent debout, avec conviction. 🦉 Ce qui fait la différence Design exclusif OseTee – Identité Québécoise Symboles forts et références culturelles d’ici Impression durable, conçue pour résister au temps Confort optimal pour un usage quotidien Style streetwear polyvalent : ville, événements, quotidien 👕 Choisis ton format T-shirt homme : coupe droite, look urbain affirmé T-shirt femme : coupe confortable et flatteuse Hoodie unisexe : chaleur, confort et attitude ✊ Plus qu’un vêtement Porter OseTee, c’est affirmer une culture vivante.C’est choisir l’authenticité plutôt que la conformité. OseTee – Indépendant d’esprit.
-  Updated: 2026-03-28T14:20:39Z
+  Updated: 2026-04-20T21:11:34Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -5819,7 +5819,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40360863_4_1.jpg?v=1770753255
     Price: 42,99 $ CAD
 - [Montréal Légende Urbaine T Shirt](https://osetee.ca/products/montreal-legende-urbaine-t-shirt): 🔥 Fiche produit – Collection Identité Québécoise | OseTee Affirme qui tu es. Sans détour. La collection Identité Québécoise OseTee incarne la fierté, la liberté d’esprit et la force tranquille du Québec. Chaque pièce est pensée comme un symbole : un message clair, un style streetwear assumé et une identité qui ne s’excuse pas d’exister. Disponible en t-shirt homme, t-shirt femme et hoodie, cette collection est faite pour celles et ceux qui avancent debout, avec conviction. 🦉 Ce qui fait la différence Design exclusif OseTee – Identité Québécoise Symboles forts et références culturelles d’ici Impression durable, conçue pour résister au temps Confort optimal pour un usage quotidien Style streetwear polyvalent : ville, événements, quotidien 👕 Choisis ton format T-shirt homme : coupe droite, look urbain affirmé T-shirt femme : coupe confortable et flatteuse Hoodie unisexe : chaleur, confort et attitude ✊ Plus qu’un vêtement Porter OseTee, c’est affirmer une culture vivante.C’est choisir l’authenticité plutôt que la conformité. OseTee – Indépendant d’esprit.
-  Updated: 2026-02-28T05:12:52Z
+  Updated: 2026-04-20T21:11:34Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -6025,7 +6025,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40360650_4_1.jpg?v=1770752697
     Price: 42,99 $ CAD
 - [Québec Légende Urbaine T Shirt](https://osetee.ca/products/quebec-legende-urbaine-t-shirt): 🔥 Fiche produit – Collection Identité Québécoise | OseTee Affirme qui tu es. Sans détour. La collection Identité Québécoise OseTee incarne la fierté, la liberté d’esprit et la force tranquille du Québec. Chaque pièce est pensée comme un symbole : un message clair, un style streetwear assumé et une identité qui ne s’excuse pas d’exister. Disponible en t-shirt homme, t-shirt femme et hoodie, cette collection est faite pour celles et ceux qui avancent debout, avec conviction. 🦉 Ce qui fait la différence Design exclusif OseTee – Identité Québécoise Symboles forts et références culturelles d’ici Impression durable, conçue pour résister au temps Confort optimal pour un usage quotidien Style streetwear polyvalent : ville, événements, quotidien 👕 Choisis ton format T-shirt homme : coupe droite, look urbain affirmé. T-shirt femme : coupe confortable et flatteuse Hoodie unisexe : chaleur, confort et attitude ✊ Plus qu’un vêtement Porter OseTee, c’est affirmer une culture vivante.C’est choisir l’authenticité plutôt que la conformité. OseTee – Indépendant d’esprit.
-  Updated: 2026-02-28T05:12:52Z
+  Updated: 2026-04-20T21:11:34Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -6231,7 +6231,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40360649_4_1.jpg?v=1770752272
     Price: 42,99 $ CAD
 - [Parle Moi Francais T Shirt](https://osetee.ca/products/parle-moi-francais-t-shirt): 🔥 Fiche produit – Collection Identité Québécoise | OseTee Affirme qui tu es. Sans détour. La collection Identité Québécoise OseTee incarne la fierté, la liberté d’esprit et la force tranquille du Québec. Chaque pièce est pensée comme un symbole : un message clair, un style streetwear assumé et une identité qui ne s’excuse pas d’exister. Disponible en t-shirt homme, t-shirt femme et hoodie, cette collection est faite pour celles et ceux qui avancent debout, avec conviction. 🦉 Ce qui fait la différence Design exclusif OseTee – Identité Québécoise Symboles forts et références culturelles d’ici Impression durable, conçue pour résister au temps Confort optimal pour un usage quotidien Style streetwear polyvalent : ville, événements, quotidien 👕 Choisis ton format T-shirt homme : coupe droite, look urbain affirmé T-shirt femme : coupe confortable et flatteuse Hoodie unisexe : chaleur, confort et attitude ✊ Plus qu’un vêtement Porter OseTee, c’est affirmer une culture vivante.C’est choisir l’authenticité plutôt que la conformité. OseTee – Indépendant d’esprit.
-  Updated: 2026-02-28T05:12:52Z
+  Updated: 2026-04-20T21:11:34Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -6406,7 +6406,7 @@
     Availability: Available
     Price: 42,99 $ CAD
 - [Oui  T Shirt](https://osetee.ca/products/oui-ladies-t-shirt): 🔥 Fiche produit – Collection Identité Québécoise | OseTee Affirme qui tu es. Sans détour. La collection Identité Québécoise OseTee incarne la fierté, la liberté d’esprit et la force tranquille du Québec. Chaque pièce est pensée comme un symbole : un message clair, un style streetwear assumé et une identité qui ne s’excuse pas d’exister. Disponible en t-shirt homme, t-shirt femme et hoodie, cette collection est faite pour celles et ceux qui avancent debout, avec conviction. 🦉 Ce qui fait la différence Design exclusif OseTee – Identité Québécoise Symboles forts et références culturelles d’ici Impression durable, conçue pour résister au temps Confort optimal pour un usage quotidien Style streetwear polyvalent : ville, événements, quotidien 👕 Choisis ton format T-shirt homme : coupe droite, look urbain affirmé T-shirt femme : coupe confortable et flatteuse Hoodie unisexe : chaleur, confort et attitude ✊ Plus qu’un vêtement Porter OseTee, c’est affirmer une culture vivante.C’est choisir l’authenticité plutôt que la conformité. OseTee – Indépendant d’esprit.
-  Updated: 2026-03-27T15:14:58Z
+  Updated: 2026-04-20T21:11:35Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -6612,7 +6612,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40358490_2_1.jpg?v=1770752510
     Price: 28,99 $ CAD
 - [Vive le Quebec libre unisexe Tshirt](https://osetee.ca/products/vive-le-quebec-libre-unisexe-tshirt): ⚜️ T-Shirt Identité Québécoise – Coupe Classique Unisexe Affirme qui tu es.Porte l’Identité Québécoise avec fierté. Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage. Un essentiel solide. Un message fort. Une identité assumée. 🔥 Pourquoi tu vas l’aimer ✔ Coupe structurée qui garde sa forme✔ Tissu résistant et confortable✔ Tombé net, look propre et streetwear✔ Idéal homme et femme✔ Impression haute qualité OseTee ⚙️ Caractéristiques techniques • 100 % coton• Sport Grey : 90 % coton / 10 % polyester• Ash Grey : 99 % coton / 1 % polyester• Heather : 50 % coton / 50 % polyester• Poids : 170–180 g/m²• Jersey pré-rétréci• Construction tubulaire• Bande de propreté col et épaules• Double couture manches et bas• Étiquette détachable 🧼 Entretien Lavage à l’envers à froidSécher à basse températureNe pas repasser directement sur l’impression 🌎 Fabrication responsable Produit fabriqué à la demande.Aucun minimum.Moins de surproduction. Plus d’intention. ⚜️ Collection Identité Québécoise Cette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise.OseTee ne vend pas un simple vêtement.On imprime une identité.
-  Updated: 2026-02-28T05:12:53Z
+  Updated: 2026-04-20T21:11:35Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -6690,7 +6690,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sport-grey-front-698d22349eec7.jpg?v=1770859081
     Price: 34,00 $ CAD
 - [T-shirt unisexe Tokebakicitte](https://osetee.ca/products/t-shirt-unisexe-tokebakicitte): ⚜️ T-Shirt Identité Québécoise – Coupe Classique Unisexe Affirme qui tu es. Porte l’Identité Québécoise avec fierté. Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage. Un essentiel solide. Un message fort. Une identité assumée. 🔥 Pourquoi tu vas l’aimer ✔ Coupe structurée qui garde sa forme ✔ Tissu résistant et confortable ✔ Tombé net, look propre et streetwear ✔ Idéal homme et femme ✔ Impression haute qualité OseTee ⚙️ Caractéristiques techniques • 100 % coton • Sport Grey : 90 % coton / 10 % polyester • Ash Grey : 99 % coton / 1 % polyester • Heather : 50 % coton / 50 % polyester • Poids : 170–180 g/m² • Jersey pré-rétréci • Construction tubulaire • Bande de propreté col et épaules • Double couture manches et bas • Étiquette détachable 🧼 Entretien Lavage à l’envers à froid Sécher à basse température Ne pas repasser directement sur l’impression 🌎 Fabrication responsable Produit fabriqué à la demande. Aucun minimum. Moins de surproduction. Plus d’intention. ⚜️ Collection Identité Québécoise Cette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise. OseTee ne vend pas un simple vêtement. On imprime une identité.
-  Updated: 2026-02-28T05:12:53Z
+  Updated: 2026-04-20T21:11:35Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -6896,7 +6896,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-staple-t-shirt-heather-forest-front-698e85601cc01.jpg?v=1770949010
     Price: 27,00 $ CAD
 - [En français sil vous plait T-shirt unisexe](https://osetee.ca/products/t-shirt-unisexe): ⚜️ T-Shirt Identité Québécoise – Coupe Classique UnisexeAffirme qui tu es.Porte l’Identité Québécoise avec fierté.Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage.Un essentiel solide. Un message fort. Une identité assumée.🔥 Pourquoi tu vas l’aimer✔ Coupe structurée qui garde sa forme✔ Tissu résistant et confortable✔ Tombé net, look propre et streetwear✔ Idéal homme et femme✔ Impression haute qualité OseTee⚙️ Caractéristiques techniques• 100 % coton• Sport Grey : 90 % coton / 10 % polyester• Ash Grey : 99 % coton / 1 % polyester• Heather : 50 % coton / 50 % polyester• Poids : 170–180 g/m²• Jersey pré-rétréci• Construction tubulaire• Bande de propreté col et épaules• Double couture manches et bas• Étiquette détachable🧼 EntretienLavage à l’envers à froidSécher à basse températureNe pas repasser directement sur l’impression🌎 Fabrication responsableProduit fabriqué à la demande.Aucun minimum.Moins de surproduction. Plus d’intention.⚜️ Collection Identité QuébécoiseCette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise.OseTee ne vend pas un simple vêtement.On imprime une identité.
-  Updated: 2026-02-28T05:12:53Z
+  Updated: 2026-04-20T21:11:36Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -7102,7 +7102,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-staple-t-shirt-heather-forest-front-698fc3e92d55e.jpg?v=1771031125
     Price: 27,00 $ CAD
 - [Attache ta tuque avec de la broche T-shirt unisexe](https://osetee.ca/products/t-shirt-unisexe-1): ⚜️ T-Shirt Identité Québécoise – Coupe Classique UnisexeAffirme qui tu es.Porte l’Identité Québécoise avec fierté.Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage.Un essentiel solide. Un message fort. Une identité assumée.🔥 Pourquoi tu vas l’aimer✔ Coupe structurée qui garde sa forme✔ Tissu résistant et confortable✔ Tombé net, look propre et streetwear✔ Idéal homme et femme✔ Impression haute qualité OseTee⚙️ Caractéristiques techniques• 100 % coton• Sport Grey : 90 % coton / 10 % polyester• Ash Grey : 99 % coton / 1 % polyester• Heather : 50 % coton / 50 % polyester• Poids : 170–180 g/m²• Jersey pré-rétréci• Construction tubulaire• Bande de propreté col et épaules• Double couture manches et bas• Étiquette détachable🧼 EntretienLavage à l’envers à froidSécher à basse températureNe pas repasser directement sur l’impression🌎 Fabrication responsableProduit fabriqué à la demande.Aucun minimum.Moins de surproduction. Plus d’intention.⚜️ Collection Identité QuébécoiseCette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise.OseTee ne vend pas un simple vêtement.On imprime une identité.
-  Updated: 2026-02-28T05:12:53Z
+  Updated: 2026-04-20T21:11:36Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -7308,7 +7308,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-staple-t-shirt-heather-forest-front-698fc542d6f84.jpg?v=1771030565
     Price: 27,00 $ CAD
 - [Indomptable Unisexe Tshirt](https://osetee.ca/products/indomptable-unisexe-tshirt): ⚜️ T-Shirt Identité Québécoise – Coupe Classique Unisexe Affirme qui tu es. Porte l’Identité Québécoise avec fierté. Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage. Un essentiel solide. Un message fort. Une identité assumée. 🔥 Pourquoi tu vas l’aimer ✔ Coupe structurée qui garde sa forme ✔ Tissu résistant et confortable ✔ Tombé net, look propre et streetwear ✔ Idéal homme et femme ✔ Impression haute qualité OseTee ⚙️ Caractéristiques techniques • 100 % coton • Sport Grey : 90 % coton / 10 % polyester • Ash Grey : 99 % coton / 1 % polyester • Heather : 50 % coton / 50 % polyester • Poids : 170–180 g/m² • Jersey pré-rétréci • Construction tubulaire • Bande de propreté col et épaules • Double couture manches et bas • Étiquette détachable 🧼 Entretien Lavage à l’envers à froid Sécher à basse température Ne pas repasser directement sur l’impression 🌎 Fabrication responsable Produit fabriqué à la demande. Aucun minimum. Moins de surproduction. Plus d’intention. ⚜️ Collection Identité Québécoise Cette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise. OseTee ne vend pas un simple vêtement. On imprime une identité.
-  Updated: 2026-02-28T05:12:53Z
+  Updated: 2026-04-20T21:11:36Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -7514,7 +7514,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-staple-t-shirt-heather-deep-teal-front-6992530d488c1.jpg?v=1771201342
     Price: 27,00 $ CAD
 - [Icitte on se comprend T-shirt unisexe](https://osetee.ca/products/icitte-on-ce-comprend-t-shirt-unisexe): ⚜️ T-Shirt Identité Québécoise – Coupe Classique Unisexe Affirme qui tu es. Porte l’Identité Québécoise avec fierté. Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage. Un essentiel solide. Un message fort. Une identité assumée. 🔥 Pourquoi tu vas l’aimer ✔ Coupe structurée qui garde sa forme ✔ Tissu résistant et confortable ✔ Tombé net, look propre et streetwear ✔ Idéal homme et femme ✔ Impression haute qualité OseTee ⚙️ Caractéristiques techniques • 100 % coton • Sport Grey : 90 % coton / 10 % polyester • Ash Grey : 99 % coton / 1 % polyester • Heather : 50 % coton / 50 % polyester • Poids : 170–180 g/m² • Jersey pré-rétréci • Construction tubulaire • Bande de propreté col et épaules • Double couture manches et bas • Étiquette détachable 🧼 Entretien Lavage à l’envers à froid Sécher à basse température Ne pas repasser directement sur l’impression 🌎 Fabrication responsable Produit fabriqué à la demande. Aucun minimum. Moins de surproduction. Plus d’intention. ⚜️ Collection Identité Québécoise Cette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise. OseTee ne vend pas un simple vêtement. On imprime une identité.
-  Updated: 2026-02-28T05:12:53Z
+  Updated: 2026-04-20T21:11:37Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -7720,7 +7720,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-staple-t-shirt-heather-forest-front-699255eef1bbb.jpg?v=1771200633
     Price: 27,00 $ CAD
 - [OseTee indomptable T-shirt unisexe](https://osetee.ca/products/osetee-indomptable-t-shirt-unisexe): ⚜️ T-Shirt Identité Québécoise – Coupe Classique Unisexe Affirme qui tu es. Porte l’Identité Québécoise avec fierté. Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage. Un essentiel solide. Un message fort. Une identité assumée. 🔥 Pourquoi tu vas l’aimer ✔ Coupe structurée qui garde sa forme ✔ Tissu résistant et confortable ✔ Tombé net, look propre et streetwear ✔ Idéal homme et femme ✔ Impression haute qualité OseTee ⚙️ Caractéristiques techniques • 100 % coton • Sport Grey : 90 % coton / 10 % polyester • Ash Grey : 99 % coton / 1 % polyester • Heather : 50 % coton / 50 % polyester • Poids : 170–180 g/m² • Jersey pré-rétréci • Construction tubulaire • Bande de propreté col et épaules • Double couture manches et bas • Étiquette détachable 🧼 Entretien Lavage à l’envers à froid Sécher à basse température Ne pas repasser directement sur l’impression 🌎 Fabrication responsable Produit fabriqué à la demande. Aucun minimum. Moins de surproduction. Plus d’intention. ⚜️ Collection Identité Québécoise Cette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise. OseTee ne vend pas un simple vêtement. On imprime une identité.
-  Updated: 2026-02-28T05:12:54Z
+  Updated: 2026-04-20T21:11:37Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -7926,7 +7926,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-staple-t-shirt-mustard-front-699257cf951a2.jpg?v=1771200440
     Price: 27,00 $ CAD
 - [Indépendant d esprit  T-shirt unisexe](https://osetee.ca/products/independant-d-esprit-t-shirt-unisexe): ⚜️ T-Shirt Identité Québécoise – Coupe Classique Unisexe Affirme qui tu es. Porte l’Identité Québécoise avec fierté. Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage. Un essentiel solide. Un message fort. Une identité assumée. 🔥 Pourquoi tu vas l’aimer ✔ Coupe structurée qui garde sa forme ✔ Tissu résistant et confortable ✔ Tombé net, look propre et streetwear ✔ Idéal homme et femme ✔ Impression haute qualité OseTee ⚙️ Caractéristiques techniques • 100 % coton • Sport Grey : 90 % coton / 10 % polyester • Ash Grey : 99 % coton / 1 % polyester • Heather : 50 % coton / 50 % polyester • Poids : 170–180 g/m² • Jersey pré-rétréci • Construction tubulaire • Bande de propreté col et épaules • Double couture manches et bas • Étiquette détachable 🧼 Entretien Lavage à l’envers à froid Sécher à basse température Ne pas repasser directement sur l’impression 🌎 Fabrication responsable Produit fabriqué à la demande. Aucun minimum. Moins de surproduction. Plus d’intention. ⚜️ Collection Identité Québécoise Cette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise. OseTee ne vend pas un simple vêtement. On imprime une identité.
-  Updated: 2026-02-28T05:12:54Z
+  Updated: 2026-04-20T21:11:37Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -8132,7 +8132,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-staple-t-shirt-heather-forest-front-699259cea10c8.jpg?v=1771199898
     Price: 27,50 $ CAD
 - [Quebec Insoumis T-shirt classique unisexe](https://osetee.ca/products/quebec-insoumis-t-shirt-classique-unisexe): ⚜️ T-Shirt Identité Québécoise – Coupe Classique Unisexe Affirme qui tu es. Porte l’Identité Québécoise avec fierté. Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage. Un essentiel solide. Un message fort. Une identité assumée. 🔥 Pourquoi tu vas l’aimer ✔ Coupe structurée qui garde sa forme ✔ Tissu résistant et confortable ✔ Tombé net, look propre et streetwear ✔ Idéal homme et femme ✔ Impression haute qualité OseTee ⚙️ Caractéristiques techniques • 100 % coton • Sport Grey : 90 % coton / 10 % polyester • Ash Grey : 99 % coton / 1 % polyester • Heather : 50 % coton / 50 % polyester • Poids : 170–180 g/m² • Jersey pré-rétréci • Construction tubulaire • Bande de propreté col et épaules • Double couture manches et bas • Étiquette détachable 🧼 Entretien Lavage à l’envers à froid Sécher à basse température Ne pas repasser directement sur l’impression 🌎 Fabrication responsable Produit fabriqué à la demande. Aucun minimum. Moins de surproduction. Plus d’intention. ⚜️ Collection Identité Québécoise Cette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise. OseTee ne vend pas un simple vêtement. On imprime une identité.
-  Updated: 2026-02-28T05:12:54Z
+  Updated: 2026-04-20T21:11:37Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -8209,7 +8209,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sport-grey-front-6993b7a4e9cb6.jpg?v=1771288761
     Price: 34,00 $ CAD
 - [Québécois de naissance mais légendaire par choix T-shirt unisexe](https://osetee.ca/products/quebecois-d-origine-mais-legendaire-par-choix-t-shirt-unisexe): ⚜️ T-Shirt Identité Québécoise – Coupe Classique Unisexe Affirme qui tu es. Porte l’Identité Québécoise avec fierté. Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage. Un essentiel solide. Un message fort. Une identité assumée. 🔥 Pourquoi tu vas l’aimer ✔ Coupe structurée qui garde sa forme ✔ Tissu résistant et confortable ✔ Tombé net, look propre et streetwear ✔ Idéal homme et femme ✔ Impression haute qualité OseTee ⚙️ Caractéristiques techniques • 100 % coton • Sport Grey : 90 % coton / 10 % polyester • Ash Grey : 99 % coton / 1 % polyester • Heather : 50 % coton / 50 % polyester • Poids : 170–180 g/m² • Jersey pré-rétréci • Construction tubulaire • Bande de propreté col et épaules • Double couture manches et bas • Étiquette détachable 🧼 Entretien Lavage à l’envers à froid Sécher à basse température Ne pas repasser directement sur l’impression 🌎 Fabrication responsable Produit fabriqué à la demande. Aucun minimum. Moins de surproduction. Plus d’intention. ⚜️ Collection Identité Québécoise Cette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise. OseTee ne vend pas un simple vêtement. On imprime une identité.
-  Updated: 2026-02-28T05:12:54Z
+  Updated: 2026-04-20T21:11:38Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -8415,7 +8415,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-staple-t-shirt-heather-forest-front-69964474d539d.jpg?v=1771455781
     Price: 27,50 $ CAD
 - [Survivant de 400 ans de tentatives d extinctions T-shirt unisexe](https://osetee.ca/products/survivant-de-400-ans-de-tentatives-d-extinctions-t-shirt-unisexe): ⚜️ T-Shirt Identité Québécoise – Coupe Classique Unisexe Affirme qui tu es. Porte l’Identité Québécoise avec fierté. Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage. Un essentiel solide. Un message fort. Une identité assumée. 🔥 Pourquoi tu vas l’aimer ✔ Coupe structurée qui garde sa forme ✔ Tissu résistant et confortable ✔ Tombé net, look propre et streetwear ✔ Idéal homme et femme ✔ Impression haute qualité OseTee ⚙️ Caractéristiques techniques • 100 % coton • Sport Grey : 90 % coton / 10 % polyester • Ash Grey : 99 % coton / 1 % polyester • Heather : 50 % coton / 50 % polyester • Poids : 170–180 g/m² • Jersey pré-rétréci • Construction tubulaire • Bande de propreté col et épaules • Double couture manches et bas • Étiquette détachable 🧼 Entretien Lavage à l’envers à froid Sécher à basse température Ne pas repasser directement sur l’impression 🌎 Fabrication responsable Produit fabriqué à la demande. Aucun minimum. Moins de surproduction. Plus d’intention. ⚜️ Collection Identité Québécoise Cette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise. OseTee ne vend pas un simple vêtement. On imprime une identité.
-  Updated: 2026-02-28T05:12:54Z
+  Updated: 2026-04-20T21:11:38Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -8621,7 +8621,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-staple-t-shirt-heather-forest-front-69964890b980a.jpg?v=1771457497
     Price: 27,50 $ CAD
 - [Libre même quand ça dérange T-shirt unisexe](https://osetee.ca/products/t-shirt-unisexe-2): ⚜️ T-Shirt Identité Québécoise – Coupe Classique Unisexe Affirme qui tu es. Porte l’Identité Québécoise avec fierté. Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage. Un essentiel solide. Un message fort. Une identité assumée. 🔥 Pourquoi tu vas l’aimer ✔ Coupe structurée qui garde sa forme ✔ Tissu résistant et confortable ✔ Tombé net, look propre et streetwear ✔ Idéal homme et femme ✔ Impression haute qualité OseTee ⚙️ Caractéristiques techniques • 100 % coton • Sport Grey : 90 % coton / 10 % polyester • Ash Grey : 99 % coton / 1 % polyester • Heather : 50 % coton / 50 % polyester • Poids : 170–180 g/m² • Jersey pré-rétréci • Construction tubulaire • Bande de propreté col et épaules • Double couture manches et bas • Étiquette détachable 🧼 Entretien Lavage à l’envers à froid Sécher à basse température Ne pas repasser directement sur l’impression 🌎 Fabrication responsable Produit fabriqué à la demande. Aucun minimum. Moins de surproduction. Plus d’intention. ⚜️ Collection Identité Québécoise Cette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise. OseTee ne vend pas un simple vêtement. On imprime une identité.
-  Updated: 2026-02-28T05:12:54Z
+  Updated: 2026-04-20T21:11:38Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -8827,7 +8827,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-staple-t-shirt-heather-deep-teal-front-699649b79f9d5.jpg?v=1771458677
     Price: 27,00 $ CAD
 - [Irreductibles T-shirt classique unisexe](https://osetee.ca/products/irreductibles-t-shirt-classique-unisexe): ⚜️ T-Shirt Identité Québécoise – Coupe Classique Unisexe Affirme qui tu es. Porte l’Identité Québécoise avec fierté. Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage. Un essentiel solide. Un message fort. Une identité assumée. 🔥 Pourquoi tu vas l’aimer ✔ Coupe structurée qui garde sa forme ✔ Tissu résistant et confortable ✔ Tombé net, look propre et streetwear ✔ Idéal homme et femme ✔ Impression haute qualité OseTee ⚙️ Caractéristiques techniques • 100 % coton • Sport Grey : 90 % coton / 10 % polyester • Ash Grey : 99 % coton / 1 % polyester • Heather : 50 % coton / 50 % polyester • Poids : 170–180 g/m² • Jersey pré-rétréci • Construction tubulaire • Bande de propreté col et épaules • Double couture manches et bas • Étiquette détachable 🧼 Entretien Lavage à l’envers à froid Sécher à basse température Ne pas repasser directement sur l’impression 🌎 Fabrication responsable Produit fabriqué à la demande. Aucun minimum. Moins de surproduction. Plus d’intention. ⚜️ Collection Identité Québécoise Cette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise. OseTee ne vend pas un simple vêtement. On imprime une identité.
-  Updated: 2026-02-28T05:12:55Z
+  Updated: 2026-04-20T21:11:38Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -8953,7 +8953,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69964b14692e0.jpg?v=1771458953
     Price: 34,00 $ CAD
 - [Equipe Quebec t-shirt homme,t-shirt femme & hoodie.](https://osetee.ca/products/equipe-quebec-t-shirt): 🔥 Fiche produit – Collection Identité Québécoise | OseTee Affirme qui tu es. Sans détour. La collection Identité Québécoise OseTee incarne la fierté, la liberté d’esprit et la force tranquille du Québec. Chaque pièce est pensée comme un symbole : un message clair, un style streetwear assumé et une identité qui ne s’excuse pas d’exister. Disponible en t-shirt homme, t-shirt femme et hoodie, cette collection est faite pour celles et ceux qui avancent debout, avec conviction. 🦉 Ce qui fait la différence Design exclusif OseTee – Identité Québécoise Symboles forts et références culturelles d’ici Impression durable, conçue pour résister au temps Confort optimal pour un usage quotidien Style streetwear polyvalent : ville, événements, quotidien 👕 Choisis ton format T-shirt homme : coupe droite, look urbain affirmé T-shirt femme : coupe confortable et flatteuse Hoodie unisexe : chaleur, confort et attitude ✊ Plus qu’un vêtement Porter OseTee, c’est affirmer une culture vivante.C’est choisir l’authenticité plutôt que la conformité. OseTee – Indépendant d’esprit.
-  Updated: 2026-02-28T05:12:55Z
+  Updated: 2026-04-20T21:11:39Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -9135,7 +9135,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40364005_4_1.jpg?v=1771529509
     Price: 42,99 $ CAD
 - [Ben Voyons Donc !T-shirt classique unisexe](https://osetee.ca/products/ben-voyons-donc-t-shirt-classique-unisexe): ⚜️ T-Shirt Identité Québécoise – Coupe Classique Unisexe Affirme qui tu es. Porte l’Identité Québécoise avec fierté. Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage. Un essentiel solide. Un message fort. Une identité assumée. 🔥 Pourquoi tu vas l’aimer ✔ Coupe structurée qui garde sa forme ✔ Tissu résistant et confortable ✔ Tombé net, look propre et streetwear ✔ Idéal homme et femme ✔ Impression haute qualité OseTee ⚙️ Caractéristiques techniques • 100 % coton • Sport Grey : 90 % coton / 10 % polyester • Ash Grey : 99 % coton / 1 % polyester • Heather : 50 % coton / 50 % polyester • Poids : 170–180 g/m² • Jersey pré-rétréci • Construction tubulaire • Bande de propreté col et épaules • Double couture manches et bas • Étiquette détachable 🧼 Entretien Lavage à l’envers à froid Sécher à basse température Ne pas repasser directement sur l’impression 🌎 Fabrication responsable Produit fabriqué à la demande. Aucun minimum. Moins de surproduction. Plus d’intention. ⚜️ Collection Identité Québécoise Cette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise. OseTee ne vend pas un simple vêtement. On imprime une identité.
-  Updated: 2026-02-28T05:12:55Z
+  Updated: 2026-04-20T21:11:39Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -9261,7 +9261,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-6998ee76dc8e5.jpg?v=1771631907
     Price: 33,50 $ CAD
 - [Ben Coudonc ! T-shirt classique unisexe](https://osetee.ca/products/ben-coudonc-t-shirt-classique-unisexe): ⚜️ T-Shirt Identité Québécoise – Coupe Classique Unisexe Affirme qui tu es. Porte l’Identité Québécoise avec fierté. Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage. Un essentiel solide. Un message fort. Une identité assumée. 🔥 Pourquoi tu vas l’aimer ✔ Coupe structurée qui garde sa forme ✔ Tissu résistant et confortable ✔ Tombé net, look propre et streetwear ✔ Idéal homme et femme ✔ Impression haute qualité OseTee ⚙️ Caractéristiques techniques • 100 % coton • Sport Grey : 90 % coton / 10 % polyester • Ash Grey : 99 % coton / 1 % polyester • Heather : 50 % coton / 50 % polyester • Poids : 170–180 g/m² • Jersey pré-rétréci • Construction tubulaire • Bande de propreté col et épaules • Double couture manches et bas • Étiquette détachable 🧼 Entretien Lavage à l’envers à froid Sécher à basse température Ne pas repasser directement sur l’impression 🌎 Fabrication responsable Produit fabriqué à la demande. Aucun minimum. Moins de surproduction. Plus d’intention. ⚜️ Collection Identité Québécoise Cette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise. OseTee ne vend pas un simple vêtement. On imprime une identité.
-  Updated: 2026-04-13T19:04:58Z
+  Updated: 2026-04-20T21:11:39Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -9387,7 +9387,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-6998efde0205b.jpg?v=1776107097
     Price: 33,00 $ CAD
 - [Indépendant d esprit souverain de style.T-shirt classique unisexe](https://osetee.ca/products/t-shirt-classique-unisexe): ⚜️ T-Shirt Identité Québécoise – Coupe Classique Unisexe Affirme qui tu es. Porte l’Identité Québécoise avec fierté. Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage. Un essentiel solide. Un message fort. Une identité assumée. 🔥 Pourquoi tu vas l’aimer ✔ Coupe structurée qui garde sa forme ✔ Tissu résistant et confortable ✔ Tombé net, look propre et streetwear ✔ Idéal homme et femme ✔ Impression haute qualité OseTee ⚙️ Caractéristiques techniques • 100 % coton • Sport Grey : 90 % coton / 10 % polyester • Ash Grey : 99 % coton / 1 % polyester • Heather : 50 % coton / 50 % polyester • Poids : 170–180 g/m² • Jersey pré-rétréci • Construction tubulaire • Bande de propreté col et épaules • Double couture manches et bas • Étiquette détachable 🧼 Entretien Lavage à l’envers à froid Sécher à basse température Ne pas repasser directement sur l’impression 🌎 Fabrication responsable Produit fabriqué à la demande. Aucun minimum. Moins de surproduction. Plus d’intention. ⚜️ Collection Identité Québécoise Cette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise. OseTee ne vend pas un simple vêtement. On imprime une identité.
-  Updated: 2026-02-28T05:12:55Z
+  Updated: 2026-04-20T21:11:40Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -9513,7 +9513,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-6998f0ea9cb9f.jpg?v=1771631209
     Price: 34,00 $ CAD
 - [Une calisse de belle journée pareille. T-shirt classique unisexe](https://osetee.ca/products/une-calice-de-belle-journee-pareil-t-shirt-classique-unisexe): ⚜️ T-Shirt Identité Québécoise – Coupe Classique Unisexe Affirme qui tu es. Porte l’Identité Québécoise avec fierté. Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage. Un essentiel solide. Un message fort. Une identité assumée. 🔥 Pourquoi tu vas l’aimer ✔ Coupe structurée qui garde sa forme ✔ Tissu résistant et confortable ✔ Tombé net, look propre et streetwear ✔ Idéal homme et femme ✔ Impression haute qualité OseTee ⚙️ Caractéristiques techniques • 100 % coton • Sport Grey : 90 % coton / 10 % polyester • Ash Grey : 99 % coton / 1 % polyester • Heather : 50 % coton / 50 % polyester • Poids : 170–180 g/m² • Jersey pré-rétréci • Construction tubulaire • Bande de propreté col et épaules • Double couture manches et bas • Étiquette détachable 🧼 Entretien Lavage à l’envers à froid Sécher à basse température Ne pas repasser directement sur l’impression 🌎 Fabrication responsable Produit fabriqué à la demande. Aucun minimum. Moins de surproduction. Plus d’intention. ⚜️ Collection Identité Québécoise Cette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise. OseTee ne vend pas un simple vêtement. On imprime une identité.
-  Updated: 2026-02-28T05:12:55Z
+  Updated: 2026-04-20T21:11:40Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -9639,7 +9639,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-699a3e1fde63e.jpg?v=1771716818
     Price: 34,00 $ CAD
 - [Pas de stress tabarnac ! T-shirt classique unisexe](https://osetee.ca/products/pas-de-stress-tabarnac-t-shirt-classique-unisexe): ⚜️ T-Shirt Identité Québécoise – Coupe Classique Unisexe Affirme qui tu es. Porte l’Identité Québécoise avec fierté. Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage. Un essentiel solide. Un message fort. Une identité assumée. 🔥 Pourquoi tu vas l’aimer ✔ Coupe structurée qui garde sa forme ✔ Tissu résistant et confortable ✔ Tombé net, look propre et streetwear ✔ Idéal homme et femme ✔ Impression haute qualité OseTee ⚙️ Caractéristiques techniques • 100 % coton • Sport Grey : 90 % coton / 10 % polyester • Ash Grey : 99 % coton / 1 % polyester • Heather : 50 % coton / 50 % polyester • Poids : 170–180 g/m² • Jersey pré-rétréci • Construction tubulaire • Bande de propreté col et épaules • Double couture manches et bas • Étiquette détachable 🧼 Entretien Lavage à l’envers à froid Sécher à basse température Ne pas repasser directement sur l’impression 🌎 Fabrication responsable Produit fabriqué à la demande. Aucun minimum. Moins de surproduction. Plus d’intention. ⚜️ Collection Identité Québécoise Cette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise. OseTee ne vend pas un simple vêtement. On imprime une identité.
-  Updated: 2026-02-28T05:12:55Z
+  Updated: 2026-04-20T21:11:40Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -9765,7 +9765,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-699a45b425af5.jpg?v=1771718843
     Price: 33,50 $ CAD
 - [Culture forte colonne droite.T-shirt classique unisexe](https://osetee.ca/products/t-shirt-classique-unisexe-1): ⚜️ T-Shirt Identité Québécoise – Coupe Classique Unisexe Affirme qui tu es. Porte l’Identité Québécoise avec fierté. Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage. Un essentiel solide. Un message fort. Une identité assumée. 🔥 Pourquoi tu vas l’aimer ✔ Coupe structurée qui garde sa forme ✔ Tissu résistant et confortable ✔ Tombé net, look propre et streetwear ✔ Idéal homme et femme ✔ Impression haute qualité OseTee ⚙️ Caractéristiques techniques • 100 % coton • Sport Grey : 90 % coton / 10 % polyester • Ash Grey : 99 % coton / 1 % polyester • Heather : 50 % coton / 50 % polyester • Poids : 170–180 g/m² • Jersey pré-rétréci • Construction tubulaire • Bande de propreté col et épaules • Double couture manches et bas • Étiquette détachable 🧼 Entretien Lavage à l’envers à froid Sécher à basse température Ne pas repasser directement sur l’impression 🌎 Fabrication responsable Produit fabriqué à la demande. Aucun minimum. Moins de surproduction. Plus d’intention. ⚜️ Collection Identité Québécoise Cette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise. OseTee ne vend pas un simple vêtement. On imprime une identité.
-  Updated: 2026-02-28T05:12:56Z
+  Updated: 2026-04-20T21:11:40Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -9891,7 +9891,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-699a4675f19d7.jpg?v=1771719532
     Price: 33,00 $ CAD
 - [Ne ici debout partout.T-shirt classique unisexe](https://osetee.ca/products/ne-ici-debout-partout-t-shirt-classique-unisexe): ⚜️ T-Shirt Identité Québécoise – Coupe Classique Unisexe Affirme qui tu es. Porte l’Identité Québécoise avec fierté. Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage. Un essentiel solide. Un message fort. Une identité assumée. 🔥 Pourquoi tu vas l’aimer ✔ Coupe structurée qui garde sa forme ✔ Tissu résistant et confortable ✔ Tombé net, look propre et streetwear ✔ Idéal homme et femme ✔ Impression haute qualité OseTee ⚙️ Caractéristiques techniques • 100 % coton • Sport Grey : 90 % coton / 10 % polyester • Ash Grey : 99 % coton / 1 % polyester • Heather : 50 % coton / 50 % polyester • Poids : 170–180 g/m² • Jersey pré-rétréci • Construction tubulaire • Bande de propreté col et épaules • Double couture manches et bas • Étiquette détachable 🧼 Entretien Lavage à l’envers à froid Sécher à basse température Ne pas repasser directement sur l’impression 🌎 Fabrication responsable Produit fabriqué à la demande. Aucun minimum. Moins de surproduction. Plus d’intention. ⚜️ Collection Identité Québécoise Cette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise. OseTee ne vend pas un simple vêtement. On imprime une identité.
-  Updated: 2026-02-28T05:12:56Z
+  Updated: 2026-04-20T21:11:41Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -10017,7 +10017,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-699a4765d5ada.jpg?v=1771719719
     Price: 33,00 $ CAD
 - [Nationaliste mais poli T-shirt classique unisexe](https://osetee.ca/products/nationaliste-mais-poli-t-shirt-classique-unisexe): ⚜️ T-Shirt Identité Québécoise – Coupe Classique Unisexe Affirme qui tu es. Porte l’Identité Québécoise avec fierté. Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage. Un essentiel solide. Un message fort. Une identité assumée. 🔥 Pourquoi tu vas l’aimer ✔ Coupe structurée qui garde sa forme ✔ Tissu résistant et confortable ✔ Tombé net, look propre et streetwear ✔ Idéal homme et femme ✔ Impression haute qualité OseTee ⚙️ Caractéristiques techniques • 100 % coton • Sport Grey : 90 % coton / 10 % polyester • Ash Grey : 99 % coton / 1 % polyester • Heather : 50 % coton / 50 % polyester • Poids : 170–180 g/m² • Jersey pré-rétréci • Construction tubulaire • Bande de propreté col et épaules • Double couture manches et bas • Étiquette détachable 🧼 Entretien Lavage à l’envers à froid Sécher à basse température Ne pas repasser directement sur l’impression 🌎 Fabrication responsable Produit fabriqué à la demande. Aucun minimum. Moins de surproduction. Plus d’intention. ⚜️ Collection Identité Québécoise Cette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise. OseTee ne vend pas un simple vêtement. On imprime une identité.
-  Updated: 2026-02-28T05:12:56Z
+  Updated: 2026-04-20T21:11:41Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -10143,7 +10143,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-699e2ca1a3c4f.jpg?v=1771975473
     Price: 33,00 $ CAD
 - [Passer a cote d un Québécois c est frôler la perfection T-shirt classique unisexe](https://osetee.ca/products/passer-a-cote-d-un-quebecois-c-est-froler-la-perfection-t-shirt-classique-unisexe): ⚜️ T-Shirt Identité Québécoise – Coupe Classique Unisexe Affirme qui tu es. Porte l’Identité Québécoise avec fierté. Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage. Un essentiel solide. Un message fort. Une identité assumée. 🔥 Pourquoi tu vas l’aimer ✔ Coupe structurée qui garde sa forme ✔ Tissu résistant et confortable ✔ Tombé net, look propre et streetwear ✔ Idéal homme et femme ✔ Impression haute qualité OseTee ⚙️ Caractéristiques techniques • 100 % coton • Sport Grey : 90 % coton / 10 % polyester • Ash Grey : 99 % coton / 1 % polyester • Heather : 50 % coton / 50 % polyester • Poids : 170–180 g/m² • Jersey pré-rétréci • Construction tubulaire • Bande de propreté col et épaules • Double couture manches et bas • Étiquette détachable 🧼 Entretien Lavage à l’envers à froid Sécher à basse température Ne pas repasser directement sur l’impression 🌎 Fabrication responsable Produit fabriqué à la demande. Aucun minimum. Moins de surproduction. Plus d’intention. ⚜️ Collection Identité Québécoise Cette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise. OseTee ne vend pas un simple vêtement. On imprime une identité.
-  Updated: 2026-02-28T05:12:56Z
+  Updated: 2026-04-20T21:11:41Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -10269,7 +10269,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-699e2debd34ad.jpg?v=1771976196
     Price: 34,50 $ CAD
 - [Passer a cote d une Quebecoise c est froler la perfection.T-shirt classique unisexe](https://osetee.ca/products/passer-a-cote-d-une-quebecoise-c-est-froler-la-perfection-t-shirt-classique-unisexe): ⚜️ T-Shirt Identité Québécoise – Coupe Classique Unisexe Affirme qui tu es. Porte l’Identité Québécoise avec fierté. Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage. Un essentiel solide. Un message fort. Une identité assumée. 🔥 Pourquoi tu vas l’aimer ✔ Coupe structurée qui garde sa forme ✔ Tissu résistant et confortable ✔ Tombé net, look propre et streetwear ✔ Idéal homme et femme ✔ Impression haute qualité OseTee ⚙️ Caractéristiques techniques • 100 % coton • Sport Grey : 90 % coton / 10 % polyester • Ash Grey : 99 % coton / 1 % polyester • Heather : 50 % coton / 50 % polyester • Poids : 170–180 g/m² • Jersey pré-rétréci • Construction tubulaire • Bande de propreté col et épaules • Double couture manches et bas • Étiquette détachable 🧼 Entretien Lavage à l’envers à froid Sécher à basse température Ne pas repasser directement sur l’impression 🌎 Fabrication responsable Produit fabriqué à la demande. Aucun minimum. Moins de surproduction. Plus d’intention. ⚜️ Collection Identité Québécoise Cette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise. OseTee ne vend pas un simple vêtement. On imprime une identité.
-  Updated: 2026-02-28T05:12:56Z
+  Updated: 2026-04-20T21:11:41Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -10395,7 +10395,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-699e2eebe4e5a.jpg?v=1771976416
     Price: 33,50 $ CAD
 - [Souverain dans ma tete . T-shirt classique unisexe](https://osetee.ca/products/souverain-dans-ma-tete-t-shirt-classique-unisexe): ⚜️ T-Shirt Identité Québécoise – Coupe Classique Unisexe Affirme qui tu es. Porte l’Identité Québécoise avec fierté. Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage. Un essentiel solide. Un message fort. Une identité assumée. 🔥 Pourquoi tu vas l’aimer ✔ Coupe structurée qui garde sa forme ✔ Tissu résistant et confortable ✔ Tombé net, look propre et streetwear ✔ Idéal homme et femme ✔ Impression haute qualité OseTee ⚙️ Caractéristiques techniques • 100 % coton • Sport Grey : 90 % coton / 10 % polyester • Ash Grey : 99 % coton / 1 % polyester • Heather : 50 % coton / 50 % polyester • Poids : 170–180 g/m² • Jersey pré-rétréci • Construction tubulaire • Bande de propreté col et épaules • Double couture manches et bas • Étiquette détachable 🧼 Entretien Lavage à l’envers à froid Sécher à basse température Ne pas repasser directement sur l’impression 🌎 Fabrication responsable Produit fabriqué à la demande. Aucun minimum. Moins de surproduction. Plus d’intention. ⚜️ Collection Identité Québécoise Cette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise. OseTee ne vend pas un simple vêtement. On imprime une identité.
-  Updated: 2026-02-28T05:12:56Z
+  Updated: 2026-04-20T21:11:41Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -10521,7 +10521,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-699e30c6415d4.jpg?v=1771976561
     Price: 35,00 $ CAD
 - [je me gouverne moi même. T-shirt classique unisexe](https://osetee.ca/products/je-me-gouverne-moi-meme-t-shirt-classique-unisexe): ⚜️ T-Shirt Identité Québécoise – Coupe Classique Unisexe Affirme qui tu es. Porte l’Identité Québécoise avec fierté. Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage. Un essentiel solide. Un message fort. Une identité assumée. 🔥 Pourquoi tu vas l’aimer ✔ Coupe structurée qui garde sa forme ✔ Tissu résistant et confortable ✔ Tombé net, look propre et streetwear ✔ Idéal homme et femme ✔ Impression haute qualité OseTee ⚙️ Caractéristiques techniques • 100 % coton • Sport Grey : 90 % coton / 10 % polyester • Ash Grey : 99 % coton / 1 % polyester • Heather : 50 % coton / 50 % polyester • Poids : 170–180 g/m² • Jersey pré-rétréci • Construction tubulaire • Bande de propreté col et épaules • Double couture manches et bas • Étiquette détachable 🧼 Entretien Lavage à l’envers à froid Sécher à basse température Ne pas repasser directement sur l’impression 🌎 Fabrication responsable Produit fabriqué à la demande. Aucun minimum. Moins de surproduction. Plus d’intention. ⚜️ Collection Identité Québécoise Cette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise. OseTee ne vend pas un simple vêtement. On imprime une identité.
-  Updated: 2026-02-28T05:12:56Z
+  Updated: 2026-04-20T21:11:42Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -10647,7 +10647,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-699e31922ec05.jpg?v=1771976852
     Price: 35,00 $ CAD
 - [Le Quebec Ensemble Hoodie](https://osetee.ca/products/le-quebec-ensemble-hoodie): ⚜️ T-Shirt Identité Québécoise – Coupe Classique UnisexeAffirme qui tu es.Porte l’Identité Québécoise avec fierté.Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage.Un essentiel solide. Un message fort. Une identité assumée.🔥 Pourquoi tu vas l’aimer✔ Coupe structurée qui garde sa forme✔ Tissu résistant et confortable✔ Tombé net, look propre et streetwear✔ Idéal homme et femme✔ Impression haute qualité OseTee⚙️ Caractéristiques techniques• 100 % coton• Sport Grey : 90 % coton / 10 % polyester• Ash Grey : 99 % coton / 1 % polyester• Heather : 50 % coton / 50 % polyester• Poids : 170–180 g/m²• Jersey pré-rétréci• Construction tubulaire• Bande de propreté col et épaules• Double couture manches et bas• Étiquette détachable🧼 EntretienLavage à l’envers à froidSécher à basse températureNe pas repasser directement sur l’impression🌎 Fabrication responsableProduit fabriqué à la demande.Aucun minimum.Moins de surproduction. Plus d’intention.⚜️ Collection Identité QuébécoiseCette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise.OseTee ne vend pas un simple vêtement.On imprime une identité
-  Updated: 2026-02-28T05:12:57Z
+  Updated: 2026-04-20T21:11:42Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -10829,7 +10829,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40364691_3_12.jpg?v=1772042538
     Price: 30,99 $ CAD
 - [Liberté T-shirt classique unisexe](https://osetee.ca/products/liberte-t-shirt-classique-unisexe): ⚜️ T-Shirt Identité Québécoise – Coupe Classique Unisexe Affirme qui tu es. Porte l’Identité Québécoise avec fierté. Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage. Un essentiel solide. Un message fort. Une identité assumée. 🔥 Pourquoi tu vas l’aimer ✔ Coupe structurée qui garde sa forme ✔ Tissu résistant et confortable ✔ Tombé net, look propre et streetwear ✔ Idéal homme et femme ✔ Impression haute qualité OseTee ⚙️ Caractéristiques techniques • 100 % coton • Sport Grey : 90 % coton / 10 % polyester • Ash Grey : 99 % coton / 1 % polyester • Heather : 50 % coton / 50 % polyester • Poids : 170–180 g/m² • Jersey pré-rétréci • Construction tubulaire • Bande de propreté col et épaules • Double couture manches et bas • Étiquette détachable 🧼 Entretien Lavage à l’envers à froid Sécher à basse température Ne pas repasser directement sur l’impression 🌎 Fabrication responsable Produit fabriqué à la demande. Aucun minimum. Moins de surproduction. Plus d’intention. ⚜️ Collection Identité Québécoise Cette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise. OseTee ne vend pas un simple vêtement. On imprime une identité
-  Updated: 2026-02-28T05:12:57Z
+  Updated: 2026-04-20T21:11:42Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -10955,7 +10955,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-699f73e894f48.jpg?v=1772059165
     Price: 34,00 $ CAD
 - [Fierté T-shirt classique unisexe](https://osetee.ca/products/fierte-t-shirt-classique-unisexe): ⚜️ T-Shirt Identité Québécoise – Coupe Classique Unisexe Affirme qui tu es. Porte l’Identité Québécoise avec fierté. Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage. Un essentiel solide. Un message fort. Une identité assumée. 🔥 Pourquoi tu vas l’aimer ✔ Coupe structurée qui garde sa forme ✔ Tissu résistant et confortable ✔ Tombé net, look propre et streetwear ✔ Idéal homme et femme ✔ Impression haute qualité OseTee ⚙️ Caractéristiques techniques • 100 % coton • Sport Grey : 90 % coton / 10 % polyester • Ash Grey : 99 % coton / 1 % polyester • Heather : 50 % coton / 50 % polyester • Poids : 170–180 g/m² • Jersey pré-rétréci • Construction tubulaire • Bande de propreté col et épaules • Double couture manches et bas • Étiquette détachable 🧼 Entretien Lavage à l’envers à froid Sécher à basse température Ne pas repasser directement sur l’impression 🌎 Fabrication responsable Produit fabriqué à la demande. Aucun minimum. Moins de surproduction. Plus d’intention. ⚜️ Collection Identité Québécoise Cette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise. OseTee ne vend pas un simple vêtement. On imprime une identité
-  Updated: 2026-02-28T05:12:57Z
+  Updated: 2026-04-20T21:11:42Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -11081,7 +11081,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-699f75132250c.jpg?v=1772059370
     Price: 33,00 $ CAD
 - [Identité T-shirt classique unisexe](https://osetee.ca/products/identite-t-shirt-classique-unisexe): ⚜️ T-Shirt Identité Québécoise – Coupe Classique Unisexe Affirme qui tu es. Porte l’Identité Québécoise avec fierté. Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage. Un essentiel solide. Un message fort. Une identité assumée. 🔥 Pourquoi tu vas l’aimer ✔ Coupe structurée qui garde sa forme ✔ Tissu résistant et confortable ✔ Tombé net, look propre et streetwear ✔ Idéal homme et femme ✔ Impression haute qualité OseTee ⚙️ Caractéristiques techniques • 100 % coton • Sport Grey : 90 % coton / 10 % polyester • Ash Grey : 99 % coton / 1 % polyester • Heather : 50 % coton / 50 % polyester • Poids : 170–180 g/m² • Jersey pré-rétréci • Construction tubulaire • Bande de propreté col et épaules • Double couture manches et bas • Étiquette détachable 🧼 Entretien Lavage à l’envers à froid Sécher à basse température Ne pas repasser directement sur l’impression 🌎 Fabrication responsable Produit fabriqué à la demande. Aucun minimum. Moins de surproduction. Plus d’intention. ⚜️ Collection Identité Québécoise Cette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise. OseTee ne vend pas un simple vêtement. On imprime une identité
-  Updated: 2026-02-28T05:12:57Z
+  Updated: 2026-04-20T21:11:42Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -11207,7 +11207,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-699f75ecf3679.jpg?v=1772059618
     Price: 32,50 $ CAD
 - [Souveraineté T-shirt classique unisexe](https://osetee.ca/products/souverainete-t-shirt-classique-unisexe): ⚜️ T-Shirt Identité Québécoise – Coupe Classique Unisexe Affirme qui tu es. Porte l’Identité Québécoise avec fierté. Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage. Un essentiel solide. Un message fort. Une identité assumée. 🔥 Pourquoi tu vas l’aimer ✔ Coupe structurée qui garde sa forme ✔ Tissu résistant et confortable ✔ Tombé net, look propre et streetwear ✔ Idéal homme et femme ✔ Impression haute qualité OseTee ⚙️ Caractéristiques techniques • 100 % coton • Sport Grey : 90 % coton / 10 % polyester • Ash Grey : 99 % coton / 1 % polyester • Heather : 50 % coton / 50 % polyester • Poids : 170–180 g/m² • Jersey pré-rétréci • Construction tubulaire • Bande de propreté col et épaules • Double couture manches et bas • Étiquette détachable 🧼 Entretien Lavage à l’envers à froid Sécher à basse température Ne pas repasser directement sur l’impression 🌎 Fabrication responsable Produit fabriqué à la demande. Aucun minimum. Moins de surproduction. Plus d’intention. ⚜️ Collection Identité Québécoise Cette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise. OseTee ne vend pas un simple vêtement. On imprime une identité
-  Updated: 2026-02-28T05:12:57Z
+  Updated: 2026-04-20T21:11:43Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -11333,7 +11333,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-699f7708412aa.jpg?v=1772060866
     Price: 32,50 $ CAD
 - [Je ne rentre pas dans le moule.Je le casse.T-shirt unisexe](https://osetee.ca/products/t-shirt-unisexe-3): 😎 T-Shirt Unisexe – Collection Humeur OseTee Streetwear Ton humeur. Ton message. Ton attitude. Ce t-shirt unisexe de la collection Humeur OseTee est conçu pour celles et ceux qui aiment porter ce qu’ils pensent. Léger, confortable et flatteur, il épouse naturellement la silhouette tout en gardant une vibe street assumée. Doux au toucher. Léger sur les épaules. Mais avec une présence qui frappe. 🔥 LA VIBE ✔ Coupe moderne et unisexe ✔ Léger, respirant et confortable ✔ Élasticité naturelle pour un fit flatteur ✔ Design Humeur exclusif OseTee ✔ Signature OseTee + harfang officiel Parfait en solo l’été. Parfait en layering sous hoodie ou veste. ⚙️ QUALITÉ PREMIUM • 100 % coton peigné et filé à l’anneau • Couleurs Heather : mélange coton / polyester • Poids : 142 g/m² (léger et respirant) • Tissu pré-rétréci • Construction cousue latéralement • Bande épaule à épaule • Produit fabriqué à la demande 👀 À SAVOIR Le tissu est léger et peut être légèrement transparent, surtout pour les couleurs claires ou sous un éclairage intense. 😏 COLLECTION HUMEUR Parce que parfois, ton t-shirt parle avant toi. Humour assumé. Attitude claire. Streetwear québécois avec caractère. OseTee – Indépendant d’esprit. 🦉
-  Updated: 2026-02-28T05:12:58Z
+  Updated: 2026-04-20T21:11:43Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -11539,7 +11539,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-staple-t-shirt-dark-grey-heather-front-69a0df20424d5.jpg?v=1772151103
     Price: 27,00 $ CAD
 - [T-shirt unisexe.Pas de ma faute si je te gosse](https://osetee.ca/products/t-shirt-unisexe-pas-de-ma-faute-si-j-te-gosse): 😎 T-Shirt Unisexe – Collection Humeur OseTee Streetwear Ton humeur. Ton message. Ton attitude. Ce t-shirt unisexe de la collection Humeur OseTee est conçu pour celles et ceux qui aiment porter ce qu’ils pensent. Léger, confortable et flatteur, il épouse naturellement la silhouette tout en gardant une vibe street assumée. Doux au toucher. Léger sur les épaules. Mais avec une présence qui frappe. 🔥 LA VIBE ✔ Coupe moderne et unisexe ✔ Léger, respirant et confortable ✔ Élasticité naturelle pour un fit flatteur ✔ Design Humeur exclusif OseTee ✔ Signature OseTee + harfang officiel Parfait en solo l’été. Parfait en layering sous hoodie ou veste. ⚙️ QUALITÉ PREMIUM • 100 % coton peigné et filé à l’anneau • Couleurs Heather : mélange coton / polyester • Poids : 142 g/m² (léger et respirant) • Tissu pré-rétréci • Construction cousue latéralement • Bande épaule à épaule • Produit fabriqué à la demande 👀 À SAVOIR Le tissu est léger et peut être légèrement transparent, surtout pour les couleurs claires ou sous un éclairage intense. 😏 COLLECTION HUMEUR Parce que parfois, ton t-shirt parle avant toi. Humour assumé. Attitude claire. Streetwear québécois avec caractère. OseTee – Indépendant d’esprit. 🦉
-  Updated: 2026-02-28T05:12:58Z
+  Updated: 2026-04-20T21:11:43Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -11745,7 +11745,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-staple-t-shirt-dark-grey-heather-front-69a0e205a340b.jpg?v=1772151335
     Price: 27,00 $ CAD
 - [Pas de ma faute si je te gosse .Version t-shirt unisexe](https://osetee.ca/products/pas-de-ma-faute-si-je-te-gosse-version-t-shirt-unisexe): 😎 T-Shirt Unisexe – Collection Humeur OseTee Streetwear Ton humeur. Ton message. Ton attitude. Ce t-shirt unisexe de la collection Humeur OseTee est conçu pour celles et ceux qui aiment porter ce qu’ils pensent. Léger, confortable et flatteur, il épouse naturellement la silhouette tout en gardant une vibe street assumée. Doux au toucher. Léger sur les épaules. Mais avec une présence qui frappe. 🔥 LA VIBE ✔ Coupe moderne et unisexe ✔ Léger, respirant et confortable ✔ Élasticité naturelle pour un fit flatteur ✔ Design Humeur exclusif OseTee ✔ Signature OseTee + harfang officiel Parfait en solo l’été. Parfait en layering sous hoodie ou veste. ⚙️ QUALITÉ PREMIUM • 100 % coton peigné et filé à l’anneau • Couleurs Heather : mélange coton / polyester • Poids : 142 g/m² (léger et respirant) • Tissu pré-rétréci • Construction cousue latéralement • Bande épaule à épaule • Produit fabriqué à la demande 👀 À SAVOIR Le tissu est léger et peut être légèrement transparent, surtout pour les couleurs claires ou sous un éclairage intense. 😏 COLLECTION HUMEUR Parce que parfois, ton t-shirt parle avant toi. Humour assumé. Attitude claire. Streetwear québécois avec caractère. OseTee – Indépendant d’esprit. 🦉
-  Updated: 2026-02-28T05:12:58Z
+  Updated: 2026-04-20T21:11:44Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -11951,7 +11951,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-staple-t-shirt-heather-forest-front-69a0e6ab46aa2.jpg?v=1772152518
     Price: 27,50 $ CAD
 - [Ca sent la coupe T-shirt unisexe](https://osetee.ca/products/ca-sent-la-coupe-t-shirt-unisexe): 😎 T-Shirt Unisexe – Collection Humeur OseTee Streetwear Ton humeur. Ton message. Ton attitude. Ce t-shirt unisexe de la collection Humeur OseTee est conçu pour celles et ceux qui aiment porter ce qu’ils pensent. Léger, confortable et flatteur, il épouse naturellement la silhouette tout en gardant une vibe street assumée. Doux au toucher. Léger sur les épaules. Mais avec une présence qui frappe. 🔥 LA VIBE ✔ Coupe moderne et unisexe ✔ Léger, respirant et confortable ✔ Élasticité naturelle pour un fit flatteur ✔ Design Humeur exclusif OseTee ✔ Signature OseTee + harfang officiel Parfait en solo l’été. Parfait en layering sous hoodie ou veste. ⚙️ QUALITÉ PREMIUM • 100 % coton peigné et filé à l’anneau • Couleurs Heather : mélange coton / polyester • Poids : 142 g/m² (léger et respirant) • Tissu pré-rétréci • Construction cousue latéralement • Bande épaule à épaule • Produit fabriqué à la demande 👀 À SAVOIR Le tissu est léger et peut être légèrement transparent, surtout pour les couleurs claires ou sous un éclairage intense. 😏 COLLECTION HUMEUR Parce que parfois, ton t-shirt parle avant toi. Humour assumé. Attitude claire. Streetwear québécois avec caractère. OseTee – Indépendant d’esprit. 🦉
-  Updated: 2026-04-11T21:22:12Z
+  Updated: 2026-04-20T21:11:44Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -12157,7 +12157,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-staple-t-shirt-dark-grey-heather-front-69a0e836b57ab.jpg?v=1775942457
     Price: 27,50 $ CAD
 - [T-shirt unisexe.Mon identité n est pas négociable](https://osetee.ca/products/t-shirt-unisexe-mon-identite-n-est-pas-negociable): 😎 T-Shirt Unisexe – Collection Humeur OseTee Streetwear Ton humeur. Ton message. Ton attitude. Ce t-shirt unisexe de la collection Humeur OseTee est conçu pour celles et ceux qui aiment porter ce qu’ils pensent. Léger, confortable et flatteur, il épouse naturellement la silhouette tout en gardant une vibe street assumée. Doux au toucher. Léger sur les épaules. Mais avec une présence qui frappe. 🔥 LA VIBE ✔ Coupe moderne et unisexe ✔ Léger, respirant et confortable ✔ Élasticité naturelle pour un fit flatteur ✔ Design Humeur exclusif OseTee ✔ Signature OseTee + harfang officiel Parfait en solo l’été. Parfait en layering sous hoodie ou veste. ⚙️ QUALITÉ PREMIUM • 100 % coton peigné et filé à l’anneau • Couleurs Heather : mélange coton / polyester • Poids : 142 g/m² (léger et respirant) • Tissu pré-rétréci • Construction cousue latéralement • Bande épaule à épaule • Produit fabriqué à la demande 👀 À SAVOIR Le tissu est léger et peut être légèrement transparent, surtout pour les couleurs claires ou sous un éclairage intense. 😏 COLLECTION HUMEUR Parce que parfois, ton t-shirt parle avant toi. Humour assumé. Attitude claire. Streetwear québécois avec caractère. OseTee – Indépendant d’esprit. 🦉
-  Updated: 2026-02-28T13:49:39Z
+  Updated: 2026-04-20T21:11:44Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -12363,7 +12363,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-staple-t-shirt-dark-grey-heather-front-69a24990a1e10.jpg?v=1772244636
     Price: 27,00 $ CAD
 - [Icitte pas besoin d expliquer. T-shirt unisexe](https://osetee.ca/products/icitte-pas-besoin-d-expliquer-t-shirt-unisexe): 😎 T-Shirt Unisexe – Collection Humeur OseTee Streetwear Ton humeur. Ton message. Ton attitude. Ce t-shirt unisexe de la collection Humeur OseTee est conçu pour celles et ceux qui aiment porter ce qu’ils pensent. Léger, confortable et flatteur, il épouse naturellement la silhouette tout en gardant une vibe street assumée. Doux au toucher. Léger sur les épaules. Mais avec une présence qui frappe. 🔥 LA VIBE ✔ Coupe moderne et unisexe ✔ Léger, respirant et confortable ✔ Élasticité naturelle pour un fit flatteur ✔ Design Humeur exclusif OseTee ✔ Signature OseTee + harfang officiel Parfait en solo l’été. Parfait en layering sous hoodie ou veste. ⚙️ QUALITÉ PREMIUM • 100 % coton peigné et filé à l’anneau • Couleurs Heather : mélange coton / polyester • Poids : 142 g/m² (léger et respirant) • Tissu pré-rétréci • Construction cousue latéralement • Bande épaule à épaule • Produit fabriqué à la demande 👀 À SAVOIR Le tissu est léger et peut être légèrement transparent, surtout pour les couleurs claires ou sous un éclairage intense. 😏 COLLECTION HUMEUR Parce que parfois, ton t-shirt parle avant toi. Humour assumé. Attitude claire. Streetwear québécois avec caractère. OseTee – Indépendant d’esprit. 🦉
-  Updated: 2026-02-28T13:54:48Z
+  Updated: 2026-04-20T21:11:45Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -12569,7 +12569,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-staple-t-shirt-dark-grey-heather-front-69a24ac64f9b9.jpg?v=1772245191
     Price: 27,50 $ CAD
 - [Osti jta boutte T-shirt unisexe](https://osetee.ca/products/osti-jta-boutte-t-shirt-unisexe): 😎 T-Shirt Unisexe – Collection Humeur OseTee Streetwear Ton humeur. Ton message. Ton attitude. Ce t-shirt unisexe de la collection Humeur OseTee est conçu pour celles et ceux qui aiment porter ce qu’ils pensent. Léger, confortable et flatteur, il épouse naturellement la silhouette tout en gardant une vibe street assumée. Doux au toucher. Léger sur les épaules. Mais avec une présence qui frappe. 🔥 LA VIBE ✔ Coupe moderne et unisexe ✔ Léger, respirant et confortable ✔ Élasticité naturelle pour un fit flatteur ✔ Design Humeur exclusif OseTee ✔ Signature OseTee + harfang officiel Parfait en solo l’été. Parfait en layering sous hoodie ou veste. ⚙️ QUALITÉ PREMIUM • 100 % coton peigné et filé à l’anneau • Couleurs Heather : mélange coton / polyester • Poids : 142 g/m² (léger et respirant) • Tissu pré-rétréci • Construction cousue latéralement • Bande épaule à épaule • Produit fabriqué à la demande 👀 À SAVOIR Le tissu est léger et peut être légèrement transparent, surtout pour les couleurs claires ou sous un éclairage intense. 😏 COLLECTION HUMEUR Parce que parfois, ton t-shirt parle avant toi. Humour assumé. Attitude claire. Streetwear québécois avec caractère. OseTee – Indépendant d’esprit. 🦉
-  Updated: 2026-02-28T14:01:15Z
+  Updated: 2026-04-20T21:11:45Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -12775,7 +12775,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-staple-t-shirt-dark-grey-heather-front-69a24c48475ab.jpg?v=1772245893
     Price: 27,50 $ CAD
 - [T-shirt  célibataire ex osti de folle](https://osetee.ca/products/t-shirt-celibataire-ex-osti-de-folle): 😎 T-Shirt Unisexe – Collection Humeur OseTee Streetwear Ton humeur. Ton message. Ton attitude. Ce t-shirt unisexe de la collection Humeur OseTee est conçu pour celles et ceux qui aiment porter ce qu’ils pensent. Léger, confortable et flatteur, il épouse naturellement la silhouette tout en gardant une vibe street assumée. Doux au toucher. Léger sur les épaules. Mais avec une présence qui frappe. 🔥 LA VIBE ✔ Coupe moderne et unisexe ✔ Léger, respirant et confortable ✔ Élasticité naturelle pour un fit flatteur ✔ Design Humeur exclusif OseTee ✔ Signature OseTee + harfang officiel Parfait en solo l’été. Parfait en layering sous hoodie ou veste. ⚙️ QUALITÉ PREMIUM • 100 % coton peigné et filé à l’anneau • Couleurs Heather : mélange coton / polyester • Poids : 142 g/m² (léger et respirant) • Tissu pré-rétréci • Construction cousue latéralement • Bande épaule à épaule • Produit fabriqué à la demande 👀 À SAVOIR Le tissu est léger et peut être légèrement transparent, surtout pour les couleurs claires ou sous un éclairage intense. 😏 COLLECTION HUMEUR Parce que parfois, ton t-shirt parle avant toi. Humour assumé. Attitude claire. Streetwear québécois avec caractère. OseTee – Indépendant d’esprit. 🦉
-  Updated: 2026-02-28T14:06:32Z
+  Updated: 2026-04-20T21:11:45Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -12981,7 +12981,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-staple-t-shirt-dark-grey-heather-front-69a24d7960734.jpg?v=1772246168
     Price: 27,50 $ CAD
 - [Je parle peu ça instruit T-shirt unisexe](https://osetee.ca/products/je-parle-peu-ca-instruit-t-shirt-unisexe): 😎 T-Shirt Unisexe – Collection Humeur OseTee Streetwear Ton humeur. Ton message. Ton attitude. Ce t-shirt unisexe de la collection Humeur OseTee est conçu pour celles et ceux qui aiment porter ce qu’ils pensent. Léger, confortable et flatteur, il épouse naturellement la silhouette tout en gardant une vibe street assumée. Doux au toucher. Léger sur les épaules. Mais avec une présence qui frappe. 🔥 LA VIBE ✔ Coupe moderne et unisexe ✔ Léger, respirant et confortable ✔ Élasticité naturelle pour un fit flatteur ✔ Design Humeur exclusif OseTee ✔ Signature OseTee + harfang officiel Parfait en solo l’été. Parfait en layering sous hoodie ou veste. ⚙️ QUALITÉ PREMIUM • 100 % coton peigné et filé à l’anneau • Couleurs Heather : mélange coton / polyester • Poids : 142 g/m² (léger et respirant) • Tissu pré-rétréci • Construction cousue latéralement • Bande épaule à épaule • Produit fabriqué à la demande 👀 À SAVOIR Le tissu est léger et peut être légèrement transparent, surtout pour les couleurs claires ou sous un éclairage intense. 😏 COLLECTION HUMEUR Parce que parfois, ton t-shirt parle avant toi. Humour assumé. Attitude claire. Streetwear québécois avec caractère. OseTee – Indépendant d’esprit. 🦉
-  Updated: 2026-03-01T02:09:44Z
+  Updated: 2026-04-20T21:11:46Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -13187,7 +13187,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-staple-t-shirt-dark-grey-heather-front-69a2f706ed1af.jpg?v=1772289926
     Price: 27,50 $ CAD
 - [Pas besoin d être  fou pour être  mon ami.Mais ça viendra T-shirt unisexe](https://osetee.ca/products/pas-besoin-d-etre-fou-pour-mon-ami-mais-ca-viendra-t-shirt-unisexe): 😎 T-Shirt Unisexe – Collection Humeur OseTee Streetwear Ton humeur. Ton message. Ton attitude. Ce t-shirt unisexe de la collection Humeur OseTee est conçu pour celles et ceux qui aiment porter ce qu’ils pensent. Léger, confortable et flatteur, il épouse naturellement la silhouette tout en gardant une vibe street assumée. Doux au toucher. Léger sur les épaules. Mais avec une présence qui frappe. 🔥 LA VIBE ✔ Coupe moderne et unisexe ✔ Léger, respirant et confortable ✔ Élasticité naturelle pour un fit flatteur ✔ Design Humeur exclusif OseTee ✔ Signature OseTee + harfang officiel Parfait en solo l’été. Parfait en layering sous hoodie ou veste. ⚙️ QUALITÉ PREMIUM • 100 % coton peigné et filé à l’anneau • Couleurs Heather : mélange coton / polyester • Poids : 142 g/m² (léger et respirant) • Tissu pré-rétréci • Construction cousue latéralement • Bande épaule à épaule • Produit fabriqué à la demande 👀 À SAVOIR Le tissu est léger et peut être légèrement transparent, surtout pour les couleurs claires ou sous un éclairage intense. 😏 COLLECTION HUMEUR Parce que parfois, ton t-shirt parle avant toi. Humour assumé. Attitude claire. Streetwear québécois avec caractère. OseTee – Indépendant d’esprit. 🦉
-  Updated: 2026-03-01T02:18:07Z
+  Updated: 2026-04-20T21:11:46Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -13393,7 +13393,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-staple-t-shirt-dark-grey-heather-front-69a2f8fe4e182.jpg?v=1772290108
     Price: 27,50 $ CAD
 - [Pas bruyant mais presant. T-shirt unisexe](https://osetee.ca/products/pas-bruyant-mais-pesant-t-shirt-unisexe): 😎 T-Shirt Unisexe – Collection Humeur OseTee Streetwear Ton humeur. Ton message. Ton attitude. Ce t-shirt unisexe de la collection Humeur OseTee est conçu pour celles et ceux qui aiment porter ce qu’ils pensent. Léger, confortable et flatteur, il épouse naturellement la silhouette tout en gardant une vibe street assumée. Doux au toucher. Léger sur les épaules. Mais avec une présence qui frappe. 🔥 LA VIBE ✔ Coupe moderne et unisexe ✔ Léger, respirant et confortable ✔ Élasticité naturelle pour un fit flatteur ✔ Design Humeur exclusif OseTee ✔ Signature OseTee + harfang officiel Parfait en solo l’été. Parfait en layering sous hoodie ou veste. ⚙️ QUALITÉ PREMIUM • 100 % coton peigné et filé à l’anneau • Couleurs Heather : mélange coton / polyester • Poids : 142 g/m² (léger et respirant) • Tissu pré-rétréci • Construction cousue latéralement • Bande épaule à épaule • Produit fabriqué à la demande 👀 À SAVOIR Le tissu est léger et peut être légèrement transparent, surtout pour les couleurs claires ou sous un éclairage intense. 😏 COLLECTION HUMEUR Parce que parfois, ton t-shirt parle avant toi. Humour assumé. Attitude claire. Streetwear québécois avec caractère. OseTee – Indépendant d’esprit. 🦉
-  Updated: 2026-03-01T02:24:37Z
+  Updated: 2026-04-20T21:11:46Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -13599,7 +13599,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-staple-t-shirt-dark-grey-heather-front-69a2fa82f1ad3.jpg?v=1772290707
     Price: 27,50 $ CAD
 - [Pas parfait juste authentique.T-shirt unisexe](https://osetee.ca/products/pas-parfait-juste-authentique-t-shirt-unisexe): 😎 T-Shirt Unisexe – Collection Humeur OseTee Streetwear Ton humeur. Ton message. Ton attitude. Ce t-shirt unisexe de la collection Humeur OseTee est conçu pour celles et ceux qui aiment porter ce qu’ils pensent. Léger, confortable et flatteur, il épouse naturellement la silhouette tout en gardant une vibe street assumée. Doux au toucher. Léger sur les épaules. Mais avec une présence qui frappe. 🔥 LA VIBE ✔ Coupe moderne et unisexe ✔ Léger, respirant et confortable ✔ Élasticité naturelle pour un fit flatteur ✔ Design Humeur exclusif OseTee ✔ Signature OseTee + harfang officiel Parfait en solo l’été. Parfait en layering sous hoodie ou veste. ⚙️ QUALITÉ PREMIUM • 100 % coton peigné et filé à l’anneau • Couleurs Heather : mélange coton / polyester • Poids : 142 g/m² (léger et respirant) • Tissu pré-rétréci • Construction cousue latéralement • Bande épaule à épaule • Produit fabriqué à la demande 👀 À SAVOIR Le tissu est léger et peut être légèrement transparent, surtout pour les couleurs claires ou sous un éclairage intense. 😏 COLLECTION HUMEUR Parce que parfois, ton t-shirt parle avant toi. Humour assumé. Attitude claire. Streetwear québécois avec caractère. OseTee – Indépendant d’esprit. 🦉
-  Updated: 2026-03-01T02:30:17Z
+  Updated: 2026-04-20T21:11:47Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -13805,7 +13805,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-staple-t-shirt-dark-grey-heather-front-69a2fbd71d402.jpg?v=1772290882
     Price: 27,50 $ CAD
 - [Pas petit juste solide.T-shirt unisexe](https://osetee.ca/products/pas-petit-juste-solide-t-shirt-unisexe): 😎 T-Shirt Unisexe – Collection Humeur OseTee Streetwear Ton humeur. Ton message. Ton attitude. Ce t-shirt unisexe de la collection Humeur OseTee est conçu pour celles et ceux qui aiment porter ce qu’ils pensent. Léger, confortable et flatteur, il épouse naturellement la silhouette tout en gardant une vibe street assumée. Doux au toucher. Léger sur les épaules. Mais avec une présence qui frappe. 🔥 LA VIBE ✔ Coupe moderne et unisexe ✔ Léger, respirant et confortable ✔ Élasticité naturelle pour un fit flatteur ✔ Design Humeur exclusif OseTee ✔ Signature OseTee + harfang officiel Parfait en solo l’été. Parfait en layering sous hoodie ou veste. ⚙️ QUALITÉ PREMIUM • 100 % coton peigné et filé à l’anneau • Couleurs Heather : mélange coton / polyester • Poids : 142 g/m² (léger et respirant) • Tissu pré-rétréci • Construction cousue latéralement • Bande épaule à épaule • Produit fabriqué à la demande 👀 À SAVOIR Le tissu est léger et peut être légèrement transparent, surtout pour les couleurs claires ou sous un éclairage intense. 😏 COLLECTION HUMEUR Parce que parfois, ton t-shirt parle avant toi. Humour assumé. Attitude claire. Streetwear québécois avec caractère. OseTee – Indépendant d’esprit. 🦉
-  Updated: 2026-03-01T02:35:46Z
+  Updated: 2026-04-20T21:11:47Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -14011,7 +14011,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-staple-t-shirt-dark-grey-heather-front-69a2fd1e84492.jpg?v=1772291068
     Price: 27,50 $ CAD
 - [Pas ne pour plaire.Ne pour être. T-shirt unisexe](https://osetee.ca/products/pas-ne-pour-plaire-ne-pour-etre-t-shirt-unisexe): 😎 T-Shirt Unisexe – Collection Humeur OseTee Streetwear Ton humeur. Ton message. Ton attitude. Ce t-shirt unisexe de la collection Humeur OseTee est conçu pour celles et ceux qui aiment porter ce qu’ils pensent. Léger, confortable et flatteur, il épouse naturellement la silhouette tout en gardant une vibe street assumée. Doux au toucher. Léger sur les épaules. Mais avec une présence qui frappe. 🔥 LA VIBE ✔ Coupe moderne et unisexe ✔ Léger, respirant et confortable ✔ Élasticité naturelle pour un fit flatteur ✔ Design Humeur exclusif OseTee ✔ Signature OseTee + harfang officiel Parfait en solo l’été. Parfait en layering sous hoodie ou veste. ⚙️ QUALITÉ PREMIUM • 100 % coton peigné et filé à l’anneau • Couleurs Heather : mélange coton / polyester • Poids : 142 g/m² (léger et respirant) • Tissu pré-rétréci • Construction cousue latéralement • Bande épaule à épaule • Produit fabriqué à la demande 👀 À SAVOIR Le tissu est léger et peut être légèrement transparent, surtout pour les couleurs claires ou sous un éclairage intense. 😏 COLLECTION HUMEUR Parce que parfois, ton t-shirt parle avant toi. Humour assumé. Attitude claire. Streetwear québécois avec caractère. OseTee – Indépendant d’esprit. 🦉
-  Updated: 2026-03-01T02:41:43Z
+  Updated: 2026-04-20T21:11:47Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -14217,7 +14217,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-staple-t-shirt-dark-grey-heather-front-69a2fe7e61a12.jpg?v=1772291325
     Price: 27,50 $ CAD
 - [Oui Droit Devant T Shirt](https://osetee.ca/products/oui-droit-devant-t-shirt): ⚜️ T-Shirt Identité Québécoise – Coupe Classique UnisexeAffirme qui tu es.Porte l’Identité Québécoise avec fierté.Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage.Un essentiel solide. Un message fort. Une identité assumée.🔥 Pourquoi tu vas l’aimer✔ Coupe structurée qui garde sa forme✔ Tissu résistant et confortable✔ Tombé net, look propre et streetwear✔ Idéal homme et femme✔ Impression haute qualité OseTee⚙️ Caractéristiques techniques• 100 % coton• Sport Grey : 90 % coton / 10 % polyester• Ash Grey : 99 % coton / 1 % polyester• Heather : 50 % coton / 50 % polyester• Poids : 170–180 g/m²• Jersey pré-rétréci• Construction tubulaire• Bande de propreté col et épaules• Double couture manches et bas• Étiquette détachable🧼 EntretienLavage à l’envers à froidSécher à basse températureNe pas repasser directement sur l’impression🌎 Fabrication responsableProduit fabriqué à la demande.Aucun minimum.Moins de surproduction. Plus d’intention.⚜️ Collection Identité QuébécoiseCette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise.OseTee ne vend pas un simple vêtement.On imprime une identité.
-  Updated: 2026-03-01T09:33:09Z
+  Updated: 2026-04-20T21:11:48Z
   Vendor: OseTee
   Product Type: T-Shirt
   Availability: Available
@@ -14399,7 +14399,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40364852_3_1.jpg?v=1772315641
     Price: 30,99 $ CAD
 - [Oui Droit Devant version clair.](https://osetee.ca/products/oui-droit-devant-ladies-t-shirt): ⚜️ T-Shirt Identité Québécoise – Coupe Classique UnisexeAffirme qui tu es.Porte l’Identité Québécoise avec fierté.Ce t-shirt OseTee allie structure, durabilité et style intemporel. Sa coupe classique met la silhouette en valeur, sans compromis sur le confort. Que ce soit en ville, sur les Plaines ou au Centre Bell, il conserve sa tenue lavage après lavage.Un essentiel solide. Un message fort. Une identité assumée.🔥 Pourquoi tu vas l’aimer✔ Coupe structurée qui garde sa forme✔ Tissu résistant et confortable✔ Tombé net, look propre et streetwear✔ Idéal homme et femme✔ Impression haute qualité OseTee⚙️ Caractéristiques techniques• 100 % coton• Sport Grey : 90 % coton / 10 % polyester• Ash Grey : 99 % coton / 1 % polyester• Heather : 50 % coton / 50 % polyester• Poids : 170–180 g/m²• Jersey pré-rétréci• Construction tubulaire• Bande de propreté col et épaules• Double couture manches et bas• Étiquette détachable🧼 EntretienLavage à l’envers à froidSécher à basse températureNe pas repasser directement sur l’impression🌎 Fabrication responsableProduit fabriqué à la demande.Aucun minimum.Moins de surproduction. Plus d’intention.⚜️ Collection Identité QuébécoiseCette pièce fait partie de notre collection dédiée à la fierté, la culture et l’attitude québécoise.OseTee ne vend pas un simple vêtement.On imprime une identité.
-  Updated: 2026-03-01T09:34:15Z
+  Updated: 2026-04-20T21:11:48Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -14581,7 +14581,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40364851_4_17.jpg?v=1772314451
     Price: 44,99 $ CAD
 - [Rien a prouver tout a vivre.T-shirt unisexe](https://osetee.ca/products/rien-a-prouver-tout-a-vivre-t-shirt-unisexe): 😎 T-Shirt Unisexe – Collection Humeur OseTee Streetwear Ton humeur. Ton message. Ton attitude. Ce t-shirt unisexe de la collection Humeur OseTee est conçu pour celles et ceux qui aiment porter ce qu’ils pensent. Léger, confortable et flatteur, il épouse naturellement la silhouette tout en gardant une vibe street assumée. Doux au toucher. Léger sur les épaules. Mais avec une présence qui frappe. 🔥 LA VIBE ✔ Coupe moderne et unisexe ✔ Léger, respirant et confortable ✔ Élasticité naturelle pour un fit flatteur ✔ Design Humeur exclusif OseTee ✔ Signature OseTee + harfang officiel Parfait en solo l’été. Parfait en layering sous hoodie ou veste. ⚙️ QUALITÉ PREMIUM • 100 % coton peigné et filé à l’anneau • Couleurs Heather : mélange coton / polyester • Poids : 142 g/m² (léger et respirant) • Tissu pré-rétréci • Construction cousue latéralement • Bande épaule à épaule • Produit fabriqué à la demande 👀 À SAVOIR Le tissu est léger et peut être légèrement transparent, surtout pour les couleurs claires ou sous un éclairage intense. 😏 COLLECTION HUMEUR Parce que parfois, ton t-shirt parle avant toi. Humour assumé. Attitude claire. Streetwear québécois avec caractère. OseTee – Indépendant d’esprit. 🦉
-  Updated: 2026-03-02T03:22:32Z
+  Updated: 2026-04-20T21:11:48Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -14787,7 +14787,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-staple-t-shirt-dark-grey-heather-front-69a4599220703.jpg?v=1772381997
     Price: 27,50 $ CAD
 - [J ai fait vœu de pauvreté si ça vous dérange envoyes de l argent. T-shirt unisexe](https://osetee.ca/products/j-ai-fait-voeu-de-pauvrete-si-ca-vous-derange-envoyez-de-l-argent-t-shirt-unisexe): 😎 T-Shirt Unisexe – Collection Humeur OseTee Streetwear Ton humeur. Ton message. Ton attitude. Ce t-shirt unisexe de la collection Humeur OseTee est conçu pour celles et ceux qui aiment porter ce qu’ils pensent. Léger, confortable et flatteur, il épouse naturellement la silhouette tout en gardant une vibe street assumée. Doux au toucher. Léger sur les épaules. Mais avec une présence qui frappe. 🔥 LA VIBE ✔ Coupe moderne et unisexe ✔ Léger, respirant et confortable ✔ Élasticité naturelle pour un fit flatteur ✔ Design Humeur exclusif OseTee ✔ Signature OseTee + harfang officiel Parfait en solo l’été. Parfait en layering sous hoodie ou veste. ⚙️ QUALITÉ PREMIUM • 100 % coton peigné et filé à l’anneau • Couleurs Heather : mélange coton / polyester • Poids : 142 g/m² (léger et respirant) • Tissu pré-rétréci • Construction cousue latéralement • Bande épaule à épaule • Produit fabriqué à la demande 👀 À SAVOIR Le tissu est léger et peut être légèrement transparent, surtout pour les couleurs claires ou sous un éclairage intense. 😏 COLLECTION HUMEUR Parce que parfois, ton t-shirt parle avant toi. Humour assumé. Attitude claire. Streetwear québécois avec caractère. OseTee – Indépendant d’esprit. 🦉
-  Updated: 2026-03-02T03:28:59Z
+  Updated: 2026-04-20T21:11:49Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -14993,7 +14993,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-staple-t-shirt-dark-grey-heather-front-69a45b16e841b.jpg?v=1772382360
     Price: 27,50 $ CAD
 - [Je ne m adapte pas je m assume.T-shirt classique unisexe](https://osetee.ca/products/je-ne-m-adapte-pas-je-m-assume-t-shirt-classique-unisexe): 😎 T-Shirt Unisexe – Collection Humeur OseTee Streetwear Ton humeur. Ton message. Ton attitude. Ce t-shirt unisexe de la collection Humeur OseTee est conçu pour celles et ceux qui aiment porter ce qu’ils pensent. Léger, confortable et flatteur, il épouse naturellement la silhouette tout en gardant une vibe street assumée. Doux au toucher. Léger sur les épaules. Mais avec une présence qui frappe. 🔥 LA VIBE ✔ Coupe moderne et unisexe ✔ Léger, respirant et confortable ✔ Élasticité naturelle pour un fit flatteur ✔ Design Humeur exclusif OseTee ✔ Signature OseTee + harfang officiel Parfait en solo l’été. Parfait en layering sous hoodie ou veste. ⚙️ QUALITÉ PREMIUM • 100 % coton peigné et filé à l’anneau • Couleurs Heather : mélange coton / polyester • Poids : 142 g/m² (léger et respirant) • Tissu pré-rétréci • Construction cousue latéralement • Bande épaule à épaule • Produit fabriqué à la demande 👀 À SAVOIR Le tissu est léger et peut être légèrement transparent, surtout pour les couleurs claires ou sous un éclairage intense. 😏 COLLECTION HUMEUR Parce que parfois, ton t-shirt parle avant toi. Humour assumé. Attitude claire. Streetwear québécois avec caractère. OseTee – Indépendant d’esprit. 🦉
-  Updated: 2026-03-02T03:35:05Z
+  Updated: 2026-04-20T21:11:49Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -15071,7 +15071,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69a45c8b46e94.jpg?v=1772382523
     Price: 38,50 $ CAD
 - [Le talent c est l audace que les autres n ont pas T-shirt classique unisexe](https://osetee.ca/products/le-talent-c-est-l-audace-que-les-autres-on-pas-t-shirt-classique-unisexe): 😎 T-Shirt Unisexe – Collection HumeurOseTee StreetwearTon humeur. Ton message. Ton attitude.Ce t-shirt unisexe de la collection Humeur OseTee est conçu pour celles et ceux qui aiment porter ce qu’ils pensent. Léger, confortable et flatteur, il épouse naturellement la silhouette tout en gardant une vibe street assumée.Doux au toucher. Léger sur les épaules.Mais avec une présence qui frappe.🔥 LA VIBE✔ Coupe moderne et unisexe✔ Léger, respirant et confortable✔ Élasticité naturelle pour un fit flatteur✔ Design Humeur exclusif OseTee✔ Signature OseTee + harfang officielParfait en solo l’été.Parfait en layering sous hoodie ou veste.⚙️ QUALITÉ PREMIUM• 100 % coton peigné et filé à l’anneau• Couleurs Heather : mélange coton / polyester• Poids : 142 g/m² (léger et respirant)• Tissu pré-rétréci• Construction cousue latéralement• Bande épaule à épaule• Produit fabriqué à la demande👀 À SAVOIRLe tissu est léger et peut être légèrement transparent, surtout pour les couleurs claires ou sous un éclairage intense.😏 COLLECTION HUMEURParce que parfois, ton t-shirt parle avant toi.Humour assumé. Attitude claire.Streetwear québécois avec caractère.OseTee – Indépendant d’esprit. 🦉
-  Updated: 2026-03-02T03:39:30Z
+  Updated: 2026-04-20T21:11:49Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -15149,7 +15149,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69a45d9ba010b.jpg?v=1772379564
     Price: 37,50 $ CAD
 - [La moyenne très peu pour moi.T-shirt classique unisexe](https://osetee.ca/products/la-moyenne-tres-peu-pour-moi-t-shirt-classique-unisexe): 😎 T-Shirt Unisexe – Collection Humeur OseTee Streetwear Ton humeur. Ton message. Ton attitude. Ce t-shirt unisexe de la collection Humeur OseTee est conçu pour celles et ceux qui aiment porter ce qu’ils pensent. Léger, confortable et flatteur, il épouse naturellement la silhouette tout en gardant une vibe street assumée. Doux au toucher. Léger sur les épaules. Mais avec une présence qui frappe. 🔥 LA VIBE ✔ Coupe moderne et unisexe ✔ Léger, respirant et confortable ✔ Élasticité naturelle pour un fit flatteur ✔ Design Humeur exclusif OseTee ✔ Signature OseTee + harfang officiel Parfait en solo l’été. Parfait en layering sous hoodie ou veste. ⚙️ QUALITÉ PREMIUM • 100 % coton peigné et filé à l’anneau • Couleurs Heather : mélange coton / polyester • Poids : 142 g/m² (léger et respirant) • Tissu pré-rétréci • Construction cousue latéralement • Bande épaule à épaule • Produit fabriqué à la demande 👀 À SAVOIR Le tissu est léger et peut être légèrement transparent, surtout pour les couleurs claires ou sous un éclairage intense. 😏 COLLECTION HUMEUR Parce que parfois, ton t-shirt parle avant toi. Humour assumé. Attitude claire. Streetwear québécois avec caractère. OseTee – Indépendant d’esprit. 🦉
-  Updated: 2026-03-02T03:43:46Z
+  Updated: 2026-04-20T21:11:49Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -15227,7 +15227,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69a45e9143267.jpg?v=1772383714
     Price: 38,00 $ CAD
 - [Vous ne méritez pas ma colère. T-shirt classique unisexe](https://osetee.ca/products/vous-ne-meritez-pas-ma-colere-t-shirt-classique-unisexe): 😎 T-Shirt Unisexe – Collection Humeur OseTee Streetwear Ton humeur. Ton message. Ton attitude. Ce t-shirt unisexe de la collection Humeur OseTee est conçu pour celles et ceux qui aiment porter ce qu’ils pensent. Léger, confortable et flatteur, il épouse naturellement la silhouette tout en gardant une vibe street assumée. Doux au toucher. Léger sur les épaules. Mais avec une présence qui frappe. 🔥 LA VIBE ✔ Coupe moderne et unisexe ✔ Léger, respirant et confortable ✔ Élasticité naturelle pour un fit flatteur ✔ Design Humeur exclusif OseTee ✔ Signature OseTee + harfang officiel Parfait en solo l’été. Parfait en layering sous hoodie ou veste. ⚙️ QUALITÉ PREMIUM • 100 % coton peigné et filé à l’anneau • Couleurs Heather : mélange coton / polyester • Poids : 142 g/m² (léger et respirant) • Tissu pré-rétréci • Construction cousue latéralement • Bande épaule à épaule • Produit fabriqué à la demande 👀 À SAVOIR Le tissu est léger et peut être légèrement transparent, surtout pour les couleurs claires ou sous un éclairage intense. 😏 COLLECTION HUMEUR Parce que parfois, ton t-shirt parle avant toi. Humour assumé. Attitude claire. Streetwear québécois avec caractère. OseTee – Indépendant d’esprit. 🦉
-  Updated: 2026-03-02T03:47:51Z
+  Updated: 2026-04-20T21:11:50Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -15305,7 +15305,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69a45f8b80740.jpg?v=1772383879
     Price: 38,00 $ CAD
 - [Nous sommes tous différents.Ça nous fait un point commun.T-shirt classique unisexe](https://osetee.ca/products/on-est-tous-different-ca-nous-fait-un-point-en-commun-t-shirt-classique-unisexe): 😎 T-Shirt Unisexe – Collection Humeur OseTee Streetwear Ton humeur. Ton message. Ton attitude. Ce t-shirt unisexe de la collection Humeur OseTee est conçu pour celles et ceux qui aiment porter ce qu’ils pensent. Léger, confortable et flatteur, il épouse naturellement la silhouette tout en gardant une vibe street assumée. Doux au toucher. Léger sur les épaules. Mais avec une présence qui frappe. 🔥 LA VIBE ✔ Coupe moderne et unisexe ✔ Léger, respirant et confortable ✔ Élasticité naturelle pour un fit flatteur ✔ Design Humeur exclusif OseTee ✔ Signature OseTee + harfang officiel Parfait en solo l’été. Parfait en layering sous hoodie ou veste. ⚙️ QUALITÉ PREMIUM • 100 % coton peigné et filé à l’anneau • Couleurs Heather : mélange coton / polyester • Poids : 142 g/m² (léger et respirant) • Tissu pré-rétréci • Construction cousue latéralement • Bande épaule à épaule • Produit fabriqué à la demande 👀 À SAVOIR Le tissu est léger et peut être légèrement transparent, surtout pour les couleurs claires ou sous un éclairage intense. 😏 COLLECTION HUMEUR Parce que parfois, ton t-shirt parle avant toi. Humour assumé. Attitude claire. Streetwear québécois avec caractère. OseTee – Indépendant d’esprit. 🦉
-  Updated: 2026-03-02T03:56:59Z
+  Updated: 2026-04-20T21:11:50Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -15431,7 +15431,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69a461b01f608.jpg?v=1772384580
     Price: 38,00 $ CAD
 - [Desole du retard Je ne voulais pas vraiment venir.T-shirt classique unisexe](https://osetee.ca/products/desole-du-retard-je-ne-voulais-pas-vraiment-venir-t-shirt-classique-unisexe): 😎 T-Shirt Unisexe – Collection Humeur OseTee Streetwear Ton humeur. Ton message. Ton attitude. Ce t-shirt unisexe de la collection Humeur OseTee est conçu pour celles et ceux qui aiment porter ce qu’ils pensent. Léger, confortable et flatteur, il épouse naturellement la silhouette tout en gardant une vibe street assumée. Doux au toucher. Léger sur les épaules. Mais avec une présence qui frappe. 🔥 LA VIBE ✔ Coupe moderne et unisexe ✔ Léger, respirant et confortable ✔ Élasticité naturelle pour un fit flatteur ✔ Design Humeur exclusif OseTee ✔ Signature OseTee + harfang officiel Parfait en solo l’été. Parfait en layering sous hoodie ou veste. ⚙️ QUALITÉ PREMIUM • 100 % coton peigné et filé à l’anneau • Couleurs Heather : mélange coton / polyester • Poids : 142 g/m² (léger et respirant) • Tissu pré-rétréci • Construction cousue latéralement • Bande épaule à épaule • Produit fabriqué à la demande 👀 À SAVOIR Le tissu est léger et peut être légèrement transparent, surtout pour les couleurs claires ou sous un éclairage intense. 😏 COLLECTION HUMEUR Parce que parfois, ton t-shirt parle avant toi. Humour assumé. Attitude claire. Streetwear québécois avec caractère. OseTee – Indépendant d’esprit. 🦉
-  Updated: 2026-03-02T04:03:06Z
+  Updated: 2026-04-20T21:11:50Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -15485,7 +15485,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69a4631f1c85c.jpg?v=1772385497
     Price: 34,50 $ CAD
 - [Je boirai du lait quand les vaches mangerons du raisin.T-shirt classique unisexe](https://osetee.ca/products/je-boirai-du-lait-quand-les-vaches-mangerons-du-raisin-t-shirt-classique-unisexe): 😎 T-Shirt Unisexe – Collection Humeur OseTee Streetwear Ton humeur. Ton message. Ton attitude. Ce t-shirt unisexe de la collection Humeur OseTee est conçu pour celles et ceux qui aiment porter ce qu’ils pensent. Léger, confortable et flatteur, il épouse naturellement la silhouette tout en gardant une vibe street assumée. Doux au toucher. Léger sur les épaules. Mais avec une présence qui frappe. 🔥 LA VIBE ✔ Coupe moderne et unisexe ✔ Léger, respirant et confortable ✔ Élasticité naturelle pour un fit flatteur ✔ Design Humeur exclusif OseTee ✔ Signature OseTee + harfang officiel Parfait en solo l’été. Parfait en layering sous hoodie ou veste. ⚙️ QUALITÉ PREMIUM • 100 % coton peigné et filé à l’anneau • Couleurs Heather : mélange coton / polyester • Poids : 142 g/m² (léger et respirant) • Tissu pré-rétréci • Construction cousue latéralement • Bande épaule à épaule • Produit fabriqué à la demande 👀 À SAVOIR Le tissu est léger et peut être légèrement transparent, surtout pour les couleurs claires ou sous un éclairage intense. 😏 COLLECTION HUMEUR Parce que parfois, ton t-shirt parle avant toi. Humour assumé. Attitude claire. Streetwear québécois avec caractère. OseTee – Indépendant d’esprit. 🦉
-  Updated: 2026-03-02T04:08:39Z
+  Updated: 2026-04-20T21:11:50Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -15587,7 +15587,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69a4646b76a66.jpg?v=1772385642
     Price: 38,00 $ CAD
 - [Faraud T-shirt classique unisexe](https://osetee.ca/products/faraud-t-shirt-classique-unisexe): 😎 T-Shirt Unisexe – Collection Humeur OseTee Streetwear Ton humeur. Ton message. Ton attitude. Ce t-shirt unisexe de la collection Humeur OseTee est conçu pour celles et ceux qui aiment porter ce qu’ils pensent. Léger, confortable et flatteur, il épouse naturellement la silhouette tout en gardant une vibe street assumée. Doux au toucher. Léger sur les épaules. Mais avec une présence qui frappe. 🔥 LA VIBE ✔ Coupe moderne et unisexe ✔ Léger, respirant et confortable ✔ Élasticité naturelle pour un fit flatteur ✔ Design Humeur exclusif OseTee ✔ Signature OseTee + harfang officiel Parfait en solo l’été. Parfait en layering sous hoodie ou veste. ⚙️ QUALITÉ PREMIUM • 100 % coton peigné et filé à l’anneau • Couleurs Heather : mélange coton / polyester • Poids : 142 g/m² (léger et respirant) • Tissu pré-rétréci • Construction cousue latéralement • Bande épaule à épaule • Produit fabriqué à la demande 👀 À SAVOIR Le tissu est léger et peut être légèrement transparent, surtout pour les couleurs claires ou sous un éclairage intense. 😏 COLLECTION HUMEUR Parce que parfois, ton t-shirt parle avant toi. Humour assumé. Attitude claire. Streetwear québécois avec caractère. OseTee – Indépendant d’esprit. 🦉
-  Updated: 2026-03-02T04:11:09Z
+  Updated: 2026-04-20T21:11:51Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -15713,7 +15713,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69a465005e791.jpg?v=1772385796
     Price: 38,00 $ CAD
 - [Plan a 3 Plus que 2 places disponible.T-shirt classique unisexe](https://osetee.ca/products/plan-a-3-plus-que-2-places-disponible-t-shirt-classique-unisexe): 😎 T-Shirt Unisexe – Collection Humeur OseTee Streetwear Ton humeur. Ton message. Ton attitude. Ce t-shirt unisexe de la collection Humeur OseTee est conçu pour celles et ceux qui aiment porter ce qu’ils pensent. Léger, confortable et flatteur, il épouse naturellement la silhouette tout en gardant une vibe street assumée. Doux au toucher. Léger sur les épaules. Mais avec une présence qui frappe. 🔥 LA VIBE ✔ Coupe moderne et unisexe ✔ Léger, respirant et confortable ✔ Élasticité naturelle pour un fit flatteur ✔ Design Humeur exclusif OseTee ✔ Signature OseTee + harfang officiel Parfait en solo l’été. Parfait en layering sous hoodie ou veste. ⚙️ QUALITÉ PREMIUM • 100 % coton peigné et filé à l’anneau • Couleurs Heather : mélange coton / polyester • Poids : 142 g/m² (léger et respirant) • Tissu pré-rétréci • Construction cousue latéralement • Bande épaule à épaule • Produit fabriqué à la demande 👀 À SAVOIR Le tissu est léger et peut être légèrement transparent, surtout pour les couleurs claires ou sous un éclairage intense. 😏 COLLECTION HUMEUR Parce que parfois, ton t-shirt parle avant toi. Humour assumé. Attitude claire. Streetwear québécois avec caractère. OseTee – Indépendant d’esprit. 🦉
-  Updated: 2026-03-02T04:14:14Z
+  Updated: 2026-04-20T21:11:51Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -15767,7 +15767,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69a465be3b371.jpg?v=1772386054
     Price: 34,50 $ CAD
 - [Celibataire par choix.T-shirt classique unisexe](https://osetee.ca/products/celibataire-par-choix-t-shirt-classique-unisexe): 😎 T-Shirt Unisexe – Collection Humeur OseTee Streetwear Ton humeur. Ton message. Ton attitude. Ce t-shirt unisexe de la collection Humeur OseTee est conçu pour celles et ceux qui aiment porter ce qu’ils pensent. Léger, confortable et flatteur, il épouse naturellement la silhouette tout en gardant une vibe street assumée. Doux au toucher. Léger sur les épaules. Mais avec une présence qui frappe. 🔥 LA VIBE ✔ Coupe moderne et unisexe ✔ Léger, respirant et confortable ✔ Élasticité naturelle pour un fit flatteur ✔ Design Humeur exclusif OseTee ✔ Signature OseTee + harfang officiel Parfait en solo l’été. Parfait en layering sous hoodie ou veste. ⚙️ QUALITÉ PREMIUM • 100 % coton peigné et filé à l’anneau • Couleurs Heather : mélange coton / polyester • Poids : 142 g/m² (léger et respirant) • Tissu pré-rétréci • Construction cousue latéralement • Bande épaule à épaule • Produit fabriqué à la demande 👀 À SAVOIR Le tissu est léger et peut être légèrement transparent, surtout pour les couleurs claires ou sous un éclairage intense. 😏 COLLECTION HUMEUR Parce que parfois, ton t-shirt parle avant toi. Humour assumé. Attitude claire. Streetwear québécois avec caractère. OseTee – Indépendant d’esprit. 🦉
-  Updated: 2026-03-02T09:46:56Z
+  Updated: 2026-04-20T21:11:51Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -15821,7 +15821,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69a4b3b7d226c.jpg?v=1772402106
     Price: 34,00 $ CAD
 - [Infirmière T-shirt classique unisexe](https://osetee.ca/products/infirmiere-t-shirt-classique-unisexe): 👕 T-Shirt Unisexe – Collection Métiers | OseTee Le t-shirt streetwear québécois qui rend hommage aux vrais métiers Le t-shirt unisexe Collection Métiers OseTee célèbre la fierté du travail et l’identité professionnelle avec un design puissant et assumé. Conçu pour celles et ceux qui exercent un métier essentiel, ce modèle allie confort, durabilité et attitude streetwear. Il ne s’agit pas d’un simple vêtement, mais d’un symbole de respect et de reconnaissance. Si vous recherchez un t-shirt métier au Québec, un vêtement identitaire professionnel ou un cadeau original pour souligner une vocation, cette pièce OseTee est pensée pour vous. 🔥 Pourquoi ce t-shirt unisexe se démarque Design exclusif OseTee inspiré de la culture québécoise Coupe unisexe moderne adaptée à toutes les silhouettes Style streetwear professionnel assumé Impression durable haute définition Conçu pour être porté au travail ou au quotidien ⚙️ Caractéristiques techniques 100 % coton (ou mélange coton/polyester selon la couleur) Tissu pré-rétréci Coupe structurée qui conserve sa forme Couture renforcée Impression résistante lavage après lavage Produit fabriqué à la demande 🎯 À qui s’adresse ce t-shirt ? À celles et ceux qui : sont fiers de leur métier veulent afficher leur identité professionnelle recherchent un t-shirt confortable et durable souhaitent offrir un cadeau significatif 🤖 FAQ – Questions fréquentes Ce t-shirt est-il adapté aux hommes et aux femmes ? Oui. Il s’agit d’un modèle unisexe conçu pour convenir à toutes les morphologies grâce à sa coupe structurée et polyvalente. Est-ce un bon cadeau pour souligner un métier ? Absolument. Ce t-shirt est un excellent cadeau pour reconnaître l’engagement, la passion et la fierté liés à une profession. Le tissu est-il résistant ? Oui. Le coton pré-rétréci et les coutures renforcées assurent une excellente tenue dans le temps, même après plusieurs lavages. L’impression tient-elle bien ? Oui. L’impression haute qualité est conçue pour résister aux lavages réguliers lorsqu’on suit les instructions d’entretien. Est-ce un t-shirt fabriqué au Québec ? Le design est créé au Québec. La production est réalisée à la demande afin de limiter la surproduction et le gaspillage. 🦉 Collection Métiers OseTee OseTee met en lumière celles et ceux qui tiennent le Québec debout.Un métier, ce n’est pas seulement ce que l’on fait.C’est une identité. OseTee – Indépendant d’esprit.
-  Updated: 2026-03-04T07:03:58Z
+  Updated: 2026-04-21T00:41:08Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -15899,7 +15899,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sport-grey-front-69a4c14dd7594.jpg?v=1772405793
     Price: 38,00 $ CAD
 - [Aider les petits humains a faire de grande choses.T-shirt classique unisexe](https://osetee.ca/products/aider-les-petits-humains-a-faire-de-grande-choses-t-shirt-classique-unisexe): 👕 T-Shirt Unisexe – Collection Métiers | OseTee Le t-shirt streetwear québécois qui rend hommage aux vrais métiers Le t-shirt unisexe Collection Métiers OseTee célèbre la fierté du travail et l’identité professionnelle avec un design puissant et assumé. Conçu pour celles et ceux qui exercent un métier essentiel, ce modèle allie confort, durabilité et attitude streetwear. Il ne s’agit pas d’un simple vêtement, mais d’un symbole de respect et de reconnaissance. Si vous recherchez un t-shirt métier au Québec, un vêtement identitaire professionnel ou un cadeau original pour souligner une vocation, cette pièce OseTee est pensée pour vous. 🔥 Pourquoi ce t-shirt unisexe se démarque Design exclusif OseTee inspiré de la culture québécoise Coupe unisexe moderne adaptée à toutes les silhouettes Style streetwear professionnel assumé Impression durable haute définition Conçu pour être porté au travail ou au quotidien ⚙️ Caractéristiques techniques 100 % coton (ou mélange coton/polyester selon la couleur) Tissu pré-rétréci Coupe structurée qui conserve sa forme Couture renforcée Impression résistante lavage après lavage Produit fabriqué à la demande 🎯 À qui s’adresse ce t-shirt ? À celles et ceux qui : sont fiers de leur métier veulent afficher leur identité professionnelle recherchent un t-shirt confortable et durable souhaitent offrir un cadeau significatif 🤖 FAQ – Questions fréquentes Ce t-shirt est-il adapté aux hommes et aux femmes ? Oui. Il s’agit d’un modèle unisexe conçu pour convenir à toutes les morphologies grâce à sa coupe structurée et polyvalente. Est-ce un bon cadeau pour souligner un métier ? Absolument. Ce t-shirt est un excellent cadeau pour reconnaître l’engagement, la passion et la fierté liés à une profession. Le tissu est-il résistant ? Oui. Le coton pré-rétréci et les coutures renforcées assurent une excellente tenue dans le temps, même après plusieurs lavages. L’impression tient-elle bien ? Oui. L’impression haute qualité est conçue pour résister aux lavages réguliers lorsqu’on suit les instructions d’entretien. Est-ce un t-shirt fabriqué au Québec ? Le design est créé au Québec. La production est réalisée à la demande afin de limiter la surproduction et le gaspillage. 🦉 Collection Métiers OseTee OseTee met en lumière celles et ceux qui tiennent le Québec debout.Un métier, ce n’est pas seulement ce que l’on fait.C’est une identité. OseTee – Indépendant d’esprit.
-  Updated: 2026-03-04T07:10:03Z
+  Updated: 2026-04-20T21:11:51Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -16025,7 +16025,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69a63bc134439.jpg?v=1772503026
     Price: 38,00 $ CAD
 - [Enseignante je ne change pas le monde.T-shirt classique unisexe](https://osetee.ca/products/enseignante-je-ne-change-pas-le-monde-t-shirt-classique-unisexe): 👕 T-Shirt Unisexe – Collection Métiers | OseTee Le t-shirt streetwear québécois qui rend hommage aux vrais métiers Le t-shirt unisexe Collection Métiers OseTee célèbre la fierté du travail et l’identité professionnelle avec un design puissant et assumé. Conçu pour celles et ceux qui exercent un métier essentiel, ce modèle allie confort, durabilité et attitude streetwear. Il ne s’agit pas d’un simple vêtement, mais d’un symbole de respect et de reconnaissance. Si vous recherchez un t-shirt métier au Québec, un vêtement identitaire professionnel ou un cadeau original pour souligner une vocation, cette pièce OseTee est pensée pour vous. 🔥 Pourquoi ce t-shirt unisexe se démarque Design exclusif OseTee inspiré de la culture québécoise Coupe unisexe moderne adaptée à toutes les silhouettes Style streetwear professionnel assumé Impression durable haute définition Conçu pour être porté au travail ou au quotidien ⚙️ Caractéristiques techniques 100 % coton (ou mélange coton/polyester selon la couleur) Tissu pré-rétréci Coupe structurée qui conserve sa forme Couture renforcée Impression résistante lavage après lavage Produit fabriqué à la demande 🎯 À qui s’adresse ce t-shirt ? À celles et ceux qui : sont fiers de leur métier veulent afficher leur identité professionnelle recherchent un t-shirt confortable et durable souhaitent offrir un cadeau significatif 🤖 FAQ – Questions fréquentes Ce t-shirt est-il adapté aux hommes et aux femmes ? Oui. Il s’agit d’un modèle unisexe conçu pour convenir à toutes les morphologies grâce à sa coupe structurée et polyvalente. Est-ce un bon cadeau pour souligner un métier ? Absolument. Ce t-shirt est un excellent cadeau pour reconnaître l’engagement, la passion et la fierté liés à une profession. Le tissu est-il résistant ? Oui. Le coton pré-rétréci et les coutures renforcées assurent une excellente tenue dans le temps, même après plusieurs lavages. L’impression tient-elle bien ? Oui. L’impression haute qualité est conçue pour résister aux lavages réguliers lorsqu’on suit les instructions d’entretien. Est-ce un t-shirt fabriqué au Québec ? Le design est créé au Québec. La production est réalisée à la demande afin de limiter la surproduction et le gaspillage. 🦉 Collection Métiers OseTee OseTee met en lumière celles et ceux qui tiennent le Québec debout. Un métier, ce n’est pas seulement ce que l’on fait. C’est une identité. OseTee – Indépendant d’esprit.
-  Updated: 2026-03-04T07:14:52Z
+  Updated: 2026-04-20T21:11:52Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -16079,7 +16079,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69a716d12940b.jpg?v=1772558260
     Price: 34,50 $ CAD
 - [T-shirt humour québécois « Faut l’avouer, sans moi c’est plate ». Design streetwear original de la collection Humeur OseTee. Style, attitude et personnalité.](https://osetee.ca/products/faut-lavouer-sans-moi-cest-plate-t-shirt-classique-unisexe): Le t-shirt « Faut l’avouer, sans moi c’est plate » de la collection Humeur OseTee est une pièce streetwear qui combine humour et personnalité. Avec sa citation assumée et son design typographique percutant, ce t-shirt attire l’attention et fait sourire. Confortable, original et facile à porter au quotidien, il est parfait pour celles et ceux qui aiment afficher leur attitude avec style.
-  Updated: 2026-03-07T13:25:49Z
+  Updated: 2026-04-20T21:11:52Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -16205,7 +16205,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69a7331c68bd7.jpg?v=1772567712
     Price: 38,50 $ CAD
 - [Rayon de soleil en théorie. Sarcastique en pratique.T-shirt classique unisexe](https://osetee.ca/products/t-shirt-classique-unisexe-2): 😎 T-Shirt Unisexe – Collection HumeurOseTee StreetwearTon humeur. Ton message. Ton attitude.Ce t-shirt unisexe de la collection Humeur OseTee est conçu pour celles et ceux qui aiment porter ce qu’ils pensent. Léger, confortable et flatteur, il épouse naturellement la silhouette tout en gardant une vibe street assumée.Doux au toucher. Léger sur les épaules.Mais avec une présence qui frappe.🔥 LA VIBE✔ Coupe moderne et unisexe✔ Léger, respirant et confortable✔ Élasticité naturelle pour un fit flatteur✔ Design Humeur exclusif OseTee✔ Signature OseTee + harfang officielParfait en solo l’été.Parfait en layering sous hoodie ou veste.⚙️ QUALITÉ PREMIUM• 100 % coton peigné et filé à l’anneau• Couleurs Heather : mélange coton / polyester• Poids : 142 g/m² (léger et respirant)• Tissu pré-rétréci• Construction cousue latéralement• Bande épaule à épaule• Produit fabriqué à la demande👀 À SAVOIRLe tissu est léger et peut être légèrement transparent, surtout pour les couleurs claires ou sous un éclairage intense.😏 COLLECTION HUMEURParce que parfois, ton t-shirt parle avant toi.Humour assumé. Attitude claire.Streetwear québécois avec caractère.OseTee – Indépendant d’esprit. 🦉
-  Updated: 2026-03-04T08:09:25Z
+  Updated: 2026-04-20T21:11:52Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -16331,7 +16331,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69a7358ba09d5.jpg?v=1772568027
     Price: 38,00 $ CAD
 - [Ébéniste cest comme menuisier mais a un autre niveau.T-shirt classique unisexe](https://osetee.ca/products/ebeniste-cest-comme-menuisier-mais-a-un-autre-niveau-t-shirt-classique-unisexe): 👕 T-Shirt Unisexe – Collection Métiers | OseTee Le t-shirt streetwear québécois qui rend hommage aux vrais métiers Le t-shirt unisexe Collection Métiers OseTee célèbre la fierté du travail et l’identité professionnelle avec un design puissant et assumé. Conçu pour celles et ceux qui exercent un métier essentiel, ce modèle allie confort, durabilité et attitude streetwear. Il ne s’agit pas d’un simple vêtement, mais d’un symbole de respect et de reconnaissance. Si vous recherchez un t-shirt métier au Québec, un vêtement identitaire professionnel ou un cadeau original pour souligner une vocation, cette pièce OseTee est pensée pour vous. 🔥 Pourquoi ce t-shirt unisexe se démarque Design exclusif OseTee inspiré de la culture québécoise Coupe unisexe moderne adaptée à toutes les silhouettes Style streetwear professionnel assumé Impression durable haute définition Conçu pour être porté au travail ou au quotidien ⚙️ Caractéristiques techniques 100 % coton (ou mélange coton/polyester selon la couleur) Tissu pré-rétréci Coupe structurée qui conserve sa forme Couture renforcée Impression résistante lavage après lavage Produit fabriqué à la demande 🎯 À qui s’adresse ce t-shirt ? À celles et ceux qui : sont fiers de leur métier veulent afficher leur identité professionnelle recherchent un t-shirt confortable et durable souhaitent offrir un cadeau significatif 🤖 FAQ – Questions fréquentes Ce t-shirt est-il adapté aux hommes et aux femmes ? Oui. Il s’agit d’un modèle unisexe conçu pour convenir à toutes les morphologies grâce à sa coupe structurée et polyvalente. Est-ce un bon cadeau pour souligner un métier ? Absolument. Ce t-shirt est un excellent cadeau pour reconnaître l’engagement, la passion et la fierté liés à une profession. Le tissu est-il résistant ? Oui. Le coton pré-rétréci et les coutures renforcées assurent une excellente tenue dans le temps, même après plusieurs lavages. L’impression tient-elle bien ? Oui. L’impression haute qualité est conçue pour résister aux lavages réguliers lorsqu’on suit les instructions d’entretien. Est-ce un t-shirt fabriqué au Québec ? Le design est créé au Québec. La production est réalisée à la demande afin de limiter la surproduction et le gaspillage. 🦉 Collection Métiers OseTee OseTee met en lumière celles et ceux qui tiennent le Québec debout. Un métier, ce n’est pas seulement ce que l’on fait. C’est une identité. OseTee – Indépendant d’esprit.
-  Updated: 2026-03-04T14:02:46Z
+  Updated: 2026-04-20T21:11:52Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -16385,7 +16385,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69a792a62a74f.jpg?v=1772590033
     Price: 35,00 $ CAD
 - [Osti Didée De Marde... T Shirt](https://osetee.ca/products/osti-d-039-idee-de-marde-t-shirt): Texte prêt à copier-coller. Osti d’idée de marde… on l’fait — T-shirt unisexe | OseTee Sur les chantiers, certaines phrases deviennent légendaires. « Osti d’idée de marde… on l’fait. » Une citation typiquement québécoise qui résume parfaitement l’esprit de débrouillardise, d’humour et de solidarité du monde de la construction. Ce t-shirt OseTee collection Humeur met en scène deux travailleurs qui se serrent la main, prêts à passer à l’action malgré une idée douteuse. Parce que sur un chantier, entre collègues, l’important c’est souvent d’essayer… et de voir ce qui arrive. Un design humoristique et assumé qui reflète l’attitude bien connue des gars de chantier : on chiale un peu… mais on le fait pareil. Détails du t-shirt T-shirt unisexe Coupe confortable et moderne Impression durable haute qualité Design exclusif OseTee Style humour chantier streetwear La collection Humeur OseTee La collection Humeur rassemble des t-shirts qui capturent : l’humour québécois les situations de la vie quotidienne les citations qu’on entend vraiment l’attitude assumée Des designs faits pour faire rire, provoquer des réactions et créer des conversations. Idéal pour travailleurs de la construction gars de chantier amateurs d’humour québécois cadeau original pour collègue
-  Updated: 2026-03-05T13:53:30Z
+  Updated: 2026-04-20T21:11:52Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -16528,7 +16528,7 @@
     Availability: Available
     Price: 30,99 $ CAD
 - [Ne Jamais Sous- Estimer Un Viel Homme Avec Une Canne T Shirt unisexe](https://osetee.ca/products/ne-jamais-sous-estimer-un-viel-homme-avec-une-canne-t-shirt): Ne jamais sous-estimer un vieil homme avec une canne — T-shirt unisexe | OseTee Certaines passions ne vieillissent jamais. Le t-shirt « Ne jamais sous-estimer un vieil homme avec une canne » célèbre avec humour et caractère l’expérience, la patience… et les talents cachés des pêcheurs. Ce design OseTee met en scène un pêcheur expérimenté en plein combat avec un gros poisson, symbole parfait de détermination et de savoir-faire acquis avec les années. Un visuel dynamique et puissant qui mélange humour, passion de la pêche et style streetwear assumé. Que ce soit au chalet, au bord du lac ou simplement pour afficher son amour de la pêche, ce t-shirt attire les regards et fait sourire. Détails du t-shirt T-shirt unisexe Coupe confortable et moderne Impression haute qualité Design exclusif OseTee Idéal pour un style décontracté et humoristique Couleurs recommandées :bleu nuit, noir, gris ou vert forêt. L’esprit de la collection Humeur La collection Humeur OseTee rassemble des designs qui jouent avec : l’humour l’attitude les passions les citations assumées Des t-shirts conçus pour être portés avec sourire et caractère. Idéal pour passionnés de pêche amateurs d’humour style décontracté cadeau parfait pour pêcheur
-  Updated: 2026-03-05T13:34:18Z
+  Updated: 2026-04-20T21:11:53Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -16734,7 +16734,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40365046_4_1.jpg?v=1772674446
     Price: 42,99 $ CAD
 - [Non  assimilation. Oui Souveraineté. T-shirt classique unisexe](https://osetee.ca/products/non-assimilation-souvrainete-t-shirt-classique-unisexe): Souveraineté — T-shirt Identité Québécoise | OseTee Description Voici Souveraineté, un design puissant de la collection identité québécoise OseTee. Au cœur du visuel, un harfang des neiges aux yeux bleus, symbole de vigilance et de liberté. À ses côtés, le lynx argenté, incarnation de la force nordique. Autour d’eux, plusieurs références fortes du Québec : la fleur de lys, la croix du Mont-Royal et le Château Frontenac. Au sommet du design, un message clair : ASSIMILATION ❌ Barré d’un X rouge puissant. En bas, la réponse : SOUVERAINETÉ Un t-shirt qui affirme une identité, une culture et une histoire. Comme toutes les créations OseTee, ce design est pensé pour un style streetwear fort, assumé et intemporel. Caractéristiques Impression haute qualité Design exclusif OseTee Coupe unisexe Confort premium OseTee Plus qu’un t-shirt. Une attitude.
-  Updated: 2026-03-17T18:51:07Z
+  Updated: 2026-04-20T21:11:53Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -16860,7 +16860,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69a8d06eba221.jpg?v=1772673909
     Price: 38,50 $ CAD
 - [A la table ou au menu.T-shirt classique unisexe](https://osetee.ca/products/a-la-table-ou-au-menu-t-shirt-classique-unisexe): À la table ou au menu — T-shirt unisexe | OseTee Certaines phrases résument toute une histoire. « À la table ou au menu » est une citation forte qui évoque le choix entre participer aux décisions… ou en subir les conséquences. Ce t-shirt OseTee identité québécoise met en scène un visuel puissant : un harfang aux yeux bleus et un lynx nordique, deux symboles de vigilance et de force, entourant une table gravée d’une fleur de lys. Les couverts rappellent la métaphore : être à la table… ou au menu. Un design qui mélange streetwear, symbolisme québécois et caractère affirmé. Détails du t-shirt T-shirt unisexe Coupe confortable et moderne Impression haute qualité Design exclusif OseTee Parfait pour un style streetwear identitaire Couleurs recommandées : noir, bleu nuit, gris charbon ou blanc cassé. Pourquoi choisir OseTee OseTee crée des vêtements qui expriment l'identité, la fierté et l'attitude québécoise. Chaque design est pensé pour être : visuellement puissant porteur de sens durable dans le temps OseTee, ce n’est pas seulement un t-shirt. C’est une attitude. Idéal pour amateurs de streetwear passionnés d’identité québécoise style urbain et assumé cadeau original
-  Updated: 2026-03-17T18:50:17Z
+  Updated: 2026-04-20T21:11:53Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -16986,7 +16986,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69a8d48008d14.jpg?v=1772673599
     Price: 39,00 $ CAD
 - [Ni conquis ni vaincus.T-shirt classique unisexe](https://osetee.ca/products/ni-conquis-ni-vaincus-t-shirt-classique-unisexe): Ni conquis ni vaincus — T-shirt unisexe | OseTee Certaines phrases traversent les siècles. « Ni conquis ni vaincus » est l’une des citations les plus puissantes de l’histoire québécoise. Elle évoque la résilience, la fierté et la détermination d’un peuple qui refuse d’être défini par la conquête. Ce t-shirt OseTee identité québécoise met en scène deux symboles forts du territoire nordique : le harfang des neiges aux yeux bleus, vigilant et majestueux, et le lynx argenté, symbole de force et d’instinct. Au centre du design, la fleur de lys, emblème du Québec, rappelle l’héritage culturel et historique qui unit les générations. Un visuel puissant qui mélange streetwear moderne et symbolisme québécois. Détails du t-shirt T-shirt unisexe Coupe confortable et moderne Impression haute qualité Design exclusif OseTee Idéal pour un style streetwear identitaire Couleurs recommandées : noir, bleu nuit, gris charbon ou blanc cassé. L’esprit OseTee OseTee crée des vêtements qui expriment l’identité, la fierté et l’attitude québécoise. Nos designs sont inspirés par : l’histoire la culture la force du territoire l’esprit libre du Québec Porter OseTee, c’est porter une attitude. Idéal pour amateurs d’histoire québécoise passionnés d’identité culturelle style streetwear affirmé cadeau original et significatif
-  Updated: 2026-03-05T13:07:34Z
+  Updated: 2026-04-20T21:11:54Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -17112,7 +17112,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69a8d73b29ade.jpg?v=1772673333
     Price: 39,00 $ CAD
 - [Sauvons Les Souris Mangeons Des Chattes T Shirt](https://osetee.ca/products/sauvons-les-souris-mangeons-des-chattes-t-shirt): T-shirt humour « Sauvons les souris. Mangeons des chattes » | OseTee – Collection Humeur Dans l’univers OseTee, l’humour n’est jamais timide.Il est assumé, direct… et souvent irrésistible. Le t-shirt « Sauvons les souris. Mangeons des chattes » incarne parfaitement l’esprit de la Collection Humeur : une punchline audacieuse, un design minimaliste et une signature visuelle forte avec le harfang OseTee aux yeux bleus. Conçu pour ceux qui aiment les phrases qui font sourire, réfléchir ou lever un sourcil, ce t-shirt streetwear se démarque par sa typographie percutante et son esthétique sobre qui attire immédiatement l’attention. Porté en soirée, au festival, entre amis ou simplement pour afficher votre sens de l’humour, ce design devient rapidement un sujet de conversation. Chez OseTee, chaque création est pensée comme une expression libre : un mélange de personnalité, d’ironie et d’indépendance d’esprit. Pourquoi ce t-shirt fait réagir • Une punchline humoristique audacieuse• Un design lisible et percutant• Le harfang signature OseTee aux yeux bleus• Un style streetwear minimaliste• Une pièce parfaite pour ceux qui aiment l’humour assumé Confort et style Ce t-shirt unisexe premium est conçu pour être porté tous les jours. Sa coupe confortable et son design intemporel en font un vêtement idéal pour : • soirées et festivals• sorties en ville• moments entre amis• streetwear casual• cadeau humoristique original L’esprit OseTee OseTee est une marque streetwear qui célèbre : • l’humour assumé• l’indépendance d’esprit• la créativité• l’attitude Chaque design est créé pour être porté avec confiance et personnalité.
-  Updated: 2026-03-06T13:13:35Z
+  Updated: 2026-04-20T21:11:54Z
   Vendor: OseTee
   Product Type: T-Shirt
   Availability: Available
@@ -17318,7 +17318,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40365190_4_12.jpg?v=1772761095
     Price: 44,99 $ CAD
 - [Osetee De Personnalité version signature.](https://osetee.ca/products/osetee-de-personnalite-ladies-t-shirt): T-shirt « OseTee de personnalité » | Collection Humeur – OseTee Parfois, un simple t-shirt suffit pour dire beaucoup. Le t-shirt OseTee de personnalité est une création emblématique de la collection Humeur OseTee. Avec son design minimaliste et son symbole fort — le harfang aux yeux bleus, signature de la marque — ce modèle exprime une idée simple : le style est une question de personnalité. Pensé pour celles et ceux qui aiment afficher leur caractère avec subtilité, ce t-shirt streetwear combine un message clair et une esthétique forte. Le logo OseTee placé au centre attire immédiatement l’attention, tandis que la phrase « de personnalité » donne au design une dimension à la fois humoristique et affirmée. Facile à porter au quotidien, ce modèle s’adapte à toutes les situations : en ville, entre amis ou lors d’un événement. Son style épuré en fait un t-shirt aussi confortable que marquant. Dans la collection Humeur, chaque création joue avec les mots et les idées. Ce design en devient rapidement l’un des piliers, car il incarne parfaitement l’esprit de la marque : humour, attitude et indépendance d’esprit. Pourquoi ce t-shirt se démarque • Design minimaliste et lisible• Logo harfang OseTee aux yeux bleus• Style streetwear moderne• Message simple et mémorable• Modèle emblématique de la collection Humeur L’esprit OseTee OseTee est une marque streetwear québécoise qui célèbre l’humour, l’identité et la liberté d’expression. Chaque t-shirt est conçu pour celles et ceux qui veulent porter plus qu’un vêtement : une attitude. OseTee — indépendant d’esprit.
-  Updated: 2026-03-07T05:27:42Z
+  Updated: 2026-04-20T21:11:54Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -17500,7 +17500,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40365220_4_17.jpg?v=1772815045
     Price: 59,99 $ CAD
 - [T-shirt & Hoodie Streetwear « OseTee – De personnalité » | Collection Humeur](https://osetee.ca/products/osetee-de-personnalite-hoodie): Hoodie et T-shirt « OseTee – De personnalité » | Collection Humeur Le design OseTee – De personnalité est une création phare de la collection Humeur OseTee, une ligne qui célèbre l’attitude, l’humour et l’expression de soi. Avec son logo emblématique harfang aux yeux bleus, symbole de vigilance et d’indépendance d’esprit, ce design minimaliste incarne parfaitement l’ADN de la marque. Associé à la signature « De personnalité », il rappelle que le style est avant tout une question de caractère. Inspiré par l’univers streetwear et l’énergie urbaine, ce modèle se porte aussi bien en ville que dans un décor graffiti typique des grandes rues de Montréal. Son esthétique épurée et son message affirmé en font une pièce facile à porter tout en restant distinctive. Disponible en t-shirt et hoodie, ce modèle unisexe est conçu pour hommes et femmes qui veulent afficher leur personnalité avec style. Couleurs disponibles • Noir• Bleu nuit Deux couleurs intemporelles qui mettent parfaitement en valeur le logo OseTee et les yeux bleus du harfang. Pourquoi ce modèle se démarque • Design streetwear minimaliste• Logo iconique harfang OseTee• Message affirmé : De personnalité• Disponible en t-shirt et hoodie• Coupe confortable homme et femme L’esprit de la collection Humeur La collection Humeur OseTee regroupe des designs inspirés de phrases assumées, d’humour et d’attitude. Chaque création est pensée pour celles et ceux qui aiment porter un vêtement qui reflète leur personnalité.
-  Updated: 2026-03-07T13:32:50Z
+  Updated: 2026-04-20T21:11:55Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -17682,7 +17682,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40365222_2_1.jpg?v=1772818139
     Price: 29,99 $ CAD
 - [Gros Engin Mais Je Gère T Shirt](https://osetee.ca/products/gros-engin-mais-je-gere-t-shirt): T-shirt « Gros engin… mais je gère » – Collection Humeur | OseTee Le t-shirt « Gros engin… mais je gère » de la collection Humeur OseTee est un clin d’œil humoristique à l’univers des chantiers et du génie civil. Inspiré par la réalité des travailleurs de la construction, ce design met en scène un opérateur de chantier accompagné d’une grue, symbole des gros projets, des grosses machines et des défis quotidiens. La phrase « Gros engin… mais je gère » ajoute une touche d’humour assumé qui fera sourire autant les collègues que les amis. Pensé pour ceux qui travaillent fort et qui gardent toujours le contrôle, ce t-shirt streetwear est parfait pour afficher sa personnalité sur un chantier, en ville ou lors d’une soirée entre amis. Avec son style visuel dynamique et ses couleurs contrastées, ce modèle attire l’œil tout en restant fidèle à l’esprit authentique et assumé d’OseTee. Pourquoi ce t-shirt se démarque • Design humoristique inspiré des chantiers• Clin d’œil au monde du génie civil et de la construction• Illustration originale avec grue de chantier• Style streetwear confortable et moderne• Parfait pour travailleurs, opérateurs et passionnés de machinerie Collection Humeur – OseTee La collection Humeur OseTee rassemble des créations inspirées de phrases assumées, d’humour et d’attitude. Chaque design est pensé pour refléter la personnalité de ceux qui les portent.
-  Updated: 2026-03-07T08:10:14Z
+  Updated: 2026-04-20T21:11:55Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -17864,7 +17864,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40365237_3_1.jpg?v=1772820169
     Price: 30,99 $ CAD
 - [T-shirt « Résolution tenue : gym… gin » – Collection Humeur | OseTee](https://osetee.ca/products/resolution-tenue-ladies-t-shirt): T-shirt « Résolution tenue : gym… gin » – Collection Humeur | OseTee Le t-shirt « Résolution tenue : gym… gin » de la collection Humeur OseTee est une création humoristique parfaite pour celles et ceux qui prennent leurs résolutions… avec un peu de légèreté. Avec son design minimaliste et son verre de martini illustré, ce t-shirt joue sur un classique des résolutions du Nouvel An : aller au gym. Mais chez OseTee, la réalité est parfois plus festive… et le gym devient gin. Pensé pour les soirées entre amis, les sorties en ville ou les moments où l’humour est au rendez-vous, ce t-shirt attire les sourires et les conversations. Son style simple et percutant en fait une pièce facile à porter tout en restant originale. Parfait pour les amateurs de cocktails, de bonne humeur et de second degré, ce modèle incarne l’esprit décontracté et assumé de la marque OseTee. Pourquoi ce t-shirt se démarque • Design humoristique et minimaliste• Jeu de mots original gym / gin• Illustration cocktail martini stylisée• Style streetwear confortable et moderne• Parfait pour les sorties, bars et soirées Collection Humeur – OseTee La collection Humeur OseTee rassemble des créations inspirées de phrases assumées, d’humour et d’attitude. Chaque design est pensé pour refléter la personnalité de ceux qui aiment afficher leur état d’esprit avec style.
-  Updated: 2026-03-07T08:37:00Z
+  Updated: 2026-04-20T21:11:55Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -18046,7 +18046,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40361084_4_1.jpg?v=1772821509
     Price: 59,99 $ CAD
 - [T-shirt OseTee Harfang « Ose ta vie » – T-shirt unisexe streetwear québécois | Collection Humeur](https://osetee.ca/products/ose-la-vie-t-shirt-classique-unisexe): T-shirt OseTee « Ose ta vie » – Collection Humeur Exprime ton attitude. Assume ton style. Ose ta vie. Le t-shirt OseTee Collection Humeur est conçu pour celles et ceux qui vivent selon leurs propres règles. Avec son harfang emblématique et son style streetwear affirmé, ce t-shirt unisexe incarne l’esprit libre et audacieux de la marque OseTee. Fabriqué dans un coton doux et léger avec juste ce qu’il faut d’élasticité, il offre un confort exceptionnel et une coupe flatteuse pour hommes et femmes. Parfait pour le quotidien, les sorties urbaines ou simplement afficher ton attitude avec style. Son design puissant mettant en scène le harfang OseTee, symbole de vision, de liberté et d’intelligence, fait de ce t-shirt bien plus qu’un vêtement : une déclaration. Disponible en plusieurs couleurs pâles et foncées, il s’adapte à toutes les vibes : minimaliste, streetwear ou lifestyle. 🔥 OseTee — Ose ta vie. Pourquoi tu vas l’adorer ✔ Style streetwear québécois distinctif ✔ Coupe unisexe moderne pour homme et femme ✔ Coton doux, léger et confortable ✔ Design signature harfang OseTee ✔ Parfait pour une tenue urbaine, casual ou lifestyle Caractéristiques • 100 % coton peigné et filé à l’anneau • Tissu doux et respirant • Coupe unisexe moderne • Tissu pré-rétréci • Coutures latérales pour une meilleure tenue • Bande de propreté épaule à épaule • Design imprimé durable L’esprit OseTee OseTee n’est pas seulement une marque de vêtements. C’est un état d’esprit. Nos créations s’inspirent de l’humour, de l’attitude et de la liberté d’être soi-même. Chaque design est pensé pour ceux qui veulent porter quelque chose qui a du caractère.
-  Updated: 2026-03-07T12:31:55Z
+  Updated: 2026-04-20T21:11:55Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -18172,7 +18172,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69ab62ebbd45d.jpg?v=1772840084
     Price: 39,00 $ CAD
 - [**T-shirt Attache ta tuque | T-shirt humour québécois unisexe streetwear – OseTee](https://osetee.ca/products/t-shirt-attache-ta-tuque-t-shirt-humour-quebecois-unisexe-streetwear-osetee): T-shirt « Attache ta tuque » – OseTee Collection Humeur Attache ta tuque… ça va brasser. Ce t-shirt unisexe de la collection Humeur OseTee capture parfaitement l’humour et l’attitude québécoise. Avec son visuel puissant et sa citation iconique, ce design est une véritable déclaration pour ceux qui aiment afficher leur personnalité avec style. Inspiré du langage populaire du Québec, le t-shirt « Attache ta tuque » incarne la détermination, l’énergie et l’esprit festif qui caractérisent la culture québécoise. Que ce soit entre amis, en ville, en soirée ou lors d’une aventure, ce t-shirt devient rapidement un incontournable du streetwear québécois. Fabriqué dans un coton doux et confortable, il offre une coupe moderne qui convient aussi bien aux hommes qu’aux femmes. Léger, respirant et durable, il s’intègre parfaitement à un look urbain, casual ou streetwear. Le design met en scène un personnage déterminé qui ajuste sa tuque avant l’action — une image forte qui symbolise l’attitude « prêt à tout ». 🔥 OseTee — Ose ta vie. Pourquoi ce t-shirt se démarque ✔ Design original inspiré de l’humour québécois ✔ Style streetwear distinctif ✔ Coupe unisexe moderne ✔ Confort exceptionnel pour tous les jours ✔ Parfait pour les sorties, les festivals et la vie urbaine Caractéristiques • 100 % coton doux et respirant • Coupe unisexe confortable • Tissu léger et durable • Coutures renforcées • Design graphique signature OseTee L’esprit de la collection Humeur La collection Humeur OseTee rassemble des créations inspirées de l’humour, de l’attitude et de la culture québécoise. Des citations assumées, des designs audacieux et un style streetwear unique qui reflètent l’esprit libre de ceux qui osent être eux-mêmes.
-  Updated: 2026-03-07T14:00:53Z
+  Updated: 2026-04-20T21:11:56Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -18298,7 +18298,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69ab7892ea678.jpg?v=1772846840
     Price: 39,00 $ CAD
 - [Plan A — T‑shirts métier OseTee | style streetwear, identité québécoise](https://osetee.ca/products/plan-a-t-shirts-metier-osetee-style-streetwear-identite-quebecoise): Collection métier Plan A: t‑shirts premium, vibe urbaine, identité québécoise. Parfaits pour pro, artisan, créateur ou passionné qui veut du look + sens. Stock limité.
-  Updated: 2026-03-10T23:20:48Z
+  Updated: 2026-04-20T21:11:56Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -18328,7 +18328,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69af6a8429992.jpg?v=1773109288
     Price: 35,00 $ CAD
 - [Ça va tenir. (probablement) — T-shirt humour chantier unisexe OseTee](https://osetee.ca/products/ca-va-tenir-probablement-t-shirt-humour-chantier-unisexe-osetee): Parfois dans la vie… on serre les bolts, on attache ça solide… et on se dit simplement : « Ça va tenir. (probablement) » Ce t-shirt unisexe OseTee capture parfaitement l’esprit des métiers, des chantiers et de tous ceux qui savent que l’expérience, l’ingéniosité… et un peu d’espoir font souvent la job. Avec son illustration robuste inspirée du monde de la construction et son humour assumé, ce design devient instantanément un favori pour les travailleurs, artisans, bricoleurs et amateurs de chantier. Que ce soit sur un chantier, dans un garage ou simplement pour afficher ton attitude pratique et débrouillarde, ce t-shirt dit exactement ce que tout le monde pense. Un classique instantané de la collection Métiers et Humeur OseTee. Pourquoi ce t-shirt devient un favori ✔ Humour de chantier authentique ✔ Design robuste inspiré des métiers ✔ Style streetwear québécois assumé ✔ T-shirt unisexe confortable ✔ Parfait pour travail, week-end ou garage Détails • T-shirt unisexe premium • Coupe confortable homme et femme • Impression durable haute qualité • Idéal sur noir, bleu nuit ou gris • Signature OseTee authentique Pour qui ? Ce t-shirt est parfait pour : travailleurs de chantier artisans constructeurs mécaniciens bricoleurs amateurs d’humour de métier Ou tout simplement ceux qui savent que parfois… « Ça va tenir. (probablement) »
-  Updated: 2026-03-11T19:01:05Z
+  Updated: 2026-04-20T21:11:56Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -18358,7 +18358,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-black-front-69af6edf2a686.jpg?v=1773109601
     Price: 35,00 $ CAD
 - [Ça passe t’inquiète (sinon on coupe) — T-shirt humour chantier | OseTee](https://osetee.ca/products/ca-passe-t-inquiete-sinon-on-coupe-t-shirt-humour-chantier-osetee): Dans le monde des chantiers, il y a deux types de solutions : les solutions compliquées… et celles qui fonctionnent vraiment. « Ça passe t’inquiète. (sinon on coupe) » Ce t-shirt unisexe OseTee capture parfaitement l’humour et la débrouillardise du monde de la construction, de la mécanique et des métiers manuels. Inspiré de la réalité des chantiers, ce design met en scène une pelle mécanique prête à régler le problème à sa façon. Parce que parfois, la meilleure solution… c’est simplement d’ajuster un peu. Un design qui parle immédiatement aux travailleurs, aux artisans et à tous ceux qui connaissent la mentalité pratique et directe du chantier. Un classique instantané des collections Métiers et Humeur OseTee. Pourquoi ce t-shirt va devenir un favori ✔ Humour de chantier authentique ✔ Design puissant inspiré de la construction ✔ Attitude débrouillarde typiquement québécoise ✔ Style streetwear OseTee ✔ T-shirt unisexe confortable Détails • T-shirt unisexe premium • Coupe confortable homme et femme • Impression durable haute qualité • Idéal sur noir, bleu nuit ou gris • Signature OseTee authentique Parfait pour travailleurs de chantier opérateurs de machinerie constructeurs mécaniciens bricoleurs amateurs d’humour de métier Parce que sur un chantier… « Ça passe t’inquiète. (sinon on coupe) »
-  Updated: 2026-03-11T00:13:01Z
+  Updated: 2026-04-20T21:11:56Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -18388,7 +18388,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69af71dd716d6.jpg?v=1773109863
     Price: 35,00 $ CAD
 - [L’alcool est ton ennemi – Problème réglé | T-shirt humour québécois OseTee](https://osetee.ca/products/l-alcool-est-ton-ennemi-probleme-regle-t-shirt-humour-quebecois-osetee): Parfois, les plus grands problèmes de la vie ont les solutions les plus simples. L’alcool est ton ennemi. Jésus dit : aime ton ennemi. Problème réglé. Avec ce design devenu instantanément un chef-d’œuvre de la collection Humeur OseTee, l’humour québécois rencontre l’attitude streetwear. Un t-shirt qui fait sourire, qui fait jaser… et qui devient rapidement le favori des soirées entre amis. Inspiré de l’ambiance bar de région, chalet, festival d’été et party entre chums, ce design raconte une histoire avec un visuel détaillé et une punchline impossible à oublier. Chez OseTee, on ne fait pas seulement des t-shirts. On crée des citations à porter. Pourquoi ce t-shirt devient rapidement un favori ✔ Punchline humoristique mémorable ✔ Design artistique unique style vintage bar ✔ Streetwear québécois assumé ✔ Parfait pour bars, festivals, partys et chalets ✔ Fait toujours rire quelqu’un autour de toi Détails du produit • T-shirt unisexe • Coupe confortable et moderne • Impression haute qualité durable • Design exclusif OseTee • Disponible en noir et bleu nuit Esprit OseTee OseTee est une marque streetwear québécoise qui transforme les idées, l’humour et l’identité en vêtements à porter avec fierté. Nos collections mélangent : • humour assumé • attitude • culture québécoise • citations marquantes Chaque design est créé pour faire réagir, sourire et lancer une conversation. Parfait pour 🍻 soirées au bar 🏕 chalet entre amis 🎉 festivals et événements 🔥 ceux qui aiment l’humour assumé Signature officielle OseTee
-  Updated: 2026-03-12T22:18:40Z
+  Updated: 2026-04-20T21:11:56Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -18514,7 +18514,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69b18261eef80.jpg?v=1773241583
     Price: 39,00 $ CAD
 - [T-shirt « Patriotes Insoumis » – OseTee Collection Patriotes](https://osetee.ca/products/t-shirt-patriotes-insoumis-osetee-collection-patriotes): T-shirt « Patriotes Insoumis » – OseTee Collection Patriotes Fiers. Libres. Insoumis. Le t-shirt Patriotes Insoumis de la collection Patriotes OseTee rend hommage à l’esprit de résistance, de courage et de liberté qui fait partie de l’histoire et de l’identité québécoise. Son design puissant met en scène le harfang majestueux, symbole de vision et de force, entouré d’éléments emblématiques rappelant la lutte des Patriotes et les valeurs fondamentales de liberté et justice. Ce t-shirt unisexe combine identité, culture et streetwear, pour créer une pièce forte qui affirme ton attachement à l’histoire et à la fierté québécoise. Fabriqué dans un coton confortable et durable, il offre une coupe moderne parfaite pour hommes et femmes. Idéal pour un look urbain, casual ou streetwear, ce t-shirt devient rapidement un incontournable pour ceux qui veulent porter un message. 🔥 OseTee — Ose ta vie. Pourquoi ce t-shirt se démarque ✔ Design identitaire québécois puissant ✔ Hommage aux Patriotes et aux valeurs de liberté ✔ Style streetwear distinctif ✔ Coupe unisexe moderne ✔ Confort idéal pour tous les jours Caractéristiques • 100 % coton doux et respirant • Coupe unisexe moderne • Tissu durable et confortable • Coutures renforcées • Design graphique signature OseTee L’esprit de la collection Patriotes La collection Patriotes OseTee s’inspire de l’histoire, du courage et de l’identité du peuple québécois. Chaque design évoque la fierté, la résistance et l’héritage culturel qui ont façonné le Québec.
-  Updated: 2026-03-20T02:42:18Z
+  Updated: 2026-04-20T21:11:57Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -18640,7 +18640,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69b1a0f6a23f5.jpg?v=1773258624
     Price: 27,00 $ CAD
 - [T-shirt 1837 Résistance – T-shirt Patriotes Québécois Unisexe | Collection Patriotes OseTee](https://osetee.ca/products/t-shirt-1837-resistance-t-shirt-patriotes-quebecois-unisexe-collection-patriotes-osetee): Ce t-shirt unisexe de la collection Patriotes OseTee rend hommage à l’esprit de courage et de résistance qui a marqué l’histoire du Québec. Inspiré par les événements de 1837-1838 et le mouvement des Patriotes, ce design minimaliste et puissant met en scène deux fusils croisés, symbole de lutte, de détermination et de défense des libertés. Avec son style épuré et intemporel, le t-shirt 1837 Résistance s’inscrit parfaitement dans l’univers du streetwear identitaire québécois. C’est une pièce forte pour celles et ceux qui souhaitent porter un symbole d’histoire et de fierté. Fabriqué dans un coton confortable et durable, il offre une coupe moderne adaptée aussi bien aux hommes qu’aux femmes. Parfait pour un look urbain, casual ou streetwear. 🔥 OseTee — Ose ta vie. ⭐ Pourquoi ce t-shirt se démarque ✔ Design inspiré de l’histoire des Patriotes ✔ Style minimaliste puissant ✔ Symbole de résistance et de liberté ✔ Coupe unisexe moderne ✔ Parfait pour un look streetwear identitaire 📜 L’esprit du design L’année 1837 évoque une période marquante de l’histoire du Québec. Le design Résistance rappelle l’esprit d’indépendance, de courage et de détermination qui caractérise cet héritage. Cette création fait partie de la collection Patriotes OseTee, une série de designs inspirés de l’histoire et de l’identité québécoise.
-  Updated: 2026-03-13T10:49:06Z
+  Updated: 2026-04-20T21:11:57Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -18694,7 +18694,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69b1a5fdc5062.jpg?v=1773259002
     Price: 35,00 $ CAD
 - [T-shirt Lecteur Optique – T-shirt Unisexe Métiers Streetwear | Collection Humeur OseTee](https://osetee.ca/products/t-shirt-lecteur-optique-t-shirt-unisexe-metiers-streetwear-collection-humeur-osetee): Précision. Concentration. Vision. Le t-shirt Lecteur Optique de la collection Métiers OseTee rend hommage à ceux dont le travail exige une attention extrême aux détails. Inspiré par les métiers de précision et les technologies modernes de lecture et d’analyse optique, ce design symbolise la rigueur, l’observation et la maîtrise. Avec son style minimaliste et son design distinctif, ce t-shirt s’intègre parfaitement dans l’univers streetwear québécois OseTee. Il permet d’afficher fièrement son métier, sa passion ou son expertise avec un look urbain moderne. Fabriqué dans un coton confortable et respirant, ce t-shirt unisexe offre une coupe moderne qui convient aussi bien aux hommes qu’aux femmes. Léger, durable et polyvalent, il s’adapte à toutes les situations : travail, sorties ou style casual. 🔥 OseTee — Ose ta vie. ⭐ Pourquoi ce t-shirt se démarque ✔ Hommage aux métiers de précision ✔ Design moderne et distinctif ✔ Style streetwear québécois ✔ Coupe unisexe confortable ✔ Parfait pour le travail ou le quotidien 🧵 Caractéristiques • 100 % coton doux et respirant • Coupe unisexe moderne • Tissu durable et confortable • Coutures renforcées • Impression graphique durable 🧠 L’esprit de la collection Métiers OseTee La collection Métiers OseTee célèbre les professions qui bâtissent, soignent, enseignent et font avancer la société. Chaque design met en valeur l’expertise, la passion et le savoir-faire des gens de métier. 🔎 15 Tags SEO optimisés tshirt lecteur optique, tshirt metiers, tshirt metier technique, tshirt profession, tshirt unisexe metiers, tshirt streetwear quebec, tshirt travail, tshirt professionnel, tshirt metier precision, tshirt technologie, tshirt osetee, vetement metiers, tshirt lifestyle urbain, tshirt graphique metiers, collection metiers osetee 🤖 FAQ Ce t-shirt est-il unisexe ? Oui. Le t-shirt Lecteur Optique OseTee possède une coupe unisexe moderne qui convient aux hommes et aux femmes. À quelle collection appartient ce design ? Ce design fait partie de la collection Métiers OseTee, une série de créations inspirées des professions et du savoir-faire. Ce t-shirt est-il confortable pour le travail ou le quotidien ? Oui. Son tissu en coton doux et respirant le rend idéal pour un usage quotidien ou professionnel. Pourquoi choisir un t-shirt de la collection Métiers ? Parce qu’il permet d’afficher fièrement son métier ou sa passion tout en portant un design streetwear original.
-  Updated: 2026-03-13T20:34:33Z
+  Updated: 2026-04-20T21:11:57Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -18748,7 +18748,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69b1ac743c98b.jpg?v=1773251716
     Price: 35,00 $ CAD
 - [forge dans le feu .La collection Métiers OseTeeb tshirt  streetwear unisexe Quebecois](https://osetee.ca/products/forge-dans-le-feu-la-collection-metiers-oseteeb-tshirt-streetwear-unisexe-quebecois): Chaque métier raconte une histoire.Chaque profession mérite d’être portée avec fierté. 🔥 FORGÉ DANS LE FEUCertains sont nés pour suivre.D’autres sont forgés dans l’effort, le travail et le feu. ⚒️ Une pièce de la collection Métiers / Nord par OseTee. 👕 Disponible maintenantPour ceux qui savent que le caractère ne s’achète pas — il se forge. La collection Métiers OseTee rend hommage à celles et ceux qui bâtissent, soignent, enseignent, réparent, créent et font avancer la société chaque jour.Ces designs originaux s’inspirent du savoir-faire, de la passion et de l’identité des travailleurs. Chaque création combine humour, fierté et style streetwear, pour transformer un simple vêtement en véritable symbole de métier.Avec leur style distinctif et leur design graphique puissant, les vêtements de la collection Métiers OseTee permettent d’afficher son professionnalisme et sa passion tout en conservant une allure moderne et urbaine.Fabriqué dans un tissu confortable et durable, ce t-shirt unisexe offre une coupe moderne adaptée aussi bien aux hommes qu’aux femmes. Il est idéal pour le quotidien, le travail, les sorties ou simplement pour représenter fièrement son métier.🔥 OseTee — Ose ta vie.Pourquoi ce vêtement se démarque✔ Hommage aux métiers et aux professions✔ Design graphique original et distinctif✔ Style streetwear moderne✔ Coupe unisexe confortable✔ Parfait pour le travail ou le quotidienCaractéristiques• T-shirt classique unisexe• Tissu doux et confortable• Coupe moderne adaptée à tous• Impression graphique durable• Parfait pour un look casual ou urbainL’esprit de la collection MétiersLa collection Métiers OseTee célèbre les femmes et les hommes de métier.Chaque design met en lumière le talent, la passion et la contribution de ces professionnels qui façonnent notre société.Ces créations permettent de porter son métier avec fierté, humour et attitude.FAQ À qui s’adresse la collection Métiers OseTee ?La collection Métiers OseTee s’adresse à tous ceux qui souhaitent afficher fièrement leur profession ou leur passion à travers un design original et un style streetwear.Ce t-shirt est-il unisexe ?Oui. Les vêtements de la collection Métiers OseTee possèdent une coupe unisexe moderne adaptée aux hommes et aux femmes.Peut-on porter ce t-shirt au travail ?Oui. Grâce à son confort et son design polyvalent, ce t-shirt peut être porté au travail, lors de sorties ou au quotidien.Quels métiers sont représentés dans la collection ?La collection Métiers OseTee propose des designs inspirés de nombreuses professions afin de valoriser le savoir-faire et l’expertise des travailleurs.Pourquoi choisir un vêtement OseTee ?Les créations OseTee combinent identité, humour et style streetwear pour offrir des designs originaux qui permettent d’exprimer sa personnalité.
-  Updated: 2026-03-12T19:03:37Z
+  Updated: 2026-04-20T21:11:57Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -18778,7 +18778,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-black-front-69b1b3ab2ec50.jpg?v=1773263650
     Price: 35,00 $ CAD
 - [De Lacier et du Feu T-shirt classique unisexe Streetwear  Québécois  OseTee](https://osetee.ca/products/de-lacier-et-du-feu-t-shirt-classique-unisexe-streetwear-quebecois-osetee): Chaque métier raconte une histoire.De lacier et du feu raconte une légende. Chaque profession mérite d’être portée avec fierté. La collection Métiers OseTee rend hommage à celles et ceux qui bâtissent, soignent, enseignent, réparent, créent et font avancer la société chaque jour. Ces designs originaux s’inspirent du savoir-faire, de la passion et de l’identité des travailleurs. Chaque création combine humour, fierté et style streetwear, pour transformer un simple vêtement en véritable symbole de métier. Avec leur style distinctif et leur design graphique puissant, les vêtements de la collection Métiers OseTee permettent d’afficher son professionnalisme et sa passion tout en conservant une allure moderne et urbaine. Fabriqué dans un tissu confortable et durable, ce t-shirt unisexe offre une coupe moderne adaptée aussi bien aux hommes qu’aux femmes. Il est idéal pour le quotidien, le travail, les sorties ou simplement pour représenter fièrement son métier. 🔥 OseTee — Ose ta vie. Pourquoi ce vêtement se démarque ✔ Hommage aux métiers et aux professions ✔ Design graphique original et distinctif ✔ Style streetwear moderne ✔ Coupe unisexe confortable ✔ Parfait pour le travail ou le quotidien Caractéristiques • T-shirt classique unisexe • Tissu doux et confortable • Coupe moderne adaptée à tous • Impression graphique durable • Parfait pour un look casual ou urbain L’esprit de la collection Métiers La collection Métiers OseTee célèbre les femmes et les hommes de métier. Chaque design met en lumière le talent, la passion et la contribution de ces professionnels qui façonnent notre société. Ces créations permettent de porter son métier avec fierté, humour et attitude. FAQ À qui s’adresse la collection Métiers OseTee ? La collection Métiers OseTee s’adresse à tous ceux qui souhaitent afficher fièrement leur profession ou leur passion à travers un design original et un style streetwear. Ce t-shirt est-il unisexe ? Oui. Les vêtements de la collection Métiers OseTee possèdent une coupe unisexe moderne adaptée aux hommes et aux femmes. Peut-on porter ce t-shirt au travail ? Oui. Grâce à son confort et son design polyvalent, ce t-shirt peut être porté au travail, lors de sorties ou au quotidien. Quels métiers sont représentés dans la collection ? La collection Métiers OseTee propose des designs inspirés de nombreuses professions afin de valoriser le savoir-faire et l’expertise des travailleurs. Pourquoi choisir un vêtement OseTee ? Les créations OseTee combinent identité, humour et style streetwear pour offrir des designs originaux qui permettent d’exprimer sa personnalité.
-  Updated: 2026-03-13T19:32:13Z
+  Updated: 2026-04-20T21:11:57Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -18856,7 +18856,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sport-grey-front-69b1b70eabca2.jpg?v=1773264940
     Price: 39,00 $ CAD
 - [Partis Bucher T-shirt classique unisexe Collection Métiers   OseTee](https://osetee.ca/products/partis-bucher-t-shirt-classique-unisexe-collection-metiers-osetee): Chaque métier raconte une histoire.Chaque profession mérite d’être portée avec fierté. ben la chu partis bûcher 🪓 PARTIS BÛCHERPas besoin de GPS quand tu connais le bois. Du froid.Du bois.Du travail. C’est ça le nord. 👕 OseTee — pour ceux qui ne font pas semblant. La collection Métiers OseTee rend hommage à celles et ceux qui bâtissent, soignent, enseignent, réparent, créent et font avancer la société chaque jour.Ces designs originaux s’inspirent du savoir-faire, de la passion et de l’identité des travailleurs. Chaque création combine humour, fierté et style streetwear, pour transformer un simple vêtement en véritable symbole de métier.Avec leur style distinctif et leur design graphique puissant, les vêtements de la collection Métiers OseTee permettent d’afficher son professionnalisme et sa passion tout en conservant une allure moderne et urbaine.Fabriqué dans un tissu confortable et durable, ce t-shirt unisexe offre une coupe moderne adaptée aussi bien aux hommes qu’aux femmes. Il est idéal pour le quotidien, le travail, les sorties ou simplement pour représenter fièrement son métier.🔥 OseTee — Ose ta vie.Pourquoi ce vêtement se démarque✔ Hommage aux métiers et aux professions✔ Design graphique original et distinctif✔ Style streetwear moderne✔ Coupe unisexe confortable✔ Parfait pour le travail ou le quotidienCaractéristiques• T-shirt classique unisexe• Tissu doux et confortable• Coupe moderne adaptée à tous• Impression graphique durable• Parfait pour un look casual ou urbainL’esprit de la collection MétiersLa collection Métiers OseTee célèbre les femmes et les hommes de métier.Chaque design met en lumière le talent, la passion et la contribution de ces professionnels qui façonnent notre société.Ces créations permettent de porter son métier avec fierté, humour et attitude.FAQ À qui s’adresse la collection Métiers OseTee ?La collection Métiers OseTee s’adresse à tous ceux qui souhaitent afficher fièrement leur profession ou leur passion à travers un design original et un style streetwear.Ce t-shirt est-il unisexe ?Oui. Les vêtements de la collection Métiers OseTee possèdent une coupe unisexe moderne adaptée aux hommes et aux femmes.Peut-on porter ce t-shirt au travail ?Oui. Grâce à son confort et son design polyvalent, ce t-shirt peut être porté au travail, lors de sorties ou au quotidien.Quels métiers sont représentés dans la collection ?La collection Métiers OseTee propose des designs inspirés de nombreuses professions afin de valoriser le savoir-faire et l’expertise des travailleurs.Pourquoi choisir un vêtement OseTee ?Les créations OseTee combinent identité, humour et style streetwear pour offrir des designs originaux qui permettent d’exprimer sa personnalité.
-  Updated: 2026-03-12T17:34:00Z
+  Updated: 2026-04-20T21:11:58Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -18910,7 +18910,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69b1b8ad9480e.jpg?v=1773267512
     Price: 35,00 $ CAD
 - [Les gens du fleuve Humeur|OseTee.T-shirt classique unisexe](https://osetee.ca/products/les-gens-du-fleuve-humeur-osetee-t-shirt-classique-unisexe): L’humour québécois est unique. Direct. Authentique. Assumé. Les gens du fleuve on une Humeur et une joie de vivre exceptionnel. La collection Humeur OseTee rassemble des t-shirts et vêtements inspirés des expressions populaires, des citations assumées et de l’attitude bien québécoise qui fait sourire, réfléchir ou réagir. Chaque design est conçu pour transformer une phrase ou une idée en véritable statement streetwear. Ici, l’humour rencontre l’identité et le style urbain. Les créations de la collection Humeur mettent en scène des expressions emblématiques du Québec, des punchlines mémorables et des illustrations originales qui capturent l’esprit libre et audacieux de la marque OseTee. Avec leur style distinctif et leur esthétique graphique forte, ces vêtements deviennent bien plus qu’un simple t-shirt : ils permettent d’afficher une attitude, une humeur et une personnalité. Fabriqué dans un tissu confortable et durable, ce t-shirt unisexe possède une coupe moderne qui convient aussi bien aux hommes qu’aux femmes. Léger, respirant et polyvalent, il est parfait pour la vie quotidienne, les sorties, les festivals ou simplement pour afficher son style avec humour. 🔥 OseTee — Ose ta vie. Pourquoi cette collection se démarque ✔ Humour québécois assumé ✔ Expressions et citations populaires ✔ Style streetwear distinctif ✔ Coupe unisexe moderne ✔ Parfait pour le quotidien et les sorties L’esprit de la collection Humeur La collection Humeur OseTee est dédiée à ceux qui aiment dire les choses comme elles sont. Elle s’inspire des expressions québécoises, de l’humour direct et de l’attitude libre qui caractérisent la culture d’ici. Ces créations permettent de porter un message, une blague ou une citation avec style et personnalité. FAQ Qu’est-ce que la collection Humeur OseTee ? La collection Humeur OseTee regroupe des t-shirts inspirés d’expressions québécoises, de citations humoristiques et de punchlines assumées qui reflètent l’esprit et l’attitude de la culture québécoise. Ces t-shirts sont-ils unisexes ? Oui. Les vêtements de la collection Humeur OseTee possèdent une coupe unisexe moderne adaptée aux hommes et aux femmes. Dans quelles occasions porter un t-shirt de la collection Humeur ? Ces t-shirts peuvent être portés au quotidien, lors de sorties entre amis, festivals, événements ou simplement pour afficher son humour et sa personnalité. Pourquoi choisir un t-shirt de la collection Humeur ? Les designs OseTee combinent humour, culture et style streetwear pour créer des vêtements originaux qui permettent d’exprimer sa personnalité avec authenticité.
-  Updated: 2026-03-12T12:49:40Z
+  Updated: 2026-04-20T21:11:58Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -19036,7 +19036,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69b1bcd61b03f.jpg?v=1773269812
     Price: 39,00 $ CAD
 - [Nous sommes le Nord.Humeur|OseTee .T-shirt classique unisexe Québécois](https://osetee.ca/products/nous-sommes-le-nord-humeur-osetee-t-shirt-classique-unisexe-quebecois): L’humour québécois est unique. Direct. Authentique. Assumé. Nous sommes le nord est un attitude une façon de vivre un bonheur a partager. La collection Humeur OseTee rassemble des t-shirts et vêtements inspirés des expressions populaires, des citations assumées et de l’attitude bien québécoise qui fait sourire, réfléchir ou réagir. Chaque design est conçu pour transformer une phrase ou une idée en véritable statement streetwear. Ici, l’humour rencontre l’identité et le style urbain. Les créations de la collection Humeur mettent en scène des expressions emblématiques du Québec, des punchlines mémorables et des illustrations originales qui capturent l’esprit libre et audacieux de la marque OseTee. Avec leur style distinctif et leur esthétique graphique forte, ces vêtements deviennent bien plus qu’un simple t-shirt : ils permettent d’afficher une attitude, une humeur et une personnalité. Fabriqué dans un tissu confortable et durable, ce t-shirt unisexe possède une coupe moderne qui convient aussi bien aux hommes qu’aux femmes. Léger, respirant et polyvalent, il est parfait pour la vie quotidienne, les sorties, les festivals ou simplement pour afficher son style avec humour. 🔥 OseTee — Ose ta vie. Pourquoi cette collection se démarque ✔ Humour québécois assumé ✔ Expressions et citations populaires ✔ Style streetwear distinctif ✔ Coupe unisexe moderne ✔ Parfait pour le quotidien et les sorties L’esprit de la collection Humeur La collection Humeur OseTee est dédiée à ceux qui aiment dire les choses comme elles sont. Elle s’inspire des expressions québécoises, de l’humour direct et de l’attitude libre qui caractérisent la culture d’ici. Ces créations permettent de porter un message, une blague ou une citation avec style et personnalité. FAQ Qu’est-ce que la collection Humeur OseTee ? La collection Humeur OseTee regroupe des t-shirts inspirés d’expressions québécoises, de citations humoristiques et de punchlines assumées qui reflètent l’esprit et l’attitude de la culture québécoise. Ces t-shirts sont-ils unisexes ? Oui. Les vêtements de la collection Humeur OseTee possèdent une coupe unisexe moderne adaptée aux hommes et aux femmes. Dans quelles occasions porter un t-shirt de la collection Humeur ? Ces t-shirts peuvent être portés au quotidien, lors de sorties entre amis, festivals, événements ou simplement pour afficher son humour et sa personnalité. Pourquoi choisir un t-shirt de la collection Humeur ? Les designs OseTee combinent humour, culture et style streetwear pour créer des vêtements originaux qui permettent d’exprimer sa personnalité avec authenticité.
-  Updated: 2026-03-12T13:04:00Z
+  Updated: 2026-04-20T21:11:58Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -19090,7 +19090,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69b1c1372eefe.jpg?v=1773271762
     Price: 35,00 $ CAD
 - [Taille a la hache T-shirt classique unisexe|Streetwear Québécois](https://osetee.ca/products/taille-a-la-hache-t-shirt-classique-unisexe-streetwear-quebecois): L’humour québécois est unique. Direct. Authentique. Assumé.coupe au couteau NON..........Taille a la hacheSolide !La collection Humeur OseTee rassemble des t-shirts et vêtements inspirés des expressions populaires, des citations assumées et de l’attitude bien québécoise qui fait sourire, réfléchir ou réagir.Chaque design est conçu pour transformer une phrase ou une idée en véritable statement streetwear. Ici, l’humour rencontre l’identité et le style urbain.Les créations de la collection Humeur mettent en scène des expressions emblématiques du Québec, des punchlines mémorables et des illustrations originales qui capturent l’esprit libre et audacieux de la marque OseTee.Avec leur style distinctif et leur esthétique graphique forte, ces vêtements deviennent bien plus qu’un simple t-shirt : ils permettent d’afficher une attitude, une humeur et une personnalité.Fabriqué dans un tissu confortable et durable, ce t-shirt unisexe possède une coupe moderne qui convient aussi bien aux hommes qu’aux femmes. Léger, respirant et polyvalent, il est parfait pour la vie quotidienne, les sorties, les festivals ou simplement pour afficher son style avec humour.🔥 OseTee — Ose ta vie.Pourquoi cette collection se démarque✔ Humour québécois assumé✔ Expressions et citations populaires✔ Style streetwear distinctif✔ Coupe unisexe moderne✔ Parfait pour le quotidien et les sortiesL’esprit de la collection HumeurLa collection Humeur OseTee est dédiée à ceux qui aiment dire les choses comme elles sont.Elle s’inspire des expressions québécoises, de l’humour direct et de l’attitude libre qui caractérisent la culture d’ici.Ces créations permettent de porter un message, une blague ou une citation avec style et personnalité.FAQ Qu’est-ce que la collection Humeur OseTee ?La collection Humeur OseTee regroupe des t-shirts inspirés d’expressions québécoises, de citations humoristiques et de punchlines assumées qui reflètent l’esprit et l’attitude de la culture québécoise.Ces t-shirts sont-ils unisexes ?Oui. Les vêtements de la collection Humeur OseTee possèdent une coupe unisexe moderne adaptée aux hommes et aux femmes.Dans quelles occasions porter un t-shirt de la collection Humeur ?Ces t-shirts peuvent être portés au quotidien, lors de sorties entre amis, festivals, événements ou simplement pour afficher son humour et sa personnalité.Pourquoi choisir un t-shirt de la collection Humeur ?Les designs OseTee combinent humour, culture et style streetwear pour créer des vêtements originaux qui permettent d’exprimer sa personnalité avec authenticité.
-  Updated: 2026-03-14T00:36:25Z
+  Updated: 2026-04-20T21:11:58Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -19216,7 +19216,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69b1c34873a44.jpg?v=1773272798
     Price: 39,00 $ CAD
 - [Pas perdu...juste a la bonne place|OseTee](https://osetee.ca/products/t-shirt-classique-unisexe-3): Il y a des endroits qui ne se trouvent pas sur une carte. Un lac calme au coucher du soleil. Une forêt boréale qui respire lentement. Un feu qui crépite pendant que la journée s’éteint. Et ce moment simple où tu te dis : « C’est exactement là que je dois être. » La collection OseTee – Nord & Chalet capture cet esprit. Inspirés par la nature sauvage du Québec, nos designs racontent l’histoire de ceux qui vivent au rythme du bois, du fleuve et des grands espaces. Que ce soit : Né pour le Nord Une fois au chalet Pas perdu… juste à la bonne place Chaque création célèbre la liberté, la nature et la camaraderie. Ces t-shirts ne sont pas seulement des vêtements. Ils sont une déclaration d’identité. Pour ceux qui savent que la vraie richesse se trouve dans : 🔥 un feu de camp 🌲 une forêt infinie 🌊 un lac tranquille 🐕 un chien fidèle 🍺 une bière bien froide entre amis Bienvenue dans l’univers OseTee. Caractéristiques du t-shirt ✔ Design premium inspiré du Nord et du chalet ✔ Impression haute qualité optimisée pour textile foncé ✔ Coupe unisexe confortable ✔ Parfait pour : chalet, camping, pêche, feu de camp, randonnée ✔ Design signature OseTee Disponible en : Noir Bleu nuit Pourquoi les gens adorent ces t-shirts Ces designs parlent directement à ceux qui aiment : la forêt boréale les chalets les lacs du Québec les soirées entre amis la vie simple en nature Ils représentent une mentalité : Libre. Authentique. Nordique. FAQ – Questions fréquentes Ces t-shirts sont-ils unisexes ? Oui. Les t-shirts OseTee sont conçus pour être portés par hommes et femmes avec une coupe confortable. L’impression est-elle durable ? Oui. Nos designs sont optimisés pour impression textile haute qualité afin d’offrir : couleurs profondes grande durabilité excellente tenue au lavage. À quelles occasions porter ces t-shirts ? Ces t-shirts sont parfaits pour : le chalet la pêche le camping les soirées autour du feu les escapades en nature. Quelle est l’inspiration derrière la collection ? La collection s’inspire de la nature du Québec, du mode de vie nordique et des moments simples passés entre amis au bord de l’eau ou en forêt. La marque OseTee est-elle québécoise ? Oui. OseTee célèbre l’esprit du Québec, la nature sauvage et l’attitude libre de ceux qui aiment le Nord.
-  Updated: 2026-03-14T10:29:45Z
+  Updated: 2026-04-20T21:11:59Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -19294,7 +19294,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sport-grey-front-69b35a3268b02.jpg?v=1773363497
     Price: 39,00 $ CAD
 - [Une fois au chalet|OseTee](https://osetee.ca/products/t-shirt-classique-unisexe-4): Il y a des endroits qui ne se trouvent pas sur une carte. Un lac calme au coucher du soleil. Une forêt boréale qui respire lentement. Un feu qui crépite pendant que la journée s’éteint. Et ce moment simple où tu te dis : « C’est exactement là que je dois être. » La collection OseTee – Nord & Chalet capture cet esprit. Inspirés par la nature sauvage du Québec, nos designs racontent l’histoire de ceux qui vivent au rythme du bois, du fleuve et des grands espaces. Que ce soit : Né pour le Nord Une fois au chalet Pas perdu… juste à la bonne place Chaque création célèbre la liberté, la nature et la camaraderie. Ces t-shirts ne sont pas seulement des vêtements. Ils sont une déclaration d’identité. Pour ceux qui savent que la vraie richesse se trouve dans : 🔥 un feu de camp 🌲 une forêt infinie 🌊 un lac tranquille 🐕 un chien fidèle 🍺 une bière bien froide entre amis Bienvenue dans l’univers OseTee. Caractéristiques du t-shirt ✔ Design premium inspiré du Nord et du chalet ✔ Impression haute qualité optimisée pour textile foncé ✔ Coupe unisexe confortable ✔ Parfait pour : chalet, camping, pêche, feu de camp, randonnée ✔ Design signature OseTee Disponible en : Noir Bleu nuit Pourquoi les gens adorent ces t-shirts Ces designs parlent directement à ceux qui aiment : la forêt boréale les chalets les lacs du Québec les soirées entre amis la vie simple en nature Ils représentent une mentalité : Libre. Authentique. Nordique. FAQ – Questions fréquentes Ces t-shirts sont-ils unisexes ? Oui. Les t-shirts OseTee sont conçus pour être portés par hommes et femmes avec une coupe confortable. L’impression est-elle durable ? Oui. Nos designs sont optimisés pour impression textile haute qualité afin d’offrir : couleurs profondes grande durabilité excellente tenue au lavage. À quelles occasions porter ces t-shirts ? Ces t-shirts sont parfaits pour : le chalet la pêche le camping les soirées autour du feu les escapades en nature. Quelle est l’inspiration derrière la collection ? La collection s’inspire de la nature du Québec, du mode de vie nordique et des moments simples passés entre amis au bord de l’eau ou en forêt. La marque OseTee est-elle québécoise ? Oui. OseTee célèbre l’esprit du Québec, la nature sauvage et l’attitude libre de ceux qui aiment le Nord.
-  Updated: 2026-03-15T01:08:46Z
+  Updated: 2026-04-20T21:11:59Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -19372,7 +19372,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sport-grey-front-69b364bab3b68.jpg?v=1773364832
     Price: 39,00 $ CAD
 - [Né pour le Nord|OseTee](https://osetee.ca/products/t-shirt-classique-unisexe-5): Il y a des endroits qui ne se trouvent pas sur une carte. Un lac calme au coucher du soleil. Une forêt boréale qui respire lentement. Un feu qui crépite pendant que la journée s’éteint. Et ce moment simple où tu te dis : « C’est exactement là que je dois être. » La collection OseTee – Nord & Chalet capture cet esprit. Inspirés par la nature sauvage du Québec, nos designs racontent l’histoire de ceux qui vivent au rythme du bois, du fleuve et des grands espaces. Que ce soit : Né pour le Nord Une fois au chalet Pas perdu… juste à la bonne place Chaque création célèbre la liberté, la nature et la camaraderie. Ces t-shirts ne sont pas seulement des vêtements. Ils sont une déclaration d’identité. Pour ceux qui savent que la vraie richesse se trouve dans : 🔥 un feu de camp 🌲 une forêt infinie 🌊 un lac tranquille 🐕 un chien fidèle 🍺 une bière bien froide entre amis Bienvenue dans l’univers OseTee. Caractéristiques du t-shirt ✔ Design premium inspiré du Nord et du chalet ✔ Impression haute qualité optimisée pour textile foncé ✔ Coupe unisexe confortable ✔ Parfait pour : chalet, camping, pêche, feu de camp, randonnée ✔ Design signature OseTee Disponible en : Noir Bleu nuit Pourquoi les gens adorent ces t-shirts Ces designs parlent directement à ceux qui aiment : la forêt boréale les chalets les lacs du Québec les soirées entre amis la vie simple en nature Ils représentent une mentalité : Libre. Authentique. Nordique. FAQ – Questions fréquentes Ces t-shirts sont-ils unisexes ? Oui. Les t-shirts OseTee sont conçus pour être portés par hommes et femmes avec une coupe confortable. L’impression est-elle durable ? Oui. Nos designs sont optimisés pour impression textile haute qualité afin d’offrir : couleurs profondes grande durabilité excellente tenue au lavage. À quelles occasions porter ces t-shirts ? Ces t-shirts sont parfaits pour : le chalet la pêche le camping les soirées autour du feu les escapades en nature. Quelle est l’inspiration derrière la collection ? La collection s’inspire de la nature du Québec, du mode de vie nordique et des moments simples passés entre amis au bord de l’eau ou en forêt. La marque OseTee est-elle québécoise ? Oui. OseTee célèbre l’esprit du Québec, la nature sauvage et l’attitude libre de ceux qui aiment le Nord.
-  Updated: 2026-03-14T06:17:16Z
+  Updated: 2026-04-20T21:11:59Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -19450,7 +19450,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sport-grey-front-69b367b629e6c.jpg?v=1773366705
     Price: 39,00 $ CAD
 - [T-Shirt & Hoodie "Delichieuse Attachante" – Collection OseTee](https://osetee.ca/products/delichieuse-attachiante-ladies-t-shirt): Pour celles qui sont un cocktail explosif de douceur et de caractère. Vous êtes un paradoxe vivant ? Tant mieux. La collection OseTee célèbre les femmes qui ne rentrent dans aucune case avec ce design exclusif. Une grenade stylisée, un cœur qui s'échappe, et ce slogan qui fait sourire : Delichieuse Attachante. C’est le vêtement parfait pour exprimer votre personnalité pétillante et un brin rebelle. Les points forts du produit : Confort "Premium" : Un coton prélavé de haute qualité qui offre une douceur incroyable dès le premier porté. Pas de mauvaise surprise au lavage, la coupe reste impeccable. Couleurs Vibrantes : Un contraste saisissant entre le rose poudré, l'orange feu et les fonds profonds (Marine, Bordeaux ou Noir). Style Urbain Montréalais : Une coupe moderne qui se porte aussi bien avec un jean qu'en mode "oversized" avec un legging pour le hoodie. Durabilité : Impression haute définition conçue pour résister à votre rythme de vie effréné. 💡 F.A.Q. Le design est-il aussi gros que sur la photo ? Absolument. Nous avons optimisé l'impression pour qu'elle occupe environ 55% de la poitrine, garantissant un impact visuel maximal. Le hoodie est-il chaud ? Oui, nos hoodies sont parfaits pour les soirées fraîches du Québec ou les balades automnales sur le Mont-Royal. L'intérieur est brossé pour un effet "cocooning". Quelles sont les options de couleurs ? Le design ressort magnifiquement sur le Bleu Marine, le Noir classique
-  Updated: 2026-03-15T10:32:25Z
+  Updated: 2026-04-20T21:11:59Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -19632,7 +19632,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40360850_4_1.jpg?v=1773449914
     Price: 59,99 $ CAD
 - [T-Shirt & Hoodie "L'Heure de Vérité" – Collection Humeur par OseTee](https://osetee.ca/products/hey-donald-ma-patience-s-039-arrete-la-t-shirt): T-Shirt & Hoodie "L'Heure de Vérité" – Collection Humeur par OseTee Le streetwear québécois qui ne s'excuse de rien. Certains messages ne peuvent pas attendre. Le design "Hey Donald" d'OseTee est bien plus qu'une simple pièce de vêtement : c'est un cri de ralliement pour ceux qui ont épuisé leur stock de patience. Avec son esthétique graffiti brute et son ton résolument provocateur, ce modèle s'impose comme la pièce maîtresse de notre collection Humeur. Pourquoi c'est un "Must-Have" : Qualité Supérieure : Confectionné en coton premium prélavé. Résultat ? Un toucher ultra-doux, une tenue irréprochable et zéro rétrécissement après lavage. Design Haute Performance : Des couleurs vibrantes (jaune électrique et rouge sang) imprimées avec une technologie qui résiste aux épreuves du temps et de la rue. Coupe Streetwear Authentique : Disponible en modèle homme, femme et hoodie unisexe. Une coupe pensée pour le confort sans sacrifier le style. Identité OseTee : Porter du OseTee, c’est porter l’audace d’une marque fièrement québécoise qui ose briser les codes. 💡 F.A.Q. – Tout ce qu'il faut savoir Le design est-il le même sur le Hoodie ? Oui, le visuel est optimisé pour occuper 55% de la poitrine, offrant un impact visuel maximal, que vous portiez le t-shirt ou le coton ouaté. Comment choisir ma taille ? Nos tailles sont standards. Puisque le tissu est prélavé, votre taille habituelle restera la bonne, lavage après lavage. Pour un look "Loose" très streetwear, montez d'une taille. Est-ce une édition limitée ? La collection Humeur fonctionne par arrivages exclusifs. Une fois les stocks épuisés, ce design pourrait ne plus revenir.
-  Updated: 2026-03-15T03:53:39Z
+  Updated: 2026-04-20T21:12:00Z
   Vendor: OseTee
   Product Type: T-Shirt
   Availability: Available
@@ -19838,7 +19838,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40360730_4_2.jpg?v=1773448257
     Price: 57,99 $ CAD
 - [T-Shirt "Le Eye-Roll" – Collection Humeur par OseTee](https://osetee.ca/products/je-m-039-excuse-si-je-roule-les-yeux-quand-tu-parle-ladies-t-shirt): (parce qu'on a tous quelqu'un qui nous "énarve" un p Parce qu'une image (et un roulement d'yeux) vaut mille mots. On a tous ce talent naturel : celui de rouler des yeux sans même s'en rendre compte. Avec ce t-shirt de la collection Humeur, vous annoncez la couleur avant même d'ouvrir la bouche. Un design punchy, un brin sarcastique, et 100% honnête. Pourquoi il va devenir votre préféré : Coton Premium Prélavé : Fini les t-shirts qui raccourcissent. Une coupe qui reste parfaite, lavage après lavage. Le "Asti" qui fait du bien : Une touche de parlure québécoise authentique pour un style qui a du caractère. Confort Absolu : Léger, respirant et parfait pour une sortie en terrasse ou une journée occupée. Graphisme Éclatant : Le contraste entre le rose électrique, le jaune et le noir assure que personne ne manquera votre message. 💡 F.A.Q. Est-ce que le texte est bien lisible ? Oui, l'impression occupe 55% de la poitrine avec une typographie style graffiti ultra-nette pour un impact maximum. Quelle est la coupe pour femme ? C'est une coupe moderne et ajustée. Si vous préférez un look plus relax, n'hésitez pas à prendre une taille au-dessus. Parfait pour un cadeau ? C'est LE cadeau idéal pour cette amie qui n'a pas de filtre (ou pour vous-même).
-  Updated: 2026-03-15T04:06:36Z
+  Updated: 2026-04-20T21:12:00Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -20044,7 +20044,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40360587_2_2.jpg?v=1773450837
     Price: 29,99 $ CAD
 - [T-Shirt & Hoodie "Poliement Rebelle" – Collection Humeur par OseTee](https://osetee.ca/products/poliment-rebelle-ladies-t-shirt): L’art de tout dire sans ouvrir la bouche. Inspiré par l’énergie brute des ruelles de Montréal, le design "Poliement Rebelle" est le nouveau porte-étendard de la marque OseTee. Un chat, une ombre chinoise équivoque, et une touche de mystère : c’est le vêtement parfait pour ceux qui cultivent une élégance rebelle et un sens de l'humour tranchant. Pourquoi vous allez l'adorer : Qualité Supérieure : Confectionné en coton premium prélavé. Un tissu qui respire, ultra-doux au toucher et qui garde sa forme originale, lavage après lavage. Le Trio Classique : Disponible en Noir profond, Bleu Marine classique et Gris Sport chiné. Trois couleurs essentielles pour un look urbain impeccable. Impression Haute Définition : Le design lune-chat occupe 55% de la poitrine pour un impact visuel maximal. Une technique d'impression durable qui résiste à l'usure de la rue. Identité Québécoise : Inclut le logo OseTee et la fleur de lys stylisée, affirmant fièrement vos racines et votre audace.
-  Updated: 2026-03-15T07:11:09Z
+  Updated: 2026-04-20T21:12:00Z
   Vendor: Tshirtgang
   Product Type: T-Shirt
   Availability: Available
@@ -20250,7 +20250,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/40360538_2_12.jpg?v=1773452141
     Price: 34,99 $ CAD
 - [T-shirt Charpentier Humoristique | J’dis pas que j’suis Jésus – OseTee](https://osetee.ca/products/t-shirt-charpentier-humoristique-j-dis-pas-que-j-suis-jesus-osetee): T-shirt Unisexe « J’dis pas que j’suis Jésus… mais j’suis charpentier » Collection Métiers – OseTee Certains parlent de miracles. D’autres travaillent le bois. Le t-shirt « J’dis pas que j’suis Jésus… mais j’suis charpentier » de la collection Métiers OseTee rend hommage à ceux qui bâtissent le monde réel : les charpentiers, menuisiers, travailleurs du bois et passionnés de construction. Avec son design puissant et humoristique, ce t-shirt mélange l’esprit chantier, la fierté du métier et l’ADN streetwear québécois OseTee. Le visuel présente un charpentier stylisé entouré d’outils, avec une esthétique gravure bois vintage parfaitement optimisée pour les t-shirts foncés. Résultat : un vêtement qui attire l’œil, fait sourire… et représente fièrement ceux qui savent travailler de leurs mains. Que ce soit à l’atelier, au chantier, au chalet ou au bar après la job, ce t-shirt devient rapidement un favori des gens de métier. Pourquoi vous allez l’aimer ✔ Design unique OseTee inspiré du travail du bois ✔ Humour intelligent et référence culturelle connue ✔ Parfait pour charpentiers, menuisiers et travailleurs de construction ✔ Style streetwear chantier confortable et durable ✔ Impression haute qualité optimisée pour textile foncé ✔ Coupe unisexe idéale pour hommes et femmes Caractéristiques du produit • T-shirt unisexe premium • Coupe confortable et durable • Impression haute définition • Tissu doux et respirant • Parfait pour le travail, le quotidien ou les sorties entre amis Disponible en : Noir – Bleu nuit Tailles : S à 3XL L’esprit OseTee OseTee, c’est plus qu’un t-shirt. C’est une marque québécoise qui célèbre : • les métiers • l’identité • l’humour assumé • la fierté de ceux qui bâtissent Nos créations sont pensées pour les gens vrais : ceux qui travaillent fort, qui aiment rire et qui n’ont pas peur d’oser. FAQ – Questions fréquentes Ce t-shirt est-il vraiment unisexe ? Oui. La coupe du t-shirt est conçue pour convenir autant aux hommes qu’aux femmes. L’impression résiste-t-elle au lavage ? Oui. L’impression est réalisée avec une technique durable qui résiste très bien aux lavages répétés. Conseil : laver à l’envers à l’eau froide. Est-ce un bon cadeau pour un charpentier ? Absolument. Ce t-shirt fait un excellent cadeau pour : • charpentiers • menuisiers • travailleurs de construction • amateurs de bois et de bricolage Où est conçue la marque OseTee ? La marque OseTee est inspirée du streetwear québécois et célèbre la culture, les métiers et l’attitude des gens d’ici. Peut-on porter ce t-shirt au travail ? Oui. Beaucoup de clients le portent au chantier, à l’atelier ou dans leur temps libre.
-  Updated: 2026-03-16T00:14:29Z
+  Updated: 2026-04-20T21:12:00Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -20304,7 +20304,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69b5ec5443bd2.jpg?v=1773531050
     Price: 36,00 $ CAD
 - [Pas Ben Sociable – Club Social | T-Shirt Humour Québécois OseTee](https://osetee.ca/products/pas-ben-sociable-club-social-t-shirt-humour-quebecois-osetee): Le club social des pas ben sociables. Voici un t-shirt qui résume parfaitement une attitude bien québécoise : aimer les gens… mais à petites doses. Le t-shirt “Pas Ben Sociable – Club Social” de OseTee mélange humour, identité et streetwear dans un design minimaliste et puissant. Au centre du design, le harfang aux yeux bleus, symbole de caractère et d’indépendance, représente l’esprit OseTee : libre, assumé et authentique. Porté en ville, en terrasse ou entre amis, ce t-shirt devient rapidement un sujet de conversation et un clin d’œil humoristique que beaucoup reconnaîtront. Parce que oui… Pas ben sociable… mais toujours membre du club social. Pourquoi ce t-shirt est unique ✔ humour québécois assumé ✔ design original OseTee ✔ style streetwear minimaliste ✔ symbole du harfang aux yeux bleus ✔ parfait pour hommes et femmes ✔ facile à porter au quotidien Caractéristiques Coupe unisexe confortable Impression durable haute qualité Design streetwear québécois Idéal pour sorties, festivals et terrasse Création originale OseTee L’esprit OseTee OseTee est une marque streetwear québécoise qui célèbre : l’humour l’identité la culture québécoise l’attitude assumée Chaque création est pensée pour être portée avec fierté et avec un sourire en coin. FAQ Que signifie « Pas Ben Sociable » ? C’est une expression humoristique québécoise qui décrit quelqu’un qui préfère la tranquillité, mais qui apprécie quand même les bons moments entre amis. Ce t-shirt est-il pour hommes ou femmes ? Le t-shirt est un modèle unisexe, conçu pour être confortable pour tous. Le design résiste-t-il au lavage ? Oui. L’impression est conçue pour durer et conserver ses couleurs même après plusieurs lavages. Le t-shirt est-il confortable pour un usage quotidien ? Oui. Il est conçu pour être porté autant en ville qu’en sortie ou simplement au quotidien. Qu’est-ce que la marque OseTee ? OseTee est une marque streetwear québécoise qui crée des vêtements inspirés de l’humour, de la culture et de l’identité du Québec.
-  Updated: 2026-03-16T14:37:02Z
+  Updated: 2026-04-20T21:12:01Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -20382,7 +20382,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sport-grey-front-69b6cace00c54.jpg?v=1773588749
     Price: 40,00 $ CAD
 - [T-shirt chantier humour travailleurs | On préfère à l’heure – OseTee](https://osetee.ca/products/t-shirt-chantier-humour-travailleurs-on-prefere-a-l-heure-osetee): Un t-shirt chantier qui fait rire tous les travailleurs.« On prend ça à cœur… mais on préfère à l’heure. »Streetwear québécois signé OseTee. Parfait pour construction, mécanique, plomberie et métiers. Description Dans le monde du chantier, certaines vérités sont universelles. On travaille fort.On est fier de notre métier.On fait ça avec cœur. Mais soyons honnêtes… On préfère à l’heure. Ce t-shirt OseTee capture parfaitement l’humour et la réalité du terrain. Pensé pour les travailleurs de la construction, les opérateurs de machinerie, les mécaniciens, les plombiers et tous ceux qui bâtissent quelque chose de concret chaque jour. Avec son design robuste inspiré des outils de chantier et son style streetwear assumé, ce t-shirt devient rapidement un favori sur les chantiers, dans les ateliers et lors des pauses bien méritées. Le message est simple, vrai et efficace — exactement comme le travail bien fait. Porté seul ou en gang avec les collègues, il attire les sourires et les regards complices. Signature OseTeeUne marque québécoise qui célèbre les travailleurs, l’humour du chantier et la fierté des métiers. Caractéristiques • T-shirt unisexe confortable• Design humoristique inspiré du chantier• Impression durable haute qualité• Style streetwear québécois• Idéal pour travailleurs et passionnés de construction Parfait pour Travailleurs de la constructionCharpentiersPlombiersÉlectriciensSoudeursOpérateurs de machinerieMécaniciensFrigoristesContremaîtresInspecteurs de chantier Et tous ceux qui savent que le travail mérite aussi un peu d’humour. FAQ SEO / IA Ce t-shirt est-il destiné aux travailleurs de la construction ? Oui. Ce design OseTee est inspiré directement de la réalité des chantiers et de l’humour que partagent les travailleurs. Ce t-shirt convient-il aux hommes et aux femmes ? Oui. Le t-shirt est un modèle unisexe conçu pour convenir à tous. Est-ce un bon cadeau pour un travailleur de chantier ? Absolument. C’est un cadeau parfait pour un collègue, un ami ou un membre de la famille qui travaille dans la construction ou un métier manuel. Que signifie la phrase « On préfère à l’heure » ? C’est une expression humoristique populaire sur les chantiers qui fait référence au travail payé à l’heure plutôt qu’à la tâche. Où est créée la marque OseTee ? OseTee est une marque streetwear québécoise inspirée par l’humour, les métiers et l’identité des travailleurs.
-  Updated: 2026-03-17T22:59:48Z
+  Updated: 2026-04-20T21:12:01Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -20484,7 +20484,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-natural-front-69b88af8c01c0.jpg?v=1773702491
     Price: 38,50 $ CAD
 - [Collection Métiers OseTee – T-shirts humour chantier et travailleurs taux horaire Grutier](https://osetee.ca/products/collection-metiers-osetee-t-shirts-humour-chantier-et-travailleurs-taux-horaire-gruitier): Les travailleurs bâtissent le monde. Chaque jour, sur les chantiers, dans les ateliers et sur les routes, des milliers de travailleurs mettent leur talent, leur force et leur savoir-faire au service de projets concrets. La collection Métiers OseTee rend hommage à ces hommes et ces femmes qui travaillent avec leurs mains, leur tête et leur cœur. Inspirée directement de l’ambiance des chantiers et de l’humour bien connu des travailleurs, cette collection propose des designs uniques qui parlent le langage du terrain. Ici, pas de phrases compliquées. Juste des vérités simples. Des expressions qu’on entend pendant la pause café. Des blagues de chantier. Des citations qui font sourire ceux qui savent. Chaque t-shirt est conçu pour représenter la fierté des métiers : Charpentiers Plombiers Électriciens Soudeurs Opérateurs de machinerie Frigoristes Mécaniciens Maçons Contremaîtres Travailleurs de chantier Avec son style streetwear robuste et son identité québécoise assumée, OseTee célèbre les travailleurs qui bâtissent, réparent, assemblent et font avancer les choses. Parce que certaines choses ne se construisent pas toutes seules. Ce qui rend la collection unique • Humour authentique de chantier • Designs inspirés des métiers • Style streetwear québécois • Messages simples et puissants • Créations pensées pour les travailleurs Les t-shirts de la collection Métiers sont parfaits pour le travail, les pauses entre collègues ou simplement pour afficher fièrement son métier. Pourquoi les travailleurs aiment OseTee Parce que ces t-shirts parlent leur langage. Ils reconnaissent les phrases. Ils comprennent les blagues. Ils vivent la réalité derrière chaque design. C’est ce qui transforme souvent un simple t-shirt en conversation entre travailleurs. FAQ Qu’est-ce que la collection Métiers OseTee ? La collection Métiers OseTee regroupe des t-shirts inspirés de l’humour et de la réalité des travailleurs de la construction et des métiers techniques. À qui s’adresse cette collection ? Elle s’adresse aux travailleurs de chantier, mécaniciens, opérateurs de machinerie, plombiers, électriciens et à tous ceux qui travaillent dans les métiers manuels. Les t-shirts OseTee sont-ils unisexes ? Oui. Les modèles sont conçus pour être portés autant par les hommes que par les femmes. Ces t-shirts peuvent-ils être portés sur un chantier ? Oui. Leur style robuste et confortable les rend parfaits pour les environnements de travail ou pour le quotidien. Pourquoi l’humour est-il présent dans les designs ? L’humour fait partie intégrante de la culture des travailleurs. Les designs OseTee reflètent cet esprit de camaraderie et de fierté.
-  Updated: 2026-03-17T23:04:38Z
+  Updated: 2026-04-20T21:12:01Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -20610,7 +20610,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69b89050ce1b6.jpg?v=1773705888
     Price: 39,00 $ CAD
 - [Collection Métiers OseTee – T-shirts humour chantier et travailleurs taux horaire contremaître](https://osetee.ca/products/collection-metiers-osetee-t-shirts-humour-chantier-et-travailleurs-taux-horaire-contremaitre): Les travailleurs bâtissent le monde. Chaque jour, sur les chantiers, dans les ateliers et sur les routes, des milliers de travailleurs mettent leur talent, leur force et leur savoir-faire au service de projets concrets. La collection Métiers OseTee rend hommage à ces hommes et ces femmes qui travaillent avec leurs mains, leur tête et leur cœur. Inspirée directement de l’ambiance des chantiers et de l’humour bien connu des travailleurs, cette collection propose des designs uniques qui parlent le langage du terrain. Ici, pas de phrases compliquées. Juste des vérités simples. Des expressions qu’on entend pendant la pause café. Des blagues de chantier. Des citations qui font sourire ceux qui savent. Chaque t-shirt est conçu pour représenter la fierté des métiers : Charpentiers Plombiers Électriciens Soudeurs Opérateurs de machinerie Frigoristes Mécaniciens Maçons Contremaîtres Travailleurs de chantier Avec son style streetwear robuste et son identité québécoise assumée, OseTee célèbre les travailleurs qui bâtissent, réparent, assemblent et font avancer les choses. Parce que certaines choses ne se construisent pas toutes seules. Ce qui rend la collection unique • Humour authentique de chantier • Designs inspirés des métiers • Style streetwear québécois • Messages simples et puissants • Créations pensées pour les travailleurs Les t-shirts de la collection Métiers sont parfaits pour le travail, les pauses entre collègues ou simplement pour afficher fièrement son métier. Pourquoi les travailleurs aiment OseTee Parce que ces t-shirts parlent leur langage. Ils reconnaissent les phrases. Ils comprennent les blagues. Ils vivent la réalité derrière chaque design. C’est ce qui transforme souvent un simple t-shirt en conversation entre travailleurs. FAQ Qu’est-ce que la collection Métiers OseTee ? La collection Métiers OseTee regroupe des t-shirts inspirés de l’humour et de la réalité des travailleurs de la construction et des métiers techniques. À qui s’adresse cette collection ? Elle s’adresse aux travailleurs de chantier, mécaniciens, opérateurs de machinerie, plombiers, électriciens et à tous ceux qui travaillent dans les métiers manuels. Les t-shirts OseTee sont-ils unisexes ? Oui. Les modèles sont conçus pour être portés autant par les hommes que par les femmes. Ces t-shirts peuvent-ils être portés sur un chantier ? Oui. Leur style robuste et confortable les rend parfaits pour les environnements de travail ou pour le quotidien. Pourquoi l’humour est-il présent dans les designs ? L’humour fait partie intégrante de la culture des travailleurs. Les designs OseTee reflètent cet esprit de camaraderie et de fierté.
-  Updated: 2026-03-17T23:31:27Z
+  Updated: 2026-04-20T21:12:01Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -20736,7 +20736,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69b897237ed18.jpg?v=1773706228
     Price: 39,00 $ CAD
 - [Collection Métiers OseTee – T-shirts humour chantier et travailleurs taux horaire Opérateur](https://osetee.ca/products/collection-metiers-osetee-t-shirts-humour-chantier-et-travailleurs-taux-horaire-operateur): Les travailleurs bâtissent le monde. Chaque jour, sur les chantiers, dans les ateliers et sur les routes, des milliers de travailleurs mettent leur talent, leur force et leur savoir-faire au service de projets concrets. La collection Métiers OseTee rend hommage à ces hommes et ces femmes qui travaillent avec leurs mains, leur tête et leur cœur. Inspirée directement de l’ambiance des chantiers et de l’humour bien connu des travailleurs, cette collection propose des designs uniques qui parlent le langage du terrain. Ici, pas de phrases compliquées. Juste des vérités simples. Des expressions qu’on entend pendant la pause café. Des blagues de chantier. Des citations qui font sourire ceux qui savent. Chaque t-shirt est conçu pour représenter la fierté des métiers : Charpentiers Plombiers Électriciens Soudeurs Opérateurs de machinerie Frigoristes Mécaniciens Maçons Contremaîtres Travailleurs de chantier Avec son style streetwear robuste et son identité québécoise assumée, OseTee célèbre les travailleurs qui bâtissent, réparent, assemblent et font avancer les choses. Parce que certaines choses ne se construisent pas toutes seules. Ce qui rend la collection unique • Humour authentique de chantier • Designs inspirés des métiers • Style streetwear québécois • Messages simples et puissants • Créations pensées pour les travailleurs Les t-shirts de la collection Métiers sont parfaits pour le travail, les pauses entre collègues ou simplement pour afficher fièrement son métier. Pourquoi les travailleurs aiment OseTee Parce que ces t-shirts parlent leur langage. Ils reconnaissent les phrases. Ils comprennent les blagues. Ils vivent la réalité derrière chaque design. C’est ce qui transforme souvent un simple t-shirt en conversation entre travailleurs. FAQ Qu’est-ce que la collection Métiers OseTee ? La collection Métiers OseTee regroupe des t-shirts inspirés de l’humour et de la réalité des travailleurs de la construction et des métiers techniques. À qui s’adresse cette collection ? Elle s’adresse aux travailleurs de chantier, mécaniciens, opérateurs de machinerie, plombiers, électriciens et à tous ceux qui travaillent dans les métiers manuels. Les t-shirts OseTee sont-ils unisexes ? Oui. Les modèles sont conçus pour être portés autant par les hommes que par les femmes. Ces t-shirts peuvent-ils être portés sur un chantier ? Oui. Leur style robuste et confortable les rend parfaits pour les environnements de travail ou pour le quotidien. Pourquoi l’humour est-il présent dans les designs ? L’humour fait partie intégrante de la culture des travailleurs. Les designs OseTee reflètent cet esprit de camaraderie et de fierté.
-  Updated: 2026-03-17T23:44:16Z
+  Updated: 2026-04-20T21:12:02Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -20894,7 +20894,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69b899f95ecc7.jpg?v=1773706459
     Price: 51,50 $ CAD
 - [Équipe nationale du gros bon sens – T-shirt unisexe | OseTee](https://osetee.ca/products/equipe-nationale-du-gros-bon-sens-t-shirt-unisexe-osetee): Affiche ce qui nous définit vraiment. Pas besoin de drapeau quand tu portes le bon message. Le t-shirt Équipe nationale du gros bon sens incarne une attitude profondément québécoise : lucide, fière et sans compromis. Avec sa fleur de lys puissante et vivante, ce design OseTee revisite un symbole emblématique pour en faire une déclaration moderne. 💪 Une identité qui ne crie pas… mais qui s’impose. ⚜️ Un symbole qui prend vie. 🧠 Du bon sens. Du vrai. Pensé pour ceux et celles qui avancent avec conviction, ce t-shirt allie confort, durabilité et impact visuel. Que ce soit en ville, au travail ou en plein air, il attire les regards… et fait passer le message. 🔥 Caractéristiques T-shirt unisexe (coupe moderne, confortable) Impression haute qualité (DTF premium) Design exclusif OseTee Tissu doux et respirant Excellente tenue des couleurs Disponible en : Noir, Bleu nuit, Gris sport, Blanc 🎯 Pourquoi tu vas l’aimer ✔️ Design unique inspiré du Québec ✔️ Message fort et assumé ✔️ Facile à porter au quotidien ✔️ Look streetwear premium ✔️ Parfait pour toutes les saisons 📏 Guide des tailles Coupe unisexe standard. 👉 Prends ta taille habituelle pour un fit régulier 👉 Size up pour un look plus street / relaxed Identité OseTee OseTee, c’est plus qu’un vêtement. C’est une attitude. Une signature. Une façon d’être. Chaque design est pensé pour représenter une facette du Québec moderne : libre, fier et conscient. ❓ FAQ Ce t-shirt est-il unisexe ? Oui, il est conçu pour hommes et femmes avec une coupe confortable. Le design résiste-t-il au lavage ? Oui, l’impression est faite pour durer. Laver à l’envers à froid recommandé. Est-ce que le tissu est épais ? Non, il est léger et respirant tout en étant durable. Est-ce une édition limitée ? Les designs OseTee évoluent rapidement. Certaines versions peuvent devenir exclusives. Est-ce que c’est fait au Québec ? Design créé au Québec, production optimisée pour qualité et accessibilité.
-  Updated: 2026-03-19T10:39:22Z
+  Updated: 2026-04-20T21:12:02Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -21020,7 +21020,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69bb0d86d380e.jpg?v=1773867233
     Price: 39,00 $ CAD
 - [Ça veut dire AMITIÉ – T-shirt OseTee | Streetwear Québécois Unisexe](https://osetee.ca/products/ca-veut-dire-amitie-t-shirt-osetee-streetwear-quebecois-unisexe): Pas besoin de parler la même langue… On se comprend pareil. Voici une pièce forte de la collection Humeur OseTee, où le style rencontre le message. Le t-shirt ÇA VEUT DIRE AMITIÉ incarne une vérité simple et universelle : 👉 les vraies connexions dépassent les mots. Avec son design visuel impactant inspiré de l’art calligraphique et sa typographie streetwear assumée, ce t-shirt devient rapidement plus qu’un vêtement — c’est une attitude. 💥 POURQUOI TU VAS L’AIMER ✔ Design unique et expressif ✔ Message universel, émotionnel et puissant ✔ Style streetwear québécois affirmé ✔ Coupe unisexe confortable (homme & femme) ✔ Parfait pour tous les jours ou pour sortir 🎯 STYLE & VIBE Look urbain, moderne et authentique Idéal avec jeans, jogger ou short S’adapte autant en ville qu’en nature ⚡ QUALITÉ Impression haute qualité (DTF / durable) Tissu confortable et respirant Couleurs optimisées pour vêtements foncés 🇶🇵 SIGNATURE OseTee Chaque design OseTee porte une vision : 👉 exprimer qui tu es, sans filtre ❓ FAQ Ce t-shirt est-il unisexe ? Oui. Il est conçu pour convenir autant aux hommes qu’aux femmes avec une coupe confortable. Est-ce que l’impression résiste au lavage ? Oui. L’impression est optimisée pour durer dans le temps sans craquer ni pâlir. À quelles occasions porter ce t-shirt ? Parfait pour le quotidien, les sorties, festivals, chill entre amis ou événements comme la St-Jean. Quelle est la signification du design ? Le design exprime que l’amitié dépasse les langues et les cultures. Un message simple, fort et universel. Est-ce un produit québécois ? Oui. Le design est créé au Québec dans l’univers streetwear OseTee.
-  Updated: 2026-03-19T14:55:19Z
+  Updated: 2026-04-20T21:12:02Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -21146,7 +21146,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69bb5c15b3e0b.jpg?v=1773886663
     Price: 33,50 $ CAD
 - [T-shirt Jésus revient – Fais semblant d’être occupé | OseTee (Unisexe Streetwear Québec)](https://osetee.ca/products/t-shirt-jesus-revient-fais-semblant-d-etre-occupe-osetee-unisexe-streetwear-quebec): 💥 Un message qui frappe. Un style qui s’assume. Le t-shirt “Jésus revient – Fais semblant d’être occupé” signé OseTee mélange humour, attitude et streetwear québécois dans un design percutant qui ne passe pas inaperçu. Inspiré du style graffiti et du mouvement urbain, ce visuel unique met en scène une interprétation audacieuse avec une typographie grunge et un message ironique qui attire l’attention instantanément. 👉 Résultat : un t-shirt portable, assumé, mémorable. 🔥 POURQUOI TU VAS L’AIMER ✔ Design exclusif OseTee ✔ Impression haute qualité (DTF / DTG) ✔ Ultra confortable (coton premium) ✔ Coupe unisexe parfaite ✔ Style streetwear québécois authentique 👕 DÉTAILS PRODUIT Coupe : Unisexe (fit moderne) Matière : Coton doux respirant Impression : Haute définition, durable Couleurs disponibles : Noir,Gris, Bleu nuit. Entretien : Lavage à froid, séchage à l’air recommandé 🦉 SIGNATURE OSETEE OseTee – INDÉPENDANT D’ESPRIT 👉 Une marque qui ose. Une identité qui s’affirme. 📈 META TITLE T-shirt Jésus revient humoristique | OseTee Streetwear Québec 📉 META DESCRIPTION T-shirt humoristique québécois “Jésus revient – Fais semblant d’être occupé”. Style streetwear unique OseTee. Livraison rapide. Disponible en plusieurs couleurs. ❓ FAQ (OPTIMISÉ IA / GOOGLE) 👉 Le t-shirt est-il unisexe ? Oui, la coupe est conçue pour convenir autant aux hommes qu’aux femmes. 👉 Quelle est la qualité d’impression ? Nous utilisons une impression haute définition durable qui résiste aux lavages. 👉 Est-ce que le design craque avec le temps ? Non, l’impression est conçue pour rester nette et résistante. 👉 Quelle taille choisir ? Prends ta taille habituelle pour un fit standard ou une taille au-dessus pour un look oversize.
-  Updated: 2026-03-20T14:16:00Z
+  Updated: 2026-04-20T21:12:02Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -21224,7 +21224,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sport-grey-front-69bcadb650616.jpg?v=1773975288
     Price: 38,50 $ CAD
 - [T-Shirt OseTee Humeur | Toujours Là – Streetwear Québécois Golf](https://osetee.ca/products/golf-t-shirt-osetee-humeur-toujours-la-streetwear-quebecois): TOUJOURS LÀ. Pas juste un t-shirt. Une attitude. La collection Humeur de OseTee transforme les expressions du quotidien québécois en véritables déclarations de style. Chaque design met en scène le harfang signature — regard perçant, présence assumée — dans des situations qui parlent vrai. 🎾 ⛳ 🏒 🥊 Service. But. Punch. Vraies affaires. Peu importe le terrain… tu es toujours là. 💥 POURQUOI CE T-SHIRT FAIT LA DIFFÉRENCE ✔️ Design exclusif OseTee ✔️ Style streetwear québécois distinctif ✔️ Impression haute qualité (DTF durable) ✔️ Ultra confortable (unisexe) ✔️ Message fort, humour assumé 👉 Un t-shirt qui fait réagir, sourire… et connecter. 🧵 QUALITÉ & CONFORT Coupe unisexe moderne Coton premium doux et respirant Fit true to size Parfait pour le quotidien, le sport ou le chill 🎨 DISPONIBLE EN PLUSIEURS COULEURS Noir (impact 🔥) Bleu nuit (premium 🔵) Gris (lifestyle 👕) 👉 S’adapte à tous les styles, toutes les humeurs. 🦉 L’ADN OseTee Le harfang n’est pas là pour décorer. Il représente : la lucidité la présence l’attitude 👉 Toujours prêt. Toujours solide. UNE MARQUE D’ICI Pensé au Québec. Inspiré du vrai monde. Porté avec fierté. ❓ FAQ Ce t-shirt est-il unisexe ? Oui, il convient autant aux hommes qu’aux femmes avec une coupe moderne et confortable. Quelle taille choisir ? Nous recommandons votre taille habituelle (fit standard). Pour un look plus loose, prenez une taille au-dessus. L’impression est-elle durable ? Oui. Nos impressions sont conçues pour résister aux lavages répétés sans craquer ni pâlir. Est-ce une édition limitée ? Oui. Les designs OseTee sont produits en quantités limitées pour garder un effet exclusif. Peut-on porter ce t-shirt au quotidien ? Absolument. Il est conçu pour être porté autant en sortie, au travail, au sport ou en détente. À qui s’adresse cette collection ? À tous ceux qui ont une attitude, un sens de l’humour… et quelque chose à dire.
-  Updated: 2026-03-21T05:25:07Z
+  Updated: 2026-04-20T21:12:02Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -21302,7 +21302,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sport-grey-front-69bd82df6ed97.jpg?v=1774030923
     Price: 38,50 $ CAD
 - [T-Shirt OseTee Humeur | Toujours Là – Streetwear Québécois Hockey](https://osetee.ca/products/hockey-t-shirt-osetee-humeur-toujours-la-streetwear-quebecois): TOUJOURS LÀ. Pas juste un t-shirt. Une attitude. La collection Humeur de OseTee transforme les expressions du quotidien québécois en véritables déclarations de style. Chaque design met en scène le harfang signature — regard perçant, présence assumée — dans des situations qui parlent vrai. 🎾 ⛳ 🏒 🥊 Service. But. Punch. Vraies affaires. Peu importe le terrain… tu es toujours là. 💥 POURQUOI CE T-SHIRT FAIT LA DIFFÉRENCE ✔️ Design exclusif OseTee ✔️ Style streetwear québécois distinctif ✔️ Impression haute qualité (DTF durable) ✔️ Ultra confortable (unisexe) ✔️ Message fort, humour assumé 👉 Un t-shirt qui fait réagir, sourire… et connecter. 🧵 QUALITÉ & CONFORT Coupe unisexe moderne Coton premium doux et respirant Fit true to size Parfait pour le quotidien, le sport ou le chill 🎨 DISPONIBLE EN PLUSIEURS COULEURS Noir (impact 🔥) Bleu nuit (premium 🔵) Gris (lifestyle 👕) 👉 S’adapte à tous les styles, toutes les humeurs. 🦉 L’ADN OseTee Le harfang n’est pas là pour décorer. Il représente : la lucidité la présence l’attitude 👉 Toujours prêt. Toujours solide. UNE MARQUE D’ICI Pensé au Québec. Inspiré du vrai monde. Porté avec fierté. ❓ FAQ Ce t-shirt est-il unisexe ? Oui, il convient autant aux hommes qu’aux femmes avec une coupe moderne et confortable. Quelle taille choisir ? Nous recommandons votre taille habituelle (fit standard). Pour un look plus loose, prenez une taille au-dessus. L’impression est-elle durable ? Oui. Nos impressions sont conçues pour résister aux lavages répétés sans craquer ni pâlir. Est-ce une édition limitée ? Oui. Les designs OseTee sont produits en quantités limitées pour garder un effet exclusif. Peut-on porter ce t-shirt au quotidien ? Absolument. Il est conçu pour être porté autant en sortie, au travail, au sport ou en détente. À qui s’adresse cette collection ? À tous ceux qui ont une attitude, un sens de l’humour… et quelque chose à dire.
-  Updated: 2026-03-21T05:29:29Z
+  Updated: 2026-04-20T21:12:03Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -21380,7 +21380,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sport-grey-front-69bd83e6bae2c.jpg?v=1774031439
     Price: 38,50 $ CAD
 - [T-Shirt OseTee Humeur | Toujours Là – Streetwear Québécois Tennis](https://osetee.ca/products/tennis-t-shirt-osetee-humeur-toujours-la-streetwear-quebecois): TOUJOURS LÀ. Pas juste un t-shirt. Une attitude. La collection Humeur de OseTee transforme les expressions du quotidien québécois en véritables déclarations de style. Chaque design met en scène le harfang signature — regard perçant, présence assumée — dans des situations qui parlent vrai. 🎾 ⛳ 🏒 🥊 Service. But. Punch. Vraies affaires. Peu importe le terrain… tu es toujours là. 💥 POURQUOI CE T-SHIRT FAIT LA DIFFÉRENCE ✔️ Design exclusif OseTee ✔️ Style streetwear québécois distinctif ✔️ Impression haute qualité (DTF durable) ✔️ Ultra confortable (unisexe) ✔️ Message fort, humour assumé 👉 Un t-shirt qui fait réagir, sourire… et connecter. 🧵 QUALITÉ & CONFORT Coupe unisexe moderne Coton premium doux et respirant Fit true to size Parfait pour le quotidien, le sport ou le chill 🎨 DISPONIBLE EN PLUSIEURS COULEURS Noir (impact 🔥) Bleu nuit (premium 🔵) Gris (lifestyle 👕) 👉 S’adapte à tous les styles, toutes les humeurs. 🦉 L’ADN OseTee Le harfang n’est pas là pour décorer. Il représente : la lucidité la présence l’attitude 👉 Toujours prêt. Toujours solide. UNE MARQUE D’ICI Pensé au Québec. Inspiré du vrai monde. Porté avec fierté. ❓ FAQ Ce t-shirt est-il unisexe ? Oui, il convient autant aux hommes qu’aux femmes avec une coupe moderne et confortable. Quelle taille choisir ? Nous recommandons votre taille habituelle (fit standard). Pour un look plus loose, prenez une taille au-dessus. L’impression est-elle durable ? Oui. Nos impressions sont conçues pour résister aux lavages répétés sans craquer ni pâlir. Est-ce une édition limitée ? Oui. Les designs OseTee sont produits en quantités limitées pour garder un effet exclusif. Peut-on porter ce t-shirt au quotidien ? Absolument. Il est conçu pour être porté autant en sortie, au travail, au sport ou en détente. À qui s’adresse cette collection ? À tous ceux qui ont une attitude, un sens de l’humour… et quelque chose à dire.
-  Updated: 2026-03-21T05:36:00Z
+  Updated: 2026-04-20T21:12:03Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -21458,7 +21458,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sport-grey-front-69bd8568dc9ba.jpg?v=1774032135
     Price: 38,50 $ CAD
 - [T-Shirt OseTee Humeur | Toujours Là – Streetwear Québécois Boxe](https://osetee.ca/products/boxe-t-shirt-osetee-humeur-toujours-la-streetwear-quebecois): TOUJOURS LÀ.Pas juste un t-shirt.Une attitude.La collection Humeur de OseTee transforme les expressions du quotidien québécois en véritables déclarations de style. Chaque design met en scène le harfang signature — regard perçant, présence assumée — dans des situations qui parlent vrai.🎾 ⛳ 🏒 🥊Service. But. Punch. Vraies affaires.RetiréPeu importe le terrain…tu es toujours là.💥 POURQUOI CE T-SHIRT FAIT LA DIFFÉRENCE✔️ Design exclusif OseTee✔️ Style streetwear québécois distinctif✔️ Impression haute qualité (DTF durable)✔️ Ultra confortable (unisexe)✔️ Message fort, humour assumé👉 Un t-shirt qui fait réagir, sourire… et connecter.🧵 QUALITÉ & CONFORTCoupe unisexe moderneCoton premium doux et respirantFit true to sizeParfait pour le quotidien, le sport ou le chill🎨 DISPONIBLE EN PLUSIEURS COULEURSNoir (impact 🔥)Bleu nuit (premium 🔵)Gris (lifestyle 👕)👉 S’adapte à tous les styles, toutes les humeurs.🦉 L’ADN OseTeeLe harfang n’est pas là pour décorer.Il représente :la luciditéla présencel’attitude👉 Toujours prêt. Toujours solide.UNE MARQUE D’ICIPensé au Québec.Inspiré du vrai monde.Porté avec fierté.❓ FAQ Ce t-shirt est-il unisexe ?Oui, il convient autant aux hommes qu’aux femmes avec une coupe moderne et confortable.Quelle taille choisir ?Nous recommandons votre taille habituelle (fit standard). Pour un look plus loose, prenez une taille au-dessus.L’impression est-elle durable ?Oui. Nos impressions sont conçues pour résister aux lavages répétés sans craquer ni pâlir.Est-ce une édition limitée ?Oui. Les designs OseTee sont produits en quantités limitées pour garder un effet exclusif.Peut-on porter ce t-shirt au quotidien ?Absolument. Il est conçu pour être porté autant en sortie, au travail, au sport ou en détente.À qui s’adresse cette collection ?À tous ceux qui ont une attitude, un sens de l’humour… et quelque chose à dire.
-  Updated: 2026-03-23T11:13:44Z
+  Updated: 2026-04-20T21:12:03Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -21536,7 +21536,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sport-grey-front-69bd8642a4b53.jpg?v=1774032730
     Price: 38,50 $ CAD
 - [T-Shirt OseTee Humeur | Moi Je M endure Tres Bien](https://osetee.ca/products/t-shirt-osetee-humeur-moi-je-m-endure-tres-bien): Affirme ton attitude avec les t-shirts OseTee Collection Humeur. Designs uniques, style streetwear québécois, impression premium. Disponible en 4 couleurs.🔥 👉 Parce qu’au fond… tout le monde a une opinion. Mais toi, t’as du style 😏 La Collection Humeur OseTee rassemble des designs assumés, percutants et ancrés dans la réalité. Des phrases qui font sourire, réfléchir… ou réagir. 💥 Attitude 💥 Authenticité 💥 Identité Chaque t-shirt est conçu pour offrir un look streetwear propre, lisible et durable, avec une impression de qualité qui tient dans le temps. ⚡ Détails produit : Coupe unisexe confortable Impression haute qualité (DTF / durable) Design optimisé pour textile foncé et pâle Disponible en : Noir, Bleu nuit, Gris sport, Blanc Style streetwear québécois assumé 😏 Pourquoi choisir OseTee : Designs uniques et originaux Punchlines fortes et mémorables Conçu pour se démarquer Parfait pour le quotidien, le travail ou les sorties ❓ FAQ Les t-shirts sont-ils unisexes ? Oui, coupe standard confortable pour homme et femme. La qualité d’impression est-elle durable ? Oui, impression résistante conçue pour durer lavage après lavage. Les designs sont-ils exclusifs ? Oui, tous les designs OseTee sont originaux et exclusifs. Quelles couleurs sont disponibles ? Noir, Bleu nuit, Gris sport et Blanc.
-  Updated: 2026-04-08T13:38:57Z
+  Updated: 2026-04-20T21:12:03Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -21614,7 +21614,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sport-grey-front-69bf2cab7a176.jpg?v=1774142358
     Price: 38,50 $ CAD
 - [T-Shirt OseTee Humeur |  – Que bien du monde-Streetwear Québécois](https://osetee.ca/products/t-shirt-osetee-humeur-streetwear-quebecois): Affirme ton attitude avec les t-shirts OseTee Collection Humeur. Designs uniques, style streetwear québécois, impression premium. Disponible en 4 couleurs.🔥 👉 Parce qu’au fond… tout le monde a une opinion. Mais toi, t’as du style 😏 La Collection Humeur OseTee rassemble des designs assumés, percutants et ancrés dans la réalité. Des phrases qui font sourire, réfléchir… ou réagir. 💥 Attitude 💥 Authenticité 💥 Identité Chaque t-shirt est conçu pour offrir un look streetwear propre, lisible et durable, avec une impression de qualité qui tient dans le temps. ⚡ Détails produit : Coupe unisexe confortable Impression haute qualité (DTF / durable) Design optimisé pour textile foncé et pâle Disponible en : Noir, Bleu nuit, Gris sport, Blanc Style streetwear québécois assumé 😏 Pourquoi choisir OseTee : Designs uniques et originaux Punchlines fortes et mémorables Conçu pour se démarquer Parfait pour le quotidien, le travail ou les sorties ❓ FAQ Les t-shirts sont-ils unisexes ? Oui, coupe standard confortable pour homme et femme. La qualité d’impression est-elle durable ? Oui, impression résistante conçue pour durer lavage après lavage. Les designs sont-ils exclusifs ? Oui, tous les designs OseTee sont originaux et exclusifs. Quelles couleurs sont disponibles ? Noir, Bleu nuit, Gris sport et Blanc.
-  Updated: 2026-03-22T12:50:59Z
+  Updated: 2026-04-20T21:12:03Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -21740,7 +21740,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69bf3ccf3125a.jpg?v=1774144443
     Price: 36,00 $ CAD
 - [T-Shirt OseTee Humeur | Pas Grave – Streetwear Québécois](https://osetee.ca/products/t-shirt-osetee-humeur-pas-grave-streetwear-quebecois): Affirme ton attitude avec les t-shirts OseTee Collection Humeur. Designs uniques, style streetwear québécois, impression premium. Disponible en 4 couleurs.🔥 👉 Parce qu’au fond… tout le monde a une opinion. Mais toi, t’as du style 😏 La Collection Humeur OseTee rassemble des designs assumés, percutants et ancrés dans la réalité. Des phrases qui font sourire, réfléchir… ou réagir. 💥 Attitude 💥 Authenticité 💥 Identité Chaque t-shirt est conçu pour offrir un look streetwear propre, lisible et durable, avec une impression de qualité qui tient dans le temps. ⚡ Détails produit : Coupe unisexe confortable Impression haute qualité (DTF / durable) Design optimisé pour textile foncé et pâle Disponible en : Noir, Bleu nuit, Gris sport, Blanc Style streetwear québécois assumé 😏 Pourquoi choisir OseTee : Designs uniques et originaux Punchlines fortes et mémorables Conçu pour se démarquer Parfait pour le quotidien, le travail ou les sorties ❓ FAQ Les t-shirts sont-ils unisexes ? Oui, coupe standard confortable pour homme et femme. La qualité d’impression est-elle durable ? Oui, impression résistante conçue pour durer lavage après lavage. Les designs sont-ils exclusifs ? Oui, tous les designs OseTee sont originaux et exclusifs. Quelles couleurs sont disponibles ? Noir, Bleu nuit, Gris sport et Blanc.
-  Updated: 2026-03-22T14:16:17Z
+  Updated: 2026-04-20T21:12:04Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -21866,7 +21866,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69bf50d2db263.jpg?v=1774146481
     Price: 39,00 $ CAD
 - [T-Shirt OseTee Humeur | Toujours Là – Streetwear Québécois Baseball](https://osetee.ca/products/t-shirt-osetee-humeur-toujours-la-streetwear-quebecois-baseball): TOUJOURS LÀ. Pas juste un t-shirt. Une attitude. La collection Humeur de OseTee transforme les expressions du quotidien québécois en véritables déclarations de style. Chaque design met en scène le harfang signature — regard perçant, présence assumée — dans des situations qui parlent vrai. 🎾 ⛳ 🏒 🥊 Service. But. Punch. Vraies affaires.Retiré Peu importe le terrain… tu es toujours là. 💥 POURQUOI CE T-SHIRT FAIT LA DIFFÉRENCE ✔️ Design exclusif OseTee ✔️ Style streetwear québécois distinctif ✔️ Impression haute qualité (DTF durable) ✔️ Ultra confortable (unisexe) ✔️ Message fort, humour assumé 👉 Un t-shirt qui fait réagir, sourire… et connecter. 🧵 QUALITÉ & CONFORT Coupe unisexe moderne Coton premium doux et respirant Fit true to size Parfait pour le quotidien, le sport ou le chill 🎨 DISPONIBLE EN PLUSIEURS COULEURS Noir (impact 🔥) Bleu nuit (premium 🔵) Gris (lifestyle 👕) 👉 S’adapte à tous les styles, toutes les humeurs. 🦉 L’ADN OseTee Le harfang n’est pas là pour décorer. Il représente : la lucidité la présence l’attitude 👉 Toujours prêt. Toujours solide. UNE MARQUE D’ICI Pensé au Québec. Inspiré du vrai monde. Porté avec fierté. ❓ FAQ Ce t-shirt est-il unisexe ? Oui, il convient autant aux hommes qu’aux femmes avec une coupe moderne et confortable. Quelle taille choisir ? Nous recommandons votre taille habituelle (fit standard). Pour un look plus loose, prenez une taille au-dessus. L’impression est-elle durable ? Oui. Nos impressions sont conçues pour résister aux lavages répétés sans craquer ni pâlir. Est-ce une édition limitée ? Oui. Les designs OseTee sont produits en quantités limitées pour garder un effet exclusif. Peut-on porter ce t-shirt au quotidien ? Absolument. Il est conçu pour être porté autant en sortie, au travail, au sport ou en détente. À qui s’adresse cette collection ? À tous ceux qui ont une attitude, un sens de l’humour… et quelque chose à dire.
-  Updated: 2026-03-23T11:17:44Z
+  Updated: 2026-04-20T21:12:04Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -21992,7 +21992,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69c07873e827b.jpg?v=1774221662
     Price: 35,00 $ CAD
 - [Phoque off T-shirt en jersey fin unisexe Humeur OseTee streetwear Québécois](https://osetee.ca/products/phoque-off-t-shirt-en-jersey-fin-unisexe-humeur-osetee-streetwear-quebecois): OseTee – T-shirt Humeur | Streetwear québécois qui parle pour toi Affiche ton mood sans même ouvrir la bouche. Ce t-shirt OseTee – Collection Humeur est fait pour les jours où t’as le goût de dire les vraies affaires… mais en coton. Style simple, vibe assumée, attitude bien d’icitte. Description produit Ton humeur change, ton style reste solide. Ce t-shirt Humeur combine confort, look clean et message punché. Pas besoin de long discours : ton chandail fait le travail pour toi. Parfait pour la job relax, un 5 à 7, un café en ville ou juste chiller à la maison. Tissu doux, agréable toute la journée Coupe qui garde une belle shape lavage après lavage Message mood qui fait réagir sans être trop criard Unisexe : fait autant pour elle, lui ou iel Idéal pour représenter le streetwear québécois avec une touche d’humour Un incontournable pour les looks décontractés qui ont quelque chose à dire. Détails en mode simple Confortable et respirant pour tous les jours Se porte seul ou sous un hoodie / surchemise S’agence facilement avec jeans, joggers ou pantalon plus clean Parfait en cadeau pour quelqu’un… qui a “une humeur légendaire” FAQ – T-shirt Humeur OseTee Q : La coupe est-elle unisexe? R : Oui. La coupe est pensée pour convenir autant aux gars, aux filles qu’à tout le monde entre les deux. Si tu hésites entre deux tailles, prends celle du dessus pour un look plus relax. Q : Est-ce que le t-shirt rétrécit au lavage? R : Avec un lavage à l’eau froide et séchage à basse température ou à l’air libre, il garde très bien sa forme. On recommande de le retourner à l’envers pour protéger l’impression. Q : Est-ce que l’impression va craquer ou pâlir vite? R : Non, l’impression est faite pour durer si tu suis les instructions d’entretien de base : eau froide, pas de javel, éviter la sécheuse trop chaude, pas de repassage direct sur le design. Q : C’est fait où? R : Le t-shirt de base provient de l’international, mais le design, le concept et l’univers de la Collection Humeur sont pensés ici, dans l’esprit du streetwear québécois. Q : Je peux le porter pour quelle occasion? R : Quand tu veux que ton chandail parle pour toi : à la job (si c’est relax), en sortie, entre amis, ou simplement les jours où ton mood mérite sa place sur un t-shirt.
-  Updated: 2026-03-25T01:48:47Z
+  Updated: 2026-04-20T21:12:04Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -22118,7 +22118,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/lat-unisex-fine-jersey-tee---6901-white-front-69c2961e5c607.jpg?v=1774361594
     Price: 36,00 $ CAD
 - [Je suis bipolaire T-shirt en jersey fin unisexe Humeur OseTee streetwear Québécois](https://osetee.ca/products/je-suis-bipolaire-t-shirt-en-jersey-fin-unisexe-humeur-osetee-streetwear-quebecois): OseTee – T-shirt Humeur | Streetwear québécois qui parle pour toi Affiche ton mood sans même ouvrir la bouche. Ce t-shirt OseTee – Collection Humeur est fait pour les jours où t’as le goût de dire les vraies affaires… mais en coton. Style simple, vibe assumée, attitude bien d’icitte. Description produit Ton humeur change, ton style reste solide. Ce t-shirt Humeur combine confort, look clean et message punché. Pas besoin de long discours : ton chandail fait le travail pour toi. Parfait pour la job relax, un 5 à 7, un café en ville ou juste chiller à la maison. Tissu doux, agréable toute la journée Coupe qui garde une belle shape lavage après lavage Message mood qui fait réagir sans être trop criard Unisexe : fait autant pour elle, lui ou iel Idéal pour représenter le streetwear québécois avec une touche d’humour Un incontournable pour les looks décontractés qui ont quelque chose à dire. Détails en mode simple Confortable et respirant pour tous les jours Se porte seul ou sous un hoodie / surchemise S’agence facilement avec jeans, joggers ou pantalon plus clean Parfait en cadeau pour quelqu’un… qui a “une humeur légendaire” FAQ – T-shirt Humeur OseTee Q : La coupe est-elle unisexe? R : Oui. La coupe est pensée pour convenir autant aux gars, aux filles qu’à tout le monde entre les deux. Si tu hésites entre deux tailles, prends celle du dessus pour un look plus relax. Q : Est-ce que le t-shirt rétrécit au lavage? R : Avec un lavage à l’eau froide et séchage à basse température ou à l’air libre, il garde très bien sa forme. On recommande de le retourner à l’envers pour protéger l’impression. Q : Est-ce que l’impression va craquer ou pâlir vite? R : Non, l’impression est faite pour durer si tu suis les instructions d’entretien de base : eau froide, pas de javel, éviter la sécheuse trop chaude, pas de repassage direct sur le design. Q : C’est fait où? R : Le t-shirt de base provient de l’international, mais le design, le concept et l’univers de la Collection Humeur sont pensés ici, dans l’esprit du streetwear québécois. Q : Je peux le porter pour quelle occasion? R : Quand tu veux que ton chandail parle pour toi : à la job (si c’est relax), en sortie, entre amis, ou simplement les jours où ton mood mérite sa place sur un t-shirt.
-  Updated: 2026-03-28T13:42:48Z
+  Updated: 2026-04-20T21:12:04Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -22244,7 +22244,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/lat-unisex-fine-jersey-tee---6901-white-front-69c731f70d8df.jpg?v=1774663451
     Price: 37,50 $ CAD
 - [T-Shirt OseTee Humeur | La guerre La guerre– Streetwear Québécois](https://osetee.ca/products/t-shirt-osetee-humeur-la-guerre-la-guerre-streetwear-quebecois): Affirme ton attitude avec les t-shirts OseTee Collection Humeur. Designs uniques, style streetwear québécois, impression premium. Disponible en 4 couleurs.🔥 👉 Parce qu’au fond… tout le monde a une opinion. Mais toi, t’as du style 😏 La Collection Humeur OseTee rassemble des designs assumés, percutants et ancrés dans la réalité. Des phrases qui font sourire, réfléchir… ou réagir. 💥 Attitude 💥 Authenticité 💥 Identité Chaque t-shirt est conçu pour offrir un look streetwear propre, lisible et durable, avec une impression de qualité qui tient dans le temps. ⚡ Détails produit : Coupe unisexe confortable Impression haute qualité (DTF / durable) Design optimisé pour textile foncé et pâle Disponible en : Noir, Bleu nuit, Gris sport, Blanc Style streetwear québécois assumé 😏 Pourquoi choisir OseTee : Designs uniques et originaux Punchlines fortes et mémorables Conçu pour se démarquer Parfait pour le quotidien, le travail ou les sorties ❓ FAQ Les t-shirts sont-ils unisexes ? Oui, coupe standard confortable pour homme et femme. La qualité d’impression est-elle durable ? Oui, impression résistante conçue pour durer lavage après lavage. Les designs sont-ils exclusifs ? Oui, tous les designs OseTee sont originaux et exclusifs. Quelles couleurs sont disponibles ? Noir, Bleu nuit, Gris sport et Beige
-  Updated: 2026-03-29T15:22:26Z
+  Updated: 2026-04-20T21:12:05Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -22346,7 +22346,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-natural-front-69c89a566216f.jpg?v=1774754409
     Price: 42,00 $ CAD
 - [OseTee – Hoodie Identité Québécoise | Le Québec Mon Pays](https://osetee.ca/products/osetee-hoodie-identite-quebecoise-le-quebec-mon-pays): Affirme ton identité avec style. Ce hoodie OseTee de la collection Identité québécoise est pensé pour celles et ceux qui veulent porter plus qu’un vêtement : un message, une fierté, une présence. C’est une pièce urbaine, confortable et exclusive, créée pour représenter le Québec avec attitude. Quantité limitée. Temps limité. Quand c’est parti, c’est parti. Pourquoi tu vas l’aimer Ce hoodie combine un look clean, une coupe urbaine et un confort parfait pour le quotidien. Facile à superposer, agréable à porter et conçu pour durer, il devient vite un essentiel de ta garde-robe streetwear. Avec son design Le Québec Mon Pays, il capte l’attention sans en faire trop. C’est exactement le genre de pièce qui attire les regards, lance des conversations et donne du poids à ton style. Un hoodie qui parle pour toi Porter ce hoodie, c’est choisir : La fierté québécoise. Un style urbain assumé. Une pièce exclusive qui ne restera pas longtemps disponible. Une esthétique OseTee moderne, simple et puissante. Que tu sois en ville, en road trip, à un événement local ou simplement dans ton vibe du jour, ce hoodie s’agence facilement avec un jeans, un jogger ou un look plus minimal. Détails du produit 80% coton, 20% polyester recyclé. Heather Gray : 70% coton, 30% polyester recyclé. Charcoal et Oatmeal Heather : 60% coton, 40% polyester recyclé. Poids du tissu : 280 g/m². Extérieur 100% coton. Coupe droite. Couture sur le côté. Surpiqûre à double aiguille sur toutes les coutures. Poche kangourou. Bordures et ceinture côtelées. Cordons assortis avec extrémités renforcées et œillets en métal. Moins de 5% de rétrécissement. Produit vierge provenant du Pakistan. Note : pour une coupe plus ample, prends une taille au-dessus. Style et fit Ce hoodie est parfait pour un look : Streetwear québécois. Urbain et confortable. Minimal avec impact visuel. Layering avec manteau, veston ou surchemise. Quotidien, casual, cool et distinctif. Exclusivité OseTee Cette création fait partie d’une série limitée de la collection Identité québécoise. Elle a été pensée pour ceux qui veulent porter leur appartenance avec fierté, dans un esprit moderne, local et authentique. FAQ Ce hoodie est-il unisexe ? Oui, complètement. Il est conçu pour être porté par tout le monde avec une coupe urbaine et polyvalente. Est-ce que le hoodie taille grand ou petit ? La coupe est droite. Si tu veux un fit plus relax ou oversized, prends une taille au-dessus. Est-ce que la pièce est limitée ? Oui. C’est une exclusivité de la collection Identité québécoise, disponible pour un temps limité et en quantité limitée. Est-ce que le hoodie est confortable pour le quotidien ? Oui. Il est conçu pour le confort, la superposition et un usage de tous les jours. Est-ce que le design est durable ? Oui, la fabrication et les finitions sont pensées pour offrir une bonne tenue dans le temps avec un entretien normal. Comment l’entretenir ? Lave à l’eau froide, retourne le hoodie à l’envers et évite la chaleur excessive pour garder la qualité du tissu et du visuel.
-  Updated: 2026-03-30T12:52:48Z
+  Updated: 2026-04-20T21:12:05Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -22478,7 +22478,7 @@
     Availability: Available
     Price: 72,50 $ CAD
 - [OseTee – Hoodie Identité Québécoise | Le Quebec un pays](https://osetee.ca/products/osetee-hoodie-identite-quebecoise-le-quebec-un-pays): Affirme ton identité avec style. Ce hoodie OseTee de la collection Identité québécoise est pensé pour celles et ceux qui veulent porter plus qu’un vêtement : un message, une fierté, une présence. C’est une pièce urbaine, confortable et exclusive, créée pour représenter le Québec avec attitude. Quantité limitée. Temps limité. Quand c’est parti, c’est parti. Pourquoi tu vas l’aimer Ce hoodie combine un look clean, une coupe urbaine et un confort parfait pour le quotidien. Facile à superposer, agréable à porter et conçu pour durer, il devient vite un essentiel de ta garde-robe streetwear. Avec son design Le Québec Mon Pays, il capte l’attention sans en faire trop. C’est exactement le genre de pièce qui attire les regards, lance des conversations et donne du poids à ton style. Un hoodie qui parle pour toi Porter ce hoodie, c’est choisir : La fierté québécoise. Un style urbain assumé. Une pièce exclusive qui ne restera pas longtemps disponible. Une esthétique OseTee moderne, simple et puissante. Que tu sois en ville, en road trip, à un événement local ou simplement dans ton vibe du jour, ce hoodie s’agence facilement avec un jeans, un jogger ou un look plus minimal. Détails du produit 80% coton, 20% polyester recyclé. Heather Gray : 70% coton, 30% polyester recyclé. Charcoal et Oatmeal Heather : 60% coton, 40% polyester recyclé. Poids du tissu : 280 g/m². Extérieur 100% coton. Coupe droite. Couture sur le côté. Surpiqûre à double aiguille sur toutes les coutures. Poche kangourou. Bordures et ceinture côtelées. Cordons assortis avec extrémités renforcées et œillets en métal. Moins de 5% de rétrécissement. Produit vierge provenant du Pakistan. Note : pour une coupe plus ample, prends une taille au-dessus. Style et fit Ce hoodie est parfait pour un look : Streetwear québécois. Urbain et confortable. Minimal avec impact visuel. Layering avec manteau, veston ou surchemise. Quotidien, casual, cool et distinctif. Exclusivité OseTee Cette création fait partie d’une série limitée de la collection Identité québécoise. Elle a été pensée pour ceux qui veulent porter leur appartenance avec fierté, dans un esprit moderne, local et authentique. FAQ Ce hoodie est-il unisexe ? Oui, complètement. Il est conçu pour être porté par tout le monde avec une coupe urbaine et polyvalente. Est-ce que le hoodie taille grand ou petit ? La coupe est droite. Si tu veux un fit plus relax ou oversized, prends une taille au-dessus. Est-ce que la pièce est limitée ? Oui. C’est une exclusivité de la collection Identité québécoise, disponible pour un temps limité et en quantité limitée. Est-ce que le hoodie est confortable pour le quotidien ? Oui. Il est conçu pour le confort, la superposition et un usage de tous les jours. Est-ce que le design est durable ? Oui, la fabrication et les finitions sont pensées pour offrir une bonne tenue dans le temps avec un entretien normal. Comment l’entretenir ? Lave à l’eau froide, retourne le hoodie à l’envers et évite la chaleur excessive pour garder la qualité du tissu et du visuel.
-  Updated: 2026-03-31T12:44:41Z
+  Updated: 2026-04-20T21:12:05Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -22652,7 +22652,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-premium-mid-weight-hoodie-white-front-69cb18d5f216d.jpg?v=1774917871
     Price: 74,50 $ CAD
 - [T-shirt Fierté Acadienne 1755 – Force & Résilience | OseTee](https://osetee.ca/products/t-shirt-fierte-acadienne-1755-force-resilience-osetee): Portez votre histoire avec fierté.Ce t-shirt Fierté Acadienne 1755 n’est pas qu’un vêtement, c’est un cri du cœur. Inspiré par la déportation du Grand Dérangement de 1755, ce design puissant rappelle : « On nous a déportés… on est restés, on résiste! ». Les couleurs tricolores usées, l’étoile jaune et le message « Force & Résilience » incarnent l’esprit indomptable d’un peuple qui a survécu, s’est réinventé et rayonne encore aujourd’hui.Parfait pour les rassemblements familiaux, les fêtes acadiennes, les festivals culturels ou simplement pour affirmer votre identité au quotidien. Que vous soyez au Nouveau-Brunswick, en Louisiane ou au Québec, ce modèle unit les Acadiens d’hier et d’aujourd’hui.Pourquoi choisir ce t-shirt?Design exclusif OseTee : Graphisme patrimonial premium, fidèle à l’héritage 1755.Confort supérieur : 100% coton doux, coupe ajustée qui résiste au temps.Impression HD durable : Ne s’efface pas au lavage, même après 50 cycles.Éco-responsable : Production locale, encres à eauTailles disponibles : S à 3XL (homme/femme/unisexe). Consultez notre guide des tailles ci-dessous.Livraison & retours : Expédition gratuite dès 30$ au Canada. Retours 30 jours, satisfaction garantie.Ajoutez à votre panier et portez la fierté acadienne avec force!Conseils d’entretienLavage à l’eau froide, séchage à l’air. Repassage à l’intérieur. Évitez le sèche-linge pour préserver les couleurs vibrantes.
-  Updated: 2026-04-01T13:47:38Z
+  Updated: 2026-04-20T21:12:05Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -22778,7 +22778,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-basic-softstyle-t-shirt-white-front-69cc791d54afb.jpg?v=1775009939
     Price: 36,00 $ CAD
 - [OseTee – T-shirt unisexe J’ai l’Acadie dans le tchœur!](https://osetee.ca/products/osetee-t-shirt-unisexe-j-ai-l-acadie-dans-le-tchoeur): Description longue Affiche ta fierté acadienne avec style grâce au t-shirt unisexe J’ai l’Acadie dans le tchœur!, une création OseTee pensée pour celles et ceux qui veulent porter leur identité avec humour, cœur et caractère. Ce design vibrant célèbre l’Acadie à travers un visuel puissant, coloré et assumé, parfait pour les esprits libres, fiers de leurs racines et amoureux du streetwear avec du sens. Avec son illustration marquante mettant en scène l’univers acadien dans une ambiance marine et symbolique, ce t-shirt devient bien plus qu’un vêtement : c’est une déclaration. Une façon de dire haut et fort que l’Acadie coule dans tes veines… et dans ton style. Chez OseTee, on aime créer des pièces qui racontent quelque chose. Ce modèle fait partie de la même famille créative que notre collection 1755, avec un ton identitaire fort, une vibe locale assumée et une allure qui se démarque instantanément. C’est le genre de chandail qui attire les regards, lance les conversations et fait sourire ceux qui comprennent le message. Pensé pour être porté au quotidien, ce t-shirt unisexe s’intègre facilement à une garde-robe moderne. Il fonctionne autant avec un jeans relax qu’avec un jogger streetwear, une surchemise ou un hoodie ouvert. Peu importe la saison, il apporte une touche unique et authentique à ton look. C’est le choix parfait pour : représenter l’Acadie avec fierté, offrir un cadeau original et mémorable, porter une pièce identitaire qui sort du lot, afficher ton appartenance avec humour et intensité, soutenir un streetwear québécois et acadien qui a une vraie personnalité. Le message est clair : J’ai l’Acadie dans le tchœur! Et avec OseTee, tu la portes avec style. Pourquoi tu vas l’adorer Design original et expressif. Vibe identitaire forte. Coupe unisexe polyvalente. Parfait pour un look streetwear québécois / acadien. Idéal pour un cadeau, un festival, une sortie ou le quotidien. Fait partie d’une collection qui célèbre la mémoire, la fierté et l’appartenance. À propos du style Ce t-shirt combine une esthétique illustrée riche avec une identité visuelle audacieuse. Le résultat donne un chandail qui se remarque de loin, mais qui garde un côté wearable et actuel. C’est exactement ce qui rend cette pièce intéressante : elle est forte sans être lourde, punchée sans être compliquée, et locale sans être fermée. Détails du produit T-shirt unisexe. Style streetwear identitaire. Impression de haute qualité. Confortable pour le quotidien. Facile à agencer. Conçu pour durer et garder son look. Inspiré de l’Acadie et de la collection 1755.
-  Updated: 2026-04-02T13:34:36Z
+  Updated: 2026-04-20T21:12:05Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -22904,7 +22904,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69cdc73571a15.jpg?v=1775095014
     Price: 36,50 $ CAD
 - [Criss, qu’on est ben pas de brassière. | T-shirt Humeur OseTee](https://osetee.ca/products/criss-qu-on-est-ben-pas-de-brassiere-t-shirt-humeur-osetee): Y’a des t-shirts qui sont beaux. Pis y’a des t-shirts qui ont une attitude. Celui-là, c’est clairement le deuxième. Avec son message drôle, franc et bien d’ici, ce modèle OseTee de la collection Humeur est fait pour les gens qui aiment s’exprimer sans se compliquer la vie. C’est un chandail qui fait sourire, qui fait jaser, pis qui donne du caractère à n’importe quel outfit. Confortable, polyvalent et complètement assumé, c’est le genre de morceau qu’on met une fois… pis qu’on veut remettre encore et encore. FAQ Q : C’est quoi ce t-shirt? R : C’est un t-shirt OseTee de la collection Humeur avec un message drôle, franc et bien québécois. Q : C’est un modèle unisexe? R : Oui, il est pensé pour être porté dans un style streetwear simple et assumé. Q : Je peux le porter avec quoi? R : Avec un jeans, un jogging, un short ou n’importe quel outfit relax d’été. Q : C’est-tu un bon choix cadeau? R : Oui, si tu cherches un cadeau original, drôle et typiquement d’ici. Q : Dans quelle collection il va? R : Dans la collection Humeur d’OseTee.
-  Updated: 2026-04-06T07:38:59Z
+  Updated: 2026-04-21T00:44:06Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -23006,7 +23006,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-basic-softstyle-t-shirt-sport-grey-front-69d2ba3c73be4.jpg?v=1775421243
     Price: 39,00 $ CAD
 - [Vois-le comme un signe | T-shirt Humeur OseTee](https://osetee.ca/products/vois-le-comme-un-signe-t-shirt-humeur-osetee): Le t-shirt qui signe sans compromis. "Vois-le comme un Sygne" — le message universel qui parle à tout le monde d'icitte. Ce chandail OseTee de la collection **Humeur** capture l'attitude pure : humour direct, style streetwear clean et caractère 100% québécois. **Coupe unisexe, coton premium respirant** — parfait pour l'été avec jeans destroy, short cargo, jupe ou look festival. C'est LE morceau qui fait sourire les initiés, buzzer sur Insta et intriguer dans la rue. **Pourquoi tu vas l'aimer :** • Design signature OseTee (signe + sygne = génie québécois) • Confort toute la journée • Lavable machine, tient la route • Fierté locale assumée **Mots-clés :** t-shirt sygne Québec, streetwear signe OseTee, vois-le sygne, humour geste québécois, collection Humeur.
-  Updated: 2026-04-07T05:02:56Z
+  Updated: 2026-04-20T21:12:06Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -23132,7 +23132,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69d3e72068fe9.jpg?v=1775495941
     Price: 39,50 $ CAD
 - [Sweat à capuche unisexe premium – Identité Québécoise](https://osetee.ca/products/sweat-a-capuche-unisexe-premium-identite-quebecoise): Affiche ta fierté québécoise avec ce sweat à capuche premium au design exclusif OseTee. Un hibou au regard perçant, des fleurs de lys et un style affirmé qui dit tout : « Québécois, pas gêné pantoute ! » Parfait pour ceux qui veulent porter leurs racines avec style, confort et caractère. Caractéristiques Coupe unisexe : convient à toutes les morphologies. Épaisseur moyenne premium : idéal en toute saison, chaud sans être lourd. Matière douce et durable : mélange coton/polyester haute qualité. Capuche doublée avec cordons robustes. Impression HD du design OseTee pour des couleurs éclatantes et des détails nets. Poche kangourou pratique et confortable. Finition premium : coutures renforcées, toucher doux, excellent maintien. Le design Illustration originale mêlant un hibou stylisé, fleurs de lys et un papillon coloré. Graphisme identitaire mettant de l’avant la culture québécoise. Message authentique : « Pas gêné pantoute », parfait pour affirmer ton appartenance. Pourquoi tu vas l’aimer Confort supérieur au quotidien. Un style unique, impossible à manquer. Une pièce forte de la collection Identité Québécoise OseTee. Idéal pour offrir ou se gâter. Entretien Lavage à l’envers à l’eau froide. Séchage à basse température. Ne pas repasser directement sur le design.
-  Updated: 2026-04-07T13:13:20Z
+  Updated: 2026-04-20T21:12:06Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -23210,7 +23210,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-premium-mid-weight-hoodie-charcoal-heather-front-69d45a0e1af58.jpg?v=1775525072
     Price: 74,00 $ CAD
 - [Mon groupe sanguin est A péritif T‑shirt Unisexe – Collection Humeur \OseTee](https://osetee.ca/products/mon-groupe-sanguin-est-a-peritif-t-shirt-unisexe-collection-humeur-osetee): DescriptionUn t‑shirt léger et décontracté, parfait pour afficher ton humour estival. Son illustration colorée et son message plein de second degré en font la pièce idéale pour les soirées entre amis, les vacances, ou simplement pour apporter une touche fun à ton quotidien.DesignImpression haute définition avec un décor plage/été et un visuel humoristique.Message : “En cas de besoin, mon groupe sanguin est A’péritif”.Look estival, ambiance chill, parfait pour les amateurs d’apéro et de bonne humeur.Coupe : unisexe, confortable et adaptée à toutes les morphologies.Matière : 100 % coton doux, respirant, idéal pour la saison chaude.Grammage : environ 180 g/m² (selon version).Col rond renforcé pour une meilleure tenue.Impression résistante aux lavages.Couleurs d’été disponiblesNaturelBlanc Sport grisTaillesDu S au 3XL.Points fortsStyle fun et décaléParfait pour un look vacancesCadeau idéal pour les amateurs d’apéroLéger, doux et agréable à porterConseils d’entretienLavage à 30°C, à l’enversPas de sèche‑linge pour préserver les couleursRepassage doux, éviter le motif
-  Updated: 2026-04-09T03:11:21Z
+  Updated: 2026-04-20T21:12:06Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -23288,7 +23288,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-white-front-69d665057c74d.jpg?v=1775661762
     Price: 38,00 $ CAD
 - [🖤 Sweat à capuche unisexe – Je n’ai pas pété, mes foufounes t’ont envoyé un bisou Collection Humeur \OseTee](https://osetee.ca/products/sweat-a-capuche-unisexe-je-n-ai-pas-pete-mes-foufounes-t-ont-envoye-un-bisou-collection-humeur-osetee): 💬 Description Humour piquant et bonne humeur garantie ! Ce hoodie au message malicieux est parfait pour affirmer ton côté décalé tout en restant bien au chaud. Confortable, doux et chaud, il accompagne tes journées cocooning comme tes soirées entre amis où le rire est de mise. ✨ Détails du produit Coupe : unisexe — convient à toutes les morphologies Matière : 50 % coton / 50 % polyester Intérieur : molleton brossé ultra doux Capuche : doublée avec cordons réglables Poche kangourou : large et pratique Impression : haute qualité, résistante au lavage Fabrication : imprimé sur demande, au Québec 🎨 Couleurs disponibles Noir classique Gris sport Bordeaux chaud Bleu marine (édition limitée) etc.. 📏 Tailles Du S au 3XL 💡 Conseils d’entretien Lavage à 30 °C à l’envers Séchage à plat recommandé Repassage doux sans contact direct sur le motif 🚚 Livraison & retour Production personnalisée : délai 5 à 10 jours ouvrables Expédition rapide depuis le Canada Chaque pièce est imprimée à la demande → pas de gaspillage textile
-  Updated: 2026-04-11T20:51:15Z
+  Updated: 2026-04-20T21:12:07Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -23494,7 +23494,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-military-green-front-69d66dad83e2d.jpg?v=1775940674
     Price: 64,50 $ CAD
 - [OseTee – T-shirt unisexe Psychopates | Collection Humeur](https://osetee.ca/products/osetee-t-shirt-unisexe-psychopathes-collection-humeur): Le t-shirt Psychopathes OseTee est fait pour celles et ceux qui aiment le streetwear avec du caractère, une touche d’humour noir et une présence qui ne passe pas inaperçue. C’est une pièce qui parle fort, qui attire les regards et qui s’assume pleinement dans l’univers OseTee.Avec son visuel riche, presque façon affiche de film ou de bande dessinée sombre, ce t-shirt devient plus qu’un vêtement : c’est une attitude. Il incarne parfaitement la collection Humeur, où chaque pièce traduit un état d’esprit, une énergie ou une réponse au monde d’aujourd’hui.Une pièce qui a du mordantCe t-shirt a été pensé pour les gens qui aiment se démarquer sans suivre les codes trop sages. Son design “Psychopates” mélange l’esthétique streetwear, l’art visuel intense et une vibe décalée qui fait sourire, réagir ou jaser.C’est le genre de chandail qu’on porte quand on veut :montrer sa personnalité,ajouter du punch à un look simple,porter une création originale québécoise,représenter OseTee avec audace,faire un cadeau qui ne finit pas au fond du tiroir.La force de ce modèle, c’est son équilibre entre humour, intensité et style urbain. Il est parfait pour le quotidien, les sorties, les événements ou les looks plus expressifs.Pourquoi il se démarqueDesign unique et très visuel.Coupe unisexe facile à porter.Style streetwear québécois assumé.Parfait pour la collection Humeur.Idéal pour les gens qui aiment les vêtements qui parlent.Look original qui attire l’attention sans effort.L’esprit OseTeeChez OseTee, on aime créer des t-shirts qui racontent quelque chose. Pas juste des morceaux de tissu imprimés, mais de vraies pièces d’expression. Le t-shirt Psychopathes s’inscrit exactement dans cette vision : il donne du caractère à ta tenue et du poids à ton attitude.Tu peux le porter avec :un jeans noir ou délavé,un jogger streetwear,une surchemise ouverte,un hoodie zippé ou un manteau léger,des sneakers pour un look clean et urbain.C’est un chandail qui fonctionne autant avec un look simple qu’avec une tenue plus travaillée.Unisexe et polyvalentCe modèle a été pensé pour convenir à tout le monde. Sa coupe unisexe permet un porté confortable et polyvalent, que tu aimes les fits plus ajustés ou plus relax. Il s’agence facilement à plusieurs styles, ce qui en fait une pièce pratique autant qu’originale.C’est un bon choix pour :les amateurs de streetwear graphique,les fans de designs audacieux,les gens qui aiment les t-shirts à message,les looks casual avec une twist,les cadeaux originaux et mémorables.Détails du produitT-shirt unisexe.Collection Humeur.Style streetwear graphique.Impression au visuel riche et détaillé.Confortable pour le quotidien.Facile à agencer.Création originale OseTee.FAQEst-ce que ce t-shirt est unisexe ?Oui, ce modèle est conçu pour être porté par tout le monde.À quel style correspond ce t-shirt ?Il s’inscrit dans un style streetwear graphique avec une vibe humoristique, sombre et expressive.C’est pour quelle occasion ?Pour le quotidien, les sorties, les événements, les festivals ou simplement pour afficher ton mood avec personnalité.Est-ce une bonne idée cadeau ?Oui, surtout pour quelqu’un qui aime les designs originaux, l’humour noir ou le streetwear qui sort des sentiers battus.Ce modèle fait-il partie d’une collection ?Oui, il appartient à la collection Humeur d’OseTee.
-  Updated: 2026-04-13T12:44:02Z
+  Updated: 2026-04-20T21:12:07Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -23524,7 +23524,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-fine-jersey-tee-black-front-69d670c988095.jpg?v=1775662994
     Price: 35,50 $ CAD
 - [👨‍🍳 Oui Chef — T-shirt unisexe OseTee/Collection /Humeur/Métiers](https://osetee.ca/products/👨‍🍳-oui-chef-t-shirt-unisexe-osetee-collection-humeur-metiers): 👨‍🍳 Oui Chef — T-shirt unisexe OseTee La seule réponse valable en cuisine. Un t-shirt qui parle à tous ceux qui ont déjà entendu cette phrase — ou qui la donnent des ordres. Simple, direct, iconique. ✦ Design épuré en noir & blanc : typo graffiti en haut, serif imposant au centre, rouleau à pâtisserie, fouet, cuillère et couteau croisés en dessous. ✦ Slogan : « La seule réponse valable » ✦ Impression sérigraphie DTG haute définition — résistante aux lavages ✦ Fond transparent — s'adapte à toutes les couleurs de t-shirt 👕 Coupe & matière • T-shirt unisexe, coupe droite • 100 % coton bio peigné, 180 g/m² • Tailles disponibles : S / M / L / XL / 2XL / 3XL 🎯 Parfait pour : • Le cuisinier qui commande en cuisine • Le passionné qui vit pour la gastronomie • Cadeau Noël, anniversaire, fête des chefs 📦 Livraison Du Canada
-  Updated: 2026-04-12T13:20:14Z
+  Updated: 2026-04-20T21:12:07Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -23602,7 +23602,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-fine-jersey-tee-coyote-brown-front-69d69a0b31507.jpg?v=1776000014
     Price: 38,00 $ CAD
 - [🔥 Fais-moi confiance, j'suis un Chef — T-shirt unisexe OseTee](https://osetee.ca/products/🔥-fais-moi-confiance-jsuis-un-chef-t-shirt-unisexe-osetee): Quand la cuisine brasse, lui il maîtrise. Ce t-shirt capture l'énergie brute des cuisines professionnelles — la chaleur, la vapeur, le chaos organisé de ceux qui régalent. ✦ Design vintage explosif noir & ivoire : poêle fumante entourée de flammes, toque, fouet, couteau de boucher et fourchette en plein mouvement. Une typographie distressée ultra-lisible. ✦ Slogan : « Ça brasse en cuisine » ✦ Impression sérigraphie DTG haute définition — résistante aux lavages ✦ Fond transparent — s'adapte à toutes les couleurs de t-shirt 👕 Coupe & matière • T-shirt unisexe, coupe droite • 100 % coton bio peigné, 180 g/m² • Tailles disponibles :S / M / L / XL / 2XL / 3XL 🎯 Parfait pour : • Le pro de la cuisine qui vit dans sa brigade • L'amateur éclairé fier de ses talents • Cadeau Noël, anniversaire, fête des chefs 📦 Livraison Du Canada
-  Updated: 2026-04-09T06:31:20Z
+  Updated: 2026-04-20T21:12:07Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -23704,7 +23704,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-fine-jersey-tee-heather-front-69d69b9322dfb.jpg?v=1775672233
     Price: 38,00 $ CAD
 - [🍳 Crois-moi, j'suis un cuistot — T-shirt unisexe OseTee](https://osetee.ca/products/🔥-fais-moi-confiance-jsuis-un-chef-t-shirt-unisexe-osetee-1): Pour les vrais amoureux de la cuisine, ceux qui manient le couteau comme une baguette de chef et qui transforment chaque repas en chef-d'œuvre. Ce t-shirt, c'est leur déclaration d'identité. ✦ Design vintage chalk art : toque de chef, couteaux, fouet, faitout, couteau de boucher, citrouille et tomates — toute une brigade en un seul visuel.✦ Slogan : « Fait pour la bonne bouffe, né pour créer »✦ Impression sérigraphie DTG haute définition — résistante aux lavages✦ Fond transparent — s'adapte à toutes les couleurs de t-shirt 👕 Coupe & matière• T-shirt unisexe, coupe droite• 100 % coton bio peigné, 180 g/m²• Tailles disponibles : S / M / L / XL / 2XL / 3XL 🎯 Parfait pour :• Offrir à un cuisinier passionné• Se démarquer en cuisine ou à table• Cadeau Noël, anniversaire, fête des chefs 📦 Livraison Du Canada
-  Updated: 2026-04-09T06:34:46Z
+  Updated: 2026-04-20T21:12:07Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -23806,7 +23806,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-fine-jersey-tee-heather-front-69d69c8dca244.jpg?v=1775672486
     Price: 38,00 $ CAD
 - [OseTee – Collection Vintage Montréal 1982 | T-shirt ou Hoodie Unisexe](https://osetee.ca/products/mlb-vintage-all-star-game-montreal-t-shirt): Plonge dans l’énergie d’une époque culte avec cette création OseTee inspirée du Montréal baseball vintage et de l’ambiance légendaire du All Star Game 1982. Cette pièce mélange parfaitement nostalgie sportive, style urbain et identité montréalaise, pour un look qui traverse le temps sans perdre son swag. Pensé pour les fans de baseball, de rétro et de streetwear québécois, ce design s’impose comme un essentiel pour ceux qui veulent porter un morceau d’histoire avec une vibe moderne. Que tu choisisses le t-shirt ou le hoodie, en blanc ou en gris sport, tu obtiens une pièce facile à porter, confortable et visuellement forte. Pourquoi cette pièce se démarque Ce modèle a été conçu pour celles et ceux qui aiment les vêtements avec du caractère. Le style vintage sportswear donne un effet vieilli et authentique, tandis que l’approche OseTee garde le rendu actuel, propre et facile à intégrer à une garde-robe streetwear. C’est le genre de morceau qui fonctionne autant : au quotidien, pour un look sport rétro, en sortie entre amis, en cadeau pour un fan de Montréal ou de baseball, comme pièce phare d’une collection limitée. Son esthétique sportive et rétro attire l’œil sans en faire trop. Résultat : un vêtement simple à porter, mais riche en personnalité. Style et ambiance Cette création s’inscrit dans une tendance forte : le retour du vintage sportswear. Les références aux années 80, aux grandes pages du baseball montréalais et aux coupes unisexes créent un équilibre parfait entre mémoire, mode et confort. Le blanc donne un look plus lumineux et classique. Le gris sport apporte une touche plus urbaine, plus douce et plus facile à matcher avec jeans, joggers ou shorts. Dans les deux cas, la pièce garde son identité forte et son effet rétro assumé. Détails du produit Modèle unisexe. Disponible en t-shirt ou hoodie. Couleurs suggérées : blanc et gris sport. Style vintage sport / rétro Montréal. Confort quotidien. Facile à agencer. Design inspiré du baseball et de la culture montréalaise. Signature OseTee avec une vibe locale et urbaine. À qui s’adresse ce produit Ce modèle est parfait pour : les amateurs de Montréal et de son histoire sportive, les fans de baseball vintage, les amoureux du style rétro, ceux qui aiment les pièces unisexes polyvalentes, les clients qui cherchent un cadeau original et local, les gens qui aiment porter des vêtements avec une vraie identité. FAQ Ce produit est-il unisexe ?Oui, il est pensé pour être porté par tout le monde avec une coupe polyvalente. Est-ce plus t-shirt ou hoodie ?Les deux versions fonctionnent très bien. Le t-shirt donne un look plus léger et estival, tandis que le hoodie ajoute une vibe plus cozy et urbaine. Pourquoi choisir blanc ou gris sport ?Le blanc donne un style plus classique et lumineux. Le gris sport apporte un effet plus casual, rétro et streetwear. À quelle occasion peut-on le porter ?Au quotidien, pour un match, une sortie, un look rétro ou simplement pour afficher son attachement à Montréal avec style. Est-ce une bonne idée cadeau ?Oui, surtout pour un fan de baseball, de Montréal ou de mode vintage OseTee – T-shirt ou hoodie unisexe vintage Montréal 1982Une pièce streetwear rétro inspirée du baseball montréalais et du style sportswear des années 80. Disponible en blanc ou gris sport, dans une vibe locale et authentique.
-  Updated: 2026-04-10T00:17:26Z
+  Updated: 2026-04-20T21:12:08Z
   Vendor: OseTee
   Product Type: T-Shirt
   Availability: Available
@@ -23995,7 +23995,7 @@
     Availability: Available
     Price: 59,99 $ CAD
 - [OseTee – Hoodie ou T-shirt Montréal Expos Vintage | Unisexe Blanc/Gris Sport](https://osetee.ca/products/montreal-expos-baseball-t-shirt): Revive l’âge d’or du baseball montréalais avec ce hoodie ou t-shirt OseTee inspiré des Montréal Expos vintage. Une pièce streetwear qui mélange nostalgie sportive, style urbain et fierté montréalaise – parfaite pour les fans qui veulent porter un morceau d’histoire avec attitude. Disponible en blanc classique ou gris sport, en t-shirt léger ou hoodie cozy, c’est l’essentiel pour afficher ton amour des Expos sans compromis. Pourquoi ce modèle déchire Ce design capture parfaitement l’esprit des années 80 : logos Expos iconiques, vibe rétro authentique et coupe unisexe moderne. C’est le genre de pièce qui lance les conversations au bar, au gym ou en ville. Blanc = look lumineux, propre, estival.Gris sport = vibe streetwear, polyvalente, facile à matcher. T-shirt pour l’été, hoodie pour layering toute l’année. Une seule pièce, mille possibilités. L’ADN OseTee Expos Chez OseTee, on redonne vie aux souvenirs montréalais avec un twist streetwear actuel. Ce modèle célèbre : Les Montréal Expos, fierté baseball du Québec Le style vintage sportswear qui revient en force Une esthétique unisexe accessible à tous La culture sportive montréalaise, toujours vivante Parfait pour les fans hardcore, les nostalgiques ou ceux qui veulent un vêtement avec du sens. Style et occasions T-shirt : look casual quotidien, gym, sorties légèresHoodie : layering automne, chill à la maison, soirées sport S’agence avec : jeans, joggers, shorts, sneakers, casquette Expos.Fonctionne solo ou sous manteau/veston pour l’entre-saison. Détails produit Unisexe (homme/femme) T-shirt ou hoodie Couleurs : blanc, gris sport Style vintage Montréal Expos Coupe droite/comfort Confort quotidien Design signature OseTee Streetwear sportswear québécois FAQ Expos OseTee Blanc ou gris sport ?Blanc = classique, lumineux. Gris = streetwear, polyvalent. T-shirt ou hoodie ?T-shirt pour l’été/quotidien. Hoodie pour automne/layering. Taille unisexe ?Oui. Prends ta taille habituelle ou +1 pour oversized. À quelle occasion ?Matchs (TV/stade), sorties, gym, casual quotidien, cadeaux fans Expos. Bonne idée cadeau ?Parfait pour fans Expos, nostalgiques Montréal, amateurs vintage sport.
-  Updated: 2026-04-10T00:21:23Z
+  Updated: 2026-04-20T21:12:08Z
   Vendor: OseTee
   Product Type: T-Shirt
   Availability: Available
@@ -24177,7 +24177,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/39055957_3_17.jpg?v=1775692308
     Price: 30,99 $ CAD
 - [Hoodie Identité Québécoise — « C'est pas juste une légende, c'est une identité »](https://osetee.ca/products/hoodie-identite-quebecoise-cest-pas-juste-une-legende-cest-une-identite): Porter ce hoodie, c'est afficher ses couleurs. Celles d'une équipe, d'une ville, d'un peuple qui n'a jamais oublié. Parce qu'ici, le sport, c'est plus que du sport — c'est une identité. Il y a des logos qu'on reconnaît à l'autre bout de la rue. Des couleurs qui font monter quelque chose dans la poitrine. Des saisons qu'on n'oublie pas, même quand elles se sont terminées trop tôt. Ce hoodie, c'est un clin d'œil à ceux qui ont grandi avec cette fierté-là. À ceux qui connaissent l'histoire. À ceux pour qui ce symbole veut encore dire quelque chose aujourd'hui. C'est pas juste un chandail. C'est une mémoire qu'on porte sur le dos. ✦ Coupe unisexe décontractée ✦ Tissu épais et confortable, parfait pour les hivers québécois ✦ Impression de qualité, résistante aux lavages ✦ Disponible en plusieurs tailles (S à 3XL) ✦ Conçu et imprimé avec fierté pour la collection Identité québécoise
-  Updated: 2026-04-12T12:21:03Z
+  Updated: 2026-04-20T21:12:08Z
   Vendor: OseTee
   Product Type: 
   Availability: Available
@@ -24351,7 +24351,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-white-front-69da3ee67e1d8.jpg?v=1775911467
     Price: 73,00 $ CAD
 - [OseTee – T-shirt Unisexe Prend Pays | Collection Identité Québécoise](https://osetee.ca/products/osetee-t-shirt-unisexe-prend-pays-collection-identite-quebecoise): Prend Pays. Deux mots. Un message. Une attitude. Ce t-shirt OseTee de la collection Identité québécoise n’est pas seulement un vêtement : c’est une déclaration visuelle forte, un cri de ralliement pour celles et ceux qui portent leur appartenance avec fierté. Avec son design sombre, cinématographique et ultra symbolique, il incarne parfaitement le streetwear québécois de caractère. Pensé pour devenir viral, ce modèle frappe par son contraste entre la sobriété du noir, la puissance du visuel et la force du slogan. Il attire les regards, déclenche les conversations et donne une présence immédiate à ton look. Pourquoi ce t-shirt se démarque Le t-shirt Prend Pays a tout pour devenir une pièce culte : un message court, mémorable et puissant, une direction artistique cinématographique, une identité québécoise assumée, une esthétique sombre et premium, une coupe unisexe facile à porter, une forte valeur émotionnelle et culturelle. C’est le genre de t-shirt qu’on remarque tout de suite, mais qu’on continue à aimer longtemps. Il est assez fort pour faire parler de lui, et assez bien pensé pour rester portable au quotidien. L’esprit de la collection Cette création s’inscrit dans la vision OseTee : transformer des idées, des émotions et des racines en streetwear québécois moderne. La collection Identité québécoise célèbre le sentiment d’appartenance avec audace, finesse et authenticité. Le corbeau, le bleu perçant, la fleur de lys, la touche dramatique du visuel et le slogan Prend Pays créent une pièce qui dépasse le simple t-shirt. On parle ici d’une création qui a du poids, du sens et une vraie signature visuelle. Un t-shirt fait pour être porté Ce modèle est parfait pour : un look streetwear noir et épuré, une sortie en ville, un festival, un événement ou une rencontre entre amis, un outfit qui affirme une identité, un cadeau mémorable pour quelqu’un de fier d’être québécois. Il se marie facilement avec : un jeans noir ou délavé, un jogger streetwear, une veste ouverte, des sneakers blanches ou noires, des accessoires minimalistes pour laisser le visuel parler. Détails du produit T-shirt unisexe. Collection Identité québécoise. Design exclusif OseTee. Couleur optimal Coupe polyvalente et confortable. Style streetwear / statement piece. Message fort : Prend Pays. Pensé pour le quotidien et les looks marquants.FAQ Ce t-shirt est-il unisexe ? Oui, il est conçu pour convenir à tout le monde avec une coupe polyvalente. Quelle est l’intention du design ? Le design veut exprimer la fierté, l’identité et la force du message québécois à travers une pièce moderne et marquante. Est-ce un bon produit pour les réseaux sociaux ? Oui, son visuel fort et son slogan court en font une pièce idéale pour les Reels, les photos UGC et les stories. À quelle collection appartient-il ? Il fait partie de la collection Identité québécoise de OseTee. À quelle occasion le porter ? Au quotidien, en sortie, en événement, ou chaque fois que tu veux afficher ton identité avec style.
-  Updated: 2026-04-13T09:01:18Z
+  Updated: 2026-04-20T21:12:09Z
   Vendor: OseTee
   Product Type: T-SHIRT
   Availability: Available
@@ -24509,7 +24509,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sapphire-right-69dc07fd44d36.jpg?v=1776028963
     Price: 29,50 $ CAD
 - [OseTee – Sweat Unisexe Prend Pays | Collection Identité Québécoise](https://osetee.ca/products/osetee-sweat-unisexe-prend-pays-collection-identite-quebecoise): même produit. mais Sweat Unisexe à Col Rond plusieurs couleurs disponible OseTee – Sweat Unisexe Prend Pays | Collection Identité Québécoise Prend Pays. Même message. Même attitude. Plus de chaleur. Ce sweat à col rond unisexe OseTee de la collection Identité québécoise reprend le design culte du t-shirt viral et l'élève en pièce premium. Plus épais, plus confortable, disponible en plusieurs couleurs, il garde la même puissance visuelle tout en ajoutant une dimension cozy parfaite pour l'automne, l'hiver ou les soirées fraîches. Pourquoi choisir le sweat Prend Pays Ce sweat transforme ton statement en essentiel toute l'année : Même design culte : corbeau perçant, fleur de lys, slogan impactant Plusieurs couleurs disponibles : noir signature + options modernes (gris, navy, bordeaux, olive...) Col rond premium : style clean, pas de capuche encombrante Tissu épais et doux : confort supérieur au t-shirt Coupe unisexe polyvalente : femme, homme, fit ajusté ou relax Pièce statement hiver : layering parfait sous manteau C'est LE sweat qui fait la transition parfaite entre ton t-shirt viral estival et tes looks d'hiver puissants. L'identité OseTee en sweat Le passage t-shirt → sweat ne change rien à l'essence : Noir : signature dramatique, cinématographique Gris : streetwear moderne, polyvalent Navy : classique intemporel Bordeaux : élégance audacieuse Olive : vibe militaire, urbaine Chaque couleur garde l'impact visuel total du design original tout en s'adaptant à tes moods et tes tenues. Parfait pour tous les climats québécois Ce sweat excelle dans : L'automne : porté seul avec jeans/cargo L'hiver : layering sous manteau ou parka Le printemps : transition confortable Les soirées fraîches : sortie, bar, événement S'agence avec : jeans noirs, cargos, pantalons techniques, sneakers montantes, casquettes, chaînes fines. Détails du produit Sweat à col rond unisexe Collection Identité québécoise Design exclusif OseTee "Prend Pays" Plusieurs couleurs disponibles Tissu épais et doux (280-300 g/m²) Coupe droite confortable Coutures renforcées Confort premium quotidien FAQ Sweat Prend Pays Plusieurs couleurs disponibles ? Oui ! Noir signature + gris, navy, bordeaux, olive (selon stocks). Col rond ou capuche ? Col rond pour un look plus épuré et polyvalent. Taille unisexe ? Oui. Ta taille habituelle ou +1 pour oversized streetwear. Plus confortable que le t-shirt ? Absolument. Tissu plus épais, plus chaud, coupe légèrement plus ample. Bonne idée cadeau ? Parfait pour fans identité québécoise, streetwear, pièces statement. Entretien ? Lavage froid, retournée à l'envers. Pas de sècheuse chaude.
-  Updated: 2026-04-13T10:04:58Z
+  Updated: 2026-04-20T21:12:09Z
   Vendor: OseTee
   Product Type: T-SHIRT
   Availability: Available
@@ -24709,7 +24709,7 @@
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-heather-deep-royal-front-69dc16ef4a923.jpg?v=1776037228
     Price: 54,50 $ CAD
 - [OseTee – Hoodie Unisexe Prend Pays | Identité Québécoise](https://osetee.ca/products/osetee-hoodie-unisexe-prend-pays-identite-quebecoise): Qui porte OseTee **Prend Pays.** Même message. Plus chaud. Plus puissant. Le hoodie unisexe **Prend Pays** d’OseTee est la version parfaite pour porter ton identité québécoise avec encore plus de présence. Pensé pour le quotidien, les soirées fraîches et les looks streetwear assumés, ce chandail à capuche transforme un message fort en pièce essentielle. Son visuel sombre, cinématographique et chargé de symboles en fait une création qui se remarque immédiatement. ## Pourquoi le noir est le meilleur choix Le **noir** est la couleur optimale pour ce hoodie, parce qu’il garde toute la force du design sans distraire l’œil. Il donne un look plus premium, plus intemporel et plus facile à agencer avec un jeans, un jogger ou un manteau d’hiver. C’est aussi la couleur qui fait ressortir le mieux le contraste du visuel et du message “Prend Pays”, ce qui augmente l’impact visuel sur les réseaux sociaux et dans les photos produit. [in Si tu veux une pièce forte, virale et versatile, le hoodie est clairement le meilleur move. ## Une pièce qui parle fort Ce hoodie n’est pas seulement confortable, il raconte quelque chose. Il représente une fierté, une attitude et une appartenance qui se portent sans détour. Dans l’esprit de la collection **Identité Québécoise**, il s’adresse à celles et ceux qui veulent porter un vêtement avec du sens, pas juste un logo. [osetee](https://osetee.ca/collections/identite-quebecoise) Le résultat, c’est un hoodie qui a du poids, du style et une vraie personnalité. ## Style et polyvalence Le hoodie **Prend Pays** fonctionne autant en mode casual qu’en mode statement piece. Il s’agence bien avec : - un jeans noir ou délavé, - un jogger streetwear, - des sneakers blanches ou noires, - une casquette ou un bonnet, - un manteau oversize pour l’hiver. C’est le genre de pièce qu’on porte autant pour le confort que pour le message. Le hoodie prend naturellement sa place dans une garde-robe urbaine et identitaire. [osetee](https://osetee.ca/collections/identite-quebecoise) ## Détails du produit - Hoodie unisexe. - Collection Identité Québécoise. - Design exclusif OseTee. - Couleur optimale recommandée : noir. - Style streetwear / statement piece. - Capuche confortable. - Poche kangourou. - Coupe polyvalente. - Pensé pour le quotidien et les looks marquants. ## FAQ **Pourquoi choisir couleur sombre Parce qu’il met le design en valeur, donne un effet premium et reste la couleur la plus facile à porter au quotidien. **Ce hoodie est-il unisexe ?** Oui, il est conçu pour convenir autant aux hommes qu’aux femmes avec une coupe polyvalente. **À quelle saison le porter ?** Il est parfait pour l’automne, l’hiver et les soirées fraîches, mais aussi pour le layering toute l’année.
-  Updated: 2026-04-14T13:23:21Z
+  Updated: 2026-04-20T21:12:09Z
   Vendor: OseTee
   Product Type: T-SHIRT
   Availability: Available
@@ -24914,22 +24914,851 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-heather-sport-dark-navy-front-69dd96e1a72a4.jpg?v=1776129795
     Price: 64,50 $ CAD
-[List Continued](https://osetee.ca/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NTk1NTU1MjkxMjM5LCJsYXN0X3ZhbHVlIjoiNzU5NTU1NTI5MTIzOSJ9)
+- [OseTee – T-shirt unisexe Objectif 25 | Ça se prend](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend): Un t-shirt streetwear québécois inspiré des séries de hockey, avec un visuel explosif et un message fort. Pièce unisexe éclatante virale et sportive.
+  Updated: 2026-04-20T21:12:10Z
+  Vendor: OseTee
+  Product Type: T-SHIRT
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-black-front-69e14d0443661.jpg?v=1776376361
+  - [Noir / S](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377059860583)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-black-front-69e14d0443661.jpg?v=1776376361
+    Price: 29,50 $ CAD
+  - [Noir / M](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377059893351)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-black-front-69e14d0443661.jpg?v=1776376361
+    Price: 29,50 $ CAD
+  - [Noir / L](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377059926119)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-black-front-69e14d0443661.jpg?v=1776376361
+    Price: 29,50 $ CAD
+  - [Noir / XL](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377059958887)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-black-front-69e14d0443661.jpg?v=1776376361
+    Price: 29,50 $ CAD
+  - [Noir / 2 XL](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377059991655)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-black-front-69e14d0443661.jpg?v=1776376361
+    Price: 29,50 $ CAD
+  - [Noir / 3XL](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060024423)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-black-front-69e14d0443661.jpg?v=1776376361
+    Price: 29,50 $ CAD
+  - [Bleu Marine / S](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060057191)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69e14d04437ee.jpg?v=1776373022
+    Price: 29,50 $ CAD
+  - [Bleu Marine / M](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060089959)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69e14d04437ee.jpg?v=1776373022
+    Price: 29,50 $ CAD
+  - [Bleu Marine / L](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060122727)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69e14d04437ee.jpg?v=1776373022
+    Price: 29,50 $ CAD
+  - [Bleu Marine / XL](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060155495)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69e14d04437ee.jpg?v=1776373022
+    Price: 29,50 $ CAD
+  - [Bleu Marine / 2 XL](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060188263)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69e14d04437ee.jpg?v=1776373022
+    Price: 29,50 $ CAD
+  - [Bleu Marine / 3XL](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060221031)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69e14d04437ee.jpg?v=1776373022
+    Price: 29,50 $ CAD
+  - [Rouge / S](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060253799)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-red-front-69e14d0443889.jpg?v=1776373022
+    Price: 29,50 $ CAD
+  - [Rouge / M](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060286567)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-red-front-69e14d0443889.jpg?v=1776373022
+    Price: 29,50 $ CAD
+  - [Rouge / L](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060319335)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-red-front-69e14d0443889.jpg?v=1776373022
+    Price: 29,50 $ CAD
+  - [Rouge / XL](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060352103)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-red-front-69e14d0443889.jpg?v=1776373022
+    Price: 29,50 $ CAD
+  - [Rouge / 2 XL](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060384871)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-red-front-69e14d0443889.jpg?v=1776373022
+    Price: 29,50 $ CAD
+  - [Rouge / 3XL](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060417639)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-red-front-69e14d0443889.jpg?v=1776373022
+    Price: 29,50 $ CAD
+  - [Rouge cardinal / S](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060450407)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-cardinal-front-69e14d044374c.jpg?v=1776373022
+    Price: 29,50 $ CAD
+  - [Rouge cardinal / M](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060483175)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-cardinal-front-69e14d044374c.jpg?v=1776373022
+    Price: 29,50 $ CAD
+  - [Rouge cardinal / L](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060515943)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-cardinal-front-69e14d044374c.jpg?v=1776373022
+    Price: 29,50 $ CAD
+  - [Rouge cardinal / XL](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060548711)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-cardinal-front-69e14d044374c.jpg?v=1776373022
+    Price: 29,50 $ CAD
+  - [Rouge cardinal / 2 XL](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060581479)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-cardinal-front-69e14d044374c.jpg?v=1776373022
+    Price: 29,50 $ CAD
+  - [Rouge cardinal / 3XL](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060614247)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-cardinal-front-69e14d044374c.jpg?v=1776373022
+    Price: 29,50 $ CAD
+  - [Bleu Roi / S](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060647015)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-royal-front-69e14d0443923.jpg?v=1776373022
+    Price: 29,50 $ CAD
+  - [Bleu Roi / M](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060679783)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-royal-front-69e14d0443923.jpg?v=1776373022
+    Price: 29,50 $ CAD
+  - [Bleu Roi / L](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060712551)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-royal-front-69e14d0443923.jpg?v=1776373022
+    Price: 29,50 $ CAD
+  - [Bleu Roi / XL](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060745319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-royal-front-69e14d0443923.jpg?v=1776373022
+    Price: 29,50 $ CAD
+  - [Bleu Roi / 2 XL](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060778087)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-royal-front-69e14d0443923.jpg?v=1776373022
+    Price: 29,50 $ CAD
+  - [Bleu Roi / 3XL](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060810855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-royal-front-69e14d0443923.jpg?v=1776373022
+    Price: 29,50 $ CAD
+  - [Rose / S](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060843623)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-azalea-front-69e14d044245a.jpg?v=1776373022
+    Price: 29,50 $ CAD
+  - [Rose / M](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060876391)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-azalea-front-69e14d044245a.jpg?v=1776373022
+    Price: 29,50 $ CAD
+  - [Rose / L](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060909159)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-azalea-front-69e14d044245a.jpg?v=1776373022
+    Price: 29,50 $ CAD
+  - [Rose / XL](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060941927)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-azalea-front-69e14d044245a.jpg?v=1776373022
+    Price: 29,50 $ CAD
+  - [Rose / 2 XL](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377060974695)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-azalea-front-69e14d044245a.jpg?v=1776373022
+    Price: 29,50 $ CAD
+  - [Rose / 3XL](https://osetee.ca/products/osetee-t-shirt-unisexe-objectif-25-ca-se-prend?variant=42377061007463)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-azalea-front-69e14d044245a.jpg?v=1776373022
+    Price: 29,50 $ CAD
+- [OseTee – Hoodie unisexe Objectif 25 | Ça se prend](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend): Un Hoodie streetwear québécois inspiré des séries de hockey, avec un visuel explosif et un message fort. Pièce unisexe éclatante , virale et sportive.
+  Updated: 2026-04-20T21:12:10Z
+  Vendor: OseTee
+  Product Type: T-SHIRT
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/4d0d2268-7858-4181-9b3f-ddf3a97beac8.png?v=1776376555
+  - [Noir / S](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377069920359)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-black-front-69e1510b2dec5.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Noir / M](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377069953127)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-black-front-69e1510b2dec5.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Noir / L](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377069985895)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-black-front-69e1510b2dec5.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Noir / XL](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070018663)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-black-front-69e1510b2dec5.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Noir / 2 XL](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070051431)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-black-front-69e1510b2dec5.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Noir / 3XL](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070084199)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-black-front-69e1510b2dec5.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Noir / 4XL](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070116967)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-black-front-69e1510b2dec5.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Noir / 5XL](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070149735)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-black-front-69e1510b2dec5.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Bleu Marine / S](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070182503)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-navy-front-69e1510b2ea7d.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Bleu Marine / M](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070215271)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-navy-front-69e1510b2ea7d.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Bleu Marine / L](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070248039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-navy-front-69e1510b2ea7d.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Bleu Marine / XL](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070280807)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-navy-front-69e1510b2ea7d.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Bleu Marine / 2 XL](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070313575)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-navy-front-69e1510b2ea7d.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Bleu Marine / 3XL](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070346343)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-navy-front-69e1510b2ea7d.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Bleu Marine / 4XL](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070379111)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-navy-front-69e1510b2ea7d.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Bleu Marine / 5XL](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070411879)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-navy-front-69e1510b2ea7d.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Rouge / S](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070444647)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-red-front-69e1510b2eb95.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Rouge / M](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070477415)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-red-front-69e1510b2eb95.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Rouge / L](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070510183)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-red-front-69e1510b2eb95.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Rouge / XL](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070542951)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-red-front-69e1510b2eb95.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Rouge / 2 XL](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070575719)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-red-front-69e1510b2eb95.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Rouge / 3XL](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070608487)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-red-front-69e1510b2eb95.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Rouge / 4XL](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070641255)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-red-front-69e1510b2eb95.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Rouge / 5XL](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070674023)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-red-front-69e1510b2eb95.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Bleu Roi / S](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070706791)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-royal-front-69e1510b2eca8.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Bleu Roi / M](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070739559)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-royal-front-69e1510b2eca8.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Bleu Roi / L](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070772327)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-royal-front-69e1510b2eca8.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Bleu Roi / XL](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070805095)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-royal-front-69e1510b2eca8.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Bleu Roi / 2 XL](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070837863)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-royal-front-69e1510b2eca8.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Bleu Roi / 3XL](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070870631)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-royal-front-69e1510b2eca8.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Bleu / S](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070903399)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-carolina-blue-front-69e1510b2e890.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Bleu / M](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070936167)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-carolina-blue-front-69e1510b2e890.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Bleu / L](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377070968935)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-carolina-blue-front-69e1510b2e890.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Bleu / XL](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377071001703)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-carolina-blue-front-69e1510b2e890.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Bleu / 2 XL](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377071034471)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-carolina-blue-front-69e1510b2e890.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Bleu / 3XL](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377071067239)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-carolina-blue-front-69e1510b2e890.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Bleu / 4XL](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377071100007)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-carolina-blue-front-69e1510b2e890.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Bleu / 5XL](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377071132775)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-carolina-blue-front-69e1510b2e890.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Rose Clair / S](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377071165543)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-light-pink-front-69e1510b2e970.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Rose Clair / M](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377071198311)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-light-pink-front-69e1510b2e970.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Rose Clair / L](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377071231079)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-light-pink-front-69e1510b2e970.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Rose Clair / XL](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377071263847)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-light-pink-front-69e1510b2e970.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Rose Clair / 2 XL](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377071296615)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-light-pink-front-69e1510b2e970.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Rose Clair / 3XL](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377071329383)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-light-pink-front-69e1510b2e970.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Rose Clair / 4XL](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377071362151)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-light-pink-front-69e1510b2e970.jpg?v=1776376554
+    Price: 69,50 $ CAD
+  - [Rose Clair / 5XL](https://osetee.ca/products/osetee-hoodie-unisexe-objectif-25-ca-se-prend?variant=42377071394919)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-heavy-blend-hoodie-light-pink-front-69e1510b2e970.jpg?v=1776376554
+    Price: 69,50 $ CAD
+- [OseTee –Sweat unisexe Objectif 25 | Ça se prend](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend): OseTee – T-shirt unisexe Objectif 25 | Ça se prend Un t-shirt streetwear québécois inspiré des séries de hockey, avec un visuel explosif et un message fort. Pièce unisexe noire, virale et sportive.
+  Updated: 2026-04-20T21:12:10Z
+  Vendor: OseTee
+  Product Type: T-SHIRT
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-red-front-69e1552d4f393.jpg?v=1776375378
+  - [Noir / S](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377113239655)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-black-front-69e1552d4de50.jpg?v=1776375641
+    Price: 31,00 $ CAD
+  - [Noir / M](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377113272423)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-black-front-69e1552d4de50.jpg?v=1776375641
+    Price: 31,00 $ CAD
+  - [Noir / L](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377113305191)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-black-front-69e1552d4de50.jpg?v=1776375641
+    Price: 31,00 $ CAD
+  - [Noir / XL](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377113337959)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-black-front-69e1552d4de50.jpg?v=1776375641
+    Price: 31,00 $ CAD
+  - [Noir / 2 XL](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377113370727)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-black-front-69e1552d4de50.jpg?v=1776375641
+    Price: 34,50 $ CAD
+  - [Noir / 3XL](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377113403495)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-black-front-69e1552d4de50.jpg?v=1776375641
+    Price: 38,00 $ CAD
+  - [Bleu Marine / S](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377113436263)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-navy-front-69e1552d4f308.jpg?v=1776375105
+    Price: 31,00 $ CAD
+  - [Bleu Marine / M](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377113469031)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-navy-front-69e1552d4f308.jpg?v=1776375105
+    Price: 31,00 $ CAD
+  - [Bleu Marine / L](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377113501799)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-navy-front-69e1552d4f308.jpg?v=1776375105
+    Price: 31,00 $ CAD
+  - [Bleu Marine / XL](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377113534567)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-navy-front-69e1552d4f308.jpg?v=1776375105
+    Price: 31,00 $ CAD
+  - [Bleu Marine / 2 XL](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377113567335)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-navy-front-69e1552d4f308.jpg?v=1776375105
+    Price: 34,50 $ CAD
+  - [Bleu Marine / 3XL](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377113600103)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-navy-front-69e1552d4f308.jpg?v=1776375105
+    Price: 38,00 $ CAD
+  - [Rouge / S](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377113632871)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-red-front-69e1552d4f393.jpg?v=1776375378
+    Price: 31,00 $ CAD
+  - [Rouge / M](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377113665639)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-red-front-69e1552d4f393.jpg?v=1776375378
+    Price: 31,00 $ CAD
+  - [Rouge / L](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377113698407)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-red-front-69e1552d4f393.jpg?v=1776375378
+    Price: 31,00 $ CAD
+  - [Rouge / XL](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377113731175)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-red-front-69e1552d4f393.jpg?v=1776375378
+    Price: 31,00 $ CAD
+  - [Rouge / 2 XL](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377113763943)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-red-front-69e1552d4f393.jpg?v=1776375378
+    Price: 34,50 $ CAD
+  - [Rouge / 3XL](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377113796711)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-red-front-69e1552d4f393.jpg?v=1776375378
+    Price: 38,00 $ CAD
+  - [Bleu Roi / S](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377113829479)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-royal-front-69e1552d4f417.jpg?v=1776375105
+    Price: 31,00 $ CAD
+  - [Bleu Roi / M](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377113862247)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-royal-front-69e1552d4f417.jpg?v=1776375105
+    Price: 31,00 $ CAD
+  - [Bleu Roi / L](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377113895015)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-royal-front-69e1552d4f417.jpg?v=1776375105
+    Price: 31,00 $ CAD
+  - [Bleu Roi / XL](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377113927783)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-royal-front-69e1552d4f417.jpg?v=1776375105
+    Price: 31,00 $ CAD
+  - [Bleu Roi / 2 XL](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377113960551)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-royal-front-69e1552d4f417.jpg?v=1776375105
+    Price: 34,50 $ CAD
+  - [Bleu Roi / 3XL](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377113993319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-royal-front-69e1552d4f417.jpg?v=1776375105
+    Price: 38,00 $ CAD
+  - [Rose Clair / S](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377114026087)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-light-pink-front-69e1552d4f21e.jpg?v=1776375512
+    Price: 31,00 $ CAD
+  - [Rose Clair / M](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377114058855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-light-pink-front-69e1552d4f21e.jpg?v=1776375512
+    Price: 31,00 $ CAD
+  - [Rose Clair / L](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377114091623)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-light-pink-front-69e1552d4f21e.jpg?v=1776375512
+    Price: 31,00 $ CAD
+  - [Rose Clair / XL](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377114124391)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-light-pink-front-69e1552d4f21e.jpg?v=1776375512
+    Price: 31,00 $ CAD
+  - [Rose Clair / 2 XL](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377114157159)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-light-pink-front-69e1552d4f21e.jpg?v=1776375512
+    Price: 34,50 $ CAD
+  - [Rose Clair / 3XL](https://osetee.ca/products/osetee-sweat-unisexe-objectif-25-ca-se-prend?variant=42377114189927)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-crew-neck-sweatshirt-light-pink-front-69e1552d4f21e.jpg?v=1776375512
+    Price: 38,00 $ CAD
+- [À la Conquête d'une 25ième Coupe — T-Shirt Classique Unisexe | Édition Limitée Séries](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series): DESCRIPTION PRODUIT : 🏒 EXCLUSIVITÉ OSETEE — QUANTITÉ LIMITÉE Pour tous les vrais croyants. Ce t-shirt collector a été créé pour célébrer la chasse aux séries éliminatoires et le rêve d'une 25ième Coupe Stanley. Design exclusif OseTee, imprimé sur un coton premium unisexe — une pièce qu'on ne retrouvera plus une fois les stocks épuisés. Ce n'est pas juste un t-shirt. C'est un moment. 🎨 COULEURS DISPONIBLES Noir Rouge Sport Gris bleu nuit Naturel 📏 TAILLES · S · M · L · XL · 2XL · 3XL Coupe unisexe régulière ⚜️ DISPONIBLE DANS 2 COLLECTIONS EXCLUSIVES Collection Humeur — Pour chaque moment de la saison Collection Identité — Porter ses couleurs avec fierté 🔥 ÉDITION SÉRIES ÉLIMINATOIRES — TEMPS LIMITÉ Cette pièce ne sera pas réimprimée. Disponible uniquement pendant la course aux séries. Une fois vendu, c'est terminé — pour toujours. Ne manque pas ta chance de posséder cette exclusivité OseTee. ✅ POURQUOI OSETEE ? Design 100% québécois Impression premium haute qualité Coton doux et durable Livraison rapide au Canada Exclusivité disponible sur osetee.ca seulement
+  Updated: 2026-04-20T21:12:10Z
+  Vendor: OseTee
+  Product Type: T-SHIRT
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69e575f4c04ad.jpg?v=1776647190
+  - [Noir / S](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545356636263)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-black-front-69e575f4bf234.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Noir / M](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545356669031)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-black-front-69e575f4bf234.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Noir / L](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545356701799)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-black-front-69e575f4bf234.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Noir / XL](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545356734567)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-black-front-69e575f4bf234.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Noir / 2 XL](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545356767335)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-black-front-69e575f4bf234.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Noir / 3XL](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545356800103)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-black-front-69e575f4bf234.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Noir / 4XL](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545356832871)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-black-front-69e575f4bf234.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Noir / 5XL](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545356865639)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-black-front-69e575f4bf234.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Bleu Marine / S](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545356898407)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69e575f4c04ad.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Bleu Marine / M](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545356931175)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69e575f4c04ad.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Bleu Marine / L](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545356963943)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69e575f4c04ad.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Bleu Marine / XL](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545356996711)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69e575f4c04ad.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Bleu Marine / 2 XL](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545357029479)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69e575f4c04ad.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Bleu Marine / 3XL](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545357062247)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69e575f4c04ad.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Bleu Marine / 4XL](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545357095015)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69e575f4c04ad.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Bleu Marine / 5XL](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545357127783)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69e575f4c04ad.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Rouge / S](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545357160551)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-red-front-69e575f4c054d.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Rouge / M](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545357193319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-red-front-69e575f4c054d.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Rouge / L](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545357226087)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-red-front-69e575f4c054d.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Rouge / XL](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545357258855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-red-front-69e575f4c054d.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Rouge / 2 XL](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545357291623)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-red-front-69e575f4c054d.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Rouge / 3XL](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545357324391)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-red-front-69e575f4c054d.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Rouge / 4XL](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545357357159)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-red-front-69e575f4c054d.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Rouge / 5XL](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545357389927)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-red-front-69e575f4c054d.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Gris Sport / S](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545357422695)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sport-grey-front-69e575f4c05ea.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Gris Sport / M](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545357455463)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sport-grey-front-69e575f4c05ea.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Gris Sport / L](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545357488231)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sport-grey-front-69e575f4c05ea.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Gris Sport / XL](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545357520999)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sport-grey-front-69e575f4c05ea.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Gris Sport / 2 XL](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545357553767)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sport-grey-front-69e575f4c05ea.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Gris Sport / 3XL](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545357586535)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sport-grey-front-69e575f4c05ea.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Gris Sport / 4XL](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545357619303)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sport-grey-front-69e575f4c05ea.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Gris Sport / 5XL](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545357652071)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sport-grey-front-69e575f4c05ea.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Beige clair / S](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545357684839)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-natural-front-69e575f4c03c7.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Beige clair / M](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545357717607)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-natural-front-69e575f4c03c7.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Beige clair / L](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545357750375)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-natural-front-69e575f4c03c7.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Beige clair / XL](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545357783143)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-natural-front-69e575f4c03c7.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Beige clair / 2 XL](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545357815911)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-natural-front-69e575f4c03c7.jpg?v=1776647190
+    Price: 27,50 $ CAD
+  - [Beige clair / 3XL](https://osetee.ca/products/a-la-conquete-dune-25ieme-coupe-t-shirt-classique-unisexe-edition-limitee-series?variant=42545357848679)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-natural-front-69e575f4c03c7.jpg?v=1776647190
+    Price: 27,50 $ CAD
+- [T-shirt "Un Nouveau Jour Va Se Lever" — OseTee](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee): Quand la nuit touche à sa fin, quelque chose se réveille. "Un Nouveau Jour Va Se Lever" est plus qu'un design — c'est une promesse. Celle que peu importe ce que tu traverses, la lumière revient toujours. La chouette qui veille, les papillons en transformation, le soleil qui perce les montagnes : chaque élément raconte ce passage entre l'obscurité et le renouveau. Un message porté pour ceux qui avancent. Ceux qui lâchent, qui renaissent, qui continuent. — Coupe unisexe, du S au 3XL — Matière : 100% coton bio ringspun, 220g/m² — Sérigraphie haute définition multi-couches — Confort premium, forme qui ne rétrécit pas — Design exclusif OseTee, collection Humeur et Identité
+  Updated: 2026-04-21T07:17:44Z
+  Vendor: OseTee
+  Product Type: T-SHIRT
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/75d5e21d-ed53-43d6-9d85-7edf8d48549f.jpg?v=1776714223
+  - [Noir / S](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630444810343)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-black-front-69e67bb870f68.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Noir / M](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630444843111)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-black-front-69e67bb870f68.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Noir / L](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630444875879)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-black-front-69e67bb870f68.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Noir / XL](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630444908647)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-black-front-69e67bb870f68.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Noir / 2 XL](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630444941415)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-black-front-69e67bb870f68.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Noir / 3XL](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630444974183)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-black-front-69e67bb870f68.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Noir / 4XL](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445006951)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-black-front-69e67bb870f68.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Noir / 5XL](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445039719)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-black-front-69e67bb870f68.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Bleu Marine / S](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445072487)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69e67bb872274.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Bleu Marine / M](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445105255)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69e67bb872274.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Bleu Marine / L](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445138023)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69e67bb872274.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Bleu Marine / XL](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445170791)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69e67bb872274.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Bleu Marine / 2 XL](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445203559)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69e67bb872274.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Bleu Marine / 3XL](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445236327)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69e67bb872274.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Bleu Marine / 4XL](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445269095)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69e67bb872274.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Bleu Marine / 5XL](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445301863)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-navy-front-69e67bb872274.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Chocolat Noir / S](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445334631)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-dark-chocolate-front-69e67bb872114.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Chocolat Noir / M](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445367399)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-dark-chocolate-front-69e67bb872114.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Chocolat Noir / L](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445400167)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-dark-chocolate-front-69e67bb872114.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Chocolat Noir / XL](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445432935)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-dark-chocolate-front-69e67bb872114.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Chocolat Noir / 2 XL](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445465703)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-dark-chocolate-front-69e67bb872114.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Chocolat Noir / 3XL](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445498471)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-dark-chocolate-front-69e67bb872114.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Gris Foncé Chiné / S](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445531239)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-dark-heather-front-69e67bb8721d7.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Gris Foncé Chiné / M](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445564007)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-dark-heather-front-69e67bb8721d7.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Gris Foncé Chiné / L](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445596775)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-dark-heather-front-69e67bb8721d7.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Gris Foncé Chiné / XL](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445629543)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-dark-heather-front-69e67bb8721d7.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Gris Foncé Chiné / 2 XL](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445662311)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-dark-heather-front-69e67bb8721d7.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Gris Foncé Chiné / 3XL](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445695079)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-dark-heather-front-69e67bb8721d7.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Saphir / S](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445727847)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sapphire-front-69e67bb8723b0.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Saphir / M](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445760615)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sapphire-front-69e67bb8723b0.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Saphir / L](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445793383)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sapphire-front-69e67bb8723b0.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Saphir / XL](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445826151)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sapphire-front-69e67bb8723b0.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Saphir / 2 XL](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445858919)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sapphire-front-69e67bb8723b0.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Saphir / 3XL](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445891687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sapphire-front-69e67bb8723b0.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Saphir / 4XL](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445924455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sapphire-front-69e67bb8723b0.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Saphir / 5XL](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445957223)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sapphire-front-69e67bb8723b0.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Graphite Heather / S](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630445989991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-graphite-heather-front-69e67bb872448.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Graphite Heather / M](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630446022759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-graphite-heather-front-69e67bb872448.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Graphite Heather / L](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630446055527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-graphite-heather-front-69e67bb872448.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Graphite Heather / XL](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630446088295)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-graphite-heather-front-69e67bb872448.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Graphite Heather / 2 XL](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630446121063)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-graphite-heather-front-69e67bb872448.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Graphite Heather / 3XL](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630446153831)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-graphite-heather-front-69e67bb872448.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Graphite Heather / 4XL](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630446186599)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-graphite-heather-front-69e67bb872448.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Graphite Heather / 5XL](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630446219367)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-graphite-heather-front-69e67bb872448.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Gris Sport / S](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630446252135)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sport-grey-front-69e67bb87230d.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Gris Sport / M](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630446284903)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sport-grey-front-69e67bb87230d.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Gris Sport / L](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630446317671)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sport-grey-front-69e67bb87230d.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Gris Sport / XL](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630446350439)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sport-grey-front-69e67bb87230d.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Gris Sport / 2 XL](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630446383207)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sport-grey-front-69e67bb87230d.jpg?v=1776714223
+    Price: 28,50 $ CAD
+  - [Gris Sport / 3XL](https://osetee.ca/products/t-shirt-un-nouveau-jour-va-se-lever-osetee?variant=42630446415975)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0647/6578/8263/files/unisex-classic-tee-sport-grey-front-69e67bb87230d.jpg?v=1776714223
+    Price: 28,50 $ CAD
 
 ## Collections
 
 - [Collection Métiers – OseTee](https://osetee.ca/collections/collection-metiers-osetee): Collection Métiers – OseTee Chaque métier mérite le respect.Chaque savoir-faire mérite d’être porté avec fierté. La collection Métiers OseTee rend hommage à celles et ceux qui bâtissent, réparent, créent et tiennent debout le monde réel. Pas de faux prestige. Pas de poudre aux yeux. Juste la vérité du travail bien fait. Ces t-shirts et hoodies sont conçus pour représenter une identité, pas seulement un emploi.Un métier, ce n’est pas ce que tu fais.C’est qui tu es. Pourquoi tu vas l’aimer Design fort, clair et assumé Message identitaire propre à chaque métier Confort durable pour le quotidien Style streetwear qui se porte au travail comme à l’extérieur Détails du produit Disponible en t-shirt homme, t-shirt femme et hoodie Coupe confortable, pensée pour bouger Tissu doux et résistant Impression de qualité, durable lavage après lavage Création inspirée et pensée au Québec Pour qui ? Pour celles et ceux qui : travaillent avec leurs mains ou leur tête n’ont rien à prouver avancent droits et savent que la vraie valeur ne fait pas de bruit Porter un OseTee Métiers,c’est porter le respect de ton savoir-faire. — OseTee 🦉
-  Updated: 2026-04-08T18:47:42Z
+  Updated: 2026-04-20T20:55:51Z
   Total Products: 38
 - [collection Patriotes OseTee](https://osetee.ca/collections/collection-patriotes-osetee): La collection Patriotes OseTee est un hommage assumé à la force, à la résilience et à l’identité québécoise.Inspirée par l’histoire, portée par l’audace, elle s’adresse à celles et ceux qui avancent debout, sans s’excuser d’être qui ils sont. Chaque design incarne l’esprit libre, rebelle et solidaire des Patriotes d’hier et d’aujourd’hui.Des visuels puissants, un streetwear affirmé, des symboles forts — le harfang, la fleur de lys, le courage — pour une génération qui refuse l’effacement. Pensée pour hommes, femmes et hoodies, cette collection marie confort, caractère et message.À porter dans la rue, sur les Plaines, en ville ou ailleurs…Parce que l’identité ne se négocie pas. Elle se vit. OseTee Patriotes🦉 Culture forte.⚜️ Colonne droite.🔥 Debout, ici comme partout.
-  Updated: 2026-03-20T02:40:23Z
+  Updated: 2026-04-20T20:55:51Z
   Total Products: 8
 - [Identité Québécoise](https://osetee.ca/collections/identite-quebecoise): 🔥 Collection Identité Québécoise – OseTee La collection Identité Québécoise OseTee est plus qu’une ligne de vêtements.C’est une déclaration. Une voix claire dans un monde qui voudrait parfois nous faire taire. Inspirée par l’histoire, la culture et la résilience du Québec, cette collection célèbre une identité vivante, moderne et assumée. Ici, chaque design devient un symbole : celui de la fierté, de la liberté d’esprit et du refus de l’effacement. Pensée pour celles et ceux qui marchent debout, la collection rassemble des t-shirts et hoodies streetwear aux visuels puissants et aux messages clairs. On y retrouve des références fortes à la culture québécoise : • le harfang des neiges, symbole de vigilance et de liberté• la fleur de lys, emblème historique du Québec• des mots qui frappent juste• des designs qui affirment une identité Chaque pièce de la collection Identité Québécoise OseTee est conçue pour celles et ceux qui savent d’où ils viennent… et où ils s’en vont. Portée en ville, lors d’un événement ou au quotidien, cette collection n’est pas une tendance. C’est une attitude. OseTee — Indépendant d’esprit.
-  Updated: 2026-04-14T01:49:01Z
-  Total Products: 58
+  Updated: 2026-04-20T20:55:51Z
+  Total Products: 60
 - [Humeur](https://osetee.ca/collections/humeur): Collection Humeur | T-shirts humour streetwear – OseTee Parfois, un t-shirt suffit pour dire exactement ce que l’on pense. La Collection Humeur OseTee rassemble des créations audacieuses, humoristiques et assumées. Des phrases percutantes, des punchlines qui font sourire et des designs qui attirent immédiatement l’attention. Chaque t-shirt de cette collection est conçu pour ceux qui aiment afficher leur personnalité avec humour et attitude. Ici, on ne cherche pas à être discret : on cherche à faire réagir. Que ce soit une citation drôle, une phrase provocatrice ou un jeu de mots bien senti, la Collection Humeur transforme l’humour en véritable style streetwear. Un humour assumé Chez OseTee, nous croyons que l’humour est une forme de liberté.Nos t-shirts sont conçus pour ceux qui aiment : • les phrases qui frappent fort• les jeux de mots audacieux• l’humour parfois irrévérencieux• les designs qui font parler Chaque création est pensée pour être portée avec confiance et second degré. Un style streetwear authentique Les t-shirts de la Collection Humeur OseTee combinent : • typographies fortes• designs lisibles et percutants• esthétique minimaliste• identité visuelle OseTee avec le harfang aux yeux bleus Le résultat : un vêtement confortable qui devient rapidement un sujet de conversation. Pour ceux qui aiment l’humour Les t-shirts de la Collection Humeur sont parfaits pour : • soirées entre amis• festivals et événements• sorties en ville• streetwear casual• idées cadeaux originales Un bon t-shirt humour peut faire rire… mais aussi créer des discussions. L’esprit OseTee OseTee est une marque streetwear qui célèbre : • l’indépendance d’esprit• la créativité• l’humour assumé• l’attitude Chaque design est une façon d’exprimer sa personnalité. OseTee — indépendant d’esprit.
-  Updated: 2026-04-11T12:31:10Z
-  Total Products: 76
+  Updated: 2026-04-20T20:55:51Z
+  Total Products: 81
 
 ## Blogs
 
@@ -24952,6 +25781,18 @@
   - [Soutenir la souveraineté du Québec](https://osetee.ca/blogs/news/soutenir-la-souverainete-du-quebec)
     Updated: 2026-03-28T21:35:35Z
     Author: Renaud Bouchard
+  - [Les Racines du Streetwear Québécois: Une Exploration de l'Identité Québécoise](https://osetee.ca/blogs/news/les-racines-du-streetwear-quebecois-une-exploration-de-lidentite-quebecoise): Les Racines du Streetwear Québécois: Une Exploration de l'Identité Québécoise
+    Updated: 2026-04-15T22:31:23Z
+    Author: Equipe OseTee
+  - [Streetwear québécois : humour, culture et attitude — le t-shirt qui parle fort](https://osetee.ca/blogs/news/streetwear-quebecois-humour-culture-et-attitude-le-t-shirt-qui-parle-fort)
+    Updated: 2026-04-17T15:52:15Z
+    Author: Renaud Bouchard
+  - [Tendances du Streetwear Québécois: Identité et Fierté Décryptées](https://osetee.ca/blogs/news/tendances-du-streetwear-quebecois-identite-et-fierte-decryptees): Tendances du Streetwear Québécois: Identité et Fierté Décryptées
+    Updated: 2026-04-17T19:49:18Z
+    Author: Equipe OseTee
+  - [L'Art de Porter un Hoodie: Affirmez Votre Identité Québécoise](https://osetee.ca/blogs/news/lart-de-porter-un-hoodie-affirmez-votre-identite-quebecoise): L'Art de Porter un Hoodie: Affirmez Votre Identité Québécoise
+    Updated: 2026-04-20T19:01:52Z
+    Author: Equipe OseTee
 
 ## Store Pages
 
