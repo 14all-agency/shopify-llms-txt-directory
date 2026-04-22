@@ -9,7 +9,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2023-08-01T18:58:41Z
 - Contact Email: hola@hhedderich.com
-- Updated At: 2026-04-15T00:00:45.149Z
+- Updated At: 2026-04-22T00:00:47.944Z
 
 hhedderich Joyeria de Acero para mujer
 
@@ -44,7 +44,7 @@ hhedderich Joyeria de Acero para mujer
   Image: https://cdn.shopify.com/s/files/1/0769/1970/1832/files/BRAZALETE-ELSA-hhedderich.com-6223128.jpg?v=1730214539
   Price: 0,00 € EUR
 - [Pulsera groso plateado - Cordón de serpiente metalizado](https://hhedderich.com/products/copia-de-pulsera-groso): Pulsera groso plateado con cordón de serpiente metalizado, diseño único para lucir tu colgante favorito. Perfecta para combinar con cuenta Pandora. Para hombres y mujeres
-  Updated: 2026-04-13T20:22:17Z
+  Updated: 2026-04-21T12:29:20Z
   Vendor: hhedderich
   Product Type: joyeria
   Availability: Available
@@ -801,7 +801,7 @@ hhedderich Joyeria de Acero para mujer
   Image: https://cdn.shopify.com/s/files/1/0769/1970/1832/files/anillo-espiral-hilo-rosca-acero-oro_2.png?v=1758041721
   Price: 0,00 € EUR
 - [Anillo Espiral Hilo Rosca Acero | Ajustable y Resistente en Madrid.](https://hhedderich.com/products/anillo-espiral-hilo-rosca-acero): Descubre el Anillo Espiral Hilo Rosca de Acero, ajustable y resistente. Ideal para uso diario, combina estilo y durabilidad en cada detalle. Joyeria Acero España
-  Updated: 2026-04-12T16:43:28Z
+  Updated: 2026-04-21T12:36:27Z
   Vendor: hhedderich
   Product Type: joyeria
   Availability: Available
@@ -864,7 +864,7 @@ hhedderich Joyeria de Acero para mujer
   Image: https://cdn.shopify.com/s/files/1/0769/1970/1832/files/hhedderich-collar-largo-forma-y-puntas-gotas-acero-oro.png?v=1764536406
   Price: 0,00 € EUR
 - [Pulsera Link Love - Corazónes Cristal | Elegante y Versátil en Madrid](https://hhedderich.com/products/pulsera-link-love-colgantes-corazones-acero-cristal): Pulsera en acero 18K con colgantes de corazón y circonita. Diseño delicado y lleno de brillo, perfecta para expresar amor con estilo en cualquier ocasión España
-  Updated: 2026-04-12T16:43:27Z
+  Updated: 2026-04-21T12:24:26Z
   Vendor: hhedderich
   Product Type: joyeria
   Availability: Available
@@ -962,7 +962,7 @@ hhedderich Joyeria de Acero para mujer
   Image: https://cdn.shopify.com/s/files/1/0769/1970/1832/files/hhedderich-collar-tipo-tenis-mini-cristales-acero-oro-5.png?v=1764793419
   Price: 0,00 € EUR
 - [Collar Tipo Tenis Acero Plateado con Mini Circones | Elegancia Diario](https://hhedderich.com/products/collar-tipo-tenis-mini-cristales-acero-plateado): Descubre el collar tipo tenis en acero plateado con mini circones blanco. Minimalista, moderno y perfecto para el día. Sofisticación sutil para cualquier estilo
-  Updated: 2026-04-12T16:43:25Z
+  Updated: 2026-04-21T12:33:48Z
   Vendor: hhedderich
   Product Type: joyeria
   Availability: Available
