@@ -1,5 +1,7 @@
 # The Vitamin Store (https://www.thevitaminstore.ca)
 
+> Explore premium vitamins, supplements, and wellness products at The Vitamin Store. Support your unique health goals with trusted essentials. Shop Now!
+
 - Domain: https://www.thevitaminstore.ca
 - Locale: en
 - Currency: CAD
@@ -8,241 +10,10 @@
 - Contact Email: info@thevitaminstore.ca
 - Contact Phone: 2042283321
 - Address: 91 Royal Crest Drive Winnipeg Manitoba R3P 2R1
-- Updated At: 2026-04-14T13:05:31.247Z
+- Updated At: 2026-04-22T00:00:23.015Z
 
 ## Products
 
-- [NFH 5-HTP SAP 90 Capsules](https://www.thevitaminstore.ca/products/nfh-5-htp-sap-50mg): Mood imbalance is one of the most prevalent concerns affecting an individual’s quality of life. Serotonin or 5-hydroxytryptamine (5-HT) is a monoamine neurotransmitter involved in several crucial physiological processes, especially in modulating mood, cognition, sleep, appetite, learning, memory, and vasoconstriction. Serotonin is synthesized in the intestinal tract as well as in the central nervous system. Inadequate levels of serotonin in the brain have been associated with several disorders.5‑Hydroxytryptophan (5‑HTP) derived from the seed of Griffonia simplicifolia is a natural precursor needed for the synthesis of serotonin as well as for the neurohormone melatonin. Orally administered serotonin is not able to cross the blood-brain barrier and therefore cannot enter the CNS. 5‑HTP, however, is able to cross the blood-brain barrier, where it can then be utilized as a precursor to raise serotonin levels safely and effectively. 5-HTP SAP can: Help promote a healthy mood balance Help relieve symptoms of fibromyalgia Be used as a sleep aid Help alleviate the severity and duration of migraine headaches when taken as a prophylactic
-  Updated: 2026-04-08T13:29:16Z
-  Vendor: Nutritional Fundamentals for Health
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_abddb7bd-220c-453b-bbff-ff97e4c2f734.jpg?v=1731462744
-  - [100mg Capsule](https://www.thevitaminstore.ca/products/nfh-5-htp-sap-50mg?variant=48257630339367)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_fc54abca-a3a2-49bb-ad2e-25c950055f85.jpg?v=1731462769
-    Price: $36.70 CAD
-  - [50mg Capsule](https://www.thevitaminstore.ca/products/nfh-5-htp-sap-50mg?variant=48257630372135)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_abddb7bd-220c-453b-bbff-ff97e4c2f734.jpg?v=1731462744
-    Price: $24.80 CAD
-- [NFH Adrenal SAP 90 Capsules](https://www.thevitaminstore.ca/products/nfh-adrenal-sap-90-capsule): Stress is an unavoidable natural physical and mental reaction to life experiences to which an individual is constantly exposed in both short-term bursts and over extended periods of time. The body’s ability to withstand the damaging effects of stress is mediated primarily by the adrenal (aka suprarenal) glands: small, triangular glands located on top of the kidneys that secrete hormones involved in stress response (epinephrine, norepinephrine, and cortisol), blood-pressure regulation (aldosterone) and reproduction (estrogen and testosterone) controlling many body processes including digestion, the immune system, mood balance, and energy. Excessive and prolonged mental and physical stress can lead to adrenal insufficiency and associated symptomatic manifestations including fatigue, immunosuppression, and impaired blood-sugar and blood-pressure control. Adrenal SAP is a combination of vitamins, minerals, and adaptogenic herbs (Siberian ginseng, Ashwagandha, Astragalus, and Panax ginseng) that can: Help improve energy levels and foster mental and physical performance after periods of mental and physical exertion Help support and strengthen the body during times of stress and anxiety
-  Updated: 2026-04-08T13:29:16Z
-  Vendor: Nutritional Fundamentals for Health
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image.png?v=1731462842
-  - [Adrenal SAP](https://www.thevitaminstore.ca/products/nfh-adrenal-sap-90-capsule?variant=48257635582247)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image.png?v=1731462842
-    Price: $52.20 CAD
-  - [Adrenal SAP (Licorice-free)](https://www.thevitaminstore.ca/products/nfh-adrenal-sap-90-capsule?variant=48257635615015)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_1cbcedea-baa5-451a-a226-8fa12810c0f0.jpg?v=1731462857
-    Price: $52.20 CAD
-- [NFH Agaricus Bisporus SAP 90 Capsules](https://www.thevitaminstore.ca/products/nfh-agaricus-bisporus-sap-60g): Agaricus Bisporus SAP is a hot water–extract from white button mushroom (WBM; Agaricus bisporus), the most commonly consumed mushroom in North America and most Western countries. A. bisporus constitutes of a significant amount of vitamin D precursor ergosterol, dietary fibres, and antioxidants including vitamins C, B12, folates, and polyphenols. In addition, lectins from A. bisporus exert various beneficial effects including their role in improving the chemotherapeutic efficacy of cancer treatments, and their ability in inhibiting colon cancer–cell proliferation and enhancing the cellular antioxidant defense mechanisms. As a potent aromatase inhibitor and immunomodulatory agent in increasing natural killer-cell activity and promoting adaptive immune responses, A. bisporus extracts have gained recent attention for their potential value in breast and prostate cancer support. Also, studies support the application of A. bisporus extracts in type 2 diabetes, metabolic syndrome, cholesterol management, and cardiovascular disease (CVD). Earlystage preclinical evidence suggests the physiological benefits of A. bisporus in improving working memory and balance during aging. Agaricus Bisporus SAP can be used as an adjunctive support in the treatments of cancers, diabetes, and cholesterol management, as well as in CVD risk alleviation.
-  Updated: 2026-04-08T22:02:02Z
-  Vendor: Nutritional Fundamentals for Health
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_a2851e47-f8ba-4097-bb5e-1f537e5e1c4b.jpg?v=1758060228
-  Price: $45.60 CAD
-- [NFH Ahiflower® SAP 95ml](https://www.thevitaminstore.ca/products/nfh-ahiflower®-sap-95ml): The numerous health benefits of polyunsaturated fatty acids (PUFAs) have been extensively researched and established through clinical studies. PUFAs, especially EPA and DHA have beneficial effects for optimal cardiovascular, reproductive, and cognitive health due to their anti-inflammatory properties. Ahiflower® SAP provides a natural, non-GMO, vegan friendly, and sustainable source of PUFAs. Preclinical and clinical studies conducted with Ahiflower® demonstrated the ability of Ahiflower® to increase EPA and DHA accumulation in the tissues. Ahiflower® SAP is unique as it provides high amounts of stearidonic acid (SDA), which is a precursor of EPA and DHA, without the need for ALA and enzymes required to convert ALA to EPA. Also, Ahiflower® SAP is a rich source of γ-linolenic acid (GLA), known for the attenuation of inflammation.
-  Updated: 2026-04-08T13:29:17Z
-  Vendor: Nutritional Fundamentals for Health
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/AhiflowerSAPShopifyProductPhoto.jpg?v=1731462891
-  Price: $46.20 CAD
-- [NFH ALA R+ SAP 90 Capsules](https://www.thevitaminstore.ca/products/nfh-ala-r-sap-90-capsules): One of the leading causes of cellular breakdown is free radical damage and antioxidants are crucial to help protect against these deleterious effects. Alpha-Lipoic acid (ALA) R+ is the only antioxidant that is both fat- and water-soluble. This is important because ALA can access all parts of living cells, giving it the ability to trap free radicals and protect against oxidation. Also, ALA R+ is one of the few substances that can cross the blood-brain barrier. ALA constitutes an equal proportion of the R-(natural) and S-(unnatural) enantiomers that are mirror images of each other, also called a ‘racemic’ mixture. ALA R+ SAP provides the natural form consisting only of the R(+) isomer, which is much more bioavailable than the standard ALA. R-ALA and its reduced counterpart, dihydrolipoic acid (DHLA), are a potent antioxidant pair. Studies show that ALA has the ability to regenerate vitamin C, coenzyme Q10, glutathione, and vitamin E. Unlike ascorbic acid, DHLA can be recycled from ALA, and therefore is not destroyed by quenching free radicals. Based on one study, there is a suggestion that ALA may reduce the amount of biotin in the body and hence biotin is added to this formulation to potentially alleviate biotin deficiency. ALA R+ SAP can: Help improve antioxidants status in the body for optimal health. Help regenerate vitamin C, coenzyme Q10, glutathione, and vitamin E
-  Updated: 2026-04-08T13:29:17Z
-  Vendor: Nutritional Fundamentals for Health
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_4fa49431-1efd-4d8a-8729-2fe65a5f475c.png?v=1731462910
-  Price: $91.90 CAD
-- [NFH ALA SAP 60 Capsules](https://www.thevitaminstore.ca/products/nfh-ala-sap-60-capsules): One of the leading causes of cellular breakdown is free radical damage and antioxidants are crucial to help protect against these deleterious effects. Alpha-Lipoic acid (ALA) is an effective antioxidant that can access all parts of living cells, giving it the ability to trap free radicals and protect against oxidation. ALA constitutes an equal proportion of the R-(natural) and S-(unnatural) enantiomers that are mirror images of each other, also called a ‘racemic’ mixture. Studies show that ALA has the ability to regenerate vitamin C, coenzyme Q10, glutathione, and vitamin E. Unlike ascorbic acid, DHLA can be recycled from ALA, and therefore is not destroyed by quenching free radicals. Based on one study, there is a suggestion that ALA may reduce the amount of biotin in the body and hence biotin is added to this formulation to potentially alleviate biotin deficiency. ALA SAP can Help improve antioxidants status in the body for optimal health Help regenerate vitamin C, coenzyme Q10, glutathione, and vitamin E
-  Updated: 2026-04-08T13:29:17Z
-  Vendor: Nutritional Fundamentals for Health
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_06380fd7-8e12-4c9a-b677-06fbfdf3c8be.jpg?v=1731462934
-  Price: $50.50 CAD
-- [NFH Allicin SAP 90 Capsules](https://www.thevitaminstore.ca/products/allicin-sap-90-capsules): Garlic (Allium sativum) is traditionally used in herbal  to help relieve symptoms associated with upper respiratory tract infections and catarrhal conditions, improve blood lipid levels and promote cardiovascular health. Garlic is enriched with a plethora of volatile, water-soluble and oil-soluble organosulfur bioactive compounds. Allicin is considered one of the most potent broad-spectrum antimicrobial compounds in freshly cut or crushed garlic that possesses a variety of biological properties. Allicin SAP delivers garlic extract containing allicin stabilized through microencapsulation for optimal efficacy and health benefits. Allicin SAP can Help alleviate upper respiratory tract infections Help improve blood lipid levels and cardiovascular health
-  Updated: 2026-04-08T13:29:17Z
-  Vendor: Nutritional Fundamentals for Health
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_d174cffb-5e88-4c37-95c8-df40f047d5b3.jpg?v=1731462952
-  Price: $31.30 CAD
-- [NFH Anti-Ox SAP 120 Capsules](https://www.thevitaminstore.ca/products/nfh-anti-ox-sap-120-capsules): Oxidative stress has become a leading cause of several lifestyle diseases and is a side effect of many others. Cardiovascular diseases, ageing, neurodegenerative diseases and arthritic conditions are all associated with oxidative stress due to reactive oxygen species. Although endogenous antioxidant systems combat oxidative stress in the cells, supplementation with external natural antioxidants has shown significant health benefits. Several natural therapeutic agents have been tested for their safety and efficacy in the management of oxidative stress. These nutraceuticals have been used in traditional systems of  for several centuries and have recently been tested through clinical trials for their therapeutic efficacy, safety and optimum dose determination. Anti-Ox SAP is a synergistic formulation of key evidence-based botanicals that provides antioxidants for the maintenance of optimal health.
-  Updated: 2026-04-08T13:29:18Z
-  Vendor: Nutritional Fundamentals for Health
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_f51fd3c1-49cf-401d-83c4-50da0d78eaf6.jpg?v=1731462975
-  Price: $72.70 CAD
-- [NFH Arabino SAP 200g](https://www.thevitaminstore.ca/products/nfh-arabino-sap-200g): Larch arabinogalactan is a dietary fiber that consists of galactose and arabinose side-chains in a 6:1 ratio. It is a long, densely-branched polysaccharide containing no starch, with a galactan backbone. Larch arabinogalactan has been recognized by global health authorities including USFDA for its diverse benefits on human health. Studies show that larch arabinogalactan exhibits potent immunostimulatory effects, suggesting its valuable adjunctive use in immunomodulatory therapeutic protocols. In addition, larch arabinogalactan has been found to lower colonic pH, stimulating an environment favoring the development of beneficial bacteria, by increasing short-chain fatty acids including acetate, propionate, and most importantly, butyrate, which is a major fuel source for gastrointestinal mucosal cells and has anti-inflammatory effects. Arabino SAP provides high quality larch arabinogalactan dietary fiber, that is safe and effective for promoting gut motility and improving bowel function.
-  Updated: 2026-04-08T13:29:18Z
-  Vendor: Nutritional Fundamentals for Health
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/ArabinoSAPShopifyProductPhoto_ea0e2c72-6b59-46e8-a94e-c4ed1295dfa4.jpg?v=1731463064
-  Price: $73.50 CAD
-- [NFH Artemisinin SAP 60 Capsules](https://www.thevitaminstore.ca/products/nfh-artemisinin-sap-60-capsules): Commonly known as sweet wormwood, "Qinghao", Artemisia annua has been used as a basic ingredient in traditional Chinese  due to its many therapeutic properties. Artemisinin, the main component of A. Annua, has been widely used as an antimalarial . The Artemisia plant besides artemisinin, contains other bioactives such as sesquiterpene lactones, which could have antihelminthic properties. In addition to these properties, artemisinin has also been studied in a number of different disease models, such as those for rheumatoid arthritis, nephritic syndrome, pancreatitis and lupus nephritis, with promising results. Artemisinin SAP can be used as a digestive aid supported by its traditional use in phytotherapy as a bitter tonic.
-  Updated: 2026-04-08T13:29:18Z
-  Vendor: Nutritional Fundamentals for Health
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_ae2631a3-26bb-4e3d-9d3c-3cd6c1f225a5.jpg?v=1731463134
-  Price: $48.90 CAD
-- [NFH Ascorbates SAP 180 Capsules](https://www.thevitaminstore.ca/products/nfh-ascorbates-sap-180-capsules): Free radicals are molecules which are produced through normal metabolic processes in the body, or by environmental exposures such as smoke, pollution, and radiation. One of the leading causes of cellular breakdown is free radical damage causing oxidative stress and antioxidants are crucial to help protect against these deleterious effects. Vitamin C (ascorbic acid) is a powerful antioxidant and its supplementation is effective in maintaining immune function and healthy skin, in connective tissue formation, and in the development of bones, cartilage, teeth, and gums. In addition, citrus bioflavonoids derived from citrus fruits such as oranges, grapefruits, lemons, and limes are potent antioxidants and in combination with vitamin C can help mitigate oxidative stress. Ascorbates SAP is designed with a synergistic combination of different buffered mineral salts of ascorbic acid, zinc, selenium, and citrus bioflavonoids that can: Help improve antioxidants status in the body for optimal health. Support healthy immune function, improve skin health, and promote development of connective tissue, bones, cartilage, teeth, and gums.
-  Updated: 2026-04-08T13:29:18Z
-  Vendor: Nutritional Fundamentals for Health
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_d836aa1e-370c-400a-b416-051fb66e525a.jpg?v=1731463200
-  Price: $71.70 CAD
-- [NFH Ashwagandha SAP](https://www.thevitaminstore.ca/products/nfh-ashwagandha-sap-60-120-capsule): Commonly known as ashwagandha, ‘Indian ginseng’, or winter cherry, Withania somnifera has been used as a staple ingredient in Ayurvedic preparations due to its numerous therapeutic properties for over 3000 years. Ashwagandha is a unique herb with adaptogenic benefits, which helps modulate mood responses to external and internal stimuli. Ashwagandha is traditionally used in Ayurveda for memory enhancement, to balance aggravated Vata (nervine tonic, sedative), as a sleep aid, as Rasayana (rejuvenative tonic), and to relieve general debility, especially during convalescence or old age. Ashwagandha SAP can: Help increase resistance to stress/anxiety in individuals with a history of chronic stress, thereby improving their overall quality of life. Improve  function in women. Help support testosterone production in men. Support athletic activities as a workout/ exercise supplement.
-  Updated: 2026-04-08T13:29:18Z
-  Vendor: Nutritional Fundamentals for Health
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_9abef46c-9435-4a19-b94c-e2082fc7db58.jpg?v=1731463233
-  - [120 Capsule](https://www.thevitaminstore.ca/products/nfh-ashwagandha-sap-60-120-capsule?variant=48230234587431)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_9abef46c-9435-4a19-b94c-e2082fc7db58.jpg?v=1731463233
-    Price: $76.10 CAD
-  - [60 Capsule](https://www.thevitaminstore.ca/products/nfh-ashwagandha-sap-60-120-capsule?variant=48230234620199)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_78647387-d869-4289-9c21-8c1937669799.jpg?v=1731463252
-    Price: $39.60 CAD
-- [NFH Astragalus SAP 90 Capsules](https://www.thevitaminstore.ca/products/nfh-astragalus-sap-90-capsule): Astragalus (Huang Qi; Astragalus membranaceus), has been used in traditional  historically for it’s immunomodulating, antiviral, diuretic properties. Astragalus is enriched with a complex combination of polysaccharides, triterpene glycosides, flavonoids, amino acids, and trace minerals. Astragalus has been studied for its benefits in restoring T-cell (a specific type of white blood cell) counts to relatively normal ranges and inducing pituitary-adrenal-cortical activity to restore depleted red blood-cell formation in bone marrow. Traditional Chinese  evidence suggests the adaptogenic ability of astragalus in enhancing immune function. Astragalus SAP provides high quality Astragalus root extract standardized to contain 3% astragalosides that can: Help maintain a healthy immune system
-  Updated: 2026-04-08T13:29:19Z
-  Vendor: Nutritional Fundamentals for Health
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_dd29e5c1-64fb-43d2-ae9c-6d6acc92e518.jpg?v=1731463272
-  Price: $84.40 CAD
-- [NFH B-Complex SAP 60 Capsules](https://www.thevitaminstore.ca/products/nfh-b-complex-sap-60-capsule): Support healthy metabolism and energy production with NFH B-Complex SAP. This synergistic blend of essential B vitamins supports red blood cell formation and immune function. Shop now at The Vitamin Store for premium quality Canadian supplements.
-  Updated: 2026-04-14T11:02:07Z
-  Vendor: Nutritional Fundamentals for Health
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_799a38b5-8d1c-4ccb-9923-8c033f24bb38.jpg?v=1731463307
-  Price: $29.90 CAD
-- [NFH B5 SAP 60 Capsules](https://www.thevitaminstore.ca/products/b5-sap-60-capsule): Support adrenal function and stress response with NFH B5 SAP. This high-potency B-complex formula, featuring 250 mg of pantothenic acid per capsule, helps improve energy production and immune health. Shop at The Vitamin Store for premium quality and  lowest prices in Canada.
-  Updated: 2026-04-14T10:58:12Z
-  Vendor: Nutritional Fundamentals for Health
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_a6ac7a65-a5bc-43fe-b7ff-9719fc5b1dca.jpg?v=1731463329
-  Price: $25.60 CAD
-- [NFH B6 SAP 60 Capsules](https://www.thevitaminstore.ca/products/nfh-b6-sap-60-capsule): Vitamin B6 is involved in a plethora of physiological functions, especially playing key roles in homocysteine metabolism, hemoglobin formation, and neurotransmitter synthesis. It also acts as a potent antioxidant in the body. B6 SAP provides a healthy supplemental dose of vitamin B6, including 10 mg of the active form pyridoxal-5′-phosphate, in a blend of B vitamins and choline to support optimal B6 metabolism.
-  Updated: 2026-04-08T13:29:19Z
-  Vendor: Nutritional Fundamentals for Health
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_87fcb5ca-ebe9-416f-8640-df6416ddd8bc.jpg?v=1731463353
-  Price: $34.10 CAD
-- [NFH Berberine SAP 90 Capsules](https://www.thevitaminstore.ca/products/nfh-berberine-sap-90-capsule): Berberine is an active constituent found in a variety of species of plants. Newer studies have found berberine has biological effects in several pathways in the body, indicating it may be a potential  for metabolic syndrome. Metabolic syndrome is hypothesized as beginning with an accumulation of lipids in nonadipose tissues, known as nonalcoholic fatty liver disease (NAFLD). Berberine also has studies supporting its ability to reduce symptoms associated with NAFLD, as well as showing significant antidiabetic effects and lipid-lowering capability. Historically, berberine has been used for its antimicrobial activity, as berberine is active against a wide range of organisms including bacterial viruses, fungi, helminths, and chlamydia.
-  Updated: 2026-04-08T13:29:19Z
-  Vendor: Nutritional Fundamentals for Health
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_8486ae5b-d8be-4a03-8f47-4bafb6f3d48b.jpg?v=1731463378
-  Price: $51.20 CAD
-- [NFH Bifido SAP 60 Capsules](https://www.thevitaminstore.ca/products/nfh-bifido-sap-60-capsule): Bifidobacteria represent one of the major genera in the healthy intestinal tract of humans. As one of the earliest colonizers of the early gut microbiota, bifidobacteria play critical roles in the metabolism of dietary components, otherwise indigestible in the upper parts of the intestine, and in the maturation of the immune system. Bifidobacteria are known to interact with human immune cells and to modulate specific pathways, involving innate and adaptive immune processes. Substantial evidence supports that bifidobacteria confer positive health benefits to their host via their metabolic activities. Bifido SAPcan help support gastrointestinal health and promote a favorable gut flora.
-  Updated: 2026-04-08T13:29:20Z
-  Vendor: Nutritional Fundamentals for Health
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_788976ad-7e12-457e-8d88-441108015559.jpg?v=1731463444
-  Price: $60.40 CAD
-- [NFH Black Cohosh SAP 60 Capsules](https://www.thevitaminstore.ca/products/nfh-black-cohosh-sap-60-capsule): Black cohosh (Actaea racemosa) is native to Canada and the United States. It has been used traditionally in herbal  to ease nervous tension, relieve muscle and joint pain associated with rheumatic conditions (such as rheumatoid arthritis, osteoarthritis and/or fibrositis), and of pain associated with neuralgia (such as sciatica). Black cohosh has also been used traditionally to help relieve the pain associated with menstruation and relieve symptoms associated with menopause and premenstrual symptoms. Its ability to alleviate symptoms of menopause has been studied in randomized controlled clinical trials. A part of this effect can be attributed to the high content of triterpene glycosides in black cohosh, which may help reduce levels of luteinizing hormone and activate dopaminergic receptors. Black Cohosh SAP provides high quality black cohosh extract for relief from menopause and premenstrual symptoms and helps support mood balance and pain management.
-  Updated: 2026-04-08T13:29:20Z
-  Vendor: Nutritional Fundamentals for Health
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_79110d92-1b84-4c29-b4a7-1a99769c60af.jpg?v=1731463461
-  Price: $21.60 CAD
-- [NFH Black Cumin SAP 60 Softgels](https://www.thevitaminstore.ca/products/nfh-black-cumin-sap-60-softgels): Black cumin (Nigella sativa) is an herb native to the Middle Eastern and South-Asian regions of the world, and has long been used in traditional healing systems for a variety of treatments. These seeds contain a number of substances attributed to their bioactive properties including thymoquinone, saponins, alkaloids, and high levels of beneficial fatty acids including linoleic acid and oleic acid for the maintenance of good health.
-  Updated: 2026-04-08T13:29:20Z
-  Vendor: Nutritional Fundamentals for Health
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_71697ab3-36e4-4863-96e0-5ee84bb922da.jpg?v=1731463554
-  Price: $28.00 CAD
-- [NFH Boswellia SAP 90 Capsules](https://www.thevitaminstore.ca/products/nfh-boswellia-sap-90-capsule): Boswellia SAP provides a standardized dose of Boswellia serrata oleogum resin extract, used in traditional  for centuries for a number of ailments related to acute and chronic inflammation. Boswellic acids, especially 11 keto-β boswellic acid (KBA) and 3 O acetyl-11 keto- β boswellic acid (AKBA) are the main active constituents responsible for the anti-inflammatory effects of B. serrata, are specific inhibitors of 5 lipoxygenase (5 LOX), and thereby suppress leukotriene synthesis. Boswellia has been extensively studied for maintaining healthy inflammatory responses and reducing pain associated with osteo and rheumatoid arthritis. Scientific research has focused on the use of boswellia for the management of inflammatory bowel diseases (IBD) to improve quality of life in patients during the remission phase. Boswellia SAP can help relieve pain associated with osteoarthritis.
-  Updated: 2026-04-08T13:29:20Z
-  Vendor: Nutritional Fundamentals for Health
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_42c556d2-83c1-48d4-9c7a-c6606be967b4.jpg?v=1731463579
-  Price: $33.90 CAD
-- [NFH Cal-Mag SAP 120 Capsules](https://www.thevitaminstore.ca/products/nfh-cal-mag-sap-120-capsules): Bone mass and vitamin D synthesis decrease with aging and inactivity in women and men. Reducing bone loss delays the onset of weakness, thus lowering fracture risk. Peak bone mass is determined by genetics, body weight, weight-bearing activity, and intake of nutrients composing the bone matrix and/or regulating its metabolism. Adequate calcium intake is important to prevent bone resorption and osteoporosis, and higher magnesium intakes have been positively associated with bone mineral density. Vitamin D₃ is essential for maintaining calcium levels and increases calcium absorption from the intestine.
-  Updated: 2026-04-08T13:29:20Z
-  Vendor: Nutritional Fundamentals for Health
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_67c21c62-89b1-4b20-a646-636c085beb99.jpg?v=1731463603
-  Price: $39.30 CAD
-- [NFH Calcium D-Glucarate SAP 60 Capsules](https://www.thevitaminstore.ca/products/nfh-calcium-d-glucarate-sap-60-capsule): Calcium ᴅ‑Glucarate is a calcium salt of ᴅ‑glucaric acid, which is a naturally occurring substance. Glucaric acid is found in several fruits and vegetables, with its highest concentration being found in cruciferous vegetables, apples, oranges, and grapefruits, and it is also made in small amounts in the human body. ᴅ‑Glucarate is an important substance that assists the body in its quest to detoxify and eliminate various toxins, hormones, and carcinogens from the system. Two of the mechanisms that the body uses to detoxify are conjugation and glucuronidation, by which the body binds water-soluble substances to hormones or carcinogens, making it easier for them to be excreted. The enzyme β‑glucuronidase breaks the bonds formed during the detoxification process, which allows substances to recirculate in the body instead of being excreted. ᴅ‑Glucarate inhibits β‑glucuronidase, therefore encouraging the elimination of the potentially harmful toxins, carcinogens, or hormones.
-  Updated: 2026-04-08T13:29:21Z
-  Vendor: Nutritional Fundamentals for Health
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_8d8b1f42-8e23-4ef6-bc9b-7d380e13a34d.jpg?v=1731463629
-  Price: $57.40 CAD
-- [NFH Calm Sleep SAP 60 Capsules](https://www.thevitaminstore.ca/products/nfh-calm-sleep-sap-60-capsule): Sleep is a crucial cornerstone of health that can be disrupted due to various circumstances such as travel, work stress and disease states. Improvement of sleep duration, sleep quality and reduction of restlessness are key factors for a better quality of life. Ingredients such as tryptophan, melatonin, passionflower and L-theanine are natural therapeutic agents that have been studied for improving sleep quality. Jujube and notoginseng extracts have been long used in traditional Chinese  effectively for their calmative and sedative properties. Calm Sleep SAP provides optimum dosages of these ingredients that helps support sleep quality and relaxation while also helping with occasional life events such as travel, jet lag, shift work, or otherwise altered sleep schedule.
-  Updated: 2026-04-08T13:29:21Z
-  Vendor: Nutritional Fundamentals for Health
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_30964035-0ffb-44b0-9d64-feacd7e88262.jpg?v=1731463660
-  Price: $38.90 CAD
-- [NFH Candida SAP](https://www.thevitaminstore.ca/products/nfh-candida-sap-90-180-capsule): Candida is a type of yeast normally found on the skin and in the mouth, vagina, and intestinal tract. It is ubiquitous in our environment and causes health problems in cases where the immune system is weak, leading to Candida overgrowth or candidiasis. The incidence of this condition is increasing due to the growing population of immunocompromised patients, including individuals who are overprescribed antibiotics, individuals with diabetes, HIV/AIDS, and solid tumours or hematological malignancies receiving stem-cell therapy, as well as transplant recipients and people undergoing antacid therapy. Candida SAP contains antifungal and immune-boosting substances to help the body control the growth of Candida in the body and prevent future outbreaks of candidiasis.
-  Updated: 2026-04-08T13:29:21Z
-  Vendor: Nutritional Fundamentals for Health
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_5e81eda3-0f13-4a57-9665-cf277ea5341d.jpg?v=1731463694
-  - [90 Capsule](https://www.thevitaminstore.ca/products/nfh-candida-sap-90-180-capsule?variant=48230281675047)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_5e81eda3-0f13-4a57-9665-cf277ea5341d.jpg?v=1731463694
-    Price: $66.00 CAD
-  - [180 Capsule](https://www.thevitaminstore.ca/products/nfh-candida-sap-90-180-capsule?variant=48230281707815)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_de86affa-b3ba-441f-a8d6-65b3b77f90d1.jpg?v=1731463710
-    Price: $125.50 CAD
-- [NFH Chaga SAP 60 Capsules](https://www.thevitaminstore.ca/products/nfh-chaga-sap-60-capsule): Chaga SAP is a hot water-extract medicinal mushroom, known by its scientific classification as Inonotus obliquus. Chaga is parasitic on birch and other trees, and the conk presents as a mass of mycelium with the appearance of burnt charcoal, due to large amounts of melanin. Chaga is nutrient-dense, concentrated with polysaccharides, flavonoids, betulinic acid, polyphenols, minerals, enzymes, and several B vitamins, including pantothenic acid, riboflavin, and niacin. In vitro studies on chaga mushroom extract demonstrate antitumour, immunomodulating, gene-protective, and antiseptic activities.
-  Updated: 2026-04-08T13:29:21Z
-  Vendor: Nutritional Fundamentals for Health
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_3d38906d-9d92-42b7-9a1d-9ba0831f6501.jpg?v=1731463736
-  Price: $50.90 CAD
-- [NFH Chastetree+ SAP 60 Capsules](https://www.thevitaminstore.ca/products/nfh-chastetree-sap-60-capsule): Chastetree+ SAP is a synergistic blend of chasteberry, Ginkgo biloba, and vitamin B₆ used to help regulate menstrual cycle concerns. This formulation assists in relieving negative symptoms associated with the menstrual cycle such as irregular menstruation, mood imbalances, breast tenderness, irritability, and menstrual cramping. Symptoms such as hot flashes, memory changes, and insomnia associated with perimenopause and menopause may also be improved with use of Chastetree+ SAP.
-  Updated: 2026-04-10T01:51:39Z
-  Vendor: Nutritional Fundamentals for Health
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_974b29f7-6e90-4f8a-a942-e755227acb01.png?v=1731463764
-  Price: $45.60 CAD
-- [NFH Children's ProBio SAP 30g](https://www.thevitaminstore.ca/products/nfh-childrens-probio-sap-30g): Probiotics are dietary microbial mixtures that beneficially affect the host by improving intestinal microbial balance. Although large numbers of microbes normally inhabit the human intestine, certain strains of bacteria have been shown to assist with various conditions. Certain strains have demonstrated the ability to alleviate acute diarrhea, inflammatory bowel diseases, and irritable bowel syndrome, as well as being able to increase the body's natural resistance to infectious diseases of the intestinal tract and upper respiratory tract. Probiotics can also be used to help prevent atopic dermatitis in children.
-  Updated: 2026-04-08T13:29:22Z
-  Vendor: Nutritional Fundamentals for Health
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/ChildrensProBioSAPShopifyProductPhoto.jpg?v=1731463792
-  Price: $47.80 CAD
-- [NFH Chol SAP-15 120 Softgels](https://www.thevitaminstore.ca/products/nfh-chol-sap-15-120-softgel): Chol SAP‑15 contains plant sterols in a natural nonesterified form that helps in lowering total and LDL-cholesterol levels and maintaining healthy blood lipid levels. Evidence shows that LDL-cholesterol and total cholesterol concentrations can be decreased between 8 and 15% with intakes of plant sterols of 1.05 g/d. Plant sterol intake has been suggested to support immune function and elicit healthy inflammatory responses. In addition, plant sterol supplementation improves antioxidant status and mitigates the effects of carcinogens. Plant sterols are lipophilic, and Chol SAP‑15 is formulated using an organic flax seed oil base, ensuring optimal absorption and efficacy, also serving as a source of omega‑3 fatty acids and alpha-linolenic acid (ALA) for the maintenance of good health.
-  Updated: 2026-04-08T13:29:22Z
-  Vendor: Nutritional Fundamentals for Health
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_80166d82-d918-40bc-9d7b-404facb95b20.jpg?v=1731463819
-  Price: $71.30 CAD
 - [NFH Chromium SAP 60 Capsules](https://www.thevitaminstore.ca/products/nfh-chromium-sap-60-capsule): Chromium is an essential nutrient involved in the homeostatic control of blood glucose. Deficiency of this nutrient has been associated with hyperglycaemia, which is reversible by supplementation. Playing an integral role in the insulin receptor in mammalian tissues, supplementation of chromium has shown beneficial objective and subjective clinical outcomes in the  of both type 1 and type 2 diabetes mellitus as well as hyper- and hypoglycaemia. Chromium supplementation has also shown positive outcomes in the management of cholesterol levels, DHEA, and osteoporosis.
   Updated: 2026-04-08T13:29:22Z
   Vendor: Nutritional Fundamentals for Health
@@ -286,7 +57,7 @@
     Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_635f4a29-e2a3-4c61-9f0e-ac515b563e8a.jpg?v=1731463971
     Price: $39.70 CAD
 - [NFH Cordycepts SAP 60 Capsules](https://www.thevitaminstore.ca/products/nfh-cordycepts-sap-60-capsule): Cordyceps SAP is a hot water-extracted mushroom used in herbal  to support the immune system and as a source of antioxidants. Cordyceps sinensis has traditionally been used for a variety of concerns including treating patients with fatigue, in athletics, for liver, kidney, and respiratory protection, as well as for immune support. The majority of the research focuses on the active ingredients in Cordyceps, including polysaccharides, lipids, cordycepin, and 3‑deoxyadenosine.
-  Updated: 2026-04-08T13:29:23Z
+  Updated: 2026-04-15T17:45:48Z
   Vendor: Nutritional Fundamentals for Health
   Product Type: 
   Availability: Available
@@ -377,7 +148,7 @@
   Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_7ca520c5-3172-4d16-bdc1-525f0788fd35.jpg?v=1731464289
   Price: $44.60 CAD
 - [NFH GI Repair SAP 190g](https://www.thevitaminstore.ca/products/nfh-gi-repair-sap-190g): Gastrointestinal (GI) health is a hallmark of overall well-being of an individual. Apart from its usual functions of food digestion and absorption, the GI tract plays a host of other roles including gut-microbiome crosstalk which regulates epithelial and immune functions. The gut-brain axis is responsible for communication between the gut and the central nervous system, influencing cognition, emotional and mental health. GI disorders such as irritable bowel syndrome (IBS), dyspepsia, ulcerative colitis and Crohn’s disease can severely affect quality of life and mortality. GI Repair SAP is a synergistic formulation of key evidence-based nutraceuticals that can help promote GI health by relieving inflammation of the GI and help managing abdominal pain and burning sensation in the stomach.
-  Updated: 2026-04-08T13:29:25Z
+  Updated: 2026-04-18T23:48:09Z
   Vendor: Nutritional Fundamentals for Health
   Product Type: 
   Availability: Available
@@ -405,7 +176,7 @@
   Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_6843b268-8f18-479e-b730-346ea71acfb1.jpg?v=1731464386
   Price: $52.30 CAD
 - [NFH Grape Seed SAP 60 Capsules](https://www.thevitaminstore.ca/products/nfh-grape-seed-sap-60-capsule): Grape seed extract (GSE) contains proanthocyanidins, which have been demonstrated to exhibit a wide spectrum of pharmacological, therapeutic, and chemoprotective properties. Studies have demonstrated that GSE can reduce inflammation by inhibiting the formation of inflammatory cytokines and reducing inflammatory mediators. GSE can ameliorate atherosclerosis by reducing inflammation, decreasing MDA-LDL, and decreasing foam-cell formation. GSE has been found to be cytotoxic toward human breast, lung, and gastric adenocarcinoma cells. Many pharmaceuticals can damage various organ systems. GSE has been studied and has the ability to protect numerous organs from toxicity caused by  or chemicals. GSE is a powerful antioxidant that has a wide range of health benefits and has been shown to have better free radical-scavenging ability than vitamins C or E, or beta-carotene.
-  Updated: 2026-04-08T13:29:26Z
+  Updated: 2026-04-15T17:38:52Z
   Vendor: Nutritional Fundamentals for Health
   Product Type: 
   Availability: Available
@@ -440,7 +211,7 @@
     Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_44839a9b-3736-44dc-b9c0-7dd8b05f1c7b.jpg?v=1731464478
     Price: $96.10 CAD
 - [NFH Hericium Erinaceus SAP 60 Capsules](https://www.thevitaminstore.ca/products/nfh-hericium-erinaceus-sap-60-capsule): Hericium Erinaceus SAP is a hot water-extracted mushroom. Hericium erinaceus (HE) is also known by its common name, lion's mane. Hericium erinaceus has been called "nature's nutrient for the neurons" because of its ability to stimulate production of nerve growth factor (NGF). NGF plays an important role in both the central and peripheral nervous systems, and low levels have been associated with early stages of disorders such as dementia and Alzheimer's disease. Hericium erinaceus has also demonstrated a beneficial effect on gastric mucosa damage seen with ulcerations. Hericium erinaceus has a positive impact on immune health and can support a healthy immune response.
-  Updated: 2026-04-08T13:29:27Z
+  Updated: 2026-04-15T21:18:39Z
   Vendor: Nutritional Fundamentals for Health
   Product Type: 
   Availability: Available
@@ -552,14 +323,14 @@
   Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_f56c1de2-f00d-4ed7-9e2c-131e301bc2f6.jpg?v=1731464870
   Price: $23.30 CAD
 - [NFH L-Theanine SAP 60 Capsules](https://www.thevitaminstore.ca/products/nfh-l-theanine-sap-60-capsule): Stress is common in the modern world, but could become debilitating when exacerbated by lifestyle disorders, diseases, and life situations. L-theanine is a natural bioactive found in high amounts in certain species of tea such as Camellia sinensis, which have been known for their medicinal properties in traditional . The major advantage of L-theanine lies in its rapid absorption and ability to cross the blood brain barrier within 30 minutes of consumption, promoting relaxation. L-Theanine SAP provides high quality L-theanine from Camellia sinensis that helps promote relaxation.
-  Updated: 2026-04-10T14:49:26Z
+  Updated: 2026-04-20T03:38:37Z
   Vendor: Nutritional Fundamentals for Health
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_198f3b1d-26c8-448d-a4f3-63d41a2569c9.jpg?v=1731464937
   Price: $19.00 CAD
 - [NFH Lavender SAP 60 Softgels](https://www.thevitaminstore.ca/products/nfh-lavender-sap-60-softgel): Lavender (Lavandula angustifolia) has been traditionally used in herbal  for centuries for its anxiolytic and calming properties. Lavender essential oil for oral supplementation is obtained from steam distillation of the flowering tops of L. angustifolia. Containing more than 160 different substances, the anxiolytic effects of lavender oil are attributed to the active ingredients linalool and linalyl acetate. Recently, several clinical trials have substantiated the efficacy of oral supplementation with lavender oil at a dose of 80 mg once daily for symptoms of anxiety, depression, restlessness, agitation, and disturbed sleep.
-  Updated: 2026-04-08T13:29:30Z
+  Updated: 2026-04-18T22:24:28Z
   Vendor: Nutritional Fundamentals for Health
   Product Type: 
   Availability: Available
@@ -675,7 +446,7 @@
   Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_eadba3d4-a211-4e97-a38c-a028920c8a9e.jpg?v=1731466407
   Price: $35.40 CAD
 - [NFH Methyl SAP 60 Capsules](https://www.thevitaminstore.ca/products/nfh-methyl-sap-60-capsule): A high level of homocysteine in circulation is an independent risk factor for the development of disability and death from cardiovascular disease (CVD) including stroke. CVD risk increases proportionately by 6 to 7% with every 1 µmol/L increase in blood homocysteine. Elevated blood homocysteine is also thought to relate to onset of diseases of the brain and kidneys and to diabetic complications. Elevated homocysteine levels are often observed in the elderly and in individuals with compromised nutrition, gastrointestinal disorders or a genetic tendency for hyperhomocysteinemia. Methyl SAP provides a combination of scientifically supported doses of B vitamins (folate, vitamin B6, vitamin B12).
-  Updated: 2026-04-08T13:29:33Z
+  Updated: 2026-04-20T23:21:57Z
   Vendor: Nutritional Fundamentals for Health
   Product Type: 
   Availability: Available
@@ -787,7 +558,7 @@
   Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/PrebioSAPShopifyProductPhoto.jpg?v=1731466890
   Price: $62.70 CAD
 - [NFH Prenatal SAP 180 Capsules](https://www.thevitaminstore.ca/products/nfh-prenatal-sap-180-capsule): Vitamin and mineral supplementation, while planning for parenthood and during pregnancy, helps ensure optimal nutrition for the health of the mother and unborn baby. Prenatal SAP provides therapeutic doses of a variety of supplemental nutrients aimed at preventing and correcting vitamin and mineral deficiencies, and achieving benefits seen beyond typical dietary intake levels.
-  Updated: 2026-04-08T13:29:36Z
+  Updated: 2026-04-15T21:16:52Z
   Vendor: Nutritional Fundamentals for Health
   Product Type: 
   Availability: Available
@@ -885,7 +656,7 @@
   Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_b847eaff-b103-429b-9549-67927a8b3027.jpg?v=1731467214
   Price: $40.40 CAD
 - [NFH Saffron SAP 60 Capsules](https://www.thevitaminstore.ca/products/nfh-saffron-sap): Saffron is a fragrant spice derived from the dried elongated stigmas and styles of Crocus sativus flower. The major bioactive compounds in saffron stigmas: crocins, crocetin, picrocrocin, and safranal are indicated for the beneficial health properties of saffron. In addition, saffron also contains various other active components, including carotenoids, zeaxanthin, lycopene, beta-carotene, and polysaccharides. Saffron has been used in traditional  for various health concerns and a plethora of preclinical and clinical studies support utility of saffron in healthy mood balance, improving women’s health,  function, and eye health. Saffron SAP provides the finest quality saffron sourced from premium all red stigma and styles which are the longest and are meticulously harvested and carefully dried to ensure highest concentrations of the active phytochemicals, including crocins and safranal. Deep red colour of the saffron stigmas is an indicator of high potency bioactive compounds present.
-  Updated: 2026-04-08T13:29:38Z
+  Updated: 2026-04-15T21:18:08Z
   Vendor: Nutritional Fundamentals for Health
   Product Type: 
   Availability: Available
@@ -1016,7 +787,7 @@
   Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_3e2d0bdc-1a28-4b84-baa1-b878da3324fb.jpg?v=1731462820
   Price: $51.40 CAD
 - [NFH Curcumin SAP 90 Capsules](https://www.thevitaminstore.ca/products/curcumin-sap): Turmeric (Curcuma longa) is a plant native to South India and Indonesia and has been valued in Asia for thousands of years as a spice and medicinal herb. In Ayurvedic , it is used for wound healing and respiratory conditions. Curcumin is a component of turmeric that has been the focus of extensive scientific research for its vast range of therapeutic applications in autoimmune conditions such as rheumatoid arthritis, Crohn's disease, and eczema, as well as to improve poststroke outcomes.
-  Updated: 2026-04-08T13:29:41Z
+  Updated: 2026-04-15T17:47:19Z
   Vendor: Nutritional Fundamentals for Health
   Product Type: 
   Availability: Available
@@ -1099,13 +870,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_130d3660-e20f-413f-98d9-390ccfc52099.png?v=1736977461
     Price: $64.99 CAD
-- [CanPrev BioActive B - Liquid 500ml](https://www.thevitaminstore.ca/products/bioactive-b-liquid): Boost your health with CanPrev BioActive B Liquid at The Vitamin Store. This complete B-complex features all eight water-soluble B vitamins in highly absorbable forms for optimal energy and stress support. Enjoy a flush-free, delicious natural blueberry flavored liquid designed for maximum absorption. Shop our premium Canadian health supplements today.
-  Updated: 2026-04-14T10:59:38Z
-  Vendor: CanPrev
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_60f62802-a9c4-4399-b9c7-8b24a18f6aa9.png?v=1736977547
-  Price: $29.99 CAD
 - [CanPrev BioPQQ® 60 Veggie Caps](https://www.thevitaminstore.ca/products/biopqq®): Clinically-proven pyrroloquinoline quinone Potent antioxidant defence Highly bioavailable Free radicals are unstable molecules that are missing an electron in their outer shell. They can cause damage to cell structure and function thanks to their habit of stealing electrons from stable cells. At any given time, your body is full of free radicals. They occur naturally due to various chemical reactions in the body, and a controlled amount of oxidation is required for certain processes. However, excess free radicals can be created due to chronic stress, aging, poor, nutrition, and exposure to environmental toxins. Antioxidants are substances that can neutralize free radicals by donating their excess electrons. But when there aren’t enough antioxidants to balance out the free radicals in your body, it can result in oxidative stress. The long-term impacts of oxidative stress can lead to cell, protein, and DNA damage in the body. The brain is particularly vulnerable in cases of oxidative stress since it requires a considerable amount of oxygen for optimal function. In cases of oxidative stress, free radicals can impact the integrity of brain cell structures, and even cause cell death in some cases. These outcomes can impact cognitive function and increase the risk of more serious neurodegenerative occurrences. CanPrev’s BioPQQ® provides 10mg of proprietary, clinically proven pyrroloquinoline quinone, an antioxidant with 7x the power of vitamin C. This non-synthetic formula is highly bioavailable and helps neutralize free radicals to avoid oxidative stress and its outcomes on cognitive health.
   Updated: 2026-04-12T19:56:46Z
   Vendor: CanPrev
@@ -1253,13 +1017,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_ef3b478d-55ff-4e2a-9fc1-8b42790e3a72.png?v=1736979666
   Price: $39.99 CAD
-- [CanPrev Healthy Mood 90 Veggie Caps](https://www.thevitaminstore.ca/products/healthy-mood): Saffron, sourced from the stigmata of the Crocus sativus plant – for reducing symptoms of depression and anxiety 100mg of 5-HTP per capsule, derived naturally from the African plant Griffonia simplicifonia, to assist with mood regulation and sleep With active forms of B6, B12 and folate, magnesium & zinc Managing low mood and anxiety are key stepping stones on the way to great health, and are affected by both external and internal factors. Our endocrine and nervous systems work together to create balance between our body and brain, and keeps us feeling good. Key nutrients like B vitamins, GABA, 5-HTP, magnesium and zinc all play important roles in supporting our endocrine and cognitive health, and therefore our mood. CanPrev’s Healthy Mood is designed to promote healthy mood management by regulating stress response, improving nerve and brain function, and supporting your immune system. Research shows that saffron provides mind-boosting benefits, and may help alleviate mild to moderate symptoms of depression. Healthy Mood can also help reduce the severity and duration of migraine headaches when taken preventatively. Saffron has been used for thousands of years both medicinally and in the kitchen. It is sourced from the stigmata of the Crocus sativus plant, traditionally, used for several ailments ranging from blood sugar issues, promoting healthy mood balance, cardiovascular health, libido and vision. Bright red in nature it contains several highly regarded antioxidants including lycopene and zeaxanthin. GABA is an inhibitory neurotransmitter that promotes sleep and encourages relaxation. Low GABA activity is linked to insomnia and disrupted sleep. In one study, GABA levels in people with insomnia were almost 30% lower than in people without the sleep disorder. L-5-HTP is a compound made in the body from the amino acid, tryptophan, that you get from eating protein-rich foods. Once in the 5-HTP state, it goes on to form serotonin, the neurotransmitter that helps regulate mood and behaviour, and then further is metabolized into melatonin. Sourced from the African plant Griffonia simplicifolia seed, CanPrev’s Healthy Mood formula includes vitamin B6 and magnesium to improve the body’s conversion and utilization of 5-HTP. B Vitamins (B6, B12, Folate) are key factors in maintaining healthy mood and stress response. They are essential in nerve transmission, cellular metabolism, and breaking down fats and carbohydrates into usable forms of energy for the body and brain. B6 (P-5-P) enhances the activity of the immune system and improves the body’s ability to withstand stressful conditions. It is also an important cofactor for a large number of enzyme pathways in the adrenal glands. When taken with magnesium, B6 has been shown to reduce symptoms such as nervous tension, mood swings and irritability. Aids in the production of dopamine in the hypothalamus. B12 (Methylcobalamin) and B9 (folate) deficiency have been linked to changes in mood. Magnesium Bis-Glycinate supports neurological functions including cellular energy production, regulating neurotransmitters such as serotonin, dopamine and gamma-Aminobutyric acid (GABA), regulating ion gradients, and neuronal excitability. Dysregulation of these systems plays an important role in the etiology of both mood imbalances and anxiety. Zinc Bis-Glycinate is critical to the immune system and detoxification processes. Zinc containing neurons regulate the brain and body’s response to stress and is necessary for neurotransmitter production and brain function.
-  Updated: 2026-04-12T19:56:37Z
-  Vendor: CanPrev
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_6366e609-99f9-4749-816e-3e6fb474b5b3.png?v=1736979705
-  Price: $44.99 CAD
 - [CanPrev Immuno Multi 90 Veggie Caps](https://www.thevitaminstore.ca/products/immuno-multi): Advanced daily multivitamin and multi-antioxidant 21 essential vitamins and minerals 10 powerful antioxidants The ideal core nutritional platform for all adults Immuno Multi™ is an advanced daily and true antioxidant multivitamin that helps to optimize healthy immune system function and support normal growth and development. It provides higher than average levels of antioxidants with 200mg of green tea extract, 200mg of N-acetyl-cysteine and 120mcg of Resveratrol plus others in a daily dose. Immuno Multi™ represents the next generation in multivitamins, giving you a well rounded, effective supplement to help achieve peak function and maintain good health.
   Updated: 2026-04-12T19:56:37Z
   Vendor: CanPrev
@@ -1793,81 +1550,239 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_298b6c45-7cd3-46e5-9774-b1ba4cec414e.png?v=1736984103
   Price: $72.99 CAD
-[List Continued](https://www.thevitaminstore.ca/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5Njg0Mjg4NjM1MTc1LCJsYXN0X3ZhbHVlIjoiOTY4NDI4ODYzNTE3NSJ9)
+- [CanPrev Ubiquinol 100 with MCT Oil 60 Softgels](https://www.thevitaminstore.ca/products/ubiquinol-100-with-mct-oil): Promotes heart health and migraine prevention Powerful antioxidant Active form of CoQ10 Vital for energy production With MCT oil to enhance absorption Ubiquinol is an active form of Coenzyme Q10 (CoQ10). CoQ10 is a vitamin-like essential component of the mitochondria, an organelle found in virtually all cells. CoQ10 helps your cells’ mitochondria to generate adenosine triphosphate (ATP), your body’s energy currency. In fact, the body cannot function without CoQ10. Therefore, it’s no surprise that organs with the highest energy needs like the heart, liver and kidneys all contain large amounts of CoQ10. Ubiquinol is a fat-soluble molecule that’s stored in the liver and fatty tissue and provides the necessary amount of energy that your heart needs to function properly. Research shows that CoQ10 helps to maintain normal cholesterol levels and heart muscle strength and support the health of blood vessel walls. The heart is one of the most metabolically active organs in our body and thus a deficiency in CoQ10 usually affects the heart first. It is important to note that pharmaceutical  with statins (cholesterol lowering medications) can inhibit CoQ10 activity and lead to a serious deficiency. Supplementing with a daily dose of CanPrev’s Ubiquinol 100 can help restore what’s lost. Ubiquinol is a powerful antioxidant that can help protect your heart and other organs from free radical damage. Supplementing with ubiquinol can contribute to a renewed sense of energy, as ubiquinol plays a role in the production of Adenosene Triphosphate (ATP), a transporter responsible for generating 90 to 95 percent of your body’s energy. Using Ubiquinol preventatively may also play a role in migraine prevention. A study at University Hospital in Zurich, Switzerland showed that patients taking 300 mg of CoQ10 daily had fewer and shorter headaches and less headache-related nausea. Other studies have shown similar results.* It is recommended that you take CoQ10 for a minimum of three months in order to see beneficial effects with migraines. After age 30, your body is less able to metabolize CoQ10 on its own. Each capsule of CanPrev’s Ubiquinol 100 contains 100mg of Active Form CoQ10 for cardiovascular support and migraine prevention. Each softgel is formed from a base of medium chain triglyceride oil for enhanced absorption. For the health of your heart, as a powerful antioxidant and to guard against migraines, make CanPrev’s Ubiquinol 100 part of your daily health regimen, today.
+  Updated: 2026-04-12T19:56:17Z
+  Vendor: CanPrev
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_e22f956a-0a01-4fab-9edf-8aa02c5f66f8.png?v=1736984151
+  Price: $59.99 CAD
+- [CanPrev Vitamin A - Drops 15ml](https://www.thevitaminstore.ca/products/vitamin-a-drops): The ideal form necessary for improving vision, immune, skin and digestive conditions Delivered in a base of medium chain triglycerides for optimal absorption and assimilation Readily available ‘active’ all-trans-retinyl-palmitate form No conversion in the body needed like other carotenoid forms Vision Support CanPrev’s Vitamin A drops offer direct antioxidant support for reducing risk of cataracts, age-related macular degeneration, night blindness and overall eye health. Immune function Immune conditions associated with reduced activity of neutrophils, macrophages and natural killer cells have been linked to vitamin A deficiency. Digestive health This easy to absorb form has potent antiviral properties that help maintain the lining of the intestinal tract – crucial for nutrient absorption, digestion and immune health. Tissue & skin repair Vitamin A helps maintain tissue health of the mucous membranes in the respiratory, GI and urinary tracts. This fat-soluble vitamin also plays a role in improving eczema, psoriasis and acne vulgaris.
+  Updated: 2026-04-12T19:56:17Z
+  Vendor: CanPrev
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_d43898d6-c3a5-4f68-a6f5-d37e54c48513.png?v=1736984285
+  Price: $16.99 CAD
+- [CanPrev Vitamin C 1000mg 120 Veggie Caps](https://www.thevitaminstore.ca/products/vitamin-c-1000mg): An antioxidant for the maintenance of good health. It helps to prevent vitamin C deficiency and metabolize fats and protein It helps in wound healing, connective tissue formation, and the development of bones, cartilage, teeth, and gums CanPrev’s Vitamin C provides a potent and therapeutic 1000mg dose of pure ascorbic acid in every capsule. This multitasking antioxidant is responsible for the growth and repair of all tissues in the body, including wound healing and scar tissue. It also helps to strengthen the blood vessels walls, produce collagen and strengthen immunity. What doesn’t this vitamin do? Packed in a clean, vegetable-based capsule with no fillers or binders. Just what you’ve come to expect from CanPrev.
+  Updated: 2026-04-12T19:56:17Z
+  Vendor: CanPrev
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_4300c986-8fcc-4fc8-a799-a5f6ccbdb691.png?v=1736984313
+  Price: $34.99 CAD
+- [CanPrev Zinc 50 Ultra Immune + Vitamin C 120 Veggie Caps](https://www.thevitaminstore.ca/products/zinc-50-ultra-immune-vitamin-c): 50mg of highly absorbable zinc bis-glycinate With 400mg of vitamin C Essential nutrients for ultra immune support Zinc is an essential mineral for the body, it is literally ‘essential’ in the sense that your body does not produce it, so it’s important to get adequate amounts. It’s a cofactor for over 300 enzymatic reactions including facilitating proper growth, development, and protecting cognitive health. It plays a role in mood balance, protein synthesis, skin health, wound healing and most notably its actionable role as a ‘gatekeeper’ for your immune system. Vitamin C supports connective tissue formation, and the development of bones, cartilage, teeth, and gums. And, its antioxidant properties make it responsible for the growth and repair of all tissues in the body, including wound healing and scar tissue. It also helps support our immune health, strengthen blood vessels walls, and produce collagen. CanPrev’s Zinc 50 Ultra Immune + Vitamin C is delivered in a pure and preferred bis-glycinate and ascorbic acid forms that are clean, gentle and superior in absorption.
+  Updated: 2026-04-12T19:56:17Z
+  Vendor: CanPrev
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_372bfc73-ebbb-4419-b776-0948c7d5a48a.png?v=1736984373
+  Price: $27.99 CAD
+- [CanPrev Zinc Bis-Glycinate 25](https://www.thevitaminstore.ca/products/zinc-bis-glycinate-25): Zinc is required for the normal growth and development, metabolism, and functions of all cells. CanPrev’s Zinc Bis-Glycinate 25 is the preferred form of zinc due to its superior absorption and gentleness. Daily intake is important, as we excrete what we don’t use or absorb. The mineral zinc plays an important role in several bodily functions including proper wound healing, taste, vision, cognitive health, immunity, blood sugar support, and normal glandular function. It’s also an essential component of the body’s antioxidant enzymes, superoxide dismutase (SOD) and glutathione peroxidase.
+  Updated: 2026-04-12T19:56:17Z
+  Vendor: CanPrev
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_bfa65a27-2175-409c-a869-bc73c687c405.png?v=1736984420
+  - [60 Capsules](https://www.thevitaminstore.ca/products/zinc-bis-glycinate-25?variant=50424242438439)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_0578fcab-3d4c-4283-9405-95eb11139c8b.png?v=1736984445
+    Price: $9.99 CAD
+  - [120 Capsules](https://www.thevitaminstore.ca/products/zinc-bis-glycinate-25?variant=50424242471207)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_bfa65a27-2175-409c-a869-bc73c687c405.png?v=1736984420
+    Price: $16.99 CAD
+  - [240 Capsules](https://www.thevitaminstore.ca/products/zinc-bis-glycinate-25?variant=50424242503975)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_2c966f8d-5948-463c-810f-15d4cf752bac.png?v=1736984449
+    Price: $29.99 CAD
+- [CanPrev Fibre Feel 325g](https://www.thevitaminstore.ca/products/fibre-feel): Clinically studied not to cause gas, bloating, cramps, or flatulence, even at doses up to 30g a day Helps stimulate healthy probiotic bacteria Quick dissolving, unflavoured – enjoy it in a smoothie, stirred into your favourite food, or simply mixed with water. Fibre is much more than simple roughage. It plays a critical role in reducing cholesterol, stabilizing blood sugar, and balancing our hunger throughout the day. And yet, most people only get half the daily fibre they need. Every scoop of Fibre Feel is 4g of organic, FODMAP friendly natural acacia plant soluble fibre, designed to help your gut feel great. It gets you all the digestive benefits of promoting healthy bacteria without uncomfortable levels of fructose, fructans, galactooligosaccharides, sorbitol, mannitol or lactose that can irritate IBS symptoms. Fibre Feel has been clinically studied for its’ gut-health promoting powers. It was found to increase levels of healthy bifidobacteria, reduce inflammation in the gut and contribute to reduced gut permeability. Feel no fear – these same studies found it to be gentle and easily tolerated without GI symptoms, even at doses many times higher than typically used.
+  Updated: 2026-04-12T19:56:17Z
+  Vendor: CanPrev
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_b13b9385-9c01-4c7c-ad57-d8ff3bb48b19.png?v=1736979161
+  Price: $32.99 CAD
+- [CanPrev Green Up! with GRAMS 300g](https://www.thevitaminstore.ca/products/green-up-with-grams): 100% plant-based,  organic, natural & GMO-free Combines the raw power of greens, red fruits and superfoods with a potent dose of immune-boosting mushrooms and fatigue-fighting adaptogenic herbs Diversify your diet – Enjoy daily in your favourite smoothie, juice, or simply mixed up with water Low on nutrition? Time to Green Up! Green Up! is the first and only formulation of its kind to combine the raw power of greens, red fruits and superfoods (like spirulina, chlorella, acai and goji), then augment it with a potent dose of immune-boosting mushrooms and fatigue-fighting adaptogenic herbs. This 100% plant-based powder is  organic and GMO-free. Embrace the taste, energize your nutrition, and Green Up your day.
+  Updated: 2026-04-12T19:56:17Z
+  Vendor: CanPrev
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_cc7a473d-908b-4b81-b53d-f09826d4cfcf.png?v=1736979346
+  Price: $69.99 CAD
+- [CanPrev L-Arginine Vegan Amino Acid 450g](https://www.thevitaminstore.ca/products/l-arginine-vegan-amino-acid): Promotes nitric oxide production, cardiovascular health and sports performance Supports tissue repair and protein synthesis Pure, fermented L-Arginine – nothing else Refine your routine with L-Arginine Vegan Amino Acid powder from CanPrev. This vegan amino provides a high potency dose of pure, fermented L-arginine in every scoop. Did you know that arginine acts as a precursor for nitric oxide production in the body? When there is a surge of nitric oxide in the body, blood vessels expand and blood flow increases, helping to decrease risk of plaque growth and blood clotting. This makes L-arginine ideal for those looking to improve cardiovascular health and sports performance. Arginine supports tissue repair and wound healing. It is also a highly important amino acid involved in both protein synthesis and achieving increased muscle mass. Research demonstrates that long-term supplementation with L-arginine may improve body composition and insulin sensitivity in people with glucose intolerance. To boost daily nutrition, simply mix with water or blend in your smoothie along with your other favourite powders from the CanPrev Powder System. Vegan and fermented. No fillers, no binders. Just what you have come to expect from CanPrev. So refine your routine and define your life.
+  Updated: 2026-04-12T19:56:13Z
+  Vendor: CanPrev
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_f5c2e296-9366-4316-a5c6-aabd4d945222.png?v=1736980637
+  Price: $43.99 CAD
+- [CanPrev L-Glutamine Vegan Amino Acid 450g](https://www.thevitaminstore.ca/products/l-glutamine-vegan-amino-acid): For muscle cell repair after exercise Supports immune and digestive health 5g of pure fermented L-Glutamine in every scoop L-Glutamine Vegan Amino Acid powder from CanPrev provides a high potency dose of pure, fermented L-glutamine in every scoop. As the most abundant amino acid in the body, glutamine is required to maintain the health of rapidly dividing cells including immune and gastrointestinal cells. Supplementation with glutamine also helps to repair muscle cells after exercise. To boost daily nutrition, simply mix with water or blend in your smoothie along with your other favourite powders from CanPrev Powder System. Vegan and fermented. No fillers, no binders. Just what you have come to expect from CanPrev. Refine your health and redefine your life.
+  Updated: 2026-04-12T19:56:07Z
+  Vendor: CanPrev
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_cd4fa5a3-00e2-4bd6-be92-758e7721c0dc.png?v=1736980681
+  Price: $42.99 CAD
+- [CanPrev L-Taurine Vegan Amino Acid 450g](https://www.thevitaminstore.ca/products/l-taurine-vegan-amino-acid): Most abundant intracellular amino acid Taurine is concentrated in the brain, eyes, heart and muscles Supplementation can become essential when the body is under strain Taurine is involved in helping transport key minerals in and out of cells Pure, fermented L-Taurine – nothing else L-Taurine Vegan Amino Acid powder from CanPrev provides a high potency dose of pure L-taurine in every scoop. Taurine is the most abundant amino acid in the body but is found in the highest concentrations in the brain, eyes, heart, muscles and leukocytes (immune cells). Taurine is a conditionally essential amino acid, which means that the body can produce it but needs to consume extra quantities when demand outpaces production. This can happen due to illness or during times of increased physical activity. Taurine has many critical roles throughout the body, including improved muscle performance and exercise capacity. To boost daily nutrition, simply mix with water or blend in your smoothie along with your other favourite powders from the CanPrev Powder System. Vegan. No fillers, no binders. Just what you have come to expect from CanPrev. Refine your routine. Define your life!
+  Updated: 2026-04-12T19:56:06Z
+  Vendor: CanPrev
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_e1e088a1-a916-40c1-8b3f-4299e5d2524c.png?v=1736980794
+  Price: $33.99 CAD
+- [CanPrev L-Tyrosine Vegan Amino Acid 220g](https://www.thevitaminstore.ca/products/l-tyrosine-vegan-amino-acid): L-tyrosine activates important neurotransmitters – optimizing brain function Tyrosine is the backbone for the hormones adrenaline and dopamine Tyrosine is a precursor to thyroid hormones T3 and T4 Used up quickly during times of mental and physical stress 5g of pure, fermented L-Tyrosine in every scoop Whether you’re training, healing, fighting fatigue, or simply seeking a daily boost of nutrition, you can turn to CanPrev’s Vegan Amino Acids to provide potent doses of the essential aminos building blocks you need. Pure, clean ingredients. 100% vegan. All of the good stuff with none of the bad. Just what you’ve come to expect from CanPrev. L-Tyrosine Vegan Amino Acid powder from CanPrev provides a high potency dose of pure, fermented L-tyrosine in every scoop. The body requires more tyrosine during periods of prolonged physical and mental stress. Maintaining adequate levels of Tyrosine can help to mitigate some of the negative effects of stress on the body. Tyrosine is a precursor to the thyroid hormones T3 and T4, which are responsible for healthy thyroid function and maintaining metabolism and energy. Tyrosine is also needed to make neurotransmitters such as dopamine, which is involved in feeling pleasure and motivation. During times of stress there is a decline in the levels of certain neurotransmitters. By mitigating this decline, l-tyrosine supplementation optimizes brain function and memory and helps to decrease cognitive fatigue. To boost daily nutrition, simply mix with water or blend in your smoothie along with your other favourite powders from the CanPrev Powder System. Vegan and fermented. No fillers, no binders. Just what you have come to expect from CanPrev. Revamp your regime. Redefine your life.
+  Updated: 2026-04-12T19:56:07Z
+  Vendor: CanPrev
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_eaef2ea0-c8a6-4b08-92cf-3e3f7a102765.png?v=1736980861
+  Price: $36.99 CAD
+- [CanPrev MuscleRescue - Pineapple Punch 162g](https://www.thevitaminstore.ca/products/musclerescue-pineapple-punch): Optimized essential amino acid (EAA) formula powered by Reginator® Features the most efficient ratio of EAAs plus L-arginine needed for protein synthesis and muscle regeneration Helps promote muscle growth and function at a low dose of amino acids Mix 1 scoop in 1-2 cups of water Pineapple Punch flavour 30 servings CanPrev’s MuscleRescue is an optimized formula powered by Reginator®, a proprietary blend featuring the most efficient ratio of essential amino acids (EAAs) needed for protein synthesis and muscle regeneration. In order to repair and build new muscle, we need sufficient complete proteins. Complete proteins are foods that contain all 9 EAAs – histidine, isoleucine, leucine, lysine, methionine, phenylalanine, threonine, tryptophan, and valine. The body breaks down the complete proteins we consume into amino acids, which help build new muscle, repair muscle tissue and support metabolism. Studies show roughly 1 scoop of MuscleRescue proves more effective in percentage increase for protein synthesis than whey protein. How? This scientifically proven precision blend leverages low-dose ratios of all nine EAAs plus arginine to provide the most effective outcome for muscle health. Besides improving muscle protein synthesis, researchers discovered its impact on preserving muscle function and strength after observing astronauts at NASA on deep space missions in zero-G environments. Whether you’re looking to enhance your post-workout regimen, gear up on a long-distance adventure, or preserve muscle strength during sedentary periods — choose MuscleRescue. The ultimate muscle-building formula.
+  Updated: 2026-04-12T19:56:07Z
+  Vendor: CanPrev
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_318e4eec-7522-49db-8bd9-c2c0239abbb7.png?v=1736982522
+  Price: $66.99 CAD
+- [CanPrev Myo-Inositol 500g](https://www.thevitaminstore.ca/products/myo-inositol): Mild sweet taste that mixes well with water Supports mood balance by modulating neurotransmitter receptor sensitivity Promotes healthy glucose metabolism Promotes ovulatory function, improves oocyte quality and menstrual regularity in those with Polycystic Ovarian Syndrome (PCOS) Studied clinically for use in eating disorders, mood imbalance and PCOS Closely related to the B-vitamin family CanPrev Myo-Inositol powder provides support for several bodily processes. Mood balance and brain function: Found in abundance in the brain, inositol is involved in neuronal signaling and the healthy regulation of several hormones and neurotransmitters. At 3 scoops, inositol helps to reduce feelings of low mood. It has been studied in anxiety, OCD, and eating disorders related to bingeing. Healthy glucose metabolism and hormone regulation: Inositol helps with the management of hormonal and metabolic conditions by promoting healthy glucose metabolism. In addition, it helps promote menstrual regularity, ovulatory function and improves oocyte quality in those with PCOS. Cardiovascular support: Inositol functions closely with choline in maintaining the health of cell membranes. It has lipotropic effects, which assists in the metabolism of fats, preventing lipid deposits in the cardiovascular system. No fillers, no binders. Just what you have come to expect from CanPrev.
+  Updated: 2026-04-12T19:56:07Z
+  Vendor: CanPrev
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_453a8830-85bc-40cc-b6e0-0d6f6032e9a9.png?v=1736982663
+  Price: $69.99 CAD
+- [CanPrev Hya Love - Hyaluronate for Hydration 60 Veggie Caps](https://www.thevitaminstore.ca/products/hya-love-hyaluronate-for-hydration): Helps increase and sustain skin hydration Aids in collagen formation for skin, hair and nails Promotes smooth, glowing skin Protects against oxidative damage caused by free radicals CanPrev’s Hya Love formula features Hyabest®, a form of hyaluronic acid known as sodium hyaluronate —clinically proven to enhance skin hydration. Hyaluronic acid occurs naturally in the dermal layer of skin and is responsible for keeping the epidermis looking plump and hydrated. However, our supply of hyaluronic acid depletes as we age, causing dryness in the skin and leading to more visible wrinkles. This hydrating formula combines sodium hyaluronate with Living Silica®, a highly bioavailable form of silicon derived from Nova Scotian quartz, plus biotin, L-lysine, and vitamin C for the ultimate skin support. Ideal for dry, aging skin that needs to lock in moisture. Sodium hyaluronate Produced through fermentation with a lower molecular weight as compared to conventional hyaluronic acid, sodium hyaluronate has similar benefits for increasing skin moisture within the deep layers of the skin. Bonus: It’s vegan-friendly! L-lysine As an amino acid, l-lysine is essential for the formation of collagen. With healthy collagen levels come improved skin elasticity and firmness, and speedier wound healing. Also, due to its anti-inflammatory properties, l-lysine may help to reduce acne swelling and redness. Vitamin C This antioxidant plays a key role in skin health, from supporting collagen production to preventing dry skin, protecting against sun damage, and promoting wound healing. Vitamin C further helps to fend off many common signs of aging like fine lines and sagging skin. Silicon Silicon is a mineral that’s necessary for collagen production. In addition to nail and hair health, silicon may also help to calm and soothe inflammatory skin conditions such as eczema and psoriasis. Biotin Vitamin B7, also commonly known as biotin is an essential nutrient for healthy skin, hair, and nails. It’s involved in nourishing and hydrating the skin due to its role in fatty acid formation, thus resulting in smoother, glowing skin.This combination of ingredients also helps encourage collagen production at the skin, providing a nourishing foundation for hydrated, plump, and radiant skin.
+  Updated: 2026-04-12T19:52:17Z
+  Vendor: CanPrev
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_4a7614f5-54dc-45dd-b19d-14dce42d5cdc.png?v=1736979815
+  Price: $42.99 CAD
+- [CanPrev Silicon + Biotin Liquid 500ml](https://www.thevitaminstore.ca/products/silicon-biotin-liquid): Features the world’s most soluble and absorbable source of silicon, LIVING SILICA® LIVING SILICA® was shown to be 3.5 times more absorbable than the next leading form of silicon LIVING SILICA® is truly a unique source of silicon LIVING SILICA® is a highly soluble monomeric silicon source that is both small and stable A nourishing combination of silicon and biotin to help maintain beautiful hair, skin and nails. Silicon Beauty features LIVING SILICA® silicon, a 100% soluble form derived from quartz. Scientifically proven to be one of the best sources of silicon in the world, LIVING SILICA® is better absorbed by the body than most other supplement sources, including colloidal, horsetail and bamboo forms.
+  Updated: 2026-04-12T19:52:17Z
+  Vendor: CanPrev
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_9330b19a-743a-4292-812f-186897adbe52.png?v=1736983771
+  Price: $34.99 CAD
+- [CanPrev Cramp Relief 120 Veggie Caps](https://www.thevitaminstore.ca/products/cramp-relief): Features cramp bark, an antispasmodic herb that helps relieves cramping Can be used for digestive, muscle and uterine cramps With Ginger, Sweet fennel, Skullcap, magnesium and vitamin B6 Relieves nervousness and tension associated with painful periods Targets pain in the lower back and thighs During a regular menstrual period, the uterus contracts to help remove its lining. Certain factors like hormone imbalances (higher levels of prostaglandins for example) can trigger increased uterine muscle contractions with inflammation, cramping and pain as a result. Cramp Relief is a comprehensive herbal and nutrient blend to relieve achy discomfort, pain and cramps that can come like clockwork with menstrual cycles. It features proven herbal remedies like potent cramp bark, to help target muscle and uterine muscle cramps. With sweet fennel and skullcap, to relieve restlessness and nervousness during painful periods. And, vitamin B6 and a blend of muscle supporting magnesium for additional tension relieving benefits, and to act as a sleep aid during times of stress. Ginger Ginger is traditionally associated with anti-nausea properties, but it has also been studied extensively for dysmenorrhea as well as effectively reducing menstrual pain when taken for the first 3-4 days of the menstrual cycle. Additionally, research suggests that ginger may decrease exercise-induced muscle soreness, improve post-exercise recovery, reduce migraine severity and duration, and reduce joint pain. Cassia cinnamon Cassia cinnamon is another herb that has been studied for its ability to improve dysmenorrhea symptoms. Multiple studies have shown that cassia cinnamon is capable of reducing the severity of menstrual pain, associated nausea and vomiting, while also reducing the amount of menstrual bleeding. Both ginger, and cinnamon have been studied head-to-head against NSAID medications and have proven effective with an impressive safety profile. Magnesium and Vitamin B6 When combined with magnesium vitamin B6 has been shown to reduce symptoms such as nervous tension, mood swings and irritability, pain perception. Can be used pre-menstrual cycle for cramps, daily as needed for digestive cramping, in the evening for muscle cramps.
+  Updated: 2026-04-12T19:52:17Z
+  Vendor: CanPrev
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_31080235-074c-4056-bef1-37761844b8df.png?v=1736978393
+  Price: $39.99 CAD
+- [CanPrev Healthy Hormones 60 Veggie Caps](https://www.thevitaminstore.ca/products/healthy-hormones): Relieves menstrual cycle symptoms and PMS Relieves pain, breast tenderness and nervous tension Includes 400mg of Indole-3-carbinol to detoxify harmful estrogen by-products For estrogen dominance related conditions Hormones travel through your blood stream carrying chemical messages to tissues and organs, telling them what to do. They are made by the endocrine glands which include the pituitary, pineal, thymus, thyroid and adrenal glands and the pancreas. Men’s hormones are produced in the testes and women’s in the ovaries. Hormones work slowly but steadily and affect growth and development, reproduction,  function, mood and metabolism. They can also influence how the immune system works and modify a person’s behaviour. Hormones need to be balanced. Too much or too little can cause distinct changes that affect your entire body. Endocrine disruptors are chemicals that can affect hormone balance. They can interfere with hormones that are on their way to binding with their receptors, which can wreak havoc and alter the development in an embryo or change how they should function in an  body. Estrogen dominance is a common hormonal imbalance that can occur in women. It is characterized by excess estrogen and low progesterone in the body. Common female estrogen dominant conditions include PMS, endometriosis, ovarian cysts, uterine fibroids, cystic breasts, heavy periods, hormonal acne and severe menopausal symptoms among others. Healthy Hormones™ is an all natural formula designed to help stabilize menstrual cycle irregularities and relief of PMS. It contains a clinically significant 400 mg daily dose of indole-3-carbinol. Take for a minimum of 3 months. Periodic intervals of abstinence (2 week breaks before continuing) is recommended for long-term use. Other key nutrients and herbs in the formula work synergistically to ease PMS and normalize hormones.
+  Updated: 2026-04-12T19:52:17Z
+  Vendor: CanPrev
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_c9725181-48e4-4c56-8652-8f90eb42a2de.png?v=1736979628
+  Price: $42.99 CAD
+- [CanPrev I-3-C 200 90 Veggie Caps](https://www.thevitaminstore.ca/products/i-3-c-200): 200mg dose of pure indole-3 carbinol in every capsule Antioxidant that stimulates the production of enzymes that detoxifies and protects cells from oxidative damage On days when you don’t have time to steam broccoli or prepare a kale salad, you can still get important health benefits from cruciferous vegetables in CanPrev’s I-3-C 200. Phytonutrients in broccoli, kale, brussels sprouts, bok choy and cauliflower contain indole-3-carbinol (I-3-C), a strong antioxidant that not only repairs cells damaged by free radicals, but more importantly, has been shown to suppress the development of xenoestrogens, or “bad” estrogens. Xenoestrogens are chemically-based, man-made estrogens that are found in everything from our food, drinking water, cleaning products and plastics to deodorants, pharmaceuticals and beyond. These imitation estrogens build up in fatty tissue in women and men and over time cause estrogen overload or estrogen dominance. The result? Xenoestrogens have been linked to the development of fibroids, tumours and cysts and many more serious diseases. I-3-C works by improving the ratio of circulating “good” estrogens to “bad” estrogens in the body. Research suggests that I-3-C aids the bad estrogen detoxification process by altering how the body actually breaks down estrogen itself. It favours the pathway (a sequence of reactions where one organic substance is converted to another) that produces more good estrogen and it acts as a potent antioxidant by scavenging potentially damaging chemicals or toxins. Research also points to the fact that I-3-C helps the liver to make a more favourable form of estrogen known as 2-OH and less of a more damaging estrogen known as 16-OH. In human studies, an increase in 16-OH has been linked to PMS, polycystic ovarian syndrome, cervical dysplasia and the development of fibroids. In contrast, 2-OH estrogen has not been linked with any of these negative health effects. Oral supplementation with I-3-C has been found in clinical trials to increase the amount of circulating 2-OH estrogen without any reports of toxicity, making it very safe and easy to take. CanPrev’s I-3-C 200 delivers a therapeutic 200 mg dose of pure indole-3-carbinol in every capsule. Maybe you’re short on time, maybe you experience gas and bloating that sometimes accompanies eating cruciferous vegetables. I-3-C 200 gives you the antioxidant and healthy estrogen metabolism benefits you need quickly and without the uncomfortable side effects.
+  Updated: 2026-04-12T19:52:17Z
+  Vendor: CanPrev
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_23917750-ef5c-404a-a24d-c38b5b981072.png?v=1736979864
+  Price: $29.99 CAD
+- [CanPrev Iron Bis-Glycinate 20 90 Veggie Caps](https://www.thevitaminstore.ca/products/iron-bis-glycinate-20): Easy to absorb iron complex with 20mg of iron per capsule High absorption rate without bowel irritation Vitamins C, B6, B12, folic acid, magnesium and copper to help maximize absorption It’s a surprising fact that out of all the nutrients, iron happens to be the one women in North America are most deficient in. 35 to 58 percent of young, healthy females experience some degree of low iron levels and the number goes slightly higher during pregnancy. Fatigue, a weakened immune system and impaired brain activity are all symptoms of iron deficiency. By the time you’re diagnosed with anaemia, your iron levels can be in the danger zone. A low iron count means your body isn’t making enough healthy red blood cells to deliver oxygen from your lungs to your body’s tissues. About 70 percent of the body’s iron is contained in the blood in the form of hemoglobin, a protein in red blood cells that carries and delivers oxygen to tissues in the body for survival. Myoglobin, a protein in the heart and skeletal muscles, also requires iron to function efficiently. Iron is needed for several key enzymes to assist in energy production and metabolism, particularly in DNA construction. Taking a daily iron supplement is a quick and easy way to pump the body’s stores, but not all supplements are free from uncomfortable side effects like constipation, diarrhoea, stomach upset and nausea. CanPrev’s Iron Bis-Glycinate 20 contains iron bisglycinate, a chelated iron that is easy to absorb, gentle on the stomach and doesn’t cause gastrointestinal upset like those that contain ferrous sulphate can. Each 20 mg capsule of elemental iron is enhanced with vitamins C, B6, B12 and folic acid, all cofactors that help in the absorption and assimilation of iron for the production of healthy red blood cells.
+  Updated: 2026-04-12T19:52:17Z
+  Vendor: CanPrev
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_d163f93f-167d-4ed5-b738-41dcfd4fd9c1.png?v=1736980133
+  Price: $29.99 CAD
+- [CanPrev Prenatal Multi 120 Veggie Caps](https://www.thevitaminstore.ca/products/prenatal-multi): Full spectrum of 24 vitamins and minerals Therapeutic doses to target the nutritional needs of pregnancy and prenatal development 1mg of 5-methyltetrahydrofolate (5-MTHF), the active form of folate Take two (2) capsules, two (2) times per day with food 45mg of easy to absorb, iron in total daily dose 100IU of vitamin D3 per capsule There’s a lot to consider when you’re planning a pregnancy and your increased nutritional needs is an important detail you won’t want to miss. Before you even conceive, your naturopathic or family doctor will likely recommend taking a good quality prenatal multivitamin like CanPrev’s Prenatal Multi. Prenatal multivitamins are different from regular multivitamins. They’re specifically formulated to prepare your body for pregnancy to support the developing nutritional needs of you and your fetus. They contain more folic acid to help prevent spina bifida (a condition impacting the spine) and anencephaly (a brain and skull defect) that can happen early in pregnancy when the neural tube and spine don’t fuse properly. Prenatal vitamins typically also contain more iron than standard multivitamins. Iron supports fetal growth and development and helps prevent anemia, a condition where the blood lacks enough healthy red blood cells. Some research also suggests that prenatal vitamins reduce the risk of low birth weight. CanPrev’s Prenatal Multi is specially formulated with nutrients critical for those who are pregnant and nursing. It provides 24 vitamins and minerals, including folic acid, calcium, magnesium, and a gentle form of iron to support the developing nutritional needs of both mother and fetus. Prenatal Multi helps to reduce the risk of neural tube defects when taken daily, prior to and during early pregnancy and aids in the development of tissues, red blood cells, and bones.
+  Updated: 2026-04-12T19:52:17Z
+  Vendor: CanPrev
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_40ecffd2-3c65-401b-a7a6-07fd7cc6620d.png?v=1736983152
+  Price: $29.99 CAD
+- [CanPrev Prime Fertility (formerly Prime Cycle) - Wild Berry Lemonade 291g](https://www.thevitaminstore.ca/products/prime-cycle): A natural way to prime your ovulation phase Improves oocyte quality & ovulatory function With 5-MTHF, inositol, choline, CoQ10 & antioxidants Ovulation is characterized as the process of a mature egg being released from the ovary. This egg can then be fertilized by a sperm to initiate pregnancy. But, did you know that the quality of egg you’ll ovulate in 90 days is affected by what you’re doing today? Your behaviour, environment, and overall health have an impact on ovulation and egg quality. And when it comes to fertility, egg quality is at the heart of success. While we can’t control how many eggs we’re born with, we can influence their quality through a healthy lifestyle and supportive nutrients to maximize fertility and improve our chances of conception. CanPrev’s Prime Cycle formula includes a therapeutic dose of myo-inositol to help support insulin sensitivity, a common factor behind PCOS which can impact fertility, while encouraging better egg quality and ovulation. Essential antioxidants like coenzyme Q10, pyrroloquinoline quinone and N-acetyl cysteine are added to help support cellular health and reduce oxidative damage. And chastetree extract to help balance hormones, active folate and choline for neural health and cellular development. Whether you’re looking to support your reproductive health, balance hormones, your cycle, or prime for pregnancy, Prime Cycle formula is here to help.
+  Updated: 2026-04-12T19:52:17Z
+  Vendor: CanPrev
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_5fe092e0-8503-4344-b213-b54b04618b14.png?v=1736983194
+  Price: $84.99 CAD
+[List Continued](https://www.thevitaminstore.ca/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5Njg0MjkzOTc2MzU5LCJsYXN0X3ZhbHVlIjoiOTY4NDI5Mzk3NjM1OSJ9)
 
 ## Collections
 
 - [Adrenal & Neuroendocrine](https://www.thevitaminstore.ca/collections/curcumin): Adrenal and neuroendocrine supplements support the adrenal glands and neuroendocrine system. They help manage stress, enhance energy levels, and balance hormones. Ingredients often include adaptogens like ashwagandha, vitamins, and amino acids to promote resilience, reduce fatigue, and improve overall well-being.
-  Updated: 2026-04-10T11:31:26Z
+  Updated: 2026-04-17T02:50:10Z
   Total Products: 11
 - [Allergy Supporting the immune system](https://www.thevitaminstore.ca/collections/allergy): Allergy supplements aim to reduce allergy symptoms by supporting the immune system. They often contain ingredients like quercetin, bromelain, stinging nettle, and vitamin C, which help reduce inflammation, histamine release, and improve respiratory health, providing natural relief from seasonal and environmental allergies.
-  Updated: 2026-04-14T12:35:29Z
+  Updated: 2026-04-17T02:50:10Z
   Total Products: 7
 - [Amino Acids](https://www.thevitaminstore.ca/collections/amino-acids): Amino acid supplements provide essential building blocks for protein synthesis, supporting muscle growth, recovery, and overall health. Key ingredients like BCAAs, glutamine, and arginine boost protein synthesis, reduce muscle soreness, and enhance athletic performance. Ideal for athletes and those seeking improved physical and cognitive function.
-  Updated: 2026-04-11T11:30:43Z
+  Updated: 2026-04-20T11:23:30Z
   Total Products: 8
 - [Antioxidants](https://www.thevitaminstore.ca/collections/antioxidants): Antioxidant supplements protect cells from oxidative stress and damage caused by free radicals. Key ingredients include vitamins C and E, selenium, and compounds like resveratrol and green tea extract. These supplements support immune function, promote healthy aging, and reduce the risk of chronic diseases. Ideal for overall health and wellness.
-  Updated: 2026-04-11T11:30:43Z
+  Updated: 2026-04-20T11:23:30Z
   Total Products: 14
 - [Blood Sugar](https://www.thevitaminstore.ca/collections/blood-sugar): Blood sugar supplements help maintain healthy glucose levels and support metabolic function. They often contain ingredients like chromium, berberine, cinnamon, and alpha-lipoic acid. These supplements enhance insulin sensitivity, reduce sugar cravings, and promote balanced energy levels, aiding in the management of blood sugar-related conditions.
-  Updated: 2026-04-08T11:36:04Z
+  Updated: 2026-04-17T02:50:08Z
   Total Products: 13
 - [Bone & Joint](https://www.thevitaminstore.ca/collections/bone-joint): Bone and joint supplements support skeletal health and joint function. They often contain calcium, vitamin D, glucosamine, chondroitin, and MSM. These ingredients work together to strengthen bones, reduce inflammation, and improve joint flexibility and mobility, making them ideal for individuals seeking to maintain or enhance musculoskeletal health.
-  Updated: 2026-04-07T11:27:28Z
+  Updated: 2026-04-17T02:50:04Z
   Total Products: 13
 - [Cardiovascular](https://www.thevitaminstore.ca/collections/cardiovascular): Cardiovascular supplements support heart health and circulation. They typically contain omega-3 fatty acids, CoQ10, garlic, and antioxidants. These ingredients help lower cholesterol, reduce blood pressure, and improve overall cardiovascular function. Ideal for those seeking to maintain heart health, enhance circulation, and reduce the risk of heart disease.
-  Updated: 2026-04-11T11:30:43Z
+  Updated: 2026-04-21T11:29:00Z
   Total Products: 20
 - [Brain & Memory Support](https://www.thevitaminstore.ca/collections/cognitive-neural): Cognitive and neural supplements enhance brain function and support mental clarity. They often include ingredients like omega-3 fatty acids, ginkgo biloba, phosphatidylserine, and Bacopa monnieri. These components improve memory, focus, and overall cognitive performance, making them ideal for individuals seeking to boost mental sharpness and protect brain health.
-  Updated: 2026-04-11T11:30:43Z
+  Updated: 2026-04-21T11:29:00Z
   Total Products: 17
 - [Hair, Skin & Nails](https://www.thevitaminstore.ca/collections/dermatology): Dermatology supplements promote healthy skin, hair, and nails. Key ingredients like biotin, collagen, vitamins A, C, and E, and hyaluronic acid support skin hydration, elasticity, and repair. These supplements reduce signs of aging, strengthen hair and nails, and improve overall dermatological health for a radiant appearance.
-  Updated: 2026-04-04T21:54:54Z
+  Updated: 2026-04-17T02:49:58Z
   Total Products: 10
 - [Detoxification](https://www.thevitaminstore.ca/collections/detoxification): Detoxification supplements aid in cleansing the body of toxins and supporting liver function. They often contain ingredients like milk thistle, dandelion root, chlorella, and antioxidants. These components enhance the body's natural detox processes, boost energy levels, and promote overall health, making them ideal for detox routines.
-  Updated: 2026-04-08T11:36:04Z
+  Updated: 2026-04-17T02:50:07Z
   Total Products: 8
 - [Energy supplements boost](https://www.thevitaminstore.ca/collections/energy): Energy supplements boost vitality and combat fatigue. They typically include ingredients like B vitamins, ginseng, and L-carnitine. These components enhance physical and mental energy, improve endurance, and support overall vitality. Ideal for individuals needing an extra energy boost for daily activities, workouts, or demanding schedules.
-  Updated: 2026-04-14T12:40:36Z
+  Updated: 2026-04-17T02:49:57Z
   Total Products: 7
 - [Essential Fatty Acids](https://www.thevitaminstore.ca/collections/essential-fatty-acids): Essential fatty acid supplements support heart, brain, and joint health. They contain omega-3, omega-6, and omega-9 fatty acids, typically derived from fish oil, flaxseed, or algae. These supplements reduce inflammation, improve cardiovascular function, and enhance cognitive performance, making them ideal for overall health and well-being.
-  Updated: 2026-04-07T11:27:28Z
+  Updated: 2026-04-17T02:49:49Z
   Total Products: 9
 - [Eye Health](https://www.thevitaminstore.ca/collections/eye-health): Eye health supplements support vision and protect against age-related eye conditions. They often contain ingredients like lutein, zeaxanthin, vitamins A, C, and E, and omega-3 fatty acids. These nutrients enhance visual acuity, reduce oxidative stress, and promote overall eye health, making them ideal for maintaining optimal vision.
-  Updated: 2026-04-04T21:56:02Z
+  Updated: 2026-04-17T02:49:50Z
   Total Products: 8
 - [Fertility Supplements](https://www.thevitaminstore.ca/collections/fertility): Fertility supplements enhance reproductive health and support conception. They often include ingredients like folic acid, zinc, CoQ10, and antioxidants. These nutrients improve egg and sperm quality, regulate hormonal balance, and boost overall reproductive function, making them ideal for individuals or couples trying to conceive.
-  Updated: 2026-04-14T12:41:17Z
+  Updated: 2026-04-17T02:50:01Z
   Total Products: 18
 - [Fiber](https://www.thevitaminstore.ca/collections/fiber): Fiber supplements promote digestive health and regularity. They often contain soluble and insoluble fibers like psyllium husk, inulin, and methylcellulose. These supplements aid in digestion, prevent constipation, and support gut health. Ideal for individuals seeking to enhance their dietary fiber intake for improved digestive function and overall well-being.
-  Updated: 2026-04-08T11:36:04Z
+  Updated: 2026-04-17T02:49:53Z
   Total Products: 3
 - [Gastrointestinal](https://www.thevitaminstore.ca/collections/gastrointestinal): Gastrointestinal supplements support digestive health and function. They often include probiotics, digestive enzymes, and ingredients like ginger and peppermint. These components help balance gut flora, improve nutrient absorption, and reduce digestive discomfort, making them ideal for maintaining a healthy digestive system and alleviating issues like bloating and indigestion.
-  Updated: 2026-04-08T11:36:04Z
+  Updated: 2026-04-19T11:25:42Z
   Total Products: 21
 - [Herbal Formulations](https://www.thevitaminstore.ca/collections/herbal-formulations): Herbal formulation supplements harness the power of natural herbs to support overall health. They often include blends like turmeric, echinacea, ashwagandha, and ginseng. These supplements promote immune function, reduce inflammation, enhance energy, and support stress management, making them ideal for those seeking natural, holistic wellness solutions.
-  Updated: 2026-04-08T11:36:04Z
+  Updated: 2026-04-19T11:25:42Z
   Total Products: 10
 - [Immune Support](https://www.thevitaminstore.ca/collections/immune-antu-microbial): Immune and antimicrobial supplements boost immune defense and combat infections. They often contain ingredients like vitamin C, zinc, elderberry, and echinacea. These components enhance immune function, reduce the duration of colds, and provide antimicrobial benefits, making them ideal for maintaining overall health and protecting against illnesses.
-  Updated: 2026-04-04T21:56:02Z
+  Updated: 2026-04-19T11:25:42Z
   Total Products: 26
 - [Medicinal Mushrooms](https://www.thevitaminstore.ca/collections/medicinal-mushrooms): Medicinal mushroom supplements support immune function, cognitive health, and overall wellness. They often contain varieties like reishi, shiitake, lion's mane, and cordyceps. These mushrooms provide antioxidants, enhance brain function, boost energy, and reduce inflammation, making them ideal for individuals seeking natural, holistic health benefits.
-  Updated: 2026-04-09T11:29:20Z
+  Updated: 2026-04-17T02:50:08Z
   Total Products: 9
 - [Men's Health](https://www.thevitaminstore.ca/collections/mens-health): Men's health supplements support overall wellness, energy, and vitality. They often include ingredients like saw palmetto, zinc, vitamin D, and ginseng. These supplements enhance prostate health, boost testosterone levels, improve energy and stamina, and support cardiovascular and immune function, making them ideal for maintaining men's health.
-  Updated: 2026-04-11T11:30:43Z
+  Updated: 2026-04-20T11:23:30Z
   Total Products: 18
 - [Mental Health](https://www.thevitaminstore.ca/collections/mental-health): Mental health supplements support emotional well-being and cognitive function. They often contain ingredients like omega-3 fatty acids, B vitamins, magnesium, and adaptogens like ashwagandha. These supplements help reduce stress, improve mood, enhance mental clarity, and support overall brain health, making them ideal for those seeking to boost mental wellness.
-  Updated: 2026-04-11T11:30:43Z
+  Updated: 2026-04-20T11:23:30Z
   Total Products: 25
 - [Pain & Inflammation](https://www.thevitaminstore.ca/collections/pain-inflammation): Pain and inflammation supplements alleviate discomfort and support joint health. They often contain ingredients like turmeric, omega-3 fatty acids, glucosamine, and MSM. These components reduce inflammation, relieve pain, and enhance mobility, making them ideal for individuals managing chronic pain, arthritis, or seeking overall anti-inflammatory benefits.
-  Updated: 2026-04-04T21:46:06Z
+  Updated: 2026-04-17T02:50:03Z
   Total Products: 14
 - [Pediatrics](https://www.thevitaminstore.ca/collections/pediatrics): Pediatric supplements support children's growth and development. They often include vitamins A, C, D, calcium, and omega-3 fatty acids. These nutrients boost immune health, enhance bone growth, improve cognitive function, and fill dietary gaps, ensuring children receive essential nutrients for optimal health and development.
-  Updated: 2026-04-04T21:49:36Z
+  Updated: 2026-04-17T02:50:09Z
   Total Products: 4
 - [Probiotics](https://www.thevitaminstore.ca/collections/probiotics): Probiotic supplements support digestive and immune health by introducing beneficial bacteria into the gut. They often contain strains like Lactobacillus and Bifidobacterium. These supplements improve gut flora balance, enhance digestion, reduce bloating, and boost immune function, making them ideal for maintaining a healthy digestive system and overall wellness.
-  Updated: 2026-04-09T11:29:20Z
+  Updated: 2026-04-17T02:50:09Z
   Total Products: 8
 - [Prebiotics](https://www.thevitaminstore.ca/collections/prebiotics): Prebiotic supplements support gut health by nourishing beneficial bacteria. They often contain ingredients like inulin, fructooligosaccharides (FOS), and galactooligosaccharides (GOS). These supplements enhance digestion, improve nutrient absorption, and boost immune function, making them ideal for maintaining a balanced gut microbiome and promoting overall digestive health.
   Updated: 2026-04-04T21:40:50Z
@@ -1876,55 +1791,55 @@
   Updated: 2026-04-04T21:27:38Z
   Total Products: 3
 - [SIBO supplements](https://www.thevitaminstore.ca/collections/sibo): SIBO supplements target small intestinal bacterial overgrowth, promoting gut health and reducing symptoms. They often contain berberine, oregano oil, probiotics, and digestive enzymes. These ingredients help balance gut bacteria, improve digestion, and reduce bloating and discomfort, making them ideal for individuals managing SIBO and seeking improved digestive health.
-  Updated: 2026-04-14T12:42:52Z
+  Updated: 2026-04-17T02:50:07Z
   Total Products: 5
 - [Sleep & Relaxation](https://www.thevitaminstore.ca/collections/sleep-relaxation): Sleep and relaxation supplements promote restful sleep and stress relief. They often contain ingredients like melatonin, valerian root, magnesium, and L-theanine. These components enhance sleep quality, reduce anxiety, and support relaxation, making them ideal for individuals seeking to improve their sleep patterns and overall well-being.
-  Updated: 2026-04-11T11:30:43Z
+  Updated: 2026-04-20T11:23:30Z
   Total Products: 10
 - [Protein Supplements](https://www.thevitaminstore.ca/collections/targeted-therapy): Targeted therapy supplements address specific health concerns. They often include specialized ingredients like curcumin, resveratrol, glucosamine, and CoQ10. These supplements support particular needs such as joint health, cardiovascular function, or inflammation reduction, making them ideal for individuals seeking focused, condition-specific health benefits.
-  Updated: 2026-04-14T12:42:26Z
+  Updated: 2026-04-20T11:23:30Z
   Total Products: 10
 - [Urinary/Kidney & Liver](https://www.thevitaminstore.ca/collections/urinary-kidney-liver): Urinary, kidney, and liver supplements support detoxification and organ health. They often contain ingredients like cranberry extract, dandelion root, milk thistle, and uva ursi. These supplements enhance urinary tract function, promote liver detoxification, and protect kidney health, making them ideal for maintaining overall detox and organ wellness.
-  Updated: 2026-04-04T21:37:40Z
+  Updated: 2026-04-17T02:50:05Z
   Total Products: 10
 - [Vitamins & Minerals](https://www.thevitaminstore.ca/collections/vitamins-minerals): Vitamin and mineral supplements provide essential nutrients to support overall health. They typically include a blend of vitamins A, C, D, E, B-complex, and minerals like calcium, magnesium, and zinc. These supplements boost immune function, enhance energy, and fill dietary gaps, ensuring optimal nutrition and well-being.
-  Updated: 2026-04-10T11:31:26Z
+  Updated: 2026-04-17T02:50:04Z
   Total Products: 17
 - [Women's Health](https://www.thevitaminstore.ca/collections/womens-health): Women's health supplements support overall wellness, hormonal balance, and reproductive health. They often include ingredients like folic acid, iron, calcium, and evening primrose oil. These supplements enhance energy, improve bone health, and support menstrual and menopausal health, making them ideal for women seeking comprehensive health and well-being.
-  Updated: 2026-04-09T11:29:20Z
+  Updated: 2026-04-17T02:50:05Z
   Total Products: 25
 - [Weight Management](https://www.thevitaminstore.ca/collections/weight-management): Weight management supplements support healthy weight loss and maintenance. They often contain ingredients like green tea extract, garcinia cambogia, CLA, and fiber. These components boost metabolism, reduce appetite, enhance fat burning, and promote satiety, making them ideal for individuals seeking to achieve and maintain a healthy weight.
-  Updated: 2026-04-08T11:36:04Z
+  Updated: 2026-04-17T02:49:55Z
   Total Products: 14
 - [Omega Oils](https://www.thevitaminstore.ca/collections/omega-oils): Shop high-quality omega oils and essential fatty acids at The Vitamin Store. Discover a premium selection of fish oils, salmon oil, and vegan omega-3 supplements from trusted brands to support heart, brain, and joint health. Enjoy the lowest prices in Canada and free shipping on qualifying orders.
-  Updated: 2026-04-14T11:31:45Z
+  Updated: 2026-04-17T02:50:10Z
   Total Products: 8
 - [Probiotic Blends](https://www.thevitaminstore.ca/collections/probiotic-blends): Shop a wide selection of premium probiotic blends and supplements at The Vitamin Store. Improve your digestive health with high-quality, natural formulas from trusted brands at Canada's  lowest prices. Enjoy free shipping on qualifying orders across Canada.
-  Updated: 2026-04-14T11:34:06Z
+  Updated: 2026-04-17T02:50:09Z
   Total Products: 9
 - [Vitamin D supplements](https://www.thevitaminstore.ca/collections/vitamin-d): Explore a wide selection of premium Vitamin D supplements at The Vitamin Store. Support your bone health, immune system, and overall wellness with high-quality D3 drops, softgels, and tablets. Enjoy fast shipping on all Canadian orders.
-  Updated: 2026-04-14T12:47:21Z
+  Updated: 2026-04-20T11:23:30Z
   Total Products: 30
 - [Antioxidants](https://www.thevitaminstore.ca/collections/antioxidants-1): Shop a wide selection of premium antioxidant supplements at The Vitamin Store. Protect your cellular health with high-quality products like CoQ10, Resveratrol, and Turmeric, all available with free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:14:40Z
+  Updated: 2026-04-20T11:23:30Z
   Total Products: 30
 - [Collagen Supplements](https://www.thevitaminstore.ca/collections/collagen): Shop high-quality collagen supplements at The Vitamin Store. Discover a variety of bovine and marine collagen powders and capsules to support healthy skin, hair, nails, and joint health. Enjoy competitive prices and free shipping on qualifying Canadian orders.
   Updated: 2026-04-14T12:38:27Z
   Total Products: 3
 - [Stress Relief](https://www.thevitaminstore.ca/collections/stress-relief): Find effective stress relief supplements and natural remedies at The Vitamin Store. Shop our curated collection of Ashwagandha, L-Theanine, magnesium, and GABA to support relaxation and mental well-being. Enjoy competitive prices and free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:36:41Z
+  Updated: 2026-04-20T11:23:30Z
   Total Products: 23
 - [Best Sellers](https://www.thevitaminstore.ca/collections/best-sellers)
   Updated: 2026-04-07T11:27:28Z
   Total Products: 4
 - [NFH](https://www.thevitaminstore.ca/collections/nfh): Shop a comprehensive selection of NFH supplements at The Vitamin Store. From Prenatal SAP to ProBio SAP and Magnesium SAP, discover high-quality, research-driven vitamins and formulas designed for optimal health. Enjoy free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:31:30Z
-  Total Products: 126
+  Updated: 2026-04-21T11:29:00Z
+  Total Products: 125
 - [CanPrev Supplements](https://www.thevitaminstore.ca/collections/canprev): Shop CanPrev supplements at The Vitamin Store. Discover a wide selection of high-quality, natural health products designed to support your wellness journey. Enjoy competitive prices and free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T12:38:03Z
+  Updated: 2026-04-21T11:29:00Z
   Total Products: 176
 - [Cyto-Matrix](https://www.thevitaminstore.ca/collections/cyto-matrix): Shop Cyto-Matrix supplements at The Vitamin Store. Browse our high-quality selection of professional-grade vitamins, minerals, and natural health products designed to support your wellness journey. Enjoy free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:23:21Z
+  Updated: 2026-04-21T11:29:00Z
   Total Products: 150
 - [Orange Naturals](https://www.thevitaminstore.ca/collections/orange-naturals): Shop the Orange Naturals collection at The Vitamin Store for high-quality, family-friendly supplements. Explore a wide range of vitamins, minerals, and natural remedies designed to support kids, women's wellness, and daily health. Free shipping on qualifying Canadian orders.
   Updated: 2026-04-14T11:32:08Z
@@ -1933,76 +1848,76 @@
   Updated: 2026-04-14T11:27:51Z
   Total Products: 4
 - [Health Topics](https://www.thevitaminstore.ca/collections/health-topics): Explore a wide range of natural health topics and find the best supplements for your wellness journey at The Vitamin Store. From immune support to skin health, discover high-quality vitamins and minerals with free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:26:29Z
-  Total Products: 824
+  Updated: 2026-04-21T11:29:00Z
+  Total Products: 814
 - [Acne Skincare Solutions](https://www.thevitaminstore.ca/collections/acne): Shop natural acne treatments and supplements at The Vitamin Store. Discover effective, high-quality vitamins and skincare solutions to help clear your skin and promote a healthy complexion. Free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T12:34:06Z
+  Updated: 2026-04-20T11:23:30Z
   Total Products: 19
 - [Adrenal Fatigue](https://www.thevitaminstore.ca/collections/adrenal-fatigue): Support your body's response to stress with adrenal fatigue supplements from The Vitamin Store. Browse our selection of natural vitamins and formulas designed to boost energy and restore balance. Free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:11:38Z
+  Updated: 2026-04-17T02:49:57Z
   Total Products: 43
 - [pH Imbalance](https://www.thevitaminstore.ca/collections/ph-imbalance): Shop natural pH balancing supplements and vitamins at The Vitamin Store. Discover high-quality solutions like magnesium, potassium citrate, and alkalizing formulas to support your body's pH balance. Enjoy free shipping on qualifying Canadian orders.
   Updated: 2026-04-14T11:33:51Z
   Total Products: 14
 - [Allergies Supplements and Vitamins](https://www.thevitaminstore.ca/collections/allergies): Find natural allergy relief at The Vitamin Store. Browse our selection of high-quality supplements and vitamins designed to help manage seasonal allergies and support your immune system. Enjoy free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T12:34:50Z
+  Updated: 2026-04-17T02:49:56Z
   Total Products: 17
 - [Andropause & Low Testosterone](https://www.thevitaminstore.ca/collections/andropause-low-testosterone): Shop natural supplements for andropause and low testosterone at The Vitamin Store. Discover high-quality vitamins and targeted formulas designed to support male hormonal health and vitality. Enjoy free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:13:36Z
+  Updated: 2026-04-21T11:29:00Z
   Total Products: 20
 - [Anti-aging Supplements](https://www.thevitaminstore.ca/collections/anti-aging-supplements): Shop the best anti-aging supplements and longevity vitamins at The Vitamin Store. Discover high-quality formulas like resveratrol, NMN, and collagen designed to support healthy aging and cellular energy. Enjoy premium natural health products with free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:23:21Z
+  Updated: 2026-04-17T11:31:29Z
   Total Products: 11
 - [Natural Anxiety Supplements](https://www.thevitaminstore.ca/collections/anxiety): Shop natural anxiety supplements and herbal remedies at The Vitamin Store. Discover effective solutions like Ashwagandha, L-Theanine, and Magnesium to support mood and stress relief. Enjoy free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T12:36:11Z
+  Updated: 2026-04-20T11:23:30Z
   Total Products: 41
 - [ADD / ADHD](https://www.thevitaminstore.ca/collections/add-adhd): Find a natural approach to managing ADD and ADHD at The Vitamin Store. Browse our selection of high-quality supplements and vitamins designed to support focus and cognitive health. Enjoy free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:10:44Z
+  Updated: 2026-04-17T02:49:57Z
   Total Products: 32
 - [Arthritis High-quality supplements](https://www.thevitaminstore.ca/collections/arthritis): Manage arthritis pain naturally with high-quality supplements from The Vitamin Store. Explore our curated collection of vitamins, minerals, and herbal remedies designed to support joint health and mobility. Shop now for effective relief and enjoy free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T12:36:49Z
+  Updated: 2026-04-20T11:23:30Z
   Total Products: 38
 - [Asthma Supplements](https://www.thevitaminstore.ca/collections/asthma): Shop natural asthma supplements and respiratory health solutions at The Vitamin Store. Discover high-quality vitamins and professional-grade formulas to support lung function and manage symptoms. Enjoy free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T12:37:24Z
+  Updated: 2026-04-17T11:31:29Z
   Total Products: 7
 - [Candida (Yeast Infection)](https://www.thevitaminstore.ca/collections/candida-yeast-infection): Shop natural candida and yeast infection supplements at The Vitamin Store. Discover effective, high-quality vitamins, probiotics, and herbal formulas like oregano oil and caprylic acid to help restore balance and support digestive health. Free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:16:33Z
+  Updated: 2026-04-17T02:50:07Z
   Total Products: 12
 - [Cholesterol](https://www.thevitaminstore.ca/collections/cholesterol): Support heart health and manage lipid levels with premium cholesterol supplements from The Vitamin Store. Browse our selection of plant sterols, niacin, lecithin, and specialized formulas like red yeast rice and bergamine to maintain healthy cholesterol and triglyceride levels. Enjoy fast shipping on top-quality wellness brands across Canada.
-  Updated: 2026-04-14T11:17:41Z
+  Updated: 2026-04-20T11:23:29Z
   Total Products: 11
 - [Cold and Flu](https://www.thevitaminstore.ca/collections/cold-and-flu): Shop natural cold and flu supplements at The Vitamin Store to boost your immunity and relieve symptoms. Discover a wide range of vitamins, elderberry syrups, and herbal remedies with free shipping on qualifying Canadian orders.
   Updated: 2026-04-14T11:18:12Z
   Total Products: 12
 - [Cold Sores](https://www.thevitaminstore.ca/collections/cold-sores): Shop natural cold sore treatments and supplements at The Vitamin Store. Discover effective solutions like L-Lysine, Zinc, and healing ointments to manage outbreaks and support your immune system. Enjoy free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:18:31Z
+  Updated: 2026-04-20T11:23:30Z
   Total Products: 14
 - [Constipation](https://www.thevitaminstore.ca/collections/constipation): Shop natural constipation relief supplements and vitamins at The Vitamin Store. Discover high-quality, effective solutions to support healthy digestion and regularity. Enjoy free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:20:20Z
+  Updated: 2026-04-20T11:23:30Z
   Total Products: 18
 - [Depression](https://www.thevitaminstore.ca/collections/depression): Shop natural depression supplements and vitamins at The Vitamin Store. Discover high-quality 5-HTP, St. John's Wort, SAM-e, and mood-boosting solutions to support your mental well-being. Enjoy free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:21:17Z
+  Updated: 2026-04-20T11:23:30Z
   Total Products: 22
 - [Diabetes Supplements and Vitamins](https://www.thevitaminstore.ca/collections/diabetes): Shop natural diabetes supplements and vitamins at The Vitamin Store. Discover high-quality formulas including Berberine, Chromium, and Gluco SAP to help manage blood sugar levels and support metabolic health. Enjoy  low prices and free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T12:39:22Z
+  Updated: 2026-04-17T02:50:00Z
   Total Products: 14
 - [Diarrhea Supplements](https://www.thevitaminstore.ca/collections/diarrhea)
   Updated: 2026-04-14T12:40:01Z
   Total Products: 5
 - [Digestive Health](https://www.thevitaminstore.ca/collections/digestive-health): Support your gut health with premium digestive supplements from The Vitamin Store. Shop our selection of probiotics, digestive enzymes, and fiber formulas to improve digestion and maintain a balanced microbiome. Enjoy high-quality vitamins and natural solutions with fast shipping across Canada.
-  Updated: 2026-04-14T11:23:42Z
+  Updated: 2026-04-20T11:23:30Z
   Total Products: 34
 - [Erectile Dysfunction](https://www.thevitaminstore.ca/collections/erectile-dysfunction): Shop natural supplements for erectile dysfunction and men's  health at The Vitamin Store. Discover high-quality vitamins and herbal remedies designed to support performance and vitality. Enjoy fast shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:24:08Z
+  Updated: 2026-04-20T11:23:30Z
   Total Products: 13
 - [Eye Support](https://www.thevitaminstore.ca/collections/eye-support): Shop natural eye health supplements and vitamins at The Vitamin Store. Discover high-quality formulas like lutein, zeaxanthin, and omega-3s designed to support vision, reduce eye fatigue, and maintain long-term ocular health. Free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:24:27Z
+  Updated: 2026-04-17T11:31:29Z
   Total Products: 8
 - [Fatigue & Chronic Fatigue Syndrome](https://www.thevitaminstore.ca/collections/fatigue-chronic-fatigue-syndrome): Shop natural supplements and vitamins for chronic fatigue syndrome at The Vitamin Store. Discover high-quality solutions like CoQ10, magnesium, and B12 to help manage fatigue and support energy levels. Enjoy free shipping on qualifying Canadian orders.
   Updated: 2026-04-14T11:24:47Z
   Total Products: 12
 - [Fungal Infection](https://www.thevitaminstore.ca/collections/fungal-infection): Shop natural remedies for fungal infections at The Vitamin Store. Browse our selection of high-quality supplements and vitamins designed to support your body's defense and promote recovery. Enjoy fast shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:25:07Z
+  Updated: 2026-04-17T02:50:07Z
   Total Products: 7
 - [Gout](https://www.thevitaminstore.ca/collections/gout): Shop natural gout supplements and practitioner-grade vitamins at The Vitamin Store. Discover effective, high-quality formulas to support joint health and manage uric acid levels. Enjoy professional-grade wellness solutions with free shipping on qualifying Canadian orders.
   Updated: 2026-04-14T11:25:27Z
@@ -2014,67 +1929,67 @@
   Updated: 2026-04-14T11:26:07Z
   Total Products: 4
 - [Heart / Cardiovascular Health](https://www.thevitaminstore.ca/collections/heart-cardiovascular-health): Support your cardiovascular health with high-quality heart supplements from The Vitamin Store. Browse our selection of omega-3s, CoQ10, magnesium, and garlic extracts designed to promote healthy circulation and cholesterol levels. Enjoy free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:26:49Z
+  Updated: 2026-04-20T11:23:30Z
   Total Products: 42
 - [High Blood Pressure](https://www.thevitaminstore.ca/collections/high-blood-pressure): Shop high-quality blood pressure supplements and natural formulas at The Vitamin Store. Discover effective solutions like CoQ10, magnesium, and beetroot to support cardiovascular health and healthy circulation. Enjoy free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:27:13Z
+  Updated: 2026-04-17T11:31:29Z
   Total Products: 21
 - [Iron Deficiency & Anemia](https://www.thevitaminstore.ca/collections/iron-deficiency-anemia): Shop for high-quality iron supplements and vitamins for iron deficiency anemia at The Vitamin Store. Discover gentle, well-absorbed options like iron bisglycinate to boost energy and support red blood cell formation. Enjoy free shipping on qualifying Canadian orders.
   Updated: 2026-04-14T11:29:05Z
   Total Products: 9
 - [Inflammation](https://www.thevitaminstore.ca/collections/inflammation): Manage inflammation naturally with high-quality supplements from The Vitamin Store. Explore our curated collection of anti-inflammatory vitamins and herbal remedies designed to support joint health and overall wellness. Free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:27:28Z
+  Updated: 2026-04-20T11:23:30Z
   Total Products: 21
 - [Insomnia / Sleep](https://www.thevitaminstore.ca/collections/insomnia-sleep): Shop natural insomnia and sleep aids at The Vitamin Store. Discover a wide selection of melatonin, valerian root, and herbal supplements from top brands like Natural Factors and Organika to help you achieve restful sleep. Enjoy free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:28:23Z
+  Updated: 2026-04-19T11:25:42Z
   Total Products: 31
 - [Kidney Health](https://www.thevitaminstore.ca/collections/kidney-health): Support your renal health with high-quality kidney supplements at The Vitamin Store. Browse our selection of natural vitamins and herbal formulas designed to promote detoxification and optimal kidney function. Enjoy fast shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:29:21Z
+  Updated: 2026-04-20T11:23:30Z
   Total Products: 13
 - [Liver Support](https://www.thevitaminstore.ca/collections/liver-support): Support your liver health with premium supplements from The Vitamin Store. Browse our collection of natural liver support formulas, including milk thistle and antioxidant blends, to aid detoxification and promote optimal organ function. Shop now for quality vitamins with fast shipping across Canada.
-  Updated: 2026-04-14T11:29:37Z
+  Updated: 2026-04-19T11:25:42Z
   Total Products: 14
 - [Lymes Disease](https://www.thevitaminstore.ca/collections/lymes-disease): Shop natural supplements and vitamins for Lyme disease support at The Vitamin Store. Browse our collection of high-quality herbs, tinctures, and protocols designed to aid your recovery and wellness. Enjoy free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:29:54Z
+  Updated: 2026-04-17T02:49:55Z
   Total Products: 15
 - [Menopause & PMS](https://www.thevitaminstore.ca/collections/menopause-pms): Shop natural menopause and PMS relief supplements at The Vitamin Store. Discover a wide selection of vitamins and herbal remedies designed to balance hormones and ease symptoms. Enjoy high-quality products and free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:30:19Z
+  Updated: 2026-04-17T02:50:09Z
   Total Products: 15
 - [Nausea](https://www.thevitaminstore.ca/collections/nausea): Shop natural remedies for nausea at The Vitamin Store. Discover high-quality vitamins, ginger supplements, and digestive enzymes designed to provide relief and support digestive health. Free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:31:02Z
+  Updated: 2026-04-17T02:49:59Z
   Total Products: 4
 - [Osteoporosis](https://www.thevitaminstore.ca/collections/osteoporosis): Shop high-quality osteoporosis supplements and vitamins at The Vitamin Store. Discover effective solutions like calcium, vitamin D3, and magnesium to support bone density and strength. Enjoy free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:33:19Z
+  Updated: 2026-04-17T02:50:04Z
   Total Products: 27
 - [Parasites](https://www.thevitaminstore.ca/collections/parasites): Shop natural parasite cleanses and supplements at The Vitamin Store. Discover effective, high-quality herbal formulas and vitamins to support detoxification and digestive health. Free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:33:35Z
+  Updated: 2026-04-17T02:50:00Z
   Total Products: 12
 - [Prostate & BPH](https://www.thevitaminstore.ca/collections/prostate-bph): Explore our collection of natural prostate and BPH supplements at The Vitamin Store. Find high-quality Canadian brands featuring saw palmetto, zinc, and beta-sitosterol to support urinary flow and prostate health. Enjoy Canada's lowest prices and free shipping on qualifying orders.
   Updated: 2026-04-14T11:34:22Z
   Total Products: 8
 - [Respiratory Health](https://www.thevitaminstore.ca/collections/respiratory-health): Support your lung and respiratory health with natural supplements from The Vitamin Store. Browse our selection of NAC, mullein, quercetin, and herbal formulas designed to promote clear breathing and immune defense. Enjoy quality vitamins with free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:35:24Z
+  Updated: 2026-04-17T11:31:29Z
   Total Products: 17
 - [Sinus / Congestion](https://www.thevitaminstore.ca/collections/sinus-congestion): Find natural relief for sinus congestion at The Vitamin Store. Browse our selection of high-quality supplements and herbal remedies designed to support clear airways and sinus health. Enjoy fast shipping on qualifying orders across Canada.
-  Updated: 2026-04-14T11:35:40Z
+  Updated: 2026-04-17T02:49:51Z
   Total Products: 8
 - [Sore Throat Relief](https://www.thevitaminstore.ca/collections/sore-throat): Shop natural sore throat relief at The Vitamin Store. Discover a wide selection of herbal sprays, lozenges, and supplements designed to soothe irritation and support immune health. Enjoy free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T12:43:55Z
+  Updated: 2026-04-18T11:29:44Z
   Total Products: 43
 - [Thyroid Disorders](https://www.thevitaminstore.ca/collections/thyroid-disorders): Shop natural thyroid support supplements and vitamins at The Vitamin Store. Discover a wide selection of high-quality products to help regulate hormones, boost metabolism, and improve energy levels. Enjoy free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:37:35Z
+  Updated: 2026-04-17T02:49:59Z
   Total Products: 31
 - [Upset Stomach & IBD](https://www.thevitaminstore.ca/collections/upset-stomach-ibd): Find relief for upset stomach and IBD with natural supplements at The Vitamin Store. Discover high-quality vitamins, enzymes, and probiotics designed to support digestive health and reduce inflammation. Enjoy free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:38:07Z
+  Updated: 2026-04-17T02:50:03Z
   Total Products: 11
 - [UTIs support supplements](https://www.thevitaminstore.ca/collections/utis): Find effective natural UTI relief and bladder support supplements at The Vitamin Store. Explore our curated selection of high-quality vitamins and herbal remedies designed to support urinary tract health. Enjoy free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T12:46:03Z
+  Updated: 2026-04-20T11:23:30Z
   Total Products: 8
 - [Varicose Veins](https://www.thevitaminstore.ca/collections/varicose-veins)
-  Updated: 2026-04-04T21:13:25Z
+  Updated: 2026-04-17T11:31:29Z
   Total Products: 5
 - [Warts](https://www.thevitaminstore.ca/collections/warts): Shop natural wart treatments and removal solutions at The Vitamin Store. Discover effective, high-quality products to help clear your skin. Free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:39:46Z
+  Updated: 2026-04-20T11:23:30Z
   Total Products: 14
 - [Weight Management](https://www.thevitaminstore.ca/collections/weight-management-1): Support your health goals with a variety of weight management supplements at The Vitamin Store. Browse our selection of natural fat burners, metabolism boosters, and appetite suppressants to help you achieve your desired results. Enjoy free shipping on qualifying Canadian orders.
   Updated: 2026-04-14T11:40:16Z
@@ -2083,13 +1998,13 @@
   Updated: 2026-04-14T12:48:11Z
   Total Products: 0
 - [Designs for Health](https://www.thevitaminstore.ca/collections/designs-for-health): Shop a wide range of Designs for Health supplements at The Vitamin Store. Discover professional-grade vitamins, minerals, and formulas designed for optimal wellness and health support. Free shipping on qualifying Canadian orders.
-  Updated: 2026-04-14T11:23:21Z
+  Updated: 2026-04-21T11:29:00Z
   Total Products: 133
 - [Designs for Sport](https://www.thevitaminstore.ca/collections/designs-for-sport): Shop the Designs for Sport collection at The Vitamin Store. Discover premium, NSF  for Sport supplements including protein powders, amino acids, and hydration formulas designed for athletes. Enjoy high-quality nutritional support with free shipping on qualifying Canadian orders.
   Updated: 2026-04-14T11:22:54Z
   Total Products: 5
 - [Pure Encapsulations](https://www.thevitaminstore.ca/collections/pure-encapsulations): Shop high-quality Pure Encapsulations supplements at The Vitamin Store. Discover professional-grade vitamins and minerals formulated without unnecessary additives to support your overall wellness. Enjoy the lowest prices in Canada and free shipping on qualifying orders.
-  Updated: 2026-04-14T11:35:06Z
+  Updated: 2026-04-20T11:23:30Z
   Total Products: 112
 - [Thorne Vitamins and Supplements](https://www.thevitaminstore.ca/collections/thorne): Shop Thorne’s premium, science-backed vitamins and supplements at The Vitamin Store. Discover high-quality formulas for immune support, sports performance, and foundational wellness with fast shipping across Canada.
   Updated: 2026-04-14T12:45:29Z
