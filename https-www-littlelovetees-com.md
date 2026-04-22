@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2022-10-23T01:17:17Z
 - Contact Email: hello@littlelovetees.com
-- Updated At: 2026-04-14T00:00:41.634Z
+- Updated At: 2026-04-22T00:00:43.042Z
 
 Little Love Tees ♡
 
@@ -39,7 +39,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Available
     Price: $34.00 USD
 - [Soft Cotton Floral Tee - Purple Blooms | Kids & Toddler Shirt](https://www.littlelovetees.com/products/the-floral-tee-white): A soft white cotton tee featuring a delicate purple floral print, thoughtfully crafted for sensitive skin and everyday comfort.
-  Updated: 2026-04-13T17:20:11Z
+  Updated: 2026-04-20T20:26:40Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -60,7 +60,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Available
     Price: $34.00 USD
 - [White Tee - Soft Cotton Toddler Clothing](https://www.littlelovetees.com/products/the-original-little-love-tee-white): White cotton kids t-shirt with a relaxed fit. A wardrobe staple for layering or everyday wear.
-  Updated: 2026-04-11T02:07:18Z
+  Updated: 2026-04-21T19:39:54Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -102,7 +102,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Available
     Price: $34.00 USD
 - [Mandarin Tee - Soft Cotton Toddler Tee](https://www.littlelovetees.com/products/the-mandarin-tee-mauve): Mandarin graphic tee in soft premium cotton for toddlers. Made for sensitive skin with a comfortable fit and easy machine wash care.
-  Updated: 2026-04-11T04:48:06Z
+  Updated: 2026-04-20T20:26:41Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -123,7 +123,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Available
     Price: $34.00 USD
 - [Dinosaur Tee - Soft Cotton Toddler Clothing](https://www.littlelovetees.com/products/the-dino-tee-mint): Mint green dinosaur tee made from ultra-soft cotton for kids. Gentle on sensitive skin, relaxed fit, and machine washable—perfect everyday toddler clothing.
-  Updated: 2026-04-11T02:07:19Z
+  Updated: 2026-04-20T20:26:41Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -144,7 +144,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Available
     Price: $34.00 USD
 - [Daisy Tee - Soft Cotton Toddler Clothing](https://www.littlelovetees.com/products/the-daisy-tee-pink): Retro pink daisy t-shirt for kids made from soft cotton. Fun floral graphic, relaxed fit, and gentle on sensitive skin.
-  Updated: 2026-04-11T02:07:19Z
+  Updated: 2026-04-21T22:36:02Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -165,7 +165,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Available
     Price: $34.00 USD
 - [Daisy Tee - Soft Cotton Toddler Clothing](https://www.littlelovetees.com/products/the-daisy-tee-blue): Retro blue daisy t-shirt for kids made from soft cotton. Fun floral graphic, relaxed fit, and gentle on sensitive skin.
-  Updated: 2026-04-11T04:48:02Z
+  Updated: 2026-04-21T22:36:07Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -186,7 +186,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Not Available
     Price: $34.00 USD
 - [Fox Tee - Soft Cotton Toddler Clothing](https://www.littlelovetees.com/products/the-fox-tee-grey): Grey fox print t-shirt for toddlers made from soft cotton. Relaxed fit, machine washable, and perfect for everyday adventures—quality kids clothing.
-  Updated: 2026-04-11T02:07:19Z
+  Updated: 2026-04-20T20:26:41Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -207,7 +207,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Available
     Price: $34.00 USD
 - [Fox Tee - Soft Cotton Toddler Clothing](https://www.littlelovetees.com/products/the-fox-tee-navy): Navy fox print t-shirt for toddlers made from soft cotton. Relaxed fit, machine washable, and perfect for everyday adventures—quality kids clothing.
-  Updated: 2026-04-13T17:27:29Z
+  Updated: 2026-04-20T20:26:42Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -249,7 +249,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Available
     Price: $38.00 USD
 - [Truck Tee - Soft Cotton Toddler Clothing](https://www.littlelovetees.com/products/the-cream-truck-tee): Soft cotton truck print t-shirt for toddlers. Relaxed fit, machine washable, and perfect for vehicle-loving kids—quality children’s clothing.
-  Updated: 2026-04-11T21:05:03Z
+  Updated: 2026-04-20T20:26:42Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -270,7 +270,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Available
     Price: $34.00 USD
 - [Lemon Print Maxi Dress - Soft Toddler Clothing](https://www.littlelovetees.com/products/the-purple-lemon-maxi-tee-dress): Soft and comfortable kids’ maxi dress. Longer length keeps knees and legs covered—perfect for everyday wear and park adventures.
-  Updated: 2026-04-11T02:07:20Z
+  Updated: 2026-04-21T14:51:46Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -294,7 +294,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Available
     Price: $38.00 USD
 - [Heather Grey Tee - Soft Toddler Clothing](https://www.littlelovetees.com/products/the-heather-grey-tee): Soft heather grey cotton t-shirt for toddlers. Relaxed fit, easy to style, and machine washable—everyday basic kids clothing.
-  Updated: 2026-04-11T02:07:20Z
+  Updated: 2026-04-21T19:39:57Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -315,7 +315,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Available
     Price: $34.00 USD
 - [Cotton Sweatpants - Soft Toddler Clothing](https://www.littlelovetees.com/products/the-sweatpant-charcoal): Lightweight terry cotton sweats for kids with a relaxed fit. Soft and breathable—perfect with a tee for everyday style.
-  Updated: 2026-04-11T02:07:20Z
+  Updated: 2026-04-21T22:36:07Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -330,7 +330,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Available
     Price: $35.00 USD
 - [Cotton Sweatpants - Soft Toddler Clothing](https://www.littlelovetees.com/products/the-sweatpant-lavender): Lightweight terry cotton sweats for kids with a relaxed fit. Soft and breathable—perfect with a tee for everyday style.
-  Updated: 2026-04-11T02:07:21Z
+  Updated: 2026-04-20T20:26:43Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -345,7 +345,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Available
     Price: $35.00 USD
 - [Cotton Crew Sweatshirt - Soft Toddler Clothing](https://www.littlelovetees.com/products/the-sweatshirt-lavender): Lightweight terry cotton sweats for kids with a relaxed fit. Soft and breathable—perfect with a tee for everyday style.
-  Updated: 2026-04-11T02:07:21Z
+  Updated: 2026-04-20T20:26:44Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -360,7 +360,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Available
     Price: $40.00 USD
 - [Cotton Crew Sweatshirt - Soft Toddler Clothing](https://www.littlelovetees.com/products/the-sweatshirt-charcoal): Lightweight terry cotton sweats for kids with a relaxed fit. Soft and breathable—perfect with a tee for everyday style.
-  Updated: 2026-04-11T02:07:21Z
+  Updated: 2026-04-21T22:36:08Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -375,7 +375,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Available
     Price: $40.00 USD
 - [Bolt Tee - Soft Toddler Clothing](https://www.littlelovetees.com/products/bolt-tee): Soft cotton lighting bolt tee for toddlers and kids. Fun lightning bolt print, relaxed fit, machine washable—perfect everyday kids clothing.
-  Updated: 2026-04-13T17:20:17Z
+  Updated: 2026-04-21T19:39:57Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -396,7 +396,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Available
     Price: $34.00 USD
 - [Rose Maxi Dress - Soft Toddler Clothing](https://www.littlelovetees.com/products/rose-maxi): Soft and comfortable kids’ maxi dress. Longer length keeps knees and legs covered—perfect for everyday wear and park adventures.
-  Updated: 2026-04-11T23:28:27Z
+  Updated: 2026-04-21T20:59:43Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -420,7 +420,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Available
     Price: $38.00 USD
 - [Mommy & Me Matching Maxi Dress](https://www.littlelovetees.com/products/mom-rose-maxi): Mom maxi dress with a sweet rose print—designed to match your little one. Easy, comfortable, and flattering for everyday wear.
-  Updated: 2026-04-11T23:28:29Z
+  Updated: 2026-04-21T19:39:48Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -441,7 +441,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Available
     Price: $60.00 USD
 - [Wildflower Maxi Dress - Soft Toddler Clothing](https://www.littlelovetees.com/products/wildflower-maxi): Soft and comfortable kids’ maxi dress. Longer length keeps knees and legs covered—perfect for everyday wear and park adventures.
-  Updated: 2026-04-11T23:28:27Z
+  Updated: 2026-04-20T20:26:45Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -462,7 +462,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Available
     Price: $38.00 USD
 - [Soft Cotton Truck Tee | Kids & Toddler T-Shirt](https://www.littlelovetees.com/products/truck-tee-sleeveless): Soft cotton truck print tee for toddlers. Perfect for vehicle-loving kids, relaxed fit, machine washable. Quality children's clothing.
-  Updated: 2026-04-11T02:07:22Z
+  Updated: 2026-04-21T14:51:48Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -483,7 +483,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Available
     Price: $32.00 USD
 - [Soft Cotton Fox Tee - Navy Blue | Kids & Toddler Shirt](https://www.littlelovetees.com/products/fox-navy-tee-sleeveless): Navy fox print tee in premium cotton. Soft, comfortable fit for kids, machine washable, perfect for sensitive skin. Quality toddler clothing.
-  Updated: 2026-04-12T00:44:47Z
+  Updated: 2026-04-20T20:26:46Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -504,7 +504,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Available
     Price: $32.00 USD
 - [Soft Cotton Fox Tee - Grey | Kids & Toddler T-Shirt](https://www.littlelovetees.com/products/fox-grey-tee-sleeveless): Grey fox print tee in soft cotton for toddlers. Comfortable relaxed fit, machine washable, perfect for everyday adventures. Quality kids clothing.
-  Updated: 2026-04-11T02:07:22Z
+  Updated: 2026-04-20T20:26:46Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -525,7 +525,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Available
     Price: $32.00 USD
 - [Daisy Sleeveless Tee - Soft Toddler Clothing](https://www.littlelovetees.com/products/daisy-blue-tee-sleeveless): Retro daisy t-shirt for kids made from soft cotton. Fun floral graphic, relaxed fit, and gentle on sensitive skin.
-  Updated: 2026-04-11T02:07:22Z
+  Updated: 2026-04-20T20:26:46Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -546,7 +546,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Available
     Price: $32.00 USD
 - [Daisy Sleeveless Tee - Soft Toddler Clothing](https://www.littlelovetees.com/products/daisy-pink-tee-sleeveless): Retro pink daisy t-shirt for kids made from soft cotton. Fun floral graphic, relaxed fit, and gentle on sensitive skin.
-  Updated: 2026-04-11T02:07:23Z
+  Updated: 2026-04-20T20:26:47Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -567,7 +567,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Available
     Price: $32.00 USD
 - [Dinosaur Sleeveless Tee - Soft Toddler Clothing](https://www.littlelovetees.com/products/dino-mint-tee-sleeveless): Green dinosaur tee in soft cotton for kids. Comfortable fit, perfect for active toddlers, machine washable. Quality children's clothing.
-  Updated: 2026-04-11T02:07:23Z
+  Updated: 2026-04-20T20:26:47Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -588,7 +588,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Available
     Price: $32.00 USD
 - [Mandarin Sleeveless Tee - Soft Cotton Toddler Clothing](https://www.littlelovetees.com/products/mandarin-mauve-tee-sleeveless): Mandarin print t-shirt for toddlers in premium cotton. Gentle on sensitive skin, relaxed fit, and machine washable—quality toddler clothing.
-  Updated: 2026-04-11T02:07:23Z
+  Updated: 2026-04-20T20:26:47Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -609,7 +609,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Available
     Price: $32.00 USD
 - [Dinosaur Sleeveless Tee - Soft Toddler Clothing](https://www.littlelovetees.com/products/dino-white-tee-sleeveless): White dinosaur print tee in soft cotton for kids. Comfortable fit, perfect for active toddlers, machine washable. Quality children's clothing.
-  Updated: 2026-04-11T02:07:23Z
+  Updated: 2026-04-20T20:26:48Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -630,7 +630,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Available
     Price: $32.00 USD
 - [White Cotton Sleeveless Tee - Soft Toddler Clothing](https://www.littlelovetees.com/products/original-tee-sleeveless): White cotton kids t-shirt with a relaxed fit. A wardrobe staple for layering or everyday wear.
-  Updated: 2026-04-11T02:07:23Z
+  Updated: 2026-04-21T19:39:58Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -651,7 +651,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Available
     Price: $32.00 USD
 - [Floral Sleeveless Tee - Soft Toddler Clothing](https://www.littlelovetees.com/products/floral-tee-sleeveless): A soft white cotton tee featuring a delicate purple floral print, thoughtfully crafted for sensitive skin and everyday comfort.
-  Updated: 2026-04-11T02:07:23Z
+  Updated: 2026-04-21T14:51:47Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -672,7 +672,7 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
     Availability: Available
     Price: $32.00 USD
 - [Mandarin Sleeveless Tee - Soft Toddler Clothing](https://www.littlelovetees.com/products/mandarin-ivory-tee-sleeveless): Mandarin print t-shirt for toddlers in premium cotton. Gentle on sensitive skin, relaxed fit, and machine washable—quality toddler clothing.
-  Updated: 2026-04-11T02:07:24Z
+  Updated: 2026-04-20T20:26:49Z
   Vendor: Little Love Tees
   Product Type: 
   Availability: Available
@@ -696,10 +696,10 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
 ## Collections
 
 - [Little Love Tees](https://www.littlelovetees.com/collections/tees): Little Love Tees are relaxed fit t-shirts for toddlers that are made from high quality lightweight stretch-cotton material. Tees are pre-washed and thoughtfully designed to provide the utmost comfort making it an effortlessly cool everyday tee.
-  Updated: 2026-04-11T11:08:09Z
+  Updated: 2026-04-21T11:08:23Z
   Total Products: 24
 - [DRESSES](https://www.littlelovetees.com/collections/dresses): The perfect blend of cozy comfort and effortless style, this sweet maxi is every little one’s dream outfit. Even better, it is perfect for the park, with a longer length that covers knees and legs.
-  Updated: 2026-04-12T11:07:49Z
+  Updated: 2026-04-21T11:08:23Z
   Total Products: 5
 - [solid tees](https://www.littlelovetees.com/collections/solid-tees): Little Love Tees is a kids clothing brand creating soft, well-made clothing for everyday life, designed by a mom who simply wanted better for her kids.
   Updated: 2026-04-11T11:08:09Z
@@ -711,22 +711,22 @@ We believe in simple, adorable designs, relaxed fits, and clothes that kids actu
   Updated: 2026-04-11T11:08:09Z
   Total Products: 8
 - [Bestsellers](https://www.littlelovetees.com/collections/bestsellers)
-  Updated: 2026-04-11T11:08:09Z
+  Updated: 2026-04-20T11:07:50Z
   Total Products: 16
 - [Everyday Essentials](https://www.littlelovetees.com/collections/everyday-essentials)
-  Updated: 2026-04-11T11:08:09Z
+  Updated: 2026-04-20T11:07:50Z
   Total Products: 10
 - [NEW LOVES](https://www.littlelovetees.com/collections/new-loves): Shop our newest must-haves. Soft fabrics, simple designs, made for everyday wear.
-  Updated: 2026-04-12T11:07:49Z
+  Updated: 2026-04-21T11:08:23Z
   Total Products: 9
 - [ALL](https://www.littlelovetees.com/collections/all)
-  Updated: 2026-04-12T11:07:49Z
+  Updated: 2026-04-21T11:08:23Z
   Total Products: 33
 - [SHORT SLEEVE](https://www.littlelovetees.com/collections/short-sleeve)
-  Updated: 2026-04-11T11:08:09Z
+  Updated: 2026-04-20T11:07:50Z
   Total Products: 13
 - [SLEEVELESS](https://www.littlelovetees.com/collections/sleeveless)
-  Updated: 2026-04-11T11:08:09Z
+  Updated: 2026-04-21T11:08:23Z
   Total Products: 11
 
 ## Store Pages
