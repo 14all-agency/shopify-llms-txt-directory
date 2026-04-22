@@ -6,33 +6,33 @@
 - Timezone: America/Los_Angeles
 - Created At: 2013-04-04T00:04:53Z
 - Contact Email: andres@casazg.com
-- Updated At: 2026-04-07T00:00:21.288Z
+- Updated At: 2026-04-22T00:00:33.553Z
 
 ## Products
 
 - [Sangrita Mix: Non-alcoholic Tequila Chaser by Casa ZG](https://casazg.com/products/sangrita-mix-packets): Discover a fresh and exciting way to enjoy tequila by adding Casa ZG's Sangrita Mix as a non-alcoholic tequila chaser. Makes up to 1/2 Gallon when mixed your Orange Juice. Recipes and how to prepare in our website.
-  Updated: 2026-04-06T22:32:59Z
+  Updated: 2026-04-21T16:23:57Z
   Vendor: Casa ZG
   Product Type: Tequila Chaser Mix
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0225/0153/files/Casa_ZG_Sangrita_Tequila_Chaser_B0D8MWS7YM_Makes_1_2_Gallon_Cocktail_Mixer_Mocktail_Mixer_Product.jpg?v=1742853725
-  Price: $7.99 USD
+  Price: $9.99 USD
 - [Michelada Mix (non alcoholic ) for Beer Cocktail | Casa ZG](https://casazg.com/products/michelada-mix-packets): Make 1/2 Gal. of Michelada for beer cocktails. Give your beer some spice with Casa ZG's Michelada Mix ( non-alcoholic ). Recipes and how to prepare in our website.
-  Updated: 2026-04-06T20:54:03Z
+  Updated: 2026-04-21T15:55:39Z
   Vendor: Casa ZG
   Product Type: Beer Cocktail Mixer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0225/0153/files/Casa_ZG_Michelada_B0D8N1ZQ7P_How_to_Prepare_Beer_Cocktail_Cocktail_Mix_Mocktail_Mixer_Cerveza_Refrescante_Polvo_AmazonMain.jpg?v=1742853259
-  Price: $7.99 USD
+  Price: $9.99 USD
 - [Sangrita Mix Non-alcoholic Tequila Chaser. Single Serve 3 ct.  Casa ZG](https://casazg.com/products/sangrita-mix-single-serve-packets-of-3): Discover a fresh and exciting way to enjoy tequila by adding Casa ZG's Sangrita Mix as a non-alcoholic tequila chaser, now available as a set of 3 single serve packets. Makes up to 8oz when mixed your Orange Juice. Recipes and how to prepare in our website.
-  Updated: 2026-04-06T21:36:38Z
+  Updated: 2026-04-17T15:16:28Z
   Vendor: Casa ZG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0225/0153/files/Casa_ZG_Sangrita_Mix_Single_Serve_3_Pack_New_Product.png?v=1764967532
   Price: $11.99 USD
 - [Sangrita Mix Non-alcoholic Tequila Chaser. Single Serve 5 ct.  Casa ZG](https://casazg.com/products/sangrita-mix-single-serve-5-pack): Discover a fresh and exciting way to enjoy tequila by adding Casa ZG's Sangrita Mix as a non-alcoholic tequila chaser, now available as a set of 5 single serve packets. Makes up to 8oz when mixed your Orange Juice. Recipes and how to prepare in our website.
-  Updated: 2026-04-06T21:36:17Z
+  Updated: 2026-04-16T03:34:46Z
   Vendor: Casa ZG
   Product Type: 
   Availability: Available
@@ -42,7 +42,7 @@
 ## Collections
 
 - [Casa ZG Products](https://casazg.com/collections/casa-zg-products)
-  Updated: 2026-04-06T21:35:02Z
+  Updated: 2026-04-18T11:00:43Z
   Total Products: 6
 
 ## Blogs
