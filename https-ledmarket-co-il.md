@@ -11,7 +11,7 @@
 - Contact Email: info@ledmarket.co.il
 - Contact Phone: 053-3475060
 - Address: פתח תקווה: גליס 18, אזור התעשיה סגולה, פתח תקווה
-- Updated At: 2026-04-12T06:13:42.892Z
+- Updated At: 2026-04-23T06:07:58.423Z
 
 LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישראל. האתר כולל קטלוג מוצרים (גופי תאורה לבית ולעסק), קולקציות, מדריכים/מאמרים ומדיניות שירות.
 לבירור מפרטים, זמינות ומחיר – השתמשו בעמודי המוצר והקולקציות באתר כמקור ראשי.
@@ -80,7 +80,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/48_ce92dec3-3842-4626-9a8b-6d8179807dc2.webp?v=1702562968
   Price: ‏385.00 ‏₪ ILS
 - [מנורת תלייה ORIENTAL GOLD שלישייה רטרו | שחור חוץ זהב פנים | בסיס E27](https://ledmarket.co.il/products/מנורת-תלייה-oriental-gold): מנורת תלייה ORIENTAL GOLD שלישייה בעיצוב רטרו ייחודי עם שחור מבחוץ וזהב מבפנים. קוטר 18 ס״מ, גובה 17 ס״מ לכל אהיל, כיוון גובה חוטים על בסיס ישר באורך 55 ס״מ.
-  Updated: 2026-03-30T07:49:53Z
+  Updated: 2026-04-13T12:00:30Z
   Vendor: לדמרקט - מנורות תלייה
   Product Type: Hanging lamps with bulbs
   Availability: Available
@@ -94,7 +94,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/57_-removebg-preview_01a4514d-d931-4a49-9c21-38a3da1e2fa8.png?v=1701332433
   Price: ‏595.00 ‏₪ ILS
 - [מנורת תלייה DETROY | קוטר 15 ס״מ | גובה 25–28 ס״מ | E27 | LEDMarket](https://ledmarket.co.il/products/מנורת-תליה-detroy): מנורת תלייה DETROY בעיצוב אלגנטי ומראה ייחודי ליצירת אווירה חמה. גובה 25–28 ס״מ, כבל 100 ס״מ לכיוון גובה ובית נורה E27. מתאימה לסלון, פינת אוכל, מטבח וחדר שינה.
-  Updated: 2026-04-07T08:01:57Z
+  Updated: 2026-04-18T20:52:47Z
   Vendor: לדמרקט - מנורות תלייה
   Product Type: Hanging lamps with bulbs
   Availability: Available
@@ -124,7 +124,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Price: ‏1,200.00 ‏₪ ILS
 - [מנורה צמודת תקרה SLIM  +עם 3 גווני אור מובנים  מבחר צבעים / גדלים](https://ledmarket.co.il/products/מנורה-צמודת-תקרה-slim-שלט-3-גווני-אור-מובנים-דימר-מבחר-צבעי): מנורה צמודת תקרה SLIM מהסדרה הדקה. הסידרה שמתאימה להאיר מחדרי שינה קטנים  ועד חללים גדולים. המנורה כוללת שלט, דימר ושלוש גווני אור לבן מובנים. עובי המנורה 5 ס"מ בלבד (עובי המנורה בקוטר 80 ס"מ הוא 6 ס"מ) , והיא מעוצבת בצורה שנטמעת בתוך 
  במנורה צמודת תקרה SLIM התקרה למרות שהינה חיצונית ולא שקועה. כנסו לאתר ותתחדשו
-  Updated: 2026-04-10T10:05:58Z
+  Updated: 2026-04-21T08:30:27Z
   Vendor: המנורה השניה בחצי המחיר
   Product Type: Flush Mount Ceiling Light
   Availability: Available
@@ -163,7 +163,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Price: ‏1,195.00 ‏₪ ILS
   - [לבן / 100 cm / ללא חיפוי](https://ledmarket.co.il/products/מנורה-צמודת-תקרה-slim-שלט-3-גווני-אור-מובנים-דימר-מבחר-צבעי?variant=43800936284294)
     Availability: Available
-    Price: ‏1,850.00 ‏₪ ILS
+    Price: ‏1,950.00 ‏₪ ILS
   - [פליז / 23 cm / ללא חיפוי](https://ledmarket.co.il/products/מנורה-צמודת-תקרה-slim-שלט-3-גווני-אור-מובנים-דימר-מבחר-צבעי?variant=39661219414150)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/fa022cfe475cc8e4874e8a78cadf2ef8_20981681-0991-4f3b-a3bd-b7937112bd0b.webp?v=1721213659
@@ -325,7 +325,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/12_c7e2ffd0-eacd-457d-942b-17c60afc14e5.webp?v=1701868427
     Price: ‏545.00 ‏₪ ILS
 - [מנורת תלייה CUBE RETRO שלישייה מעוצבת | סטייל מודרני עם טאץ׳ רטרו](https://ledmarket.co.il/products/מנורת-תלייה-cube-retro): מנורת תלייה CUBE RETRO מגיעה כשלישייה בעיצוב ייחודי שמשדרג מטבח, פינת אוכל או סלון. שילוב של מראה מודרני עם קריצה רטרו ליצירת נוכחות עיצובית מעל אי או שולחן.
-  Updated: 2026-03-30T07:49:54Z
+  Updated: 2026-04-20T13:57:26Z
   Vendor: לדמרקט - מנורות תלייה
   Product Type: Hanging lamps with bulbs
   Availability: Available
@@ -368,7 +368,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/products/b468dc6cbef0de811bc8214eb4af553f.JPG?v=1540544178
   Price: ‏1,650.00 ‏₪ ILS
 - [מנורת תלייה MAOR | מנורה בעיצוב רטרו ייחודי לחללים גדולים](https://ledmarket.co.il/products/מנורת-תלייה-maor): מנורת תלייה MAOR עם עיצוב רטרו מרשים, מתאימה לסלונים, פינות אוכל ומטבחים. גובה 77 ס"מ וקוטר 82 ס"מ. בסיס E27 לנורות מגוונות. כנסו לאתר לפרטים נוספים ולרכישה
-  Updated: 2026-03-30T07:49:55Z
+  Updated: 2026-04-13T09:48:32Z
   Vendor: המנורה השניה בחצי המחיר
   Product Type: Chandeliers
   Availability: Available
@@ -387,7 +387,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Availability: Available
     Price: ‏195.00 ‏₪ ILS
 - [מנורת קיר SQUARE LINES מודרנית | 3 גווני אור | שני גדלים | LEDMarket](https://ledmarket.co.il/products/square-lines): מנורת קיר SQUARE LINES בעיצוב גאומטרי עם 3 גווני אור מובנים (חם/קר/אור יום) בהחלפה במתג. גוף מתכתי עמיד, שני גדלים: 105×42 או 150×100 ס״מ.
-  Updated: 2026-03-30T07:49:55Z
+  Updated: 2026-04-13T12:10:06Z
   Vendor: לדמרקט - מנורות קיר
   Product Type: Wall lights with integrated LED
   Availability: Available
@@ -505,7 +505,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/2475867895_-removebg-preview_4_-removebg-preview_1_19473e93-7fad-46af-84d9-5434f6c79fec.png?v=1701072091
   Price: ‏195.00 ‏₪ ILS
 - [מנורת קיר  BERG | תאורה אלגנטית עם תאורת UP&DOWN](https://ledmarket.co.il/products/מנורת-קיר-berg): גוף תאורה מודרני עם עיצוב ייחודי, תאורת לד חסכונית ושלושה גווני אור לבחירה. מתאים לסלון, מסדרונות, חדרי שינה ולחללים מסחריים. כנסו לאתר והזמינו עכשיו!
-  Updated: 2026-03-30T07:49:59Z
+  Updated: 2026-04-13T12:09:31Z
   Vendor: לדמרקט תאורה מעוצבת
   Product Type: Wall lights with integrated LED
   Availability: Available
@@ -660,13 +660,6 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/fa022cfe475cc8e4874e8a78cadf2ef8_a267f728-ce71-4a77-87b7-64c4f465dbd9.webp?v=1741606677
   Price: ‏20.00 ‏₪ ILS
-- [מנורת תלייה FORTE  | תאורה עם אופי | מנורת תלייה חזקה בעיצוב מחוספס](https://ledmarket.co.il/products/מנורת-תלייה-forte): גוף תאורה תעשייתי בעיצוב נועז עם בסיס E27, קוטר 26 ס"מ, צבע נחושתי עוצמתי. פתרון מושלם לפינת אוכל, בר או חללים מעוצבים עם אמירה. כנסו לאתר והזמינו עכשיו
-  Updated: 2026-04-09T10:37:08Z
-  Vendor: עודפים
-  Product Type: Hanging lamps with built-in LED
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/fa022cfe475cc8e4874e8a78cadf2ef8_d827e74f-5c23-49c5-8594-3a67b1e7404f.webp?v=1744093453
-  Price: ‏179.00 ‏₪ ILS
 - [מנורת תלייה LADY רטרו תעשייתית עם נורה גלויה לעיצוב לופט מודרני אותנטי](https://ledmarket.co.il/products/מנורת-תלייה-lady): מנורת תלייה LADY בהשראת שנות ה־30 עם גוף מתכת, נורה גלויה ובסיס E27 לבחירת נורת לד או וינטג'. מושלמת מעל אי, פינת אוכל או חלל עבודה ליצירת אווירה חמה.
   Updated: 2026-03-30T07:50:02Z
   Vendor: vendor-unknown
@@ -682,7 +675,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/32.webp?v=1754398772
   Price: ‏140.00 ‏₪ ILS
 - [מנורה צמודת תקרה DIAMOND | יוקרה ופונקציונליות לכל חלל | מנורה לסלון](https://ledmarket.co.il/products/מנורה-צמודת-תקרה-diamond): מנורת תקרה DIAMOND עם שלושה גווני אור מובנים, דימר בשלט וחישוקים במגוון גדלים. מתאימה לחללים קטנים וגדולים, הספק לד מקסימלי של עד 90W. הזמינו עכשיו!
-  Updated: 2026-04-04T23:02:07Z
+  Updated: 2026-04-15T07:24:36Z
   Vendor: קנה 2 מנורות ושלם על 1
   Product Type: Flush Mount Ceiling Light
   Availability: Available
@@ -691,10 +684,6 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/products/download.jpg?v=1698912327
     Price: ‏345.00 ‏₪ ILS
-  - [לבן / 52x9cm](https://ledmarket.co.il/products/מנורה-צמודת-תקרה-diamond?variant=14582900359266)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/products/download.jpg?v=1698912327
-    Price: ‏445.00 ‏₪ ILS
   - [לבן / 82x12cm](https://ledmarket.co.il/products/מנורה-צמודת-תקרה-diamond?variant=14582900490338)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/products/download.jpg?v=1698912327
@@ -707,16 +696,8 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/products/product-image-809747008_480x480_a4e3459b-91b7-42fb-9971-abb3a01d3fb9.jpg?v=1698912327
     Price: ‏445.00 ‏₪ ILS
-  - [שחור / 62x10cm](https://ledmarket.co.il/products/מנורה-צמודת-תקרה-diamond?variant=14582900457570)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/products/product-image-809747008_480x480_a4e3459b-91b7-42fb-9971-abb3a01d3fb9.jpg?v=1698912327
-    Price: ‏545.00 ‏₪ ILS
-  - [שחור / 82x12cm](https://ledmarket.co.il/products/מנורה-צמודת-תקרה-diamond?variant=14582900588642)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/products/product-image-809747008_480x480_a4e3459b-91b7-42fb-9971-abb3a01d3fb9.jpg?v=1698912327
-    Price: ‏745.00 ‏₪ ILS
 - [מנורה צמודת תקרה ELEGANT |  תאורה עוצמתית עם שלט ושליטה בגווני האור](https://ledmarket.co.il/products/מנורה-צמודת-תקרה-elegant): מנורת תקרה יוקרתית בעיצוב מודרני עם שלט לשליטה בגווני האור (חם, קר ואור יום) ויכולת עמעום. זמינה בקטרים שונים (30 עד 120 ס"מ) עם תאורה עוצמתית. הזמינו עכשי
-  Updated: 2026-03-30T12:19:16Z
+  Updated: 2026-04-17T07:33:37Z
   Vendor: המנורה השניה בחצי המחיר
   Product Type: Flush Mount Ceiling Light
   Availability: Available
@@ -770,7 +751,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/35_7fe33ae2-039b-484f-9240-25fd7bc70cd5.webp?v=1702549652
     Price: ‏1,950.00 ‏₪ ILS
 - [דוקרן גינה PAR30 ABOTP E27 | גוף מתכתי איכותי להדגשת תאורת חוץ](https://ledmarket.co.il/products/דוקרן-לגינה-par30-abotp): דוקרן גינה PAR30 ABOTP עשוי מתכת עם בית נורה E27. מתאים במיוחד לנורת PAR30 ומאפשר כיוון אלומת אור להדגשת צמחייה, שבילים ואלמנטים בגינה. כנסו לאתר והזמינו עכשיו
-  Updated: 2026-03-30T07:50:03Z
+  Updated: 2026-04-13T10:28:40Z
   Vendor: לדמרקט - דוקרני גינה
   Product Type: LED Spike Lights
   Availability: Available
@@ -976,7 +957,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/fa022cfe475cc8e4874e8a78cadf2ef8_e0a3f5a3-1817-4633-b2f1-a0568af904f1.webp?v=1739089043
   Price: ‏220.00 ‏₪ ILS
 - [מנורת קיר שקועה מוגנת מים YOVU – תאורת מדרגות ושבילים בעיצוב נקי!](https://ledmarket.co.il/products/מנורת-קיר-שקועה-מוגנת-מים-1): מנורת קיר שקועה YOVU מוגנת מים לתאורת שבילים ומדרגות. חזית מלבנית עם גריל מפוספס לאפקט מסודר והארה כלפי מטה. מידות 150×110 מ״מ. מתאימה לכניסה ואזורים רטובים.
-  Updated: 2026-03-30T07:50:07Z
+  Updated: 2026-04-12T12:29:39Z
   Vendor: vendor-unknown
   Product Type: Outdoor Wall and Ceiling Lights
   Availability: Available
@@ -1010,13 +991,6 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/3_e322e8d6-9004-4dbd-ae53-949e4f2c8f5d.webp?v=1744277329
   Price: ‏95.00 ‏₪ ILS
-- [מנורת תלייה BUBU מזכוכית בעיצוב אלגנטי לבית, קוטר 19 ס"מ, בסיס E27](https://ledmarket.co.il/products/מנורת-תלייה-bubu): מנורת תלייה BUBU עשויה זכוכית ומוסיפה עניין לכל חלל. קוטר 19 ס"מ, גובה 24 ס"מ ובסיס E27 לבחירת נורה מתאימה לאווירה. מתאימה לחדרים, פינת אוכל או כניסה לבית.
-  Updated: 2026-04-06T07:12:44Z
-  Vendor: עודפים
-  Product Type: Hanging lamps with built-in LED
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/17_b8eb303e-5a20-4263-8f3f-c8718d86a116.webp?v=1717326964
-  Price: ‏70.00 ‏₪ ILS
 - [מנורת תלייה PURE GOLD – עיצוב מוזהב יוקרתי בסגנון רטרו | LEDMARKET](https://ledmarket.co.il/products/מנורת-תלייה-pure-gold): מנורת תלייה PURE GOLD מוזהבת, גוף מתכת יוקרתי בקוטר 19 ס״מ וגובה 24 ס״מ. בסיס E27 סטנדרטי, מתאימה למטבח, פינת אוכל ובר יוקרתי. כנסו לאתר והזמינו מנורת תלייה
   Updated: 2026-03-30T07:50:08Z
   Vendor: עודפים
@@ -1039,24 +1013,19 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/2_862531ed-e3f9-4c33-a3b5-cf71f11b2861.webp?v=1769430284
   Price: ‏40.00 ‏₪ ILS
 - [דימר 12-24V DC עד 8A לפסי לד לשליטה חלקה בעוצמת האור ולהתקנה קלה ונוחה](https://ledmarket.co.il/products/דימר-12-24vdc-8a): דימר 12-24VDC לפסי לד עם שליטה חלקה בעוצמת האור וזרם מקסימלי 8A. מתאים לפסים לבנים וצבעוניים, חיבורים פשוטים, מידות 85×45×23 מ"מ וטווח עבודה ‎-20° עד ‎60°.
-  Updated: 2026-03-30T07:50:08Z
+  Updated: 2026-04-14T20:54:07Z
   Vendor: לדמרקט תאורה מעוצבת
   Product Type: Lighting Controllers and Sensors
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/fa022cfe475cc8e4874e8a78cadf2ef8_ab422c4e-37e3-48d5-9077-2cc23fbf361c.webp?v=1719214229
   Price: ‏80.00 ‏₪ ILS
 - [מנורת שולחן טימי | תאורת שולחן מתכווננת | תאורה מושלמת לקריאה ועבודה](https://ledmarket.co.il/products/מנורת-שולחן-טימי): מנורת שולחן איכותית עם זרועות מתכווננות, ובית נורה E27 סטנדרטית. זמינה בשלושה צבעים ומושלמת לעבודה, קריאה ועיצוב חללים. כנסו לאתר והזמינו מנורת שולחן עכשיוש
-  Updated: 2026-03-30T07:50:09Z
+  Updated: 2026-04-12T20:42:37Z
   Vendor: לדמרקט תאורה מעוצבת
   Product Type: table lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/2_d4021ceb-82d6-4112-b82f-0aef2efcef67.webp?v=1739265961
-  - [אדום](https://ledmarket.co.il/products/מנורת-שולחן-טימי?variant=39681904410758)
-    Availability: Not Available
-    Price: ‏80.00 ‏₪ ILS
-  - [לבן](https://ledmarket.co.il/products/מנורת-שולחן-טימי?variant=42022721945734)
-    Availability: Available
-    Price: ‏80.00 ‏₪ ILS
+  Price: ‏80.00 ‏₪ ILS
 - [מנורת קיר TAP תעשייתית דו-צדדית בסגנון לופט עם 2 נורות E27 | 38×40 ס"מ](https://ledmarket.co.il/products/מנורת-קיר-2509): מנורת קיר TAP תעשייתית עם צינורות וסורגי מתכת לשתי נורות E27. מתאימה לסלון, כניסה ומסדרון. מידות 38×40×27 ס"מ. מומלץ לשלב נורות FILAMENT בגוון לבן חם 3000K.
   Updated: 2026-03-30T07:50:09Z
   Vendor: עודפים
@@ -1094,14 +1063,14 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/17_cb931886-76db-4139-92fe-b6e6f89c90e3.webp?v=1720091198
     Price: ‏80.00 ‏₪ ILS
 - [מנורה תלייה SUNRAY בעיצוב קלאסי יוקרתי לבית, קוטר 25 ס״מ ובסיס E27](https://ledmarket.co.il/products/מנורה-תלייה-sunray): מנורה תלייה SUNRAY בעיצוב קלאסי, ייחודי ומעודן עם מראה יוקרתי. קוטר 25 ס״מ, גובה 15 ס״מ ובסיס E27 לבחירת נורה לפי גוון ועוצמה. הזמינו עכשיו
-  Updated: 2026-03-30T07:50:10Z
+  Updated: 2026-04-13T11:39:50Z
   Vendor: עודפים
   Product Type: Hanging lamps with built-in LED
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/17_c75bc748-a497-426d-9a88-70defd27ec78.webp?v=1718006034
   Price: ‏195.00 ‏₪ ILS
 - [מנורת תלייה SPARK בעיצוב קלאסי מניקל וזכוכית, קוטר 20 ס״מ ובסיס E27](https://ledmarket.co.il/products/מנורת-תלייה-2653): מנורת תלייה SPARK בעיצוב קלאסי, עשויה ניקל וזכוכית ומעניקה מראה עדין ומיוחד. קוטר 20 ס"מ, גובה 25 ס"מ ובסיס E27 לבחירת נורה לפי גוון ועוצמה, ליצירת תאורה נעימה.
-  Updated: 2026-03-30T07:50:10Z
+  Updated: 2026-04-13T10:33:56Z
   Vendor: עודפים
   Product Type: All Products
   Availability: Available
@@ -1160,7 +1129,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/35_-removebg-preview_1.png?v=1699178503
   Price: ‏395.00 ‏₪ ILS
 - [מנורת תלייה RETRO NORDIC רטרו בשחור/לבן וזהב, בסיס E27 לבית ולמטבח](https://ledmarket.co.il/products/מנורת-תלייה-retro-nordic): מנורת תלייה RETRO NORDIC בסגנון רטרו בצבע לבן וזהב או שחור וזהב. בסיס E27 לבחירת נורה. מתאימה לפינת אוכל, מעל אי ולפינות ישיבה, וניתנת לרכישה בודדת או בשלישייה.
-  Updated: 2026-03-30T07:50:11Z
+  Updated: 2026-04-12T18:33:07Z
   Vendor: לדמרקט
   Product Type: Hanging lamps with bulbs
   Availability: Available
@@ -1171,7 +1140,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Price: ‏250.00 ‏₪ ILS
   - [לבן / B](https://ledmarket.co.il/products/מנורת-תלייה-retro-nordic?variant=39681946648710)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/2475867895_-removebg-preview_17_-removebg-preview.png?v=1700041285
+    Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/2475867895_-removebg-preview_17_-removebg-preview.png?v=1776155141
     Price: ‏250.00 ‏₪ ILS
   - [שחור / A](https://ledmarket.co.il/products/מנורת-תלייה-retro-nordic?variant=34700671910022)
     Availability: Available
@@ -1190,7 +1159,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/2475867895_-removebg-preview_16_-removebg-preview_1.png?v=1700041285
     Price: ‏345.00 ‏₪ ILS
 - [מנורת קיר WHITE POLE | תאורה יוקרתית לאמבטיה | מנורת קיר עמידה לאדים](https://ledmarket.co.il/products/מנורת-קיר-white-pole): מנורת קיר WHITE POLE בעיצוב עגול ויוקרתי, עמידה לאדים ומתאימה במיוחד לאמבטיות. שלושה גווני אור לבחירה. הזמינו עכשיו ותהנו מתאורה איכותית. כנסו לאתר לרכישה
-  Updated: 2026-04-05T11:08:32Z
+  Updated: 2026-04-18T18:20:18Z
   Vendor: לדמרקט - מנורות קיר עם לד מובנה
   Product Type: Wall lights with integrated LED
   Availability: Available
@@ -1248,7 +1217,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/fa022cfe475cc8e4874e8a78cadf2ef8_efb9d5ec-ccf7-42f5-84e6-b08c7abd53ef.webp?v=1717057295
   Price: ‏923.00 ‏₪ ILS
 - [מנורת תלייה EXCLUSIVE |  תאורה תלוייה מודרנית עם נוכחות עיצובית](https://ledmarket.co.il/products/מנורת-תלייה-exclusive): גוף תאורה תלוי עם שישה בתי נורה, עיצוב גיאומטרי מדויק, זמינות בצבעי שחור, פליז וכסף. מתאימה לסלון, פינת אוכל וחללים גבוהים. תאורת לד בעיצוב מודרני יוקרתי.
-  Updated: 2026-04-05T10:52:37Z
+  Updated: 2026-04-13T12:45:47Z
   Vendor: המנורה השניה בחצי המחיר
   Product Type: Chandeliers
   Availability: Available
@@ -1280,14 +1249,14 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/products/878b8175cafc232fb98e10fcc582723.jpg?v=1704188284
     Price: ‏75.00 ‏₪ ILS
 - [מנורת תלייה מעוצבת REGAZZA | תאורה אלגנטית למטבח ופינת אוכל](https://ledmarket.co.il/products/מנורת-תלייה-regazza): מנורת תלייה REGAZZA בעיצוב יוקרתי ומינימליסטי, עם תאורת LED מובנית בגוון לבן חם 3000K. מתאימה למטבחים, פינות אוכל ומסעדות. כנסו לאתר והזמינו עכשיו!
-  Updated: 2026-03-30T07:50:12Z
+  Updated: 2026-04-13T11:17:34Z
   Vendor: לדמרקט - מנורות תלייה
   Product Type: Cylinder Light Fixture
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/14_-removebg-preview_2.webp?v=1716898502
   Price: ‏130.00 ‏₪ ILS
 - [מנורה צמודת תקרה LAMBADA |  מנורת לד צמודת תקרה בעיצוב מודרני וחכם](https://ledmarket.co.il/products/מנורה-צמודת-תקרה-lambada): מנורת לד בעיצוב מודרני עם שלושה גווני אור משתנים: לבן חם, קר ואור יום. מתאימה לסלון, חדרי שינה ופינות אוכל, עם חיסכון באנרגיה ועוצמת אור מרשימה. הזמינו עכשיו!
-  Updated: 2026-03-30T07:50:13Z
+  Updated: 2026-04-13T11:42:58Z
   Vendor: המנורה השניה בחצי המחיר
   Product Type: Flush Mount Ceiling Light
   Availability: Available
@@ -1324,7 +1293,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/2475867895_-removebg-preview_17_-removebg-preview_2.webp?v=1700482080
     Price: ‏435.00 ‏₪ ILS
 - [מנורת תלייה RAF שלישייה גיאומטרית – בסיס 70 ס"מ, E27, סטייל תעשייתי](https://ledmarket.co.il/products/מנורת-תלייה-raf): מנורת תלייה RAF עם 3 גופים משולשים על בסיס ישר באורך 70 ס"מ. יוצרת משחקי אור וצל ופיזור אור אחיד ונעים מעל שולחן אוכל או אי במטבח. בסיס E27 מתאים לנורות לד.
-  Updated: 2026-03-30T07:50:13Z
+  Updated: 2026-04-13T12:11:56Z
   Vendor: לדמרקט
   Product Type: Hanging lamps with bulbs
   Availability: Available
@@ -1364,7 +1333,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/14_da876d8e-26fc-4cb3-86ba-429e36c2af8b.webp?v=1744198034
   Price: ‏645.00 ‏₪ ILS
 - [בית נורה E27 מסיליקון | 13 צבעים לבחירה | פתרון תלייה גמיש ועיצובי](https://ledmarket.co.il/products/בית-נורה-e27-מסיליקון): בית נורה E27 מסיליקון איכותי ב־13 צבעים לבחירה, מושלם למנורות תלייה, פרויקטים עיצוביים והחלפת בית נורה בקלות. גמיש, עמיד ונראה מעולה בבית, בעסק ובחללי אירוח.
-  Updated: 2026-03-30T07:50:14Z
+  Updated: 2026-04-13T12:04:10Z
   Vendor: לדמרקט תאורה מעוצבת
   Product Type: Hanging lamps with bulbs
   Availability: Available
@@ -1422,7 +1391,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/25_380dc576-90d4-40af-8c95-b40642d91572.webp?v=1734251484
     Price: ‏19.00 ‏₪ ILS
 - [פאנלי LED שקועים בעיצוב עגול ומרובע | 3 גווני אור מובנים וחיסכון בחשמל](https://ledmarket.co.il/products/פאנל-לד-שקוע-עגול-מרובע-במבחר-גדלים-והספקים-דגם-חדש-עם-3-גווני-אור-לבן-מובנים): פאנלי LED שקועים של לדמרקט בעיצוב עגול או מרובע. שלושה גווני אור מובנים, חיסכון באנרגיה והתקנה קלה. מבחר גדלים והספקים לבית, למשרד ולעסק. הזמינו עכשיו
-  Updated: 2026-04-10T15:19:17Z
+  Updated: 2026-04-15T15:58:46Z
   Vendor: לדמרקט תאורה מעוצבת
   Product Type: Recessed Ceiling Lights
   Availability: Available
@@ -1533,7 +1502,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/2475867895_-removebg-preview_33.jpg?v=1700044030
   Price: ‏895.00 ‏₪ ILS
 - [צילינדר תלוי BLACK TUBES |  תאורת תלייה אלגנטית | צילינדר עם LED מובנה](https://ledmarket.co.il/products/מנורת-תלייה-kasam): צילינדר תלוי BLACK TUBES עם LED מובנה מתוצרת CREE, עיצוב מודרני ומינימליסטי, אפשרויות עיצוב מגוונות וכבלים מתכווננים. מושלם למטבח, פינות אוכל וחללים מסחריים.
-  Updated: 2026-03-30T07:50:14Z
+  Updated: 2026-04-13T12:07:35Z
   Vendor: לדמרקט - מנורות תלייה
   Product Type: Cylinder Light Fixture
   Availability: Available
@@ -1561,7 +1530,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/10_928cb0d9-ea00-40f0-86e4-d404c7b0cb23.webp?v=1743070252
   Price: ‏2,450.00 ‏₪ ILS
 - [מנורת תלייה SUNSET מודרנית לפינת אוכל | אורך 74 ס״מ | אור חם/קר לבחירה](https://ledmarket.co.il/products/מנורת-תלייה-sunset): מנורת תלייה SUNSET בעיצוב מודרני ונקי המפזרת אור רך ואחיד מעל שולחן או אי. אורך 74 ס״מ, גוון אור חם או קר לבחירה ליצירת אווירה מדויקת בבית או במשרד. כנסו לרכישה
-  Updated: 2026-04-06T07:06:16Z
+  Updated: 2026-04-13T11:31:50Z
   Vendor: עודפים
   Product Type: Hanging lamps with built-in LED
   Availability: Available
@@ -1614,7 +1583,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/2475867895_-removebg-preview_78_-removebg-preview_c629201d-87d4-46ca-89ae-396b20d2fb9f.png?v=1700744119
   Price: ‏195.00 ‏₪ ILS
 - [נורת לד דמוי פחם FILAMENT A60 | מראה וינטג׳ חם | תאורה דקורטיבית לבית](https://ledmarket.co.il/products/נורת-לד-דמוי-פחם-filament-a60): נורת LED דמוי פחם FILAMENT A60 במראה קלאסי שמוסיף אווירה חמימה ונעימה. אידיאלית לגופי תאורה פתוחים, אהילים שקופים ומנורות בסגנון רטרו בסלון, חדר שינה ופינת אוכל
-  Updated: 2026-04-09T20:51:28Z
+  Updated: 2026-04-14T06:04:27Z
   Vendor: לדמרקט - נורת מיוחדות
   Product Type: LED Filament Bulbs
   Availability: Available
@@ -1632,7 +1601,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/5_35e9efd9-2447-4c97-bb4b-3f575505e3b3.webp?v=1720088157
     Price: ‏30.00 ‏₪ ILS
 - [נורת לד דמוי פחם FILAMENT ST64 | מראה וינטג׳ יוקרתי | אור חם ואווירה](https://ledmarket.co.il/products/נורת-לד-דמוי-פחם-filament-st64): נורת LED דמוי פחם FILAMENT ST64 בעיצוב טיפה וינטג׳ שמעניק אווירה חמה ומרשימה. מושלמת למנורות תלויות וגופים פתוחים/שקופים בסלון, פינת אוכל, בר ומסעדה.
-  Updated: 2026-04-09T20:51:27Z
+  Updated: 2026-04-20T18:23:40Z
   Vendor: לדמרקט - נורת מיוחדות
   Product Type: LED Filament Bulbs
   Availability: Available
@@ -1678,7 +1647,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/fa022cfe475cc8e4874e8a78cadf2ef8_090d6d5b-0295-457e-8328-2579a8138b90.webp?v=1720087336
     Price: ‏45.00 ‏₪ ILS
 - [נורת לד דמוי פחם FILAMENT C35 | מראה וינטג׳ עדין | אור חם לנברשות](https://ledmarket.co.il/products/נורת-לד-דמוי-פחם-filament-c35): נורת LED דמוי פחם FILAMENT C35 בצורת נר למראה קלאסי וחם. מושלמת לנברשות, מנורות קיר וגופים דקורטיביים כשמחפשים אווירה נעימה בלי לוותר על חיסכון ועמידות.
-  Updated: 2026-03-30T07:50:16Z
+  Updated: 2026-04-19T17:31:46Z
   Vendor: לדמרקט - נורת מיוחדות
   Product Type: LED Filament Bulbs
   Availability: Available
@@ -1696,7 +1665,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/14_19b991c9-ab70-4ba4-9996-6cd19306a7fa.webp?v=1720090991
     Price: ‏12.00 ‏₪ ILS
 - [נורת לד דמוי פחם FILAMENT G95 E27 – זכוכית דקורטיבית ואור לבן חם עשיר](https://ledmarket.co.il/products/נורת-לד-filament-g95): תנו לגוף התאורה מראה יוקרתי עם נורת FILAMENT G95 בקוטר 95 מ״מ ובסיס E27. לבן חם לאווירה נעימה, עם בחירה בין זכוכית שקופה/חלבית/כסופה וגם RGB להדגשה דקורטיבית.
-  Updated: 2026-04-06T15:36:56Z
+  Updated: 2026-04-16T06:30:02Z
   Vendor: לדמרקט - נורת מיוחדות
   Product Type: LED Filament Bulbs
   Availability: Available
@@ -1733,7 +1702,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/38_-removebg-preview_614ef378-d1c6-49a5-a104-58afb69fd401.webp?v=1769069054
   Price: ‏295.00 ‏₪ ILS
 - [מנורת תלייה BELLISIMA LINE יוקרתית | אורך 120 ס״מ | LEDMarket](https://ledmarket.co.il/products/מנורת-תלייה-bellissima-line): מנורת תלייה BELLISIMA LINE בעיצוב יוקרתי עם 27 נורות G4 להארת חלל של כ־12 מ״ר. אורך 120 ס״מ, נורות LED עד 2W כל אחת ומגיעות יחד עם גוף התאורה. הזמינו עכשיו
-  Updated: 2026-03-30T07:50:17Z
+  Updated: 2026-04-12T09:59:59Z
   Vendor: לדמרקט תאורה מעוצבת
   Product Type: Hanging lamps with bulbs
   Availability: Available
@@ -1874,7 +1843,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/149.webp?v=1703513658
     Price: ‏120.00 ‏₪ ILS
 - [ספוט לד מובנה לפס צבירה מסדרת ROLL | שלושה גווני אור בגוף תאורה אחד](https://ledmarket.co.il/products/ספוט-לד-מובנה-לפס-צבירה-מסדרת-roll): גוף תאורה עוצמתי עם LED מובנה לפס צבירה חד-פאזי, בעל שלושה גווני אור ניתנים להחלפה. תאורה מתקדמת, גמישה וחסכונית לכל חלל. כנסו לאתר לפרטים נוספים ולרכישה
-  Updated: 2026-03-30T07:50:19Z
+  Updated: 2026-04-20T04:48:56Z
   Vendor: לדמרקט תאורה מעוצבת
   Product Type: 230V Track Lighting Systems
   Availability: Available
@@ -1934,7 +1903,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/2475867895_-removebg-preview_7_1912f76f-28f2-4319-9622-17a875327c9a.webp?v=1701417080
     Price: ‏345.00 ‏₪ ILS
 - [מנורה צמודת תקרה SLIM מלבנית | שלט + דימר | 3 גווני אור CCT מובנים](https://ledmarket.co.il/products/מנורה-צמודת-תקרה-מלבן-slim): מנורה צמודת תקרה SLIM בעיצוב מלבני מינימליסטי עם שלט ודימר מובנה להתאמת עוצמה ואווירה. כוללת 3 גווני אור (CCT) מובנים ומתאימה לתקרות נמוכות או גבוהות.
-  Updated: 2026-04-09T09:48:23Z
+  Updated: 2026-04-21T06:03:56Z
   Vendor: לדמרקט - מנורה צמודת תקרה
   Product Type: Flush Mount Ceiling Light
   Availability: Available
@@ -2006,7 +1975,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/2475867895_-removebg-preview_33_-removebg-preview.jpg?v=1701081498
     Price: ‏295.00 ‏₪ ILS
 - [מנורת קיר Horizontaly Slim | גוף תאורה איכותי לחדרי אמבטיה ועבודה](https://ledmarket.co.il/products/מנורת-קיר-horizontaly-slim): מנורת קיר דקה ומינימליסטית בעיצוב מתקדם עם שלושה גווני אור לבחירה. מושלמת לחדרי אמבטיה, חדרי עבודה, וחדרי שינה. עמידה לאדים, מגיעה במספר אורכים להספקים שונים.
-  Updated: 2026-03-30T07:50:20Z
+  Updated: 2026-04-13T12:09:10Z
   Vendor: לדמרקט - מנורות קיר עם לד מובנה
   Product Type: Wall lights with integrated LED
   Availability: Available
@@ -2069,7 +2038,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/9_cfe5fb50-564c-4abb-981e-92d7315fbfd9.webp?v=1718002524
   Price: ‏330.00 ‏₪ ILS
 - [מנורת תלייה LIMA | תאורה יוקרתית לכל חלל ביתי | מנורה בעיצוב ייחודי](https://ledmarket.co.il/products/מנורת-תלייה-lima): מנורת תלייה LIMA בקוטר 90 ס"מ וגובה 80 ס"מ, מעניקה עיצוב מרשים ואלגנטי עם בסיס נורות E27. אידיאלית לסלון, פינת אוכל או כל חלל מרכזי. כנסו לאתר לפרטים נוספים
-  Updated: 2026-03-30T07:50:21Z
+  Updated: 2026-04-18T17:49:57Z
   Vendor: המנורה השניה בחצי המחיר
   Product Type: Chandeliers
   Availability: Available
@@ -2083,7 +2052,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/38_e3a629e4-0a4f-49c9-85ce-a0f8bebae001.webp?v=1702550759
   Price: ‏100.00 ‏₪ ILS
 - [גוף תאורת הצפה 10W | תאורת הצפה במגוון צבעים לבחירה עם עמידות למים](https://ledmarket.co.il/products/גוף-תאורת-הצפה-10w-במגוון-צבעים-לבחירה): גוף תאורת הצפה 10W עם גוון אור לבחירה (כחול, ירוק, ורוד), מוגן מים IP65, מתאים להתקנה על קיר או תקרה. כנסו לאתר לפרטים נוספים ולרכישה
-  Updated: 2026-03-30T07:50:21Z
+  Updated: 2026-04-13T10:54:03Z
   Vendor: לדמרקט תאורה מעוצבת
   Product Type: LED Flood Lights
   Availability: Available
@@ -2134,7 +2103,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Availability: Available
     Price: ‏10.00 ‏₪ ILS
 - [נורת לד G9 | תחליף הלוגן חסכוני | אור חזק בגודל קומפקטי | LEDMarket](https://ledmarket.co.il/products/נורת-לד-cob-g9-תחליף-הלוגן): נורת LED G9 כתחליף להלוגן לתאורה חזקה וחסכונית בגוף קטן. אידיאלית למנורות קיר, נברשות, גופים דקורטיביים ותאורה בבית ובמשרד. כנסו לאתר לפרטים נוספים ולרכישה
-  Updated: 2026-03-30T07:50:23Z
+  Updated: 2026-04-17T06:40:00Z
   Vendor: לדמרקט - נורת מיוחדות
   Product Type: LED Halogen Replacement Bulbs
   Availability: Available
@@ -2171,7 +2140,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Availability: Available
     Price: ‏85.00 ‏₪ ILS
 - [מנורת תלייה LEO | תאורה גיאומטרית מודרנית | המנורה המושלמת לעיצוב הבית](https://ledmarket.co.il/products/מנורת-תלייה-leo): מנורת תלייה בעיצוב פירמידלי מינימליסטי, מתאימה לאי מטבח או פינת אוכל. גוף תאורה שחור עם בסיס E27 ותאורה חמה שמשלימה כל חלל. כנסו לאתר לפרטים נוספים ולרכישה
-  Updated: 2026-04-09T10:00:20Z
+  Updated: 2026-04-13T11:38:39Z
   Vendor: vendor-unknown
   Product Type: Hanging lamps with bulbs
   Availability: Available
@@ -2185,7 +2154,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/2475867895_-removebg-preview_34_-removebg-preview_1.png?v=1700735299
   Price: ‏95.00 ‏₪ ILS
 - [צילינדר DEEP AMBER | תאורת לד צמודת תקרה | צילינדר בעיצוב יוקרתי](https://ledmarket.co.il/products/צילינדר-אלגנט-צמוד-תקרה): גוף תאורה צמוד תקרה DEEP AMBER עם עיצוב שחור ומוזהב, תאורת לד מתקדמת ושלושה גווני אור מובנים. מושלם לסלון, למטבח ולחללים מסחריים. כנסו לאתר לפרטים נוספים
-  Updated: 2026-03-30T07:50:24Z
+  Updated: 2026-04-13T10:55:41Z
   Vendor: לדמרקט - צילינדר צמוד תקרה
   Product Type: Cylinder Light Fixture
   Availability: Available
@@ -2211,7 +2180,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/fa022cfe475cc8e4874e8a78cadf2ef8_bc80fb95-e0d6-4079-8322-cfd82e362269.webp?v=1755521417
     Price: ‏495.00 ‏₪ ILS
 - [מנורה צמודת תקרה  LINES  + שלט + 3 גווני אור מובנים + דימר](https://ledmarket.co.il/products/צמוד-תקרה-מסדרת-lines): מנורה צמודת תקרה LINES, מנורה מדגם חדש, גוף המנורה מגיע בצבעי שחור ולבן. מנורה מיוחדת ואיכותית שבנוסף מגיעה עם מצב של תאורת לילה. אפשר לשלוט בגווני האור עם דימר מובנה או באמצעות שלט מיוחד. למנורה תאורה בגוונים של לבן חם, אור יום ולבן קר. כנסו לאתר ורכשו מנורה צמנודת תקרה LINE
-  Updated: 2026-04-06T13:12:53Z
+  Updated: 2026-04-13T09:50:19Z
   Vendor: לדמרקט
   Product Type: Flush Mount Ceiling Light
   Availability: Available
@@ -2224,7 +2193,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Availability: Available
     Price: ‏750.00 ‏₪ ILS
 - [מנורות תלייה מסדרת RETRO BEAUTY | תאורה צבעונית ומעוצבת בסגנון רטרו](https://ledmarket.co.il/products/מנורות-תלייה-מסדרת-retro-beauty): תיאור מטא: מנורות תלויות בעיצוב רטרו בצבעים מהממים. תאורת לד עם בסיס E27, מתאימות לכל חלל – פינת אוכל, חדר שינה, לובי ועוד. עיצוב צבעוני ונוכח.
-  Updated: 2026-04-09T10:16:35Z
+  Updated: 2026-04-20T10:23:54Z
   Vendor: לדמרקט - מנורות תלייה
   Product Type: Hanging lamps with bulbs
   Availability: Available
@@ -2241,10 +2210,6 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/2475867895_-removebg-preview_48_-removebg-preview.jpg?v=1701082520
     Price: ‏325.00 ‏₪ ILS
-  - [לבן](https://ledmarket.co.il/products/מנורות-תלייה-מסדרת-retro-beauty?variant=34702221410438)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/2475867895_-removebg-preview_45_-removebg-preview.jpg?v=1744191287
-    Price: ‏325.00 ‏₪ ILS
 - [מנורת תלייה TAMI |  תאורה גיאומטרית תלוית תקרה לסלון או מטבח](https://ledmarket.co.il/products/מנורת-תלייה-tami): שלישיית מנורות תלייה בסגנון תעשייתי עם עיצוב גיאומטרי פתוח ונורות לד. פתרון מרהיב ומואר לכל פינה בבית. כנסו לאתר לפרטים נוספים והזמינו מנורת תלייה חדשה
   Updated: 2026-04-09T10:16:26Z
   Vendor: המנורה השניה בחצי המחיר
@@ -2253,7 +2218,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/3_-removebg-preview_75c6ab30-e2be-473f-8633-1f007155fdff.webp?v=1701244104
   Price: ‏495.00 ‏₪ ILS
 - [מנורת תלייה COB POLE מתכווננת – 6 ראשים לד חם 3000K | שחור/לבן/פליז](https://ledmarket.co.il/products/מנורת-תלייה-cob-pole): מנורת תלייה COB POLE עם 6 ראשים גליליים ותאורת לד מובנית בגוון לבן חם 3000K. מוטות מתכווננים ופיזור אור אחיד, לבחירה בשחור/לבן/פליז – מושלמת מעל אי או שולחן.
-  Updated: 2026-03-30T07:50:25Z
+  Updated: 2026-04-12T11:57:11Z
   Vendor: המנורה השניה בחצי המחיר
   Product Type: Hanging lamps with built-in LED
   Availability: Available
@@ -2278,7 +2243,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/fa022cfe475cc8e4874e8a78cadf2ef8_cfa66890-6dd2-4e76-ab4c-ce3768350882.webp?v=1718001913
   Price: ‏99.00 ‏₪ ILS
 - [מנורת תלייה MIRO | מנורת תלייה תעשייתית רשת | עיצוב עוצמתי ואלגנטי](https://ledmarket.co.il/products/מנורת-תלייה-miro): גוף תאורה תעשייתי עם רשת שחורה, מתאים לנורת E27. מושלם למטבחים, פינות אוכל וברים. גובה 27 ס"מ, גימור שחור מט. כנסו לאתר לפרטים נופים והזמינו מנורת תלייה חדשה
-  Updated: 2026-03-30T07:50:25Z
+  Updated: 2026-04-13T12:10:32Z
   Vendor: לדמרקט - מנורות תלייה
   Product Type: Hanging lamps with bulbs
   Availability: Available
@@ -2292,7 +2257,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/2475867895_-removebg-preview_33_-removebg-preview_1.png?v=1700735060
   Price: ‏550.00 ‏₪ ILS
 - [מנורת תלייה DOUBLE LIGHT RING |  תאורה מעוצבת עם שליטה מלאה בגוון האור](https://ledmarket.co.il/products/מנורת-תלייה-double-light-ring): תאורת לד יוקרתית בעיצוב חישוקים צפים עם שליטה בגוון האור ודימר חכם. מושלם לחללים גדולים בעיצוב מודרני ונועז. כנסו לאתר לפרטים נוספים והזמינו עכשיו!
-  Updated: 2026-03-30T07:50:26Z
+  Updated: 2026-04-13T12:19:04Z
   Vendor: המנורה השניה בחצי המחיר
   Product Type: Hanging lamps with built-in LED
   Availability: Available
@@ -2379,7 +2344,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Availability: Available
     Price: ‏999.00 ‏₪ ILS
 - [ממסר 2/3/4 ערוצים 220V עם שלט | עד 1000W לערוץ | שליטה נוחה](https://ledmarket.co.il/products/ממסר-2-3-4-ערוצים-עם-שלט): ממסרים לשליטה במכשירים חשמליים ב־220V: דגמי 3 או 4 ערוצים עם שלט לשליטה בכל ערוץ בנפרד, ודגם 2 ערוצים להפעלה דרך מתג קיר. עומס מרבי עד 1000W לכל ערוץ.
-  Updated: 2026-03-30T07:50:27Z
+  Updated: 2026-04-21T10:26:08Z
   Vendor: vendor-unknown
   Product Type: Lighting Controllers and Sensors
   Availability: Available
@@ -2436,7 +2401,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/2475867895_-removebg-preview_17_-removebg-preview_1_e787b14e-1cb0-4a9a-9d7a-b9c8c938e9c6.webp?v=1755450685
   Price: ‏1,299.00 ‏₪ ILS
 - [BRIL צילינדר צמוד תקרה  | תאורה בעיצוב מודרני | צילינדר מתכוונן עד 90°](https://ledmarket.co.il/products/bril-צילינדר-צמוד-תקרה-מתכוונן): גוף תאורה צמוד תקרה עם עיצוב מינימליסטי, גמישות תנועה של 90° וסיבוב 360°. מתאים לכל חלל עם תאורת LED חסכונית 12W בגוון לבן חם 3000K. כנסו לאתר והזמינו עכשיו
-  Updated: 2026-03-30T07:50:28Z
+  Updated: 2026-04-12T13:19:13Z
   Vendor: לדמרקט - צילינדר צמוד תקרה
   Product Type: Cylinder Light Fixture
   Availability: Available
@@ -2454,7 +2419,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/4_385f9a81-1490-4ff7-b1bc-82acce4519a7.webp?v=1701849679
     Price: ‏235.00 ‏₪ ILS
 - [Captu מנורת קיר חוץ | תאורה חיצונית מעוצבת עם הארה דו-כיוונית](https://ledmarket.co.il/products/captu-מנורת-קיר-חוץ): גוף תאורה חיצוני עמיד למים עם תאורת לד מובנית המאירה למעלה ולמטה. מתאים לתאורת חצרות, שבילים וכניסות עם עיצוב מודרני וחסכון באנרגיה. כנסו לאתר והזמינו עכשיו!
-  Updated: 2026-03-30T07:50:28Z
+  Updated: 2026-04-13T11:55:01Z
   Vendor: vendor-unknown
   Product Type: Up and Down Lighting
   Availability: Available
@@ -2475,7 +2440,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/2_724ae287-6567-410d-a8a4-b4efc1298e6c.webp?v=1739089765
   Price: ‏250.00 ‏₪ ILS
 - [מנורת קיר חוץ | תאורת חוץ אלגנטית | גוף תאורה עמיד במים עם לד מובנה](https://ledmarket.co.il/products/מנורת-קיר-חוץ-rect): גוף תאורה חיצוני בעיצוב מודרני עם לד מובנה עם פיזור אור כלפי מעלה בגוון 4000K, עמידות מלאה במים – אידיאלי לקירות חוץ, כניסות ושבילים. כנסו לאתר והזמינו עכשיו!
-  Updated: 2026-03-30T07:50:29Z
+  Updated: 2026-04-13T10:16:44Z
   Vendor: עודפים
   Product Type: All Products
   Availability: Available
@@ -2489,7 +2454,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/1_e34ec397-3b82-4bbe-ae11-853d514738e1.webp?v=1766316662
   Price: ‏120.00 ‏₪ ILS
 - [מנורת קיר חוץ מוגנת מים LIOZ -  עם 2 לדים 4000K בעיצוב קומפקטי לבית](https://ledmarket.co.il/products/מנורת-קיר-חוץ-lioz): מנורת קיר חוץ מוגנת מים עם שני לדים מובנים המאירים למעלה ולמטה בגוון 4000K. גוף קומפקטי במידות 9×6.5×6.5 ס"מ, מתאים לכניסה, שבילים וקירות חוץ באור נקי ונעים.
-  Updated: 2026-03-30T07:50:30Z
+  Updated: 2026-04-13T12:29:48Z
   Vendor: vendor-unknown
   Product Type: All Products
   Availability: Available
@@ -2524,14 +2489,14 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/fa022cfe475cc8e4874e8a78cadf2ef8_27d7d880-6ab6-4601-912e-955216cf771f.webp?v=1713092328
   Price: ‏125.00 ‏₪ ILS
 - [מנורת קיר חוץ מרובעת FAM מוגנת מים | LED 24W לבן חם | אפור בטון](https://ledmarket.co.il/products/מנורת-קיר-חוץ-מרובעת-fam): מנורת קיר חוץ מרובעת FAM מוגנת מים עם LED מובנה 24W בגוון לבן חם. גימור אפור בטון ועיצוב נקי לחזית, מרפסת ושבילים. מידות: 21.5×21.5×5 ס״מ. הזמינו עכשיו
-  Updated: 2026-03-30T07:50:31Z
+  Updated: 2026-04-13T12:45:36Z
   Vendor: vendor-unknown
   Product Type: All Products
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/1_8189b273-6b69-405e-a1bb-bbae784d14a5.webp?v=1704274325
   Price: ‏295.00 ‏₪ ILS
 - [מנורת קיר חוץ FAM מוגנת מים באפור בטון, אלומיניום יצוק ואור חם 3000K](https://ledmarket.co.il/products/מנורת-קיר-חוץ-fam): מנורת קיר חוץ FAM מוגנת מים מאלומיניום יצוק איכותי בגימור אפור בטון. מתאימה להתקנה על קיר או תקרה, בעובי 4.5 ס"מ, עם אור לבן חם 3000K. זמינה בקוטר 22 או 32 ס"מ.
-  Updated: 2026-03-30T07:50:31Z
+  Updated: 2026-04-13T11:02:18Z
   Vendor: לדמרקט תאורה מעוצבת
   Product Type: Outdoor Wall and Ceiling Lights
   Availability: Available
@@ -2543,7 +2508,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Availability: Available
     Price: ‏345.00 ‏₪ ILS
 - [מנורת קיר DOR | תאורה יוקרתית עם עיצוב מודרני לחללים פנימיים וחיצוניים](https://ledmarket.co.il/products/מנורת-קיר-dor): תאורת לד בעיצוב מודרני עם פיזור אור דו-כיווני, עמידה במים ומתאימה לשימוש פנימי וחיצוני. זמינה בצבעים שחור, לבן ופליז, עם לד מובנה בעוצמה של 6W או 12W.
-  Updated: 2026-03-30T08:11:20Z
+  Updated: 2026-04-19T07:17:57Z
   Vendor: לדמרקט - מנורות קיר עם לד מובנה
   Product Type: Wall lights with integrated LED
   Availability: Available
@@ -2580,7 +2545,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/fa022cfe475cc8e4874e8a78cadf2ef8_1fad8f6d-d68f-4135-aff2-0d41bb44c6d0.webp?v=1761034254
   Price: ‏97.00 ‏₪ ILS
 - [מנורת תלייה SPIRALOOP | מנורה בעיצוב מודרני עם תאורה משתנה ושליטה מרחוק](https://ledmarket.co.il/products/מנורת-תלייה-spiraloop): מנורת תלייה ייחודית עם שלושה חישוקים מעוצבים, שליטה מלאה בגווני התאורה ודימר מובנה. כולל שלט ואפליקציה לשליטה מרחוק. מושלם לפינות אוכל, חדרי מגורים ומסדרונות.
-  Updated: 2026-03-30T07:50:32Z
+  Updated: 2026-04-13T11:57:44Z
   Vendor: לדמרקט - מנורות תלייה
   Product Type: Chandeliers
   Availability: Available
@@ -2622,14 +2587,14 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/untitled-31-removebg-preview-65157143028a7.webp?v=1695904078
   Price: ‏52.00 ‏₪ ILS
 - [לד דרייבר LED DRIVER 2-3X1W](https://ledmarket.co.il/products/led-driver-1-3x1w-לד-דרייבר): דרייבר LED DRIVER 2-3X1W עם מתח יציאה 9-12VDC וזרם 240mA, מתאים להפעלת נורות LED באופן יציב ואמין. מושלם לתאורת פנים ודקורטיבית. הגנה IP20.
-  Updated: 2026-04-11T13:17:47Z
+  Updated: 2026-04-13T09:58:36Z
   Vendor: לדמרקט תאורה מעוצבת
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/Untitled_25_-removebg-preview.png?v=1695902262
   Price: ‏20.00 ‏₪ ILS
 - [לד דרייבר LED DRIVER 22-40X1W לגופי LED לתאורת פנים יציבה | 220mA IP20](https://ledmarket.co.il/products/led-driver-22-40x1w-לד-דרייבר): לד דרייבר LED DRIVER 22-40X1W לתאורת פנים: כניסה 230V AC, יציאה 72-120V DC וזרם 220mA. מיועד לגופי LED בהספק 22-40X1W, פעולה יציבה ואמינה, להתקנה נוחה, IP20.
-  Updated: 2026-03-30T07:50:33Z
+  Updated: 2026-04-14T08:16:58Z
   Vendor: לדמרקט תאורה מעוצבת
   Product Type: 
   Availability: Available
@@ -2671,7 +2636,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/3_c3ebc983-2a91-4da1-8bd8-3cf81ad4f863.webp?v=1705918861
   Price: ‏180.00 ‏₪ ILS
 - [גוף תאורה שקוע MAYA |פתרון תאורה מתכוונן עם עיצוב מודרני](https://ledmarket.co.il/products/גוף-תאורה-שקוע-maya): שדרגו את החלל שלכם עם גוף תאורה שקוע MAYA. עיצוב עגול בניקל, דימור מתקדם ותאורה ממוקדת. מושלם לסלון, למטבח ולמשרד. כנסו לאתר לפרטים נוספים והזמינו עכשיו
-  Updated: 2026-03-30T07:50:35Z
+  Updated: 2026-04-13T12:01:03Z
   Vendor: vendor-unknown
   Product Type: Recessed Ceiling Lights
   Availability: Available
@@ -2689,7 +2654,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/16_-removebg-preview_1.webp?v=1701774357
     Price: ‏160.00 ‏₪ ILS
 - [גוף תאורה שקוע מתכוונן DOME | תאורת לד איכותית לעיצוב מדויק.](https://ledmarket.co.il/products/גוף-תאורה-שקוע-מתכוונן-dome): גוף תאורה שקוע מתכוונן DOME, בהספק 12W עם תאורת לד מובנית מבית CREE, לעיצוב דינאמי ומדויק. אידיאלי לסלון, פינות עבודה וחללים מסחריים. כנסו לאתר והזמינו עכשיו!
-  Updated: 2026-03-30T07:50:35Z
+  Updated: 2026-04-13T11:00:24Z
   Vendor: vendor-unknown
   Product Type: Recessed Ceiling Lights
   Availability: Available
@@ -2717,7 +2682,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Availability: Available
     Price: ‏5.00 ‏₪ ILS
 - [מנורת קיר סולרית SILAR עם חיישן תנועה | עמידה במים | 2W/4W | LEDMarket](https://ledmarket.co.il/products/מנורת-קיר-סולרית-silar): מנורת קיר סולרית SILAR לחוץ עם חיישן תנועה: נדלקת אוטומטית בחושך ונכבית אחרי 20 שניות. נטענת מהשמש, עמידה במים, ללא חשמל. זמינה 2W/4W. הזמינו עכשיו
-  Updated: 2026-03-30T07:50:36Z
+  Updated: 2026-04-13T12:46:56Z
   Vendor: תאורה סולארית לגינה
   Product Type: Solar LED Lights
   Availability: Available
@@ -2775,7 +2740,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/37_236946ee-fa9d-4725-bdf3-fd09be7f08d1.webp?v=1702215841
     Price: ‏2,150.00 ‏₪ ILS
 - [מנורת תלייה  SPIRITS | תאורת לד ליניארית יוקרתית לפינת אוכל או מטבח](https://ledmarket.co.il/products/מנורת-תלייה-spirits): מנורת תלייה עם חמישה או שמונה ראשים בעיצוב קלאסי מודרני, גוף מתכתי בגימור שחור או פליז, תאורת לד לבן חם ונוכחות מרשימה לכל חלל. כנסו לאתר והזמינו עכשיו!
-  Updated: 2026-03-30T07:50:37Z
+  Updated: 2026-04-13T09:19:14Z
   Vendor: לדמרקט תאורה מעוצבת
   Product Type: Chandeliers
   Availability: Available
@@ -2805,7 +2770,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Availability: Available
     Price: ‏450.00 ‏₪ ILS
 - [מנורת תקרה / קיר מוגנת מים  בצבע לבן / שחור NOVA](https://ledmarket.co.il/products/מנורת-קיר-חוץ-עגולה-nova): מנורת קיר / תקרה מוגנת מים עם עמידות IP64, מתאימה לחללים חיצוניים ורטובים. זמינה בשלושה גדלים ועוצמות תאורה. כנסו לאתר לפרטים נוספים ולרכישה
-  Updated: 2026-03-30T07:50:37Z
+  Updated: 2026-04-12T18:33:08Z
   Vendor: vendor-unknown
   Product Type: Wall lights with integrated LED
   Availability: Available
@@ -2847,7 +2812,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Availability: Not Available
     Price: ‏100.00 ‏₪ ILS
 - [מנורת תלייה WOOD ACT - שלוש צורות לבחירה מעץ טבעי](https://ledmarket.co.il/products/מנורת-תלייה-wood-act-שלוש-צורות-לבחירה-מעץ-טבעי): מנורת תלייה WOOD ACT - שלוש צורות לבחירה מעץ טבעי, פשוט מושלמת עבור מי שמחפש מנורה מיוחדת ומרגיעה לחלל הבית. מנורת התלייה WOOD ACT מעץ טבעי מביאה אווירה חמה
-  Updated: 2026-03-30T07:50:38Z
+  Updated: 2026-04-12T18:33:08Z
   Vendor: לדמרקט - מנורות תלייה
   Product Type: Hanging lamps with bulbs
   Availability: Available
@@ -2874,7 +2839,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Availability: Available
     Price: ‏595.00 ‏₪ ILS
 - [גוף תאורה SIMPLE LINE צמוד תקרה/קיר | LED 20W–80W | 3000K/6500K](https://ledmarket.co.il/products/גוף-תאורה-צמוד-תקרה-קיר-simple-line): גוף תאורה SIMPLE LINE צמוד תקרה או קיר בעיצוב נקי עם LED מובנה לבחירה: 3000K לבן חם או 6500K לבן קר. עמיד ללחות ומתאים לאמבטיה, מטבח ומסדרון.
-  Updated: 2026-04-09T15:54:16Z
+  Updated: 2026-04-21T06:03:58Z
   Vendor: המנורה השניה בחצי המחיר
   Product Type: Flush Mount Ceiling Light
   Availability: Available
@@ -2895,7 +2860,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Availability: Available
     Price: ‏130.00 ‏₪ ILS
 - [תאורה חיצונית מוגנת מים בעיצוב מודרני וחזק | עמידה בכל תנאי מזג אוויר](https://ledmarket.co.il/products/מנורת-קיר-תקרה-חוץ-מוגנת-מים): מנורת לד מוגנת מים IP65 לתאורת חוץ. זמינה במידות שונות, גווני אור לבן קר/חם, עיצוב מודרני ופיזור אור אחיד. התאמה מושלמת לכל חלל חיצוני. כנסו לאתר והזמינו עכשיו!
-  Updated: 2026-03-31T07:55:07Z
+  Updated: 2026-04-17T09:14:37Z
   Vendor: לדמרקט - מנורה מוגנת מים
   Product Type: Outdoor Wall and Ceiling Lights
   Availability: Available
@@ -2949,14 +2914,14 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Availability: Available
     Price: ‏950.00 ‏₪ ILS
 - [מנורת קיר PLIZO מפליז אמיתי רטרו | אהיל 30 ס״מ | בסיס E27 | LEDMarket](https://ledmarket.co.il/products/מנורת-קיר-plizo-מפליז-אמיתי): מנורת קיר PLIZO מפליז אמיתי בסגנון רטרו קלאסי עם נוכחות ייחודית. קוטר אהיל 30 ס״מ, מרחק בסיס–אהיל 34 ס״מ, בסיס נורה E27. כנסו לאתר לפרטים נוספים
-  Updated: 2026-03-30T07:50:39Z
+  Updated: 2026-04-12T11:53:49Z
   Vendor: עודפים
   Product Type: All Products
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/1.png?v=1718021216
   Price: ‏850.00 ‏₪ ILS
 - [מנורת קיר BLACK CUBE | מנורת קיר בעיצוב גיאומטרי נקי ומרשים](https://ledmarket.co.il/products/מנורת-קיר-black-cube): מנורת קיר BLACK CUBE משלבת רטרו ועיצוב עכשווי. מתאימה לחדרי שינה, מסדרונות ופינות עבודה עם מידות קומפקטיות ובסיס נורה E27. כנסו לאתר לפרטים נוספים ולרכישה
-  Updated: 2026-03-30T07:50:40Z
+  Updated: 2026-04-13T09:20:46Z
   Vendor: vendor-unknown
   Product Type: Wall lights with replaceable bulbs
   Availability: Available
@@ -3024,7 +2989,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/2475867895_-removebg-preview_15_-removebg-preview.webp?v=1701074258
   Price: ‏195.00 ‏₪ ILS
 - [מנורת תלייה RETRO CUBE asymmetrical | 3 קוביות רטרו בגדלים שונים](https://ledmarket.co.il/products/retro-cube-asymmetrical): מנורת תלייה RETRO CUBE asymmetrical עם שלוש קוביות רטרו בגדלים שונים למראה ייחודי ויוצא דופן. קטרים 17/15/13 ס״מ, בסיס באורך 70 ס״מ ובתי נורה E27. הזמינו עכשיו
-  Updated: 2026-04-06T08:05:13Z
+  Updated: 2026-04-13T09:21:55Z
   Vendor: לדמרקט - מנורות תלייה
   Product Type: Hanging lamps with bulbs
   Availability: Available
@@ -3151,7 +3116,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Availability: Available
     Price: ‏115.00 ‏₪ ILS
 - [פאנל לד צמוד תקרה עגול | 3 גווני אור CCT חם/קר/יום | הספקים שונים](https://ledmarket.co.il/products/פאנל-לד-צמוד-תקרה-עגול-בעל-שלושה-גווני-אור): פאנל לד צמוד תקרה עגול בעיצוב נקי לתאורה אחידה וחסכונית. כולל 3 גווני אור מובנים לבחירה, ומעבר בין הגוונים מתבצע בקלות באמצעות כיבוי והדלקה של מפסק החשמל.
-  Updated: 2026-03-30T11:56:14Z
+  Updated: 2026-04-15T17:52:38Z
   Vendor: לדמרקט תאורה מעוצבת
   Product Type: מנורת תקרה
   Availability: Available
@@ -3181,7 +3146,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/1_55e1aceb-31b6-41eb-a83f-f8264864ed97.webp?v=1720335165
     Price: ‏79.00 ‏₪ ILS
 - [פאנל לד צמוד תקרה מרובע | 3 גווני אור CCT | תאורה אחידה וחזקה](https://ledmarket.co.il/products/פאנל-לד-צמוד-תקרה-מרובע-בעל-שלושה-גווני-אור): פאנל לד צמוד תקרה מרובע עם 3 גווני אור מובנים (CCT) להחלפה לפי הצורך. מספק תאורה אחידה ונקייה ללא סנוור, מתאים לסלון, מטבח, חדרי שינה, משרד ומסדרון.
-  Updated: 2026-03-30T07:50:43Z
+  Updated: 2026-04-13T09:50:59Z
   Vendor: לדמרקט - מנורות תקרה
   Product Type: מנורת תקרה
   Availability: Available
@@ -3312,14 +3277,14 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Availability: Available
     Price: ‏325.00 ‏₪ ILS
 - [FARELL מנורת תלייה מוזהבת עם שלט ו-3 גווני אור מתכווננת לפינת אוכל](https://ledmarket.co.il/products/מנורת-תלייה-farrell): מנורת תלייה FARELL מוזהבת עם שלט ו-3 גווני אור (חם/אור יום/קר). גובה מתכוונן וחוטים כ-170 ס״מ. בסיס 101 ס״מ, גופים 92 ס״מ – מושלמת לפינת אוכל ולאי במטבח.
-  Updated: 2026-03-30T07:50:45Z
+  Updated: 2026-04-19T06:46:31Z
   Vendor: לדמרקט - מנורות תלייה
   Product Type: Hanging lamps with built-in LED
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/1_112b45da-e3a3-423c-8ff1-ae06fc686fee.webp?v=1736241332
-  Price: ‏990.00 ‏₪ ILS
+  Price: ‏770.00 ‏₪ ILS
 - [מנורות תלייה WATER DROPS מזכוכית צבעונית | תאורה אמנותית רכה](https://ledmarket.co.il/products/מנורות-תלייה-מסדרת-water-drops): מנורות תלייה מסדרת WATER DROPS עשויות זכוכית צבעונית שקופה־עדינה שמייצרת השתקפויות ועומק בחלל. תאורה רכה ומזמינה עם נוכחות עיצובית, כנסו לאתר לפרטים נוספים
-  Updated: 2026-03-30T07:50:45Z
+  Updated: 2026-04-13T10:14:38Z
   Vendor: לדמרקט - מנורות תלייה
   Product Type: Hanging lamps with bulbs
   Availability: Available
@@ -3338,7 +3303,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/21_34ae0e30-e124-4507-b08e-2960a0950a04.webp?v=1706434301
   Price: ‏65.00 ‏₪ ILS
 - [מנורת תלייה שלישייה דגם TRIPLE | תאורת לד מרחפת בגוונים משתנים](https://ledmarket.co.il/products/מנורת-תלייה-שלישייה): גוף תאורה מעוצב עם שלושה חישוקים מוארים, שלט חכם, אפליקציה, ותאורת לד חזקה בגווני אור משתנים – הבחירה המושלמת לכל חלל מודרני. כנסו לאתר והזמינו עכשיו!
-  Updated: 2026-04-09T10:43:55Z
+  Updated: 2026-04-13T11:19:33Z
   Vendor: לדמרקט - מנורות תלייה
   Product Type: Hanging lamps with built-in LED
   Availability: Available
@@ -3350,7 +3315,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Availability: Available
     Price: ‏1,650.00 ‏₪ ILS
 - [גרילנדה צבעונית לד | שרשרת לדים בצבעים שונים | תאורה צבעונית לכל אירוע](https://ledmarket.co.il/products/גרילנדה-בצבעים-שונים): שרשרת גרילנדה עמידה למים באורך 10 או 50 מטר, זמינה במגוון צבעים. אידיאלית לתאורת חוץ ופנים, לחגיגות, מרפסות ועיצוב חמים ונעים בכל עונה. כנסו לאתר והזמינו עכשיו!
-  Updated: 2026-04-11T14:43:38Z
+  Updated: 2026-04-20T10:07:06Z
   Vendor: לדמרקט - גרילנדה
   Product Type: Linear Lights and Lighting Chains
   Availability: Available
@@ -3401,7 +3366,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/2475867895_-removebg-preview_54_-removebg-preview.webp?v=1700739452
   Price: ‏195.00 ‏₪ ILS
 - [מנורה צמודת תקרה SURFACE | תאורה בעיצוב דק, מודרני ואלגנטי לכל חלל](https://ledmarket.co.il/products/מנורה-צמודת-תקרה-surface): מנורת תקרה SURFACE בעיצוב מרחף ודק במיוחד, עם שלושה גווני אור ושלט חכם לשליטה קלה. תאורת לד מובנית וחסכונית, במבחר גדלים וצבעים. כנסו לפרטים נוספים ולרכישה!
-  Updated: 2026-04-06T09:24:06Z
+  Updated: 2026-04-15T00:14:05Z
   Vendor: המנורה השניה בחצי המחיר
   Product Type: Flush Mount Ceiling Light
   Availability: Available
@@ -3467,19 +3432,12 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
     Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/products/Capture_ari_2.png?v=1698918798
     Price: ‏2,150.00 ‏₪ ILS
 - [צילינדר צמוד תקרה DEEP | צילינדר בעיצוב מודרני עם תאורת LED מובנית](https://ledmarket.co.il/products/צילינדר-אלגנט-צמוד-תקרה-1): גוף תאורה צילינדר יוקרתי בגימור שחור חיצוני וסגול כהה פנימי, עם שלושה גווני אור מובנים והספק 20W. מתאים למטבחים, דלפקים וחללים מודרניים. כנסו לאתר והזמינו!
-  Updated: 2026-03-30T07:50:46Z
+  Updated: 2026-04-12T11:30:37Z
   Vendor: לדמרקט תאורה מעוצבת
   Product Type: Cylinder Light Fixture
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/2_839f7cf3-f27e-4a9d-ba67-9ee3713e30fe.webp?v=1705923448
-  - [10X18 cm](https://ledmarket.co.il/products/צילינדר-אלגנט-צמוד-תקרה-1?variant=39483305590918)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/2_839f7cf3-f27e-4a9d-ba67-9ee3713e30fe.webp?v=1705923448
-    Price: ‏380.00 ‏₪ ILS
-  - [10X30 cm](https://ledmarket.co.il/products/צילינדר-אלגנט-צמוד-תקרה-1?variant=39489206845574)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/2_839f7cf3-f27e-4a9d-ba67-9ee3713e30fe.webp?v=1705923448
-    Price: ‏480.00 ‏₪ ILS
+  Price: ‏380.00 ‏₪ ILS
 - [מנורת קיר PIPE HAT | עיצוב תעשייתי בגימור חלודה | לדמרקט](https://ledmarket.co.il/products/מנורת-קיר-pipe-hat): גוף תאורה בסגנון תעשייתי, עשוי מתכת דמוית ברזל. גובה 44 ס"מ, מתאים לנורת E27. מושלם לבר, לופט או קיר עם נוכחות. כנסו לאתר לפרטים נוספים והזמינו מנורת קיר חדשה
   Updated: 2026-03-30T07:50:46Z
   Vendor: vendor-unknown
@@ -3487,187 +3445,201 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/30_4f28f858-23a4-426c-9b7a-d32464b37745.webp?v=1701780504
   Price: ‏330.00 ‏₪ ILS
-[List Continued](https://ledmarket.co.il/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo0MzcxMDI2ODcwNDA2LCJsYXN0X3ZhbHVlIjoiNDM3MTAyNjg3MDQwNiJ9)
+- [מנורת קיר ZAZA | תאורה קיר מודרנית בעיצוב טבעי עם עץ ועור](https://ledmarket.co.il/products/מנורת-קיר-zaza): גוף תאורה בעיצוב יוצא דופן: עץ, עור ומתכת. מושלם לחדר שינה, מסדרון או משרד. זמין בשחור או לבן עם בסיס E27. כנסו לאתר לפרטים נוספים והזמינו עכשיו מנורת קיר חדשה
+  Updated: 2026-03-30T07:50:47Z
+  Vendor: לדמרקט - מנורות קיר
+  Product Type: Wall lights with replaceable bulbs
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/2475867895_-removebg-preview_6_-removebg-preview.png?v=1701073416
+  - [שחור](https://ledmarket.co.il/products/מנורת-קיר-zaza?variant=31310633205894)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/2475867895_-removebg-preview_13_-removebg-preview.png?v=1744701276
+    Price: ‏195.00 ‏₪ ILS
+  - [לבן](https://ledmarket.co.il/products/מנורת-קיר-zaza?variant=31498426548358)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0050/0226/4674/files/2475867895_-removebg-preview_12_-removebg-preview_472840ae-b74e-494f-afe5-95fc9fc4cfb5.png?v=1744701276
+    Price: ‏195.00 ‏₪ ILS
+[List Continued](https://ledmarket.co.il/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo0MzgwNTg5MTI5ODYyLCJsYXN0X3ZhbHVlIjoiNDM4MDU4OTEyOTg2MiJ9)
 
 ## Collections
 
 - [מנורות קיר מעוצבות | מנורות קיר לסלון, מסדרון וחדר שינה | LEDMarket](https://ledmarket.co.il/collections/מנורות-קיר): מנורות קיר עם אור נעים ועיצוב מדויק – לאווירה ולהדגשה. מגוון גימורים, זמינות במלאי, משלוח מהיר ואחריות. כנסו לאתר והזמינו עכשיו מנורות קיר חדשות לבית ולגינה
-  Updated: 2026-04-10T11:35:51Z
-  Total Products: 231
+  Updated: 2026-04-21T11:24:19Z
+  Total Products: 232
 - [מנורות תלייה מעוצבות | מנורות תלייה בעיצוב מודרני או קלאסי | LEDMarket](https://ledmarket.co.il/collections/מנורות-תלייה): מנורות תלייה בכל הסגנונות והגדלים, גווני אור לבחירה וזמינות במלאי. משלוח מהיר ואחריות מלאה – מצאו את התאורה המושלמת לבית. כנסו לאתר לפרטים נוספים והזמינו עכשיו
-  Updated: 2026-04-10T11:35:51Z
+  Updated: 2026-04-21T11:24:19Z
   Total Products: 286
 - [תאורת לד לבית ולעסק | אור וסטייל תאורת לד | נורות לדים | LEDMarket](https://ledmarket.co.il/collections/נורות-ופסי-לד): תאורת לד חסכונית לבית ולעסק: גווני אור לבחירה, CRI גבוה ודימר אופציונלי. פרופילים, ספוטים, צמודי תקרה ותלייה. ייעוץ מומחים ומשלוח מהיר לכל הארץ. הזמינו עכשיו
-  Updated: 2026-04-11T11:21:41Z
+  Updated: 2026-04-21T11:24:19Z
   Total Products: 107
 - [שקועי תקרה לגבס ונישות – מראה נקי | גופי תאורה שקועים| LEDMarket](https://ledmarket.co.il/collections/שקועי-תקרה): שקועי תקרה לתקרות גבס ונישות לקבלת מראה מינימליסטי. CRI גבוה, זוויות הארה ודימר אופציונלי,, אביזרים תואמים ומשלוח מהיר. כנסו לאתר לפרטים נוספים והזמינו עכשיו
-  Updated: 2026-04-11T11:21:41Z
+  Updated: 2026-04-22T11:24:53Z
   Total Products: 16
 - [תאורת גינה, תאורת חוץ | תאורת גינה וחוץ עמידה למזג אוויר | LEDMarket](https://ledmarket.co.il/collections/תאורת-חוץ): תאורת חוץ לשבילים, כניסות ומרפסות עם דירוגי IP מתאימים. עמידות, בטיחות ועיצוב. עם משלוח מהיר ואחריות מלאה. כנסו לאתר לפרטים נוספים והזמינו עכשיו מנורות חדשות
-  Updated: 2026-04-11T11:21:41Z
+  Updated: 2026-04-21T11:24:19Z
   Total Products: 125
 - [גופי תאורה צמודי תקרה | צמודי תקרה LED מעוצבים לבית ולעסק | LEDMarket](https://ledmarket.co.il/collections/צמודי-תקרה): צמודי תקרה בעיצוב נקי לכל חדר. אור איכותי וחסכוני, גדלים וגווני אור לבחירה, התקנה קלה ומשלוח מהיר. אחריות מלאה ושירות מקצועי בכל הארץ. כנסו לאתר והזמינו עכשיו
-  Updated: 2026-04-11T11:21:41Z
-  Total Products: 75
+  Updated: 2026-04-21T11:24:19Z
+  Total Products: 76
 - [גוף תאורה צילינדר | צילינדרים לתקרה ולקיר – תאורה ממוקדת | LEDMarket](https://ledmarket.co.il/collections/צמודי-תקרה-צילינדרים): גופי תאורה צילינדריים בעיצוב מודרני לתקרה או לקיר. תאורה ממוקדת, דימינג אופציונלי, CRI גבוה וגימורים מגוונים. במלאי ומשלוח מהיר. כנסו לאתר והזמינו עכשיו
-  Updated: 2026-04-09T11:21:40Z
+  Updated: 2026-04-13T11:21:43Z
   Total Products: 23
 - [מנורות תלייה עם לד מובנה | עיצוב מודרני, חסכוני ואלגנטי – LEDMarket](https://ledmarket.co.il/collections/מנורות-תלייה-לד-מובנה): מנורות תלייה עם לד מובנה בעיצוב חדשני – תאורה חסכונית, אלגנטית ומלאת סטייל לחללי מגורים, פינות אוכל וחללים גבוהים. קולקציה מרהיבה באיכות גבוהה. הזמינו עכשיו
-  Updated: 2026-04-07T11:23:46Z
+  Updated: 2026-04-20T11:23:57Z
   Total Products: 130
 - [מנורות תלייה עם נורה | תעשייתי, עץ וכלובים – LEDMarket](https://ledmarket.co.il/collections/מנורות-תלייה-עם-נורות): מנורות תלייה עם נורה חשופה בסגנון תעשייתי, עץ טבעי וכלובי מתכת. אור חם ומראה ייחודי לפינת אוכל, סלון ומטבח. מבחר דגמים איכותיים. כנסו לאתר והזמינו מנורת תלייה
-  Updated: 2026-04-10T11:35:51Z
+  Updated: 2026-04-21T11:24:19Z
   Total Products: 140
 - [מנורות קיר לד מובנה בעיצוב מודרני](https://ledmarket.co.il/collections/מנורות-קיר-מודרני): מנורות קיר עם לד מבונה בשלל צורות, עוצמות וגווני אור, שיאפשרו לכם להאיר כל חלל. לפרטים נוספים והזמנת מנורות קיר לד מובנה בעיצוב מודרני >
-  Updated: 2026-04-07T11:23:46Z
-  Total Products: 156
+  Updated: 2026-04-21T11:24:19Z
+  Total Products: 157
 - [מנורות קיר לאמבטיה](https://ledmarket.co.il/collections/מנורות-קיר-אמבטיה): הקולקציה של מנורות הקיר לאמבטיה מגיעה במגוון של גופי תאורה בגדלים ועיצובים כדי לתת את התאורה המושלמת לאמבטיה. מנורות קיר לאמבטיה עמידות לאדים
-  Updated: 2026-04-10T11:35:51Z
+  Updated: 2026-04-21T11:24:19Z
   Total Products: 27
 - [שקועי קיר לד | תאורה אדריכלית לחללים פנימיים וחיצוניים – LEDMarket](https://ledmarket.co.il/collections/מנורות-קיר-שקועי-קיר): שקועי קיר לד מעוצבים לאור רך ומדויק. פתרון תאורה אדריכלי למדרגות, שבילים וקירות פנים. מגוון עיצובים אלגנטיים, חסכוניים ועמידים במיוחד. הזמינו עכשיו
   Updated: 2026-03-30T07:49:52Z
   Total Products: 19
 - [מנורות קיר עם נורה | תעשייתי, וינטג’ ועץ – LEDMarket](https://ledmarket.co.il/collections/מנורות-קיר-עם-נורות): מנורות קיר עם נורה חשופה בעיצובים תעשייתיים, וינטג’ ועץ טבעי. אור חם ומודגש לקירות סלון, מסדרון ומיטה. מבחר דגמים איכותיים במלאי. כנסו לאתר והזמינו עכשיו
-  Updated: 2026-04-07T11:23:46Z
+  Updated: 2026-04-20T11:10:59Z
   Total Products: 42
 - [מנורות תקרה מעוצבות](https://ledmarket.co.il/collections/צמודי-תקרה-מנורות-תקרה): מחפשים מנורה לתקרה שתקבל מחמאות? בלדמרקט תמצאו מנורות תקרה מעוצבות בעלות שלל גווני אור ליצירת אווירה מתאימה לחלל המטבח, הסלון וחדרי הבית.
-  Updated: 2026-04-10T11:35:51Z
-  Total Products: 139
+  Updated: 2026-04-21T11:24:19Z
+  Total Products: 140
 - [נורות לד דמוי פחם (Filament) – עיצוב, חמימות וסטייל ייחודי | LEDMarket](https://ledmarket.co.il/collections/נורות-לד-דמוי-פחם-filament): קולקציית נורות לד דמוי פחם בעיצוב וינטג’ – אור חם ונעים בגוון 2200K, חיסכון בחשמל ומראה קלאסי לבית, למסעדות ולחללים מעוצבים. כנסו לאתר לפרטים נוספים ולהזמנה
-  Updated: 2026-04-10T11:35:51Z
+  Updated: 2026-04-21T11:24:19Z
   Total Products: 15
 - [נורות LED ותחליפי הלוגן – בהירות וחיסכון לכל חלל | LEDMarket](https://ledmarket.co.il/collections/נורות-ופסי-לד-תחליפי-הלוגן): קולקציית נורות LED ותחליפי הלוגן: E27, GU10, G9, R7S ו-PAR. אור חם/קר, CRI גבוה, חסכוניות ועמידות, תאימות לדימר בדגמים נבחרים. משלוח מהיר. כנסו לאתר והזמינו
-  Updated: 2026-04-11T11:21:41Z
+  Updated: 2026-04-17T11:45:26Z
   Total Products: 35
 - [פס לד - מגוון גדול של פסי לד לקנייה און ליין](https://ledmarket.co.il/collections/פס-לד): פס לד הינו פתרון תאורה מעולה לגינה ולבית, קיים מגוון של פסי לד, ברמות אטימות שונות למים ובגווני אור שונים, לצפיה במגוון פסי לדים הקליקו >>
-  Updated: 2026-04-11T11:21:41Z
+  Updated: 2026-04-21T11:24:19Z
   Total Products: 55
 - [מנורות חוץ מעוצבות – תאורת קיר ותקרה עמידה למזג אוויר | LEDMarket](https://ledmarket.co.il/collections/מנורות-חוץ-תאורת-קיר-חוץ): מנורות חוץ בעיצוב מודרני ועמיד, מושלמות לחזיתות, גינות ומרפסות. מגוון דגמים בגווני שחור, לבן ואפור, עם תאורה חמה ונעימה ועמידות גבוהה למים. כנסו לאתר והזמינו
-  Updated: 2026-04-10T11:35:51Z
+  Updated: 2026-04-21T11:24:19Z
   Total Products: 56
 - [תאורת הצפה ופרוז'קטורים לגינה ולחוץ – עוצמה, עמידות ודיוק | LEDMarket](https://ledmarket.co.il/collections/תאורת-חוץ-תאורת-הצפה-פרוזקטורים): תאורת הצפה ופרוז'קטורים עוצמתיים לתאורת חוץ, שבילים וגינות. עמידים למים, חסכוניים באנרגיה ובעלי עוצמת הארה גבוהה. התאמה מושלמת לכל שטח חיצוני. כנסו לאתר להזמנה
-  Updated: 2026-04-05T11:20:06Z
+  Updated: 2026-04-15T11:21:11Z
   Total Products: 18
 - [דוקרני תאורה לגינה – תאורה ממוקדת ואלגנטית לחוץ | LEDMarket](https://ledmarket.co.il/collections/מנורות-חוץ-דוקרנים): דוקרני תאורה מעוצבים לגינה ולחצר – תאורת לד חסכונית, עמידה למים ומדויקת להארת שבילים, עצים ואלמנטים נבחרים. עיצוב מודרני ועמידות גבוהה לחוץ. כנסו לאתר והזמינו
-  Updated: 2026-04-11T11:21:41Z
+  Updated: 2026-04-13T11:21:43Z
   Total Products: 15
 - [תאורת חוץ שקועה ברצפה – עיצוב מדויק, עמידות מושלמת](https://ledmarket.co.il/collections/תאורת-חוץ-שקועי-רצפה): גופי תאורה שקועים לרצפה בעיצוב מודרני ועמידות מלאה למים. אידיאליים לשבילי גן, חניות, חצרות ומדרכות. תאורה חזקה, חמימה ובטוחה לחוץ. כנסו לאתר והזמינו עכשיו
   Updated: 2026-03-30T07:49:53Z
   Total Products: 5
 - [בסיסים לגופי תאורה – מגוון עיצובים והרכבות איכותיות | LEDMarket](https://ledmarket.co.il/collections/אביזרים-לתאורה-דרייברים-ושנאים-ובסיסים): מבחר בסיסים לגופי תאורה – עגולים, מלבניים וארוכים, במגוון גדלים וגימורים. פתרונות תלייה והרכבה איכותיים בעיצוב נקי ומודרני מבית LEDMarket. כנסו לאתר והזמינו
-  Updated: 2026-04-03T11:19:49Z
+  Updated: 2026-04-19T11:23:26Z
   Total Products: 10
 - [אביזרי תאורה](https://ledmarket.co.il/collections/אביזרים-לתאורה): מגוון גדול של אביזרי תאורה - בסיסים למנורות מכל הסוגים, מחברים שונים, שנאים ועוד אביזרים לתאורה להקלת התקנת הנורות החדשות בכל מיקום שתבחרו >
-  Updated: 2026-04-09T11:21:40Z
+  Updated: 2026-04-22T11:24:53Z
   Total Products: 64
 - [תאורה אדריכלית – פרופילים, צילינדרים ופתרונות מדויקים | LEDMarket](https://ledmarket.co.il/collections/תאורה-אדריכלית): גופי תאורה אדריכליים בעיצוב מינימליסטי: פרופילים ליניאריים, צילינדרים ותלויים. אור נקי ומדויק לפרויקטים יוקרתיים – תקרות, קירות וחללים מסחריים. הזמינו עכשיו
-  Updated: 2026-04-07T11:23:46Z
-  Total Products: 166
+  Updated: 2026-04-22T11:24:53Z
+  Total Products: 167
 - [פרופילי תאורה חזקים | קווים נקיים ותאורה מדויקת – LEDMarket](https://ledmarket.co.il/collections/פרופיל-תאורה): פרופילי תאורה מהתקרה – שקועים, צמודים ותלויים. עיצוב מינימליסטי, אור אחיד  ואיכות פרימיום לכל חלל. קולקציה אדריכלית מרהיבה. כנסו לאתר והזמינו עכשיו
 פרופילי תאורה עם לד ושנאי
-  Updated: 2026-04-06T11:18:26Z
+  Updated: 2026-04-22T11:24:53Z
   Total Products: 42
 - [פסי צבירה 230V | עיצוב מודולרי וגמיש לתאורה מדויקת – LEDMarket](https://ledmarket.co.il/collections/פס-צבירה): פסי צבירה 230V עם ספוטים מתכווננים לעיצוב דינמי וגמיש. פתרון מושלם לחנויות, סלון או מטבח – אור ממוקד, מודרני וחסכוני באנרגיה. כנסו לאתר לפרטים נוספים ולהזמנה
-  Updated: 2026-03-30T07:49:53Z
+  Updated: 2026-04-21T11:24:19Z
   Total Products: 21
 - [תאורה סולארית לגינה – עמידה, חסכונית ומעוצבת | LEDMarket](https://ledmarket.co.il/collections/תאורת-חוץ-תאורה-סולארית): גופי תאורה סולאריים לגינה, לחצר ולמרפסת – חסכוניים באנרגיה, נטענים מהשמש ועמידים למים. מגוון דגמים דקורטיביים עם תאורה חמימה ומראה מודרני. כנסו לאתר והזמינו
-  Updated: 2026-04-11T11:21:41Z
+  Updated: 2026-04-17T11:45:26Z
   Total Products: 30
 - [מנורות רצפה – עיצוב, תאורה ואווירה חמה לחללים מעוצבים | LEDMarket](https://ledmarket.co.il/collections/מנורות-רצפה): קולקציית מנורות רצפה בעיצוב מודרני וסגנון חמים. שילוב של עץ, מתכת ובדים טבעיים – לתאורה רכה, עמידות ואווירה יוקרתית בסלון ובחללים ביתיים. הזמינו עכשיו
-  Updated: 2026-03-30T07:49:53Z
+  Updated: 2026-04-16T06:52:18Z
   Total Products: 16
 - [מנורות קיר לאמבטיה | עמידות בלחות עם לד איכותי – LEDMarket](https://ledmarket.co.il/collections/מנורות-קיר-לאמבטיה): מנורות קיר לאמבטיה בעיצוב מודרני ועמיד ללחות, עם תאורת לד חסכונית בגוון אור נקי 4000K. מושלם מעל מראה או קונסולה. מגוון דגמים יוקרתיים במלאי. הזמינו עכשיו
-  Updated: 2026-04-10T11:35:51Z
+  Updated: 2026-04-21T11:24:19Z
   Total Products: 23
 - [תאורה לחדר שינה – עיצוב, רוגע ואווירה מושלמת למנוחה | LEDMarket](https://ledmarket.co.il/collections/חדר-שינה): קולקציית תאורה לחדר שינה בעיצוב מודרני ורך – מנורות קיר, תקרה ושולחן בגוונים חמים ונעימים. שילוב של עץ, שחור וזהב ליצירת אווירה אינטימית ושלווה. הזמינו עכשיו
-  Updated: 2026-04-10T11:35:51Z
-  Total Products: 231
+  Updated: 2026-04-21T11:24:19Z
+  Total Products: 230
 - [סוגי תאורה: יופי, פונקציה ויעילות | תאורה לכל חדר בבית | LEDMarket](https://ledmarket.co.il/collections/תאורה-לפי-אזור): מה מתאים לסלון, למטבח, לאמבטיה ושירותים, לחדר שינה ולחדרי ילדים. מדריך מהיר לבחירת גוון (K), עוצמה ודימר + מק״ט מוצרים שיעשו את העבודה. כנסו לאתר לפרטים נוספים
-  Updated: 2026-04-11T11:21:41Z
+  Updated: 2026-04-21T11:24:19Z
   Total Products: 234
 - [תאורה לבית – עיצוב, פונקציונליות ואווירה מושלמת לכל חלל | LEDMarket](https://ledmarket.co.il/collections/תאורה-לבית): קולקציית תאורה לבית בעיצוב מודרני – גופי תאורה לסלון, חדר שינה ומטבח. שילוב של אור נעים, חומרים איכותיים ועיצוב נקי לכל סגנון ביתי. כנסו לאתר ופרטים נוספים
-  Updated: 2026-04-10T11:35:51Z
-  Total Products: 239
+  Updated: 2026-04-22T11:24:53Z
+  Total Products: 238
 - [תאורה לסלון – עיצוב, פונקציונליות ואווירה מושלמת | LEDMarket](https://ledmarket.co.il/collections/תאורה-לסלון): קולקציית תאורה לסלון בעיצוב נקי וניטרלי: מנורות תקרה, קיר ורצפה עם אור חם ונעים, חומרים איכותיים והתאמה לכל סגנון. משלוח מהיר ושירות מקצועי. כנסו לאתר להזמנה
-  Updated: 2026-04-10T11:35:51Z
-  Total Products: 146
+  Updated: 2026-04-21T11:24:19Z
+  Total Products: 147
 - [תאורה למטבח – עיצוב נקי, פונקציונליות ואור מדויק | LEDMarket](https://ledmarket.co.il/collections/תאורה-למטבח): קולקציית תאורה למטבח בעיצוב מודרני ומינימליסטי. גופי תקרה, ספוטים ופסי לד בגימורים של שחור, לבן ועץ טבעי – לתאורה מדויקת ונעימה לבישול ולעיצוב. הזמינו עכשיו
-  Updated: 2026-04-10T11:35:51Z
-  Total Products: 38
+  Updated: 2026-04-22T11:24:53Z
+  Total Products: 39
 - [תאורת אמבטיה](https://ledmarket.co.il/collections/תאורה-לאמבטיה-ושירותים): תאורת קיר צמודה לחדרי אמבטיה. מנורות אמבטיה עמידות לאורך זמן לתאורה מעל למראת חדר האמבטיה או תאורת לד לכל החדר. לצפיה בקולקציה הכנסו לאתר.
-  Updated: 2026-04-11T11:21:41Z
+  Updated: 2026-04-21T11:24:19Z
   Total Products: 35
 - [תאורה לפינת אוכל – מנורות תלייה בעיצוב מודרני ומרשים | LEDMarket](https://ledmarket.co.il/collections/תאורה-לפינת-אוכל): גופי תאורה לפינת אוכל בעיצוב אלגנטי – זכוכית, עץ, מתכת או זהב. מנורות תלייה בשלישיות ודגמים מודרניים המשלבים אור חם ואווירה מזמינה לכל ארוחה. הזמינו עכשיו
-  Updated: 2026-04-10T11:35:51Z
+  Updated: 2026-04-21T11:24:19Z
   Total Products: 120
 - [תאורה לחדרי ילדים – מנורות צבעוניות, בטוחות ומלאות דמיון | LEDMarket](https://ledmarket.co.il/collections/תאורה-לחדרי-ילדים): תאורה לחדרי ילדים בעיצוב שובב ומעורר השראה: מנורות בצורת בלונים, נברשות צבעוניות, גופי קיר ודגמים יצירתיים באור רך ונעים. מושלם לכל חדר ילדים. כנסו לאתר להזמנה
-  Updated: 2026-04-10T11:35:51Z
-  Total Products: 19
+  Updated: 2026-04-21T11:24:19Z
+  Total Products: 20
 - [תאורה למשרד – פרופילים מודרניים וגופי תאורה אדריכליים | LEDMarket](https://ledmarket.co.il/collections/תאורה-למשרד): גופי תאורה למשרדים בעיצוב מינימליסטי ונקי: פרופילים תלויים, שקועים וצמודי תקרה. אור מדויק, נעים לעין ויעיל לעבודה בכל חלל עסקי או ביתי. כנסו לאתר והזמינו עכשיו
-  Updated: 2026-04-11T11:21:41Z
-  Total Products: 91
+  Updated: 2026-04-22T11:24:53Z
+  Total Products: 92
 - [תאורה תעשייתית עוצמתית – Flood, UFO ופאנלים מקצועיים | LEDMarket](https://ledmarket.co.il/collections/תאורה-תעשייתית): פתרונות תאורה תעשייתית מתקדמים: גופי UFO חזקים, פאנלים מרובעים וזרקורים עמידים לכל תנאי עבודה. תאורה חסכונית, מדויקת ויעילה למפעלים, מחסנים וחניונים.
-  Updated: 2026-04-10T11:35:51Z
+  Updated: 2026-04-21T11:24:19Z
   Total Products: 16
 - [תאורת גבס / שקועי גבס | מראה נקי ותאורה מדויקת – LEDMarket](https://ledmarket.co.il/collections/תאורת-גבס): שקועי גבס מעוצבים במראה חלק ואדריכלי: עגול, מרובע ומתכוונן. תאורה רכה ומדויקת, התקנה סמויה ותוצאה יוקרתית לכל חלל. מגוון דגמים במלאי. כנסו לאתר והזמינו עכשיו
-  Updated: 2026-04-11T11:21:41Z
-  Total Products: 16
+  Updated: 2026-04-22T11:24:53Z
+  Total Products: 17
 - [נברשות מעוצבות | תאורה מרכזית יוקרתית לסלון ופינת אוכל – LEDMarket](https://ledmarket.co.il/collections/נברשות): נברשות בעיצובים מרהיבים – זכוכית, מתכת או טבעות לד מודרניות. יוצרות מוקד אור עוצמתי ואלגנטי לכל חלל. מגוון סגנונות קלאסיים ומודרניים. כנסו לאתר לפרטים נוספים
-  Updated: 2026-04-06T11:18:26Z
+  Updated: 2026-04-19T11:23:25Z
   Total Products: 32
 - [תאורה כפרית לבית, גופי תאורה כפריים](https://ledmarket.co.il/collections/תאורה-כפרית): תאורה למטבח, לסלון כפרי מעוצבת ויחודית בקולקציית גופי התאורה הכפריים של לדמרקט. אם אתם רוצים לעצב בית בסגנון כפרי, תאורה כפרית לבית של לדמרקט היא הקולקציה בשבילכם >
-  Updated: 2026-04-10T11:35:51Z
+  Updated: 2026-04-21T11:24:19Z
   Total Products: 50
 - [עמודי תאורה לגינה – עיצוב אלגנטי ותאורה מושלמת לחלל החוץ](https://ledmarket.co.il/collections/עמודי-תאורה-לגינה): עמודי תאורה מודרניים לגינה ולחצר בעיצוב יוקרתי ועמידות גבוהה. מגוון דגמים בגבהים שונים לתאורה מושלמת בשבילי גן, מדשאות וכניסות לבית. כנסו לאתר והזמינו עכשיו
-  Updated: 2026-03-30T07:49:54Z
+  Updated: 2026-04-13T11:21:43Z
   Total Products: 8
 - [דילים משתלמים לפס צבירה וספוטים](https://ledmarket.co.il/collections/דילים-משתלמים-לפס-צבירה-עם-ספוטים)
-  Updated: 2026-03-30T07:49:54Z
+  Updated: 2026-04-21T11:24:19Z
   Total Products: 3
 - [ספוטים לד לתקרה | ספוטים לד למסילות ולתקרה – חזק וחסכוני | LEDMarket](https://ledmarket.co.il/collections/תאורת-ספוטים): ספוטים LED למסילות או לתקרה עם אור חד וחסכוני. זוויות הארה, דימר וגווני אור לבחירה, CRI גבוה והתקנה קלה. אחריות מלאה ומשלוח מהיר. כנסו לאתר והזמינו עכשיו
-  Updated: 2026-03-30T11:17:40Z
+  Updated: 2026-04-21T11:24:19Z
   Total Products: 44
 - [פסי לד קשיחים PCB](https://ledmarket.co.il/collections/אביזרי-תאורה-פסי-לד-קשיחים-pcb): במקרים שאתם זקוקים דווקא לפתרון של פס לד קשיח ולא לפתרון הנפוץ יותר של פס לד גמיש - פסי לד קשיחים PCB של לדמרקט הם הפתרון עבורכם >
   Updated: 2026-03-30T07:49:54Z
   Total Products: 17
 - [פסי לד גמישים | פסי LED ופרופילים לפי מידה | LEDMarket](https://ledmarket.co.il/collections/אביזרי-תאורה-פסי-לד-גמישים): פסי LED למטבח, סלון ונישות – CRI גבוה, דימרים וגווני אור מדויקים. פרופילים/מחברים/דרייברים תואמים, התקנה קלה, אחריות ומשלוח מהיר. כנסו לאתר והזמינו עכשיו פס לד
-  Updated: 2026-04-11T11:21:41Z
+  Updated: 2026-04-21T11:24:19Z
   Total Products: 65
 - [אביזרי תאורה – רכיבי לד COB / DIP / SMD | איכות גבוהה ליצרנים ושדרוגים](https://ledmarket.co.il/collections/אביזרי-תאורה-רכיבי-לד-cob-dip-smd): רכיבי לד COB, DIP ו-SMD באיכות גבוהה לפרויקטי תאורה, תיקונים ושדרוגים. מגוון עוצמות, טמפרטורות צבע ואמינות גבוהה – מושלם למעצבים, חשמלאים ויצרנים. הזמינו עכשיו
-  Updated: 2026-04-07T11:23:46Z
+  Updated: 2026-04-17T11:45:26Z
   Total Products: 23
 - [אביזרי תאורה ופרזול לגופי תאורה – כל מה שצריך במקום אחד | LEDMarket](https://ledmarket.co.il/collections/אביזרי-תאורה-אביזרים-ופרזול-לגופי-תאורה): מגוון רחב של אביזרי תאורה, בתי נורה, מחברים, מתאמים ופרזול איכותי לכל סוגי גופי התאורה. פתרונות מקצועיים להרכבה, חיבור והתקנה – ב-LEDMarket.  כנסו לאתר להזמנות
-  Updated: 2026-04-09T11:21:40Z
+  Updated: 2026-04-22T11:24:53Z
   Total Products: 67
 - [בקרים וחיישנים לתאורת לד – שליטה חכמה לכל פתרון | LEDMarket](https://ledmarket.co.il/collections/אביזרי-תאורה-בקרים-וחיישנים): גלה את מגוון הבקרים והחיישנים של LEDMarket – דימרים, שלטים, בקרי RGB ומגע לתאורת לד חכמה ונוחה. שליטה מדויקת בעוצמה ובאווירה בכל חלל. כנסו לאתר לפרטים נוספים
-  Updated: 2026-04-05T11:20:06Z
+  Updated: 2026-04-21T11:24:19Z
   Total Products: 26
 - [דרייברים ושנאים | דרייברים ל-LED ואביזרי התקנה | LEDMarket](https://ledmarket.co.il/collections/אביזרי-תאורה-דרייברים-ושנאים): דרייברים, ספקי כוח ואביזרי התקנה איכותיים לפסי LED ולגופי תאורה. התאמה בטוחה, אמינות גבוהה ומשלוח מהיר. כנסו לאתר והזמינו עכשיו דרייבר לד או ספק כוח
-  Updated: 2026-04-11T11:21:41Z
+  Updated: 2026-04-22T11:24:53Z
   Total Products: 102
 - [מראות מוארות – פונקציונליות ואלגנטיות מושלמת לחדר הרחצה | LEDMarket](https://ledmarket.co.il/collections/אביזרי-עיצוב-מראות-מוארות): קולקציית מראות מוארות מעוצבות לחדרי רחצה – עיצוב מודרני, תאורה היקפית נעימה, דימר מגע ועמידות בלחות. שילוב מושלם של יופי וטכנולוגיה. כנסו לאתר והזמינו מראה חדשה
   Updated: 2026-03-31T11:11:31Z
   Total Products: 29
 - [תאורה למרפסת ולחוץ – עיצוב, עמידות ואווירה | LEDMarket](https://ledmarket.co.il/collections/תאורה-למרפסת): מנורות קיר ותקרה למרפסת בעיצוב מודרני ועמיד למים. משלבות אור חמים ונקי, חומרים איכותיים ודיוק עיצובי – התאורה שהופכת כל מרפסת למקום מושלם. כנסו לאתר והזמינו
-  Updated: 2026-04-10T11:35:51Z
+  Updated: 2026-04-17T11:45:26Z
   Total Products: 66
 - [פאנל לד צמוד או שקוע | תאורה נקייה ודקה בעיצוב מודרני – LEDMarket](https://ledmarket.co.il/collections/פאנל-לד-צמוד-פאנל-לד-שקוע): פאנלי לד צמודים ושקועים בעובי מינימלי ותאורה רכה. מראה נקי, התקנה קלה, ופיזור אור אחיד לכל חלל – סלון, מטבח, משרדים וחדרי עבודה. כנסו לאתר לפרטים נוספים ולהזמנה
-  Updated: 2026-04-11T11:21:41Z
+  Updated: 2026-04-21T11:24:19Z
   Total Products: 10
 - [תאורה טכנית – מסילות, ספוטים ופתרונות מקצועיים | LEDMarket](https://ledmarket.co.il/collections/תאורה-טכנית): תאורה טכנית לבית ולעסק: מסילות/ספוטים, צמודי תקרה ופתרונות משימה. דיוק בהארה, אביזרים תואמים ומשלוח מהיר. כנסו לאתר לפרטים נוספים והזמינו עכשיו תאורה חדשה לבית
-  Updated: 2026-04-06T11:18:26Z
+  Updated: 2026-04-22T11:24:53Z
   Total Products: 83
 - [תאורה לצמחים | גידול קנאביס – פאנלים ונורות LED לגידול](https://ledmarket.co.il/collections/תאורה-לצמחים-גידול-קנאביס): תאורת LED לגידול ביתי ומקצועי: UFO, Bars ופאנלים בעוצמה גבוהה, ספקטרום מלא ו-PPFD אופטימלי, חסכוני בחשמל, IP65, משלוח מהיר והכוונה. כנסו לאתר לפרטים נוספים
   Updated: 2026-03-30T07:49:54Z
   Total Products: 2
 - [המנורה השנייה ב50%](https://ledmarket.co.il/collections/המנורה-השנייה-בחצי-מחיר)
-  Updated: 2026-04-10T11:35:51Z
+  Updated: 2026-04-21T11:24:19Z
   Total Products: 23
 - [כבלי חשמל באיכות גבוהה – פתרונות חיווט לבית ולעסק | LEDMarket](https://ledmarket.co.il/collections/כבלים): קולקציית כבלים מקצועית לתאורה, חשמל ותקשורת – מגוון כבלי נחושת איכותיים בציפויים שונים, עמידים וגמישים לשימוש ביתי ותעשייתי. כנסו לאתר לפרטים נוספים ולהזמנה
-  Updated: 2026-04-07T11:23:46Z
+  Updated: 2026-04-22T11:24:53Z
   Total Products: 33
 - [גרילנדות ושרשראות תאורה – עיצוב חגיגי וחמים לכל חלל | LEDMarket](https://ledmarket.co.il/collections/גרילנדה-שרשראות-תאורה): גרילנדות לד ושרשראות תאורה מעוצבות לבית, לגינה או לאירועים. אור חם, חסכוני ואלגנטי שמוסיף אווירה קסומה בכל מקום. מגוון סגנונות וחיבורים לבחירה.
-  Updated: 2026-04-11T11:21:41Z
+  Updated: 2026-04-20T11:23:57Z
   Total Products: 11
 - [פסי צבירה מגנטיים – תאורה מודולרית אלגנטית ומדויקת לחלל מודרני](https://ledmarket.co.il/collections/פס-צבירה-מגנטי): גופי תאורה מגנטיים 48V בעיצוב נקי ומודולרי, מאפשרים שליטה גמישה בעוצמה ובמיקום. מושלם למשרדים, סלונים וחנויות המעוניינים בתאורה חכמה ומינימליסטית. הזמינו עכשיו
   Updated: 2026-03-30T11:17:40Z
@@ -3676,71 +3648,71 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Updated: 2026-03-30T07:49:54Z
   Total Products: 14
 - [מנורות קיר אפ-אנד-דאון | אור דו־כיווני אלגנטי – LEDMarket](https://ledmarket.co.il/collections/מנורות-אפ-אנד-דאון): מנורות קיר אפ-אנד-דאון עם לד חסכוני: אור חם ומעודן למעלה ולמטה, בעיצוב מודרני נקי. אידאלי למסדרונות, סלון וחזיתות. מגוון דגמים בצבעים. הזמינו עכשיו
-  Updated: 2026-04-07T11:23:46Z
+  Updated: 2026-04-21T11:24:19Z
   Total Products: 41
 - [מנורות שולחן – עיצוב, פונקציונליות ואווירה מושלמת לבית | LEDMarket](https://ledmarket.co.il/collections/מנורות-שולחן): קולקציית מנורות שולחן מעוצבות – משלבות תאורה חמימה, עיצוב מודרני וחומרים איכותיים. אידיאליות לחדר שינה, סלון או משרד, עם דגמי Limited Edition ייחודיים.
-  Updated: 2026-04-07T11:23:46Z
+  Updated: 2026-04-16T11:23:10Z
   Total Products: 34
 - [מנורות רצפה מעוצבות לבית – סגנון, חמימות ואיזון מושלם | LEDMarket](https://ledmarket.co.il/collections/מנורות-עומדות): גופי תאורה עומדים במראה אלגנטי ומודרני, משלימים את עיצוב הבית באור רך ומאוזן. מנורות רצפה מעץ, מתכת ובדים איכותיים – שילוב של פרקטיות ויוקרה. כנסו לאתר והזמינו
   Updated: 2026-03-30T07:49:55Z
   Total Products: 11
 - [תאורה לפרגולות – עיצוב, אווירה ועמידות מושלמת לחוץ | LEDMarket](https://ledmarket.co.il/collections/תאורה-לפרגולות): גופי תאורה תלויים וצמודים לפרגולות – שילוב של קווים נקיים, אור חמים ועמידות בתנאי חוץ. עיצוב מוקפד שמאיר את המרפסת או החצר באלגנטיות. כנסו לאתר והזמינו עכשיו
-  Updated: 2026-04-11T11:21:41Z
+  Updated: 2026-04-20T11:23:57Z
   Total Products: 25
 - [תאורת חירום לבית ולעסק – פתרונות בטיחות עם עוצמה ואמינות | LEDMarket](https://ledmarket.co.il/collections/תאורת-חירום): תאורת חירום סולארית, גופי לד עוצמתיים, הצפות ופאנלים נטענים לשעת חירום – כל הפתרונות במקום אחד. הגנה וביטחון עם עיצוב מינימליסטי ואור חסכוני. הזמינו עכשיו
-  Updated: 2026-04-05T11:20:06Z
+  Updated: 2026-04-15T11:21:11Z
   Total Products: 16
 - [תאורה לחנויות – ספוטים, פסי צבירה ופרופילים מדויקים | LEDMarket](https://ledmarket.co.il/collections/תאורה-לחנויות): פתרונות תאורה לחנויות ותצוגות: ספוטים על פס צבירה, פרופילים ליניאריים וגופים תלויים. אור חד וממקד שמדגיש מוצרים, חוסך אנרגיה ומשדרג מכירה. כנסו לאתר לפרטים נוספים ולהזמנה
-  Updated: 2026-04-11T11:21:41Z
+  Updated: 2026-04-22T11:24:53Z
   Total Products: 133
 - [מנורות לילה – תאורה רכה, חמימה ומעוצבת לחדר השינה | LEDMarket](https://ledmarket.co.il/collections/מנורות-לילה): גלו את קולקציית מנורות הלילה של LEDMarket: עיצובים מודרניים מעץ, מתכת ובד, עם תאורה עדינה ונעימה ליצירת אווירה מושלמת ללילה רגוע ונעים. כנסו לאתר לפרטים נוספים
-  Updated: 2026-03-30T07:49:55Z
+  Updated: 2026-04-16T06:52:18Z
   Total Products: 11
 - [מאווררי תקרה – עיצוב, נוחות ויעילות מושלמת לכל חלל | LEDMarket](https://ledmarket.co.il/collections/מאווררי-תקרה): קולקציית מאווררי תקרה מעוצבים עם תאורה משולבת – שילוב מושלם של קירור, תאורה ואסתטיקה. מגוון דגמים בגווני לבן, שחור ועץ, שקטים וחסכוניים באנרגיה. הזמינו עכשיו
   Updated: 2026-03-30T07:49:55Z
   Total Products: 8
 - [מנורות לבית | תאורה איכותית לבית | מגוון רחב של גופי תאורה - לדמרקט](https://ledmarket.co.il/collections/מנורות-לבית): צריכים פתרונות תאורה מעוצבים ואיכותיים לבית? בואו לסניפי לדמרקט ותראו מדוע אנחנו "חנות הבית" עבור כל כך הרבה אנשים וגורמי מקצוע בתחום הבנייה ועיצוב הפנים. הזמינו עכשיו
-  Updated: 2026-04-10T11:35:51Z
-  Total Products: 239
+  Updated: 2026-04-22T11:24:53Z
+  Total Products: 238
 - [עודפים של תאורה | עודפי מלאי וסוף סדרה – מחירים משתלמים | LEDMarket](https://ledmarket.co.il/collections/עודפים): פריטי תאורה אחרונים במלאי בהנחות שוות. מגוון סגנונות, אחריות מלאה ומשלוח מהיר—כדאי לבדוק לפני שנגמר. כנסו לאתר לפרטים נוספים והזמינו עכשיו
-  Updated: 2026-04-10T11:35:51Z
-  Total Products: 753
+  Updated: 2026-04-22T11:24:53Z
+  Total Products: 759
 - [מנורות קיר  - עודפים](https://ledmarket.co.il/collections/מנורות-קיר-1): מנורות קיר – עודפים במחירים מיוחדים מנורות קיר מוסיפות עומק, שכבת תאורה נעימה ועיצוב מדויק לכל חלל. בקולקציית העודפים תמצא דגמי קיר אחרונים במלאי – איכותיים, מעוצבים ומוכנים להתקנה, במחירים שלא חוזרים. עיצוב איכותי במחיר משתלם כל דגם נבחר מתוך הקולקציות הפעילות של LEDMarket: חומרים איכותיים, תאורה מאוזנת, גימורים נקיים והתאמה מושלמת לסלון, מסדרונות, חדרי שינה ופינות ישיבה. מה תמצא כאן? מנורות קיר מודרניות במראה נקי גופי תאורה עם אור ממוקד או מפוזר דגמי זכוכית, מתכת, שחור, לבן וזהב פריטים אחרונים במלאי – עד גמר המלאי הזדמנות לשדרג את התאורה על הקיר במחיר נמוך ולפני שהדגמים נעלמים.
-  Updated: 2026-04-10T11:35:51Z
-  Total Products: 233
+  Updated: 2026-04-19T10:06:01Z
+  Total Products: 237
 - [מנורות תקרה – עודפים במבצע | LEDMarket](https://ledmarket.co.il/collections/מנורות-תקרה-עודפים): מבחר מנורות תקרה איכותיות מעודפים במחירי חיסול. דגמים אחרונים, תאורה מעוצבת לבית ולחללים מרכזיים. עד גמר המלאי – LEDMarket. כנסו לאתר והזמינו עכשיו
-  Updated: 2026-04-10T11:35:51Z
-  Total Products: 113
+  Updated: 2026-04-21T11:24:19Z
+  Total Products: 114
 - [תאורת חוץ – עודפים | מחירי חיסול על גופי תאורה חיצוניים](https://ledmarket.co.il/collections/תאורת-חוץ-עודפים): מבחר גופי תאורה חיצוניים במחירי עודפים: ספוטים, הצפה, שקועים ועמודי תאורה. מלאי מוגבל עד גמר. שדרוג חוץ הבית במחיר שלא חוזר. כנסו לאתר לעוד פרטים והזמינו עכשיו
-  Updated: 2026-03-30T07:49:55Z
+  Updated: 2026-04-21T11:24:19Z
   Total Products: 47
 - [מנורות תלייה - עודפים](https://ledmarket.co.il/collections/מנורות-תלייה-עודפים): עודפים
-  Updated: 2026-04-10T11:35:51Z
-  Total Products: 210
+  Updated: 2026-04-22T11:24:53Z
+  Total Products: 211
 - [שקועי תקרה – עודפים במחירי חיסול | LEDMarket](https://ledmarket.co.il/collections/שקועי-תקרה-עודפים): קולקציית שקועי תקרה עודפים במחירים מיוחדים: דגמי COB, צילינדר שקוע, מסגרות עגולות ומרובעות. מלאי מוגבל – הזדמנות לשדרוג תאורה במחיר משתלם. הקליקו לפרטים נוספים
-  Updated: 2026-04-10T11:35:51Z
+  Updated: 2026-04-17T11:45:26Z
   Total Products: 26
 - [ספוטים ופסי צבירה – עודפים במחירי חיסול | LEDMarket](https://ledmarket.co.il/collections/ספוטים-ופסי-צבירה-עודפים): קולקציית ספוטים ופסי צבירה במבצעי עודפים – תאורה גמישה, מקצועית ומדויקת לכל חלל. מגוון דגמים איכותיים במחירים מיוחדים. משלוח מהיר. כנסו לאתר והזמינו עכשיו
-  Updated: 2026-03-30T07:49:55Z
+  Updated: 2026-04-19T13:03:34Z
   Total Products: 36
 - [תאורת הצפה – עודפים במחירי חיסול | LEDMarket](https://ledmarket.co.il/collections/תאורת-הצפה-עודפים): תאורת הצפה לעוצמה גבוהה במחירים מיוחדים: פרוז’קטורים לד, דגמי שטח, עמידות גבוהה ומלאי מוגבל. שדרוג חצר, גינה ומבנים במחיר משתלם עד גמר המלאי.
-  Updated: 2026-03-30T07:49:55Z
+  Updated: 2026-04-21T11:24:19Z
   Total Products: 6
 - [שקועי רצפה – עודפים במבצע | LEDMarket](https://ledmarket.co.il/collections/שקועי-רצפה-עודפים): שקועי רצפה איכותיים לעיצוב חוץ: תאורת שבילים, הדגשת גינה ופתרונות עמידים למזג אוויר. קולקציית עודפים במחירים מיוחדים. כנסו לאתר והזמינו עכשיו
   Updated: 2026-03-30T07:49:55Z
   Total Products: 3
 - [מנורות ילדים  - עודפים](https://ledmarket.co.il/collections/מנורות-ילדים-עודפים)
-  Updated: 2026-03-30T07:49:55Z
-  Total Products: 19
+  Updated: 2026-04-16T11:23:10Z
+  Total Products: 20
 - [תאורה לחדר רחצה  - עודפים](https://ledmarket.co.il/collections/תאורה-לחדר-רחצה-עודפים)
-  Updated: 2026-03-31T11:11:31Z
-  Total Products: 34
+  Updated: 2026-04-16T07:16:47Z
+  Total Products: 35
 - [שקועי קיר - עודפים](https://ledmarket.co.il/collections/שקועי-קיר-עודפים): עודפים
   Updated: 2026-03-30T07:49:55Z
   Total Products: 14
 - [מנורות שולחן עודפים](https://ledmarket.co.il/collections/מנורות-שולחן-עודפים)
-  Updated: 2026-04-06T06:30:32Z
-  Total Products: 10
+  Updated: 2026-04-16T06:52:17Z
+  Total Products: 11
 - [מראה מוארת  - עודפים](https://ledmarket.co.il/collections/מראה-מוארת): עודפים
   Updated: 2026-03-31T11:11:31Z
   Total Products: 14
@@ -3751,46 +3723,46 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Updated: 2026-03-30T07:49:56Z
   Total Products: 2
 - [תאורה לינארית – פרופילים שקועים/צמודים לפי מידה | LEDMarket](https://ledmarket.co.il/collections/תאורה-לינארית): תאורה לינארית רציפה לקירות ותקרות: פרופילים שקועים או צמודים, חיתוך לפי מידה וגווני אור. מראה מודרני ואחיד, חסכוני באנרגיה ומשלוח מהיר. כנסו לאתר והזמינו עכשיו
-  Updated: 2026-04-10T11:35:51Z
+  Updated: 2026-04-21T11:24:19Z
   Total Products: 9
 - [מנורות קיר לצד מיטה | עיצוב פונקציונלי ונעים – LEDMarket](https://ledmarket.co.il/collections/מנורות-קיר-לצד-מיטה): מנורות קיר לצד מיטה בעיצוב מודרני, חלקן עם טעינת USB ותאורת קריאה ממוקדת. פתרון חכם לחדר שינה – שילוב של נוחות, סגנון ותאורה חמימה. כנסו לאתר והזמינו עכשיו
   Updated: 2026-03-30T07:49:56Z
   Total Products: 19
 - [מנורות תלייה מקש טבעי | עיצוב חמים, טבעי ואלגנטי – LEDMarket](https://ledmarket.co.il/collections/מנורות-תלייה-מקש): מנורות תלייה מקש טבעי בעבודת יד – שילוב מושלם של עיצוב אורגני, חמימות ואור רך לכל חלל. קולקציית ראטן ייחודית לסלון, פינת אוכל וחדר שינה. כנסו לאתר והזמינו עכשיו
-  Updated: 2026-03-30T07:49:56Z
+  Updated: 2026-04-21T11:24:19Z
   Total Products: 11
 - [ערכות לד – פסי תאורה צבעוניים, קיטים מושלמים לבית ולאווירה | LEDMarket](https://ledmarket.co.il/collections/ערכות-לד): מגוון ערכות לד איכותיות: RGB, MAGIC, קיטים עם שלט, ספק וכבל. אידיאליים לחדרים, סלון, מסיבות וקישוטים. התקנה פשוטה, אפקטים מרהיבים ומחיר משתלם. הזמינו עכשיו
   Updated: 2026-04-04T11:37:13Z
   Total Products: 9
 - [פסי לד 12V – איכות, מגוון וגמישות לכל פרויקט תאורה | LEDMarket](https://ledmarket.co.il/collections/פסי-לד-12v): גלו מבחר פסי לד 12V איכותיים במגוון צבעים ועוצמות. פתרון תאורה חסכוני, גמיש ומתאים לבית, לרכב ולפרויקטים מקצועיים. משלוח מהיר וסטנדרט גבוה. הקליקו לפרטים נוספים
-  Updated: 2026-04-10T11:15:58Z
+  Updated: 2026-04-15T11:21:11Z
   Total Products: 13
 - [פסי לד 24V – תאורה רציפה ואחידה לקווי אור ארוכים | LEDMarket](https://ledmarket.co.il/collections/פסי-לד-24v): פסי לד 24V באיכות גבוהה, יציבים וללא נפילות אור. מגוון פסי לד לגבס, נישות, תקרות צפות ופרויקטים ארוכים. תאורה נקייה, חזקה ומדויקת לכל חלל. הקליקו לפרטים נוספים
-  Updated: 2026-04-08T11:22:20Z
+  Updated: 2026-04-20T11:23:57Z
   Total Products: 10
 - [פסי לד 220V – תאורה חזקה, רציפה ועמידה לבית ולחוץ | LEDMarket](https://ledmarket.co.il/collections/פסי-לד-220v): פסי לד 220V בגווני אור וצבעים שונים, עוצמה גבוהה, התקנה מהירה וללא ספק כוח. מושלם לפרגולות, גינות, מעברים ותאורה ארוכת טווח. קולקציה מלאה ב־LEDMarket.
-  Updated: 2026-04-11T11:21:41Z
+  Updated: 2026-04-21T11:24:19Z
   Total Products: 15
 - [פסי לד לגופי תאורה](https://ledmarket.co.il/collections/לד-לגופי-תאורה)
   Updated: 2026-03-30T07:49:56Z
   Total Products: 18
 - [ספקי כוח לתאורה – אמינות, דיוק וביצועים מושלמים | LEDMarket](https://ledmarket.co.il/collections/ספקי-כוח-לתאורה): ספקי כוח איכותיים לתאורת LED – מבחר דגמים קומפקטיים ותעשייתיים מבית LEDMarket. פתרונות יעילים, בטיחותיים ועמידים לפרויקטים מקצועיים. כנסו לאתר לפרטים נוספים
-  Updated: 2026-04-11T11:21:41Z
+  Updated: 2026-04-20T11:23:57Z
   Total Products: 11
 - [דרייברים ללדים – פתרונות מקצועיים ובטוחים להפעלת תאורת לד | LEDMarket](https://ledmarket.co.il/collections/דרייברים-ללדים): דרייברים איכותיים ללדים מבית LEDMarket – מגוון דגמים אמינים להפעלת גופי תאורה. יעילות גבוהה, הגנה מלאה וביצועים יציבים לכל פרויקט תאורה. כנסו לאתר והזמינו עכשיו
-  Updated: 2026-04-10T11:35:51Z
+  Updated: 2026-04-22T11:24:53Z
   Total Products: 84
 - [צילינדרים עודפים](https://ledmarket.co.il/collections/צילינדרים-עודפים)
-  Updated: 2026-03-30T07:49:56Z
+  Updated: 2026-04-14T11:41:54Z
   Total Products: 25
 - [Limited Edition | מהדורות מוגבלות | LEDMarket](https://ledmarket.co.il/collections/special-edition): קולקציות תאורה ייחודיות במהדורה מוגבלת. עיצוב נועז, זמינות מצומצמת ומשלוח מהיר—פריטים שלא תמצאו בכל מקום. כנסו לאתר והזמינו עכשיו מנורה חדשה
-  Updated: 2026-03-30T07:49:56Z
+  Updated: 2026-04-14T11:22:05Z
   Total Products: 40
 - [מנורות צמודות תקרה Limited Edition](https://ledmarket.co.il/collections/מנורות-צמודות-תקרה-special-edition): Limited Edition
   Updated: 2026-04-02T09:10:31Z
   Total Products: 3
 - [סדרת עננים Limited Edition | Cloud Collection | גופי תאורה מרגיעים](https://ledmarket.co.il/collections/סדרת-עננים-limited-edition): מנורות תקרה ותלייה בעיצוב רך ומרחף. סדרת העננים כוללת את NIMBUS, FLUFF, NEBULA ו־CLOUDIA – תאורה מרגיעה ומלאת אופי לחללים מעוצבים. כנסו לאתר והזמינו עכשיו
-  Updated: 2026-04-10T11:35:51Z
+  Updated: 2026-04-17T11:45:26Z
   Total Products: 9
 - [מנורות תלייה סדרת עננים Limited Edition](https://ledmarket.co.il/collections/מנורות-תלייה-סדרת-עננים)
   Updated: 2026-03-30T07:49:56Z
@@ -3802,7 +3774,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Updated: 2026-03-30T07:49:56Z
   Total Products: 11
 - [מנורות תלייה עודפים – עיצובים אחרונים במחירים מיוחדים | LEDMarket](https://ledmarket.co.il/collections/מנורות-תלייה-limited-edition): מנורות תלייה במבצעי עודפים – דגמי זכוכית, מתכת ועיצוב מודרני במחירים מיוחדים עד גמר המלאי. הזדמנות לשדרג כל חלל במחיר משתלם במיוחד.
-  Updated: 2026-03-30T07:49:56Z
+  Updated: 2026-04-14T11:22:05Z
   Total Products: 22
 - [סדרת LUMINA TUBE Limited Edition | מהדורה מוגבלת בעיצוב מינימליסטי](https://ledmarket.co.il/collections/סדרת-lumina-tube-limited-edition): שלושה דגמים ייחודיים בסדרת LUMINA TUBE – גופי תאורה מודרניים, אנכיים ואופקיים, למהדורה מוגבלת. עיצוב נקי ואלגנטי שמתאים לכל חלל. כנסו לאתר והזמינו מנורה חדשה
   Updated: 2026-03-30T07:49:56Z
@@ -3811,13 +3783,13 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Updated: 2026-03-30T07:49:56Z
   Total Products: 6
 - [צמודות תקרה - Limited Edition](https://ledmarket.co.il/collections/צמודות-תקרה-limited-edition)
-  Updated: 2026-04-10T11:35:51Z
+  Updated: 2026-04-17T11:45:26Z
   Total Products: 8
 - [מנורות תלייה מרובות נורות | עיצוב ייחודי ותאורה מרהיבה – LEDMarket](https://ledmarket.co.il/collections/מנורות-תלייה-מרובות-נורות): מנורות תלייה מרובות נורות בעיצוב מודרני או תעשייתי – שילוב מושלם של עוצמה, סטייל ואור חם. אידיאליות לסלון, פינת אוכל ולחללים גבוהים. כנסו לאתר לפרטים נוספים
-  Updated: 2026-04-10T11:35:51Z
+  Updated: 2026-04-21T11:24:19Z
   Total Products: 50
 - [מנורות תלייה עם נורה | עיצוב עדין, חם ומלא אופי – LEDMarket](https://ledmarket.co.il/collections/מנורת-תלייה-עם-נורה): מנורות תלייה עם נורה חשופה בעיצובים מודרניים וקלאסיים – זכוכית, מתכת או קש טבעי. תאורה חמה ומזמינה לסלון, פינת אוכל וחדר שינה. כנסו לאתר והזמינו עכשיו
-  Updated: 2026-04-04T11:37:13Z
+  Updated: 2026-04-14T11:22:05Z
   Total Products: 60
 - [סדרת LINE Limited Edition | תאורה יוקרתית: שולחן, קיר, תלייה ורצפה](https://ledmarket.co.il/collections/סדרת-line-limited-edition): קולקציית LINE Limited Edition כוללת מנורות מעוצבות בשחור, כסף וזהב – קווים נקיים, אור איכותי, מראה אלגנטי. אידאלי לכל חלל ומעוצב. כנסו לאתר והזמינו מנורה חדשה
   Updated: 2026-03-30T07:49:57Z
@@ -3835,16 +3807,16 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Updated: 2026-03-30T07:49:57Z
   Total Products: 3
 - [50% הנחה](https://ledmarket.co.il/collections/50-הנחה)
-  Updated: 2026-04-07T11:23:46Z
+  Updated: 2026-04-14T12:17:50Z
   Total Products: 3
 - [מנורות תלייה לתקרה גבוהה | עיצוב מרהיב לחללים יוקרתיים – LEDMarket](https://ledmarket.co.il/collections/מנורות-תלייה-לתקרה-גבוהה): מנורות תלייה לתקרה גבוהה בעיצוב אלגנטי ומודרני – דגמים תלויים מרשימים עם תאורה חמה ונפילה רכה. מושלם ללובי, מדרגות ופינות אירוח גבוהות. הזמינו מנורת תלייה חדשה
   Updated: 2026-03-30T07:49:57Z
   Total Products: 11
 - [November ](https://ledmarket.co.il/collections/november-)
-  Updated: 2026-04-11T11:21:41Z
+  Updated: 2026-04-21T11:24:19Z
   Total Products: 8
 - [פרופילי תאורה (ללא לד)](https://ledmarket.co.il/collections/פרופילי-תאורה-ללא-לד)
-  Updated: 2026-04-05T11:20:06Z
+  Updated: 2026-04-12T11:23:09Z
   Total Products: 32
 - [Couture Lighting Collection](https://ledmarket.co.il/collections/couture-lighting-collection)
   Updated: 2026-04-04T19:51:45Z
@@ -3862,7 +3834,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
   Updated: 2026-03-30T07:49:57Z
   Total Products: 7
 - [מבצעי החודש](https://ledmarket.co.il/collections/מבצעים-פברואר-עד-מרץ)
-  Updated: 2026-04-07T11:23:46Z
+  Updated: 2026-04-20T11:23:57Z
   Total Products: 6
 - [תאורה בעיצוב דמוי אבן/שיש](https://ledmarket.co.il/collections/alabaster-look)
   Updated: 2026-03-30T07:49:57Z
@@ -4122,7 +4094,7 @@ LEDMarket (ledmarket.co.il) היא חנות תאורה פרימיום בישרא
 ## Store Pages
 
 - [רשת סניפי LEDMARKET תאורה](https://ledmarket.co.il/pages/סניפים-לדמרקט-ledmarket): סניף פתח תקווה כתובת: גליס 18אזור התעשיה סגולה פתח תקווה. טלפון: 03-5080500 שעות פעילות: א'-ה' 9:00-20:00 ו' 9:00-14:00 | מוצ״ש 18:00-23:00 סניף רא...
-  Updated: 2025-11-09T07:49:21Z
+  Updated: 2026-04-15T06:38:54Z
 - [גופי תאורה מעוצבים לאדריכלים ומעצבי פנים](https://ledmarket.co.il/pages/אדריכלים-ומעצבים-של-לדמרקט): מחפשים פתרונות תאורה לפרויקטים בעיצוב פנים?הגעתם למקום הנכון! אדריכלים ומעצבי פנים יודעים שהשלמת עיצוב פנים דורשת גופי תאורה איכותיים, מעוצבים ומדו...
   Updated: 2025-03-03T12:46:26Z
 - [צור קשר - לדמרקט רשת חנויות תאורה](https://ledmarket.co.il/pages/צור-קשר-לדמרקט-רשת-חנויות-תאורה): מס' טלפון : 03-5080500 וואטסאפ מכירות: 053-4955346 וואטסאפ שירות ומעקב הזמנות: 052-7986961 כתובת דואר אלקטרוני : info@ledmarket.co.il
