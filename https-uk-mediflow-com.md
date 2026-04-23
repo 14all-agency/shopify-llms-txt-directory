@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2021-03-31T20:16:03Z
 - Contact Email: info@mediflow.com
-- Updated At: 2026-04-14T00:00:32.596Z
+- Updated At: 2026-04-23T00:00:35.303Z
 
 ## Products
 
 - [The Water Pillow by Mediflow Elite Fibre | Reduces neck pain and improves quality of sleep](https://uk.mediflow.com/products/elite-fiberfill-pillow): Mediflow's Water Pillow is CLINICALLY PROVEN to reduce neck pain and improve sleep quality. Over 17,500 5-star reviews speak to the health benefits mentioning effective in relieving neck pain, shoulder pain, headaches, migraines and more! Recommended by over 10,0000 chiropractors and physical therapists worldwide.
-  Updated: 2026-04-03T16:03:28Z
+  Updated: 2026-04-17T21:23:27Z
   Vendor: Mediflow
   Product Type: Pillow
   Availability: Available
@@ -32,14 +32,14 @@
   Image: https://cdn.shopify.com/s/files/1/0558/1560/2382/files/Travel_Pillow_1.png?v=1756994194
   Price: $53.00 CAD
 - [Cotton Quilted Pillow Covers - Protector | The Water Pillow by Mediflow](https://uk.mediflow.com/products/cotton-quilted-pillow-cover): The Water Pillow's Cotton Quilted Pillow Covers can be used with any of our water pillows. These luxury padded cotton quilted pillow protectors are both durable and comfortable.  3 layer construction provides extra comfort.
-  Updated: 2026-04-10T15:30:27Z
+  Updated: 2026-04-15T08:08:47Z
   Vendor: Mediflow
   Product Type: Covers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0558/1560/2382/files/QPP-1-Tall.png?v=1756994195
   Price: $24.80 CAD
 - [Mediflow Original Fibre Water Pillow - Reduces neck pain and improves sleep quality](https://uk.mediflow.com/products/original-fiberfill-pillow): Clinically proven to reduce neck pain and improve sleep quality, Mediflow's Original Fiber Water Pillow offers exceptional comfort and consistent support for your head and neck. The Mediflow Water Pillow is recommended by over 10,000  professionals worldwide as the solution for relieving neck pain during sleep.
-  Updated: 2026-04-09T09:14:17Z
+  Updated: 2026-04-18T18:29:17Z
   Vendor: Mediflow
   Product Type: Pillow
   Availability: Available
@@ -112,19 +112,19 @@
 ## Collections
 
 - [Home page](https://uk.mediflow.com/collections/frontpage)
-  Updated: 2026-04-04T11:02:33Z
+  Updated: 2026-04-18T11:03:34Z
   Total Products: 1
 - [Mediflow Water Pillows](https://uk.mediflow.com/collections/shop-mediflow-water-pillows)
-  Updated: 2026-04-09T11:03:17Z
+  Updated: 2026-04-19T11:02:47Z
   Total Products: 13
 - [Fibre Pillows](https://uk.mediflow.com/collections/fibre-pillows)
-  Updated: 2026-04-09T11:03:17Z
+  Updated: 2026-04-19T11:02:47Z
   Total Products: 5
 - [Elite Water Pillows](https://uk.mediflow.com/collections/elite-water-pillows)
-  Updated: 2026-04-05T11:02:07Z
+  Updated: 2026-04-18T11:03:34Z
   Total Products: 6
 - [Original Water Pillows](https://uk.mediflow.com/collections/original-water-pillows)
-  Updated: 2026-04-09T11:03:17Z
+  Updated: 2026-04-19T11:02:47Z
   Total Products: 6
 - [Travel Pillows](https://uk.mediflow.com/collections/travel-pillows)
   Updated: 2025-12-04T12:03:02Z
@@ -136,10 +136,10 @@
   Updated: 2026-04-05T11:02:07Z
   Total Products: 6
 - [Pillow Protectors](https://uk.mediflow.com/collections/pillow-protectors)
-  Updated: 2026-04-05T11:02:07Z
+  Updated: 2026-04-15T11:02:59Z
   Total Products: 3
 - [Black Friday](https://uk.mediflow.com/collections/black-friday)
-  Updated: 2026-04-09T11:03:17Z
+  Updated: 2026-04-19T11:02:47Z
   Total Products: 15
 
 ## Blogs
@@ -151,6 +151,14 @@
     Tags: best pillow, neck pain, sleep quality, water pillow
   - [Best Pillow for Neck Pain: Why Water-Based Support Works Better](https://uk.mediflow.com/blogs/news/best-pillow-for-neck-pain-why-water-based-support-works-better): <p data-start="114" data-end="303">Water pillows provide adaptive support that adjusts to your head and neck throughout the night, helping maintain proper alignment and reduce neck pain compared to traditional pillows.</p>
     Updated: 2026-04-07T19:10:33Z
+    Author: Qianyi Huang
+    Tags: best pillow, neck pain, sleep quality, water pillow
+  - [Best Pillow for Neck Pain: What Actually Works](https://uk.mediflow.com/blogs/news/best-pillow-for-neck-pain-what-actually-works): <p>Many pillows feel comfortable at first but fail to support your neck throughout the night. This article explains how adaptive support, like water-based pillow technology, helps maintain proper alignment and reduce neck pain.</p>
+    Updated: 2026-04-21T15:27:03Z
+    Author: Qianyi Huang
+    Tags: best pillow, neck pain, sleep quality, water pillow
+  - [Why Your Pillow Feels Comfortable at Night But Causes Neck Pain by Morning](https://uk.mediflow.com/blogs/news/why-your-pillow-feels-comfortable-at-night-but-causes-neck-pain-by-morning): <p>Many pillows feel comfortable at first but lose support overnight. This article explains why neck alignment matters, how static support differs from adaptive support, and why consistent support is important for better sleep and less neck pain.</p>
+    Updated: 2026-04-21T15:27:45Z
     Author: Qianyi Huang
     Tags: best pillow, neck pain, sleep quality, water pillow
 
