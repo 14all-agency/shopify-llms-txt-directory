@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-08-28T21:36:06Z
 - Contact Email: arjun@botanicalbottles.com
-- Updated At: 2026-04-14T00:00:24.447Z
+- Updated At: 2026-04-23T00:00:20.688Z
 
 ## Products
 
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0818/8893/6251/files/20-400-black-glass-dropper-assembly-for-1oz-boston-round-720-pieces-per-case-closure-cosmetic-pack-291953.jpg?v=1730413502
   Price: $0.20 USD
 - [Buy 20-400 Black Child-Resistant Dropper | 480 Pack](https://botanicalbottles.com/products/20-400-black-child-resistant-dropper-assembly-2oz-boston-round-720-pieces-per-case): 20-400 black child-resistant dropper assemblies for 2oz Boston round bottles (480/case). Ideal for oils, serums, pharmaceuticals & precise liquid dispensing.
-  Updated: 2026-04-10T11:27:41Z
+  Updated: 2026-04-14T21:29:17Z
   Vendor: Botanical Bottles
   Product Type: Closure
   Availability: Available
@@ -543,7 +543,7 @@
   Image: https://cdn.shopify.com/s/files/1/0818/8893/6251/files/DSCF6530-Edit.jpg?v=1753469010
   Price: $0.22 USD
 - [Buy 20-400 Black Graduated Droppers | 2oz Boston Round](https://botanicalbottles.com/products/20-400-black-graduated-dropper-assembly-for-2oz-boston-round-480-pieces): 2oz Boston Round Black Graduated Dropper Assemblies with glass pipette and silicone bulb. 480 pieces per case for precise dispensing and easy use.
-  Updated: 2026-04-07T10:18:05Z
+  Updated: 2026-04-17T16:11:07Z
   Vendor: Botanical Bottles
   Product Type: Closure
   Availability: Available
@@ -655,7 +655,7 @@
   Image: https://cdn.shopify.com/s/files/1/0818/8893/6251/files/1ozClearBoston_GraduatedDropper.jpg?v=1773436200
   Price: $0.35 USD
 - [Buy 2oz Glass Amber Boston Round Black Graduated Dropper](https://botanicalbottles.com/products/2oz-glass-amber-boston-round-black-graduated-dropper): 240-piece 2oz amber Boston Round bottles with black graduated droppers, ideal for precise dispensing of oils, tinctures, and small-batch liquid products.
-  Updated: 2026-04-10T21:57:12Z
+  Updated: 2026-04-15T11:04:47Z
   Vendor: Botanical Bottles
   Product Type: Bottle
   Availability: Available
@@ -844,10 +844,10 @@
   Updated: 2026-04-10T12:33:57Z
   Total Products: 4
 - [Shop Bottle Closures & Caps | Screw Caps, Sprayers & Droppers](https://botanicalbottles.com/collections/closures): Find bottle closures including screw caps, fine‑mist sprayers, droppers, tamper‑evident caps, and more  compatible with Euro rounds and Boston round bottles.
-  Updated: 2026-04-10T12:34:18Z
+  Updated: 2026-04-18T11:20:50Z
   Total Products: 26
 - [Shop Boston Round Bottles Collection | Glass Bottles Bulk](https://botanicalbottles.com/collections/boston-rounds): Browse Boston round glass bottles in amber, clear, matte black, and more. Perfect for essential oils, serums, tinctures, and small‑batch liquids.
-  Updated: 2026-04-10T12:34:41Z
+  Updated: 2026-04-16T11:17:01Z
   Total Products: 32
 - [Shop Euro Round Bottles | 18‑415 Glass Bottles Bulk Cases](https://botanicalbottles.com/collections/euro-rounds): Shop Euro round glass bottles in amber, clear, cobalt blue and more. Ideal for oils, aprayers , serums, tinctures, cosmetics, and liquid products.
   Updated: 2026-04-10T12:35:12Z
@@ -862,10 +862,10 @@
   Updated: 2026-04-10T12:36:35Z
   Total Products: 4
 - [Shop Glass Bottles & Packaging | Bulk & Wholesale Cases](https://botanicalbottles.com/collections/all): Browse all glass bottles, droppers, sprayers, and closures. Boston and Euro rounds in amber, clear, and cobalt blue for DIY oils, serums, and tinctures.
-  Updated: 2026-04-10T12:36:58Z
+  Updated: 2026-04-18T11:20:50Z
   Total Products: 127
 - [Smart Products Filter Index - Do not delete](https://botanicalbottles.com/collections/globofilter-best--products-index)
-  Updated: 2026-04-10T10:06:12Z
+  Updated: 2026-04-18T11:20:50Z
   Total Products: 137
 - [Shop Cobalt Blue Glass Bottles | Euro & Boston Rounds Bulk](https://botanicalbottles.com/collections/cobalt-blue): Cobalt blue glass bottles for essential oils, tinctures, serums, and DIY cosmetics. Available as Boston rounds, Euro rounds, and full bottle sets.
   Updated: 2026-04-10T12:37:20Z
