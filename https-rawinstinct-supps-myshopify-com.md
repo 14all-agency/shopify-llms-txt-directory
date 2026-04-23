@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2026-04-10T18:03:17Z
 - Contact Email: rawinstinctsupps@hotmail.com
-- Updated At: 2026-04-14T19:08:55.713Z
+- Updated At: 2026-04-23T00:00:27.563Z
 
 ## Products
 
-- [🥭 Mango Mayhem - Creatine Gummys](https://rawinstinct-supps.myshopify.com/products/mango-mayhem-creatine-gummys): 🥭 MANGO MAYHEM CREATINE + ELECTROLYTE GUMMIES Mango Mayhem Gummies are designed to support strength, hydration and daily performance — all in one convenient, easy-to-use format. Each serving delivers 5,000mg of creatine to support muscle power and performance, combined with electrolytes to help maintain hydration balance and optimise output during training and everyday activity. Built for consistency, this is a smarter approach to supplementation that fits into your routine without the hassle. 💣 WHAT IT DOES Supports muscle strength and powerHelps maintain hydration balanceAids recovery and daily performanceSupports focus and overall output ⚡ WHY IT’S DIFFERENT We’ve taken a traditional supplement and improved it. By combining 5,000mg of creatine per serving with hydration support in a simple gummy format, Mango Mayhem removes the need for mixing, measuring or preparation — making it easier to stay consistent and perform at your best. No shaker. No mess. Just results. 🚀 BUILT FOR REAL LIFE Whether you’re training, working or on the move, Mango Mayhem fits seamlessly into your day — giving you reliable performance support whenever you need it. 🔥 RAW INSTINCT Built for those who show up.Driven by performance. Focused on progression.
-  Updated: 2026-04-14T14:40:35Z
+- [Mango Mayhem Creatine Gummies | RawInstinct Supps](https://rawinstinct-supps.myshopify.com/products/mango-mayhem-creatine-gummys): Pre-order Mango Mayhem — 5,000mg creatine + electrolyte gummies built for training performance. No shaker, no mess. By RawInstinct Supps.
+  Updated: 2026-04-16T05:34:11Z
   Vendor: RawInstinct Supps
   Product Type: 
   Availability: Available
@@ -21,10 +21,10 @@
 ## Collections
 
 - [Home page](https://rawinstinct-supps.myshopify.com/collections/frontpage)
-  Updated: 2026-04-11T18:49:16Z
+  Updated: 2026-04-15T17:50:03Z
   Total Products: 0
 - [Vitamins and Supplements example products](https://rawinstinct-supps.myshopify.com/collections/vitamins-and-supplements-example-products)
-  Updated: 2026-04-12T08:14:56Z
+  Updated: 2026-04-15T17:50:03Z
   Total Products: 0
 
 ## Blogs
@@ -42,6 +42,16 @@
     Updated: 2026-04-14T18:08:08Z
     Author: Lee Gales
     Tags: boxing, creatine, mango mayhem, performance, supplements
+  - [Boxing Fitness: It's Not Just for Boxers | RawInstinct Supps](https://rawinstinct-supps.myshopify.com/blogs/news/boxing-fitness-its-not-just-for-boxers): Boxing Fitness: It's Not Just for Boxers | RawInstinct Supps
+    Updated: 2026-04-16T15:54:35Z
+    Author: Lee Gales
+  - [Electrolytes: The Unsung Hero of Every Workout | RawInstinct Supps](https://rawinstinct-supps.myshopify.com/blogs/news/electrolytes-the-unsung-hero-of-every-workout-rawinstinct-supps)
+    Updated: 2026-04-16T16:17:33Z
+    Author: Lee Gales
+  - [Building Speed & Distance Through Pace and Interval Training](https://rawinstinct-supps.myshopify.com/blogs/news/building-speed-distance-its-all-about-pace-and-intervals): Building Speed & Distance Through Pace and Interval Training
+    Updated: 2026-04-19T11:26:02Z
+    Author: Lee Gales
+    Tags: endurance, intervals, pace, running, speed, training
 
 ## Store Pages
 
@@ -56,6 +66,10 @@
 
 - [Privacy Policy](https://rawinstinct-supps.myshopify.com/policies/privacy-policy)
   Updated: 2026-04-10T19:03:27+01:00
+- [Refund Policy](https://rawinstinct-supps.myshopify.com/policies/refund-policy)
+  Updated: 2026-04-19T12:29:14+01:00
+- [Contact Information](https://rawinstinct-supps.myshopify.com/policies/contact-information)
+  Updated: 2026-04-19T12:33:16+01:00
 
 ## Optional
 
