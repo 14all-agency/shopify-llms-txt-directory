@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2023-04-06T16:36:01Z
 - Contact Email: support@doradoskin.com
-- Updated At: 2026-04-15T00:00:42.540Z
+- Updated At: 2026-04-23T00:00:43.985Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0746/5035/3968/files/1QXdBH1xpXGp8L.jpg?v=1766353014
   Price: $24.00 USD
 - [Buy Men New Charcoal Face Wash | Dorado](https://www.doradoskin.com/products/face-wash-for-men): Buy Dorado invigorating face wash for men with calendula, rosehip, niacinamide, and bamboo charcoal to refine skin, brighten, & reduce pore appearance.
-  Updated: 2026-04-14T19:28:24Z
+  Updated: 2026-04-20T21:09:17Z
   Vendor: Dorado
   Product Type: 
   Availability: Available
