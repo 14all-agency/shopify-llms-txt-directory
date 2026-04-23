@@ -5,30 +5,30 @@
 - Contact Email: ask@boomandmellow.com
 - Contact Phone: +971566949790
 - Address: Ground Floor Shop #21 Town Centre Jumeirah, 75B Street, Jumeira Road, Jumeira 1, Dubai, U.A.E.
-- Updated At: 2026-04-14T00:00:31.589Z
+- Updated At: 2026-04-23T00:00:33.664Z
 
 Boom & Mellow is the UAE's leading curated concept store for women seeking unique, boho-chic jewelry, accessories, bags, clothing, and gifts. Founded in 2005 by Sima Barazi, the store is known for its free-spirited aesthetic and carefully sourced global designers. We offer free same-day 3-hour delivery in Dubai, free gift wrapping, and worldwide shipping on orders over 1,000 AED.
 
 ## Collections
 
-- [Women’s Beach Bags, Clutch Bags & Travel Organizers | Boom & Mellow](https://www.boomandmellow.com/collections/bags): Women’s bags at Boom & Mellow, including beach bags, clutches, and travel organizers designed for everyday use, travel, and time by the sea.
-  Total Products: 2277
+- [Women's Bags — Beach Bags, Clutch Bags & Travel Organizers | Boom & Mellow](https://www.boomandmellow.com/collections/bags): Women's bags at Boom & Mellow, with beach bags for days in the sun, along with pouches, travel organizers and clutch bags designed for everyday use and travel, each selected for its design and everyday use.
+  Total Products: 2286
 - [Women's Clothing — Kaftans, Dresses & Beach Cover-ups | Boom & Mellow](https://www.boomandmellow.com/collections/clothing): Women's clothing at Boom & Mellow — kaftans, dresses, tops, knitwear, sleepwear and beach cover-ups, chosen for design and wearability.
-  Total Products: 1240
-- [Fine Jewelry Dubai | Boom & Mellow](https://www.boomandmellow.com/collections/fine-jewelry): Women's fine jewelry at Boom & Mellow — gold jewelry, diamond pieces, necklaces, earrings, rings and bracelets from independent designer jewelry brands.
+  Total Products: 1254
+- [Fine Jewelry in Dubai | Gold Necklaces, Rings & Earrings | Boom & Mellow](https://www.boomandmellow.com/collections/fine-jewelry): Shop fine jewelry in Dubai at Boom & Mellow. Discover gold necklaces, rings, earrings and unique designer pieces. Buy fine jewelry online with last minute delivery across UAE
   Total Products: 2665
 - [Women’s Accessories | Boom & Mellow](https://www.boomandmellow.com/collections/accessories): Women's accessories at Boom & Mellow — necklaces, earrings, bracelets, rings, anklets, hats, hair accessories, and scarves, chosen for expressive design and unexpected details.
-  Total Products: 8091
+  Total Products: 8146
 - [Crossbody & Shoulder Bags for Women | Boom & Mellow](https://www.boomandmellow.com/collections/crossbody-and-shoulder-bags): Shop crossbody and shoulder bags for women at Boom & Mellow. Discover stylish, versatile designs ideal for everyday wear, travel, and effortless day-to-night styling.
   Total Products: 50
 - [Pouches & Cosmetic Bags for Women | Boom & Mellow](https://www.boomandmellow.com/collections/pouches-and-cosmetic-bags): Shop pouches and cosmetic bags for women at Boom & Mellow. Explore beach pouches, toiletry bags, and everyday cosmetic bags designed for travel and organization.
-  Total Products: 383
+  Total Products: 392
 - [Beach Bags & Tote Bags for Women | Boom & Mellow](https://www.boomandmellow.com/collections/beach-bags-and-tote-bags): Shop beach bags & tote bags for women at Boom & Mellow. Explore spacious, stylish designs perfect for beach days, travel, and everyday essentials.
   Total Products: 737
 - [Women's Necklaces | Boom & Mellow](https://www.boomandmellow.com/collections/necklaces): Women's necklaces at Boom & Mellow — layering necklaces, statement necklaces, chokers, gold-plated styles and everyday chains, chosen for design and character.
-  Total Products: 2106
+  Total Products: 2122
 - [Women's Rings | Boom & Mellow](https://www.boomandmellow.com/collections/rings): Women's rings at Boom & Mellow — statement rings, gold-plated styles, stacking rings and everyday designs, chosen for their craft and character.
-  Total Products: 637
+  Total Products: 643
 - [Anklets for Women | Boom & Mellow](https://www.boomandmellow.com/collections/anklets): Shop women’s anklets at Boom & Mellow. Discover gold-plated, beaded, chain & stacking styles.
   Total Products: 122
 - [Women's Hair Accessories | Boom & Mellow](https://www.boomandmellow.com/collections/hair-accessories): Women's hair accessories at Boom & Mellow — embellished headbands, hair clips and scrunchies, chosen for their design and unique character.
@@ -38,9 +38,9 @@ Boom & Mellow is the UAE's leading curated concept store for women seeking uniqu
 - [Bag Accessories for Women | Boom & Mellow](https://www.boomandmellow.com/collections/bag-accessories): Shop bag accessories for women at Boom & Mellow. Explore bag charms, keychains, and stylish bag straps designed to personalize and elevate your everyday bags.
   Total Products: 37
 - [Women's Bracelets | Boom & Mellow](https://www.boomandmellow.com/collections/bracelets): Women's bracelets at Boom & Mellow — beaded styles, cuffs, evil eye and zodiac bracelets, pearl and stacking designs, chosen for design and meaning.
-  Total Products: 1671
+  Total Products: 1677
 - [Women's Earrings | Boom & Mellow](https://www.boomandmellow.com/collections/earrings): Women's earrings at Boom & Mellow — stud earrings, hoop earrings, ear cuffs, statement earrings and gold-plated styles, chosen for design and character.
-  Total Products: 2456
+  Total Products: 2483
 - [Shop Fashion Accessories | Brooches | Pins](https://www.boomandmellow.com/collections/brooches): Shop  fashion accessories women's brooches online, three hour delivery in Dubai,  on delivery
   Total Products: 47
 - [Women's Hats | Boom & Mellow](https://www.boomandmellow.com/collections/hats): Shop women’s hats at Boom & Mellow. Discover beach hats, summer styles and everyday designs for warm-weather wear.
@@ -60,9 +60,9 @@ Boom & Mellow is the UAE's leading curated concept store for women seeking uniqu
 - [Fine Gold Pendants for Women | Boom & Mellow](https://www.boomandmellow.com/collections/gold-pendants): Shop fine pendants for women at Boom & Mellow. Discover elegant gold pendants set with diamonds and precious stones, designed for refined sophistication.
   Total Products: 18
 - [Tops for Women | Boom & Mellow](https://www.boomandmellow.com/collections/tops): Shop women’s tops at Boom & Mellow. Explore versatile styles designed for everyday wear, travel, and effortless layering, from casual essentials to elevated statement pieces.
-  Total Products: 353
+  Total Products: 361
 - [Bottoms for Women | Boom & Mellow](https://www.boomandmellow.com/collections/bottoms): Shop women’s bottoms at Boom & Mellow, featuring stylish trousers, skirts, and relaxed silhouettes designed for everyday wear, travel, and effortless styling.
-  Total Products: 69
+  Total Products: 75
 - [Dresses for Women | Boom & Mellow](https://www.boomandmellow.com/collections/dresses): Shop dresses for women at Boom & Mellow, including beach dresses, casual everyday styles, and modest designs perfect for Ramadan and warm-weather dressing.
   Total Products: 537
 - [ - Clothes](https://www.boomandmellow.com/collections/-clothes)
@@ -80,23 +80,23 @@ Boom & Mellow is the UAE's leading curated concept store for women seeking uniqu
 - [Personalize](https://www.boomandmellow.com/collections/personalize)
   Total Products: 17
 - [Gifts Under 500 AED — Thoughtful Gifts for Her | Boom & Mellow](https://www.boomandmellow.com/collections/gifts-under-500-aed): Gifts under 500 AED at Boom & Mellow — jewelry, candles, kaftans, bags and accessories, chosen for design and meaning. Gift wrapping available.
-  Total Products: 1070
+  Total Products: 1080
 - [Gifts for Women under 1000 AED - Free Gift Wrapping | Boom & Mellow UAE](https://www.boomandmellow.com/collections/gifts-under-1000-aed): Shop gifts for women under 1000 AED at Boom & Mellow UAE. Enjoy free gift wrapping, 3-hour Dubai delivery, 10% off first order & worldwide shipping.
-  Total Products: 838
+  Total Products: 852
 - [Fine Anklets for Women | Boom & Mellow](https://www.boomandmellow.com/collections/fine-anklets): Shop fine anklets for women at Boom & Mellow. Explore elegant gold anklets set with diamonds and precious stones, designed for effortless sophistication.
   Total Products: 15
 - [Gifts for Women under 300 AED - Free Gift Wrapping | Boom & Mellow UAE](https://www.boomandmellow.com/collections/gifts-under-300-aed): Shop gifts for women under 300 AED at Boom & Mellow UAE. Enjoy free gift wrapping, 3-hour Dubai delivery, 10% off first order & worldwide shipping.
-  Total Products: 9740
+  Total Products: 9794
 - [Shop A Gift For Friends | Fashion Accessories | Fine Jewelry](https://www.boomandmellow.com/collections/for-friends)
-  Total Products: 3114
+  Total Products: 3135
 - [Shop A Gift For Mom & Sisters | Fashion Accessories | Fine Jewelry](https://www.boomandmellow.com/collections/for-her)
-  Total Products: 5901
+  Total Products: 5962
 - [Kids & Baby Accessories](https://www.boomandmellow.com/collections/kids-and-baby-accessories)
   Total Products: 13
 - [What's New | Fashion Accessories | Fine Jewelry | Clothes](https://www.boomandmellow.com/collections/whats-new): Discover the latest Fashion.  Shop the newest trends in women's accessories, clothing and fine jewelry and choose from a range of styles and colors in one place for your shopping pleasure.
-  Total Products: 575
+  Total Products: 643
 - [Women’s Layering Necklaces | Boom & Mellow](https://www.boomandmellow.com/collections/layering-necklaces): Discover layering necklaces at Boom & Mellow. Explore modern necklaces and curated jewelry designed for effortless everyday styling.
-  Total Products: 2990
+  Total Products: 3006
 - [Shop Fashion Accessories | Pendants | Charm](https://www.boomandmellow.com/collections/fashion-accessories-pendants): Shop pendant and charm, skull, feather, round, moon, star
   Total Products: 14
 - [Gifts for Mom – Unique Gift Ideas | Boom & Mellow](https://www.boomandmellow.com/collections/gifts-for-mom): Explore our curated collection of gifts for Mom at Boom & Mellow. Find unique and thoughtful items perfect for any occasion, celebrating her individuality and love.
@@ -123,7 +123,7 @@ Boom & Mellow is the UAE's leading curated concept store for women seeking uniqu
   Total Products: 51
 - [Piercing Collection | Fine Jewelry | Fashion Accessories | Earrings | Stud | Earcuff](https://www.boomandmellow.com/collections/piercing-collection)
   Total Products: 52
-- [Fine Piercing for Women | Boom & Mellow](https://www.boomandmellow.com/collections/fine-piercing): Shop fine piercing for women at Boom & Mellow. Explore gold piercing jewelry set with diamonds and precious stones, designed for modern styling and refined elegance.
+- [Fine Gold Piercing Jewelry Dubai | Boom & Mellow](https://www.boomandmellow.com/collections/fine-piercing): Fine gold piercing jewelry in Dubai at Boom & Mellow — gold stud piercings and ear stack pieces from independent fine jewelry brands, crafted to last.
   Total Products: 26
 - [Swimwear for Women | Boom & Mellow](https://www.boomandmellow.com/collections/swimwear): Shop swimwear for women at Boom & Mellow, featuring stylish bikinis and swimsuits designed for beach days, poolside lounging, and warm-weather getaways.
   Total Products: 11
@@ -132,12 +132,12 @@ Boom & Mellow is the UAE's leading curated concept store for women seeking uniqu
 - [Sleepwear for Women | Boom & Mellow](https://www.boomandmellow.com/collections/sleepwear): Shop sleepwear for women at Boom & Mellow, including comfortable pajamas and relaxed styles designed for restful nights and effortless at-home wear.
   Total Products: 57
 - [Explore our all Collections | Boom & Mellow](https://www.boomandmellow.com/collections/all): Explore all collections at Boom & Mellow — fine jewelry, accessories, clothing and lifestyle. Browse and find what speaks to you.
-  Total Products: 15492
+  Total Products: 15570
 - [Gifts for Women under 200 AED - Free Gift Wrapping | Boom & Mellow UAE](https://www.boomandmellow.com/collections/gifts-under-200-aed): Shop gifts for women under 200 AED at Boom & Mellow UAE. Enjoy free gift wrapping, 3-hour Dubai delivery, 10% off first order & worldwide shipping.
-  Total Products: 8712
+  Total Products: 8758
 - [Fine Brooches for Women | Boom & Mellow](https://www.boomandmellow.com/collections/fine-brooches): Shop fine brooches for women at Boom & Mellow. Explore elegant gold designs set with diamonds and precious stones, created to bring refined detail and timeless appeal.
   Total Products: 3
-- [Kaftans & Kimonos](https://www.boomandmellow.com/collections/kaftans-and-kimonos): Shop kaftans and kimonos for women at Boom & Mellow, from lightweight beach styles and everyday wear to elegant, modest designs perfect for Ramadan.
+- [Women’s Kaftans & Kimonos | Beach, Linen & Designer Styles | Boom & Mellow](https://www.boomandmellow.com/collections/kaftans-and-kimonos): Shop women’s kimonos & kaftans at Boom & Mellow. Discover lightweight beach kimonos, linen styles & elegant layering pieces. Same-day delivery in Dubai.
   Total Products: 107
 - [Healing Stones & Crystals | Boom & Mellow](https://www.boomandmellow.com/collections/healing-stones-and-crystals): Explore healing stones and crystals at Boom & Mellow, curated for mindfulness, balance, and thoughtful home styling. Ideal for personal rituals or meaningful gifts.
   Total Products: 18
@@ -160,7 +160,7 @@ Boom & Mellow is the UAE's leading curated concept store for women seeking uniqu
 - [For Kids & Baby](https://www.boomandmellow.com/collections/for-kids-and-baby)
   Total Products: 78
 - [Gifts for Women under 500 AED - Free Gift Wrapping | Boom & Mellow UAE](https://www.boomandmellow.com/collections/gifts-under-500aed): Shop gifts for women under 500 AED at Boom & Mellow UAE. Enjoy free gift wrapping, 3-hour Dubai delivery, 10% off first order & worldwide shipping.
-  Total Products: 12972
+  Total Products: 13036
 - [Travel Organizers for Women | Boom & Mellow](https://www.boomandmellow.com/collections/travel-organizers): Shop travel organizers for women at Boom & Mellow. Discover stylish organizers designed to keep jewelry and essentials neatly stored while traveling.
   Total Products: 54
 - [Candles & Accessories | Boom & Mellow](https://www.boomandmellow.com/collections/candles-and-accessories): Shop candles and candle accessories at Boom & Mellow, including holders, matches, and lighters. Ideal for home styling, hosting, and thoughtful gifting.
@@ -176,7 +176,7 @@ Boom & Mellow is the UAE's leading curated concept store for women seeking uniqu
 - [Personalized Gifts — Custom Jewelry & Bags | Boom & Mellow](https://www.boomandmellow.com/collections/personalized-gifts): Personalized gifts at Boom & Mellow — custom Arabic name necklaces, initial necklaces and personalized bags, made to order and shipped worldwide.
   Total Products: 6
 - [Holiday Gifts](https://www.boomandmellow.com/collections/holiday-gifts)
-  Total Products: 1795
+  Total Products: 1796
 - [Gifts for Teachers](https://www.boomandmellow.com/collections/gifts-for-teachers)
   Total Products: 49
 - [Party Ready Clutch Bags](https://www.boomandmellow.com/collections/party-ready-clutch-bags)
@@ -198,7 +198,7 @@ Boom & Mellow is the UAE's leading curated concept store for women seeking uniqu
 - [Baobab Collection | Boom & Mellow](https://www.boomandmellow.com/collections/baobab-collection): Discover the Baobab Collection featuring luxury scented candles and home fragrances crafted with refined scents and distinctive glass designs.
   Total Products: 81
 - [Gifts for Women - Free Gift Wrapping | Boom & Mellow UAE](https://www.boomandmellow.com/collections/gifts): Shop gifts for women at Boom & Mellow UAE. Enjoy free gift wrapping, 3-hour Dubai delivery, 10% off first order & worldwide shipping.
-  Total Products: 4549
+  Total Products: 4578
 - [Faith Jewelry | Boom & Mellow](https://www.boomandmellow.com/collections/faith-jewelry): Discover faith jewelry featuring meaningful designs inspired by prayers, sacred words and symbols, created to be worn with intention every day.
   Total Products: 5
 - [Galentine's Gifts | Boom & Mellow](https://www.boomandmellow.com/collections/galentines-gifts): Galentine's Gifts for your favorites girls!
@@ -237,8 +237,8 @@ Boom & Mellow is the UAE's leading curated concept store for women seeking uniqu
   Total Products: 18
 - [Chant Arzo | Boom & Mellow](https://www.boomandmellow.com/collections/chant-arzo): Arzo Selucci is a premium handcrafted sterling silver jewelry brand born from the raw beauty of urban landscapes and the timeless elegance of natural stones. Each piece, from bold men's silver bracelets and statement rings to delicate women's necklaces, pendants, and earrings, is meticulously handmade using 100%  recycled silver and ethically sourced gemstones, making every creation as conscious as it is beautiful. Rooted in over four decades of craftsmanship and re imagined for the modern explorer, Arzo Selucci blends sculptural artistry with sleek minimalism to produce wearable art that tells your story. Our collections speak to the seekers, the bold, and the style-conscious, those who refuse to wear ordinary jewelry.
   Total Products: 30
-- [Cofin Paris | Boom & Mellow](https://www.boomandmellow.com/collections/cofin-paris): Cofin Paris is a French artisan bag and accessories brand, born in 2020 from the creative vision of designer Sally P. Where the sun-drenched soul of Provence meets the refined elegance of Paris. Rooted in a rich Provençal heritage, the name Cofin refers to the large canvas tote women used for generations to harvest olives, lavender, and fruits across the South of France. Today, that same spirit of timeless craftsmanship and purposeful design lives on in every stitch. Each piece, from our signature handmade tote bags and pochettes to our cosmetic pouches and sacs, is entirely made in France, crafted with meticulous attention to detail using the finest French textiles. Cofin Paris is your destination for authentic Parisian fashion accessories that are as ethical as they are beautiful.
-  Total Products: 22
+- [Cofin Paris French Pouches & Toiletry Bags | Boom & Mellow](https://www.boomandmellow.com/collections/cofin-paris): Shop Cofin Paris at Boom & Mellow — handcrafted French travel pouches, makeup bags and toiletry bags made in Paris. Beautiful accessories crafted for women on the go.
+  Total Products: 23
 - [Creative Brands | Boom & Mellow](https://www.boomandmellow.com/collections/creative-brands): Shop Creative Brands for the most on-trend gifts, home decor, and lifestyle accessories, all at unbeatable prices. From thoughtful personalized gifts and stylish home accents to fashionable accessories and inspirational keepsakes, Creative Brands curates a diverse collection that blends contemporary design with everyday affordability. Creative Brands has a team of energetic, fashion-driven product people who travel the world for unique products and bring the very best in color, trend, design & social consciousness to gift and home decor products. Creative Brands products are as diverse as the people buying them; delivering style and selection at attractive price points. Our pledge is to provide you the very best: the best products and designs at the best prices: on-trend and on-time.
   Total Products: 179
 - [Curate Home | Boom & Mellow](https://www.boomandmellow.com/collections/curate-home): Curate Home is Dubai's destination for handmade home decor, artisan gifts, and sustainable lifestyle products that carry a story. Founded by Neeti Tandon Kashyap, every piece in our collection is handpicked and handcrafted, blending global cultures with a modern aesthetic to bring timeless beauty into contemporary living spaces across the UAE. From block print cushion covers, luxury scented candles, and bakhoor sets, to artisanal dinnerware, home fragrances, table linens, and decorative vases, each creation is ethically sourced, sustainably made, and thoughtfully designed for homes that value craftsmanship over mass production.
@@ -301,7 +301,7 @@ Boom & Mellow is the UAE's leading curated concept store for women seeking uniqu
   Total Products: 0
 - [Orchid Jewelry | Boom & Mellow](https://www.boomandmellow.com/collections/orchid-jewelry): The Orchid Jewelry is a luxury handcrafted jewelry brand inspired by the delicate orchid flower, symbolizing elegance, grace, confidence, and femininity. Designed by sisters Aya and Amina with Lebanese heritage and global influence, our collection features 18k gold jewelry, diamond & natural stone necklaces, earrings, bracelets, rings, bangles, and statement pieces that blend modern luxury with cultural richness. Available online worldwide, Orchid Jewelry delivers custom design, timeless style, and impeccable craftsmanship for every empowered woman.
   Total Products: 119
-- [Organiks Plus | Boom & Mellow](https://www.boomandmellow.com/collections/organiks-plus): Organiks Plus is a premium natural wellness brand offering organic, sustainably sourced skincare, body care, herbal teas, honey, beeswax candles, dried fruits, and Eco‑friendly beauty products that customers love. Rooted in the heart of Pakistan, our pesticide‑free, handpicked natural products support health, clean beauty, holistic wellness, and conscious living while empowering rural women and youth.
+- [Organiks Plus Pakistani Hand-Embroidered Trays & Table Linens | Boom & Mellow](https://www.boomandmellow.com/collections/organiks-plus): Shop Organiks Plus at Boom & Mellow — premium Pakistani table linens and tray mats from the Pahari Collection, handcrafted by women artisans with embroidery and print.
   Total Products: 13
 - [Pitusa | Boom & Mellow](https://www.boomandmellow.com/collections/pitusa): Pitusa is a vibrant, female‑led resort wear & beachwear brand known for high‑quality, comfortable, colorful apparel that transitions from beach to street. Inspired by world travels and cultural diversity, pitusa crafts flattering dresses, kaftans, tops, bottoms, jumpsuits, Pima cotton tees and breezy cover‑ups using luxurious Peruvian and Indian fabrics. Founded in 2010 with no outside , pitusa’s ethical, stylish collections combine bold colors, boho‑chic aesthetics and effortless comfort, making it a top choice for summer styles, vacation looks, lounge wear, and everyday fashion.
   Total Products: 203
@@ -339,6 +339,8 @@ Boom & Mellow is the UAE's leading curated concept store for women seeking uniqu
   Total Products: 9
 - [Birnayta Lebanese Handmade Embellished Summer Hats | Boom & Mellow](https://www.boomandmellow.com/collections/birnayta): Shop Birnayta at Boom & Mellow — handmade Lebanese embellished hats crafted for summer. Unique artisan pieces designed to be worn and noticed under the sun.
   Total Products: 71
+- [Brands with Purpose | Boom & Mellow](https://www.boomandmellow.com/collections/brands-with-purpose)
+  Total Products: 0
 
 ## Policies
 
