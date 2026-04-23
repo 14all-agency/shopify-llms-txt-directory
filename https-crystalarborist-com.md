@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-16T04:28:47Z
 - Contact Email: celestialmonarch92@gmail.com
-- Updated At: 2026-04-14T00:00:39.969Z
+- Updated At: 2026-04-23T00:00:41.626Z
 
 Discover Magic! At Crystal Arborist, you can find something wonderful and unique. 100% Customer Satisfaction .
 
@@ -180,13 +180,6 @@ Discover Magic! At Crystal Arborist, you can find something wonderful and unique
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/57-188269d3-d964-4fca-af4c-1b251c327237-_1.jpg?v=1766549234
   Price: $25.00 USD
-- [Rose Quartz and Amethyst Star Orgonite Necklace, for Peace and Love Crystal Arborist](https://crystalarborist.com/products/rose-quartz-and-amethyst-star-orgonite-necklace-for-peace-and-love): Rose quartz and Amethyst Necklace for Peace and Love. Calming vibesThe central stone of this Pendant is Rose Quartz. Rose Quartz is symbolic of Love and Compassion.Amethyst is
-  Updated: 2026-04-02T10:35:23Z
-  Vendor: CrystalArborist
-  Product Type: Orgonite
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/57-8d1f725e-b29a-41a4-8bed-7bc53ffe97ee-_1.jpg?v=1767670965
-  Price: $20.00 USD
 - [Sodalite Wire and Resin Pendant for Inner Peace and Intuition Crystal Arborist](https://crystalarborist.com/products/sodalite-wire-and-resin-pendant-for-inner-peace-and-intuition): Sodalite Necklace for Inner Peace and IntuitionSodalite is symbolic of Truth, Inner Peace, Communication, Logic, and Intuition. Sodalite is thought to help a person to understand
   Updated: 2026-04-02T10:35:24Z
   Vendor: CrystalArborist
@@ -306,13 +299,6 @@ Discover Magic! At Crystal Arborist, you can find something wonderful and unique
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/57-28cc687f-6078-4364-aeac-721c6dd44d0d-_1.jpg?v=1766548941
   Price: $25.00 USD
-- [Orgonite Pendant: Purple Necklace for Prosperity and Inner Peace Crystal Arborist](https://crystalarborist.com/products/orgonite-pendant-purple-necklace-for-prosperity-and-inner-peace): Orgonite Pendant, Amulet, Necklace, for Prosperity and Inner PeaceFor this pendant I chose the stones Aquamarine, Amazonite, and Green Aventurine. These stones symbolize courage,
-  Updated: 2026-04-02T10:35:28Z
-  Vendor: CrystalArborist
-  Product Type: Orgonite
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/57_1113ce3b-9cd3-48e1-b054-8a326353f394.jpg?v=1760591340
-  Price: $10.00 USD
 - [Tiger's Eye Orgonite Pendant: Red Amulet  for Protection Crystal Arborist](https://crystalarborist.com/products/tigers-eye-orgonite-pendant-red-amulet-for-protection): Tiger's Eye Orgonite Pendant, Amulet, Necklace, Red, Powerful ProtectionFor this pendant I chose the stones, Obsidian, Shungite, and Black Tourmaline, which all symbolize
   Updated: 2026-04-02T10:35:28Z
   Vendor: CrystalArborist
@@ -741,7 +727,7 @@ Discover Magic! At Crystal Arborist, you can find something wonderful and unique
   Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/57_22f16b9e-5ec8-458c-858b-7b673cda6f51.jpg?v=1760591507
   Price: $2.00 USD
 - [Bubble Stuffed Harold The Shark | Sensory Fidget Toy](https://crystalarborist.com/products/bubble-stuffed-harold-the-shark-stress-toy-fidget): Harold The Shark bubble stuffed sensory toy. Tactile fidget toy for anxiety relief, ADHD, and autism. Fun sensory play for all ages. Great for Stress Relief
-  Updated: 2026-04-02T10:35:45Z
+  Updated: 2026-04-21T16:56:37Z
   Vendor: Top Trenz
   Product Type: Sensory
   Availability: Available
@@ -915,13 +901,6 @@ Discover Magic! At Crystal Arborist, you can find something wonderful and unique
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/57_3ae7b436-2e54-4e41-871c-764d0e065c8b.jpg?v=1760591577
   Price: $25.00 USD
-- [156G Titanium Rainbow Quartz Sphere, Crystal, Healing, Reiki Crystal Arborist](https://crystalarborist.com/products/156g-titanium-rainbow-quartz-sphere-crystal-healing-reiki): Rainbow colors shine within this beautiful Quartz Sphere. Rainbow Quartz is believed to stimulate all Chakras, Protect against negativity, and repel negative energy. It is also
-  Updated: 2026-04-02T10:35:52Z
-  Vendor: My Store
-  Product Type: Gemstones
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/57-856d6946-b937-4f36-971e-5b97be30509d-_1.jpg?v=1766547809
-  Price: $60.00 USD
 - [105G Natural Bornite Raw Mineral Specimen, Healing, Beautiful, Colorful Crystal Arborist](https://crystalarborist.com/products/105g-natural-bornite-raw-mineral-specimen-healing-beautiful-colorful): Beautiful Bornite, also known as 'Peacock Ore', is a Copper Sulfide Mineral. It is believed to be associated with Happiness, Self-Acceptance, and New Beginnings. It is believed to
   Updated: 2026-04-02T10:35:52Z
   Vendor: My Store
@@ -1055,13 +1034,6 @@ Discover Magic! At Crystal Arborist, you can find something wonderful and unique
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/57_41c171e0-1633-47c1-b680-e1b3725a2be9.jpg?v=1760591638
   Price: $30.00 USD
-- [Pokemon Nidoking 20th Anniversary 1st Edition Japanese Holo #043 PSA 10 Crystal Arborist](https://crystalarborist.com/products/pokemon-nidoking-20th-anniversary-1st-edition-japanese-holo-043-psa-10): The product is a Pokemon Nidoking 20th Anniversary 1st Edition Japanese Holo card from the Cp6: Expansion Pack 20th Anniversary set. This rare card, with a psychic attribute and
-  Updated: 2026-04-02T10:35:57Z
-  Vendor: My Store
-  Product Type: Pokemon Cards
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/57-61891139-30ae-433d-9d85-c127e3121102-_1.jpg?v=1766286914
-  Price: $66.00 USD
 - [Pokemon CGC 7.5 Near Mint + 1999 Ninetales Base Set Holo 12/102 Crystal Arborist](https://crystalarborist.com/products/pokemon-cgc-7-5-near-mint-1999-ninetales-base-set-holo-12-102): The product is a Pokemon CGC 7.5 Near Mint + 1999 Ninetales Base Set Holo 12/102 card. This Fire-type Pokemon card, with 80 HP, is a Holo Rare from the Base Set released in 1999.
   Updated: 2026-04-02T10:35:58Z
   Vendor: My Store
@@ -1230,13 +1202,6 @@ Discover Magic! At Crystal Arborist, you can find something wonderful and unique
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/57_de78d272-16f7-483e-b2f2-77ffe17b7e6d.jpg?v=1760591706
   Price: $15.00 USD
-- [Vintage Blue Glasses, Small Crystal Arborist](https://crystalarborist.com/products/vintage-blue-glasses-small): Two adorable little blue glasses. The blue at the base of the gasses makes a stunning, eye-drawing effect. There are some scratches, but from a distance it's hardly noticeable
-  Updated: 2026-04-02T10:36:05Z
-  Vendor: Unmarked
-  Product Type: Vintage
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/57-a3857e7a-dc11-4bff-b970-7f0ef9733379-_1.jpg?v=1766286638
-  Price: $8.00 USD
 - [Light Blue Glass, Pair Of Vintage Drinking Or Ice cream Glasses Crystal Arborist](https://crystalarborist.com/products/light-blue-glass-pair-of-vintage-drinking-or-ice-cream-glasses): For any collector of blue glass or vintage items, this pair of glasses is for you. The pattern on the sides make for convenient holding. Would be great for a stiff drink, or to
   Updated: 2026-04-02T10:36:05Z
   Vendor: Unmarked
@@ -1398,13 +1363,6 @@ Discover Magic! At Crystal Arborist, you can find something wonderful and unique
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/57_a4d57b38-752b-47a7-9c02-21416b151b14.jpg?v=1760591772
   Price: $18.00 USD
-- [Small Pearlescent Vintage Vase, Sculpted Flowers, Iridescent Crystal Arborist](https://crystalarborist.com/products/small-pearlescent-vintage-vase-sculpted-flowers-iridescent): This small pearlescent vintage vase features sculpted flowers, giving it a unique and delicate appearance. The iridescent finish adds a touch of elegance to the piece, making it a
-  Updated: 2026-04-02T10:36:12Z
-  Vendor: My Store
-  Product Type: Vintage
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/57_a0bf2734-b623-4a6a-b373-9075169b4a87.jpg?v=1760591775
-  Price: $5.00 USD
 - [Vintage Sugar Dish, White With Blue Hearts, Cottage & Country Home Design Crystal Arborist](https://crystalarborist.com/products/vintage-sugar-dish-white-with-blue-hearts-cottage-country-home-design): Very nice little sugar dish. Brings to mind my Grandma's country home. A sweet and friendly addition to any kitchen or dining area. Perfect for some sugar in your tea or morning
   Updated: 2026-04-02T10:36:13Z
   Vendor: Unbranded
@@ -1580,13 +1538,6 @@ Discover Magic! At Crystal Arborist, you can find something wonderful and unique
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/57-942dffce-c0ba-447e-83e5-6c09336fdb50-_1.jpg?v=1766286062
   Price: $45.00 USD
-- [CGC Graded Mint 10, Charizard Pokemon Go Holo Card 10/078, Pokemon TCG, English Crystal Arborist](https://crystalarborist.com/products/cgc-graded-mint-10-charizard-pokemon-go-holo-card-10-078-pokemon-tcg-english): The Might and Majesty of Charizard is well displayed on this Beautiful Holographic Card. #10 Pokemon Go Charizard. Graded 10. A Treasure for any Pokemon Card Collection. Worth
-  Updated: 2026-04-02T10:36:20Z
-  Vendor: My Store
-  Product Type: Pokemon Cards
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/57-0fafc6a0-1d3d-4fed-8beb-b495927702be-_1.jpg?v=1766286055
-  Price: $80.00 USD
 - [Vintage Pendants, Wearable, Lot Of Six Crystal Arborist](https://crystalarborist.com/products/vintage-pendants-wearable-lot-of-six): Lot of Six Vintage Pins. All wearable. Excellent condition.
   Updated: 2026-04-02T10:36:20Z
   Vendor: Estate
@@ -1601,13 +1552,6 @@ Discover Magic! At Crystal Arborist, you can find something wonderful and unique
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/57_ced38e77-7176-437d-b063-f3041ea5b2d3.jpg?v=1760591861
   Price: $21.99 USD
-- [CGC 9 MINT Aerodactyl Neo Revelation 1st Edition 15/64 Pokemon Card Crystal Arborist](https://crystalarborist.com/products/cgc-9-mint-aerodactyl-neo-revelation-1st-edition-15-64-pokemon-card): 1st Edition Aerodactyl! CGC 9, and in excellent condition.
-  Updated: 2026-04-02T10:36:21Z
-  Vendor: My Store
-  Product Type: Pokemon Cards
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/57-52cd8ac5-1554-4c91-8944-f730ef0099c5-_1.jpg?v=1766286028
-  Price: $45.00 USD
 - [Flareon V Card PGS Graded 9 136/132 Holographic Crystal Arborist](https://crystalarborist.com/products/flareon-v-card-pgs-graded-9-136-132-holographic): This Card Features Flareon, the Firey Eeveelution. Graded 9. Beautiful Holographic rainbows dance across the card's surface
   Updated: 2026-04-02T10:36:21Z
   Vendor: My Store
@@ -1754,30 +1698,85 @@ Lovely brooch would be sure to please. For those looking to wear something speci
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/rn-image-picker-lib-temp-cfcfbb0e-9a31-4b6a-ae44-c60979edcd43-_1.jpg?v=1766285782
   Price: $8.00 USD
-[List Continued](https://crystalarborist.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTIxMzg4NDE0NTgyNCwibGFzdF92YWx1ZSI6IjE1MjEzODg0MTQ1ODI0In0=)
+- [Silver Letters Vintage Pin Crystal Arborist](https://crystalarborist.com/products/silver-letters-vintage-pin): Silver Letters Vintage PinABA? This Silver Vintage Pin creates a pattern with letters. Wearable. Bring a little shine to one of your outfits or add to your collection. You may have
+  Updated: 2026-04-02T10:36:28Z
+  Vendor: Crystal Arborist
+  Product Type: Vintage
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/rn-image-picker-lib-temp-c4ed2d39-357a-4b15-be66-0987df04342f-_1.jpg?v=1766285771
+  Price: $3.00 USD
+- [Silver Vintage Rose Pin, For  at Crystal Arborist](https://crystalarborist.com/products/silver-vintage-rose-pin): Silver Vintage Rose Pin. A bit of Elegance and distinction. A nice gift for your mother, sister, grandmother, or anyone with an interest in flowers
+  Updated: 2026-04-02T10:36:28Z
+  Vendor: Crystal Arborist
+  Product Type: Vintage
+  Availability: Available
+  Price: $8.00 USD
+- [Tona Signed Gold Abstract Ribbon Vintage Pin Crystal Arborist](https://crystalarborist.com/products/tona-signed-gold-abstract-ribbon-vintage-pin): Tona Signed Gold Abstract Ribbon Vintage Pin. Wearable. An awesome addition to your collection, or a nice touch to go with one of your outfits
+  Updated: 2026-04-02T10:36:29Z
+  Vendor: Crystal Arborist
+  Product Type: Vintage
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/rn-image-picker-lib-temp-84825deb-c4c2-4d18-8236-8cb92ffcf99c-_1.jpg?v=1766285747
+  Price: $8.00 USD
+- [Gold Tone Sunflower Vintage Pin, Shop Crystal Arborist Today](https://crystalarborist.com/products/gold-tone-sunflower-vintage-pin): Gold Tone Sunflower Vintage Pin. Looking for a touch of Summer? Look no further. This Vintage Pin, shaped like a Sunflower might be just what your looking for.
+  Updated: 2026-04-02T10:36:29Z
+  Vendor: Crystal Arborist
+  Product Type: Vintage
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/rn-image-picker-lib-temp-a45e1c2a-2a54-42d0-b9fd-5f00a28e6569-_1.jpg?v=1766285740
+  Price: $6.00 USD
+- [Rhinestone Vintage Pin & Pendant, Teardrop Shape Crystal Arborist](https://crystalarborist.com/products/rhinestone-vintage-pin-pendant-teardrop-shape): Rhinestone Vintage Pin & Pendant, Teardrop Shape. So shiney! This Brooch is Gorgeous. Stop by the Shop and see what we got
+  Updated: 2026-04-02T10:36:29Z
+  Vendor: Crystal Arborist
+  Product Type: Vintage
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/rn-image-picker-lib-temp-8b4e1ae7-7e0a-4423-a3f2-d4f0a6c21a65-_1.jpg?v=1766285729
+  Price: $8.00 USD
+- [Gold Vintage Pin With Dangle Crystal Arborist](https://crystalarborist.com/products/gold-vintage-pin-with-dangle): Gold Vintage Pin With DangleGold Vintage Pin. Beautiful reflective brilliance.
+  Updated: 2026-04-02T10:36:30Z
+  Vendor: Crystal Arborist
+  Product Type: Vintage
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/rn-image-picker-lib-temp-21d7c9f5-dfd0-4cc9-ad5b-93b93b6239b0-_1.jpg?v=1766285723
+  Price: $6.00 USD
+- [Gold Vintage Pin, Ribbon and Heart-Shaped Design Crystal Arborist](https://crystalarborist.com/products/gold-vintage-pin-ribbon-and-heart-shaped-design): Gold Vintage Pin, Ribbon and Heart-Shaped Design. Check out the Crystal Arborist Shop for this and other Unique Vintage products
+  Updated: 2026-04-02T10:36:30Z
+  Vendor: Crystal Arborist
+  Product Type: Vintage
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/rn-image-picker-lib-temp-77d1e674-e04b-4471-b32e-01f94193ad5a-_1.jpg?v=1766285710
+  Price: $6.00 USD
+- [Magician's Valkyria Anime Figure, Dark Magician Girl, Yu-Gi-Oh Crystal Arborist](https://crystalarborist.com/products/magicians-valkyria-anime-figure-dark-magician-girl-yu-gi-oh): Magician's Valkyria Anime Figure, Dark Magician GirlBased off of the Card from the Yu-Gi-Oh Card Game, Duel Monsters. Magician's Valkyria Anime Figure.This Figure is faithful to
+  Updated: 2026-04-02T10:36:30Z
+  Vendor: Crystal Arborist
+  Product Type: Anime Figure
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/7703/9264/files/rn-image-picker-lib-temp-c0e0e577-2bbe-4fd3-ac65-24893169d210-_1.jpg?v=1766285673
+  Price: $35.00 USD
+[List Continued](https://crystalarborist.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTIxNTE3MzUzMzg1NiwibGFzdF92YWx1ZSI6IjE1MjE1MTczNTMzODU2In0=)
 
 ## Collections
 
 - [Card Carnival, Presented By Crystal Arborist](https://crystalarborist.com/collections/frontpage): Shop at the Card Carnival Today. Graded Pokemon Cards await you. Find great quality cards, rated by PSA and CGC. Grade 9 and 10 's Available
-  Updated: 2026-04-02T10:35:17Z
+  Updated: 2026-04-21T17:02:47Z
   Total Products: 44
 - [Figure Fairgrounds, Presented by Crystal Arborist](https://crystalarborist.com/collections/figure-fairgrounds): Come One, Come All to the Figure Fairgrounds! Action Figures, Superheroes, & Anime Figures await you. Shop or Browse this unique Collection.
   Updated: 2026-04-02T10:35:17Z
   Total Products: 48
 - [Necklace Nexus, Presented By Crystal Arborist](https://crystalarborist.com/collections/necklace-nexus): Enter the Necklace Nexus & find a world of unique Jewelry. Each piece is Handmade and Crafted with Care. Wirewrapped Stones and Orgonite Necklaces & Pendants.
-  Updated: 2026-04-02T10:35:17Z
+  Updated: 2026-04-21T16:58:17Z
   Total Products: 90
 - [Vintage Vista, Presented By Crystal Arborist](https://crystalarborist.com/collections/vintage-vista): Vintage Vista, our Timeless Collection of Vintage and Antique Items. Classic and Retro. Pieces with History that have withstood the test of Time.
-  Updated: 2026-04-02T10:35:17Z
+  Updated: 2026-04-21T17:03:13Z
   Total Products: 96
 - [Crystal Cavern, Presented By Crystal Arboris](https://crystalarborist.com/collections/crystal-cavern): Crystal Cavern: Shop our Collection of Rocks, Minerals, Crystal and Gemstone Specimens, as well as the symbol of our Shop, Gemstone and Wire Tree Sculptures.
-  Updated: 2026-04-02T10:35:17Z
+  Updated: 2026-04-21T17:01:23Z
   Total Products: 37
 - [More Magic Category, Presented By Crystal Arborist](https://crystalarborist.com/collections/more-magic): Shop Handmade Creations, Magic Supplies, and Relief from stress and anxiety. Our More Magic Category is here to Help you find what you need.
   Updated: 2026-04-02T10:35:17Z
   Total Products: 31
 - [Newest Items, Presented By Crystal Arborist](https://crystalarborist.com/collections/products): Newest items, browse the newest items available from  Crystal Arborist.
-  Updated: 2026-04-02T10:35:17Z
+  Updated: 2026-04-21T17:03:13Z
   Total Products: 349
 - [Top Ten Treasures Crystal Arborist](https://crystalarborist.com/collections/top-page-treasures): Explore the Top Ten Treasures collection at Crystal Arborist — featuring rare crystals, collectible figures, gemstone bundles, charms & unique finds. Shop hand-selected treasures that spark joy and curiosity!
   Updated: 2026-04-02T10:35:17Z
@@ -1798,7 +1797,7 @@ Lovely brooch would be sure to please. For those looking to wear something speci
     Updated: 2026-01-15T18:18:45Z
     Author: Callie Hitchcock
     Tags: Creating, Criticism, gemstones, Inspiration, Keep trying, Love, Meaning, Metaphysical Shop, Passion, Self doubt, Shop Owner Life, trees
-- [Short Stories & Self Help](https://crystalarborist.com/blogs/short-stories-self-help): Advice & Tips to Help You through some of Life's challenges. Self-Help Articles. Short Stories, Fables, & possibly Poetry. Combat depression & boredom. Be You.
+- [Stories](https://crystalarborist.com/blogs/short-stories-self-help): Advice & Tips to Help You through some of Life's challenges. Self-Help Articles. Short Stories, Fables, & possibly Poetry. Combat depression & boredom. Be You.
   - [Peace Be With You](https://crystalarborist.com/blogs/short-stories-self-help/peace-be-with-you): <p><em><strong>Tips To Combat Anger and Anxiety. Pleasant Thoughts. Peace. This Blog is about letting go of the bad and replacing it with good. Focusing not on what troubles you. I hope this small article can help you Relax and bring you a little Peace of Mind. </strong></em></p>
     Updated: 2025-12-21T04:05:01Z
     Author: Callie Hitchcock
@@ -1956,7 +1955,7 @@ Lovely brooch would be sure to please. For those looking to wear something speci
     Author: Callie Hitchcock
     Tags: Adventure, Character-driven, epic, Fantasy, Found family, gods and mortals, Grief and Loss, nautical fantasy, Redemption, Romance
   - [Shadowlight: Fire & Light (Book 5)](https://crystalarborist.com/blogs/short-stories-self-help/shadowlight-fire-light-book-5): <p>His memories were taken. His love for her erased. But some things run deeper than memory — and Marina had never stopped fighting for what they were.</p>
-    Updated: 2026-03-26T05:13:34Z
+    Updated: 2026-04-17T04:11:51Z
     Author: Callie Hitchcock
     Tags: Fantasy, Love, Magic, Memories, Nautical, Romance, Slow burn
   - [Starlight Cove: Shadowlight Voyages](https://crystalarborist.com/blogs/short-stories-self-help/starlight-cove-shadowlight-edition): <p><em><strong>Starlight Cove is Home. The Sea is everything else. Follow Shadowlight's first Voyages, a Story about Love, Prophecy, and what it means to Belong somewhere.</strong></em></p>
@@ -1971,6 +1970,10 @@ Lovely brooch would be sure to please. For those looking to wear something speci
     Updated: 2026-04-09T20:00:27Z
     Author: Callie Hitchcock
     Tags: Ancient Order, Dragons, Fire Magic, Memories, Prophecy, Self worth, Swords
+  - [Shadowlight: The Dark Between Stars (Book 8)](https://crystalarborist.com/blogs/short-stories-self-help/shadowlight-the-dark-between-stars): <p><em><strong>In the dark between stars, an ancient island awaits. Aidan must remember. The Sword must awaken. A battle 1500 years in the making begins.</strong></em></p>
+    Updated: 2026-04-18T21:05:40Z
+    Author: Callie Hitchcock
+    Tags: Ancient island, epic, High fantasy, Nautical, Past lives, Swords
 - [The Archives of Insights & Discoveries](https://crystalarborist.com/blogs/the-archives-of-insights-discoveries)
   - [Beginner's Guide to Crystal Collecting | How to Start Your Collection](https://crystalarborist.com/blogs/the-archives-of-insights-discoveries/beginners-guide-to-crystal-collecting-how-to-start-your-collection): Beginner's Guide to Crystal Collecting | How to Start Your Collection
     Updated: 2026-01-18T00:28:48Z
