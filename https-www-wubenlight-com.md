@@ -6,40 +6,40 @@
 - Timezone: America/Los_Angeles
 - Created At: 2019-11-19T02:09:00Z
 - Contact Email: service@wubenlight.com
-- Updated At: 2026-04-15T20:00:26.214Z
+- Updated At: 2026-04-23T00:00:46.172Z
 
 ## Products
 
 - [Wuben TO40R Compact Flashlight - Small But Powerful](https://www.wubenlight.com/products/wuben-to40r-led-tactical-flashlight): Discover the Wuben TO40R compact flashlight – a small but powerful lighting solution for all your needs. Compact yet incredibly bright and reliable.
-  Updated: 2026-03-24T19:43:47Z
+  Updated: 2026-04-20T21:53:22Z
   Vendor: WUBEN
   Product Type: FlashLight
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/to40r-led-compact-flashlight-1200-lumens-8361665.jpg?v=1773192960
   Price: $38.25 USD
 - [Wuben TO46R High CRI 1000 Lumen Portable Pocket Flashlight](https://www.wubenlight.com/products/wuben-to46r-high-cri-value-flashlight-1000-lumens): Explore the Wuben TO46R, a 1000 lumen flashlight with high CRI for accurate color rendering. This compact pocket juice light is perfect for various scenarios.
-  Updated: 2026-03-12T09:01:43Z
+  Updated: 2026-04-20T21:53:22Z
   Vendor: WUBEN
   Product Type: Tactical Flashlight
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/to46r-high-cri-value-flashlight-1000-lumens-8873440.jpg?v=1773192960
   Price: $39.57 USD
 - [Wuben E19 High CRI Portable EDC Pen LED Flashlight](https://www.wubenlight.com/products/wuben-e19--penlight): Discover the Wuben E19, a high CRI flashlight powered by AAA batteries. This 200-lumen penlight is perfect for accurate color rendering. Get yours today.
-  Updated: 2026-03-28T16:35:27Z
+  Updated: 2026-04-21T14:40:17Z
   Vendor: WUBEN
   Product Type: EDC
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-e19-high-cri-portable-edc-pen-led-flashlight-200-lumens-4645653.jpg?v=1773192961
+  Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/products/wuben-e19-high-cri-portable-edc-pen-led-flashlight-200-lumens-1103978.jpg?v=1776739209
+  - [Black](https://www.wubenlight.com/products/wuben-e19--penlight?variant=31414888267855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/products/wuben-e19-high-cri-portable-edc-pen-led-flashlight-200-lumens-4132367.jpg?v=1776739209
+    Price: $19.99 USD
   - [Blue](https://www.wubenlight.com/products/wuben-e19--penlight?variant=31414888235087)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/products/wuben-e19-high-cri-portable-edc-pen-led-flashlight-200-lumens-3692571.jpg?v=1773192962
-    Price: $19.99 USD
-  - [Black](https://www.wubenlight.com/products/wuben-e19--penlight?variant=31414888267855)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/products/wuben-e19-high-cri-portable-edc-pen-led-flashlight-200-lumens-4132367.jpg?v=1773192962
+    Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/products/wuben-e19-high-cri-portable-edc-pen-led-flashlight-200-lumens-3692571.jpg?v=1776739209
     Price: $19.99 USD
 - [WUBEN H8 Long Beam Distance Brightest Hunting Flashlight](https://www.wubenlight.com/products/wuben-h8-throwing-led-flashlights-1000-meters): Get the Wuben H8 long beam LED flashlight for exceptional long-distance illumination. Explore the best flashlight choice for extended range.
-  Updated: 2026-03-16T10:07:06Z
+  Updated: 2026-04-20T21:53:23Z
   Vendor: WUBEN
   Product Type: FlashLight
   Availability: Available
@@ -57,7 +57,7 @@
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/products/wuben-h8-long-beam-distance-brightest-hunting-flashlight-1125847.jpg?v=1773192961
     Price: $231.99 USD
 - [Wuben T103 Pro Brightest Tactical Flashlight](https://www.wubenlight.com/products/wuben-t103-pro-1280-lumens-flashlight): Discover the Wuben T103 Pro tactical flashlight—professional-grade lighting built for those who demand top performance, durability, and reliability.
-  Updated: 2026-04-15T02:46:06Z
+  Updated: 2026-04-21T07:24:36Z
   Vendor: WUBEN
   Product Type: Tactical Flashlight
   Availability: Available
@@ -71,7 +71,7 @@
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/products/t103-pro-tactical-flashlight-1280-lumens-5068895.jpg?v=1773192958
     Price: $59.68 USD
 - [Wuben L50 EDC Rechargeable 18650 Tactical LED Flashlight](https://www.wubenlight.com/products/wuben-l50-rechargeable-18650-edc-flashlight): Discover the Wuben L50 flashlight, the best 18650 EDC rechargeable flashlight on the market. Get powerful illumination with Wuben's quality and reliability.
-  Updated: 2026-04-14T14:25:27Z
+  Updated: 2026-04-22T19:52:17Z
   Vendor: WUBEN
   Product Type: L50FBTRAND
   Availability: Available
@@ -89,14 +89,14 @@
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-l50-edc-rechargeable-18650-tactical-led-flashlight-4514048.jpg?v=1773192959
     Price: $28.79 USD
 - [Wuben ABD4800R Micro-USB Charging 21700 Flashlight Battery](https://www.wubenlight.com/products/abd4800-21700-4800mah-rechargeable-protected-lithium-battery): Discover the power of the Wuben ABD4800R 21700 battery. With 4800mAh capacity and micro-USB charging, it’s a reliable choice for your flashlight.
-  Updated: 2026-04-14T19:45:18Z
+  Updated: 2026-04-20T21:53:24Z
   Vendor: WUBEN
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/products/wuben-abd4800r-micro-usb-charging-rechargeable-21700-flashlight-battery-4800mah-3303937.jpg?v=1773192860
   Price: $27.99 USD
 - [WUBEN C3 1200 Lumen Compact EDC Tactical Pocket Flashlight](https://www.wubenlight.com/products/wuben-c3-1200-lumens-flashlight-for-everyday-carry): Discover the power of the Wuben C3 1200 lumen flashlight. Experience high-quality illumination in a compact design. Get the best Wuben flashlight today.
-  Updated: 2026-04-15T11:39:29Z
+  Updated: 2026-04-20T21:53:25Z
   Vendor: WUBEN
   Product Type: EDC
   Availability: Available
@@ -114,42 +114,42 @@
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-c3-1200-lumen-compact-edc-tactical-pocket-flashlight-7213186.jpg?v=1773192950
     Price: $29.99 USD
 - [Wuben AC1 Silicone Flashlight Torch Diffuser for Photography](https://www.wubenlight.com/products/wuben-ac1-white-silicone-flashlight-diffuser): Discover the Wuben AC1 silicone flashlight diffuser, perfect for photographers. Achieve soft lighting for your photography needs with this torch diffuser.
-  Updated: 2026-03-24T17:57:34Z
+  Updated: 2026-04-20T21:53:25Z
   Vendor: WUBEN
   Product Type: L50FBTRAND
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/products/ac1-silicone-flashlight-diffuser-8301722.jpg?v=1773192861
   Price: $8.99 USD
 - [WUBEN A9 12000 Lumen High Power Brightest Flashlight](https://www.wubenlight.com/products/wuben-a9-super-bright-waterproof-flashlight-12000-lumens): Discover one of the brightest flashlights in the market. The WUBEN A9 flashlight delivers an incredible 12000 lumens for long-range illumination.
-  Updated: 2026-04-11T04:53:18Z
+  Updated: 2026-04-21T06:54:37Z
   Vendor: WUBEN
   Product Type: FlashLight
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-a9-12000-lumen-high-power-long-distance-brightest-flashlight-7872262.jpg?v=1773192862
   Price: $249.99 USD
 - [Wuben ABD4800 Rechargeable 21700 Flashlight Battery 4800mAh](https://www.wubenlight.com/products/wuben-abd21700-4800mah-rechargeable-battery-with-protected-board): Explore the Wuben ABD4800 rechargeable 21700 flashlight battery, boasting a high-capacity 4800mAh design.
-  Updated: 2026-03-28T16:33:06Z
+  Updated: 2026-04-22T21:47:17Z
   Vendor: WUBEN
   Product Type: FlashLight
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/products/abd4800-rechargeable-21700-flashlight-battery-4800mah-5149607.jpg?v=1773192858
   Price: $26.99 USD
 - [ABE3400 18650 Rechargeable Battery for Wuben Flashlight](https://www.wubenlight.com/products/wuben-abe3400-18650-battery-3400mah): Discover the Wuben ABE3400 18650 battery, serving as the premier rechargeable solution for your flashlight. Equipped with a 3400mAh capacity.
-  Updated: 2026-04-13T13:22:27Z
+  Updated: 2026-04-22T08:11:57Z
   Vendor: WUBEN
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/abe3400-rechargeable-type-c-18650-battery-3400mah-8861420.jpg?v=1773192858
   Price: $26.99 USD
 - [Wuben LT35 Pro Zoomable LED Flashlight | 1200 Lumen](https://www.wubenlight.com/products/wuben-lt35-pro-zoomable-cree-led-1200-lumens-18650-battery-light-for-outdoor): Discover the Wuben LT35 Pro zoomable LED flashlight with 1200 lumens for self-defense and versatile lighting. Get the ultimate zoomable flashlight now.
-  Updated: 2026-04-13T20:13:01Z
+  Updated: 2026-04-20T21:53:27Z
   Vendor: WUBEN
   Product Type: FlashLight
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/lt35-pro-best-zoomable-led-flashlight-1200-lumens-3795432.jpg?v=1773192860
   Price: $33.83 USD
 - [Wuben E12R Flashlight - 1200 Lumens, Type C Charging](https://www.wubenlight.com/products/wuben-e12r-power-bank-flashlight): Discover the Wuben E12R flashlight, a powerful 1200 lumens flashlight with Type C charging. Get reliable illumination and convenience in one device.
-  Updated: 2026-04-01T16:47:48Z
+  Updated: 2026-04-20T21:53:27Z
   Vendor: WUBEN
   Product Type: FlashLight
   Availability: Available
@@ -163,7 +163,7 @@
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/products/e12r-1200-lumens-power-bank-flashlight-5216002.jpg?v=1773192863
     Price: $45.66 USD
 - [Wuben ABE2600C Rechargeable 18650 2600mAh Flashlight Battery](https://www.wubenlight.com/products/wuben-abe2600c-18650-battery-2600mah): Upgrade your C3, L50, or H1 flashlight with the Wuben ABE2600C 18650 battery, featuring a 2600mAh capacity for dependable rechargeable power.
-  Updated: 2026-04-15T16:15:48Z
+  Updated: 2026-04-22T19:40:57Z
   Vendor: WUBEN
   Product Type: Accessories
   Availability: Available
@@ -176,8 +176,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/products/wuben-abe2600c-rechargeable-18650-flashlight-battery-2600mah-7415442.jpg?v=1773192858
     Price: $22.99 USD
-- [Wuben E19 Professional 365nm UV LED Flashlight & Pen Light](https://www.wubenlight.com/products/wuben-e19-uv-led-flashlight): Discover UV flashlights including 365nm UV flashlights, professional UV flashlights, UV LED pen lights, and more. Find the perfect UV light solution for your needs.
-  Updated: 2026-04-06T14:12:21Z
+- [Wuben E19 Professional 365nm UV LED Flashlight & Pen Light](https://www.wubenlight.com/products/wuben-e19-uv-led-flashlight): Discover UV flashlights, including 365nm models, professional UV lights, LED pen lights, and other tailored solutions.
+  Updated: 2026-04-22T11:15:01Z
   Vendor: WUBEN
   Product Type: FlashLight
   Availability: Available
@@ -191,7 +191,7 @@
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/products/e19-365nm-uv-led-pen-light-9959168.jpg?v=1773964033
     Price: $24.99 USD
 - [Wuben Gecko E61 Rechargeable Folding EDC Penlight Flashlight](https://www.wubenlight.com/products/wuben-gecko-e61-tactical-pen-with-flashlight): Discover the Wuben E61 Gecko EDC penlight flashlight with a unique 270 degrees rotatable design. Ideal for everyday carry and versatile lighting needs.
-  Updated: 2026-04-10T15:38:46Z
+  Updated: 2026-04-20T21:53:28Z
   Vendor: WUBEN
   Product Type: FlashLight
   Availability: Available
@@ -209,7 +209,7 @@
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/products/wuben-gecko-e61-multifunctional-rechargeable-edc-pen-light-8691934.jpg?v=1773192862
     Price: $79.99 USD
 - [WUBEN F5 Rechargeable Power Bank Camping & Tent LED Light](https://www.wubenlight.com/products/wuben-f5-power-bank-camping-light): Make your camping nights safer with the Wuben F5 camping night light. It's rechargeable, bright, and perfect for lighting up your outdoor adventures.
-  Updated: 2026-04-06T01:15:37Z
+  Updated: 2026-04-22T15:57:32Z
   Vendor: WUBEN
   Product Type: FlashLight
   Availability: Available
@@ -223,28 +223,28 @@
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/products/wuben-f5-rechargeable-power-bank-camping-tent-led-light-4532418.jpg?v=1773192863
     Price: $36.99 USD
 - [WUBEN H1 1200 Lumens Brightest Rechargeable Hiking Headlamp](https://www.wubenlight.com/products/wuben-h1-super-bright-led-rechargeable-headlamp): Discover the Wuben H1: 1200-lumen headlamp with red light, bike-ready, USB rechargeable—your ultimate bright headlamp experience at Wubenlight.com.
-  Updated: 2026-04-14T06:33:07Z
+  Updated: 2026-04-22T16:46:27Z
   Vendor: WUBEN
   Product Type: FlashLight
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/products/wuben-h1-1200-lumens-brightest-rechargeable-outdoor-hiking-headlamp-2887647.jpg?v=1773192858
   Price: $34.99 USD
 - [Wuben AX1 Extra E61 and G3 Ballpoint Pen Refills (50pcs/box)](https://www.wubenlight.com/products/e61-extra-pen-refills): Upgrade your E61 pen light and G3 EDC multi-tool with premium pen refills for smooth, reliable performance.
-  Updated: 2026-04-13T18:28:47Z
+  Updated: 2026-04-20T21:53:29Z
   Vendor: WUBEN
   Product Type: Acessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/products/ax1-extra-ballpoint-pen-refills-for-e61-and-g3-5642705.jpg?v=1773192801
   Price: $9.90 USD
 - [Wuben E6 900 Lumens Small Steel Cannon EDC LED Flashlight](https://www.wubenlight.com/products/wuben-e6-small-steel-cannon-strong-flashlight): Discover the Wuben E6 small steel cannon flashlight, your best choice for a strong 900 lumens AA flashlight. Get small but bright flashlights for any situation.
-  Updated: 2026-04-05T20:47:16Z
+  Updated: 2026-04-22T23:15:57Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/e6-small-steel-cannon-strong-flashlight-900-lumen-5391011.jpg?v=1773192806
   Price: $29.99 USD
 - [Wuben B2 Rechargeable Bike LED Light USB Front Light](https://www.wubenlight.com/products/wuben-b2-usb-rechargeable-bike-light-1300-lumens): Discover the Wuben B2, the best rechargeable bike LED light for night riding. Get a bright USB bike light with 18650 and 21700 battery compatibility.
-  Updated: 2026-04-15T11:33:58Z
+  Updated: 2026-04-20T21:53:30Z
   Vendor: WUBEN
   Product Type: Bike light
   Availability: Available
@@ -262,49 +262,49 @@
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/products/wuben-b2-1300-high-lumens-rechargeable-bike-led-light-4859665.jpg?v=1773192806
     Price: $33.99 USD
 - [Wuben 14500 920mAh Type-C Battery For E8 Flashlight](https://www.wubenlight.com/products/e6-extra-battery-14500-620mah-li-ion-battery): Wuben 14500 920mAh USB-C Rechargeable Battery for E8 Flashlight
-  Updated: 2026-04-14T01:40:36Z
+  Updated: 2026-04-21T12:53:36Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/products/14500-920mah-type-c-battery-for-e8-1752231.jpg?v=1773192800
   Price: $23.99 USD
 - [WUBEN E62 Multifunctional EDC Tactical Pen Flashlight](https://www.wubenlight.com/products/wuben-e62-pen-light-best-tactical-pen-with-flashlight): Discover the Wuben E62 tactical pen light, the brightest EDC flashlight with a multifunctional EDC knife.
-  Updated: 2026-04-13T21:42:37Z
+  Updated: 2026-04-22T18:50:47Z
   Vendor: WUBEN
   Product Type: EDC
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/products/wuben-e62-multifunctional-edc-tactical-pen-flashlight-knife-2761728.jpg?v=1773192803
   Price: $49.99 USD
 - [WUBEN C2 Rechargeable Power Bank EDC Tactical Flashlight](https://www.wubenlight.com/products/wuben-c2-2000-lumens-flashlight-for-outdoor-needs): Wuben C2 flashlight offers a bright 2000 lumen beam and serves as a handy power bank. Explore this versatile illumination solution.
-  Updated: 2026-04-15T09:56:36Z
+  Updated: 2026-04-21T10:44:39Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-c2-2000-lumens-rechargeable-power-bank-edc-tactical-flashlight-6027071.jpg?v=1773192803
   Price: $49.99 USD
 - [WUBEN H5 Rechargeable High-Power LED Hiking Headlamp](https://www.wubenlight.com/products/wuben-h5-multifunctional-clip-flashlight): Discover the Wuben H5, the ultimate rechargeable LED headlamp for outdoor enthusiasts. Get the best hiking and camping experience with this waterproof headlamp.
-  Updated: 2026-04-10T13:43:56Z
+  Updated: 2026-04-21T19:42:01Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-h5-rechargeable-high-power-led-hiking-headlamp-9829727.jpg?v=1773192805
   Price: $29.99 USD
 - [WUBEN T1 Tactical EDC Camping Flashlight - 2000 Lumens](https://www.wubenlight.com/products/wuben-t1-tactical-flashlight-2000-lumens): The Wuben T1 is your ultimate choice for a rechargeable tactical flashlight, designed for self-defense situations. Explore its features and benefits now.
-  Updated: 2026-04-02T08:36:11Z
+  Updated: 2026-04-20T21:53:32Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-t1-tactical-edc-camping-flashlight-2000-lumens-9404061.jpg?v=1773192804
   Price: $68.99 USD
 - [Wuben A1 20000 Lumen Brightest Rechargeable Spotlight](https://www.wubenlight.com/products/wuben-a1-longest-throw-spotlight-flashlight): Our Wuben A1 high-power portable rechargeable spotlight boasts an impressive 20,000 lumens, making it one of the brightest spotlight flashlights on the market.
-  Updated: 2026-03-31T20:50:41Z
+  Updated: 2026-04-20T21:53:32Z
   Vendor: WUBEN
   Product Type: FlashLight
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/a1-20000-lumen-portable-spotlight-one-of-the-worlds-brightest-flashlights-8302230.jpg?v=1773192804
   Price: $809.99 USD
 - [WUBEN G2 Multi-functional EDC LED Keychain Pocket Flashlight](https://www.wubenlight.com/products/wuben-g2-mini-flashlight): Discover the Wuben G2 keychain flashlight – a compact and powerful LED EDC mini flashlight. Perfect for everyday carry and lighting up your adventures.
-  Updated: 2026-04-15T02:46:07Z
+  Updated: 2026-04-22T22:53:26Z
   Vendor: WUBEN
   Product Type: EDC
   Availability: Available
@@ -322,7 +322,7 @@
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/products/wuben-g2-multi-functional-mini-edc-led-keychain-pocket-flashlight-8735316.jpg?v=1773192802
     Price: $25.99 USD
 - [WUBEN X1 Brightest Rechargeable EDC Flashlight 12000 Lumens](https://www.wubenlight.com/products/wuben-x1-small-and-powerful-ecl-flashlight-12000-lumens): Experience the brilliance of the Wuben Falcon X1 flashlight, a powerful LED torch delivering 12000 lumens of brightness. Get your Wuben X1 flashlight now!
-  Updated: 2026-04-15T19:39:09Z
+  Updated: 2026-04-22T22:06:38Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
@@ -344,14 +344,14 @@
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/at2x-bike-metal-mount-for-x1x4-4070780.jpg?v=1775124385
     Price: $24.99 USD
 - [Wuben AT2X Flashlight Bicycle Mount for X1](https://www.wubenlight.com/products/wuben-at2x-flashlight-bicycle-mount-for-x1): Try the Wuben AT2X Flashlight Bicycle Mount for X1 – securely attach your flashlight and enjoy a safer, brighter biking experience.
-  Updated: 2026-04-14T04:04:21Z
+  Updated: 2026-04-20T21:53:33Z
   Vendor: WUBEN
   Product Type: Acessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/products/at2x-flashlight-bike-mount-for-x1x4-7053918.jpg?v=1773192796
   Price: $16.90 USD
 - [Wuben X3 EDC Rechargeable Magnetic Pocket Flashlight](https://www.wubenlight.com/products/wuben-x3-edc-rechargeable-magnetic-pocket-flashlight): Discover the Best Wuben X3 EDC flashlight, known as the best home and outdoor owl light or flat flashlight. It's a great choice for your everyday carry needs.
-  Updated: 2026-04-14T12:06:45Z
+  Updated: 2026-04-22T22:58:26Z
   Vendor: WUBEN
   Product Type: FlashLight
   Availability: Available
@@ -385,28 +385,28 @@
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-lightok-x3-owl-edc-flashlight-rechargeable-mini-700-lumens-flashlights-5030330.jpg?v=1773192953
     Price: $57.59 USD
 - [Donation of a Tree](https://www.wubenlight.com/products/donation-of-a-tree): Tree by One Tree Planted
-  Updated: 2026-03-31T08:38:09Z
+  Updated: 2026-04-20T21:53:34Z
   Vendor: One Tree Planted
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/products/donation-of-a-tree-4334943.jpg?v=1773192738
   Price: $1.00 USD
 - [Wuben P1 Headband - Headlamp Accessory for E7 & X0](https://www.wubenlight.com/products/wuben-p1-headband-for-e7-and-x0): Upgrade your Wuben X0 or E7 with the Wuben P1 Headband. Turn your flashlight into a hands-free headlamp for outdoor activities.
-  Updated: 2026-04-15T03:00:17Z
+  Updated: 2026-04-21T15:08:06Z
   Vendor: WUBEN
   Product Type: Headlamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/p1-headband-for-e7x0-3482553.jpg?v=1773715467
   Price: $9.99 USD
 - [Wuben AP40 Gesture Sensor Headlamp Accessory for E7 Headlamp](https://www.wubenlight.com/products/wuben-ap40-gesture-sensor-for-e7): Enjoy hands-free control with the Wuben Gesture Sensor. Built for the Wuben E7 headlamp, it lets you operate the light with simple gestures.
-  Updated: 2026-04-05T11:32:26Z
+  Updated: 2026-04-20T21:53:35Z
   Vendor: WUBEN
   Product Type: Headlamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/ap40-gesture-sensor-for-e7-8648038.jpg?v=1773192743
   Price: $9.99 USD
 - [Wuben E7YCT Battery Extender for Wuben E7 Headlamp](https://www.wubenlight.com/products/wuben-e7yct-battery-extender-for-e7): Boost your Wuben E7 with the E7YCT Battery Extender—convert 18350 to 18650 for triple runtime and a versatile right-angle flashlight.
-  Updated: 2026-04-15T18:56:38Z
+  Updated: 2026-04-20T21:53:36Z
   Vendor: WUBEN
   Product Type: Headlamp
   Availability: Available
@@ -424,7 +424,7 @@
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/e7yct-battery-extender-for-e7-7672218.jpg?v=1773192745
     Price: $9.99 USD
 - [WUBEN E7 Magnetic Rechargeable EDC Flashlight 1800 Lumens](https://www.wubenlight.com/products/wuben-e7-magnetic-rechargeable-edc-flashlight-1800-lumens): Built for adventure and work, this compact EDC flashlight delivers strong illumination, waterproof reliability, and rechargeable performance.
-  Updated: 2026-04-15T18:56:38Z
+  Updated: 2026-04-22T00:17:37Z
   Vendor: WUBEN
   Product Type: Headlamp
   Availability: Available
@@ -446,21 +446,21 @@
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-e7-magnetic-multi-functional-edc-flashlight-1800-lumens-1589750.webp?v=1773193001
     Price: $29.99 USD
 - [Wuben A22 4500 Lumens Hight Lumen Rechargeable Flashlight](https://www.wubenlight.com/products/a22-4500-lumen-high-power-rechargeable-flashlight): Shine brighter with Wuben A22 4500-lumen flashlight—powerful, long-range illumination you can trust. Light up the night with confidence!
-  Updated: 2026-04-15T11:33:02Z
+  Updated: 2026-04-20T21:53:36Z
   Vendor: WUBEN
   Product Type: FlashLight
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/a22-4500-lumens-high-power-rechargeable-flashlight-1271484.jpg?v=1773192705
   Price: $129.99 USD
 - [Price Difference Compensation(SUPPLEMENT)](https://www.wubenlight.com/products/price-difference-compensation)
-  Updated: 2026-04-14T02:49:37Z
+  Updated: 2026-04-22T22:40:37Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/price-difference-compensationsupplement-1270509.jpg?v=1773192698
   Price: $45.00 USD
 - [Wuben T4 Portable Tactical EDC Rechargeable Flashlight](https://www.wubenlight.com/products/wuben-t4-tactical-flashlight): Discover the Wuben T4, a compact rechargeable tactical flashlight with 850 lumens, ideal for patrol, self-defense, everyday carry, and military use.
-  Updated: 2026-04-13T22:58:17Z
+  Updated: 2026-04-22T18:45:49Z
   Vendor: WUBEN
   Product Type: Tactical Flashlight
   Availability: Available
@@ -474,13 +474,13 @@
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-t4-portable-tactical-edc-rechargeable-flashlight-850-lumens-7843413.jpg?v=1773192706
     Price: $55.99 USD
 - [kickstarter shipping fee](https://www.wubenlight.com/products/kickstarter-shipping-fee): kickstarter shipping fee
-  Updated: 2026-03-31T08:38:10Z
+  Updated: 2026-04-20T21:53:38Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
   Price: $1.00 USD
-- [Wuben 100% Cotton T-Shirt](https://www.wubenlight.com/products/free-gift-wuben-100-cotton-t-shirt): Wuben 100% Cotton T-Shirt
-  Updated: 2026-03-31T08:38:11Z
+- [Wuben 100% Cotton T-Shirt](https://www.wubenlight.com/products/free-gift-wuben-100-cotton-t-shirt): Wuben premium 100% cotton T-shirt offers soft, breathable comfort with durable everyday casual wear style.
+  Updated: 2026-04-21T15:10:30Z
   Vendor: GoodApps
   Product Type: ghost_product
   Availability: Available
@@ -514,23 +514,19 @@
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-100-cotton-t-shirt-4413792.jpg?v=1773662329
     Price: $19.99 USD
 - [WUBEN E1 EDC Rechargeable Selfie Portable Light for Phone](https://www.wubenlight.com/products/wuben-e1-edc-mini-flashlight-adjustable-light-modes): Compact magnetic phone light with 300-lumen brightness, 3 color modes, and USB-C recharge. Perfect for selfies, live streaming, and everyday carry lighting.
-  Updated: 2026-04-14T16:09:28Z
+  Updated: 2026-04-22T19:03:14Z
   Vendor: WUBEN
   Product Type: EDC
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-e1-edc-rechargeable-selfie-light-portable-ring-light-4958571.jpg?v=1773192744
-  - [white(magnesium version)](https://www.wubenlight.com/products/wuben-e1-edc-mini-flashlight-adjustable-light-modes?variant=46467807084784)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-e1-edc-rechargeable-selfie-light-portable-ring-light-6842952.jpg?v=1773192745
-    Price: $36.99 USD
-  - [Bracket](https://www.wubenlight.com/products/wuben-e1-edc-mini-flashlight-adjustable-light-modes?variant=47387793719536)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-e1-edc-rechargeable-selfie-light-portable-ring-light-8664749.jpg?v=1773193112
-    Price: $19.99 USD
   - [Titanium Version-Green(NICHIA 519A)](https://www.wubenlight.com/products/wuben-e1-edc-mini-flashlight-adjustable-light-modes?variant=46518247915760)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-e1-edc-rechargeable-selfie-light-portable-ring-light-5972633.jpg?v=1773192953
     Price: $139.99 USD
+  - [Bracket](https://www.wubenlight.com/products/wuben-e1-edc-mini-flashlight-adjustable-light-modes?variant=47387793719536)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-e1-edc-rechargeable-selfie-light-portable-ring-light-8664749.jpg?v=1773193112
+    Price: $19.99 USD
   - [Titanium Version- Blue](https://www.wubenlight.com/products/wuben-e1-edc-mini-flashlight-adjustable-light-modes?variant=46518247948528)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-e1-edc-rechargeable-selfie-light-portable-ring-light-3562005.jpg?v=1773192746
@@ -547,8 +543,12 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-e1-edc-rechargeable-selfie-light-portable-ring-light-3205882.jpg?v=1773192744
     Price: $29.99 USD
+  - [white(magnesium version)](https://www.wubenlight.com/products/wuben-e1-edc-mini-flashlight-adjustable-light-modes?variant=46467807084784)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-e1-edc-rechargeable-selfie-light-portable-ring-light-6842952.jpg?v=1773192745
+    Price: $36.99 USD
 - [WUBEN E7 Rechargeable Hunting LED Headlamp 1800 lumens🔥](https://www.wubenlight.com/products/e7-best-rechargeable-hunting-led-headlamp-1800-lumens): WUBEN E7, a compact headlamp with 1,800 lumens brightness, 180° wide beam, 6 lighting modes, and 132m distance. USB-C charging, and IP68 waterproof build.
-  Updated: 2026-04-15T16:56:29Z
+  Updated: 2026-04-22T21:59:57Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
@@ -634,7 +634,7 @@
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-e7-rechargeable-hunting-led-headlamp-1800-lumens-5774284.webp?v=1773192796
     Price: $59.96 USD
 - [WUBEN G5 400 Lumens EDC Keychain Compact Flashlight](https://www.wubenlight.com/products/wuben-g5-400-lumens-edc-compact-flashlight): The WUBEN G5 is a compact yet powerful 400-lumen flashlight built for everyday carry. Features rotating head, RGB lighting, and durable waterproof design.
-  Updated: 2026-04-15T18:59:00Z
+  Updated: 2026-04-22T22:53:26Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
@@ -664,7 +664,7 @@
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-g5bundle-edc-light-400-lumens-2476651.jpg?v=1773192736
     Price: $9.99 USD
 - [WUBEN X0 Rechargeable Pocket EDC Flashlight 1100 Lumens](https://www.wubenlight.com/products/lightok-x0-best-edc-flashlight-1100-lumens): The WUBEN X0 is a compact 1100-lumen EDC flashlight with hands-free magnet, 3-in-1 button, USB-C fast charging, and up to 130-hour runtime.
-  Updated: 2026-04-15T02:21:07Z
+  Updated: 2026-04-20T21:53:41Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
@@ -690,7 +690,7 @@
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-lightok-x0-rechargeable-pocket-edc-flashlight-1100-lumens-7564961.jpg?v=1773192704
     Price: $69.99 USD
 - [WUBEN Lightok X3 Compact Rechargeable EDC Flashlight](https://www.wubenlight.com/products/wuben-x3-compact-edc-flashlight-red-white-light): WUBEN Lightok X3 compact 700-lumen EDC flashlight with 180° rotating head, dual LEDs, 100+ days runtime, and lightweight 65g design for versatile outdoor use.
-  Updated: 2026-04-15T17:14:18Z
+  Updated: 2026-04-22T00:42:43Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
@@ -744,7 +744,7 @@
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-lightok-x3-owl-compact-rechargeable-edc-flashlightred-and-white-light-9767519.jpg?v=1773192945
     Price: $79.99 USD
 - [WUBEN X2 EDC Camping - 2500 Lumens Rechargeable Flashlight](https://www.wubenlight.com/products/lightok-x2-edc-camping-2500-lumens-carry-light-): Experience powerful illumination with up to 2500 lumens and 146m beam distance. Fast charging, and multiple lighting modes make it ideal for EDC, and camping.
-  Updated: 2026-04-14T16:09:37Z
+  Updated: 2026-04-20T21:53:42Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
@@ -777,15 +777,15 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-lightok-x2-edc-camping-2500-lumens-rechargeable-flashlight-9545346.jpg?v=1773192743
     Price: $179.00 USD
-- [18350-1100mAh- Battery (For E7/T4 batteries)](https://www.wubenlight.com/products/18350-14500-battery): 18350-1100mAh- Battery (For E7/T4 batteries)
-  Updated: 2026-04-12T12:41:58Z
+- [18350-1100mAh- Battery (For E7/T4 batteries)](https://www.wubenlight.com/products/18350-14500-battery): Wuben 18350 1100mAh rechargeable battery designed for Wuben E7 and T4 flashlights, delivering reliable compact power performance.
+  Updated: 2026-04-22T21:47:17Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/18350-1100mah-battery-for-e7t4-batteries-6277610.jpg?v=1773192694
   Price: $19.99 USD
-- [X3 Bundle ](https://www.wubenlight.com/products/x3-bundle-): X3 Bundle 
-  Updated: 2026-04-08T14:40:29Z
+- [Wuben X3 EDC Flashlight Limited Time Bundle ](https://www.wubenlight.com/products/x3-bundle-): Limited-time bundle  on the Wuben X3 EDC flashlight, offering compact power, versatility, and exceptional everyday carry performance.
+  Updated: 2026-04-21T02:13:26Z
   Vendor: WUBEN
   Product Type: FlashLight
   Availability: Available
@@ -846,8 +846,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/x3-bundle--7460166.jpg?v=1773192736
     Price: $86.68 USD
-- [G5 Bundle ](https://www.wubenlight.com/products/g5-bundle-): G5 Bundle 
-  Updated: 2026-04-12T16:38:03Z
+- [Wuben G5 EDC Flashlight Limited Time Bundle ](https://www.wubenlight.com/products/g5-bundle-): Limited-time bundle  on the Wuben G5 EDC flashlight, offering compact performance, versatility, and exceptional everyday carry value.
+  Updated: 2026-04-21T02:15:00Z
   Vendor: WUBEN
   Product Type: FlashLight
   Availability: Available
@@ -916,8 +916,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/g5-bundle--3474067.jpg?v=1773192737
     Price: $46.48 USD
-- [E7 Bundle Sales](https://www.wubenlight.com/products/e7-bundle-sales): E7 Bundle Sales
-  Updated: 2026-04-10T17:53:05Z
+- [Wuben E7 LED Running Headlamp Bundle Sales](https://www.wubenlight.com/products/e7-bundle-sales): Wuben E7 LED running headlamp bundle, offering lightweight comfort, powerful brightness, and versatile lighting modes for outdoor use.
+  Updated: 2026-04-21T02:17:13Z
   Vendor: WUBEN
   Product Type: FlashLight
   Availability: Available
@@ -974,8 +974,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/e7-bundle-sales-9390751.jpg?v=1773192733
     Price: $74.23 USD
-- [C3 Bundle Sales](https://www.wubenlight.com/products/c3-bundle-sales): C3 Bundle Sales
-  Updated: 2026-04-04T20:30:46Z
+- [Wuben C3 Rechargeable Tactical Flashlight Bundle Sales](https://www.wubenlight.com/products/c3-bundle-sales): Bundle  on Wuben C3 rechargeable tactical flashlight, offering reliable performance, compact design, and versatile everyday carry illumination.
+  Updated: 2026-04-21T02:18:48Z
   Vendor: WUBEN
   Product Type: FlashLight
   Availability: Available
@@ -1012,8 +1012,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/c3-bundle-sales-2600535.jpg?v=1773192700
     Price: $80.73 USD
-- [L50 Bundle Sales](https://www.wubenlight.com/products/l50-bundle-sales): L50 Bundle Sales
-  Updated: 2026-03-19T01:05:46Z
+- [Wuben L50 Tactical LED Flashlight Bundle Sales](https://www.wubenlight.com/products/l50-bundle-sales): Wuben L50 tactical LED flashlight bundle , offering powerful brightness, durable build, and versatile everyday carry performance.
+  Updated: 2026-04-21T14:21:09Z
   Vendor: WUBEN
   Product Type: FlashLight
   Availability: Available
@@ -1059,14 +1059,14 @@
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/l50-bundle-sales-9172717.jpg?v=1773192701
     Price: $194.38 USD
 - [Wuben G5 Compact Pocket EDC Flashlight Anniversary Edition](https://www.wubenlight.com/products/wuben-g5-edc-flashlight-anniversary-edition): Wuben G5 Anniversary EDC Flashlight: Ultra-bright 400 lumens, multi-mode lighting, rugged IP65 build, 180° rotatable, perfect for any adventure.
-  Updated: 2026-04-15T19:26:08Z
+  Updated: 2026-04-22T03:49:47Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-g5bundle-edc-light-400-lumens-8392487.jpg?v=1773193004
   Price: $29.99 USD
 - [WUBEN PL01 Featherlight Tactical EDC Pen Flashlight](https://www.wubenlight.com/products/wuben-pl01-tactical-edc-pen-flashlight): WUBEN PL01 Tactical Pen Flashlight: 1.59oz with up to 650 lumens, 4 modes, dual-direction clip, rechargeable or AAA power, and durable IP68 waterproof design.
-  Updated: 2026-04-14T02:22:21Z
+  Updated: 2026-04-22T17:18:28Z
   Vendor: WUBEN
   Product Type: FlashLight
   Availability: Available
@@ -1119,8 +1119,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-pl01-featherlight-rechargeable-tactical-edc-waterproof-pen-flashlight-3729455.jpg?v=1773192739
     Price: $42.04 USD
-- [PL01 Bundle Sales](https://www.wubenlight.com/products/pl01-bundle-sales): PL01 Bundle Sales
-  Updated: 2026-03-31T01:16:07Z
+- [Wuben PL01 Tactical Pen Light Bundle Sales](https://www.wubenlight.com/products/pl01-bundle-sales): Wuben PL01 tactical pen light bundle offers compact design, reliable brightness, and versatile performance for everyday carry needs.
+  Updated: 2026-04-22T03:55:57Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
@@ -1162,7 +1162,7 @@
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/pl01-bundle-sales-4893141.jpg?v=1773192696
     Price: $42.04 USD
 - [Wuben L3 3000 Lumens EDC Tactical Pocket Flashlight](https://www.wubenlight.com/products/wuben-l3-3000-lumens-edc-tactical-flashlight): See why this durable EDC light stands out with 3000 lumens of brightness, CNC-machined aluminum construction, and dependable performance outdoors.
-  Updated: 2026-04-12T12:57:47Z
+  Updated: 2026-04-22T15:45:35Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
@@ -1183,8 +1183,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-l3-3000-lumens-edc-tactical-pocket-flashlight-7028871.jpg?v=1773192734
     Price: $58.98 USD
-- [L3 Bundle Sales](https://www.wubenlight.com/products/l3-bundle-sales): L3 Bundle Sales
-  Updated: 2026-04-01T12:01:57Z
+- [Wuben L3 Tactical Pocket Flashlight Bundle Sales](https://www.wubenlight.com/products/l3-bundle-sales): Discover the Wuben L3 tactical pocket flashlight bundle on , offering compact power, durability, and great value.
+  Updated: 2026-04-21T02:26:27Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
@@ -1202,14 +1202,14 @@
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/l3-bundle-sales-5116384.jpg?v=1773192693
     Price: $58.99 USD
 - [Wuben Summer Hats](https://www.wubenlight.com/products/wuben-summer-hats): Wuben Summer Hats
-  Updated: 2026-03-13T06:33:44Z
+  Updated: 2026-04-20T21:53:46Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-summer-hats-9329627.jpg?v=1773192688
   Price: $14.99 USD
 - [WUBEN L1 2000 Lumens Rechargeable EDC Tactical Flashlight](https://www.wubenlight.com/products/wuben-l1-2000-lumens-rechargeable-edc-flashlight): The WUBEN L1 is a 2000-lumen EDC flashlight with a 350m throw, magnetic tailcap, 180° rotating head, fast USB-C charging, and powerbank function.
-  Updated: 2026-04-14T17:35:37Z
+  Updated: 2026-04-20T21:53:46Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
@@ -1222,15 +1222,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-l1-2000-lumens-rechargeable-edc-tactical-flashlight-8602810.jpg?v=1773192695
     Price: $59.99 USD
-- [WUBEN E1  Metal Phone Holder](https://www.wubenlight.com/products/wuben-e1-mobile-phone-metal-holder): WUBEN E1  Metal Phone Holder
-  Updated: 2026-04-14T16:09:36Z
+- [WUBEN E1 Metal Phone Holder](https://www.wubenlight.com/products/wuben-e1-mobile-phone-metal-holder): WUBEN E1 metal phone holder features max 300 lumens, MagSafe compatibility, three color temperatures, and stepless dimming control.
+  Updated: 2026-04-21T14:30:42Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-e1-metal-phone-holder-9269976.jpg?v=1773192688
   Price: $19.99 USD
 - [Wuben X4 Multi-Function 1500 Lumen EDC Tactical Flashlight](https://www.wubenlight.com/products/wuben-x4-compact-multi-function-flashlight): A compact yet powerful EDC light with 1500 lumens, 205m throw, magnetic base, and USB-C charging. Built for camping, tactical use, and everyday reliability.
-  Updated: 2026-04-15T19:41:08Z
+  Updated: 2026-04-22T23:37:11Z
   Vendor: WUBEN
   Product Type: FlashLight
   Availability: Available
@@ -1263,8 +1263,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-x4-compact-multi-function-1500-lumen-edc-tactical-flashlight-1815015.jpg?v=1775124385
     Price: $24.99 USD
-- [X4 bundle ](https://www.wubenlight.com/products/x4-bundle-): X4 bundle 
-  Updated: 2026-04-15T03:00:09Z
+- [Wuben X4 Compact Multi-Function EDC Flashlight Bundle ](https://www.wubenlight.com/products/x4-bundle-): Wuben X4 compact multi-function EDC flashlight bundle on , offering versatile performance and portable everyday carry lighting.
+  Updated: 2026-04-22T17:49:56Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
@@ -1321,15 +1321,37 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/x4-bundle--2859823.png?v=1773192695
     Price: $89.98 USD
+- [2026 New Wuben X1Pro 12300 Lumens Power Bank EDC Flashlight](https://www.wubenlight.com/products/wuben-x1-pro): Wuben X1Pro with 12,300 lumens, dual-beam lighting, USB-C fast charging, and power bank function—compact, powerful, and built for outdoor and everyday use.
+  Updated: 2026-04-22T23:49:29Z
+  Vendor: WUBEN
+  Product Type: EDC
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/pre-orderwuben-x1pro-12300-lumens-rechargeable-power-bank-edc-flashlight-7538152.jpg?v=1776698831
+  - [Black](https://www.wubenlight.com/products/wuben-x1-pro?variant=48026706084080)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/pre-orderwuben-x1pro-12300-lumens-rechargeable-power-bank-edc-flashlight-9979566.jpg?v=1776698828
+    Price: $139.99 USD
+  - [White](https://www.wubenlight.com/products/wuben-x1-pro?variant=48026706051312)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/pre-orderwuben-x1pro-12300-lumens-rechargeable-power-bank-edc-flashlight-7538152.jpg?v=1776698831
+    Price: $139.99 USD
+  - [AT2XP Metal Mount](https://www.wubenlight.com/products/wuben-x1-pro?variant=49560872255728)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/pre-orderwuben-x1pro-12300-lumens-rechargeable-power-bank-edc-flashlight-2519728.jpg?v=1776670237
+    Price: $19.99 USD
+  - [14" Thread Port](https://www.wubenlight.com/products/wuben-x1-pro?variant=48795540357360)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/pre-orderwuben-x1pro-12300-lumens-rechargeable-power-bank-edc-flashlight-5339015.jpg?v=1776670237
+    Price: $9.99 USD
 - [Wuben ABE3400 18650 Rechargeable Battery for Flashlight](https://www.wubenlight.com/products/abe3400-rechargeable-18650-battery-3400mah): Discover the Wuben ABE3400 18650 battery, equipped with a 3400mAh capacity, it guarantees enduring power for your lighting necessities.
-  Updated: 2026-04-14T11:28:17Z
+  Updated: 2026-04-20T21:54:04Z
   Vendor: WUBEN
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/abe3400-rechargeable-18650-battery-3400mah-5291075.jpg?v=1773192684
   Price: $18.99 USD
 - [Wuben H4 Multi-function Rechargeable Hunting LED Headlight](https://www.wubenlight.com/products/wuben-h4-rechargeable-hunting-led-headlamp): Wuben H4 Headlamp: 800-lumen dual LED, red night vision, adjustable 90° angle, ultra-light, dual power, and IP68 waterproof—perfect for any outdoor adventure.
-  Updated: 2026-04-15T19:39:07Z
+  Updated: 2026-04-21T21:14:58Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
@@ -1347,7 +1369,7 @@
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-h4-multi-function-lighting-rechargeable-hunting-led-headlamp-4760155.jpg?v=1773192691
     Price: $29.99 USD
 - [Lock](https://www.wubenlight.com/products/locking-switch)
-  Updated: 2026-04-10T13:52:10Z
+  Updated: 2026-04-20T21:54:05Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
@@ -1361,7 +1383,7 @@
     Availability: Available
     Price: $999.99 USD
 - [WUBEN G5（bundle） edc light 400 lumens](https://www.wubenlight.com/products/wuben-g5-edc-light-400-lumens-new-launch-bundle): WUBEN G5（bundle） edc light 400 lumens
-  Updated: 2026-04-14T04:04:19Z
+  Updated: 2026-04-22T15:13:37Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
@@ -1382,8 +1404,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-g5bundle-edc-light-400-lumens-6940238.jpg?v=1773192734
     Price: $9.99 USD
-- [Wuben Heavyweight Cotton Long Sleeve](https://www.wubenlight.com/products/wuben-heavyweight-cotton): Wuben Heavyweight Cotton Long Sleeve
-  Updated: 2026-03-12T09:16:52Z
+- [Wuben Heavyweight Cotton Long Sleeve](https://www.wubenlight.com/products/wuben-heavyweight-cotton): A durable Wuben heavyweight cotton long sleeve shirt designed for comfort, warmth, and everyday versatile casual wear.
+  Updated: 2026-04-21T02:56:53Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
@@ -1429,7 +1451,7 @@
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-heavyweight-cotton-long-sleeve-2488175.jpg?v=1773192735
     Price: $59.99 USD
 - [WUBEN G5 400 Lumens Compact EDC Flashlight (Titanium)](https://www.wubenlight.com/products/wuben-g5-edc-titanium-400-lumens-flashlight): Explore a 3000-lumen beam with 226m throw, fast Type-C charging, and rugged durability. Also see the 400-lumen titanium EDC light with RGB modes.
-  Updated: 2026-04-15T01:35:36Z
+  Updated: 2026-04-20T21:54:05Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
@@ -1443,7 +1465,7 @@
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-g5-400-lumens-compact-rechargeable-edc-flashlight-titanium-edition-9050562.jpg?v=1773192731
     Price: $139.90 USD
 - [Wuben G5 Portable Storage Box(G5 Bundle)](https://www.wubenlight.com/products/wuben-g5-portable-storage-box): Wuben G5 Portable Storage Box(G5 Bundle)
-  Updated: 2026-04-08T01:40:06Z
+  Updated: 2026-04-20T21:54:06Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
@@ -1472,15 +1494,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-g5-portable-storage-boxg5-bundle-9146341.jpg?v=1773192849
     Price: $139.90 USD
-- [Wuben E6 Extra Battery - Wuben Flashlight](https://www.wubenlight.com/products/14500-920mah-battery-2-batteries): Wuben E6 Extra Battery - Wuben Flashlight
-  Updated: 2026-04-03T23:51:27Z
+- [Wuben E6 Small Steel Cannon Strong Flashlight Extra Battery](https://www.wubenlight.com/products/14500-920mah-battery-2-batteries): Wuben E6 compact steel flashlight, powerful beam, includes an extra battery for extended, reliable outdoor use.
+  Updated: 2026-04-21T15:00:27Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/products/14500-920mah-battery2-batteries-not-type-c-batteries-9230699.jpg?v=1773192679
   Price: $27.99 USD
 - [WUBEN Lightok X3 Owl EDC Flashlight (Double white light)](https://www.wubenlight.com/products/lightok-x3-owl-edc-flashlight-double-white-light): WUBEN Lightok X3 Owl EDC Flashlight (Double white light)
-  Updated: 2026-04-14T03:33:42Z
+  Updated: 2026-04-20T21:54:06Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
@@ -1494,7 +1516,7 @@
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/lightok-x3-owl-edc-flashlightdouble-white-light-2049386.jpg?v=1773192791
     Price: $65.99 USD
 - [Wuben E8 Compact Magnetic 1300 Lumen EDC Camping Flashlight](https://www.wubenlight.com/products/wuben-e8-compact-1300-lumen-edc-camping-flashlight): Wuben E8 Compact Magnetic Modular 1300 Lumen EDC Camping Flashlight – A versatile pocket light with magnetic modular panels, and 36-hour runtime.
-  Updated: 2026-04-15T15:36:07Z
+  Updated: 2026-04-21T18:32:40Z
   Vendor: WUBEN
   Product Type: EDC
   Availability: Available
@@ -1528,7 +1550,7 @@
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-e8-compact-magnetic-modular-edc-camping-flashlight-titanium-edition-9631650.jpg?v=1773192736
     Price: $199.00 USD
 - [Wuben E8 Compact Magnetic EDC Camping Flashlight (Titanium)](https://www.wubenlight.com/products/wuben-e8-compact-magnetic-modular-titanium-edition-flashlight): Wuben E8 Compact Magnetic Modular 1300 Lumen EDC Camping Flashlight – Compact yet rugged flashlight with customizable magnetic panels, and dual light modes.
-  Updated: 2026-04-14T16:09:40Z
+  Updated: 2026-04-22T05:27:07Z
   Vendor: WUBEN
   Product Type: EDC
   Availability: Available
@@ -1558,7 +1580,7 @@
     Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/wuben-e8-compact-magnetic-modular-edc-camping-flashlight-titanium-edition-9631650.jpg?v=1773192736
     Price: $199.00 USD
 - [Tail Cover](https://www.wubenlight.com/products/tail-cover)
-  Updated: 2026-04-14T15:22:48Z
+  Updated: 2026-04-20T21:54:07Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
@@ -1568,132 +1590,149 @@
   - [2](https://www.wubenlight.com/products/tail-cover?variant=49487468921072)
     Availability: Available
     Price: $9,999.00 USD
-- [AT2X+ Bike Metal Mount for X1/X4](https://www.wubenlight.com/products/at2x-flashlight-bike-metal-mount-for-x1-x4)
-  Updated: 2026-04-13T19:24:17Z
+- [Wuben AT2X+ Bike Metal Mount for X1/X4 EDC Flashlight](https://www.wubenlight.com/products/at2x-flashlight-bike-metal-mount-for-x1-x4): Wuben AT2X+ durable metal bike mount designed for secure attachment of X1 and X4 EDC flashlights.
+  Updated: 2026-04-22T03:07:16Z
   Vendor: WUBEN
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/0203/3487/files/at2x-bike-metal-mount-for-x1x4-4070780.jpg?v=1775124385
   Price: $24.99 USD
+- [flashlight](https://www.wubenlight.com/products/flashlight)
+  Updated: 2026-04-21T06:19:57Z
+  Vendor: WUBEN
+  Product Type: 
+  Availability: Available
+  - [X1PRO Black](https://www.wubenlight.com/products/flashlight?variant=49585305714928)
+    Availability: Available
+    Price: $999.00 USD
+  - [X1PRO White](https://www.wubenlight.com/products/flashlight?variant=49585305747696)
+    Availability: Available
+    Price: $999.00 USD
+  - [WB-P4-HS](https://www.wubenlight.com/products/flashlight?variant=49585305780464)
+    Availability: Available
+    Price: $999.00 USD
+  - [WB-AT2XP-JSB](https://www.wubenlight.com/products/flashlight?variant=49585305813232)
+    Availability: Available
+    Price: $999.00 USD
 
 ## Collections
 
 - [Explore Our Range of EDC, Tactical, Pen LED Flashlights](https://www.wubenlight.com/collections/flashlight-series): Explore Wuben’s full range of flashlights, including EDC, pen lights, and rechargeable models. Find the perfect light for everyday tasks, work, or outdoor use.
-  Updated: 2026-04-15T11:08:02Z
+  Updated: 2026-04-22T11:49:20Z
   Total Products: 93
 - [Best Bike Light 2026 | Top Picks for Night Riding Safety](https://www.wubenlight.com/collections/bike-lights): Discover the best bike lights of 2026 for safer night rides. Enjoy high visibility, long battery life, and durable designs. Find the perfect light today.
-  Updated: 2026-04-15T11:08:02Z
-  Total Products: 5
+  Updated: 2026-04-22T11:49:20Z
+  Total Products: 6
 - [Easy Carry Light, Tactical Flashlights, Bike & Pen Lights](https://www.wubenlight.com/collections/everyday-carry-flashlights): Explore versatile lighting solutions—from compact EDC lights to tactical flashlights, bike lights, and pen lights—designed to keep you ready for any situation.
-  Updated: 2026-04-15T11:08:02Z
+  Updated: 2026-04-22T11:10:18Z
   Total Products: 36
 - [WUBEN Rechargeable Portable Tactical LED Flashlights](https://www.wubenlight.com/collections/tactical-lights): Best tactical rechargeable flashlights for police, security, and self-defense, military-grade meet survival needs, and boost visibility in dark.
-  Updated: 2026-04-15T11:08:02Z
+  Updated: 2026-04-22T11:10:18Z
   Total Products: 18
 - [Wuben Flashlight Batteries, Diffusers, Charger, Bike Mount](https://www.wubenlight.com/collections/accessories): Enhance your flashlight with Wuben accessories. Explore flashlight batteries, diffusers, mounts, and smart chargers. Get the most out of your flashlight.
-  Updated: 2026-04-15T11:08:02Z
+  Updated: 2026-04-22T11:10:18Z
   Total Products: 19
 - [WUBEN Rechargeable 18650 Battery 2600mAh  for Flashlight](https://www.wubenlight.com/collections/battery): Discover the rechargeable 18650 battery options for your flashlight. Ensure your flashlight always shines bright with our high-performance flashlight batteries.
-  Updated: 2026-04-15T11:08:02Z
+  Updated: 2026-04-22T11:10:18Z
   Total Products: 16
 - [WUBEN High Power & High Lumen Brightness Flashlights](https://www.wubenlight.com/collections/high-power-flashlights): Experience our high power flashlight and high lumen flashlight collection. Discover ultra-bright illumination for all your needs.
-  Updated: 2026-04-15T11:08:02Z
-  Total Products: 9
+  Updated: 2026-04-22T11:49:20Z
+  Total Products: 10
 - [WUBEN Pen Flashlight | Brightest and Rechargeable Penlight](https://www.wubenlight.com/collections/pen-light): Get the brightest pen flashlight for all situations - rechargeable and powerful. Explore our range of high-performance pen light now.
-  Updated: 2026-04-14T11:08:30Z
+  Updated: 2026-04-22T11:10:18Z
   Total Products: 10
 - [Extra E61 and G3 Pen Refills - Premium Ballpoint Pen Refills](https://www.wubenlight.com/collections/pen-refills): Ensure optimal performance for your E61 and G3 with our high-quality pen refills. Get the best ballpoint pen refills to keep your flashlight running smoothly.
-  Updated: 2026-04-14T11:08:30Z
+  Updated: 2026-04-20T21:49:07Z
   Total Products: 5
 - [Wuben Portable Camping LED Flashlight for Outdoor Adventures](https://www.wubenlight.com/collections/camping): Explore Wuben camping lantern flashlights, designed to light up your outdoor adventures with reliable portable illumination.
-  Updated: 2026-04-15T11:08:02Z
+  Updated: 2026-04-22T11:10:18Z
   Total Products: 23
 - [Wuben Running Light and Flashlight for Your Running Needs](https://www.wubenlight.com/collections/night-jogging): Stay safe and visible on night runs with our jogging running headlamps. Browse our running lights and safety gear for the best visibility.
-  Updated: 2026-04-15T11:08:02Z
+  Updated: 2026-04-22T11:10:18Z
   Total Products: 5
 - [Wuben High-Power Rechargeable Hiking Flashlight and Headlamp](https://www.wubenlight.com/collections/hiking): Find the ideal hiking headlamp & flashlight for your outdoor journeys. Explore our selection of high-quality hiking gear to enhance your hiking experience.
-  Updated: 2026-04-15T11:08:02Z
+  Updated: 2026-04-22T11:10:18Z
   Total Products: 22
 - [Wuben X Series Portable Compact EDC LED Flashlights](https://www.wubenlight.com/collections/x-series): Discover the Wuben X Series EDC flashlights—X0, X1, X2, and X3—offering top performance and sleek, eye-catching designs.
-  Updated: 2026-04-15T11:08:02Z
+  Updated: 2026-04-22T11:10:18Z
   Total Products: 23
 - [Explore Our Range of Rechargeable LED Portable Flashlights](https://www.wubenlight.com/collections/all-products): Explore Wuben flashlights and EDC gear: LED lights, rechargeable flashlights, batteries, multi-tools, and keychain tools for everyday use.
-  Updated: 2026-04-15T11:08:02Z
-  Total Products: 200
+  Updated: 2026-04-22T11:49:20Z
+  Total Products: 201
 - [Wuben Versatile EDC Compact Rechargeable LED Flashlights](https://www.wubenlight.com/collections/everyday-carry): Explore our range of EDC flashlights in different sizes and designs. Find a compact or rechargeable light for everyday use.
-  Updated: 2026-04-15T11:08:02Z
+  Updated: 2026-04-22T11:49:20Z
   Total Products: 45
 - [WUBEN Outdoor Portable Rechargeable EDC LED Flashlights](https://www.wubenlight.com/collections/outdoor): Looking for the best outdoor flashlight? Our selection of LED flashlights is designed to meet your outdoor adventure needs. Find yours today.
-  Updated: 2026-04-15T11:08:02Z
+  Updated: 2026-04-22T11:10:18Z
   Total Products: 67
 - [WUBEN Rechargeable Compact LED Headlamps for Hunting Running](https://www.wubenlight.com/collections/headlamps): Wuben offers top rechargeable LED headlamps for running, hunting, and outdoor use. Find the perfect headlamp for enthusiasts and professionals here.
-  Updated: 2026-04-14T11:08:30Z
-  Total Products: 9
+  Updated: 2026-04-22T11:10:18Z
+  Total Products: 10
 - [Wuben LED & Rechargeable Flashlights](https://www.wubenlight.com/collections/wuben-light): Discover Wuben, the leader in LED and rechargeable flashlights. Explore our high-quality flashlight products designed for your lighting needs.
-  Updated: 2026-04-15T11:08:02Z
+  Updated: 2026-04-22T11:10:18Z
   Total Products: 113
 - [Mini LED Keychain Flashlight | Compact & Bright Light](https://www.wubenlight.com/collections/keychain-flashlight): Explore our mini LED keychain flashlight collection. Experience the convenience of a compact and bright light for various situations.
-  Updated: 2026-04-15T11:08:02Z
+  Updated: 2026-04-22T11:10:18Z
   Total Products: 2
 - [Top Picks: Best Seller Flashlight by WUBEN - Limited Time Deals!](https://www.wubenlight.com/collections/wuben-): Discover our top picks for the best- flashlight by WUBEN. Take advantage of limited time deals and explore high-quality products with exclusive offers. Don't wait, shop now!
-  Updated: 2026-04-03T01:37:24Z
+  Updated: 2026-04-20T21:49:08Z
   Total Products: 6
 - [DIY BUNDLE](https://www.wubenlight.com/collections/diy-bundle)
-  Updated: 2026-04-15T11:08:02Z
+  Updated: 2026-04-22T11:10:18Z
   Total Products: 14
 - [All](https://www.wubenlight.com/collections/all)
-  Updated: 2026-04-15T11:08:02Z
-  Total Products: 199
+  Updated: 2026-04-22T11:49:20Z
+  Total Products: 200
 - [Wuben ECL Flashlight  – Grab Best EDC Deals Now!](https://www.wubenlight.com/collections/): Don’t miss the Wuben ECL Flashlight ! Get powerful EDC flashlights at unbeatable prices. Limited stock – shop today and light up your adventures!
-  Updated: 2026-04-15T11:08:02Z
+  Updated: 2026-04-21T11:19:35Z
   Total Products: 26
 - [Rechargeable Flashlights](https://www.wubenlight.com/collections/rechargeable-flashlights): Explore top rechargeable EDC flashlights with long battery life, bright output, and durable design—perfect for daily use and adventures.
-  Updated: 2026-04-15T11:08:02Z
+  Updated: 2026-04-22T11:49:20Z
   Total Products: 44
 - [WUBEN Rechargeable Power Bank Portable LED Flashlights](https://www.wubenlight.com/collections/power-bank-flashlights): WUBEN Rechargeable LED Flashlights with Built-In Portable Power Bank for Reliable Lighting Anytime, Anywhere – Perfect for Outdoor, EDC, and Emergency Use.
-  Updated: 2026-04-15T11:08:02Z
+  Updated: 2026-04-22T11:49:20Z
   Total Products: 8
 - [WUBEN Portable High Power LED Hunting Flashlights](https://www.wubenlight.com/collections/hunting-flashlights): WUBEN Portable LED Hunting Flashlights with High Power, Durable Build, Long Beam, and Reliable Performance for Outdoor Adventures and Night Activities.
-  Updated: 2026-04-15T11:08:02Z
+  Updated: 2026-04-22T11:10:18Z
   Total Products: 24
 - [Weekly Deals](https://www.wubenlight.com/collections/weekly-deals)
-  Updated: 2026-04-13T11:08:02Z
+  Updated: 2026-04-20T21:49:09Z
   Total Products: 5
 - [blackfriday](https://www.wubenlight.com/collections/black-friday-day-)
-  Updated: 2026-04-15T11:08:02Z
+  Updated: 2026-04-22T11:10:18Z
   Total Products: 103
 - [WUBEN E-Series Multi-functional Compact EDC Flashlight](https://www.wubenlight.com/collections/e-series): WUBEN E-Series Multi-Functional EDC Flashlight: Ultra-compact, lightweight, fast-charging, and rechargeable—perfect for everyday carry.
-  Updated: 2026-04-15T11:08:02Z
+  Updated: 2026-04-22T11:10:18Z
   Total Products: 15
 - [WUBEN X-Series Portable Compact EDC Waterproof Flashlight](https://www.wubenlight.com/collections/x-series-1): WUBEN X-Series Compact EDC Flashlight: Lightweight and portable with replaceable batteries, a magnetic base, and durable construction for reliable everyday use.
-  Updated: 2026-04-15T11:08:02Z
+  Updated: 2026-04-22T11:49:20Z
   Total Products: 19
 - [WUBEN C-Series Compact EDC Tactical Pocket Flashlight](https://www.wubenlight.com/collections/c-series): WUBEN C-Series Compact EDC Tactical Flashlight features multiple modes—High, Medium, Low, Eco, SOS, and Strobe—ready for everyday use, and emergencies.
-  Updated: 2026-04-15T11:08:02Z
+  Updated: 2026-04-21T11:19:35Z
   Total Products: 2
 - [WUBEN L-Series EDC Rechargeable Compact LED Flashlight](https://www.wubenlight.com/collections/l-series): WUBEN L-Series Rechargeable EDC Flashlight with USB-C charging, rugged design, and IP68 waterproof rating—perfect for everyday carry, camping, and hiking.
-  Updated: 2026-04-15T11:08:02Z
+  Updated: 2026-04-22T11:10:18Z
   Total Products: 7
 - [WUBEN T-Series Rechargeable Tactical EDC Flashlight](https://www.wubenlight.com/collections/t-series): WUBEN T-Series Rechargeable Tactical EDC Flashlight: Compact, rugged, USB-C charging, IP68 waterproof—ideal for patrol, everyday carry, and self-defense.
-  Updated: 2026-04-15T11:08:02Z
+  Updated: 2026-04-21T11:19:35Z
   Total Products: 8
 - [WUBEN A-Series High Power Long Distance Brightest Flashlight](https://www.wubenlight.com/collections/a-series): WUBEN A-Series High-Power Flashlight offers Low, Medium, High, and Turbo modes, delivering long-distance brightness with one powerful light.
-  Updated: 2026-04-11T11:10:23Z
+  Updated: 2026-04-20T21:49:10Z
   Total Products: 3
 - [2026 Best Seller Wuben Flashlight](https://www.wubenlight.com/collections/wuben-hot-): Discover the 2026 best- Wuben flashlight! Ultra-bright, rechargeable, and rugged, perfect for outdoor adventures, cycling, and everyday carry.
-  Updated: 2026-04-15T11:08:02Z
+  Updated: 2026-04-22T11:49:20Z
   Total Products: 96
 - [Flash ](https://www.wubenlight.com/collections/flash-)
-  Updated: 2026-04-15T11:08:02Z
+  Updated: 2026-04-22T11:10:18Z
   Total Products: 9
 - [Christmas ](https://www.wubenlight.com/collections/christmas-)
-  Updated: 2026-04-15T11:08:02Z
-  Total Products: 160
+  Updated: 2026-04-22T11:49:20Z
+  Total Products: 161
 - [WUBEN Hot ](https://www.wubenlight.com/collections/anniversary)
-  Updated: 2026-04-15T11:08:02Z
+  Updated: 2026-04-22T11:10:18Z
   Total Products: 36
 - [Wuben ECL Flashlight Bundle –  Limited-Time Offers](https://www.wubenlight.com/collections/bundle): Grab the Wuben ECL Flashlight Bundle today! High-performance EDC lights at unbeatable prices. Don’t miss these limited-time deals for your next adventure!
-  Updated: 2026-04-15T11:08:02Z
+  Updated: 2026-04-22T11:10:18Z
   Total Products: 29
 
 ## Blogs
@@ -1782,7 +1821,7 @@
     Updated: 2026-03-11T01:24:46Z
     Author: wu ben
   - [The Best 10 EDC Flashlights in 2026](https://www.wubenlight.com/blogs/news/the-best-10-edc-flashlights-in-2026): The Best 10 EDC Flashlights in 2026
-    Updated: 2026-04-15T07:50:01Z
+    Updated: 2026-04-22T03:29:59Z
     Author: wu ben
   - [5 User Scenarios of the flood flashlight](https://www.wubenlight.com/blogs/news/5-user-scenarios-of-the-flood-flashlight): 5 User Scenarios of the flood flashlight
     Updated: 2026-03-11T06:14:51Z
@@ -2160,19 +2199,19 @@
     Author: ZhengFiona
     Tags: backpacking gear, Best camping headlamp, Best Headlamp, Best Headlamp Wuben X4, Camping essentials, Compact headlamp, edc, EDC headlamp, everyday carry, Everyday carry gear, Everyday essentials, Everyday Tools, Hands-free flashlight, Hiking gear essentials, Lightweight headlamp, Outdoor headlamp, Rechargeable headlamp, running headlamp, USB-C rechargeable light, Waterproof headlamp, Wuben H4
   - [WUBEN H4 Review: Best Budget LED Headlamp](https://www.wubenlight.com/blogs/news/wuben-h4-review-the-best-budget-headlamp-with-advanced-features): WUBEN H4 Review: Best Budget LED Headlamp
-    Updated: 2026-03-31T04:06:24Z
+    Updated: 2026-04-20T15:18:22Z
     Author: Wuben
     Tags: Affordable LED headlamp, Best budget headlamp, Best headlamp under $30, Camping headlamp review, Headlamp with memory function, Headlamp with multiple lighting modes, High lumen headlamp, LED headlamp with gesture control, Multi-function headlamp for camping, Outdoor headlamp for hiking, Rechargeable headlamps for outdoor use, Reliable headlamp for outdoor adventures, Smart headlamp with memory settings, Waterproof headlamp IP68, WUBEN H4 headlamp
   - [Wuben X1Pro: Dual Power — Flashlight and Power Bank in One](https://www.wubenlight.com/blogs/news/wuben-x1pro-dual-power-flashlight-and-power-bank-in-one): Wuben X1Pro: Dual Power — Flashlight and Power Bank in One
-    Updated: 2026-04-15T07:54:26Z
+    Updated: 2026-04-20T15:18:25Z
     Author: WubenECL
     Tags: 13000 lumens, 21700 4800 mAh battery, 30W/15W PD power system, Active Cooling System, Camping gear, Camping Light, Cree 3rd Generation LED, ECL, edc, edc flashlight, EDC gear, hiking flashlight, power bank, Wuben, Wuben X1Pro
   - [Wuben X1 Pro EDC Flashlight Review – Power Meets Portability](https://www.wubenlight.com/blogs/news/wuben-x1-pro-power-meets-portability): Wuben X1 Pro EDC Flashlight Review – Power Meets Portability
-    Updated: 2026-04-15T07:58:15Z
+    Updated: 2026-04-20T15:18:29Z
     Author: ZhengFiona
-    Tags: 13000 lumens, 21700 4800 mAh battery, best gear for adventurers, brightest rechargeable flashlight, cooling system flashlight, Cree XHP50.3, cycling light, dual beam flashlight, flashlight with fan cooling, high lumen flashlight, IP65, Kickstarter flashlight launch, mountain biking light, powerful flashlight 2025, Wuben Flashlight, WUBEN X1 PRO, Wuben X1 vs X1 Pro, zinic-alloy clip
+    Tags: 12300 lumens, 21700 4800 mAh battery, best gear for adventurers, brightest rechargeable flashlight, cooling system flashlight, Cree XHP50.3, cycling light, dual beam flashlight, flashlight with fan cooling, high lumen flashlight, IP65, Kickstarter flashlight launch, mountain biking light, powerful flashlight 2025, Wuben Flashlight, WUBEN X1 PRO, Wuben X1 vs X1 Pro, zinic-alloy clip
   - [Wuben X1Pro Review: Beastly EDC Flashlight](https://www.wubenlight.com/blogs/news/wuben-x1-pro-review-the-evolved-flat-tube-performance-beast): Wuben X1Pro Review: Beastly EDC Flashlight
-    Updated: 2026-04-15T07:51:31Z
+    Updated: 2026-04-22T13:20:15Z
     Author: DeclonAlan
     Tags: Wuben X1Pro
   - [Wuben 2025 Black Friday : Best Flashlight Deals](https://www.wubenlight.com/blogs/news/wuben-2025-black-friday--exploring-the-best-deals-of-the-year): Wuben 2025 Black Friday : Best Flashlight Deals
@@ -2180,7 +2219,7 @@
     Author: WubenECL
     Tags: 13000 lumens, 14500-920mAh battery, 21700 4800 mAh battery, 30W/15W PD power system, best flashlight 2025, Best Headlamp, Black Friday, Black Friday Sales, E7 Headlamp, edc flashlight, EDC gear, EDC headlamp, EDCFlashlight, Gift, Wuben, Wuben G5, Wuben X1Pro, wuben X4, WubenECL, WubenX1
   - [WUBEN X1Pro Performance Upgrades](https://www.wubenlight.com/blogs/news/wuben-x1pro-performance-upgrades): WUBEN X1Pro Performance Upgrades
-    Updated: 2026-04-15T07:56:44Z
+    Updated: 2026-04-17T18:15:19Z
     Author: ZhengFiona
     Tags: 13000 lumens, 21700 4800 mAh battery, best gear for adventurers, brightest rechargeable flashlight, cooling system flashlight, Cree XHP50.3, CREE XHP50.3 HI vs. LUMINUS SFT-42R, cycling light, dual beam flashlight, flashlight with fan cooling, high lumen flashlight, IP65, Kickstarter flashlight launch, LUMINUS SFT-42R, mountain biking light, powerful flashlight 2025, Wuben Flashlight, WUBEN X1 PRO, X1Pro Holster
   - [Wuben E8: Unique EDC Portable Flashlight with Triple Light](https://www.wubenlight.com/blogs/news/wuben-e8-edc-portable-flashlight-review): Wuben E8: Unique EDC Portable Flashlight with Triple Light
@@ -2199,6 +2238,21 @@
     Updated: 2026-04-15T08:07:02Z
     Author: WubenECL
     Tags: 21700 Battery Flashlight, high power flashlight
+  - [How to Choose a High Lumen Flashlight Like a Pro](https://www.wubenlight.com/blogs/news/how-to-choose-a-high-lumen-flashlight-like-a-pro)
+    Updated: 2026-04-17T18:15:22Z
+    Author: WubenECL
+    Tags: high lumen flashlight, high power flashlight
+  - [The Benefits and Uses of a Red Light on Your Camping Headlamp](https://www.wubenlight.com/blogs/news/the-benefits-and-uses-of-a-red-light-on-your-camping-headlamp)
+    Updated: 2026-04-17T18:15:24Z
+    Author: WubenECL
+    Tags: Camping Headlamp, LED Headlamp
+  - [4 of the Best Mountain Bike Lights for Night Riding in 2026](https://www.wubenlight.com/blogs/news/4-of-the-best-mountain-bike-lights-for-night-riding-in-2026)
+    Updated: 2026-04-20T15:18:34Z
+    Author: WubenECL
+  - [Best Compact Flashlights for Everyday Carry](https://www.wubenlight.com/blogs/news/best-compact-flashlights-for-everyday-carry)
+    Updated: 2026-04-22T13:20:17Z
+    Author: WubenECL
+    Tags: compact flashlight, edc flashlight
 - [Explore Our High-Quality Flashlight Collection: Wuben Flashlights](https://www.wubenlight.com/blogs/products-introduction): Discover our range of high-quality flashlights and elevate your lighting experience. From powerful models to versatile options, explore the excellence of Wuben flashlights. Find the perfect flashlight to accompany you on your adventures.
   - [WUBEN G2 Multi-functional EDC Keychain Light - 500 Lumens](https://www.wubenlight.com/blogs/products-introduction/wuben-g2-multi-functional-edc-keychain-light-500-lumens): WUBEN G2 Multi-functional EDC Keychain Light - 500 Lumens
     Updated: 2026-03-13T04:04:11Z
@@ -2268,7 +2322,7 @@
     Author: ZHGTerry
     Tags: EDC List
   - [EDC Essentials: Ultimate Everyday Carry Checklist](https://www.wubenlight.com/blogs/various-edc-tools/must-have-edc-essentials-the-ultimate-everyday-carry-checklist): EDC Essentials: Ultimate Everyday Carry Checklist
-    Updated: 2026-04-15T08:11:13Z
+    Updated: 2026-04-15T20:14:13Z
     Author: ZHGTerry
 - [Explore the World of Flashlight Knowledge | Expert Tips](https://www.wubenlight.com/blogs/flashlight-knowledge): Dive into our comprehensive guide on flashlight knowledge. Learn about flashlight types, features, and usage for a brighter and well-informed experience.
   - [When Was the Flashlight Invented?](https://www.wubenlight.com/blogs/flashlight-knowledge/when-was-the-flashlight-invented): When Was the Flashlight Invented?
@@ -2553,11 +2607,11 @@
     Tags: Battery Protection, Charging Technology
 - [Flashlight Comparison: Compare Features and Specifications](https://www.wubenlight.com/blogs/products-comparison): Compare features and specifications of different flashlights to find the perfect one for your needs. Make informed decisions with our detailed flashlight comparisons. Find the ideal flashlight that meets your requirements and enhances your lighting experience.
   - [Top 10 Best Running Headlamps of 2026](https://www.wubenlight.com/blogs/products-comparison/top-10-best-headlamps): Top 10 Best Running Headlamps of 2026
-    Updated: 2026-03-20T03:53:39Z
+    Updated: 2026-04-17T18:15:15Z
     Author: ZHGTerry
     Tags: 10 Best Headlamps, Headlamps of 2023, Headlamps of 2024
   - [Tactical VS EDC Flashlights: What's The Difference?](https://www.wubenlight.com/blogs/products-comparison/tactical-vs-edc-flashlights)
-    Updated: 2026-04-15T08:04:28Z
+    Updated: 2026-04-17T18:15:21Z
     Author: WubenECL
     Tags: edc flashlight, Tactical flashlight
 - [Explore the Great Outdoors: Camping Tips, Gear, and Adventures](https://www.wubenlight.com/blogs/camping): Discover a world of outdoor excitement with our diverse range of camping content! From essential gear guides to safety tips and thrilling adventure stories, find everything you need for your next camping trip here.
@@ -2615,7 +2669,7 @@
 - [General FAQs](https://www.wubenlight.com/pages/general-faqs-1)
   Updated: 2025-12-25T06:03:13Z
 - [user manual](https://www.wubenlight.com/pages/user-manual)
-  Updated: 2025-12-25T06:03:02Z
+  Updated: 2026-04-22T11:54:25Z
 - [Reviews](https://www.wubenlight.com/pages/reviews)
   Updated: 2022-11-16T10:29:49Z
 - [Product Registration](https://www.wubenlight.com/pages/product-registration): jQuery(document).ready(function(){ var lang= $("html")[0].lang; if(lang =="") { jQuery("#iframe").attr("src", "https://prdreg.arcafy.com/showformen...
@@ -2649,11 +2703,11 @@
 - [Membership Account](https://www.wubenlight.com/pages/membership-account)
   Updated: 2026-02-02T15:40:12Z
 - [Wuben Ambassadors](https://www.wubenlight.com/pages/wuben-ambassadors)
-  Updated: 2026-04-08T07:13:03Z
+  Updated: 2026-04-17T08:48:14Z
 - [联盟](https://www.wubenlight.com/pages/联盟)
   Updated: 2026-04-09T07:42:42Z
 - [ Program](https://www.wubenlight.com/pages/-program)
-  Updated: 2026-04-13T02:49:43Z
+  Updated: 2026-04-21T07:44:53Z
 
 ## Policies
 
