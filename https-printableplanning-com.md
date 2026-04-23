@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2026-04-16T04:00:30.378Z
+- Updated At: 2026-04-23T04:00:31.749Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -302,7 +302,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/KettlebellExercisesSheetwithWarm-upandCool-down-PrintablePlanning.jpg?v=1687790941
   Price: $5.95 USD
 - [Weight Training Daily Log with Warm-up and Cool-down - Printable](https://printableplanning.com/products/weight-training-daily-log-with-warm-up-and-cool-down-printable): Printable Weight Training Daily Log with Warm-up and Cool-down for people who want to log their daily exercises and workouts using weights and targeted muscle training. This printable sheet includes sections for your warm-up and cool-down that includes time (if applicable) and notes. The main section is for your weight training workout that allows logging up to 4 sets per exercise keeping track of weight and reps. SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. 3 sections: Warm-up, Main Workout, and Cool-down. Clean and simple layout. Print a new printable Weight Training Daily Log with Warm-up and Cool-down page every day or as needed. This sheet is meant as a guide or log for people who are exercising using weights. This sheet in no way is exercise advice or a workout suggestion. Please consult a doctor before beginning any exercise regimen.
-  Updated: 2026-04-01T16:57:28Z
+  Updated: 2026-04-16T23:47:47Z
   Vendor: Artistically Invited
   Product Type: Diet and Exercise
   Availability: Available
@@ -2241,7 +2241,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/products/My_Tasks_for_the_Week_-_Purple_Grid_-_Printable_Planning.jpg?v=1560293213
   Price: $5.95 USD
 - [Phone Call Message Log - Printable](https://printableplanning.com/products/phone-call-message-log-printable): A printable phone call message log ideal for small businesses. Use this printable call log or call back list to write down the messages received, along with name and a contact number, date and time, and check off if the person wants a call back. Items included in each message block: Name. Contact Number. Date. Time. Message (with 4 lines for the message). Call back (checkbox). SPECIFICATIONS: 8.5" x 11" printable PDF page. Clean and simple design. 4 message blocks per page. There is a .25" border on each side, ideal for most printers. Excellent for small businesses. Digital/Printable purchase. No physical goods will be sent. (Pen not included). Print a new phone call message log every time you need more.
-  Updated: 2026-04-01T16:58:10Z
+  Updated: 2026-04-21T15:38:16Z
   Vendor: Artistically Invited
   Product Type: Small Business Forms
   Availability: Available
@@ -2661,7 +2661,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/ElderlyCareDailyCareSheetwithOxygenAlertnessandHousekeeping-PrintablePlanning.jpg?v=1689399368
   Price: $5.95 USD
 - [Weekly Lesson Plan Pages | Printable Teacher Planner PDF](https://printableplanning.com/products/weekly-lesson-plan-for-teachers-school-planning-pages-printable): Plan lessons with printable weekly lesson plan pages for teachers. Ink-friendly black-and-white design with a 7-day layout and front-and-back printing.
-  Updated: 2026-04-01T16:58:20Z
+  Updated: 2026-04-20T15:20:12Z
   Vendor: Artistically Invited
   Product Type: Planner Pages
   Availability: Available
@@ -2839,16 +2839,16 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
 ## Collections
 
 - [Frontpage](https://printableplanning.com/collections/frontpage)
-  Updated: 2026-04-09T11:01:09Z
+  Updated: 2026-04-22T11:01:28Z
   Total Products: 407
 - [Digital Goods VAT Tax](https://printableplanning.com/collections/digital-goods-vat-tax)
-  Updated: 2026-04-08T11:01:24Z
+  Updated: 2026-04-17T11:01:23Z
   Total Products: 238
 - [Printable Downloads | Checklists, Planners, Forms, and Trackers](https://printableplanning.com/collections/all): Shop printable downloads for caregiver forms, daily planning, home organization, school helpers, and financial tracking, made to be easy to use.
-  Updated: 2026-04-09T11:01:09Z
+  Updated: 2026-04-22T11:01:28Z
   Total Products: 407
 - [Organization Printables | Lists, Logs, and Helpers](https://printableplanning.com/collections/miscellaneous-organization-pages): Everyday organization printables like  lists, call logs, trackers, and simple helpers for keeping daily details in one place.
-  Updated: 2026-04-09T11:01:09Z
+  Updated: 2026-04-22T11:01:28Z
   Total Products: 13
 - [Caregiver Forms | Health Logs and Housekeeping](https://printableplanning.com/collections/caregivers-health-housekeeping): Printable caregiver forms and logs for families and pet care, plus health info sheets and housekeeping checklists to keep routines organized.
   Updated: 2026-04-09T11:01:09Z
@@ -2860,7 +2860,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Updated: 2026-04-08T11:01:24Z
   Total Products: 65
 - [Printable Calendars and Planner Pages | Undated and Blank](https://printableplanning.com/collections/calendars-and-planner-pages): Printable calendars and planner pages with blank, undated layouts for monthly and weekly planning. Print as needed and organize your schedule your way.
-  Updated: 2026-04-08T11:01:24Z
+  Updated: 2026-04-21T11:01:42Z
   Total Products: 27
 - [Printable Return Address Labels | Avery 5160 Compatible](https://printableplanning.com/collections/address-labels): Personalized printable return address labels in many designs. Sized for Avery 5160 and compatible sheets. Print as needed for mail and gifts.
   Updated: 2026-04-01T16:57:21Z
@@ -2872,19 +2872,19 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Updated: 2026-04-08T11:01:24Z
   Total Products: 53
 - [School and Teacher Printables | Forms, Labels, and Checklists](https://printableplanning.com/collections/school-and-teachers): School and teacher printables for grading, homework, supply labels, and classroom organization. Download files and print as needed all year.
-  Updated: 2026-04-08T11:01:24Z
+  Updated: 2026-04-21T11:01:42Z
   Total Products: 42
 - [Children’s Printables | Chore Charts, Activities, and Helpers](https://printableplanning.com/collections/childrens-printable-pages): Children’s printables like chore charts, activity pages, and fun helpers for routines at home. Great for families, rewards, and busy days.
   Updated: 2026-04-08T11:01:24Z
   Total Products: 29
 - [Diet and Exercise Sheets | Trackers and Logs](https://printableplanning.com/collections/diet-and-exercise-sheets): Diet and exercise printables for tracking meals, workouts, habits, and progress. Simple logs and goal sheets to support healthy routines.
-  Updated: 2026-04-01T16:57:22Z
+  Updated: 2026-04-17T11:01:23Z
   Total Products: 8
 - [Small Business Printables | Invoices, Trackers, and Forms](https://printableplanning.com/collections/small-business-sheets-and-forms): Small business printables for invoices, scheduling, bookkeeping, and tracking. Simple forms and sheets to organize work and clients.
-  Updated: 2026-04-08T11:01:24Z
+  Updated: 2026-04-22T11:01:28Z
   Total Products: 15
 - [Printable To-Do Lists and Task Checklists | Daily and Weekly](https://printableplanning.com/collections/to-do-lists-and-task-checklists): Printable to-do lists and task checklists for daily planning, weekly routines, and project tracking. Simple pages to keep tasks organized.
-  Updated: 2026-04-08T11:01:24Z
+  Updated: 2026-04-22T11:01:28Z
   Total Products: 26
 
 ## Store Pages
