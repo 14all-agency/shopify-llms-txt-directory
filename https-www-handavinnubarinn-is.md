@@ -6,7 +6,7 @@
 - Timezone: Etc/UTC
 - Created At: 2025-09-21T10:34:42Z
 - Contact Email: handavinnubarinn@handavinnubarinn.is
-- Updated At: 2026-04-17T00:00:39.712Z
+- Updated At: 2026-04-24T00:00:42.086Z
 
 Our online store features carefully crafted items from our own workshop, a wide range of knitting, crochet, and craft products, as well as yarn and other handcraft supplies. The goal is to create a community for handcraft makers and everyone who loves creating with their hands. 
 
@@ -52,7 +52,7 @@ Our online store features carefully crafted items from our own workshop, a wide 
     Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/5.jpg?v=1765922946
     Price: 550,00 kr. ISK
 - [Prjónafestu- & Prjónamælir](https://www.handavinnubarinn.is/products/prjonafestu-prjonamaelir): Hentugur og stílhreinn prjónamælir úr léttu viðarefni sem sameinar prjónfestumælingu og prjónastærðarmæli í einu verkfæri. Mælirinn er frá B Kind Handverk og gerir hann þér kleift að finna rétta stærð á prjónum, mæla prjónfestu nákvæmlega og tryggja að verkefnið þitt verði samkvæmt uppskrift. Auðvelt að festa mælinn á prjónatösku eða lyklakippu – fullkomið fyrir prjónara á ferðinni. Helstu eiginleikar Mælir fyrir prjónastærðir 2–9 mm Prjónfesturamma til að mæla lykkjur og umferðir, mælir í sentimetrum. Létt og gott viðarefni
-  Updated: 2026-04-16T11:32:57Z
+  Updated: 2026-04-18T09:14:57Z
   Vendor: Handavinnubarinn
   Product Type: Fylgihlutir handavinnulífsins
   Availability: Available
@@ -76,8 +76,8 @@ Our online store features carefully crafted items from our own workshop, a wide 
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/65_a1aecb80-1de1-4048-b69a-2f4f9e411c8d.jpg?v=1766008288
     Price: 790,00 kr. ISK
-- [Framvindu-og leiðbeiningar prjónamerki](https://www.handavinnubarinn.is/products/b-kind-framvindumerki-prjonamerkingar-umferdarteljari): Falleg og hagnýt prjónamerki úr viði sem hönnuð eru til að auðvelda þér prjónaskapinn, vinnuna við heklið, halda utan um framvindu og leiðbeiningar í því sem unnið er með. -Hönnuður leitaði innblásturs í merkin frá öðrum og hjá sér sjálfri, verandi með ríkjandi athyglisbrest og króníska gleymsku. Merkin eru létt, hljóðlát og renna vel á prjónum, fullkomin fyrir bæði byrjendur sem og lengra komna. Allt settið inniheldur: Stærðarmerki til að krækja í það stykki sem unnið er með, sem hentar vel þegar stykkið fær pásu og muna þarf hvaða stærð af prjónum/heklnál var notað í stykkið. Lykkjumerki að merkja hversu margar lykkjur eru, einfaldar talningarferlið til muna sérstaklega ef stykkið sem unnið er með er stórt. Leiðbeiningarmerki inniheldur helstu leiðbeiningar í prjóni, t.d. þegar auka þarf út, hvenær þarf að snúa við, hvort stykkið sé hægri eða vinstri og margt fleira. Hægt er að kaupa allt settið saman eða í sitthvoru lagi. Falleg gjöf fyrir prjónara og handverksunnendur! Prjónamerkin koma í fallegum taupoka merktum B Kind Handverk, fullkomið fyrir prjónatöskuna eða sem gjöf. ATH! varan er sífellt að þróast og tökum við fagnandi á móti ábendingum sem mætti breyta og bæta.
-  Updated: 2026-04-16T12:50:29Z
+- [Framvindu-og leiðbeiningar prjónamerki](https://www.handavinnubarinn.is/products/b-kind-framvindumerki-prjonamerkingar-umferdarteljari): Falleg og hagnýt prjónamerki úr viði sem hönnuð eru til að auðvelda þér prjónaskapinn, vinnuna við heklið, halda utan um framvindu og leiðbeiningar í því sem unnið er með. Hönnuður leitaði innblásturs í merkin frá öðrum og hjá sér sjálfri, verandi með ríkjandi athyglisbrest og króníska gleymsku. Merkin eru létt, hljóðlát og renna vel á prjónum, fullkomin fyrir bæði byrjendur sem og lengra komna. Allt settið inniheldur: Stærðarmerki til að krækja í það stykki sem unnið er með, sem hentar vel þegar stykkið fær pásu og muna þarf hvaða stærð af prjónum/heklnál var notað í stykkið. Lykkjumerki að merkja hversu margar lykkjur eru, einfaldar talningarferlið til muna sérstaklega ef stykkið sem unnið er með er stórt. Leiðbeiningarmerki inniheldur helstu leiðbeiningar í prjóni, t.d. þegar auka þarf út, hvort stykkið sé hægri eða vinstri og margt fleira. Hægt er að kaupa allt settið saman eða í sitthvoru lagi. Falleg gjöf fyrir prjónara og handverksunnendur! Stærri settin koma í fallegum taupoka merktum B Kind Handverk fullkomið fyrir prjónatöskuna eða sem gjöf. ATH! varan er sífellt að þróast og tökum við fagnandi á móti ábendingum sem mætti breyta og bæta.
+  Updated: 2026-04-18T21:14:41Z
   Vendor: Handavinnubarinn
   Product Type: Fylgihlutir handavinnulífsins
   Availability: Available
@@ -103,7 +103,7 @@ Our online store features carefully crafted items from our own workshop, a wide 
     Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/IMG-5859.jpg?v=1775584119
     Price: 690,00 kr. ISK
   - [Auka til hægri & Auka til vinstri](https://www.handavinnubarinn.is/products/b-kind-framvindumerki-prjonamerkingar-umferdarteljari?variant=48295275921623)
-    Availability: Not Available
+    Availability: Available
     Price: 990,00 kr. ISK
   - [Úrtaka](https://www.handavinnubarinn.is/products/b-kind-framvindumerki-prjonamerkingar-umferdarteljari?variant=48295279722711)
     Availability: Available
@@ -515,7 +515,7 @@ Our online store features carefully crafted items from our own workshop, a wide 
   Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/KnitproMindful-Kindnessprjonasettnota2.jpg?v=1769084976
   Price: 14.990,00 kr. ISK
 - [KnitPro Mindful - Chakra silfurhúðuð prjónamerki - Forsala - Mindful prjónalína](https://www.handavinnubarinn.is/products/knitpro-mindful-chakra-prjonamerki): KnitPro Mindful Chakra prjónamerki, 10 silfurhúðuð merki með chakra táknum. Renna mjúklega á prjóna og henta fyrir mynstralínur, úrtökur og útaukningar. Kemur í fallegum túrkis poka.
-  Updated: 2026-04-10T05:52:23Z
+  Updated: 2026-04-20T19:57:51Z
   Vendor: Knitpro
   Product Type: Prjónafylgihlutir
   Availability: Available
@@ -545,13 +545,6 @@ Our online store features carefully crafted items from our own workshop, a wide 
   - [12 (21.4 mm)](https://www.handavinnubarinn.is/products/knitpro-mindful-umferdateljarahringur?variant=48108366364887)
     Availability: Not Available
     Price: 3.590,00 kr. ISK
-- [KnitPro Mindful samanbrjótanleg skæri](https://www.handavinnubarinn.is/products/knitpro-mindful-samanbrjotanleg-skaeri): KnitPro Rainbow samanbrjótanleg skæri. Örugg og ferðavæn skæri í regnbogalitum. Fullkomið fyrir prjónara á ferðinni. Kemur í túrkislituðum Mindful-poka.
-  Updated: 2026-04-10T05:51:31Z
-  Vendor: Knitpro
-  Product Type: Prjónafylgihlutir
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/KnitproMindful-Skaeri.png?v=1765810471
-  Price: 1.290,00 kr. ISK
 - [KnitPro Mindful frágangsnálasett](https://www.handavinnubarinn.is/products/knitpro-mindful-fragangsnalar-sett): KnitPro Mindful frágangsnálar – 4 stk (2 litlar, 2 stórar) í fallegum viðarhólk með mandalamynstri. Sterkar og mjúkar nálar til frágangs í prjónavinnu.
   Updated: 2026-04-10T05:51:16Z
   Vendor: Knitpro
@@ -886,32 +879,6 @@ Our online store features carefully crafted items from our own workshop, a wide 
   - [kr 20,000](https://www.handavinnubarinn.is/products/gift-card?variant=48118137913559)
     Availability: Available
     Price: 20.000,00 kr. ISK
-- [Handavinnukippa með skærum](https://www.handavinnubarinn.is/products/handavinnukippa-med-skaerum): Handavinnukippa B Kind Handverks samanstendur af silfurlituðum lyklakippuhring með glersteinum og klemmu, sérútbúnum prjónamæli með 5cm mælistiku og göt sem mæla prjóna frá 2-5. Kippan inniheldur einnig litlar heklunálar í stærðum 3mm, 4mm og 5mm, litlum ferðaskærum sem opnast með því að renna skærunum upp úr hólknum og lítilli glerkrukku með álloki sem inniheldur 20 stykki af blönduðum opnanlegum prjónamerkjum. Prjónamælirinn er úr við og er pússaður upp meðTung olíu til þess að fá sléttari áferð. Fullkomið handavinnuverkfæri fyrir handavinnufólk sem er ávallt með handavinnuna á ferð og flugi. Þessi handavinnukippa í takmörkuðu magni.
-  Updated: 2026-03-18T03:58:04Z
-  Vendor: Handavinnubarinn
-  Product Type: Fylgihlutir handavinnulífsins
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/55.jpg?v=1771524029
-  - [Ljósbleik](https://www.handavinnubarinn.is/products/handavinnukippa-med-skaerum?variant=48118326067415)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/52.jpg?v=1771524029
-    Price: 2.890,00 kr. ISK
-  - [Ljósfjólublá](https://www.handavinnubarinn.is/products/handavinnukippa-med-skaerum?variant=48118326100183)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/55.jpg?v=1771524029
-    Price: 2.890,00 kr. ISK
-  - [Ljósblá](https://www.handavinnubarinn.is/products/handavinnukippa-med-skaerum?variant=48118326132951)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/51.jpg?v=1771524029
-    Price: 2.890,00 kr. ISK
-  - [Ljósgræn](https://www.handavinnubarinn.is/products/handavinnukippa-med-skaerum?variant=48118326165719)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/53.jpg?v=1771524029
-    Price: 2.890,00 kr. ISK
-  - [Hvít](https://www.handavinnubarinn.is/products/handavinnukippa-med-skaerum?variant=48118326034647)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/54.jpg?v=1771524029
-    Price: 2.890,00 kr. ISK
 - [Handavinnukippa án skæra](https://www.handavinnubarinn.is/products/handavinnukippa-an-skaera): Handavinnukippa B Kind Handverks samanstendur af silfurlituðum lyklakippuhring með glersteinum og klemmu, sérútbúnum prjónamæli með 5cm mælistiku og göt sem mæla prjóna frá 2-5. Kippan inniheldur einnig litlar heklunálar í stærðum 3mm, 4mm og 5mm og lítilli glerkrukku með álloki sem inniheldur 20 stykki af blönduðum opnanlegum prjónamerkjum. Fullkomið handavinnuverkfæri fyrir handavinnufólk sem er ávallt með handavinnuna á ferð og flugi. Prjónamælirinn er úr við og er pússaður upp meðTung olíu til þess að fá sléttari áferð. Takmarkað magn í boði.
   Updated: 2026-03-18T01:52:57Z
   Vendor: Handavinnubarinn
@@ -927,13 +894,13 @@ Our online store features carefully crafted items from our own workshop, a wide 
   Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/2_9e37167d-d75e-4936-9d93-234a5cd760bf.jpg?v=1766009010
   Price: 890,00 kr. ISK
 - [Stjörnumerkja umferðateljari](https://www.handavinnubarinn.is/products/stjornumerkja-umferdateljari): Umferðateljarinn/ Prjónafiskurinn er tól sem hentar fyrir alla þá sem bæði prjóna, hekla eða stunda handavinnu sem þarfnast þess að muna hvar maður staddur í umferðum. Umferðateljararnir koma með stjörnumerki sem einnig er framvindumerki til að minna mann á hvar maður er staddur í umferðunum.
-  Updated: 2026-04-16T12:50:27Z
+  Updated: 2026-04-20T19:57:51Z
   Vendor: Handavinnubarinn
   Product Type: Fylgihlutir handavinnulífsins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/Umferdateljarar_PrjonafiskarGullogSilfur_8ac73d92-9cb4-430c-a239-28a10bef5970.jpg?v=1769078001
   - [Silfur / Steingeit](https://www.handavinnubarinn.is/products/stjornumerkja-umferdateljari?variant=48137901834455)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/Silfur_-_Steingeit_ca73294a-e652-46ce-9cb3-cca8f47b70a1.jpg?v=1769078001
     Price: 1.990,00 kr. ISK
   - [Silfur / Vatnsberi](https://www.handavinnubarinn.is/products/stjornumerkja-umferdateljari?variant=48137901867223)
@@ -941,7 +908,7 @@ Our online store features carefully crafted items from our own workshop, a wide 
     Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/Silfur_-_Vatnsberi_4f05f6f7-3a2c-41a0-b467-5792a6d924ab.jpg?v=1769078001
     Price: 1.990,00 kr. ISK
   - [Silfur / Fiskur](https://www.handavinnubarinn.is/products/stjornumerkja-umferdateljari?variant=48137901899991)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/Silfur_-_Fiskar_40383bf6-2977-42c6-aa36-04750f5f9ce0.jpg?v=1769078001
     Price: 1.990,00 kr. ISK
   - [Silfur / Hrútur](https://www.handavinnubarinn.is/products/stjornumerkja-umferdateljari?variant=48137901932759)
@@ -957,7 +924,7 @@ Our online store features carefully crafted items from our own workshop, a wide 
     Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/Silfur_-_Tviburi_0b6b4171-cc56-43c3-88fb-d2985d1eb321.jpg?v=1769078001
     Price: 1.990,00 kr. ISK
   - [Silfur / Krabbi](https://www.handavinnubarinn.is/products/stjornumerkja-umferdateljari?variant=48137902031063)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/Silfur_-_Krabbi_ab629278-403c-4361-ba0f-c68a236c2602.jpg?v=1769078001
     Price: 1.990,00 kr. ISK
   - [Silfur / Ljón](https://www.handavinnubarinn.is/products/stjornumerkja-umferdateljari?variant=48137902063831)
@@ -2084,22 +2051,22 @@ Our online store features carefully crafted items from our own workshop, a wide 
 ## Collections
 
 - [Allar vörur](https://www.handavinnubarinn.is/collections/products)
-  Updated: 2026-04-14T11:27:31Z
+  Updated: 2026-04-21T11:31:19Z
   Total Products: 71
 - [Forpöntun](https://www.handavinnubarinn.is/collections/forsala): ATH þessar vörur eru einungis í forpöntun.
   Updated: 2026-04-14T11:27:31Z
   Total Products: 21
 - [B Kind Handverk](https://www.handavinnubarinn.is/collections/b-kind-handverk)
-  Updated: 2026-04-13T11:27:05Z
+  Updated: 2026-04-21T11:31:19Z
   Total Products: 9
 - [Föndurvörur](https://www.handavinnubarinn.is/collections/fondurvorur)
-  Updated: 2026-04-01T11:31:32Z
+  Updated: 2026-04-17T11:31:14Z
   Total Products: 18
 - [Fylgihlutir](https://www.handavinnubarinn.is/collections/fylgihlutir)
-  Updated: 2026-04-14T11:27:31Z
+  Updated: 2026-04-21T11:31:19Z
   Total Products: 43
 - [FeaturedProducts](https://www.handavinnubarinn.is/collections/featuredproducts)
-  Updated: 2026-04-14T11:27:31Z
+  Updated: 2026-04-18T11:33:27Z
   Total Products: 11
 - [Gjafakort](https://www.handavinnubarinn.is/collections/gjafabref)
   Updated: 2025-12-27T08:07:37Z
@@ -2117,25 +2084,25 @@ Our online store features carefully crafted items from our own workshop, a wide 
   Updated: 2026-03-31T21:25:23Z
   Total Products: 0
 - [Prjónamerki](https://www.handavinnubarinn.is/collections/prjonamerki)
-  Updated: 2026-04-13T11:27:05Z
+  Updated: 2026-04-21T11:31:19Z
   Total Products: 4
 - [Heklunálar](https://www.handavinnubarinn.is/collections/heklunalar)
-  Updated: 2026-02-22T12:21:58Z
+  Updated: 2026-04-18T11:33:27Z
   Total Products: 4
 - [KnitPro](https://www.handavinnubarinn.is/collections/knitpro-mindful)
-  Updated: 2026-04-14T11:27:31Z
+  Updated: 2026-04-21T11:31:19Z
   Total Products: 17
 - [Prjónar og snúrur](https://www.handavinnubarinn.is/collections/prjonar-og-snurur)
   Updated: 2026-04-14T11:27:31Z
   Total Products: 11
 - [Skæri](https://www.handavinnubarinn.is/collections/skaeri)
-  Updated: 2026-03-18T09:15:07Z
+  Updated: 2026-04-18T11:33:27Z
   Total Products: 5
 - [Umferðateljarar](https://www.handavinnubarinn.is/collections/umferdateljarar)
-  Updated: 2026-04-10T11:28:18Z
+  Updated: 2026-04-21T11:31:19Z
   Total Products: 3
 - [Prjónfestu-og prjónamælar](https://www.handavinnubarinn.is/collections/prjonfestu-og-prjonamaelar)
-  Updated: 2026-03-10T09:28:10Z
+  Updated: 2026-04-18T11:33:27Z
   Total Products: 4
 - [Dúskar](https://www.handavinnubarinn.is/collections/duskar)
   Updated: 2026-04-01T11:31:32Z
@@ -2144,25 +2111,25 @@ Our online store features carefully crafted items from our own workshop, a wide 
   Updated: 2026-03-10T09:27:13Z
   Total Products: 2
 - [Annað](https://www.handavinnubarinn.is/collections/annad)
-  Updated: 2026-04-12T10:05:44Z
+  Updated: 2026-04-17T11:31:14Z
   Total Products: 13
 - [Hringir](https://www.handavinnubarinn.is/collections/hringir)
   Updated: 2026-04-09T11:29:14Z
   Total Products: 5
 - [Lykkjusnúrur og stopparar](https://www.handavinnubarinn.is/collections/lykkjusnurur-og-stopparar)
-  Updated: 2026-04-14T11:27:31Z
+  Updated: 2026-04-17T11:31:14Z
   Total Products: 8
 - [Útsaumur](https://www.handavinnubarinn.is/collections/utsaumur)
-  Updated: 2026-03-25T18:45:08Z
+  Updated: 2026-04-17T11:31:14Z
   Total Products: 2
 - [Allir fylgihlutir](https://www.handavinnubarinn.is/collections/allir-fylgihlutir)
-  Updated: 2026-04-13T11:27:05Z
+  Updated: 2026-04-21T11:31:19Z
   Total Products: 51
 - [Gigtarvörur](https://www.handavinnubarinn.is/collections/gigtarvorur)
-  Updated: 2026-04-09T11:29:14Z
+  Updated: 2026-04-17T11:31:14Z
   Total Products: 5
 - [Gjafavara](https://www.handavinnubarinn.is/collections/gjafavara)
-  Updated: 2026-04-13T11:27:05Z
+  Updated: 2026-04-21T11:31:19Z
   Total Products: 23
 - [Málbönd](https://www.handavinnubarinn.is/collections/malbond)
   Updated: 2026-04-12T10:05:44Z
