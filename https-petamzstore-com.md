@@ -6,7 +6,7 @@
 - Timezone: America/Detroit
 - Created At: 2026-03-21T15:24:19Z
 - Contact Email: Petamzstore@gmail.com
-- Updated At: 2026-04-17T00:00:37.929Z
+- Updated At: 2026-04-24T00:00:38.890Z
 
 # PetAmzStore
 
@@ -50,7 +50,7 @@ and availability are subject to change.
 ## Products
 
 - [6L WiFi Smart Pet Feeder with HD Camera & Scheduled Feeding](https://petamzstore.com/products/pet-feeder): Smart WiFi pet feeder with HD camera, 6L capacity, app control, scheduled feeding & stainless steel bowl. Feed your pet remotely from anywhere.
-  Updated: 2026-04-14T13:13:16Z
+  Updated: 2026-04-19T19:18:20Z
   Vendor: PetAmzStore
   Product Type: Automatic Pet Feeder
   Availability: Available
@@ -104,7 +104,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/5d603ddf46e4acb2e5ecc278f769.png?v=1774114158
     Price: $239.24 USD
 - [PurrClean Washable Pet Bed | Machine Washable Dog & Cat Bed](https://petamzstore.com/products/purrclean-washable-pet-bed): The PurrClean washable pet bed is easy to clean and ultra-comfortable for dogs and cats. Durable polyester construction, available in medium size.
-  Updated: 2026-04-14T13:13:17Z
+  Updated: 2026-04-19T19:18:17Z
   Vendor: PetAmzStore
   Product Type: Dog Bed
   Availability: Available
@@ -154,7 +154,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/f7925f3f438daf761bc28ecf276b.png?v=1774114070
     Price: $112.51 USD
 - [Silicone Dog Bath Brush - Massage & Grooming Scrubber](https://petamzstore.com/products/dog-bath-massage-brush): Save up to 87% bathing time with our silicone dog bath massage brush. Removes dirt, dead hair & insects. Soft, gentle, and easy to use.
-  Updated: 2026-04-14T13:13:09Z
+  Updated: 2026-04-19T19:18:09Z
   Vendor: PetAmzStore
   Product Type: 
   Availability: Available
@@ -172,7 +172,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/7c9838544ae79ed95a2abc1f45ac.png?v=1774113978
     Price: $22.17 USD
 - [Interactive Smart Dog Toy Ball | Automatic Rolling Dog Toy](https://petamzstore.com/products/interactive-smart-dog-toy-ball): Interactive smart dog toy ball — automatic rolling ball keeps dogs entertained and active. USB rechargeable, safe for all dog sizes.
-  Updated: 2026-04-14T13:13:16Z
+  Updated: 2026-04-19T19:18:12Z
   Vendor: PetAmzStore
   Product Type: Dog Toy
   Availability: Available
@@ -194,7 +194,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/311733d54219a8b69bd36ed61185.png?v=1774114003
     Price: $22.02 USD
 - [CozyPlush Pet Bed | Soft Plush Dog & Cat Bed](https://petamzstore.com/products/cozyplush-pet-bed): The CozyPlush pet bed wraps your dog or cat in ultra-soft plush comfort. Ideal for medium-sized pets who love to snuggle and nest.
-  Updated: 2026-04-14T13:13:10Z
+  Updated: 2026-04-19T19:18:14Z
   Vendor: PetAmzStore
   Product Type: Dog Bed
   Availability: Available
@@ -232,7 +232,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/c507f99b4c9db5c7c9394032c261.png?v=1774114007
     Price: $172.95 USD
 - [Interactive Plush Pet Toy | Jumping Fish & Flapping Bird Cat Dog Toy](https://petamzstore.com/products/interactive-plush-cat-toy-flapping-fish-bird): Interactive plush pet toy with sound and motion — jumping fish or flapping bird design. Engages cats and dogs with realistic movement and squeaky sounds.
-  Updated: 2026-04-14T13:13:11Z
+  Updated: 2026-04-19T19:18:13Z
   Vendor: PetAmzStore
   Product Type: Cat Toy
   Availability: Available
@@ -258,7 +258,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/e89844ac4906af81c2ff74af3a31.png?v=1774114097
     Price: $57.53 USD
 - [Pet Carrier Bag - Breathable Mesh Dog & Cat Shoulder Bag](https://petamzstore.com/products/pet-mesh-shoulder-carrier-bag): Breathable mesh pet carrier bag for dogs & cats up to 22kg. 3 sizes available. Lightweight, durable, and stylish for travel or daily use.
-  Updated: 2026-04-14T13:13:17Z
+  Updated: 2026-04-19T19:18:20Z
   Vendor: PetAmzStore
   Product Type: 
   Availability: Available
@@ -324,7 +324,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/7945c80e4520a619d9ae5fa3496b.png?v=1774114190
     Price: $74.91 USD
 - [Cat Harness & Leash Set - Adjustable Escape-Proof Chest Strap](https://petamzstore.com/products/cat-chest-strap): Secure, adjustable cat harness with escape-proof chest strap. Durable materials, comfortable fit. Perfect for walks and outdoor adventures.
-  Updated: 2026-04-14T13:13:12Z
+  Updated: 2026-04-19T19:18:11Z
   Vendor: PetAmzStore
   Product Type: 
   Availability: Available
@@ -402,7 +402,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/97f01b5f4545a7f9448d50eacfed.jpg?v=1774114221
     Price: $35.81 USD
 - [Flapping Bird Cat Toy | Interactive Motion Cat Teaser Toy](https://petamzstore.com/products/flapping-bird-cat-toy): Flapping bird cat toy — realistic motion teaser that drives cats wild. Interactive plush toy for indoor cats who love to hunt and pounce.
-  Updated: 2026-04-14T13:13:17Z
+  Updated: 2026-04-19T19:18:17Z
   Vendor: PetAmzStore
   Product Type: Cat Toy
   Availability: Available
@@ -424,7 +424,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/371f8d9942fbbd5973f0964f417a.jpg?v=1774114077
     Price: $37.02 USD
 - [Interactive Pet Feeder Toy | Slow Feed Enrichment Toy for Dogs & Cats](https://petamzstore.com/products/interactive-pet-feeder-toy): Interactive pet feeder toy for dogs and cats — slow feed enrichment toy that makes mealtime fun. Stimulates natural foraging instincts and reduces fast eating.
-  Updated: 2026-04-14T13:13:16Z
+  Updated: 2026-04-19T19:18:12Z
   Vendor: PetAmzStore
   Product Type: Animal & Pet Supplies > Pet Bowls, Feeders & Waterers
   Availability: Available
@@ -450,7 +450,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/6562cad04c868c0a464430dc7b74.png?v=1774114184
     Price: $112.58 USD
 - [Electric Pet Nail Grinder with LED Light - Dog & Cat Clippers](https://petamzstore.com/products/glowtrim-led-electric-pet-nail-clippers): Electric pet nail clippers with built-in LED light for safe trimming. Ergonomic design with grinding feature. Suitable for dogs and cats of all sizes.
-  Updated: 2026-04-14T13:13:12Z
+  Updated: 2026-04-19T19:18:13Z
   Vendor: PetAmzStore
   Product Type: 
   Availability: Available
@@ -468,7 +468,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/7756c5b6471386b0efff61a0a93c.png?v=1774114101
     Price: $28.59 USD
 - [Professional Dog & Cat Nail Clippers with LED Safety Light](https://petamzstore.com/products/professional-pet-nail-clippers-with-led-light): Professional pet nail clippers with LED light to locate the quick. Stainless steel blades, ergonomic grip. Safe for cats and dogs of all sizes.
-  Updated: 2026-04-14T13:13:13Z
+  Updated: 2026-04-19T19:18:13Z
   Vendor: PetAmzStore
   Product Type: 
   Availability: Available
@@ -490,42 +490,42 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/e95b7dc842d0be729e1ec69843e8.png?v=1774115163
     Price: $27.95 USD
 - [Dual Retractable Reflective Dog Leash | 360 Swivel Double Dog Walking Leash](https://petamzstore.com/products/dual-dog-leash-retractable-360-swivel): Dual pet retractable reflective dog leash with 360 swivel — walk two dogs at once safely. Reflective lead for nighttime visibility, tangle-free design.
-  Updated: 2026-04-14T13:13:07Z
+  Updated: 2026-04-19T19:18:08Z
   Vendor: PetAmzStore
   Product Type: Dog Leash
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/d44b629f41fa983d7552c4b041d4.png?v=1774115905
   Price: $71.81 USD
 - [Dog Hip & Joint Supplement - Glucosamine Turmeric Chondroitin MSM](https://petamzstore.com/products/dog-hip-joint-supplement-glucosamine-turmeric): Natural dog joint supplement with glucosamine, turmeric, chondroitin & MSM. 60 beef liver chews. Reduces inflammation, improves mobility. Made in USA.
-  Updated: 2026-04-14T13:13:17Z
+  Updated: 2026-04-19T19:18:20Z
   Vendor: PetAmzStore
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/3d19c3544869afaf2985150e0d08.jpg?v=1774116801
   Price: $78.50 USD
 - [Pet Eye Wash Drops - Tear Stain Remover for Dogs & Cats](https://petamzstore.com/products/pet-eye-wash-drops-tear-stain-remover): Gentle pet eye wash drops that remove tear stains, relieve irritation & prevent clogging. Safe for puppies, kittens, rabbits & ferrets.
-  Updated: 2026-04-14T13:13:14Z
+  Updated: 2026-04-19T19:18:09Z
   Vendor: PetAmzStore
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/fe3c3db44ca99aa43225fe818148.jpg?v=1774116948
   Price: $36.71 USD
 - [Hemp Calming Chews for Dogs - 170ct Stress & Anxiety Relief](https://petamzstore.com/products/hemp-calming-chews-for-dogs): Vet-formulated hemp calming chews with valerian root, chamomile & melatonin. 170 chicken-flavored chews. Eases anxiety from storms, travel & separation.
-  Updated: 2026-04-14T13:13:09Z
+  Updated: 2026-04-19T19:18:14Z
   Vendor: PetAmzStore
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/87a30e9f4a92a9cf147a4e2bb019.jpg?v=1774116986
   Price: $97.47 USD
 - [Dog Allergy Chews with Probiotics & Omega - 180ct Duck Flavor](https://petamzstore.com/products/dog-allergy-chews-omega-probiotics): Natural dog allergy chews with probiotics, apple cider vinegar, salmon oil & colostrum. 180 duck-flavored soft bites for seasonal & skin allergies.
-  Updated: 2026-04-14T13:13:08Z
+  Updated: 2026-04-19T19:18:09Z
   Vendor: PetAmzStore
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/c2afc6704240b2e1c0c273761c36.jpg?v=1774117255
   Price: $75.80 USD
 - [Pet Cleaning Wipes & Grooming Gloves - Ear Eye Tooth Care](https://petamzstore.com/products/pet-cleaning-gloves-wipes): Complete pet hygiene kit with ear wipes, eye wipes, tooth wipes, foot foam & grooming gloves. Individually packaged for freshness and convenience.
-  Updated: 2026-04-14T13:13:14Z
+  Updated: 2026-04-19T19:18:12Z
   Vendor: PetAmzStore
   Product Type: 
   Availability: Available
@@ -567,7 +567,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/da27e82e4bdaac39c1a698a6db3c.png?v=1774127220
     Price: $36.08 USD
 - [Pet Spray Grooming Brush - Built-In Water Tank for Dogs & Cats](https://petamzstore.com/products/pet-hair-spray-brush): Innovative pet grooming brush with built-in water tank. Sprays while brushing to reduce loose fur. Ideal for all coat types in dogs and cats.
-  Updated: 2026-04-14T13:13:12Z
+  Updated: 2026-04-19T19:18:14Z
   Vendor: PetAmzStore
   Product Type: 
   Availability: Available
@@ -581,14 +581,14 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/101db7404065a6be4b5a7f5d9af2_5ffc1860-12b3-44e6-ac53-adc8cd72d4d9.png?v=1774127187
     Price: $43.14 USD
 - [Cat Litter Box Odor Eliminator - USB Deodorizer & Air Purifier](https://petamzstore.com/products/pet-odor-eliminator-for-litter-boxes): Compact USB cat litter box deodorizer with advanced sterilization & odor-neutralizing technology. Sleek ABS design. Size: 13.5 × 7 × 3 cm.
-  Updated: 2026-04-14T13:13:09Z
+  Updated: 2026-04-19T19:18:14Z
   Vendor: PetAmzStore
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/4fd6b4244bc08936376f73090bb9.png?v=1774127159
   Price: $53.32 USD
 - [Pet Grooming Comb | PetAmzStore](https://petamzstore.com/products/pet-grooming-comb): Keep your pet’s coat healthy, smooth, and tangle-free with this versatile grooming comb. Featuring a dual design with serrated teeth to remove loose hair and...
-  Updated: 2026-04-14T13:13:14Z
+  Updated: 2026-04-19T19:18:10Z
   Vendor: PetAmzStore
   Product Type: 
   Availability: Available
@@ -602,7 +602,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/0583cef3407296120896d43c38df.png?v=1774127218
     Price: $24.34 USD
 - [Cat Sucker Teaser Toy | Interactive Suction Cup Cat Toy](https://petamzstore.com/products/cat-sucker-teaser-toy): Cat sucker teaser toy with suction cup base — interactive self-play toy for indoor cats. Keeps cats entertained and mentally stimulated.
-  Updated: 2026-04-14T13:13:18Z
+  Updated: 2026-04-19T19:18:18Z
   Vendor: PetAmzStore
   Product Type: Cat Toy
   Availability: Available
@@ -644,7 +644,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/5fe1b83d473583d1ea11c1945c86.jpg?v=1774127367
     Price: $22.64 USD
 - [Auto Double Dog Leash | PetAmzStore](https://petamzstore.com/products/auto-double-dog-leash): Walk two dogs with ease using this Automatic Double Dog Leash – Telescopic with Light. Designed with convenience and control in mind, it features a retractable...
-  Updated: 2026-04-14T13:13:10Z
+  Updated: 2026-04-19T19:18:10Z
   Vendor: PetAmzStore
   Product Type: 
   Availability: Available
@@ -662,7 +662,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/360369954739b2395237c5c137b9.png?v=1774127275
     Price: $63.11 USD
 - [Pet Hair Removal Broom Mop | PetAmzStore](https://petamzstore.com/products/pet-hair-removal-broom-mop): The Pet Hair Removal Broom Mop is the perfect solution for pet owners dealing with fur on carpets and floors. This innovative broom features a unique design...
-  Updated: 2026-04-14T13:13:18Z
+  Updated: 2026-04-19T19:18:15Z
   Vendor: PetAmzStore
   Product Type: 
   Availability: Available
@@ -696,14 +696,14 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/a5bafe694c3084b2a48b4c23c710.png?v=1774127335
     Price: $60.58 USD
 - [Pet Ear Cleaner 50ml | PetAmzStore](https://petamzstore.com/products/pet-ear-cleaner-solution): Keep your furry friend’s ears clean, healthy, and comfortable with this gentle pet ear cleaning solution. Specially formulated for both dogs and cats, it...
-  Updated: 2026-04-14T13:13:09Z
+  Updated: 2026-04-19T19:18:08Z
   Vendor: PetAmzStore
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/70c45adb4816b3e82547b84eb098.jpg?v=1774127245
   Price: $37.62 USD
 - [Nylon Pup Set | PetAmzStore](https://petamzstore.com/products/nylon-pup-set): Discover the perfect blend of comfort and durability with the Nylon Pup Set — a sturdy, stylish collar and lead made for every adventure! 🐾Crafted from...
-  Updated: 2026-04-14T13:13:14Z
+  Updated: 2026-04-19T19:18:13Z
   Vendor: PetAmzStore
   Product Type: 
   Availability: Available
@@ -813,14 +813,14 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/af1dd32041ca9a760273860cd91d.jpg?v=1774127580
     Price: $21.98 USD
 - [Treat Topper Fish Dog Food Topper | Low-Fat Meal Topper | PetAmzStore](https://petamzstore.com/products/treat-topper-fish-dog-food-topper-low-fat-meal-topper-for-pets): Made with 100% human-grade walleye fillets, Farm to Pet's Fish Treat Topper dog food topper enhances the flavor and nutrient profile of any pet food or snack...
-  Updated: 2026-04-14T13:13:09Z
+  Updated: 2026-04-23T16:35:36Z
   Vendor: Farm To Pet
   Product Type: Topper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Farm_to_Pet_Fish_Treat_Toppers_for_Dogs_USA_Made_Dog_Topper_Front.png?v=1774153523
   Price: $15.95 USD
 - [PetHub QR Pet ID Tag – Original Get Me Home Club | PetAmzStore](https://petamzstore.com/products/pethub-qr-pet-id-tag-original-get-me-home-club): Our all-time best seller. The PetHub QR Pet ID Tag – Original Get Me Home Club is our classic design that’s protected thousands of pets and counting.
-  Updated: 2026-04-15T21:36:48Z
+  Updated: 2026-04-22T16:29:19Z
   Vendor: PetHub
   Product Type: Digital Pet ID Tag
   Availability: Available
@@ -832,7 +832,7 @@ and availability are subject to change.
     Availability: Available
     Price: $19.95 USD
 - [PetHub QR Pet ID Tag – Classic Aluminum | PetAmzStore](https://petamzstore.com/products/pethub-qr-pet-id-tag-classic-aluminum): Sometimes simple is best. The PetHub QR Pet ID Tag – Classic Aluminum is our original tag -- and a no-frills, ultra-reliable option. Each tag features a...
-  Updated: 2026-04-14T23:33:26Z
+  Updated: 2026-04-22T15:11:57Z
   Vendor: PetHub
   Product Type: Digital Pet ID Tag
   Availability: Available
@@ -910,7 +910,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/pink_basic_aluminum.png?v=1774153678
     Price: $11.95 USD
 - [Winter Warming Pet Mattress – Non-Slip, Washable | PetAmzStore](https://petamzstore.com/products/winter-warming-pet-mattress-non-slip-washable): Keep your pet warm and comfortable during colder months with this Winter Warming Pet Mattress, thoughtfully designed for both dogs and cats. Crafted with a...
-  Updated: 2026-04-14T13:13:11Z
+  Updated: 2026-04-20T03:15:17Z
   Vendor: DailySale
   Product Type: Pet Supplies
   Availability: Available
@@ -936,7 +936,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/76a54192-a789-4e7d-96c0-788bacfa0c5e.jpg?v=1774153739
     Price: $55.00 USD
 - [Pet Leash - Fiore Black | PetAmzStore](https://petamzstore.com/products/pet-leash-fiore-black): Featuring original Jams World art, this piece shares a colorful expression with our furry friends. A portion of the proceeds benefit the Hawaiian Humane...
-  Updated: 2026-04-14T13:13:08Z
+  Updated: 2026-04-19T19:18:10Z
   Vendor: jamsworld.com
   Product Type: Pet Accessories
   Availability: Available
@@ -950,7 +950,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/dog-leash-2-close_1500x1500_e4f2c32f-1fb1-402f-b18c-3b9251398354.jpg?v=1774154201
     Price: $22.00 USD
 - [No H20 Spray Pet Shampoo | PetAmzStore](https://petamzstore.com/products/no-h20-spray-pet-shampoo): NO H20 Spray Pet Shampoo Saves Time & Stress NO H20 Spray Dog Shampoo Gives You A Clean Dog in 60 Seconds! Sure, your dog needs a real bath occasionally.
-  Updated: 2026-04-14T13:13:18Z
+  Updated: 2026-04-19T19:18:20Z
   Vendor: The Blissful Dog
   Product Type: SPRAY SHAMPOO
   Availability: Available
@@ -972,7 +972,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/NOH20_ALL4_1500.jpg?v=1774154245
     Price: $72.95 USD
 - [4-ALL PETS TOOTHPASTE / GUM CLEANSER | PetAmzStore](https://petamzstore.com/products/4-all-pets-toothpaste-gum-cleanser): ReNewedPet® grooming and health products are Holistic Vet , and each made with only 100% natural, non-gmo, and organic ingredients. We use only the...
-  Updated: 2026-04-14T13:13:16Z
+  Updated: 2026-04-19T19:18:14Z
   Vendor: ReNewedPet
   Product Type: Pet Grooming
   Availability: Available
@@ -1026,7 +1026,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/003_r000_a000_5693452b-26f8-496c-9569-8adac86177c7.png?v=1774154476
     Price: $30.95 USD
 - [Jeffers Magic Spring Undercoat Rake for Pet Grooming | PetAmzStore](https://petamzstore.com/products/jeffers-magic-spring-undercoat-rake-for-pet-grooming): Jeffers Magic Spring Undercoat Rake Ensure a comfortable and more pleasurable grooming experience for your pet with the Jeffers Magic Spring Undercoat Rake.
-  Updated: 2026-04-14T13:13:14Z
+  Updated: 2026-04-23T22:14:27Z
   Vendor: Jeffers
   Product Type: Animal & Pet Supplies > Pet Grooming > Pet Combs & Brushes
   Availability: Available
@@ -1044,14 +1044,14 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/magic-spring-combination-undercoat-rake-uwme-648557.jpg?v=1774154518
     Price: $9.99 USD
 - [Bluestem Coactiv+ Pet Toothpaste for Dogs and Cats, | PetAmzStore](https://petamzstore.com/products/bluestem-coactiv-pet-toothpaste-for-dogs-and-cats-chicken-flavor-2-5-oz): Bluestem Toothpaste for Dogs and Cats with Coactiv+, 2.5 oz Keep your pet’s mouth clean and healthy with Bluestem™ Toothpaste with Coactiv+. Specially...
-  Updated: 2026-04-14T13:13:07Z
+  Updated: 2026-04-21T15:50:05Z
   Vendor: Jeffers
   Product Type: Animal Health & Wellness > Oral Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/bluestem-toothpaste-018dp-fg0508-454055.jpg?v=1774154563
   Price: $14.99 USD
 - [Chicken Chips for Dogs | All-Natural Single-Ingredient | PetAmzStore](https://petamzstore.com/products/chicken-chips-for-dogs-all-natural-single-ingredient-dog-treats): Made in the USA of 100% human-grade chicken, Farm to Pet Chicken Chips are the paw-fect healthy treat for dogs. Packed with protein and essential nutrients and...
-  Updated: 2026-04-16T23:39:56Z
+  Updated: 2026-04-23T23:59:21Z
   Vendor: Farm To Pet
   Product Type: Chip
   Availability: Available
@@ -1065,13 +1065,13 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Farm_to_Pet_Single_Ingredient_Treats_for_Dogs_Chicken_Chips_12oz_Bag_Front.png?v=1774154681
     Price: $29.95 USD
 - [Beef Chips Dog Treats | Single-Ingredient Healthy | PetAmzStore](https://petamzstore.com/products/beef-chips-dog-treats-single-ingredient-healthy-treats-for-dogs): Made in the US from 100% pure, human-grade beef, Farm to Pet Beef Chips are the perfect healthy treat for dogs of any size, age or breed. Packed with protein...
-  Updated: 2026-04-16T22:36:58Z
+  Updated: 2026-04-23T23:23:17Z
   Vendor: Farm To Pet
   Product Type: Chip
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Farm_to_Pet_Healthy_Dog_Snacks_Beef_Chips_4oz_Front.png?v=1774154777
   - [Standard 4oz](https://petamzstore.com/products/beef-chips-dog-treats-single-ingredient-healthy-treats-for-dogs?variant=48188121481455)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Farm_to_Pet_Healthy_Dog_Snacks_Beef_Chips_4oz_Front.png?v=1774154777
     Price: $16.95 USD
   - [Value 12oz](https://petamzstore.com/products/beef-chips-dog-treats-single-ingredient-healthy-treats-for-dogs?variant=48188121514223)
@@ -1079,7 +1079,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Farm_to_Pet_High_Protein_Beef_for_Dogs_Beef_Chips_12oz_front.png?v=1774154777
     Price: $36.95 USD
 - [Turkey Chips for Dogs | All-Natural Single-Ingredient | PetAmzStore](https://petamzstore.com/products/turkey-chips-for-dogs-all-natural-single-ingredient-healthy-dog-treats): Farm to Pet Turkey Chips dog treats are as healthy and nutritious as they are crunchy and delicious! These single-ingredient treats are made of pure...
-  Updated: 2026-04-16T18:26:49Z
+  Updated: 2026-04-23T20:33:27Z
   Vendor: Farm To Pet
   Product Type: Chip
   Availability: Available
@@ -1093,7 +1093,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Farm_to_Pet_Premium_Dog_Treats_Turkey_Chips_12oz_Front.png?v=1774154828
     Price: $32.95 USD
 - [Snack Pack Dog Treat Sampler | PetAmzStore](https://petamzstore.com/products/snack-pack-dog-treat-sampler): Prefer to try our healthy pet treats before diving into a full-size bag? Or perhaps share them with another furry friend? Featuring one six-piece bag each of...
-  Updated: 2026-04-16T23:39:51Z
+  Updated: 2026-04-23T22:04:47Z
   Vendor: Farm To Pet
   Product Type: Snack Pack
   Availability: Available
@@ -1107,7 +1107,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Farm_to_Pet_Heart_Healthy_Dog_Treats_Snack_Pack_Dog_Treat_Sampler_24_pack.png?v=1774154851
     Price: $32.95 USD
 - [Puppy Packs 'n Snacks Dog Treat Starter Pack | | PetAmzStore](https://petamzstore.com/products/puppy-packs-n-snacks-dog-treat-starter-pack-single-ingredient-training-treats): Our single-ingredient healthy dog treats provide the simple, wholesome nutrition puppies need to thrive in every bite! Always all-natural, these dehydrated...
-  Updated: 2026-04-16T02:26:16Z
+  Updated: 2026-04-22T12:19:19Z
   Vendor: Farm To Pet
   Product Type: Bundle
   Availability: Available
@@ -1129,28 +1129,28 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Farm_to_Pet_Fish_Snack_Packs_for_Dogs_Fish_Treat_Puppy_Packs_N_Snacks_Dog_Treat_Starter_Pack_Front.png?v=1774154883
     Price: $21.95 USD
 - [Chicken Crumbles Cat Treats | Single-Ingredient Treats | PetAmzStore](https://petamzstore.com/products/chicken-crumbles-cat-treats-single-ingredient-treats-for-cats): Say hello to your fur baby's favorite healthy cat treat! Farm to Pet Chicken Crumbles cat treats contain just a single ingredient - pure human-grade chicken...
-  Updated: 2026-04-16T21:10:50Z
+  Updated: 2026-04-23T18:19:37Z
   Vendor: Farm To Pet
   Product Type: Crumble
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Farm_to_Pet__Lean_Cat_Snacks_Chicken_Crumbles_Cat_Treats___Front_of_Bag.png?v=1774154915
   Price: $11.95 USD
 - [Pet Cat Rolling Sisal Scratching Post Trapped With 3 | PetAmzStore](https://petamzstore.com/products/pet-cat-rolling-sisal-scratching-post-trapped-with-3-ball-training-novely-toy): Enhance your cat’s playtime and mental stimulation with our Pet Cat Rolling Sisal Scratching Post Trapped With 3 Ball Training Novely Toy. Designed to combine...
-  Updated: 2026-04-14T13:13:10Z
+  Updated: 2026-04-20T21:33:51Z
   Vendor: DailySale
   Product Type: Pet Supplies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/pet-cat-rolling-sisal-scratching-post-trapped-with-3-ball-training-novely-toy-pet-supplies-dailysale-398921.jpg?v=1774155174
-  Price: $22.00 USD
+  Price: $29.00 USD
 - [Chicken & Turkey Dog Food Topper Bundle | PetAmzStore](https://petamzstore.com/products/chicken-turkey-dog-food-topper-bundle): Twice the flavor and nutrition for your fur baby and a healthy savings for you! With our Treat Topper combo duo, you can enhance and add variety to your pet's...
-  Updated: 2026-04-16T16:09:57Z
+  Updated: 2026-04-23T16:47:16Z
   Vendor: Farm To Pet
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Farm_to_Pet___High_Protein_Toppers___Chicken_Turkey_Dog_Food_Treat_Toppers___Front.png?v=1774156940
   Price: $24.95 USD
 - [Lamb Oven Baked Kibble | PetAmzStore](https://petamzstore.com/products/lamb-oven-baked-kibble): For puppies, feed two times the  amount for puppies 2 months to 6 months, and one and a half times the amount for puppies from 6 months to 12 months.
-  Updated: 2026-04-14T13:13:16Z
+  Updated: 2026-04-20T14:49:10Z
   Vendor: The Pet Gourmet®
   Product Type: 
   Availability: Available
@@ -1164,7 +1164,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Untitleddesign-2021-01-12T105448.563.png?v=1774156985
     Price: $76.99 USD
 - [Dog Lick Mats with Suction Cups | PetAmzStore](https://petamzstore.com/products/dog-lick-mats-with-suction-cups): These adorable suction cup lick mats are more than a plate for healthy dog treats! Providing both pet enrichment and slow feeding benefits, SodaPup® lick mats...
-  Updated: 2026-04-16T12:21:20Z
+  Updated: 2026-04-23T19:22:24Z
   Vendor: Farm To Pet
   Product Type: Lick Mat
   Availability: Available
@@ -1186,7 +1186,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Farm_to_Pet_Round_Dog_Lick_Mat_with_Suction_Cups_Green_Camp.png?v=1774157009
     Price: $15.95 USD
 - [4-HAIRLESS PETS PETS REGULAR SHAMPOO | PetAmzStore](https://petamzstore.com/products/4-hairless-pets-pets-regular-shampoo): ReNewedPet® grooming and health products are Holistic Vet , and each made with only 100% natural, non-gmo, and organic ingredients. We use only the...
-  Updated: 2026-04-15T01:27:47Z
+  Updated: 2026-04-22T20:40:17Z
   Vendor: ReNewedPet
   Product Type: 4 Nudie Pets
   Availability: Available
@@ -1208,7 +1208,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Regularshampoo64oz_100a9cf0-a7e2-47b8-baa6-8a388be97309.png?v=1774157033
     Price: $199.95 USD
 - [4-ALL PETS EAR CLEANING DROPS | PetAmzStore](https://petamzstore.com/products/4-all-pets-ear-cleaning-drops): ReNewedPet® grooming and health products are Holistic Vet , and each made with only 100% natural, non-gmo, and organic ingredients. We use only the...
-  Updated: 2026-04-14T13:13:11Z
+  Updated: 2026-04-21T02:54:47Z
   Vendor: ReNewedPet
   Product Type: Pet Grooming
   Availability: Available
@@ -1246,7 +1246,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/EAR64OZ.WITHPADS.png?v=1774157063
     Price: $219.95 USD
 - [Jeffers Chicken Jerky Healthy Dog Treats, 24 oz - 100% | PetAmzStore](https://petamzstore.com/products/jeffers-chicken-jerky-healthy-dog-treats-24-oz-100-natural-grain-free-gluten-free-made-in-usa): Jeffers Chicken Jerky Dog Treats, 24 oz Give your dog a wholesome, flavorful reward with Jeffers Pet Chicken Jerky Dog Treats. Made in the USA from 100%...
-  Updated: 2026-04-16T16:15:37Z
+  Updated: 2026-04-23T18:14:58Z
   Vendor: Jeffers
   Product Type: Dog Supplies > Dog Treats > Jerky & Sausages
   Availability: Available
@@ -1260,7 +1260,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/jeffers-chicken-jerky-healthy-dog-treats-24-oz-100-natural-grain-free-gluten-free-made-in-usa-jef2rj-2-6341114.jpg?v=1774157098
     Price: $39.99 USD
 - [4-FURRY PETS 2-IN-1 *REGULAR SHAMPOO & CONDITIONER | PetAmzStore](https://petamzstore.com/products/4-furry-pets-2-in-1-regular-shampoo-conditioner): ReNewedPet® grooming and health products are Holistic Vet , and each made with only 100% natural, non-gmo, and organic ingredients. We use only the...
-  Updated: 2026-04-14T13:13:12Z
+  Updated: 2026-04-22T22:38:07Z
   Vendor: ReNewedPet
   Product Type: 4 Furry Friends
   Availability: Available
@@ -1286,14 +1286,14 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/RegularShampoo64oz.png?v=1774157144
     Price: $145.95 USD
 - [Oven Baked Kibble Sampler Pack | PetAmzStore](https://petamzstore.com/products/oven-baked-kibble-sampler-pack): Wondering if your dog will love our Oven Baked Kibble? Try it out with our sample pack! Includes 1 Lamb and 1 Turkey Sample. For puppies, feed two times the...
-  Updated: 2026-04-14T13:13:17Z
+  Updated: 2026-04-20T23:52:54Z
   Vendor: The Pet Gourmet®
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Untitleddesign-2021-07-15T131130.109.png?v=1774157192
   Price: $2.99 USD
 - [Organic Catnip Fish Cat Toy | Plush Interactive Cat Toy](https://petamzstore.com/products/organic-cat-nip-fish-cat-toy): Organic catnip fish cat toy — soft plush toy filled with organic catnip to drive cats wild. Safe, fun, and irresistible for indoor cats.
-  Updated: 2026-04-14T13:13:12Z
+  Updated: 2026-04-19T19:18:13Z
   Vendor: ReNewedPet
   Product Type: Cat Toy
   Availability: Available
@@ -1307,14 +1307,14 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/PhotoJan262023_10718PM.png?v=1774157333
     Price: $11.95 USD
 - [Mailman Squeaky Chew Dog Toy | Plush Novelty Dog Toy](https://petamzstore.com/products/mailman-squeaky-chew-toy): Mailman squeaky chew dog toy — fun novelty plush toy dogs love to squeak and chew. Soft, durable, and great for interactive play.
-  Updated: 2026-04-14T13:13:10Z
+  Updated: 2026-04-19T19:18:11Z
   Vendor: Dammit Dolls
   Product Type: Dog Toy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/DD-Dog-Toy-Mailman.jpg?v=1774157462
   Price: $12.99 USD
 - [Dog Fetch Balls | PetAmzStore](https://petamzstore.com/products/dog-fetch-balls): Whether your dog is a natural-born retriever or prefers the life of a lap dog, chances are they can't resist a ball toss! Our selection of dog balls from...
-  Updated: 2026-04-14T13:13:13Z
+  Updated: 2026-04-23T19:22:26Z
   Vendor: Farm To Pet
   Product Type: Fetch Ball
   Availability: Available
@@ -1332,7 +1332,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Farm_to_Pet_Dog_Fetch_Ball_Glow-In_Dark_Squeak_Ball___Closeup.png?v=1774157524
     Price: $16.95 USD
 - [WUNDERball Dog Fetch Toy | Best Durable Rubber Fetch Ball for Dogs](https://petamzstore.com/products/wunderball-best-fetch-toy): WUNDERball — the best fetch toy for dogs. Durable rubber construction, unpredictable bounce for endless outdoor fun. Great for all dog sizes.
-  Updated: 2026-04-16T23:04:45Z
+  Updated: 2026-04-23T19:37:26Z
   Vendor: WACKYstore
   Product Type: Dog Toy
   Availability: Available
@@ -1342,7 +1342,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/1294654_PT2.png?v=1774157619
     Price: $18.99 USD
   - [(XL) Over 80 lbs. / Orange](https://petamzstore.com/products/wunderball-best-fetch-toy?variant=48188165980399)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/1294654_PT4.png?v=1774157618
     Price: $18.99 USD
   - [(XL) Over 80 lbs. / Green](https://petamzstore.com/products/wunderball-best-fetch-toy?variant=48188166013167)
@@ -1358,7 +1358,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/1294654_PT6.png?v=1774157619
     Price: $18.99 USD
   - [(LARGE) up to 80 lbs. / Swirl](https://petamzstore.com/products/wunderball-best-fetch-toy?variant=48188166111471)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/123096_PT2.png?v=1774157618
     Price: $16.99 USD
   - [(LARGE) up to 80 lbs. / Orange](https://petamzstore.com/products/wunderball-best-fetch-toy?variant=48188166144239)
@@ -1378,11 +1378,11 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/123096_PT6.png?v=1774157619
     Price: $16.99 USD
   - [(MEDIUM) up to 40 lbs. / Swirl](https://petamzstore.com/products/wunderball-best-fetch-toy?variant=48188166275311)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/123095_PT2.png?v=1774157619
     Price: $14.99 USD
   - [(MEDIUM) up to 40 lbs. / Orange](https://petamzstore.com/products/wunderball-best-fetch-toy?variant=48188166308079)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/123095_PT5_d9a18d9e-44ae-42fe-9db1-e546fd744901.png?v=1774157619
     Price: $14.99 USD
   - [(MEDIUM) up to 40 lbs. / Green](https://petamzstore.com/products/wunderball-best-fetch-toy?variant=48188166340847)
@@ -1390,7 +1390,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/123095_PT3.png?v=1774157619
     Price: $14.99 USD
   - [(MEDIUM) up to 40 lbs. / Pink](https://petamzstore.com/products/wunderball-best-fetch-toy?variant=48188166373615)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/123095_PT4.png?v=1774157619
     Price: $14.99 USD
   - [(MEDIUM) up to 40 lbs. / Purple](https://petamzstore.com/products/wunderball-best-fetch-toy?variant=48188166406383)
@@ -1406,7 +1406,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/123094_PT5.png?v=1774157619
     Price: $12.99 USD
   - [(SMALL) up to 15 lbs. / Green](https://petamzstore.com/products/wunderball-best-fetch-toy?variant=48188166504687)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/123094_PT3_2da18c0e-c7fe-489f-b53f-9181e32cdb89.png?v=1774157619
     Price: $12.99 USD
   - [(SMALL) up to 15 lbs. / Pink](https://petamzstore.com/products/wunderball-best-fetch-toy?variant=48188166537455)
@@ -1418,49 +1418,49 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/123094_PT6.png?v=1774157618
     Price: $12.99 USD
 - [1 Jumbo Biscuit- Peanut Butter & Honey | PetAmzStore](https://petamzstore.com/products/1-jumbo-biscuit-peanut-butter-honey): 1 Jumbo biscuit. Great for a special treat! Ingredients: Whole wheat flour, Wheat germ, Egg, Water, Peanut Butter, Peanuts, and Honey 100% Natural, Limited...
-  Updated: 2026-04-14T13:13:08Z
+  Updated: 2026-04-19T19:18:11Z
   Vendor: Dogalicious Dog Treats, LLC
   Product Type: Biscuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Jumbo.jpg?v=1774182690
   Price: $4.00 USD
 - [Piccardmeds4pets Rawhide Dental Chews for Medium Dogs | PetAmzStore](https://petamzstore.com/products/piccardmeds4pets-rawhide-dental-chews-for-medium-dogs-11-25lbs-poultry-flavor-free-bandana): Give Your Dog the Dental Care They Deserve - And They'll Love Every Bite! 🦴 Why Our Dental Chews Work: • Deep cleaning action reaches between teeth • Freshens...
-  Updated: 2026-04-14T13:13:17Z
+  Updated: 2026-04-19T19:18:10Z
   Vendor: Paw and Tail Supply
   Product Type: Pet Supplies › Dogs › Treats › Rawhide › Chips
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/New_Project_1_84329209-80b1-43ea-b850-630768aab7f3.jpg?v=1774182842
   Price: $19.99 USD
 - [PiccardNaturePets StrongFlex with Hemp Joint Support | PetAmzStore](https://petamzstore.com/products/piccardnaturepets-strongflex-with-hemp-joint-support-for-dogs-60chews-free-bandana): 🌿 Hemp Joint Support with FREE Patriotic Bandana 60 Soft Chews for Aging Dogs + Aria Paws N' Stripes Forever Bandana Support your aging dog's joint health...
-  Updated: 2026-04-14T13:13:10Z
+  Updated: 2026-04-19T19:18:11Z
   Vendor: Paw and Tail Supply
   Product Type: Pet Supplies > Dogs > Health Supplies > Hip & Joint Care > Hip & Joint Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/ChatGPT_Image_Sep_4_2025_11_12_11_PM.png?v=1774182982
   Price: $24.99 USD
 - [PiccardMeds4pets Skin and Coat Omega-3 for Large Dogs | PetAmzStore](https://petamzstore.com/products/piccardmeds4pets-skin-and-coat-omega-3-for-large-dogs-150-soft-chews): PiccardMeds4pets Skin and Coat Omega-3 Soft Chews Large Dogs 150ctOmega-3 Fatty soft chews provide a highly concentrated source of Omega-3 Fatty Acids.
-  Updated: 2026-04-14T13:13:11Z
+  Updated: 2026-04-19T19:18:10Z
   Vendor: Paw and Tail Supply
   Product Type: Pet Supplies › Dogs › Health Supplies › Supplements & Vitamins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/1Picture_dd502c7b-a287-4cca-b529-b0a385603ded.png?v=1774183075
   Price: $51.99 USD
 - [Piccardmeds4pets PureStream Cat Urinary UTI Paw Gel 3 | PetAmzStore](https://petamzstore.com/products/piccardmeds4pets-purestream-cat-urinary-uti-paw-gel-3-oz): PureStream Cat Urinary UTI Paw Gel promotes normal urinary tract function in cats. 3 oz salmon-flavored paw gel with unique application encourages consumption.
-  Updated: 2026-04-14T13:13:17Z
+  Updated: 2026-04-19T19:18:10Z
   Vendor: Paw and Tail Supply
   Product Type: Pet Supplies > Cats > Health Supplies > Supplements & Vitamins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/1ProductPhoto_e5f73b3a-4791-48e6-8262-299391ac2929.png?v=1774183079
   Price: $14.99 USD
 - [Piccardmeds4pets Keto-Itch Plus Antiseptic Mousse for | PetAmzStore](https://petamzstore.com/products/piccardmeds4pets-keto-itch-plus-antiseptic-mousse-for-cats-dogs-7-oz-free-bandana): Professional-Strength Skin Care That Actually Works 🧴 Veterinarian-Formulated Dual Action: • 2% Chlorhexidine fights harmful bacteria • 1% Ketoconazole...
-  Updated: 2026-04-14T13:13:11Z
+  Updated: 2026-04-19T19:18:10Z
   Vendor: Paw and Tail Supply
   Product Type: Pet Supplies > Cat Supplies > Grooming > Shampooing & Washing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/New_Project_2_0f9db24e-9b01-4e2b-a947-342a64f946b3.jpg?v=1774183078
   Price: $21.99 USD
 - [Recycled Fire Hose Dog Fetch Toy | Durable Dog Toy USA](https://petamzstore.com/products/recycled-fire-hose-dog-fetch-toy-regular): Recycled fire hose dog fetch toy — tough, durable, and eco-friendly. Made in the USA from real fire hose material. Perfect for power chewers and fetch lovers.
-  Updated: 2026-04-14T13:13:19Z
+  Updated: 2026-04-21T19:26:48Z
   Vendor: Recycled Firefighter
   Product Type: Dog Toy
   Availability: Available
@@ -1494,14 +1494,14 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Screenshot2026-01-27at12.36.53PM.png?v=1774183412
     Price: $19.00 USD
 - [Peanut Butter Carob Chew 8 Pack | PetAmzStore](https://petamzstore.com/products/peanut-butter-carob-chew-8-pack): Our peanut butter chews are yummy and beneficial for dental health. These chews can be broken into smaller pieces depending on the size of your dog.
-  Updated: 2026-04-16T19:55:27Z
+  Updated: 2026-04-21T19:02:23Z
   Vendor: The Pet Gourmet®
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Untitleddesign_13.png?v=1774183585
   Price: $9.99 USD
 - [Waste Bags - Biodegradable and Compostable | PetAmzStore](https://petamzstore.com/products/waste-bags-biodegradable-and-compostable): Clean Up Responsibly with Our Biodegradable & Compostable Dog Waste Bags 100%  Home Compostable and Biodegradable Dog Waste Bags - ASTM D6400 & EN...
-  Updated: 2026-04-16T23:46:17Z
+  Updated: 2026-04-23T23:58:47Z
   Vendor: Nina Woof
   Product Type: Animals & Pet Supplies
   Availability: Available
@@ -1527,7 +1527,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/waste-bags-biodegradable-and-compostable-496422.jpg?v=1774183679
     Price: $29.99 USD
 - [The Kai- Dog Sneaker | PetAmzStore](https://petamzstore.com/products/the-kai-dog-sneaker): Pairing top-tier safety with unparalleled style through a range of vibrant colors and sleek designs that capture 'canine chic,' these top-rated dog sport shoes...
-  Updated: 2026-04-14T16:39:08Z
+  Updated: 2026-04-22T20:43:57Z
   Vendor: Paws By Kai
   Product Type: 
   Availability: Available
@@ -1581,7 +1581,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Website_Pics.png?v=1774183730
     Price: $65.00 USD
 - [Grenade Dog Waste Bag Dispenser | PetAmzStore](https://petamzstore.com/products/grenade-dog-waste-bag-dispenser): Introducing our Hand Grenade Dog Waste Dispenser – not your average poop-scooping gear! – a 1:1 full-scale boom of functionality and fun! Crafted from a rugged...
-  Updated: 2026-04-14T13:13:14Z
+  Updated: 2026-04-19T19:18:09Z
   Vendor: Bad Dog Gang
   Product Type: Dog Supplies
   Availability: Available
@@ -1595,7 +1595,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/99BCD0E5-ED4F-4A2C-BF69-9193AFAD42D3_cab686eb-a97c-4ceb-8a1c-c9c1aa1c0bbe.jpg?v=1774183821
     Price: $16.49 USD
 - [[Wave] Slow Feeder Dog Bowls - Pink / Beige / Orange | PetAmzStore](https://petamzstore.com/products/wave-slow-feeder-dog-bowls-pink-beige-orange): Detail: Healthy Eating: Encourages slower eating for better digestion Easy-to-Clean Ceramic: Resists bacteria, odors, and is dishwasher safe Safe, Non-Toxic...
-  Updated: 2026-04-14T13:13:15Z
+  Updated: 2026-04-23T16:50:26Z
   Vendor: pehomnyc
   Product Type: 
   Availability: Available
@@ -1649,7 +1649,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/11-1cover-1.jpg?v=1774183922
     Price: $38.79 USD
 - [Jeffers Flat-Sided Stainless Steel Pails with Hook & | PetAmzStore](https://petamzstore.com/products/jeffers-flat-sided-stainless-steel-pails-with-hook-handle): Jeffers Flat-Sided Stainless Steel Hanging Pails – Durable Feeding & Water Buckets for Pets, Livestock, and Farm Use The Jeffers Flat-Sided Stainless Steel...
-  Updated: 2026-04-16T17:13:37Z
+  Updated: 2026-04-22T21:13:26Z
   Vendor: Jeffers
   Product Type: Farm & Ranch Supplies > Farm & Ranch Supplies
   Availability: Available
@@ -1671,7 +1671,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/stainless-steel-flat-sided-pails-g3s4-567741.jpg?v=1774183967
     Price: $12.99 USD
 - [HuggleFleece® Mat Cat & Dog Bed | PetAmzStore](https://petamzstore.com/products/hugglefleece®-mat-cat-dog-bed): ​Introducing the HuggleFleece® Mat—the ultimate blend of comfort, durability, and versatility, designed to support your dog or cat from playful...
-  Updated: 2026-04-16T19:20:26Z
+  Updated: 2026-04-23T06:23:28Z
   Vendor: HuggleHounds
   Product Type: Dog & Cat Bed
   Availability: Available
@@ -1717,21 +1717,21 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/shadowcopy2.png?v=1774184053
     Price: $107.99 USD
 - [Wave eBowl Deep Slow Feeder Dog Bowl for Enrichment | | PetAmzStore](https://petamzstore.com/products/wave-ebowl-deep-slow-feeder-dog-bowl-for-enrichment-made-in-usa): Wave Design eBowl - Slow Feeder Dog Bowl for Healthier Eating Transform mealtime into an enriching experience with the Wave eBowl Slow Feeder Bowl for Dogs.
-  Updated: 2026-04-16T19:53:57Z
+  Updated: 2026-04-22T20:40:17Z
   Vendor: SodaPup/True Dogs, LLC
   Product Type: EBOWL
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/wave_square-Photoroom-Photoroom.png?v=1774184110
   Price: $21.99 USD
 - [Jumping Jack | PetAmzStore](https://petamzstore.com/products/jumping-jack): Unbreakable Design for Aggressive Chewers - Crafted with heavy-duty, industrial-strength rubber, WOOFBITE toys withstand the relentless chewing and playing of...
-  Updated: 2026-04-16T21:38:27Z
+  Updated: 2026-04-23T19:32:56Z
   Vendor: Monster K9 Dog Toys
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/jumping-jack-7629274.png?v=1774184165
   Price: $19.99 USD
 - [1 Dog Nose Butter For All Dogs | PetAmzStore](https://petamzstore.com/products/1-dog-nose-butter-for-all-dogs): 1 Dog Nose Butter For All Dogs
-  Updated: 2026-04-16T22:25:55Z
+  Updated: 2026-04-19T19:18:13Z
   Vendor: The Blissful Dog
   Product Type: NOSE BUTTER®
   Availability: Available
@@ -1773,7 +1773,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/NOSE-BUTTER-ALL-SIZES-MASTER.jpg?v=1774184199
     Price: $18.95 USD
 - [Natural Goat Milk Soap | Dog Shampoo Bar | Big Paw | PetAmzStore](https://petamzstore.com/products/natural-goat-milk-soap-dog-shampoo-bar-big-paw): This handmade goat milk soap is an all-natural sudsy goat milk-based shampoo bar. Big Paw Dog Shampoo Bar leaves your dog's skin and coat healthy while...
-  Updated: 2026-04-15T03:30:16Z
+  Updated: 2026-04-19T19:18:11Z
   Vendor: Fern Valley Soap
   Product Type: Goat Milk Soap
   Availability: Available
@@ -1787,7 +1787,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Big-Paw-Dog-Shampoo-Fern-Valley-Goat-Milk-Soap-1300px_12_5130849d-cb64-4271-b97a-c49554c8c9d8.jpg?v=1774184413
     Price: $6.50 USD
 - [Pup Cup Tumbler Plush Squeaky Dog Toy | Birthday Dog Gift Toy](https://petamzstore.com/products/pup-cup-tumbler-plush-squeaky-dog-toy-ideal-birthday-dog-toy-gift): Pup Cup Tumbler plush squeaky dog toy — adorable novelty toy perfect as a birthday gift for dogs. Soft, squeaky, and irresistibly cute.
-  Updated: 2026-04-16T20:13:47Z
+  Updated: 2026-04-23T22:44:53Z
   Vendor: PUPROAR
   Product Type: Dog Toy
   Availability: Available
@@ -1813,7 +1813,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/ProductPics.png?v=1774184611
     Price: $13.99 USD
 - [Chicken and Salmon Balanced Bowl | PetAmzStore](https://petamzstore.com/products/chicken-and-salmon-balanced-bowl): Raw nutrition. Zero hassle. A crave-worthy mix of cage-free chicken and wild-caught salmon, gently freeze-dried to lock in flavor and nutrients.
-  Updated: 2026-04-14T13:13:11Z
+  Updated: 2026-04-19T19:18:10Z
   Vendor: Spoiled Pets
   Product Type: 
   Availability: Available
@@ -1825,14 +1825,14 @@ and availability are subject to change.
     Availability: Available
     Price: $48.00 USD
 - [BestBy02/26 Hill's Science Diet  Cat Food Chicken | PetAmzStore](https://petamzstore.com/products/bestby02-26-hills-science-diet--cat-food-chicken-brown-rice-6-lb): New - FEATURES Perfect poop in 7 days Promotes regularity and healthy stools Supports ultimate digestive well being and a healthy microbiome Made in the USA...
-  Updated: 2026-04-14T13:13:12Z
+  Updated: 2026-04-21T12:35:17Z
   Vendor:  US
   Product Type: Cat Food
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/open-uri20250713-2861195-1m3ffz4.jpg?v=1774184835
   Price: $15.14 USD
 - [The Original Doggy Bag™ Dog Travel Bag for Supplies | PetAmzStore](https://petamzstore.com/products/the-original-doggy-bag™-dog-travel-bag-for-supplies): 1. THE ULTIMATE DOG TRAVEL ACCESSORY FOR STRESS-FREE ROAD TRIPS – Keep gear accessible with this dog travel bag for supplies featuring pockets, dividers, and a...
-  Updated: 2026-04-16T23:44:59Z
+  Updated: 2026-04-24T00:00:11Z
   Vendor: Rubyloo
   Product Type: Dog Travel Bag for Supplies
   Availability: Available
@@ -1844,15 +1844,15 @@ and availability are subject to change.
   - [Beige](https://petamzstore.com/products/the-original-doggy-bag™-dog-travel-bag-for-supplies?variant=48188623061231)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Rubyloo_Beige_Travel_Bag_Tiktok_Main_Image.jpg?v=1774185211
-    Price: $52.95 USD
+    Price: $54.95 USD
   - [Pink](https://petamzstore.com/products/the-original-doggy-bag™-dog-travel-bag-for-supplies?variant=48188623093999)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Rubyloo_Pink_Travel_Bag_Tiktok_Main_Image.jpg?v=1774185211
-    Price: $48.95 USD
+    Price: $50.95 USD
   - [Paw Print](https://petamzstore.com/products/the-original-doggy-bag™-dog-travel-bag-for-supplies?variant=48188623126767)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Rubyloo_Paw_Print_Travel_Bag_Tiktok_Main_Image.jpg?v=1774185211
-    Price: $52.95 USD
+    Price: $55.95 USD
   - [Navy](https://petamzstore.com/products/the-original-doggy-bag™-dog-travel-bag-for-supplies?variant=48188623159535)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Rubyloo_Navy_Travel_Bag_Tiktok_Main_Image.jpg?v=1774185211
@@ -1864,9 +1864,9 @@ and availability are subject to change.
   - [Camo](https://petamzstore.com/products/the-original-doggy-bag™-dog-travel-bag-for-supplies?variant=48188623225071)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Rubyloo_Camo_Travel_Bag_Tiktok_Main_Image.jpg?v=1774185211
-    Price: $48.95 USD
+    Price: $54.95 USD
 - [4-ALL PETS EAR, NAIL & EYEWASH KIT | PetAmzStore](https://petamzstore.com/products/4-all-pets-ear-nail-eyewash-kit): ReNewedPet® grooming and health products are Holistic Vet , and each made with only 100% natural, non-gmo, and organic ingredients. We use only the...
-  Updated: 2026-04-14T13:13:20Z
+  Updated: 2026-04-19T19:18:21Z
   Vendor: ReNewedPet
   Product Type: Pet Grooming
   Availability: Available
@@ -1936,7 +1936,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/32oz._715cc091-a0ed-4fe9-b872-16a00e7c1bbf.png?v=1774185259
     Price: $568.90 USD
 - [ORGANIC CATNIP / SILVER VINE MIX | PetAmzStore](https://petamzstore.com/products/organic-catnip-silver-vine-mix): ReNewedPet® grooming and health products are Holistic Vet , and each made with only 100% natural, non-gmo, and organic ingredients. We use only the...
-  Updated: 2026-04-14T13:13:09Z
+  Updated: 2026-04-19T19:18:10Z
   Vendor: ReNewedPet
   Product Type: FUN STUFF!
   Availability: Available
@@ -1954,7 +1954,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/2OZCATNIP.png?v=1774185477
     Price: $25.95 USD
 - [Jeffers Softie Padded Leather Halter for Horses | PetAmzStore](https://petamzstore.com/products/jeffers-softie-padded-leather-halter-for-horses): Jeffers Softie Padded Leather Halter The Jeffers Softie Padded Leather Halter combines luxury, comfort, and style for your horse. Crafted from super-soft...
-  Updated: 2026-04-14T13:13:10Z
+  Updated: 2026-04-21T15:50:06Z
   Vendor: Jeffers
   Product Type: Horse Supplies > Horse Tack > Horse Halters
   Availability: Available
@@ -1972,7 +1972,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/jeffers-softie-padded-leather-halter-gag1w7-329056.jpg?v=1774186078
     Price: $44.99 USD
 - [Jeffers Padded Nylon Horse Halter with Throat Snap | PetAmzStore](https://petamzstore.com/products/jeffers-padded-nylon-horse-halter-with-throat-snap): Jeffers Padded Horse Halter with Snap The Jeffers Padded Horse Halter with Snap is designed for durability and enhanced comfort. Made from strong triple-ply...
-  Updated: 2026-04-14T13:13:14Z
+  Updated: 2026-04-21T15:50:06Z
   Vendor: Jeffers
   Product Type: Horse Supplies > Horse Tack > Horse Halters
   Availability: Available
@@ -1998,7 +1998,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/padded-horse-halter-with-snap-by-jeffers-ia6d-210452.jpg?v=1774186097
     Price: $19.99 USD
 - [Jeffers Matching Horse Halter & Lead Rope 2 Piece Set, | PetAmzStore](https://petamzstore.com/products/jeffers-matching-horse-halter-lead-rope-2-piece-set-full-size): Jeffers POPLAR HEAD Fleece-lined Padded Nylon Horse Halter & Lead Matching Set, Full Complete your horse's look with the Poplar Head Full-Size Halters with...
-  Updated: 2026-04-14T20:13:57Z
+  Updated: 2026-04-21T15:50:06Z
   Vendor: Jeffers
   Product Type: Horse Supplies > Horse Tack > Horse Halters
   Availability: Available
@@ -2052,7 +2052,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/jeffers-matching-horse-halter-lead-rope-2-piece-set-full-size-gag1w9-9541662.jpg?v=1774186126
     Price: $29.99 USD
 - [Jeffers Adjustable Nylon Miniature Horse Halter | PetAmzStore](https://petamzstore.com/products/jeffers-adjustable-nylon-miniature-horse-halter): Jeffers Nylon Adjustable Halters for Miniature Horses Crafted for durability and comfort, the Jeffers Nylon Adjustable Halter for Miniature Horses Under 300...
-  Updated: 2026-04-16T21:13:17Z
+  Updated: 2026-04-23T17:13:39Z
   Vendor: Jeffers
   Product Type: Horse Supplies > Horse Tack > Horse Halters
   Availability: Available
@@ -2070,11 +2070,11 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/34-adjustable-nylon-miniature-halter-ssmj-832438.jpg?v=1774186147
     Price: $15.99 USD
   - [Purple / Miniature Horse](https://petamzstore.com/products/jeffers-adjustable-nylon-miniature-horse-halter?variant=48188656255215)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/34-adjustable-nylon-miniature-halter-ssmk-736033.jpg?v=1774186147
     Price: $15.99 USD
 - [Jeffers Elite Fleece Horse Cooler Blanket | PetAmzStore](https://petamzstore.com/products/jeffers-elite-fleece-horse-cooler-blanket): Jeffers Elite Fleece Horse Cooler Blanket The Jeffers Elite Fleece Horse Cooler is designed for superior comfort and versatility. Made from high-quality...
-  Updated: 2026-04-15T18:36:43Z
+  Updated: 2026-04-22T18:13:47Z
   Vendor: Jeffers
   Product Type: Horse Supplies > Horse Blankets & Sheets
   Availability: Available
@@ -2136,21 +2136,21 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/jeffers-elite-fleece-horse-cooler-blanket-gag1tz-4291640.jpg?v=1774186230
     Price: $39.99 USD
 - [Handheld Sulphur and Powder Duster for Chicken Coops & | PetAmzStore](https://petamzstore.com/products/handheld-sulphur-and-powder-duster-for-chicken-coops-crops): Gaun Plastic Sulphur Duster – Powder Dispenser for Poultry and Gardens The Gaun Plastic Sulphur Duster is a versatile and durable tool designed for even and...
-  Updated: 2026-04-15T23:14:31Z
+  Updated: 2026-04-21T15:50:06Z
   Vendor: Jeffers
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/handheld-sulphur-and-powder-duster-for-chicken-coops-crops-gaufd-3199772.jpg?v=1774186386
   Price: $8.99 USD
 - [Piccardmeds4pets Fresh Ferret Aloe and Oats Shampoo 12 | PetAmzStore](https://petamzstore.com/products/piccardmeds4pets-fresh-ferret-aloe-and-oats-shampoo-12-oz-free-bandana): 🦫 Fresh Ferret Aloe & Oats Shampoo + FREE USA Bandana 12oz Hypoallergenic Formula + Blue Bone In The USA Bandana Provide immediate relief for your ferret's...
-  Updated: 2026-04-14T13:13:09Z
+  Updated: 2026-04-19T19:18:12Z
   Vendor: Paw and Tail Supply
   Product Type: Pet Supplies > Small Animal Supplies >  & Grooming
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/New_Project_8_95b31008-48bc-42bb-81b3-5fb012f8727a.jpg?v=1774186490
   Price: $17.99 USD
 - [Professional Pet Nail Clipper Scissors | PetAmzStore](https://petamzstore.com/products/professional-pet-nail-clipper-scissors): Ensure your pet's grooming routine is safe, precise, and hassle-free with our Professional Pet Nail Clipper Scissors. Crafted for pet owners who prioritize...
-  Updated: 2026-04-14T13:13:10Z
+  Updated: 2026-04-20T03:05:27Z
   Vendor: DailySale
   Product Type: Pet Supplies
   Availability: Available
@@ -2164,7 +2164,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/professional-pet-nail-clipper-scissors-pet-supplies-plastic-handle-dailysale-896028.jpg?v=1774187221
     Price: $15.00 USD
 - [Electric Pet Nail Grinder – USB LED Dog & Cat Clipper | PetAmzStore](https://petamzstore.com/products/electric-pet-nail-grinder-usb-led-dog-cat-clipper): Make pet grooming safer and easier with the Electric Pet Nail Grinder – USB Rechargeable LED Dog & Cat Clippers. This advanced electric pet nail grinder is...
-  Updated: 2026-04-14T13:13:13Z
+  Updated: 2026-04-19T19:19:12Z
   Vendor: Econic Blanks
   Product Type: 
   Availability: Available
@@ -2182,13 +2182,13 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Sf22f3a85dce34bf6b279ab12ac28017eK.webp?v=1774187267
     Price: $29.77 USD
 - [Deer Antler Dog Chews | Organic Chews for Dogs | PetAmzStore](https://petamzstore.com/products/deer-antler-dog-chews-organic-chews-for-dogs): Big dog, big dog chew! Available in large and extra-large sizes, Farm to Pet’s organic Whole Deer Antlers for Dogs are intended for the most vigorous and...
-  Updated: 2026-04-16T23:09:46Z
+  Updated: 2026-04-23T22:14:27Z
   Vendor: Farm To Pet
   Product Type: Antler Dog Chew
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Farm_to_Pet___Organic_Antler_Chews___Deer_Antler_Dog_Chews___Deer_Antler_Shed_XL_Hero_Front.png?v=1774191972
   - [Medium (15-35 LBS)](https://petamzstore.com/products/deer-antler-dog-chews-organic-chews-for-dogs?variant=48189264363759)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Farm_to_Pet_Durable_Deer_Antler_Chews_Deer_Antler_Dog_Chews_Deer_Antler_Shed_Medium_Front.png?v=1774191971
     Price: $18.95 USD
   - [Large (35+ LBS)](https://petamzstore.com/products/deer-antler-dog-chews-organic-chews-for-dogs?variant=48189264396527)
@@ -2203,7 +2203,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Farm_to_Pet_Long_Lasting_Deer_Antler_Deer_Antler_Dog_Chews_Deer_Antler_Shed_Giant_Front.png?v=1774191972
     Price: $49.95 USD
 - [Pet Dog Bed Soft Warm Fleece | PetAmzStore](https://petamzstore.com/products/pet-dog-bed-soft-warm-fleece): Ensure your beloved pet enjoys maximum comfort and warmth with our Pet Dog Bed Soft Warm Fleece. Crafted from premium plush materials, this cozy bed features a...
-  Updated: 2026-04-16T22:06:56Z
+  Updated: 2026-04-23T22:07:12Z
   Vendor: DailySale
   Product Type: Pet Supplies
   Availability: Available
@@ -2249,7 +2249,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/pet-dog-bed-soft-warm-fleece-pet-supplies-s-brown-dailysale-297375.jpg?v=1774203283
     Price: $43.00 USD
 - [Pet Hoodie "Game of Bones" | PetAmzStore](https://petamzstore.com/products/pet-hoodie-game-of-bones): Functional and fun, our hoodies for four legged pets, like dogs and cats, help manage common pet problems in fun, Insta-worthy ways! Pet hoodies are a great...
-  Updated: 2026-04-14T13:13:15Z
+  Updated: 2026-04-21T22:38:52Z
   Vendor: As You Wish Apparel
   Product Type: 
   Availability: Available
@@ -2440,7 +2440,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/il_fullxfull.4535540438_i5by.jpg?v=1774203710
     Price: $18.22 USD
 - [Fish Chips for Dogs | Wild-Caught Fish Dog Treats | PetAmzStore](https://petamzstore.com/products/fish-chips-for-dogs-wild-caught-fish-dog-treats): Farm to Pet Fish Chips are packed with the all-natural taste and nutrition of sustainable wild-caught walleye fillets from Lake Erie - and nothing else! Every...
-  Updated: 2026-04-16T21:32:16Z
+  Updated: 2026-04-23T15:59:55Z
   Vendor: Farm To Pet
   Product Type: Chip
   Availability: Available
@@ -2454,7 +2454,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Farm_to_Pet_USA_Made_Dog_Treats_Fish_Chips_12oz_front.png?v=1774203976
     Price: $34.95 USD
 - [Corn on the Cob Dog Toy | Durable Rubber Treat Dispenser USA Made](https://petamzstore.com/products/corn-on-the-cob-dog-toy-durable-rubber-treat-dispenser-usa-made): Corn on the Cob durable rubber treat dispenser dog toy — made in the USA. Keeps dogs entertained while dispensing treats. Great for chewers.
-  Updated: 2026-04-15T16:32:21Z
+  Updated: 2026-04-19T19:19:09Z
   Vendor: SodaPup/True Dogs, LLC
   Product Type: Dog Toy
   Availability: Available
@@ -2468,56 +2468,56 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/sodapup-dog-toys-corn-on-the-cob-treat-dispenser-yellow-17886820302982.jpg?v=1774204032
     Price: $15.99 USD
 - [Canvas & Jute Shoe-Shaped Dog Chew Toy | Safe Non-Toxic Dog Toy](https://petamzstore.com/products/space-panda-plush-dog-toy-with-squeaker-crinkle-paper-for-fun-play): Country Living canvas and jute shoe-shaped dog chew toy — durable, safe, and non-toxic. Fun novelty chew toy for dogs of all sizes.
-  Updated: 2026-04-14T13:13:10Z
+  Updated: 2026-04-19T19:19:09Z
   Vendor: American Pet Supplies
   Product Type: Dog Toy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/space-panda-plush-dog-toy-cosmic-crew-soft-cuddly-dog-toy.jpg?v=1774204377
   Price: $12.99 USD
 - [Space Panda Plush Dog Toy | Squeaky Crinkle Paper Dog Toy](https://petamzstore.com/products/country-living-canvas-jute-shoe-shaped-dog-chew-toy-durable-safe-and-non-toxic): Space Panda plush dog toy with squeaker and crinkle paper — fun, interactive novelty toy for dogs. Soft, durable, and great for playtime.
-  Updated: 2026-04-14T13:13:09Z
+  Updated: 2026-04-19T19:19:08Z
   Vendor: American Pet Supplies
   Product Type: Dog Toy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/country-living-shoe-shaped-canvas-jute-dog-chew-toy.jpg?v=1774204377
   Price: $14.99 USD
 - [Country Living All-in-One 3-Piece Dog Grooming Kit for | PetAmzStore](https://petamzstore.com/products/country-living-all-in-one-3-piece-dog-grooming-kit-for-a-healthy-and-well-groomed-pet): Keep pets looking their best with the Country Living 3-Piece Grooming Set. Designed for ease and efficiency, this kit includes high-quality tools that make...
-  Updated: 2026-04-14T13:13:10Z
+  Updated: 2026-04-23T12:36:56Z
   Vendor: American Pet Supplies
   Product Type: Grooming Kits
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/3-piece-dog-grooming-kit-pet-grooming-tools-for-dogs.jpg?v=1774204378
   Price: $19.99 USD
 - [All-Natural Beef Bully Stick Dog Treats – | PetAmzStore](https://petamzstore.com/products/all-natural-beef-bully-stick-dog-treats-nutrient-rich-and-high-protein-12-inch-standard-4-pack): Give your dog the ultimate chewing experience with our premium 12 Inches Standard Beef Bully Sticks. Made from 100% bull pizzle, these natural, protein-packed...
-  Updated: 2026-04-15T16:52:27Z
+  Updated: 2026-04-22T20:07:19Z
   Vendor: American Pet Supplies
   Product Type: Dog Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/12-inch-beef-bully-stick-dog-treats-natural-single-ingredient-chews-4-pack.jpg?v=1774204377
   Price: $27.99 USD
 - [Country Living 4” x 4” Beef Cheek Chip Dog Treats – | PetAmzStore](https://petamzstore.com/products/country-living-4-x-4-beef-cheek-chip-dog-treats-chicken-flavor-5-count-bag-all-natural-high-protein-long-lasting-dog-chews): Treat your dog to an irresistibly crunchy, natural chew with Country Living 4” x 4” Beef Cheek Chip Dog Treats — Chicken Flavor. Made from 100% natural beef...
-  Updated: 2026-04-14T15:20:43Z
+  Updated: 2026-04-19T19:19:07Z
   Vendor: American Pet Supplies
   Product Type: Dog Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/country-living-beef-cheek-chips-4x4-chicken-flavor-5-count.jpg?v=1774204377
   Price: $16.99 USD
 - [Country Living 4”-7” Beef Backstrap Tendon Dog Chews – | PetAmzStore](https://petamzstore.com/products/country-living-4-7-beef-backstrap-tendon-dog-chews-5-count-bag-all-natural-long-lasting-high-protein-dog-treats-single-ingredient-grain-free): Reward your dog with the naturally satisfying chew they crave — Country Living Beef Backstrap Tendon Dog Chews. Made from 100% premium beef tendons, these...
-  Updated: 2026-04-14T15:23:27Z
+  Updated: 2026-04-19T19:19:07Z
   Vendor: American Pet Supplies
   Product Type: Dog Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/country-living-beef-backstrap-tendon-5-count.jpg?v=1774204377
   Price: $16.99 USD
 - [Country Living 5”-6” Beef Center Cut Bones for Dogs – 5 | PetAmzStore](https://petamzstore.com/products/country-living-5-6-beef-center-cut-bones-for-dogs-5-count-bag-all-natural-long-lasting-dog-chews-single-ingredient-high-protein-rawhide-free-supports-dental-health): Give your dog the pure satisfaction of natural chewing with Country Living 5”-6” Beef Center Cut Bones. Made from 100% real beef bones, these durable chews...
-  Updated: 2026-04-14T21:22:06Z
+  Updated: 2026-04-19T19:19:08Z
   Vendor: American Pet Supplies
   Product Type: Dog Treats
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/country-living-beef-center-cut-bones-5-count.jpg?v=1774204378
   Price: $24.99 USD
 - [Deep Dog Bowl – Stainless Steel Bowl, Ideal for Small, | PetAmzStore](https://petamzstore.com/products/deep-dog-bowl-stainless-steel-bowl-ideal-for-small-medium-large-dogs-peach-coral): Enhance your pet’s mealtime with the luxurious and hygienic Deep Dog Bowl in Peach Coral, featuring a stylish design that combines durability and functionality.
-  Updated: 2026-04-14T13:13:16Z
+  Updated: 2026-04-19T19:19:11Z
   Vendor: American Pet Supplies
   Product Type: Deep Bowls
   Availability: Available
@@ -2531,42 +2531,42 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/eco-friendly-stainless-steel-deep-dog-bowl-peach-coral.jpg?v=1774204378
     Price: $11.99 USD
 - [Beers-Cheers Plush Dog Toy Gift Set | Squeaky Novelty Dog Toys](https://petamzstore.com/products/beers-cheers-plush-dog-toy-gift-set-with-squeaker-crinkle-paper-for-fun-play): Beers-Cheers plush dog toy gift set with squeaker and crinkle paper — fun novelty toys for dogs who love to play. Great gift for dog lovers.
-  Updated: 2026-04-14T13:13:22Z
+  Updated: 2026-04-19T19:19:07Z
   Vendor: American Pet Supplies
   Product Type: Dog Toy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/beer-cheers-crinkle-squeaky-plush-dog-toy-gift-set.jpg?v=1774204378
   Price: $21.99 USD
 - [Country Living 4”-5” Beef Flavored Chicken Sausage Dog | PetAmzStore](https://petamzstore.com/products/country-living-4-5-beef-flavored-chicken-sausage-dog-treats-15-count-bag-soft-chewy-high-protein-training-reward-treats-grain-free-no-artificial-flavors-or-preservatives): Treat your dog to the savory, satisfying taste of Country Living 4”-5” Beef Flavored Chicken Sausage Dog Treats. Crafted from real chicken and natural beef...
-  Updated: 2026-04-14T15:20:57Z
+  Updated: 2026-04-19T19:19:07Z
   Vendor: American Pet Supplies
   Product Type: Dog Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/country-living-chicken-sausage-dog-treats-soft-chewy.jpg?v=1774204377
   Price: $16.99 USD
 - [Country Living Foldable Fabric Dog Toy Storage Bin - | PetAmzStore](https://petamzstore.com/products/country-living-foldable-fabric-dog-toy-storage-bin-convenient-organizer-for-pet-accessories): Keep your home tidy with the Collapsible Fabric Pet Toy Storage Basket, designed for both function and style. This durable fabric basket offers a spacious...
-  Updated: 2026-04-16T20:37:28Z
+  Updated: 2026-04-21T20:07:38Z
   Vendor: American Pet Supplies
   Product Type: Containers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/country-living-foldable-fabric-dog-toy-storage-bin-pet-toy-organizer.jpg?v=1774204378
   Price: $19.99 USD
 - [All-Natural Beef Bully Stick Dog Treats, Single | PetAmzStore](https://petamzstore.com/products/all-natural-beef-bully-stick-dog-treats-single-ingredient-dog-chews-12-inch-jumbo-2-pack): Give your dog the ultimate chewing experience with our premium 12-Inches Jumbo Beef Bully Sticks (2-Pack). Sourced from 100% grass-fed beef and made from...
-  Updated: 2026-04-14T13:13:07Z
+  Updated: 2026-04-22T05:07:37Z
   Vendor: American Pet Supplies
   Product Type: Dog Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/12-inch-jumbo-beef-bully-sticks-2-per-bag.jpg?v=1774204378
   Price: $29.99 USD
 - [Country Living 4”-6” Beef Lung Slices Dog Treats – 8oz | PetAmzStore](https://petamzstore.com/products/country-living-4-6-beef-lung-slices-dog-treats-8oz-bag-100-natural-single-ingredient-high-protein-grain-free-dog-treats-crunchy-lightweight): Give your dog a naturally delicious treat with Country Living 4”-6” Beef Lung Slices Dog Treats. Made from 100% real beef lung, these single-ingredient treats...
-  Updated: 2026-04-16T17:22:37Z
+  Updated: 2026-04-23T18:21:57Z
   Vendor: American Pet Supplies
   Product Type: Dog Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/beef-lung-slices-dog-treats-4-6-inch.jpg?v=1774204378
   Price: $16.99 USD
 - [Country Living Stainless Steel Dog Bowl with | PetAmzStore](https://petamzstore.com/products/country-living-stainless-steel-dog-bowl-with-cylindrical-mango-wood-holder): Enhance your pet’s mealtime with this premium stainless steel dog bowl with cylindrical mango wood holder. Combining natural aesthetics with long-lasting...
-  Updated: 2026-04-16T15:52:16Z
+  Updated: 2026-04-22T17:37:07Z
   Vendor: American Pet Supplies
   Product Type: Mangowood Bowls
   Availability: Available
@@ -2584,35 +2584,35 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/country_living_stainless-steel-dog-bowl-mango-wood-holder.jpg?v=1774204378
     Price: $24.99 USD
 - [Avocado & Banana Plush Dog Toy Gift Set | Squeaky Crinkle Dog Toys](https://petamzstore.com/products/avocado-banana-plush-dog-toy-gift-set-with-squeaker-crinkle-paper-for-fun-play): Avocado and banana plush dog toy gift set with squeaker and crinkle paper — fun, colorful toys perfect as a gift for dogs who love to play.
-  Updated: 2026-04-14T13:13:12Z
+  Updated: 2026-04-22T17:07:38Z
   Vendor: American Pet Supplies
   Product Type: Dog Toy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/avocado-banana-plush-dog-toy-gift-set-playful-dog-toys.jpg?v=1774204378
   Price: $21.99 USD
 - [Country Living Retro Army Jeep Plush Dog Toy | Squeaky Crinkle Dog Toy](https://petamzstore.com/products/country-living-retro-army-jeep-with-squeaker-crinkle-paper-plush-dog-toy): Country Living retro army jeep plush dog toy with squeaker and crinkle paper — fun novelty toy for dogs. Soft, durable, and great for interactive play.
-  Updated: 2026-04-15T21:52:18Z
+  Updated: 2026-04-19T19:19:07Z
   Vendor: American Pet Supplies
   Product Type: Dog Toy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/retro-army-jeep-plush-dog-toy.jpg?v=1774204378
   Price: $12.99 USD
 - [Triple Headed Dog Toothbrush with All-Natural | PetAmzStore](https://petamzstore.com/products/triple-headed-dog-toothbrush-with-all-natural-toothpaste-kit-2-piece-kit): Revamp your pet’s oral care routine with our 2-Piece Dental Kit, featuring a Triple-Headed Dog Toothbrush and all-natural toothpaste. Designed for effortless...
-  Updated: 2026-04-14T13:13:12Z
+  Updated: 2026-04-21T12:07:27Z
   Vendor: American Pet Supplies
   Product Type: Grooming Kits
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/triple-headed-dog-toothbrush-toothpaste-kit-2-piece.jpg?v=1774204377
   Price: $12.99 USD
 - [Dr. Theo's Dog Shampoo – Oatmeal, Cucumber & Aloe (16 | PetAmzStore](https://petamzstore.com/products/dr-theos-dog-shampoo-oatmeal-cucumber-aloe-16-oz): Give your dog a refreshing, nourishing bath with Dr. Theo's Dog Shampoo, formulated to support a healthy, shiny coat while providing gentle care for your pet’s...
-  Updated: 2026-04-14T13:13:21Z
+  Updated: 2026-04-19T19:19:09Z
   Vendor: American Pet Supplies
   Product Type: Grooming Supplies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/dr-theos-dog-shampoo-oatmeal-cucumber-aloe-16oz.jpg?v=1774204377
   Price: $14.99 USD
 - [UBAVET UBACALM Calming Soft Chews for Dogs & Cats – | PetAmzStore](https://petamzstore.com/products/ubavet-ubacalm-calming-soft-chews-for-dogs-cats-natural-stress-anxiety-relief): Help your pets stay calm, focused, and happy — naturally — with UBACALM Calming Soft Chews. These beef-flavored chews provide gentle, non-sedative relief from...
-  Updated: 2026-04-14T13:13:10Z
+  Updated: 2026-04-22T22:07:26Z
   Vendor: American Pet Supplies
   Product Type: Dog Chews
   Availability: Available
@@ -2624,14 +2624,14 @@ and availability are subject to change.
     Availability: Available
     Price: $31.99 USD
 - [Country Living Dehydrated Chicken Hearts & Livers Dog | PetAmzStore](https://petamzstore.com/products/country-living-dehydrated-chicken-hearts-livers-dog-treats-9oz-bag-100-natural-high-protein-single-ingredient-grain-free-healthy-training-reward-treats-no-preservatives-or-additives): Reward your dog with a treat that’s as pure and simple as it gets — Country Living Dehydrated Chicken Hearts & Livers Dog Treats. Each crunchy bite is made...
-  Updated: 2026-04-14T15:40:12Z
+  Updated: 2026-04-23T22:08:26Z
   Vendor: American Pet Supplies
   Product Type: Dog Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/dehydrated-chicken-hearts-liver-dog-treats-country-living.jpg?v=1774204377
   Price: $16.99 USD
 - [Country Living Nylon Chew Bone Dog Toy | Chicken Flavored Heavy Chewer Toy](https://petamzstore.com/products/country-living-nylon-chew-bone-toy-for-dogs-chicken-flavored-ideal-for-heavy-chewers): Country Living nylon chew bone dog toy in chicken flavor — ideal for heavy chewers. Durable nylon construction that lasts longer than rawhide.
-  Updated: 2026-04-14T13:13:12Z
+  Updated: 2026-04-19T19:19:09Z
   Vendor: American Pet Supplies
   Product Type: Dog Toy
   Availability: Available
@@ -2645,7 +2645,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/country-living-nylon-dog-bone-chew-toy-chicken-flavor.jpg?v=1774204379
     Price: $12.99 USD
 - [Country Living Set of 2 Hammered Stainless Steel Dog | PetAmzStore](https://petamzstore.com/products/country-living-set-of-2-hammered-stainless-steel-dog-bowls-lavender): Enhance your pet’s dining experience with our Hammered Stainless Steel Dog Bowls in a Lavender finish, designed for pet owners who appreciate both style and...
-  Updated: 2026-04-14T13:13:11Z
+  Updated: 2026-04-19T19:19:08Z
   Vendor: American Pet Supplies
   Product Type: Bowl
   Availability: Available
@@ -2659,7 +2659,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/country-living-hammered-stainless-steel-dog-bowl-lavender-3.jpg?v=1774204378
     Price: $27.99 USD
 - [Country Living Set of 2 Ribbed Non-Slip Pet Bowls – | PetAmzStore](https://petamzstore.com/products/country-living-set-of-2-ribbed-non-slip-pet-bowls-poseidon-blue): Introducing our Ribbed Non-Slip Pet Bowls, where style meets functionality. Crafted from stainless steel with a high-gloss, powder-coated exterior, these bowls...
-  Updated: 2026-04-16T18:08:56Z
+  Updated: 2026-04-19T22:07:26Z
   Vendor: American Pet Supplies
   Product Type: Ribbed Bowls
   Availability: Available
@@ -2685,7 +2685,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/blue-nonslip-cat-dog-bowl.jpg?v=1774204378
     Price: $29.99 USD
 - [Country Living Set of 2 Ribbed Non-Slip Pet Bowls – | PetAmzStore](https://petamzstore.com/products/country-living-set-of-2-ribbed-non-slip-pet-bowls-carnation-pink): Introducing our Ribbed Non-Slip Pet Bowls, where style meets functionality. Crafted from stainless steel with a high-gloss, powder-coated exterior, these bowls...
-  Updated: 2026-04-14T21:52:28Z
+  Updated: 2026-04-23T14:37:09Z
   Vendor: American Pet Supplies
   Product Type: Ribbed Bowls
   Availability: Available
@@ -2711,21 +2711,21 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/pink-eco-friendly-non-skid-pet-bowl.jpg?v=1774204378
     Price: $29.99 USD
 - [Country Living 6” Gullet Flats Dog Treats – 20 Count | PetAmzStore](https://petamzstore.com/products/country-living-6-gullet-flats-dog-treats-20-count-bag-all-natural-beef-esophagus-chews-high-protein-easily-digestible-single-ingredient-dog-treats-grain-free-long-lasting): Treat your dog to pure, natural chewing satisfaction with Country Living 6” Gullet Flats Dog Treats. Made from 100% premium beef esophagus, these...
-  Updated: 2026-04-14T19:37:47Z
+  Updated: 2026-04-22T20:59:02Z
   Vendor: American Pet Supplies
   Product Type: Dog Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/natural-beef-esophagus-chews.jpg?v=1774204378
   Price: $19.99 USD
 - [Country Living Natural Cow Ears Dog Chews – 10 Count | PetAmzStore](https://petamzstore.com/products/country-living-natural-cow-ears-dog-chews-10-count-bag-all-natural-single-ingredient-long-lasting-dog-chews-high-protein-low-fat-rawhide-free-supports-dental-health): Treat your dog to the pure, wholesome satisfaction of Country Living Natural Cow Ears Dog Chews. Made from 100% natural cow ears, these durable chews provide a...
-  Updated: 2026-04-14T15:59:49Z
+  Updated: 2026-04-23T21:07:06Z
   Vendor: American Pet Supplies
   Product Type: Dog Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/country-living-cow-ears-for-dogs-10-count.jpg?v=1774204378
   Price: $19.99 USD
 - [Country Living Set of 2 Stainless Steel Dog Bowls – | PetAmzStore](https://petamzstore.com/products/country-living-set-of-2-stainless-steel-dog-bowls-farmhouse-style-ideal-for-small-to-medium-dogs): Step up your pet’s mealtime with the Stainless Steel Farmhouse Dog Bowl, combining rustic charm with modern durability. Crafted from high-quality stainless...
-  Updated: 2026-04-14T13:13:22Z
+  Updated: 2026-04-21T13:07:58Z
   Vendor: American Pet Supplies
   Product Type: Bowl
   Availability: Available
@@ -2759,49 +2759,49 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/country-living-eco-friendly-stainless-steel-farmhouse-dog-bowl-dark-green.jpg?v=1774204378
     Price: $29.99 USD
 - ['Neutral Palm' Cardboard Cat Pyramid | PetAmzStore](https://petamzstore.com/products/neutral-palm-cardboard-cat-pyramid): Kitty Kardboard® cat pyramids are a modern and stylish alternative to the the dirty Amazon box on every cat owner's floor. Featuring a super sleek structure...
-  Updated: 2026-04-14T13:13:16Z
+  Updated: 2026-04-19T19:19:12Z
   Vendor: KittyKardboard
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Elvis-NeutralPalm.png?v=1774204544
   Price: $35.00 USD
 - ['Dark Paradise' Cardboard Cat Pyramid | PetAmzStore](https://petamzstore.com/products/dark-paradise-cardboard-cat-pyramid): Kitty Kardboard® cat pyramids are a modern and stylish alternative to the the dirty Amazon box on every cat owner's floor. Featuring a super sleek structure...
-  Updated: 2026-04-14T13:13:14Z
+  Updated: 2026-04-19T19:19:06Z
   Vendor: KittyKardboard
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/modern-cat-house-leaves.jpg?v=1774204544
   Price: $35.00 USD
 - ['Rose Quartz' Cardboard Cat Pyramid | PetAmzStore](https://petamzstore.com/products/rose-quartz-cardboard-cat-pyramid): Kitty Kardboard® cat pyramids are a modern and stylish alternative to the the dirty Amazon box on every cat owner's floor. Featuring a super sleek structure...
-  Updated: 2026-04-14T13:13:10Z
+  Updated: 2026-04-19T19:19:09Z
   Vendor: KittyKardboard
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/cat-luxury-bed-pink.jpg?v=1774204549
   Price: $35.00 USD
 - [Single Ingredient, High Value Freeze-Dried Training | PetAmzStore](https://petamzstore.com/products/single-ingredient-high-value-freeze-dried-training-treats-for-dogs-cats-beef-liver): Description:Elevate snack time with Bussin’ Bites Beefin’ It Up, our single-ingredient freeze-dried beef treats. High-protein, grain-free, and delicious, these...
-  Updated: 2026-04-14T13:13:11Z
+  Updated: 2026-04-19T19:19:11Z
   Vendor: The Dog Bodega
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/1e19bd3b79cb47c1a304d015efd63912_tplv-omjb5zjo8w-origin-jpeg.jpg?v=1774204588
   Price: $11.00 USD
 - [Single Ingredient, High Value Freeze-Dried Training | PetAmzStore](https://petamzstore.com/products/single-ingredient-high-value-freeze-dried-training-treats-for-dogs-cats-salmon): Description:Give your pets a taste of the sea with Bussin’ Bites Salmon Treats, single-ingredient, freeze-dried salmon. Rich in protein these treats are...
-  Updated: 2026-04-14T13:13:09Z
+  Updated: 2026-04-19T19:19:08Z
   Vendor: The Dog Bodega
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/B8B4FE9D-2DB8-49FE-A20A-6BE95DA5A5B3.jpg?v=1774204587
   Price: $11.00 USD
 - [The Modern Dog Co. - Limoncello Lick Mat | PetAmzStore](https://petamzstore.com/products/the-modern-dog-co-limoncello-lick-mat): Our NEW Limoncello lick mat was designed after our founder came back from her honeymoon in Italy and wanted to portray the beauty and her favorite pieces from...
-  Updated: 2026-04-14T13:13:15Z
+  Updated: 2026-04-19T19:19:10Z
   Vendor: The Modern Dog Company Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/MDecom-1.jpg?v=1774204640
   Price: $20.00 USD
 - [Yeehaw Dog Harness | Modern Dog Company Western Style Pet Harness](https://petamzstore.com/products/the-modern-dog-company-yeehaw-harness): The Modern Dog Company Yeehaw harness — western-inspired novelty dog harness with a bold, fun design. Durable nylon, adjustable fit for all dogs.
-  Updated: 2026-04-14T13:13:21Z
+  Updated: 2026-04-19T19:19:15Z
   Vendor: The Modern Dog Company Store
   Product Type: Dog Harness
   Availability: Available
@@ -2819,77 +2819,77 @@ and availability are subject to change.
     Availability: Available
     Price: $34.99 USD
 - [The Modern Dog Company - Royal Blue Poop Bag Holder | PetAmzStore](https://petamzstore.com/products/the-modern-dog-company-royal-blue-poop-bag-holder): Details: Holds 1 roll of waste bags Light-weight neoprene material Easy to clip on any leash Back to Basics Collection
-  Updated: 2026-04-14T13:13:08Z
+  Updated: 2026-04-21T22:53:16Z
   Vendor: The Modern Dog Company Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/image_793d8416-bb73-4acc-a948-e3b7b7c5c837.jpg?v=1774204644
   Price: $12.99 USD
 - [The Modern Dog Co. - Disco Cowgirl Lick Mat | PetAmzStore](https://petamzstore.com/products/the-modern-dog-co-disco-cowgirl-lick-mat): Our Disco Cowgirl lick mat was designed as an ode to Nashville and all the martini drinking, disco dancing, boot wearing cowgirls that run around this city.
-  Updated: 2026-04-14T13:13:15Z
+  Updated: 2026-04-19T19:19:09Z
   Vendor: The Modern Dog Company Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/image_1d575295-c5fc-4326-bb20-6cc6495a598f.jpg?v=1774204646
   Price: $20.00 USD
 - [Snarky Bark Cookie Turkey Wild Blueberry | PetAmzStore](https://petamzstore.com/products/snarky-bark-cookie-turkey-wild-blueberry): Made with pasture-raised, skinless, boneless turkey breast and wild, organic blueberries, these exquisite treats blend nutritious, organic, whole food...
-  Updated: 2026-04-14T13:13:12Z
+  Updated: 2026-04-22T18:16:47Z
   Vendor: Deer Valley Danes
   Product Type: Pet Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/SnarkyBarkTurkeyWildBlueberry1_c9a2909f-34a0-4257-b27f-11296a968096.png?v=1774204886
   Price: $15.00 USD
 - [Snarky Bark Sweet Potato Pork Cookie Treats | PetAmzStore](https://petamzstore.com/products/snarky-bark-sweet-potato-pork-cookie-treats): Made with locally harvested, pesticide-free sweet potatoes and pork from grass-fed, pasture-raised pigs, these whole foods treats blend quality ingredients to...
-  Updated: 2026-04-14T13:13:08Z
+  Updated: 2026-04-22T18:16:19Z
   Vendor: Deer Valley Danes
   Product Type: Pet Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/SBCookieSweetPotatoPork.png?v=1774204875
   Price: $15.00 USD
 - [Snarky Bark Salmon Flax Kelp Cookie Treats | PetAmzStore](https://petamzstore.com/products/snarky-bark-salmon-flax-kelp-cookie-treats): Prepared with Oma's Pride Ground Salmon and enriched with organic, nutrient-rich sea kelp and flax, these elegant treats combine whole foods ingredients to...
-  Updated: 2026-04-14T13:13:13Z
+  Updated: 2026-04-22T18:56:29Z
   Vendor: Deer Valley Danes
   Product Type: Pet Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/IMG_0154.png?v=1774204880
   Price: $15.00 USD
 - [Snarky Bark Beef Liver Jerky | PetAmzStore](https://petamzstore.com/products/snarky-bark-beef-liver-jerky): Expertly hand-cut and made from select grass-fed and finished beef, these high value treats offer a reward your pet will love. Single ingredient, human grade...
-  Updated: 2026-04-16T19:53:46Z
+  Updated: 2026-04-19T19:19:14Z
   Vendor: Deer Valley Danes
   Product Type: Pet Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/SBJerkyBeefLiver.png?v=1774204876
   Price: $15.00 USD
 - [Snarky Bark Beef Cookie Treats | PetAmzStore](https://petamzstore.com/products/snarky-bark-beef-cookie-treats): Crafted from grass-fed and finished beef, these premium treats blend nourishing organic ingredients into a high value treat your pet will truly appreciate.
-  Updated: 2026-04-14T13:13:11Z
+  Updated: 2026-04-22T18:15:58Z
   Vendor: Deer Valley Danes
   Product Type: Pet Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/SBCookieBeef.png?v=1774204890
   Price: $15.00 USD
 - [Snarky Bark Turkey Breast Jerky | PetAmzStore](https://petamzstore.com/products/snarky-bark-turkey-breast-jerky): Precisely sliced from pasture-raised, skinless, and boneless turkey, these lean protein treats offer a high value and flavorful reward your pet will truly...
-  Updated: 2026-04-14T14:02:27Z
+  Updated: 2026-04-19T19:19:07Z
   Vendor: Deer Valley Danes
   Product Type: Pet Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/SBJerkyTurkeyBreast.png?v=1774204879
   Price: $15.00 USD
 - [Snarky Bark Chicken Breast Jerky | PetAmzStore](https://petamzstore.com/products/snarky-bark-chicken-breast-jerky): Skillfully sliced from pasture-raised, skinless, and boneless chicken breast, these lean protein treats deliver a premium and tasteful reward your pet will...
-  Updated: 2026-04-14T13:13:15Z
+  Updated: 2026-04-19T19:19:13Z
   Vendor: Deer Valley Danes
   Product Type: Pet Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/SBJerkyChicken.png?v=1774204875
   Price: $15.00 USD
 - [Automatic 3-in-1 Interactive Cat Toy | Laser & Feather Indoor Cat Toy](https://petamzstore.com/products/automatic-3-in-1-interactive-cat-toy-with-laser-and-feather-for-indoor): Automatic 3-in-1 interactive cat toy with laser and feather for indoor cats. Keeps cats entertained and active with multiple play modes.
-  Updated: 2026-04-14T13:13:13Z
+  Updated: 2026-04-19T19:19:07Z
   Vendor: The Max & Rex Collection
   Product Type: Cat Toy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/petaccessories_petproductsonline_dogaccessories_cataccessories_petsupplies_petshoponline_dogtoyscattoy_petgroomingproducts.jpg?v=1774204943
   Price: $39.95 USD
 - [AirFlow Bubble Travel Backpack Carrier | PetAmzStore](https://petamzstore.com/products/airflow-bubble-travel-backpack-carrier): Travel, beautifully. The AirFlow Bubble Travel Backpack Carrier is designed for modern pet parents who refuse to leave comfort—or style—behind.
-  Updated: 2026-04-15T03:01:37Z
+  Updated: 2026-04-19T19:19:14Z
   Vendor: The Max & Rex Collection
   Product Type: Pet Travel Carrier
   Availability: Available
@@ -2923,14 +2923,14 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/2068192222b56b9e5c8c835bc311941b.jpg?v=1774204943
     Price: $46.95 USD
 - [Splash-Free Floating Water Bowl for Dogs & Cats (1L) | PetAmzStore](https://petamzstore.com/products/splash-free-floating-water-bowl-for-dogs-cats-1l): Keep water cleaner, floors drier, and hydration stress-free with this smart floating pet water bowl, designed for everyday use at home or on the go.
-  Updated: 2026-04-14T13:13:15Z
+  Updated: 2026-04-19T19:19:07Z
   Vendor: The Max & Rex Collection
   Product Type: Pet Water Bowl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Els-Pet-Floating-Bowl-1L_15480b04-ffdc-4d59-aa8d-9b95edefc6fb.895893be1115f2b9603c8dcefcc48641.jpg?v=1774204948
   Price: $42.00 USD
 - [Big Paw Plush Pet Sofa Bed | Calming Dog & Cat Bed Small to XL](https://petamzstore.com/products/big-paw-plush-pet-sofa-bed-washable-dog-cat-bed-with-calming-raised-edges-small-to-xl): The Big Paw plush pet sofa bed features raised calming edges and a washable cover. Available small to XL for dogs and cats who love to lounge.
-  Updated: 2026-04-15T03:00:29Z
+  Updated: 2026-04-19T19:19:16Z
   Vendor: The Max & Rex Collection
   Product Type: Dog Bed
   Availability: Available
@@ -2984,49 +2984,49 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/BigPawPlushPetSofaBed_petaccessories_petproductsonline_dogaccessories_cataccessories_petsupplies_petshoponline_dogtoyscattoys_petgroomingproducts.jpg?v=1774204949
     Price: $53.95 USD
 - ['Bordeaux' - Braided Rope Leash | PetAmzStore](https://petamzstore.com/products/bordeaux-braided-rope-leash): Your everyday leash, upgraded. This isn’t just any leash — it’s the one that handles your strong-puller pup without sacrificing style or comfort.
-  Updated: 2026-04-15T16:32:58Z
+  Updated: 2026-04-21T23:33:53Z
   Vendor: FURLOU
   Product Type: Regular Braided Leash
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/047.jpg?v=1774205110
   Price: $30.00 USD
 - ['Moss Green' - Braided Rope Leash | PetAmzStore](https://petamzstore.com/products/moss-green-braided-rope-leash): Your everyday leash, upgraded. This isn’t just any leash — it’s the one that handles your strong-puller pup without sacrificing style or comfort.
-  Updated: 2026-04-15T16:32:59Z
+  Updated: 2026-04-23T19:04:13Z
   Vendor: FURLOU
   Product Type: Regular Braided Leash
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/09_6.jpg?v=1774205110
   Price: $22.50 USD
 - ['Blue' - Poop Bag Holder | PetAmzStore](https://petamzstore.com/products/blue-poop-bag-holder): Let’s be real — picking up poop isn’t cute. But your poop bag holder can be. This little pouch makes cleanup duty a bit more stylish. It fits one standard poop...
-  Updated: 2026-04-14T13:13:12Z
+  Updated: 2026-04-19T19:19:09Z
   Vendor: FURLOU
   Product Type: Poop Bag Holder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/01_d67e3817-2c6d-40b6-bd5c-ef13e47961ff.png?v=1774205116
   Price: $17.00 USD
 - ['Pink' - Poop Bag Holder | PetAmzStore](https://petamzstore.com/products/pink-poop-bag-holder): Let’s be real — picking up poop isn’t cute. But your poop bag holder can be. This little pouch makes cleanup duty a bit more stylish. It fits one standard poop...
-  Updated: 2026-04-14T13:13:11Z
+  Updated: 2026-04-19T19:19:09Z
   Vendor: FURLOU
   Product Type: Poop Bag Holder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/06_3d07868c-3503-4cae-ad8c-ea60d7af8643.png?v=1774205116
   Price: $17.00 USD
 - ['Lavender' - Poop Bag Holder | PetAmzStore](https://petamzstore.com/products/lavender-poop-bag-holder): Let’s be real — picking up poop isn’t cute. But your poop bag holder can be. This little pouch makes cleanup duty a bit more stylish. It fits one standard poop...
-  Updated: 2026-04-15T11:52:36Z
+  Updated: 2026-04-19T19:19:11Z
   Vendor: FURLOU
   Product Type: Poop Bag Holder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/08_7a28d304-8851-4f67-a366-feb789ce35bd.png?v=1774205116
   Price: $17.00 USD
 - ['Yellow' - Poop Bag Holder | PetAmzStore](https://petamzstore.com/products/yellow-poop-bag-holder): Let’s be real — picking up poop isn’t cute. But your poop bag holder can be. This little pouch makes cleanup duty a bit more stylish. It fits one standard poop...
-  Updated: 2026-04-15T16:32:58Z
+  Updated: 2026-04-19T19:19:14Z
   Vendor: FURLOU
   Product Type: Poop Bag Holder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/07_60d88b42-2c0f-4977-a891-b847e38f37d4.png?v=1774205116
   Price: $8.50 USD
 - [Black Canvas Dog Collar | Lightweight Everyday Pet Collar](https://petamzstore.com/products/black-canvas-dog-collar): Black canvas dog collar — lightweight, durable, and comfortable for everyday wear. Adjustable fit for dogs of all sizes.
-  Updated: 2026-04-14T13:13:12Z
+  Updated: 2026-04-19T19:19:08Z
   Vendor: FURLOU
   Product Type: Dog Collar
   Availability: Available
@@ -3041,7 +3041,7 @@ and availability are subject to change.
     Availability: Not Available
     Price: $24.00 USD
 - [USA Dog Bandana | PetAmzStore](https://petamzstore.com/products/usa-dog-bandana): Show your pup's patriotic spirit with our Patriotic USA Dog Bandana with American Flag. This red, white, and blue pet scarf is the perfect dog accessory for...
-  Updated: 2026-04-14T13:13:21Z
+  Updated: 2026-04-19T19:19:13Z
   Vendor: Happy Tails Outfitters
   Product Type: Dog Bandana
   Availability: Available
@@ -3107,7 +3107,7 @@ and availability are subject to change.
     Availability: Available
     Price: $15.00 USD
 - [Milou & Lumi LED Glowing Pet Collar - Rainbow | PetAmzStore](https://petamzstore.com/products/milou-lumi-led-glowing-pet-collar-rainbow): Keep your furry friend safe and visible during nighttime walks with Milou & Lumi “Pet Nightwalker” USB Rechargeable LED Glowing Pet Collar. Made from durable,...
-  Updated: 2026-04-14T13:13:16Z
+  Updated: 2026-04-19T19:19:13Z
   Vendor: Dr. Milou
   Product Type: 
   Availability: Available
@@ -3120,7 +3120,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/IMG_1268_afe45267-e42c-424c-b5da-f64b2ec11edf.jpg?v=1774205305
     Price: $16.00 USD
 - [Dr. Milou Everyday Essentials Pet Dental Care Kit | PetAmzStore](https://petamzstore.com/products/dr-milou-everyday-essentials-pet-dental-care-kit): Everyday Essentials: Your One-Stop Solution for Pet Dental Care — Perfect for busy and first-time pet parents, this vet-designed starter kit makes at-home...
-  Updated: 2026-04-14T13:13:17Z
+  Updated: 2026-04-19T19:19:11Z
   Vendor: Dr. Milou
   Product Type: 
   Availability: Available
@@ -3132,21 +3132,21 @@ and availability are subject to change.
     Availability: Available
     Price: $17.50 USD
 - [Milou & Lumi Cow Plush Squeaky Pet Toy | Dog & Cat Squeaky Toy](https://petamzstore.com/products/milou-lumi-pet-plush-squeaky-toy-cow): Milou & Lumi cow plush squeaky pet toy — adorable soft toy for dogs and cats. Durable squeaker inside for hours of interactive play.
-  Updated: 2026-04-14T13:13:13Z
+  Updated: 2026-04-19T19:19:11Z
   Vendor: Dr. Milou
   Product Type: Dog Toy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/54a076032bb0a302768c79afdee8eca0_2bb3ab41-987f-4286-9570-154a84123006.jpg?v=1774205306
   Price: $12.00 USD
 - [Milou & Lumi Egg Enrichment Plush Toy | Interactive Snuffle Puzzle Toy](https://petamzstore.com/products/milou-lumi-egg-enrichment-plush-toy-interactive-snuffle-puzzle-toy-with-squeaker): Milou & Lumi egg enrichment plush toy with squeaker — interactive snuffle puzzle toy for dogs and cats. Stimulates natural foraging instincts.
-  Updated: 2026-04-14T13:13:12Z
+  Updated: 2026-04-19T19:19:07Z
   Vendor: Dr. Milou
   Product Type: Dog Toy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/IMG_1298_dbeb152d-3fbf-4b70-b12d-25bc1472a42a.jpg?v=1774205306
   Price: $29.99 USD
 - [Milou & Lumi LED Glowing Pet Collar - Yellow | PetAmzStore](https://petamzstore.com/products/milou-lumi-led-glowing-pet-collar-yellow): Keep your furry friend safe and visible during nighttime walks with Milou & Lumi “Pet Nightwalker” USB Rechargeable LED Glowing Pet Collar. Made from durable,...
-  Updated: 2026-04-14T13:13:16Z
+  Updated: 2026-04-19T19:19:09Z
   Vendor: Dr. Milou
   Product Type: 
   Availability: Available
@@ -3159,7 +3159,7 @@ and availability are subject to change.
     Availability: Available
     Price: $12.00 USD
 - [Home Pet Oral Care (Electric Toothbrush / Ultrasonic | PetAmzStore](https://petamzstore.com/products/home-pet-oral-care-electric-toothbrush-ultrasonic-dental-scaler-full-set-by-dr-milou): Choose what fits your furry friend’s needs: Daily Care Toothbrush, Deep Clean Dental Scaler, or the Full Set. Whether you’re starting fresh with a young pup or...
-  Updated: 2026-04-14T19:51:38Z
+  Updated: 2026-04-23T00:51:26Z
   Vendor: Dr. Milou
   Product Type: 
   Availability: Available
@@ -3177,14 +3177,14 @@ and availability are subject to change.
     Availability: Available
     Price: $99.95 USD
 - [Milou & Lumi Pet Grooming Spray Glove for Hair Removal | PetAmzStore](https://petamzstore.com/products/milou-lumi-pet-grooming-spray-glove-for-hair-removal-and-massage): Say goodbye to floating pet hair and messy grooming! This innovative Pet Grooming Spray Glove combines a gentle water mist with a built-in de-shedding brush,...
-  Updated: 2026-04-14T13:13:09Z
+  Updated: 2026-04-20T10:28:28Z
   Vendor: Dr. Milou
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/1_16534215-9cb0-49c8-9e1c-0eef396d707d.png?v=1774205306
   Price: $20.99 USD
 - [Dr. Milou Pet Dental Finger Wipes – Daily Oral Care for | PetAmzStore](https://petamzstore.com/products/dr-milou-pet-dental-finger-wipes-daily-oral-care-for-dogs-cats): A simple, stress-free way to care for your pet’s smile.No water, no mess, no stress—Dr. Milou Pet Dental Finger Wipes make daily oral hygiene easy, even for...
-  Updated: 2026-04-14T13:13:10Z
+  Updated: 2026-04-19T19:19:09Z
   Vendor: Dr. Milou
   Product Type: 
   Availability: Available
@@ -3196,7 +3196,7 @@ and availability are subject to change.
     Availability: Available
     Price: $15.99 USD
 - [Milou & Lumi Reusable Pet Lint Roller | PetAmzStore](https://petamzstore.com/products/milou-lumi-reusable-pet-lint-roller): Say goodbye to stubborn pet hair! Milou & Lumi Reusable Pet Lint Roller easily lifts fur, lint, and dust from sofas, carpets, clothes, and more.
-  Updated: 2026-04-14T13:13:13Z
+  Updated: 2026-04-19T19:19:10Z
   Vendor: Dr. Milou
   Product Type: 
   Availability: Available
@@ -3210,7 +3210,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/56d439d59c00f9f372245d6770a897d7.jpg?v=1774205306
     Price: $17.49 USD
 - [Milou & Lumi LED Glowing Pet Collar - Red | PetAmzStore](https://petamzstore.com/products/milou-lumi-led-glowing-pet-collar-red): Keep your furry friend safe and visible during nighttime walks with Milou & Lumi “Pet Nightwalker” USB Rechargeable LED Glowing Pet Collar. Made from durable,...
-  Updated: 2026-04-14T13:13:12Z
+  Updated: 2026-04-19T19:19:10Z
   Vendor: Dr. Milou
   Product Type: 
   Availability: Available
@@ -3224,14 +3224,14 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/IMG_1265.jpg?v=1774205306
     Price: $12.00 USD
 - [CalmCare Dematting Rake with One-Click Fur Release by | PetAmzStore](https://petamzstore.com/products/calmcare-dematting-rake-with-one-click-fur-release-by-dr-milou): Make brushing time feel like a mini spa day. This lightweight brush gently reaches through your pet’s coat to remove loose fur and knots, while the rounded...
-  Updated: 2026-04-14T13:13:10Z
+  Updated: 2026-04-19T19:19:07Z
   Vendor: Dr. Milou
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/60f03c6e15b21594c228c1d07134a214.png?v=1774205307
   Price: $20.00 USD
 - [Milou & Lumi 4-in-1 Steam Pet Grooming Brush | PetAmzStore](https://petamzstore.com/products/milou-lumi-4-in-1-steam-pet-grooming-brush): Got a pet that hates baths or sheds like crazy? Say goodbye to messy fur and hello to a spa-like grooming experience. The Milou & Lumi Steam Grooming Brush is...
-  Updated: 2026-04-14T13:13:16Z
+  Updated: 2026-04-19T19:19:11Z
   Vendor: Dr. Milou
   Product Type: 
   Availability: Available
@@ -3245,21 +3245,21 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/25c3d2352c2d2b63bf8f9a0d804cde1f_bca3e187-14c3-4986-8c71-3955f6b6dd21.png?v=1774205307
     Price: $9.99 USD
 - [Milou & Lumi Portable Collapsible Pet Water Bottle | PetAmzStore](https://petamzstore.com/products/milou-lumi-portable-collapsible-pet-water-bottle): Keep your pets hydrated anywhere you go with Milou & Lumi FDA- portable silicone water bottle. Designed for outdoor walks, travel, hiking, or camping,...
-  Updated: 2026-04-14T13:13:12Z
+  Updated: 2026-04-19T19:19:13Z
   Vendor: Dr. Milou
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/IMG_1664.jpg?v=1774205311
   Price: $15.00 USD
 - [Dr. Milou Replacement Brush Heads (2 Pack) – Advanced | PetAmzStore](https://petamzstore.com/products/dr-milou-replacement-brush-heads-2-pack-advanced-pet-electric-toothbrush): Keep your pet’s dental routine fresh and effective with Dr. Milou Replacement Brush Heads, designed exclusively for our advanced electric pet toothbrush.
-  Updated: 2026-04-14T13:13:10Z
+  Updated: 2026-04-19T19:19:08Z
   Vendor: Dr. Milou
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/IMG-9168.png?v=1774205311
   Price: $9.90 USD
 - [Milou & Lumi Portable Pet Travel Water and Food Bottle | PetAmzStore](https://petamzstore.com/products/milou-lumi-portable-pet-travel-water-and-food-bottle-with-extra-bowl): Make outdoor adventures easier with Milou & Lumi Portable Pet Travel Water and Food Bottle with Extra Bowl. Designed with separate compartments for kibble and...
-  Updated: 2026-04-14T13:13:22Z
+  Updated: 2026-04-19T19:19:13Z
   Vendor: Dr. Milou
   Product Type: 
   Availability: Available
@@ -3277,28 +3277,28 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/IMG_1636.jpg?v=1774205311
     Price: $12.00 USD
 - [Black Dog Mom Cap | PetAmzStore](https://petamzstore.com/products/black-dog-mom-cap): Wear your pup pride front and center with this blush-toned essential. Flocked in crisp white script, the “Dog ♥ Mom” message says it all, sweet, simple, and...
-  Updated: 2026-04-14T13:13:09Z
+  Updated: 2026-04-19T19:19:10Z
   Vendor: Le Gray Haus
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/DogMomB.png?v=1774205546
   Price: $18.99 USD
 - [Cotton Candy Tie Dye Cap | PetAmzStore](https://petamzstore.com/products/cotton-candy-tie-dye-cap): Show off your pup pride with this bold, eye-catching cap made just for dog moms. Each hat features a unique tie-dye wash and soft flocked lettering that adds...
-  Updated: 2026-04-14T13:13:15Z
+  Updated: 2026-04-19T19:19:12Z
   Vendor: Le Gray Haus
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/dogmom2.png?v=1774205545
   Price: $21.99 USD
 - [Blue Sea Tie Dye Cap | PetAmzStore](https://petamzstore.com/products/blue-sea-tie-dye-cap): Show off your pup pride with this bold, eye-catching cap made just for dog moms. Each hat features a unique tie-dye wash and soft flocked lettering that adds...
-  Updated: 2026-04-14T13:13:14Z
+  Updated: 2026-04-19T19:19:08Z
   Vendor: Le Gray Haus
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/tiedye2.png?v=1774205546
   Price: $21.99 USD
 - [Less People, More Dogs T-Shirt | PetAmzStore](https://petamzstore.com/products/less-people-more-dogs-t-shirt): If your ideal day includes fewer humans and more tail wags, this tee gets you. With bold white lettering, playful paw prints, and floral accents, it’s a soft,...
-  Updated: 2026-04-14T13:13:16Z
+  Updated: 2026-04-19T19:19:13Z
   Vendor: Le Gray Haus
   Product Type: 
   Availability: Available
@@ -3319,7 +3319,7 @@ and availability are subject to change.
     Availability: Available
     Price: $26.99 USD
 - [Only Talking To My Dog T-Shirt | PetAmzStore](https://petamzstore.com/products/only-talking-to-my-dog-t-shirt): Unisex Semi-fitted T-ShirtSoft, ring spun cotton Screen PrintedMachine washable (warm/cold) Care: Machine washable inside out on warm or cool, we recommend...
-  Updated: 2026-04-14T13:13:16Z
+  Updated: 2026-04-19T19:19:13Z
   Vendor: Le Gray Haus
   Product Type: 
   Availability: Available
@@ -3340,14 +3340,14 @@ and availability are subject to change.
     Availability: Not Available
     Price: $26.99 USD
 - [Dog Dad Distressed Cap - Nickel | PetAmzStore](https://petamzstore.com/products/dog-dad-distressed-cap-nickel): For the dog parents who do it all, and look good doing it. This rugged, lived-in cap is made for park days, treat runs, and every moment in between.
-  Updated: 2026-04-14T13:13:21Z
+  Updated: 2026-04-19T19:19:07Z
   Vendor: Le Gray Haus
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/1_94bc809c-0e98-4788-beec-e48091045072.png?v=1774205545
   Price: $21.99 USD
 - [Wasatch Pup Tote Bag | PetAmzStore](https://petamzstore.com/products/wasatch-pup-tote-bag): Wasatch Pup Canvas Tote Bag Carry your essentials in style with the Wasatch Pup canvas tote — a versatile bag that’s as practical as it is iconic.
-  Updated: 2026-04-14T13:13:23Z
+  Updated: 2026-04-19T19:19:14Z
   Vendor: Wasatch Pup
   Product Type: Tote Bag
   Availability: Available
@@ -3369,56 +3369,56 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/4_e8393122-54d2-4182-bcbd-ea5c6fe86c04.jpg?v=1774205621
     Price: $12.00 USD
 - [Everyday Pro Nail Clippers | PetAmzStore](https://petamzstore.com/products/everyday-pro-nail-clippers): This is the kind of nail clipper professionals rely on for a reason. Sharp stainless steel blades, a balanced grip, and a safety-focused design work together...
-  Updated: 2026-04-14T13:13:10Z
+  Updated: 2026-04-19T19:19:07Z
   Vendor: Wasatch Pup
   Product Type: Nail Clippers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/clippermain.jpg?v=1774205626
   Price: $12.50 USD
 - [Cozy Canine Plush Dog Bed | PetAmzStore](https://petamzstore.com/products/cozy-canine-plush-dog-bed): Your dog’s new favorite spot. Soft, inviting, and made for everyday lounging, the Cozy Canine Dog Bed gives your pup a warm, comfortable place to curl up, nap,...
-  Updated: 2026-04-14T13:13:13Z
+  Updated: 2026-04-19T19:19:07Z
   Vendor: Wasatch Pup
   Product Type: Dog Bed
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Cozycaninedogbed_f268bd52-7770-4fe8-8076-d7fd32096beb.jpg?v=1774205625
   Price: $21.24 USD
 - [Puppy Pads | Absorbent Pee Pads | PetAmzStore](https://petamzstore.com/products/puppy-pads-absorbent-pee-pads): Accidents happen. These absorbent pee pads are built to handle them quickly, cleanly, and without stress. Made with multi-layer materials that absorb fast and...
-  Updated: 2026-04-14T13:13:09Z
+  Updated: 2026-04-19T19:19:08Z
   Vendor: Wasatch Pup
   Product Type: Pee Pads
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/peepadspdp.jpg?v=1774205626
   Price: $16.99 USD
 - [Paw Fresh | Spot Cleaner & Deodorizer | PetAmzStore](https://petamzstore.com/products/paw-fresh-spot-cleaner-deodorizer): Pet messes don’t just need to be covered up, they need to be broken down at the source. Paw Fresh uses an enzyme-based, non-toxic formula to clean while...
-  Updated: 2026-04-14T13:13:18Z
+  Updated: 2026-04-23T00:44:55Z
   Vendor: Wasatch Pup
   Product Type: Pet Cleaner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/PAWFRESH.jpg?v=1774205626
   Price: $13.50 USD
 - [Zen Pup w/Anxiety Reducing Heartbeat | PetAmzStore](https://petamzstore.com/products/zen-pup-w-anxiety-reducing-heartbeat): Some dogs just need a little extra reassurance. Zen Pup is a soft, comforting companion that helps ease anxiety during rest, transitions, and unfamiliar...
-  Updated: 2026-04-14T13:13:16Z
+  Updated: 2026-04-19T19:19:15Z
   Vendor: Wasatch Pup
   Product Type: Toy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Zen_Pup_PDP_new_4.jpg?v=1774205626
   Price: $19.99 USD
 - [Slicker Brush | PetAmzStore](https://petamzstore.com/products/slicker-brush): A good slicker brush makes grooming easier on both you and your dog. This one is built to tackle (and prevent) mats, loose fur, and shedding without pulling or...
-  Updated: 2026-04-14T13:13:07Z
+  Updated: 2026-04-23T17:02:06Z
   Vendor: Wasatch Pup
   Product Type: Brush
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/slickerbrushpdps00001.jpg?v=1774205626
   Price: $15.99 USD
 - [Limited Edition Ceramic Bowl | PetAmzStore](https://petamzstore.com/products/limited-edition-ceramic-bowl): We made this bowl simply because we wanted a beautiful Wasatch Pup bowl. It’s ceramic and finished in a black and gold marble design that looks good sitting...
-  Updated: 2026-04-14T13:13:11Z
+  Updated: 2026-04-19T19:19:09Z
   Vendor: Wasatch Pup
   Product Type: Bowl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/ceramic_bowls00001.jpg?v=1774205626
   Price: $9.99 USD
 - [Calm Command © | PetAmzStore](https://petamzstore.com/products/calm-command-©): Walking shouldn’t feel like a constant tug-of-war. The Calm Command No-Pull Leash uses a patented wrap-style design to gently redirect pulling away from your...
-  Updated: 2026-04-16T16:50:16Z
+  Updated: 2026-04-23T11:38:37Z
   Vendor: Wasatch Pup
   Product Type: Dog Leash
   Availability: Available
@@ -3433,7 +3433,7 @@ and availability are subject to change.
     Availability: Available
     Price: $56.06 USD
 - [Stainless Steel Feeder Bowl | PetAmzStore](https://petamzstore.com/products/stainless-steel-feeder-bowl): Cold water stays colder. Bowls stay cleaner. And it actually looks good in your house. Simple on purpose, tough where it matters, and finished with a design...
-  Updated: 2026-04-16T15:01:58Z
+  Updated: 2026-04-22T01:04:47Z
   Vendor: Wasatch Pup
   Product Type: Bowl
   Availability: Available
@@ -3484,7 +3484,7 @@ and availability are subject to change.
     Availability: Available
     Price: $31.16 USD
 - [Classic Wire Kennel | PetAmzStore](https://petamzstore.com/products/classic-wire-kennel): A lightweight, functional solution for everyday containment and travel. Its streamlined construction makes it easy to move, store, and transport, while still...
-  Updated: 2026-04-14T13:13:15Z
+  Updated: 2026-04-19T19:19:11Z
   Vendor: Wasatch Pup
   Product Type: Kennel
   Availability: Available
@@ -3506,14 +3506,14 @@ and availability are subject to change.
     Availability: Available
     Price: $119.98 USD
 - [3 in 1 Nail Clippers | PetAmzStore](https://petamzstore.com/products/3-in-1-nail-clippers): Nail trims don’t have to be intimidating. These 3-in-1 nail clippers are built to help you feel confident trimming your dog’s nails at home, even if you’ve...
-  Updated: 2026-04-14T13:13:17Z
+  Updated: 2026-04-19T19:19:15Z
   Vendor: Wasatch Pup
   Product Type: Nail Clippers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/3in1_Nail_Clippers_3.jpg?v=1774205626
   Price: $16.99 USD
 - ["Dog of Honor" Wedding Dog Bandana | PetAmzStore](https://petamzstore.com/products/dog-of-honor-wedding-dog-bandana): A beautifully constructed high quality dog bandana--great for your stylin' pup! BibbyBubby bandanas are backed with white flannel and equipped with three...
-  Updated: 2026-04-14T13:13:23Z
+  Updated: 2026-04-19T19:19:12Z
   Vendor: BibbyBubby
   Product Type: Dog Bandanas
   Availability: Available
@@ -3534,7 +3534,7 @@ and availability are subject to change.
     Availability: Available
     Price: $19.99 USD
 - ["Best Dog" Wedding Dog Bandana | PetAmzStore](https://petamzstore.com/products/best-dog-wedding-dog-bandana): A beautifully constructed high quality dog bandana--great for your stylin' pup! BibbyBubby bandanas are backed with white flannel and equipped with three...
-  Updated: 2026-04-14T13:13:13Z
+  Updated: 2026-04-19T19:19:11Z
   Vendor: BibbyBubby
   Product Type: Dog Bandanas
   Availability: Available
@@ -3555,7 +3555,7 @@ and availability are subject to change.
     Availability: Available
     Price: $19.99 USD
 - ["Classic Bandana" Dog Bandana | PetAmzStore](https://petamzstore.com/products/classic-bandana-dog-bandana): A beautifully constructed high quality dog bandana--great for your stylin' pup! BibbyBubby bandanas are backed with white flannel and equipped with three...
-  Updated: 2026-04-14T13:13:19Z
+  Updated: 2026-04-19T19:19:12Z
   Vendor: BibbyBubby
   Product Type: Dog Bandanas
   Availability: Available
@@ -3711,7 +3711,7 @@ and availability are subject to change.
     Availability: Available
     Price: $14.99 USD
 - ["Birthday Girl" Metallic Pink on Black Confetti Dog | PetAmzStore](https://petamzstore.com/products/birthday-girl-metallic-pink-on-black-confetti-dog-bandana): A beautifully constructed high quality dog bandana--great for your stylin' pup! BibbyBubby bandanas are backed with white flannel and equipped with three...
-  Updated: 2026-04-14T13:13:17Z
+  Updated: 2026-04-19T19:19:15Z
   Vendor: BibbyBubby
   Product Type: Dog Bandanas
   Availability: Available
@@ -3732,7 +3732,7 @@ and availability are subject to change.
     Availability: Available
     Price: $19.99 USD
 - ["Birthday Boy" Metallic Blue on Black Confetti Dog | PetAmzStore](https://petamzstore.com/products/birthday-boy-metallic-blue-on-black-confetti-dog-bandana): A beautifully constructed high quality dog bandana--great for your stylin' pup! BibbyBubby bandanas are backed with white flannel and equipped with three...
-  Updated: 2026-04-14T13:13:13Z
+  Updated: 2026-04-19T19:19:14Z
   Vendor: BibbyBubby
   Product Type: Dog Bandanas
   Availability: Available
@@ -3753,28 +3753,28 @@ and availability are subject to change.
     Availability: Available
     Price: $19.99 USD
 - [HuggleKats Sardinies Cat Toys 3 Pack | Plush Catnip Cat Toys](https://petamzstore.com/products/hugglekats®-sardinies-cat-toys-3-pack): HuggleKats Sardinies cat toys 3-pack — adorable plush sardine toys for cats. Soft, fun, and perfect for batting, chasing, and cuddling.
-  Updated: 2026-04-15T19:23:16Z
+  Updated: 2026-04-22T19:01:36Z
   Vendor: HuggleHounds
   Product Type: Cat Toy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/60907p04copy.png?v=1774206420
   Price: $11.99 USD
 - [Ruff-Tex® Bucket of Latex Balls Dog Toys, 10 Pack, Small | PetAmzStore](https://petamzstore.com/products/ruff-tex®-bucket-of-latex-balls-dog-toys-10-pack-small): Meet the Bucket of Ruff-Tex® Balls – A Bouncy, Squeaky Playtime Favorite! Our Bucket of Ruff-Tex® Balls is packed with 10 fun-filled, ball-shaped creatures,...
-  Updated: 2026-04-15T16:10:07Z
+  Updated: 2026-04-21T18:17:16Z
   Vendor: HuggleHounds
   Product Type: Squeaky Ball Dog Toy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/30694NP00_1.jpg?v=1774206475
   Price: $79.99 USD
 - [HuggleKats Woodland Cat Toys 12 Pack | Plush Cat Toy Variety Set](https://petamzstore.com/products/hugglekats®-woodland-bucket-of-cat-toys-12-pack): HuggleKats Woodland bucket of cat toys — 12-pack variety set of plush woodland-themed toys. Perfect for keeping indoor cats entertained and active.
-  Updated: 2026-04-14T13:13:17Z
+  Updated: 2026-04-19T19:19:09Z
   Vendor: HuggleHounds
   Product Type: Cat Toy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/10241p00_2.jpg?v=1774206476
   Price: $77.99 USD
 - [Pet Paw Cleaning Cup – Portable Silicone Dog & Cat Foot | PetAmzStore](https://petamzstore.com/products/pet-paw-cleaning-cup-portable-silicone-dog-cat-foot-washer-removable-mud-cleaner-s-l-xl-sizes): Silicone Pet Foot Washer Cup for Dogs & Cats – Deep Cleaning Paw Cleaner with Soft Brush (Removable & Easy to Use) Keep your floors spotless and your pet’s...
-  Updated: 2026-04-14T13:13:17Z
+  Updated: 2026-04-19T19:19:14Z
   Vendor: WTN Essentials
   Product Type: 
   Availability: Available
@@ -3816,21 +3816,21 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/S2bba0e3d94d546ec8b78c9581260bc7ej.webp?v=1774207455
     Price: $22.71 USD
 - [Comfortable Arch Cats Massager Pet Cat Itching Grooming | PetAmzStore](https://petamzstore.com/products/comfortable-arch-cats-massager-pet-cat-itching-grooming-supplies-round-fleece-base-kitten-toy-scratching-device-brush-for-cat-arch-self-grooming-and-massaging-brush-toy-pet-scratcher-pads-hair-cleaner): Description: UPDATED DESIGN-The brush is fixed on the base with screws, more stable and easier to install than ordinary arch groom. So the brush will not...
-  Updated: 2026-04-14T13:13:16Z
+  Updated: 2026-04-19T19:19:09Z
   Vendor: Stevvex
   Product Type: ST80PTAV45
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/comfortable-arch-cats-massager-pet-cat-itching-grooming-supplies-round-fleece-base-kitten-toy-scratching-device-brush-for-cat-arch-self-grooming-and-massaging-brush-toy-pet-scratcher.jpg?v=1774207518
   Price: $39.99 USD
 - [3-Tier Cat Track Toy | Interactive Spinning Ball Tower for Active Cats](https://petamzstore.com/products/3-tier-cat-track-toy-interactive-spinning-ball-tower-for-active-cats): 3-tier cat track toy with interactive spinning ball tower — keeps active cats entertained for hours. Durable plastic, great for solo or group play.
-  Updated: 2026-04-14T13:13:12Z
+  Updated: 2026-04-19T19:19:09Z
   Vendor: WTN Essentials
   Product Type: Cat Toy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/3_48977796-e9b1-4298-85e4-5f3b0cfd399c.png?v=1774209508
   Price: $38.95 USD
 - [Jeffers Nylon Combination Horse Halter Bridle with Reins | PetAmzStore](https://petamzstore.com/products/jeffers-nylon-combination-horse-halter-bridle-with-reins): Jeffers Nylon Combination Horse Halter Bridle with Reins The Jeffers Nylon Combination Horse Halter Bridle with Reins is a versatile, 2-ply, 1" polypropylene...
-  Updated: 2026-04-15T20:16:31Z
+  Updated: 2026-04-23T16:33:16Z
   Vendor: Jeffers
   Product Type: Horse Supplies > Horse Tack > Bridles & Headstalls
   Availability: Available
@@ -3844,14 +3844,14 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/jeffers-nylon-combination-halter-bridle-with-reins-ss40-904258.jpg?v=1774217689
     Price: $29.99 USD
 - [Dehydrated Turkey Gizzards for Cats & Dogs — 100% | PetAmzStore](https://petamzstore.com/products/dehydrated-turkey-gizzards-for-cats-dogs-100-single-ingredient-raw-instincts-florida): Reward your pets with a nutrient-rich treat that’s as wholesome as it is delicious — our Dehydrated Turkey Gizzards, carefully sourced and prepared by Raw...
-  Updated: 2026-04-14T13:13:12Z
+  Updated: 2026-04-19T19:19:09Z
   Vendor: Raw Instincts
   Product Type: Treat/Topper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/20240218-133242.jpg?v=1774217936
   Price: $14.99 USD
 - [Dehydrated Duck Feet for Dogs & Cats — 100% Pekin Duck | PetAmzStore](https://petamzstore.com/products/dehydrated-duck-feet-for-dogs-cats-100-pekin-duck-raw-instincts-usa): Treat your pets to a wholesome, species-appropriate chew with Raw Instincts Dehydrated Duck Feet, made from 100% Pekin Duck Feet, responsibly sourced in the...
-  Updated: 2026-04-15T16:10:27Z
+  Updated: 2026-04-20T14:44:16Z
   Vendor: Raw Instincts
   Product Type: Treat/Topper
   Availability: Available
@@ -3865,14 +3865,14 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/DuckFeet1_4224x2506_7f7f5f6b-ad7c-4670-8ce5-f316bfa6763d.jpg?v=1774217937
     Price: $18.00 USD
 - [Dehydrated Chicken Necks for Cats & Dogs — 100% USA | PetAmzStore](https://petamzstore.com/products/dehydrated-chicken-necks-for-cats-dogs-100-usa-sourced-raw-instincts-florida-8-count): Support your pet’s natural chewing instincts with our Dehydrated Chicken Necks, responsibly sourced in the USA and prepared fresh for Florida families by Raw...
-  Updated: 2026-04-14T13:13:16Z
+  Updated: 2026-04-19T19:19:12Z
   Vendor: Raw Instincts
   Product Type: Treat/Topper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/ChickenNecks2_4498x3021_33b57a2a-22a5-4e26-b6e4-24013c551980.jpg?v=1774217937
   Price: $14.99 USD
 - [Raw Beef & Wild-Caught Salmon Meal Blend for Cats & | PetAmzStore](https://petamzstore.com/products/raw-beef-wild-caught-salmon-meal-blend-for-cats-dogs-prey-model-raw-raw-instincts-florida): Looking for a nutritious, balanced way to feed your pet a raw diet? Our Raw Beef & Wild-Caught Salmon Meal Blendmakes Prey Model Raw (PMR) feeding easy and...
-  Updated: 2026-04-15T04:21:36Z
+  Updated: 2026-04-23T19:05:36Z
   Vendor: Raw Instincts
   Product Type: Raw Pet food
   Availability: Available
@@ -3890,28 +3890,28 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/BEEF_SALMONCUSTOM.jpg?v=1774217940
     Price: $32.25 USD
 - [Dehydrated Wild Caught Pilchard Sardines for Cats & | PetAmzStore](https://petamzstore.com/products/dehydrated-wild-caught-pilchard-sardines-for-cats-dogs-100-single-ingredient-raw-instincts-florida-2-oz): Give your pets a taste of fresh Florida goodness with our Dehydrated Wild Caught Pilchard Sardines, responsibly sourced in Key Largo, FL, USA and prepared by...
-  Updated: 2026-04-14T13:13:15Z
+  Updated: 2026-04-19T19:19:11Z
   Vendor: Raw Instincts
   Product Type: Treat/Topper
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Pilchard_sardines_26.jpg?v=1774217940
   Price: $14.99 USD
 - [Dehydrated Finger Mullets for Cats & Dogs — 100% Single | PetAmzStore](https://petamzstore.com/products/dehydrated-finger-mullets-for-cats-dogs-100-single-ingredient-raw-instincts-qty-5-fish): Bring the fresh, nutrient-rich taste of whole fish to your pets with our Dehydrated Finger Mullets, carefully prepared by Raw Instincts for pet families who...
-  Updated: 2026-04-14T18:40:39Z
+  Updated: 2026-04-19T19:19:07Z
   Vendor: Raw Instincts
   Product Type: Treat/Topper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/FingerMullets2_4585x2945_dabf348f-5f0f-414e-9164-11edb467f110.jpg?v=1774217941
   Price: $9.99 USD
 - [beyondGREEN Dog Waste Bag Leash Dispenser – Clip-On | PetAmzStore](https://petamzstore.com/products/beyondgreen-dog-waste-bag-leash-dispenser-clip-on-holder-for-standard-rolls-durable-portable-made-in-usa): Walks are smoother when your bags are always within reach—this clip-on dispenser keeps them handy and tangle-free. Carry your dog-waste bags hands-free with...
-  Updated: 2026-04-14T13:13:13Z
+  Updated: 2026-04-19T19:19:10Z
   Vendor: beyondGREEN biotech™
   Product Type: Poop Bag Dispenser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/2016016_1x1_Front.png?v=1774218035
   Price: $9.49 USD
 - [Dog Waste Bags – Single-Pull Refill 9" x 13" – Made in | PetAmzStore](https://petamzstore.com/products/dog-waste-bags-single-pull-refill-9-x-13-made-in-usa): beyondGREEN Single-Pull Dog Waste Bag Refill Pack – One Bag at a Time Convenience Park stations and busy homes need clean, reliable dispensing.
-  Updated: 2026-04-14T13:13:25Z
+  Updated: 2026-04-21T19:24:16Z
   Vendor: beyondGREEN biotech™
   Product Type: Dog Waste Bags
   Availability: Available
@@ -3929,7 +3929,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/2500_Bags_Main_Display_Image.png?v=1774218043
     Price: $249.99 USD
 - [beyondGREEN Dog Poop Bag Leash Dispenser – Clip-On | PetAmzStore](https://petamzstore.com/products/beyondgreen-dog-poop-bag-leash-dispenser-clip-on-holder-fits-standard-rolls-durable-portable): beyondGREEN Dog Poop Bag Leash Dispenser – Clip-On Convenience for Every Walk No more fumbling for loose rolls. The beyondGREEN Dog Poop Bag Leash Dispenser...
-  Updated: 2026-04-14T13:13:18Z
+  Updated: 2026-04-19T19:19:13Z
   Vendor: beyondGREEN biotech™
   Product Type: Poop Bag Dispenser
   Availability: Available
@@ -3943,35 +3943,35 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Main_Display_Image_610e4453-bf26-4fea-8af9-3a20859c193f.png?v=1774218041
     Price: $5.99 USD
 - [Tie-Dye For Cooling Bandana | PetAmzStore](https://petamzstore.com/products/tie-dye-for-cooling-bandana): Keep your pup chill and peaceful with the Tie-Dye For Cooling Bandana! Featuring vibrant tie-dye patterns, this bandana is perfect for keeping pups feeling...
-  Updated: 2026-04-14T13:13:12Z
+  Updated: 2026-04-19T19:19:09Z
   Vendor: Pawmigo
   Product Type: Seasonal Bandana
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Pawmigo-PRD-TieDyeFor-CB.png?v=1774218144
   Price: $9.99 USD
 - [Succa For You Cooling Bandana | PetAmzStore](https://petamzstore.com/products/succa-for-you-cooling-bandana): Keep your pup cactus-cute with the Succa For You Cooling Bandana! 🌵 Featuring succulent prints, this bandana is perfect for beating the heat while adding a...
-  Updated: 2026-04-14T13:13:15Z
+  Updated: 2026-04-19T19:19:13Z
   Vendor: Pawmigo
   Product Type: Seasonal Bandana
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Pawmigo-PRD-SuccaForYou-CB.png?v=1774218144
   Price: $9.99 USD
 - [Polka Dog Cooling Bandana | PetAmzStore](https://petamzstore.com/products/polka-dog-cooling-bandana): Help your pup beat the heat and rock the spots with the Polka Dog Cooling Bandana! Featuring classic black dots on a crisp white background, it’s a...
-  Updated: 2026-04-14T13:13:18Z
+  Updated: 2026-04-19T19:19:08Z
   Vendor: Pawmigo
   Product Type: Seasonal Bandana
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/image.png?v=1774218149
   Price: $9.99 USD
 - [Red, White, & Bark Bandana | PetAmzStore](https://petamzstore.com/products/red-white-bark-bandana): Keep your pup feeling cool and looking even cooler at every summer BBQ with the Red, White & Bark Cooling Bandana! Featuring a playful USA-themed print with...
-  Updated: 2026-04-14T13:13:17Z
+  Updated: 2026-04-19T19:19:13Z
   Vendor: Pawmigo
   Product Type: Seasonal Bandana
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Red-White-Bark-Cooling-Bandana.png?v=1774218149
   Price: $9.99 USD
 - [Calming Bites 100-count Jar | PetAmzStore](https://petamzstore.com/products/calming-bites-100-count-jar): All-Natural Dog Calming Bites Breedwise’s Dog Calming Bites are our solution to dog anxiety in hyperactive pups. FDA- active ingredient, L-Theanine...
-  Updated: 2026-04-14T13:13:18Z
+  Updated: 2026-04-19T19:19:14Z
   Vendor: Breedwise Pet Provisions
   Product Type: Dog Treat
   Availability: Available
@@ -3989,21 +3989,21 @@ and availability are subject to change.
     Availability: Available
     Price: $99.95 USD
 - [Mobility Bites 100-count jar | PetAmzStore](https://petamzstore.com/products/mobility-bites-100-count-jar): The best wellness treat for older pets Our Mobility Bites are specially designed to ease the aches and pains that come with growing older. As the second...
-  Updated: 2026-04-14T13:13:16Z
+  Updated: 2026-04-23T04:08:26Z
   Vendor: Breedwise Pet Provisions
   Product Type: Dog Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/jar_shadow.png?v=1774218203
   Price: $49.95 USD
 - [Breedwise Post-HUNT Soft Dog Chews | PetAmzStore](https://petamzstore.com/products/breedwise-post-hunt-soft-dog-chews): Restoring nutrients and easing recovery after every hunt! Breedwise Post-Hunt Soft Chews are specifically formulated to help sporting dogs with muscle...
-  Updated: 2026-04-14T13:13:14Z
+  Updated: 2026-04-19T19:19:08Z
   Vendor: Breedwise Pet Provisions
   Product Type: Dog Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/post.png?v=1774218203
   Price: $44.95 USD
 - [Trophy Chews™ Antler-Shaped Dental Treats | PetAmzStore](https://petamzstore.com/products/trophy-chews™-antler-shaped-dental-treats): An all-natural antler dog chew...every good dog deserves this. Celebrate a job well done with a fun and healthy treat. THE ULTIMATE DOG CHEW: Breedwise Trophy...
-  Updated: 2026-04-14T13:13:19Z
+  Updated: 2026-04-19T19:19:11Z
   Vendor: Breedwise Pet Provisions
   Product Type: Dog Treat
   Availability: Available
@@ -4021,21 +4021,21 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/three.png?v=1774218203
     Price: $53.95 USD
 - [Breedwise Pre & Post-HUNT Soft Dog Chews -  Bundle | PetAmzStore](https://petamzstore.com/products/breedwise-pre-post-hunt-soft-dog-chews-bundle): Our newest PRE-hunt & POST-hunt soft chews are specifically designed to support the health, energy, and recovery of hunting dogs. Made from high-quality,...
-  Updated: 2026-04-14T13:13:11Z
+  Updated: 2026-04-19T19:19:09Z
   Vendor: Breedwise Pet Provisions
   Product Type: Dog Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/preandpost.png?v=1774218204
   Price: $79.95 USD
 - [Breedwise Pre-HUNT Soft Dog Chews | PetAmzStore](https://petamzstore.com/products/breedwise-pre-hunt-soft-dog-chews): Providing stabilized energy before the hunt with your best friend! Breedwise Pre-Hunt Soft Chews are specifically formulated to help sporting dogs manage the...
-  Updated: 2026-04-14T13:13:08Z
+  Updated: 2026-04-19T19:19:08Z
   Vendor: Breedwise Pet Provisions
   Product Type: Dog Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/pre.png?v=1774218203
   Price: $44.95 USD
 - [Trophy Chews™ Fish-Shaped Dental Treats | PetAmzStore](https://petamzstore.com/products/trophy-chews™-fish-shaped-dental-treats): An all-natural mint flavored, fish-shaped dog chew...every good dog deserves this. Celebrate a job well done with a fun and healthy treat. THE ULTIMATE DOG...
-  Updated: 2026-04-14T13:13:12Z
+  Updated: 2026-04-19T19:19:10Z
   Vendor: Breedwise Pet Provisions
   Product Type: Dog Treat
   Availability: Available
@@ -4050,7 +4050,7 @@ and availability are subject to change.
     Availability: Available
     Price: $42.95 USD
 - [Clamp-On Brooder Heat Lamp for Chicks & Poultry - | PetAmzStore](https://petamzstore.com/products/clamp-on-brooder-heat-lamp-for-chicks-poultry-compatible-with-250w-red-clear-heat-bulbs): Brooder Lamp with Clamp & Compatible Heat Bulbs Create a warm, dry, and secure brooding environment with this durable Brooder Lamp with Clamp, designed to...
-  Updated: 2026-04-16T17:15:17Z
+  Updated: 2026-04-22T16:15:08Z
   Vendor: Jeffers
   Product Type: Animal & Pet Supplies > Pet Heating Pads
   Availability: Available
@@ -4068,63 +4068,63 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/clear-heat-lamp-bulb-250-watt-m3hm-187461.jpg?v=1774228067
     Price: $7.99 USD
 - [Dawg Health Skin & Coat | PetAmzStore](https://petamzstore.com/products/dawg-health-skin-coat): Skin & Coat Formula Healthy skin & coat, reduce itchy skin, hot spots, rashes & shedding Human Grade Omega-3 Fish Oil Supplementing your dog's diet with...
-  Updated: 2026-04-15T05:47:07Z
+  Updated: 2026-04-23T17:51:16Z
   Vendor: Paw Power Nutrition
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/IMG_2621.jpg?v=1774228177
   Price: $24.95 USD
 - [Dawg Butter Blue Biotic | PetAmzStore](https://petamzstore.com/products/dawg-butter-blue-biotic): Award Winning - 2023 Health Focused Dog Treat of the Year 2022 Lickable Treat Product of the Year Safe and delicious. Xylitol free. Gluten-free.
-  Updated: 2026-04-16T05:31:47Z
+  Updated: 2026-04-23T22:20:57Z
   Vendor: Paw Power Nutrition
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/berrybioticmockup.jpg?v=1774228178
   Price: $16.99 USD
 - [Dawg Butter Original Flavor | PetAmzStore](https://petamzstore.com/products/dawg-butter-original-flavor): Award Winning - 2023 Health Focused Dog Treat of the Year 2022 Lickable Treat Product of the Year Safe and delicious. Xylitol free. Gluten-free.
-  Updated: 2026-04-16T00:41:47Z
+  Updated: 2026-04-23T13:37:18Z
   Vendor: Paw Power Nutrition
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/IMG_5827.jpg?v=1774228183
   Price: $13.99 USD
 - [Dawg Butter Berry Flexible for Hips & Joints | PetAmzStore](https://petamzstore.com/products/dawg-butter-berry-flexible-for-hips-joints): Award Winning - 2023 Health Focused Dog Treat of the Year 2022 Lickable Treat Product of the Year Safe and delicious. Xylitol free. Gluten-free.
-  Updated: 2026-04-16T12:23:39Z
+  Updated: 2026-04-23T13:37:16Z
   Vendor: Paw Power Nutrition
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/FidoFlexMockup.jpg?v=1774228183
   Price: $16.99 USD
 - [Dawg Butter Pum'kin Puppers Flavor | PetAmzStore](https://petamzstore.com/products/dawg-butter-pumkin-puppers-flavor): Award Winning - 2023 Health Focused Dog Treat of the Year 2022 Lickable Treat Product of the Year Great for digestion. Safe and delicious. Xylitol free.
-  Updated: 2026-04-16T14:05:06Z
+  Updated: 2026-04-23T13:37:16Z
   Vendor: Paw Power Nutrition
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/Pum_kinPuppers.jpg?v=1774228183
   Price: $13.99 USD
 - [2 Liter Rabbit Drinker with Bottle | PetAmzStore](https://petamzstore.com/products/2-liter-rabbit-drinker-with-bottle): Gaun Rabbit Drinker with 2 Liter Bottle 2 Liter Rabbit Drinker with Bottle is a gravity flow waterer that is easy to clean and fill. Made from plastic and...
-  Updated: 2026-04-15T02:14:36Z
+  Updated: 2026-04-23T22:14:50Z
   Vendor: Jeffers
   Product Type: Animal & Pet Supplies > Animal & Pet Supplies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/2-liter-rabbit-drinker-with-bottle-gaub1-938363.jpg?v=1774231002
   Price: $5.99 USD
 - [Gravity-Fed 2L Waterer for Rabbits, Birds, and Small | PetAmzStore](https://petamzstore.com/products/gravity-fed-2l-waterer-for-rabbits-birds-and-small-poultry): Gaun 2 Liter Drinker with Bottle for Small Animals The Gaun 2 Liter Drinker with Bottle is a convenient and reliable gravity-fed waterer designed to keep...
-  Updated: 2026-04-16T22:25:37Z
+  Updated: 2026-04-22T01:14:47Z
   Vendor: Jeffers
   Product Type: Animal & Pet Supplies > Pet Bowls, Feeders & Waterers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/gravity-fed-2l-waterer-for-rabbits-birds-and-small-poultry-gauf6-6175426.jpg?v=1774231021
   Price: $9.99 USD
 - [Bunny Feeder for Small Animals – Rabbit, Guinea Pig, | PetAmzStore](https://petamzstore.com/products/bunny-feeder-for-small-animals-rabbit-guinea-pig-chinchilla-hamster-ferret): Bunny Feeder for Small Animals Keep your small pets happy and well-fed with this versatile Bunny Feeder. Combining a food bowl and a grass rack, it offers...
-  Updated: 2026-04-14T13:13:10Z
+  Updated: 2026-04-21T15:50:04Z
   Vendor: Jeffers
   Product Type: Farm & Ranch Supplies > Livestock Feeders & Waterers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/bunny-feeder-for-small-animals-rabbit-guinea-pig-chinchilla-hamster-ferret-gaudx-6440400.jpg?v=1774231188
   Price: $12.99 USD
 - [Hanging Automatic Food Water Dispenser Rabbit Feeders | PetAmzStore](https://petamzstore.com/products/hanging-automatic-food-water-dispenser-rabbit-feeders-for-cages-automatic-pet-feeder-for-rabbit-chinchilla-hedgehog-guinea-pig): Good Material: The gravity feeder is made of food-grade transparent PET material, which allows you to monitor the water and food capacity at all times.
-  Updated: 2026-04-14T13:13:13Z
+  Updated: 2026-04-19T19:19:09Z
   Vendor: Pet Zen
   Product Type: 4
   Availability: Available
@@ -4142,7 +4142,7 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/d611d139-21bf-4b9c-83f6-a6187e8207d6.jpg?v=1774231254
     Price: $38.89 USD
 - [2/3/4/5 Holes Pet Cat Tunnel Toys Foldable Pet Cat | PetAmzStore](https://petamzstore.com/products/2-3-4-5-holes-pet-cat-tunnel-toys-foldable-pet-cat-kitty-training-interactive-fun-toy-for-cats-rabbit-animal-play-tunnel-tube-for-cats-tunnels-for-indoor-cats-cat-tube-collapsible-3-way-pet-tunnel-great-toy-for-cats): Description: HOURS OF PLAY: Our S-shaped Tube has crinkly sides and two peepholes. This collapsible cat tunnel will keep your furry friends active and...
-  Updated: 2026-04-14T13:13:19Z
+  Updated: 2026-04-19T19:19:15Z
   Vendor: Stevvex
   Product Type: ST80PTDE34
   Availability: Available
@@ -4208,63 +4208,63 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/2345-holes-pet-cat-tunnel-toys-foldable-pet-cat-kitty-training-interactive-fun-toy-for-cats-rabbit-animal-play-tunnel-tube-for-cats-tunnels-for-indoor-cats-cat-tube-collapsible-3-way.jpg?v=1774231678
     Price: $27.99 USD
 - [Paws with Sprinkles Cookie | PetAmzStore](https://petamzstore.com/products/paws-with-sprinkles-cookie): Paws with Sprinkles Cookie
-  Updated: 2026-04-14T13:13:08Z
+  Updated: 2026-04-19T19:19:09Z
   Vendor: Doodle Doo Bakery
   Product Type: Dog Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/doodle-doo-bakery-dog-treat-paws-with-sprinkles-cookie-paws-with-sprinkles-cookie-1158660985.png?v=1774233249
   Price: $2.50 USD
 - [Rainbow Cookie | PetAmzStore](https://petamzstore.com/products/rainbow-cookie): Rainbow Cookie
-  Updated: 2026-04-14T13:13:08Z
+  Updated: 2026-04-19T19:19:07Z
   Vendor: Doodle Doo Bakery
   Product Type: Dog Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/doodle-doo-bakery-dog-treat-rainbow-cookie-rainbow-cookie-1158660989.png?v=1774233249
   Price: $3.50 USD
 - [Homemade Dog Treats - 🥓 Bacon Cheddar Bits Treat 1/2lb | PetAmzStore](https://petamzstore.com/products/homemade-dog-treats-bacon-cheddar-bits-treat-1-2lb): 🐾 A Tail-Wagging Favorite for Cheese & Bacon Lovers! Give your pup irresistible bacon & cheesy goodness with our handmade Bacon Cheddar Bits! These bite-sized...
-  Updated: 2026-04-14T13:13:24Z
+  Updated: 2026-04-21T16:18:33Z
   Vendor: Doodle Doo Bakery
   Product Type: Dog Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/doodle-doo-dog-treat-homemade-dog-treats-bacon-cheddar-bits-treat-1-2lb-bacon-cheddar-bits-dog-treat-1-2lb-1214013169.png?v=1774233258
   Price: $9.99 USD
 - [Homemade Dog Treats - 🥜 Peanut Butter Bits Dog | PetAmzStore](https://petamzstore.com/products/homemade-dog-treats-peanut-butter-bits-dog-biscuits-1-2lb): Crunchy, Nutty, & Tail-Wagging Delicious! 🐾 Every pup deserves a tasty, wholesome snack, and these Peanut Butter Bits are the ultimate treat! Baked fresh in...
-  Updated: 2026-04-16T02:19:16Z
+  Updated: 2026-04-19T19:19:09Z
   Vendor: Doodle Doo Bakery
   Product Type: Dog Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/doodle-doo-dog-treat-homemade-dog-treats-peanut-butter-bits-dog-biscuits-1-2lb-peanut-butter-bits-dog-treat-1-2lb-1214013167.png?v=1774233257
   Price: $9.99 USD
 - [Party Bag Treat Blend 1lb - Homemade Dog Treats | PetAmzStore](https://petamzstore.com/products/party-bag-treat-blend-1lb-homemade-dog-treats): 🏆Our #1 Top Seller!🏆 Treat your pup to the ultimate taste adventure with our Four Fur Fan Favorites - a drool-worthy 1 POUND blend! 🐶🤤 This scrumptious...
-  Updated: 2026-04-14T13:13:10Z
+  Updated: 2026-04-21T16:36:36Z
   Vendor: Doodle Doo Bakery
   Product Type: Dog Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/doodle-doo-dog-treat-party-bag-treat-blend-1lb-party-bag-dog-treat-blend-1lb-41072947036412.png?v=1774233257
   Price: $16.99 USD
 - [Homemade Dog Treats - Cheesy Goldfish 1/2lb 🐶 | PetAmzStore](https://petamzstore.com/products/homemade-dog-treats-cheesy-goldfish-1-2lb-🐶): Crunchy, Cheesy, and Tail-Waggingly Delicious! Give your pup a treat they'll drool over with our Cheesy Goldfish Dog Treats! These bite-sized, oven-baked...
-  Updated: 2026-04-14T13:13:15Z
+  Updated: 2026-04-21T16:36:37Z
   Vendor: Doodle Doo Bakery
   Product Type: Dog Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/doodle-doo-bakery-dog-treat-homemade-dog-treats-cheesy-goldfish-1-2lb-cheesy-goldfish-dog-treats-1-2lb-1193337618.png?v=1774233257
   Price: $9.99 USD
 - [Homemade Dog Treats - 🎃 Pumpkin Bits Dog Biscuits 1/2lb | PetAmzStore](https://petamzstore.com/products/homemade-dog-treats-🎃-pumpkin-bits-dog-biscuits-1-2lb): 🍂 Fall Flavor, Year-Round Delight! Give your pup a wholesome, tail-wagging treat with our Pumpkin Bits Dog Biscuits! Made with real pumpkin, oats, and...
-  Updated: 2026-04-16T15:19:08Z
+  Updated: 2026-04-21T16:36:37Z
   Vendor: Doodle Doo Bakery
   Product Type: Dog Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/doodle-doo-dog-treat-homemade-dog-treats-pumpkin-bits-dog-biscuits-1-2lb-homemade-dog-treats-pumpkin-bits-dog-biscuits-1-2lb-1214013171.png?v=1774233257
   Price: $9.99 USD
 - [🍃Homemade Dog Treats - Minty Breath Blend Dog Snacks | PetAmzStore](https://petamzstore.com/products/🍃homemade-dog-treats-minty-breath-blend-dog-snacks-1-2lb): 🐶🐾 Minty Breath Blend – Fresh Breath, Happy Pup! 🌿 🍃 The Perfect Treat for Fresh Kisses & Healthy Smiles! Say goodbye to stinky dog breath! Our Minty...
-  Updated: 2026-04-16T19:19:37Z
+  Updated: 2026-04-22T16:19:19Z
   Vendor: Doodle Doo Bakery
   Product Type: Dog Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/doodle-doo-bakery-dog-treat-homemade-dog-treats-minty-breath-blend-dog-snacks-1-2lb-homemade-dog-treats-minty-breath-blend-dog-snacks-1-2lb-1193337614.png?v=1774233257
   Price: $9.99 USD
 - [Pumpkin/BaconCheddar Pretzels | PetAmzStore](https://petamzstore.com/products/pumpkin-baconcheddar-pretzels): A Big Treat with Two Flavors for your Fido to love. PUMPKIN: Flour, Pumpkin, Eggs, Canola Oil, Oats, Vanilla, Cinnamon BACON CHEDDAR: Flour, Cheddar Cheese,...
-  Updated: 2026-04-16T19:19:47Z
+  Updated: 2026-04-20T17:45:43Z
   Vendor: Doodle Doo Bakery
   Product Type: Dog Treat
   Availability: Available
@@ -4278,98 +4278,98 @@ and availability are subject to change.
     Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/doodle-doo-bakery-dog-treat-pumpkin-baconcheddar-pretzels-pumpkin-baconcheddar-pretzels-1193337605.png?v=1774233257
     Price: $4.99 USD
 - [Homemade Dog Treats - 🍏 Applesauce Dips Treat 1/2lb 🍦 | PetAmzStore](https://petamzstore.com/products/homemade-dog-treats-🍏-applesauce-dips-treat-1-2lb-🍦): A Crunchy & Creamy Delight – Handmade with Love! 💕 🐾 A Classic Favorite, Now Even Better!Treat your pup to our famous Apple Bones, now dipped in creamy...
-  Updated: 2026-04-16T19:19:47Z
+  Updated: 2026-04-22T16:19:09Z
   Vendor: Doodle Doo Bakery
   Product Type: Dog Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/doodle-doo-dog-treat-homemade-dog-treats-applesauce-dips-treat-1-2lb-organic-applesauce-dipped-dog-treats-crunchy-delicious-healthy-1-2-lb-1193337620.png?v=1774233257
   Price: $9.99 USD
 - [Homemade Dog Treats - 🥜 Peanut Butter Cookies Treat | PetAmzStore](https://petamzstore.com/products/homemade-dog-treats-peanut-butter-cookies-treat-1-2lb): A Classic Favorite with a Crunchy Twist! 🐾 A Tail-Wagging Peanut Butter Delight!These homemade, oven-baked peanut butter cookies are crafted with love and...
-  Updated: 2026-04-16T02:19:16Z
+  Updated: 2026-04-21T16:36:37Z
   Vendor: Doodle Doo Bakery
   Product Type: Dog Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/doodle-doo-bakery-dog-treat-homemade-dog-treats-peanut-butter-cookies-treat-1-2lb-crunchy-peanut-butter-dog-treats-healthy-homemade-natural-1-2-lb-1193337610.png?v=1774233257
   Price: $9.99 USD
 - [🍗Homemade Dog Treats - Chicken Treat 1/2lb | PetAmzStore](https://petamzstore.com/products/🍗homemade-dog-treats-chicken-treat-1-2lb): 🔥 Premium, All-Natural Chicken Dog Treats! Give your pup the tastiest, protein-packed reward with our Chicken Treats! Made with real chicken, whole grains,...
-  Updated: 2026-04-14T13:13:16Z
+  Updated: 2026-04-19T19:19:11Z
   Vendor: Doodle Doo Bakery
   Product Type: Dog Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/doodle-doo-dog-treat-homemade-dog-treats-chicken-treat-1-2lb-chicken-dog-treat-1-2lb-1193337627.png?v=1774233257
   Price: $9.99 USD
 - [🥜 Homemade Dog Treats - Peanut Butter Stix Treat 1/2lb | PetAmzStore](https://petamzstore.com/products/homemade-dog-treats-peanut-butter-stix-treat-1-2lb): Crunchy, Nutty, & Tail-Wagging Goodness! Treat your furry best friend to real peanut butter goodness with our handmade Peanut Butter Stix Treats! These...
-  Updated: 2026-04-16T19:19:48Z
+  Updated: 2026-04-21T16:36:37Z
   Vendor: Doodle Doo Bakery
   Product Type: Dog Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/doodle-doo-bakery-dog-treat-homemade-dog-treats-peanut-butter-stix-treat-1-2lb-homemade-dog-treats-peanut-butter-stix-treat-1-2lb-1193337624.png?v=1774233257
   Price: $9.99 USD
 - [🥓 Homemade Dog Treats -  Bacon Cheddar Poppers Treat | PetAmzStore](https://petamzstore.com/products/homemade-dog-treats-bacon-cheddar-poppers-treat-1-2lb): The Ultimate Cheesy, Smoky Snack Your Pup Will Love! 🐾 Treat your dog to a bold and flavorful snack with real cheddar & crispy bacon in every bite! These...
-  Updated: 2026-04-14T21:53:16Z
+  Updated: 2026-04-22T03:19:35Z
   Vendor: Doodle Doo Bakery
   Product Type: Dog Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/doodle-doo-dog-treat-homemade-dog-treats-bacon-cheddar-poppers-treat-1-2lb-bacon-cheddar-poppers-dog-treat-1-2lb-1193337631.png?v=1774233257
   Price: $9.99 USD
 - [Homemade Dog Treats -🍏 Apple Bits Dog Biscuits 1/2 lb. | PetAmzStore](https://petamzstore.com/products/homemade-dog-treats-🍏-apple-bits-dog-biscuits-1-2-lb): 🐶 A Naturally Sweet & Crunchy Delight for Your Pup! 🦴 Give your furry friend a wholesome, flavorful treat with our Apple Bits Dog Biscuits! Made with real...
-  Updated: 2026-04-14T13:13:13Z
+  Updated: 2026-04-21T16:36:37Z
   Vendor: Doodle Doo Bakery
   Product Type: Dog Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/doodle-doo-dog-treat-homemade-dog-treats-apple-bits-dog-biscuits-1-2-lb-apple-bits-dog-treat-1-2-lb-1214013177.png?v=1774233257
   Price: $9.99 USD
 - [Rescue Me Cookie | PetAmzStore](https://petamzstore.com/products/rescue-me-cookie): Ingredients:Flour, Applesauce, Cinnamon, Parsley, Canola Oil, Eggs, Yogurt icing
-  Updated: 2026-04-14T13:13:16Z
+  Updated: 2026-04-19T19:19:11Z
   Vendor: Doodle Doo Bakery
   Product Type: Dog Treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/doodle-doo-bakery-dog-treats-rescue-me-cookie-rescue-me-cookie-1193324969.png?v=1774233257
   Price: $3.00 USD
 - [Flipper MAX FLOAT 2 in 1 Magnetic Aquarium Algae Cleaner | PetAmzStore](https://petamzstore.com/products/flipper-max-float-2-in-1-magnetic-aquarium-algae-cleaner): For Glass and Acrylic Tanks Up to 3/4" (19mm) Thick Scrub, Flip, Scrape, and *FLOAT* with the patented FL!PPER Aquarium Cleaner. The new Floating Flipper is...
-  Updated: 2026-04-16T23:58:15Z
+  Updated: 2026-04-23T15:22:56Z
   Vendor: Flipper Aquarium Products
   Product Type: Scrubber
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/FL_PPER_-_Max_float_-_HERO.png?v=1774233403
   Price: $94.99 USD
 - [Flipper Platinum Aquarium Algae Scraper - 18" | PetAmzStore](https://petamzstore.com/products/flipper-platinum-aquarium-algae-scraper-18): Safe for Both Glass and Acrylic Tanks! Flipper Platinum Aquarium Hand Scraper for Glass and Acrylic Tanks 18" Patent pending design allows you to use any old...
-  Updated: 2026-04-16T14:17:07Z
+  Updated: 2026-04-23T01:35:12Z
   Vendor: Flipper Aquarium Products
   Product Type: Hand Held Scraper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/FL_PPER_-_HERO_dc78813e-489b-4aa5-b837-67443e8d230e.png?v=1774233407
   Price: $21.99 USD
 - [Flipper Platinum Aquarium Algae Scraper - 28" | PetAmzStore](https://petamzstore.com/products/flipper-platinum-aquarium-algae-scraper-28): Safe for Both Glass and Acrylic Tanks! Flipper Platinum Aquarium Hand Scraper for Glass and Acrylic Tanks - 28" Patent pending design allows you to use any old...
-  Updated: 2026-04-16T15:58:18Z
+  Updated: 2026-04-23T02:03:08Z
   Vendor: Flipper Aquarium Products
   Product Type: Hand Held Scraper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/FL_PPER_-_HERO_06330bcd-65aa-471c-8e51-c1fb7ee72fe0.png?v=1774233407
   Price: $29.99 USD
 - [Flipper Platinum Aquarium Algae Scraper - 10" | PetAmzStore](https://petamzstore.com/products/flipper-platinum-aquarium-algae-scraper-10): Safe for Both Glass and Acrylic Tanks! Flipper Platinum Aquarium Hand Scraper for Glass and Acrylic Tanks 10" Patent pending design allows you to use any old...
-  Updated: 2026-04-16T02:45:16Z
+  Updated: 2026-04-21T17:11:17Z
   Vendor: Flipper Aquarium Products
   Product Type: Hand Held Scraper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/FL_PPER_-_HERO.png?v=1774233407
   Price: $18.99 USD
 - [Flipper NANO FLOAT 2 in 1 Magnetic Aquarium Algae | PetAmzStore](https://petamzstore.com/products/flipper-nano-float-2-in-1-magnetic-aquarium-algae-cleaner): For use on glass tanks up to 6mm (1/4") thick or about 25 GallonsScrub, Flip, Scrape, and FLOAT with Flipper Aquarium Cleaner The Flipper Floating Nano...
-  Updated: 2026-04-16T23:40:26Z
+  Updated: 2026-04-23T22:22:16Z
   Vendor: Flipper Aquarium Products
   Product Type: Scrubber
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/FL_PPER_-_nano_float_-_HERO_1609f874-5063-4725-9256-7ae9c91799ed.png?v=1774233409
   Price: $29.99 USD
 - [Flipper FLOAT 2 in 1 Magnetic Aquarium Algae Cleaner | PetAmzStore](https://petamzstore.com/products/flipper-float-2-in-1-magnetic-aquarium-algae-cleaner-standard): For Glass and Acrylic Tanks Up to 1/2" (12mm) Thickness Scrub, Flip, Scrape, and *FLOAT* with the patented FL!PPER Aquarium Cleaner. The new Floating FL!PPER...
-  Updated: 2026-04-16T23:24:05Z
+  Updated: 2026-04-23T23:03:07Z
   Vendor: Flipper Aquarium Products
   Product Type: Scrubber
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/FL_PPER_-_Standard_float_-_HERO.png?v=1774233408
   Price: $49.99 USD
 - [Flipper Pico 2-in-1 Magnetic Aquarium Cleaner Magnet | PetAmzStore](https://petamzstore.com/products/flipper-pico-2-in-1-magnetic-aquarium-cleaner-magnet): Flipper's Signature 2-in-1 Magnetic Scrubber/Scraper in a fun-sized design for quick daily soft algae removal. Small dual sided magnetic aquarium cleaner has...
-  Updated: 2026-04-16T23:27:42Z
+  Updated: 2026-04-23T23:33:49Z
   Vendor: Flipper Aquarium Products
   Product Type: Scrubber
   Availability: Available
@@ -4382,28 +4382,28 @@ and availability are subject to change.
     Availability: Available
     Price: $18.99 USD
 - [Flipper Feed Aquarium Feeding Kit for Flipper Cleaners | PetAmzStore](https://petamzstore.com/products/flipper-feed-aquarium-feeding-kit-for-flipper-cleaners): The Flipper Feeding Kit turns any Flipper Cleaner into a versatile feeding station. Feed your fish - not your filter. Unique sealed feeding tube creates an...
-  Updated: 2026-04-16T13:39:16Z
+  Updated: 2026-04-22T19:43:17Z
   Vendor: Flipper Aquarium Products
   Product Type: Flipper Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/B089N1RTZXFeeder1Main.jpg?v=1774233407
   Price: $17.99 USD
 - [Bestia Dog Sport PRObiotics | PetAmzStore](https://petamzstore.com/products/bestia-dog-sport-probiotics): Bestia Dog Sport PRObiotics- The ultimate digestive and health support food supplement for dogs Just like humans, the majority of a dog’s immune system resides...
-  Updated: 2026-04-16T09:59:10Z
+  Updated: 2026-04-23T00:07:55Z
   Vendor: Bestia Dog Sport
   Product Type: Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/01_Bestia_-_Porbiotics.jpg?v=1774284278
   Price: $37.29 USD
 - [Bestia Dog Sport PM Recovery | PetAmzStore](https://petamzstore.com/products/bestia-dog-sport-pm-recovery): Bestia Dog Sport PM Recovery This 100% natural food supplements is specially developed to help your dog relax and recover from intensive workouts, long walks,...
-  Updated: 2026-04-16T08:50:54Z
+  Updated: 2026-04-19T19:19:10Z
   Vendor: Bestia Dog Sport
   Product Type: Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0808/2548/3503/files/04_Bestia_-_PM_Recovery.jpg?v=1774284283
   Price: $39.49 USD
 - [Bestia Dog Sport VitaMAX | PetAmzStore](https://petamzstore.com/products/bestia-dog-sport-vitamax): Bestia Dog Sport VitaMAX chewable dog Multi-vitamin and trace minerals Easy to administer yummy chicken-flavoured chewable tablets. The tablets are also easy...
-  Updated: 2026-04-16T10:23:54Z
+  Updated: 2026-04-19T19:19:11Z
   Vendor: Bestia Dog Sport
   Product Type: Supplements
   Availability: Available
@@ -4420,31 +4420,31 @@ and availability are subject to change.
   Updated: 2026-04-12T11:35:53Z
   Total Products: 23
 - [Pet Treats - Healthy Snacks & Rewards for Pets - PetAmzStore](https://petamzstore.com/collections/treats): Shop premium pet treats and snacks. Healthy, delicious rewards for dogs, cats, and more. Free shipping available.
-  Updated: 2026-04-16T11:37:51Z
+  Updated: 2026-04-18T11:40:36Z
   Total Products: 148
 - [Pet Fashion - Stylish Clothing & Accessories for Pets - PetAmzStore](https://petamzstore.com/collections/fashion): Shop trendy pet fashion including clothing, collars, and accessories. Keep your pet stylish and comfortable every day.
-  Updated: 2026-04-13T03:01:50Z
+  Updated: 2026-04-17T11:38:46Z
   Total Products: 76
 - [Pet Beds - Cozy & Comfortable Beds for Dogs & Cats - PetAmzStore](https://petamzstore.com/collections/beds): Shop premium pet beds for dogs and cats. Orthopedic, cozy, and stylish options for every pet. Free shipping available.
   Updated: 2026-04-15T22:55:14Z
   Total Products: 60
 - [Pet Health Products - Vitamins, Supplements & Wellness - PetAmzStore](https://petamzstore.com/collections/health): Shop pet health essentials including vitamins, supplements, and dental care. Keep your dog or cat healthy and happy.
-  Updated: 2026-04-13T13:00:20Z
-  Total Products: 46
+  Updated: 2026-04-19T19:19:24Z
+  Total Products: 53
 - [Pet Grooming Supplies - Shampoos, Brushes & Clippers - PetAmzStore](https://petamzstore.com/collections/grooming): Shop premium pet grooming supplies. Shampoos, brushes, nail clippers, and more to keep your pet clean and healthy.
-  Updated: 2026-04-14T22:00:56Z
-  Total Products: 59
+  Updated: 2026-04-22T20:20:18Z
+  Total Products: 66
 - [Pet Toys - Fun & Interactive Toys for Dogs & Cats - PetAmzStore](https://petamzstore.com/collections/pettoys): Shop premium pet toys for dogs and cats. Chew toys, interactive puzzles, and more to keep your pet happy and active.
-  Updated: 2026-04-12T17:55:08Z
+  Updated: 2026-04-20T21:33:52Z
   Total Products: 70
 - [APPPlaza - Best Sellers](https://petamzstore.com/collections/appplaza-best-sellers)
-  Updated: 2026-04-16T18:49:05Z
-  Total Products: 647
+  Updated: 2026-04-22T20:20:18Z
+  Total Products: 654
 - [AVADA - Best Sellers](https://petamzstore.com/collections/avada-best-sellers)
-  Updated: 2026-04-16T18:49:05Z
-  Total Products: 647
+  Updated: 2026-04-22T20:20:18Z
+  Total Products: 654
 - [Featured Pet Products - Hand-Picked Favorites - PetAmzStore](https://petamzstore.com/collections/-featured): Shop our hand-picked featured pet products. Premium supplies for dogs and cats.
-  Updated: 2026-04-16T19:02:53Z
+  Updated: 2026-04-17T11:38:46Z
   Total Products: 16
 - [Animals and Pet Supplies example products](https://petamzstore.com/collections/animals-and-pet-supplies-example-products)
   Updated: 2026-04-05T02:37:34Z
@@ -4456,13 +4456,13 @@ and availability are subject to change.
   Updated: 2026-04-09T23:18:55Z
   Total Products: 2
 - [Pet Bowls & Slow Feeders – Elevated & Stainless Steel Dog & Cat Bowls](https://petamzstore.com/collections/pet-bowls-slow-feeders): Shop our curated selection of pet bowls, slow feeders, and elevated feeders designed to support healthy eating habits for dogs and cats. From slow feeder bowls that promote mindful eating to elevated feeders that aid digestion, we have the perfect mealtime solution for your pet.
-  Updated: 2026-04-12T16:48:46Z
+  Updated: 2026-04-19T14:28:19Z
   Total Products: 17
 - [Pet Fountains & Water Bowls for Dogs & Cats – PetAmzStore](https://petamzstore.com/collections/pet-fountains-water-bowls): Shop pet fountains and water bowls for dogs and cats. Stainless steel, gravity-fed, and slow-feeder options to keep your pet hydrated.
   Updated: 2026-04-11T14:13:02Z
   Total Products: 5
 - [Pet Travel & On-the-Go Accessories for Dogs & Cats – PetAmzStore](https://petamzstore.com/collections/pet-travel-on-the-go): Shop pet travel bags, stroller caddies, and carriers for dogs and cats. Premium on-the-go accessories to keep your pet comfortable wherever you roam.
-  Updated: 2026-04-14T22:01:13Z
+  Updated: 2026-04-19T14:29:18Z
   Total Products: 52
 - [Best Cat Litter Boxes for Every Home - PetAmzStore](https://petamzstore.com/collections/cat-litter-boxes): Browse our premium cat litter boxes — covered, open, and self-cleaning styles for odor control and easy maintenance.
   Updated: 2026-04-11T14:06:48Z
@@ -4471,7 +4471,7 @@ and availability are subject to change.
   Updated: 2026-04-13T03:00:27Z
   Total Products: 11
 - [Waterproof Pet Blankets & Throws for Dogs - PetAmzStore](https://petamzstore.com/collections/pet-blankets-throws): Shop premium waterproof pet blankets and throws. Soft, durable, and furniture-safe — perfect for dogs and cats. Easy to clean and built to last.
-  Updated: 2026-04-14T22:01:26Z
+  Updated: 2026-04-19T14:26:18Z
   Total Products: 17
 - [Premium Dog Houses & Kennels for Every Size Dog - PetAmzStore](https://petamzstore.com/collections/dog-houses-kennels): Shop premium dog houses, kennels, and indoor crates at PetAmzStore. Durable, stylish, and built for comfort. Fast US shipping.
   Updated: 2026-04-15T22:47:30Z
@@ -4511,7 +4511,7 @@ and availability are subject to change.
 - [Privacy Policy](https://petamzstore.com/policies/privacy-policy)
   Updated: 2026-03-21T11:24:36-04:00
 - [Shipping Policy](https://petamzstore.com/policies/shipping-policy)
-  Updated: 2026-04-04T15:15:20-04:00
+  Updated: 2026-04-20T19:46:44-04:00
 - [Refund Policy](https://petamzstore.com/policies/refund-policy)
   Updated: 2026-03-23T18:31:19-04:00
 - [Terms of Service](https://petamzstore.com/policies/terms-of-service)
