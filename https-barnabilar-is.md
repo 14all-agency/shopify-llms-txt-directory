@@ -6,7 +6,7 @@
 - Timezone: Africa/Monrovia
 - Created At: 2024-10-22T09:47:11Z
 - Contact Email: barnabilar@barnabilar.is
-- Updated At: 2026-04-16T00:00:38.902Z
+- Updated At: 2026-04-24T00:00:40.809Z
 
 Barnabilar.is is an Iceland-based e-commerce store specializing in electric ride-on cars, buggies, and vehicles for children. The store offers high-powered battery-operated cars designed for outdoor and indoor use, combining safety, durability, and fun.
 
@@ -17,7 +17,7 @@ Barnabilar.is serves families across Iceland with delivery options, local pickup
 ## Products
 
 - [Auka rafhlöðubox](https://barnabilar.is/products/rafhlodubox): Auka raflhöðubox
-  Updated: 2026-03-11T10:46:37Z
+  Updated: 2026-04-16T19:51:18Z
   Vendor: My Store
   Product Type: Rafhlaða
   Availability: Available
@@ -87,28 +87,28 @@ Barnabilar.is serves families across Iceland with delivery options, local pickup
   Image: https://cdn.shopify.com/s/files/1/0680/5435/2058/files/H21db64e0f2e9425094c5db769695e3c92_webp.jpg?v=1732628837
   Price: kr 30,900.00 ISK
 - [Samsetning á Barnabíl ( báðar gerðir)](https://barnabilar.is/products/samsetning-a-barnabil): Meðalmaður er ca 35 minútur að setja saman barnabíl. ef þú treystir þér ekki í það þá getum við gert það fyrir þig. athugið þó að þá þurfum við að taka hann úr umbúðunum og getum ekki sent hann á landsbyggðina. þetta er gert utan hefðbundins verslunartíma og gæti tafið afhendingu.
-  Updated: 2026-02-10T19:06:23Z
+  Updated: 2026-04-23T15:03:57Z
   Vendor: Barnabílar
   Product Type: Samsetning
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0680/5435/2058/files/il_fullxfull.2952514006_hia9.webp?v=1742134416
   Price: kr 20,000.00 ISK
 - [Nýr Ofur Buggy Rauður](https://barnabilar.is/products/nyr-ofur-buggy-raudur): Ítarlegir lúxuseiginleikar: ✅ Mótorar 4 x 795W fyrir öfluga frammistöðu✅ Hámarkshraði: Nær allt að 20 km/h - 3 hraða stillingar í boði.✅ Hámarksburðargeta: 100 kg – ein sú mesta í sínum flokki.✅ Langur notkunartími: 24V14Ah rafhlaða, yfir 1 klst leiktími.✅ Dekk: Gúmmídekk fyrir gott grip á grasi, möl og mold.✅ Lúxus þægindi: Stillanleg sæti með öryggisbelti.✅ Fjöðrunarbúnaður: Fram og aftur með fjaðrun fyrir mjúka torfæruför.✅ Fjarstýring: 2.4GHz Bluetooth RC fyrir foreldrastýringu. 🎵 Afþreying & Tækni: MP3 tónlistarkerfi með skjá USB tengi LED fram- og afturljós Auðveld ræsing með hnappi ✅ Aðrir eiginleikar: Tvö rúmgóð sæti Mjúk ræsing fyrir jafna hröðun Undirvagnsvörn sem eykur endingu Afturhleri fyrir raunhæft UTV útlit
-  Updated: 2026-04-09T11:51:29Z
+  Updated: 2026-04-21T12:33:28Z
   Vendor: Barnabílar
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0680/5435/2058/files/22.png?v=1765538586
   Price: kr 135,915.00 ISK
 - [Nýr Ofur Buggy Neon Green](https://barnabilar.is/products/nyr-ofur-buggy-neon-green): Ítarlegir lúxuseiginleikar: ✅ Mótorar 4 x 795W fyrir öfluga frammistöðu✅ Hámarkshraði: Nær allt að 20 km/h - 3 hraða stillingar í boði.✅ Hámarksburðargeta: 100 kg – ein sú mesta í sínum flokki.✅ Langur notkunartími: 24V14Ah rafhlaða, yfir 1 klst leiktími.✅ Dekk: Gúmmídekk fyrir gott grip á grasi, möl og mold.✅ Lúxus þægindi: Stillanleg sæti með öryggisbelti.✅ Fjöðrunarbúnaður: Fram og aftur með fjaðrun fyrir mjúka torfæruför.✅ Fjarstýring: 2.4GHz Bluetooth RC fyrir foreldrastýringu. 🎵 Afþreying & Tækni: MP3 tónlistarkerfi með skjá USB tengi LED fram- og afturljós Auðveld ræsing með hnappi ✅ Aðrir eiginleikar: Tvö rúmgóð sæti Mjúk ræsing fyrir jafna hröðun Undirvagnsvörn sem eykur endingu Afturhleri fyrir raunhæft UTV útlit
-  Updated: 2026-04-03T18:03:46Z
+  Updated: 2026-04-23T15:04:12Z
   Vendor: Barnabílar
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0680/5435/2058/files/zforce-rzr-turbo-24v-ride-on-buggy-4x795w-motors-2-seater-utv-15-kmh-220-lbs-capacity-leather-seats-eva-tires-mp4-remote-control-642862.webp?v=1765197789
   Price: kr 127,415.00 ISK
 - [Nýr Ofur Buggy Baby Blue](https://barnabilar.is/products/nyr-ofur-buggy-baby-blue): Ítarlegir lúxuseiginleikar: ✅ Mótorar 4 x 795W fyrir öfluga frammistöðu✅ Hámarkshraði: Nær allt að 20 km/h - 3 hraða stillingar í boði.✅ Hámarksburðargeta: 100 kg – ein sú mesta í sínum flokki.✅ Langur notkunartími: 24V14Ah rafhlaða, yfir 1 klst leiktími.✅ Dekk: Gúmmídekk fyrir gott grip á grasi, möl og mold.✅ Lúxus þægindi: Stillanleg sæti með öryggisbelti.✅ Fjöðrunarbúnaður: Fram og aftur með fjaðrun fyrir mjúka torfæruför.✅ Fjarstýring: 2.4GHz Bluetooth RC fyrir foreldrastýringu. 🎵 Afþreying & Tækni: MP3 tónlistarkerfi með skjá USB tengi LED fram- og afturljós Auðveld ræsing með hnappi ✅ Aðrir eiginleikar: Tvö rúmgóð sæti Mjúk ræsing fyrir jafna hröðun Undirvagnsvörn sem eykur endingu Afturhleri fyrir raunhæft UTV útlit
-  Updated: 2026-04-13T16:06:37Z
+  Updated: 2026-04-23T16:09:36Z
   Vendor: Barnabílar
   Product Type: 
   Availability: Available
@@ -125,22 +125,22 @@ Barnabilar.is serves families across Iceland with delivery options, local pickup
 ## Collections
 
 - [Home page](https://barnabilar.is/collections/frontpage)
-  Updated: 2026-04-14T11:24:53Z
+  Updated: 2026-04-23T11:26:27Z
   Total Products: 6
 - [Challenger XL](https://barnabilar.is/collections/challenger-xl)
   Updated: 2025-09-27T11:16:35Z
   Total Products: 2
 - [Aukahlutir](https://barnabilar.is/collections/aukahlutir)
-  Updated: 2026-03-17T11:20:14Z
+  Updated: 2026-04-17T11:26:07Z
   Total Products: 11
 - [Ofur Barnabíll 2025 árgerðin !](https://barnabilar.is/collections/zh666-barnabill-2025-argerdin): Þessi öflugi barnabíll var að lenda , öflugri mótorar og meiri burðargeta sjón er sögu ríkari
   Updated: 2025-08-09T11:12:41Z
   Total Products: 4
 - [Buggy-bílarnir eru lentir !](https://barnabilar.is/collections/forsala-hafin-nyju-buggy-bilarnir-lenda-3-januar): Nýju Buggy-bílarnir
-  Updated: 2026-04-14T11:24:53Z
+  Updated: 2026-04-23T11:26:27Z
   Total Products: 4
 - [Products](https://barnabilar.is/collections/products)
-  Updated: 2026-04-14T11:29:50Z
+  Updated: 2026-04-23T11:26:27Z
   Total Products: 21
 
 ## Store Pages
