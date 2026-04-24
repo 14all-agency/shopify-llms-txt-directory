@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2023-09-08T02:47:30Z
 - Contact Email: store@snapsteps.ca
-- Updated At: 2026-04-11T00:00:36.612Z
+- Updated At: 2026-04-24T00:00:38.423Z
 
 ## Products
 
 - [ZR2 & Canyon AT4X High Mount Snap-On Side Steps 16-22 Gen2  Roof Rack](https://www.zr2steps.com/products/zr2-canyon-at4x-high-mount-snap-on-side-steps-16-22-gen2-roof-rack): Original high mount snap on side steps for 2016-2022 ZR2/AT4X. Max roof rack reach from sliders, tool free, quick-remove, carbon fiber. Patent protected.
-  Updated: 2026-03-21T16:47:52Z
+  Updated: 2026-04-20T18:36:20Z
   Vendor: ZR2STEPS.COM
   Product Type: Accessory
   Availability: Available
@@ -50,7 +50,7 @@ These steps have been specifically designed to work independently, but also in c
 If you prefer a fixed emplacement, the inner channel allows a piece of weather strip (included) to be adhered which will effectively prevent them from being adjustable in position.
 
 Our Snap-On side steps product line, characterized by tool-free and hardware-free installation, is covered under an allowed U.S. utility patent. Any derivatives or variants not sold under ZR2Steps are unauthorized.
-  Updated: 2026-04-08T22:52:47Z
+  Updated: 2026-04-20T18:36:20Z
   Vendor: ZR2STEPS.COM
   Product Type: Accessory
   Availability: Available
@@ -69,7 +69,7 @@ This is the big beefy duality! Sometimes you want a boost in, and sometimes you 
 If you prefer a fixed emplacement, the inner channel allows a piece of weather strip (included) to be adhered which will effectively prevent them from being adjustable in position.
 
 Our Snap-On side steps product line, characterized by tool-free and hardware-free installation, is covered under an allowed U.S. utility patent. Any derivatives or variants not sold under ZR2Steps are unauthorized.
-  Updated: 2026-04-08T22:52:48Z
+  Updated: 2026-04-20T18:36:20Z
   Vendor: ZR2STEPS.COM
   Product Type: Accessory
   Availability: Available
@@ -89,7 +89,7 @@ This is the original, cantilever, high quality, high ground  Snap-On Side step. 
 The Classic variant (4") is a little more compact than the standard step (5"), but just as sturdy. Specifically designed to fit that middle gap on your sliders, but just as useful everywhere else.
 
 Our Snap-On side steps product line, characterized by tool-free and hardware-free installation, is covered under an allowed U.S. utility patent. Any derivatives or variants not sold under ZR2Steps are unauthorized.
-  Updated: 2026-04-08T19:31:58Z
+  Updated: 2026-04-20T18:36:20Z
   Vendor: ZR2STEPS.COM
   Product Type: Accessory
   Availability: Available
@@ -123,7 +123,7 @@ Our Snap-On side steps product line, characterized by tool-free and hardware-fre
     Image: https://cdn.shopify.com/s/files/1/0821/9931/4750/files/Screenshot_2025-10-11_233644.jpg?v=1773960606
     Price: $400.00 CAD
 - [Colorado ZR2 & Canyon AT4X Snap-On Side Steps 2016-2022 Mid Height](https://www.zr2steps.com/products/colorado-zr2-canyon-at4x-snap-on-side-steps-2016-2022-gen2-mid-height): Patent-pending snap-on side steps for 2016-2022 Chevy Colorado ZR2 & GMC Canyon AT4X. Mid-height design: tool-free install, quick-remove for off-road , durable carbon fiber-reinforced PETG, self-righting on impact.
-  Updated: 2026-04-08T22:52:49Z
+  Updated: 2026-04-20T18:36:21Z
   Vendor: ZR2STEPS.COM
   Product Type: Accessory
   Availability: Available
@@ -147,7 +147,7 @@ Fitment - GM OEM rock sliders by AEV for - 2023-2025 Colorado ZR2/Canyon AT4X
 This step has been designed to provide a 4 inch drop from the High Step. These are meant to aid with entry and exit of the vehicle, while maintaining a minimalist profile that installs easily without tools or hardware. 
 
 Our Snap-On side steps product line, characterized by tool-free and hardware-free installation, is covered under an allowed U.S. utility patent. Any derivatives or variants not sold under ZR2Steps are unauthorized.
-  Updated: 2026-04-10T21:03:50Z
+  Updated: 2026-04-20T18:36:21Z
   Vendor: 3DPSQ
   Product Type: Accessory
   Availability: Available
@@ -183,7 +183,7 @@ Fitment - Chevy Silverado ZR2 and Bison WITH AEV rock sliders.
 Made of composite thermoplastic and infused with carbon fibers for an ideal profile of toughness, these steps install easily on your rock sliders without tools or hardware. We are the original inventors of the Snap-On side step in 2023. 
 
 Our expanding product line, characterized by tool-free and hardware-free installation, is covered under an allowed U.S. utility patent. Any derivatives or variants not sold under ZR2Steps are unauthorized.
-  Updated: 2026-03-30T21:33:37Z
+  Updated: 2026-04-20T18:36:21Z
   Vendor: ZR2STEPS.COM
   Product Type: Accessory
   Availability: Available
@@ -216,31 +216,31 @@ Our expanding product line, characterized by tool-free and hardware-free install
 ## Collections
 
 - [ZR2/ATX4 Snap-On Side Steps](https://www.zr2steps.com/collections/zr2-atx4-snap-steps)
-  Updated: 2026-04-08T22:05:27Z
+  Updated: 2026-04-20T18:36:10Z
   Total Products: 7
 - [Gen 2 ZR2/AT4X Snap-On Side Steps](https://www.zr2steps.com/collections/gen-2-zr2-snap-steps)
-  Updated: 2026-04-03T11:20:05Z
+  Updated: 2026-04-20T18:36:10Z
   Total Products: 4
 - [Gen 3 ZR2/AT4X Snap-On Side Steps](https://www.zr2steps.com/collections/gen-3-zr2-snap-steps-2023-2025)
-  Updated: 2026-04-08T22:05:27Z
+  Updated: 2026-04-20T18:36:10Z
   Total Products: 3
 - [Silverado ZR2 AEV Bison Snap-On Side Steps](https://www.zr2steps.com/collections/silverado-zr2-aev-bison)
-  Updated: 2026-03-31T11:17:00Z
+  Updated: 2026-04-20T18:36:10Z
   Total Products: 2
 - [Toyota Snap-On Side Steps](https://www.zr2steps.com/collections/toyota)
-  Updated: 2026-04-05T00:35:40Z
+  Updated: 2026-04-20T18:36:10Z
   Total Products: 3
 - [AVADA - Best Sellers](https://www.zr2steps.com/collections/avada-best-sellers)
-  Updated: 2026-04-08T22:05:27Z
+  Updated: 2026-04-17T11:19:44Z
   Total Products: 12
 - [Featured Products Snap-On Side Steps](https://www.zr2steps.com/collections/featured-products)
-  Updated: 2026-04-05T00:35:40Z
+  Updated: 2026-04-20T18:36:10Z
   Total Products: 7
 - [Modularity Snap-On Side Steps](https://www.zr2steps.com/collections/modularity): Our V2 lineup of extra utility next gen designs.
-  Updated: 2026-03-15T20:43:32Z
+  Updated: 2026-04-20T18:36:10Z
   Total Products: 1
 - [Trail Hunter Snap-On Side Steps](https://www.zr2steps.com/collections/trail-hunter): 2024+ Snap on step variations from ZR2Steps.com
-  Updated: 2026-04-05T00:35:40Z
+  Updated: 2026-04-20T18:36:10Z
   Total Products: 2
 
 ## Blogs
