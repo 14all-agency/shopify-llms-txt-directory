@@ -6,12 +6,12 @@
 - Timezone: Europe/Rome
 - Created At: 2024-10-28T07:24:43Z
 - Contact Email: godigitalstar@gmail.com
-- Updated At: 2026-04-11T00:00:43.736Z
+- Updated At: 2026-04-24T00:00:45.260Z
 
 ## Products
 
 - [New Balance NB 9060 Quartz Grey](https://vibesmilano.com/products/new-balance-nb-9060-bianco-rosa): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE Tempi di spedizione: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:25:46Z
+  Updated: 2026-04-20T21:53:21Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -65,7 +65,7 @@
     Availability: Available
     Price: 169,00 € EUR
 - [New Balance NB 9060 Olivine](https://vibesmilano.com/products/new-balance-nb-9060-verde-chiaro): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTE: Tempi dispedizione: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:25:46Z
+  Updated: 2026-04-20T21:53:22Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -119,7 +119,7 @@
     Availability: Available
     Price: 159,00 € EUR
 - [New Balance NB 9060 Exclusive Pink Overdye Asos](https://vibesmilano.com/products/new-balance-nb-9060-rosa): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTE: TEMPI DI SPEDIZIONE 12-14 GIORNI LAVORATIVI
-  Updated: 2026-03-30T21:25:46Z
+  Updated: 2026-04-20T21:53:23Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -173,7 +173,7 @@
     Availability: Available
     Price: 169,00 € EUR
 - [Salomon XT-6 nero](https://vibesmilano.com/products/salomon-xt-6-nero): Le sneakers Salomon XT-6 sono perfette per correre su tutti i tipi di terreno. Sono avvolte da un composto in mesh traspirante e resistente pellicola in TPU, per consentirti di percorrere grandi distanze agevolmente. L'intersuola è stata imbottita in EVA mentre il battistrada ha motivi geometrici. La suola è in gomma per garantire un'aderenza perfetta e per percorrere in sicurezza anche le strade più impegnative Caratteristiche della Salomon XT-6: Struttura affusolata e impermeabile Rivestimento in mesh e TPU sulla tomaia Sistema di allacciatura Quicklace Rivestimento in tessuto Suola interna in tessuto Ammortizzazione in EVA Struttura per la corsa in discesa e suola in gomma con scanalature geometriche Tempi di consegna: 10-12 giorni
-  Updated: 2026-04-05T04:38:28Z
+  Updated: 2026-04-20T21:53:24Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -230,7 +230,7 @@
     Availability: Available
     Price: 169,00 € EUR
 - [Salomon XT-6 White Lunar Rock](https://vibesmilano.com/products/salomon-xt-6-ghiaccio-nero): Le sneakers Salomon XT-6 sono perfette per correre su tutti i tipi di terreno. Sono avvolte da un composto in mesh traspirante e resistente pellicola in TPU, per consentirti di percorrere grandi distanze agevolmente. L'intersuola è stata imbottita in EVA mentre il battistrada ha motivi geometrici. La suola è in gomma per garantire un'aderenza perfetta e per percorrere in sicurezza anche le strade più impegnative. Caratteristiche della Salomon XT-6: Struttura affusolata e impermeabile Rivestimento in mesh e TPU sulla tomaia Sistema di allacciatura Quicklace Rivestimento in tessuto Suola interna in tessuto Ammortizzazione in EVA Struttura per la corsa in discesa e suola in gomma con scanalature geometriche NOTE Tempi di consegna: 12-14 giorni lavorativi.
-  Updated: 2026-03-30T21:25:47Z
+  Updated: 2026-04-20T21:53:24Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -287,7 +287,7 @@
     Availability: Available
     Price: 169,00 € EUR
 - [Salomon XT-6 Vanilla Ice Aloy](https://vibesmilano.com/products/salomon-xt-6-gray): Le sneakers Salomon XT-6 sono perfette per correre su tutti i tipi di terreno. Sono avvolte da un composto in mesh traspirante e resistente pellicola in TPU, per consentirti di percorrere grandi distanze agevolmente. L'intersuola è stata imbottita in EVA mentre il battistrada ha motivi geometrici. La suola è in gomma per garantire un'aderenza perfetta e per percorrere in sicurezza anche le strade più impegnative. Caratteristiche della Salomon XT-6: Struttura affusolata e impermeabile Rivestimento in mesh e TPU sulla tomaia Sistema di allacciatura Quicklace Rivestimento in tessuto Suola interna in tessuto Ammortizzazione in EVA Struttura per la corsa in discesa e suola in gomma con scanalature geometriche Tempi di consegna: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:25:47Z
+  Updated: 2026-04-20T21:53:25Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -344,7 +344,7 @@
     Availability: Available
     Price: 169,00 € EUR
 - [New Balance 530 bianco/marrone](https://vibesmilano.com/products/new-balance-530-bianco): New Balance 530 è una sneaker dal tocco vintage, creata per garantire il massimo comfort grazie ad una nuova tecnologia. Rappresenta la combinazione perfetta tra lo stile rétro e l'estetica sportiva dei tempi moderni. La tomaia in materiale sintetico e mesh garantisce resistenza, massimo comfort e traspirabilità, per una sensazione di asciutto a ogni passo. Combinando ammortizzazione e resistenza alla compressione, l'intersuola ABZORB garantisce un eccezionale assorbimento degli urti, per camminare nella massima leggerezza. Caratteristiche delle New Balance 530: Tomaia in materiale sintetico e mesh Chiusura con lacci tono su tono Caratteristico logo "N" Intersuola con ammortizzazione ABZORB Suola in gomma NOTE: 1) Prestare molta attenzione nella scelta del numero 2) A causa della forte richiesta dovuta alla promozione in corso, per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:25:47Z
+  Updated: 2026-04-20T21:53:25Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -392,7 +392,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [New Balance 530 écru](https://vibesmilano.com/products/new-balance-530-ecru-colori-introvabili-sul-mercato-italiano): New Balance 530 è una sneaker dal tocco vintage, creata per garantire il massimo comfort grazie ad una nuova tecnologia. Rappresenta la combinazione perfetta tra lo stile rétro e l'estetica sportiva dei tempi moderni. La tomaia in materiale sintetico e mesh garantisce resistenza, massimo comfort e traspirabilità, per una sensazione di asciutto a ogni passo. Combinando ammortizzazione e resistenza alla compressione, l'intersuola ABZORB garantisce un eccezionale assorbimento degli urti, per camminare nella massima leggerezza. Caratteristiche delle New Balance 530: Tomaia in materiale sintetico e mesh Chiusura con lacci tono su tono Caratteristico logo "N" Intersuola con ammortizzazione ABZORB Suola in gomma NOTE: 1) Prestare molta attenzione nella scelta del numero 2) A causa della forte richiesta dovuta alla promozione in corso, per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:25:48Z
+  Updated: 2026-04-20T21:53:26Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -440,7 +440,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [New Balance 530 verde](https://vibesmilano.com/products/new-balance-530-verde-colore-introvabile-sul-mercato-italiano): New Balance 530 è una sneaker dal tocco vintage, creata per garantire il massimo comfort grazie ad una nuova tecnologia. Rappresenta la combinazione perfetta tra lo stile rétro e l'estetica sportiva dei tempi moderni. La tomaia in materiale sintetico e mesh garantisce resistenza, massimo comfort e traspirabilità, per una sensazione di asciutto a ogni passo. Combinando ammortizzazione e resistenza alla compressione, l'intersuola ABZORB garantisce un eccezionale assorbimento degli urti, per camminare nella massima leggerezza. Caratteristiche delle New Balance 530: Tomaia in materiale sintetico e mesh Chiusura con lacci tono su tono Caratteristico logo "N" Intersuola con ammortizzazione ABZORB Suola in gomma NOTE: 1) Prestare molta attenzione nella scelta del numero 2) A causa della forte richiesta dovuta alla promozione in corso, per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:25:48Z
+  Updated: 2026-04-20T21:53:28Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -488,7 +488,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [New Balance 530 bianco](https://vibesmilano.com/products/new-balance-530-bianco-1): New Balance 530 è una sneaker dal tocco vintage, creata per garantire il massimo comfort grazie ad una nuova tecnologia. Rappresenta la combinazione perfetta tra lo stile rétro e l'estetica sportiva dei tempi moderni. La tomaia in materiale sintetico e mesh garantisce resistenza, massimo comfort e traspirabilità, per una sensazione di asciutto a ogni passo. Combinando ammortizzazione e resistenza alla compressione, l'intersuola ABZORB garantisce un eccezionale assorbimento degli urti, per camminare nella massima leggerezza. Caratteristiche delle New Balance 530: Tomaia in materiale sintetico e mesh Chiusura con lacci tono su tono Caratteristico logo "N" Intersuola con ammortizzazione ABZORB Suola in gomma NOTE: 1) Prestare molta attenzione nella scelta del numero 2) A causa della forte richiesta dovuta alla promozione in corso, per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:25:48Z
+  Updated: 2026-04-20T21:53:28Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -536,7 +536,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [New Balance 530 bianco/argento](https://vibesmilano.com/products/new-balance-530-bianco-argento): New Balance 530 è una sneaker dal tocco vintage, creata per garantire il massimo comfort grazie ad una nuova tecnologia. Rappresenta la combinazione perfetta tra lo stile rétro e l'estetica sportiva dei tempi moderni. La tomaia in materiale sintetico e mesh garantisce resistenza, massimo comfort e traspirabilità, per una sensazione di asciutto a ogni passo. Combinando ammortizzazione e resistenza alla compressione, l'intersuola ABZORB garantisce un eccezionale assorbimento degli urti, per camminare nella massima leggerezza. Caratteristiche delle New Balance 530: Tomaia in materiale sintetico e mesh Chiusura con lacci tono su tono Caratteristico logo "N" Intersuola con ammortizzazione ABZORB Suola in gomma NOTE: 1) Prestare molta attenzione nella scelta del numero 2) A causa della forte richiesta dovuta alla promozione in corso, per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:25:48Z
+  Updated: 2026-04-20T21:53:29Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -584,7 +584,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [New Balance 530 argento/verde](https://vibesmilano.com/products/new-balance-530-argento-verde-colore-introvabile-in-italia): New Balance 530 è una sneaker dal tocco vintage, creata per garantire il massimo comfort grazie ad una nuova tecnologia. Rappresenta la combinazione perfetta tra lo stile rétro e l'estetica sportiva dei tempi moderni. La tomaia in materiale sintetico e mesh garantisce resistenza, massimo comfort e traspirabilità, per una sensazione di asciutto a ogni passo. Combinando ammortizzazione e resistenza alla compressione, l'intersuola ABZORB garantisce un eccezionale assorbimento degli urti, per camminare nella massima leggerezza. Caratteristiche delle New Balance 530: Tomaia in materiale sintetico e mesh Chiusura con lacci tono su tono Caratteristico logo "N" Intersuola con ammortizzazione ABZORB Suola in gomma NOTE: 1) Prestare molta attenzione nella scelta del numero 2) A causa della forte richiesta dovuta alla promozione in corso, per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:25:49Z
+  Updated: 2026-04-20T21:53:30Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -632,7 +632,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [New Balance 530 bianco/nero](https://vibesmilano.com/products/new-balance-530-bianco-nero): New Balance 530 è una sneaker dal tocco vintage, creata per garantire il massimo comfort grazie ad una nuova tecnologia. Rappresenta la combinazione perfetta tra lo stile rétro e l'estetica sportiva dei tempi moderni. La tomaia in materiale sintetico e mesh garantisce resistenza, massimo comfort e traspirabilità, per una sensazione di asciutto a ogni passo. Combinando ammortizzazione e resistenza alla compressione, l'intersuola ABZORB garantisce un eccezionale assorbimento degli urti, per camminare nella massima leggerezza. Caratteristiche delle New Balance 530: Tomaia in materiale sintetico e mesh Chiusura con lacci tono su tono Caratteristico logo "N" Intersuola con ammortizzazione ABZORB Suola in gomma NOTE: 1) Prestare molta attenzione nella scelta del numero 2) A causa della forte richiesta dovuta alla promozione in corso, per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:25:49Z
+  Updated: 2026-04-20T21:53:31Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -680,7 +680,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [New Balance 530 beige](https://vibesmilano.com/products/new-balance-530-beige): New Balance 530 è una sneaker dal tocco vintage, creata per garantire il massimo comfort grazie ad una nuova tecnologia. Rappresenta la combinazione perfetta tra lo stile rétro e l'estetica sportiva dei tempi moderni. La tomaia in materiale sintetico e mesh garantisce resistenza, massimo comfort e traspirabilità, per una sensazione di asciutto a ogni passo. Combinando ammortizzazione e resistenza alla compressione, l'intersuola ABZORB garantisce un eccezionale assorbimento degli urti, per camminare nella massima leggerezza. Caratteristiche delle New Balance 530: Tomaia in materiale sintetico e mesh Chiusura con lacci tono su tono Caratteristico logo "N" Intersuola con ammortizzazione ABZORB Suola in gomma NOTE: TEMPI DI CONSEGNA: 12-14 GIORNI LAVORATIVI
-  Updated: 2026-03-30T21:25:49Z
+  Updated: 2026-04-20T21:53:31Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -728,7 +728,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [Adidas Samba Og-Core bianco/rosso/night indaco uomo-donna](https://vibesmilano.com/products/adidas-samba-og-core-bianco-rosso-night-indaco-uomo-donna): Sneakers Adidas modello Samba Og-Core uomo-donna. Un classico dell'eleganza sportiva che non passerà mai di moda. NB: a causa dell'alto costo delle spese di spedizione internazionali (le calzature sono di importazione), le calzature verranno spedite prive della loro scatola e imballate con pluriball e confezionamento esterno. Questo al fine di garantirvi il miglior prezzo.
-  Updated: 2026-03-30T21:25:49Z
+  Updated: 2026-04-20T21:53:31Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -764,7 +764,7 @@
     Availability: Available
     Price: 105,00 € EUR
 - [Adidas Samba Og-Core bianco/viola uomo-donna](https://vibesmilano.com/products/adidas-samba-og-core-bianco-viola-uomo-donna): Sneakers Adidas modello Samba Og-Core uomo-donna. Un classico dell'eleganza sportiva che non passerà mai di moda.
-  Updated: 2026-03-30T21:25:50Z
+  Updated: 2026-04-20T21:53:32Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -800,7 +800,7 @@
     Availability: Available
     Price: 105,00 € EUR
 - [Adidas Samba Og-Core bianco/verde uomo-donna](https://vibesmilano.com/products/adidas-samba-og-core-bianco-verde-uomo-donna): Sneakers Adidas modello Samba Og-Core uomo-donna. Un classico dell'eleganza sportiva che non passerà mai di moda. NB: a causa dell'alto costo delle spese di spedizione internazionali (le calzature sono di importazione), le calzature verranno spedite prive della loro scatola e imballate con pluriball e confezionamento esterno. Questo al fine di garantirvi il miglior prezzo.
-  Updated: 2026-03-30T21:25:50Z
+  Updated: 2026-04-20T21:53:33Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -836,7 +836,7 @@
     Availability: Available
     Price: 105,00 € EUR
 - [Adidas Originals Superstar bianco stripes beige (articolo destinato al mercato estero)](https://vibesmilano.com/products/adidas-originals-superstar-bianca-introvabile-in-italia): Sneakers Adidas modello Superstar con strinse beige e tallone blu. Un classico dell'eleganza sportiva che non passerà mai di moda. TEMPI DI SPEDIZIONE: 12-14 GIORNI LAVORATIVI
-  Updated: 2026-03-30T21:25:50Z
+  Updated: 2026-04-20T21:53:34Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -878,7 +878,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [Adidas Gazelle nero](https://vibesmilano.com/products/adidas-gazelle-nero): Sneakers Adidas modello Gazelle uomo-donna. Un classico dell'eleganza sportiva che non passerà mai di moda. Basate su una scarpa da ginnastica che ha avuto successo nel '71, Le scarpe Adidas Gazelle Indoor continuano quella tradizione. Inizialmente realizzate per l'allenamento ma ora un'icona dello stile casual, le iconiche 3 strisce danno il tocco finale. Le scarpe si muovono facilmente tra ritrovi e avventure, ammortizzando ogni passo. Le adidas Gazelle offrono ai ragazzi un’icona di stile classico. Con un design senza tempo e una calzata comoda, queste scarpe sono perfette per ogni occasione, dalla scuola al tempo libero. Una suola in gomma offre un'aderenza con un fascino retrò. Indossa questo paio e allaccia un pezzo di storia Adidas. Vestibilità regolare. Chiusura con lacci e suola in gomma. TEMPI DI SPEDIZIONE: 12-14 GIORNI LAVORATIVI
-  Updated: 2026-03-30T21:25:50Z
+  Updated: 2026-04-20T21:53:34Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -932,7 +932,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Gazelle verde](https://vibesmilano.com/products/adidas-gazelle-verde): Sneakers Adidas modello Gazelle uomo-donna. Un classico dell'eleganza sportiva che non passerà mai di moda. Basate su una scarpa da ginnastica che ha avuto successo nel '71, Le scarpe Adidas Gazelle Indoor continuano quella tradizione. Inizialmente realizzate per l'allenamento ma ora un'icona dello stile casual, le iconiche 3 strisce danno il tocco finale. Le scarpe si muovono facilmente tra ritrovi e avventure, ammortizzando ogni passo. Le adidas Gazelle offrono ai ragazzi un’icona di stile classico. Con un design senza tempo e una calzata comoda, queste scarpe sono perfette per ogni occasione, dalla scuola al tempo libero. Una suola in gomma offre un'aderenza con un fascino retrò. Indossa questo paio e allaccia un pezzo di storia Adidas. Vestibilità regolare. Chiusura con lacci e suola in gomma. NB: a causa dell'alto costo delle spese di spedizione internazionali (le calzature sono di importazione), le calzature verranno spedite prive della loro scatola e imballate con pluriball e confezionamento esterno. Questo al fine di garantirvi il miglior prezzo sul mercato!
-  Updated: 2026-03-30T21:25:51Z
+  Updated: 2026-04-20T21:53:35Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -971,7 +971,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Gazelle white preloved ink](https://vibesmilano.com/products/adidas-gazelle-white-preloved-ink): Sneakers Adidas modello Gazelle uomo-donna. Un classico dell'eleganza sportiva che non passerà mai di moda. Basate su una scarpa da ginnastica che ha avuto successo nel '71, Le scarpe Adidas Gazelle Indoor continuano quella tradizione. Inizialmente realizzate per l'allenamento ma ora un'icona dello stile casual, le iconiche 3 strisce danno il tocco finale. Le scarpe si muovono facilmente tra ritrovi e avventure, ammortizzando ogni passo. Le adidas Gazelle offrono ai ragazzi un’icona di stile classico. Con un design senza tempo e una calzata comoda, queste scarpe sono perfette per ogni occasione, dalla scuola al tempo libero. Una suola in gomma offre un'aderenza con un fascino retrò. Indossa questo paio e allaccia un pezzo di storia Adidas. Vestibilità regolare. Chiusura con lacci e suola in gomma. TEMPI DI SPEDIZIONE: 12-14 GIORNI LAVORATIVI
-  Updated: 2026-03-30T21:25:51Z
+  Updated: 2026-04-20T21:53:36Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -1013,7 +1013,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Gazelle in pelle scamosciata rosa](https://vibesmilano.com/products/adidas-gazelle-in-pelle-scamosciata-rosa): Sneakers Adidas modello Gazelle in pelle scamosciata. Un classico dell'eleganza sportiva che non passerà mai di moda. Basate su una scarpa da ginnastica che ha avuto successo nel '71, Le scarpe Adidas Gazelle Indoor continuano quella tradizione. Inizialmente realizzate per l'allenamento ma ora un'icona dello stile casual, le iconiche 3 strisce danno il tocco finale. Le scarpe si muovono facilmente tra ritrovi e avventure, ammortizzando ogni passo. Le adidas Gazelle offrono ai ragazzi un’icona di stile classico. Con un design senza tempo e una calzata comoda, queste scarpe sono perfette per ogni occasione, dalla scuola al tempo libero. Una suola in gomma offre un'aderenza con un fascino retrò. Indossa questo paio e allaccia un pezzo di storia Adidas. Vestibilità regolare. Chiusura con lacci e suola in gomma. TEMPI DI SPEDIZIONE: 12-14 GIORNI LAVORATIVI
-  Updated: 2026-03-30T21:25:51Z
+  Updated: 2026-04-20T21:53:36Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -1064,7 +1064,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Gazelle in pelle scamosciata rossa](https://vibesmilano.com/products/adidas-gazelle-in-pelle-scamosciata-rossa): Sneakers Adidas modello Gazelle in pelle scamosciata. Un classico dell'eleganza sportiva che non passerà mai di moda. Basate su una scarpa da ginnastica che ha avuto successo nel '71, Le scarpe Adidas Gazelle Indoor continuano quella tradizione. Inizialmente realizzate per l'allenamento ma ora un'icona dello stile casual, le iconiche 3 strisce danno il tocco finale. Le scarpe si muovono facilmente tra ritrovi e avventure, ammortizzando ogni passo. Le adidas Gazelle offrono ai ragazzi un’icona di stile classico. Con un design senza tempo e una calzata comoda, queste scarpe sono perfette per ogni occasione, dalla scuola al tempo libero. Una suola in gomma offre un'aderenza con un fascino retrò. Indossa questo paio e allaccia un pezzo di storia Adidas. Vestibilità regolare. Chiusura con lacci e suola in gomma. TEMPI DI SPEDIZIONE: 12-14 GIORNI LAVORATIVI
-  Updated: 2026-03-30T21:25:51Z
+  Updated: 2026-04-20T21:53:37Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -1106,7 +1106,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Gazelle Bold rosa](https://vibesmilano.com/products/adidas-gazelle-bold-rosa): Le Adidas Gazelle Bold possiedono un look iconico e di carattere. Le Gazelle sono tra i modelli adidas più iconici di sempre. Nate sui campi indoor negli anni '70, le celebri sneaker continuano a conquistare intere generazioni, grazie ora anche alla suola platform a triplo strato. Le 3 strisce seghettate rimangono fedeli al DNA originale. La scritta dorata "Gazelle" firma il look con un tocco Premium davvero affascinante. Insomma, una scarpa Adidas iconica e di carattere! Tempi di consegna: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:25:52Z
+  Updated: 2026-04-20T21:53:38Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -1133,7 +1133,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Gazelle Bold beige](https://vibesmilano.com/products/adidas-gazelle-bold-beige): Le Adidas Gazelle Bold possiedono un look iconico e di carattere. Le Gazelle sono tra i modelli adidas più iconici di sempre. Nate sui campi indoor negli anni '70, le celebri sneaker continuano a conquistare intere generazioni, grazie ora anche alla suola platform a triplo strato. Le 3 strisce seghettate rimangono fedeli al DNA originale. La scritta dorata "Gazelle" firma il look con un tocco Premium davvero affascinante. Insomma, una scarpa Adidas iconica e di carattere! Tempi di consegna: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:25:52Z
+  Updated: 2026-04-20T21:53:40Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -1160,7 +1160,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [Adidas Gazelle Bold verde](https://vibesmilano.com/products/adidas-gazelle-bold-verde): Le Adidas Gazelle Bold possiedono un look iconico e di carattere. Le Gazelle sono tra i modelli adidas più iconici di sempre. Nate sui campi indoor negli anni '70, le celebri sneaker continuano a conquistare intere generazioni, grazie ora anche alla suola platform a triplo strato. Le 3 strisce seghettate rimangono fedeli al DNA originale. La scritta dorata "Gazelle" firma il look con un tocco Premium davvero affascinante. Insomma, una scarpa Adidas iconica e di carattere! Tempi di consegna: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:25:52Z
+  Updated: 2026-04-20T21:53:41Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -1187,7 +1187,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [Adidas Gazelle Bold nero](https://vibesmilano.com/products/adidas-gazelle-bold-nero): Le Adidas Gazelle Bold possiedono un look iconico e di carattere. Le Gazelle sono tra i modelli adidas più iconici di sempre. Nate sui campi indoor negli anni '70, le celebri sneaker continuano a conquistare intere generazioni, grazie ora anche alla suola platform a triplo strato. Le 3 strisce seghettate rimangono fedeli al DNA originale. La scritta dorata "Gazelle" firma il look con un tocco Premium davvero affascinante. Insomma, una scarpa Adidas iconica e di carattere! Attenzione: a causa degli alti costi delle spedizioni internazionali e al fine di offrire il miglior prezzo sul mercato, le scarpe verranno spedite prive della scatola e avvolte nel pluriball protettivo con un imballaggio esterno.
-  Updated: 2026-03-30T21:25:52Z
+  Updated: 2026-04-20T21:53:41Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -1214,7 +1214,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Gazelle Bold verde acqua](https://vibesmilano.com/products/adidas-gazelle-bold-verde-acqua): Le Adidas Gazelle Bold possiedono un look iconico e di carattere. Le Gazelle sono tra i modelli adidas più iconici di sempre. Nate sui campi indoor negli anni '70, le celebri sneaker continuano a conquistare intere generazioni, grazie ora anche alla suola platform a triplo strato. Le 3 strisce seghettate rimangono fedeli al DNA originale. La scritta dorata "Gazelle" firma il look con un tocco Premium davvero affascinante. Insomma, una scarpa Adidas iconica e di carattere! Tempi di consegna: 10-12 giorni lavorativi
-  Updated: 2026-03-30T21:25:53Z
+  Updated: 2026-04-20T21:53:42Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -1241,7 +1241,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Gazelle Bold marrone/rosa](https://vibesmilano.com/products/adidas-gazelle-bold-marrone-rosa): Le Adidas Gazelle Bold possiedono un look iconico e di carattere. Le Gazelle sono tra i modelli adidas più iconici di sempre. Nate sui campi indoor negli anni '70, le celebri sneaker continuano a conquistare intere generazioni, grazie ora anche alla suola platform a triplo strato. Le 3 strisce seghettate rimangono fedeli al DNA originale. La scritta dorata "Gazelle" firma il look con un tocco Premium davvero affascinante. Insomma, una scarpa Adidas iconica e di carattere! Tempi di consegna: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:25:53Z
+  Updated: 2026-04-20T21:53:42Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -1289,7 +1289,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [New Balance NB 9060 Green Cream](https://vibesmilano.com/products/new-balance-nb-9060-verde-military): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTE: Tempi di spedizione: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:25:53Z
+  Updated: 2026-04-20T21:53:43Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -1325,7 +1325,7 @@
     Availability: Available
     Price: 145,00 € EUR
 - [Salomon XT-6 crackle pink collezione Sandy Liang x Salomon](https://vibesmilano.com/products/salomon-xt-6-crackle-pink): Le sneakers Salomon XT-6 sono perfette per correre su tutti i tipi di terreno. Sono avvolte da un composto in mesh traspirante e resistente pellicola in TPU, per consentirti di percorrere grandi distanze agevolmente. L'intersuola è stata imbottita in EVA mentre il battistrada ha motivi geometrici. La suola è in gomma per garantire un'aderenza perfetta e per percorrere in sicurezza anche le strade più impegnative Caratteristiche della Salomon XT-6: Struttura affusolata e impermeabile Rivestimento in mesh e TPU sulla tomaia Sistema di allacciatura Quicklace Rivestimento in tessuto Suola interna in tessuto Ammortizzazione in EVA Struttura per la corsa in discesa e suola in gomma con scanalature geometriche NOTE Tempi di consegna: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:25:54Z
+  Updated: 2026-04-20T21:53:43Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -1382,7 +1382,7 @@
     Availability: Available
     Price: 169,00 € EUR
 - [Salomon XT-6 blue mood](https://vibesmilano.com/products/salomon-xt-6-blue-mood): Le sneakers Salomon XT-6 sono perfette per correre su tutti i tipi di terreno. Sono avvolte da un composto in mesh traspirante e resistente pellicola in TPU, per consentirti di percorrere grandi distanze agevolmente. L'intersuola è stata imbottita in EVA mentre il battistrada ha motivi geometrici. La suola è in gomma per garantire un'aderenza perfetta e per percorrere in sicurezza anche le strade più impegnative. Caratteristiche della Salomon XT-6: Struttura affusolata e impermeabile Rivestimento in mesh e TPU sulla tomaia Sistema di allacciatura Quicklace Rivestimento in tessuto Suola interna in tessuto Ammortizzazione in EVA Struttura per la corsa in discesa e suola in gomma con scanalature geometriche NOTE Tempi di consegna: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:25:54Z
+  Updated: 2026-04-20T21:53:44Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -1439,7 +1439,7 @@
     Availability: Available
     Price: 169,00 € EUR
 - [Adidas Gazelle beige](https://vibesmilano.com/products/adidas-gazelle-beige): Sneakers Adidas modello Gazelle uomo-donna. Un classico dell'eleganza sportiva che non passerà mai di moda. Basate su una scarpa da ginnastica che ha avuto successo nel '71, Le scarpe Adidas Gazelle Indoor continuano quella tradizione. Inizialmente realizzate per l'allenamento ma ora un'icona dello stile casual, le iconiche 3 strisce danno il tocco finale. Le scarpe si muovono facilmente tra ritrovi e avventure, ammortizzando ogni passo. Le adidas Gazelle offrono ai ragazzi un’icona di stile classico. Con un design senza tempo e una calzata comoda, queste scarpe sono perfette per ogni occasione, dalla scuola al tempo libero. Una suola in gomma offre un'aderenza con un fascino retrò. Indossa questo paio e allaccia un pezzo di storia Adidas. Vestibilità regolare. Chiusura con lacci e suola in gomma. NB: a causa dell'alto costo delle spese di spedizione internazionali (le calzature sono di importazione), le calzature verranno spedite prive della loro scatola e imballate con pluriball e confezionamento esterno. Questo al fine di garantirvi il miglior prezzo sul mercato!
-  Updated: 2026-03-30T21:25:54Z
+  Updated: 2026-04-20T21:53:44Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -1478,7 +1478,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Gazelle bianco](https://vibesmilano.com/products/adidas-gazelle-bianco): Sneakers Adidas modello Gazelle uomo-donna. Un classico dell'eleganza sportiva che non passerà mai di moda. Basate su una scarpa da ginnastica che ha avuto successo nel '71, Le scarpe Adidas Gazelle Indoor continuano quella tradizione. Inizialmente realizzate per l'allenamento ma ora un'icona dello stile casual, le iconiche 3 strisce danno il tocco finale. Le scarpe si muovono facilmente tra ritrovi e avventure, ammortizzando ogni passo. Le adidas Gazelle offrono ai ragazzi un’icona di stile classico. Con un design senza tempo e una calzata comoda, queste scarpe sono perfette per ogni occasione, dalla scuola al tempo libero. Una suola in gomma offre un'aderenza con un fascino retrò. Indossa questo paio e allaccia un pezzo di storia Adidas. Vestibilità regolare. Chiusura con lacci e suola in gomma. NB: a causa dell'alto costo delle spese di spedizione internazionali (le calzature sono di importazione), le calzature verranno spedite prive della loro scatola e imballate con pluriball e confezionamento esterno. Questo al fine di garantirvi il miglior prezzo sul mercato!
-  Updated: 2026-03-30T21:25:55Z
+  Updated: 2026-04-20T21:53:44Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -1517,7 +1517,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [New Balance NB 9060 Grey Castlerock](https://vibesmilano.com/products/new-balance-nb-9060-grigio-blu-colore-introvabile-sul-mercato-italiano): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTE: Tempi di spedizione: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:25:55Z
+  Updated: 2026-04-20T21:53:46Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -1553,7 +1553,7 @@
     Availability: Available
     Price: 179,00 € EUR
 - [New Balance NB 9060 Fuchsia Pink](https://vibesmilano.com/products/new-balance-nb-9060-rosa-acceso-colore-introvabile-sul-mercato-italiano): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTE: Per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine
-  Updated: 2026-03-30T21:25:55Z
+  Updated: 2026-04-20T21:53:46Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -1604,7 +1604,7 @@
     Availability: Available
     Price: 169,00 € EUR
 - [New Balance NB 9060 Warped Multi-Color](https://vibesmilano.com/products/new-balance-nb-9060-verde-rosa-colore-introvabile-sul-mercato-italiano): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 Questo modello particolare nasce dalla collaborazione con Joe Freshgoods NOTE: 1) Prestare molta attenzione nella scelta del numero: le New Balance 9060 calzano piccolo, quindi consigliamo di scegliere un numero più grande (ad esempio se porti il 43 dovrai selezionare il 44) A causa della forte richiesta dovuta alla promozione in corso, per la consegna occorrono 12-14 giorni LAVORATIVI mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-04-03T17:54:39Z
+  Updated: 2026-04-20T21:53:47Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -1658,7 +1658,7 @@
     Availability: Available
     Price: 179,00 € EUR
 - [Hoka Bondi 8 grigio](https://vibesmilano.com/products/hoka-bondi-8-grigio): HOKA Bondi 8 è una scarpa da running perfetta per correre su strade asfaltate ma anche ottima per lunghe camminate. Si tratta, infatti, di una calzatura estremamente comoda con una geometria del tallone ampliata per aumentare il comfort ed una tomaia in mesh di poliestere riciclato per garantire una traspirabilità senza precedenti. Bondi 8 offre poi un ottima stabilità con un ammortizzazione morbida e soffice. Rispetto al modello precedente, le Bondi 8 presentano una nuova schiuma più morbida e leggera e una nuovissima geometria con tallone ampliato per un comfort superiore. Grazie a un effetto ondulato, l’imbottitura antiurto posteriore garantisce una corsa incredibilmente morbida e bilanciata in ogni sua fase, dall’appoggio alla spinta.Anche le Bondi 8 si caratterizzano per il meta-rocker, la caratteristica forma a barchetta dell’intersuola che agevola la rullata, garantendo una corsa fluida chilometro dopo chilometro.Completano le scarpe running Hoka Bondi 8: Il mesh tecnico della tomaia, la soletta e la fodera sono realizzati con materiali riciclati soletta Ortholite® Hybrid per massimo comfort fin dalla prima calzata suola con elementi in gomma nelle zone più soggette ad usura per maggior trazione e durabilità drop 4 mm peso 307 g TEMPI DI CONSEGNA: 12-14 GIORNI LAVORATIVI Per una corretta scelta della misura, si prega di misurare la lunghezza del piede e confrontarla con la tabella seguente:
-  Updated: 2026-03-30T21:25:56Z
+  Updated: 2026-04-20T21:53:47Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -1709,7 +1709,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [Hoka One Bondi 8 Black](https://vibesmilano.com/products/hoka-bondi-8-nero): HOKA Bondi 8 è una scarpa da running perfetta per correre su strade asfaltate ma anche ottima per lunghe camminate. Si tratta infatti di una calzatura estremamente comoda con una geometria del tallone ampliata per aumentare il comfort ed una tomaia in mesh di poliestere riciclato per garantire una traspirabilità senza precedenti. Bondi 8 offre poi un ottima stabilità con un ammortizzazione morbida e soffice. Rispetto al modello precedente, le Bondi 8 presentano una nuova schiuma più morbida e leggera e una nuovissima geometria con tallone ampliato per un comfort superiore. Grazie a un effetto ondulato, l’imbottitura antiurto posteriore garantisce una corsa incredibilmente morbida e bilanciata in ogni sua fase, dall’appoggio alla spinta.Anche le Bondi 8 si caratterizzano per il meta-rocker, la caratteristica forma a barchetta dell’intersuola che agevola la rullata, garantendo una corsa fluida chilometro dopo chilometro.Completano le scarpe running Hoka Bondi 8: Il mesh tecnico della tomaia, la soletta e la fodera sono realizzati con materiali riciclati soletta Ortholite® Hybrid per massimo comfort fin dalla prima calzata suola con elementi in gomma nelle zone più soggette ad usura per maggior trazione e durabilità drop 4 mm peso 307 g TEMPI DI CONSEGNA: 12-14 GIORNI LAVORATIVI
-  Updated: 2026-03-30T21:25:56Z
+  Updated: 2026-04-20T21:53:48Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -1757,7 +1757,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [Hoka Bondi 8 nero bianco](https://vibesmilano.com/products/hoka-bondi-8-nero-bianco): HOKA Bondi 8 è una scarpa da running perfetta per correre su strade asfaltate ma anche ottima per lunghe camminate. Si tratta infatti di una calzatura estremamente comoda con una geometria del tallone ampliata per aumentare il comfort ed una tomaia in mesh di poliestere riciclato per garantire una traspirabilità senza precedenti. Bondi 8 offre poi un ottima stabilità con un ammortizzazione morbida e soffice. Rispetto al modello precedente, le Bondi 8 presentano una nuova schiuma più morbida e leggera e una nuovissima geometria con tallone ampliato per un comfort superiore. Grazie a un effetto ondulato, l’imbottitura antiurto posteriore garantisce una corsa incredibilmente morbida e bilanciata in ogni sua fase, dall’appoggio alla spinta.Anche le Bondi 8 si caratterizzano per il meta-rocker, la caratteristica forma a barchetta dell’intersuola che agevola la rullata, garantendo una corsa fluida chilometro dopo chilometro.Completano le scarpe running Hoka Bondi 8: Il mesh tecnico della tomaia, la soletta e la fodera sono realizzati con materiali riciclati soletta Ortholite® Hybrid per massimo comfort fin dalla prima calzata suola con elementi in gomma nelle zone più soggette ad usura per maggior trazione e durabilità drop 4 mm peso 307 g TEMPI DI CONSEGNA: 12-14 GIORNI LAVORATIVI Per una corretta scelta della misura, si prega di misurare con precisione la lunghezza del piede e di confrontarla con la tabella seguente:
-  Updated: 2026-03-30T21:25:56Z
+  Updated: 2026-04-20T21:53:48Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -1802,7 +1802,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [Hoka One Bondi 8 Brown](https://vibesmilano.com/products/hoka-bondi-8-arancione): HOKA Bondi 8 è una scarpa da running perfetta per correre su strade asfaltate ma anche ottima per lunghe camminate. Si tratta infatti di una calzatura estremamente comoda con una geometria del tallone ampliata per aumentare il comfort ed una tomaia in mesh di poliestere riciclato per garantire una traspirabilità senza precedenti. Bondi 8 offre poi un ottima stabilità con un ammortizzazione morbida e soffice. Rispetto al modello precedente, le Bondi 8 presentano una nuova schiuma più morbida e leggera e una nuovissima geometria con tallone ampliato per un comfort superiore. Grazie a un effetto ondulato, l’imbottitura antiurto posteriore garantisce una corsa incredibilmente morbida e bilanciata in ogni sua fase, dall’appoggio alla spinta.Anche le Bondi 8 si caratterizzano per il meta-rocker, la caratteristica forma a barchetta dell’intersuola che agevola la rullata, garantendo una corsa fluida chilometro dopo chilometro.Completano le scarpe running Hoka Bondi 8: Il mesh tecnico della tomaia, la soletta e la fodera sono realizzati con materiali riciclati soletta Ortholite® Hybrid per massimo comfort fin dalla prima calzata suola con elementi in gomma nelle zone più soggette ad usura per maggior trazione e durabilità drop 4 mm peso 307 g TEMPI DI CONSEGNA: 10-12 GIORNI
-  Updated: 2026-03-30T21:25:56Z
+  Updated: 2026-04-20T21:53:49Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -1850,7 +1850,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [New Balance NB 9060 cromo blue](https://vibesmilano.com/products/new-balance-nb-9060-cromo-blue): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi dispedizione: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:25:57Z
+  Updated: 2026-04-20T21:53:49Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -1898,7 +1898,7 @@
     Availability: Available
     Price: 159,00 € EUR
 - [Adidas Originals Campus 00s beige](https://vibesmilano.com/products/adidas-campus-00s-beige): Vesti uno stile ispirato alla storia del brand con queste Campus 00s da uomo di Adidas Originals. Queste scarpe hanno una tomaia in morbida pelle scamosciata per una lunga durata. Sono dotate di lacci spessi e di un'imbottitura intorno al colletto della caviglia. L'intersuola in schiuma è comoda per un'usura confortevole e un look rétro, mentre la suola in gomma è resistente per garantire la trazione. A causa degli alti costi di spedizione (siamo importatori), le scarpe verranno spedite prive della loro scatola e avvolte nel pluriball protettivo e nel packaging esterno
-  Updated: 2026-03-30T21:25:57Z
+  Updated: 2026-04-20T21:53:50Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -1946,7 +1946,7 @@
     Availability: Available
     Price: 109,00 € EUR
 - [Adidas Originals Campus 00s nere](https://vibesmilano.com/products/adidas-campus-00s-nere): Vesti uno stile ispirato alla storia del brand con queste Campus 00s da uomo di Adidas Originals. Queste scarpe hanno una tomaia in morbida pelle scamosciata per una lunga durata. Sono dotate di lacci spessi e di un'imbottitura intorno al colletto della caviglia. L'intersuola in schiuma è comoda per un'usura confortevole e un look rétro, mentre la suola in gomma è resistente per garantire la trazione. NOTE: A causa degli alti costi di spedizione (siamo importatori), le scarpe verranno spedite prive della loro scatola e avvolte nel pluriball protettivo e nel packaging esterno
-  Updated: 2026-03-30T21:25:57Z
+  Updated: 2026-04-20T21:53:50Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -1994,7 +1994,7 @@
     Availability: Available
     Price: 109,00 € EUR
 - [Adidas Originals Campus grigio](https://vibesmilano.com/products/adidas-originals-campus-grigio): Vesti uno stile ispirato alla storia del brand con queste Campus 00s da uomo di Adidas Originals. Queste scarpe hanno una tomaia in morbida pelle scamosciata per una lunga durata. Sono dotate di lacci spessi e di un'imbottitura intorno al colletto della caviglia. L'intersuola in schiuma è comoda per un'usura confortevole e un look rétro, mentre la suola in gomma è resistente per garantire la trazione. A causa degli alti costi di spedizione (siamo importatori), le scarpe verranno spedite prive della loro scatola e avvolte nel pluriball protettivo e nel packaging esterno
-  Updated: 2026-03-30T21:25:57Z
+  Updated: 2026-04-20T21:53:51Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -2042,7 +2042,7 @@
     Availability: Available
     Price: 109,00 € EUR
 - [Adidas Originals Campus rosso](https://vibesmilano.com/products/adidas-originals-campus-rosso): Vesti uno stile ispirato alla storia del brand con queste Campus 00s da uomo di Adidas Originals. Queste scarpe hanno una tomaia in morbida pelle scamosciata per una lunga durata. Sono dotate di lacci spessi e di un'imbottitura intorno al colletto della caviglia. L'intersuola in schiuma è comoda per un'usura confortevole e un look rétro, mentre la suola in gomma è resistente per garantire la trazione. A causa degli alti costi di spedizione (siamo importatori), le scarpe verranno spedite prive della loro scatola e avvolte nel pluriball protettivo e nel packaging esterno
-  Updated: 2026-03-30T21:25:58Z
+  Updated: 2026-04-20T21:53:52Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -2090,7 +2090,7 @@
     Availability: Available
     Price: 109,00 € EUR
 - [Adidas Originals Campus blue white](https://vibesmilano.com/products/adidas-originals-campus-blue-white): Vesti uno stile ispirato alla storia del brand con queste Campus 00s da uomo di Adidas Originals. Queste scarpe hanno una tomaia in morbida pelle scamosciata per una lunga durata. Sono dotate di lacci spessi e di un'imbottitura intorno al colletto della caviglia. L'intersuola in schiuma è comoda per un'usura confortevole e un look rétro, mentre la suola in gomma è resistente per garantire la trazione. A causa degli alti costi di spedizione (siamo importatori), le scarpe verranno spedite prive della loro scatola e avvolte nel pluriball protettivo e nel packaging esterno
-  Updated: 2026-03-30T21:25:58Z
+  Updated: 2026-04-20T21:53:52Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -2138,7 +2138,7 @@
     Availability: Available
     Price: 109,00 € EUR
 - [New Balance 530 bianco blu Oasis](https://vibesmilano.com/products/new-balance-530-bianco-blu-oasis): New Balance 530 è una sneaker dal tocco vintage, creata per garantire il massimo comfort grazie ad una nuova tecnologia. Rappresenta la combinazione perfetta tra lo stile rétro e l'estetica sportiva dei tempi moderni. La tomaia in materiale sintetico e mesh garantisce resistenza, massimo comfort e traspirabilità, per una sensazione di asciutto a ogni passo. Combinando ammortizzazione e resistenza alla compressione, l'intersuola ABZORB garantisce un eccezionale assorbimento degli urti, per camminare nella massima leggerezza. Caratteristiche delle New Balance 530: Tomaia in materiale sintetico e mesh Chiusura con lacci tono su tono Caratteristico logo "N" Intersuola con ammortizzazione ABZORB Suola in gomma NOTE: 1) Prestare molta attenzione nella scelta del numero 2) A causa della forte richiesta dovuta alla promozione in corso, per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:25:58Z
+  Updated: 2026-04-20T21:53:53Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -2186,7 +2186,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [New Balance 530 bianco blu haze](https://vibesmilano.com/products/new-balance-530-bianco-blu-haze): New Balance 530 è una sneaker dal tocco vintage, creata per garantire il massimo comfort grazie ad una nuova tecnologia. Rappresenta la combinazione perfetta tra lo stile rétro e l'estetica sportiva dei tempi moderni. La tomaia in materiale sintetico e mesh garantisce resistenza, massimo comfort e traspirabilità, per una sensazione di asciutto a ogni passo. Combinando ammortizzazione e resistenza alla compressione, l'intersuola ABZORB garantisce un eccezionale assorbimento degli urti, per camminare nella massima leggerezza. Caratteristiche delle New Balance 530: Tomaia in materiale sintetico e mesh Chiusura con lacci tono su tono Caratteristico logo "N" Intersuola con ammortizzazione ABZORB Suola in gomma NOTE: 1) Prestare molta attenzione nella scelta del numero 2) A causa della forte richiesta dovuta alla promozione in corso, per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:25:58Z
+  Updated: 2026-04-20T21:53:54Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -2234,7 +2234,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [New Balance 1000 metal nero](https://vibesmilano.com/products/new-balance-1000-metal-nero): Il rilancio delle New Balance 1000 riprende un classico di fine millennio. Uscite per la prima volta nel 1999, le 1000 erano futuristiche per l'epoca, grazie ad un design innovativo, semplice ma spettacolare nei dettagli. Il design della tomaia in mesh e dei rivestimenti in suede è invertito, con strati in mesh che emergono dai pannelli di rivestimento più sporgenti, per un look raffinato e ispirato alla tecnologia. La suola è segmentata ed è arricchita da un'ammortizzazione ABZORB nel tallone e nell'avampiede, con un supporto Stability Web nella parte centrale del piede. Caratteristiche Combinazione di poliuretano e intersuola ABZORB, con ammortizzazione ABZORB sul tallone e sull'avampiede. Stability Web Dettagli dell'intersuola sagomati Dettagli ricamati Dettagli riflettenti Logo "N" gommato con profilo trasparente Struttura di allacciatura esterna con occhielli in nylon 376 grams (13.3 oz) Materiale Sottostrati in mesh Rivestimenti in suede NOTE: 1) LE New Balance 1000 calzano strette, quindi si consiglia di prendere un numero in più (ad esempio se indossi il 38 consigliamo di scegliere il 39) 2) tempi di consegna: 10-12 giorni
-  Updated: 2026-03-30T21:25:59Z
+  Updated: 2026-04-20T21:53:54Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -2270,7 +2270,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [New Balance 1000 rosa](https://vibesmilano.com/products/new-balance-1000-rosa): Il rilancio delle New Balance 1000 riprende un classico di fine millennio. Uscite per la prima volta nel 1999, le 1000 erano futuristiche per l'epoca, grazie ad un design innovativo, semplice ma spettacolare nei dettagli. Il design della tomaia in mesh e dei rivestimenti in suede è invertito, con strati in mesh che emergono dai pannelli di rivestimento più sporgenti, per un look raffinato e ispirato alla tecnologia. La suola è segmentata ed è arricchita da un'ammortizzazione ABZORB nel tallone e nell'avampiede, con un supporto Stability Web nella parte centrale del piede. Caratteristiche Combinazione di poliuretano e intersuola ABZORB, con ammortizzazione ABZORB sul tallone e sull'avampiede Stability Web Dettagli dell'intersuola sagomati Dettagli ricamati Dettagli riflettenti Logo "N" gommato con profilo trasparente Struttura di allacciatura esterna con occhielli in nylon 376 grams (13.3 oz) Materiale Sottostrati in mesh Rivestimenti in suede NOTE: 1) LE New Balance 1000 calzano strette, quindi si consiglia di prendere un numero in più (ad esempio se indossi il 38 consigliamo di scegliere il 39) 2) tempi di consegna: 10-12 giorni
-  Updated: 2026-03-30T21:25:59Z
+  Updated: 2026-04-20T21:53:55Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -2306,7 +2306,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [New Balance 1000 nero](https://vibesmilano.com/products/new-balance-1000-nero): Il rilancio delle New Balance 1000 riprende un classico di fine millennio. Uscite per la prima volta nel 1999, le 1000 erano futuristiche per l'epoca, grazie ad un design innovativo, semplice ma spettacolare nei dettagli. Il design della tomaia in mesh e dei rivestimenti in suede è invertito, con strati in mesh che emergono dai pannelli di rivestimento più sporgenti, per un look raffinato e ispirato alla tecnologia. La suola è segmentata ed è arricchita da un'ammortizzazione ABZORB nel tallone e nell'avampiede, con un supporto Stability Web nella parte centrale del piede. Caratteristiche Combinazione di poliuretano e intersuola ABZORB, con ammortizzazione ABZORB sul tallone e sull'avampiede. Stability Web Dettagli dell'intersuola sagomati Dettagli ricamati Dettagli riflettenti Logo "N" gommato con profilo trasparente Struttura di allacciatura esterna con occhielli in nylon 376 grams (13.3 oz) Materiale Sottostrati in mesh Rivestimenti in suede NOTE: 1) LE New Balance 1000 calzano strette, quindi si consiglia di prendere un numero in più (ad esempio se indossi il 38 consigliamo di scegliere il 39) 2) tempi di consegna: 10-12 giorni
-  Updated: 2026-03-30T21:25:59Z
+  Updated: 2026-04-20T21:53:56Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -2342,7 +2342,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [New Balance 1000 bianco](https://vibesmilano.com/products/new-balance-1000-bianco): Il rilancio delle New Balance 1000 riprende un classico di fine millennio. Uscite per la prima volta nel 1999, le 1000 erano futuristiche per l'epoca, grazie ad un design innovativo, semplice ma spettacolare nei dettagli. Il design della tomaia in mesh e dei rivestimenti in suede è invertito, con strati in mesh che emergono dai pannelli di rivestimento più sporgenti, per un look raffinato e ispirato alla tecnologia. La suola è segmentata ed è arricchita da un'ammortizzazione ABZORB nel tallone e nell'avampiede, con un supporto Stability Web nella parte centrale del piede. Caratteristiche Combinazione di poliuretano e intersuola ABZORB, con ammortizzazione ABZORB sul tallone e sull'avampiede. Stability Web Dettagli dell'intersuola sagomati Dettagli ricamati Dettagli riflettenti Logo "N" gommato con profilo trasparente Struttura di allacciatura esterna con occhielli in nylon 376 grams (13.3 oz) Materiale Sottostrati in mesh Rivestimenti in suede NOTE: 1) LE New Balance 1000 calzano strette, quindi si consiglia di prendere un numero in più (ad esempio se indossi il 38 consigliamo di scegliere il 39) 2) tempi di consegna: 10-12 giorni
-  Updated: 2026-03-30T21:25:59Z
+  Updated: 2026-04-20T21:53:56Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -2378,7 +2378,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [New Balance 1000 rosa beige verde](https://vibesmilano.com/products/new-balance-1000-rosa-beige-verde): Il rilancio delle New Balance 1000 riprende un classico di fine millennio. Uscite per la prima volta nel 1999, le 1000 erano futuristiche per l'epoca, grazie ad un design innovativo, semplice ma spettacolare nei dettagli. Il design della tomaia in mesh e dei rivestimenti in suede è invertito, con strati in mesh che emergono dai pannelli di rivestimento più sporgenti, per un look raffinato e ispirato alla tecnologia. La suola è segmentata ed è arricchita da un'ammortizzazione ABZORB nel tallone e nell'avampiede, con un supporto Stability Web nella parte centrale del piede. Caratteristiche Combinazione di poliuretano e intersuola ABZORB, con ammortizzazione ABZORB sul tallone e sull'avampiede. Stability Web Dettagli dell'intersuola sagomati Dettagli ricamati Dettagli riflettenti Logo "N" gommato con profilo trasparente Struttura di allacciatura esterna con occhielli in nylon 376 grams (13.3 oz) Materiale Sottostrati in mesh Rivestimenti in suede NOTE: 1) LE New Balance 1000 calzano strette, quindi si consiglia di prendere un numero in più (ad esempio se indossi il 38 consigliamo di scegliere il 39) 2) tempi di consegna: 10-12 giorni
-  Updated: 2026-03-30T21:26:00Z
+  Updated: 2026-04-20T21:53:57Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -2414,58 +2414,58 @@
     Availability: Available
     Price: 149,00 € EUR
 - [New Balance NB 9060 Brown Sea Salt](https://vibesmilano.com/products/new-balance-nb-9060-brown-sea-salt): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi di spedizione: 12-14 giorni lavorativi mediamente.
-  Updated: 2026-03-30T21:26:00Z
+  Updated: 2026-04-21T07:50:55Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0908/7411/8485/files/1_01b5d7a3-b400-4ec8-801e-10334c3527cd.png?v=1745081578
   - [36](https://vibesmilano.com/products/new-balance-nb-9060-brown-sea-salt?variant=52507956281685)
     Availability: Available
-    Price: 169,00 € EUR
+    Price: 179,00 € EUR
   - [37](https://vibesmilano.com/products/new-balance-nb-9060-brown-sea-salt?variant=50659492397397)
     Availability: Available
-    Price: 169,00 € EUR
+    Price: 179,00 € EUR
   - [37,5](https://vibesmilano.com/products/new-balance-nb-9060-brown-sea-salt?variant=52507956314453)
     Availability: Available
-    Price: 169,00 € EUR
+    Price: 179,00 € EUR
   - [38](https://vibesmilano.com/products/new-balance-nb-9060-brown-sea-salt?variant=50659492462933)
     Availability: Available
-    Price: 169,00 € EUR
+    Price: 179,00 € EUR
   - [38,5](https://vibesmilano.com/products/new-balance-nb-9060-brown-sea-salt?variant=50700107448661)
     Availability: Available
-    Price: 169,00 € EUR
+    Price: 179,00 € EUR
   - [39,5](https://vibesmilano.com/products/new-balance-nb-9060-brown-sea-salt?variant=50659492495701)
     Availability: Available
-    Price: 169,00 € EUR
+    Price: 179,00 € EUR
   - [40](https://vibesmilano.com/products/new-balance-nb-9060-brown-sea-salt?variant=50659492528469)
     Availability: Available
-    Price: 169,00 € EUR
+    Price: 179,00 € EUR
   - [40,5](https://vibesmilano.com/products/new-balance-nb-9060-brown-sea-salt?variant=52507956347221)
     Availability: Available
-    Price: 169,00 € EUR
+    Price: 179,00 € EUR
   - [41,5](https://vibesmilano.com/products/new-balance-nb-9060-brown-sea-salt?variant=50659492561237)
     Availability: Available
-    Price: 169,00 € EUR
+    Price: 179,00 € EUR
   - [42](https://vibesmilano.com/products/new-balance-nb-9060-brown-sea-salt?variant=50659492594005)
     Availability: Available
-    Price: 169,00 € EUR
+    Price: 179,00 € EUR
   - [42,5](https://vibesmilano.com/products/new-balance-nb-9060-brown-sea-salt?variant=52507956379989)
     Availability: Available
-    Price: 169,00 € EUR
+    Price: 179,00 € EUR
   - [43](https://vibesmilano.com/products/new-balance-nb-9060-brown-sea-salt?variant=50659492626773)
     Availability: Available
-    Price: 169,00 € EUR
+    Price: 179,00 € EUR
   - [44](https://vibesmilano.com/products/new-balance-nb-9060-brown-sea-salt?variant=50659492659541)
     Availability: Available
-    Price: 169,00 € EUR
+    Price: 179,00 € EUR
   - [44,5](https://vibesmilano.com/products/new-balance-nb-9060-brown-sea-salt?variant=52507956412757)
     Availability: Available
-    Price: 169,00 € EUR
+    Price: 179,00 € EUR
   - [45](https://vibesmilano.com/products/new-balance-nb-9060-brown-sea-salt?variant=50659492692309)
     Availability: Available
-    Price: 169,00 € EUR
+    Price: 179,00 € EUR
 - [New Balance NB 9060 Triple White](https://vibesmilano.com/products/new-balance-nb-9060-triple-white): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Per la consegna occorrono 12-14 giorni lavorativi mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine
-  Updated: 2026-03-30T21:26:00Z
+  Updated: 2026-04-23T20:52:36Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -2519,7 +2519,7 @@
     Availability: Available
     Price: 179,00 € EUR
 - [New Balance NB 9060 taro plum brown](https://vibesmilano.com/products/new-balance-nb-9060-taro-plum-brown): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi dispedizione: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:26:01Z
+  Updated: 2026-04-20T21:53:58Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -2573,7 +2573,7 @@
     Availability: Available
     Price: 179,00 € EUR
 - [New Balance NB 9060 Sea Salt Brown](https://vibesmilano.com/products/new-balance-nb-9060-sea-salt-white): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi di consegna: 10-12 giorni. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:26:01Z
+  Updated: 2026-04-20T21:53:59Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -2627,7 +2627,7 @@
     Availability: Available
     Price: 169,00 € EUR
 - [Hoka One One Carbon X3 celeste](https://vibesmilano.com/products/hoka-one-one-carbon-x3): HOKA ONE ONE CARBON X3, un modello leggero rivolto a quei corridori che cercano una modello per correre a passo veloce sull'asfalto che si possa utilizzare sia in gara che nell'allenamento a lunga distanza , e che dia una grande sensazione di comfort, oltre che un'eccezionale ammortizzazione e una sensazionale capacità di reazione. HOKA ONE ONE CARBON X3, caratteristiche principali La scarpa da running HOKA ONE ONE CARBON X3 è un modello appartenente alla serie Carbon X di Hoka che è una delle serie più acclamate dai corridori più veloci che cercano di misurarsi sia in gara che negli allenamenti sulle lunghe distanze. Un modello che incorpora una piastra in fibra di carbonio e la tecnologia Meta-Rocker, che vi spingerà a raggiungere ritmi molto veloci, sotto i 4:15 min/km. La terza interazione di questo modello ne riduce il peso (rendendolo più leggero di 17 grammi rispetto ai suoi predecessori) e aggiunge una maggiore reattività all'intera scarpa. La nuova intersuola in CMEVA implementa la tecnologia PROFLY che garantisce un'eccellente ammortizzazione e un assorbimento permanente degli urti. Viene riproposta la stessa struttura della versione precedente, laHoka Carbon X2, la piastra in carbonio in combinazione con la tecnologia Meta-Rocker per una spinta e una propulsione senza precedenti. Una geometria rocker che spinge il corridore in avanti. La novità principale del modello è la tomaia, che si presenta rinnovata (con un tessuto ad alte prestazioni) che offre una migliore vestibilità per dare il massimo sull'asfalto. In questo modo, l'azienda francese punta a migliorare il sostegno e la vestibilità senza rinunciare a una traspirabilità superiore. Inoltre, quest'ultima interazione presenta una linguetta posteriore allungata per facilitarne la calzata e la rimozione. La suola in EVA assicura un contatto leggero con la superficie di allenamento, privilegiando l'aderenza e la reattività durante la corsa. TEMPI DI CONSEGNA: 10-12 GIORNI Per una corretta scelta della misura, si prega di misurare con precisione la lunghezza del piede e di confrontarla con la tabella seguente:
-  Updated: 2026-03-30T21:26:01Z
+  Updated: 2026-04-20T21:54:00Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -2663,7 +2663,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [Hoka One One Carbon X3 blu](https://vibesmilano.com/products/hoka-one-one-carbon-x3-blu): HOKA ONE ONE CARBON X3, un modello leggero rivolto a quei corridori che cercano una modello per correre a passo veloce sull'asfalto che si possa utilizzare sia in gara che nell'allenamento a lunga distanza , e che dia una grande sensazione di comfort, oltre che un'eccezionale ammortizzazione e una sensazionale capacità di reazione. HOKA ONE ONE CARBON X3, caratteristiche principali La scarpa da running HOKA ONE ONE CARBON X3 è un modello appartenente alla serie Carbon X di Hoka che è una delle serie più acclamate dai corridori più veloci che cercano di misurarsi sia in gara che negli allenamenti sulle lunghe distanze. Un modello che incorpora una piastra in fibra di carbonio e la tecnologia Meta-Rocker, che vi spingerà a raggiungere ritmi molto veloci, sotto i 4:15 min/km. La terza interazione di questo modello ne riduce il peso (rendendolo più leggero di 17 grammi rispetto ai suoi predecessori) e aggiunge una maggiore reattività all'intera scarpa. La nuova intersuola in CMEVA implementa la tecnologia PROFLY che garantisce un'eccellente ammortizzazione e un assorbimento permanente degli urti. Viene riproposta la stessa struttura della versione precedente, laHoka Carbon X2, la piastra in carbonio in combinazione con la tecnologia Meta-Rocker per una spinta e una propulsione senza precedenti. Una geometria rocker che spinge il corridore in avanti. La novità principale del modello è la tomaia, che si presenta rinnovata (con un tessuto ad alte prestazioni) che offre una migliore vestibilità per dare il massimo sull'asfalto. In questo modo, l'azienda francese punta a migliorare il sostegno e la vestibilità senza rinunciare a una traspirabilità superiore. Inoltre, quest'ultima interazione presenta una linguetta posteriore allungata per facilitarne la calzata e la rimozione. La suola in EVA assicura un contatto leggero con la superficie di allenamento, privilegiando l'aderenza e la reattività durante la corsa. TEMPI DI CONSEGNA: 10-12 GIORNI Per una corretta scelta della misura, si prega di misurare con precisione la lunghezza del piede e di confrontarla con la tabella seguente:
-  Updated: 2026-03-30T21:26:01Z
+  Updated: 2026-04-20T21:54:00Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -2699,7 +2699,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [Hoka One One Carbon X3 nero](https://vibesmilano.com/products/hoka-one-one-carbon-x3-nero): HOKA ONE ONE CARBON X3, un modello leggero rivolto a quei corridori che cercano una modello per correre a passo veloce sull'asfalto che si possa utilizzare sia in gara che nell'allenamento a lunga distanza , e che dia una grande sensazione di comfort, oltre che un'eccezionale ammortizzazione e una sensazionale capacità di reazione. HOKA ONE ONE CARBON X3, caratteristiche principali La scarpa da running HOKA ONE ONE CARBON X3 è un modello appartenente alla serie Carbon X di Hoka che è una delle serie più acclamate dai corridori più veloci che cercano di misurarsi sia in gara che negli allenamenti sulle lunghe distanze. Un modello che incorpora una piastra in fibra di carbonio e la tecnologia Meta-Rocker, che vi spingerà a raggiungere ritmi molto veloci, sotto i 4:15 min/km. La terza interazione di questo modello ne riduce il peso (rendendolo più leggero di 17 grammi rispetto ai suoi predecessori) e aggiunge una maggiore reattività all'intera scarpa. La nuova intersuola in CMEVA implementa la tecnologia PROFLY che garantisce un'eccellente ammortizzazione e un assorbimento permanente degli urti. Viene riproposta la stessa struttura della versione precedente, laHoka Carbon X2, la piastra in carbonio in combinazione con la tecnologia Meta-Rocker per una spinta e una propulsione senza precedenti. Una geometria rocker che spinge il corridore in avanti. La novità principale del modello è la tomaia, che si presenta rinnovata (con un tessuto ad alte prestazioni) che offre una migliore vestibilità per dare il massimo sull'asfalto. In questo modo, l'azienda francese punta a migliorare il sostegno e la vestibilità senza rinunciare a una traspirabilità superiore. Inoltre, quest'ultima interazione presenta una linguetta posteriore allungata per facilitarne la calzata e la rimozione. La suola in EVA assicura un contatto leggero con la superficie di allenamento, privilegiando l'aderenza e la reattività durante la corsa. TEMPI DI CONSEGNA: 10-12 GIORNI Per una corretta scelta della misura, si prega di misurare con precisione la lunghezza del piede e di confrontarla con la tabella seguente:
-  Updated: 2026-03-30T21:26:02Z
+  Updated: 2026-04-20T21:54:01Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -2735,7 +2735,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [Hoka One Carbon X3 bordeaux](https://vibesmilano.com/products/hoka-one-one-carbon-x3-viola): HOKA ONE ONE CARBON X3, un modello leggero rivolto a quei corridori che cercano una modello per correre a passo veloce sull'asfalto che si possa utilizzare sia in gara che nell'allenamento a lunga distanza , e che dia una grande sensazione di comfort, oltre che un'eccezionale ammortizzazione e una sensazionale capacità di reazione. HOKA ONE ONE CARBON X3, caratteristiche principali La scarpa da running HOKA ONE ONE CARBON X3 è un modello appartenente alla serie Carbon X di Hoka che è una delle serie più acclamate dai corridori più veloci che cercano di misurarsi sia in gara che negli allenamenti sulle lunghe distanze. Un modello che incorpora una piastra in fibra di carbonio e la tecnologia Meta-Rocker, che vi spingerà a raggiungere ritmi molto veloci, sotto i 4:15 min/km. La terza interazione di questo modello ne riduce il peso (rendendolo più leggero di 17 grammi rispetto ai suoi predecessori) e aggiunge una maggiore reattività all'intera scarpa. La nuova intersuola in CMEVA implementa la tecnologia PROFLY che garantisce un'eccellente ammortizzazione e un assorbimento permanente degli urti. Viene riproposta la stessa struttura della versione precedente, laHoka Carbon X2, la piastra in carbonio in combinazione con la tecnologia Meta-Rocker per una spinta e una propulsione senza precedenti. Una geometria rocker che spinge il corridore in avanti. La novità principale del modello è la tomaia, che si presenta rinnovata (con un tessuto ad alte prestazioni) che offre una migliore vestibilità per dare il massimo sull'asfalto. In questo modo, l'azienda francese punta a migliorare il sostegno e la vestibilità senza rinunciare a una traspirabilità superiore. Inoltre, quest'ultima interazione presenta una linguetta posteriore allungata per facilitarne la calzata e la rimozione. La suola in EVA assicura un contatto leggero con la superficie di allenamento, privilegiando l'aderenza e la reattività durante la corsa. TEMPI DI CONSEGNA: 10-12 GIORNI Per una corretta scelta della misura, si prega di misurare con precisione la lunghezza del piede e di confrontarla con la tabella seguente:
-  Updated: 2026-03-30T21:26:02Z
+  Updated: 2026-04-20T21:54:01Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -2771,7 +2771,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [Hoka One One Carbon X3 azzurro](https://vibesmilano.com/products/hoka-one-one-carbon-x3-azzurro): HOKA ONE ONE CARBON X3, un modello leggero rivolto a quei corridori che cercano una modello per correre a passo veloce sull'asfalto che si possa utilizzare sia in gara che nell'allenamento a lunga distanza , e che dia una grande sensazione di comfort, oltre che un'eccezionale ammortizzazione e una sensazionale capacità di reazione. HOKA ONE ONE CARBON X3, caratteristiche principali La scarpa da running HOKA ONE ONE CARBON X3 è un modello appartenente alla serie Carbon X di Hoka che è una delle serie più acclamate dai corridori più veloci che cercano di misurarsi sia in gara che negli allenamenti sulle lunghe distanze. Un modello che incorpora una piastra in fibra di carbonio e la tecnologia Meta-Rocker, che vi spingerà a raggiungere ritmi molto veloci, sotto i 4:15 min/km. La terza interazione di questo modello ne riduce il peso (rendendolo più leggero di 17 grammi rispetto ai suoi predecessori) e aggiunge una maggiore reattività all'intera scarpa. La nuova intersuola in CMEVA implementa la tecnologia PROFLY che garantisce un'eccellente ammortizzazione e un assorbimento permanente degli urti. Viene riproposta la stessa struttura della versione precedente, laHoka Carbon X2, la piastra in carbonio in combinazione con la tecnologia Meta-Rocker per una spinta e una propulsione senza precedenti. Una geometria rocker che spinge il corridore in avanti. La novità principale del modello è la tomaia, che si presenta rinnovata (con un tessuto ad alte prestazioni) che offre una migliore vestibilità per dare il massimo sull'asfalto. In questo modo, l'azienda francese punta a migliorare il sostegno e la vestibilità senza rinunciare a una traspirabilità superiore. Inoltre, quest'ultima interazione presenta una linguetta posteriore allungata per facilitarne la calzata e la rimozione. La suola in EVA assicura un contatto leggero con la superficie di allenamento, privilegiando l'aderenza e la reattività durante la corsa. TEMPI DI CONSEGNA: 10-12 GIORNI Per una corretta scelta della misura, si prega di misurare con precisione la lunghezza del piede e di confrontarla con la tabella seguente:
-  Updated: 2026-03-30T21:26:02Z
+  Updated: 2026-04-20T21:54:02Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -2807,7 +2807,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [Hoka One One Carbon X3 arancione](https://vibesmilano.com/products/hoka-one-one-carbon-x3-arancione): HOKA ONE ONE CARBON X3, un modello leggero rivolto a quei corridori che cercano una modello per correre a passo veloce sull'asfalto che si possa utilizzare sia in gara che nell'allenamento a lunga distanza , e che dia una grande sensazione di comfort, oltre che un'eccezionale ammortizzazione e una sensazionale capacità di reazione. HOKA ONE ONE CARBON X3, caratteristiche principali La scarpa da running HOKA ONE ONE CARBON X3 è un modello appartenente alla serie Carbon X di Hoka che è una delle serie più acclamate dai corridori più veloci che cercano di misurarsi sia in gara che negli allenamenti sulle lunghe distanze. Un modello che incorpora una piastra in fibra di carbonio e la tecnologia Meta-Rocker, che vi spingerà a raggiungere ritmi molto veloci, sotto i 4:15 min/km. La terza interazione di questo modello ne riduce il peso (rendendolo più leggero di 17 grammi rispetto ai suoi predecessori) e aggiunge una maggiore reattività all'intera scarpa. La nuova intersuola in CMEVA implementa la tecnologia PROFLY che garantisce un'eccellente ammortizzazione e un assorbimento permanente degli urti. Viene riproposta la stessa struttura della versione precedente, laHoka Carbon X2, la piastra in carbonio in combinazione con la tecnologia Meta-Rocker per una spinta e una propulsione senza precedenti. Una geometria rocker che spinge il corridore in avanti. La novità principale del modello è la tomaia, che si presenta rinnovata (con un tessuto ad alte prestazioni) che offre una migliore vestibilità per dare il massimo sull'asfalto. In questo modo, l'azienda francese punta a migliorare il sostegno e la vestibilità senza rinunciare a una traspirabilità superiore. Inoltre, quest'ultima interazione presenta una linguetta posteriore allungata per facilitarne la calzata e la rimozione. La suola in EVA assicura un contatto leggero con la superficie di allenamento, privilegiando l'aderenza e la reattività durante la corsa. TEMPI DI CONSEGNA: 10-12 GIORNI Per una corretta scelta della misura, si prega di misurare con precisione la lunghezza del piede e di confrontarla con la tabella seguente:
-  Updated: 2026-03-30T21:26:02Z
+  Updated: 2026-04-20T21:54:03Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -2843,7 +2843,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [Nike Air Max 97 Golf Triple Black](https://vibesmilano.com/products/nike-air-max-97-triple-black): Le sneakers Nike Air Max 97 portano avanti la tradizione delle sneakers più amate degli anni '90, con gli stessi dettagli di design che resero famose le originali.Prodotte per la prima volta nel 1997 dall'ispirazione del designer Christian Tresser; le linee che le caratterizzano ricordano i treni ad alta velocità giapponesi e le finiture metalliche delle mountain bike, con profili rifrangenti e ammortizzazione Max Air a tutta lunghezza nell’intersuola, in grado di ridurre gli impatti e proteggere i muscoli.Di ispirazione running, le Nike Air Max 97 oltre vent’anni dopo il lancio del primo modello, sono ancora sulla cresta dell’onda! TEMPI DI CONSEGNA: 10-12 GIORNI
-  Updated: 2026-03-30T21:26:03Z
+  Updated: 2026-04-20T21:54:04Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -2894,7 +2894,7 @@
     Availability: Available
     Price: 165,00 € EUR
 - [Nike Air Max 97 Golf Silver Bullet](https://vibesmilano.com/products/nike-air-max-97-silver): Le sneakers Nike Air Max 97 portano avanti la tradizione delle sneakers più amate degli anni '90, con gli stessi dettagli di design che resero famose le originali.Prodotte per la prima volta nel 1997 dall'ispirazione del designer Christian Tresser; le linee che le caratterizzano ricordano i treni ad alta velocità giapponesi e le finiture metalliche delle mountain bike, con profili rifrangenti e ammortizzazione Max Air a tutta lunghezza nell’intersuola, in grado di ridurre gli impatti e proteggere i muscoli.Di ispirazione running, le Nike Air Max 97 oltre vent’anni dopo il lancio del primo modello, sono ancora sulla cresta dell’onda! TEMPI DI CONSEGNA: 10-12 GIORNI
-  Updated: 2026-03-30T21:26:03Z
+  Updated: 2026-04-20T21:54:04Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -2945,7 +2945,7 @@
     Availability: Available
     Price: 159,00 € EUR
 - [Nike Air Max 97 Triple White](https://vibesmilano.com/products/nike-air-max-97-white): Le sneakers Nike Air Max 97 portano avanti la tradizione delle sneakers più amate degli anni '90, con gli stessi dettagli di design che resero famose le originali.Prodotte per la prima volta nel 1997 dall'ispirazione del designer Christian Tresser; le linee che le caratterizzano ricordano i treni ad alta velocità giapponesi e le finiture metalliche delle mountain bike, con profili rifrangenti e ammortizzazione Max Air a tutta lunghezza nell’intersuola, in grado di ridurre gli impatti e proteggere i muscoli.Di chiara ispirazione running, le Nike Air Max 97 oltre vent’anni dopo il lancio del primo modello, sono ancora sulla cresta dell’onda! TEMPI DI CONSEGNA: 10-12 GIORNI
-  Updated: 2026-03-30T21:26:03Z
+  Updated: 2026-04-20T21:54:05Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -2996,7 +2996,7 @@
     Availability: Available
     Price: 165,00 € EUR
 - [Nike Air Jordan 4 Retro Black Suede](https://vibesmilano.com/products/nike-air-jordan-4-retro-black-cat): Sneakers Air Jordan 4 Retro Black Suede Jordan propone una nuova variazione sul tema revival anni 2000 con le Jordan 4 Black Cat (2020), adesso disponibili su Vibes Milano. Originariamente uscite nel 2006, questa è la prima volta che la colorway Black Cat torna alla ribalta. Questa versione in stile rétro rispecchia quella del 2006 e sceglie le tonalità del nero per sottolineare il suo stile. La silhouette monocromatica in pelle nabuk e le rifiniture opache color grafite si aggiungono agli altri dettagli storici dell'originale, come le sagome rigide che trattengono gli occhielli e la rete traspirante sulla tomaia. Con un Jumpman color grafite su nero sulla linguetta e un logo nero lucido sul tallone, questa elegante versione è nata per volare oltre il canestro, ma sotto gli occhi di tutti.Le Jordan 4 hanno una tomaia in nabuck nero con inserti tono su tono. A completare il design, rifiniture, mesh e suole nere. Le sneakers Air Jordan 4 Retro Black Cat 2020 di Jordan sono un modello con punta tonda, suola piatta in gomma, chiusura con lacci e soletta con logo. Si tratta di un articolo sold out ovunque e molto ricercato. Noi di Vibes Milano lo importiamo direttamente e lo proponiamo al prezzo più basso del mercato. TEMPI DI CONSEGNA: 10-12 GIORNI
-  Updated: 2026-03-30T21:26:03Z
+  Updated: 2026-04-20T21:54:05Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -3032,7 +3032,7 @@
     Availability: Available
     Price: 220,00 € EUR
 - [Nike Air Jordan 4 Nigel  Sylvester Brick By Brick (non disponibile in Italia)](https://vibesmilano.com/products/nike-air-jordan-4-retro-military-black): Nigel Sylvester, leggenda del BMX, e il brand Jordan uniscono le forze per creare questa versione esplosiva di AJ4. Che sia nello sport, nella cultura e nella filantropia, la colorway "Brick by Brick" testimonia i valori di Nigel: la perseveranza e la voglia di progresso. Il suo impegno per superare i limiti, fare trick sempre più spettacolari e rendere il mondo un posto migliore ha ispirato la grintosa tomaia in pelle Firewood Orange. Gli inserti e i dettagli Cinnabar contrastano con la tomaia brillante, mentre l'intersuola Sail, dalla linea pulita, dona equilibrio al design audace. Restando fedele all'originale AJ4 dell'89, il nuovo modello presenta dettagli ispirati al mesh e sottocchielli sollevati. Per rendere omaggio alla passione di Nigel, il tradizionale logo "Nike Air" sul tallone è rimpiazzato da "Bike Air". Indossa le tue AJ4 Nigel, fai squadra e dichiara la tua unicità. TEMPI DI CONSEGNA: 10-12 GIORNI
-  Updated: 2026-03-30T21:26:04Z
+  Updated: 2026-04-20T21:54:06Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -3092,7 +3092,7 @@
     Availability: Available
     Price: 239,00 € EUR
 - [Nike Air Jordan 4 Retro Fear](https://vibesmilano.com/products/nike-air-jordan-4-retro-bred): Sneakers Air Jordan 4 Retro Fear Optate per un classico. Questa AJ4 retrò è realizzata in pelle, pelle sintetica e tessuti pregiati. Colori vivaci e accenti metallici rivisitano questa icona.Gli elementi originali, come gli occhielli fluttuanti e i dettagli ispirati alla rete, sono alla moda come lo erano nel 1989. Tomaia in pelle pieno fiore e pelle sintetica per una maggiore durata. Gli occhielli fluttuanti alla caviglia si ripiegano sul piede quando si allaccia la scarpa. Tecnologia ammortizzante Nike Air per una buona ammortizzazione a ogni passo. Suola in gomma per un'eccellente aderenza quotidiana. Noi di Vibes Milano lo importiamo direttamente e lo proponiamo al prezzo più basso del mercato. TEMPI DI CONSEGNA: 12-14 GIORNI LAVORATIVI
-  Updated: 2026-03-30T21:26:04Z
+  Updated: 2026-04-20T21:54:06Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -3149,7 +3149,7 @@
     Availability: Available
     Price: 199,00 € EUR
 - [Nike Air Force 1 White Low '07 Next Nature Triple White Bulbous Swoosh](https://vibesmilano.com/products/nike-air-force-1-bianco): Sneakers Air Force 1 VANTAGGI Strati esterni cuciti sulla tomaia per un tocco tradizionale, resistenza e supporto. Originariamente progettata per offrire massime prestazioni sul parquet, l'ammortizzazione Nike Air aggiunge leggerezza e un comfort che dura per tutto il giorno. La silhouette classica a taglio basso dona un look essenziale. Collare imbottito per morbidezza e comfort. DETTAGLI PRODOTTO Intersuola in schiuma Inserti traforati sulla punta Battistrada in gomma Stile: CW2288-111 ORIGINI DI AIR FORCE 1 Nel 1982, AF1 fu la prima scarpa da basket dotata di tecnologia Nike Air a rivoluzionare il gioco e conquistare rapidamente popolarità in tutto il mondo. Oggi, Air Force 1 resta fedele al modello originale, conservando l'ammortizzazione elastica e la morbidezza che hanno cambiato la storia delle sneakers. Noi di Vibes Milano lo importiamo direttamente e lo proponiamo al prezzo più basso del mercato. TEMPI DI CONSEGNA: 10-12 GIORNI
-  Updated: 2026-03-30T21:26:04Z
+  Updated: 2026-04-20T21:54:06Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -3200,7 +3200,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [Nike Air Force 1 White Low](https://vibesmilano.com/products/nike-air-force-black-low): Sneakers Air Force 1 DETTAGLI PRODOTTO Intersuola in schiuma Inserti traforati sulla punta Battistrada in gomma Stile: CW2288-111 ORIGINI DI AIR FORCE 1 Nel 1982, AF1 fu la prima scarpa da basket dotata di tecnologia Nike Air a rivoluzionare il gioco e conquistare rapidamente popolarità in tutto il mondo. Oggi, Air Force 1 resta fedele al modello originale, conservando l'ammortizzazione elastica e la morbidezza che hanno cambiato la storia delle sneakers. Noi di Vibes Milano lo importiamo direttamente e lo proponiamo al prezzo più basso del mercato. TEMPI DI CONSEGNA: 12-14 GIORNI LAVORATIVI
-  Updated: 2026-03-30T21:26:04Z
+  Updated: 2026-04-20T21:54:07Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -3251,7 +3251,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [Giacca Scuderia F1 Team Racing rosso](https://vibesmilano.com/products/giacca-scuderia-f1-team-racing-rosso): Segui la moda con questa giacca della più celebre Scuderia di Formula 1 al mondo! Perfetta per i fan del cavallino rampante, questa giacca è un must per ogni fan della Formula 1 che ama la celebre casa automobilistica. E' realizzata in un leggero tessuto resistente e traspirante in poliestere, i loghi della scuderia e degli altri sponsor sono sia sul petto che sulle maniche e sulle spalle, rendendolo un capo davvero unico. Il cappuccio protegge dalla pioggia, rendendola ideale per l'uso quotidiano o per tifare la scuderia del cuore. Tabella misure per la scelta della taglia corretta:
-  Updated: 2026-03-30T21:26:05Z
+  Updated: 2026-04-20T21:54:07Z
   Vendor: VIBES MILANO
   Product Type: giacca primaverile
   Availability: Available
@@ -3281,7 +3281,7 @@
     Availability: Available
     Price: 69,00 € EUR
 - [Giacca Scuderia F1 Team Racing azzurro/bianco](https://vibesmilano.com/products/giacca-scuderia-f1-team-racing-azzurro-bianco): Segui la moda con questa giacca della più celebre Scuderia di Formula 1 al mondo! Perfetta per i fan del cavallino rampante, questa giacca è un must per ogni fan della Formula 1 che ama la celebre casa automobilistica. E' realizzata in un leggero tessuto resistente e traspirante in poliestere, i loghi della scuderia e degli altri sponsor sono sia sul petto che sulle maniche e sulle spalle, rendendolo un capo davvero unico. Il cappuccio protegge dalla pioggia, rendendola ideale per l'uso quotidiano o per tifare la scuderia del cuore. Tabella misure per la scelta della taglia corretta:
-  Updated: 2026-03-30T21:26:05Z
+  Updated: 2026-04-20T21:54:08Z
   Vendor: VIBES MILANO
   Product Type: giacca primaverile
   Availability: Available
@@ -3311,7 +3311,7 @@
     Availability: Available
     Price: 69,00 € EUR
 - [Giacca Scuderia F1 Team Racing McLaren](https://vibesmilano.com/products/giacca-scuderia-f1-team-racing-mclaren): Segui la moda con questa giacca della celebre Scuderia di Formula McLaren! Perfetta per i fan di una delle scuderie più vincenti e blasonate al mondo, questa giacca è un must per ogni fan della Formula 1 che ama la celebre casa automobilistica. E' realizzata in un leggero tessuto resistente e traspirante in poliestere, i loghi della scuderia e degli altri sponsor sono sia sul petto che sulle maniche e sulle spalle, rendendolo un capo davvero unico. Il cappuccio protegge dalla pioggia, rendendola ideale per l'uso quotidiano o per tifare la scuderia del cuore. Tabella misure per la scelta della taglia corretta:
-  Updated: 2026-03-30T21:26:05Z
+  Updated: 2026-04-20T21:54:09Z
   Vendor: VIBES MILANO
   Product Type: giacca primaverile
   Availability: Available
@@ -3341,7 +3341,7 @@
     Availability: Available
     Price: 69,00 € EUR
 - [Giacca RedBull F1 Racing team blu](https://vibesmilano.com/products/giacca-redbull-f1-racing-team-blu): Fai esplodere il tuo entusiasmo per Red Bull con questa giacca racing F1. Perfetta per i fan di Formula 1, questa giacca ufficiale della Red Bull Racing F1 è un must per qualsiasi fan dei motori. Realizzata con un tessuto leggero in poliestere, è durevole e confortevole. I loghi iconici della Red Bull sono stampati sul petto e sul retro, chiusura centrale con zip lunga, elastici sulle maniche e sul fondo della giacca. E' il capo deale per l'abbigliamento quotidiano o il tifo per la tua squadra preferita. Per una corretta scelta della taglia basarsi sulla seguente tabella:
-  Updated: 2026-03-30T21:26:06Z
+  Updated: 2026-04-20T21:54:10Z
   Vendor: VIBES MILANO
   Product Type: giacca primaverile
   Availability: Available
@@ -3362,7 +3362,7 @@
     Availability: Available
     Price: 79,00 € EUR
 - [Nike Air Force 1 07 Low White](https://vibesmilano.com/products/nike-air-force-1-white-black): Sneakers Air Force 1 VANTAGGI Strati esterni cuciti sulla tomaia per un tocco tradizionale, resistenza e supporto. Originariamente progettata per offrire massime prestazioni sul parquet, l'ammortizzazione Nike Air aggiunge leggerezza e un comfort che dura per tutto il giorno. La silhouette classica a taglio basso dona un look essenziale. Collare imbottito per morbidezza e comfort. DETTAGLI PRODOTTO Intersuola in schiuma Inserti traforati sulla punta Battistrada in gomma Stile: CW2288-111 ORIGINI DI AIR FORCE 1 Nel 1982, AF1 fu la prima scarpa da basket dotata di tecnologia Nike Air a rivoluzionare il gioco e conquistare rapidamente popolarità in tutto il mondo. Oggi, Air Force 1 resta fedele al modello originale, conservando l'ammortizzazione elastica e la morbidezza che hanno cambiato la storia delle sneakers. Noi di Vibes Milano lo importiamo direttamente e lo proponiamo al prezzo più basso del mercato. TEMPI DI CONSEGNA: 10-12 GIORNI
-  Updated: 2026-03-30T21:26:06Z
+  Updated: 2026-04-20T21:54:10Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -3413,7 +3413,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Nike New Dunk SB Low azzurro](https://vibesmilano.com/products/nike-new-dunk-sb-low-bianco-nero): Progettata per il basket ma adottata dagli skater, Nike Dunk Low ha contribuito a definire la cultura sneakerhead. Con una morbida imbottitura alla caviglia e trazione in gomma resistente, questa icona degli anni Ottanta è perfetta per il tempo libero e non solo. Fatta per durare: i materiali offrono resistenza e un tocco classico. Dettagli prodotto: lacci classici. Fattura con suola preformata Nike Dunk: nata da una serie di mash-up, soluzioni creative e scadenze ravvicinate, Nike Dunk fece il proprio debutto sui parquet universitari durante la stagione 1985/86. Sebbene i design originali nei colori del college fossero pensati per mostrare fedeltà alla propria università, Dunk non ebbe inizialmente un grande successo. Ma fu proprio la mancanza di popolarità di questa umile sneaker, dalla suola piatta e aderente, ad attirare l'attenzione degli skater. Decenni dopo, questo modello amatissimo per tutti i giorni continua a essere conteso in innumerevoli colorazioni, chiara dimostrazione di un'influenza innegabile.
-  Updated: 2026-03-30T21:26:06Z
+  Updated: 2026-04-20T21:54:11Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -3473,7 +3473,7 @@
     Availability: Available
     Price: 110,00 € EUR
 - [Nike New Dunk SB Low mod. Stussy bianco](https://vibesmilano.com/products/nike-new-dunk-sb-low-white-black-logo): Progettata per il basket ma adottata dagli skater, Nike Dunk Low ha contribuito a definire la cultura sneakerhead. Con una morbida imbottitura alla caviglia e trazione in gomma resistente, questa icona degli anni Ottanta è perfetta per il tempo libero e non solo. Fatta per durare: i materiali offrono resistenza e un tocco classico. Dettagli prodotto: lacci classici. Fattura con suola preformata Nike Dunk: nata da una serie di mash-up, soluzioni creative e scadenze ravvicinate, Nike Dunk fece il proprio debutto sui parquet universitari durante la stagione 1985/86. Sebbene i design originali nei colori del college fossero pensati per mostrare fedeltà alla propria università, Dunk non ebbe inizialmente un grande successo. Ma fu proprio la mancanza di popolarità di questa umile sneaker, dalla suola piatta e aderente, ad attirare l'attenzione degli skater. Decenni dopo, questo modello amatissimo per tutti i giorni continua a essere conteso in innumerevoli colorazioni, chiara dimostrazione di un'influenza innegabile.
-  Updated: 2026-03-30T21:26:06Z
+  Updated: 2026-04-20T21:54:11Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -3524,7 +3524,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [Nike New Dunk SB Supreme bianco](https://vibesmilano.com/products/nike-new-dunk-sb-low-green): Progettata per il basket ma adottata dagli skater, Nike Dunk Low ha contribuito a definire la cultura sneakerhead. Con una morbida imbottitura alla caviglia e trazione in gomma resistente, questa icona degli anni Ottanta è perfetta per il tempo libero e non solo. Fatta per durare: i materiali offrono resistenza e un tocco classico. Dettagli prodotto: lacci classici. Fattura con suola preformata Nike Dunk: nata da una serie di mash-up, soluzioni creative e scadenze ravvicinate, Nike Dunk fece il proprio debutto sui parquet universitari durante la stagione 1985/86. Sebbene i design originali nei colori del college fossero pensati per mostrare fedeltà alla propria università, Dunk non ebbe inizialmente un grande successo. Ma fu proprio la mancanza di popolarità di questa umile sneaker, dalla suola piatta e aderente, ad attirare l'attenzione degli skater. Decenni dopo, questo modello amatissimo per tutti i giorni continua a essere conteso in innumerevoli colorazioni, chiara dimostrazione di un'influenza innegabile.
-  Updated: 2026-04-07T03:06:51Z
+  Updated: 2026-04-20T21:54:12Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -3572,7 +3572,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [New Balance NB M1906R bianco oro metallizzato](https://vibesmilano.com/products/new-balance-nb-m1906r-bianco-oro-metallizzato): La sneaker 1906 di New Balance unisce stile e comfort. Ispirata alle scarpe da corsa degli anni 2000, offre caratteristiche di comfort come l'intersuola ABZORB e la tecnologia Stability Web per il supporto dell'arco plantare.- L'ammortizzazione ABZORB SBS sul tallone offre maggiore stabilità e comfort- La suola N-ergy per l'assorbimento degli urti- La tecnologia Stability Web sulla suola offre maggiore supporto dell'arco plantare. Le 1906R presentano una suola che combina l'ammortizzazione flessibile ACTEVA LITE, il sistema di assorbimento degli urti N-ergy e i cuscinetti ABZORB SBS segmentati sul tallone. Questo approccio hi-tech si riflette anche nella tomaia delle 1906R, che presenta un mesh a fori aperti e una serie di rivestimenti sintetici curvilinei. Questa interpretazione unica delle convenzioni di design dell'epoca offre una realizzazione elegante di una tradizione fatta di grandi prestazioni. Caratteristiche Ammortizzazione dell’intersuola ACTEVA LITE Ammortizzazione del tallone ABZORB SBS Suola N-ergy che garantisce un'ammortizzazione superiore Tecnologia Stability Web nella suola per un ulteriore sostegno dell'arcata plantare Gabbia del tallone in TPU Suola in gomma Materiale Tomaia in mesh con rivestimenti sintetici Suola in gomma NOTE: 1) Prestare molta attenzione nella scelta del numero: le New Balance 9060 calzano piccolo, quindi consigliamo di scegliere un numero più grande (ad esempio se porti il 43 dovrai selezionare il 44) 2) A causa della forte richiesta dovuta alla promozione in corso, per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine. 3) Importiamo modelli originali direttamente da mercati esteri. A causa degli alti costi delle spedizioni internazionali, gli articoli verranno consegnati privi della loro scatola e avvolti nel pluriball con un imballo esterno. Questo ci consente di contenere il prezzo dell'articolo senza gravare sul consumatore finale
-  Updated: 2026-03-30T21:26:07Z
+  Updated: 2026-04-20T21:54:13Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -3608,7 +3608,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [New Balance NB M1906R White & Team Royal](https://vibesmilano.com/products/new-balance-nb-m1906r-silver-black): La sneaker 1906 di New Balance unisce stile e comfort. Ispirata alle scarpe da corsa degli anni 2000, offre caratteristiche di comfort come l'intersuola ABZORB e la tecnologia Stability Web per il supporto dell'arco plantare.- L'ammortizzazione ABZORB SBS sul tallone offre maggiore stabilità e comfort- La suola N-ergy per l'assorbimento degli urti- La tecnologia Stability Web sulla suola offre maggiore supporto dell'arco plantare. Le 1906R presentano una suola che combina l'ammortizzazione flessibile ACTEVA LITE, il sistema di assorbimento degli urti N-ergy e i cuscinetti ABZORB SBS segmentati sul tallone. Questo approccio hi-tech si riflette anche nella tomaia delle 1906R, che presenta un mesh a fori aperti e una serie di rivestimenti sintetici curvilinei. Questa interpretazione unica delle convenzioni di design dell'epoca offre una realizzazione elegante di una tradizione fatta di grandi prestazioni. Caratteristiche Ammortizzazione dell’intersuola ACTEVA LITE Ammortizzazione del tallone ABZORB SBS Suola N-ergy che garantisce un'ammortizzazione superiore Tecnologia Stability Web nella suola per un ulteriore sostegno dell'arcata plantare Gabbia del tallone in TPU Suola in gomma Materiale Tomaia in mesh con rivestimenti sintetici Suola in gomma NOTE: Tempi di consegna: 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:26:07Z
+  Updated: 2026-04-20T21:54:14Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -3665,7 +3665,7 @@
     Availability: Available
     Price: 119,00 € EUR
 - [New Balance NB M1906R Harbor Grey](https://vibesmilano.com/products/new-balance-nb-m1906r-harbor-grey): La sneaker 1906 di New Balance unisce stile e comfort. Ispirata alle scarpe da corsa degli anni 2000, offre caratteristiche di comfort come l'intersuola ABZORB e la tecnologia Stability Web per il supporto dell'arco plantare.- L'ammortizzazione ABZORB SBS sul tallone offre maggiore stabilità e comfort- La suola N-ergy per l'assorbimento degli urti- La tecnologia Stability Web sulla suola offre maggiore supporto dell'arco plantare. Le 1906R presentano una suola che combina l'ammortizzazione flessibile ACTEVA LITE, il sistema di assorbimento degli urti N-ergy e i cuscinetti ABZORB SBS segmentati sul tallone. Questo approccio hi-tech si riflette anche nella tomaia delle 1906R, che presenta un mesh a fori aperti e una serie di rivestimenti sintetici curvilinei. Questa interpretazione unica delle convenzioni di design dell'epoca offre una realizzazione elegante di una tradizione fatta di grandi prestazioni. Caratteristiche Ammortizzazione dell’intersuola ACTEVA LITE Ammortizzazione del tallone ABZORB SBS Suola N-ergy che garantisce un'ammortizzazione superiore Tecnologia Stability Web nella suola per un ulteriore sostegno dell'arcata plantare Gabbia del tallone in TPU Suola in gomma Materiale Tomaia in mesh con rivestimenti sintetici Suola in gomma NOTE: 1) Prestare molta attenzione nella scelta del numero: le New Balance 9060 calzano piccolo, quindi consigliamo di scegliere un numero più grande (ad esempio se porti il 43 dovrai selezionare il 44) 2) A causa della forte richiesta dovuta alla promozione in corso, per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine. 3) Importiamo modelli originali direttamente da mercati esteri. A causa degli alti costi delle spedizioni internazionali, gli articoli verranno consegnati privi della loro scatola e avvolti nel pluriball con un imballo esterno. Questo ci consente di contenere il prezzo dell'articolo senza gravare sul consumatore finale
-  Updated: 2026-03-30T21:26:08Z
+  Updated: 2026-04-20T21:54:14Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -3701,7 +3701,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [New Balance NB M1906R Deep Black](https://vibesmilano.com/products/new-balance-nb-m1906r-deep-black): La sneaker 1906 di New Balance unisce stile e comfort. Ispirata alle scarpe da corsa degli anni 2000, offre caratteristiche di comfort come l'intersuola ABZORB e la tecnologia Stability Web per il supporto dell'arco plantare.- L'ammortizzazione ABZORB SBS sul tallone offre maggiore stabilità e comfort- La suola N-ergy per l'assorbimento degli urti- La tecnologia Stability Web sulla suola offre maggiore supporto dell'arco plantare. Le 1906R presentano una suola che combina l'ammortizzazione flessibile ACTEVA LITE, il sistema di assorbimento degli urti N-ergy e i cuscinetti ABZORB SBS segmentati sul tallone. Questo approccio hi-tech si riflette anche nella tomaia delle 1906R, che presenta un mesh a fori aperti e una serie di rivestimenti sintetici curvilinei. Questa interpretazione unica delle convenzioni di design dell'epoca offre una realizzazione elegante di una tradizione fatta di grandi prestazioni. Caratteristiche Ammortizzazione dell’intersuola ACTEVA LITE Ammortizzazione del tallone ABZORB SBS Suola N-ergy che garantisce un'ammortizzazione superiore Tecnologia Stability Web nella suola per un ulteriore sostegno dell'arcata plantare Gabbia del tallone in TPU Suola in gomma Materiale Tomaia in mesh con rivestimenti sintetici Suola in gomma NOTE: 1) Prestare molta attenzione nella scelta del numero: le New Balance 9060 calzano piccolo, quindi consigliamo di scegliere un numero più grande (ad esempio se porti il 43 dovrai selezionare il 44) 2) A causa della forte richiesta dovuta alla promozione in corso, per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine. 3) Importiamo modelli originali direttamente da mercati esteri. A causa degli alti costi delle spedizioni internazionali, gli articoli verranno consegnati privi della loro scatola e avvolti nel pluriball con un imballo esterno. Questo ci consente di contenere il prezzo dell'articolo senza gravare sul consumatore finale
-  Updated: 2026-03-30T21:26:08Z
+  Updated: 2026-04-20T21:54:15Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -3737,7 +3737,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [New Balance NB M1906R Silver Red](https://vibesmilano.com/products/new-balance-nb-m1906r-silver-red): La sneaker 1906 di New Balance unisce stile e comfort. Ispirata alle scarpe da corsa degli anni 2000, offre caratteristiche di comfort come l'intersuola ABZORB e la tecnologia Stability Web per il supporto dell'arco plantare.- L'ammortizzazione ABZORB SBS sul tallone offre maggiore stabilità e comfort- La suola N-ergy per l'assorbimento degli urti- La tecnologia Stability Web sulla suola offre maggiore supporto dell'arco plantare. Le 1906R presentano una suola che combina l'ammortizzazione flessibile ACTEVA LITE, il sistema di assorbimento degli urti N-ergy e i cuscinetti ABZORB SBS segmentati sul tallone. Questo approccio hi-tech si riflette anche nella tomaia delle 1906R, che presenta un mesh a fori aperti e una serie di rivestimenti sintetici curvilinei. Questa interpretazione unica delle convenzioni di design dell'epoca offre una realizzazione elegante di una tradizione fatta di grandi prestazioni. Caratteristiche Ammortizzazione dell’intersuola ACTEVA LITE Ammortizzazione del tallone ABZORB SBS Suola N-ergy che garantisce un'ammortizzazione superiore Tecnologia Stability Web nella suola per un ulteriore sostegno dell'arcata plantare Gabbia del tallone in TPU Suola in gomma Materiale Tomaia in mesh con rivestimenti sintetici Suola in gomma NOTE: 1) Prestare molta attenzione nella scelta del numero: le New Balance 9060 calzano piccolo, quindi consigliamo di scegliere un numero più grande (ad esempio se porti il 43 dovrai selezionare il 44) 2) A causa della forte richiesta dovuta alla promozione in corso, per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine. 3) Importiamo modelli originali direttamente da mercati esteri. A causa degli alti costi delle spedizioni internazionali, gli articoli verranno consegnati privi della loro scatola e avvolti nel pluriball con un imballo esterno. Questo ci consente di contenere il prezzo dell'articolo senza gravare sul consumatore finale
-  Updated: 2026-03-30T21:26:08Z
+  Updated: 2026-04-20T21:54:16Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -3773,7 +3773,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [New Balance NB M1906R Silver Blue Agate](https://vibesmilano.com/products/new-balance-nb-m1906r-blue-agate): La sneaker 1906 di New Balance unisce stile e comfort. Ispirata alle scarpe da corsa degli anni 2000, offre caratteristiche di comfort come l'intersuola ABZORB e la tecnologia Stability Web per il supporto dell'arco plantare.- L'ammortizzazione ABZORB SBS sul tallone offre maggiore stabilità e comfort- La suola N-ergy per l'assorbimento degli urti- La tecnologia Stability Web sulla suola offre maggiore supporto dell'arco plantare. Le 1906R presentano una suola che combina l'ammortizzazione flessibile ACTEVA LITE, il sistema di assorbimento degli urti N-ergy e i cuscinetti ABZORB SBS segmentati sul tallone. Questo approccio hi-tech si riflette anche nella tomaia delle 1906R, che presenta un mesh a fori aperti e una serie di rivestimenti sintetici curvilinei. Questa interpretazione unica delle convenzioni di design dell'epoca offre una realizzazione elegante di una tradizione fatta di grandi prestazioni. Caratteristiche Ammortizzazione dell’intersuola ACTEVA LITE Ammortizzazione del tallone ABZORB SBS Suola N-ergy che garantisce un'ammortizzazione superiore Tecnologia Stability Web nella suola per un ulteriore sostegno dell'arcata plantare Gabbia del tallone in TPU Suola in gomma Materiale Tomaia in mesh con rivestimenti sintetici Suola in gomma NOTE: Tempi di spedizione 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:26:08Z
+  Updated: 2026-04-20T21:54:17Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -3809,7 +3809,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [New Balance NB M1906R Sea Salt/Angora/Pink Sugar](https://vibesmilano.com/products/new-balance-nb-m1906r-sea-salt-angora-pink-sugar): La sneaker 1906 di New Balance unisce stile e comfort. Ispirata alle scarpe da corsa degli anni 2000, offre caratteristiche di comfort come l'intersuola ABZORB e la tecnologia Stability Web per il supporto dell'arco plantare.- L'ammortizzazione ABZORB SBS sul tallone offre maggiore stabilità e comfort- La suola N-ergy per l'assorbimento degli urti- La tecnologia Stability Web sulla suola offre maggiore supporto dell'arco plantare. Le 1906R presentano una suola che combina l'ammortizzazione flessibile ACTEVA LITE, il sistema di assorbimento degli urti N-ergy e i cuscinetti ABZORB SBS segmentati sul tallone. Questo approccio hi-tech si riflette anche nella tomaia delle 1906R, che presenta un mesh a fori aperti e una serie di rivestimenti sintetici curvilinei. Questa interpretazione unica delle convenzioni di design dell'epoca offre una realizzazione elegante di una tradizione fatta di grandi prestazioni. Caratteristiche Ammortizzazione dell’intersuola ACTEVA LITE Ammortizzazione del tallone ABZORB SBS Suola N-ergy che garantisce un'ammortizzazione superiore Tecnologia Stability Web nella suola per un ulteriore sostegno dell'arcata plantare Gabbia del tallone in TPU Suola in gomma Materiale Tomaia in mesh con rivestimenti sintetici Suola in gomma NOTE: 1) Prestare molta attenzione nella scelta del numero: le New Balance 9060 calzano piccolo, quindi consigliamo di scegliere un numero più grande (ad esempio se porti il 43 dovrai selezionare il 44) 2) A causa della forte richiesta dovuta alla promozione in corso, per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine. 3) Importiamo modelli originali direttamente da mercati esteri. A causa degli alti costi delle spedizioni internazionali, gli articoli verranno consegnati privi della loro scatola e avvolti nel pluriball con un imballo esterno. Questo ci consente di contenere il prezzo dell'articolo senza gravare sul consumatore finale
-  Updated: 2026-03-30T21:26:09Z
+  Updated: 2026-04-20T21:54:17Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -3845,7 +3845,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [New Balance NB M1906R Black Yellow](https://vibesmilano.com/products/new-balance-nb-m1906r-black-yellow): La sneaker 1906 di New Balance unisce stile e comfort. Ispirata alle scarpe da corsa degli anni 2000, offre caratteristiche di comfort come l'intersuola ABZORB e la tecnologia Stability Web per il supporto dell'arco plantare.- L'ammortizzazione ABZORB SBS sul tallone offre maggiore stabilità e comfort- La suola N-ergy per l'assorbimento degli urti- La tecnologia Stability Web sulla suola offre maggiore supporto dell'arco plantare. Le 1906R presentano una suola che combina l'ammortizzazione flessibile ACTEVA LITE, il sistema di assorbimento degli urti N-ergy e i cuscinetti ABZORB SBS segmentati sul tallone. Questo approccio hi-tech si riflette anche nella tomaia delle 1906R, che presenta un mesh a fori aperti e una serie di rivestimenti sintetici curvilinei. Questa interpretazione unica delle convenzioni di design dell'epoca offre una realizzazione elegante di una tradizione fatta di grandi prestazioni. Caratteristiche Ammortizzazione dell’intersuola ACTEVA LITE Ammortizzazione del tallone ABZORB SBS Suola N-ergy che garantisce un'ammortizzazione superiore Tecnologia Stability Web nella suola per un ulteriore sostegno dell'arcata plantare Gabbia del tallone in TPU Suola in gomma Materiale Tomaia in mesh con rivestimenti sintetici Suola in gomma NOTE: 1) Prestare molta attenzione nella scelta del numero: le New Balance 9060 calzano piccolo, quindi consigliamo di scegliere un numero più grande (ad esempio se porti il 43 dovrai selezionare il 44) 2) A causa della forte richiesta dovuta alla promozione in corso, per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine. 3) Importiamo modelli originali direttamente da mercati esteri. A causa degli alti costi delle spedizioni internazionali, gli articoli verranno consegnati privi della loro scatola e avvolti nel pluriball con un imballo esterno. Questo ci consente di contenere il prezzo dell'articolo senza gravare sul consumatore finale
-  Updated: 2026-03-30T21:26:09Z
+  Updated: 2026-04-20T21:54:18Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -3881,7 +3881,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [New Balance NB 9060 Grey Matter Timberwolf](https://vibesmilano.com/products/new-balance-nb-9060-grey-matter-timberwolf): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi dispedizione: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:26:09Z
+  Updated: 2026-04-20T21:54:19Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -3917,7 +3917,7 @@
     Availability: Available
     Price: 159,00 € EUR
 - [Adidas Originals Gazelle Indoor taupe brown](https://vibesmilano.com/products/adidas-originals-gazelle-indoor-brown-rosa): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:09Z
+  Updated: 2026-04-20T21:54:20Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -3968,7 +3968,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [Adidas Originals Gazelle Indoor brown pink](https://vibesmilano.com/products/adidas-originals-gazelle-indoor-brown-pink): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: tempi di consegna 12-14 giorni lavorativi.
-  Updated: 2026-03-30T21:26:10Z
+  Updated: 2026-04-20T21:54:20Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -4070,7 +4070,7 @@
     Availability: Not Available
     Price: 139,00 € EUR
 - [Adidas Originals Gazelle Indoor Silver](https://vibesmilano.com/products/adidas-originals-gazelle-indoor-silver): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:10Z
+  Updated: 2026-04-20T21:54:21Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -4124,7 +4124,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [Adidas Originals Gazelle Pink](https://vibesmilano.com/products/adidas-originals-gazelle-pink): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:10Z
+  Updated: 2026-04-20T21:54:21Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -4175,7 +4175,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Originals Gazelle Indoor Black](https://vibesmilano.com/products/adidas-originals-gazelle-indoor-black): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:10Z
+  Updated: 2026-04-20T21:54:21Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -4229,7 +4229,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [Adidas Originals Stadt azzurro](https://vibesmilano.com/products/adidas-originals-stadt-azzurro): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: i tempi di consegna sono di 12-14 giorni lavorativi.
-  Updated: 2026-03-30T21:26:11Z
+  Updated: 2026-04-20T21:54:22Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -4280,7 +4280,7 @@
     Availability: Available
     Price: 119,00 € EUR
 - [Adidas Originals Gazelle Indoor beige](https://vibesmilano.com/products/adidas-originals-gazelle-indoor-beige): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:11Z
+  Updated: 2026-04-20T21:54:22Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -4331,7 +4331,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Originals Gazelle Indoor Brown](https://vibesmilano.com/products/adidas-originals-gazelle-indoor-brown): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:11Z
+  Updated: 2026-04-20T21:54:23Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -4382,7 +4382,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Originals Gazelle panna](https://vibesmilano.com/products/adidas-originals-gazelle-panna): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: i tempi di consegna sono di 12-14 giorni lavorativi.
-  Updated: 2026-03-30T21:26:11Z
+  Updated: 2026-04-20T21:54:23Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -4433,7 +4433,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Originals Gazelle bianco blu](https://vibesmilano.com/products/adidas-originals-gazelle-bianco-blu): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:12Z
+  Updated: 2026-04-20T21:54:24Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -4484,7 +4484,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Originals Gazelle azzurro giallo](https://vibesmilano.com/products/adidas-originals-gazelle-azzurro-giallo): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:12Z
+  Updated: 2026-04-20T21:54:25Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -4535,7 +4535,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [Adidas Originals Gazelle bianco ghiaccio](https://vibesmilano.com/products/adidas-originals-gazelle-bianco-ghiaccio): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:12Z
+  Updated: 2026-04-20T21:54:26Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -4586,7 +4586,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Originals Gazelle rosso](https://vibesmilano.com/products/adidas-originals-gazelle-rosso): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:13Z
+  Updated: 2026-04-20T21:54:26Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -4640,7 +4640,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [Adidas Originals Gazelle azzurro bianco](https://vibesmilano.com/products/adidas-originals-gazelle-azzurro-bianco): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:14Z
+  Updated: 2026-04-20T21:54:27Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -4691,7 +4691,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Originals Gazelle Hello Kitty](https://vibesmilano.com/products/adidas-originals-gazelle-hello-kitty): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:14Z
+  Updated: 2026-04-20T21:54:28Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -4742,7 +4742,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [Adidas Originals Gazelle ghiaccio verde](https://vibesmilano.com/products/adidas-originals-gazelle-ghiaccio-verde): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:15Z
+  Updated: 2026-04-20T21:54:28Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -4793,7 +4793,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [Adidas Originals Gazelle Indoor 'Legend Ink Preloved Ruby"](https://vibesmilano.com/products/adidas-originals-gazelle-verde-bianco): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:15Z
+  Updated: 2026-04-20T21:54:29Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -4844,7 +4844,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Originals Gazelle dark blue nero](https://vibesmilano.com/products/adidas-originals-gazelle-dark-blue-nero): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:16Z
+  Updated: 2026-04-20T21:54:29Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -4895,7 +4895,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [Adidas Originals per Gucci Gazelle (destinata al mercato estero)](https://vibesmilano.com/products/adidas-originals-per-gucci-gazelle): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: questo articolo anche se made in Italy è introvabile e viene importato da distributore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:16Z
+  Updated: 2026-04-20T21:54:30Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -4946,7 +4946,7 @@
     Availability: Available
     Price: 329,00 € EUR
 - [Adidas Originals Gazelle Bold beige](https://vibesmilano.com/products/adidas-originals-gazelle-bold): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma rialzata NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:17Z
+  Updated: 2026-04-20T21:54:31Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -4973,7 +4973,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [Adidas Originals Gazelle Bold verde](https://vibesmilano.com/products/adidas-originals-gazelle-bold-blue): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma rialzata NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:17Z
+  Updated: 2026-04-20T21:54:32Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -5012,7 +5012,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Originals Gazelle Bold marrone](https://vibesmilano.com/products/adidas-originals-gazelle-bold-marrone): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma rialzata NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:18Z
+  Updated: 2026-04-20T21:54:32Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -5051,7 +5051,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [Adidas Originals Gazelle Bold rosso](https://vibesmilano.com/products/adidas-originals-gazelle-bold-rosso): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma rialzata NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:18Z
+  Updated: 2026-04-20T21:54:33Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -5087,7 +5087,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Originals Gazelle Bold celeste](https://vibesmilano.com/products/adidas-originals-gazelle-bold-celeste): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma rialzata NOTA: Tempi di consegna 12-14 giorni lavorativi.
-  Updated: 2026-03-30T21:26:19Z
+  Updated: 2026-04-20T21:54:33Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -5126,7 +5126,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Originals Gazelle Bold blue](https://vibesmilano.com/products/adidas-originals-gazelle-bold-blue-1): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma rialzata NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-04-08T02:12:25Z
+  Updated: 2026-04-20T21:54:34Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -5156,7 +5156,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Originals Gazelle Bold ghiaccio rosa](https://vibesmilano.com/products/adidas-originals-gazelle-bold-ghiaccio-rosa): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma rialzata NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-04-06T03:26:16Z
+  Updated: 2026-04-20T21:54:35Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -5186,7 +5186,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Originals Gazelle Bold rosa](https://vibesmilano.com/products/adidas-originals-gazelle-bold-rosa): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma rialzata NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:20Z
+  Updated: 2026-04-20T21:54:35Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -5237,7 +5237,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Originals Gazelle Bold verde chiaro/rosa](https://vibesmilano.com/products/adidas-originals-gazelle-verde-chiaro-rosa): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai. La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma rialzata NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:21Z
+  Updated: 2026-04-20T21:54:36Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -5264,7 +5264,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [Adidas Originals Gazelle Bold bianco rosa ricamo](https://vibesmilano.com/products/adidas-originals-gazelle-bold-bianco-rosa): Entra nella storia con le adidas Gazelle Indoor. All'epoca del loro debutto nel 1971, queste sneaker erano decisamente in anticipo sui tempi. Oggi sono diventate un'icona lifestyle, ma il loro stile old-school trascende le mode. Nate per l'allenamento, come scarpe da training indoor, le adidas Gazelle sono diventate nel tempo un'icona intramontabile. Con una morbida tomaia in suede premium dai colori tenui, si abbinano perfettamente ai tuoi outfit quotidiani. Incontra i tuoi amici o gira per la città indossando questo modello di ispirazione old-school che rende omaggio alla storia Adidas mentre aggiunge un vibe esaltante ai tuoi look. Le Gazelle sono perfette infatti per le tue uscite quotidiane perchè è un classico che non delude mai! La calzata è regolare, la chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma rialzata NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:21Z
+  Updated: 2026-04-20T21:54:37Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -5294,7 +5294,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [New Balance NB 9060 Bone Sparrow](https://vibesmilano.com/products/new-balance-nb-9060-beige-1): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi di spedizione: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:26:21Z
+  Updated: 2026-04-23T09:50:17Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -5345,7 +5345,7 @@
     Availability: Available
     Price: 169,00 € EUR
 - [New Balance NB 9060 black grey](https://vibesmilano.com/products/new-balance-nb-9060-black-grey): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi dispedizione: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:26:22Z
+  Updated: 2026-04-20T21:54:38Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -5393,7 +5393,7 @@
     Availability: Available
     Price: 159,00 € EUR
 - [New Balance NB 9060 rose pink](https://vibesmilano.com/products/new-balance-nb-9060-black-rose-pink): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Importiamo l'articolo direttamente dal distributore estero, pertanto per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:26:22Z
+  Updated: 2026-04-20T21:54:38Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -5426,7 +5426,7 @@
     Availability: Available
     Price: 145,00 € EUR
 - [New Balance NB 9060 jet black](https://vibesmilano.com/products/new-balance-nb-9060-jet-black): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi di spedizione: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:26:23Z
+  Updated: 2026-04-20T21:54:39Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -5474,7 +5474,7 @@
     Availability: Available
     Price: 159,00 € EUR
 - [New Balance NB 9060 green white](https://vibesmilano.com/products/new-balance-nb-9060-green-white): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Importiamo l'articolo direttamente dal distributore estero, pertanto per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:26:23Z
+  Updated: 2026-04-20T21:54:40Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -5522,7 +5522,7 @@
     Availability: Available
     Price: 145,00 € EUR
 - [New Balance NB 9060 Oatmeal (farina d'avena)](https://vibesmilano.com/products/new-balance-nb-9060-oatmeal-farina-davena): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi di spedizione: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:26:23Z
+  Updated: 2026-04-20T21:54:40Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -5570,7 +5570,7 @@
     Availability: Available
     Price: 179,00 € EUR
 - [New Balance NB 9060 Navy & Mushroom](https://vibesmilano.com/products/new-balance-nb-9060-navy-mushroom): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Importiamo l'articolo direttamente dal distributore estero, pertanto per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:26:24Z
+  Updated: 2026-04-20T21:54:41Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -5621,7 +5621,7 @@
     Availability: Available
     Price: 145,00 € EUR
 - [New Balance 9060 NB Crystal Pink](https://vibesmilano.com/products/new-balance-nb-9060-landslide-rosa-antico-e-beige): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: TEMPI DI SPEDIZIONE: 12-14 GIORNI LAVORATIVI
-  Updated: 2026-03-30T21:26:24Z
+  Updated: 2026-04-20T21:54:41Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -5672,7 +5672,7 @@
     Availability: Available
     Price: 159,00 € EUR
 - [New Balance NB 9060 Emerging Brown Pack](https://vibesmilano.com/products/new-balance-nb-9060-red-grey): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: TEMPI DI SPEDIZIONE: 12-14 GIORNI LAVORATIVI
-  Updated: 2026-03-30T21:26:25Z
+  Updated: 2026-04-20T21:54:42Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -5726,7 +5726,7 @@
     Availability: Available
     Price: 169,00 € EUR
 - [New Balance NB 9060 shadow grey castlerock](https://vibesmilano.com/products/new-balance-nb-9060-shadow-grey-castlerock): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi dispedizione: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:26:25Z
+  Updated: 2026-04-20T21:54:42Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -5774,7 +5774,7 @@
     Availability: Available
     Price: 159,00 € EUR
 - [New Balance NB 9060 Triple Black scamosciato](https://vibesmilano.com/products/new-balance-nb-9060-triple-black): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi dispedizione: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:26:25Z
+  Updated: 2026-04-20T21:54:43Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -5825,7 +5825,7 @@
     Availability: Available
     Price: 179,00 € EUR
 - [New Balance U2000AA grigio bianco](https://vibesmilano.com/products/new-balance-u2000aa-grigio-bianco-modello-non-uscito-ancora-in-italia): Le sneakers New Balance NB2000AA in mesh sono al tempo stesso retrò e funzionali e sono le novità ufficiali di New Balance per questa primavera 2025. Una scarpa da running che unisce design retrò e tecnologia moderna, con la sua forma classica e la sua calzata confortevole, è sicuramente l'articolo consigliato per gli amanti della moda retrò nel 2025. Le 5 unità ABZORB di grande impatto visivo, il design della tomaia senza cuciture e la decorazione in materiale riflettente 3M sono più esagerate e futuristiche rispetto alla serie 9060 lanciata in precedenza. Si tratta di una novità assoluta perchè a maggio 2025 in Italia non sono ancora uscite, le importiamo direttamente dai mercati esteri grazie agli accordi commerciali con i distributori di altri Paesi. NOTA: i tempi di consegna sono mediamente di 12-14 giorni lavorativi.
-  Updated: 2026-03-30T21:26:26Z
+  Updated: 2026-04-20T21:54:44Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -5921,7 +5921,7 @@
     Availability: Not Available
     Price: 159,00 € EUR
 - [New Balance U2000EA nero/grigio (modello non uscito ancora in Italia)](https://vibesmilano.com/products/new-balance-u2000ea-nero-grigio-modello-non-uscito-ancora-in-italia): Le sneakers New Balance NB2000EA in mesh sono al tempo stesso retrò e funzionali e sono le novità ufficiali di New Balance per questa primavera 2025. Una scarpa da running che unisce design retrò e tecnologia moderna, con la sua forma classica e la sua calzata confortevole, è sicuramente l'articolo consigliato per gli amanti della moda retrò nel 2025. Le 5 unità ABZORB di grande impatto visivo, il design della tomaia senza cuciture e la decorazione in materiale riflettente 3M sono più esagerate e futuristiche rispetto alla serie 9060 lanciata in precedenza. Si tratta di una novità assoluta perchè a maggio 2025 in Italia non sono ancora uscite, le importiamo direttamente dai mercati esteri grazie agli accordi commerciali con i distributori di altri Paesi. NOTA: importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono mediamente di 10-12 giorni.
-  Updated: 2026-03-30T21:26:26Z
+  Updated: 2026-04-20T21:54:44Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -5972,7 +5972,7 @@
     Availability: Available
     Price: 159,00 € EUR
 - [New Balance NB 9060 Vintage Indigo Heron Blue](https://vibesmilano.com/products/new-balance-nb-9060-black-white-articolo-non-presente-in-italia): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Importiamo l'articolo direttamente dal distributore estero, pertanto per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:26:26Z
+  Updated: 2026-04-20T21:54:44Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -6026,7 +6026,7 @@
     Availability: Available
     Price: 179,00 € EUR
 - [Thom Browne sneakers bianche in vera pelle](https://vibesmilano.com/products/thom-browne-sneakers-bianche-in-vera-pelle): Sneakers da uomo, la tomaia è realizzata in pelle di vitello di qualità pregiata superiore, con cuciture rifinite a mano, fodera interna in pelle comoda e traspirante. La suola è realizzata con i migliori materiali, comoda e resistente all'usura. Misure dalla 38 alla 44. NOTA: tempi di spedizione di 10-12 giorni
-  Updated: 2026-03-30T21:26:27Z
+  Updated: 2026-04-20T21:54:45Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -6053,7 +6053,7 @@
     Availability: Available
     Price: 249,00 € EUR
 - [Thom Browne sneakers nere in vera pelle](https://vibesmilano.com/products/thom-browne-sneakers-nere-in-vera-pelle): Sneakers da uomo, la tomaia è realizzata in pelle di vitello di qualità pregiata superiore, con cuciture rifinite a mano, fodera interna in pelle comoda e traspirante. La suola è realizzata con i migliori materiali, comoda e resistente all'usura. Misure dalla 38 alla 44. NOTA: tempi di spedizione di 10-12 giorni
-  Updated: 2026-03-30T21:26:27Z
+  Updated: 2026-04-20T21:54:46Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -6080,7 +6080,7 @@
     Availability: Available
     Price: 249,00 € EUR
 - [Miu Miu sneakers bianche in vera pelle](https://vibesmilano.com/products/miu-miu-sneakers-bianche-in-vera-pelle): MIU MIU ci delizia con le sue sneaker da donna in pelle di vitello sbiancate e usurate, 🆕 American Retro Style. Questo è uno dei modelli più popolari della maison. Si abbina facilmente a gonne, pantaloni e jeans ed è un must per tutto l'anno. La linguetta è un dettaglio d'accento notevole, mettendo i puntini su uno stile unico e sofisticato, mentre la tomaia in pelle trattata è estremamente traspirante. Il plateau spesso TR è alto 5,3 cm e la tomaia è in pelle colorata bianca in stile retrò e trattata per donare un effetto retrò! Misure dal 35 al 39. NOTA: tempi di consegna di 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:26:27Z
+  Updated: 2026-04-20T21:54:46Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -6101,7 +6101,7 @@
     Availability: Available
     Price: 290,00 € EUR
 - [Miu Miu sneakers bianche in tessuto Canvas](https://vibesmilano.com/products/miu-miu-sneakers-bianche-in-tessuto): MIU MIU ci delizia con le sue sneaker da donna: arricchite la vostra collezione di sneakers con la gioiosa essenza di Miu Miu. Realizzate con una tomaia in canvas di cotone e linguette con logo, queste sneakers presentano suole in gomma oversize con una texture scanalata. Numeri da 35 a 40 Suola: soletta in pelle, suola in gomma Punta: punta tonda Chiusura: lacci Rivestimento: tessuto Colore del designer: bianco- bianco panna Tomaia: tessuto NOTA: tempi di consegna di 10-12 giorni
-  Updated: 2026-03-30T21:26:28Z
+  Updated: 2026-04-20T21:54:47Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -6125,7 +6125,7 @@
     Availability: Available
     Price: 240,00 € EUR
 - [Miu Miu sneakers beige in tessuto Canvas](https://vibesmilano.com/products/miu-miu-sneakers-beige-in-tessuto-canvas): MIU MIU ci delizia con le sue sneaker da donna: arricchite la vostra collezione di sneakers con la gioiosa essenza di Miu Miu. Realizzate con una tomaia in canvas di cotone e linguette con logo, queste sneakers presentano suole in gomma oversize con una texture scanalata. Numeri da 35 a 40 Suola: soletta in pelle, suola in gomma Punta: punta tonda Chiusura: lacci Rivestimento: tessuto Colore del designer: bianco- bianco panna Tomaia: tessuto NOTA: tempi di consegna di 10-12 giorni
-  Updated: 2026-03-30T21:26:28Z
+  Updated: 2026-04-20T21:54:47Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -6149,7 +6149,7 @@
     Availability: Available
     Price: 240,00 € EUR
 - [Dsquared2 Boxer sneakers bianco](https://vibesmilano.com/products/dsquared2-boxer-sneakers-bianco): Presentiamo le Boxer Sneakers di Dsquared2, realizzate in lussuosa pelle in una dominante tonalità bianca. Queste sneakers incarnano uno stile raffinato e un carattere sportivo al tempo stesso. Caratteristiche principali: pelle di alta qualità bianca, allacciatura classica, motivo a foglia d'acero nera, prominente tallone in pelle nera | Suola bianca | Dimensioni e vestibilità: vestibilità regolare Composizione e cura: 100% Pelle. Pulire con un panno umido.
-  Updated: 2026-03-30T21:26:28Z
+  Updated: 2026-04-20T21:54:48Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -6179,7 +6179,7 @@
     Availability: Available
     Price: 259,00 € EUR
 - [Dsquared2 Boxer sneakers bianco Power D2](https://vibesmilano.com/products/dsquared2-boxer-sneakers-bianco-d2): Presentiamo le Boxer Sneakers di Dsquared2, realizzate in lussuosa pelle in una dominante tonalità bianca. Queste sneakers incarnano uno stile raffinato e un carattere sportivo al tempo stesso. Caratteristiche principali: pelle di alta qualità bianca, allacciatura classica, motivo D2 sul lato, prominente tallone in pelle nera | Suola bianca | Dimensioni e vestibilità: vestibilità regolare Composizione e cura: 100% Pelle. Pulire con un panno umido
-  Updated: 2026-03-30T21:26:28Z
+  Updated: 2026-04-20T21:54:49Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -6209,7 +6209,7 @@
     Availability: Available
     Price: 229,00 € EUR
 - [Dsquared2 Boxer sneakers nero Power D2](https://vibesmilano.com/products/dsquared2-boxer-sneakers-nero-power-d2): Presentiamo le Boxer Sneakers di Dsquared2, realizzate in lussuosa pelle in una dominante tonalità nera. Queste sneakers incarnano uno stile raffinato e un carattere sportivo al tempo stesso. Caratteristiche principali: pelle di alta qualità nera, allacciatura classica, motivo D2 sul lato, logo foglia d'acero sul tallone in pelle nera | Suola nera | Dimensioni e vestibilità: vestibilità regolare Composizione e cura: 100% Pelle. Pulire con un panno umido.
-  Updated: 2026-03-30T21:26:29Z
+  Updated: 2026-04-20T21:54:49Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -6239,7 +6239,7 @@
     Availability: Available
     Price: 229,00 € EUR
 - [Dsquared2 sneakers Legendary](https://vibesmilano.com/products/dsquared2-sneakers-legendary): Distinguiti dalla massa con queste sneaker in pelle e pelle scamosciata sui pannelli sottili, con la foglia d'acero nascosta sul battistrada! Dettagli: sneaker in pelle di vitello top quality Lettering "dsquared2" sui lati e sul tallone Foglia d'acero sulla linguetta Loop sul tallone chiusura con lacci Composizione: -Tomaia: cuoio 100%.-Lineing: 100% in pelle.-Suola: 100% poliuretano Dimensioni e vestibilità: vestibilità regolare -misure dal 38 al 44 Composizione e cura: 100% Pelle. Pulire con un panno umido. NOTA: tempi di consegna 10-12 giorni
-  Updated: 2026-03-30T21:26:29Z
+  Updated: 2026-04-20T21:54:50Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -6266,7 +6266,7 @@
     Availability: Available
     Price: 239,00 € EUR
 - [Dsquared2 sneakers basso bianco](https://vibesmilano.com/products/dsquared2-sneakers-basso-bianco): Queste sneakers di Dsquared sono realizzate in lussuosa pelle top quality in una dominante tonalità bianca. Questo modello incarna uno stile raffinato e un carattere sportivo al tempo stesso. Caratteristiche principali: pelle di alta qualità bianca, allacciatura classica, motivo D2 sul lato, prominente tallone in pelle grigia con la foglia d'acero rossa | Suola bianca | Dimensioni e vestibilità: vestibilità regolare Composizione e cura: 100% Pelle. Pulire con un panno umido. NOTA: TEMPI DI SPEDIZIONE 10-12 GIORNI
-  Updated: 2026-03-30T21:26:29Z
+  Updated: 2026-04-20T21:54:50Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -6293,7 +6293,7 @@
     Availability: Available
     Price: 219,00 € EUR
 - [Adidas Originals Superstar Yu Nagaba (articolo destinato al mercato estero)](https://vibesmilano.com/products/adidas-originals-superstar-yu-nagaba): Vi presentiamo le sneaker Yu Nagaba x Adidas Superstar Always Together. Create in collaborazione con il celebre artista Yu Nagaba, queste adidas Superstar presentano un design unico. Con l'iconico marchio Adidas e una calzata comoda, queste sneaker sono perfette per aggiungere un tocco di stile a qualsiasi outfit. Indossale con sicurezza e rimani connesso con le sneaker Yu Nagaba x Adidas Superstar Always Together. Introdotta da Adidas nel 1969, la Superstar è stata originariamente progettata come scarpa da basket low-top. La sua caratteristica più iconica, la punta a conchiglia in gomma, garantiva maggiore protezione e durata. La Superstar ha conosciuto una rinascita negli anni '80 e '90, adottata dalla cultura hip-hop, in particolare dai Run-D.M.C., che hanno persino scritto una canzone sulla scarpa. Nel corso degli anni, Adidas Superstar ha collaborato con diversi designer, artisti e marchi, come Dime, BAPE e Run-D.M.C., aggiornando continuamente il suo look pur mantenendo la sua silhouette classica. La versatilità e il design senza tempo di questa scarpa ne hanno consolidato lo status di punto fermo della moda e di icona culturale. La chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:29Z
+  Updated: 2026-04-20T21:54:51Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -6341,7 +6341,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [Adidas Originals Superstar II nero](https://vibesmilano.com/products/adidas-originals-superstar-nero): Introdotta da Adidas nel 1969, la Superstar è stata originariamente progettata come scarpa da basket low-top. La sua caratteristica più iconica, la punta a conchiglia in gomma, garantiva maggiore protezione e durata. La Superstar ha conosciuto una rinascita negli anni '80 e '90, adottata dalla cultura hip-hop, in particolare dai Run-D.M.C., che hanno persino scritto una canzone sulla scarpa. Nel corso degli anni, Adidas Superstar ha collaborato con diversi designer, artisti e marchi, come Dime, BAPE e Run-D.M.C., aggiornando continuamente il suo look pur mantenendo la sua silhouette classica. La versatilità e il design senza tempo di questa scarpa ne hanno consolidato lo status di punto fermo della moda e di icona culturale. La chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:30Z
+  Updated: 2026-04-20T21:54:52Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -6389,7 +6389,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Originals Superstar bianco](https://vibesmilano.com/products/adidas-originals-superstar-bianco): Introdotta da Adidas nel 1969, la Superstar è stata originariamente progettata come scarpa da basket low-top. La sua caratteristica più iconica, la punta a conchiglia in gomma, garantiva maggiore protezione e durata. La Superstar ha conosciuto una rinascita negli anni '80 e '90, adottata dalla cultura hip-hop, in particolare dai Run-D.M.C., che hanno persino scritto una canzone sulla scarpa. Nel corso degli anni, Adidas Superstar ha collaborato con diversi designer, artisti e marchi, come Dime, BAPE e Run-D.M.C., aggiornando continuamente il suo look pur mantenendo la sua silhouette classica. La versatilità e il design senza tempo di questa scarpa ne hanno consolidato lo status di punto fermo della moda e di icona culturale. La chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:30Z
+  Updated: 2026-04-20T21:54:53Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -6437,7 +6437,7 @@
     Availability: Available
     Price: 109,00 € EUR
 - [Adidas Originals Superstar bianco mod. Supreme](https://vibesmilano.com/products/adidas-originals-superstar-bianco-mod-supreme): Introdotta da Adidas nel 1969, la Superstar è stata originariamente progettata come scarpa da basket low-top. La sua caratteristica più iconica, la punta a conchiglia in gomma, garantiva maggiore protezione e durata. La Superstar ha conosciuto una rinascita negli anni '80 e '90, adottata dalla cultura hip-hop, in particolare dai Run-D.M.C., che hanno persino scritto una canzone sulla scarpa. Nel corso degli anni, Adidas Superstar ha collaborato con diversi designer, artisti e marchi, come Dime, BAPE e Run-D.M.C., aggiornando continuamente il suo look pur mantenendo la sua silhouette classica. La versatilità e il design senza tempo di questa scarpa ne hanno consolidato lo status di punto fermo della moda e di icona culturale. La chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:30Z
+  Updated: 2026-04-20T21:54:54Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -6485,7 +6485,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [Off-White x Adidas Originals Superstar](https://vibesmilano.com/products/adidas-originals-superstar-bianco-mod-white): Introdotta da Adidas nel 1969, la Superstar è stata originariamente progettata come scarpa da basket low-top. La sua caratteristica più iconica, la punta a conchiglia in gomma, garantiva maggiore protezione e durata. La Superstar ha conosciuto una rinascita negli anni '80 e '90, adottata dalla cultura hip-hop, in particolare dai Run-D.M.C., che hanno persino scritto una canzone sulla scarpa. Nel corso degli anni, Adidas Superstar ha collaborato con diversi designer, artisti e marchi, come Dime, BAPE e Run-D.M.C., aggiornando continuamente il suo look pur mantenendo la sua silhouette classica. La versatilità e il design senza tempo di questa scarpa ne hanno consolidato lo status di punto fermo della moda e di icona culturale. La chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:30Z
+  Updated: 2026-04-20T21:54:54Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -6533,7 +6533,7 @@
     Availability: Available
     Price: 279,00 € EUR
 - [Adidas Originals Superstar bianco mod BZ2519 (destinata al mercato estero)](https://vibesmilano.com/products/adidas-originals-superstar-bianco-mod-bz2519-non-disponibile-in-italia): Introdotta da Adidas nel 1969, la Superstar è stata originariamente progettata come scarpa da basket low-top. La sua caratteristica più iconica, la punta a conchiglia in gomma, garantiva maggiore protezione e durata. La Superstar ha conosciuto una rinascita negli anni '80 e '90, adottata dalla cultura hip-hop, in particolare dai Run-D.M.C., che hanno persino scritto una canzone sulla scarpa. Nel corso degli anni, Adidas Superstar ha collaborato con diversi designer, artisti e marchi, come Dime, BAPE e Run-D.M.C., aggiornando continuamente il suo look pur mantenendo la sua silhouette classica. La versatilità e il design senza tempo di questa scarpa ne hanno consolidato lo status di punto fermo della moda e di icona culturale. La chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:31Z
+  Updated: 2026-04-20T21:54:55Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -6581,7 +6581,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [Adidas Originals Superstar bianco mod. EG4958 (destinato al mercato estero)](https://vibesmilano.com/products/adidas-originals-superstar-bianco-mod-eg4958-non-disponibile-in-italia): Introdotta da Adidas nel 1969, la Superstar è stata originariamente progettata come scarpa da basket low-top. La sua caratteristica più iconica, la punta a conchiglia in gomma, garantiva maggiore protezione e durata. La Superstar ha conosciuto una rinascita negli anni '80 e '90, adottata dalla cultura hip-hop, in particolare dai Run-D.M.C., che hanno persino scritto una canzone sulla scarpa. Nel corso degli anni, Adidas Superstar ha collaborato con diversi designer, artisti e marchi, come Dime, BAPE e Run-D.M.C., aggiornando continuamente il suo look pur mantenendo la sua silhouette classica. La versatilità e il design senza tempo di questa scarpa ne hanno consolidato lo status di punto fermo della moda e di icona culturale. La chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:31Z
+  Updated: 2026-04-20T21:54:55Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -6629,7 +6629,7 @@
     Availability: Available
     Price: 159,00 € EUR
 - [Adidas Originals Superstar nero rosa donna](https://vibesmilano.com/products/adidas-originals-superstar-nero-rosa-donna): Introdotta da Adidas nel 1969, la Superstar è stata originariamente progettata come scarpa da basket low-top. La sua caratteristica più iconica, la punta a conchiglia in gomma, garantiva maggiore protezione e durata. La Superstar ha conosciuto una rinascita negli anni '80 e '90, adottata dalla cultura hip-hop, in particolare dai Run-D.M.C., che hanno persino scritto una canzone sulla scarpa. Nel corso degli anni, Adidas Superstar ha collaborato con diversi designer, artisti e marchi, come Dime, BAPE e Run-D.M.C., aggiornando continuamente il suo look pur mantenendo la sua silhouette classica. La versatilità e il design senza tempo di questa scarpa ne hanno consolidato lo status di punto fermo della moda e di icona culturale. La chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola rialzata in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:31Z
+  Updated: 2026-04-20T21:54:56Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -6659,7 +6659,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [Adidas Originals Superstar rosso mod. IG9275 (modello destinato al mercato estero)](https://vibesmilano.com/products/adidas-originals-superstar-bianco-con-plateau): Introdotta da Adidas nel 1969, la Superstar è stata originariamente progettata come scarpa da basket low-top. La sua caratteristica più iconica, la punta a conchiglia in gomma, garantiva maggiore protezione e durata. La Superstar ha conosciuto una rinascita negli anni '80 e '90, adottata dalla cultura hip-hop, in particolare dai Run-D.M.C., che hanno persino scritto una canzone sulla scarpa. Nel corso degli anni, Adidas Superstar ha collaborato con diversi designer, artisti e marchi, come Dime, BAPE e Run-D.M.C., aggiornando continuamente il suo look pur mantenendo la sua silhouette classica. La versatilità e il design senza tempo di questa scarpa ne hanno consolidato lo status di punto fermo della moda e di icona culturale. La chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:31Z
+  Updated: 2026-04-20T21:54:56Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -6707,7 +6707,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [Adidas Originals Superstar canvas beige (modello destinato al mercato estero)](https://vibesmilano.com/products/adidas-originals-superstar-canvas-beige-modello-non-destinato-al-mercato-italiano): Introdotta da Adidas nel 1969, la Superstar è stata originariamente progettata come scarpa da basket low-top. La sua caratteristica più iconica, la punta a conchiglia in gomma, garantiva maggiore protezione e durata. La Superstar ha conosciuto una rinascita negli anni '80 e '90, adottata dalla cultura hip-hop, in particolare dai Run-D.M.C., che hanno persino scritto una canzone sulla scarpa. Nel corso degli anni, Adidas Superstar ha collaborato con diversi designer, artisti e marchi, come Dime, BAPE e Run-D.M.C., aggiornando continuamente il suo look pur mantenendo la sua silhouette classica. La versatilità e il design senza tempo di questa scarpa ne hanno consolidato lo status di punto fermo della moda e di icona culturale. La chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:32Z
+  Updated: 2026-04-20T21:54:57Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -6755,7 +6755,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [Adidas Originals Superstar II bianco nero](https://vibesmilano.com/products/adidas-originals-superstar-ii-bianco-nero): Introdotta da Adidas nel 1969, la Superstar è stata originariamente progettata come scarpa da basket low-top. La sua caratteristica più iconica, la punta a conchiglia in gomma, garantiva maggiore protezione e durata. La Superstar ha conosciuto una rinascita negli anni '80 e '90, adottata dalla cultura hip-hop, in particolare dai Run-D.M.C., che hanno persino scritto una canzone sulla scarpa. Nel corso degli anni, Adidas Superstar ha collaborato con diversi designer, artisti e marchi, come Dime, BAPE e Run-D.M.C., aggiornando continuamente il suo look pur mantenendo la sua silhouette classica. La versatilità e il design senza tempo di questa scarpa ne hanno consolidato lo status di punto fermo della moda e di icona culturale. La chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:32Z
+  Updated: 2026-04-20T21:54:57Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -6803,7 +6803,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [Adidas Originals Superstar grigio mod. Supreme (destinato al mercato estero)](https://vibesmilano.com/products/adidas-originals-superstar-grigio-mod-supreme): Introdotta da Adidas nel 1969, la Superstar è stata originariamente progettata come scarpa da basket low-top. La sua caratteristica più iconica, la punta a conchiglia in gomma, garantiva maggiore protezione e durata. La Superstar ha conosciuto una rinascita negli anni '80 e '90, adottata dalla cultura hip-hop, in particolare dai Run-D.M.C., che hanno persino scritto una canzone sulla scarpa. Nel corso degli anni, Adidas Superstar ha collaborato con diversi designer, artisti e marchi, come Dime, BAPE e Run-D.M.C., aggiornando continuamente il suo look pur mantenendo la sua silhouette classica. La versatilità e il design senza tempo di questa scarpa ne hanno consolidato lo status di punto fermo della moda e di icona culturale. La chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: i tempi di consegna sono di 12-14 giorni lavorativi.
-  Updated: 2026-03-30T21:26:32Z
+  Updated: 2026-04-20T21:54:59Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -6851,7 +6851,7 @@
     Availability: Available
     Price: 179,00 € EUR
 - [Adidas Originals Superstar Clot by Edison Chen](https://vibesmilano.com/products/adidas-originals-superstar-clot-by-edison-chen): Introdotta da Adidas nel 1969, la Superstar è stata originariamente progettata come scarpa da basket low-top. La sua caratteristica più iconica, la punta a conchiglia in gomma, garantiva maggiore protezione e durata. La Superstar ha conosciuto una rinascita negli anni '80 e '90, adottata dalla cultura hip-hop, in particolare dai Run-D.M.C., che hanno persino scritto una canzone sulla scarpa. Nel corso degli anni, Adidas Superstar ha collaborato con diversi designer, artisti e marchi, come Dime, BAPE e Run-D.M.C., aggiornando continuamente il suo look pur mantenendo la sua silhouette classica. La versatilità e il design senza tempo di questa scarpa ne hanno consolidato lo status di punto fermo della moda e di icona culturale. La chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:32Z
+  Updated: 2026-04-20T21:54:59Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -6905,7 +6905,7 @@
     Availability: Available
     Price: 179,00 € EUR
 - [Adidas Originals Superstar Clot bianca by Edison Chen](https://vibesmilano.com/products/adidas-originals-superstar-clot-bianca-by-edison-chen): Introdotta da Adidas nel 1969, la Superstar è stata originariamente progettata come scarpa da basket low-top. La sua caratteristica più iconica, la punta a conchiglia in gomma, garantiva maggiore protezione e durata. La Superstar ha conosciuto una rinascita negli anni '80 e '90, adottata dalla cultura hip-hop, in particolare dai Run-D.M.C., che hanno persino scritto una canzone sulla scarpa. Nel corso degli anni, Adidas Superstar ha collaborato con diversi designer, artisti e marchi, come Dime, BAPE e Run-D.M.C., aggiornando continuamente il suo look pur mantenendo la sua silhouette classica. La versatilità e il design senza tempo di questa scarpa ne hanno consolidato lo status di punto fermo della moda e di icona culturale. La chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:33Z
+  Updated: 2026-04-20T21:54:59Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -6944,7 +6944,7 @@
     Availability: Available
     Price: 269,00 € EUR
 - [Adidas Originals Superstar II nero white stripes](https://vibesmilano.com/products/adidas-originals-superstar-ii-nero-white-stripes): Introdotta da Adidas nel 1969, la Superstar è stata originariamente progettata come scarpa da basket low-top. La sua caratteristica più iconica, la punta a conchiglia in gomma, garantiva maggiore protezione e durata. La Superstar ha conosciuto una rinascita negli anni '80 e '90, adottata dalla cultura hip-hop, in particolare dai Run-D.M.C., che hanno persino scritto una canzone sulla scarpa. Nel corso degli anni, Adidas Superstar ha collaborato con diversi designer, artisti e marchi, come Dime, BAPE e Run-D.M.C., aggiornando continuamente il suo look pur mantenendo la sua silhouette classica. La versatilità e il design senza tempo di questa scarpa ne hanno consolidato lo status di punto fermo della moda e di icona culturale. La chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:33Z
+  Updated: 2026-04-20T21:55:00Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -6992,7 +6992,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Originals Superstar XLG nero](https://vibesmilano.com/products/adidas-originals-superstar-xlg-nero): Introdotta da Adidas nel 1969, la Superstar è stata originariamente progettata come scarpa da basket low-top. La sua caratteristica più iconica, la punta a conchiglia in gomma, garantiva maggiore protezione e durata. La Superstar ha conosciuto una rinascita negli anni '80 e '90, adottata dalla cultura hip-hop, in particolare dai Run-D.M.C., che hanno persino scritto una canzone sulla scarpa. Nel corso degli anni, Adidas Superstar ha collaborato con diversi designer, artisti e marchi, come Dime, BAPE e Run-D.M.C., aggiornando continuamente il suo look pur mantenendo la sua silhouette classica. La versatilità e il design senza tempo di questa scarpa ne hanno consolidato lo status di punto fermo della moda e di icona culturale. La chiusura è con lacci. Tomaia in pelle e materiale sintetico. Fodera in materiale sintetico. Suola in gomma. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:33Z
+  Updated: 2026-04-20T21:55:00Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -7040,7 +7040,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [Puma Speedcat OG rosso unisex](https://vibesmilano.com/products/puma-speedcat-og-rosso-unisex): Le PUMA Speedcat sono sneaker iconiche ispirate al mondo del motorsport, caratterizzate da un design basso e affusolato per un look dinamico e sportivo. La tomaia in suede premium garantisce resistenza e stile, mentre la suola in gomma sottile offre un’ottima sensibilità al suolo e grip. Perfette per gli amanti delle auto e della velocità, uniscono eleganza e performance in un’unica scarpa. La Speedcat di PUMA è un'icona della cultura racing e dello streetstyle da ormai decenni. Nata per dominare il mondo delle corse, ha ridefinito lo street style con il suo design essenziale e audace. Oggi continua a dettare il ritmo, scelta dai pionieri dello stile di ogni generazione. Vivi il ritorno dei classici con Speedcat.
-  Updated: 2026-03-30T21:26:33Z
+  Updated: 2026-04-20T21:55:01Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -7091,7 +7091,7 @@
     Availability: Available
     Price: 99,00 € EUR
 - [Puma Speedcat OG nero unisex](https://vibesmilano.com/products/puma-speedcat-og-nero-unisex): Le PUMA Speedcat sono sneaker iconiche ispirate al mondo del motorsport, caratterizzate da un design basso e affusolato per un look dinamico e sportivo. La tomaia in suede premium garantisce resistenza e stile, mentre la suola in gomma sottile offre un’ottima sensibilità al suolo e grip. Perfette per gli amanti delle auto e della velocità, uniscono eleganza e performance in un’unica scarpa. La Speedcat di PUMA è un'icona della cultura racing e dello streetstyle da ormai decenni. Nata per dominare il mondo delle corse, ha ridefinito lo street style con il suo design essenziale e audace. Oggi continua a dettare il ritmo, scelta dai pionieri dello stile di ogni generazione. Vivi il ritorno dei classici con Speedcat.
-  Updated: 2026-03-30T21:26:34Z
+  Updated: 2026-04-20T21:55:01Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -7139,7 +7139,7 @@
     Availability: Available
     Price: 99,00 € EUR
 - [Puma Speedcat OG grigio unisex](https://vibesmilano.com/products/puma-speedcat-og-grigio-unisex): Le PUMA Speedcat sono sneaker iconiche ispirate al mondo del motorsport, caratterizzate da un design basso e affusolato per un look dinamico e sportivo. La tomaia in suede premium garantisce resistenza e stile, mentre la suola in gomma sottile offre un’ottima sensibilità al suolo e grip. Perfette per gli amanti delle auto e della velocità, uniscono eleganza e performance in un’unica scarpa. La Speedcat di PUMA è un'icona della cultura racing e dello streetstyle da ormai decenni. Nata per dominare il mondo delle corse, ha ridefinito lo street style con il suo design essenziale e audace. Oggi continua a dettare il ritmo, scelta dai pionieri dello stile di ogni generazione. Vivi il ritorno dei classici con Speedcat.
-  Updated: 2026-03-30T21:26:34Z
+  Updated: 2026-04-20T21:55:02Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -7187,7 +7187,7 @@
     Availability: Available
     Price: 99,00 € EUR
 - [Puma Speedcat OG rosa nero unisex](https://vibesmilano.com/products/puma-speedcat-og-rosa-nero-unisex): Le PUMA Speedcat sono sneaker iconiche ispirate al mondo del motorsport, caratterizzate da un design basso e affusolato per un look dinamico e sportivo. La tomaia in suede premium garantisce resistenza e stile, mentre la suola in gomma sottile offre un’ottima sensibilità al suolo e grip. Perfette per gli amanti delle auto e della velocità, uniscono eleganza e performance in un’unica scarpa. La Speedcat di PUMA è un'icona della cultura racing e dello streetstyle da ormai decenni. Nata per dominare il mondo delle corse, ha ridefinito lo street style con il suo design essenziale e audace. Oggi continua a dettare il ritmo, scelta dai pionieri dello stile di ogni generazione. Vivi il ritorno dei classici con Speedcat.
-  Updated: 2026-03-30T21:26:34Z
+  Updated: 2026-04-20T21:55:02Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -7235,7 +7235,7 @@
     Availability: Available
     Price: 99,00 € EUR
 - [Puma Speedcat OG nero rosso unisex](https://vibesmilano.com/products/puma-speedcat-og-nero-rosso-unisex): Le PUMA Speedcat sono sneaker iconiche ispirate al mondo del motorsport, caratterizzate da un design basso e affusolato per un look dinamico e sportivo. La tomaia in suede premium garantisce resistenza e stile, mentre la suola in gomma sottile offre un’ottima sensibilità al suolo e grip. Perfette per gli amanti delle auto e della velocità, uniscono eleganza e performance in un’unica scarpa. La Speedcat di PUMA è un'icona della cultura racing e dello streetstyle da ormai decenni. Nata per dominare il mondo delle corse, ha ridefinito lo street style con il suo design essenziale e audace. Oggi continua a dettare il ritmo, scelta dai pionieri dello stile di ogni generazione. Vivi il ritorno dei classici con Speedcat.
-  Updated: 2026-03-30T21:26:34Z
+  Updated: 2026-04-20T21:55:03Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -7283,7 +7283,7 @@
     Availability: Available
     Price: 99,00 € EUR
 - [Puma Speedcat OG marrone unisex](https://vibesmilano.com/products/puma-speedcat-og-marrone-unisex): Le PUMA Speedcat sono sneaker iconiche ispirate al mondo del motorsport, caratterizzate da un design basso e affusolato per un look dinamico e sportivo. La tomaia in suede premium garantisce resistenza e stile, mentre la suola in gomma sottile offre un’ottima sensibilità al suolo e grip. Perfette per gli amanti delle auto e della velocità, uniscono eleganza e performance in un’unica scarpa. La Speedcat di PUMA è un'icona della cultura racing e dello streetstyle da ormai decenni. Nata per dominare il mondo delle corse, ha ridefinito lo street style con il suo design essenziale e audace. Oggi continua a dettare il ritmo, scelta dai pionieri dello stile di ogni generazione. Vivi il ritorno dei classici con Speedcat.
-  Updated: 2026-03-30T21:26:35Z
+  Updated: 2026-04-20T21:55:04Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -7334,7 +7334,7 @@
     Availability: Available
     Price: 99,00 € EUR
 - [Puma Speedcat OG azzurro rosa donna](https://vibesmilano.com/products/puma-speedcat-og-azzurro-rosa-donna): Le PUMA Speedcat sono sneaker iconiche ispirate al mondo del motorsport, caratterizzate da un design basso e affusolato per un look dinamico e sportivo. La tomaia in suede premium garantisce resistenza e stile, mentre la suola in gomma sottile offre un’ottima sensibilità al suolo e grip. Perfette per gli amanti delle auto e della velocità, uniscono eleganza e performance in un’unica scarpa. La Speedcat di PUMA è un'icona della cultura racing e dello streetstyle da ormai decenni. Nata per dominare il mondo delle corse, ha ridefinito lo street style con il suo design essenziale e audace. Oggi continua a dettare il ritmo, scelta dai pionieri dello stile di ogni generazione. Vivi il ritorno dei classici con Speedcat.
-  Updated: 2026-04-05T09:03:05Z
+  Updated: 2026-04-20T21:55:04Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -7370,7 +7370,7 @@
     Availability: Not Available
     Price: 99,00 € EUR
 - [Puma Speedcat OG rosa donna](https://vibesmilano.com/products/puma-speedcat-og-rosa-donna): Le PUMA Speedcat sono sneaker iconiche ispirate al mondo del motorsport, caratterizzate da un design basso e affusolato per un look dinamico e sportivo. La tomaia in suede premium garantisce resistenza e stile, mentre la suola in gomma sottile offre un’ottima sensibilità al suolo e grip. Perfette per gli amanti delle auto e della velocità, uniscono eleganza e performance in un’unica scarpa. La Speedcat di PUMA è un'icona della cultura racing e dello streetstyle da ormai decenni. Nata per dominare il mondo delle corse, ha ridefinito lo street style con il suo design essenziale e audace. Oggi continua a dettare il ritmo, scelta dai pionieri dello stile di ogni generazione. Vivi il ritorno dei classici con Speedcat.
-  Updated: 2026-03-30T21:26:35Z
+  Updated: 2026-04-20T21:55:05Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -7403,7 +7403,7 @@
     Availability: Available
     Price: 99,00 € EUR
 - [Nike New Dunk SB Low mod. Stussy verde](https://vibesmilano.com/products/nike-new-dunk-sb-low-mod-stussy-verde): Progettata per il basket ma adottata dagli skater, Nike Dunk Low ha contribuito a definire la cultura sneakerhead. Con una morbida imbottitura alla caviglia e trazione in gomma resistente, questa icona degli anni Ottanta è perfetta per il tempo libero e non solo. Fatta per durare: i materiali offrono resistenza e un tocco classico. Dettagli prodotto: lacci classici. Fattura con suola preformata Nike Dunk: nata da una serie di mash-up, soluzioni creative e scadenze ravvicinate, Nike Dunk fece il proprio debutto sui parquet universitari durante la stagione 1985/86. Sebbene i design originali nei colori del college fossero pensati per mostrare fedeltà alla propria università, Dunk non ebbe inizialmente un grande successo. Ma fu proprio la mancanza di popolarità di questa umile sneaker, dalla suola piatta e aderente, ad attirare l'attenzione degli skater. Decenni dopo, questo modello amatissimo per tutti i giorni continua a essere conteso in innumerevoli colorazioni, chiara dimostrazione di un'influenza innegabile.
-  Updated: 2026-03-30T21:26:35Z
+  Updated: 2026-04-20T21:55:05Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -7454,7 +7454,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [Nike New Dunk SB Low mod. Stussy blu](https://vibesmilano.com/products/nike-new-dunk-sb-low-mod-stussy-blu): Progettata per il basket ma adottata dagli skater, Nike Dunk Low ha contribuito a definire la cultura sneakerhead. Con una morbida imbottitura alla caviglia e trazione in gomma resistente, questa icona degli anni Ottanta è perfetta per il tempo libero e non solo. Fatta per durare: i materiali offrono resistenza e un tocco classico. Dettagli prodotto: lacci classici. Fattura con suola preformata Nike Dunk: nata da una serie di mash-up, soluzioni creative e scadenze ravvicinate, Nike Dunk fece il proprio debutto sui parquet universitari durante la stagione 1985/86. Sebbene i design originali nei colori del college fossero pensati per mostrare fedeltà alla propria università, Dunk non ebbe inizialmente un grande successo. Ma fu proprio la mancanza di popolarità di questa umile sneaker, dalla suola piatta e aderente, ad attirare l'attenzione degli skater. Decenni dopo, questo modello amatissimo per tutti i giorni continua a essere conteso in innumerevoli colorazioni, chiara dimostrazione di un'influenza innegabile.
-  Updated: 2026-03-30T21:26:36Z
+  Updated: 2026-04-20T21:55:06Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -7505,7 +7505,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [Nike New Dunk SB Low mod. Stussy celeste](https://vibesmilano.com/products/nike-new-dunk-sb-low-mod-stussy-celeste): Progettata per il basket ma adottata dagli skater, Nike Dunk Low ha contribuito a definire la cultura sneakerhead. Con una morbida imbottitura alla caviglia e trazione in gomma resistente, questa icona degli anni Ottanta è perfetta per il tempo libero e non solo. Fatta per durare: i materiali offrono resistenza e un tocco classico. Dettagli prodotto: lacci classici. Fattura con suola preformata Nike Dunk: nata da una serie di mash-up, soluzioni creative e scadenze ravvicinate, Nike Dunk fece il proprio debutto sui parquet universitari durante la stagione 1985/86. Sebbene i design originali nei colori del college fossero pensati per mostrare fedeltà alla propria università, Dunk non ebbe inizialmente un grande successo. Ma fu proprio la mancanza di popolarità di questa umile sneaker, dalla suola piatta e aderente, ad attirare l'attenzione degli skater. Decenni dopo, questo modello amatissimo per tutti i giorni continua a essere conteso in innumerevoli colorazioni, chiara dimostrazione di un'influenza innegabile.
-  Updated: 2026-03-30T21:26:36Z
+  Updated: 2026-04-20T21:55:07Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -7556,7 +7556,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [Nike New Dunk SB Supreme celeste](https://vibesmilano.com/products/nike-new-dunk-sb-supreme-celeste): Progettata per il basket ma adottata dagli skater, Nike Dunk Low ha contribuito a definire la cultura sneakerhead. Con una morbida imbottitura alla caviglia e trazione in gomma resistente, questa icona degli anni Ottanta è perfetta per il tempo libero e non solo. Fatta per durare: i materiali offrono resistenza e un tocco classico. Dettagli prodotto: lacci classici. Fattura con suola preformata Nike Dunk: nata da una serie di mash-up, soluzioni creative e scadenze ravvicinate, Nike Dunk fece il proprio debutto sui parquet universitari durante la stagione 1985/86. Sebbene i design originali nei colori del college fossero pensati per mostrare fedeltà alla propria università, Dunk non ebbe inizialmente un grande successo. Ma fu proprio la mancanza di popolarità di questa umile sneaker, dalla suola piatta e aderente, ad attirare l'attenzione degli skater. Decenni dopo, questo modello amatissimo per tutti i giorni continua a essere conteso in innumerevoli colorazioni, chiara dimostrazione di un'influenza innegabile.
-  Updated: 2026-03-30T21:26:36Z
+  Updated: 2026-04-20T21:55:08Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -7604,7 +7604,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Nike New Dunk SB Low mod. Stussy nero bianco](https://vibesmilano.com/products/nike-new-dunk-sb-low-mod-stussy-nero-bianco): Progettata per il basket ma adottata dagli skater, Nike Dunk Low ha contribuito a definire la cultura sneakerhead. Con una morbida imbottitura alla caviglia e trazione in gomma resistente, questa icona degli anni Ottanta è perfetta per il tempo libero e non solo. Fatta per durare: i materiali offrono resistenza e un tocco classico. Dettagli prodotto: lacci classici. Fattura con suola preformata Nike Dunk: nata da una serie di mash-up, soluzioni creative e scadenze ravvicinate, Nike Dunk fece il proprio debutto sui parquet universitari durante la stagione 1985/86. Sebbene i design originali nei colori del college fossero pensati per mostrare fedeltà alla propria università, Dunk non ebbe inizialmente un grande successo. Ma fu proprio la mancanza di popolarità di questa umile sneaker, dalla suola piatta e aderente, ad attirare l'attenzione degli skater. Decenni dopo, questo modello amatissimo per tutti i giorni continua a essere conteso in innumerevoli colorazioni, chiara dimostrazione di un'influenza innegabile.
-  Updated: 2026-03-30T21:26:36Z
+  Updated: 2026-04-20T21:55:09Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -7655,7 +7655,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [Nike New Dunk SB Supreme blu bianco](https://vibesmilano.com/products/nike-new-dunk-sb-supreme-blu-bianco): Progettata per il basket ma adottata dagli skater, Nike Dunk Low ha contribuito a definire la cultura sneakerhead. Con una morbida imbottitura alla caviglia e trazione in gomma resistente, questa icona degli anni Ottanta è perfetta per il tempo libero e non solo. Fatta per durare: i materiali offrono resistenza e un tocco classico. Dettagli prodotto: lacci classici. Fattura con suola preformata Nike Dunk: nata da una serie di mash-up, soluzioni creative e scadenze ravvicinate, Nike Dunk fece il proprio debutto sui parquet universitari durante la stagione 1985/86. Sebbene i design originali nei colori del college fossero pensati per mostrare fedeltà alla propria università, Dunk non ebbe inizialmente un grande successo. Ma fu proprio la mancanza di popolarità di questa umile sneaker, dalla suola piatta e aderente, ad attirare l'attenzione degli skater. Decenni dopo, questo modello amatissimo per tutti i giorni continua a essere conteso in innumerevoli colorazioni, chiara dimostrazione di un'influenza innegabile.
-  Updated: 2026-03-30T21:26:37Z
+  Updated: 2026-04-20T21:55:10Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -7703,7 +7703,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Nike New Dunk SB Supreme bianco grigio](https://vibesmilano.com/products/nike-new-dunk-sb-supreme-bianco-grigio): Progettata per il basket ma adottata dagli skater, Nike Dunk Low ha contribuito a definire la cultura sneakerhead. Con una morbida imbottitura alla caviglia e trazione in gomma resistente, questa icona degli anni Ottanta è perfetta per il tempo libero e non solo. Fatta per durare: i materiali offrono resistenza e un tocco classico. Dettagli prodotto: lacci classici. Fattura con suola preformata Nike Dunk: nata da una serie di mash-up, soluzioni creative e scadenze ravvicinate, Nike Dunk fece il proprio debutto sui parquet universitari durante la stagione 1985/86. Sebbene i design originali nei colori del college fossero pensati per mostrare fedeltà alla propria università, Dunk non ebbe inizialmente un grande successo. Ma fu proprio la mancanza di popolarità di questa umile sneaker, dalla suola piatta e aderente, ad attirare l'attenzione degli skater. Decenni dopo, questo modello amatissimo per tutti i giorni continua a essere conteso in innumerevoli colorazioni, chiara dimostrazione di un'influenza innegabile.
-  Updated: 2026-03-30T21:26:37Z
+  Updated: 2026-04-20T21:55:10Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -7751,7 +7751,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Nike New Dunk SB Low mod. Stussy bordeaux](https://vibesmilano.com/products/nike-new-dunk-sb-low-mod-stussy-bordeaux): Progettata per il basket ma adottata dagli skater, Nike Dunk Low ha contribuito a definire la cultura sneakerhead. Con una morbida imbottitura alla caviglia e trazione in gomma resistente, questa icona degli anni Ottanta è perfetta per il tempo libero e non solo. Fatta per durare: i materiali offrono resistenza e un tocco classico. Dettagli prodotto: lacci classici. Fattura con suola preformata Nike Dunk: nata da una serie di mash-up, soluzioni creative e scadenze ravvicinate, Nike Dunk fece il proprio debutto sui parquet universitari durante la stagione 1985/86. Sebbene i design originali nei colori del college fossero pensati per mostrare fedeltà alla propria università, Dunk non ebbe inizialmente un grande successo. Ma fu proprio la mancanza di popolarità di questa umile sneaker, dalla suola piatta e aderente, ad attirare l'attenzione degli skater. Decenni dopo, questo modello amatissimo per tutti i giorni continua a essere conteso in innumerevoli colorazioni, chiara dimostrazione di un'influenza innegabile.
-  Updated: 2026-03-30T21:26:37Z
+  Updated: 2026-04-20T21:55:11Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -7802,7 +7802,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [Nike New Dunk SB Low x Off-White rosso](https://vibesmilano.com/products/nike-new-dunk-sb-low-x-off-white): Progettata per il basket ma adottata dagli skater, Nike Dunk Low ha contribuito a definire la cultura sneakerhead. Con una morbida imbottitura alla caviglia e trazione in gomma resistente, questa icona degli anni Ottanta è perfetta per il tempo libero e non solo. Fatta per durare: i materiali offrono resistenza e un tocco classico. Dettagli prodotto: lacci classici. Fattura con suola preformata Nike Dunk: nata da una serie di mash-up, soluzioni creative e scadenze ravvicinate, Nike Dunk fece il proprio debutto sui parquet universitari durante la stagione 1985/86. Sebbene i design originali nei colori del college fossero pensati per mostrare fedeltà alla propria università, Dunk non ebbe inizialmente un grande successo. Ma fu proprio la mancanza di popolarità di questa umile sneaker, dalla suola piatta e aderente, ad attirare l'attenzione degli skater. Decenni dopo, questo modello amatissimo per tutti i giorni continua a essere conteso in innumerevoli colorazioni, chiara dimostrazione di un'influenza innegabile.
-  Updated: 2026-03-30T21:26:37Z
+  Updated: 2026-04-20T21:55:12Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -7853,7 +7853,7 @@
     Availability: Available
     Price: 219,00 € EUR
 - [Nike New Dunk SB Supreme verde bianco](https://vibesmilano.com/products/nike-new-dunk-sb-supreme-verde-bianco): Progettata per il basket ma adottata dagli skater, Nike Dunk Low ha contribuito a definire la cultura sneakerhead. Con una morbida imbottitura alla caviglia e trazione in gomma resistente, questa icona degli anni Ottanta è perfetta per il tempo libero e non solo. Fatta per durare: i materiali offrono resistenza e un tocco classico. Dettagli prodotto: lacci classici. Fattura con suola preformata Nike Dunk: nata da una serie di mash-up, soluzioni creative e scadenze ravvicinate, Nike Dunk fece il proprio debutto sui parquet universitari durante la stagione 1985/86. Sebbene i design originali nei colori del college fossero pensati per mostrare fedeltà alla propria università, Dunk non ebbe inizialmente un grande successo. Ma fu proprio la mancanza di popolarità di questa umile sneaker, dalla suola piatta e aderente, ad attirare l'attenzione degli skater. Decenni dopo, questo modello amatissimo per tutti i giorni continua a essere conteso in innumerevoli colorazioni, chiara dimostrazione di un'influenza innegabile.
-  Updated: 2026-03-30T21:26:38Z
+  Updated: 2026-04-20T21:55:12Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -7901,7 +7901,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Nike New Dunk SB Low nero](https://vibesmilano.com/products/nike-new-dunk-sb-low-nero): Progettata per il basket ma adottata dagli skater, Nike Dunk Low ha contribuito a definire la cultura sneakerhead. Con una morbida imbottitura alla caviglia e trazione in gomma resistente, questa icona degli anni Ottanta è perfetta per il tempo libero e non solo. Fatta per durare: i materiali offrono resistenza e un tocco classico. Dettagli prodotto: lacci classici. Fattura con suola preformata Nike Dunk: nata da una serie di mash-up, soluzioni creative e scadenze ravvicinate, Nike Dunk fece il proprio debutto sui parquet universitari durante la stagione 1985/86. Sebbene i design originali nei colori del college fossero pensati per mostrare fedeltà alla propria università, Dunk non ebbe inizialmente un grande successo. Ma fu proprio la mancanza di popolarità di questa umile sneaker, dalla suola piatta e aderente, ad attirare l'attenzione degli skater. Decenni dopo, questo modello amatissimo per tutti i giorni continua a essere conteso in innumerevoli colorazioni, chiara dimostrazione di un'influenza innegabile.
-  Updated: 2026-03-30T21:26:38Z
+  Updated: 2026-04-20T21:55:13Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -7949,7 +7949,7 @@
     Availability: Available
     Price: 110,00 € EUR
 - [Nike Air Jordan 4 Retro Wet Cement](https://vibesmilano.com/products/nike-air-jordan-4-retro-wet-cement): Sneakers Air Jordan 4 Retro Wet Cement La Air Jordan 4 Retro SE "Wet Cement", nota anche come "Paris Olympics", ricopre la classica silhouette con un design monocromatico neutro in onore delle Olimpiadi estive del 2024. Diverse tonalità di grigio sono applicate alla tomaia in nabuk, con una sovrapposizione in suede sull'avampiede e un motivo a griglia in rilievo sul pannello laterale. Dettagli maculati ricoprono le alette di supporto in TPU e la linguetta posteriore sagomata, contrassegnata dall'icona Jumpman in rilievo. Un secondo logo Jumpman decora la linguetta. La sneaker è dotata di un'intersuola in poliuretano grigio scuro con ammortizzazione Air-Sole visibile nel tallone. Noi di Vibes Milano lo importiamo direttamente e lo proponiamo al prezzo più basso del mercato. TEMPI DI CONSEGNA: 10-12 GIORNI
-  Updated: 2026-03-30T21:26:38Z
+  Updated: 2026-04-20T21:55:14Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -8009,7 +8009,7 @@
     Availability: Available
     Price: 220,00 € EUR
 - [Nike Air Jordan 4 Retro Navy](https://vibesmilano.com/products/nike-air-jordan-4-retro-navy): Sneakers Air Jordan 4 Retro Navy Kickflip e tailslide. Assist e schiacciate. Nike SB e Jordan. Alcune accoppiate sono semplicemente perfette.Nike SB x AJ4 rende omaggio a due dei più grandi nomi della sneaker culture: Sandy Boedecker (non per niente Nike SB porta questo nome) e il leggendario designer Tinker Hatfield. A questo duo dobbiamo la creazione dell'icona inarrestabile che non solo favorì l'ascesa di MJ, ma oltrepassò i confini del parquet per lasciare un segno indelebile nella cultura pop e street.Nike SB e Jordan uniscono nuovamente le forze per modificare il design di AJ4 e permetterti di trascorrere intere giornate sullo skate ed eseguire trick eccezionali. Alla forma della punta che richiama l'originale dell'89 e offre una calzata migliorata si accompagna una tomaia minimalista con dettagli flessibili in plastica. L'unità Nike Air nel tallone consente evoluzioni epiche sulle scalinate e, poiché l'aderenza è fondamentale, la gomma sulla suola aggiunge trazione dove serve di più.Anche l'estetica è curata. I blocchi di colore tradizionali richiamano il modello AJ4 classico, mentre i dettagli in Navy aggiungono un tocco contemporaneo. Indossala e continua a dare il massimo sulla tavola. Noi di Vibes Milano lo importiamo direttamente e lo proponiamo al prezzo più basso del mercato. TEMPI DI CONSEGNA: 10-12 GIORNI
-  Updated: 2026-03-30T21:26:39Z
+  Updated: 2026-04-20T21:55:14Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -8066,7 +8066,7 @@
     Availability: Available
     Price: 220,00 € EUR
 - [Nike Air Jordan 4 Retro Undefeated](https://vibesmilano.com/products/nike-air-jordan-4-retro-undefeated): Sneakers Air Jordan 4 Retro Undefeated La riedizione del 2025 delle Undefeated x Air Jordan 4 ripropone l'ambitissima collaborazione lanciata inizialmente nel 2005 in una tiratura limitata di 72 paia. Ispirata a una giacca da volo MA-1, la silhouette classica sfoggia una tomaia in nabuk verde oliva con accenti neri a contrasto sugli occhielli sagomati, alette di supporto in TPU e linguetta posteriore, con il logo Jumpman. Patch con logo in velcro decorano la linguetta, foderata internamente in tessuto arancione acceso. La sneaker poggia su un'intersuola in poliuretano bianco sporco con un'unità Air visibile con sfumature arancioni nel tallone. Noi di Vibes Milano lo importiamo direttamente e lo proponiamo al prezzo più basso del mercato. TEMPI DI CONSEGNA: 10-12 GIORNI
-  Updated: 2026-03-30T21:26:39Z
+  Updated: 2026-04-20T21:55:15Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -8126,7 +8126,7 @@
     Availability: Available
     Price: 220,00 € EUR
 - [Nike Air Jordan 4 Retro Cave Stone (non presente in Italia)](https://vibesmilano.com/products/nike-air-jordan-4-retro-cave-stone-non-presente-in-italia): Sneakers Air Jordan 4 Retro Cave Stone Il marchio Jordan continua la sua corsa con l'imminente commercializzazione dell'Air Jordan 4 Cave Stone con il classico marchio Nike Air sul tallone. Questa nuova interpretazione delle Air Jordan 4 fonde tonalità terrose e materiali di alta qualità, offrendo un look senza tempo, perfetto sia per il tempo libero che per l'uso quotidiano. La scarpa presenta un sofisticato mix di tonalità Cave Stone, Black e Moon Particle. La tomaia è in morbida pelle scamosciata marrone, che conferisce un look raffinato ma al tempo stesso robusto, ideale per l'autunno. Dettagli neri compaiono sui sottocchielli, sulla rete e sulle etichette della linguetta, creando un contrasto sorprendente. Il marchio Nike Air nero sul tallone aggiunge un tocco finale fresco e pulito. L'intersuola nera e la suola abbinata completano il look, garantendo versatilità e un fascino raffinato. Questa uscita continua la tradizione del marchio Jordan di fondere design iconico e artigianalità moderna. La Jordan 4 "Cave Stone" raggiunge un perfetto equilibrio tra sobrietà e audacia, rendendola un must-have per collezionisti e appassionati di sneaker. Che tu sia in campo o che tu lo indossi per le uscite informali, questo paio è perfetto sia per funzionalità che per stile. Noi di Vibes Milano la importiamo direttamente dai distributori che già ne hanno la disponibilità e la proponiamo al prezzo più basso del mercato. TEMPI DI CONSEGNA: 10-12 GIORNI
-  Updated: 2026-03-30T21:26:39Z
+  Updated: 2026-04-20T21:55:15Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -8186,7 +8186,7 @@
     Availability: Available
     Price: 220,00 € EUR
 - [New Balance NB 9060 Grey Blue](https://vibesmilano.com/products/new-balance-nb-9060-dark-grey): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi dispedizione: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:26:39Z
+  Updated: 2026-04-20T21:55:16Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -8240,7 +8240,7 @@
     Availability: Available
     Price: 169,00 € EUR
 - [New Balance NB 9060 Shoe Palace "Cube"](https://vibesmilano.com/products/new-balance-nb-9060-shoe-palace-cube): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi di consegna: 12-14 giorni LAVORATIVI. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:26:40Z
+  Updated: 2026-04-20T21:55:17Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -8294,7 +8294,7 @@
     Availability: Available
     Price: 159,00 € EUR
 - [Nike Air Force 1 07 Low Black & Metallic Silver](https://vibesmilano.com/products/nike-air-force-1-07-low-black): Sneakers Air Force 1 VANTAGGI Strati esterni cuciti sulla tomaia per un tocco tradizionale, resistenza e supporto. Originariamente progettata per offrire massime prestazioni sul parquet, l'ammortizzazione Nike Air aggiunge leggerezza e un comfort che dura per tutto il giorno. La silhouette classica a taglio basso dona un look essenziale. Collare imbottito per morbidezza e comfort. DETTAGLI PRODOTTO Intersuola in schiuma Inserti traforati sulla punta Battistrada in gomma Stile: CW2288-111 ORIGINI DI AIR FORCE 1 Nel 1982, AF1 fu la prima scarpa da basket dotata di tecnologia Nike Air a rivoluzionare il gioco e conquistare rapidamente popolarità in tutto il mondo. Oggi, Air Force 1 resta fedele al modello originale, conservando l'ammortizzazione elastica e la morbidezza che hanno cambiato la storia delle sneakers. Noi di Vibes Milano lo importiamo direttamente e lo proponiamo al prezzo più basso del mercato. TEMPI DI CONSEGNA: 10-12 GIORNI
-  Updated: 2026-03-30T21:26:40Z
+  Updated: 2026-04-20T21:55:17Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -8345,7 +8345,7 @@
     Availability: Available
     Price: 169,00 € EUR
 - [Nike Air Force 1 07 Low OG Travis Scott Black Olive](https://vibesmilano.com/products/nike-air-force-1-07-low-supreme-bianco): La Travis Scott Jordan 1 Low Black Olive è disponibile nei colori Black/Sail-Medium Olive-Muslin ed è stata lanciata nel 2024. Il rapper e Nike continuano la loro collaborazione attraverso la linea Air Jordan, La Travis Scott x Air Jordan 1 Low OG SP "Black Olive" è una sneaker eccezionale che unisce arte e design raffinato. È pensata per chi conosce davvero le sneaker, con un mix accattivante di colori come il nero e l'oliva media. Questa scarpa non è solo estetica, ma affonda le sue radici in uno stile classico. Ciò che rende questa scarpa speciale è la sua pelle e il suo nabuk di prima qualità. Questa combinazione conferisce alla sneaker un tocco di lusso, pur essendo abbastanza resistente da durare a lungo. Non è solo una scarpa esteticamente gradevole, è fatta per rimanere nella tua collezione. Il comfort è fondamentale. La sneaker presenta inserti in mesh sulla linguetta e all'interno, che assicurano ai piedi una buona traspirazione e un comfort ottimale. Questo significa che puoi indossarla tutto il giorno senza problemi. L'elegante Swoosh rovesciato sul lato è il segno distintivo di Travis Scott, che rende questa Air Jordan 1 Low diversa dalle altre. È un omaggio al talento creativo di Scott. Il logo Cactus Jack sulla linguetta e i loghi di Travis Scott ispirati a Houston sui talloni aggiungono un tocco più personale. Questi dettagli contribuiscono alla storia unica della sneaker. La scarpa si completa con un'intersuola invecchiata. Questo le conferisce un aspetto retrò, perfetto per chi ama un tocco old-school nelle proprie sneaker. Introvabile in Italia, noi di Vibes Milano lo importiamo direttamente e lo proponiamo al prezzo più basso del mercato. TEMPI DI CONSEGNA: 10-12 GIORNI
-  Updated: 2026-03-30T21:26:40Z
+  Updated: 2026-04-20T21:55:18Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -8396,7 +8396,7 @@
     Availability: Available
     Price: 289,00 € EUR
 - [Nike Air Force 1 07 Low x Stussy white](https://vibesmilano.com/products/nike-air-force-1-07-low-x-stussy): Sneakers Air Force 1 VANTAGGI Strati esterni cuciti sulla tomaia per un tocco tradizionale, resistenza e supporto. Originariamente progettata per offrire massime prestazioni sul parquet, l'ammortizzazione Nike Air aggiunge leggerezza e un comfort che dura per tutto il giorno. La silhouette classica a taglio basso dona un look essenziale. Collare imbottito per morbidezza e comfort. DETTAGLI PRODOTTO Intersuola in schiuma Inserti traforati sulla punta Battistrada in gomma Stile: CW2288-111 ORIGINI DI AIR FORCE 1 Nel 1982, AF1 fu la prima scarpa da basket dotata di tecnologia Nike Air a rivoluzionare il gioco e conquistare rapidamente popolarità in tutto il mondo. Oggi, Air Force 1 resta fedele al modello originale, conservando l'ammortizzazione elastica e la morbidezza che hanno cambiato la storia delle sneakers. Noi di Vibes Milano lo importiamo direttamente e lo proponiamo al prezzo più basso del mercato. TEMPI DI CONSEGNA: 10-12 GIORNI
-  Updated: 2026-03-30T21:26:40Z
+  Updated: 2026-04-20T21:55:18Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -8447,7 +8447,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [Adidas Originals Stan Smith](https://vibesmilano.com/products/adidas-originals-stan-smith): adidas Stan Smith Le adidas Stan Smith, nate originariamente come scarpe da tennis negli anni '70, hanno trovato una seconda vita nel mondo lifestyle grazie al loro design minimalista e al fascino retro. Sono celebri per il loro look pulito, la tomaia in pelle resistente e la versatilità senza tempo. Dettagli Fori di ventilazione, tomaia in pelle, chiusura con lacci, fodera in pelle, suola in gomma, collare imbottito TEMPI DI CONSEGNA: 10-12 GIORNI
-  Updated: 2026-03-30T21:26:41Z
+  Updated: 2026-04-20T21:55:19Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -8495,7 +8495,7 @@
     Availability: Available
     Price: 119,00 € EUR
 - [Adidas Originals Stan Smith Brain Dead](https://vibesmilano.com/products/adidas-originals-stan-smith-brain-dead): Adidas, fondata in Germania, è sinonimo di innovazione e stile senza tempo dal 1949. Con una visione orientata all'eccellenza sportiva e alla moda, il brand ha conquistato milioni di appassionati in tutto il mondo. L'incontro tra l'iconico modello adidas Stan Smith e la creatività di Brain Dead ha dato vita ad una combinazione esplosiva per l'autunno/inverno 2024. Le adidas Stan Smith sono conosciute per il loro design pulito e minimalista, che ha segnato la storia delle sneaker. Nella versione Stan Smith x Brain Dead, ritroviamo un tocco stravagante nel colore azzurro che sposa perfettamente l'edizione limitata, trasformandole in un must-have per gli amanti dello stile unico. Vuoi essere il protagonista del tuo street style? Acquista ora su Vibes M e fai la differenza! TEMPI DI CONSEGNA: 10-12 GIORNI
-  Updated: 2026-03-30T21:26:41Z
+  Updated: 2026-04-20T21:55:20Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -8546,7 +8546,7 @@
     Availability: Available
     Price: 119,00 € EUR
 - [New Balance NB M1906R Refined Future Black](https://vibesmilano.com/products/new-balance-nb-m1906r-refined-future-black): La sneaker 1906 di New Balance unisce stile e comfort. Ispirata alle scarpe da corsa degli anni 2000, offre caratteristiche di comfort come l'intersuola ABZORB e la tecnologia Stability Web per il supporto dell'arco plantare.- L'ammortizzazione ABZORB SBS sul tallone offre maggiore stabilità e comfort- La suola N-ergy per l'assorbimento degli urti- La tecnologia Stability Web sulla suola offre maggiore supporto dell'arco plantare. Le 1906R presentano una suola che combina l'ammortizzazione flessibile ACTEVA LITE, il sistema di assorbimento degli urti N-ergy e i cuscinetti ABZORB SBS segmentati sul tallone. Questo approccio hi-tech si riflette anche nella tomaia delle 1906R, che presenta un mesh a fori aperti e una serie di rivestimenti sintetici curvilinei. Questa interpretazione unica delle convenzioni di design dell'epoca offre una realizzazione elegante di una tradizione fatta di grandi prestazioni. Caratteristiche Ammortizzazione dell’intersuola ACTEVA LITE Ammortizzazione del tallone ABZORB SBS Suola N-ergy che garantisce un'ammortizzazione superiore Tecnologia Stability Web nella suola per un ulteriore sostegno dell'arcata plantare Gabbia del tallone in TPU Suola in gomma Materiale Tomaia in mesh con rivestimenti sintetici Suola in gomma NOTE: Tempi di consegna: 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:26:41Z
+  Updated: 2026-04-20T21:55:20Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -8600,7 +8600,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [New Balance NB M1906R Silver Metallic Black](https://vibesmilano.com/products/new-balance-nb-m1906r-silver-metallic-black): La sneaker 1906 di New Balance unisce stile e comfort. Ispirata alle scarpe da corsa degli anni 2000, offre caratteristiche di comfort come l'intersuola ABZORB e la tecnologia Stability Web per il supporto dell'arco plantare.- L'ammortizzazione ABZORB SBS sul tallone offre maggiore stabilità e comfort- La suola N-ergy per l'assorbimento degli urti- La tecnologia Stability Web sulla suola offre maggiore supporto dell'arco plantare. Le 1906R presentano una suola che combina l'ammortizzazione flessibile ACTEVA LITE, il sistema di assorbimento degli urti N-ergy e i cuscinetti ABZORB SBS segmentati sul tallone. Questo approccio hi-tech si riflette anche nella tomaia delle 1906R, che presenta un mesh a fori aperti e una serie di rivestimenti sintetici curvilinei. Questa interpretazione unica delle convenzioni di design dell'epoca offre una realizzazione elegante di una tradizione fatta di grandi prestazioni. Caratteristiche Ammortizzazione dell’intersuola ACTEVA LITE Ammortizzazione del tallone ABZORB SBS Suola N-ergy che garantisce un'ammortizzazione superiore Tecnologia Stability Web nella suola per un ulteriore sostegno dell'arcata plantare Gabbia del tallone in TPU Suola in gomma Materiale Tomaia in mesh con rivestimenti sintetici Suola in gomma NOTE: Tempi di consegna: 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:26:41Z
+  Updated: 2026-04-20T21:55:20Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -8657,7 +8657,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [New Balance NB M1906R Silver Metallic Deep Ocean](https://vibesmilano.com/products/new-balance-nb-m1906r-silver-metallic-deep-ocean): La sneaker 1906 di New Balance unisce stile e comfort. Ispirata alle scarpe da corsa degli anni 2000, offre caratteristiche di comfort come l'intersuola ABZORB e la tecnologia Stability Web per il supporto dell'arco plantare.- L'ammortizzazione ABZORB SBS sul tallone offre maggiore stabilità e comfort- La suola N-ergy per l'assorbimento degli urti- La tecnologia Stability Web sulla suola offre maggiore supporto dell'arco plantare. Le 1906R presentano una suola che combina l'ammortizzazione flessibile ACTEVA LITE, il sistema di assorbimento degli urti N-ergy e i cuscinetti ABZORB SBS segmentati sul tallone. Questo approccio hi-tech si riflette anche nella tomaia delle 1906R, che presenta un mesh a fori aperti e una serie di rivestimenti sintetici curvilinei. Questa interpretazione unica delle convenzioni di design dell'epoca offre una realizzazione elegante di una tradizione fatta di grandi prestazioni. Caratteristiche Ammortizzazione dell’intersuola ACTEVA LITE Ammortizzazione del tallone ABZORB SBS Suola N-ergy che garantisce un'ammortizzazione superiore Tecnologia Stability Web nella suola per un ulteriore sostegno dell'arcata plantare Gabbia del tallone in TPU Suola in gomma Materiale Tomaia in mesh con rivestimenti sintetici Suola in gomma NOTE: Tempi di consegna: 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:26:42Z
+  Updated: 2026-04-20T21:55:21Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -8714,7 +8714,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [New Balance NB M1906R RLI Beige](https://vibesmilano.com/products/new-balance-nb-m1906r-rli-beige): La sneaker 1906 di New Balance unisce stile e comfort. Ispirata alle scarpe da corsa degli anni 2000, offre caratteristiche di comfort come l'intersuola ABZORB e la tecnologia Stability Web per il supporto dell'arco plantare.- L'ammortizzazione ABZORB SBS sul tallone offre maggiore stabilità e comfort- La suola N-ergy per l'assorbimento degli urti- La tecnologia Stability Web sulla suola offre maggiore supporto dell'arco plantare. Le 1906R presentano una suola che combina l'ammortizzazione flessibile ACTEVA LITE, il sistema di assorbimento degli urti N-ergy e i cuscinetti ABZORB SBS segmentati sul tallone. Questo approccio hi-tech si riflette anche nella tomaia delle 1906R, che presenta un mesh a fori aperti e una serie di rivestimenti sintetici curvilinei. Questa interpretazione unica delle convenzioni di design dell'epoca offre una realizzazione elegante di una tradizione fatta di grandi prestazioni. Caratteristiche Ammortizzazione dell’intersuola ACTEVA LITE Ammortizzazione del tallone ABZORB SBS Suola N-ergy che garantisce un'ammortizzazione superiore Tecnologia Stability Web nella suola per un ulteriore sostegno dell'arcata plantare Gabbia del tallone in TPU Suola in gomma Materiale Tomaia in mesh con rivestimenti sintetici Suola in gomma NOTE: Tempi di consegna: 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:26:42Z
+  Updated: 2026-04-20T21:55:21Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -8765,7 +8765,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [New Balance NB M1906R Silver Metallic Nightwatch Green](https://vibesmilano.com/products/new-balance-nb-m1906r-silver-metallic-nightwatch-green): La sneaker 1906 di New Balance unisce stile e comfort. Ispirata alle scarpe da corsa degli anni 2000, offre caratteristiche di comfort come l'intersuola ABZORB e la tecnologia Stability Web per il supporto dell'arco plantare.- L'ammortizzazione ABZORB SBS sul tallone offre maggiore stabilità e comfort- La suola N-ergy per l'assorbimento degli urti- La tecnologia Stability Web sulla suola offre maggiore supporto dell'arco plantare. Le 1906R presentano una suola che combina l'ammortizzazione flessibile ACTEVA LITE, il sistema di assorbimento degli urti N-ergy e i cuscinetti ABZORB SBS segmentati sul tallone. Questo approccio hi-tech si riflette anche nella tomaia delle 1906R, che presenta un mesh a fori aperti e una serie di rivestimenti sintetici curvilinei. Questa interpretazione unica delle convenzioni di design dell'epoca offre una realizzazione elegante di una tradizione fatta di grandi prestazioni. Caratteristiche Ammortizzazione dell’intersuola ACTEVA LITE Ammortizzazione del tallone ABZORB SBS Suola N-ergy che garantisce un'ammortizzazione superiore Tecnologia Stability Web nella suola per un ulteriore sostegno dell'arcata plantare Gabbia del tallone in TPU Suola in gomma Materiale Tomaia in mesh con rivestimenti sintetici Suola in gomma NOTE: Tempi di consegna: 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:26:42Z
+  Updated: 2026-04-20T21:55:22Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -8822,7 +8822,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [New Balance NB M1906R Silver Dragon Berry Gold Men's](https://vibesmilano.com/products/new-balance-nb-m1906r-silver-dragon-berry-gold-mens): La sneaker 1906 di New Balance unisce stile e comfort. Ispirata alle scarpe da corsa degli anni 2000, offre caratteristiche di comfort come l'intersuola ABZORB e la tecnologia Stability Web per il supporto dell'arco plantare.- L'ammortizzazione ABZORB SBS sul tallone offre maggiore stabilità e comfort- La suola N-ergy per l'assorbimento degli urti- La tecnologia Stability Web sulla suola offre maggiore supporto dell'arco plantare. Le 1906R presentano una suola che combina l'ammortizzazione flessibile ACTEVA LITE, il sistema di assorbimento degli urti N-ergy e i cuscinetti ABZORB SBS segmentati sul tallone. Questo approccio hi-tech si riflette anche nella tomaia delle 1906R, che presenta un mesh a fori aperti e una serie di rivestimenti sintetici curvilinei. Questa interpretazione unica delle convenzioni di design dell'epoca offre una realizzazione elegante di una tradizione fatta di grandi prestazioni. Caratteristiche Ammortizzazione dell’intersuola ACTEVA LITE Ammortizzazione del tallone ABZORB SBS Suola N-ergy che garantisce un'ammortizzazione superiore Tecnologia Stability Web nella suola per un ulteriore sostegno dell'arcata plantare Gabbia del tallone in TPU Suola in gomma Materiale Tomaia in mesh con rivestimenti sintetici Suola in gomma NOTE: Tempi di consegna: 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:26:42Z
+  Updated: 2026-04-20T21:55:22Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -8879,7 +8879,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [New Balance NB M1906R Silver Blue](https://vibesmilano.com/products/new-balance-nb-m1906r-silver-dragon-berry-gold-mens-copia): La sneaker 1906 di New Balance unisce stile e comfort. Ispirata alle scarpe da corsa degli anni 2000, offre caratteristiche di comfort come l'intersuola ABZORB e la tecnologia Stability Web per il supporto dell'arco plantare.- L'ammortizzazione ABZORB SBS sul tallone offre maggiore stabilità e comfort- La suola N-ergy per l'assorbimento degli urti- La tecnologia Stability Web sulla suola offre maggiore supporto dell'arco plantare. Le 1906R presentano una suola che combina l'ammortizzazione flessibile ACTEVA LITE, il sistema di assorbimento degli urti N-ergy e i cuscinetti ABZORB SBS segmentati sul tallone. Questo approccio hi-tech si riflette anche nella tomaia delle 1906R, che presenta un mesh a fori aperti e una serie di rivestimenti sintetici curvilinei. Questa interpretazione unica delle convenzioni di design dell'epoca offre una realizzazione elegante di una tradizione fatta di grandi prestazioni. Caratteristiche Ammortizzazione dell’intersuola ACTEVA LITE Ammortizzazione del tallone ABZORB SBS Suola N-ergy che garantisce un'ammortizzazione superiore Tecnologia Stability Web nella suola per un ulteriore sostegno dell'arcata plantare Gabbia del tallone in TPU Suola in gomma Materiale Tomaia in mesh con rivestimenti sintetici Suola in gomma NOTE: Tempi di consegna: 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:26:43Z
+  Updated: 2026-04-20T21:55:22Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -8930,7 +8930,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [New Balance NB M1906R Lunar New Year Pink Men's](https://vibesmilano.com/products/new-balance-nb-m1906r-lunar-new-year-pink-mens): La sneaker 1906 di New Balance unisce stile e comfort. Ispirata alle scarpe da corsa degli anni 2000, offre caratteristiche di comfort come l'intersuola ABZORB e la tecnologia Stability Web per il supporto dell'arco plantare.- L'ammortizzazione ABZORB SBS sul tallone offre maggiore stabilità e comfort- La suola N-ergy per l'assorbimento degli urti- La tecnologia Stability Web sulla suola offre maggiore supporto dell'arco plantare. Le 1906R presentano una suola che combina l'ammortizzazione flessibile ACTEVA LITE, il sistema di assorbimento degli urti N-ergy e i cuscinetti ABZORB SBS segmentati sul tallone. Questo approccio hi-tech si riflette anche nella tomaia delle 1906R, che presenta un mesh a fori aperti e una serie di rivestimenti sintetici curvilinei. Questa interpretazione unica delle convenzioni di design dell'epoca offre una realizzazione elegante di una tradizione fatta di grandi prestazioni. Caratteristiche Ammortizzazione dell’intersuola ACTEVA LITE Ammortizzazione del tallone ABZORB SBS Suola N-ergy che garantisce un'ammortizzazione superiore Tecnologia Stability Web nella suola per un ulteriore sostegno dell'arcata plantare Gabbia del tallone in TPU Suola in gomma Materiale Tomaia in mesh con rivestimenti sintetici Suola in gomma NOTE: Tempi di consegna: 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:26:43Z
+  Updated: 2026-04-20T21:55:23Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -8981,7 +8981,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [New Balance NB M1906R RWF Cordura Black](https://vibesmilano.com/products/new-balance-nb-m1906r-rwf-cordura-black): La sneaker 1906 di New Balance unisce stile e comfort. Ispirata alle scarpe da corsa degli anni 2000, offre caratteristiche di comfort come l'intersuola ABZORB e la tecnologia Stability Web per il supporto dell'arco plantare.- L'ammortizzazione ABZORB SBS sul tallone offre maggiore stabilità e comfort- La suola N-ergy per l'assorbimento degli urti- La tecnologia Stability Web sulla suola offre maggiore supporto dell'arco plantare. Le 1906R presentano una suola che combina l'ammortizzazione flessibile ACTEVA LITE, il sistema di assorbimento degli urti N-ergy e i cuscinetti ABZORB SBS segmentati sul tallone. Questo approccio hi-tech si riflette anche nella tomaia delle 1906R, che presenta un mesh a fori aperti e una serie di rivestimenti sintetici curvilinei. Questa interpretazione unica delle convenzioni di design dell'epoca offre una realizzazione elegante di una tradizione fatta di grandi prestazioni. Caratteristiche Ammortizzazione dell’intersuola ACTEVA LITE Ammortizzazione del tallone ABZORB SBS Suola N-ergy che garantisce un'ammortizzazione superiore Tecnologia Stability Web nella suola per un ulteriore sostegno dell'arcata plantare Gabbia del tallone in TPU Suola in gomma Materiale Tomaia in mesh con rivestimenti sintetici Suola in gomma NOTE: Tempi di consegna: 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:26:43Z
+  Updated: 2026-04-20T21:55:23Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -9032,7 +9032,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [Adidas Originals Campus 00s Pink](https://vibesmilano.com/products/adidas-originals-campus-00s-beige-verde): Scopri le sneaker Campus 00s Adidas Originals, dove passato e futuro si incontrano in uno stile unico. Ispirate agli anni '80 e all'era skate degli anni 2000, queste scarpe combinano una tomaia in suede vellutato, cuciture distintive e dettagli iconici come le 3 strisce seghettate e il logo Campus. I lacci ampi e il collarino imbottito offrono comfort e un tocco contemporaneo, rendendole perfette per le creator di oggi. Queste sneakers di Adidas sono perfette per distinguerti con un look senza tempo! Dettagli prodottoVestibilità regolareChiusura con lacciTomaia in suede e camoscio pelosoFodera in tessutoSuola in gomma NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:44Z
+  Updated: 2026-04-20T21:55:23Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -9062,7 +9062,7 @@
     Availability: Available
     Price: 105,00 € EUR
 - [Adidas Originals Campus 00s Year of the Snake beige rosso](https://vibesmilano.com/products/adidas-originals-campus-00s-pink-black): Scopri le sneaker Campus 00s Adidas Originals, dove passato e futuro si incontrano in uno stile unico. Ispirate agli anni '80 e all'era skate degli anni 2000, queste scarpe combinano una tomaia in suede vellutato, cuciture distintive e dettagli iconici come le 3 strisce seghettate e il logo Campus. I lacci ampi e il collarino imbottito offrono comfort e un tocco contemporaneo, rendendole perfette per le creator di oggi. Queste sneakers di Adidas sono perfette per distinguerti con un look senza tempo! Dettagli prodottoVestibilità regolareChiusura con lacciTomaia in suede e camoscio pelosoFodera in tessutoSuola in gomma NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:44Z
+  Updated: 2026-04-20T21:55:24Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -9095,7 +9095,7 @@
     Availability: Available
     Price: 120,00 € EUR
 - [Adidas Originals Campus 00s Bark](https://vibesmilano.com/products/adidas-originals-campus-00s-bark): Scopri le sneaker Campus 00s Adidas Originals, dove passato e futuro si incontrano in uno stile unico. Ispirate agli anni '80 e all'era skate degli anni 2000, queste scarpe combinano una tomaia in suede vellutato, cuciture distintive e dettagli iconici come le 3 strisce seghettate e il logo Campus. I lacci ampi e il collarino imbottito offrono comfort e un tocco contemporaneo, rendendole perfette per le creator di oggi. Queste sneakers di Adidas sono perfette per distinguerti con un look senza tempo! Dettagli prodottoVestibilità regolareChiusura con lacciTomaia in suede e camoscio pelosoFodera in tessutoSuola in gomma NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:44Z
+  Updated: 2026-04-20T21:55:24Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -9140,7 +9140,7 @@
     Availability: Available
     Price: 120,00 € EUR
 - [Adidas Originals Campus 00s Forest Glade](https://vibesmilano.com/products/adidas-originals-campus-00s-forest-glade): Scopri le sneaker Campus 00s Adidas Originals, dove passato e futuro si incontrano in uno stile unico. Ispirate agli anni '80 e all'era skate degli anni 2000, queste scarpe combinano una tomaia in suede vellutato, cuciture distintive e dettagli iconici come le 3 strisce seghettate e il logo Campus. I lacci ampi e il collarino imbottito offrono comfort e un tocco contemporaneo, rendendole perfette per le creator di oggi. Queste sneakers di Adidas sono perfette per distinguerti con un look senza tempo! Dettagli prodottoVestibilità regolareChiusura con lacciTomaia in suede e camoscio pelosoFodera in tessutoSuola in gomma NOTA: i tempi di consegna sono di 12-14 giorni lavorativi.
-  Updated: 2026-03-30T21:26:44Z
+  Updated: 2026-04-20T21:55:24Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -9188,7 +9188,7 @@
     Availability: Available
     Price: 109,00 € EUR
 - [Adidas Originals Campus 00s Dark Blue](https://vibesmilano.com/products/adidas-originals-campus-00s-dark-blue): Scopri le sneaker Campus 00s Adidas Originals, dove passato e futuro si incontrano in uno stile unico. Ispirate agli anni '80 e all'era skate degli anni 2000, queste scarpe combinano una tomaia in suede vellutato, cuciture distintive e dettagli iconici come le 3 strisce seghettate e il logo Campus. I lacci ampi e il collarino imbottito offrono comfort e un tocco contemporaneo, rendendole perfette per le creator di oggi. Queste sneakers di Adidas sono perfette per distinguerti con un look senza tempo! Dettagli prodottoVestibilità regolareChiusura con lacciTomaia in suede e camoscio pelosoFodera in tessutoSuola in gomma NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:45Z
+  Updated: 2026-04-20T21:55:25Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -9236,7 +9236,7 @@
     Availability: Available
     Price: 119,00 € EUR
 - [Adidas Originals Campus 00s Grey Clear Sky](https://vibesmilano.com/products/adidas-originals-campus-00s-grey-clear-sky): Scopri le sneaker Campus 00s Adidas Originals, dove passato e futuro si incontrano in uno stile unico. Ispirate agli anni '80 e all'era skate degli anni 2000, queste scarpe combinano una tomaia in suede vellutato, cuciture distintive e dettagli iconici come le 3 strisce seghettate e il logo Campus. I lacci ampi e il collarino imbottito offrono comfort e un tocco contemporaneo, rendendole perfette per le creator di oggi. Queste sneakers di Adidas sono perfette per distinguerti con un look senza tempo! Dettagli prodottoVestibilità regolareChiusura con lacciTomaia in suede e camoscio pelosoFodera in tessutoSuola in gomma NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:45Z
+  Updated: 2026-04-20T21:55:25Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -9284,7 +9284,7 @@
     Availability: Available
     Price: 109,00 € EUR
 - [Adidas Originals Campus 00s JQ0741 (solo mercato giapponese)](https://vibesmilano.com/products/adidas-originals-campus-00s-jq0741-solo-mercato-giapponese): Le Adidas Originals Campus 00s JQ0741 incorporano elementi della cultura hip-hop di Tokyo per creare la collezione Tokyo ENERGY! La serie Academy di versatili scarpe sportive casual con un classico stile retrò low-top si ispira a Tokyo, il centro culturale più trendy del mondo, e si ispira alle strade, alla musica e alla moda. Oltre alle scarpe CAMPUS 00s, la collezione include anche un paio di sneaker. Scopri le sneaker Campus 00s Adidas Originals, dove passato e futuro si incontrano in uno stile unico. Ispirate agli anni '80 e all'era skate degli anni 2000, queste scarpe combinano una tomaia in suede vellutato, cuciture distintive e dettagli iconici come le 3 strisce seghettate e il logo Campus. I lacci ampi e il collarino imbottito offrono comfort e un tocco contemporaneo, rendendole perfette per le creator di oggi. Queste sneakers di Adidas sono perfette per distinguerti con un look senza tempo! Dettagli prodottoVestibilità regolareChiusura con lacciTomaia in suede e camoscio pelosoFodera in tessutoSuola in gomma NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:45Z
+  Updated: 2026-04-20T21:55:26Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -9332,7 +9332,7 @@
     Availability: Available
     Price: 120,00 € EUR
 - [Adidas Originals Campus 00s Orbit Gray](https://vibesmilano.com/products/adidas-originals-campus-00s-orbit-gray): Scopri le sneaker Campus 00s Adidas Originals, dove passato e futuro si incontrano in uno stile unico. Ispirate agli anni '80 e all'era skate degli anni 2000, queste scarpe combinano una tomaia in suede vellutato, cuciture distintive e dettagli iconici come le 3 strisce seghettate e il logo Campus. I lacci ampi e il collarino imbottito offrono comfort e un tocco contemporaneo, rendendole perfette per le creator di oggi. Queste sneakers di Adidas sono perfette per distinguerti con un look senza tempo! Dettagli prodottoVestibilità regolareChiusura con lacciTomaia in suede e camoscio pelosoFodera in tessutoSuola in gomma NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:45Z
+  Updated: 2026-04-20T21:55:26Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -9380,7 +9380,7 @@
     Availability: Available
     Price: 120,00 € EUR
 - [Adidas Originals Campus 00s Crystal White Better Scarlet](https://vibesmilano.com/products/adidas-originals-campus-00s-crystal-white-better-scarlet): Scopri le sneaker Campus 00s Adidas Originals, dove passato e futuro si incontrano in uno stile unico. Ispirate agli anni '80 e all'era skate degli anni 2000, queste scarpe combinano una tomaia in suede vellutato, cuciture distintive e dettagli iconici come le 3 strisce seghettate e il logo Campus. I lacci ampi e il collarino imbottito offrono comfort e un tocco contemporaneo, rendendole perfette per le creator di oggi. Queste sneakers di Adidas sono perfette per distinguerti con un look senza tempo! Dettagli prodottoVestibilità regolareChiusura con lacciTomaia in suede e camoscio pelosoFodera in tessutoSuola in gomma NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:46Z
+  Updated: 2026-04-20T21:55:27Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -9428,7 +9428,7 @@
     Availability: Available
     Price: 159,00 € EUR
 - [Adidas Originals Campus 00s Zen Garden Pack (solo mercato giapponese)](https://vibesmilano.com/products/adidas-originals-campus-00s-zen-garden-pack-solo-mercato-giapponese): Scopri le sneaker Campus 00s Adidas Originals, dove passato e futuro si incontrano in uno stile unico. Ispirate agli anni '80 e all'era skate degli anni 2000, queste scarpe combinano una tomaia in suede vellutato, cuciture distintive e dettagli iconici come le 3 strisce seghettate e il logo Campus. I lacci ampi e il collarino imbottito offrono comfort e un tocco contemporaneo, rendendole perfette per le creator di oggi. Queste sneakers di Adidas sono perfette per distinguerti con un look senza tempo! Dettagli prodottoVestibilità regolareChiusura con lacciTomaia in suede e camoscio pelosoFodera in tessutoSuola in gomma NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:46Z
+  Updated: 2026-04-20T21:55:27Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -9476,7 +9476,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Originals Campus 00s Zen Garden Pack- silver gum (solo mercato giapponese)](https://vibesmilano.com/products/adidas-originals-campus-00s-zen-garden-pack-silver-gum-solo-mercato-giapponese): Scopri le sneaker Campus 00s Adidas Originals, dove passato e futuro si incontrano in uno stile unico. Ispirate agli anni '80 e all'era skate degli anni 2000, queste scarpe combinano una tomaia in suede vellutato, cuciture distintive e dettagli iconici come le 3 strisce seghettate e il logo Campus. I lacci ampi e il collarino imbottito offrono comfort e un tocco contemporaneo, rendendole perfette per le creator di oggi. Queste sneakers di Adidas sono perfette per distinguerti con un look senza tempo! Dettagli prodottoVestibilità regolareChiusura con lacciTomaia in suede e camoscio pelosoFodera in tessutoSuola in gomma NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:46Z
+  Updated: 2026-04-20T21:55:27Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -9524,7 +9524,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Sambae bianco nero semi coral](https://vibesmilano.com/products/adidas-samba-bianco-nero-semi-coral): Sebbene introdotte decenni fa come scarpe da calcio indoor, le Samba hanno consolidato il loro ruolo di icona di stile grazie al loro design semplice ma elegante. Queste scarpe adidas rendono omaggio al passato, rivisitando il celebre design con una suola in gomma audace e freschi tocchi di colore. La tomaia in morbida pelle e il design a T-toe mantengono il loro carattere classico. ESCI CON STILE CON LE SAMBAE W DI ADIDAS, DOVE IL DESIGN CLASSICO INCONTRA IL FASHION URBANO. PERFETTE PER LE AVVENTURE IN CITTÀ O LE USCITE CASUAL, QUESTE SCARPE CHIC ESALTANO QUALSIASI OUTFIT, OFFRENDO COMFORT E SOSTEGNO. VESTIBILITÀ REGOLARE CON CHIUSURA CON LACCI PER UNA CALZATA PERSONALIZZABILE TOMAIA IN PELLE RESISTENTE GARANTISCE UNA LUNGA DURATA FODERA IN TESSUTO E SINTETICO PER UN COMFORT AGGIUNTO SUOLA IN GOMMA OFFRE OTTIMA TRAZIONE E ADERENZA VERSATILE COLORAZIONE BIANCO, NERO E SEMCOR CHE SI ABBINA BENE A QUALSIASI GUARDAROBA ABBINA QUESTE SNEAKERS ELEGANTI AI TUOI JEANS PREFERITI O A UN ABITO CASUAL PER UN LOOK ALLA MODA E MOLTO COOL. ADIDAS È NOTA PER IL SUO IMPEGNO VERSO LA QUALITÀ E L'INNOVAZIONE NELLE CALZATURE SPORTIVE, IL CHE LA RENDONO UN MARCHIO DI CUI CI SI PUÒ FIDARE SIA PER LE PRESTAZIONI CHE PER LO STILE. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:46Z
+  Updated: 2026-04-20T21:55:28Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -9557,7 +9557,7 @@
     Availability: Available
     Price: 119,00 € EUR
 - [Adidas Sambae Dark Brown](https://vibesmilano.com/products/adidas-sambae-dark-brown): Sebbene introdotte decenni fa come scarpe da calcio indoor, le Samba hanno consolidato il loro ruolo di icona di stile grazie al loro design semplice ma elegante. Queste scarpe adidas rendono omaggio al passato, rivisitando il celebre design con una suola in gomma audace e freschi tocchi di colore. La tomaia in morbida pelle e il design a T-toe mantengono il loro carattere classico. ESCI CON STILE CON LE SAMBAE W DI ADIDAS, DOVE IL DESIGN CLASSICO INCONTRA IL FASHION URBANO. PERFETTE PER LE AVVENTURE IN CITTÀ O LE USCITE CASUAL, QUESTE SCARPE CHIC ESALTANO QUALSIASI OUTFIT, OFFRENDO COMFORT E SOSTEGNO. VESTIBILITÀ REGOLARE CON CHIUSURA CON LACCI PER UNA CALZATA PERSONALIZZABILE TOMAIA IN PELLE RESISTENTE GARANTISCE UNA LUNGA DURATA FODERA IN TESSUTO E SINTETICO PER UN COMFORT AGGIUNTO SUOLA IN GOMMA OFFRE OTTIMA TRAZIONE E ADERENZA VERSATILE COLORAZIONE BIANCO, NERO E SEMCOR CHE SI ABBINA BENE A QUALSIASI GUARDAROBA ABBINA QUESTE SNEAKERS ELEGANTI AI TUOI JEANS PREFERITI O A UN ABITO CASUAL PER UN LOOK ALLA MODA E MOLTO COOL. ADIDAS È NOTA PER IL SUO IMPEGNO VERSO LA QUALITÀ E L'INNOVAZIONE NELLE CALZATURE SPORTIVE, IL CHE LA RENDONO UN MARCHIO DI CUI CI SI PUÒ FIDARE SIA PER LE PRESTAZIONI CHE PER LO STILE. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:47Z
+  Updated: 2026-04-20T21:55:28Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -9590,7 +9590,7 @@
     Availability: Available
     Price: 119,00 € EUR
 - [Adidas Sambae blue suede](https://vibesmilano.com/products/adidas-sambae-blue-suede): Sebbene introdotte decenni fa come scarpe da calcio indoor, le Samba hanno consolidato il loro ruolo di icona di stile grazie al loro design semplice ma elegante. Queste scarpe adidas rendono omaggio al passato, rivisitando il celebre design con una suola in gomma audace e freschi tocchi di colore. La tomaia in morbida pelle e il design a T-toe mantengono il loro carattere classico. ESCI CON STILE CON LE SAMBAE W DI ADIDAS, DOVE IL DESIGN CLASSICO INCONTRA IL FASHION URBANO. PERFETTE PER LE AVVENTURE IN CITTÀ O LE USCITE CASUAL, QUESTE SCARPE CHIC ESALTANO QUALSIASI OUTFIT, OFFRENDO COMFORT E SOSTEGNO. VESTIBILITÀ REGOLARE CON CHIUSURA CON LACCI PER UNA CALZATA PERSONALIZZABILE TOMAIA IN PELLE RESISTENTE GARANTISCE UNA LUNGA DURATA FODERA IN TESSUTO E SINTETICO PER UN COMFORT AGGIUNTO SUOLA IN GOMMA OFFRE OTTIMA TRAZIONE E ADERENZA VERSATILE COLORAZIONE BIANCO, NERO E SEMCOR CHE SI ABBINA BENE A QUALSIASI GUARDAROBA ABBINA QUESTE SNEAKERS ELEGANTI AI TUOI JEANS PREFERITI O A UN ABITO CASUAL PER UN LOOK ALLA MODA E MOLTO COOL. ADIDAS È NOTA PER IL SUO IMPEGNO VERSO LA QUALITÀ E L'INNOVAZIONE NELLE CALZATURE SPORTIVE, IL CHE LA RENDONO UN MARCHIO DI CUI CI SI PUÒ FIDARE SIA PER LE PRESTAZIONI CHE PER LO STILE. NOTA: tempi di consegna 12-14 giorni lavorativi.
-  Updated: 2026-03-30T21:26:47Z
+  Updated: 2026-04-20T21:55:28Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -9638,7 +9638,7 @@
     Availability: Available
     Price: 119,00 € EUR
 - [Adidas Sambae beige verde](https://vibesmilano.com/products/adidas-sambae-blue-beige-verde): Sebbene introdotte decenni fa come scarpe da calcio indoor, le Samba hanno consolidato il loro ruolo di icona di stile grazie al loro design semplice ma elegante. Queste scarpe adidas rendono omaggio al passato, rivisitando il celebre design con una suola in gomma audace e freschi tocchi di colore. La tomaia in morbida pelle e il design a T-toe mantengono il loro carattere classico. ESCI CON STILE CON LE SAMBAE W DI ADIDAS, DOVE IL DESIGN CLASSICO INCONTRA IL FASHION URBANO. PERFETTE PER LE AVVENTURE IN CITTÀ O LE USCITE CASUAL, QUESTE SCARPE CHIC ESALTANO QUALSIASI OUTFIT, OFFRENDO COMFORT E SOSTEGNO. VESTIBILITÀ REGOLARE CON CHIUSURA CON LACCI PER UNA CALZATA PERSONALIZZABILE TOMAIA IN PELLE RESISTENTE GARANTISCE UNA LUNGA DURATA FODERA IN TESSUTO E SINTETICO PER UN COMFORT AGGIUNTO SUOLA IN GOMMA OFFRE OTTIMA TRAZIONE E ADERENZA VERSATILE COLORAZIONE BIANCO, NERO E SEMCOR CHE SI ABBINA BENE A QUALSIASI GUARDAROBA ABBINA QUESTE SNEAKERS ELEGANTI AI TUOI JEANS PREFERITI O A UN ABITO CASUAL PER UN LOOK ALLA MODA E MOLTO COOL. ADIDAS È NOTA PER IL SUO IMPEGNO VERSO LA QUALITÀ E L'INNOVAZIONE NELLE CALZATURE SPORTIVE, IL CHE LA RENDONO UN MARCHIO DI CUI CI SI PUÒ FIDARE SIA PER LE PRESTAZIONI CHE PER LO STILE. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 12-14 giorni lavorativi.
-  Updated: 2026-03-30T21:26:47Z
+  Updated: 2026-04-20T21:55:29Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -9686,7 +9686,7 @@
     Availability: Available
     Price: 119,00 € EUR
 - [Adidas Originals Campus 00s V2 W](https://vibesmilano.com/products/adidas-originals-campus-00s-v2-w): Scopri le sneaker Campus 00s Adidas Originals, dove passato e futuro si incontrano in uno stile unico. Ispirate agli anni '80 e all'era skate degli anni 2000, queste scarpe combinano una tomaia in suede vellutato, cuciture distintive e dettagli iconici come le 3 strisce seghettate e il logo Campus. I lacci ampi e il collarino imbottito offrono comfort e un tocco contemporaneo, rendendole perfette per le creator di oggi. Queste sneakers di Adidas sono perfette per distinguerti con un look senza tempo! Dettagli prodottoVestibilità regolareChiusura con lacciTomaia in suede e camoscio pelosoFodera in tessutoSuola in gomma NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:47Z
+  Updated: 2026-04-20T21:55:29Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -9716,7 +9716,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Sambae Grey Cloud White](https://vibesmilano.com/products/adidas-sambae-grey-cloud-white): Sebbene introdotte decenni fa come scarpe da calcio indoor, le Samba hanno consolidato il loro ruolo di icona di stile grazie al loro design semplice ma elegante. Queste scarpe adidas rendono omaggio al passato, rivisitando il celebre design con una suola in gomma audace e freschi tocchi di colore. La tomaia in morbida pelle e il design a T-toe mantengono il loro carattere classico. ESCI CON STILE CON LE SAMBAE W DI ADIDAS, DOVE IL DESIGN CLASSICO INCONTRA IL FASHION URBANO. PERFETTE PER LE AVVENTURE IN CITTÀ O LE USCITE CASUAL, QUESTE SCARPE CHIC ESALTANO QUALSIASI OUTFIT, OFFRENDO COMFORT E SOSTEGNO. VESTIBILITÀ REGOLARE CON CHIUSURA CON LACCI PER UNA CALZATA PERSONALIZZABILE TOMAIA IN PELLE RESISTENTE GARANTISCE UNA LUNGA DURATA FODERA IN TESSUTO E SINTETICO PER UN COMFORT AGGIUNTO SUOLA IN GOMMA OFFRE OTTIMA TRAZIONE E ADERENZA VERSATILE COLORAZIONE BIANCO, NERO E SEMCOR CHE SI ABBINA BENE A QUALSIASI GUARDAROBA ABBINA QUESTE SNEAKERS ELEGANTI AI TUOI JEANS PREFERITI O A UN ABITO CASUAL PER UN LOOK ALLA MODA E MOLTO COOL. ADIDAS È NOTA PER IL SUO IMPEGNO VERSO LA QUALITÀ E L'INNOVAZIONE NELLE CALZATURE SPORTIVE, IL CHE LA RENDONO UN MARCHIO DI CUI CI SI PUÒ FIDARE SIA PER LE PRESTAZIONI CHE PER LO STILE. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:47Z
+  Updated: 2026-04-20T21:55:30Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -9764,7 +9764,7 @@
     Availability: Available
     Price: 119,00 € EUR
 - [Adidas Sambae IG5745 W Silver Black (solo mercati esteri)](https://vibesmilano.com/products/adidas-sambae-ig5745-w-silver-black): Sebbene introdotte decenni fa come scarpe da calcio indoor, le Samba hanno consolidato il loro ruolo di icona di stile grazie al loro design semplice ma elegante. Queste scarpe adidas rendono omaggio al passato, rivisitando il celebre design con una suola in gomma audace e freschi tocchi di colore. La tomaia in morbida pelle e il design a T-toe mantengono il loro carattere classico. ESCI CON STILE CON LE SAMBAE W DI ADIDAS, DOVE IL DESIGN CLASSICO INCONTRA IL FASHION URBANO. PERFETTE PER LE AVVENTURE IN CITTÀ O LE USCITE CASUAL, QUESTE SCARPE CHIC ESALTANO QUALSIASI OUTFIT, OFFRENDO COMFORT E SOSTEGNO. VESTIBILITÀ REGOLARE CON CHIUSURA CON LACCI PER UNA CALZATA PERSONALIZZABILE TOMAIA IN PELLE RESISTENTE GARANTISCE UNA LUNGA DURATA FODERA IN TESSUTO E SINTETICO PER UN COMFORT AGGIUNTO SUOLA IN GOMMA OFFRE OTTIMA TRAZIONE E ADERENZA VERSATILE COLORAZIONE BIANCO, NERO E SEMCOR CHE SI ABBINA BENE A QUALSIASI GUARDAROBA ABBINA QUESTE SNEAKERS ELEGANTI AI TUOI JEANS PREFERITI O A UN ABITO CASUAL PER UN LOOK ALLA MODA E MOLTO COOL. ADIDAS È NOTA PER IL SUO IMPEGNO VERSO LA QUALITÀ E L'INNOVAZIONE NELLE CALZATURE SPORTIVE, IL CHE LA RENDONO UN MARCHIO DI CUI CI SI PUÒ FIDARE SIA PER LE PRESTAZIONI CHE PER LO STILE. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:48Z
+  Updated: 2026-04-20T21:55:30Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -9797,7 +9797,7 @@
     Availability: Available
     Price: 129,00 € EUR
 - [Adidas Sambae Magic Beige/Crystal Sand](https://vibesmilano.com/products/adidas-sambae-magic-beige-crystal-sand): Sebbene introdotte decenni fa come scarpe da calcio indoor, le Samba hanno consolidato il loro ruolo di icona di stile grazie al loro design semplice ma elegante. Queste scarpe adidas rendono omaggio al passato, rivisitando il celebre design con una suola in gomma audace e freschi tocchi di colore. La tomaia in morbida pelle e il design a T-toe mantengono il loro carattere classico. ESCI CON STILE CON LE SAMBAE W DI ADIDAS, DOVE IL DESIGN CLASSICO INCONTRA IL FASHION URBANO. PERFETTE PER LE AVVENTURE IN CITTÀ O LE USCITE CASUAL, QUESTE SCARPE CHIC ESALTANO QUALSIASI OUTFIT, OFFRENDO COMFORT E SOSTEGNO. VESTIBILITÀ REGOLARE CON CHIUSURA CON LACCI PER UNA CALZATA PERSONALIZZABILE TOMAIA IN PELLE RESISTENTE GARANTISCE UNA LUNGA DURATA FODERA IN TESSUTO E SINTETICO PER UN COMFORT AGGIUNTO SUOLA IN GOMMA OFFRE OTTIMA TRAZIONE E ADERENZA VERSATILE COLORAZIONE BIANCO, NERO E SEMCOR CHE SI ABBINA BENE A QUALSIASI GUARDAROBA ABBINA QUESTE SNEAKERS ELEGANTI AI TUOI JEANS PREFERITI O A UN ABITO CASUAL PER UN LOOK ALLA MODA E MOLTO COOL. ADIDAS È NOTA PER IL SUO IMPEGNO VERSO LA QUALITÀ E L'INNOVAZIONE NELLE CALZATURE SPORTIVE, IL CHE LA RENDONO UN MARCHIO DI CUI CI SI PUÒ FIDARE SIA PER LE PRESTAZIONI CHE PER LO STILE. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:48Z
+  Updated: 2026-04-20T21:55:30Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -9845,7 +9845,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [Adidas Sambae FU0666 Black (solo mercati esteri)](https://vibesmilano.com/products/adidas-sambae-fu0666-black-solo-mercati-esteri): Sebbene introdotte decenni fa come scarpe da calcio indoor, le Samba hanno consolidato il loro ruolo di icona di stile grazie al loro design semplice ma elegante. Queste scarpe adidas rendono omaggio al passato, rivisitando il celebre design con una suola in gomma audace e freschi tocchi di colore. La tomaia in morbida pelle e il design a T-toe mantengono il loro carattere classico. ESCI CON STILE CON LE SAMBAE W DI ADIDAS, DOVE IL DESIGN CLASSICO INCONTRA IL FASHION URBANO. PERFETTE PER LE AVVENTURE IN CITTÀ O LE USCITE CASUAL, QUESTE SCARPE CHIC ESALTANO QUALSIASI OUTFIT, OFFRENDO COMFORT E SOSTEGNO. VESTIBILITÀ REGOLARE CON CHIUSURA CON LACCI PER UNA CALZATA PERSONALIZZABILE TOMAIA IN PELLE RESISTENTE GARANTISCE UNA LUNGA DURATA FODERA IN TESSUTO E SINTETICO PER UN COMFORT AGGIUNTO SUOLA IN GOMMA OFFRE OTTIMA TRAZIONE E ADERENZA VERSATILE COLORAZIONE BIANCO, NERO E SEMCOR CHE SI ABBINA BENE A QUALSIASI GUARDAROBA. ABBINA QUESTE SNEAKERS ELEGANTI AI TUOI JEANS PREFERITI O A UN ABITO CASUAL PER UN LOOK ALLA MODA E MOLTO COOL. ADIDAS È NOTA PER IL SUO IMPEGNO VERSO LA QUALITÀ E L'INNOVAZIONE NELLE CALZATURE SPORTIVE, IL CHE LA RENDONO UN MARCHIO DI CUI CI SI PUÒ FIDARE SIA PER LE PRESTAZIONI CHE PER LO STILE. NOTA: Importiamo l'articolo direttamente dal produttore estero, per cui i tempi di consegna sono di 10-12 giorni.
-  Updated: 2026-03-30T21:26:48Z
+  Updated: 2026-04-20T21:55:31Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -9893,7 +9893,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [Nike Air Jordan 4 Retro White Oreo](https://vibesmilano.com/products/nike-air-jordan-4-retro-white): Le Air Jordan 4 portano un modello iconico a nuovi livelli di glamour. Realizzate in morbida pelle e materiali pregiati, ogni loro dettaglio è pensato per distinguersi. Accenti dorati, tra cui l'etichetta Jumpman rimovibile, aggiungono un tocco energico a una tomaia dalle linee pulite. I passalacci mobili assicurano una calzata stabile, mentre l'ammortizzazione Nike Air garantisce leggerezza alla scarpa. Sii sempre al centro dell'attenzione con le Air Jordan 4 Net. Caratteristiche Air Jordan 4 Tomaia in pelle vera e sintetica Accenti in tessuto Etichetta Jumpman rimovibile Passalacci mobili Ammortizzazione Nike Air Suola in gomma Noi di Vibes Milano lo importiamo direttamente e lo proponiamo al prezzo più basso del mercato. TEMPI DI CONSEGNA: 10-12 GIORNI
-  Updated: 2026-03-30T21:26:48Z
+  Updated: 2026-04-20T21:55:31Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -9935,7 +9935,7 @@
     Availability: Available
     Price: 220,00 € EUR
 - [Nike Air Jordan 4 Retro Net "Rattan"](https://vibesmilano.com/products/nike-air-jordan-4-retro-net-rattan): Le Air Jordan 4 portano un modello iconico a nuovi livelli di glamour. Realizzate in morbida pelle e materiali pregiati, ogni loro dettaglio è pensato per distinguersi. Accenti dorati, tra cui l'etichetta Jumpman rimovibile, aggiungono un tocco energico a una tomaia dalle linee pulite. I passalacci mobili assicurano una calzata stabile, mentre l'ammortizzazione Nike Air garantisce leggerezza alla scarpa. Sii sempre al centro dell'attenzione con le Air Jordan 4 Net. Caratteristiche Air Jordan 4 Tomaia in pelle vera e sintetica Accenti in tessuto Etichetta Jumpman rimovibile Passalacci mobili Ammortizzazione Nike Air Suola in gomma Noi di Vibes Milano lo importiamo direttamente e lo proponiamo al prezzo più basso del mercato. TEMPI DI CONSEGNA: 10-12 GIORNI
-  Updated: 2026-03-30T21:26:49Z
+  Updated: 2026-04-20T21:55:32Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -9998,7 +9998,7 @@
     Availability: Available
     Price: 220,00 € EUR
 - [New Balance NB 9060 Blacktop Dark Moss](https://vibesmilano.com/products/new-balance-nb-9060-blacktop-dark-moss): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Per la consegna occorrono 12-14 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine
-  Updated: 2026-03-30T21:26:49Z
+  Updated: 2026-04-20T21:55:32Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -10046,7 +10046,7 @@
     Availability: Available
     Price: 159,00 € EUR
 - [New Balance NB 9060 Magenta Men's](https://vibesmilano.com/products/new-balance-nb-9060-magenta-mens): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: 1) Prestare molta attenzione nella scelta del numero: le New Balance 9060 calzano piccolo, quindi consigliamo di scegliere un numero più grande (ad esempio se porti il 43 dovrai selezionare il 44) 2) A causa della forte richiesta dovuta alla promozione in corso, per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine
-  Updated: 2026-03-30T21:26:49Z
+  Updated: 2026-04-20T21:55:32Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -10094,7 +10094,7 @@
     Availability: Available
     Price: 145,00 € EUR
 - [New Balance NB 9060 Baby Shower Blue by Joe Freshgoods](https://vibesmilano.com/products/new-balance-nb-9060-baby-shower-blue-by-joe-freshgoods): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: TEMPI DI SPEDIZIONE: 12-14 GIORNI LAVORATIVI
-  Updated: 2026-03-30T21:26:50Z
+  Updated: 2026-04-20T21:55:33Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -10145,7 +10145,7 @@
     Availability: Available
     Price: 159,00 € EUR
 - [New Balance NB 9060 Grey Rain Cloud](https://vibesmilano.com/products/new-balance-nb-9060-gray-rain-cloud): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi dispedizione: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:26:50Z
+  Updated: 2026-04-20T21:55:33Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -10193,7 +10193,7 @@
     Availability: Available
     Price: 169,00 € EUR
 - [New Balance NB 9060 Workwear](https://vibesmilano.com/products/new-balance-nb-9060-workwear): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi dispedizione: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:26:50Z
+  Updated: 2026-04-20T21:55:34Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -10241,7 +10241,7 @@
     Availability: Available
     Price: 159,00 € EUR
 - [New Balance NB 9060 Natural Indigo](https://vibesmilano.com/products/new-balance-nb-9060-natural-indigo): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Per la consegna occorrono 12-14 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine
-  Updated: 2026-03-30T21:26:51Z
+  Updated: 2026-04-20T21:55:34Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -10289,7 +10289,7 @@
     Availability: Available
     Price: 159,00 € EUR
 - [New Balance NB 9060 Ivory Cream & Pink Sand](https://vibesmilano.com/products/new-balance-nb-9060-ivory-cream): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi di spedizione: 12-14 giorni lavorativi
-  Updated: 2026-04-09T15:07:34Z
+  Updated: 2026-04-20T21:55:35Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -10340,7 +10340,7 @@
     Availability: Available
     Price: 189,00 € EUR
 - [New Balance NB 9060 Grey Day 2023](https://vibesmilano.com/products/new-balance-nb-9060-grey-day-2023): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: 1) Prestare molta attenzione nella scelta del numero: le New Balance 9060 calzano piccolo, quindi consigliamo di scegliere un numero più grande (ad esempio se porti il 43 dovrai selezionare il 44) 2) A causa della forte richiesta dovuta alla promozione in corso, per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine
-  Updated: 2026-03-30T21:26:51Z
+  Updated: 2026-04-20T21:55:35Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -10388,7 +10388,7 @@
     Availability: Available
     Price: 145,00 € EUR
 - [New Balance NB 9060 Grey White](https://vibesmilano.com/products/new-balance-nb-9060-grey-white): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: per la consegna occorrono 12-14 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine
-  Updated: 2026-03-30T21:26:51Z
+  Updated: 2026-04-20T21:55:36Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -10436,7 +10436,7 @@
     Availability: Available
     Price: 169,00 € EUR
 - [New Balance NB 9060 Randomevent](https://vibesmilano.com/products/new-balance-nb-9060-randomevent): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: 1) Prestare molta attenzione nella scelta del numero: le New Balance 9060 calzano piccolo, quindi consigliamo di scegliere un numero più grande (ad esempio se porti il 43 dovrai selezionare il 44) 2) A causa della forte richiesta dovuta alla promozione in corso, per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine
-  Updated: 2026-03-30T21:26:52Z
+  Updated: 2026-04-20T21:55:36Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -10484,7 +10484,7 @@
     Availability: Available
     Price: 145,00 € EUR
 - [New Balance NB 9060 Inside Voices Penny Cookie by Joe Freshgoods](https://vibesmilano.com/products/new-balance-nb-9060-inside-voices-penny-cookie-by-joe-freshgoods): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi di spedizione: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:26:52Z
+  Updated: 2026-04-20T21:55:37Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -10534,56 +10534,8 @@
   - [45](https://vibesmilano.com/products/new-balance-nb-9060-inside-voices-penny-cookie-by-joe-freshgoods?variant=50836177092949)
     Availability: Available
     Price: 179,00 € EUR
-- [New Balance NB 9060 NB9 Violet by Joe Freshgoods](https://vibesmilano.com/products/new-balance-nb-9060-nb9-violet-by-joe-freshgoods): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: 1) Prestare molta attenzione nella scelta del numero: le New Balance 9060 calzano piccolo, quindi consigliamo di scegliere un numero più grande (ad esempio se porti il 43 dovrai selezionare il 44) 2) A causa della forte richiesta dovuta alla promozione in corso, per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine
-  Updated: 2026-03-30T21:26:52Z
-  Vendor: VIBES MILANO
-  Product Type: Sneakers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0908/7411/8485/files/1_7a283c17-bdc8-43e5-8a7f-aa7fd12df76a.jpg?v=1748195923
-  - [36](https://vibesmilano.com/products/new-balance-nb-9060-nb9-violet-by-joe-freshgoods?variant=50836183744853)
-    Availability: Available
-    Price: 145,00 € EUR
-  - [37](https://vibesmilano.com/products/new-balance-nb-9060-nb9-violet-by-joe-freshgoods?variant=50836183777621)
-    Availability: Available
-    Price: 145,00 € EUR
-  - [38](https://vibesmilano.com/products/new-balance-nb-9060-nb9-violet-by-joe-freshgoods?variant=50836183810389)
-    Availability: Available
-    Price: 145,00 € EUR
-  - [38,5](https://vibesmilano.com/products/new-balance-nb-9060-nb9-violet-by-joe-freshgoods?variant=50836183843157)
-    Availability: Available
-    Price: 145,00 € EUR
-  - [39](https://vibesmilano.com/products/new-balance-nb-9060-nb9-violet-by-joe-freshgoods?variant=50836183875925)
-    Availability: Available
-    Price: 145,00 € EUR
-  - [40](https://vibesmilano.com/products/new-balance-nb-9060-nb9-violet-by-joe-freshgoods?variant=50836183908693)
-    Availability: Available
-    Price: 145,00 € EUR
-  - [40,5](https://vibesmilano.com/products/new-balance-nb-9060-nb9-violet-by-joe-freshgoods?variant=50836183941461)
-    Availability: Available
-    Price: 145,00 € EUR
-  - [41,5](https://vibesmilano.com/products/new-balance-nb-9060-nb9-violet-by-joe-freshgoods?variant=50836183974229)
-    Availability: Available
-    Price: 145,00 € EUR
-  - [42](https://vibesmilano.com/products/new-balance-nb-9060-nb9-violet-by-joe-freshgoods?variant=50836184006997)
-    Availability: Available
-    Price: 145,00 € EUR
-  - [42,5](https://vibesmilano.com/products/new-balance-nb-9060-nb9-violet-by-joe-freshgoods?variant=50836184039765)
-    Availability: Available
-    Price: 145,00 € EUR
-  - [43](https://vibesmilano.com/products/new-balance-nb-9060-nb9-violet-by-joe-freshgoods?variant=50836184072533)
-    Availability: Available
-    Price: 145,00 € EUR
-  - [44](https://vibesmilano.com/products/new-balance-nb-9060-nb9-violet-by-joe-freshgoods?variant=50836184105301)
-    Availability: Available
-    Price: 145,00 € EUR
-  - [44,5](https://vibesmilano.com/products/new-balance-nb-9060-nb9-violet-by-joe-freshgoods?variant=50836184138069)
-    Availability: Available
-    Price: 145,00 € EUR
-  - [45](https://vibesmilano.com/products/new-balance-nb-9060-nb9-violet-by-joe-freshgoods?variant=50836184170837)
-    Availability: Available
-    Price: 145,00 € EUR
 - [New Balance NB 9060 GBN Red Blue](https://vibesmilano.com/products/new-balance-nb-9060-gbn-red-blue): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi dispedizione: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:26:52Z
+  Updated: 2026-04-20T21:55:37Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -10631,7 +10583,7 @@
     Availability: Available
     Price: 159,00 € EUR
 - [New Balance NB 9060 Lunar New Year](https://vibesmilano.com/products/new-balance-nb-9060-lunar-new-year): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi di spedizione: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:26:53Z
+  Updated: 2026-04-20T21:55:38Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -10685,7 +10637,7 @@
     Availability: Available
     Price: 179,00 € EUR
 - [New Balance NB 9060 Rich Oack Burgundy Pink](https://vibesmilano.com/products/new-balance-nb-9060-burgundy-pink): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi di spedizione: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:26:53Z
+  Updated: 2026-04-20T21:55:38Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -10736,7 +10688,7 @@
     Availability: Available
     Price: 179,00 € EUR
 - [New Balance NB 9060 DGG Glow](https://vibesmilano.com/products/new-balance-nb-9060-dgg-glow): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: 1) Prestare molta attenzione nella scelta del numero: le New Balance 9060 calzano piccolo, quindi consigliamo di scegliere un numero più grande (ad esempio se porti il 43 dovrai selezionare il 44) 2) A causa della forte richiesta dovuta alla promozione in corso, per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine
-  Updated: 2026-03-30T21:26:53Z
+  Updated: 2026-04-20T21:55:39Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -10784,7 +10736,7 @@
     Availability: Available
     Price: 145,00 € EUR
 - [New Balance NB 9060 Bodega Age of Discovery](https://vibesmilano.com/products/new-balance-nb-9060-age-of-discovery): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 La Bodega x New Balance 9060 "Age of Discovery" trae ispirazione dalle prime esplorazioni degli europei durante il Rinascimento. La scarpa da running richiama i dettagli dei modelli 860v2, 991 e 99X con una tomaia blu pallido che si abbina a mesh e rivestimenti che includono pelle scamosciata marrone sull'avampiede e pelle scamosciata marrone chiaro pelosa sulla linguetta e sulla linguetta del tallone. Il marchio è composto da NB 9060 in giallo brillante sulla linguetta e dalla caratteristica "N" in argento. L'intersuola con ammortizzazione ABZORB e SBS poggia su una suola in gomma per comfort e trazione ottimali. NOTA BENE: A causa della forte richiesta dovuta alla promozione in corso, per la consegna occorrono 12-14 giorni lavorativi mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine
-  Updated: 2026-03-30T21:26:53Z
+  Updated: 2026-04-20T21:55:39Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -10832,7 +10784,7 @@
     Availability: Available
     Price: 179,00 € EUR
 - [New Balance NB 9060 Turtledove Black](https://vibesmilano.com/products/new-balance-nb-9060-turtledove-black): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi dispedizione: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:26:54Z
+  Updated: 2026-04-20T21:55:39Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -10879,8 +10831,8 @@
   - [45](https://vibesmilano.com/products/new-balance-nb-9060-turtledove-black?variant=50836266877269)
     Availability: Available
     Price: 169,00 € EUR
-- [New Balance NB 9060 Prism Violet](https://vibesmilano.com/products/new-balance-nb-9060-prism-violet): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Importiamo l'articolo direttamente dal distributore estero, pertanto per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:26:54Z
+- [New Balance NB 9060 Prism Violet](https://vibesmilano.com/products/new-balance-nb-9060-prism-violet): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: TEMPI DI SPEDIZIONE: 12-14 GIORNI LAVORATIVI
+  Updated: 2026-04-20T21:55:40Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -10928,58 +10880,58 @@
     Availability: Available
     Price: 145,00 € EUR
 - [New Balance NB 9060 Pink Lavender](https://vibesmilano.com/products/new-balance-nb-9060-pink-lavender): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi dispedizione: 12-14 giorni lavorativi
-  Updated: 2026-04-05T23:49:55Z
+  Updated: 2026-04-21T07:49:51Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0908/7411/8485/files/1_5dd28d0e-2da4-470a-97ed-bc30a55b2f23.jpg?v=1748198415
   - [36](https://vibesmilano.com/products/new-balance-nb-9060-pink-lavender?variant=50836328284501)
     Availability: Available
-    Price: 159,00 € EUR
+    Price: 169,00 € EUR
   - [37](https://vibesmilano.com/products/new-balance-nb-9060-pink-lavender?variant=50836328317269)
     Availability: Available
-    Price: 159,00 € EUR
+    Price: 169,00 € EUR
   - [38](https://vibesmilano.com/products/new-balance-nb-9060-pink-lavender?variant=50836328350037)
     Availability: Available
-    Price: 159,00 € EUR
+    Price: 169,00 € EUR
   - [38,5](https://vibesmilano.com/products/new-balance-nb-9060-pink-lavender?variant=50836328382805)
     Availability: Available
-    Price: 159,00 € EUR
+    Price: 169,00 € EUR
   - [39](https://vibesmilano.com/products/new-balance-nb-9060-pink-lavender?variant=50836328415573)
     Availability: Available
-    Price: 159,00 € EUR
+    Price: 169,00 € EUR
   - [40](https://vibesmilano.com/products/new-balance-nb-9060-pink-lavender?variant=50836328448341)
     Availability: Available
-    Price: 159,00 € EUR
+    Price: 169,00 € EUR
   - [40,5](https://vibesmilano.com/products/new-balance-nb-9060-pink-lavender?variant=50836328481109)
     Availability: Available
-    Price: 159,00 € EUR
+    Price: 169,00 € EUR
   - [41,5](https://vibesmilano.com/products/new-balance-nb-9060-pink-lavender?variant=50836328513877)
     Availability: Available
-    Price: 159,00 € EUR
+    Price: 169,00 € EUR
   - [42](https://vibesmilano.com/products/new-balance-nb-9060-pink-lavender?variant=50836328546645)
     Availability: Available
-    Price: 159,00 € EUR
+    Price: 169,00 € EUR
   - [42,5](https://vibesmilano.com/products/new-balance-nb-9060-pink-lavender?variant=50836328579413)
     Availability: Available
-    Price: 159,00 € EUR
+    Price: 169,00 € EUR
   - [43](https://vibesmilano.com/products/new-balance-nb-9060-pink-lavender?variant=50836328612181)
     Availability: Available
-    Price: 159,00 € EUR
+    Price: 169,00 € EUR
   - [44](https://vibesmilano.com/products/new-balance-nb-9060-pink-lavender?variant=50836328644949)
     Availability: Available
-    Price: 159,00 € EUR
+    Price: 169,00 € EUR
   - [44,5](https://vibesmilano.com/products/new-balance-nb-9060-pink-lavender?variant=50836328677717)
     Availability: Available
-    Price: 159,00 € EUR
+    Price: 169,00 € EUR
   - [45](https://vibesmilano.com/products/new-balance-nb-9060-pink-lavender?variant=50836328710485)
     Availability: Available
-    Price: 159,00 € EUR
+    Price: 169,00 € EUR
   - [46,5](https://vibesmilano.com/products/new-balance-nb-9060-pink-lavender?variant=50836339851605)
     Availability: Available
-    Price: 159,00 € EUR
+    Price: 169,00 € EUR
 - [New Balance NB 9060 Vashed Burgundy](https://vibesmilano.com/products/new-balance-nb-9060-vashed-burgundy): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi di spedizione: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:26:54Z
+  Updated: 2026-04-20T21:55:41Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -11036,7 +10988,7 @@
     Availability: Available
     Price: 159,00 € EUR
 - [New Balance NB 9060 Nightwatch Purple](https://vibesmilano.com/products/new-balance-nb-9060-nightwatch-purple): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Importiamo l'articolo direttamente dal distributore estero, pertanto per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-04-05T07:50:45Z
+  Updated: 2026-04-20T21:55:42Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -11084,7 +11036,7 @@
     Availability: Available
     Price: 145,00 € EUR
 - [New Balance NB 9060 White Taro](https://vibesmilano.com/products/new-balance-nb-9060-white-taro): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Importiamo l'articolo direttamente dal distributore estero, pertanto per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:26:55Z
+  Updated: 2026-04-20T21:55:42Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -11135,7 +11087,7 @@
     Availability: Not Available
     Price: 145,00 € EUR
 - [New Balance NB 9060 Mushroom Timberwolf](https://vibesmilano.com/products/new-balance-nb-9060-mushroom-timberwolf): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi dispedizione: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:26:55Z
+  Updated: 2026-04-20T21:55:43Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -11183,7 +11135,7 @@
     Availability: Available
     Price: 169,00 € EUR
 - [New Balance NB 9060 EEB Moonrock](https://vibesmilano.com/products/new-balance-nb-9060-eeb-moonrock): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi dispedizione: 12-14 giorni lavorativi
-  Updated: 2026-03-30T21:26:55Z
+  Updated: 2026-04-20T21:55:44Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -11231,7 +11183,7 @@
     Availability: Available
     Price: 159,00 € EUR
 - [New Balance NB 9060 The Whitaker Group Missing Pieces Silver Moss Green](https://vibesmilano.com/products/new-balance-nb-9060-the-whitaker-group-missing-pieces-silver-moss-green): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Importiamo l'articolo direttamente dal distributore estero, pertanto per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:26:56Z
+  Updated: 2026-04-20T21:55:44Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -11279,7 +11231,7 @@
     Availability: Available
     Price: 145,00 € EUR
 - [New Balance NB 9060 Outerspace](https://vibesmilano.com/products/new-balance-nb-9060-outerspace): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Importiamo l'articolo direttamente dal distributore estero, pertanto per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:26:56Z
+  Updated: 2026-04-20T21:55:45Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -11327,7 +11279,7 @@
     Availability: Available
     Price: 145,00 € EUR
 - [New Balance NB 9060 Sea Salt White](https://vibesmilano.com/products/new-balance-nb-9060-sea-salt-brown-white): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi di consegna: 10-12 giorni. Si prega di tenerne in considerazione quando si effettua l'ordine
-  Updated: 2026-03-30T21:26:56Z
+  Updated: 2026-04-20T21:55:45Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -11378,7 +11330,7 @@
     Availability: Available
     Price: 169,00 € EUR
 - [New Balance NB 9060 Blue Agate](https://vibesmilano.com/products/new-balance-nb-9060-blue-agate): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: 1) Prestare molta attenzione nella scelta del numero: le New Balance 9060 calzano piccolo, quindi consigliamo di scegliere un numero più grande (ad esempio se porti il 43 dovrai selezionare il 44) 2) Tempi di consegna: 10-12 giorni. Si prega di tenerne in considerazione quando si effettua l'ordine
-  Updated: 2026-03-30T21:26:56Z
+  Updated: 2026-04-20T21:55:45Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -11429,7 +11381,7 @@
     Availability: Available
     Price: 145,00 € EUR
 - [New Balance NB 9060 Beef and Broccoli](https://vibesmilano.com/products/new-balance-nb-9060-beef-and-broccoli): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi di consegna: 10-12 giorni. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:26:57Z
+  Updated: 2026-04-20T21:55:46Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -11483,7 +11435,7 @@
     Availability: Available
     Price: 169,00 € EUR
 - [New Balance NB 9060 Boston College](https://vibesmilano.com/products/new-balance-nb-9060-boston-college): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi di consegna: 12-14 giorni lavorativi. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-03-30T21:26:57Z
+  Updated: 2026-04-20T21:55:46Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -11536,283 +11488,340 @@
   - [46,5](https://vibesmilano.com/products/new-balance-nb-9060-boston-college?variant=50840343937365)
     Availability: Available
     Price: 159,00 € EUR
-[List Continued](https://vibesmilano.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5OTU1NTQxMjg3MjUzLCJsYXN0X3ZhbHVlIjoiOTk1NTU0MTI4NzI1MyJ9)
+- [New Balance NB 9060 Fire Sign](https://vibesmilano.com/products/new-balance-nb-9060-fire-sign): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: Tempi di consegna: 10-12 giorni. Si prega di tenerne in considerazione quando si effettua l'ordine.
+  Updated: 2026-04-20T21:55:47Z
+  Vendor: VIBES MILANO
+  Product Type: Sneakers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0908/7411/8485/files/1_15bfcf2f-0f5d-4ae8-a8ff-e44c94790087.jpg?v=1748277384
+  - [36](https://vibesmilano.com/products/new-balance-nb-9060-fire-sign?variant=50840378409301)
+    Availability: Available
+    Price: 145,00 € EUR
+  - [37](https://vibesmilano.com/products/new-balance-nb-9060-fire-sign?variant=50840378442069)
+    Availability: Available
+    Price: 145,00 € EUR
+  - [37,5](https://vibesmilano.com/products/new-balance-nb-9060-fire-sign?variant=50840378474837)
+    Availability: Available
+    Price: 145,00 € EUR
+  - [38](https://vibesmilano.com/products/new-balance-nb-9060-fire-sign?variant=50840378507605)
+    Availability: Available
+    Price: 145,00 € EUR
+  - [38,5](https://vibesmilano.com/products/new-balance-nb-9060-fire-sign?variant=50840378540373)
+    Availability: Available
+    Price: 145,00 € EUR
+  - [39](https://vibesmilano.com/products/new-balance-nb-9060-fire-sign?variant=50840378573141)
+    Availability: Available
+    Price: 145,00 € EUR
+  - [40](https://vibesmilano.com/products/new-balance-nb-9060-fire-sign?variant=50840378605909)
+    Availability: Available
+    Price: 145,00 € EUR
+  - [40,5](https://vibesmilano.com/products/new-balance-nb-9060-fire-sign?variant=50840378638677)
+    Availability: Available
+    Price: 145,00 € EUR
+  - [41](https://vibesmilano.com/products/new-balance-nb-9060-fire-sign?variant=50840378671445)
+    Availability: Available
+    Price: 145,00 € EUR
+  - [42](https://vibesmilano.com/products/new-balance-nb-9060-fire-sign?variant=50840378704213)
+    Availability: Available
+    Price: 145,00 € EUR
+  - [42,5](https://vibesmilano.com/products/new-balance-nb-9060-fire-sign?variant=50840378736981)
+    Availability: Available
+    Price: 145,00 € EUR
+  - [43](https://vibesmilano.com/products/new-balance-nb-9060-fire-sign?variant=50840378769749)
+    Availability: Available
+    Price: 145,00 € EUR
+  - [44](https://vibesmilano.com/products/new-balance-nb-9060-fire-sign?variant=50840378802517)
+    Availability: Available
+    Price: 145,00 € EUR
+  - [44,5](https://vibesmilano.com/products/new-balance-nb-9060-fire-sign?variant=50840378835285)
+    Availability: Available
+    Price: 145,00 € EUR
+  - [45](https://vibesmilano.com/products/new-balance-nb-9060-fire-sign?variant=50840378868053)
+    Availability: Available
+    Price: 145,00 € EUR
+  - [46,5](https://vibesmilano.com/products/new-balance-nb-9060-fire-sign?variant=50840378900821)
+    Availability: Available
+    Price: 145,00 € EUR
+[List Continued](https://vibesmilano.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5OTU1NTQ4ODg5NDI5LCJsYXN0X3ZhbHVlIjoiOTk1NTU0ODg4OTQyOSJ9)
 
 ## Collections
 
 - [Sneakers](https://vibesmilano.com/collections/sneakers)
-  Updated: 2026-04-10T11:23:36Z
-  Total Products: 1085
+  Updated: 2026-04-22T11:21:49Z
+  Total Products: 1118
 - [Profumi di nicchia](https://vibesmilano.com/collections/profumi): Profumi arabi di nicchia
-  Updated: 2026-03-30T21:25:45Z
+  Updated: 2026-04-20T21:52:00Z
   Total Products: 16
 - [Scarpe](https://vibesmilano.com/collections/scarpe): Scarpe uomo e donna dei migliori brand
-  Updated: 2026-04-10T11:23:36Z
-  Total Products: 795
+  Updated: 2026-04-22T11:21:49Z
+  Total Products: 824
 - [New Balance](https://vibesmilano.com/collections/new-balance)
-  Updated: 2026-04-10T11:23:36Z
-  Total Products: 244
+  Updated: 2026-04-21T16:15:22Z
+  Total Products: 249
 - [Nike](https://vibesmilano.com/collections/nike): sneakers Nike
-  Updated: 2026-04-07T11:22:34Z
+  Updated: 2026-04-20T21:52:02Z
   Total Products: 200
 - [Adidas](https://vibesmilano.com/collections/adidas-sneakers): SNEAKERS ADIDAS
-  Updated: 2026-03-30T21:25:46Z
-  Total Products: 116
+  Updated: 2026-04-23T11:22:59Z
+  Total Products: 127
 - [PUMA](https://vibesmilano.com/collections/puma): SNEAKERS PUMA SPEEDCAT
-  Updated: 2026-03-30T21:25:46Z
+  Updated: 2026-04-20T21:52:02Z
   Total Products: 8
 - [MIU MIU](https://vibesmilano.com/collections/miu-miu): SNEAKERS MIU MIU
-  Updated: 2026-03-30T21:25:46Z
+  Updated: 2026-04-20T21:52:03Z
   Total Products: 4
 - [MONCLER](https://vibesmilano.com/collections/moncler): SNEAKERS MONCLER
-  Updated: 2026-03-30T21:25:46Z
+  Updated: 2026-04-20T21:52:03Z
   Total Products: 35
 - [DSQUARED2](https://vibesmilano.com/collections/dsquared2): SNEAKERS DSQUARED2
-  Updated: 2026-03-30T21:25:46Z
+  Updated: 2026-04-20T21:52:04Z
   Total Products: 5
 - [THOM BROWNE](https://vibesmilano.com/collections/thom-browne): SNEAKERS THOM BROWNE
-  Updated: 2026-03-30T21:25:46Z
+  Updated: 2026-04-20T21:52:05Z
   Total Products: 2
 - [HOKA](https://vibesmilano.com/collections/hoka): SNEAKERS DA RUNNING HOKA
-  Updated: 2026-03-30T21:25:46Z
+  Updated: 2026-04-20T21:52:05Z
   Total Products: 34
 - [NB 9060](https://vibesmilano.com/collections/nb-9060)
-  Updated: 2026-04-10T11:23:36Z
-  Total Products: 157
+  Updated: 2026-04-21T16:15:22Z
+  Total Products: 162
 - [NB 530](https://vibesmilano.com/collections/nb-530)
-  Updated: 2026-03-30T21:25:46Z
+  Updated: 2026-04-20T21:52:05Z
   Total Products: 10
 - [NB 1000](https://vibesmilano.com/collections/nb-1000)
-  Updated: 2026-03-30T21:25:46Z
+  Updated: 2026-04-20T21:52:06Z
   Total Products: 5
 - [STAN SMITH](https://vibesmilano.com/collections/stan-smith)
-  Updated: 2026-03-30T21:25:46Z
+  Updated: 2026-04-20T21:52:06Z
   Total Products: 3
 - [SUPERSTAR](https://vibesmilano.com/collections/superstar)
-  Updated: 2026-03-30T21:25:46Z
+  Updated: 2026-04-20T21:52:06Z
   Total Products: 22
 - [GAZELLE](https://vibesmilano.com/collections/gazelle)
-  Updated: 2026-03-30T21:25:46Z
-  Total Products: 31
+  Updated: 2026-04-20T21:52:06Z
+  Total Products: 32
 - [GAZELLE BOLD](https://vibesmilano.com/collections/gazelle-bold)
-  Updated: 2026-03-30T21:25:46Z
+  Updated: 2026-04-20T21:52:06Z
   Total Products: 20
 - [AIR MAX 97](https://vibesmilano.com/collections/air-max-97)
-  Updated: 2026-03-30T21:25:46Z
+  Updated: 2026-04-20T21:52:07Z
   Total Products: 33
 - [AIR FORCE 1](https://vibesmilano.com/collections/air-force-1)
-  Updated: 2026-04-05T11:24:50Z
+  Updated: 2026-04-20T21:52:07Z
   Total Products: 46
 - [AIR JORDAN 4](https://vibesmilano.com/collections/air-jordan-4)
-  Updated: 2026-03-30T21:25:47Z
+  Updated: 2026-04-20T21:52:07Z
   Total Products: 22
 - [NEW DUNK](https://vibesmilano.com/collections/new-dunk)
-  Updated: 2026-03-30T21:25:47Z
+  Updated: 2026-04-20T21:52:07Z
   Total Products: 15
 - [CAMPUS](https://vibesmilano.com/collections/campus)
-  Updated: 2026-03-30T21:25:47Z
+  Updated: 2026-04-20T21:52:07Z
   Total Products: 23
 - [SAMBA](https://vibesmilano.com/collections/samba)
-  Updated: 2026-03-30T21:25:47Z
+  Updated: 2026-04-20T21:52:08Z
   Total Products: 18
 - [Cinture](https://vibesmilano.com/collections/cinture)
-  Updated: 2026-03-30T21:25:47Z
+  Updated: 2026-04-20T21:52:09Z
   Total Products: 8
 - [BROOKS](https://vibesmilano.com/collections/brooks): Scarpe da running
-  Updated: 2026-03-30T21:25:47Z
+  Updated: 2026-04-20T21:52:09Z
   Total Products: 28
 - [Bambino](https://vibesmilano.com/collections/bambino): Scarpe bambino
-  Updated: 2026-03-30T21:25:47Z
+  Updated: 2026-04-20T21:52:09Z
   Total Products: 15
 - [M1906R](https://vibesmilano.com/collections/m1906r): Sneakers New Balance M1906R
-  Updated: 2026-03-30T21:25:47Z
+  Updated: 2026-04-20T21:52:10Z
   Total Products: 20
 - [ASICS GEL KAYANO 14](https://vibesmilano.com/collections/asics-gel-kayano-14)
-  Updated: 2026-03-30T21:25:47Z
+  Updated: 2026-04-20T21:52:10Z
   Total Products: 11
 - [ASICS GEL NYC](https://vibesmilano.com/collections/asics-gel-nyc): Sneakers ASICS gel NYC
-  Updated: 2026-04-07T11:22:34Z
+  Updated: 2026-04-20T21:52:10Z
   Total Products: 4
 - [GUCCI](https://vibesmilano.com/collections/gucci)
-  Updated: 2026-03-30T21:25:47Z
-  Total Products: 12
+  Updated: 2026-04-20T21:52:10Z
+  Total Products: 17
 - [PRADA](https://vibesmilano.com/collections/prada)
-  Updated: 2026-03-30T21:25:47Z
+  Updated: 2026-04-20T21:52:10Z
   Total Products: 11
 - [Alexander McQueen](https://vibesmilano.com/collections/alexander-mcqueen): Sneakers Alexander McQueen
-  Updated: 2026-03-30T21:25:47Z
+  Updated: 2026-04-20T21:52:11Z
   Total Products: 20
 - [ON CLOUD RUNNING](https://vibesmilano.com/collections/on-cloud-running): Scarpe da running
-  Updated: 2026-03-30T21:25:47Z
-  Total Products: 41
+  Updated: 2026-04-22T11:21:49Z
+  Total Products: 58
 - [Air Max Dn8](https://vibesmilano.com/collections/air-max-dn8): Sneakers Nike Air Max Dn8
-  Updated: 2026-03-30T21:25:47Z
+  Updated: 2026-04-20T21:52:11Z
   Total Products: 7
 - [Nike Air Jordan 1 Retro OG](https://vibesmilano.com/collections/nike-air-jordan-1-retro-og)
-  Updated: 2026-03-30T21:25:47Z
+  Updated: 2026-04-20T21:52:12Z
   Total Products: 3
 - [Salomon XT](https://vibesmilano.com/collections/salomon-xt)
-  Updated: 2026-03-30T21:25:47Z
+  Updated: 2026-04-20T21:52:12Z
   Total Products: 17
 - [Balenciaga](https://vibesmilano.com/collections/balenciaga): Sneakers Balenciaga
-  Updated: 2026-03-30T21:25:48Z
+  Updated: 2026-04-20T21:52:13Z
   Total Products: 43
 - [Golden Goose](https://vibesmilano.com/collections/golden-goose): Sneakers Golden Goose
-  Updated: 2026-03-30T21:25:48Z
+  Updated: 2026-04-20T21:52:13Z
   Total Products: 26
 - [OFF-WHITE](https://vibesmilano.com/collections/off-white): Sneakers Off-White
-  Updated: 2026-03-30T21:25:48Z
+  Updated: 2026-04-20T21:52:13Z
   Total Products: 35
 - [Air Jordan 1](https://vibesmilano.com/collections/air-jordan-1): Nike Air Jordan 1
-  Updated: 2026-03-30T21:25:48Z
+  Updated: 2026-04-20T21:52:13Z
   Total Products: 5
 - [Asics gel quantum kinetic](https://vibesmilano.com/collections/asics-gel-quantum-kinetic): Sneakers ASICS gel Quantum Kinetic
-  Updated: 2026-03-30T21:25:48Z
+  Updated: 2026-04-20T21:52:13Z
   Total Products: 3
 - [Asics gel Quantum 360 VIII](https://vibesmilano.com/collections/asics-gel-quantum-360-viii)
-  Updated: 2026-03-30T21:25:48Z
+  Updated: 2026-04-20T21:52:14Z
   Total Products: 3
 - [Adidas Adizero EVO SL](https://vibesmilano.com/collections/adidas-adizero-evo-sl): Scarpa Running e tempo libero
-  Updated: 2026-03-30T21:25:48Z
+  Updated: 2026-04-20T21:52:15Z
   Total Products: 9
 - [Maison Mihara Yasuhiro](https://vibesmilano.com/collections/maison-mihara-yasuhiro): Sneakers Maison Mihara Yasuhiro
-  Updated: 2026-03-30T21:25:48Z
+  Updated: 2026-04-20T21:52:15Z
   Total Products: 5
 - [Premiata](https://vibesmilano.com/collections/premiata): Sneakers Premiata
-  Updated: 2026-03-30T21:25:48Z
+  Updated: 2026-04-20T21:52:16Z
   Total Products: 49
 - [Yeezy](https://vibesmilano.com/collections/yeezy): Sneakers Yeezy
-  Updated: 2026-03-30T21:25:48Z
+  Updated: 2026-04-20T21:52:16Z
   Total Products: 12
 - [The North Face](https://vibesmilano.com/collections/the-north-face)
-  Updated: 2026-03-30T21:25:48Z
+  Updated: 2026-04-20T21:52:16Z
   Total Products: 9
 - [Amiri](https://vibesmilano.com/collections/amiri): Amiri sneakers
-  Updated: 2026-03-30T21:25:48Z
+  Updated: 2026-04-20T21:52:17Z
   Total Products: 10
 - [Collane preziose in titanio](https://vibesmilano.com/collections/collane-preziose-in-titanio): Collane in titanio realizzate con pietre preziose
-  Updated: 2026-03-30T21:25:48Z
+  Updated: 2026-04-20T21:52:17Z
   Total Products: 12
 - [Borse](https://vibesmilano.com/collections/borse): Borse di lusso
-  Updated: 2026-03-30T21:25:48Z
+  Updated: 2026-04-20T21:52:18Z
   Total Products: 23
 - [Christian Louboutin](https://vibesmilano.com/collections/christian-louboutin): Sneakers Louboutin
-  Updated: 2026-03-30T21:25:48Z
+  Updated: 2026-04-20T21:52:18Z
   Total Products: 4
 - [Rick Owens](https://vibesmilano.com/collections/rick-owens): Sneakers di lusso Rick Owens
-  Updated: 2026-03-30T21:25:48Z
+  Updated: 2026-04-20T21:52:19Z
   Total Products: 5
 - [Balmain](https://vibesmilano.com/collections/balmain): Sneakers Balmain
-  Updated: 2026-03-30T21:25:48Z
+  Updated: 2026-04-20T21:52:19Z
   Total Products: 5
 - [Autry](https://vibesmilano.com/collections/autry): Sneakers di lusso
-  Updated: 2026-03-30T21:25:48Z
+  Updated: 2026-04-20T21:52:20Z
   Total Products: 5
 - [MLB](https://vibesmilano.com/collections/mlb): Sneakers chunky
-  Updated: 2026-03-30T21:25:49Z
+  Updated: 2026-04-20T21:52:20Z
   Total Products: 9
 - [Louis Vuitton](https://vibesmilano.com/collections/louis-vuitton): Skeakers Louis Vuitton
-  Updated: 2026-03-30T21:25:49Z
+  Updated: 2026-04-20T21:52:20Z
   Total Products: 3
 - [Dr.Martens](https://vibesmilano.com/collections/dr-martens): Stivali e anfibi Dr.Martens
-  Updated: 2026-03-30T21:25:49Z
+  Updated: 2026-04-20T21:52:21Z
   Total Products: 6
 - [A Bathing Ape](https://vibesmilano.com/collections/a-bathing-ape): Sneakers Bape
-  Updated: 2026-03-30T21:25:49Z
+  Updated: 2026-04-20T21:52:21Z
   Total Products: 7
 - [Giubbotti e giacconi](https://vibesmilano.com/collections/giubbotti-e-giacconi)
-  Updated: 2026-04-02T17:18:35Z
+  Updated: 2026-04-20T21:52:21Z
   Total Products: 11
 - [Ugg](https://vibesmilano.com/collections/ugg): stivaletti Ugg
-  Updated: 2026-03-30T21:25:49Z
+  Updated: 2026-04-20T21:52:21Z
   Total Products: 16
 - [Converse](https://vibesmilano.com/collections/converse)
-  Updated: 2026-03-30T21:25:49Z
+  Updated: 2026-04-20T21:52:22Z
   Total Products: 4
 - [Vessel](https://vibesmilano.com/collections/vessel)
-  Updated: 2026-03-30T21:25:49Z
+  Updated: 2026-04-20T21:52:22Z
   Total Products: 3
 - [Timberland](https://vibesmilano.com/collections/timberland): scarpe e stivali Timberland
-  Updated: 2026-03-30T21:25:49Z
+  Updated: 2026-04-20T21:52:22Z
   Total Products: 4
 - [New Balance 740](https://vibesmilano.com/collections/new-balance-740)
-  Updated: 2026-03-30T21:25:49Z
+  Updated: 2026-04-20T21:52:22Z
   Total Products: 22
 - [New Balance 2010](https://vibesmilano.com/collections/new-balance-2010)
-  Updated: 2026-03-30T21:25:49Z
+  Updated: 2026-04-20T21:52:23Z
   Total Products: 16
 - [Nike Air Max 95 Corteiz](https://vibesmilano.com/collections/nike-air-max-95-corteiz)
-  Updated: 2026-03-30T21:25:49Z
+  Updated: 2026-04-20T21:52:23Z
   Total Products: 4
 - [Best seller](https://vibesmilano.com/collections/best-seller)
-  Updated: 2026-04-10T10:22:11Z
+  Updated: 2026-04-21T16:16:30Z
   Total Products: 16
 - [New Balance 204L Kith](https://vibesmilano.com/collections/new-balance-204l-kith)
-  Updated: 2026-03-30T21:25:49Z
+  Updated: 2026-04-20T21:52:23Z
   Total Products: 3
 - [ASICS GEL NIMBUS 28](https://vibesmilano.com/collections/asics-gel-nimbus-28)
-  Updated: 2026-03-30T21:25:49Z
+  Updated: 2026-04-20T21:52:23Z
   Total Products: 10
 - [RAF SIMONS](https://vibesmilano.com/collections/raf-simons)
-  Updated: 2026-03-30T21:25:49Z
+  Updated: 2026-04-20T21:52:24Z
   Total Products: 12
 - [Nike JA 3](https://vibesmilano.com/collections/nike-ja-3)
-  Updated: 2026-04-04T11:19:33Z
+  Updated: 2026-04-20T21:52:24Z
   Total Products: 7
 - [Nike Vomero Plus](https://vibesmilano.com/collections/nike-vomero-3-plus)
-  Updated: 2026-04-07T11:22:34Z
+  Updated: 2026-04-20T21:52:25Z
   Total Products: 14
 - [Mizuno Wave Prophecy](https://vibesmilano.com/collections/mizuno-wave-prophecy)
-  Updated: 2026-03-30T21:25:50Z
+  Updated: 2026-04-20T21:52:25Z
   Total Products: 7
 - [Hoka One Clifton 10](https://vibesmilano.com/collections/hoka-one-clifton-10)
-  Updated: 2026-03-30T21:25:50Z
+  Updated: 2026-04-20T21:52:25Z
   Total Products: 13
 - [Hoka One Clifton 10](https://vibesmilano.com/collections/hoka-one-clifton-11)
-  Updated: 2026-03-30T21:25:50Z
+  Updated: 2026-04-20T21:52:25Z
   Total Products: 13
 - [Hoka One Carbon X3](https://vibesmilano.com/collections/hoka-one-carbon-x3)
-  Updated: 2026-03-30T21:25:50Z
+  Updated: 2026-04-20T21:52:25Z
   Total Products: 6
 - [Hoka One Bondi 9](https://vibesmilano.com/collections/hoka-one-bondi-9)
-  Updated: 2026-03-30T21:25:50Z
+  Updated: 2026-04-20T21:52:26Z
   Total Products: 10
 - [Hoka One Bondi 8](https://vibesmilano.com/collections/hoka-one-bondi-8)
-  Updated: 2026-03-30T21:25:50Z
+  Updated: 2026-04-20T21:52:26Z
   Total Products: 4
 - [Hoka One Mafate Three](https://vibesmilano.com/collections/hoka-one-mafate-three)
-  Updated: 2026-03-30T21:25:50Z
+  Updated: 2026-04-20T21:52:26Z
   Total Products: 1
 - [Hoka](https://vibesmilano.com/collections/hoka-1)
-  Updated: 2026-03-30T21:25:50Z
+  Updated: 2026-04-20T21:52:26Z
   Total Products: 1
 - [Glycerin Max](https://vibesmilano.com/collections/glycerin-max)
-  Updated: 2026-03-30T21:25:50Z
+  Updated: 2026-04-20T21:52:27Z
   Total Products: 16
 - [Hyperion](https://vibesmilano.com/collections/hyperion)
-  Updated: 2026-03-30T21:25:50Z
+  Updated: 2026-04-20T21:52:27Z
   Total Products: 12
 - [NB 204 L](https://vibesmilano.com/collections/nb-204-l)
-  Updated: 2026-03-30T21:25:50Z
+  Updated: 2026-04-20T21:52:28Z
   Total Products: 16
 - [Air Max 95](https://vibesmilano.com/collections/air-max-95)
-  Updated: 2026-03-30T21:25:50Z
+  Updated: 2026-04-20T21:52:28Z
   Total Products: 24
 - [Yeezy Boost 350](https://vibesmilano.com/collections/yeezy-boost-350)
-  Updated: 2026-03-30T21:25:50Z
+  Updated: 2026-04-20T21:52:28Z
   Total Products: 12
 - [Tang Jacket](https://vibesmilano.com/collections/tang-jacket)
-  Updated: 2026-03-30T21:25:50Z
+  Updated: 2026-04-23T11:22:59Z
   Total Products: 5
 - [Air Jordan 5](https://vibesmilano.com/collections/air-jordan-5)
-  Updated: 2026-03-30T21:25:50Z
+  Updated: 2026-04-20T21:52:28Z
   Total Products: 12
 - [XLG Runner Deluxe](https://vibesmilano.com/collections/xlg-runner-deluxe)
-  Updated: 2026-03-30T21:25:50Z
-  Total Products: 18
+  Updated: 2026-04-20T21:52:28Z
+  Total Products: 23
 - [Mind 001 scarpe recovery & relax](https://vibesmilano.com/collections/mind-001-scarpe-recovery-relax)
-  Updated: 2026-03-30T21:25:50Z
+  Updated: 2026-04-20T21:52:29Z
   Total Products: 3
+- [SPEZIAL](https://vibesmilano.com/collections/spezial)
+  Updated: 2026-04-20T21:52:29Z
+  Total Products: 5
 
 ## Blogs
 
@@ -11850,9 +11859,13 @@
     Author: Barcel Coschiera
     Tags: calzature di design, nuove collezioni premiata, premiata, scarpe premiata, sneakers di lusso, sneakers donna, sneakers italian design, sneakers moda, sneakers premiata, sneakers premium, sneakers uomo, status symbol, streetwear, urban style, vibes milano
   - [Tendenze Sneakers Primavera Estate 2026: i Trend da Non Perdere](https://vibesmilano.com/blogs/notizie/tendenze-sneakers-primavera-estate-2026-i-trend-da-non-perdere)
-    Updated: 2026-03-23T09:24:24Z
+    Updated: 2026-04-21T04:56:09Z
     Author: Barcel Coschiera
     Tags: chunky sneakers, moda streetwear, nuove collezioni sneakers, nuove sneakers 2026, outfit estate 2026, outfit primavera 2026, scarpe di moda, scarpe primavera 2026, sneaker casual, sneaker donna 2026, sneaker fashion, sneaker lifestyle, sneaker minimal, sneaker must have, sneaker outfit idee, sneaker trend 2026, sneaker uomo 2026, sneaker vintage, sneakers colorate, sneakers di tendenza, sneakers eleganti, sneakers moda 2026, sneakers neutre, sneakers premium, sneakers primavera estate 2026, sneakers retro, sneakers versatili, streetwear 2026, tendenze sneakers 2026, vibes milano sneakers
+  - [Nike Mind 001: la sneaker del momento tra innovazione, performance e stile](https://vibesmilano.com/blogs/notizie/nike-mind-001-la-sneaker-del-momento-tra-innovazione-performance-e-stile)
+    Updated: 2026-04-21T04:56:12Z
+    Author: Barcel Coschiera
+    Tags: nike clog, nike mind 001, nike slip on, scarpe comode uomo donna, scarpe futuristiche, sneakers innovative, sneakers virali, streetwear 2026, vibes milano
 
 ## Store Pages
 
