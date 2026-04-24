@@ -6,7 +6,7 @@
 - Timezone: Europe/Warsaw
 - Created At: 2025-06-25T16:09:13Z
 - Contact Email: kontakt.boxdlapsa@gmail.com
-- Updated At: 2026-04-13T00:00:34.771Z
+- Updated At: 2026-04-24T00:00:36.997Z
 
 ## Products
 
@@ -24,13 +24,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0924/9924/7479/files/IMG_9182.heic?v=1772571051
   Price: 109,90 zł PLN
-- [Karma sucha Królik z owocami leśnymi "S" 1,5kg](https://boxdlapsa.pl/products/karma-sucha-krolik-z-owocami-lesnymi-s-1-5kg): Karma sucha Królik z owocami leśnymi "S" 1,5kg Doskonale zbilansowana karma sucha jakości superpremium pozbawiona zbóż, grochu, kukurydzy, soi, konserwantów i sztucznych barwników. Najwyższej jakości mięso królika, owoce leśne, warzywa i zioła pozyskiwane od lokalnych dostawców zapewnią wysoką smakowitość i łatwą przyswajalność. Idealna formuła dla psów z delikatnym żołądkiem i nietolerancją na zboża. Skład: Królik i owoce leśne 36% (w tym suszone mięso królika 32%, owoce leśne – maliny, borówki, żurawina 4%), ziemniaki 19%, skrobia ziemniaczana, zioła 9% (siemię lniane, ostropest, cykoria, pokrzywa, czystek), olej z łososia 11%, wysłodki buraczane, suszone drożdże piwne, minerały i witaminy, pietruszka, małże nowozelandzkie, MOS, glukozamina, chondroityna. Składniki analityczne: Białko surowe (29%), Tłuszcz surowy (16%), Popiół surowy (11%), Włókno surowe (4%), Wilgotność (9%), Wapń (1,2%), Fosfor (1%) Energia metaboliczna: 347,65 kcal/100g Dodatki żywieniowe: Witamina A (E672) 12000 j.m., witamina D3 (E671) 1200 j.m., witamina E (3a700) 70 j.m., cynk (siarczan cynku, jednowodny) 36 mg, żelazo (siarczan żelaza (II) monohydrat) 24 mg, mangan (siarczan manganowy, monohydrat) 24 mg, miedź (siarczan miedzi, pentahydrat: E4) 10 mg, jod (bezwodny jodan wapnia) 0,4 mg, selen (selenin sodu) 0,2 mg, antyutleniacz 0,01% Dodatkowe informacje: Po otwarciu przechowywać produkt w szczelnym opakowaniu w miejscu chłodnym i suchym, z daleka od bezpośredniego światła słonecznego.
-  Updated: 2026-02-17T17:10:02Z
-  Vendor: Boxdlapsa
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0924/9924/7479/files/krolik-z-owocami-15-1.jpg?v=1767783912
-  Price: 49,90 zł PLN
 - [Karma sucha Królik z dzikimi ziołami "S" Junior 1,5kg](https://boxdlapsa.pl/products/karma-sucha-krolik-z-dzikimi-ziolami-puppy-1-5kg): Karma sucha Królik z dzikimi ziołami "S" PUPPY 1,5kg Doskonale zbilansowana karma sucha jakości superpremium pozbawiona zbóż, grochu, kukurydzy, soi, konserwantów i sztucznych barwników. Najwyższej jakości mięso z królika, zioła, owoce, warzyw pozyskiwane od lokalnych dostawców zapewnią wysoką smakowitość i łatwą przyswajalność. Idealna formuła dla psów z delikatnym żołądkiem i nietolerancją na zboża. Królik to delikatne, białe mięso zawierające wiele witamin, składników mineralnych i najpotrzebniejszych aminokwasów. Charakteryzuje się dużą zawartością białka i małą zawartością tłuszczu, jest lekkostrawny. Skład: Królik i dzikie zioła 41% (w tym suszone mięso królika 32%, zioła 9% – siemię lniane, ostropest, dzika róża, cykoria, pokrzywa, szpinak), ziemniaki 20%, skrobia ziemniaczana, olej z łososia 10%, wysłodki buraczane, suszone drożdże piwne, jabłko 4%, minerały i witaminy, pietruszka, MOS, glukozamina, chondroityna. Składniki analityczne: Białko surowe (28%), Tłuszcz surowy (14%), Popiół surowy (11%), Włókno surowe (4%), Wapń (1,2%), Fosfor (1%) Energia metaboliczna: 340,64 kcal/100g Dodatki żywieniowe: Witamina A (3a672a) 30000 j.m. witamina D3 (3a671) 2700 j.m., witamina E 750mg, witamina K3 1,5 mg., witamina B1 3 mg., witamina B2 4,5 mg., witamina B6 7,5 mg., witamina B12 30 µg., biotyna 900 µg., niacyna 30 mg., kwas pantotenowy 6 mg., kwas foliowy 0,54 mg., chlorek choliny 24 mg., żelazo (siarczan żelaza (II) monohydrat; 3b103) 36 mg., jod (bezwodny jodan wapnia 3b202) 0,6 mg., miedź (siarczan miedzi, pentahydrat:E4) 15 mg., mangan (siarczan manganowy, monohydrat; 3b503) 36 mg., cynk (siarczan cynku, jednowodny; 3b605) 54 mg, selen (selenin sodu E8) 0,3 mg. Dodatkowe informacje: Po otwarciu przechowywać produkt w szczelnym opakowaniu w miejscu chłodnym i suchym, z daleka od bezpośredniego światła słonecznego.
   Updated: 2026-02-17T17:35:07Z
   Vendor: Boxdlapsa
