@@ -6,33 +6,33 @@
 - Timezone: America/New_York
 - Created At: 2022-08-19T03:58:11Z
 - Contact Email: gfaure5@gmail.com
-- Updated At: 2026-04-18T00:00:36.057Z
+- Updated At: 2026-04-25T00:00:38.242Z
 
 ## Products
 
 - [Face Care](https://bleucommetoi.fr/products/candle)
-  Updated: 2026-04-01T18:50:16Z
+  Updated: 2026-04-22T20:29:05Z
   Vendor: Video Commerce
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2482/5332/files/4.png?v=1717082734
   Price: $10.00 USD
 - [Lip Care](https://bleucommetoi.fr/products/perfume)
-  Updated: 2026-04-01T18:50:17Z
+  Updated: 2026-04-22T20:29:06Z
   Vendor: Video Commerce
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2482/5332/files/4_94b46ff3-680f-476b-8c1f-1fb43e20ed9c.png?v=1717086056
   Price: $5.00 USD
 - [Daily Care](https://bleucommetoi.fr/products/perfume-1)
-  Updated: 2026-04-01T18:50:17Z
+  Updated: 2026-04-24T18:38:28Z
   Vendor: Video Commerce
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2482/5332/files/3.png?v=1717082707
   Price: $10.00 USD
 - [Yoga Blouse](https://bleucommetoi.fr/products/produit-c): Designed for casual.
-  Updated: 2026-04-01T18:50:18Z
+  Updated: 2026-04-22T20:29:06Z
   Vendor: Video Commerce
   Product Type: 
   Availability: Available
@@ -47,7 +47,7 @@
     Availability: Available
     Price: $49.00 USD
 - [Yoga Hoodie](https://bleucommetoi.fr/products/yoga-hoodie): Designed for casual.
-  Updated: 2026-04-01T18:50:18Z
+  Updated: 2026-04-22T20:29:06Z
   Vendor: Video Commerce
   Product Type: 
   Availability: Available
@@ -80,7 +80,7 @@
     Availability: Available
     Price: $2.00 USD
 - [Yoga Short Top](https://bleucommetoi.fr/products/produit-b): Designed for casual.
-  Updated: 2026-04-01T18:50:19Z
+  Updated: 2026-04-24T19:39:52Z
   Vendor: Video Commerce
   Product Type: 
   Availability: Available
@@ -98,10 +98,10 @@
 ## Collections
 
 - [Yoga](https://bleucommetoi.fr/collections/yoga)
-  Updated: 2026-04-01T18:50:15Z
+  Updated: 2026-04-22T20:29:05Z
   Total Products: 3
 - [Beauty](https://bleucommetoi.fr/collections/beauty)
-  Updated: 2026-04-01T18:50:16Z
+  Updated: 2026-04-22T20:29:06Z
   Total Products: 3
 
 ## Store Pages
@@ -114,6 +114,8 @@
   Updated: 2025-06-05T16:58:44Z
 - [Live Shopping](https://bleucommetoi.fr/pages/live): main h1 { display: none; } section h1 { display: none; }
   Updated: 2026-04-11T21:33:43Z
+- [Live Shopping](https://bleucommetoi.fr/pages/lmu-live-shopping): main h1 { display: none; } section h1 { display: none; }
+  Updated: 2026-04-20T16:06:21Z
 
 ## Policies
 
