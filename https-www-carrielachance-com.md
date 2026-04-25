@@ -24,7 +24,7 @@ Come explore, I think you’ll find something you love 👀👠💗
 - Contact Email: support@carrielachance.com
 - Contact Phone: 1-601-207-0532
 - Address: 2701 Little Elm Pkwy, STE 100-478 Little Elm, TX 75068
-- Updated At: 2026-04-18T08:00:31.230Z
+- Updated At: 2026-04-25T12:00:30.195Z
 
 This site is the official online home of Carrie LaChance, model, creator, and entrepreneur with over 20 years of experience in glamour, pin-up, and high heel photography. Everything you see here is created, curated, and owned by Carrie, featuring exclusive content that cannot be found anywhere else.
 
@@ -1618,7 +1618,7 @@ Carrie LaChance – Gallery #101 🔞
 Total Images: 23 Photos
 Year: 2013
 File Size: 5 MB
-  Updated: 2026-04-02T09:13:44Z
+  Updated: 2026-04-24T14:12:02Z
   Vendor: Carrie LaChance
   Product Type: Photo Downloads
   Availability: Available
@@ -3832,7 +3832,7 @@ Pasties Video 🔞
 Run Time: 2 min
 Year: 2016
 File Size: 107 MB
-  Updated: 2026-04-01T09:20:34Z
+  Updated: 2026-04-19T18:09:07Z
   Vendor: Carrie LaChance
   Product Type: Video Downloads
   Availability: Available
@@ -4063,7 +4063,7 @@ Carrie LaChance – Gallery #226 🔞
 Total Images: 26 Photos
 Year: 2016
 File Size: 18 MB
-  Updated: 2026-04-01T09:20:37Z
+  Updated: 2026-04-24T14:12:02Z
   Vendor: Carrie LaChance
   Product Type: Photo Downloads
   Availability: Available
@@ -4700,7 +4700,7 @@ Carrie LaChance – Gallery #254 🔞
 Total Images: 46 Photos
 Year: 2017
 File Size: 30 MB
-  Updated: 2026-04-01T09:20:46Z
+  Updated: 2026-04-18T18:54:26Z
   Vendor: Carrie LaChance
   Product Type: Photo Downloads
   Availability: Available
@@ -4954,7 +4954,7 @@ Latex Surprise Video 🔞
 Run Time: 3 min
 Year: 2017
 File Size: 349 MB
-  Updated: 2026-04-01T09:20:49Z
+  Updated: 2026-04-19T18:02:06Z
   Vendor: Carrie LaChance
   Product Type: Video Downloads
   Availability: Available
@@ -5483,7 +5483,7 @@ Carrie LaChance – Gallery #285 🔞
 Total Images: 66 Photos
 Year: 2018
 File Size: 43 MB
-  Updated: 2026-04-01T09:20:56Z
+  Updated: 2026-04-18T18:54:21Z
   Vendor: Carrie LaChance
   Product Type: Photo Downloads
   Availability: Available
@@ -5806,7 +5806,7 @@ Carrie LaChance - Gallery #301
 Total Images: 22 Photos
 Year: 2018
 File Size: 14 MB
-  Updated: 2026-04-01T09:21:00Z
+  Updated: 2026-04-18T18:54:21Z
   Vendor: Carrie LaChance
   Product Type: Photo Downloads
   Availability: Available
@@ -5888,7 +5888,7 @@ Carrie LaChance - Gallery #306 🔞
 Total Images: 51 Photos
 Year: 2019
 File Size: 33 MB
-  Updated: 2026-04-01T09:21:01Z
+  Updated: 2026-04-18T18:54:25Z
   Vendor: Carrie LaChance
   Product Type: Photo Downloads
   Availability: Available
@@ -5923,7 +5923,7 @@ Carrie LaChance - Gallery #308 🔞
 Total Images: 44 Photos
 Year: 2019
 File Size: 28 MB
-  Updated: 2026-04-01T09:21:02Z
+  Updated: 2026-04-18T18:54:25Z
   Vendor: Carrie LaChance
   Product Type: Photo Downloads
   Availability: Available
@@ -6096,7 +6096,7 @@ Carrie LaChance - Gallery #316 🔞
 Total Images: 56 Photos
 Year: 2019
 File Size: 35 MB
-  Updated: 2026-04-16T20:22:58Z
+  Updated: 2026-04-18T18:54:25Z
   Vendor: Carrie LaChance
   Product Type: Photo Downloads
   Availability: Available
@@ -6195,11 +6195,11 @@ Personally hand signed autograph.
 Embossed stamp of authenticity COA.
 Exclusive Gold Foil stamped edition.
 Actual prints are not censored.
-  Updated: 2026-04-07T20:51:27Z
+  Updated: 2026-04-19T17:50:11Z
   Vendor: Carrie LaChance
   Product Type: Autographed Photos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_OOTD_CL310-86.jpg?v=1775595086
+  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_OOTD_CL310-86.jpg?v=1776621010
   Price: $20.00 USD
 - [Carrie LaChance Autographed 8x10 Photo](https://www.carrielachance.com/products/carrie-lachance-autographed-8x10-photo-cl309-66): This autographed 8x10 photo features Carrie LaChance posing topless, wearing a red button-down blouse, black mini skirt, black thigh high stockings, and black patent pumps. This photo is from Carrie LaChance Gallery #309
 
@@ -6221,11 +6221,11 @@ Personally hand signed autograph.
 Embossed stamp of authenticity COA.
 Exclusive Gold Foil stamped edition.
 Actual prints are not censored.
-  Updated: 2026-04-07T20:51:07Z
+  Updated: 2026-04-19T17:50:18Z
   Vendor: Carrie LaChance
   Product Type: Autographed Photos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_Nude_CL308-01.jpg?v=1775595066
+  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_Nude_CL308-01.jpg?v=1776621017
   Price: $50.00 USD
 - [Carrie LaChance Autographed 8x10 Photo](https://www.carrielachance.com/products/carrie-lachance-autographed-8x10-photo-cl306-54): This autographed 8x10 photo features Carrie LaChance sitting on a kitchen table, wearing a black bodysuit, mini skirt, thigh-high stockings, and 7" high heels. This photo is from Carrie LaChance Gallery #306
 
@@ -6234,11 +6234,11 @@ Personally hand signed autograph.
 Embossed stamp of authenticity COA.
 Exclusive Gold Foil stamped edition.
 Actual prints are not censored.
-  Updated: 2026-04-07T20:50:50Z
+  Updated: 2026-04-19T17:50:25Z
   Vendor: Carrie LaChance
   Product Type: Autographed Photos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_OOTD_CL30654.jpg?v=1775595049
+  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_OOTD_CL30654.jpg?v=1776621024
   Price: $20.00 USD
 - [Carrie LaChance Autographed 8x10 Photo](https://www.carrielachance.com/products/carrie-lachance-autographed-8x10-photo-cl306-01): This autographed 8x10 photo features Carrie LaChance posing topless, wearing a bodysuit, thigh-high stockings, and 7" high heels. This photo is from Carrie LaChance Gallery #306
 
@@ -6247,11 +6247,11 @@ Personally hand signed autograph.
 Embossed stamp of authenticity COA.
 Exclusive Gold Foil stamped edition.
 Actual prints are not censored.
-  Updated: 2026-04-07T20:51:38Z
+  Updated: 2026-04-22T16:34:06Z
   Vendor: Carrie LaChance
   Product Type: Autographed Photos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_Nude_CL306-01.jpg?v=1775595097
+  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_Nude_CL306-01.jpg?v=1776621032
   Price: $40.00 USD
 - [Carrie LaChance Autographed 8x10 Photo](https://www.carrielachance.com/products/carrie-lachance-autographed-8x10-photo-cl305-45): This autographed 8x10 photo features Carrie LaChance posing implied nude, wearing a bright red mini dress, garters, thigh-high stockings, and red high heels. This photo is from Carrie LaChance Gallery #305
 
@@ -6274,11 +6274,11 @@ Embossed with Carrie LaChance stamp of authenticity COA.
 Gold Foil stamp edition.
 Actual print is not censored.
 Yes we combine multiple items.
-  Updated: 2026-04-07T20:54:41Z
+  Updated: 2026-04-19T17:50:44Z
   Vendor: Carrie LaChance
   Product Type: Autographed Photos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_OOTD_CL304-04.jpg?v=1775595280
+  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_OOTD_CL304-04.jpg?v=1776621043
   Price: $20.00 USD
 - [Carrie LaChance Autographed 8x10 Photo](https://www.carrielachance.com/products/carrie-lachance-autographed-8x10-photo-cl303-72): This autographed 8x10 photo features Carrie LaChance sitting on the kitchen counter, wearing a purple bandage mini dress, thigh high stockings, and black patent pumps. This photo is from Carrie LaChance Gallery #303
 
@@ -6287,11 +6287,11 @@ Personally hand signed autograph.
 Embossed stamp of authenticity COA.
 Exclusive Gold Foil stamped edition.
 Actual prints are not censored.
-  Updated: 2026-04-07T20:54:30Z
+  Updated: 2026-04-19T17:50:56Z
   Vendor: Carrie LaChance
   Product Type: Autographed Photos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_OOTD_CL303-72.jpg?v=1775595269
+  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_OOTD_CL303-72.jpg?v=1776621055
   Price: $20.00 USD
 - [Carrie LaChance Autographed 8x10 Photo COA](https://www.carrielachance.com/products/carrie-lachance-autographed-8x10-photo-coa-cl296-75): This autographed 8x10 photo features Carrie LaChance posing topless, wearing a floral sundress, thigh-high stockings, and 6" high heel sandals. This photo is from Carrie LaChance Gallery #296
 
@@ -6300,11 +6300,11 @@ Personally hand signed autograph.
 Embossed stamp of authenticity COA.
 Exclusive Gold Foil stamped edition.
 Actual prints are not censored.
-  Updated: 2026-04-07T20:48:18Z
+  Updated: 2026-04-19T17:51:04Z
   Vendor: Carrie LaChance
   Product Type: Autographed Photos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_Nude_CL296-75.jpg?v=1775594897
+  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_Nude_CL296-75.jpg?v=1776621063
   Price: $40.00 USD
 - [Carrie LaChance Autographed 8x10 Photo](https://www.carrielachance.com/products/carrie-lachance-autographed-8x10-photo-cl300-44): This autographed 8x10 photo features Carrie LaChance kneeling on a leather bench, wearing a sheer dress, thigh-high stockings, and black patent high heel pumps. This photo is from Carrie LaChance Gallery #300
 
@@ -6313,11 +6313,11 @@ Personally hand signed autograph.
 Embossed stamp of authenticity COA.
 Exclusive Gold Foil stamped edition.
 Actual prints are not censored.
-  Updated: 2026-04-07T20:53:26Z
+  Updated: 2026-04-19T17:51:10Z
   Vendor: Carrie LaChance
   Product Type: Autographed Photos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_OOTD_CL300-44.jpg?v=1775595205
+  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_OOTD_CL300-44.jpg?v=1776621069
   Price: $20.00 USD
 - [Carrie LaChance Autographed 8x10 Photo](https://www.carrielachance.com/products/carrie-lachance-autographed-8x10-photo-cl303-19): This autographed 8x10 photo features Carrie LaChance posing implied nude, wearing a purple bandage mini dress, and thigh-high stockings. This photo is from Carrie LaChance Gallery #303
 
@@ -6417,11 +6417,11 @@ Personally hand signed autograph.
 Embossed stamp of authenticity COA.
 Exclusive Gold Foil stamped edition.
 Actual prints are not censored.
-  Updated: 2026-04-07T20:53:16Z
+  Updated: 2026-04-19T17:46:23Z
   Vendor: Carrie LaChance
   Product Type: Autographed Photos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_Nude_CL295-07.jpg?v=1775595195
+  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_Nude_CL295-07.jpg?v=1776620782
   Price: $50.00 USD
 - [Carrie LaChance Autographed 8x10 Photo](https://www.carrielachance.com/products/carrie-lachance-autographed-8x10-photo-cl291-46): This autographed 8x10 photo features Carrie LaChance posing implied nude on the bed, wearing a sheer bra, panties, thigh-high stockings, and high heels. This photo is from Carrie LaChance Gallery #291
 
@@ -6495,11 +6495,11 @@ Personally hand signed autograph.
 Embossed stamp of authenticity COA.
 Exclusive Gold Foil stamped edition.
 Actual prints are not censored.
-  Updated: 2026-04-07T20:57:23Z
+  Updated: 2026-04-19T17:46:11Z
   Vendor: Carrie LaChance
   Product Type: Autographed Photos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_Lingerie_CL284-44.jpg?v=1775595442
+  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_Lingerie_CL284-44.jpg?v=1776620770
   Price: $30.00 USD
 - [Carrie LaChance Autographed 8x10 Photo](https://www.carrielachance.com/products/carrie-lachance-autographed-8x10-photo-cl286-37): This autographed 8x10 photo features Carrie LaChance posing nude on a satin couch, wearing sheer thigh high stockings, and beige high heel pumps. This photo is from Carrie LaChance Gallery #286
 
@@ -6521,11 +6521,11 @@ Personally hand signed autograph.
 Embossed stamp of authenticity COA.
 Exclusive Gold Foil stamped edition.
 Actual prints are not censored.
-  Updated: 2026-04-07T20:57:15Z
+  Updated: 2026-04-19T17:45:59Z
   Vendor: Carrie LaChance
   Product Type: Autographed Photos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_Latex_CL283-69.jpg?v=1775595434
+  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_Latex_CL283-69.jpg?v=1776620758
   Price: $30.00 USD
 - [Carrie LaChance Autographed 8x10 Photo](https://www.carrielachance.com/products/carrie-lachance-autographed-8x10-photo-cl285-61): This autographed 8x10 photo features Carrie LaChance posing topless on a white couch, wearing a thong bodysuit, sheer pantyhose, and Giuseppe Zanotti platform heels. This photo is from Carrie LaChance Gallery #285
 
@@ -6573,11 +6573,11 @@ Personally hand signed autograph.
 Embossed stamp of authenticity COA.
 Exclusive Gold Foil stamped edition.
 Actual prints are not censored.
-  Updated: 2026-04-07T20:57:05Z
+  Updated: 2026-04-19T17:45:48Z
   Vendor: Carrie LaChance
   Product Type: Autographed Photos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_Nude_CL285-07.jpg?v=1775595424
+  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_Nude_CL285-07.jpg?v=1776620747
   Price: $50.00 USD
 - [Carrie LaChance Autographed 8x10 Photo](https://www.carrielachance.com/products/carrie-lachance-autographed-8x10-photo-cl273-62): This autographed 8x10 photo features Carrie LaChance dressed in cosplay as White Queen, wearing a sheer coat, lingerie, bra, panties, garter belt, thigh-high stockings, and 6" pumps. This photo is from Carrie LaChance Gallery #273
 
@@ -6612,11 +6612,11 @@ Personally hand signed autograph.
 Embossed stamp of authenticity COA.
 Exclusive Gold Foil stamped edition.
 Actual prints are not censored.
-  Updated: 2026-04-07T20:56:52Z
+  Updated: 2026-04-19T17:45:33Z
   Vendor: Carrie LaChance
   Product Type: Autographed Photos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_OOTD_CL274-83.jpg?v=1775595412
+  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_OOTD_CL274-83.jpg?v=1776620732
   Price: $30.00 USD
 - [Carrie LaChance Autographed 8x10 Photo](https://www.carrielachance.com/products/carrie-lachance-autographed-8x10-photo-cl278-75): This autographed 8x10 photo features Carrie LaChance posing nude while kneeling on a couch, wearing thigh high stockings, and high heel sandals. This photo is from Carrie LaChance Gallery #278
 
@@ -6742,11 +6742,11 @@ Personally hand signed autograph.
 Embossed stamp of authenticity COA.
 Exclusive Gold Foil stamped edition.
 Actual prints are not censored.
-  Updated: 2026-04-07T20:56:07Z
+  Updated: 2026-04-19T17:45:20Z
   Vendor: Carrie LaChance
   Product Type: Autographed Photos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_Latex_CL261-42.jpg?v=1775595367
+  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_Latex_CL261-42.jpg?v=1776620719
   Price: $30.00 USD
 - [Carrie LaChance Autographed 8x10 Photo](https://www.carrielachance.com/products/carrie-lachance-autographed-8x10-photo-cl262-79): This autographed 8x10 photo features Carrie LaChance posing topless on a dresser, wearing a sheer thong bodysuit, white pantyhose, and 6" high heel superarch pumps. This photo is from Carrie LaChance Gallery #262
 
@@ -6755,11 +6755,11 @@ Personally hand signed autograph.
 Embossed stamp of authenticity COA.
 Exclusive Gold Foil stamped edition.
 Actual prints are not censored.
-  Updated: 2026-04-07T20:56:19Z
+  Updated: 2026-04-19T17:45:05Z
   Vendor: Carrie LaChance
   Product Type: Autographed Photos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_Nude_CL262-79.jpg?v=1775595378
+  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_Nude_CL262-79.jpg?v=1776620704
   Price: $40.00 USD
 - [Carrie LaChance Autographed 8x10 Photo](https://www.carrielachance.com/products/carrie-lachance-autographed-8x10-photo-coa-cl260-88): This autographed 8x10 photo features Carrie LaChance sitting on a couch, wearing a maroon thong bodysuit, thigh high stockings, and spiked high heel sandals. This photo is from Carrie LaChance Gallery #260
 
@@ -6768,11 +6768,11 @@ Personally hand signed autograph.
 Embossed stamp of authenticity COA.
 Exclusive Gold Foil stamped edition.
 Actual prints are not censored.
-  Updated: 2026-04-07T20:55:52Z
+  Updated: 2026-04-19T17:44:49Z
   Vendor: Carrie LaChance
   Product Type: Autographed Photos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_OOTD_CL260-88.jpg?v=1775595352
+  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_OOTD_CL260-88.jpg?v=1776620688
   Price: $30.00 USD
 - [Carrie LaChance Autographed 8x10 Photo](https://www.carrielachance.com/products/carrie-lachance-autographed-8x10-photo-cl258-60): This autographed 8x10 photo features Carrie LaChance posing topless during a picnic while pouring milk over her breasts, wearing white garters, thong panties, thigh high stockings, and red high heel pumps. This photo is from Carrie LaChance Gallery #258
 
@@ -6872,11 +6872,11 @@ Personally hand signed autograph.
 Embossed stamp of authenticity COA.
 Exclusive Gold Foil stamped edition.
 Actual prints are not censored.
-  Updated: 2026-04-07T20:55:40Z
+  Updated: 2026-04-19T17:44:36Z
   Vendor: Carrie LaChance
   Product Type: Autographed Photos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_Wet_Tshirt_CL251-43.jpg?v=1775595339
+  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_Wet_Tshirt_CL251-43.jpg?v=1776620675
   Price: $30.00 USD
 - [Carrie LaChance Autographed 8x10 Photo](https://www.carrielachance.com/products/carrie-lachance-autographed-8x10-photo-cl250-50): This autographed 8x10 photo features Carrie LaChance posing topless by the fireplace, wearing black thong panties, thigh high stockings, and 6" black patent high heel pumps. This photo is from Carrie LaChance Gallery #250
 
@@ -6963,11 +6963,11 @@ Personally hand signed autograph.
 Embossed stamp of authenticity COA.
 Exclusive Gold Foil stamped edition.
 Actual prints are not censored.
-  Updated: 2026-04-07T20:55:24Z
+  Updated: 2026-04-19T17:44:20Z
   Vendor: Carrie LaChance
   Product Type: Autographed Photos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_CL296-37.jpg?v=1775595323
+  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/files/Carrie_LaChance_Autographed_8x10_Photo_COA_Gold_Edition_CL296-37.jpg?v=1776620660
   Price: $20.00 USD
 - [Carrie LaChance Autographed Suntan Pantyhose COA LMB1BR](https://www.carrielachance.com/products/carrie-lachance-autographed-suntan-pantyhose-coa-lmb1br): Carrie LaChance Autographed Suntan Pantyhose COA LMB1BR - All memorabilia items come with a COA which certifies that this is an authentic piece of official Carrie LaChance memorabilia. Each memorabilia item is personally  and released as part of Carrie LaChance’s official collection. This item is  to be genuine and exclusively distributed through authorized channels. Our COA certificate verifies that your collectible is an original and not a reproduction with our special embossed stamp.
   Updated: 2026-04-01T09:21:16Z
@@ -7045,10 +7045,10 @@ Actual prints are not censored.
   Updated: 2026-04-01T09:19:38Z
   Total Products: 31
 - [Photo Collection](https://www.carrielachance.com/collections/photos): Step into my Photo Shoot Collection, featuring over 20 years of my most iconic shoots. From lingerie and glossy pantyhose to classic risqué pinup looks, it’s all about heels, confidence, and glamour. Every set is bundled with all photos included, just as it was captured.
-  Updated: 2026-04-17T11:12:45Z
+  Updated: 2026-04-19T11:13:04Z
   Total Products: 330
 - [Video Collection](https://www.carrielachance.com/collections/videos): Explore my Video Collection, featuring over 20 years of professionally shot content. From high heel glamour and lingerie to glossy pantyhose and classic risqué moments, these videos capture my signature style in motion. Each one is a polished, cinematic look at some of my most unforgettable shoots.
-  Updated: 2026-04-01T09:19:38Z
+  Updated: 2026-04-20T11:11:19Z
   Total Products: 194
 - [Carrie Cam Collection](https://www.carrielachance.com/collections/carrie-cam): Step into my Carrie Cam Collection, where you get a glimpse into my real, everyday life. From grabbing lunch and driving around to little moments at home, these photos and videos are candid, unfiltered, and personal, giving you a closer look at me beyond the shoots.
   Updated: 2026-04-05T11:11:52Z
@@ -7057,22 +7057,22 @@ Actual prints are not censored.
   Updated: 2026-04-04T11:10:42Z
   Total Products: 80
 - [Latex Collection](https://www.carrielachance.com/collections/latex): Explore my Latex Collection, where every shoot is all about that ultra-shiny, second-skin look I love. From bold outfits to high-gloss finishes, these sets are sleek, edgy, and full of energy. If you love that striking latex shine paired with my signature heels and attitude, this collection is for you.
-  Updated: 2026-04-01T09:19:38Z
+  Updated: 2026-04-20T11:11:19Z
   Total Products: 158
 - [Lingerie Collection](https://www.carrielachance.com/collections/lingerie): Step into my Lingerie Collection, featuring all of my favorite shoots in stunning, sexy sets. From delicate and flirty to bold and seductive, every look highlights my love for heels, confidence, and timeless glamour.
-  Updated: 2026-04-04T11:10:42Z
+  Updated: 2026-04-20T11:11:19Z
   Total Products: 165
 - [Pantyhose Collection](https://www.carrielachance.com/collections/pantyhose): Step into my Pantyhose Collection, featuring all of my favorite shoots in silky, sheer pantyhose. From glossy, ultra-smooth finishes to timeless styling, every look highlights my love for legs, heels, and that signature shine that makes each set so irresistible.
-  Updated: 2026-04-01T09:19:38Z
+  Updated: 2026-04-19T11:13:04Z
   Total Products: 107
 - [Nude Collection](https://www.carrielachance.com/collections/nude): Step into my Artistic Nudes Collection, featuring some of my most revealing and tastefully risqué shoots. These images celebrate confidence, form, and elegance, blending sensuality with a more refined, artistic edge.
-  Updated: 2026-04-17T11:12:45Z
+  Updated: 2026-04-20T11:11:19Z
   Total Products: 256
 - [Leather Collection](https://www.carrielachance.com/collections/leather): Step into my Leather Collection, featuring all of my shoots in bold, edgy leather looks. From sleek and fitted styles to daring statement pieces, every set brings out a powerful, confident side of me with my signature heels and attitude leading the way.
-  Updated: 2026-04-01T09:19:38Z
+  Updated: 2026-04-20T11:11:19Z
   Total Products: 38
 - [Public Collection](https://www.carrielachance.com/collections/public): Step into my Public Collection, featuring some of my most daring shoots captured out in real-world settings. From spontaneous moments to bold, eye-catching looks, these sets bring my signature heels, confidence, and style beyond the studio and into the spotlight.
-  Updated: 2026-04-06T11:10:04Z
+  Updated: 2026-04-19T11:13:04Z
   Total Products: 264
 
 ## Blogs
@@ -7213,6 +7213,38 @@ Actual prints are not censored.
     Updated: 2026-04-17T00:06:18Z
     Author: Carrie LaChance
     Tags: dressing for confidence, fashion, glamour model, high heels, how to be a model, how to be a model online, how to get into modeling, how to pose for photo shoot, modeling, modeling tips, outfit ideas, photo shoot, photography, photography fashion choices, photoshoot, posing tips, social media model, styling, taking good selfies, wardrobe tips
+  - [Pinup Wisdom Un lacing the World of a Glamour Model](https://www.carrielachance.com/blogs/carrie-lachance/pinup-wisdom-un-lacing-the-world-of-a-glamour-model): Pinup Wisdom Un lacing the World of a Glamour Model
+    Updated: 2026-04-18T08:01:19Z
+    Author: Carrie LaChance
+    Tags: beauty tips, behind the scense, carrie lachance, glamour, glamour model, glamour model insights, heels, high heels, latex model, life of a model, modeling, nostalgic fashion, outfit of the day, pantyhose, pinup, pinup culture discussion., pinup model, sexy model, stilettos, vintage style
+  - [Make Every Photo Pop: Posing Techniques for Models at All Levels](https://www.carrielachance.com/blogs/carrie-lachance/make-every-photo-pop-posing-techniques-for-models-at-all-levels): Make Every Photo Pop: Posing Techniques for Models at All Levels
+    Updated: 2026-04-19T00:06:14Z
+    Author: Carrie LaChance
+    Tags: glamour model, high heels, how to be a model, how to be a model online, how to get into modeling, how to pose for photo shoot, how to pose for photos, model advice, modeling, modeling tips, photo tips, photography, photography tips for models, photoshoot, pose techniques, posing, posing tips, social media model, taking good selfies
+  - [Master the Runway: Essential Tips for Walking with Poise in High Heels](https://www.carrielachance.com/blogs/carrie-lachance/master-the-runway-essential-tips-for-walking-with-poise-in-high-heels): Master the Runway: Essential Tips for Walking with Poise in High Heels
+    Updated: 2026-04-20T00:11:35Z
+    Author: Carrie LaChance
+    Tags: fashion modeling, glamour model, heels, high heels, how to be a model, how to be a model online, how to get into modeling, how to pose for photo shoot, how to walk in heels, modeling, modeling tips, photography, photoshoot, poise tips, posing tips, runway, social media model, taking good selfies, tips for modeling high heels, walking tips
+  - [A Day as Carrie Inside a Photoshoot Filled with Glamour Fabric and Stilettos](https://www.carrielachance.com/blogs/carrie-lachance/a-day-as-carrie-inside-a-photoshoot-filled-with-glamour-fabric-and-stilettos): A Day as Carrie Inside a Photoshoot Filled with Glamour Fabric and Stilettos
+    Updated: 2026-04-21T08:01:12Z
+    Author: Carrie LaChance
+    Tags: a day in the life of a model, beauty trends, behind the scenes of a photoshoot, behind the scense, carrie lachance, fashion, glamour, glamour model, heels, high heels, latex model, life of a model, outfit of the day, pantyhose, photoshoot, pinup model, sexy model, stilettos, style tips
+  - [Creating Unforgettable Moments: Capturing Alluring Shots with Expert Lighting Tips](https://www.carrielachance.com/blogs/carrie-lachance/creating-unforgettable-moments-capturing-alluring-shots-with-expert-lighting-tips): Creating Unforgettable Moments: Capturing Alluring Shots with Expert Lighting Tips
+    Updated: 2026-04-22T00:07:39Z
+    Author: Carrie LaChance
+    Tags: editorial shots, expert lighting techniques, fashion modeling, glamour model, high heels, how to be a model, how to be a model online, how to capture allure, how to get into modeling, how to pose for photo shoot, lighting, modeling, modeling tips, photography, photography tips, photoshoot, posing tips, social media model, taking good selfies
+  - [Stepping Off the Page Pinup Model Magic & Behind the Scenes with Carrie LaChance](https://www.carrielachance.com/blogs/carrie-lachance/stepping-off-the-page-pinup-model-magic-behind-the-scenes-with-carrie-lachance): Stepping Off the Page Pinup Model Magic & Behind the Scenes with Carrie LaChance
+    Updated: 2026-04-23T08:01:15Z
+    Author: Carrie LaChance
+    Tags: behind the scenes, behind the scense, carrie lachance, glamour model, heels, high heels, latex model, life of a model, magic, model, outfit of the day, pantyhose, photography tips, pinup, pinup model, pinup modeling experience, sexy model, stilettos, vintage style inspiration
+  - [Modeling Tips to Instantly Boost Confidence and Elegance in High Heels: My Personal Guide](https://www.carrielachance.com/blogs/carrie-lachance/modeling-tips-to-instantly-boost-confidence-and-elegance-in-high-heels-my-personal-guide): Modeling Tips to Instantly Boost Confidence and Elegance in High Heels: My Personal Guide
+    Updated: 2026-04-24T00:07:58Z
+    Author: Carrie LaChance
+    Tags: boost confidence, confidence, elegance, glamour model, high heels, how to be a model, how to be a model online, how to get into modeling, how to pose for photo shoot, improve posture tips, modeling, modeling guide, modeling tips, personal tips, photography, photoshoot, posing tips, social media model, taking good selfies
+  - [Enchanted in Stilettos Audaciously Glamourous Journey🎀](https://www.carrielachance.com/blogs/carrie-lachance/enchanted-in-stilettos-audaciously-glamourous-journey🎀): Enchanted in Stilettos Audaciously Glamourous Journey🎀
+    Updated: 2026-04-25T08:01:23Z
+    Author: Carrie LaChance
+    Tags: audacious beauty, behind the scense, carrie lachance, fashion blog, glamorous lifestyle tips, glamour, glamour model, heels, high heels, journey, latex model, life of a model, outfit of the day, pantyhose, pinup model, sexy model, stiletto heels, stilettos, style, stylish fashion journey
 
 ## Store Pages
 
