@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-08T14:26:58Z
 - Contact Email: hello@ymcyc.com
-- Updated At: 2026-04-12T00:00:22.870Z
+- Updated At: 2026-04-25T00:00:34.626Z
 
 ## Products
 
