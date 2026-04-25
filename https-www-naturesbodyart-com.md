@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2016-02-11T02:41:01Z
-- Updated At: 2026-04-18T00:00:21.456Z
+- Updated At: 2026-04-25T00:00:33.078Z
 
 ## Products
 
@@ -72,7 +72,7 @@
     Availability: Available
     Price: $50.00 USD
 - [Jagua Black Tattoo Gel (most popular) Bulk wholesale Fresh + Ready-to-use](https://www.naturesbodyart.com/products/jagua-tattoo-gel): Our customer's favorite! Whether you are just starting out or a professional wanting the perfect blend without the hassle of mixing it yourself, we got you😊 Your purchase helps families in the USA and Panama, thank you! Our fresh made Jagua Ink is ideal to achieve a dark blue/black color with one coat. Delicate line work may be achieved by dispensing the required amount of gel for the tattoo into an application cone or bottle with a fine tip. Simple ingredients: Dehydrated Jagua fruit powder, purified water, xanthan gum (food grade thickener), essential oil of Tea tree and Eucalyptus. (we strongly suggest never using our products on sensitive skin or face to avoid irritation) there are no chemicals in our product. Please test a small area first if uncertain of allergies. We have a variety of options: you can buy a bottle of Jagua gel alone (you may already have applicators) or choose to have an adapter cap with 3 tips included for detailing. Instructional pamphlet always included. 4 ounce and above please purchase needed applicators if wanted. Here's a link; https://www.naturesbodyart.com/products/applicator-bottle-with-two-tips Gel should be kept frozen when not using to maintain a quality stain. Unrefrigerated gel has a shelf life of 20-30 days (could be longer) but best kept refrigerated. Frozen gel can last years. Discard top layer of gel in bottles if it turns brown from oxygen activating the dye. Simply paint design, allow to dry flat and then wash off gel after an additional 1-3 hours. Tattoo color will develop after several hours, humidity helps the dye to develop darker / faster since oxygen activates the fruit dye. Jagua gel orders being shipped outside of United States should choose Express/ Priority shipping. (First class may take too long and sometimes not tracked outside of USA) Otherwise order our powdered Jagua which has over an 8 month shelf life unrefrigerated and can be shipped first class. You may choose, but we are not responsible for unusable product or tracking outside of USA if first class package is chosen instead of priority mail. We want you to receive our products in the best condition💗
-  Updated: 2026-04-09T10:54:46Z
+  Updated: 2026-04-20T19:48:58Z
   Vendor: Nature's Body Art
   Product Type: gel, paint
   Availability: Available
@@ -189,7 +189,7 @@
     Image: https://cdn.shopify.com/s/files/1/1163/4438/products/20191114-130849.jpg?v=1574317308
     Price: $39.95 USD
 - [Just Harvested Fresh 100% Natural Organic Rajasthani Henna Powder](https://www.naturesbodyart.com/products/fresh-100-natural-organic-rajasthani-henna-powder): The best henna powder we have ever had is here! Even darker than the photos shown. Organic and finely triple sifted henna. powder comes with mixing instructions included. If you need essential oil it is available here. You will need approximately 1 ounce per 100 grams. The black color in photos is from our Jagua fruit dye.
-  Updated: 2026-04-04T15:40:19Z
+  Updated: 2026-04-18T15:54:19Z
   Vendor: Nature's Body Art
   Product Type: 
   Availability: Available
@@ -301,7 +301,7 @@
     Availability: Available
     Price: $28.50 USD
 - [Pure Eucalyptus Oil](https://www.naturesbodyart.com/products/pure-eucalyptus-oil): Use for your Henna powder recipe or Jagua powder to create a dark color. If using for Jagua powder 1/4 teaspoon per 10grams. Henna/ Jagua powder use 1 oz per 100 grams. Please note: For external or aromatherapeutic use only. Natural essential oils are highly concentrated and should be used with care
-  Updated: 2026-04-01T19:09:03Z
+  Updated: 2026-04-18T15:54:16Z
   Vendor: Nature's Body Art
   Product Type: 
   Availability: Available
@@ -401,7 +401,7 @@
     Availability: Available
     Price: $8.00 USD
 - [20ml applicator Bottle](https://www.naturesbodyart.com/products/jacquard-bottle): 1/2 oz applicator squeeze bottle with plug and cap. Create detailed designs with Jagua gel/henna. (Metal tips sold separately.) Stainless steel tips are available in .5mm, .7mm and .9mm These bottles can also be used for paint/ glue.
-  Updated: 2026-04-01T19:09:05Z
+  Updated: 2026-04-18T15:54:17Z
   Vendor: Nature's Body Art
   Product Type: 
   Availability: Available
@@ -654,19 +654,19 @@
 ## Collections
 
 - [Home page](https://www.naturesbodyart.com/collections/frontpage)
-  Updated: 2026-04-09T11:04:42Z
+  Updated: 2026-04-21T11:05:05Z
   Total Products: 4
 - [Henna Products](https://www.naturesbodyart.com/collections/henna-products): Henna is an all-natural paste that stains the skin a maroon-brown color. It lasts approximately two weeks. Our premium quality 100% fresh, body-art quality henna powder (with no additives) is imported from the Rajasthan region of India. It is exceptionally finely sifted and yields amazingly dark color. You will enjoy this fast staining, pure and reasonably priced henna. Even better, it is USDA  organic! (Please note that we recommend the applicator cone or applicator bottle with a .9mm tip for henna.)
-  Updated: 2026-04-10T11:06:04Z
+  Updated: 2026-04-19T11:05:15Z
   Total Products: 16
 - [Jagua Products (dark blue/black tattoo color)](https://www.naturesbodyart.com/collections/jagua-products): Jagua is a 100% natural dye that stains a blue-black color. *Lasts approximately two weeks on skin. *Derived from the Jagua (Genipa americana L) fruit tree of tropical America. When the gel/paint form is applied to skin, dries, and is removed it leaves a light grey color and gradually darkens to a black color over a period of 6-10 hours. The black design will remain on skin for 8-15 days and disappears as the skin naturally exfoliates. When applied to porous material, jagua leaves a permanent blue-black color. Similar to henna, Jagua’s color is also darker on areas of the body with more layers of skin. Combining the two natural dyes adds a unique flair to temporary body art.
-  Updated: 2026-04-16T11:04:50Z
+  Updated: 2026-04-21T11:05:05Z
   Total Products: 25
 - [Application Accessories](https://www.naturesbodyart.com/collections/tattoo-supplies): Artists prefer all different types of applicators so we have a variety. *Cones are easier to squeeze, you can cut the tips to the desired size for detailing. Simply fill from the opened end roll down and tape it closed. * 1/2 ounce soft squeeze bottles with the Luer lock tips (colored) I use for my Jagua and Henna. The variety of tips are great that lock on.
-  Updated: 2026-04-10T11:06:04Z
+  Updated: 2026-04-19T11:05:15Z
   Total Products: 18
 - [Tattoos](https://www.naturesbodyart.com/collections/tattoos)
-  Updated: 2026-04-16T11:04:50Z
+  Updated: 2026-04-21T11:05:05Z
   Total Products: 7
 
 ## Blogs
