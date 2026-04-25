@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-26T17:23:09Z
 - Contact Email: mcintus1211@gmail.com
-- Updated At: 2026-04-17T11:52:37.845Z
+- Updated At: 2026-04-25T00:00:32.360Z
 
 ## Products
 
@@ -235,7 +235,7 @@
   Image: https://cdn.shopify.com/s/files/1/0926/3366/1762/files/APO_Red_Capsule_Pro-Collagen_Lifting_Mask_34gX4EA_Main.png?v=1772583547
   Price: $17.00 USD
 - [APOTHE RejuveGlow PDRN Collagen Wrapping Mask 70ml — Peel-Off Lifting ](https://www.trendykbeauty.com/products/apothe-rejuveglow-pdrn-collagen-wrapping-mask): APOTHE RejuveGlow PDRN Collagen Wrapping Mask — clinically proven to boost hydration by 76% and reduce wrinkles by 24%. 25-Peptide complex, peel-off formula. 70ml.
-  Updated: 2026-04-15T12:46:00Z
+  Updated: 2026-04-21T00:07:07Z
   Vendor: APOTHE
   Product Type: 
   Availability: Available
@@ -480,11 +480,11 @@
   Image: https://cdn.shopify.com/s/files/1/0926/3366/1762/files/APOTHE_peptide_line5.jpg?v=1772583428
   Price: $99.99 USD
 - [APOTHE Dark Spot Defense Bundle — 3-Step Brightening & Exfoliation Routine | Cleanser + Ampoule + Toning Pads](https://www.trendykbeauty.com/products/apothe-dark-spot-defense-bundle): APOTHE Dark Spot Defense Bundle — 3-step brightening system clinically proven to reduce dark spots by 61.8% in 2 weeks. Exosome ampoule, scrub cleanser and toning pads.
-  Updated: 2026-04-17T09:07:09Z
+  Updated: 2026-04-22T10:24:54Z
   Vendor: APOTHE
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0926/3366/1762/files/BrighteningBundle_1.jpg?v=1772123368
+  Image: https://cdn.shopify.com/s/files/1/0926/3366/1762/files/20260421-182327.jpg?v=1776810277
   Price: $78.00 USD
 - [SAM'U Gentle Deep Clean Duo — Galacto Chewy Powder Wash + O2 Pore Toner | 2-Step Cleansing Set](https://www.trendykbeauty.com/products/the-gentle-deep-clean-duo): SAM'U Gentle Deep Clean Duo — Galacto Chewy Powder Wash and O2 Pore Toner. Clinically reduces impurities by 51%. Amazon's Choice toner. For all skin types.
   Updated: 2026-04-14T17:25:20Z
@@ -640,16 +640,16 @@
   Updated: 2026-04-14T17:24:58Z
   Total Products: 9
 - [APOTHE Korean Skincare | Peptide, PDRN & Exosome Products](https://www.trendykbeauty.com/collections/apothe): Shop APOTHE Korean skincare: Exosome brightening, PDRN collagen, and Peptide Botulinum anti-aging formulas. Science-backed ampoules, serums, and sets from Korea.
-  Updated: 2026-04-17T09:07:10Z
+  Updated: 2026-04-21T11:23:23Z
   Total Products: 24
 - [URIID Korean Skincare | Neroli Garden Body & Face Care](https://www.trendykbeauty.com/collections/uriid): Shop URIID — Korean botanical skincare and body care featuring the Neroli Garden collection. Hand creams, cleansing foams, toners and more. Free US shipping over $35.
   Updated: 2026-04-14T17:24:58Z
   Total Products: 24
 - [Best  K-Beauty | Top Korean Skincare Picks](https://www.trendykbeauty.com/collections/top-sellers): Shop best- Korean skincare loved by customers. Discover top-rated serums, creams, and gentle essentials for healthy, glowing skin.
-  Updated: 2026-04-16T11:24:11Z
+  Updated: 2026-04-21T11:23:23Z
   Total Products: 10
 - [K-Beauty  | Korean Skincare Deals & Discounts](https://www.trendykbeauty.com/collections/on-): Shop K-beauty  items with exclusive discounts on serums, creams, and more. Limited-time Korean skincare deals—save before they’re gone.
-  Updated: 2026-04-17T09:07:39Z
+  Updated: 2026-04-21T11:23:23Z
   Total Products: 29
 - [SAM’U Korean Skincare | Sensitive Skin & Barrier Repair](https://www.trendykbeauty.com/collections/samu): Shop SAM’U Korean skincare for sensitive skin. Discover PDRN serums, hydrating toners, and barrier-repair essentials for calm, healthy skin.
   Updated: 2026-04-17T09:59:57Z
@@ -673,7 +673,7 @@
   Updated: 2026-04-14T17:24:59Z
   Total Products: 7
 - [Korean Face Masks| PDRN, Collagen & Hydrogel|Trendy K-Beauty](https://www.trendykbeauty.com/collections/face-mask): Shop Korean face masks from APOTHE & SAM'U. PDRN hydrogel masks, collagen lifting masks and more. Dermatologist-tested. Free US shipping over $35.
-  Updated: 2026-04-16T11:24:11Z
+  Updated: 2026-04-21T11:23:23Z
   Total Products: 14
 - [K-Beauty Bundles | Korean Skincare Sets & Value Kits](https://www.trendykbeauty.com/collections/bundles-1): Shop Korean skincare bundles for better results and value. Discover curated sets for hydration, anti-aging, and sensitive skin routines.
   Updated: 2026-04-17T09:07:10Z
@@ -691,7 +691,7 @@
   Updated: 2026-04-14T17:25:00Z
   Total Products: 7
 - [PDRN Skincare | Repair & Barrier Recovery Products](https://www.trendykbeauty.com/collections/pdrn): Shop PDRN skincare for skin repair and barrier recovery. Discover Korean serums and treatments for sensitive, damaged, and dehydrated skin.
-  Updated: 2026-04-16T11:24:11Z
+  Updated: 2026-04-21T11:23:23Z
   Total Products: 8
 - [Travel Size Skincare | Mini & On-the-Go Essentials](https://www.trendykbeauty.com/collections/travel-on-the-go): Shop travel-size skincare and on-the-go essentials. Mini serums, mists, and compact products for hydration, glow, and convenience anywhere.
   Updated: 2026-04-14T17:25:00Z
@@ -719,8 +719,8 @@
   Updated: 2026-04-09T14:30:52Z
 - [Privacy Choices & Data Opt-Out | Trendy K-Beauty](https://www.trendykbeauty.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-04-09T14:39:18Z
-- [About Us | Skincare, Curated with Intention](https://www.trendykbeauty.com/pages/about): 
-  Updated: 2026-04-09T16:50:27Z
+- [About Us | Skincare, Curated with Intention](https://www.trendykbeauty.com/pages/about): @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=DM+Sans:wght@300;400;...
+  Updated: 2026-04-24T20:24:24Z
 - [Shipping Policy | Free Worldwide Delivery & Times](https://www.trendykbeauty.com/pages/shipping-policy): We proudly offer FREE worldwide shipping via! Please note that we require 3 to 5 working days on average to fulfill your order before dispatching i...
   Updated: 2026-04-09T14:36:58Z
 - [Refund & Returns Policy | Trendy K-Beauty](https://www.trendykbeauty.com/pages/refund-policy): Cancellation You may cancel your order within 48 hours of placing it. Please allow 3-5 business days for the refund to post to your original form o...
@@ -731,6 +731,8 @@
   Updated: 2026-04-09T14:33:40Z
 - [Track Your Order | Shipping Status & Updates](https://www.trendykbeauty.com/pages/order-tracking): Track your order in real time. Enter your tracking number below to check the latest shipping status of your order. Need help finding your tracking ...
   Updated: 2026-04-09T14:32:27Z
+- [FAQ — Skincare Guide & Brand Information](https://www.trendykbeauty.com/pages/faq-skincare-guide-brand-information): @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=DM+Sans:wght@300;400;...
+  Updated: 2026-04-24T20:27:22Z
 
 ## Policies
 
