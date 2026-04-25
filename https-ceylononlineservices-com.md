@@ -6,19 +6,19 @@
 - Timezone: Pacific/Auckland
 - Created At: 2025-04-17T06:58:27Z
 - Contact Email: contact@ceylononlineservices.com
-- Updated At: 2026-04-10T00:00:47.760Z
+- Updated At: 2026-04-25T00:00:43.460Z
 
 ## Products
 
 - [Asiri Hospital Kandy Online Consultation | Sri Lankan Doctors Telehealth](https://ceylononlineservices.com/products/asiri-hospital-kandy-online-consultation): Book online  consultation with specialist doctors at Asiri Hospital Kandy. Premium Sri Lankan  via telehealth for diaspora worldwide. $40 USD / $65 NZD.
-  Updated: 2026-04-01T20:54:59Z
+  Updated: 2026-04-20T21:52:26Z
   Vendor: Ceylon Online Services
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0937/9751/5583/files/photo4.png?v=1771740519
   Price: $65.00 USD
 - [Surgery](https://ceylononlineservices.com/products/surgery): Experience world-class  and wellness in Sri Lanka with our exclusive Health Tourism Packages, now available in partnership with Asiri Hospital Kandy, and Nawinna Hospital Kurunegala. Whether you’re seeking preventive care, specialized , or comprehensive wellness assessments, our partner hospitals offer a wide range of  services tailored for international patients.
-  Updated: 2026-02-22T06:11:44Z
+  Updated: 2026-04-20T21:52:27Z
   Vendor: Ceylon Online Services
   Product Type: 
   Availability: Available
@@ -174,7 +174,7 @@
     Availability: Available
     Price: $1,625.00 USD
 - [Black Tea](https://ceylononlineservices.com/products/black-tea): This premium collection showcases Ceylon black teas from Sri Lanka's prestigious regions. From high-altitude Pedro Estate (6,000 feet) in Nuwara Eliya—the "Champagne of Ceylon Tea"—to renowned Dimbula and Uva highlands, each offers distinctive seasonal characteristics. Featuring Orthodox grades (BOP, BOPF, OP1, Pekoe) with profiles ranging from mellow to full-bodied. Seasonal specialties like rare Pinnacle of Uva (July-August) provide mint notes, while Dimbula teas peak March-May with golden orange liquor. Low-grown Kiruwanaganga varieties offer sweet caramel to strong notes. Best enjoyed straight to appreciate terroir or with Kithul jaggery. This collection represents Ceylon excellence from delicate high-grown to robust.
-  Updated: 2026-04-08T05:42:24Z
+  Updated: 2026-04-20T21:52:27Z
   Vendor: Ceylon Online Services
   Product Type: 
   Availability: Available
@@ -264,7 +264,7 @@
     Availability: Available
     Price: $25.00 USD
 - [Green Tea](https://ceylononlineservices.com/products/green-tea): Ceylon green tea is celebrated for its smooth, refreshing taste and remarkable health benefits. Naturally rich in antioxidants and polyphenols, it supports weight management, liver health, and may help reduce risks associated with Alzheimer’s and type 2 diabetes. Ceylon green teas are less astringent than many other varieties, offering a mellow, clean flavor whether enjoyed hot or iced. Their minimal processing helps preserve both delicate taste and beneficial compounds, making them an ideal choice for those seeking a healthy, revitalizing beverage with a gentle, satisfying profile.
-  Updated: 2026-03-04T03:55:57Z
+  Updated: 2026-04-20T21:52:27Z
   Vendor: Ceylon Online Services
   Product Type: 
   Availability: Available
@@ -294,7 +294,7 @@
     Availability: Available
     Price: $15.00 USD
 - [White Tea](https://ceylononlineservices.com/products/white-tea): Ceylon Pearl:A unique and rare white tea made from the buds of tea leaves with minimal processing, often sun-dried. Sourced from Shannon Estate, Hatton, this "silver tip" tea is distinguished by its delicate flavors and floral aroma, making it especially popular among health-conscious tea enthusiasts.
-  Updated: 2025-08-10T21:50:18Z
+  Updated: 2026-04-20T21:52:27Z
   Vendor: Ceylon Online Services
   Product Type: 
   Availability: Available
@@ -312,7 +312,7 @@
     Availability: Available
     Price: $15.00 USD
 - [Spicy Chai](https://ceylononlineservices.com/products/spicy-chai): Four Virgins Spicy Chai:This distinctive chai blends Ceylon Black Tea from Vellaioya Estate with three spices: cinnamon, clove, and pepper. The cinnamon, sourced from higher elevations, enhances both flavor and aroma, resulting in a chai with a unique spicy profile. It can be enjoyed with milk and sweetened naturally with Kithul jaggery for an authentic touch.
-  Updated: 2026-02-09T00:06:50Z
+  Updated: 2026-04-20T21:52:27Z
   Vendor: Ceylon Online Services
   Product Type: 
   Availability: Available
@@ -330,14 +330,14 @@
     Availability: Available
     Price: $25.00 USD
 - [Health Tourism](https://ceylononlineservices.com/products/health-tourism): Your premier health tourism partner in Sri Lanka. We provide complete concierge services including airport pickup, comfortable accommodation, dedicated transportation, and personalized tour guidance for  travelers. Focus on your health journey while we handle everything else, from hospital transfers to exploring Sri Lanka's beautiful landscapes during your recovery. Experience world-class  wrapped in authentic Sri Lankan hospitality.
-  Updated: 2026-02-22T06:10:51Z
+  Updated: 2026-04-20T21:52:28Z
   Vendor: Ceylon Online Services
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0937/9751/5583/files/Image_3.png?v=1771740651
   Price: $0.00 USD
 - [Tour Ceylon](https://ceylononlineservices.com/products/tour-ceylon): Experience the wonder of Sri Lanka, where ancient temples meet pristine beaches and misty mountains. Our island paradise offers unforgettable adventures from wildlife safaris to colonial heritage sites, all within easy reach. Discover world-class surfing, whale watching, and tea plantations, or simply unwind on our golden shores. With year-round perfect weather and legendary hospitality, Sri Lanka delivers extraordinary diversity in one compact destination. Let us guide you through our treasure island's hidden gems and iconic landmarks for an authentic journey you'll cherish forever. Transportation included: 1-3 people receive a private car, 4-8 people travel in a comfortable van, and groups of 9+ enjoy a spacious minibus.
-  Updated: 2026-02-12T10:17:46Z
+  Updated: 2026-04-20T21:52:28Z
   Vendor: Ceylon Online Services
   Product Type: 
   Availability: Available
@@ -373,21 +373,21 @@
     Availability: Available
     Price: $0.00 USD
 - [Nawinne Hospital Kurunegala Online Consultation | Sri Lankan Doctors Telehealth](https://ceylononlineservices.com/products/sri-lankan-doctor-consultation-nawinne-hospital-kurunegala): Book online  consultation with  doctors at Nawinne Hospital Kurunegala. Trusted Sri Lankan  via telemedicine. $40 USD / $65 NZD.
-  Updated: 2026-02-22T17:28:32Z
+  Updated: 2026-04-20T21:52:28Z
   Vendor: Ceylon Online Services
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0937/9751/5583/files/image_8.png?v=1771740568
   Price: $65.00 USD
 - [Danthaja Dental Online Consultation | Sri Lankan Dentist Telehealth](https://ceylononlineservices.com/products/danthaja-dental-consultation-online-sri-lanka): Book online dental consultation with expert dentists at Danthaja Premium Dental Chambers. Professional Sri Lankan dental care via telehealth. $47 USD / $75 NZD.
-  Updated: 2026-02-22T17:29:48Z
+  Updated: 2026-04-20T21:52:28Z
   Vendor: Ceylon Online Services
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0937/9751/5583/files/6053554a-7ae2-45cb-8e69-01fb47fddb46.jpg?v=1771740599
   Price: $75.00 USD
 - [Sinhala to English Document Translation](https://ceylononlineservices.com/products/sinhala-to-english-document-translation): Ceylon Online Services have partnered with W. B. Dissanayaka (Retired SLAS Secretary) to offers professional legal documentation services. With extensive experience and multiple academic qualifications, he specializes in preparing deeds, last wills, affidavits, powers of attorney, and other legal documents. Trustworthy and reliable service for all your legal paperwork needs. Our standard pricing covers small documents like birth certificates and marriage certificates. Need a larger document converted? Just contact us and we'll provide a custom quote.
-  Updated: 2026-02-22T05:53:53Z
+  Updated: 2026-04-20T21:52:29Z
   Vendor: Ceylon Online Services
   Product Type: 
   Availability: Available
@@ -401,97 +401,38 @@
   - [Three](https://ceylononlineservices.com/products/sinhala-to-english-document-translation?variant=51252089553215)
     Availability: Available
     Price: $95.00 USD
-- [Custom Laser Engraving Services – Plaques, Awards, Nameplates](https://ceylononlineservices.com/products/plaques): Personalized laser engraving on wood, metal, and MDF. Order custom plaques, awards, and signage. Upload your design-fast quotes, expert quality, Sri Lankan trusted service.
-  Updated: 2025-10-29T22:13:23Z
-  Vendor: Ceylon Online Services
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0937/9751/5583/files/CFF36EA1-B6A5-4389-9E71-D76122D71BE6.jpg?v=1757824411
-  - [Kauri / Vertical with wooden stand (115 x 200mm)](https://ceylononlineservices.com/products/plaques?variant=51385243697471)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0937/9751/5583/files/CFF36EA1-B6A5-4389-9E71-D76122D71BE6.jpg?v=1757824411
-    Price: $90.00 USD
-  - [Kauri / Horizontal or Vertical with plastic stand (210 x 115mm)](https://ceylononlineservices.com/products/plaques?variant=51385243763007)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0937/9751/5583/files/62A8B610-C7A1-4BEE-962B-9518D65EF498.jpg?v=1761775216
-    Price: $85.00 USD
-  - [Kauri / Square Plaque no stand (115 x 200mm)](https://ceylononlineservices.com/products/plaques?variant=51385243894079)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0937/9751/5583/files/62A8B610-C7A1-4BEE-962B-9518D65EF498.jpg?v=1761775216
-    Price: $80.00 USD
-  - [Kauri / Square Plaque with New Zealand (130x145 mm)](https://ceylononlineservices.com/products/plaques?variant=51442965086527)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0937/9751/5583/files/IMG_9602.jpg?v=1758935957
-    Price: $130.00 USD
-  - [Kauri / Square Plaque with Sri Lanka (130x145 mm)](https://ceylononlineservices.com/products/plaques?variant=51442966495551)
-    Availability: Available
-    Price: $130.00 USD
-  - [Kauri / Certificate Holder](https://ceylononlineservices.com/products/plaques?variant=51442976424255)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0937/9751/5583/files/Untitled_design_7.png?v=1761775575
-    Price: $60.00 USD
-  - [Kauri / Horizontal name plate with Plastic Stand 180x115](https://ceylononlineservices.com/products/plaques?variant=51523003121983)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0937/9751/5583/files/IMG_0175.jpg?v=1761775176
-    Price: $75.00 USD
-- [Custom 3D Printing Service – PLA/PETG, Prototypes, Fast Quote](https://ceylononlineservices.com/products/3d-printing-service): Get custom 3D printed prototypes, parts, decor in PLA/PETG and many colors. Fast quotes, reliable service, trusted by Sri Lankan diaspora. Special colors available.
-  Updated: 2026-04-06T17:08:23Z
-  Vendor: Ceylon Online Services
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0937/9751/5583/files/ChatGPTImageAug31_2025_10_13_57AM.png?v=1756592051
-  - [Birthday Coasters Set with holder (6 Coasters)](https://ceylononlineservices.com/products/3d-printing-service?variant=51523026420031)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0937/9751/5583/files/IMG_9900.jpg?v=1761776659
-    Price: $35.00 USD
-  - [Decorative Coasters Set (6 Coasters)](https://ceylononlineservices.com/products/3d-printing-service?variant=51523029303615)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0937/9751/5583/files/IMG_9426.jpg?v=1761776729
-    Price: $35.00 USD
-  - [Cake Topper](https://ceylononlineservices.com/products/3d-printing-service?variant=51523044606271)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0937/9751/5583/files/IMG_9900.jpg?v=1761776659
-    Price: $20.00 USD
-  - [Birthday Combo - 1 Cake Topper + 6 Birthday Coasters](https://ceylononlineservices.com/products/3d-printing-service?variant=51523045491007)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0937/9751/5583/files/IMG_9900.jpg?v=1761776659
-    Price: $50.00 USD
-  - [Custom Figure](https://ceylononlineservices.com/products/3d-printing-service?variant=51523047751999)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0937/9751/5583/files/IMG_0050.png?v=1761777271
-    Price: $50.00 USD
 
 ## Collections
 
 - [Home page](https://ceylononlineservices.com/collections/frontpage)
-  Updated: 2026-02-22T05:30:33Z
+  Updated: 2026-04-20T21:47:38Z
   Total Products: 7
 - [Professional Services](https://ceylononlineservices.com/collections/services): Your health, your rights, your trusted experts
-  Updated: 2026-02-22T06:10:21Z
+  Updated: 2026-04-20T21:47:38Z
   Total Products: 9
 - [Spices](https://ceylononlineservices.com/collections/spices)
-  Updated: 2025-05-19T10:30:48Z
+  Updated: 2026-04-20T21:47:39Z
   Total Products: 0
 - [Tourism](https://ceylononlineservices.com/collections/tourism): Experience Sri Lanka Authentically - Tours, Wellness & Culture Await
-  Updated: 2025-09-14T12:00:16Z
+  Updated: 2026-04-20T21:47:39Z
   Total Products: 2
 - [Traditional Clothing](https://ceylononlineservices.com/collections/traditional-clothing)
-  Updated: 2025-05-19T10:30:48Z
+  Updated: 2026-04-20T21:47:39Z
   Total Products: 0
 - [Ornaments](https://ceylononlineservices.com/collections/ornaments)
-  Updated: 2025-05-19T10:30:48Z
+  Updated: 2026-04-20T21:47:39Z
   Total Products: 0
 - [Surgery](https://ceylononlineservices.com/collections/surgery)
-  Updated: 2025-07-09T11:21:33Z
+  Updated: 2026-04-20T21:47:39Z
   Total Products: 1
 - [Featured](https://ceylononlineservices.com/collections/featured)
-  Updated: 2026-02-22T05:28:25Z
+  Updated: 2026-04-20T21:47:39Z
   Total Products: 4
 - [Teas](https://ceylononlineservices.com/collections/teas)
-  Updated: 2025-09-08T09:22:05Z
+  Updated: 2026-04-20T21:47:39Z
   Total Products: 4
 - [Plaques Plus](https://ceylononlineservices.com/collections/plaques-plus): Turning thoughts into tangible treasures
-  Updated: 2026-04-06T05:09:20Z
+  Updated: 2026-04-18T00:20:36Z
   Total Products: 2
 
 ## Blogs
@@ -559,6 +500,24 @@
     Author: Ceylon Online Services
   - [Comparing Traditional Retail with Online Marketplaces in Sri Lanka](https://ceylononlineservices.com/blogs/news/comparing-traditional-retail-with-online-marketplaces-in-sri-lanka): Comparing Traditional Retail with Online Marketplaces in Sri Lanka
     Updated: 2026-04-08T01:44:00Z
+    Author: Ceylon Online Services
+  - [Building an Effective Online Brand for Your Ceylon Business](https://ceylononlineservices.com/blogs/news/building-an-effective-online-brand-for-your-ceylon-business): Building an Effective Online Brand for Your Ceylon Business
+    Updated: 2026-04-11T00:29:23Z
+    Author: Ceylon Online Services
+  - [How to Engage Customers for Your Ceylon Online Store](https://ceylononlineservices.com/blogs/news/how-to-engage-customers-for-your-ceylon-online-store): How to Engage Customers for Your Ceylon Online Store
+    Updated: 2026-04-13T01:33:26Z
+    Author: Ceylon Online Services
+  - [Addressing Common Shipping Challenges in Ceylon's E-commerce](https://ceylononlineservices.com/blogs/news/addressing-common-shipping-challenges-in-ceylons-e-commerce): Addressing Common Shipping Challenges in Ceylon's E-commerce
+    Updated: 2026-04-15T01:47:18Z
+    Author: Ceylon Online Services
+  - [A Guide to Leveraging Social Media for E-commerce Success in Sri Lanka](https://ceylononlineservices.com/blogs/news/a-guide-to-leveraging-social-media-for-e-commerce-success-in-sri-lanka): A Guide to Leveraging Social Media for E-commerce Success in Sri Lanka
+    Updated: 2026-04-18T00:29:48Z
+    Author: Ceylon Online Services
+  - [Checklist for Structuring Your Online  Campaign in Ceylon](https://ceylononlineservices.com/blogs/news/checklist-for-structuring-your-online--campaign-in-ceylon): Checklist for Structuring Your Online  Campaign in Ceylon
+    Updated: 2026-04-20T01:50:37Z
+    Author: Ceylon Online Services
+  - [Historical Perspectives on Digital Business Growth in Sri Lanka](https://ceylononlineservices.com/blogs/news/historical-perspectives-on-digital-business-growth-in-sri-lanka): Historical Perspectives on Digital Business Growth in Sri Lanka
+    Updated: 2026-04-22T01:49:50Z
     Author: Ceylon Online Services
 
 ## Store Pages
