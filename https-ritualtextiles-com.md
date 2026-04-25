@@ -6,95 +6,90 @@
 - Timezone: America/Chicago
 - Created At: 2026-04-03T16:27:06Z
 - Contact Email: ceo@ritualtextiles.com
-- Updated At: 2026-04-17T20:16:24.335Z
+- Updated At: 2026-04-25T00:00:27.458Z
 
 ## Products
 
-- [Signature Saunakini Turkish Linen Top (Preorder)](https://ritualtextiles.com/products/signature-saunakini): This is a preorder, orders will be shipped out April 22, 2026 Top Only Experience the ritual textiles Signature Saunakini constructed from 100% knitted linen sourced from the finest mills in Turkey.Fabric 100% Turkish Linen, cording 100% cotton OKEO TEX Standard 100  GOTS  PFD fabric, this fabric has not entered the dying process. Mix and match this top and pair with the Signature Saunakini knitted linen bottoms for a timeless look.
-  Updated: 2026-04-17T20:16:04Z
+- [TURKISH KNITTED LINEN BIKINI TOP](https://ritualtextiles.com/products/signature-saunakini): Signature Saunakini Top OnlySwimsuit fabric 100% Turkish Knitted Linen, Cording: 100% Organic Cotton PROPERTIES OEKO-TEX Standard 100  and GOTS  20-30% mechanical stretch from knitted fabric structure. Naturally antimicrobial, antibacterial, antifungal Air dries quickly PFD fabric, this fabric has not entered the dying process MATERIAL SCIENCE: Linen's hollow fiber core creates natural airflow channels through the weave. The open knit structure accelerates this, allowing heat and moisture to move outward rather than accumulate.
+  Updated: 2026-04-24T16:23:31Z
   Vendor: ritual textiles
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0765/9113/6946/files/linen_bikini_top_organic_cotton_bikini_top.png?v=1776119842
+  Image: https://cdn.shopify.com/s/files/1/0765/9113/6946/files/organic_linen_bikini_top.png?v=1776648494
   - [Small](https://ritualtextiles.com/products/signature-saunakini?variant=47264838385842)
     Availability: Available
-    Price: $75.00 USD
+    Price: $48.00 USD
   - [Medium](https://ritualtextiles.com/products/signature-saunakini?variant=47264838418610)
     Availability: Available
-    Price: $75.00 USD
+    Price: $48.00 USD
   - [Large](https://ritualtextiles.com/products/signature-saunakini?variant=47264838451378)
     Availability: Available
-    Price: $75.00 USD
-- [Signature Saunakini Turkish Linen Bottom (Preorder)](https://ritualtextiles.com/products/preorder-signature-saunakini-100-knitted-linen-bikini-bottom): This is a preorder, orders will be shipped out April 22, 2026 Bottoms Only Experience the ritual textiles Signature Saunakini bottom constructed from 100% knitted linen sourced from the finest mills in Turkey.Fabric 100% Turkish Linen, cording 100% cotton OKEO TEX Standard 100  GOTS  PFD fabric, this fabric has not entered the dying process. Mix and match this top and pair with the Signature Saunakini knitted linen top for a timeless look.
-  Updated: 2026-04-17T20:15:49Z
+    Price: $48.00 USD
+- [TURKISH KNITTED LINEN BIKINI BOTTOM](https://ritualtextiles.com/products/preorder-signature-saunakini-100-knitted-linen-bikini-bottom): Signature Saunakini Bottom OnlySwimsuit fabric 100% Turkish Knitted Linen, Cording: 100% Organic Cotton PROPERTIES OEKO-TEX Standard 100  and GOTS  20-30% mechanical stretch from knitted fabric structure. Naturally antimicrobial, antibacterial, antifungal Air dries quickly PFD fabric, this fabric has not entered the dying process MATERIAL SCIENCE: Linen's hollow fiber core creates natural airflow channels through the weave. The open knit structure accelerates this, allowing heat and moisture to move outward rather than accumulate.
+  Updated: 2026-04-24T16:23:21Z
   Vendor: ritual textiles
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0765/9113/6946/files/linen_bikini_bottoms_organic_cotton_bikini_bottoms.png?v=1776119808
+  Image: https://cdn.shopify.com/s/files/1/0765/9113/6946/files/organic_linen_bikini_bottom.png?v=1776648507
   - [Small](https://ritualtextiles.com/products/preorder-signature-saunakini-100-knitted-linen-bikini-bottom?variant=47268738433202)
     Availability: Available
-    Price: $70.00 USD
+    Price: $48.00 USD
   - [Medium](https://ritualtextiles.com/products/preorder-signature-saunakini-100-knitted-linen-bikini-bottom?variant=47268738465970)
     Availability: Available
-    Price: $70.00 USD
+    Price: $48.00 USD
   - [Large](https://ritualtextiles.com/products/preorder-signature-saunakini-100-knitted-linen-bikini-bottom?variant=47268738498738)
     Availability: Available
-    Price: $70.00 USD
-- [ritual textiles gift card](https://ritualtextiles.com/products/thebees-gift-card)
-  Updated: 2026-04-14T10:05:42Z
+    Price: $48.00 USD
+- [TURKISH KNITTED LINEN BIKINI SET](https://ritualtextiles.com/products/signature-linen-saunakini-100-turkish-linen-bikini-top-and-bottom): Signature Saunakini 2-Piece SetSwimsuit fabric 100% Turkish Knitted Linen, Cording: 100% Organic Cotton PROPERTIES OEKO-TEX Standard 100  and GOTS  20-30% mechanical stretch from knitted fabric structure. Naturally antimicrobial, antibacterial, antifungal Air dries quickly PFD fabric, this fabric has not entered the dying process MATERIAL SCIENCE: Linen's hollow fiber core creates natural airflow channels through the weave. The open knit structure accelerates this, allowing heat and moisture to move outward rather than accumulate.
+  Updated: 2026-04-24T16:23:06Z
   Vendor: ritual textiles
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0765/9113/6946/files/ritual.png?v=1776118076
-  - [$25.00](https://ritualtextiles.com/products/thebees-gift-card?variant=47268778672306)
+  Image: https://cdn.shopify.com/s/files/1/0765/9113/6946/files/organic_linen_bikini_set.png?v=1776648527
+  - [Small / Small](https://ritualtextiles.com/products/signature-linen-saunakini-100-turkish-linen-bikini-top-and-bottom?variant=47304176435378)
     Availability: Available
-    Price: $25.00 USD
-  - [$50.00](https://ritualtextiles.com/products/thebees-gift-card?variant=47268778705074)
+    Price: $89.00 USD
+  - [Small / Medium](https://ritualtextiles.com/products/signature-linen-saunakini-100-turkish-linen-bikini-top-and-bottom?variant=47304176992434)
     Availability: Available
-    Price: $50.00 USD
-  - [$100.00](https://ritualtextiles.com/products/thebees-gift-card?variant=47268778737842)
+    Price: $89.00 USD
+  - [Small / Large](https://ritualtextiles.com/products/signature-linen-saunakini-100-turkish-linen-bikini-top-and-bottom?variant=47304177025202)
     Availability: Available
-    Price: $100.00 USD
-  - [$200.00](https://ritualtextiles.com/products/thebees-gift-card?variant=47268778770610)
+    Price: $89.00 USD
+  - [Medium / Small](https://ritualtextiles.com/products/signature-linen-saunakini-100-turkish-linen-bikini-top-and-bottom?variant=47319135944882)
     Availability: Available
-    Price: $200.00 USD
-- [Signature Saunakini Turkish Linen Bikini Top and Bottom (Preorder)](https://ritualtextiles.com/products/signature-linen-saunakini-100-turkish-linen-bikini-top-and-bottom): This is a preorder, orders will be shipped out April 22, 2026 Experience the ritual textiles Signature Saunakini constructed from 100% knitted linen sourced from the finest mills in Turkey.Fabric 100% Turkish Linen, cording 100% cotton OKEO TEX Standard 100  GOTS  PFD fabric, this fabric has not entered the dying process.
-  Updated: 2026-04-17T20:15:37Z
-  Vendor: ritual textiles
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0765/9113/6946/files/Untitled_500_x_500_px_2000_x_2000_px.png?v=1776119684
-  - [Small](https://ritualtextiles.com/products/signature-linen-saunakini-100-turkish-linen-bikini-top-and-bottom?variant=47304176435378)
+    Price: $89.00 USD
+  - [Medium / Medium](https://ritualtextiles.com/products/signature-linen-saunakini-100-turkish-linen-bikini-top-and-bottom?variant=47319135977650)
     Availability: Available
-    Price: $129.00 USD
-  - [Medium](https://ritualtextiles.com/products/signature-linen-saunakini-100-turkish-linen-bikini-top-and-bottom?variant=47304176992434)
+    Price: $89.00 USD
+  - [Medium / Large](https://ritualtextiles.com/products/signature-linen-saunakini-100-turkish-linen-bikini-top-and-bottom?variant=47319136010418)
     Availability: Available
-    Price: $129.00 USD
-  - [Large](https://ritualtextiles.com/products/signature-linen-saunakini-100-turkish-linen-bikini-top-and-bottom?variant=47304177025202)
+    Price: $89.00 USD
+  - [Large / Small](https://ritualtextiles.com/products/signature-linen-saunakini-100-turkish-linen-bikini-top-and-bottom?variant=47319136043186)
     Availability: Available
-    Price: $129.00 USD
+    Price: $89.00 USD
+  - [Large / Medium](https://ritualtextiles.com/products/signature-linen-saunakini-100-turkish-linen-bikini-top-and-bottom?variant=47319136075954)
+    Availability: Available
+    Price: $89.00 USD
+  - [Large / Large](https://ritualtextiles.com/products/signature-linen-saunakini-100-turkish-linen-bikini-top-and-bottom?variant=47319136108722)
+    Availability: Available
+    Price: $89.00 USD
 
 ## Collections
 
 - [Home page](https://ritualtextiles.com/collections/frontpage)
-  Updated: 2026-04-17T20:15:50Z
+  Updated: 2026-04-24T16:21:03Z
   Total Products: 7
 - [Spa Wear](https://ritualtextiles.com/collections/spa-wear)
-  Updated: 2026-04-17T20:15:50Z
+  Updated: 2026-04-24T16:21:03Z
   Total Products: 7
-
-## Blogs
-
-- [Grown and Sewn Blog](https://ritualtextiles.com/blogs/grown-and-sewn): Natural Fiber apparel blog keywords linen, merino wool, natural fiber, microplastic-free, synthetic-free, swimwear, activewear, natural fiber apparel
-  - [Can Clothing Make You Healthier? The Future of Fashion is Wellness](https://ritualtextiles.com/blogs/grown-and-sewn/microplastic-free-clothing-can-non-endocrine-disrupting-apparel-be-the-future-of-fashion)
-    Updated: 2026-04-17T19:24:01Z
-    Author: Claire Dubiel
-    Tags: activewear, linen, microplastic free, natural fiber
+- [Woven Textiles example products](https://ritualtextiles.com/collections/woven-textiles-example-products)
+  Updated: 2026-04-23T03:42:11Z
+  Total Products: 0
 
 ## Store Pages
 
-- [Contact](https://ritualtextiles.com/pages/contact)
-  Updated: 2026-04-03T16:27:08Z
+- [Contact](https://ritualtextiles.com/pages/contact): In an effort to filter out spam messages, please include the phrase 'flax' before your message and your message will be processed by a team member ...
+  Updated: 2026-04-20T02:51:52Z
 - [Your Privacy Choices](https://ritualtextiles.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-04-03T16:27:14Z
 
@@ -102,6 +97,12 @@
 
 - [Privacy Policy](https://ritualtextiles.com/policies/privacy-policy)
   Updated: 2026-04-03T11:27:17-05:00
+- [Refund Policy](https://ritualtextiles.com/policies/refund-policy)
+  Updated: 2026-04-20T11:46:38-05:00
+- [Terms of Service](https://ritualtextiles.com/policies/terms-of-service)
+  Updated: 2026-04-20T11:45:04-05:00
+- [Contact Information](https://ritualtextiles.com/policies/contact-information)
+  Updated: 2026-04-20T11:46:55-05:00
 
 ## Optional
 
