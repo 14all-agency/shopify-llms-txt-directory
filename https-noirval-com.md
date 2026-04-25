@@ -6,12 +6,12 @@
 - Timezone: Europe/Copenhagen
 - Created At: 2025-12-22T23:29:53Z
 - Contact Email: support@noirval.com
-- Updated At: 2026-04-15T00:00:36.835Z
+- Updated At: 2026-04-25T00:00:39.795Z
 
 ## Products
 
 - [Seiko Presage Blue](https://noirval.com/products/blue-seiko)
-  Updated: 2026-03-14T14:47:56Z
+  Updated: 2026-04-20T23:03:11Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -23,7 +23,7 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko Datejust Chocolate](https://noirval.com/products/chocolate-seiko)
-  Updated: 2026-03-14T14:47:56Z
+  Updated: 2026-04-20T23:03:11Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -35,7 +35,7 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko Day-Date Olive Arabic](https://noirval.com/products/olive-seiko)
-  Updated: 2026-03-14T14:47:16Z
+  Updated: 2026-04-20T23:03:12Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -47,14 +47,14 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko Nautilus Rose Gold Open Heart](https://noirval.com/products/heart-seiko)
-  Updated: 2026-03-14T14:47:56Z
+  Updated: 2026-04-20T23:03:12Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/3212/9885/files/Opean_Heart.webp?v=1773073043
   Price: €199.00 EUR
 - [Seiko Datejust Purple](https://noirval.com/products/purple-seiko)
-  Updated: 2026-03-14T14:47:21Z
+  Updated: 2026-04-20T23:03:12Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -66,7 +66,7 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko Datejust Smoke Grey](https://noirval.com/products/smokey-seiko)
-  Updated: 2026-03-14T14:47:56Z
+  Updated: 2026-04-20T23:03:13Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -78,7 +78,7 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko Datejust Angel Sky](https://noirval.com/products/angel-seiko)
-  Updated: 2026-03-14T14:47:26Z
+  Updated: 2026-04-20T23:03:13Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -90,7 +90,7 @@
     Availability: Available
     Price: €219.00 EUR
 - [Seiko Land-Dweller Ice Honeycomb](https://noirval.com/products/ocean-seiko)
-  Updated: 2026-03-14T14:47:29Z
+  Updated: 2026-04-20T23:03:13Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -102,28 +102,28 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko GMT II Bruce Wayne](https://noirval.com/products/seiko-gmt-bruce-wayne)
-  Updated: 2026-03-14T14:47:31Z
+  Updated: 2026-04-20T23:03:14Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/3212/9885/files/Untitled_design_1.png?v=1773134777
   Price: €269.00 EUR
 - [Seiko GMT II Joker](https://noirval.com/products/seiko-gmt-joker)
-  Updated: 2026-03-14T14:47:34Z
+  Updated: 2026-04-20T23:03:14Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/3212/9885/files/Correctarrow.png?v=1773148798
   Price: €269.00 EUR
 - [Seiko GMT II Batman](https://noirval.com/products/seiko-gmt-batman)
-  Updated: 2026-03-14T14:47:36Z
+  Updated: 2026-04-20T23:03:14Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/3212/9885/files/Untitled_design_1_45be136f-b441-4cc2-8d54-08db3e206475.png?v=1773135845
   Price: €269.00 EUR
 - [Seiko Datejust Arabic Green](https://noirval.com/products/seiko-day-date-arabic-green)
-  Updated: 2026-03-14T14:47:39Z
+  Updated: 2026-04-20T23:03:15Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -135,7 +135,7 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko Day-Date Arctic Blue Dial](https://noirval.com/products/seiko-day-date-arctic-blue-dial)
-  Updated: 2026-03-14T14:47:41Z
+  Updated: 2026-04-20T23:03:15Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -147,7 +147,7 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko Datejust Black Arabic](https://noirval.com/products/seiko-datejust-black-arabic)
-  Updated: 2026-03-14T14:47:56Z
+  Updated: 2026-04-20T23:03:16Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -159,7 +159,7 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko Datejust Roman Silver](https://noirval.com/products/seiko-datejust-roman-silver)
-  Updated: 2026-03-14T14:47:56Z
+  Updated: 2026-04-20T23:03:16Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -171,7 +171,7 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko Datejust Arabic Pink](https://noirval.com/products/seiko-datejust-arabic-pink)
-  Updated: 2026-03-14T14:47:56Z
+  Updated: 2026-04-20T23:03:16Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -183,7 +183,7 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko Datejust Royal Blue Arabic](https://noirval.com/products/seiko-datejust-royal-blue-arabic)
-  Updated: 2026-03-25T19:51:56Z
+  Updated: 2026-04-20T23:03:17Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -195,7 +195,7 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko Day-Date Roman Ocean](https://noirval.com/products/seiko-day-date-ocean)
-  Updated: 2026-03-14T14:47:56Z
+  Updated: 2026-04-20T23:03:17Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -207,7 +207,7 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko Datejust Violet](https://noirval.com/products/seiko-datejust-violet)
-  Updated: 2026-03-14T14:48:05Z
+  Updated: 2026-04-20T23:03:17Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -219,21 +219,21 @@
     Availability: Available
     Price: €199.00 EUR
 - [Seiko Seamaster Blue](https://noirval.com/products/seiko-seamaster-blue)
-  Updated: 2026-03-25T17:17:56Z
+  Updated: 2026-04-20T23:03:18Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/3212/9885/files/660ft_8423edc7-4860-4e5e-8de3-c55160f95ef2.png?v=1773169654
   Price: €229.00 EUR
 - [Seiko Wimbledon](https://noirval.com/products/seiko-wimbledon)
-  Updated: 2026-03-14T14:48:04Z
+  Updated: 2026-04-20T23:03:18Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/3212/9885/files/660ft_1.png?v=1773184508
   Price: €209.00 EUR
 - [Seiko Yacht Master Rhodium](https://noirval.com/products/seiko-yacht-master-rhodium)
-  Updated: 2026-03-14T14:48:07Z
+  Updated: 2026-04-20T23:03:19Z
   Vendor: Noirval
   Product Type: 
   Availability: Available
@@ -243,34 +243,34 @@
 ## Collections
 
 - [Home page](https://noirval.com/collections/frontpage)
-  Updated: 2026-03-12T11:38:55Z
+  Updated: 2026-04-20T22:02:01Z
   Total Products: 8
 - [Datejust](https://noirval.com/collections/datejust)
-  Updated: 2026-03-12T11:38:55Z
+  Updated: 2026-04-20T22:02:02Z
   Total Products: 12
 - [Day-Date](https://noirval.com/collections/day-date)
-  Updated: 2026-03-10T23:17:36Z
+  Updated: 2026-04-20T22:02:02Z
   Total Products: 3
 - [Land-Dweller](https://noirval.com/collections/land-dweller)
-  Updated: 2026-03-10T09:52:12Z
+  Updated: 2026-04-20T22:02:02Z
   Total Products: 1
 - [Nautilus](https://noirval.com/collections/nautilus)
-  Updated: 2026-03-09T16:32:42Z
+  Updated: 2026-04-20T22:02:03Z
   Total Products: 1
 - [Presage](https://noirval.com/collections/presage)
-  Updated: 2026-03-09T16:32:57Z
+  Updated: 2026-04-20T22:02:03Z
   Total Products: 1
 - [GMT](https://noirval.com/collections/gmt)
-  Updated: 2026-03-13T13:42:22Z
+  Updated: 2026-04-20T22:02:03Z
   Total Products: 3
 - [Gotham](https://noirval.com/collections/superhero)
-  Updated: 2026-03-13T13:42:22Z
+  Updated: 2026-04-20T22:02:03Z
   Total Products: 3
 - [Seamaster](https://noirval.com/collections/seamaster)
-  Updated: 2026-03-10T19:09:52Z
+  Updated: 2026-04-20T22:02:04Z
   Total Products: 1
 - [Yacht Master](https://noirval.com/collections/yacht-master)
-  Updated: 2026-03-12T20:38:00Z
+  Updated: 2026-04-20T22:02:04Z
   Total Products: 1
 
 ## Store Pages
