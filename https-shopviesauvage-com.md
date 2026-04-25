@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2023-03-29T16:50:51Z
 - Contact Email: Info.viesauvage@gmail.com
-- Updated At: 2026-04-17T00:00:46.808Z
+- Updated At: 2026-04-25T00:00:50.926Z
 
 ## Products
 
 - [Jennifer Halter Gown | Crystal Lace-Up Column | Vie Sauvage](https://shopviesauvage.com/products/jennifer-gown): Stretch halter gown with crystal plunge, adjustable lacing, thigh slit, and sweep train. Handmade in Las Vegas; cut-to-order and ships in 48 hours.
-  Updated: 2026-03-12T04:04:40Z
+  Updated: 2026-04-17T19:01:08Z
   Vendor: Vie Sauvage LV
   Product Type: Gowns
   Availability: Available
@@ -131,7 +131,7 @@
     Availability: Available
     Price: $325.00 USD
 - [Maeve Mini Dress | Crystal Lattice Back | Vie Sauvage LV](https://shopviesauvage.com/products/maeve-heart-dress): Stretch jersey mini with sleek halter front and multi-strand crystal back. Handmade in Las Vegas; perfect for cocktail events.
-  Updated: 2026-03-12T04:04:41Z
+  Updated: 2026-04-17T19:01:09Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -209,7 +209,7 @@
     Availability: Available
     Price: $425.00 USD
 - [Dolores Gown | One-Shoulder Cape Slit Column | Vie Sauvage](https://shopviesauvage.com/products/dolores-gown): Stretch jersey gown with draped cape sleeve, crystal-strapped thigh slit, and customizable prints. Handmade in Las Vegas; ships in 48 hours.
-  Updated: 2026-03-12T04:04:41Z
+  Updated: 2026-04-17T19:01:09Z
   Vendor: Vie Sauvage LV
   Product Type: Gowns
   Availability: Available
@@ -287,7 +287,7 @@
     Availability: Available
     Price: $525.00 USD
 - [Dolores Dress | Custom Length One-Shoulder Gown | Vie Sauvage LV](https://shopviesauvage.com/products/dolores): One-shoulder crystal-slit dress offered in mini, midi, or maxi lengths with fitted or cape sleeves. Handmade in Las Vegas; include length, sleeve, and phone number when ordering.
-  Updated: 2026-04-09T21:36:07Z
+  Updated: 2026-04-17T19:01:10Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -365,7 +365,7 @@
     Availability: Available
     Price: $425.00 USD
 - [Shawna Gown | Metallic Crystal Cage Slit Dress | Vie Sauvage LV](https://shopviesauvage.com/products/shawna): Liquid metallic jersey gown with crystal cage bust, laddered hips, and twin thigh-high slits. Handmade in Las Vegas.
-  Updated: 2026-04-04T04:44:37Z
+  Updated: 2026-04-17T19:01:10Z
   Vendor: Vie Sauvage LV
   Product Type: Gowns
   Availability: Available
@@ -529,7 +529,7 @@ Alt-Text Suggestions
 1. “Front view of Ariel romper showing chiffon halter bow and crystal waist.”
 
 2. “Back view highlighting open halter tie and flared shorts.”
-  Updated: 2026-04-11T01:08:40Z
+  Updated: 2026-04-17T19:01:12Z
   Vendor: Vie Sauvage LV
   Product Type: Jumpsuit
   Availability: Available
@@ -631,7 +631,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $395.00 USD
 - [Sophie Gown | Crystal Keyhole Column | Vie Sauvage LV](https://shopviesauvage.com/products/vs1140-sophie-gown): Stretch jersey gown with long sleeves, crystal keyhole plunge, and double thigh slits. Handmade in Las Vegas; cut-to-order and ships in 48 hours.
-  Updated: 2026-03-12T04:04:42Z
+  Updated: 2026-04-17T19:01:13Z
   Vendor: Vie Sauvage LV
   Product Type: Gowns
   Availability: Available
@@ -781,7 +781,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $399.00 USD
 - [Veronica Dress | Crystal Plunge Blouson Mini | Vie Sauvage LV](https://shopviesauvage.com/products/vs1147-veronica-dress): Double-layer jersey mini with relaxed crystal-trim sleeves, lace-up plunge, and fitted skirt. Handmade in Las Vegas; custom colors available.
-  Updated: 2026-03-27T21:28:06Z
+  Updated: 2026-04-17T19:01:13Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -811,7 +811,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $395.00 USD
 - [Amber Tube Dress | Crystal Plunge Mini | Vie Sauvage LV](https://shopviesauvage.com/products/vs1012-amber-tube-dress): Strapless stretch mini with crystal-trim plunge, lace-up bodice, and ruched skirt. Handmade in Las Vegas.
-  Updated: 2026-03-12T04:04:42Z
+  Updated: 2026-04-17T19:01:13Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -889,7 +889,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $395.00 USD
 - [Kat Mesh Dress |  Sheer Sleeve Mini | Vie Sauvage LV](https://shopviesauvage.com/products/vs1146-kat-mesh-dress): Stretch jersey mini with sheer mesh overlay, crystal waist, and plunging neckline. Handmade in Las Vegas; cut-to-order and ships in 48 hours.
-  Updated: 2026-03-12T04:04:42Z
+  Updated: 2026-04-17T19:01:14Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -985,7 +985,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $375.00 USD
 - [Tiffany Gown | Crystal T-Bar Halter Column | Vie Sauvage LV](https://shopviesauvage.com/products/vs1150-tiffany-gown): Stretch jersey gown with crystal halter collar, plunging T-bar detail, and thigh-high slit. Handmade in Las Vegas; cut-to-order and ships in 48 hours.
-  Updated: 2026-03-12T20:48:05Z
+  Updated: 2026-04-17T19:01:14Z
   Vendor: Vie Sauvage LV
   Product Type: Gowns
   Availability: Available
@@ -1071,7 +1071,7 @@ Alt-Text Suggestions
 1. “Front view of Ariel jumpsuit showing mesh halter inset and knotted waist.”
 
 2. “Back angle highlighting oversized bow sash and wide-leg drape.”
-  Updated: 2026-03-12T04:04:43Z
+  Updated: 2026-04-21T22:33:49Z
   Vendor: Vie Sauvage LV
   Product Type: Jumpsuit
   Availability: Available
@@ -1163,7 +1163,7 @@ Alt-Text Suggestions
 1. “Front view of Joey Romper showing deep V neckline, crystal belt, and wrap shorts.”
 
 2. “Back view highlighting diamond cutouts with crystal bars.”
-  Updated: 2026-03-12T04:04:43Z
+  Updated: 2026-04-17T19:01:15Z
   Vendor: Vie Sauvage LV
   Product Type: Jumpsuit
   Availability: Available
@@ -1249,7 +1249,7 @@ Alt-Text Suggestions
 1. “Front view of Trizzie jumpsuit showing plunge neckline and crystal waist.”
 
 2. “Back view highlighting crystal ladder cutouts and tie closure.”
-  Updated: 2026-04-16T23:08:47Z
+  Updated: 2026-04-17T19:01:15Z
   Vendor: Vie Sauvage LV
   Product Type: Jumpsuit
   Availability: Available
@@ -1441,7 +1441,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $365.00 USD
 - [Violet Dress | Lace-Up Side Halter Mini | Vie Sauvage LV](https://shopviesauvage.com/products/violet): Stretch jersey mini with plunging halter front and adjustable lace-up side cutouts. Handmade in Las Vegas; cut-to-order and ships in 48 hours.
-  Updated: 2026-03-13T03:11:32Z
+  Updated: 2026-04-17T19:01:16Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -1527,7 +1527,7 @@ Alt-Text Suggestions
 1. “Side view of Lolita dress showing crystal bow hip cutout and asymmetric slit.”
 
 2. “Front view highlighting knotted bodice and draped jersey skirt.”
-  Updated: 2026-02-26T10:26:28Z
+  Updated: 2026-04-18T18:36:39Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -1605,7 +1605,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $395.00 USD
 - [Katia Gown | Crystal T-Bar Halter Column | Vie Sauvage LV](https://shopviesauvage.com/products/katia-gown): Halter gown with crystal plunge, ruched waist, thigh slit, and sweep train. Handmade in Las Vegas; cut-to-order and ships in 48 hours.
-  Updated: 2026-03-12T04:04:43Z
+  Updated: 2026-04-17T23:00:12Z
   Vendor: Vie Sauvage LV
   Product Type: Gowns
   Availability: Available
@@ -1683,7 +1683,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $495.00 USD
 - [Adrian Crystal Halter Jumpsuit | Vie Sauvage LV](https://shopviesauvage.com/products/adrian-jumpsuit): Stretch jersey jumpsuit with crystal-trim plunge, lace-up front, and split flare legs. Handmade in Las Vegas; custom colors available.
-  Updated: 2026-04-11T01:08:33Z
+  Updated: 2026-04-17T19:01:16Z
   Vendor: Vie Sauvage LV
   Product Type: Jumpsuit
   Availability: Available
@@ -1757,7 +1757,7 @@ Alt-Text Suggestions
 1. “Front view of Liz Dress showing ruched halter silhouette with crystal-trim neckline.”
 
 2. “Three-quarter angle highlighting plunging cups and bodycon ruching.”
-  Updated: 2026-03-12T04:04:43Z
+  Updated: 2026-04-17T19:01:17Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -1835,7 +1835,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $320.00 USD
 - [Julie Gown | One-Sleeve Crystal Slit Column | Vie Sauvage LV](https://shopviesauvage.com/products/julie): One-sleeve column gown with crystal bandeau neckline and thigh-high cutout. Handmade in Las Vegas; cut-to-order and ships in 48 hours.
-  Updated: 2026-03-13T07:15:44Z
+  Updated: 2026-04-17T19:01:17Z
   Vendor: Vie Sauvage LV
   Product Type: Gowns
   Availability: Available
@@ -1913,7 +1913,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $495.00 USD
 - [Lisa Dress | Crystal Halter Mesh-Side Mini | Vie Sauvage LV](https://shopviesauvage.com/products/lisa): Meta description: Stretch jersey mini with crystal halter plunge and sheer side panels. Handmade in Las Vegas; cut-to-order and ships in 48 hours.
-  Updated: 2026-03-12T21:09:16Z
+  Updated: 2026-04-17T19:01:18Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -1991,7 +1991,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $425.00 USD
 - [Diamond Gown | Crystal Halter Plunge Column | Vie Sauvage LV](https://shopviesauvage.com/products/diamond-gown): Stretch jersey gown with crystal-cross halter, deep plunge, open back, and thigh-high slit. Handmade in Las Vegas; custom fabrics available.
-  Updated: 2026-03-12T04:04:44Z
+  Updated: 2026-04-17T19:01:18Z
   Vendor: Vie Sauvage LV
   Product Type: Gowns
   Availability: Available
@@ -2077,7 +2077,7 @@ Alt-Text Suggestions
 1. “Front view of Alejandra dress showing crystal harness and thigh cutout.”
 
 2. “Back view highlighting halter tie, open back, and ladder detail.”
-  Updated: 2026-04-04T05:10:07Z
+  Updated: 2026-04-17T19:01:18Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -2259,7 +2259,7 @@ Alt-Text Suggestions
 1. “Front view of Barbara dress showing crystal plunge neckline and fitted waist.”
 
 2. “Back view highlighting crystal keyhole strap and ruched seam.”
-  Updated: 2026-04-16T23:08:52Z
+  Updated: 2026-04-17T23:00:10Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -2423,7 +2423,7 @@ Alt-Text Suggestions
 1. “Front view of Pamela gown showing halter neckline and thigh-high slit.”
 
 2. “Back view highlighting crystal V straps and open back.”
-  Updated: 2026-03-12T04:04:44Z
+  Updated: 2026-04-17T19:01:19Z
   Vendor: Vie Sauvage LV
   Product Type: Gowns
   Availability: Available
@@ -2656,7 +2656,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $395.00 USD
 - [Rachel Dress | Crystal Trim Batwing Mini | Vie Sauvage LV](https://shopviesauvage.com/products/rachel): Stretch jersey mini with draped sleeves, crystal-trim plunge, and ruched skirt. Handmade in Las Vegas, perfect for cocktail nights.
-  Updated: 2026-04-12T01:57:16Z
+  Updated: 2026-04-18T18:36:36Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -2742,7 +2742,7 @@ Alt-Text Suggestions
 1. “Front view of Lynda dress showing scoop neckline and crystal detail.”
 
 2. “Back view highlighting crystal ladder cutouts and ruched center seam.”
-  Updated: 2026-03-12T04:04:45Z
+  Updated: 2026-04-17T19:01:20Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -2898,7 +2898,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $355.00 USD
 - [Mariana Dress | Silk Bust Crystal Mini | Vie Sauvage LV](https://shopviesauvage.com/products/mariana): Hand-painted silk bodice, crystal-trim plunge, and jersey ruched mini skirt. Handmade in Las Vegas; every Mariana dress is slightly unique.
-  Updated: 2026-03-12T04:04:45Z
+  Updated: 2026-04-17T19:01:21Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -2984,7 +2984,7 @@ Alt-Text Suggestions
 1. “Front view of Sharon dress showing crystal halter keyhole and fitted waist.”
 
 2. “Side/back angle highlighting open back and shimmer jersey.”
-  Updated: 2026-03-12T04:04:45Z
+  Updated: 2026-04-17T19:01:21Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -3062,7 +3062,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $315.00 USD
 - [Talia Dress | Asymmetric Crystal Mesh Mini | Vie Sauvage LV](https://shopviesauvage.com/products/talia): Stretch jersey mini with single strap, crystal-traced mesh cutout, and ruched waist. Handmade in Las Vegas; cut-to-order and ships in 48 hours.
-  Updated: 2026-03-12T12:16:28Z
+  Updated: 2026-04-17T19:01:21Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -3148,7 +3148,7 @@ Alt-Text Suggestions
 1. “Front view of Sharon gown showing crystal halter keyhole and thigh-high slit.”
 
 2. “Back angle highlighting open halter back and sweep train.”
-  Updated: 2026-03-12T04:04:45Z
+  Updated: 2026-04-17T19:01:22Z
   Vendor: Vie Sauvage LV
   Product Type: Gowns
   Availability: Available
@@ -3234,7 +3234,7 @@ Alt-Text Suggestions
 1. “Front view of Andrea gown showing halter plunge, waist knot, and crystal-lined slit.”
 
 2. “Back view highlighting halter tie, crystal V, and sweep train.”
-  Updated: 2026-03-12T04:04:45Z
+  Updated: 2026-04-17T19:01:22Z
   Vendor: Vie Sauvage LV
   Product Type: Gowns
   Availability: Available
@@ -3397,7 +3397,7 @@ Alt-Text Suggestions
 1. “Front view of Tease dress showing draped cowl neckline and crystal straps.”
 
 2. “Back view highlighting crystal lattice and open back.”
-  Updated: 2026-04-11T00:28:49Z
+  Updated: 2026-04-17T19:01:23Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -3483,7 +3483,7 @@ Alt-Text Suggestions
 1. “Front view of Ayala Jumpsuit showing deep V neckline, crystal waistband, and slit sleeves.”
 
 2. “Back view highlighting open cutout and wide-leg drape.”
-  Updated: 2026-03-12T04:04:45Z
+  Updated: 2026-04-17T19:01:23Z
   Vendor: Vie Sauvage LV
   Product Type: Jumpsuit
   Availability: Available
@@ -3579,7 +3579,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $595.00 USD
 - [Morrigan Gown | Illusion Hip Cutout Mermaid | Vie Sauvage LV](https://shopviesauvage.com/products/morrigan-gown): Printed Venezia jersey mermaid gown with nude mesh cutouts and crystal straps. Handmade in Las Vegas; custom colors available, ships in 48 hours.
-  Updated: 2026-03-18T00:31:58Z
+  Updated: 2026-04-17T19:01:23Z
   Vendor: Vie Sauvage LV
   Product Type: Gowns
   Availability: Available
@@ -3665,7 +3665,7 @@ Alt-Text Suggestions
 1. “Front view of Sivan gown showing mesh yoke, crystal diagonal, and front slit.”
 
 2. “Back view highlighting crystal straps and deep V back.”
-  Updated: 2026-03-12T04:04:46Z
+  Updated: 2026-04-17T19:01:24Z
   Vendor: Vie Sauvage LV
   Product Type: Gowns
   Availability: Available
@@ -3743,7 +3743,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $575.00 USD
 - [Riri Gown | Crystal V-Back Column | Vie Sauvage LV](https://shopviesauvage.com/products/riri-gown): Stretch jersey gown with double straps, crystal V-neckline, and customizable slit/train. Handmade in Las Vegas; cut-to-order and ships in 48 hours.
-  Updated: 2026-03-13T04:24:36Z
+  Updated: 2026-04-17T19:01:24Z
   Vendor: Vie Sauvage LV
   Product Type: Gowns
   Availability: Available
@@ -3821,7 +3821,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $455.00 USD
 - [Tula Gown | One-Sleeve Crystal Ladder Column | Vie Sauvage](https://shopviesauvage.com/products/tula-gown): Stretch jersey gown with single sleeve, crystal shoulder detail, and laddered thigh slit. Handmade in Las Vegas; cut-to-order and ships in 48 hours.
-  Updated: 2026-03-13T03:36:52Z
+  Updated: 2026-04-17T19:01:25Z
   Vendor: Vie Sauvage LV
   Product Type: Gowns
   Availability: Available
@@ -3943,7 +3943,7 @@ Alt-Text Suggestions
 1. “Front view of Scarlet dress showing crystal plunge and ruched skirt.”
 
 2. “Detail of Scarlet dress ladder sleeves and fitted silhouette.”
-  Updated: 2026-03-12T04:04:46Z
+  Updated: 2026-04-17T19:01:25Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -4024,7 +4024,7 @@ Alt-Text Suggestions
 1. “Front view of Olga dress showing crystal halter plunge and fitted skirt.”
 
 2. “Back view highlighting draped cowl and crystal spine detail.”
-  Updated: 2026-03-12T04:04:47Z
+  Updated: 2026-04-17T19:01:25Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -4107,7 +4107,7 @@ Alt-Text Suggestions
 1. “Front view of Niobe Dress showing draped halter plunge and asymmetric slit.”
 
 2. “Back angle highlighting halter tie and ruched center seam.”
-  Updated: 2026-03-12T04:04:47Z
+  Updated: 2026-04-17T19:01:26Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -4185,7 +4185,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $295.00 USD
 - [Victoria Dress | Mesh Crystal Halter Mini | Vie Sauvage LV](https://shopviesauvage.com/products/victoria): Mesh halter mini with crystal collar, ruched jersey skirt, and hip stripe. Handmade in Las Vegas; cut-to-order and ships in 48 hours.
-  Updated: 2026-03-12T16:14:08Z
+  Updated: 2026-04-17T19:01:27Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -4265,7 +4265,7 @@ Alt-Text Suggestions
 - [Shira Dress | Crystal Back Jacquard Mini | Vie Sauvage LV](https://shopviesauvage.com/products/shira): Stretch jersey mini with deep V front, mesh hourglass panels, and crystal ladder back. Handmade in Las Vegas; customizable finishes.
 “Front view of Shira dress showing deep V neckline and mesh waist panels.”
  “Back view highlighting draped cowl and crystal ladder straps.”
-  Updated: 2026-03-12T21:42:23Z
+  Updated: 2026-04-17T19:01:27Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -4421,7 +4421,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $355.00 USD
 - [Dina Hand-Painted Silk Top | Crystal Halter | Vie Sauvage LV](https://shopviesauvage.com/products/dina-top): Hand-painted silk halter top with crystal-trim plunge, sculpted jersey waist, and open back. Handmade in Las Vegas; each piece is one-of-a-kind.
-  Updated: 2026-03-12T04:04:47Z
+  Updated: 2026-04-17T19:01:27Z
   Vendor: Vie Sauvage LV
   Product Type: Tops
   Availability: Available
@@ -4499,7 +4499,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $355.00 USD
 - [Crystal Side Stripe Leggings | High-Waist Liquid Jersey | Vie Sauvage LV](https://shopviesauvage.com/products/mira-leggings): High-waist Venezia jersey leggings with liquid sheen and crystal side stripes. Handmade in Las Vegas and available in multiple variations.
-  Updated: 2026-04-16T23:08:49Z
+  Updated: 2026-04-24T01:49:38Z
   Vendor: Vie Sauvage LV
   Product Type: Pants
   Availability: Available
@@ -4585,7 +4585,7 @@ Alt-Text Suggestions
 1. “Front view of Tori dress showing crystal plunge bars and asymmetrical hem.”
 
 2. “Back view highlighting crystal ladder straps and angled skirt.”
-  Updated: 2026-03-12T04:04:48Z
+  Updated: 2026-04-17T19:01:28Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -4671,7 +4671,7 @@ Alt-Text Suggestions
 1. “Front view of Cara crop top showing draped overlay and crystal lace-up halter.”
 
 2. “Side view highlighting relaxed fit and waist-length hem.”
-  Updated: 2026-03-12T04:04:48Z
+  Updated: 2026-04-17T19:01:29Z
   Vendor: Vie Sauvage LV
   Product Type: Tops
   Availability: Available
@@ -4845,7 +4845,7 @@ Alt-Text Suggestions
   Availability: Available
   Price: $215.00 USD
 - [Riri Dress | Crystal Scoop Sheath | Vie Sauvage LV](https://shopviesauvage.com/products/vs1071-riri-dress): Stretch jersey sheath with crystal neckline, double straps, and ruched back. Handmade in Las Vegas; cut-to-order and ships in 48 hours.
-  Updated: 2026-03-13T03:35:17Z
+  Updated: 2026-04-17T19:01:30Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -5037,7 +5037,7 @@ Alt-Text Suggestions
   Availability: Available
   Price: $385.00 USD
 - [Pamela Dress | Crystal Halter Open-Back Mini | Vie Sauvage](https://shopviesauvage.com/products/vs1072short-pamella): Stretch jersey mini with crystal halter straps, open V-back, and ruched center seam. Handmade in Las Vegas; custom colors available.
-  Updated: 2026-03-12T21:42:52Z
+  Updated: 2026-04-17T19:01:31Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -5091,7 +5091,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $479.00 USD
 - [Gina Reversible Top | Lace-Up Plunge &amp; Open Back | Vie Sauvage LV](https://shopviesauvage.com/products/vs1063top-gina-top): Stretch jersey top that’s reversible front-to-back—wear the lace-up plunge or the crystal open back. Handmade in Las Vegas and perfect for day-to-night looks.
-  Updated: 2026-03-21T02:50:50Z
+  Updated: 2026-04-17T19:01:31Z
   Vendor: Vie Sauvage LV
   Product Type: Tops
   Availability: Available
@@ -5151,7 +5151,7 @@ Alt-Text Suggestions
   Availability: Available
   Price: $0.00 USD
 - [Jessica Crop Top | Crystal Strap Wrap Bustier | Vie Sauvage LV](https://shopviesauvage.com/products/vs1049croptop-jessica): Stretch jersey crop top with wrap front, crystal straps, and side cutouts. Handmade in Las Vegas; pair with any high-waist bottom.
-  Updated: 2026-03-27T21:27:38Z
+  Updated: 2026-04-17T19:01:31Z
   Vendor: Vie Sauvage LV
   Product Type: Tops
   Availability: Available
@@ -5259,7 +5259,7 @@ Alt-Text Suggestions
   Availability: Available
   Price: $0.00 USD
 - [Roxanna Multiway Dress | Crystal Halter | Vie Sauvage LV](https://shopviesauvage.com/products/vs1035-roxanna): Roxanna is your convertible night-out MVP—two draped panels you can crisscross, knot, or wear halter-style
-  Updated: 2026-04-11T00:42:56Z
+  Updated: 2026-04-17T19:01:32Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -5343,7 +5343,7 @@ Alt-Text Suggestions
   Availability: Available
   Price: $0.00 USD
 - [Jennifer Dress | Crystal Lattice Long-Sleeve Mini | Vie Sauvage LV](https://shopviesauvage.com/products/vs1064-jennifer-dress): Stretch Venezia jersey mini with plunging crystal neckline, side cutouts, and open lattice back. Handmade in Las Vegas and available in multiple variations.
-  Updated: 2026-03-28T01:15:29Z
+  Updated: 2026-04-17T19:01:32Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -5433,7 +5433,7 @@ Alt-Text Suggestions
   Availability: Available
   Price: $450.00 USD
 - [Dallas Birdcage](https://shopviesauvage.com/products/vs1076-dallas-birdcage): Vie Sauvage dresses come in these different colors. First pick a size and then pick a color from our color chart at no extra charge. Ship within 7-14 days after you place your order.
-  Updated: 2026-03-30T22:36:36Z
+  Updated: 2026-04-23T20:07:47Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -5613,7 +5613,7 @@ Alt-Text Suggestions
   Availability: Available
   Price: $75.00 USD
 - [Mia Mini Skirt | Overlay High-Waist Mini | Vie Sauvage](https://shopviesauvage.com/products/vskt1003): Mia is the asymmetrical overlay mini that smooths every torso—double-layer stretch with a draped panel that hides any midsection texture.
-  Updated: 2026-04-12T20:41:19Z
+  Updated: 2026-04-19T00:37:37Z
   Vendor: Vie Sauvage LV
   Product Type: Skirts
   Availability: Available
@@ -5782,7 +5782,7 @@ Alt-Text Suggestions
   Price: $0.00 USD
 - [Madison Dress | Crystal Halter Cowl Mini | Vie Sauvage LV](https://shopviesauvage.com/products/vs1054-madison): Stretch jersey mini with crystal halter straps, draped cowl plunge, and ruched skirt. Handmade in Las Vegas; cut-to-order and ships in 48 hours.
 Alt Text
-  Updated: 2026-04-16T23:59:30Z
+  Updated: 2026-04-17T19:01:34Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -5935,7 +5935,7 @@ Alt Text
   Availability: Available
   Price: $0.00 USD
 - [Christina Reversible Dress | Crystal Plunge &amp; Cutout Back | Vie Sauvage LV](https://shopviesauvage.com/products/vs1037-christina): Stretch jersey mini that flips front-to-back: lace-up crystal plunge on one side, crisscross cutout on the other. Handmade in Las Vegas.
-  Updated: 2026-04-11T01:08:33Z
+  Updated: 2026-04-17T19:01:34Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -6226,7 +6226,7 @@ Alt Text
     Availability: Available
     Price: $179.00 USD
 - [Diana Dress | Crystal Halter Wrap Mini | Vie Sauvage LV](https://shopviesauvage.com/products/vs1036-diana-dress): Meta description: Grecian halter mini with crystal collar and wrap hem, handmade in Las Vegas. Custom colors available; ships in 48 hours.
-  Updated: 2026-03-18T00:06:08Z
+  Updated: 2026-04-17T19:01:36Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -6324,7 +6324,7 @@ Alt-Text Suggestions
 1. “Front view of Parker Dress showing deep V neckline and crystal hip ladders.”
 
 2. “Back view highlighting open back with cascading crystal chains and ruched center seam.”
-  Updated: 2026-03-12T04:04:50Z
+  Updated: 2026-04-17T19:01:37Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -6366,7 +6366,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $340.00 USD
 - [Dylan Dress | Draped Back Crystal Mini | Vie Sauvage LV](https://shopviesauvage.com/products/vs1075-dylan): Stretch jersey mini with cowl front/back, crystal lattice straps, and adjustable asymmetric hem. Handmade in Las Vegas; cut-to-order and ships in 48 hours.
-  Updated: 2026-03-14T16:46:29Z
+  Updated: 2026-04-17T19:01:37Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -6480,7 +6480,7 @@ Alt-Text Suggestions
   Availability: Available
   Price: $0.00 USD
 - [Jennifer Halter Mini | Crystal Plunge Bodycon | Vie Sauvage](https://shopviesauvage.com/products/vs1064hl-jeniffer): Stretch jersey halter mini with crystal-trim plunge, lace-up front, and open back. Handmade in Las Vegas; custom colors/prints available.
-  Updated: 2026-04-16T23:08:51Z
+  Updated: 2026-04-23T20:07:48Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -6534,7 +6534,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $425.00 USD
 - [Alyx Dress | Crystal Cage Bishop Sleeve Mini | Vie Sauvage LV](https://shopviesauvage.com/products/vs1090-alyx-dress): Stretch jersey mini with crystal ladder bodice, illusion cutouts, and split poet sleeves. Handmade in Las Vegas; custom fabrics available.
-  Updated: 2026-03-12T04:04:51Z
+  Updated: 2026-04-17T19:01:38Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -6666,7 +6666,7 @@ Alt-Text Suggestions
   Availability: Available
   Price: $0.00 USD
 - [Falon Dress | Crystal Strap Cold-Shoulder Mini | Vie Sauvage LV](https://shopviesauvage.com/products/vs1091-falon-dress): Stretch Venezia jersey mini with draped neckline, ruched skirt, and crystal-trim open back. Handmade in Las Vegas and available in multiple variations.
-  Updated: 2026-04-16T23:08:46Z
+  Updated: 2026-04-17T19:01:40Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -6893,7 +6893,7 @@ Alt-Text Suggestions
   Availability: Available
   Price: $0.00 USD
 - [Samantha Dress | Crystal Lace-Up Mini | Vie Sauvage LV](https://shopviesauvage.com/products/vs1093-samantha): Stretch jersey mini with crystal-trim plunge, lace-up front, and crisscross crystal straps. Handmade in Las Vegas; customizable fabrics available.
-  Updated: 2026-03-12T04:04:51Z
+  Updated: 2026-04-17T19:01:42Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -7231,7 +7231,7 @@ Alt-Text Suggestions
   Availability: Available
   Price: $175.00 USD
 - [Crystal Single-Strap Belt | Adjustable Rhinestone Sash | Vie Sauvage LV](https://shopviesauvage.com/products/crystal-belt): Slim crystal belt with Mesh ribbon ties, available in silver, gold, or black hematite. Perfect for cinching gowns or elevating everyday looks.
-  Updated: 2026-04-16T23:59:28Z
+  Updated: 2026-04-22T20:21:46Z
   Vendor: Vie Sauvage LV
   Product Type: belts
   Availability: Available
@@ -7276,7 +7276,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $50.00 USD
 - [Dallas Birdcage Gown | Crystal Spine Cage Back | Vie Sauvage LV](https://shopviesauvage.com/products/vs1076dallas-long): • Meta description: Stretch jersey gown with crystal spine, cage-back cutouts, ruched seat, and sweep train. Handmade in Las Vegas; custom fabrics available.
-  Updated: 2026-03-12T04:04:52Z
+  Updated: 2026-04-17T19:01:46Z
   Vendor: Vie Sauvage LV
   Product Type: Gowns
   Availability: Available
@@ -7423,7 +7423,7 @@ Alt-Text Suggestions
   Availability: Available
   Price: $0.00 USD
 - [Sasha Gown | Crystal Lapel Illusion Column | Vie Sauvage LV](https://shopviesauvage.com/products/vs1046-sasha): Power-shoulder gown with mesh plunge, crystal lapels, and thigh-high slit. Handmade in Las Vegas; custom colors available, ships in 48 hours.
-  Updated: 2026-03-27T21:38:17Z
+  Updated: 2026-04-17T19:01:47Z
   Vendor: Vie Sauvage LV
   Product Type: Gowns
   Availability: Available
@@ -7469,7 +7469,7 @@ Alt-Text Suggestions
 1. “Front view of Cory crop top showing twisted keyhole neckline and long sleeves.”
 
 2. “Back angle highlighting tie-back straps and cropped hem.”
-  Updated: 2026-03-12T04:04:52Z
+  Updated: 2026-04-17T19:01:49Z
   Vendor: Vie Sauvage LV
   Product Type: Tops
   Availability: Available
@@ -7517,7 +7517,7 @@ Alt-Text Suggestions
   Availability: Available
   Price: $0.00 USD
 - [Ariana Dress | Crystal Lace-Up Mini | Vie Sauvage LV](https://shopviesauvage.com/products/vs1095rs-ariana-custom): Venezia jersey mini with crystal-trim plunge, lace-up sides, and body-sculpting fit. Handmade in Las Vegas and available in multiple variations.
-  Updated: 2026-03-29T05:04:14Z
+  Updated: 2026-04-19T00:37:37Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -7625,7 +7625,7 @@ Alt-Text Suggestions
   Availability: Available
   Price: $0.00 USD
 - [Sable Bolero | Rhinestone Sleeve Shrug | Vie Sauvage LV](https://shopviesauvage.com/products/vs1097bolero-cover-top): Stretch jersey bolero with slit sleeves, rhinestone cuffs. Handmade in Las Vegas; perfect over minis or gowns.
-  Updated: 2026-03-27T21:31:26Z
+  Updated: 2026-04-17T19:01:50Z
   Vendor: Vie Sauvage LV
   Product Type: Tops
   Availability: Available
@@ -7721,7 +7721,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $169.00 USD
 - [Lolita Skirt | Crystal Bow Ruched Mini | Vie Sauvage LV](https://shopviesauvage.com/products/vskt1005-lolita-skirt): High-waist wrap skirt with crystal-tasseled hip cutout and asymmetric hem. Handmade in Las Vegas; pair with matching tops or bodysuits.
-  Updated: 2026-03-20T07:51:57Z
+  Updated: 2026-04-17T19:01:50Z
   Vendor: Vie Sauvage LV
   Product Type: Skirts
   Availability: Available
@@ -7793,7 +7793,7 @@ Alt-Text Suggestions
   Availability: Available
   Price: $0.00 USD
 - [Katia Dress | Crystal T-Bar Halter Mini | Vie Sauvage LV](https://shopviesauvage.com/products/vs1100-katia-short): Stretch jersey mini with crystal plunge, ruched waist, and custom prints. Handmade in Las Vegas; cut-to-order and ships in 48 hours.
-  Updated: 2026-03-14T23:14:28Z
+  Updated: 2026-04-17T19:01:51Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -7871,7 +7871,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $385.00 USD
 - [Jasmine Gown | Crystal Collar Slit Dress | Vie Sauvage LV](https://shopviesauvage.com/products/vs1102long-jasmine-gown): Stretch jersey gown with crystal halter, draped waist, thigh-high slit, and train. Handmade in Las Vegas; custom colors available.
-  Updated: 2026-03-12T04:04:53Z
+  Updated: 2026-04-17T19:01:51Z
   Vendor: Vie Sauvage LV
   Product Type: Gowns
   Availability: Available
@@ -7910,7 +7910,7 @@ Alt-Text Suggestions
   Availability: Available
   Price: $0.00 USD
 - [Ariana Crop Top | Crystal Wrap Cap-Sleeve Crop | Vie Sauvage LV](https://shopviesauvage.com/products/vs1095-ariana-shirt): Stretch jersey wrap crop with crystal-trim cap sleeves and adjustable waist. Handmade in Las Vegas; cut-to-order and ships in 48 hours.
-  Updated: 2026-03-20T20:38:24Z
+  Updated: 2026-04-17T19:01:52Z
   Vendor: Vie Sauvage LV
   Product Type: Tops
   Availability: Available
@@ -8126,7 +8126,7 @@ Alt-Text Suggestions
   Availability: Available
   Price: $0.00 USD
 - [Jennifer Crop Top | Crystal Plunge Tie-Back | Vie Sauvage LV](https://shopviesauvage.com/products/vs1064crop-top-jennifer): Stretch jersey crop top with crystal-trim high neck, elastic bust bands, and adjustable tie-back. Handmade in Las Vegas; available in any solid or print.
-  Updated: 2026-03-20T07:51:57Z
+  Updated: 2026-04-17T19:01:54Z
   Vendor: Vie Sauvage LV
   Product Type: Tops
   Availability: Available
@@ -8222,7 +8222,7 @@ Alt-Text Suggestions
     Availability: Available
     Price: $250.00 USD
 - [Selena Dress | Crystal Cutout Draped Mini | Vie Sauvage LV](https://shopviesauvage.com/products/vs1109selena): Halter mini with draped front, crystal-trim hip cutouts, and Venezia jersey lining. Handmade in Las Vegas; ships in 48 hours.
-  Updated: 2026-03-12T15:22:11Z
+  Updated: 2026-04-17T19:01:54Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -8324,7 +8324,7 @@ Alt-Text Suggestions
 1. “Front view of Ferrah dress showing crystal halter plunge and waist harness.”
 
 2. “Detail of Ferrah dress highlighting animal print jersey and tassel accent.”
-  Updated: 2026-03-12T04:04:54Z
+  Updated: 2026-04-17T19:01:55Z
   Vendor: Vie Sauvage LV
   Product Type: Dress
   Availability: Available
@@ -8394,10 +8394,10 @@ Alt-Text Suggestions
 ## Collections
 
 - [Maceoo Men Collection | Engineered Fit Menswear at Vie Sauvage](https://shopviesauvage.com/collections/maceoo-men): Shop Paris-designed Maceoo shirts, blazers, and jackets cut with the MIT algorithm fit. Italian fabrics, posture-enhancing tailoring, in-store at Vie Sauvage LV
-  Updated: 2026-04-15T11:15:51Z
+  Updated: 2026-04-24T11:20:04Z
   Total Products: 286
 - [Vie Sauvage](https://shopviesauvage.com/collections/vie-sauvage): Vie Sauvage dresses come in these different colors. First pick a size and then pick a color from our color chart at no extra charge. need help to decide. call us we are here to help. add your choice on notes at checkout. Ship within 7 days after you place your order.
-  Updated: 2026-04-16T11:16:45Z
+  Updated: 2026-04-24T11:20:04Z
   Total Products: 271
 - [Sandals](https://shopviesauvage.com/collections/mystique): Hand-Made & Made to Order. Leather Sole and Leather Upper Lined with Suede For Added Comfort Embellished with Czech Crystals & Rhinestone Chain Ankle Strap with Buckle Closure Bottom Strap Height: 5 Inch Top Strap Height: 7.5 Inch ½ Inch Heel Made in Bali, Shipped From Los Angeles.
   Updated: 2026-03-06T00:10:32Z
@@ -8406,19 +8406,19 @@ Alt-Text Suggestions
   Updated: 2025-10-10T11:12:35Z
   Total Products: 4
 - [Home Decor](https://shopviesauvage.com/collections/home-decor)
-  Updated: 2026-03-12T04:04:41Z
+  Updated: 2026-04-17T19:01:11Z
   Total Products: 1
 - [Short Dresses](https://shopviesauvage.com/collections/short-dresses): Vie Sauvage Mini Dresses Meet the minis that started our cult following—handmade in Las Vegas, cut from double-layer Venezia jersey, and finished with the crystal hardware you won’t find anywhere else. Each silhouette is engineered to cinch the waist, lift the seat, and move with you from dinner to the dance floor. Choose from plunging halters, long-sleeve crystals, or convertible strap details, then customize the color or print to match your mood. Need help styling or ordering a custom size? DM @viesauvagecouture, email info.viesauvage@gmail.com, or call the showroom at 702‑331‑5853.
-  Updated: 2026-04-12T11:16:36Z
+  Updated: 2026-04-24T11:20:04Z
   Total Products: 122
 - [Gowns](https://shopviesauvage.com/collections/gowns): Vie Sauvage Gowns Every Vie Sauvage gown is handmade in Las Vegas from our signature double-layer Venezia jersey, so it feels like sculpting shapewear while looking like red-carpet couture. Expect plunging crystal collars, convertible sleeves, and thigh-high slits that can be tailored to your heel height. Whether you’re shopping for galas, weddings, or the Strip’s hottest nights, each silhouette can be cut in any solid, metallic, or custom print. Need a bespoke fit or fabric consultation? DM @viesauvagecouture, email info.viesauvage@gmail.com, or call the showroom at 702‑331‑5853.
-  Updated: 2026-04-16T11:16:45Z
+  Updated: 2026-04-21T16:33:32Z
   Total Products: 70
 - [Jumpsuits](https://shopviesauvage.com/collections/jumpsuits): Vie Sauvage Jumpsuits Our jumpsuits are the rebels of the collection—cut from the same double-layer Venezia jersey as our gowns, but built with split legs, crystal harnesses, and convertible straps that turn one piece into a full look. They cinch the waist, elongate the legs, and give you gown-level drama without sacrificing movement. From halter catsuits to draped genie silhouettes, every style can be ordered in any solid, metallic, or custom print. Need a specific inseam or color match? DM @viesauvagecouture, email info.viesauvage@gmail.com, or call 702‑331‑5853 for a custom fitting.
-  Updated: 2026-04-11T11:18:14Z
+  Updated: 2026-04-22T11:22:48Z
   Total Products: 9
 - [Atelier Edit](https://shopviesauvage.com/collections/atelier-edit): The Atelier Edit is where all the finishing pieces live—corset tops, boleros, statement belts, and crystal-trim jackets that pull every Vie Sauvage look together. Each piece is handmade in Las Vegas from our signature double-layer jersey or mesh, sculpting the waist without boning and layering easily over minis, jumpsuits, or denim. Mix and match corsets with Lolita skirts, throw a Devon bolero over a gown, or grab a crystal belt to convert a dress into a two-piece moment. Need help styling or ordering a custom size/color? DM @viesauvagecouture, email info.viesauvage@gmail.com, or call 702‑331‑5853.
-  Updated: 2026-04-13T11:15:09Z
+  Updated: 2026-04-23T11:19:17Z
   Total Products: 62
 
 ## Blogs
@@ -8519,6 +8519,18 @@ Alt-Text Suggestions
     Author: Admin
   - [Guide to Cocktail Attire for Women](https://shopviesauvage.com/blogs/news/guide-to-cocktail-attire-for-women): Guide to Cocktail Attire for Women
     Updated: 2026-04-15T20:25:09Z
+    Author: Admin
+  - [Luxury Birthday Outfits Women Will Own](https://shopviesauvage.com/blogs/news/luxury-birthday-outfits-women): Luxury Birthday Outfits Women Will Own
+    Updated: 2026-04-17T18:27:11Z
+    Author: Admin
+  - [Crystal Fringe Dress Style That Owns the Room](https://shopviesauvage.com/blogs/news/crystal-fringe-dress-style): Crystal Fringe Dress Style That Owns the Room
+    Updated: 2026-04-19T16:32:08Z
+    Author: Admin
+  - [How to Choose Gala Gown Like You Mean It](https://shopviesauvage.com/blogs/news/how-to-choose-gala-gown): How to Choose Gala Gown Like You Mean It
+    Updated: 2026-04-21T14:31:09Z
+    Author: Admin
+  - [Jumpsuit vs Cocktail Dress: Which Wins?](https://shopviesauvage.com/blogs/news/jumpsuit-vs-cocktail-dress): Jumpsuit vs Cocktail Dress: Which Wins?
+    Updated: 2026-04-23T13:00:20Z
     Author: Admin
 
 ## Store Pages
