@@ -6,7 +6,7 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2026-04-14T06:57:27Z
 - Contact Email: cowzyfeels@gmail.com
-- Updated At: 2026-04-18T13:07:40.642Z
+- Updated At: 2026-04-26T00:00:31.445Z
 
 ## Products
 
@@ -319,6 +319,44 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/15116794325437824922_2048.jpg?v=1776271239
     Price: R 290.00 ZAR
+- [Unisex Heavy Blend™ Crewneck Sweatshirt](https://cowzy-feels.myshopify.com/products/unisex-heavy-blend™-crewneck-sweatshirt): The Gildan 18000 sweatshirt is a unisex heavy blend crewneck made from a 50/50 cotton-polyester fabric, combining softness with lasting durability. Its smooth surface supports crisp, vibrant prints and embroidery, while the ribbed-knit collar and reinforced cuffs help it keep its shape over time. A seamless body design reduces irritation and adds to overall comfort. Practical, sturdy, and print-friendly, the Gildan 18000 sweatshirt remains a top choice for custom apparel. Disclaimers:- Due to the fabric properties, the White color variant may appear off-white rather than bright white.- Subtle orange hue shifts with lighting in the Orange color variant..: The Gildan 18000 sweatshirt is built for comfort and durability, made from a medium-heavy (8.0 oz/yd² (271 g/m²)) 50/50 cotton-polyester blend. .: The classic fit along with the crew neckline deliver a comfy wearing experience with a clean-cut style. Meanwhile, the double-needle stitching at the shoulder, armhole, neck, waistband, and cuff seams add top-tier durability. .: Say goodbye to itchiness thanks to the gray, pearlized tear-away label. .: The Gildan 18000 sweatshirt is crafted from ethically grown US cotton and backed by the US Cotton Trust Protocol, with OEKO-TEX  dyes that meet safety and environmental standards. .: Fabric blends: Heather Sport colors - 60% polyester, 40% cotton.: Embroidery decoration method available on either left chest, center chest, or large center chest, as well as right + left wrists
+  Updated: 2026-04-24T18:31:49Z
+  Vendor: Printify
+  Product Type: Sweatshirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/20260422091007-1f13e2b0-ec4d-63b6-8d04-0e7f6448eb6a.png?v=1776849153
+  - [S / White](https://cowzy-feels.myshopify.com/products/unisex-heavy-blend™-crewneck-sweatshirt?variant=42901346582605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/20260422091007-1f13e2b0-ec4d-63b6-8d04-0e7f6448eb6a.png?v=1776849153
+    Price: R 347.99 ZAR
+  - [M / White](https://cowzy-feels.myshopify.com/products/unisex-heavy-blend™-crewneck-sweatshirt?variant=42901346615373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/20260422091007-1f13e2b0-ec4d-63b6-8d04-0e7f6448eb6a.png?v=1776849153
+    Price: R 347.99 ZAR
+  - [L / White](https://cowzy-feels.myshopify.com/products/unisex-heavy-blend™-crewneck-sweatshirt?variant=42901346648141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/20260422091007-1f13e2b0-ec4d-63b6-8d04-0e7f6448eb6a.png?v=1776849153
+    Price: R 347.99 ZAR
+  - [XL / White](https://cowzy-feels.myshopify.com/products/unisex-heavy-blend™-crewneck-sweatshirt?variant=42901346680909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/20260422091007-1f13e2b0-ec4d-63b6-8d04-0e7f6448eb6a.png?v=1776849153
+    Price: R 347.99 ZAR
+  - [2XL / White](https://cowzy-feels.myshopify.com/products/unisex-heavy-blend™-crewneck-sweatshirt?variant=42901346713677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/20260422091007-1f13e2b0-ec4d-63b6-8d04-0e7f6448eb6a.png?v=1776849153
+    Price: R 351.99 ZAR
+  - [3XL / White](https://cowzy-feels.myshopify.com/products/unisex-heavy-blend™-crewneck-sweatshirt?variant=42901346746445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/20260422091007-1f13e2b0-ec4d-63b6-8d04-0e7f6448eb6a.png?v=1776849153
+    Price: R 399.99 ZAR
+  - [4XL / White](https://cowzy-feels.myshopify.com/products/unisex-heavy-blend™-crewneck-sweatshirt?variant=42901346779213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/20260422091007-1f13e2b0-ec4d-63b6-8d04-0e7f6448eb6a.png?v=1776849153
+    Price: R 450.99 ZAR
+  - [5XL / White](https://cowzy-feels.myshopify.com/products/unisex-heavy-blend™-crewneck-sweatshirt?variant=42901346811981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/20260422091007-1f13e2b0-ec4d-63b6-8d04-0e7f6448eb6a.png?v=1776849153
+    Price: R 460.99 ZAR
 
 ## Collections
 
@@ -331,6 +369,12 @@
 - [Featured](https://cowzy-feels.myshopify.com/collections/featured): Discover our newest arrivals — carefully curated pieces added to the Cowzy Feels collection. Be the first to wear what's next
   Updated: 2026-04-16T09:23:30Z
   Total Products: 3
+- [The Hero — Soft But Strong | Cowzy Feels](https://cowzy-feels.myshopify.com/collections/the-hero): The founding piece of Cowzy Feels. The bull skull in bloom. Soft. Strong. Yours.
+  Updated: 2026-04-20T08:29:40Z
+  Total Products: 3
+- [The Resilience Series Drop 1 — Cowzy Feels](https://cowzy-feels.myshopify.com/collections/the-resilience-series): Drop 1 from Cowzy Feels. Designs for those who feel deeply and carry quietly. Soft. Strong. Yours.
+  Updated: 2026-04-20T08:30:08Z
+  Total Products: 6
 
 ## Store Pages
 
