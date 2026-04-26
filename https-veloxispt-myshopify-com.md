@@ -6,12 +6,12 @@
 - Timezone: Europe/Lisbon
 - Created At: 2026-02-19T00:14:27Z
 - Contact Email: veloxispt@gmail.com
-- Updated At: 2026-04-15T00:00:42.541Z
+- Updated At: 2026-04-26T00:00:47.445Z
 
 ## Products
 
 - [Calções Running Verão - Summer Gym Shorts | VELOXIS](https://veloxispt.myshopify.com/products/running-shorts-summer-gym-sportswear-men-jogging-outdoor-sports-shorts-fitness-man-quick-dry-breathable-pants-male-clothing): Calções desportivos de verão leves e respiráveis. Ideais para corrida e ginásio em dias quentes. Máximo conforto garantido.
-  Updated: 2026-04-02T19:58:26Z
+  Updated: 2026-04-20T16:41:46Z
   Vendor: VELOXIS
   Product Type: Calções Desportivos
   Availability: Available
@@ -150,7 +150,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S60e54e2e6550405dbb3c94af581fc550z.webp?v=1772847751
     Price: 9,49 € EUR
 - [Top Desportivo Seamless Feminino - Conforto & Performance | VELOXIS](https://veloxispt.myshopify.com/products/women-yoga-top-seamless-sport-t-shirts-fitness-clothes-short-sleeve-yoga-shirt-gym-top-running-active-wear): Top desportivo feminino sem costuras com máximo conforto. Tecido respirável e elástico. Perfeito para yoga, ginásio e treinos intensos.
-  Updated: 2026-04-02T20:33:36Z
+  Updated: 2026-04-20T16:41:46Z
   Vendor: VELOXIS
   Product Type: Tops Desportivos
   Availability: Available
@@ -332,7 +332,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S9edd50c43c604976beb3eb2f8be3e0c8K.webp?v=1772241396
     Price: 11,99 € EUR
 - [T-Shirt Bodybuilding Masculina - Treino Força | VELOXIS](https://veloxispt.myshopify.com/products/men-sport-t-shirt-quick-dry-bodybuilding-running-shirt-long-sleeve-compression-top-gym-t-shirt-men-fitness-tight-rashgard): T-shirt desportiva para bodybuilding com corte ergonómico e tecido elástico. Ideal para musculação e treinos de força. Máximo conforto e performance.
-  Updated: 2026-04-02T20:48:48Z
+  Updated: 2026-04-20T16:41:47Z
   Vendor: VELOXIS
   Product Type: T-Shirts Desportivas
   Availability: Available
@@ -478,7 +478,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S81db30c11db9493ab1ced81f168ad6663.webp?v=1772284238
     Price: 10,49 € EUR
 - [T-Shirt Compressão Masculina - Treino & Performance | VELOXIS](https://veloxispt.myshopify.com/products/mens-t-shirt-outdoor-training-fitness-gym-jogging-running-sweatshirt-bat-man-compression-shirts-tight-elastic-breathable): T-shirt de compressão para homem com suporte muscular e tecido respirável. Perfeita para ginásio, corrida e treinos intensos. Conforto e performance garantidos.
-  Updated: 2026-04-02T21:08:29Z
+  Updated: 2026-04-20T16:41:47Z
   Vendor: VELOXIS
   Product Type: T-Shirts Desportivas
   Availability: Available
@@ -684,7 +684,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S523c61cc0dcf48599b7c5b2b50d43e32H.webp?v=1772285266
     Price: 8,49 € EUR
 - [Calças Jogging Fitness Homem | Desporto e Treino Confortável](https://veloxispt.myshopify.com/products/2025-mens-fitness-jogging-sweatpants-new-mens-casual-sports-pants-jogging-sports-pants-loose-running-pants-fitness-pan): Calças de jogging fitness para homem. Corte largo, confortável e respirável. Perfeitas para corrida, ginásio e uso casual. Máxima mobilidade e estilo.
-  Updated: 2026-04-02T21:18:59Z
+  Updated: 2026-04-20T16:41:48Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -762,7 +762,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sd4ff2f4d7011417e8b2f00ca6960daa42.webp?v=1772289802
     Price: 11,49 € EUR
 - [Camisola Sem Mangas Masculina - Tank Top Algodão | VELOXIS](https://veloxispt.myshopify.com/products/hot--mens-sleeveless-breathable-fitness-vest-basic-elastic-tank-top-mens-cotton-bodybuilding-t-shirt-classic-color-clothes): Camisola sem mangas masculina em algodão respirável. Ideal para ginásio, bodybuilding e uso casual. Conforto e versatilidade garantidos.
-  Updated: 2026-04-02T21:29:22Z
+  Updated: 2026-04-20T16:41:48Z
   Vendor: VELOXIS
   Product Type: Camisolas Sem Mangas
   Availability: Available
@@ -912,7 +912,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S0b601daf8ada4fa088135fc1269d7a7cK.webp?v=1772292351
     Price: 6,49 € EUR
 - [Shorts Desportivos Cintura Alta Femininos - Peach Hip Lifting | VELOXIS](https://veloxispt.myshopify.com/products/peach-hip-lifting-sports-shorts-women-high-waist-and-waist-tightening-slimming-running-hip-speed-drying-three-point-tight-pants): Shorts desportivos femininos de cintura alta com efeito lifting. Tecido seamless elástico e respirável. Perfeitos para yoga, ginásio e corrida.
-  Updated: 2026-04-02T21:49:11Z
+  Updated: 2026-04-20T16:41:49Z
   Vendor: VELOXIS
   Product Type: Calções Desportivos
   Availability: Available
@@ -1118,7 +1118,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2241921b32f7454b9afc686c5ca93d8eV.webp?v=1772292621
     Price: 8,49 € EUR
 - [Casaco Desportivo Mulher Zip | Yoga Fitness Secagem Rápida](https://veloxispt.myshopify.com/products/outdoor-sports-long-sleeved-women-slim-yoga-clothes-quick-dry-zipper-cardigan-stand-up-collar-jacket-running-fitness-jacket-top): Casaco desportivo feminino com fecho zip e gola alta. Secagem rápida, corte slim, ideal para yoga, corrida e fitness. Estilo e conforto garantidos.
-  Updated: 2026-04-02T22:13:12Z
+  Updated: 2026-04-20T16:41:49Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -1324,7 +1324,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb18fa49da6984ac0a35720636c97396bR.webp?v=1772294315
     Price: 12,99 € EUR
 - [Top Desportivo Feminino Alta Resistência - VELOXIS](https://veloxispt.myshopify.com/products/solid-color-soft-high-strength-women-fitness-bra-tight-sport-top-comprehensive-training-gym-yoga-underwear-tight-with-chest-pad): Top desportivo feminino de alta resistência com almofada integrada. Ideal para yoga, ginásio e treino funcional. Conforto e suporte máximo.
-  Updated: 2026-04-02T22:20:02Z
+  Updated: 2026-04-20T16:41:50Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -1438,7 +1438,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf61c3c96957c453eb72de867cd3858d44.webp?v=1772313811
     Price: 9,49 € EUR
 - [Women's Premium Sweatpants - Comfortable Athletic Wear](https://veloxispt.myshopify.com/products/casual-solid-sweatpants-for-women-high-waist-lace-up-loose-joggers-pant-classic-baggy-streetwear-female-sport-dance-trouser-y2k): Discover ultimate comfort with our women's sweatpants. Soft, breathable fabric perfect for workouts, lounging, or everyday wear. Shop premium athletic apparel now.
-  Updated: 2026-04-02T22:22:54Z
+  Updated: 2026-04-20T16:41:50Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -1504,7 +1504,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S79500f441be143508545aacfc1336b0eX.webp?v=1772401007
     Price: 9,99 € EUR
 - [Calções de Compressão Masculinos - Secagem Rápida | VELOXIS](https://veloxispt.myshopify.com/products/men-s-compression-short-pants-elastic-quick-dry-running-fitness-shorts-with-pocket-big-size-black-tight-gym-training-pants): Calções de compressão elásticos para homem com secagem rápida e bolso. Perfeitos para corrida, ginásio e treino. Suporte superior e máximo conforto. Tamanhos grandes disponíveis.
-  Updated: 2026-04-02T22:23:54Z
+  Updated: 2026-04-20T16:41:51Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -1558,7 +1558,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sdd9e80b36e7746a3b55a830dfec4c918c.webp?v=1772488158
     Price: 10,99 € EUR
 - [T-Shirt Desportiva Masculina Secagem Rápida | VELOXIS](https://veloxispt.myshopify.com/products/summer-sport-gym-t-shirt-men-quick-dry-running-bodybuilding-shirts-men-short-sleeve-fitness-tops-oversized-brazil-t-shirt-jersey): T-shirt desportiva para homem com secagem rápida e corte oversized. Ideal para ginásio, corrida e musculação. Leve, respirável e confortável. Perfeita para treinos intensos.
-  Updated: 2026-04-02T22:26:10Z
+  Updated: 2026-04-20T16:41:51Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -1636,7 +1636,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S04eaa8565d3141d59fb73d963f8cd1887.webp?v=1772522727
     Price: 11,49 € EUR
 - [Sutiã Desportivo Feminino Sem Costuras Alto Suporte | VELOXIS](https://veloxispt.myshopify.com/products/nclagen-impact-sports-bra-women-seamless-halter-top-high-support-push-up-open-back-gym-wear-fitness-yoga-workout-underwear): Sutiã desportivo feminino sem costuras com suporte de alto impacto. Design halter, push-up e costas abertas. Ideal para corrida, yoga e ginásio. Conforto e estilo premium.
-  Updated: 2026-04-02T22:49:49Z
+  Updated: 2026-04-20T16:41:52Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -1842,7 +1842,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S0d0f72ab98ae4aa1bca164865a54c1b4n.webp?v=1772491751
     Price: 9,49 € EUR
 - [T-Shirt Compressão Feminina Dry-Fit Yoga Ginásio | VELOXIS](https://veloxispt.myshopify.com/products/womens-workout-yoga-shirts-athletic-compression-tee-dry-fit-gym-basic-tops-sports-blouses-top-fitness-running-t-shirts-clothes): T-shirt de compressão atlética feminina com tecnologia dry-fit. Ideal para yoga, corrida e ginásio. Suporte muscular, secagem rápida e máximo conforto. Design moderno e funcional.
-  Updated: 2026-04-02T22:29:53Z
+  Updated: 2026-04-20T16:41:52Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -1968,7 +1968,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb77bc7e11f9b4123aabf22546ff50337j.webp?v=1772491751
     Price: 10,99 € EUR
 - [Meias de Corrida Unissexo | Conforto e Desempenho para Treino](https://veloxispt.myshopify.com/products/men-women-running-socks-basketball-breathable-anti-slip-sport-cycling-walking-women-outdoor-sock-cotton-athletic-no-sweat-sock): Meias de corrida unissexo com algodão respirável e design antiderrapante. Tecnologia de absorção de humidade. Ideal para corrida, basquetebol e ciclismo.
-  Updated: 2026-04-02T22:49:55Z
+  Updated: 2026-04-20T16:41:53Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -2002,7 +2002,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7c7aa413e9eb4ace80eb90c1b67be1d1H.webp?v=1772548336
     Price: 7,99 € EUR
 - [Óculos de Sol Desportivos Oversized | Proteção UV para Ciclismo](https://veloxispt.myshopify.com/products/oversized-sports-sunglasses-men-cycling-glasses-mirrored-outdoor-goggles-trendy-wrapped-anti-uv-riding-shades): Óculos de sol desportivos oversized com lentes espelhadas anti-UV. Design envolvente e aerodinâmico. Ideal para ciclismo, corrida e atividades outdoor.
-  Updated: 2026-04-02T22:50:35Z
+  Updated: 2026-04-20T16:41:53Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -2040,7 +2040,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S1459d39006f840fab51c82673eb8c949H.webp?v=1772549361
     Price: 8,99 € EUR
 - [Mangas de Proteção UV Ice Silk | Proteção Solar para Braços](https://veloxispt.myshopify.com/products/summer-uv-solar-bulky-arm-sleeves-extra-large-outdoor-cycling-ice-silk-breathable-cool-muff-driving-sunscreen-fishing-arm-cover): Mangas de proteção UV em seda de gelo. Tecido refrescante, proteção solar premium e design confortável. Ideal para ciclismo, pesca e atividades outdoor.
-  Updated: 2026-04-02T22:51:23Z
+  Updated: 2026-04-20T16:41:54Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -2070,7 +2070,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbfb9a057e2ad42c1b9f278a1ee3cb244z.webp?v=1772552026
     Price: 7,99 € EUR
 - [Coberturas de Pernas UV | Proteção Solar para Ciclismo e Corrida](https://veloxispt.myshopify.com/products/summer-sun-protection-leg-cover-high-elastic-breathable-quick-drying-silicone-anti-slip-cycling-leg-cover-sun-protection-running): Coberturas de pernas com alta elasticidade e proteção UV. Tecido respirável, secagem rápida e silicone antiderrapante. Ideal para ciclismo e corrida.
-  Updated: 2026-04-02T22:52:50Z
+  Updated: 2026-04-20T16:41:54Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -2092,7 +2092,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S87fefa7297834146a3e3a84737727055Z.webp?v=1772552429
     Price: 7,49 € EUR
 - [Vensslim Men Body Shaper | Modelador Corporal Masculino de Compressão](https://veloxispt.myshopify.com/products/vensslim-men-body-shaper-waist-trainer-vest-slimming-shirt-sauna-sweat-compression-undershirt-shapewear-fat-burner-workout-tops): Modelador corporal masculino Vensslim com compressão premium. Efeito emagrecedor instantâneo, suporte de postura e tecnologia de sauna. Discreto e confortável.
-  Updated: 2026-04-02T22:54:13Z
+  Updated: 2026-04-20T16:41:54Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -2146,7 +2146,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa43d8469656c4095a75a8c303ab276b8e.webp?v=1772633966
     Price: 12,49 € EUR
 - [Camisola de Compressão Desportiva Masculina | Performance e Conforto](https://veloxispt.myshopify.com/products/mens-quick-drying-soccer-and-basketball-tight-fitting-top-high-elasticity-cycling-compression-training-suit): Camisola de compressão masculina com tecnologia de secagem rápida. Suporte muscular, alta elasticidade e ajuste ergonómico. Ideal para desportos de alta intensidade.
-  Updated: 2026-04-02T22:57:19Z
+  Updated: 2026-04-20T16:41:55Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -2232,7 +2232,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S45c8604a429348e79d4e3b0bfe79c784f.webp?v=1773081516
     Price: 12,49 € EUR
 - [Shorts Desportivos Femininos | Conforto e Estilo para Treino](https://veloxispt.myshopify.com/products/women-summer-shorts-for-sports-fitness-gym-skinny-slim-shorts-causal-yoga-shorts-low-waist-stretchy-short-pants-gym-clothing): Shorts desportivos femininos com secagem rápida e máxima elasticidade. Design slim fit, ultra leve e respirável. Ideal para yoga, ginásio e corrida.
-  Updated: 2026-04-02T22:59:31Z
+  Updated: 2026-04-20T16:41:55Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -2334,7 +2334,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S68eb84ef6a014a5c8a866990c035fc0cw.webp?v=1772636421
     Price: 7,99 € EUR
 - [Shorts de Corrida Masculinos 2-em-1 | Compressão e Secagem Rápida](https://veloxispt.myshopify.com/products/new-mens-running-double-layer-shorts-quick-drying-fitness-2-in-1-shorts-mens-sports-workout-training-bodybuilding-shorts-male): Shorts de corrida masculinos 2-em-1 com design de dupla camada e compressão integrada. Tecido de secagem rápida, leve e respirável. Ideal para corrida e treinos intensos.
-  Updated: 2026-04-02T23:09:08Z
+  Updated: 2026-04-20T16:41:56Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -2540,7 +2540,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sedf61b3c4e6f4d0394dfeac2b84d5606W.webp?v=1772636942
     Price: 13,49 € EUR
 - [High Waisted Athletic Shorts for Women | Quick Dry Gym & Running Shorts](https://veloxispt.myshopify.com/products/2026-trendy-high-waisted-shorts-for-women-lightweight-quick-dry-yoga-gym-shorts-casual-summer-running-shorts): Premium high-waisted athletic shorts for women. Lightweight, quick-dry fabric perfect for yoga, gym, running & casual wear. True to size fit, XS-XXL available.
-  Updated: 2026-04-02T23:15:08Z
+  Updated: 2026-04-20T16:41:57Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -2738,7 +2738,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S4291ea7841114cbf81fbb2622b82eac7g.webp?v=1772638028
     Price: 11,49 € EUR
 - [Faixa Ajustável para Lanterna de Cabeça | Conforto e Segurança](https://veloxispt.myshopify.com/products/elastic-head-band-belt-for-led-headlamp-bike-front-light-universal-adjustable-head-lamp-strap-high-elasticity-frontal-headband): Faixa ajustável para lanterna de cabeça em nylon premium. Ultra leve (22g), confortável e compatível com a maioria das lanternas LED. Ideal para corrida e outdoor.
-  Updated: 2026-04-02T23:15:07Z
+  Updated: 2026-04-20T16:41:57Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -2752,7 +2752,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S32a6acc5d7434540ba2a34660a93a48bk.webp?v=1772638626
     Price: 5,99 € EUR
 - [Sutiã Desportivo Sem Costuras | Conforto e Suporte para Treino](https://veloxispt.myshopify.com/products/women-sports-bras-fast-dry-elastic-padded-gym-running-skeep-bra-solid-color-fitness-yoga-sport-breathable-tops): Sutiã desportivo feminino sem costuras com tecnologia de secagem rápida. Design sem arames, almofadas removíveis e ultra leve. Ideal para yoga, corrida e ginásio.
-  Updated: 2026-04-02T23:15:23Z
+  Updated: 2026-04-20T16:41:57Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -2786,7 +2786,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/H15ab2e8e9db843ef8a91f9375af15c83j.webp?v=1772639156
     Price: 7,99 € EUR
 - [Conjunto de Yoga Feminino Respirável 2 Peças | Top Crop + Leggings](https://veloxispt.myshopify.com/products/women-breathable-yoga-set-2pcs-sport-suit-gym-wear-workout-clothes-gym-crop-top-high-waist-legging-fitness-bra-set-sports-suits): Conjunto de yoga feminino respirável de 2 peças com top crop e leggings de cintura alta. Material de secagem rápida ideal para fitness, ginásio e yoga. Confortável e elástico.
-  Updated: 2026-04-02T23:16:28Z
+  Updated: 2026-04-20T16:41:58Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -2872,7 +2872,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S02a6e492b1674b02a88c414f164cb16bm.webp?v=1772726223
     Price: 19,49 € EUR
 - [Leggings Desportivas Femininas - VELOXIS](https://veloxispt.myshopify.com/products/seamless-leggings-sports-women-gym-wear-clothes-outfit-yoga-pants-squat-proof-fitness-running-scrunch-bum-tights): Leggings sem costuras de alta performance, desenhadas para treinos intensos e máximo conforto. Tecido elástico e respirável que acompanha cada movimento, ideal para ginásio, yoga e corrida. - VELOXIS
-  Updated: 2026-04-02T23:21:59Z
+  Updated: 2026-04-20T16:41:58Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -3058,7 +3058,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S63e78b7d9182432e9546e1563602b8dfn.webp?v=1772731009
     Price: 14,49 € EUR
 - [Hoodie Slim Fit Feminino em Malha | VELOXIS](https://veloxispt.myshopify.com/products/slim-fit-knitted-hoodie-style-thin-outerwear-jacket-women-spring-fashion-elastic-waistband-casual-comfortable-breathable): Hoodie feminino slim fit em malha respirável com cós elástico. Ideal para treinos de primavera e uso casual. Confortável, leve e versátil.
-  Updated: 2026-04-02T23:25:18Z
+  Updated: 2026-04-20T16:41:59Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -3160,7 +3160,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S5b67414228454d629150a6d1d99501784.webp?v=1772735677
     Price: 16,49 € EUR
 - [Casaco Proteção Solar UV Ultraligeiro Unissexo | VELOXIS](https://veloxispt.myshopify.com/products/unisex-ice-silk-sun-protection-clothing-breathable-outdoor-fishing-lightweight-outerwear-summer-uv-protection-running-suit): Casaco ultraligeiro unissexo com proteção UV em tecido ice silk respirável. Ideal para corrida, pesca e atividades outdoor no verão.
-  Updated: 2026-04-02T23:30:05Z
+  Updated: 2026-04-20T16:41:59Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -3286,7 +3286,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S298698d257f8437dba9693366e88e78eG.webp?v=1772735252
     Price: 12,99 € EUR
 - [Faixa Modeladora Abdominal Feminina Pós-Parto | VELOXIS](https://veloxispt.myshopify.com/products/women-body-shapewear-tummy-slimming-black-belly-band-shaping-shaper-corset-postpartum-flat-belly-postpartum-corset-shapewear): Faixa modeladora abdominal feminina em poliéster. Compressão média, ideal para pós-parto. Design confortável sem aros para silhueta definida.
-  Updated: 2026-04-02T23:30:43Z
+  Updated: 2026-04-20T16:42:00Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -3312,7 +3312,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sadf6c24d791c4703bb9d94843fefcd34D.webp?v=1772755979
     Price: 8,49 € EUR
 - [Boxers Modeladores Masculinos Compressão Abdominal | VELOXIS](https://veloxispt.myshopify.com/products/1pc-men-compression-panties-body-shaper-tummy-control-shorts-shapewear-belly-girdle-boxer-high-waisted-slimming-underwear-leg): Boxers modeladores masculinos com compressão abdominal. Tecido em nylon e elastano, cintura alta modeladora. Conforto e confiança para o dia a dia.
-  Updated: 2026-04-02T23:31:46Z
+  Updated: 2026-04-20T16:42:00Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -3366,7 +3366,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfb61331e905b4cb0911eb59999a9c755T.webp?v=1772756217
     Price: 9,49 € EUR
 - [Meias Desportivas de Tornozelo - Respiráveis e Confortáveis | VELOXIS](https://veloxispt.myshopify.com/products/athletic-sport-ankle-boat-socks-nylon-bright-color-outdoor-basketball-bike-running-breathable-quick-drying-no-show-travel-socks): Meias desportivas de tornozelo em nylon respirável. Ideais para corrida, basquetebol e atividades outdoor. Secagem rápida e máximo conforto.
-  Updated: 2026-04-02T23:34:06Z
+  Updated: 2026-04-20T16:42:01Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -3400,7 +3400,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Hb8d745a869554927869b7dc348daeca06.webp?v=1772812348
     Price: 6,49 € EUR
 - [Pack 5 Pares Meias Tornozelo Algodão Homem | VELOXIS](https://veloxispt.myshopify.com/products/5pairs-high-quality-men-ankle-socks-breathable-cotton-sports-socks-mesh-casual-athletic-summer-thin-cut-short-sokken-size-38-45): Pack de 5 pares de meias de tornozelo masculinas em algodão. Respiráveis e confortáveis para uso diário e desporto. Tamanhos 38-45.
-  Updated: 2026-04-02T23:34:06Z
+  Updated: 2026-04-20T16:42:01Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -3426,7 +3426,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S978d4585be5d4735b5a055ce7f2403cbt.webp?v=1772812953
     Price: 7,49 € EUR
 - [Pack 3 Pares Meias Desportivas Acolchoadas | VELOXIS](https://veloxispt.myshopify.com/products/3-pairs-mesh-sports-terry-socks-cushioned-moisture-managing-and-durable-reduces-foot-for-running-hiking-cycling-baskateball): Pack 3 pares meias desportivas acolchoadas com malha respirável. Suporte de arco e gestão de humidade. Ideais para running, hiking e ciclismo.
-  Updated: 2026-04-02T23:36:02Z
+  Updated: 2026-04-20T16:42:01Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -3448,7 +3448,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S56e22eb2ab804c76b2c70cd59dbf1572U.webp?v=1772813391
     Price: 7,99 € EUR
 - [T-shirt Feminina Manga Curta Slim Fit | VELOXIS](https://veloxispt.myshopify.com/products/woman-clothing-short-sleeve-t-shirt-slim-fit-tops-female-o-neck-knitted-sheath-tee-shirt-street-wear--sporty-2024-y2k-new2410): T-shirt feminina manga curta slim fit em poliéster. Design desportivo com decote redondo. Perfeita para uso casual e streetwear.
-  Updated: 2026-04-02T23:37:28Z
+  Updated: 2026-04-20T16:42:02Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -3554,7 +3554,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S25741b84dc8c48bd837c2badb152960bb.webp?v=1772813993
     Price: 9,49 € EUR
 - [Leggings Yoga Cintura Alta Seamless - VELOXIS](https://veloxispt.myshopify.com/products/womens-high-waist-seamless-gym-yoga-leggings-push-up-sport-tights-high-elastic-fitness-running-pants-hip-lift-gym-pilates-wear): Leggings de yoga seamless com cintura alta que realçam a tua silhueta natural. O design sem costuras garante conforto absoluto em qualquer movimento. Cintura alta modeladora para suporte extra Tecido elástico que acompanha cada movimento Design seamless para zero fricção Material respirável de nylon premium Perfeitas para yoga, pilates, ginásio e corrida - VELOXIS
-  Updated: 2026-04-02T23:40:36Z
+  Updated: 2026-04-20T16:42:02Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -3716,7 +3716,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa0f45cf1906945be844f91f800e14f1bq.webp?v=1772849479
     Price: 11,99 € EUR
 - [Casaco Desportivo Feminino - VELOXIS](https://veloxispt.myshopify.com/products/womens-jacket-quick-drying-sun-protection-sport-coat-womens-tight-yoga-wear-long-sleeve-cardigan-running-fitness-jacket-zipper): Lightweight women's sports jacket designed for active lifestyles. Features quick-drying fabric with sun protection, perfect for yoga, running, and fitness activities. The slim-fit design with full-length sleeves and zipper closure offers comfort and flexibility during your workout. Key Features: Quick-drying polyester blend with elastane Sun protection for outdoor activities Full zipper closure for easy wear Slim fit design for optimal movement All-season versatility Note: This item runs small. We recommend ordering one size up for the best fit. - VELOXIS
-  Updated: 2026-04-02T23:46:49Z
+  Updated: 2026-04-20T16:42:03Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -3922,7 +3922,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S6e12ced24f0242939707bb2209a26137D.webp?v=1772889628
     Price: 12,99 € EUR
 - [Óculos de Ciclismo Desportivos com Proteção UV400 - VELOXIS](https://veloxispt.myshopify.com/products/riderace-sports-men-sunglasses-road-bicycle-glasses-mountain-cycling-riding-protection-goggles-eyewear-mtb-bike-sun-glasses): High-performance cycling sunglasses designed for road and mountain biking. Featuring durable polycarbonate construction with UV400 protection lenses to shield your eyes from harmful rays, wind, and debris during your ride. Key Features: UV400 protection for complete eye safety Lightweight polycarbonate frame and lenses Impact-resistant and scratch-resistant design Unisex style suitable for all cyclists Ideal for cycling, running, and outdoor sports Perfect for road cycling, mountain biking, and other outdoor activities where eye protection is essential. - VELOXIS
-  Updated: 2026-04-02T23:47:28Z
+  Updated: 2026-04-20T16:42:03Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -3956,7 +3956,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sa156bb775b394bfc90a99a7fb3ca39bbt.webp?v=1772890429
     Price: 7,49 € EUR
 - [Top Desportivo Feminino Push-Up - Yoga & Fitness | VELOXIS](https://veloxispt.myshopify.com/products/womens-pilates-tank-top-push-up-sports-bra-hollow-breathable-fitness-bras-gym-yoga-vest-sexy-running-tops-sportswear): Top desportivo feminino com push-up para yoga, pilates e fitness. Design respirável em nylon de alta performance. Conforto e estilo para os teus treinos.
-  Updated: 2026-04-02T23:53:03Z
+  Updated: 2026-04-20T16:42:04Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -4154,7 +4154,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sbaecb52e8c03428fa9458dc596fc6271I.webp?v=1772989734
     Price: 12,49 € EUR
 - [Sutiã Desportivo Feminino Respirável - Yoga & Fitness | VELOXIS](https://veloxispt.myshopify.com/products/women-breathable-sports-bra-shockproof-fitness-tops-push-up-gym-crop-top-brassiere-sport-bras-gym-workout-top-seamless-yoga-bra): Sutiã desportivo feminino respirável com suporte médio/alto. Design seamless em nylon e spandex, tecnologia Quick Dry. Ideal para yoga e fitness.
-  Updated: 2026-04-02T23:54:55Z
+  Updated: 2026-04-20T16:42:04Z
   Vendor: VELOXIS
   Product Type: Tops Desportivos
   Availability: Available
@@ -4268,7 +4268,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Se9d5b7abdfef4b46b05a0f8e2f770504V.webp?v=1772990401
     Price: 11,49 € EUR
 - [Calções Desportivos Cintura Alta Mulher | Yoga e Fitness](https://veloxispt.myshopify.com/products/yoga-shorts-women-fitness-elastic-running-workout-short-leggings-for-ladies-gym-sport-shorts-fitness-sportwear): Calções desportivos sem costuras com cintura alta. Leves, respiráveis e com tecnologia de secagem rápida. Perfeitos para yoga, corrida e fitness.
-  Updated: 2026-04-02T23:57:14Z
+  Updated: 2026-04-20T16:42:05Z
   Vendor: VELOXIS
   Product Type: Calções Desportivos
   Availability: Available
@@ -4322,7 +4322,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S8b7b4dfc951e4f549efa07e5c7db4c5cV.webp?v=1773009822
     Price: 11,99 € EUR
 - [Leggings Yoga Tie-Dye Cintura Alta | WAREBALL](https://veloxispt.myshopify.com/products/wareball-new-tie-dye-yoga-pants-gym-leggings-women-seamless-high-waist-push-up-sport-tights-fitness-workout-leggins): Leggings de yoga sem costuras WAREBALL com cintura alta, design tie-dye e tecnologia de secagem rápida. Conforto e performance para os seus treinos.
-  Updated: 2026-04-03T00:04:16Z
+  Updated: 2026-04-20T16:42:06Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -4460,7 +4460,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S7d2fbbfee03d4d399254c2f633691719N.webp?v=1773080616
     Price: 13,49 € EUR
 - [Casaco Desportivo com Capuz Mulher | Fitness e Corrida](https://veloxispt.myshopify.com/products/slim-fitting-long-sleeve-autumn-drawstring-hooded-sports-coat-womens-2021-autumn-new-slim-fitness-clothes-running-casual-top): Casaco desportivo slim fit com capuz para mulher. Respirável, secagem rápida e design moderno. Perfeito para corrida, fitness e uso casual.
-  Updated: 2026-04-03T00:05:19Z
+  Updated: 2026-04-20T16:42:06Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -4514,7 +4514,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/H9811f13f1b8745a0938bab164892737bi.webp?v=1773081048
     Price: 14,49 € EUR
 - [T-Shirt Desportiva Compressão Mulher | Secagem Rápida](https://veloxispt.myshopify.com/products/womens-solid-color-ultralight-quick-dry-sport-t-shirt-breathable-lightweight-running-gym-compression-shirt): T-shirt desportiva ultraleve de compressão para mulher. Secagem rápida, respirável e leve. Perfeita para corrida, ginásio e fitness.
-  Updated: 2026-04-03T00:11:37Z
+  Updated: 2026-04-20T16:42:06Z
   Vendor: VELOXIS
   Product Type: T-Shirts Desportivas
   Availability: Available
@@ -4664,7 +4664,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sfe90a774fe434baa85c07c9332066495Q.webp?v=1773082756
     Price: 9,49 € EUR
 - [T-Shirt Manga Comprida Fitness Mulher | Yoga e Corrida](https://veloxispt.myshopify.com/products/yoga-clothing-fitness-tops-quick-drying-t-shirt-sports-long-sleeved-tight-fitting-slim-mesh-breathable-running-thin-section-suit): T-shirt manga comprida fitness para mulher. Secagem rápida, respirável e design slim fit. Perfeita para yoga, corrida e ginásio.
-  Updated: 2026-04-03T00:13:57Z
+  Updated: 2026-04-20T16:42:07Z
   Vendor: VELOXIS
   Product Type: T-Shirts Desportivas
   Availability: Available
@@ -4750,7 +4750,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S05facec5b01f4aae85608219d1ad6989G.webp?v=1773082111
     Price: 12,99 € EUR
 - [Camisola Térmica Masculina Gola Alta Modal Premium | VELOXIS](https://veloxispt.myshopify.com/products/mens-thermal-underwear-in-turtleneck-lapel-autumn-thin-modal-autumn-and-winter-long-sleeved-base-shirt-single-slim-fit-top): Camisola térmica masculina em Modal premium com gola alta. Tecido fino, respirável e corte slim-fit. Conforto e performance para outono e inverno.
-  Updated: 2026-04-03T00:15:22Z
+  Updated: 2026-04-20T16:42:07Z
   Vendor: VELOXIS
   Product Type: T-Shirts Desportivas
   Availability: Available
@@ -4820,7 +4820,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S2f700253f2ac45529e1a73a9eba0ee1b7.webp?v=1773155407
     Price: 11,99 € EUR
 - [T-shirt Desportiva Manga Comprida Performance | VELOXIS](https://veloxispt.myshopify.com/products/mens-long-sleeved-sports-t-shirt-tight-fitting-sweat-absorbing-breathable-high-elasticity-basketball-fitness-suit): T-shirt desportiva técnica de manga comprida. Alta elasticidade, absorção de suor e respirabilidade superior. Corte ajustado para máxima performance.
-  Updated: 2026-04-03T00:16:57Z
+  Updated: 2026-04-20T16:42:08Z
   Vendor: VELOXIS
   Product Type: T-Shirts Desportivas
   Availability: Available
@@ -4906,7 +4906,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sf7b3a2249a2443efa98027270cbdf31ej.webp?v=1773156073
     Price: 10,99 € EUR
 - [Regata Desportiva Masculina - Ginásio e Corrida | VELOXIS](https://veloxispt.myshopify.com/products/mens-running-tank-tops-sleeveless-gym-sport-t-shirt-fitness-training-workout-tee-tops-sportwear-hooded-solid-summer-men-vest): Regata desportiva masculina sem mangas para ginásio, corrida e treino. Tecido respirável, máxima mobilidade e conforto. Disponível em várias cores.
-  Updated: 2026-04-03T00:19:58Z
+  Updated: 2026-04-20T16:42:08Z
   Vendor: VELOXIS
   Product Type: 
   Availability: Available
@@ -4992,7 +4992,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/S03ff62643ef84628a10df5ba67f65d90t.webp?v=1773497446
     Price: 11,99 € EUR
 - [Top Desportivo Feminino - Corrida e Fitness | VELOXIS](https://veloxispt.myshopify.com/products/color-blocking-non-steel-ring-beautiful-back-sports-vest-for-womens-outdoor-wear-fitness-running-shock-absorbing-gathering-s): Top desportivo feminino com design color-blocking. Suporte confortável, absorção de impacto e material em nylon. Ideal para corrida, yoga e ginásio.
-  Updated: 2026-04-03T00:24:19Z
+  Updated: 2026-04-20T16:42:09Z
   Vendor: VELOXIS
   Product Type: Tops Desportivos
   Availability: Available
@@ -5058,7 +5058,7 @@
     Image: https://cdn.shopify.com/s/files/1/1050/7367/2530/files/Sb098659af0bc4ecf95bf81522f2c6eb43.webp?v=1773678608
     Price: 10,99 € EUR
 - [Anime Compression Training Tee | VELOXIS Men's Gym T-Shirt](https://veloxispt.myshopify.com/products/anime-print-compression-shirt-mens-running-t-shirt-quick-drying-fitness-sportswear-gym-sports-short-sleeve-breathable-tops): VELOXIS Anime Compression Training Tee — quick-dry polyester, breathable knit, compression fit. Bold anime prints for men who train hard.
-  Updated: 2026-04-09T00:13:15Z
+  Updated: 2026-04-20T16:42:09Z
   Vendor: VELOXIS
   Product Type: T-Shirts Desportivas
   Availability: Available
@@ -5267,19 +5267,19 @@
 ## Collections
 
 - [Coleção Mulher - VELOXIS](https://veloxispt.myshopify.com/collections/mulher): Explore a nossa seleção de produtos para mulher na VELOXIS. Qualidade e estilo em cada peça.
-  Updated: 2026-04-02T11:47:50Z
+  Updated: 2026-04-20T16:26:09Z
   Total Products: 35
 - [Coleção Homem - VELOXIS](https://veloxispt.myshopify.com/collections/homem): Explore a nossa seleção de produtos para homem na VELOXIS. Qualidade e estilo em cada peça.
-  Updated: 2026-04-02T11:47:50Z
+  Updated: 2026-04-20T16:26:09Z
   Total Products: 23
 - [New Collection](https://veloxispt.myshopify.com/collections/new-collection): Novidades Exclusivas Para Si!
-  Updated: 2026-04-02T11:47:50Z
+  Updated: 2026-04-20T16:26:09Z
   Total Products: 6
 - [Produtos com Desconto de 50% - VELOXIS](https://veloxispt.myshopify.com/collections/produtos-elegiveis-para-desconto): Compra 50€ em produtos e recebe 50% de desconto num destes artigos selecionados. Aproveita esta promoção exclusiva!
-  Updated: 2026-04-02T11:47:50Z
+  Updated: 2026-04-20T16:26:09Z
   Total Products: 10
 - [Roupa Desportiva - Catálogo Completo VELOXIS | Qualidade Premium](https://veloxispt.myshopify.com/collections/todos-os-produtos): Explora toda a coleção VELOXIS de roupa desportiva. Leggings, tops, camisolas e mais. Performance e estilo para o teu treino.
-  Updated: 2026-04-02T11:47:50Z
+  Updated: 2026-04-20T16:26:09Z
   Total Products: 50
 
 ## Blogs
