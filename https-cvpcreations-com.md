@@ -6,26 +6,40 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-02-10T10:50:54Z
 - Contact Email: cvpcreations.ce@gmail.com
-- Updated At: 2026-04-19T00:00:36.856Z
+- Updated At: 2026-04-26T00:00:38.965Z
 
 ## Products
 
 - [Personalized Photo Light Lamp - Custom Gift | CVP Creations](https://cvpcreations.com/products/personalized-photo-light-lamp-home-gift-decor): Turn your favourite memories into a beautiful glowing decor piece 💡 Perfect for bedrooms, living rooms, kids' rooms. Unique personalized gift idea.
-  Updated: 2026-03-29T07:43:05Z
+  Updated: 2026-04-20T03:29:39Z
   Vendor: CVP Creations
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/4693/4442/files/Personalized_led_lamp.png?v=1773832507
-  Price: ₹260.00 INR
+  - [1 Photo Sheet (included)](https://cvpcreations.com/products/personalized-photo-light-lamp-home-gift-decor?variant=48228745380010)
+    Availability: Available
+    Price: ₹260.00 INR
+  - [2 Photo Sheets](https://cvpcreations.com/products/personalized-photo-light-lamp-home-gift-decor?variant=48228745412778)
+    Availability: Available
+    Price: ₹310.00 INR
+  - [3 Photo Sheets](https://cvpcreations.com/products/personalized-photo-light-lamp-home-gift-decor?variant=48228745445546)
+    Availability: Available
+    Price: ₹360.00 INR
+  - [4 Photo Sheets](https://cvpcreations.com/products/personalized-photo-light-lamp-home-gift-decor?variant=48228745478314)
+    Availability: Available
+    Price: ₹410.00 INR
+  - [5 Photo Sheets](https://cvpcreations.com/products/personalized-photo-light-lamp-home-gift-decor?variant=48228745511082)
+    Availability: Available
+    Price: ₹460.00 INR
 - [Personalized Magic Mug - Custom Photo Heat Changing Mug - CVP Creations](https://cvpcreations.com/products/personalized-magic-mug): Create a magical surprise with our personalized magic mug. Custom photo or text appears when hot liquid is added. Perfect gift for any occasion.
-  Updated: 2026-03-18T11:15:15Z
+  Updated: 2026-04-20T03:34:11Z
   Vendor: CVP Creations
   Product Type: Mugs & Drinkware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/4693/4442/files/Magic_mug.webp?v=1773832505
   Price: ₹370.00 INR
 - [Custom 3D Printed Keychain - Personalized Name Keychain - CVP Creations](https://cvpcreations.com/products/custom-3d-printed-name-keychain): Design your own 3D printed keychain with custom names, logos, or designs. Durable, lightweight, and perfect for gifts or personal use.
-  Updated: 2026-03-18T11:15:07Z
+  Updated: 2026-04-20T03:35:16Z
   Vendor: CVP Creations
   Product Type: Keychains
   Availability: Available
@@ -46,14 +60,14 @@
   Image: https://cdn.shopify.com/s/files/1/0695/4693/4442/files/mini_cat.png?v=1773832506
   Price: ₹199.00 INR
 - [Personalized Name Keychains - Custom Name Tags](https://cvpcreations.com/products/personalized-name-keychains): Custom personalized name keychains with vibrant designs. Perfect for kids, party favors, and gifts. Fully customizable with any name.
-  Updated: 2026-03-18T11:15:06Z
+  Updated: 2026-04-20T03:34:55Z
   Vendor: CVP Creations
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/4693/4442/files/Pencil_personalized_back_names.png?v=1773832507
   Price: ₹120.00 INR
 - [Customized PVC Wallet Card - Personalized Design](https://cvpcreations.com/products/customized-pvc-wallet-card): Create your own personalized PVC wallet card with custom designs. Durable, water-resistant, and perfect for membership cards, loyalty cards, or business cards.
-  Updated: 2026-03-24T05:04:29Z
+  Updated: 2026-04-20T03:35:57Z
   Vendor: CVP Creations
   Product Type: Cards & Stationery
   Availability: Available
@@ -81,7 +95,7 @@
   Image: https://cdn.shopify.com/s/files/1/0695/4693/4442/files/kids_wt.png?v=1773832507
   Price: ₹2,999.00 INR
 - [Personalized Name Letter Decoration - Custom 3D Printed Gift](https://cvpcreations.com/products/personalized-name-letter-decoration): Create a unique statement piece with our personalized name letter decorations. Custom 3D printed in vibrant colors. Perfect for gifts, nurseries, and home decor. No glue required.
-  Updated: 2026-03-18T11:15:22Z
+  Updated: 2026-04-20T03:34:40Z
   Vendor: CVP Creations
   Product Type: Home Decor
   Availability: Available
@@ -102,14 +116,14 @@
   Image: https://cdn.shopify.com/s/files/1/0695/4693/4442/files/ph1.png?v=1773832508
   Price: ₹350.00 INR
 - [Custom 3D Printed Earrings - Personalized Jewelry](https://cvpcreations.com/products/3d-printed-personalized-earrings): Lightweight, customizable 3D printed earrings. Choose your design and color. Perfect personalized gift for any occasion.
-  Updated: 2026-03-18T11:15:14Z
+  Updated: 2026-04-20T03:36:27Z
   Vendor: CVP Creations
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/4693/4442/files/Screenshot2026-02-28195016.png?v=1773832508
-  Price: ₹299.00 INR
+  Price: ₹199.00 INR
 - [Custom Vinyl Stickers - Personalized Waterproof Stickers](https://cvpcreations.com/products/custom-vinyl-stickers-personalized-design): Custom vinyl stickers for laptops, bottles, planners & gifts. Waterproof, durable, personalized designs. Perfect for kids, events, corporate branding.
-  Updated: 2026-03-18T11:15:06Z
+  Updated: 2026-04-20T03:36:47Z
   Vendor: CVP Creations
   Product Type: Stickers
   Availability: Available
@@ -158,26 +172,51 @@
   Image: https://cdn.shopify.com/s/files/1/0695/4693/4442/files/Screenshot_2026-03-16_215702.png?v=1773832507
   Price: ₹100.00 INR
 - [21 Photos LED Rotating Photo Lamp - Personalized Gift | CVP Creations](https://cvpcreations.com/products/21-photos-led-rotating-photo-lamp): Beautiful LED rotating photo lamp displaying 21 personalized photos. Perfect personalized gift for anniversaries, birthdays & family celebrations. Premium quality with warm lighting.
-  Updated: 2026-03-19T02:19:45Z
+  Updated: 2026-04-20T03:33:48Z
   Vendor: CVP Creations
   Product Type: Home Décor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/4693/4442/files/Screenshot_2026-03-18_152258.png?v=1773832507
   Price: ₹1,000.00 INR
 - [5x5 Rotating Photo Lamp - Personalized Cube Gift | CVP Creations](https://cvpcreations.com/products/5x5-rotating-photo-lamp): Beautiful 5x5 rotating photo lamp with LED lighting. Display 5 personalized photos in an elegant cube design. Perfect romantic gift for couples, weddings & anniversaries.
-  Updated: 2026-03-18T12:45:20Z
+  Updated: 2026-04-20T03:33:26Z
   Vendor: CVP Creations
   Product Type: Home Décor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/4693/4442/files/Screenshot_2026-03-18_155612.png?v=1773832506
   Price: ₹800.00 INR
 - [Heart Shaped Rotating Photo Frame - Romantic Personalized Gift | CVP Creations](https://cvpcreations.com/products/heart-shaped-rotating-photo-frame): Beautiful heart-shaped rotating photo frame. Perfect romantic personalized gift for Valentine's Day, weddings, anniversaries. Premium quality with elegant red finish.
-  Updated: 2026-03-19T21:50:54Z
+  Updated: 2026-04-20T03:32:27Z
   Vendor: CVP Creations
   Product Type: Home Décor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/4693/4442/files/Screenshot_2026-03-18_155523.png?v=1773832505
   Price: ₹700.00 INR
+- [Personalized Magic Mirror Photo Lamp – Rectangle, Heart, Circle, Hexagon | CVP Creations](https://cvpcreations.com/products/personalized-magic-mirror-photo-lamp-home-gift-decor): Order a custom Magic Mirror Photo Lamp in Rectangle, Hexagon, Circle or Heart shape. LED backlit, perfect personalized gift for any occasion. Starting ₹649.
+  Updated: 2026-04-20T03:19:23Z
+  Vendor: CVP Creations
+  Product Type: Personalized Gifts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0695/4693/4442/files/Screenshot2026-04-15185112.png?v=1776649745
+  - [Rectangle](https://cvpcreations.com/products/personalized-magic-mirror-photo-lamp-home-gift-decor?variant=48228746625194)
+    Availability: Available
+    Price: ₹649.00 INR
+  - [Hexagon](https://cvpcreations.com/products/personalized-magic-mirror-photo-lamp-home-gift-decor?variant=48228746657962)
+    Availability: Available
+    Price: ₹649.00 INR
+  - [Round](https://cvpcreations.com/products/personalized-magic-mirror-photo-lamp-home-gift-decor?variant=48228746690730)
+    Availability: Available
+    Price: ₹649.00 INR
+  - [Heart](https://cvpcreations.com/products/personalized-magic-mirror-photo-lamp-home-gift-decor?variant=48228746723498)
+    Availability: Available
+    Price: ₹699.00 INR
+- [Heartfelt Charm Dangles – 3D Printed Heart Earrings | CVP Creations](https://cvpcreations.com/products/heartfelt-charm-dangles-3d-printed-heart-earrings): Shop Heartfelt Charm Dangles — lightweight 3D printed heart earrings with gold hooks & teardrop charms. Perfect gift at just ₹199. Order now!
+  Updated: 2026-04-20T01:49:06Z
+  Vendor: CVP Creations
+  Product Type: Jewellery
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0695/4693/4442/files/Screenshot_2026-04-18_214031.png?v=1776649745
+  Price: ₹199.00 INR
 
 ## Collections
 
@@ -188,7 +227,7 @@
   Updated: 2026-02-20T13:31:32Z
   Total Products: 0
 - [Personalized Gifts](https://cvpcreations.com/collections/personalized-gifts)
-  Updated: 2026-03-18T11:13:11Z
+  Updated: 2026-04-19T15:16:48Z
   Total Products: 3
 - [Craft Supplies](https://cvpcreations.com/collections/craft-supplies)
   Updated: 2026-03-18T11:13:15Z
@@ -209,11 +248,11 @@
   Updated: 2026-03-18T11:13:34Z
   Total Products: 0
 - [Best Sellers](https://cvpcreations.com/collections/best-sellers)
-  Updated: 2026-03-29T11:29:24Z
-  Total Products: 9
+  Updated: 2026-04-19T15:24:04Z
+  Total Products: 11
 - [New Arrivals](https://cvpcreations.com/collections/new-arrivals)
-  Updated: 2026-03-18T11:13:42Z
-  Total Products: 2
+  Updated: 2026-04-19T15:25:02Z
+  Total Products: 3
 - [Alphabet Molds](https://cvpcreations.com/collections/alphabet-molds)
   Updated: 2026-03-18T11:13:47Z
   Total Products: 0
@@ -320,7 +359,7 @@
   Updated: 2026-03-18T11:15:58Z
   Total Products: 5
 - [3D Printed Jewelry](https://cvpcreations.com/collections/3d-printed-jewelry)
-  Updated: 2026-03-18T11:16:02Z
+  Updated: 2026-04-19T15:16:48Z
   Total Products: 1
 - [3D Printed Keychains](https://cvpcreations.com/collections/3d-printed-keychains)
   Updated: 2026-03-18T11:16:07Z
@@ -338,88 +377,88 @@
   Updated: 2026-03-18T11:16:25Z
   Total Products: 0
 - [3D Printed Custom Gifts](https://cvpcreations.com/collections/3d-printed-custom-gifts)
-  Updated: 2026-03-03T16:26:59Z
+  Updated: 2026-04-19T15:16:48Z
   Total Products: 4
 - [3D Printed Storage Solutions](https://cvpcreations.com/collections/3d-printed-storage-solutions)
-  Updated: 2026-02-23T15:15:20Z
+  Updated: 2026-04-19T02:46:16Z
   Total Products: 1
 - [3D Printed Personalized Items](https://cvpcreations.com/collections/3d-printed-personalized-items)
-  Updated: 2026-03-16T11:30:52Z
+  Updated: 2026-04-19T15:16:48Z
   Total Products: 5
 - [Custom Home Decor](https://cvpcreations.com/collections/custom-home-decor)
-  Updated: 2026-03-29T11:29:24Z
-  Total Products: 6
+  Updated: 2026-04-19T15:12:23Z
+  Total Products: 7
 - [Personalized Anniversary Gifts - Custom & Handmade - CVP Creations](https://cvpcreations.com/collections/birthday-gifts): Find unique personalized anniversary gifts including custom 3D printed items and handcrafted keepsakes. Celebrate your special milestone with CVP Creations.
-  Updated: 2026-03-18T10:47:18Z
-  Total Products: 8
+  Updated: 2026-04-19T15:24:04Z
+  Total Products: 10
 - [Personalized Birthday Gifts - Custom 3D Printed & Handmade - CVP Creations](https://cvpcreations.com/collections/birthday-gifts-1): Discover unique personalized birthday gifts including custom 3D printed items, handcrafted presents, and more. Make their birthday unforgettable.
-  Updated: 2026-03-18T10:47:18Z
-  Total Products: 13
+  Updated: 2026-04-19T15:24:04Z
+  Total Products: 15
 - [Personalized Wedding Gifts - Custom & Handmade - CVP Creations](https://cvpcreations.com/collections/wedding-gifts): Find unique personalized wedding gifts including custom 3D printed items and handcrafted keepsakes. Perfect presents for the happy couple.
-  Updated: 2026-03-03T16:26:59Z
-  Total Products: 3
+  Updated: 2026-04-19T15:12:23Z
+  Total Products: 4
 - [Personalized Valentine's Day Gifts - Custom & Romantic - CVP Creations](https://cvpcreations.com/collections/valentines-day-gifts): Discover unique personalized Valentine's Day gifts including custom 3D printed items and handcrafted romantic keepsakes. Show your love with CVP Creations.
-  Updated: 2026-02-28T14:29:07Z
-  Total Products: 5
+  Updated: 2026-04-19T15:24:04Z
+  Total Products: 7
 - [Personalized Housewarming Gifts - Custom Home Decor - CVP Creations](https://cvpcreations.com/collections/housewarming-gifts): Find unique personalized housewarming gifts including custom 3D printed home decor and handcrafted items. Perfect for new homeowners.
-  Updated: 2026-03-03T16:26:59Z
-  Total Products: 3
+  Updated: 2026-04-19T15:12:23Z
+  Total Products: 4
 - [Personalized Graduation Gifts - Custom Keepsakes - CVP Creations](https://cvpcreations.com/collections/graduation-gifts): Discover unique personalized graduation gifts including custom 3D printed items and handcrafted keepsakes. Celebrate their success with CVP Creations.
-  Updated: 2026-02-28T12:29:27Z
+  Updated: 2026-04-19T02:46:38Z
   Total Products: 2
 - [Personalized Mother's Day Gifts - Custom & Handmade - CVP Creations](https://cvpcreations.com/collections/mothers-day-gifts): Find unique personalized Mother's Day gifts including custom 3D printed items and handcrafted keepsakes. Show your love with CVP Creations.
-  Updated: 2026-03-03T16:26:59Z
-  Total Products: 4
-- [Personalized Father's Day Gifts - Custom & Unique - CVP Creations](https://cvpcreations.com/collections/fathers-day-gifts): Discover unique personalized Father's Day gifts including custom 3D printed items and handcrafted keepsakes. Perfect gifts for Dad.
-  Updated: 2026-03-18T10:49:19Z
+  Updated: 2026-04-19T15:24:04Z
   Total Products: 6
+- [Personalized Father's Day Gifts - Custom & Unique - CVP Creations](https://cvpcreations.com/collections/fathers-day-gifts): Discover unique personalized Father's Day gifts including custom 3D printed items and handcrafted keepsakes. Perfect gifts for Dad.
+  Updated: 2026-04-19T15:12:23Z
+  Total Products: 7
 - [Personalized Diwali Gifts - Custom Festival Gifts - CVP Creations](https://cvpcreations.com/collections/diwali-gifts): Find unique personalized Diwali gifts including custom 3D printed items and handcrafted decor. Celebrate the festival of lights with CVP Creations.
-  Updated: 2026-03-18T10:49:19Z
+  Updated: 2026-04-19T02:46:47Z
   Total Products: 7
 - [Personalized Raksha Bandhan Gifts - Custom Sibling Gifts - CVP Creations](https://cvpcreations.com/collections/raksha-bandhan-gifts): Find unique personalized Raksha Bandhan gifts including custom 3D printed items and handcrafted keepsakes. Celebrate sibling love with CVP Creations.
-  Updated: 2026-03-18T10:49:19Z
+  Updated: 2026-04-19T02:46:50Z
   Total Products: 3
 - [Personalized Christmas Gifts - Custom Holiday Gifts - CVP Creations](https://cvpcreations.com/collections/christmas-gifts): Discover unique personalized Christmas gifts including custom 3D printed ornaments and handcrafted items. Celebrate the holidays with CVP Creations.
-  Updated: 2026-03-18T10:49:19Z
+  Updated: 2026-04-19T02:46:53Z
   Total Products: 5
 - [Return Gifts - Party Favors & Thank You Gifts - CVP Creations](https://cvpcreations.com/collections/return-gifts): Shop unique return gifts for birthdays, weddings, and events. Personalized keychains, custom items, and affordable party favors for your guests.
-  Updated: 2026-03-18T10:49:19Z
-  Total Products: 9
+  Updated: 2026-04-19T15:24:04Z
+  Total Products: 11
 - [Holi T-Shirts - Festival of Colors Celebration Wear | CVP Creations](https://cvpcreations.com/collections/holi-t-shirts): Shop our vibrant Holi t-shirt collection. Comfortable, colorful designs perfect for celebrating the festival of colors. Get ready for Holi celebrations!
-  Updated: 2026-02-20T13:31:35Z
+  Updated: 2026-04-19T02:46:59Z
   Total Products: 1
 - [Toys & Games for Kids - Fun & Educational | CVP Creations](https://cvpcreations.com/collections/toys-games): Shop our collection of quality toys and games for children. From outdoor play to educational fun, find the perfect gift at CVP Creations.
-  Updated: 2026-02-21T14:45:55Z
+  Updated: 2026-04-19T02:47:02Z
   Total Products: 1
 - [Ready to Ship Products - Immediate Delivery | CVP Creations](https://cvpcreations.com/collections/ready-to-ship): Shop our ready-to-ship collection at CVP Creations. Quality products available for immediate delivery with no wait time.
-  Updated: 2026-03-18T10:49:19Z
+  Updated: 2026-04-19T02:47:05Z
   Total Products: 7
 - [Spiritual Items & Religious Statues - CVP Creations](https://cvpcreations.com/collections/spiritual-items): Shop spiritual statues, idols, and sacred decor for your home altar. Custom sizes available. Bring peace and devotion to your meditation space.
-  Updated: 2026-03-16T11:30:52Z
+  Updated: 2026-04-19T02:47:12Z
   Total Products: 3
 - [Badge Collection - Custom Button Badges & Pins | CVP Creations](https://cvpcreations.com/collections/badge-collection): Shop our premium badge collection featuring custom button badges and pins. High-quality designs, durable construction, perfect for gifts and personal expression.
-  Updated: 2026-03-17T11:27:17Z
+  Updated: 2026-04-19T02:47:15Z
   Total Products: 2
 - [Wholesale & Bulk Personalized Gifts – CVP Creations](https://cvpcreations.com/collections/wholesale-bulk-orders): Order personalized gifts and 3D printed products in bulk at wholesale prices. Explore CVP Creations' wholesale collection.
-  Updated: 2026-03-30T09:54:35Z
+  Updated: 2026-04-19T02:47:18Z
   Total Products: 0
 - [Wholesale Personalized Gifts Bulk Orders – CVP Enterprises](https://cvpcreations.com/collections/wholesale-personalized-gifts): Order personalized gifts in bulk at wholesale prices. Packs of 10, 25, 50, 100. Corporate & event gifting specialists.
-  Updated: 2026-03-30T11:12:29Z
+  Updated: 2026-04-19T02:47:20Z
   Total Products: 0
 - [Wholesale 3D Printed Products Bulk Orders – CVP Enterprises](https://cvpcreations.com/collections/wholesale-3d-printed-products): Order 3D printed products in bulk at wholesale prices. Keychains, figurines, decor & more. Packs of 10, 25, 50, 100.
-  Updated: 2026-03-30T11:14:34Z
+  Updated: 2026-04-19T02:47:23Z
   Total Products: 0
 - [Wholesale Stickers Bulk Orders – CVP Enterprises](https://cvpcreations.com/collections/wholesale-stickers): Order stickers in bulk at wholesale prices. Vinyl, custom, wedding, kids & more. Packs of 10, 25, 50, 100.
-  Updated: 2026-03-30T11:14:52Z
+  Updated: 2026-04-19T02:47:26Z
   Total Products: 0
 - [Wholesale Craft Blanks Bulk Orders – CVP Enterprises](https://cvpcreations.com/collections/wholesale-craft-blanks): Order craft blanks in bulk at wholesale prices. MDF, acrylic, wooden, leather & more. Packs of 10, 25, 50, 100.
-  Updated: 2026-03-30T11:15:12Z
+  Updated: 2026-04-19T02:47:28Z
   Total Products: 0
 - [Wholesale Corporate Gifts Bulk Orders – CVP Enterprises](https://cvpcreations.com/collections/wholesale-corporate-gifts): Order corporate gifts in bulk at wholesale prices. Branded merchandise, badges, accessories & more. Packs of 10, 25, 50, 100.
-  Updated: 2026-03-30T11:15:35Z
+  Updated: 2026-04-19T02:47:31Z
   Total Products: 0
 - [Wholesale Home Decor Bulk Orders – CVP Enterprises](https://cvpcreations.com/collections/wholesale-home-decor-others): Order home decor & spiritual items in bulk at wholesale prices. Epoxy resin, decor, accessories & more. Packs of 10, 25, 50, 100.
-  Updated: 2026-03-30T11:16:10Z
+  Updated: 2026-04-19T02:47:33Z
   Total Products: 0
 
 ## Store Pages
