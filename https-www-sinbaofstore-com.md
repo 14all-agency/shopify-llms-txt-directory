@@ -6,12 +6,12 @@
 - Timezone: America/Lima
 - Created At: 2025-07-15T00:32:01Z
 - Contact Email: sinbaoficialcl@gmail.com
-- Updated At: 2026-04-17T00:00:40.755Z
+- Updated At: 2026-04-26T00:00:43.277Z
 
 ## Products
 
 - [Compresor Humo Manga Corta SINBA - Ropa Deportiva Hombre](https://www.sinbaofstore.com/products/polo-compresor-sinba-gris-humo): Compresor SINBA humo manga corta. Tela suplex americana, ajuste ergonómico. Resalta el físico fitness. Ideal para gym. Perú.
-  Updated: 2026-02-25T10:02:54Z
+  Updated: 2026-04-25T03:26:27Z
   Vendor: Mi tienda
   Product Type: 
   Availability: Available
@@ -288,24 +288,86 @@
   Image: https://cdn.shopify.com/s/files/1/0654/0368/2899/files/image_6b902d7f-0be9-46a6-b65a-19436b6e4916.png?v=1772735072
   Price: 109,90 PEN PEN
 - [Short con Licra Gris Rata SINBA - Ropa Deportiva Hombre](https://www.sinbaofstore.com/products/brownie-prueba): Short deportivo SINBA gris rata con licra interior. Perfecto para gym y entrenamiento. Tela de alta calidad, ajuste cómodo. Compra en SINBA Store Perú.
-  Updated: 2026-03-22T11:06:27Z
+  Updated: 2026-04-25T14:59:23Z
   Vendor: SINBA
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0654/0368/2899/files/d656ccc4-d9a8-494e-bb77-4b1f621682bd.jpg?v=1774134382
-  Price: 71,00 PEN PEN
+  Image: https://cdn.shopify.com/s/files/1/0654/0368/2899/files/6_a72253e7-5020-4456-8e71-bde767208406.png?v=1777085550
+  - [Negro / S](https://www.sinbaofstore.com/products/brownie-prueba?variant=44527213838419)
+    Availability: Available
+    Price: 70,00 PEN PEN
+  - [Negro / M](https://www.sinbaofstore.com/products/brownie-prueba?variant=44527213871187)
+    Availability: Available
+    Price: 70,00 PEN PEN
+  - [Negro / L](https://www.sinbaofstore.com/products/brownie-prueba?variant=44527213903955)
+    Availability: Available
+    Price: 70,00 PEN PEN
+  - [Negro / XL](https://www.sinbaofstore.com/products/brownie-prueba?variant=44527213936723)
+    Availability: Available
+    Price: 70,00 PEN PEN
+  - [azul oscuro / S](https://www.sinbaofstore.com/products/brownie-prueba?variant=44527213969491)
+    Availability: Available
+    Price: 70,00 PEN PEN
+  - [azul oscuro / M](https://www.sinbaofstore.com/products/brownie-prueba?variant=44527214002259)
+    Availability: Available
+    Price: 70,00 PEN PEN
+  - [azul oscuro / L](https://www.sinbaofstore.com/products/brownie-prueba?variant=44527214035027)
+    Availability: Available
+    Price: 70,00 PEN PEN
+  - [azul oscuro / XL](https://www.sinbaofstore.com/products/brownie-prueba?variant=44527214067795)
+    Availability: Available
+    Price: 70,00 PEN PEN
+  - [Blanco / S](https://www.sinbaofstore.com/products/brownie-prueba?variant=44527214100563)
+    Availability: Available
+    Price: 70,00 PEN PEN
+  - [Blanco / M](https://www.sinbaofstore.com/products/brownie-prueba?variant=44527214133331)
+    Availability: Available
+    Price: 70,00 PEN PEN
+  - [Blanco / L](https://www.sinbaofstore.com/products/brownie-prueba?variant=44527214166099)
+    Availability: Available
+    Price: 70,00 PEN PEN
+  - [Blanco / XL](https://www.sinbaofstore.com/products/brownie-prueba?variant=44527214198867)
+    Availability: Available
+    Price: 70,00 PEN PEN
+  - [Gris / S](https://www.sinbaofstore.com/products/brownie-prueba?variant=44527214231635)
+    Availability: Available
+    Price: 70,00 PEN PEN
+  - [Gris / M](https://www.sinbaofstore.com/products/brownie-prueba?variant=44527214264403)
+    Availability: Available
+    Price: 70,00 PEN PEN
+  - [Gris / L](https://www.sinbaofstore.com/products/brownie-prueba?variant=44527214297171)
+    Availability: Available
+    Price: 70,00 PEN PEN
+  - [Gris / XL](https://www.sinbaofstore.com/products/brownie-prueba?variant=44527214329939)
+    Availability: Available
+    Price: 70,00 PEN PEN
+  - [Azulino / S](https://www.sinbaofstore.com/products/brownie-prueba?variant=44527214362707)
+    Availability: Available
+    Price: 70,00 PEN PEN
+  - [Azulino / M](https://www.sinbaofstore.com/products/brownie-prueba?variant=44527214395475)
+    Availability: Available
+    Price: 70,00 PEN PEN
+  - [Azulino / L](https://www.sinbaofstore.com/products/brownie-prueba?variant=44527214428243)
+    Availability: Available
+    Price: 70,00 PEN PEN
+  - [Azulino / XL](https://www.sinbaofstore.com/products/brownie-prueba?variant=44527214461011)
+    Availability: Available
+    Price: 70,00 PEN PEN
 
 ## Collections
 
 - [Ropa Deportiva Premium Hombre - Colección Evolutiva 25/26 | SINBA](https://www.sinbaofstore.com/collections/coleccion-evolutiva-1-temporada-25-26): Descubre nuestra Colección Evolutiva de ropa deportiva premium para hombre. Compresores, shorts y más. Calidad superior para tu entrenamiento. Envíos a todo Perú.
-  Updated: 2026-04-13T11:20:16Z
+  Updated: 2026-04-25T11:20:40Z
   Total Products: 5
 - [Ropa Gym Hombre Premium - Colección Evolutiva 2 Temporada 25/26 | SINBA](https://www.sinbaofstore.com/collections/coleccion-evolutiva-2-temporada-25-26): Explora la Colección Evolutiva 2 con ropa gym premium para hombre. Compresores de manga larga, shorts y accesorios. Rendimiento y estilo urbano. Perú.
   Updated: 2026-03-05T17:57:16Z
   Total Products: 4
 - [Shorts con Licra SINBA - Ropa Deportiva Hombre Perú](https://www.sinbaofstore.com/collections/shorts-licra): Shorts deportivos SINBA con licra interior. Tela NOVA impermeable y suplex. Perfectos para gym, running y entrenamiento. Compra en Perú.
-  Updated: 2026-03-21T23:53:03Z
-  Total Products: 5
+  Updated: 2026-04-25T02:59:17Z
+  Total Products: 4
+- [COLECIÓN COMPRESOR EVOLUTION SINBA](https://www.sinbaofstore.com/collections/colecion-compresor-evolution-sinba): +10,000 unidades vendidas el pasado mes✅ PNTS: (4.9/5.0) 🌟🌟🌟🌟🌟 MEDIDAS DEL CHICO MODELO: ALTURA: 1.80CM - PESO: 85KG - TALLA: LARGUE Ultra cómodos 🌟 , frescos 🍃 y firmes 🔒 Compresor Manga Cero LICRA AMERICANA: mejora rendimiento y ajuste TERMOREGULADOR: fresco en calor, cálido en frío GARANTÍA DE CALIDAD NO DESPINTA. NO REDUCE. NO SE DEFROMA CON EL USO. SINBA - Sin Límites, Sin Barreras
+  Updated: 2026-04-25T02:54:28Z
+  Total Products: 0
 
 ## Store Pages
 
