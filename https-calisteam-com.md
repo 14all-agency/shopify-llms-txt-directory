@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2017-04-11T01:21:52Z
 - Contact Email: info@calisteam.com
-- Updated At: 2026-04-17T02:30:22.858Z
+- Updated At: 2026-04-26T00:00:29.193Z
 
 ## Products
 
@@ -25,7 +25,7 @@
     Image: https://cdn.shopify.com/s/files/1/1916/4047/files/CopyofUntitledDesigncopy.png?v=1705460128
     Price: $18.00 USD
 - [Mushroom Gummies | Lift Off](https://calisteam.com/products/lift-off-gummies-1): Discover Lift Off functional mushroom gummies for focus, creativity, energy, and microdose support. Crafted with Lion’s Mane & Cordyceps, lab-tested, vegan-friendly, and high-quality — ideal for daily cognitive and wellness support.
-  Updated: 2026-04-15T01:40:20Z
+  Updated: 2026-04-17T06:29:17Z
   Vendor: Lift Off
   Product Type: 
   Availability: Available
@@ -595,7 +595,7 @@
     Image: https://cdn.shopify.com/s/files/1/1916/4047/files/1.png?v=1725823446
     Price: $190.00 USD
 - [THCA Live Liquid Diamond Vape](https://calisteam.com/products/thca-live-liquid-diamonds): Experience the pinnacle of vaping sophistication with Live Liquid Diamond  Vapes, a premium collection crafted to deliver bold flavor, rich aroma, and an ultra-smooth experience. Infused with high-grade live resin and meticulously refined diamond concentrates, each strain in this collection is designed to elevate every draw. Flavor Profiles GusherzA candy-like burst of tropical fruit with a creamy, sweet finish. Gusherz offers a smooth and flavorful experience that feels both indulgent and balanced. Watermelon CandyJuicy watermelon sweetness meets a nostalgic candy twist. Bright, smooth, and easy to enjoy from start to finish. Sour StomperSharp, tangy flavor with subtle sweetness underneath. Sour Stomper delivers a bold, punchy taste with a smooth vapor experience. Desert LimeA zesty burst of fresh lime with subtle earthy and herbal undertones. Crisp, refreshing, and vibrant on every inhale. Gas FaceDeep gassy notes layered with earthy richness and a bold finish. Gas Face brings a heavy-hitting flavor profile for those who prefer something loud and complex. Pineapple ExpressA tropical escape of juicy pineapple and bright citrus. Sweet, fresh, and uplifting with a clean, flavorful draw. Lemon MeringueTangy lemon flavor balanced by creamy sweetness and soft citrus zest. A smooth, dessert-inspired profile that stands out from the crowd. Watermelon DreamzSweet watermelon flavor with a mellow, candy-like finish. Light, smooth, and easygoing with a dreamy tropical character. Do-Si-DoRich dessert-like sweetness with earthy spice and subtle nutty undertones. A full-bodied flavor profile that feels smooth and satisfying. Strawberry CoughFresh strawberry flavor with a hint of herbal spice. A timeless strain profile with a sweet, bright finish. Why Choose Live Liquid Diamond Vapes? Pure PotencyMade with premium diamond concentrates and live resin for exceptional quality and flavor. Smooth ExperienceAdvanced hardware delivers consistent draws and rich, full-bodied vapor. Premium DesignSleek, leak-resistant vapes designed to fit seamlessly into your lifestyle. Lab-Tested QualityCrafted to meet high standards for purity, consistency, and performance. Elevate your vaping experience with Live Liquid Diamond  Vapes — crafted for connoisseurs, perfected for everyday enjoyment. Explore the collection, find your favorite strain, and enjoy a next-level vape experience.
-  Updated: 2026-04-14T17:55:48Z
+  Updated: 2026-04-25T01:04:58Z
   Vendor: Cali Steam LLC
   Product Type: 
   Availability: Available
@@ -755,6 +755,18 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1916/4047/files/IMG_7133.png?v=1775697987
     Price: $35.00 USD
+- [Nootropic Gummies by Amaris Collective](https://calisteam.com/products/nootropic-gummies-by-amaris-collective): Nootropic mushroom gummies by Amaris Collective. A 30 pack of watermelon flavored mushroom gummies each gummy containing 250mg per piece.
+  Updated: 2026-04-21T14:09:12Z
+  Vendor: Cali Steam Distro | THCA Space Rocks | Mushroom Lift Off
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1916/4047/files/Amaris.png?v=1770954931
+  - [Watermelon](https://calisteam.com/products/nootropic-gummies-by-amaris-collective?variant=44118050930790)
+    Availability: Available
+    Price: $65.00 USD
+  - [Strawberry Kiwi](https://calisteam.com/products/nootropic-gummies-by-amaris-collective?variant=44118050963558)
+    Availability: Not Available
+    Price: $65.00 USD
 - [THCA  Flower 3.5g + Kief 1g Bundle](https://calisteam.com/products/thca--flower-with-kief-bundle): THCa flower bundle featuring 3.5g premium hemp flower paired with 1g refined kief, offering a versatile, terpene-forward experience and added value.
   Updated: 2026-04-09T22:23:49Z
   Vendor: Cali Steam Distro | THCA Space Rocks | Mushroom Lift Off
@@ -918,7 +930,7 @@
   Image: https://cdn.shopify.com/s/files/1/1916/4047/files/HashAmericanBlonde.png?v=1769207633
   Price: $28.00 USD
 - [Mushroom Gummies | Lift Off | Grape](https://calisteam.com/products/mushroom-gummies-lift-off-grape): Grape functional mushroom gummies with vitamins and minerals formulated to support daily focus, emotional balance, and natural energy. Third-party tested dietary supplement.
-  Updated: 2026-04-15T04:41:57Z
+  Updated: 2026-04-24T20:04:49Z
   Vendor: Lift Off
   Product Type: 
   Availability: Available
@@ -938,8 +950,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1916/4047/files/Lift_Off_Gummies_-_Strawberry_Kiwi.jpg?v=1771041100
   Price: $30.00 USD
-- [Mushroom Gummies | Lift Off | Flavor Variety 3-Pack Bundle](https://calisteam.com/products/mushroom-gummies-lift-off-flavor-variety-3-pack-bundle): Try all three Lift Off mushroom gummy flavors in one variety bundle. Includes Strawberry Kiwi, Grape & Sour Peach — save $15 total with the 3-pack while supporting focus, mood & natural energy.
-  Updated: 2026-04-13T19:47:08Z
+- [Mushroom Gummies | Lift Off | Flavor Variety 3 - 8pc Packs](https://calisteam.com/products/mushroom-gummies-lift-off-flavor-variety-3-pack-bundle): Try all three Lift Off mushroom gummy flavors in one variety bundle. Includes Strawberry Kiwi, Grape & Sour Peach — save $15 total with the 3-pack while supporting focus, mood & natural energy.
+  Updated: 2026-04-25T00:41:47Z
   Vendor: Lift Off
   Product Type: 
   Availability: Available
@@ -1041,8 +1053,8 @@
   - [Tropicana Cherry (Sativa) / 112.5 grams](https://calisteam.com/products/thca-flower-tropicana-cherry?variant=45424807084134)
     Availability: Available
     Price: $560.00 USD
-- [THCA Live Liquid Diamond Vape - Sativa](https://calisteam.com/products/thca-live-liquid-diamond-vape-sativa): Experience the pinnacle of vaping sophistication with Live Liquid Diamond  Vapes, a premium collection crafted to deliver bold flavor, rich aroma, and an ultra-smooth experience. Infused with high-grade live resin and meticulously refined diamond concentrates, each strain in this collection is designed to elevate every draw. Sativa Liquid Diamond Vapes deliver a smooth, flavorful experience crafted for bright, uplifting moments. Made with premium liquid diamond extract, these vapes offer clean, potent pulls with bold terpene-rich flavor and a refined finish. Ideal for daytime enjoyment, they’re a go-to choice for those who want a vibrant, elevated experience in a sleek and convenient format. Why Choose Live Liquid Diamond Vapes? Pure PotencyMade with premium diamond concentrates and live resin for exceptional quality and flavor. Smooth ExperienceAdvanced hardware delivers consistent draws and rich, full-bodied vapor. Premium DesignSleek, leak-resistant vapes designed to fit seamlessly into your lifestyle. Lab-Tested QualityCrafted to meet high standards for purity, consistency, and performance. Elevate your vaping experience with Live Liquid Diamond  Vapes — crafted for connoisseurs, perfected for everyday enjoyment. Explore the collection, find your favorite strain, and enjoy a next-level vape experience.
-  Updated: 2026-04-11T15:13:39Z
+- [THCA Live Liquid Diamond Vape - Sativa](https://calisteam.com/products/thca-live-liquid-diamond-vape-sativa): THCA Live Liquid Diamond Vape — Product Description *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; } :root { --white: #ffffff; --off-white: #f8f8f6; --border: #e8e4de; --text: #1a1a1a; --text-muted: #6b6b6b; --text-faint: #aaaaaa; /* Colorful accent palette */ --green: #2d8a4e; --green-bg: #edf7f1; --green-border: #b6dfc6; --amber: #b86a00; --amber-bg: #fff7ea; --amber-border: #f5d28a; --teal: #0e7490; --teal-bg: #e8f6fa; --teal-border: #9dd8e8; --purple: #6d3fa0; --purple-bg: #f3edfb; --purple-border:#cdb8ea; --coral: #c94a2a; --coral-bg: #fdf0ed; --coral-border: #f0b8a8; --gold: #b8922a; --gold-bg: #fdf6e3; --gold-border: #e8cc80; --radius: 8px; --radius-lg: 12px; } body { background: var(--white); color: var(--text); font-family: 'Assistant', sans-serif; font-size: 15px; line-height: 1.7; padding: 48px 0; } .product-description { max-width: 640px; margin: 0 auto; padding: 0 24px; } /* ── BADGES ─────────────────────────────────── */ .badge-row { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 28px; } .badge { font-size: 10px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; padding: 5px 12px; border-radius: 4px; } .badge-sativa { background: var(--green-bg); color: var(--green); border: 1px solid var(--green-border); } .badge-organic { background: var(--amber-bg); color: var(--amber); border: 1px solid var(--amber-border); } .badge-lab { background: var(--teal-bg); color: var(--teal); border: 1px solid var(--teal-border); } /* ── LEDE ────────────────────────────────────── */ .lede { font-weight: 300; font-size: 21px; color: var(--text); line-height: 1.5; margin-bottom: 18px; padding-left: 18px; border-left: 3px solid var(--green); } /* ── BODY COPY ───────────────────────────────── */ .body-copy { font-size: 14px; color: var(--text-muted); line-height: 1.9; margin-bottom: 36px; } /* ── DIVIDER ─────────────────────────────────── */ .divider { height: 1px; background: var(--border); margin: 32px 0; } /* ── SECTION LABEL ───────────────────────────── */ .section-label { font-size: 10px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: var(--text-faint); margin-bottom: 14px; } /* ── QUALITY PILLARS ─────────────────────────── */ .pillars { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 36px; } .pillar { border-radius: var(--radius-lg); padding: 18px 16px; display: flex; gap: 14px; align-items: flex-start; border: 1px solid transparent; transition: opacity 0.2s; } .pillar:hover { opacity: 0.88; } .pillar.green { background: var(--green-bg); border-color: var(--green-border); } .pillar.amber { background: var(--amber-bg); border-color: var(--amber-border); } .pillar.teal { background: var(--teal-bg); border-color: var(--teal-border); } .pillar.purple { background: var(--purple-bg); border-color: var(--purple-border);} .pillar-icon { width: 32px; height: 32px; flex-shrink: 0; border-radius: var(--radius); display: flex; align-items: center; justify-content: center; } .pillar.green .pillar-icon { background: var(--green); } .pillar.amber .pillar-icon { background: var(--amber); } .pillar.teal .pillar-icon { background: var(--teal); } .pillar.purple .pillar-icon { background: var(--purple); } .pillar-icon svg { width: 15px; height: 15px; stroke: #fff; fill: none; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; } .pillar-title { font-size: 13px; font-weight: 700; margin-bottom: 3px; letter-spacing: 0.01em; } .pillar.green .pillar-title { color: var(--green); } .pillar.amber .pillar-title { color: var(--amber); } .pillar.teal .pillar-title { color: var(--teal); } .pillar.purple .pillar-title { color: var(--purple); } .pillar-desc { font-size: 12px; color: var(--text-muted); line-height: 1.55; } /* ── PURITY CALLOUT ──────────────────────────── */ .purity-callout { background: var(--gold-bg); border: 1px solid var(--gold-border); border-radius: var(--radius-lg); padding: 22px 24px; margin-bottom: 36px; display: flex; gap: 18px; align-items: flex-start; } .purity-icon { width: 40px; height: 40px; flex-shrink: 0; background: var(--gold); border-radius: var(--radius); display: flex; align-items: center; justify-content: center; } .purity-icon svg { width: 20px; height: 20px; stroke: #fff; fill: none; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; } .purity-title { font-size: 14px; font-weight: 700; color: var(--gold); margin-bottom: 5px; letter-spacing: 0.02em; } .purity-text { font-size: 13px; color: var(--text-muted); line-height: 1.65; } /* ── USAGE STEPS ─────────────────────────────── */ .usage-list { margin-bottom: 36px; } .usage-item { display: flex; gap: 18px; padding: 14px 0; border-bottom: 1px solid var(--border); align-items: flex-start; } .usage-item:last-child { border-bottom: none; } .usage-num-wrap { width: 30px; height: 30px; flex-shrink: 0; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-top: 2px; } .usage-item:nth-child(1) .usage-num-wrap { background: var(--green-bg); border: 1px solid var(--green-border); } .usage-item:nth-child(2) .usage-num-wrap { background: var(--teal-bg); border: 1px solid var(--teal-border); } .usage-item:nth-child(3) .usage-num-wrap { background: var(--purple-bg); border: 1px solid var(--purple-border);} .usage-num { font-family: 'Bebas Neue', sans-serif; font-size: 14px; letter-spacing: 0.04em; line-height: 1; } .usage-item:nth-child(1) .usage-num { color: var(--green); } .usage-item:nth-child(2) .usage-num { color: var(--teal); } .usage-item:nth-child(3) .usage-num { color: var(--purple); } .usage-title { font-size: 13px; font-weight: 700; color: var(--text); margin-bottom: 3px; } .usage-text { font-size: 13px; color: var(--text-muted); line-height: 1.6; } /* ── CERTIFICATIONS ROW ──────────────────────── */ .certs { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-bottom: 36px; } .cert { border: 1px solid var(--border); border-radius: var(--radius); padding: 12px 14px; text-align: center; background: var(--off-white); } .cert-icon { width: 28px; height: 28px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 8px; } .cert-icon svg { width: 14px; height: 14px; stroke: #fff; fill: none; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; } .cert:nth-child(1) .cert-icon { background: var(--green); } .cert:nth-child(2) .cert-icon { background: var(--teal); } .cert:nth-child(3) .cert-icon { background: var(--amber); } .cert-label { font-size: 10px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text); margin-bottom: 2px; } .cert-sub { font-size: 10px; color: var(--text-faint); } /* ── LEGAL ───────────────────────────────────── */ .legal { background: var(--off-white); border: 1px solid var(--border); border-radius: var(--radius-lg); padding: 16px 18px; } .legal p { font-size: 10.5px; color: var(--text-faint); line-height: 1.8; } /* ── RESPONSIVE ──────────────────────────────── */ @media (max-width: 520px) { .pillars { grid-template-columns: 1fr; } .certs { grid-template-columns: 1fr; } } Sativa 100% Plant-Based Third-Party Lab Tested Top-shelf , nothing added. The purest extract we know how to make — and it shows in every draw. We source only the finest whole plant material — fresh-frozen at peak harvest to lock in every terpene, every cannabinoid, every note of flavor the plant worked to produce. No cutting agents, no artificial terpenes, no shortcuts. Just pure, plant-derived live resin married with THCA diamond concentrate for a vaping experience that is genuinely best in class. Diamond-grade concentrate. Nothing else. Our liquid diamonds are crystallized THCA — the rawest, most refined form of the cannabinoid. Melted with a live resin terpene sauce derived entirely from the same plant. No distillate. No synthetics. No fillers. What sets it apart Pure plant origin 100% hemp-derived. Every compound traced back to the living plant — no synthetic cannabinoids, ever. Flash-frozen freshness Harvested and frozen immediately to preserve the live terpene profile — flavor as nature intended. Independently  Every batch tested by a  third-party lab for potency, purity, and the absence of contaminants. Crafted with care Small-batch extraction. GMP- facility. Produced in the USA with the same pride as what goes inside. How to use 01 Draw-activated — no buttons needed Simply inhale. The ceramic coil heats instantly for a smooth, consistent pull. No settings, no learning curve. 02 Start with one or two draws Diamond-grade concentrate is highly potent. Give it a few minutes before continuing — quality over quantity. 03 Recharge via USB-C The built-in rechargeable battery ensures every last drop is used. No waste, no disposable guilt. Quality you can verify GMP  Facility & process COA Available Every batch Made in USA Southern California Statements on this website have not been evaluated by the Food and  Administration. These products are not intended to diagnose, treat, , or prevent any disease. Products contain less than 0.3% THC. Not for use or  to persons under the age of 21. Do not use if pregnant or nursing. Consult a physician before use if you have a  condition or use  medications. May impair ability to drive or operate machinery. Void where prohibited by law.
+  Updated: 2026-04-20T09:13:42Z
   Vendor: Cali Steam LLC
   Product Type: 
   Availability: Available
@@ -1323,7 +1335,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Mushroom Gummies | Lift Off | 3 - 3 Packs](https://calisteam.com/products/mushroom-gummies-lift-off-variety-pack-of-3-packs): Daily Functional Mushroom Support for Focus & BalanceLift Off Gummies 3 Pack delivers a flavorful and convenient way to enjoy your daily functional mushroom routine, featuring three vibrant flavors — Strawberry Kiwi, Green Apple, and Sour Peach.
-  Updated: 2026-04-15T13:31:39Z
+  Updated: 2026-04-24T20:04:47Z
   Vendor: Lift Off
   Product Type: 
   Availability: Available
@@ -1336,19 +1348,19 @@
   Updated: 2024-12-22T22:32:21Z
   Total Products: 0
 - [THCA Flower](https://calisteam.com/collections/thca-flower-space-rocks): Diamond-infused Space Rocks THCA flower for maximum potency and explosive flavor. Ultra-strong, terpene-rich buds crafted for heavy hitters ready for liftoff.
-  Updated: 2026-04-15T11:06:35Z
+  Updated: 2026-04-25T11:06:41Z
   Total Products: 17
 - [Functional Mushroom Products](https://calisteam.com/collections/lift-off): 🌱 Functional Mushrooms for Mindful Energy & Balance At Cali Steam, we infuse our Lift Off Gummies and wellness drink mixes with a powerful blend of functional mushrooms—nature’s most intelligent adaptogens. These aren’t hallucinogenic varieties, but rather performance-driven species like Lion’s Mane, Cordyceps, Reishi, and Chaga, known to support focus, energy, mood, and immune balance. Each batch is crafted for smooth, sustained clarity—without the crash or jitters of caffeine. Our mushroom formulations work in harmony with the body’s natural rhythm to help you lift off your stress, sharpen your mind, and flow through the day with grounded energy. 🌌 The Science of Functional Fungi Functional mushrooms contain bioactive compounds such as beta-glucans, terpenes, and antioxidants that nourish the brain, support gut health, and promote calm resilience to stress. Modern studies have shown that Lion’s Mane may encourage cognitive function, while Reishi and Chaga help modulate the body’s stress response—making them ideal for those seeking natural focus and mood balance. Whether in gummy form or mixed into your daily drink, Cali Steam’s mushroom-powered formulas deliver earth-grown vitality with a cosmic twist—crafted for clarity, calm, and creativity in every dose.
-  Updated: 2026-04-15T11:06:35Z
+  Updated: 2026-04-25T11:06:41Z
   Total Products: 16
 - [Wholesale](https://calisteam.com/collections/wholesale-customer-portal): Welcome to our wholesale purchasing platform. Please ensure you are logged in to your account in order for the wholesale prices to appear. If you'd like to be part of our wholesale program please complete our wholesale inquiry form.
   Updated: 2026-04-01T19:34:43Z
   Total Products: 13
 - [THCA Concentrates](https://calisteam.com/collections/space-rocks-concentrates): Premium Space Rocks concentrates crafted for purity, potency, and rich terpene flavor. Live resin, sugar, and badder extracts designed for a smooth, powerful lift.
-  Updated: 2026-04-15T11:06:35Z
+  Updated: 2026-04-25T11:06:41Z
   Total Products: 12
 - [Shop All Products](https://calisteam.com/collections/shop-all-products): At Cali Steam, we believe the foundation of health and vitality lies in the gifts of nature. Our mission is to harness the potency of nature’s finest fruits.
-  Updated: 2026-04-15T11:06:35Z
+  Updated: 2026-04-25T11:06:41Z
   Total Products: 21
 - [Productos Funcionales](https://calisteam.com/collections/productos-funcionales): 🚀 Bienvenido al Universo Cali SteamDescubre el poder de la naturaleza elevado al máximo con nuestros productos estrella:Space Rocks, flor premium infundida con diamantes de THCa, y Lift Off, gomitas funcionales con extracto vivo de hongos. Cada producto está cuidadosamente elaborado para ofrecer una experiencia única — ya sea que busques relajación profunda, claridad mental o un impulso de energía natural, en Cali Steam tenemos la fórmula perfecta para elevar tu día. 🌿 Productos naturales. Potencia real. Resultados cósmicos.
   Updated: 2026-04-08T02:41:41Z
@@ -1357,10 +1369,10 @@
   Updated: 2026-04-01T19:34:43Z
   Total Products: 1
 - [Space Rocks](https://calisteam.com/collections/space-rocks): Space Rocks™ by Cali Steam is a luxury THCA  brand engineered for elite potency, terpene richness, and next-level effects. Space Rocks delivers a powerful, smooth, and flavor-forward experience built for connoisseurs who demand more from their .
-  Updated: 2026-04-15T11:06:35Z
+  Updated: 2026-04-25T11:06:41Z
   Total Products: 18
 - [Lift Off](https://calisteam.com/collections/lift-off-1): Lift Off™ is Cali Steam’s flagship functional mushroom brand crafted for natural energy, focus, mood balance, and cognitive support. Lift Off products harness a proprietary blend of performance-driven adaptogenic mushrooms — including Lion’s Mane, Cordyceps, Reishi, and Chaga.
-  Updated: 2026-04-15T11:06:35Z
+  Updated: 2026-04-25T11:06:41Z
   Total Products: 12
 - [Amaris](https://calisteam.com/collections/amaris): Amaris Collective™ is a nootropic mushroom brand featured on Cali Steam designed for enhanced cognitive flexibility, emotional agility, and sustained mental energy. Formulated at the intersection of neuroscience and holistic wellness, Amaris gummies use a proprietary AM-0X™ bio-intelligent microdose stack of genetically optimized functional mushrooms and bioactive compounds for concentrated mental support.
   Updated: 2026-04-01T19:34:44Z
@@ -1369,13 +1381,13 @@
   Updated: 2026-04-01T19:34:44Z
   Total Products: 3
 - [Microdose Gummies](https://calisteam.com/collections/microdose-gummies): Light-dose microdose mushroom gummies for mood, creativity, and cognitive support. Precise dosing, delicious flavors. Elevate your daily wellness — Lift Off.
-  Updated: 2026-04-15T11:06:35Z
+  Updated: 2026-04-25T11:06:41Z
   Total Products: 12
 - [Energy Gummies](https://calisteam.com/collections/energy-gummies): Functional mushroom energy gummies designed for sustained focus and motivation. Clean energy without jitters. Cordyceps + Lion’s Mane. Shop Lift Off Energy Gummies.
-  Updated: 2026-04-15T11:06:35Z
+  Updated: 2026-04-25T11:06:41Z
   Total Products: 6
 - [Lion's Mane Gummies](https://calisteam.com/collections/lions-mane-gummies): Premium Lion’s Mane mushroom gummies crafted for cognitive support, focus, and memory. Lab-tested, great-tasting, vegan-friendly — perfect for daily brain health.
-  Updated: 2026-04-15T11:06:35Z
+  Updated: 2026-04-25T11:06:41Z
   Total Products: 7
 - [High Potency THCA Flower | Space Rocks – Cali Steam](https://calisteam.com/collections/high-potency-thca): Shop Space Rocks high potency THCA flower testing 30%+ THCA. Indoor-grown, terpene-rich, and lab-tested for premium quality and bold effects.
   Updated: 2026-04-15T11:06:35Z
@@ -1384,19 +1396,19 @@
   Updated: 2026-04-15T11:06:35Z
   Total Products: 4
 - [Citrus Terpene THCA Flower | Space Rocks – Cali Steam](https://calisteam.com/collections/citrus-terpene-thca-flower-space-rocks-collection): Shop citrus terpene THCA flower from Space Rocks. Limonene-rich infused buds with bright citrus flavor, lab-tested potency, and premium quality.
-  Updated: 2026-04-15T11:06:35Z
+  Updated: 2026-04-25T11:06:41Z
   Total Products: 8
 - [Festival Products](https://calisteam.com/collections/festival-products)
   Updated: 2026-04-08T03:50:43Z
   Total Products: 5
 - [Mushroom Gummies for Focus, Calm & Energy | Lift Off](https://calisteam.com/collections/mushroom-gummies-for-focus-calm-energy-lift-off): Shop mushroom gummies with lion’s mane, reishi, and cordyceps. Fruiting body extracts, lab tested, vegan-friendly formulas.
-  Updated: 2026-04-15T11:06:35Z
+  Updated: 2026-04-25T11:06:41Z
   Total Products: 8
 - [Mushroom Gummies | Lift Off](https://calisteam.com/collections/mushroom-gummies-lift-off): Shop Lift Off mushroom gummies and mushroom blend formulas for focus, calm, and energy. Explore functional mushroom gummies in convenient daily formats.
-  Updated: 2026-04-15T11:06:35Z
+  Updated: 2026-04-25T11:06:41Z
   Total Products: 7
 - [Vapes](https://calisteam.com/collections/-vapes): Premium  vapes. Pure oil, no additives — full-spectrum flavor and effects in every cartridge.
-  Updated: 2026-04-15T11:06:35Z
+  Updated: 2026-04-25T11:06:41Z
   Total Products: 5
 - [THCP](https://calisteam.com/collections/thcp): Explore premium flower for rich inhalation, crystalline diamond concentrates for pure dabbing intensity, and convenient vapes for discreet, fast-onset sessions. Lab-tested for purity and federally compliant under 0.3% Delta-9 THC.
   Updated: 2026-04-10T03:20:03Z
@@ -1654,6 +1666,12 @@
     Author: Cali Steam Blogger
   - [Discover THCP — the Most Potent Cannabinoid](https://calisteam.com/blogs/alternative-product-news/discover-thcp-the-most-potent-cannabinoid)
     Updated: 2026-04-08T01:12:46Z
+    Author: Cali Steam Blogger
+  - [How Long Does Lion's Mane Take to Work for Focus? A Realistic Timeline](https://calisteam.com/blogs/alternative-product-news/how-long-does-lions-mane-take-to-work-for-focus-a-realistic-timeline): <p><meta charset="utf-8">How long does lion’s mane take to work for focus? While many people notice the biggest difference after 2–4 weeks of daily use, Lift Off Gummies offer a simple way to build that routine into your day.</p>
+    Updated: 2026-04-17T04:16:31Z
+    Author: Cali Steam Blogger
+  - [What is ibogaine?](https://calisteam.com/blogs/alternative-product-news/what-is-ibogaine): <p>A look at ibogaine's origins and why many are choosing accessible alternatives with functional mushrooms.</p>
+    Updated: 2026-04-18T21:36:39Z
     Author: Cali Steam Blogger
 
 ## Store Pages
