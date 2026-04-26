@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-01-08T15:14:34Z
 - Contact Email: yoav@40rty.ai
-- Updated At: 2026-04-18T00:00:30.941Z
+- Updated At: 2026-04-26T00:00:34.348Z
 
 ## Products
 
@@ -713,7 +713,7 @@
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/spark-r-d-surge-st-pro-splitboard-bindings-2026-1_900x_b41746e9-7a01-4a48-906a-e2bbf9b93474.jpg?v=1773917525
   Price: $419.95 USD
 - [Men's Burton Step On Genesis ReFlex Bindings](https://yoav-test-store-2.myshopify.com/products/men-s-burton-step-on-genesis-reflex-bindings): These Step On Genesis ReFlex bindings from Burton provide pro-caliber performance with the convenience of Step On technology.
-  Updated: 2026-04-12T05:56:59Z
+  Updated: 2026-04-23T15:26:12Z
   Vendor: Burton
   Product Type: Bindings
   Availability: Available
@@ -985,6 +985,27 @@
     Updated: 2026-02-09T08:16:20Z
     Author: Yoav test store
     Tags: best freeride boards, recommended offpiste gear, top powder snowboards
+  - [Strap In: The Ultimate Guide to Choosing the Right Snowboard Bindings](https://yoav-test-store-2.myshopify.com/blogs/news/strap-in-the-ultimate-guide-to-choosing-the-right-snowboard-bindings)
+    Updated: 2026-04-21T14:14:37Z
+    Author: Yoav Avinoam
+  - [Strap In, Step On, or Skin Up: The Ultimate Guide to Snowboard Bindings](https://yoav-test-store-2.myshopify.com/blogs/news/strap-in-step-on-or-skin-up-the-ultimate-guide-to-snowboard-bindings)
+    Updated: 2026-04-21T14:18:37Z
+    Author: Yoav Avinoam
+  - [Gear Up: The Ultimate Beginner’s Guide to Buying Your First Snowboard Setup](https://yoav-test-store-2.myshopify.com/blogs/news/gear-up-the-ultimate-beginner-s-guide-to-buying-your-first-snowboard-setup)
+    Updated: 2026-04-21T14:19:55Z
+    Author: Yoav Avinoam
+  - [Untracked and Unbound: An Introduction to Snowboard Freeriding](https://yoav-test-store-2.myshopify.com/blogs/news/untracked-and-unbound-an-introduction-to-snowboard-freeriding)
+    Updated: 2026-04-21T14:22:07Z
+    Author: Yoav Avinoam
+  - [Decoding Snowboard Outerwear: Waterproofing, Breathability, and Materials Explained](https://yoav-test-store-2.myshopify.com/blogs/news/decoding-snowboard-outerwear-waterproofing-breathability-and-materials-explained)
+    Updated: 2026-04-21T14:35:31Z
+    Author: Yoav Avinoam
+  - [Why a Quality Snowboard Helmet Matters](https://yoav-test-store-2.myshopify.com/blogs/news/why-a-quality-snowboard-helmet-matters)
+    Updated: 2026-04-21T14:38:04Z
+    Author: Yoav Avinoam
+  - [See the Future: The Wildest Snowboard Goggle Tech Hitting the Slopes in 2026](https://yoav-test-store-2.myshopify.com/blogs/news/see-the-future-the-wildest-snowboard-goggle-tech-hitting-the-slopes-in-2026)
+    Updated: 2026-04-21T14:38:20Z
+    Author: Yoav Avinoam
 
 ## Store Pages
 
