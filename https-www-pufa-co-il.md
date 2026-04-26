@@ -6,46 +6,31 @@
 - Timezone: Asia/Jerusalem
 - Created At: 2025-07-15T15:45:27Z
 - Contact Email: Pufa.co.il@gmail.com
-- Updated At: 2026-04-18T00:00:40.085Z
+- Updated At: 2026-04-26T00:00:43.808Z
 
 ## Products
 
 - [PUFA מתנה מיוחדת - תכשיטים בהפתעה: שרשראות, עגילים, צמידים - כסף וזהב](https://www.pufa.co.il/products/lucky-scoop): גלה את תכשיטי לאקי סקופ, מתנה מיוחדת שתשמח כל אחד. תכשיטים בהפתעה של פופה, מתנה ליום הולדת,מתנה לאישה,מתנה לילדה,
 פופה Lucky Scoop-מתנות תכשיטים בהפתעה: שרשראות, עגילים, צמידים וטבעות-כסף וזהב
 PUFA
-  Updated: 2026-04-16T18:28:00Z
+  Updated: 2026-04-24T17:13:07Z
   Vendor: My Store
   Product Type: Product
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0769/9012/0178/files/LuckyScoopWithApples.jpg?v=1772540544
   Price: ‏40.00 ‏₪ ILS
 - [קפסולה ענקית של PUFA - מתנה מיוחדת](https://www.pufa.co.il/products/giant-capsule): גלו את הקפסולה הענקית של PUFA - מתנה מיוחדת ליקיריכם.
-  Updated: 2026-04-15T12:47:38Z
+  Updated: 2026-04-22T20:19:37Z
   Vendor: Pufa
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0769/9012/0178/files/GiantCapsule.jpg?v=1772540559
   Price: ‏60.00 ‏₪ ILS
-- [מנוי תכשיטים מושלמים עד הבית Pufa+ לא צריך לחפש שעות את הטרנד הבא](https://www.pufa.co.il/products/pufa): בכל חודש פריטים חדשים שנבחרו בקפידה, בלי לחזור על אותו דגם. בחירת גוון, רק תכשיטים מהממים ומה שבאופנה ככה שלא צריך לחפש שעות מה הכי חם וטרנדי. משלוחים לכל הארץ.
-  Updated: 2026-03-13T14:28:05Z
-  Vendor: Pufa
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0769/9012/0178/files/176065334568f170219f0694054.png?v=1772540544
-  - [Basic מנוי](https://www.pufa.co.il/products/pufa?variant=48059453014258)
-    Availability: Available
-    Price: ‏89.00 ‏₪ ILS
-  - [Plus מנוי](https://www.pufa.co.il/products/pufa?variant=48059453047026)
-    Availability: Available
-    Price: ‏169.00 ‏₪ ILS
-  - [Pro מנוי](https://www.pufa.co.il/products/pufa?variant=48059453079794)
-    Availability: Available
-    Price: ‏279.00 ‏₪ ILS
 - [Pufa Home Capsules - פותחים בבית, מותאם לסטייל שלכם](https://www.pufa.co.il/products/pufa-home-capsules): זה לא עוד תכשיט - זו חוויה בבית!
 את מקבלת קפסולות סגורות, פותחת לבד, ומגלה תכשיטים הכי יפים וטרנדיים שמתאימים בול לסטייל שאת אוהבת
 פופה Lucky Scoop-מתנות תכשיטים בהפתעה: שרשראות, עגילים, צמידים וטבעות-כסף וזהב
 PUFA
-  Updated: 2026-04-17T11:04:07Z
+  Updated: 2026-04-24T11:24:34Z
   Vendor: My Store
   Product Type: Product
   Availability: Available
@@ -74,7 +59,7 @@ PUFA
   Updated: 2026-01-14T14:58:53Z
   Total Products: 0
 - [◈ Lucky Scoop ◈ - Pufa](https://www.pufa.co.il/collections/lucky-scoop): מחפשים מתנה ייחודית או מתנה ליום הולדת שתשחרר אתכם מבעיות של מידות וסטייל? בקולקציה של PUFA Lucky  - Pufa
-  Updated: 2026-04-17T11:27:18Z
+  Updated: 2026-04-25T11:27:38Z
   Total Products: 6
 
 ## Blogs
@@ -149,6 +134,30 @@ PUFA
   - [Jewelry care tips for lasting shine | Pufa](https://www.pufa.co.il/blogs/pufa-blog/טיפים-מעשיים-לשמירה-על-תכשיטי-כסף-וזהב-לאורך-זמן-וברק): Jewelry care tips for lasting shine | Pufa
     Updated: 2026-04-01T07:00:05Z
     Author: איסקוב נועה
+  - [איך לבחור מתנה כשלא יודעים מה לקנות?](https://www.pufa.co.il/blogs/pufa-blog/eich-livchor-matana-kshelo-yodim-ma-liknot): איך לבחור מתנה כשלא יודעים מה לקנות?
+    Updated: 2026-04-18T17:05:47Z
+    Author: Admin
+  - [מתנה ליום הולדת לאישה צעירה - איך לא לטעות](https://www.pufa.co.il/blogs/pufa-blog/matana-leyom-huledet-leisha-tzeira): מתנה ליום הולדת לאישה צעירה - איך לא לטעות
+    Updated: 2026-04-19T05:55:47Z
+    Author: Admin
+  - [מתנת גיוס לחברה הכי טובה - מה באמת לקנות](https://www.pufa.co.il/blogs/pufa-blog/matanat-giyus-lachavera-hachi-tova): מתנת גיוס לחברה הכי טובה - מה באמת לקנות
+    Updated: 2026-04-20T04:40:25Z
+    Author: Admin
+  - [מה לקנות לבת זוג ליום נישואין בלי לטעות](https://www.pufa.co.il/blogs/pufa-blog/ma-liknot-lebat-zug-leyom-nisuin): מה לקנות לבת זוג ליום נישואין בלי לטעות
+    Updated: 2026-04-21T04:40:37Z
+    Author: Admin
+  - [תכשיטים שלא משחירים במקלחת - מה באמת שווה](https://www.pufa.co.il/blogs/pufa-blog/tachshitim-shelo-mashchir-im-bamiklahat): תכשיטים שלא משחירים במקלחת - מה באמת שווה
+    Updated: 2026-04-22T03:18:24Z
+    Author: Admin
+  - [איך יודעים אם תכשיט עמיד במים באמת?](https://www.pufa.co.il/blogs/pufa-blog/eich-yodim-im-tachshit-amid-bamayim): איך יודעים אם תכשיט עמיד במים באמת?
+    Updated: 2026-04-23T03:21:24Z
+    Author: Admin
+  - [עגילים היפואלרגניים לנשים - איך בוחרים נכון](https://www.pufa.co.il/blogs/pufa-blog/hypoallergenic-earrings-for-women): עגילים היפואלרגניים לנשים - איך בוחרים נכון
+    Updated: 2026-04-24T03:27:37Z
+    Author: Admin
+  - [טבעת מתכווננת לנשים - נוחה, יפה וקלה לבחור](https://www.pufa.co.il/blogs/pufa-blog/tabaat-mitkonenet-lenashim): טבעת מתכווננת לנשים - נוחה, יפה וקלה לבחור
+    Updated: 2026-04-25T03:27:23Z
+    Author: Admin
 
 ## Store Pages
 
