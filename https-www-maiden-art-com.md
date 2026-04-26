@@ -6,12 +6,12 @@
 - Timezone: Europe/Rome
 - Created At: 2010-04-30T15:23:34Z
 - Contact Email: sales@maiden-art.com
-- Updated At: 2026-04-17T00:00:50.262Z
+- Updated At: 2026-04-26T00:00:27.025Z
 
 ## Products
 
 - [GIFT CARD - Online Gift Card - Maiden-Art](https://www.maiden-art.com/products/gift-card-online-gift-card): Online Gift Card Shopping for someone else but not sure what to give them? Give them the gift of  - Maiden-Art
-  Updated: 2026-02-16T10:55:17Z
+  Updated: 2026-04-20T20:12:56Z
   Vendor: MAIDEN-ART
   Product Type: gift card
   Availability: Available
@@ -29,28 +29,28 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/products/White_and_Black_with_Floral_Watercolor_Birthday_Gift_Certificate_copia-sw.png?v=1726563217
     Price: €100.00 EUR
 - [Jewelry Styling and Image Consultancy - Online Session - personal](https://www.maiden-art.com/products/jewelry-styling-and-image-consultancy-personal-styling): Personal Styling and Image Consultancy Online Session WHERE: The Consultancy is Offered: - Online  - Maiden-Art
-  Updated: 2026-02-16T10:55:17Z
+  Updated: 2026-04-20T20:12:56Z
   Vendor: Maiden-Art
   Product Type: jewelry styling consultancy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/products/65696952_2893370504038110_8402893357579239424_o-sw.jpg?v=1726563222
   Price: €97.00 EUR
 - [LOVE Myself Embroidered patches Black - Maiden-Art](https://www.maiden-art.com/products/love-myself-embroidered-patches-black): LOVE Myself Embroidered Patches: Add Flair to Your Style embroidered patches: Spice up your outfit  - Maiden-Art
-  Updated: 2026-02-16T10:55:18Z
+  Updated: 2026-04-20T20:12:57Z
   Vendor: Maiden-Art
   Product Type: patch
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/embroidered-patches-black-heart---3.1x2.8-front-65b28b0964131.jpg?v=1706199828
   Price: €49.00 EUR
 - [LOVE Myself Embroidered patches White - Maiden-Art](https://www.maiden-art.com/products/love-myself-embroidered-patches-white): LOVE Myself Embroidered Patches: Add Flair to Your Style embroidered patches: Spice up your outfit  - Maiden-Art
-  Updated: 2026-02-16T10:55:18Z
+  Updated: 2026-04-20T20:12:57Z
   Vendor: Maiden-Art
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/embroidered-patches-white-heart---3.1x2.8-front-65b28ca380573.jpg?v=1706200238
   Price: €49.00 EUR
 - [LOVE Myself - Unisex eco sweatshirt - Maiden-Art](https://www.maiden-art.com/products/love-myself-unisex-eco-sweatshirt): LOVE Myself - Unisex Eco Sweatshirt Elevate your style with this unisex eco sweatshirt. The shirt  - Maiden-Art
-  Updated: 2026-02-16T10:55:18Z
+  Updated: 2026-04-20T20:12:58Z
   Vendor: Maiden-Art
   Product Type: Unisex Premium Sweatshirt
   Availability: Available
@@ -88,7 +88,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-eco-sweatshirt-white-front-65b29052e03f5.jpg?v=1726645956
     Price: €139.00 EUR
 - [LOVE Myself Unisex eco sweatshirt - Maiden-Art](https://www.maiden-art.com/products/love-myself-unisex-eco-sweatshirt-1): LOVE Myself Unisex Eco Swetshirt Elevte your style with this unisex eco swetshirt. The shirt hs  - Maiden-Art
-  Updated: 2026-02-16T10:55:18Z
+  Updated: 2026-04-20T20:12:58Z
   Vendor: Maiden-Art
   Product Type: Unisex Premium Sweatshirt
   Availability: Available
@@ -134,28 +134,28 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-eco-sweatshirt-black-front-65b291fd76909.jpg?v=1706201617
     Price: €139.00 EUR
 - [Mindful Fashion Self Love Workbook - Maiden-Art](https://www.maiden-art.com/products/mindful-fashion-self-love-ebook-self-love-workbook): Self Love Workbook: Cultivate a Mindful Fashion for Self-Care Mindful Fashion Self Love  - Maiden-Art
-  Updated: 2026-02-16T10:55:18Z
+  Updated: 2026-04-20T20:12:59Z
   Vendor: MAIDEN-ART
   Product Type: ebook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/01_mockup_ebook_maidenart.jpg?v=1726645968
   Price: €24.87 EUR
 - [Mindful Fashion Everyday Happiness Ebook + Workbook - Maiden-Art](https://www.maiden-art.com/products/mindful-fashion-everyday-happiness-ebook): Everyday Happiness with Mindful Fashion Everyday Happiness Ebook + Workbook: UNLOCK THE HAPPINESS  - Maiden-Art
-  Updated: 2026-02-16T10:55:18Z
+  Updated: 2026-04-20T20:13:00Z
   Vendor: MAIDEN-ART
   Product Type: ebook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/02_mockup_ebook_maidenart.jpg?v=1726645971
   Price: €34.87 EUR
 - [Limiting Beliefs Ebook + Workbook | Mindful Fashion - Maiden-Art](https://www.maiden-art.com/products/mindful-fashion-limiting-beliefs-ebook-workbook): Mindful Fashion Limiting Beliefs Ebook + Workbook. Ebook of 79 pages, immediate digital download in  - Maiden-Art
-  Updated: 2026-02-16T10:55:18Z
+  Updated: 2026-04-20T20:13:00Z
   Vendor: MAIDEN-ART
   Product Type: ebook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/03_mockup_ebook_maidenart.jpg?v=1726645974
   Price: €24.87 EUR
 - [Mindful Fashion Financial Freedom with Maiden-Art Ebook - Maiden-Art](https://www.maiden-art.com/products/mindful-fashion-financial-freedom-with-maiden-art-ebook): Achieve Financial Freedom with Mindful Fashion Mindful Fashion Financial Freedom with Maiden-Art  - Maiden-Art
-  Updated: 2026-02-16T10:55:19Z
+  Updated: 2026-04-20T20:13:01Z
   Vendor: MAIDEN-ART
   Product Type: ebook
   Availability: Available
@@ -169,7 +169,7 @@
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Ebooks_Bundle_MaidenArt.png?v=1726645981
   Price: €67.00 EUR
 - [Eat, Fashion Mindfulness and Love Unisex organic cotton t-shirt -](https://www.maiden-art.com/products/eat-fashion-mindfulness-and-love-unisex-organic-cotton-t-shirt-unisex-t-shirt): Unisex T-shirt: Eat, Fashion Mindfulness and Love This 100% organic cotton darling stays true to the  - Maiden-Art
-  Updated: 2026-03-26T06:38:52Z
+  Updated: 2026-04-20T20:13:01Z
   Vendor: Maiden-Art
   Product Type: t-shirt
   Availability: Available
@@ -239,7 +239,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-organic-cotton-t-shirt-french-navy-front-65b3d3fdd4fd0.jpg?v=1706284046
     Price: €69.00 EUR
 - [Eat Fashion Mindfulness and Love Unisex organic cotton t-shirt -](https://www.maiden-art.com/products/eat-fashion-mindfulness-and-love-unisex-organic-cotton-t-shirt-1-unisex-t-shirt): Unisex T-Shirt: Eat Fashion Mindfulness and Love Made from 100% organic ring-spun cotton, this  - Maiden-Art
-  Updated: 2026-02-16T10:55:19Z
+  Updated: 2026-04-20T20:13:03Z
   Vendor: Maiden-Art
   Product Type: 
   Availability: Available
@@ -333,14 +333,14 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-organic-cotton-t-shirt-white-front-65b3d55753145.jpg?v=1726646021
     Price: €69.00 EUR
 - [This Girl Can Hardcover bound notebook - JournalBook - stationary -](https://www.maiden-art.com/products/this-girl-can-hardcover-bound-notebook-stationary): The Ultimate Stationery: This Girl Can Hardcover Bound JournalBook Stationary: Whether crafting a  - Maiden-Art
-  Updated: 2026-02-16T10:55:19Z
+  Updated: 2026-04-20T20:13:03Z
   Vendor: Maiden-Art
   Product Type: notebook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/hardcover-bound-notebook-black-front-65b4da8c70392.jpg?v=1706351252
   Price: €59.00 EUR
 - [This Girl Can Hardcover bound notebook - JournalBook - stationery -](https://www.maiden-art.com/products/this-girl-can-hardcover-bound-notebook-1-stationary): The Ultimate Stationery: This Girl Can Hardcover Bound JournalBook Whether crafting a masterpiece or  - Maiden-Art
-  Updated: 2026-03-07T23:31:11Z
+  Updated: 2026-04-20T20:13:04Z
   Vendor: Maiden-Art
   Product Type: notebook
   Availability: Available
@@ -354,28 +354,28 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/hardcover-bound-notebook-white-front-65b4db8f7b8dd.jpg?v=1726646029
     Price: €59.00 EUR
 - [Burn for what you Love Yoga / Mindfulness mat - yoga mat - Maiden-Art](https://www.maiden-art.com/products/burn-for-what-you-love-yoga-mindfulness-mat-yoga-mat): Yoga Mat for Your Passionate Practice Whether you’re exercising, stretching, or meditating, it’s  - Maiden-Art
-  Updated: 2026-02-28T01:32:41Z
+  Updated: 2026-04-20T20:13:04Z
   Vendor: Maiden-Art
   Product Type: yoga mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/yoga-mat-white-front-65b4de7117c22.jpg?v=1706352251
   Price: €97.00 EUR
 - [Elevate Your Style in 10 Days - A Wardrobe Challenge for a Fashion](https://www.maiden-art.com/products/elevate-your-style-in-10-days-a-wardrobe-challenge-for-a-fashion-revolution-ebook-personal-style-guide): Personal Style Guide  a Fashion Revolution Elevate Your Style in 10 Days - A Wardrobe Challenge  - Maiden-Art
-  Updated: 2026-02-16T10:55:20Z
+  Updated: 2026-04-20T20:13:06Z
   Vendor: MAIDEN-ART
   Product Type: ebook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/best-1.jpg?v=1726646059
   Price: €24.87 EUR
 - [Mindfulness eBook + Workbook: Your Path to Inner Peace -](https://www.maiden-art.com/products/maiden-art-mindfulness-ebook-workbook-your-path-to-inner-peace): Mindfulness eBook: Your Path to Inner Peace Mindfulness ebook: 🌿 Maiden-Art Mindfulness eBook +  - Maiden-Art
-  Updated: 2026-02-16T10:55:20Z
+  Updated: 2026-04-20T20:13:07Z
   Vendor: MAIDEN-ART
   Product Type: e-book
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/best-2.jpg?v=1726646062
   Price: €24.87 EUR
 - [Name Ring - custom name ring - Maiden-Art](https://www.maiden-art.com/products/name-ring-custom-name-ring): Custom Name Ring Custom name ring: This ring is Hand-made with your desired personalized name in  - Maiden-Art
-  Updated: 2026-02-16T10:55:20Z
+  Updated: 2026-04-20T20:13:07Z
   Vendor: Maiden-Art
   Product Type: ring
   Availability: Available
@@ -393,7 +393,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/products/75bd0cac-22e9-11ed-b711-42010a800002.jpg?v=1726646085
     Price: €49.00 EUR
 - [Name Necklace - personalized name necklace - Maiden-Art](https://www.maiden-art.com/products/name-necklace-personalized-name-necklace): Personalized Name Necklace Personalized name necklace: This necklace is Hand-made with your desired  - Maiden-Art
-  Updated: 2026-02-16T10:55:20Z
+  Updated: 2026-04-20T20:13:08Z
   Vendor: Maiden-Art
   Product Type: Necklace
   Availability: Available
@@ -411,7 +411,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/products/dda75978-22ec-11ed-b711-42010a800002.jpg?v=1726646121
     Price: €49.00 EUR
 - [925 Sterling Silver Swarovski Stone Name Ring - Swarovski stone ring -](https://www.maiden-art.com/products/full-silver-full-stone-name-ring-swarovski-stone-ring): Swarovski Stone Ring - 925 Sterling Silver Personalized Name Ring Swarovski stone ring: personalize  - Maiden-Art
-  Updated: 2026-02-16T10:55:20Z
+  Updated: 2026-04-20T20:13:08Z
   Vendor: Maiden-Art
   Product Type: ring
   Availability: Available
@@ -429,7 +429,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/products/f8b55d6a-b03f-11ed-bcd2-f23c9329b1cf.jpg?v=1726646133
     Price: €109.00 EUR
 - [One Name Ring - personalized ring - Maiden-Art](https://www.maiden-art.com/products/one-name-ring-personalized-ring): Discover the Beauty of Our Personalized Ring Personalized ring: This ring is Hand-made with your  - Maiden-Art
-  Updated: 2026-02-16T10:55:21Z
+  Updated: 2026-04-20T20:13:09Z
   Vendor: Maiden-Art
   Product Type: ring
   Availability: Available
@@ -489,7 +489,7 @@
     Availability: Available
     Price: €49.00 EUR
 - [Tiny Name Ring - Minimalist Ring - delicate ring - Maiden-Art](https://www.maiden-art.com/products/tiny-name-ring-minimalist-ring-delicate-ring): Discover the Elegance of a Delicate Rg This rg is Hand-made with your desired personalized name  - Maiden-Art
-  Updated: 2026-02-16T10:55:21Z
+  Updated: 2026-04-20T20:13:10Z
   Vendor: Maiden-Art
   Product Type: ring
   Availability: Available
@@ -567,7 +567,7 @@
     Availability: Available
     Price: €49.00 EUR
 - [Multiple Name Necklace - personalized name necklace - Maiden-Art](https://www.maiden-art.com/products/multiple-name-necklace-personalized-name-necklace): Personalized Name Necklace: A Unique Accessory for Every Individual This necklace is Hand-made with  - Maiden-Art
-  Updated: 2026-02-16T10:55:21Z
+  Updated: 2026-04-20T20:13:10Z
   Vendor: Maiden-Art
   Product Type: Necklace
   Availability: Available
@@ -582,7 +582,7 @@
     Availability: Available
     Price: €59.00 EUR
 - [Tree of Life Necklace - Bohemian Necklace - Maiden-Art](https://www.maiden-art.com/products/tree-of-life-necklace-bohemian-necklace): Embrace Your Inner Free Spirit with the Bohemian Necklace This necklace is Hand-made with your  - Maiden-Art
-  Updated: 2026-02-16T10:55:21Z
+  Updated: 2026-04-20T20:13:11Z
   Vendor: Maiden-Art
   Product Type: Necklaces
   Availability: Available
@@ -597,7 +597,7 @@
     Availability: Available
     Price: €69.00 EUR
 - [Name Bracelet - custom name bracelet - Maiden-Art](https://www.maiden-art.com/products/name-bracelet-custom-name-bracelet): Custom Name Bracelet - The Perfect Personalized Jewelry Custom name bracelet: Elevate your accessory  - Maiden-Art
-  Updated: 2026-02-16T10:55:21Z
+  Updated: 2026-04-20T20:13:11Z
   Vendor: Maiden-Art
   Product Type: Bracelets
   Availability: Available
@@ -612,7 +612,7 @@
     Availability: Available
     Price: €49.00 EUR
 - [Full Silver Vintage Name Necklace - silver name necklace - Maiden-Art](https://www.maiden-art.com/products/full-silver-vintage-name-necklace-silver-name-necklace): Elegant Full Silver Vintage Name Necklace Silver name necklace: Personalize your style with this  - Maiden-Art
-  Updated: 2026-02-16T10:55:21Z
+  Updated: 2026-04-20T20:13:12Z
   Vendor: Maiden-Art
   Product Type: Necklaces
   Availability: Available
@@ -627,7 +627,7 @@
     Availability: Available
     Price: €89.00 EUR
 - [Full Silver Name Necklace - silver name necklace - Maiden-Art](https://www.maiden-art.com/products/full-silver-name-necklace): Elegant Silver Name Necklace Silver name necklace: This necklace is Hand-made with your desired  - Maiden-Art
-  Updated: 2026-02-16T10:55:21Z
+  Updated: 2026-04-20T20:13:12Z
   Vendor: Maiden-Art
   Product Type: necklace
   Availability: Available
@@ -642,7 +642,7 @@
     Availability: Available
     Price: €99.00 EUR
 - [Envelope Necklace With Message - message necklace - Maiden-Art](https://www.maiden-art.com/products/envelope-necklace-with-message-message-necklace): Envelope Necklace With Message - message necklace Message necklace: This necklace is Hand-made with  - Maiden-Art
-  Updated: 2026-02-16T10:55:22Z
+  Updated: 2026-04-20T20:13:13Z
   Vendor: Maiden-Art
   Product Type: necklace
   Availability: Available
@@ -657,7 +657,7 @@
     Availability: Available
     Price: €59.00 EUR
 - [Full Silver Diamond Pendant Necklace - diamond necklace - Maiden-Art](https://www.maiden-art.com/products/full-silver-diamond-pendant-necklace-diamond-necklace): Explore the Exquisite Full Silver Diamond Pendant Necklace Diamond necklace: This necklace is  - Maiden-Art
-  Updated: 2026-03-12T01:57:56Z
+  Updated: 2026-04-20T20:13:13Z
   Vendor: Maiden-Art
   Product Type: necklace
   Availability: Available
@@ -672,7 +672,7 @@
     Availability: Available
     Price: €109.00 EUR
 - [Full Silver Diamond Name Necklace - Maiden-Art](https://www.maiden-art.com/products/full-silver-diamond-name-necklace): Diamond Name Necklace: Personalized Silver Elegance Diamond name necklace: This necklace is  - Maiden-Art
-  Updated: 2026-02-16T10:55:22Z
+  Updated: 2026-04-20T20:13:14Z
   Vendor: Maiden-Art
   Product Type: necklace
   Availability: Available
@@ -687,7 +687,7 @@
     Availability: Available
     Price: €99.00 EUR
 - [Full Silver 2-Name Ring - sterling silver ring - Maiden-Art](https://www.maiden-art.com/products/full-silver-2-name-ring-sterling-silver-ring): Sterling Silver Ring – Full Silver 2-Name Ring Sterling silver ring: This ring is Hand-made with  - Maiden-Art
-  Updated: 2026-02-16T10:55:22Z
+  Updated: 2026-04-20T20:13:14Z
   Vendor: Maiden-Art
   Product Type: ring
   Availability: Available
@@ -702,7 +702,7 @@
     Availability: Available
     Price: €89.00 EUR
 - [Full Silver Name-1 Ring - silver ring - Maiden-Art](https://www.maiden-art.com/products/full-silver-name-1-ring-silver-ring): Discover the Beauty of the Full Silver Name-1 Ring Silver ring: This ring is Hand-made with your  - Maiden-Art
-  Updated: 2026-03-08T05:26:02Z
+  Updated: 2026-04-20T20:13:14Z
   Vendor: Maiden-Art
   Product Type: ring
   Availability: Available
@@ -717,7 +717,7 @@
     Availability: Available
     Price: €99.00 EUR
 - [Double Heart Name Necklace - couples necklace - Maiden-Art](https://www.maiden-art.com/products/double-heart-name-necklace-couples-necklace): Celebrate Love with Our Couples Necklace Couples necklace: Double Heart Name Necklace Material  - Maiden-Art
-  Updated: 2026-02-16T10:55:22Z
+  Updated: 2026-04-20T20:13:15Z
   Vendor: Maiden-Art
   Product Type: 
   Availability: Available
@@ -732,7 +732,7 @@
     Availability: Available
     Price: €49.00 EUR
 - [CREATE YOUR OWN DESIGN & DRAWINGS - Doodle Drawing Necklace - custom](https://www.maiden-art.com/products/doodle-drawing-necklace-custom-necklace): Design Your Own Custom Necklace: Create Unique Doodle Drawing Jewelry Custom Necklace: ✿ Product -  - Maiden-Art
-  Updated: 2026-02-16T12:04:33Z
+  Updated: 2026-04-20T20:13:15Z
   Vendor: Maiden-Art
   Product Type: Necklaces
   Availability: Available
@@ -747,175 +747,175 @@
     Availability: Available
     Price: €79.00 EUR
 - [Serenity Spice: A Vanilla Infusion - Candle for Mindfulness &](https://www.maiden-art.com/products/serenity-spice-a-vanilla-infusion-candle-aromatherapy-candle): Experience Serenity with Our Premium Aromatherapy Candle Available in the following scents: Vanilla  - Maiden-Art
-  Updated: 2026-04-02T20:11:04Z
+  Updated: 2026-04-24T20:40:56Z
   Vendor: Candle Builders
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/products/f1e140da32cb5d727243bbed53f9df81.png?v=1726563269
   Price: €49.00 EUR
 - [Serenity Sea: Mindful Citrus Breeze - Candle for Mindfulness &](https://www.maiden-art.com/products/serenity-sea-mindful-citrus-breeze-candle): Serenity  Candle: Mindful Citrus Breeze for Meditation Candle: Available in the following scents:  - Maiden-Art
-  Updated: 2026-04-02T20:11:06Z
+  Updated: 2026-04-20T20:13:18Z
   Vendor: Candle Builders
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/products/3cc1d9503843ec0f4517915d730f50cb.png?v=1726563274
   Price: €49.00 EUR
 - [Zen Spice: Spiced Pumpkin Ginger - aromatherapy candle - Maiden-Art](https://www.maiden-art.com/products/zen-spice-spiced-pumpkin-ginger-candle-aromatherapy-candle): Aromatherapy Candle: The Enchantg Zen Spice - Spiced Pumpk Gger Aromatherapy Candle: Available  - Maiden-Art
-  Updated: 2026-04-02T20:11:07Z
+  Updated: 2026-04-20T20:13:19Z
   Vendor: Candle Builders
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/products/7f8f93f55dec57d7648e129d41db70c3.png?v=1726563277
   Price: €49.00 EUR
 - [Soul Soothe: Comfort Spice - Candle for Mindfulness & Meditation -](https://www.maiden-art.com/products/soul-soothe-comfort-spice-candle-for-mindfulness-meditation): Spice Candle for Mindfulness &amp; Meditation Candle: Available in the following scents  - Maiden-Art
-  Updated: 2026-04-02T20:11:08Z
+  Updated: 2026-04-20T20:13:19Z
   Vendor: Candle Builders
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/products/dda8050e305f586dad17fe5e4913dbbf.png?v=1726563281
   Price: €49.00 EUR
 - [Pink Grapefruit Meditation Blend - mindfulness candle - Maiden-Art](https://www.maiden-art.com/products/pink-grapefruit-meditation-blend-mindfulness-candle): Mindfulness Candle: Pink Grapefruit Meditation Blend Mindfulness Candle: Available in the following  - Maiden-Art
-  Updated: 2026-04-02T20:11:56Z
+  Updated: 2026-04-20T20:13:20Z
   Vendor: Candle Builders
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/products/ffcedfaed66062084e01531cf379f7a3.png?v=1726563284
   Price: €49.00 EUR
 - [Woodsy Balsam Oasis - Candle for Mindfulness & Meditation -](https://www.maiden-art.com/products/woodsy-balsam-oasis-candle-for-mindfulness-meditation-aromatherapy-candle): Experience Tranquility with Our Aromatherapy Candle Aromatherapy Candle: Available in the following  - Maiden-Art
-  Updated: 2026-04-02T20:11:59Z
+  Updated: 2026-04-20T20:13:20Z
   Vendor: Candle Builders
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/products/e34541b49ed70299a28412dc8a62c13a.png?v=1726563288
   Price: €49.00 EUR
 - [Meditation Candle - Eucalyptus Lavender Tranquility - Candle for](https://www.maiden-art.com/products/eucalyptus-lavender-tranquility-candle-for-mindfulness-meditation-candle): Meditation Candle - Eucalyptus Lavender Tranquility Meditation Candle: Available in the following  - Maiden-Art
-  Updated: 2026-04-02T20:12:00Z
+  Updated: 2026-04-20T20:13:21Z
   Vendor: Candle Builders
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/products/8b52528f19d088ea706ec6faf2aeb62d.png?v=1726563291
   Price: €49.00 EUR
 - [Citrus Glow Elixir - Vitamin C Serum - Maiden-Art](https://www.maiden-art.com/products/citrus-glow-elixir-mindful-vitamin-c-serum): Experience Radiance with Our Vitamin C  Vitamin C : Citrus Glow Elixir Mindful Vitamin C  - Maiden-Art
-  Updated: 2026-04-02T19:49:22Z
+  Updated: 2026-04-20T20:13:21Z
   Vendor: Selfnamed
   Product Type: vitamin c serum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/A6ZDTMePpLgvdw4e9VFpe737luLntdeu.jpg?v=1726646453
   Price: €59.00 EUR
 - [Mindful Renewal Essence - Collagen Serum - Maiden-Art](https://www.maiden-art.com/products/collagen-renewal-essence-mindful-collagen-serum): Experience the Power of Collagen Serum with Mindful Renewal Essence Collagen Serum:  Renewal Essence  - Maiden-Art
-  Updated: 2026-04-02T19:49:24Z
+  Updated: 2026-04-20T20:13:22Z
   Vendor: Selfnamed
   Product Type: collagen serum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/M9oi2iEPTKiX0HjvhrG7_ZK_J_a5_E6.jpg?v=1726646465
   Price: €59.00 EUR
 - [Youthful Glow Infusion - Botox Like Peptide Smoothing Serum -](https://www.maiden-art.com/products/youthful-glow-infusion-mindful-peptide-smoothing-serum): Peptide Smoothing Serum for a Youthful Glow Peptide Smoothing Serum: Youthful Glow Infusion -  - Maiden-Art
-  Updated: 2026-04-02T19:50:30Z
+  Updated: 2026-04-20T20:13:22Z
   Vendor: Selfnamed
   Product Type: Botox-Like Peptide Smoothing Serum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/pYed3-MMTtwQhd9-0qSKqbHOxbxxBafQ.jpg?v=1726646490
   Price: €59.00 EUR
 - [Radiant Glow - Luminous Foundation N.07 - Maiden-Art](https://www.maiden-art.com/products/radiant-glow-embrace-your-true-beauty-with-luminous-foundation-n-07): Radiant Glow - Luminous Foundation N.07: Your Perfect Luminous Foundation Radiant Glow: Embrace Your  - Maiden-Art
-  Updated: 2026-04-02T19:51:03Z
+  Updated: 2026-04-20T20:13:23Z
   Vendor: Selfnamed
   Product Type: foundation
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/hSyzbJXMHHxXkmyCPWzKuRFwN4Xp0AsT.jpg?v=1726646500
   Price: €49.00 EUR
 - [Radiant Glow - Luminous Foundation N.10 - Maiden-Art](https://www.maiden-art.com/products/empower-your-glow-luminous-foundation-n-10-in-rich-tones): Radiant Glow Luminous  N.10 - The Ultimate Luminous  Empower Your Glow: Luminous  - Maiden-Art
-  Updated: 2026-04-02T19:51:06Z
+  Updated: 2026-04-20T20:13:24Z
   Vendor: Selfnamed
   Product Type: foundation
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/zPyDOs13jDA_1Vzbz6bYj1QJZIh4kDlA.jpg?v=1726646538
   Price: €49.00 EUR
 - [Glowing From Within - Micellar Cleansing Water - Maiden-Art](https://www.maiden-art.com/products/glowing-from-within-embrace-self-love-with-micellar-cleansing-water): Cleansing Water: The Secret to Glowing Skin Glowing From Within: Embrace Self-Love with  - Maiden-Art
-  Updated: 2026-04-02T19:51:36Z
+  Updated: 2026-04-20T20:13:25Z
   Vendor: Selfnamed
   Product Type: Micellar Cleansing Water
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Yxz33Eu1b5HvVzZQJy_61_6ezRf7rdII.jpg?v=1726646565
   Price: €29.00 EUR
 - [Radiant Skin - Cleansing Milk - Maiden-Art](https://www.maiden-art.com/products/nourishing-self-care-embrace-radiant-skin-with-our-gentle-cleansing-milk): Experience Radiant Skin with Our Cleansing Milk Nourishing Self-Care: Embrace Radiant Skin with Our  - Maiden-Art
-  Updated: 2026-04-02T19:51:38Z
+  Updated: 2026-04-20T20:13:25Z
   Vendor: Selfnamed
   Product Type: Cleansing Milk
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/OZwume51g-fywN1wiKZShwxsUPqynGqH.jpg?v=1726646586
   Price: €39.00 EUR
 - [Self-Love Bliss - Moisturising Body Lotion - Maiden-Art](https://www.maiden-art.com/products/self-love-bliss-hydrate-your-skin-elevate-your-spirit-moisturising-body-lotion): Moisturising Body Lotion: Experience Self-Love Bliss  Moisturising Body Lotion: Self-Love Bliss -  - Maiden-Art
-  Updated: 2026-04-02T19:51:39Z
+  Updated: 2026-04-20T20:13:25Z
   Vendor: Selfnamed
   Product Type: body lotion
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/eo2nkZCnMjfujVUax2dPXUiIrOq8f5tH.jpg?v=1726646633
   Price: €29.00 EUR
 - [Hydrating Toner - Radiant Revival - Maiden-Art](https://www.maiden-art.com/products/radiant-revival-hydrating-toner): Toner for Radiant Skin  Toner: Radiant Revival - Elevate Your Skincare with Our  - Maiden-Art
-  Updated: 2026-04-02T19:51:40Z
+  Updated: 2026-04-20T20:13:26Z
   Vendor: Selfnamed
   Product Type: Hydrating Toner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/7yzjNw_LzWo0SrK5ntbVexpjhVkJ6TWa.jpg?v=1726646644
   Price: €39.00 EUR
 - [Hydrating Skin Cream - Glow from Within - Moisturising Day Cream -](https://www.maiden-art.com/products/hydrating-skin-cream-glow-from-within-moisturising-day-cream): Experience Ultimate Hydration with Our Hydrating Skin Cream Hydrating Skin Cream: Glow from Within:  - Maiden-Art
-  Updated: 2026-04-02T19:51:41Z
+  Updated: 2026-04-20T20:13:26Z
   Vendor: Selfnamed
   Product Type: Moisturising Day Cream
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/xM29dUSzFv_2G0X5K47FuGwMOnpMwmoI.jpg?v=1726646667
   Price: €59.00 EUR
 - [Cleansing Foam - Pure Serenity - Maiden-Art](https://www.maiden-art.com/products/cleansing-foam-pure-serenity): Cleansing Foam - Pure Serenity Cleansing Foam: This mild and light cleansing foam helps remove  - Maiden-Art
-  Updated: 2026-04-02T19:51:42Z
+  Updated: 2026-04-20T20:13:27Z
   Vendor: Selfnamed
   Product Type: toners
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/KlmKMNuWXHX-n3w47nXnZU67kYujORN.jpg?v=1726646694
   Price: €29.00 EUR
 - [Hydration Boost - Radiant Reflections - Double Hydration Boost Gel -](https://www.maiden-art.com/products/radiant-reflections-double-hydration-boost-gel): Experience the Ultimate Hydration Boost with Our Double Hydration Boost Gel Hydration Boost: Radiant  - Maiden-Art
-  Updated: 2026-04-02T19:52:48Z
+  Updated: 2026-04-20T20:13:28Z
   Vendor: Selfnamed
   Product Type: Double Hydration Boost Gel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/DBIxpppHWnVhkDcJfWE6r-P7Hov8lUQr.jpg?v=1726646701
   Price: €49.00 EUR
 - [Sunrise Serenity - Sunscreen SPF30, with tint - Maiden-Art](https://www.maiden-art.com/products/sunrise-serenity-sunscreen-spf30-with-tint): Experience Superior Protection with Sunrise Serenity Sunscreen Sunscreen: Sunrise Serenity - Embrace  - Maiden-Art
-  Updated: 2026-04-02T19:52:50Z
+  Updated: 2026-04-20T20:13:28Z
   Vendor: Selfnamed
   Product Type: Sunscreen SPF30, with tint
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/fmhDGmkJBRrBEKfmXEVWzf0j9msY3kjH.jpg?v=1726646738
   Price: €39.00 EUR
 - [Reflective Reverie - Brightening Eye Cream - Maiden-Art](https://www.maiden-art.com/products/reflective-reverie-brightening-eye-cream): Discover the Benefits of Brightening Eye  Ginkgo Booster: Reflective Reverie: Brightening Eye  - Maiden-Art
-  Updated: 2026-04-02T19:53:26Z
+  Updated: 2026-04-20T20:13:29Z
   Vendor: Selfnamed
   Product Type: Brightening Eye Cream
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/BO8K-RodYKfLP688qxqKTEHeBNP40LyE.jpg?v=1726646767
   Price: €49.00 EUR
 - [Ginkgo Booster - Mindful Radiance - Antioxidant Ginkgo Gel Booster -](https://www.maiden-art.com/products/mindful-radiance-antioxidant-ginkgo-gel-booster): Ginkgo Booster: A Path to  Radiance Ginkgo Glow: Antioxidant Gel Booster for Self-Love and  - Maiden-Art
-  Updated: 2026-04-02T19:53:28Z
+  Updated: 2026-04-20T20:13:30Z
   Vendor: Selfnamed
   Product Type: Antioxidant Ginkgo Gel Booster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/midJbaQDZQdC_9ZS9WapuLEWHqtlyCJ.jpg?v=1726646783
   Price: €49.00 EUR
 - [Caffeine gel - Revive & Rejuvenate - Caffeine Gel Booster - Maiden-Art](https://www.maiden-art.com/products/caffeine-gel-revive-rejuvenate): Revive and Rejuvenate with Gel Caffeine - The Ultimate Caffeine Gel Booster Caffeine gel :  Revive  - Maiden-Art
-  Updated: 2026-04-02T19:53:29Z
+  Updated: 2026-04-20T20:13:30Z
   Vendor: Selfnamed
   Product Type: Caffeine Gel Booster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Y-vdfQbboy5XSz_-2zQNxufs2wRonXln.jpg?v=1726646814
   Price: €49.00 EUR
 - [Sensitive skin cleanser - Gentle Harmony - Sensitive Skin Face & Body](https://www.maiden-art.com/products/sensitive-skin-cleanser-gentle-harmony-sensitive-skin-face-body-cleanser): Sensitive Skin Cleanser - Gentle Harmony Sensitive skin cleanser : Gentle Harmony: Sensitive Skin  - Maiden-Art
-  Updated: 2026-04-02T19:53:30Z
+  Updated: 2026-04-20T20:13:30Z
   Vendor: Selfnamed
   Product Type: Sensitive Skin Face & Body Cleanser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/YlDFBHl30jr4CChnsjstzryyRbe6fER6.jpg?v=1726646839
   Price: €39.00 EUR
 - [Oversized t-shirt Self Love Oversized tie-dye t-shirt - Maiden-Art](https://www.maiden-art.com/products/oversized-t-shirt-self-love-oversized-tie-dye-t-shirt): Oversized t shirt - Self Love Oversized Tie-dye Tee Oversized t-shirt: Meet your next streetwear  - Maiden-Art
-  Updated: 2026-02-16T10:55:26Z
+  Updated: 2026-04-20T20:13:31Z
   Vendor: Maiden-Art
   Product Type: Oversized tie-dye t-shirt
   Availability: Available
@@ -981,7 +981,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/oversized-tie-dye-t-shirt-black-white-front-660537b37807f.jpg?v=1736353324
     Price: €79.00 EUR
 - [Women's relaxed t-shirt Self Love Warrior - Maiden-Art](https://www.maiden-art.com/products/women-s-relaxed-t-shirt-self-love-warrior): Women's Relaxed T-Shirt: Self Love Warrior Women's relaxed t-shirt: This just might be the softest  - Maiden-Art
-  Updated: 2026-02-16T10:55:26Z
+  Updated: 2026-04-20T20:13:32Z
   Vendor: Maiden-Art
   Product Type: Women's Relaxed T-Shirt
   Availability: Available
@@ -1179,7 +1179,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/womens-relaxed-t-shirt-white-front-66053c4bb2c71.jpg?v=1736353343
     Price: €69.00 EUR
 - [Burn for What You Love Denim T-Shirt - Maiden-Art](https://www.maiden-art.com/products/born-for-what-you-love-denim-t-shirt): Burn for What You Love Denim T-Shirt This denim t-shirt is made out of 100% combed cotton and has a  - Maiden-Art
-  Updated: 2026-02-16T10:55:27Z
+  Updated: 2026-04-20T20:13:34Z
   Vendor: Maiden-Art
   Product Type: Denim T-Shirt
   Availability: Available
@@ -1265,7 +1265,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-denim-t-shirt-denim-blue-front-6608218b0b5a5.jpg?v=1726646962
     Price: €69.00 EUR
 - [F*CK NORMAL I WANT MAGIC Unisex Premium Sweatshirt - Maiden-Art](https://www.maiden-art.com/products/f-ck-normal-i-want-magic-unisex-premium-sweatshirt): Premium Sweatshirt - F*CK NORMAL I WANT MAGIC Unisex Premium Sweatshirt: Rock a classic sweatshirt  - Maiden-Art
-  Updated: 2026-02-16T10:55:27Z
+  Updated: 2026-04-20T20:13:35Z
   Vendor: Maiden-Art
   Product Type: Unisex Premium Sweatshirt
   Availability: Available
@@ -1295,7 +1295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-premium-sweatshirt-dusty-rose-front-661015012bdc4.jpg?v=1726491171
     Price: €139.00 EUR
 - [F*CK NORMAL I WANT MAGIC Unisex Premium Sweatshirt - Maiden-Art](https://www.maiden-art.com/products/f-ck-normal-i-want-magic-unisex-premium-sweatshirt-1): Experience the Magic with Our Premium Sweatshirt Premium Sweatshirt: Rock a classic sweatshirt  - Maiden-Art
-  Updated: 2026-02-16T10:55:27Z
+  Updated: 2026-04-20T20:13:36Z
   Vendor: Maiden-Art
   Product Type: Unisex Premium Sweatshirt
   Availability: Available
@@ -1325,7 +1325,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-premium-sweatshirt-forest-green-front-66101805a0c31.jpg?v=1726646998
     Price: €139.00 EUR
 - [LIMITLESS Unisex Sweatshirt - Maiden-Art](https://www.maiden-art.com/products/limitless-unisex-sweatshirt): Unisex Sweatshirt for Comfort and Style Unisex Sweatshirt: A sturdy and warm sweatshirt bound to  - Maiden-Art
-  Updated: 2026-02-16T10:55:27Z
+  Updated: 2026-04-20T20:13:36Z
   Vendor: Maiden-Art
   Product Type: Unisex Sweatshirt
   Availability: Available
@@ -1427,7 +1427,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-crew-neck-sweatshirt-white-front-66101cf4e0988.jpg?v=1726647028
     Price: €139.00 EUR
 - [Premium Sweatshirt F*CK NORMAL I WANT MAGIC - Maiden-Art](https://www.maiden-art.com/products/premium-sweatshirt-f-ck-normal-i-want-magic-1): Premium Sweatshirt - F*CK NORMAL I WANT MAGIC Premium Sweatshirt: Rock a classic sweatshirt  - Maiden-Art
-  Updated: 2026-02-16T10:55:27Z
+  Updated: 2026-04-20T20:13:37Z
   Vendor: Maiden-Art
   Product Type: Unisex Premium Sweatshirt
   Availability: Available
@@ -1481,7 +1481,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-premium-sweatshirt-white-front-66114b6d809f1.jpg?v=1726491214
     Price: €139.00 EUR
 - [Premium Sweatshirt F*CK NORMAL I WANT MAGIC Unisex - Maiden-Art](https://www.maiden-art.com/products/premium-sweatshirt-f-ck-normal-i-want-magic): Unisex Premium Sweatshirt - F*CK NORMAL I WANT MAGIC Premium Sweatshirt: Rock a classic sweatshirt  - Maiden-Art
-  Updated: 2026-02-26T10:01:55Z
+  Updated: 2026-04-20T20:13:38Z
   Vendor: Maiden-Art
   Product Type: Unisex Premium Sweatshirt
   Availability: Available
@@ -1535,7 +1535,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-premium-sweatshirt-team-royal-front-66114cf48b69b.jpg?v=1726491220
     Price: €139.00 EUR
 - [REBEL GIRL Leather Bomber Jacket - Maiden-Art](https://www.maiden-art.com/products/rebel-girl-leather-bomber-jacket): REBEL GIRL Leather Bomber Jacket Organic sweatshirt: If there’s an item that never goes out of  - Maiden-Art
-  Updated: 2026-03-04T01:48:26Z
+  Updated: 2026-04-20T20:13:41Z
   Vendor: Maiden-Art
   Product Type: Leather Bomber Jacket
   Availability: Available
@@ -1597,7 +1597,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/faux-leather-bomber-jacket-brown-front-6615541c5cf4d.jpg?v=1726647117
     Price: €249.00 EUR
 - [Organic Sweatshirt SELF LOVE Unisex organic raglan sweatshirt -](https://www.maiden-art.com/products/organic-sweatshirt-self-love-unisex-organic-raglan-sweatshirt): Organic Sweatshirt SELF LOVE Unisex Raglan Sweatshirt To do list: feel comfy and look stylish at the  - Maiden-Art
-  Updated: 2026-02-16T10:55:28Z
+  Updated: 2026-04-20T20:13:42Z
   Vendor: Maiden-Art
   Product Type: Unisex organic raglan sweatshirt
   Availability: Available
@@ -1631,7 +1631,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-organic-raglan-sweatshirt-white-front-6615581f14cfa.jpg?v=1726647125
     Price: €139.00 EUR
 - [Organic sweatshirt SELF LOVE Unisex organic raglan sweatshirt -](https://www.maiden-art.com/products/organic-sweatshirt-self-love-unisex-organic-raglan-sweatshirt-1): Embrace Comfort and Style with Our Organic Sweatshirt To do list: feel comfy and look stylish at the  - Maiden-Art
-  Updated: 2026-02-16T10:55:28Z
+  Updated: 2026-04-20T20:13:42Z
   Vendor: Maiden-Art
   Product Type: Unisex organic raglan sweatshirt
   Availability: Available
@@ -1777,7 +1777,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-organic-raglan-sweatshirt-burnt-orange-front-66155991b8304.jpg?v=1726647173
     Price: €139.00 EUR
 - [Women's T-Shirt LIMITLESS Women's Relaxed T-Shirt - Maiden-Art](https://www.maiden-art.com/products/women-s-t-shirt-limitless-womens-relaxed-t-shirt): LIMITLESS Women's Relaxed T-Shirt - The Ultimate Women's T-Shirt This just might be the softest and  - Maiden-Art
-  Updated: 2026-02-16T10:55:28Z
+  Updated: 2026-04-20T20:13:43Z
   Vendor: Maiden-Art
   Product Type: Women's Relaxed T-Shirt
   Availability: Available
@@ -1951,7 +1951,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/womens-relaxed-t-shirt-white-front-66155cf9c9c48.jpg?v=1733839317
     Price: €69.00 EUR
 - [Relaxed fit shirt LIMITLESS Women's Relaxed T-Shirt - Maiden-Art](https://www.maiden-art.com/products/relaxed-fit-shirt-limitless-womens-relaxed-t-shirt-1): Experience Comfort with a Relaxed fit shirt Relaxed fit shirt: This just might be the softest and  - Maiden-Art
-  Updated: 2026-02-16T10:55:29Z
+  Updated: 2026-04-20T20:13:43Z
   Vendor: Maiden-Art
   Product Type: Women's Relaxed T-Shirt
   Availability: Available
@@ -2005,7 +2005,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/womens-relaxed-t-shirt-dark-grey-heather-front-66155e522ff6d.jpg?v=1726647211
     Price: €69.00 EUR
 - [Women's tshirt F*CK NORMAL I WANT MAGIC Women’s highwaisted tshirt](https://www.maiden-art.com/products/womens-t-shirt-f-ck-normal-i-want-magic-women-s-high-waisted-t-shirt): Stylish and Bold Women's T-Shirt Women's : Made of 100% combed and ring-spun cotton, this  - Maiden-Art
-  Updated: 2026-04-05T03:00:36Z
+  Updated: 2026-04-20T20:13:44Z
   Vendor: Maiden-Art
   Product Type: Women’s high-waisted t-shirt
   Availability: Available
@@ -2027,7 +2027,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/womens-high-waisted-tee-red-sorbet-front-66156085036d3.jpg?v=1726647225
     Price: €69.00 EUR
 - [women's tshirt F*CK NORMAL I WANT MAGIC Women’s highwaisted tshirt](https://www.maiden-art.com/products/womens-t-shirt-f-ck-normal-i-want-magic-women-s-high-waisted-t-shirt-1): Women's T-Shirt - F*CK NORMAL I WANT MAGIC High-Waisted Women's t-shirt: Made of 100% combed and  - Maiden-Art
-  Updated: 2026-02-16T10:55:29Z
+  Updated: 2026-04-20T20:13:45Z
   Vendor: Maiden-Art
   Product Type: Women’s high-waisted t-shirt
   Availability: Available
@@ -2113,28 +2113,28 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/womens-high-waisted-tee-artichoke-front-6615618c8982d.jpg?v=1726647266
     Price: €69.00 EUR
 - [Vintage Cap REBEL GIRL Vintage Cotton Twill Cap - Maiden-Art](https://www.maiden-art.com/products/vintage-cap-rebel-girl-vintage-cotton-twill-cap): Vintage Cap REBEL GIRL Vintage Cotton Twill Cap Everybody knows that dad caps are no longer just for  - Maiden-Art
-  Updated: 2026-03-01T02:44:27Z
+  Updated: 2026-04-20T20:13:46Z
   Vendor: Maiden-Art
   Product Type: Vintage Cotton Twill Cap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/vintage-cap-black-front-661aa40fabd5a.jpg?v=1726647274
   Price: €59.00 EUR
 - [Vintage Cap REBEL GIRL Vintage Cotton Twill Cap - Maiden-Art](https://www.maiden-art.com/products/vintage-cap-rebel-girl-vintage-cotton-twill-cap-1): Vintage Cap REBEL GIRL - Classic Cotton Twill Cap Everybody knows that dad caps are no longer just  - Maiden-Art
-  Updated: 2026-02-16T10:55:29Z
+  Updated: 2026-04-20T20:13:47Z
   Vendor: Maiden-Art
   Product Type: Vintage Cotton Twill Cap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/vintage-cap-pink-front-661aa6c38edfb.jpg?v=1726647288
   Price: €59.00 EUR
 - [Vintage Cap REBEL GIRL Vintage Cotton Twill Cap - Maiden-Art](https://www.maiden-art.com/products/vintage-cap-rebel-girl-vintage-cotton-twill-cap-2): Vintage Cap: REBEL GIRL Vintage Cotton Twill Cap Everybody knows that dad caps are no longer just  - Maiden-Art
-  Updated: 2026-02-16T10:55:29Z
+  Updated: 2026-04-20T20:13:48Z
   Vendor: Maiden-Art
   Product Type: Vintage Cotton Twill Cap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/vintage-cap-maroon-front-661aa78729a8f.jpg?v=1726647303
   Price: €59.00 EUR
 - [Vintage Cap REBEL GIRL Vintage Cotton Twill Cap - Maiden-Art](https://www.maiden-art.com/products/vintage-cap-rebel-girl-vintage-cotton-twill-cap-3): Stylish Vintage Cap for the Modern Rebel Everybody knows that dad caps are no longer just for dads,  - Maiden-Art
-  Updated: 2026-02-16T10:55:29Z
+  Updated: 2026-04-20T20:13:48Z
   Vendor: Maiden-Art
   Product Type: Vintage Cotton Twill Cap
   Availability: Available
@@ -2152,133 +2152,133 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/vintage-cap-charcoal-grey-front-661aa892af552.jpg?v=1726647317
     Price: €59.00 EUR
 - [Nourish Shampoo Mindful Hair Care Nourish and Volumize Shampoo -](https://www.maiden-art.com/products/nourish-shampoo-mindful-hair-care-nourish-volumize-shampoo): Nourish Shampoo for Mindful Hair Care Mindful Hair Care - Nourish &amp; Volumize Shampoo cleanses  - Maiden-Art
-  Updated: 2026-04-02T19:54:00Z
+  Updated: 2026-04-20T20:13:50Z
   Vendor: Selfnamed
   Product Type: Nourish & Volumize Shampoo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/H7npmWFnElWVoVqrDcPdvx_EhzrxuQzO.jpg?v=1726647571
   Price: €39.00 EUR
 - [Mindful Hair Care - Moisturising Conditioner - Maiden-Art](https://www.maiden-art.com/products/mindful-hair-care-moisturising-conditioner): Experience Ultimate Hydration with Our Moisturising  Mindful Hair Care - Moisturising  - Maiden-Art
-  Updated: 2026-04-02T19:54:02Z
+  Updated: 2026-04-20T20:13:51Z
   Vendor: Selfnamed
   Product Type: Moisturising Conditioner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/1j3022IVHuAiUnYBJJrSl75UULBC7pJ5.jpg?v=1726647597
   Price: €39.00 EUR
 - [Embrace Self-Love - Hydrating Hand Cream - Maiden-Art](https://www.maiden-art.com/products/embrace-self-love-hydrating-hand-cream): Embrace Self-Love with Hydrating Hand Cream Embrace Self-Love - Hydrating Hand Cream. Vitamin E  - Maiden-Art
-  Updated: 2026-04-02T19:54:34Z
+  Updated: 2026-04-20T20:13:52Z
   Vendor: Selfnamed
   Product Type: Hydrating Hand Cream
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/RgGUO4kxibbdt_betQJtmRA7ckfpgdWx.jpg?v=1726647652
   Price: €39.00 EUR
 - [Self-Love Journal - Maiden-Art](https://www.maiden-art.com/products/mindful-fashion-self-love-workbook-copy): Discover the Power of Self-Love with Our Journal Empower Your Journey: Unlock Self-Love &amp; Inner  - Maiden-Art
-  Updated: 2026-03-09T04:31:13Z
+  Updated: 2026-04-20T20:13:53Z
   Vendor: MAIDEN-ART
   Product Type: ebook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/336DA756-C738-4F00-8AEE-C3D9938B0F78.jpg?v=1772987503
   Price: €24.87 EUR
 - [18K Gold Plated Heart Pendant Necklace - Maiden-Art](https://www.maiden-art.com/products/18k-gold-plated-heart-pendant-necklace): Exquisite 18K Gold Plated Heart Pendant Necklace Elevate your style with this elegant 18K  - Maiden-Art
-  Updated: 2026-03-06T23:02:15Z
+  Updated: 2026-04-20T20:13:54Z
   Vendor: Nichestar
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr.jpg?v=1726647669
   Price: €69.00 EUR
 - [925 Sterling Silver Necklace Red Heart Pendant - Maiden-Art](https://www.maiden-art.com/products/925-sterling-silver-necklace): 925 Sterling Silver Necklace with Red Heart Pendant 925 sterling silver necklace: Rhodium Plated  - Maiden-Art
-  Updated: 2026-04-04T02:31:24Z
+  Updated: 2026-04-20T20:13:55Z
   Vendor: Nichestar
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr_72f5e27d-4aea-4f99-ab40-3cc01b6d2b60.jpg?v=1726647682
   Price: €69.00 EUR
 - [Round Knot Pendant Necklace with Cubic Zirconia - Maiden-Art](https://www.maiden-art.com/products/round-knot-pendant-necklace-with-cubic-zirconia): Round Knot Pendant Necklace with Cubic Zirconia Brass Rhodium Plated Necklace with Clear Cubic  - Maiden-Art
-  Updated: 2026-03-30T04:21:58Z
+  Updated: 2026-04-20T20:13:55Z
   Vendor: Nichestar
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr_5cfcdae6-235d-418f-a30a-76edc6f60cf2.jpg?v=1726647695
   Price: €69.00 EUR
 - [Mother and Child Necklace Pave Heart Pendant Necklace - Maiden-Art](https://www.maiden-art.com/products/mother-and-child-necklace-pave-heart-pendant-necklace): Mother and Child Necklace - The Perfect Symbol of Unconditional Love Elevate your style with our  - Maiden-Art
-  Updated: 2026-03-06T23:02:13Z
+  Updated: 2026-04-20T20:13:56Z
   Vendor: Nichestar
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr_bfe18c25-9d1e-4bae-a335-f7b18af49328.jpg?v=1726647707
   Price: €69.00 EUR
 - [Eternity Necklace Love Heart Pave Necklace - Maiden-Art](https://www.maiden-art.com/products/eternity-necklace): Eternity Necklace - A Symbol of Endless Love Add a touch of elegance with our 14K silver-plated  - Maiden-Art
-  Updated: 2026-03-06T23:02:13Z
+  Updated: 2026-04-20T20:13:56Z
   Vendor: Nichestar
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr_2503c75b-2700-496f-a6a0-7a5ba7d1dab8.jpg?v=1726647719
   Price: €69.00 EUR
 - [14K Silver Plated Necklace Love Heart Pave Pendant Necklace -](https://www.maiden-art.com/products/14k-silver-plated-love-heart-pave-pendant-necklace): 14K Silver Plated Necklace: Love Heart Pave Pendant Discover elegance with our 14K silver-plated  - Maiden-Art
-  Updated: 2026-03-06T23:02:13Z
+  Updated: 2026-04-20T20:13:57Z
   Vendor: Nichestar
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr_2b7ddc06-52fc-488d-8374-77452c9f157e.jpg?v=1726647732
   Price: €69.00 EUR
 - [14K Gold Plated Two Circle Interlocking Pendant Necklace - Maiden-Art](https://www.maiden-art.com/products/14k-gold-plated-two-circle-interlocking-pendant-necklace): 14K Gold Plated Two Circle Interlocking Pendant Necklace Elevate your style with our 14K gold-plated  - Maiden-Art
-  Updated: 2026-03-06T23:02:22Z
+  Updated: 2026-04-20T20:13:58Z
   Vendor: Nichestar
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr_7969a013-14e4-493a-b8e7-46e7697734b9.jpg?v=1726647744
   Price: €69.00 EUR
 - [925 Sterling Silver Butterfly Pendant Necklace - Maiden-Art](https://www.maiden-art.com/products/925-sterling-silver-butterfly-pendant-necklace): 925 Sterling Silver Butterfly Pendant Necklace Enhance your elegance with our rhodium-plated pendant  - Maiden-Art
-  Updated: 2026-03-06T23:02:23Z
+  Updated: 2026-04-20T20:13:58Z
   Vendor: Nichestar
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr_79aaf26a-c631-4a43-8012-f1b24e4c0d27.jpg?v=1726647756
   Price: €69.00 EUR
 - [Round Knot Pendant Necklace with Cubic Zirconia - Maiden-Art](https://www.maiden-art.com/products/round-knot-pendant-necklace-with-cubic-zirconia-1): Round Knot Pendant Necklace with Cubic Zirconia Add a touch of elegance with our rhodium-plated  - Maiden-Art
-  Updated: 2026-03-06T23:02:24Z
+  Updated: 2026-04-20T20:13:59Z
   Vendor: Nichestar
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr_84d96f4b-af83-41b8-99f1-8e4770a2a858.jpg?v=1726647768
   Price: €69.00 EUR
 - [14K Gold Plated Solitaire Necklace - Maiden-Art](https://www.maiden-art.com/products/14k-gold-plated-solitaire-necklace): 14K Gold Plated Solitaire Necklace Enhance your elegance with our 14K gold-plated necklace,  - Maiden-Art
-  Updated: 2026-03-06T23:02:22Z
+  Updated: 2026-04-20T20:13:59Z
   Vendor: Nichestar
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr_4266fca2-abd4-4cf0-b322-d8312d15ad4d.jpg?v=1726647780
   Price: €69.00 EUR
 - [Round Pendant Pave Necklace - Maiden-Art](https://www.maiden-art.com/products/round-pendant-pave-necklace): Elegant Round Pendant Pave Necklace Discover timeless elegance with our Round Pendant Pave Necklace.  - Maiden-Art
-  Updated: 2026-03-06T23:02:23Z
+  Updated: 2026-04-20T20:14:00Z
   Vendor: Nichestar
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr_afa2568c-0e2f-4737-96f6-ca277efa0a96.jpg?v=1726647793
   Price: €69.00 EUR
 - [Three Circle Pendant Necklace - Interlocking necklace - Maiden-Art](https://www.maiden-art.com/products/three-circle-pendant-necklace-interlocking): Timeless Three Circle Interlocking Pendant Necklace – 925 Sterling Silver Elevate y elegance with  - Maiden-Art
-  Updated: 2026-03-06T23:02:27Z
+  Updated: 2026-04-20T20:14:00Z
   Vendor: Nichestar
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr_a6445cf6-48db-4640-8bfd-06426386b21f.jpg?v=1726647805
   Price: €69.00 EUR
 - [Two Circle Interlocking Pendant Necklace - Maiden-Art](https://www.maiden-art.com/products/interlocking-pendant-necklace-two-circle): legant  Circle Interlocking Pendant Necklace – 925 Sterling Silver Enhance your style with our  - Maiden-Art
-  Updated: 2026-03-06T23:02:25Z
+  Updated: 2026-04-20T20:14:01Z
   Vendor: Nichestar
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr_a909b7ba-8da0-4ee7-aa85-a3929136c831.jpg?v=1726647817
   Price: €69.00 EUR
 - [14K gold necklace | Gold Plated Cross Pendant Necklace - Maiden-Art](https://www.maiden-art.com/products/14k-gold-necklace-cross-pendant-necklace): Stunning 14K Gold Necklace: A  Accessory Elegant 14K Gold Plated Cross Pendant Necklace –  - Maiden-Art
-  Updated: 2026-03-06T23:02:25Z
+  Updated: 2026-04-20T20:14:01Z
   Vendor: Nichestar
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr_89b7db00-6091-4a51-bc15-8bb3696d665c.jpg?v=1726647830
   Price: €69.00 EUR
 - [Cotton Sweatshirt - Self Love Sweatshirt – Eco-Friendly](https://www.maiden-art.com/products/organic-cotton-sweatshirt-self-love-sweatshirt): Embrace Yourself with the Organic Cotton Sweatshirt  Self Love Sweatshirt Organic Cotton Sweatshirt  - Maiden-Art
-  Updated: 2026-04-13T10:53:26Z
+  Updated: 2026-04-20T20:14:02Z
   Vendor: Maiden-Art
   Product Type: Unisex Premium Sweatshirt
   Availability: Available
@@ -2344,7 +2344,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-organic-sweatshirt-royal-blue-front-66e97c1c15a99.jpg?v=1726577727
     Price: €139.00 EUR
 - [Cotton Sweatshirt - Self Love Sweatshirt – Eco-Friendly](https://www.maiden-art.com/products/organic-cotton-sweatshirt-self-love-sweatshirt-2): Embrace Yourself with Our Organic Cotton Sweatshirt  Self Love Sweatshirt Organic Cotton Sweatshirt  - Maiden-Art
-  Updated: 2026-03-12T14:54:45Z
+  Updated: 2026-04-20T20:14:02Z
   Vendor: Maiden-Art
   Product Type: Unisex Premium Sweatshirt
   Availability: Available
@@ -2450,7 +2450,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-organic-sweatshirt-white-front-66e980c3eaed0.jpg?v=1726579064
     Price: €139.00 EUR
 - [Crop Hoodie - Self Love Addicted with EMBROIDERY - Maiden-Art](https://www.maiden-art.com/products/crop-hoodie-self-love-addicted-with-embroidery): Crop Hoodie: A Blend of Style and Comfort The crop hoodie has become a staple in every  - Maiden-Art
-  Updated: 2026-02-16T10:55:33Z
+  Updated: 2026-04-20T20:14:04Z
   Vendor: Maiden-Art
   Product Type: crop hoodie
   Availability: Available
@@ -2516,7 +2516,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/womens-cropped-hoodie-storm-front-66e98ff8a7c32.jpg?v=1726582829
     Price: €139.00 EUR
 - [Self Love Addicted Snapback Hat with Embroidery - Maiden-Art](https://www.maiden-art.com/products/self-love-addicted-snapback-hat): Self Love Addicted Snapback Hat Snapback Hat: This hat is structured with a classic fit, flat brim,  - Maiden-Art
-  Updated: 2026-03-06T08:04:05Z
+  Updated: 2026-04-20T20:14:07Z
   Vendor: Maiden-Art
   Product Type: Snapback Hat
   Availability: Available
@@ -2530,14 +2530,14 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/classic-snapback-green-camo-front-67000c9e3edfe.jpg?v=1728056666
     Price: €69.00 EUR
 - [Self Love Addicted Snapback Hat with Embroidery - Maiden-Art](https://www.maiden-art.com/products/self-love-addicted-snapback-hat-1): Trendy and Fashionable Snapback Hat - Self Love Addicted Snapback Hat: This hat is structured with a  - Maiden-Art
-  Updated: 2026-02-16T10:55:34Z
+  Updated: 2026-04-20T20:14:07Z
   Vendor: Maiden-Art
   Product Type: Snapback Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/classic-snapback-natural-black-front-67000e2722902.jpg?v=1728056894
   Price: €69.00 EUR
 - [Self Love Addicted Snapback Hat with Embroidery - Maiden-Art](https://www.maiden-art.com/products/self-love-addicted-snapback-hat-3): Snapback Hat - Self Love Addicted This hat is structured with a classic fit, flat brim, and full  - Maiden-Art
-  Updated: 2026-03-19T23:45:26Z
+  Updated: 2026-04-20T20:14:08Z
   Vendor: Maiden-Art
   Product Type: beanie
   Availability: Available
@@ -2569,28 +2569,28 @@
     Availability: Available
     Price: €69.00 EUR
 - [Self Love - Pom-Pom Beanie - Winter Beanie with Embroidery -](https://www.maiden-art.com/products/winter-beanie-self-love-pom-pom-beanie): Warm Up This Season With Our Winter Beanie Winter Beanie: Expand your wardrobe with a classic  - Maiden-Art
-  Updated: 2026-02-16T10:55:34Z
+  Updated: 2026-04-20T20:14:08Z
   Vendor: Maiden-Art
   Product Type: beanie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/pom-pom-knit-cap-neon-pink-front-67013b0348fbb.jpg?v=1728133909
   Price: €59.00 EUR
 - [Self Love - Pom-Pom Beanie - Winter Beanie with Embroidery -](https://www.maiden-art.com/products/self-love-pom-pom-beanie-winter-beanie): Winter Benie for Cozy Winters Expnd your wrdrobe with  clssic embroidered benie. Finished with  - Maiden-Art
-  Updated: 2026-02-16T10:55:34Z
+  Updated: 2026-04-20T20:14:08Z
   Vendor: Maiden-Art
   Product Type: beanie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/pom-pom-knit-cap-gold-front-67013dcf79cca.jpg?v=1728134628
   Price: €59.00 EUR
 - [Self Love Pom-Pom Beanie - Women's Beanie with Embroidery - Maiden-Art](https://www.maiden-art.com/products/self-love-pom-pom-beanie-womens-beanie): Women's Beanie: Self Love Pom-Pom Beanie Women's Beanie: Expand your wardrobe with a classic  - Maiden-Art
-  Updated: 2026-02-16T10:55:34Z
+  Updated: 2026-04-20T20:14:09Z
   Vendor: Maiden-Art
   Product Type: beanie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/pom-pom-knit-cap-neon-green-front-6701400523d59.jpg?v=1728135193
   Price: €59.00 EUR
 - [Self Love Pom-Pom Beanie - Women's Beanie with Embroidery - Maiden-Art](https://www.maiden-art.com/products/self-love-pom-pom-beanie-womens-beanie-1): Women's Beanie - Self-Love Pom-Pom Beanie Expand your wardrobe with a classic embroidered beanie.  - Maiden-Art
-  Updated: 2026-02-16T10:55:34Z
+  Updated: 2026-04-20T20:14:09Z
   Vendor: Maiden-Art
   Product Type: beanie
   Availability: Available
@@ -2608,7 +2608,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/pom-pom-knit-cap-dark-heather-grey-front-670142e62517c.jpg?v=1728136077
     Price: €59.00 EUR
 - [SELF- LOVE VIBES Cuffed Beanie - Maiden-Art](https://www.maiden-art.com/products/self-love-vibes-cuffed-beanie): Embrace Warmth and Self-Love with Our Cuffed Beanie Cuffed Beanie: A snug, form-fitting beanie. It's  - Maiden-Art
-  Updated: 2026-02-16T10:55:35Z
+  Updated: 2026-04-20T20:14:10Z
   Vendor: Maiden-Art
   Product Type: beanie
   Availability: Available
@@ -2634,7 +2634,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/cuffed-beanie-baby-pink-front-670147297ac9e.jpg?v=1728137150
     Price: €49.00 EUR
 - [Rebel Girl Unisex organic raglan sweatshirt Organic Clothing with](https://www.maiden-art.com/products/unisex-organic-raglan-sweatshirt-organic-clothing): Organic Clothing: Unisex Organic Raglan Sweatshirt Organic Clothing - To do list: feel comfy and  - Maiden-Art
-  Updated: 2026-02-16T10:55:35Z
+  Updated: 2026-04-20T20:14:11Z
   Vendor: Maiden-Art
   Product Type: Unisex organic raglan sweatshirt
   Availability: Available
@@ -2780,7 +2780,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-organic-raglan-sweatshirt-white-front-670541bfcf3c2.jpg?v=1728397964
     Price: €159.00 EUR
 - [Rebel Girl Unisex Long Sleeve Tee with EMBROIDERY - Maiden-Art](https://www.maiden-art.com/products/rebel-girl-unisex-long-sleeve-tee): Rebel Girl Unisex Long Sleeve Tee Enrich your wardrobe with a versatile long sleeve tee. For a  - Maiden-Art
-  Updated: 2026-02-16T10:55:35Z
+  Updated: 2026-04-20T20:14:11Z
   Vendor: Maiden-Art
   Product Type: long sleeve tshirt
   Availability: Available
@@ -2954,7 +2954,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-long-sleeve-tee-gold-back-670551cba6dff.jpg?v=1728402097
     Price: €89.00 EUR
 - [Self Love Premium pique polo shirt with Old Gold Embroidery -](https://www.maiden-art.com/products/self-love-premium-pique-polo-shirt): Elevate Your Wardrobe with a Premium Pique Polo Shirt This polo is made from thick, soft fabric and  - Maiden-Art
-  Updated: 2026-04-02T15:21:02Z
+  Updated: 2026-04-20T20:14:12Z
   Vendor: Maiden-Art
   Product Type: polos t-shirt
   Availability: Available
@@ -3044,7 +3044,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-premium-pique-polo-shirt-mouse-grey-front-6706882dd9852.jpg?v=1728481443
     Price: €69.00 EUR
 - [Self Love Premium pique polo shirt with Old Gold Embroidery -](https://www.maiden-art.com/products/self-love-premium-pique-polo-shirt-with-old-gold-embroidery): Self Love Premium Pique Polo Shirt with Old Gold Embroidery Pique polo shirt: this polo is made from  - Maiden-Art
-  Updated: 2026-04-06T15:39:01Z
+  Updated: 2026-04-20T20:14:12Z
   Vendor: Maiden-Art
   Product Type: polos t-shirt
   Availability: Available
@@ -3130,7 +3130,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-premium-pique-polo-shirt-white-front-670687df503ee.jpg?v=1728481276
     Price: €69.00 EUR
 - [Boldly You  faded t-shirt with Old Gold Embroidery |](https://www.maiden-art.com/products/boldly-you-oversized-faded-t-shirt-with-old-gold-embroidery-oversized-t-shirt): The Ultimate Oversized t-shirt Experience Embrace the versatility of the Oversized faded t-shirt,  - Maiden-Art
-  Updated: 2026-02-16T10:55:35Z
+  Updated: 2026-04-20T20:14:14Z
   Vendor: Maiden-Art
   Product Type: oversized t-shirt
   Availability: Available
@@ -3232,7 +3232,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/oversized-faded-t-shirt-faded-bone-front-67068d0281cb6.jpg?v=1728482769
     Price: €79.00 EUR
 - [Self Love Unisex fleece sweatpants with Embroidery fashion sweatpants](https://www.maiden-art.com/products/self-love-unisex-fleece-sweatpants-with-old-gold-embroidery-fashion-sweatpants): Fashion Sweatpants for Ultimate Comfort and Style Fashion sweatpants: well-made and lined with  - Maiden-Art
-  Updated: 2026-03-12T07:00:09Z
+  Updated: 2026-04-20T20:14:14Z
   Vendor: Maiden-Art
   Product Type: Unisex fleece sweatpants
   Availability: Available
@@ -3430,7 +3430,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-fleece-sweatpants-white-front-670699e352daf.jpg?v=1728486097
     Price: €97.00 EUR
 - [Self Love Unisex pigment-dyed sweatpants with Old Gold Embroidery -](https://www.maiden-art.com/products/self-love-unisex-pigment-dyed-sweatpants-with-old-gold-embroidery-unisex-sweatpants): Unisex Sweatpants - Comfort and Style Combined Get the effortless  off-duty look with the  - Maiden-Art
-  Updated: 2026-02-16T10:55:36Z
+  Updated: 2026-04-20T20:14:15Z
   Vendor: Maiden-Art
   Product Type: Unisex fleece sweatpants
   Availability: Available
@@ -3536,7 +3536,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-pigment-dyed-sweatpants-pigment-pink-zoomed-in-670698a8cc898.jpg?v=1728485746
     Price: €139.00 EUR
 - [Self Love Unisex pigment-dyed hoodie with Old Gold Embroidery |](https://www.maiden-art.com/products/self-love-unisex-pigment-dyed-hoodie-with-old-gold-embroidery-fashion-hoodie): Fashion Hoodie - Self Love Unisex Pigment-Dyed with Old Gold Embroidery Fashion Hoodie: expand your  - Maiden-Art
-  Updated: 2026-02-16T10:55:36Z
+  Updated: 2026-04-20T20:14:15Z
   Vendor: Maiden-Art
   Product Type: Unisex pigment-dyed hoodie
   Availability: Available
@@ -3638,7 +3638,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-pigment-dyed-hoodie-pigment-slate-blue-front-67069d8c44474.jpg?v=1728486995
     Price: €179.00 EUR
 - [Own Your Glow Unisex  tie-dye hoodie with Embroidery |](https://www.maiden-art.com/products/own-your-glow-unisex-champion-tie-dye-hoodie-with-embroidery-champion-hoodie): Experience the Superior Comfort with Champion Hoodie If you're looking for a trendy, one-of-a-kind  - Maiden-Art
-  Updated: 2026-04-07T15:39:46Z
+  Updated: 2026-04-20T20:14:16Z
   Vendor: Maiden-Art
   Product Type: Unisex Champion tie-dye hoodie
   Availability: Available
@@ -3668,11 +3668,11 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-champion-tie-dye-hoodie-navy-front-6706a1ee290e7.jpg?v=1728488104
     Price: €189.00 EUR
   - [Navy / M](https://www.maiden-art.com/products/own-your-glow-unisex-champion-tie-dye-hoodie-with-embroidery-champion-hoodie?variant=49259111481687)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-champion-tie-dye-hoodie-navy-front-6706a1ee290e7.jpg?v=1728488104
     Price: €189.00 EUR
   - [Navy / L](https://www.maiden-art.com/products/own-your-glow-unisex-champion-tie-dye-hoodie-with-embroidery-champion-hoodie?variant=49259111514455)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-champion-tie-dye-hoodie-navy-front-6706a1ee290e7.jpg?v=1728488104
     Price: €189.00 EUR
   - [Navy / XL](https://www.maiden-art.com/products/own-your-glow-unisex-champion-tie-dye-hoodie-with-embroidery-champion-hoodie?variant=49259111547223)
@@ -3704,21 +3704,21 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-champion-tie-dye-hoodie-mulled-berry-front-6706a1ee21d35.jpg?v=1728487949
     Price: €189.00 EUR
 - [Acne Spot Care - Clear Skin, Pure Self-Love - Maiden-Art](https://www.maiden-art.com/products/acne-spot-care): Acne  Care Acne  Care: offer your customers quick solution from unwanted breakouts. Acne  - Maiden-Art
-  Updated: 2026-04-02T19:56:13Z
+  Updated: 2026-04-20T20:14:17Z
   Vendor: Selfnamed
   Product Type: acne  and treats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/qwPYkcd62thDe-f8qYQGfA72usYsTgbA.jpg?v=1728746802
   Price: €49.00 EUR
 - [Purifying Mousse - Refresh Your Skin, Renew Your Self-Love -](https://www.maiden-art.com/products/purifying-mousse): Experience the Benefits of Purifying Foam Purifying Mousse: innovative texture cleanser dissolves  - Maiden-Art
-  Updated: 2026-04-02T19:56:50Z
+  Updated: 2026-04-20T20:14:18Z
   Vendor: Selfnamed
   Product Type: Purifying Mousse
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/GdPSo4VwERK7XlkFsga-FnRX7im8uSfH.jpg?v=1728748270
   Price: €39.00 EUR
 - [Heart - Knitted crew neck sweater NAVY - Maiden-Art](https://www.maiden-art.com/products/heart-knitted-crew-neck-sweater-navy): Crew Neck Sweater - Stylish Navy Knitwear for All Seasons This extra-soft knit crew-neck sweater  - Maiden-Art
-  Updated: 2026-02-16T10:55:36Z
+  Updated: 2026-04-20T20:14:19Z
   Vendor: Maiden-Art
   Product Type: knitwear
   Availability: Available
@@ -3736,7 +3736,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/classic-fit-knitted-crew-neck-sweater-custom-l-front-67111ba785cd7.jpg?v=1729174479
     Price: €159.00 EUR
 - [Heart - Knitted crew neck sweater BLACK - Maiden-Art](https://www.maiden-art.com/products/heart-knitted-crew-neck-sweater-black): Heart - Knitted Crew Neck Sweater BLACK This extra-soft knit crew-neck sweater will help you look  - Maiden-Art
-  Updated: 2026-02-16T10:55:37Z
+  Updated: 2026-04-20T20:14:19Z
   Vendor: Maiden-Art
   Product Type: knitwear
   Availability: Available
@@ -3754,7 +3754,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/classic-fit-knitted-crew-neck-sweater-custom-l-front-67111d5720a3c.jpg?v=1729174926
     Price: €159.00 EUR
 - [Heart - Knitted crew neck sweater BLEACH - Maiden-Art](https://www.maiden-art.com/products/heart-knitted-crew-neck-sweater-bleach): Experience Comfort and Style with Our Knitted Crew Neck Sweater Knitted crew neck sweater: this  - Maiden-Art
-  Updated: 2026-02-16T10:55:37Z
+  Updated: 2026-04-20T20:14:21Z
   Vendor: Maiden-Art
   Product Type: knitwear
   Availability: Available
@@ -3772,7 +3772,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/classic-fit-knitted-crew-neck-sweater-custom-l-front-67111ef59bea3.jpg?v=1729175324
     Price: €159.00 EUR
 - [Heart - Knitted crew neck sweater GREY | crew neck knitted sweater -](https://www.maiden-art.com/products/heart-knitted-crew-neck-sweater-grey-crew-neck-knitted-sweater): Discover the Ultimate Crew Neck Knitted Sweater Crew neck knitted sweater: this extra-soft knit  - Maiden-Art
-  Updated: 2026-02-16T10:55:37Z
+  Updated: 2026-04-20T20:14:21Z
   Vendor: Maiden-Art
   Product Type: knitwear
   Availability: Available
@@ -3790,7 +3790,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/classic-fit-knitted-crew-neck-sweater-custom-l-front-67111f5b68b91.jpg?v=1729175482
     Price: €159.00 EUR
 - [Heart - Knitted crew neck sweater MUSTARD - Maiden-Art](https://www.maiden-art.com/products/heart-knitted-crew-neck-sweater-mustard): Crew Neck Sweater: The Stylish Mustard Knitted Perfection This extra-soft knit crew-neck sweater  - Maiden-Art
-  Updated: 2026-02-16T10:55:37Z
+  Updated: 2026-04-20T20:14:22Z
   Vendor: Maiden-Art
   Product Type: knitwear
   Availability: Available
@@ -3808,7 +3808,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/classic-fit-knitted-crew-neck-sweater-custom-l-front-67111fca6338d.jpg?v=1729175636
     Price: €159.00 EUR
 - [Heart Knitted crew neck sweater CORAL - Maiden-Art](https://www.maiden-art.com/products/heart-knitted-crew-neck-sweater-coral): Heart Knitted Crew Neck Sweater CORAL Knitted crew neck: this extra-soft knit crew-neck sweater will  - Maiden-Art
-  Updated: 2026-02-16T10:55:37Z
+  Updated: 2026-04-20T20:14:23Z
   Vendor: Maiden-Art
   Product Type: knitwear
   Availability: Available
@@ -3826,7 +3826,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/classic-fit-knitted-crew-neck-sweater-custom-l-front-671120d79ed08.jpg?v=1729175810
     Price: €159.00 EUR
 - [Heart - Knitted crew neck sweater PINE - Maiden-Art](https://www.maiden-art.com/products/heart-knitted-crew-neck-sweater-pine): Stylish Knitted Crew Neck Sweater in PINE This extra-soft knit crew-neck sweater will help you look  - Maiden-Art
-  Updated: 2026-02-16T10:55:37Z
+  Updated: 2026-04-20T20:14:23Z
   Vendor: Maiden-Art
   Product Type: knitwear
   Availability: Available
@@ -3844,35 +3844,35 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/classic-fit-knitted-crew-neck-sweater-custom-l-front-6711218753c44.jpg?v=1729175978
     Price: €159.00 EUR
 - [Ceramide Hydrating Night Cream  Hydrate & Heal  ceramide night cream](https://www.maiden-art.com/products/ceramide-hydrating-night-cream-hydrate-heal-ceramide-night-cream): Experience the Benefits of Our Ceramide Night Cream Ceramide night cream: night creams play a  - Maiden-Art
-  Updated: 2026-04-02T19:56:52Z
+  Updated: 2026-04-20T20:14:24Z
   Vendor: Selfnamed
   Product Type: ceramide night cream
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/6UZ25rxp3oYL2lwW_JKxaceqDFVFuzjD.jpg?v=1729333300
   Price: €59.00 EUR
 - [Soothing After-Sun Lotion - Mindful Protection - Maiden-Art](https://www.maiden-art.com/products/soothing-after-sun-lotion-mindful-protection): Soothing After-Sun Lotion - Mindful Protection After-sun lotion: a must-have addition to your  - Maiden-Art
-  Updated: 2026-04-02T19:56:53Z
+  Updated: 2026-04-20T20:14:24Z
   Vendor: Selfnamed
   Product Type: after sun lotion
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/IVURjCpvzUffLhJ4HvOzYWxyTyWy_q3I.jpg?v=1729344044
   Price: €59.00 EUR
 - [Self Love Glow: Glycolic Acid Liquid Exfoliator - glycolic acid](https://www.maiden-art.com/products/self-love-glow-glycolic-acid-liquid-exfoliator-glycolic-acid-exfoliator): Experience Unmatched Radiance with Our Glycolic Acid Exfoliator Glycolic acid exfoliator: integrate  - Maiden-Art
-  Updated: 2026-04-02T19:56:54Z
+  Updated: 2026-04-20T20:14:25Z
   Vendor: Selfnamed
   Product Type: Glycolic Acid Liquid Exfoliator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/wlCRA2FWG6maszVbkh0HHQk2om5yYyIZ.jpg?v=1729344762
   Price: €49.00 EUR
 - [Glow & Nourish: Niacinamide Gel Moisturiser - Maiden-Art](https://www.maiden-art.com/products/glow-nourish-niacinamide-gel-moisturiser): Glow &amp; Nourish: Niacinamide Gel Moisturiser Niacinamide Gel Moisturiser: hydrating facial gel,  - Maiden-Art
-  Updated: 2026-04-02T19:59:40Z
+  Updated: 2026-04-20T20:14:26Z
   Vendor: Selfnamed
   Product Type: Niacinamide Gel Moisturiser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/1Er0I2XN9H7mQmdf28m6lFlozkFvkIEt.jpg?v=1729345816
   Price: €49.00 EUR
 - [Yoga Leggings - Maiden-Art](https://www.maiden-art.com/products/yoga-leggings): Experience Comfort and Style with Yoga Leggings Super soft, stretchy, and comfortable yoga leggings.  - Maiden-Art
-  Updated: 2026-02-16T10:55:38Z
+  Updated: 2026-04-20T20:14:27Z
   Vendor: Maiden-Art
   Product Type: yoga leggins
   Availability: Available
@@ -3898,7 +3898,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/all-over-print-yoga-leggings-white-front-6713c16008471.jpg?v=1729347964
     Price: €107.00 EUR
 - [Yoga Leggings - Maiden-Art](https://www.maiden-art.com/products/yoga-leggings-1): Discover the Best Yoga Leggings for Comfort and Style Super soft, stretchy, and comfortable yoga  - Maiden-Art
-  Updated: 2026-02-16T10:55:38Z
+  Updated: 2026-04-20T20:14:27Z
   Vendor: Maiden-Art
   Product Type: yoga leggins
   Availability: Available
@@ -3924,7 +3924,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/all-over-print-yoga-leggings-white-front-6713c307d9b65.jpg?v=1729348383
     Price: €107.00 EUR
 - [Yoga Leggings - Maiden-Art](https://www.maiden-art.com/products/yoga-leggings-2): Yoga Leggings - The Perfect Fit for Every Workout Super soft, stretchy, and comfortable yoga  - Maiden-Art
-  Updated: 2026-03-20T03:01:56Z
+  Updated: 2026-04-20T20:14:28Z
   Vendor: Maiden-Art
   Product Type: yoga leggins
   Availability: Available
@@ -3950,7 +3950,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/all-over-print-yoga-leggings-white-front-6713c47120550.jpg?v=1729348744
     Price: €107.00 EUR
 - [Yoga Leggings - Maiden-Art](https://www.maiden-art.com/products/yoga-leggings-3): Experience Ultimate Comfort with Yoga Leggings Super soft, stretchy, and comfortable yoga leggings.  - Maiden-Art
-  Updated: 2026-02-16T10:55:39Z
+  Updated: 2026-04-20T20:14:28Z
   Vendor: Maiden-Art
   Product Type: yoga leggins
   Availability: Available
@@ -3976,7 +3976,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/all-over-print-yoga-leggings-white-front-6713c6555674d.jpg?v=1729349229
     Price: €107.00 EUR
 - [Yoga Leggings - Maiden-Art](https://www.maiden-art.com/products/yoga-leggings-4): Experience Ultimate Comfort with Yoga Leggings Super soft, stretchy, and comfortable yoga leggings.  - Maiden-Art
-  Updated: 2026-03-30T08:34:16Z
+  Updated: 2026-04-20T20:14:29Z
   Vendor: Maiden-Art
   Product Type: yoga leggins
   Availability: Available
@@ -4002,7 +4002,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/all-over-print-yoga-leggings-white-front-6713c81562cdb.jpg?v=1729349683
     Price: €107.00 EUR
 - [Yoga Leggings - Maiden-Art](https://www.maiden-art.com/products/yoga-leggings-5): The Best Yoga Leggings for Your Workout Super soft, stretchy, and comfortable yoga leggings. Order  - Maiden-Art
-  Updated: 2026-03-26T00:37:31Z
+  Updated: 2026-04-20T20:14:29Z
   Vendor: Maiden-Art
   Product Type: yoga leggins
   Availability: Available
@@ -4028,7 +4028,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/all-over-print-yoga-leggings-white-front-6713ca8b37094.jpg?v=1729350306
     Price: €107.00 EUR
 - [Yoga Leggings - Maiden-Art](https://www.maiden-art.com/products/yoga-leggings-6): Yoga Leggings: Perfect Blend of Comfort and Style Super soft, stretchy, and comfortable yoga  - Maiden-Art
-  Updated: 2026-02-20T10:45:12Z
+  Updated: 2026-04-20T20:14:30Z
   Vendor: Maiden-Art
   Product Type: yoga leggins
   Availability: Available
@@ -4054,7 +4054,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/all-over-print-yoga-leggings-white-front-6713cbc40763b.jpg?v=1729350630
     Price: €107.00 EUR
 - [Yoga Leggings - Maiden-Art](https://www.maiden-art.com/products/yoga-leggings-7): Yoga Leggings: The Ultimate Fusion of Comfort and Style Super soft, stretchy, and comfortable yoga  - Maiden-Art
-  Updated: 2026-03-05T05:40:09Z
+  Updated: 2026-04-20T20:14:30Z
   Vendor: Maiden-Art
   Product Type: yoga leggins
   Availability: Available
@@ -4080,7 +4080,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/all-over-print-yoga-leggings-white-front-6713ccbc02aaf.jpg?v=1729350865
     Price: €107.00 EUR
 - [Yoga Leggings - Maiden-Art](https://www.maiden-art.com/products/yoga-leggings-8): Yoga Leggings for Ultimate Comfort and Flexibility Super soft, stretchy, and comfortable yoga  - Maiden-Art
-  Updated: 2026-02-16T10:55:39Z
+  Updated: 2026-04-20T20:14:30Z
   Vendor: Maiden-Art
   Product Type: yoga leggins
   Availability: Available
@@ -4106,7 +4106,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/all-over-print-yoga-leggings-white-front-6713cd9bdf4fd.jpg?v=1729351092
     Price: €107.00 EUR
 - [Yoga Leggings - Maiden-Art](https://www.maiden-art.com/products/yoga-leggings-9): Yoga Leggings: Ultimate Comfort and Flexibility Super soft, stretchy, and comfortable yoga leggings.  - Maiden-Art
-  Updated: 2026-02-25T10:18:07Z
+  Updated: 2026-04-20T20:14:31Z
   Vendor: Maiden-Art
   Product Type: yoga leggins
   Availability: Available
@@ -4132,7 +4132,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/all-over-print-yoga-leggings-white-front-6713ce3d6d26e.jpg?v=1729351267
     Price: €107.00 EUR
 - [Yoga Leggings - Maiden-Art](https://www.maiden-art.com/products/yoga-leggings-10): Yoga Leggings - Ultimate Comfort and Style Super soft, stretchy, and comfortable yoga leggings.  - Maiden-Art
-  Updated: 2026-03-14T00:15:06Z
+  Updated: 2026-04-20T20:14:32Z
   Vendor: Maiden-Art
   Product Type: yoga leggins
   Availability: Available
@@ -4158,77 +4158,77 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/all-over-print-yoga-leggings-white-front-6713cf4039fe4.jpg?v=1729351521
     Price: €107.00 EUR
 - [Dual Lash Mascara - Black - Maiden-Art](https://www.maiden-art.com/products/dual-lash-mascara-black): Transform Your Look with Dual Lash Mascara Our newly reformulated dual lash mascara is here to give  - Maiden-Art
-  Updated: 2026-03-26T15:17:16Z
+  Updated: 2026-04-20T20:14:32Z
   Vendor: Maiden-Art
   Product Type: mascara
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Dual_Lash_Mascara_png.png?v=1737360834
   Price: €49.00 EUR
 - [BB Cream - Beachy - Maiden-Art](https://www.maiden-art.com/products/bb-cream-beachy): Experience the Best BB Cream for a Beachy Look The skin protection and medium coverage in one  - Maiden-Art
-  Updated: 2026-02-16T10:55:40Z
+  Updated: 2026-04-20T20:14:33Z
   Vendor: Maiden-Art
   Product Type: bb cream
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/BB_Cream_png.png?v=1737368194
   Price: €49.00 EUR
 - [Creme Concealer Stick - Choco - Makeup Concealer - Maiden-Art](https://www.maiden-art.com/products/creme-concealer-stick-choco-makeup-concealer): Creme Concealer Stick - The Perfect Makeup Concealer Correct blemishes and dark spots with this easy  - Maiden-Art
-  Updated: 2026-02-16T10:55:40Z
+  Updated: 2026-04-20T20:14:33Z
   Vendor: Maiden-Art
   Product Type: concealer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Creme_Concealer_Stick_png.png?v=1737368895
   Price: €49.00 EUR
 - [Creme Concealer Stick - Beige - Concealer Beige - Maiden-Art](https://www.maiden-art.com/products/creme-concealer-stick-beige-concealer-beige): Concealer Beige for Flawless Skin Correct blemishes and dark spots with this easy to use compact  - Maiden-Art
-  Updated: 2026-02-16T10:55:40Z
+  Updated: 2026-04-20T20:14:34Z
   Vendor: Maiden-Art
   Product Type: concealer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Creme_Concealer_Stick_png_57f8afe6-f826-4963-a2dd-906c2b42b942.png?v=1737368943
   Price: €49.00 EUR
 - [Khol Eyeliner - Black - Maiden-Art](https://www.maiden-art.com/products/khol-eyeliner-black): Discover the Beauty of Khol Eyeliner - Black Our Khol Eyeliner is the perfect pencil for creating  - Maiden-Art
-  Updated: 2026-02-16T10:55:40Z
+  Updated: 2026-04-20T20:14:34Z
   Vendor: Maiden-Art
   Product Type: eyeliner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Khol_Eyeliner_png.png?v=1737369037
   Price: €49.00 EUR
 - [Dual Tip Eye Definer Pen - Black - eye liner - Maiden-Art](https://www.maiden-art.com/products/dual-tip-eye-definer-pen-black-eye-liner): Unleash Your Creative Side with the Dual Tip Eye Definer Pen - Black - Eye Liner Our dual tip eye  - Maiden-Art
-  Updated: 2026-04-06T06:17:03Z
+  Updated: 2026-04-20T20:14:35Z
   Vendor: Maiden-Art
   Product Type: eyeliner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Dual_Tip_Eye_Definer_Pen_png.png?v=1737369087
   Price: €49.00 EUR
 - [Lip Gloss - Rouge - Rouge Lip Gloss - Maiden-Art](https://www.maiden-art.com/products/lip-gloss-rouge-rouge-lip-gloss): Experience the Beauty of Rouge Lip Gloss Take your gloss and brilliance to the next level with our  - Maiden-Art
-  Updated: 2026-02-16T10:55:41Z
+  Updated: 2026-04-20T20:14:35Z
   Vendor: Maiden-Art
   Product Type: lip gloss
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Lip_Gloss_png.png?v=1737369296
   Price: €49.00 EUR
 - [Eyeshadow Palette - Caramel Kiss - Maiden-Art](https://www.maiden-art.com/products/eyeshadow-palette-caramel-kiss): Discover the Perfect Eyeshadow Palette - Caramel Kiss Attain a mesmerizing eye look with our creamy  - Maiden-Art
-  Updated: 2026-02-16T10:55:41Z
+  Updated: 2026-04-20T20:14:36Z
   Vendor: Maiden-Art
   Product Type: eyeshadow palette
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Eyeshadow_Palette_png.png?v=1737369486
   Price: €49.00 EUR
 - [Blush Palette - Pinch - Maiden-Art](https://www.maiden-art.com/products/blush-palette-pinch): Enhance Your Glow with the Blush Palette - Pinch Get that effortless, pillowy glow on your soft  - Maiden-Art
-  Updated: 2026-02-16T10:55:41Z
+  Updated: 2026-04-20T20:14:36Z
   Vendor: Maiden-Art
   Product Type: blush
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Blush_Palette_png.png?v=1737369801
   Price: €49.00 EUR
 - [Lip Gloss - Nude - Nude Lip Gloss - Maiden-Art](https://www.maiden-art.com/products/lip-gloss-nude-nude-lip-gloss): Nude Lip Gloss: The Perfect Shine for Every Occasion Take your gloss and brilliance to the next  - Maiden-Art
-  Updated: 2026-02-16T10:55:41Z
+  Updated: 2026-04-20T20:14:37Z
   Vendor: Maiden-Art
   Product Type: lip gloss
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Lip_Gloss_png_58cb86b5-b9f7-4ab4-a798-606c88ddc1e6.png?v=1737370054
   Price: €49.00 EUR
 - [26 English Letter  European Titanium Steel Necklace - Letter](https://www.maiden-art.com/products/26-english-letter-pendant-european-titanium-steel-necklace-letter-pendant-necklace): Explore the Unique Charm of the Letter Pendant Necklace Specifications: Material: Titanium steel  - Maiden-Art
-  Updated: 2026-02-16T10:55:41Z
+  Updated: 2026-04-20T20:14:37Z
   Vendor: Maiden-Art
   Product Type: necklace
   Availability: Available
@@ -4434,7 +4434,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/9cb8cc5d-d533-412f-9b94-a5d42754fe53.jpg?v=1739200617
     Price: €49.00 EUR
 - [Customized Name Bracelet Personalized Custom Bangles Stainless Steel](https://www.maiden-art.com/products/customized-name-bracelet-personalized-custom-bangles-stainless-steel-jewelry): Discover the Charm of a Customized Name Bracelet Overview:  Show off the love you have for your  - Maiden-Art
-  Updated: 2026-02-16T10:55:41Z
+  Updated: 2026-04-20T20:14:38Z
   Vendor: Maiden-Art
   Product Type: Bracelets
   Availability: Available
@@ -4528,7 +4528,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/2065898077617.jpg?v=1739200977
     Price: €69.00 EUR
 - [Personalized Stainless Steel Heart-shaped Necklace-personalized](https://www.maiden-art.com/products/personalized-stainless-steel-heart-shaped-necklace-personalized-necklace): Personalized Stainless Steel Heart-shaped  Product Information： Product Name: Splicing Love  - Maiden-Art
-  Updated: 2026-02-16T10:55:42Z
+  Updated: 2026-04-20T20:14:38Z
   Vendor: Maiden-Art
   Product Type: necklace
   Availability: Available
@@ -4558,7 +4558,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/3fb30550-2c16-4273-a8c5-d4c744070884.jpg?v=1739202083
     Price: €69.00 EUR
 - [Love Bracelet Peach Heart Name Lettering Titanium Steel Bracelet -](https://www.maiden-art.com/products/love-bracelet-peach-heart-name-lettering-titanium-steel-bracelet): Love Bracelet: A Perfect Blend of Style and Sentiment Overview: It is a small gift, designed to make  - Maiden-Art
-  Updated: 2026-02-16T10:55:42Z
+  Updated: 2026-04-20T20:14:38Z
   Vendor: Maiden-Art
   Product Type: bracelets
   Availability: Available
@@ -4684,7 +4684,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/763f70d9-c448-4c7d-8b70-7e13bd31c20f.jpg?v=1739202242
     Price: €59.00 EUR
 - [DIY custom English letter name earrings personalized custom earrings](https://www.maiden-art.com/products/diy-custom-english-letter-name-earrings-personalized-custom-earrings-holiday-gift): Discover the Charm of Custom Earrings Commodity information： Type: earrings Style: women's style  - Maiden-Art
-  Updated: 2026-02-16T10:55:42Z
+  Updated: 2026-04-20T20:14:39Z
   Vendor: Maiden-Art
   Product Type: earrings
   Availability: Available
@@ -4702,21 +4702,21 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/1617167792277.jpg?v=1739203305
     Price: €59.00 EUR
 - [💼 Transform  Business & Life with a 1:1 Coaching Call – Unlock](https://www.maiden-art.com/products/transform-your-business-life-with-a-1-1-coaching-call-unlock-your-full-potential-in-fashion-mindfulness-faceless-business-mindfulness-coaching): Experience Transformative Mindfulness Coaching, Fashion Coaching and Faceless Business Coaching  - Maiden-Art
-  Updated: 2026-02-16T10:55:42Z
+  Updated: 2026-04-20T20:14:39Z
   Vendor: MAIDEN-ART
   Product Type: consultancy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/312232583_10158812857137056_7411746226242089051_n.jpg?v=1739883527
   Price: €97.00 EUR
 - [🚀 Done-For-You Business Setup – Fashion or Faceless, Fully Ready to](https://www.maiden-art.com/products/done-for-you-biz-faceless-fashion-start-your-own-business): Start Your Own Business with Ease and Confidence 💰 : €2500 | 💡 100% Ready-to-Launch | ✅  - Maiden-Art
-  Updated: 2026-02-16T10:55:42Z
+  Updated: 2026-04-20T20:14:40Z
   Vendor: MAIDEN-ART
   Product Type: consultancy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/92339815_2908095079270659_497062595300163584_n.jpg?v=1741016762
   Price: €2,500.00 EUR
 - [Personalized Custom 316L Stainless Steel Jewelry](https://www.maiden-art.com/products/personalized-custom-316l-stainless-steel-jewelry): Product information: Material: Stainless steel  process: electroplating Type: Anklet Style: Women's Shape: Letters/Numbers/Text Color: steel color, gold, rose gold Pattern: Plaid Package: Stainless Steel Anklet X1
-  Updated: 2026-02-16T10:55:42Z
+  Updated: 2026-04-20T20:14:41Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
@@ -4730,7 +4730,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/9df8f882-6cc5-4555-83ad-aefbc6f5b494.jpg?v=1743693403
     Price: €69.65 EUR
 - [925 Rectangular Birthstone Ring Female Simple Fashion 3-6 Diamond Color Optional Customization](https://www.maiden-art.com/products/925-rectangular-birthstone-ring-female-simple-fashion-3-6-diamond-color-optional-customization): Product information: Type: ring Material: Silver Shape: geometric Style: Women's Inlay material: sterling silver inlaid with gemstones Precious Metal Quality: 925 Packing list: Ring*1 (The following is Birthstone color customization)
-  Updated: 2026-02-16T10:55:43Z
+  Updated: 2026-04-20T20:14:41Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
@@ -4832,7 +4832,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/7a7a9c17-6151-4bbd-9d1d-4d860de29da1.jpg?v=1743693358
     Price: €78.00 EUR
 - [Diy Beaded Lettering Stainless Steel Bracelet](https://www.maiden-art.com/products/diy-beaded-lettering-stainless-steel-bracelet): Specification: Product name: Birthstone bracelet Product material: 304 stainless steel + czech rhinestones Product color: Steel/rose gold/gold Packing list: Bracelet*1
-  Updated: 2026-02-23T11:23:20Z
+  Updated: 2026-04-20T20:14:42Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
@@ -4946,7 +4946,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/f64fa49a-2709-45cf-b9b3-9d46935d4d06.jpg?v=1743693410
     Price: €77.39 EUR
 - [Personalized Colorful Rope Chain Custom Name Bracelet Personalized Adjustable Name Jewelry For Girls](https://www.maiden-art.com/products/personalized-colorful-rope-chain-custom-name-bracelet-personalized-adjustable-name-jewelry-for-girls): Overview: 100% new design and high quality Must-have for fashion women Have a beautiful appearance Specifications: Type: Bracelet Style: Women's Material: stainless steel Package Content: 1 x Bracelet
-  Updated: 2026-02-23T11:23:24Z
+  Updated: 2026-04-20T20:14:42Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
@@ -5112,7 +5112,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/b93f326b-6b42-468c-84d3-92bffd175fac.jpg?v=1743693510
     Price: €123.25 EUR
 - [S925 ring lettering couple personalized name customization](https://www.maiden-art.com/products/s925-ring-lettering-couple-personalized-name-customization): Material: Silver Style: Alternative Type: Ring, ring Shape: Letters/Numbers/Text  process:Electroplating Style: Women's
-  Updated: 2026-02-16T10:55:43Z
+  Updated: 2026-04-20T20:14:43Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
@@ -5318,7 +5318,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/1072482615647.jpg?v=1743693588
     Price: €125.80 EUR
 - [Personalized Stainless Steel Necklace Custom Name Choker Pendant](https://www.maiden-art.com/products/personalized-stainless-steel-necklace-custom-name-choker-pendant): Product information: Material: silver  process: electroplating Type: Necklace Style: unisex Shape: Letters/Numbers/Text Chain style: box chain Whether it is multi-layered: No Whether to bring a pendant: Yes Extension chain: 10cm or less Pendant material: 925 silver Circumference: 20cm and below Quality of precious metals: 92.5% Color: gold, white gold, rose gold Purity: 925 silver Packing list: Necklace*1
-  Updated: 2026-02-23T11:22:59Z
+  Updated: 2026-04-20T20:14:44Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
@@ -5336,7 +5336,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/ae012b54-cffd-4efb-a79a-8efb8fed0d24.jpg?v=1743694723
     Price: €99.68 EUR
 - [Personalized Vertical Necklace, Mother's Day Gift](https://www.maiden-art.com/products/personalized-vertical-necklace-mothers-day-gift): Product information: Material: alloy Color: gold color, Silver color, Rose gold. Packing list: Necklace *1
-  Updated: 2026-02-23T11:23:16Z
+  Updated: 2026-04-20T20:14:45Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
@@ -5402,7 +5402,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/0ec485a1-4bed-4b94-946d-ba72d11e2775.jpg?v=1743694888
     Price: €96.47 EUR
 - [Stainless Steel 26 English Letter Name Necklace](https://www.maiden-art.com/products/stainless-steel-26-english-letter-name-necklace): Product information: Material: stainless steel Length: 40+5cm Colors: Gold, Steel, Rose Gold Packaging list: Necklace * 1
-  Updated: 2026-03-28T07:44:01Z
+  Updated: 2026-04-20T20:14:45Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
@@ -5480,21 +5480,21 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/7feb287e-19ca-445f-ad64-7fcdfc550073.jpg?v=1743694920
     Price: €29.89 EUR
 - [The 1-Day Self-Love Reset](https://www.maiden-art.com/products/the-1-day-self-love-reset): Feeling drained, disconnected, or stuck in self-doubt?What if you could hit “reset” and fall deeply in love with yourself — starting TODAY? 💖 Imagine this: Waking up feeling calm, confident, and centered Letting go of negative self-talk that’s been holding you back Glowing with self-worth that radiates into every area of your life Feeling beautiful, grounded, and in full alignment — inside and out This is not just another self-help book.It’s your 1-day power boost — a step-by-step self-love ritual you can follow in less than 24 hours to reconnect with your true self and reignite your inner fire. 🔥 ✨ What You’ll Get Inside: A simple, powerful reset routine to clear emotional blocks Self-love journaling prompts to heal and empower A guided ritual you can repeat anytime you need a boost Instant access — no waiting, no fluff, just transformation You don’t need a retreat. You don’t need a coach.You need just one day — and this guide.
-  Updated: 2026-02-16T10:55:44Z
+  Updated: 2026-04-20T20:14:46Z
   Vendor: Maiden-Art
   Product Type: ebook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/A15281A2-47D9-4DB9-A742-070AE14C2306.png?v=1745846502
   Price: €10.00 EUR
 - [Antioxidant Ginkgo Gel Booster](https://www.maiden-art.com/products/antioxidant-ginkgo-gel-booster): Ginkgo biloba extract concentrate in private label face gel is high in antioxidants that help minimize the damage caused by free radicals and protect the skin from pollution or other environmental factors. Dull and tired skin regains freshness and youthful look. Mix face gel into your face or body moisturiser.
-  Updated: 2026-04-02T19:59:43Z
+  Updated: 2026-04-20T20:14:46Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/w3LCkFqIHEDkoInnNBY61kxOwf0LrLK3.jpg?v=1747817932
   Price: €8.90 EUR
 - [One-Piece Swimsuit](https://www.maiden-art.com/products/one-piece-swimsuit): This one-piece swimsuit for all figures will bring out your best features. Enjoy the smooth fabric and the flattering design, and show it off by the sea or pool! • 82% Polyester, 18% Spandex • Fabric weight: 6.78 oz/yd² (230 g/m²), weight may vary by 5% • Chlorine-resistant fabric • Cheeky fit with a scoop neckline and a low scoop back • Zig-zag stitching • Double-layer front • Four-way stretch material stretches and recovers on the cross and lengthwise grains This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! • Traceability: - Knitting—China - Dyeing—China - Manufacturing—Latvia • Contains 0% recycled polyester • Contains 0% dangerous substances • This item releases plastic microfibers into the environment during washing Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, and formaldehyde, azo dyes, lead, cadmium, bisphenols, and phthalates level requirements. In compliance with the General Product Safety Regulation (GPSR), Oak inc. ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at alex.oak@company.com or write to us 123 Main Street, Anytown, Country.Size guide CHEST (inches) WAIST (inches) HIPS (inches) XS 33 ⅛ 25 ¼ 35 ⅜ S 34 ⅝ 26 ¾ 37 M 36 ¼ 28 ⅜ 38 ⅝ L 37 ¾ 29 ⅞ 40 ⅛ XL 41 33 ⅛ 43 ¼ 2XL 44 ⅛ 36 ¼ 46 ½ 3XL 47 ¼ 39 ⅜ 49 ⅝ CHEST (cm) WAIST (cm) HIPS (cm) XS 84 64 90 S 88 68 94 M 92 72 98 L 96 76 102 XL 104 84 110 2XL 112 92 118 3XL 120 100 126
-  Updated: 2026-02-16T10:55:44Z
+  Updated: 2026-04-20T20:14:47Z
   Vendor: Maiden-Art
   Product Type: swimsuit
   Availability: Available
@@ -5528,7 +5528,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/all-over-print-one-piece-swimsuit-white-front-6835b4669832c.jpg?v=1748350109
     Price: €89.00 EUR
 - [One-Piece Swimsuit](https://www.maiden-art.com/products/one-piece-swimsuit-1): This one-piece swimsuit for all figures will bring out your best features. Enjoy the smooth fabric and the flattering design, and show it off by the sea or pool! • 82% Polyester, 18% Spandex • Fabric weight: 6.78 oz/yd² (230 g/m²), weight may vary by 5% • Chlorine-resistant fabric • Cheeky fit with a scoop neckline and a low scoop back • Zig-zag stitching • Double-layer front • Four-way stretch material stretches and recovers on the cross and lengthwise grains This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! • Traceability: - Knitting—China - Dyeing—China - Manufacturing—Latvia • Contains 0% recycled polyester • Contains 0% dangerous substances • This item releases plastic microfibers into the environment during washing Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, and formaldehyde, azo dyes, lead, cadmium, bisphenols, and phthalates level requirements. In compliance with the General Product Safety Regulation (GPSR), Oak inc. ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at alex.oak@company.com or write to us 123 Main Street, Anytown, Country.Size guide CHEST (inches) WAIST (inches) HIPS (inches) XS 33 ⅛ 25 ¼ 35 ⅜ S 34 ⅝ 26 ¾ 37 M 36 ¼ 28 ⅜ 38 ⅝ L 37 ¾ 29 ⅞ 40 ⅛ XL 41 33 ⅛ 43 ¼ 2XL 44 ⅛ 36 ¼ 46 ½ 3XL 47 ¼ 39 ⅜ 49 ⅝ CHEST (cm) WAIST (cm) HIPS (cm) XS 84 64 90 S 88 68 94 M 92 72 98 L 96 76 102 XL 104 84 110 2XL 112 92 118 3XL 120 100 126
-  Updated: 2026-03-06T04:18:56Z
+  Updated: 2026-04-20T20:14:48Z
   Vendor: Maiden-Art
   Product Type: swimsuit
   Availability: Available
@@ -5562,7 +5562,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/all-over-print-one-piece-swimsuit-white-front-6835b77436932.jpg?v=1748350848
     Price: €89.00 EUR
 - [One-Piece Swimsuit](https://www.maiden-art.com/products/one-piece-swimsuit-2): This one-piece swimsuit for all figures will bring out your best features. Enjoy the smooth fabric and the flattering design, and show it off by the sea or pool! • 82% Polyester, 18% Spandex • Fabric weight: 6.78 oz/yd² (230 g/m²), weight may vary by 5% • Chlorine-resistant fabric • Cheeky fit with a scoop neckline and a low scoop back • Zig-zag stitching • Double-layer front • Four-way stretch material stretches and recovers on the cross and lengthwise grains This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, and formaldehyde, azo dyes, lead, cadmium, bisphenols, and phthalates level requirements. In compliance with the General Product Safety Regulation (GPSR), Oak inc. ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at alex.oak@company.com or write to us 123 Main Street, Anytown, Country.Size guide CHEST (inches) WAIST (inches) HIPS (inches) XS 33 ⅛ 25 ¼ 35 ⅜ S 34 ⅝ 26 ¾ 37 M 36 ¼ 28 ⅜ 38 ⅝ L 37 ¾ 29 ⅞ 40 ⅛ XL 41 33 ⅛ 43 ¼ 2XL 44 ⅛ 36 ¼ 46 ½ 3XL 47 ¼ 39 ⅜ 49 ⅝ CHEST (cm) WAIST (cm) HIPS (cm) XS 84 64 90 S 88 68 94 M 92 72 98 L 96 76 102 XL 104 84 110 2XL 112 92 118 3XL 120 100 126
-  Updated: 2026-02-16T10:55:45Z
+  Updated: 2026-04-20T20:14:49Z
   Vendor: Maiden-Art
   Product Type: swimsuit
   Availability: Available
@@ -5596,7 +5596,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/all-over-print-one-piece-swimsuit-white-front-6835b965ae391.jpg?v=1748351348
     Price: €89.00 EUR
 - [One-Piece Swimsuit](https://www.maiden-art.com/products/one-piece-swimsuit-3): This one-piece swimsuit for all figures will bring out your best features. Enjoy the smooth fabric and the flattering design, and show it off by the sea or pool! • 82% Polyester, 18% Spandex • Fabric weight: 6.78 oz/yd² (230 g/m²), weight may vary by 5% • Chlorine-resistant fabric • Cheeky fit with a scoop neckline and a low scoop back • Zig-zag stitching • Double-layer front • Four-way stretch material stretches and recovers on the cross and lengthwise grains This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! • Traceability: - Knitting—China - Dyeing—China - Manufacturing—Latvia • Contains 0% recycled polyester • Contains 0% dangerous substances • This item releases plastic microfibers into the environment during washing Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, and formaldehyde, azo dyes, lead, cadmium, bisphenols, and phthalates level requirements. In compliance with the General Product Safety Regulation (GPSR), Oak inc. ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at alex.oak@company.com or write to us 123 Main Street, Anytown, Country.Size guide CHEST (inches) WAIST (inches) HIPS (inches) XS 33 ⅛ 25 ¼ 35 ⅜ S 34 ⅝ 26 ¾ 37 M 36 ¼ 28 ⅜ 38 ⅝ L 37 ¾ 29 ⅞ 40 ⅛ XL 41 33 ⅛ 43 ¼ 2XL 44 ⅛ 36 ¼ 46 ½ 3XL 47 ¼ 39 ⅜ 49 ⅝ CHEST (cm) WAIST (cm) HIPS (cm) XS 84 64 90 S 88 68 94 M 92 72 98 L 96 76 102 XL 104 84 110 2XL 112 92 118 3XL 120 100 126
-  Updated: 2026-03-20T03:59:47Z
+  Updated: 2026-04-20T20:14:49Z
   Vendor: Maiden-Art
   Product Type: swimsuit
   Availability: Available
@@ -5630,35 +5630,35 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/all-over-print-one-piece-swimsuit-white-front-6835bb4e9bd31.jpg?v=1748351837
     Price: €89.00 EUR
 - [All-Over Print Large Tote Bag](https://www.maiden-art.com/products/all-over-print-large-tote-bag): A trendy beach bag, where you can put everything that matters when hitting those warm beaches. • 100% polyester • Maximum weight limit – 44lbs (20kg) • Large inside pocket • Comfortable cotton webbing handles • Vibrant colors that won't fade • Available in one size • Blank product components sourced from Israel This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years In compliance with the General Product Safety Regulation (GPSR), Oak inc. and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at 123 Main Street, Anytown, Country or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.
-  Updated: 2026-02-16T10:55:45Z
+  Updated: 2026-04-20T20:14:50Z
   Vendor: Maiden-Art
   Product Type: tote bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/all-over-print-large-tote-bag-w-pocket-black-front-6835bed34cd05.jpg?v=1748352735
   Price: €79.00 EUR
 - [All-Over Print Large Tote Bag](https://www.maiden-art.com/products/all-over-print-large-tote-bag-1): A trendy beach bag, where you can put everything that matters when hitting those warm beaches. • 100% polyester • Maximum weight limit – 44lbs (20kg) • Large inside pocket • Comfortable cotton webbing handles • Vibrant colors that won't fade • Available in one size • Blank product components sourced from Israel This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years In compliance with the General Product Safety Regulation (GPSR), Oak inc. ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at alex.oak@company.com or write to us 123 Main Street, Anytown, Country.
-  Updated: 2026-02-16T10:55:45Z
+  Updated: 2026-04-20T20:14:50Z
   Vendor: Maiden-Art
   Product Type: tote bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/all-over-print-large-tote-bag-w-pocket-black-front-6835c2bd22b0f.jpg?v=1748353739
   Price: €79.00 EUR
 - [All-Over Print Large Tote Bag](https://www.maiden-art.com/products/all-over-print-large-tote-bag-2): A trendy beach bag, where you can put everything that matters when hitting those warm beaches. • 100% polyester • Maximum weight limit – 44lbs (20kg) • Large inside pocket • Comfortable cotton webbing handles • Vibrant colors that won't fade • Available in one size • Blank product components sourced from Israel This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years In compliance with the General Product Safety Regulation (GPSR), Oak inc. ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at alex.oak@company.com or write to us 123 Main Street, Anytown, Country.
-  Updated: 2026-02-16T10:55:45Z
+  Updated: 2026-04-20T20:14:50Z
   Vendor: Maiden-Art
   Product Type: tote bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/all-over-print-large-tote-bag-w-pocket-black-front-6835c2f290431.jpg?v=1748353792
   Price: €79.00 EUR
 - [All-Over Print Large Tote Bag](https://www.maiden-art.com/products/all-over-print-large-tote-bag-3): A trendy beach bag, where you can put everything that matters when hitting those warm beaches. • 100% polyester • Maximum weight limit – 44lbs (20kg) • Large inside pocket • Comfortable cotton webbing handles • Vibrant colors that won't fade • Available in one size • Blank product components sourced from Israel This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years In compliance with the General Product Safety Regulation (GPSR), Oak inc. ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at alex.oak@company.com or write to us 123 Main Street, Anytown, Country.
-  Updated: 2026-03-01T02:31:19Z
+  Updated: 2026-04-20T20:14:51Z
   Vendor: Maiden-Art
   Product Type: tote bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/all-over-print-large-tote-bag-w-pocket-black-front-6835c40f13e7a.jpg?v=1748354074
   Price: €89.00 EUR
 - [All-over print recycled string bikini](https://www.maiden-art.com/products/all-over-print-recycled-string-bikini): Stay comfortable and stylish all summer with this All-Over Print Recycled String Bikini set. It’s made from soft recycled polyester with double-layering and UPF 50+. Style the straps how you like, and get ready to swim! • Soft and stretchy material with UPF 50+ • Sizes up to 6XL • Bikini top comes with removable padding for comfort • Multiple ways to tie and style the bikini set • Color design options for swimwear lining • Blank product components in the EU sourced from Spain, Vietnam, Cambodia, Turkey, and China • Blank product components in the US sourced from Colombia, China, Vietnam, and Mexico Disclaimers: • Due to the 2-layered construction and internal stitching, a visible stitch may appear in the crotch seam of the bikini bottom. This is a normal part of the manufacturing process and does not impact the quality or performance of the product. • To make your All-Over Print Recycled String Bikini last longer, thoroughly rinse it off after each use and get rid of any chlorine/salt residue. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, and formaldehyde, azo dyes, lead, cadmium, bisphenols, and phthalates level requirements. In compliance with the General Product Safety Regulation (GPSR), Oak inc. ensures that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact us at alex.oak@company.com or write to us 123 Main Street, Anytown, Country.Size guide CHEST (inches) HIPS (inches) 2XS 31 ½ 33 ⅞ XS 33 ⅛ 35 ⅜ S 34 ⅝ 37 M 36 ¼ 38 ⅝ L 39 ⅜ 41 ¾ XL 42 ½ 44 ⅞ 2XL 45 ⅝ 48 3XL 48 ⅞ 51 ⅛ 4XL 52 54 ⅜ 5XL 55 ⅛ 57 ½ 6XL 58 ¼ 60 ⅝ CHEST (cm) HIPS (cm) 2XS 80 86 XS 84 90 S 88 94 M 92 98 L 100 106 XL 108 114 2XL 116 122 3XL 124 130 4XL 132 138 5XL 140 146 6XL 148 154
-  Updated: 2026-02-16T10:55:45Z
+  Updated: 2026-04-20T20:14:51Z
   Vendor: Maiden-Art
   Product Type: bikini
   Availability: Available
@@ -5708,7 +5708,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/all-over-print-recycled-string-bikini-white-front-6835e1b73f968.jpg?v=1748361670
     Price: €89.00 EUR
 - [All-over print recycled string bikini](https://www.maiden-art.com/products/all-over-print-recycled-string-bikini-1): Stay comfortable and stylish all summer with this All-Over Print Recycled String Bikini set. It’s made from soft recycled polyester with double-layering and UPF 50+. Style the straps how you like, and get ready to swim! • Soft and stretchy material with UPF 50+ • Sizes up to 6XL • Bikini top comes with removable padding for comfort • Multiple ways to tie and style the bikini set • Color design options for swimwear lining • Blank product components in the EU sourced from Spain, Vietnam, Cambodia, Turkey, and China • Blank product components in the US sourced from Colombia, China, Vietnam, and Mexico Disclaimers: • Due to the 2-layered construction and internal stitching, a visible stitch may appear in the crotch seam of the bikini bottom. This is a normal part of the manufacturing process and does not impact the quality or performance of the product. • To make your All-Over Print Recycled String Bikini last longer, thoroughly rinse it off after each use and get rid of any chlorine/salt residue. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, and formaldehyde, azo dyes, lead, cadmium, bisphenols, and phthalates level requirements. In compliance with the General Product Safety Regulation (GPSR), Oak inc. and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at 123 Main Street, Anytown, Country or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.Size guide CHEST (inches) HIPS (inches) 2XS 31 ½ 33 ⅞ XS 33 ⅛ 35 ⅜ S 34 ⅝ 37 M 36 ¼ 38 ⅝ L 39 ⅜ 41 ¾ XL 42 ½ 44 ⅞ 2XL 45 ⅝ 48 3XL 48 ⅞ 51 ⅛ 4XL 52 54 ⅜ 5XL 55 ⅛ 57 ½ 6XL 58 ¼ 60 ⅝ CHEST (cm) HIPS (cm) 2XS 80 86 XS 84 90 S 88 94 M 92 98 L 100 106 XL 108 114 2XL 116 122 3XL 124 130 4XL 132 138 5XL 140 146 6XL 148 154
-  Updated: 2026-02-16T10:55:46Z
+  Updated: 2026-04-20T20:14:52Z
   Vendor: Maiden-Art
   Product Type: bikini
   Availability: Available
@@ -5758,7 +5758,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/all-over-print-recycled-string-bikini-white-front-6835e17abb1d1.jpg?v=1748361610
     Price: €89.00 EUR
 - [All-over print recycled string bikini](https://www.maiden-art.com/products/all-over-print-recycled-string-bikini-2): Stay comfortable and stylish all summer with this All-Over Print Recycled String Bikini set. It’s made from soft recycled polyester with double-layering and UPF 50+. Style the straps how you like, and get ready to swim! • Soft and stretchy material with UPF 50+ • Sizes up to 6XL • Bikini top comes with removable padding for comfort • Multiple ways to tie and style the bikini set • Color design options for swimwear lining • Blank product components in the EU sourced from Spain, Vietnam, Cambodia, Turkey, and China • Blank product components in the US sourced from Colombia, China, Vietnam, and Mexico Disclaimers: • Due to the 2-layered construction and internal stitching, a visible stitch may appear in the crotch seam of the bikini bottom. This is a normal part of the manufacturing process and does not impact the quality or performance of the product. • To make your All-Over Print Recycled String Bikini last longer, thoroughly rinse it off after each use and get rid of any chlorine/salt residue. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, and formaldehyde, azo dyes, lead, cadmium, bisphenols, and phthalates level requirements. In compliance with the General Product Safety Regulation (GPSR), Oak inc. and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at 123 Main Street, Anytown, Country or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.Size guide CHEST (inches) HIPS (inches) 2XS 31 ½ 33 ⅞ XS 33 ⅛ 35 ⅜ S 34 ⅝ 37 M 36 ¼ 38 ⅝ L 39 ⅜ 41 ¾ XL 42 ½ 44 ⅞ 2XL 45 ⅝ 48 3XL 48 ⅞ 51 ⅛ 4XL 52 54 ⅜ 5XL 55 ⅛ 57 ½ 6XL 58 ¼ 60 ⅝ CHEST (cm) HIPS (cm) 2XS 80 86 XS 84 90 S 88 94 M 92 98 L 100 106 XL 108 114 2XL 116 122 3XL 124 130 4XL 132 138 5XL 140 146 6XL 148 154
-  Updated: 2026-02-16T10:55:46Z
+  Updated: 2026-04-20T20:14:52Z
   Vendor: Maiden-Art
   Product Type: bikini
   Availability: Available
@@ -5808,7 +5808,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/all-over-print-recycled-string-bikini-white-front-6835e2948d582.jpg?v=1748361889
     Price: €89.00 EUR
 - [All-over print recycled string bikini](https://www.maiden-art.com/products/all-over-print-recycled-string-bikini-3): Stay comfortable and stylish all summer with this All-Over Print Recycled String Bikini set. It’s made from soft recycled polyester with double-layering and UPF 50+. Style the straps how you like, and get ready to swim! • Soft and stretchy material with UPF 50+ • Sizes up to 6XL • Bikini top comes with removable padding for comfort • Multiple ways to tie and style the bikini set • Color design options for swimwear lining • Blank product components in the EU sourced from Spain, Vietnam, Cambodia, Turkey, and China • Blank product components in the US sourced from Colombia, China, Vietnam, and Mexico Disclaimers: • Due to the 2-layered construction and internal stitching, a visible stitch may appear in the crotch seam of the bikini bottom. This is a normal part of the manufacturing process and does not impact the quality or performance of the product. • To make your All-Over Print Recycled String Bikini last longer, thoroughly rinse it off after each use and get rid of any chlorine/salt residue. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Age restrictions: For adults EU Warranty: 2 years Other compliance information: Meets the flammability, and formaldehyde, azo dyes, lead, cadmium, bisphenols, and phthalates level requirements. In compliance with the General Product Safety Regulation (GPSR), Oak inc. and SINDEN VENTURES LIMITED ensure that all consumer products offered are safe and meet EU standards. For any product safety related inquiries or concerns, please contact our EU representative at gpsr@sindenventures.com. You can also write to us at 123 Main Street, Anytown, Country or Markou Evgenikou 11, Mesa Geitonia, 4002, Limassol, Cyprus.Size guide CHEST (inches) HIPS (inches) 2XS 31 ½ 33 ⅞ XS 33 ⅛ 35 ⅜ S 34 ⅝ 37 M 36 ¼ 38 ⅝ L 39 ⅜ 41 ¾ XL 42 ½ 44 ⅞ 2XL 45 ⅝ 48 3XL 48 ⅞ 51 ⅛ 4XL 52 54 ⅜ 5XL 55 ⅛ 57 ½ 6XL 58 ¼ 60 ⅝ CHEST (cm) HIPS (cm) 2XS 80 86 XS 84 90 S 88 94 M 92 98 L 100 106 XL 108 114 2XL 116 122 3XL 124 130 4XL 132 138 5XL 140 146 6XL 148 154
-  Updated: 2026-02-16T10:55:46Z
+  Updated: 2026-04-20T20:14:53Z
   Vendor: Maiden-Art
   Product Type: 
   Availability: Available
@@ -5858,7 +5858,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/all-over-print-recycled-string-bikini-white-front-6835e34a08866.jpg?v=1748362074
     Price: €89.00 EUR
 - [Ice Roller Massager Facial Ice Head Roller Massage](https://www.maiden-art.com/products/ice-roller-massager-facial-ice-head-roller-massage): Product information: Makeup tools classification: other makeup/beauty tools Size: 20cm Color classification: Pink integrated, light pink, light blue, light purple, green, pink integrated packaging box, light pink packaging box, light blue packaging box, green packaging box, pink integrated packaging box scrap board, light pink packaging box scrap board, light blue packing box scrap board, green packing box scrap board Packing list: 1*massage device Product Image:
-  Updated: 2026-03-19T14:26:06Z
+  Updated: 2026-04-20T21:25:26Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
@@ -5916,7 +5916,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/343ee412-47c6-417c-b3d8-0c0c0ce50a9a.jpg?v=1764425911
     Price: €27.00 EUR
 - [Electric Heated Eyelash Curler USB Rechargeable Eyelashes Curler Quick Heating Natural Eyelash Curler Long Lasting Makeup Tools](https://www.maiden-art.com/products/electric-heated-eyelash-curler-usb-rechargeable-eyelashes-curler-quick-heating-natural-eyelash-curler-long-lasting-makeup-tools): Overviews: Anti scalding comb Don't hurt your eyelashes Hot in 10 seconds 3 gear temperature regulation Product information: Strength gear: 3 Net weight: 32g Charging voltage: DC5V Material :ABS/ electronic components Battery capacity: 350mAh Charging time: 2h Product size: 23*25*142mm Packing list： Plastic mascara*1
-  Updated: 2026-02-16T10:55:47Z
+  Updated: 2026-04-20T21:25:26Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
@@ -5938,14 +5938,14 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/08401f18-1cd6-43d5-b98f-7822c3fb462e.jpg?v=1759246137
     Price: €37.00 EUR
 - [5-piece Set Of Joint Rings And Rings](https://www.maiden-art.com/products/5-piece-set-of-joint-rings-and-rings): Product information : Material: alloy Modeling: geometric type Color: MS8296 five-piece set Packing list: Ring set of five *1
-  Updated: 2026-02-23T11:22:43Z
+  Updated: 2026-04-20T21:25:27Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/9ef2bc8d-b73f-4e02-b94a-f559d01987fb.jpg?v=1759244845
   Price: €27.00 EUR
 - [Our Favorite set of rings - Vintage Knuckle Rings!](https://www.maiden-art.com/products/our-favorite-set-of-rings-vintage-knuckle-rings)
-  Updated: 2026-02-23T11:23:03Z
+  Updated: 2026-04-20T21:25:27Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
@@ -6047,7 +6047,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/1508602388670.jpg?v=1759246126
     Price: €27.00 EUR
 - [Natural Stone Agate Crystal Bud Women Rings  Rose Vintage Rings](https://www.maiden-art.com/products/natural-stone-agate-crystal-bud-women-rings-rose-vintage-rings): Natural Stone Agate Crystal Bud Women Rings Rose Vintage Rings
-  Updated: 2026-02-23T11:22:26Z
+  Updated: 2026-04-20T21:25:28Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
@@ -6073,7 +6073,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/820368478982.jpg?v=1759245333
     Price: €27.00 EUR
 - [Creative USB Aromatherapy Humidifier Colorful Fragrance Lamp Ultrasonic Aroma Diffuser](https://www.maiden-art.com/products/creative-usb-aromatherapy-humidifier-colorful-fragrance-lamp-ultrasonic-aroma-diffuser): Product information: Power type: USB Noise: below 36dB Applicable scenarios: household and commercial Color: white, black, black and white Appearance: Vase Operation mode: Mechanical Applicable area: 21 ㎡ (inclusive)-30 ㎡ (inclusive) Function: Aromatherapy Timing function: no timing Reservoir fluid capacity: 0.5L and below Style: simple style Style: Mini Packing list: 1PCx Aromatherapy humidifier Product Image:
-  Updated: 2026-02-16T10:55:48Z
+  Updated: 2026-04-20T21:25:28Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
@@ -6091,7 +6091,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/099b98ca-f3b9-4a09-9089-2e1c4048982e_01a58f16-42da-4f2a-af55-7bb6fd0ae707.jpg?v=1764426029
     Price: €47.00 EUR
 - [Blue Light Blocking Glasses Hot ](https://www.maiden-art.com/products/blue-light-blocking-glasses-hot-): Product Details: Lens material: PC anti-blue light Glasses structure: frame Glasses style: oval frame Color: light coffee on the top, transparent on the bottom, bean flower, transparent tea with spray on the surface, red flower with gouache, transparent tea, transparent red, transparent tea on the top with leopard print, transparent green with black flowers, bright black Size: Yumomo Strength: strong Package Contents: Plastic glasses frame X1
-  Updated: 2026-02-16T10:55:48Z
+  Updated: 2026-04-20T21:25:29Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
@@ -6133,7 +6133,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/0a963f53-f180-4b25-a6e1-0500730175fe.jpg?v=1759246072
     Price: €47.00 EUR
 - [Natural jade roller](https://www.maiden-art.com/products/natural-jade-roller): Name: One-bar three-head roller Uses: eye massage Material: Pink Crystal / Green Aventurine / Amethyst Metal: zinc alloy Size: 128 * 26 * 12MM
-  Updated: 2026-02-16T10:55:48Z
+  Updated: 2026-04-20T21:25:29Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
@@ -6155,7 +6155,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/1511412535693_838cbe11-8153-42f3-98bb-ac356572f7fa.jpg?v=1759246810
     Price: €47.00 EUR
 - [1 Pair Smooth Circle C Shape Clip Earrings For Women Lightweight Without Piercing Cartilage Ear Cuff Gold Silver Color Earrings](https://www.maiden-art.com/products/1-pair-smooth-circle-c-shape-clip-earrings-for-women-lightweight-without-piercing-cartilage-ear-cuff-gold-silver-color-earrings): 1 Pair Smooth Circle C Shape Clip Earrings For Women Lightweight Without Piercing Cartilage Ear Cuff Gold Silver Color Earrings
-  Updated: 2026-02-23T11:22:45Z
+  Updated: 2026-04-20T21:25:30Z
   Vendor: MAIDEN-ART
   Product Type: earrings
   Availability: Available
@@ -6221,7 +6221,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S911e137872134481a1268f42ee8fc85b9.webp?v=1759317039
     Price: €27.00 EUR
 - [Anklets for Women Summer Beach Accessories Stainless Steel Imitation Pearl Chain Anklet Gold Color Leg Bracelets Bodychain Gifts](https://www.maiden-art.com/products/anklets-for-women-summer-beach-accessories-stainless-steel-imitation-pearl-chain-anklet-gold-color-leg-bracelets-bodychain-gifts): Material: metal- real stainless steel/ imitation pearl; Metal surface: 18k gold; Length: style 2 &11~13 - 22cm; style 1 & 3~10& 14~19 - about 25cm.Why choose stainless steel: 1. No rust; 2. Not Allergic; 3. Powerful of anti-acid,anti-alkali; 4. No deformation; 5. Do not fade. As the length of the product varies, please confirm the length is appropriate before placing an order. If there are any problems, please contact me before submitting a dispute or leaving negative feedback. Thank you in advance.
-  Updated: 2026-02-23T11:23:08Z
+  Updated: 2026-04-20T21:25:31Z
   Vendor: MAIDEN-ART
   Product Type: anklets
   Availability: Available
@@ -6311,7 +6311,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S5f563267a18146bc9956efa0530d0183J.webp?v=1759317090
     Price: €27.00 EUR
 - [Punk Irregular Geometric Ear Cuff Earrings for Women Non-Piercing Metal Ear Clip Earring Fake Cartilage Fashion Jewelry Party](https://www.maiden-art.com/products/punk-irregular-geometric-ear-cuff-earrings-for-women-non-piercing-metal-ear-clip-earring-fake-cartilage-fashion-jewelry-party)
-  Updated: 2026-04-07T09:31:04Z
+  Updated: 2026-04-20T21:25:31Z
   Vendor: MAIDEN-ART
   Product Type: earrings
   Availability: Available
@@ -6361,7 +6361,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S77bc858fb83347178dcca98b2fef575dq.webp?v=1759317114
     Price: €27.00 EUR
 - [1Pair Stainless Steel Huggie Minimal Hoop Earrings Little Crystal Zirconia Thin Helix Tragus Cartilage Earrings Piercing Jewelry](https://www.maiden-art.com/products/1pair-stainless-steel-huggie-minimal-hoop-earrings-little-crystal-zirconia-thin-helix-tragus-cartilage-earrings-piercing-jewelry)
-  Updated: 2026-02-23T11:22:25Z
+  Updated: 2026-04-20T21:25:32Z
   Vendor: MAIDEN-ART
   Product Type: earrings
   Availability: Available
@@ -6451,7 +6451,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S00d14b629535446e93ab71f1fb8c585f0_b30501fd-1b76-4984-99e0-0428374b5d43.webp?v=1759317165
     Price: €27.00 EUR
 - [3Pcs/set Metal Chunky No Piercing Clip Earrings Geometric Ear Cuff Earrings for Women Ladies Party Girls Y2K Jewelry 2024 Trendy](https://www.maiden-art.com/products/3pcs-set-metal-chunky-no-piercing-clip-earrings-geometric-ear-cuff-earrings-for-women-ladies-party-girls-y2k-jewelry-2024-trendy): Item Type : EARRINGSStyle : punk, Gothic, hip hop/Classic/Vintagefeature : Ear Clips, EarringsEar Clips : Punk Fashion Ear Clip Earrings For WomenNon Pierced Earrings : Goth Hip Hop Small Charm Earcuff Jewelry Party AccessoriesJewelry : Fake No Cartilage PunctureFit : Women Ladies Girls Female Children
-  Updated: 2026-02-23T11:22:16Z
+  Updated: 2026-04-20T21:25:32Z
   Vendor: MAIDEN-ART
   Product Type: earrings
   Availability: Available
@@ -6465,7 +6465,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S82982e27559347b1af538da436f2cee5D.webp?v=1759317180
     Price: €27.00 EUR
 - [1 Pc 2025 Fashion Minilist No Piercing Ear Cuff Earrings for Woman Fake Piercing Earcuff Clips Earrings for Women Cuffs Jewelry](https://www.maiden-art.com/products/1-pc-2025-fashion-minilist-no-piercing-ear-cuff-earrings-for-woman-fake-piercing-earcuff-clips-earrings-for-women-cuffs-jewelry)
-  Updated: 2026-02-23T11:22:10Z
+  Updated: 2026-04-20T21:25:33Z
   Vendor: Maiden-Art
   Product Type: 
   Availability: Available
@@ -6503,7 +6503,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S11ca10c8bc824e3f8b928bdc888e794dd.webp?v=1759317202
     Price: €19.00 EUR
 - [Trendy Mini Rhinestones Stud Earrings for Women Girls Daily Jewelry Cute Round Geometry Small Earrings Accessories](https://www.maiden-art.com/products/trendy-mini-rhinestones-stud-earrings-for-women-girls-daily-jewelry-cute-round-geometry-small-earrings-accessories): Trendy Mini Rhinestones Stud Earrings for Women Girls Daily Jewelry Cute Round Geometry Small Earrings Accessories
-  Updated: 2026-02-23T11:21:55Z
+  Updated: 2026-04-20T21:25:33Z
   Vendor: Maiden-Art
   Product Type: 
   Availability: Available
@@ -6517,7 +6517,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S6ccf9c23e476425e9b052840a5c5900eY.webp?v=1759317218
     Price: €15.00 EUR
 - [Snake Chain Anklet for Women Girls Adjustable Summer Beach Chain Anklet Bracelet Mother's Day Gifts Stainless Steel Not Allergic](https://www.maiden-art.com/products/snake-chain-anklet-for-women-girls-adjustable-summer-beach-chain-anklet-bracelet-mothers-day-gifts-stainless-steel-not-allergic)
-  Updated: 2026-02-23T11:22:17Z
+  Updated: 2026-04-20T21:25:34Z
   Vendor: Maiden-Art
   Product Type: 
   Availability: Available
@@ -6595,7 +6595,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/See34666e5d7f403a8e800f3d8b0b79ccI.webp?v=1759317264
     Price: €29.00 EUR
 - [Europe and America CZ Crystal Chain Drop Earrings Stainless Steel Pendant Ear Buckle Fashion Jewelry For Women Birthday Gifts](https://www.maiden-art.com/products/europe-and-america-cz-crystal-chain-drop-earrings-stainless-steel-pendant-ear-buckle-fashion-jewelry-for-women-birthday-gifts)
-  Updated: 2026-02-23T11:22:03Z
+  Updated: 2026-04-20T21:25:34Z
   Vendor: Maiden-Art
   Product Type: Hoop earrings
   Availability: Available
@@ -6621,14 +6621,14 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Sb8a088ac5bc245c9a364511234c7f230o.webp?v=1759317283
     Price: €24.90 EUR
 - [7/10/12Pcs Adjustable Toe Rings for Women Foot Ring Gold/Silver Color Metal Round Jewelry for Girl Summer Beach Barefeet Fashion](https://www.maiden-art.com/products/7-10-12pcs-adjustable-toe-rings-for-women-foot-ring-gold-silver-color-metal-round-jewelry-for-girl-summer-beach-barefeet-fashion): Item Specification: Features: Different Style: You will get 12pcs different style toe rings in one order. Arrow toe ring, flower toe ring, wave ring, simple band ring, feather toe ring and leaf toe ring included. Adjustable Size: Convenient open design, adjustable size, fits most of toes and fingers sizes, suits for girls, young ladies and women. Occasion: These toe rings are perfect summer jewelry for any occasion, casual to formal. They will make you charming and fashion on beach party, dancing, wedding, poolside, summer cocktail party and other occasions. Perfect Gift: This toe rings set is a perfect gift for women girls on birthday, anniversary, Mother's Day or other important days. After-sales Service: If you have any questions after receiving the product, please feel free to contact us and we will provide you with a satisfactory answer. Specifications: Material: Alloy Size: Adjustable Notes: 1. Due to the lighting effects and shooting angles, there is a color difference in the product, please understand. 2. Due to manual measurement, there is a tolerance in the product size. Package Includes: 12pcs*Toe Rings
-  Updated: 2026-02-23T11:21:50Z
+  Updated: 2026-04-20T21:25:35Z
   Vendor: Maiden-Art
   Product Type: Toe rings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S6044b2016d9840019590b708e9ddec7fF.webp?v=1759317285
   Price: €19.90 EUR
 - [3pcs Retro Pearl Beads Anklet for Women Fashion Handmade Shell Butterfly On Foot Bracelet Bohemian Summer Beach Jewelry Gifts](https://www.maiden-art.com/products/3pcs-retro-pearl-beads-anklet-for-women-fashion-handmade-shell-butterfly-on-foot-bracelet-bohemian-summer-beach-jewelry-gifts)
-  Updated: 2026-02-23T11:22:09Z
+  Updated: 2026-04-20T21:25:35Z
   Vendor: Maiden-Art
   Product Type: anklets
   Availability: Available
@@ -6670,7 +6670,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S54a19f7fd3e14fabaa988d20a294fbe9N.webp?v=1759317319
     Price: €24.90 EUR
 - [1PC Stainless Steel Nose Hoop Septum Piercing Clicker Hinged Segment Rings Lip Helix Daith Conch Cartilage Earrings Sexy Jewelry](https://www.maiden-art.com/products/1pc-stainless-steel-nose-hoop-septum-piercing-clicker-hinged-segment-rings-lip-helix-daith-conch-cartilage-earrings-sexy-jewelry): 1PC Stainless Steel Nose Hoop Septum Piercing Clicker Hinged Segment Rings Lip Helix Daith Conch Cartilage Earrings Sexy Jewelry 100% New handmade fashion jewelry Material:Stainless Steel Size:You Choose Color:Rose Gold/Steel/Black/Gold/Rainbow Quantity:1pcs Note: 1.There might be a little color difference according to different light,different monitor.So if dear you can not accept this very little difference, be cautious before you making the orders. 2.As close-up take the pictures, pictures has been enlarged, Detailed dimensions please see the item description.
-  Updated: 2026-02-23T11:21:46Z
+  Updated: 2026-04-20T21:25:36Z
   Vendor: Maiden-Art
   Product Type: Nose rings
   Availability: Available
@@ -6876,7 +6876,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Sf20d71a017ce443b97ed9b0fa000e8f8S_0de45bff-2b4b-4f11-8cd6-05ee65836526.webp?v=1759317413
     Price: €19.90 EUR
 - [Trendy Beads Multilayer Summer Heart Anklet For Woman Bohemian Vintage Footwear Leg Bracelets 2021 Female Foot Jewelry Gifts New](https://www.maiden-art.com/products/trendy-beads-multilayer-summer-heart-anklet-for-woman-bohemian-vintage-footwear-leg-bracelets-2021-female-foot-jewelry-gifts-new)
-  Updated: 2026-02-23T11:21:33Z
+  Updated: 2026-04-20T21:25:36Z
   Vendor: Maiden-Art
   Product Type: anklets
   Availability: Available
@@ -6914,7 +6914,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Hf4023d511e824eaeb8793371e9b0c0a8c_297c3d0a-8f8a-4c04-883e-2df0f017c381.webp?v=1759317459
     Price: €24.90 EUR
 - [Trendy Stainless Steel Multilayer Circle Twist Knot Earrings for Women Texture Mixed Color Gold Plated Statement Earring Bijoux](https://www.maiden-art.com/products/trendy-stainless-steel-multilayer-circle-twist-knot-earrings-for-women-texture-mixed-color-gold-plated-statement-earring-bijoux)
-  Updated: 2026-02-23T11:21:43Z
+  Updated: 2026-04-20T21:25:37Z
   Vendor: Maiden-Art
   Product Type: earrings
   Availability: Available
@@ -7000,7 +7000,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Se3f18ac5e3aa450faaa2c636c44559f9Y.webp?v=1759317503
     Price: €29.90 EUR
 - [Stainless Steel Hoop Earring Women Zirconia Crystal Piercing Ear Daith Helix Tragus Lobe Cartilage Stud Earring Piercing Jewelry](https://www.maiden-art.com/products/stainless-steel-hoop-earring-women-zirconia-crystal-piercing-ear-daith-helix-tragus-lobe-cartilage-stud-earring-piercing-jewelry): Stainless Steel Hoop Earring Women Zirconia Crystal Piercing Ear Daith Helix Tragus Lobe Cartilage Stud Earring Piercing Jewelry Specifications Multi-Function:Septum / Daith / Helix / Rook / Conch / Tragus / Cartilage / Flat / Lobe / Snug Piercing JewelryFeature: High Quality,Hypoallergenic,High Polish,Smooth Outer Design,Comfortable Wearing.Style: Fashion/Chic/HotMaterial:Copper And AAA+ Cubic Zircon/Stainless SteelOccasion: Everyday/Daily/Party/EngagementPacking:1PC not 1PairColors: Silver Color/Gold Color FeedbackPlease do contact us before leaving a Neutral or Negative feedback. As a serious and responsible seller, we will try our best to solve your problem. Hope you like your purchase here. Your comment is very important in our business success. If you are satisfied with your purchase and our service, please take a minute to leave us a positive feedback with an overall Detailed  Rating (DSR) of 5. Note: Rating below 5 may lead us a bad standing situation.
-  Updated: 2026-03-30T23:26:36Z
+  Updated: 2026-04-20T21:25:37Z
   Vendor: Maiden-Art
   Product Type: Hoop earrings
   Availability: Available
@@ -7082,7 +7082,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Sbf8dec3871ee4e7687fe5f8f6967d982R_f27ee201-b30a-42d8-a7f5-94c86d62f93c.webp?v=1759317553
     Price: €24.90 EUR
 - [Clear Rhinestone Beaded Belly Chains For Women Gold Silver Color Metal Beach Bikini Link Chains Waist Body Jewelry Accessory](https://www.maiden-art.com/products/clear-rhinestone-beaded-belly-chains-for-women-gold-silver-color-metal-beach-bikini-link-chains-waist-body-jewelry-accessory): Product InformationItem Type: Belly ChainsMain Stone: NoneTotal Weight: About 11gOccasion:Beach/Daily/Wedding/Business/Engagement/Anniversary/Birthday/Party/GiftGifts for: Friend/Girl Friend/Wife/Lover/Mother/Daughter/SisterSupply: Retail/Wholesale/DropshippingPackage included: 1pc x ChainProduct Pictures Package ShowShipping TimeOccasion ShowJewelry MaintenanceAbout FeedbackReturn & Refund
-  Updated: 2026-02-23T11:21:11Z
+  Updated: 2026-04-20T21:25:38Z
   Vendor: Maiden-Art
   Product Type: Waist chain
   Availability: Available
@@ -7096,7 +7096,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S4f2557aeb0cd4702a2c12d1bb53d83feo.webp?v=1759317564
     Price: €24.90 EUR
 - [4Pcs Simple Alloy Crystal Foot Ring Adjustable Opening Toe Ring For Women Girl Summer Beach Vacation Jewelry Finger Ring](https://www.maiden-art.com/products/4pcs-simple-alloy-crystal-foot-ring-adjustable-opening-toe-ring-for-women-girl-summer-beach-vacation-jewelry-finger-ring)
-  Updated: 2026-02-23T11:21:13Z
+  Updated: 2026-04-20T21:25:38Z
   Vendor: Maiden-Art
   Product Type: Toe rings
   Availability: Available
@@ -7114,7 +7114,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Hab34be6cafd846e6b031e3a9979e66045.webp?v=1759317575
     Price: €24.90 EUR
 - [Ingemark Sexy Flat Snake Chain Waist Belly Belt for Women Summer Beach Bikinis Simple Body Chain Festival Jewelry Accessories](https://www.maiden-art.com/products/ingemark-sexy-flat-snake-chain-waist-belly-belt-for-women-summer-beach-bikinis-simple-body-chain-festival-jewelry-accessories): Item Description Welcome:Looking for the Fashion Jewelry Dropshipping and Wholesale Seller. Win the Future Together. Please Contact Us. Item Style: Waist Chain Condition: 100% Brand New Material: Copper Quantity: 1pc( don't include any other item here ) Color: Gold Color and Silver Color Size: As Picture Size Net Weight:16.9g Package: PP&P Origin: China
-  Updated: 2026-02-23T11:21:22Z
+  Updated: 2026-04-20T21:25:39Z
   Vendor: Maiden-Art
   Product Type: Waist chain
   Availability: Available
@@ -7172,7 +7172,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Saeaaa705a3a549d9afb7a76934c98301E.webp?v=1759317619
     Price: €24.90 EUR
 - [VAGZEB Bohemian NO Piercing Crystal Rhinestone Ear Cuff Wrap Stud Clip Earrings For Women Girl Trendy Earrings Jewelry Bijoux](https://www.maiden-art.com/products/vagzeb-bohemian-no-piercing-crystal-rhinestone-ear-cuff-wrap-stud-clip-earrings-for-women-girl-trendy-earrings-jewelry-bijoux)
-  Updated: 2026-02-23T11:21:25Z
+  Updated: 2026-04-20T21:25:39Z
   Vendor: Maiden-Art
   Product Type: earrings
   Availability: Available
@@ -7274,14 +7274,14 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S22bff03d912e4373822bfecc1f0b648f3.webp?v=1759317671
     Price: €24.90 EUR
 - [Salircon Bohemian Colored Seed Beads Beaded Waist Chain Vintage Multi layered Belly Chain Charming Sexy Summer Body Jewelry](https://www.maiden-art.com/products/salircon-bohemian-colored-seed-beads-beaded-waist-chain-vintage-multi-layered-belly-chain-charming-sexy-summer-body-jewelry)
-  Updated: 2026-02-23T11:20:58Z
+  Updated: 2026-04-20T21:25:40Z
   Vendor: Maiden-Art
   Product Type: Waist chain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S55b7da208c9843faa08c3432e40261d4r.webp?v=1759317673
   Price: €24.90 EUR
 - [Sexy Double Thin Chain Women's Waist Chain Charming Butterfly Stainless Steel Belly Chain Summer Beach Bikini Body Jewelry](https://www.maiden-art.com/products/sexy-double-thin-chain-womens-waist-chain-charming-butterfly-stainless-steel-belly-chain-summer-beach-bikini-body-jewelry)
-  Updated: 2026-02-23T11:20:54Z
+  Updated: 2026-04-20T21:25:40Z
   Vendor: Maiden-Art
   Product Type: Waist chain
   Availability: Available
@@ -7311,7 +7311,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S3c458beba1ae4e2ca82cac36a3492b549.webp?v=1759317708
     Price: €24.90 EUR
 - [Dainty Y2k Ear Piercing Helix Daith Snug Earrings for Women 1PC Cartilage Tragus Clicker Septum Ring With Chain INS Jewelry Gift](https://www.maiden-art.com/products/dainty-y2k-ear-piercing-helix-daith-snug-earrings-for-women-1pc-cartilage-tragus-clicker-septum-ring-with-chain-ins-jewelry-gift)
-  Updated: 2026-02-23T11:20:53Z
+  Updated: 2026-04-20T21:25:41Z
   Vendor: Maiden-Art
   Product Type: earrings
   Availability: Available
@@ -7393,7 +7393,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S19fd9a3b28804a1f98f2909a8281e668u_1f6b7fa0-a60e-4990-8a1e-4681b23d7176.webp?v=1759317750
     Price: €17.90 EUR
 - [Punk Circle Pendant Shiny Rhinestone Stainless Steel Drop Earrings Bilayer Oval Round Rust Proof Party Zircon Huggie Jewelry New](https://www.maiden-art.com/products/punk-circle-pendant-shiny-rhinestone-stainless-steel-drop-earrings-bilayer-oval-round-rust-proof-party-zircon-huggie-jewelry-new)
-  Updated: 2026-02-23T11:20:42Z
+  Updated: 2026-04-20T21:25:41Z
   Vendor: Maiden-Art
   Product Type: earrings
   Availability: Available
@@ -7407,7 +7407,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S93feb9e514ef41ef9d505275edb3b08b5.webp?v=1759317766
     Price: €24.90 EUR
 - [MAYJAM 10ML Lavender Lemongrass Jasmine Vanilla Eucalyptus Rose Lemon Essential Oil For Humidifier Diffuser Candle Making](https://www.maiden-art.com/products/mayjam-10ml-lavender-lemongrass-jasmine-vanilla-eucalyptus-rose-lemon-essential-oil-for-humidifier-diffuser-candle-making): About Our Essential Oil : MAYJAM Pure Plant Extrat Essential Armatherapy Oil No additive, No Fillers, Just Pure Essential oil.Unwavering commitment to the highest quality products. Perfect Essential Oils set for Aromatherapy oils,Oil for diffusers,Humidifier oils,Oil Burners,Spa and Air Purifier. Each essential oils comes with 10ml amber brown bottles. This will keep the oils fresh and help against light degradation. Wonderful Essential oils gift set option,which is fashion enough and would be wonderful to send it to family or friends Package includes:1 x Bottle 10ML MAYJAM Essential OilHow Best To Use These Oils:There are many, many ways to use our Essential Oils, here are just a few...Oil Burners- One of the most popular ways is using them with an oil burner. Adding a few drops to your oil burner will create a lasting beautiful aroma, you can also mix oils to create your own smell.Bath- Adding a few drops of our oils to your bath creates a heavenly, natural and pure aroma, and is proven to be a highly effective way get the most our of essential oils.Massage- Our oils are strong, so please do not use them directly on your skin. Adding a few drops to a carrier oils (such as Grapeseed oil), and then massaging it on to your forehead, palms, neck, back, feet or other affected areas work wonders. Making your own- Many of you like create your own soaps, candles and beauty products, and these oils are perfect for that. Others- Other popular ways apart from the above include, diffusers, on your pillow at night, meditation, car air fresheners and in steam / saunas.Warning:* Do not use essential oil internally.* Do not apply directly to skin; always dilute with carrier oil.* Keep out of reach of children.* Avoid contact with eyes and mucous membranes.* Do not use citrus oils before exposure to UV light.* Use only pure essential oils; avoid synthetic fragrances.* Avoid prolonged exposure without ventilation.* Store essential oils and carrier oils properly to avoid degradation and rancidity.
-  Updated: 2026-04-02T09:27:09Z
+  Updated: 2026-04-20T21:25:42Z
   Vendor: Maiden-Art
   Product Type: Essential oil
   Availability: Available
@@ -7525,7 +7525,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Sbb62ddc4d01746f99213008b4e72a9aah.webp?v=1759317836
     Price: €27.00 EUR
 - [Highlighting&Bronzer Stick Face Brightening Blusher Rouge Concealer Pen Long Lasting Corrector Nose Shadow Contouring Cosmetics](https://www.maiden-art.com/products/highlighting-bronzer-stick-face-brightening-blusher-rouge-concealer-pen-long-lasting-corrector-nose-shadow-contouring-cosmetics): Specification:Shelf life: 3 yearsProduction date: RecentNet content: 6gEffect: Embellish face, lighten face, create soft blushSuitable for: All skin typesProducts include: 1* multifunctional cosmetic stick
-  Updated: 2026-02-16T10:55:52Z
+  Updated: 2026-04-20T21:25:43Z
   Vendor: Maiden-Art
   Product Type: concealer
   Availability: Available
@@ -7555,7 +7555,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Sd7780a537bfe43ca83b6f3d1551ddd82g.webp?v=1759317858
     Price: €19.90 EUR
 - [O.TWO.O Eyeliner Pencil Liquid Eye Liner Waterproof Smudge Proof Quick Drying 12 Hour Wear Ultra Fine Black Eyeliner for Arrows](https://www.maiden-art.com/products/o-two-o-eyeliner-pencil-liquid-eye-liner-waterproof-smudge-proof-quick-drying-12-hour-wear-ultra-fine-black-eyeliner-for-arrows): O.TWO.O NEW Eyeliner - A waterproof liquid liner that use with ease won't smudge. The precise tip is easy to use even for the least experienced.Its highly pigmented formula gives you bold, even, streak free line in a single stroke. ❤ WHY YOU'LL LOVE IT: - Quick-drying formula providing smooth even lines. Lasts up to 12 hours.- Super Water-resistant, smudge-proof and easy to color.- Fine-Tip brush for precise application, easy to control, friendly to beginner.Waterproof Eyeliner Pen：Up to 12hr wear, An eyeliner pen that has a continuous flow, providing smooth even lines, Get the perfect long-lasting cat-eye look with professional Unique makeup Ink eyeliner.Precise Tip: Our ultra precise tip is flexible and Easy to Use; Every stroke is unbelievably fluid for a defined finish; Control the thickness of your lines by pressing down just a touch; Fine and natural, broad and bold, the look is always up to you. Package Included: 1pc EyelinerShelf life: 3 yearsINGREDIENTS: ACRYLATESCOPOLYMER,WATER,STYRENE/ACRYLATES COPOLYMER,CI 77266,1,2 HEXANEDIOL,BUTYLENE GLYCOL,LAURETH-21,ALOEBARBADENSISEXTRACT,METHYLPARABEN,SODIUMDEHYDROACETATE,ETHYLHEXYLGLYCERIN【FREE RETURN SERVICE】: Return for any reason within 15 days（free shipping）Supporting countries: Russia, United States, Spain, France, Brazil, Netherlands, Israel, Poland, United Kingdom, South Korea, Germany, Italy, Canada, Australia, Saudi Arabia, UAE, Chile, Ukraine, Japan, Mexico, Belgium, Czech Republic, Switzerland, Portugal. Complete in one stroke smooth:1. Very fine nib fine hair tip, smooth lines. 2. Waterproof film smart lock sink technology smooth water quick dry film.3. Cool black color rendering dry as you paint. OUTLINE IN ONE STROKE DRAW WELL WITH YOUR HEART ① BALL ANTI-CONDENSATION DESIGN -Automatic stirring to prevent coagulation② WATER SUPPLY DESIGN -Even and stable ink output.③ CARBON BLACK FORMULATION -300 meters smooth and continuous ink. Product Information:Brand:13cm*1cmNet weight:0.5gColor: blackShelf life:3yearsOrigin: Made in China
-  Updated: 2026-02-16T10:55:52Z
+  Updated: 2026-04-20T21:25:43Z
   Vendor: Maiden-Art
   Product Type: eyeliner
   Availability: Available
@@ -7573,7 +7573,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Sf622cf6b8b044e0490c0fc6b6b94f6f7j_56a2b5b5-fce7-480e-a9f1-ac80153c0130.webp?v=1759317881
     Price: €17.00 EUR
 - [9 Colors Waterproof Rose Red Velvet Matte Lipstick Moisturizing Long Lasting Stars Not Easy To Fade Nude Lip Tint Black Lipstick](https://www.maiden-art.com/products/9-colors-waterproof-rose-red-velvet-matte-lipstick-moisturizing-long-lasting-stars-not-easy-to-fade-nude-lip-tint-black-lipstick): Description:Non-stick cup lipstick Can be layered or applied thickly~The matte texture fits the mouth very well. Matte texture, smooth and not drySoft square tube lipstick low saturation matte lipstick lip glossMoisturize soft and delicate, fresh and not greasyThe design is compact and easy to carry.Keep makeup, effective and lastingSpecification: Color: 6 colors optional Applicable people: generalSkin Type: GeneralShelf life: 3 yearsNet Content: 3.5gWeight/Size: 18.5g/2.6*2.2*8cmOrigin : Made in chinaFeatures: long lasting and easy to usequantity: 1pcsPackage Included:1 * lipstickNotes:Due to the difference between different monitors, the picture may not reflect the actual color of the item. We guarantee the style is the same as shown in the pictures. Compare the detail sizes with yours, please allow 1-3cm error, due to manual measurement.Please leaving a message before you give the bad feedback, if the products have some problems.Thanks for your understandings.
-  Updated: 2026-02-16T10:55:52Z
+  Updated: 2026-04-20T21:25:43Z
   Vendor: Maiden-Art
   Product Type: Lipstick
   Availability: Available
@@ -7611,14 +7611,14 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S844d0c64b776455d9f6649658b5ec28cX.webp?v=1759317908
     Price: €19.90 EUR
 - [3-in-1 Cheek Blush Stick Lip Tinted Eyes Cheek Lips Brighten Cream Water-resistant Moisturizing Face Contouring Shadow Blusher](https://www.maiden-art.com/products/3-in-1-cheek-blush-stick-lip-tinted-eyes-cheek-lips-brighten-cream-water-resistant-moisturizing-face-contouring-shadow-blusher): Use this highlighter stick sephora create three-dimensional contour makeup Specification Product Name:Lipstick Blush Eyes 3-in-1 Stick Net weight：6.5gQuantity: 1 pcSize:2.8*2.8*6.5cmApplicable skin type: suitable for a variety of skin typesBest way to use:Use after setting makeupEffect: Velvet smooth texture, easy to spread, rich color, not easy to take off makeup, showing charming lips Description: 1. Have three uses for a stick(1) Blush (Cheek)(2) Eyeshadow (Eyes)(3) Lipstick (Lips)2. Makeup Sweetness Upgrade(1) Retouch the faceEasy to apply, wipe out the makeup three-dimensional glossy feeling.(2) Translucent good complexionEvenly stained, transparent skin melting, to create a sense of light redness.(3) Two textures available◆Slightly Polarised TextureSlightly glossy, for a stunning look.◆Matte textureSoft, natural and elegant.(4) Native RednessA translucent, natural-looking redness that is not too heavy.(5) Refreshing and non-stickyCreamy texture, refreshing and non-sticky, not stuck lines after halo. Features: 1.Long Lasting MakeupNon-dizzy and lose color,Delicate touch，Moist & close to the skin，Appears Veletly makeup2. Stunning Natural EffectNatural color,Like blush on the face,not exaggerated but color rendering.Gel cream texture, simple to get started, light and smooth, it will not fade for a whole day!3.Elegance Goddess FanNot easy to remove and the waterproof effect is very good,push the smudge well, and it can melt well with the skin, and the makeup is perfect About Colors: 01# Red bean (slightly polarised)Gentle and sweet, low-key natural.02 # Red Pear (Matte)Red classic tone, very white.03 # Coral Orange (slightly polarised)Vibrant with the orange fragrance of summer.04#Purple Taro (slightly polarised)Elegant and lovely with a slight sense of playfulness. Package Include: 1pcs*Monochromatic multi-stick Tips: --Due to the differences between different monitors, the picture may not reflect the actual color of the item.--If there is a problem with the product, please leave a message before giving you bad feedback.--Thank you for your understanding.
-  Updated: 2026-02-16T10:55:52Z
+  Updated: 2026-04-20T21:25:44Z
   Vendor: Maiden-Art
   Product Type: Makeup
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Sc7f1f840ecd1491fafbe2cb97a462800Z.webp?v=1759317911
   Price: €19.00 EUR
 - [NCLAGEN Seamless Shorts 4.5" Gym Shorts Woman Scrunch Butt Fitness Sports Short Workout Seamless Leggings Running Yoga bottoms](https://www.maiden-art.com/products/nclagen-seamless-shorts-4-5-gym-shorts-woman-scrunch-butt-fitness-sports-short-workout-seamless-leggings-running-yoga-bottoms): (Note: 1 The color of the actual item may vary slightly due to different lighting and computer monitors; thank you for your understanding 2.May Exist 1-3cm (0.39 in-1.18 in) error of measurement!) UNIT: CM (1 inch = 2.54 cm) (1 cm = 0.394 in.)
-  Updated: 2026-02-16T10:55:52Z
+  Updated: 2026-04-20T21:25:44Z
   Vendor: Maiden-Art
   Product Type: 
   Availability: Available
@@ -7824,7 +7824,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S69600139eb644f8b8afd6bdd7a1b69d88_7fed5ec9-557d-473d-a417-e48236edff71.webp?v=1759318053
     Price: €37.00 EUR
 - [DF Impact matting pleated waist seamless sports fitness trousers](https://www.maiden-art.com/products/df-impact-matting-pleated-waist-seamless-sports-fitness-trousers)
-  Updated: 2026-02-16T10:55:53Z
+  Updated: 2026-04-20T21:25:45Z
   Vendor: Maiden-Art
   Product Type: 
   Availability: Available
@@ -8030,14 +8030,14 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S29ba5ca58fb447f58ba204979170141eY_5c3b0544-efbb-44cd-b77e-a1e30ad68cc8.webp?v=1759318346
     Price: €49.00 EUR
 - [Womens 2 Piece Workout Running Sets,Hot Shot Skort Set Y2K Cropped Tank Top and Pants Outfits Sweatsuits](https://www.maiden-art.com/products/womens-2-piece-workout-running-sets-hot-shot-skort-set-y2k-cropped-tank-top-and-pants-outfits-sweatsuits): Womens 2 Piece Workout Running Sets,Hot Shot Skort Set Y2K Cropped Tank Top and Pants Outfits SweatsuitsWomens 2 Piece Workout Running Sets,Hot Shot Skort Set Y2K Cropped Tank Top and Pants Outfits SweatsuitsWomens 2 Piece Workout Running Sets,Hot Shot Skort Set Y2K Cropped Tank Top and Pants Outfits SweatsuitsWomens 2 Piece Workout Running Sets,Hot Shot Skort Set Y2K Cropped Tank Top and Pants Outfits SweatsuitsWomens 2 Piece Workout Running Sets,Hot Shot Skort Set Y2K Cropped Tank Top and Pants Outfits SweatsuitsWomens 2 Piece Workout Running Sets,Hot Shot Skort Set Y2K Cropped Tank Top and Pants Outfits Sweatsuits
-  Updated: 2026-02-16T10:55:53Z
+  Updated: 2026-04-20T21:25:46Z
   Vendor: Maiden-Art
   Product Type: yoga leggins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S7ccfda8c1b1f49449b155f725e8b7f4de.webp?v=1759318468
   Price: €67.00 EUR
 - [Cross Backless Sporty Set Women 2 Piece Sportswear Short Sleeve Training Suit for Fitness Yoga Wear Female Gym Workout Clothes](https://www.maiden-art.com/products/cross-backless-sporty-set-women-2-piece-sportswear-short-sleeve-training-suit-for-fitness-yoga-wear-female-gym-workout-clothes)
-  Updated: 2026-02-16T10:55:53Z
+  Updated: 2026-04-20T21:25:47Z
   Vendor: MAIDEN-ART
   Product Type: sport suit
   Availability: Available
@@ -8103,14 +8103,14 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Sf794da1ed4d84433afb12b751350b208a_813ec159-ab4e-4ff9-ada8-44c5a02b5109.webp?v=1759318511
     Price: €89.00 EUR
 - [Treadmill Walking Pad for Home 3in1 Folding Under Desk Treadmill 2.5HP Smart Walking Treadmill with APP & LED Display](https://www.maiden-art.com/products/treadmill-walking-pad-for-home-3in1-folding-under-desk-treadmill-2-5hp-smart-walking-treadmill-with-app-led-display): 【Powerful Motor】 The OYAJIA portable treadmills for home powerful 2.5HP quiet motor provides a large carrying capacity of up to 264 LBS capacity,that reaches speeds of up to 12KM/H , with noise levels kept below 45 dB even at maximum power, saving energy while providing a serene workout atmosphere. This walking pad treadmill for home use allows you to enjoy your fitness journey without disturbing your family or neighbors.【Get More Fun from Smart APPs】 You can connect the APPs to our walking pad, which synchronize motion data in real time and get more scientific exercise methods. Start running competitions share with friends anytime, anywhere. There are also constantly updated preset programs and various themed activities, inviting you to unlock more ways to play!【LED Display Console】 The multi-function LED screen of treadmills with handle bar clearly displays time, speed, distance and calories to accurately track your sports performance.foldable treadmill home have P button 12 preset programs provide different intensity of exercise so that you can see your exercise at a glance and achieve different training goals.In addition, it is also equipped with a cup holder, tablet/mobile phone holder, safety key, and armrests to facilitate your exercise.【Wide Running Belt Treadmill】The 5-layer non-slip running belt features a spacious running area(38 x 100 CM), features an advanced frame structure and equipped with a 5-layer non-slip belt,silicone shock absorbers, and cushioning rubber pads.Reduce force rebound for more stable running providing an effective and safe cushion for your knees.walking pad with handle bar can give support and security when you running.【Easy to Assemble and Compact】The small treadmill with handle is compact and lightweight. The portable treadmill with knobs and moving wheels is easy to fold and move, suitable for use in small spaces. Most of the parts of this walking treadmill for home have been assembled. Accessories include lubricating oil, safety key, assembly tools and user manual. You only need to tighten the screws to use this treadmill.Technical DetailsColor: BlackDisplay Type: LEDPackage Dimensions: 114.5 x 89 x 49 cmHorsepower: 2.5 HPMeter: DistancePower Source: Corded ElectricFeatures: BluetoothIncluded Components: TreadmillMaximum Weight Capacity: 120 KilogramsCategory: Unisex – AdultsProduct Dimensions: 114.5 x 89 x 49 cm; 17.3 KgIncluded in the Package:User ManualPower CordTool KitSafety Key
-  Updated: 2026-02-16T10:55:53Z
+  Updated: 2026-04-20T21:25:47Z
   Vendor: MAIDEN-ART
   Product Type: Treadmill Walking Pad for Home
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S058b85571f23473385318e2be1abd19c3.webp?v=1759318512
   Price: €457.00 EUR
 - [1.83'' Waterproof Smart Watch with Message Answer Call Sleep Monitoring Sports Pedometer Information Alerts For iPhone Android](https://www.maiden-art.com/products/1-83-waterproof-smart-watch-with-message-answer-call-sleep-monitoring-sports-pedometer-information-alerts-for-iphone-android)
-  Updated: 2026-02-16T10:55:53Z
+  Updated: 2026-04-20T21:25:48Z
   Vendor: MAIDEN-ART
   Product Type: watch
   Availability: Available
@@ -8140,7 +8140,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S980dcd6a2a6f420c8f857b0e23630b4fb.webp?v=1759576352
     Price: €47.00 EUR
 - [#P2961 Wireless Bluetooth 5.3 Headphones Over Ear Hifi Stereo Headset True Sports With Earphones TF/AUX Music Player with HD Mic](https://www.maiden-art.com/products/p2961-wireless-bluetooth-5-3-headphones-over-ear-hifi-stereo-headset-true-sports-with-earphones-tf-aux-music-player-with-hd-mic): #Fashion Wireless Bluetooth Headphones Over Ear HIFI Stereo Headsets True Sports With Earphones TF/AUX Music Player with HD MicSpeicification:1. Type: Wireless2. BT: V5.33. Microphone: Yes4. Folding Design: convenient storage and easy travel5. Intelligent noise reduction, Skin friendly material6. Charge Time: about 2 hrs7. Battery capacity: 300mAh8. Listening time: about 8 Hours9. Memory card support: YesPacking list:1pc earphone1pc USB cable1pc instruction1pc original box
-  Updated: 2026-02-16T10:55:53Z
+  Updated: 2026-04-20T21:25:48Z
   Vendor: MAIDEN-ART
   Product Type: headphones
   Availability: Available
@@ -8162,7 +8162,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Sd5e13c65dc904de6b9cda77dc58fc54eC.webp?v=1759576419
     Price: €47.00 EUR
 - [Tuya Ivy Smart Planter,Endless Fun Over 49 Rich Expressions,7 smart sensors,AI Chips Make Raising Plants Easy and Fun](https://www.maiden-art.com/products/tuya-ivy-smart-planter-endless-fun-over-49-rich-expressions-7-smart-sensors-ai-chips-make-raising-plants-easy-and-fun): Tuya Ivy Smart Planter,Endless Fun Over 49 Rich Expressions,7 smart sensors,AI Chips Make Raising Plants Easy and Fun
-  Updated: 2026-02-16T10:55:53Z
+  Updated: 2026-04-20T21:25:49Z
   Vendor: MAIDEN-ART
   Product Type: smart planter
   Availability: Available
@@ -8184,7 +8184,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S7bb21c9ae6534aa5a802b5b59f1e4e473.webp?v=1759576694
     Price: €197.00 EUR
 - [Mini Portable Blender Electric Juicer Fruit Mixers Fruit Extractors Smoothies Mixer Multifunctional Juice Maker Machine Blender](https://www.maiden-art.com/products/mini-portable-blender-electric-juicer-fruit-mixers-fruit-extractors-smoothies-mixer-multifunctional-juice-maker-machine-blender): Buyer Questions & Answers 1.How many blades are the product? Answer: 4 blades. 2.How many colors does the product have? Answer: white and pink. All are in stock and can be shipped quickly. 3.Does the product have CE certification? Answer: Yes 4.Can dropshipping? Answer: Yes. You only need to provide the correct information. 5.any ? Answer: There is usually a  for buying five or more in one order. Please contact us for details. 6.Can the logo be customized? Answer: Yes. But you need to buy a lot of quantities at once. 7.Is the bottle glass? Answer:No, it's clear plastic, it's eco-friendly and heat-resistant. BPA free Portable Electric Juicer Blender Usb Mini Fruit Mixers Juicers Fruit Extractors Food Milkshake Multifunction Juice Maker Machine Parameter: Product name: portable electric juicer cup Product capacity: 350ml Color: pink, white Product weight: 490g Product model:214 Product size: 82mm* 82mm' 218mm Input: DC5V-1A Battery voltage: 7.4V-1400mAh Rated power: 50W Packing list: 1*Electric Juicer 1*Base 1.Please kindly note this product is wireless charge,and it is with the 4 blades,sincerely thanks for your kindly understand,thanks. 2.The product capacity is 350 ML,please note it,thanks. Electric Juicer Fruit Cup 350ml Portable Mini Fruit Blender
-  Updated: 2026-02-16T10:55:54Z
+  Updated: 2026-04-20T21:25:49Z
   Vendor: CREAROMA Choice Store
   Product Type: portable juicer
   Availability: Available
@@ -8198,7 +8198,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S884eee48fbd944aaa92f510107e8b0c7j.webp?v=1759576746
     Price: €75.00 EUR
 - [Essential oil](https://www.maiden-art.com/products/essential-oil): Net content: 10ml Uses: spa, aromatherapy, bathing, massage, general purpose Product category: single essential oil Main ingredients: lavender, sweet orange, lemon, mint, tea tree, frankincense, rose, etc. Extraction method: water/steam distillation Efficacy: shrink pores, relax, moisturize, lift and tighten, maintain, moisturize, massage, hydrate Nursing site: body, general Skin Type: General Uses: foot bath, spa, aromatherapy, bathing, massage, general purpose Essential oil psychological effect: relieve stress Essential Oil Body Efficacy: Promotes Metabolism
-  Updated: 2026-03-15T02:24:58Z
+  Updated: 2026-04-20T21:25:49Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
@@ -8272,7 +8272,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/e0a5d63f-6261-4e02-8d98-dbd636b0c96f.jpg?v=1773482426
     Price: €25.00 EUR
 - [Peach Vanilla Perfume](https://www.maiden-art.com/products/peach-vanilla-perfume): Product information: Ingredients: water, denatured ethanol, PEG-40 hydrogenated castor oil, raspberry fruit extract, peach extract and vanilla extract. Size Information: Size: 2x2x8.5cm Packing list: Perfume *1
-  Updated: 2026-02-16T10:55:54Z
+  Updated: 2026-04-20T21:25:50Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
@@ -8290,21 +8290,21 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/f56ad039-e593-44e0-992a-d99bc0f962db_1a4869dc-96a6-4081-89f7-9a1e7bc5c406.jpg?v=1759586920
     Price: €17.00 EUR
 - [Vanilla Perfume](https://www.maiden-art.com/products/vanilla-perfume): Product information: Ingredients: water, denatured ethanol, PEG-40 hydrogenated castor oil, vanilla extract, musk extract, caramel. Size Information: Size: 4x4x8.2cm Packing list: Perfume *1
-  Updated: 2026-02-16T10:55:54Z
+  Updated: 2026-04-20T21:25:50Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/e1d1a6db-ea3c-4d60-b8c0-e273eb42643a.jpg?v=1759586978
   Price: €17.00 EUR
 - [Argan Oil](https://www.maiden-art.com/products/argan-oil): Product information: Ingredients: mineral oil, glycerin, Moroccan nut oil, rosemary leaf oil, vitamin E (tocopherol). Size Information: Size: 5.9*14.1CM Packing list: Essential oil *1
-  Updated: 2026-02-16T10:55:54Z
+  Updated: 2026-04-20T21:25:51Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/249dc0d3-a3fc-4951-b79d-0aa1125c84b1.jpg?v=1759587019
   Price: €51.91 EUR
 - [Daddy Breathable Summer Genuine Leather Thick Bottom Women's Clothing Argan Sneaker](https://www.maiden-art.com/products/daddy-breathable-summer-genuine-leather-thick-bottom-womens-clothing-argan-sneaker): Product information: Pattern: solid color Applicable sports: Universal Lining material: Mesh Color: yellow, green, blue Upper height: low top Heel height: mid heel (3-5CM) Heel shape: flat heel Size: 36, 37, 38, 39, 40, 41 Sole craft: viscose shoes Cutting depth: shallow mouth (less than 7cm) Sole material: rubber Popular elements: Cross shoulder straps Style: Casual Applicable scenarios: Daily Toe holder shape: round head Shoe Upper material: artificial pu Applicable Gender: Female Applicable age:  Function: height increasing, breathable Packing list: Shoe *1Pair Product Image:
-  Updated: 2026-02-16T10:55:54Z
+  Updated: 2026-04-20T21:25:51Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
@@ -8382,7 +8382,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/f9603454-e4e3-4512-8459-630035fc6e1a.jpg?v=1759587936
     Price: €47.00 EUR
 - [Gradient Rainbow Platform Daddy Shoes Women](https://www.maiden-art.com/products/gradient-rainbow-platform-daddy-shoes-women): Product information: Size: 35 ~ 40 Color: Blue, orange, pink Upper: Super fiber + breathable mesh Inner lining: Breathable super fiber Sole: Soft rubber sole Bottom height: 4.5cm
-  Updated: 2026-02-16T10:55:55Z
+  Updated: 2026-04-20T21:25:52Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
@@ -8460,7 +8460,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/523587622130_e2c62884-f65b-4043-821d-b1fa28a55d81.jpg?v=1759588003
     Price: €48.00 EUR
 - [Luminous super fire daddy shoes women trend sneakers](https://www.maiden-art.com/products/luminous-super-fire-daddy-shoes-women-trend-sneakers): Product Category: Daddy Shoes Style: Korean Applicable gender: female Upper Material: Artificial PU Popular elements: sponge cake with color matching Toe shape: round head Heel height: flat heel
-  Updated: 2026-02-16T10:55:55Z
+  Updated: 2026-04-20T21:25:52Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
@@ -8514,7 +8514,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/12601473926966.jpg?v=1759588219
     Price: €48.00 EUR
 - [Winter Oversized Coat Women Puffer Jacket Thicker](https://www.maiden-art.com/products/winter-oversized-coat-women-puffer-jacket-thicker): Season: winter Style: normal Age: age between 18-35 Closing type: Zipper Model: TP119 Sleeve length (cm): Full Material: Polyester Size Length Bust Shoulder Sleeve ONE SIZE 75 120 58 54 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images.
-  Updated: 2026-02-16T10:55:55Z
+  Updated: 2026-04-20T21:25:52Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
@@ -8532,7 +8532,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/6082929137939.jpg?v=1759588539
     Price: €378.56 EUR
 - [Faux lambswool oversized jacket coat Winter black warm hairly jacket Women autumn outerwear](https://www.maiden-art.com/products/faux-lambswool-oversized-jacket-coat-winter-black-warm-hairly-jacket-women-autumn-outerwear): Size（cm） S M L XL XXL 3XL Bust 116 120 124 128 132 136 Shoulder Width 66 67 68 69 70 71 Sleeve Length 44 45 46 47 48 49 Length 71 72 73 74 75 76
-  Updated: 2026-02-16T10:55:55Z
+  Updated: 2026-04-20T21:25:53Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
@@ -8730,7 +8730,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/1601020512802.jpg?v=1759591600
     Price: €77.00 EUR
 - [Women Oversized Check Button Shirt Jacket](https://www.maiden-art.com/products/women-oversized-check-button-shirt-jacket): 🌟 Women’s Oversized Check Button Shirt Jacket - Your New Go-To Style Staple! Elevate your wardrobe with our Women’s Oversized Check Button Shirt Jacket! Crafted from lightweight polyester, this versatile piece combines style and comfort, making it perfect for casual outings or cozy nights in. The loose fit and collage/splicing design add a trendy touch, ensuring you stand out effortlessly. Available in chic colors like black, khaki, green, blue, and a classic black-and-white check, this shirt jacket is sure to become a customer favorite! ✨ Key Features: 👗 **Material:** Soft and breathable polyester for all-day comfort 🌈 **Style:** Casual, perfect for layering or standalone wear 📏 **Fit:** Loose and relaxed for easy movement 🎨 **Colors Available:** Black, Khaki, Green, Blue, Black & White 📏 Size Information: Asian Size Recommended for European/American Sizes S XS-S M S-M L M-L XL L-XL 💬 Customer Reviews: "Absolutely love this shirt jacket! It’s perfect for layering and feels so comfy!" - Jenna R. "Great quality and fit! I receive compliments every time I wear it!" - Sarah L. 🛒 Ready to Transform Your Wardrobe? Don't miss out on the chance to own this stylish and comfortable Women’s Oversized Check Button Shirt Jacket. Click “Add to Cart” now and step up your fashion game!
-  Updated: 2026-02-16T10:55:55Z
+  Updated: 2026-04-20T21:25:54Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
@@ -8832,7 +8832,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/f6090aed-522f-4369-8aeb-07a1fcd357d0.jpg?v=1760691703
     Price: €67.00 EUR
 - [Cardigan sweater women jacket](https://www.maiden-art.com/products/cardigan-sweater-women-jacket): ✨ Embrace Elegance with Our Women's Cardigan Sweater Jacket! ✨ Elevate your style with our stunning Women's Cardigan Sweater Jacket! Crafted with the perfect blend of angora rabbit fur and acrylic, this luxurious piece not only keeps you warm but also enhances your outfit with a touch of sweetness. Its V-neck collar and long sleeves provide a flattering silhouette, making it an essential addition to your wardrobe for any occasion. 🌟 Key Features: Material: Soft and cozy chemical fiber blend with 51%-70% acrylic and 30%-50% angora rabbit fur. Design: Delightful letter pattern with a moderate thickness for year-round wear. Construction: Durable computerized flat knitting technology. Style: Sweet and loose-fitting cardigan, perfect for layering. Length: Medium length (67cm), ideal for pairing with jeans or skirts. 📏 Specifications: Size Length (cm) Bust (cm) Shoulder (cm) Sleeve (cm) One Size 67 130 54 60 💬 Customer Reviews: "Absolutely love this cardigan! It's so soft and comfortable, perfect for layering!" - Sarah K. "The quality is outstanding! I've received so many compliments!" - Emily R. 🛒 Don't Miss Out! Experience the blend of comfort and style with our Women's Cardigan Sweater Jacket. Order now and transform your wardrobe with this must-have piece!
-  Updated: 2026-02-16T10:55:55Z
+  Updated: 2026-04-20T21:25:54Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
@@ -8850,7 +8850,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/583544755143.jpg?v=1759589556
     Price: €89.00 EUR
 - [Vintage Harajuku Jacket Hip Hop Loose Jacket Women](https://www.maiden-art.com/products/vintage-harajuku-jacket-hip-hop-loose-jacket-women): Product information: Thickness: medium Pattern: Letters Fabric name: Polyester Fiber Color: purple, khaki, Black Sleeve type: regular sleeve Main fabric composition: Polyester Fiber (polyester) Size: S,M,L,XL,XXL Version: Loose Length: ordinary (50cm Applicable Gender: Female Style type: Street hipster Sleeve length: long sleeve Popular elements: Buttons Style: hip hop style Craft: embroidery/embroidery Size: Note: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Jacket *1 Product Image:
-  Updated: 2026-02-16T10:55:55Z
+  Updated: 2026-04-20T21:25:54Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
@@ -8916,7 +8916,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/5cddfd6f-eebf-4e63-9d72-1816ed3dd897_d05c79a9-59a1-42d9-9b7e-1575fbade564.jpg?v=1759590082
     Price: €57.00 EUR
 - [Short Loose Jacket Coat Women](https://www.maiden-art.com/products/short-loose-jacket-coat-women): ✨ Short Loose Jacket Coat for Women - Your New Wardrobe Essential! ✨ Elevate your style effortlessly with our Short Loose Jacket Coat. Perfect for a casual day out or layered over your favorite dress, this versatile jacket combines chic design with ultimate comfort. Made with high-quality polyester, it drapes beautifully and feels soft against your skin, making it an instant favorite among fashion enthusiasts! 🌟 Key Features: 🔸 **Stylish Color Options:** Available in elegant Brown and Beige Brown to match any outfit. 🔸 **Comfort Fit:** Loose version with long regular sleeves for a relaxed yet polished look. 🔸 **Versatile Sizing:** Sizes S, M, L available; refer to our size chart for the perfect fit! 📏 Specifications: Color Brown, Beige Brown Sleeve Type Regular Sleeve Main Fabric Polyester (Polyester Fiber) Size Options S, M, L Version Loose Sleeve Length Long Sleeve 🗣️ Customer Reviews: “I absolutely love this jacket! It’s so comfortable and goes with everything.” - Sarah T. 🛒 Don't Wait, Grab Yours Now! Transform your wardrobe today with our Short Loose Jacket Coat. Whether you're running errands or heading out for a night with friends, this jacket is your go-to choice for effortless style. Order now and experience the perfect blend of comfort and chic!
-  Updated: 2026-02-16T10:55:55Z
+  Updated: 2026-04-20T21:25:55Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
@@ -8958,7 +8958,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/0a0eae56-208b-4542-9423-d6c207bd8b0a.jpg?v=1759590471
     Price: €87.00 EUR
 - [4 Pack New Style Hollow-Out Tie-Dye High-Waisted Tummy-Control Yoga Pants](https://www.maiden-art.com/products/4-pack-new-style-hollow-out-tie-dye-high-waisted-tummy-control-yoga-pants): ✨ Transform Your Workout with Our 4 Pack New Style Hollow-Out Tie-Dye High-Waisted Tummy-Control Yoga Pants! ✨ Elevate your fitness wardrobe with these stunning yoga pants that blend fashion, comfort, and functionality. Designed for the modern active woman, these pants offer the perfect tummy control while embracing your curves. Whether you're hitting the gym, practicing yoga, or lounging at home, these pants will become your go-to choice for every occasion. 🌟 Key Features 🌟 Fashion-Forward Design: Unique hollow-out tie-dye pattern that turns heads while providing breathable comfort. Ultimate Tummy Control: High-waisted style offers a flattering fit that shapes and supports your body. 4-Pack Superior Value: Get four stylish pairs at an unbeatable price—perfect for mixing and matching! All-Day Versatility: Ideal for workouts, casual outings, or relaxing at home without sacrificing style. Thoughtful Functional Details: Features such as hidden pockets and moisture-wicking fabric enhance your active lifestyle. 📋 Specifications 📋 Material: 80% Polyester, 20% Spandex Sizes Available: S, M, L, XL Care Instructions: Machine wash cold, tumble dry low 🗣️ Customer Reviews 🗣️ “These yoga pants are a game-changer! They fit like a dream and make me feel confident during my workouts!” - Jane D. “I love the tie-dye design! Perfect for both yoga and casual wear. Highly recommend!” - Maria T. 🚀 Don’t Wait – Grab Your 4 Pack Today! 🚀 Experience comfort and style like never before. Click below to add this must-have yoga pants set to your cart and transform your activewear collection!
-  Updated: 2026-02-16T10:55:56Z
+  Updated: 2026-04-20T21:25:55Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
@@ -9024,7 +9024,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/162a161b-9614-4e8c-a25d-ecc9117ce780.jpg?v=1759591629
     Price: €382.43 EUR
 - [Original Lenovo LP75 TWS Bluetooth V5.3 Headphones Wireless LED Digital Display Earphones Noise Reduction Waterproof Headset New](https://www.maiden-art.com/products/original-lenovo-lp75-tws-bluetooth-v5-3-headphones-wireless-led-digital-display-earphones-noise-reduction-waterproof-headset-new): Lenovo Original LP75 TWS 5.3 Bluetooth Wireless Earphones LED Noise Reduction 2023 New More FAQ.Please check it at the end. Photos From LenovoFans Feedback New Upgraded Over-Ear Sports Earphones NO.1 Enjoy: ENDURANCE | IPX5 PROOF | NO DELAY | NOISE REDUCTION | ENDURANCE | DIGITAL DISPLAY NO.2 EXPERIENCE: Acoustic Technology Leaps Forward:Low Frequency Curve is Significantly lmproved NO.3 STEADY: Design for Sports:With Flexible Ear Hooks Silicone Non-slip Ear Hooks NO.4 COMFORTABLE: HD Calls Intelligent Noise Reduction NO.5 WATERPROOF: IPX5 Waterproof & Sweatproof NO.6 COMFORTABLE:  grade material comfortable to wear NO.7 LOW DELAY: Synchronization of Audio and Video | Gaming Low Latency NO.8 48 ENDURANCE: Powerful Battery Life Smart LED Digital Display 6H Usage Time | 1H Charging Time | 300mAh Battery Compartment Capacity Feature: 1.[Upgraded Acoustic Technology / Enhanced Low-Frequency Curve]: Leap in sound quality with significantly improved bass depth for an immersive music experience. 2.[Sports Design / Flexible Silicone Anti-Slip Ear Hooks]: Designed for active lifestyles with secure silicone ear hooks that stay in place during workouts. 3.[HD Calls / Intelligent Noise Reduction]: Built-in intelligent noise reduction ensures crystal-clear calls, even in noisy environments. 4.[IPX5 Waterproof & Sweatproof / -Grade Comfort]: Sweat and rain-resistant with -grade material for a secure and pressure-free fit. 5.[Audio and Video Sync / Gaming Low Latency]: Low-latency Bluetooth technology delivers perfect audio-video synchronization for immersive gaming. 6.[Powerful Battery Life / Smart LED Digital Display]: Enjoy extended battery life with a smart LED display to monitor power levels anytime, anywhere. Specification [Model]: Lenovo LP75 [Bluetooth Version]: V5.3 [Speak Unit]: 10 mm [Battery capacity]: 55mAh [Usage Time]：About 8 hours（Earphones） [Charging Time]: About 1 hour（Earphones） [Frequency Range]: 2.402-2.480KHz [Transmission Distance]: Up to 10 meters / 33 feet [Charging Compartment Battery Capacity]：400mAh What's in the box 2*[Bluetooth Earphones] 1*[Charging Case] 1*[USB Cable] 1*[User Manual] FAQ 1. Are they comfortable while wearing? Yes. The headphones are sized to fit most people's ear size and provide more convenience while maintaining comfort. 2. Can I activate Siri voice controls with these headphones? Yes, you could activate Siri by long pressing the left earphone Button for 2 seconds. 3.Is the original Lenovo earphone? 100% Lenovo original earphone. 4. How do you answer a call? You could answer the call by double-clicking the left or right earphone, long press the left or right earphone for two seconds to reject the call, and double-click the left or right earphone to hang up 5. Do they pair automatically with the phone or do I have to connect manually each time? Yes, of course. It will automatically connect with your device after first-time use. 6. How long does it take to fully charge? Generally, 1 hours is enough to get it fully charged for earphones and 1.5 hour for earphones compartment. 7. Does this have a built-in microphone? Yes, a built-in microphone is made for clear talks. 8. It says they're waterproof, can you swim with them? No. It's just sweatproof. We don't recommend swimming with them. 9. Is this sound leak serious? As long as the volume is not the maximum, there will be no leakage of sound. As for the health of the ear, you should also avoid using the maximum volume for a long time. 10. What are the advantages of this open ear headphones and is it worth buying? Lenovo's latest design gaming earphones in 2023.Dual mode for music/game, custom gaming chip, low latency for gaming, comfortable to wear, AAC HD audio decoding
-  Updated: 2026-02-16T10:55:56Z
+  Updated: 2026-04-20T21:25:56Z
   Vendor: MAIDEN-ART
   Product Type: headphones
   Availability: Available
@@ -9098,76 +9098,76 @@
 ## Collections
 
 - [All Fashion Products - Maiden-Art](https://www.maiden-art.com/collections/fashion-products): All Fashion Products Maiden-Art style described by VOGUE ITALIA  Fashion Products: "Her creations  - Maiden-Art
-  Updated: 2026-04-16T13:04:48Z
-  Total Products: 481
+  Updated: 2026-04-20T20:11:59Z
+  Total Products: 488
 - [Online gift cards - Maiden-Art](https://www.maiden-art.com/collections/online-gift-cards): Why Choose Online Gift Cards? Shopping for someone else but not sure what to give m? Give m  - Maiden-Art
-  Updated: 2026-04-08T20:49:07Z
+  Updated: 2026-04-20T20:12:00Z
   Total Products: 2
 - [New Arrivals - Maiden-Art](https://www.maiden-art.com/collections/new-arrivals): Discover Our New Arrivals You will find the latest releases from Maiden Art here. We specialise in  - Maiden-Art
-  Updated: 2026-04-16T13:05:08Z
-  Total Products: 445
+  Updated: 2026-04-20T20:12:00Z
+  Total Products: 452
 - [Spently - Recommended Products - Maiden-Art](https://www.maiden-art.com/collections/recommended-products): Recommended Products at Spently Recommended products This collection is used by the Spently app, to  - Maiden-Art
-  Updated: 2026-04-16T13:05:02Z
-  Total Products: 469
+  Updated: 2026-04-20T12:31:26Z
+  Total Products: 476
 - [Mindful Chic Sustainable Fashion - Maiden-Art](https://www.maiden-art.com/collections/mindful-chic-sustainable-fashion): Mindful Chic Sustainable Fashion Mindful Chic Sustainable Fashion. Indulge  senses and elevate  - Maiden-Art
-  Updated: 2026-04-16T13:05:08Z
-  Total Products: 436
+  Updated: 2026-04-20T20:12:00Z
+  Total Products: 443
 - [Jewelry - Maiden-Art](https://www.maiden-art.com/collections/personalized-jewelry-self-love-confidence): Jewelry Collections Discover the perfect jewelry to celebrate self-love and boost confidence. Our  - Maiden-Art
-  Updated: 2026-04-08T20:49:07Z
-  Total Products: 115
+  Updated: 2026-04-20T20:12:00Z
+  Total Products: 116
 - [Natural Skincare - Maiden-Art](https://www.maiden-art.com/collections/natural-skincare-self-love-skincare-collection-luxury-care): Embrace the Benefits of Natural Skincare Discover Maiden-Art's Self Love Skincare Collection, a  - Maiden-Art
-  Updated: 2026-04-16T13:05:26Z
+  Updated: 2026-04-20T20:12:00Z
   Total Products: 39
 - [Scented Candles - Maiden-Art](https://www.maiden-art.com/collections/scented-candles-mindfulness-meditation-candle-collection): Explore Our Scented Candles Collection Scented Candles: Immerse yourself in tranquility with  - Maiden-Art
-  Updated: 2026-04-08T20:49:08Z
+  Updated: 2026-04-20T20:12:00Z
   Total Products: 8
 - [Vitamins Supplements - Maiden-Art](https://www.maiden-art.com/collections/mindfulness-meditation-vitamins-supplements-collection): Boost Your Health with Vitamins  Elevate your well-being with Maiden-Art's Vitamins &amp;  - Maiden-Art
   Updated: 2025-12-29T10:33:36Z
   Total Products: 22
 - [Ebooks - Maiden-Art](https://www.maiden-art.com/collections/self-love-mindfulness-ebooks-collection): Understanding  and Their Impact on Reading  : Dive into self-discovery with Maiden-Art's  - Maiden-Art
-  Updated: 2026-04-08T20:49:08Z
+  Updated: 2026-04-20T20:12:01Z
   Total Products: 9
 - [Apparel - Maiden-Art](https://www.maiden-art.com/collections/apparel-self-love-mindfulness-clothes-accessories-collection): Explore Our Premium Apparel Collection Elevate your style and spirit with Maiden-Art's Clothes &amp;  - Maiden-Art
-  Updated: 2026-04-13T12:21:08Z
-  Total Products: 165
+  Updated: 2026-04-20T20:12:01Z
+  Total Products: 171
 - [UpOrder - Recommended Products - Maiden-Art](https://www.maiden-art.com/collections/spently_products-recommended-products): Recommended Products This collection is used by the UpOrder app, to make product recommendations in  - Maiden-Art
-  Updated: 2026-04-16T13:05:02Z
-  Total Products: 469
+  Updated: 2026-04-20T12:31:26Z
+  Total Products: 476
 - [Natural Makeup - Maiden-Art](https://www.maiden-art.com/collections/natural-makeup-for-mindful-fashionistas-clean-beauty-for-confidence-self-love): Natural Makeup Discover our collection of natural makeup for mindful fashionistas at Maiden-Art.  - Maiden-Art
-  Updated: 2026-04-08T20:49:08Z
+  Updated: 2026-04-20T20:12:01Z
   Total Products: 36
 - [Home & Living - Maiden-Art](https://www.maiden-art.com/collections/home-living-for-mindful-fashionistas-eco-friendly-decor-self-love-essentials): Explore Our Home &amp; Living Collection Transform your space with our eco-friendly home &amp;  - Maiden-Art
-  Updated: 2026-04-16T13:05:08Z
+  Updated: 2026-04-20T20:12:01Z
   Total Products: 41
 - [Fashion Accessories - Maiden-Art](https://www.maiden-art.com/collections/fashion-accessories): Discover the Best Fashion Accessories Complete your look with our collection of accessories for  - Maiden-Art
-  Updated: 2026-04-08T20:49:09Z
+  Updated: 2026-04-20T20:12:01Z
   Total Products: 46
 - [UpOrder Products - Recommended Products - Maiden-Art](https://www.maiden-art.com/collections/spently_products-uporder-products): UpOrder Products Explore the Best UpOrder Products This collection is used by the UpOrder app, to  - Maiden-Art
-  Updated: 2026-04-16T13:05:02Z
-  Total Products: 469
+  Updated: 2026-04-20T12:31:26Z
+  Total Products: 476
 - [Holiday Gift Guide - holiday gift ideas - Maiden-Art](https://www.maiden-art.com/collections/holiday-gift-guide-holiday-gift-ideas): Best Holiday Gift Ideas Explore Maiden-Art's Holiday Gift Guide 2024 for one-of-a-kind clothes,  - Maiden-Art
-  Updated: 2026-04-08T20:49:09Z
+  Updated: 2026-04-20T20:12:02Z
   Total Products: 46
 - [Catalog - online catalog - Maiden-Art](https://www.maiden-art.com/collections/all-online-catalog): Explore Our Online Catalog for a Seamless Shopping Experience What is an Online Catalog? An online  - Maiden-Art
-  Updated: 2026-04-16T13:05:02Z
-  Total Products: 561
+  Updated: 2026-04-20T20:12:02Z
+  Total Products: 568
 - [UpOrder - Recommended Products - Maiden-Art](https://www.maiden-art.com/collections/spently_products): This collection is used by the UpOrder app, to make product recommendations in your Shopify  - Maiden-Art
-  Updated: 2026-04-16T13:05:02Z
-  Total Products: 469
+  Updated: 2026-04-20T12:31:26Z
+  Total Products: 476
 - [Valentine's Day Collection - Maiden-Art](https://www.maiden-art.com/collections/valentine-s-day-collection): Discover Our Valentine's Day Collection Discover Maiden-Art’s Valentine's Day Collection:  - Maiden-Art
-  Updated: 2026-04-08T20:49:09Z
+  Updated: 2026-04-20T20:12:02Z
   Total Products: 26
 - [Beach Collection](https://www.maiden-art.com/collections/self-love-beach-collection-bold-unique-swimwear-for-rebel-hearts-maiden-art): Discover the Self Love Beach Collection at Maiden-Art — bold bikinis and one-piece swimsuits designed for rebel hearts who love themselves loudly. Embrace summer with empowering prints, ethical handmade quality, and vibrant self-love vibes. Shop now and shine like the summer sun!
-  Updated: 2026-04-10T12:47:28Z
-  Total Products: 33
+  Updated: 2026-04-20T20:12:02Z
+  Total Products: 34
 - [Faire Smart Collection (Do Not Edit)](https://www.maiden-art.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire to support product performance reporting on Shopify. Please do not modify or delete this collection, as it is used for analytics and sales insights.
-  Updated: 2026-04-16T13:05:03Z
-  Total Products: 561
+  Updated: 2026-04-20T12:31:26Z
+  Total Products: 568
 - [Secret Toys - Luxury Design](https://www.maiden-art.com/collections/secret-toys-luxury-design): Secret Toys – Where Desire Meets Elegance Step into the world of Secret Toys, where luxury and intimacy intertwine. Our curated collection of high-end  toys transforms personal pleasure into an art form, blending exquisite design with premium materials. Each piece is crafted to elevate your sensual experiences, offering sophistication, discretion, and indulgence in equal measure. From elegantly minimalist vibrators to intricately designed couples’ toys, Secret Toys is where your private desires meet unparalleled quality and refinement. Indulge in your fantasies with confidence—because luxury isn’t just seen; it’s felt.
-  Updated: 2026-04-10T12:35:57Z
+  Updated: 2026-04-20T20:12:02Z
   Total Products: 6
 - [Self-Love Fashion](https://www.maiden-art.com/collections/self-love-fashion)
-  Updated: 2026-04-08T20:49:09Z
+  Updated: 2026-04-20T20:12:02Z
   Total Products: 0
 
 ## Blogs
@@ -9263,6 +9263,14 @@
     Tags: aab-auto, ai-auto-blog
   - [Wear Confidence Daily with Personalized Self Love Jewelry](https://www.maiden-art.com/blogs/news/wear-confidence-daily-with-personalized-self-love-jewelry)
     Updated: 2026-03-31T07:02:28Z
+    Author: Maristella Colombo
+    Tags: aab-auto, ai-auto-blog
+  - [Harness Confidence with Personalized Self Love Jewelry](https://www.maiden-art.com/blogs/news/harness-confidence-with-personalized-self-love-jewelry)
+    Updated: 2026-04-21T07:02:24Z
+    Author: Maristella Colombo
+    Tags: aab-auto, ai-auto-blog
+  - [Unlock Confidence with Personalized Self Love Jewelry](https://www.maiden-art.com/blogs/news/unlock-confidence-with-personalized-self-love-jewelry)
+    Updated: 2026-04-24T07:02:56Z
     Author: Maristella Colombo
     Tags: aab-auto, ai-auto-blog
 
