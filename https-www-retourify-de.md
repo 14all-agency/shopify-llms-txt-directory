@@ -10,7 +10,7 @@
 - Contact Email: a.motschenbacher@retourify.de
 - Contact Phone: +4995116094240
 - Address: Geisfelder Straße 16, 96050 Bamberg
-- Updated At: 2026-04-19T00:00:48.074Z
+- Updated At: 2026-04-27T00:00:48.860Z
 
 ## Products
 
@@ -120,7 +120,7 @@
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/usb-ladegerat-netzteil-stecker-5v1a-slim-usb-netzstecker-steckdosenadapter-schwarz-oder-weiss-neuware-759131.webp?v=1748691132
   Price: 4,99 € EUR
 - [Riesiges Memory-Spiel / 20 x 20 cm große Karten / draußen und drinnen // B-Ware günstig bei Retourify aus Bamberg](https://www.retourify.de/products/riesiges-memory-spiel-ca-21-5-x-21-5-cm-fur-draussen-und-drinnen-neuware): Outdoor Memory-Spiel | B-Ware: Riesige 20 x 20 cm Karten, wetterfest & abwischbar. Perfekt für drinnen und draußen. Kaufe jetzt bei Retourify, der B-Ware-Quelle!
-  Updated: 2026-03-03T01:02:29Z
+  Updated: 2026-04-22T20:56:51Z
   Vendor: Mister Gadget
   Product Type: Freizeit - Spiel und Spaß
   Availability: Available
@@ -578,13 +578,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/meto-turn-o-matic-teleskoprohr-set-fur-ticketspender-fs902-neuware-8160089.jpg?v=1758788344
   Price: 69,95 € EUR
-- [Design Esszimmerstuhl Grau 2er Set – Strukturstoff mit Armlehnen – Metall schwarz – Stuhl CARO 393642 // TOP B Ware günstig bei Retourify aus Bamberg](https://www.retourify.de/products/esszimmerstuhl-grau-2er-set-strukturstoff-mit-armlehnen-metall-schwarz-stuhl-caro-393642-b-ware): Design Esszimmerstuhl Grau 2er Set – Strukturstoff mit Armlehnen – Metall schwarz – Stuhl CARO 393642 // TOP B Ware hier bestellen | Geprüfte B Ware und Retouren - jetzt beim Retourenwahnsinn aus Franken kaufen!
-  Updated: 2026-02-26T07:18:08Z
-  Vendor: Salesfever
-  Product Type: Esszimmerstühle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/design-esszimmerstuhl-grau-2er-set-strukturstoff-mit-armlehnen-metall-schwarz-stuhl-caro-393642-top-b-ware-8660425.jpg?v=1758788350
-  Price: 99,95 € EUR
 - [Orbegozo ES 5130 LED Kosmetikspiegel – 5x Vergrößerung & Dimmbar](https://www.retourify.de/products/orbegozo-schminspiegel-normale-und-5-fache-vdergosserung-led-licht-neuware): Erleben Sie präzise Kontrolle und Komfort mit dem Orbegozo ES 5130 LED Kosmetikspiegel. Top Ausleuchtung und 5x Vergößerung für perfekte Pflege. Jetzt shoppen!
   Updated: 2026-03-22T18:28:34Z
   Vendor: Orbegozo
@@ -663,13 +656,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/gartengluck-rasenbeluftungsschuhe-einstellbar-ab-gr-37-neuware-7599383.jpg?v=1758788354
   Price: 16,95 € EUR
-- [Secret Spring Magisches Kissen Nackenkissen / inkl. Ersatzbezug // Neuware günstig bei Retourify aus Bamberg](https://www.retourify.de/products/secret-spring-nackenkissen): Secret Spring Magisches Kissen Nackenkissen / inkl. Ersatzbezug // Neuware hier bestellen | Geprüfte B Ware und Retouren - jetzt beim Retourenwahnsinn aus Franken kaufen!
-  Updated: 2026-03-22T18:28:35Z
-  Vendor: HSP Plus
-  Product Type: Nackenkissen
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/secret-spring-magisches-kissen-nackenkissen-inkl-ersatzbezug-neuware-6558952.jpg?v=1758787329
-  Price: 19,95 € EUR
 - [ABELLA Arte Gemälde auf Leinwand Aquarell-Optik Holzrahmen 80x80cm // Neu günstig bei Retourify](https://www.retourify.de/products/abella-arte-gemalde-auf-leinwand-aquarell-optik-holzrahmen-80x80cm-neuware): ABELLA Arte Gemälde auf Leinwand Aquarell-Optik Holzrahmen 80x80cm // Neuware hier bestellen | Geprüfte B Ware und Retouren - jetzt beim Retourenwahnsinn aus Franken kaufen!
   Updated: 2026-02-26T07:18:21Z
   Vendor: QVC
@@ -1188,13 +1174,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/cartrend-compressor-profi-12-volt-10-bar-inkl-adapter-neu-7469491.jpg?v=1758787264
   Price: 19,95 € EUR
-- [Cartrend 6in1 Auto Powerbank / viele Funktionen / für PKW und LKW / Neu! günstig bei Retourify aus Bamberg](https://www.retourify.de/products/cartrend-6in1-auto-powerbank): Cartrend 6in1 Auto Powerbank / viele Funktionen / für PKW und LKW / Neu! hier bestellen | Geprüfte B Ware und Retouren - jetzt beim Retourenwahnsinn aus Franken kaufen!
-  Updated: 2026-02-26T07:19:31Z
-  Vendor: Cartrend
-  Product Type: Autozubehör
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/cartrend-6-in-1-auto-powerbank-0002.jpg?v=1759750488
-  Price: 15,12 € EUR
 - [Unitec Rückenlehnentasche für Tablets 10 Zoll / Neuware / Retourify](https://www.retourify.de/products/unitec-ruckenlehnentasche-mit-tablethalterung-fur-tablets-bis-24-5-cm-10-diagonale-neuware): Unitec Rückenlehnentasche mit Tablethalterung / für Tablets bis 24,5 cm (10") Diagonale // Neuware hier bestellen | Geprüfte B Ware und Retouren - jetzt beim Retourenwahnsinn aus Franken kaufen!
   Updated: 2026-02-26T07:19:33Z
   Vendor: Unitec
@@ -1788,8 +1767,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20260303_144441.jpg?v=1772546264
     Price: 29,95 € EUR
-- [Redroad V17 Akkusauger, 450 Watt viel Zubehör  | Generalüberholt | Osterangebot](https://www.retourify.de/products/redroad-v17-akkusauger-450-watt-viel-zubehor-generaluberholt): Redroad V17 Akkusauger: Kabellose 450 W Leistung & leiser Betrieb für Laminat bis Teppiche. Generalüberholt | jetzt bei Retourify günstig kaufen!
-  Updated: 2026-04-03T00:51:42Z
+- [Redroad V17 Akkusauger, 450 Watt viel Zubehör  | Generalüberholt](https://www.retourify.de/products/redroad-v17-akkusauger-450-watt-viel-zubehor-generaluberholt): Redroad V17 Akkusauger: Kabellose 450 W Leistung & leiser Betrieb für Laminat bis Teppiche. Generalüberholt | jetzt bei Retourify günstig kaufen!
+  Updated: 2026-04-21T00:09:25Z
   Vendor: Redroad
   Product Type: Staubsauger
   Availability: Available
@@ -1803,7 +1782,7 @@
   Updated: 2026-04-07T11:26:29Z
   Total Products: 18
 - [Freizeit - Spiel und Spaß Artikel günstig als B Ware oder Retouren kaufen | Retourify](https://www.retourify.de/collections/freizeit): Langeweile in der Freizeit? Mit unseren preiswerten, nachhaltigen Freizeitspielen sorgst du für Spiel und Spaß ohne Kompromisse. Jetzt bei Retourify sichern!
-  Updated: 2026-04-18T01:28:37Z
+  Updated: 2026-04-25T01:27:18Z
   Total Products: 10
 - [Sport - Fitness Artikel günstig als B Ware oder Retouren kaufen | Retourify](https://www.retourify.de/collections/fitness): Probleme mit nachhaltiger Fitnessbekleidung und Sportausrüstung? Entdecke langlebige Retouren- und B-Ware für dein Training und spare Geld. Nur bei Retourify.
   Updated: 2026-04-03T13:01:58Z
@@ -1824,7 +1803,7 @@
   Updated: 2026-04-03T13:01:58Z
   Total Products: 2
 - [Haus und Garten Artikel günstig als B Ware oder Retouren kaufen | Retourify](https://www.retourify.de/collections/haus-garten): Genug von ineffizienten Gartengeräten? Mit unseren nachhaltigen Haus- und Gartenlösungen pflegst Du nachhaltig und sparst Geld. Jetzt bei Retourify sichern!
-  Updated: 2026-04-03T13:02:01Z
+  Updated: 2026-04-24T13:08:21Z
   Total Products: 41
 - [Körperpflege Wellness Artikel günstig als B Ware oder Retouren kaufen | Retourify](https://www.retourify.de/collections/koerperpflege-wellness): Probleme mit günstiger und nachhaltiger Körperpflege? Entdecke unsere Körperpflege Wellness Kollektion für sanfte Hautpflege zu fairen Preisen. Nur bei Retourify.
   Updated: 2026-04-03T13:01:58Z
@@ -1833,7 +1812,7 @@
   Updated: 2026-03-03T14:35:16Z
   Total Products: 1
 - [Das Neueste im Shop... Artikel günstig als B Ware oder Retouren kaufen | Retourify](https://www.retourify.de/collections/das-neueste): Nach nachhaltigen, preisbewussten Lösungen suchst Du? Unsere Kollektion „Das Neueste im Shop...“ bietet geprüfte Retourenware mit hoher Qualität und Design. Entdecke jetzt bei Retourify Deine Bezugsquelle für nachhaltige Schnäppchen!
-  Updated: 2026-04-16T15:04:24Z
+  Updated: 2026-04-26T11:21:15Z
   Total Products: 110
 - [Dekoration und Basteln Artikel günstig als B Ware oder Retouren kaufen | Retourify](https://www.retourify.de/collections/dekoration-basteln): Probleme beim Basteln und Dekorieren mit nachhaltigen Bastelmaterialien? Entdecke preiswerte, umweltfreundliche Dekoartikel und spare jetzt bei Retourify!
   Updated: 2026-04-03T13:00:20Z
@@ -1845,7 +1824,7 @@
   Updated: 2026-02-22T16:55:17Z
   Total Products: 3
 - [Spielwaren Artikel günstig als B Ware oder Retouren kaufen | Retourify](https://www.retourify.de/collections/spielwaren): Schwierigkeiten, nachhaltige und preiswerte Spielwaren zu finden? Entdecke geprüfte B-Ware für sicheres, umweltbewusstes Spielen. Jetzt bei Retourify erhältlich!
-  Updated: 2026-03-21T11:18:45Z
+  Updated: 2026-04-23T11:24:06Z
   Total Products: 7
 - [Bürogeräte - Büroartikel Artikel günstig als B Ware oder Retouren kaufen | Retourify](https://www.retourify.de/collections/buero): Probleme mit Bürogeräten? Entdecke geprüfte Drucker, Multifunktionsgeräte und Laminiergeräte mit ausführlicher Beschreibung, spare nachhaltig und clever. Jetzt bei Retourify, der Bezugsquelle für Retourenware und B-Ware.
   Updated: 2026-04-02T10:02:40Z
@@ -1872,10 +1851,10 @@
   Updated: 2026-02-25T11:09:35Z
   Total Products: 2
 - [Bundles - Spare im Set! Artikel günstig als B Ware oder Retouren kaufen | Retourify](https://www.retourify.de/collections/bundles-spare-im-set): Attraktive Bundles für Dich zusammengestellt! Infos zu den jeweiligen Sparmöglichkeiten findest Du im jeweiligen Artikel. Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
-  Updated: 2026-04-03T13:01:58Z
+  Updated: 2026-04-26T11:21:15Z
   Total Products: 21
 - [Alle Artikel aus Freizeit, Spiel und Sport Artikel günstig als B Ware oder Retouren kaufen | Retourify](https://www.retourify.de/collections/freizeit-spielwaren): Alles aus unseren Bereichen Spiel, Spaß und Freizeit für die ganze Familie! Wählen Sie an der Seite einfach Ihre Favoriten aus! Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
-  Updated: 2026-03-21T11:18:45Z
+  Updated: 2026-04-23T11:24:06Z
   Total Products: 13
 - [Alle Artikel aus Technik Artikel günstig als B Ware oder Retouren kaufen | Retourify](https://www.retourify.de/collections/technik): Drucker, Gaming Zubehör, Multimedia bunt gemischt. Wählen Sie an der Seite einfach Ihre Favoriten aus! Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
   Updated: 2026-04-03T13:01:59Z
@@ -2013,7 +1992,7 @@
   Updated: 2026-02-25T11:11:11Z
   Total Products: 1
 - [Saugroboter - Staubsauger Artikel günstig als B Ware oder Retouren kaufen | Retourify](https://www.retourify.de/collections/saugroboter-staubsauger): Probleme mit dem Staubsaugen? Mit unseren Saugrobotern und Staubsaugern erleichterst du dir die Haushaltsarbeit und sparst Zeit. Jetzt bei Retourify entdecken!
-  Updated: 2026-04-07T11:26:29Z
+  Updated: 2026-04-20T12:09:22Z
   Total Products: 5
 - [Gartenhäcksler Artikel günstig als B Ware oder Retouren kaufen | Retourify](https://www.retourify.de/collections/gartenhacksler): Werde wieder Herr in Deinem eigenen Garten. Mit Gartenhäckslern und anderem Equipment von Retourify Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
   Updated: 2026-02-22T14:21:41Z
@@ -2088,7 +2067,7 @@
   Updated: 2026-02-22T14:23:01Z
   Total Products: 0
 - [Bettwäsche Artikel günstig als B Ware oder Retouren kaufen | Retourify](https://www.retourify.de/collections/bettwasche): Unbequeme Bettwäsche? Entdecke nachhaltige, preiswerte und langlebige Bettwäsche aus Retouren und B-Ware. Genieße besseren Schlaf mit nachhaltigem Design. Jetzt bei Retourify!
-  Updated: 2026-02-25T11:09:45Z
+  Updated: 2026-04-24T13:08:21Z
   Total Products: 2
 - [Möbel Artikel günstig als B Ware oder Retouren kaufen | Retourify](https://www.retourify.de/collections/mobel): Probleme mit teuren Möbeln? Entdecke unsere nachhaltigen, preiswerten Möbel für stilvolles Wohnen und Arbeiten. Jetzt bei Retourify verfügbar!
   Updated: 2026-02-25T11:09:35Z
@@ -2145,19 +2124,19 @@
   Updated: 2026-02-25T11:09:41Z
   Total Products: 1
 - [Autozubehör Artikel günstig als B Ware oder Retouren kaufen | Retourify](https://www.retourify.de/collections/autozubehor): Entdecke praktisches Autozubehör für mehr Komfort, Sicherheit und Fahrspaß! In unserer neuen Kategorie findest du clevere Helfer für den Alltag und die besonderen Momente unterwegs – von Anfahrhilfen über Organizer bis zu nützlichen Tools für jede Jahreszeit. Ob für die nächste Urlaubsreise, den täglichen Arbeitsweg oder spontane Abenteuer: Mit unserem ausgewählten Autozubehör bist du immer bestens vorbereitet.Stöbere jetzt und rüste dein Fahrzeug mit smarten Lösungen auf – für entspannteres und sorgenfreies Fahren! Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
-  Updated: 2026-04-03T13:02:00Z
+  Updated: 2026-04-26T11:21:15Z
   Total Products: 9
 - [Preisupdates - täglich aktualisiert Artikel günstig als B Ware oder Retouren kaufen | Retourify](https://www.retourify.de/collections/preisupdates-taglich-aktualisiert): Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
-  Updated: 2026-04-16T15:04:24Z
+  Updated: 2026-04-26T20:41:15Z
   Total Products: 213
 - [test preisupdates](https://www.retourify.de/collections/test-preisupdates)
   Updated: 2026-02-12T19:35:56Z
   Total Products: 0
 - [Optionize Add-ons Artikel günstig als B Ware oder Retouren kaufen | Retourify](https://www.retourify.de/collections/optionize-add-ons): Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
-  Updated: 2026-04-16T15:04:24Z
+  Updated: 2026-04-26T11:21:15Z
   Total Products: 226
 - [All products Artikel günstig als B Ware oder Retouren kaufen | Retourify](https://www.retourify.de/collections/all): Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
-  Updated: 2026-04-16T15:04:24Z
+  Updated: 2026-04-26T11:21:15Z
   Total Products: 251
 - [Weihnachtsdeko - Fertigsets Artikel günstig als B Ware oder Retouren kaufen | Retourify](https://www.retourify.de/collections/weihnachten-fertigsets): Weihnachtsdeko stressfrei gestalten mit unseren Weihnachtsdeko - Fertigsets. Schnell und nachhaltig dekorieren, dabei Geld sparen. Jetzt bei Retourify bestellen!
   Updated: 2026-02-25T11:09:35Z
@@ -2166,10 +2145,10 @@
   Updated: 2026-04-03T13:00:20Z
   Total Products: 1
 - [AVADA - Best Sellers](https://www.retourify.de/collections/avada-best-sellers)
-  Updated: 2026-04-16T15:04:24Z
+  Updated: 2026-04-26T11:21:15Z
   Total Products: 226
 - [Schnapper 5,- bis 10,- Euro](https://www.retourify.de/collections/schnapper-bis-10-euro): Hochwertige Retouren und geprüfte B-Ware zum Sparpreis in unserer Schnapper 5,- bis 10,- Euro. Top-Qualität ohne Kompromisse. Jetzt nachhaltige Deals sichern bei Retourify!
-  Updated: 2026-03-21T11:18:45Z
+  Updated: 2026-04-23T11:24:06Z
   Total Products: 39
 - [Schnapper bis 5,- Euro](https://www.retourify.de/collections/schnapper-bis-5-euro): Nachhaltige B-Ware bis 5 Euro in unserer Schnapper bis 5,- Euro Kollektion. Beste Qualität ohne Kompromisse. Sichere dir jetzt clevere Schnäppchen bei Retourify!
   Updated: 2026-04-02T12:50:43Z
@@ -2340,13 +2319,13 @@
 ## Policies
 
 - [Privacy Policy](https://www.retourify.de/policies/privacy-policy)
-  Updated: 2026-04-17T03:40:41+02:00
+  Updated: 2026-04-25T03:30:14+02:00
 - [Shipping Policy](https://www.retourify.de/policies/shipping-policy)
   Updated: 2026-03-22T20:04:30+01:00
 - [Refund Policy](https://www.retourify.de/policies/refund-policy)
-  Updated: 2026-03-28T20:36:13+01:00
+  Updated: 2026-04-21T13:57:24+02:00
 - [Terms of Service](https://www.retourify.de/policies/terms-of-service)
-  Updated: 2026-04-15T03:46:47+02:00
+  Updated: 2026-04-22T03:45:02+02:00
 - [Contact Information](https://www.retourify.de/policies/contact-information)
   Updated: 2023-05-05T15:40:01+02:00
 
