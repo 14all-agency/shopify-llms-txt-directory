@@ -9,7 +9,7 @@
 - Created At: 2021-04-29T12:50:47Z
 - Contact Email: info@zorro.lv
 - Contact Phone: +371 24 203 759
-- Updated At: 2026-04-11T00:00:40.043Z
+- Updated At: 2026-04-27T00:00:43.025Z
 
 Zorro.lv ir specializēts Latvijas veikals, kas piedāvā premium un super-premium klases barību suņiem un kaķiem. Uzņēmums izceļas tirgū ar uzsvaru uz bioloģiski piemērotu uzturu ar augstu gaļas saturu un hipoalerģiskām sastāvdaļām, nodrošinot, ka produkti nesatur bieži sastopamas pildvielas, piemēram, graudus, glutēnu, kukurūzu un soju. Rūpīgi atlasītajā klāstā ietilpst augstākās klases Eiropas zīmoli, tostarp Essential Foods, Naturea, Yora, McAdams un Leitwolf, kā arī dabīgi kārumi un kvalitatīvi aksesuāri, piemēram, organiskas kažokādas rotaļlietas.
 
@@ -88,7 +88,9 @@ Zorro.lv ir specializēts Latvijas veikals, kas piedāvā premium un super-premi
 - [YORA insektu ( kukaiņu ) superbarība pieaugušiem lielo šķirņu suņiem LARGE BREEDS 12kg](https://zorro.lv/products/yora-insektu-kukainu-superbariba-pieaugusiem-lielo-skirnu-suniem)
 - [YORA insektu (kukaiņu) super barība pieaugušiem kaķiem un kaķēniem SUPERFOOD](https://zorro.lv/products/yora-insektu-kukainu-super-bariba-pieaugusiem-kakiem-complete-)
 - [YORA insektu (kukaiņu ) super barība kucēniem PUPPY](https://zorro.lv/products/yora-insektu-kukainu-super-bariba-kuceniem-puppy-complete)
+- [Antialerģisks, higēnisks, nekairinošs un neslīdošs paklājiņš- gulta](https://zorro.lv/products/antialergisks-higenisks-nekairinoss-un-neslidoss-paklajins-gulta)
 - [YORA motivācijas veselīgie kārumi REWARDS ar āboliem un burkāniem 100g](https://zorro.lv/products/motivacijas-veseligie-karumi-rewards)
+- [YORA kārumi suņiem ar nomierinošu efektu DREAMERS 100 g](https://zorro.lv/products/karumi-dreamers)
 - [YORA insektu ( kukaiņu ) konservs ar burkāniem un kartupeļiem 390g](https://zorro.lv/products/burkanu-un-kartupelu-pastete-390g)
 - [Apbalvošanas gardumi Farm&Fields ar 80% pīles, tītara un cāļa gaļu 100 gr](https://zorro.lv/products/gardie-kraukski-farm-fields-ar-80-piles-titara-un-cala-galu)
 - [Apbalvošanas gardumi - gardie kraukšķi ar zivīm LAKE&SEA ar 80% lasis, forele, baltās zivis 100gr](https://zorro.lv/products/gardie-kraukski-lake-sea-ar-80-lasis-morele-baltas-zivis-100gr)
@@ -99,6 +101,7 @@ Zorro.lv ir specializēts Latvijas veikals, kas piedāvā premium un super-premi
 - [Pilnvērtīga sabalansēta barība ar tītara gaļu suņiem ar lieko svaru vai tendenci uz to TRUTH LIGHT](https://zorro.lv/products/pilnvertiga-sabalanseta-bariba-ar-titara-galu-suniem-ar-lieko-svaru-vai-tendenci-uz-to-light)
 - [Pilnvērtīga sabalansēta ikdienas barība visu šķirņu suņiem Senioriem ar tītara gaļu TRUTH SPECIAL 10 kg](https://zorro.lv/products/pilnvertiga-sabalanseta-ikdienas-bariba-visu-skirnu-suniem-senioriem-ar-titara-galu-truth-special)
 - [Iemaukti pastaigām ar suni Walk Go](https://zorro.lv/products/iemaukti-pastaigam-ar-suni-walk-go)
+- [YORA graužamnūjiņas (mazās) svaigai elpai, tīriem zobiem un planētai 56g](https://zorro.lv/products/yora-svaigai-elpai-tiriem-zobiem-un-planetai)
 - [YORA insektu ( kukaiņu ) konservs ar āboliem un pastinakiem 390g](https://zorro.lv/products/yora-kukainu-abolu-un-pastinaku-konservs-tetra-paka-390g)
 - [YORA graužamnūjiņas (lielās) svaigai elpai, tīriem zobiem un veselīgai planētai 270g](https://zorro.lv/products/yora-grauzamnujinas-lielas-svaigai-elpai-tiriem-zobiem-un-planetai)
 - [NATUREA Ikdienas zobu tīrīšanas graužamnūjiņas ar 88% svaigas gaļas sastāvā 8 gab](https://zorro.lv/products/naturea-ikdienas-zobu-tirisanas-grauzamnujinas-ar-88-svaigas-galas-sastava-8-gab)
@@ -128,7 +131,6 @@ Zorro.lv ir specializēts Latvijas veikals, kas piedāvā premium un super-premi
 - [ESSENTIAL PANTHER  konservs kaķiem ar vistas fileju un tītara gaļu 85 g](https://zorro.lv/products/essential-panther-konservs-kakiem-ar-vistas-fileju-un-titara-galu-85-g)
 - [ESSENTIAL The LITTLE LION konservs kaķēniem ar vistas fileju un lasi 85 g](https://zorro.lv/products/essential-the-little-lion-konservs-ar-vistas-fileju-un-lasi-85-g)
 - [Liofilizēti vistas gaļas krūtiņas uzkodu kubiciņi Kitty Beat Chicken Pure](https://zorro.lv/products/vistas-galas-uzkodu-kubicini-kitty-beat-chicken-pure)
-- [Liofilizēti pīles krūtiņas gaļas kubiciņi kaķiem Kitty Beat Duck Pure 30g](https://zorro.lv/products/liofilizeti-piles-krutinas-galas-kubicini-kakiem-kitty-beat-duck-pure)
 - [Augstvērtīga barība 59% ar cāļa gaļu un olām pieaugušiem suņiem Naturea TERRA](https://zorro.lv/products/augstvertiga-bariba-59-ar-cala-galu-un-olam-pieaugusiem-suniem-naturea-terra)
 - [ESSENTIAL konservu vāciņš](https://zorro.lv/products/essential-konservu-vacins)
 - [90% pīle, cālis, lasis, forele, olas ESSENTIAL bezgraudu barība mazo šķirņu kucēniem The BEGINNING-10 KG](https://zorro.lv/products/copy-of-85-galas-pile-calis-lasis-forele-olas-super-premium-bezgraudu-bariba-mazo-skirnu-kuceniem-the-beginning)
@@ -143,7 +145,7 @@ Zorro.lv ir specializēts Latvijas veikals, kas piedāvā premium un super-premi
 - [McAdams krāsnī cepta barība SENSITIVE ar 64.5% tītaru gaļu maza izmēra suņiem Turkey sensitive small breed](https://zorro.lv/products/mcadams-krasni-cepta-bariba-sensitive-ar-64-5-titaru-galu-maza-izmera-suniem)
 - [McAdams krāsnī cepta barība SENSITIVE ar 64.5% brīvo turēšanas apstākļu tītaru gaļu vidēja un liela izmēra suņiem Turkey Sensitive large breed](https://zorro.lv/products/mcadams-krasni-cepta-bariba-sensitive-ar-64-5-brivo-turesanas-apstaklu-titaru-galu-videja-un-liela-izmera-suniem)
 - [McAdams augstākās kvalitātes konservi kaķiem un kaķēniem ar  tītara gaļa un Norvēģijas lasi](https://zorro.lv/products/mcadams-augstakas-kvalitates-konservi-titara-gala-ar-norvegijas-lasi)
-- [McAdams krāsnī cepta barība ar 50% brīvo turēšanas apstākļu vistu gaļu maza izmēra suņiem Chicken small breed](https://zorro.lv/products/mcadams-krasni-cepta-bariba-ar-50-brivo-turesanas-apstaklu-vistu-galu-maza-izmera-suniem)
+- [McAdams krāsnī cepta barība ar 50% brīvo turēšanas apstākļu vistas gaļu maza izmēra suņiem Chicken small breed](https://zorro.lv/products/mcadams-krasni-cepta-bariba-ar-50-brivo-turesanas-apstaklu-vistu-galu-maza-izmera-suniem)
 - [McAdams krāsnī cepta barība ar 50% brīvo turēšanas apstākļu vistu gaļu vidēja un liela izmēra suņiem](https://zorro.lv/products/mcadams-krasni-cepta-bariba-ar-50-brivo-turesanas-apstaklu-vistu-galu-videja-un-liela-izmera-suniem)
 - [McAdams krāsnī cepta barība ar 50% brīvo turēšanas apstākļu vistu gaļu un lasi maza izmēra suņiem](https://zorro.lv/products/mcadams-krasni-cepta-bariba-ar-50-brivo-turesanas-apstaklu-vistu-galu-un-lasi-maza-izmera-suniem)
 - [McAdams krāsnī cepta barība ar 50% brīvo turēšanas apstākļu vistu gaļu un lasi vidēja un liela izmēra suņiem Chicken&Salmon](https://zorro.lv/products/mcadams-krasni-cepta-bariba-ar-50-brivo-turesanas-apstaklu-vistu-galu-un-lasi-videja-un-liela-izmera-suniem)
@@ -151,21 +153,19 @@ Zorro.lv ir specializēts Latvijas veikals, kas piedāvā premium un super-premi
 - [McAdams gardumi svaigai elpai ar 50% brīvo turēšanas apstākļu tītaru gaļu FRESH BREATH 150 g](https://zorro.lv/products/mcadams-gardumi-svaigai-elpai-ar-50-brivo-turesanas-apstaklu-titaru-galu)
 - [McAdams nomierinošie gardumi suņiem ar 50% brīvo turēšanas apstākļu tītaru gaļu BEDTIME 150 g](https://zorro.lv/products/mcadams-nomierinosie-gardumi-suniem-ar-50-brivo-turesanas-apstaklu-titaru-galu)
 - [McAdams gardumi ar 50% tītara cepeti no brīvo turēšanas apstākļu tītara gaļu, dzērvenēm un salviju Cranberries&Sage 150g](https://zorro.lv/products/mcadams-gardumi-ar-50-titara-cepeti-no-brivo-turesanas-apstaklu-titara-galu-dzervenem-un-salviju)
-- [LIELDIENU Kēksiņš suņiem no maiznīcas Itālijā CANETTONE GOURMET ORANGE - AR PĪLES GAĻU 125g](https://zorro.lv/products/il-canettone-gourmet-ar-piles-galu-orange-125g)
-- [LIELDIENU Kēksiņš suņiem no maiznīcas Itālijā CANETTONE GOURMET WHITE - AR LASI 125g](https://zorro.lv/products/keksins-suniem-canettone-gourmet-white-ar-lasi-125g)
-- [LIELDIENU Kēksiņš suņiem no maiznīcas Itālijā CANETTONE GOURMET GREEN - AR ŠĶINĶI 125g](https://zorro.lv/products/keksins-suniem-no-maiznicas-italija-canettone-gourmet-ar-piles-galu-orange-125g-copy)
+- [Svētku Kēksiņš suņiem no maiznīcas Itālijā CANETTONE GOURMET ORANGE - AR PĪLES GAĻU 125g](https://zorro.lv/products/il-canettone-gourmet-ar-piles-galu-orange-125g)
+- [Svētku Kēksiņš suņiem no maiznīcas Itālijā CANETTONE GOURMET WHITE - AR LASI 125g](https://zorro.lv/products/keksins-suniem-canettone-gourmet-white-ar-lasi-125g)
+- [Svētku Kēksiņš suņiem no maiznīcas Itālijā CANETTONE GOURMET GREEN - AR ŠĶINĶI 125g](https://zorro.lv/products/keksins-suniem-no-maiznicas-italija-canettone-gourmet-ar-piles-galu-orange-125g-copy)
 - [McAdams labas uzvedības apbalvošanas gardumi ar 50% tītara cepeti no brīvo turēšanas apstākļu tītara gaļu un ķirbi 150 g](https://zorro.lv/products/mcadams-gardumi-ar-50-titara-cepeti-no-brivo-turesanas-apstaklu-titara-galu-dzervenem-un-salviju-cranberries-sage-copy)
 - [WOOLFSNACKS gardumi ar pīles gaļu DUCK CHUNKIES](https://zorro.lv/products/woolfsnacks-gardumi-ar-trusa-galu-rabbit-chunkies-copy)
 - [ESSENTIAL Bezgraudu graužamie kārumi zobus attīroši Liellops un Trusis 200g](https://zorro.lv/products/essential-bezgraudu-grauzamie-karumi-zobus-attirosi-liellops-un-trusis-200-g)
 - [ESSENTIAL Bezgraudu graužamie kārumi zobus attīroši Liellops ar medījuma gaļu 200g](https://zorro.lv/products/essential-bezgraudu-grauzamie-karumi-zobus-attirosi-liellops-un-trusis-200-g-copy)
-- [ESSENTIAL Truša gaļas gardumi ar rozmarīnu 200g RABBIT & ROSEMARY SENSATIONS](https://zorro.lv/products/essential-trusa-galas-gardumi-ar-rozmarinu-200g)
 - [NATUREA konservi suņiem ar 70% liellopu gaļu 300g](https://zorro.lv/products/naturea-konservi-ar-70-liellopu-galu)
 - [NATUREA konservi suņiem ar 66% vistas gaļu un lasi 300 g](https://zorro.lv/products/naturea-konservi-ar-66-vistas-galu-un-lasi-300-g)
 - [NATUREA konservi suņiem ar 66% vistas un pīles gaļu 300 g](https://zorro.lv/products/naturea-konservi-ar-68-vistas-un-piles-galu-300-g)
 - [Tunča un jūras aļģu konservi kaķiem 90 gr](https://zorro.lv/products/tunca-un-juras-algu-konservi-kakiem-90-gr)
 - [NATUREA konservi suņiem ar 66% vistas un tītara gaļu 300g](https://zorro.lv/products/naturea-konservi-ar-68-vistas-un-piles-galu)
 - [NATUREA Zivs veselīgie kārumi 100 g](https://zorro.lv/products/naturea-piles-galas-veseligie-karumi-copy)
-- [ESSENTIAL FOODS Lieldienu gardumu komplekts no truša gaļas suņiem](https://zorro.lv/products/3-dazadu-gardumu-lieldienu-komplekts-suniem-no-trusa-galas)
 - [LEITWOLF jēra gaļas mīkstie gardumi](https://zorro.lv/products/leitwolf-jera-galas-mikstie-gardumi)
 - [LEITWOLF pīles gaļas mīkstie gardumi](https://zorro.lv/products/leitwolf-piles-galas-mikstie-gardumi)
 - [LEITWOLF zirga gaļas mīkstie gardumi](https://zorro.lv/products/leitwolf-zirga-galas-mikstie-gardumi)
