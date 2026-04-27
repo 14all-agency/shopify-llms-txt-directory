@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2024-01-19T13:12:44Z
 - Contact Email: serviceclient@flerisse.com
-- Updated At: 2026-04-14T00:00:32.850Z
+- Updated At: 2026-04-27T00:00:36.235Z
 
 Flérisse est une marque de soins capillaires naturels dédiée aux cheveux texturés (afro, bouclés, frisés). Nos produits sont formulés avec des ingrédients naturels pour nourrir, hydrater et sublimer vos boucles.
 
@@ -20,14 +20,14 @@ Flérisse est une marque de soins capillaires naturels dédiée aux cheveux text
   Image: https://cdn.shopify.com/s/files/1/0807/0103/0743/files/flerisse-flerimousse-shampoing-nourrissant-1230906585.jpg?v=1775073130
   Price: 25,50 € EUR
 - [Fléricurls– Crème Capillaire Définissante](https://flerisse.com/products/flericurls): Fléricurls est la touche finale parfaite pour des boucles hydratées, souples et rebondies. Cette crème capillaire fondante nourrit en profondeur, réduit les frisottis et sublime la texture naturelle des cheveux. ✨ Avantages clés : Nutrition et tenue appropriées Redéfinir les boucles sans alourdir Réduit les frisottis durablement Texture légère et non grasse 🌿 Ingrédient phare : Protéine de mais 💡 Conseils d'utilisation : Appliquez sur cheveux humides ou secs, section par section. Modelez vos boucles au doigt ou au peigne. Offrez à vos boucles un soin de prestige, entre définition et douceur.
-  Updated: 2026-04-01T19:51:13Z
+  Updated: 2026-04-25T12:31:15Z
   Vendor: Flerisse
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/0103/0743/files/flerisse-flericurls-creme-capillaire-definissante-1230906529.jpg?v=1775073071
   Price: 25,50 € EUR
 - [Fléracines – Sérum de Croissance Fortifiant](https://flerisse.com/products/fleracines): Fléracines stimule le cuir chevelu et favorise une pousse saine et naturelle. Sa texture légère pénètre rapidement, sans résidus, pour renforcer les racines et nourrir les longueurs. ✨ Avantages clés : Active la croissance capillaire Fortifie les racines Apaise le cuir chevelu Texture fluide et non grasse 🌿 Ingrédient phare : Huile de ricin 💡 Conseils d'utilisation : Appliquez quelques gouttes sur le cuir chevelu, massez doucement du bout des doigts. Utilisation régulière conseillée. Fléracines, l'élixir vital pour une chevelure saine et dense.
-  Updated: 2026-04-01T19:51:40Z
+  Updated: 2026-04-25T12:31:17Z
   Vendor: Flerisse
   Product Type: 
   Availability: Available
@@ -51,16 +51,16 @@ Flérisse est une marque de soins capillaires naturels dédiée aux cheveux text
 ## Collections
 
 - [Essence Moussante](https://flerisse.com/collections/flerimousse): Découvrez la collection Essence Moussante , une gamme complète pour nettoyer , nourrir et revitaliser vos boucles. Ce soin capillaire offre une hydratation profonde grâce à son shampooing doux et sa crème capillaire qui définit et hydrate chaque boucle. Une routine parfaite pour des cheveux brillants, doux et pleins de vitalité, en parfaite harmonie avec les besoins de vos boucles
-  Updated: 2025-07-05T21:58:10Z
+  Updated: 2026-04-26T11:29:01Z
   Total Products: 2
 - [Duo Soin](https://flerisse.com/collections/flericurls): La collection Duo Soin est votre alliée pour des boucles parfaitement définies et hydratées . Composée de notre crème capillaire nourrissante et d'un sérum de croissance , cette gamme sublime la texture de vos cheveux tout en particulier les frisottis. Apportez à vos boucles un soin complet pour plus de souplesse , de brillance et de vitalité .
-  Updated: 2025-07-05T21:58:10Z
+  Updated: 2026-04-26T11:29:01Z
   Total Products: 2
 - [Gamme complète](https://flerisse.com/collections/collection-complete): Flérisse incarne l’art du soin capillaire luxueux, en offrant une routine complète pensée pour sublimer la texture naturelle des cheveux. Chaque geste devient un rituel de douceur, où la science rencontre la nature pour révéler éclat, vitalité et élégance. Une expérience sensorielle unique, au service de la beauté authentique.
-  Updated: 2025-07-05T21:58:10Z
+  Updated: 2026-04-26T11:29:01Z
   Total Products: 4
 - [Produits vedette](https://flerisse.com/collections/produits-vedette)
-  Updated: 2025-07-05T21:58:10Z
+  Updated: 2026-04-26T11:29:01Z
   Total Products: 3
 
 ## Blogs
