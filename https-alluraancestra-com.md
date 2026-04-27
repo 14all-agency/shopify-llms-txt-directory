@@ -6,31 +6,31 @@
 - Timezone: America/Chicago
 - Created At: 2026-04-01T19:12:40Z
 - Contact Email: burriescib@gmail.com
-- Updated At: 2026-04-19T17:46:02.376Z
+- Updated At: 2026-04-27T00:00:28.964Z
 
 ## Products
 
 - [Elegante Tallow Skin Renewal Cream](https://alluraancestra.com/products/elegante-tallow-skin-renewal-cream): Elegante Renewal Cream is a rich, tallow cream small batch rendered 6 times for exceptional purity and silky absorption. Crafted to support skin’s elasticity, softness, and deep hydration to restore smooth, naturally radiant complexion. 4 oz by volume
-  Updated: 2026-04-12T12:52:29Z
+  Updated: 2026-04-19T17:47:48Z
   Vendor: Allura Ancestra
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0759/5052/2558/files/Elegante.png?v=1775511816
-  Price: $71.00 USD
+  Price: $76.00 USD
 - [Prima Vera Light Whipped Tallow Face Cream](https://alluraancestra.com/products/prima-vera-light-whipped-tallow-face-cream): Prima Vera Face Cream is a light, whipped small batch tallow cream rendered 6 times for exceptional purity and silky absorption. Crafted to support skin’s natural vitality, enhance natural glow, and support a healthy skin barrier. Fast absorbing and deeply moisturizing without heaviness. 4 oz by volume
-  Updated: 2026-04-12T12:52:15Z
+  Updated: 2026-04-19T17:47:39Z
   Vendor: Allura Ancestra
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0759/5052/2558/files/PrimaVera.png?v=1775511833
-  Price: $71.00 USD
+  Price: $76.00 USD
 - [Riposa Magnesium Foot Night Cream](https://alluraancestra.com/products/riposa-magnesium-foot-night-cream): Riposa Foot Cream is a deeply nourishing small batch tallow cream blended with magnesium to melt away the feeling of tension and fatigue in tired, overworked feet. Melts into skin tosoften, comfort, and rejuvenate while you sleep, so you wake up feeling restored.
-  Updated: 2026-04-12T00:51:19Z
+  Updated: 2026-04-19T17:47:28Z
   Vendor: Allura Ancestra
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0759/5052/2558/files/Riposa.png?v=1775511743
-  Price: $74.00 USD
+  Price: $78.00 USD
 
 ## Collections
 
