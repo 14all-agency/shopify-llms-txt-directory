@@ -8,14 +8,14 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2026-02-27T13:58:36Z
 - Contact Email: hello@ellecera.nl
-- Updated At: 2026-04-19T00:00:38.588Z
+- Updated At: 2026-04-27T00:00:40.839Z
 
 ElleCera is een Nederlandse webshop voor skincare, make-up en beauty tools, geïnspireerd door Korean beauty. Ontwikkeld voor de Nederlandse en Belgische huid. Alle producten zijn dierproefvrij en dermatologisch getest. ElleCera staat voor verzorging die de huid ondersteunt in plaats van corrigeert. Assortiment: serums, foundation, oogpatches, microneedling sets, cupping apparaten, body oil en haarproducten. Gratis verzending NL/BE. 30 dagen tevredenheidsgarantie. Betaling via iDEAL, Klarna, Bancontact, Apple Pay en creditcard.
 
 ## Products
 
 - [Foundation Stick Kopen – Kleur Aanpassend Zonder Maskereffect-ElleCera](https://ellecera.nl/products/2-1-magic-foundation-stick): Foundation stick die zich aanpast aan jouw huidtoon. Lichte coverage, geen maskereffect, ingebouwde kwast. ✓ 1+1 gratis ✓ Gratis verzending ✓ 30 dagen garantie
-  Updated: 2026-04-08T20:49:37Z
+  Updated: 2026-04-26T22:52:16Z
   Vendor: ElleCera.
   Product Type: 
   Availability: Available
@@ -30,12 +30,12 @@ ElleCera is een Nederlandse webshop voor skincare, make-up en beauty tools, geï
     Availability: Available
     Price: € 34,95 EUR
 - [Korean Peptide Serum Kopen – Lifting voor Strakker Gezicht | ElleCera](https://ellecera.nl/products/korean-silk-lifting-peptide-ampoule): Geconcentreerd Korean lifting serum met peptiden en collageen. Strakker gezicht, minder rimpels. ✓ 1+1 gratis ✓ Gratis verzending ✓ 30 dagen garantie
-  Updated: 2026-04-18T13:24:32Z
+  Updated: 2026-04-26T22:26:26Z
   Vendor: ElleCera.
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/peptide-ampoule-verpakking-1plus1-gratis.svg?v=1773146083
-  Price: € 29,95 EUR
+  Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/1_6595d51c-20ab-4f4c-9ad9-591856747c06.svg?v=1776691476
+  Price: € 34,95 EUR
 - [Haarlijn Poeder Kopen – Volle Haarlijn Zonder Kale Plekken | ElleCera](https://ellecera.nl/products/hairlineperfect-poeder): Dek kale plekken en dunne haarlijn direct bij. Waterbestendig haarlijn poeder in 10 tinten. ✓Natuurlijk ogend ✓1+1 gratis ✓Gratis verzending ✓30 dagen garantie
   Updated: 2026-04-03T14:40:12Z
   Vendor: ElleCera.
@@ -91,7 +91,7 @@ ElleCera is een Nederlandse webshop voor skincare, make-up en beauty tools, geï
   Price: € 69,95 EUR
 - [Gold Silk Body Oil Kopen – Droge Hydraterende Body Oil | ElleCera](https://ellecera.nl/products/gold-silk-body-oil): Lichte body oil die snel absorbeert en huid zijdezacht maakt. Geen plakkerig gevoel. 
 ✓ 1+1 gratis ✓ Stralende huid ✓ Gratis verzending ✓ 30 dagen garantie.
-  Updated: 2026-04-03T14:38:54Z
+  Updated: 2026-04-23T21:30:14Z
   Vendor: ElleCera.
   Product Type: 
   Availability: Available
@@ -112,7 +112,7 @@ ElleCera is een Nederlandse webshop voor skincare, make-up en beauty tools, geï
     Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/haarverzorging-tool-gebruik-styling-resultaat.webp?v=1773142782
     Price: € 59,95 EUR
 - [Microneedling Set Thuis Kopen – Gladdere Huid Zonder Kliniek | ElleCera](https://ellecera.nl/products/microneedling-set-thuis): Professionele microneedling thuis. Minder fijne lijntjes, gladdere huidtextuur & meer glow in 5 min. Geen kliniek nodig. ✓ Gratis verzending ✓ 30 dagen garantie
-  Updated: 2026-04-16T07:25:36Z
+  Updated: 2026-04-26T10:07:07Z
   Vendor: ElleCera.
   Product Type: 
   Availability: Available
@@ -134,14 +134,14 @@ ElleCera is een Nederlandse webshop voor skincare, make-up en beauty tools, geï
     Availability: Available
     Price: € 100,00 EUR
 - [Oogpatches Tegen Wallen Kopen – Collageen HydroGel Patches | ElleCera](https://ellecera.nl/products/hydrogel-collagen-eye-patches-wallen): Minder wallen en donkere kringen in 10 minuten. Collageen hydrogel oogpatches voor dagelijks gebruik. ✓ 1+1 gratis ✓ Gratis verzending ✓ 30 dagen garantie.
-  Updated: 2026-04-18T17:10:16Z
+  Updated: 2026-04-26T09:43:17Z
   Vendor: ElleCera.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/1_1_Gratis_6ca27280-2fe0-4b74-9bac-ae3622af3ed1.png?v=1776163781
   Price: € 29,95 EUR
 - [MicroLift Pro™ - De 3-in-1 microstroom facelift voor een zichtbaar strakkere huid.](https://ellecera.nl/products/microlift-pro-microstroom-facelift-apparaat): Train je gezichtsspieren, stimuleer collageenproductie en geef je kaaklijn zichtbaar terug. Red Light Therapy + microstroom. Thuis in 10 minuten.
-  Updated: 2026-04-18T21:19:25Z
+  Updated: 2026-04-26T22:52:16Z
   Vendor: NicheBay
   Product Type: 
   Availability: Available
@@ -155,7 +155,7 @@ ElleCera is een Nederlandse webshop voor skincare, make-up en beauty tools, geï
     Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/3.png?v=1774445525
     Price: € 69,95 EUR
 - [GlowLift™ Collageen Nachtmasker | Wakker Worden met Stralende Huid](https://ellecera.nl/products/glowlift-overnight-collageen-masker): Koreaans collageen nachtmasker met peptiden en hyaluronzuur. Vermindert rimpels, wallen en fijne lijntjes terwijl je slaapt. Gratis verzending. 1+1 Gratis.
-  Updated: 2026-04-03T23:16:17Z
+  Updated: 2026-04-26T10:07:09Z
   Vendor: NicheBay
   Product Type: 
   Availability: Available
@@ -166,40 +166,13 @@ ElleCera is een Nederlandse webshop voor skincare, make-up en beauty tools, geï
   - [8 PCS](https://ellecera.nl/products/glowlift-overnight-collageen-masker?variant=56792027332985)
     Availability: Available
     Price: € 29,95 EUR
-- [Deep Collagen Mask Peel Off Mask Anti Wrinkle Lifting Face Skin Care Masks Bio Pack Night Wrapping Woman Overnight Skin Hydrates2026-04-08 18:25:31](https://ellecera.nl/products/deep-collagen-mask-peel-off-mask-anti-wrinkle-lifting-face-skin-care-masks-bio-pack-night-wrapping-woman-overnight-skin-hydrates2026-04-08-18-25-31)
-  Updated: 2026-04-08T22:25:43Z
+- [Collagen Night Mask voor gladdere huid | 1+1 Gratis + Gratis verzending](https://ellecera.nl/products/collagen-night-mask): Collagen night mask dat helpt fijne lijntjes minder zichtbaar te maken en je huid gladder laat ogen. 1+1 gratis, gratis verzending en 30 dagen garantie.
+  Updated: 2026-04-26T22:52:16Z
   Vendor: NicheBay
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/S325390a8d71b424399400b0de608e7e5j.webp?v=1775643936
-  - [A 1 Set](https://ellecera.nl/products/deep-collagen-mask-peel-off-mask-anti-wrinkle-lifting-face-skin-care-masks-bio-pack-night-wrapping-woman-overnight-skin-hydrates2026-04-08-18-25-31?variant=56991811469689)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/S2c78729641714b6ea2c804f9033de56fh.png_220x220_05d8a341-0572-4e0a-9dd5-3cdada4d6178.webp?v=1775643935
-    Price: € 100,00 EUR
-  - [1 Set](https://ellecera.nl/products/deep-collagen-mask-peel-off-mask-anti-wrinkle-lifting-face-skin-care-masks-bio-pack-night-wrapping-woman-overnight-skin-hydrates2026-04-08-18-25-31?variant=56991811502457)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/Safdc2f0c346d4c12862a47df263e8679x.jpg_1100x1100q375.webp?v=1775643935
-    Price: € 100,00 EUR
-  - [2 Sets](https://ellecera.nl/products/deep-collagen-mask-peel-off-mask-anti-wrinkle-lifting-face-skin-care-masks-bio-pack-night-wrapping-woman-overnight-skin-hydrates2026-04-08-18-25-31?variant=56991811535225)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/S2fbeae043f9d4a8898f7fcbde69c2a11s.jpg_1100x1100q375.webp?v=1775643935
-    Price: € 100,00 EUR
-  - [3 Sets](https://ellecera.nl/products/deep-collagen-mask-peel-off-mask-anti-wrinkle-lifting-face-skin-care-masks-bio-pack-night-wrapping-woman-overnight-skin-hydrates2026-04-08-18-25-31?variant=56991811567993)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/S7c834f2d03614c91b2ee1a824562dbbae.jpg_1100x1100q375.webp?v=1775643935
-    Price: € 100,00 EUR
-  - [5 Sets](https://ellecera.nl/products/deep-collagen-mask-peel-off-mask-anti-wrinkle-lifting-face-skin-care-masks-bio-pack-night-wrapping-woman-overnight-skin-hydrates2026-04-08-18-25-31?variant=56991811600761)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/Sda792de89b66428d839fe99fedf8fa0cc.jpg_1100x1100q375_ca6f9b15-45f2-41b0-ac9c-b51f99c7184e.webp?v=1775643936
-    Price: € 100,00 EUR
-  - [1pc](https://ellecera.nl/products/deep-collagen-mask-peel-off-mask-anti-wrinkle-lifting-face-skin-care-masks-bio-pack-night-wrapping-woman-overnight-skin-hydrates2026-04-08-18-25-31?variant=56991811633529)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/S241e30cc83394f48a9c1076752fdc4514.jpg_1100x1100q375_132758b6-5dd8-4f40-8bbe-ac8392333b12.webp?v=1775643934
-    Price: € 100,00 EUR
-  - [75g](https://ellecera.nl/products/deep-collagen-mask-peel-off-mask-anti-wrinkle-lifting-face-skin-care-masks-bio-pack-night-wrapping-woman-overnight-skin-hydrates2026-04-08-18-25-31?variant=56991811666297)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/S5a6df047d29c49da8d4220fea4b465f1G.jpg_1100x1100q375_11655d0a-3ffa-49f3-b509-1fedf8ca8185.webp?v=1775643935
-    Price: € 100,00 EUR
+  Image: https://cdn.shopify.com/s/files/1/0984/5650/2649/files/18_5d8d3795-f0db-4627-8212-568b9f7c697c.png?v=1776780853
+  Price: € 34,95 EUR
 - [Electric Firming Eye Cream Accelerate Absorption Moisturize Skin Fade Dark Circles Reduce Crow's Feet Automatic Roller Eye Serum2026-04-08 18:28:00](https://ellecera.nl/products/electric-firming-eye-cream-accelerate-absorption-moisturize-skin-fade-dark-circles-reduce-crows-feet-automatic-roller-eye-serum2026-04-08-18-28-00)
   Updated: 2026-04-08T22:28:08Z
   Vendor: NicheBay
@@ -262,23 +235,23 @@ ElleCera is een Nederlandse webshop voor skincare, make-up en beauty tools, geï
 ## Collections
 
 - [Alle Skincare & Beauty Producten – Korean Beauty Webshop | ElleCera](https://ellecera.nl/collections/frontpage): Bekijk het volledige ElleCera assortiment. Skincare, make-up en beauty tools geïnspireerd door Korean beauty. ✓ Gratis verzending ✓ 30 dagen garantie.
-  Updated: 2026-04-18T11:58:59Z
-  Total Products: 12
+  Updated: 2026-04-26T12:09:10Z
+  Total Products: 13
 - [Best Sellers | Populaire Huidverzorging & Make-Up | ElleCera](https://ellecera.nl/collections/best-sellers): Shop onze best verkochte huidverzorging en make-up. Ontdek waarom vrouwen kiezen voor producten die de huid ondersteunen en comfortabel laten aanvoelen.
-  Updated: 2026-04-18T11:58:59Z
-  Total Products: 12
+  Updated: 2026-04-26T12:09:10Z
+  Total Products: 13
 - [Make-Up Kopen – Natuurlijke Korean Beauty Make-Up | ElleCera](https://ellecera.nl/collections/make-up): Natuurlijke make-up die je huid ondersteunt en niet maskeert. Korean beauty geïnspireerde formules voor een stralende look.✓Gratis verzending ✓30 dagen garantie
-  Updated: 2026-04-18T11:58:59Z
+  Updated: 2026-04-26T12:09:10Z
   Total Products: 4
 - [Skincare Kopen – Korean Beauty Huidverzorging Nederland | ElleCera](https://ellecera.nl/collections/skincare): Korean beauty skincare voor droge, gevoelige en uit balans geraakte huid. Serums, oogpatches en meer. ✓ Dierproefvrij ✓ Gratis verzending ✓ 30 dagen garantie.
-  Updated: 2026-04-18T11:58:59Z
-  Total Products: 10
+  Updated: 2026-04-26T12:09:10Z
+  Total Products: 11
 - [Beauty Tools Kopen – Elektrische Huidverzorging Apparaten | ElleCera](https://ellecera.nl/collections/accessoires): Elektrische beauty tools voor thuis. Microneedling, cupping massage, hoofdhuidmassage en meer. ✓ Professioneel resultaat ✓ Gratis verzending ✓ 30 dagen garantie
-  Updated: 2026-04-18T11:58:59Z
-  Total Products: 7
+  Updated: 2026-04-26T12:09:10Z
+  Total Products: 8
 - [Skincare Bundels Kopen – 1+1 Gratis Beauty Sets | ElleCera](https://ellecera.nl/collections/bundels): Combineer je favoriete ElleCera producten voordelig. Skincare en beauty tool bundels met 1+1 gratis aanbieding. ✓ Gratis verzending ✓ 30 dagen garantie.
-  Updated: 2026-04-18T11:58:59Z
-  Total Products: 7
+  Updated: 2026-04-26T12:09:10Z
+  Total Products: 8
 
 ## Blogs
 
