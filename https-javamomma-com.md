@@ -9,12 +9,12 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
 - Timezone: America/New_York
 - Created At: 2024-04-03T14:59:24Z
 - Contact Email: support@javamomma.com
-- Updated At: 2026-04-20T00:00:51.429Z
+- Updated At: 2026-04-27T04:00:31.387Z
 
 ## Products
 
 - [Brazil Dark Roast | Java Momma | Single Origin](https://javamomma.com/products/brazil-dark-roast-coffee): Single-origin dark roast from Brazil's Cerrado region. Smooth, medium body with a hint of chocolate. Air-roasted to order with solar power.
-  Updated: 2026-04-13T19:23:00Z
+  Updated: 2026-04-25T14:46:48Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -48,7 +48,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/brazil_dark_kcups_3fe9e449-576c-4456-8a9c-649656939478.jpg?v=1776059570
     Price: $17.99 USD
 - [Good Morning, Mother F**ker! | Java Momma](https://javamomma.com/products/good-morning-mother-f-ker): A Brazilian and Guatemalan blend that's smooth enough to drink at 6am and caffeinated enough to mean it. Air-roasted to order. Unflavored.
-  Updated: 2026-04-19T21:36:00Z
+  Updated: 2026-04-26T20:52:25Z
   Vendor: Underground by Java Momma
   Product Type: Coffee
   Availability: Available
@@ -75,7 +75,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Availability: Available
     Price: $17.99 USD
 - [Amaretto Flavored Coffee | Java Momma](https://javamomma.com/products/amaretto-flavored-coffee): Amaretto-flavored medium roast with almond and cherry character. Brazilian base, air-roasted to order. Zero sugar, regular and decaf.
-  Updated: 2026-04-19T01:27:47Z
+  Updated: 2026-04-27T02:12:06Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -145,7 +145,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/amaretto-flavored-coffeecoffee-462014.jpg?v=1764754966
     Price: $19.99 USD
 - [All Jacked Up Espresso Blend | Java Momma](https://javamomma.com/products/all-jacked-up-espresso-blend): A five-origin espresso blend with natural sweetness and real depth. Air-roasted to order. Espresso grind and whole bean. Unflavored.
-  Updated: 2026-04-19T04:23:40Z
+  Updated: 2026-04-26T18:47:46Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -167,7 +167,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/all-jacked-up-espresso-blendcoffee-880812.jpg?v=1717759151
     Price: $25.99 USD
 - [Brazil Medium Roast | Java Momma | Single Origin](https://javamomma.com/products/brazil-medium-roast): Single-origin medium roast from Brazil's Cerrado region. Smooth, nutty, naturally low acid. Air-roasted to order. Easy on the stomach.
-  Updated: 2026-04-18T18:28:57Z
+  Updated: 2026-04-26T05:11:25Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -201,7 +201,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/brazil_medium_hero.jpg?v=1774431536
     Price: $17.99 USD
 - [Cookiedoodle Flavored Coffee | Java Momma](https://javamomma.com/products/cookiedoodle-flavored-coffee): Snickerdoodle-inspired medium roast with cinnamon and sugar cookie flavor. Brazilian base, air-roasted to order. Zero sugar, decaf available.
-  Updated: 2026-04-19T21:28:47Z
+  Updated: 2026-04-27T01:09:37Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -255,7 +255,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Availability: Available
     Price: $19.99 USD
 - [Crème Brûlée Flavored Coffee](https://javamomma.com/products/creme-brulee-flavored-coffee): Vanilla custard and burnt caramel in a smooth medium roast. Zero sugar, air-roasted to order. Regular and decaf available.
-  Updated: 2026-04-19T17:48:00Z
+  Updated: 2026-04-26T20:03:56Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -325,7 +325,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/creme-brulee-flavored-coffeecoffee-158929.jpg?v=1715582714
     Price: $17.99 USD
 - [Caramel Hazelnut Cupcake Coffee | Java Momma](https://javamomma.com/products/caramel-hazelnut-cupcake-flavored-coffee): Hazelnut, caramel, and vanilla in a smooth medium roast. Zero sugar, air-roasted to order. Regular and decaf available.
-  Updated: 2026-04-19T17:45:57Z
+  Updated: 2026-04-27T01:09:36Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -395,7 +395,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/caramel-hazelnut-cupcake-flavored-coffeecoffee-495689.jpg?v=1715582698
     Price: $19.99 USD
 - [Colombian Medium Roast | Java Momma | Single Origin](https://javamomma.com/products/colombian-medium-roast): Single-origin Colombian medium roast with bright acidity, citrus notes, and a caramel finish. Air-roasted to order. Unflavored.
-  Updated: 2026-04-18T19:36:47Z
+  Updated: 2026-04-26T23:36:36Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -467,7 +467,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/colombian-dark-roastcoffee-996814.jpg?v=1715582711
     Price: $17.99 USD
 - [Coffee Couture Mixed Roast Blend](https://javamomma.com/products/coffee-couture-mixed-roast-blend): Coffee Couture is a smooth four-bean blend with light, medium, and dark roasts—balanced, classic, and easy to love.
-  Updated: 2026-04-18T21:39:47Z
+  Updated: 2026-04-25T13:39:27Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -501,7 +501,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/coffee_couture_kcups.jpg?v=1771931831
     Price: $17.99 USD
 - [Death by Chocolate Flavored Coffee](https://javamomma.com/products/death-by-chocolate-flavored-coffee): Indulge in Death by Chocolate coffee—rich medium roast Arabica with decadent dark chocolate flavor. Sugar-free, keto-friendly, available in whole bean, ground, decaf, and Keurig® compatible single-serve cups.”
-  Updated: 2026-04-19T13:46:47Z
+  Updated: 2026-04-27T01:20:16Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -571,7 +571,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/java-momma-death-by-chocolate-flavored-coffee-cover.jpg?v=1757306521
     Price: $19.99 USD
 - [French Vanilla Flavored Coffee](https://javamomma.com/products/french-vanilla-flavored-coffee): French Vanilla Flavored Coffee, a timeless classic that never goes out of style! This smooth and creamy coffee is the perfect way to start your day with a touch of indulgence. Available in Regular and Decaf in all of our grinds. Single Serve comes with 12 cups and is compatible with Keurig® 1.0 and Keurig® 2.0 machines. Flavored Medium Roast Zero sugar or sweeteners. Gluten Free. Keto friendly. Nutritional Information Our air-roasted coffee, whether flavored or unflavored, is crafted to deliver a full-bodied flavor while staying light on calories and free of common dietary concerns. Here's what you can expect in every cup: Total Calories: Less than 5 cal Total Fat: Less than 0.5 mg Cholesterol: 0 mg Carbohydrates: 0 g Protein: Less than 1 g Our coffee contains no sugar, carbs, or cholesterol, making it a guilt-free beverage choice that won't interfere with your dietary goals. Enjoy it black for a pure coffee experience or add your preferred milk or creamer – it’s delicious either way! Please note that caffeine levels may vary depending on the type of beans, roasting method, and brewing process. Caffeine Content Caffeine levels in our coffee are naturally sourced from the finest beans. The exact caffeine content can vary based on the origin of the beans, the specific roasting process, and how you brew it. Whether you’re looking for a bold morning boost or a smoother, mild sip, our selection has something for every caffeine lover. Allergen-Friendly & Diet-Conscious We believe everyone should enjoy coffee without worry! Here’s why our flavored options are a safe and delicious choice: Allergen-Free: Our flavorings are crafted to be free of the top eight allergens. Sugar-Free & Gluten-Free: All of our flavored coffees use premium ingredients with no added sugar, dairy, or gluten. This means you can indulge in flavors like vanilla, hazelnut, or mocha without the extra stuff you don’t want. About the Bean Our coffee beans are sourced from top coffee-growing regions worldwide, with a special focus on quality and flavor. One of our favorites is the Brazilian Medium Roast, which serves as the base for many of our flavored varieties. Origin: Sourced from the famous Santos region in Brazil, known for its rich coffee-growing tradition. Flavor Profile: Nutty, smooth, and versatile. Perfect as a standalone brew or as a foundation for our flavored coffees. Roasting Process: We air roast every batch to perfection using a unique method that brings out the natural flavors of the beans. Sustainability & Air Roasting At Java Momma, we roast our coffee beans with care for both flavor and the environment. Here’s why our process stands out: Air Roasting: Our coffee is air-roasted, a method that evenly roasts each bean to bring out its best flavors. This process eliminates the smoky, bitter taste that can come from drum roasting. Sustainable Energy: We roast our coffee using solar-powered technology, reducing our carbon footprint and ensuring that every cup is as eco-friendly as it is delicious. Planet-Friendly: By using sustainable solar energy, we’re not only producing top-quality coffee but also doing our part for the environment, so you can sip with confidence. How to Brew Indulge in the Perfect Cup of Java Momma Coffee! Ready to experience a blissful cup of coffee? Follow these simple instructions to brew a perfect cup of Java Momma goodness. Note: Cup sizes may vary, but we've gone with the standard 8 ounces for a normal mug. Adjust the measurements accordingly based on your preferred cup size. Select Premium Java Momma Beans: Begin by choosing our premium, freshly-roasted coffee beans. They are the heart and soul of an exceptional cup of coffee. Take a moment to appreciate their enticing aromas and rich flavors. Measure with Precision: For making a standard 8 oz. cup of coffee, use two level tablespoon of ground coffee. Remember, this measurement serves as a great starting point. Adjust the amount of coffee to suit your preferred strength and flavor, keeping in mind that different cup sizes may require varying amounts. Embrace Fresh, Cold Water: Fill your kettle or coffee maker with fresh, cold water. Cold water ensures proper extraction of the coffee's flavors. Avoid using previously boiled water, as it may negatively affect the taste. Brew to Perfection: Follow the instructions of your coffee maker to brew your Java Momma coffee. Ensure that the water temperature is optimal for extraction, allowing the flavors to develop fully. Let the brewing process work its magic. Sip and Savor: As soon as the brewing is complete, pour the aromatic coffee into your favorite mug. Take a moment to appreciate the enticing aroma before taking your first sip. Engage your senses as the flavors dance on your palate, indulging you in the rich Java Momma experience. Remember, each person's cup size preference may vary. Adjust the measurements and brewing time accordingly to achieve your desired strength and flavor. The joy of coffee lies in customization and finding what suits your taste buds best. Savor every sip and cherish the delightful moments that Java Momma brings to your coffee journey. Cheers to the art of a satisfying cup of coffee!
-  Updated: 2026-04-19T19:47:47Z
+  Updated: 2026-04-26T23:36:36Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -641,77 +641,77 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/french-vanilla-flavored-coffeecoffee-562282.jpg?v=1715582720
     Price: $19.99 USD
 - [Highlander Grogg Flavored Coffee - Bold Comfort in Every Sip](https://javamomma.com/products/highlander-grogg-flavored-coffee): Experience the rich taste of Highlander Grogg flavored coffee, a smooth blend of buttery rum and warm spices that you’ll love to savor every day.
-  Updated: 2026-04-19T02:18:07Z
+  Updated: 2026-04-27T03:45:36Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander_grogg_coffee_hero.jpg?v=1769779606
   - [Regular / 1/2 pound / Auto Drip](https://javamomma.com/products/highlander-grogg-flavored-coffee?variant=41184477511747)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander-grogg-flavored-coffeecoffee-888673.jpg?v=1772972263
+    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander_grogg_coffee_hero.jpg?v=1769779606
     Price: $13.99 USD
   - [Regular / 1/2 pound / French Press](https://javamomma.com/products/highlander-grogg-flavored-coffee?variant=41184477675587)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander-grogg-flavored-coffeecoffee-888673.jpg?v=1772972263
+    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander_grogg_coffee_hero.jpg?v=1769779606
     Price: $13.99 USD
   - [Regular / 1/2 pound / Whole Bean](https://javamomma.com/products/highlander-grogg-flavored-coffee?variant=41184477806659)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander-grogg-flavored-coffeecoffee-888673.jpg?v=1772972263
+    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander_grogg_coffee_hero.jpg?v=1769779606
     Price: $13.99 USD
   - [Regular / 1 pound / Auto Drip](https://javamomma.com/products/highlander-grogg-flavored-coffee?variant=41184477544515)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander-grogg-flavored-coffeecoffee-888673.jpg?v=1772972263
+    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander_grogg_coffee_hero.jpg?v=1769779606
     Price: $25.99 USD
   - [Regular / 1 pound / French Press](https://javamomma.com/products/highlander-grogg-flavored-coffee?variant=41184477708355)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander-grogg-flavored-coffeecoffee-888673.jpg?v=1772972263
+    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander_grogg_coffee_hero.jpg?v=1769779606
     Price: $25.99 USD
   - [Regular / 1 pound / Whole Bean](https://javamomma.com/products/highlander-grogg-flavored-coffee?variant=41184477839427)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander-grogg-flavored-coffeecoffee-888673.jpg?v=1772972263
+    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander_grogg_coffee_hero.jpg?v=1769779606
     Price: $25.99 USD
   - [Regular / 5 pound / Whole Bean](https://javamomma.com/products/highlander-grogg-flavored-coffee?variant=41184477872195)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander-grogg-flavored-coffeecoffee-888673.jpg?v=1772972263
+    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander_grogg_coffee_hero.jpg?v=1769779606
     Price: $84.99 USD
   - [Regular / 2 oz. Sample / Auto Drip](https://javamomma.com/products/highlander-grogg-flavored-coffee?variant=41184478068803)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander-grogg-flavored-coffeecoffee-888673.jpg?v=1772972263
+    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander_grogg_coffee_hero.jpg?v=1769779606
     Price: $3.50 USD
   - [Decaf / 1/2 pound / Auto Drip](https://javamomma.com/products/highlander-grogg-flavored-coffee?variant=41184477577283)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander-grogg-flavored-coffeecoffee-888673.jpg?v=1772972263
+    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander_grogg_coffee_hero.jpg?v=1769779606
     Price: $15.99 USD
   - [Decaf / 1/2 pound / French Press](https://javamomma.com/products/highlander-grogg-flavored-coffee?variant=41184477741123)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander-grogg-flavored-coffeecoffee-888673.jpg?v=1772972263
+    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander_grogg_coffee_hero.jpg?v=1769779606
     Price: $15.99 USD
   - [Decaf / 1/2 pound / Whole Bean](https://javamomma.com/products/highlander-grogg-flavored-coffee?variant=41184477904963)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander-grogg-flavored-coffeecoffee-888673.jpg?v=1772972263
+    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander_grogg_coffee_hero.jpg?v=1769779606
     Price: $15.99 USD
   - [Decaf / 1 pound / Auto Drip](https://javamomma.com/products/highlander-grogg-flavored-coffee?variant=41184477642819)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander-grogg-flavored-coffeecoffee-888673.jpg?v=1772972263
+    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander_grogg_coffee_hero.jpg?v=1769779606
     Price: $27.99 USD
   - [Decaf / 1 pound / French Press](https://javamomma.com/products/highlander-grogg-flavored-coffee?variant=41184477773891)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander-grogg-flavored-coffeecoffee-888673.jpg?v=1772972263
+    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander_grogg_coffee_hero.jpg?v=1769779606
     Price: $27.99 USD
   - [Decaf / 1 pound / Whole Bean](https://javamomma.com/products/highlander-grogg-flavored-coffee?variant=41184477970499)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander-grogg-flavored-coffeecoffee-888673.jpg?v=1772972263
+    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander_grogg_coffee_hero.jpg?v=1769779606
     Price: $27.99 USD
   - [Regular / 12 Single Serve Cups / Auto Drip](https://javamomma.com/products/highlander-grogg-flavored-coffee?variant=41306759626819)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander-grogg-flavored-coffeecoffee-888673.jpg?v=1772972263
+    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander_grogg_flavored_coffee_pods.jpg?v=1769779606
     Price: $17.99 USD
   - [Decaf / 12 Single Serve Cups / Auto Drip](https://javamomma.com/products/highlander-grogg-flavored-coffee?variant=41306759856195)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander-grogg-flavored-coffeecoffee-888673.jpg?v=1772972263
+    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/highlander_grogg_flavored_coffee_pods.jpg?v=1769779606
     Price: $19.99 USD
 - [Harley’s Blend Coffee 🏍️ – Smooth, Bold & Born to Be Wild](https://javamomma.com/products/harleys-blend): Harley’s Blend is a bold 4-bean medium roast with smooth, wild flavor. ☕ Start your engine & fuel your day—shop now!
-  Updated: 2026-04-19T19:28:27Z
+  Updated: 2026-04-24T17:27:48Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -779,7 +779,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/indian-monsoon-malabar-single-origin-dark-roastcoffee-596298.jpg?v=1759289689
     Price: $17.99 USD
 - [I.B. Dragon Dark Roast Coffee | Single-Origin Brazil | Air-Roasted](https://javamomma.com/products/i-b-dragon): Wake up your inner dragon with I.B. Dragon — a bold, single-origin Brazilian dark roast that’s air-roasted with 100% solar power. Natural notes of caramel, chocolate, and roasted nuts. Available in 8 oz & 1 lb bags (auto-drip, French press, whole bean) plus Keurig® 1.0 & 2.0 compatible Single-Serve cups.
-  Updated: 2026-04-19T20:47:37Z
+  Updated: 2026-04-25T06:24:25Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -813,7 +813,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/ib-dragon-dark-roast-blendcoffee-754528.jpg?v=1764557217
     Price: $17.99 USD
 - [Jamaican Me Crazy® Coffee 🌴 – Tropical Escape in a Cup](https://javamomma.com/products/jamaican-me-crazy®-flavored-coffee): Sip paradise with Jamaican Me Crazy® coffee! A smooth medium roast infused with rich rum, creamy caramel & vanilla. Air-roasted, sugar-free, gluten-free, keto-friendly. Available in bags & Keurig® compatible cups.
-  Updated: 2026-04-19T23:58:07Z
+  Updated: 2026-04-26T12:04:16Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -883,7 +883,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/jamaican-me-crazy-lifestyle-mug.jpg?v=1757305978
     Price: $19.99 USD
 - [Jawesome Flavored Coffee](https://javamomma.com/products/jawesome-flavored-coffee): You're gonna need a bigger mug. Java Momma's Jawesome is ready for shark season. Hints of toasted coconut cookies, almonds, cinnamon, and just a bite of vanilla will have you hooked! Available in Regular and Decaf in all of our grinds. Single Serve comes with 12 cups and is compatible with Keurig® 1.0 and Keurig® 2.0 machines. Flavored Medium Roast Zero sugar or sweeteners. Gluten Free. Keto friendly. Nutritional Information Our air-roasted coffee, whether flavored or unflavored, is crafted to deliver a full-bodied flavor while staying light on calories and free of common dietary concerns. Here's what you can expect in every cup: Total Calories: Less than 5 cal Total Fat: Less than 0.5 mg Cholesterol: 0 mg Carbohydrates: 0 g Protein: Less than 1 g Our coffee contains no sugar, carbs, or cholesterol, making it a guilt-free beverage choice that won't interfere with your dietary goals. Enjoy it black for a pure coffee experience or add your preferred milk or creamer – it’s delicious either way! Please note that caffeine levels may vary depending on the type of beans, roasting method, and brewing process. Caffeine Content Caffeine levels in our coffee are naturally sourced from the finest beans. The exact caffeine content can vary based on the origin of the beans, the specific roasting process, and how you brew it. Whether you’re looking for a bold morning boost or a smoother, mild sip, our selection has something for every caffeine lover. Allergen-Friendly & Diet-Conscious We believe everyone should enjoy coffee without worry! Here’s why our flavored options are a safe and delicious choice: Allergen-Free: Our flavorings are crafted to be free of the top eight allergens. Sugar-Free & Gluten-Free: All of our flavored coffees use premium ingredients with no added sugar, dairy, or gluten. This means you can indulge in flavors like vanilla, hazelnut, or mocha without the extra stuff you don’t want. About the Bean Our coffee beans are sourced from top coffee-growing regions worldwide, with a special focus on quality and flavor. One of our favorites is the Brazilian Medium Roast, which serves as the base for many of our flavored varieties. Origin: Sourced from the famous Santos region in Brazil, known for its rich coffee-growing tradition. Flavor Profile: Nutty, smooth, and versatile. Perfect as a standalone brew or as a foundation for our flavored coffees. Roasting Process: We air roast every batch to perfection using a unique method that brings out the natural flavors of the beans. Sustainability & Air Roasting At Java Momma, we roast our coffee beans with care for both flavor and the environment. Here’s why our process stands out: Air Roasting: Our coffee is air-roasted, a method that evenly roasts each bean to bring out its best flavors. This process eliminates the smoky, bitter taste that can come from drum roasting. Sustainable Energy: We roast our coffee using solar-powered technology, reducing our carbon footprint and ensuring that every cup is as eco-friendly as it is delicious. Planet-Friendly: By using sustainable solar energy, we’re not only producing top-quality coffee but also doing our part for the environment, so you can sip with confidence. How to Brew Indulge in the Perfect Cup of Java Momma Coffee! Ready to experience a blissful cup of coffee? Follow these simple instructions to brew a perfect cup of Java Momma goodness. Note: Cup sizes may vary, but we've gone with the standard 8 ounces for a normal mug. Adjust the measurements accordingly based on your preferred cup size. Select Premium Java Momma Beans: Begin by choosing our premium, freshly-roasted coffee beans. They are the heart and soul of an exceptional cup of coffee. Take a moment to appreciate their enticing aromas and rich flavors. Measure with Precision: For making a standard 8 oz. cup of coffee, use two level tablespoon of ground coffee. Remember, this measurement serves as a great starting point. Adjust the amount of coffee to suit your preferred strength and flavor, keeping in mind that different cup sizes may require varying amounts. Embrace Fresh, Cold Water: Fill your kettle or coffee maker with fresh, cold water. Cold water ensures proper extraction of the coffee's flavors. Avoid using previously boiled water, as it may negatively affect the taste. Brew to Perfection: Follow the instructions of your coffee maker to brew your Java Momma coffee. Ensure that the water temperature is optimal for extraction, allowing the flavors to develop fully. Let the brewing process work its magic. Sip and Savor: As soon as the brewing is complete, pour the aromatic coffee into your favorite mug. Take a moment to appreciate the enticing aroma before taking your first sip. Engage your senses as the flavors dance on your palate, indulging you in the rich Java Momma experience. Remember, each person's cup size preference may vary. Adjust the measurements and brewing time accordingly to achieve your desired strength and flavor. The joy of coffee lies in customization and finding what suits your taste buds best. Savor every sip and cherish the delightful moments that Java Momma brings to your coffee journey. Cheers to the art of a satisfying cup of coffee!
-  Updated: 2026-04-19T17:44:17Z
+  Updated: 2026-04-26T12:04:16Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -953,7 +953,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/jawesome-flavored-coffeecoffee-178066.jpg?v=1715582728
     Price: $19.99 USD
 - [Nuts About You Flavored Coffee](https://javamomma.com/products/nuts-about-you-flavored-coffee): Dive into a trio of nutty indulgence where buttered pecans, toasted almonds, and a hint of coconut blend into a symphony of flavors. It's a love letter to nut aficionados everywhere. Rich, buttery, and delightfully nutty, this brew invites you to ponder the eternal question with every smooth sip: is it PEcan or peCAHN? Whichever way you say it, you're going to adore it. Available in Regular and Decaf in all of our grinds. Single Serve comes with 12 cups and is compatible with Keurig® 1.0 and Keurig® 2.0 machines. Flavored Medium Roast Zero sugar or sweeteners. Gluten Free. Keto friendly. Nutritional Information Our air-roasted coffee, whether flavored or unflavored, is crafted to deliver a full-bodied flavor while staying light on calories and free of common dietary concerns. Here's what you can expect in every cup: Total Calories: Less than 5 cal Total Fat: Less than 0.5 mg Cholesterol: 0 mg Carbohydrates: 0 g Protein: Less than 1 g Our coffee contains no sugar, carbs, or cholesterol, making it a guilt-free beverage choice that won't interfere with your dietary goals. Enjoy it black for a pure coffee experience or add your preferred milk or creamer – it’s delicious either way! Please note that caffeine levels may vary depending on the type of beans, roasting method, and brewing process. Caffeine Content Caffeine levels in our coffee are naturally sourced from the finest beans. The exact caffeine content can vary based on the origin of the beans, the specific roasting process, and how you brew it. Whether you’re looking for a bold morning boost or a smoother, mild sip, our selection has something for every caffeine lover. Allergen-Friendly & Diet-Conscious We believe everyone should enjoy coffee without worry! Here’s why our flavored options are a safe and delicious choice: Allergen-Free: Our flavorings are crafted to be free of the top eight allergens. Sugar-Free & Gluten-Free: All of our flavored coffees use premium ingredients with no added sugar, dairy, or gluten. This means you can indulge in flavors like vanilla, hazelnut, or mocha without the extra stuff you don’t want. About the Bean Our coffee beans are sourced from top coffee-growing regions worldwide, with a special focus on quality and flavor. One of our favorites is the Brazilian Medium Roast, which serves as the base for many of our flavored varieties. Origin: Sourced from the famous Santos region in Brazil, known for its rich coffee-growing tradition. Flavor Profile: Nutty, smooth, and versatile. Perfect as a standalone brew or as a foundation for our flavored coffees. Roasting Process: We air roast every batch to perfection using a unique method that brings out the natural flavors of the beans. Sustainability & Air Roasting At Java Momma, we roast our coffee beans with care for both flavor and the environment. Here’s why our process stands out: Air Roasting: Our coffee is air-roasted, a method that evenly roasts each bean to bring out its best flavors. This process eliminates the smoky, bitter taste that can come from drum roasting. Sustainable Energy: We roast our coffee using solar-powered technology, reducing our carbon footprint and ensuring that every cup is as eco-friendly as it is delicious. Planet-Friendly: By using sustainable solar energy, we’re not only producing top-quality coffee but also doing our part for the environment, so you can sip with confidence. How to Brew Indulge in the Perfect Cup of Java Momma Coffee! Ready to experience a blissful cup of coffee? Follow these simple instructions to brew a perfect cup of Java Momma goodness. Note: Cup sizes may vary, but we've gone with the standard 8 ounces for a normal mug. Adjust the measurements accordingly based on your preferred cup size. Select Premium Java Momma Beans: Begin by choosing our premium, freshly-roasted coffee beans. They are the heart and soul of an exceptional cup of coffee. Take a moment to appreciate their enticing aromas and rich flavors. Measure with Precision: For making a standard 8 oz. cup of coffee, use two level tablespoon of ground coffee. Remember, this measurement serves as a great starting point. Adjust the amount of coffee to suit your preferred strength and flavor, keeping in mind that different cup sizes may require varying amounts. Embrace Fresh, Cold Water: Fill your kettle or coffee maker with fresh, cold water. Cold water ensures proper extraction of the coffee's flavors. Avoid using previously boiled water, as it may negatively affect the taste. Brew to Perfection: Follow the instructions of your coffee maker to brew your Java Momma coffee. Ensure that the water temperature is optimal for extraction, allowing the flavors to develop fully. Let the brewing process work its magic. Sip and Savor: As soon as the brewing is complete, pour the aromatic coffee into your favorite mug. Take a moment to appreciate the enticing aroma before taking your first sip. Engage your senses as the flavors dance on your palate, indulging you in the rich Java Momma experience. Remember, each person's cup size preference may vary. Adjust the measurements and brewing time accordingly to achieve your desired strength and flavor. The joy of coffee lies in customization and finding what suits your taste buds best. Savor every sip and cherish the delightful moments that Java Momma brings to your coffee journey. Cheers to the art of a satisfying cup of coffee!
-  Updated: 2026-04-19T23:58:07Z
+  Updated: 2026-04-24T11:55:46Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -1015,7 +1015,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/nuts-about-you-flavored-coffeecoffee-236323.jpg?v=1715582892
     Price: $19.99 USD
 - [Rainforest Crunch Flavored Coffee](https://javamomma.com/products/rainforest-crunch-flavored-coffee): Rainforest Crunch Flavored Coffee Go ahead. Take the hammock. The emails will still be there when you get back. Out there, it's a lot. In here, it's toasted almonds, browned butter hazelnuts, macadamias, and a quiet little hint of vanilla — all riding a smooth medium roast that doesn't demand anything from you. Rainforest Crunch is what your afternoon break tastes like when you finally decide to take one. No agenda. No noise. Just the kind of cup that makes you feel like you briefly escaped to somewhere with better air. Available in regular and decaf. Because the vibe is optional, the coffee is not. Flavored medium roast — smooth, nutty, with a warm vanilla finish Flavor notes: toasted almonds, browned butter hazelnuts, macadamia, hint of vanilla 100% Arabica coffee Air roasted fresh to order in small batches Powered by 100% renewable solar energy Ethically sourced beans Available in Regular & Decaf Grinds: Whole Bean, Auto Drip, French Press, or Other (specify at checkout) Single Serve: 12-count pods, compatible with Keurig® 1.0 and 2.0 machines 8 oz / 227g per bag The Beans Roast: Medium Type: Flavored Base: 100% Arabica Coffee Flavor Profile: Toasted almonds, browned butter hazelnuts, macadamia, hint of vanilla. These flavor notes come from natural flavoring applied after roasting — not from the roast itself. Roast Process: Air roasted fresh to order in small batches at our roastery in Danville, PA. Sourcing: Ethically sourced. Sustainably grown. Grind Options: Whole Bean · Auto Drip · French Press · Other Single Serve: 12-count pods · Compatible with Keurig® 1.0 & 2.0 Size: 8 oz / 227g Nutritional Info Serving Size: 1 rounded tablespoon (approx. 10g) per 6 oz water Calories per serving (black): ~5 Total Fat: 0g Sodium: 5mg Total Carbohydrate: 0g Protein: 0g Caffeine: Approximately 95–150mg per 8 oz serving (Regular) · Trace amounts (Decaf) Ingredients: 100% Arabica Coffee, Natural Flavors. Note: Nutritional values are approximate and based on black coffee prepared as directed. Adding milk, cream, or sweeteners will change nutritional content. How to Brew Rainforest Crunch plays well with pretty much any brew method. The nutty, warm notes come through best when you're not rushing it — but we get it if you are. Auto Drip: 1–2 tablespoons per 6 oz water. Standard brew temp (195–205°F). Let it drip, don't hover. French Press: 1 heaping tablespoon per 4 oz water. Steep 4 minutes. Press slow. Enjoy the moment you just made for yourself. Single Serve (Keurig® 1.0 & 2.0): Drop the pod in. Hit brew. Done. Compatible with all standard Keurig® 1.0 and 2.0 machines. Cold Brew: Coarse grind. 1 cup grounds to 4 cups cold water. Steep in fridge 12–18 hours. Strain. Pour over ice. Add a splash of cream if you want to lean into the hazelnut situation. Pro tip: Flavored coffees love a lighter touch — if your brew is running bitter, back off the steep time or coarsen your grind slightly before you blame the coffee. FAQ Is this actually nutty, or is "nutty" just coffee-speak for something I won't taste? It's actually nutty. The toasted almond and browned butter hazelnut notes are distinct — not background whispers. The macadamia adds a smooth, almost buttery quality, and the vanilla keeps the whole thing from going too far into granola territory. You'll taste it. Where do the flavor notes come from? From natural flavoring applied to the beans after roasting — not from the roast itself. The base medium roast provides a clean, smooth canvas; the flavoring does the nutty heavy lifting. This is how flavored coffee works, and we think it's worth saying out loud. Does it come in decaf? Yes. Same flavor, same smooth medium roast — just without the caffeine. The decaf is processed using the Mountain Water Process, which removes caffeine without chemical solvents. Great for afternoon cups when you want the vibe without the 11pm consequences. Will the nut flavors affect me if I have a tree nut allergy? The flavor notes — almonds, hazelnuts, macadamia — come entirely from natural flavoring. There are no actual nuts in this coffee. If you have a severe allergy, we still recommend checking with us directly so we can confirm current supplier specs, but no tree nut ingredients are used. What grind should I choose? Auto Drip covers most home coffee makers. French Press if you want a fuller body. Whole Bean if you grind at home (freshest option). Not sure? Auto Drip is a safe default — it works with the widest range of machines. Is it compatible with my Keurig®? Single serve pods work with Keurig® 1.0 and 2.0 machines. If you've got an older or off-brand pod machine, check your machine's compatibility before ordering — we'd  for your escape-to-the-hammock moment to be delayed by a pod that doesn't fit. What pairs well with Rainforest Crunch? Honestly, anything you'd eat in a hammock. But if you want something specific: any of our Munchies snacks make a solid afternoon pairing, and if you want to rotate your morning cup, our flavored coffee lineup has plenty of options worth exploring. Is Java Momma coffee fresh roasted? Air roasted to order in small batches in Danville, PA. Roasted by people, not algorithms. Ships fresh. Satisfaction guarantee? Yes. If it's not right, we make it right. That's the whole .
-  Updated: 2026-04-19T23:58:07Z
+  Updated: 2026-04-26T21:58:18Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -1085,7 +1085,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/rainforest_crunch_kcups.jpg?v=1774767836
     Price: $19.99 USD
 - [Sea Salt Caramel Mocha Flavored Coffee | Java Momma](https://javamomma.com/products/sea-salt-caramel-mocha-flavored-coffee): Caramel, chocolate, and sea salt in a medium roast that actually tastes like it sounds. Air-roasted to order. Regular and decaf available.
-  Updated: 2026-04-19T00:58:57Z
+  Updated: 2026-04-25T05:02:15Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -1155,7 +1155,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/sea_salt_caramel_mocha_kcups.jpg?v=1776055349
     Price: $19.99 USD
 - [Sticky Bun Flavored Coffee](https://javamomma.com/products/sticky-bun-flavored-coffee): The perfect marriage between a freshly baked sticky bun and a delicious cup of coffee. This medium roast Brazilian bean is sure to satisfy your cravings for something sweet and caffeinated. Available in Regular and Decaf in all of our grinds. Single Serve comes with 12 cups and is compatible with Keurig® 1.0 and Keurig® 2.0 machines. Flavored Medium Roast Zero sugar or sweeteners. Gluten Free. Keto friendly. Nutritional Information Our air-roasted coffee, whether flavored or unflavored, is crafted to deliver a full-bodied flavor while staying light on calories and free of common dietary concerns. Here's what you can expect in every cup: Total Calories: Less than 5 cal Total Fat: Less than 0.5 mg Cholesterol: 0 mg Carbohydrates: 0 g Protein: Less than 1 g Our coffee contains no sugar, carbs, or cholesterol, making it a guilt-free beverage choice that won't interfere with your dietary goals. Enjoy it black for a pure coffee experience or add your preferred milk or creamer – it’s delicious either way! Please note that caffeine levels may vary depending on the type of beans, roasting method, and brewing process. Caffeine Content Caffeine levels in our coffee are naturally sourced from the finest beans. The exact caffeine content can vary based on the origin of the beans, the specific roasting process, and how you brew it. Whether you’re looking for a bold morning boost or a smoother, mild sip, our selection has something for every caffeine lover. Allergen-Friendly & Diet-Conscious We believe everyone should enjoy coffee without worry! Here’s why our flavored options are a safe and delicious choice: Allergen-Free: Our flavorings are crafted to be free of the top eight allergens. Sugar-Free & Gluten-Free: All of our flavored coffees use premium ingredients with no added sugar, dairy, or gluten. This means you can indulge in flavors like vanilla, hazelnut, or mocha without the extra stuff you don’t want. About the Bean Our coffee beans are sourced from top coffee-growing regions worldwide, with a special focus on quality and flavor. One of our favorites is the Brazilian Medium Roast, which serves as the base for many of our flavored varieties. Origin: Sourced from the famous Santos region in Brazil, known for its rich coffee-growing tradition. Flavor Profile: Nutty, smooth, and versatile. Perfect as a standalone brew or as a foundation for our flavored coffees. Roasting Process: We air roast every batch to perfection using a unique method that brings out the natural flavors of the beans. Sustainability & Air Roasting At Java Momma, we roast our coffee beans with care for both flavor and the environment. Here’s why our process stands out: Air Roasting: Our coffee is air-roasted, a method that evenly roasts each bean to bring out its best flavors. This process eliminates the smoky, bitter taste that can come from drum roasting. Sustainable Energy: We roast our coffee using solar-powered technology, reducing our carbon footprint and ensuring that every cup is as eco-friendly as it is delicious. Planet-Friendly: By using sustainable solar energy, we’re not only producing top-quality coffee but also doing our part for the environment, so you can sip with confidence. How to Brew Indulge in the Perfect Cup of Java Momma Coffee! Ready to experience a blissful cup of coffee? Follow these simple instructions to brew a perfect cup of Java Momma goodness. Note: Cup sizes may vary, but we've gone with the standard 8 ounces for a normal mug. Adjust the measurements accordingly based on your preferred cup size. Select Premium Java Momma Beans: Begin by choosing our premium, freshly-roasted coffee beans. They are the heart and soul of an exceptional cup of coffee. Take a moment to appreciate their enticing aromas and rich flavors. Measure with Precision: For making a standard 8 oz. cup of coffee, use two level tablespoon of ground coffee. Remember, this measurement serves as a great starting point. Adjust the amount of coffee to suit your preferred strength and flavor, keeping in mind that different cup sizes may require varying amounts. Embrace Fresh, Cold Water: Fill your kettle or coffee maker with fresh, cold water. Cold water ensures proper extraction of the coffee's flavors. Avoid using previously boiled water, as it may negatively affect the taste. Brew to Perfection: Follow the instructions of your coffee maker to brew your Java Momma coffee. Ensure that the water temperature is optimal for extraction, allowing the flavors to develop fully. Let the brewing process work its magic. Sip and Savor: As soon as the brewing is complete, pour the aromatic coffee into your favorite mug. Take a moment to appreciate the enticing aroma before taking your first sip. Engage your senses as the flavors dance on your palate, indulging you in the rich Java Momma experience. Remember, each person's cup size preference may vary. Adjust the measurements and brewing time accordingly to achieve your desired strength and flavor. The joy of coffee lies in customization and finding what suits your taste buds best. Savor every sip and cherish the delightful moments that Java Momma brings to your coffee journey. Cheers to the art of a satisfying cup of coffee!
-  Updated: 2026-04-19T16:46:07Z
+  Updated: 2026-04-26T12:04:16Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -1225,7 +1225,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/sticky-bun-flavored-coffeecoffee-119072.jpg?v=1715582905
     Price: $19.99 USD
 - [Salty Honey Caramel Flavored Coffee](https://javamomma.com/products/salty-honey-caramel-flavored-coffee): Salted Honey Caramel! Get ready to meet your new coffee crush – a medium roast Brazilian bean base infused with the irresistible combo of sweet honey and salty caramel. It's like a cozy hug and a high-five all in one sip. Brew it up, and let the flavor adventure begin! THIS COFFEE IS NOT VEGAN - NATURAL HONEY IS USED IN THE FLAVORING Flavored Medium Roast Available in Regular and Decaf in all of our grinds. Single Serve comes with 12 cups and is compatible with Keurig® 1.0 and Keurig® 2.0 machines. Flavored Medium Roast Zero sugar or sweeteners. Gluten Free. Keto friendly. Nutritional Information Our air-roasted coffee, whether flavored or unflavored, is crafted to deliver a full-bodied flavor while staying light on calories and free of common dietary concerns. Here's what you can expect in every cup: Total Calories: Less than 5 cal Total Fat: Less than 0.5 mg Cholesterol: 0 mg Carbohydrates: 0 g Protein: Less than 1 g Our coffee contains no sugar, carbs, or cholesterol, making it a guilt-free beverage choice that won't interfere with your dietary goals. Enjoy it black for a pure coffee experience or add your preferred milk or creamer – it’s delicious either way! Please note that caffeine levels may vary depending on the type of beans, roasting method, and brewing process. Caffeine Content Caffeine levels in our coffee are naturally sourced from the finest beans. The exact caffeine content can vary based on the origin of the beans, the specific roasting process, and how you brew it. Whether you’re looking for a bold morning boost or a smoother, mild sip, our selection has something for every caffeine lover. Allergen-Friendly & Diet-Conscious We believe everyone should enjoy coffee without worry! Here’s why our flavored options are a safe and delicious choice: Allergen-Free: Our flavorings are crafted to be free of the top eight allergens. Sugar-Free & Gluten-Free: All of our flavored coffees use premium ingredients with no added sugar, dairy, or gluten. This means you can indulge in flavors like vanilla, hazelnut, or mocha without the extra stuff you don’t want. About the Bean Our coffee beans are sourced from top coffee-growing regions worldwide, with a special focus on quality and flavor. One of our favorites is the Brazilian Medium Roast, which serves as the base for many of our flavored varieties. Origin: Sourced from the famous Santos region in Brazil, known for its rich coffee-growing tradition. Flavor Profile: Nutty, smooth, and versatile. Perfect as a standalone brew or as a foundation for our flavored coffees. Roasting Process: We air roast every batch to perfection using a unique method that brings out the natural flavors of the beans. Sustainability & Air Roasting At Java Momma, we roast our coffee beans with care for both flavor and the environment. Here’s why our process stands out: Air Roasting: Our coffee is air-roasted, a method that evenly roasts each bean to bring out its best flavors. This process eliminates the smoky, bitter taste that can come from drum roasting. Sustainable Energy: We roast our coffee using solar-powered technology, reducing our carbon footprint and ensuring that every cup is as eco-friendly as it is delicious. Planet-Friendly: By using sustainable solar energy, we’re not only producing top-quality coffee but also doing our part for the environment, so you can sip with confidence. How to Brew Indulge in the Perfect Cup of Java Momma Coffee! Ready to experience a blissful cup of coffee? Follow these simple instructions to brew a perfect cup of Java Momma goodness. Note: Cup sizes may vary, but we've gone with the standard 8 ounces for a normal mug. Adjust the measurements accordingly based on your preferred cup size. Select Premium Java Momma Beans: Begin by choosing our premium, freshly-roasted coffee beans. They are the heart and soul of an exceptional cup of coffee. Take a moment to appreciate their enticing aromas and rich flavors. Measure with Precision: For making a standard 8 oz. cup of coffee, use two level tablespoon of ground coffee. Remember, this measurement serves as a great starting point. Adjust the amount of coffee to suit your preferred strength and flavor, keeping in mind that different cup sizes may require varying amounts. Embrace Fresh, Cold Water: Fill your kettle or coffee maker with fresh, cold water. Cold water ensures proper extraction of the coffee's flavors. Avoid using previously boiled water, as it may negatively affect the taste. Brew to Perfection: Follow the instructions of your coffee maker to brew your Java Momma coffee. Ensure that the water temperature is optimal for extraction, allowing the flavors to develop fully. Let the brewing process work its magic. Sip and Savor: As soon as the brewing is complete, pour the aromatic coffee into your favorite mug. Take a moment to appreciate the enticing aroma before taking your first sip. Engage your senses as the flavors dance on your palate, indulging you in the rich Java Momma experience. Remember, each person's cup size preference may vary. Adjust the measurements and brewing time accordingly to achieve your desired strength and flavor. The joy of coffee lies in customization and finding what suits your taste buds best. Savor every sip and cherish the delightful moments that Java Momma brings to your coffee journey. Cheers to the art of a satisfying cup of coffee!
-  Updated: 2026-04-17T02:39:05Z
+  Updated: 2026-04-26T11:47:25Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -1291,7 +1291,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/salty-honey-caramel-flavored-coffeecoffee-587582.jpg?v=1715582900
     Price: $19.99 USD
 - [Three Beans Butter Beer Flavored Coffee](https://javamomma.com/products/three-beans-flavored-coffee): Sweet, buttery flavored medium roast coffee. Zero sugar, gluten free, available in regular or decaf, plus Keurig® compatible pods.
-  Updated: 2026-04-19T20:45:47Z
+  Updated: 2026-04-27T01:20:27Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -1353,7 +1353,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/three_beans_butter_beer_kcup.jpg?v=1771062563
     Price: $19.99 USD
 - [Victorian Caramel Flavored Coffee](https://javamomma.com/products/victorian-caramel-flavored-coffee): Savor the classic flavor of our Victorian Caramel Coffee, reminiscent of old-fashioned caramel candies. Each sip is like a sweet, timeless treat. Available in Regular and Decaf in all of our grinds. Single Serve comes with 12 cups and is compatible with Keurig® 1.0 and Keurig® 2.0 machines. Flavored Medium Roast Zero sugar or sweeteners. Gluten Free. Keto friendly. Nutritional Information Our air-roasted coffee, whether flavored or unflavored, is crafted to deliver a full-bodied flavor while staying light on calories and free of common dietary concerns. Here's what you can expect in every cup: Total Calories: Less than 5 cal Total Fat: Less than 0.5 mg Cholesterol: 0 mg Carbohydrates: 0 g Protein: Less than 1 g Our coffee contains no sugar, carbs, or cholesterol, making it a guilt-free beverage choice that won't interfere with your dietary goals. Enjoy it black for a pure coffee experience or add your preferred milk or creamer – it’s delicious either way! Please note that caffeine levels may vary depending on the type of beans, roasting method, and brewing process. Caffeine Content Caffeine levels in our coffee are naturally sourced from the finest beans. The exact caffeine content can vary based on the origin of the beans, the specific roasting process, and how you brew it. Whether you’re looking for a bold morning boost or a smoother, mild sip, our selection has something for every caffeine lover. Allergen-Friendly & Diet-Conscious We believe everyone should enjoy coffee without worry! Here’s why our flavored options are a safe and delicious choice: Allergen-Free: Our flavorings are crafted to be free of the top eight allergens. Sugar-Free & Gluten-Free: All of our flavored coffees use premium ingredients with no added sugar, dairy, or gluten. This means you can indulge in flavors like vanilla, hazelnut, or mocha without the extra stuff you don’t want. About the Bean Our coffee beans are sourced from top coffee-growing regions worldwide, with a special focus on quality and flavor. One of our favorites is the Brazilian Medium Roast, which serves as the base for many of our flavored varieties. Origin: Sourced from the famous Santos region in Brazil, known for its rich coffee-growing tradition. Flavor Profile: Nutty, smooth, and versatile. Perfect as a standalone brew or as a foundation for our flavored coffees. Roasting Process: We air roast every batch to perfection using a unique method that brings out the natural flavors of the beans. Sustainability & Air Roasting At Java Momma, we roast our coffee beans with care for both flavor and the environment. Here’s why our process stands out: Air Roasting: Our coffee is air-roasted, a method that evenly roasts each bean to bring out its best flavors. This process eliminates the smoky, bitter taste that can come from drum roasting. Sustainable Energy: We roast our coffee using solar-powered technology, reducing our carbon footprint and ensuring that every cup is as eco-friendly as it is delicious. Planet-Friendly: By using sustainable solar energy, we’re not only producing top-quality coffee but also doing our part for the environment, so you can sip with confidence. How to Brew Indulge in the Perfect Cup of Java Momma Coffee! Ready to experience a blissful cup of coffee? Follow these simple instructions to brew a perfect cup of Java Momma goodness. Note: Cup sizes may vary, but we've gone with the standard 8 ounces for a normal mug. Adjust the measurements accordingly based on your preferred cup size. Select Premium Java Momma Beans: Begin by choosing our premium, freshly-roasted coffee beans. They are the heart and soul of an exceptional cup of coffee. Take a moment to appreciate their enticing aromas and rich flavors. Measure with Precision: For making a standard 8 oz. cup of coffee, use two level tablespoon of ground coffee. Remember, this measurement serves as a great starting point. Adjust the amount of coffee to suit your preferred strength and flavor, keeping in mind that different cup sizes may require varying amounts. Embrace Fresh, Cold Water: Fill your kettle or coffee maker with fresh, cold water. Cold water ensures proper extraction of the coffee's flavors. Avoid using previously boiled water, as it may negatively affect the taste. Brew to Perfection: Follow the instructions of your coffee maker to brew your Java Momma coffee. Ensure that the water temperature is optimal for extraction, allowing the flavors to develop fully. Let the brewing process work its magic. Sip and Savor: As soon as the brewing is complete, pour the aromatic coffee into your favorite mug. Take a moment to appreciate the enticing aroma before taking your first sip. Engage your senses as the flavors dance on your palate, indulging you in the rich Java Momma experience. Remember, each person's cup size preference may vary. Adjust the measurements and brewing time accordingly to achieve your desired strength and flavor. The joy of coffee lies in customization and finding what suits your taste buds best. Savor every sip and cherish the delightful moments that Java Momma brings to your coffee journey. Cheers to the art of a satisfying cup of coffee!
-  Updated: 2026-04-19T14:48:00Z
+  Updated: 2026-04-26T02:45:16Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -1423,7 +1423,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/victorian-caramel-flavored-coffeecoffee-516337.jpg?v=1715582921
     Price: $19.99 USD
 - [White Chocolate Raspberry Flavored Coffee | Java Momma](https://javamomma.com/products/white-chocolate-raspberry-flavored-coffee): Creamy white chocolate meets bright raspberry in this smooth medium roast. Dessert vibes without the fuss. Air-roasted with solar power.
-  Updated: 2026-04-18T18:20:12Z
+  Updated: 2026-04-26T21:58:18Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -1493,7 +1493,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/white_chocolate_raspberry_truffle_kcups.jpg?v=1767339612
     Price: $19.99 USD
 - [Momma's Blend](https://javamomma.com/products/mommas-blend): The signature of Java Momma herself, this coffee is a gourmet five bean blend from different farms and regions of South America. Smooth and bold - you'll need to make extra to share. Single Serve comes with 12 cups and is compatible with Keurig® 1.0 and Keurig® 2.0 machines.
-  Updated: 2026-04-19T00:39:48Z
+  Updated: 2026-04-24T04:53:17Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -1527,7 +1527,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/mommas-blendcoffee-702177.jpg?v=1715582737
     Price: $17.99 USD
 - [Mountain Water Decaf](https://javamomma.com/products/mountain-water-decaf): This low-acid, medium roast bean is full of nutty flavors - and the Mountain Water decaffeination process removes the caffeine without losing the taste. This eco-friendly process uses simple water science to remove the caffeine. Most use chemical solvents such as methylene chloride or ethyl acetate to strip caffeine molecules from the green coffee bean. Single Serve comes with 12 cups and is compatible with Keurig® 1.0 and Keurig® 2.0 machines.
-  Updated: 2026-04-18T21:45:47Z
+  Updated: 2026-04-25T14:12:17Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -1561,7 +1561,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/mountain-water-decafcoffee-291561.jpg?v=1715582888
     Price: $17.99 USD
 - [Momma’s Revenge – Medium & Dark Roast Coffee Blend ☕](https://javamomma.com/products/mommas-revenge): Bold, smooth, and unapologetically strong. Momma’s Revenge is a medium & dark roast blend with extra caffeine. Small batch, unflavored, and unforgettable.
-  Updated: 2026-04-17T13:50:52Z
+  Updated: 2026-04-24T17:27:48Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -1595,7 +1595,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/mommas-revengecoffee-501339.jpg?v=1715582886
     Price: $17.99 USD
 - [Momma's Original Flavored Coffee](https://javamomma.com/products/mommas-original-flavored-coffee): Momma's Original: A smooth coffee blend with buttery brown sugar toffee notes. Freshly air-roasted for a comforting, low-acid cup. No sugar, just flavor.
-  Updated: 2026-04-19T19:28:27Z
+  Updated: 2026-04-24T03:21:26Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -1665,7 +1665,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/momma_s_original_kcups.jpg?v=1772957609
     Price: $19.99 USD
 - [Not the Momma's Blend | Java Momma — Bold Three-Bean Coffee, Fan Favorite](https://javamomma.com/products/not-the-mommas-blend): Bold three-bean blend of South American and Indonesian coffees. Full-bodied, strong, air-roasted small batch. Java Momma fan favorite, all formats available.
-  Updated: 2026-04-17T03:28:05Z
+  Updated: 2026-04-25T14:46:49Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -1692,7 +1692,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Availability: Available
     Price: $17.99 USD
 - [Night Owl Half Caff Coffee Blend | Medium Roast Half-Caff Coffee](https://javamomma.com/products/night-owl-half-caff-blend): Smooth Colombian & Java half-caff coffee with bright citrus and caramel notes. Naturally decaffeinated for full flavor with half the caffeine. Shop now!
-  Updated: 2026-04-18T18:28:57Z
+  Updated: 2026-04-26T23:36:36Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -1726,7 +1726,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/Night_Owl_Half_Caff_Pod_Box.jpg?v=1756202882
     Price: $17.99 USD
 - [Tanzanian Peaberry Coffee — Medium Roast | Java Momma](https://javamomma.com/products/peaberry-single-origin): A rare single-bean medium roast with orange zest, peach, and brown sugar notes. Air-roasted to order. Clean, bright, and worth slowing down for.
-  Updated: 2026-04-19T00:42:17Z
+  Updated: 2026-04-27T01:20:26Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -1760,7 +1760,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/peaberry_medium_kcup.jpg?v=1774681577
     Price: $17.99 USD
 - [Skull Sunrise Coffee Blend | Bold Medium-Dark Roast | Java Momma](https://javamomma.com/products/skull-sunrise): Rise from the dead with Skull Sunrise. A bold Brazilian + Colombian blend, air-roasted with solar power. Smooth body, cocoa notes, toasted nut finish. Available in bagged coffee & Keurig® 1.0 & 2.0 single-serve pods.
-  Updated: 2026-04-18T21:39:47Z
+  Updated: 2026-04-24T17:27:47Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -1798,7 +1798,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/skull-sunrisecoffee-771335.jpg?v=1759291099
     Price: $17.99 USD
 - [Sumatra Medium Roast](https://javamomma.com/products/sumatra-medium-roast): Sumatra Mandheling, the unflavored coffee that's anything but basic. This elegant and complex coffee is perfect for any occasion, whether you want a hot cup of joe or a refreshing iced beverage. The chocolate notes are abundant, with a subtle touch of black cherry and a hint of vanilla that will take your taste buds on a flavor journey. Single Serve comes with 12 cups and is compatible with Keurig® 1.0 and Keurig® 2.0 machines.
-  Updated: 2026-04-18T00:03:18Z
+  Updated: 2026-04-24T02:46:16Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -1832,7 +1832,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/sumatra-medium-roastcoffee-319163.jpg?v=1715582913
     Price: $17.99 USD
 - [Sumatra Extra Dark](https://javamomma.com/products/sumatra-extra-dark): You want dark? How about EXTRA dark? Our unique Sumatra Mandheling is made even more intense with our darkest roast. The chocolate, cherry, and vanilla flavors sing in this sweet, unexpected experience. Perfect over ice or brewed cold. Take a walk on the wild side. Single Serve comes with 12 cups and is compatible with Keurig® 1.0 and Keurig® 2.0 machines.
-  Updated: 2026-04-18T13:08:06Z
+  Updated: 2026-04-26T18:07:33Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -1866,7 +1866,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/sumatra-extra-darkcoffee-675334.jpg?v=1715582912
     Price: $17.99 USD
 - [Sumatra Satin Dark Roast](https://javamomma.com/products/sumatra-satin): From the jungles of Sumatra, this distinctly flavored dark roast is smooth with notes of chocolate and cherry. Travel with us and enjoy this special cuppa! Single Serve comes with 12 cups and is compatible with Keurig® 1.0 and Keurig® 2.0 machines.
-  Updated: 2026-04-19T16:49:57Z
+  Updated: 2026-04-24T04:11:49Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -1904,7 +1904,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/sumatra-satin-dark-roastcoffee-151142.jpg?v=1715582930
     Price: $17.99 USD
 - [Smooth Operator Low Acid Coffee – Gentle on Your Stomach, Big on Flavor | Java Momma](https://javamomma.com/products/smooth-operator-low-acid-coffee): Meet Smooth Operator, our low-acid roast crafted for sensitive stomachs. Air-roasted with 100% solar power for a smooth, full-bodied cup that’s easy on you—but never boring. Available in bags or Keurig®-compatible single serve cups.
-  Updated: 2026-04-18T18:32:27Z
+  Updated: 2026-04-26T14:45:37Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -1938,7 +1938,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/smooth-operator-mixed-roast-blendcoffee-827454.jpg?v=1759835177
     Price: $17.99 USD
 - [White Elephant Tanzanian Peaberry – Smooth, Bright Light Roast](https://javamomma.com/products/white-elephant): White Elephant Tanzanian Peaberry Coffee The cup that makes you feel like you have your life together. Even if you don't. Most coffee beans grow in pairs inside the cherry. Peaberry beans grow alone — one per cherry — which gives them a denser, more concentrated flavor. Tanzania's high-altitude farms are known for producing cleaner, brighter cups, and White Elephant is a straightforward example of why. Light-roasted and single-origin, it's a straightforward cup with a little something going on: a bit of citrus, a hint of honey, a quiet nutty finish. Nothing showy. Just a really good morning. Single-origin Tanzanian peaberry — 100% Arabica Light roast Flavor notes: citrus zest, honey undertones, light nutty finish Air roasted fresh to order in small batches Powered by 100% renewable solar energy Ethically sourced Grinds: Auto Drip, French Press, Whole Bean Single Serve: 12-count pods, compatible with Keurig® 1.0 and 2.0 machines 8 oz / 227g per bag The Beans Roast: Light Type: Single-Origin, Unflavored Origin: Tanzania Bean Type: Peaberry — a naturally occurring single-seed coffee cherry, denser than a standard bean and known for a more concentrated, even roast. Flavor Profile: Citrus zest, honey undertones, light nutty finish. Roast Process: Air roasted fresh to order in small batches at our roastery in Danville, PA. Sourcing: Ethically sourced. Sustainably grown. Growing Altitude: High-altitude farms, Tanzania Grind Options: Auto Drip · French Press · Whole Bean Single Serve: 12-count pods · Compatible with Keurig® 1.0 & 2.0 Size: 8 oz / 227g Nutritional Info Serving Size: 1 rounded tablespoon (approx. 10g) per 6 oz water Calories per serving (black): ~5 Total Fat: 0g Sodium: 5mg Total Carbohydrate: 0g Sugar: 0g Protein: 0g Caffeine: Approximately 95–150mg per 8 oz serving Ingredients: 100% Arabica Coffee (Tanzania). Note: Nutritional values are approximate and based on black coffee prepared as directed. Adding milk, cream, or sweeteners will change nutritional content. How to Brew Light roasts are a little more opinionated about water temperature than darker roasts — too hot and you'll push the citrus notes toward bitter. Aim for 195°F and you're in good shape. Pour-Over: Where this one really shines. 1:15 coffee-to-water ratio. 195–200°F water. Pour slow, let it bloom for 30 seconds, then finish steady. The citrus and honey notes come through clearly with this method. Auto Drip: 1–2 tablespoons per 6 oz water. If your machine runs hot, use slightly less coffee to keep the brightness without any edge. French Press: 1 heaping tablespoon per 4 oz water. Steep 3–4 minutes at 195°F. Press slowly. This method brings out the nutty undertones more than the others. Single Serve (Keurig® 1.0 & 2.0): Drop in, brew, done. For the cleanest cup from a pod, use the smallest brew size your machine offers. Cold Brew: Coarse grind. 1 cup grounds to 4 cups cold water. Steep in fridge 12–16 hours (lighter roasts extract faster than dark). Strain and serve over ice. The honey notes are particularly good cold. FAQ What's a peaberry and why should I care?Most coffee cherries produce two beans that grow flat against each other. Every once in a while, one cherry produces just one bean instead — rounder, denser, and a little more concentrated in flavor. Because it's a single bean, it roasts more evenly. The result is a cup that's cleaner and more consistent than standard beans from the same crop. It's not magic, it's just how the cherry grew. It says "light roast." Is this going to taste weak?Light roast gets a bad reputation it doesn't deserve. It's not under-roasted — it's roasted to preserve more of the bean's natural character. White Elephant is a full-flavored cup. It's just bright and clean rather than heavy and dark. If you typically drink medium roast, this is worth trying. If you only drink dark roast, it might not be your thing — and that's fine too. Is it single-origin?Yes. White Elephant is 100% Tanzanian peaberry, grown at high altitude. That means the flavor profile you're tasting comes from one place, one growing region, one crop. No blending. What you get is what Tanzania grows up there. What brewing method is best?Pour-over is the answer if you want to taste everything this bean has to offer. But it's a good cup by any method — auto drip, French press, or single serve. The citrus notes are more prominent with pour-over; the nutty finish comes through more with French press. Brew it however fits your morning. What grind should I choose?Auto Drip covers most home coffee makers. French Press if you want a fuller body. Whole Bean if you grind at home — and for light roasts, fresh-grinding makes a noticeable difference if you have the option. Is it compatible with my Keurig®?Single serve pods work with Keurig® 1.0 and 2.0 machines. Check your machine's compatibility if you're using an older or off-brand pod brewer. What pairs well with White Elephant?The citrus and honey notes in this one are natural partners for anything buttery or lightly sweet — a plain croissant, a shortbread, something from our Munchies line if you want a snack alongside. It's also a good candidate for a morning rotation: lighter during the week, something bolder on weekends when you have more time to enjoy it. Is Java Momma coffee fresh roasted?Air roasted to order in small batches in Danville, PA. Roasted by people, not algorithms. Ships fresh. Satisfaction guarantee?Yes. If it's not right, we make it right. That's the whole .
-  Updated: 2026-04-19T04:41:27Z
+  Updated: 2026-04-22T15:54:06Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -1965,7 +1965,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Availability: Available
     Price: $17.99 USD
 - [Stand Tall – Signature Cold Brew Blend ☕🦩](https://javamomma.com/products/stand-tall-cold-brew-pods): Cold brew like a boss. Stand Tall isn’t just coffee—it’s a statement. This robust, smooth, and oh-so-satisfying blend was specially crafted to brew cold, bringing out deep, rich flavors with zero bitterness. 💡 How to enjoy: Just drop a pod into water, steep overnight, and pour over ice. Want to level up? Add a splash of cream, a swirl of caramel, or sip it straight like the legend you are. Flamingos never ask for permission. ✅ No Equipment Needed – Just steep & sip.✅ Mess-Free Cold Brew – No loose grounds, no filters.✅ Smooth & Bold Flavor – No bitterness, just perfection.✅ 4 Cold Brew Bags per Pack – Enough to keep you standing tall all week. 🔥 Ready to sip the cold brew of your dreams? Grab a pack now and taste the difference. How do I make cold brew with these pods? Easy! Drop a pod into 16 oz of water, steep for 12-24 hours, and enjoy. No machine, no mess. How long do the pods last? Our pods are freshly roasted and sealed for peak freshness. Store in a cool, dry place, and they’ll stay fresh for up to 6 months.
-  Updated: 2026-04-19T04:23:39Z
+  Updated: 2026-04-26T14:45:35Z
   Vendor: Java Momma
   Product Type: Cold Brew Pods
   Availability: Available
@@ -1986,21 +1986,21 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/vietnamese-pork-rubspice-601464.jpg?v=1730593019
   Price: $7.99 USD
 - [Tuscan Spice – A Taste of Italy in Every Sprinkle](https://javamomma.com/products/tuscan-spice): Herby, garlicky, and very comfortable doing the heavy lifting. This is the blend you reach for when you want dinner to feel settled and flavorful without turning it into a project. Garlic leads, rosemary brings warmth, and classic Italian herbs fill in the rest with just enough red pepper to keep things interesting. It’s the kind of seasoning that makes simple food feel complete—pasta with olive oil, roasted vegetables, chicken on a sheet pan. Familiar, reliable, and endlessly useful in the way good pantry staples should be. Bold garlic and onion savoriness Warm rosemary and basil Mediterranean oregano and parsley Light red pepper warmth How to Use It (Low Effort, High Reward) Mix with olive oil for an easy bread dip or pasta toss. Sprinkle over potatoes, vegetables, or sheet-pan dinners before roasting. Rub onto chicken, fish, or pork before grilling or baking. Details Ingredients: Salt, garlic, black pepper, onion, red pepper flakes, rosemary, basil, Mediterranean oregano, parsley. Dietary: Vegan, preservative-free, all-natural ingredients. FAQ Is this spicy? No. There’s just a light warmth from red pepper flakes—nothing overpowering. Is it only for Italian food? Not at all. It works anywhere you want herby, garlicky flavor. Does it contain salt? Yes—enough to season well without overdoing it.
-  Updated: 2026-04-16T20:08:20Z
+  Updated: 2026-04-26T23:24:17Z
   Vendor: Java Momma
   Product Type: Spice
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/tuscan_spice_jar-min.png?v=1760850918
   Price: $7.99 USD
 - [Corn on the Cob Seasoning](https://javamomma.com/products/corn-on-the-cob-seasoning): Zesty, citrusy, and bold—this Corn on the Cob Seasoning brings orange zest, pepper, and paprika to corn, veggies, meats, and more. A BBQ must-have.
-  Updated: 2026-04-16T20:08:17Z
+  Updated: 2026-04-26T16:43:15Z
   Vendor: Java Momma
   Product Type: Spice
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/corn-on-the-cob-seasoning-sweet-zesty-magic-in-a-jar-spice-498672.jpg?v=1746163574
   Price: $7.99 USD
 - [Everything Bagel Seasoning](https://javamomma.com/products/everything-bagel-seasoning): Everything Bagel Seasoning is a savory blend of garlic, onion, sesame, and sea salt—perfect on bagels, eggs, meats, popcorn, and more.
-  Updated: 2026-04-19T05:25:47Z
+  Updated: 2026-04-25T14:02:13Z
   Vendor: Java Momma
   Product Type: Spice
   Availability: Available
@@ -2028,7 +2028,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/smoked-tea-rubspice-552214.jpg?v=1715582930
   Price: $7.99 USD
 - [Pennsylvania Pepper – Savory Pepper Blend](https://javamomma.com/products/pennsylvania-pepper): Pennsylvania Pepper is a salt-free, all-purpose seasoning with black pepper, garlic, onion, and roasted peppers. Add to meat, veggies, soup, or salads.
-  Updated: 2026-04-18T15:50:46Z
+  Updated: 2026-04-26T13:48:45Z
   Vendor: Java Momma
   Product Type: Spice
   Availability: Available
@@ -2042,14 +2042,14 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/buffalo-wing-rubspice-820819.jpg?v=1715582695
   Price: $7.99 USD
 - [Fan-Freakin-Tastic Fry Seasoning](https://javamomma.com/products/fan-freakin-tastic-fry-seasoning): Fan-Freakin-Tastic Fry Seasoning is a sweet, smoky, and spicy all-purpose blend with maple and Cajun heat. Limited edition—perfect for fries, dips, and meats.
-  Updated: 2026-04-15T13:56:27Z
+  Updated: 2026-04-26T23:24:16Z
   Vendor: Java Momma
   Product Type: Spice
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/fry_season_hero.jpg?v=1770546620
   Price: $7.99 USD
 - [Austin Steak Rub](https://javamomma.com/products/austin-steak-rub): Austin Steak Rub brings bold Texas flavor with garlic, onion, herbs, and chili heat. Perfect for beef, poultry, or veggie burgers. Limited spring drop!
-  Updated: 2026-04-15T13:56:28Z
+  Updated: 2026-04-25T19:05:36Z
   Vendor: Java Momma
   Product Type: Spice
   Availability: Available
@@ -2063,28 +2063,28 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/bourbon-maple-hops-seasoningspice-343086.png?v=1746160030
   Price: $7.99 USD
 - [Flippin' the Bird – Salt-Free Grilling & Roasting Blend](https://javamomma.com/products/flippin-the-bird-seasoning): Salt-free and flavor-packed, Flippin’ the Bird is your go-to grilling and roasting blend for chicken, pork, veggies, dips, and more.
-  Updated: 2026-04-06T23:07:58Z
+  Updated: 2026-04-26T00:25:36Z
   Vendor: Java Momma
   Product Type: Spice
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/flippin-the-bird-seasoningspice-819748.png?v=1746159162
   Price: $7.99 USD
 - [Mesh Tea Ball Infuser](https://javamomma.com/products/mesh-tea-ball-infuser): Immerse yourself in the timeless ritual of tea brewing with the Deluxe Stainless Steel Mesh Tea Ball Infuser. Precision-crafted from durable 18/8 stainless steel, this infuser is a classic kitchen essential for every tea enthusiast. Designed for simplicity and elegance, it’s the perfect companion for your tea time, whether you're steeping a robust black tea or a delicate green blend.
-  Updated: 2026-04-19T00:58:47Z
+  Updated: 2026-04-24T17:27:47Z
   Vendor: Java Momma
   Product Type: Pot Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/mesh-tea-ball-infuserpot-shop-577954.jpg?v=1715582733
   Price: $4.99 USD
 - [Leaf Tea Infuser](https://javamomma.com/products/leaf-tea-infuser): Immerse yourself in the world of loose leaf tea with our charming leaf-shaped silicone tea infusers. Designed for both the avid tea drinker and the occasional sipper, these infusers combine functionality with a playful touch. Their fine mesh ensures even the most delicate teas are steeped to perfection without the leaves escaping.
-  Updated: 2026-04-01T10:04:45Z
+  Updated: 2026-04-21T02:34:35Z
   Vendor: Java Momma
   Product Type: Pot Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/leaf-tea-infuserpot-shop-561551.jpg?v=1715582728
   Price: $8.99 USD
 - [Owl Tea Infuser](https://javamomma.com/products/owl-tea-infuser): Immerse yourself in the world of loose leaf tea with our charming leaf-shaped silicone tea infusers. Designed for both the avid tea drinker and the occasional sipper, these infusers combine functionality with a playful touch. Their fine mesh ensures even the most delicate teas are steeped to perfection without the leaves escaping.
-  Updated: 2026-04-01T10:04:45Z
+  Updated: 2026-04-21T02:11:26Z
   Vendor: Java Momma
   Product Type: Pot Shop
   Availability: Available
@@ -2105,21 +2105,21 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/8077102-AztecaD_Oro_14_oz_can.webp?v=1773089584
   Price: $16.99 USD
 - [Salted Caramel Mocha | Java Momma](https://javamomma.com/products/mocha-salted-caramel): Buttery caramel, rich mocha, and just enough salt to make it perfect. One packet, hot or iced. The order you always get, made at home.
-  Updated: 2026-04-18T02:40:42Z
+  Updated: 2026-04-27T03:40:09Z
   Vendor: Java Momma
   Product Type: Mocha
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/salted_caramel_mocha_mockup.jpg?v=1775301248
   Price: $3.50 USD
 - [French Vanilla Mocha Drink Mix | Java Momma](https://javamomma.com/products/mocha-french-vanilla): The $9 Coffee Shop Order. Minus the Coffee Shop. French vanilla and chocolate, together in a mug that takes about 90 seconds to make. It's rich, frothy, and tastes like something you'd order at a place with a chalkboard menu and no free wifi . You made it in your kitchen. Good for you. Tastes Like: Creamy custard vanilla wrapped around smooth chocolate and coffee — warm, rich, and just fancy enough to feel like a treat. The Win: Café-quality flavor, single-serve packet, zero barista small talk. How to Make Hot: Add 1 packet to 8 oz of hot water or milk. Stir until smooth.Iced: Dissolve packet in 3 oz hot liquid, add 3 oz cold liquid, pour over ice. Milk makes it creamier and richer — highly recommended. Water works fine if that's your move. Pour. Stir. Dissociate. FAQ Do I need a machine?Nope. A mug and something to stir with. That's the whole setup. Water or milk?Both work. Milk gives you that creamy, frothy finish — oat, almond, or whole all play nicely here. Water is perfectly fine for a lighter cup. Does it have caffeine?Yes — there's real coffee in here. It's not a heavy hit, but it's not caffeine-free either. Ingredients & Nutrition Ingredients: Sugar, Maltodextrin, Cocoa (Processed with Alkali), Coffee, Whey (Milk), Coconut Oil, Corn Syrup Solids, Salt, Cellulose Gum, Sodium Caseinate (Milk), Dipotassium Phosphate, Mono and Diglycerides, Carrageenan, Silicon Dioxide, Sodium Stearoyl Lactylate, Sodium Silicoaluminate, Soy Lecithin, Turmeric and Annatto Extracts, Natural and Artificial Flavor, Artificial Color. Serving Size: 1 packet (28g) | Servings Per Container: 1 Calories: 100 | Total Fat: 3g | Saturated Fat: 2.5g | Sodium: 45mg | Total Carbs: 19g | Sugars: 14g | Protein: 1g *Contains Milk and Soy.
-  Updated: 2026-04-18T16:35:57Z
+  Updated: 2026-04-26T06:28:51Z
   Vendor: Java Momma
   Product Type: Mocha
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/French_Vanilla_Mocha_mockup.png?v=1775291169
   Price: $3.50 USD
 - [Butter Rum Mocha | Java Momma](https://javamomma.com/products/butter-rum-mocha): Rich mocha with warm butter rum flavor and a hint of spice. One packet, hot or iced, year-round. The seasonal special that never leaves.
-  Updated: 2026-04-18T02:40:46Z
+  Updated: 2026-04-27T03:39:42Z
   Vendor: Java Momma
   Product Type: Mocha
   Availability: Available
@@ -2140,7 +2140,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/tiffany_breakfast_main_hero.jpg?v=1771037591
     Price: $4.50 USD
 - [Mango in Black Loose Leaf Tea 🕶️](https://javamomma.com/products/mango-in-black-tea): Mango in Black is a bold black tea with mango, marigold, and a tropical twist. High caffeine and smooth flavor—great hot or iced.
-  Updated: 2026-04-18T15:52:17Z
+  Updated: 2026-04-25T01:18:26Z
   Vendor: Java Momma
   Product Type: Tea
   Availability: Available
@@ -2154,7 +2154,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/mango-in-black-teatea-972117.jpg?v=1716111547
     Price: $4.50 USD
 - [Earl Grey’s Anatomy - Loose Leaf Black Tea](https://javamomma.com/products/earl-greys-anatomy-tea): The drama-free classic. You don’t need a  degree to diagnose this one — Earl Grey’s Anatomy is a bold black tea blended with bright bergamot oil and finished with blue cornflowers. Smooth, citrus-forward, and confidently classic, it’s the kind of tea that makes mornings feel handled. Drink it black when you need to be the boss, or add vanilla and steamed milk for the ultimate London Fog. Strong enough to wake you up. Smooth enough to sip straight. Tastes Like: Bright bergamot citrus, smooth black tea, light floral finish Caffeine Level: Medium to High The Leaf & Ingredients A rich black tea base scented with real bergamot oil and accented with blue cornflowers for a subtle floral finish and a little visual flair in your cup. Ingredients: Black Tea, Bergamot Oil, Blue Cornflowers Steeping Cheatsheet Want a stronger London Fog base? Use a slightly heaping teaspoon or steep toward the longer end. The Ratio: 1–2 tsp per 8 oz cup. The Water: 212°F (A full, angry, rolling boil). The Time: 3–5 minutes. (Pull it at 3 mins to drink it black; let it go to 5 mins if you are adding milk and sugar!) Want the full breakdown, iced tea recipes, and latte tips? Read our Anti-Snob Guide to Black Tea. Hot vs Iced Hot: Bright, smooth, and classic — perfect black or with milk. Iced: Brew strong, cool, and pour over ice for a crisp citrus black tea. FAQ Do I need a fancy teapot?Nope. An infuser, disposable bag, or French press works perfectly. Great tea doesn’t require a whole production. How much caffeine is in this?It’s a black tea base, so it delivers a steady caffeine lift — roughly half the caffeine of a standard cup of coffee. Great for mornings and mid-day resets. Is this good for London Fogs?Absolutely. Brew it strong, add vanilla syrup and steamed milk, and you’ve got café-level comfort at home. Does it taste like perfume?No. The bergamot is balanced for bright, smooth citrus — never overpowering.
-  Updated: 2026-04-19T03:47:42Z
+  Updated: 2026-04-25T02:20:16Z
   Vendor: Java Momma
   Product Type: Tea
   Availability: Available
@@ -2166,7 +2166,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Availability: Available
     Price: $4.50 USD
 - [All That Razz – A Bold Black Tea with a Raspberry Twist ✨](https://javamomma.com/products/all-that-razz-tea): Jammy raspberries meet bold Sri Lankan black tea in this energizing, fruity blend. Hot, iced, or with cream—it’s tea with a twist! Shop now.
-  Updated: 2026-04-18T21:39:47Z
+  Updated: 2026-04-26T23:39:16Z
   Vendor: Java Momma
   Product Type: Tea
   Availability: Available
@@ -2180,7 +2180,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/all-that-razz-teatea-299906.jpg?v=1716111514
     Price: $4.50 USD
 - [Blood Orange Moon Loose Leaf Tea 🍊🌙](https://javamomma.com/products/blood-orange-moon-tea): Blood Orange Moon is a caffeine-free herbal tea with blood orange, hibiscus, and rose hips. Bold citrus flavor, perfect hot or iced.
-  Updated: 2026-04-19T00:58:58Z
+  Updated: 2026-04-22T12:32:46Z
   Vendor: Java Momma
   Product Type: Tea
   Availability: Available
@@ -2194,7 +2194,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/blood-orange-moon-teatea-710169.jpg?v=1716111521
     Price: $4.50 USD
 - [Dreamscape Herbal Tea | Calming Mint, Lavender & Chamomile](https://javamomma.com/products/dreamscape-tea): A hand-blended herbal tea with mint, lavender, and chamomile for calm evenings and softer bedtimes. No caffeine. No chaos. Just a better night.
-  Updated: 2026-04-19T03:47:47Z
+  Updated: 2026-04-26T23:42:07Z
   Vendor: Java Momma
   Product Type: Tea
   Availability: Available
@@ -2222,7 +2222,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/masala-chaitea-106540.jpg?v=1716111559
     Price: $4.50 USD
 - [Rooibos Vanilla Chai | Caffeine-Free Chai Latte Blend | Java Momma](https://javamomma.com/products/rooibos-vanilla-chai): All the spice of a chai latte with none of the caffeine. A rich, vanilla-infused Rooibos blend perfect for late-night cravings. Zero sugar, 100% comfort.
-  Updated: 2026-04-19T00:58:57Z
+  Updated: 2026-04-26T01:59:06Z
   Vendor: Java Momma
   Product Type: Tea
   Availability: Available
@@ -2236,7 +2236,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/rooibos-vanilla-chaitea-681235.jpg?v=1716111582
     Price: $4.50 USD
 - [Very Berry Tisane – Sweet, Tart & Bursting with Flavor 🍓🫐✨](https://javamomma.com/products/very-berry-tea): Berry lovers, this one's for you! 🍓🫐 A caffeine-free fruit tea packed with juicy berries, hibiscus & rose hips. Sip hot or iced—shop now!
-  Updated: 2026-04-15T01:33:29Z
+  Updated: 2026-04-20T23:03:48Z
   Vendor: Java Momma
   Product Type: Tea
   Availability: Available
@@ -2250,7 +2250,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/very-berry-rooibos-teatea-325297.jpg?v=1716111637
     Price: $4.50 USD
 - [Wild Blueberry Black Tea – Bold Sri Lankan Tea with a Fruity Twist](https://javamomma.com/products/wild-blueberry-tea): Bold Sri Lankan black tea meets juicy wild blueberries in this rich, slightly sweet blend. Sip hot or iced—shop now!
-  Updated: 2026-04-19T00:58:54Z
+  Updated: 2026-04-25T01:18:26Z
   Vendor: Java Momma
   Product Type: Tea
   Availability: Available
@@ -2264,7 +2264,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/wild-blueberry-teatea-710113.jpg?v=1716111646
     Price: $4.50 USD
 - [Peach SereniTea Loose Leaf Herbal Tea 🍑](https://javamomma.com/products/peach-serenitea): Peach SereniTea is a caffeine-free herbal tea with peach, pineapple, mango, and floral notes. Delicious hot or iced for fruity relaxation anytime.
-  Updated: 2026-04-18T15:52:26Z
+  Updated: 2026-04-20T23:03:47Z
   Vendor: Java Momma
   Product Type: Tea
   Availability: Available
@@ -2278,7 +2278,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/peach-sereniteatea-280437.jpg?v=1716111571
     Price: $4.50 USD
 - [Strawberry Serendipity Tea – A Berry Sweet Escape](https://javamomma.com/products/strawberry-serendipity-tea): A tea so good, it’s basically dessert in a cup. Caffeine-free & packed with sweet strawberry goodness. Shop now!
-  Updated: 2026-04-19T04:48:37Z
+  Updated: 2026-04-20T23:03:48Z
   Vendor: Java Momma
   Product Type: Tea
   Availability: Available
@@ -2292,7 +2292,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/strawberry_serenditpity_tea_flatlay.jpg?v=1770941532
     Price: $4.50 USD
 - [Calm the Flock Down Loose Leaf Tea](https://javamomma.com/products/calm-the-flock-down-tea): Calm the Flock Down is a soothing loose leaf chamomile tea for stress relief and relaxation. Caffeine-free and full of chill (with a side of sass).
-  Updated: 2026-04-01T10:04:50Z
+  Updated: 2026-04-21T01:06:07Z
   Vendor: Underground by Java Momma
   Product Type: Tea
   Availability: Available
@@ -2306,28 +2306,28 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/red_velvet_hero.jpg?v=1770886992
   Price: $3.99 USD
 - [Huckleberry White Chocolate Biscotti Bites](https://javamomma.com/products/huckleberry-white-chocolate-biscotti-bites): Soft-bite huckleberry biscotti pieces with creamy white chocolate chips. Dunkable, handcrafted, and packed in an 8.57 oz shareable bag.
-  Updated: 2026-04-01T10:04:51Z
+  Updated: 2026-04-22T22:49:27Z
   Vendor: Northwest Biscotti
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/huckleberry_choc_biscotti.jpg?v=1770886119
   Price: $10.99 USD
 - [Cherry Chocolate Biscotti Double Pack – A Sweet & Tart Love Story](https://javamomma.com/products/cherry-chocolate-biscotti-double-pack): Soft-bite vanilla biscotti with tangy dried cherries and semi-sweet chocolate chips. Handcrafted, dunkable, and perfectly portioned in a 2.26 oz double pack.
-  Updated: 2026-04-19T14:17:58Z
+  Updated: 2026-04-26T17:08:06Z
   Vendor: Northwest Biscotti
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/cherrychocolatebiscotti.png?v=1770884908
   Price: $3.99 USD
 - [Bacon & Garlic Almonds — Vegan Snack](https://javamomma.com/products/bacon-garlic-almonds-nuts-on-the-run): Sweet, smoky, savory almonds with vegan bacon flavor made from seasoned coconut. Small-batch dry roasted. The snack your coffee break didn't know it needed. 4.75 oz.
-  Updated: 2026-04-11T20:45:27Z
+  Updated: 2026-04-22T21:59:30Z
   Vendor: Nuts on the Run
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/bacon-garlic-almonds-nuts-on-the-runpantry-649623.jpg?v=1722742982
   Price: $8.99 USD
 - [Everything Bagel Seasoned Nuts — Savory Snack](https://javamomma.com/products/everything-bagel-nuts-nuts-on-the-run): Roasted almonds, cashews, and pecans seasoned with garlic, onion, sesame, and poppy seeds. Vegan, gluten-free, kosher . 4 oz resealable pouch.
-  Updated: 2026-04-18T19:23:17Z
+  Updated: 2026-04-24T04:53:16Z
   Vendor: Nuts on the Run
   Product Type: Pantry
   Availability: Available
@@ -2341,7 +2341,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/cinnamon-vanilla-glazed-nuts-nuts-on-the-runpantry-384230.jpg?v=1722742984
   Price: $3.49 USD
 - [Honey Glazed Nuts — Organic Honey Almonds & Cashews](https://javamomma.com/products/honey-glazed-nuts-nuts-on-the-run): Almonds and cashews glazed in organic honey and cane sugar with organic sesame seeds and pink Himalayan salt. Kosher, gluten-free, non-GMO. 4.75 oz.
-  Updated: 2026-04-18T18:58:38Z
+  Updated: 2026-04-26T23:24:16Z
   Vendor: Nuts on the Run
   Product Type: Pantry
   Availability: Available
@@ -2355,7 +2355,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/cinnamon-almonds-nuts-on-the-runpantry-264705.jpg?v=1720837178
   Price: $8.99 USD
 - [Italian Herb Nuts — Olive Oil Roasted Mixed Nuts](https://javamomma.com/products/italian-herb-nuts-nuts-on-the-run): Almonds, cashews, and pecans roasted in herb-infused extra virgin olive oil with rosemary, thyme, and oregano. Finished with kosher salt. 4 oz savory snack.
-  Updated: 2026-04-01T10:04:53Z
+  Updated: 2026-04-26T23:24:16Z
   Vendor: Nuts on the Run
   Product Type: Pantry
   Availability: Available
@@ -2369,14 +2369,14 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/rosemary-almonds-nuts-on-the-runpantry-606604.jpg?v=1759805448
   Price: $8.99 USD
 - [Coconut Caramel Glazed Nuts — Vegan Snack](https://javamomma.com/products/coconut-caramel-glazed-nuts-nuts-on-the-run): Almonds and cashews glazed in real coconut cream with coconut chips. Naturally caramel-rich, vegan, and completely snackable. 2 oz — great snack, better gift.
-  Updated: 2026-04-18T18:58:36Z
+  Updated: 2026-04-26T23:24:16Z
   Vendor: Nuts on the Run
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/coconut-caramel-glazed-nuts-nuts-on-the-runpantry-188325.jpg?v=1716173217
   Price: $3.49 USD
 - [Chocolate Peanut Butter Biscotti Double Pack – A Match Made in Dunk Heaven](https://javamomma.com/products/chocolate-peanut-butter-biscotti-double-pack): Soft-bite chocolate biscotti loaded with creamy peanut butter chips. Handcrafted, dunkable, and perfectly portioned in a 2.26 oz double pack.
-  Updated: 2026-04-18T14:26:47Z
+  Updated: 2026-04-25T19:05:29Z
   Vendor: Northwest Biscotti
   Product Type: Pantry
   Availability: Available
@@ -2390,21 +2390,21 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/cinnamon_toffee_biscotti.png?v=1770883107
   Price: $3.99 USD
 - [Java Corn – Coffee-Infused Caramel Popcorn | Simply Delightful](https://javamomma.com/products/java-corn-coffee-caramel-popcorn): Handmade caramel popcorn with a bold coffee twist. Java Corn delivers sweet, crunchy, caffeinated flavor in every bite. 8 oz, made in the USA.
-  Updated: 2026-04-14T16:41:12Z
+  Updated: 2026-04-26T22:18:25Z
   Vendor: Simply Delightful
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/Java_Corn.jpg?v=1748250252
   Price: $6.99 USD
 - [Coconut Caramel Almonds — Vegan Glazed Nuts](https://javamomma.com/products/coconut-almonds-nuts-on-the-run): Whole almonds glazed in real coconut cream caramel with sea salt. Vegan, no artificial ingredients, clean label. 4.75 oz — the counter bag, not the sample size.
-  Updated: 2026-04-01T14:53:27Z
+  Updated: 2026-04-26T23:24:16Z
   Vendor: Nuts on the Run
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/coconut-almonds-nuts-on-the-runpantry-202015.jpg?v=1759805458
   Price: $8.99 USD
 - [Cinnamon Pecans — Small-Batch Glazed Nuts](https://javamomma.com/products/cinnamon-pecans-nuts-on-the-run): Whole pecans glazed in cinnamon, real vanilla extract, and organic cane sugar. A classic recipe, small-batch roasted. 4.75 oz and very hard to stop eating.
-  Updated: 2026-04-11T20:45:17Z
+  Updated: 2026-04-26T06:29:01Z
   Vendor: Nuts on the Run
   Product Type: Pantry
   Availability: Available
@@ -2425,7 +2425,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/Cinnamon_Toffee_biscotti_bites.jpg?v=1770878991
   Price: $10.99 USD
 - [Stroopies Chocolate Pecan Stroop Waffle – Deliciously Decadent & Perfectly Sweet](https://javamomma.com/products/chocolate-pecan-stroopies-singles): Traditional stroopwafel with caramel center, coated in chocolate and topped with crunchy pecans, individually wrapped for easy snacking.
-  Updated: 2026-04-07T15:02:52Z
+  Updated: 2026-04-26T14:45:30Z
   Vendor: Stroopies, Inc.
   Product Type: Pantry
   Availability: Available
@@ -2439,21 +2439,21 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/chai-masala-a-cozy-treat-youll-crave-legally-addictive-snackspantry-470697.webp?v=1759805476
   Price: $9.99 USD
 - [Legally Addictive Snacks - Everything Cookies](https://javamomma.com/products/legally-addictive-snacks-everything-cookies): Sweet and savory snack with crackers, handmade toffee, chocolate, sea salt, and Everything seasoning for a bold, crunchy twist.
-  Updated: 2026-04-16T11:24:12Z
+  Updated: 2026-04-25T19:05:26Z
   Vendor: Java Momma
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/Website_1.webp?v=1770363166
   Price: $9.99 USD
 - [Legally Addictive Snacks - Surprise Party](https://javamomma.com/products/legally-addictive-snacks-surprise-party): Salty-sweet snack with crunchy crackers, handmade toffee, chocolate, sea salt, and rainbow sprinkles — made for everyday celebrations.
-  Updated: 2026-04-16T14:37:16Z
+  Updated: 2026-04-25T17:04:25Z
   Vendor: Legally Addictive
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/PICSFORWEBSITE_1.webp?v=1770362755
   Price: $9.99 USD
 - [Salted Caramel Stroopie Singles – Sweet & Savory Perfection](https://javamomma.com/products/salted-caramel-stroopies-singles): Traditional stroopwafel with a gooey salted caramel center, dipped in dark chocolate and individually wrapped for cozy snacking.
-  Updated: 2026-04-17T18:32:29Z
+  Updated: 2026-04-26T14:45:27Z
   Vendor: Stroopies, Inc.
   Product Type: Pantry
   Availability: Available
@@ -2467,14 +2467,14 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/heart_stroopwafel_traditional.jpg?v=1768033828
   Price: $4.99 USD
 - [Bottom of the Barrel Handcrafted Spread | Bramble & Blossom](https://javamomma.com/products/bottom-of-the-barrel-handcrafted-spread): Bottom of the Barrel Spread: A 14.5oz small-batch blend of strawberry, blueberry, and blackberry. Made in Missouri. Real fruit comfort for your ritual.
-  Updated: 2026-04-01T10:04:58Z
+  Updated: 2026-04-22T02:21:31Z
   Vendor: Bramble & Blossom
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/bobspreadhero.jpg?v=1772947087
   Price: $11.99 USD
 - [Road Trip Handcrafted Spread | Bramble & Blossom](https://javamomma.com/products/road-trip-handcrafted-spread): Road Trip Handcrafted Spread: A 5-fruit medley of strawberry, peach, & berries. Small-batch, 13.5oz glass jar. Made in Missouri. No-nonsense fruit flavor.
-  Updated: 2026-04-18T03:16:07Z
+  Updated: 2026-04-26T01:42:46Z
   Vendor: Bramble & Blossom
   Product Type: Pantry
   Availability: Available
@@ -2488,14 +2488,14 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/coconut-stroopies-singlespantry-618544.jpg?v=1717088579
   Price: $4.29 USD
 - [Dueling Berries Handcrafted Spread | Bramble & Blossom](https://javamomma.com/products/dueling-berries-handcrafted-spread): Dueling Berries Spread: A 14.5oz heavyweight blend of blackberry and raspberry. Small-batch, Missouri-made. Bold, tangy, and real fruit comfort.
-  Updated: 2026-04-19T23:31:16Z
+  Updated: 2026-04-22T02:09:57Z
   Vendor: Bramble & Blossom
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/dueling_berries_hero.jpg?v=1772949826
   Price: $11.99 USD
 - [Almond Biscotti Double Pack – Soft, Dunkable, and Totally Delicious](https://javamomma.com/products/almond-biscotti-double-pack): Handcrafted soft-bite almond biscotti with chopped almonds. Dunkable, tender, and packaged as a convenient 2 oz double pack.
-  Updated: 2026-04-11T20:13:57Z
+  Updated: 2026-04-25T19:05:27Z
   Vendor: Northwest Biscotti
   Product Type: Pantry
   Availability: Available
@@ -2509,32 +2509,18 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/birthday_biscotti.png?v=1770883907
   Price: $10.99 USD
 - [Muddy Bites Cookies and Cream](https://javamomma.com/products/muddy-bites-cookies-and-cream): Muddy BitesCookies and Cream Waffle Cone Snacks Do you remember growing up eating sundae cones, getting to the bottom, and savoring that last bite of the waffle cone filled with chocolatey perfection? Now you can savor that perfect moment over and over again with Muddy Bites, where creamy White Chocolate fills the waffle cone tip for one last hoorah - it's the best bite, every bite! SIMPLE, HIGH-QUALITY INGREDIENTS: We’ve sourced delicious premium chocolate and cones made from simple ingredients that are both non-GMO and Kosher. A VERSATILE TREAT: Eat Muddy Bites straight out of the bag, in a big bowl of ice cream, or topped on desserts like cupcakes or cookies. The possibilities are endless with a Cookies 'n Cream snack this versatile and delicious! RESEALABLE PACKAGING: Enjoy our resealable packaging for easy and safe storage so you can eat the best part of a sundae cone over and over with our Cookies 'n Cream Muddy Bites! • Made in United States • Contains: Milk, Soy, and Wheat • Ingredients: Ingredients: Cocoa Waffle Cone (wheat flour, sugar, alkalized cocoa, coconut oil, lecithin (soy/sunflower) - emulsifier, salt), White Chocolate (cane sugar, cocoa butter, milk, soy lecithin - emulsifier, vanilla extract)
-  Updated: 2026-04-18T18:58:38Z
+  Updated: 2026-04-26T13:45:40Z
   Vendor: Muddy Bites
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/muddy-bites-cookies-and-creampantry-823468.jpg?v=1759805495
   Price: $5.99 USD
-- [Muddy Bites Thin Mints](https://javamomma.com/products/muddy-bites-thin-mints): Thin Mint Bite-Sized Waffle Cones Snacks Do you remember growing up eating sundae cones, getting to the bottom, and savoring that last bite of the waffle cone filled with chocolatey perfection? Now you can savor that perfect moment over and over again with Muddy Bites, where creamy Girl Scout Chocolate Thin Mint Cookies fill the waffle cone tip for one last hoorah - it's the best bite, every bite! SIMPLE, HIGH-QUALITY INGREDIENTS: We’ve sourced delicious premium dark chocolate and cones made from simple ingredients that are both non-GMO and Kosher. A VERSATILE TREAT: Eat Muddy Bites straight out of the bag, in a big bowl of ice cream, or topped on desserts like cupcakes or cookies. The possibilities are endless with a Thin Mint snack this versatile and delicious! RESEALABLE PACKAGING: Enjoy our resealable packaging for easy and safe storage so you can eat the best part of a sundae cone over and over with our Girl Scout Thin Mint Muddy Bites! • Made in the United States • Contains: Milk, Soy, and Wheat INGREDIENTS: Cocoa Waffle Cone (wheat flour, sugar, alkalized cocoa, coconut oil, sunflower lecithin - emulsifier, color, salt), Dark Chocolate (cane sugar, chocolate, cocoa butter, butterfat, soy lecithin - emulsifier, vanilla extract), Natural Flavors CONTAINS: MILK, SOY, WHEAT
-  Updated: 2026-04-16T11:24:10Z
-  Vendor: Muddy Bites
-  Product Type: Pantry
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/muddy-bites-thin-mintspantry-237834.jpg?v=1759805495
-  Price: $5.99 USD
 - [Momma's Munchies - Charleston Vanilla Crunch](https://javamomma.com/products/mommas-munchies-charleston-vanilla-crunch): Experience the crunch of Charleston Vanilla Crunch. Freeze-dried for an airy, shatteringly crisp texture that won't stick to your teeth. The perfect vanilla-chocolate escape.
-  Updated: 2026-04-09T21:49:57Z
+  Updated: 2026-04-22T16:57:07Z
   Vendor: Momma's Munchies
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/mommas-munchies-charleston-vanilla-crunchpantry-207424.jpg?v=1759805501
-  Price: $6.00 USD
-- [Clusters – Sweet & Sour Crunch Bombs](https://javamomma.com/products/mommas-munchies-clusters): Freeze-dried Clusters are sweet, tangy candy bites transformed into shatteringly crisp, airy crunch bombs with intensely concentrated sour fruit flavor. No chew, no stick—just bold, addictive crunch.
-  Updated: 2026-04-18T16:35:56Z
-  Vendor: Momma's Munchies
-  Product Type: Pantry
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/clusters_hero.jpg?v=1771141505
   Price: $6.00 USD
 - [Cookie Butter Salt Water Taffy – Cinnamon Cookie Cloud Crunch](https://javamomma.com/products/mommas-munchies-cookie-butter-salt-water-taffy): Cookie Butter Salt Water Taffy is freeze-dried into puffy, melt-in-your-mouth bites packed with rich cinnamon cookie flavor. Cozy, concentrated sweetness with zero sticky chew.
   Updated: 2026-04-18T16:35:57Z
@@ -2551,7 +2537,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/mommas-munchies-giant-lemon-puffspantry-175649.jpg?v=1715582886
   Price: $6.00 USD
 - [Hail Storm – Freeze-Dried Fruity Crunch Explosion](https://javamomma.com/products/mommas-munchies-hail-storm): Hail Storm is a freeze-dried rainbow of fruity candies transformed into puffy, shatteringly crisp bites with intensely concentrated sweet-tart flavor. No chew, no stick—just bold, airy crunch in every handful.
-  Updated: 2026-04-18T16:35:57Z
+  Updated: 2026-04-22T17:50:36Z
   Vendor: Momma's Munchies
   Product Type: Pantry
   Availability: Available
@@ -2572,18 +2558,11 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/mommas-munchies-peachy-puffspantry-114375.jpg?v=1715582887
   Price: $6.00 USD
 - [Peppermint Puffs – Freeze-Dried Minty Candy with a Cool, Crunchy Twist](https://javamomma.com/products/mommas-munchies-peppermint-puffs): Classic peppermint candy, freeze-dried into a crisp, airy crunch. Intensely cool mint flavor that melts in your mouth—or your coffee. A refreshing 3 PM sanity saver.
-  Updated: 2026-04-19T04:17:07Z
+  Updated: 2026-04-24T02:31:47Z
   Vendor: Momma's Munchies
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/peppermint_puffs_hero_fc7192cf-ff03-4f4b-8033-81c0416a0724.jpg?v=1771139311
-  Price: $6.00 USD
-- [Puffy Heads – Freeze-Dried Sweet & Sour Candy with a Tangy Crunch](https://javamomma.com/products/mommas-munchies-puffy-heads): Puffy Heads are sweet, sour, and freeze-dried for max crunch! Crispy candy chaos in every bag. Assorted fruity flavors & wild texture! 😜💥
-  Updated: 2026-04-17T16:43:26Z
-  Vendor: Momma's Munchies
-  Product Type: Pantry
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/mommas-munchies-puffy-headspantry-278161.jpg?v=1716173223
   Price: $6.00 USD
 - [Sour Storm – Special Edition Hail Storm with an Extra Tangy Twist](https://javamomma.com/products/mommas-munchies-sour-storm): Sour Storm is a bold, crunchy spin on your favorite candy! Freeze-dried rainbow bites with a tangy twist and mega crunch. ⚡🌈 100g of sour fun!
   Updated: 2026-04-02T07:28:46Z
@@ -2593,7 +2572,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/mommas-munchies-sour-stormpantry-830311.jpg?v=1716173225
   Price: $6.00 USD
 - [Java Momma Gift Card](https://javamomma.com/products/java-momma-gift-card): Gift Cards by Java Momma Looking for the perfect gift that speaks volumes without saying a word? Discover the ultimate in flexibility and choice with Java Momma’s Gift Cards. Ideal for coffee connoisseurs and tea lovers alike, our gift cards take the guesswork out of gifting and put the power of choice in the hands of your special someone. Whether it’s a birthday, a thank you, or just because, Java Momma Gift Cards fit any occasion, allowing your loved ones to indulge in their favorite brews or explore new flavors at their leisure. Our gift cards are available in various denominations, ensuring there's an option that's just right for every budget. Easy to send and even easier to enjoy, these digital delights are perfect for last-minute presents and can be delivered directly via email. Give the gift of choice today and let your friends and family explore the rich, invigorating world of Java Momma—where every sip is a celebration. Why Choose Java Momma Gift Cards? Flexibility: Choose any amount and let your giftee pick their favorites. Instant Delivery: Perfect for those last-minute gift needs. Personalization: Add a personal message to show you care. Shop now and make someone's day with a gift they can truly customize to their taste. Java Momma Gift Cards are more than just a present; they're an invitation to a world of flavor!
-  Updated: 2026-04-13T21:53:17Z
+  Updated: 2026-04-26T13:15:36Z
   Vendor: Gift Card
   Product Type: Gift Cards
   Availability: Available
@@ -2631,7 +2610,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/java-momma-gift-cardgift-cards-349626.jpg?v=1715582733
     Price: $100.00 USD
 - [Momma’s Picks Monthly Coffee Box – 3 Exclusive Flavored Coffees](https://javamomma.com/products/mommas-picks): Get 3 exclusive, freshly roasted flavored coffees every month with Momma’s Picks! Plus, enjoy a surprise gift and free shipping when you subscribe. ☕🎁
-  Updated: 2026-04-19T20:49:37Z
+  Updated: 2026-04-26T22:48:16Z
   Vendor: Java Momma
   Product Type: Theme Box
   Availability: Available
@@ -2669,7 +2648,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/mommas-pickstheme-box-824344.png?v=1775015967
     Price: $47.99 USD
 - [Awaken the Rebel Coffee | Java Momma | Flavored Medium Roast](https://javamomma.com/products/awaken-the-rebel-flavored-coffee): Flavored medium roast with roasted nut, caramel, and almond notes. Air-roasted to order. Regular and decaf. Annual May 4th release.
-  Updated: 2026-04-19T00:42:20Z
+  Updated: 2026-04-26T15:25:06Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -2707,7 +2686,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/awaken_the_rebel_kcup.jpg?v=1776216750
     Price: $19.99 USD
 - [Bounty Hunter Coffee | Java Momma | Dark Roast Limited Release](https://javamomma.com/products/bounty-hunter-dark-roast): Dark, smoky, unflavored. Guatemalan beans, air-roasted bold. Deep cocoa, toasted walnut. One limited May 4th run per year.
-  Updated: 2026-04-19T16:49:58Z
+  Updated: 2026-04-26T20:03:56Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -2729,7 +2708,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/bounty_hunter_kcups.jpg?v=1776215264
     Price: $19.99 USD
 - [Churro Flavored Coffee | Java Momma | Limited Release](https://javamomma.com/products/churro-flavored-coffee): Medium roast naturally flavored with brown sugar, cinnamon, and buttery baked notes. Air-roasted, gentle on the stomach. Limited Cinco de Mayo release.
-  Updated: 2026-04-19T23:31:17Z
+  Updated: 2026-04-26T17:08:15Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -2766,8 +2745,8 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/churro_kcups.jpg?v=1775181602
     Price: $19.99 USD
-- [Blue-tea-ful Cold Brew Tea Pods | Wild Blueberry White Tea | Java Momma](https://javamomma.com/products/blue-tea-ful-cold-brew-tea-pods): Blueberry white tea cold brew pods. Steep overnight, pour over ice, done. Low caffeine, real fruit flavor. 4 pods per bag.
-  Updated: 2026-04-19T05:22:27Z
+- [Blue-tea-ful Cold Brew Tea Pods | Wild Blueberry White Tea | Java Momma](https://javamomma.com/products/blue-tea-ful-cold-brew-tea-pods): Wild blueberry and white tea cold brew pouches. Low caffeine, no added sugar. Drop a pouch overnight — no strainer needed.
+  Updated: 2026-04-26T00:25:46Z
   Vendor: Java Momma
   Product Type: Cold Brew Pods
   Availability: Available
@@ -2781,7 +2760,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/ek1.jpg?v=1715680557
   Price: $256.99 USD
 - [Large Event Kit #2 (with Single Serve Cups)](https://javamomma.com/products/large-event-kit-2): Large event kits are available for vendor events and large Coffee Breaks. We have compiled a great selection of items for you to resell, use as samples, as Coffee Break host rewards, or however you choose! All event kits are priced at approximately 25-30% off retail. Items will be assorted kitchen selections from our core lineup. PLEASE ALLOW EXTRA TIME FOR THESE KITS to ship if you need items for events. Kit 2-Coffee w/ single-serve cups - Retail Prices $347.30 15 Coffee samples 2 oz bags 15 1/2 lb bags of coffee-10 flavored, 5 single origin/blends (Caffeinated, auto-drip) 5 boxes single-serve cups-3 flavored, 2 single origin/blends (Caffeinated) Each box contains 12 single-serve cups
-  Updated: 2026-04-10T11:46:07Z
+  Updated: 2026-04-20T17:25:58Z
   Vendor: Wholesale
   Product Type: Kit
   Availability: Available
@@ -2809,21 +2788,21 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/flavored_samples.jpg?v=1774433694
   Price: $16.00 USD
 - [Roaster's Choice Coffee Mini Tasting Sampler - Unflavored Coffees](https://javamomma.com/products/roasters-choice-coffee-mini-tasting-sampler-unflavored-coffees): Four roaster-selected unflavored coffee samples, fresh-roasted and shipped free. The straightforward way to find your perfect everyday cup.
-  Updated: 2026-04-13T23:38:07Z
+  Updated: 2026-04-22T17:50:36Z
   Vendor: JM
   Product Type: Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/unflavored_samplers.jpg?v=1774434909
   Price: $16.00 USD
 - [Roaster's Choice Coffee Tasting Sampler - Mixed](https://javamomma.com/products/roasters-choice-coffee-tasting-sampler-mixed): Eight roaster-selected samples — 6 flavored, 2 unflavored — fresh-roasted and shipped free. The most complete way to discover Java Momma coffee.
-  Updated: 2026-04-19T05:06:47Z
+  Updated: 2026-04-26T22:55:11Z
   Vendor: JM
   Product Type: Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/not_the_momma_fracs.jpg?v=1774436877
   Price: $19.99 USD
 - [Turbinado Cinnamon Sugar  – Sweet, Spicy, and Everything Nice](https://javamomma.com/products/turbinado-cinnamon-sugar): Golden turbinado sugar blended with Korintje cinnamon for sprinkling over coffee, tea, toast, and simple comforts.
-  Updated: 2026-04-18T18:43:46Z
+  Updated: 2026-04-25T19:05:28Z
   Vendor: Java Momma
   Product Type: Spice
   Availability: Available
@@ -2837,21 +2816,21 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/cacao_sugar_mock.jpg?v=1770540733
   Price: $7.99 USD
 - [Cluster Dust Sprinkles – Sweet & Sour Freeze-Dried Candy Crumble with a Serious Crunch](https://javamomma.com/products/mommas-munchies-cluster-dust): Sweet & sour freeze-dried candy clusters crushed into a bold, crunchy topping! Sprinkle on ice cream, cookies, drinks & more. 💥🍭
-  Updated: 2026-04-17T14:36:25Z
+  Updated: 2026-04-20T19:50:10Z
   Vendor: Momma's Munchies
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/mommas-munchies-cluster-dustpantry-341101.jpg?v=1718659114
   Price: $6.00 USD
 - [Citrus Ginger Tea Drops® – Bright, Zesty & Soothing!](https://javamomma.com/products/citrus-ginger-tea-drops): Refresh and revive with Citrus Ginger Tea Drops®—a soothing, caffeine-free blend of orange, lemon & ginger with a touch of spearmint. 🍋🍊✨
-  Updated: 2026-04-18T22:02:37Z
+  Updated: 2026-04-24T03:21:26Z
   Vendor: Tea Drops
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/citrus-ginger-tea-droptea-105762.jpg?v=1719570541
   Price: $1.99 USD
 - [Thai Tea Drops® – Bold, Sweet & Perfectly Refreshing!](https://javamomma.com/products/thai-tea-drop): Enjoy the rich, full-bodied flavor of Thai Tea Drops®—a classic, caffeinated green tea best served iced with milk. Sweet, smooth & refreshing! 🧋✨
-  Updated: 2026-04-16T03:13:07Z
+  Updated: 2026-04-24T03:21:26Z
   Vendor: Tea Drops
   Product Type: Tea
   Availability: Available
@@ -2865,7 +2844,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/matcha-green-tea-droptea-849980.jpg?v=1719570589
   Price: $1.99 USD
 - [Chocolate Earl Grey Tea Drops® – A Bold, Chocolatey Twist on a Classic! ☕✨](https://javamomma.com/products/chocolate-earl-grey-tea-drop): Indulge in the rich, creamy blend of Chocolate Earl Grey Tea Drops®—a bold fusion of organic Earl Grey, cocoa & bergamot. Medium-high caffeine for the perfect pick-me-up! 🍫☕
-  Updated: 2026-04-19T03:16:17Z
+  Updated: 2026-04-24T03:21:26Z
   Vendor: Tea Drops
   Product Type: Tea
   Availability: Available
@@ -2879,14 +2858,14 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/rose-earl-grey-tea-droptea-120650.jpg?v=1719570589
   Price: $1.99 USD
 - [Peppermint Tea Drops® – Cool, Refreshing & Caffeine-Free!](https://javamomma.com/products/peppermint-tea-drop): Enjoy the crisp, refreshing taste of Peppermint Tea Drops®—a caffeine-free blend of peppermint, spearmint & vanilla. Perfect for relaxation anytime! 🍃✨
-  Updated: 2026-04-19T03:16:27Z
+  Updated: 2026-04-23T23:21:09Z
   Vendor: Tea Drops
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/peppermint-tea-droptea-955037.jpg?v=1720837237
   Price: $1.99 USD
 - [Chai Spice Tea Drops® – Bold, Spicy & Comforting!](https://javamomma.com/products/chai-spice-tea-drop): Experience the warm, spiced flavors of Chai Spice Tea Drops®—a bold blend of black tea, cinnamon, cardamom & ginger. Medium-high caffeine for a cozy pick-me-up! 🌿✨
-  Updated: 2026-04-16T03:13:07Z
+  Updated: 2026-04-24T03:21:26Z
   Vendor: Tea Drops
   Product Type: Tea
   Availability: Available
@@ -3063,7 +3042,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Availability: Available
     Price: $23.97 USD
 - [Breakfast Blend Coffee | Java Momma — Smooth, Bright, No-Drama Daily Brew](https://javamomma.com/products/breakfast-blend-coffee): Smooth, bright Brazilian & Colombian blend. Air-roasted small batch. No bitterness. Brews in anything. Java Momma's best- everyday coffee.
-  Updated: 2026-04-19T20:45:56Z
+  Updated: 2026-04-26T11:45:46Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -3101,7 +3080,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/breakfast_blend_lifestyle_hero.jpg?v=1774430040
     Price: $25.99 USD
 - [Back to Basics – Smooth & Sweet Signature Blend](https://javamomma.com/products/back-to-basics-coffee): Back to Basics is a smooth, sweet-bodied blend with dark chocolate and toasted walnut notes, available in regular, decaf, and pods.
-  Updated: 2026-04-19T16:46:08Z
+  Updated: 2026-04-26T11:45:46Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -3167,7 +3146,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/back_to_basics_kcups.jpg?v=1771932004
     Price: $19.99 USD
 - [Mystery Single Serve Sampler – 12 Cups of Surprise Java Joy](https://javamomma.com/products/mystery-single-serve-sampler): Can’t choose? Get 12 surprise cups of flavored & unflavored single-serve coffee—maybe even a retired fave! ☕ Try your luck now.
-  Updated: 2026-04-18T22:07:47Z
+  Updated: 2026-04-25T17:01:28Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -3195,7 +3174,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/Brazil_Med_SKU.png?v=1717576188
   Price: $44.99 USD
 - [It’s My Birthday Biscotti – Double Pack](https://javamomma.com/products/cinnamon-toffee-biscotti-double-pack-copy): Soft-bite birthday cake flavored biscotti dipped in white chocolate and sprinkles. Dunkable, hand-crafted, and packaged as a double pack.
-  Updated: 2026-04-16T21:51:27Z
+  Updated: 2026-04-25T15:13:06Z
   Vendor: Northwest Biscotti
   Product Type: Pantry
   Availability: Available
@@ -3209,7 +3188,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/size-matters-coffee-scoopextras-826736.jpg?v=1719984894
   Price: $5.00 USD
 - [Coffee Snob – A Quad-Blend Roast for the Ironically Refined](https://javamomma.com/products/coffee-snob-unflavored-mixed-roast): A rich quad-blend roast that roasts coffee snobs… while being one. ☕ Sip the sarcasm—shop now.
-  Updated: 2026-04-18T14:34:37Z
+  Updated: 2026-04-26T14:45:36Z
   Vendor: Underground by Java Momma
   Product Type: Coffee
   Availability: Available
@@ -3243,7 +3222,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/coffee-snob-unflavored-mixed-roastcoffee-443425.jpg?v=1718907655
     Price: $15.99 USD
 - [Talk to Me After This – Sumatran Medium Roast Coffee for Pre-Human Functionality](https://javamomma.com/products/talk-to-me-after-this-sumatran-medium-roast): Sumatran medium roast for when talking is a post-coffee activity. ☕ Bold, earthy, and absolutely necessary.
-  Updated: 2026-04-18T12:06:26Z
+  Updated: 2026-04-23T16:40:13Z
   Vendor: Underground by Java Momma
   Product Type: Coffee
   Availability: Available
@@ -3277,7 +3256,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/talk-to-me-after-this-sumatran-medium-roastcoffee-539942.jpg?v=1719653431
     Price: $23.99 USD
 - [Butterscotch Flavored Coffee – Sweet, Buttery, and Bold](https://javamomma.com/products/butterscotch-flavored-coffee): Rich, buttery butterscotch coffee with a bold attitude. ☕ Smooth medium roast with caramelized sweetness. Get your fix today!
-  Updated: 2026-04-19T05:25:47Z
+  Updated: 2026-04-26T02:45:15Z
   Vendor: Underground by Java Momma
   Product Type: Coffee
   Availability: Available
@@ -3318,7 +3297,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/gluten-free-stroopies-singlespantry-392117.jpg?v=1719487804
   Price: $3.49 USD
 - [Coping the F%k Outta This Life! – Chocolate-Flavored Coffee for Total Meltdowns*](https://javamomma.com/products/coping-the-f-k-outta-this-life-flavored-coffee): Life’s a dumpster fire? Cool, same. When screaming into the void doesn’t work, Coping the F%k Outta This Life!* is here to save your sanity—one chocolatey, caffeine-fueled sip at a time. No energy? No problem. Just brew, drink, and pretend everything's fine. (It’s not, but this helps.) ☕ Flavor Notes: 🍫 Rich Chocolate Fudge💥 Dark Roast Intensity😮💨 Slight Hint of Emotional Breakdown (kidding… kinda) 🌱 Growing & Processing Details: Built on a dark roast foundation from quality beans, this flavored brew adds that hit of chocolate comfort you didn’t know you needed. Roasted in small, “we’re-holding-it-together” batches for maximum flavor and emotional support. 💡 Brewing Suggestions: Perfect for when you’re too overwhelmed to function—aka every Monday. Works beautifully in drip brewers, French press, or when you’ve completely given up—Keurig® 1.0 & 2.0 compatible single serves got you. Running on caffeine and chaos? Same. Grab Coping the F%k Outta This Life!* before your last nerve snaps. ☕🔥 Nutritional Information Our air-roasted coffee, whether flavored or unflavored, is crafted to deliver a full-bodied flavor while staying light on calories and free of common dietary concerns. Here's what you can expect in every cup: Total Calories: Less than 5 cal Total Fat: Less than 0.5 mg Cholesterol: 0 mg Carbohydrates: 0 g Protein: Less than 1 g Our coffee contains no sugar, carbs, or cholesterol, making it a guilt-free beverage choice that won't interfere with your dietary goals. Enjoy it black for a pure coffee experience or add your preferred milk or creamer – it’s delicious either way! Please note that caffeine levels may vary depending on the type of beans, roasting method, and brewing process. Caffeine Content Caffeine levels in our coffee are naturally sourced from the finest beans. The exact caffeine content can vary based on the origin of the beans, the specific roasting process, and how you brew it. Whether you’re looking for a bold morning boost or a smoother, mild sip, our selection has something for every caffeine lover. Allergen-Friendly & Diet-Conscious We believe everyone should enjoy coffee without worry! Here’s why our flavored options are a safe and delicious choice: Allergen-Free: Our flavorings are crafted to be free of the top eight allergens. Sugar-Free & Gluten-Free: All of our flavored coffees use premium ingredients with no added sugar, dairy, or gluten. This means you can indulge in flavors like vanilla, hazelnut, or mocha without the extra stuff you don’t want. About the Bean Our coffee beans are sourced from top coffee-growing regions worldwide, with a special focus on quality and flavor. One of our favorites is the Brazilian Medium Roast, which serves as the base for many of our flavored varieties. Origin: Sourced from the famous Santos region in Brazil, known for its rich coffee-growing tradition. Flavor Profile: Nutty, smooth, and versatile. Perfect as a standalone brew or as a foundation for our flavored coffees. Roasting Process: We air roast every batch to perfection using a unique method that brings out the natural flavors of the beans. Sustainability & Air Roasting At Java Momma, we roast our coffee beans with care for both flavor and the environment. Here’s why our process stands out: Air Roasting: Our coffee is air-roasted, a method that evenly roasts each bean to bring out its best flavors. This process eliminates the smoky, bitter taste that can come from drum roasting. Sustainable Energy: We roast our coffee using solar-powered technology, reducing our carbon footprint and ensuring that every cup is as eco-friendly as it is delicious. Planet-Friendly: By using sustainable solar energy, we’re not only producing top-quality coffee but also doing our part for the environment, so you can sip with confidence. How to Brew Indulge in the Perfect Cup of Java Momma Coffee! Ready to experience a blissful cup of coffee? Follow these simple instructions to brew a perfect cup of Java Momma goodness. Note: Cup sizes may vary, but we've gone with the standard 8 ounces for a normal mug. Adjust the measurements accordingly based on your preferred cup size. Select Premium Java Momma Beans: Begin by choosing our premium, freshly-roasted coffee beans. They are the heart and soul of an exceptional cup of coffee. Take a moment to appreciate their enticing aromas and rich flavors. Measure with Precision: For making a standard 8 oz. cup of coffee, use two level tablespoon of ground coffee. Remember, this measurement serves as a great starting point. Adjust the amount of coffee to suit your preferred strength and flavor, keeping in mind that different cup sizes may require varying amounts. Embrace Fresh, Cold Water: Fill your kettle or coffee maker with fresh, cold water. Cold water ensures proper extraction of the coffee's flavors. Avoid using previously boiled water, as it may negatively affect the taste. Brew to Perfection: Follow the instructions of your coffee maker to brew your Java Momma coffee. Ensure that the water temperature is optimal for extraction, allowing the flavors to develop fully. Let the brewing process work its magic. Sip and Savor: As soon as the brewing is complete, pour the aromatic coffee into your favorite mug. Take a moment to appreciate the enticing aroma before taking your first sip. Engage your senses as the flavors dance on your palate, indulging you in the rich Java Momma experience. Remember, each person's cup size preference may vary. Adjust the measurements and brewing time accordingly to achieve your desired strength and flavor. The joy of coffee lies in customization and finding what suits your taste buds best. Savor every sip and cherish the delightful moments that Java Momma brings to your coffee journey. Cheers to the art of a satisfying cup of coffee!
-  Updated: 2026-04-19T19:28:27Z
+  Updated: 2026-04-27T01:20:16Z
   Vendor: Underground by Java Momma
   Product Type: Coffee
   Availability: Available
@@ -3375,14 +3354,14 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Availability: Available
     Price: $17.99 USD
 - [Strawberry Matcha Tea Drops® – A Fruity, Energizing Sip!](https://javamomma.com/products/strawberry-matcha-green-tea-drop): Enjoy the bold, earthy flavor of Strawberry Matcha Tea Drops®—organic matcha blended with sweet strawberry for a refreshing, energizing boost! 🍓🍵
-  Updated: 2026-04-17T17:12:27Z
+  Updated: 2026-04-26T06:28:55Z
   Vendor: Tea Drops
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/strawberry-matcha-green-tea-droptea-900765.webp?v=1756353118
   Price: $1.99 USD
 - [Breathe Well Tea](https://javamomma.com/products/breathe-well-tea): Breathe Well is a caffeine-free herbal tea with cool peppermint, ginger spice, and bright orange peel. Smooth, minty, and cozy—your five-minute reset in a mug.
-  Updated: 2026-04-09T15:23:56Z
+  Updated: 2026-04-22T19:58:37Z
   Vendor: Java Momma
   Product Type: Tea
   Availability: Available
@@ -3396,28 +3375,28 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/mommas-munchies-caramel-brownie-moo-tailspantry-736044.jpg?v=1728381858
   Price: $6.00 USD
 - [Honey Bun Moo Tails – Freeze-Dried Crunch Meets Sweet Honey Bun Bliss](https://javamomma.com/products/mommas-munchies-honey-bun-moo-tails): Freeze-dried Honey Bun Moo Tails with a creamy center & surprise crunch! Sweet, bite-sized cinnamon-honey goodness. Get your snack on! 🍯🔥
-  Updated: 2026-04-08T01:21:59Z
+  Updated: 2026-04-20T19:50:11Z
   Vendor: Momma's Munchies
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/mommas-munchies-honey-bun-moo-tailspantry-143447.jpg?v=1728381858
   Price: $6.00 USD
 - [Chocolate Cherry Mocha | Java Momma](https://javamomma.com/products/chocolate-cherry-mocha): Rich chocolate mocha with a bright cherry finish. One packet, hot or iced, ready in 90 seconds. The $9 drink, made in your kitchen.
-  Updated: 2026-04-18T16:35:57Z
+  Updated: 2026-04-27T03:37:34Z
   Vendor: Java Momma
   Product Type: Drink Mix
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/chocolate_cherry_mocha_mock.png?v=1775289414
   Price: $3.50 USD
 - [Bourbon Apricot Butter | Bramble & Blossom](https://javamomma.com/products/american-picnic-handcrafted-spread-copy): Bourbon Apricot Butter: A sweet and tangy blend of ripe apricots, warm spices, and a splash of bourbon. Small-batch, Missouri-made glass jar. Versatile and bold.
-  Updated: 2026-04-06T23:08:38Z
+  Updated: 2026-04-26T23:24:16Z
   Vendor: Bramble & Blossom
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/bourbonapricotbutterhero.jpg?v=1772950870
   Price: $11.99 USD
 - [Crapple "Cranky" Apple Butter | Bramble & Blossom](https://javamomma.com/products/cranky-apple-butter): Crapple Cranky Apple Butter: A sweet-tart blend of apples, cranberries, and warm spices. Small-batch, Missouri-made 13.5oz glass jar. Bold fruit comfort.
-  Updated: 2026-04-19T05:22:17Z
+  Updated: 2026-04-21T15:39:56Z
   Vendor: Bramble & Blossom
   Product Type: Pantry
   Availability: Available
@@ -3459,7 +3438,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/bring-home-the-beans-money-pouchbarista-only-856825.jpg?v=1759806051
   Price: $5.00 USD
 - [Route Package Protection](https://javamomma.com/products/routeins): Add Route at checkout to protect your package against loss, theft and damage, and make shipping 100% carbon neutral. Visit route.com/sustainability to learn more.
-  Updated: 2026-04-19T23:31:17Z
+  Updated: 2026-04-27T02:12:16Z
   Vendor: Route
   Product Type: Insurance
   Availability: Available
@@ -3678,8 +3657,8 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/gluten-free-chocolate-pecan-stroopies-singlespantry-301137.jpg?v=1730950428
   Price: $4.99 USD
-- [Cherry Chocolate Peanut Butter Bar – A Delicious Boost of Flavor & Nutrition](https://javamomma.com/products/bobadoodles-blueberry-muffin-copy): Fresh-roasted peanut butter, tart Michigan cherries, and 68% dark chocolate in a balanced, plant-based protein bar. Real ingredients. No fillers. Made in the USA.
-  Updated: 2026-04-18T02:46:57Z
+- [Cherry Chocolate Peanut Butter Bar – A Delicious Boost of Flavor & Nutrition](https://javamomma.com/products/chocolate-cherry-peanut-bar): Fresh-roasted peanut butter, tart Michigan cherries, and 68% dark chocolate in a balanced, plant-based protein bar. Real ingredients. No fillers. Made in the USA.
+  Updated: 2026-04-26T13:01:02Z
   Vendor: Big Spoon Roasters
   Product Type: Pantry
   Availability: Available
@@ -3693,28 +3672,28 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/cranberry-cashew-peanut-butter-bar-sweet-tart-and-nutritious-pantry-839250.jpg?v=1759806155
   Price: $3.49 USD
 - [Vanilla Bean Tea Drops® Latte Kit – Smooth, Creamy & Comforting!](https://javamomma.com/products/vanilla-bean-latte-kit): Savor the rich, creamy taste of Vanilla Bean Tea Drops®—a comforting blend of black Assam tea & organic vanilla, paired with sweetened condensed milk. ☕🍦
-  Updated: 2026-04-14T17:10:09Z
+  Updated: 2026-04-26T06:28:51Z
   Vendor: Tea Drops
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/vanilla-bean-latte-kittea-722093.webp?v=1734845003
   Price: $10.99 USD
 - [Chai Spice Tea Drops® Latte Kit – Bold, Spiced & Creamy!](https://javamomma.com/products/chai-spice-latte-kit): Indulge in the bold, spiced flavors of Chai Spice Tea Drops®—organic black tea, cinnamon, cardamom & ginger, paired with creamy condensed milk. A cozy latte, made easy! 🌿☕
-  Updated: 2026-04-14T17:10:09Z
+  Updated: 2026-04-26T06:28:46Z
   Vendor: Tea Drops
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/chai-spice-latte-kittea-874058.webp?v=1734844889
   Price: $10.99 USD
 - [Rose London Fog Tea Drops® Latte Kit – Floral, Creamy & Indulgent!](https://javamomma.com/products/rose-london-fog-latte-kit): Indulge in the elegant, floral blend of Rose London Fog Tea Drops®—Earl Grey, rose petals & vanilla, paired with creamy condensed milk for the perfect latte. 🌹☕
-  Updated: 2026-04-19T23:07:52Z
+  Updated: 2026-04-26T14:45:26Z
   Vendor: Tea Drops
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/rose-london-fog-latte-kittea-774249.webp?v=1734845000
   Price: $10.99 USD
 - [Strawberry Matcha Tea Drops® Latte Kit – A Sweet & Creamy Matcha Experience!](https://javamomma.com/products/strawberry-matcha-latte-kit): Indulge in the fruity, earthy blend of Strawberry Matcha Tea Drops® Latte Kit—Japanese matcha, sweet strawberries & creamy condensed milk. Easy, delicious & organic! 🍓🍵
-  Updated: 2026-04-19T03:47:42Z
+  Updated: 2026-04-25T05:02:15Z
   Vendor: Tea Drops
   Product Type: Tea
   Availability: Available
@@ -3728,7 +3707,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/brown-sugar-boba-pearlstea-136265.webp?v=1734845103
   Price: $2.69 USD
 - [Hug in a Mug Tea - Soothing Sips](https://javamomma.com/products/hug-in-a-mug-tea-soothing-sips): Hug in a Mug is a caffeine-free herbal tea with licorice, raspberry leaf, hibiscus, and slippery elm. Sweet, smooth, and cozy—perfect for when your throat needs a warm reset.
-  Updated: 2026-04-13T00:11:37Z
+  Updated: 2026-04-25T23:32:30Z
   Vendor: Java Momma
   Product Type: Tea
   Availability: Available
@@ -3756,28 +3735,28 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/steep-in-style-25-oz-tempered-glass-teapot-with-stainless-steel-infuserpot-shop-544948.jpg?v=1737330788
   Price: $11.99 USD
 - [French Press Coffee & Tea Maker 12 oz.](https://javamomma.com/products/javapress-compact-12-oz-french-press-coffee-tea-maker): Start your day the right way with the JavaPress Compact 12 oz. French Press—your go-to brewer for coffee or tea, crafted for simplicity and style. Whether you’re fueling up for a busy day or savoring a quiet moment, this petite powerhouse delivers bold, rich flavor with every pour. The durable Borosilicate glass beaker is encased in a protective plastic exterior that adds strength and flair, while the comfortable plastic handle, secured with a sturdy metal band, ensures a confident grip even during groggy mornings. The reusable metal mesh filter makes brewing a breeze, holding coffee grounds or loose-leaf teas securely for a smooth, grit-free sip every time. Compact enough to fit anywhere, this French press holds 12 ounces—perfect for a personal-sized pick-me-up. Its sleek design and thoughtful construction make it a reliable staple for home, office, or even your travel coffee kit. Brew small, sip big. Coffee and tea, your way. How to Use: Prepare: Add coarsely ground coffee to the carafe (1 tablespoon per 4 ounces of water is recommended). Add Water: Heat water to just below boiling (195-205°F) and pour over the coffee grounds. Stir & Steep: Gently stir to ensure all grounds are saturated, then place the lid with the plunger pulled up. Let the coffee steep for 4 minutes. Press: Slowly press the plunger down with steady pressure to filter the coffee. Serve: Pour and enjoy your freshly brewed, aromatic coffee.
-  Updated: 2026-04-15T04:46:51Z
+  Updated: 2026-04-24T01:20:14Z
   Vendor: Java Momma
   Product Type: Pot Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/Oggi_French_Press.webp?v=1776185122
   Price: $13.99 USD
 - [Salted Caramel Seasoning](https://javamomma.com/products/salted-caramel-seasoning-the-ultimate-sweet-and-salty-indulgence): Indulge in Salted Caramel Seasoning—perfect for coffee, desserts, breakfast, and more. Vegan, all-natural, and totally irresistible.
-  Updated: 2026-04-18T01:17:57Z
+  Updated: 2026-04-22T00:24:43Z
   Vendor: Java Momma
   Product Type: Spice
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/salted_caramel_seasoning_hero.jpg?v=1770538604
   Price: $7.99 USD
 - [Cinnamon Chocolate Mocha | Java Momma](https://javamomma.com/products/cinnamon-chocolate-mocha-drink-mix): Rich mocha with real cinnamon blended all the way through. Hot or iced, one packet, ready fast. Your regular mocha's better self.
-  Updated: 2026-04-18T02:40:46Z
+  Updated: 2026-04-27T03:41:01Z
   Vendor: Java Momma
   Product Type: Mocha
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/cinnamon_chocolate_mocha.jpg?v=1775303290
   Price: $3.50 USD
 - [Chocoholic's Choice Cocoa | Java Momma](https://javamomma.com/products/chocoholics-choice-cocoa-mix): Deep, creamy hot cocoa with real chocolate flavor. One packet, hot or iced, done in minutes. For when chocolate isn't negotiable.
-  Updated: 2026-04-18T12:16:16Z
+  Updated: 2026-04-27T03:38:50Z
   Vendor: Java Momma
   Product Type: Cocoa
   Availability: Available
@@ -3790,8 +3769,8 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/gluten-free-salted-caramel-stroop-waffle-singlespantry-411909.jpg?v=1739077502
   Price: $4.99 USD
-- [Irish Cream Mocha – Single Serve Drink Mix](https://javamomma.com/products/irish-cream-mocha-single-serve-drink-mix): Indulge in Irish Cream Mocha—bold espresso, rich cocoa, and creamy flavor in a single serve drink mix. Limited release!
-  Updated: 2026-04-19T23:07:57Z
+- [Irish Cream Mocha | Java Momma](https://javamomma.com/products/irish-cream-mocha-single-serve-drink-mix): Rich mocha with a smooth Irish cream finish. One packet, hot or iced, ready in minutes. The coffee shop order, made at home.
+  Updated: 2026-04-27T03:45:09Z
   Vendor: Java Momma
   Product Type: Cocoa
   Availability: Available
@@ -3819,7 +3798,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/tea-thai-tea-latte-kit-34374701678639.webp?v=1740016583
   Price: $10.99 USD
 - [☕ Give It to Me Straight – Monthly Coffee Duo](https://javamomma.com/products/give-it-to-me-straight-monthly-coffee-duo): Pure, unflavored coffee duos delivered monthly. Bold, balanced, single-origin or blend. Subscribe & save. No fuss—just coffee, straight up.
-  Updated: 2026-04-18T19:46:27Z
+  Updated: 2026-04-26T04:50:36Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -3840,15 +3819,15 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/no_frills._no_fuss._-_coffee-_1500_x_1500_px.jpg?v=1775015270
     Price: $29.99 USD
-- [Jawesome Cold Brew Pods 🦈](https://javamomma.com/products/jawesome-cold-brew-pods): Refresh your coffee routine with Jawesome Cold Brew Pods—featuring smooth, bold flavor with coconut, almond, cinnamon, and vanilla. Perfectly portioned for easy, mess-free brewing.
-  Updated: 2026-04-19T23:58:07Z
+- [Jawesome Cold Brew Pods | Java Momma](https://javamomma.com/products/jawesome-cold-brew-pods): Toasted coconut, roasted almond, cinnamon, and vanilla cold brew — no sugar added. Air-roasted Arabica, 4 pods, each brews a quart. Seasonal release.
+  Updated: 2026-04-27T02:13:17Z
   Vendor: Java Momma
   Product Type: Cold Brew Pods
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/cold_brew_lifestyle_image.png?v=1753169558
+  Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/jawesome_cold_brew_hero.png?v=1777255906
   Price: $16.99 USD
 - [Mexican Flan Flavored Coffee | Java Momma | Limited Release](https://javamomma.com/products/mexican-flan-flavored-coffee-creamy-caramel-medium-roast): Flavored medium roast coffee. Caramel and vanilla custard taste. Air-roasted, Brazilian bean base — gentle on the stomach. Limited seasonal release.
-  Updated: 2026-04-19T18:12:27Z
+  Updated: 2026-04-26T20:03:56Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -3923,29 +3902,22 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/Chocolate_Pretzel_2025_1500_x_1500_px.gif?v=1744024454
     Price: $19.99 USD
-- [Blissful Blueberry Peanut Butter 🫐 – Fruity, Chocolatey, and Totally Addictive](https://javamomma.com/products/blissful-blueberry-peanut-butter-fruity-chocolatey-and-totally-addictive): Honey roasted peanut butter meets milk chocolate & blueberries in this fruity, crunchy, dreamy spread. 🫐 Gluten-free & Kosher. Shop now!
-  Updated: 2026-04-16T22:19:47Z
-  Vendor: Bnutty
-  Product Type: Pantry
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/BlissfulBlueberryNoShadow6.9.22_900x_d1b85201-834a-49fd-a0e1-f096d6e9f571.webp?v=1759806663
-  Price: $7.99 USD
 - [Honey Granola Crunch Peanut Butter 🍯 – Sweet, Crunchy, and Totally Addictive](https://javamomma.com/products/honey-granola-crunch-peanut-butter-sweet-crunchy-and-totally-addictive): Crunchy, nutty, honey-kissed peanut butter with granola, fruit & nuts. 🍯 Gluten-free & Kosher. Your new snack addiction is here—shop now!
-  Updated: 2026-04-16T15:16:11Z
+  Updated: 2026-04-21T02:17:57Z
   Vendor: Bnutty
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/HoneyGranolaCrunchNoShadow6.9.22_900x_e49d0739-af88-4c81-b885-f16c003348db.webp?v=1744169776
   Price: $7.99 USD
 - [Spring Crunchmallow Bunnies – Freeze-Dried Marshmallow Bunnies with a Bold, Sweet Crunch](https://javamomma.com/products/spring-crunchmallow-bunnies-freeze-dried-marshmallow-bunnies-with-a-bold-sweet-crunch): Freeze-dried marshmallow bunnies with a bold, airy crunch and intensified sweet flavor. A crispy, melt-in-your-mouth treat made for your 3 PM sanity break.
-  Updated: 2026-04-18T13:28:47Z
+  Updated: 2026-04-20T13:09:38Z
   Vendor: Momma's Munchies
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/spring_crunchmallows.jpg?v=1772161690
-  Price: $6.00 USD
-- [Blackberry Sage Oolong Cold Brew Pods – Bold, Earthy & Bursting with Blackberry Magic](https://javamomma.com/products/blackberry-sage-oolong-cold-brew-pods-bold-earthy-bursting-with-blackberry-magic): Bold blackberry & earthy sage come together in this grounding oolong cold brew. 🍃 Refreshing forest vibes in a cup—grab yours now!
-  Updated: 2026-04-19T05:22:28Z
+  Price: $4.00 USD
+- [Blackberry Sage Oolong Cold Brew Pods | Java Momma](https://javamomma.com/products/blackberry-sage-oolong-cold-brew-pods-bold-earthy-bursting-with-blackberry-magic): Blackberry sage oolong cold brew tea. Drop a pouch, wait overnight, pour over ice. Moderate caffeine. No gear, no fuss. Small batch from Java Momma.
+  Updated: 2026-04-26T13:48:46Z
   Vendor: Java Momma
   Product Type: Cold Brew Pods
   Availability: Available
@@ -3973,7 +3945,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/Peppermint_Sprinkle_Dust_SKU.jpg?v=1746157309
   Price: $6.00 USD
 - [Mindsweeper – Bold Colombian Dark Roast with Lion’s Mane](https://javamomma.com/products/mindsweeper-bold-colombian-dark-roast-with-lion-s-mane): A grounded 100% Colombian dark roast blended with Lion’s Mane mushroom. Smooth, low-acid, and bold—Mindsweeper offers a rich, earthy cup for focused rituals.
-  Updated: 2026-04-18T18:43:46Z
+  Updated: 2026-04-26T04:35:37Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -4015,7 +3987,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/lavender_sugar_hero.jpg?v=1770532554
   Price: $7.99 USD
 - [Rose Sugar Sprinkle](https://javamomma.com/products/rose-petal-sugar-sprinkle): Perfect for rimming glasses, topping lattes, or dusting over desserts. Small-batch, elegant, and oh-so-romantic.
-  Updated: 2026-04-18T12:17:37Z
+  Updated: 2026-04-26T23:42:06Z
   Vendor: Java Momma
   Product Type: Pantry
   Availability: Available
@@ -4036,21 +4008,21 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/image_1080x_a75083d6-814f-40b4-9c49-cad40bb85d2c.webp?v=1770868752
   Price: $8.99 USD
 - [London Haze – Lavender Earl Grey Tea (Perfect for London Fogs)](https://javamomma.com/products/london-haze-lavender-earl-grey): A cozy lavender Earl Grey with bright bergamot and creamy vanilla. Smooth, calming, and perfect hot, iced, or with milk. Your mug, your rules.
-  Updated: 2026-04-04T18:55:22Z
+  Updated: 2026-04-26T23:39:15Z
   Vendor: Java Momma
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/london_haze_bag_hero.jpg?v=1769834597
   Price: $7.99 USD
 - [Blue Monster Popcorn – Blueberry & Cookie Crunch Snack | Simply Delightful](https://javamomma.com/products/blue-monster-popcorn): Blue Monster Popcorn blends blueberry popcorn with mini chocolate chip cookies for a wild, sweet snack attack. 8 oz of cookie-crunchy fun.
-  Updated: 2026-04-14T16:38:30Z
+  Updated: 2026-04-24T12:45:36Z
   Vendor: Simply Delightful
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/Untitled_design_36.png?v=1748628297
   Price: $6.99 USD
 - [Rootbeer Float Popcorn – Creamy Rootbeer & Vanilla Snack | Simply Delightful](https://javamomma.com/products/rootbeer-float-popcorn): Rootbeer Float Popcorn blends creamy vanilla and rootbeer flavors for a fizzy, nostalgic treat in every bite. A crunchy soda fountain favorite. 8 oz bag.
-  Updated: 2026-04-14T16:41:16Z
+  Updated: 2026-04-21T16:04:37Z
   Vendor: Simply Delightful
   Product Type: Pantry
   Availability: Available
@@ -4085,14 +4057,14 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/product_photos_12.png?v=1750272769
   Price: $3.00 USD
 - [Lights Out – The Herbal Lullaby Your Brain’s Been Waiting For](https://javamomma.com/products/lights-out-the-herbal-lullaby-your-brain-s-been-waiting-for): This calming herbal blend with chamomile, valerian, and lavender helps you unwind and log off—gently. Sip before bed. Sleep like you mean it.
-  Updated: 2026-04-07T19:03:17Z
+  Updated: 2026-04-26T23:41:56Z
   Vendor: Java Momma
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/lights_out_hero_a134a11b-16bd-44cf-ba06-74598d6f1fb1.jpg?v=1771069735
   Price: $7.99 USD
 - [Cocoa Moon – Your Chocolate Lullaby in a Cup](https://javamomma.com/products/cocoa-moon-your-chocolate-lullaby-in-a-cup): A rich, floral caffeine-free blend of cocoa nibs, honeybush, and lavender. Cozy up, shut it down, and steep into peace.
-  Updated: 2026-04-15T03:04:07Z
+  Updated: 2026-04-25T12:48:36Z
   Vendor: Java Momma
   Product Type: Tea
   Availability: Available
@@ -4106,18 +4078,11 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/glowgettersku.jpg?v=1750566778
   Price: $5.00 USD
 - [Dream Steam Facial Steamer 🌙  | Botanical Blends by Java Momma](https://javamomma.com/products/dream-steam-facial-steamer-botanical-blends-by-java-momma): Dream Steam Facial Steamer by Java Momma – A calming botanical blend with lavender and lemon balm. Ideal for bedtime or sensitive skin. For facial use only.
-  Updated: 2026-04-11T19:21:47Z
+  Updated: 2026-04-21T18:27:47Z
   Vendor: Java Momma
   Product Type: Botanical Blends
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/dreamsteamsku.jpg?v=1750566943
-  Price: $5.00 USD
-- [🌬️ Breathe Easy Facial Steamer | Botanical Blends by Java Momma](https://javamomma.com/products/breathe-easy-facial-steamer-botanical-blends-by-java-momma): Breathe Easy Facial Steamer – Herbal blend for sinus relief and stress. With peppermint, eucalyptus, and rosemary. For facial use only.
-  Updated: 2026-04-12T02:21:46Z
-  Vendor: Java Momma
-  Product Type: Botanical Blends
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/BreatheEasySKU.png?v=1751881874
   Price: $5.00 USD
 - [🌼 Calm & Clear Facial Steamer | Botanical Blends by Java Momma](https://javamomma.com/products/calm-clear-facial-steamer-botanical-blends-by-java-momma): Calm & Clear Facial Steamer – Balancing botanical blend for oily or acne-prone skin. With chamomile, lemon balm, and thyme. Facial use only.
   Updated: 2026-04-11T19:21:46Z
@@ -4127,14 +4092,14 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/CalmandclearSku.png?v=1751883148
   Price: $5.00 USD
 - [Lavender Matcha Tea Drop – Calm Energy in Every Sip 💜🍵](https://javamomma.com/products/lavender-matcha-tea-drop-calm-energy-in-every-sip): Smooth organic matcha meets soothing lavender. A floral, feel-good pick-me-up—ready in seconds. Limited edition!
-  Updated: 2026-04-17T17:12:26Z
+  Updated: 2026-04-24T03:21:26Z
   Vendor: Tea Drops
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/tea-lavender-matcha-lavender-matcha-1155770865.webp?v=1752118744
   Price: $1.99 USD
 - [Instant Calm – Calm in a mug](https://javamomma.com/products/calm-chill-roast-with-reishi-l-theanine-magnesium): Instant Calm is a functional instant coffee with Reishi, L-Theanine & magnesium—crafted for calm energy, stress support, and smooth focus.
-  Updated: 2026-04-18T18:33:41Z
+  Updated: 2026-04-21T03:04:17Z
   Vendor: Thoughtful Pantry
   Product Type: Pantry
   Availability: Available
@@ -4148,14 +4113,14 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/awaken_tea_bag_hero.png?v=1769425084
   Price: $7.99 USD
 - [Focus Blend  — A Steadier Way to Start](https://javamomma.com/products/focus-coffee-add-in): Focus is a smooth coffee add-in blend with Lion’s Mane, L-Theanine, MCT, cordyceps, and magnesium. An easy way to customize your daily cup.
-  Updated: 2026-04-18T18:33:47Z
+  Updated: 2026-04-25T01:18:25Z
   Vendor: Thoughtful Pantry
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/FocusadditiveSKU.jpg?v=1752737317
   Price: $12.99 USD
 - [Balance Blend – Daily Coffee Add-In](https://javamomma.com/products/balance-blend-coffee-add-in): Balance is a caffeine-free coffee add-in with ashwagandha, reishi, chaga, L-theanine, and magnesium. Easy to mix into your daily cup.
-  Updated: 2026-04-16T14:37:19Z
+  Updated: 2026-04-24T22:29:26Z
   Vendor: Thoughtful Pantry
   Product Type: Pantry
   Availability: Available
@@ -4168,92 +4133,92 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/amberrocksugar.png?v=1753239965
   Price: $4.99 USD
-- [Handheld Frother – Whip It Real Good ☕⚡](https://javamomma.com/products/mini-handheld-frother-whip-it-real-good): Whip up velvety lattes, matcha, and more with our powerful mini frother. Compact, battery-powered, and oh-so-essential. Get yours now!
-  Updated: 2026-04-15T04:52:33Z
+- [Handheld Frother – Whip It Real Good](https://javamomma.com/products/mini-handheld-frother-whip-it-real-good): Whip up velvety lattes, matcha, and more with our powerful mini frother. Compact, battery-powered, and oh-so-essential. Get yours now!
+  Updated: 2026-04-26T16:24:20Z
   Vendor: Java Momma
   Product Type: Pot Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/oggi_frother.webp?v=1776185547
   Price: $9.99 USD
 - [Milk Chocolate Cherry Peanut Butter 🍒 – Fruity, Chocolatey, and Sinfully Smooth](https://javamomma.com/products/milk-chocolate-cherry-peanut-butter-fruity-chocolatey-and-sinfully-smooth): Milk chocolate + honey roasted peanuts + whole dark cherries. 🍒🍫 Gluten-free, Kosher, and totally irresistible. Indulge while it lasts!
-  Updated: 2026-04-12T20:47:46Z
+  Updated: 2026-04-22T02:59:17Z
   Vendor: Bnutty
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/MilkChocolateCherryNoShadow6.9.22_600x_798f5551-c2e2-4f3d-8afa-43e65f7622e2.webp?v=1753859708
   Price: $7.99 USD
 - [🥜 Maple Pecan YES Bar® – Sweet, Salty, and Oh-So-Satisfying](https://javamomma.com/products/maple-pecan-yes-bar®-sweet-salty-and-oh-so-satisfying): Crunchy pecans + maple syrup magic = your new fave snack bar. 😍 Plant-based & snack-happy—grab your YES Bar® moment now!
-  Updated: 2026-04-19T04:23:40Z
+  Updated: 2026-04-26T23:24:16Z
   Vendor: Yes Bar
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/Salted-Maple-Pecan-Bar-Almonds-Cashew-Crunch-Flavors-YES-BAR_-07-30-2025_05_37_PM.jpg?v=1753861109
   Price: $2.99 USD
 - [Apple Cinnamon Crisp YES Bar® – Cozy, Crunchy, Apple Pie Vibes](https://javamomma.com/products/apple-cinnamon-crisp-yes-bar®-cozy-crunchy-apple-pie-vibes): Tastes like apple pie! 🍎 Warm cinnamon, chewy apples & walnuts in every YES Bar® bite. Clean, cozy & crave-worthy—snack happy now!
-  Updated: 2026-04-16T14:37:16Z
+  Updated: 2026-04-24T12:45:27Z
   Vendor: Yes Bar
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/Apple-Cinnamon-Crisp-_-Fiber-Packed-Rich-Energy-Bar-YES-BAR_-07-30-2025_05_41_PM.jpg?v=1753861464
   Price: $2.99 USD
 - [Strawberry Coconut YES Bar® – A Slice of Summer in Every Bite](https://javamomma.com/products/strawberry-coconut-yes-bar®-a-slice-of-summer-in-every-bite): Summer in snack form! 🍓🥥 Strawberry Coconut YES Bar® is chewy, creamy, & plant-based. Crave-worthy & clean—yes, please!
-  Updated: 2026-04-19T04:23:39Z
+  Updated: 2026-04-24T12:45:29Z
   Vendor: Yes Bar
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/Strawberry-Coconut-Bar-_-Tangy-Taste-Healthy-Flavor-YES-BAR_-07-30-2025_05_53_PM.jpg?v=1753862067
   Price: $2.99 USD
 - [Macadamia Chocolate YES Bar® – The OG Flavor That Started It All](https://javamomma.com/products/macadamia-chocolate-yes-bar®-the-og-flavor-that-started-it-all): The OG YES Bar®! 🍫🌰 Macadamia Chocolate with cherries, apricots, and sea salt. Clean, craveable, and totally classic. Grab yours now!
-  Updated: 2026-04-18T02:46:58Z
+  Updated: 2026-04-24T02:31:37Z
   Vendor: Yes Bar
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/Macadamia-Chocolate-_-Rich-in-Healthy-Fats-Fiber-YES-BAR_-07-30-2025_05_55_PM.jpg?v=1753862291
   Price: $2.99 USD
 - [Dark Chocolate Chip YES Bar® – Like a Cookie, But Better (and Guilt-Free!)](https://javamomma.com/products/dark-chocolate-chip-yes-bar®-like-a-cookie-but-better-and-guilt-free): Best- YES Bar®! 🍫🌰 Dark Chocolate Chip cookie vibes with clean, plant-based ingredients. Indulgent & guilt-free—grab yours now!
-  Updated: 2026-04-18T13:28:57Z
+  Updated: 2026-04-24T04:53:16Z
   Vendor: Yes Bar
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/Dark-Chocolate-Chip-Bar-Healthy-Cinnamon-Vanilla-Notes-YES-BAR_-07-30-2025_06_01_PM.jpg?v=1753862630
   Price: $2.99 USD
 - [Peanut Butter Dark Chocolate YES Bar® – A Classic Crave, Upgraded](https://javamomma.com/products/peanut-butter-dark-chocolate-yes-bar®-a-classic-crave-upgraded): Classic PB + dark chocolate done right. 🥜🍫 This YES Bar® is clean, chewy, crave-worthy goodness. Plant-based & snack-perfect!
-  Updated: 2026-04-18T14:26:57Z
+  Updated: 2026-04-26T02:48:46Z
   Vendor: Yes Bar
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/Peanut-Butter-Dark-Chocolate-_-Protein-Nutrient-Boost-YES-BAR_-07-30-2025_06_09_PM.jpg?v=1753863625
   Price: $2.99 USD
 - [Black Sesame Sea Salt YES Bar® – Sweet, Savory, and Totally Addictive](https://javamomma.com/products/black-sesame-sea-salt-yes-bar®-sweet-savory-and-totally-addictive): Black Sesame Sea Salt YES Bar® = sweet, salty, umami bliss. ⚫🌊 With nuts, nori, and sea salt—snack bold, snack smart.
-  Updated: 2026-04-14T17:42:56Z
+  Updated: 2026-04-23T22:50:17Z
   Vendor: Yes Bar
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/Black-Sesame-Sea-Salt-_-Protein-Mineral-Rich-Bar-YES-BAR_-07-30-2025_06_22_PM.jpg?v=1753863914
   Price: $2.99 USD
 - [Meyer Lemon Shortbread Cookies 🍋 – Buttery Bliss with a Citrus Twist](https://javamomma.com/products/meyer-lemon-shortbread-cookies-buttery-bliss-with-a-citrus-twist): Zesty Meyer Lemon shortbread cookies with a buttery crunch in every bite. 🍋 4oz of sunshine—snag a box now!
-  Updated: 2026-04-11T20:14:06Z
+  Updated: 2026-04-26T23:24:16Z
   Vendor: Rustic Bakery
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/Rustic-Bakery-Product-SingleServe-Shortbread33398_1800x1800_c3044d2c-cf78-42b6-a8c9-3124af2a5433.webp?v=1754372509
   Price: $1.20 USD
 - [Salted Caramel Shortbread Cookies 🧈 – Buttery, Golden & Irresistibly Simple](https://javamomma.com/products/classic-shortbread-cookies-buttery-golden-irresistibly-simple): Rich, buttery shortbread cookies made the old-fashioned way. 🧈 classic comfort—grab yours now!
-  Updated: 2026-04-11T19:21:47Z
+  Updated: 2026-04-26T23:24:17Z
   Vendor: Rustic Bakery
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/4410d528f208c198933becde0aa3fb8ff5fd3fa0dbb8f3eb662702c1a27fe4cc_1600x_6092d243-9352-4406-9724-804ea19b394f.webp?v=1754399680
   Price: $1.20 USD
 - [Double Chocolate Shortbread Cookie Single-Serve Decadence](https://javamomma.com/products/double-chocolate-shortbread-cookie-rich-buttery-single-serve-decadence): Buttery double chocolate shortbread with cocoa, cacao nibs & sea salt. 🍫 .7oz snack pack—chocolate lovers, dive in!
-  Updated: 2026-04-15T01:06:58Z
+  Updated: 2026-04-26T23:24:17Z
   Vendor: Rustic Bakery
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/Rustic-Bakery-Product-SingleServe-Shortbread33397_1800x1800_374503d6-ea29-43e2-b2d6-42c2300c7162.webp?v=1754372509
   Price: $1.20 USD
 - [Unicorn Poop Nut Butter – Peanut Butter Brownie Magic with Sprinkles](https://javamomma.com/products/unicorn-poop-nut-butter-peanut-butter-brownie-magic-with-sprinkles): Peanut butter brownie nut butter + sprinkles = Unicorn Poop magic! 🦄💩 Sweet, fun & 100% edible. Limited batch—grab yours now!
-  Updated: 2026-04-01T10:05:55Z
+  Updated: 2026-04-24T22:17:56Z
   Vendor: Blindspot
   Product Type: Pantry
   Availability: Available
@@ -4274,35 +4239,35 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/IMG_9877.jpg?v=1761662504
   Price: $15.00 USD
 - [Apple Cinnamon Crisp MINI YES Bar® – Cozy, Crunchy, Apple Pie Vibes](https://javamomma.com/products/apple-cinnamon-crisp-mini-yes-bar®-cozy-crunchy-apple-pie-vibes): Tastes like apple pie! 🍎 Warm cinnamon, chewy apples & walnuts in every YES Bar® bite. Clean, cozy & crave-worthy—snack happy now!
-  Updated: 2026-04-18T16:35:56Z
+  Updated: 2026-04-25T17:04:35Z
   Vendor: Yes Bar
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/YesBarapplecinnamoncrisp_1024x1024_2x_7e7932af-e68a-4fb2-8e6d-28e9fcc7fa46.webp?v=1755540102
   Price: $1.89 USD
 - [🥜 Maple Pecan MINI YES Bar® – Sweet, Salty, and Oh-So-Satisfying](https://javamomma.com/products/maple-pecan-mini-yes-bar®-sweet-salty-and-oh-so-satisfying-copy): Crunchy pecans + maple syrup magic = your new fave snack bar. 😍 Plant-based & snack-happy—grab your YES Bar® moment now!
-  Updated: 2026-04-18T02:46:58Z
+  Updated: 2026-04-26T06:28:56Z
   Vendor: Yes Bar
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/yes_bar_mini_salted_maple_pecan_1024x1024_2x_064474d3-320e-4556-9b79-4c04774253e0.webp?v=1755539886
   Price: $1.89 USD
 - [Dark Chocolate Chip MINI YES Bar® – Like a Cookie, But Better (and Guilt-Free!)](https://javamomma.com/products/dark-chocolate-chip-mini-yes-bar®-like-a-cookie-but-better-and-guilt-free-copy): Best- YES Bar®! 🍫🌰 Dark Chocolate Chip cookie vibes with clean, plant-based ingredients. Indulgent & guilt-free—grab yours now!
-  Updated: 2026-04-18T14:26:56Z
+  Updated: 2026-04-26T14:45:35Z
   Vendor: Yes Bar
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/YesBarminidarkchocolate_1100x_8ba7063b-03e2-4472-becb-082739d9b2fb.webp?v=1755539980
   Price: $1.89 USD
 - [Bamboo Floss Holder with Charcoal Floss No Tox Life® – Eco-Friendly, Gentle & Refillable Oral Care](https://javamomma.com/products/bamboo-floss-holder-with-charcoal-floss-eco-friendly-gentle-refillable-oral-care): Sustainable bamboo floss with refillable case. Gentle, charcoal-infused, low-waste oral care that actually works. 🦷 Refill-ready & compostable!
-  Updated: 2026-04-16T14:35:45Z
+  Updated: 2026-04-26T10:48:50Z
   Vendor: Thoughtful Pantry
   Product Type: Body Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/flossholder3.jpg?v=1756084721
   Price: $4.00 USD
 - [No Tox Life® Charcoal Floss Refills – 2-Pack | Eco-Friendly & Gentle on Gums](https://javamomma.com/products/no-tox-life®-charcoal-floss-refills-2-pack-eco-friendly-gentle-on-gums): Refill your bamboo floss holder with eco-friendly charcoal floss. Gentle, low waste, and oh-so-smooth. Comes in a 2-pack! ♻️🦷
-  Updated: 2026-04-16T14:35:46Z
+  Updated: 2026-04-26T10:48:46Z
   Vendor: Thoughtful Pantry
   Product Type: Body Care
   Availability: Available
@@ -4323,7 +4288,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/a-vibrant-product-shot-illustration-of-p_YRCfKrW2T9K_Oe41imTwwQ_cVk10XTwTD-t3wHl1IKH6Q.png?v=1756490495
   Price: $27.50 USD
 - [Gluten Free Traditional Stroopie Crumble Mix – Sweet, Salty, & 100% Snackable](https://javamomma.com/products/gluten-free-traditional-stroopie-crumble-mix): Gluten-free crumble mix with caramel Stroopie crumbs, white chocolate drizzle, seeds, raisins, and almonds in a 5 oz bag.
-  Updated: 2026-04-07T15:02:19Z
+  Updated: 2026-04-24T01:50:27Z
   Vendor: Stroopies, Inc.
   Product Type: Pantry
   Availability: Available
@@ -4337,7 +4302,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/tea-ube-berries-ube-berries-1170818094.webp?v=1759221453
   Price: $1.99 USD
 - [Huckleberry White Chocolate Biscotti – Sweet, Tart & Soft-Bite Perfect](https://javamomma.com/products/huckleberry-white-chocolate-biscotti): Soft-baked Huckleberry White Chocolate Biscotti with tart berries & sweet white chocolate. 🫐🍫 Perfect for dunking or solo snacking. Try it now!
-  Updated: 2026-04-19T14:17:57Z
+  Updated: 2026-04-25T05:02:15Z
   Vendor: Northwest Biscotti
   Product Type: Pantry
   Availability: Available
@@ -4358,19 +4323,19 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/460-Candy-corn_1280x_5bf72518-fd4f-489a-997c-45a2da23b277.jpg?v=1759634557
   Price: $6.00 USD
 - [My Sister’s Granola – Nutty, Sweet, and Totally Addictive](https://javamomma.com/products/my-sister-s-granola-nutty-sweet-and-totally-addictive): Crunchy, nutty, sweet—this is hands-down the best granola we’ve ever had. 🥣 Grab a bag (or two) of My Sister’s Granola now!
-  Updated: 2026-04-18T01:45:16Z
+  Updated: 2026-04-26T02:48:46Z
   Vendor: My Sister's Granola
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/my-sisters-granola-scaled.jpg?v=1760158900
-  - [22 ounce](https://javamomma.com/products/my-sister-s-granola-nutty-sweet-and-totally-addictive?variant=42613010366531)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/my_sister_s_granola_spoon-min.png?v=1760158900
-    Price: $25.00 USD
   - [12 ounce](https://javamomma.com/products/my-sister-s-granola-nutty-sweet-and-totally-addictive?variant=42613010333763)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/my_sister_s_granola_spoon-min.png?v=1760158900
     Price: $15.00 USD
+  - [22 ounce](https://javamomma.com/products/my-sister-s-granola-nutty-sweet-and-totally-addictive?variant=42613010366531)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/my_sister_s_granola_spoon-min.png?v=1760158900
+    Price: $25.00 USD
 - [Cocoa Clarity – Creamy Mushroom Cocoa Mix](https://javamomma.com/products/cocoa-clarity-functional-cocoa-blend): Cocoa Clarity is a rich hot cocoa mix blended with reishi, lion’s mane, ashwagandha, L-theanine, and MCT oil. Creamy, chocolate-forward, and easy to mix.
   Updated: 2026-04-17T15:29:26Z
   Vendor: Thoughtful Pantry
@@ -4386,14 +4351,14 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/breakfast_club_bundle.png?v=1760158911
   Price: $24.99 USD
 - [Stroopwafel Just the Cookies 🧇 – 100g Bag of Sweet Snacking Bliss](https://javamomma.com/products/stroopwafel-cookie-crunch-100g-bag-of-sweet-snacking-bliss): Crispy, buttery stroopwafel cookie pieces—no caramel, all crunch. 🧇 Perfect for snacking, dunking &amp; topping! Limited release—grab yours now!
-  Updated: 2026-04-15T03:18:21Z
+  Updated: 2026-04-21T16:02:45Z
   Vendor: Lancaster Stroopwafel
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/Stroopie_Pieces_with_Ice_Cream.jpg?v=1760239341
   Price: $5.00 USD
 - [Immune Ritual – Coffee with Reishi, Shiitake & Marine Magnesium](https://javamomma.com/products/immune-ritual-mushroom-coffee): Cocoa-forward medium roast blended with reishi, shiitake mushroom powders, and marine magnesium. No added sugar. Air-roasted to order. ½ lb.
-  Updated: 2026-04-18T18:43:48Z
+  Updated: 2026-04-26T17:08:16Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -4442,7 +4407,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/earl_grey_sampler_sku-min.png?v=1761724401
   Price: $27.99 USD
 - [Calming Herbal Tea Blend - Peace Out Relaxation Brew](https://javamomma.com/products/peace-out-herbal-tea): Discover Peace Out, a calming herbal tea blend with chamomile, peppermint, and lemon balm for a calming escape in every sip.
-  Updated: 2026-04-18T01:45:16Z
+  Updated: 2026-04-24T05:54:11Z
   Vendor: Java Momma
   Product Type: Tea
   Availability: Available
@@ -4462,15 +4427,53 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/not_everyone_s_cup_of_tea_mug.jpg?v=1763070881
   Price: $10.99 USD
+- [Fig & Honey Coffee | Java Momma | Air-Roasted to Order](https://javamomma.com/products/fig-honey-coffee): Warm, jammy fig and soft honey sweetness — air-roasted to order on a Brazilian Arabica base. Easy on the stomach. Available in decaf.
+  Updated: 2026-04-26T21:58:17Z
+  Vendor: Java Momma
+  Product Type: Coffee
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/fig_honey_coffee_hero.jpg?v=1776848961
+  - [Regular / 1/2 pound / Auto Drip](https://javamomma.com/products/fig-honey-coffee?variant=42737963958339)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/fig_honey_coffee_hero.jpg?v=1776848961
+    Price: $15.99 USD
+  - [Regular / 1/2 pound / French Press](https://javamomma.com/products/fig-honey-coffee?variant=42737963991107)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/fig_honey_coffee_hero.jpg?v=1776848961
+    Price: $15.99 USD
+  - [Regular / 1/2 pound / Whole Bean](https://javamomma.com/products/fig-honey-coffee?variant=42737964023875)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/fig_honey_coffee_hero.jpg?v=1776848961
+    Price: $15.99 USD
+  - [Regular / 12 Single Serve Cups / Auto Drip](https://javamomma.com/products/fig-honey-coffee?variant=42737964056643)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/fig_and_honey_kcups.jpg?v=1776844900
+    Price: $17.99 USD
+  - [Decaf / 1/2 pound / Auto Drip](https://javamomma.com/products/fig-honey-coffee?variant=42737964089411)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/fig_honey_coffee_flatlay.jpg?v=1776849363
+    Price: $17.99 USD
+  - [Decaf / 1/2 pound / French Press](https://javamomma.com/products/fig-honey-coffee?variant=42737964122179)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/fig_honey_coffee_flatlay.jpg?v=1776849363
+    Price: $17.99 USD
+  - [Decaf / 1/2 pound / Whole Bean](https://javamomma.com/products/fig-honey-coffee?variant=42737964154947)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/fig_honey_coffee_flatlay.jpg?v=1776849363
+    Price: $17.99 USD
+  - [Decaf / 12 Single Serve Cups / Auto Drip](https://javamomma.com/products/fig-honey-coffee?variant=42737964187715)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/fig_and_honey_kcups.jpg?v=1776844900
+    Price: $19.99 USD
 - [Wilbur’s Semi-Sweet Chocolate Buds – Lancaster’s Legendary Melt-in-Your-Mouth Classic](https://javamomma.com/products/wilbur-s-semi-sweet-chocolate-buds): Lancaster’s famous Wilbur Buds—semi-sweet, silky, & snackable! 🍫 Perfect for baking or straight from the bag. Grab a 60g bite of nostalgia!
-  Updated: 2026-04-19T02:18:07Z
+  Updated: 2026-04-26T23:24:16Z
   Vendor: Wilbur Chocolates
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/05bee158612f0c65e7e8ae8aa3d2125460884acf06fd8745808102d1c9aad017.webp?v=1764205545
   Price: $3.99 USD
 - [Mushroom Coffee Duo +  French Press – Mindsweeper, Immune, & Feel-Good Energy in Every Cup](https://javamomma.com/products/mushroom-coffee-duo-french-press): Mushroom Coffee Duo with Lion’s Mane & Reishi + French Press! ☕ Boost focus, immunity & vibes—clarity never tasted this good. 🍄🔥
-  Updated: 2026-04-14T16:58:35Z
+  Updated: 2026-04-21T03:04:26Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -4484,7 +4487,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/caramel-creme-brulee_google-neutral.jpg?v=1769419675
   Price: $7.99 USD
 - [Mexico Medium Roast Coffee – Balance & Smooth | Java Momma](https://javamomma.com/products/mexico-medium-roast-coffee): Meet your new daily drinker. Our Mexico Medium Roast delivers a smooth, balanced cup with gentle cocoa and walnut notes. Air-roasted and powered by 100% solar energy for a cleaner, consistent flavor.
-  Updated: 2026-04-18T17:34:27Z
+  Updated: 2026-04-26T20:03:57Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -4518,7 +4521,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/mexico_medium_kcup.jpg?v=1764813465
     Price: $17.99 USD
 - [Mexico Dark Roast Coffee – Bold & Smooth | Java Momma](https://javamomma.com/products/mexico-dark-roast-coffee): Go bold without the bitterness. Our Mexico Dark Roast delivers smooth depth with warm cocoa and toasted walnut notes. Air-roasted and powered by 100% solar energy for a cleaner, more consistent cup.
-  Updated: 2026-04-17T12:28:15Z
+  Updated: 2026-04-23T23:21:08Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -4552,7 +4555,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/mexico_dark_kcup.jpg?v=1764813421
     Price: $17.99 USD
 - [Nicaragua Diamante – Medium Roast (Apple & Milk Chocolate Notes)](https://javamomma.com/products/nicaragua-diamante-medium-roast-coffee): Your new daily driver. Air-roasted Nicaragua Diamante is a smooth medium roast with natural notes of red apple, milk chocolate, and brown sugar. Low acid, high body.
-  Updated: 2026-04-16T00:04:56Z
+  Updated: 2026-04-20T02:18:17Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -4586,7 +4589,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/Nicaragua_Medium_KCUPS.jpg?v=1769828079
     Price: $17.99 USD
 - [low-acid dark roast coffee - Fade to Black Blend](https://javamomma.com/products/fade-to-black-dark-roast): Discover Fade to Black, the bold low-acid dark roast coffee that delivers rich flavors without bitterness—perfect for your morning ritual.
-  Updated: 2026-04-19T13:55:00Z
+  Updated: 2026-04-25T16:56:44Z
   Vendor: Underground by Java Momma
   Product Type: Coffee
   Availability: Available
@@ -4621,21 +4624,21 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/morningblendSKU.jpg?v=1765317648
   Price: $7.99 USD
 - [Coconut Banana Dream – Red Rooibos • Caffeine-Free • Creamy Tropical Comfort](https://javamomma.com/products/coconut-banana-dream-tea): A creamy rooibos blend with coconut, banana, and soft florals. Naturally sweet, caffeine-free, and perfect for cozy evenings or iced tropical sips. Shop Coconut Banana Dream now.
-  Updated: 2026-04-02T21:20:38Z
+  Updated: 2026-04-24T22:09:46Z
   Vendor: Java Momma
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/coconutbananasku.jpg?v=1765248863
   Price: $7.99 USD
 - [Horchata | Java Momma](https://javamomma.com/products/horchata-single-serve-drink-packets): Sweet rice and warm cinnamon in a creamy, instant horchata. Hot or iced, ready in 90 seconds. No drive required.
-  Updated: 2026-04-17T20:24:56Z
+  Updated: 2026-04-27T03:40:35Z
   Vendor: Java Momma
   Product Type: Cocoa
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/Horchata_Mockup.jpg?v=1775302359
   Price: $3.50 USD
 - [Red Velvet Cocoa | Java Momma](https://javamomma.com/products/red-velvet-cocoa-single-serve-packets): Red velvet cake flavor in a creamy, instant cocoa. No coffee, hot or iced, ready in minutes. Dessert energy, mug format.
-  Updated: 2026-04-12T20:34:31Z
+  Updated: 2026-04-27T03:41:29Z
   Vendor: Java Momma
   Product Type: Cocoa
   Availability: Available
@@ -4663,7 +4666,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/Muslin_steeping_bag_sku_1.jpg?v=1767592224
   Price: $2.99 USD
 - [Cinnamon Orange Grove – Cozy, Bright, Caffeine-Free](https://javamomma.com/products/cinnamon-orange-grove): Naturally sweet, caffeine-free rooibos with bright orange peel, cozy cinnamon, and warming botanicals. Comforting any time of day.
-  Updated: 2026-04-09T15:23:57Z
+  Updated: 2026-04-22T12:32:46Z
   Vendor: Java Momma
   Product Type: Tea
   Availability: Available
@@ -4676,20 +4679,6 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/sweet_spice_market_sku_standing.jpg?v=1768025429
   Price: $7.99 USD
-- [You Had Me At Coffee](https://javamomma.com/products/you-had-me-at-coffee-valentine-s-day-mug): You had me at coffee. A sweet Valentine’s Day mug in white ceramic with a red interior. 11 oz and easy to love.
-  Updated: 2026-04-18T03:37:07Z
-  Vendor: Java Momma
-  Product Type: Pot Shop
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/youhadmeatcoffeesku.jpg?v=1768098656
-  Price: $12.99 USD
-- [🖤 Free Hugs. Just Kidding. Don’t Touch Me.](https://javamomma.com/products/free-hugs-just-kidding-don-t-touch-me-valentine-s-day-mug): Free hugs. Just kidding. Don’t touch me. A funny Valentine’s Day mug in white ceramic with a red interior. 11 oz.
-  Updated: 2026-04-01T10:06:12Z
-  Vendor: Java Momma
-  Product Type: Pot Shop
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/freehugsmugsku.jpg?v=1768102078
-  Price: $12.99 USD
 - [Buttercup’s True Love | Butterscotch Black Tea](https://javamomma.com/products/buttercup-s-true-love-butterscotch-black-tea): Smooth butterscotch black tea with cocoa nibs and floral notes. High-caffeine and comforting, with a rich, romantic finish that lingers.
   Updated: 2026-04-16T17:11:56Z
   Vendor: Java Momma
@@ -4712,14 +4701,14 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/Chocolatecoveredstrawberryteamockupmock.jpg?v=1768796515
   Price: $7.99 USD
 - [Lavender Mint Intentions Herbal Tea | Java Momma](https://javamomma.com/products/lavender-mint-intentions-herbal-tea): A calming lavender mint herbal tea with gentle sweetness and a clean finish. Caffeine-free and perfect for anyone who loves soothing, refreshing blends.
-  Updated: 2026-04-19T04:17:06Z
+  Updated: 2026-04-22T12:32:46Z
   Vendor: Java Momma
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/lavender_mint_intentions_her_bag.jpg?v=1769649134
   Price: $7.99 USD
 - [Plot Twist Mint Tea | Java Momma](https://javamomma.com/products/plot-twist-mint-tea): A black tea with peppermint that actually surprises you. Smooth Darjeeling, cool mint, no bitterness. A crisp twist on routine.
-  Updated: 2026-04-18T15:50:37Z
+  Updated: 2026-04-21T23:13:27Z
   Vendor: Java Momma
   Product Type: Tea
   Availability: Available
@@ -4740,7 +4729,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/verdant_grey_tea_hero_bag.jpg?v=1769834553
   Price: $7.99 USD
 - [Crispy Peanut Butter Cup](https://javamomma.com/products/crispy-peanut-butter-cup): Classic peanut butter cup… with a crunch problem (in a good way). If you love a peanut butter cup but always wish it had a little more texture—hi, this is your new thing. Creamy peanut butter wrapped in chocolate, then packed with crispy rice cereal for that snap-crackle bite that makes every mouthful feel extra satisfying. It’s familiar, but louder. Sweet, but not one-note. And yes, it disappears fast. Chocolate peanut butter cup with crispy rice cereal crunch Creamy + crunchy texture in every bite Sweet, nostalgic, and dangerously snackable Perfect for people who like their candy with texture Big treat energy What It Is This cup is made by CB Stuffer, known for taking familiar candy favorites and giving them a bold, overstuffed upgrade. The “crispy” comes from rice cereal mixed in for that crunchy bite. Net weight: 5.6 ounce Ingredients & Allergens Ingredient and allergen information will be added as soon as it’s available from the maker. Because this includes crispy rice cereal, it may contain grains and common allergens depending on the exact components used. If you have dietary or allergy concerns, we recommend waiting for the full ingredient list or reaching out before purchasing. How to Enjoy It Eat straight from the wrapper for maximum crunch payoff Chill it for extra snap, or warm slightly for gooey + crispy contrast Pair with coffee or milk and call it “balance” Slice and share (optional, not required) FAQ What makes this one “crispy”?It’s mixed with crispy rice cereal for a light, crunchy texture throughout. Is it still mostly peanut butter cup?Yes—same creamy peanut butter + chocolate base, just with added crunch. Do you have the full ingredient list yet?Not yet. We’ll update this listing as soon as we receive the confirmed details. Is this gluten-free?We can’t confirm that until the ingredient list is provided by the maker. How should it be stored?Room temperature is fine—just keep it out of direct heat. Is this meant to be shared?It can be. But it also understands solo missions.
-  Updated: 2026-04-01T10:06:15Z
+  Updated: 2026-04-21T16:04:36Z
   Vendor: CB Stuffers
   Product Type: Pantry
   Availability: Available
@@ -4768,7 +4757,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/FFEDAEA0-2E76-42E6-8FC4-E88121D248DF.webp?v=1770372333
   Price: $10.99 USD
 - [Nut’n But Cashews](https://javamomma.com/products/nut-n-but-cashews): Creamy cashew butter made with just cashews and sea salt — naturally sweet, clean, and indulgent in a 4 oz jar.
-  Updated: 2026-04-12T23:40:38Z
+  Updated: 2026-04-26T00:25:36Z
   Vendor: Blindspot
   Product Type: Pantry
   Availability: Available
@@ -4789,7 +4778,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/steady_hero.png?v=1770689687
   Price: $7.99 USD
 - [Cinnamon Blueberry Crumble Coffee | Java Momma](https://javamomma.com/products/cinnamon-blueberry-crumble-coffee): Bright blueberry, warm cinnamon, and buttery crumble flavor in a smooth medium roast coffee that tastes like dessert in a mug.
-  Updated: 2026-04-19T23:07:57Z
+  Updated: 2026-04-27T02:12:16Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -4826,13 +4815,6 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/cinnamon_blueberry_crumble_kcup.jpg?v=1771321597
     Price: $19.99 USD
-- [Espresso Malt Balls](https://javamomma.com/products/espresso-malt-balls): Crispy malted milk centers wrapped in milk chocolate blended with real ground coffee. A sweet, crunchy treat with a gentle coffee kick.
-  Updated: 2026-04-14T15:55:08Z
-  Vendor: Lake Erie Candy Company
-  Product Type: Pantry
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/2f1d9810c3d82f9de86420718e4ca941ce00c23ad37497342469aa782aee27b8.webp?v=1770853623
-  Price: $7.99 USD
 - [Caramel Cashew Corn | Simply Delightful](https://javamomma.com/products/caramel-cashew-corn-simply-delightful-snacks): Classic buttery caramel corn mixed with roasted salted cashews for the perfect sweet-and-salty crunch.
   Updated: 2026-04-16T14:37:16Z
   Vendor: Simply Delightful
@@ -4841,49 +4823,42 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/caramelcashewcorn.webp?v=1770856833
   Price: $7.99 USD
 - [Caramel Cashew Corn | Simply Delightful](https://javamomma.com/products/cookies-cream-popcorn-simply-delightful-snacks): Creamy vanilla popcorn loaded with real OREO® cookie pieces for a sweet, crunchy cookies-and-cream treat.
-  Updated: 2026-04-01T10:06:17Z
+  Updated: 2026-04-26T13:45:36Z
   Vendor: Simply Delightful
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/cookiesandcreampopcorn.webp?v=1770857218
   Price: $7.99 USD
 - [Butterscotch Popcorn | Simply Delightful](https://javamomma.com/products/butterscotch-popcorn-simply-delightful-snacks): Crisp popcorn coated in a glossy butterscotch-style shell with warm brown sugar notes and a buttery finish.
-  Updated: 2026-04-18T12:46:41Z
+  Updated: 2026-04-25T23:32:21Z
   Vendor: Simply Delightful
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/butterscotch.webp?v=1770858075
   Price: $5.99 USD
 - [Sweet Heat Popcorn | Simply Delightful](https://javamomma.com/products/sweet-heat-popcorn-simply-delightful-snacks): Crisp candy-coated popcorn with a sweet sugar shell and a gentle cayenne heat for the perfect sweet-and-spicy crunch.
-  Updated: 2026-04-01T10:06:17Z
+  Updated: 2026-04-26T22:18:25Z
   Vendor: Simply Delightful
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/sweetheatpopcorn.webp?v=1770858207
   Price: $5.99 USD
 - [Jalapeño Popper Corn | Simply Delightful](https://javamomma.com/products/jalapeno-popper-corn-simply-delightful-snacks-copy): Savory popcorn with creamy cheese-style seasoning and a jalapeño kick. A bold, crowd-friendly snack with balanced heat.
-  Updated: 2026-04-10T19:28:37Z
+  Updated: 2026-04-26T22:18:25Z
   Vendor: Simply Delightful
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/jalapenopoppercorn.webp?v=1770858549
   Price: $5.99 USD
-- [VON Pretzel Chips](https://javamomma.com/products/von-pretzel-chips): Twice-baked pretzel chips made with a simple five-ingredient recipe, finished with EVOO and pretzel salt. Crisp, savory, and shareable.
-  Updated: 2026-04-16T03:48:08Z
-  Vendor: ElJay Pretzels
-  Product Type: Pantry
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/Screenshot2026-02-10at4.18.21PM.png?v=1770865453
-  Price: $7.99 USD
 - [Rosemary VON Pretzel Chips](https://javamomma.com/products/rosemary-von-pretzel-chips): Twice-baked pretzel chips seasoned with rosemary, EVOO, and pretzel salt. Crisp, savory, and perfect for dips or snack boards.
-  Updated: 2026-04-16T03:48:17Z
+  Updated: 2026-04-26T06:28:47Z
   Vendor: ElJay Pretzels
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/Screenshot2026-02-10at4.18.57PM.png?v=1770865756
   Price: $7.99 USD
 - [Giant Marshmallow Pops](https://javamomma.com/products/st-patrick-s-day-giant-marshmallow-pops): Giant marshmallow pops dipped in white chocolatey coating and covered in festive St. Patrick’s Day sprinkles. Perfect for parties and gifts.
-  Updated: 2026-04-18T12:19:36Z
+  Updated: 2026-04-24T22:17:57Z
   Vendor: Melville Candy
   Product Type: Pantry
   Availability: Available
@@ -4897,21 +4872,21 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/Screenshot2026-02-10at2.18.03PM.png?v=1770868616
   Price: $8.99 USD
 - [Big Spoon Roasters Apricot Pepita Peanut Butter Bar | 11g Protein, Gluten Free](https://javamomma.com/products/big-spoon-roasters-apricot-pepita-peanut-butter-bar-11g-protein-gluten-free): Creamy peanut butter, tart Michigan cranberries, and organic cashews come together in this balanced, plant-based protein bar. Real ingredients. No fillers. Made in the USA.
-  Updated: 2026-04-01T10:06:18Z
+  Updated: 2026-04-22T22:49:26Z
   Vendor: Big Spoon Roasters
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/apricotpepitabar.webp?v=1770888307
   Price: $3.49 USD
 - [Big Spoon Roasters Carrot Cake Almond & Walnut Butter | Vegan, No Refined Sugar](https://javamomma.com/products/big-spoon-roasters-carrot-cake-almond-walnut-butter-vegan-no-refined-sugar): Heirloom Mission almonds and crunchy pistachios blended with Vermont maple syrup and sea salt. No palm oil, no fillers—just balanced, small-batch almond butter with real crunch.
-  Updated: 2026-04-18T03:16:07Z
+  Updated: 2026-04-26T23:24:11Z
   Vendor: Big Spoon Roasters
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/carrotcake3oz.webp?v=1770888509
   Price: $7.99 USD
 - [Vanilla Latte Almond Butter | Big Spoon Roasters](https://javamomma.com/products/vanilla-latte-almond-butter-big-spoon-roasters): Espresso-infused almond butter made with Madcap Coffee’s Eureka Espresso, maple syrup, and vanilla. Smooth, lightly sweet, and small-batch crafted.
-  Updated: 2026-04-18T03:16:07Z
+  Updated: 2026-04-26T23:24:16Z
   Vendor: Big Spoon Roasters
   Product Type: Pantry
   Availability: Available
@@ -4925,14 +4900,14 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/chocolate_sea_salt_3oz_1.webp?v=1770920711
   Price: $7.99 USD
 - [Spearmint Puffs – The Stripe That Snaps Back](https://javamomma.com/products/spearmint-puffs-freeze-dried): Freeze-dried spearmint puffs with a delicate snap and icy cool flavor. Crisp, airy mint candy that melts fast—perfect for desk drawer refreshes.
-  Updated: 2026-04-01T10:06:19Z
+  Updated: 2026-04-21T17:38:28Z
   Vendor: Momma's Munchies
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/spearmint_puffs_hero_f.jpg?v=1771140122
   Price: $6.00 USD
 - [Elderberry Syrup Blend](https://javamomma.com/products/elderberry-syrup-blend): Make your own elderberry syrup the easy way. Pre-portioned organic blend—just add water and honey. Bold berry flavor, zero guesswork.
-  Updated: 2026-04-11T02:14:57Z
+  Updated: 2026-04-23T20:34:58Z
   Vendor: Java Momma
   Product Type: Tea
   Availability: Available
@@ -4953,28 +4928,14 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/PDP-Pretzel-Bag-Snack-3oz_Thai_Honey_Curry.webp?v=1771394476
   Price: $3.49 USD
 - [Pop Daddy Yellow Mustard Seasoned Pretzels – 3 oz Snack Pack](https://javamomma.com/products/pop-daddy-yellow-mustard-seasoned-pretzels-3-oz-snack-pack): Classic yellow mustard tang coats every crunchy pretzel stick. A bold 3 oz snack pack made for mustard lovers.
-  Updated: 2026-04-16T11:24:08Z
+  Updated: 2026-04-24T04:53:16Z
   Vendor: Pop Daddy Snacks
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/PDP-Pretzel-Snack-Bag-3oz-Yellow-Mustard.webp?v=1771395283
   Price: $3.49 USD
-- [Pop Daddy Mexican Street Corn Seasoned Pretzels – 3 oz Snack Pack](https://javamomma.com/products/pop-daddy-mexican-street-corn-seasoned-pretzels-3-oz-snack-pack): Creamy cheese, chili, lime, and roasted corn flavor coat every crunchy pretzel stick. Mexican Street Corn pretzels in a bold 3 oz snack pack.
-  Updated: 2026-04-11T14:42:06Z
-  Vendor: Pop Daddy Snacks
-  Product Type: Pantry
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/PDP-Pretzel-Snack-Bag-3oz-Mexican-Street-Corn.webp?v=1771395708
-  Price: $3.49 USD
-- [Pop Daddy Peppercorn Ranch Seasoned Pretzels – 3 oz Snack Pack](https://javamomma.com/products/pop-daddy-peppercorn-ranch-seasoned-pretzels-3-oz-snack-pack): Creamy ranch seasoning with a cracked black pepper kick on crunchy pretzel sticks. A bold 3 oz snack for ranch lovers.
-  Updated: 2026-04-12T20:19:08Z
-  Vendor: Pop Daddy Snacks
-  Product Type: Pantry
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/PDP-Pretzel-Snack-Bag-3oz-Peppercorn-Ranch.webp?v=1771396044
-  Price: $3.49 USD
 - [Pop Daddy Birthday Cake Seasoned Pretzels – 3 oz Snack Pack](https://javamomma.com/products/pop-daddy-birthday-cake-seasoned-pretzels-3-oz-snack-pack): Sweet vanilla frosting flavor meets crunchy pretzel sticks in this Birthday Cake snack. A nostalgic 3 oz treat without the mess.
-  Updated: 2026-04-09T22:54:17Z
+  Updated: 2026-04-25T15:13:07Z
   Vendor: Pop Daddy Snacks
   Product Type: Pantry
   Availability: Available
@@ -4988,14 +4949,14 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/PDS_Pretzel_Bag_Front_7.5oz_Strawberry_Shortcake.webp?v=1771396976
   Price: $4.99 USD
 - [Pop Daddy Dutch Apple Pie Seasoned Pretzels – 7.5 oz Limited Edition](https://javamomma.com/products/pop-daddy-dutch-apple-pie-seasoned-pretzels-7-5-oz-limited-edition): Real apple, caramel, and cinnamon collide in this limited edition Dutch Apple Pie pretzel. A 7.5 oz resealable bag of streusel-style crunch.
-  Updated: 2026-04-04T18:30:57Z
+  Updated: 2026-04-22T02:21:31Z
   Vendor: Pop Daddy Snacks
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/81BPabhK1hL._SL1500.jpg?v=1771398311
   Price: $4.99 USD
 - [Carrot Rice Treat Pops – Chocolate Dipped Easter Rice Krispie Pop](https://javamomma.com/products/carrot-rice-treat-pops): Carrot-shaped rice treat pops dipped in orange chocolatey coating. Individually wrapped and made fresh to order. Perfect for Easter baskets and spring parties.
-  Updated: 2026-04-18T21:00:17Z
+  Updated: 2026-04-26T02:40:36Z
   Vendor: Melville Candy
   Product Type: Pantry
   Availability: Available
@@ -5009,21 +4970,21 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/spring_bunny_barista_set.jpg?v=1772095559
   Price: $12.50 USD
 - [Regency Drama Tea Mug - Elegant 11oz Ceramic Design](https://javamomma.com/products/i-am-the-tea-you-are-having-mug): Embrace your inner royalty with the Regency drama tea mug. Perfect for those who savor each sip and leave a lasting impression.
-  Updated: 2026-04-16T07:19:59Z
+  Updated: 2026-04-21T02:34:36Z
   Vendor: Java Momma
   Product Type: Pot Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/I_am_the_tea_hero.png?v=1772156275
   Price: $12.99 USD
 - [Elderberry Elixir – Bold Berry Herbal Tea (Caffeine-Free)](https://javamomma.com/products/elderberry-elixir-bold-berry-herbal-tea-caffeine-free): Bold hibiscus and elderberry meet bright raspberry and citrus in this ruby-red herbal tea. Tart, juicy, and caffeine-free—perfect hot or over ice.
-  Updated: 2026-04-19T05:22:17Z
+  Updated: 2026-04-25T16:05:46Z
   Vendor: Java Momma
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/elderberryelixirhero.jpg?v=1772164609
   Price: $7.99 USD
 - [American Picnic Spread | Bramble & Blossom](https://javamomma.com/products/american-picnic-spread-bramble-blossom): A bright, slow-cooked blend of strawberries, blueberries, and raspberries. American Picnic Spread is your easy upgrade for toast, yogurt, and simple desserts.
-  Updated: 2026-04-04T23:52:19Z
+  Updated: 2026-04-22T02:21:27Z
   Vendor: Bramble & Blossom
   Product Type: Pantry
   Availability: Available
@@ -5037,21 +4998,21 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/march_mug_lifestyle.jpg?v=1772332319
   Price: $14.99 USD
 - [Collagen Peptides (Grass-Fed Bovine)](https://javamomma.com/products/collagen-peptides-grass-fed-bovine): Pure, grass-fed bovine collagen peptides. Unflavored, 9.1g protein per serving, and dissolves instantly. The perfect "no-nonsense" boost for your coffee.
-  Updated: 2026-04-19T04:17:07Z
+  Updated: 2026-04-26T15:14:25Z
   Vendor: Java Momma
   Product Type: Pantry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/collagen_peptides_mockup.jpg?v=1773184129
   Price: $14.99 USD
 - [Give Yourself Time to Bloom – 11oz Ceramic Mug](https://javamomma.com/products/give-yourself-time-to-bloom-11oz-ceramic-mug): A sturdy 11oz ceramic mug featuring a "Give Yourself Time to Bloom" floral design. Microwave/dishwasher safe. The perfect gift for growth without the hustle.
-  Updated: 2026-04-18T03:37:07Z
+  Updated: 2026-04-21T07:50:46Z
   Vendor: Java Momma
   Product Type: Pot Shop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/giveyourselftimemughero.jpg?v=1773204950
   Price: $12.99 USD
 - [Live Simply, Bloom Wildly Mug | 11 oz Ceramic | Java Momma](https://javamomma.com/products/live-simply-bloom-wildly-11oz-ceramic-mug): An 11 oz white ceramic coffee mug with watercolor botanicals and the reminder you actually needed today. Dishwasher safe.
-  Updated: 2026-04-13T20:14:27Z
+  Updated: 2026-04-24T01:50:27Z
   Vendor: Java Momma
   Product Type: Pot Shop
   Availability: Available
@@ -5065,28 +5026,28 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/peonygrovehero.jpg?v=1773638070
   Price: $7.99 USD
 - [Caramel Espresso Seasoning](https://javamomma.com/products/caramel-espresso-seasoning): Indulge in Caramel Espresso Seasoning—perfect for coffee, desserts, breakfast, and more. Vegan, all-natural, and totally irresistible.
-  Updated: 2026-04-17T14:36:26Z
+  Updated: 2026-04-25T23:19:56Z
   Vendor: Java Momma
   Product Type: Spice
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/caramel_espresso_seasoning_hero.jpg?v=1773809211
   Price: $7.99 USD
 - [Thai Chai Cold Brew Pods](https://javamomma.com/products/thai-chai-cold-brew-pods): Chai met coconut and lemongrass and never looked back. Thai Chai cold brew bags make one quart of spiced iced tea overnight. Add coconut milk. Done.
-  Updated: 2026-04-18T15:52:26Z
+  Updated: 2026-04-23T01:28:46Z
   Vendor: Java Momma
   Product Type: Cold Brew Pods
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/thai_chai_corrected.png?v=1775003594
   Price: $8.99 USD
 - [Apple Chai | Java Momma](https://javamomma.com/products/apple-chai-year-round-obsession): Chai with a plot twist. Apple Chai is warm spice, juicy apple, and bold black tea. High caffeine, big flavor. Steep at 212° for 5 minutes. Year-round obsession.
-  Updated: 2026-04-16T17:11:57Z
+  Updated: 2026-04-25T12:48:38Z
   Vendor: Java Momma
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/apple_chai_bag_hero.jpg?v=1774848241
   Price: $7.99 USD
 - [Café Window Medium Roast Coffee | Java Momma April Picks](https://javamomma.com/products/cafe-window-medium-roast-flavored-coffee): Toasted sweetness and warm caramel notes — Café Window is the cup that makes you put your phone down. Medium roast, fresh roasted to order. Bag or K-Cup available.
-  Updated: 2026-04-19T18:12:26Z
+  Updated: 2026-04-26T20:03:57Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -5124,7 +5085,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/cafewindowkcups.jpg?v=1774663012
     Price: $19.99 USD
 - [Market Morning Medium Roast Coffee | Java Momma April Picks](https://javamomma.com/products/market-morning-medium-roast-flavored-coffee): Pecan warmth, cinnamon spice, and a caramel finish that tastes like a good Saturday. Market Morning medium roast — fresh roasted to order, bag and K-Cup available.
-  Updated: 2026-04-19T00:42:17Z
+  Updated: 2026-04-26T15:25:06Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -5169,21 +5130,21 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/daynightduo.png?v=1775093317
   Price: $25.00 USD
 - [Vanilla Chaga Chai Latte | Java Momma](https://javamomma.com/products/vanilla-chaga-chai-latte): Chai, cacao, and a mushroom blend that earns its place in the cup. Smooth, lightly caffeinated, and cozy enough to actually sit down with. No wellness lecture included.
-  Updated: 2026-04-16T18:29:27Z
+  Updated: 2026-04-24T00:12:28Z
   Vendor: Java Momma
   Product Type: Drink Mix
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/vanillachagachailattehero.jpg?v=1775120207
   Price: $15.99 USD
 - [Masala Chai Cacao Latte | Java Momma](https://javamomma.com/products/masala-chai-cacao-latte): Bold masala chai spices, rich cacao, and a mushroom blend that earns its place. Hot, iced, or blended — lightly caffeinated and actually warming.
-  Updated: 2026-04-18T20:38:07Z
+  Updated: 2026-04-26T02:40:46Z
   Vendor: Java Momma
   Product Type: Drink Mix
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/masalachaicacaolattehero.jpg?v=1775122345
   Price: $15.99 USD
 - [Cold Brew Variety Pack | Java Momma](https://javamomma.com/products/cold-brew-variety-pack): Four cold brew pods, one box. Banana Cream Pie, Chocolate Summer, Jawesome & Stand Tall — air-roasted to order. Steep overnight, done.
-  Updated: 2026-04-19T15:31:09Z
+  Updated: 2026-04-26T23:04:47Z
   Vendor: Java Momma
   Product Type: Cold Brew Pods
   Availability: Available
@@ -5197,7 +5158,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/coconutcloudherobag.jpg?v=1775438745
   Price: $7.99 USD
 - [Late Checkout Medium Roast Coffee | Java Momma April Picks](https://javamomma.com/products/late-check-out): Sweet cream warmth and a smooth finish made for slow mornings. Late Checkout medium roast coffee from Java Momma — fresh roasted to order, available in bag or K-Cup.
-  Updated: 2026-04-18T22:02:37Z
+  Updated: 2026-04-26T15:25:06Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
@@ -5235,128 +5196,185 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/latecheckoutkcup.jpg?v=1774661213
     Price: $19.99 USD
 - [The Greatest Hits Single-Serve Variety Pack | Java Momma](https://javamomma.com/products/the-greatest-hits-pod-variety-box): 12 pods, 4 flavors, 3 of each — Highlander Grogg, Breakfast Blend, Sea Salt Caramel Mocha, and Amaretto. Air-roasted to order.
-  Updated: 2026-04-19T21:28:47Z
+  Updated: 2026-04-26T22:55:16Z
   Vendor: Java Momma
   Product Type: Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/greatesthitshero.jpg?v=1776052700
   Price: $17.99 USD
+- [Roast Those Veggies Seasoning Blend | Sheet Pan Spice Mix](https://javamomma.com/products/roast-those-veggies-seasoning): A smoky, slightly sweet seasoning blend with guajillo and molasses that gets you 
+crispy caramelized edges every time. Works on vegetables, chicken, pasta, and more.
+  Updated: 2026-04-26T21:54:06Z
+  Vendor: Java Momma
+  Product Type: Spice
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/roastthoseveggiesherobottle.jpg?v=1776663990
+  Price: $7.99 USD
+- [Street Corn Blend — Smoky Elote Seasoning for Corn, Veggies & More](https://javamomma.com/products/mexican-street-corn-seasoning-blend): All the smoky, tangy, slightly sweet flavor of street corn in one easy shake. Works on corn, chicken, roasted vegetables, potatoes, and popcorn.
+  Updated: 2026-04-25T23:19:56Z
+  Vendor: Java Momma
+  Product Type: Spice
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/streetcornblendherobottle.jpg?v=1776670068
+  Price: $7.99 USD
+- [Churro Popcorn | Simply Delightful](https://javamomma.com/products/churro-popcorn-simply-delightful-snacks): Michigan-grown popcorn coated in cinnamon and sugar. Hand-crafted in small batches by Simply Delightful. 8 oz. Made for your coffee break.
+  Updated: 2026-04-24T12:45:33Z
+  Vendor: Simply Delightful
+  Product Type: Pantry
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/churropopcornsimplydelightful.jpg?v=1776672826
+  Price: $5.99 USD
+- [Cheesy Bacon Corn | Simply Delightful](https://javamomma.com/products/cheesy-bacon-corn-simply-delightful-snacks): Smoky bacon and cheddar cheese popcorn made with Michigan-grown corn. Hand-crafted in small batches by Simply Delightful. 3 oz snack size.
+  Updated: 2026-04-26T22:18:25Z
+  Vendor: Simply Delightful
+  Product Type: Pantry
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/97cdfc_1028bf2df758421097d6a168d45a6949_mv2.jpg?v=1776673317
+  Price: $5.99 USD
+- [Parenting Style: Survivalist – 11oz Ceramic Mug](https://javamomma.com/products/parenting-style-survivalist-mug): 11 oz ceramic mug for the parent running entirely on coffee and determination. "Parenting Style: Survivalist." Lime green handle. Dishwasher safe.
+  Updated: 2026-04-25T12:48:37Z
+  Vendor: Java Momma
+  Product Type: Pot Shop
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/survivalistmuglifestylehero.png?v=1776689448
+  Price: $12.99 USD
+- [Motherhood Mug: A story about coffee going cold. – 11oz Ceramic Mug](https://javamomma.com/products/motherhood-mug): 11 oz ceramic mug with lime green handle. "Motherhood — A story about coffee going cold." Because she's reheated it three times already.
+  Updated: 2026-04-26T20:52:26Z
+  Vendor: Java Momma
+  Product Type: Pot Shop
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/motherhoodmuglifestylehero.jpg?v=1776689448
+  Price: $12.99 USD
+- [Pour Decisions — The Mother's Day Bundle](https://javamomma.com/products/pour-decisions-the-mothers-day-bundle): Pick a mug. Pick a coffee or tea. Add a treat. Get 15% off automatically. The Mother's Day bundle that took real thought — even if it only took four minutes.
+  Updated: 2026-04-21T10:44:27Z
+  Vendor: Bundle
+  Product Type: Bundle
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/mother_s_day_bundle_cover.jpg?v=1776689448
+  Price: $0.00 USD
+- [Fig & Honey Tea | Java Momma | Caffeine-Free Herbal Blend](https://javamomma.com/products/fig-honey-tea): Jammy fig, honeybush, hibiscus, and a whisper of cinnamon. A caffeine-free herbal blend that tastes like something actually happened in the cup. Hot, iced, or cold brew.
+  Updated: 2026-04-26T10:48:55Z
+  Vendor: Java Momma
+  Product Type: Tea
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0589/1640/5315/files/fig_honeyteahero.jpg?v=1776846630
+  Price: $7.99 USD
 
 ## Collections
 
 - [Flavored Coffee Beans | Fresh Roasted to Order | Java Momma](https://javamomma.com/collections/flavored-coffee): Flavored coffee that actually tastes like coffee. No sugar, no junk — just air roasted Arabica beans with real flavor. 50+ options, fresh roasted when you order.
-  Updated: 2026-04-19T11:22:55Z
-  Total Products: 230
+  Updated: 2026-04-26T11:20:35Z
+  Total Products: 233
 - [Decaf Coffee | Flavored & Chemical-Free | Java Momma](https://javamomma.com/collections/decaffeinated): Decaf coffee that actually tastes like coffee. Air roasted, Mountain Water Process, no chemicals. Flavored and single-origin options — fresh roasted to order.
-  Updated: 2026-04-19T11:22:55Z
-  Total Products: 224
+  Updated: 2026-04-26T11:20:35Z
+  Total Products: 226
 - [Single Origin](https://javamomma.com/collections/single-origin): Explore the unique taste of place with our Single Origin coffees, sourced from the finest coffee-growing regions around the world. Each selection is air-roasted to highlight its distinctive flavor profile, offering a pure, unblended experience that reflects the soil, climate, and altitude of its origin. Savor the singular qualities and rich, authentic flavors that make each of these coffees a true representation of their native lands.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:36Z
   Total Products: 52
 - [Dark Roast - Tall, dark, and strong](https://javamomma.com/collections/dark-roast): For those who think "mild" is a dirty word. Our Dark Roasts are bold and intense, but because we air-roast, they are never charred or ashy. You get that deep, heavy body and rich flavor profile without the burnt aftertaste. Perfect for espresso lovers or anyone who needs a serious kickstart. The Vibe: "Don't talk to me until I've finished this cup."
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:36Z
   Total Products: 22
 - [Medium Roast](https://javamomma.com/collections/medium-roast): Explore the balanced and smooth flavors of our Medium Roast Coffee, perfectly roasted to highlight its unique character and subtle complexities. Each bean is carefully selected and roasted to a precise medium level, which brings out a rich, aromatic flavor profile with hints of sweetness and just the right amount of acidity. Ideal for coffee lovers who appreciate a well-rounded cup, our Medium Roast offers a delightful taste experience that’s both invigorating and comforting.
-  Updated: 2026-04-19T11:22:55Z
-  Total Products: 250
+  Updated: 2026-04-26T11:20:36Z
+  Total Products: 252
 - [Coffee Pods | Single-Serve | Air Roasted | Java Momma](https://javamomma.com/collections/single-serve-cups): Better coffee pods for your Keurig. Air roasted, fresh roasted to order — flavored and single-origin options compatible with Keurig 1.0 & 2.0. Skip the grocery aisle.
-  Updated: 2026-04-19T11:22:55Z
-  Total Products: 278
+  Updated: 2026-04-26T11:20:36Z
+  Total Products: 280
 - [Unflavored Coffee](https://javamomma.com/collections/unflavored): Java Momma’s Unflavored Coffee — 100% Arabica beans roasted to perfection with no added flavors. Enjoy single origins and blends from Colombia, Guatemala, and more, fresh to your cup.
-  Updated: 2026-04-19T11:22:55Z
-  Total Products: 64
+  Updated: 2026-04-26T11:20:36Z
+  Total Products: 63
 - [Tea](https://javamomma.com/collections/tea): When coffee isn’t the mood. Our Tea collection is made for slower moments and gentler sips. From classic black and green teas to herbal blends and chai, these are easy-to-love teas you can enjoy any time of day. Comforting, flavorful, and thoughtfully chosen — no overthinking required.
-  Updated: 2026-04-19T11:22:55Z
-  Total Products: 135
+  Updated: 2026-04-26T11:20:35Z
+  Total Products: 136
 - [Traditional Coffee Roasts | Breakfast Blends & Single Origin](https://javamomma.com/collections/mixed-roast): Premium air-roasted coffee. Shop our smooth Breakfast Blends, Medium Roasts, and Single Origin coffees. Never bitter, always fresh.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:35Z
   Total Products: 15
 - [Cold Brew Coffee Pods – No Machine, No Mess, Just Bold Flavor](https://javamomma.com/collections/cold-brew-pods): ☕ Cold Brew That Hits Different Smooth. Strong. Zero bitterness.Java Momma Cold Brew is the easiest way to chill your caffeine game—and save a lot of money while you’re at it. 💸 Brew Once, Save All Week – One bag = a full pitcher of bold cold brew ✋ No Fancy Equipment Needed – Just water, time, and a fridge 😋 Barista-Level Flavor – Smooth, never bitter, and available in your favorite blends 🥵 Made for Hot Messes – Literally… it’s too hot for hot coffee Pick your flavor. Brew like a boss.Everything here makes at least a full pitcher—perfect for long days, short tempers, and iced coffee emergencies. New to cold brew? Start with our Jawesome or explore Cold Brew Tea Pods. Want pure coffee? Try Unflavored.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:35Z
   Total Products: 21
 - [The Makers' Market | Small Batch, Handmade & Artisan Goods](https://javamomma.com/collections/shop-small): Discover unique handmade goods and small batch gifts in The Makers' Market. Curated artisan products from small businesses and makers we love.
-  Updated: 2026-04-19T23:27:54Z
-  Total Products: 408
+  Updated: 2026-04-27T01:07:56Z
+  Total Products: 410
 - [Cocoas](https://javamomma.com/collections/cocoas): Simple comfort. Pure chocolate. Our cocoa mixes are made for warm mugs and slow moments. Rich, creamy, and easy to enjoy — these are hot chocolates that feel comforting without being overcomplicated. No coffee here, just smooth, chocolatey goodness you can share, savor, or keep all to yourself.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-27T03:27:32Z
   Total Products: 32
 - [Mocha & Latte Mixes – Instant Coffee Treats](https://javamomma.com/collections/mocha-and-latte-mixes): Cozy up with our delicious lineup of instant mocha and latte mixes—no barista (or espresso machine) required.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:36Z
   Total Products: 25
 - [Pot Shop](https://javamomma.com/collections/pot-shop): Step up your brewing game with our curated selection of coffee and tea accessories in the Pot Shop. From stylish coffee mugs that make every sip a pleasure to advanced brewing equipment designed to extract the perfect flavor, we have everything you need to enhance your coffee and tea experience. Whether you're a brewing novice or a seasoned aficionado, find all the essentials to brew, serve, and enjoy your favorite beverages.
-  Updated: 2026-04-19T11:22:55Z
-  Total Products: 237
+  Updated: 2026-04-26T11:20:35Z
+  Total Products: 239
 - [Tea Lattes](https://javamomma.com/collections/tea-lattes): Discover the exotic and soothing world of our Tea Lattes, featuring beloved favorites like chai and matcha. These tea-based premixes are expertly blended for both hot and cold preparations, offering you a versatile, easy-to-make latte experience. Whether you're in the mood for the spicy warmth of chai or the earthy freshness of matcha, our Tea Lattes provide a delightful escape into the world of flavored tea beverages.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:35Z
   Total Products: 7
 - [Spice Rack](https://javamomma.com/collections/spice-rack): Spice up your culinary adventures with our Momma's Spice Rack, a treasure trove of aromatic spices and creative blends designed to enhance any dish or beverage. From exotic coffee-enhancing sprinkles to rich spice blends, each item is carefully selected to bring flavor, warmth, and excitement to your kitchen. Whether you're looking to elevate your morning coffee or add a dash of spice to your cooking, our range offers the perfect pinch of zest to stir your senses and enrich your recipes.
-  Updated: 2026-04-19T11:22:55Z
-  Total Products: 44
+  Updated: 2026-04-26T11:20:36Z
+  Total Products: 46
 - [Light Roast Coffee](https://javamomma.com/collections/light-roast): Discover Java Momma’s light roast coffee — bright, smooth, and full of flavor. Small-batch roasted Arabica beans for a crisp, aromatic cup.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-23T11:22:06Z
   Total Products: 4
 - [Momma's Munchies](https://javamomma.com/collections/mommas-munchies): Dive into our scrumptious collection of freeze-dried treats, featuring everything from melt-in-your-mouth candies to cookies and cakes that crunch like never before. Specially crafted for the sweet tooth adventurer, Momma's Munchies offers a delightful twist on your favorite snacks. Each bite is a burst of intensified flavor and a satisfying snap that will leave you craving more. Perfect for snacking, sharing, or gifting, our freeze-dried goodies retain all the original taste with a fun, crispy texture. Shop now and experience the unique, irresistible charm of freeze-dried treats—because at Momma's Munchies, we believe that the best moments in life are sweet!
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-27T01:07:56Z
   Total Products: 69
 - [Coffee Collection - Java Momma](https://javamomma.com/collections/coffee): Eco-friendly coffee roasted with solar power—Arabica blends & seasonal flavors that are sugar-free, gluten-free & allergen-friendly.
-  Updated: 2026-04-19T11:22:55Z
-  Total Products: 319
+  Updated: 2026-04-26T11:20:36Z
+  Total Products: 321
 - [Drink Mixes](https://javamomma.com/collections/drink-mixes): Comfort, made easy. Our drink mixes are made for cozy moments — from rich hot chocolate and creamy lattes to indulgent mochas that feel like a treat without the fuss. Just add milk or water and enjoy something warm, familiar, and satisfying. Available in single-serve packets or larger bags, these mixes fit right into real life — slow mornings, afternoon breaks, or winding down at the end of the day.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-27T03:27:32Z
   Total Products: 53
 - [Cold Brew Tea Pods](https://javamomma.com/collections/cold-brew-tea-pods): Refresh, rejuvenate, and relax with our Cold Brew Tea Pods, your new go-to for effortless iced tea. Each pre-packed pod is a ticket to a perfect 32-ounce pitcher of blissfully chilled tea, made just for you. Whether you’re lounging at home or need a cooling companion on the go, these pods make iced tea preparation a breeze—just steep, chill, and enjoy! Java Momma’s collection spans a variety of flavors, from classic black and green teas to exotic fruit-infused blends. Each pod is crafted to unlock full, robust flavors that refresh and satisfy with every sip. Perfect for hot days, impromptu gatherings, or a daily dose of delicious hydration, our tea pods are designed to deliver a premium iced tea experience without the fuss. Dive into the simplicity of flavor-packed, cold-brewed delight. Shop our Cold Brew Tea Pods today and turn any occasion into a refreshing celebration—because with Java Momma, it’s always tea time!
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:35Z
   Total Products: 18
 - [Syrups & Flavorings](https://javamomma.com/collections/syrups-flavorings): Elevate your coffee and tea experience with Java Momma's exclusive Syrups and Flavorings Collection. Crafted for the discerning palate, our collection offers a variety of premium syrups and flavorings that promise to transform your everyday beverage into a gourmet delight.
   Updated: 2026-04-01T11:21:22Z
   Total Products: 94
 - [Discounted Boxes & Sets](https://javamomma.com/collections/discounted-boxes-sets): These items are already heavily discounted and do not qualify for any further discounts.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:35Z
   Total Products: 23
 - [Monthly Theme Boxes](https://javamomma.com/collections/monthly-theme-boxes): Monthly Theme Boxes by Java Momma Explore the delightful world of Java Momma with our exclusive Monthly Theme Boxes. Tailored to suit every type of beverage lover, our subscription boxes come in a variety of selections designed to elevate your daily ritual. Picks Box: Perfect for coffee lovers, the Picks Box features a curated selection of our finest coffee blends. Each month, discover new flavors and roasts that promise to invigorate your mornings and fuel your days. Whether you're gifting or indulging for yourself, our Monthly Theme Boxes are designed to surprise and delight. Subscribe today and treat yourself to a monthly box of joy, flavor, and discovery—because every day deserves a touch of Java Momma magic.
-  Updated: 2026-04-19T11:22:51Z
+  Updated: 2026-04-26T11:20:36Z
   Total Products: 16
 - [Barista Only](https://javamomma.com/collections/barista-only): Products only available to Baristas and Ambassadors
-  Updated: 2026-04-11T11:21:53Z
+  Updated: 2026-04-21T11:30:33Z
   Total Products: 17
 - [Roaster's Choice Kits](https://javamomma.com/collections/roasters-choice-kits): Our roasters will curate a delicious selection of our finest flavors and roasts for you to try.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:35Z
   Total Products: 5
 - [Bundles](https://javamomma.com/collections/bundles)
   Updated: 2026-04-02T01:34:06Z
   Total Products: 32
 - [All](https://javamomma.com/collections/all)
-  Updated: 2026-04-19T23:27:54Z
-  Total Products: 1601
+  Updated: 2026-04-27T03:27:32Z
+  Total Products: 1611
 - [Underground by Java Momma](https://javamomma.com/collections/underground-by-java-momma): Bold coffee. A little more attitude. Underground is the bolder side of Java Momma — made for people who like their coffee with extra personality. These blends lean darker, richer, and more unapologetic, without sacrificing the quality you expect. Same thoughtfully sourced beans. Same careful roasting.Just turned up a notch. If your coffee mood says “go big or don’t bother,” you’re in the right place. Welcome to the bold side. Welcome to Underground.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:35Z
   Total Products: 56
 - [Black Tea](https://javamomma.com/collections/black-tea)
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:36Z
   Total Products: 33
 - [White Tea](https://javamomma.com/collections/white-tea)
   Updated: 2026-04-12T11:21:01Z
   Total Products: 4
 - [Green Tea](https://javamomma.com/collections/green-tea)
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:36Z
   Total Products: 15
 - [Herbal/Tisane Tea](https://javamomma.com/collections/herbal-tisane-tea)
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:35Z
   Total Products: 37
 - [Roobios Tea](https://javamomma.com/collections/roobios-tea)
-  Updated: 2026-04-19T11:22:51Z
+  Updated: 2026-04-26T11:20:35Z
   Total Products: 6
 - [Gift Cards](https://javamomma.com/collections/gift-ideas)
-  Updated: 2026-04-14T11:21:23Z
+  Updated: 2026-04-26T11:20:35Z
   Total Products: 1
 - [New & Limited](https://javamomma.com/collections/new-limited): Here today, gone before your next cup cools. This is where the magic happens. The freshest drops, the rarest blends, and the gotta-have-it goodies you won’t find anywhere else for long. We’re talking limited-run flavors, brand-spankin’ new sips, cozy merch, and surprise favorites that vanish faster than your willpower at a dessert bar. If it’s shiny, seasonal, or just plain sassy, it lands right here first. Warning: These beans don’t wait. Neither should you.
-  Updated: 2026-04-19T11:22:55Z
-  Total Products: 652
+  Updated: 2026-04-27T01:07:56Z
+  Total Products: 660
 - [Grind Days](https://javamomma.com/collections/grind-day): It's our annual yard  GRIND DAY! Grab a bargain from our warehouse. Specials will drop from 10 am EST Monday the 17th of June!
   Updated: 2026-04-01T10:04:34Z
   Total Products: 16
 - [Bold & Unfiltered](https://javamomma.com/collections/bold-unfiltered): From cheeky mugs that speak your mind to decor that adds a punch of personality to any space, our Bold & Unfiltered collection is packed with products that are as unapologetically awesome as you are. Whether you’re looking to add some flair to your morning routine or find the perfect gift for that friend who’s always keeping it real, we’ve got you covered.
-  Updated: 2026-04-18T11:23:37Z
+  Updated: 2026-04-24T11:21:27Z
   Total Products: 33
 - [Society Exclusive](https://javamomma.com/collections/society-exclusive)
   Updated: 2026-04-01T10:04:34Z
@@ -5365,13 +5383,13 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Updated: 2026-04-01T10:04:34Z
   Total Products: 10
 - [Tea Drops](https://javamomma.com/collections/tea-drops-1)
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:36Z
   Total Products: 30
 - [Gilmore Collection](https://javamomma.com/collections/gilmore-collection)
   Updated: 2026-04-01T10:04:34Z
   Total Products: 1
 - [Fall Coffee Collection | Seasonal & Limited-Edition Fall Flavored Coffee – Java Momma](https://javamomma.com/collections/autumn-flavors): Discover Java Momma’s Fall Coffee Collection—pumpkin spice, apple crisp, caramel, maple, and more cozy seasonal flavors. Limited edition fall flavored coffees, roasted fresh for autumn vibes.
-  Updated: 2026-04-18T11:23:37Z
+  Updated: 2026-04-25T11:20:16Z
   Total Products: 117
 - [Halloween Coffee, Cocoa & Spooky Drinks | Java Momma](https://javamomma.com/collections/halloween-coffee-drinks): Sip something spooky! Shop Halloween coffee, cocoa, and teas. Frightfully fun drinks for fall nights, parties, and cozy witchy vibes. Limited time only!
   Updated: 2026-04-01T10:04:35Z
@@ -5380,8 +5398,8 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Updated: 2026-04-01T10:04:35Z
   Total Products: 0
 - [Seasonal Coffee, Tea & Cocoa Flavors | Java Momma](https://javamomma.com/collections/seasonal-flavors): Discover Java Momma’s Seasonal Flavors — limited-edition coffees, teas & cocoas inspired by every season. Fresh, festive blends here for a short time only.
-  Updated: 2026-04-18T11:23:33Z
-  Total Products: 95
+  Updated: 2026-04-25T11:20:16Z
+  Total Products: 94
 - [Vault](https://javamomma.com/collections/vault): “Unlock the Vault – Exclusive Black Friday Flavors!” Discover the coffee treasures hidden in our Vault! For Black Friday(s) weekend only, we’re releasing a rare selection of fan-favorite flavors, each available for just $12. This is your chance to experience unique, mouth-watering blends that have been locked away, waiting for their grand return. From the sweet and savory notes of Chocolate Maple Bacon to the creamy, nutty perfection of Pistachio Crème, each flavor is crafted to surprise and delight. This limited-time Vault Collection has something for every adventurous coffee lover: Chocolate Maple Bacon: Smoky bacon meets rich chocolate with a hint of maple. Salty Pretzel: Bold, smooth coffee with a salty twist. Strawberry Shortcake: Sweet strawberry and cake vibes in a cup. Chocolate Macadamia Nut: Decadent chocolate paired with creamy macadamia. Get Happy: Bright lemon with a buttery shortbread finish. Toasted Marshmallow: Sweet campfire nostalgia in a sip. Pistachio Crème: Buttery pistachios with smooth vanilla cream. Bananas Foster: Caramelized banana and brown sugar bliss. Only here from Friday to Sunday, these rare flavors won’t last long – grab yours before they’re locked away again! Each blend is keto-friendly, sugar-free, and available in Regular and Decaf. Don’t miss out on the Vault Coffee Collection – your next coffee obsession awaits!
   Updated: 2026-04-01T10:04:35Z
   Total Products: 5
@@ -5389,62 +5407,62 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Updated: 2026-04-01T10:04:35Z
   Total Products: 3
 - [Santa's Workshop](https://javamomma.com/collections/santas-workshop): 🎅✨ Welcome to Santa’s Workshop! 🎁✨ Step into the magic of the North Pole with Santa’s Workshop, your one-stop shop for the most delightful gifts and stocking stuffers! Whether you're hunting for the perfect present to wow your loved ones or just want to sprinkle some holiday cheer, we’ve got you covered. 🎄 From cozy coffee blends and decadent treats to charming little treasures, every item in this collection has been handpicked by Santa’s helpers (yes, they really know their stuff). Perfect for: 🎁 Stocking up on stocking stuffers🎁 Wowing the coffee lovers on your list🎁 Adding that extra sprinkle of joy under the tree Let us help you sleigh your holiday shopping! 🛷✨ Browse now and bring the magic of Santa’s Workshop to your home.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-27T01:07:56Z
   Total Products: 112
 - [Valentine Collection](https://javamomma.com/collections/valentine-collection): 💘 Valentine’s Collection: Love (or Not) in Every Sip! 💔 Whether you’re celebrating love or giving Cupid the side-eye, our Valentine’s Collection has you covered. From swoon-worthy teas and coffees to cheeky anti-Valentine mugs, there’s a little something for every mood. 💌 For the Lovers: Cozy up with our romantic brews and feel the warmth of true coffee and tea bliss.💔 For the Rebels: Sip your way through February with sass-filled mugs and zero obligations to love. Because no matter your vibe, everyone deserves a cup that sparks joy. ❤️☕
-  Updated: 2026-04-18T11:23:37Z
+  Updated: 2026-04-25T11:20:16Z
   Total Products: 41
 - [Mardi Gras Coffee Collection – Limited-Edition Flavors Inspired by New Orleans](https://javamomma.com/collections/mardi-gras-coffee-collection-limited-edition-flavors-inspired-by-new-orleans): Let the good times (and the coffee) roll with our Mardi Gras Coffee Collection! Inspired by the bold and indulgent flavors of New Orleans, these limited-edition coffees bring Bourbon Street magic straight to your mug. Whether you're craving the caramelized sweetness of Bananas Foster, the warm, sugar-dusted goodness of a French beignet, or the spiced praline richness of a classic King Cake, we've got your Fat Tuesday flavors covered—no parade required! ☕ Bourbon Street Bananas Foster – A decadent blend of caramelized bananas, brown sugar, and buttery rum.☕ Beignet (French Vanilla) – Smooth, creamy vanilla with the nostalgic taste of a fresh, sugar-dusted beignet.☕ Praline King Cake – Cinnamon, praline, and powdered sugar in every sip—no baking required! 🚨 Hurry—these flavors are only available for a limited time! Plus, build your own Mardi Gras Coffee Flight with 3 or more flavors and save 15% at checkout. Shop now and bring the flavor of New Orleans to your daily brew! 💜💛💚
   Updated: 2026-04-01T10:04:35Z
   Total Products: 6
 - [☘️ St. Patrick’s Day Coffee & Gifts – Sip, Savor, and Stay Lucky!](https://javamomma.com/collections/st-patrick-s-day-coffee-gifts-sip-savor-and-stay-lucky): The minty one. The Irish cream one. Your favorite St. Patrick’s Day coffees are back—seasonal and small-batch.
-  Updated: 2026-04-18T12:19:37Z
+  Updated: 2026-04-26T11:20:36Z
   Total Products: 12
 - [Easter Collection – Hoppin’ Good Coffee & Treats!](https://javamomma.com/collections/easter-collection-hoppin-good-coffee-treats): Spring is here. The candy is everywhere. You deserve better than a stale jelly bean. The Java Momma Easter Collection is your seasonal excuse to drink something fun. Think chocolatey comfort, sweet bakery vibes, and bright spring flavors — all fresh roasted to order and ready for brunch, baskets, or hiding from your relatives. • Limited-edition spring flavors• Fresh roasted & sustainably sourced• Perfect for Easter baskets and brunch tables They’re only here for the season — and they will disappear faster than a chocolate bunny’s ears. Go ahead. Make your cup the best part of Easter.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:35Z
   Total Products: 24
 - [Quick Order](https://javamomma.com/collections/quick-order)
-  Updated: 2026-04-19T23:27:54Z
-  Total Products: 1578
+  Updated: 2026-04-27T03:27:32Z
+  Total Products: 1587
 - [Cinco de Mayo Collection](https://javamomma.com/collections/cinco-de-mayo-collection): Let’s get this flavor fiesta started! 🪅 Our limited-edition Cinco de Mayo Collection is bringing all the bold, sweet, and spicy vibes to your mug and snack stash. Whether you're waking up with the cinnamon-sugar swirl of Churro Coffee, sipping creamy caramel Mexican Flan Coffee, or stirring up magic with our Mexican Cocoa, there’s a whole party in your pantry waiting to happen. 🔥 Limited quantities. Big flavor. Serious FOMO. Sip it, stir it, snack it… and celebrate the flavor of the season while it lasts!
-  Updated: 2026-04-19T11:22:55Z
-  Total Products: 12
+  Updated: 2026-04-25T11:20:16Z
+  Total Products: 14
 - [Tammy’s Daily Brews](https://javamomma.com/collections/tammy-s-daily-brews): Whether it’s a straight-up Long Black to kickstart the day or a sweet cold brew to make the afternoon bearable, these are my go-tos. Strong, simple, or a little silly—just like me. ☕💛 Shop what I’m sipping and make your own ritual.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-25T11:20:16Z
   Total Products: 6
 - [Momma's Donut Shop](https://javamomma.com/collections/mommas-donut-shop): Step into Momma’s Donut Shop, where the coffee is hot, the vibes are sweet, and every cup tastes like your favorite over-the-top bakery treat. These limited edition flavored coffees are inspired by classic donuts—think gooey fillings, sugary glazes, and nostalgic indulgence with every sip. Perfect for dessert lovers, brunch brewers, and anyone who believes coffee should be a little bit extra. ☕ Small-batch roasted🍩 Bold, playful flavors⏳ Only here for a short time More flavors coming soon—collect them all before they’re gone!
   Updated: 2026-04-01T10:04:35Z
   Total Products: 8
 - [Artisan Teas](https://javamomma.com/collections/artisan-teas): Sip something special. 💅Our Artisan Tea Range is where bold flavor meets small-batch love. Every blend is hand-crafted with premium ingredients, carefully layered to bring out notes that are floral, fruity, earthy, spicy—and everything in between. Whether you’re steeping it hot or pouring it over ice, these loose leaf beauties are here to elevate your tea game. No dusty bags, no artificial junk—just pure, delicious sippable joy. 🫖 Hand-blended in small batches🍓 Real ingredients, never fake flavors🌿 Unique blends you won’t find at the grocery store💛 Perfect for hot tea, iced tea, or tea cocktails (yes, really) Go ahead, be a tea snob. You’ve earned it.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:35Z
   Total Products: 15
 - [Cold Brew Pods – Coffee & Tea](https://javamomma.com/collections/cold-brew-pods-coffee-tea): Shop our Cold Brew Pods for smooth, refreshing coffee and tea—no machines needed. Easy to brew, bold in flavor, and perfect for chill days. Try dessert-inspired coffee or fruity iced tea blends.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:35Z
   Total Products: 45
 - [🍨 JQ Ice Cream Collection – Java Momma’s Coolest, Creamiest Coffee Drop of the Year!](https://javamomma.com/collections/🍨-jq-ice-cream-collection-java-momma-s-coolest-creamiest-coffee-drop-of-the-year): Sundae sippin’ just hit different. ☕🍦 The JQ Ice Cream Collection is BACK and bolder than ever—serving up smooth, medium roast coffees inspired by your fave frozen treats. We’re talking sprinkle cones, banana splits, mint chip dreams, and raspberry-coated nostalgia bombs. Each flavor is a sweet escape with zero sugar, no sweeteners, and alllll the indulgence. Choose your chill:🍓 Strawberry Banana Split🍌 Bananas Foster Storm🍫 Mint Chocolate Chip💗 Raspberry Silly Bar🥜 Pecan Praline🍦 Sprinkle Sundae Cone ✅ Available in Regular & Decaf✅ All grinds + Single Serve (Keurig® 1.0 & 2.0)✅ Gluten Free & Keto Friendly 🔥 Limited Release – When they’re gone, they’re GONE.Scoop up your favorites before they melt away!
   Updated: 2026-04-01T10:04:36Z
   Total Products: 1
 - [Botanical Blends – Facial Steamers](https://javamomma.com/collections/botanical-blends-facial-steamers): Breathe. Bloom. Be still.Say hello to your new favorite self-care ritual. Our Botanical Blends Facial Steamers are made with hand-selected flowers and herbs designed to soothe your skin, calm your mind, and elevate your glow—no sipping required. Each blend is crafted for facial steaming only—using tea-worthy ingredients in skin-loving ratios. Whether you’re winding down before bed or giving dull skin a boost, just add hot water and breathe in the magic. ✨ 100% botanical🚫 Not for drinking❤️ Skin-first formulas for glow and calm
-  Updated: 2026-04-12T11:21:03Z
+  Updated: 2026-04-26T11:20:35Z
   Total Products: 6
 - [Java Momma Best Sellers](https://javamomma.com/collections/java-momma-best-sellers): Our Fan-Favorite Blends These are the ones our customers reorder, rave about, and refuse to run out of. Whether you like your brew bold, sweet, smooth, or strong—these top picks have something for every mug. ☕ Available in Whole Bean, Ground, and Single Serve Cups. 🥃 Highlander Grogg – Buttery rum, roasted nuts, and warm spice. Bold and legendary.🌴 Jamaican Me Crazy® – Kahlua®, vanilla, and caramel—vacation in a mug.🍫 Sea Salt Caramel Mocha – Salty, sweet, and dangerously sip-worthy.☀️ Breakfast Blend – Bright, balanced, and ready for your third cup.🏍 Harley’s Blend – Smooth and bold with attitude. A four-bean ride-or-die. 👇 Crave-worthy, crowd-, and ready to ship.Tap a blend to start sipping.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:35Z
   Total Products: 5
 - [The Thoughtful Pantry | Better-for-You Snacks & Essentials – Java Momma](https://javamomma.com/collections/thoughtful-pantry-by-java-momma): Shop The Thoughtful Pantry: better-for-you snacks, gluten-free and sugar-free essentials, and wholesome treats chosen with care. Thoughtful eating starts here.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:36Z
   Total Products: 80
 - [Final Roastdown](https://javamomma.com/collections/final-roastdown): 🚨 Sound the alarm – this is it. The final roastdown is on and these flavors are on their last legs. We're talking limited bags, no restocks, and once they’re gone? They’re ghostin' the roaster for good. Whether you’re stocking up on a fave or finally giving that one weird flavor a try (you know the one 👀), now’s your shot. Don’t wait. Don’t hesitate. Brew it or lose it. 👉 Grab your faves before they sip into the sunset.
   Updated: 2026-04-01T10:04:36Z
   Total Products: 13
 - [Feeling Fine –  Coffee, Tea & Cocoa](https://javamomma.com/collections/feeling-fine-with-java-momma-wellness-coffee-tea-cocoa): Shop Java Momma's Feeling Fine collection – wellness coffees, teas & cocoa with functional ingredients for calm, focus & more. No fluff, just smart sips.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:36Z
   Total Products: 18
 - [Low Acid Coffee for Sensitive Stomachs | Java Momma](https://javamomma.com/collections/smooth-gentle-low-acid-coffee-java-momma): Coffee that's kind to your stomach without being boring. Air roasted for lower perceived acidity — smooth, gentle, full-flavored. Built for sensitive stomachs and acid reflux.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:36Z
   Total Products: 12
 - [Seasonal Coffee Flavors | Limited Edition Java Momma Blends](https://javamomma.com/collections/seasonal-flavors-current): Shop Java Momma’s seasonal coffee flavors — small-batch, limited-edition blends for every holiday & season. Grab your favorite before it’s gone!
-  Updated: 2026-04-18T11:23:33Z
-  Total Products: 35
+  Updated: 2026-04-25T11:20:16Z
+  Total Products: 34
 - [Past Seasonal Coffee Favorites | Java Momma Archive](https://javamomma.com/collections/past-favorites): Browse Java Momma’s Past Favorites Archive — beloved seasonal coffee and tea blends that are currently unavailable but may return in future seasons.
   Updated: 2026-04-03T01:14:28Z
   Total Products: 39
@@ -5455,115 +5473,115 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Updated: 2026-04-01T10:04:36Z
   Total Products: 32
 - [Winter Drinks for Bundles](https://javamomma.com/collections/winter-drinks-for-bundles)
-  Updated: 2026-04-19T11:22:55Z
-  Total Products: 38
+  Updated: 2026-04-26T11:20:36Z
+  Total Products: 37
 - [The Off Switch (Rest & Relax)](https://javamomma.com/collections/the-off-switch-rest-relax): Your brain has 4,000 tabs open. It’s time to close a few. These teas are your official permission to pause, unclench your jaw, and reclaim your evening. Whether you need to sleep or just stop vibrating from stress, this is your safe space.
-  Updated: 2026-04-19T11:22:55Z
-  Total Products: 9
+  Updated: 2026-04-26T11:20:35Z
+  Total Products: 10
 - [Brain Fuel (Focus & Energy)](https://javamomma.com/collections/the-off-switch-rest-relax-copy): For when you have a to-do list longer than a receipt and a brain that refuses to cooperate. These blends bring the clarity and focus you need to conquer the chaos—without the coffee jitters. Let’s get stuff done.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:36Z
   Total Products: 34
 - [Liquid Dessert (Sweet & Guilt-Free)](https://javamomma.com/collections/brain-fuel-focus-energy-copy): You deserve a treat, not a sugar crash. Satisfy that 8 PM sweet tooth with rich, creamy, and pastry-inspired blends that taste like indulgence but hydrate like water. Zero sugar. Zero guilt. 100% joy.
-  Updated: 2026-04-19T11:22:55Z
-  Total Products: 27
+  Updated: 2026-04-26T11:20:35Z
+  Total Products: 28
 - [The Bodyguard (Immunity & Wellness)](https://javamomma.com/collections/liquid-dessert-sweet-guilt-free-copy): Moms don't get sick days. But we do get tired. These functional blends are your daily defense system against germs, bloat, and general "feeling off." Drink them at the first sign of a sniffle, or just to keep the engine running smoothly.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:35Z
   Total Products: 8
 - [The Refresher (Iced & Hydration)](https://javamomma.com/collections/the-bodyguard-immunity-wellness-copy): Hydration that actually tastes like something. Whether you’re battling a hot flash, a hot summer, or just thirst, these crisp, fruity blends are designed to cool you down fast. Perfect over ice.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-25T11:20:16Z
   Total Products: 17
 - [Drink Mixes - Liquid Dessert](https://javamomma.com/collections/drink-mixes-liquid-dessert): Instant indulgence in every format. From rich cocoas and creamy mochas to sweet, dissolvable tea drops, these treats taste like a bakery but take seconds to make. No barista (or tea bag) required. Just drop, stir, and treat yourself.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:36Z
   Total Products: 24
 - [Drink Mixes - Brain Fuel](https://javamomma.com/collections/drink-mixes-liquid-dessert-copy): Fast fuel for busy brains. Whether it's a Matcha drop that dissolves instantly or an espresso-infused mocha, these blends get you moving now. Skip the brewing, skip the steeping, and get straight to the doing.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:36Z
   Total Products: 16
 - [Drink Mixes - The Refresher](https://javamomma.com/collections/drink-mixes-brain-fuel-copy): Hydration shouldn't be boring. Whether you are blending up a frozen frappe to beat the heat or watching a Tea Drop dissolve into instant magic, this collection is all about flavor with zero fuss. Perfect for when you want something sweet, fruity, and fun—no brewing required. Just drop, blend, and sip.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-27T03:27:32Z
   Total Products: 8
 - [Drink Mixes - The Bodyguard](https://javamomma.com/collections/drink-mixes-the-refresher-copy): Wellness that actually tastes good. These functional blends are packed with adaptogens and superfoods to fight brain fog and boost immunity, all hidden inside a rich, creamy treat. No grit, no 'earthy' taste—just chocolate and focus.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:35Z
   Total Products: 5
 - [Lifestyle Essentials](https://javamomma.com/collections/lifestyle-essentials): The little things that make a big difference. Self-care isn't always about spa days and bubble baths. Sometimes, it's about upgrading the boring stuff. Whether it’s dental floss that actually makes you want to floss, or a lip balm that saves you from chapped misery, these are the functional favorites we keep in our own purses. We know it might seem random to find this next to your coffee, but trust us—these are the hidden gems that upgrade your daily grind from "survival mode" to "thriving." What you'll find here: Daily Upgrades: Premium personal care items that work better than the drugstore versions. Wellness Extras: Little tools to help you feel your best. Momma’s Stash: The random-but-amazing things we personally use and love.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:36Z
   Total Products: 11
 - [Brewing Tools](https://javamomma.com/collections/brewing-tools): The right tools for the job (no barista certification required). Great coffee isn't about having the most expensive machine on the counter; it's about having the right simple tools in your drawer. Whether you are a "press and pour" French Press loyalist, a Cold Brew devotee, or just someone looking for a filter that doesn't fall apart, this collection is your hardware store. We stock the kitchen workhorses that stand between you and your morning sanity. Shop by Category: The Brewers: French Presses, Cold Brew Makers, and Infusers designed for real life (and easy cleaning). The Essentials: High-quality filters and precise scoops to make sure every cup tastes exactly like the last one. The Gadgets: Frothers, whisks, and accessories to level up your "Home Café" game. Not sure what you need? Start with a classic French Press easiest way to look like a pro with zero effort.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-25T11:20:16Z
   Total Products: 13
 - [Tea Drop](https://javamomma.com/collections/tea-drops)
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:36Z
   Total Products: 24
 - [Sip in Style](https://javamomma.com/collections/sip-in-style): The only accessory you wear every day. Let's be real: your coffee cup is your emotional support object. It goes where you go. It signals to the world whether you are "Ready to Chat" or "Currently buffering." Whether you need a heavy ceramic mug for cozy couch moments or a double-walled tumbler to survive the school drop-off line (and keep your coffee hot for more than 5 minutes), your vessel should match your vibe. Stop drinking out of that chipped  mug from 2012. You deserve better. Find Your Perfect Vessel: The Couch Companion: Classic ceramic mugs perfect for slow mornings and two-handed sipping. The Road Warrior: Insulated tumblers and travel cups designed to keep your fuel hot (or your iced coffee freezing) while you conquer the errand run. The Statement Piece: Mugs with sass, quotes, and designs that do the talking so you don't have to. Pro Tip: A cute mug makes the coffee taste 15% better. We don't make the rules, science does.
-  Updated: 2026-04-19T11:22:51Z
+  Updated: 2026-04-24T11:21:27Z
   Total Products: 13
 - [Chocolate Flavored Coffee | Mochas, Fudge & Mudslides](https://javamomma.com/collections/chocolate-fudge-cheaper-than-therapy-lower-calorie-than-a-candy-bar): Indulge in rich chocolate flavored coffees. Sugar-free and calorie-free flavors including Chocolate Praline, Mudslide, and Dark Chocolate.
-  Updated: 2026-04-19T11:22:51Z
-  Total Products: 20
+  Updated: 2026-04-26T11:20:35Z
+  Total Products: 21
 - [Bakery & Caramel Flavored Coffee | Cinnamon Roll, Cookie & Vanilla](https://javamomma.com/collections/bakery-sweets-your-favorite-bakery-brewed-in-a-mug): Sweet and buttery coffee flavors inspired by your favorite treats. Shop Cinnamon Roll, Salted Caramel, Vanilla, and Cookie flavored coffees.
-  Updated: 2026-04-19T11:22:55Z
-  Total Products: 42
+  Updated: 2026-04-26T11:20:35Z
+  Total Products: 45
 - [Nutty Flavored Coffee | Hazelnut, Pecan, Toffee & Amaretto](https://javamomma.com/collections/nutty-cozy-like-a-warm-hug-in-a-mug): Rich and nutty coffee blends. Explore Southern Pecan, Hazelnut, and English Toffee flavored coffees for a cozy, comforting brew.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:35Z
   Total Products: 25
 - [Fruit Flavored Coffee | Blueberry, Coconut, Raspberry & Citrus](https://javamomma.com/collections/fruit-berry-unexpectedly-delicious): Bright and fruity coffee blends. Discover our famous Blueberry Cobbler, Coconut, and fruit-infused coffees that taste like summer.
-  Updated: 2026-04-19T11:22:55Z
-  Total Products: 11
+  Updated: 2026-04-26T11:20:35Z
+  Total Products: 12
 - [Spiced & Seasonal Coffee | Pumpkin Spice, Cinnamon & Ginger](https://javamomma.com/collections/spice-seasonal-sugar-spice-and-everything-nice): Warm up with spiced coffee blends. From Pumpkin Spice to Cinnamon and Holiday favorites, enjoy the taste of the season anytime.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:35Z
   Total Products: 9
 - [Coffee Flavored Coffee | Unflavored Single Origin & Blends](https://javamomma.com/collections/coffee-flavored-coffee): No syrups. No sprinkles. No nonsense. Shop premium air-roasted unflavored coffee. From Single Origins to Breakfast Blends, it's just good coffee.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:36Z
   Total Products: 40
 - [Roasts & Blends (The Traditional List) - Just. Good. Coffee.](https://javamomma.com/collections/roasts-blends-the-traditional-list-just-good-coffee): No flavors, no fuss. Just premium beans, air-roasted to perfection so they are never bitter or burnt. Whether you like a bright Breakfast Blend to start your day or a smooth Medium Roast to keep you going, these are the reliable classics that prove you don't need fancy syrups to make a great cup. The Vibe: The reliable workhorse of your morning routine.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:36Z
   Total Products: 32
 - [Brain Fuel | High Caffeine Coffee & Breakfast Blends](https://javamomma.com/collections/brain-fuel-coffee-edition-high-voltage-for-high-demands): Wake up fast with our high-energy coffee collection. Shop Light Roasts and Breakfast Blends designed to give you maximum caffeine without the jitters.
-  Updated: 2026-04-19T11:22:55Z
-  Total Products: 41
+  Updated: 2026-04-26T11:20:36Z
+  Total Products: 42
 - [The Off Switch | Mountain Water Decaf Coffee](https://javamomma.com/collections/the-off-switch-coffee-edition-all-the-flavor-none-of-the-ceiling-staring): Enjoy premium coffee day or night with our Mountain Water Process Decaf. Chemical-free, full-flavored decaffeinated coffee that won't keep you awake.
-  Updated: 2026-04-19T11:22:55Z
-  Total Products: 60
+  Updated: 2026-04-26T11:20:35Z
+  Total Products: 62
 - [Liquid Dessert | Flavored Coffee Beans & Grounds](https://javamomma.com/collections/liquid-dessert-coffee-edition-guilt-free-indulgence): Satisfy your sweet tooth with our sugar-free flavored coffees. Shop chocolate, caramel, and bakery-inspired coffee blends that taste like dessert.
-  Updated: 2026-04-19T11:22:55Z
-  Total Products: 63
+  Updated: 2026-04-26T11:20:35Z
+  Total Products: 66
 - [The Bodyguard | Low Acid & Mushroom Coffee](https://javamomma.com/collections/the-bodyguard-coffee-edition-gentle-functional-and-stomach-friendly): Stomach-friendly coffee for sensitive digestion. Shop low acid, air-roasted coffee and functional mushroom blends designed to be gentle on your body.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:36Z
   Total Products: 15
 - [Merchandise & Totes](https://javamomma.com/collections/merchandise-totes)
   Updated: 2026-04-19T11:22:55Z
   Total Products: 4
 - [Morning Staples](https://javamomma.com/collections/morning-staples): Because you can't survive on coffee alone (even if it's ours). This is the good stuff for your morning toast, your oatmeal, or the days you just decide to eat cereal for dinner. Real honey, artisan fruit spreads, and the pantry basics that make waking up slightly less terrible.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:36Z
   Total Products: 51
 - [The Sweet Stash](https://javamomma.com/collections/the-sweet-stash): The 3 PM crash is real, and so is the need for a quiet, post-dinner treat. These are the artisan chocolates, soft-baked cookies, and rich caramels you hide on the top shelf so you don't have to share. Permission to indulge, granted.
-  Updated: 2026-04-19T23:27:54Z
-  Total Products: 136
+  Updated: 2026-04-27T01:07:56Z
+  Total Products: 137
 - [The Dinner Fix](https://javamomma.com/collections/the-dinner-fix): The answer to the most dreaded question of the day. When it’s 5:30 PM and you are staring blankly into the fridge, these artisan sauces, meal starters, and heavy-hitting spice blends are your panic button. Open a jar, toss it in a pan, and save the night.
-  Updated: 2026-04-19T11:22:55Z
-  Total Products: 15
+  Updated: 2026-04-26T11:20:35Z
+  Total Products: 17
 - [Salty & Savory](https://javamomma.com/collections/salty-savory): For movie nights, road trips, or that moment when you just need salt immediately. Ditch the boring grocery store bags for artisan jerky, crunchy pretzels, and savory snacks that actually bring the flavor. The ultimate survival gear for your next binge-watch.
-  Updated: 2026-04-19T11:22:55Z
-  Total Products: 26
+  Updated: 2026-04-26T11:20:36Z
+  Total Products: 27
 - [Spices & Rubs](https://javamomma.com/collections/spices-rubs): We aren't here to teach you how to be a chef. We're here to help you fake it. These are your 'dump-and-done' heroes—packed with real ingredients and zero cheap salt fillers. Shake them on boring chicken, roast potatoes, or mix into a dip, and accept the compliments.
-  Updated: 2026-04-19T11:22:55Z
-  Total Products: 13
-- [What's for Dinner? (The 5 PM Rescue)](https://javamomma.com/collections/whats-for-dinner-the-5-pm-rescue): The answer to the most dreaded question of the day. When it’s 5:30 PM and you are staring blankly into the fridge, these artisan sauces, meal starters, and heavy-hitting spice blends are your panic button. Open a jar, toss it in a pan, and save the night.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:35Z
   Total Products: 15
+- [What's for Dinner? (The 5 PM Rescue)](https://javamomma.com/collections/whats-for-dinner-the-5-pm-rescue): The answer to the most dreaded question of the day. When it’s 5:30 PM and you are staring blankly into the fridge, these artisan sauces, meal starters, and heavy-hitting spice blends are your panic button. Open a jar, toss it in a pan, and save the night.
+  Updated: 2026-04-26T11:20:35Z
+  Total Products: 17
 - [The Creative Spark (Baking & Sugars)](https://javamomma.com/collections/the-creative-spark-baking-sugars): The 'Pantry Barista' secret weapons. Whether you’re rimming a latte mug with infused sugar, adding food-grade lavender to your lemonade, or upgrading a batch of cookies, these are the little touches that turn a basic Tuesday into an event. The easiest way to look fancy with zero effort.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:36Z
   Total Products: 12
 - [Smart Snacks](https://javamomma.com/collections/smart-snacks): Satisfy your cravings without the crash. Shop Java Momma's Smart Snacks for better-for-you artisan treats, nut butters, and clean-ingredient pantry staples.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:36Z
   Total Products: 35
 - [Feeling Fine](https://javamomma.com/collections/feeling-fine): The Liquid Bodyguards Not superheroes. Just solid backup. From earthy mushroom coffees to simple daily add-ins and easy teas, these are the options people reach for when they want their cup to feel a little more grounded. Still coffee. Still tea. Still you.Just layered differently.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:36Z
   Total Products: 21
 - [The Apothecary (Self-Care & Home)](https://javamomma.com/collections/the-apothecary-self-care-home): Because surviving the week requires more than just good coffee and snacks. A curated stash of our favorite small-batch personal care items and daily routines to help you take care of yourself.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-26T11:20:36Z
   Total Products: 11
 - [The Grown-Up Easter Basket](https://javamomma.com/collections/the-grown-up-easter-basket): Remember digging through your Easter basket looking for the good stuff first? Yeah. This is that — just upgraded. Welcome to the Grown-Up Easter Basket. The place where chocolate and caramel show up in your coffee. Where strawberries and cream feel slightly nostalgic. Where maple, pecan, peanut butter, and crumble flavors don’t come with foil wrappers or sugar crashes. It’s everything you loved about Easter morning — just reworked for actual adults with calendars. Some things are sweet.Some things are caffeinated.Some are both. You get to choose your favorites. No egg hunt required.
-  Updated: 2026-04-19T11:22:55Z
+  Updated: 2026-04-27T01:07:56Z
   Total Products: 31
 
 ## Blogs
@@ -6092,10 +6110,10 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Updated: 2026-02-05T02:17:11Z
     Author: Sally Valenti
     Tags: Ingredient_Spice, Kitchen Projects, Recipe_Eats, Sweet Corn Fritters, Vegetarian Summer Snacks
-  - [Mango Monsoon: A Tropical Espresso Froth with a Spicy Twist](https://javamomma.com/blogs/blog/mango-monsoon-a-tropical-espresso-froth-with-a-spicy-twist): <p><meta charset="utf-8">Looking for a coffee recipe that feels like a mini vacation? The <strong data-start="444" data-end="461">Mango Monsoon</strong> is your ticket to paradise in a glass. This dreamy iced espresso drink combines homemade spiced mango syrup, creamy coconut milk, and Rainforest Crunch espresso for a refreshingly bold and fruity twist. Frothed to perfection and topped with cozy spices, it’s the kind of drink that deserves its own beach umbrella.</p>
-    Updated: 2026-02-05T01:29:49Z
+  - [Mango Monsoon — Spiced Mango Iced Coffee Recipe | Java Momma](https://javamomma.com/blogs/blog/mango-monsoon-a-tropical-espresso-froth-with-a-spicy-twist): Mango Monsoon — Spiced Mango Iced Coffee Recipe | Java Momma
+    Updated: 2026-04-21T10:21:11Z
     Author: Sally Valenti
-    Tags: Format_Iced, iced latte, Recipe_Sips, spiced mango, Tropical Latte
+    Tags: coconut milk iced coffee recipe, Format_Iced, iced latte, mango coffee drink at home, mango cold foam coffee, mango frappe coffee, mango iced coffee recipe, mango matcha latte recipe, Recipe_Sips, spiced mango, spiced mango coffee, spiced mango syrup for coffee, tropical iced coffee recipe, Tropical Latte
   - [Iced Spanish Latte: Sweet, Creamy, and Café Bombón-Inspired](https://javamomma.com/blogs/blog/iced-spanish-latte-sweet-creamy-and-cafe-bombon-inspired): <p><meta charset="utf-8">Craving something sweet, creamy, and coffee-forward? This <strong data-start="178" data-end="200">Iced Spanish Latte</strong> is a refreshing twist on the classic Café Bombón, layered with sweetened condensed milk, whole milk, and bold French Vanilla coffee over crushed ice. It’s a gorgeous drink that tastes like a dessert in a glass—perfect for warm afternoons or when you want to treat yourself to something extra special. Stir it up and sip slow!</p>
     Updated: 2026-04-14T08:16:25Z
     Author: Sally Valenti
@@ -6153,18 +6171,18 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Updated: 2026-02-05T01:29:49Z
     Author: Sally Valenti
     Tags: apple crisp coffee, caramel apple crisp latte, caramel apple latte, fall coffee drinks, Format_Iced, iced latte recipe, Recipe_Sips
-  - [Pumpkin Spice Latte Recipe (Pumpkin Muffin Twist)](https://javamomma.com/blogs/blog/pumpkin-spice-latte-recipe-pumpkin-muffin-twist): <p>Skip the drive-thru and bring fall home. 🎃☕ This <strong data-start="237" data-end="283">Pumpkin Spice Latte (Pumpkin Muffin Twist)</strong> is made with Java Momma’s <strong data-start="310" data-end="340">Oh My Gourd, Becky! Coffee</strong> — a pumpkin spice muffin–inspired roast with cream cheese frosting vibes. Add in a quick homemade pumpkin spice syrup, frothy milk, and a sprinkle of cinnamon for the ultimate cozy fall latte.</p>
-    Updated: 2025-10-25T19:38:50Z
+  - [Pumpkin Spice Latte Recipe (Pumpkin Muffin Twist) | Java Momma](https://javamomma.com/blogs/blog/pumpkin-spice-latte-recipe-pumpkin-muffin-twist): Pumpkin Spice Latte Recipe (Pumpkin Muffin Twist) | Java Momma
+    Updated: 2026-04-21T09:10:52Z
     Author: Tammy Rose
-    Tags: copycat Starbucks PSL, fall coffee recipes, pumpkin roll latte, pumpkin spice latte, pumpkin spice muffin latte
-  - [Keto Pumpkin Spice Latte Recipe (Sugar-Free PSL)](https://javamomma.com/blogs/blog/keto-pumpkin-spice-latte-recipe-sugar-free-psl): <p>All the cozy fall flavors, none of the sugar crash. 🎃☕ This <strong data-start="237" data-end="265">Keto Pumpkin Spice Latte</strong> is made with Java Momma’s <em data-start="292" data-end="313">Oh My Gourd, Becky!</em> coffee, real pumpkin purée, warm spices, and a sugar-free allulose syrup. It’s creamy, low-carb, and diabetic-friendly — the perfect PSL upgrade for keto lifestyles.</p>
-    Updated: 2025-08-24T09:19:15Z
+    Tags: copycat Starbucks PSL, fall coffee recipes, low-carb, pumpkin roll latte, pumpkin spice latte, pumpkin spice muffin latte
+  - [Keto Pumpkin Spice Latte (Sugar-Free PSL) | Java Momma](https://javamomma.com/blogs/blog/keto-pumpkin-spice-latte-recipe-sugar-free-psl): Keto Pumpkin Spice Latte (Sugar-Free PSL) | Java Momma
+    Updated: 2026-04-21T14:07:30Z
     Author: Tammy Rose
-    Tags: diabetic-friendly coffee recipe, keto pumpkin spice latte, low carb pumpkin spice latte, sugar-free fall drinks, sugar-free PSL
-  - [Keto Caramel Apple Latte Recipe (Sugar-Free Apple Crisp Twist)](https://javamomma.com/blogs/blog/keto-caramel-apple-latte-recipe-sugar-free-apple-crisp-twist): <p>Cozy, sweet, and sugar-free. 🍎☕ This <strong data-start="214" data-end="242">Keto Caramel Apple Latte</strong> blends Java Momma’s <em data-start="263" data-end="290">Apple Almond Crisp Coffee</em> with a homemade apple spice syrup (made with allulose), topped with rich caramel cold foam. Low-carb and diabetic-friendly, it’s the perfect way to enjoy fall dessert flavors in your mug — without the sugar crash.</p>
-    Updated: 2025-08-24T09:14:07Z
+    Tags: diabetic-friendly coffee recipe, keto pumpkin spice latte, low carb pumpkin spice latte, low-carb, sugar-free fall drinks, sugar-free PSL, without-the-compromise
+  - [Keto Caramel Apple Latte (Sugar-Free, Diabetic-Friendly) | Java Momma](https://javamomma.com/blogs/blog/keto-caramel-apple-latte-recipe-sugar-free-apple-crisp-twist): Keto Caramel Apple Latte (Sugar-Free, Diabetic-Friendly) | Java Momma
+    Updated: 2026-04-21T08:59:52Z
     Author: Tammy Rose
-    Tags: caramel apple latte sugar-free, diabetic-friendly fall drinks, fall coffee drinks, fall coffee recipes, Fall Drinks, keto caramel apple latte, keto coffee recipe, low carb coffee recipes, sugar-free apple latte, sugar-free fall drinks
+    Tags: caramel apple latte sugar-free, diabetic-friendly fall drinks, fall coffee drinks, fall coffee recipes, Fall Drinks, keto caramel apple latte, keto coffee recipe, low carb coffee recipes, low-carb, sugar-free apple latte, sugar-free fall drinks, without-the-compromise
   - [Dirty Chocolate Chai Latte Recipe](https://javamomma.com/blogs/blog/dirty-chocolate-chai-latte-recipe): <p>Bold, spiced, and a little indulgent. ☕🍫✨ Our <strong data-start="204" data-end="234">Dirty Chocolate Chai Latte</strong> takes Java Momma’s Dirty Chocolate Chai Coffee — already packed with exotic chai spices and rich chocolate notes — and layers on frothed milk, cocoa, and a swirl of sweetness. Make it hot or iced for a cozy fall sip that feels like a café treat at home.</p>
     Updated: 2025-08-24T10:29:13Z
     Author: Tammy Rose
@@ -6221,10 +6239,10 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Updated: 2025-09-04T03:41:08Z
     Author: Tammy Rose
     Tags: butter pecan affogato, butter pecan latte, fall coffee recipes, pecan coffee recipe
-  - [Pecan Cortado (Starbucks Copycat, Low-Sugar Twist)](https://javamomma.com/blogs/blog/pecan-cortado-starbucks-copycat-low-sugar-twist): <p>This <strong data-start="337" data-end="374">Pecan Cortado (Starbucks Copycat)</strong> is small but mighty — rich espresso-style <strong data-start="417" data-end="442">Buttered Pecan Coffee</strong> blended with silky steamed milk. Unlike syrup-heavy versions, this one keeps the flavor coffee-forward, with optional keto-friendly sweeteners if you like it a touch sweeter. Served in a traditional 4 oz glass, it’s a simple, nutty, and low-sugar twist on a café classic that’s perfect for fall.</p>
-    Updated: 2025-09-04T04:25:06Z
+  - [Pecan Cortado Recipe (Low-Sugar Starbucks Copycat) | Java Momma](https://javamomma.com/blogs/blog/pecan-cortado-starbucks-copycat-low-sugar-twist): Pecan Cortado Recipe (Low-Sugar Starbucks Copycat) | Java Momma
+    Updated: 2026-04-21T14:07:30Z
     Author: Tammy Rose
-    Tags: cortado coffee recipe, keto coffee recipe, low sugar cortado, pecan cortado, Starbucks cortado copycat
+    Tags: cortado coffee recipe, keto coffee recipe, low sugar cortado, low-carb, pecan cortado, Starbucks cortado copycat, without-the-compromise
   - [Apple Pie Puppy Chow (Fall Muddy Buddies Recipe)](https://javamomma.com/blogs/blog/apple-pie-puppy-chow-fall-muddy-buddies): Apple Pie Puppy Chow (Fall Muddy Buddies Recipe)
     Updated: 2026-02-05T01:50:03Z
     Author: Sally Valenti
@@ -6338,9 +6356,9 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Author: Sally Valenti
     Tags: Format_Baking, Recipe_Eats
   - [Keto Pistachio Syrup (Allulose-Based)](https://javamomma.com/blogs/blog/keto-pistachio-syrup-allulose-based): <p>This keto pistachio syrup hits all the coffee-shop notes—nutty, creamy, and sweet—without the sugar crash. Stir it into lattes or blend into frappes.</p>
-    Updated: 2026-04-13T11:15:05Z
+    Updated: 2026-04-21T14:07:30Z
     Author: Tammy Rose
-    Tags: Ingredient_Syrup, Recipe_Eats
+    Tags: Ingredient_Syrup, low-carb, Recipe_Eats, without-the-compromise
   - [Iced Pecan Crunch Oat Milk Latte (Starbucks Copycat!)](https://javamomma.com/blogs/blog/iced-pecan-crunch-oat-milk-latte-starbucks-copycat): <p>A fall-perfect copycat latte made with Java Momma Maple Pecan Blondie Coffee, sweet pecan syrup, and dreamy vanilla honey cold foam. Nutty, cozy, and totally irresistible!</p>
     Updated: 2026-02-05T01:27:27Z
     Author: Sally Valenti
@@ -6499,7 +6517,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Author: Sally Valenti
     Tags: cinnamon cortado, coffee with honey, cortado vs latte, cortado with honey, easy cortado recipe, espresso and milk drink, espresso cortado at home, homemade cortado coffee, honey cortado, honey latte, Ingredient_Coffee, Ingredient_Spice, Recipe_Sips, what is a cortado
   - [Salted Brown Butter Latte](https://javamomma.com/blogs/blog/salted-brown-butter-latte): <p>Browned butter syrup meets nutty coffee and steamed milk. Sweet, salty, and worth the extra step.</p>
-    Updated: 2026-04-13T11:04:10Z
+    Updated: 2026-04-26T01:43:49Z
     Author: Sally Valenti
     Tags: brown butter coffee syrup, homemade coffee syrup, Ingredient_Coffee, Ingredient_Syrup, rainforest crunch coffee recipe, Recipe_Sips, salted brown butter latte, sweet and salty latte
   - [Burnt Sugar Orange London Fog](https://javamomma.com/blogs/blog/burnt-sugar-orange-london-fog): <p>Caramelized oranges melt into warm milk and steep with London Haze tea for a sweet, citrusy cozy drink.</p>
@@ -6551,7 +6569,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Author: Sally Valenti
     Tags: Coffee infused bread, Easy breakfast bread without yeast, Format_Baking, Ingredient_Coffee, No yeast Irish brown bread, Recipe_Eats, Stout beer bread recipe, Whole wheat oatmeal soda bread
   - [Lucky Charms Cereal Milk Iced Latte | Java Momma](https://javamomma.com/blogs/blog/lucky-charms-cereal-milk-iced-latte): Lucky Charms Cereal Milk Iced Latte | Java Momma
-    Updated: 2026-04-14T11:56:05Z
+    Updated: 2026-04-20T01:32:51Z
     Author: Sally Valenti
     Tags: Cereal milk latte recipe, Dessert coffee drinks, Format_Iced, Homemade marshmallow syrup iced coffee, How to make Lucky Charms cereal milk, Iced vanilla latte with marshmallows, Ingredient_Coffee, Recipe_Sips
   - [Easy Caramel Creme Chocolate Croissants | Java Momma](https://javamomma.com/blogs/blog/caramel-creme-chocolate-croissants): Easy Caramel Creme Chocolate Croissants | Java Momma
@@ -6591,7 +6609,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Author: Sally Valenti
     Tags: cold brew tea, easy drink recipe, Format_Iced, Ingredient_Tea, Recipe_Sips, Starbucks dupe, strawberry refresher, strawberry serendipity, summer drink, tea refresher, white chocolate cold foam
   - [Raspberry Danish Latte with Cream Cheese Cold Foam](https://javamomma.com/blogs/blog/raspberry-danish-latte-with-cream-cheese-cold-foam): <p><meta charset="utf-8">Your favorite bakery danish just became a drink, and it's easier than parallel parking. This raspberry danish latte with cream cheese cold foam is the coffee shop order you can make at home — no loyalty points required.</p>
-    Updated: 2026-04-14T11:45:52Z
+    Updated: 2026-04-23T04:06:28Z
     Author: Sally Valenti
     Tags: Ingredient_Coffee, Ingredient_Syrup, Recipe_Sips
   - [Shaved Asparagus & Carrot Salad with Tea Dressing](https://javamomma.com/blogs/blog/shaved-asparagus-carrot-salad-with-tea-dressing): <p><meta charset="utf-8">This isn't the salad you eat because you have to — it's the one you actually want. A shaved asparagus and carrot salad with tea dressing that's bright, crunchy, and just interesting enough to feel like a real decision.</p>
@@ -6618,6 +6636,33 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Updated: 2026-04-15T10:30:22Z
     Author: Sally Valenti
     Tags: Format_Iced, Ingredient_Coffee, Ingredient_Syrup, Recipe_Sips
+  - [Blueberry Espresso Refresher with Muddled Mint & Lime](https://javamomma.com/blogs/blog/blueberry-espresso-refresher-with-muddled-mint-lime): Blueberry Espresso Refresher with Muddled Mint & Lime
+    Updated: 2026-04-20T00:41:50Z
+    Author: Sally Valenti
+    Tags: blueberry mint iced coffee, coffee seltzer drink, flavored coffee refresher, Format_Iced, iced coffee with fresh fruit, Ingredient_Coffee, Recipe_Sips, summer coffee drink recipe
+  - [Cinnamon Toast Crunch Iced Coffee Recipe](https://javamomma.com/blogs/blog/cinnamon-toast-crunch-iced-coffee): <p><meta charset="utf-8">Soak Cinnamon Toast Crunch in oat milk for 10 minutes. Strain it into Churro Coffee over ice. Top with a handful of dry cereal. That's it. This cinnamon toast crunch iced coffee recipe tastes exactly like the bowl — and looks like a $9 coffee shop drink.</p>
+    Updated: 2026-04-21T06:49:32Z
+    Author: Sally Valenti
+    Tags: cereal milk iced coffee, cereal milk latte, churro coffee drink recipe, cinnamon iced coffee at home, cinnamon toast latte recipe, Format_Iced, Ingredient_Coffee, Ingredient_Syrup, Recipe_Sips
+  - [Low Carb Mango Iced Coffee (Sugar-Free, High Protein Option) | Java Momma](https://javamomma.com/blogs/blog/low-carb-mango-iced-coffee): Low Carb Mango Iced Coffee (Sugar-Free, High Protein Option) | Java Momma
+    Updated: 2026-04-21T14:08:21Z
+    Author: Tammy Rose
+    Tags: Format_Iced, high protein mango iced coffee, high-protein, high-protein-coffee, Ingredient_Coffee, Ingredient_Syrup, low carb mango iced coffee, low-carb, Recipe_Sips, sugar free mango iced coffee, without-the-compromise
+  - [Spicy Señorita Coffee — Churro Coffee & Berry Habanero Syrup](https://javamomma.com/blogs/blog/spicy-senorita-coffee): <p><meta charset="utf-8">Churro coffee meets berry habanero syrup in this sweet, spicy habanero coffee drink with cinnamon cold foam. Fair warning: it bites back.</p>
+    Updated: 2026-04-25T05:42:20Z
+    Author: Sally Valenti
+    Tags: Format_Iced, Ingredient_Coffee, Ingredient_Syrup, Recipe_Sips
+  - [Dirty Cola Frappé — Cold Brew & Mexican Spiced Cocoa](https://javamomma.com/blogs/blog/dirty-cola-frappe-cold-brew-mexican-spiced-cocoa): <p><meta charset="utf-8"><meta charset="utf-8">A cola float grew up and got a cold brew habit. The Dirty Cola Frappé is the frozen dirty coffee drink you didn't know you needed — and now can't unknow.<br></p>
+    Updated: 2026-04-26T05:03:05Z
+    Author: Sally Valenti
+  - [Chocolate Orange Espresso Cocktail with Sparkling Spritz](https://javamomma.com/blogs/blog/chocolate-orange-espresso-cocktail): Chocolate Orange Espresso Cocktail with Sparkling Spritz
+    Updated: 2026-04-26T07:34:24Z
+    Author: Sally Valenti
+    Tags: Format_Iced, Ingredient_Coffee, Recipe_Sips
+  - [Chicken Enchilada Lasagna with Street Corn Seasoning](https://javamomma.com/blogs/blog/chicken-enchilada-lasagna-with-street-corn-seasoning): Chicken Enchilada Lasagna with Street Corn Seasoning
+    Updated: 2026-04-26T08:16:39Z
+    Author: Sally Valenti
+    Tags: chicken lasagna with tortillas, coffee in enchilada sauce, easy enchilada casserole recipe, Format_Baking, Ingredient_Spice, Mexican street corn chicken bake, Recipe_Eats, weeknight enchilada casserole
 - [Brew News](https://javamomma.com/blogs/news): Sip the latest with Java Momma’s Brew News—your go-to blog for product updates, coffee talk, recipe roundups, and all the buzz from the Momma-verse.
   - [How to Store Coffee Beans and Keep Them Fresh Longer](https://javamomma.com/blogs/news/best-coffee-bean-storage-tips-for-fresh-coffee): How to Store Coffee Beans and Keep Them Fresh Longer
     Updated: 2026-03-23T10:50:41Z
@@ -6628,7 +6673,7 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
     Author: javamomma
     Tags: espresso at home, frothing milk, home barista, how to froth milk, latte art, milk alternatives coffee, milk frothing, Recipe_Learn, steam wand tips, texturing milk
   - [Highlander Grogg Coffee | Java Momma Flavored Best Seller](https://javamomma.com/blogs/news/highlander-grogg-coffee-java-momma): Highlander Grogg Coffee | Java Momma Flavored Best Seller
-    Updated: 2025-09-03T07:16:29Z
+    Updated: 2026-04-21T04:57:58Z
     Author: javamomma
     Tags: Coffee, highlander grogg
   - [Grocery Store Coffee vs Specialty Coffee: The Real Difference](https://javamomma.com/blogs/news/grocery-store-coffee-vs-specialty-coffee): <p><meta charset="utf-8"><meta charset="utf-8">Grocery store coffee looks cheaper — until you do the real per-cup math. Java Momma specialty coffee costs $0.93 per real 16 oz mug. Roasted to order.<br></p>
@@ -7022,6 +7067,8 @@ The product lineup includes flavored coffees, single-origin and blended roasts, 
   Updated: 2026-03-29T08:47:28Z
 - [The Menu — Coffee Drink Recipes to Make at Home | Java Momma](https://javamomma.com/pages/the-menu): Java Momma The Menu You know that drink you paid $8 for last Tuesday? You can make it at home. Better, probably. In your pajamas, definitely. Every...
   Updated: 2026-04-15T12:59:06Z
+- [Without the Compromise — Low Carb & High Protein Coffee Recipes | Java Momma](https://javamomma.com/pages/without-the-compromise): ☕ Java Momma Kitchen Without the Compromise. Good coffee shouldn't be the thing you have to give up when you're watching carbs, chasing protein, or...
+  Updated: 2026-04-21T09:41:15Z
 
 ## Policies
 
