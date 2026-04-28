@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2024-07-18T15:43:13Z
 - Contact Email: support@livingwithluxury.co.uk
-- Updated At: 2026-04-16T00:00:30.885Z
+- Updated At: 2026-04-28T00:00:39.003Z
 
 ## Products
 
 - [Curved Chestnut Bedside - Living with Luxury](https://www.livingwithluxury.co.uk/products/curved-chestnut-bedside): Endlessly versatile, this curved bedside table makes a perfect stand for nibbles, drinks, or a lamp.  - Living with Luxury
-  Updated: 2026-03-30T10:30:27Z
+  Updated: 2026-04-27T14:30:19Z
   Vendor: Living with Luxury
   Product Type: Bedside Table
   Availability: Available
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/products-in705-2.jpg?v=1734636169
   Price: £199.99 GBP
 - [Mini Oak-ish Classic Open Bedside - Living with Luxury](https://www.livingwithluxury.co.uk/products/mini-oak-ish-classic-open-bedside): Obtain an effortless look with our Mini Classic Oak-ish Bedside. It is constructed from 100% solid  - Living with Luxury
-  Updated: 2026-04-11T15:25:46Z
+  Updated: 2026-04-27T14:30:38Z
   Vendor: Living with Luxury
   Product Type: Bedside Table
   Availability: Available
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/products-in704-2.jpg?v=1734636221
   Price: £199.99 GBP
 - [Mini Oak-ish Bedside - Living with Luxury](https://www.livingwithluxury.co.uk/products/mini-oak-ish-bedside): This beautifully designed bedside is constructed from 100% solid mango wood with a fine oak-ish  - Living with Luxury
-  Updated: 2026-04-14T15:30:28Z
+  Updated: 2026-04-27T14:30:29Z
   Vendor: Living with Luxury
   Product Type: Bedside Table
   Availability: Available
@@ -53,56 +53,56 @@
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN3349-1-1.jpg?v=1746718096
   Price: £179.99 GBP
 - [Mini Chestnut Solid Wood Bedside Table –  Living with Luxury](https://www.livingwithluxury.co.uk/products/mini-chestnut-bedside-table): Mini Chestnut Curve Open Bedside Table - Solid Mango Wood, Nordic Style Add a touch of charm and  - Living with Luxury
-  Updated: 2026-04-11T15:25:45Z
+  Updated: 2026-04-27T14:30:47Z
   Vendor: Living with Luxury
   Product Type: Bedside Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN3313-1-1.jpg?v=1746718108
   Price: £179.99 GBP
 - [Mini Oakish Curve Open Bedside - Living with Luxury](https://www.livingwithluxury.co.uk/products/mini-oakish-curve-open-bedside): The mini version of our famous IN711, this small but handy bedside makes a perfect stand for  - Living with Luxury
-  Updated: 2026-04-11T15:25:45Z
+  Updated: 2026-04-27T14:30:38Z
   Vendor: Living with Luxury
   Product Type: Bedside Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN3314-1-1.jpg?v=1746718106
   Price: £179.99 GBP
 - [Curved Open Bedside Table with Storage –  Living with Luxury](https://www.livingwithluxury.co.uk/products/curved-open-bedside-table-elegant-and-functional-storage-solution): Curved Open Bedside adds refined design and practicality. Solid wood craftsmanship with open storage creates an ideal, elegant addition for modern homes.
-  Updated: 2026-04-11T15:25:45Z
+  Updated: 2026-04-27T14:30:21Z
   Vendor: Living with Luxury
   Product Type: Bedside Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/products-in361-2.jpg?v=1734636352
   Price: £179.99 GBP
 - [Chestnut Rounded Entertainment Unit –  Living with Luxury](https://www.livingwithluxury.co.uk/products/chestnut-rounded-entertainment-unit): This solid wood media unit has been constructed from 100% solid mango wood in a chestnut finish and  - Living with Luxury
-  Updated: 2026-04-11T15:25:44Z
+  Updated: 2026-04-27T22:30:36Z
   Vendor: Living with Luxury
   Product Type: Media Unit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN894-1.jpg?v=1746458641
   Price: £379.99 GBP
 - [Ariella Double Shelf Bedside - Living with Luxury](https://www.livingwithluxury.co.uk/products/ariella-double-shelf-bedside): Update your home with our Ariella Double Shelf Bedside boasting a contemporary Japanese design  - Living with Luxury
-  Updated: 2026-04-11T15:25:44Z
+  Updated: 2026-04-27T22:30:49Z
   Vendor: Living with Luxury
   Product Type: Bedside Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN3414-1-1.jpg?v=1734636401
   Price: £179.99 GBP
 - [Mini Oak Floating Open Bedside Table –  Living with Luxury](https://www.livingwithluxury.co.uk/products/mini-oak-ish-floating-open-bedside): Inspired by our curved range, this minimalistic mini wall-mounted unit has been constructed from  - Living with Luxury
-  Updated: 2026-04-13T10:30:50Z
+  Updated: 2026-04-27T14:30:36Z
   Vendor: Living with Luxury
   Product Type: Bedside Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN3266-2-1.jpg?v=1746718102
   Price: £179.99 GBP
 - [Curved Chestnut Media Unit - Living with Luxury](https://www.livingwithluxury.co.uk/products/curved-chestnut-media-unit): Our solid timber media unit is expertly constructed from 100% solid mango wood in a lovely chestnut  - Living with Luxury
-  Updated: 2026-04-11T15:25:44Z
+  Updated: 2026-04-27T18:30:18Z
   Vendor: Living with Luxury
   Product Type: Media Unit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/products-in309-3.jpg?v=1734636452
   Price: £399.99 GBP
 - [Boucle Buffalo Hide Upholstered Bench –  Living with Luxury](https://www.livingwithluxury.co.uk/products/boucle-buffalo-hide-leather-bench-premium-upholstered-bench): Bouclé Buffalo Hide Leather Bench – Luxury Handwoven Upholstery Experience timeless elegance and  - Living with Luxury
-  Updated: 2026-04-11T15:21:34Z
+  Updated: 2026-04-23T15:30:38Z
   Vendor: Living with Luxury
   Product Type: Benches
   Availability: Available
@@ -116,14 +116,14 @@
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/products-in713-3.jpg?v=1734636510
   Price: £299.99 GBP
 - [Curved Chestnut Console Table](https://www.livingwithluxury.co.uk/products/chestnut-console-table-100-solid-mango-wood-nordic-design-2-drawers-eco-friendly-storage-for-living-room-hallway): Shop the Sonata Chestnut Console Table made from 100% solid mango wood with a rich chestnut finish. Includes 2 drawers, 1 open slot, and Nordic-style legs. Perfect for storage and style. Ideal for your living room or hallway.
-  Updated: 2026-04-11T15:21:34Z
+  Updated: 2026-04-27T16:30:26Z
   Vendor: Living with Luxury
   Product Type: Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN311-1.jpg?v=1734636534
   Price: £299.99 GBP
 - [Mini Chestnut Bedside Solid Wood Design –  Living with Luxury](https://www.livingwithluxury.co.uk/products/mini-chestnut-bedside): This beautifully designed bedside is constructed from 100% solid mango wood with a chestnut finish.  - Living with Luxury
-  Updated: 2026-04-14T15:30:31Z
+  Updated: 2026-04-27T14:30:36Z
   Vendor: Living with Luxury
   Product Type: Bedside Table
   Availability: Available
@@ -144,7 +144,7 @@
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN3315-1-1.jpg?v=1734636616
   Price: £299.99 GBP
 - [Curved Oak Solid Wood Bedside Table –  Living with Luxury](https://www.livingwithluxury.co.uk/products/curved-oak-ish-bedside-table): Add elegance and functionality to your bedroom with the Curved Oak-ish Bedside. Handcrafted from solid mango wood with a smooth oak-ish finish, this table is perfect for compact spaces.
-  Updated: 2026-04-14T11:30:40Z
+  Updated: 2026-04-27T14:30:37Z
   Vendor: Living with Luxury
   Product Type: Bedside Table
   Availability: Available
@@ -158,14 +158,14 @@
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN3327-1-1.jpg?v=1746718115
   Price: £299.99 GBP
 - [Gallery Back Shell Solid Wood Desk –  Living with Luxury](https://www.livingwithluxury.co.uk/products/gallery-back-shell-writing-desk-modern-premium-solid-wood-desk-for-home-office): Elevate your home office with the Gallery Back Shell Writing Desk. Crafted from solid wood with a beautiful gallery back design, offering functionality and style for any workspace.
-  Updated: 2026-04-11T15:21:33Z
+  Updated: 2026-04-22T15:30:16Z
   Vendor: Living with Luxury
   Product Type: Desk
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/products-in132.gif?v=1748620608
   Price: £399.99 GBP
 - [Floating Curve Open Slot Bedside - Living with Luxury](https://www.livingwithluxury.co.uk/products/floating-curve-open-slot-bedside): Inspired by our curved range, this minimalistic wall-mounted unit has been constructed from 100%  - Living with Luxury
-  Updated: 2026-04-11T15:21:33Z
+  Updated: 2026-04-27T14:30:27Z
   Vendor: Living with Luxury
   Product Type: Bedside Table
   Availability: Available
@@ -186,7 +186,7 @@
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN1229-1-1.jpg?v=1734636799
   Price: £279.99 GBP
 - [Mini Chestnut Curve Lower Bedside - Living with Luxury](https://www.livingwithluxury.co.uk/products/mini-chestnut-curve-lower-bedside): The mini version of our famous IN308, this small but handy bedside makes a perfect stand for  - Living with Luxury
-  Updated: 2026-04-11T15:21:32Z
+  Updated: 2026-04-27T14:30:46Z
   Vendor: Living with Luxury
   Product Type: Bedside Table
   Availability: Available
@@ -200,14 +200,14 @@
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN3309-2.jpg?v=1748447651
   Price: £199.99 GBP
 - [Nordic Chestnut Circular Bedside - Living with Luxury](https://www.livingwithluxury.co.uk/products/nordic-chestnut-circular-bedside): This beautifully designed bedside is constructed from 100% solid mango wood in a chestnut finish and  - Living with Luxury
-  Updated: 2026-04-11T15:21:32Z
+  Updated: 2026-04-21T10:30:35Z
   Vendor: Living with Luxury
   Product Type: Bedside Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN1298-2.jpg?v=1734636879
   Price: £199.99 GBP
 - [Mini Manila Gold 1 Drawer Bedside - Living with Luxury](https://www.livingwithluxury.co.uk/products/mini-manila-gold-1-drawer-bedside): This Mini Manila Gold Chestnut Bedside Table is designed to add class and elegance. With a brass  - Living with Luxury
-  Updated: 2026-04-13T08:30:45Z
+  Updated: 2026-04-27T08:30:48Z
   Vendor: Living with Luxury
   Product Type: Bedside Table
   Availability: Available
@@ -235,21 +235,21 @@
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN3280-1-1.jpg?v=1734636986
   Price: £179.99 GBP
 - [2-Drawer Cable Writing Desk –  Living with Luxury](https://www.livingwithluxury.co.uk/products/2-drawer-cable-writing-desk-sleek-desk-with-storage-and-cable-organization-for-home-office): Enhance your office with this sleek 2-drawer writing desk, offering ample storage and cable organization for a clean, modern workspace.
-  Updated: 2026-03-31T06:30:36Z
+  Updated: 2026-04-22T05:30:26Z
   Vendor: Living with Luxury
   Product Type: Desk
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/2-drawer-cable-writing-desk-57333851390284.jpg?v=1734652978
   Price: £299.99 GBP
 - [Curved Oak-ish Console Table - Living with Luxury](https://www.livingwithluxury.co.uk/products/curved-oak-ish-console-table): This simple, elegant console table has beautiful curved edges to fit perfectly in any home or living  - Living with Luxury
-  Updated: 2026-04-11T15:21:31Z
+  Updated: 2026-04-27T14:30:26Z
   Vendor: Living with Luxury
   Product Type: Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/products-in714-3.jpg?v=1734637044
   Price: £299.99 GBP
 - [Ariella Coffee Table - Living with Luxury](https://www.livingwithluxury.co.uk/products/ariella-coffee-table): Update your home with our Ariella Coffee Table boasting a contemporary Japanese design allowing  - Living with Luxury
-  Updated: 2026-04-11T15:21:30Z
+  Updated: 2026-04-27T14:30:48Z
   Vendor: Living with Luxury
   Product Type: Tables
   Availability: Available
@@ -277,7 +277,7 @@
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/products-in310-2.jpg?v=1746718129
   Price: £299.99 GBP
 - [Mini 2 Drawer Chestnut Bedside - Living with Luxury](https://www.livingwithluxury.co.uk/products/mini-2-drawer-chestnut-bedside): This beautifully designed bedside is constructed from 100% solid mango wood and has a fine chestnut  - Living with Luxury
-  Updated: 2026-04-11T15:21:30Z
+  Updated: 2026-04-27T14:30:43Z
   Vendor: Living with Luxury
   Product Type: Bedside Table
   Availability: Available
@@ -333,7 +333,7 @@
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN955-2.jpg?v=1734637336
   Price: £449.99 GBP
 - [2-Drawer Floating Bedside Table –  Solid Mango Wood Design](https://www.livingwithluxury.co.uk/products/solid-mango-wood-oak-ish-2-drawer-floating-bedside-table): Oak-ish 2 Drawer Floating Bedside Table – Minimalist Design Meets Everyday Luxury Elevate your  - Living with Luxury
-  Updated: 2026-04-11T15:21:29Z
+  Updated: 2026-04-27T06:30:16Z
   Vendor: Living with Luxury
   Product Type: Bedside Table
   Availability: Available
@@ -347,7 +347,7 @@
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN3381-1-1.jpg?v=1734637386
   Price: £179.99 GBP
 - [Hallway Console Mango Wood Table –  Living with Luxury](https://www.livingwithluxury.co.uk/products/hallway-console-table-100-solid-mango-wood-nordic-design-2-drawers-open-storage-oak-finish): Hallway Console crafted in oak mango wood combines drawers with slot storage. Nordic design and solid craftsmanship deliver clean, functional style.
-  Updated: 2026-04-11T15:21:29Z
+  Updated: 2026-04-27T14:30:17Z
   Vendor: Living with Luxury
   Product Type: Tables
   Availability: Available
@@ -375,7 +375,7 @@
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN3544-1.jpg?v=1734637492
   Price: £299.99 GBP
 - [Newton Bedside - Living with Luxury](https://www.livingwithluxury.co.uk/products/newton-bedside): An elegant addition to your room, this Newton Bedside is a stylish and practical piece of furniture.  - Living with Luxury
-  Updated: 2026-04-14T11:30:39Z
+  Updated: 2026-04-27T14:30:36Z
   Vendor: Living with Luxury
   Product Type: Bedside Table
   Availability: Available
@@ -452,7 +452,7 @@
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN3278-1-1.jpg?v=1734637778
   Price: £249.99 GBP
 - [Floating Mini Chestnut Bedside - Living with Luxury](https://www.livingwithluxury.co.uk/products/floating-mini-chestnut-bedside): Inspired by our curved range, this minimalistic mini wall-mounted unit has been constructed from  - Living with Luxury
-  Updated: 2026-04-11T15:21:27Z
+  Updated: 2026-04-27T14:30:46Z
   Vendor: Living with Luxury
   Product Type: Bedside Table
   Availability: Available
@@ -466,14 +466,14 @@
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN3443-1-2.jpg?v=1734637834
   Price: £199.99 GBP
 - [Nordic Circular Shaped Bedside - Living with Luxury](https://www.livingwithluxury.co.uk/products/nordic-circular-shaped-bedside): This beautifully designed bedside is constructed from 100% solid mango wood in an Oak ish finish and  - Living with Luxury
-  Updated: 2026-04-11T15:21:27Z
+  Updated: 2026-04-24T04:30:16Z
   Vendor: Living with Luxury
   Product Type: Bedside Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/products-in323-2_1.jpg?v=1734637860
   Price: £199.99 GBP
 - [Aspen 3 Drawer Bedside - Living with Luxury](https://www.livingwithluxury.co.uk/products/aspen-3-drawer-bedside): Featuring rounded corner edges, this Aspen 3 Drawer Bedside is a staple in the bedroom with 3 large  - Living with Luxury
-  Updated: 2026-04-11T15:21:26Z
+  Updated: 2026-04-27T08:30:56Z
   Vendor: Living with Luxury
   Product Type: Bedside Table
   Availability: Available
@@ -487,7 +487,7 @@
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN3549-3.jpg?v=1734637940
   Price: £279.99 GBP
 - [Rounded Entertainment Unit - Living with Luxury](https://www.livingwithluxury.co.uk/products/rounded-entertainment-unit): This solid wood media unit has been constructed from 100% solid mango wood in an oak-ish finish and  - Living with Luxury
-  Updated: 2026-04-11T15:21:26Z
+  Updated: 2026-04-27T14:30:37Z
   Vendor: Living with Luxury
   Product Type: Media Unit
   Availability: Available
@@ -515,14 +515,14 @@
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN3619.jpg?v=1734638055
   Price: £249.99 GBP
 - [Floating Chestnut London Console - Living with Luxury](https://www.livingwithluxury.co.uk/products/floating-chestnut-london-console): This curved wall-mounted console table is the perfect way to save space and avoid the hassle of legs  - Living with Luxury
-  Updated: 2026-04-11T15:21:26Z
+  Updated: 2026-04-25T04:30:35Z
   Vendor: Living with Luxury
   Product Type: Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN1300-2.jpg?v=1734638079
   Price: £249.99 GBP
 - [3 Drawer Chestnut Drum - Living with Luxury](https://www.livingwithluxury.co.uk/products/3-drawer-chestnut-drum): This beautiful round three-drawer drum chest is made from 100% solid mango wood and has a fine  - Living with Luxury
-  Updated: 2026-04-14T04:30:37Z
+  Updated: 2026-04-27T06:30:35Z
   Vendor: Living with Luxury
   Product Type: Chest
   Availability: Available
@@ -536,7 +536,7 @@
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/products-in054-2.jpg?v=1734638132
   Price: £379.99 GBP
 - [Chestnut Circular TV Stand - Living with Luxury](https://www.livingwithluxury.co.uk/products/chestnut-circular-tv-stand): Our solid timber media unit is expertly constructed from 100% solid mango wood in a lovely chestnut  - Living with Luxury
-  Updated: 2026-04-07T14:31:08Z
+  Updated: 2026-04-27T22:31:07Z
   Vendor: Living with Luxury
   Product Type: Media Unit
   Availability: Available
@@ -550,14 +550,14 @@
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN1707-1-1.jpg?v=1734638187
   Price: £199.99 GBP
 - [Mini Curve Floating Bedside - Living with Luxury](https://www.livingwithluxury.co.uk/products/mini-curve-floating-bedside): Inspired by our curved range, this minimalistic mini wall-mounted unit has been constructed from  - Living with Luxury
-  Updated: 2026-04-13T04:30:38Z
+  Updated: 2026-04-27T06:30:41Z
   Vendor: Living with Luxury
   Product Type: Bedside Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN3265-1-1.jpg?v=1745421216
   Price: £179.99 GBP
 - [Mini Lille Curved Bedside - Living with Luxury](https://www.livingwithluxury.co.uk/products/mini-lille-curved-bedside): Add this unique solid wood Mini Lille Curved Bedside to your bedroom, constructed from 100% solid mngo wood in n ok-ish finish, this piece fetures  - Living with Luxury
-  Updated: 2026-04-13T04:31:11Z
+  Updated: 2026-04-27T14:31:11Z
   Vendor: Living with Luxury
   Product Type: Bedside Table
   Availability: Available
@@ -571,7 +571,7 @@
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN1292-2.jpg?v=1734638265
   Price: £199.99 GBP
 - [Chestnut Curve 2 Drawer Bedside - Living with Luxury](https://www.livingwithluxury.co.uk/products/chestnut-curve-2-drawer-bedside): Chestnut 2-Drawer Bedside crafted from mango wood combines rounded design and textured details. Practical elegance and natural warmth for modern homes.
-  Updated: 2026-04-11T15:12:22Z
+  Updated: 2026-04-27T14:30:44Z
   Vendor: Living with Luxury
   Product Type: Bedside Table
   Availability: Available
@@ -592,7 +592,7 @@
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN906-1.jpg?v=1734638345
   Price: £299.99 GBP
 - [Mini Curve Oak Floating Bedside Unit –  Living with Luxury](https://www.livingwithluxury.co.uk/products/mini-curve-oak-ish-floating-bedside): Mini Curved Floating Bedside blends compact design and oak finish. Handcrafted mango wood creates space-saving utility with elegant minimalist appeal.
-  Updated: 2026-04-11T15:12:22Z
+  Updated: 2026-04-27T14:30:37Z
   Vendor: Living with Luxury
   Product Type: Bedside Table
   Availability: Available
@@ -620,7 +620,7 @@
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN1737-1..jpg?v=1734638467
   Price: £174.99 GBP
 - [Edessa Bone Inlay Console Table - Living with Luxury](https://www.livingwithluxury.co.uk/products/edessa-bone-inlay-console-table): This beautiful boho inspired console table has been constructed from 100% solid mango wood and has a fine oak-ish finish. Other features include 2  - Living with Luxury
-  Updated: 2026-04-13T06:30:42Z
+  Updated: 2026-04-27T08:30:56Z
   Vendor: Living with Luxury
   Product Type: Tables
   Availability: Available
@@ -655,7 +655,7 @@
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN3144-1-1.jpg?v=1734638601
   Price: £179.99 GBP
 - [Oak-ish Dressing Table - Living with Luxury](https://www.livingwithluxury.co.uk/products/oak-ish-dressing-table): Add this beautiful dressing table to your home. Constructed from 100% solid mango wood in an oak-ish finish with 3 spacious drawers, it features a  - Living with Luxury
-  Updated: 2026-04-14T11:30:51Z
+  Updated: 2026-04-20T04:30:46Z
   Vendor: Living with Luxury
   Product Type: Tables
   Availability: Available
@@ -921,7 +921,7 @@
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN3468-1-1.jpg?v=1732539807
   Price: £351.90 GBP
 - [Edessa Bone Inlay Cabinet - Living with Luxury](https://www.livingwithluxury.co.uk/products/edessa-bone-inlay-cabinet): This beautiful boho inspired cabinet has been constructed from 100% solid mango wood and has a fine oak-ish finish. Other features include bone inlay  - Living with Luxury
-  Updated: 2026-02-21T07:30:48Z
+  Updated: 2026-04-27T06:30:52Z
   Vendor: Living with Luxury
   Product Type: Cabinet
   Availability: Available
@@ -1418,14 +1418,14 @@
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN890-1.jpg?v=1748966481
   Price: £249.99 GBP
 - [Modern Chestnut Solid Wood Bedside Table –  Living with Luxury](https://www.livingwithluxury.co.uk/products/modern-chestnut-solid-wood-bedside): Modern Chestnut Bedside crafted from mango wood is endlessly versatile. Sleek rounded finishes provide elegant practicality for modern stylish interiors.
-  Updated: 2026-01-09T12:30:27Z
+  Updated: 2026-04-27T14:30:27Z
   Vendor: Living with Luxury
   Product Type: Bedside Table
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN1691-1-1.jpg?v=1734644374
   Price: £199.99 GBP
 - [Extra Mini Curved Chestnut Bedside Slot –  Living with Luxury](https://www.livingwithluxury.co.uk/products/extra-mini-curved-chestnut-bedside-with-open-slot): Extra Mini Chestnut Bedside crafted from mango wood offers ultra-compact elegance. Rounded minimal design makes a versatile, stylish piece for bedrooms.
-  Updated: 2026-04-11T15:01:45Z
+  Updated: 2026-04-23T08:31:06Z
   Vendor: Living with Luxury
   Product Type: Bedside Table
   Availability: Available
@@ -1474,21 +1474,21 @@
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN3605-1-1.jpg?v=1734648598
   Price: £299.99 GBP
 - [Mini Oak-ish Hallway Console Table - Living with Luxury](https://www.livingwithluxury.co.uk/products/mini-oak-ish-hallway-console-table): A mini twist on simple &amp; elegant charm is what this practical console table will provide. Suiting most interiors, this 100% solid mango wood unit  - Living with Luxury
-  Updated: 2026-04-11T15:01:44Z
+  Updated: 2026-04-22T15:30:35Z
   Vendor: Living with Luxury
   Product Type: Tables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN3274-1-1.jpg?v=1734648626
   Price: £299.99 GBP
 - [Boucle Cream Square Footstool - Living with Luxury](https://www.livingwithluxury.co.uk/products/boucle-cream-square-footstool): Derived from the French word for 'curled' or 'ringed' yarn or fabric. This handwoven upholstered furniture piece is made of 100% cotton and natural  - Living with Luxury
-  Updated: 2026-04-08T01:06:00Z
+  Updated: 2026-04-27T14:30:38Z
   Vendor: Living with Luxury
   Product Type: Footstools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN3306-2-2.jpg?v=1734648655
   Price: £199.99 GBP
 - [Mini Curved Oak-ish Chest - Living with Luxury](https://www.livingwithluxury.co.uk/products/mini-curved-oak-ish-chest): Mini Curved Chest of mango wood in oak finish brings charm to small storage. Compact yet elegant, it matches curved collection designs for stylish spaces.
-  Updated: 2026-04-13T18:30:40Z
+  Updated: 2026-04-20T14:30:47Z
   Vendor: Living with Luxury
   Product Type: Chest
   Availability: Available
@@ -1565,7 +1565,7 @@
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN3452-1.jpg?v=1734650224
   Price: £299.99 GBP
 - [Extra Mini Wall Mounted Curved Chestnut Bedside](https://www.livingwithluxury.co.uk/products/extra-mini-wall-mounted-curved-chestnut-bedside): Introducing Extra Mini Wall Mounted Curved Chestnut Bedside with Open Slot. This ultra-compact wall mounted bedside table is perfect for snacks.
-  Updated: 2026-04-11T15:01:43Z
+  Updated: 2026-04-22T04:31:05Z
   Vendor: Living with Luxury
   Product Type: Bedside Table
   Availability: Available
@@ -1579,7 +1579,7 @@
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN3409-1-1.jpg?v=1734650282
   Price: £249.99 GBP
 - [Extra Mini Wall Mounted Curved Bedside –  Living with Luxury](https://www.livingwithluxury.co.uk/products/extra-mini-wall-mounted-curved-bedside): Introducing Extra Mini Wall Mounted Curved Oak-ish Bedside with Open Slot. This ultra-compact wall mounted bedside table is perfect for snacks,  - Living with Luxury
-  Updated: 2026-03-20T10:31:15Z
+  Updated: 2026-04-27T14:31:13Z
   Vendor: Living with Luxury
   Product Type: Bedside Table
   Availability: Available
@@ -1719,7 +1719,7 @@
   Image: https://cdn.shopify.com/s/files/1/0835/6239/8028/files/IN3837-1-1.jpg?v=1734650838
   Price: £299.99 GBP
 - [California Walnut Wall Mounted Bedside –  Living with Luxury](https://www.livingwithluxury.co.uk/products/california-walnut-wall-mounted-rounded-bedside): This wall-mounted bedside has been constructed from 100% solid mango wood in a california walnut finish and offers a unique shaped design with rounded  - Living with Luxury
-  Updated: 2026-04-11T15:01:40Z
+  Updated: 2026-04-21T12:31:25Z
   Vendor: Living with Luxury
   Product Type: Bedside Table
   Availability: Available
@@ -1765,19 +1765,19 @@
 ## Collections
 
 - [All Products - Living with Luxury](https://www.livingwithluxury.co.uk/collections/all-products): - Living with Luxury
-  Updated: 2026-04-15T13:33:48Z
-  Total Products: 2390
+  Updated: 2026-04-27T18:09:49Z
+  Total Products: 2491
 - [Buy Best  Luxury Furniture UK – Top Home Décor Picks](https://www.livingwithluxury.co.uk/collections/best-): Buy best  luxury furniture & home décor online in the UK. Shop iconic sofas, armchairs & more with free delivery over £250. Elevate your space today!
-  Updated: 2026-04-15T09:18:47Z
+  Updated: 2026-04-16T17:55:23Z
   Total Products: 78
 - [Buy Luxury Table Online – Stylish Designer Tables UK](https://www.livingwithluxury.co.uk/collections/luxury-tables): Buy luxury table collection featuring elegant designer dining, coffee & console tables. Premium craftsmanship and timeless style for every room in your home.
-  Updated: 2026-04-15T11:54:13Z
-  Total Products: 328
+  Updated: 2026-04-27T18:09:49Z
+  Total Products: 330
 - [Buy Luxury Beside Table Online UK – Stylish Bedroom Decor](https://www.livingwithluxury.co.uk/collections/bedside-table): Shop luxury beside table collection with quality craftsmanship, elegant designs & functional storage. Perfect for modern or classic bedrooms at Living Store.
-  Updated: 2026-04-15T12:40:16Z
+  Updated: 2026-04-16T16:34:18Z
   Total Products: 193
 - [Buy Luxury Benches Online – Stylish & Premium Seating](https://www.livingwithluxury.co.uk/collections/benches): Buy luxury benches that elevate your home décor with premium designs, comfort and style. Shop bouclé, velvet and wooden luxury benches today!
-  Updated: 2026-04-15T12:15:01Z
+  Updated: 2026-04-17T11:22:51Z
   Total Products: 65
 - [Buy Luxury Footstools Online – Stylish Comfort & Quality](https://www.livingwithluxury.co.uk/collections/footstools): Shop luxury footstools for your home at Living With Luxury. Find premium designs, versatile styles and comfort-focused pieces to elevate any living space.
   Updated: 2026-04-11T15:21:31Z
@@ -1786,13 +1786,13 @@
   Updated: 2026-03-29T08:25:18Z
   Total Products: 8
 - [Buy Luxury Chairs Online – Stylish & Comfortable Home Seating](https://www.livingwithluxury.co.uk/collections/chairs): Buy luxury chairs designed for comfort and style. Discover premium designer seating for living rooms, dining areas and more. Free UK delivery on select orders.
-  Updated: 2026-04-15T13:17:29Z
+  Updated: 2026-04-17T11:45:31Z
   Total Products: 199
 - [Buy Luxury Dining Tables UK – Modern & Classic Designs](https://www.livingwithluxury.co.uk/collections/luxury-dining-tables): Buy luxury dining tables in the UK. Discover premium quality, elegant designs & durable craftsmanship for timeless dining spaces. Explore more!
-  Updated: 2026-04-15T13:33:48Z
-  Total Products: 122
+  Updated: 2026-04-17T13:16:39Z
+  Total Products: 123
 - [Buy Luxury Cabinets Online – Stylish Premium Storage](https://www.livingwithluxury.co.uk/collections/cabinets): Buy luxury cabinets for home décor & smart storage. Explore premium designs & elevate interiors with our exclusive collection. Free delivery on orders £250+.
-  Updated: 2026-04-14T09:09:29Z
+  Updated: 2026-04-17T11:28:47Z
   Total Products: 75
 - [Buy Luxury Mirrors Online – Elegant Designer Wall Mirrors](https://www.livingwithluxury.co.uk/collections/luxury-mirrors): Shop luxury mirrors at Living with Luxury – stunning designer wall mirrors to enhance light, depth, and style in your home. Free UK shipping over £250.
   Updated: 2026-04-11T15:12:19Z
@@ -1804,7 +1804,7 @@
   Updated: 2026-04-14T09:26:43Z
   Total Products: 39
 - [Buy Media Units Online – Stylish TV & Entertainment Furniture](https://www.livingwithluxury.co.uk/collections/media-units): Buy premium media units in various styles to organise your TV and tech with smart storage and elegant design for modern living rooms. Explore more!
-  Updated: 2026-04-15T06:56:57Z
+  Updated: 2026-04-17T13:23:44Z
   Total Products: 51
 - [Buy Wooden Desks Online – Stylish Solid Wood Desks UK](https://www.livingwithluxury.co.uk/collections/wooden-desks): Buy premium wooden desks for home office, study or workspace. Explore stylish solid wood desks with drawers & smart storage. Free UK delivery over £250.
   Updated: 2026-04-15T11:03:17Z
@@ -1813,20 +1813,20 @@
   Updated: 2026-04-13T10:45:52Z
   Total Products: 26
 - [Buy Luxury Sideboards & Furniture | Luxury Lamps & Decor](https://www.livingwithluxury.co.uk/collections/sideboards): Buy elegant sideboards for living & dining spaces with luxury lamps and décor accessories. Stylish storage & premium furniture collection at Living With Luxury.
-  Updated: 2026-04-15T06:52:05Z
+  Updated: 2026-04-17T09:55:10Z
   Total Products: 47
 - [Buy Bookcases Cabinets Shelves Online UK | Luxury Storage](https://www.livingwithluxury.co.uk/collections/bookcases-cabinets-shelves): Buy bookcases cabinets shelves for stylish storage and décor. Premium furniture collection with elegant shelving, timeless cabinets & chic bookcases.
-  Updated: 2026-04-13T12:32:10Z
+  Updated: 2026-04-16T17:55:23Z
   Total Products: 10
 - [Buy Luxury Beds Frames UK – Premium Designer Collection](https://www.livingwithluxury.co.uk/collections/luxury-beds-frames): Buy luxury beds frames in the UK for stylish comfort, free shipping £250+ and exclusive designs to elevate your bedroom. Shop premium bed frames now.
-  Updated: 2026-04-15T11:41:56Z
-  Total Products: 98
+  Updated: 2026-04-17T12:23:34Z
+  Total Products: 99
 - [Buy Luxury Wardrobes UK – Stylish Premium Bedroom Storage](https://www.livingwithluxury.co.uk/collections/luxury-wardrobes): Buy luxury wardrobes online with sleek designs, superior craftsmanship and ample storage to elevate your bedroom style. Shop premium pieces now!
-  Updated: 2026-04-15T12:27:31Z
+  Updated: 2026-04-17T10:58:43Z
   Total Products: 23
 - [Buy Luxury Pet Beds Online – Stylish Comfort for Pets](https://www.livingwithluxury.co.uk/collections/pet-beds): Buy luxury pet beds that blend comfort and style for dogs & cats. Shop premium pet beds with elegant designs to match your home décor and keep pets cozy.
-  Updated: 2026-04-15T08:18:58Z
-  Total Products: 24
+  Updated: 2026-04-17T12:23:33Z
+  Total Products: 25
 - [Buy Luxury Wooden Kitchen Cabinets | Stylish Wood Designs](https://www.livingwithluxury.co.uk/collections/wooden-kitchen-cabinets): Buy luxury wooden kitchen cabinets for modern & classic kitchens. Discover elegant wood finishes, durable builds & exceptional style. Explore more!
   Updated: 2026-04-11T14:39:15Z
   Total Products: 6
@@ -1834,26 +1834,26 @@
   Updated: 2026-04-14T12:17:17Z
   Total Products: 32
 - [Buy Luxury Coffee Tables – Stylish & Exclusive Designs UK](https://www.livingwithluxury.co.uk/collections/coffee-tables): Explore premium luxury coffee tables online with elegant modern design, quality craftsmanship, and statement centrepieces for your living room. Shop now!
-  Updated: 2026-04-15T11:54:13Z
+  Updated: 2026-04-17T11:22:01Z
   Total Products: 86
 - [Buy Luxury Dressing Tables Online – Elegant UK Collection](https://www.livingwithluxury.co.uk/collections/dressing-tables): Buy luxury dressing tables for stylish bedrooms in the UK. Shop premium designs with storage, mirrors & quality finishes. Free delivery over £250.
-  Updated: 2026-04-14T11:19:49Z
+  Updated: 2026-04-17T13:16:39Z
   Total Products: 43
 - [Buy Luxury Side Tables Online – Stylish Designer Range](https://www.livingwithluxury.co.uk/collections/side-tables): Explore premium luxury side tables at Living With Luxury. Shop stylish, high‑end accent tables to elevate your home décor with quality & elegance.
-  Updated: 2026-04-15T11:17:55Z
+  Updated: 2026-04-17T11:41:56Z
   Total Products: 32
 - [Buy Julian Bowen Furniture UK – Premium Beds & Storage](https://www.livingwithluxury.co.uk/collections/julian-bowen): Shop Julian Bowen furniture collection at Living With Luxury. Stylish beds, cabinets & more with free UK delivery over £250 – quality pieces for every home.
-  Updated: 2026-04-15T13:33:48Z
-  Total Products: 599
+  Updated: 2026-04-23T12:31:16Z
+  Total Products: 635
 - [Buy Living With Luxury Premium Furniture & Home Decor UK](https://www.livingwithluxury.co.uk/collections/living-with-luxury): Buy Living With Luxury collection featuring premium furniture, stylish décor & elegant home pieces. Discover top quality UK delivery & free shipping over £250.
-  Updated: 2026-04-15T12:53:38Z
-  Total Products: 782
+  Updated: 2026-04-27T18:09:49Z
+  Total Products: 746
 - [Buy Collector Luxury Furniture Online – Premium Home Pieces](https://www.livingwithluxury.co.uk/collections/collector): Buy collector furniture & decor from Living With Luxury. Discover premium handcrafted sofas, tables & stylish pieces that elevate your home with fine design.
   Updated: 2026-04-13T16:43:57Z
   Total Products: 92
 - [Buy Botanical Boys Home Decor & Furniture Collection UK](https://www.livingwithluxury.co.uk/collections/botanical-boys): Explore premium botanical boys furniture & décor at Living With Luxury. Shop nature‑inspired, handcrafted pieces for stylish interiors. Free shipping over £250.
-  Updated: 2026-03-29T08:24:25Z
-  Total Products: 96
+  Updated: 2026-04-27T11:40:39Z
+  Total Products: 197
 - [Buy Fishe and Lilly Furniture UK – Stylish Wood Pieces](https://www.livingwithluxury.co.uk/collections/fishe-and-lilly): Buy Fishe and Lilly furniture collection at Living With Luxury. Premium Scandinavian & walnut wood designs for modern homes with free UK delivery over £250.
   Updated: 2026-03-29T08:24:32Z
   Total Products: 43
@@ -1882,91 +1882,91 @@
   Updated: 2026-03-30T11:44:57Z
   Total Products: 491
 - [Baby](https://www.livingwithluxury.co.uk/collections/baby-2)
-  Updated: 2026-03-29T08:24:49Z
+  Updated: 2026-04-21T11:01:07Z
   Total Products: 20
 - [All Bedroom](https://www.livingwithluxury.co.uk/collections/all-bedroom)
-  Updated: 2026-04-15T12:40:16Z
-  Total Products: 582
+  Updated: 2026-04-17T13:13:26Z
+  Total Products: 578
 - [All Storage](https://www.livingwithluxury.co.uk/collections/all-storage)
-  Updated: 2026-04-15T12:27:31Z
+  Updated: 2026-04-17T12:24:35Z
   Total Products: 148
 - [All Home & Living](https://www.livingwithluxury.co.uk/collections/all-home-living)
-  Updated: 2026-04-15T13:16:13Z
+  Updated: 2026-04-17T11:22:51Z
   Total Products: 339
 - [Childrens](https://www.livingwithluxury.co.uk/collections/childrens)
-  Updated: 2026-04-15T12:05:16Z
+  Updated: 2026-04-16T17:31:38Z
   Total Products: 2
 - [Mid Sleepers](https://www.livingwithluxury.co.uk/collections/mid-sleepers)
   Updated: 2026-04-08T07:10:50Z
   Total Products: 0
 - [Rise & Recline Chairs](https://www.livingwithluxury.co.uk/collections/rise-recline-chairs)
-  Updated: 2026-04-15T12:53:38Z
+  Updated: 2026-04-19T05:54:06Z
   Total Products: 6
 - [Daybeds](https://www.livingwithluxury.co.uk/collections/daybeds)
-  Updated: 2026-04-14T10:10:12Z
+  Updated: 2026-04-19T05:53:46Z
   Total Products: 4
 - [Underbeds](https://www.livingwithluxury.co.uk/collections/underbeds)
-  Updated: 2026-04-13T12:36:03Z
+  Updated: 2026-04-19T05:54:11Z
   Total Products: 3
 - [Storage Beds](https://www.livingwithluxury.co.uk/collections/storage-beds)
-  Updated: 2026-04-15T10:59:28Z
+  Updated: 2026-04-19T05:54:09Z
   Total Products: 4
 - [Dining Sets](https://www.livingwithluxury.co.uk/collections/dining-sets)
-  Updated: 2026-04-15T07:59:05Z
+  Updated: 2026-04-19T05:53:47Z
   Total Products: 5
 - [Living & Dininig](https://www.livingwithluxury.co.uk/collections/living-dininig)
-  Updated: 2026-04-15T09:25:33Z
+  Updated: 2026-04-19T05:53:59Z
   Total Products: 12
 - [Sofa Beds](https://www.livingwithluxury.co.uk/collections/sofa-beds)
-  Updated: 2026-04-14T08:24:51Z
+  Updated: 2026-04-19T05:54:07Z
   Total Products: 1
 - [Luxury Sofa Bed](https://www.livingwithluxury.co.uk/collections/luxury-sofa-bed)
-  Updated: 2026-04-15T13:07:47Z
+  Updated: 2026-04-19T05:54:01Z
   Total Products: 2
 - [Office Chair](https://www.livingwithluxury.co.uk/collections/office-chair)
-  Updated: 2026-04-15T11:38:47Z
+  Updated: 2026-04-19T05:54:04Z
   Total Products: 10
 - [Accent Chair](https://www.livingwithluxury.co.uk/collections/accent-chair)
-  Updated: 2026-04-15T07:41:45Z
+  Updated: 2026-04-19T05:53:38Z
   Total Products: 4
 - [Drawer Chests](https://www.livingwithluxury.co.uk/collections/drawer-chests)
-  Updated: 2026-04-15T12:38:13Z
-  Total Products: 10
+  Updated: 2026-04-19T05:53:49Z
+  Total Products: 11
 - [Giorgio Chair](https://www.livingwithluxury.co.uk/collections/giorgio-chair)
-  Updated: 2026-04-14T09:39:55Z
+  Updated: 2026-04-19T05:53:53Z
   Total Products: 1
 - [Bar Stools](https://www.livingwithluxury.co.uk/collections/bar-stools)
-  Updated: 2026-04-15T13:33:48Z
+  Updated: 2026-04-19T05:53:39Z
   Total Products: 6
 - [Grafton Square Table](https://www.livingwithluxury.co.uk/collections/grafton-square-table)
-  Updated: 2026-04-14T10:44:23Z
+  Updated: 2026-04-19T05:53:55Z
   Total Products: 1
 - [Table](https://www.livingwithluxury.co.uk/collections/table)
-  Updated: 2026-04-15T06:29:35Z
+  Updated: 2026-04-19T05:54:10Z
   Total Products: 2
 - [Gramercy Chair](https://www.livingwithluxury.co.uk/collections/gramercy-chair)
-  Updated: 2026-04-14T10:56:09Z
+  Updated: 2026-04-19T05:53:56Z
   Total Products: 1
 - [Drink Table](https://www.livingwithluxury.co.uk/collections/drink-table)
-  Updated: 2026-04-15T05:52:12Z
+  Updated: 2026-04-19T05:53:52Z
   Total Products: 1
 - [Home Office](https://www.livingwithluxury.co.uk/collections/home-office)
-  Updated: 2026-04-15T11:38:47Z
+  Updated: 2026-04-19T05:53:57Z
   Total Products: 3
 - [Drawers](https://www.livingwithluxury.co.uk/collections/drawers)
-  Updated: 2026-04-15T11:41:56Z
+  Updated: 2026-04-19T05:53:51Z
   Total Products: 6
 - [5 Drawers](https://www.livingwithluxury.co.uk/collections/5-drawers)
-  Updated: 2026-04-15T10:37:37Z
+  Updated: 2026-04-19T05:53:35Z
   Total Products: 2
 - [Accent Bench](https://www.livingwithluxury.co.uk/collections/accent-bench)
-  Updated: 2026-04-15T09:55:10Z
+  Updated: 2026-04-19T05:53:37Z
   Total Products: 3
 - [Leather Bench](https://www.livingwithluxury.co.uk/collections/leather-bench)
-  Updated: 2026-04-15T09:36:15Z
+  Updated: 2026-04-19T05:53:58Z
   Total Products: 1
 - [Comfortable Bench](https://www.livingwithluxury.co.uk/collections/comfortable-bench)
-  Updated: 2026-04-15T09:45:19Z
+  Updated: 2026-04-19T05:53:45Z
   Total Products: 1
 
 ## Blogs
