@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-10-28T06:19:18Z
 - Contact Email: info@palaisdecirce.com
-- Updated At: 2026-04-21T00:00:25.825Z
+- Updated At: 2026-04-28T00:00:33.544Z
 
 ## Products
 
@@ -434,7 +434,7 @@
     Availability: Not Available
     Price: ₹2,999.00 INR
 - [THE SHRILLS TOP](https://palaisdecirce.com/products/the-shrills-top): A call you don’t escape. The Shrills Top is sculpted to cling, cut, and command, sharp lines softened by fluid movement, like a siren mid-song. Designed to frame the body with intention, it plays between restraint and release, power and allure. Every detail feels deliberate: the tension of the fit, the way it holds you close, the subtle drama it carries without asking for attention. This isn’t softness, it’s seduction sharpened. Wear it when you want to be heard without raising your voice. When silence feels louder than sound. When desire is . Circe Desire violently.
-  Updated: 2026-03-26T18:47:52Z
+  Updated: 2026-04-21T06:53:21Z
   Vendor: Circe
   Product Type: 
   Availability: Available
@@ -476,7 +476,7 @@
   Image: https://cdn.shopify.com/s/files/1/0906/1983/8766/files/75A8011.jpg?v=1774267452
   Price: ₹3,999.00 INR
 - [The Riot](https://palaisdecirce.com/products/untitled-mar25_17-35): Unrestrained. Crafted from 100% genuine leather, Riot is defined by its intensity; a striking red that refuses to settle into the background. It holds its shape with structure, yet yields just enough, softening with time and wear. Every detail is deliberate. Clean edges, precise stitching, no excess, just a bold presence carried with control. Inside, a considered layout keeps essentials in place without distraction. Built for function, carried for impact. The leather is responsibly sourced, selected for its durability and natural character. Details 100% genuine leather Bifold construction Multiple card slots Cash compartment Hand-finished edges
-  Updated: 2026-03-28T00:41:01Z
+  Updated: 2026-04-21T06:52:38Z
   Vendor: Circe
   Product Type: 
   Availability: Available
@@ -489,13 +489,13 @@
   Updated: 2026-04-18T09:36:44Z
   Total Products: 17
 - [NEW ARRIVALS](https://palaisdecirce.com/collections/new-arrivals)
-  Updated: 2026-04-18T09:36:44Z
+  Updated: 2026-04-21T11:24:40Z
   Total Products: 10
 - [BLOODCRIES](https://palaisdecirce.com/collections/bloodcries): BLOODCRIES is born from pressure, what happens when restraint holds for too long and finally learns to speak. Anchored by The Frostbark and The Shrills Top, this range explores silence as a  and desire as an act of resistance. Structured denim is crushed, set, and hardened by hand to mimic barked surfaces, armour that remembers impact. The Frostbark stands rigid yet responsive, sleeveless and cropped, exposing defiance without softness. It doesn’t drape. It holds. The Shrills Top answers differently. Sculpted to cling, cut, and command, it moves like a siren mid-song, sharp lines softened by fluidity, tension pulled tight against the body. It frames power and allure in equal measure, never asking permission, never needing volume. Every detail is deliberate: the pressure of the fit, the control in the construction, the drama that lingers without spectacle. This is not comfort. This is seduction sharpened. Bloodcries is for moments when silence feels louder than sound.When being heard doesn’t require a voice.When desire turns . Cold in finish.Lethal in intention.
-  Updated: 2026-04-18T09:36:44Z
+  Updated: 2026-04-21T11:24:40Z
   Total Products: 2
 - [The Man She Lets In](https://palaisdecirce.com/collections/the-man-she-lets-in)
-  Updated: 2026-04-17T11:23:21Z
+  Updated: 2026-04-21T11:24:40Z
   Total Products: 4
 
 ## Store Pages
