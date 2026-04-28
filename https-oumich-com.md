@@ -10,12 +10,12 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 - Timezone: Europe/Brussels
 - Created At: 2025-05-21T21:01:24Z
 - Contact Email: info@newbro.be
-- Updated At: 2026-02-08T00:00:41.714Z
+- Updated At: 2026-04-28T20:54:09.333Z
 
 ## Products
 
 - [Premium Hijab - Basic Hoofddoek | byOumich](https://oumich.com/products/premium-hijab-basic-hoofddoek): Hijab ✓ Gratis verzending NL/BE vanaf €30 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2026-01-11T01:38:04Z
+  Updated: 2026-04-19T19:44:54Z
   Vendor: byOumich
   Product Type: Direct sales
   Availability: Available
@@ -23,79 +23,79 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
   - [Lila Grijs](https://oumich.com/products/premium-hijab-basic-hoofddoek?variant=55806945821052)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_352.webp?v=1767837183
-    Price: € 18,35 EUR
+    Price: € 6,50 EUR
   - [Prelude](https://oumich.com/products/premium-hijab-basic-hoofddoek?variant=55737994281340)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/file_0000000046d87243b10cf5eb767420c8_1.png?v=1767837183
-    Price: € 18,35 EUR
+    Price: € 6,50 EUR
   - [Zwart](https://oumich.com/products/premium-hijab-basic-hoofddoek?variant=55658487153020)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Black_model.webp?v=1767837183
-    Price: € 18,35 EUR
+    Price: € 6,50 EUR
   - [Wit](https://oumich.com/products/premium-hijab-basic-hoofddoek?variant=55768113250684)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_209.webp?v=1767837183
-    Price: € 18,35 EUR
+    Price: € 6,50 EUR
   - [Roze](https://oumich.com/products/premium-hijab-basic-hoofddoek?variant=55804757705084)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_262.webp?v=1767837183
-    Price: € 18,35 EUR
+    Price: € 6,50 EUR
   - [Oud Roze](https://oumich.com/products/premium-hijab-basic-hoofddoek?variant=55804761309564)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_96_8f56d6e5-e7fb-4c18-8e4b-44825ed7a620.webp?v=1768083263
-    Price: € 18,35 EUR
+    Price: € 6,50 EUR
   - [Hampton](https://oumich.com/products/premium-hijab-basic-hoofddoek?variant=55658487087484)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_286.webp?v=1767837183
-    Price: € 18,35 EUR
+    Price: € 6,50 EUR
   - [Tan](https://oumich.com/products/premium-hijab-basic-hoofddoek?variant=55737995559292)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_335.webp?v=1768084567
-    Price: € 18,35 EUR
+    Price: € 6,50 EUR
   - [Lichte Klei](https://oumich.com/products/premium-hijab-basic-hoofddoek?variant=55768332861820)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_337.webp?v=1768084567
-    Price: € 18,35 EUR
+    Price: € 6,50 EUR
   - [Beige](https://oumich.com/products/premium-hijab-basic-hoofddoek?variant=55806970003836)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_285_detail_beige.jpg?v=1767837183
-    Price: € 18,35 EUR
+    Price: € 6,50 EUR
   - [Kashmir Blauw](https://oumich.com/products/premium-hijab-basic-hoofddoek?variant=55806884807036)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_371.webp?v=1767837183
-    Price: € 18,35 EUR
+    Price: € 6,50 EUR
   - [Konings Blauw](https://oumich.com/products/premium-hijab-basic-hoofddoek?variant=55804763537788)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_142.webp?v=1767837183
-    Price: € 18,35 EUR
+    Price: € 6,50 EUR
   - [Cape Cod](https://oumich.com/products/premium-hijab-basic-hoofddoek?variant=55737996312956)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_177_bis.webp?v=1768088008
-    Price: € 18,35 EUR
+    Price: € 6,50 EUR
   - [Donker Grijs](https://oumich.com/products/premium-hijab-basic-hoofddoek?variant=55737997459836)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_317.webp?v=1767837183
-    Price: € 18,35 EUR
+    Price: € 6,50 EUR
   - [Donker Bruin](https://oumich.com/products/premium-hijab-basic-hoofddoek?variant=55658487120252)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Donker_Bruin_LQ_82c981a3-87c4-4ae5-8faa-71ecd1390c1f.jpg?v=1768087232
-    Price: € 18,35 EUR
+    Price: € 6,50 EUR
   - [Donker Groen](https://oumich.com/products/premium-hijab-basic-hoofddoek?variant=55768100045180)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_43.webp?v=1767837183
-    Price: € 18,35 EUR
+    Price: € 6,50 EUR
   - [Oosters Blauw](https://oumich.com/products/premium-hijab-basic-hoofddoek?variant=55768228561276)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_164.webp?v=1767837183
-    Price: € 18,35 EUR
+    Price: € 6,50 EUR
   - [Koper](https://oumich.com/products/premium-hijab-basic-hoofddoek?variant=55768271454588)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Koper_LQ_fd4dc3b3-3656-43ac-9c60-b871d2d43af3.jpg?v=1768087232
-    Price: € 18,35 EUR
+    Price: € 6,50 EUR
   - [Dennenappel](https://oumich.com/products/premium-hijab-basic-hoofddoek?variant=55768412684668)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_21_5884af7f-3b97-4e56-88e8-a270de6ca701.webp?v=1768084199
-    Price: € 18,35 EUR
+    Price: € 6,50 EUR
 - [Hijab - Hoofddoek | byOumich](https://oumich.com/products/no-snag-hijab-clip-een-set-van-vier): Hijab ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
   Updated: 2026-02-04T00:22:09Z
   Vendor: byOumich
@@ -119,7 +119,7 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/sluitpinnen_Hijab_2.webp?v=1757344329
     Price: € 1,50 EUR
 - [Premium jersey hijab - Jersey hoofddoek | byOumich](https://oumich.com/products/premium-jersey-met-lijn): Premium jersey hijab ✓ Gratis verzending NL/BE vanaf €30 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2026-01-11T16:50:51Z
+  Updated: 2026-03-22T21:31:21Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
@@ -127,132 +127,118 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
   - [Envy](https://oumich.com/products/premium-jersey-met-lijn?variant=55836823191932)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_42.webp?v=1768088293
-    Price: € 18,75 EUR
+    Price: € 7,00 EUR
   - [Pine Cone](https://oumich.com/products/premium-jersey-met-lijn?variant=55836822962556)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Pine_Cone_LQ.jpg?v=1768088293
-    Price: € 18,75 EUR
+    Price: € 7,00 EUR
   - [Dove Grey](https://oumich.com/products/premium-jersey-met-lijn?variant=55836822995324)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Dove_Grey_LQ.jpg?v=1768088293
-    Price: € 18,75 EUR
+    Price: € 7,00 EUR
   - [Almond Frost](https://oumich.com/products/premium-jersey-met-lijn?variant=55836823060860)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Almond_Frost_LQ.jpg?v=1768088293
-    Price: € 18,75 EUR
+    Price: € 7,00 EUR
   - [Pickled Bluewood](https://oumich.com/products/premium-jersey-met-lijn?variant=55836823159164)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_3.webp?v=1768088293
-    Price: € 18,75 EUR
+    Price: € 7,00 EUR
   - [Black](https://oumich.com/products/premium-jersey-met-lijn?variant=55836822897020)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_13.webp?v=1768088293
-    Price: € 18,75 EUR
+    Price: € 7,00 EUR
   - [Clam Shell](https://oumich.com/products/premium-jersey-met-lijn?variant=55836822929788)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_69_ed9f6aeb-b458-4e42-b6c5-4edb44fe0cea.webp?v=1768075021
-    Price: € 18,75 EUR
+    Price: € 7,00 EUR
   - [Parelmoer](https://oumich.com/products/premium-jersey-met-lijn?variant=55836823093628)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_66_43c656e9-5c8d-4d89-b3c3-0bfe05dc08c5.webp?v=1768088293
-    Price: € 18,75 EUR
+    Price: € 7,00 EUR
   - [Calypso](https://oumich.com/products/premium-jersey-met-lijn?variant=55836823126396)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Calypso_LQ.jpg?v=1768088293
-    Price: € 18,75 EUR
+    Price: € 7,00 EUR
   - [Saddle](https://oumich.com/products/premium-jersey-met-lijn?variant=55836823224700)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_24.webp?v=1768088293
-    Price: € 18,75 EUR
-- [Allsea 6010 - volledig bedekkend marine blauw badpak met rood groen patroon | byOumich](https://oumich.com/products/allsea-6010-volledig-bedekkend-badpak-met-rood-groen-en-blauw-patroon): Dit volledig bedekkend marine blauw badpak met rood groen patroon combineert elegantie en comfort en is perfect voor op het strand of bij het zwembad.
-  Updated: 2026-01-06T00:15:28Z
-  Vendor: byOumich
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/1_org_zoom_light.jpg?v=1762983272
-  Price: € 34,95 EUR
+    Price: € 7,00 EUR
 - [Aquarel print hijab Grijs - Print hoofddoek | byOumich](https://oumich.com/products/hijab-aquarel-print-katoen-1-grijs): Aquarel print hijab grijs ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2026-01-11T01:36:27Z
+  Updated: 2026-03-22T21:29:39Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_128.webp?v=1768003096
-  Price: € 18,95 EUR
+  Price: € 7,50 EUR
 - [Aquarel print hijab Grijs - Print hoofddoek | byOumich](https://oumich.com/products/hijab-aquarel-print-katoen-3-marmer-grijs): Aquarel print hijab grijs ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2026-01-11T01:36:26Z
+  Updated: 2026-03-22T21:29:39Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/watercolor_marmer_grijs.jpg?v=1763746622
-  Price: € 18,95 EUR
+  Price: € 7,50 EUR
 - [Aquarel print hijab - Print hoofddoek | byOumich](https://oumich.com/products/hijab-aquarel-print-katoen-4-aquarel-rood): Aquarel print hijab ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2026-01-11T01:36:27Z
+  Updated: 2026-03-22T21:29:38Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_99.webp?v=1768002157
-  Price: € 18,95 EUR
-- [Aquarel print hijab - Print hoofddoek | byOumich](https://oumich.com/products/hijab-aquarel-print-katoen-5-cyaan): Aquarel print hijab ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2026-01-11T01:36:27Z
-  Vendor: byOumich
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_306.webp?v=1768000785
-  Price: € 18,95 EUR
+  Price: € 7,50 EUR
 - [Aquarel print hijab - Print hoofddoek | byOumich](https://oumich.com/products/hijab-aquarel-print-katoen-7-marmer-roze): Aquarel print hijab ✓ Gratis verzending NL/BE vanaf €50 ✓ 30 dagen retourrecht ✓ Premium kwaliteit | Shop nu byOumich
-  Updated: 2026-02-04T10:33:03Z
+  Updated: 2026-04-27T17:03:06Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_203.webp?v=1768000785
-  Price: € 18,95 EUR
+  Price: € 7,50 EUR
 - [Premium Hijab Spelden Set - 8 Stuks Ovaal Neutrale Mix | byOumich](https://oumich.com/products/premium-hijab-spelden-set-8-stuks-ovaal-neutrale-mix): Shop 8 ovale hijab spelden in neutrale kleuren (nude, grijs, zwart). Veilig, geen scheurtjes. Premium kwaliteit. Gratis verzending vanaf €50. Bestel nu!
-  Updated: 2026-01-06T00:09:31Z
+  Updated: 2026-03-16T22:33:52Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
   - [8 stuks - color mix 1](https://oumich.com/products/premium-hijab-spelden-set-8-stuks-ovaal-neutrale-mix?variant=56066187723132)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/variant_1.avif?v=1764628129
-    Price: € 5,00 EUR
+    Price: € 4,20 EUR
   - [8 stuks - wit](https://oumich.com/products/premium-hijab-spelden-set-8-stuks-ovaal-neutrale-mix?variant=56066187755900)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/variant_2.avif?v=1764628363
-    Price: € 5,00 EUR
+    Price: € 4,20 EUR
   - [8 stuks - wit en zwart](https://oumich.com/products/premium-hijab-spelden-set-8-stuks-ovaal-neutrale-mix?variant=56066187788668)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/variant_3.avif?v=1764628482
-    Price: € 5,00 EUR
+    Price: € 4,20 EUR
   - [8 stuks - color mix 2](https://oumich.com/products/premium-hijab-spelden-set-8-stuks-ovaal-neutrale-mix?variant=56066187821436)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/variant_4.avif?v=1764628564
-    Price: € 5,00 EUR
+    Price: € 4,20 EUR
   - [8 stuks - zwart](https://oumich.com/products/premium-hijab-spelden-set-8-stuks-ovaal-neutrale-mix?variant=56066187854204)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/variant_5.avif?v=1764628721
-    Price: € 5,00 EUR
+    Price: € 4,20 EUR
   - [8 stuks - metaalkleur](https://oumich.com/products/premium-hijab-spelden-set-8-stuks-ovaal-neutrale-mix?variant=56066187886972)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/variant_6.avif?v=1764628881
-    Price: € 5,00 EUR
+    Price: € 4,20 EUR
   - [8 stuks - color mix 3](https://oumich.com/products/premium-hijab-spelden-set-8-stuks-ovaal-neutrale-mix?variant=56066187919740)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/variant_7.avif?v=1764629012
-    Price: € 5,00 EUR
+    Price: € 4,20 EUR
   - [8 stuks - color mix 4](https://oumich.com/products/premium-hijab-spelden-set-8-stuks-ovaal-neutrale-mix?variant=56066197913980)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/variant_8.avif?v=1764629201
-    Price: € 5,00 EUR
+    Price: € 4,20 EUR
   - [8 stuks - color blauw](https://oumich.com/products/premium-hijab-spelden-set-8-stuks-ovaal-neutrale-mix?variant=56066198077820)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/variant_9.avif?v=1764629284
-    Price: € 5,00 EUR
+    Price: € 4,20 EUR
   - [8 stuks - color groen](https://oumich.com/products/premium-hijab-spelden-set-8-stuks-ovaal-neutrale-mix?variant=56066198208892)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/variant_10.avif?v=1764629338
-    Price: € 5,00 EUR
+    Price: € 4,20 EUR
 - [Instant Hijab met Knopen | Ready-to-Wear Hoofddoek | byOumich](https://oumich.com/products/instant-hijab-met-knopen): Koop de instant hijab met knopen. Ademend, comfortabel en makkelijk te dragen zonder spelden. Gratis verzending. Bestel nu bij byOumich
-  Updated: 2026-02-03T20:41:43Z
+  Updated: 2026-04-03T20:43:17Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
@@ -260,37 +246,37 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
   - [Wine Red](https://oumich.com/products/instant-hijab-met-knopen?variant=56104879554940)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_223.webp?v=1768089932
-    Price: € 15,50 EUR
+    Price: € 7,00 EUR
   - [Black](https://oumich.com/products/instant-hijab-met-knopen?variant=56104879522172)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_247.webp?v=1768089932
-    Price: € 15,50 EUR
+    Price: € 7,00 EUR
   - [Wit](https://oumich.com/products/instant-hijab-met-knopen?variant=56104879587708)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/InstantcolorZD.avif?v=1768089932
-    Price: € 15,50 EUR
+    Price: € 7,00 EUR
   - [Marineblauw](https://oumich.com/products/instant-hijab-met-knopen?variant=56104879620476)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_216.webp?v=1768089932
-    Price: € 15,50 EUR
+    Price: € 7,00 EUR
   - [Konings Blauw](https://oumich.com/products/instant-hijab-met-knopen?variant=56104879653244)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_237.webp?v=1768089932
-    Price: € 15,50 EUR
+    Price: € 7,00 EUR
   - [Camel](https://oumich.com/products/instant-hijab-met-knopen?variant=56104879686012)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_233.webp?v=1768089932
-    Price: € 15,50 EUR
+    Price: € 7,00 EUR
   - [Donker Bruin](https://oumich.com/products/instant-hijab-met-knopen?variant=56104879718780)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_235.webp?v=1768089932
-    Price: € 15,50 EUR
+    Price: € 7,00 EUR
   - [Oud Roze](https://oumich.com/products/instant-hijab-met-knopen?variant=56104879751548)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/IMG_269.webp?v=1768089426
-    Price: € 15,50 EUR
+    Price: € 7,00 EUR
 - [Gekruiste Onder-Hijab | Comfortabele Hijab Cap](https://oumich.com/products/gekruiste-onder-hijab): Shop een comfortabele gekruiste onder-hijab. Zacht, ademend en perfect passend. De ideale hijab cap voor dagelijks gebruik.
-  Updated: 2026-02-04T00:22:05Z
+  Updated: 2026-03-22T19:11:11Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
@@ -298,37 +284,37 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
   - [Chocalate Brown](https://oumich.com/products/gekruiste-onder-hijab?variant=56172483936636)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Light_Mocha.avif?v=1768090814
-    Price: € 5,50 EUR
+    Price: € 4,50 EUR
   - [Cool Grey](https://oumich.com/products/gekruiste-onder-hijab?variant=56172483969404)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Cool_Grey.avif?v=1768090814
-    Price: € 5,50 EUR
+    Price: € 4,50 EUR
   - [Dark Navy](https://oumich.com/products/gekruiste-onder-hijab?variant=56172484002172)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Dark_Navy.avif?v=1768090814
-    Price: € 5,50 EUR
+    Price: € 4,50 EUR
   - [Light Mocha](https://oumich.com/products/gekruiste-onder-hijab?variant=56172492783996)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Chocolate_Brown.avif?v=1768090814
-    Price: € 5,50 EUR
+    Price: € 4,50 EUR
   - [Pearl White](https://oumich.com/products/gekruiste-onder-hijab?variant=56172492816764)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Pearl_White.avif?v=1768090814
-    Price: € 5,50 EUR
+    Price: € 4,50 EUR
   - [Soft Black](https://oumich.com/products/gekruiste-onder-hijab?variant=56172492849532)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Soft_Black.avif?v=1768090814
-    Price: € 5,50 EUR
+    Price: € 4,50 EUR
   - [Soft Taupe](https://oumich.com/products/gekruiste-onder-hijab?variant=56172492882300)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Soft_Taupe.avif?v=1768090814
-    Price: € 5,50 EUR
+    Price: € 4,50 EUR
   - [Warm Nude](https://oumich.com/products/gekruiste-onder-hijab?variant=56172492915068)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Warm_Nude_Beige.avif?v=1768090814
-    Price: € 5,50 EUR
+    Price: € 4,50 EUR
 - [Elastische Onderhijab | Comfortabele Undercap voor Hijab](https://oumich.com/products/elastische-onderhijab-comfort-fit): Comfortabele elastische onderhijab die niet schuift. Ademend, zacht en ideaal voor dagelijks gebruik onder elke hijab.
-  Updated: 2026-01-11T12:49:36Z
+  Updated: 2026-04-19T19:45:03Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
@@ -336,33 +322,33 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
   - [Black](https://oumich.com/products/elastische-onderhijab-comfort-fit?variant=56215302308220)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/black.avif?v=1768092533
-    Price: € 5,00 EUR
+    Price: € 4,00 EUR
   - [white](https://oumich.com/products/elastische-onderhijab-comfort-fit?variant=56215302340988)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/white.avif?v=1768092533
-    Price: € 5,00 EUR
+    Price: € 4,00 EUR
   - [dark grey](https://oumich.com/products/elastische-onderhijab-comfort-fit?variant=56215302373756)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/darkgrey.avif?v=1768092533
-    Price: € 5,00 EUR
+    Price: € 4,00 EUR
   - [Cool Grey](https://oumich.com/products/elastische-onderhijab-comfort-fit?variant=56215302406524)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/lightgrey.avif?v=1768092533
-    Price: € 5,00 EUR
+    Price: € 4,00 EUR
   - [Dark Navy](https://oumich.com/products/elastische-onderhijab-comfort-fit?variant=56215302439292)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/navyblue.avif?v=1768092533
-    Price: € 5,00 EUR
+    Price: € 4,00 EUR
   - [Almond Frost](https://oumich.com/products/elastische-onderhijab-comfort-fit?variant=56215302472060)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/almondfrost.avif?v=1768092533
-    Price: € 5,00 EUR
+    Price: € 4,00 EUR
   - [Chocalate Brown](https://oumich.com/products/elastische-onderhijab-comfort-fit?variant=56215302504828)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/chocolat.avif?v=1768092533
-    Price: € 5,00 EUR
+    Price: € 4,00 EUR
 - [Satijnen Plissé Hijab Kopen](https://oumich.com/products/satijnen-plisse-hijab): Ontdek onze satijnen plissé hijab met luxe zijdeglans. Licht, ademend en kreukvrij.
-  Updated: 2026-02-05T20:49:38Z
+  Updated: 2026-03-22T21:28:37Z
   Vendor: byOumich
   Product Type: 
   Availability: Available
@@ -370,87 +356,87 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
   - [Charcoal Grey](https://oumich.com/products/satijnen-plisse-hijab?variant=56314987807100)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Plisse_CharcoalBlack.avif?v=1770161094
-    Price: € 19,50 EUR
+    Price: € 8,00 EUR
   - [Midnight Blue](https://oumich.com/products/satijnen-plisse-hijab?variant=56314987839868)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Plisse_MidnightBlue.avif?v=1770160607
-    Price: € 19,50 EUR
+    Price: € 8,00 EUR
   - [Wine Red](https://oumich.com/products/satijnen-plisse-hijab?variant=56314987872636)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Plisse_WineRed.avif?v=1770160690
-    Price: € 19,50 EUR
+    Price: € 8,00 EUR
   - [Dark Chocolate](https://oumich.com/products/satijnen-plisse-hijab?variant=56321834189180)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Plisse_ChocolateBrown.avif?v=1770324363
-    Price: € 19,50 EUR
+    Price: € 8,00 EUR
   - [Olive Khaki](https://oumich.com/products/satijnen-plisse-hijab?variant=56314987905404)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Plisse_OliveKhaki.avif?v=1770160822
-    Price: € 19,50 EUR
+    Price: € 8,00 EUR
   - [Stormy Grey](https://oumich.com/products/satijnen-plisse-hijab?variant=56314987938172)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Plisse_StormyGrey.avif?v=1770160883
-    Price: € 19,50 EUR
+    Price: € 8,00 EUR
   - [Dusty Rose](https://oumich.com/products/satijnen-plisse-hijab?variant=56314987970940)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Plisse_DustyRose.avif?v=1770160939
-    Price: € 19,50 EUR
+    Price: € 8,00 EUR
   - [Mauve Purple](https://oumich.com/products/satijnen-plisse-hijab?variant=56314988003708)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Plisse_MauvePurple.avif?v=1770160982
-    Price: € 19,50 EUR
+    Price: € 8,00 EUR
   - [Powder Pink](https://oumich.com/products/satijnen-plisse-hijab?variant=56314988036476)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Plisse_PowderPink.avif?v=1770161031
-    Price: € 19,50 EUR
+    Price: € 8,00 EUR
   - [Pastel Purple](https://oumich.com/products/satijnen-plisse-hijab?variant=56321768391036)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Plisse_19_PastelPurple.avif?v=1770321617
-    Price: € 19,50 EUR
+    Price: € 8,00 EUR
   - [Soft Pink](https://oumich.com/products/satijnen-plisse-hijab?variant=56321787920764)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Plisse_20_SoftPink.avif?v=1770321846
-    Price: € 19,50 EUR
+    Price: € 8,00 EUR
   - [Dark Mauve](https://oumich.com/products/satijnen-plisse-hijab?variant=56321790935420)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Plisse_DarkMauve.avif?v=1770322181
-    Price: € 19,50 EUR
+    Price: € 8,00 EUR
   - [Rose Taupe](https://oumich.com/products/satijnen-plisse-hijab?variant=56321793491324)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Plisse_RoseTaupe.avif?v=1770322665
-    Price: € 19,50 EUR
+    Price: € 8,00 EUR
   - [Warm Beige](https://oumich.com/products/satijnen-plisse-hijab?variant=56321796735356)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Plisse_WarmBeige.avif?v=1770322665
-    Price: € 19,50 EUR
+    Price: € 8,00 EUR
   - [Silver Grey](https://oumich.com/products/satijnen-plisse-hijab?variant=56321803321724)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Plisse_SilverGrey.avif?v=1770322938
-    Price: € 19,50 EUR
+    Price: € 8,00 EUR
   - [Lilac Grey](https://oumich.com/products/satijnen-plisse-hijab?variant=56321808171388)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Plisse_LilacGrey.avif?v=1770323169
-    Price: € 19,50 EUR
+    Price: € 8,00 EUR
   - [Light Taupe](https://oumich.com/products/satijnen-plisse-hijab?variant=56321815839100)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Plisse_LightTaupe.avif?v=1770323469
-    Price: € 19,50 EUR
+    Price: € 8,00 EUR
   - [Sky Blue](https://oumich.com/products/satijnen-plisse-hijab?variant=56321822654844)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Plisse_SkyBlue.avif?v=1770323633
-    Price: € 19,50 EUR
+    Price: € 8,00 EUR
   - [Cool Silver](https://oumich.com/products/satijnen-plisse-hijab?variant=56321823539580)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Plisse_CoolSilver.avif?v=1770323807
-    Price: € 19,50 EUR
+    Price: € 8,00 EUR
   - [Rose Mauve](https://oumich.com/products/satijnen-plisse-hijab?variant=56321827242364)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Plisse_RoseMauve.avif?v=1770323991
-    Price: € 19,50 EUR
+    Price: € 8,00 EUR
   - [Warm Terracotta](https://oumich.com/products/satijnen-plisse-hijab?variant=56321830945148)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0917/4876/1980/files/Plisse_WarmTerracotta.avif?v=1770324178
-    Price: € 19,50 EUR
+    Price: € 8,00 EUR
 
 ## Collections
 
@@ -464,53 +450,56 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
   Updated: 2025-12-01T20:17:07Z
   Total Products: 0
 - [Premium Jersey Hijabs Kopen](https://oumich.com/collections/premium-jersey-hijabs): Ontdek onze premium jersey hijabs. Zacht, stretchy en kreukvrij. Gratis verzending vanaf €50. ✓ 30 dagen retour ✓ Snelle levering in BE & NL
-  Updated: 2026-01-11T01:43:15Z
+  Updated: 2026-04-20T11:56:39Z
   Total Products: 1
 - [Decoratieve hijabs & sjaals](https://oumich.com/collections/decoratief-laat-je-zien)
-  Updated: 2026-02-04T12:45:59Z
+  Updated: 2026-04-28T12:00:30Z
   Total Products: 8
 - [ Hijabs](https://oumich.com/collections/): Onze koopjeshoek. Wees er snel bij!Hijabs in de aanbieding. Profiteer van kortingen op premium kwaliteit hijabs. Op = op. Shop nu bij byOumich.
-  Updated: 2026-01-06T00:34:58Z
+  Updated: 2026-02-08T22:42:17Z
   Total Products: 1
 - [Instant Hijabs Kopen](https://oumich.com/collections/instant-hijabs): Instant hijabs voor snelle styling. Klaar om te dragen in seconden. Ideaal voor drukke dagen. Shop de collectie bij byOumich.
-  Updated: 2026-01-11T01:43:04Z
+  Updated: 2026-04-04T11:44:23Z
   Total Products: 1
 - [Luxe Jersey Hijabs](https://oumich.com/collections/luxe-jersey-hijabs): Luxe jersey hijabs met elegante afwerking. Premium kwaliteit voor dagelijks gebruik én speciale gelegenheden. Shop nu bij byOumich.
-  Updated: 2026-01-11T02:02:16Z
+  Updated: 2026-03-23T11:53:44Z
   Total Products: 1
 - [Aquarel Print Hijabs](https://oumich.com/collections/aquarel-print-hijabs): Unieke hijabs met aquarel print in zacht modal katoen. Ademend, lichtgewicht en stijlvol. Bestel vandaag bij byOumich.
-  Updated: 2026-02-04T12:45:59Z
+  Updated: 2026-04-28T12:00:30Z
   Total Products: 8
 - [Hijab Pins & Magneten](https://oumich.com/collections/hijab-pins-magneten): Sterke hijab magneten en pins voor perfecte grip. Geen beschadiging aan je stof. Bestel accessoires bij byOumich.
-  Updated: 2026-02-04T12:45:59Z
+  Updated: 2026-03-16T22:33:24Z
   Total Products: 2
 - [Hijabs voor beginners | Makkelijk om te starten](https://oumich.com/collections/hijabs-voor-beginners): Net begonnen met hijab dragen? Ontdek hijabs die eenvoudig te dragen zijn en ideaal voor beginners.
-  Updated: 2026-01-11T01:43:15Z
+  Updated: 2026-04-20T11:56:39Z
   Total Products: 2
 - [Hijabs die goed blijven zitten | Comfort zonder afzakken](https://oumich.com/collections/hijabs-die-goed-blijven-zitten): Ontdek hijabs die goed blijven zitten en comfortabel zijn om de hele dag te dragen. Ideaal voor dagelijks gebruik, werk of school.
-  Updated: 2026-01-11T02:02:16Z
+  Updated: 2026-04-20T11:56:39Z
   Total Products: 3
 - [Hijabs zonder spelden | Makkelijk & comfortabel](https://oumich.com/collections/hijabs-zonder-spelden): Geen spelden nodig. Ontdek hijabs die makkelijk te dragen zijn en goed blijven zitten, ideaal voor dagelijks gebruik.
-  Updated: 2026-01-11T01:43:15Z
+  Updated: 2026-04-20T11:56:39Z
   Total Products: 2
 - [Hijabs voor dagelijks gebruik | Comfort elke dag](https://oumich.com/collections/hijabs-dagelijks-gebruik): Comfortabele hijabs voor dagelijks gebruik. Zacht voor de huid en aangenaam om de hele dag te dragen.
-  Updated: 2026-02-03T22:15:58Z
+  Updated: 2026-04-20T11:56:39Z
   Total Products: 4
 - [Hijabs voor werk en school | Praktisch & comfortabel](https://oumich.com/collections/hijabs-werk-school): Ontdek hijabs die geschikt zijn voor werk en school. Discreet, comfortabel en betrouwbaar tijdens lange dagen.
-  Updated: 2026-02-03T22:15:58Z
+  Updated: 2026-04-20T11:56:39Z
   Total Products: 4
 - [Decoratieve hijabs | Elegante hoofddoeken](https://oumich.com/collections/decoratieve-hijabs): Ontdek decoratieve hijabs voor een elegante uitstraling of speciale gelegenheden. Minder gericht op dagelijks gebruik.
-  Updated: 2026-02-04T12:45:59Z
+  Updated: 2026-04-28T12:00:30Z
   Total Products: 8
 - [Hijab kopen online | Comfortabele hijabs in België | byOumich](https://oumich.com/collections/hijab-kopen-online): Vind jouw ideale hijab online: blijft goed zitten, zonder spelden of perfect voor beginners. Snelle levering in België. Bekijk onze selectie nu.
-  Updated: 2026-02-04T12:45:59Z
+  Updated: 2026-04-28T12:00:30Z
   Total Products: 11
 - [Onder-Hijabs & Hijab Caps | Comfort & Perfecte Pasvorm](https://oumich.com/collections/onder-hijabs): Shop comfortabele onder-hijabs en hijab caps. Ademend, zacht en perfect passend. Ideaal voor dagelijks gebruik en elke hijabstijl.
-  Updated: 2026-02-04T12:45:59Z
+  Updated: 2026-04-20T11:56:39Z
   Total Products: 2
 - [Hijab Accessoires | Magneten, Spelden & Bonnets | byOumich](https://oumich.com/collections/accessoires): Ontdek onze collectie hijab accessoires: magneten, spelden, bonnets en meer. Alles voor de perfecte hijab-look. Gratis verzending vanaf €30. Shop nu!
-  Updated: 2026-02-04T12:45:59Z
+  Updated: 2026-04-20T11:56:39Z
   Total Products: 4
+- [Ramadan Hijabs | Comfort & Elegant – byOumich](https://oumich.com/collections/ramadan-hijab-collectie): Ontdek onze Ramadan collectie: zachte, ademende hijabs voor werk, school en iftar. Tijdelijk met uitzonderlijke kortingen. Shop nu bij byOumich.
+  Updated: 2026-04-28T12:00:30Z
+  Total Products: 11
 
 ## Blogs
 
@@ -533,6 +522,12 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
   - [Hijab Kopen België: byOumich vs Merrachi Vergelijking [2025]](https://oumich.com/blogs/byoumich-blogt/hijab-kopen-belgie-byoumich-vs-merrachi): Hijab Kopen België: byOumich vs Merrachi Vergelijking [2025]
     Updated: 2026-01-09T00:18:39Z
     Author: Bart Desmaretz
+  - [Hijab dragen op het werk of school in België | Rechten & tips [2026]](https://oumich.com/blogs/byoumich-blogt/hijab-dragen-werk-school-belgie-rechten-tips): Hijab dragen op het werk of school in België | Rechten & tips [2026]
+    Updated: 2026-03-18T22:52:52Z
+    Author: Bart Desmaretz
+  - [De beste bescheiden mode winkels online Beste modest fashion winkels online | Complete gids 2026ontdekken (2026 gids)](https://oumich.com/blogs/byoumich-blogt/beste-modest-fashion-winkels-online): De beste bescheiden mode winkels online Beste modest fashion winkels online | Complete gids 2026ontdekken (2026 gids)
+    Updated: 2026-04-20T01:29:41Z
+    Author: Bart Desmaretz
 
 ## Store Pages
 
@@ -542,8 +537,8 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
   Updated: 2025-12-11T22:38:32Z
 - [Veelgestelde Vragen over Hijabs | FAQ | byOumich](https://oumich.com/pages/faq): /* ======================================== FONTS - Voeg toe aan theme.liquid ======================================== */ @import url('https://font...
   Updated: 2025-12-11T17:04:33Z
-- [Retourneren & Terugbetalingen](https://oumich.com/pages/retourneren-terugbetalingen): Conform de Europese wetgeving heb je bij online aankopen binnen de EU het recht om je bestelling binnen 14 dagen na ontvangst te herroepen, zonder ...
-  Updated: 2025-12-01T00:57:02Z
+- [Retourneren & Terugbetalingen](https://oumich.com/pages/retourneren-terugbetalingen): Bij byOumich willen we dat je tevreden bent met je aankoop. Daarom bieden wij een retourtermijn van 30 dagen, zodat je rustig kan beslissen of je b...
+  Updated: 2026-03-12T20:58:15Z
 - [HTML Sitemap](https://oumich.com/pages/html-sitemap): Products Islam armband - Gegraveerde RVS Bangle met Koran en Shahada Schrift Islam Halsketting MAAN-STER Zilveren Gouden Kleur met CZ Sieraad voor ...
   Updated: 2025-11-07T22:47:50Z
 - [Win een Premium Jersey Hijab!](https://oumich.com/pages/win-een-van-onze-premium-jersey-hijabs): Schrijf je in met je e-mailadres en maak automatisch kans op een luxe Premium Jersey naar keuze.Snel meedoen – het kost maar 10 seconden! (Trekking...
@@ -565,10 +560,8 @@ Découvrez notre collection de hijabs et de vêtements islamiques – élégants
 ## Alternate Currencies & Languages
 
 - [België (nl / EUR)](https://oumich.com/nl-be/llms.txt?market=be)
-- [Duitsland (en / EUR)](https://oumich.com/en-de/llms.txt?market=duitsland)
 - [Frankrijk (fr / EUR)](https://oumich.com/fr-fr/llms.txt?market=frankrijk)
-- [Luxemburg (fr / EUR)](https://oumich.com/fr-lu/llms.txt?market=luxemburg)
-- [Nederland (nl / EUR)](https://oumich.com//llms.txt?market=europese-unie)
+- [Nederland (nl / EUR)](https://oumich.com/llms.txt?market=europese-unie)
 
 ## Optional
 
