@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-08-26T21:21:43Z
 - Contact Email: sales@detekthome.com
-- Updated At: 2026-04-21T00:00:40.501Z
+- Updated At: 2026-04-28T00:00:41.383Z
 
 ## Products
 
@@ -78,7 +78,7 @@
   Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/ALL-in-ONEWaterAmazonImagesV2-08.png?v=1756418726
   Price: $39.99 USD
 - [Essential Home Inspector Kit - Mold & Bacteria Test](https://detekthome.com/products/essential-home-inspector-kit): For homeowners, airbnb hosts, and landlords: detect mold, bacteria, heavy metals, and more with our DIY home inspection kit. Lab-grade accuracy, results in minutes. Made in USA. Save $$$, protect your .
-  Updated: 2026-04-16T04:08:21Z
+  Updated: 2026-04-23T14:08:49Z
   Vendor: Detekt Rapid Tests
   Product Type: 
   Availability: Available
@@ -97,7 +97,7 @@
   Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/r.png?v=1756925912
   Price: $29.99 USD
 - [DIY Mold Test Kit 6pc 72-Hour Results | Detekt Home](https://detekthome.com/products/mold-test-kit): DIY Mold Test Kit with 6 pieces and visual results in 72 hours. Detect mold, bacteria, and fungus at home. Made in USA. Learn more today.
-  Updated: 2026-04-20T04:34:27Z
+  Updated: 2026-04-23T23:47:58Z
   Vendor: Detekt Rapid Tests
   Product Type: 
   Availability: Available
@@ -161,7 +161,7 @@
     Availability: Available
     Price: $247.99 USD
 - [Pool Hot Tub Water Test Kit For E. Coli Mold | Detekt Home](https://detekthome.com/products/pool-hot-tub-water-test-kit): Pool and hot tub water test kit for E. coli, coliform bacteria, and mold. Lab-grade DIY screening, no lab required, made in USA. Learn more today.
-  Updated: 2026-04-15T09:40:44Z
+  Updated: 2026-04-23T18:27:24Z
   Vendor: Detekt Rapid Tests
   Product Type: 
   Availability: Available
@@ -185,43 +185,43 @@
 ## Collections
 
 - [Lead Test Kit - Water & Surface Lead Detection](https://detekthome.com/collections/lead): Lead test kits detect toxic lead in drinking water, paint & surfaces. Results in 10 minutes. EPA-level sensitivity at 5ppb. 99% accurate. Made in USA.
-  Updated: 2026-04-17T11:18:58Z
+  Updated: 2026-04-24T11:17:39Z
   Total Products: 4
 - [Algae Test Kit - Blue Green Algae & Cyanobacteria](https://detekthome.com/collections/algae-toxin): Algae test kit detects toxic blue green algae & cyanobacteria in ponds, lakes & reservoirs. Results in 10 minutes. 99% accurate. EPA trusted. Made in USA.
   Updated: 2026-04-18T11:21:05Z
   Total Products: 1
 - [Home Air Quality Test Kit - Mold & Radon Detection](https://detekthome.com/collections/air-quality): Home air quality test kits detect mold spores, radon gas & indoor air contaminants. Results in minutes. 99% accurate. EPA trusted. Lab-grade. Made in USA.
-  Updated: 2026-04-20T11:19:40Z
+  Updated: 2026-04-24T11:17:39Z
   Total Products: 3
 - [Bacteria Test Kit - Water & Surface Microbial Test](https://detekthome.com/collections/bacteria): Bacteria test kits detect E. coli, coliform & harmful microbes in water, kitchen & home surfaces. Results in minutes. 99% accurate. EPA trusted. Made in USA.
-  Updated: 2026-04-20T11:19:40Z
+  Updated: 2026-04-24T11:17:39Z
   Total Products: 4
 - [Water Quality](https://detekthome.com/collections/water-quality)
-  Updated: 2026-04-20T11:19:40Z
+  Updated: 2026-04-24T11:17:39Z
   Total Products: 9
 - [Radon Test Kit - Home Radon Gas Detection & Testing](https://detekthome.com/collections/radon-gas): Radon test kits detect dangerous radon gas in your home basement & living spaces. DIY radon testing with results in minutes. 99% accurate. EPA trusted. Made in USA.
-  Updated: 2026-04-15T14:52:24Z
+  Updated: 2026-04-24T11:17:39Z
   Total Products: 2
 - [Mold Test Kit - Home Air Quality & DIY Mold Detection](https://detekthome.com/collections/mold): Mold test kits detect airborne mold spores & indoor air quality issues in your home. Lab-grade results in minutes. 99% accurate. EPA trusted. Made in USA.
-  Updated: 2026-04-20T11:19:40Z
+  Updated: 2026-04-24T11:17:39Z
   Total Products: 4
 - [Water Purity Test Kit - Drinking Water & Well Water Testing](https://detekthome.com/collections/water-purity): Water test kits detect bacteria, lead & contaminants in drinking water, well water & tap water. Results in minutes. 99% accurate. EPA trusted. Made in USA.
-  Updated: 2026-04-20T11:19:40Z
+  Updated: 2026-04-24T11:17:39Z
   Total Products: 7
 - [Leak Monitoring](https://detekthome.com/collections/leak-monitoring)
-  Updated: 2026-03-10T11:18:49Z
+  Updated: 2026-04-24T11:17:39Z
   Total Products: 1
 - [Best Sellers](https://detekthome.com/collections/best-sellers)
-  Updated: 2026-04-20T11:19:40Z
+  Updated: 2026-04-24T11:17:39Z
   Total Products: 12
 - [Full Home Tests](https://detekthome.com/collections/full-home-tests)
-  Updated: 2026-04-17T11:18:58Z
+  Updated: 2026-04-24T11:17:39Z
   Total Products: 3
 - [Sanitation](https://detekthome.com/collections/sanitation)
-  Updated: 2026-04-20T11:19:40Z
+  Updated: 2026-04-21T11:20:50Z
   Total Products: 2
 - [Mold](https://detekthome.com/collections/mold-1)
-  Updated: 2026-04-20T11:19:40Z
+  Updated: 2026-04-24T11:17:39Z
   Total Products: 1
 - [Bulk & Wholesale](https://detekthome.com/collections/bulk-wholesale)
   Updated: 2026-03-12T20:19:32Z
@@ -247,7 +247,7 @@
     Updated: 2025-09-22T15:17:42Z
     Author: Detekt Rapid Tests
   - [When Your Well Tests Positive for E. Coli](https://detekthome.com/blogs/news/when-your-well-tests-positive-for-e-coli): <p>When a well tests positive for E. coli, it signals a potential health risk that must be addressed immediately through retesting, locating and fixing the contamination source, and using proper filtration. With a reliable home test kit to detect bacteria and microbes, families can take control of their water safety and ensure they are drinking clean, healthy water every day.</p>
-    Updated: 2025-09-22T15:20:27Z
+    Updated: 2026-04-27T20:06:38Z
     Author: Detekt Rapid Tests
   - [Airplane Water Is Gross—Here’s What a New Study Found](https://detekthome.com/blogs/news/airplane-water-is-gross): <p>A new airline water quality study reveals bacterial contamination risks on U.S. flights, exposing major differences in how airlines manage onboard drinking water.</p>
     Updated: 2026-01-21T20:42:56Z
@@ -255,6 +255,15 @@
   - [Toxic Algae Blooms—Changing Fishing, Water Safety, and Ecosystems](https://detekthome.com/blogs/news/toxic-algae-blooms-changing-fishing-water-safety-and-ecosystems): <p>Recent reporting and field observations highlighted by <em data-start="593" data-end="616">Kayak Angler Magazine</em> point to a growing concern among anglers and conservationists: harmful algal blooms are no longer isolated events. They are becoming a persistent, dangerous condition in many waterways.</p>
     Updated: 2026-03-25T14:54:01Z
     Author: Lily Alsup
+  - [How to Choose a Home Water Test Kit](https://detekthome.com/blogs/news/water-test-kit-guide-how-to-choose-the-right-kit-for-home-drinking-water): How to Choose a Home Water Test Kit
+    Updated: 2026-04-27T20:04:18Z
+    Author: Detekt Rapid Tests
+  - [Lead Test Kit for Home Use: Paint and Dust Guide](https://detekthome.com/blogs/news/lead-test-kit-for-home-use-best-ways-to-check-paint-dust-and-surfaces): Lead Test Kit for Home Use: Paint and Dust Guide
+    Updated: 2026-04-27T20:05:12Z
+    Author: Detekt Rapid Tests
+  - [What Homeowners Should Test Water For](https://detekthome.com/blogs/news/water-quality-testing-explained-what-homeowners-should-test-for): What Homeowners Should Test Water For
+    Updated: 2026-04-27T20:05:52Z
+    Author: Detekt Rapid Tests
 
 ## Store Pages
 
