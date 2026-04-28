@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2024-08-19T17:50:19Z
 - Contact Email: info@afzuigkapspecialist.nl
-- Updated At: 2026-04-14T00:00:31.168Z
+- Updated At: 2026-04-28T00:00:36.886Z
 
 ## Products
 
@@ -905,7 +905,7 @@ verlichting 2 x 4,5 W dimbare LED - 2700 Kelvin
   Image: https://cdn.shopify.com/s/files/1/0851/6301/6534/files/wave-1119403-oval-90-cm-wandafzuigkap-geschikt-voor-lederen-bekleding-1-kleur-naar-keuze-interne-motor-recirculatie-led-842008.jpg?v=1744286274
   Price: € 2.320,00 EUR
 - [Wave 2176.100 SPHERE kopen? €3.040,00 - gratis levering in NL & BE](https://afzuigkapspecialist.nl/products/wave-sphere-eilandafzuigkap-wit-82cm): 🔥 Wave SPHERE eilandafzuigkap 82cm - 850 m³/h krachtig, 58dBA stil, dimbare LED. Gratis levering NL/BE. Bestel nu!
-  Updated: 2025-10-16T10:33:29Z
+  Updated: 2026-04-22T11:40:25Z
   Vendor: Wave
   Product Type: 
   Availability: Available
@@ -1819,7 +1819,7 @@ netto gewicht ca. 37 kg
   Updated: 2025-10-16T10:33:09Z
   Total Products: 9
 - [Wave Eilandmodel Afzuigkap SPHERE 820mm Kopen - Afzuigkapspecialist.nl](https://afzuigkapspecialist.nl/collections/wave-eilandmodel-2176-sphere-820mm): ✓ Wave eilandmodel 2176 SPHERE 820mm afzuigkap ✓ Krachtige afzuiging voor je kookeiland ✓ Modern design ✓ Gratis advies ✓ Snelle levering
-  Updated: 2025-10-16T10:33:09Z
+  Updated: 2026-04-23T11:25:55Z
   Total Products: 8
 - [Wave 2605 BASE Eilandafzuigkap 850mm Kopen - Afzuigkapspecialist.nl](https://afzuigkapspecialist.nl/collections/wave-eilandmodel-2605-base-850mm): ✓ Wave 2605 BASE eilandafzuigkap 850mm ✓ Robuust design ✓ RVS, wit, zwart of kleur naar keuze ✓ Afstandsbediening ✓ LED verlichting
   Updated: 2025-10-16T10:33:09Z
