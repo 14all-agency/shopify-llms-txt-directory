@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-02-10T20:10:07Z
 - Contact Email: munsieurclothing@gmail.com
-- Updated At: 2026-04-13T00:00:41.386Z
+- Updated At: 2026-04-29T00:00:47.792Z
 
 ## Products
 
@@ -62,8 +62,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/luxury-streetwear-leggings-white-brown-cow-print-front.jpg?v=1755115602
     Price: $40.00 USD
-- [Intricate Design Leggings | Gothic Ceremonial | MUNSIEUR](https://munsieur.com/products/designer-leggings-for-women-munsieur): Intricate Design Leggings embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:57:36Z
+- [Intricate Design Leggings — Premium MUNSIEUR Performance Streetwear](https://munsieur.com/products/designer-leggings-for-women-munsieur): Signature MUNSIEUR print leggings. Premium four-way stretch, high-rise waistband. Limited production. For those who move with intention.
+  Updated: 2026-04-14T05:27:37Z
   Vendor: Munsieur
   Product Type: Bottoms
   Availability: Available
@@ -140,8 +140,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-premium-leggings-front-view-yellow.jpg?v=1755115809
     Price: $39.96 USD
-- [Street Luxe Leggings | Gothic Ceremonial | MUNSIEUR](https://munsieur.com/products/munsieur-fashion-leggings-women): Street Luxe Leggings embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:57:32Z
+- [Street Luxe Leggings — Premium MUNSIEUR Urban Streetwear Bottoms](https://munsieur.com/products/munsieur-fashion-leggings-women): Premium high-rise leggings built for street and studio. Four-way stretch, moisture-wicking. Limited MUNSIEUR production. No restock planned.
+  Updated: 2026-04-14T05:28:25Z
   Vendor: Munsieur
   Product Type: Bottoms
   Availability: Available
@@ -166,8 +166,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-fashion-leggings-green-side-view-1.jpg?v=1755115861
     Price: $39.96 USD
-- [Violet Reign Leggings | Gothic Ceremonial | MUNSIEUR](https://munsieur.com/products/munsieur-fashion-leggings-high-rise-sculpting): Violet Reign Leggings embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:57:31Z
+- [Violet Reign Leggings — Bold High-Rise MUNSIEUR Streetwear Bottoms](https://munsieur.com/products/munsieur-fashion-leggings-high-rise-sculpting): Rich violet high-rise leggings with four-way stretch and colorfast construction. Limited MUNSIEUR production. Worn with conviction, not trend.
+  Updated: 2026-04-14T05:29:07Z
   Vendor: Munsieur
   Product Type: Bottoms
   Availability: Available
@@ -218,8 +218,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/luxury-womens-leggings-blue-white-split-design-front.jpg?v=1755115968
     Price: $40.00 USD
-- [Refined Edge Leggings | Gothic Ceremonial | MUNSIEUR](https://munsieur.com/products/stylish-leggings-for-women-munsieur): Refined Edge Leggings embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:57:29Z
+- [Refined Edge Leggings — Premium High-Rise MUNSIEUR Activewear](https://munsieur.com/products/stylish-leggings-for-women-munsieur): Premium high-rise leggings with refined construction and four-way stretch. Limited MUNSIEUR production. Built for those who hold a higher standard.
+  Updated: 2026-04-14T05:30:09Z
   Vendor: Munsieur
   Product Type: Bottoms
   Availability: Available
@@ -244,8 +244,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-stylish-leggings-for-women-white-front-view.jpg?v=1754330507
     Price: $39.96 USD
-- [Urban Comfort Leggings | Gothic Ceremonial | MUNSIEUR](https://munsieur.com/products/comfortable-leggings-for-urban-fashion): Urban Comfort Leggings embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:57:28Z
+- [Urban Comfort Leggings — Premium All-Day MUNSIEUR Streetwear Bottoms](https://munsieur.com/products/comfortable-leggings-for-urban-fashion): Premium high-rise leggings built for all-day city wear. Four-way stretch, structured fit. Limited MUNSIEUR production. Comfort without compromise.
+  Updated: 2026-04-14T05:31:10Z
   Vendor: Munsieur
   Product Type: Bottoms
   Availability: Available
@@ -349,90 +349,90 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fashionable-leggings-for-women-red-front-view.jpg?v=1755116193
     Price: $39.96 USD
 - [Monk's Wisdom Hoodie | Gothic Ceremonial | MUNSIEUR](https://munsieur.com/products/monks-wisdom-hoodie-munsieur): Monk's Wisdom Hoodie embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:57:24Z
+  Updated: 2026-04-21T05:48:34Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-navy-blue-front-back.jpg?v=1755116239
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/db95d16afc91e68d6b0e32c6a9da3270.jpg?v=1776707305
   - [White ffffff / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492330200)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-white-model.jpg?v=1755116278
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-white-model.jpg?v=1776707305
     Price: $129.95 USD
   - [Sparrow green-184b7a / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492362968)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-blue-model.jpg?v=1755116320
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-blue-model.jpg?v=1776707305
     Price: $129.95 USD
   - [Sky  Blue-00b7cb / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492395736)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-teal-model.jpg?v=1755116268
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-teal-model.jpg?v=1776707305
     Price: $129.95 USD
   - [Sapphire blue-0a3e92 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492428504)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-blue-model-2.jpg?v=1755116296
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-blue-model-2.jpg?v=1776707305
     Price: $129.95 USD
   - [Navy  blue-1a1c31 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492461272)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-navy-model.jpg?v=1755116262
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-navy-model.jpg?v=1776707305
     Price: $129.95 USD
   - [Mint Green-07cea6 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492494040)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-teal-model-2.jpg?v=1755116327
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-teal-model-2.jpg?v=1776707305
     Price: $129.95 USD
   - [Medium yellow-f8c101 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492526808)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-yellow-model.jpg?v=1755116333
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-yellow-model.jpg?v=1776707305
     Price: $129.95 USD
   - [Medium green-009134 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492559576)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-green-model.jpg?v=1755116256
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-green-model.jpg?v=1776707305
     Price: $129.95 USD
   - [Medium Orange-f35b00 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492592344)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-orange-model-2.jpg?v=1755116338
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-orange-model-2.jpg?v=1776707305
     Price: $129.95 USD
   - [Magenta-f64d89 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492625112)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-pink-model.jpg?v=1755116344
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-pink-model.jpg?v=1776707305
     Price: $129.95 USD
   - [Light purple-4f4087 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492657880)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-purple-model.jpg?v=1755116349
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-purple-model.jpg?v=1776707305
     Price: $129.95 USD
   - [Light heather grey-c5c5c5 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492690648)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-grey-model.jpg?v=1755116354
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-grey-model.jpg?v=1776707305
     Price: $129.95 USD
   - [Light apricot color-ffffc9 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492723416)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-cream-model.jpg?v=1755116360
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-cream-model.jpg?v=1776707305
     Price: $129.95 USD
   - [Light  green-4e9434 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492756184)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-green-model-2.jpg?v=1755116365
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-green-model-2.jpg?v=1776707305
     Price: $129.95 USD
   - [Grey blue-607d86 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492788952)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-blue-grey-model.jpg?v=1755116370
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-blue-grey-model.jpg?v=1776707305
     Price: $129.95 USD
   - [Deep purple-421f54 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492821720)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-purple-model-2.jpg?v=1755116376
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-purple-model-2.jpg?v=1776707305
     Price: $129.95 USD
   - [Dark crimson-571515 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492854488)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-maroon-model.jpg?v=1755116290
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-maroon-model.jpg?v=1776707305
     Price: $129.95 USD
   - [Dark brown-281c16 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492887256)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1d34f6fa4827f7bf7d9cc1847b359dd1.jpg?v=1755116382
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1d34f6fa4827f7bf7d9cc1847b359dd1.jpg?v=1776707305
     Price: $129.95 USD
   - [Dark Dark Green-474a53 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492920024)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6eb6a57295374828396d82f529319585.jpg?v=1755116245
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6eb6a57295374828396d82f529319585.jpg?v=1776707305
     Price: $129.95 USD
   - [Dark  green-172f1e / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492952792)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/02d2701511d15766a3718a0c9868640a.jpg?v=1755116387
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/02d2701511d15766a3718a0c9868640a.jpg?v=1776707305
     Price: $129.95 USD
   - [Dark  Blue-252462 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154492985560)
     Availability: Available
@@ -440,7 +440,7 @@
     Price: $129.95 USD
   - [Black / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493018328)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/db95d16afc91e68d6b0e32c6a9da3270.jpg?v=1755116285
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/db95d16afc91e68d6b0e32c6a9da3270.jpg?v=1776707305
     Price: $129.95 USD
   - [Baby blue-adc6e8 / S](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493051096)
     Availability: Available
@@ -448,83 +448,83 @@
     Price: $129.95 USD
   - [White ffffff / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493083864)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-white-model.jpg?v=1755116278
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-white-model.jpg?v=1776707305
     Price: $129.95 USD
   - [Sparrow green-184b7a / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493116632)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-blue-model.jpg?v=1755116320
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-blue-model.jpg?v=1776707305
     Price: $129.95 USD
   - [Sky  Blue-00b7cb / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493149400)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-teal-model.jpg?v=1755116268
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-teal-model.jpg?v=1776707305
     Price: $129.95 USD
   - [Sapphire blue-0a3e92 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493182168)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-blue-model-2.jpg?v=1755116296
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-blue-model-2.jpg?v=1776707305
     Price: $129.95 USD
   - [Navy  blue-1a1c31 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493214936)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-navy-model.jpg?v=1755116262
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-navy-model.jpg?v=1776707305
     Price: $129.95 USD
   - [Mint Green-07cea6 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493247704)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-teal-model-2.jpg?v=1755116327
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-teal-model-2.jpg?v=1776707305
     Price: $129.95 USD
   - [Medium yellow-f8c101 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493280472)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-yellow-model.jpg?v=1755116333
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-yellow-model.jpg?v=1776707305
     Price: $129.95 USD
   - [Medium green-009134 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493313240)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-green-model.jpg?v=1755116256
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-green-model.jpg?v=1776707305
     Price: $129.95 USD
   - [Medium Orange-f35b00 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493346008)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-orange-model-2.jpg?v=1755116338
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-orange-model-2.jpg?v=1776707305
     Price: $129.95 USD
   - [Magenta-f64d89 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493378776)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-pink-model.jpg?v=1755116344
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-pink-model.jpg?v=1776707305
     Price: $129.95 USD
   - [Light purple-4f4087 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493411544)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-purple-model.jpg?v=1755116349
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-purple-model.jpg?v=1776707305
     Price: $129.95 USD
   - [Light heather grey-c5c5c5 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493444312)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-grey-model.jpg?v=1755116354
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-grey-model.jpg?v=1776707305
     Price: $129.95 USD
   - [Light apricot color-ffffc9 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493477080)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-cream-model.jpg?v=1755116360
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-cream-model.jpg?v=1776707305
     Price: $129.95 USD
   - [Light  green-4e9434 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493509848)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-green-model-2.jpg?v=1755116365
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-green-model-2.jpg?v=1776707305
     Price: $129.95 USD
   - [Grey blue-607d86 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493542616)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-blue-grey-model.jpg?v=1755116370
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-blue-grey-model.jpg?v=1776707305
     Price: $129.95 USD
   - [Deep purple-421f54 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493575384)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-purple-model-2.jpg?v=1755116376
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-purple-model-2.jpg?v=1776707305
     Price: $129.95 USD
   - [Dark crimson-571515 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493608152)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-maroon-model.jpg?v=1755116290
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-maroon-model.jpg?v=1776707305
     Price: $129.95 USD
   - [Dark brown-281c16 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493640920)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1d34f6fa4827f7bf7d9cc1847b359dd1.jpg?v=1755116382
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1d34f6fa4827f7bf7d9cc1847b359dd1.jpg?v=1776707305
     Price: $129.95 USD
   - [Dark Dark Green-474a53 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493673688)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6eb6a57295374828396d82f529319585.jpg?v=1755116245
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6eb6a57295374828396d82f529319585.jpg?v=1776707305
     Price: $129.95 USD
   - [Dark  green-172f1e / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493706456)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/02d2701511d15766a3718a0c9868640a.jpg?v=1755116387
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/02d2701511d15766a3718a0c9868640a.jpg?v=1776707305
     Price: $129.95 USD
   - [Dark  Blue-252462 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493739224)
     Availability: Available
@@ -532,7 +532,7 @@
     Price: $129.95 USD
   - [Black / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493771992)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/db95d16afc91e68d6b0e32c6a9da3270.jpg?v=1755116285
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/db95d16afc91e68d6b0e32c6a9da3270.jpg?v=1776707305
     Price: $129.95 USD
   - [Baby blue-adc6e8 / M](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493804760)
     Availability: Available
@@ -540,920 +540,920 @@
     Price: $129.95 USD
   - [White ffffff / L](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493837528)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-white-model.jpg?v=1755116278
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-white-model.jpg?v=1776707305
     Price: $129.95 USD
   - [Sparrow green-184b7a / L](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493870296)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-blue-model.jpg?v=1755116320
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-blue-model.jpg?v=1776707305
     Price: $129.95 USD
   - [Sky  Blue-00b7cb / L](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493903064)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-teal-model.jpg?v=1755116268
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-teal-model.jpg?v=1776707305
     Price: $129.95 USD
   - [Sapphire blue-0a3e92 / L](https://munsieur.com/products/monks-wisdom-hoodie-munsieur?variant=50154493935832)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-blue-model-2.jpg?v=1755116296
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/monks-wisdom-hoodie-blue-model-2.jpg?v=1776707305
     Price: $129.95 USD
-- [Cool Cat Graphic Tee | Gothic Ceremonial | MUNSIEUR](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt): Cool Cat Graphic Tee embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:57:23Z
+- [Cool Cat Graphic Tee — Premium Heavyweight MUNSIEUR Streetwear](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt): Bold feline graphic on premium heavyweight cotton. Oversized fit, double-stitched construction. Limited MUNSIEUR production. Worn with ease, not effort.
+  Updated: 2026-04-18T11:14:43Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-black-skeleton-monsieur-shirt-back.jpg?v=1771258111
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-black-skeleton-monsieur-shirt-back_4753ddbf-178b-40a9-9e5a-b91fa7ab2bb1.png?v=1776467674
   - [White ffffff / S](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154499932376)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-white-skeleton-monsieur-shirt-1.jpg?v=1771258111
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-white-skeleton-monsieur-shirt-1.jpg?v=1776467674
     Price: $125.00 USD
   - [Sparrow green-184b7a / S](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154499965144)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-blue-skeleton-monsieur-shirt-1.jpg?v=1771258111
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-blue-skeleton-monsieur-shirt-1.jpg?v=1776467674
     Price: $125.00 USD
   - [Sky  Blue-00b7cb / S](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154499997912)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-turquoise-skeleton-monsieur-shirt-1.jpg?v=1767330194
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-turquoise-skeleton-monsieur-shirt-1.jpg?v=1776467674
     Price: $125.00 USD
   - [Sapphire blue-0a3e92 / S](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500030680)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-blue-skeleton-monsieur-shirt-2.jpg?v=1767330194
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-blue-skeleton-monsieur-shirt-2.jpg?v=1776467674
     Price: $125.00 USD
   - [Navy  blue-1a1c31 / S](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500063448)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-navy-skeleton-monsieur-shirt-1.jpg?v=1771258111
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-navy-skeleton-monsieur-shirt-1.jpg?v=1776467674
     Price: $125.00 USD
   - [Mint Green-07cea6 / S](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500096216)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-green-skeleton-monsieur-shirt-1.jpg?v=1767330194
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-green-skeleton-monsieur-shirt-1.jpg?v=1776467674
     Price: $125.00 USD
   - [Medium yellow-f8c101 / S](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500128984)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-yellow-skeleton-monsieur-shirt-1.jpg?v=1767330194
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-yellow-skeleton-monsieur-shirt-1.jpg?v=1776467674
     Price: $125.00 USD
   - [Medium green-009134 / S](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500161752)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-green-skeleton-monsieur-shirt-2.jpg?v=1767330194
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-green-skeleton-monsieur-shirt-2.jpg?v=1776467674
     Price: $125.00 USD
   - [Medium Orange-f35b00 / S](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500194520)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-orange-skeleton-monsieur-shirt-1.jpg?v=1767330194
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-orange-skeleton-monsieur-shirt-1.jpg?v=1776467674
     Price: $125.00 USD
   - [Magenta-f64d89 / S](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500227288)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-pink-skeleton-monsieur-shirt-1.jpg?v=1771258111
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-pink-skeleton-monsieur-shirt-1.jpg?v=1776467674
     Price: $125.00 USD
   - [Light purple-4f4087 / S](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500260056)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-purple-skeleton-monsieur-shirt-1.jpg?v=1767330194
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-purple-skeleton-monsieur-shirt-1.jpg?v=1776467674
     Price: $125.00 USD
   - [Light heather grey-c5c5c5 / S](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500292824)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-gray-skeleton-monsieur-shirt-1.jpg?v=1767330194
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-gray-skeleton-monsieur-shirt-1.jpg?v=1776467674
     Price: $125.00 USD
   - [Light apricot color-ffffc9 / S](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500325592)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-cream-skeleton-monsieur-shirt-1.jpg?v=1767330194
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-cream-skeleton-monsieur-shirt-1.jpg?v=1776467674
     Price: $125.00 USD
   - [Light  green-4e9434 / S](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500358360)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-green-skeleton-monsieur-shirt-3.jpg?v=1767330194
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-green-skeleton-monsieur-shirt-3.jpg?v=1776467674
     Price: $125.00 USD
   - [Grey blue-607d86 / S](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500391128)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-blue-gray-skeleton-monsieur-shirt-1.jpg?v=1767330194
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-blue-gray-skeleton-monsieur-shirt-1.jpg?v=1776467674
     Price: $125.00 USD
   - [Deep purple-421f54 / S](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500423896)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/00ec967643998bf665cea21641b32993.jpg?v=1771258111
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/00ec967643998bf665cea21641b32993.jpg?v=1776467674
     Price: $125.00 USD
   - [Dark crimson-571515 / S](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500456664)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/52cfe030b96ccf8c0e60f91982129664.jpg?v=1759028906
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/52cfe030b96ccf8c0e60f91982129664.jpg?v=1776467674
     Price: $125.00 USD
   - [Dark brown-281c16 / S](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500489432)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-black-skeleton-monsieur-shirt-1.jpg?v=1771258111
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-black-skeleton-monsieur-shirt-1.jpg?v=1776467674
     Price: $125.00 USD
   - [Dark Dark Green-474a53 / S](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500522200)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ffaa835e8befb1aa313b85863df58e65.jpg?v=1759028906
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ffaa835e8befb1aa313b85863df58e65.jpg?v=1776467674
     Price: $125.00 USD
   - [Dark  green-172f1e / S](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500554968)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4255251bec2cf83784406c1316030068.jpg?v=1759028906
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4255251bec2cf83784406c1316030068.jpg?v=1776467674
     Price: $125.00 USD
   - [Dark  Blue-252462 / S](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500587736)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b82500106fe1cc7f5eefe41d59fe8b00.jpg?v=1759028906
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b82500106fe1cc7f5eefe41d59fe8b00.jpg?v=1776467674
     Price: $125.00 USD
   - [Black / S](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500620504)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a299c525afb99d5fafe3c1adfe6fd995.jpg?v=1767330194
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a299c525afb99d5fafe3c1adfe6fd995.jpg?v=1776467674
     Price: $125.00 USD
   - [Baby blue-adc6e8 / S](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500653272)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f38da7b6bf29e14978a4d823c6456ae7.jpg?v=1759028906
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f38da7b6bf29e14978a4d823c6456ae7.jpg?v=1776467674
     Price: $125.00 USD
   - [White ffffff / M](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500686040)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-white-skeleton-monsieur-shirt-1.jpg?v=1771258111
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-white-skeleton-monsieur-shirt-1.jpg?v=1776467674
     Price: $125.00 USD
   - [Sparrow green-184b7a / M](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500718808)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-blue-skeleton-monsieur-shirt-1.jpg?v=1771258111
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-blue-skeleton-monsieur-shirt-1.jpg?v=1776467674
     Price: $125.00 USD
   - [Sky  Blue-00b7cb / M](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500751576)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-turquoise-skeleton-monsieur-shirt-1.jpg?v=1767330194
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-turquoise-skeleton-monsieur-shirt-1.jpg?v=1776467674
     Price: $125.00 USD
   - [Sapphire blue-0a3e92 / M](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500784344)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-blue-skeleton-monsieur-shirt-2.jpg?v=1767330194
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-blue-skeleton-monsieur-shirt-2.jpg?v=1776467674
     Price: $125.00 USD
   - [Navy  blue-1a1c31 / M](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500817112)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-navy-skeleton-monsieur-shirt-1.jpg?v=1771258111
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-navy-skeleton-monsieur-shirt-1.jpg?v=1776467674
     Price: $125.00 USD
   - [Mint Green-07cea6 / M](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500849880)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-green-skeleton-monsieur-shirt-1.jpg?v=1767330194
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-green-skeleton-monsieur-shirt-1.jpg?v=1776467674
     Price: $125.00 USD
   - [Medium yellow-f8c101 / M](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500882648)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-yellow-skeleton-monsieur-shirt-1.jpg?v=1767330194
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-yellow-skeleton-monsieur-shirt-1.jpg?v=1776467674
     Price: $125.00 USD
   - [Medium green-009134 / M](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500915416)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-green-skeleton-monsieur-shirt-2.jpg?v=1767330194
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-green-skeleton-monsieur-shirt-2.jpg?v=1776467674
     Price: $125.00 USD
   - [Medium Orange-f35b00 / M](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500948184)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-orange-skeleton-monsieur-shirt-1.jpg?v=1767330194
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-orange-skeleton-monsieur-shirt-1.jpg?v=1776467674
     Price: $125.00 USD
   - [Magenta-f64d89 / M](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154500980952)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-pink-skeleton-monsieur-shirt-1.jpg?v=1771258111
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-pink-skeleton-monsieur-shirt-1.jpg?v=1776467674
     Price: $125.00 USD
   - [Light purple-4f4087 / M](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154501013720)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-purple-skeleton-monsieur-shirt-1.jpg?v=1767330194
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-purple-skeleton-monsieur-shirt-1.jpg?v=1776467674
     Price: $125.00 USD
   - [Light heather grey-c5c5c5 / M](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154501046488)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-gray-skeleton-monsieur-shirt-1.jpg?v=1767330194
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-gray-skeleton-monsieur-shirt-1.jpg?v=1776467674
     Price: $125.00 USD
   - [Light apricot color-ffffc9 / M](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154501079256)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-cream-skeleton-monsieur-shirt-1.jpg?v=1767330194
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-cream-skeleton-monsieur-shirt-1.jpg?v=1776467674
     Price: $125.00 USD
   - [Light  green-4e9434 / M](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154501112024)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-green-skeleton-monsieur-shirt-3.jpg?v=1767330194
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-green-skeleton-monsieur-shirt-3.jpg?v=1776467674
     Price: $125.00 USD
   - [Grey blue-607d86 / M](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154501144792)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-blue-gray-skeleton-monsieur-shirt-1.jpg?v=1767330194
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-blue-gray-skeleton-monsieur-shirt-1.jpg?v=1776467674
     Price: $125.00 USD
   - [Deep purple-421f54 / M](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154501177560)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/00ec967643998bf665cea21641b32993.jpg?v=1771258111
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/00ec967643998bf665cea21641b32993.jpg?v=1776467674
     Price: $125.00 USD
   - [Dark crimson-571515 / M](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154501210328)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/52cfe030b96ccf8c0e60f91982129664.jpg?v=1759028906
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/52cfe030b96ccf8c0e60f91982129664.jpg?v=1776467674
     Price: $125.00 USD
   - [Dark brown-281c16 / M](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154501243096)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-black-skeleton-monsieur-shirt-1.jpg?v=1771258111
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-black-skeleton-monsieur-shirt-1.jpg?v=1776467674
     Price: $125.00 USD
   - [Dark Dark Green-474a53 / M](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154501275864)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ffaa835e8befb1aa313b85863df58e65.jpg?v=1759028906
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ffaa835e8befb1aa313b85863df58e65.jpg?v=1776467674
     Price: $125.00 USD
   - [Dark  green-172f1e / M](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154501308632)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4255251bec2cf83784406c1316030068.jpg?v=1759028906
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4255251bec2cf83784406c1316030068.jpg?v=1776467674
     Price: $125.00 USD
   - [Dark  Blue-252462 / M](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154501341400)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b82500106fe1cc7f5eefe41d59fe8b00.jpg?v=1759028906
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b82500106fe1cc7f5eefe41d59fe8b00.jpg?v=1776467674
     Price: $125.00 USD
   - [Black / M](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154501374168)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a299c525afb99d5fafe3c1adfe6fd995.jpg?v=1767330194
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a299c525afb99d5fafe3c1adfe6fd995.jpg?v=1776467674
     Price: $125.00 USD
   - [Baby blue-adc6e8 / M](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154501406936)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f38da7b6bf29e14978a4d823c6456ae7.jpg?v=1759028906
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f38da7b6bf29e14978a4d823c6456ae7.jpg?v=1776467674
     Price: $125.00 USD
   - [White ffffff / L](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154501439704)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-white-skeleton-monsieur-shirt-1.jpg?v=1771258111
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-white-skeleton-monsieur-shirt-1.jpg?v=1776467674
     Price: $125.00 USD
   - [Sparrow green-184b7a / L](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154501472472)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-blue-skeleton-monsieur-shirt-1.jpg?v=1771258111
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-blue-skeleton-monsieur-shirt-1.jpg?v=1776467674
     Price: $125.00 USD
   - [Sky  Blue-00b7cb / L](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154501505240)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-turquoise-skeleton-monsieur-shirt-1.jpg?v=1767330194
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-turquoise-skeleton-monsieur-shirt-1.jpg?v=1776467674
     Price: $125.00 USD
   - [Sapphire blue-0a3e92 / L](https://munsieur.com/products/unisex-cool-cat-tee-soft-cotton-tshirt?variant=50154501538008)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-blue-skeleton-monsieur-shirt-2.jpg?v=1767330194
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/unisex-cool-cat-tee-blue-skeleton-monsieur-shirt-2.jpg?v=1776467674
     Price: $125.00 USD
 - [Year of the Dog Hoodie | Zodiac Gothic Streetwear | Munsieur](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur): Munsieur Year of the Dog hoodie — heavyweight fleece, bold zodiac graphic, ceremonial gothic design. Limited drop. Free US shipping.
-  Updated: 2026-04-03T13:57:22Z
+  Updated: 2026-04-21T18:20:18Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/background-editor_output_8ac81285-8670-4637-aec1-126109ecc764.png?v=1759111816
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dd1e803d0da6db3d7f88d8f01a331fc1.png?v=1776484605
   - [White ffffff / S](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154517627096)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-front-back-design.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-front-back-design.jpg?v=1776484605
     Price: $225.00 USD
   - [Sparrow green-184b7a / S](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154517659864)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-blue-color-front-back.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-blue-color-front-back.jpg?v=1776484605
     Price: $225.00 USD
   - [Sky  Blue-00b7cb / S](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154517692632)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-teal-color-front-back.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-teal-color-front-back.jpg?v=1776484605
     Price: $225.00 USD
   - [Sapphire blue-0a3e92 / S](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154517725400)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-dark-blue-color.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-dark-blue-color.jpg?v=1776484605
     Price: $225.00 USD
   - [Navy  blue-1a1c31 / S](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154517758168)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-navy-color-design.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-navy-color-design.jpg?v=1776484605
     Price: $225.00 USD
   - [Mint Green-07cea6 / S](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154517790936)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-aqua-color-design.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-aqua-color-design.jpg?v=1776484605
     Price: $225.00 USD
   - [Medium yellow-f8c101 / S](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154517823704)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-yellow-color-design.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-yellow-color-design.jpg?v=1776484605
     Price: $225.00 USD
   - [Medium green-009134 / S](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154517856472)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-green-color-design.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-green-color-design.jpg?v=1776484605
     Price: $225.00 USD
   - [Medium Orange-f35b00 / S](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154517889240)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-orange-color-design.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-orange-color-design.jpg?v=1776484605
     Price: $225.00 USD
   - [Magenta-f64d89 / S](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154517922008)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-pink-color-design.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-pink-color-design.jpg?v=1776484605
     Price: $225.00 USD
   - [Light purple-4f4087 / S](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154517954776)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-purple-color-design.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-purple-color-design.jpg?v=1776484605
     Price: $225.00 USD
   - [Light heather grey-c5c5c5 / S](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154517987544)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-gray-color-design.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-gray-color-design.jpg?v=1776484605
     Price: $225.00 USD
   - [Light apricot color-ffffc9 / S](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518020312)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-cream-color-design.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-cream-color-design.jpg?v=1776484605
     Price: $225.00 USD
   - [Light  green-4e9434 / S](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518053080)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-lime-green-color.jpg?v=1759111816
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-lime-green-color.jpg?v=1776484605
     Price: $225.00 USD
   - [Grey blue-607d86 / S](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518085848)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-teal-gray-color.jpg?v=1759111816
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-teal-gray-color.jpg?v=1776484605
     Price: $225.00 USD
   - [Deep purple-421f54 / S](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518118616)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-dark-purple-color.jpg?v=1759111816
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-dark-purple-color.jpg?v=1776484605
     Price: $225.00 USD
   - [Dark brown-281c16 / S](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518151384)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-brown-color-design.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-brown-color-design.jpg?v=1776484605
     Price: $225.00 USD
   - [Dark Dark Green-474a53 / S](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518184152)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-charcoal-color-design.jpg?v=1759111816
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-charcoal-color-design.jpg?v=1776484605
     Price: $225.00 USD
   - [Dark  green-172f1e / S](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518216920)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dd1e803d0da6db3d7f88d8f01a331fc1.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dd1e803d0da6db3d7f88d8f01a331fc1.jpg?v=1776484605
     Price: $225.00 USD
   - [Dark  Blue-252462 / S](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518249688)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b24fa01117904a4742809685e453be19.jpg?v=1759111816
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b24fa01117904a4742809685e453be19.jpg?v=1776484605
     Price: $225.00 USD
   - [Bordeaux-9f1d2a / S](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518282456)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9e09b05d16f110bbc04fabf729612a16.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9e09b05d16f110bbc04fabf729612a16.jpg?v=1776484605
     Price: $225.00 USD
   - [Black / S](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518315224)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e7ac62a0156ef0021fa8cec6dd7b459d.jpg?v=1759111816
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e7ac62a0156ef0021fa8cec6dd7b459d.jpg?v=1776484605
     Price: $225.00 USD
   - [Baby blue-adc6e8 / S](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518347992)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f866e5c266b6b9917b023fa8348eb43d.jpg?v=1759111816
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f866e5c266b6b9917b023fa8348eb43d.jpg?v=1776484605
     Price: $225.00 USD
   - [White ffffff / M](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518380760)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-front-back-design.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-front-back-design.jpg?v=1776484605
     Price: $225.00 USD
   - [Sparrow green-184b7a / M](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518413528)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-blue-color-front-back.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-blue-color-front-back.jpg?v=1776484605
     Price: $225.00 USD
   - [Sky  Blue-00b7cb / M](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518446296)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-teal-color-front-back.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-teal-color-front-back.jpg?v=1776484605
     Price: $225.00 USD
   - [Sapphire blue-0a3e92 / M](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518479064)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-dark-blue-color.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-dark-blue-color.jpg?v=1776484605
     Price: $225.00 USD
   - [Navy  blue-1a1c31 / M](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518511832)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-navy-color-design.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-navy-color-design.jpg?v=1776484605
     Price: $225.00 USD
   - [Mint Green-07cea6 / M](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518544600)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-aqua-color-design.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-aqua-color-design.jpg?v=1776484605
     Price: $225.00 USD
   - [Medium yellow-f8c101 / M](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518577368)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-yellow-color-design.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-yellow-color-design.jpg?v=1776484605
     Price: $225.00 USD
   - [Medium green-009134 / M](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518610136)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-green-color-design.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-green-color-design.jpg?v=1776484605
     Price: $225.00 USD
   - [Medium Orange-f35b00 / M](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518642904)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-orange-color-design.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-orange-color-design.jpg?v=1776484605
     Price: $225.00 USD
   - [Magenta-f64d89 / M](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518675672)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-pink-color-design.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-pink-color-design.jpg?v=1776484605
     Price: $225.00 USD
   - [Light purple-4f4087 / M](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518708440)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-purple-color-design.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-purple-color-design.jpg?v=1776484605
     Price: $225.00 USD
   - [Light heather grey-c5c5c5 / M](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518741208)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-gray-color-design.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-gray-color-design.jpg?v=1776484605
     Price: $225.00 USD
   - [Light apricot color-ffffc9 / M](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518773976)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-cream-color-design.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-cream-color-design.jpg?v=1776484605
     Price: $225.00 USD
   - [Light  green-4e9434 / M](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518806744)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-lime-green-color.jpg?v=1759111816
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-lime-green-color.jpg?v=1776484605
     Price: $225.00 USD
   - [Grey blue-607d86 / M](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518839512)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-teal-gray-color.jpg?v=1759111816
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-teal-gray-color.jpg?v=1776484605
     Price: $225.00 USD
   - [Deep purple-421f54 / M](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518872280)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-dark-purple-color.jpg?v=1759111816
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-dark-purple-color.jpg?v=1776484605
     Price: $225.00 USD
   - [Dark brown-281c16 / M](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518905048)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-brown-color-design.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-brown-color-design.jpg?v=1776484605
     Price: $225.00 USD
   - [Dark Dark Green-474a53 / M](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518937816)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-charcoal-color-design.jpg?v=1759111816
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-charcoal-color-design.jpg?v=1776484605
     Price: $225.00 USD
   - [Dark  green-172f1e / M](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154518970584)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dd1e803d0da6db3d7f88d8f01a331fc1.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dd1e803d0da6db3d7f88d8f01a331fc1.jpg?v=1776484605
     Price: $225.00 USD
   - [Dark  Blue-252462 / M](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154519003352)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b24fa01117904a4742809685e453be19.jpg?v=1759111816
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b24fa01117904a4742809685e453be19.jpg?v=1776484605
     Price: $225.00 USD
   - [Bordeaux-9f1d2a / M](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154519036120)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9e09b05d16f110bbc04fabf729612a16.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9e09b05d16f110bbc04fabf729612a16.jpg?v=1776484605
     Price: $225.00 USD
   - [Black / M](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154519068888)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e7ac62a0156ef0021fa8cec6dd7b459d.jpg?v=1759111816
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e7ac62a0156ef0021fa8cec6dd7b459d.jpg?v=1776484605
     Price: $225.00 USD
   - [Baby blue-adc6e8 / M](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154519101656)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f866e5c266b6b9917b023fa8348eb43d.jpg?v=1759111816
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f866e5c266b6b9917b023fa8348eb43d.jpg?v=1776484605
     Price: $225.00 USD
   - [White ffffff / L](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154519134424)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-front-back-design.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-front-back-design.jpg?v=1776484605
     Price: $225.00 USD
   - [Sparrow green-184b7a / L](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154519167192)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-blue-color-front-back.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-blue-color-front-back.jpg?v=1776484605
     Price: $225.00 USD
   - [Sky  Blue-00b7cb / L](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154519199960)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-teal-color-front-back.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-teal-color-front-back.jpg?v=1776484605
     Price: $225.00 USD
   - [Sapphire blue-0a3e92 / L](https://munsieur.com/products/year-of-the-dog-hoodie-munsieur?variant=50154519232728)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-dark-blue-color.jpg?v=1767330546
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-year-of-the-dog-hoodie-dark-blue-color.jpg?v=1776484605
     Price: $225.00 USD
-- [Signature Designer Hoodie | Premium Gothic Luxury | Munsieur](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie): The definitive Munsieur silhouette. Oversized heavyweight fleece with reinforced stitching, lined hood, and discreet ceremonial branding — the  piece that defines the collection.
-  Updated: 2026-04-03T13:57:22Z
+- [Signature Designer Hoodie — Premium Heavyweight MUNSIEUR Streetwear](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie): Premium heavyweight fleece hoodie with tailored oversized fit and MUNSIEUR signature details. Limited production. Built to anchor a wardrobe for years.
+  Updated: 2026-04-21T05:13:03Z
   Vendor: Munsieur
   Product Type: Outerwear
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-dark-blue-front-back.jpg?v=1755116734
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-yellow-front-back.png?v=1776705173
   - [White ffffff / S](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154528243928)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-white-front-back.jpg?v=1755116808
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-white-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Sparrow green-184b7a / S](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154528276696)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-blue-front-back.jpg?v=1755116791
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-blue-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Sky  Blue-00b7cb / S](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154528309464)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-aqua-front-back.jpg?v=1755116761
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-aqua-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Sapphire blue-0a3e92 / S](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154528342232)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-dark-blue-front-back.jpg?v=1755116734
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-dark-blue-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Navy  blue-1a1c31 / S](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154528375000)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-navy-blue-front-back.jpg?v=1755116814
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-navy-blue-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Mint Green-07cea6 / S](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154528407768)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-light-green-front-back.jpg?v=1755116827
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-light-green-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Medium yellow-f8c101 / S](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154528440536)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-yellow-front-back.jpg?v=1755116755
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-yellow-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Medium green-009134 / S](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154528473304)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-green-front-back.jpg?v=1755116833
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-green-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Medium Orange-f35b00 / S](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154528506072)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-orange-front-back.jpg?v=1755116839
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-orange-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Magenta-f64d89 / S](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154528538840)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-pink-front-back.jpg?v=1755116845
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-pink-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Light purple-4f4087 / S](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154528571608)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-purple-front-back.jpg?v=1755116850
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-purple-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Light heather grey-c5c5c5 / S](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154528604376)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-gray-front-back.jpg?v=1755116766
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-gray-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Light apricot color-ffffc9 / S](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154528637144)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-cream-front-back.jpg?v=1755116855
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-cream-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Light  green-4e9434 / S](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154528669912)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-green-light-front-back.jpg?v=1755116860
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-green-light-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Grey blue-607d86 / S](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154528702680)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-teal-front-back.jpg?v=1755116865
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-teal-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Deep purple-421f54 / S](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154528735448)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-purple-variant.jpg?v=1755116744
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-purple-variant.jpg?v=1776705173
     Price: $124.99 USD
   - [Dark brown-281c16 / S](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154528768216)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-brown-front-back.jpg?v=1755116871
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-brown-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Dark Dark Green-474a53 / S](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154528800984)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a0827306fa393cddc2d8e5dc8b894600.jpg?v=1755116876
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a0827306fa393cddc2d8e5dc8b894600.jpg?v=1776705173
     Price: $124.99 USD
   - [Dark  green-172f1e / S](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154528833752)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/123d6a936a863d7f90c88b833ecf05a3.jpg?v=1755116739
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/123d6a936a863d7f90c88b833ecf05a3.jpg?v=1776705173
     Price: $124.99 USD
   - [Dark  Blue-252462 / S](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154528866520)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/864eb94b4f515c8d61bd76c9a5798d9c.jpg?v=1755116882
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/864eb94b4f515c8d61bd76c9a5798d9c.jpg?v=1776705173
     Price: $124.99 USD
   - [Bordeaux-9f1d2a / S](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154528899288)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/0fcad641a32b2b1f89167806b498c583.jpg?v=1755116887
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/0fcad641a32b2b1f89167806b498c583.jpg?v=1776705173
     Price: $124.99 USD
   - [Black / S](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154528932056)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-black-front-back.jpg?v=1755116750
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-black-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Baby blue-adc6e8 / S](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154528964824)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f17fdc8e0db50b04cf6ed2172249d3fe.jpg?v=1755116893
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f17fdc8e0db50b04cf6ed2172249d3fe.jpg?v=1776705173
     Price: $124.99 USD
   - [White ffffff / M](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154528997592)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-white-front-back.jpg?v=1755116808
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-white-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Sparrow green-184b7a / M](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154529030360)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-blue-front-back.jpg?v=1755116791
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-blue-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Sky  Blue-00b7cb / M](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154529063128)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-aqua-front-back.jpg?v=1755116761
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-aqua-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Sapphire blue-0a3e92 / M](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154529095896)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-dark-blue-front-back.jpg?v=1755116734
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-dark-blue-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Navy  blue-1a1c31 / M](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154529128664)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-navy-blue-front-back.jpg?v=1755116814
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-navy-blue-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Mint Green-07cea6 / M](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154529161432)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-light-green-front-back.jpg?v=1755116827
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-light-green-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Medium yellow-f8c101 / M](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154529194200)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-yellow-front-back.jpg?v=1755116755
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-yellow-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Medium green-009134 / M](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154529226968)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-green-front-back.jpg?v=1755116833
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-green-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Medium Orange-f35b00 / M](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154529259736)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-orange-front-back.jpg?v=1755116839
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-orange-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Magenta-f64d89 / M](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154529292504)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-pink-front-back.jpg?v=1755116845
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-pink-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Light purple-4f4087 / M](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154529325272)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-purple-front-back.jpg?v=1755116850
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-purple-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Light heather grey-c5c5c5 / M](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154529358040)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-gray-front-back.jpg?v=1755116766
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-gray-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Light apricot color-ffffc9 / M](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154529390808)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-cream-front-back.jpg?v=1755116855
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-cream-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Light  green-4e9434 / M](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154529423576)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-green-light-front-back.jpg?v=1755116860
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-green-light-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Grey blue-607d86 / M](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154529456344)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-teal-front-back.jpg?v=1755116865
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-teal-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Deep purple-421f54 / M](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154529489112)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-purple-variant.jpg?v=1755116744
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-purple-variant.jpg?v=1776705173
     Price: $124.99 USD
   - [Dark brown-281c16 / M](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154529521880)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-brown-front-back.jpg?v=1755116871
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-brown-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Dark Dark Green-474a53 / M](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154529554648)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a0827306fa393cddc2d8e5dc8b894600.jpg?v=1755116876
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a0827306fa393cddc2d8e5dc8b894600.jpg?v=1776705173
     Price: $124.99 USD
   - [Dark  green-172f1e / M](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154529587416)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/123d6a936a863d7f90c88b833ecf05a3.jpg?v=1755116739
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/123d6a936a863d7f90c88b833ecf05a3.jpg?v=1776705173
     Price: $124.99 USD
   - [Dark  Blue-252462 / M](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154529620184)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/864eb94b4f515c8d61bd76c9a5798d9c.jpg?v=1755116882
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/864eb94b4f515c8d61bd76c9a5798d9c.jpg?v=1776705173
     Price: $124.99 USD
   - [Bordeaux-9f1d2a / M](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154529652952)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/0fcad641a32b2b1f89167806b498c583.jpg?v=1755116887
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/0fcad641a32b2b1f89167806b498c583.jpg?v=1776705173
     Price: $124.99 USD
   - [Black / M](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154529685720)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-black-front-back.jpg?v=1755116750
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-black-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Baby blue-adc6e8 / M](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154529718488)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f17fdc8e0db50b04cf6ed2172249d3fe.jpg?v=1755116893
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f17fdc8e0db50b04cf6ed2172249d3fe.jpg?v=1776705173
     Price: $124.99 USD
   - [White ffffff / L](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154529751256)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-white-front-back.jpg?v=1755116808
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-white-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Sparrow green-184b7a / L](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154529784024)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-blue-front-back.jpg?v=1755116791
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-blue-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Sky  Blue-00b7cb / L](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154529816792)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-aqua-front-back.jpg?v=1755116761
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-aqua-front-back.jpg?v=1776705173
     Price: $124.99 USD
   - [Sapphire blue-0a3e92 / L](https://munsieur.com/products/designer-hoodies-for-men-munsieur-classic-hoodie?variant=50154529849560)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-dark-blue-front-back.jpg?v=1755116734
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-designer-hoodies-for-men-dark-blue-front-back.jpg?v=1776705173
     Price: $124.99 USD
 - [Modern Icon Tee | Gothic Ceremonial | MUNSIEUR](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon): Modern Icon Tee embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:57:20Z
+  Updated: 2026-04-18T11:25:54Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5dc76d89b68424d9f61c18ad462459f6.jpg?v=1755116899
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5dc76d89b68424d9f61c18ad462459f6.png?v=1776468347
   - [White ffffff / S](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154539974872)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9d850d978223e50b927e1e88c3821ff2.jpg?v=1755116978
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9d850d978223e50b927e1e88c3821ff2.jpg?v=1776468347
     Price: $40.00 USD
   - [Sparrow green-184b7a / S](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540007640)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/82ec08a737edcf63b366ea390fc9c42a.jpg?v=1755116984
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/82ec08a737edcf63b366ea390fc9c42a.jpg?v=1776468347
     Price: $40.00 USD
   - [Sky  Blue-00b7cb / S](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540040408)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2e6697b34da2f9a99c318a212257d12b.jpg?v=1755116990
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2e6697b34da2f9a99c318a212257d12b.jpg?v=1776468347
     Price: $40.00 USD
   - [Sapphire blue-0a3e92 / S](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540073176)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/02bb4a24ccb692c2c564ec96b1b0d575.jpg?v=1755116996
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/02bb4a24ccb692c2c564ec96b1b0d575.jpg?v=1776468347
     Price: $40.00 USD
   - [Navy  blue-1a1c31 / S](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540105944)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/0a79ef01e52db0e5502d0eac40716a57.jpg?v=1755117002
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/0a79ef01e52db0e5502d0eac40716a57.jpg?v=1776468347
     Price: $40.00 USD
   - [Mint Green-07cea6 / S](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540138712)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/af1e13ab885b8b0aba53cd7cec950d3d.jpg?v=1755116926
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/af1e13ab885b8b0aba53cd7cec950d3d.jpg?v=1776468347
     Price: $40.00 USD
   - [Medium yellow-f8c101 / S](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540171480)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1f23f69d57241c931ca4b3046945b7d6.jpg?v=1755117010
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1f23f69d57241c931ca4b3046945b7d6.jpg?v=1776468347
     Price: $40.00 USD
   - [Medium green-009134 / S](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540204248)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3758bd14d0ca0835d4b52ad68569c252.jpg?v=1755116915
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3758bd14d0ca0835d4b52ad68569c252.jpg?v=1776468347
     Price: $40.00 USD
   - [Medium Orange-f35b00 / S](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540237016)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5917390c3e38a7b1cf3b8f261bc40899.jpg?v=1755116936
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5917390c3e38a7b1cf3b8f261bc40899.jpg?v=1776468347
     Price: $40.00 USD
   - [Magenta-f64d89 / S](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540269784)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/89497032cc31c84d8deb59d73dce0db3.jpg?v=1755117015
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/89497032cc31c84d8deb59d73dce0db3.jpg?v=1776468347
     Price: $40.00 USD
   - [Light purple-4f4087 / S](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540302552)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/22d540a3b0b9b86fbbde481c92994dba.jpg?v=1755117021
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/22d540a3b0b9b86fbbde481c92994dba.jpg?v=1776468347
     Price: $40.00 USD
   - [Light heather grey-c5c5c5 / S](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540335320)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cb76f7ff210b6af3f6269f496e011ac3.jpg?v=1755117028
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cb76f7ff210b6af3f6269f496e011ac3.jpg?v=1776468347
     Price: $40.00 USD
   - [Light apricot color-ffffc9 / S](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540368088)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/006288f74b7ddb29ffc617add4655f55.jpg?v=1755116904
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/006288f74b7ddb29ffc617add4655f55.jpg?v=1776468347
     Price: $40.00 USD
   - [Light  green-4e9434 / S](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540400856)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7d03894abb841b1724670dc1d3373611.jpg?v=1755117032
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7d03894abb841b1724670dc1d3373611.jpg?v=1776468347
     Price: $40.00 USD
   - [Grey blue-607d86 / S](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540433624)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/86b145022b16e636f15a9beb30bb30a7.jpg?v=1755117038
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/86b145022b16e636f15a9beb30bb30a7.jpg?v=1776468347
     Price: $40.00 USD
   - [Deep purple-421f54 / S](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540466392)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5dc76d89b68424d9f61c18ad462459f6.jpg?v=1755116899
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5dc76d89b68424d9f61c18ad462459f6.jpg?v=1776468347
     Price: $40.00 USD
   - [Dark crimson-571515 / S](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540499160)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/0973a8be33d2852a9bfe431dddcb147b.jpg?v=1755116920
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/0973a8be33d2852a9bfe431dddcb147b.jpg?v=1776468347
     Price: $40.00 USD
   - [Dark brown-281c16 / S](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540531928)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/610f61f406827ecb91c41b53b694f5e9.jpg?v=1755116909
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/610f61f406827ecb91c41b53b694f5e9.jpg?v=1776468347
     Price: $40.00 USD
   - [Dark Dark Green-474a53 / S](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540564696)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8b8990d2003743c12fb7cf3b4e2c4bc1.jpg?v=1755117044
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8b8990d2003743c12fb7cf3b4e2c4bc1.jpg?v=1776468347
     Price: $40.00 USD
   - [Dark  green-172f1e / S](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540597464)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9693214fdf1e54a2e3e9f337dcc0709c.jpg?v=1755117048
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9693214fdf1e54a2e3e9f337dcc0709c.jpg?v=1776468347
     Price: $40.00 USD
   - [Dark  Blue-252462 / S](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540630232)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/17256630cf828bb2f4bb00ae50e9385a.jpg?v=1755116931
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/17256630cf828bb2f4bb00ae50e9385a.jpg?v=1776468347
     Price: $40.00 USD
   - [Black / S](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540663000)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cc84a20d3246c4ca998a6ca3e72e4f55.jpg?v=1755117054
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cc84a20d3246c4ca998a6ca3e72e4f55.jpg?v=1776468347
     Price: $40.00 USD
   - [Baby blue-adc6e8 / S](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540695768)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9dc4b4a6cd25934430542d02c1142977.jpg?v=1755117059
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9dc4b4a6cd25934430542d02c1142977.jpg?v=1776468347
     Price: $40.00 USD
   - [White ffffff / M](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540728536)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9d850d978223e50b927e1e88c3821ff2.jpg?v=1755116978
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9d850d978223e50b927e1e88c3821ff2.jpg?v=1776468347
     Price: $40.00 USD
   - [Sparrow green-184b7a / M](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540761304)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/82ec08a737edcf63b366ea390fc9c42a.jpg?v=1755116984
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/82ec08a737edcf63b366ea390fc9c42a.jpg?v=1776468347
     Price: $40.00 USD
   - [Sky  Blue-00b7cb / M](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540794072)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2e6697b34da2f9a99c318a212257d12b.jpg?v=1755116990
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2e6697b34da2f9a99c318a212257d12b.jpg?v=1776468347
     Price: $40.00 USD
   - [Sapphire blue-0a3e92 / M](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540826840)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/02bb4a24ccb692c2c564ec96b1b0d575.jpg?v=1755116996
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/02bb4a24ccb692c2c564ec96b1b0d575.jpg?v=1776468347
     Price: $40.00 USD
   - [Navy  blue-1a1c31 / M](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540859608)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/0a79ef01e52db0e5502d0eac40716a57.jpg?v=1755117002
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/0a79ef01e52db0e5502d0eac40716a57.jpg?v=1776468347
     Price: $40.00 USD
   - [Mint Green-07cea6 / M](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540892376)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/af1e13ab885b8b0aba53cd7cec950d3d.jpg?v=1755116926
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/af1e13ab885b8b0aba53cd7cec950d3d.jpg?v=1776468347
     Price: $40.00 USD
   - [Medium yellow-f8c101 / M](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540925144)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1f23f69d57241c931ca4b3046945b7d6.jpg?v=1755117010
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1f23f69d57241c931ca4b3046945b7d6.jpg?v=1776468347
     Price: $40.00 USD
   - [Medium green-009134 / M](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540957912)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3758bd14d0ca0835d4b52ad68569c252.jpg?v=1755116915
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3758bd14d0ca0835d4b52ad68569c252.jpg?v=1776468347
     Price: $40.00 USD
   - [Medium Orange-f35b00 / M](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154540990680)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5917390c3e38a7b1cf3b8f261bc40899.jpg?v=1755116936
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5917390c3e38a7b1cf3b8f261bc40899.jpg?v=1776468347
     Price: $40.00 USD
   - [Magenta-f64d89 / M](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154541023448)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/89497032cc31c84d8deb59d73dce0db3.jpg?v=1755117015
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/89497032cc31c84d8deb59d73dce0db3.jpg?v=1776468347
     Price: $40.00 USD
   - [Light purple-4f4087 / M](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154541056216)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/22d540a3b0b9b86fbbde481c92994dba.jpg?v=1755117021
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/22d540a3b0b9b86fbbde481c92994dba.jpg?v=1776468347
     Price: $40.00 USD
   - [Light heather grey-c5c5c5 / M](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154541088984)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cb76f7ff210b6af3f6269f496e011ac3.jpg?v=1755117028
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cb76f7ff210b6af3f6269f496e011ac3.jpg?v=1776468347
     Price: $40.00 USD
   - [Light apricot color-ffffc9 / M](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154541121752)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/006288f74b7ddb29ffc617add4655f55.jpg?v=1755116904
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/006288f74b7ddb29ffc617add4655f55.jpg?v=1776468347
     Price: $40.00 USD
   - [Light  green-4e9434 / M](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154541154520)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7d03894abb841b1724670dc1d3373611.jpg?v=1755117032
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7d03894abb841b1724670dc1d3373611.jpg?v=1776468347
     Price: $40.00 USD
   - [Grey blue-607d86 / M](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154541187288)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/86b145022b16e636f15a9beb30bb30a7.jpg?v=1755117038
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/86b145022b16e636f15a9beb30bb30a7.jpg?v=1776468347
     Price: $40.00 USD
   - [Deep purple-421f54 / M](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154541220056)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5dc76d89b68424d9f61c18ad462459f6.jpg?v=1755116899
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5dc76d89b68424d9f61c18ad462459f6.jpg?v=1776468347
     Price: $40.00 USD
   - [Dark crimson-571515 / M](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154541252824)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/0973a8be33d2852a9bfe431dddcb147b.jpg?v=1755116920
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/0973a8be33d2852a9bfe431dddcb147b.jpg?v=1776468347
     Price: $40.00 USD
   - [Dark brown-281c16 / M](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154541285592)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/610f61f406827ecb91c41b53b694f5e9.jpg?v=1755116909
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/610f61f406827ecb91c41b53b694f5e9.jpg?v=1776468347
     Price: $40.00 USD
   - [Dark Dark Green-474a53 / M](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154541318360)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8b8990d2003743c12fb7cf3b4e2c4bc1.jpg?v=1755117044
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8b8990d2003743c12fb7cf3b4e2c4bc1.jpg?v=1776468347
     Price: $40.00 USD
   - [Dark  green-172f1e / M](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154541351128)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9693214fdf1e54a2e3e9f337dcc0709c.jpg?v=1755117048
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9693214fdf1e54a2e3e9f337dcc0709c.jpg?v=1776468347
     Price: $40.00 USD
   - [Dark  Blue-252462 / M](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154541383896)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/17256630cf828bb2f4bb00ae50e9385a.jpg?v=1755116931
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/17256630cf828bb2f4bb00ae50e9385a.jpg?v=1776468347
     Price: $40.00 USD
   - [Black / M](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154541416664)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cc84a20d3246c4ca998a6ca3e72e4f55.jpg?v=1755117054
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cc84a20d3246c4ca998a6ca3e72e4f55.jpg?v=1776468347
     Price: $40.00 USD
   - [Baby blue-adc6e8 / M](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154541449432)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9dc4b4a6cd25934430542d02c1142977.jpg?v=1755117059
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9dc4b4a6cd25934430542d02c1142977.jpg?v=1776468347
     Price: $40.00 USD
   - [White ffffff / L](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154541482200)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9d850d978223e50b927e1e88c3821ff2.jpg?v=1755116978
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9d850d978223e50b927e1e88c3821ff2.jpg?v=1776468347
     Price: $40.00 USD
   - [Sparrow green-184b7a / L](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154541514968)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/82ec08a737edcf63b366ea390fc9c42a.jpg?v=1755116984
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/82ec08a737edcf63b366ea390fc9c42a.jpg?v=1776468347
     Price: $40.00 USD
   - [Sky  Blue-00b7cb / L](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154541547736)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2e6697b34da2f9a99c318a212257d12b.jpg?v=1755116990
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2e6697b34da2f9a99c318a212257d12b.jpg?v=1776468347
     Price: $40.00 USD
   - [Sapphire blue-0a3e92 / L](https://munsieur.com/products/munsieur-classic-tee-for-men-designed-for-the-modern-icon?variant=50154541580504)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/02bb4a24ccb692c2c564ec96b1b0d575.jpg?v=1755116996
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/02bb4a24ccb692c2c564ec96b1b0d575.jpg?v=1776468347
     Price: $40.00 USD
 - [Unapologetic Tee - Premium Heavyweight Gothic Streetwear | MUNSIEUR](https://munsieur.com/products/munsieur-premium-tee-for-men-bold-clean-unapologetic): Premium heavyweight cotton tee with couture embroidery. Small-batch gothic luxury streetwear designed to endure. Shop MUNSIEUR's Ceremonial Collection.
-  Updated: 2026-04-03T13:57:19Z
+  Updated: 2026-04-18T11:22:37Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e65693bc18ab0e7c5358889c1336a82d.jpg?v=1755117064
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e65693bc18ab0e7c5358889c1336a82d.png?v=1776468148
   - [White ffffff / S](https://munsieur.com/products/munsieur-premium-tee-for-men-bold-clean-unapologetic?variant=50154565042392)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6caa29385526c479645a7bce7dbc9877.jpg?v=1755117079
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6caa29385526c479645a7bce7dbc9877.jpg?v=1776468148
     Price: $40.00 USD
   - [Black / S](https://munsieur.com/products/munsieur-premium-tee-for-men-bold-clean-unapologetic?variant=50154565075160)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/eaa508f3855a61144578524e72c33f10.jpg?v=1755117085
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/eaa508f3855a61144578524e72c33f10.jpg?v=1776468148
     Price: $40.00 USD
   - [White ffffff / M](https://munsieur.com/products/munsieur-premium-tee-for-men-bold-clean-unapologetic?variant=50154565107928)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6caa29385526c479645a7bce7dbc9877.jpg?v=1755117079
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6caa29385526c479645a7bce7dbc9877.jpg?v=1776468148
     Price: $40.00 USD
   - [Black / M](https://munsieur.com/products/munsieur-premium-tee-for-men-bold-clean-unapologetic?variant=50154565140696)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/eaa508f3855a61144578524e72c33f10.jpg?v=1755117085
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/eaa508f3855a61144578524e72c33f10.jpg?v=1776468148
     Price: $40.00 USD
   - [White ffffff / L](https://munsieur.com/products/munsieur-premium-tee-for-men-bold-clean-unapologetic?variant=50154565173464)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6caa29385526c479645a7bce7dbc9877.jpg?v=1755117079
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6caa29385526c479645a7bce7dbc9877.jpg?v=1776468148
     Price: $40.00 USD
   - [Black / L](https://munsieur.com/products/munsieur-premium-tee-for-men-bold-clean-unapologetic?variant=50154565206232)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/eaa508f3855a61144578524e72c33f10.jpg?v=1755117085
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/eaa508f3855a61144578524e72c33f10.jpg?v=1776468148
     Price: $40.00 USD
   - [White ffffff / XL](https://munsieur.com/products/munsieur-premium-tee-for-men-bold-clean-unapologetic?variant=50154565239000)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6caa29385526c479645a7bce7dbc9877.jpg?v=1755117079
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6caa29385526c479645a7bce7dbc9877.jpg?v=1776468148
     Price: $40.00 USD
   - [Black / XL](https://munsieur.com/products/munsieur-premium-tee-for-men-bold-clean-unapologetic?variant=50154565271768)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/eaa508f3855a61144578524e72c33f10.jpg?v=1755117085
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/eaa508f3855a61144578524e72c33f10.jpg?v=1776468148
     Price: $40.00 USD
   - [White ffffff / 2XL](https://munsieur.com/products/munsieur-premium-tee-for-men-bold-clean-unapologetic?variant=50154565304536)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6caa29385526c479645a7bce7dbc9877.jpg?v=1755117079
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6caa29385526c479645a7bce7dbc9877.jpg?v=1776468148
     Price: $40.00 USD
   - [Black / 2XL](https://munsieur.com/products/munsieur-premium-tee-for-men-bold-clean-unapologetic?variant=50154565337304)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/eaa508f3855a61144578524e72c33f10.jpg?v=1755117085
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/eaa508f3855a61144578524e72c33f10.jpg?v=1776468148
     Price: $40.00 USD
   - [White ffffff / 3XL](https://munsieur.com/products/munsieur-premium-tee-for-men-bold-clean-unapologetic?variant=50154565370072)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6caa29385526c479645a7bce7dbc9877.jpg?v=1755117079
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6caa29385526c479645a7bce7dbc9877.jpg?v=1776468148
     Price: $40.00 USD
   - [Black / 3XL](https://munsieur.com/products/munsieur-premium-tee-for-men-bold-clean-unapologetic?variant=50154565402840)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/eaa508f3855a61144578524e72c33f10.jpg?v=1755117085
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/eaa508f3855a61144578524e72c33f10.jpg?v=1776468148
     Price: $40.00 USD
   - [White ffffff / 4XL](https://munsieur.com/products/munsieur-premium-tee-for-men-bold-clean-unapologetic?variant=50154565435608)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6caa29385526c479645a7bce7dbc9877.jpg?v=1755117079
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6caa29385526c479645a7bce7dbc9877.jpg?v=1776468148
     Price: $40.00 USD
   - [Black / 4XL](https://munsieur.com/products/munsieur-premium-tee-for-men-bold-clean-unapologetic?variant=50154565468376)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/eaa508f3855a61144578524e72c33f10.jpg?v=1755117085
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/eaa508f3855a61144578524e72c33f10.jpg?v=1776468148
     Price: $40.00 USD
   - [White ffffff / 5XL](https://munsieur.com/products/munsieur-premium-tee-for-men-bold-clean-unapologetic?variant=50154565501144)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6caa29385526c479645a7bce7dbc9877.jpg?v=1755117079
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6caa29385526c479645a7bce7dbc9877.jpg?v=1776468148
     Price: $40.00 USD
   - [Black / 5XL](https://munsieur.com/products/munsieur-premium-tee-for-men-bold-clean-unapologetic?variant=50154565533912)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/eaa508f3855a61144578524e72c33f10.jpg?v=1755117085
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/eaa508f3855a61144578524e72c33f10.jpg?v=1776468148
     Price: $40.00 USD
-- [Urban Sanctuary Hoodie - Premium Gothic Streetwear | MUNSIEUR](https://munsieur.com/products/urban-sanctuary-hoodie-comfortable-premium): Premium heavyweight gothic hoodie with couture embroidery. Small-batch luxury streetwear designed to endure. Shop MUNSIEUR's Ceremonial Collection.
-  Updated: 2026-04-03T13:57:18Z
+- [Urban Sanctuary Hoodie — Premium Gothic Luxury Streetwear | MUNSIEUR](https://munsieur.com/products/urban-sanctuary-hoodie-comfortable-premium): Hand-embroidered heavyweight gothic hoodie. Small-batch atelier production. Oversized silhouette, brushed interior. Limited MUNSIEUR release. No restock.
+  Updated: 2026-04-20T18:01:27Z
   Vendor: Munsieur
   Product Type: Outerwear
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-mens-hoodie-red-front-back.jpg?v=1772228002
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-mens-hoodie-red-front-back.jpg?v=1776708035
   - [White ffffff / S](https://munsieur.com/products/urban-sanctuary-hoodie-comfortable-premium?variant=50154568122584)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-mens-hoodie-white-front-back.jpg?v=1772228002
@@ -1520,7 +1520,7 @@
     Price: $150.00 USD
   - [Dark crimson-571515 / S](https://munsieur.com/products/urban-sanctuary-hoodie-comfortable-premium?variant=50154568646872)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-mens-hoodie-red-front-back.jpg?v=1772228002
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-mens-hoodie-red-front-back.jpg?v=1776708035
     Price: $150.00 USD
   - [Dark brown-281c16 / S](https://munsieur.com/products/urban-sanctuary-hoodie-comfortable-premium?variant=50154568679640)
     Availability: Available
@@ -1616,7 +1616,7 @@
     Price: $150.00 USD
   - [Dark crimson-571515 / M](https://munsieur.com/products/urban-sanctuary-hoodie-comfortable-premium?variant=50154569433304)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-mens-hoodie-red-front-back.jpg?v=1772228002
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-mens-hoodie-red-front-back.jpg?v=1776708035
     Price: $150.00 USD
   - [Dark brown-281c16 / M](https://munsieur.com/products/urban-sanctuary-hoodie-comfortable-premium?variant=50154569466072)
     Availability: Available
@@ -1654,211 +1654,211 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/vendor-comfortable-mens-hoodie-blue-front-back.jpg?v=1755117168
     Price: $150.00 USD
-- [Bold Statement Hoodie | Gothic Ceremonial | MUNSIEUR](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur): Bold Statement Hoodie embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:57:17Z
+- [Bold Statement Hoodie — Heavyweight Gothic Streetwear | MUNSIEUR](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur): Bold Statement Hoodie — heavyweight fleece, dark gothic silhouette. Luxury streetwear built to last. Limited MUNSIEUR drop. Free US shipping.
+  Updated: 2026-04-21T05:22:16Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-yellow-front-back.jpg?v=1755117274
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-black-front-back.png?v=1776705723
   - [White ffffff / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575266008)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-white-front-back.jpg?v=1755117326
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-white-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Sparrow green-184b7a / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575298776)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-blue-front-back.jpg?v=1755117332
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-blue-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Sky  Blue-00b7cb / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575331544)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-aqua-front-back.jpg?v=1755117337
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-aqua-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Sapphire blue-0a3e92 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575364312)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-dark-blue-front-back.jpg?v=1755117342
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-dark-blue-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Navy  blue-1a1c31 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575397080)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-navy-front-back.jpg?v=1755117347
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-navy-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Mint Green-07cea6 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575429848)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-teal-front-back.jpg?v=1755117285
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-teal-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Medium yellow-f8c101 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575462616)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-yellow-front-back.jpg?v=1755117274
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-yellow-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Medium green-009134 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575495384)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-green-front-back.jpg?v=1755117353
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-green-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Medium Orange-f35b00 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575528152)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-orange-front-back.jpg?v=1755117358
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-orange-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Magenta-f64d89 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575560920)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-pink-front-back.jpg?v=1755117364
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-pink-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Light purple-4f4087 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575593688)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-purple-front-back.jpg?v=1755117371
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-purple-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Light heather grey-c5c5c5 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575626456)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-gray-front-back.jpg?v=1755117377
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-gray-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Light apricot color-ffffc9 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575659224)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-beige-front-back.jpg?v=1755117382
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-beige-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Light  green-4e9434 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575691992)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-light-green-front-back.jpg?v=1755117279
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-light-green-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Grey blue-607d86 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575724760)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-teal-grey-front-back.jpg?v=1755117387
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-teal-grey-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Deep purple-421f54 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575757528)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-dark-purple-front-back.jpg?v=1755117393
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-dark-purple-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Dark crimson-571515 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575790296)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-red-front-back.jpg?v=1755117398
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-red-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Dark brown-281c16 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575823064)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-black-front-back.jpg?v=1755117403
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-black-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Dark Dark Green-474a53 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575855832)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ab04cb24d85d145d5af42a64b63bb129.jpg?v=1755117408
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ab04cb24d85d145d5af42a64b63bb129.jpg?v=1776705723
     Price: $135.00 USD
   - [Dark  green-172f1e / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575888600)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a2c81635e924ddbfef7f86c6b38922ff.jpg?v=1755117415
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a2c81635e924ddbfef7f86c6b38922ff.jpg?v=1776705723
     Price: $135.00 USD
   - [Dark  Blue-252462 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575921368)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4e30155cac5caf4f33c93c969998627f.jpg?v=1755117420
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4e30155cac5caf4f33c93c969998627f.jpg?v=1776705723
     Price: $135.00 USD
   - [Bordeaux-9f1d2a / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575954136)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/19387c045830b58bf1a6fe5efe50b7c7.jpg?v=1755117426
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/19387c045830b58bf1a6fe5efe50b7c7.jpg?v=1776705723
     Price: $135.00 USD
   - [Black / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154575986904)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ebe60c20e65e1aadf5d1ea1dce3cd346.jpg?v=1755117432
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ebe60c20e65e1aadf5d1ea1dce3cd346.jpg?v=1776705723
     Price: $135.00 USD
   - [Baby blue-adc6e8 / S](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576019672)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/88412801e73dc2f9333c80f557c8e8c2.jpg?v=1755117439
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/88412801e73dc2f9333c80f557c8e8c2.jpg?v=1776705723
     Price: $135.00 USD
   - [White ffffff / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576052440)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-white-front-back.jpg?v=1755117326
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-white-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Sparrow green-184b7a / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576085208)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-blue-front-back.jpg?v=1755117332
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-blue-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Sky  Blue-00b7cb / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576117976)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-aqua-front-back.jpg?v=1755117337
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-aqua-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Sapphire blue-0a3e92 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576150744)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-dark-blue-front-back.jpg?v=1755117342
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-dark-blue-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Navy  blue-1a1c31 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576183512)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-navy-front-back.jpg?v=1755117347
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-navy-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Mint Green-07cea6 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576216280)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-teal-front-back.jpg?v=1755117285
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-teal-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Medium yellow-f8c101 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576249048)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-yellow-front-back.jpg?v=1755117274
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-yellow-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Medium green-009134 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576281816)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-green-front-back.jpg?v=1755117353
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-green-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Medium Orange-f35b00 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576314584)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-orange-front-back.jpg?v=1755117358
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-orange-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Magenta-f64d89 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576347352)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-pink-front-back.jpg?v=1755117364
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-pink-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Light purple-4f4087 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576380120)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-purple-front-back.jpg?v=1755117371
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-purple-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Light heather grey-c5c5c5 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576412888)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-gray-front-back.jpg?v=1755117377
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-gray-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Light apricot color-ffffc9 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576445656)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-beige-front-back.jpg?v=1755117382
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-beige-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Light  green-4e9434 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576478424)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-light-green-front-back.jpg?v=1755117279
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-light-green-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Grey blue-607d86 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576511192)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-teal-grey-front-back.jpg?v=1755117387
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-teal-grey-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Deep purple-421f54 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576543960)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-dark-purple-front-back.jpg?v=1755117393
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-dark-purple-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Dark crimson-571515 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576576728)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-red-front-back.jpg?v=1755117398
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-red-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Dark brown-281c16 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576609496)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-black-front-back.jpg?v=1755117403
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-black-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Dark Dark Green-474a53 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576642264)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ab04cb24d85d145d5af42a64b63bb129.jpg?v=1755117408
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ab04cb24d85d145d5af42a64b63bb129.jpg?v=1776705723
     Price: $135.00 USD
   - [Dark  green-172f1e / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576675032)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a2c81635e924ddbfef7f86c6b38922ff.jpg?v=1755117415
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a2c81635e924ddbfef7f86c6b38922ff.jpg?v=1776705723
     Price: $135.00 USD
   - [Dark  Blue-252462 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576707800)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4e30155cac5caf4f33c93c969998627f.jpg?v=1755117420
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4e30155cac5caf4f33c93c969998627f.jpg?v=1776705723
     Price: $135.00 USD
   - [Bordeaux-9f1d2a / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576740568)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/19387c045830b58bf1a6fe5efe50b7c7.jpg?v=1755117426
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/19387c045830b58bf1a6fe5efe50b7c7.jpg?v=1776705723
     Price: $135.00 USD
   - [Black / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576773336)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ebe60c20e65e1aadf5d1ea1dce3cd346.jpg?v=1755117432
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ebe60c20e65e1aadf5d1ea1dce3cd346.jpg?v=1776705723
     Price: $135.00 USD
   - [Baby blue-adc6e8 / M](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576806104)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/88412801e73dc2f9333c80f557c8e8c2.jpg?v=1755117439
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/88412801e73dc2f9333c80f557c8e8c2.jpg?v=1776705723
     Price: $135.00 USD
   - [White ffffff / L](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576838872)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-white-front-back.jpg?v=1755117326
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-white-front-back.jpg?v=1776705723
     Price: $135.00 USD
   - [Sparrow green-184b7a / L](https://munsieur.com/products/bold-urban-fashion-hoodie-munsieur?variant=50154576871640)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-blue-front-back.jpg?v=1755117332
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-bold-urban-fashion-hoodie-blue-front-back.jpg?v=1776705723
     Price: $135.00 USD
 - [Urban Design Hoodie | Dark Luxury Streetwear | Munsieur](https://munsieur.com/products/comfortable-urban-fashion-hoodie-munsieur): Where urban architecture meets gothic craft. The Urban Design Hoodie features a structured heavyweight silhouette with intentional design details — built for the city, engineered to outlast it.
   Updated: 2026-04-03T13:57:16Z
@@ -3230,8 +3230,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/81735726a06da9d928c370feda7bbea1.jpg?v=1755118397
     Price: $129.95 USD
-- [Shadow Reaper Hoodie - Luxe Skull Embroidery Gothic Stree...](https://munsieur.com/products/munsieur-shadow-reaper-luxe-skull-hoodie-for-men): Shadow Reaper Hoodie - Luxe Skull Embroidery Gothic Streetwear embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR cr...
-  Updated: 2026-04-03T13:57:08Z
+- [Shadow Reaper Hoodie — Skull Embroidery Gothic Streetwear | MUNSIEUR](https://munsieur.com/products/munsieur-shadow-reaper-luxe-skull-hoodie-for-men): Shadow Reaper Hoodie — heavyweight fleece, luxe skull embroidery. Dark gothic luxury streetwear. Limited MUNSIEUR drop. Free US shipping.
+  Updated: 2026-04-15T22:17:20Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -3436,8 +3436,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c2314e6d67ff7ddabb40e0dfd78244c6.jpg?v=1755118544
     Price: $130.00 USD
-- [Skull Embroidered Hoodie | Couture Gothic Streetwear](https://munsieur.com/products/skull-embroidered-hoodie-gothic-luxury): 400GSM heavyweight fleece with multi-dimensional skull embroidery. Heirloom-quality gothic luxury built to last 5-10+ years. Premium ceremonial streetwear.
-  Updated: 2026-04-03T13:57:06Z
+- [Skull Embroidered Hoodie — Premium Gothic Luxury Streetwear | MUNSIEUR](https://munsieur.com/products/skull-embroidered-hoodie-gothic-luxury): Hand-embroidered skull heavyweight gothic hoodie. Small-batch atelier production. Oversized silhouette, brushed interior. Limited MUNSIEUR release.
+  Updated: 2026-04-14T05:35:15Z
   Vendor: Munsieur
   Product Type: Outerwear
   Availability: Available
@@ -3643,536 +3643,536 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/munsieur-streetwear-collection-dark-blue-hoodie-gold-logo.jpg?v=1755118710
     Price: $65.00 USD
 - [Women's Gothic Luxury T-Shirt | Soft Heavyweight Cotton | Munsieur](https://munsieur.com/products/munsieur-t-shirt-for-women-designed-for-comfort-styled-for-impact-for-her): Munsieur women's tee — premium heavyweight cotton, bold streetwear graphics, ceremonial gothic aesthetic. Styled for impact. Free US shipping.
-  Updated: 2026-04-03T13:57:05Z
+  Updated: 2026-04-18T12:47:04Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c3672c8902628362a9dd37dad643bdb5.jpg?v=1755118788
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c3672c8902628362a9dd37dad643bdb5_9a0f9b96-a9a0-4d36-aea4-18efe56a97ab.png?v=1776473216
   - [White ffffff / L](https://munsieur.com/products/munsieur-t-shirt-for-women-designed-for-comfort-styled-for-impact-for-her?variant=50154831413464)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/69d7c65260f3a568c0591680f32feb74.jpg?v=1755118801
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/69d7c65260f3a568c0591680f32feb74.jpg?v=1776473216
     Price: $56.96 USD
   - [Red e01d2b / L](https://munsieur.com/products/munsieur-t-shirt-for-women-designed-for-comfort-styled-for-impact-for-her?variant=50154831446232)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/59df8754186c4568a97f1634bdf54c90.jpg?v=1755118808
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/59df8754186c4568a97f1634bdf54c90.jpg?v=1776473216
     Price: $56.96 USD
   - [Pink f0b2c5 / L](https://munsieur.com/products/munsieur-t-shirt-for-women-designed-for-comfort-styled-for-impact-for-her?variant=50154831479000)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/13725cac3bf0253919ddc19dfc9e9e2d.jpg?v=1755118794
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/13725cac3bf0253919ddc19dfc9e9e2d.jpg?v=1776473216
     Price: $56.96 USD
   - [Navy 1d395e / L](https://munsieur.com/products/munsieur-t-shirt-for-women-designed-for-comfort-styled-for-impact-for-her?variant=50154831511768)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7139b8505d719156ea1b1889b5173ad8.jpg?v=1755118814
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7139b8505d719156ea1b1889b5173ad8.jpg?v=1776473216
     Price: $56.96 USD
   - [Dark Gray 5b5b5b / L](https://munsieur.com/products/munsieur-t-shirt-for-women-designed-for-comfort-styled-for-impact-for-her?variant=50154831544536)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/77ef42098c07f65a4fbd397b0f961905.jpg?v=1755118821
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/77ef42098c07f65a4fbd397b0f961905.jpg?v=1776473216
     Price: $56.96 USD
   - [Black / L](https://munsieur.com/products/munsieur-t-shirt-for-women-designed-for-comfort-styled-for-impact-for-her?variant=50154831577304)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c3672c8902628362a9dd37dad643bdb5.jpg?v=1755118788
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c3672c8902628362a9dd37dad643bdb5.jpg?v=1776473216
     Price: $56.96 USD
   - [White ffffff / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-designed-for-comfort-styled-for-impact-for-her?variant=50154831610072)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/69d7c65260f3a568c0591680f32feb74.jpg?v=1755118801
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/69d7c65260f3a568c0591680f32feb74.jpg?v=1776473216
     Price: $56.96 USD
   - [Red e01d2b / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-designed-for-comfort-styled-for-impact-for-her?variant=50154831642840)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/59df8754186c4568a97f1634bdf54c90.jpg?v=1755118808
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/59df8754186c4568a97f1634bdf54c90.jpg?v=1776473216
     Price: $56.96 USD
   - [Pink f0b2c5 / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-designed-for-comfort-styled-for-impact-for-her?variant=50154831675608)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/13725cac3bf0253919ddc19dfc9e9e2d.jpg?v=1755118794
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/13725cac3bf0253919ddc19dfc9e9e2d.jpg?v=1776473216
     Price: $56.96 USD
   - [Navy 1d395e / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-designed-for-comfort-styled-for-impact-for-her?variant=50154831708376)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7139b8505d719156ea1b1889b5173ad8.jpg?v=1755118814
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7139b8505d719156ea1b1889b5173ad8.jpg?v=1776473216
     Price: $56.96 USD
   - [Dark Gray 5b5b5b / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-designed-for-comfort-styled-for-impact-for-her?variant=50154831741144)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/77ef42098c07f65a4fbd397b0f961905.jpg?v=1755118821
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/77ef42098c07f65a4fbd397b0f961905.jpg?v=1776473216
     Price: $56.96 USD
   - [Black / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-designed-for-comfort-styled-for-impact-for-her?variant=50154831773912)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c3672c8902628362a9dd37dad643bdb5.jpg?v=1755118788
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c3672c8902628362a9dd37dad643bdb5.jpg?v=1776473216
     Price: $56.96 USD
   - [White ffffff / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-designed-for-comfort-styled-for-impact-for-her?variant=50154831806680)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/69d7c65260f3a568c0591680f32feb74.jpg?v=1755118801
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/69d7c65260f3a568c0591680f32feb74.jpg?v=1776473216
     Price: $56.96 USD
   - [Red e01d2b / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-designed-for-comfort-styled-for-impact-for-her?variant=50154831839448)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/59df8754186c4568a97f1634bdf54c90.jpg?v=1755118808
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/59df8754186c4568a97f1634bdf54c90.jpg?v=1776473216
     Price: $56.96 USD
   - [Pink f0b2c5 / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-designed-for-comfort-styled-for-impact-for-her?variant=50154831872216)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/13725cac3bf0253919ddc19dfc9e9e2d.jpg?v=1755118794
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/13725cac3bf0253919ddc19dfc9e9e2d.jpg?v=1776473216
     Price: $56.96 USD
   - [Navy 1d395e / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-designed-for-comfort-styled-for-impact-for-her?variant=50154831904984)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7139b8505d719156ea1b1889b5173ad8.jpg?v=1755118814
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7139b8505d719156ea1b1889b5173ad8.jpg?v=1776473216
     Price: $56.96 USD
   - [Dark Gray 5b5b5b / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-designed-for-comfort-styled-for-impact-for-her?variant=50154831937752)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/77ef42098c07f65a4fbd397b0f961905.jpg?v=1755118821
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/77ef42098c07f65a4fbd397b0f961905.jpg?v=1776473216
     Price: $56.96 USD
   - [Black / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-designed-for-comfort-styled-for-impact-for-her?variant=50154831970520)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c3672c8902628362a9dd37dad643bdb5.jpg?v=1755118788
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c3672c8902628362a9dd37dad643bdb5.jpg?v=1776473216
     Price: $56.96 USD
   - [White ffffff / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-designed-for-comfort-styled-for-impact-for-her?variant=50154832003288)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/69d7c65260f3a568c0591680f32feb74.jpg?v=1755118801
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/69d7c65260f3a568c0591680f32feb74.jpg?v=1776473216
     Price: $56.96 USD
   - [Red e01d2b / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-designed-for-comfort-styled-for-impact-for-her?variant=50154832036056)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/59df8754186c4568a97f1634bdf54c90.jpg?v=1755118808
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/59df8754186c4568a97f1634bdf54c90.jpg?v=1776473216
     Price: $56.96 USD
   - [Pink f0b2c5 / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-designed-for-comfort-styled-for-impact-for-her?variant=50154832068824)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/13725cac3bf0253919ddc19dfc9e9e2d.jpg?v=1755118794
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/13725cac3bf0253919ddc19dfc9e9e2d.jpg?v=1776473216
     Price: $56.96 USD
   - [Navy 1d395e / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-designed-for-comfort-styled-for-impact-for-her?variant=50154832101592)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7139b8505d719156ea1b1889b5173ad8.jpg?v=1755118814
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7139b8505d719156ea1b1889b5173ad8.jpg?v=1776473216
     Price: $56.96 USD
   - [Dark Gray 5b5b5b / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-designed-for-comfort-styled-for-impact-for-her?variant=50154832134360)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/77ef42098c07f65a4fbd397b0f961905.jpg?v=1755118821
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/77ef42098c07f65a4fbd397b0f961905.jpg?v=1776473216
     Price: $56.96 USD
   - [Black / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-designed-for-comfort-styled-for-impact-for-her?variant=50154832167128)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c3672c8902628362a9dd37dad643bdb5.jpg?v=1755118788
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c3672c8902628362a9dd37dad643bdb5.jpg?v=1776473216
     Price: $56.96 USD
 - [Munsieur T-Shirt for Women: A Wardrobe Essential for Ever...](https://munsieur.com/products/munsieur-t-shirt-for-women-a-wardrobe-essential-for-every-season-for-her): Munsieur T-Shirt for Women: A Wardrobe Essential for Every Season for Her embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. ...
-  Updated: 2026-04-03T13:57:04Z
+  Updated: 2026-04-21T08:53:39Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b730cead2fc4abad93199caef0d53d20.jpg?v=1755118887
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b5874dad71a601911bc027872556d44e.png?v=1776718407
   - [White ffffff / L](https://munsieur.com/products/munsieur-t-shirt-for-women-a-wardrobe-essential-for-every-season-for-her?variant=50154834428120)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/50da9a25a3456793104fe35d9558bdea.jpg?v=1755118919
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/50da9a25a3456793104fe35d9558bdea.jpg?v=1776718407
     Price: $65.00 USD
   - [Red e01d2b / L](https://munsieur.com/products/munsieur-t-shirt-for-women-a-wardrobe-essential-for-every-season-for-her?variant=50154834460888)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8077601af8cce1ca42f506cca0b63a40.jpg?v=1755118903
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8077601af8cce1ca42f506cca0b63a40.jpg?v=1776718407
     Price: $65.00 USD
   - [Pink f0b2c5 / L](https://munsieur.com/products/munsieur-t-shirt-for-women-a-wardrobe-essential-for-every-season-for-her?variant=50154834493656)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fe66360ca53d47b83b59fe3064d49242.jpg?v=1755118908
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fe66360ca53d47b83b59fe3064d49242.jpg?v=1776718407
     Price: $65.00 USD
   - [Navy 1d395e / L](https://munsieur.com/products/munsieur-t-shirt-for-women-a-wardrobe-essential-for-every-season-for-her?variant=50154834526424)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ef36e0cf871d4c19abea30b88bd2683c.jpg?v=1755118898
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ef36e0cf871d4c19abea30b88bd2683c.jpg?v=1776718407
     Price: $65.00 USD
   - [Dark Gray 5b5b5b / L](https://munsieur.com/products/munsieur-t-shirt-for-women-a-wardrobe-essential-for-every-season-for-her?variant=50154834559192)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/818f6fbcd217518bb196b2f1030fe597.jpg?v=1755118913
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/818f6fbcd217518bb196b2f1030fe597.jpg?v=1776718407
     Price: $65.00 USD
   - [Black / L](https://munsieur.com/products/munsieur-t-shirt-for-women-a-wardrobe-essential-for-every-season-for-her?variant=50154834591960)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b730cead2fc4abad93199caef0d53d20.jpg?v=1755118887
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b730cead2fc4abad93199caef0d53d20.jpg?v=1776718407
     Price: $65.00 USD
   - [White ffffff / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-a-wardrobe-essential-for-every-season-for-her?variant=50154834624728)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/50da9a25a3456793104fe35d9558bdea.jpg?v=1755118919
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/50da9a25a3456793104fe35d9558bdea.jpg?v=1776718407
     Price: $65.00 USD
   - [Red e01d2b / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-a-wardrobe-essential-for-every-season-for-her?variant=50154834657496)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8077601af8cce1ca42f506cca0b63a40.jpg?v=1755118903
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8077601af8cce1ca42f506cca0b63a40.jpg?v=1776718407
     Price: $65.00 USD
   - [Pink f0b2c5 / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-a-wardrobe-essential-for-every-season-for-her?variant=50154834690264)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fe66360ca53d47b83b59fe3064d49242.jpg?v=1755118908
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fe66360ca53d47b83b59fe3064d49242.jpg?v=1776718407
     Price: $65.00 USD
   - [Navy 1d395e / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-a-wardrobe-essential-for-every-season-for-her?variant=50154834723032)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ef36e0cf871d4c19abea30b88bd2683c.jpg?v=1755118898
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ef36e0cf871d4c19abea30b88bd2683c.jpg?v=1776718407
     Price: $65.00 USD
   - [Dark Gray 5b5b5b / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-a-wardrobe-essential-for-every-season-for-her?variant=50154834755800)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/818f6fbcd217518bb196b2f1030fe597.jpg?v=1755118913
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/818f6fbcd217518bb196b2f1030fe597.jpg?v=1776718407
     Price: $65.00 USD
   - [Black / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-a-wardrobe-essential-for-every-season-for-her?variant=50154834788568)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b730cead2fc4abad93199caef0d53d20.jpg?v=1755118887
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b730cead2fc4abad93199caef0d53d20.jpg?v=1776718407
     Price: $65.00 USD
   - [White ffffff / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-a-wardrobe-essential-for-every-season-for-her?variant=50154834821336)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/50da9a25a3456793104fe35d9558bdea.jpg?v=1755118919
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/50da9a25a3456793104fe35d9558bdea.jpg?v=1776718407
     Price: $65.00 USD
   - [Red e01d2b / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-a-wardrobe-essential-for-every-season-for-her?variant=50154834854104)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8077601af8cce1ca42f506cca0b63a40.jpg?v=1755118903
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8077601af8cce1ca42f506cca0b63a40.jpg?v=1776718407
     Price: $65.00 USD
   - [Pink f0b2c5 / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-a-wardrobe-essential-for-every-season-for-her?variant=50154834886872)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fe66360ca53d47b83b59fe3064d49242.jpg?v=1755118908
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fe66360ca53d47b83b59fe3064d49242.jpg?v=1776718407
     Price: $65.00 USD
   - [Navy 1d395e / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-a-wardrobe-essential-for-every-season-for-her?variant=50154834919640)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ef36e0cf871d4c19abea30b88bd2683c.jpg?v=1755118898
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ef36e0cf871d4c19abea30b88bd2683c.jpg?v=1776718407
     Price: $65.00 USD
   - [Dark Gray 5b5b5b / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-a-wardrobe-essential-for-every-season-for-her?variant=50154834952408)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/818f6fbcd217518bb196b2f1030fe597.jpg?v=1755118913
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/818f6fbcd217518bb196b2f1030fe597.jpg?v=1776718407
     Price: $65.00 USD
   - [Black / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-a-wardrobe-essential-for-every-season-for-her?variant=50154834985176)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b730cead2fc4abad93199caef0d53d20.jpg?v=1755118887
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b730cead2fc4abad93199caef0d53d20.jpg?v=1776718407
     Price: $65.00 USD
   - [White ffffff / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-a-wardrobe-essential-for-every-season-for-her?variant=50154835017944)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/50da9a25a3456793104fe35d9558bdea.jpg?v=1755118919
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/50da9a25a3456793104fe35d9558bdea.jpg?v=1776718407
     Price: $65.00 USD
   - [Red e01d2b / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-a-wardrobe-essential-for-every-season-for-her?variant=50154835050712)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8077601af8cce1ca42f506cca0b63a40.jpg?v=1755118903
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8077601af8cce1ca42f506cca0b63a40.jpg?v=1776718407
     Price: $65.00 USD
   - [Pink f0b2c5 / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-a-wardrobe-essential-for-every-season-for-her?variant=50154835083480)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fe66360ca53d47b83b59fe3064d49242.jpg?v=1755118908
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fe66360ca53d47b83b59fe3064d49242.jpg?v=1776718407
     Price: $65.00 USD
   - [Navy 1d395e / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-a-wardrobe-essential-for-every-season-for-her?variant=50154835116248)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ef36e0cf871d4c19abea30b88bd2683c.jpg?v=1755118898
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ef36e0cf871d4c19abea30b88bd2683c.jpg?v=1776718407
     Price: $65.00 USD
   - [Dark Gray 5b5b5b / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-a-wardrobe-essential-for-every-season-for-her?variant=50154835149016)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/818f6fbcd217518bb196b2f1030fe597.jpg?v=1755118913
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/818f6fbcd217518bb196b2f1030fe597.jpg?v=1776718407
     Price: $65.00 USD
   - [Black / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-a-wardrobe-essential-for-every-season-for-her?variant=50154835181784)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b730cead2fc4abad93199caef0d53d20.jpg?v=1755118887
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b730cead2fc4abad93199caef0d53d20.jpg?v=1776718407
     Price: $65.00 USD
 - [Munsieur T-Shirt for Women: Soft, Stylish, and Made to La...](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her): Munsieur T-Shirt for Women: Soft, Stylish, and Made to Last for Her embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIE...
-  Updated: 2026-04-03T13:57:03Z
+  Updated: 2026-04-21T08:58:39Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b61068427a028add65b88b12cf0bd0a4.jpg?v=1755118979
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f5a40c6810ab3f6793cac513b31f9a7a.png?v=1776718712
   - [White ffffff / L](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her?variant=50154836754648)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/88b1670d2573761891a3e49e457ab707.jpg?v=1755118997
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/88b1670d2573761891a3e49e457ab707.jpg?v=1776718712
     Price: $56.96 USD
   - [Red e01d2b / L](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her?variant=50154836787416)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/04e78f515df96bc3419f1fce81fdb54d.jpg?v=1755119002
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/04e78f515df96bc3419f1fce81fdb54d.jpg?v=1776718712
     Price: $56.96 USD
   - [Pink f0b2c5 / L](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her?variant=50154836820184)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/eac37fd14e1fe8a44ab97b23ef29b997.jpg?v=1755119007
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/eac37fd14e1fe8a44ab97b23ef29b997.jpg?v=1776718712
     Price: $56.96 USD
   - [Navy 1d395e / L](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her?variant=50154836852952)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7a75d7c7e7a26c16b303ae3ec2b961a2.jpg?v=1755118985
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7a75d7c7e7a26c16b303ae3ec2b961a2.jpg?v=1776718712
     Price: $56.96 USD
   - [Dark Gray 5b5b5b / L](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her?variant=50154836885720)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f7fb7a39c166852ce7e9ce893c02c724.jpg?v=1755118991
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f7fb7a39c166852ce7e9ce893c02c724.jpg?v=1776718712
     Price: $56.96 USD
   - [Black / L](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her?variant=50154836918488)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b61068427a028add65b88b12cf0bd0a4.jpg?v=1755118979
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b61068427a028add65b88b12cf0bd0a4.jpg?v=1776718712
     Price: $56.96 USD
   - [White ffffff / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her?variant=50154836951256)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/88b1670d2573761891a3e49e457ab707.jpg?v=1755118997
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/88b1670d2573761891a3e49e457ab707.jpg?v=1776718712
     Price: $56.96 USD
   - [Red e01d2b / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her?variant=50154836984024)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/04e78f515df96bc3419f1fce81fdb54d.jpg?v=1755119002
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/04e78f515df96bc3419f1fce81fdb54d.jpg?v=1776718712
     Price: $56.96 USD
   - [Pink f0b2c5 / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her?variant=50154837016792)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/eac37fd14e1fe8a44ab97b23ef29b997.jpg?v=1755119007
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/eac37fd14e1fe8a44ab97b23ef29b997.jpg?v=1776718712
     Price: $56.96 USD
   - [Navy 1d395e / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her?variant=50154837049560)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7a75d7c7e7a26c16b303ae3ec2b961a2.jpg?v=1755118985
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7a75d7c7e7a26c16b303ae3ec2b961a2.jpg?v=1776718712
     Price: $56.96 USD
   - [Dark Gray 5b5b5b / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her?variant=50154837082328)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f7fb7a39c166852ce7e9ce893c02c724.jpg?v=1755118991
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f7fb7a39c166852ce7e9ce893c02c724.jpg?v=1776718712
     Price: $56.96 USD
   - [Black / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her?variant=50154837115096)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b61068427a028add65b88b12cf0bd0a4.jpg?v=1755118979
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b61068427a028add65b88b12cf0bd0a4.jpg?v=1776718712
     Price: $56.96 USD
   - [White ffffff / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her?variant=50154837147864)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/88b1670d2573761891a3e49e457ab707.jpg?v=1755118997
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/88b1670d2573761891a3e49e457ab707.jpg?v=1776718712
     Price: $56.96 USD
   - [Red e01d2b / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her?variant=50154837180632)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/04e78f515df96bc3419f1fce81fdb54d.jpg?v=1755119002
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/04e78f515df96bc3419f1fce81fdb54d.jpg?v=1776718712
     Price: $56.96 USD
   - [Pink f0b2c5 / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her?variant=50154837213400)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/eac37fd14e1fe8a44ab97b23ef29b997.jpg?v=1755119007
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/eac37fd14e1fe8a44ab97b23ef29b997.jpg?v=1776718712
     Price: $56.96 USD
   - [Navy 1d395e / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her?variant=50154837246168)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7a75d7c7e7a26c16b303ae3ec2b961a2.jpg?v=1755118985
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7a75d7c7e7a26c16b303ae3ec2b961a2.jpg?v=1776718712
     Price: $56.96 USD
   - [Dark Gray 5b5b5b / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her?variant=50154837278936)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f7fb7a39c166852ce7e9ce893c02c724.jpg?v=1755118991
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f7fb7a39c166852ce7e9ce893c02c724.jpg?v=1776718712
     Price: $56.96 USD
   - [Black / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her?variant=50154837311704)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b61068427a028add65b88b12cf0bd0a4.jpg?v=1755118979
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b61068427a028add65b88b12cf0bd0a4.jpg?v=1776718712
     Price: $56.96 USD
   - [White ffffff / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her?variant=50154837344472)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/88b1670d2573761891a3e49e457ab707.jpg?v=1755118997
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/88b1670d2573761891a3e49e457ab707.jpg?v=1776718712
     Price: $56.96 USD
   - [Red e01d2b / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her?variant=50154837377240)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/04e78f515df96bc3419f1fce81fdb54d.jpg?v=1755119002
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/04e78f515df96bc3419f1fce81fdb54d.jpg?v=1776718712
     Price: $56.96 USD
   - [Pink f0b2c5 / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her?variant=50154837410008)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/eac37fd14e1fe8a44ab97b23ef29b997.jpg?v=1755119007
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/eac37fd14e1fe8a44ab97b23ef29b997.jpg?v=1776718712
     Price: $56.96 USD
   - [Navy 1d395e / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her?variant=50154837442776)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7a75d7c7e7a26c16b303ae3ec2b961a2.jpg?v=1755118985
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7a75d7c7e7a26c16b303ae3ec2b961a2.jpg?v=1776718712
     Price: $56.96 USD
   - [Dark Gray 5b5b5b / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her?variant=50154837475544)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f7fb7a39c166852ce7e9ce893c02c724.jpg?v=1755118991
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f7fb7a39c166852ce7e9ce893c02c724.jpg?v=1776718712
     Price: $56.96 USD
   - [Black / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her?variant=50154837508312)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b61068427a028add65b88b12cf0bd0a4.jpg?v=1755118979
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b61068427a028add65b88b12cf0bd0a4.jpg?v=1776718712
     Price: $56.96 USD
 - [Munsieur T-Shirt for Women: Versatile, Timeless, and Ultr...](https://munsieur.com/products/munsieur-t-shirt-for-women-versatile-timeless-and-ultra-soft-for-her): Munsieur T-Shirt for Women: Versatile, Timeless, and Ultra-Soft for Her embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MU...
-  Updated: 2026-04-03T13:57:02Z
+  Updated: 2026-04-21T09:02:43Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/221b550256e11951346d7959c1504b38.jpg?v=1755119066
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ad6a1b80ca07b059d035567a74b376e1.png?v=1776718952
   - [White ffffff / L](https://munsieur.com/products/munsieur-t-shirt-for-women-versatile-timeless-and-ultra-soft-for-her?variant=50154841112792)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/09fc3aa688bd9b91f707fd7226c316e0.jpg?v=1755119072
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/09fc3aa688bd9b91f707fd7226c316e0.jpg?v=1776718952
     Price: $60.00 USD
   - [Red e01d2b / L](https://munsieur.com/products/munsieur-t-shirt-for-women-versatile-timeless-and-ultra-soft-for-her?variant=50154841145560)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e8f782c06214b401f967ba479831064f.jpg?v=1755119106
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e8f782c06214b401f967ba479831064f.jpg?v=1776718952
     Price: $60.00 USD
   - [Pink f0b2c5 / L](https://munsieur.com/products/munsieur-t-shirt-for-women-versatile-timeless-and-ultra-soft-for-her?variant=50154841178328)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/460725d33604d01b89f9e2272db17c62.jpg?v=1755119092
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/460725d33604d01b89f9e2272db17c62.jpg?v=1776718952
     Price: $60.00 USD
   - [Navy 1d395e / L](https://munsieur.com/products/munsieur-t-shirt-for-women-versatile-timeless-and-ultra-soft-for-her?variant=50154841211096)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/85f2a0c725ee5f37d3891a549dff623e.jpg?v=1755119082
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/85f2a0c725ee5f37d3891a549dff623e.jpg?v=1776718952
     Price: $60.00 USD
   - [Dark Gray 5b5b5b / L](https://munsieur.com/products/munsieur-t-shirt-for-women-versatile-timeless-and-ultra-soft-for-her?variant=50154841243864)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e426b05b895ca61d6a216b18be65063b.jpg?v=1755119096
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e426b05b895ca61d6a216b18be65063b.jpg?v=1776718952
     Price: $60.00 USD
   - [Black / L](https://munsieur.com/products/munsieur-t-shirt-for-women-versatile-timeless-and-ultra-soft-for-her?variant=50154841276632)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/221b550256e11951346d7959c1504b38.jpg?v=1755119066
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/221b550256e11951346d7959c1504b38.jpg?v=1776718952
     Price: $60.00 USD
   - [White ffffff / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-versatile-timeless-and-ultra-soft-for-her?variant=50154841309400)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/09fc3aa688bd9b91f707fd7226c316e0.jpg?v=1755119072
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/09fc3aa688bd9b91f707fd7226c316e0.jpg?v=1776718952
     Price: $60.00 USD
   - [Red e01d2b / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-versatile-timeless-and-ultra-soft-for-her?variant=50154841342168)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e8f782c06214b401f967ba479831064f.jpg?v=1755119106
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e8f782c06214b401f967ba479831064f.jpg?v=1776718952
     Price: $60.00 USD
   - [Pink f0b2c5 / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-versatile-timeless-and-ultra-soft-for-her?variant=50154841374936)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/460725d33604d01b89f9e2272db17c62.jpg?v=1755119092
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/460725d33604d01b89f9e2272db17c62.jpg?v=1776718952
     Price: $60.00 USD
   - [Navy 1d395e / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-versatile-timeless-and-ultra-soft-for-her?variant=50154841407704)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/85f2a0c725ee5f37d3891a549dff623e.jpg?v=1755119082
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/85f2a0c725ee5f37d3891a549dff623e.jpg?v=1776718952
     Price: $60.00 USD
   - [Dark Gray 5b5b5b / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-versatile-timeless-and-ultra-soft-for-her?variant=50154841440472)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e426b05b895ca61d6a216b18be65063b.jpg?v=1755119096
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e426b05b895ca61d6a216b18be65063b.jpg?v=1776718952
     Price: $60.00 USD
   - [Black / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-versatile-timeless-and-ultra-soft-for-her?variant=50154841473240)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/221b550256e11951346d7959c1504b38.jpg?v=1755119066
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/221b550256e11951346d7959c1504b38.jpg?v=1776718952
     Price: $60.00 USD
   - [White ffffff / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-versatile-timeless-and-ultra-soft-for-her?variant=50154841506008)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/09fc3aa688bd9b91f707fd7226c316e0.jpg?v=1755119072
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/09fc3aa688bd9b91f707fd7226c316e0.jpg?v=1776718952
     Price: $60.00 USD
   - [Red e01d2b / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-versatile-timeless-and-ultra-soft-for-her?variant=50154841538776)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e8f782c06214b401f967ba479831064f.jpg?v=1755119106
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e8f782c06214b401f967ba479831064f.jpg?v=1776718952
     Price: $60.00 USD
   - [Pink f0b2c5 / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-versatile-timeless-and-ultra-soft-for-her?variant=50154841571544)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/460725d33604d01b89f9e2272db17c62.jpg?v=1755119092
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/460725d33604d01b89f9e2272db17c62.jpg?v=1776718952
     Price: $60.00 USD
   - [Navy 1d395e / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-versatile-timeless-and-ultra-soft-for-her?variant=50154841604312)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/85f2a0c725ee5f37d3891a549dff623e.jpg?v=1755119082
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/85f2a0c725ee5f37d3891a549dff623e.jpg?v=1776718952
     Price: $60.00 USD
   - [Dark Gray 5b5b5b / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-versatile-timeless-and-ultra-soft-for-her?variant=50154841637080)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e426b05b895ca61d6a216b18be65063b.jpg?v=1755119096
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e426b05b895ca61d6a216b18be65063b.jpg?v=1776718952
     Price: $60.00 USD
   - [Black / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-versatile-timeless-and-ultra-soft-for-her?variant=50154841669848)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/221b550256e11951346d7959c1504b38.jpg?v=1755119066
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/221b550256e11951346d7959c1504b38.jpg?v=1776718952
     Price: $60.00 USD
   - [White ffffff / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-versatile-timeless-and-ultra-soft-for-her?variant=50154841702616)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/09fc3aa688bd9b91f707fd7226c316e0.jpg?v=1755119072
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/09fc3aa688bd9b91f707fd7226c316e0.jpg?v=1776718952
     Price: $60.00 USD
   - [Red e01d2b / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-versatile-timeless-and-ultra-soft-for-her?variant=50154841735384)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e8f782c06214b401f967ba479831064f.jpg?v=1755119106
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e8f782c06214b401f967ba479831064f.jpg?v=1776718952
     Price: $60.00 USD
   - [Pink f0b2c5 / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-versatile-timeless-and-ultra-soft-for-her?variant=50154841768152)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/460725d33604d01b89f9e2272db17c62.jpg?v=1755119092
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/460725d33604d01b89f9e2272db17c62.jpg?v=1776718952
     Price: $60.00 USD
   - [Navy 1d395e / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-versatile-timeless-and-ultra-soft-for-her?variant=50154841800920)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/85f2a0c725ee5f37d3891a549dff623e.jpg?v=1755119082
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/85f2a0c725ee5f37d3891a549dff623e.jpg?v=1776718952
     Price: $60.00 USD
   - [Dark Gray 5b5b5b / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-versatile-timeless-and-ultra-soft-for-her?variant=50154841833688)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e426b05b895ca61d6a216b18be65063b.jpg?v=1755119096
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e426b05b895ca61d6a216b18be65063b.jpg?v=1776718952
     Price: $60.00 USD
   - [Black / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-versatile-timeless-and-ultra-soft-for-her?variant=50154841866456)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/221b550256e11951346d7959c1504b38.jpg?v=1755119066
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/221b550256e11951346d7959c1504b38.jpg?v=1776718952
     Price: $60.00 USD
 - [Munsieur T-Shirt for Women: Classic with a Modern Edge fo...](https://munsieur.com/products/munsieur-t-shirt-for-women-classic-simplicity-with-a-modern-edge-for-her): Munsieur T-Shirt for Women: Classic with a Modern Edge for Her embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR cr...
-  Updated: 2026-04-03T13:57:01Z
+  Updated: 2026-04-21T09:05:36Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1e2f56112239ea51764fbc52bd392464.jpg?v=1739658269
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7798dee56d62a847a949a44b259faf1b_53d7fb4c-cf77-45f2-9fa8-837d04a65e68.png?v=1776719126
   - [White ffffff / L](https://munsieur.com/products/munsieur-t-shirt-for-women-classic-simplicity-with-a-modern-edge-for-her?variant=50154844160216)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1e2f56112239ea51764fbc52bd392464.jpg?v=1739658269
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1e2f56112239ea51764fbc52bd392464.jpg?v=1776719126
     Price: $56.96 USD
   - [Red e01d2b / L](https://munsieur.com/products/munsieur-t-shirt-for-women-classic-simplicity-with-a-modern-edge-for-her?variant=50154844192984)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e7cf473fb7e9b18fc8f9daa076258340.jpg?v=1739658269
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e7cf473fb7e9b18fc8f9daa076258340.jpg?v=1776719126
     Price: $56.96 USD
   - [Pink f0b2c5 / L](https://munsieur.com/products/munsieur-t-shirt-for-women-classic-simplicity-with-a-modern-edge-for-her?variant=50154844225752)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/94202df1f3da7ee3682aa2f3c79ff20c.jpg?v=1739658269
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/94202df1f3da7ee3682aa2f3c79ff20c.jpg?v=1776719126
     Price: $56.96 USD
   - [Navy 1d395e / L](https://munsieur.com/products/munsieur-t-shirt-for-women-classic-simplicity-with-a-modern-edge-for-her?variant=50154844258520)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/35982424f10996827504b2cfc9a0b28c.jpg?v=1739658269
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/35982424f10996827504b2cfc9a0b28c.jpg?v=1776719126
     Price: $56.96 USD
   - [Dark Gray 5b5b5b / L](https://munsieur.com/products/munsieur-t-shirt-for-women-classic-simplicity-with-a-modern-edge-for-her?variant=50154844291288)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9ae49cb1b6a9677eeaceb082674e6261.jpg?v=1739658269
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9ae49cb1b6a9677eeaceb082674e6261.jpg?v=1776719126
     Price: $56.96 USD
   - [Black / L](https://munsieur.com/products/munsieur-t-shirt-for-women-classic-simplicity-with-a-modern-edge-for-her?variant=50154844324056)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9eed1d6a07332b8e031cc653be77f6cf.jpg?v=1739658269
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9eed1d6a07332b8e031cc653be77f6cf.jpg?v=1776719126
     Price: $56.96 USD
   - [White ffffff / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-classic-simplicity-with-a-modern-edge-for-her?variant=50154844356824)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1e2f56112239ea51764fbc52bd392464.jpg?v=1739658269
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1e2f56112239ea51764fbc52bd392464.jpg?v=1776719126
     Price: $56.96 USD
   - [Red e01d2b / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-classic-simplicity-with-a-modern-edge-for-her?variant=50154844389592)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e7cf473fb7e9b18fc8f9daa076258340.jpg?v=1739658269
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e7cf473fb7e9b18fc8f9daa076258340.jpg?v=1776719126
     Price: $56.96 USD
   - [Pink f0b2c5 / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-classic-simplicity-with-a-modern-edge-for-her?variant=50154844422360)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/94202df1f3da7ee3682aa2f3c79ff20c.jpg?v=1739658269
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/94202df1f3da7ee3682aa2f3c79ff20c.jpg?v=1776719126
     Price: $56.96 USD
   - [Navy 1d395e / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-classic-simplicity-with-a-modern-edge-for-her?variant=50154844455128)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/35982424f10996827504b2cfc9a0b28c.jpg?v=1739658269
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/35982424f10996827504b2cfc9a0b28c.jpg?v=1776719126
     Price: $56.96 USD
   - [Dark Gray 5b5b5b / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-classic-simplicity-with-a-modern-edge-for-her?variant=50154844487896)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9ae49cb1b6a9677eeaceb082674e6261.jpg?v=1739658269
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9ae49cb1b6a9677eeaceb082674e6261.jpg?v=1776719126
     Price: $56.96 USD
   - [Black / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-classic-simplicity-with-a-modern-edge-for-her?variant=50154844520664)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9eed1d6a07332b8e031cc653be77f6cf.jpg?v=1739658269
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9eed1d6a07332b8e031cc653be77f6cf.jpg?v=1776719126
     Price: $56.96 USD
   - [White ffffff / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-classic-simplicity-with-a-modern-edge-for-her?variant=50154844553432)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1e2f56112239ea51764fbc52bd392464.jpg?v=1739658269
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1e2f56112239ea51764fbc52bd392464.jpg?v=1776719126
     Price: $56.96 USD
   - [Red e01d2b / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-classic-simplicity-with-a-modern-edge-for-her?variant=50154844586200)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e7cf473fb7e9b18fc8f9daa076258340.jpg?v=1739658269
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e7cf473fb7e9b18fc8f9daa076258340.jpg?v=1776719126
     Price: $56.96 USD
   - [Pink f0b2c5 / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-classic-simplicity-with-a-modern-edge-for-her?variant=50154844618968)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/94202df1f3da7ee3682aa2f3c79ff20c.jpg?v=1739658269
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/94202df1f3da7ee3682aa2f3c79ff20c.jpg?v=1776719126
     Price: $56.96 USD
   - [Navy 1d395e / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-classic-simplicity-with-a-modern-edge-for-her?variant=50154844651736)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/35982424f10996827504b2cfc9a0b28c.jpg?v=1739658269
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/35982424f10996827504b2cfc9a0b28c.jpg?v=1776719126
     Price: $56.96 USD
   - [Dark Gray 5b5b5b / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-classic-simplicity-with-a-modern-edge-for-her?variant=50154844684504)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9ae49cb1b6a9677eeaceb082674e6261.jpg?v=1739658269
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9ae49cb1b6a9677eeaceb082674e6261.jpg?v=1776719126
     Price: $56.96 USD
   - [Black / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-classic-simplicity-with-a-modern-edge-for-her?variant=50154844717272)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9eed1d6a07332b8e031cc653be77f6cf.jpg?v=1739658269
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9eed1d6a07332b8e031cc653be77f6cf.jpg?v=1776719126
     Price: $56.96 USD
   - [White ffffff / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-classic-simplicity-with-a-modern-edge-for-her?variant=50154844750040)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1e2f56112239ea51764fbc52bd392464.jpg?v=1739658269
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1e2f56112239ea51764fbc52bd392464.jpg?v=1776719126
     Price: $56.96 USD
   - [Red e01d2b / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-classic-simplicity-with-a-modern-edge-for-her?variant=50154844782808)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e7cf473fb7e9b18fc8f9daa076258340.jpg?v=1739658269
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e7cf473fb7e9b18fc8f9daa076258340.jpg?v=1776719126
     Price: $56.96 USD
   - [Pink f0b2c5 / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-classic-simplicity-with-a-modern-edge-for-her?variant=50154844815576)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/94202df1f3da7ee3682aa2f3c79ff20c.jpg?v=1739658269
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/94202df1f3da7ee3682aa2f3c79ff20c.jpg?v=1776719126
     Price: $56.96 USD
   - [Navy 1d395e / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-classic-simplicity-with-a-modern-edge-for-her?variant=50154844848344)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/35982424f10996827504b2cfc9a0b28c.jpg?v=1739658269
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/35982424f10996827504b2cfc9a0b28c.jpg?v=1776719126
     Price: $56.96 USD
   - [Dark Gray 5b5b5b / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-classic-simplicity-with-a-modern-edge-for-her?variant=50154844881112)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9ae49cb1b6a9677eeaceb082674e6261.jpg?v=1739658269
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9ae49cb1b6a9677eeaceb082674e6261.jpg?v=1776719126
     Price: $56.96 USD
   - [Black / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-classic-simplicity-with-a-modern-edge-for-her?variant=50154844913880)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9eed1d6a07332b8e031cc653be77f6cf.jpg?v=1739658269
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9eed1d6a07332b8e031cc653be77f6cf.jpg?v=1776719126
     Price: $56.96 USD
 - [Munsieur T-Shirt for Women: Redefining Casual Chic with E...](https://munsieur.com/products/munsieur-t-shirt-for-women-redefining-casual-chic-with-elegance-for-her): Munsieur T-Shirt for Women: Redefining Casual Chic with Elegance for Her embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. M...
-  Updated: 2026-04-03T13:57:00Z
+  Updated: 2026-04-21T09:08:25Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d8a697fa75835560413f50c9c37300b2.jpg?v=1739658239
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e95584b9911ef2ea86cba3822748786e.jpg?v=1776719330
   - [White ffffff / L](https://munsieur.com/products/munsieur-t-shirt-for-women-redefining-casual-chic-with-elegance-for-her?variant=50154847666392)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d8a697fa75835560413f50c9c37300b2.jpg?v=1739658239
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d8a697fa75835560413f50c9c37300b2.jpg?v=1776719294
     Price: $65.00 USD
   - [Red e01d2b / L](https://munsieur.com/products/munsieur-t-shirt-for-women-redefining-casual-chic-with-elegance-for-her?variant=50154847699160)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e95584b9911ef2ea86cba3822748786e.jpg?v=1739658239
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e95584b9911ef2ea86cba3822748786e.jpg?v=1776719330
     Price: $65.00 USD
   - [Pink f0b2c5 / L](https://munsieur.com/products/munsieur-t-shirt-for-women-redefining-casual-chic-with-elegance-for-her?variant=50154847731928)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/036c9b5c18c1d8bb404314865d2df01e.jpg?v=1739658239
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/036c9b5c18c1d8bb404314865d2df01e.jpg?v=1776719294
     Price: $65.00 USD
   - [Navy 1d395e / L](https://munsieur.com/products/munsieur-t-shirt-for-women-redefining-casual-chic-with-elegance-for-her?variant=50154847764696)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/efe10e8b3286ffca8cdeac0d58e983de.jpg?v=1739658239
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/efe10e8b3286ffca8cdeac0d58e983de.jpg?v=1776719294
     Price: $65.00 USD
   - [Dark Gray 5b5b5b / L](https://munsieur.com/products/munsieur-t-shirt-for-women-redefining-casual-chic-with-elegance-for-her?variant=50154847797464)
     Availability: Available
@@ -4180,23 +4180,23 @@
     Price: $65.00 USD
   - [Black / L](https://munsieur.com/products/munsieur-t-shirt-for-women-redefining-casual-chic-with-elegance-for-her?variant=50154847830232)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b7a01d262ed2cdd901e44152251a9265.jpg?v=1739658239
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b7a01d262ed2cdd901e44152251a9265.jpg?v=1776719294
     Price: $65.00 USD
   - [White ffffff / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-redefining-casual-chic-with-elegance-for-her?variant=50154847863000)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d8a697fa75835560413f50c9c37300b2.jpg?v=1739658239
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d8a697fa75835560413f50c9c37300b2.jpg?v=1776719294
     Price: $65.00 USD
   - [Red e01d2b / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-redefining-casual-chic-with-elegance-for-her?variant=50154847895768)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e95584b9911ef2ea86cba3822748786e.jpg?v=1739658239
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e95584b9911ef2ea86cba3822748786e.jpg?v=1776719330
     Price: $65.00 USD
   - [Pink f0b2c5 / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-redefining-casual-chic-with-elegance-for-her?variant=50154847928536)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/036c9b5c18c1d8bb404314865d2df01e.jpg?v=1739658239
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/036c9b5c18c1d8bb404314865d2df01e.jpg?v=1776719294
     Price: $65.00 USD
   - [Navy 1d395e / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-redefining-casual-chic-with-elegance-for-her?variant=50154847961304)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/efe10e8b3286ffca8cdeac0d58e983de.jpg?v=1739658239
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/efe10e8b3286ffca8cdeac0d58e983de.jpg?v=1776719294
     Price: $65.00 USD
   - [Dark Gray 5b5b5b / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-redefining-casual-chic-with-elegance-for-her?variant=50154847994072)
     Availability: Available
@@ -4204,23 +4204,23 @@
     Price: $65.00 USD
   - [Black / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-redefining-casual-chic-with-elegance-for-her?variant=50154848026840)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b7a01d262ed2cdd901e44152251a9265.jpg?v=1739658239
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b7a01d262ed2cdd901e44152251a9265.jpg?v=1776719294
     Price: $65.00 USD
   - [White ffffff / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-redefining-casual-chic-with-elegance-for-her?variant=50154848059608)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d8a697fa75835560413f50c9c37300b2.jpg?v=1739658239
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d8a697fa75835560413f50c9c37300b2.jpg?v=1776719294
     Price: $65.00 USD
   - [Red e01d2b / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-redefining-casual-chic-with-elegance-for-her?variant=50154848092376)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e95584b9911ef2ea86cba3822748786e.jpg?v=1739658239
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e95584b9911ef2ea86cba3822748786e.jpg?v=1776719330
     Price: $65.00 USD
   - [Pink f0b2c5 / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-redefining-casual-chic-with-elegance-for-her?variant=50154848125144)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/036c9b5c18c1d8bb404314865d2df01e.jpg?v=1739658239
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/036c9b5c18c1d8bb404314865d2df01e.jpg?v=1776719294
     Price: $65.00 USD
   - [Navy 1d395e / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-redefining-casual-chic-with-elegance-for-her?variant=50154848157912)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/efe10e8b3286ffca8cdeac0d58e983de.jpg?v=1739658239
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/efe10e8b3286ffca8cdeac0d58e983de.jpg?v=1776719294
     Price: $65.00 USD
   - [Dark Gray 5b5b5b / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-redefining-casual-chic-with-elegance-for-her?variant=50154848190680)
     Availability: Available
@@ -4228,23 +4228,23 @@
     Price: $65.00 USD
   - [Black / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-redefining-casual-chic-with-elegance-for-her?variant=50154848223448)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b7a01d262ed2cdd901e44152251a9265.jpg?v=1739658239
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b7a01d262ed2cdd901e44152251a9265.jpg?v=1776719294
     Price: $65.00 USD
   - [White ffffff / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-redefining-casual-chic-with-elegance-for-her?variant=50154848256216)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d8a697fa75835560413f50c9c37300b2.jpg?v=1739658239
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d8a697fa75835560413f50c9c37300b2.jpg?v=1776719294
     Price: $65.00 USD
   - [Red e01d2b / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-redefining-casual-chic-with-elegance-for-her?variant=50154848288984)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e95584b9911ef2ea86cba3822748786e.jpg?v=1739658239
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e95584b9911ef2ea86cba3822748786e.jpg?v=1776719330
     Price: $65.00 USD
   - [Pink f0b2c5 / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-redefining-casual-chic-with-elegance-for-her?variant=50154848321752)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/036c9b5c18c1d8bb404314865d2df01e.jpg?v=1739658239
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/036c9b5c18c1d8bb404314865d2df01e.jpg?v=1776719294
     Price: $65.00 USD
   - [Navy 1d395e / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-redefining-casual-chic-with-elegance-for-her?variant=50154848354520)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/efe10e8b3286ffca8cdeac0d58e983de.jpg?v=1739658239
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/efe10e8b3286ffca8cdeac0d58e983de.jpg?v=1776719294
     Price: $65.00 USD
   - [Dark Gray 5b5b5b / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-redefining-casual-chic-with-elegance-for-her?variant=50154848387288)
     Availability: Available
@@ -4252,294 +4252,294 @@
     Price: $65.00 USD
   - [Black / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-redefining-casual-chic-with-elegance-for-her?variant=50154848420056)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b7a01d262ed2cdd901e44152251a9265.jpg?v=1739658239
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b7a01d262ed2cdd901e44152251a9265.jpg?v=1776719294
     Price: $65.00 USD
 - [Women's Timeless Style with Munsieur Premium Women's T-Sh...](https://munsieur.com/products/womens-timeless-style-with-munsieur-premium-womens-t-shirts): Women's Timeless Style with Munsieur Premium Women's T-Shirts embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR cro...
-  Updated: 2026-04-03T13:56:59Z
+  Updated: 2026-04-18T13:15:06Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5a650f4a8482b377a3204300a5e4f25b.jpg?v=1739658184
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a0b9d3d1738d598531c8fed7ba323362.png?v=1776474900
   - [White ffffff / L](https://munsieur.com/products/womens-timeless-style-with-munsieur-premium-womens-t-shirts?variant=50154866606296)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/098467b12e8c2c11e989c48353d22199.jpg?v=1739658184
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/098467b12e8c2c11e989c48353d22199.jpg?v=1776474900
     Price: $65.00 USD
   - [Red e01d2b / L](https://munsieur.com/products/womens-timeless-style-with-munsieur-premium-womens-t-shirts?variant=50154866639064)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3f1bea60f8b82188554c914ee78f31c8.jpg?v=1739658184
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3f1bea60f8b82188554c914ee78f31c8.jpg?v=1776474900
     Price: $65.00 USD
   - [Pink f0b2c5 / L](https://munsieur.com/products/womens-timeless-style-with-munsieur-premium-womens-t-shirts?variant=50154866671832)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1136fe52dad75c2cc0b0d91de7a0d466.jpg?v=1739658184
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1136fe52dad75c2cc0b0d91de7a0d466.jpg?v=1776474900
     Price: $65.00 USD
   - [Navy 1d395e / L](https://munsieur.com/products/womens-timeless-style-with-munsieur-premium-womens-t-shirts?variant=50154866704600)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ef85ba523d3eddf39e89a13d48e1711c.jpg?v=1739658184
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ef85ba523d3eddf39e89a13d48e1711c.jpg?v=1776474900
     Price: $65.00 USD
   - [Dark Gray 5b5b5b / L](https://munsieur.com/products/womens-timeless-style-with-munsieur-premium-womens-t-shirts?variant=50154866737368)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8a761243b7bc2b460f3d7e5f1582e932.jpg?v=1739658184
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8a761243b7bc2b460f3d7e5f1582e932.jpg?v=1776474900
     Price: $65.00 USD
   - [Black / L](https://munsieur.com/products/womens-timeless-style-with-munsieur-premium-womens-t-shirts?variant=50154866770136)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5a650f4a8482b377a3204300a5e4f25b.jpg?v=1739658184
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5a650f4a8482b377a3204300a5e4f25b.jpg?v=1776474900
     Price: $65.00 USD
   - [White ffffff / XL](https://munsieur.com/products/womens-timeless-style-with-munsieur-premium-womens-t-shirts?variant=50154866802904)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/098467b12e8c2c11e989c48353d22199.jpg?v=1739658184
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/098467b12e8c2c11e989c48353d22199.jpg?v=1776474900
     Price: $65.00 USD
   - [Red e01d2b / XL](https://munsieur.com/products/womens-timeless-style-with-munsieur-premium-womens-t-shirts?variant=50154866835672)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3f1bea60f8b82188554c914ee78f31c8.jpg?v=1739658184
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3f1bea60f8b82188554c914ee78f31c8.jpg?v=1776474900
     Price: $65.00 USD
   - [Pink f0b2c5 / XL](https://munsieur.com/products/womens-timeless-style-with-munsieur-premium-womens-t-shirts?variant=50154866868440)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1136fe52dad75c2cc0b0d91de7a0d466.jpg?v=1739658184
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1136fe52dad75c2cc0b0d91de7a0d466.jpg?v=1776474900
     Price: $65.00 USD
   - [Navy 1d395e / XL](https://munsieur.com/products/womens-timeless-style-with-munsieur-premium-womens-t-shirts?variant=50154866901208)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ef85ba523d3eddf39e89a13d48e1711c.jpg?v=1739658184
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ef85ba523d3eddf39e89a13d48e1711c.jpg?v=1776474900
     Price: $65.00 USD
   - [Dark Gray 5b5b5b / XL](https://munsieur.com/products/womens-timeless-style-with-munsieur-premium-womens-t-shirts?variant=50154866933976)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8a761243b7bc2b460f3d7e5f1582e932.jpg?v=1739658184
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8a761243b7bc2b460f3d7e5f1582e932.jpg?v=1776474900
     Price: $65.00 USD
   - [Black / XL](https://munsieur.com/products/womens-timeless-style-with-munsieur-premium-womens-t-shirts?variant=50154866966744)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5a650f4a8482b377a3204300a5e4f25b.jpg?v=1739658184
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5a650f4a8482b377a3204300a5e4f25b.jpg?v=1776474900
     Price: $65.00 USD
   - [White ffffff / 2XL](https://munsieur.com/products/womens-timeless-style-with-munsieur-premium-womens-t-shirts?variant=50154866999512)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/098467b12e8c2c11e989c48353d22199.jpg?v=1739658184
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/098467b12e8c2c11e989c48353d22199.jpg?v=1776474900
     Price: $65.00 USD
   - [Red e01d2b / 2XL](https://munsieur.com/products/womens-timeless-style-with-munsieur-premium-womens-t-shirts?variant=50154867032280)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3f1bea60f8b82188554c914ee78f31c8.jpg?v=1739658184
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3f1bea60f8b82188554c914ee78f31c8.jpg?v=1776474900
     Price: $65.00 USD
   - [Pink f0b2c5 / 2XL](https://munsieur.com/products/womens-timeless-style-with-munsieur-premium-womens-t-shirts?variant=50154867065048)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1136fe52dad75c2cc0b0d91de7a0d466.jpg?v=1739658184
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1136fe52dad75c2cc0b0d91de7a0d466.jpg?v=1776474900
     Price: $65.00 USD
   - [Navy 1d395e / 2XL](https://munsieur.com/products/womens-timeless-style-with-munsieur-premium-womens-t-shirts?variant=50154867097816)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ef85ba523d3eddf39e89a13d48e1711c.jpg?v=1739658184
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ef85ba523d3eddf39e89a13d48e1711c.jpg?v=1776474900
     Price: $65.00 USD
   - [Dark Gray 5b5b5b / 2XL](https://munsieur.com/products/womens-timeless-style-with-munsieur-premium-womens-t-shirts?variant=50154867130584)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8a761243b7bc2b460f3d7e5f1582e932.jpg?v=1739658184
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8a761243b7bc2b460f3d7e5f1582e932.jpg?v=1776474900
     Price: $65.00 USD
   - [Black / 2XL](https://munsieur.com/products/womens-timeless-style-with-munsieur-premium-womens-t-shirts?variant=50154867163352)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5a650f4a8482b377a3204300a5e4f25b.jpg?v=1739658184
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5a650f4a8482b377a3204300a5e4f25b.jpg?v=1776474900
     Price: $65.00 USD
   - [White ffffff / 3XL](https://munsieur.com/products/womens-timeless-style-with-munsieur-premium-womens-t-shirts?variant=50154867196120)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/098467b12e8c2c11e989c48353d22199.jpg?v=1739658184
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/098467b12e8c2c11e989c48353d22199.jpg?v=1776474900
     Price: $65.00 USD
   - [Red e01d2b / 3XL](https://munsieur.com/products/womens-timeless-style-with-munsieur-premium-womens-t-shirts?variant=50154867228888)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3f1bea60f8b82188554c914ee78f31c8.jpg?v=1739658184
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3f1bea60f8b82188554c914ee78f31c8.jpg?v=1776474900
     Price: $65.00 USD
   - [Pink f0b2c5 / 3XL](https://munsieur.com/products/womens-timeless-style-with-munsieur-premium-womens-t-shirts?variant=50154867261656)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1136fe52dad75c2cc0b0d91de7a0d466.jpg?v=1739658184
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1136fe52dad75c2cc0b0d91de7a0d466.jpg?v=1776474900
     Price: $65.00 USD
   - [Navy 1d395e / 3XL](https://munsieur.com/products/womens-timeless-style-with-munsieur-premium-womens-t-shirts?variant=50154867294424)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ef85ba523d3eddf39e89a13d48e1711c.jpg?v=1739658184
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ef85ba523d3eddf39e89a13d48e1711c.jpg?v=1776474900
     Price: $65.00 USD
   - [Dark Gray 5b5b5b / 3XL](https://munsieur.com/products/womens-timeless-style-with-munsieur-premium-womens-t-shirts?variant=50154867327192)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8a761243b7bc2b460f3d7e5f1582e932.jpg?v=1739658184
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8a761243b7bc2b460f3d7e5f1582e932.jpg?v=1776474900
     Price: $65.00 USD
   - [Black / 3XL](https://munsieur.com/products/womens-timeless-style-with-munsieur-premium-womens-t-shirts?variant=50154867359960)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5a650f4a8482b377a3204300a5e4f25b.jpg?v=1739658184
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5a650f4a8482b377a3204300a5e4f25b.jpg?v=1776474900
     Price: $65.00 USD
 - [Women's Snuggle Up in Style with MUNSIEUR Premium Sweater...](https://munsieur.com/products/womens-snuggle-up-in-style-with-munsieur-premium-women-s-sweatshirts): Women's Snuggle Up in Style with MUNSIEUR Premium Sweater embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned...
-  Updated: 2026-04-03T13:56:58Z
+  Updated: 2026-04-18T20:17:44Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2a1d74269d769539456c590e4d84230d.jpg?v=1754338506
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2a1d74269d769539456c590e4d84230d.jpg?v=1776542705
   - [White ffffff / S](https://munsieur.com/products/womens-snuggle-up-in-style-with-munsieur-premium-women-s-sweatshirts?variant=50154870931672)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/71e68aef31cd9fb92d1b0470530adb54.jpg?v=1754338506
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/71e68aef31cd9fb92d1b0470530adb54.jpg?v=1776542837
     Price: $225.00 USD
   - [Red e01d2b / S](https://munsieur.com/products/womens-snuggle-up-in-style-with-munsieur-premium-women-s-sweatshirts?variant=50154870964440)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/886e752533056e5d82ea6f496eae16b2.jpg?v=1754338506
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/886e752533056e5d82ea6f496eae16b2.jpg?v=1776542907
     Price: $225.00 USD
   - [Navy 1d395e / S](https://munsieur.com/products/womens-snuggle-up-in-style-with-munsieur-premium-women-s-sweatshirts?variant=50154870997208)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5fb799d40c3bb153002f08e27aaf16a0.jpg?v=1754338506
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5fb799d40c3bb153002f08e27aaf16a0.jpg?v=1776543353
     Price: $225.00 USD
   - [Red e01d2b / M](https://munsieur.com/products/womens-snuggle-up-in-style-with-munsieur-premium-women-s-sweatshirts?variant=50154871029976)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/886e752533056e5d82ea6f496eae16b2.jpg?v=1754338506
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/886e752533056e5d82ea6f496eae16b2.jpg?v=1776542907
     Price: $225.00 USD
   - [Navy 1d395e / M](https://munsieur.com/products/womens-snuggle-up-in-style-with-munsieur-premium-women-s-sweatshirts?variant=50154871062744)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5fb799d40c3bb153002f08e27aaf16a0.jpg?v=1754338506
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5fb799d40c3bb153002f08e27aaf16a0.jpg?v=1776543353
     Price: $225.00 USD
   - [Red e01d2b / L](https://munsieur.com/products/womens-snuggle-up-in-style-with-munsieur-premium-women-s-sweatshirts?variant=50154871095512)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/886e752533056e5d82ea6f496eae16b2.jpg?v=1754338506
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/886e752533056e5d82ea6f496eae16b2.jpg?v=1776542907
     Price: $225.00 USD
   - [Red e01d2b / XL](https://munsieur.com/products/womens-snuggle-up-in-style-with-munsieur-premium-women-s-sweatshirts?variant=50154871128280)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/886e752533056e5d82ea6f496eae16b2.jpg?v=1754338506
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/886e752533056e5d82ea6f496eae16b2.jpg?v=1776542907
     Price: $225.00 USD
   - [White ffffff / 2XL](https://munsieur.com/products/womens-snuggle-up-in-style-with-munsieur-premium-women-s-sweatshirts?variant=50154871161048)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/71e68aef31cd9fb92d1b0470530adb54.jpg?v=1754338506
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/71e68aef31cd9fb92d1b0470530adb54.jpg?v=1776542837
     Price: $225.00 USD
   - [Red e01d2b / 2XL](https://munsieur.com/products/womens-snuggle-up-in-style-with-munsieur-premium-women-s-sweatshirts?variant=50154871193816)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/886e752533056e5d82ea6f496eae16b2.jpg?v=1754338506
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/886e752533056e5d82ea6f496eae16b2.jpg?v=1776542907
     Price: $225.00 USD
   - [Navy 1d395e / 2XL](https://munsieur.com/products/womens-snuggle-up-in-style-with-munsieur-premium-women-s-sweatshirts?variant=50154871226584)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5fb799d40c3bb153002f08e27aaf16a0.jpg?v=1754338506
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5fb799d40c3bb153002f08e27aaf16a0.jpg?v=1776543353
     Price: $225.00 USD
   - [White ffffff / 3XL](https://munsieur.com/products/womens-snuggle-up-in-style-with-munsieur-premium-women-s-sweatshirts?variant=50154871259352)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/71e68aef31cd9fb92d1b0470530adb54.jpg?v=1754338506
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/71e68aef31cd9fb92d1b0470530adb54.jpg?v=1776542837
     Price: $225.00 USD
   - [Red e01d2b / 3XL](https://munsieur.com/products/womens-snuggle-up-in-style-with-munsieur-premium-women-s-sweatshirts?variant=50154871292120)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/886e752533056e5d82ea6f496eae16b2.jpg?v=1754338506
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/886e752533056e5d82ea6f496eae16b2.jpg?v=1776542907
     Price: $225.00 USD
   - [Navy 1d395e / 3XL](https://munsieur.com/products/womens-snuggle-up-in-style-with-munsieur-premium-women-s-sweatshirts?variant=50154871324888)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5fb799d40c3bb153002f08e27aaf16a0.jpg?v=1754338506
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5fb799d40c3bb153002f08e27aaf16a0.jpg?v=1776543353
     Price: $225.00 USD
 - [Munsieur T-Shirt for Women: Soft, Stylish, and Made to La...](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her-1): Munsieur T-Shirt for Women: Soft, Stylish, and Made to Last for Her embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIE...
-  Updated: 2026-04-03T13:56:56Z
+  Updated: 2026-04-21T09:14:37Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/14369bb934e33b64c401050caa9c839f.jpg?v=1739658115
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1dbae87e08ca1970194aadd7ef8a7bc3.jpg?v=1776719668
   - [White ffffff / L](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her-1?variant=50154952687832)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/14369bb934e33b64c401050caa9c839f.jpg?v=1739658115
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/14369bb934e33b64c401050caa9c839f.jpg?v=1776719668
     Price: $56.96 USD
   - [Red e01d2b / L](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her-1?variant=50154952720600)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1dbae87e08ca1970194aadd7ef8a7bc3.jpg?v=1739658115
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1dbae87e08ca1970194aadd7ef8a7bc3.jpg?v=1776719668
     Price: $56.96 USD
   - [Pink f0b2c5 / L](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her-1?variant=50154952753368)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ce14459353303100261785b3ddd7fbc4.jpg?v=1739658115
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ce14459353303100261785b3ddd7fbc4.jpg?v=1776719668
     Price: $56.96 USD
   - [Navy 1d395e / L](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her-1?variant=50154952786136)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d73bfdf2157aa70fe6638d5766523aa6.jpg?v=1739658115
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d73bfdf2157aa70fe6638d5766523aa6.jpg?v=1776719668
     Price: $56.96 USD
   - [Dark Gray 5b5b5b / L](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her-1?variant=50154952818904)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7358882fda0d1978e802b678ffc7f757.jpg?v=1739658115
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7358882fda0d1978e802b678ffc7f757.jpg?v=1776719668
     Price: $56.96 USD
   - [White ffffff / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her-1?variant=50154952851672)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/14369bb934e33b64c401050caa9c839f.jpg?v=1739658115
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/14369bb934e33b64c401050caa9c839f.jpg?v=1776719668
     Price: $56.96 USD
   - [Red e01d2b / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her-1?variant=50154952884440)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1dbae87e08ca1970194aadd7ef8a7bc3.jpg?v=1739658115
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1dbae87e08ca1970194aadd7ef8a7bc3.jpg?v=1776719668
     Price: $56.96 USD
   - [Pink f0b2c5 / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her-1?variant=50154952917208)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ce14459353303100261785b3ddd7fbc4.jpg?v=1739658115
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ce14459353303100261785b3ddd7fbc4.jpg?v=1776719668
     Price: $56.96 USD
   - [Navy 1d395e / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her-1?variant=50154952949976)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d73bfdf2157aa70fe6638d5766523aa6.jpg?v=1739658115
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d73bfdf2157aa70fe6638d5766523aa6.jpg?v=1776719668
     Price: $56.96 USD
   - [Dark Gray 5b5b5b / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her-1?variant=50154952982744)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7358882fda0d1978e802b678ffc7f757.jpg?v=1739658115
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7358882fda0d1978e802b678ffc7f757.jpg?v=1776719668
     Price: $56.96 USD
   - [White ffffff / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her-1?variant=50154953015512)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/14369bb934e33b64c401050caa9c839f.jpg?v=1739658115
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/14369bb934e33b64c401050caa9c839f.jpg?v=1776719668
     Price: $56.96 USD
   - [Red e01d2b / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her-1?variant=50154953048280)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1dbae87e08ca1970194aadd7ef8a7bc3.jpg?v=1739658115
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1dbae87e08ca1970194aadd7ef8a7bc3.jpg?v=1776719668
     Price: $56.96 USD
   - [Pink f0b2c5 / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her-1?variant=50154953081048)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ce14459353303100261785b3ddd7fbc4.jpg?v=1739658115
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ce14459353303100261785b3ddd7fbc4.jpg?v=1776719668
     Price: $56.96 USD
   - [Navy 1d395e / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her-1?variant=50154953113816)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d73bfdf2157aa70fe6638d5766523aa6.jpg?v=1739658115
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d73bfdf2157aa70fe6638d5766523aa6.jpg?v=1776719668
     Price: $56.96 USD
   - [Dark Gray 5b5b5b / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her-1?variant=50154953146584)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7358882fda0d1978e802b678ffc7f757.jpg?v=1739658115
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7358882fda0d1978e802b678ffc7f757.jpg?v=1776719668
     Price: $56.96 USD
   - [White ffffff / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her-1?variant=50154953179352)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/14369bb934e33b64c401050caa9c839f.jpg?v=1739658115
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/14369bb934e33b64c401050caa9c839f.jpg?v=1776719668
     Price: $56.96 USD
   - [Red e01d2b / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her-1?variant=50154953212120)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1dbae87e08ca1970194aadd7ef8a7bc3.jpg?v=1739658115
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1dbae87e08ca1970194aadd7ef8a7bc3.jpg?v=1776719668
     Price: $56.96 USD
   - [Pink f0b2c5 / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her-1?variant=50154953244888)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ce14459353303100261785b3ddd7fbc4.jpg?v=1739658115
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ce14459353303100261785b3ddd7fbc4.jpg?v=1776719668
     Price: $56.96 USD
   - [Navy 1d395e / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her-1?variant=50154953277656)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d73bfdf2157aa70fe6638d5766523aa6.jpg?v=1739658115
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d73bfdf2157aa70fe6638d5766523aa6.jpg?v=1776719668
     Price: $56.96 USD
   - [Dark Gray 5b5b5b / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-soft-stylish-and-made-to-last-for-her-1?variant=50154953310424)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7358882fda0d1978e802b678ffc7f757.jpg?v=1739658115
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7358882fda0d1978e802b678ffc7f757.jpg?v=1776719668
     Price: $56.96 USD
 - [Munsieur T-Shirt for Women: The Ultimate Blend of Fashion...](https://munsieur.com/products/munsieur-t-shirt-for-women-the-ultimate-blend-of-fashion-and-fit-for-her): Munsieur T-Shirt for Women: The Ultimate Blend of Fashion and Fit for Her embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. ...
-  Updated: 2026-04-03T13:56:55Z
+  Updated: 2026-04-18T01:44:34Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/efe09e3df419b769fecdc045a87074dc.jpg?v=1739658070
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/efe09e3df419b769fecdc045a87074dc.png?v=1776476574
   - [White ffffff / L](https://munsieur.com/products/munsieur-t-shirt-for-women-the-ultimate-blend-of-fashion-and-fit-for-her?variant=50154954653912)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b7e2b186763505d8385c81992de72ede.jpg?v=1739658070
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b7e2b186763505d8385c81992de72ede.jpg?v=1776476574
     Price: $60.00 USD
   - [Pink f0b2c5 / L](https://munsieur.com/products/munsieur-t-shirt-for-women-the-ultimate-blend-of-fashion-and-fit-for-her?variant=50154954686680)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/efe09e3df419b769fecdc045a87074dc.jpg?v=1739658070
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/efe09e3df419b769fecdc045a87074dc.jpg?v=1776476574
     Price: $60.00 USD
   - [White ffffff / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-the-ultimate-blend-of-fashion-and-fit-for-her?variant=50154954719448)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b7e2b186763505d8385c81992de72ede.jpg?v=1739658070
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b7e2b186763505d8385c81992de72ede.jpg?v=1776476574
     Price: $60.00 USD
   - [Pink f0b2c5 / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-the-ultimate-blend-of-fashion-and-fit-for-her?variant=50154954752216)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/efe09e3df419b769fecdc045a87074dc.jpg?v=1739658070
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/efe09e3df419b769fecdc045a87074dc.jpg?v=1776476574
     Price: $60.00 USD
   - [White ffffff / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-the-ultimate-blend-of-fashion-and-fit-for-her?variant=50154954784984)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b7e2b186763505d8385c81992de72ede.jpg?v=1739658070
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b7e2b186763505d8385c81992de72ede.jpg?v=1776476574
     Price: $60.00 USD
   - [Pink f0b2c5 / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-the-ultimate-blend-of-fashion-and-fit-for-her?variant=50154954817752)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/efe09e3df419b769fecdc045a87074dc.jpg?v=1739658070
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/efe09e3df419b769fecdc045a87074dc.jpg?v=1776476574
     Price: $60.00 USD
   - [White ffffff / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-the-ultimate-blend-of-fashion-and-fit-for-her?variant=50154954850520)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b7e2b186763505d8385c81992de72ede.jpg?v=1739658070
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b7e2b186763505d8385c81992de72ede.jpg?v=1776476574
     Price: $60.00 USD
   - [Pink f0b2c5 / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-the-ultimate-blend-of-fashion-and-fit-for-her?variant=50154954883288)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/efe09e3df419b769fecdc045a87074dc.jpg?v=1739658070
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/efe09e3df419b769fecdc045a87074dc.jpg?v=1776476574
     Price: $60.00 USD
 - [Munsieur T-Shirt for Women: Perfectly Tailored for Modern...](https://munsieur.com/products/munsieur-t-shirt-for-women-perfectly-tailored-for-modern-confidence-for-her): Munsieur T-Shirt for Women: Perfectly Tailored for Modern Confidence for Her embodies restrained gothic luxury. Ceremonial discipline engineered not decorate...
-  Updated: 2026-04-03T13:56:54Z
+  Updated: 2026-04-20T21:19:41Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -4641,11 +4641,11 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/00b70e450d7110fe63b73429b31adf08.jpg?v=1739658015
     Price: $60.00 USD
 - [Munsieur T-Shirt for Women: Chic, Comfortable, and Timele...](https://munsieur.com/products/munsieur-t-shirt-for-women-chic-comfortable-and-timeless-for-her): Munsieur T-Shirt for Women: Chic, Comfortable, and Timeless for Her embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIE...
-  Updated: 2026-04-03T13:56:53Z
+  Updated: 2026-04-20T21:23:32Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/674e55935ad1591d490527277dffb29d.jpg?v=1754239906
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/674e55935ad1591d490527277dffb29d.jpg?v=1776720211
   - [White ffffff / L](https://munsieur.com/products/munsieur-t-shirt-for-women-chic-comfortable-and-timeless-for-her?variant=50154981556440)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ea0474e6c270d525706fb0f47328b118.jpg?v=1754239906
@@ -4668,7 +4668,7 @@
     Price: $56.96 USD
   - [Black / L](https://munsieur.com/products/munsieur-t-shirt-for-women-chic-comfortable-and-timeless-for-her?variant=50154981720280)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/674e55935ad1591d490527277dffb29d.jpg?v=1754239906
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/674e55935ad1591d490527277dffb29d.jpg?v=1776720211
     Price: $56.96 USD
   - [White ffffff / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-chic-comfortable-and-timeless-for-her?variant=50154981753048)
     Availability: Available
@@ -4692,7 +4692,7 @@
     Price: $56.96 USD
   - [Black / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-chic-comfortable-and-timeless-for-her?variant=50154981916888)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/674e55935ad1591d490527277dffb29d.jpg?v=1754239906
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/674e55935ad1591d490527277dffb29d.jpg?v=1776720211
     Price: $56.96 USD
   - [White ffffff / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-chic-comfortable-and-timeless-for-her?variant=50154981949656)
     Availability: Available
@@ -4716,7 +4716,7 @@
     Price: $56.96 USD
   - [Black / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-chic-comfortable-and-timeless-for-her?variant=50154982113496)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/674e55935ad1591d490527277dffb29d.jpg?v=1754239906
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/674e55935ad1591d490527277dffb29d.jpg?v=1776720211
     Price: $56.96 USD
   - [White ffffff / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-chic-comfortable-and-timeless-for-her?variant=50154982146264)
     Availability: Available
@@ -4740,7 +4740,7 @@
     Price: $56.96 USD
   - [Black / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-chic-comfortable-and-timeless-for-her?variant=50154982310104)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/674e55935ad1591d490527277dffb29d.jpg?v=1754239906
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/674e55935ad1591d490527277dffb29d.jpg?v=1776720211
     Price: $56.96 USD
 - [Munsieur Men's Graphic Hoodie America's Pride Hoodie 4th ...](https://munsieur.com/products/mens-munsieur-graphic-hoodie): Munsieur Men's Graphic Hoodie America's Pride Hoodie 4th of July Independence Day Collection embodies restrained gothic luxury. Ceremonial discipline enginee...
   Updated: 2026-04-03T13:56:52Z
@@ -4772,8 +4772,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/086b13f5a8a129c4c81235618f9d5f37.jpg?v=1739654608
     Price: $125.00 USD
-- [MUNSIEUR Designer Bottoms - Premium Fashion Pants for Wom...](https://munsieur.com/products/munsieur-ladies-swim-shorts): MUNSIEUR Designer Bottoms - Premium Fashion Pants for Women embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crown...
-  Updated: 2026-04-03T13:56:51Z
+- [MUNSIEUR Designer Bottoms — Premium High-Waist Performance Streetwear](https://munsieur.com/products/munsieur-ladies-swim-shorts): High-waist MUNSIEUR designer bottoms in stretch performance fabric. Contour cut, moisture-wicking. Limited production. Built for movement and presence.
+  Updated: 2026-04-14T05:36:16Z
   Vendor: Munsieur
   Product Type: Bottoms
   Availability: Available
@@ -5321,11 +5321,11 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b752ab70d90a8caa529a48c440f34f69.jpg?v=1739657567
     Price: $56.96 USD
 - [MUNSIEUR Premium Women's T-Shirts: Luxury and Comfort Com...](https://munsieur.com/products/munsieur-premium-womens-t-shirts-luxury-and-comfort-combined-for-her): MUNSIEUR Premium Women's T-Shirts: Luxury and Comfort Combined for Her embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUN...
-  Updated: 2026-04-03T13:56:43Z
+  Updated: 2026-04-20T21:26:09Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/bd19a0daae13f152d0c1b4e87712dcba.jpg?v=1739657513
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/bd19a0daae13f152d0c1b4e87712dcba.jpg?v=1776720368
   - [White ffffff / L](https://munsieur.com/products/munsieur-premium-womens-t-shirts-luxury-and-comfort-combined-for-her?variant=50155058757848)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/05885d8c5d2717a4f3b5da0087007ef0.jpg?v=1739657513
@@ -5348,7 +5348,7 @@
     Price: $65.00 USD
   - [Black / L](https://munsieur.com/products/munsieur-premium-womens-t-shirts-luxury-and-comfort-combined-for-her?variant=50155058921688)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/bd19a0daae13f152d0c1b4e87712dcba.jpg?v=1739657513
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/bd19a0daae13f152d0c1b4e87712dcba.jpg?v=1776720368
     Price: $65.00 USD
   - [White ffffff / XL](https://munsieur.com/products/munsieur-premium-womens-t-shirts-luxury-and-comfort-combined-for-her?variant=50155058954456)
     Availability: Available
@@ -5372,7 +5372,7 @@
     Price: $65.00 USD
   - [Black / XL](https://munsieur.com/products/munsieur-premium-womens-t-shirts-luxury-and-comfort-combined-for-her?variant=50155059118296)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/bd19a0daae13f152d0c1b4e87712dcba.jpg?v=1739657513
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/bd19a0daae13f152d0c1b4e87712dcba.jpg?v=1776720368
     Price: $65.00 USD
   - [White ffffff / 2XL](https://munsieur.com/products/munsieur-premium-womens-t-shirts-luxury-and-comfort-combined-for-her?variant=50155059151064)
     Availability: Available
@@ -5396,7 +5396,7 @@
     Price: $65.00 USD
   - [Black / 2XL](https://munsieur.com/products/munsieur-premium-womens-t-shirts-luxury-and-comfort-combined-for-her?variant=50155059314904)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/bd19a0daae13f152d0c1b4e87712dcba.jpg?v=1739657513
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/bd19a0daae13f152d0c1b4e87712dcba.jpg?v=1776720368
     Price: $65.00 USD
   - [White ffffff / 3XL](https://munsieur.com/products/munsieur-premium-womens-t-shirts-luxury-and-comfort-combined-for-her?variant=50155059347672)
     Availability: Available
@@ -5420,469 +5420,467 @@
     Price: $65.00 USD
   - [Black / 3XL](https://munsieur.com/products/munsieur-premium-womens-t-shirts-luxury-and-comfort-combined-for-her?variant=50155059511512)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/bd19a0daae13f152d0c1b4e87712dcba.jpg?v=1739657513
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/bd19a0daae13f152d0c1b4e87712dcba.jpg?v=1776720368
     Price: $65.00 USD
 - [MUNSIEUR Women's Sweater for Comfort and Style | Gothic C...](https://munsieur.com/products/shop-munsieur-womens-sweatshirts-for-all-day-comfort-style): MUNSIEUR Women's Sweater for Comfort and Style embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:56:42Z
+  Updated: 2026-04-18T20:45:26Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2319ae3f9f4ffa332a1c915c44a545f1.jpg?v=1772844247
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2319ae3f9f4ffa332a1c915c44a545f1.jpg?v=1776544191
   - [White ffffff / S](https://munsieur.com/products/shop-munsieur-womens-sweatshirts-for-all-day-comfort-style?variant=50155063509208)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/aeacb2e0462202fd53e15b54ea5120ea.jpg?v=1772844247
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/aeacb2e0462202fd53e15b54ea5120ea.jpg?v=1776544336
     Price: $250.00 USD
   - [Red e01d2b / S](https://munsieur.com/products/shop-munsieur-womens-sweatshirts-for-all-day-comfort-style?variant=50155063541976)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cd7b904ffb9111d7c6d4d4e1a42d10a6.jpg?v=1772844247
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cd7b904ffb9111d7c6d4d4e1a42d10a6.jpg?v=1776544483
     Price: $250.00 USD
   - [Navy 1d395e / S](https://munsieur.com/products/shop-munsieur-womens-sweatshirts-for-all-day-comfort-style?variant=50155063574744)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dc312b7f91798d2858d1023b72f32634.jpg?v=1772844247
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dc312b7f91798d2858d1023b72f32634.jpg?v=1776544594
     Price: $250.00 USD
   - [Gray / S](https://munsieur.com/products/shop-munsieur-womens-sweatshirts-for-all-day-comfort-style?variant=50155063607512)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2319ae3f9f4ffa332a1c915c44a545f1.jpg?v=1772844247
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2319ae3f9f4ffa332a1c915c44a545f1.jpg?v=1776544191
     Price: $250.00 USD
   - [Black / S](https://munsieur.com/products/shop-munsieur-womens-sweatshirts-for-all-day-comfort-style?variant=50155063640280)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7032fc70f60667b086e85b7603ca033a.jpg?v=1739657478
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7032fc70f60667b086e85b7603ca033a.jpg?v=1776544941
     Price: $250.00 USD
   - [Red e01d2b / M](https://munsieur.com/products/shop-munsieur-womens-sweatshirts-for-all-day-comfort-style?variant=50155063673048)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cd7b904ffb9111d7c6d4d4e1a42d10a6.jpg?v=1772844247
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cd7b904ffb9111d7c6d4d4e1a42d10a6.jpg?v=1776544483
     Price: $250.00 USD
   - [Navy 1d395e / M](https://munsieur.com/products/shop-munsieur-womens-sweatshirts-for-all-day-comfort-style?variant=50155063705816)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dc312b7f91798d2858d1023b72f32634.jpg?v=1772844247
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dc312b7f91798d2858d1023b72f32634.jpg?v=1776544594
     Price: $250.00 USD
   - [Black / M](https://munsieur.com/products/shop-munsieur-womens-sweatshirts-for-all-day-comfort-style?variant=50155063738584)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7032fc70f60667b086e85b7603ca033a.jpg?v=1739657478
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7032fc70f60667b086e85b7603ca033a.jpg?v=1776544941
     Price: $250.00 USD
   - [Red e01d2b / L](https://munsieur.com/products/shop-munsieur-womens-sweatshirts-for-all-day-comfort-style?variant=50155063771352)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cd7b904ffb9111d7c6d4d4e1a42d10a6.jpg?v=1772844247
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cd7b904ffb9111d7c6d4d4e1a42d10a6.jpg?v=1776544483
     Price: $250.00 USD
   - [Black / L](https://munsieur.com/products/shop-munsieur-womens-sweatshirts-for-all-day-comfort-style?variant=50155063804120)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7032fc70f60667b086e85b7603ca033a.jpg?v=1739657478
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7032fc70f60667b086e85b7603ca033a.jpg?v=1776544941
     Price: $250.00 USD
   - [Red e01d2b / XL](https://munsieur.com/products/shop-munsieur-womens-sweatshirts-for-all-day-comfort-style?variant=50155063836888)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cd7b904ffb9111d7c6d4d4e1a42d10a6.jpg?v=1772844247
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cd7b904ffb9111d7c6d4d4e1a42d10a6.jpg?v=1776544483
     Price: $250.00 USD
   - [Black / XL](https://munsieur.com/products/shop-munsieur-womens-sweatshirts-for-all-day-comfort-style?variant=50155063869656)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7032fc70f60667b086e85b7603ca033a.jpg?v=1739657478
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7032fc70f60667b086e85b7603ca033a.jpg?v=1776544941
     Price: $250.00 USD
   - [White ffffff / 2XL](https://munsieur.com/products/shop-munsieur-womens-sweatshirts-for-all-day-comfort-style?variant=50155063902424)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/aeacb2e0462202fd53e15b54ea5120ea.jpg?v=1772844247
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/aeacb2e0462202fd53e15b54ea5120ea.jpg?v=1776544336
     Price: $250.00 USD
   - [Red e01d2b / 2XL](https://munsieur.com/products/shop-munsieur-womens-sweatshirts-for-all-day-comfort-style?variant=50155063935192)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cd7b904ffb9111d7c6d4d4e1a42d10a6.jpg?v=1772844247
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cd7b904ffb9111d7c6d4d4e1a42d10a6.jpg?v=1776544483
     Price: $250.00 USD
   - [Navy 1d395e / 2XL](https://munsieur.com/products/shop-munsieur-womens-sweatshirts-for-all-day-comfort-style?variant=50155063967960)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dc312b7f91798d2858d1023b72f32634.jpg?v=1772844247
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dc312b7f91798d2858d1023b72f32634.jpg?v=1776544594
     Price: $250.00 USD
   - [Black / 2XL](https://munsieur.com/products/shop-munsieur-womens-sweatshirts-for-all-day-comfort-style?variant=50155064000728)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7032fc70f60667b086e85b7603ca033a.jpg?v=1739657478
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7032fc70f60667b086e85b7603ca033a.jpg?v=1776544941
     Price: $250.00 USD
   - [White ffffff / 3XL](https://munsieur.com/products/shop-munsieur-womens-sweatshirts-for-all-day-comfort-style?variant=50155064033496)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/aeacb2e0462202fd53e15b54ea5120ea.jpg?v=1772844247
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/aeacb2e0462202fd53e15b54ea5120ea.jpg?v=1776544336
     Price: $250.00 USD
   - [Red e01d2b / 3XL](https://munsieur.com/products/shop-munsieur-womens-sweatshirts-for-all-day-comfort-style?variant=50155064066264)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cd7b904ffb9111d7c6d4d4e1a42d10a6.jpg?v=1772844247
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cd7b904ffb9111d7c6d4d4e1a42d10a6.jpg?v=1776544483
     Price: $250.00 USD
   - [Navy 1d395e / 3XL](https://munsieur.com/products/shop-munsieur-womens-sweatshirts-for-all-day-comfort-style?variant=50155064099032)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dc312b7f91798d2858d1023b72f32634.jpg?v=1772844247
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dc312b7f91798d2858d1023b72f32634.jpg?v=1776544594
     Price: $250.00 USD
   - [Gray / 3XL](https://munsieur.com/products/shop-munsieur-womens-sweatshirts-for-all-day-comfort-style?variant=50155064131800)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2319ae3f9f4ffa332a1c915c44a545f1.jpg?v=1772844247
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2319ae3f9f4ffa332a1c915c44a545f1.jpg?v=1776544191
     Price: $250.00 USD
   - [Black / 3XL](https://munsieur.com/products/shop-munsieur-womens-sweatshirts-for-all-day-comfort-style?variant=50155064164568)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7032fc70f60667b086e85b7603ca033a.jpg?v=1739657478
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7032fc70f60667b086e85b7603ca033a.jpg?v=1776544941
     Price: $250.00 USD
 - [Discover MUNSIEUR Women's Premium Women's T-Shirts for a ...](https://munsieur.com/products/discover-munsieur-womens-premium-womens-t-shirts-for-a-chic-casual-look-for-her): Discover MUNSIEUR Women's Premium Women's T-Shirts for a Chic, Casual Look for Her embodies restrained gothic luxury. Ceremonial discipline engineered not de...
-  Updated: 2026-04-03T13:56:41Z
+  Updated: 2026-04-18T13:37:40Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c2935a6e6cbc42e1525e0d942f12e848.jpg?v=1749110738
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c2935a6e6cbc42e1525e0d942f12e848.png?v=1776476253
   - [White ffffff / L](https://munsieur.com/products/discover-munsieur-womens-premium-womens-t-shirts-for-a-chic-casual-look-for-her?variant=50155068457176)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c68dd28a5b1fec4893781a6d7509821c.jpg?v=1749110738
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c68dd28a5b1fec4893781a6d7509821c.jpg?v=1776476253
     Price: $65.00 USD
   - [Red e01d2b / L](https://munsieur.com/products/discover-munsieur-womens-premium-womens-t-shirts-for-a-chic-casual-look-for-her?variant=50155068489944)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f093375f4c4310380accf32c04c4696b.jpg?v=1749110738
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f093375f4c4310380accf32c04c4696b.jpg?v=1776476253
     Price: $65.00 USD
   - [Pink f0b2c5 / L](https://munsieur.com/products/discover-munsieur-womens-premium-womens-t-shirts-for-a-chic-casual-look-for-her?variant=50155068522712)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/564e8c72b26e256bf477abd9912fb827.jpg?v=1749110738
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/564e8c72b26e256bf477abd9912fb827.jpg?v=1776476253
     Price: $65.00 USD
   - [Navy 1d395e / L](https://munsieur.com/products/discover-munsieur-womens-premium-womens-t-shirts-for-a-chic-casual-look-for-her?variant=50155068555480)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d1d1aef9ebe986973781423a0c4b27ff.jpg?v=1749110738
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d1d1aef9ebe986973781423a0c4b27ff.jpg?v=1776476253
     Price: $65.00 USD
   - [Dark Gray 5b5b5b / L](https://munsieur.com/products/discover-munsieur-womens-premium-womens-t-shirts-for-a-chic-casual-look-for-her?variant=50155068588248)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f8ffd893c6e0abab90625f1e92ce37e4.jpg?v=1749110738
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f8ffd893c6e0abab90625f1e92ce37e4.jpg?v=1776476253
     Price: $65.00 USD
   - [Black / L](https://munsieur.com/products/discover-munsieur-womens-premium-womens-t-shirts-for-a-chic-casual-look-for-her?variant=50155068621016)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c2935a6e6cbc42e1525e0d942f12e848.jpg?v=1749110738
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c2935a6e6cbc42e1525e0d942f12e848.jpg?v=1776476253
     Price: $65.00 USD
   - [White ffffff / XL](https://munsieur.com/products/discover-munsieur-womens-premium-womens-t-shirts-for-a-chic-casual-look-for-her?variant=50155068653784)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c68dd28a5b1fec4893781a6d7509821c.jpg?v=1749110738
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c68dd28a5b1fec4893781a6d7509821c.jpg?v=1776476253
     Price: $65.00 USD
   - [Red e01d2b / XL](https://munsieur.com/products/discover-munsieur-womens-premium-womens-t-shirts-for-a-chic-casual-look-for-her?variant=50155068686552)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f093375f4c4310380accf32c04c4696b.jpg?v=1749110738
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f093375f4c4310380accf32c04c4696b.jpg?v=1776476253
     Price: $65.00 USD
   - [Pink f0b2c5 / XL](https://munsieur.com/products/discover-munsieur-womens-premium-womens-t-shirts-for-a-chic-casual-look-for-her?variant=50155068719320)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/564e8c72b26e256bf477abd9912fb827.jpg?v=1749110738
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/564e8c72b26e256bf477abd9912fb827.jpg?v=1776476253
     Price: $65.00 USD
   - [Navy 1d395e / XL](https://munsieur.com/products/discover-munsieur-womens-premium-womens-t-shirts-for-a-chic-casual-look-for-her?variant=50155068752088)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d1d1aef9ebe986973781423a0c4b27ff.jpg?v=1749110738
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d1d1aef9ebe986973781423a0c4b27ff.jpg?v=1776476253
     Price: $65.00 USD
   - [Dark Gray 5b5b5b / XL](https://munsieur.com/products/discover-munsieur-womens-premium-womens-t-shirts-for-a-chic-casual-look-for-her?variant=50155068784856)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f8ffd893c6e0abab90625f1e92ce37e4.jpg?v=1749110738
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f8ffd893c6e0abab90625f1e92ce37e4.jpg?v=1776476253
     Price: $65.00 USD
   - [Black / XL](https://munsieur.com/products/discover-munsieur-womens-premium-womens-t-shirts-for-a-chic-casual-look-for-her?variant=50155068817624)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c2935a6e6cbc42e1525e0d942f12e848.jpg?v=1749110738
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c2935a6e6cbc42e1525e0d942f12e848.jpg?v=1776476253
     Price: $65.00 USD
   - [White ffffff / 2XL](https://munsieur.com/products/discover-munsieur-womens-premium-womens-t-shirts-for-a-chic-casual-look-for-her?variant=50155068850392)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c68dd28a5b1fec4893781a6d7509821c.jpg?v=1749110738
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c68dd28a5b1fec4893781a6d7509821c.jpg?v=1776476253
     Price: $65.00 USD
   - [Red e01d2b / 2XL](https://munsieur.com/products/discover-munsieur-womens-premium-womens-t-shirts-for-a-chic-casual-look-for-her?variant=50155068883160)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f093375f4c4310380accf32c04c4696b.jpg?v=1749110738
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f093375f4c4310380accf32c04c4696b.jpg?v=1776476253
     Price: $65.00 USD
   - [Pink f0b2c5 / 2XL](https://munsieur.com/products/discover-munsieur-womens-premium-womens-t-shirts-for-a-chic-casual-look-for-her?variant=50155068915928)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/564e8c72b26e256bf477abd9912fb827.jpg?v=1749110738
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/564e8c72b26e256bf477abd9912fb827.jpg?v=1776476253
     Price: $65.00 USD
   - [Navy 1d395e / 2XL](https://munsieur.com/products/discover-munsieur-womens-premium-womens-t-shirts-for-a-chic-casual-look-for-her?variant=50155068948696)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d1d1aef9ebe986973781423a0c4b27ff.jpg?v=1749110738
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d1d1aef9ebe986973781423a0c4b27ff.jpg?v=1776476253
     Price: $65.00 USD
   - [Dark Gray 5b5b5b / 2XL](https://munsieur.com/products/discover-munsieur-womens-premium-womens-t-shirts-for-a-chic-casual-look-for-her?variant=50155068981464)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f8ffd893c6e0abab90625f1e92ce37e4.jpg?v=1749110738
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f8ffd893c6e0abab90625f1e92ce37e4.jpg?v=1776476253
     Price: $65.00 USD
   - [Black / 2XL](https://munsieur.com/products/discover-munsieur-womens-premium-womens-t-shirts-for-a-chic-casual-look-for-her?variant=50155069014232)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c2935a6e6cbc42e1525e0d942f12e848.jpg?v=1749110738
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c2935a6e6cbc42e1525e0d942f12e848.jpg?v=1776476253
     Price: $65.00 USD
   - [White ffffff / 3XL](https://munsieur.com/products/discover-munsieur-womens-premium-womens-t-shirts-for-a-chic-casual-look-for-her?variant=50155069047000)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c68dd28a5b1fec4893781a6d7509821c.jpg?v=1749110738
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c68dd28a5b1fec4893781a6d7509821c.jpg?v=1776476253
     Price: $65.00 USD
   - [Red e01d2b / 3XL](https://munsieur.com/products/discover-munsieur-womens-premium-womens-t-shirts-for-a-chic-casual-look-for-her?variant=50155069079768)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f093375f4c4310380accf32c04c4696b.jpg?v=1749110738
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f093375f4c4310380accf32c04c4696b.jpg?v=1776476253
     Price: $65.00 USD
   - [Pink f0b2c5 / 3XL](https://munsieur.com/products/discover-munsieur-womens-premium-womens-t-shirts-for-a-chic-casual-look-for-her?variant=50155069112536)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/564e8c72b26e256bf477abd9912fb827.jpg?v=1749110738
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/564e8c72b26e256bf477abd9912fb827.jpg?v=1776476253
     Price: $65.00 USD
   - [Navy 1d395e / 3XL](https://munsieur.com/products/discover-munsieur-womens-premium-womens-t-shirts-for-a-chic-casual-look-for-her?variant=50155069145304)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d1d1aef9ebe986973781423a0c4b27ff.jpg?v=1749110738
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d1d1aef9ebe986973781423a0c4b27ff.jpg?v=1776476253
     Price: $65.00 USD
   - [Dark Gray 5b5b5b / 3XL](https://munsieur.com/products/discover-munsieur-womens-premium-womens-t-shirts-for-a-chic-casual-look-for-her?variant=50155069178072)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f8ffd893c6e0abab90625f1e92ce37e4.jpg?v=1749110738
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f8ffd893c6e0abab90625f1e92ce37e4.jpg?v=1776476253
     Price: $65.00 USD
   - [Black / 3XL](https://munsieur.com/products/discover-munsieur-womens-premium-womens-t-shirts-for-a-chic-casual-look-for-her?variant=50155069210840)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c2935a6e6cbc42e1525e0d942f12e848.jpg?v=1749110738
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c2935a6e6cbc42e1525e0d942f12e848.jpg?v=1776476253
     Price: $65.00 USD
 - [MUNSIEUR Premium Women's Sweatshirts: Stay Warm and Styli...](https://munsieur.com/products/munsieur-premium-womens-sweatshirts-stay-warm-and-fashionable): MUNSIEUR Premium Women's Sweatshirts: Stay Warm and Stylish embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crown...
-  Updated: 2026-04-03T13:56:41Z
+  Updated: 2026-04-19T08:59:39Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7696e789e26cf4817bcdf2c34d7d530f.jpg?v=1754332224
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fdfaace8fbb6655d656cdf351b1d9049.jpg?v=1776545972
   - [White ffffff / S](https://munsieur.com/products/munsieur-premium-womens-sweatshirts-stay-warm-and-fashionable?variant=50155070619864)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e6d81df84438bd686e3639d80a6e1cf5.jpg?v=1754332224
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e6d81df84438bd686e3639d80a6e1cf5.jpg?v=1776545972
     Price: $165.00 USD
   - [Red e01d2b / S](https://munsieur.com/products/munsieur-premium-womens-sweatshirts-stay-warm-and-fashionable?variant=50155070652632)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fdfaace8fbb6655d656cdf351b1d9049.jpg?v=1754332224
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fdfaace8fbb6655d656cdf351b1d9049.jpg?v=1776545972
     Price: $165.00 USD
   - [Navy 1d395e / S](https://munsieur.com/products/munsieur-premium-womens-sweatshirts-stay-warm-and-fashionable?variant=50155070685400)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f9d16dad291236aa2783a471bc86be27.jpg?v=1754332224
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f9d16dad291236aa2783a471bc86be27.jpg?v=1776545972
     Price: $165.00 USD
   - [Gray / S](https://munsieur.com/products/munsieur-premium-womens-sweatshirts-stay-warm-and-fashionable?variant=50155070718168)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5abdcc0ac99a990ac989d75053b637cd.jpg?v=1754332224
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5abdcc0ac99a990ac989d75053b637cd.jpg?v=1776545972
     Price: $165.00 USD
   - [Black / S](https://munsieur.com/products/munsieur-premium-womens-sweatshirts-stay-warm-and-fashionable?variant=50155070750936)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/704e384e17707bc25f82d497964fc15f.jpg?v=1754332224
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/704e384e17707bc25f82d497964fc15f.jpg?v=1776545972
     Price: $165.00 USD
   - [Red e01d2b / M](https://munsieur.com/products/munsieur-premium-womens-sweatshirts-stay-warm-and-fashionable?variant=50155070783704)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fdfaace8fbb6655d656cdf351b1d9049.jpg?v=1754332224
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fdfaace8fbb6655d656cdf351b1d9049.jpg?v=1776545972
     Price: $165.00 USD
   - [Navy 1d395e / M](https://munsieur.com/products/munsieur-premium-womens-sweatshirts-stay-warm-and-fashionable?variant=50155070816472)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f9d16dad291236aa2783a471bc86be27.jpg?v=1754332224
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f9d16dad291236aa2783a471bc86be27.jpg?v=1776545972
     Price: $165.00 USD
   - [Black / M](https://munsieur.com/products/munsieur-premium-womens-sweatshirts-stay-warm-and-fashionable?variant=50155070849240)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/704e384e17707bc25f82d497964fc15f.jpg?v=1754332224
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/704e384e17707bc25f82d497964fc15f.jpg?v=1776545972
     Price: $165.00 USD
   - [Red e01d2b / L](https://munsieur.com/products/munsieur-premium-womens-sweatshirts-stay-warm-and-fashionable?variant=50155070882008)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fdfaace8fbb6655d656cdf351b1d9049.jpg?v=1754332224
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fdfaace8fbb6655d656cdf351b1d9049.jpg?v=1776545972
     Price: $165.00 USD
   - [Black / L](https://munsieur.com/products/munsieur-premium-womens-sweatshirts-stay-warm-and-fashionable?variant=50155070914776)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/704e384e17707bc25f82d497964fc15f.jpg?v=1754332224
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/704e384e17707bc25f82d497964fc15f.jpg?v=1776545972
     Price: $165.00 USD
   - [Red e01d2b / XL](https://munsieur.com/products/munsieur-premium-womens-sweatshirts-stay-warm-and-fashionable?variant=50155070947544)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fdfaace8fbb6655d656cdf351b1d9049.jpg?v=1754332224
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fdfaace8fbb6655d656cdf351b1d9049.jpg?v=1776545972
     Price: $165.00 USD
   - [Black / XL](https://munsieur.com/products/munsieur-premium-womens-sweatshirts-stay-warm-and-fashionable?variant=50155070980312)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/704e384e17707bc25f82d497964fc15f.jpg?v=1754332224
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/704e384e17707bc25f82d497964fc15f.jpg?v=1776545972
     Price: $165.00 USD
   - [White ffffff / 2XL](https://munsieur.com/products/munsieur-premium-womens-sweatshirts-stay-warm-and-fashionable?variant=50155071013080)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e6d81df84438bd686e3639d80a6e1cf5.jpg?v=1754332224
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e6d81df84438bd686e3639d80a6e1cf5.jpg?v=1776545972
     Price: $165.00 USD
   - [Red e01d2b / 2XL](https://munsieur.com/products/munsieur-premium-womens-sweatshirts-stay-warm-and-fashionable?variant=50155071045848)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fdfaace8fbb6655d656cdf351b1d9049.jpg?v=1754332224
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fdfaace8fbb6655d656cdf351b1d9049.jpg?v=1776545972
     Price: $165.00 USD
   - [Navy 1d395e / 2XL](https://munsieur.com/products/munsieur-premium-womens-sweatshirts-stay-warm-and-fashionable?variant=50155071078616)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f9d16dad291236aa2783a471bc86be27.jpg?v=1754332224
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f9d16dad291236aa2783a471bc86be27.jpg?v=1776545972
     Price: $165.00 USD
   - [Black / 2XL](https://munsieur.com/products/munsieur-premium-womens-sweatshirts-stay-warm-and-fashionable?variant=50155071111384)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/704e384e17707bc25f82d497964fc15f.jpg?v=1754332224
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/704e384e17707bc25f82d497964fc15f.jpg?v=1776545972
     Price: $165.00 USD
   - [White ffffff / 3XL](https://munsieur.com/products/munsieur-premium-womens-sweatshirts-stay-warm-and-fashionable?variant=50155071144152)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e6d81df84438bd686e3639d80a6e1cf5.jpg?v=1754332224
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e6d81df84438bd686e3639d80a6e1cf5.jpg?v=1776545972
     Price: $165.00 USD
   - [Red e01d2b / 3XL](https://munsieur.com/products/munsieur-premium-womens-sweatshirts-stay-warm-and-fashionable?variant=50155071176920)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fdfaace8fbb6655d656cdf351b1d9049.jpg?v=1754332224
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fdfaace8fbb6655d656cdf351b1d9049.jpg?v=1776545972
     Price: $165.00 USD
   - [Navy 1d395e / 3XL](https://munsieur.com/products/munsieur-premium-womens-sweatshirts-stay-warm-and-fashionable?variant=50155071209688)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f9d16dad291236aa2783a471bc86be27.jpg?v=1754332224
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f9d16dad291236aa2783a471bc86be27.jpg?v=1776545972
     Price: $165.00 USD
   - [Gray / 3XL](https://munsieur.com/products/munsieur-premium-womens-sweatshirts-stay-warm-and-fashionable?variant=50155071242456)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5abdcc0ac99a990ac989d75053b637cd.jpg?v=1754332224
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5abdcc0ac99a990ac989d75053b637cd.jpg?v=1776545972
     Price: $165.00 USD
   - [Black / 3XL](https://munsieur.com/products/munsieur-premium-womens-sweatshirts-stay-warm-and-fashionable?variant=50155071275224)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/704e384e17707bc25f82d497964fc15f.jpg?v=1754332224
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/704e384e17707bc25f82d497964fc15f.jpg?v=1776545972
     Price: $165.00 USD
 - [Women's Timeless Elegance in MUNSIEUR Premium Sweater | G...](https://munsieur.com/products/womens-timeless-elegance-in-munsieur-premium-sweatshirts-for-her): Women's Timeless Elegance in MUNSIEUR Premium Sweater embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:56:40Z
+  Updated: 2026-04-18T21:11:00Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/03a6375932a0350362073292a698c2d8.jpg?v=1739656207
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/03a6375932a0350362073292a698c2d8.jpg?v=1776546246
   - [White ffffff / S](https://munsieur.com/products/womens-timeless-elegance-in-munsieur-premium-sweatshirts-for-her?variant=50155078451416)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/03a6375932a0350362073292a698c2d8.jpg?v=1739656207
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/03a6375932a0350362073292a698c2d8.jpg?v=1776546246
     Price: $165.00 USD
   - [Red e01d2b / S](https://munsieur.com/products/womens-timeless-elegance-in-munsieur-premium-sweatshirts-for-her?variant=50155078484184)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cef4d267368a9efcdb814bb2ddf06ddf.jpg?v=1740426467
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cef4d267368a9efcdb814bb2ddf06ddf.jpg?v=1776546314
     Price: $165.00 USD
   - [Navy 1d395e / S](https://munsieur.com/products/womens-timeless-elegance-in-munsieur-premium-sweatshirts-for-her?variant=50155078516952)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c6b9c3a2d345884526fd4d33df261c37.jpg?v=1740426467
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c6b9c3a2d345884526fd4d33df261c37.jpg?v=1776546518
     Price: $165.00 USD
   - [Gray / S](https://munsieur.com/products/womens-timeless-elegance-in-munsieur-premium-sweatshirts-for-her?variant=50155078549720)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/71b5a711da0ba44ef00ad06159a86f7d.jpg?v=1740426467
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/71b5a711da0ba44ef00ad06159a86f7d.jpg?v=1776546590
     Price: $165.00 USD
   - [Black / S](https://munsieur.com/products/womens-timeless-elegance-in-munsieur-premium-sweatshirts-for-her?variant=50155078582488)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6720ec58551bfe3341670cad56d16e1e.jpg?v=1740426467
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6720ec58551bfe3341670cad56d16e1e.jpg?v=1776546441
     Price: $165.00 USD
   - [Red e01d2b / M](https://munsieur.com/products/womens-timeless-elegance-in-munsieur-premium-sweatshirts-for-her?variant=50155078615256)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cef4d267368a9efcdb814bb2ddf06ddf.jpg?v=1740426467
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cef4d267368a9efcdb814bb2ddf06ddf.jpg?v=1776546314
     Price: $165.00 USD
   - [Navy 1d395e / M](https://munsieur.com/products/womens-timeless-elegance-in-munsieur-premium-sweatshirts-for-her?variant=50155078648024)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c6b9c3a2d345884526fd4d33df261c37.jpg?v=1740426467
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c6b9c3a2d345884526fd4d33df261c37.jpg?v=1776546518
     Price: $165.00 USD
   - [Black / M](https://munsieur.com/products/womens-timeless-elegance-in-munsieur-premium-sweatshirts-for-her?variant=50155078680792)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6720ec58551bfe3341670cad56d16e1e.jpg?v=1740426467
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6720ec58551bfe3341670cad56d16e1e.jpg?v=1776546441
     Price: $165.00 USD
   - [Red e01d2b / L](https://munsieur.com/products/womens-timeless-elegance-in-munsieur-premium-sweatshirts-for-her?variant=50155078713560)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cef4d267368a9efcdb814bb2ddf06ddf.jpg?v=1740426467
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cef4d267368a9efcdb814bb2ddf06ddf.jpg?v=1776546314
     Price: $165.00 USD
   - [Black / L](https://munsieur.com/products/womens-timeless-elegance-in-munsieur-premium-sweatshirts-for-her?variant=50155078746328)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6720ec58551bfe3341670cad56d16e1e.jpg?v=1740426467
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6720ec58551bfe3341670cad56d16e1e.jpg?v=1776546441
     Price: $165.00 USD
   - [Red e01d2b / XL](https://munsieur.com/products/womens-timeless-elegance-in-munsieur-premium-sweatshirts-for-her?variant=50155078779096)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cef4d267368a9efcdb814bb2ddf06ddf.jpg?v=1740426467
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cef4d267368a9efcdb814bb2ddf06ddf.jpg?v=1776546314
     Price: $165.00 USD
   - [Black / XL](https://munsieur.com/products/womens-timeless-elegance-in-munsieur-premium-sweatshirts-for-her?variant=50155078811864)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6720ec58551bfe3341670cad56d16e1e.jpg?v=1740426467
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6720ec58551bfe3341670cad56d16e1e.jpg?v=1776546441
     Price: $165.00 USD
   - [White ffffff / 2XL](https://munsieur.com/products/womens-timeless-elegance-in-munsieur-premium-sweatshirts-for-her?variant=50155078844632)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/03a6375932a0350362073292a698c2d8.jpg?v=1739656207
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/03a6375932a0350362073292a698c2d8.jpg?v=1776546246
     Price: $165.00 USD
   - [Red e01d2b / 2XL](https://munsieur.com/products/womens-timeless-elegance-in-munsieur-premium-sweatshirts-for-her?variant=50155078877400)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cef4d267368a9efcdb814bb2ddf06ddf.jpg?v=1740426467
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cef4d267368a9efcdb814bb2ddf06ddf.jpg?v=1776546314
     Price: $165.00 USD
   - [Navy 1d395e / 2XL](https://munsieur.com/products/womens-timeless-elegance-in-munsieur-premium-sweatshirts-for-her?variant=50155078910168)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c6b9c3a2d345884526fd4d33df261c37.jpg?v=1740426467
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c6b9c3a2d345884526fd4d33df261c37.jpg?v=1776546518
     Price: $165.00 USD
   - [Black / 2XL](https://munsieur.com/products/womens-timeless-elegance-in-munsieur-premium-sweatshirts-for-her?variant=50155078942936)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6720ec58551bfe3341670cad56d16e1e.jpg?v=1740426467
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6720ec58551bfe3341670cad56d16e1e.jpg?v=1776546441
     Price: $165.00 USD
   - [White ffffff / 3XL](https://munsieur.com/products/womens-timeless-elegance-in-munsieur-premium-sweatshirts-for-her?variant=50155078975704)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/03a6375932a0350362073292a698c2d8.jpg?v=1739656207
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/03a6375932a0350362073292a698c2d8.jpg?v=1776546246
     Price: $165.00 USD
   - [Red e01d2b / 3XL](https://munsieur.com/products/womens-timeless-elegance-in-munsieur-premium-sweatshirts-for-her?variant=50155079008472)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cef4d267368a9efcdb814bb2ddf06ddf.jpg?v=1740426467
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cef4d267368a9efcdb814bb2ddf06ddf.jpg?v=1776546314
     Price: $165.00 USD
   - [Navy 1d395e / 3XL](https://munsieur.com/products/womens-timeless-elegance-in-munsieur-premium-sweatshirts-for-her?variant=50155079041240)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c6b9c3a2d345884526fd4d33df261c37.jpg?v=1740426467
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c6b9c3a2d345884526fd4d33df261c37.jpg?v=1776546518
     Price: $165.00 USD
   - [Gray / 3XL](https://munsieur.com/products/womens-timeless-elegance-in-munsieur-premium-sweatshirts-for-her?variant=50155079074008)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/71b5a711da0ba44ef00ad06159a86f7d.jpg?v=1740426467
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/71b5a711da0ba44ef00ad06159a86f7d.jpg?v=1776546590
     Price: $165.00 USD
   - [Black / 3XL](https://munsieur.com/products/womens-timeless-elegance-in-munsieur-premium-sweatshirts-for-her?variant=50155079106776)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6720ec58551bfe3341670cad56d16e1e.jpg?v=1740426467
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6720ec58551bfe3341670cad56d16e1e.jpg?v=1776546441
     Price: $165.00 USD
 - [New Unveil Premium Quality with MUNSIEUR Women's Sweaters...](https://munsieur.com/products/new-unveil-premium-quality-with-munsieur-womens-sweatshirts): New Unveil Premium Quality with MUNSIEUR Women's Sweaters embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned...
-  Updated: 2026-04-03T13:56:39Z
+  Updated: 2026-04-18T21:41:45Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a8a05eaedcc922b722d1a2ff42999d14.jpg?v=1772844302
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a8a05eaedcc922b722d1a2ff42999d14.jpg?v=1776548307
   - [White ffffff / S](https://munsieur.com/products/new-unveil-premium-quality-with-munsieur-womens-sweatshirts?variant=50155092213976)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b5b9e58ce9167f895a59cb505dd72891.jpg?v=1772844302
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b5b9e58ce9167f895a59cb505dd72891.jpg?v=1776548504
     Price: $165.00 USD
   - [Red e01d2b / S](https://munsieur.com/products/new-unveil-premium-quality-with-munsieur-womens-sweatshirts?variant=50155092246744)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61865e08f24144c2bb5bc35d797913fb.jpg?v=1772844302
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61865e08f24144c2bb5bc35d797913fb.jpg?v=1776548384
     Price: $165.00 USD
   - [Navy 1d395e / S](https://munsieur.com/products/new-unveil-premium-quality-with-munsieur-womens-sweatshirts?variant=50155092279512)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2fd722eb8c4e75e3b7b8e9ac77a00a37.jpg?v=1772844302
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2fd722eb8c4e75e3b7b8e9ac77a00a37.jpg?v=1776548504
     Price: $165.00 USD
   - [Gray / S](https://munsieur.com/products/new-unveil-premium-quality-with-munsieur-womens-sweatshirts?variant=50155092312280)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/03d7f20482125d8d935a4c2e606ed8f0.jpg?v=1754332849
     Price: $165.00 USD
   - [Black / S](https://munsieur.com/products/new-unveil-premium-quality-with-munsieur-womens-sweatshirts?variant=50155092345048)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a8a05eaedcc922b722d1a2ff42999d14.jpg?v=1772844302
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a8a05eaedcc922b722d1a2ff42999d14.jpg?v=1776548307
     Price: $165.00 USD
   - [Red e01d2b / M](https://munsieur.com/products/new-unveil-premium-quality-with-munsieur-womens-sweatshirts?variant=50155092377816)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61865e08f24144c2bb5bc35d797913fb.jpg?v=1772844302
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61865e08f24144c2bb5bc35d797913fb.jpg?v=1776548384
     Price: $165.00 USD
   - [Navy 1d395e / M](https://munsieur.com/products/new-unveil-premium-quality-with-munsieur-womens-sweatshirts?variant=50155092410584)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2fd722eb8c4e75e3b7b8e9ac77a00a37.jpg?v=1772844302
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2fd722eb8c4e75e3b7b8e9ac77a00a37.jpg?v=1776548504
     Price: $165.00 USD
   - [Black / M](https://munsieur.com/products/new-unveil-premium-quality-with-munsieur-womens-sweatshirts?variant=50155092443352)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a8a05eaedcc922b722d1a2ff42999d14.jpg?v=1772844302
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a8a05eaedcc922b722d1a2ff42999d14.jpg?v=1776548307
     Price: $165.00 USD
   - [Red e01d2b / L](https://munsieur.com/products/new-unveil-premium-quality-with-munsieur-womens-sweatshirts?variant=50155092476120)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61865e08f24144c2bb5bc35d797913fb.jpg?v=1772844302
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61865e08f24144c2bb5bc35d797913fb.jpg?v=1776548384
     Price: $165.00 USD
   - [Black / L](https://munsieur.com/products/new-unveil-premium-quality-with-munsieur-womens-sweatshirts?variant=50155092508888)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a8a05eaedcc922b722d1a2ff42999d14.jpg?v=1772844302
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a8a05eaedcc922b722d1a2ff42999d14.jpg?v=1776548307
     Price: $165.00 USD
   - [Red e01d2b / XL](https://munsieur.com/products/new-unveil-premium-quality-with-munsieur-womens-sweatshirts?variant=50155092541656)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61865e08f24144c2bb5bc35d797913fb.jpg?v=1772844302
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61865e08f24144c2bb5bc35d797913fb.jpg?v=1776548384
     Price: $165.00 USD
   - [Black / XL](https://munsieur.com/products/new-unveil-premium-quality-with-munsieur-womens-sweatshirts?variant=50155092574424)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a8a05eaedcc922b722d1a2ff42999d14.jpg?v=1772844302
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a8a05eaedcc922b722d1a2ff42999d14.jpg?v=1776548307
     Price: $165.00 USD
   - [White ffffff / 2XL](https://munsieur.com/products/new-unveil-premium-quality-with-munsieur-womens-sweatshirts?variant=50155092607192)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b5b9e58ce9167f895a59cb505dd72891.jpg?v=1772844302
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b5b9e58ce9167f895a59cb505dd72891.jpg?v=1776548504
     Price: $165.00 USD
   - [Red e01d2b / 2XL](https://munsieur.com/products/new-unveil-premium-quality-with-munsieur-womens-sweatshirts?variant=50155092639960)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61865e08f24144c2bb5bc35d797913fb.jpg?v=1772844302
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61865e08f24144c2bb5bc35d797913fb.jpg?v=1776548384
     Price: $165.00 USD
   - [Navy 1d395e / 2XL](https://munsieur.com/products/new-unveil-premium-quality-with-munsieur-womens-sweatshirts?variant=50155092672728)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2fd722eb8c4e75e3b7b8e9ac77a00a37.jpg?v=1772844302
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2fd722eb8c4e75e3b7b8e9ac77a00a37.jpg?v=1776548504
     Price: $165.00 USD
   - [Black / 2XL](https://munsieur.com/products/new-unveil-premium-quality-with-munsieur-womens-sweatshirts?variant=50155092705496)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a8a05eaedcc922b722d1a2ff42999d14.jpg?v=1772844302
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a8a05eaedcc922b722d1a2ff42999d14.jpg?v=1776548307
     Price: $165.00 USD
   - [White ffffff / 3XL](https://munsieur.com/products/new-unveil-premium-quality-with-munsieur-womens-sweatshirts?variant=50155092738264)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b5b9e58ce9167f895a59cb505dd72891.jpg?v=1772844302
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b5b9e58ce9167f895a59cb505dd72891.jpg?v=1776548504
     Price: $165.00 USD
   - [Red e01d2b / 3XL](https://munsieur.com/products/new-unveil-premium-quality-with-munsieur-womens-sweatshirts?variant=50155092771032)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61865e08f24144c2bb5bc35d797913fb.jpg?v=1772844302
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61865e08f24144c2bb5bc35d797913fb.jpg?v=1776548384
     Price: $165.00 USD
   - [Navy 1d395e / 3XL](https://munsieur.com/products/new-unveil-premium-quality-with-munsieur-womens-sweatshirts?variant=50155092803800)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2fd722eb8c4e75e3b7b8e9ac77a00a37.jpg?v=1772844302
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2fd722eb8c4e75e3b7b8e9ac77a00a37.jpg?v=1776548504
     Price: $165.00 USD
   - [Gray / 3XL](https://munsieur.com/products/new-unveil-premium-quality-with-munsieur-womens-sweatshirts?variant=50155092836568)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/03d7f20482125d8d935a4c2e606ed8f0.jpg?v=1754332849
     Price: $165.00 USD
   - [Black / 3XL](https://munsieur.com/products/new-unveil-premium-quality-with-munsieur-womens-sweatshirts?variant=50155092869336)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a8a05eaedcc922b722d1a2ff42999d14.jpg?v=1772844302
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a8a05eaedcc922b722d1a2ff42999d14.jpg?v=1776548307
     Price: $165.00 USD
 - [Munsieur Premium Women's Sweatshirts for Comfort and Luxu...](https://munsieur.com/products/munsieur-premium-womens-sweatshirts-designed-for-comfort-and-luxury-for-her): Munsieur Premium Women's Sweatshirts for Comfort and Luxury embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crown...
   Updated: 2026-04-03T13:56:38Z
@@ -6064,96 +6062,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9ae82b649b14fdb422bba46c138cd713.jpg?v=1740426322
     Price: $33.99 USD
-- [Shop Now Elevate Your Style with Munsieur Women's Sweater...](https://munsieur.com/products/shop-now-elevate-your-style-with-munsieur-premium-sweatshirts-for-women): Shop Now Elevate Your Style with Munsieur Women's Sweater embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned...
-  Updated: 2026-04-03T13:56:36Z
-  Vendor: Munsieur
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/IMAGE-EDIT_747df6a7-41c4-4b15-b67b-4a3e6a3cb839.png?v=1772844338
-  - [White ffffff / S](https://munsieur.com/products/shop-now-elevate-your-style-with-munsieur-premium-sweatshirts-for-women?variant=50155100766424)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/02d27f0e730ae7f99f101e39f37b2c4f.jpg?v=1772844338
-    Price: $189.00 USD
-  - [Red e01d2b / S](https://munsieur.com/products/shop-now-elevate-your-style-with-munsieur-premium-sweatshirts-for-women?variant=50155100799192)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/12026bc85adf8b763625d930ef942789.jpg?v=1772844338
-    Price: $189.00 USD
-  - [Navy 1d395e / S](https://munsieur.com/products/shop-now-elevate-your-style-with-munsieur-premium-sweatshirts-for-women?variant=50155100831960)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4770dd02fc5450eb8c47b7c9a11de3ea.jpg?v=1772844338
-    Price: $189.00 USD
-  - [Gray / S](https://munsieur.com/products/shop-now-elevate-your-style-with-munsieur-premium-sweatshirts-for-women?variant=50155100864728)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d5a766412fd7b2a0ea987d34dbdea7d4.jpg?v=1772844338
-    Price: $189.00 USD
-  - [Black / S](https://munsieur.com/products/shop-now-elevate-your-style-with-munsieur-premium-sweatshirts-for-women?variant=50155100897496)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b98d2f3213471a2e68abe695bee85a82.jpg?v=1772844338
-    Price: $189.00 USD
-  - [Red e01d2b / M](https://munsieur.com/products/shop-now-elevate-your-style-with-munsieur-premium-sweatshirts-for-women?variant=50155100930264)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/12026bc85adf8b763625d930ef942789.jpg?v=1772844338
-    Price: $189.00 USD
-  - [Navy 1d395e / M](https://munsieur.com/products/shop-now-elevate-your-style-with-munsieur-premium-sweatshirts-for-women?variant=50155100963032)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4770dd02fc5450eb8c47b7c9a11de3ea.jpg?v=1772844338
-    Price: $189.00 USD
-  - [Black / M](https://munsieur.com/products/shop-now-elevate-your-style-with-munsieur-premium-sweatshirts-for-women?variant=50155100995800)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b98d2f3213471a2e68abe695bee85a82.jpg?v=1772844338
-    Price: $189.00 USD
-  - [Red e01d2b / L](https://munsieur.com/products/shop-now-elevate-your-style-with-munsieur-premium-sweatshirts-for-women?variant=50155101028568)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/12026bc85adf8b763625d930ef942789.jpg?v=1772844338
-    Price: $189.00 USD
-  - [Black / L](https://munsieur.com/products/shop-now-elevate-your-style-with-munsieur-premium-sweatshirts-for-women?variant=50155101061336)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b98d2f3213471a2e68abe695bee85a82.jpg?v=1772844338
-    Price: $189.00 USD
-  - [Red e01d2b / XL](https://munsieur.com/products/shop-now-elevate-your-style-with-munsieur-premium-sweatshirts-for-women?variant=50155101094104)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/12026bc85adf8b763625d930ef942789.jpg?v=1772844338
-    Price: $189.00 USD
-  - [Black / XL](https://munsieur.com/products/shop-now-elevate-your-style-with-munsieur-premium-sweatshirts-for-women?variant=50155101126872)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b98d2f3213471a2e68abe695bee85a82.jpg?v=1772844338
-    Price: $189.00 USD
-  - [White ffffff / 2XL](https://munsieur.com/products/shop-now-elevate-your-style-with-munsieur-premium-sweatshirts-for-women?variant=50155101159640)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/02d27f0e730ae7f99f101e39f37b2c4f.jpg?v=1772844338
-    Price: $189.00 USD
-  - [Red e01d2b / 2XL](https://munsieur.com/products/shop-now-elevate-your-style-with-munsieur-premium-sweatshirts-for-women?variant=50155101192408)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/12026bc85adf8b763625d930ef942789.jpg?v=1772844338
-    Price: $189.00 USD
-  - [Navy 1d395e / 2XL](https://munsieur.com/products/shop-now-elevate-your-style-with-munsieur-premium-sweatshirts-for-women?variant=50155101225176)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4770dd02fc5450eb8c47b7c9a11de3ea.jpg?v=1772844338
-    Price: $189.00 USD
-  - [Black / 2XL](https://munsieur.com/products/shop-now-elevate-your-style-with-munsieur-premium-sweatshirts-for-women?variant=50155101257944)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b98d2f3213471a2e68abe695bee85a82.jpg?v=1772844338
-    Price: $189.00 USD
-  - [White ffffff / 3XL](https://munsieur.com/products/shop-now-elevate-your-style-with-munsieur-premium-sweatshirts-for-women?variant=50155101290712)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/02d27f0e730ae7f99f101e39f37b2c4f.jpg?v=1772844338
-    Price: $189.00 USD
-  - [Red e01d2b / 3XL](https://munsieur.com/products/shop-now-elevate-your-style-with-munsieur-premium-sweatshirts-for-women?variant=50155101323480)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/12026bc85adf8b763625d930ef942789.jpg?v=1772844338
-    Price: $189.00 USD
-  - [Navy 1d395e / 3XL](https://munsieur.com/products/shop-now-elevate-your-style-with-munsieur-premium-sweatshirts-for-women?variant=50155101356248)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4770dd02fc5450eb8c47b7c9a11de3ea.jpg?v=1772844338
-    Price: $189.00 USD
-  - [Gray / 3XL](https://munsieur.com/products/shop-now-elevate-your-style-with-munsieur-premium-sweatshirts-for-women?variant=50155101389016)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d5a766412fd7b2a0ea987d34dbdea7d4.jpg?v=1772844338
-    Price: $189.00 USD
-  - [Black / 3XL](https://munsieur.com/products/shop-now-elevate-your-style-with-munsieur-premium-sweatshirts-for-women?variant=50155101421784)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b98d2f3213471a2e68abe695bee85a82.jpg?v=1772844338
-    Price: $189.00 USD
 - [Munsieur Premium Sweatshirts for Women Luxury Meets Comfo...](https://munsieur.com/products/munsieur-premium-sweatshirts-for-women-luxury-meets-comfort-for-her): Munsieur Premium Sweatshirts for Women Luxury Meets Comfort embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crown...
   Updated: 2026-04-03T13:56:34Z
   Vendor: Munsieur
@@ -6245,7 +6153,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/aabb6ca438e04abb67d45068de8078be.jpg?v=1754332036
     Price: $225.00 USD
 - [Munsieur Boudoir Zebra Print Lingerie – Drape Yourself in...](https://munsieur.com/products/munsieur-boudoir-zebra-print-lingerie-drape-yourself-in-desire): Munsieur Boudoir Zebra Print Lingerie – Drape Yourself in Desire! embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR...
-  Updated: 2026-04-03T13:56:33Z
+  Updated: 2026-04-22T05:53:34Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -6271,7 +6179,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ad1e026712f99e8d5ad7fd64f5ede04a.jpg?v=1739656897
     Price: $40.00 USD
 - [Munsieur Women's Femme Lingerie – Ignite Desire, Redefine...](https://munsieur.com/products/munsieur-womens-femme-lingerie-ignite-desire-redefine-elegance): Munsieur Women's Femme Lingerie – Ignite Desire, Redefine Elegance! embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIE...
-  Updated: 2026-04-03T13:56:32Z
+  Updated: 2026-04-22T06:04:30Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -6297,7 +6205,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/db0c0d7ec8649c304804e937667c24e1.jpg?v=1739657061
     Price: $40.00 USD
 - [Munsieur St. Patrick's Day Collection Women's Exclusive L...](https://munsieur.com/products/munsieur-womens-exclusive-lingerie-feel-divine-look-unstoppable): Munsieur St. Patrick's Day Collection Women's Exclusive Lingerie – Feel Divine, Look Unstoppable! embodies restrained gothic luxury. Ceremonial discipline en...
-  Updated: 2026-04-03T13:56:31Z
+  Updated: 2026-04-22T05:55:36Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -6323,7 +6231,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ee4452aed87ae5d8b3dd3c2cc9bc5ca2.jpg?v=1739657109
     Price: $40.00 USD
 - [Munsieur Women's Lingerie – Sensual, Sophisticated, Unapo...](https://munsieur.com/products/munsieur-womens-lingerie-sensual-sophisticated-unapologetically-you): Munsieur Women's Lingerie – Sensual, Sophisticated, Unapologetically You! embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. ...
-  Updated: 2026-04-03T13:56:30Z
+  Updated: 2026-04-22T06:07:40Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -6409,7 +6317,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c57a99e1a5d37728c0a8834fc3ae5b3c.jpg?v=1739659905
     Price: $29.99 USD
 - [Munsieur Luxury Women's Lingerie – Indulge in Elegance, E...](https://munsieur.com/products/munsieur-luxury-womens-lingerie-indulge-in-elegance-embrace-your-power): Munsieur Luxury Women's Lingerie – Indulge in Elegance, Embrace Your Power! embodies restrained gothic luxury. Ceremonial discipline engineered not decorated...
-  Updated: 2026-04-03T13:56:27Z
+  Updated: 2026-04-22T05:54:10Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -6435,7 +6343,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ec8f7d68ea01ddd879d5c69b56713151.jpg?v=1739659963
     Price: $40.00 USD
 - [Munsieur Women's Lingerie – Own Your Elegance, Flaunt You...](https://munsieur.com/products/munsieur-womens-lingerie-own-your-elegance-flaunt-your-confidence): Munsieur Women's Lingerie – Own Your Elegance, Flaunt Your Confidence embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNS...
-  Updated: 2026-04-03T13:56:26Z
+  Updated: 2026-04-22T06:01:15Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -6490,8 +6398,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b6262c72eef67061f80af254f2931b73.jpg?v=1739660087
     Price: $29.99 USD
-- [Munsieur Women's Boudoir Lingerie – Drape Yourself in Des...](https://munsieur.com/products/munsieur-womens-boudoir-lingerie-drape-yourself-in-desire): Munsieur Women's Boudoir Lingerie – Drape Yourself in Desire! embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR cro...
-  Updated: 2026-04-03T13:56:24Z
+- [Boudoir Mesh Thong — Dark Luxury Intimates | MUNSIEUR](https://munsieur.com/products/munsieur-womens-boudoir-lingerie-drape-yourself-in-desire): Precision-cut mesh, elastic waistband, breathable and body-conscious. The MUNSIEUR Boudoir Mesh Thong — dark intimates for the unapologetic. Free US shipping.
+  Updated: 2026-04-21T11:32:04Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -6933,109 +6841,109 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ff7b1178d940f5f369099156a01e5584.jpg?v=1739670612
     Price: $65.00 USD
 - [MUNSIEUR Premium Fit Tee - Timeless Luxury T-Shirt for Wo...](https://munsieur.com/products/munsieur-t-shirt-for-women-timeless-simplicity-with-a-premium-fit-1): MUNSIEUR Premium Fit Tee - Timeless Luxury T-Shirt for Women embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crow...
-  Updated: 2026-04-03T13:56:13Z
+  Updated: 2026-04-18T11:08:51Z
   Vendor: Munsieur
   Product Type: Tops
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8fbd27127db7a5f3e0284badc5ae300c.jpg?v=1739670724
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9af541ffa8bd7903eabe60d89a24d14d.png?v=1776475756
   - [White ffffff / L](https://munsieur.com/products/munsieur-t-shirt-for-women-timeless-simplicity-with-a-premium-fit-1?variant=50155641798872)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9af541ffa8bd7903eabe60d89a24d14d.jpg?v=1739670724
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9af541ffa8bd7903eabe60d89a24d14d.jpg?v=1776475756
     Price: $80.00 USD
   - [Red e01d2b / L](https://munsieur.com/products/munsieur-t-shirt-for-women-timeless-simplicity-with-a-premium-fit-1?variant=50155641831640)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d7d77f1ad29b43ff9308879634f2c4ed.jpg?v=1739670725
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d7d77f1ad29b43ff9308879634f2c4ed.jpg?v=1776475756
     Price: $80.00 USD
   - [Pink f0b2c5 / L](https://munsieur.com/products/munsieur-t-shirt-for-women-timeless-simplicity-with-a-premium-fit-1?variant=50155641864408)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1f51809dfbbef13514467c120b30aab6.jpg?v=1739670724
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1f51809dfbbef13514467c120b30aab6.jpg?v=1776475756
     Price: $80.00 USD
   - [Navy 1d395e / L](https://munsieur.com/products/munsieur-t-shirt-for-women-timeless-simplicity-with-a-premium-fit-1?variant=50155641897176)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/01e65e073aa600deafa3bd97b8e161f7.jpg?v=1739670724
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/01e65e073aa600deafa3bd97b8e161f7.jpg?v=1776475756
     Price: $80.00 USD
   - [Dark Gray 5b5b5b / L](https://munsieur.com/products/munsieur-t-shirt-for-women-timeless-simplicity-with-a-premium-fit-1?variant=50155641929944)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dc4b056c2f9a3b3db55dc9b044e74aec.jpg?v=1739670724
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dc4b056c2f9a3b3db55dc9b044e74aec.jpg?v=1776475756
     Price: $80.00 USD
   - [Black / L](https://munsieur.com/products/munsieur-t-shirt-for-women-timeless-simplicity-with-a-premium-fit-1?variant=50155641962712)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8fbd27127db7a5f3e0284badc5ae300c.jpg?v=1739670724
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8fbd27127db7a5f3e0284badc5ae300c.jpg?v=1776475756
     Price: $80.00 USD
   - [White ffffff / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-timeless-simplicity-with-a-premium-fit-1?variant=50155641995480)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9af541ffa8bd7903eabe60d89a24d14d.jpg?v=1739670724
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9af541ffa8bd7903eabe60d89a24d14d.jpg?v=1776475756
     Price: $80.00 USD
   - [Red e01d2b / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-timeless-simplicity-with-a-premium-fit-1?variant=50155642028248)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d7d77f1ad29b43ff9308879634f2c4ed.jpg?v=1739670725
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d7d77f1ad29b43ff9308879634f2c4ed.jpg?v=1776475756
     Price: $80.00 USD
   - [Pink f0b2c5 / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-timeless-simplicity-with-a-premium-fit-1?variant=50155642061016)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1f51809dfbbef13514467c120b30aab6.jpg?v=1739670724
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1f51809dfbbef13514467c120b30aab6.jpg?v=1776475756
     Price: $80.00 USD
   - [Navy 1d395e / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-timeless-simplicity-with-a-premium-fit-1?variant=50155642093784)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/01e65e073aa600deafa3bd97b8e161f7.jpg?v=1739670724
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/01e65e073aa600deafa3bd97b8e161f7.jpg?v=1776475756
     Price: $80.00 USD
   - [Dark Gray 5b5b5b / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-timeless-simplicity-with-a-premium-fit-1?variant=50155642126552)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dc4b056c2f9a3b3db55dc9b044e74aec.jpg?v=1739670724
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dc4b056c2f9a3b3db55dc9b044e74aec.jpg?v=1776475756
     Price: $80.00 USD
   - [Black / XL](https://munsieur.com/products/munsieur-t-shirt-for-women-timeless-simplicity-with-a-premium-fit-1?variant=50155642159320)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8fbd27127db7a5f3e0284badc5ae300c.jpg?v=1739670724
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8fbd27127db7a5f3e0284badc5ae300c.jpg?v=1776475756
     Price: $80.00 USD
   - [White ffffff / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-timeless-simplicity-with-a-premium-fit-1?variant=50155642192088)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9af541ffa8bd7903eabe60d89a24d14d.jpg?v=1739670724
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9af541ffa8bd7903eabe60d89a24d14d.jpg?v=1776475756
     Price: $80.00 USD
   - [Red e01d2b / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-timeless-simplicity-with-a-premium-fit-1?variant=50155642224856)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d7d77f1ad29b43ff9308879634f2c4ed.jpg?v=1739670725
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d7d77f1ad29b43ff9308879634f2c4ed.jpg?v=1776475756
     Price: $80.00 USD
   - [Pink f0b2c5 / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-timeless-simplicity-with-a-premium-fit-1?variant=50155642257624)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1f51809dfbbef13514467c120b30aab6.jpg?v=1739670724
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1f51809dfbbef13514467c120b30aab6.jpg?v=1776475756
     Price: $80.00 USD
   - [Navy 1d395e / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-timeless-simplicity-with-a-premium-fit-1?variant=50155642290392)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/01e65e073aa600deafa3bd97b8e161f7.jpg?v=1739670724
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/01e65e073aa600deafa3bd97b8e161f7.jpg?v=1776475756
     Price: $80.00 USD
   - [Dark Gray 5b5b5b / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-timeless-simplicity-with-a-premium-fit-1?variant=50155642323160)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dc4b056c2f9a3b3db55dc9b044e74aec.jpg?v=1739670724
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dc4b056c2f9a3b3db55dc9b044e74aec.jpg?v=1776475756
     Price: $80.00 USD
   - [Black / 2XL](https://munsieur.com/products/munsieur-t-shirt-for-women-timeless-simplicity-with-a-premium-fit-1?variant=50155642355928)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8fbd27127db7a5f3e0284badc5ae300c.jpg?v=1739670724
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8fbd27127db7a5f3e0284badc5ae300c.jpg?v=1776475756
     Price: $80.00 USD
   - [White ffffff / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-timeless-simplicity-with-a-premium-fit-1?variant=50155642388696)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9af541ffa8bd7903eabe60d89a24d14d.jpg?v=1739670724
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9af541ffa8bd7903eabe60d89a24d14d.jpg?v=1776475756
     Price: $80.00 USD
   - [Red e01d2b / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-timeless-simplicity-with-a-premium-fit-1?variant=50155642421464)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d7d77f1ad29b43ff9308879634f2c4ed.jpg?v=1739670725
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d7d77f1ad29b43ff9308879634f2c4ed.jpg?v=1776475756
     Price: $80.00 USD
   - [Pink f0b2c5 / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-timeless-simplicity-with-a-premium-fit-1?variant=50155642454232)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1f51809dfbbef13514467c120b30aab6.jpg?v=1739670724
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1f51809dfbbef13514467c120b30aab6.jpg?v=1776475756
     Price: $80.00 USD
   - [Navy 1d395e / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-timeless-simplicity-with-a-premium-fit-1?variant=50155642487000)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/01e65e073aa600deafa3bd97b8e161f7.jpg?v=1739670724
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/01e65e073aa600deafa3bd97b8e161f7.jpg?v=1776475756
     Price: $80.00 USD
   - [Dark Gray 5b5b5b / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-timeless-simplicity-with-a-premium-fit-1?variant=50155642519768)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dc4b056c2f9a3b3db55dc9b044e74aec.jpg?v=1739670724
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dc4b056c2f9a3b3db55dc9b044e74aec.jpg?v=1776475756
     Price: $80.00 USD
   - [Black / 3XL](https://munsieur.com/products/munsieur-t-shirt-for-women-timeless-simplicity-with-a-premium-fit-1?variant=50155642552536)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8fbd27127db7a5f3e0284badc5ae300c.jpg?v=1739670724
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8fbd27127db7a5f3e0284badc5ae300c.jpg?v=1776475756
     Price: $80.00 USD
 - [Munsieur T-Shirt for Women: Lightweight, Breathable, and ...](https://munsieur.com/products/munsieur-t-shirt-for-women-lightweight-breathable-and-ultra-stylish-for-her-1): Munsieur T-Shirt for Women: Lightweight, Breathable, and Ultra-Stylish for Her embodies restrained gothic luxury. Ceremonial discipline engineered not decora...
-  Updated: 2026-04-03T13:56:11Z
+  Updated: 2026-04-20T21:29:15Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -7239,97 +7147,97 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/493b8fb20d8c51ff10b4d2f69af37704.jpg?v=1739670928
     Price: $60.00 USD
 - [MUNSIEUR Cozy Sweatshirt - Chic Luxury Loungewear for Wom...](https://munsieur.com/products/munsieur-sweatshirt-for-women-cozy-chic-and-effortlessly-stylish-for-her): MUNSIEUR Cozy Sweatshirt - Chic Luxury Loungewear for Women embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crown...
-  Updated: 2026-04-03T13:56:09Z
+  Updated: 2026-04-22T08:27:24Z
   Vendor: Munsieur
   Product Type: Tops
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/484b8b86c2bde216be0e074f017e3f0d.jpg?v=1742849822
   - [White ffffff / S](https://munsieur.com/products/munsieur-sweatshirt-for-women-cozy-chic-and-effortlessly-stylish-for-her?variant=50155685707992)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e58e3cb5c8a32b9d1c61c203bbfcd65b.jpg?v=1754332641
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e58e3cb5c8a32b9d1c61c203bbfcd65b.jpg?v=1776803235
     Price: $165.00 USD
   - [Red e01d2b / S](https://munsieur.com/products/munsieur-sweatshirt-for-women-cozy-chic-and-effortlessly-stylish-for-her?variant=50155685740760)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1a6758edc7e4c0c332fd97eab966bd7c.jpg?v=1754332641
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1a6758edc7e4c0c332fd97eab966bd7c.jpg?v=1776803235
     Price: $165.00 USD
   - [Gray / S](https://munsieur.com/products/munsieur-sweatshirt-for-women-cozy-chic-and-effortlessly-stylish-for-her?variant=50155685773528)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cbcd0ed4938a4b9049894eda8d581512.jpg?v=1754332641
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cbcd0ed4938a4b9049894eda8d581512.jpg?v=1776803235
     Price: $165.00 USD
   - [Blue / S](https://munsieur.com/products/munsieur-sweatshirt-for-women-cozy-chic-and-effortlessly-stylish-for-her?variant=50155685806296)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8f152fd5ec3539910fc76bc897016516.jpg?v=1754332641
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8f152fd5ec3539910fc76bc897016516.jpg?v=1776803235
     Price: $165.00 USD
   - [Black / S](https://munsieur.com/products/munsieur-sweatshirt-for-women-cozy-chic-and-effortlessly-stylish-for-her?variant=50155685839064)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/65137c8c0a449f14d0e81d24481f6fde.jpg?v=1754332641
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/65137c8c0a449f14d0e81d24481f6fde.jpg?v=1776803236
     Price: $165.00 USD
   - [Red e01d2b / M](https://munsieur.com/products/munsieur-sweatshirt-for-women-cozy-chic-and-effortlessly-stylish-for-her?variant=50155685871832)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1a6758edc7e4c0c332fd97eab966bd7c.jpg?v=1754332641
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1a6758edc7e4c0c332fd97eab966bd7c.jpg?v=1776803235
     Price: $165.00 USD
   - [Blue / M](https://munsieur.com/products/munsieur-sweatshirt-for-women-cozy-chic-and-effortlessly-stylish-for-her?variant=50155685904600)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8f152fd5ec3539910fc76bc897016516.jpg?v=1754332641
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8f152fd5ec3539910fc76bc897016516.jpg?v=1776803235
     Price: $165.00 USD
   - [Black / M](https://munsieur.com/products/munsieur-sweatshirt-for-women-cozy-chic-and-effortlessly-stylish-for-her?variant=50155685937368)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/65137c8c0a449f14d0e81d24481f6fde.jpg?v=1754332641
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/65137c8c0a449f14d0e81d24481f6fde.jpg?v=1776803236
     Price: $165.00 USD
   - [Red e01d2b / L](https://munsieur.com/products/munsieur-sweatshirt-for-women-cozy-chic-and-effortlessly-stylish-for-her?variant=50155685970136)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1a6758edc7e4c0c332fd97eab966bd7c.jpg?v=1754332641
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1a6758edc7e4c0c332fd97eab966bd7c.jpg?v=1776803235
     Price: $165.00 USD
   - [Black / L](https://munsieur.com/products/munsieur-sweatshirt-for-women-cozy-chic-and-effortlessly-stylish-for-her?variant=50155686002904)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/65137c8c0a449f14d0e81d24481f6fde.jpg?v=1754332641
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/65137c8c0a449f14d0e81d24481f6fde.jpg?v=1776803236
     Price: $165.00 USD
   - [Red e01d2b / XL](https://munsieur.com/products/munsieur-sweatshirt-for-women-cozy-chic-and-effortlessly-stylish-for-her?variant=50155686035672)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1a6758edc7e4c0c332fd97eab966bd7c.jpg?v=1754332641
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1a6758edc7e4c0c332fd97eab966bd7c.jpg?v=1776803235
     Price: $165.00 USD
   - [Black / XL](https://munsieur.com/products/munsieur-sweatshirt-for-women-cozy-chic-and-effortlessly-stylish-for-her?variant=50155686068440)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/65137c8c0a449f14d0e81d24481f6fde.jpg?v=1754332641
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/65137c8c0a449f14d0e81d24481f6fde.jpg?v=1776803236
     Price: $165.00 USD
   - [White ffffff / 2XL](https://munsieur.com/products/munsieur-sweatshirt-for-women-cozy-chic-and-effortlessly-stylish-for-her?variant=50155686101208)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e58e3cb5c8a32b9d1c61c203bbfcd65b.jpg?v=1754332641
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e58e3cb5c8a32b9d1c61c203bbfcd65b.jpg?v=1776803235
     Price: $165.00 USD
   - [Red e01d2b / 2XL](https://munsieur.com/products/munsieur-sweatshirt-for-women-cozy-chic-and-effortlessly-stylish-for-her?variant=50155686133976)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1a6758edc7e4c0c332fd97eab966bd7c.jpg?v=1754332641
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1a6758edc7e4c0c332fd97eab966bd7c.jpg?v=1776803235
     Price: $165.00 USD
   - [Blue / 2XL](https://munsieur.com/products/munsieur-sweatshirt-for-women-cozy-chic-and-effortlessly-stylish-for-her?variant=50155686166744)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8f152fd5ec3539910fc76bc897016516.jpg?v=1754332641
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8f152fd5ec3539910fc76bc897016516.jpg?v=1776803235
     Price: $165.00 USD
   - [Black / 2XL](https://munsieur.com/products/munsieur-sweatshirt-for-women-cozy-chic-and-effortlessly-stylish-for-her?variant=50155686199512)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/65137c8c0a449f14d0e81d24481f6fde.jpg?v=1754332641
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/65137c8c0a449f14d0e81d24481f6fde.jpg?v=1776803236
     Price: $165.00 USD
   - [White ffffff / 3XL](https://munsieur.com/products/munsieur-sweatshirt-for-women-cozy-chic-and-effortlessly-stylish-for-her?variant=50155686232280)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e58e3cb5c8a32b9d1c61c203bbfcd65b.jpg?v=1754332641
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e58e3cb5c8a32b9d1c61c203bbfcd65b.jpg?v=1776803235
     Price: $165.00 USD
   - [Red e01d2b / 3XL](https://munsieur.com/products/munsieur-sweatshirt-for-women-cozy-chic-and-effortlessly-stylish-for-her?variant=50155686265048)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1a6758edc7e4c0c332fd97eab966bd7c.jpg?v=1754332641
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1a6758edc7e4c0c332fd97eab966bd7c.jpg?v=1776803235
     Price: $165.00 USD
   - [Gray / 3XL](https://munsieur.com/products/munsieur-sweatshirt-for-women-cozy-chic-and-effortlessly-stylish-for-her?variant=50155686297816)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cbcd0ed4938a4b9049894eda8d581512.jpg?v=1754332641
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cbcd0ed4938a4b9049894eda8d581512.jpg?v=1776803235
     Price: $165.00 USD
   - [Blue / 3XL](https://munsieur.com/products/munsieur-sweatshirt-for-women-cozy-chic-and-effortlessly-stylish-for-her?variant=50155686330584)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8f152fd5ec3539910fc76bc897016516.jpg?v=1754332641
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8f152fd5ec3539910fc76bc897016516.jpg?v=1776803235
     Price: $165.00 USD
   - [Black / 3XL](https://munsieur.com/products/munsieur-sweatshirt-for-women-cozy-chic-and-effortlessly-stylish-for-her?variant=50155686363352)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/65137c8c0a449f14d0e81d24481f6fde.jpg?v=1754332641
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/65137c8c0a449f14d0e81d24481f6fde.jpg?v=1776803236
     Price: $165.00 USD
 - [MUNSIEUR Classic Tee - Timeless Luxury T-Shirt for Men | ...](https://munsieur.com/products/munsieur-tee-for-men-timeless-comfort-modern-fit): MUNSIEUR Classic Tee - Timeless Luxury T-Shirt for Men embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned mo...
-  Updated: 2026-04-03T13:56:08Z
+  Updated: 2026-04-18T11:46:57Z
   Vendor: Munsieur
   Product Type: Tops
   Availability: Available
@@ -7391,120 +7299,120 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/eead5f96986c73bea73e38e66661deab.jpg?v=1739671383
     Price: $65.00 USD
 - [MUNSIEUR Minimalist Tee - Premium Designer T-Shirt for Me...](https://munsieur.com/products/munsieur-tee-for-men-minimalist-aesthetic-maximum-impact): MUNSIEUR Minimalist Tee - Premium Designer T-Shirt for Men embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowne...
-  Updated: 2026-04-03T13:56:07Z
+  Updated: 2026-04-18T11:48:54Z
   Vendor: Munsieur
   Product Type: Tops
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/070328d93c86dc6c70bdb1e686c7e383.jpg?v=1739671548
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b41070289e8281ed06e8e6357ffc54c5.png?v=1776469909
   - [Red e01d2b / S](https://munsieur.com/products/munsieur-tee-for-men-minimalist-aesthetic-maximum-impact?variant=50155737055448)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/10836156d550f51f700a2712f6580780.jpg?v=1739671549
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/10836156d550f51f700a2712f6580780.jpg?v=1776469909
     Price: $65.00 USD
   - [Blue / S](https://munsieur.com/products/munsieur-tee-for-men-minimalist-aesthetic-maximum-impact?variant=50155737088216)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8c42959fb7322874d1a1bebdc5921e26.jpg?v=1739671548
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8c42959fb7322874d1a1bebdc5921e26.jpg?v=1776469909
     Price: $65.00 USD
   - [Black / S](https://munsieur.com/products/munsieur-tee-for-men-minimalist-aesthetic-maximum-impact?variant=50155737120984)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/070328d93c86dc6c70bdb1e686c7e383.jpg?v=1739671548
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/070328d93c86dc6c70bdb1e686c7e383.jpg?v=1776469909
     Price: $65.00 USD
   - [Red e01d2b / M](https://munsieur.com/products/munsieur-tee-for-men-minimalist-aesthetic-maximum-impact?variant=50155737153752)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/10836156d550f51f700a2712f6580780.jpg?v=1739671549
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/10836156d550f51f700a2712f6580780.jpg?v=1776469909
     Price: $65.00 USD
   - [Blue / M](https://munsieur.com/products/munsieur-tee-for-men-minimalist-aesthetic-maximum-impact?variant=50155737186520)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8c42959fb7322874d1a1bebdc5921e26.jpg?v=1739671548
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8c42959fb7322874d1a1bebdc5921e26.jpg?v=1776469909
     Price: $65.00 USD
   - [Black / M](https://munsieur.com/products/munsieur-tee-for-men-minimalist-aesthetic-maximum-impact?variant=50155737219288)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/070328d93c86dc6c70bdb1e686c7e383.jpg?v=1739671548
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/070328d93c86dc6c70bdb1e686c7e383.jpg?v=1776469909
     Price: $65.00 USD
   - [Red e01d2b / L](https://munsieur.com/products/munsieur-tee-for-men-minimalist-aesthetic-maximum-impact?variant=50155737252056)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/10836156d550f51f700a2712f6580780.jpg?v=1739671549
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/10836156d550f51f700a2712f6580780.jpg?v=1776469909
     Price: $65.00 USD
   - [Blue / L](https://munsieur.com/products/munsieur-tee-for-men-minimalist-aesthetic-maximum-impact?variant=50155737284824)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8c42959fb7322874d1a1bebdc5921e26.jpg?v=1739671548
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8c42959fb7322874d1a1bebdc5921e26.jpg?v=1776469909
     Price: $65.00 USD
   - [Black / L](https://munsieur.com/products/munsieur-tee-for-men-minimalist-aesthetic-maximum-impact?variant=50155737317592)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/070328d93c86dc6c70bdb1e686c7e383.jpg?v=1739671548
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/070328d93c86dc6c70bdb1e686c7e383.jpg?v=1776469909
     Price: $65.00 USD
   - [Red e01d2b / XL](https://munsieur.com/products/munsieur-tee-for-men-minimalist-aesthetic-maximum-impact?variant=50155737350360)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/10836156d550f51f700a2712f6580780.jpg?v=1739671549
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/10836156d550f51f700a2712f6580780.jpg?v=1776469909
     Price: $65.00 USD
   - [Blue / XL](https://munsieur.com/products/munsieur-tee-for-men-minimalist-aesthetic-maximum-impact?variant=50155737383128)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8c42959fb7322874d1a1bebdc5921e26.jpg?v=1739671548
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8c42959fb7322874d1a1bebdc5921e26.jpg?v=1776469909
     Price: $65.00 USD
   - [Black / XL](https://munsieur.com/products/munsieur-tee-for-men-minimalist-aesthetic-maximum-impact?variant=50155737415896)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/070328d93c86dc6c70bdb1e686c7e383.jpg?v=1739671548
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/070328d93c86dc6c70bdb1e686c7e383.jpg?v=1776469909
     Price: $65.00 USD
   - [Red e01d2b / 2XL](https://munsieur.com/products/munsieur-tee-for-men-minimalist-aesthetic-maximum-impact?variant=50155737448664)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/10836156d550f51f700a2712f6580780.jpg?v=1739671549
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/10836156d550f51f700a2712f6580780.jpg?v=1776469909
     Price: $65.00 USD
   - [Blue / 2XL](https://munsieur.com/products/munsieur-tee-for-men-minimalist-aesthetic-maximum-impact?variant=50155737481432)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8c42959fb7322874d1a1bebdc5921e26.jpg?v=1739671548
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8c42959fb7322874d1a1bebdc5921e26.jpg?v=1776469909
     Price: $65.00 USD
   - [Black / 2XL](https://munsieur.com/products/munsieur-tee-for-men-minimalist-aesthetic-maximum-impact?variant=50155737514200)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/070328d93c86dc6c70bdb1e686c7e383.jpg?v=1739671548
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/070328d93c86dc6c70bdb1e686c7e383.jpg?v=1776469909
     Price: $65.00 USD
   - [Red e01d2b / 3XL](https://munsieur.com/products/munsieur-tee-for-men-minimalist-aesthetic-maximum-impact?variant=50155737546968)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/10836156d550f51f700a2712f6580780.jpg?v=1739671549
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/10836156d550f51f700a2712f6580780.jpg?v=1776469909
     Price: $65.00 USD
   - [Blue / 3XL](https://munsieur.com/products/munsieur-tee-for-men-minimalist-aesthetic-maximum-impact?variant=50155737579736)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8c42959fb7322874d1a1bebdc5921e26.jpg?v=1739671548
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8c42959fb7322874d1a1bebdc5921e26.jpg?v=1776469909
     Price: $65.00 USD
   - [Black / 3XL](https://munsieur.com/products/munsieur-tee-for-men-minimalist-aesthetic-maximum-impact?variant=50155737612504)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/070328d93c86dc6c70bdb1e686c7e383.jpg?v=1739671548
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/070328d93c86dc6c70bdb1e686c7e383.jpg?v=1776469909
     Price: $65.00 USD
   - [Red e01d2b / 4XL](https://munsieur.com/products/munsieur-tee-for-men-minimalist-aesthetic-maximum-impact?variant=50155737645272)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/10836156d550f51f700a2712f6580780.jpg?v=1739671549
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/10836156d550f51f700a2712f6580780.jpg?v=1776469909
     Price: $65.00 USD
   - [Blue / 4XL](https://munsieur.com/products/munsieur-tee-for-men-minimalist-aesthetic-maximum-impact?variant=50155737678040)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8c42959fb7322874d1a1bebdc5921e26.jpg?v=1739671548
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8c42959fb7322874d1a1bebdc5921e26.jpg?v=1776469909
     Price: $65.00 USD
   - [Black / 4XL](https://munsieur.com/products/munsieur-tee-for-men-minimalist-aesthetic-maximum-impact?variant=50155737710808)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/070328d93c86dc6c70bdb1e686c7e383.jpg?v=1739671548
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/070328d93c86dc6c70bdb1e686c7e383.jpg?v=1776469909
     Price: $65.00 USD
 - [Munsieur Joggers for Men: The Perfect Blend of Comfort an...](https://munsieur.com/products/munsieur-joggers-for-men-the-perfect-blend-of-comfort-and-style): Munsieur Joggers for Men: The Perfect Blend of Comfort and Style embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR ...
-  Updated: 2026-04-03T13:56:06Z
+  Updated: 2026-04-20T05:31:11Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6865df3529667a63bed2617f256d3a63.jpg?v=1740798507
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6865df3529667a63bed2617f256d3a63.png?v=1776619864
   - [White / XS](https://munsieur.com/products/munsieur-joggers-for-men-the-perfect-blend-of-comfort-and-style?variant=50155749998808)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fc7f73b93a1ff632374d5ec89cfd6caf.jpg?v=1740798507
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fc7f73b93a1ff632374d5ec89cfd6caf.jpg?v=1776619864
     Price: $60.00 USD
   - [Black / XS](https://munsieur.com/products/munsieur-joggers-for-men-the-perfect-blend-of-comfort-and-style?variant=50155750031576)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6865df3529667a63bed2617f256d3a63.jpg?v=1740798507
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6865df3529667a63bed2617f256d3a63.jpg?v=1776619864
     Price: $60.00 USD
   - [White / S](https://munsieur.com/products/munsieur-joggers-for-men-the-perfect-blend-of-comfort-and-style?variant=50155750064344)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fc7f73b93a1ff632374d5ec89cfd6caf.jpg?v=1740798507
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fc7f73b93a1ff632374d5ec89cfd6caf.jpg?v=1776619864
     Price: $60.00 USD
   - [White / M](https://munsieur.com/products/munsieur-joggers-for-men-the-perfect-blend-of-comfort-and-style?variant=50155750097112)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fc7f73b93a1ff632374d5ec89cfd6caf.jpg?v=1740798507
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fc7f73b93a1ff632374d5ec89cfd6caf.jpg?v=1776619864
     Price: $60.00 USD
   - [White / 3XL](https://munsieur.com/products/munsieur-joggers-for-men-the-perfect-blend-of-comfort-and-style?variant=50155750129880)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fc7f73b93a1ff632374d5ec89cfd6caf.jpg?v=1740798507
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fc7f73b93a1ff632374d5ec89cfd6caf.jpg?v=1776619864
     Price: $60.00 USD
 - [Munsieur Long Sleeve Tee for Men: Versatile, Timeless, an...](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-versatile-timeless-and-always-on-point): Munsieur Long Sleeve Tee for Men: Versatile, Timeless, and Always On Point embodies restrained gothic luxury. Ceremonial discipline engineered not decorated....
   Updated: 2026-04-03T13:56:05Z
@@ -7711,106 +7619,106 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7e4cd01ebaf645669595a73b4ebc854e.jpg?v=1739672449
     Price: $74.99 USD
 - [Munsieur Long Sleeve Tee for Men: Luxe Fabric, Tailored F...](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-luxe-fabric-tailored-fit): Munsieur Long Sleeve Tee for Men: Luxe Fabric, Tailored Fit embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crown...
-  Updated: 2026-04-03T13:56:03Z
+  Updated: 2026-04-18T11:57:51Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/046f29b64ea4313e5115eb3cb58254e1.jpg?v=1739672619
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/046f29b64ea4313e5115eb3cb58254e1.png?v=1776470261
   - [White ffffff / S](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-luxe-fabric-tailored-fit?variant=50155795710168)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2082802c7862803bd1364e5f1f225b0e.jpg?v=1739672619
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2082802c7862803bd1364e5f1f225b0e.jpg?v=1776470261
     Price: $65.00 USD
   - [Navy 1d395e / S](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-luxe-fabric-tailored-fit?variant=50155795742936)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cd725b5a6552e9f6d1d590694ca6cea3.jpg?v=1739672619
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cd725b5a6552e9f6d1d590694ca6cea3.jpg?v=1776470261
     Price: $65.00 USD
   - [Light gray / S](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-luxe-fabric-tailored-fit?variant=50155795775704)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3c6b1e3d768d120d934bad182612a0b0.jpg?v=1739672619
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3c6b1e3d768d120d934bad182612a0b0.jpg?v=1776470261
     Price: $65.00 USD
   - [Black / S](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-luxe-fabric-tailored-fit?variant=50155795808472)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/046f29b64ea4313e5115eb3cb58254e1.jpg?v=1739672619
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/046f29b64ea4313e5115eb3cb58254e1.jpg?v=1776470261
     Price: $65.00 USD
   - [White ffffff / M](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-luxe-fabric-tailored-fit?variant=50155795841240)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2082802c7862803bd1364e5f1f225b0e.jpg?v=1739672619
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2082802c7862803bd1364e5f1f225b0e.jpg?v=1776470261
     Price: $65.00 USD
   - [Navy 1d395e / M](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-luxe-fabric-tailored-fit?variant=50155795874008)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cd725b5a6552e9f6d1d590694ca6cea3.jpg?v=1739672619
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cd725b5a6552e9f6d1d590694ca6cea3.jpg?v=1776470261
     Price: $65.00 USD
   - [Light gray / M](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-luxe-fabric-tailored-fit?variant=50155795906776)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3c6b1e3d768d120d934bad182612a0b0.jpg?v=1739672619
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3c6b1e3d768d120d934bad182612a0b0.jpg?v=1776470261
     Price: $65.00 USD
   - [Black / M](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-luxe-fabric-tailored-fit?variant=50155795939544)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/046f29b64ea4313e5115eb3cb58254e1.jpg?v=1739672619
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/046f29b64ea4313e5115eb3cb58254e1.jpg?v=1776470261
     Price: $65.00 USD
   - [White ffffff / L](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-luxe-fabric-tailored-fit?variant=50155795972312)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2082802c7862803bd1364e5f1f225b0e.jpg?v=1739672619
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2082802c7862803bd1364e5f1f225b0e.jpg?v=1776470261
     Price: $65.00 USD
   - [Navy 1d395e / L](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-luxe-fabric-tailored-fit?variant=50155796005080)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cd725b5a6552e9f6d1d590694ca6cea3.jpg?v=1739672619
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cd725b5a6552e9f6d1d590694ca6cea3.jpg?v=1776470261
     Price: $65.00 USD
   - [Light gray / L](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-luxe-fabric-tailored-fit?variant=50155796037848)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3c6b1e3d768d120d934bad182612a0b0.jpg?v=1739672619
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3c6b1e3d768d120d934bad182612a0b0.jpg?v=1776470261
     Price: $65.00 USD
   - [Black / L](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-luxe-fabric-tailored-fit?variant=50155796070616)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/046f29b64ea4313e5115eb3cb58254e1.jpg?v=1739672619
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/046f29b64ea4313e5115eb3cb58254e1.jpg?v=1776470261
     Price: $65.00 USD
   - [White ffffff / XL](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-luxe-fabric-tailored-fit?variant=50155796103384)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2082802c7862803bd1364e5f1f225b0e.jpg?v=1739672619
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2082802c7862803bd1364e5f1f225b0e.jpg?v=1776470261
     Price: $65.00 USD
   - [Navy 1d395e / XL](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-luxe-fabric-tailored-fit?variant=50155796136152)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cd725b5a6552e9f6d1d590694ca6cea3.jpg?v=1739672619
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cd725b5a6552e9f6d1d590694ca6cea3.jpg?v=1776470261
     Price: $65.00 USD
   - [Light gray / XL](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-luxe-fabric-tailored-fit?variant=50155796168920)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3c6b1e3d768d120d934bad182612a0b0.jpg?v=1739672619
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3c6b1e3d768d120d934bad182612a0b0.jpg?v=1776470261
     Price: $65.00 USD
   - [Black / XL](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-luxe-fabric-tailored-fit?variant=50155796201688)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/046f29b64ea4313e5115eb3cb58254e1.jpg?v=1739672619
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/046f29b64ea4313e5115eb3cb58254e1.jpg?v=1776470261
     Price: $65.00 USD
   - [White ffffff / 2XL](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-luxe-fabric-tailored-fit?variant=50155796234456)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2082802c7862803bd1364e5f1f225b0e.jpg?v=1739672619
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2082802c7862803bd1364e5f1f225b0e.jpg?v=1776470261
     Price: $65.00 USD
   - [Navy 1d395e / 2XL](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-luxe-fabric-tailored-fit?variant=50155796267224)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cd725b5a6552e9f6d1d590694ca6cea3.jpg?v=1739672619
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cd725b5a6552e9f6d1d590694ca6cea3.jpg?v=1776470261
     Price: $65.00 USD
   - [Light gray / 2XL](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-luxe-fabric-tailored-fit?variant=50155796299992)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3c6b1e3d768d120d934bad182612a0b0.jpg?v=1739672619
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3c6b1e3d768d120d934bad182612a0b0.jpg?v=1776470261
     Price: $65.00 USD
   - [Black / 2XL](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-luxe-fabric-tailored-fit?variant=50155796332760)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/046f29b64ea4313e5115eb3cb58254e1.jpg?v=1739672619
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/046f29b64ea4313e5115eb3cb58254e1.jpg?v=1776470261
     Price: $65.00 USD
   - [White ffffff / 3XL](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-luxe-fabric-tailored-fit?variant=50155796365528)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2082802c7862803bd1364e5f1f225b0e.jpg?v=1739672619
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2082802c7862803bd1364e5f1f225b0e.jpg?v=1776470261
     Price: $65.00 USD
   - [Navy 1d395e / 3XL](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-luxe-fabric-tailored-fit?variant=50155796398296)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cd725b5a6552e9f6d1d590694ca6cea3.jpg?v=1739672619
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cd725b5a6552e9f6d1d590694ca6cea3.jpg?v=1776470261
     Price: $65.00 USD
   - [Light gray / 3XL](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-luxe-fabric-tailored-fit?variant=50155796431064)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3c6b1e3d768d120d934bad182612a0b0.jpg?v=1739672619
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3c6b1e3d768d120d934bad182612a0b0.jpg?v=1776470261
     Price: $65.00 USD
   - [Black / 3XL](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-luxe-fabric-tailored-fit?variant=50155796463832)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/046f29b64ea4313e5115eb3cb58254e1.jpg?v=1739672619
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/046f29b64ea4313e5115eb3cb58254e1.jpg?v=1776470261
     Price: $65.00 USD
 - [Munsieur Long Sleeve Tee for Men: Perfect for Layering an...](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-perfect-for-layering-and-standalone-wear): Munsieur Long Sleeve Tee for Men: Perfect for Layering and Standalone Wear embodies restrained gothic luxury. Ceremonial discipline engineered not decorated....
   Updated: 2026-04-03T13:56:02Z
@@ -8119,106 +8027,106 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/532084a06bb0cec14614cbbfe61b58a9.jpg?v=1754245034
     Price: $65.00 USD
 - [Munsieur Long Sleeve Tee for Men: The Perfect Balance of ...](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-the-perfect-balance-of-casual-and-refined): Munsieur Long Sleeve Tee for Men: The Perfect Balance of Casual and Refined embodies restrained gothic luxury. Ceremonial discipline engineered not decorated...
-  Updated: 2026-04-03T13:55:59Z
+  Updated: 2026-04-18T12:02:26Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4445db76cbafd18aed28768f620a63a7.jpg?v=1739735286
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4445db76cbafd18aed28768f620a63a7.png?v=1776470540
   - [White ffffff / S](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-the-perfect-balance-of-casual-and-refined?variant=50155837554904)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3b174969c7bab4fa43777de78f8821d2.jpg?v=1739735286
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3b174969c7bab4fa43777de78f8821d2.jpg?v=1776470540
     Price: $75.00 USD
   - [Navy 1d395e / S](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-the-perfect-balance-of-casual-and-refined?variant=50155837587672)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4445db76cbafd18aed28768f620a63a7.jpg?v=1739735286
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4445db76cbafd18aed28768f620a63a7.jpg?v=1776470540
     Price: $75.00 USD
   - [Light gray / S](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-the-perfect-balance-of-casual-and-refined?variant=50155837620440)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c77b8c1c8bfb3c3fd514616725e90078.jpg?v=1739735286
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c77b8c1c8bfb3c3fd514616725e90078.jpg?v=1776470540
     Price: $75.00 USD
   - [Black / S](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-the-perfect-balance-of-casual-and-refined?variant=50155837653208)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cba38ef66af5f8cd6f67df070b0078d0.jpg?v=1739735286
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cba38ef66af5f8cd6f67df070b0078d0.jpg?v=1776470540
     Price: $75.00 USD
   - [White ffffff / M](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-the-perfect-balance-of-casual-and-refined?variant=50155837685976)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3b174969c7bab4fa43777de78f8821d2.jpg?v=1739735286
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3b174969c7bab4fa43777de78f8821d2.jpg?v=1776470540
     Price: $75.00 USD
   - [Navy 1d395e / M](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-the-perfect-balance-of-casual-and-refined?variant=50155837718744)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4445db76cbafd18aed28768f620a63a7.jpg?v=1739735286
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4445db76cbafd18aed28768f620a63a7.jpg?v=1776470540
     Price: $75.00 USD
   - [Light gray / M](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-the-perfect-balance-of-casual-and-refined?variant=50155837751512)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c77b8c1c8bfb3c3fd514616725e90078.jpg?v=1739735286
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c77b8c1c8bfb3c3fd514616725e90078.jpg?v=1776470540
     Price: $75.00 USD
   - [Black / M](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-the-perfect-balance-of-casual-and-refined?variant=50155837784280)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cba38ef66af5f8cd6f67df070b0078d0.jpg?v=1739735286
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cba38ef66af5f8cd6f67df070b0078d0.jpg?v=1776470540
     Price: $75.00 USD
   - [White ffffff / L](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-the-perfect-balance-of-casual-and-refined?variant=50155837817048)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3b174969c7bab4fa43777de78f8821d2.jpg?v=1739735286
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3b174969c7bab4fa43777de78f8821d2.jpg?v=1776470540
     Price: $75.00 USD
   - [Navy 1d395e / L](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-the-perfect-balance-of-casual-and-refined?variant=50155837849816)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4445db76cbafd18aed28768f620a63a7.jpg?v=1739735286
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4445db76cbafd18aed28768f620a63a7.jpg?v=1776470540
     Price: $75.00 USD
   - [Light gray / L](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-the-perfect-balance-of-casual-and-refined?variant=50155837882584)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c77b8c1c8bfb3c3fd514616725e90078.jpg?v=1739735286
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c77b8c1c8bfb3c3fd514616725e90078.jpg?v=1776470540
     Price: $75.00 USD
   - [Black / L](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-the-perfect-balance-of-casual-and-refined?variant=50155837915352)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cba38ef66af5f8cd6f67df070b0078d0.jpg?v=1739735286
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cba38ef66af5f8cd6f67df070b0078d0.jpg?v=1776470540
     Price: $75.00 USD
   - [White ffffff / XL](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-the-perfect-balance-of-casual-and-refined?variant=50155837948120)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3b174969c7bab4fa43777de78f8821d2.jpg?v=1739735286
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3b174969c7bab4fa43777de78f8821d2.jpg?v=1776470540
     Price: $75.00 USD
   - [Navy 1d395e / XL](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-the-perfect-balance-of-casual-and-refined?variant=50155837980888)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4445db76cbafd18aed28768f620a63a7.jpg?v=1739735286
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4445db76cbafd18aed28768f620a63a7.jpg?v=1776470540
     Price: $75.00 USD
   - [Light gray / XL](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-the-perfect-balance-of-casual-and-refined?variant=50155838013656)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c77b8c1c8bfb3c3fd514616725e90078.jpg?v=1739735286
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c77b8c1c8bfb3c3fd514616725e90078.jpg?v=1776470540
     Price: $75.00 USD
   - [Black / XL](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-the-perfect-balance-of-casual-and-refined?variant=50155838046424)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cba38ef66af5f8cd6f67df070b0078d0.jpg?v=1739735286
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cba38ef66af5f8cd6f67df070b0078d0.jpg?v=1776470540
     Price: $75.00 USD
   - [White ffffff / 2XL](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-the-perfect-balance-of-casual-and-refined?variant=50155838079192)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3b174969c7bab4fa43777de78f8821d2.jpg?v=1739735286
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3b174969c7bab4fa43777de78f8821d2.jpg?v=1776470540
     Price: $75.00 USD
   - [Navy 1d395e / 2XL](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-the-perfect-balance-of-casual-and-refined?variant=50155838111960)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4445db76cbafd18aed28768f620a63a7.jpg?v=1739735286
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4445db76cbafd18aed28768f620a63a7.jpg?v=1776470540
     Price: $75.00 USD
   - [Light gray / 2XL](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-the-perfect-balance-of-casual-and-refined?variant=50155838144728)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c77b8c1c8bfb3c3fd514616725e90078.jpg?v=1739735286
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c77b8c1c8bfb3c3fd514616725e90078.jpg?v=1776470540
     Price: $75.00 USD
   - [Black / 2XL](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-the-perfect-balance-of-casual-and-refined?variant=50155838177496)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cba38ef66af5f8cd6f67df070b0078d0.jpg?v=1739735286
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cba38ef66af5f8cd6f67df070b0078d0.jpg?v=1776470540
     Price: $75.00 USD
   - [White ffffff / 3XL](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-the-perfect-balance-of-casual-and-refined?variant=50155838210264)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3b174969c7bab4fa43777de78f8821d2.jpg?v=1739735286
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3b174969c7bab4fa43777de78f8821d2.jpg?v=1776470540
     Price: $75.00 USD
   - [Navy 1d395e / 3XL](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-the-perfect-balance-of-casual-and-refined?variant=50155838243032)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4445db76cbafd18aed28768f620a63a7.jpg?v=1739735286
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4445db76cbafd18aed28768f620a63a7.jpg?v=1776470540
     Price: $75.00 USD
   - [Light gray / 3XL](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-the-perfect-balance-of-casual-and-refined?variant=50155838275800)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c77b8c1c8bfb3c3fd514616725e90078.jpg?v=1739735286
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c77b8c1c8bfb3c3fd514616725e90078.jpg?v=1776470540
     Price: $75.00 USD
   - [Black / 3XL](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-the-perfect-balance-of-casual-and-refined?variant=50155838308568)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cba38ef66af5f8cd6f67df070b0078d0.jpg?v=1739735286
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cba38ef66af5f8cd6f67df070b0078d0.jpg?v=1776470540
     Price: $75.00 USD
 - [Munsieur Long Sleeve Tee for Men: Ultra-Soft Fabric for A...](https://munsieur.com/products/munsieur-long-sleeve-tee-for-men-ultra-soft-fabric-for-all-day-wear): Munsieur Long Sleeve Tee for Men: Ultra-Soft Fabric for All-Day Wear embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSI...
   Updated: 2026-04-03T13:55:58Z
@@ -8743,11 +8651,11 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c234b895ebe690ef08a69a464df8ce76.jpg?v=1754249428
     Price: $65.00 USD
 - [Luxe Hoodie - Premium Everyday Streetwear | MUNSIEUR | Go...](https://munsieur.com/products/luxe-hoodie-premium-everyday-streetwear): Luxe Hoodie - Premium Everyday Streetwear | MUNSIEUR embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:55:52Z
+  Updated: 2026-04-18T16:27:30Z
   Vendor: Munsieur
   Product Type: Outerwear
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d18d7856e8d1e0287c4cf09bd73a6cc1.jpg?v=1742849065
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/58b4fa6e9c0480f0c2ab755d585d422c.jpg?v=1776486442
   - [Red e01d2b / S](https://munsieur.com/products/luxe-hoodie-premium-everyday-streetwear?variant=50155857707224)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4c7f69f1f98eda2d1620b89e7dd6a2de.jpg?v=1739735125
@@ -8758,19 +8666,19 @@
     Price: $150.00 USD
   - [Black / S](https://munsieur.com/products/luxe-hoodie-premium-everyday-streetwear?variant=50155857772760)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61885cf0d6e77c1f8851ebef6531c7fa.jpg?v=1742849065
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61885cf0d6e77c1f8851ebef6531c7fa.jpg?v=1776486442
     Price: $150.00 USD
   - [Black / M](https://munsieur.com/products/luxe-hoodie-premium-everyday-streetwear?variant=50155857805528)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61885cf0d6e77c1f8851ebef6531c7fa.jpg?v=1742849065
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61885cf0d6e77c1f8851ebef6531c7fa.jpg?v=1776486442
     Price: $150.00 USD
   - [Black / L](https://munsieur.com/products/luxe-hoodie-premium-everyday-streetwear?variant=50155857838296)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61885cf0d6e77c1f8851ebef6531c7fa.jpg?v=1742849065
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61885cf0d6e77c1f8851ebef6531c7fa.jpg?v=1776486442
     Price: $150.00 USD
   - [Black / XL](https://munsieur.com/products/luxe-hoodie-premium-everyday-streetwear?variant=50155857871064)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61885cf0d6e77c1f8851ebef6531c7fa.jpg?v=1742849065
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61885cf0d6e77c1f8851ebef6531c7fa.jpg?v=1776486442
     Price: $150.00 USD
   - [Red e01d2b / 2XL](https://munsieur.com/products/luxe-hoodie-premium-everyday-streetwear?variant=50155857903832)
     Availability: Available
@@ -8778,11 +8686,11 @@
     Price: $150.00 USD
   - [Black / 2XL](https://munsieur.com/products/luxe-hoodie-premium-everyday-streetwear?variant=50155857936600)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61885cf0d6e77c1f8851ebef6531c7fa.jpg?v=1742849065
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61885cf0d6e77c1f8851ebef6531c7fa.jpg?v=1776486442
     Price: $150.00 USD
   - [White ffffff / 3XL](https://munsieur.com/products/luxe-hoodie-premium-everyday-streetwear?variant=50155857969368)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/886f38130af30b720c843917dc951655.jpg?v=1742849065
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/886f38130af30b720c843917dc951655.jpg?v=1776486442
     Price: $150.00 USD
   - [Red e01d2b / 3XL](https://munsieur.com/products/luxe-hoodie-premium-everyday-streetwear?variant=50155858002136)
     Availability: Available
@@ -8794,11 +8702,11 @@
     Price: $150.00 USD
   - [Black / 3XL](https://munsieur.com/products/luxe-hoodie-premium-everyday-streetwear?variant=50155858067672)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61885cf0d6e77c1f8851ebef6531c7fa.jpg?v=1742849065
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61885cf0d6e77c1f8851ebef6531c7fa.jpg?v=1776486442
     Price: $150.00 USD
   - [White ffffff / 4XL](https://munsieur.com/products/luxe-hoodie-premium-everyday-streetwear?variant=50155858100440)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/886f38130af30b720c843917dc951655.jpg?v=1742849065
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/886f38130af30b720c843917dc951655.jpg?v=1776486442
     Price: $150.00 USD
   - [Red e01d2b / 4XL](https://munsieur.com/products/luxe-hoodie-premium-everyday-streetwear?variant=50155858133208)
     Availability: Available
@@ -8810,15 +8718,15 @@
     Price: $150.00 USD
   - [Gray / 4XL](https://munsieur.com/products/luxe-hoodie-premium-everyday-streetwear?variant=50155858198744)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/47a1e62e5ed560d6ee5d463c2b325517.jpg?v=1742849065
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/47a1e62e5ed560d6ee5d463c2b325517.jpg?v=1776486442
     Price: $150.00 USD
   - [Black / 4XL](https://munsieur.com/products/luxe-hoodie-premium-everyday-streetwear?variant=50155858231512)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61885cf0d6e77c1f8851ebef6531c7fa.jpg?v=1742849065
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61885cf0d6e77c1f8851ebef6531c7fa.jpg?v=1776486442
     Price: $150.00 USD
   - [White ffffff / 5XL](https://munsieur.com/products/luxe-hoodie-premium-everyday-streetwear?variant=50155858264280)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/886f38130af30b720c843917dc951655.jpg?v=1742849065
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/886f38130af30b720c843917dc951655.jpg?v=1776486442
     Price: $150.00 USD
   - [Red e01d2b / 5XL](https://munsieur.com/products/luxe-hoodie-premium-everyday-streetwear?variant=50155858297048)
     Availability: Available
@@ -8830,15 +8738,15 @@
     Price: $150.00 USD
   - [Gray / 5XL](https://munsieur.com/products/luxe-hoodie-premium-everyday-streetwear?variant=50155858362584)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/47a1e62e5ed560d6ee5d463c2b325517.jpg?v=1742849065
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/47a1e62e5ed560d6ee5d463c2b325517.jpg?v=1776486442
     Price: $150.00 USD
   - [Black / 5XL](https://munsieur.com/products/luxe-hoodie-premium-everyday-streetwear?variant=50155858395352)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61885cf0d6e77c1f8851ebef6531c7fa.jpg?v=1742849065
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61885cf0d6e77c1f8851ebef6531c7fa.jpg?v=1776486442
     Price: $150.00 USD
   - [White ffffff / 6XL](https://munsieur.com/products/luxe-hoodie-premium-everyday-streetwear?variant=50155858428120)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/886f38130af30b720c843917dc951655.jpg?v=1742849065
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/886f38130af30b720c843917dc951655.jpg?v=1776486442
     Price: $150.00 USD
   - [Red e01d2b / 6XL](https://munsieur.com/products/luxe-hoodie-premium-everyday-streetwear?variant=50155858460888)
     Availability: Available
@@ -8850,11 +8758,11 @@
     Price: $150.00 USD
   - [Gray / 6XL](https://munsieur.com/products/luxe-hoodie-premium-everyday-streetwear?variant=50155858526424)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/47a1e62e5ed560d6ee5d463c2b325517.jpg?v=1742849065
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/47a1e62e5ed560d6ee5d463c2b325517.jpg?v=1776486442
     Price: $150.00 USD
   - [Black / 6XL](https://munsieur.com/products/luxe-hoodie-premium-everyday-streetwear?variant=50155858559192)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61885cf0d6e77c1f8851ebef6531c7fa.jpg?v=1742849065
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/61885cf0d6e77c1f8851ebef6531c7fa.jpg?v=1776486442
     Price: $150.00 USD
 - [Sleek Hoodie - Modern Luxury Streetwear | MUNSIEUR | Goth...](https://munsieur.com/products/sleek-hoodie-modern-luxury-streetwear): Sleek Hoodie - Modern Luxury Streetwear | MUNSIEUR embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
   Updated: 2026-04-03T13:55:51Z
@@ -9085,70 +8993,70 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/bab4083c7a8288d4ed2b3cca0fbd544c.jpg?v=1742848684
     Price: $40.00 USD
 - [Soft Hoodie - Ultra-Comfortable Luxury | MUNSIEUR | Gothi...](https://munsieur.com/products/soft-hoodie-ultra-comfortable-luxury): Soft Hoodie - Ultra-Comfortable Luxury | MUNSIEUR embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:55:49Z
+  Updated: 2026-04-20T18:09:19Z
   Vendor: Munsieur
   Product Type: Outerwear
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/290223538f11e2dae9ec2aca79355051.jpg?v=1742848577
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/290223538f11e2dae9ec2aca79355051.jpg?v=1776708534
   - [Red e01d2b / S](https://munsieur.com/products/soft-hoodie-ultra-comfortable-luxury?variant=50155872944344)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9edc1ccc6c61476f51c34c22d533146a.jpg?v=1742848577
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9edc1ccc6c61476f51c34c22d533146a.jpg?v=1776708558
     Price: $129.95 USD
   - [Navy 1d395e / S](https://munsieur.com/products/soft-hoodie-ultra-comfortable-luxury?variant=50155872977112)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3344989f059e25d1572d1a88926f885f.jpg?v=1742848577
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3344989f059e25d1572d1a88926f885f.jpg?v=1776708558
     Price: $129.95 USD
   - [Black / S](https://munsieur.com/products/soft-hoodie-ultra-comfortable-luxury?variant=50155873009880)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ae30dee41e831cdf5b9a834894be44b8.jpg?v=1742848577
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ae30dee41e831cdf5b9a834894be44b8.jpg?v=1776708558
     Price: $129.95 USD
   - [Black / M](https://munsieur.com/products/soft-hoodie-ultra-comfortable-luxury?variant=50155873042648)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ae30dee41e831cdf5b9a834894be44b8.jpg?v=1742848577
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ae30dee41e831cdf5b9a834894be44b8.jpg?v=1776708558
     Price: $129.95 USD
   - [Black / L](https://munsieur.com/products/soft-hoodie-ultra-comfortable-luxury?variant=50155873075416)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ae30dee41e831cdf5b9a834894be44b8.jpg?v=1742848577
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ae30dee41e831cdf5b9a834894be44b8.jpg?v=1776708558
     Price: $129.95 USD
   - [Black / XL](https://munsieur.com/products/soft-hoodie-ultra-comfortable-luxury?variant=50155873108184)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ae30dee41e831cdf5b9a834894be44b8.jpg?v=1742848577
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ae30dee41e831cdf5b9a834894be44b8.jpg?v=1776708558
     Price: $129.95 USD
   - [Red e01d2b / 2XL](https://munsieur.com/products/soft-hoodie-ultra-comfortable-luxury?variant=50155873140952)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9edc1ccc6c61476f51c34c22d533146a.jpg?v=1742848577
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9edc1ccc6c61476f51c34c22d533146a.jpg?v=1776708558
     Price: $129.95 USD
   - [Black / 2XL](https://munsieur.com/products/soft-hoodie-ultra-comfortable-luxury?variant=50155873173720)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ae30dee41e831cdf5b9a834894be44b8.jpg?v=1742848577
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ae30dee41e831cdf5b9a834894be44b8.jpg?v=1776708558
     Price: $129.95 USD
   - [White ffffff / 3XL](https://munsieur.com/products/soft-hoodie-ultra-comfortable-luxury?variant=50155873206488)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6f169af00e73f025947467cde05592f9.jpg?v=1742848577
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6f169af00e73f025947467cde05592f9.jpg?v=1776708558
     Price: $129.95 USD
   - [Red e01d2b / 3XL](https://munsieur.com/products/soft-hoodie-ultra-comfortable-luxury?variant=50155873239256)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9edc1ccc6c61476f51c34c22d533146a.jpg?v=1742848577
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9edc1ccc6c61476f51c34c22d533146a.jpg?v=1776708558
     Price: $129.95 USD
   - [Navy 1d395e / 3XL](https://munsieur.com/products/soft-hoodie-ultra-comfortable-luxury?variant=50155873272024)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3344989f059e25d1572d1a88926f885f.jpg?v=1742848577
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3344989f059e25d1572d1a88926f885f.jpg?v=1776708558
     Price: $129.95 USD
   - [Black / 3XL](https://munsieur.com/products/soft-hoodie-ultra-comfortable-luxury?variant=50155873304792)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ae30dee41e831cdf5b9a834894be44b8.jpg?v=1742848577
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ae30dee41e831cdf5b9a834894be44b8.jpg?v=1776708558
     Price: $129.95 USD
   - [White ffffff / 4XL](https://munsieur.com/products/soft-hoodie-ultra-comfortable-luxury?variant=50155873337560)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6f169af00e73f025947467cde05592f9.jpg?v=1742848577
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6f169af00e73f025947467cde05592f9.jpg?v=1776708558
     Price: $129.95 USD
   - [Red e01d2b / 4XL](https://munsieur.com/products/soft-hoodie-ultra-comfortable-luxury?variant=50155873370328)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9edc1ccc6c61476f51c34c22d533146a.jpg?v=1742848577
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9edc1ccc6c61476f51c34c22d533146a.jpg?v=1776708558
     Price: $129.95 USD
   - [Navy 1d395e / 4XL](https://munsieur.com/products/soft-hoodie-ultra-comfortable-luxury?variant=50155873403096)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3344989f059e25d1572d1a88926f885f.jpg?v=1742848577
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3344989f059e25d1572d1a88926f885f.jpg?v=1776708558
     Price: $129.95 USD
   - [Gray / 4XL](https://munsieur.com/products/soft-hoodie-ultra-comfortable-luxury?variant=50155873435864)
     Availability: Available
@@ -9156,19 +9064,19 @@
     Price: $129.95 USD
   - [Black / 4XL](https://munsieur.com/products/soft-hoodie-ultra-comfortable-luxury?variant=50155873468632)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ae30dee41e831cdf5b9a834894be44b8.jpg?v=1742848577
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ae30dee41e831cdf5b9a834894be44b8.jpg?v=1776708558
     Price: $129.95 USD
   - [White ffffff / 5XL](https://munsieur.com/products/soft-hoodie-ultra-comfortable-luxury?variant=50155873501400)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6f169af00e73f025947467cde05592f9.jpg?v=1742848577
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6f169af00e73f025947467cde05592f9.jpg?v=1776708558
     Price: $129.95 USD
   - [Red e01d2b / 5XL](https://munsieur.com/products/soft-hoodie-ultra-comfortable-luxury?variant=50155873534168)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9edc1ccc6c61476f51c34c22d533146a.jpg?v=1742848577
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9edc1ccc6c61476f51c34c22d533146a.jpg?v=1776708558
     Price: $129.95 USD
   - [Navy 1d395e / 5XL](https://munsieur.com/products/soft-hoodie-ultra-comfortable-luxury?variant=50155873566936)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3344989f059e25d1572d1a88926f885f.jpg?v=1742848577
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3344989f059e25d1572d1a88926f885f.jpg?v=1776708558
     Price: $129.95 USD
   - [Gray / 5XL](https://munsieur.com/products/soft-hoodie-ultra-comfortable-luxury?variant=50155873599704)
     Availability: Available
@@ -9176,19 +9084,19 @@
     Price: $129.95 USD
   - [Black / 5XL](https://munsieur.com/products/soft-hoodie-ultra-comfortable-luxury?variant=50155873632472)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ae30dee41e831cdf5b9a834894be44b8.jpg?v=1742848577
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ae30dee41e831cdf5b9a834894be44b8.jpg?v=1776708558
     Price: $129.95 USD
   - [White ffffff / 6XL](https://munsieur.com/products/soft-hoodie-ultra-comfortable-luxury?variant=50155873665240)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6f169af00e73f025947467cde05592f9.jpg?v=1742848577
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6f169af00e73f025947467cde05592f9.jpg?v=1776708558
     Price: $129.95 USD
   - [Red e01d2b / 6XL](https://munsieur.com/products/soft-hoodie-ultra-comfortable-luxury?variant=50155873698008)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9edc1ccc6c61476f51c34c22d533146a.jpg?v=1742848577
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9edc1ccc6c61476f51c34c22d533146a.jpg?v=1776708558
     Price: $129.95 USD
   - [Navy 1d395e / 6XL](https://munsieur.com/products/soft-hoodie-ultra-comfortable-luxury?variant=50155873730776)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3344989f059e25d1572d1a88926f885f.jpg?v=1742848577
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3344989f059e25d1572d1a88926f885f.jpg?v=1776708558
     Price: $129.95 USD
   - [Gray / 6XL](https://munsieur.com/products/soft-hoodie-ultra-comfortable-luxury?variant=50155873763544)
     Availability: Available
@@ -9196,7 +9104,7 @@
     Price: $129.95 USD
   - [Black / 6XL](https://munsieur.com/products/soft-hoodie-ultra-comfortable-luxury?variant=50155873796312)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ae30dee41e831cdf5b9a834894be44b8.jpg?v=1742848577
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ae30dee41e831cdf5b9a834894be44b8.jpg?v=1776708558
     Price: $129.95 USD
 - [Premium Comfort Hoodie - Luxury Everyday Wear | MUNSIEUR ...](https://munsieur.com/products/premium-comfort-hoodie-luxury-everyday): Premium Comfort Hoodie - Luxury Everyday Wear | MUNSIEUR embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned ...
   Updated: 2026-04-03T13:55:48Z
@@ -9359,7 +9267,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/118365e8-3a68-4c16-aa8e-cd118e26c95e-Min.jpg?v=1755796846
     Price: $30.00 USD
 - [Vervet by Flying Monkey Full Size Allie 90's Dad Jean | G...](https://munsieur.com/products/vervet-by-flying-monkey-full-size-allie-90s-dad-jean): Vervet by Flying Monkey Full Size Allie 90's Dad Jean embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:55:46Z
+  Updated: 2026-04-25T21:51:57Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -9467,7 +9375,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/69353838-f8c2-4bac-8d33-1d787583e2d2-Min.jpg?v=1755797443
     Price: $26.00 USD
 - [Ruffled Sleeveless Mini Dress | Gothic Ceremonial | MUNSIEUR](https://munsieur.com/products/ruffled-sleeveless-mini-dress): Ruffled Sleeveless Mini Dress embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:55:44Z
+  Updated: 2026-04-16T16:43:46Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -9597,7 +9505,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ba584e2a-0f0d-44ff-aa32-3c8c4f41412f-Min.jpg?v=1739824173
     Price: $52.99 USD
 - [MUNSIEUR Textured Sleeveless Romper - Luxury Designer Jum...](https://munsieur.com/products/double-take-full-size-texture-sleeveless-romper): MUNSIEUR Textured Sleeveless Romper - Luxury Designer Jumpsuit for Women embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. M...
-  Updated: 2026-04-11T07:30:26Z
+  Updated: 2026-04-18T02:30:25Z
   Vendor: Munsieur
   Product Type: Dresses
   Availability: Available
@@ -9723,7 +9631,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/da4613a6-b36e-461c-9abf-6459731450a1-Min.jpg?v=1739824863
     Price: $51.99 USD
 - [Double Take Full Size Printed Tie Back Wide Leg Jumpsuit ...](https://munsieur.com/products/double-take-full-size-printed-tie-back-wide-leg-jumpsuit): Double Take Full Size Printed Tie Back Wide Leg Jumpsuit embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned ...
-  Updated: 2026-04-07T18:15:36Z
+  Updated: 2026-04-28T19:16:47Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -9855,7 +9763,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/341d298e-7052-4df8-a3ee-085c191bbb78-Min.jpg?v=1739824919
     Price: $44.99 USD
 - [Double Take Full Size V-Neck Sleeveless Jumpsuit with Poc...](https://munsieur.com/products/double-take-full-size-v-neck-sleeveless-jumpsuit-with-pockets): Double Take Full Size V-Neck Sleeveless Jumpsuit with Pockets embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR cro...
-  Updated: 2026-04-12T12:30:27Z
+  Updated: 2026-04-28T02:30:27Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -10061,21 +9969,21 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ce886420-a78c-4d90-9e61-69f90493f4a2-Min.jpg?v=1739824960
     Price: $82.99 USD
 - [Smocked Printed Wide Strap Jumpsuit | Gothic Ceremonial |...](https://munsieur.com/products/smocked-printed-wide-strap-jumpsuit): Smocked Printed Wide Strap Jumpsuit embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-12T02:00:47Z
+  Updated: 2026-04-28T14:50:48Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d32013b4-a0d0-4ebc-90e6-4f30be0353bb-Min.jpg?v=1739825042
   - [Dark Blue / S](https://munsieur.com/products/smocked-printed-wide-strap-jumpsuit?variant=50162962596056)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d32013b4-a0d0-4ebc-90e6-4f30be0353bb-Min.jpg?v=1739825042
     Price: $107.99 USD
   - [Dark Blue / M](https://munsieur.com/products/smocked-printed-wide-strap-jumpsuit?variant=50162962628824)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d32013b4-a0d0-4ebc-90e6-4f30be0353bb-Min.jpg?v=1739825042
     Price: $107.99 USD
   - [Dark Blue / L](https://munsieur.com/products/smocked-printed-wide-strap-jumpsuit?variant=50162962661592)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d32013b4-a0d0-4ebc-90e6-4f30be0353bb-Min.jpg?v=1739825042
     Price: $107.99 USD
   - [Dark Blue / XL](https://munsieur.com/products/smocked-printed-wide-strap-jumpsuit?variant=50162962694360)
@@ -10099,7 +10007,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b15685d8-a548-4543-9e1f-3d8d5ef8145f-Min.jpg?v=1739825042
     Price: $107.99 USD
 - [Full Size V-Neck Wide Strap Jumpsuit | Gothic Ceremonial ...](https://munsieur.com/products/full-size-v-neck-wide-strap-jumpsuit): Full Size V-Neck Wide Strap Jumpsuit embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:55:34Z
+  Updated: 2026-04-23T19:00:27Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -10341,7 +10249,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/21b86514-1906-4d0d-9054-cbf3f6e76979-Min.jpg?v=1739825337
     Price: $58.99 USD
 - [Striped Half Sleeve Tie Waist Romper | Gothic Ceremonial ...](https://munsieur.com/products/striped-half-sleeve-tie-waist-romper): Striped Half Sleeve Tie Waist Romper embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:55:31Z
+  Updated: 2026-04-27T01:40:47Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -10363,13 +10271,13 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f921c93e-fa2b-424b-ac1d-a69c4ea4e296-Min.jpg?v=1739825373
     Price: $117.99 USD
 - [Two-Tone Spaghetti Strap Wide Leg Jumpsuit | Gothic Cerem...](https://munsieur.com/products/two-tone-spaghetti-strap-wide-leg-jumpsuit): Two-Tone Spaghetti Strap Wide Leg Jumpsuit embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:55:30Z
+  Updated: 2026-04-28T07:14:28Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d778e582-c340-4095-8eec-a0ea95bc0dbf-Min.jpg?v=1739825420
   - [Green / M](https://munsieur.com/products/two-tone-spaghetti-strap-wide-leg-jumpsuit?variant=50163004309720)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/289fcee6-bca0-4354-9a83-588920f38817-Min.jpg?v=1739825420
     Price: $41.99 USD
   - [Green / L](https://munsieur.com/products/two-tone-spaghetti-strap-wide-leg-jumpsuit?variant=50163004342488)
@@ -10381,7 +10289,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/289fcee6-bca0-4354-9a83-588920f38817-Min.jpg?v=1739825420
     Price: $41.99 USD
   - [Orange / S](https://munsieur.com/products/two-tone-spaghetti-strap-wide-leg-jumpsuit?variant=50163004408024)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/75d256af-7adc-4bc8-aebe-1b21dcfd5f43-Min.jpg?v=1739825420
     Price: $41.99 USD
   - [Orange / M](https://munsieur.com/products/two-tone-spaghetti-strap-wide-leg-jumpsuit?variant=50163004440792)
@@ -10589,7 +10497,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f32f39c3-186a-4402-a527-e0309f747947-Min.jpg?v=1739825521
     Price: $32.99 USD
 - [Button Detail Collared Neck Short Sleeve Romper | Gothic ...](https://munsieur.com/products/button-detail-collared-neck-short-sleeve-romper): Button Detail Collared Neck Short Sleeve Romper embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:55:26Z
+  Updated: 2026-04-17T12:53:36Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -10691,7 +10599,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7484e996-ad7f-4815-ac25-5f37061c13d6-Min.jpg?v=1739825539
     Price: $59.99 USD
 - [Women's Striped Romper summer outfit | Gothic Ceremonial ...](https://munsieur.com/products/perfee-striped-v-neck-tie-waist-romper): Women's Striped Romper summer outfit embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-12T12:01:01Z
+  Updated: 2026-04-28T14:21:23Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -10749,7 +10657,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/472ff164-98f7-4acf-96bc-d187c481438e-Min.jpg?v=1739825550
     Price: $53.99 USD
   - [Light Gray / M](https://munsieur.com/products/perfee-striped-v-neck-tie-waist-romper?variant=50163028394200)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/472ff164-98f7-4acf-96bc-d187c481438e-Min.jpg?v=1739825550
     Price: $53.99 USD
   - [Light Gray / L](https://munsieur.com/products/perfee-striped-v-neck-tie-waist-romper?variant=50163028426968)
@@ -10809,7 +10717,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d7e1283a-29e9-4e84-8ec3-b57e9bf31c88-Min.jpg?v=1739825550
     Price: $53.99 USD
   - [Pink / M](https://munsieur.com/products/perfee-striped-v-neck-tie-waist-romper?variant=50163028885720)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d7e1283a-29e9-4e84-8ec3-b57e9bf31c88-Min.jpg?v=1739825550
     Price: $53.99 USD
   - [Pink / L](https://munsieur.com/products/perfee-striped-v-neck-tie-waist-romper?variant=50163028918488)
@@ -10825,7 +10733,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1723f287-c222-412c-8899-3f5f215303a6-Min.jpg?v=1739825550
     Price: $53.99 USD
 - [Bow Striped Kimono Sleeve Romper | Gothic Ceremonial | MU...](https://munsieur.com/products/bow-striped-kimono-sleeve-romper): Bow Striped Kimono Sleeve Romper embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-09T06:46:17Z
+  Updated: 2026-04-28T02:51:40Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -11157,7 +11065,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5ca64f38-d6d5-4995-99e3-8ad309eeaeaa-Min.jpg?v=1739826851
     Price: $43.99 USD
 - [MUNSIEUR Bohemian Denim Midi Skirt - Luxury Flowy Skirt w...](https://munsieur.com/products/midi-denim-skirt-with-pockets): MUNSIEUR Bohemian Denim Midi Skirt - Luxury Flowy Skirt with Pockets for Women embodies restrained gothic luxury. Ceremonial discipline engineered not decora...
-  Updated: 2026-04-03T13:55:18Z
+  Updated: 2026-04-25T02:00:27Z
   Vendor: Munsieur
   Product Type: Bottoms
   Availability: Available
@@ -11195,7 +11103,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8e2f2f05-2c54-4b2f-8ca0-1144b0fd44be-Min.jpg?v=1772232490
     Price: $52.50 USD
 - [MUNSIEUR Frill Maxi Skirt - Luxury Designer Skirt with Po...](https://munsieur.com/products/frill-midi-skirt-with-pockets): MUNSIEUR Frill Maxi Skirt - Luxury Designer Skirt with Pockets for Women embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. M...
-  Updated: 2026-04-03T13:55:17Z
+  Updated: 2026-04-25T02:40:51Z
   Vendor: Munsieur
   Product Type: Bottoms
   Availability: Available
@@ -11217,7 +11125,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f069c589-a496-440e-ad0d-9b037271af39-Min.jpg?v=1739826990
     Price: $36.99 USD
 - [MUNSIEUR Lace Tiered Midi Skirt - Luxury Designer Skirt f...](https://munsieur.com/products/lace-tiered-midi-skirt): MUNSIEUR Lace Tiered Midi Skirt - Luxury Designer Skirt for Women embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR...
-  Updated: 2026-04-05T02:08:47Z
+  Updated: 2026-04-24T06:40:59Z
   Vendor: Munsieur
   Product Type: Bottoms
   Availability: Available
@@ -11459,7 +11367,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/14ec3c8f-5e9e-4da4-b09d-124503d87f36-Min.jpg?v=1739827275
     Price: $42.00 USD
 - [PU Leather Open Toe Sandals | Gothic Ceremonial | MUNSIEUR](https://munsieur.com/products/pu-leather-open-toe-sandals): PU Leather Open Toe Sandals embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:55:04Z
+  Updated: 2026-04-27T23:57:39Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -11745,7 +11653,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/fdf999db-5a0c-4d4d-a633-3755f899cfb1-Min.jpg?v=1739827854
     Price: $45.99 USD
 - [Knitted Square Toe Flat Slip-Ons | Gothic Ceremonial | MU...](https://munsieur.com/products/knitted-square-toe-flat-slip-ons): Knitted Square Toe Flat Slip-Ons embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:55:01Z
+  Updated: 2026-04-25T23:46:17Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -12130,192 +12038,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3c4da310-8e61-4ab0-ab84-6831ce397182-Min.jpg?v=1739827977
     Price: $68.99 USD
-- [PARIS Letter Open Toe Flat Sandals | Gothic Ceremonial | ...](https://munsieur.com/products/paris-letter-open-toe-flat-sandals): PARIS Letter Open Toe Flat Sandals embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:54:58Z
-  Vendor: Munsieur
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7d0e3ebd-5fea-4ebe-9cf2-f12615f8295c-Min.jpg?v=1739828024
-  - [Beige / 36(US5)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163162611928)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f5ea3b58-e4d9-416e-b9a4-efdd0ead772c-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Hot Pink / 36(US5)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163162644696)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8a0f1668-ed01-4dda-9212-a876db7c04e6-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Beige / 37(US6)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163162677464)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f5ea3b58-e4d9-416e-b9a4-efdd0ead772c-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Beige / 38(US7)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163162710232)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f5ea3b58-e4d9-416e-b9a4-efdd0ead772c-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Beige / 39(US8)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163162743000)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f5ea3b58-e4d9-416e-b9a4-efdd0ead772c-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Beige / 40(US9)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163162775768)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f5ea3b58-e4d9-416e-b9a4-efdd0ead772c-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Beige / 41(US10)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163162808536)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f5ea3b58-e4d9-416e-b9a4-efdd0ead772c-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Beige / 42(US10.5)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163162841304)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f5ea3b58-e4d9-416e-b9a4-efdd0ead772c-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Beige / 43(US11)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163162874072)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f5ea3b58-e4d9-416e-b9a4-efdd0ead772c-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Beige / 44(US12)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163162906840)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f5ea3b58-e4d9-416e-b9a4-efdd0ead772c-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Pastel  Blue / 36(US5)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163162939608)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9253fc8c-37c3-44b0-83d7-5da58e69ef0d-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Pastel  Blue / 37(US6)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163162972376)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9253fc8c-37c3-44b0-83d7-5da58e69ef0d-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Pastel  Blue / 38(US7)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163005144)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9253fc8c-37c3-44b0-83d7-5da58e69ef0d-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Pastel  Blue / 39(US8)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163037912)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9253fc8c-37c3-44b0-83d7-5da58e69ef0d-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Pastel  Blue / 40(US9)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163070680)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9253fc8c-37c3-44b0-83d7-5da58e69ef0d-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Pastel  Blue / 41(US10)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163103448)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9253fc8c-37c3-44b0-83d7-5da58e69ef0d-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Hot Pink / 37(US6)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163136216)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8a0f1668-ed01-4dda-9212-a876db7c04e6-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Pastel  Blue / 42(US10.5)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163168984)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9253fc8c-37c3-44b0-83d7-5da58e69ef0d-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Pastel  Blue / 43(US11)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163201752)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9253fc8c-37c3-44b0-83d7-5da58e69ef0d-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Pastel  Blue / 44(US12)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163234520)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/9253fc8c-37c3-44b0-83d7-5da58e69ef0d-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Caramel / 36(US5)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163267288)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/efbf3f79-2c09-4ffd-9477-57f8c80b5edb-Min.jpg?v=1739828023
-    Price: $35.99 USD
-  - [Caramel / 37(US6)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163300056)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/efbf3f79-2c09-4ffd-9477-57f8c80b5edb-Min.jpg?v=1739828023
-    Price: $35.99 USD
-  - [Caramel / 38(US7)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163332824)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/efbf3f79-2c09-4ffd-9477-57f8c80b5edb-Min.jpg?v=1739828023
-    Price: $35.99 USD
-  - [Caramel / 39(US8)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163365592)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/efbf3f79-2c09-4ffd-9477-57f8c80b5edb-Min.jpg?v=1739828023
-    Price: $35.99 USD
-  - [Caramel / 40(US9)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163398360)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/efbf3f79-2c09-4ffd-9477-57f8c80b5edb-Min.jpg?v=1739828023
-    Price: $35.99 USD
-  - [Caramel / 41(US10)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163431128)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/efbf3f79-2c09-4ffd-9477-57f8c80b5edb-Min.jpg?v=1739828023
-    Price: $35.99 USD
-  - [Caramel / 42(US10.5)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163463896)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/efbf3f79-2c09-4ffd-9477-57f8c80b5edb-Min.jpg?v=1739828023
-    Price: $35.99 USD
-  - [Hot Pink / 38(US7)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163496664)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8a0f1668-ed01-4dda-9212-a876db7c04e6-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Caramel / 43(US11)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163529432)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/efbf3f79-2c09-4ffd-9477-57f8c80b5edb-Min.jpg?v=1739828023
-    Price: $35.99 USD
-  - [Caramel / 44(US12)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163562200)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/efbf3f79-2c09-4ffd-9477-57f8c80b5edb-Min.jpg?v=1739828023
-    Price: $35.99 USD
-  - [Khaki / 36(US5)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163594968)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7d0e3ebd-5fea-4ebe-9cf2-f12615f8295c-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Khaki / 37(US6)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163627736)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7d0e3ebd-5fea-4ebe-9cf2-f12615f8295c-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Khaki / 38(US7)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163660504)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7d0e3ebd-5fea-4ebe-9cf2-f12615f8295c-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Khaki / 39(US8)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163693272)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7d0e3ebd-5fea-4ebe-9cf2-f12615f8295c-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Khaki / 40(US9)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163726040)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7d0e3ebd-5fea-4ebe-9cf2-f12615f8295c-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Hot Pink / 39(US8)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163758808)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8a0f1668-ed01-4dda-9212-a876db7c04e6-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Khaki / 41(US10)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163791576)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7d0e3ebd-5fea-4ebe-9cf2-f12615f8295c-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Khaki / 42(US10.5)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163824344)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7d0e3ebd-5fea-4ebe-9cf2-f12615f8295c-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Khaki / 43(US11)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163857112)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7d0e3ebd-5fea-4ebe-9cf2-f12615f8295c-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Khaki / 44(US12)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163889880)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7d0e3ebd-5fea-4ebe-9cf2-f12615f8295c-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Hot Pink / 40(US9)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163922648)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8a0f1668-ed01-4dda-9212-a876db7c04e6-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Hot Pink / 41(US10)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163955416)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8a0f1668-ed01-4dda-9212-a876db7c04e6-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Hot Pink / 42(US10.5)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163163988184)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8a0f1668-ed01-4dda-9212-a876db7c04e6-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Hot Pink / 43(US11)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163164020952)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8a0f1668-ed01-4dda-9212-a876db7c04e6-Min.jpg?v=1739828024
-    Price: $35.99 USD
-  - [Hot Pink / 44(US12)](https://munsieur.com/products/paris-letter-open-toe-flat-sandals?variant=50163164053720)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8a0f1668-ed01-4dda-9212-a876db7c04e6-Min.jpg?v=1739828024
-    Price: $35.99 USD
 - [Floral Platform Buckle Sandals | Gothic Ceremonial | MUNS...](https://munsieur.com/products/floral-platform-buckle-sandals): Floral Platform Buckle Sandals embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
   Updated: 2026-04-03T13:54:57Z
   Vendor: Munsieur
@@ -12730,44 +12452,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/24f9cff2-af02-438e-a850-cd21dbcb0193-Min.jpg?v=1739828190
     Price: $42.99 USD
-- [Raw Edge Checkered Cloth Buckle Sandals | Gothic Ceremoni...](https://munsieur.com/products/raw-edge-checkered-cloth-buckle-sandals): Raw Edge Checkered Cloth Buckle Sandals embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:54:52Z
-  Vendor: Munsieur
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c1cc9996-dc38-4b5a-b87f-f925c52a5b99-Min.jpg?v=1739828212
-  - [Medium / 36(US5)](https://munsieur.com/products/raw-edge-checkered-cloth-buckle-sandals?variant=50163176210648)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c1cc9996-dc38-4b5a-b87f-f925c52a5b99-Min.jpg?v=1739828212
-    Price: $50.99 USD
-  - [Medium / 37(US6)](https://munsieur.com/products/raw-edge-checkered-cloth-buckle-sandals?variant=50163176243416)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c1cc9996-dc38-4b5a-b87f-f925c52a5b99-Min.jpg?v=1739828212
-    Price: $50.99 USD
-  - [Medium / 38(US7)](https://munsieur.com/products/raw-edge-checkered-cloth-buckle-sandals?variant=50163176276184)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c1cc9996-dc38-4b5a-b87f-f925c52a5b99-Min.jpg?v=1739828212
-    Price: $50.99 USD
-  - [Medium / 39(US8)](https://munsieur.com/products/raw-edge-checkered-cloth-buckle-sandals?variant=50163176308952)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c1cc9996-dc38-4b5a-b87f-f925c52a5b99-Min.jpg?v=1739828212
-    Price: $50.99 USD
-  - [Medium / 40(US9)](https://munsieur.com/products/raw-edge-checkered-cloth-buckle-sandals?variant=50163176341720)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c1cc9996-dc38-4b5a-b87f-f925c52a5b99-Min.jpg?v=1739828212
-    Price: $50.99 USD
-  - [Medium / 41(US10)](https://munsieur.com/products/raw-edge-checkered-cloth-buckle-sandals?variant=50163176374488)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c1cc9996-dc38-4b5a-b87f-f925c52a5b99-Min.jpg?v=1739828212
-    Price: $50.99 USD
-  - [Medium / 42(US10.5)](https://munsieur.com/products/raw-edge-checkered-cloth-buckle-sandals?variant=50163176407256)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c1cc9996-dc38-4b5a-b87f-f925c52a5b99-Min.jpg?v=1739828212
-    Price: $50.99 USD
-  - [Medium / 43(US11)](https://munsieur.com/products/raw-edge-checkered-cloth-buckle-sandals?variant=50163176440024)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c1cc9996-dc38-4b5a-b87f-f925c52a5b99-Min.jpg?v=1739828212
-    Price: $50.99 USD
 - [Point Toe Mesh Flat Slip-Ons | Gothic Ceremonial | MUNSIEUR](https://munsieur.com/products/point-toe-mesh-flat-slip-ons): Point Toe Mesh Flat Slip-Ons embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
   Updated: 2026-04-03T13:54:50Z
   Vendor: Munsieur
@@ -13389,7 +13073,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/6270187c-b8df-49ab-9e5a-9b6a02dfb0c0-Min.jpg?v=1739828369
     Price: $33.99 USD
 - [Raw Hem Wedge Buckle Sandals | Gothic Ceremonial | MUNSIEUR](https://munsieur.com/products/raw-hem-wedge-buckle-sandals): Raw Hem Wedge Buckle Sandals embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:54:44Z
+  Updated: 2026-04-24T21:23:35Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -15361,7 +15045,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/0fa4ecb8-21d8-488a-8f0e-152315b1b06c-Min.jpg?v=1739828670
     Price: $24.99 USD
 - [WILD DIVA Faux-Fur Platform Slip On Booties | Gothic Cere...](https://munsieur.com/products/wild-diva-faux-fur-platform-slip-on-booties-1): WILD DIVA Faux-Fur Platform Slip On Booties embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:54:21Z
+  Updated: 2026-04-14T03:24:35Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -15571,7 +15255,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b6430944-e39b-4719-8eb2-2ab608d1dfe8-Min.jpg?v=1739828950
     Price: $36.99 USD
 - [Sequin Round Toe Flat Sneakers | Gothic Ceremonial | MUNS...](https://munsieur.com/products/sequin-round-toe-flat-sneakers): Sequin Round Toe Flat Sneakers embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-12T19:20:59Z
+  Updated: 2026-04-20T03:02:43Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -15581,7 +15265,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b59dcd4c-ff38-4a45-87d7-1ccbddbb5484-Min.jpg?v=1739830149
     Price: $24.99 USD
   - [Red / 38(US7)](https://munsieur.com/products/sequin-round-toe-flat-sneakers?variant=50163271696600)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b59dcd4c-ff38-4a45-87d7-1ccbddbb5484-Min.jpg?v=1739830149
     Price: $24.99 USD
   - [Red / 39(US8)](https://munsieur.com/products/sequin-round-toe-flat-sneakers?variant=50163271729368)
@@ -15589,11 +15273,11 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b59dcd4c-ff38-4a45-87d7-1ccbddbb5484-Min.jpg?v=1739830149
     Price: $24.99 USD
   - [Red / 40(US9)](https://munsieur.com/products/sequin-round-toe-flat-sneakers?variant=50163271762136)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b59dcd4c-ff38-4a45-87d7-1ccbddbb5484-Min.jpg?v=1739830149
     Price: $24.99 USD
   - [Red / 41(US10)](https://munsieur.com/products/sequin-round-toe-flat-sneakers?variant=50163271794904)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b59dcd4c-ff38-4a45-87d7-1ccbddbb5484-Min.jpg?v=1739830149
     Price: $24.99 USD
   - [Dark Blue / 36(US5)](https://munsieur.com/products/sequin-round-toe-flat-sneakers?variant=50163271827672)
@@ -15613,27 +15297,27 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/503d885e-45ce-4a01-b5f1-e2a7e4a3850a-Min.jpg?v=1739830149
     Price: $24.99 USD
   - [Hot Pink / 37(US6)](https://munsieur.com/products/sequin-round-toe-flat-sneakers?variant=50163271958744)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/503d885e-45ce-4a01-b5f1-e2a7e4a3850a-Min.jpg?v=1739830149
     Price: $24.99 USD
   - [Hot Pink / 38(US7)](https://munsieur.com/products/sequin-round-toe-flat-sneakers?variant=50163271991512)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/503d885e-45ce-4a01-b5f1-e2a7e4a3850a-Min.jpg?v=1739830149
     Price: $24.99 USD
   - [Hot Pink / 39(US8)](https://munsieur.com/products/sequin-round-toe-flat-sneakers?variant=50163272024280)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/503d885e-45ce-4a01-b5f1-e2a7e4a3850a-Min.jpg?v=1739830149
     Price: $24.99 USD
   - [Hot Pink / 40(US9)](https://munsieur.com/products/sequin-round-toe-flat-sneakers?variant=50163272057048)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/503d885e-45ce-4a01-b5f1-e2a7e4a3850a-Min.jpg?v=1739830149
     Price: $24.99 USD
   - [Hot Pink / 41(US10)](https://munsieur.com/products/sequin-round-toe-flat-sneakers?variant=50163272089816)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/503d885e-45ce-4a01-b5f1-e2a7e4a3850a-Min.jpg?v=1739830149
     Price: $24.99 USD
   - [Hot Pink / 42(US10.5)](https://munsieur.com/products/sequin-round-toe-flat-sneakers?variant=50163272122584)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/503d885e-45ce-4a01-b5f1-e2a7e4a3850a-Min.jpg?v=1739830149
     Price: $24.99 USD
   - [Hot Pink / 43(US11)](https://munsieur.com/products/sequin-round-toe-flat-sneakers?variant=50163272155352)
@@ -15657,15 +15341,15 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/766cdb72-e379-4864-bd69-bad2c15c354b-Min.jpg?v=1739830149
     Price: $24.99 USD
   - [Green / 39(US8)](https://munsieur.com/products/sequin-round-toe-flat-sneakers?variant=50163272319192)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/766cdb72-e379-4864-bd69-bad2c15c354b-Min.jpg?v=1739830149
     Price: $24.99 USD
   - [Green / 40(US9)](https://munsieur.com/products/sequin-round-toe-flat-sneakers?variant=50163272351960)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/766cdb72-e379-4864-bd69-bad2c15c354b-Min.jpg?v=1739830149
     Price: $24.99 USD
   - [Green / 41(US10)](https://munsieur.com/products/sequin-round-toe-flat-sneakers?variant=50163272384728)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/766cdb72-e379-4864-bd69-bad2c15c354b-Min.jpg?v=1739830149
     Price: $24.99 USD
   - [Green / 42(US10.5)](https://munsieur.com/products/sequin-round-toe-flat-sneakers?variant=50163272417496)
@@ -15677,11 +15361,11 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/766cdb72-e379-4864-bd69-bad2c15c354b-Min.jpg?v=1739830149
     Price: $24.99 USD
   - [Dark Blue / 38(US7)](https://munsieur.com/products/sequin-round-toe-flat-sneakers?variant=50163272483032)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dec1b06e-7748-4d20-8378-5ac6ac5495c7-Min.jpg?v=1739830149
     Price: $24.99 USD
   - [Dark Blue / 39(US8)](https://munsieur.com/products/sequin-round-toe-flat-sneakers?variant=50163272515800)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dec1b06e-7748-4d20-8378-5ac6ac5495c7-Min.jpg?v=1739830149
     Price: $24.99 USD
   - [Dark Blue / 40(US9)](https://munsieur.com/products/sequin-round-toe-flat-sneakers?variant=50163272548568)
@@ -15689,15 +15373,15 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dec1b06e-7748-4d20-8378-5ac6ac5495c7-Min.jpg?v=1739830149
     Price: $24.99 USD
   - [Dark Blue / 41(US10)](https://munsieur.com/products/sequin-round-toe-flat-sneakers?variant=50163272581336)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dec1b06e-7748-4d20-8378-5ac6ac5495c7-Min.jpg?v=1739830149
     Price: $24.99 USD
   - [Dark Blue / 42(US10.5)](https://munsieur.com/products/sequin-round-toe-flat-sneakers?variant=50163272614104)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dec1b06e-7748-4d20-8378-5ac6ac5495c7-Min.jpg?v=1739830149
     Price: $24.99 USD
   - [Dark Blue / 43(US11)](https://munsieur.com/products/sequin-round-toe-flat-sneakers?variant=50163272646872)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dec1b06e-7748-4d20-8378-5ac6ac5495c7-Min.jpg?v=1739830149
     Price: $24.99 USD
   - [Red / 36(US5)](https://munsieur.com/products/sequin-round-toe-flat-sneakers?variant=50163272679640)
@@ -16474,108 +16158,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/790e57d7-fcd9-4c46-b4ff-6dbf7757e9de-Min.jpg?v=1739830238
     Price: $32.99 USD
-- [Point Toe Mesh Flat Slip-Ons | Gothic Ceremonial | MUNSIEUR](https://munsieur.com/products/point-toe-mesh-flat-slip-ons-1): Point Toe Mesh Flat Slip-Ons embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:54:12Z
-  Vendor: Munsieur
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e4c0ed8e-d996-4362-a251-738c9747d73d-Min.jpg?v=1739830667
-  - [Dark Green / 37(US6)](https://munsieur.com/products/point-toe-mesh-flat-slip-ons-1?variant=50163298271448)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dc5543f9-7ee3-4f49-8c71-41e2e306302e-Min.jpg?v=1739830667
-    Price: $32.99 USD
-  - [Dark Green / 38(US7)](https://munsieur.com/products/point-toe-mesh-flat-slip-ons-1?variant=50163298304216)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dc5543f9-7ee3-4f49-8c71-41e2e306302e-Min.jpg?v=1739830667
-    Price: $32.99 USD
-  - [Light Gray / 36(US5)](https://munsieur.com/products/point-toe-mesh-flat-slip-ons-1?variant=50163298336984)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c5b7c645-860a-4b6b-842e-f80b33f2c643-Min.jpg?v=1739830667
-    Price: $32.99 USD
-  - [Dark Green / 39(US8)](https://munsieur.com/products/point-toe-mesh-flat-slip-ons-1?variant=50163298369752)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dc5543f9-7ee3-4f49-8c71-41e2e306302e-Min.jpg?v=1739830667
-    Price: $32.99 USD
-  - [Dark Green / 40(US9)](https://munsieur.com/products/point-toe-mesh-flat-slip-ons-1?variant=50163298402520)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dc5543f9-7ee3-4f49-8c71-41e2e306302e-Min.jpg?v=1739830667
-    Price: $32.99 USD
-  - [Dark Green / 41(US10)](https://munsieur.com/products/point-toe-mesh-flat-slip-ons-1?variant=50163298435288)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dc5543f9-7ee3-4f49-8c71-41e2e306302e-Min.jpg?v=1739830667
-    Price: $32.99 USD
-  - [Dark Green / 42(US10.5)](https://munsieur.com/products/point-toe-mesh-flat-slip-ons-1?variant=50163298468056)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dc5543f9-7ee3-4f49-8c71-41e2e306302e-Min.jpg?v=1739830667
-    Price: $32.99 USD
-  - [Dark Green / 43(US11)](https://munsieur.com/products/point-toe-mesh-flat-slip-ons-1?variant=50163298500824)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dc5543f9-7ee3-4f49-8c71-41e2e306302e-Min.jpg?v=1739830667
-    Price: $32.99 USD
-  - [Olive / 36(US5)](https://munsieur.com/products/point-toe-mesh-flat-slip-ons-1?variant=50163298533592)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e4c0ed8e-d996-4362-a251-738c9747d73d-Min.jpg?v=1739830667
-    Price: $32.99 USD
-  - [Olive / 37(US6)](https://munsieur.com/products/point-toe-mesh-flat-slip-ons-1?variant=50163298566360)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e4c0ed8e-d996-4362-a251-738c9747d73d-Min.jpg?v=1739830667
-    Price: $32.99 USD
-  - [Olive / 38(US7)](https://munsieur.com/products/point-toe-mesh-flat-slip-ons-1?variant=50163298599128)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e4c0ed8e-d996-4362-a251-738c9747d73d-Min.jpg?v=1739830667
-    Price: $32.99 USD
-  - [Olive / 39(US8)](https://munsieur.com/products/point-toe-mesh-flat-slip-ons-1?variant=50163298631896)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e4c0ed8e-d996-4362-a251-738c9747d73d-Min.jpg?v=1739830667
-    Price: $32.99 USD
-  - [Olive / 40(US9)](https://munsieur.com/products/point-toe-mesh-flat-slip-ons-1?variant=50163298664664)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e4c0ed8e-d996-4362-a251-738c9747d73d-Min.jpg?v=1739830667
-    Price: $32.99 USD
-  - [Olive / 41(US10)](https://munsieur.com/products/point-toe-mesh-flat-slip-ons-1?variant=50163298697432)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e4c0ed8e-d996-4362-a251-738c9747d73d-Min.jpg?v=1739830667
-    Price: $32.99 USD
-  - [Olive / 42(US10.5)](https://munsieur.com/products/point-toe-mesh-flat-slip-ons-1?variant=50163298730200)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e4c0ed8e-d996-4362-a251-738c9747d73d-Min.jpg?v=1739830667
-    Price: $32.99 USD
-  - [Olive / 43(US11)](https://munsieur.com/products/point-toe-mesh-flat-slip-ons-1?variant=50163298762968)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e4c0ed8e-d996-4362-a251-738c9747d73d-Min.jpg?v=1739830667
-    Price: $32.99 USD
-  - [Light Gray / 37(US6)](https://munsieur.com/products/point-toe-mesh-flat-slip-ons-1?variant=50163298795736)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c5b7c645-860a-4b6b-842e-f80b33f2c643-Min.jpg?v=1739830667
-    Price: $32.99 USD
-  - [Light Gray / 38(US7)](https://munsieur.com/products/point-toe-mesh-flat-slip-ons-1?variant=50163298828504)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c5b7c645-860a-4b6b-842e-f80b33f2c643-Min.jpg?v=1739830667
-    Price: $32.99 USD
-  - [Light Gray / 39(US8)](https://munsieur.com/products/point-toe-mesh-flat-slip-ons-1?variant=50163298861272)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c5b7c645-860a-4b6b-842e-f80b33f2c643-Min.jpg?v=1739830667
-    Price: $32.99 USD
-  - [Light Gray / 40(US9)](https://munsieur.com/products/point-toe-mesh-flat-slip-ons-1?variant=50163298894040)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c5b7c645-860a-4b6b-842e-f80b33f2c643-Min.jpg?v=1739830667
-    Price: $32.99 USD
-  - [Light Gray / 41(US10)](https://munsieur.com/products/point-toe-mesh-flat-slip-ons-1?variant=50163298926808)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c5b7c645-860a-4b6b-842e-f80b33f2c643-Min.jpg?v=1739830667
-    Price: $32.99 USD
-  - [Light Gray / 42(US10.5)](https://munsieur.com/products/point-toe-mesh-flat-slip-ons-1?variant=50163298959576)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c5b7c645-860a-4b6b-842e-f80b33f2c643-Min.jpg?v=1739830667
-    Price: $32.99 USD
-  - [Light Gray / 43(US11)](https://munsieur.com/products/point-toe-mesh-flat-slip-ons-1?variant=50163298992344)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/c5b7c645-860a-4b6b-842e-f80b33f2c643-Min.jpg?v=1739830667
-    Price: $32.99 USD
-  - [Dark Green / 36(US5)](https://munsieur.com/products/point-toe-mesh-flat-slip-ons-1?variant=50163299025112)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/dc5543f9-7ee3-4f49-8c71-41e2e306302e-Min.jpg?v=1739830667
-    Price: $32.99 USD
 - [Animal Print Faux Fur Slippers | Gothic Ceremonial | MUNS...](https://munsieur.com/products/animal-print-faux-fur-slippers): Animal Print Faux Fur Slippers embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
   Updated: 2026-04-03T13:54:10Z
   Vendor: Munsieur
@@ -16829,7 +16411,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1a8ed442-c560-4be9-aed5-22ec4b02f444-Min.jpg?v=1739831184
     Price: $30.00 USD
 - [Weeboo Chunky Heel Rhinestone Western Cowboy Boots | Goth...](https://munsieur.com/products/weeboo-chunky-heel-rhinestone-western-cowboy-boots): Weeboo Chunky Heel Rhinestone Western Cowboy Boots embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:54:08Z
+  Updated: 2026-04-27T21:45:18Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -18969,7 +18551,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f1adc37d-07b5-4518-96ae-88482c361c1a-Min.jpg?v=1739834412
     Price: $425.00 USD
 - [Cat Eye Polycarbonate Frame Sunglasses | Gothic Ceremonia...](https://munsieur.com/products/cat-eye-polycarbonate-frame-sunglasses): Cat Eye Polycarbonate Frame Sunglasses embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-09T07:11:48Z
+  Updated: 2026-04-27T14:29:07Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -19007,7 +18589,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3f8b9529-88bc-48c1-adde-42957cc5db6b-Min.jpg?v=1739834677
     Price: $12.00 USD
 - [Polycarbonate Frame Cat-Eye Sunglasses | Gothic Ceremonia...](https://munsieur.com/products/polycarbonate-frame-cat-eye-sunglasses): Polycarbonate Frame Cat-Eye Sunglasses embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:53:12Z
+  Updated: 2026-04-21T17:38:57Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -19059,7 +18641,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/337c8f83c71c47dfbb74927ceac9af79-Min.jpg?v=1739834853
     Price: $10.00 USD
 - [Polycarbonate Frame Square Sunglasses | Gothic Ceremonial...](https://munsieur.com/products/polycarbonate-frame-square-sunglasses-1): Polycarbonate Frame Square Sunglasses embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-09T23:03:50Z
+  Updated: 2026-04-28T00:22:11Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -19073,11 +18655,11 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7981ac58-6a33-4ab8-951a-e1d83cc98b1a-Min.jpg?v=1739834989
     Price: $12.99 USD
   - [Transparent / One Size](https://munsieur.com/products/polycarbonate-frame-square-sunglasses-1?variant=50163547898072)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/beaeaadb-f647-4d8f-85e6-54d1dd0bc7fd-Min.jpg?v=1739834989
     Price: $12.99 USD
   - [Pastel  Blue / One Size](https://munsieur.com/products/polycarbonate-frame-square-sunglasses-1?variant=50163547930840)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5c9ea167-f119-44f3-9313-a1be4e6e18bf-Min.jpg?v=1739834989
     Price: $12.99 USD
   - [Strawberry / One Size](https://munsieur.com/products/polycarbonate-frame-square-sunglasses-1?variant=50163547963608)
@@ -19133,7 +18715,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3d9e63f8b9ad41a39fb29f781d615e83-Min.jpg?v=1739835160
     Price: $15.00 USD
 - [Chain Detail Cat-Eye Sunglasses | Gothic Ceremonial | MUN...](https://munsieur.com/products/chain-detail-cat-eye-sunglasses): Chain Detail Cat-Eye Sunglasses embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-07T21:58:06Z
+  Updated: 2026-04-20T01:42:56Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -19151,7 +18733,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/726c6ab6999d4a249bbec6653b2195c0-Min.jpg?v=1739835173
     Price: $15.00 USD
 - [UV400 Rhinestone Trim Cat-Eye Sunglasses | Gothic Ceremon...](https://munsieur.com/products/uv400-rhinestone-trim-cat-eye-sunglasses): UV400 Rhinestone Trim Cat-Eye Sunglasses embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:53:06Z
+  Updated: 2026-04-24T02:06:37Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -19171,7 +18753,69 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/49adcc6734664752818e347991f5901a-Min.jpg?v=1739835247
   Price: $40.00 USD
-[List Continued](https://munsieur.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4ODE0NTY3MDk2NTM2LCJsYXN0X3ZhbHVlIjoiODgxNDU2NzA5NjUzNiJ9)
+- [Tortoiseshell Rectangle Polycarbonate Sunglasses | Gothic...](https://munsieur.com/products/tortoiseshell-rectangle-polycarbonate-sunglasses): Tortoiseshell Rectangle Polycarbonate Sunglasses embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
+  Updated: 2026-04-03T13:53:04Z
+  Vendor: Munsieur
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/79c68228a2f7433aa2793b3a709657a1-Min.jpg?v=1739835291
+  - [Butter Yellow / One Size](https://munsieur.com/products/tortoiseshell-rectangle-polycarbonate-sunglasses?variant=50163564347608)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/58031537d9da4fa8869337c766d88b2c-Min.jpg?v=1739835291
+    Price: $24.99 USD
+  - [Zebra / One Size](https://munsieur.com/products/tortoiseshell-rectangle-polycarbonate-sunglasses?variant=50163564380376)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/add8f3c946ac4f4aa78ea423e6fc66f2-Min.jpg?v=1739835291
+    Price: $24.99 USD
+- [Detachable Crossbody Strap Polyester Travel Bag | Gothic ...](https://munsieur.com/products/detachable-crossbody-strap-polyester-travel-bag): Detachable Crossbody Strap Polyester Travel Bag embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
+  Updated: 2026-04-03T13:52:59Z
+  Vendor: Munsieur
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7684f31d-903d-4cf2-a591-64ba0138bcd6-Min.jpg?v=1739835675
+  - [Blush Pink / One Size](https://munsieur.com/products/detachable-crossbody-strap-polyester-travel-bag?variant=50163584893144)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7684f31d-903d-4cf2-a591-64ba0138bcd6-Min.jpg?v=1739835675
+    Price: $45.99 USD
+  - [Sage / One Size](https://munsieur.com/products/detachable-crossbody-strap-polyester-travel-bag?variant=50163584925912)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f592af45-3c98-4184-8ba4-5d40a9a065ef-Min.jpg?v=1739835675
+    Price: $45.99 USD
+  - [Black / One Size](https://munsieur.com/products/detachable-crossbody-strap-polyester-travel-bag?variant=50163584958680)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a3b70fb5-781c-4469-92d2-8cea963ea597-Min.jpg?v=1739835675
+    Price: $45.99 USD
+- [Texture Oxford Cloth Travel Bag | Gothic Ceremonial | MUN...](https://munsieur.com/products/texture-oxford-cloth-travel-bag): Texture Oxford Cloth Travel Bag embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
+  Updated: 2026-04-03T13:52:58Z
+  Vendor: Munsieur
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/2a8c7342-78b7-4288-9b52-5c1e2e9d44ea-Min.jpg?v=1739835724
+  - [Black / One Size](https://munsieur.com/products/texture-oxford-cloth-travel-bag?variant=50163586302168)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/16554d91-f09c-4b6c-b2f7-eb4d93e15fa6-Min.jpg?v=1739835724
+    Price: $35.99 USD
+  - [Blush Pink / One Size](https://munsieur.com/products/texture-oxford-cloth-travel-bag?variant=50163586334936)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d624c2c9-437b-4614-9474-209464f57319-Min.jpg?v=1739835724
+    Price: $35.99 USD
+  - [Pastel  Blue / One Size](https://munsieur.com/products/texture-oxford-cloth-travel-bag?variant=50163586367704)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/25184688-8b1f-47ac-ad14-5e0961de6844-Min.jpg?v=1739835724
+    Price: $35.99 USD
+  - [Light Green / One Size](https://munsieur.com/products/texture-oxford-cloth-travel-bag?variant=50163586400472)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/52c44089-3c6f-4ce9-8afb-232eca137319-Min.jpg?v=1739835724
+    Price: $35.99 USD
+  - [Lavender / One Size](https://munsieur.com/products/texture-oxford-cloth-travel-bag?variant=50163586433240)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8e399dc8-d6a6-4955-96cd-9f44e1e3a71a-Min.jpg?v=1739835724
+    Price: $35.99 USD
+  - [Light Gray / One Size](https://munsieur.com/products/texture-oxford-cloth-travel-bag?variant=50163586466008)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/39512e29-5b91-4cce-8c8e-59964b92f118-Min.jpg?v=1739835724
+    Price: $35.99 USD
+[List Continued](https://munsieur.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4ODE0NTcxNjUxMjg4LCJsYXN0X3ZhbHVlIjoiODgxNDU3MTY1MTI4OCJ9)
 
 ## Collections
 
@@ -19179,70 +18823,70 @@
   Updated: 2026-03-31T23:01:33Z
   Total Products: 2
 - [Men's Premium Heavyweight Hoodies | Munsieur Gothic Streetwear](https://munsieur.com/collections/premium-streetwear-hoodies-mens): Shop Munsieur men's premium heavyweight hoodies. 400–500 GSM fleece, couture embroidery & structured fit. Gothic luxury streetwear built to last a lifetime.
-  Updated: 2026-04-12T23:57:30Z
+  Updated: 2026-04-24T20:13:41Z
   Total Products: 110
 - [Women's Urban Fashion Sweatshirts for : Bold Styles Await - Munsieur](https://munsieur.com/collections/urban-fashion-sweatshirts-for-): Shop Munsieur's women's urban fashion sweatshirts. Bold styles, premium comfort, luxury streetwear. Elevate your casual wardrobe.
-  Updated: 2026-04-07T16:58:20Z
-  Total Products: 189
+  Updated: 2026-04-28T02:31:02Z
+  Total Products: 188
 - [Premium Graphic Tees for Men: Urban Elegance Unleashed - Munsieur](https://munsieur.com/collections/premium-graphic-tees-for-men): Shop Munsieur's premium graphic tees for men. Bold designs, luxury cotton, superior craftsmanship. Urban streetwear that makes a statement.
-  Updated: 2026-04-07T16:09:16Z
-  Total Products: 222
+  Updated: 2026-04-24T20:13:41Z
+  Total Products: 217
 - [Women's Luxury Graphic Tees | Munsieur Premium Streetwear](https://munsieur.com/collections/luxury-womens-t-shirts): Shop Munsieur women's luxury graphic tees. Heavyweight cotton, bold prints & couture embroidery. Premium gothic streetwear for women who dress with intention.
-  Updated: 2026-04-07T18:05:20Z
-  Total Products: 208
+  Updated: 2026-04-21T17:21:40Z
+  Total Products: 223
 - [Designer Streetwear Jackets for Women: Urban Luxury Style - Munsieur](https://munsieur.com/collections/designer-streetwear-jackets-for-women): - Munsieur
-  Updated: 2026-04-12T23:21:20Z
-  Total Products: 80
+  Updated: 2026-04-28T02:28:50Z
+  Total Products: 82
 - [Men's Premium Streetwear Coats | Munsieur Luxury Outerwear](https://munsieur.com/collections/premium-mens-streetwear-coats): Shop Munsieur men's premium streetwear coats. Heavy outerwear, ceremonial design & dark-luxury aesthetic. Gothic luxury fashion for the discerning few.
-  Updated: 2026-04-12T23:21:49Z
-  Total Products: 65
+  Updated: 2026-04-18T19:58:37Z
+  Total Products: 62
 - [Munsieur: Bold Style Fashion Hats for Urban Elegance - Munsieur](https://munsieur.com/collections/bold-style-fashion-hats): - Munsieur
-  Updated: 2026-03-31T23:01:33Z
-  Total Products: 76
+  Updated: 2026-04-27T11:13:41Z
+  Total Products: 75
 - [Women's Premium Streetwear Rompers, Jumpsuits, and Lounge suits: Elevate Your Urban Style - Munsieur](https://munsieur.com/collections/premium-streetwear-rompers-suits): - Munsieur
-  Updated: 2026-04-12T23:57:56Z
-  Total Products: 306
+  Updated: 2026-04-28T02:28:22Z
+  Total Products: 355
 - [Trendy Picks: Buy Women's Streetwear-Inspired Swimwear - Munsieur](https://munsieur.com/collections/buy-womens-streetwear-inspired-swimwear): - Munsieur
-  Updated: 2026-04-12T23:57:37Z
-  Total Products: 165
+  Updated: 2026-04-27T07:02:17Z
+  Total Products: 106
 - [Men's Premium Streetwear Joggers | Munsieur Luxury Fleece](https://munsieur.com/collections/premium-streetwear-joggers-mens): Shop Munsieur men's premium streetwear joggers. Heavy fleece, tapered fit & refined details. Luxury gothic streetwear joggers built to last. Shop now.
-  Updated: 2026-04-03T13:28:02Z
-  Total Products: 73
+  Updated: 2026-04-27T11:05:25Z
+  Total Products: 79
 - [Trendy Women's Designer Leggings Online for Every Style - Munsieur](https://munsieur.com/collections/designer-leggings-online-womens): Discover Munsieur's luxury leggings and joggers collection. Premium materials, bold designs, superior craftsmanship. Wearable luxury streetwear for women.
-  Updated: 2026-04-07T18:26:50Z
-  Total Products: 194
+  Updated: 2026-04-28T02:29:50Z
+  Total Products: 196
 - [Stylish Essentials: Premium Backpacks for Urban Fashion - Munsieur](https://munsieur.com/collections/premium-backpacks-for-urban-fashion): Shop Munsieur's premium backpacks collection. Stylish urban fashion essentials, durable materials, bold designs. Functional luxury for everyday use.
-  Updated: 2026-03-31T23:01:33Z
+  Updated: 2026-04-18T17:41:49Z
   Total Products: 13
 - [Munsieur Women's Premium Handbags in Streetwear Style - Munsieur](https://munsieur.com/collections/premium-handbags-streetwear-style): Discover Munsieur's women's premium handbags. Streetwear-inspired luxury accessories, bold designs, superior craftsmanship. Statement pieces.
-  Updated: 2026-04-12T12:32:40Z
+  Updated: 2026-04-16T14:20:39Z
   Total Products: 78
 - [Bold Fragrance for Street Style: Urban Elegance Unleashed - Munsieur](https://munsieur.com/collections/bold-fragrance-for-street-style): - Munsieur
   Updated: 2026-03-31T23:01:33Z
   Total Products: 15
 - [Men's Premium Underwear Collection: Comfort Meets Style - Munsieur](https://munsieur.com/collections/mens-premium-underwear-collection): - Munsieur
-  Updated: 2026-03-31T23:01:34Z
+  Updated: 2026-04-16T17:53:40Z
   Total Products: 19
 - [Munsieur: Luxury Streetwear Art Collection for Bold Style - Munsieur](https://munsieur.com/collections/luxury-streetwear-art-collection): Explore Munsieur's luxury streetwear art collection. Bold artistic designs, premium materials, cultural storytelling. Statement pieces for bold style.
-  Updated: 2026-04-10T12:56:13Z
-  Total Products: 79
+  Updated: 2026-04-27T07:00:01Z
+  Total Products: 83
 - [Urban Fashion New Arrivals: Luxury Streetwear Essentials - Munsieur](https://munsieur.com/collections/urban-fashion-new-arrivals): Shop Munsieur's latest luxury streetwear arrivals. Fresh designs, premium quality, bold graphics. Discover the newest additions to our collection.
-  Updated: 2026-04-09T01:29:34Z
-  Total Products: 84
+  Updated: 2026-04-27T11:00:35Z
+  Total Products: 90
 - [Buy Stylish Men's Shoes Online: Elevate Your Urban Look - Munsieur](https://munsieur.com/collections/buy-stylish-mens-shoes-online): Shop Munsieur's stylish men's shoes collection. Elevate your urban look with premium footwear, bold designs, superior comfort and quality.
-  Updated: 2026-04-12T23:44:55Z
-  Total Products: 52
+  Updated: 2026-04-27T11:14:07Z
+  Total Products: 50
 - [Elevate Your Style with Elegant Women's Shoes Collection - Munsieur](https://munsieur.com/collections/elegant-womens-shoes-footwear-collection): Elevate your style with Munsieur's elegant women's shoes collection. Premium footwear, bold designs, superior comfort. Luxury streetwear shoes.
-  Updated: 2026-04-09T13:56:33Z
+  Updated: 2026-04-27T11:14:07Z
   Total Products: 24
 - [Women's Chic Summer Collection: Stylish Flats, Slip-Ons, and Sandals for Summer - Munsieur](https://munsieur.com/collections/stylish-flat-sandals-for-summer): - Munsieur
-  Updated: 2026-04-10T12:56:13Z
-  Total Products: 139
+  Updated: 2026-04-20T14:22:50Z
+  Total Products: 136
 - [Stylish Men's Sandals for Urban Fashion: Premium Collection - Munsieur](https://munsieur.com/collections/stylish-mens-sandals-for-urban-fashion): - Munsieur
   Updated: 2026-03-31T23:01:34Z
   Total Products: 19
 - [Women's City Style Boots | Munsieur Urban Luxury Footwear](https://munsieur.com/collections/premium-womens-city-style-boots): Shop Munsieur women's city-style boots. Structured silhouettes, premium materials & dark-luxury finishing. Urban luxury footwear built for the streets.
-  Updated: 2026-04-12T23:34:21Z
+  Updated: 2026-04-20T02:38:38Z
   Total Products: 72
 - [Shop Premium Men's Boots Online for Stylish Comfort - Munsieur](https://munsieur.com/collections/premium-mens-boots-online): - Munsieur
   Updated: 2026-04-09T13:50:30Z
@@ -19251,29 +18895,29 @@
   Updated: 2026-03-31T23:01:34Z
   Total Products: 22
 - [Buy Stylish Women's High Heels: Elevate Your Urban Look - Munsieur](https://munsieur.com/collections/buy-stylish-womens-high-heels): Shop Munsieur's stylish women's high heels. Elevate your urban look with premium footwear, bold designs, superior comfort and style.
-  Updated: 2026-04-12T23:44:26Z
-  Total Products: 89
+  Updated: 2026-04-28T02:32:34Z
+  Total Products: 88
 - [Luxury Women's Dresses: Effortless Elegance for Every Occasion - Munsieur](https://munsieur.com/collections/luxury-womens-dresses-skirts): Discover Munsieur's luxury women's dresses. Effortless elegance, premium fabrics, bold designs. Streetwear-inspired dresses for every occasion.
-  Updated: 2026-04-12T23:50:13Z
-  Total Products: 288
+  Updated: 2026-04-28T02:33:44Z
+  Total Products: 327
 - [Buy High-Quality Jeans for Women Online - Munsieur](https://munsieur.com/collections/high-quality-jeans-for-women-online): Shop Munsieur's premium women's jeans collection. High-quality denim, bold designs, superior fit. Luxury streetwear jeans built to last.
-  Updated: 2026-04-07T18:00:40Z
-  Total Products: 96
+  Updated: 2026-04-17T20:42:43Z
+  Total Products: 102
 - [Munsieur Collection: Designer Jeans for Men - Munsieur](https://munsieur.com/collections/designer-jeans-for-men-munsieur): Shop Munsieur's designer jeans for men. Premium denim, bold designs, superior fit. Luxury streetwear jeans built to last.
-  Updated: 2026-04-07T16:42:24Z
-  Total Products: 206
+  Updated: 2026-04-19T16:17:35Z
+  Total Products: 203
 - [Buy Stylish Bottoms Online: Chic Skirts, Skorts, and Shorts for Women - Munsieur](https://munsieur.com/collections/buy-stylish-bottoms-online): - Munsieur
-  Updated: 2026-04-09T05:19:20Z
-  Total Products: 104
+  Updated: 2026-04-27T06:47:28Z
+  Total Products: 116
 - [Munsieur's Stylish Men's Shorts for Summer Adventures - Munsieur](https://munsieur.com/collections/stylish-mens-shorts-for-summer): - Munsieur
-  Updated: 2026-04-05T21:07:56Z
+  Updated: 2026-04-24T21:23:40Z
   Total Products: 93
 - [Buy Munsieur Fashion Accessories: Urban Luxury Essentials - Munsieur](https://munsieur.com/collections/buy-munsieur-fashion-accessories): Shop Munsieur's fashion accessories collection. Urban luxury essentials, bold designs, premium quality. Complete your streetwear look.
-  Updated: 2026-04-09T01:19:21Z
-  Total Products: 127
+  Updated: 2026-04-27T11:12:39Z
+  Total Products: 125
 - [Luxury Urban Fashion for St. Patrick's Day Celebrations - Munsieur](https://munsieur.com/collections/luxury-urban-fashion-for-st-patricks-day): - Munsieur
-  Updated: 2026-03-31T23:01:34Z
-  Total Products: 31
+  Updated: 2026-04-21T17:55:32Z
+  Total Products: 32
 - [Digital Goods VAT Tax - Munsieur](https://munsieur.com/collections/digital-goods-vat-tax): - Munsieur
   Updated: 2025-08-13T20:00:24Z
   Total Products: 0
@@ -19281,10 +18925,10 @@
   Updated: 2026-03-31T23:01:35Z
   Total Products: 0
 - [Women's Blouses Flowy for Her Munsieur Crowned Design - Munsieur](https://munsieur.com/collections/womens-blouses-flowy-for-her-munsieur-crowned-design): Women's Blouses for all occasions. Flowy and Comfortable with many different styles. - Munsieur
-  Updated: 2026-04-12T23:57:08Z
-  Total Products: 197
+  Updated: 2026-04-28T02:35:50Z
+  Total Products: 204
 - [Shop The Look Featured Collection - Munsieur](https://munsieur.com/collections/shop-the-look-featured-collection): - Munsieur
-  Updated: 2026-03-31T23:01:35Z
+  Updated: 2026-04-18T01:04:16Z
   Total Products: 2
 - [2 pc Luxury Suits for Men designed by Munsieur - Munsieur](https://munsieur.com/collections/2-pc-luxury-suits-for-men-designed-by-munsieur): - Munsieur
   Updated: 2026-03-31T23:01:35Z
@@ -19296,23 +18940,23 @@
   Updated: 2025-08-14T14:02:28Z
   Total Products: 0
 - [Munsieur Halloween Collection - Munsieur](https://munsieur.com/collections/munsieur-halloween-collection): Shop Munsieur's Halloween luxury streetwear collection. Bold spooky designs, premium quality apparel. Limited edition pieces for the season.
-  Updated: 2026-04-09T01:29:05Z
-  Total Products: 50
+  Updated: 2026-04-18T00:27:19Z
+  Total Products: 49
 - [Munsieur Independence Day Collection - Munsieur](https://munsieur.com/collections/munsieur-independence-day-collection): Shop Munsieur's 4th of July luxury streetwear collection. Patriotic designs, premium quality apparel. Limited edition Independence Day pieces.
-  Updated: 2026-04-04T17:55:17Z
+  Updated: 2026-04-27T11:12:10Z
   Total Products: 14
 - [Munsieur Easter Collection - Munsieur](https://munsieur.com/collections/munsieur-easter-collection): Shop Munsieur's exclusive Easter luxury streetwear collection. Bold spring designs, premium quality apparel. Limited edition pieces for the season.
   Updated: 2026-04-05T03:38:06Z
   Total Products: 12
 - [Valentine's Day Streetwear Collection | Premium Tees & Leggings - Munsieur](https://munsieur.com/collections/munsieur-valentines-day-collection): Shop Munsieur's exclusive Valentine's Day luxury streetwear collection. Bold graphics, premium quality tees, leggings & dresses. Limited edition designs.
-  Updated: 2026-03-31T23:01:35Z
-  Total Products: 59
+  Updated: 2026-04-21T21:11:40Z
+  Total Products: 61
 - [Munsieur Thanksgiving Day Collection - Munsieur](https://munsieur.com/collections/munsieur-thanksgiving-day-collection): Shop Munsieur's Thanksgiving luxury streetwear collection. Festive designs, premium quality apparel. Limited edition pieces for the holiday season.
   Updated: 2026-03-31T23:01:35Z
   Total Products: 10
 - [Munsieur Christmas Day Collection - Munsieur](https://munsieur.com/collections/munsieur-christmas-day-collection): Shop Munsieur's Christmas luxury streetwear collection. Festive designs, premium quality apparel. Limited edition holiday pieces for the season.
-  Updated: 2026-04-07T18:07:00Z
-  Total Products: 17
+  Updated: 2026-04-23T02:41:55Z
+  Total Products: 16
 - [Munsieur New Years Collection - Munsieur](https://munsieur.com/collections/munsieur-new-years-collection): Shop Munsieur's New Year's luxury streetwear collection. Celebrate in style with bold designs, premium quality apparel. Limited edition pieces.
   Updated: 2026-03-31T23:01:35Z
   Total Products: 0
@@ -19329,17 +18973,17 @@
   Updated: 2026-03-31T23:01:35Z
   Total Products: 0
 - [Munsieur Labor Day Collection - Munsieur](https://munsieur.com/collections/munsieur-labor-day-collection): Shop Munsieur's Labor Day luxury streetwear collection. Celebrate hard work with bold designs, premium quality apparel. Limited edition pieces.
-  Updated: 2026-04-02T20:25:34Z
+  Updated: 2026-04-15T23:06:13Z
   Total Products: 1
 - [Munsieur Birthday Collection - Munsieur](https://munsieur.com/collections/munsieur-birthday-collection): Shop Munsieur's Birthday luxury streetwear collection. Celebrate in style with bold designs, premium quality apparel. Limited edition pieces.
-  Updated: 2026-04-07T18:23:21Z
-  Total Products: 6
+  Updated: 2026-04-24T22:30:30Z
+  Total Products: 7
 - [Munsieur Lost Tribe Collection - Munsieur](https://munsieur.com/collections/munsieur-lost-tribe-collection): Explore Munsieur's Lost Tribe Collection - where cultural storytelling meets premium streetwear. Bold graphics, luxury materials, statement pieces.
   Updated: 2026-03-31T23:01:35Z
   Total Products: 5
 - [Munsieur City Collection - Munsieur](https://munsieur.com/collections/munsieur-city-collection): Explore Munsieur's City Collection - urban-inspired luxury streetwear. Bold designs, premium materials, metropolitan style. Statement pieces.
-  Updated: 2026-03-31T23:01:36Z
-  Total Products: 1
+  Updated: 2026-04-21T22:11:00Z
+  Total Products: 2
 - [Munsieur Forgotten Pharoah's Collection - Munsieur](https://munsieur.com/collections/munsieur-forgotten-pharoahs-collection): Explore Munsieur's Forgotten Pharoah's Collection - ancient-inspired luxury streetwear. Bold graphics, cultural storytelling, premium materials.
   Updated: 2026-03-31T23:01:36Z
   Total Products: 0
@@ -19353,35 +18997,47 @@
   Updated: 2026-03-31T23:01:36Z
   Total Products: 0
 - [New! Shopify performance sharing is now turned on - Munsieur](https://munsieur.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel. - Munsieur
-  Updated: 2026-04-12T23:57:56Z
-  Total Products: 3699
+  Updated: 2026-04-28T11:24:01Z
+  Total Products: 3903
 - [Buy Skirts for Women Exclusively at MUNSIEUR - Munsieur](https://munsieur.com/collections/buy-skirts-for-women-exclusively-at-munsieur): ... - Munsieur
-  Updated: 2026-04-12T23:27:28Z
-  Total Products: 152
-- [Gothic Luxury Outerwear | Premium Leather Coats & Jackets - MUNSIEUR](https://munsieur.com/collections/outerwear): Ceremonial outerwear. Leather coats, embroidered jackets, heavyweight construction. Gothic luxury streetwear engineered for discipline. MUNSIEUR.
-  Updated: 2026-04-12T23:57:30Z
-  Total Products: 429
-- [Gothic Luxury Tops & Tees | Premium Streetwear - MUNSIEUR](https://munsieur.com/collections/tops): Embroidered tees, graphic tops, and ceremonial streetwear. Heavyweight cotton, fractured glyphs, crowned motifs. Restrained luxury for the disciplined.
-  Updated: 2026-04-12T23:57:08Z
-  Total Products: 615
-- [Luxury Gothic Dresses | Premium Streetwear Dresses for Women - MUNSIEUR](https://munsieur.com/collections/dresses): Ceremonial dresses. Gothic luxury design, premium construction, restrained elegance. Embroidered details, fractured graphics. MUNSIEUR streetwear.
-  Updated: 2026-04-12T23:50:13Z
-  Total Products: 432
-- [Luxury Streetwear Bottoms | Premium Joggers & Pants - MUNSIEUR](https://munsieur.com/collections/bottoms): Gothic luxury bottoms. Premium joggers, pants, and ceremonial streetwear. Heavyweight construction, restrained branding. Discipline over excess.
-  Updated: 2026-04-09T05:19:21Z
-  Total Products: 685
-- [Statement Pieces | Bold Gothic Luxury Streetwear - MUNSIEUR](https://munsieur.com/collections/statement-pieces): Ceremonial statement pieces. Embroidered hoodies, leather outerwear, crowned motifs. Gothic luxury engineered for impact. Restrained. Bold. MUNSIEUR.
-  Updated: 2026-04-12T12:32:40Z
+  Updated: 2026-04-28T11:24:01Z
+  Total Products: 188
+- [Luxury Gothic Outerwear — Structured Coats & Embroidered Jackets | Munsieur](https://munsieur.com/collections/outerwear): Premium gothic outerwear in wool blends and heavyweight cotton. Architectural silhouettes, hand-finished details. Limited to 50–100 pieces per design.
+  Updated: 2026-04-28T02:31:02Z
+  Total Products: 428
+- [Luxury Gothic Tops — Embroidered Heavyweight Streetwear Tops | Munsieur](https://munsieur.com/collections/tops): Premium gothic tops in heavyweight cotton and silk blends. Embroidered motifs, oversized fits. Limited to 150–300 pieces per style. No restock planned.
+  Updated: 2026-04-28T02:35:50Z
+  Total Products: 635
+- [Gothic Luxury Dresses — Embroidered Structured Dresses & Skirts | Munsieur](https://munsieur.com/collections/dresses): Premium gothic dresses and skirts in structured cotton and jersey. Embroidered motifs, clean lines. Limited seasonal runs. Designed for singular presence.
+  Updated: 2026-04-28T11:24:01Z
+  Total Products: 506
+- [Gothic Luxury Bottoms — Structured Trousers & Embroidered Denim | Munsieur](https://munsieur.com/collections/bottoms): Premium gothic bottoms in denim and cotton twill. Structured silhouettes, gothic embroidery. Limited seasonal runs. No restock planned.
+  Updated: 2026-04-28T02:29:50Z
+  Total Products: 711
+- [Gothic Statement Pieces — Oversized Embroidered Luxury Streetwear | Munsieur](https://munsieur.com/collections/statement-pieces): Limited-run gothic statement pieces with hand-finished embroidery. 100–200 per design. Premium cotton blends. Designed to anchor and define your wardrobe.
+  Updated: 2026-04-18T22:40:20Z
   Total Products: 141
-- [Luxury Graphic Tees | Fractured Glyphs & Gothic Streetwear - MUNSIEUR](https://munsieur.com/collections/luxury-graphic-tees): Premium graphic tees with fractured glyphs, skull iconography, crowned motifs. Heavyweight cotton, ceremonial design. Gothic luxury streetwear. MUNSIEUR.
-  Updated: 2026-04-08T21:12:27Z
+- [Ceremonial Graphic Tees — Heavyweight Embroidered Gothic Tees | Munsieur](https://munsieur.com/collections/luxury-graphic-tees): Premium heavyweight graphic tees with hand-embroidered gothic motifs. Limited production. Built for those who dress with intention, not impulse.
+  Updated: 2026-04-13T17:04:25Z
   Total Products: 0
-- [Best Heavyweight Hoodies - Munsieur](https://munsieur.com/collections/best-heavyweight-hoodies): Discover the finest heavyweight hoodies at Munsieur, your destination for premium gothic streetwear. Our curated collection features heavyweight hoodies crafted with exceptional attention to detail, combining dark aesthetic with luxury quality that stands the test of time. Why Heavyweight Hoodies MatterWhen it comes to premium streetwear, fabric weight makes all the difference. Our heavyweight hoodies feature 345GSM construction, delivering superior warmth, durability, and that coveted premium feel that sets designer pieces apart from fast fashion. Each hoodie in this collection is engineered for those who demand both quality and edge. Premium Quality & Designer CraftsmanshipAt Munsieur, we specialize in heavyweight hoodies that blend gothic elegance with contemporary streetwear. Every piece is designed with meticulous attention to detail, from reinforced stitching to premium hardware. Our heavyweight construction ensures your hoodie maintains its shape, color, and comfort wash after wash. Gothic Luxury Meets StreetwearOur heavyweight hoodies collection showcases the perfect fusion of dark aesthetic and modern design. Whether you're searching for oversized fits, embroidered details, or minimalist gothic style, our heavyweight hoodies deliver unmatched versatility. Layer them over graphic tees for maximum impact or wear solo for a clean, powerful look. Why Choose Munsieur Heavyweight Hoodies345GSM Premium Fabric: Superior weight and durabilityDesigner Aesthetic: Gothic luxury meets contemporary streetwearPerfect Fit: Oversized and regular fits availableLimited Production: Exclusive designs you won't find anywhere elseFast Shipping: Free shipping on orders over $100 Style Your Heavyweight HoodieHeavyweight hoodies are the cornerstone of any gothic streetwear wardrobe. Pair with our premium leggings for a complete athleisure look, or style with designer denim for elevated casual wear. The versatility of heavyweight construction means these pieces transition seamlessly from street to studio. Shop our best heavyweight hoodies collection and experience the perfect blend of dark aesthetic and designer quality. With limited stock and exclusive designs, our heavyweight hoodies  out quickly. Explore the collection now and elevate your streetwear game. - Munsieur
-  Updated: 2026-04-12T23:57:30Z
+- [Best Heavyweight Hoodies — 345GSM Premium Gothic Streetwear | Munsieur](https://munsieur.com/collections/best-heavyweight-hoodies): Premium 345GSM heavyweight hoodies built for structure, warmth, and longevity. Limited production gothic luxury streetwear. No restock planned.
+  Updated: 2026-04-24T20:13:41Z
   Total Products: 110
-- [Premium Gothic Collection - Munsieur](https://munsieur.com/collections/premium-gothic-collection): Couture-grade embroidery. Heavyweight construction. Designed to last 5-10+ years. Our Premium Gothic Collection features luxury streetwear with intricate embroidered designs, 400-500GSM heavyweight fleece, and construction that outlasts mass-market alternatives by decades. Each piece is crafted in limited production runs for those who refuse to compromise between style and quality. What Makes This Collection Premium: Embroidered Artwork: Permanent threadwork that improves with age, not screen prints that crack and fade Heavyweight Fabrics: 400-500GSM fleece and 200+ GSM cotton for substantial feel and structure  Pieces: Designed for 5-10+ years of wear, not seasonal disposal Limited Production: Small-batch releases ensure exclusivity and quality control Gothic Luxury: Dark aesthetic sophistication meets premium streetwear Use code GOTHIC20 for 20% off your first purchase from this collection. Limited availability. Uncertain restock timing. These pieces represent the pinnacle of gothic streetwear craftsmanship. - Munsieur
-  Updated: 2026-04-08T21:12:27Z
+- [Ceremonial Gothic Collection — Premium Embroidered Luxury Streetwear | Munsieur](https://munsieur.com/collections/premium-gothic-collection): Heavyweight gothic luxury streetwear with couture embroidery. Limited production. 400–500GSM fleece. Built to last decades, not seasons.
+  Updated: 2026-04-13T17:02:06Z
   Total Products: 8
+- [Sensual Swimsuits for Women MUNSIEUR - Munsieur](https://munsieur.com/collections/sensual-swimsuits-for-women-munsieur): - Munsieur
+  Updated: 2026-04-21T22:40:30Z
+  Total Products: 85
+- [Velour Obscura Pajamas and Sleepwear at MUNSIEUR - Munsieur](https://munsieur.com/collections/velour-obscura-pajamas-and-sleepwear-at-munsieur): - Munsieur
+  Updated: 2026-04-27T06:47:23Z
+  Total Products: 80
+- [Nocturne Veil Bodysuits for Women at MUNSIEUR - Munsieur](https://munsieur.com/collections/nocturne-veil-bodysuits-for-women-at-munsieur): - Munsieur
+  Updated: 2026-04-23T02:41:55Z
+  Total Products: 24
+- [ELEGANT ATELIER LOUNGEWEAR SLEEPWEAR AT MUNSIEUR - Munsieur](https://munsieur.com/collections/elegant-atelier-loungewear-sleepwear-at-munsieur): - Munsieur
+  Updated: 2026-04-27T06:47:23Z
+  Total Products: 76
 
 ## Blogs
 
@@ -19884,6 +19540,54 @@
     Updated: 2026-03-24T00:11:54Z
     Author: Munsieur Clothing
     Tags: dark luxury, dark luxury jackets, gothic coats, gothic outerwear, outerwear guide
+  - [Dark Aesthetic Outfits TikTok: What to Wear | Munsieur](https://munsieur.com/blogs/news/dark-aesthetic-outfits-tiktok): Dark Aesthetic Outfits TikTok: What to Wear | Munsieur
+    Updated: 2026-04-14T12:04:24Z
+    Author: Munsieur Clothing
+    Tags: dark aesthetic, gothic style, luxury fashion, streetwear, TikTok fashion
+  - [Luxury Streetwear for Women: Why Dark Always Wins | Munsieur](https://munsieur.com/blogs/news/luxury-streetwear-women-dark-aesthetic): Luxury Streetwear for Women: Why Dark Always Wins | Munsieur
+    Updated: 2026-04-14T12:06:41Z
+    Author: Munsieur Clothing
+    Tags: dark aesthetic, gothic luxury, luxury streetwear, streetwear women, women's fashion
+  - [Premium Heavyweight Hoodies | MUNSIEUR Luxury Streetwear](https://munsieur.com/blogs/news/the-heavyweight-hoodie-manifesto-why-munsieur-builds-different): Premium Heavyweight Hoodies | MUNSIEUR Luxury Streetwear
+    Updated: 2026-04-15T22:04:01Z
+    Author: Munsieur Clothing
+    Tags: all-over print, embroidered hoodies, gothic fashion, heavyweight hoodies, luxury streetwear, MUNSIEUR, premium hoodies
+  - [Discovering Munsieur: A Dark Luxury Streetwear Brand Worth Your Attention](https://munsieur.com/blogs/news/i-wasnt-looking-for-a-new-brand-munsieur-found-me): Discovering Munsieur: A Dark Luxury Streetwear Brand Worth Your Attention
+    Updated: 2026-04-16T19:12:36Z
+    Author: Munsieur Clothing
+    Tags: Brand Discovery, Dark Luxury, Editorial, Intentional Dressing, Luxury Fashion, Munsieur, Streetwear
+  - [Best Boutique Brands on Shopify Collective: Why I Chose Munsieur](https://munsieur.com/blogs/news/i-was-building-my-boutique-on-shopify-collective-then-i-found-munsieur): Best Boutique Brands on Shopify Collective: Why I Chose Munsieur
+    Updated: 2026-04-16T19:15:52Z
+    Author: Munsieur Clothing
+    Tags: Boutique, Brand Discovery, Curation, Dark Luxury, Munsieur, Shopify Collective, Streetwear, Wholesale
+  - [Shop Munsieur — Premium Dark Luxury Streetwear | Buy Now](https://munsieur.com/blogs/news/stop-settling-this-is-the-brand-youve-been-looking-for): Shop Munsieur — Premium Dark Luxury Streetwear | Buy Now
+    Updated: 2026-04-16T19:22:48Z
+    Author: Munsieur Clothing
+    Tags: , Conversion, Dark Luxury, High Intent, Munsieur, Shop Now, Streetwear
+  - [The Drop Everyone's Quietly Buying Before It's Gone | MUNSIEUR](https://munsieur.com/blogs/news/the-drop-everyones-quietly-buying-before-its-gone): The Drop Everyone's Quietly Buying Before It's Gone | MUNSIEUR
+    Updated: 2026-04-17T18:49:53Z
+    Author: Munsieur Clothing
+    Tags: designer hoodies, exclusive drops, limited edition, luxury streetwear, premium lingerie, rhinestone fashion, skull hoodie
+  - [The MUNSIEUR Edit — Shop the Pieces That Command Attention](https://munsieur.com/blogs/news/the-munsieur-edit-buy-these-wear-them-own-every-room): The MUNSIEUR Edit — Shop the Pieces That Command Attention
+    Updated: 2026-04-21T04:57:58Z
+    Author: Munsieur Clothing
+    Tags: dark luxury, gothic luxury, lingerie, MUNSIEUR, outerwear, shoes, shop the look, style edit
+  - [10 Men's Tees Worth Owning | MUNSIEUR Dark Luxury Streetwear](https://munsieur.com/blogs/news/10-mens-tees-worth-owning): 10 Men's Tees Worth Owning | MUNSIEUR Dark Luxury Streetwear
+    Updated: 2026-04-21T04:59:37Z
+    Author: Munsieur Clothing
+    Tags: all-over print, dark luxury, men's t-shirts, men's tees, MUNSIEUR, shop the edit, streetwear
+  - [10 Women's Tees Worth Owning | MUNSIEUR Dark Luxury Streetwear](https://munsieur.com/blogs/news/10-womens-tees-worth-owning): 10 Women's Tees Worth Owning | MUNSIEUR Dark Luxury Streetwear
+    Updated: 2026-04-21T05:00:31Z
+    Author: Munsieur Clothing
+    Tags: dark luxury, graphic tee, MUNSIEUR, shop the edit, streetwear, women's t-shirts, women's tees
+  - [10 Men's Hoodies Worth Owning | MUNSIEUR Dark Luxury Streetwear](https://munsieur.com/blogs/news/10-mens-hoodies-worth-owning): 10 Men's Hoodies Worth Owning | MUNSIEUR Dark Luxury Streetwear
+    Updated: 2026-04-21T05:01:34Z
+    Author: Munsieur Clothing
+    Tags: all-over print, dark luxury, heavyweight hoodie, men's hoodies, MUNSIEUR, shop the edit, streetwear
+  - [10 Women's Hoodies Worth Owning | MUNSIEUR Dark Luxury Streetwear](https://munsieur.com/blogs/news/10-womens-hoodies-worth-owning): 10 Women's Hoodies Worth Owning | MUNSIEUR Dark Luxury Streetwear
+    Updated: 2026-04-21T05:02:33Z
+    Author: Munsieur Clothing
+    Tags: crop sweatshirt, dark luxury, gothic streetwear, MUNSIEUR, shop the edit, women's hoodies, women's sweatshirt
 - [0](https://munsieur.com/blogs/0)
   - [How to Style Men's Ripped Jeans | Munsieur](https://munsieur.com/blogs/0/how-to-style-mens-ripped-jeans): How to Style Men's Ripped Jeans | Munsieur
     Updated: 2026-03-19T18:26:28Z
