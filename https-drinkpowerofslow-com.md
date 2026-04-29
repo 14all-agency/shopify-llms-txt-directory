@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2026-02-26T05:30:42Z
 - Contact Email: jens@lionheartagrotech.com
-- Updated At: 2026-04-21T00:53:30.639Z
+- Updated At: 2026-04-29T00:00:27.643Z
 
 ## Products
 
 - [SLOW Oolong Citrus Grape](https://drinkpowerofslow.com/products/slow-oolong-citrus-grape): Get ready to fall in love with SLOW Oolong Citrus Grape! This vibrant blend brings together smooth oolong tea and coconut flower nectar for a drink that's as refreshing as it is delicious. Every sip delivers that perfect tea-forward taste with a fun citrus-grape twist that keeps things exciting. Best part? It's still, naturally sweetened, and packed with real tea—no added sugar needed. This is the pick-me-up that actually tastes amazing and makes you feel great!
-  Updated: 2026-04-13T01:06:32Z
+  Updated: 2026-04-23T01:11:48Z
   Vendor: The Power of SLOW
   Product Type: 
   Availability: Available
@@ -62,7 +62,7 @@
     Availability: Not Available
     Price: $350.00 HKD
 - [SLOW Original](https://drinkpowerofslow.com/products/slow-original): SLOW Original is a still coconut flower nectar drink with a smooth, clean finish. Naturally refreshing, no complicated ingredients or unnecessary fuss, just a delicious everyday sip that fits seamlessly into your routine. Discover the simple joy of staying hydrated the right way.
-  Updated: 2026-04-13T01:06:27Z
+  Updated: 2026-04-23T01:11:48Z
   Vendor: The Power of SLOW
   Product Type: 
   Availability: Available
@@ -116,13 +116,13 @@
 ## Collections
 
 - [Home page](https://drinkpowerofslow.com/collections/frontpage)
-  Updated: 2026-04-13T11:18:43Z
+  Updated: 2026-04-23T11:19:09Z
   Total Products: 4
 - [All](https://drinkpowerofslow.com/collections/all)
-  Updated: 2026-04-13T11:18:43Z
+  Updated: 2026-04-23T11:19:09Z
   Total Products: 4
 - [shop-all](https://drinkpowerofslow.com/collections/shop-all)
-  Updated: 2026-04-13T11:18:43Z
+  Updated: 2026-04-23T11:19:09Z
   Total Products: 4
 
 ## Blogs
