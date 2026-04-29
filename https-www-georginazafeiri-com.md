@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-08-14T11:11:55Z
 - Contact Email: hello@georginazafeiri.com
-- Updated At: 2026-04-21T00:00:35.368Z
+- Updated At: 2026-04-29T00:00:38.325Z
 
 ## Products
 
@@ -561,18 +561,6 @@
   - [Print only](https://www.georginazafeiri.com/products/gosbeck-sunset-suffolk-mixed-media-abstract-landscape-painting?variant=52145451565383)
     Availability: Available
     Price: £150.00 GBP
-- [Aldeburgh Dreamtime - mixed media acrylic painting](https://www.georginazafeiri.com/products/aldeburgh-dreamtime): Aldeburgh is one of my most favourite places in the UK. The town house many diverse components to a perfect day out; a beautiful clean shingle beach, classic Victorian architecture, uplifting contemporary art galleries and independant delis, shops and restaurants. I have shared both good and bad times with friends, boyfriends and family in here. Aldeburgh has a dream like quality for me when I visit and the light is always so bright no matter which season it is. I love the bracing winds as much as the sunny days and I am always excited to see what is going on in the community. In this painting I have experiemented with many new mediums. The first layer was created with photo tranfer, indian ink and oil pastels using images from New Years Eve 2024/5. The second layer was created with acrylic inks and acrylic paint applied in areas with a fork. The third layer was applied whist sitting on Aldeburgh beach in March 2025 and I explored using flourescent and irridescent acrylic paints with marker pen to create a dream like vision of the beach, its light and my memories. Acrylic paint, oil pastels, inks, marker pen and photo transfer on canvas Artwork size 60 x 43cm Print width: 30cm Created in 2025
-  Updated: 2026-02-28T12:33:03Z
-  Vendor: Georgina Zafeiri
-  Product Type: painting
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0913/8926/4199/files/715a597a-ad6345_d8ac1c5fbecf4ee5969de02937c5759c_mv2.jpg?v=1755176003
-  - [Print + black frame](https://www.georginazafeiri.com/products/aldeburgh-dreamtime?variant=52145451663687)
-    Availability: Available
-    Price: £255.00 GBP
-  - [Print only](https://www.georginazafeiri.com/products/aldeburgh-dreamtime?variant=52145451696455)
-    Availability: Available
-    Price: £200.00 GBP
 - [Sabacos Mountains, Spanish Pyrenees - fine art giclee print](https://www.georginazafeiri.com/products/sabacos-mountains-spanish-pyrenees-fine-art-giclee-print): Sabacos Mountains, Spanish Pyrenees - fine art giclee print This is a print from a sketchbook drawing made while trekking in the Spanish Pyrenees from Panticosa. I love these mountains as you can see the layers of compression in the rock, also showing the layers of time and formation. colour pencils in a sketchbook original artwork: 40.1 x 12.8 cm 2012
   Updated: 2026-02-27T23:33:01Z
   Vendor: Georgina Zafeiri
@@ -1605,7 +1593,7 @@
     Availability: Available
     Price: £90.00 GBP
 - [Georgina Zafeiri, Overflow Pipe, The Channel, Flowton, 2024, graphite, 14.6 x 19.3cm, £350](https://www.georginazafeiri.com/products/georgina-zafeiri-overflow-pipe-the-channel-flowton-2024-graphite-14-6-x-19-3cm-350)
-  Updated: 2026-04-20T12:49:17Z
+  Updated: 2026-04-23T06:14:56Z
   Vendor: Georgina Zafeiri
   Product Type: Giclée
   Availability: Available
