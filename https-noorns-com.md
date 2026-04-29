@@ -6,12 +6,12 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-10-02T08:02:20Z
 - Contact Email: info@noorns.com
-- Updated At: 2026-04-20T00:00:37.139Z
+- Updated At: 2026-04-29T00:00:39.642Z
 
 ## Products
 
 - [Diet & Methylation Report](https://noorns.com/products/diet-methylation-report): Build steadier energy, mood, and detox capacity by addressing the methylation pathways that matter most for you. Ideal first step if you’re new to nutrigenomics or you’re troubleshooting fatigue, low mood, or stubborn plateaus. What you’ll learn: Your key methylation/detox pinch points and ideal B-vitamin forms. What you’ll do: Prioritize foods and supplements that match your genes; avoid the ones that backfire. Why it helps: Targets the pathways most likely to move the needle for you. Pairs with: HPA-Axis & Methylation.
-  Updated: 2026-04-16T11:14:56Z
+  Updated: 2026-04-28T16:57:35Z
   Vendor: Noorns
   Product Type: Digital Nutrigenomics Nutrition Report
   Availability: Available
@@ -133,13 +133,13 @@
 ## Collections
 
 - [Home page](https://noorns.com/collections/frontpage)
-  Updated: 2026-04-16T11:50:01Z
+  Updated: 2026-04-28T11:44:58Z
   Total Products: 15
 - [All Products](https://noorns.com/collections/all-nutrigenomics-reports)
-  Updated: 2026-04-16T11:50:01Z
+  Updated: 2026-04-28T11:44:58Z
   Total Products: 17
 - [Nutrigenomics Tests](https://noorns.com/collections/nutrition-reports)
-  Updated: 2026-04-16T11:50:01Z
+  Updated: 2026-04-28T11:44:58Z
   Total Products: 15
 - [Consultations](https://noorns.com/collections/consultations)
   Updated: 2026-02-25T08:50:16Z
