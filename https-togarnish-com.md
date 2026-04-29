@@ -1,149 +1,149 @@
 # ToGarnish (https://togarnish.com)
 
 - Domain: https://togarnish.com
-- Locale: en
+- Locale: es
 - Currency: USD
 - Timezone: America/Puerto_Rico
 - Created At: 2023-06-15T14:01:23Z
 - Contact Email: info@togarnish.com
-- Updated At: 2026-04-22T00:00:20.481Z
+- Updated At: 2026-04-29T00:00:34.825Z
 
 ## Products
 
 - [Dehydrated Lime for Cocktails | Lime Slices & Garnishes | ToGarnish](https://togarnish.com/products/dehydrated-lime): Premium dehydrated lime slices for cocktails. Perfect garnish for margaritas, mojitos & gin tonics. ~65–85 pieces per 4oz bag. 100% natural, no additives. Free shipping.
-  Updated: 2026-04-21T13:56:24Z
+  Updated: 2026-04-28T16:45:56Z
   Vendor: To Garnish
-  Product Type: 
+  Product Type: Dehydrated Lime
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/5191/1698/files/dehydrated-lime-garnish-4oz-100-slices-togarnishdehydrated-lime-garnish-4oz-100-slices-togarnish-4886550.png?v=1776531721
   - [4oz Single Pack](https://togarnish.com/products/dehydrated-lime?variant=52204064473362)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/5191/1698/files/dehydrated-lime-garnish-4oz-100-slices-togarnishdehydrated-lime-garnish-4oz-100-slices-togarnish-4886550.png?v=1776531721
-    Price: $19.99 USD
+    Price: 15,00 $ USD
   - [8oz Duo Pack](https://togarnish.com/products/dehydrated-lime?variant=52204197413138)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/5191/1698/files/dehydrated-lime-garnish-4oz-100-slices-togarnishdehydrated-lime-garnish-4oz-100-slices-togarnish-2734950.png?v=1776458948
-    Price: $35.99 USD
+    Price: 26,00 $ USD
   - [12oz Trio Pack](https://togarnish.com/products/dehydrated-lime?variant=52204197445906)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/5191/1698/files/dehydrated-lime-garnish-4oz-100-slices-togarnishdehydrated-lime-garnish-4oz-100-slices-togarnish-4686420.png?v=1776458949
-    Price: $49.99 USD
+    Price: 39,00 $ USD
   - [16oz Quad Pack](https://togarnish.com/products/dehydrated-lime?variant=52204197478674)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/5191/1698/files/dehydrated-lime-garnish-4oz-100-slices-togarnishdehydrated-lime-garnish-4oz-100-slices-togarnish-7216541.png?v=1776458949
-    Price: $69.99 USD
+    Price: 52,00 $ USD
 - [Dehydrated Orange Garnish for Cocktails | ToGarnish](https://togarnish.com/products/dehydrated-orange): Dehydrated orange slices for negroni, old fashioned & aperol spritz. Vibrant color, bold citrus flavor. ~85–105 pieces per 4oz bag. 100% natural. Free shipping.
-  Updated: 2026-04-21T13:54:35Z
+  Updated: 2026-04-28T16:51:22Z
   Vendor: To Garnish
-  Product Type: Orange
+  Product Type: Dehydrated Orange
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/5191/1698/files/dehydrated-orange-garnish-4oz-65-slices-togarnishdehydrated-orange-garnish-4oz-65-slices-togarnish.png?v=1776524650
   - [4oz Single Pack](https://togarnish.com/products/dehydrated-orange?variant=52204066701586)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/5191/1698/files/dehydrated-orange-garnish-4oz-65-slices-togarnishdehydrated-orange-garnish-4oz-65-slices-togarnish.png?v=1776524650
-    Price: $19.99 USD
+    Price: 16,00 $ USD
   - [8oz Duo Pack](https://togarnish.com/products/dehydrated-orange?variant=52204184109330)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/5191/1698/files/dehydrated-orange-garnish-4oz-65-slices-togarnishdehydrated-orange-garnish-4oz-65-slices-togarnish-1525218.png?v=1776524673
-    Price: $35.99 USD
+    Price: 30,00 $ USD
   - [12oz Trio Pack](https://togarnish.com/products/dehydrated-orange?variant=52204184142098)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/5191/1698/files/dehydrated-orange-garnish-4oz-65-slices-togarnishdehydrated-orange-garnish-4oz-65-slices-togarnish-2167039.png?v=1776524692
-    Price: $49.99 USD
+    Price: 45,00 $ USD
   - [16oz Quad Pack](https://togarnish.com/products/dehydrated-orange?variant=52204184174866)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/5191/1698/files/dehydrated-orange-garnish-4oz-65-slices-togarnishdehydrated-orange-garnish-4oz-65-slices-togarnish-6290508.png?v=1776524709
-    Price: $69.99 USD
+    Price: 60,00 $ USD
 - [Dehydrated Pineapple Garnish for Cocktails | ToGarnish](https://togarnish.com/products/dehydrated-pineapple): Tropical dehydrated pineapple garnish for cocktails. Ideal for piña colada, tequila sunrise & rum drinks. ~95–125 pieces per 4oz bag. 100% natural. Free shipping.
-  Updated: 2026-04-21T13:53:42Z
+  Updated: 2026-04-28T16:49:54Z
   Vendor: To Garnish
-  Product Type: Pineapple
+  Product Type: Dehydrated Pineapple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/5191/1698/files/dehydrated-pineapple-garnish-4oz-65-slices-togarnishdehydrated-pineapple-garnish-4oz-65-slices-togarnishpineapple-4697173.png?v=1776524520
   - [4oz Single Pack](https://togarnish.com/products/dehydrated-pineapple?variant=52204072239378)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/5191/1698/files/dehydrated-pineapple-garnish-4oz-65-slices-togarnishdehydrated-pineapple-garnish-4oz-65-slices-togarnishpineapple-4697173.png?v=1776524520
-    Price: $19.99 USD
+    Price: 16,00 $ USD
   - [8oz Duo Pack](https://togarnish.com/products/dehydrated-pineapple?variant=52204154945810)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/5191/1698/files/dehydrated-pineapple-garnish-4oz-65-slices-togarnishdehydrated-pineapple-garnish-4oz-65-slices-togarnishpineapple-8449554.png?v=1776524567
-    Price: $35.99 USD
+    Price: 30,00 $ USD
   - [12oz Trio Pack](https://togarnish.com/products/dehydrated-pineapple?variant=52204154978578)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/5191/1698/files/dehydrated-pineapple-garnish-4oz-65-slices-togarnishdehydrated-pineapple-garnish-4oz-65-slices-togarnishpineapple-8912440.png?v=1776524585
-    Price: $49.99 USD
+    Price: 45,00 $ USD
   - [16oz Quad Pack](https://togarnish.com/products/dehydrated-pineapple?variant=52204155011346)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/5191/1698/files/dehydrated-pineapple-garnish-4oz-65-slices-togarnishdehydrated-pineapple-garnish-4oz-65-slices-togarnishpineapple-9738067.png?v=1776524604
-    Price: $69.99 USD
+    Price: 60,00 $ USD
 - [Dehydrated Blood Orange Garnish | Craft Cocktail Garnishes | ToGarnish](https://togarnish.com/products/dehydrated-blood-orange): Premium dehydrated blood orange garnish for craft cocktails. Deep color, complex citrus flavor. +65 pieces per 4oz bag. 100% natural, no additives.
-  Updated: 2026-04-21T13:43:31Z
+  Updated: 2026-04-28T16:50:34Z
   Vendor: To Garnish
-  Product Type: Bood orange
+  Product Type: Dehydrated Bood orange
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/5191/1698/files/dehydrated-blood-orange-garnish-4oz-65-slices-togarnishdehydrated-blood-orange-garnish-4oz-65-slices-togarnishbood-orange-9667458.png?v=1776524391
   - [4oz Single Pack](https://togarnish.com/products/dehydrated-blood-orange?variant=52204070600978)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/5191/1698/files/dehydrated-blood-orange-garnish-4oz-65-slices-togarnishdehydrated-blood-orange-garnish-4oz-65-slices-togarnishbood-orange-9667458.png?v=1776524391
-    Price: $19.99 USD
+    Price: 16,00 $ USD
   - [8oz Duo Pack](https://togarnish.com/products/dehydrated-blood-orange?variant=52204070633746)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/5191/1698/files/dehydrated-blood-orange-garnish-4oz-65-slices-togarnishdehydrated-blood-orange-garnish-4oz-65-slices-togarnishbood-orange-7641470.png?v=1776524432
-    Price: $35.99 USD
+    Price: 30,00 $ USD
   - [12oz Trio Pack](https://togarnish.com/products/dehydrated-blood-orange?variant=52204070666514)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/5191/1698/files/dehydrated-blood-orange-garnish-4oz-65-slices-togarnishdehydrated-blood-orange-garnish-4oz-65-slices-togarnishbood-orange-8647289.png?v=1776524444
-    Price: $49.99 USD
+    Price: 45,00 $ USD
   - [16oz Quad Pack](https://togarnish.com/products/dehydrated-blood-orange?variant=52204070699282)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0773/5191/1698/files/dehydrated-blood-orange-garnish-4oz-65-slices-togarnishdehydrated-blood-orange-garnish-4oz-65-slices-togarnishbood-orange-7111488.png?v=1776524458
-    Price: $69.99 USD
-- [Dehydrated Citrus Garnish Bundle | Best Cocktail Garnishes | ToGarnish](https://togarnish.com/products/citrus-bundle): Shop the best cocktail garnishes bundle — 4 varieties, 250 + dehydrated fruit slices. Lime, orange, pineapple & blood orange. 100% natural. Free shipping.
-  Updated: 2026-04-20T13:58:28Z
+    Price: 60,00 $ USD
+- [Dehydrated Citrus Garnish Bundle | Best Cocktail Garnishes | ToGarnish](https://togarnish.com/products/dehydrated-packs): Shop the best cocktail garnishes bundle — 4 varieties, 250 + dehydrated fruit slices. Lime, orange, pineapple & blood orange. 100% natural. Free shipping.
+  Updated: 2026-04-24T08:19:42Z
   Vendor: To Garnish
-  Product Type: Bundle 4 Pack
+  Product Type: Dehydrated fruit 4 Pack
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/5191/1698/files/Granish_for_Cocktail_ToGarnish_bundle_pack.png?v=1776522956
-  Price: $70.00 USD
+  Price: 70,00 $ USD
 - [Dehydrated Blood Orange Garnish – Wholesale Bulk Pack 1LB | ToGarnish - ToGarnish](https://togarnish.com/products/dehydrated-blood-orange-garnish-wholesale-1lb): 📦 Product Details 1LB bulk bag with 400+ dehydrated blood orange garnishes. The most visually striking craft cocktail garnishes in our lineup — at wholesale scale. 🍹 How to Use Perfect for upscale bar programs, Negroni menus, and signature cocktail presentations. Shop garnish for cocktails that create instant visual drama — the deep ruby color elevates any drink at any volume. 🌿 Ingredients & Sourcing 100% natural blood orange, heat pump dried to preserve color and flavor integrity. No preservatives or additives. Premium dehydrated fruit for cocktails wholesale — made in Puerto Rico. 🚚 Shipping & Storage Sealed bulk bag. Store in a cool, dry place. Shelf life: up to 12 months unopened. Free shipping across Puerto Rico. ♻️ Sustainability Premium drink garnishes, responsibly sourced. Bulk packaging minimizes waste without compromising quality. - ToGarnish
-  Updated: 2026-04-20T13:58:10Z
+  Updated: 2026-04-24T08:20:45Z
   Vendor: To Garnish
-  Product Type: Garnish - Wholesale
+  Product Type: Dehydrated Wholesale blood orange
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/5191/1698/files/dehydrated-blood-orange-garnish-wholesale-bulk-pack-1lb-togarnishdehydrated-blood-orange-garnish-wholesale-bulk-pack-1lb-togarnishgarnish-wholesale-5757993.png?v=1776693471
-  Price: $46.00 USD
+  Price: 46,00 $ USD
 - [Dehydrated Pineapple Garnish – Wholesale Bulk Pack 1LB | ToGarnish - ToGarnish](https://togarnish.com/products/wholesale-pineapple): 📦 Product Details 1LB bulk bag with 400+ dehydrated pineapple garnishes. Uniform golden slices ready for high-volume tropical cocktail service — consistent quality in every wholesale order. 🍹 How to Use Ideal for tiki bars, resort pools, catering events, and tropical cocktail menus. Shop garnish for cocktails at wholesale scale — piña coladas, pineapple margaritas, tequila sunrises, and rum punches. Open and garnish, no prep required. 🌿 Ingredients & Sourcing 100% natural pineapple, heat pump dried to concentrate tropical flavor. Sourced with a focus on Puerto Rico-origin fruit. No additives or preservatives. Premium dehydrated fruit for cocktails wholesale. 🚚 Shipping & Storage Sealed bulk bag. Store in a cool, dry place away from humidity. Shelf life: up to 12 months. Free shipping across Puerto Rico. ♻️ Sustainability Whole fruit, bulk packaging, sustainable sourcing — designed for professionals who care about quality and the environment. - ToGarnish
-  Updated: 2026-04-20T13:58:17Z
+  Updated: 2026-04-24T08:21:10Z
   Vendor: To Garnish
-  Product Type: Garnish - Wholesale
+  Product Type: Dehydrated Wholesale pineapple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/5191/1698/files/dehydrated-pineapple-garnish-wholesale-bulk-pack-1lb-togarnishdehydrated-pineapple-garnish-wholesale-bulk-pack-1lb-togarnishgarnish-wholesale-3087958.png?v=1776693478
-  Price: $45.00 USD
+  Price: 45,00 $ USD
 - [Dehydrated Orange Garnish – Wholesale Bulk Pack 1LB | ToGarnish - ToGarnish](https://togarnish.com/products/wholesale-orange): 📦 Product Details 1LB bulk bag with 250 + full-size dehydrated orange garnishes. Consistent color, size, and quality — built for professional bar programs, hotels, and high-volume events. 🍹 How to Use Elevate your cocktail menu with zero prep time. Shop garnish for cocktails at wholesale scale — perfect for Old Fashioneds, Aperol Spritzes, Negronis, and sangrias. No prep, no waste, no mess. 🌿 Ingredients & Sourcing 100% natural orange, heat pump dried at low temperatures. No sulfites, no added sugar, no preservatives. Premium dehydrated fruit for cocktails wholesale — made in Puerto Rico. 🚚 Shipping & Storage Sealed bulk bag. Store in a cool, dry place. Shelf life: up to 12 months unopened. Free shipping across Puerto Rico. ♻️ Sustainability Bulk orders mean less packaging per garnish. Sustainably sourced and processed with minimal environmental footprint. - ToGarnish
-  Updated: 2026-04-20T13:58:34Z
+  Updated: 2026-04-24T08:21:28Z
   Vendor: To Garnish
-  Product Type: Garnish - Wholesale
+  Product Type: Dehydrated Wholesale orange
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/5191/1698/files/dehydrated-orange-garnish-wholesale-bulk-pack-1lb-togarnishdehydrated-orange-garnish-wholesale-bulk-pack-1lb-togarnishgarnish-wholesale-5574002.png?v=1776693495
-  Price: $45.00 USD
+  Price: 45,00 $ USD
 - [Dehydrated Lime Garnish – Wholesale Bulk Pack 1LB | ToGarnish - ToGarnish](https://togarnish.com/products/wholesale-lime): 📦 Product Details 1LB bulk bag containing 400+ dehydrated lime garnishes. Designed for bars, restaurants, hotels, and event professionals who need consistent, high-volume drink garnishes without the prep work. 🍹 How to Use Ready to use straight from the bag. Perfect for high-volume cocktail service — margaritas, mojitos, gin & tonics, Moscow Mules, and more. Shop garnish for cocktails at wholesale scale with zero prep and zero waste. 🌿 Ingredients & Sourcing 100% natural lime, heat pump dried without additives or preservatives. Consistent slice quality across every wholesale order. Dehydrated fruit for cocktails wholesale — made in Puerto Rico. 🚚 Shipping & Storage Ships in a sealed bulk bag. Store in a cool, dry place. Shelf life: up to 12 months. Ideal for stocking bar inventory in advance. Free shipping across Puerto Rico. ♻️ Sustainability Bulk packaging reduces per-unit waste. We prioritize sustainable sourcing and minimal processing in every wholesale order. - ToGarnish
-  Updated: 2026-04-20T13:58:40Z
+  Updated: 2026-04-24T08:22:08Z
   Vendor: To Garnish
-  Product Type: Garnish - Wholesale
+  Product Type: Dehydrated Wholesale lime
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0773/5191/1698/files/dehydrated-lime-garnish-wholesale-bulk-pack-1lb-togarnishdehydrated-lime-garnish-wholesale-bulk-pack-1lb-togarnishgarnish-wholesale-5867847.png?v=1776521298
-  Price: $44.99 USD
+  Price: 44,99 $ USD
 
 ## Collections
 
 - [Dehydrated Cocktail Garnishes | Shop Drink Garnishes | ToGarnish](https://togarnish.com/collections/cocktail-garnishes): Buy the best dehydrated cocktail garnishes online. Natural fruit garnishes for every cocktail — lime, orange, pineapple & blood orange. No additives. Made in Puerto Rico.
-  Updated: 2026-04-21T20:45:16Z
+  Updated: 2026-04-28T16:50:35Z
   Total Products: 5
 - [Wholesale Dehydrated Fruit Garnishes for Cocktails | ToGarnish B2B](https://togarnish.com/collections/wholesale): Wholesale dehydrated fruit garnishes for bars, hotels & distributors. 22,500 units/day capacity. Lime, orange, pineapple & blood orange. Request bulk pricing and buy today.
-  Updated: 2026-04-21T20:45:16Z
+  Updated: 2026-04-23T20:22:04Z
   Total Products: 5
 - [Food and Beverage example products - ToGarnish -](https://togarnish.com/collections/food-and-beverage-example-products): - ToGarnish
-  Updated: 2026-04-17T20:25:36Z
+  Updated: 2026-04-23T18:36:12Z
   Total Products: 0
 
 ## Blogs
@@ -166,6 +166,10 @@
   - [Smoke & Citrus Gin Tonic: The Ultimate Dehydrated Garnish Recipe](https://togarnish.com/blogs/news/smoke-and-citrus-gin-tonic-recipe): <h1>Forget everything you know about the G&amp;T. The "Smoke &amp; Citrus" Gin Tonic is a masterclass in the science of rehydration. By replacing fresh fruit with a "botanical sponge" of dehydrated grapefruit, we’ve unlocked deeper, more complex essential oils that evolve with every sip. From the resinous touch of fractured cardamom to the aromatic pop of fresh rosemary, discover why this is the only cocktail your blog—and your palate—needs this season.</h1>
     Updated: 2026-04-14T20:48:24Z
     Author: To Garnish
+  - [Garnish Premium: El Detalle que Vende tu Barra](https://togarnish.com/blogs/news/garnish-premium-el-detalle-que-vende-tu-barra)
+    Updated: 2026-04-23T02:49:08Z
+    Author: To Garnish
+    Tags: bartender, bomba de calor, Ciencia, cocktail garnish, cocteleria, Dehydración, dehydrated cocktail fruit, dehydrated orange, deshidratado, discover the ultimate guide and tools for drink styling at ToGarnish.com., drink styling, Elevate your drinks with professional techniques. From dehydrated fruits to intricate citrus peels, garnish ideas., garnish premium, Industria de Bares, lime, Mixología, mixology tools, Premium Garnishes, professional bartender tips, rentabilidad, Técnica, Tendencias, ToGarnish Process, ToGarnish | Master the Art of Cocktail Garnishing & Mixology
 - [ToGarnish Lab | Ciencia y Arte detrás del Garnish Premium](https://togarnish.com/blogs/togarnish-lab): Descubre el proceso, la ciencia y la pasión detrás de los garnishes deshidratados de ToGarnish. Recursos para bartenders, bares y amantes de los cócteles.
   - [Garnish Deshidratado: La Ciencia Detrás de la Calidad Premium | ToGarnish Lab](https://togarnish.com/blogs/togarnish-lab/garnish-deshidratado-ciencia-calidad-premium): Garnish Deshidratado: La Ciencia Detrás de la Calidad Premium | ToGarnish Lab
     Updated: 2026-04-17T20:47:14Z
