@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2026-04-16T00:00:57.080Z
+- Updated At: 2026-04-29T00:00:52.432Z
 
 ## Products
 
@@ -522,10 +522,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/20241004_211939.jpg?v=1771334247
   Price: ₹349.00 INR
 - [Hot Wheels High - Exciting Vehicles for Thrilling Adventures](https://theworldofnerds.com/products/hot-wheels-high): Meta Description: Discover the thrill of Hot Wheels High! This exciting collection ignites imagination with vibrant cars and ramps, perfect for racing enthusiasts of all ages. Get yours today!
-  Updated: 2026-02-17T13:17:42Z
+  Updated: 2026-04-24T16:44:47Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/20241004_212010.jpg?v=1771334261
   Price: ₹349.00 INR
 - [Hot Wheels 57 Chevy - Classic Die-Cast Car Model for Collectors](https://theworldofnerds.com/products/hot-wheels-57-chevy): Discover the iconic HOT WHEELS 57 CHEVY, a must-have for collectors and car enthusiasts. This stunning model is perfect for display and play. Order yours today!
@@ -823,7 +823,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/410.jpg?v=1771335534
   Price: ₹149.00 INR
 - [Super Saiyan Goku Keychain - Perfect Anime Collectible for Fans](https://theworldofnerds.com/products/super-saiyan-goku-keychain): Unlock your inner warrior with our SUPER SAIYAN GOKU KEYCHAIN! Perfect for fans, this stylish accessory showcases Goku's legendary transformation. Grab yours today!
-  Updated: 2026-02-17T13:40:39Z
+  Updated: 2026-04-22T14:05:02Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -872,7 +872,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/621.jpg?v=1771336081
   Price: ₹149.00 INR
 - [Groot Captain America Keychain - Heroic Marvel Charm for Fans](https://theworldofnerds.com/products/groot-as-captain-america-keychain): Unleash your inner hero with the Groot Captain America Keychain! This charming accessory is perfect for Marvel fans, combining style and fandom in one delightful piece. Get yours now!
-  Updated: 2026-02-17T13:49:39Z
+  Updated: 2026-04-25T03:41:17Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -886,7 +886,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/623_3.jpg?v=1771336195
   Price: ₹149.00 INR
 - [Shin Chan Football Keychain - Cute Blue Jersey Keychain Gift](https://theworldofnerds.com/products/shin-chan-with-football-keychain): Unlock fun with the Shin Chan Football Keychain featuring Shin Chan in a blue jersey! Perfect for fans and as a unique gift. Add this playful accessory to your collection today!
-  Updated: 2026-02-17T13:51:33Z
+  Updated: 2026-04-20T08:35:12Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -907,7 +907,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/391.jpg?v=1771336361
   Price: ₹149.00 INR
 - [Shin Chan Football Keychain - Stylish White Jersey Design Accessory](https://theworldofnerds.com/products/shin-chan-in-white-jersey-with-football-keychain): Discover the adorable Shin Chan football keychain featuring a unique white jersey design. Perfect for fans and collectors, this keychain is a must-have accessory! Shop now!
-  Updated: 2026-03-18T15:34:18Z
+  Updated: 2026-04-25T03:41:17Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -935,7 +935,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/395.jpg?v=1771336557
   Price: ₹149.00 INR
 - [Pikachu Skateboard Keychain - Fun Accessory for Pokémon Fans](https://theworldofnerds.com/products/pikachu-on-skateboard-keychain): Elevate your style with our Pikachu Skateboard Keychain! This fun and unique accessory is perfect for Pokémon fans. Grab yours today and showcase your love for Pikachu!
-  Updated: 2026-02-17T13:57:05Z
+  Updated: 2026-04-24T18:02:03Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1054,7 +1054,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/421.jpg?v=1729769079
   Price: ₹399.00 INR
 - [Black Widow Keychain - Stylish Accessory for Unique Hoody Flair](https://theworldofnerds.com/products/black-widow-in-hoody-keychain): Elevate your style with our Black Widow Keychain. This unique hoody accessory adds flair and personality to any outfit. Perfect for those who dare to be different!
-  Updated: 2026-02-17T14:11:41Z
+  Updated: 2026-04-22T16:05:37Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1075,14 +1075,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/610.jpg?v=1771337567
   Price: ₹149.00 INR
 - [Pikachu Red Coat Keychain - Cute Accessory for Pokemon Enthusiasts](https://theworldofnerds.com/products/pikachu-in-red-coat-keychain): Discover the Pikachu Red Coat Keychain, the perfect adorable accessory for Pokémon fans. Show off your love for Pikachu with this charming keychain that’s ideal for everyday use!
-  Updated: 2026-03-15T23:10:22Z
+  Updated: 2026-04-25T20:44:19Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/615.jpg?v=1771337621
   Price: ₹149.00 INR
 - [Pikachu Blue Coat Keychain - Cute Accessory for Pokemon Fans](https://theworldofnerds.com/products/pikachu-in-blue-coat-keychain): Unlock your love for Pokémon with our Pikachu Blue Coat Keychain. This adorable accessory is perfect for fans who want to carry a piece of joy wherever they go!
-  Updated: 2026-02-17T14:15:55Z
+  Updated: 2026-04-25T03:41:18Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1096,7 +1096,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/619.jpg?v=1771337770
   Price: ₹149.00 INR
 - [Groot Superman Keychain - Unique Marvel-Inspired Accessory for Fans](https://theworldofnerds.com/products/groot-as-superman-keychain): Unlock your fandom with the Groot Superman Keychain! This unique Marvel-inspired accessory is perfect for fans. Carry a piece of adventure wherever you go!
-  Updated: 2026-02-17T14:17:47Z
+  Updated: 2026-04-25T20:29:57Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1110,10 +1110,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/624.jpg?v=1771337880
   Price: ₹149.00 INR
 - [IRON MAN KEYCHAIN - Marvel Design Keyring for Fans and Collectors](https://theworldofnerds.com/products/iron-man-keychain): Unleash your inner superhero with our Iron Man Keychain! This stylish accessory is perfect for fans, collectors, or as a unique gift. Get your Iron Man Keychain today!
-  Updated: 2026-02-17T14:19:36Z
+  Updated: 2026-04-24T20:14:58Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/625.jpg?v=1729862335
   Price: ₹149.00 INR
 - [HULK GAUNTLET KEYCHAIN - Ultimate Marvel Collectible for Fans Online](https://theworldofnerds.com/products/hulk-with-gauntlet-keychain): Unlock your inner hero with the HULK GAUNTLET KEYCHAIN! This ultimate Marvel collectible is perfect for fans who want to showcase their love for the Hulk. Grab yours today!
@@ -1138,28 +1138,28 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/629.jpg?v=1771338106
   Price: ₹149.00 INR
 - [Bulbasaur Pokeball Keychain - Adorable Pokémon Accessory for Fans](https://theworldofnerds.com/products/bulbasaur-on-pokeball-keychain): Discover the adorable Bulbasaur Pokeball Keychain, the perfect Pokémon accessory for fans. Add charm to your keys or backpack with this cute collectible. Perfect for gifts and everyday use!
-  Updated: 2026-02-17T14:23:25Z
+  Updated: 2026-04-27T12:26:32Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/630.jpg?v=1771338163
   Price: ₹149.00 INR
 - [Charmander Pokeball Keychain - Collectible Pokémon Accessory for Fans](https://theworldofnerds.com/products/charmander-on-pokeball-keychain): Unlock your Pokémon passion with the Charmander Pokeball Keychain! This collectible accessory is perfect for fans and makes a great gift. Get yours now and carry Charmander everywhere!
-  Updated: 2026-02-17T14:24:18Z
+  Updated: 2026-04-27T12:26:32Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/631.jpg?v=1729863684
   Price: ₹149.00 INR
 - [Squirtle Pokeball Keychain - Must-Have Pokémon Collectible for Fans](https://theworldofnerds.com/products/squirtle-on-pokeball-keychain): Meta Description: Discover the Squirtle Pokeball Keychain, the ultimate Pokémon collectible for fans! Perfect for showcasing your love for Squirtle and Pokémon wherever you go!
-  Updated: 2026-02-17T14:25:12Z
+  Updated: 2026-04-27T12:26:27Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/632.jpg?v=1729863897
   Price: ₹149.00 INR
 - [Psyduck Pokeball Keychain - Must-Have Pokémon Accessory for Fans](https://theworldofnerds.com/products/psyduck-on-pokeball-keychain): Transform your style with the Psyduck Pokeball Keychain! A must-have accessory for Pokémon fans, this charming keychain combines fun and functionality. Perfect for everyday use!
-  Updated: 2026-02-17T14:26:24Z
+  Updated: 2026-04-27T12:26:32Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1187,10 +1187,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/637.jpg?v=1771338585
   Price: ₹149.00 INR
 - [Shin Chan Psyduck Keychain - Adorable Accessory for Fans and Collector](https://theworldofnerds.com/products/shin-chan-as-psyduck-keychain): Introducing the Shin Chan Psyduck Keychain, a cute accessory perfect for fans! Show your love for this iconic duo and keep your keys stylish with this adorable keychain!
-  Updated: 2026-02-19T12:47:56Z
+  Updated: 2026-04-26T08:03:22Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/638_1.jpg?v=1771338648
   Price: ₹149.00 INR
 - [Shin Chan Bulbasaur Keychain - Cute Anime Collectible Accessory](https://theworldofnerds.com/products/shin-chan-as-bulbasaur-keychain): Elevate your collection with our Shin Chan Bulbasaur Keychain! This adorable anime collectible accessory is perfect for fans. Grab yours today and show off your unique style!
@@ -1215,21 +1215,21 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/641.jpg?v=1771338824
   Price: ₹149.00 INR
 - [Jigglypuff Pokeball Keychain - Perfect Gift for Pokémon  Collectors](https://theworldofnerds.com/products/jigglypuff-on-pokeball-keychain): Unlock your Pokémon passion with our Jigglypuff Pokeball Keychain! A perfect gift for enthusiasts, this keychain is both adorable and functional. Get yours today!
-  Updated: 2026-02-17T14:35:23Z
+  Updated: 2026-04-27T12:26:27Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/642.jpg?v=1771338880
   Price: ₹149.00 INR
 - [Frieza Keychain - Ideal Accessory for Dragon Ball Z Enthusiasts](https://theworldofnerds.com/products/frieza-pokemon-keychain): Meta description: Discover the ultimate Frieza keychain, the perfect accessory for Dragon Ball Z fans. Showcase your love for this iconic villain with a stylish and durable keychain!
-  Updated: 2026-03-15T19:53:13Z
+  Updated: 2026-04-27T12:26:32Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/643.jpg?v=1729955427
   Price: ₹149.00 INR
 - [piccolo keychain - Unique Design for Style and Functionality](https://theworldofnerds.com/products/piccolo-keychain): Discover the unique charm of our PICCOLO KEYCHAIN. Perfect for adding a stylish touch to your keys, this piccolo keychain is a must-have accessory. Shop now!
-  Updated: 2026-02-17T14:37:10Z
+  Updated: 2026-04-27T12:26:31Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1243,14 +1243,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/645.jpg?v=1771339043
   Price: ₹149.00 INR
 - [Master Roshi Keychain - Unique Dragon Ball Collectible for Fans](https://theworldofnerds.com/products/master-roshi-keychain-1): Meta Description: Discover the Master Roshi Keychain, a unique collectible perfect for Dragon Ball fans. Add this essential accessory to your collection today and show off your love for the series!
-  Updated: 2026-03-17T18:21:19Z
+  Updated: 2026-04-27T12:26:27Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/646.jpg?v=1771339100
   Price: ₹149.00 INR
 - [Gogeta Keychain - Ultimate Collectible for Dragon Ball Collectors](https://theworldofnerds.com/products/gogeta-keychain): Unlock the ultimate collectible with our Gogeta Keychain! Perfect for Dragon Ball fans, this stylish accessory lets you carry your favorite character wherever you go. Grab yours today!
-  Updated: 2026-02-17T14:40:02Z
+  Updated: 2026-04-27T12:26:28Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1271,10 +1271,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/649.jpg?v=1771339272
   Price: ₹149.00 INR
 - [SANJI KEYCHAIN - Unique Anime Accessory for True Fans and Collectors](https://theworldofnerds.com/products/sanji-keychain): Unlock your passion for anime with our Sanji Keychain! This unique accessory is perfect for fans. Add flair to your collection and showcase your love for Sanji today!
-  Updated: 2026-03-23T13:18:56Z
+  Updated: 2026-04-22T03:39:37Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/650.jpg?v=1771339330
   Price: ₹149.00 INR
 - [Trafalgar Law Keychain - Stylish Anime Fan Accessory for Collectors](https://theworldofnerds.com/products/trafalgar-law-keychain-1): Unlock your style with our Trafalgar Law Keychain! This stylish accessory is perfect for anime fans, adding a unique touch to your collection. Grab yours today!
@@ -1292,7 +1292,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/652_3.jpg?v=1771339449
   Price: ₹149.00 INR
 - [NAMI KEYCHAIN - Stylish Accessory for Fans of Adventure and Unity](https://theworldofnerds.com/products/nami-keychain-1): Elevate your accessories with our NAMI KEYCHAIN! Perfect for anime fans, this stylish keychain adds a touch of charm and personality to your everyday essentials. Grab yours now!
-  Updated: 2026-02-17T14:45:55Z
+  Updated: 2026-04-21T16:20:26Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1306,7 +1306,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/654.jpg?v=1771339572
   Price: ₹149.00 INR
 - [tony tony chopper keychain - Adorable One Piece Accessory for Fans](https://theworldofnerds.com/products/tony-tony-chopper-keychain-1): Add a touch of charm to your collection with our TONY TONY CHOPPER KEYCHAIN. This adorable One Piece accessory is perfect for fans. Grab yours today and showcase your love for Chopper!
-  Updated: 2026-02-17T14:47:53Z
+  Updated: 2026-04-17T12:49:27Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1320,7 +1320,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/666.jpg?v=1771339688
   Price: ₹399.00 INR
 - [Pikachu Ash Keychain - Must-Have Pokémon Accessory for Fans](https://theworldofnerds.com/products/pikachu-as-ash-keychain): Unlock your Pokémon journey with our Pikachu Ash Keychain! This adorable accessory is perfect for any Pokémon fan. Carry your love for Pikachu everywhere you go!
-  Updated: 2026-02-17T14:49:21Z
+  Updated: 2026-04-27T08:42:46Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1698,7 +1698,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC03954.jpg?v=1771342461
   Price: ₹399.00 INR
 - [Luffy Bobblehead - Collectible Figure for Fans and Anime Lovers](https://theworldofnerds.com/products/luffy-bobblehead-1): Discover the ultimate Luffy bobblehead! This charming collectible adds a fun touch to your space. Perfect for fans and collectors alike. Grab your Luffy bobblehead today!
-  Updated: 2026-02-17T15:35:58Z
+  Updated: 2026-04-18T12:23:36Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1915,7 +1915,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_6_7a1a58b1-1ed3-42a2-92e2-06c09414c81a.png?v=1771344575
   Price: ₹289.00 INR
 - [Obanai Iguro Katana Pen - Unique Design for Anime Fans and Collectors](https://theworldofnerds.com/products/obanai-iguro-katana-pen): Discover the OBANAI IGURO KATANA PEN, a stunning writing instrument inspired by the iconic anime. Perfect for collectors and fans alike, enhance your desk with this unique, stylish pen!
-  Updated: 2026-03-16T05:22:37Z
+  Updated: 2026-04-22T17:00:22Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -1985,10 +1985,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/940.jpg?v=1771344931
   Price: ₹249.00 INR
 - [Hot Wheels HW450F - High-Speed Diecast Car for Collectors and Kids](https://theworldofnerds.com/products/hot-wheels-hw450f): Unlock thrilling adventures with the Hot Wheels HW450F! This high-speed die-cast car delivers unmatched performance and excitement. Perfect for collectors and racing enthusiasts alike!
-  Updated: 2026-02-26T11:25:46Z
+  Updated: 2026-04-24T16:44:47Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/937.jpg?v=1771344951
   Price: ₹249.00 INR
 - [Hot Wheels Honda City Turbo II - 85 Collectible Diecast Model](https://theworldofnerds.com/products/hot-wheels-ultra-hots-85-honda-city-turbo-ii): Discover the HOT WHEELS ULTRA HOTS 85 HONDA CITY TURBO II Collectible Diecast Model. Perfect for collectors and enthusiasts. Get your Hot Wheels Honda City Turbo II today!
@@ -2097,7 +2097,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/943.jpg?v=1771345169
   Price: ₹349.00 INR
 - [HOT WHEELS 94 TOYOTA SUPRA - Iconic Die-Cast Collectible Model Car](https://theworldofnerds.com/products/hot-wheels-94-toyota-supra): Discover the iconic Hot Wheels 94 Toyota Supra! Perfect for collectors and racing enthusiasts, this detailed diecast model captures the spirit of speed and style. Add it to your collection today!
-  Updated: 2026-04-11T17:38:46Z
+  Updated: 2026-04-25T04:55:47Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -2482,10 +2482,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_2_1a44476f-8f8c-42df-a116-9f49609fb3fa.png?v=1771348307
   Price: ₹4,699.00 INR
 - [Rengoku Nichirin Katana Enma LED Neon Wooden Collectible Sword](https://theworldofnerds.com/products/rengoku-nichirin-enma-light-katana): Illuminate your collection with the Rengoku Nichirin Katana Enma LED Neon Wooden Collectible Sword. Perfect for fans and collectors, this stunning piece is a must-have!
-  Updated: 2026-02-17T17:13:54Z
+  Updated: 2026-04-23T18:47:57Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/12.png?v=1731329436
   Price: ₹4,699.00 INR
 - [Tanjiro Katana Neon Light - Enma LED Wooden Katana Decor](https://theworldofnerds.com/products/tanjiro-nichirin-enma-light-katana): Illuminate your space with the Tanjiro Katana Neon Light! This stunning wooden katana features vibrant LED neon accents, perfect for any anime fan’s collection.
@@ -2524,11 +2524,11 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_6_83538c1b-af3d-4e9b-ab24-8b51ed3a8556.png?v=1771348731
   Price: ₹1,999.00 INR
 - [Tanjiro Nichirin Katana - Authentic Wooden Replica from Demon Slayer](https://theworldofnerds.com/products/tanjiro-nichirin-katana): Meta Description: Discover the Tanjiro Nichirin Katana, an authentic wooden replica from Demon Slayer. Perfect for collectors and fans, this stunning sword adds charm to any display.
-  Updated: 2026-03-22T19:15:07Z
+  Updated: 2026-04-28T16:12:22Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/4_3c70ccf8-d97f-488d-a23a-55a0141da8ac.jpg?v=1771348797
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_9fd607ec-dced-49bf-85e3-206028d1a76d.jpg?v=1776430698
   Price: ₹1,999.00 INR
 - [SHINOBU-NICHIRIN KATANA - Exquisite Wooden Sword for Collectors](https://theworldofnerds.com/products/shinobu-nichirin-katana): Discover the SHINOBU-NICHIRIN KATANA, an exquisite wooden sword crafted for collectors. Perfectly balances elegance and authenticity. Elevate your collection today!
   Updated: 2026-02-17T17:21:06Z
@@ -2594,11 +2594,11 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_1_04bac191-bd54-4cd0-81f7-1fd701ff829e.png?v=1731333479
   Price: ₹1,999.00 INR
 - [Sanemi Shinazugawa Katana - Authentic Nichirin Wooden Collectible](https://theworldofnerds.com/products/zoro-wada-ichimonji-katana): Meta Description: Discover the authentic Sanemi Shinazugawa katana, a stunning collectible crafted from high-quality Nichirin wood. Perfect for enthusiasts and collectors alike!
-  Updated: 2026-04-04T11:01:52Z
+  Updated: 2026-04-27T04:39:22Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_3ecca723-a517-42a8-898c-91e6e39a634f.jpg?v=1771349553
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_7474b364-1cbf-47c7-b60f-96355c15a3c3.jpg?v=1776431398
   Price: ₹1,999.00 INR
 - [Zoro Sandai Kitetu Wooden Katana - Collector's Masterpiece for Fans](https://theworldofnerds.com/products/soro-sandai-kitetsu-katana): Discover the Zoro Sandai Kitetu Wooden Katana, a collector's masterpiece that embodies craftsmanship and elegance. Perfect for display or cosplay, elevate your collection today!
   Updated: 2026-03-05T05:55:46Z
@@ -2643,35 +2643,35 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_4_06bb2f63-79c1-4012-b493-6e178fb89dc8.png?v=1771349910
   Price: ₹2,399.00 INR
 - [Tanjiro Nichirin Katana - Authentic Tanjiro New Nichirin Wooden Katana](https://theworldofnerds.com/products/tanjiro-new-nichiirin-katana): Experience the ultimate in anime collectibles with our Tanjiro Nichirin Katana. This authentic wooden replica captures the essence of Tanjiro's , perfect for display or cosplay.
-  Updated: 2026-04-11T17:38:41Z
+  Updated: 2026-04-27T20:43:57Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_9f5fe232-fec8-4950-911e-6c22ee1a9c82.jpg?v=1771349976
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_8c645da2-01cf-46e9-88e1-8a859cd7394d.jpg?v=1776430823
   Price: ₹1,999.00 INR
 - [Inosuke Wooden Katana - Authentic and Stylish Collectible Blade](https://theworldofnerds.com/products/inosuke-katana): Unleash your inner warrior with the INOSUKE WOODEN KATANA. This beautifully crafted katana offers unmatched quality and authenticity, perfect for collectors and fans alike.
-  Updated: 2026-02-18T10:03:11Z
+  Updated: 2026-04-21T21:03:58Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitled_1_30ff87c4-a65b-44c0-b055-a52a2850a8ed.png?v=1771350044
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_2_86ccd846-4f62-49c7-8059-76be7636de60.jpg?v=1776688192
   Price: ₹1,999.00 INR
 - [Iron Man Keychain - Perfect Gift for Marvel Fans and Collectors](https://theworldofnerds.com/products/iron-man-keychain-1): Shop our IRON MAN KEYCHAIN, a must-have accessory for fans! Durable and stylish, this keychain adds a heroic touch to your keys. Grab yours now and show off your Marvel pride!
-  Updated: 2026-02-17T17:42:20Z
+  Updated: 2026-04-25T08:27:07Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_9b363b41-e1ed-4f5f-9c95-68894e09773b.jpg?v=1771350097
   Price: ₹149.00 INR
 - [Captain America Keychain - Iconic Marvel Accessory to Show Your Pride](https://theworldofnerds.com/products/captian-america-keychain): Elevate your style with our Captain America Keychain. Show your Marvel pride and carry a piece of heroism wherever you go. Ideal for fans and collectors alike!
-  Updated: 2026-03-22T09:24:49Z
+  Updated: 2026-04-25T20:29:56Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_08fb134b-936c-4c3e-80bd-51fa84c75de2.jpg?v=1771350154
   Price: ₹149.00 INR
 - [Doctor Strange Keychain - Unique Marvel Accessory for Fans and Collectors](https://theworldofnerds.com/products/doctor-strange-keychain-1): Unlock the magic of the multiverse with our Doctor Strange Keychain. Perfect for fans, this vibrant keychain is a must-have accessory. Grab yours today and showcase your love for Doctor Strange!
-  Updated: 2026-03-22T14:21:27Z
+  Updated: 2026-04-22T03:39:46Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -2692,7 +2692,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_f719c6a2-3a70-42b5-9f13-85d949067a99.jpg?v=1771350330
   Price: ₹149.00 INR
 - [Messi Football Keychain - Perfect Gift for Football Fans and Collector](https://theworldofnerds.com/products/messi-football-keychain): Unlock your passion for football with our Messi Football Keychain. Perfect for fans, this stylish accessory showcases your love for the game and the legendary player.
-  Updated: 2026-02-17T17:47:14Z
+  Updated: 2026-04-18T01:37:51Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -2741,7 +2741,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_c4dd0cf6-0845-407c-a2a2-cd6d12fda54b.jpg?v=1771350741
   Price: ₹149.00 INR
 - [Dragon Ball Z Goku Keychain - Perfect Collectible for Fans and Gifts](https://theworldofnerds.com/products/dragon-ball-z-goku-keychain): Unlock your passion for anime with our Dragon Ball Z Goku Keychain! Perfect for fans, this durable accessory keeps Goku close, adding style and nostalgia to your keys. Buy now!
-  Updated: 2026-03-15T13:36:17Z
+  Updated: 2026-04-27T12:26:32Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -2755,28 +2755,28 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_a8b8f566-0308-44cc-bfbe-7b8df8e5bd85.jpg?v=1771350855
   Price: ₹149.00 INR
 - [Dragon Ball Z Goku Keychain - Must-Have Collectible for Fans](https://theworldofnerds.com/products/dragon-ball-z-son-goku): Discover the Dragon Ball Z Goku Keychain, the ultimate collectible for fans! This stylish and durable keychain showcases your love for Goku. Perfect for everyday use!
-  Updated: 2026-03-18T11:55:47Z
+  Updated: 2026-04-25T20:44:19Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_058cd023-6e7c-4d35-9482-972d4a7d670d.jpg?v=1771350924
   Price: ₹149.00 INR
 - [Dragon Ball Z Goku Keychain - Ultimate Collectible for Fans, Shop Now](https://theworldofnerds.com/products/dragon-ball-z-son-goku-1): Meta Description: Unlock your fandom with our Dragon Ball Z Goku Keychain! This ultimate collectible for fans is perfect for showcasing your love for Goku. Grab yours today!
-  Updated: 2026-02-17T17:57:02Z
+  Updated: 2026-04-27T12:26:31Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_5a358d8f-7732-4e23-bf9b-c71208b6f19b.jpg?v=1771350981
   Price: ₹149.00 INR
 - [Sanji Keychain - One Piece Collector's Item for Anime Fans](https://theworldofnerds.com/products/one-piece-sanji): Unlock your love for One Piece with our Sanji keychain! This stylish accessory showcases your favorite chef in vibrant detail. Perfect for fans, grab yours today!
-  Updated: 2026-03-23T13:18:56Z
+  Updated: 2026-04-23T08:15:51Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_4da96503-3087-4d36-a091-01a40950da1f.jpg?v=1771351037
   Price: ₹149.00 INR
 - [Dragon Ball Z Vegeta Keychain - Ultimate Collector's Accessory](https://theworldofnerds.com/products/dragon-ball-z-vegeta): Elevate your collection with the Dragon Ball Z Vegeta Keychain! Perfect for fans and collectors, this stylish keychain showcases Vegeta's fierce spirit. Grab yours now!
-  Updated: 2026-02-17T17:58:57Z
+  Updated: 2026-04-22T09:57:55Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -2790,7 +2790,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_3c73abaa-a267-416b-af3e-4d47072a28c8.jpg?v=1771351151
   Price: ₹149.00 INR
 - [Blossom Powerpuff Girls Keychain - Cute and Stylish Accessory for Fans](https://theworldofnerds.com/products/blossom-the-powerpuff-girls): Add a touch of charm to your accessories with our Blossom Powerpuff Girls keychain. This cute and stylish accessory is perfect for fans and collectors alike. Grab yours today!
-  Updated: 2026-02-17T18:00:58Z
+  Updated: 2026-04-22T16:05:27Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -2839,10 +2839,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e90f3783-8afc-4307-b83e-b8ba808c456f.jpg?v=1771351578
   Price: ₹149.00 INR
 - [Dragon Ball Z Trunks Keychain - Super Saiyan Collectible Charm Gift](https://theworldofnerds.com/products/dragon-ball-z-super-saiyan-trunks-keychain): Elevate your collection with our Dragon Ball Z Trunks Keychain. This Super Saiyan collectible charm is perfect for fans and makes a great gift for any anime enthusiast!
-  Updated: 2026-02-17T18:07:57Z
+  Updated: 2026-04-27T08:42:47Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_6814e2f6-c52f-4fa7-aa0b-ea08bdda8c8a.jpg?v=1771351635
   Price: ₹149.00 INR
 - [Pokemon Squirtle Keychain - Adorable Tracksuit Collectible Charm](https://theworldofnerds.com/products/pokemon-squirtle-in-tracksuit-keychain): Discover the adorable Pokemon Squirtle Keychain in a stylish tracksuit! This collectible charm is perfect for fans and makes a great gift. Get yours today!
@@ -2895,14 +2895,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_8eaee9e4-36b9-4301-bd38-0c0df411990b.jpg?v=1771352077
   Price: ₹149.00 INR
 - [MESSI FOOTBALL KEYCHAIN - Perfect Gift for Soccer Fans and Collectors](https://theworldofnerds.com/products/messi-football-keychain-2): Shop our Messi Football Keychain, the perfect accessory for every football fan! Show your support for Lionel Messi and keep your keys stylishly organized. Get yours today!
-  Updated: 2026-03-18T11:55:46Z
+  Updated: 2026-04-18T01:37:51Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_f664f755-907a-47f8-9c42-0598f18e7940.jpg?v=1771352139
   Price: ₹149.00 INR
 - [Dragon Ball Z Keychain - Super Saiyan Goku Collector's Accessory](https://theworldofnerds.com/products/dragon-ball-z-super-saiyan-goku-keychain): Unlock your inner warrior with our Dragon Ball Z Keychain! This Super Saiyan Goku collector's accessory is perfect for fans. Grab yours today and carry the power!
-  Updated: 2026-02-17T18:17:16Z
+  Updated: 2026-04-27T12:26:27Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -2937,7 +2937,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_2b72856e-cdf6-47f8-9849-b2a8e200444c.jpg?v=1771352423
   Price: ₹149.00 INR
 - [Dragon Ball Z Keychain - Collectible Goku & Vegeta Charm for Fans](https://theworldofnerds.com/products/dragon-ball-z-vegita-goku-keychain): Elevate your collection with our Dragon Ball Z keychain featuring iconic Vegeta and Goku charms. Perfect for fans and collectors alike. Get yours today and showcase your love for Dragon Ball Z!
-  Updated: 2026-02-17T18:22:02Z
+  Updated: 2026-04-27T12:26:28Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -2958,7 +2958,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_3cb5a7a5-1196-4f99-b687-1e96a224f839.jpg?v=1771352594
   Price: ₹149.00 INR
 - [Bleach Ichigo Kurosaki Keychain - Perfect Anime Collectible for Fans](https://theworldofnerds.com/products/bleach-hallow-ichigo-krosaki-keychain): Enhance your anime collection with our Bleach Ichigo Kurosaki Keychain. This perfect collectible features stunning details, making it a must-have for any Bleach fan!
-  Updated: 2026-03-14T13:16:42Z
+  Updated: 2026-04-22T03:39:45Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -2972,35 +2972,35 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_586911b3-795e-4cc7-a1f5-7e5605a94ca6.jpg?v=1771352724
   Price: ₹149.00 INR
 - [Dragon Ball Z Goku Keychain - Super Saiyan Collectible Accessory](https://theworldofnerds.com/products/dragon-ball-z-super-saiyan-goku-keychain-1): Unlock the power of the Dragon Ball Z Goku Keychain! This Super Saiyan collectible accessory is perfect for fans. Grab yours today and showcase your love for Goku!
-  Updated: 2026-02-17T18:27:19Z
+  Updated: 2026-04-27T12:26:29Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_aa135d3b-74cd-4869-842c-6c6dcd156e0d.jpg?v=1771352796
   Price: ₹149.00 INR
 - [Minion Kevin Keychain - Fun and Adorable Accessory for Fans](https://theworldofnerds.com/products/minion-kevin-keychain): Get your hands on our adorable Minion Kevin Keychain! Perfect for fans of the Minions, this fun accessory adds a playful touch to your keys or bags. Shop now!
-  Updated: 2026-03-18T15:34:18Z
+  Updated: 2026-04-20T08:27:07Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_89e85936-44a3-4b76-aaea-b131e37064c0.jpg?v=1771352854
   Price: ₹149.00 INR
 - [Harry Potter Keychain - Harry Potter & Hermione Design Accessory](https://theworldofnerds.com/products/harry-patter-hermione-keychain): Unlock the magic with our Harry Potter keychain featuring Harry and Hermione! Perfect for fans, this charming accessory is a must-have to showcase your love for the wizarding world.
-  Updated: 2026-02-17T18:29:15Z
+  Updated: 2026-04-22T03:39:49Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e93f1b5a-d162-486d-b6d0-6512cd22f0a2.jpg?v=1771352911
   Price: ₹149.00 INR
 - [Harry Potter Hedwig Keychain - Enchanting Owl Companion Accessory](https://theworldofnerds.com/products/harry-potter-with-owl-hedwig-keychain): Unlock the magic of the wizarding world with our Harry Potter Hedwig keychain. Perfect for fans and collectors, this charming accessory features Hedwig, adding a touch of enchantment to your keys!
-  Updated: 2026-02-17T18:30:16Z
+  Updated: 2026-04-25T20:44:19Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_b542c136-f799-451d-a2d4-a5d97b78152b.jpg?v=1771352969
   Price: ₹149.00 INR
 - [Blossom Powerpuff Girls Keychain - Cute Accessories for Fans](https://theworldofnerds.com/products/blossom-the-powerpuff-girls-keychain-1): Unlock your style with our Blossom Powerpuff Girls keychain! Perfect for adding a cute touch to your accessories, this keychain is a must-have for every fan. Shop now!
-  Updated: 2026-03-15T07:26:07Z
+  Updated: 2026-04-22T03:39:45Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -3035,7 +3035,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/s1000rr-551_2048x2048_7588fd21-38cd-4e13-b7b8-b339fa43d76b.webp?v=1771353253
   Price: ₹795.00 INR
 - [Maisto Ducati 1098 S Model - 1:18 Scale Diecast Collectible Motorcycle](https://theworldofnerds.com/products/maisto-ducati-diecast-1098-s-scale-1-18): Discover the stunning Maisto Ducati 1098 S model in 1:18 scale. This precision diecast collectible captures every detail. Perfect for collectors and Ducati enthusiasts alike!
-  Updated: 2026-02-17T18:35:49Z
+  Updated: 2026-04-26T07:41:27Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -3490,7 +3490,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_6.jpg?v=1771357107
   Price: ₹2,295.00 INR
 - [BBURAGO Land Rover Defender 110 1:24 Scale Model Car - Perfect Collectible](https://theworldofnerds.com/products/bburago-2022-land-rover-defender-110-scale-1-24): Discover the BBURAGO Land Rover Defender 110 1:24 Scale Model Car, a stunning collectible that combines detail and craftsmanship. Perfect for enthusiasts and collectors alike!
-  Updated: 2026-02-26T11:10:51Z
+  Updated: 2026-04-16T12:52:37Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -3854,7 +3854,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_78.jpg?v=1771360132
   Price: ₹899.00 INR
 - [RMZ CITY Volkswagen T-Roc Pullback Scale 1:32 Model – Buy Now!](https://theworldofnerds.com/products/rmz-city-volkswagen-t-roc-pullback-scale-1-32): Discover the RMZ CITY Volkswagen T-Roc pullback scale model (1:32). Perfect for collectors and kids alike, this detailed replica ensures hours of fun and excitement!
-  Updated: 2026-03-04T13:20:57Z
+  Updated: 2026-04-22T16:39:56Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -4400,7 +4400,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_2_4.jpg?v=1738747393
   Price: ₹799.00 INR
 - [Hot Wheels Dodge Van - Collectible Die-Cast Model for Enthusiasts](https://theworldofnerds.com/products/hot-wheels-dodge-van): Discover the iconic Hot Wheels Dodge Van! This collectible toy features stunning design and performance. Perfect for fans and collectors alike. Get yours today!
-  Updated: 2026-02-11T06:12:14Z
+  Updated: 2026-04-27T16:05:25Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -4477,17 +4477,17 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_18.jpg?v=1738748287
   Price: ₹499.00 INR
 - [Hot Wheels Alfa Romeo GTV6 3.0 - Collector's Diecast Model Car](https://theworldofnerds.com/products/hot-wheels-alfa-romeo-gtv6-3-0): Discover the thrilling HOT WHEELS ALFA ROMEO GTV6 3.0, a must-have for collectors and car enthusiasts. Experience speed and style in one stunning model. Get yours today!
-  Updated: 2026-02-26T11:06:27Z
+  Updated: 2026-04-21T08:07:47Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_2.png?v=1738748369
   Price: ₹399.00 INR
 - [Hot Wheels 98 Subaru Impreza - STI Version for Collectors and Fans](https://theworldofnerds.com/products/hot-wheels-98-subaru-impreza-22b-sti-version): Discover the iconic HOT WHEELS 98 SUBARU IMPREZA 22B - STI VERSION. Perfect for collectors and racing fans, this model captures the spirit of performance and style. Don’t miss out!
-  Updated: 2026-02-11T06:12:15Z
+  Updated: 2026-04-21T08:07:48Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_20.jpg?v=1738748443
   Price: ₹349.00 INR
 - [Hot Wheels Bugatti Bolide - High-Speed Die-Cast Car for Collectors](https://theworldofnerds.com/products/hot-wheels-bugatti-bolide): Experience the thrill of speed with the HOT WHEELS BUGATTI BOLIDE. This stunning die-cast model showcases incredible detail and craftsmanship. Perfect for collectors and enthusiasts!
@@ -4561,7 +4561,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/12_05c0ea91-b318-4618-80cc-d9a07f9ffd0c.jpg?v=1742889859
   Price: ₹449.00 INR
 - [Naruto Sharingan Rings Set - Collectible 10 Ring Set for Fans](https://theworldofnerds.com/products/naruto-sharingam-set-of-rings): Discover the Naruto Sharingan Rings Set, a collectible 10-ring set perfect for fans. Enhance your collection and showcase your love for Naruto with these stunning pieces!
-  Updated: 2026-02-26T10:18:15Z
+  Updated: 2026-04-21T21:35:29Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -4694,7 +4694,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7317.jpg?v=1739193801
   Price: ₹1,299.00 INR
 - [Vegeta Super Saiyan Action Figure - Dragon Ball Super Collectible Toy](https://theworldofnerds.com/products/vegeta-super-saiyan-dragon-ball-super-action-figure): Unleash the power of the universe with our Vegeta Super Saiyan action figure from Dragon Ball Super! Perfect for collectors and fans alike, featuring stunning details. Grab yours today!
-  Updated: 2026-02-11T22:36:34Z
+  Updated: 2026-04-26T20:00:38Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -4778,17 +4778,17 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7300.jpg?v=1739343065
   Price: ₹1,100.00 INR
 - [Kid Goku Action Figure - Ultimate Collectible on Flying Nimbus](https://theworldofnerds.com/products/kid-goku-on-flying-nimbus-action-figure): Meta description: Experience the magic of the Kid Goku action figure riding the Flying Nimbus! Perfect for collectors, this Ultimate Kid Goku action figure brings your favorite character to life.
-  Updated: 2026-02-11T22:48:39Z
+  Updated: 2026-04-24T17:10:12Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7286.jpg?v=1739343322
   Price: ₹599.00 INR
 - [Anime Vegeta Action Figure - Ultimate Super Saiyan Collectible Figure](https://theworldofnerds.com/products/anime-vegeta-super-saiyan-action-figure): Meta description: Discover the ultimate anime Vegeta action figure! This Super Saiyan collectible is perfect for any fan, combining style and detail to elevate your collection.
-  Updated: 2026-02-11T23:25:23Z
+  Updated: 2026-04-25T04:55:47Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7245.jpg?v=1739343515
   Price: ₹949.00 INR
 - [Super Saiyan Vegeta Action Figure - Dragon Ball Collectible](https://theworldofnerds.com/products/super-saiyan-dragon-ball-vegeta-action-figure): Unleash the power of the Super Saiyan Vegeta Action Figure! This Dragon Ball collectible toy is perfect for fans and collectors alike. Add this iconic figure to your collection today!
@@ -4813,10 +4813,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7305.jpg?v=1739344129
   Price: ₹399.00 INR
 - [Dragon Ball Goku Action Figure - Super Saiyan Self Standing Collectible](https://theworldofnerds.com/products/dragon-ball-goku-super-saiyan-self-standing-action-figure): Unleash your inner Saiyan with our Dragon Ball Goku Super Saiyan Self Standing Action Figure! This collectible dragon ball goku action figure is perfect for fans of all ages. Grab yours today!
-  Updated: 2026-03-30T10:33:26Z
+  Updated: 2026-04-26T20:00:42Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7271.jpg?v=1739344271
   Price: ₹399.00 INR
 - [Dragon Ball Super Gogeta Figure – Collectible Blue Gogeta Action Figure](https://theworldofnerds.com/products/dragon-ball-super-blue-gogeta-action-figure): Elevate your collection with the Dragon Ball Super Gogeta Figure. This stunning collectible action figure of Blue Gogeta captures every detail for true fans. Get yours now!
@@ -4834,7 +4834,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7279.jpg?v=1739344636
   Price: ₹399.00 INR
 - [Dragon Ball Goku Action Figure - Silver Hair Collectible](https://theworldofnerds.com/products/dragon-ball-goku-with-silver-hair-action-figure): Get the ultimate Dragon Ball Goku Action Figure with Silver Hair! This collectible figure is perfect for fans and collectors. Elevate your Dragon Ball collection today!
-  Updated: 2026-02-26T12:49:51Z
+  Updated: 2026-04-24T09:23:56Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -4904,10 +4904,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_3ed96b23-42cc-42fb-89c3-91b9637d4c15.jpg?v=1739599279
   Price: ₹399.00 INR
 - [Pokemon Set of 6 - Collectible Figures for Enthusiasts](https://theworldofnerds.com/products/pokemon-collection): Discover our exclusive Pokemon Set of 6! Perfect for collectors and fans, this set features vibrant designs and quality craftsmanship. Grab your Pokemon Set of 6 today!
-  Updated: 2026-02-11T11:32:55Z
+  Updated: 2026-04-24T16:44:47Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7486copy.jpg?v=1739878527
   Price: ₹999.00 INR
 - [Shin Chan Figurine Set - Collectible Set of 6 Adorable Shin Chan Figures](https://theworldofnerds.com/products/shin-chan-collection): Discover the SHIN CHAN SET OF 6 - Collectible Shin Chan Figurine Set! Perfect for fans, this vibrant set adds joy to any collection. Grab your unique shin chan figurine set today!
@@ -5002,10 +5002,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7374copy.jpg?v=1739880295
   Price: ₹599.00 INR
 - [Kakashi Hatake Action Figure - Collectible Naruto Toy for Fans](https://theworldofnerds.com/products/naruto-kakashi-hatake-action-figure): Explore our NARUTO - KAKASHI HATAKE ACTION FIGURE! This highly detailed Kakashi Hatake action figure is perfect for collectors and fans. Order yours today and bring home your favorite ninja!
-  Updated: 2026-02-26T13:09:16Z
+  Updated: 2026-04-27T16:22:21Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7405copy.jpg?v=1739880469
   Price: ₹599.00 INR
 - [One Piece Dracule Mihawk Collectible Figure - Hawk Eyes Display Item](https://theworldofnerds.com/products/one-piece-dracule-mihawh-hawk-eyes): Discover the stunning One Piece Dracule Mihawk (Hawk Eyes) Collectible Figure. Perfect for fans and collectors alike, elevate your One Piece collection today!
@@ -5121,10 +5121,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7626copy.jpg?v=1739950783
   Price: ₹499.00 INR
 - [Kakashi Action Figure - Collectible Naruto Toy for Fans and Collectors](https://theworldofnerds.com/products/kakashi-action-figure): Meta description: Discover the ultimate Kakashi action figure for collectors and fans alike. Perfectly detailed, this figure brings your favorite Naruto character to life. Order now!
-  Updated: 2026-02-17T06:48:17Z
+  Updated: 2026-04-19T06:54:58Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7633copy.jpg?v=1739950870
   Price: ₹499.00 INR
 - [Demon Slayer Collectibles Set of 12 - Must-Have Anime Figures](https://theworldofnerds.com/products/demon-slayer-set-of-12): Discover the ultimate Demon Slayer collectibles set! This set of 12 must-have anime figures is perfect for fans and collectors alike. Elevate your collection today!
@@ -5275,7 +5275,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7767copy.jpg?v=1740115344
   Price: ₹1,050.00 INR
 - [Black Lamborghini Urus Model Car - 1:24 Scale Diecast Collectible](https://theworldofnerds.com/products/black-lamborghini-urus-scale-1-24): Discover the exquisite black Lamborghini Urus model car in stunning 1:24 scale. This diecast collectible is perfect for enthusiasts and makes a great gift for car lovers.
-  Updated: 2026-02-20T22:19:56Z
+  Updated: 2026-04-21T05:30:20Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -5394,10 +5394,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7720copy.jpg?v=1740119083
   Price: ₹599.00 INR
 - [NARUTO GAARA D1 ACTION FIGURE](https://theworldofnerds.com/products/gaara-d1-action-figure): Introducing the GAARA D1 ACTION FIGURE, a must-have for any fan of the popular anime series. Crafted with incredible attention to detail, this action figure brings the beloved character to life. Made with durable materials, it is perfect for imaginative play and display. Expand your collection with the GAARA D1 ACTION FIGURE today.
-  Updated: 2026-02-11T06:12:18Z
+  Updated: 2026-04-28T19:08:07Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC7716copy.jpg?v=1740119158
   Price: ₹599.00 INR
 - [SASUKE UCHIHA D2 ACTION FIGURE](https://theworldofnerds.com/products/sasuke-uchiha-d2-action-figure): This SASUKE UCHIHA D2 ACTION FIGURE is expertly designed and crafted to bring your favorite anime character to life. Made with high-quality materials, it features intricate details and precise measurements, making it a must-have for collectors and fans alike. Display it proudly and recreate epic scenes from the series.
@@ -5884,10 +5884,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC8140copy.jpg?v=1740220858
   Price: ₹150.00 INR
 - [BUFFALO](https://theworldofnerds.com/products/buffalo): Introducing BUFFALO, the ultimate toy for your furry friend. Made with high-quality materials, this durable toy is perfect for your dog's playtime. Its unique design and texture provide hours of entertainment and exercise, promoting physical and mental well-being. Give your dog the gift of fun with BUFFALO.
-  Updated: 2026-02-11T06:12:22Z
+  Updated: 2026-04-16T14:49:47Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC8083copy.jpg?v=1740220928
   Price: ₹150.00 INR
 - [GOAT](https://theworldofnerds.com/products/goat): The GOAT toy is more than just a toy; it's an interactive learning experience. With its advanced technology and engaging design, the GOAT toy provides endless hours of educational fun. Perfect for children of all ages, the GOAT toy promotes critical thinking, problem-solving, and motor skills. Expand your child's imagination with the GOAT.
@@ -6038,10 +6038,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC8745copy.jpg?v=1740483735
   Price: ₹12,100.00 INR
 - [Dragon Ball Z Saiyans Action Figures Set of 21 – Collectible Figures](https://theworldofnerds.com/products/d1-dragon-ball-z-saiyans-set-of-21): Elevate your collection with the D1 Dragon Ball Z Saiyans Action Figures Set of 21. Perfect for fans and collectors, these Dragon Ball Z Saiyans Action Figures bring your favorite characters to life!
-  Updated: 2026-02-21T17:49:53Z
+  Updated: 2026-04-23T18:36:38Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC8614copy.jpg?v=1740489942
   Price: ₹1,999.00 INR
 - [Dragon Ball Z Saiyans Action Figures Set of 9 - Collectible Figures](https://theworldofnerds.com/products/d2-dragon-ball-z-saiyans-set-of-9): Unleash your inner warrior with the D2-Dragon Ball Z Saiyans Action Figures Set of 9! Perfect for collectors and fans, these Dragon Ball Z Saiyans action figures are a must-have.
@@ -6192,7 +6192,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_20250228_181807_017_1538408961.jpg?v=1740748651
   Price: ₹799.00 INR
 - [YELLOW-SCARLET+VIOLET POKEMON  CARDS GAME PK98](https://theworldofnerds.com/products/yellow-scarlet-violet-pokemon--cards-game-pk98): Experience the thrill of the game with YELLOW-SCARLET+VIOLET POKEMON  CARDS GAME PK98. Collect and trade your favorite Pokemon cards while expanding your strategy and skill. With vibrant colors and exciting gameplay, this game is perfect for both beginners and experts alike. Start your card collection now!
-  Updated: 2026-03-23T06:50:35Z
+  Updated: 2026-04-26T22:09:27Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -6318,7 +6318,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_6062_874476661.jpg?v=1741421215
   Price: ₹199.00 INR
 - [MAJORETTE CHEVROLET SILVERADO](https://theworldofnerds.com/products/majorette-chevrolet-silverado): The MAJORETTE CHEVROLET SILVERADO is a highly detailed replica of the iconic truck. With precise design and craftsmanship, this model accurately captures the sleek and rugged style of the real Silverado. Perfect for collectors or young car enthusiasts, this model showcases the best of the Chevrolet brand.
-  Updated: 2026-02-11T06:12:21Z
+  Updated: 2026-04-23T13:09:19Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -6402,7 +6402,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_6079_909570459.jpg?v=1741425204
   Price: ₹199.00 INR
 - [MAJORETTE ISUZU D-MAX](https://theworldofnerds.com/products/majorette-isuzu-d-max): As a leader in the toy car industry, Majorette presents the Isuzu D-Max, a sturdy and realistic die-cast model of the popular pick-up truck. With its intricate details and durable construction, this toy is perfect for both playing and collecting. Bring the thrill of the road to life with the Majorette Isuzu D-Max.
-  Updated: 2026-03-05T09:17:38Z
+  Updated: 2026-04-23T13:09:19Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -6493,10 +6493,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_6055_848618073.jpg?v=1741428766
   Price: ₹349.00 INR
 - [MAJORETTE VOLVO CONSTRUCTION FMX TIPPER](https://theworldofnerds.com/products/majorette-volvo-construction-fmx-tipper): This MAJORETTE VOLVO CONSTRUCTION FMX TIPPER is an expertly crafted, durable toy truck that features a realistic design and functional tipper bed. Perfect for young builders, this truck allows for imaginative play and helps develop motor skills. Made with high-quality materials for long-lasting playtime enjoyment.
-  Updated: 2026-03-05T07:50:08Z
+  Updated: 2026-04-16T11:00:52Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_6056_849541594_d16d5c6a-fc2f-4ee3-84a6-88413b5eb4e1.jpg?v=1741428854
   Price: ₹349.00 INR
 - [MAJORETTE VOLVO CONSTRUCTION WHEEL LOADER L350H](https://theworldofnerds.com/products/majorette-volvo-construction-wheel-loader-l350h): The MAJORETTE VOLVO CONSTRUCTION WHEEL LOADER L350H is a high-quality miniature replica of the real Volvo Construction Wheel Loader L350H. With its precise and realistic detailing, this toy promises to provide hours of imaginative play for children. It is also a perfect collectible for hobbyists and enthusiasts, allowing them to appreciate the engineering and design of the real vehicle.
@@ -6563,7 +6563,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_20250308_155552_419.jpg?v=1741432494
   Price: ₹349.00 INR
 - [MAJORETTE VOLKSWAGEN T 3](https://theworldofnerds.com/products/majorette-volkswagen-t-3): Discover the iconic MAJORETTE VOLKSWAGEN T 3, a classic model that will take you on a journey back in time. This highly detailed toy car is perfect for collectors and car enthusiasts alike. Crafted with precision and quality, it will add a touch of nostalgia to any collection.
-  Updated: 2026-02-11T06:12:21Z
+  Updated: 2026-04-21T18:23:08Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -6626,7 +6626,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_c76d2253-8441-49d3-9c9f-4c0c64fa38ea.jpg?v=1741610444
   Price: ₹349.00 INR
 - [MAJORETTE AIRPLANES BOEING 787-9](https://theworldofnerds.com/products/majorette-airplanes-boeing-787-9): The MAJORETTE AIRPLANES BOEING 787-9 is a highly-detailed and accurately-sized model of the popular commercial airliner. With realistic features and expert craftsmanship, this model is perfect for collectors or aviation enthusiasts. Bring the beauty and sophistication of the Boeing 787-9 into your home or office with this exquisite model.
-  Updated: 2026-02-20T11:56:12Z
+  Updated: 2026-04-26T07:04:18Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -6759,7 +6759,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_20250308_160100_851.jpg?v=1741436497
   Price: ₹499.00 INR
 - [MAJORETTE AIRPLANE A350-900](https://theworldofnerds.com/products/majorette-airplane-a350-900): Experience the thrill of flight with MAJORETTE AIRPLANE A350-900. With its realistic design and attention to detail, this toy is perfect for kids who love airplanes. Made with high-quality materials, this airplane is durable and will provide hours of entertainment. Take off on your imagination and travel to new heights!
-  Updated: 2026-02-20T11:56:17Z
+  Updated: 2026-04-26T07:04:17Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -6850,10 +6850,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_20250310_110318_161_318033906.jpg?v=1741598559
   Price: ₹799.00 INR
 - [MAJORETTE VOLKSWAGEN CRAFTER & MAERSK AIR CARGO LOGISTIC](https://theworldofnerds.com/products/majorette-volkswagen-crafter-maersk-air-cargo-logistic): This MAJORETTE VOLKSWAGEN CRAFTER & MAERSK AIR CARGO LOGISTIC set features a highly detailed Volkswagen Crafter van and a Maersk Air Cargo Logistic truck. With its realistic design and sturdy construction, this set offers endless hours of imaginative play for young vehicle enthusiasts. Perfect for collectors or as a gift for children interested in logistics and transportation.
-  Updated: 2026-02-14T15:38:27Z
+  Updated: 2026-04-21T15:41:41Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_20250310_105757_188_-550864240.jpg?v=1741598723
   Price: ₹799.00 INR
 - [MAJORETTE VOLKSWAGEN T 1 ALOHA CAMPING](https://theworldofnerds.com/products/majorette-volkswagen-t-1-aloha-camping): Featuring the iconic MAJORETTE VOLKSWAGEN T 1 ALOHA CAMPING design, this toy car is a must-have for collectors and playtime alike. Built with precision and detail, it's perfect for sparking imaginative adventures and showcasing the classic VW style. Add this high-quality, durable toy to your collection today.
@@ -6892,7 +6892,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/IMG_20250310_110825_834_-1606431424.jpg?v=1741599519
   Price: ₹599.00 INR
 - [MAJORETTE VOLKSWAGEN T 3 SAFARI EXPERIENCE](https://theworldofnerds.com/products/majorette-volkswagen-t-3-safari-experience): The MAJORETTE VOLKSWAGEN T 3 SAFARI EXPERIENCE is the perfect toy for young adventurers. With realistic details and sturdy construction, this toy vehicle will provide hours of imaginative play. Let your child explore the wild with this high-quality toy. Made for kids who love to explore the world!
-  Updated: 2026-02-20T11:53:37Z
+  Updated: 2026-04-21T18:23:08Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -6997,10 +6997,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1375_1.jpg?v=1742379691
   Price: ₹1,199.00 INR
 - [GOKU SS 2 ACTION FIGURE](https://theworldofnerds.com/products/goku-ss-2-action-figure): Experience the ultimate power of Goku with our SS 2 action figure. Crafted with precision and attention to detail, this figure brings your favorite anime character to life. Made from high-quality materials, this figure is perfect for displaying or adding to your collection. Unleash the warrior within with our Goku SS 2 action figure.
-  Updated: 2026-02-27T19:41:22Z
+  Updated: 2026-04-21T07:48:56Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1376_2.jpg?v=1742379900
   Price: ₹1,199.00 INR
 - [TRUNKS SS 2 ACTION FIGURE](https://theworldofnerds.com/products/trunks-ss-2-action-figure): Introducing the TRUNKS SS 2 ACTION FIGURE - the perfect collectible for any fan of the popular anime series! Crafted with attention to detail, this action figure captures the strength and power of the character Trunks at Super Saiyan 2 level. Made to impress, this figure will be a valuable addition to any collection.
@@ -7340,14 +7340,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_61df7d18-acdc-41ba-87cc-708e62eb16ee.jpg?v=1742887860
   Price: ₹299.00 INR
 - [UCHINA ITACHI POP KEYCHAIN](https://theworldofnerds.com/products/uchina-itachi-pop-keychain): Elevate your keychain game with the UCHINA ITACHI POP KEYCHAIN. Made with high-quality materials, this keychain features a unique Itachi design that will appeal to any fan. Add a touch of style to your everyday carry and show off your love for the popular anime character.
-  Updated: 2026-02-11T06:12:24Z
+  Updated: 2026-04-24T18:02:11Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_b47c347a-18b2-402b-b637-22e1b08392ec.jpg?v=1742887915
   Price: ₹299.00 INR
 - [KAKASHI POP KEYCHAIN](https://theworldofnerds.com/products/kakashi-pop-keychain): Introducing the KAKASHI POP KEYCHAIN, a charming and collectible addition to any anime fan's collection. Crafted with high-quality materials, this keychain features a detailed likeness of Kakashi from the beloved series. Take your love for Naruto to the next level and show off your fandom with this must-have item.
-  Updated: 2026-02-13T05:39:38Z
+  Updated: 2026-04-24T18:01:53Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -7815,13 +7815,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_15_7f017d94-3e5e-4f80-aa85-780c30b59274.png?v=1748414665
   Price: ₹899.00 INR
-- [RMZ CITY 2020 TOYOTA SUPRA PULLBACK SCALE - 1:32](https://theworldofnerds.com/products/rmz-city-2020-toyota-supra-pullback-scale-1-33): This RMZ CITY 2020 TOYOTA SUPRA PULLBACK SCALE - 1:32 is a high-quality and accurate model of the iconic 2020 Toyota Supra. Featuring a smooth pullback mechanism, this 1:32 scale model is both a collectible item and an interactive toy for kids and adults alike. Perfect for Toyota fans and sports car enthusiasts.
-  Updated: 2026-02-11T06:12:26Z
-  Vendor: The World Of Nerds
-  Product Type: 
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Untitleddesign_15_f952d253-949c-4819-bd62-ee3ee46979d5.png?v=1748414783
-  Price: ₹899.00 INR
 - [RMZ CITY CHEVROLET CAMARO PULLBACK SCALE - 1:32](https://theworldofnerds.com/products/rmz-city-chevrolet-camaro-pullback-scale-1-33): This RMZ CITY CHEVROLET CAMARO PULLBACK SCALE - 1:32 is a high-quality and detailed model of the iconic Chevrolet Camaro. Featuring a smooth pullback mechanism, this 1:32 scale model is both a collectible treasure and an engaging toy for kids and adults. Perfect for Chevrolet fans and muscle car enthusiasts.
   Updated: 2026-03-12T11:09:56Z
   Vendor: The World Of Nerds
@@ -8075,14 +8068,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_6fab54e4-5539-460a-a0f0-c510dc9d1add.jpg?v=1748497335
   Price: ₹279.00 INR
 - [PIKACHU D7 KEY CHAIN](https://theworldofnerds.com/products/pikachu-d7-key-chain): D7-Pikachu Keychain – Brighten your day with the adorable D7-Pikachu keychain! Featuring a cute and vibrant design, it’s made from durable material—perfect for keys, backpacks, or gifting. A fun and charming collectible for all Pokémon and Pikachu fans!
-  Updated: 2026-02-11T06:12:27Z
+  Updated: 2026-04-22T03:39:37Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/617_1.jpg?v=1748500599
   Price: ₹149.00 INR
 - [Pikachu  Keychain](https://theworldofnerds.com/products/pikachu-d9-key-chain): Add a playful touch to your everyday carry with this adorable Pikachu keychain. Designed with vibrant colors and a cheerful expression, Pikachu is styled in a cute blue hoodie and casual outfit, giving it a trendy, modern look. The keychain features a durable metal clip and ring for secure attachment, along with a flexible blue strap embossed with “Pokémon” branding for added style and grip. Made from high-quality rubber/silicone material, it’s lightweight yet sturdy—perfect for keys, bags, backpacks, or even as a collectible accessory. Whether you're a Pokémon fan or just love cute accessories, this keychain is a fun and eye-catching addition to your collection.
-  Updated: 2026-03-20T22:43:13Z
+  Updated: 2026-04-21T16:20:27Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -8131,7 +8124,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_88673ae6-7c36-4dd2-9860-2e1544588cad.jpg?v=1748501654
   Price: ₹219.00 INR
 - [RED KATANA KEYCHAIN](https://theworldofnerds.com/products/red-katana-keychain): Red Katana Keychain – Add a bold edge to your collection with this Red Katana keychain! Featuring a sleek, vibrant blade design and crafted from durable material, it's perfect for keys, backpacks, or gifting. A striking collectible for anime lovers and sword enthusiasts!
-  Updated: 2026-03-15T12:28:52Z
+  Updated: 2026-04-22T10:00:45Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -8215,7 +8208,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_ed0fe247-53cb-40ee-be2e-e9f68bbd77c4.jpg?v=1751880117
   Price: ₹329.00 INR
 - [Mini Naruto Uzumaki Figure](https://theworldofnerds.com/products/mini-naruto-uzumaki-figure): “Morning light filters in, wind rustling like leaves—and there he is. Naruto, approx. 5.5cm tall, swaying with every step like an anime scene before the next adventure. His spiky yellow hair, Leaf headband, and fearless grin bring the spirit of the Hidden Leaf Village to your car, desk, or gaming setup, reminding you to chase your dreams, no matter how tough the road.”
-  Updated: 2026-02-11T06:12:35Z
+  Updated: 2026-04-22T02:34:11Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -8236,14 +8229,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_da266318-3ff5-4ea2-8d0c-2e359405eaa5.jpg?v=1751880616
   Price: ₹329.00 INR
 - [Deadpool Thinking Pose Hanging Figure](https://theworldofnerds.com/products/deadpool-thinking-pose-hanging-figure): “Late-night drive, city lights passing by—and there’s Deadpool, approx. 10cm tall, swaying quietly in his ‘hmm…’ pose like an anime scene before chaos hits. This quirky hanging figure brings humor, hero vibes, and a reminder not to take life too seriously to your car, desk, or gaming setup—perfect for when you need a silent but savage companion.”
-  Updated: 2026-02-11T06:12:23Z
+  Updated: 2026-04-22T22:44:08Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_cdaa5674-e56c-452c-b601-37cc32412db3.jpg?v=1751880720
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_4ba470d0-ccd2-4884-88a2-9578eaaa91c7.jpg?v=1751880717
   Price: ₹329.00 INR
 - [Chill Deadpool Swing Figure](https://theworldofnerds.com/products/chill-deadpool-swing-figure): “Sunset drive, music up, and there’s Deadpool—approx. 10cm wide and 4cm tall—chilling in a laid-back pose, swaying with every turn like a Marvel end-credit meme. This relaxed antihero brings humor and savage vibes to your car, desk, or gaming setup, reminding you it’s okay to kick back and own your chaos.”
-  Updated: 2026-03-16T17:10:22Z
+  Updated: 2026-04-22T02:34:06Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -8355,7 +8348,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_aab20132-b6b2-4ba4-a046-898189bc7f3c.jpg?v=1751886615
   Price: ₹349.00 INR
 - [Giyu Tomioka Anime Action Figure](https://theworldofnerds.com/products/giyu-tomioka-anime-action-figure): “Rain drizzles softly, and there he stands—Giyu, approx. 15cm tall, half-purple, half-patterned haori flowing, sword ready in a quiet stance like a moment before the Water Hashira strikes in Demon Slayer. His calm gaze and composed strength bring a serene power to your shelf, perfect for collectors who want Giyu’s quiet resolve and protective spirit in their space.”
-  Updated: 2026-04-15T18:17:05Z
+  Updated: 2026-04-26T10:28:22Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -8453,7 +8446,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_5db17f3a-5cef-4537-90a3-659485fb0b03.jpg?v=1751888811
   Price: ₹749.00 INR
 - [Naruto Uzumaki Figure with Kuna](https://theworldofnerds.com/products/naruto-uzumaki-figure-with-kuna): Step into the world of ninjas with this classic Naruto Uzumaki figure, featuring his iconic orange jumpsuit and ready-for-action pose with a kunai. Standing approximately 16 cm tall, this detailed collectible perfectly captures the determination and energy of the future Hokage. Ideal for Naruto fans and anime figure collectors, it’s a must-have to complete your ninja display lineup.
-  Updated: 2026-03-10T07:15:51Z
+  Updated: 2026-04-27T16:22:21Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -8586,7 +8579,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_3936318f-c78d-4c28-885d-8ef34de12c49.jpg?v=1751953175
   Price: ₹179.00 INR
 - [Deadpool Standing Pose – Sassy Look Figurine](https://theworldofnerds.com/products/deadpool-standing-pose-sassy-look-figurine): Striking a cheeky pose in a sea of red, this 10 cm tall Deadpool figure perfectly captures his sarcastic, larger-than-life personality. With one hand thoughtfully placed on his chin and the other resting on his hip, he stands like he's just dropped a clever one-liner—or about to roast someone. The bold monochrome setting makes him pop, giving the scene a dramatic yet playful vibe. It feels like a mix of mischief, mockery, and full-blown confidence—just the way fans love him. This figurine is a fun reminder that heroes don’t always follow the rules.
-  Updated: 2026-02-11T06:12:24Z
+  Updated: 2026-04-27T20:43:57Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -8614,10 +8607,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_6e0122d8-4a60-41e8-bbed-820aadb42fe9.jpg?v=1751953712
   Price: ₹179.00 INR
 - [Bold Deadpool Figurine Holding Funny Sign](https://theworldofnerds.com/products/bold-deadpool-figurine-holding-funny-sign): In classic Deadpool fashion, this 10 cm figurine throws subtlety out the window. Standing with one foot cocked and sign in hand, he delivers a message that’s anything but polite—yet undeniably hilarious. The fiery red backdrop turns the moment into a theatrical spotlight, as if he's performing on his own sarcastic stage. With his tilted head and that smug body language, you can almost hear the imaginary mic drop. It’s bold, cheeky, and pure Deadpool—perfect for fans who like their collectibles with a side of attitude and zero filter.
-  Updated: 2026-02-11T06:12:28Z
+  Updated: 2026-04-23T08:25:46Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_7a88eb35-38ec-4923-90ee-3266ca00dfd6.jpg?v=1751953835
   Price: ₹179.00 INR
 - [Action Hero Shinchan – Super Pose Figure](https://theworldofnerds.com/products/action-hero-shinchan-super-pose-figure): Standing proudly atop a smooth black fabric peak, under a star-dotted sky, this 8 cm Action Shinchan figure radiates courage, chaos, and cuteness. Dressed in his signature superhero outfit with wide eyes and a raised hand, he looks like he’s about to deliver his most dramatic line yet. The spotlight effect and galactic background create a scene that feels heroic yet playfully exaggerated—just like Shinchan himself. It’s a blend of laughter, imagination, and childhood heroism, wrapped in a tiny collectible full of personality.
@@ -8649,7 +8642,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_17882515-f64b-4dd5-8e92-8515cc99a83b.jpg?v=1751955544
   Price: ₹299.00 INR
 - [Shin-chan's Cosmic Contemplation](https://theworldofnerds.com/products/shin-chans-cosmic-contemplation): Against a deep, mysterious backdrop of a starlit night sky, a charming Shin-chan figurine, now sporting a vibrant orange astronaut suit and a clear bubble helmet, sits contemplatively. His expression is one of wide-eyed wonder, perhaps a touch of confusion or even loneliness, as if pondering the vastness of the universe. He rests on a small, reddish-brown base that hints at an alien landscape, which in turn sits upon a draped black fabric, creating the illusion of a rugged, unearthly terrain. The figurine, approximately 7.5 cm tall (about the size of a standard teacup), conveys a blend of innocent curiosity, a subtle hint of vulnerability in the face of the unknown, and the endearing humor characteristic of Shin-chan, making for a truly captivating scene of a tiny explorer with big thoughts.
-  Updated: 2026-03-06T05:57:21Z
+  Updated: 2026-04-27T20:43:57Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -8670,7 +8663,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_281b737f-c92c-4c5d-b241-803ae0fb89de.jpg?v=1751955792
   Price: ₹299.00 INR
 - [Stitch's Galactic Jam Session](https://theworldofnerds.com/products/stitchs-galactic-jam-session): Against the infinite, star-speckled darkness of space, the beloved alien experiment Stitch, with his signature large ears and wide smile, stands joyfully, lost in the moment of playing an electric guitar. He is clad in what appears to be a light-colored, perhaps off-white or cream-colored, outfit, contrasting with his vibrant blue fur. His eyes are closed in apparent bliss, and his left hand is raised in a gesture of rock-and-roll enthusiasm, clearly enjoying the celestial concert. The bright red electric guitar, with its classic design, seems perfectly sized for him. The figurine, approximately 7 cm tall (about the size of a standard coffee mug), stands on a dark, subtle base, which is set atop a draped black fabric, creating the illusion of an undulating, mysterious alien terrain or simply the vastness of space. The scene perfectly captures Stitch's playful, mischievous, and endearing personality, blending the unexpected joy of music with the wonder of the cosmos.
-  Updated: 2026-02-28T05:46:21Z
+  Updated: 2026-04-24T17:10:12Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -8691,7 +8684,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_45b4a300-15b4-4add-9ec4-2de99f344219.jpg?v=1751957424
   Price: ₹249.00 INR
 - [Stitch's Helmeted Havoc](https://theworldofnerds.com/products/stitchs-helmeted-havoc): In the dark, twinkling expanse of what appears to be deep space, the mischievous yet lovable alien, Stitch, is caught in a dynamic, ready-for-action pose. He sports a bright yellow helmet, contrasting sharply with his blue fur, and a wide-eyed, slightly surprised or perhaps curious expression, as if contemplating his next move. His body is slightly crouched, and his arms are poised, suggesting he's about to pounce, explore, or simply cause some delightful mischief. The figurine, approximately 5.5 cm tall (roughly the height of a standard bottle cap), stands on a subtle dark base, which is artfully placed upon undulating black fabric, creating the illusion of a mysterious, vast alien landscape or the boundless depths of space itself. The scene evokes a sense of playful adventure and readiness, showcasing Stitch's inherent curiosity and energetic personality even in the quietude of the cosmos.
-  Updated: 2026-03-06T06:10:16Z
+  Updated: 2026-04-24T17:10:17Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -8705,7 +8698,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_f4915ab8-ac0a-4f64-b01f-93374b18fc6a.jpg?v=1751957682
   Price: ₹249.00 INR
 - [Stitch's Cosmic Concert](https://theworldofnerds.com/products/stitchs-cosmic-concert): In the vast, inky blackness of space, dotted with distant, twinkling stars, the beloved alien experiment Stitch strikes a cool and joyful pose, clearly lost in his own musical world. He's wearing a cozy yellow hoodie and a pair of purple over-ear headphones, with one eye winking playfully, indicating a sense of fun and relaxed contentment. One hand is slightly raised, almost as if he's giving a subtle wave or just enjoying the beat. The figurine, standing approximately 7.5 cm tall (about the height of a small teacup), is perched on a subtle dark base, which in turn rests upon the soft undulations of black fabric. This setup creates the compelling illusion of a mysterious, vast alien landscape or the boundless depths of space itself. The scene beautifully captures Stitch's playful and endearing personality, blending the comfort of music with the profound wonder of the cosmos.
-  Updated: 2026-02-28T05:48:16Z
+  Updated: 2026-04-27T06:38:06Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -8887,7 +8880,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_efef5d36-3cad-478d-9d01-523aa6855029.jpg?v=1752213239
   Price: ₹299.00 INR
 - [Shinchan Performing Pose](https://theworldofnerds.com/products/shinchan-performing-pose): Bring laughter to your collection with this 7cm Shinchan figurine featuring his iconic yelling or singing expression! Whether he’s performing or just being dramatic, this detailed collectible is perfect for anime fans, mood-themed displays, or adding a playful vibe to your shelf. A great pick for Crayon Shinchan lovers!
-  Updated: 2026-04-05T17:04:42Z
+  Updated: 2026-04-24T12:45:11Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9209,7 +9202,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_6d092255-8ce0-4e70-a118-79ae3d18ed5a.jpg?v=1756451973
   Price: ₹119.00 INR
 - [Demon Slayer Keychains – Stunning Artwork for True Fans](https://theworldofnerds.com/products/demon-slayer-keychains-stunning-artwork-for-true-fans): These Demon Slayer keychains feature captivating artwork that captures the intensity and emotion of the series. With bold imagery and detailed character depictions, they serve as both a tribute to the iconic anime and an essential collectible for fans. Whether you’re drawn to the characters’ fierce determination or their emotional depth, these keychains offer a perfect way to carry a piece of Demon Slayer with you wherever you go.
-  Updated: 2026-02-11T06:12:27Z
+  Updated: 2026-04-20T08:05:07Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9223,7 +9216,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_dc136125-7c6e-4a9b-9a97-4f8be36eb342.jpg?v=1756452132
   Price: ₹119.00 INR
 - [One Punch Man Saitama Keychain – The Iconic ‘OK’ Expression](https://theworldofnerds.com/products/one-punch-man-saitama-keychain-the-iconic-ok-expression): This One Punch Man keychain features the iconic and effortlessly cool Saitama, with his signature ‘OK’ expression. It’s a perfect blend of humor and simplicity, capturing the essence of Saitama’s unbothered nature. A must-have for fans of One Punch Man, this keychain is a fun and stylish way to carry a piece of Saitama’s iconic attitude with you wherever you go.
-  Updated: 2026-04-08T14:04:36Z
+  Updated: 2026-04-20T11:41:06Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9272,7 +9265,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_2a204774-9854-4003-b211-73094c7b4b42.jpg?v=1756452536
   Price: ₹119.00 INR
 - [Sharingan Power: Embroidered Keychains Set](https://theworldofnerds.com/products/sharingan-power-embroidered-keychains-set): These keychains feature the unmistakable power of the Sharingan and the legendary Itachi Uchiha, with striking red symbols on a sleek black background. The designs combine strength and mystery, offering an enigmatic feel that speaks to fans of the Naruto universe. With every glance at the intense eyes of the Sharingan and Itachi’s solemn expression, you're reminded of the complexity and depth of the Uchiha legacy.
-  Updated: 2026-03-19T15:34:57Z
+  Updated: 2026-04-22T10:00:46Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9293,14 +9286,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_fe44243e-d5a8-4e6c-84f8-edcb11392c16.jpg?v=1756452694
   Price: ₹119.00 INR
 - [Gengar’s Haunted Smile: Ghostly Keychains with Fiery Eyes](https://theworldofnerds.com/products/gengar-s-haunted-smile-ghostly-keychains-with-fiery-eyes): These keychains feature a playful yet eerie design, with Gengar’s devilish grin and fiery eyes surrounded by a host of ghostly figures. The purple hues and swirling energy bring out the mischievous, yet ominous, nature of this beloved Pokémon. This keychain duo perfectly captures Gengar’s haunting charm, combining a sense of fun with a touch of spooky mystery, making it a must-have for any fan of the Pokémon series.
-  Updated: 2026-04-09T09:28:09Z
+  Updated: 2026-04-20T02:39:56Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_f15c6f70-e79b-441d-a1e3-2887d74da443.jpg?v=1756452753
   Price: ₹119.00 INR
 - [Deku’s Determined Gaze: Midoriya Keychains in Action](https://theworldofnerds.com/products/deku-s-determined-gaze-midoriya-keychains-in-action): These keychains capture the raw emotion of Midoriya Izuku, showcasing his determined expression and his passionate resolve to become a great hero. The contrast between the grayscale background and his vibrant green hair adds depth to the design, emphasizing the struggle and growth of this beloved character. Perfect for fans of My Hero Academia, these keychains serve as a reminder of Midoriya’s unyielding spirit.
-  Updated: 2026-02-11T06:12:39Z
+  Updated: 2026-04-17T12:49:30Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9334,8 +9327,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_4fc875d7-fdef-479d-8684-53bea1723ed1.jpg?v=1756453107
   Price: ₹119.00 INR
-- [Limitless Power: Gojo and Jujutsu Kaisen Keychains](https://theworldofnerds.com/products/limitless-power-gojo-and-jujutsu-kaisen-keychains): These colorful Ren & Stimpy keychains are a perfect way to carry a piece of the past with you. Featuring vibrant designs inspired by the iconic characters of the 90s, these keychains are ideal for fans who want to celebrate the zany world of Ren & Stimpy. They make a fantastic addition to any collection or as a fun, retro accessory for daily use.
-  Updated: 2026-02-11T06:12:32Z
+- [Kanker Sisters Keychain](https://theworldofnerds.com/products/limitless-power-gojo-and-jujutsu-kaisen-keychains): Add a fun and nostalgic touch to your keys with this Kanker Sisters Keychain, inspired by the iconic characters from Ed, Edd n Eddy. Designed with vibrant colors and detailed artwork, it is lightweight, durable, and perfect for everyday use. A great collectible for cartoon fans and a unique gift option.
+  Updated: 2026-04-17T18:55:30Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9363,14 +9356,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_179e45d3-5e80-41de-a04e-e921165b2b37.jpg?v=1756466738
   Price: ₹119.00 INR
 - [Jujutsu Kaisen Keychain Set – Yuji Itadori & Sukuna](https://theworldofnerds.com/products/jujutsu-kaisen-keychain-set-yuji-itadori-sukuna): This striking keychain set from Jujutsu Kaisen showcases the contrast between Yuji Itadori’s courage and Sukuna’s terrifying power. Yuji is depicted with determination, representing his humanity and strength, while the other side reveals Sukuna’s sinister gaze, radiating cursed energy. The vivid artwork brings out their conflicting bond, making this accessory both stylish and symbolic for fans who admire the balance between light and darkness in the series.
-  Updated: 2026-04-04T05:37:12Z
+  Updated: 2026-04-17T12:49:27Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_b2e27d7d-357c-4db1-a607-c9d235004a50.jpg?v=1756466815
   Price: ₹119.00 INR
 - [Jujutsu Kaisen Keychain – Gojo Satoru Design](https://theworldofnerds.com/products/jujutsu-kaisen-keychain-gojo-satoru-design): This keychain set highlights Gojo Satoru from Jujutsu Kaisen, showcasing his unmistakable blindfold and striking white hair. Designed with cool blue accents and bold anime art, it embodies Gojo’s effortless style and immense power. A sleek and collectible accessory, perfect for fans who admire the iconic sorcerer of Jujutsu High.
-  Updated: 2026-02-11T06:12:27Z
+  Updated: 2026-04-17T12:49:31Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9419,35 +9412,35 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_ee55f3f0-2f3f-48e8-a149-84750b1affd4.jpg?v=1756467339
   Price: ₹119.00 INR
 - [Zenitsu Agatsuma Embroidered Anime Keychain – Demon Slayer Thunder Design](https://theworldofnerds.com/products/double-sided-keychain-yuji-sukuna-face-off): Show your love for Demon Slayer with this Zenitsu Agatsuma embroidered keychain, featuring a bold double-sided design inspired by Zenitsu’s iconic thunder aesthetic. One side showcases a detailed monochrome illustration of Zenitsu, while the other highlights his striking yellow eyes and lightning-themed pattern. Crafted with durable embroidered fabric and a sturdy metal key ring, this anime keychain is perfect for everyday use on keys, backpacks, sling bags, or as a collector’s accessory. A must-have for Demon Slayer fans and anime merchandise collectors looking for a stylish and long-lasting Zenitsu accessory.
-  Updated: 2026-03-19T05:32:28Z
+  Updated: 2026-04-27T20:43:57Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_75980224-e94b-468f-808f-9b11cbeaaefe.jpg?v=1756467440
   Price: ₹119.00 INR
 - [Double-Sided Keychain – Yuji & Sukuna Face Off](https://theworldofnerds.com/products/double-sided-keychain-yuji-sukuna-face-off-1): A striking keychain that mirrors the clash within Yuji Itadori, torn between his humanity and the King of Curses, Sukuna. One side reflects Yuji’s fierce resolve, while the other reveals Sukuna’s sinister grin—capturing the tension of their unending conflict in a compact, collectible form.
-  Updated: 2026-02-11T06:12:27Z
+  Updated: 2026-04-17T12:49:28Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_5792cbb2-882f-4c5f-bc77-67f6afa80ea6.jpg?v=1756467494
   Price: ₹119.00 INR
 - [Naruto Anime Keychain | Double-Sided Fabric Key Ring with Naruto, Sakura & Sasuke](https://theworldofnerds.com/products/naruto-anime-keychain-double-sided-fabric-key-ring-with-naruto-sakura-sasuke): Carry your favorite ninjas everywhere! This double-sided keychain highlights Naruto Uzumaki’s iconic look, with Sakura Haruno and Sasuke Uchiha alongside him. The opposite side features the official Naruto logo and Konoha spiral. A must-have for Naruto Shippuden and classic Naruto fans alike.
-  Updated: 2026-02-11T06:12:25Z
+  Updated: 2026-04-22T04:40:37Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_d98be785-fd52-49e0-998b-16e96696db62.jpg?v=1756467553
   Price: ₹119.00 INR
 - [Demon Slayer Keychain | Double-Sided Fabric Key Ring with Nezuko Kamado](https://theworldofnerds.com/products/demon-slayer-keychain-double-sided-fabric-key-ring-with-nezuko-kamado): Carry Nezuko Kamado with you wherever you go! This double-sided Demon Slayer keychain features her adorable yet fierce expression with pink accents to match her character design. Made with strong fabric and durable stitching, it’s the perfect accessory for keys, backpacks, or anime collections.
-  Updated: 2026-02-11T06:12:32Z
+  Updated: 2026-04-21T21:35:28Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_4084c294-2e3e-4dda-8962-ad73571153c7.jpg?v=1756467610
   Price: ₹119.00 INR
 - [Naruto Jiraiya Keychain | Double-Sided Fabric Key Ring Anime Accessory](https://theworldofnerds.com/products/naruto-jiraiya-keychain-double-sided-fabric-key-ring-anime-accessory): Honor the legendary Sannin with this Naruto keychain featuring Jiraiya the Toad Sage. This double-sided design captures his iconic look and bold personality. Made from durable fabric with strong stitching, it’s perfect for fans who want to carry a piece of the Hidden Leaf everywhere they go.
-  Updated: 2026-02-11T06:12:30Z
+  Updated: 2026-04-22T04:40:37Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9482,7 +9475,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_26c621c2-ff0c-4fd1-892f-be8107265e9e.jpg?v=1756467923
   Price: ₹119.00 INR
 - [Rengoku Flame Hashira Embroidered Keychain](https://theworldofnerds.com/products/eyes-of-the-inferno-keychains-of-uncontrolled-power): Carry the fiery spirit of the Flame Hashira wherever you go with this Rengoku embroidered keychain, inspired by Kyojuro Rengoku from Demon Slayer: Kimetsu no Yaiba.Featuring high-quality embroidery with bold flame tones and iconic eye artwork, this keychain perfectly captures Rengoku’s intense passion and fearless personality. Made with durable fabric and strong stitching, it’s ideal for everyday use on keys, backpacks, sling bags, or as an anime collectible. A must-have accessory for Demon Slayer fans and anime lovers who admire Rengoku’s unwavering spirit.
-  Updated: 2026-03-18T12:26:57Z
+  Updated: 2026-04-20T11:41:07Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9496,7 +9489,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_65d276ad-d5f4-4f3b-92ba-20788ec86fbd.jpg?v=1756468127
   Price: ₹119.00 INR
 - [Luffy and Goku, the Joyous Warriors keychains](https://theworldofnerds.com/products/luffy-and-goku-the-joyous-warriors-keychains): These keychains capture the unyielding spirit and infectious energy of a true adventurer. With wide grins and eyes full of determination, the characters leap forward, ready to face whatever challenges lie ahead. The contrast between the clouds and vibrant colors speaks to their boundless optimism, while the fierce expressions show the unwavering resolve behind their cheerful demeanor. These keychains are more than just designs—they represent the joy of the journey and the endless pursuit of dreams, no matter how wild or impossible they may seem.
-  Updated: 2026-04-04T05:37:10Z
+  Updated: 2026-04-17T12:49:27Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9545,7 +9538,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_9d94f547-abdb-4b71-833e-226b5a4044a4.jpg?v=1756468627
   Price: ₹119.00 INR
 - [Set Sail with Luffy: One Piece Keychain](https://theworldofnerds.com/products/set-sail-with-luffy-one-piece-keychain): This One Piece keychain brings Luffy's adventurous spirit to life, showcasing his playful grin and iconic straw hat. The bold "One Piece" logo highlights the essence of freedom and adventure, while the contrasting yellow trim adds a burst of energy, making it a must-have for fans eager to set sail on new journeys.
-  Updated: 2026-02-24T09:38:49Z
+  Updated: 2026-04-25T09:30:08Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9559,10 +9552,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_ab0d7818-f316-40f6-9d7c-e7e5213f7368.jpg?v=1756468793
   Price: ₹119.00 INR
 - [Satoru Gojo: The Power of Infinity Keychain](https://theworldofnerds.com/products/satoru-gojo-the-power-of-infinity-keychain): This keychain features the enigmatic Gojo Satoru, with his signature blindfold and captivating expression. The combination of light and dark tones symbolizes his mysterious nature, while the vibrant purple highlights his immense power. It’s a piece that channels the aura of a sorcerer who sees and controls the world differently.
-  Updated: 2026-04-08T14:04:36Z
+  Updated: 2026-04-20T08:04:57Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_deaf3cf0-d7fc-4cd1-9190-0829158e0257.jpg?v=1756468846
   Price: ₹119.00 INR
 - [Power Unleashed: Zen'in Maki Keychain](https://theworldofnerds.com/products/power-unleashed-zenin-maki-keychain): This keychain features Maki Zen'in, captured in her determined state with fierce focus in her eyes. The warm orange background mirrors her inner strength and fiery spirit, while the intricate design highlights the power she possesses, making this keychain a striking representation of one of the fiercest characters in Jujutsu Kaisen.
@@ -9726,25 +9719,25 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_45c9b474-51d4-487e-b387-5dc3f3b2d3ff.gif?v=1756545217
   Price: ₹119.00 INR
-- [Eight-Tails Jinchuriki Keychain – Power of the Beast](https://theworldofnerds.com/products/eight-tails-jinchuriki-keychain-power-of-the-beast): Unleash the power of the Eight-Tails with this bold and vibrant keychain, featuring Killer Bee, the Jinchuriki who masters the beast within. With striking artwork that captures his fierce energy and determination, this keychain stands as a tribute to the warrior’s strength and resilience. The vivid red background and explosive clouds symbolize the raw power of the Eight-Tails, making this accessory a must-have for Naruto fans. Whether you’re a fan of Killer Bee’s unbreakable spirit or the unstoppable might of the tailed beasts, this keychain is perfect for carrying a piece of that incredible power with you.
-  Updated: 2026-02-27T05:31:26Z
+- [Gear 5 Luffy Keychain](https://theworldofnerds.com/products/eight-tails-jinchuriki-keychain-power-of-the-beast): Show off your anime love with this Gear 5 Luffy Keychain, inspired by the iconic transformation from One Piece. Designed with vibrant colors and detailed artwork, it is lightweight, durable, and perfect for everyday use. A great collectible for anime fans and an ideal gift for One Piece lovers.
+  Updated: 2026-04-17T18:12:49Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_b874cca0-eddb-46d7-996a-fe82b44edcad.gif?v=1756545229
   Price: ₹119.00 INR
 - [Luffy’s Jolly Roger Keychain – Straw Hat Pirate Edition](https://theworldofnerds.com/products/luffy-s-jolly-roger-keychain-straw-hat-pirate-edition): This keychain brings Luffy’s legendary Jolly Roger to life, a symbol that has become synonymous with adventure, freedom, and the pursuit of the Pirate King’s dream. Featuring a detailed skull and crossbones design, crowned by Luffy’s signature straw hat, it represents the indomitable spirit of the Straw Hat Pirates. Whether you’re navigating the Grand Line or just taking on life’s challenges, this keychain is the perfect tribute to those who dare to dream big. A must-have for any One Piece fan, it’s more than just an accessory—it’s a symbol of unwavering courage and determination.
-  Updated: 2026-04-05T04:14:28Z
+  Updated: 2026-04-27T16:15:20Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_ecaf57a1-15d7-4de9-a195-5e0379c5f7d5.gif?v=1756545242
   Price: ₹119.00 INR
 - [Pokémon Pikachu Keychain – Your First Partner](https://theworldofnerds.com/products/pokemon-pikachu-keychain-your-first-partner): Embrace the energy of the Pokémon world with this vibrant Pikachu keychain! Featuring Pikachu, the Electric-type icon, this keychain is a delightful blend of nostalgia and excitement. Set within a classic red and white Pokéball design, it brings the spirit of adventure and friendship to life. Whether you're a Pokémon Trainer or simply a fan of Pikachu’s electric personality, this keychain is the perfect way to keep your favorite Pokémon close. Bright, playful, and full of energy, it’s the ideal accessory for any Pokémon lover!
-  Updated: 2026-02-27T05:34:26Z
+  Updated: 2026-04-24T19:32:57Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_62c085b6-75dc-416a-8ec5-ffaf02141c31.gif?v=1756545258
   Price: ₹119.00 INR
 - [Nezuko Kamado Chibi Keychain – Demon Slayer Edition](https://theworldofnerds.com/products/nezuko-kamado-chibi-keychain-demon-slayer-edition): Celebrate the strength and beauty of Nezuko Kamado with this adorable chibi-style keychain. Featuring Nezuko in her iconic red-and-pink kimono and bamboo muzzle, this keychain captures her fierce yet protective spirit as she fights to protect her loved ones. The detailed design reflects her emotional journey in Demon Slayer, making it the perfect accessory for fans of the series. Whether you're a fan of Nezuko's resilience or her loving heart, this keychain is a small but powerful tribute to her character. Carry Nezuko's courage and warmth wherever you go!
@@ -9755,7 +9748,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_cccc8003-eff7-435f-a10e-3afe4e87ebda.gif?v=1756545270
   Price: ₹119.00 INR
 - [Samurai Wave Sword Keychain – A  of Precision](https://theworldofnerds.com/products/samurai-wave-sword-keychain-a--of-precision): This keychain represents the perfect blend of artistry and strength, featuring a beautifully designed sword with flowing waves along the blade. The intricate design captures the essence of water's grace and power, symbolizing fluid movement and control. Ideal for fans of martial arts, anime, or anyone who appreciates a masterful , this keychain brings both style and symbolism to your accessories. Whether you’re wielding the sword in spirit or simply displaying its beauty, it’s a reminder of the power found in balance and precision.
-  Updated: 2026-04-03T19:14:48Z
+  Updated: 2026-04-23T11:25:03Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9790,7 +9783,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_bfcfa4fc-dac6-4527-92e2-72812ba7ffc2.jpg?v=1756472376
   Price: ₹119.00 INR
 - ["Echoes of Asgard: A Daily Reminder Keychain](https://theworldofnerds.com/products/echoes-of-asgard-a-daily-reminder-keychain): Suspended in stillness, Thor’s iconic winged helmet hangs from a simple keyring, exuding both strength and solitude. The brass tones shine with a heroic warmth, reminiscent of fierce battles and bold victories, yet the emptiness around it whispers of challenges faced alone. Holding this keychain brings a surge of power—the spirit of a hero—mixed with a touch of longing for distant realms and companions now just memories. More than a trinket, it’s a tribute to courage, vulnerability, and the never-ending journey of becoming a legend.
-  Updated: 2026-02-27T05:26:51Z
+  Updated: 2026-04-23T11:25:03Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -9895,7 +9888,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_9475ae0a-f461-4855-83f1-a4afab8c57ca.jpg?v=1756473649
   Price: ₹1,199.00 INR
 - [Demon Slayer : Zenitsu Agatsuma Thunder Breathing Figure](https://theworldofnerds.com/products/demon-slayer-zenitsu-agatsuma-thunder-breathing-figure): Captured mid-crouch and sword at the ready, this 13cm figure of Zenitsu Agatsuma radiates the tension between dread and determination. His vibrant yellow haori flows behind him, every fold and detail bringing to life the electricity of the moment. The dramatic pose and crisp design highlight the inner battle he faces—helping others despite his fears. Gazing at this figure, one feels both the pulse of anxiety and the flicker of resolve, a heartfelt tribute to those who stand firm and shine brightest just when the darkness closes in. Each glance serves as a reminder that bravery often begins with doubt, and heroism is forged in the heart of uncertainty.
-  Updated: 2026-02-11T06:12:31Z
+  Updated: 2026-04-22T02:34:11Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10035,10 +10028,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/s-l1600_1eda905b-cb7c-4157-9d97-c8372788b5a9.webp?v=1766044078
   Price: ₹3,999.00 INR
 - [ZD toys Iron Man Mark 3 (Mark III) – Iron Man | Marvel Infinity Saga Collectible](https://theworldofnerds.com/products/iron-man-mark-3-mark-iii-iron-man-marvel-infinity-saga-collectible): The Iron Man Mark 3 armor is the first iconic red-and-gold suit introduced in Marvel Studios’ Iron Man (2008). As Tony Stark’s first fully developed and weaponized armor, the Mark 3 established the foundation for all future Iron Man suits. This collectible figure captures the classic design and powerful presence of the armor that launched the Marvel Cinematic Universe, making it a must-have for any Marvel Infinity Saga collection.
-  Updated: 2026-02-20T10:39:47Z
+  Updated: 2026-04-24T02:30:36Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/69195d4fe0ac281c2c00386f-us-stock-zd-toys-iron-man-mark-iii-mk3.webp?v=1766044212
   Price: ₹3,999.00 INR
 - [ZD toys Iron Man Mark 3 (Mark III) – Luminous Version | Iron Man | Marvel Infinity Saga Collectible](https://theworldofnerds.com/products/iron-man-mark-3-mark-iii-lightning-version-iron-man-marvel-infinity-saga-collectible): The Iron Man Mark 3 armor makes its debut in Marvel Studios’ Iron Man (2008) as Tony Stark’s first fully realized red-and-gold suit. This Luminous Version collectible features a chargeable light-up function that illuminates the arc reactor and eyes, bringing them to life and enhancing the display with dramatic, vibrant lighting. A true centerpiece of the Marvel Infinity Saga collection, the Mark 3 remains one of the most iconic suits in the Iron Man legacy.
@@ -10084,10 +10077,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1Iron-Man-Mark-XLII.jpg?v=1758268683
   Price: ₹4,999.00 INR
 - [ZD toys Iron Man 3 – Mark 42 Battle-Ready Display](https://theworldofnerds.com/products/iron-man-mark-xlii-lightning-strikes-the-legacy): Iron Man Mark 42, the centerpiece armor of Iron Man 3, strikes a powerful pose amid blazing sparks and smoke. The iconic gold-and-red modular suit with piercing blue eyes and a arc reactor, capturing Tony Stark’s determination and ingenuity at the height of the Extremis battle. Its stance radiates confidence, as though it’s about to charge headlong into the chaos and take control of the fight.
-  Updated: 2026-02-20T10:40:18Z
+  Updated: 2026-04-22T12:01:57Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/WhatsApp_Image_2025-02-28_at_5.21.19_PM_1.webp?v=1766037149
   Price: ₹3,999.00 INR
 - [ZD toys Iron Man Mark V: The Suitcase Armor](https://theworldofnerds.com/products/iron-man-mark-v-the-suitcase-armor): Forged in the rush of desperation, the Mark V armour stands as a symbol of both fragility and resilience. Its sleek crimson and silver design reflects the urgency of battles fought not in preparation but in the heat of chaos. The suitcase at its side carries more than armour—it carries the weight of responsibility, the scars of fear, and the unyielding determination to rise, even when caught off guard.
@@ -10119,14 +10112,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/sdfsdfafaa.webp?v=1766042919
   Price: ₹9,999.00 INR
 - [ZD toys Spider-Man: Black & Gold Suit Action Figure – No Way Home Edition](https://theworldofnerds.com/products/spider-man-black-gold-suit-action-figure-no-way-home-edition): This striking collectible captures Spider-Man mid-leap, wearing his iconic Black & Gold suit from No Way Home. Suspended on a sleek display stand, he strikes a dynamic action pose, one hand outstretched releasing a glowing, mystical web effect. The gold accents on his suit shimmer under the light, giving an intense and cinematic look. It feels like a moment frozen in time – as if Spidey has just activated Doctor Strange’s magic while preparing to swing into battle.
-  Updated: 2026-02-20T10:40:57Z
+  Updated: 2026-04-20T18:25:27Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/s-l960-600x600.webp?v=1766042699
   Price: ₹3,999.00 INR
 - [ZD toys Marvel Spider-Man (Upgraded Suit) with Accessories – No Way Home](https://theworldofnerds.com/products/marvel-spider-man-upgraded-suit-with-accessories-no-way-home): This premium collectible features Spider-Man in his No Way Home upgraded suit, complete with multiple interchangeable hands and detailed web effects. The set includes a sturdy display stand, allowing you to pose Spidey in mid-air action or battle-ready stances. The figure’s bright red and black suit pops against the dark background, creating a cinematic feel. The accessories add a layer of realism, as if Spider-Man is gearing up for his next high-flying showdown across New York City.
-  Updated: 2026-02-20T10:41:02Z
+  Updated: 2026-04-22T19:19:03Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10154,7 +10147,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/5Ironmanmark2I.jpg?v=1761742306
   Price: ₹3,999.00 INR
 - [ZD toys Marvel Wolverine Action Figure in Classic Yellow & Blue Suit](https://theworldofnerds.com/products/marvel-wolverine-action-figure-in-classic-yellow-blue-suit): This collectible brings Wolverine to life in his iconic yellow-and-blue suit as seen in Deadpool & Wolverine. The figure perfectly captures Logan’s fierce expression and battle-ready stance, with intricate suit textures and sharp detailing on the mask and gloves. The bold colors make him stand out, evoking the classic comic-book look while staying true to the cinematic version. It feels like Wolverine is about to unsheathe his adamantium claws and charge into battle, ready to fight alongside (or against) Deadpool.
-  Updated: 2026-02-20T10:41:27Z
+  Updated: 2026-04-27T06:38:06Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10203,7 +10196,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_c9e0514f-eb69-44bf-b06b-1dc5fe5e1c8c.jpg?v=1762324710
   Price: ₹399.00 INR
 - [Majorette Fiat 500 D Vintage Diecast Model Car](https://theworldofnerds.com/products/majorette-fiat-500-d-vintage-diecast-model-car): Add Italian charm to your collection with the Majorette Fiat 500 D diecast car. This beautifully crafted light blue miniature showcases the timeless style of the classic Fiat, complete with detailed bodywork and durable metal construction. Ideal for collectors and fans of vintage European cars, the Fiat 500 D by Majorette captures the essence of retro motoring in a compact, display-worthy design.
-  Updated: 2026-02-20T11:52:16Z
+  Updated: 2026-04-27T11:20:17Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10231,14 +10224,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e382ee09-b588-4339-8835-156f109ad478.jpg?v=1762324976
   Price: ₹399.00 INR
 - [Majorette DS 21 Vintage Diecast Model Car](https://theworldofnerds.com/products/majorette-ds-21-vintage-diecast-model-car): Experience the elegance of French automotive history with the Majorette DS 21 vintage diecast model car. This finely detailed collectible captures the iconic Citroën DS 21, known for its futuristic design and smooth lines. Perfect for car enthusiasts and diecast collectors, the Majorette DS 21 brings a touch of retro charm and authenticity to any display.
-  Updated: 2026-03-05T11:45:04Z
+  Updated: 2026-04-28T13:45:57Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_a35dc7e2-1861-4ac1-b705-0679fe1818d2.jpg?v=1762325052
   Price: ₹399.00 INR
 - [Majorette Datsun 260Z Vintage Diecast Model Car](https://theworldofnerds.com/products/majorette-datsun-260z-vintage-diecast-model-car): Relive the golden era of Japanese sports cars with the Majorette Datsun 260Z vintage diecast model car. This beautifully crafted collectible showcases the sleek design and racing spirit of the iconic Datsun 260Z, finished in a stylish dark green. A perfect addition for diecast enthusiasts and car lovers, the Majorette Datsun 260Z captures the essence of classic performance and automotive heritage.
-  Updated: 2026-02-20T11:50:58Z
+  Updated: 2026-04-24T17:14:47Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10252,17 +10245,17 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_76baafe4-8675-4a8e-b98d-104ec3c53a29.jpg?v=1762325157
   Price: ₹399.00 INR
 - [Majorette Volvo EX90 Premium Diecast Model Car](https://theworldofnerds.com/products/majorette-volvo-ex90-premium-diecast-model-car): The Majorette Volvo EX90 Premium Diecast Model Car captures the modern elegance of Volvo’s all-electric SUV in stunning detail. Featuring a sleek black finish, premium design, and realistic proportions, this Majorette Premium Cars Volvo EX90 is a must-have for collectors and SUV enthusiasts. Designed for durability and display, it perfectly showcases the innovation and sophistication of Volvo’s electric range.
-  Updated: 2026-03-05T11:46:42Z
+  Updated: 2026-04-25T14:32:17Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_a4f0aa77-72bb-4fdb-842e-f6d5f7b49b1d.jpg?v=1762325886
   Price: ₹399.00 INR
 - [Majorette Range Rover Evoque Premium Diecast Car](https://theworldofnerds.com/products/majorette-range-rover-evoque-premium-diecast-car): The Majorette Range Rover Evoque Premium Diecast Car showcases the bold and refined design of Land Rover’s luxury SUV in a stunning red finish. Built with premium materials and authentic detailing, this Majorette Premium Cars Evoque model is a collector’s favorite. Perfect for car enthusiasts and toy car collections, it combines durability, realism, and the iconic elegance of Range Rover engineering.
-  Updated: 2026-04-14T18:14:16Z
+  Updated: 2026-04-25T14:32:18Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_68dfd779-9534-4c71-afdd-ba21e5e055cf.jpg?v=1762325957
   Price: ₹399.00 INR
 - [Majorette Nissan Z Premium Diecast Car](https://theworldofnerds.com/products/majorette-nissan-z-premium-diecast-car): The Majorette Nissan Z Premium Diecast Car captures the essence of Nissan’s legendary sports coupe in a bold blue finish. With its sleek design, realistic detailing, and durable diecast build, this Majorette Premium Cars Nissan Z model is perfect for collectors and enthusiasts of high-performance vehicles. A must-have addition to any miniature car collection, representing the power and heritage of the Nissan Z series.
@@ -10273,7 +10266,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_f84f5638-2cbb-4da8-b32c-b0091d12b482.jpg?v=1762326014
   Price: ₹399.00 INR
 - [Majorette Bugatti Chiron Pur Sport Diecast Car](https://theworldofnerds.com/products/majorette-bugatti-chiron-pur-sport-diecast-car): The Majorette Bugatti Chiron Pur Sport Diecast Car showcases the perfect blend of speed, style, and precision. Finished in striking yellow with authentic detailing, this Majorette Premium Cars edition replicates the legendary Bugatti’s aerodynamic design and racing heritage. A premium collectible for car enthusiasts, this miniature model captures the power and luxury of the real Bugatti Chiron Pur Sport, making it a standout piece in any diecast collection.
-  Updated: 2026-03-05T11:52:18Z
+  Updated: 2026-04-27T09:11:38Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10392,14 +10385,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_395e4018-27eb-422b-a4bd-c4c83fd02b61.jpg?v=1762327266
   Price: ₹399.00 INR
 - [Majorette Jeep Wrangler 4XE Racing Edition](https://theworldofnerds.com/products/majorette-jeep-wrangler-4xe-racing-edition): Unleash off-road power with the Majorette Jeep Wrangler 4XE Racing Car, a premium diecast model featuring an eye-catching purple and blue racing livery with number 41 decals. Part of the Majorette Racing Cars series, this miniature captures the rugged style of the hybrid Jeep 4XE with realistic detailing, sturdy wheels, and sporty graphics — perfect for collectors and Jeep enthusiasts who love adventurous designs.
-  Updated: 2026-03-05T12:08:21Z
+  Updated: 2026-04-22T19:34:17Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_b65c2251-37f9-497c-a3b3-126ab0572865.jpg?v=1762327354
   Price: ₹399.00 INR
 - [Majorette Ford F-150 Raptor Racing Edition](https://theworldofnerds.com/products/majorette-ford-f-150-raptor-racing-edition): Experience the thrill of off-road racing with the Majorette Ford F-150 Raptor #7, a stunning diecast model from the Majorette Racing Cars series. Designed in a striking light blue and orange livery, this collectible captures the bold spirit of the legendary Ford F-150 Raptor with realistic detailing, rugged wheels, and sporty graphics. Perfect for collectors, racing fans, and truck enthusiasts who appreciate powerful design and precision craftsmanship.
-  Updated: 2026-03-05T12:14:13Z
+  Updated: 2026-04-24T06:45:26Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10455,7 +10448,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_eeb30d58-116e-4588-9b67-96a9de9791b8.jpg?v=1762327863
   Price: ₹399.00 INR
 - [Majorette Porsche 911 GT3 RS Pink Pig Edition](https://theworldofnerds.com/products/majorette-porsche-911-gt3-rs-pink-pig-edition): The Majorette Porsche 911 GT3 RS Pink Pig Edition is a collector’s dream for Porsche enthusiasts and diecast fans alike. Featuring the iconic #23 Pink Pig livery, this model captures the racing heritage of Porsche’s legendary GT3 RS. Crafted with precision, it showcases authentic detailing, a sporty rear wing, and premium quality construction. Perfect for collectors, display shelves, or racing-themed collections, this Majorette Porsche Edition brings timeless motorsport design to your miniature car lineup.
-  Updated: 2026-04-01T18:06:13Z
+  Updated: 2026-04-22T11:21:46Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10469,7 +10462,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_107b13bf-4c34-4f65-bdd1-eb22895b9f4d.jpg?v=1762328028
   Price: ₹399.00 INR
 - [Majorette Porsche 718 Boxster Diecast Car](https://theworldofnerds.com/products/majorette-porsche-718-boxster-diecast-car): The Majorette Porsche 718 Boxster is a beautifully detailed diecast model that captures the elegance and performance of Porsche’s iconic convertible sports car. Part of the Majorette Porsche Edition, this miniature features a sleek green finish, authentic body design, and precision detailing. Ideal for collectors and Porsche enthusiasts, this model showcases the perfect blend of luxury and speed, making it a standout addition to any diecast or model car collection.
-  Updated: 2026-02-20T11:55:47Z
+  Updated: 2026-04-28T13:45:58Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10483,7 +10476,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_9f06a6ac-ffee-4771-abea-75c037304cfb.jpg?v=1762328189
   Price: ₹399.00 INR
 - [Majorette Dodge Charger R/T Diecast Car – Limited Edition](https://theworldofnerds.com/products/majorette-dodge-charger-r-t-diecast-car-limited-edition): The Majorette Dodge Charger R/T Limited Edition brings classic American muscle to your collection in a sleek black and gold design. This Series 3 diecast model captures the aggressive styling and vintage power of the legendary Dodge Charger R/T, making it a must-have for collectors and enthusiasts. Featuring detailed graphics, realistic body lines, and premium construction, this Majorette collectible is a perfect showcase of muscle car heritage and craftsmanship.
-  Updated: 2026-03-03T09:28:38Z
+  Updated: 2026-04-27T20:43:57Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10497,7 +10490,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_a1f5898e-14e7-4da6-92f6-5cf5ebfd1d3d.jpg?v=1762328310
   Price: ₹499.00 INR
 - [Majorette Deluxe Cars – Bugatti Chiron Pur Sport (Blue Edition) Diecast Car](https://theworldofnerds.com/products/majorette-deluxe-cars-bugatti-chiron-pur-sport-blue-edition-diecast-car): Add a touch of speed and luxury to your collection with the Majorette Deluxe Bugatti Chiron Pur Sport (Blue Edition). Featuring a metal body, rubber tires, suspension, and opening parts, this licensed diecast car showcases the stunning blue finish of the Chiron Pur Sport. Perfect for collectors, enthusiasts, and display shelves alike.
-  Updated: 2026-02-20T11:54:36Z
+  Updated: 2026-04-24T04:47:36Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10630,7 +10623,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_6895f7c9-73e3-4fc8-975d-5e09fab0ec9d.jpg?v=1762337321
   Price: ₹399.00 INR
 - [Hot Wheels Custom Kia EV6 2025 Edition](https://theworldofnerds.com/products/hot-wheels-custom-kia-ev6-2025-edition): Experience the future of speed with the Hot Wheels Custom Kia EV6 (2025 Edition) from the HW EV series. This sleek green electric-inspired diecast model showcases bold anime-style graphics and aerodynamic detailing that capture modern EV performance with Hot Wheels flair. Perfect for collectors and fans of futuristic car designs, the Custom Kia EV6 brings style, innovation, and eco-inspired power to your display.
-  Updated: 2026-02-26T11:41:56Z
+  Updated: 2026-04-21T08:07:51Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -10700,10 +10693,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_436a20f7-7d60-4fe7-85c8-be849b7b0915.jpg?v=1762338276
   Price: ₹699.00 INR
 - [Hot Wheels Audi 90 Quattro 2025 Diecast Model - Limited Edition](https://theworldofnerds.com/products/hot-wheels-audi-90-quattro-2025-diecast-model-limited-edition): Unleash German engineering power with the Hot Wheels Audi 90 Quattro from the Peak Edition series. This diecast model showcases the classic racing livery with number 25 graphics, aerodynamic detailing, and authentic Quattro styling. A must-have for collectors and racing enthusiasts, it perfectly captures the spirit of Audi’s legendary performance heritage.
-  Updated: 2026-02-26T11:38:56Z
+  Updated: 2026-04-21T08:07:51Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_c68161f2-e707-4493-9654-3f2a164037be.jpg?v=1762338459
   Price: ₹399.00 INR
 - [Hot Wheels 2025 VW T3 Custom Diecast](https://theworldofnerds.com/products/hot-wheels-2025-vw-t3-custom-diecast): Experience the perfect blend of retro and racing style with the Hot Wheels VW T3 Custom from the Peak Edition series. This diecast model features a bold beige and blue design with racing decals, wide fenders, and the iconic number 25 graphics. A collector’s favorite, this Volkswagen-inspired Hot Wheels brings nostalgic van vibes with a modern racing twist
@@ -10903,10 +10896,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_89a0dce3-6c97-4198-bbf3-a7a38e69a534.jpg?v=1762341529
   Price: ₹299.00 INR
 - [Red Hot Wheels Alfa Romeo Giulia TI Super Diecast Car](https://theworldofnerds.com/products/red-hot-wheels-alfa-romeo-giulia-ti-super-diecast-car): Unleash Italian racing heritage with the Hot Wheels Alfa Romeo Giulia TI Super (Red) from the 2025 Compact Kings series. This diecast beauty captures the charm of classic motorsport design with detailed body lines, racing decals, and authentic Alfa Romeo styling. A perfect collectible for car lovers and Hot Wheels enthusiasts who appreciate vintage performance and timeless design.
-  Updated: 2026-02-26T11:24:01Z
+  Updated: 2026-04-21T08:07:47Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_0ca3ff6d-a581-4f28-accf-02c77b50a870.jpg?v=1762341592
   Price: ₹399.00 INR
 - [Hot Wheels ’75 Chevy Blazer Custom – HW Dirt Series Diecast](https://theworldofnerds.com/products/hot-wheels-75-chevy-blazer-custom-hw-dirt-series-diecast): Celebrate rugged American style with the Hot Wheels ’75 Chevy Blazer Custom from the HW Dirt series. This diecast truck showcases a bold white-and-red design, lifted stance, and authentic Chevrolet detailing that pays tribute to the classic off-road icon. A must-have collectible for vintage truck fans and Hot Wheels enthusiasts who love timeless 4x4 power and retro vibes.
@@ -11022,10 +11015,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_1bf2dd3c-b2a9-49d9-834a-e09ba39843f6.jpg?v=1762342705
   Price: ₹899.00 INR
 - [Hot Wheels Pencil Pusher Super Rigs Truck Diecast](https://theworldofnerds.com/products/hot-wheels-pencil-pusher-super-rigs-truck-diecast): Bring creativity to your Hot Wheels collection with the Hot Wheels Pencil Pusher Super Rigs truck set. Featuring a colorful design with a school bus and graffiti-style art, this diecast rig adds fun and speed to your toy collection. Perfect for kids and collectors who love unique Hot Wheels trucks.
-  Updated: 2026-02-11T06:12:37Z
+  Updated: 2026-04-24T16:44:47Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_663fae9c-ca92-4d94-9912-4f7f318bc7e3.jpg?v=1762342773
   Price: ₹899.00 INR
 - [Hot Wheels Recycle Truck Diecast – Trash Basher](https://theworldofnerds.com/products/hot-wheels-recycle-truck-diecast-trash-basher): Keep the city clean with the Hot Wheels Trash Basher Super Rigs truck! This blue and yellow recycling-themed truck features detailed designs and moving wheels. A great addition for Hot Wheels fans and kids who love eco-friendly vehicles and diecast trucks.
@@ -11169,28 +11162,28 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e4d73fc8-520a-42d9-bb09-c18c35a38071.jpg?v=1762346531
   Price: ₹399.00 INR
 - [Majorette Street Cars – Green Sports Car Diecast Model](https://theworldofnerds.com/products/majorette-street-cars-green-sports-car-diecast-model): Bring the thrill of the streets to your collection with the Majorette Street Cars series. Each diecast model showcases realistic detailing, vibrant colors, and smooth rolling wheels, making them perfect for collectors and kids alike. Whether displayed or raced, these officially licensed Majorette cars deliver premium quality and unmatched style for every car enthusiast.
-  Updated: 2026-02-20T11:57:28Z
+  Updated: 2026-04-21T04:16:38Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_de71c774-ef1e-4378-bd28-3ce3d59bfede.jpg?v=1762346679
   Price: ₹199.00 INR
 - [Majorette Street Cars – Yellow Hatchback Diecast Collectible](https://theworldofnerds.com/products/majorette-street-cars-yellow-hatchback-diecast-collectible): Bring the thrill of the streets to your collection with the Majorette Street Cars series. Each diecast model showcases realistic detailing, vibrant colors, and smooth rolling wheels, making them perfect for collectors and kids alike. Whether displayed or raced, these officially licensed Majorette cars deliver premium quality and unmatched style for every car enthusiast.
-  Updated: 2026-02-20T11:58:37Z
+  Updated: 2026-04-24T12:37:46Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_0dbd691b-eaee-44e5-8d15-3fbd9193c5e6.jpg?v=1762346737
   Price: ₹199.00 INR
 - [Majorette Street Cars – Red Sedan Diecast Toy Car](https://theworldofnerds.com/products/majorette-street-cars-red-sedan-diecast-toy-car): Bring the thrill of the streets to your collection with the Majorette Street Cars series. Each diecast model showcases realistic detailing, vibrant colors, and smooth rolling wheels, making them perfect for collectors and kids alike. Whether displayed or raced, these officially licensed Majorette cars deliver premium quality and unmatched style for every car enthusiast.
-  Updated: 2026-02-20T11:59:07Z
+  Updated: 2026-04-21T04:16:26Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_70ecd3ba-91e6-4503-807c-99c34eee86bf.jpg?v=1762346864
   Price: ₹199.00 INR
 - [Majorette 2005 Chevrolet Corvette C6R – Racing Legends Diecast Model](https://theworldofnerds.com/products/majorette-2005-chevrolet-corvette-c6r-racing-legends-diecast-model): Bring the thrill of iconic cars to your collection with these premium Majorette diecast models. Each car features realistic detailing, authentic design, and durable metal construction — perfect for collectors and car enthusiasts. From classic American muscle to timeless European legends, these miniatures capture the essence of automotive history. Ideal for gifting, showcasing, or completing your diecast display.
-  Updated: 2026-03-07T05:49:07Z
+  Updated: 2026-04-26T02:36:57Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -11217,19 +11210,19 @@
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_862c8731-7386-4462-9284-940b31b66e50.jpg?v=1762347275
   Price: ₹899.00 INR
-- [Majorette 1985 Chevrolet Camaro – Retro Blue Collector Diecast Car](https://theworldofnerds.com/products/majorette-1985-chevrolet-camaro-retro-blue-collector-diecast-car): Bring the thrill of iconic cars to your collection with these premium Majorette diecast models. Each car features realistic detailing, authentic design, and durable metal construction — perfect for collectors and car enthusiasts. From classic American muscle to timeless European legends, these miniatures capture the essence of automotive history. Ideal for gifting, showcasing, or completing your diecast display.
-  Updated: 2026-03-07T05:50:07Z
+- [Majorette 1995 Honda NSX-R GT – Premium Diecast Sports Car Model](https://theworldofnerds.com/products/majorette-1985-chevrolet-camaro-retro-blue-collector-diecast-car): Bring the thrill of iconic cars to your collection with these premium Majorette diecast models. Each car features realistic detailing, authentic design, and durable metal construction — perfect for collectors and car enthusiasts. From classic American muscle to timeless European legends, these miniatures capture the essence of automotive history. Ideal for gifting, showcasing, or completing your diecast display.
+  Updated: 2026-04-25T14:32:17Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_72179033-664e-4313-ac70-60a623dcc0cf.jpg?v=1762347371
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_27e1f504-7c5c-4f85-8f36-883474122cf7.jpg?v=1776746546
   Price: ₹899.00 INR
-- [Majorette 1995 Honda NSX-R GT – Premium Diecast Sports Car Model](https://theworldofnerds.com/products/majorette-1995-honda-nsx-r-gt-premium-diecast-sports-car-model): Bring the thrill of iconic cars to your collection with these premium Majorette diecast models. Each car features realistic detailing, authentic design, and durable metal construction — perfect for collectors and car enthusiasts. From classic American muscle to timeless European legends, these miniatures capture the essence of automotive history. Ideal for gifting, showcasing, or completing your diecast display.
-  Updated: 2026-02-20T12:05:27Z
+- [Majorette 1985 Chevrolet Camaro – Retro Blue Collector Diecast Car](https://theworldofnerds.com/products/majorette-1995-honda-nsx-r-gt-premium-diecast-sports-car-model): Bring the thrill of iconic cars to your collection with these premium Majorette diecast models. Each car features realistic detailing, authentic design, and durable metal construction — perfect for collectors and car enthusiasts. From classic American muscle to timeless European legends, these miniatures capture the essence of automotive history. Ideal for gifting, showcasing, or completing your diecast display.
+  Updated: 2026-04-21T16:41:10Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_62193a16-6741-458d-abf8-b23371006f19.jpg?v=1762347451
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_377efe37-a23f-4ba5-b27e-617947b284ce.jpg?v=1776746574
   Price: ₹899.00 INR
 - [Majorette Mack Granite Nissan GT-R Nismo GT3 Diecast](https://theworldofnerds.com/products/majorette-mack-granite-nissan-gt-r-nismo-gt3-diecast): Bring home the thrill of motorsport with these Majorette Diecast Car and Trailer Sets, featuring officially licensed models from top automotive brands like Porsche, Ford, Nissan, Jaguar, and Land Rover. Each collectible set is crafted with precise detailing, authentic logos, and vibrant racing liveries—perfect for display or play. A must-have for car enthusiasts and collectors, these miniatures celebrate the legacy of performance and design excellence.
   Updated: 2026-02-11T06:12:29Z
@@ -11274,7 +11267,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_96dce933-6a1b-4ff5-b810-d01156d5a6a7.jpg?v=1762497085
   Price: ₹399.00 INR
 - [Majorette Porsche 917 Diecast Car – Blue Racing Edition](https://theworldofnerds.com/products/majorette-porsche-917-diecast-car-blue-racing-edition): The Majorette Porsche 917 in blue racing colors brings the spirit of Le Mans to your collection. With its detailed #17 design, opening rear engine cover, and realistic build, this diecast model pays homage to Porsche’s iconic endurance racer. A must-have for collectors who appreciate precision, history, and the excitement of classic motorsport.
-  Updated: 2026-03-05T11:02:38Z
+  Updated: 2026-04-27T09:11:37Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -11302,63 +11295,63 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_db491364-8738-4cad-b252-e69770d64213.jpg?v=1762497348
   Price: ₹749.00 INR
 - [Majorette Street Cars – Orange Hatchback Diecast Model](https://theworldofnerds.com/products/majorette-street-cars-orange-hatchback-diecast-model): Add a touch of speed and style to your diecast collection with this Majorette Street Cars Orange model. Crafted with detailed precision and realistic design, this collectible car toy captures the spirit of modern street vehicles. Perfect for car enthusiasts, kids, and collectors alike, this Majorette diecast car makes a great display piece or gift.
-  Updated: 2026-02-20T11:57:29Z
+  Updated: 2026-04-21T04:16:36Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_6e3f3367-6cef-43e2-b6e9-995ac5bf36f0.jpg?v=1762497541
   Price: ₹199.00 INR
 - [Majorette Street Cars – Orange Pickup Diecast Truck](https://theworldofnerds.com/products/majorette-street-cars-orange-pickup-diecast-truck): Add power and precision to your collection with this Majorette Street Cars Orange Pickup Truck. Designed with authentic detailing, smooth-rolling wheels, and a striking orange finish, this diecast model captures the essence of rugged street style. Perfect for collectors, kids, and automotive enthusiasts, this Majorette pickup toy car makes a great addition to any diecast display or gift collection.
-  Updated: 2026-02-20T11:58:46Z
+  Updated: 2026-04-21T04:16:37Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_225384fb-e6f7-4811-9848-26eedfda09a0.jpg?v=1762497622
   Price: ₹199.00 INR
 - [Majorette Street Cars – Blue Pickup Diecast Truck](https://theworldofnerds.com/products/majorette-street-cars-blue-pickup-diecast-truck): Experience the perfect blend of style and strength with this Majorette Street Cars Blue Pickup Truck. Featuring realistic details, smooth wheels, and a striking blue finish, this diecast toy car is built for collectors and kids alike. Add this Majorette pickup model to your collection and enjoy the craftsmanship and durability that make Majorette a favorite among car enthusiasts.
-  Updated: 2026-02-20T11:59:39Z
+  Updated: 2026-04-24T12:37:46Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_527b5bf7-6362-4781-9906-e35330aa0fda.jpg?v=1762497676
   Price: ₹199.00 INR
 - [Majorette Street Cars – White Off-Road SUV Diecast](https://theworldofnerds.com/products/majorette-street-cars-white-off-road-suv-diecast): A studio shot of a white die-cast SUV toy car, new in its original packaging. The toy is part of the Majorette "Street Cars" line and is displayed in a clear blister pack on a red and black cardboard backing, set against a dark, textured background. The packaging indicates it is suitable for ages 3 and up.
-  Updated: 2026-04-12T06:56:08Z
+  Updated: 2026-04-23T13:09:18Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_599ecaff-a892-4edc-99bd-67751eb4cb9e.jpg?v=1762497739
   Price: ₹199.00 INR
 - [Majorette Street Cars – Blue Hatchback Model Diecast](https://theworldofnerds.com/products/majorette-street-cars-blue-hatchback-model-diecast): A studio shot of a blue die-cast sports car toy, new in its original packaging. The toy is part of the Majorette "Street Cars" line and is displayed in a clear blister pack on a red and black cardboard backing, set against a dark, textured background. The packaging indicates it is suitable for ages 3 and up.
-  Updated: 2026-02-20T11:58:56Z
+  Updated: 2026-04-21T04:16:37Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_8a9f526b-d7b1-463d-a5db-6e2d1404f4b5.jpg?v=1762498173
   Price: ₹199.00 INR
 - [Majorette Street Cars – Purple Hatchback Diecast](https://theworldofnerds.com/products/majorette-street-cars-purple-hatchback-diecast): A studio shot of a purple die-cast sports car toy, new in its original packaging. The toy is part of the Majorette "Street Cars" line and is displayed in a clear blister pack on a red and black cardboard backing, set against a dark, textured background. The packaging indicates it is suitable for ages 3 and up.
-  Updated: 2026-02-20T11:56:47Z
+  Updated: 2026-04-21T04:16:41Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_27bf7276-4900-4552-a75f-0e6e01e3aac7.jpg?v=1762498224
   Price: ₹199.00 INR
 - [Majorette Street Cars – Purple Jeep Off-Roader Diecast](https://theworldofnerds.com/products/majorette-street-cars-purple-jeep-off-roader-diecast): A studio shot of a purple die-cast, Jeep-style SUV toy car, new in its original packaging. The toy is part of the Majorette "Street Cars" line and is displayed in a clear blister pack on a red and black cardboard backing, set against a dark, textured background. The packaging indicates it is suitable for ages 3 and up.
-  Updated: 2026-02-20T11:56:38Z
+  Updated: 2026-04-21T04:16:37Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_42106ef1-8390-48ed-a49b-fad5e3294503.jpg?v=1762498297
   Price: ₹199.00 INR
 - [Majorette Street Cars Red Convertible Toy Car in Blister Pack](https://theworldofnerds.com/products/majorette-street-cars-red-convertible-toy-car-in-blister-pack): A studio shot of a red die-cast convertible sports car toy, new in its original packaging. The toy is part of the Majorette "Street Cars" line and is displayed in a clear blister pack on a red and black cardboard backing, set against a dark, textured background. The packaging indicates it is suitable for ages 3 and up
-  Updated: 2026-04-12T06:56:08Z
+  Updated: 2026-04-24T12:37:48Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_9b5263c3-d537-4a42-8061-bbc7f3c0a7fb.jpg?v=1762498460
   Price: ₹199.00 INR
 - [Majorette Yellow Sports Car Diecast Model in Blister Pack](https://theworldofnerds.com/products/majorette-yellow-sports-car-diecast-model-in-blister-pack): Experience the thrill of racing with this Majorette yellow diecast car from the Speed Series collection. Designed with precision detailing, black racing stripes, and a sporty finish, it’s perfect for both young car lovers and  collectors. Packaged securely in a display-ready blister pack, this miniature vehicle combines style, durability, and the signature Majorette craftsmanship.
-  Updated: 2026-02-20T11:59:05Z
+  Updated: 2026-04-21T04:16:37Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -11372,21 +11365,21 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e95c7c08-7e1b-4a0e-9fc7-90161a72fa2a.jpg?v=1762498592
   Price: ₹199.00 INR
 - [Majorette Premium Diecast Vehicle – Yellow Compact Coupe](https://theworldofnerds.com/products/majorette-premium-diecast-vehicle-yellow-compact-coupe): Add a touch of city style to your collection with this Majorette Street Cars yellow hatchback diecast model. Designed with realistic detailing and durable metal construction, this compact car captures the charm of urban driving. Perfect for kids aged 3+ and collectors who appreciate everyday classics, it comes sealed in a vibrant Majorette blister pack for display or gifting.
-  Updated: 2026-02-20T11:58:17Z
+  Updated: 2026-04-24T12:37:46Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_5e9b7346-8be9-4928-8952-776bd84ee1b5.jpg?v=1762498684
   Price: ₹199.00 INR
 - [Majorette Diecast Vehicle – Sleek White Sports Coupe](https://theworldofnerds.com/products/majorette-diecast-vehicle-sleek-white-sports-coupe): This Majorette white sports car from the Street Cars series blends sleek design with authentic detailing, perfect for collectors and kids alike. With its aerodynamic body, stylish rims, and premium finish, this diecast model captures the thrill of modern racing. Ideal for display or play, it comes securely packaged in an eye-catching Majorette blister pack, suitable for ages 3 and up.
-  Updated: 2026-03-06T11:41:29Z
+  Updated: 2026-04-21T07:30:57Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_1e261b4e-214b-448e-842b-091ff83d3a95.jpg?v=1762498764
   Price: ₹199.00 INR
 - [Majorette Street Racer – Glossy Green Sports Car](https://theworldofnerds.com/products/majorette-street-racer-glossy-green-sports-car): Bring racing excitement to your collection with this Majorette Street Cars green sports coupe. Featuring a sleek aerodynamic design, detailed interiors, and durable metal build, this diecast model perfectly blends style and performance. Ideal for collectors and kids aged 3+, it comes in a premium Majorette blister pack — ready for display or playtime action.
-  Updated: 2026-02-20T11:57:28Z
+  Updated: 2026-04-21T07:30:56Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -11421,7 +11414,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_9e91828b-0bdd-405e-ad5f-81a83248ff7d.jpg?v=1764761362
   Price: ₹2,111.00 INR
 - [One Piece Bobblehead Bundle](https://theworldofnerds.com/products/one-piece-bobblehead): 🏴☠️ One Piece Chibi Bobblehead Bundle – 4-Piece Collector Set Set sail with the Straw Hat Crew in adorable chibi form with this 4-Piece One Piece Bobblehead Bundle! Each figure features expressive faces, cute proportions, high-quality paintwork, and a sturdy One Piece display base. Perfect for car dashboards, desks, shelves, or gifting — these bobbleheads bring humor, energy, and pirate charm to any collection. ✨ Bundle Includes: Monkey D. Luffy – Straw Hat Grin Bobble Edition Monkey D. Luffy – Peace Sign Bobble Edition Roronoa Zoro – Swordsman Chibi Bobble Edition Sanji – Heart Eyes Chef Bobble Edition 🔥 A fun, iconic, and must-have collectible set for every One Piece fan — perfect for display, gifting, or adding pirate vibes to your space!
-  Updated: 2026-03-16T05:21:00Z
+  Updated: 2026-04-18T12:23:46Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Not Available
@@ -11477,10 +11470,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/001_0fd92d3a-df8b-4ad9-b44f-024b1400572a.jpg?v=1764762568
   Price: ₹759.00 INR
 - [Dragon Ball Bundle](https://theworldofnerds.com/products/dragon-ball-bundle): 🔥 Dragon Ball Legends 5-Figure Bundle – Premium Collector Set Power up your collection with this dynamic Dragon Ball Legends Bundle featuring five highly detailed action figures inspired by some of the most iconic transformations and warriors in the Dragon Ball universe. Each figure captures the energy, attitude, and signature fighting stance of its character, making this set a must-have for fans and collectors alike. ✨ Bundle Includes: Super Saiyan Goku – Featuring vibrant golden hair and classic orange gi, ready for battle. Ultra Instinct Goku (Omen) – Showcasing silver hair and intense combat focus. Broly (Full Power) – With his massive build, green ki armor, and fierce expression. Gogeta (Super Saiyan 4 style) – Striking red hair, fusion vest, and energy-charged pose. Vegeta (God-like transformation) – Red hair form, white-and-yellow armor, and confident stance. Each figure is crafted with bold colors, expressive sculpting, and articulated joints, perfect for both display and action poses. Whether you’re building your own Saiyan showcase or gifting a fellow fan, this bundle delivers unbeatable value and unstoppable Dragon Ball energy. 🔥 Perfect for collectors, display setups, and Dragon Ball lovers of all ages.
-  Updated: 2026-03-30T10:33:36Z
+  Updated: 2026-04-26T20:00:47Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/dragonball.jpg?v=1764670520
   Price: ₹1,759.00 INR
 - [One Piece Action Figure Bundle](https://theworldofnerds.com/products/one-piece-action-figure-bundle): 🏴☠️ One Piece Anime Figure Bundle – 5-Piece Set Bring the Grand Line to your collection with this One Piece Anime Figure Bundle! Each figure features detailed sculpting, vibrant colors, and a sturdy display base, making them lightweight, durable, and perfect for collectors. Designed with anime-accurate details, this set is great for shelves, desks, and showcases. It’s also perfect for gifts, making it a great choice for fans, collectors, and anime lovers. ✨ Bundle Includes: Luffy Nami Kid Sanji Shanks 🔥 A bold, collectible, and must-have set for every One Piece fan!
@@ -11512,7 +11505,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_f52c91f8-34a3-41f1-a65f-26eab36e31da.jpg?v=1765534795
   Price: ₹839.00 INR
 - [ZD Toys Spider-Man Action Figure – 4 Inch Marvel Collectible with Stand](https://theworldofnerds.com/products/zd-toys-spider-man-action-figure-10-cm-marvel-collectible-with-stand): The ZD Toys 4 Inch Spider-Man action figure features high-quality detailing, a classic red-and-blue suit, and a sturdy display base. Designed for Marvel fans and collectors, this compact figure comes in a premium window box, making it perfect for display, gifting, or collection builds. Features ZD Toys premium Spider-Man figure 4 Inch collectible size Classic red & blue suit detailing Includes display stand Durable build quality Comes in a collector window box
-  Updated: 2026-02-20T10:43:03Z
+  Updated: 2026-04-24T19:32:56Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -11533,7 +11526,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_eaaa5f5f-712b-4f20-859d-3268fb7c5625.jpg?v=1765535354
   Price: ₹839.00 INR
 - [ZD Toys Thor Action Figure – 4 Inch Marvel Collectible with Stormbreaker](https://theworldofnerds.com/products/zd-toys-thor-action-figure-10-cm-marvel-collectible-with-stormbreaker): The ZD Toys 4 Inch Thor action figure features premium detailing, a movie-accurate black suit, red cape, and his powerful Stormbreaker axe. Designed for Marvel fans and collectors, this compact figure comes with a sturdy display base and a high-quality window box, making it ideal for collections, display shelves, and gifting. Features ZD Toys premium Thor (4 inch collectible) Detailed armor suit with red cape Includes Stormbreaker accessory Comes with display stand Durable build quality Packed in a collector window box
-  Updated: 2026-04-03T06:47:48Z
+  Updated: 2026-04-27T16:22:17Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -11561,7 +11554,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_d4743500-e5b7-498b-8c79-08140cb5e7f2.jpg?v=1765535666
   Price: ₹839.00 INR
 - [ZD Toys Hulkbuster Action Figure – Premium Metallic Iron Man Armor Collectible](https://theworldofnerds.com/products/zd-toys-hulkbuster-action-figure-premium-metallic-iron-man-armor-collectible): The ZD Toys Hulkbuster action figure features a striking metallic red-and-gold finish with heavy armor detailing inspired by Marvel’s iconic suit. Built with a solid, durable design, this figure offers an impressive display presence whether posed alone or added to your Marvel collection. Perfect for fans, collectors, and display setups. Features ZD Toys premium Hulkbuster figure Metallic red & gold armored finish Highly detailed sculpting Durable and heavy build design Great for display and collections
-  Updated: 2026-02-21T06:24:26Z
+  Updated: 2026-04-25T14:40:26Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -11575,7 +11568,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_f11614f9-34fc-4926-a7af-94a7e32d65f4.jpg?v=1765535807
   Price: ₹3,999.00 INR
 - [ZD Toys Chrome Iron Man Mark II Action Figure – Premium Metallic Collectible](https://theworldofnerds.com/products/zd-toys-chrome-iron-man-mark-ii-action-figure-premium-metallic-collectible): This Chrome Iron Man Mark II action figure features a full metallic silver finish, detailed panel lines, multiple interchangeable hands, and dynamic flame effects for flight and combat poses. Designed for collectors who love premium display pieces, this figure includes a sturdy stand and highly articulated joints for cinematic posing. Features Full chrome metallic finish 6.9-inch collectible scale Interchangeable hands set Blast and flight effect accessories High articulation for dynamic posing Comes with a premium display stand
-  Updated: 2026-02-20T10:37:47Z
+  Updated: 2026-04-22T19:18:56Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -11617,70 +11610,70 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_7defe8f4-0627-47ff-83cd-a7c69b0c21a6.jpg?v=1765536593
   Price: ₹4,599.00 INR
 - [ZD toys Spider-Man Classic Action Figure – 4 Inch Poseable Collectible for Kids & Fans](https://theworldofnerds.com/products/spider-man-classic-action-figure-11-cm-poseable-collectible-for-kids-fans): This Classic Spider-Man action figure stands at 4 Inch and features bright comic-style red and blue colors. With poseable joints and a stable display base, it’s perfect for play, posing, or shelf display. Comes packed in a themed Marvel box, making it ideal for gifting and collecting. Highlights 4 inch Spider-Man collectible figure Classic red & blue comic-style suit Poseable articulation for dynamic poses Comes with display stand Durable build for kids & collectors Packed in a Marvel-themed display box
-  Updated: 2026-03-17T06:48:11Z
+  Updated: 2026-04-23T05:14:51Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_147022bc-5d18-4844-b3eb-6fb5f536440c.jpg?v=1765536732
   Price: ₹699.00 INR
 - [ZD toys Marvel Rhino Action Figure – 4 Inch Villain Collectible for Kids & Fans](https://theworldofnerds.com/products/marvel-rhino-action-figure-11-cm-villain-collectible-for-kids-fans): This Rhino action figure stands at 4 Inch and captures the classic bulky armored look of Spider-Man’s powerful villain. Designed with durable material and strong detailing, it’s perfect for play or display. Comes in a themed Marvel box, making it a great addition to any superhero collection. Highlights 4 Inch Rhino collectible figure Classic armored grey sculpt Sturdy build for kids & collectors Dynamic posing capability Includes display stand Packed in a Marvel-themed box
-  Updated: 2026-04-03T06:47:48Z
+  Updated: 2026-04-21T15:18:26Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_24dec26a-3dd2-4483-915d-393f90b99796.jpg?v=1765536846
   Price: ₹699.00 INR
 - [ZD toys Marvel Green Goblin Action Figure – 4 Inch Classic Spider-Man Villain Collectible](https://theworldofnerds.com/products/marvel-green-goblin-action-figure-11-cm-classic-spider-man-villain-collectible): This Green Goblin figure stands at 4 Inch and features his iconic green and purple suit, detailed sculpting, and signature pumpkin bomb accessory. Made for fans and young collectors, the figure offers sturdy articulation for action poses and comes in a themed Marvel display box—perfect for gifting or collecting. Highlights 4 Inch Green Goblin collectible figure Classic green & purple villain design Includes pumpkin bomb accessory Durable articulation for posing Strong build quality for kids & collectors Comes in a Marvel-themed display box
-  Updated: 2026-04-10T07:55:26Z
+  Updated: 2026-04-21T15:18:31Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_138d6073-5a2b-4b73-8f2f-4f9a5d5bc1c5.jpg?v=1765537253
   Price: ₹699.00 INR
 - [ZD toys Scarlet Spider Action Figure – Classic Red Suit with Blue Hoodie Design](https://theworldofnerds.com/products/scarlet-spider-action-figure-classic-red-suit-with-blue-hoodie-design): This Scarlet Spider figure features the iconic red suit paired with the classic blue sleeveless hoodie and bold spider emblem. Built for Spider-Man fans and collectors, it offers a clean sculpt, dynamic posing ability, and durable build. Packed in a display-friendly box, it’s ideal for collectors, gifting, or play. Highlights Scarlet Spider classic red suit Blue hoodie with black spider emblem 6-inch articulated action figure Durable and detailed sculpt Comes in a premium display box
-  Updated: 2026-04-03T06:47:48Z
+  Updated: 2026-04-24T17:10:37Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_29888105-bfc4-490a-a6b7-96da60d90872.jpg?v=1765537375
   Price: ₹699.00 INR
 - [ZD toys Electro Action Figure – Classic Yellow & Green Suit with Lightning Details](https://theworldofnerds.com/products/electro-action-figure-classic-yellow-green-suit-with-lightning-details): This Electro figure features the iconic yellow star-shaped mask, classic green suit, and bold lightning patterns. Designed for Spider-Man fans and collectors, it offers solid articulation, bright comic-accurate colors, and a sturdy build. Packed in a display-ready box, it’s great for collection setups, gifting, or display. Highlights Classic Electro yellow & green suit Comic-accurate lightning mask design 6-inch articulated action figure Durable and detailed sculpt Comes in a premium display box
-  Updated: 2026-03-17T06:48:48Z
+  Updated: 2026-04-22T12:33:46Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_f2cea8cf-d5c0-4940-ad6e-403176d23369.jpg?v=1765537447
   Price: ₹699.00 INR
 - [ZD toys Doctor Octopus Action Figure – Classic Green Suit with Flexible Mechanical Arms](https://theworldofnerds.com/products/doctor-octopus-action-figure-classic-green-suit-with-flexible-mechanical-arms): This Doctor Octopus figure features the iconic green-and-yellow suit, signature goggles, and four flexible mechanical tentacles for dynamic posing. Built for Spider-Man fans and collectors, it offers strong detailing, sturdy articulation, and comes packed in a display-ready collector box—perfect for showcasing or gifting. Highlights Classic Doctor Octopus green & yellow suit Includes 4 flexible mechanical tentacles 6-inch articulated action figure Detailed sculpt with comic-accurate design Comes in a premium collector display box
-  Updated: 2026-04-10T07:55:26Z
+  Updated: 2026-04-22T11:49:16Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_dcecbb22-36b6-477b-9d62-a3c1b3248e7f.jpg?v=1765537505
   Price: ₹699.00 INR
 - [ZD toys Miles Morales Spider-Man Action Figure – Black & Red Suit Collectible](https://theworldofnerds.com/products/miles-morales-spider-man-action-figure-black-red-suit-collectible): This Miles Morales Spider-Man figure comes in a sleek black-and-red suit design with detailed sculpting and smooth articulation. Built for fans and collectors, it offers dynamic posing options and a sturdy build. Packed in a premium display box, it’s ideal for display, gifting, or collection expansion. Highlights • Detailed Miles Morales black & red suit• Smooth articulation for action poses• Durable body design• Vibrant paint detailing• Comes in a premium display box
-  Updated: 2026-04-03T06:47:48Z
+  Updated: 2026-04-18T07:56:52Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_de02d917-5cb6-4e7b-ba0c-7c757f8a729f.jpg?v=1765537592
   Price: ₹699.00 INR
 - [ZD toys Spider-Gwen Action Figure – 4 Inch Marvel Collectible](https://theworldofnerds.com/products/spider-gwen-action-figure-11-cm-marvel-collectible): This 4 Inch Spider-Gwen (Ghost-Spider) action figure features her iconic white-and-black suit with pink accents and a sculpted hood design. Built for Marvel fans and young collectors, the figure includes articulated joints for posing and comes packed in a display-friendly window box. Highlights• 4 Inch articulated Ghost-Spider figure• Classic white, black & pink suit detailing• Sculpted hood design• Durable and lightweight build• Comes in a collector window box
-  Updated: 2026-04-15T05:22:17Z
+  Updated: 2026-04-20T12:46:18Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_868205ea-b82b-4330-bad4-bf229671c48d.jpg?v=1765537674
   Price: ₹699.00 INR
 - [ZD toys Venom Action Figure – Muscular Design with Signature Symbiote Details](https://theworldofnerds.com/products/venom-action-figure-muscular-design-with-signature-symbiote-details): This Venom figure features a powerful, muscular build with bold white symbiote patterns and an extended tongue sculpt for an iconic display look. It offers smooth articulation for posing and comes in a premium-style display box, making it a great pick for fans and collectors. Highlights Classic Venom design with detailed symbiote logo Muscular body sculpt with dynamic posture Extended tongue and sharp teeth detailing Durable articulation for posing Collector-friendly display box included
-  Updated: 2026-03-17T06:49:27Z
+  Updated: 2026-04-22T12:33:46Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_fb9e9f1b-9c9e-48c2-a960-295d7fb540e8.jpg?v=1765537735
   Price: ₹699.00 INR
 - [ZD toys Spider-Man 2099 Collectible Figure – Futuristic Suit Edition](https://theworldofnerds.com/products/spider-man-2099-collectible-figure-futuristic-suit-edition): This Spider-Man 2099 figure features a sleek navy suit with bold red futuristic detailing inspired by Miguel O'Hara’s iconic look. Designed for fans and collectors, it includes sharp sculpted accents and articulated joints for posing. Packed in a display-friendly box, it’s perfect for showcasing or adding to your Spider-Verse collection. Highlights Detailed Spider-Man 2099 futuristic suit Bold navy and red color pattern Sculpted arm spikes for an accurate comic look Articulated body for dynamic posing Comes in a collector-friendly display box
-  Updated: 2026-03-17T06:49:36Z
+  Updated: 2026-04-22T12:33:51Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -11729,10 +11722,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_b79451b6-3e39-4e9b-bc92-526df5eca2c2.jpg?v=1765539470
   Price: ₹1,299.00 INR
 - [Iron Man Mark 85 – 4-Inch ZD Toys Collectible Figure](https://theworldofnerds.com/products/iron-man-mark-85-4-inch-zd-toys-collectible-figure): This 4-inch ZD Toys Iron Man Mark 85 figure features the iconic Endgame red-and-gold nanotech armor with clean sculpting and sharp detailing. Compact yet premium, it captures the final suit of Tony Stark with impressive accuracy. Packaged in a collector-friendly box, it’s perfect for display, gifting, or expanding your Iron Man collection. Highlights• ZD Toys Iron Man Mark 85 figure• 4-inch collectible size• Detailed red & gold Endgame armor• Smooth sculpt with durable build• Ideal for collectors and display setups• Comes in a premium collector box
-  Updated: 2026-04-10T06:12:29Z
+  Updated: 2026-04-20T19:18:16Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_34f198b3-0ce0-468c-8695-8fd7e10e7add.jpg?v=1765539577
   Price: ₹1,399.00 INR
 - [Iron Man Mark 50 – 4-Inch ZD Toys Collectible Figure](https://theworldofnerds.com/products/iron-man-mark-50-4-inch-zd-toys-collectible-figure): This 4-inch ZD Toys Iron Man Mark 50 figure showcases the sleek red-and-gold nanotech armor from Avengers: Infinity War. Designed with precise sculpting and a durable finish, this compact collectible captures the advanced nano-suit look perfectly. Packaged in a premium display box, it’s ideal for Marvel fans and Iron Man collectors. Highlights• ZD Toys Iron Man Mark 50 figure• 4-inch collectible size• Red & gold nanotech Infinity War armor• Durable sculpt with clean detailing• Perfect for display or gifting• Comes in a premium collector box
@@ -11771,10 +11764,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Ironmanmark42_3.jpg?v=1765974528
   Price: ₹3,999.00 INR
 - [Iron Man Mark 45 – ZD Toys Premium Marvel Collectible Figure](https://theworldofnerds.com/products/iron-man-mark-45-zd-toys-premium-marvel-collectible-figure): This ZD Toys Iron Man Mark 45 figure captures the sleek, upgraded armor design introduced in Avengers: Age of Ultron. Featuring a refined red-and-gold finish, sharp panel detailing, and a dynamic silhouette, this collectible offers a premium display presence for Marvel fans and Iron Man collectors. Highlights• ZD Toys Iron Man Mark 45 collectible figure• Age of Ultron-era armor design• Detailed sculpting with metallic red & gold finish• Durable and display-ready construction• Ideal for collectors, display setups, and gifting
-  Updated: 2026-02-18T11:29:45Z
+  Updated: 2026-04-21T09:48:51Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_6b7eed76-8364-4ac9-9dc0-8366fc2e338b.png?v=1766054981
   Price: ₹3,999.00 INR
 - [Iron Man Mark 46 – ZD Toys Premium Marvel Collectible Figure](https://theworldofnerds.com/products/iron-man-mark-46-zd-toys-premium-marvel-collectible-figure): This ZD Toys Iron Man Mark 46 figure features the sleek and aggressive armor design from Captain America: Civil War. With its refined red-and-gold finish, sharp panel lines, and battle-ready styling, this collectible delivers a powerful display presence for Marvel fans and Iron Man collectors. Highlights• ZD Toys Iron Man Mark 46 collectible figure• Civil War–era streamlined armor design• Detailed sculpting with metallic red & gold finish• Durable and display-ready construction• Perfect for collectors, display setups, and gifting
@@ -11792,7 +11785,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/FinalIronman.jpg?v=1765974954
   Price: ₹8,999.00 INR
 - [Iron Man Mark 4 – ZD Toys Premium Marvel Collectible Figure](https://theworldofnerds.com/products/iron-man-mark-4-zd-toys-premium-marvel-collectible-figure): This ZD Toys Iron Man Mark 4 figure showcases the sleek red-and-gold armor with refined detailing inspired by Tony Stark’s upgraded suit. Designed with clean sculpting, metallic paint finish, and a durable build, this collectible delivers a strong display presence for Marvel fans and Iron Man collectors. Highlights• ZD Toys Iron Man Mark 4 collectible figure• Classic red & gold armor design• Detailed sculpting with metallic finish• Durable and display-ready construction• Ideal for collectors, display setups, and gifting
-  Updated: 2026-02-20T10:37:27Z
+  Updated: 2026-04-26T17:36:59Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -11827,10 +11820,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/zd-toys-avengers-age-of-ultron-iron-man-mark-xliii-43-action-figure-no-light-up-function-9469815.webp?v=1766037634
   Price: ₹3,999.00 INR
 - [Iron Spider – ZD Toys Premium Marvel Collectible Figure](https://theworldofnerds.com/products/iron-spider-zd-toys-premium-marvel-collectible-figure): This ZD Toys Iron Spider figure features the iconic red, gold, and blue suit with metallic detailing inspired by the Avengers films. Designed with clean sculpting and a durable build, this collectible captures the advanced Iron Spider armor and delivers a bold display presence for Marvel fans and Spider-Man collectors. Highlights• ZD Toys Iron Spider collectible figure• Red, gold & blue armor-style suit design• Detailed sculpting with metallic finish• Durable and display-ready construction• Ideal for collectors, display setups, and gifting
-  Updated: 2026-02-18T11:30:10Z
+  Updated: 2026-04-24T19:32:56Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Iron.png?v=1766063764
   Price: ₹3,999.00 INR
 - [Spider-Man No Way Home (Upgraded Suit) – ZD Toys Premium Marvel Collectible Figure](https://theworldofnerds.com/products/spider-man-no-way-home-upgraded-suit-zd-toys-premium-marvel-collectible-figure): This ZD Toys Spider-Man No Way Home (Upgraded) figure features the red-and-black suit with refined detailing inspired by the movie design. Crafted with clean sculpting, accurate suit patterns, and a durable build, this collectible captures Spider-Man’s upgraded look and offers a striking display presence for Marvel fans and collectors. Highlights• ZD Toys Spider-Man collectible figure• No Way Home upgraded red & black suit• Detailed sculpting with clean paint finish• Durable and display-ready construction• Ideal for collectors, display setups, and gifting
@@ -11855,7 +11848,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/WRWR.webp?v=1766048880
   Price: ₹4,499.00 INR
 - [Venom 1:10 Scale – ZD Toys Premium Marvel Collectible Figure](https://theworldofnerds.com/products/venom-1-10-scale-zd-toys-premium-marvel-collectible-figure): This 1:10 scale ZD Toys Venom figure showcases a powerful muscular build with detailed symbiote texture and an aggressive stance. Featuring sharp sculpting, bold black-and-white detailing, and a durable build, this collectible delivers an impressive display presence for Marvel fans and figure collectors. Highlights• ZD Toys Venom collectible figure• 1:10 scale premium display size• Muscular symbiote body design• Detailed sculpt with bold paint finish• Durable and display-ready build• Ideal for collectors, display setups, and gifting
-  Updated: 2026-02-20T10:42:18Z
+  Updated: 2026-04-22T19:19:02Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -12016,7 +12009,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/5_af813d01-6749-4225-a5fa-027eb9c8ddbc.jpg?v=1767962805
   Price: ₹1,299.00 INR
 - [Broly – Action Figure](https://theworldofnerds.com/products/broly-action-figure): Unleash raw Saiyan rage with the Broly Action Figure. Inspired by his Legendary Super Saiyan form, this figure captures Broly in a powerful battle stance with an explosive green aura effect. From his massive physique to his intense expression, every detail reflects Broly’s uncontrollable strength and dominance from Dragon Ball Super. A bold and commanding display piece for Dragon Ball fans and collectors. Highlights Features Broly in Legendary Super Saiyan form Dynamic green energy aura for an intense action look Highly detailed sculpt with muscular definition Premium paint finish with solid build quality Sturdy base for desk, shelf, or showcase display Perfect for Dragon Ball fans & anime collectors Ideal centerpiece or high-impact gifting option
-  Updated: 2026-02-11T06:12:31Z
+  Updated: 2026-04-21T07:48:56Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -12044,7 +12037,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/gip_4ce1c0d4-320c-40fd-9014-f3bfb73c5b1a.gif?v=1767963494
   Price: ₹3,099.00 INR
 - [Naruto D2 – Action Figure](https://theworldofnerds.com/products/naruto-d2-action-figure): Bring ninja energy to your collection with the Naruto D2 Action Figure. Featuring Naruto in his iconic outfit wielding the Rasengan, this figure captures the determination and power of the Hidden Leaf’s hero. With dynamic posing, sharp sculpting, and vibrant colors, it’s a perfect pick for Naruto fans and anime collectors. Highlights Detailed Naruto Uzumaki action pose with Rasengan effect Anime-accurate sculpt and expressive facial detailing Premium paint finish with sturdy build quality Comes with a stable display base Ideal for desk, shelf, or showcase display Perfect for Naruto fans & anime collectors Great gifting option for anime lovers
-  Updated: 2026-02-11T06:12:34Z
+  Updated: 2026-04-28T19:08:07Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -12100,10 +12093,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_36bbc987-ae53-48b9-aa90-b674d27efbb1.jpg?v=1767965032
   Price: ₹3,599.00 INR
 - [GOKU – CLASSIC BATTLE POSE COLLECTIBLE FIGURE](https://theworldofnerds.com/products/goku-classic-battle-pose-collectible-figure): Bring home the Saiyan legend with this Goku figure in his classic battle-ready stance. Featuring spiky black hair, the iconic orange gi with blue accents, and clenched fists, this sculpt captures Goku’s fearless energy just before unleashing his power. Clean paintwork and solid proportions make it a must-have for Dragon Ball fans. Highlights Iconic Goku look with anime-accurate colors Dynamic fighting pose for shelf impact Durable build with stable footing Perfect for display, gifting, or collection upgrades
-  Updated: 2026-02-26T12:50:06Z
+  Updated: 2026-04-22T02:34:07Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_a598eec3-0f09-4570-8057-1223c8567765.jpg?v=1767965200
   Price: ₹399.00 INR
 - [GOKU – MASTERED ULTRA INSTINCT (MUI) COLLECTIBLE FIGURE](https://theworldofnerds.com/products/goku-mastered-ultra-instinct-mui-collectible-figure): Witness Goku at his absolute peak. This Mastered Ultra Instinct figure captures the calm-before-the-storm aura with metallic silver hair, intense eyes, and a battle-worn orange gi. The sculpt highlights powerful musculature and torn details, perfectly reflecting the divine state where instinct takes over. Key Highlights Silver (MUI) hair with sharp, dynamic sculpt Ripped gi & defined physique for an authentic battle look Neutral power stance—perfect for premium displays Sturdy build ideal for collectors and fans
@@ -12142,39 +12135,39 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_ac7f7bbf-71d1-4774-b26e-9c1a6184b967.jpg?v=1773659862
   Price: ₹1,499.00 INR
 - [Sasuke’s Kusanagi White Wooden Katana](https://theworldofnerds.com/products/sasuke-s-kusanagi-white-wooden-katana-anime-replica-training-sword-with-sheath): Strike in style with Sasuke’s iconic Kusanagi White Wooden Katana, a sleek collectible inspired by the legendary  from the Naruto anime universe. Featuring the bold Uchiha clan crest and clean black line accents, this sword blends minimalist elegance with true fandom energy. Lightweight, durable, and perfectly sized for cosplay events, room décor, photography, and collector displays, it delivers the visual impact of a katana without the weight or risk of a metal blade. A must-have for Naruto collectors and cosplayers looking to complete their setup with authenticity. Specifications ✔ Material: Premium Wood ✔ Length: ~104 cm (approx.) ✔ Weight: Lightweight for cosplay handling ✔ Type: Decorative / Cosplay / Display ✔ Finish: Gloss White Lacquer + Clan Marking ✔ Blade: Non-Sharp (Event-Safe & Display-Safe)
-  Updated: 2026-03-16T05:10:41Z
+  Updated: 2026-04-26T08:47:26Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/s1.jpg?v=1773637825
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_0314c18d-8726-4fa1-b74e-c0770c648c28.jpg?v=1776431623
   Price: ₹1,999.00 INR
 - [TSUGIKUNI YORIICHI-NICHIRIN WOODEN KATANA](https://theworldofnerds.com/products/tsugikuni-yoriichi-nichirin-wooden-katana): Inspired by the legendary swordsman Yoriichi Tsugikuni, this Nichirin wooden katana captures the iconic red flame blade and elegant golden hilt that symbolize the origin of Sun Breathing. Designed for collectors, anime fans, and cosplayers, it delivers a premium visual presence without the danger of metal. The glossy black sheath, flame-detailed blade, and golden details make it a standout display piece for any Demon Slayer collection. Perfect for room décor, cosplay shoots, conven tion appearances, and gifting to true fans of the series. Lightweight, durable, and visually accurate — this katana brings the Demon Slayer world to life in your hands. SPECIFICATIONS Material: Premium Painted WoodBlade Style: Red & Black Flame PatternHandle Wrap: Gold Fabric GripGuard (Tsuba): Matte Black + Gold AccentSheath (Saya): Gloss Black with Gold End CapLength: ~102cm (varies 1–2cm) (APPROX)Weight: Lightweight (Cosplay & Display Friendly)Usage: Collectible • Display • CosplaySafety: Non-sharp, non-metal, convention-safeSeries: Demon Slayer / Kimetsu no Yaiba
-  Updated: 2026-03-15T08:12:57Z
+  Updated: 2026-04-22T01:34:27Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/5_d8c732cb-66ef-4821-ab0c-2c02948435c7.jpg?v=1768815312
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_a04b43ad-2350-427d-b66b-6d0867e4f055.jpg?v=1776431278
   Price: ₹1,999.00 INR
 - [Kyojuro Rengoku Nichirin Wooden Katana](https://theworldofnerds.com/products/kyojuro-rengoku-nichirin-wooden-katana-demon-slayer-sword): Unleash the spirit of the Flame Hashira with Kyojuro Rengoku’s Flame Nichirin Katana, recreated in a lightweight wooden cosplay and display format. Designed for anime fans, collectors, and cosplayers, this full-length replica features vivid flame detailing and Rengoku’s signature tsuba style — all without sharp metal edges. Perfect for cosplay conventions, photoshoots, anime room decor, and collector setups, this replica offers accuracy, safety, and visual impact in one collectible piece. Specifications Version: Full-Length / Cosplay & DisplayBlade Material: wood (printed flame finish)Handle: Plastic w/ wrapped-style textureScabbard: High-quality plastic Approximate Dimensions: ✔ Total Length: ~104 cm / 40.9 in✔ Blade Length: ~70.5 cm / 27.75 in✔ Handle Length: ~27 cm / 10.62 in✔ Scabbard Length: ~75 cm / 29.5 in
-  Updated: 2026-03-16T17:10:18Z
+  Updated: 2026-04-22T19:37:18Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_a6e007b6-ee14-45d2-b567-013a9d808c76.jpg?v=1768814585
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_408045b7-e1f7-4bbd-b597-4d33814214f6.jpg?v=1776430915
   Price: ₹1,999.00 INR
 - [ZORO RORONOA-NICHIRIN WOODEN KATANA](https://theworldofnerds.com/products/zoro-roronoa-nichirin-wooden-katana): Unleash the spirit of the legendary swordsman with the Zoro Roronoa Wooden Katana, crafted for collectors, cosplay enthusiasts, and anime fans who value accuracy and craftsmanship. This cosplay edition is made from premium lightweight bamboo, paired with a glossy black scabbard and gold metallic accents for a sleek, screen-inspired aesthetic. Whether you’re preparing for cosplay conventions, studio photography, décor setups, or expanding your anime weapons collection, this katana delivers visual impact without sharp metal edges — making it safe, stylish, and convention-friendly. Specifications Suggested structure once you share: ✔ Version: Full-Length / Display & Cosplay✔ Blade Material: Bamboo✔ Scabbard: Gloss Black with Gold Accents✔ Handle: Wrapped-style design✔ Safety: Non-metal • Non-sharp • Cosplay-safe
-  Updated: 2026-02-18T10:01:57Z
+  Updated: 2026-04-17T13:09:17Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_4b0d2202-40e1-45d1-af3a-61ff462f8a68.jpg?v=1768816235
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_a73fe100-4bbf-443a-a13d-980a9848375d.jpg?v=1776431337
   Price: ₹1,999.00 INR
 - [Zenitsu Agatsuma Nichirin Wooden Katana](https://theworldofnerds.com/products/zenitsu-agatsuma-nichirin-wooden-katana): Harness the thunder of the Demon Slayer Corps with Zenitsu Agatsuma’s Nichirin Katana, reimagined as a lightweight wooden cosplay and display sword. Built for anime fans, collectors, and cosplayers, this replica combines screen-accurate colors with safe, convention-friendly materials — making it ideal for everyday handling, photoshoots, and anime room decor.Specifications Version: Full-Length / Cosplay & DisplayBlade Material: Bamboo (printed lightning pattern)Handle: High-quality plastic w/ wrap textureScabbard: High-quality plastic Dimensions: ✔ Total Length: 106 cm / 40.9 in (approx.)✔ Blade Length: 70.5 cm / 27.75 in (approx.) ✔ Handle Length: 27 cm / 10.62 in (approx.)✔ Scabbard Length: 75 cm / 29.5 in (approx.)
-  Updated: 2026-03-06T06:30:25Z
+  Updated: 2026-04-24T09:26:36Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_b67bc4c6-fdff-4e71-822a-9033884a78ec.jpg?v=1768814435
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_36bedd29-9fe8-4bb6-9db6-cf5a9d8ba447.jpg?v=1776430871
   Price: ₹1,999.00 INR
 - [ZORO SANDAI KITETSU WOODEN KATANA](https://theworldofnerds.com/products/zoro-sandai-kitetsu-wooden-katana): Styled after the cursed blade Sandai Kitetsu, this katana replica showcases its signature deep red handle wrap, gold fittings, and dark blade finish. The distinctive cross-shaped tsuba and serrated blade motif make it instantly recognizable to One Piece fans, while its lightweight build keeps it safe for display and cosplay. Perfect for collectors who want the intimidating aura of Kitetsu without the hazards of real steel, this wooden cosplay version is event-safe, convention-friendly, and ideal for photography, décor, and shelf display. Specifications ✔ Blade Material: Bamboo (Cosplay-safe)✔ Scabbard Material: Hard Plastic✔ Handle Wrap: Fabric Ito + Decorative Underlayer✔ Guard (Tsuba): Plastic with Metallic Finish Dimensions (Approx.): ✔ Total Length (with scabbard): (104) APPROX✔ Blade Length: ~26 in✔ Handle Length: ~10.5–11 in
   Updated: 2026-03-17T10:15:57Z
@@ -12184,39 +12177,39 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/4_c701b275-fb95-4431-acfd-530119dc7f90.jpg?v=1768816888
   Price: ₹1,999.00 INR
 - [ZORO PURPLE ENMA WOODEN KATANA](https://theworldofnerds.com/products/zoro-purple-enma-wooden-katana): Channel the power of Roronoa Zoro’s Enma with this beautifully crafted wooden katana — one of the most iconic swords in One Piece. Finished with a vibrant purple lacquered scabbard, golden fittings, and elegant sakura-style detailing, this collectible stands out instantly in any sword lineup or cosplay build. The blade features Enma’s signature wave pattern and dark spine coloration, making it a fan-favorite choice for cosplayers, collectors, photographers, and display enthusiasts. Lightweight, non-sharp, and convention-friendly, it captures the look of Enma without the risk of real steel. Specifications ✔ Character: Zoro – Enma (One Piece)✔ Material: High-grade wood✔ Scabbard: Hard plastic w/ lacquer finish✔ Handle Wrapping: Cloth braid (Ito style)✔ Blade Color: Blue wave pattern + black spine✔ Length: ~41 in (approx.)✔ Weight: Lightweight for cosplay & posing✔ Use Case: Cosplay / Display / Photoshoot / Collection✔ Age Suitability: 14+
-  Updated: 2026-03-14T17:14:27Z
+  Updated: 2026-04-20T11:13:36Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_df8c951c-0396-4b9b-b94c-aeec69a7f510.jpg?v=1768817309
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_bfae098f-6f5f-45f0-adc2-a46681ef944c.jpg?v=1776431442
   Price: ₹1,999.00 INR
 - [KOUZUKI ODEN WOODEN KATANA](https://theworldofnerds.com/products/kouzuki-oden-wooden-katana): Step into the legacy of Kozuki Oden with this vibrant wooden katana inspired by the legendary swordsman of Wano. Featuring a striking white scabbard with purple braid & tassels, golden accents, and Oden’s recognizable color scheme, this piece instantly elevates any One Piece cosplay or collection. The blade showcases a distinct flame-style red pattern, reflecting Oden’s fierce combat presence and iconic style. Specifications Character: Kozuki Oden (One Piece) Material: Wood (high-grade) Scabbard: Plastic with lacquer finish Blade Styling: Flame edge pattern (red + silver) Handle Wrapping: Cloth braid (purple) Overall Length: ~41 inch (approx.) Weight: Lightweight for fast handling Display Use: Shelf, cosplay, décor, showcase Recommended Age: 14+
-  Updated: 2026-02-18T10:01:36Z
+  Updated: 2026-04-19T05:58:56Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_cae7cdcb-b38b-4bab-855c-8f9d1a0e3216.jpg?v=1768817409
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_c18c8d3a-e06e-4b3c-b01a-098bc7aa697c.jpg?v=1776431534
   Price: ₹1,999.00 INR
 - [ZORO SHUSUI SWORD WOODEN KATANA](https://theworldofnerds.com/products/zoro-shusui-sword-wooden-katana): Honor the legacy of Roronoa Zoro’s Shusui, the legendary national treasure of Wano from One Piece. This wooden sword replica captures the katana’s bold and unmistakable aesthetic, featuring a dark lacquered scabbard, sakura-style purple detailing, and the iconic red scalloped blade pattern that fans instantly recognize. Lightweight, durable, and safe for events, this replica is perfect for cosplay conventions, anime room décor, wall displays, photography setups, and collector showcases, without the risk or regulations of a metal blade. A must-have treasure for One Piece fans and display collectors. ✔ Material: Premium wood ✔ Length: ~104 cm (approx.) ✔ Weight: Lightweight for cosplay handling ✔ Type: Decorative / Cosplay / Display ✔ Finish: Gloss-white lacquer with clan marking ✔ Blade: Non-sharp (safe for display & events)
-  Updated: 2026-03-23T03:46:06Z
+  Updated: 2026-04-28T12:21:17Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2521.jpg?v=1772524219
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_2d0fb236-5700-4d03-8901-1a7fa13ffffb.jpg?v=1776431578
   Price: ₹1,999.00 INR
 - [KOKUSHIBO WOODEN KATANA](https://theworldofnerds.com/products/kokushibo-wooden-katana): Strike the perfect balance between elegance and eerie mystery with the Kokushibo Wooden Katana, inspired by one of the most visually unique swords in modern anime. Featuring a bold pink scabbard, purple fittings, and the signature multi-eye motif, this replica instantly stands out in any cosplay setup or  wall display. Crafted with lightweight materials for comfort and event safety, this katana is ideal for cosplay conventions, photoshoots, room décor, reenactments, and collector showcases—delivering striking detail without the risks or restrictions of a metal blade. Whether you're completing a cosplay or expanding your  display, this piece is built to impress. Specifications ✔ Blade Material: Wood ✔ Scabbard Material: Hard Plastic ✔ Handle Wrap: Fabric + Synthetic Grip ✔ Total Length: Approx. 38–41 inches (≈104 cm) ✔ Weight: Lightweight for easy cosplay use
-  Updated: 2026-03-22T07:37:27Z
+  Updated: 2026-04-20T12:32:27Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2522.jpg?v=1772524235
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_4_6cbc0627-60e3-403f-a589-e79ed2efc13b.jpg?v=1776688326
   Price: ₹1,999.00 INR
 - [SANEMI SHINAZUGAWA-NICHIRIN WOODEN KATANA](https://theworldofnerds.com/products/sanemi-shinazugawa-nichirin-wooden-katana): Unleash the Wind Hashira’s spirit with the Sanemi Shinazugawa Nichirin Wooden Katana, a vibrant collectible inspired by one of the most striking swords in modern anime. With its signature green wave-patterned blade, star-shaped guard, and thunder-style gold scabbard details, this piece instantly commands attention in any cosplay setup or display wall. Crafted for cosplay events, photoshoots, décor, and collector showcases, this wooden replica delivers the visual impact of a Nichirin blade without the safety concerns or regulations of metal props. Lightweight, durable, and con-friendly — perfect for posing, swinging, and styling. Specifications ✔ Character: Sanemi Shinazugawa — Wind Hashira✔ Blade Material: Wood✔ Scabbard Material: Hard Plastic✔ Handle Wrap: Fabric + Synthetic Grip✔ Overall Length: Approx. 38–41 inches / 104 cm✔ Weight: Lightweight for cosplay handling✔ Purpose: Cosplay / Display / Décor / Photo Props✔ Blade Edge: Non-sharp (Event & Con Safe)
-  Updated: 2026-04-04T11:01:52Z
+  Updated: 2026-04-20T12:34:02Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/4_e2b181aa-ff27-4129-a7e0-0ad712c38aac.jpg?v=1768890387
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_1_3b610dc8-3af5-4973-9e53-e757db1600cb.jpg?v=1776688429
   Price: ₹1,999.00 INR
 - [Toyota GR Supra - Yellow - CCA](https://theworldofnerds.com/products/yellow-toyota-gr-supra-cca): Toyota GR Supra 1:64 die-cast, Supra model car, premium collectible sports car, CCA die-cast model, GR Supra scale car, desk display toy car, collector sports car die-cast, premium series Supra model, Toyota GR model toy.Key FeaturesVehicle Model: Toyota GR SupraScale: 1:64Color: YellowBrand: CCASeries: Premium Series
   Updated: 2026-03-09T11:11:07Z
@@ -12303,10 +12296,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e89e6210-3a5d-4848-8cd1-ddad57baf613.jpg?v=1769164020
   Price: ₹599.00 INR
 - [Lamborghini STO -- Green -- CCA](https://theworldofnerds.com/products/green-lamborghini-sto-cca): Lamborghini STO 1:64 die-cast, green STO model car, premium collectable hypercar, CCA Lamborghini miniature, STO scale die-cast model, collector die-cast supercar, premium series Lamborghini model, desk display hypercar.Key FeaturesVehicle Model: Lamborghini STOScale: 1:64Colour: GreenBrand: CCASeries: Premium Series
-  Updated: 2026-03-09T11:12:42Z
+  Updated: 2026-04-16T05:12:11Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_09e5ceff-ca1b-49a7-9ab8-8c1dfa568725.jpg?v=1769164033
   Price: ₹599.00 INR
 - [Pagani Utopia -- Silver -- CCA](https://theworldofnerds.com/products/silver-pagani-utopia-cca): Pagani Utopia 1:64 die-cast, silver Utopia model car, premium collectible hypercar, CCA Pagani miniature, Utopia scale die-cast model, collector die-cast supercar, premium series Pagani model, desk display hypercar, Key FeaturesVehicle Model: Pagani UtopiaScale: 1:64Colour: SilverBrand: CCASeries: Premium Series
@@ -13003,10 +12996,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_9b756272-5870-40d0-b3c5-6b965129879a.jpg?v=1769692230
   Price: ₹299.00 INR
 - [DRAGON BALL Z SET OF 12](https://theworldofnerds.com/products/dragon-ball-z-set-of-12): A complete Dragon Ball Z collectible character set featuring 12 mini figures inspired by iconic DBZ characters. Designed in a compact chibi style with vibrant colors and expressive detailing, this set is ideal for collectors, fans, and display setups. Each figure is crafted from durable PVC and stands independently for shelf, desk, or showcase use. Key Features Series: Dragon Ball Z Set Size: 12 Figures Style: Chibi / Mini Collectible Usage: Display, Collectible, Gift Category: Anime Merchandise
-  Updated: 2026-02-26T12:50:36Z
+  Updated: 2026-04-27T12:13:37Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC00633.jpg?v=1769518393
   Price: ₹2,549.00 INR
 - [RORONOA ZORO – Premium Anime Action Figure 17cm | One Piece Collectible](https://theworldofnerds.com/products/roronoa-zoro-premium-anime-action-figure-17cm-one-piece-collectible): Roronoa Zoro Action Figure is a premium-quality anime collectible inspired by the popular One Piece series. This figure features detailed sculpting, Zoro’s signature green hair, iconic swords, and his powerful stance. Standing approximately 17 cm tall with a sturdy 10 cm round base, it is made with durable material and a smooth paint finish, making it perfect for display, photography, and collection. Ideal for anime fans, collectors, and as a gift for One Piece lovers. Key Features: Character: Roronoa Zoro (One Piece) Size: Approximately 17 cm tall with a 10 cm round base Durable material with premium finish
@@ -13248,7 +13241,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_2099e746-5e8a-46c0-b0d0-88f94bedfdc5.jpg?v=1769583297
   Price: ₹549.00 INR
 - [Hot Wheels Ford Performance SuperVan 4 Imported Die-Cast Collectible Car](https://theworldofnerds.com/products/hot-wheels-ford-performance-supervan-4-imported-die-cast-collectible-car): Bring home a premium-quality Hot Wheels die-cast car featuring realistic design, smooth paint finish, and fine detailing. Crafted with a durable metal body and precision-molded parts, this collectible toy delivers authentic styling inspired by real-world performance and special-edition vehicles. Perfect for display, photography, and collection, this officially licensed Hot Wheels model offers long-lasting quality and is a great addition to any toy car assortment or premium die-cast collection. Key Features: Brand: Hot Wheels (Mattel) Model: Ford Performance SuperVan 4 Color: Red with Yellow & Black Graphics Scale: 1:64 Material: Metal body with plastic parts Series: Imported / Mainline (HW First Response)
-  Updated: 2026-02-11T06:12:43Z
+  Updated: 2026-04-27T16:05:25Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -13528,7 +13521,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/01_b8f38b48-791c-45e9-b7cb-2611ea0c5830.jpg?v=1769599239
   Price: ₹255.00 INR
 - [Teddy Bear Soft Toy - Cream](https://theworldofnerds.com/products/teddy-bear-soft-toy-cream): A cute and soft cream-colored teddy bear designed with plush fur and a floral ribbon scarf, making it perfect for gifting, décor, or cuddling. Its compact size and lightweight build make it ideal for kids and teddy bear lovers. Key Points • Soft cream plush teddy with floral scarf• Smooth and cuddly texture, child-friendly design• Suitable for gifting, décor, and collections• Lightweight and easy to carry• Approx. Size: 23 cm height × 16 cm width (approx.)
-  Updated: 2026-02-11T06:12:42Z
+  Updated: 2026-04-23T09:02:37Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -13703,10 +13696,10 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/01_93ce675c-b168-468d-8e8a-7d542c6bde6a.jpg?v=1769604505
   Price: ₹255.00 INR
 - [SON GOKU KEYBOARD + MOUSE PAD XXL](https://theworldofnerds.com/products/son-goku-keyboard-mouse-pad-xxl): Son Goku Keyboard + Mouse Pad XXL features a high-energy Dragon Ball design showcasing Goku in dynamic battle action. Made for anime fans and gamers, it provides full desk coverage for keyboard and mouse, offering smooth precision control, desk protection, and a bold collectible aesthetic. Key Points – XXL extended desk mat for keyboard + mouse setup– Action artwork featuring Son Goku in battle theme– Smooth surface for fast and accurate mouse tracking– Anti-slip rubber base for firm grip during gaming– Stitched edges for added durability– Ideal for Dragon Ball fans, gamers, and collectors
-  Updated: 2026-02-18T10:09:17Z
+  Updated: 2026-04-19T03:46:16Z
   Vendor: The World Of Nerds
   Product Type: 
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/6_de905014-6e0a-43f3-b279-816eab35e85e.jpg?v=1769603784
   Price: ₹699.00 INR
 - [Red Fabric Bracelet with Metal Plate Imported Fashion Accessory](https://theworldofnerds.com/products/red-fabric-bracelet-with-metal-plate-imported-fashion-accessory): Add a bold and stylish touch to your look with this premium red fabric bracelet featuring a sleek metal center plate with engraved detailing. Designed for comfort and durability, this accessory blends a trendy street-style vibe with modern fashion, making it perfect for everyday wear. Ideal for casual outfits and gifting, this imported bracelet offers a soft woven texture, strong build quality, and a striking red color that stands out in any accessories collection. Key Features: Model: Red Fabric Bracelet with Metal Plate Color: Red with Silver Accents Material: Woven Fabric Strap with Metal Center Plate Style: Casual / Street / Modern / Unisex Finish: Soft Fabric with Polished Metal Detailing Origin: Imported
@@ -13955,7 +13948,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_e2cb1973-3de8-460f-83c8-b101726f2bdc.jpg?v=1770630644
   Price: ₹2,799.00 INR
 - [FORD SHELBY GT500-1:24-BLUE-R/C LICENSED - The World Of Nerds](https://theworldofnerds.com/products/ford-shelby-gt500-1-24-blue-r-c-licensed-1): Experience the power and style of an iconic American muscle car with the Ford Shelby GT500 1:24 Scale Remote Control Car (Blue). This officially licensed R/C car features a striking blue finish with classic racing stripes and realistic Shelby detailing. Equipped with an easy-to-use omnidirectional remote control, it offers smooth forward, backward, left, and right movements. Made from durable ABS plastic, the car is lightweight yet sturdy for everyday play. Powered by a rechargeable battery with USB charging, it is perfect for kids, collectors, and car enthusiasts. Key Points Officially licensed Ford Shelby GT500 design 1:24 scale model with classic racing stripes Omnidirectional remote control for smooth movement Durable and lightweight ABS plastic body Rechargeable battery with USB charging support - The World Of Nerds
-  Updated: 2026-03-07T07:18:47Z
+  Updated: 2026-04-17T11:16:16Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -14046,7 +14039,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/101_49315d27-2a71-4b31-a182-9a8bd3541cbc.png?v=1771497500
   Price: ₹149.00 INR
 - [Ben 10 A3+ HD Cartoon Wall Poster - The World Of Nerds](https://theworldofnerds.com/products/ben-10-a3-hd-cartoon-wall-poster): Decorate your space with this premium A3+ HD cartoon wall poster featuring Ben 10. Designed with vibrant colors, smooth finish, and sharp high-resolution print quality, this poster adds a cool and action-packed cartoon theme touch to any room. Printed on high-quality poster paper for long-lasting color and durability, it is perfect for bedrooms, gaming setups, study areas, or cartoon collections. Lightweight and easy to frame, making it a great choice for personal decor or gifting to cartoon fans. - The World Of Nerds
-  Updated: 2026-02-20T09:48:00Z
+  Updated: 2026-04-19T08:29:27Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -14102,14 +14095,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/96_23b8e414-3879-4f89-8701-8f569b50543a.png?v=1771495640
   Price: ₹149.00 INR
 - [Anime Warrior Energy A3+ HD Action Art Wall Poster - The World Of Nerds](https://theworldofnerds.com/products/anime-warrior-energy-a3-hd-action-art-wall-poster): Transform your space with this premium A3+ HD anime-style wall poster featuring a powerful warrior unleashing intense energy. Designed with dynamic motion, electric blue effects, and a unique blueprint-inspired background, this artwork blends action, creativity, and futuristic aesthetics. Printed in high resolution with vivid colors and sharp detailing on quality poster paper, it delivers a striking visual impact from every angle. Perfect for anime fans, gaming rooms, study areas, bedrooms, or creative workspaces. Lightweight and easy to frame, this poster also makes a great gift for lovers of anime action art and high-energy illustrations. - The World Of Nerds
-  Updated: 2026-03-29T06:23:37Z
+  Updated: 2026-04-24T19:33:01Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/114_b73587ff-5b42-474e-b6c0-9ea964528e20.png?v=1771495536
   Price: ₹149.00 INR
 - [Superhero Mask Close-Up A3+ HD Comic Art Wall Poster - The World Of Nerds](https://theworldofnerds.com/products/superhero-mask-close-up-a3-hd-comic-art-wall-poster): Add a bold comic-style statement to your décor with this premium A3+ HD wall poster featuring an intense superhero mask close-up. Designed with sharp line textures, layered newspaper-style typography, and striking red-blue contrast, this artwork delivers a powerful modern comic aesthetic. Printed in high definition on quality poster paper with rich colors and fine detailing, it creates a dramatic visual impact that stands out instantly. Ideal for bedrooms, gaming setups, studios, offices, or comic-themed interiors. Lightweight and easy to frame, this poster also makes an excellent gift for comic art and superhero fans. - The World Of Nerds
-  Updated: 2026-02-20T09:48:05Z
+  Updated: 2026-04-24T19:32:57Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -14361,7 +14354,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/76_416f29f1-60a4-4018-a0ae-5b4a483efdb7.png?v=1771400646
   Price: ₹149.00 INR
 - [Ben 10 Ultimate Alien Poster A3+ Size - The World Of Nerds](https://theworldofnerds.com/products/ben-10-ultimate-alien-poster-a3-size): High-quality Ben 10 Ultimate Alien poster in A3+ size featuring powerful alien transformation artwork with vibrant colors and sharp HD printing. Perfect for bedroom decor, gaming setups, cartoon collections, and gifting for animation fans. Durable print quality for long-lasting wall display. - The World Of Nerds
-  Updated: 2026-02-20T09:48:22Z
+  Updated: 2026-04-19T08:29:27Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -14403,14 +14396,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/69_f77179e2-8a0c-4aef-9ddd-71a13f3b167a.png?v=1771400466
   Price: ₹149.00 INR
 - [Marvel Spider-Man Poster A3+ Size - The World Of Nerds](https://theworldofnerds.com/products/marvel-spider-man-poster-a3-size): High-quality Marvel Spider-Man poster in A3+ size featuring iconic superhero action artwork with vibrant colors and sharp HD printing. Perfect for bedroom decor, gaming setups, kids rooms, and superhero collections. Durable print quality for long-lasting wall display and gifting. - The World Of Nerds
-  Updated: 2026-02-20T09:48:25Z
+  Updated: 2026-04-24T19:32:57Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/Grey_3D_Wall_Art_Frame_Instagram_Post.png?v=1771495151
   Price: ₹149.00 INR
 - [Marvel Ultimate Spider-Man Poster A3+ Size - The World Of Nerds](https://theworldofnerds.com/products/marvel-ultimate-spider-man-poster-a3-size): High-quality Marvel Ultimate Spider-Man poster in A3+ size featuring action-packed superhero battle artwork with vibrant colors and sharp HD printing. Perfect for bedroom decor, gaming setups, kids rooms, and superhero collections. Durable print quality for long-lasting wall display and gifting. - The World Of Nerds
-  Updated: 2026-03-22T10:48:07Z
+  Updated: 2026-04-24T19:33:03Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -14739,14 +14732,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/51_58d71501-45e9-46c3-979b-d169d75be97f.png?v=1771398206
   Price: ₹149.00 INR
 - [Ben 10: Alien Force – Hero Unleashed A3+ HD Wall Poster - The World Of Nerds](https://theworldofnerds.com/products/ben-10-alien-force-hero-unleashed-a3-hd-wall-poster): Power up your wall with this A3+ HD poster inspired by Ben 10: Alien Force. Featuring Ben Tennyson activating the Omnitrix with electrifying alien energy, this artwork delivers bold colors, sharp details, and a dynamic sci-fi vibe. A perfect pick for Ben 10 fans, kids’ rooms, and nostalgic cartoon collectors looking for a high-impact display. - The World Of Nerds
-  Updated: 2026-02-20T09:48:47Z
+  Updated: 2026-04-19T08:29:27Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/50_49b0fca5-eb13-484d-97a3-2c8beeea907b.png?v=1771398165
   Price: ₹149.00 INR
 - [Ben 10: Ultimate Alien – Ultimate Power A3+ HD Wall Poster - The World Of Nerds](https://theworldofnerds.com/products/ben-10-ultimate-alien-ultimate-power-a3-hd-wall-poster): Bring ultimate alien action to your space with this A3+ HD Ben 10: Ultimate Alien poster. Featuring Ben Tennyson activating the Omnitrix and surrounded by powerful ultimate forms, the artwork bursts with neon-green energy, sharp details, and a bold sci-fi look. Perfect for kids’ rooms, gaming setups, and Ben 10 collectors who want a high-impact wall display. - The World Of Nerds
-  Updated: 2026-02-20T09:48:47Z
+  Updated: 2026-04-19T08:29:26Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -14781,14 +14774,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_48286cfc-437e-44ee-8e39-c7e8567aeae8.jpg?v=1770878149
   Price: ₹149.00 INR
 - [Spider-Man Chibi 3D Rubber Keychain with “Hero” Strap - The World Of Nerds](https://theworldofnerds.com/products/spider-man-chibi-3d-rubber-keychain-with-hero-strap): Swing into action with this adorable Spider-Man chibi 3D rubber keychain. Designed with a dynamic mid-air pose, bold red-and-blue colors, and signature web details, this keychain perfectly captures the fun and heroic vibe of everyone’s favorite web-slinger. Made from high-quality soft rubber, it’s lightweight yet durable for everyday use. The strong metal keyring and clip allow easy attachment to keys, backpacks, sling bags, or travel gear. The bright red “HERO” strap adds a powerful finishing touch, making it a standout collectible for Marvel fans. 🕷️ Premium soft rubber material🕷️ Cute chibi Spider-Man design🕷️ Strong metal keyring with clip lock🕷️ Perfect for keys, bags, gifts & collections - The World Of Nerds
-  Updated: 2026-03-17T20:23:17Z
+  Updated: 2026-04-27T16:22:26Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_ee7e46f9-8e7d-4d64-898d-c6a471d33f02.jpg?v=1770878572
   Price: ₹149.00 INR
 - [Hulk Chibi 3D Rubber Keychain with “Hero” Strap - The World Of Nerds](https://theworldofnerds.com/products/hulk-chibi-3d-rubber-keychain-with-hero-strap): Unleash raw power in a cute form with this Hulk chibi 3D rubber keychain. Featuring the iconic green superhero with a muscular build, fierce expression, and classic purple shorts, this keychain blends strength and style perfectly in a compact collectible. Crafted from premium soft rubber, it’s lightweight, durable, and built for everyday use. The sturdy metal keyring and clip ensure secure attachment to your keys, backpacks, or bags. The bold green “HERO” strap adds a powerful finishing touch, making it a must-have for Marvel fans and collectors. 💚 High-quality soft rubber material💚 Cute chibi Hulk design with detailed sculpt💚 Strong metal keyring with clip lock💚 Perfect for keys, bags, gifting & collections - The World Of Nerds
-  Updated: 2026-02-17T11:44:24Z
+  Updated: 2026-04-27T16:22:26Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -14802,14 +14795,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/4_b21eecc0-8871-413e-9bde-40e2aac9cc63.jpg?v=1770879174
   Price: ₹149.00 INR
 - [Captain America Chibi 3D Rubber Keychain with “Hero” Strap - The World Of Nerds](https://theworldofnerds.com/products/captain-america-chibi-3d-rubber-keychain-with-hero-strap): Show your superhero pride with this Captain America chibi 3D rubber keychain. Featuring the iconic star-spangled suit, signature shield, and a cute chibi design, this keychain perfectly captures the courage and charm of the legendary Avenger in a compact collectible form. Made from premium soft rubber, it’s lightweight, durable, and ideal for everyday use. The strong metal keyring and clip allow easy attachment to keys, backpacks, sling bags, or travel accessories. The matching blue “HERO” strap with shield detail completes the patriotic superhero look. - The World Of Nerds
-  Updated: 2026-02-17T11:44:28Z
+  Updated: 2026-04-27T16:22:26Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_33c7ff39-d55f-4d35-96ca-a7740b974504.jpg?v=1770879330
   Price: ₹149.00 INR
 - [Black Panther Chibi 3D Rubber Keychain with “Hero” Strap - The World Of Nerds](https://theworldofnerds.com/products/black-panther-chibi-3d-rubber-keychain-with-hero-strap): Step into Wakanda’s legacy with this sleek Black Panther chibi 3D rubber keychain. Featuring the iconic black suit with silver detailing, muscular chibi proportions, and a powerful stance, this keychain captures the strength, honor, and mystery of the legendary Marvel hero. Crafted from premium soft rubber, it’s lightweight yet durable—perfect for everyday use. The strong metal keyring and clip ensure secure attachment to keys, backpacks, sling bags, or travel gear. The matching black “HERO” strap adds a bold, minimalist finish, making it a standout collectible for Marvel fans. 🖤 High-quality soft rubber material🖤 Chibi Black Panther design with detailed sculpt🖤 Durable metal keyring with clip lock🖤 Ideal for keys, bags, gifts & collections - The World Of Nerds
-  Updated: 2026-03-22T14:21:27Z
+  Updated: 2026-04-26T08:03:28Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -14823,14 +14816,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_d771f097-7e7e-41f5-bf6b-1b074fbb1342.jpg?v=1770879694
   Price: ₹149.00 INR
 - [Iron Man Classic Chibi 3D Rubber Keychain with “Hero” Strap - The World Of Nerds](https://theworldofnerds.com/products/iron-man-classic-chibi-3d-rubber-keychain-with-hero-strap): Upgrade your everyday essentials with this Iron Man classic chibi 3D rubber keychain. Featuring the iconic red-and-gold armor with a glowing arc reactor detail and a bold heroic stance, this keychain brings Marvel’s legendary Avenger to life in a fun, compact design. Crafted from premium soft rubber, it is lightweight, durable, and perfect for daily use. The strong metal keyring and clip ensure secure attachment to keys, backpacks, handbags, or travel accessories. The vibrant red “HERO” strap adds a powerful finishing touch, making it a great collectible or gift for Marvel fans. 🔴 High-quality soft rubber material🔴 Classic Iron Man chibi design🔴 Strong metal keyring with secure clip🔴 Ideal for keys, bags, gifting & collections - The World Of Nerds
-  Updated: 2026-03-18T15:34:27Z
+  Updated: 2026-04-27T16:22:26Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_94c7b12c-a6ad-433b-a2ca-2d177096db26.jpg?v=1770879988
   Price: ₹149.00 INR
 - [Captain America Classic Chibi 3D Rubber Keychain with “Hero” Strap - The World Of Nerds](https://theworldofnerds.com/products/captain-america-classic-chibi-3d-rubber-keychain-with-hero-strap): Carry the symbol of courage and leadership with this Captain America classic chibi 3D rubber keychain. Designed with the iconic blue suit, bold “A” helmet, and signature star shield, this compact collectible perfectly blends heroic power with an adorable chibi style. Made from premium soft rubber, it is lightweight, flexible, and durable for everyday use. The sturdy metal keyring and clip ensure secure attachment to keys, backpacks, handbags, or travel gear. The matching blue “HERO” strap adds a bold, patriotic finish—ideal for Marvel fans and collectors. 🔵 High-quality soft rubber material🔵 Classic Captain America chibi design with shield🔵 Strong metal keyring with secure clip🔵 Perfect for keys, bags, gifts & collections - The World Of Nerds
-  Updated: 2026-03-18T15:34:24Z
+  Updated: 2026-04-24T09:23:56Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -14844,21 +14837,21 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_01c292da-d0e1-40f6-aa13-ba8c2698ac8c.jpg?v=1770880813
   Price: ₹149.00 INR
 - [Thor Chibi 3D Rubber Keychain with “Hero” Strap - The World Of Nerds](https://theworldofnerds.com/products/thor-chibi-3d-rubber-keychain-with-hero-strap): Carry the power of thunder with this Thor chibi 3D rubber keychain. Designed with Thor’s iconic armor, flowing red cape, and signature hammer, this compact chibi figure perfectly captures the strength and heroism of the God of Thunder in a cute collectible form. Made from premium soft rubber, it is lightweight, durable, and perfect for everyday use. The strong metal keyring and clip allow secure attachment to keys, backpacks, handbags, or travel accessories. The bold red “HERO” strap adds a striking finish, making it an excellent gift for Marvel fans and collectors. ⚡ High-quality soft rubber material⚡ Chibi Thor design with hammer and cape⚡ Strong metal keyring with secure clip⚡ Ideal for keys, bags, gifts & collections - The World Of Nerds
-  Updated: 2026-04-08T00:19:45Z
+  Updated: 2026-04-27T16:22:26Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_204bc32d-8f3f-447a-b318-a88bfed8bc80.jpg?v=1775564354
   Price: ₹149.00 INR
 - [Doctor Strange Chibi 3D Rubber Keychain with “Hero” Strap - The World Of Nerds](https://theworldofnerds.com/products/doctor-strange-chibi-3d-rubber-keychain-with-hero-strap): Add a touch of mystic power to your everyday essentials with this Doctor Strange chibi 3D rubber keychain. Featuring the Sorcerer Supreme in a cute yet powerful chibi style, complete with his iconic cloak, detailed outfit, and intense expression, this keychain perfectly captures the magic of Marvel’s master of the mystic arts. Made from premium soft rubber, it’s lightweight, durable, and ideal for daily use. The sturdy metal keyring and clip ensure secure attachment to keys, backpacks, handbags, or travel accessories. The sleek black “HERO” strap adds a bold finish, making it a must-have collectible for Marvel fans. 🔮 High-quality soft rubber material🔮 Chibi Doctor Strange design with detailed costume🔮 Strong metal keyring with secure clip🔮 Perfect for keys, bags, gifts & collections - The World Of Nerds
-  Updated: 2026-03-15T07:26:17Z
+  Updated: 2026-04-27T12:26:38Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_3a01ea4d-9cda-4415-aae1-18ed0c9583e8.jpg?v=1770881139
   Price: ₹149.00 INR
 - [One Piece Monkey D. Luffy Chibi 3D Rubber Keychain with Anime Strap - The World Of Nerds](https://theworldofnerds.com/products/one-piece-monkey-d-luffy-chibi-3d-rubber-keychain-with-anime-strap): Set sail with the future Pirate King using this Monkey D. Luffy chibi 3D rubber keychain inspired by One Piece. Featuring Luffy in his iconic straw hat, red jacket, and signature pose, this adorable chibi design perfectly captures his fearless and fun-loving spirit. Made from premium soft rubber, the keychain is lightweight, durable, and ideal for everyday use. It comes with a strong metal keyring and clip for secure attachment to keys, backpacks, sling bags, or travel gear. The vibrant red anime strap with One Piece detailing adds an eye-catching collectible touch, making it a must-have for anime fans. 🏴☠️ High-quality soft rubber material🏴☠️ Chibi Monkey D. Luffy design with straw hat🏴☠️ Durable metal keyring with secure clip🏴☠️ Perfect for keys, bags, gifts & anime collections - The World Of Nerds
-  Updated: 2026-03-14T06:48:39Z
+  Updated: 2026-04-24T18:02:03Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -14879,7 +14872,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_5d8525ba-156a-49de-8f2c-f0c900930796.jpg?v=1770881841
   Price: ₹149.00 INR
 - [One Piece Monkey D. Luffy Laughing Chibi 3D Rubber Keychain - The World Of Nerds](https://theworldofnerds.com/products/one-piece-monkey-d-luffy-laughing-chibi-3d-rubber-keychain): Capture the joyful and carefree spirit of the future Pirate King with this Monkey D. Luffy laughing chibi 3D rubber keychain inspired by One Piece. Featuring Luffy with his iconic wide laugh, red jacket, blue shorts, and sandals, this adorable design perfectly showcases his fun-loving personality and never-give-up attitude. Made from premium soft rubber, this keychain is lightweight, durable, and perfect for everyday use. It includes a strong metal keyring and clip for secure attachment to keys, backpacks, sling bags, or travel accessories. The vibrant red One Piece anime strap with logo detailing adds a bold and collectible finish for true anime fans. 🏴☠️ High-quality soft rubber material🏴☠️ Laughing chibi Monkey D. Luffy design🏴☠️ Durable metal keyring with secure clip🏴☠️ Ideal for keys, bags, gifts & anime collections - The World Of Nerds
-  Updated: 2026-03-22T09:24:49Z
+  Updated: 2026-04-27T16:15:22Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -14893,35 +14886,35 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_7cecd6c4-1901-43e0-aa04-b4f329a67464.jpg?v=1770882666
   Price: ₹149.00 INR
 - [Jujutsu Kaisen Gojo Satoru Chibi 3D Rubber Keychain with “Hero” Strap - The World Of Nerds](https://theworldofnerds.com/products/jujutsu-kaisen-gojo-satoru-chibi-3d-rubber-keychain-with-hero-strap): Bring limitless style to your everyday carry with this Gojo Satoru chibi 3D rubber keychain inspired by Jujutsu Kaisen. Featuring Gojo’s iconic spiky white hair, black blindfold, and sleek blue outfit, this adorable chibi design perfectly captures the cool confidence of the strongest sorcerer. Made from premium soft rubber, this keychain is lightweight, durable, and ideal for daily use. It comes with a strong metal keyring and clip for secure attachment to keys, backpacks, sling bags, or travel accessories. The bold blue “HERO” strap adds a modern, eye-catching finish, making it a must-have collectible for anime fans. ✨ High-quality soft rubber material✨ Chibi Gojo Satoru design with blindfold✨ Durable metal keyring with secure clip✨ Perfect for keys, bags, gifts & anime collections - The World Of Nerds
-  Updated: 2026-03-22T14:21:27Z
+  Updated: 2026-04-28T03:31:37Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_736fa4d3-8211-4194-9f0e-95c336d6a7d8.jpg?v=1770883035
   Price: ₹149.00 INR
 - [Gift Wrap - The World Of Nerds](https://theworldofnerds.com/products/gift-wrap): - The World Of Nerds
-  Updated: 2026-04-14T07:26:47Z
+  Updated: 2026-04-28T20:09:57Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/giftwrapimage.webp?v=1772279658
   Price: ₹80.00 INR
 - [Katana Stand - The World Of Nerds](https://theworldofnerds.com/products/katana-stand): Showcase your sword with elegance using this Single Katana Display Stand. Designed with a sleek and minimal style, this stand securely holds one katana or decorative sword in a horizontal position, making it perfect for collectors, martial artists, and enthusiasts. Made from durable wood with a smooth black finish, the stand offers both stability and a classic look that complements any interior. The curved base and supportive holders keep your sword balanced while highlighting the beauty of the blade and handle. Ideal for displaying your katana on a desk, shelf, or display cabinet, this stand adds a refined touch to any room, dojo, or collection. - The World Of Nerds
-  Updated: 2026-04-04T11:01:57Z
+  Updated: 2026-04-28T05:19:36Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC09867copy.jpg?v=1772688330
   Price: ₹240.00 INR
 - [Katana Wall Stand – Minimalist Sword Display Mount - The World Of Nerds](https://theworldofnerds.com/products/katana-wall-stand-minimalist-sword-display-mount): Showcase your katana with a clean and elegant wall display. This Katana Wall Stand is designed to securely hold your sword while giving it a premium floating look on the wall. The curved bracket design supports the blade safely and keeps it stable. Perfect for collectors, samurai enthusiasts, or anyone who wants to display their katana like a piece of art. The matte black finish blends with modern interiors while highlighting the beauty of the sword.Number of Components: 2Components: Wall Mount Stands (Pair) - The World Of Nerds
-  Updated: 2026-04-11T17:38:46Z
+  Updated: 2026-04-28T16:12:26Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_c35c4944-3e04-463e-87cb-1a189f56ed41.jpg?v=1773061636
   Price: ₹329.00 INR
 - [F1 Formula Circuit Wall Frame – 2026 Edition - The World Of Nerds](https://theworldofnerds.com/products/formula-circuit-neon-wall-frame-2026-edition): 🏁 Bring the Thrill of F1 Formula Racing Into Your Room Celebrate the world’s fastest sport with this 2026 F1 Formula Racing Circuit Wall Frame.Featuring 24 iconic racing circuits from the 2026 season, this stunning design highlights each legendary track in a sleek glass frame display that instantly upgrades any space. Whether you're a hardcore motorsport fan or simply love modern, high-performance style décor, this wall piece transforms your room into a true racing showcase. 📏 Product Details • Frame: Premium black glass frame• Season: F1 Car 2026 race calendar circuits• Design: Precision circuit outlines• Mounting: Ready to hang• Style: Modern motorsport wall décor 🎮 Perfect for Any Space This racing wall frame fits perfectly in: • Gaming rooms• Bedrooms• Offices• Man caves• Racing simulator setups Add a motorsport atmosphere wherever you place it. 🏎 Turn Your Wall Into a Racing Gallery Imagine walking into your room and seeing every legendary circuit displayed in one powerful design. From Monaco to Suzuka, each track represents the passion, speed, and history of Formula racing. This isn’t just wall décor —it’s a tribute to the world’s fastest sport. - The World Of Nerds
-  Updated: 2026-04-12T14:41:57Z
+  Updated: 2026-04-20T05:50:50Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -14942,7 +14935,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_6161f429-2ec6-478f-9f1d-56a72c7f8b4f.jpg?v=1773984930
   Price: ₹2,399.00 INR
 - [BBURAGO Mercedes-Benz Maybach S-Class Maroon & Cream Model Car - 1:24 Scale Diecast - The World Of Nerds](https://theworldofnerds.com/products/bburago-mercedes-benz-maybach-s-class-maroon-cream-model-car-1-24-scale-diecast): Experience refined luxury with the BBURAGO MERCEDES-BENZ MAYBACH S-CLASS MAROON & CREAM SCALE - 1:24 model. This 1:24 scale diecast showcases an elegant dual-tone finish with rich maroon and premium cream detailing, capturing the sophistication of the iconic Maybach S-Class. Featuring detailed interiors, opening parts, and a high-quality build, it’s perfect for collectors and luxury car enthusiasts. Elevate your collection with this premium masterpiece. - The World Of Nerds
-  Updated: 2026-04-14T10:32:59Z
+  Updated: 2026-04-16T12:52:38Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -14984,7 +14977,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_f8b93695-a41f-4fc3-9fd4-b3bd3ff1f6f6.jpg?v=1773986012
   Price: ₹1,399.00 INR
 - [Porsche 911 GT3 Black Model Car - 1:32 Scale Diecast - The World Of Nerds](https://theworldofnerds.com/products/porsche-911-gt3-black-model-car-1-32-scale-diecast): Experience sleek performance with the PORSCHE 911 GT3 BLACK SCALE - 1:32 model. This 1:32 scale diecast showcases the iconic 911 GT3 design in a bold black finish, paired with an aerodynamic rear wing and detailed interiors. Featuring opening doors and realistic detailing, it’s perfect for collectors and sports car enthusiasts. Add this stealthy performance machine to your collection. - The World Of Nerds
-  Updated: 2026-03-25T06:31:09Z
+  Updated: 2026-04-23T09:02:37Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -15061,7 +15054,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_4c1448d4-a6c1-4556-a43a-2ed118f7820a.jpg?v=1773987169
   Price: ₹1,399.00 INR
 - [Dodge Challenger Green Model Car - 1:22 Scale Diecast - The World Of Nerds](https://theworldofnerds.com/products/dodge-challenger-green-model-car-1-22-scale-diecast): Experience muscle power with the DODGE CHALLENGER GREEN SCALE - 1:22 model. This 1:22 scale diecast showcases the bold and aggressive design of the Challenger with a striking green finish, detailed interiors, and a powerful stance. Featuring opening doors and premium detailing, it’s perfect for collectors and muscle car enthusiasts. Add this iconic American muscle car to your collection. - The World Of Nerds
-  Updated: 2026-03-25T06:43:44Z
+  Updated: 2026-04-26T07:41:22Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -15117,7 +15110,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_58bb2847-07a2-422b-b95c-7b343c0c8160.jpg?v=1773989273
   Price: ₹2,299.00 INR
 - [Toyota Supra LBWK Black Model Car - 1:22 Scale Diecast - The World Of Nerds](https://theworldofnerds.com/products/toyota-supra-lbwk-black-model-car-1-22-scale-diecast): Experience aggressive street style with the TOYOTA SUPRA LBWK BLACK SCALE - 1:22 model. This 1:22 scale diecast showcases the iconic Supra with Liberty Walk (LBWK) widebody design, finished in a sleek black color with bold aerodynamic details. Featuring opening doors and premium detailing, it’s perfect for collectors and JDM enthusiasts. Add this stealthy widebody machine to your collection. - The World Of Nerds
-  Updated: 2026-03-25T07:10:35Z
+  Updated: 2026-04-26T07:41:27Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -15152,7 +15145,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_80df17dd-e719-43c4-8d77-4871c4dbf98c.jpg?v=1773998841
   Price: ₹2,199.00 INR
 - [Mercedes-AMG GT R Grey Model Car - 1:22 Scale Diecast - The World Of Nerds](https://theworldofnerds.com/products/mercedes-amg-gt-r-grey-model-car-1-22-scale-diecast): Experience refined performance with the MERCEDES AMG GT R GREY SCALE - 1:22 model. This 1:22 scale diecast features a sleek grey finish, aggressive aerodynamic styling, and detailed interior craftsmanship. With opening doors and premium build quality, it captures the power and precision of AMG engineering. Perfect for collectors and sports car enthusiasts, this model is a standout addition to any collection. - The World Of Nerds
-  Updated: 2026-03-25T08:26:18Z
+  Updated: 2026-04-16T12:52:41Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -15180,14 +15173,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_bb1148ac-cd95-4feb-9860-a0b8ab3dad1d.jpg?v=1774336704
   Price: ₹149.00 INR
 - [Yuji Itadori Anime Keychain - The World Of Nerds](https://theworldofnerds.com/products/yuji-itadori-anime-keychain): Carry your favorite hero with the YUJI ITADORI ANIME KEYCHAIN. Designed in a chibi style, this keychain features his signature pink hair, determined expression, and iconic school uniform with detailed finishing. Made from high-quality PVC material, it comes with a durable metal keyring and strap for everyday use. Perfect for keys, bags, and backpacks, it adds a stylish anime touch wherever you go. A must-have collectible for anime fans and Jujutsu Kaisen lovers. - The World Of Nerds
-  Updated: 2026-04-05T03:29:43Z
+  Updated: 2026-04-20T05:42:26Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_35205ae7-65d7-4aa6-85e1-d6acab257dc7.jpg?v=1774336843
   Price: ₹149.00 INR
 - [Gojo Satoru Anime Keychain - The World Of Nerds](https://theworldofnerds.com/products/gojo-satoru-anime-keychain): Carry the strongest sorcerer with the GOJO SATORU ANIME KEYCHAIN. Designed in a chibi style, this keychain features his signature white hair, calm expression, and iconic black outfit with detailed finishing. Made from high-quality PVC material, it comes with a durable metal keyring and strap for everyday use. Perfect for keys, bags, and backpacks, it adds a stylish anime touch wherever you go. A must-have collectible for anime fans and Jujutsu Kaisen lovers. - The World Of Nerds
-  Updated: 2026-04-05T03:30:21Z
+  Updated: 2026-04-20T05:42:26Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -15201,21 +15194,21 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_497bc688-9e63-457f-bc54-9ad2a771bd99.jpg?v=1774337060
   Price: ₹149.00 INR
 - [Bubbles Powerpuff Girls Keychain - The World Of Nerds](https://theworldofnerds.com/products/bubbles-powerpuff-girls-keychain): Carry your favorite cute superhero with the BUBBLES POWERPUFF GIRLS KEYCHAIN. Designed in a chibi style, this keychain features Bubbles’ signature blonde pigtails, big expressive eyes, and adorable outfit with detailed finishing. Made from high-quality PVC material, it comes with a durable metal keyring and stylish strap for everyday use. Perfect for keys, bags, and backpacks, it adds a fun and cheerful touch wherever you go. A must-have collectible for cartoon lovers and Powerpuff Girls fans. - The World Of Nerds
-  Updated: 2026-04-05T03:31:15Z
+  Updated: 2026-04-20T08:27:07Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_ae22a2e9-d6ae-4a29-8690-34bc6b037813.jpg?v=1774337148
   Price: ₹149.00 INR
 - [Blossom Powerpuff Girls Keychain - The World Of Nerds](https://theworldofnerds.com/products/blossom-powerpuff-girls-keychain-1): Carry your favorite leader with the BLOSSOM POWERPUFF GIRLS KEYCHAIN. Designed in a cute chibi style, this keychain features Blossom’s signature red bow, big expressive eyes, and vibrant outfit with detailed finishing. Made from high-quality PVC material, it comes with a durable metal keyring and stylish strap for everyday use. Perfect for keys, bags, and backpacks, it adds a fun and playful touch wherever you go. A must-have collectible for cartoon lovers and Powerpuff Girls fans. - The World Of Nerds
-  Updated: 2026-04-05T03:32:05Z
+  Updated: 2026-04-22T16:05:37Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_7c3a81ee-e0ab-4097-9a93-b57c8067758e.jpg?v=1774337221
   Price: ₹149.00 INR
 - [Buttercup Powerpuff Girls Keychain - The World Of Nerds](https://theworldofnerds.com/products/buttercup-powerpuff-girls-keychain): Carry your favorite tough hero with the BUTTERCUP POWERPUFF GIRLS KEYCHAIN. Designed in a cute chibi style, this keychain features Buttercup’s signature short hair, bold expression, and iconic green outfit with detailed finishing. Made from high-quality PVC material, it comes with a durable metal keyring and stylish strap for everyday use. Perfect for keys, bags, and backpacks, it adds a fun and energetic touch wherever you go. A must-have collectible for cartoon lovers and Powerpuff Girls fans. - The World Of Nerds
-  Updated: 2026-04-05T03:32:26Z
+  Updated: 2026-04-21T16:20:27Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -15229,14 +15222,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/4_d604918c-d13c-4da0-88a1-6b9e1757f62d.jpg?v=1774337413
   Price: ₹149.00 INR
 - [Popeye Cartoon Keychain - The World Of Nerds](https://theworldofnerds.com/products/popeye-cartoon-keychain-1): Carry your favorite classic sailor with the POPEYE CARTOON KEYCHAIN. Designed in a cute chibi style, this keychain features Popeye’s iconic muscular look, signature sailor outfit, and pipe with detailed finishing. Made from high-quality PVC material, it comes with a durable metal keyring and strap for everyday use. Perfect for keys, bags, and backpacks, it adds a fun and nostalgic touch wherever you go. A must-have collectible for cartoon lovers and classic animation fans. - The World Of Nerds
-  Updated: 2026-04-05T03:33:43Z
+  Updated: 2026-04-28T07:12:35Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_ac3618f1-eb00-4991-a50d-26c88342300e.jpg?v=1774337555
   Price: ₹149.00 INR
 - [Popeye Cartoon Keychain - The World Of Nerds](https://theworldofnerds.com/products/popeye-cartoon-keychain-2): Carry your favorite classic sailor with the POPEYE CARTOON KEYCHAIN. Designed in a cute chibi style, this keychain features Popeye’s iconic look with his sailor outfit, signature pipe, and anchor tattoos with detailed finishing. Made from high-quality PVC material, it comes with a durable metal keyring and strap for everyday use. Perfect for keys, bags, and backpacks, it adds a fun and nostalgic touch wherever you go. A must-have collectible for cartoon lovers and classic animation fans. - The World Of Nerds
-  Updated: 2026-04-05T03:34:10Z
+  Updated: 2026-04-25T08:27:17Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -15271,7 +15264,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_b31b3199-b444-4b89-957c-f929d88a48d0.jpg?v=1774338148
   Price: ₹149.00 INR
 - [Jerry Minion Keychain - The World Of Nerds](https://theworldofnerds.com/products/jerry-minion-keychain): Carry your favorite cheerful character with the JERRY MINION KEYCHAIN. Designed in a cute and playful style, this keychain features Jerry with his signature goggles, happy expression, and vibrant outfit with detailed finishing. Made from high-quality PVC material, it comes with a durable metal keyring and stylish strap for everyday use. Perfect for keys, bags, and backpacks, it adds a fun and lively touch wherever you go. A must-have collectible for Minions fans and cartoon lovers. - The World Of Nerds
-  Updated: 2026-04-05T04:38:11Z
+  Updated: 2026-04-25T03:41:17Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -15292,7 +15285,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_344ec740-f668-432f-bba5-65182e080d9c.jpg?v=1774346627
   Price: ₹149.00 INR
 - [Shinchan Red Lying Anime Keychain - The World Of Nerds](https://theworldofnerds.com/products/shinchan-anime-keychain-1): Carry your favorite mischievous character with the SHINCHAN ANIME KEYCHAIN. Designed in a cute and playful style, this keychain features Shinchan in his iconic lying pose with expressive face and signature red shirt and yellow shorts with detailed finishing. Made from high-quality PVC material, it comes with a durable metal keyring and stylish strap for everyday use. Perfect for keys, bags, and backpacks, it adds a fun and quirky touch wherever you go. A must-have collectible for Shinchan fans and cartoon lovers. - The World Of Nerds
-  Updated: 2026-04-05T04:41:48Z
+  Updated: 2026-04-28T07:12:38Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -15306,14 +15299,14 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_5bccb515-d31e-4b45-bc9d-f1675740dcd2.jpg?v=1774346797
   Price: ₹149.00 INR
 - [Goku Power Staff Yellow Outfit Keychain - The World Of Nerds](https://theworldofnerds.com/products/goku-dragon-ball-z-keychain): Carry your favorite Saiyan hero with the GOKU DRAGON BALL Z KEYCHAIN. Designed in a dynamic and detailed style, this keychain features Goku in his iconic orange outfit with spiky hair and power staff, capturing his strong and determined look. Made from high-quality PVC material, it comes with a durable metal keyring and stylish strap for everyday use. Perfect for keys, bags, and backpacks, it adds an energetic anime vibe wherever you go. A must-have collectible for Dragon Ball Z fans and anime lovers. - The World Of Nerds
-  Updated: 2026-04-05T04:44:24Z
+  Updated: 2026-04-20T08:35:18Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_23ae01ba-6bc0-43e5-93a4-78a1df3cd727.jpg?v=1774346934
   Price: ₹149.00 INR
 - [Goku Power Staff  Orange Outfit Keychain - The World Of Nerds](https://theworldofnerds.com/products/goku-dragon-ball-z-keychain-1): Carry your favorite Saiyan hero with the GOKU DRAGON BALL Z KEYCHAIN. Designed in a dynamic and detailed style, this keychain features Goku in his iconic orange outfit with spiky hair and confident stance, capturing his powerful look. Made from high-quality PVC material, it comes with a durable metal keyring and stylish strap for everyday use. Perfect for keys, bags, and backpacks, it adds an energetic anime vibe wherever you go. A must-have collectible for Dragon Ball Z fans and anime lovers. - The World Of Nerds
-  Updated: 2026-04-05T04:44:47Z
+  Updated: 2026-04-18T01:37:57Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -15327,28 +15320,28 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_b479cbaa-cf69-4dd1-be20-87bc4d16cd6a.jpg?v=1774347160
   Price: ₹149.00 INR
 - [Spider-Man Blue Hoodie Keychain - The World Of Nerds](https://theworldofnerds.com/products/spider-man-blue-hoodie-keychain): Carry your favorite web-slinger with the SPIDER-MAN BLUE HOODIE KEYCHAIN. Designed in a stylish street-style look, this keychain features Spider-Man wearing a cool blue hoodie with detailed mask design and modern aesthetic. Made from high-quality PVC material, it comes with a durable metal keyring and strap for everyday use. Perfect for keys, bags, and backpacks, it adds a trendy superhero vibe wherever you go. A must-have collectible for Marvel fans and superhero lovers. - The World Of Nerds
-  Updated: 2026-04-05T04:46:11Z
+  Updated: 2026-04-25T16:47:39Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_6de4736f-96d8-4448-bb29-f4fb6cca1a04.jpg?v=1774347297
   Price: ₹149.00 INR
 - [Spider-Man Black Hoodie Street Style Keychain - The World Of Nerds](https://theworldofnerds.com/products/spider-man-black-hoodie-street-style-keychain): Carry your favorite web-slinger with the SPIDER-MAN BLACK HOODIE KEYCHAIN. Designed in a stylish street-style look, this keychain features Spider-Man wearing a sleek black hoodie with detailed mask design and a bold urban vibe. Made from high-quality PVC material, it comes with a durable metal keyring and strap for everyday use. Perfect for keys, bags, and backpacks, it adds a cool and trendy superhero touch wherever you go. A must-have collectible for Marvel fans and superhero lovers. - The World Of Nerds
-  Updated: 2026-04-05T04:56:25Z
+  Updated: 2026-04-27T16:15:16Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_7299fac7-a727-4015-a790-a5549b33c3e8.jpg?v=1774348343
   Price: ₹149.00 INR
 - [Spider-Man Green Hoodie Street Style Keychain - The World Of Nerds](https://theworldofnerds.com/products/spider-man-green-hoodie-street-style-keychain): Carry your favorite web-slinger with the SPIDER-MAN GREEN HOODIE KEYCHAIN. Designed in a trendy street-style look, this keychain features Spider-Man wearing a stylish green hoodie with detailed mask design and modern urban vibe. Made from high-quality PVC material, it comes with a durable metal keyring and strap for everyday use. Perfect for keys, bags, and backpacks, it adds a cool and unique superhero touch wherever you go. A must-have collectible for Marvel fans and superhero lovers. - The World Of Nerds
-  Updated: 2026-04-05T05:11:42Z
+  Updated: 2026-04-25T20:30:10Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_138ed1e7-6967-441f-9802-05b5c5bb4c16.jpg?v=1774349321
   Price: ₹149.00 INR
 - [Spider-Man Red Hoodie Street Style Keychain - The World Of Nerds](https://theworldofnerds.com/products/spider-man-red-hoodie-street-style-keychain): Carry your favorite web-slinger with the SPIDER-MAN RED HOODIE KEYCHAIN. Designed in a bold street-style look, this keychain features Spider-Man wearing a vibrant red hoodie with detailed mask design and a trendy urban vibe. Made from high-quality PVC material, it comes with a durable metal keyring and strap for everyday use. Perfect for keys, bags, and backpacks, it adds a stylish superhero touch wherever you go. A must-have collectible for Marvel fans and superhero lovers. - The World Of Nerds
-  Updated: 2026-04-05T05:12:35Z
+  Updated: 2026-04-20T08:27:06Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -15383,7 +15376,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_c26be31b-f588-49af-abe5-54720908b0d3.jpg?v=1774350363
   Price: ₹149.00 INR
 - [Zenitsu Agatsuma Thunder Strike Pose Keychain - The World Of Nerds](https://theworldofnerds.com/products/zenitsu-agatsuma-thunder-strike-pose-keychain): Bring home the electrifying energy of Zenitsu with the ZENITSU AGATSUMA THUNDER STRIKE KEYCHAIN. Designed in a dynamic chibi style, this keychain features Zenitsu in an action-ready pose holding his sword, inspired by his powerful lightning techniques. Crafted from high-quality PVC material, it includes a sturdy metal keyring and strap for everyday use. Perfect for keys, bags, and backpacks, it adds a bold anime vibe wherever you go. A must-have collectible for Demon Slayer fans and anime lovers. - The World Of Nerds
-  Updated: 2026-04-05T05:17:37Z
+  Updated: 2026-04-21T21:35:16Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -15418,7 +15411,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_17ecc5a4-b897-4583-9ca9-322e5591d7f4.jpg?v=1774350910
   Price: ₹149.00 INR
 - [Inosuke Hashibira Boar Mask Anime Keychain - The World Of Nerds](https://theworldofnerds.com/products/inosuke-hashibira-boar-mask-anime-keychain): Unleash the wild spirit of Inosuke with the INOSUKE HASHIBIRA BOAR MASK KEYCHAIN. Designed in a detailed chibi style, this keychain features Inosuke wearing his iconic boar mask along with his signature outfit, capturing his fierce and fearless personality. Made from high-quality PVC material, it comes with a sturdy metal keyring and flexible strap for everyday use. Perfect for keys, bags, and backpacks, it adds a bold anime touch wherever you go. A must-have collectible for Demon Slayer fans and anime lovers. - The World Of Nerds
-  Updated: 2026-04-05T05:20:04Z
+  Updated: 2026-04-28T03:31:36Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -15467,7 +15460,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_deb6bfa4-e2aa-4234-838f-cbbbf7841129.jpg?v=1774351931
   Price: ₹149.00 INR
 - [Nezuko Kamado Classic Anime Chibi Keychain - The World Of Nerds](https://theworldofnerds.com/products/nezuko-kamado-classic-anime-chibi-keychain): Carry the elegance and strength of Nezuko with the NEZUKO KAMADO CLASSIC CHIBI KEYCHAIN. Designed in a detailed chibi style, this keychain features Nezuko in her iconic pink kimono, bamboo muzzle, and signature look from Demon Slayer. Made from high-quality PVC material, it comes with a durable metal keyring and flexible strap for everyday use. Perfect for keys, bags, and backpacks, it adds a stylish and charming anime touch wherever you go. A must-have collectible for Demon Slayer fans and anime lovers. - The World Of Nerds
-  Updated: 2026-04-05T06:47:09Z
+  Updated: 2026-04-28T03:31:37Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -15530,7 +15523,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_652c8a32-a692-4e9d-a60e-8bb1b9221786.jpg?v=1774354733
   Price: ₹149.00 INR
 - [Rubble Paw Patrol Construction Pup Keychain - The World Of Nerds](https://theworldofnerds.com/products/rubble-paw-patrol-construction-pup-keychain): Bring home the fun-loving builder pup with the RUBBLE PAW PATROL KEYCHAIN. Featuring Rubble in his iconic yellow construction outfit and helmet, this adorable keychain captures his cheerful personality from Paw Patrol. Made from high-quality PVC material, it includes a sturdy metal keyring and a flexible strap for everyday use. Perfect for keys, school bags, and backpacks, it adds a cute and playful touch wherever you go. A perfect collectible for kids and Paw Patrol fans. - The World Of Nerds
-  Updated: 2026-04-05T07:33:21Z
+  Updated: 2026-04-24T19:32:57Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -15565,35 +15558,35 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_b768a030-054f-4bd9-9518-a66e93497021.jpg?v=1774417087
   Price: ₹149.00 INR
 - [Naruto Uzumaki Bike Ride Keychain - The World Of Nerds](https://theworldofnerds.com/products/naruto-uzumaki-bike-ride-keychain-d3-edition): Add a fun and dynamic vibe to your collection with the Naruto Uzumaki Bike Ride Keychain – D3 Edition. Featuring Naruto in his iconic orange outfit riding a mini bike, this unique design brings a playful twist to the beloved anime character. Made from durable PVC material with a sturdy metal keyring and a bright “Naruto” strap, it’s perfect for keys, backpacks, or everyday accessories. A must-have for anime lovers and Naruto fans who want something eye-catching and different. - The World Of Nerds
-  Updated: 2026-04-05T15:21:21Z
+  Updated: 2026-04-27T12:26:39Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_11dab3d1-9980-4c92-96cb-149b0e0a355e.jpg?v=1774419508
   Price: ₹149.00 INR
 - [Naruto Uzumaki Mini Bike Keychain - The World Of Nerds](https://theworldofnerds.com/products/naruto-uzumaki-mini-bike-keychain-d4-edition): Bring home a fun and cheerful version of Naruto with the Naruto Uzumaki Mini Bike Keychain – D4 Edition. This design features Naruto in his classic orange outfit sitting confidently on a mini bike, with a bright smile that captures his energetic personality. Crafted from durable PVC with a strong metal keyring and a bold “Naruto” strap, it’s perfect for everyday use on keys, bags, or backpacks. A great collectible for anime fans who love playful and stylish designs. - The World Of Nerds
-  Updated: 2026-04-05T15:23:33Z
+  Updated: 2026-04-27T12:26:38Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_295eea10-7a14-4410-a72f-e6dca54110e8.jpg?v=1774419932
   Price: ₹149.00 INR
 - [Naruto Uzumaki Chibi Strap Keychain - The World Of Nerds](https://theworldofnerds.com/products/naruto-uzumaki-dancing-keychain): Bring home a fun and energetic version of Naruto with the Naruto Uzumaki Mini Bike Keychain – D5 Edition. This design features Naruto in his iconic orange outfit with a playful wink, capturing his cheerful and fearless personality. The bold yellow “Naruto” strap adds a stylish touch, making it stand out wherever you use it. - The World Of Nerds
-  Updated: 2026-04-05T15:49:10Z
+  Updated: 2026-04-24T18:02:01Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_ecee4942-3b56-4df9-a98c-69c3b099d2fa.jpg?v=1774420481
   Price: ₹149.00 INR
 - [Naruto Uzumaki Skateboard Keychain - The World Of Nerds](https://theworldofnerds.com/products/naruto-uzumaki-skateboard-keychain): Add a cool and energetic vibe to your everyday carry with the Naruto Uzumaki Skateboard Keychain – D6 Edition. This unique design features Naruto in an adorable chibi style riding a skateboard, capturing his playful and adventurous spirit. The bright yellow “Naruto” strap enhances the overall look, making it a standout accessory for anime fans. - The World Of Nerds
-  Updated: 2026-04-05T15:49:41Z
+  Updated: 2026-04-27T12:26:38Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_0cc2d97b-61ce-4397-a3ba-40a0c2cfbc9b.jpg?v=1774420865
   Price: ₹149.00 INR
 - [Naruto Uzumaki Classic Chibi Strap Keychain - The World Of Nerds](https://theworldofnerds.com/products/naruto-uzumaki-classic-chibi-strap-keychain): Bring a cheerful and classic anime vibe to your everyday essentials with the Naruto Uzumaki Classic Chibi Strap Keychain – D8 Edition. Featuring Naruto in a cute chibi style with a playful wink and confident pose, this design highlights his iconic orange outfit and lively personality. The bold yellow “Naruto” strap adds a stylish and eye-catching touch, making it perfect for fans who love simple yet standout accessories. - The World Of Nerds
-  Updated: 2026-04-05T15:50:12Z
+  Updated: 2026-04-28T03:31:37Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -15607,7 +15600,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_c463c8d0-3aac-4a53-926e-dea6ee7e500d.jpg?v=1774421326
   Price: ₹149.00 INR
 - [Naruto Uzumaki Happy Chibi Strap Keychain - The World Of Nerds](https://theworldofnerds.com/products/naruto-uzumaki-happy-chibi-strap-keychain): Add a cheerful and adorable anime touch to your everyday essentials with the Naruto Uzumaki Happy Chibi Strap Keychain – D11 Edition. Featuring Naruto in a cute sitting pose with a bright smile and expressive eyes, this design perfectly captures his fun-loving and positive personality. The vibrant yellow “Naruto” strap adds a bold and stylish accent, making it stand out wherever you use it. - The World Of Nerds
-  Updated: 2026-04-05T15:53:00Z
+  Updated: 2026-04-28T03:31:36Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -15642,7 +15635,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_cee0fc2c-a23d-450a-8581-5a56159e38eb.jpg?v=1774422185
   Price: ₹149.00 INR
 - [Tom & Jerry Cartoon Strap Keychain - The World Of Nerds](https://theworldofnerds.com/products/tom-jerry-cartoon-strap-keychain): Add a fun and nostalgic cartoon vibe to your everyday essentials with this Tom & Jerry Cartoon Strap Keychain. Featuring the iconic duo Tom and Jerry in a playful pose, this design perfectly captures their classic friendship and mischievous charm. The vibrant colors and cute detailing make it a standout accessory for your keys, bag, or backpack. - The World Of Nerds
-  Updated: 2026-04-05T15:55:32Z
+  Updated: 2026-04-28T07:12:29Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -15663,7 +15656,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_104a59a5-236d-4f4f-8896-de1eba65a4f3.jpg?v=1774422594
   Price: ₹149.00 INR
 - [Tom & Jerry Playful Duo Strap Keychain - The World Of Nerds](https://theworldofnerds.com/products/tom-jerry-playful-duo-strap-keychain): Add a fun and expressive cartoon vibe to your everyday essentials with this Tom & Jerry Playful Duo Strap Keychain. Featuring Tom and Jerry in a cute and playful pose, this design captures their iconic chemistry and mischievous charm. The vibrant colors and detailed finish make it a perfect accessory to enhance your keys, bag, or backpack. - The World Of Nerds
-  Updated: 2026-04-05T15:56:29Z
+  Updated: 2026-04-25T03:41:17Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -15684,7 +15677,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_70f4ba96-3bd5-47ee-bd66-67960b89c8d5.jpg?v=1774432077
   Price: ₹149.00 INR
 - [Tom & Jerry Waving Duo Strap Keychain - The World Of Nerds](https://theworldofnerds.com/products/tom-jerry-waving-duo-strap-keychain): Add a cheerful and playful cartoon touch to your everyday essentials with this Tom & Jerry Waving Duo Strap Keychain. Featuring Tom waving with a big smile alongside Jerry in a cute pose, this design captures their fun-filled bond and timeless charm. The vibrant colors and detailed finish make it a perfect accessory for your keys, bag, or backpack. - The World Of Nerds
-  Updated: 2026-04-05T18:05:11Z
+  Updated: 2026-04-25T20:44:20Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -15747,7 +15740,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_dfd3d3a7-387a-475b-9a14-22e6037d8a37.jpg?v=1774433248
   Price: ₹149.00 INR
 - [Kuromi Cute Cartoon Strap Keychain - The World Of Nerds](https://theworldofnerds.com/products/kuromi-cute-cartoon-strap-keychain): Add a cute and stylish touch to your everyday essentials with this Kuromi Cartoon Strap Keychain. Featuring Kuromi in an adorable pose with her signature bow and playful expression, this design captures her mischievous yet lovable personality. The soft pink strap with decorative details enhances its charm, making it a perfect accessory for your keys, bag, or backpack. - The World Of Nerds
-  Updated: 2026-04-05T18:13:25Z
+  Updated: 2026-04-25T20:30:09Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -15768,21 +15761,21 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_5eb96bec-7719-4c85-b53c-f9e3f9a9b348.jpg?v=1774433565
   Price: ₹149.00 INR
 - [Pikachu Pokémon Cartoon Strap Keychain - The World Of Nerds](https://theworldofnerds.com/products/pikachu-pokemon-cartoon-strap-keychain): Add a fun and electrifying touch to your everyday essentials with this Pikachu Pokémon Cartoon Strap Keychain. Featuring Pikachu in an adorable happy pose with its signature bright yellow color and red cheeks, this design captures its playful and energetic charm. The matching Pokémon-themed strap adds a bold and eye-catching look, making it a perfect accessory for your keys, bag, or backpack. - The World Of Nerds
-  Updated: 2026-04-05T18:16:46Z
+  Updated: 2026-04-28T05:55:07Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_07ab635a-6653-4904-a8a7-36fa5c214a7c.jpg?v=1774433672
   Price: ₹149.00 INR
 - [Pikachu Happy Pose Pokémon Strap Keychain - The World Of Nerds](https://theworldofnerds.com/products/pikachu-happy-pose-pokemon-strap-keychain): Add a cheerful and energetic touch to your everyday essentials with this Pikachu Happy Pose Pokémon Strap Keychain. Featuring Pikachu in an adorable jumping pose with a bright smile and signature red cheeks, this design perfectly captures its playful and lively personality. The bold yellow Pokémon-themed strap enhances its vibrant look, making it a perfect accessory for your keys, bag, or backpack. - The World Of Nerds
-  Updated: 2026-04-05T18:17:01Z
+  Updated: 2026-04-26T08:03:23Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_cda45010-ee4c-46d8-891c-2c7eb88b64d1.jpg?v=1774433769
   Price: ₹149.00 INR
 - [Pikachu Sleeping Pose Pokémon Strap Keychain - The World Of Nerds](https://theworldofnerds.com/products/pikachu-sleeping-pose-pokemon-strap-keychain): Add a cute and relaxing vibe to your everyday essentials with this Pikachu Sleeping Pose Pokémon Strap Keychain. Featuring Pikachu in an adorable resting pose, this design highlights its soft and lovable side. The bright yellow Pokémon-themed strap enhances its playful look, making it a perfect accessory for your keys, bag, or backpack. - The World Of Nerds
-  Updated: 2026-04-05T18:17:36Z
+  Updated: 2026-04-25T20:44:18Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -15803,7 +15796,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_a279dd9b-1f0b-4a33-90a6-60c1af60913d.jpg?v=1774434078
   Price: ₹149.00 INR
 - [Nobita Doraemon Character Keychain - The World Of Nerds](https://theworldofnerds.com/products/nobita-doraemon-character-keychain): Add a touch of nostalgia to your everyday essentials with this Nobita Doraemon Character Strap Keychain. Featuring Nobita in his classic look with a cheerful expression, this keychain perfectly captures the charm of the beloved character. The blue Doraemon-themed strap enhances its appeal, making it a fun and stylish accessory for your keys, bags, or backpacks. - The World Of Nerds
-  Updated: 2026-04-05T18:18:59Z
+  Updated: 2026-04-27T19:58:05Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -15817,7 +15810,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_0f4de1ee-2b07-4075-8374-047372fb6b74.jpg?v=1774434286
   Price: ₹149.00 INR
 - [Doraemon Classic Character Strap Keychain - The World Of Nerds](https://theworldofnerds.com/products/doraemon-classic-character-strap-keychain): Carry your favorite robotic cat everywhere with this Doraemon Classic Character Strap Keychain. Featuring Doraemon in his iconic blue design with a cheerful expression, this keychain brings a fun and nostalgic vibe to your accessories. The matching Doraemon-themed strap adds a stylish touch, making it perfect for keys, bags, or backpacks. - The World Of Nerds
-  Updated: 2026-04-05T18:19:31Z
+  Updated: 2026-04-27T19:58:05Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -15852,7 +15845,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_0a058ba1-0047-4022-b7d7-cccfad28d20a.jpg?v=1774435795
   Price: ₹149.00 INR
 - [Kung Fu Panda Po Action Figure Keychain - The World Of Nerds](https://theworldofnerds.com/products/kung-fu-panda-po-action-figure-keychain): Bring fun and action to your everyday essentials with this Kung Fu Panda Po Keychain. Featuring Po in a lively kung fu pose with a cheerful expression, this keychain captures the spirit of the beloved character. The bold design and durable strap make it a perfect accessory for your keys, bags, or backpacks. - The World Of Nerds
-  Updated: 2026-04-05T20:05:08Z
+  Updated: 2026-04-28T06:23:27Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -15929,7 +15922,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_68a7a412-23b7-47d9-b0b8-309d5f079123.jpg?v=1774501294
   Price: ₹229.00 INR
 - [Red Ferrari Sports Car Keychain - The World Of Nerds](https://theworldofnerds.com/products/red-ferrari-sports-car-keychain): Add a bold and sporty touch to your accessories with this Red Ferrari Sports Car Keychain. Featuring a detailed miniature design with a striking red finish and sleek styling, it captures the thrill of high-performance supercars. Perfect for car enthusiasts, this keychain easily attaches to your keys, bags, or backpacks, giving your everyday carry a fast and stylish edge. - The World Of Nerds
-  Updated: 2026-04-06T01:03:24Z
+  Updated: 2026-04-22T17:16:04Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -15957,7 +15950,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_28cf631a-df02-4484-8a4a-bb9c007937fd.jpg?v=1774502261
   Price: ₹2,499.00 INR
 - [Ram Mammoth Pickup Truck Diecast Model – 1:32 Scale (Yellow) - The World Of Nerds](https://theworldofnerds.com/products/ram-mammoth-pickup-truck-diecast-model-1-32-scale-yellow-joy-junction): Bring power and rugged style to your collection with this 1:32 scale Ram Mammoth Pickup Truck Diecast Model in a bold yellow finish. Designed with impressive detailing, this model features a tough off-road look, realistic exterior elements, and a utility-loaded truck bed. Perfect for collectors and car enthusiasts, it captures the strength and adventure-ready design of the iconic Mammoth truck. A great addition for display or gifting. - The World Of Nerds
-  Updated: 2026-04-06T01:05:17Z
+  Updated: 2026-04-22T17:13:26Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
@@ -16005,243 +15998,320 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/2_3c350cc5-0c1f-4f8a-a63c-c8cfa23daa18.jpg?v=1774503108
   Price: ₹2,299.00 INR
-- [Ferrari SF-24 F1 Diecast Model Car – 1:18 Scale (Charles Leclerc #16 | Bburago)](https://theworldofnerds.com/products/ferrari-sf-24-f1-diecast-model-car-1-18-scale-charles-leclerc-16-bburago): Experience Formula 1 excellence with this 1:18 scale Ferrari SF-24 Diecast Model Car, featuring Charles Leclerc’s #16 race car. Officially styled with authentic Ferrari livery, this model showcases intricate detailing, sponsor decals, aerodynamic design, and realistic race components. Crafted by Bburago, it delivers premium build quality and accuracy, making it a perfect collectible for F1 fans and Ferrari enthusiasts. A must-have display piece that captures the speed, precision, and spirit of modern Formula 1 racing.
-  Updated: 2026-04-06T23:13:27Z
+- [Ferrari SF-24 F1 Diecast Model Car – 1:18 Scale (Charles Leclerc #16 | Bburago) - The World Of Nerds](https://theworldofnerds.com/products/ferrari-sf-24-f1-diecast-model-car-1-18-scale-charles-leclerc-16-bburago): Experience Formula 1 excellence with this 1:18 scale Ferrari SF-24 Diecast Model Car, featuring Charles Leclerc’s #16 race car. Officially styled with authentic Ferrari livery, this model showcases intricate detailing, sponsor decals, aerodynamic design, and realistic race components. Crafted by Bburago, it delivers premium build quality and accuracy, making it a perfect collectible for F1 fans and Ferrari enthusiasts. A must-have display piece that captures the speed, precision, and spirit of modern Formula 1 racing. - The World Of Nerds
+  Updated: 2026-04-17T04:57:13Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/nbb1_48c4c6f4-cb9d-4d45-83d7-00b0e62b9bf8.jpg?v=1775474001
   Price: ₹14,500.00 INR
-- [OBANAI IGURO  - Demon Slayer Katana Sword Pen](https://theworldofnerds.com/products/demon-slayer-nezuko-katana-sword-pen): Unleash your inner anime warrior with this stunning Demon Slayer–inspired Katana Sword Pen! Designed with a realistic samurai sword look, this pen is perfect for anime fans, collectors, and anyone who loves unique desk accessories. Crafted with a detailed Nezuko-style handle and sleek black sheath, it’s not just a pen — it’s a statement piece for your workspace 🔥 📦 Package Includes: 1 × White Katana Sword Pen 1 × Ink Refill 🚫 Note: Stand is not included
-  Updated: 2026-04-15T12:14:05Z
+- [OBANAI IGURO  - Demon Slayer Katana Sword Pen - The World Of Nerds](https://theworldofnerds.com/products/demon-slayer-nezuko-katana-sword-pen): Unleash your inner anime warrior with this stunning Demon Slayer–inspired Katana Sword Pen! Designed with a realistic samurai sword look, this pen is perfect for anime fans, collectors, and anyone who loves unique desk accessories. Crafted with a detailed Nezuko-style handle and sleek black sheath, it’s not just a pen — it’s a statement piece for your workspace 🔥 📦 Package Includes: 1 × White Katana Sword Pen 1 × Ink Refill 🚫 Note: Stand is not included - The World Of Nerds
+  Updated: 2026-04-17T21:56:30Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_855cd62e-a148-47f1-b3e2-866a8b4a3120.jpg?v=1775645909
   Price: ₹289.00 INR
-- [SHINOBU KOCHO -  Katana Sword Pen](https://theworldofnerds.com/products/demon-slayer-white-katana-sword-pen): Upgrade your desk with this premium Demon Slayer–inspired White Katana Sword Pen ⚔️✨Designed with a sleek white scabbard and bold red handle, this pen delivers a perfect mix of elegance and anime power. Whether you're an anime fan, collector, or someone who loves unique accessories, this katana pen will instantly stand out on your desk 🔥 📦 Package Includes: 1 × White Katana Sword Pen 1 × Ink Refill 🚫 Note: Stand is not included
-  Updated: 2026-04-15T12:13:42Z
+- [SHINOBU KOCHO -  Katana Sword Pen - The World Of Nerds](https://theworldofnerds.com/products/demon-slayer-white-katana-sword-pen): Upgrade your desk with this premium Demon Slayer–inspired White Katana Sword Pen ⚔️✨Designed with a sleek white scabbard and bold red handle, this pen delivers a perfect mix of elegance and anime power. Whether you're an anime fan, collector, or someone who loves unique accessories, this katana pen will instantly stand out on your desk 🔥 📦 Package Includes: 1 × White Katana Sword Pen 1 × Ink Refill 🚫 Note: Stand is not included - The World Of Nerds
+  Updated: 2026-04-28T20:09:47Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_0d3f9ac6-63e0-433b-a27f-dd4169356ad8.jpg?v=1775645960
   Price: ₹289.00 INR
-- [Mitsuri Katana Sword Pen - Demon Slayer](https://theworldofnerds.com/products/demon-slayer-mitsuri-katana-sword-pen): Bring love and power to your desk with this Mitsuri Kanroji–inspired Katana Sword Pen 💖✨Featuring a beautiful pink and green handle with a unique floral guard design, this pen is perfect for anime fans who want something cute yet powerful. More than just a pen, it’s a collector’s piece that adds charm and personality to your workspace 🔥 📦 Package Includes: 1 × White Katana Sword Pen 1 × Ink Refill 🚫 Note: Stand is not included
-  Updated: 2026-04-15T12:13:16Z
+- [Mitsuri Katana Sword Pen - Demon Slayer - The World Of Nerds](https://theworldofnerds.com/products/demon-slayer-mitsuri-katana-sword-pen): Bring love and power to your desk with this Mitsuri Kanroji–inspired Katana Sword Pen 💖✨Featuring a beautiful pink and green handle with a unique floral guard design, this pen is perfect for anime fans who want something cute yet powerful. More than just a pen, it’s a collector’s piece that adds charm and personality to your workspace 🔥 📦 Package Includes: 1 × White Katana Sword Pen 1 × Ink Refill 🚫 Note: Stand is not included - The World Of Nerds
+  Updated: 2026-04-27T15:28:07Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_7bcd7872-1875-4a56-b2d4-615918a7f0df.jpg?v=1775646010
   Price: ₹289.00 INR
-- [TANJIRO KAMADO  - Demon Slayer Black Katana Sword Pen](https://theworldofnerds.com/products/demon-slayer-black-katana-sword-pen): Unleash the power of a true warrior with this Demon Slayer–inspired Black Katana Sword Pen ⚔️🔥Featuring a sleek all-black design with detailed Japanese-style markings, this pen gives a bold and powerful anime aesthetic. Perfect for anime fans, collectors, and anyone who wants a strong, stylish desk accessory. 📦 Package Includes: 1 × White Katana Sword Pen 1 × Ink Refill 🚫 Note: Stand is not included
-  Updated: 2026-04-15T12:12:15Z
+- [TANJIRO KAMADO  - Demon Slayer Black Katana Sword Pen - The World Of Nerds](https://theworldofnerds.com/products/demon-slayer-black-katana-sword-pen): Unleash the power of a true warrior with this Demon Slayer–inspired Black Katana Sword Pen ⚔️🔥Featuring a sleek all-black design with detailed Japanese-style markings, this pen gives a bold and powerful anime aesthetic. Perfect for anime fans, collectors, and anyone who wants a strong, stylish desk accessory. 📦 Package Includes: 1 × White Katana Sword Pen 1 × Ink Refill 🚫 Note: Stand is not included - The World Of Nerds
+  Updated: 2026-04-28T18:10:09Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_5b0cf0ad-ab0b-465e-ac89-ec5ce004db0e.jpg?v=1775646048
   Price: ₹289.00 INR
-- [INOSUKE HASIBIRA  - Demon Slayer Katana Sword Pen](https://theworldofnerds.com/products/demon-slayer-white-katana-sword-pen-1): Keep it simple, clean, and powerful with this Demon Slayer–inspired White Katana Sword Pen ⚔️✨Designed with a sleek white blade-style body and subtle Japanese detailing, this pen gives a premium minimalist anime vibe. Perfect for those who love clean aesthetics + anime style in one product 🔥 📦 Package Includes: 1 × White Katana Sword Pen 1 × Ink Refill 🚫 Note: Stand is not included
-  Updated: 2026-04-15T12:11:45Z
+- [INOSUKE HASIBIRA  - Demon Slayer Katana Sword Pen - The World Of Nerds](https://theworldofnerds.com/products/demon-slayer-white-katana-sword-pen-1): Keep it simple, clean, and powerful with this Demon Slayer–inspired White Katana Sword Pen ⚔️✨Designed with a sleek white blade-style body and subtle Japanese detailing, this pen gives a premium minimalist anime vibe. Perfect for those who love clean aesthetics + anime style in one product 🔥 📦 Package Includes: 1 × White Katana Sword Pen 1 × Ink Refill 🚫 Note: Stand is not included - The World Of Nerds
+  Updated: 2026-04-24T08:27:07Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_b0187d1f-7a80-47f9-836c-1e6ae5ac6d15.jpg?v=1775646087
   Price: ₹289.00 INR
-- [KAIGOKU - Demon Slayer Katana Sword Pen](https://theworldofnerds.com/products/demon-slayer-rengoku-flame-katana-sword-pen): Ignite your writing with this Rengoku-inspired Flame Katana Sword Pen 🔥⚔️Featuring a bold black sheath with golden flame patterns and a rich red handle, this pen represents power, passion, and the spirit of a true warrior. Perfect for anime fans who want a strong, fiery aesthetic on their desk 🔥 📦 Package Includes: 1 × Flame Katana Sword Pen 1 × Ink Refill 🚫 Note: Stand is not included
-  Updated: 2026-04-15T12:11:15Z
+- [KAIGOKU - Demon Slayer Katana Sword Pen - The World Of Nerds](https://theworldofnerds.com/products/demon-slayer-rengoku-flame-katana-sword-pen): Ignite your writing with this Rengoku-inspired Flame Katana Sword Pen 🔥⚔️Featuring a bold black sheath with golden flame patterns and a rich red handle, this pen represents power, passion, and the spirit of a true warrior. Perfect for anime fans who want a strong, fiery aesthetic on their desk 🔥 📦 Package Includes: 1 × Flame Katana Sword Pen 1 × Ink Refill 🚫 Note: Stand is not included - The World Of Nerds
+  Updated: 2026-04-26T09:27:51Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/4_6e6627d6-29cd-486f-bc1d-8bdfcc1ede8f.jpg?v=1775646138
   Price: ₹289.00 INR
-- [Sanemi Shinazugawa Katana Sword Pen](https://theworldofnerds.com/products/demon-slayer-obanai-serpent-katana-sword-pen): Channel the calm yet deadly precision of the Sanemi Shinazugawa Hashira with this Obanai Iguro–inspired Katana Sword Pen 🐍⚔️Featuring a striking black sheath with white snake-like patterns and a detailed handle design, this pen delivers a unique and mysterious anime aesthetic. Perfect for fans who love dark, stylish, and powerful designs 🔥 📦 Package Includes: 1 × Serpent Katana Sword Pen 1 × Ink Refill 🚫 Note: Stand is not included
-  Updated: 2026-04-13T23:50:30Z
+- [Sanemi Shinazugawa Katana Sword Pen - The World Of Nerds](https://theworldofnerds.com/products/demon-slayer-obanai-serpent-katana-sword-pen): Channel the calm yet deadly precision of the Sanemi Shinazugawa Hashira with this Obanai Iguro–inspired Katana Sword Pen 🐍⚔️Featuring a striking black sheath with white snake-like patterns and a detailed handle design, this pen delivers a unique and mysterious anime aesthetic. Perfect for fans who love dark, stylish, and powerful designs 🔥 📦 Package Includes: 1 × Serpent Katana Sword Pen 1 × Ink Refill 🚫 Note: Stand is not included - The World Of Nerds
+  Updated: 2026-04-27T11:17:48Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_4e7a2c73-6072-44da-b1ca-87492f861a94.jpg?v=1775646219
   Price: ₹289.00 INR
-- [MUICHIRO TOKITO - Demon Slayer Katana Sword Pen](https://theworldofnerds.com/products/demon-slayer-giyu-water-katana-sword-pen): Flow with calm strength and precision using this Giyu Tomioka–inspired Water Katana Sword Pen 🌊⚔️Featuring a sleek black sheath paired with a blue-and-white handle and golden guard, this pen captures the peaceful yet powerful spirit of the Water Hashira. Perfect for anime fans who love cool, clean, and balanced aesthetics 💧 📦 Package Includes: 1 × Water Katana Sword Pen 1 × Ink Refill 🚫 Note: Stand is not included
-  Updated: 2026-04-15T12:10:01Z
+- [MUICHIRO TOKITO - Demon Slayer Katana Sword Pen - The World Of Nerds](https://theworldofnerds.com/products/demon-slayer-giyu-water-katana-sword-pen): Flow with calm strength and precision using this Giyu Tomioka–inspired Water Katana Sword Pen 🌊⚔️Featuring a sleek black sheath paired with a blue-and-white handle and golden guard, this pen captures the peaceful yet powerful spirit of the Water Hashira. Perfect for anime fans who love cool, clean, and balanced aesthetics 💧 📦 Package Includes: 1 × Water Katana Sword Pen 1 × Ink Refill 🚫 Note: Stand is not included - The World Of Nerds
+  Updated: 2026-04-17T22:11:36Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_2764caa4-e7bc-48c4-a6b9-1083dad9f96b.jpg?v=1775646257
   Price: ₹289.00 INR
-- [GIYU TOMIOKA Demon Slayer Katana Sword Pen](https://theworldofnerds.com/products/demon-slayer-kanao-katana-sword-pen): Experience calm elegance with this Kanao Tsuyuri–inspired Katana Sword Pen 🌸⚔️Featuring a sleek black sheath paired with a clean white handle and subtle red guard, this pen represents grace, precision, and quiet strength. Perfect for anime fans who love simple, aesthetic, and classy designs ✨ 📦 Package Includes: 1 × Kanao Katana Sword Pen 1 × Ink Refill 🚫 Note: Stand is not included
-  Updated: 2026-04-15T12:09:14Z
+- [GIYU TOMIOKA Demon Slayer Katana Sword Pen - The World Of Nerds](https://theworldofnerds.com/products/demon-slayer-kanao-katana-sword-pen): Experience calm elegance with this Kanao Tsuyuri–inspired Katana Sword Pen 🌸⚔️Featuring a sleek black sheath paired with a clean white handle and subtle red guard, this pen represents grace, precision, and quiet strength. Perfect for anime fans who love simple, aesthetic, and classy designs ✨ 📦 Package Includes: 1 × Kanao Katana Sword Pen 1 × Ink Refill 🚫 Note: Stand is not included - The World Of Nerds
+  Updated: 2026-04-28T20:09:52Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_2a0ac638-cfc7-487f-9790-2bd99ed4d582.jpg?v=1775646285
   Price: ₹289.00 INR
-- [TSUYURI KONAN - Demon Slayer  Katana Sword Pen](https://theworldofnerds.com/products/demon-slayer-shinobu-butterfly-katana-sword-pen): Add elegance and beauty to your desk with this Kimetsu no Yaiba Sword Pen 🦋⚔️Featuring a sleek black sheath with a soft pink-white handle and delicate guard design, this pen reflects the graceful yet deadly style of the Insect Hashira. Perfect for anime fans who love aesthetic, elegant, and unique designs ✨ 📦 Package Includes: 1 × Butterfly Katana Sword Pen 1 × Ink Refill 🚫 Note: Stand is not included
-  Updated: 2026-04-15T12:08:40Z
+- [TSUYURI KONAN - Demon Slayer  Katana Sword Pen - The World Of Nerds](https://theworldofnerds.com/products/demon-slayer-shinobu-butterfly-katana-sword-pen): Add elegance and beauty to your desk with this Kimetsu no Yaiba Sword Pen 🦋⚔️Featuring a sleek black sheath with a soft pink-white handle and delicate guard design, this pen reflects the graceful yet deadly style of the Insect Hashira. Perfect for anime fans who love aesthetic, elegant, and unique designs ✨ 📦 Package Includes: 1 × Butterfly Katana Sword Pen 1 × Ink Refill 🚫 Note: Stand is not included - The World Of Nerds
+  Updated: 2026-04-24T08:27:07Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_18447730-9d46-403a-901e-3ff5218a11cd.jpg?v=1775645818
   Price: ₹289.00 INR
-- [GIYU TOMIOKA - Demon Slayer Katana Sword Pen](https://theworldofnerds.com/products/demon-slayer-white-gold-katana-sword-pen): Step into elegance with this White & Gold Katana Sword Pen, inspired by the iconic style of Demon Slayer ⚔️✨With a sleek black sheath, clean white handle, and premium gold guard, this pen delivers a luxury anime aesthetic. Perfect for those who want a minimal yet premium desk accessory 🔥 📦 Package Includes: 1 × White & Gold Katana Sword Pen 1 × Ink Refill 🚫 Note: Stand is not included
-  Updated: 2026-04-15T12:08:10Z
+- [GIYU TOMIOKA - Demon Slayer Katana Sword Pen - The World Of Nerds](https://theworldofnerds.com/products/demon-slayer-white-gold-katana-sword-pen): Step into elegance with this White & Gold Katana Sword Pen, inspired by the iconic style of Demon Slayer ⚔️✨With a sleek black sheath, clean white handle, and premium gold guard, this pen delivers a luxury anime aesthetic. Perfect for those who want a minimal yet premium desk accessory 🔥 📦 Package Includes: 1 × White & Gold Katana Sword Pen 1 × Ink Refill 🚫 Note: Stand is not included - The World Of Nerds
+  Updated: 2026-04-28T20:09:51Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_c31bbbec-5adf-45ae-8e17-6dad68910ae9.jpg?v=1775646321
   Price: ₹289.00 INR
-- [YORIICHI TSUGIKUNIS - Katana Sword Pen](https://theworldofnerds.com/products/black-gold-katana-sword-pen): Upgrade your desk with this Black & Gold Katana Sword Pen, designed for those who love power, luxury, and anime aesthetics ⚔️✨Featuring a sleek black sheath paired with a rich golden handle, this pen delivers a bold and premium samurai look. Perfect for collectors, anime fans, and anyone who wants a high-end statement piece 🔥 📦 Package Includes: 1 × Black & Gold Katana Sword Pen 1 × Ink Refill 🚫 Note: Stand is not included
-  Updated: 2026-04-15T12:07:34Z
+- [YORIICHI TSUGIKUNIS - Katana Sword Pen - The World Of Nerds](https://theworldofnerds.com/products/black-gold-katana-sword-pen): Upgrade your desk with this Black & Gold Katana Sword Pen, designed for those who love power, luxury, and anime aesthetics ⚔️✨Featuring a sleek black sheath paired with a rich golden handle, this pen delivers a bold and premium samurai look. Perfect for collectors, anime fans, and anyone who wants a high-end statement piece 🔥 📦 Package Includes: 1 × Black & Gold Katana Sword Pen 1 × Ink Refill 🚫 Note: Stand is not included - The World Of Nerds
+  Updated: 2026-04-24T08:27:07Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_3468ea1a-12e8-4dd8-8bd9-2a31d5b3e08f.jpg?v=1775646345
   Price: ₹289.00 INR
-- [TANJIRO KAMADO - Demon Slayer Katana Sword Pen](https://theworldofnerds.com/products/demon-slayer-sanemi-wind-katana-sword-pen): Unleash raw power with this Sanemi Shinazugawa–inspired Wind Katana Sword Pen 🌪️⚔️Featuring a sleek black sheath paired with a white handle and subtle green accents, this pen captures the fierce and unpredictable energy of the Wind Hashira. Perfect for anime fans who love bold, intense, and warrior-style designs 🔥 📦 Package Includes: 1 × Wind Katana Sword Pen 1 × Ink Refill 🚫 Note: Stand is not included
-  Updated: 2026-04-15T12:06:52Z
+- [TANJIRO KAMADO - Demon Slayer Katana Sword Pen - The World Of Nerds](https://theworldofnerds.com/products/demon-slayer-sanemi-wind-katana-sword-pen): Unleash raw power with this Sanemi Shinazugawa–inspired Wind Katana Sword Pen 🌪️⚔️Featuring a sleek black sheath paired with a white handle and subtle green accents, this pen captures the fierce and unpredictable energy of the Wind Hashira. Perfect for anime fans who love bold, intense, and warrior-style designs 🔥 📦 Package Includes: 1 × Wind Katana Sword Pen 1 × Ink Refill 🚫 Note: Stand is not included - The World Of Nerds
+  Updated: 2026-04-25T01:29:17Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/3_5b51453d-c242-4a03-ab01-4ec0f7510248.jpg?v=1775646369
   Price: ₹289.00 INR
-- [Katana Pen Display Stand](https://theworldofnerds.com/products/katana-pen-display-stand): A sleek, matte black display stand inspired by traditional Japanese katana holders. Featuring two curved cradle arms, it securely holds pens, letter openers, or decorative swords in an elegant horizontal position. Compact and lightweight, it's perfect for desk décor, collectors, or gifting.
-  Updated: 2026-04-15T03:46:27Z
+- [Katana Pen Display Stand - The World Of Nerds](https://theworldofnerds.com/products/katana-pen-display-stand): A sleek, matte black display stand inspired by traditional Japanese katana holders. Featuring two curved cradle arms, it securely holds pens, letter openers, or decorative swords in an elegant horizontal position. Compact and lightweight, it's perfect for desk décor, collectors, or gifting. - The World Of Nerds
+  Updated: 2026-04-28T20:09:57Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/KatanaStand_1_64f16550-1326-43de-86e6-5ab9b3ff3345.jpg?v=1775634387
   Price: ₹99.00 INR
-- [Lightning McQueen Car Keychain](https://theworldofnerds.com/products/lightning-mcqueen-car-keychain): Add a fun and sporty touch to your keys with this Lightning McQueen Car Keychain inspired by the popular animated character. Designed with vibrant red color and detailed features, it perfectly captures the look of the iconic race car. Made with durable material and a sturdy metal ring, it’s ideal for keys, bags, or backpacks. A perfect accessory for kids, car lovers, and fans of animated racing characters.
-  Updated: 2026-04-08T13:12:44Z
+- [Lightning McQueen Car Keychain - The World Of Nerds](https://theworldofnerds.com/products/lightning-mcqueen-car-keychain): Add a fun and sporty touch to your keys with this Lightning McQueen Car Keychain inspired by the popular animated character. Designed with vibrant red color and detailed features, it perfectly captures the look of the iconic race car. Made with durable material and a sturdy metal ring, it’s ideal for keys, bags, or backpacks. A perfect accessory for kids, car lovers, and fans of animated racing characters. - The World Of Nerds
+  Updated: 2026-04-22T10:56:56Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_1548bf3d-866f-493a-a8d4-896c4473a8dd.png?v=1775652388
   Price: ₹228.00 INR
-- [Batman Trumbler Car Keychain](https://theworldofnerds.com/products/batman-trumbler-car-keychain): Carry a piece of Gotham with this Batman Trumbler Keychain inspired by the iconic Batmobile. Designed with a sleek black finish and detailed structure, it captures the rugged look of the Trumbler vehicle. Made from durable material with a sturdy metal keyring, it’s perfect for everyday use on keys, bags, or backpacks. A great collectible for Batman fans and superhero lovers.
-  Updated: 2026-04-08T13:29:08Z
+- [Batman Trumbler Car Keychain - The World Of Nerds](https://theworldofnerds.com/products/batman-trumbler-car-keychain): Carry a piece of Gotham with this Batman Trumbler Keychain inspired by the iconic Batmobile. Designed with a sleek black finish and detailed structure, it captures the rugged look of the Trumbler vehicle. Made from durable material with a sturdy metal keyring, it’s perfect for everyday use on keys, bags, or backpacks. A great collectible for Batman fans and superhero lovers. - The World Of Nerds
+  Updated: 2026-04-23T11:25:03Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_742d5703-b302-42b9-baf8-f4d93a0bc606.png?v=1775652756
   Price: ₹199.00 INR
-- [Batman Batmobile Car Keychain](https://theworldofnerds.com/products/batman-batmobile-car-keychain): Add a sleek superhero vibe to your essentials with this Batman Batmobile Keychain. Designed with a detailed black Batmobile replica, it captures the iconic look of Batman’s legendary ride. Built with durable material and a sturdy metal ring, it’s perfect for keys, bags, or backpacks. A must-have accessory for Batman fans and collectors.
-  Updated: 2026-04-08T13:32:08Z
+- [Batman Batmobile Car Keychain - The World Of Nerds](https://theworldofnerds.com/products/batman-batmobile-car-keychain): Add a sleek superhero vibe to your essentials with this Batman Batmobile Keychain. Designed with a detailed black Batmobile replica, it captures the iconic look of Batman’s legendary ride. Built with durable material and a sturdy metal ring, it’s perfect for keys, bags, or backpacks. A must-have accessory for Batman fans and collectors. - The World Of Nerds
+  Updated: 2026-04-18T10:33:39Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_86f43bc8-b2f9-4e9a-9871-763515965357.png?v=1775653485
   Price: ₹199.00 INR
-- [Batman Batmobile Car Keychain](https://theworldofnerds.com/products/batman-batmobile-car-keychain-1): Upgrade your everyday carry with this Batman Batmobile Keychain (D2), featuring a sleek and futuristic design inspired by the iconic Batmobile. Crafted with detailed styling and a glossy black finish, it adds a bold superhero touch to your keys, bags, or backpacks. Built with durable material and a strong metal keyring, it’s perfect for daily use and a great collectible for Batman fans.
-  Updated: 2026-04-08T13:36:35Z
+- [Batman Batmobile Car Keychain - The World Of Nerds](https://theworldofnerds.com/products/batman-batmobile-car-keychain-1): Upgrade your everyday carry with this Batman Batmobile Keychain (D2), featuring a sleek and futuristic design inspired by the iconic Batmobile. Crafted with detailed styling and a glossy black finish, it adds a bold superhero touch to your keys, bags, or backpacks. Built with durable material and a strong metal keyring, it’s perfect for daily use and a great collectible for Batman fans. - The World Of Nerds
+  Updated: 2026-04-18T10:36:21Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_fe6d0ccb-922f-4eed-b425-45ce5baa5503.png?v=1775653697
   Price: ₹199.00 INR
-- [Batman Batmobile Car Keychain](https://theworldofnerds.com/products/batman-batmobile-car-keychain-2): Add a classic superhero vibe to your collection with the Batman Batmobile Keychain (D3). Designed with a sleek retro Batmobile look and highlighted details, this keychain is perfect for fans of the Dark Knight. Made with durable materials and a sturdy metal hook, it’s ideal for everyday use on keys, bags, or backpacks while showing off your love for Batman.
-  Updated: 2026-04-09T05:32:46Z
+- [Batman Batmobile Car Keychain - The World Of Nerds](https://theworldofnerds.com/products/batman-batmobile-car-keychain-2): Add a classic superhero vibe to your collection with the Batman Batmobile Keychain (D3). Designed with a sleek retro Batmobile look and highlighted details, this keychain is perfect for fans of the Dark Knight. Made with durable materials and a sturdy metal hook, it’s ideal for everyday use on keys, bags, or backpacks while showing off your love for Batman. - The World Of Nerds
+  Updated: 2026-04-18T20:33:01Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_8065df01-6826-4674-a354-ab593d135a23.png?v=1775711094
   Price: ₹199.00 INR
-- [Batman Batmobile Car Keychain](https://theworldofnerds.com/products/batman-batmobile-car-keychain-3): Stand out with the bold and stylish Batman Batmobile Keychain (D4), featuring a unique design with eye-catching accents and a sleek finish. Inspired by the iconic Batmobile, this keychain is perfect for Batman fans who love detailed collectibles. Made with durable materials and a strong metal clasp, it’s ideal for keys, bags, or everyday carry with a touch of superhero flair.
-  Updated: 2026-04-09T05:34:42Z
+- [Batman Batmobile Car Keychain - The World Of Nerds](https://theworldofnerds.com/products/batman-batmobile-car-keychain-3): Stand out with the bold and stylish Batman Batmobile Keychain (D4), featuring a unique design with eye-catching accents and a sleek finish. Inspired by the iconic Batmobile, this keychain is perfect for Batman fans who love detailed collectibles. Made with durable materials and a strong metal clasp, it’s ideal for keys, bags, or everyday carry with a touch of superhero flair. - The World Of Nerds
+  Updated: 2026-04-23T09:02:32Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_37b1dda6-2686-4740-98f3-b9c2948c0179.png?v=1775711283
   Price: ₹199.00 INR
-- [Batman Batmobile Car Keychain](https://theworldofnerds.com/products/batman-batmobile-car-keychain-4): Bring home the power of Gotham with the Batman Batmobile Keychain (D5), featuring a detailed armored design inspired by the legendary Batmobile. With its bold black finish and intricate structure, this keychain is perfect for collectors and Batman fans alike. Built with durable material and a sturdy metal ring, it’s ideal for everyday use on keys, bags, or accessories.
-  Updated: 2026-04-09T05:35:55Z
+- [Batman Batmobile Car Keychain - The World Of Nerds](https://theworldofnerds.com/products/batman-batmobile-car-keychain-4): Bring home the power of Gotham with the Batman Batmobile Keychain (D5), featuring a detailed armored design inspired by the legendary Batmobile. With its bold black finish and intricate structure, this keychain is perfect for collectors and Batman fans alike. Built with durable material and a sturdy metal ring, it’s ideal for everyday use on keys, bags, or accessories. - The World Of Nerds
+  Updated: 2026-04-19T08:31:56Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_523b3eef-fb34-4351-8d7e-b38bce5d2c4d.png?v=1775711402
   Price: ₹199.00 INR
-- [Red BMW Car Keychain](https://theworldofnerds.com/products/red-bmw-car-keychain): Add a sporty touch to your accessories with this Red BMW Car Keychain. Designed with a sleek and stylish car model, it features eye-catching details and opening doors for a realistic look. Made from durable materials with a strong metal keyring, it’s perfect for everyday use on keys, bags, or backpacks—ideal for car lovers and collectors.
-  Updated: 2026-04-09T05:38:09Z
+- [Red BMW Car Keychain - The World Of Nerds](https://theworldofnerds.com/products/red-bmw-car-keychain): Add a sporty touch to your accessories with this Red BMW Car Keychain. Designed with a sleek and stylish car model, it features eye-catching details and opening doors for a realistic look. Made from durable materials with a strong metal keyring, it’s perfect for everyday use on keys, bags, or backpacks—ideal for car lovers and collectors. - The World Of Nerds
+  Updated: 2026-04-18T20:35:49Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_47ef546e-7772-418b-a9a0-ce7f91f8b5ee.png?v=1775711506
   Price: ₹229.00 INR
-- [White Audi R8 Car Keychain](https://theworldofnerds.com/products/white-audi-r8-car-keychain): Add a premium touch to your accessories with this White Audi R8 Car Keychain. Featuring a sleek design with realistic details and opening doors, it perfectly captures the sporty look of the iconic Audi R8. Made with durable materials and a sturdy metal keyring, it’s ideal for daily use on keys, bags, or backpacks—perfect for car enthusiasts and collectors.
-  Updated: 2026-04-09T05:41:19Z
+- [White Audi R8 Car Keychain - The World Of Nerds](https://theworldofnerds.com/products/white-audi-r8-car-keychain): Add a premium touch to your accessories with this White Audi R8 Car Keychain. Featuring a sleek design with realistic details and opening doors, it perfectly captures the sporty look of the iconic Audi R8. Made with durable materials and a sturdy metal keyring, it’s ideal for daily use on keys, bags, or backpacks—perfect for car enthusiasts and collectors. - The World Of Nerds
+  Updated: 2026-04-22T17:16:21Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_c62065f1-a666-458b-a0e3-dda4da045b2d.png?v=1775711824
   Price: ₹229.00 INR
-- [Lamborghini Sian Car Keychain](https://theworldofnerds.com/products/lamborghini-sian-car-keychain): Add a touch of luxury to your accessories with this Lamborghini Sian Car Keychain. Designed with a sleek and modern supercar look, it features detailed styling and opening doors for a realistic feel. Made from durable materials with a sturdy metal keyring, it’s perfect for everyday use on keys, bags, or backpacks—ideal for car lovers and collectors.
-  Updated: 2026-04-09T05:42:41Z
+- [Lamborghini Sian Car Keychain - The World Of Nerds](https://theworldofnerds.com/products/lamborghini-sian-car-keychain): Add a touch of luxury to your accessories with this Lamborghini Sian Car Keychain. Designed with a sleek and modern supercar look, it features detailed styling and opening doors for a realistic feel. Made from durable materials with a sturdy metal keyring, it’s perfect for everyday use on keys, bags, or backpacks—ideal for car lovers and collectors. - The World Of Nerds
+  Updated: 2026-04-18T20:38:38Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_6f709869-529d-4575-831b-28d8a373a8f2.png?v=1775711986
   Price: ₹229.00 INR
-- [Blue Bugatti Car Keychain](https://theworldofnerds.com/products/blue-bugatti-car-keychain): Add a premium and sporty vibe to your accessories with this Blue Bugatti Car Keychain. Designed with a sleek supercar look, it features detailed styling and opening doors for a realistic feel. Made from durable materials with a strong metal keyring, it’s perfect for everyday use on keys, bags, or backpacks—ideal for car enthusiasts and collectors.
-  Updated: 2026-04-09T05:43:14Z
+- [Blue Bugatti Car Keychain - The World Of Nerds](https://theworldofnerds.com/products/blue-bugatti-car-keychain): Add a premium and sporty vibe to your accessories with this Blue Bugatti Car Keychain. Designed with a sleek supercar look, it features detailed styling and opening doors for a realistic feel. Made from durable materials with a strong metal keyring, it’s perfect for everyday use on keys, bags, or backpacks—ideal for car enthusiasts and collectors. - The World Of Nerds
+  Updated: 2026-04-18T20:40:08Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_3b411be3-3521-4cd0-9f94-78e19c4c21b5.png?v=1775712136
   Price: ₹229.00 INR
-- [Yellow Chorley Car Keychain](https://theworldofnerds.com/products/yellow-chorley-car-keychain): Add a stylish and sporty touch to your accessories with this Yellow Chorley Car Keychain. Designed with a sleek car model and detailed finishing, it features opening doors for a realistic look. Made from durable materials with a sturdy metal keyring, it’s perfect for everyday use on keys, bags, or backpacks—ideal for car lovers and collectors.
-  Updated: 2026-04-09T05:51:41Z
+- [Yellow Chorley Car Keychain - The World Of Nerds](https://theworldofnerds.com/products/yellow-chorley-car-keychain): Add a stylish and sporty touch to your accessories with this Yellow Chorley Car Keychain. Designed with a sleek car model and detailed finishing, it features opening doors for a realistic look. Made from durable materials with a sturdy metal keyring, it’s perfect for everyday use on keys, bags, or backpacks—ideal for car lovers and collectors. - The World Of Nerds
+  Updated: 2026-04-18T20:45:28Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_430b4af3-f9f0-46cb-ab2b-1f6218c07a60.png?v=1775712352
   Price: ₹229.00 INR
-- [Green BMW Car Keychain](https://theworldofnerds.com/products/green-bmw-car-keychain): Add a fresh and sporty look to your accessories with this Green BMW Car Keychain. Designed with a sleek car model and detailed finishing, it features opening doors for a realistic touch. Made from durable materials with a strong metal keyring, it’s perfect for everyday use on keys, bags, or backpacks—ideal for car enthusiasts and collectors.
-  Updated: 2026-04-09T06:00:01Z
+- [Green BMW Car Keychain - The World Of Nerds](https://theworldofnerds.com/products/green-bmw-car-keychain): Add a fresh and sporty look to your accessories with this Green BMW Car Keychain. Designed with a sleek car model and detailed finishing, it features opening doors for a realistic touch. Made from durable materials with a strong metal keyring, it’s perfect for everyday use on keys, bags, or backpacks—ideal for car enthusiasts and collectors. - The World Of Nerds
+  Updated: 2026-04-22T17:13:27Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_7bd74f0f-554b-475a-9c3f-1e7e3b9666d4.png?v=1775712880
   Price: ₹229.00 INR
-- [Orange Toyota Supra Car Keychain](https://theworldofnerds.com/products/orange-toyota-supra-car-keychain): Add a bold and sporty touch to your accessories with this Orange Toyota Supra Car Keychain. Designed with a sleek and modern look, it features detailed styling and opening doors for a realistic feel. Made from durable materials with a strong metal keyring, it’s perfect for everyday use on keys, bags, or backpacks—ideal for car enthusiasts and collectors.
-  Updated: 2026-04-09T07:08:37Z
+- [Orange Toyota Supra Car Keychain - The World Of Nerds](https://theworldofnerds.com/products/orange-toyota-supra-car-keychain): Add a bold and sporty touch to your accessories with this Orange Toyota Supra Car Keychain. Designed with a sleek and modern look, it features detailed styling and opening doors for a realistic feel. Made from durable materials with a strong metal keyring, it’s perfect for everyday use on keys, bags, or backpacks—ideal for car enthusiasts and collectors. - The World Of Nerds
+  Updated: 2026-04-18T21:07:46Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_44596952-e762-4792-abc2-7c1a9a7f27ab.png?v=1775718327
   Price: ₹229.00 INR
-- [Blue Mercedes Car Keychain](https://theworldofnerds.com/products/blue-mercedes-car-keychain): Add a stylish and premium touch to your accessories with this Blue Mercedes Car Keychain. Designed with a sleek car model and detailed finishing, it features opening doors for a realistic feel. Made from durable materials with a sturdy metal keyring, it’s perfect for everyday use on keys, bags, or backpacks—ideal for car enthusiasts and collectors.
-  Updated: 2026-04-09T07:11:46Z
+- [Blue Mercedes Car Keychain - The World Of Nerds](https://theworldofnerds.com/products/blue-mercedes-car-keychain): Add a stylish and premium touch to your accessories with this Blue Mercedes Car Keychain. Designed with a sleek car model and detailed finishing, it features opening doors for a realistic feel. Made from durable materials with a sturdy metal keyring, it’s perfect for everyday use on keys, bags, or backpacks—ideal for car enthusiasts and collectors. - The World Of Nerds
+  Updated: 2026-04-22T17:16:14Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_53a50603-e5d6-4ac0-b996-37a257c5dba5.png?v=1775718568
   Price: ₹229.00 INR
-- [Pink Lying Pose Shinchan Keychain](https://theworldofnerds.com/products/pink-lying-pose-shinchan-keychain): Add a cute and playful touch to your accessories with this Pink Lying Pose Shinchan Keychain. Featuring the adorable Shinchan character in a fun lying pose, it comes with a soft strap and charming design details. Made from high-quality, durable material with a sturdy metal keyring, it’s perfect for keys, bags, or backpacks—ideal for anime lovers and Shinchan fans.
-  Updated: 2026-04-09T07:19:31Z
+- [Pink Lying Pose Shinchan Keychain - The World Of Nerds](https://theworldofnerds.com/products/pink-lying-pose-shinchan-keychain): Add a cute and playful touch to your accessories with this Pink Lying Pose Shinchan Keychain. Featuring the adorable Shinchan character in a fun lying pose, it comes with a soft strap and charming design details. Made from high-quality, durable material with a sturdy metal keyring, it’s perfect for keys, bags, or backpacks—ideal for anime lovers and Shinchan fans. - The World Of Nerds
+  Updated: 2026-04-18T21:09:35Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/4_03b292ed-2b3d-4603-a6c3-231f62ee4501.jpg?v=1775718917
   Price: ₹149.00 INR
-- [F1 Keychain](https://theworldofnerds.com/products/f1-keychain)
-  Updated: 2026-04-12T14:41:56Z
-  Vendor: The World Of Nerds
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/DSC00046.jpg?v=1775738640
-  Price: ₹0.00 INR
-- [Dodge Challenger White Model Car - 1:22 Scale Diecast](https://theworldofnerds.com/products/dodge-challenger-white-model-car-1-22-scale-diecast): Experience muscle car power in miniature with this 1:22 White Dodge Challenger Model Car. Designed with bold styling and realistic details, it captures the iconic look of the legendary Challenger. Made from high-quality materials, this model is perfect for display, collection, or gifting—ideal for car enthusiasts and collectors who love classic American muscle.
-  Updated: 2026-04-14T17:36:22Z
+- [Dodge Challenger White Model Car - 1:22 Scale Diecast - The World Of Nerds](https://theworldofnerds.com/products/dodge-challenger-white-model-car-1-22-scale-diecast): Experience muscle car power in miniature with this 1:22 White Dodge Challenger Model Car. Designed with bold styling and realistic details, it captures the iconic look of the legendary Challenger. Made from high-quality materials, this model is perfect for display, collection, or gifting—ideal for car enthusiasts and collectors who love classic American muscle. - The World Of Nerds
+  Updated: 2026-04-21T07:57:31Z
   Vendor: The World Of Nerds
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_d8d2a50f-0eb5-4fd4-b8c4-2d5215addc7d.jpg?v=1776144977
   Price: ₹2,199.00 INR
+- [Tanjiro Nichirin Wooden Katana - The World Of Nerds](https://theworldofnerds.com/products/tanjiro-nichirin-wooden-katana): Bring the spirit of Demon Slayer to life with this Tanjiro Nichirin Wooden Katana (Fire Edition). Crafted with detailed design inspired by Tanjiro’s iconic sword, it features a sleek blade, comfortable grip, and comes with a display stand. The katana has an approximate total length of 104 cm (excluding packaging), making it perfect for cosplay, decoration, or collectors who love anime replicas. - The World Of Nerds
+  Updated: 2026-04-21T17:29:28Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_ce862df7-86b1-40d3-81ba-923f7f8ce451.jpg?v=1776493340
+  Price: ₹1,999.00 INR
+- [Ichigo Kurosaki Wooden Katana - The World Of Nerds](https://theworldofnerds.com/products/ichigo-kurosaki-wooden-katana): Step into the world of Bleach with this Ichigo Kurosaki Wooden Katana, inspired by the iconic sword of the Soul Reaper. Designed with a sleek black finish, detailed handle, and included display stand, it perfectly captures the anime look. The katana has an approximate total length of 103 cm (excluding packaging), making it ideal for cosplay, display, or collectors who love anime replicas. - The World Of Nerds
+  Updated: 2026-04-26T09:28:10Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_ac38bb21-cdc1-4ee7-a166-d7da1d32a0bb.jpg?v=1776493667
+  Price: ₹1,999.00 INR
+- [Ichigo Kurosaki Wooden Katana Square Handle – Bleach Anime Sword - The World Of Nerds](https://theworldofnerds.com/products/ichigo-kurosaki-wooden-katana-square-handle-bleach-anime-sword): Upgrade your anime collection with this premium wooden katana inspired by iconic characters. Designed with attention to detail, this katana features a sleek blade finish and a comfortable grip, making it perfect for fans, collectors, and cosplay enthusiasts. Crafted from durable wood, it offers a lightweight yet sturdy build that ensures long-lasting use. Whether you’re decorating your room, enhancing your cosplay look, or gifting a fellow anime fan, this katana delivers both style and authenticity. ⚡ A must-have addition for every anime lover’s collection. - The World Of Nerds
+  Updated: 2026-04-26T04:46:09Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_b4f4b6ad-b3cd-4c37-bd78-d11d436bee81.jpg?v=1776494117
+  Price: ₹1,999.00 INR
+- [Sasuke Wooden Katana Black – Naruto Anime Sword - The World Of Nerds](https://theworldofnerds.com/products/sasuke-wooden-katana-black-naruto-anime-sword): Upgrade your anime collection with this premium wooden katana inspired by iconic characters. Designed with attention to detail, this katana features a sleek blade finish and a comfortable grip, making it perfect for fans, collectors, and cosplay enthusiasts. Crafted from durable wood, it offers a lightweight yet sturdy build that ensures long-lasting use. Whether you’re decorating your room, enhancing your cosplay look, or gifting a fellow anime fan, this katana delivers both style and authenticity. ⚡ A must-have addition for every anime lover’s collection. - The World Of Nerds
+  Updated: 2026-04-21T17:29:36Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_2ee6319b-6dc3-43b1-a68c-11db998183c6.jpg?v=1776494205
+  Price: ₹1,999.00 INR
+- [Zoro White Wado Ichimonji Wooden Katana – One Piece Anime Sword - The World Of Nerds](https://theworldofnerds.com/products/zoro-white-wado-ichimonji-wooden-katana-one-piece-anime-sword): Upgrade your anime collection with this premium wooden katana inspired by iconic characters. Designed with attention to detail, this katana features a sleek blade finish and a comfortable grip, making it perfect for fans, collectors, and cosplay enthusiasts. Crafted from durable wood, it offers a lightweight yet sturdy build that ensures long-lasting use. Whether you’re decorating your room, enhancing your cosplay look, or gifting a fellow anime fan, this katana delivers both style and authenticity. ⚡ A must-have addition for every anime lover’s collection. - The World Of Nerds
+  Updated: 2026-04-27T18:30:05Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_fff34c28-d649-4352-92c8-125c934e2da1.jpg?v=1776494307
+  Price: ₹1,999.00 INR
+- [Zoro Red Sandai Kitetsu Wooden Katana – One Piece Anime Sword - The World Of Nerds](https://theworldofnerds.com/products/zoro-red-sandai-kitetsu-wooden-katana-one-piece-anime-sword): Upgrade your anime collection with this premium wooden katana inspired by iconic characters. Designed with attention to detail, this katana features a sleek blade finish and a comfortable grip, making it perfect for fans, collectors, and cosplay enthusiasts. Crafted from durable wood, it offers a lightweight yet sturdy build that ensures long-lasting use. Whether you’re decorating your room, enhancing your cosplay look, or gifting a fellow anime fan, this katana delivers both style and authenticity. ⚡ A must-have addition for every anime lover’s collection. - The World Of Nerds
+  Updated: 2026-04-28T04:00:57Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_8f3fa8fc-a289-4420-ab65-adad8aa6cbb1.jpg?v=1776494486
+  Price: ₹1,999.00 INR
+- [Sanemi Shinazugawa Nichirin Wooden Katana – Demon Slayer Anime Sword - The World Of Nerds](https://theworldofnerds.com/products/sanemi-shinazugawa-nichirin-wooden-katana-demon-slayer-anime-sword): Upgrade your anime collection with this premium wooden katana inspired by iconic characters. Designed with attention to detail, this katana features a sleek blade finish and a comfortable grip, making it perfect for fans, collectors, and cosplay enthusiasts. Crafted from durable wood, it offers a lightweight yet sturdy build that ensures long-lasting use. Whether you’re decorating your room, enhancing your cosplay look, or gifting a fellow anime fan, this katana delivers both style and authenticity. ⚡ A must-have addition for every anime lover’s collection. - The World Of Nerds
+  Updated: 2026-04-22T08:00:40Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_afb77cc3-a48d-47b0-b1ba-73bd176f419c.jpg?v=1776494624
+  Price: ₹1,999.00 INR
+- [Trafalgar D. Law White Wooden Katana – One Piece Anime Sword - The World Of Nerds](https://theworldofnerds.com/products/trafalgar-d-law-white-wooden-katana-one-piece-anime-sword): Upgrade your anime collection with this premium wooden katana inspired by iconic characters. Designed with attention to detail, this katana features a sleek blade finish and a comfortable grip, making it perfect for fans, collectors, and cosplay enthusiasts. Crafted from durable wood, it offers a lightweight yet sturdy build that ensures long-lasting use. Whether you’re decorating your room, enhancing your cosplay look, or gifting a fellow anime fan, this katana delivers both style and authenticity. ⚡ A must-have addition for every anime lover’s collection. - The World Of Nerds
+  Updated: 2026-04-21T17:29:40Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_a1ce26dc-0576-4c97-b57c-760795173cc0.jpg?v=1776494751
+  Price: ₹1,999.00 INR
+- [Nidai Kitetsu Monkey D. Luffy Wooden Katana – One Piece Anime Sword - The World Of Nerds](https://theworldofnerds.com/products/nidai-kitetsu-monkey-d-luffy-wooden-katana-one-piece-anime-sword): Upgrade your anime collection with this premium wooden katana inspired by iconic characters. Designed with attention to detail, this katana features a sleek blade finish and a comfortable grip, making it perfect for fans, collectors, and cosplay enthusiasts. Crafted from durable wood, it offers a lightweight yet sturdy build that ensures long-lasting use. Whether you’re decorating your room, enhancing your cosplay look, or gifting a fellow anime fan, this katana delivers both style and authenticity. ⚡ A must-have addition for every anime lover’s collection. - The World Of Nerds
+  Updated: 2026-04-21T17:29:42Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_9c41280e-bcc4-4fac-802d-17c916749ffa.jpg?v=1776494872
+  Price: ₹1,999.00 INR
+- [Muichiro Tokito Wooden Katana – Demon Slayer Anime Sword - The World Of Nerds](https://theworldofnerds.com/products/muichiro-tokito-wooden-katana-demon-slayer-anime-sword): Upgrade your anime collection with this premium wooden katana inspired by iconic characters. Designed with attention to detail, this katana features a sleek blade finish and a comfortable grip, making it perfect for fans, collectors, and cosplay enthusiasts. Crafted from durable wood, it offers a lightweight yet sturdy build that ensures long-lasting use. Whether you’re decorating your room, enhancing your cosplay look, or gifting a fellow anime fan, this katana delivers both style and authenticity. ⚡ A must-have addition for every anime lover’s collection. - The World Of Nerds
+  Updated: 2026-04-21T17:29:43Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_2a70bd02-7cfb-419b-9564-8883961ddf01.jpg?v=1776495070
+  Price: ₹1,999.00 INR
+- [Tengen Uzui Nichirin Wooden Katana – Demon Slayer Anime Sword - The World Of Nerds](https://theworldofnerds.com/products/tengen-uzui-nichirin-wooden-katana-demon-slayer-anime-sword): Upgrade your anime collection with this premium wooden katana inspired by iconic characters. Designed with attention to detail, this katana features a sleek blade finish and a comfortable grip, making it perfect for fans, collectors, and cosplay enthusiasts. Crafted from durable wood, it offers a lightweight yet sturdy build that ensures long-lasting use. Whether you’re decorating your room, enhancing your cosplay look, or gifting a fellow anime fan, this katana delivers both style and authenticity. ⚡ A must-have addition for every anime lover’s collection. - The World Of Nerds
+  Updated: 2026-04-21T17:29:43Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_b32b6d79-11df-4822-ac85-f9121faf9295.jpg?v=1776495167
+  Price: ₹1,999.00 INR
+- [F1 2026 Race Track Wall Art – Formula 1 Circuit Display - The World Of Nerds](https://theworldofnerds.com/products/f1-2026-race-track-wall-art-formula-1-circuit-display): Elevate your space with this F1 2026 Race Track Wall Art, featuring detailed outlines of iconic Formula 1 circuits from around the world. Designed with a bold black base and striking red track layouts, it highlights all major race locations and dates, making it perfect for motorsport enthusiasts. This is a premium wall decor piece (not a poster and without frame), crafted for a clean and modern look. Ideal for home decor, gaming setups, offices, or garages, it’s a must-have collectible and a great gift for Formula 1 fans who love racing and speed. - The World Of Nerds
+  Updated: 2026-04-21T20:46:50Z
+  Vendor: The World Of Nerds
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/7599/4704/files/1_3_24def98e-e4b5-4b29-9525-e7a2c66a433f.jpg?v=1776688595
+  Price: ₹1,499.00 INR
 
 ## Collections
 
 - [Bobblehead Collectibles: Unique Figurines for Enthusiasts Online Store](https://theworldofnerds.com/collections/bobblehead-collectibles): Discover our exclusive bobblehead collectibles, featuring unique figurines that delight enthusiasts. Perfect for gifts or personal collections. Shop now and elevate your display!
-  Updated: 2026-04-03T11:17:47Z
-  Total Products: 43
+  Updated: 2026-04-20T05:09:39Z
+  Total Products: 41
 - [TOMICA](https://theworldofnerds.com/collections/tomica): Explore the world of Tomica diecast cars, where exceptional quality meets unmatched detail! Tomica has been a trusted name in miniature vehicles for decades, offering a wide range of cars, trucks, and vehicles from both real-world and fictional worlds. Each model is crafted with precision, featuring intricate designs, vibrant colors, and realistic features that make them perfect for collectors and enthusiasts. Whether you're a fan of classic cars, emergency vehicles, or unique transportation models, Tomica offers a collection that will add excitement and authenticity to your diecast car display.
   Updated: 2026-04-12T11:16:22Z
   Total Products: 20
@@ -16249,26 +16319,26 @@
   Updated: 2026-02-02T05:33:39Z
   Total Products: 16
 - [FUNKO POP](https://theworldofnerds.com/collections/funko): Funko Pop! collectibles are vibrant, stylized vinyl figures that capture characters from various franchises, including movies, TV shows, comics, video games, and more. Each figure features a distinctive oversized head and a small, simplistic body, making them instantly recognizable and highly collectible. With thousands of different characters released over the years, Funko Pop! figures are celebrated for their quirky charm and attention to detail, allowing fans to bring their favorite characters to life in a fun and visually appealing way. Whether a casual fan or a dedicated collector, Funko Pop! figures offer a delightful way to showcase your passion for pop culture.
-  Updated: 2026-02-09T06:42:25Z
-  Total Products: 30
+  Updated: 2026-04-20T05:06:45Z
+  Total Products: 27
 - [HOTWHEELS PREMIUM](https://theworldofnerds.com/collections/hotwheels-premium): Rev up your nostalgia with Hot Wheels Premium Pop Culture cars! This exclusive collection features meticulously crafted die-cast vehicles that celebrate iconic moments from movies, TV shows, and music. Each car is adorned with vibrant, high-quality graphics and unique detailing that pays homage to beloved pop culture classics. From legendary films to timeless television series, these cars are not just toys—they're collector's items that capture the essence of your favorite stories. With a focus on realism and artistry, Hot Wheels Premium Pop Culture cars make the perfect addition to any collection, inviting fans of all ages to relive the magic of the moments that shaped their childhoods.
-  Updated: 2026-04-04T11:16:22Z
+  Updated: 2026-04-28T11:17:41Z
   Total Products: 24
 - [HOTWHEELS MAINLINE](https://theworldofnerds.com/collections/hotwheels-mainline): Unleash the thrill of racing with Hot Wheels cars, the ultimate choice for car enthusiasts and collectors alike! Each die-cast vehicle is expertly designed with vibrant colors, intricate details, and a variety of styles—from classic muscle cars to futuristic speedsters. With their iconic wheels and impressive designs, Hot Wheels cars are perfect for racing on tracks or displaying in your collection. Whether you’re a young racer or a seasoned collector, Hot Wheels brings the excitement of the open road to life, inspiring imagination and adventure with every turn. Get ready to speed into action with these legendary toys!
-  Updated: 2026-04-12T11:16:22Z
+  Updated: 2026-04-28T11:17:41Z
   Total Products: 103
 - [KIDS CAMERA](https://theworldofnerds.com/collections/kids-camera): A kids’ camera toy is like giving your little one their very own way to capture the world! Made with bright colors and soft, durable materials, these cameras are super easy for small hands to use. They let kids snap photos, shoot videos, and sometimes even play fun games all while letting them feel like a little photographer. Some even come with cool filters and cute accessories, so they can get creative with their shots. It’s the perfect way to spark their imagination and let them see the world in a whole new way, all while having a blast!
   Updated: 2026-02-02T07:56:55Z
   Total Products: 5
 - [MAJORETTE](https://theworldofnerds.com/collections/majorette): Explore the vibrant world of Majorette cars! Our high-quality die-cast vehicles feature realistic designs and durable construction, perfect for imaginative play and display. From sleek sports cars to essential emergency vehicles, Majorette offers a diverse collection that captivates automotive enthusiasts of all ages. Ideal for gifts or as a collectible, Majorette cars are sure to spark joy and creativity.
-  Updated: 2026-04-15T11:16:14Z
+  Updated: 2026-04-28T11:17:41Z
   Total Products: 196
 - [KEYCHAINS](https://theworldofnerds.com/collections/keychains): Add a touch of personality to your keys with our vibrant character keychains! These keychains are made from high-quality, durable material and feature various adorable designs that cater to all ages. Our keychains are lightweight and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, shop now and elevate your key collection game.
-  Updated: 2026-04-09T11:18:26Z
-  Total Products: 281
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 277
 - [Q Poskets](https://theworldofnerds.com/collections/q-poskets): Bring your favorite characters to life with Q Poskets! These adorable, highly detailed figures capture the charm and personality of iconic anime and manga characters in a unique, stylized form. Known for their cute, wide-eyed expressions and vibrant colors, Q Poskets are perfect for collectors and fans alike. Each figure is carefully crafted with attention to detail, making them a must-have addition to any collection. Whether you're a fan of classic anime or the latest releases, Q Poskets are the perfect way to display your love for your favorite characters!
-  Updated: 2026-04-10T11:17:04Z
-  Total Products: 38
+  Updated: 2026-04-20T05:09:37Z
+  Total Products: 36
 - [POCKET WATCH](https://theworldofnerds.com/collections/pocket-watch): Discover timeless elegance with our collection of pocket watch keychains, where classic style meets modern convenience. These sophisticated keychains combine the charm of vintage pocket watches with the practicality of a keychain, making them a unique accessory for any occasion. Whether you’re looking to add a touch of elegance to your outfit or seeking a memorable gift, our pocket watch keychains are crafted with intricate details and durable materials. Carry a piece of history with you, while keeping your keys organized in style. Perfect for collectors, fashion enthusiasts, or anyone who appreciates timeless accessories.
   Updated: 2026-02-03T06:18:39Z
   Total Products: 7
@@ -16279,10 +16349,10 @@
   Updated: 2026-02-07T12:14:50Z
   Total Products: 4
 - [KATANA PEN](https://theworldofnerds.com/collections/katana-pen): Add a touch of elegance and strength to your desk with our Katana Pens! Inspired by the legendary Japanese sword, these pens combine the artistry of traditional craftsmanship with modern functionality. Designed with intricate details resembling a katana’s hilt and blade, each pen offers smooth writing while making a bold statement. Whether you're a collector, a fan of unique stationery, or just looking for a conversation starter, the Katana Pen is a must-have accessory. Unleash your creativity and write with the precision and style of a true warrior!
-  Updated: 2026-04-15T12:14:07Z
-  Total Products: 24
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 14
 - [HOTWHEELS ULTRA HOTS](https://theworldofnerds.com/collections/hotwheels-ultra-hots): Rev up your collection with Hot Wheels Ultra Hots! Known for their sleek designs and high-performance wheels, Ultra Hots are built for speed and style. These cars feature eye-catching graphics, bold colors, and ultra-detailed designs, making them a standout addition to any Hot Wheels collection. With enhanced wheels for smoother, faster races, the Ultra Hots series delivers an exciting experience whether you're displaying them on your shelf or racing them on the track. Perfect for collectors and racing fans, these cars bring the ultimate Hot Wheels thrill to your collection!
-  Updated: 2026-02-03T09:44:50Z
+  Updated: 2026-04-28T11:17:41Z
   Total Products: 11
 - [SOLIDO 1:43](https://theworldofnerds.com/collections/solido): Immerse yourself in the world of finely crafted automotive models with Solido 1:43 Scale Models. Known for their exceptional attention to detail, these diecast models are a perfect blend of precision and style. With a wide variety of cars, trucks, and classic vehicles, each 1:43 scale model is designed to capture the true essence of real-world automobiles in miniature form. From vintage classics to modern masterpieces, Solido’s 1:43 scale models offer stunning accuracy in every design, making them an essential addition to any collector's display or automotive enthusiast's collection.
   Updated: 2026-02-03T10:28:21Z
@@ -16294,14 +16364,14 @@
   Updated: 2026-02-04T06:07:34Z
   Total Products: 27
 - [ALL KATANA](https://theworldofnerds.com/collections/all-katana): A katana toy is like holding a piece of samurai history in your hands! While it's not meant for real combat, these miniature swords are crafted with amazing detail to look just like the real thing. Made from materials like plastic or metal, they usually come with cool features like intricate designs on the hilt and faux blades that shine just like a real katana. Whether you’re into cosplay, love samurai culture, or just think they look awesome, katana toys let you connect with that history and bring a touch of elegance and coolness to your collection or playtime. Perfect for displaying or pretending you’re a legendary warrior!
-  Updated: 2026-04-12T11:16:22Z
-  Total Products: 45
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 25
 - [NEON KATANA](https://theworldofnerds.com/collections/neon-katana): Illuminate your collection with our striking Neon Katanas! Combining the traditional elegance of the katana with vibrant, glowing neon colors, these swords are perfect for those who appreciate both art and style. Designed with LED lights that shine brightly in the dark, these neon katanas make an eye-catching display piece or a fun prop for cosplay and themed events. Whether you’re a collector, a fan of futuristic design, or looking for a unique addition to your decor, our neon katanas bring bold, dynamic energy to any space.
-  Updated: 2026-03-27T11:17:58Z
+  Updated: 2026-04-24T11:17:46Z
   Total Products: 5
 - [WOODEN KATANA](https://theworldofnerds.com/collections/wooden-katana): Unleash the spirit of the samurai with our beautifully crafted Wooden Katanas. Each katana is meticulously made from high-quality wood, designed to resemble the iconic Japanese sword in both style and detail. Perfect for collectors, martial arts enthusiasts, or anyone looking to add a touch of traditional elegance to their space, these wooden katanas offer a safe and striking display piece. Whether you're training, decorating your home, or showcasing your love for Japanese culture, our wooden katanas bring timeless craftsmanship to life.
-  Updated: 2026-04-12T11:16:22Z
-  Total Products: 32
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 24
 - [MAISTO BIKE SCALE 1:12](https://theworldofnerds.com/collections/diecast-bikes-2): Bring precision and craftsmanship to your collection with Maisto 1:12 Scale Bikes! Renowned for their attention to detail, these 1:12 scale models offer an impressive representation of iconic motorcycles in miniature form. Each diecast bike features intricate design elements, from realistic engine details to movable parts, capturing the essence of real-world motorcycles. Perfect for collectors and enthusiasts, these Maisto bikes are crafted with durable materials and vibrant finishes, making them ideal for display or as a thoughtful gift. Add a Maisto 1:12 scale bike to your collection and experience the thrill of motorcycling in miniature!
   Updated: 2026-02-05T12:33:33Z
   Total Products: 4
@@ -16309,28 +16379,28 @@
   Updated: 2026-02-04T06:39:44Z
   Total Products: 3
 - [MAISTO DIECAST BIKE'S](https://theworldofnerds.com/collections/maisto-diecast-bikes): Discover the thrilling world of motorcycles with Maisto Diecast Bikes! These meticulously crafted models capture the essence of iconic bikes with incredible attention to detail. Whether you’re a fan of sportbikes, cruisers, or choppers, each Maisto diecast bike features realistic designs, from movable parts to intricate engine details, making them perfect for collectors and motorcycle enthusiasts alike. Built with durability and vibrant finishes, these bikes are ideal for display or as a unique gift. Add a Maisto diecast bike to your collection and bring the excitement of the open road into your home!
-  Updated: 2026-04-13T11:16:28Z
+  Updated: 2026-04-26T11:18:31Z
   Total Products: 41
 - [SCALE 1:18](https://theworldofnerds.com/collections/scale-1-18): Gear up with Maisto 1:18 Scale Bikes, where precision and craftsmanship meet in stunning miniature form. These diecast models are designed with incredible attention to detail, from realistic engines to fully functional features like movable wheels and handlebars. Whether you're a motorcycle enthusiast, a collector, or a fan of high-quality miniatures, Maisto’s 1:18 scale bikes are perfect for displaying your passion for two-wheeled machines. With vibrant finishes and intricate designs, these bikes bring the thrill of motorcycling to your collection, making them an ideal addition to any fan’s display.
-  Updated: 2026-04-13T11:16:28Z
+  Updated: 2026-04-26T11:18:31Z
   Total Products: 21
 - [ALL DIECAST CAR'S](https://theworldofnerds.com/collections/diecast-cars): A diecast car toy is a little masterpiece on wheels! Made from metal alloys, these toys are miniature versions of real cars, and they’re built to last. They come with super detailed features like realistic paint jobs, decals, and sometimes even movable parts like doors or wheels. Whether you’re into collecting or just love cars, diecast toys are great for both display and play. They come in different sizes, so you can choose one that fits perfectly on your shelf or in your hands. With their awesome craftsmanship, each car feels like a mini version of the real thing!
-  Updated: 2026-04-15T11:16:14Z
-  Total Products: 655
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 647
 - [ANIME](https://theworldofnerds.com/collections/anime): Anime toys are like little pieces of your favorite shows that you can hold in your hands! Whether it’s a cool action figure, a cute plushie, or a stunning statue, these toys are made with awesome attention to detail, capturing the unique style and personality of beloved characters. They’re perfect for showing off your love for a certain anime or just adding a bit of fun to your space. Each one is made to bring a bit of that anime magic into the real world—whether you want to display them on a shelf, keep them close, or even take them on little adventures! If you’re a fan, these toys let you connect with the anime you love in a whole new way.
-  Updated: 2026-04-15T12:14:07Z
-  Total Products: 156
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 151
 - [MAISTO DIECAST CAR'S](https://theworldofnerds.com/collections/maisto): Get ready to rev up your collection with Maisto Diecast Cars! Known for their exceptional craftsmanship and attention to detail, Maisto diecast cars offer a perfect blend of realism and durability. From sleek sports cars to classic vintage models, each car is carefully crafted with realistic features, intricate designs, and vibrant finishes. Whether you’re a passionate car collector or simply a fan of fine models, Maisto cars are built to impress and are ideal for display, gifting, or adding to your collection. Start your Maisto journey today and experience the ultimate in diecast car excellence!
   Updated: 2026-02-11T12:13:29Z
   Total Products: 14
 - [BBURAGO DIECAST CAR'S](https://theworldofnerds.com/collections/bburago): Step into the world of high-quality craftsmanship with BBURAGO Diecast Cars! Known for their attention to detail and authentic designs, BBURAGO offers a wide range of diecast cars, from classic vintage models to the latest sports cars. Each model is expertly crafted with precision, featuring realistic finishes, detailed interiors, and movable parts, making them perfect for collectors and car enthusiasts alike. Whether you're displaying them on your shelf or racing them on your track, BBURAGO’s diecast cars are built to impress with their stunning design and durability.
-  Updated: 2026-04-12T11:16:22Z
+  Updated: 2026-04-17T11:17:46Z
   Total Products: 64
 - [BBURAGO CAR SCLAE 1:18](https://theworldofnerds.com/collections/sclae-1-18): Take your collection to the next level with BBURAGO 1:18 Scale Cars! These larger-than-life diecast models are crafted with impeccable attention to detail, offering a stunning representation of both classic and modern vehicles. From fully functional doors and hoods to intricate interiors, each model is designed to showcase the finest automotive features in a 1:18 scale. Perfect for serious collectors, car enthusiasts, or anyone who appreciates high-quality craftsmanship, BBURAGO’s 1:18 scale cars deliver both style and realism in every piece.
   Updated: 2026-04-06T11:10:38Z
   Total Products: 3
 - [BBURAGO CAR SCALE 1:24](https://theworldofnerds.com/collections/car-scale-1-24): Experience the thrill of automotive perfection with BBURAGO 1:24 Scale Cars! These meticulously crafted diecast models offer an exceptional level of detail, capturing the essence of both classic and modern vehicles. With functional features like opening doors, hoods, and trunks, as well as stunning paint finishes, BBURAGO's 1:24 scale cars are designed to impress. Perfect for collectors and car enthusiasts, these models are ideal for display or as a thoughtful gift. Whether you're adding to your collection or showcasing your passion for cars, BBURAGO’s 1:24 scale models are a must-have for any fan!
-  Updated: 2026-03-17T11:15:16Z
+  Updated: 2026-04-17T11:17:46Z
   Total Products: 37
 - [MAISTO CAR SCALE 1:25](https://theworldofnerds.com/collections/car-scale-1-25): Add a touch of automotive excellence to your collection with Maisto 1:25 Scale Cars! These beautifully detailed diecast models are crafted to showcase the precision and style of real-world vehicles in a slightly smaller 1:25 scale. With intricate designs, realistic finishes, and carefully recreated features, each car in this collection offers a true-to-life representation of both classic and modern vehicles. Whether you're a car enthusiast, a collector, or looking for the perfect gift, Maisto’s 1:25 scale cars are a must-have addition to any diecast collection!
   Updated: 2026-02-11T12:13:29Z
@@ -16348,43 +16418,43 @@
   Updated: 2026-04-12T11:16:22Z
   Total Products: 24
 - [RMZ CITY](https://theworldofnerds.com/collections/rmz-city): Explore the world of detailed diecast models with RMZ City! Known for their exceptional quality and precision, RMZ City offers a wide range of miniature vehicles, from sleek sports cars to classic trucks and everyday vehicles. Each model is designed with intricate details, including realistic paint finishes, moving parts, and high-quality construction. Perfect for collectors, enthusiasts, or anyone who loves finely crafted vehicles, RMZ City brings the excitement of the automotive world to your shelves. Add a touch of realism and style to your collection with these impressive diecast models.
-  Updated: 2026-04-12T11:16:22Z
-  Total Products: 78
+  Updated: 2026-04-23T11:18:48Z
+  Total Products: 77
 - [BANPRESTO](https://theworldofnerds.com/collections/bandpresto): Explore the world of Banpresto, a renowned brand known for its high-quality, collectible figures inspired by your favorite anime, video games, and pop culture icons. Whether you’re a passionate anime fan or a dedicated collector, Banpresto figures offer exceptional detail and craftsmanship that bring beloved characters to life. From stunning action figures to adorable chibi-style collectibles, each piece is designed to capture the essence of the characters you love. Add a touch of anime and gaming culture to your space with Banpresto's vibrant and dynamic figures that are perfect for display or gifting.
-  Updated: 2026-02-09T06:44:34Z
-  Total Products: 120
+  Updated: 2026-04-20T05:09:30Z
+  Total Products: 108
 - [BLOCKS](https://theworldofnerds.com/collections/blocks): Decool, Jisi Bricks, and other building blocks are all about letting your creativity run wild while learning through play. These high-quality, interlocking blocks are compatible with popular brands like Lego, so you can mix and match to create whatever you imagine. Decool is great for its detailed themed sets, while Jisi Bricks focus on education and durability, made to last through countless builds. Plus, many of these sets have pullback options, adding an extra layer of fun as your creations zoom around. Whether you're a kid or an , these blocks are perfect for sparking creativity, improving problem-solving skills, and just having a good time.
   Updated: 2026-03-19T11:16:46Z
   Total Products: 38
 - [ALL ACTION FIGURES](https://theworldofnerds.com/collections/action-figures): Action figures are more than just toys—they’re a chance to bring your favorite characters to life. With their detailed designs, movable joints, and cool accessories, these figures let you recreate epic moments or imagine your own adventures. Whether it’s superheroes, villains, or characters from your favorite shows, each figure captures the essence of who they are, making them fun to play with or display. For kids, they’re a tool for creativity and storytelling, and for collectors, they’re a way to hold onto a piece of the worlds we love. Simply put, action figures make playtime and display a lot more exciting!
-  Updated: 2026-04-12T11:16:22Z
-  Total Products: 285
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 283
 - [RC](https://theworldofnerds.com/collections/rc): Remote control toys are an awesome way to have some fun and let your imagination run wild. Whether it’s racing cars, flying drones, or even controlling a little robot, these toys let you take charge of the action. They’re not just for kids—adults love them too! You can race around, do tricks, or just enjoy the thrill of controlling something with a simple push of a button. Plus, they’re a great way to practice coordination and problem-solving. With so many cool options out there, there’s a remote control toy for pretty much anyone and any interest.
-  Updated: 2026-02-20T05:27:07Z
+  Updated: 2026-04-18T11:21:57Z
   Total Products: 25
 - [KARAOKE SPEAKERS](https://theworldofnerds.com/collections/karaoke-speakers): Turn any space into the ultimate karaoke party with our high-quality karaoke speakers! Designed for crystal-clear sound and powerful performance, these speakers make your singing experience unforgettable. Whether you're hosting a family gathering, a party, or just practicing your favorite hits, our karaoke speakers deliver rich audio, adjustable settings, and Bluetooth connectivity for easy pairing. With built-in microphones, vibrant lighting effects, and portable designs, they’re perfect for taking your karaoke sessions wherever you go. Get ready to sing your heart out and enjoy endless fun with our top-rated karaoke speakers!
   Updated: 2025-08-12T11:12:51Z
   Total Products: 3
 - [ALL KEYCHAIN](https://theworldofnerds.com/collections/all-keychain): Unlock your style with our collection of unique and customizable keychains! Whether you’re looking for fun, quirky designs or sleek, minimalist accessories, we have keychains to suit every personality. Perfect for holding your keys, adding a touch of charm to your bags, or giving as thoughtful gifts, our keychains are as functional as they are fashionable. Browse through our wide selection and find the perfect keychain to express your style!
-  Updated: 2026-04-09T11:18:26Z
-  Total Products: 454
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 447
 - [CARTOON KEYCHAINS](https://theworldofnerds.com/collections/cartoon-keychains): Add some fun and personality to your keys with our vibrant collection of cartoon keychains! Featuring your favorite animated characters, these keychains are the perfect way to showcase your love for beloved cartoons. Made with high-quality materials and colorful designs, each keychain is a delightful accessory that will brighten up your day. Whether you're a fan of classic cartoons, modern favorites, or quirky characters, our collection has something for everyone. Ideal for gifting, collecting, or adding a playful touch to your everyday essentials, these cartoon keychains are sure to bring a smile wherever you go!
-  Updated: 2026-04-09T07:16:28Z
-  Total Products: 122
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 119
 - [DC & MARVEL KEYCHAINS](https://theworldofnerds.com/collections/dc-marvel-keychains): Show off your superhero pride with our epic collection of DC and Marvel keychains! Featuring your favorite characters from both iconic universes, these keychains are perfect for fans of all ages. Whether you're team Batman, Wonder Woman, Spider-Man, or Iron Man, our keychains bring your beloved heroes and villains to life in vibrant, durable designs. Made with high-quality materials, these keychains are not just functional, but a stylish way to express your fandom. Add a heroic touch to your everyday essentials or give the perfect gift to a fellow superhero enthusiast!
-  Updated: 2026-03-30T11:15:03Z
+  Updated: 2026-04-26T11:18:31Z
   Total Products: 34
 - [ANIME KEYCHAIN](https://theworldofnerds.com/collections/anime-keychain): Show your love for anime with our exclusive collection of Anime Keychains! Featuring your favorite characters from popular anime series, these keychains are the perfect way to carry a piece of your fandom wherever you go. Made with vibrant colors and high-quality materials, each keychain is designed to showcase the iconic heroes, villains, and moments that make anime so unforgettable. Whether you’re looking to add some personality to your bag, keys, or accessories, our anime keychains are the perfect way to express your passion for the world of anime!
-  Updated: 2026-04-09T11:18:26Z
-  Total Products: 274
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 272
 - [SPORTS KEYCHAIN](https://theworldofnerds.com/collections/sports-keychain): Show off your love for sports with our collection of Sports Keychains! Whether you're a fan of football, basketball, soccer, or any other sport, these keychains are the perfect way to carry a symbol of your favorite game with you. Crafted with attention to detail and durable materials, each keychain features iconic sports equipment, team logos, or action-packed designs that will make a bold statement. Perfect for athletes, fans, or anyone who loves the thrill of the game, these sports keychains are a great addition to your everyday essentials or make an ideal gift for the sports enthusiast in your life.
-  Updated: 2026-03-19T11:16:46Z
+  Updated: 2026-04-25T11:18:06Z
   Total Products: 7
 - [ALL DIECAST BIKES](https://theworldofnerds.com/collections/diecast-bikes): Rev up your collection with our detailed Diecast Bikes! These miniature replicas are crafted with precision and attention to detail, capturing the sleek design and power of iconic motorcycles. From classic cruisers to modern superbikes, each diecast bike is built to impress with high-quality materials and realistic features. Whether you're a motorcycle enthusiast or a collector, these diecast bikes are perfect for displaying your love for two-wheelers. Start your collection today and bring home the perfect addition to your garage or display shelf!
-  Updated: 2026-04-13T11:16:28Z
+  Updated: 2026-04-26T11:18:31Z
   Total Products: 57
 - [ACCESSORIES](https://theworldofnerds.com/collections/accessories): Unleash your ninja spirit with our collection of Naruto Rings! Inspired by the iconic symbols and characters from the world of Naruto, these rings are the perfect way to showcase your love for the series. Crafted with intricate details, each ring represents elements from the Hidden Villages, clans, and powerful shinobi, making them a must-have for any true fan. Whether you’re looking for a symbol of the Sharingan, the Akatsuki cloud, or the Leaf Village, our Naruto rings combine style and fandom, letting you carry a piece of the ninja world wherever you go.
-  Updated: 2026-02-15T12:12:52Z
+  Updated: 2026-04-22T11:16:53Z
   Total Products: 3
 - [MINI PRINTER](https://theworldofnerds.com/collections/mini-printer): Print on the go with our versatile and compact mini printers! Perfect for capturing memories, organizing tasks, or creating custom designs, these portable printers bring convenience and creativity to your fingertips. Whether you're printing photos, notes, labels, or stickers, our mini printers offer high-quality prints in a sleek, easy-to-carry design. Ideal for students, crafters, or anyone looking to add a personal touch to their projects, these mini printers are your perfect companion for on-the-spot printing. Compact, functional, and stylish—take your printing anywhere!
   Updated: 2026-02-11T09:32:01Z
@@ -16393,17 +16463,17 @@
   Updated: 2026-02-10T05:44:47Z
   Total Products: 4
 - [ALL HOT WHEELS](https://theworldofnerds.com/collections/all-hot-wheels-1): Rev up your collection with our exciting selection of Hot Wheels cars and accessories! From classic die-cast vehicles to exclusive limited-edition models, our collection brings the thrill of high-speed racing and vibrant designs right to your fingertips. Perfect for collectors and kids alike, each Hot Wheels car is crafted with intricate details and built for fast fun. Explore our range of iconic cars, customizable tracks, and themed sets, and race into action with the ultimate Hot Wheels experience. Fasten your seatbelt and let the adventures begin.
-  Updated: 2026-04-12T11:16:22Z
-  Total Products: 220
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 213
 - [SHOP BY MERCHANDISE](https://theworldofnerds.com/collections/anime-action-figures): Explore our exclusive collection of nerd-inspired merchandise, carefully curated for fans of all things geeky! Whether you're into gaming, comics, anime, or pop culture, we have something special for you. Browse through categories like apparel, collectibles, accessories, and home decor to find the perfect addition to your collection. Level up your fandom with high-quality products designed for true enthusiasts. Start shopping now and bring your favorite worlds to life!
-  Updated: 2026-04-12T11:16:22Z
-  Total Products: 580
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 571
 - [MAISTO BIKE SCALE 1:6](https://theworldofnerds.com/collections/maisto-scale-1-6): Step up your collection with the impressive Maisto 1:6 Scale Bikes! Known for their exceptional attention to detail and craftsmanship, Maisto offers highly realistic, fully-functional diecast models that are perfect for motorcycle enthusiasts and collectors. With a scale of 1:6, these bikes are larger and packed with intricate features like movable parts, detailed engines, and authentic finishes. From sportbikes to choppers, Maisto’s 1:6 scale bikes are the ultimate way to showcase your love for motorcycles. Whether displayed on a shelf or added to your collection, these models are built to impress.
   Updated: 2026-02-05T10:58:13Z
   Total Products: 1
 - [HOT WHEELS COMBO](https://theworldofnerds.com/collections/hot-wheels-combo): Double the fun with our Hot Wheels Combo of 2 Cars! This dynamic set features two iconic Hot Wheels cars, each with vibrant designs and intricate details that make them perfect for collectors and racing enthusiasts alike. Whether you're looking to add variety to your collection or challenge your friends to an epic race, these cars are built for speed and style. Each combo set includes carefully selected models, offering an exciting way to experience the thrill of Hot Wheels in a compact and collectible format. Grab your set today and let the racing begin!
-  Updated: 2026-02-20T05:30:40Z
-  Total Products: 9
+  Updated: 2026-04-20T05:09:34Z
+  Total Products: 2
 - [F1 RACING BBURAGO](https://theworldofnerds.com/collections/f1-racing-bburago): Experience the thrill of Formula 1 with the F1 Racing Bburago Model, crafted with precision and attention to detail. This die-cast model captures the speed, power, and elegance of real F1 racing cars with its realistic design, aerodynamic curves, and official team logos. Made from high-quality die-cast metal, it features rolling wheels and a sleek paint finish for a lifelike appearance. Perfect for enthusiasts, collectors, or as a premium gift, the Bburago model embodies unmatched craftsmanship and automotive history. Order now and bring home the excitement of the racetrack!
   Updated: 2026-04-12T11:16:22Z
   Total Products: 24
@@ -16411,23 +16481,23 @@
   Updated: 2026-02-20T09:28:18Z
   Total Products: 8
 - [JURASSIC WORLD](https://theworldofnerds.com/collections/jurassic-world): "Step into the prehistoric adventure of Jurassic World with our latest collectibles! From realistic dinosaur figures and Funko Pop! collectibles to keychains and must-have memorabilia, relive the excitement of the epic franchise. Whether you're a fan of T-Rex, Blue the Velociraptor, or the Indominus Rex, these high-quality items bring the awe and danger of Jurassic World to life. Perfect for collectors, movie buffs, and dinosaur lovers—add these prehistoric beasts to your collection today!" 🦖🔥🌿
-  Updated: 2026-02-21T05:39:24Z
+  Updated: 2026-04-17T11:17:46Z
   Total Products: 74
 - [COLLECTABLES & FIGURES](https://theworldofnerds.com/collections/collectables-figures): "Expand your collection with our latest collectibles & figures! From highly detailed action figures and statues to limited-edition Funko Pop! collectibles, keychains, and more, we have something for every fan. Whether you're into anime, superheroes, gaming, or movie icons, these premium-quality pieces bring your favorite characters to life. Perfect for display, gifting, or adding to your ever-growing collection—grab yours before they’re gone!" 🎮🔥🧩
-  Updated: 2026-04-15T11:16:14Z
-  Total Products: 625
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 621
 - [ANIME & POP CULTURE](https://theworldofnerds.com/collections/anime-pop-culture): "Level up your collection with our latest anime and pop culture arrivals! From highly detailed action figures and adorable Funko Pop! collectibles to stylish keychains, posters, and apparel, we have everything a true fan needs. Whether you're looking to decorate your space, accessorize your style, or expand your collection with exclusive finds, these must-have items bring your favorite characters to life. Don't miss out—shop now and celebrate your fandom in the best way possible!" 🚀🔥
-  Updated: 2026-04-12T11:16:22Z
-  Total Products: 382
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 367
 - [TOYS & EXPLORERS FAVOURITES](https://theworldofnerds.com/collections/toys-explorers-favourites): "Unleash the fun with our Toys & Explorers' Favorites collection! From action-packed figures and interactive playsets to educational toys and adventure-ready collectibles, there’s something for every young explorer and collector. Whether you're into superheroes, anime, fantasy worlds, or hands-on discovery, our carefully curated selection brings imagination to life. Perfect for kids and the young at heart—shop now and start your next adventure!" 🚀🎮✨
   Updated: 2026-03-19T11:16:46Z
   Total Products: 31
 - [GADGETS & ACCESSORIES](https://theworldofnerds.com/collections/gadgets-accessories): "Upgrade your everyday life with our latest Gadgets & Accessories! From tech-savvy gear and cool collectibles to must-have accessories for gamers, anime lovers, and pop culture fans, we’ve got everything you need to level up your setup. Whether it's LED displays, phone accessories, keychains, or stylish wearables, these unique finds combine functionality with fandom. Shop now and discover the perfect additions to your collection!" ⚡🎧🔥
-  Updated: 2026-02-15T12:12:52Z
+  Updated: 2026-04-22T11:16:53Z
   Total Products: 7
 - [POKEMON  CARD](https://theworldofnerds.com/collections/pokemon--card): "Catch ‘em all with the latest Pokémon  Cards! Whether you're a seasoned trainer or just starting your journey, our collection features booster packs, elite trainer boxes, rare holographic cards, and exclusive collector’s editions. Build powerful decks, trade with friends, and uncover legendary Pokémon to strengthen your collection. Don’t miss your chance to expand your Pokédex—shop now and become a true Pokémon Master!" ⚡🔥🎴
-  Updated: 2026-02-04T06:21:42Z
-  Total Products: 26
+  Updated: 2026-04-27T11:18:11Z
+  Total Products: 25
 - [HOT WHEELS SET OF 5](https://theworldofnerds.com/collections/hot-wheels-set-of-5): Unleash the thrill of speed and style with the Hot Wheels Set of 5, a carefully curated collection of high-performance diecast cars designed for collectors, racers, and dreamers alike. Each car in this set boasts striking designs, precision detailing, and signature smooth-rolling wheels, making them perfect for high-speed track action or eye-catching display. Whether you're expanding your collection, setting up epic races, or gifting a fellow car enthusiast, this set delivers iconic Hot Wheels energy in every ride.
   Updated: 2026-03-03T12:15:37Z
   Total Products: 5
@@ -16438,31 +16508,31 @@
   Updated: 2026-04-13T11:16:28Z
   Total Products: 9
 - [NARUTO](https://theworldofnerds.com/collections/naruto): Naruto Collection – Unleash Your Ninja Spirit! Step into the world of shinobi with our exclusive Naruto merchandise, featuring epic apparel, high-quality hoodies, t-shirts, accessories, collectible figurines, and iconic headbands inspired by the Hidden Leaf Village. Whether you're a die-hard fan of Naruto Uzumaki, Sasuke Uchiha, or the legendary Hokages, our collection lets you showcase your ninja pride in style. Train like a shinobi and represent your favorite anime with officially inspired Naruto gear. Shop now and awaken your inner ninja!
-  Updated: 2026-04-03T11:17:47Z
-  Total Products: 125
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 124
 - [DEMON SLAYER](https://theworldofnerds.com/collections/demon-slayer): Demon Slayer Collection – Embrace the way of the blade and immerse yourself in the world of Kimetsu no Yaiba with our exclusive Demon Slayer merchandise. Discover high-quality apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic Nichirin sword replicas. Whether you admire Tanjiro’s determination, Nezuko’s resilience, or the fierce Hashira warriors, our collection lets you showcase your love for the series in style. Gear up like a true demon slayer and bring the spirit of the anime to life. Shop now and join the fight against the demons.
-  Updated: 2026-04-12T11:16:22Z
-  Total Products: 67
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 60
 - [ONE PIECE](https://theworldofnerds.com/collections/one-piece): One Piece Collection – Set sail on an epic adventure with our exclusive One Piece merchandise inspired by the world of pirates and the Grand Line. Discover a treasure trove of apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic Straw Hat gear. Whether you admire Luffy’s unbreakable spirit, Zoro’s unmatched swordsmanship, or the bond of the Straw Hat crew, our collection lets you celebrate your love for the legendary anime in style. Join the journey, embrace the pirate life, and find your next treasure. Shop now and become a part of the One Piece world.
-  Updated: 2026-04-09T11:18:26Z
-  Total Products: 145
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 144
 - [DRAGON BALL Z](https://theworldofnerds.com/collections/dragon-ball-z): Dragon Ball Z Collection – Power up your style with our exclusive Dragon Ball Z merchandise inspired by the legendary Saiyan warriors. Explore a dynamic range of apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic items like Dragon Balls and Saiyan armor. Whether you admire Goku’s unstoppable determination, Vegeta’s fierce pride, or the intense battles that shaped the universe, our collection lets you showcase your love for the series. Train like a true warrior, unleash your power, and take your fandom to the next level. Shop now and channel the energy of the Dragon Ball Z universe.
-  Updated: 2026-04-05T11:15:45Z
-  Total Products: 115
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 112
 - [JUJUTSU KAISEN](https://theworldofnerds.com/collections/jujutsu-kaisen): Jujutsu Kaisen Collection – Step into the world of sorcery and cursed energy with our exclusive Jujutsu Kaisen merchandise. Explore a powerful selection of apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic items inspired by Gojo Satoru, Itadori Yuji, Megumi Fushiguro, and other legendary jujutsu sorcerers. Whether you’re drawn to intense battles, powerful domain expansions, or the dark and mysterious world of curses, our collection lets you showcase your love for the series in style. Shop now and embrace the power of Jujutsu Kaisen.
-  Updated: 2026-04-04T11:16:22Z
-  Total Products: 46
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 44
 - [POKEMON](https://theworldofnerds.com/collections/pokemon): Pokemon Collection – Catch ‘em all with our exclusive Pokemon merchandise, perfect for trainers of all ages. Explore a wide range of apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic items featuring Pikachu, Charizard, Eevee, and other beloved Pokemon. Whether you’re a longtime fan or just starting your journey, our collection brings the magic of the Pokemon world to life. Train, battle, and collect your favorites in style. Shop now and become the ultimate Pokemon Master.
-  Updated: 2026-03-19T11:16:46Z
-  Total Products: 65
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 63
 - [DEATH NOTE](https://theworldofnerds.com/collections/death-note): Death Note Collection – Enter the world of mystery and mind games with our exclusive Death Note merchandise. Discover a dark and stylish selection of apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic items inspired by Light Yagami, L, Ryuk, and the legendary Death Note itself. Whether you admire Light’s intellect, L’s detective skills, or the thrilling battle of wits, our collection lets you showcase your love for the series. Shop now and embrace the power of Death Note.
   Updated: 2026-02-17T06:53:07Z
   Total Products: 3
 - [MY HERO ACADEMIA](https://theworldofnerds.com/collections/my-hero-academia): My Hero Academia Collection – Unleash your inner hero with our exclusive My Hero Academia merchandise inspired by the world of quirks and heroism. Explore a dynamic selection of apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic items featuring Deku, Bakugo, Todoroki, All Might, and more. Whether you aspire to be a Pro Hero, admire UA High’s rising stars, or resonate with the League of Villains, our collection lets you showcase your love for the series in style. Shop now and go beyond, plus ultra.
-  Updated: 2026-02-09T06:24:07Z
-  Total Products: 14
+  Updated: 2026-04-20T05:08:10Z
+  Total Products: 9
 - [BLEACH](https://theworldofnerds.com/collections/bleach): Bleach Collection – Step into the world of Soul Reapers with our exclusive Bleach merchandise inspired by the legendary battles between the living and the spirit realm. Explore a powerful selection of apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic items featuring Ichigo Kurosaki, Rukia Kuchiki, the Gotei 13, and the fearsome Hollows. Whether you admire Ichigo’s determination, the strength of the captains, or the mysteries of Soul Society, our collection lets you showcase your love for the series. Shop now and awaken your Bankai.
-  Updated: 2026-04-10T11:17:04Z
+  Updated: 2026-04-22T11:16:53Z
   Total Products: 9
 - [ATTACK ON TITAN](https://theworldofnerds.com/collections/attack-on-titan): Attack on Titan Collection – Join the fight for humanity with our exclusive Attack on Titan merchandise inspired by the intense battles against the Titans. Explore a powerful selection of apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic items featuring Eren Yeager, Levi Ackerman, Mikasa Ackerman, and the elite Scout Regiment. Whether you admire the bravery of the soldiers, the mysteries beyond the walls, or the action-packed Titan battles, our collection lets you showcase your love for the series. Shop now and prepare to rise above the Titans.
   Updated: 2026-04-10T11:17:04Z
@@ -16471,17 +16541,17 @@
   Updated: 2026-02-21T05:17:19Z
   Total Products: 1
 - [SHINCHAN](https://theworldofnerds.com/collections/shinchan): Shinchan Collection – Bring the fun and mischief of Shinchan into your life with our exclusive merchandise inspired by the beloved cartoon. Explore a playful selection of apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic items featuring Shinchan, his family, and friends. Whether you love his hilarious antics, carefree attitude, or nostalgic moments, our collection lets you relive the joy of this classic series. Shop now and add a little Shinchan-style mischief to your day.
-  Updated: 2026-04-06T11:12:30Z
-  Total Products: 50
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 49
 - [SHOP ALL BY MERCHANDISE](https://theworldofnerds.com/collections/shop-all-by-merchandise): New arrivals are here! Explore the latest action figures, Funko Pop! collectibles, keychains, and more—perfect for every fan and collector. Whether you're hunting for rare finds, adding to your collection, or looking for the perfect gift, our newest merchandise has something for everyone. Shop now and grab your favorites before they’re gone!" 🎉🔥
-  Updated: 2026-04-12T11:16:22Z
-  Total Products: 979
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 960
 - [MARVEL](https://theworldofnerds.com/collections/marvel): "Unleash the power of the Marvel Universe with our latest collection of action figures, Funko Pop! collectibles, keychains, and more! From legendary heroes like Spider-Man, Iron Man, Thor, and Captain America to iconic villains like Thanos and Loki, these high-quality collectibles bring the epic battles and stories of Marvel to life. Whether you're a die-hard fan or a passionate collector, now’s your chance to assemble your favorite characters and celebrate the legacy of Marvel. Shop now and bring the action home!" 🦸♂️⚡🔥
-  Updated: 2026-04-15T11:16:14Z
+  Updated: 2026-04-28T11:17:41Z
   Total Products: 144
 - [DC](https://theworldofnerds.com/collections/dc): "Dive into the DC Universe with our latest collection of collectibles! Featuring legendary heroes and villains like Batman, Superman, Wonder Woman, The Joker, and more, our lineup includes action figures, Funko Pop! collectibles, keychains, and epic merchandise. Whether you're a fan of the Justice League, Gotham’s dark knights, or the rogues of Metropolis, these high-quality items bring the iconic battles and stories of DC to life. Add your favorite characters to your collection today!" 🦇⚡🔥
-  Updated: 2026-02-20T05:26:31Z
-  Total Products: 23
+  Updated: 2026-04-20T05:09:38Z
+  Total Products: 22
 - [GAME OF THRONES](https://theworldofnerds.com/collections/game-of-thrones): "Step into the world of Game of Thrones with our latest collectibles! From the mighty House Stark and Targaryen to legendary characters like Jon Snow, Daenerys, and the Night King, our collection features action figures, Funko Pop! collectibles, keychains, and more. Whether you're a loyal fan of the Seven Kingdoms or a collector of epic fantasy memorabilia, these high-quality items bring the drama, power, and intrigue of Westeros to life. Claim your piece of the throne today!" ⚔️🔥🐉
   Updated: 2026-02-09T06:43:57Z
   Total Products: 2
@@ -16492,8 +16562,8 @@
   Updated: 2026-02-11T09:58:38Z
   Total Products: 1
 - [NEW ARRIVALS 📢](https://theworldofnerds.com/collections/new-arrivals-📢): New arrivals just dropped! Explore a fresh selection of high-quality die-cast cars and collectibles, perfect for expanding your collection or finding that one special piece. Whether you're a passionate collector or just starting out, our latest additions feature stunning details, unique designs, and limited-edition finds that you won’t want to miss. Grab yours now before they  out!" 🚗✨
-  Updated: 2026-04-15T12:14:07Z
-  Total Products: 1117
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 1115
 - [Light Boxes](https://theworldofnerds.com/collections/light-boxes)
   Updated: 2026-02-12T12:06:28Z
   Total Products: 8
@@ -16501,37 +16571,37 @@
   Updated: 2026-02-02T07:33:03Z
   Total Products: 7
 - [ZD Toys](https://theworldofnerds.com/collections/zd-toys)
-  Updated: 2026-04-15T11:16:14Z
+  Updated: 2026-04-28T11:17:41Z
   Total Products: 72
 - [PRE ORDERS](https://theworldofnerds.com/collections/pre-orders)
-  Updated: 2026-04-12T11:16:22Z
+  Updated: 2026-04-28T11:17:41Z
   Total Products: 17
 - [⚡ ALL ANIME MERCHANDISE ⚔️🔥](https://theworldofnerds.com/collections/all-anime-merchandise)
-  Updated: 2026-04-12T11:16:22Z
-  Total Products: 417
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 412
 - [MATCHBOX](https://theworldofnerds.com/collections/matchbox)
   Updated: 2025-12-16T12:21:02Z
   Total Products: 19
 - [Bundle Offers](https://theworldofnerds.com/collections/bundle-offers): Immerse yourself in your favorite worlds with our Bundle Collection, curated for dedicated fans and collectors alike. Each bundle includes a unique mix of high-quality items inspired by popular anime series—featuring figures, accessories, artwork, and limited-edition collectibles. Whether you’re expanding your collection or looking for the perfect gift for an anime lover, this bundle delivers excitement, variety, and unbeatable value. Crafted with attention to detail and designed to showcase your fandom, the Anime Bundle Collection offers a fun unboxing experience and a great way to discover new favorites. Treat yourself—or someone special—to a surprise selection of anime treasures!
-  Updated: 2026-02-04T06:21:42Z
-  Total Products: 29
+  Updated: 2026-04-20T05:09:50Z
+  Total Products: 15
 - [FOND JOY](https://theworldofnerds.com/collections/fond-joy)
   Updated: 2026-02-17T07:49:34Z
   Total Products: 6
 - [aniplex](https://theworldofnerds.com/collections/aniplex)
-  Updated: 2026-02-20T09:34:17Z
-  Total Products: 52
+  Updated: 2026-04-20T05:09:29Z
+  Total Products: 45
 - [Best ](https://theworldofnerds.com/collections/best-)
-  Updated: 2026-04-03T11:17:47Z
-  Total Products: 87
+  Updated: 2026-04-27T11:18:11Z
+  Total Products: 85
 - [Anime Ultimates](https://theworldofnerds.com/collections/anime-ultimates)
   Updated: 2026-03-22T11:15:06Z
   Total Products: 13
 - [SCALE 1:64](https://theworldofnerds.com/collections/cca)
-  Updated: 2026-03-06T12:17:25Z
+  Updated: 2026-04-16T11:18:35Z
   Total Products: 48
 - [CCA](https://theworldofnerds.com/collections/cca-1)
-  Updated: 2026-04-06T11:12:30Z
+  Updated: 2026-04-16T11:18:35Z
   Total Products: 76
 - [SCALE : 1:64 (WITH CASE)](https://theworldofnerds.com/collections/scale-1-64)
   Updated: 2026-04-06T11:12:30Z
@@ -16546,16 +16616,16 @@
   Updated: 2026-02-11T12:13:29Z
   Total Products: 12
 - [Soft toy](https://theworldofnerds.com/collections/soft-toy)
-  Updated: 2026-03-09T11:15:02Z
+  Updated: 2026-04-23T11:18:48Z
   Total Products: 16
 - [Bracelet](https://theworldofnerds.com/collections/bracelet)
   Updated: 2026-01-28T13:17:41Z
   Total Products: 38
 - [Doraemon](https://theworldofnerds.com/collections/doremon)
-  Updated: 2026-03-25T10:27:39Z
+  Updated: 2026-04-28T11:17:41Z
   Total Products: 7
 - [MOUSE PAD](https://theworldofnerds.com/collections/keyboard-mouse-pad)
-  Updated: 2026-02-17T10:26:40Z
+  Updated: 2026-04-19T11:18:37Z
   Total Products: 15
 - [TABLE LAMP](https://theworldofnerds.com/collections/table-lamp)
   Updated: 2026-01-28T13:28:23Z
@@ -16570,23 +16640,23 @@
   Updated: 2026-01-29T06:52:50Z
   Total Products: 3
 - [POSTER - The World Of Nerds](https://theworldofnerds.com/collections/poster): - The World Of Nerds
-  Updated: 2026-03-29T11:15:29Z
+  Updated: 2026-04-25T11:18:06Z
   Total Products: 110
 - [test - The World Of Nerds](https://theworldofnerds.com/collections/test): - The World Of Nerds
   Updated: 2026-02-11T06:11:00Z
   Total Products: 0
 - [Maisto - The World Of Nerds](https://theworldofnerds.com/collections/maisto-1): - The World Of Nerds
-  Updated: 2026-04-13T11:16:28Z
+  Updated: 2026-04-26T11:18:31Z
   Total Products: 59
 - [Bburago - The World Of Nerds](https://theworldofnerds.com/collections/bburago-1): - The World Of Nerds
-  Updated: 2026-04-12T11:16:22Z
+  Updated: 2026-04-17T11:17:46Z
   Total Products: 67
 - [NARUTO - The World Of Nerds](https://theworldofnerds.com/collections/naruto-1): - The World Of Nerds
-  Updated: 2026-03-27T07:36:22Z
+  Updated: 2026-04-28T11:17:41Z
   Total Products: 73
 - [JUJUTSU KAISEN ACTION FIGURES - The World Of Nerds](https://theworldofnerds.com/collections/jujutsu-kaisen-action-figures): - The World Of Nerds
-  Updated: 2026-04-04T10:40:45Z
-  Total Products: 28
+  Updated: 2026-04-20T05:09:28Z
+  Total Products: 26
 - [JUJUTSU KAISEN BOBBLEHEADS - The World Of Nerds](https://theworldofnerds.com/collections/jujutsu-kaisen-bobbleheads): - The World Of Nerds
   Updated: 2026-02-24T09:43:35Z
   Total Products: 3
@@ -16594,8 +16664,8 @@
   Updated: 2026-02-24T09:55:19Z
   Total Products: 2
 - [JUJUTSU KAISEN KEYCHAINS - The World Of Nerds](https://theworldofnerds.com/collections/jujutsu-kaisen-keychains): - The World Of Nerds
-  Updated: 2026-04-04T11:16:22Z
-  Total Products: 12
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 10
 - [JUJUTSU KAISEN POSTERS - The World Of Nerds](https://theworldofnerds.com/collections/jujutsu-kaisen-posters): - The World Of Nerds
   Updated: 2026-03-29T11:15:29Z
   Total Products: 1
@@ -16603,7 +16673,7 @@
   Updated: 2026-03-26T13:12:21Z
   Total Products: 3
 - [DEMON SLAYER ACTION FIGURES - The World Of Nerds](https://theworldofnerds.com/collections/demon-slayer-action-figures): - The World Of Nerds
-  Updated: 2026-04-12T11:16:22Z
+  Updated: 2026-04-26T11:18:31Z
   Total Products: 16
 - [DEMON SLAYER PREMIUM STATUES - The World Of Nerds](https://theworldofnerds.com/collections/demon-slayer-premium-statues): - The World Of Nerds
   Updated: 2026-02-24T10:34:08Z
@@ -16615,7 +16685,7 @@
   Updated: 2026-03-22T11:15:06Z
   Total Products: 3
 - [DEMON SLAYER KATTANAS - The World Of Nerds](https://theworldofnerds.com/collections/demon-slayer-kattanas): - The World Of Nerds
-  Updated: 2026-04-12T11:16:22Z
+  Updated: 2026-04-28T11:17:41Z
   Total Products: 11
 - [DEMON SLAYER KEYCHAINS - The World Of Nerds](https://theworldofnerds.com/collections/demon-slayer-keychains): - The World Of Nerds
   Updated: 2026-02-24T11:06:02Z
@@ -16630,23 +16700,23 @@
   Updated: 2026-03-26T13:14:35Z
   Total Products: 3
 - [NARUTO ACTION FIGURES - The World Of Nerds](https://theworldofnerds.com/collections/naruto-action-figures): - The World Of Nerds
-  Updated: 2026-03-27T07:44:00Z
+  Updated: 2026-04-28T11:17:41Z
   Total Products: 63
 - [NARUTO PREMIUM STATUES - The World Of Nerds](https://theworldofnerds.com/collections/naruto-premium-statues): - The World Of Nerds
   Updated: 2026-02-25T11:38:52Z
   Total Products: 3
 - [NARUTO COMBOS - The World Of Nerds](https://theworldofnerds.com/collections/naruto-combos-1): - The World Of Nerds
-  Updated: 2026-03-20T11:17:08Z
-  Total Products: 13
+  Updated: 2026-04-22T11:16:53Z
+  Total Products: 12
 - [NARUTO BOOBLEHEADS - The World Of Nerds](https://theworldofnerds.com/collections/naruto-boobleheads): - The World Of Nerds
   Updated: 2026-04-03T11:17:47Z
   Total Products: 4
 - [NARUTO KATTANS - The World Of Nerds](https://theworldofnerds.com/collections/naruto-kattans): - The World Of Nerds
-  Updated: 2026-02-27T06:03:23Z
+  Updated: 2026-04-26T11:18:31Z
   Total Products: 2
 - [NARUTO KEYCHAINS - The World Of Nerds](https://theworldofnerds.com/collections/naruto-keychains): - The World Of Nerds
-  Updated: 2026-03-27T05:32:35Z
-  Total Products: 40
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 36
 - [NARUTO LIGHTBOX - The World Of Nerds](https://theworldofnerds.com/collections/naruto-lightbox): - The World Of Nerds
   Updated: 2026-02-25T11:51:15Z
   Total Products: 2
@@ -16654,10 +16724,10 @@
   Updated: 2026-02-25T11:52:53Z
   Total Products: 3
 - [NARUTO ACCESSORIES - The World Of Nerds](https://theworldofnerds.com/collections/naruto-accessories): - The World Of Nerds
-  Updated: 2026-02-25T11:54:56Z
+  Updated: 2026-04-22T11:16:53Z
   Total Products: 7
 - [DRAGON BALL Z ACTION FIGURE - The World Of Nerds](https://theworldofnerds.com/collections/dragon-ball-z-action-figure): - The World Of Nerds
-  Updated: 2026-03-30T11:15:03Z
+  Updated: 2026-04-28T11:17:41Z
   Total Products: 62
 - [DRAGON BALL Z PREMIUM STATUES - The World Of Nerds](https://theworldofnerds.com/collections/dragon-ball-z-premium-statues): - The World Of Nerds
   Updated: 2026-02-26T13:03:29Z
@@ -16666,17 +16736,17 @@
   Updated: 2026-03-27T05:47:23Z
   Total Products: 3
 - [DRAGON BALL Z KEYCHAINS - The World Of Nerds](https://theworldofnerds.com/collections/dragon-ball-z-keychains): - The World Of Nerds
-  Updated: 2026-03-27T05:53:49Z
-  Total Products: 30
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 29
 - [DRAGON BALL Z ACCESSORIES - The World Of Nerds](https://theworldofnerds.com/collections/dragon-ball-z-accessories): - The World Of Nerds
-  Updated: 2026-04-05T11:15:45Z
+  Updated: 2026-04-19T11:18:37Z
   Total Products: 10
 - [DRAGON BALL Z COMBOS - The World Of Nerds](https://theworldofnerds.com/collections/dragon-ball-z-combos): - The World Of Nerds
-  Updated: 2026-03-30T09:25:17Z
-  Total Products: 9
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 8
 - [ONE PIECE COMBOS - The World Of Nerds](https://theworldofnerds.com/collections/one-piece-combos): - The World Of Nerds
-  Updated: 2026-02-27T05:14:59Z
-  Total Products: 12
+  Updated: 2026-04-25T11:18:06Z
+  Total Products: 10
 - [ONE PIECE ACTION FIGURE - The World Of Nerds](https://theworldofnerds.com/collections/one-piece-action-figure): - The World Of Nerds
   Updated: 2026-04-14T10:59:12Z
   Total Products: 75
@@ -16684,17 +16754,17 @@
   Updated: 2026-02-27T05:54:03Z
   Total Products: 3
 - [ONE PIECE BOBBLEHEADS - The World Of Nerds](https://theworldofnerds.com/collections/one-piece-bobbleheads): - The World Of Nerds
-  Updated: 2026-03-16T11:15:24Z
+  Updated: 2026-04-19T11:18:37Z
   Total Products: 5
 - [ONE PIECE KATTANAS - The World Of Nerds](https://theworldofnerds.com/collections/one-piece-kattanas): - The World Of Nerds
   Updated: 2026-04-09T11:18:26Z
   Total Products: 9
 - [ONE PIECE KEYCHAINS - The World Of Nerds](https://theworldofnerds.com/collections/one-piece-keychains): - The World Of Nerds
-  Updated: 2026-04-09T11:18:26Z
-  Total Products: 31
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 30
 - [ONE PIECE LIGHTBOX - The World Of Nerds](https://theworldofnerds.com/collections/one-piece-lightbox): - The World Of Nerds
-  Updated: 2026-02-27T06:04:45Z
-  Total Products: 2
+  Updated: 2026-04-17T06:51:00Z
+  Total Products: 1
 - [ONE PIECE POSTER - The World Of Nerds](https://theworldofnerds.com/collections/one-piece-poster): - The World Of Nerds
   Updated: 2026-03-29T11:15:29Z
   Total Products: 2
@@ -16702,20 +16772,20 @@
   Updated: 2026-03-26T13:06:54Z
   Total Products: 13
 - [MARVEL ACTION FIGURES - The World Of Nerds](https://theworldofnerds.com/collections/marvel-action-figures): - The World Of Nerds
-  Updated: 2026-04-15T11:16:14Z
-  Total Products: 34
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 105
 - [MARVEL KEYCHAINS - The World Of Nerds](https://theworldofnerds.com/collections/marvel-keychains): - The World Of Nerds
-  Updated: 2026-04-07T12:19:41Z
+  Updated: 2026-04-28T11:17:41Z
   Total Products: 44
 - [DC ACTION FIGURES - The World Of Nerds](https://theworldofnerds.com/collections/dc-action-figures): - The World Of Nerds
-  Updated: 2026-02-27T06:23:20Z
-  Total Products: 16
+  Updated: 2026-04-17T06:58:40Z
+  Total Products: 15
 - [DC KEYCHAIN - The World Of Nerds](https://theworldofnerds.com/collections/dc-keychain): - The World Of Nerds
   Updated: 2026-02-27T06:16:35Z
   Total Products: 1
 - [ACTION FIGURES - The World Of Nerds](https://theworldofnerds.com/collections/action-figures-1): - The World Of Nerds
-  Updated: 2026-04-15T11:16:14Z
-  Total Products: 405
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 403
 - [PREMIUM STATUES - The World Of Nerds](https://theworldofnerds.com/collections/premium-statues): - The World Of Nerds
   Updated: 2026-03-27T05:53:24Z
   Total Products: 9
@@ -16723,22 +16793,22 @@
   Updated: 2026-04-10T11:17:04Z
   Total Products: 34
 - [BOBBLEHEADS - The World Of Nerds](https://theworldofnerds.com/collections/bobbleheads): - The World Of Nerds
-  Updated: 2026-04-03T11:17:47Z
-  Total Products: 43
+  Updated: 2026-04-20T05:09:39Z
+  Total Products: 41
 - [Keychains at 149 - The World Of Nerds](https://theworldofnerds.com/collections/keychains-at-149): - The World Of Nerds
-  Updated: 2026-04-09T07:16:54Z
-  Total Products: 247
+  Updated: 2026-04-28T11:17:41Z
+  Total Products: 244
 - [POKEMON COMBOS - The World Of Nerds](https://theworldofnerds.com/collections/pokemon-combos): - The World Of Nerds
-  Updated: 2026-03-13T07:02:57Z
+  Updated: 2026-04-25T11:18:06Z
   Total Products: 5
 - [POKEMON ACTION FIGURE - The World Of Nerds](https://theworldofnerds.com/collections/pokemon-action-figure): - The World Of Nerds
-  Updated: 2026-03-13T07:34:33Z
-  Total Products: 16
+  Updated: 2026-04-25T11:18:06Z
+  Total Products: 15
 - [POKEMON PREMIUM STATUES - The World Of Nerds](https://theworldofnerds.com/collections/pokemon-premium-statues): - The World Of Nerds
   Updated: 2026-03-13T07:36:14Z
   Total Products: 5
 - [POKEMON KEYCHAINS - The World Of Nerds](https://theworldofnerds.com/collections/pokemon-keychains): - The World Of Nerds
-  Updated: 2026-04-09T11:18:26Z
+  Updated: 2026-04-28T11:17:41Z
   Total Products: 40
 - [POKEMON LIGHT - The World Of Nerds](https://theworldofnerds.com/collections/pokemon-light): - The World Of Nerds
   Updated: 2026-03-13T07:47:59Z
@@ -16747,13 +16817,13 @@
   Updated: 2026-03-13T07:50:12Z
   Total Products: 3
 - [POKEMON CARDS - The World Of Nerds](https://theworldofnerds.com/collections/pokemon-cards): - The World Of Nerds
-  Updated: 2026-03-13T07:51:07Z
-  Total Products: 23
+  Updated: 2026-04-27T11:18:11Z
+  Total Products: 22
 - [CUSTOM DIECAST - The World Of Nerds](https://theworldofnerds.com/collections/custom-diecast): - The World Of Nerds
-  Updated: 2026-04-15T11:16:14Z
+  Updated: 2026-04-26T11:18:31Z
   Total Products: 46
 - [CAR KEYCHAIN - The World Of Nerds](https://theworldofnerds.com/collections/car-keychain): - The World Of Nerds
-  Updated: 2026-04-09T07:10:51Z
+  Updated: 2026-04-24T11:17:46Z
   Total Products: 19
 
 ## Store Pages
