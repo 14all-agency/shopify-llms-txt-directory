@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2017-08-01T13:51:15Z
 - Contact Email: info@GearHooks.com
-- Updated At: 2026-04-20T00:00:45.249Z
+- Updated At: 2026-04-29T00:00:46.582Z
 
 ## Products
 
 - [2 Bike Wall Hook - compact storage for any 2 bikes](https://gearhooks.com/products/2-bike-wall-hook-compact-storage-for-any-2-bikes): 2 bike wall hook - Low cost, high quality wall mounting for 2 bikes. Quick and easy to fit. Designed and made in the UK with a Lifetime warranty.
-  Updated: 2026-04-17T11:30:06Z
+  Updated: 2026-04-27T13:36:33Z
   Vendor: GearHooks
   Product Type: Cycling
   Availability: Available
@@ -29,7 +29,7 @@
     Availability: Available
     Price: £195.92 GBP
 - [Road Bike and Gear Wall Hooks - horizontal road bike and gear storage](https://gearhooks.com/products/road-bike-and-gear-wall-hooks): Bike wall mount hooks + rail to store and display road bikes and gear like track pump, tools, helmet, clothing etc. Bike brackets fold flat against the wall when not in use.
-  Updated: 2026-04-10T13:27:16Z
+  Updated: 2026-04-27T13:36:33Z
   Vendor: GearHooks
   Product Type: cycling
   Availability: Available
@@ -59,14 +59,14 @@
     Availability: Available
     Price: £61.56 GBP
 - [1 Road Bike Folding Wall Hooks - horizontal storage + work stand](https://gearhooks.com/products/1-road-bike-folding-wall-hooks-horizontal-storage-and-work-stand-for-road-bikes): Minimalist horizontal bike wall brackets to store and display road bikes and city bikes. Instant wall art for living rooms and offices. Folds flat against the wall when not in use.
-  Updated: 2026-04-10T20:35:46Z
+  Updated: 2026-04-27T13:36:33Z
   Vendor: GearHooks
   Product Type: cycling
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2235/8495/products/P1080886_white.jpg?v=1520354056
   Price: £32.70 GBP
 - [Bike wall rack for 3, 4 or 5 bikes - adaptable vertical bike storage](https://gearhooks.com/products/bike-wall-rack-for-3-4-or-5-bikes-adaptable-vertical-bike-storage): The GearHooks® BR3/4/5 is a space saving indoor bike wall storage rack for 3, 4 or 5 road bikes, mountain bikes, ebikes, downhill bikes or any mixture with any size wheels and tyres up to 3”. You don't even need to lift heavy bikes like mountain or electric bikes. There's also space for all your other biking gear.
-  Updated: 2026-03-15T09:02:16Z
+  Updated: 2026-04-27T13:36:34Z
   Vendor: GearHooks
   Product Type: Cycling
   Availability: Available
@@ -168,7 +168,7 @@
     Image: https://cdn.shopify.com/s/files/1/2235/8495/products/P1090409_closer.jpg?v=1533210400
     Price: £86.00 GBP
 - [6 Bike Vertical Wall Rack - space saving bike wall storage](https://gearhooks.com/products/6-bike-vertical-wall-rack-space-saving-bike-wall-storage): The GearHooks® BR6DD "Double Decker" vertical bike rack for up to 6 bikes is an expandable and adaptable vertical bike rack that you can change as your bikes, gear, lifestyle or family changes. It is also the best way to mount a lot of bikes in the smallest amount of space. Great if you are short on wall space.
-  Updated: 2026-04-13T07:20:06Z
+  Updated: 2026-04-27T13:36:34Z
   Vendor: GearHooks
   Product Type: cycling
   Availability: Available
@@ -198,7 +198,7 @@
     Availability: Available
     Price: £124.15 GBP
 - [6 Bike Vertical Wall Rack - stunning and practical wall bike rack](https://gearhooks.com/products/6-bike-vertical-wall-rack-stunning-and-practical-wall-bike-rack): Vertical bike storage and display rack for up to 6 bikes. Looks amazing and works really well. Any bike (road, MTB, BMX, Downhill, electric etc).  Any frame size. Child or  bike. Any wheel size. Tyres up to 3”. No lifting for heavy bikes or Clear floor for lighter bikes. Designed and made in the UK. easy to fit.
-  Updated: 2026-04-06T19:46:28Z
+  Updated: 2026-04-28T13:50:22Z
   Vendor: GearHooks
   Product Type: Cycling
   Availability: Available
@@ -228,7 +228,7 @@
     Availability: Available
     Price: £119.15 GBP
 - [1 Bike Wall Hook - easy to fit and use without lifting](https://gearhooks.com/products/1-bike-wall-hook-easy-to-fit-and-use-without-lifting): No matter what kind of bike you've got, this Bike Wall Hanger will get it off the floor to save you space. It fits with just one hole (ideal if you are DIY phobic) in a couple of minutes. All the fixings you need for wooden or solid walls are included. Best of all, it's made in the UK and comes with a Lifetime Warranty
-  Updated: 2026-04-18T09:26:46Z
+  Updated: 2026-04-27T13:36:34Z
   Vendor: GearHooks®
   Product Type: Cycling
   Availability: Available
@@ -246,7 +246,7 @@
     Availability: Available
     Price: £149.99 GBP
 - [Horizontal bike hooks + work stand + gear storage](https://gearhooks.com/products/1-road-bike-gear-wall-hooks-horizontal-bike-hooks-and-double-gear-storage): Horizontal bike rack, work stand and gear or tool storage all in one. Stores road bikes flat against the wall. For garage or shed. Space saving design. Folds flat when not in use.
-  Updated: 2026-03-04T12:10:28Z
+  Updated: 2026-04-27T13:36:35Z
   Vendor: GearHooks
   Product Type: cycling
   Availability: Available
@@ -276,7 +276,7 @@
     Availability: Available
     Price: £71.76 GBP
 - [1 Bike + Gear Wall Hook - hang your bike and gear in one place](https://gearhooks.com/products/1-bike-gear-wall-hook-hang-your-bike-and-gear-in-one-place): Store any bike plus helmet, coat & gear with the GearHooks® B1Plus wall hanger. Easy to fit, UK-made, lifetime warranty. Shop now.
-  Updated: 2026-04-17T23:32:03Z
+  Updated: 2026-04-27T13:36:35Z
   Vendor: GearHooks®
   Product Type: Cycling
   Availability: Available
@@ -294,7 +294,7 @@
     Availability: Available
     Price: £195.92 GBP
 - [Golf Bag Storage - for bags, trolleys, clubs and other gear](https://gearhooks.com/products/golf-bag-storage-for-bags-trolleys-clubs-and-other-gear): Stop expensive golf equipment going rusty, and store all your golf equipment in just 1M of wall space, off the floor & out of the way where it is clean & dry.
-  Updated: 2026-04-05T09:08:17Z
+  Updated: 2026-04-27T13:36:35Z
   Vendor: GearHooks Ltd
   Product Type: golf
   Availability: Available
@@ -396,7 +396,7 @@
     Availability: Available
     Price: £59.40 GBP
 - [Golf Club Storage for Golf Bags, Trolleys, Clubs & Shoes](https://gearhooks.com/products/golf-bag-storage-and-golf-equipment-organiser): Golf club storage. Golf bag hooks. Golf trolley storage. Golf shoes storage. Golf clothing storage hooks. The GearHooks® Golf bag storage racks can all be expanded, upgraded and customised by adding extra hooks to provide the maximum storage in the minimum space. You can also fit any hook directly to a wall.
-  Updated: 2026-04-17T23:38:04Z
+  Updated: 2026-04-28T13:50:35Z
   Vendor: GearHooks Ltd
   Product Type: golf
   Availability: Available
@@ -422,7 +422,7 @@
     Image: https://cdn.shopify.com/s/files/1/2235/8495/products/P1090028.jpg?v=1513348087
     Price: £24.50 GBP
 - [Bike Wall Hooks - extra hooks for bikes, backpacks, helmets etc.](https://gearhooks.com/products/bike-wall-hooks-extra-hooks-for-bikes-backpacks-helmets-tools-and-spare-parts): Extra bike wall hooks to expand an existing rack. For bikes, track pumps, work stands, tools, helmets, clothing etc. Heavy duty galvanised steel construction.
-  Updated: 2026-04-17T11:28:35Z
+  Updated: 2026-04-27T13:36:36Z
   Vendor: GearHooks Ltd
   Product Type: Cycling
   Availability: Available
@@ -452,7 +452,7 @@
     Image: https://cdn.shopify.com/s/files/1/2235/8495/products/P1090414.jpg?v=1527610904
     Price: £24.50 GBP
 - [Ski Wall Rack - ski wall hanger for up to 6 pairs of skis](https://gearhooks.com/products/ski-wall-rack-ski-wall-hanger-for-up-to-6-pairs-of-skis): The GearHooks® wall mounting Ski Hanger and Ski Rack.  Adjustable, expandable and adaptable ski storage for up to 6 pairs of skis, poles, helmets and other ski gear in the minimum space at home, in the garage or in a ski lodge. Stagger bindings to save space. Super strong. Great value. Save at least 20% - order now!
-  Updated: 2026-04-14T05:43:46Z
+  Updated: 2026-04-27T18:53:46Z
   Vendor: GearHooks Ltd
   Product Type: ski
   Availability: Available
@@ -530,7 +530,7 @@
     Availability: Available
     Price: £88.44 GBP
 - [Ski and Snowboard Wall Rack - for up to 12 pairs of skis or 6 boards](https://gearhooks.com/products/ski-and-snowboard-wall-rack-for-up-to-12-pairs-of-skis-or-6-snowboards): The GearHooks Ski and Snowboard Wall Rack - store up to 12 pairs of skis or 6 snowboards on a wall mounted rack. Saves space and keeps gear safe and dry.
-  Updated: 2026-04-12T15:27:16Z
+  Updated: 2026-04-27T18:50:37Z
   Vendor: GearHooks Ltd
   Product Type: ski
   Availability: Available
@@ -608,7 +608,7 @@
     Availability: Available
     Price: £102.48 GBP
 - [Climbing Equipment Storage System - professional wall storage rack](https://gearhooks.com/products/climbing-equipment-storage-system-professional-wall-storage-rack): Ideal for climbers, mountaineers, arbourists, tree surgeons or anyone who works at heights. Keeps everything organised, easy to find and quick to put away.
-  Updated: 2026-04-02T19:59:10Z
+  Updated: 2026-04-27T13:36:36Z
   Vendor: GearHooks Ltd
   Product Type: climbing
   Availability: Available
@@ -662,7 +662,7 @@
     Availability: Available
     Price: £96.84 GBP
 - [Climbing Hooks - extra GearHooks for climbing equipment](https://gearhooks.com/products/climbing-hooks-extra-gearhooks-for-climbing-equipment): Extra GearHooks® are available to expand, upgrade or customise your existing GearRail and to provide the maximum storage in the minimum space. Some GearHooks are designed for a specific job but most can be used for lots of different kinds of gear. Longer GearHooks can be used to store more of a single item or a mix of gear. Part numbers indicate design (i.e Double Prong) Gap/Length. DP12/300, 12mm gap x 300mm long hooks can be used for several items of clothing (on coat hangers if required) and rucksacks. DP25/300, 25mm gap x 300mm long hooks are designed for 1 or 2 pairs of skis or 1 snowboard but can be used for other things like ice axes or avalanche shovels. DP45/300, 45mm gap x 300mm long hooks are the most popular and versatile. They are designed for climbing ropes and ski or snowboard boots but are really useful if you just use each prong for lighter items like helmets, harnesses and carabiners. If you can't find exactly what you are looking for take a look at the General Purpose GearHooks® listed at the end of this collection, or get in touch - were sure to have something to help you. Each GearHook® is Manufacture from cold formed steel with bright zinc plating to prevent corrosion and has a soft rubber coating to protect your equipment. It can be adjusted up, down and sideways to stop adjacent parts colliding and comes with a CNC machined clamp, Hex head bolt and M8 sliding nut enabling it to be fitted anywhere on the GearRail®. Specification Each GearHooks® mounting hook includes; cold formed steel double prong hook with bright zinc plating to prevent corrosion soft rubber sleeves to hold and protect your equipment CNC machined clamp in Engineering Polymer that is stronger than aluminium M8 sliding nut to position and adjust the hook anywhere on the rail M8 hex bolt (Allen Key) to attach the hook to the sliding nuts and rail Full fitting and use instructions No quibble Lifetime guarantee For more information about GearHooks® take a look at our FAQs at the bottom of this page.  PRICES - all complete racks include a reduction of AT LEAST 20% compared to the cost of buying individual hooks and rails. This  is applied automatically and the list price and discounted prices are shown on the product pages. Additional discounts (such as free shipping) require a code to activate them. All prices now include VAT. Business users and schools, colleges etc. can reclaim VAT effectively saving an additional 20% on the prices shown. Some photographs may show extra items, optional hooks and colours which may not be included with your particular product choice. We try to accurately describe each product but cannot photograph all variants. Please check descriptions, and your choices when ordering, carefully. GearHooks® - Make Space - Save Time - Do more!
-  Updated: 2026-02-05T15:04:40Z
+  Updated: 2026-04-27T13:36:36Z
   Vendor: GearHooks Ltd
   Product Type: climbing
   Availability: Available
@@ -678,7 +678,7 @@
     Price: £11.90 GBP
 - [Ski Hooks  - extra hooks for skis, snowboards, boots and ski gear.](https://gearhooks.com/products/ski-hooks-extra-hooks-for-skis-snowboards-boots-and-ski-gear): Extra GearHooks® are available to expand, upgrade or customise your existing GearRail and to provide the maximum storage in the minimum space.
 There are specific ski storage hooks, snowboard storage hooks and hooks for ski or snowboard boots, clothing, helmets, rucksacks, avalanche, ski touring and climbing equipment.
-  Updated: 2026-04-17T11:21:36Z
+  Updated: 2026-04-27T18:50:37Z
   Vendor: GearHooks Ltd
   Product Type: ski
   Availability: Available
@@ -696,7 +696,7 @@ There are specific ski storage hooks, snowboard storage hooks and hooks for ski 
     Image: https://cdn.shopify.com/s/files/1/2235/8495/products/DMC-TZ65000_skis_boots_shovel_8f64a21a-af3d-4f98-8ce7-3e461806e49b.jpg?v=1520426191
     Price: £18.50 GBP
 - [Heavy Duty Garage Hooks - Extra GearHooks®](https://gearhooks.com/products/heavy-duty-garage-hooks-extra-gearhooks): Extra GearHooks® to expand an existing GearRail™ or build your own. Bike hooks, ski hooks, tools, spare parts etc. Heavy duty galvanised steel construction with rubber sleeves to protect your gear. Fit in seconds anywhere on the rail without drilling. Lifetime warranty. Designed and manufactured in the UK.
-  Updated: 2026-04-10T13:27:24Z
+  Updated: 2026-04-27T20:18:38Z
   Vendor: GearHooks Ltd
   Product Type: hooks
   Availability: Available
@@ -759,7 +759,7 @@ There are specific ski storage hooks, snowboard storage hooks and hooks for ski 
     Availability: Available
     Price: £10.00 GBP
 - [Extra GearRails® and Wall Fixings | GearHooks LTD](https://gearhooks.com/products/gearrails-and-fixings): Any GearHooks® product can be expanded by adding additional rails or extra hooks. You can also build a completely custom rack to store whatever mix of gear you want. The GearRail® is 1 metre long made of heavy duty steel and will support up to 100Kg. It is galvanised and powder coated so are at home in a garage or shed but smart enough for your home or office. It comes with all the heavy duty fixings you need for brick, block, stone, concrete and wooden walls. The rail fits to the wall with just 3 holes and can be fitted really easily in under 10 minutes. It will support up to 100 kilos depending on the hooks you choose. Once you have fitted the rail you can add or move hooks around without ever needing to drill any more holes. Simple choose the colour rail you would like, to match your gear or your decor and add it to your basket. Then head to our 'Custom' collection pages and select the type of hooks you need depending on what you want to mount. The GearHooks® GearRail includes; 1 x 1M long cold rolled steel rail galvanised and powder coated with over 20 fixing slots Your choice of 8 different colours (red, orange, yellow, blue, green, black, white & grey) 2 x black plastic end caps 3 x hex head wall bolts (Allen Key) for wood or plasterboard battens 3 x expanding nylon fixings for brick, block, stone or concrete Full fitting and use instructions No quibble Lifetime guarantee For more information about GearHooks® take a look at our FAQs at the bottom of this page.  PRICES - all complete racks include a reduction of AT LEAST 20% compared to the cost of buying individual hooks and rails. This  is applied automatically and the list price and discounted prices are shown on the product pages. Additional discounts (such as free shipping) require a code to activate them. All prices now include VAT. Business users and schools, colleges etc. can reclaim VAT effectively saving an additional 20% on the prices shown. Some photographs may show extra items, optional hooks and colours which may not be included with your particular product choice. We try to accurately describe each product but cannot photograph all variants. Please check descriptions, and your choices when ordering, carefully. GearHooks® - Make Space - Save Time - Do more!
-  Updated: 2026-04-10T13:27:12Z
+  Updated: 2026-04-27T20:18:36Z
   Vendor: GearHooks Ltd
   Product Type: Rail
   Availability: Available
@@ -789,7 +789,7 @@ There are specific ski storage hooks, snowboard storage hooks and hooks for ski 
     Availability: Available
     Price: £29.00 GBP
 - [Snowboard wall rack - wall rack for 6 snowboards or 12 pairs of skis](https://gearhooks.com/products/snowboard-wall-rack-wall-rack-for-6-snowboards-or-12-pairs-of-skis): The GearHooks® SBR2/4/6 snowboard wall storage rack will store and display all your snowboards in just 1M of wall space where they will look fantastic, are out of the way and where it's clean and dry. Its ideal for everyday use in a ski lodge and to store and display your boards at the end of the season.
-  Updated: 2026-04-12T12:44:56Z
+  Updated: 2026-04-27T18:50:37Z
   Vendor: GearHooks Ltd
   Product Type: snowboard
   Availability: Available
@@ -891,7 +891,7 @@ There are specific ski storage hooks, snowboard storage hooks and hooks for ski 
     Image: https://cdn.shopify.com/s/files/1/2235/8495/products/P1090255.jpg?v=1520263361
     Price: £99.48 GBP
 - [Skateboard wall storage rack - store up to 8 skateboards on the wall](https://gearhooks.com/products/skateboard-wall-storage-rack): A skateboard wall storage rack is a stylish and practical way to mount skateboards on the wall? Showcase your favourite decks as wall art and keep them off the floor, safe and tidy.
-  Updated: 2026-04-18T14:56:18Z
+  Updated: 2026-04-27T13:36:38Z
   Vendor: GearHooks Ltd
   Product Type: skateboard
   Availability: Available
@@ -993,7 +993,7 @@ There are specific ski storage hooks, snowboard storage hooks and hooks for ski 
     Availability: Available
     Price: £109.92 GBP
 - [Guitar Wall Hooks - wall mounted guitar racks](https://gearhooks.com/products/guitar-wall-mount-wall-mounting-guitar-racks): Store up to 9 guitars in just 1 metre of wall space. Easy to fit with just 3 holes. Super strong and  for Life.  now on.
-  Updated: 2026-03-23T18:31:27Z
+  Updated: 2026-04-27T14:03:28Z
   Vendor: GearHooks Ltd
   Product Type: Music
   Availability: Available
@@ -1016,7 +1016,7 @@ There are specific ski storage hooks, snowboard storage hooks and hooks for ski 
   - [GTR3 with 3 x 100mm long hooks for 3 guitars / green](https://gearhooks.com/products/guitar-wall-mount-wall-mounting-guitar-racks?variant=5272793415721)
     Availability: Available
     Price: £95.00 GBP
-  - [GTR3 with 3 x 100mm long hooks for 3 guitars / Yellow](https://gearhooks.com/products/guitar-wall-mount-wall-mounting-guitar-racks?variant=5272793448489)
+  - [GTR3 with 3 x 100mm long hooks for 3 guitars / yellow](https://gearhooks.com/products/guitar-wall-mount-wall-mounting-guitar-racks?variant=5272793448489)
     Availability: Available
     Price: £95.00 GBP
   - [GTR6 with 3 x 200mm long hooks for 6 guitars / black](https://gearhooks.com/products/guitar-wall-mount-wall-mounting-guitar-racks?variant=5272793808937)
@@ -1061,17 +1061,17 @@ There are specific ski storage hooks, snowboard storage hooks and hooks for ski 
   - [GTR9 with 3 x 300mm long hooks for 9 guitars / yellow](https://gearhooks.com/products/guitar-wall-mount-wall-mounting-guitar-racks?variant=5272793972777)
     Availability: Available
     Price: £125.00 GBP
-  - [GTR3 with 3 x 100mm long hooks for 3 guitars / White](https://gearhooks.com/products/guitar-wall-mount-wall-mounting-guitar-racks?variant=56411932721536)
+  - [GTR3 with 3 x 100mm long hooks for 3 guitars / white](https://gearhooks.com/products/guitar-wall-mount-wall-mounting-guitar-racks?variant=56411932721536)
     Availability: Available
     Price: £95.00 GBP
-  - [GTR6 with 3 x 200mm long hooks for 6 guitars / White](https://gearhooks.com/products/guitar-wall-mount-wall-mounting-guitar-racks?variant=56411960738176)
+  - [GTR6 with 3 x 200mm long hooks for 6 guitars / white](https://gearhooks.com/products/guitar-wall-mount-wall-mounting-guitar-racks?variant=56411960738176)
     Availability: Available
     Price: £115.00 GBP
-  - [GTR9 with 3 x 300mm long hooks for 9 guitars / White](https://gearhooks.com/products/guitar-wall-mount-wall-mounting-guitar-racks?variant=56411990524288)
+  - [GTR9 with 3 x 300mm long hooks for 9 guitars / white](https://gearhooks.com/products/guitar-wall-mount-wall-mounting-guitar-racks?variant=56411990524288)
     Availability: Available
     Price: £125.00 GBP
 - [Extra Guitar Hooks for existing Gearhooks racks](https://gearhooks.com/products/extra-guitar-hooks): The GearHooks® GR guitar racks can all be expanded, upgraded and customised by adding additional hooks to provide the maximum storage in the minimum space.
-  Updated: 2026-04-17T11:22:28Z
+  Updated: 2026-04-27T13:36:38Z
   Vendor: GearHooks Ltd
   Product Type: Music
   Availability: Available
@@ -1086,7 +1086,7 @@ There are specific ski storage hooks, snowboard storage hooks and hooks for ski 
     Availability: Available
     Price: £28.50 GBP
 - [Snowboard Hooks for Snowboards, Skis, Boots + Gear](https://gearhooks.com/products/snowboard-hooks-extra-gearhooks-for-skis-snowboards-boots-and-ski-gear): Extra GearHooks® are available to expand, upgrade or customise your existing GearRail  There are specific ski storage hooks, snowboard storage hooks and hooks for ski or snowboard boots. Most GearHooks are general purpose and can store clothing, helmets, rucksacks avalanche, ski touring ,climbing equipment and more ...
-  Updated: 2026-04-14T05:43:46Z
+  Updated: 2026-04-27T18:50:37Z
   Vendor: GearHooks Ltd
   Product Type: snowboard
   Availability: Available
@@ -1104,7 +1104,7 @@ There are specific ski storage hooks, snowboard storage hooks and hooks for ski 
     Image: https://cdn.shopify.com/s/files/1/2235/8495/products/DMC-TZ65000_skis_boots_shovel_0935bf2f-0c00-466f-ad62-aa69ac624ee7.jpg?v=1521804537
     Price: £13.90 GBP
 - [Skateboard Hooks for Skateboards, Helmets & Gear | GearHooks](https://gearhooks.com/products/skateboard-hooks-extra-gearhooks-for-skateboards-helmets-and-gear): Extra skateboard storage hooks are available to expand, upgrade or customise your existing GearRail and to provide the maximum storage in the minimum space. If you started with a skateboard rack with just 2,4 or 6 hooks you can add more to take the rack to full capacity.
-  Updated: 2026-04-17T11:18:09Z
+  Updated: 2026-04-27T13:36:39Z
   Vendor: GearHooks Ltd
   Product Type: skateboard
   Availability: Available
@@ -1165,14 +1165,14 @@ There are specific ski storage hooks, snowboard storage hooks and hooks for ski 
     Availability: Available
     Price: £102.48 GBP
 - [Fishing Tackle Hooks for Rods, Reels, Clothing and Gear](https://gearhooks.com/products/fishing-hooks-extra-gearhooks-for-rods-reels-clothing-and-gear): Extra GearHooks® are available to expand, upgrade or customise your existing GearRail and to provide the maximum storage in the minimum space. If you started with a fishing gear rack with just 3 hooks, or you just want to add more rod storage, you can add more GearHooks® to take the rack to full capacity.
-  Updated: 2026-02-20T17:47:52Z
+  Updated: 2026-04-27T13:36:39Z
   Vendor: GearHooks Ltd
   Product Type: fishing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2235/8495/products/P1090354.jpg?v=1520503350
   Price: £12.90 GBP
 - [Bike Wall Rack for 3 bikes + 3 sets of helmets, backpacks and coats](https://gearhooks.com/products/bike-wall-rack-for-3-bikes-3-sets-of-helmets-backpacks-and-coats): Store 3 bikes and your helmets, bags and coats all in one place with our Bike Wall Rack. Makes everything quick to put away and easy to find when you need it.
-  Updated: 2026-04-04T19:45:57Z
+  Updated: 2026-04-27T13:36:39Z
   Vendor: GearHooks
   Product Type: Cycling
   Availability: Available
@@ -1202,28 +1202,28 @@ There are specific ski storage hooks, snowboard storage hooks and hooks for ski 
     Availability: Available
     Price: £67.98 GBP
 - [Ski wall mount - for 1 pair of skis, poles and a helmet.](https://gearhooks.com/products/ski-wall-mount-for-1-pair-of-skis-poles-and-a-helmet): Wall mounted ski storage hook for a pair of skis, poles and helmet in a garage, apartment or ski lodge. Keeps the ski tails off the ground to keep them dry and stop them rusting or de-laminating. Fits with 1 hole in 2 minutes. Super strong. Great value. Save 20% - order now!
-  Updated: 2026-03-20T12:40:06Z
+  Updated: 2026-04-27T18:50:37Z
   Vendor: GearHooks Ltd
   Product Type: ski
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2235/8495/products/2_hooks_poles_helmet_closer.jpg?v=1550066846
   Price: £17.95 GBP
 - [Ski wall mount - for 2 pairs of skis, poles and a helmet.](https://gearhooks.com/products/ski-wall-mount-for-2-pairs-of-skis-poles-and-a-helmet): The GearHooks® Double Ski Holder  is a wall mounting Ski Storage Hook. The quick, simple, low cost way to mount two pairs of skis, a pair of ski poles and a helmet. For garage, apartment or ski lodge. It saves space and keeps the ski tails off the ground to keep them dry and stop them rusting or de-laminating. 20% off
-  Updated: 2026-04-17T11:16:25Z
+  Updated: 2026-04-27T18:56:51Z
   Vendor: GearHooks Ltd
   Product Type: ski
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2235/8495/products/P1090128_-2.jpg?v=1550069945
   Price: £26.50 GBP
 - [Snowboard Wall Mount Storage Hook for 1 or 2  Snowboards](https://gearhooks.com/products/snowboard-wall-mount-storage-hook-for-1-or-2-snowboards-gearhooks-sbh1): The GearHooks® Snowboard Wall Mount is a wall mounting snowboard Storage Hook. It is the quick, simple, low cost way to store 1 or 2 snowboards in a garage, apartment, ski lodge or just about anywhere. It saves space and keeps the board off the ground to keep it dry and stop the edges rusting or de-laminating.
-  Updated: 2026-04-17T11:14:16Z
+  Updated: 2026-04-27T18:50:37Z
   Vendor: GearHooks Ltd
   Product Type: ski
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2235/8495/products/P1090240_-_hook.jpg?v=1550071330
   Price: £26.50 GBP
 - [Garage Wall Storage Rack - Multi purpose garage wall storage](https://gearhooks.com/products/garage-wall-storage-rack): A Garage Wall Storage Rack to get your garage organised and keep your garage tidy. For bikes, sports gear, garden tools, ladders and much more!
-  Updated: 2026-04-06T07:18:09Z
+  Updated: 2026-04-27T13:36:40Z
   Vendor: GearHooks Ltd
   Product Type: garage
   Availability: Available
@@ -1254,7 +1254,7 @@ There are specific ski storage hooks, snowboard storage hooks and hooks for ski 
     Price: £69.91 GBP
 - [Sports Equipment Rack - multi-sports wall storage system](https://gearhooks.com/products/sports-equipment-rack): Sports equipment rack. Store all kinds of sports gear and equipment on the wall.
 Ideal for use in a house, garage or shed but equally at home in a school, sports centre or hire shop.
-  Updated: 2026-03-30T09:17:27Z
+  Updated: 2026-04-27T13:36:40Z
   Vendor: GearHooks Ltd
   Product Type: sports
   Availability: Available
@@ -1284,7 +1284,7 @@ Ideal for use in a house, garage or shed but equally at home in a school, sports
     Availability: Available
     Price: £79.00 GBP
 - [Garden Tool Hooks Rack - heavy duty storage for 30+ garden tools](https://gearhooks.com/products/garden-tool-hooks-rack): Garden Tool Hooks Rack - Store 30+ garden tools in just 1 metre of wall space. Heavy-duty wall rack ideal for sheds and garages. Easy to install. Built in the UK.  for life
-  Updated: 2026-04-12T15:27:11Z
+  Updated: 2026-04-27T16:43:37Z
   Vendor: GearHooks Ltd
   Product Type: garden
   Availability: Available
@@ -1318,7 +1318,7 @@ Ideal for use in a house, garage or shed but equally at home in a school, sports
     Image: https://cdn.shopify.com/s/files/1/2235/8495/products/P1090473_white_0703e966-4c69-493b-8381-bf60190802c8.jpg?v=1610886142
     Price: £64.50 GBP
 - [Garden Tool Wall Rack - heavy duty storage for 20+ garden tools](https://gearhooks.com/products/garden-tool-wall-rack): Organise your shed or garage with our Garden Tool Wall Rack. Heavy-duty, space-saving design holds 20+ tools. Made in the UK. Lifetime guarantee.
-  Updated: 2026-04-05T15:50:06Z
+  Updated: 2026-04-27T13:36:41Z
   Vendor: GearHooks Ltd
   Product Type: garden
   Availability: Available
@@ -1352,7 +1352,7 @@ Ideal for use in a house, garage or shed but equally at home in a school, sports
     Image: https://cdn.shopify.com/s/files/1/2235/8495/products/P1090515_white_f7788626-395a-451b-9518-6c2d25ccb259.jpg?v=1610888408
     Price: £53.60 GBP
 - [3 bike wall mount - vertical storage for any 3 bikes](https://gearhooks.com/products/3-bike-wall-mount-vertical-storage-for-any-3-bikes): Save space with GearHooks’ 3 bike wall mount. Securely store road, mountain, or eBikes vertically without lifting. Easy to install, UK-made, heavy duty and  for life.
-  Updated: 2026-04-06T17:40:57Z
+  Updated: 2026-04-27T13:36:41Z
   Vendor: GearHooks
   Product Type: Cycling
   Availability: Available
@@ -1390,7 +1390,7 @@ Ideal for use in a house, garage or shed but equally at home in a school, sports
     Image: https://cdn.shopify.com/s/files/1/2235/8495/products/P1090535_closer_8e4cedd4-961a-436a-b1f4-b886e6e1db83.jpg?v=1610907207
     Price: £59.60 GBP
 - [4 Bike Wall Rack - space saving wall rack for any 4 bikes](https://gearhooks.com/products/4-bike-wall-rack): 4 Bike Wall Rack - Mount any 4 bikes on your garage or shed wall quickly and easily. For road, mountain, gravel or electric bikes and more. Made in the UK and  for life.
-  Updated: 2026-04-12T15:59:37Z
+  Updated: 2026-04-27T13:36:42Z
   Vendor: GearHooks
   Product Type: Cycling
   Availability: Available
@@ -1428,7 +1428,7 @@ Ideal for use in a house, garage or shed but equally at home in a school, sports
     Image: https://cdn.shopify.com/s/files/1/2235/8495/products/P1090541_closer_5f761c78-c7a4-4a15-bdff-510dd06379eb.jpg?v=1610908901
     Price: £72.80 GBP
 - [5 Bike Wall Mount - compact bike storage for 5 bikes](https://gearhooks.com/products/5-bike-wall-mount): 5 Bike Wall Mount for road bikes, mountain bikes, ebikes, downhill bikes or any mixture with any size wheels and tyres up to 3”. UK designed and made with a lifetime warranty.
-  Updated: 2026-04-11T07:45:56Z
+  Updated: 2026-04-27T13:36:42Z
   Vendor: GearHooks
   Product Type: Cycling
   Availability: Available
@@ -1492,7 +1492,7 @@ Ideal for use in a house, garage or shed but equally at home in a school, sports
     Availability: Available
     Price: £115.00 GBP
 - [Ukulele wall mounts for schools, colleges and classrooms](https://gearhooks.com/products/ukulele-wall-mount-rack-ideal-for-classrooms): Ukulele wall mounts to store lots of ukuleles in not much space. Ideal for classrooms, studios and home.  to work.  for life. On  now
-  Updated: 2026-04-16T11:16:37Z
+  Updated: 2026-04-28T08:28:57Z
   Vendor: GearHooks Ltd
   Product Type: Music
   Availability: Available
@@ -1562,7 +1562,7 @@ Ideal for use in a house, garage or shed but equally at home in a school, sports
     Image: https://cdn.shopify.com/s/files/1/2235/8495/products/UKE3cropped.jpg?v=1663249551
     Price: £149.00 GBP
 - [Water Sports Rack - storage and drying wall rack](https://gearhooks.com/products/water-sports-rack): Water Sports Rack - The easy way to store all your water sports gear on the wall where it's safe, dry and tidy
-  Updated: 2026-04-13T13:02:55Z
+  Updated: 2026-04-27T13:36:44Z
   Vendor: GearHooks Ltd
   Product Type: water
   Availability: Available
@@ -1616,7 +1616,7 @@ Ideal for use in a house, garage or shed but equally at home in a school, sports
     Availability: Available
     Price: £79.00 GBP
 - [Diving Gear Rack - heavy duty wall storage for diving gear](https://gearhooks.com/products/diving-gear-rack): Diving Gear Rack - Organise all your diving equipment so it's easy to find, quick to put away and make sure it dries properly. Heavy duty. UK Made.  for life.
-  Updated: 2026-04-06T06:27:47Z
+  Updated: 2026-04-27T13:36:44Z
   Vendor: GearHooks Ltd
   Product Type: water
   Availability: Available
@@ -1670,7 +1670,7 @@ Ideal for use in a house, garage or shed but equally at home in a school, sports
     Availability: Available
     Price: £79.00 GBP
 - [Tack Room Storage Rack - Saddle Rack and Tack Storage Hooks](https://gearhooks.com/products/horse-tack-rack-saddle-rack-and-tack-storage-hooks-for-horse-riding-gear): The GearHooks Tack Room Storage Rack has storage space for all your riding gear in one place so its off the floor, can dry out properly, is easy to find and quick to put away.
-  Updated: 2026-02-24T06:25:03Z
+  Updated: 2026-04-27T13:36:45Z
   Vendor: GearHooks Ltd
   Product Type: 
   Availability: Available
@@ -1748,7 +1748,7 @@ Ideal for use in a house, garage or shed but equally at home in a school, sports
     Availability: Available
     Price: £78.08 GBP
 - [Garden Shed Hooks - store loads more tools in the same space!](https://gearhooks.com/products/garden-shed-hooks): Lots of garden tools? Not much space? This is the answer! Heavy Duty storage hooks. Store 1-8 large garden tools per hook. Easy to fit. Lifetime Guarantee.
-  Updated: 2026-04-05T05:37:47Z
+  Updated: 2026-04-27T16:43:38Z
   Vendor: GearHooks Ltd
   Product Type: garden
   Availability: Available
@@ -1766,7 +1766,7 @@ Ideal for use in a house, garage or shed but equally at home in a school, sports
     Availability: Available
     Price: £129.50 GBP
 - [Guitar Hangers - Extra Gearhooks® for Guitars & Instruments](https://gearhooks.com/products/extra-ukulele-hooks-1): Extra hooks to wall mount ukuleles on a GearHooks ukulele rack. If you don't already have a rack take a look at our ukulele wall mount racks.
-  Updated: 2026-04-17T11:11:58Z
+  Updated: 2026-04-27T13:36:46Z
   Vendor: GearHooks Ltd
   Product Type: Music
   Availability: Available
@@ -1784,73 +1784,73 @@ Ideal for use in a house, garage or shed but equally at home in a school, sports
 ## Collections
 
 - [Bike Wall Mounts | UK Quality Hooks, Racks & Hangers | GearHooks](https://gearhooks.com/collections/bike-wall-mounts): Shop UK designed bike wall mounts for road bikes, Mountain Bikes & e-bikes. Space-saving racks for 1–6 bikes. Easy to install & built to last. Shop online today
-  Updated: 2026-04-18T11:10:19Z
+  Updated: 2026-04-28T16:30:11Z
   Total Products: 16
 - [Golf bag and trolley storage rack - wall mounting and space saving](https://gearhooks.com/collections/golf-bag-and-trolley-storage-rack): Organise your garage or locker room with Golf bag and trolley storage racks from GearHooks. Store up to 5 bags plus accessories per rack. Easy to install, strong & space saving
-  Updated: 2026-04-17T11:07:27Z
+  Updated: 2026-04-28T16:30:11Z
   Total Products: 5
 - [Ski Wall Mounts - wall mounted ski storage](https://gearhooks.com/collections/ski-wall-mounts): Ski Wall Mounts save space and keep your skis, poles and helmets organised at home or in a chalet. Keep skis off the floor where they are safe and can drip dry
-  Updated: 2026-04-17T11:21:37Z
+  Updated: 2026-04-28T16:30:11Z
   Total Products: 9
 - [Climbing & Mountaineering Equipment Storage](https://gearhooks.com/collections/gearhooks-climbing-and-mountaineering-storage-racks): Climbing & Mountaineering Equipment Storage - Organise ropes, helmets, harnesses and equipment. Heavy-duty, compact, and built to last.
-  Updated: 2026-04-17T11:07:27Z
+  Updated: 2026-04-28T16:30:11Z
   Total Products: 5
 - [Wall Storage Rack - space saving wall storage](https://gearhooks.com/collections/wall-storage-rack): Store YOUR mixture of bikes, skis, golf equipment, clothes and other gear on a custom built Wall Storage Rack. Keep it all in the minimum space where its clean, dry, out of the way and easy to find.
-  Updated: 2026-04-18T11:10:19Z
+  Updated: 2026-04-28T16:30:11Z
   Total Products: 15
 - [Bike Hooks For Wall Mounting | Wall Mounted Bike Storage Solutions](https://gearhooks.com/collections/gearhooks-storage-racks-and-hooks): Explore versatile bike hooks and wall mounted racks that provide safe space efficient storage for homes sheds or garages designed for simple installation and lasting strength.
-  Updated: 2026-04-19T11:12:53Z
+  Updated: 2026-04-28T11:11:20Z
   Total Products: 18
 - [Snowboard Wall Mounts and Racks - space saving snowboard storage](https://gearhooks.com/collections/snowboard-wall-mounts): Save space with wall-mounted snowboard wall mounts from GearHooks®. Store multiple snowboards per hook and rack. Strong, simple, and made in the UK - ships worldwide.
-  Updated: 2026-04-17T11:14:18Z
+  Updated: 2026-04-28T16:30:11Z
   Total Products: 6
 - [Wall-Mounted Skateboard Storage & Display Racks | GearHooks](https://gearhooks.com/collections/gearhooks-skateboard-storage-and-display-racks): Display or store your skateboards with GearHooks wall-mounted skateboard racks. Holds longboards, cruisers and more - strong, space-saving, and easy to fit.
-  Updated: 2026-04-19T11:12:53Z
+  Updated: 2026-04-28T16:30:12Z
   Total Products: 5
 - [Guitar wall mounts | Hooks & Racks | GearHooks](https://gearhooks.com/collections/gearhooks-guitar-and-musical-instruments-storage-rack): Guitar wall mounts - Show your instruments with style with our guitar and ukulele wall mounts. Our premium hooks and racks provide a secure display. Transform your music room.
-  Updated: 2026-04-17T11:22:29Z
+  Updated: 2026-04-28T16:30:12Z
   Total Products: 5
 - [Fishing Rod Hangers and Tackle Storage Racks | GearHooks Ltd](https://gearhooks.com/collections/fishing-equipment-storage-racks): Keep your rods, tackle, reels and more all stored away safely and where it can dry out properly. See our website for more information.
-  Updated: 2026-04-17T11:07:27Z
+  Updated: 2026-04-28T11:11:20Z
   Total Products: 5
 - [New Products - Coming soon | GearHooks Ltd.](https://gearhooks.com/collections/coming-soon): Subscribe to our mailing list to be the first to get new product details.
   Updated: 2026-02-20T17:51:41Z
   Total Products: 0
 - [Garden Tool Hooks | UK Wall Mounted Tool Organisers |GearHooks](https://gearhooks.com/collections/garden-tool-hooks): Garden Tool Hooks - Wall-mounted garden tool storage racks for sheds and garages. Built in the UK. Free delivery over £100. Shop GearHooks today.
-  Updated: 2026-04-17T11:07:27Z
+  Updated: 2026-04-28T16:30:12Z
   Total Products: 6
 - [Garage Wall Hooks to get everything organised and save space](https://gearhooks.com/collections/garage-wall-racks-collection): Garage Wall Hooks are the simple way to organise everything in your garage quickly and easily using space you already have, but probably don't use effectively - the walls. Low cost solutions!
-  Updated: 2026-04-19T11:12:53Z
+  Updated: 2026-04-28T16:30:12Z
   Total Products: 17
 - [Extra GearHooks and Storage Rails - expand your rack or build a new one](https://gearhooks.com/collections/extra-gearhooks-and-storage-rails): Extra GearHooks and Storage Rails add more storage options across walls in your home shed or garage. Expand and existing rack or build a new one
-  Updated: 2026-04-17T11:07:27Z
+  Updated: 2026-04-28T16:30:12Z
   Total Products: 2
 - [Sports Equipment Storage Racks | Wall mounted hooks and racks](https://gearhooks.com/collections/sports-equipment-storage): Sports equipment storage - organise all your sports gear with GearHooks® wall-mounted racks. Store balls, bats, helmets, and more. Strong, space-saving storage for home or club use. Shop now
-  Updated: 2026-04-19T11:12:53Z
+  Updated: 2026-04-28T16:30:12Z
   Total Products: 14
 - [Water Sports Storage - Wall Mounted Racks | GearHooks](https://gearhooks.com/collections/wall-mounted-water-sports-storage-rack): Water Sports Storage - Organise wetsuits, paddles, life jackets and more with GearHooks® water sports wall storage racks. Heavy-duty, wall-mounted systems for efficient gear storage.
-  Updated: 2026-04-17T11:07:27Z
+  Updated: 2026-04-28T16:30:12Z
   Total Products: 4
 - [Horse Tack Storage Rack - keep all your gear organised, clean and dry](https://gearhooks.com/collections/horse-tack-storage-rack): Our Horse Tack Storage Rack will keep all your riding gear tidy, clean and dry. It's a simple and effective way to store it in a stable, tack room shed or even your garage.
-  Updated: 2026-04-17T11:07:27Z
+  Updated: 2026-04-28T16:30:12Z
   Total Products: 3
 - [Road Bike Wall Mounts](https://gearhooks.com/collections/road-bike-wall-mount): Road Bike Wall Mounts - Efficient Storage Solutions for Your Road Bikes Our Road Bike Wall Mounts are designed to provide efficient, space-saving storage for your road bikes, whether you’re looking to store a single bike or multiple bikes securely and conveniently. Why Choose GearHooks for Your Road Bike Wall Mounts? Our Road Bike Wall Mounts that are Guaranted for life At GearHooks, we pride ourselves on offering UK-designed and manufactured bike wallmounts that are built to last. Made from high-quality materials, our mounts aremade from galvanised steel, and the rails are powder coated, making them completely rust-proof. They can support a wide range of bike sizes and types, including roadbikes, mountain bikes, and e-bikes. Our Road Bike Wall Mounts are really easy to fit (just 1-3 holes to drill)Our bike wall mounts are designed for easy installation. With just a single 8mm holeneeded for a single mount and three holes for racks holding up to five bikes, setting upyour bike storage is quick and hassle-free. The clear instructions ensure that you canhave your bike securely mounted in no time. Space-Saving and Versatile: By mounting your road bikes on the wall, you free up valuable floor space, making yourgarage, shed, apartment, or office look neater and more organized. Our mounts hold the bike upright with the back wheel still on the ground, eliminating the need for lifting heavy bikes. This is particularly useful for mountain bikes or e-bikes. We also make horizontal Road Bike Wall Mounts to turn a single road bike into a work of art. Wide Compatibility:GearHooks bike mounts can accommodate any bike type and size, from children'sbikes to XL bikes, and any wheel size from 26" to 700c. Our mounts support all standardtire sizes, ensuring that whatever bike you own, it will fit securely. Road Bike Wall Mount Products Single Road Bike Wall Mounts Ideal for individual bike storage, perfect for small spaces. Multi Road Bike Wall Mounts Available in various configurations to hold up to six bikes, perfect for families or avid cyclists with multiple bikes. Horizontal Road Bike Wall Mounts Accessory Hooks: Additional hooks for helmets, backpacks, tools, and more, helpingyou keep all your cycling gear in one place. Customer Satisfaction GuaranteeWe stand by the quality of our products. GearHooks offers a money-back guarantee ifyou are not completely satisfied with your purchase. Every product also comes with an unconditional Lifetime Guarantee. Our products are highly rated by customers for their strength, ease of installation, and practicality. Reviews and TestimonialsCustomers love our products! We have over 900 5 star reviews. Sportive.com praised the B1 bike hook for its ease of installation and value for money. Many of our customers have returned to purchase more hooks and racks, highlighting the durability and convenience of our storagesolutions. ConclusionInvest in a GearHooks Road Bike Wall Mount today and transform your bike storageexperience. Our innovative designs and commitment to quality ensure that your bikesare stored safely and efficiently, freeing up space and keeping your bikes in pristinecondition. Explore our range of bike wall mounts and find the perfect solution for your road bikes.With GearHooks, making space and saving time has never been easier
-  Updated: 2026-04-18T11:10:19Z
+  Updated: 2026-04-27T11:11:30Z
   Total Products: 14
 - [Road Bike Wall Mounts - the space saving way to store road bikes](https://gearhooks.com/collections/road-bike-wall-mounts): Road Bike Wall Mounts keep your road bike safe and accessible. Save space by storing your road bike on the wall in a garage, shed, living room or workspace.
-  Updated: 2026-04-18T11:10:19Z
+  Updated: 2026-04-28T16:30:12Z
   Total Products: 17
 - [Mountain Bike Wall Mounts | Heavy-Duty Wall Racks and hooks](https://gearhooks.com/collections/mountain-bike-wall-mounts): Mountain bike wall mounts. Sturdy wall mounted storage designed for wide tyres, tough frames and convenient access while keeping your floor space clear and clutter free.
-  Updated: 2026-04-18T11:10:19Z
+  Updated: 2026-04-28T16:30:12Z
   Total Products: 14
 - [Gravel Bike Wall Mount | Strong and Secure Vertical Bike Storage](https://gearhooks.com/collections/gravel-bike-wall-mount): Looking for a gravel bike wall mount for your garage, shed or indoor space? At GearHooks, we design heavy-duty wall mounts that make it easy to hang your bike securely and save floor space
-  Updated: 2026-04-18T11:10:19Z
+  Updated: 2026-04-28T16:30:12Z
   Total Products: 17
 - [eBike Wall Mount | Heavy-Duty Storage for Your Electric Bike](https://gearhooks.com/collections/ebike-wall-mount): Hang your ebike on the wall - without lifting - on our ebike wall mount. Easy to use with no lifting. Works on weak walls. Easy to fit in just a few minutes
-  Updated: 2026-04-18T11:10:19Z
+  Updated: 2026-04-28T16:30:12Z
   Total Products: 11
 - [Ukulele wall hangers - store more ukuleles in less space](https://gearhooks.com/collections/ukulele-wall-hangers-ideal-for-schools-and-colleges): Ukulele wall hangers allow you to store a lot of ukuleles quickly and easily. If you want to store a lot of ukuleles but don't have much space - this is the solution.
-  Updated: 2026-04-17T11:11:59Z
+  Updated: 2026-04-28T16:30:12Z
   Total Products: 2
 
 ## Blogs
