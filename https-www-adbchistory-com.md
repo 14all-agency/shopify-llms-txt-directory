@@ -8,378 +8,360 @@
 - Timezone: Australia/Melbourne
 - Created At: 2024-05-15T10:02:41Z
 - Contact Email: hello@adbchistory.com
-- Updated At: 2026-04-23T16:00:25.785Z
+- Updated At: 2026-04-30T16:00:26.075Z
 
 ## Products
 
-- [Anubis, God of the Dead - iPhone Magnetic Phone Case | AD/BC](https://www.adbchistory.com/products/anubis-god-of-the-dead-iphone-magnetic-phone-case): Anubis guarding the entrance to the underworld, golden eyes and crook and flail. Tough dual-layer MagSafe case. For the person in your life who never flinches.
-  Updated: 2026-04-23T13:01:25Z
-  Vendor: Printify
+- [Athena, Greek Goddess of Wisdom - iPhone Magnetic Phone Case | AD/BC](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case): Athena commanding a war room, aegis across her chest, owl watching from above. Tough dual-layer MagSafe protection. For those already three moves ahead.
+  Updated: 2026-04-30T14:44:40Z
+  Vendor: AD/BC
   Product Type: Phone Case
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/3457831899541104752_2048.jpg?v=1776520599
-  - [iPhone 17](https://www.adbchistory.com/products/anubis-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487520989)
+  Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/18059424515678262482_2048.jpg?v=1777374965
+  - [iPhone 17](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871518429)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/135899979078610188_2048.jpg?v=1776520650
-    Price: $40.00 AUD
-  - [iPhone 17 Air](https://www.adbchistory.com/products/anubis-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487553757)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/18362075031111812932_2048.jpg?v=1777374984
+    Price: $50.00 AUD
+  - [iPhone 17 Air](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871551197)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/6999646208252224110_2048.jpg?v=1776520654
-    Price: $40.00 AUD
-  - [iPhone 17 Pro](https://www.adbchistory.com/products/anubis-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487586525)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/11465882325013732845_2048.jpg?v=1777374984
+    Price: $50.00 AUD
+  - [iPhone 17 Pro](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871583965)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/7236310638850462675_2048.jpg?v=1776520658
-    Price: $40.00 AUD
-  - [iPhone 17 Pro Max](https://www.adbchistory.com/products/anubis-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487619293)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/6352460789954759968_2048.jpg?v=1777374985
+    Price: $50.00 AUD
+  - [iPhone 17 Pro Max](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871616733)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/2819514434224780756_2048.jpg?v=1776520662
-    Price: $40.00 AUD
-  - [iPhone 16](https://www.adbchistory.com/products/anubis-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487652061)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/6083546099473841904_2048.jpg?v=1777374986
+    Price: $50.00 AUD
+  - [iPhone 16](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871649501)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/6987421937652526901_2048.jpg?v=1776520641
-    Price: $40.00 AUD
-  - [iPhone 16 Pro](https://www.adbchistory.com/products/anubis-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487684829)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/18409760503973363135_2048.jpg?v=1777374981
+    Price: $50.00 AUD
+  - [iPhone 16 Pro](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871682269)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/3425705941878211230_2048.jpg?v=1776520637
-    Price: $40.00 AUD
-  - [iPhone 16 Pro Max](https://www.adbchistory.com/products/anubis-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487717597)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/8903698446849553560_2048.jpg?v=1777374977
+    Price: $50.00 AUD
+  - [iPhone 16 Pro Max](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871715037)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/3457831899541104752_2048.jpg?v=1776520599
-    Price: $40.00 AUD
-  - [iPhone 16 Plus](https://www.adbchistory.com/products/anubis-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487750365)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/8454770405284732064_2048.jpg?v=1777374979
+    Price: $50.00 AUD
+  - [iPhone 16 Plus](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871747805)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/17815335073509805803_2048.jpg?v=1776520645
-    Price: $40.00 AUD
-  - [iPhone 15](https://www.adbchistory.com/products/anubis-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487783133)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/11826235268398692122_2048.jpg?v=1777374982
+    Price: $50.00 AUD
+  - [iPhone 15](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871780573)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/15801344669256775161_2048.jpg?v=1776520603
-    Price: $40.00 AUD
-  - [iPhone 15 Pro](https://www.adbchistory.com/products/anubis-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487815901)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/18059424515678262482_2048.jpg?v=1777374965
+    Price: $50.00 AUD
+  - [iPhone 15 Pro](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871813341)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/10915652789336303894_2048.jpg?v=1776520609
-    Price: $40.00 AUD
-  - [iPhone 15 Pro Max](https://www.adbchistory.com/products/anubis-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487848669)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/5172598737535223150_2048.jpg?v=1777374965
+    Price: $50.00 AUD
+  - [iPhone 15 Pro Max](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871846109)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/13977769799607397978_2048.jpg?v=1776520617
-    Price: $40.00 AUD
-  - [iPhone 15 Plus](https://www.adbchistory.com/products/anubis-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487881437)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/10295032185806646266_2048.jpg?v=1777374969
+    Price: $50.00 AUD
+  - [iPhone 15 Plus](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871878877)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/243204540277705377_2048.jpg?v=1776520613
-    Price: $40.00 AUD
-  - [iPhone 14](https://www.adbchistory.com/products/anubis-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487914205)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/710833483619380545_2048.jpg?v=1777374967
+    Price: $50.00 AUD
+  - [iPhone 14](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871911645)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/13590965804316362219_2048.jpg?v=1776520619
-    Price: $40.00 AUD
-  - [iPhone 14 Pro](https://www.adbchistory.com/products/anubis-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487946973)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/14752250250004933677_2048.jpg?v=1777374970
+    Price: $50.00 AUD
+  - [iPhone 14 Pro](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871944413)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/5481841280493910596_2048.jpg?v=1776520625
-    Price: $40.00 AUD
-  - [iPhone 14 Pro Max](https://www.adbchistory.com/products/anubis-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487979741)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/11059548165605038233_2048.jpg?v=1777374972
+    Price: $50.00 AUD
+  - [iPhone 14 Pro Max](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871977181)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/17427658666265389642_2048.jpg?v=1776520633
-    Price: $40.00 AUD
-  - [iPhone 14 Plus](https://www.adbchistory.com/products/anubis-god-of-the-dead-iphone-magnetic-phone-case?variant=47687488012509)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/3227837936856170368_2048.jpg?v=1777374975
+    Price: $50.00 AUD
+  - [iPhone 14 Plus](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672872009949)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/6458859915389207124_2048.jpg?v=1776520629
-    Price: $40.00 AUD
-  - [iPhone 13](https://www.adbchistory.com/products/anubis-god-of-the-dead-iphone-magnetic-phone-case?variant=47687488045277)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/5398838044342067817_2048.jpg?v=1777374974
+    Price: $50.00 AUD
+  - [iPhone 13](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672872042717)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/6020400287602492460_2048.jpg?v=1776520666
-    Price: $40.00 AUD
-  - [iPhone 13 Pro](https://www.adbchistory.com/products/anubis-god-of-the-dead-iphone-magnetic-phone-case?variant=47687488078045)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/15054166323500142034_2048.jpg?v=1777374987
+    Price: $50.00 AUD
+  - [iPhone 13 Pro](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672872075485)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/18434067656245659862_2048.jpg?v=1776520671
-    Price: $40.00 AUD
-  - [iPhone 13 Pro Max](https://www.adbchistory.com/products/anubis-god-of-the-dead-iphone-magnetic-phone-case?variant=47687488110813)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/7312446337867210291_2048.jpg?v=1777374988
+    Price: $50.00 AUD
+  - [iPhone 13 Pro Max](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672872108253)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/15173768004263998404_2048.jpg?v=1776520674
-    Price: $40.00 AUD
-- [Odin, the Allfather - iPhone Magnetic Phone Case | AD/BC](https://www.adbchistory.com/products/odin-the-allfather-iphone-magnetic-phone-case): Odin seated on Hlidskjalf, Gungnir across his knees, one eye watching nine worlds. Tough dual-layer MagSafe case. For the ones who know knowledge comes at a price.
-  Updated: 2026-04-23T13:01:27Z
-  Vendor: Printify
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/15319559103615796993_2048.jpg?v=1777374989
+    Price: $50.00 AUD
+- [Anubis, Egyptian God of the Dead - iPhone Magnetic Phone Case | AD/BC](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case): Anubis guarding the entrance to the underworld, golden eyes and crook and flail. Tough dual-layer MagSafe case. For the person in your life who never flinches.
+  Updated: 2026-04-30T14:44:40Z
+  Vendor: AD/BC
   Product Type: Phone Case
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/10169743444612978864_2048.jpg?v=1776520331
-  - [iPhone 17](https://www.adbchistory.com/products/odin-the-allfather-iphone-magnetic-phone-case?variant=47687681376477)
+  Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/9663942460015745749_2048.jpg?v=1777374149
+  - [iPhone 17](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487520989)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/17007915669079647549_2048.jpg?v=1776520381
-    Price: $40.00 AUD
-  - [iPhone 17 Air](https://www.adbchistory.com/products/odin-the-allfather-iphone-magnetic-phone-case?variant=47687681409245)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/9915821600904965149_2048.jpg?v=1777374203
+    Price: $50.00 AUD
+  - [iPhone 17 Air](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487553757)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/4580659852801497425_2048.jpg?v=1776520386
-    Price: $40.00 AUD
-  - [iPhone 17 Pro](https://www.adbchistory.com/products/odin-the-allfather-iphone-magnetic-phone-case?variant=47687681442013)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/8765169935263681446_2048.jpg?v=1777374207
+    Price: $50.00 AUD
+  - [iPhone 17 Pro](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487586525)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/866073703111701351_2048.jpg?v=1776520390
-    Price: $40.00 AUD
-  - [iPhone 17 Pro Max](https://www.adbchistory.com/products/odin-the-allfather-iphone-magnetic-phone-case?variant=47687681474781)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/14038162079419891547_2048.jpg?v=1777374210
+    Price: $50.00 AUD
+  - [iPhone 17 Pro Max](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487619293)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/1679434264558881079_2048.jpg?v=1776520397
-    Price: $40.00 AUD
-  - [iPhone 16](https://www.adbchistory.com/products/odin-the-allfather-iphone-magnetic-phone-case?variant=47687681507549)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/3328417393155691289_2048.jpg?v=1777374214
+    Price: $50.00 AUD
+  - [iPhone 16](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487652061)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/5907786319232577411_2048.jpg?v=1776520372
-    Price: $40.00 AUD
-  - [iPhone 16 Pro](https://www.adbchistory.com/products/odin-the-allfather-iphone-magnetic-phone-case?variant=47687681540317)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/12826107085636837167_2048.jpg?v=1777374194
+    Price: $50.00 AUD
+  - [iPhone 16 Pro](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487684829)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/12682954234556489646_2048.jpg?v=1776520369
-    Price: $40.00 AUD
-  - [iPhone 16 Pro Max](https://www.adbchistory.com/products/odin-the-allfather-iphone-magnetic-phone-case?variant=47687681573085)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/4059829999904765371_2048.jpg?v=1777374190
+    Price: $50.00 AUD
+  - [iPhone 16 Pro Max](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487717597)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/10169743444612978864_2048.jpg?v=1776520331
-    Price: $40.00 AUD
-  - [iPhone 16 Plus](https://www.adbchistory.com/products/odin-the-allfather-iphone-magnetic-phone-case?variant=47687681605853)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/9663942460015745749_2048.jpg?v=1777374149
+    Price: $50.00 AUD
+  - [iPhone 16 Plus](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487750365)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/5025296066121746554_2048.jpg?v=1776520377
-    Price: $40.00 AUD
-  - [iPhone 15](https://www.adbchistory.com/products/odin-the-allfather-iphone-magnetic-phone-case?variant=47687681638621)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/10394268775187327043_2048.jpg?v=1777374198
+    Price: $50.00 AUD
+  - [iPhone 15](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487783133)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/18369218971076772781_2048.jpg?v=1776520337
-    Price: $40.00 AUD
-  - [iPhone 15 Pro](https://www.adbchistory.com/products/odin-the-allfather-iphone-magnetic-phone-case?variant=47687681671389)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/8448842418511561178_2048.jpg?v=1777374153
+    Price: $50.00 AUD
+  - [iPhone 15 Pro](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487815901)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/8949994803505057064_2048.jpg?v=1776520340
-    Price: $40.00 AUD
-  - [iPhone 15 Pro Max](https://www.adbchistory.com/products/odin-the-allfather-iphone-magnetic-phone-case?variant=47687681704157)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/1527993856131578158_2048.jpg?v=1777374156
+    Price: $50.00 AUD
+  - [iPhone 15 Pro Max](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487848669)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/5749163015708767342_2048.jpg?v=1776520348
-    Price: $40.00 AUD
-  - [iPhone 15 Plus](https://www.adbchistory.com/products/odin-the-allfather-iphone-magnetic-phone-case?variant=47687681736925)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/11391441850376360796_2048.jpg?v=1777374165
+    Price: $50.00 AUD
+  - [iPhone 15 Plus](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487881437)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/3671050818093276650_2048.jpg?v=1776520345
-    Price: $40.00 AUD
-  - [iPhone 14](https://www.adbchistory.com/products/odin-the-allfather-iphone-magnetic-phone-case?variant=47687681769693)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/15868698851653035055_2048.jpg?v=1777374160
+    Price: $50.00 AUD
+  - [iPhone 14](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487914205)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/3294842975547649391_2048.jpg?v=1776520352
-    Price: $40.00 AUD
-  - [iPhone 14 Pro](https://www.adbchistory.com/products/odin-the-allfather-iphone-magnetic-phone-case?variant=47687681802461)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/15597086529066116005_2048.jpg?v=1777374169
+    Price: $50.00 AUD
+  - [iPhone 14 Pro](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487946973)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/530520803388435331_2048.jpg?v=1776520357
-    Price: $40.00 AUD
-  - [iPhone 14 Pro Max](https://www.adbchistory.com/products/odin-the-allfather-iphone-magnetic-phone-case?variant=47687681835229)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/17321466249031673140_2048.jpg?v=1777374174
+    Price: $50.00 AUD
+  - [iPhone 14 Pro Max](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487979741)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/6099044412500140280_2048.jpg?v=1776520365
-    Price: $40.00 AUD
-  - [iPhone 14 Plus](https://www.adbchistory.com/products/odin-the-allfather-iphone-magnetic-phone-case?variant=47687681867997)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/14787403351793689403_2048.jpg?v=1777374184
+    Price: $50.00 AUD
+  - [iPhone 14 Plus](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687488012509)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/5377972557194118465_2048.jpg?v=1776520362
-    Price: $40.00 AUD
-  - [iPhone 13](https://www.adbchistory.com/products/odin-the-allfather-iphone-magnetic-phone-case?variant=47687681900765)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/12318327653653618404_2048.jpg?v=1777374179
+    Price: $50.00 AUD
+  - [iPhone 13](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687488045277)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/13617095645115844199_2048.jpg?v=1776520400
-    Price: $40.00 AUD
-  - [iPhone 13 Pro](https://www.adbchistory.com/products/odin-the-allfather-iphone-magnetic-phone-case?variant=47687681933533)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/17545120556210973163_2048.jpg?v=1777374218
+    Price: $50.00 AUD
+  - [iPhone 13 Pro](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687488078045)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/10315002754065770138_2048.jpg?v=1776520405
-    Price: $40.00 AUD
-  - [iPhone 13 Pro Max](https://www.adbchistory.com/products/odin-the-allfather-iphone-magnetic-phone-case?variant=47687681966301)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/274109976281758823_2048.jpg?v=1777374222
+    Price: $50.00 AUD
+  - [iPhone 13 Pro Max](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687488110813)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/9789767686813403867_2048.jpg?v=1776520407
-    Price: $40.00 AUD
-- [Artemis, Goddess of the Hunt - iPhone Magnetic Phone Case | AD/BC](https://www.adbchistory.com/products/artemis-goddess-of-the-hunt-iphone-magnetic-phone-case): Artemis in the moonlit wilderness with her hunting hounds. Tough dual-layer protection with MagSafe wireless charging. For the one who answers to nobody.
-  Updated: 2026-04-23T13:01:29Z
-  Vendor: Printify
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/9959157476249179270_2048.jpg?v=1777374227
+    Price: $50.00 AUD
+- [Odin, the Viking Allfather - iPhone Magnetic Phone Case | AD/BC](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case): Odin seated on Hlidskjalf, Gungnir across his knees, one eye watching nine worlds. Tough dual-layer MagSafe case. For the ones who know knowledge comes at a price.
+  Updated: 2026-04-30T14:44:41Z
+  Vendor: AD/BC
   Product Type: Phone Case
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/6521836112101010442_2048.jpg?v=1776520872
-  - [iPhone 17](https://www.adbchistory.com/products/artemis-goddess-of-the-hunt-iphone-magnetic-phone-case?variant=47689420669149)
+  Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/16955820863407287304_2048.jpg?v=1777374419
+  - [iPhone 17](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681376477)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/9709160838982840997_2048.jpg?v=1776520930
-    Price: $40.00 AUD
-  - [iPhone 17 Air](https://www.adbchistory.com/products/artemis-goddess-of-the-hunt-iphone-magnetic-phone-case?variant=47689420701917)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/15915190916686297136_2048.jpg?v=1777374474
+    Price: $50.00 AUD
+  - [iPhone 17 Air](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681409245)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/11713979051658573670_2048.jpg?v=1776520937
-    Price: $40.00 AUD
-  - [iPhone 17 Pro](https://www.adbchistory.com/products/artemis-goddess-of-the-hunt-iphone-magnetic-phone-case?variant=47689420734685)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/10692656148948700978_2048.jpg?v=1777374477
+    Price: $50.00 AUD
+  - [iPhone 17 Pro](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681442013)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/1481704483362674348_2048.jpg?v=1776520942
-    Price: $40.00 AUD
-  - [iPhone 17 Pro Max](https://www.adbchistory.com/products/artemis-goddess-of-the-hunt-iphone-magnetic-phone-case?variant=47689420767453)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/1870944370179415020_2048.jpg?v=1777374481
+    Price: $50.00 AUD
+  - [iPhone 17 Pro Max](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681474781)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/10914883578022928215_2048.jpg?v=1776520949
-    Price: $40.00 AUD
-  - [iPhone 16](https://www.adbchistory.com/products/artemis-goddess-of-the-hunt-iphone-magnetic-phone-case?variant=47689420800221)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/5035420906956936888_2048.jpg?v=1777374485
+    Price: $50.00 AUD
+  - [iPhone 16](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681507549)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/18323541670023177256_2048.jpg?v=1776520921
-    Price: $40.00 AUD
-  - [iPhone 16 Pro](https://www.adbchistory.com/products/artemis-goddess-of-the-hunt-iphone-magnetic-phone-case?variant=47689420832989)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/4464921325372174053_2048.jpg?v=1777374465
+    Price: $50.00 AUD
+  - [iPhone 16 Pro](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681540317)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/10188567124037444581_2048.jpg?v=1776520913
-    Price: $40.00 AUD
-  - [iPhone 16 Pro Max](https://www.adbchistory.com/products/artemis-goddess-of-the-hunt-iphone-magnetic-phone-case?variant=47689420865757)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/15661118960520464096_2048.jpg?v=1777374461
+    Price: $50.00 AUD
+  - [iPhone 16 Pro Max](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681573085)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/5227923244137055306_2048.jpg?v=1776520917
-    Price: $40.00 AUD
-  - [iPhone 16 Plus](https://www.adbchistory.com/products/artemis-goddess-of-the-hunt-iphone-magnetic-phone-case?variant=47689420898525)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/16955820863407287304_2048.jpg?v=1777374419
+    Price: $50.00 AUD
+  - [iPhone 16 Plus](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681605853)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/12365829387143843026_2048.jpg?v=1776520926
-    Price: $40.00 AUD
-  - [iPhone 15](https://www.adbchistory.com/products/artemis-goddess-of-the-hunt-iphone-magnetic-phone-case?variant=47689420931293)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/4989739704050649138_2048.jpg?v=1777374470
+    Price: $50.00 AUD
+  - [iPhone 15](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681638621)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/6521836112101010442_2048.jpg?v=1776520872
-    Price: $40.00 AUD
-  - [iPhone 15 Pro](https://www.adbchistory.com/products/artemis-goddess-of-the-hunt-iphone-magnetic-phone-case?variant=47689420964061)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/1082253216713155847_2048.jpg?v=1777374426
+    Price: $50.00 AUD
+  - [iPhone 15 Pro](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681671389)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/9885661578374300519_2048.jpg?v=1776520878
-    Price: $40.00 AUD
-  - [iPhone 15 Pro Max](https://www.adbchistory.com/products/artemis-goddess-of-the-hunt-iphone-magnetic-phone-case?variant=47689420996829)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/5732393657193970468_2048.jpg?v=1777374431
+    Price: $50.00 AUD
+  - [iPhone 15 Pro Max](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681704157)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/10298825659523558783_2048.jpg?v=1776520889
-    Price: $40.00 AUD
-  - [iPhone 15 Plus](https://www.adbchistory.com/products/artemis-goddess-of-the-hunt-iphone-magnetic-phone-case?variant=47689421029597)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/16541730774042949938_2048.jpg?v=1777374440
+    Price: $50.00 AUD
+  - [iPhone 15 Plus](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681736925)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/5179258754660279402_2048.jpg?v=1776520883
-    Price: $40.00 AUD
-  - [iPhone 14](https://www.adbchistory.com/products/artemis-goddess-of-the-hunt-iphone-magnetic-phone-case?variant=47689421062365)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/2114626116896830185_2048.jpg?v=1777374435
+    Price: $50.00 AUD
+  - [iPhone 14](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681769693)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/10088772826443622569_2048.jpg?v=1776520894
-    Price: $40.00 AUD
-  - [iPhone 14 Pro](https://www.adbchistory.com/products/artemis-goddess-of-the-hunt-iphone-magnetic-phone-case?variant=47689421095133)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/807816849752314882_2048.jpg?v=1777374444
+    Price: $50.00 AUD
+  - [iPhone 14 Pro](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681802461)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/16420705416568508906_2048.jpg?v=1776520901
-    Price: $40.00 AUD
-  - [iPhone 14 Pro Max](https://www.adbchistory.com/products/artemis-goddess-of-the-hunt-iphone-magnetic-phone-case?variant=47689421127901)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/6112087308591466252_2048.jpg?v=1777374448
+    Price: $50.00 AUD
+  - [iPhone 14 Pro Max](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681835229)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/16407157671917659358_2048.jpg?v=1776520909
-    Price: $40.00 AUD
-  - [iPhone 14 Plus](https://www.adbchistory.com/products/artemis-goddess-of-the-hunt-iphone-magnetic-phone-case?variant=47689421160669)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/17722127112028334949_2048.jpg?v=1777374457
+    Price: $50.00 AUD
+  - [iPhone 14 Plus](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681867997)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/1316482758493280290_2048.jpg?v=1776520905
-    Price: $40.00 AUD
-  - [iPhone 13](https://www.adbchistory.com/products/artemis-goddess-of-the-hunt-iphone-magnetic-phone-case?variant=47689421193437)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/6424560119675010434_2048.jpg?v=1777374452
+    Price: $50.00 AUD
+  - [iPhone 13](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681900765)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/5980579823308623411_2048.jpg?v=1776520959
-    Price: $40.00 AUD
-  - [iPhone 13 Pro](https://www.adbchistory.com/products/artemis-goddess-of-the-hunt-iphone-magnetic-phone-case?variant=47689421226205)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/10037057361557837817_2048.jpg?v=1777374489
+    Price: $50.00 AUD
+  - [iPhone 13 Pro](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681933533)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/1356283744544067357_2048.jpg?v=1776520963
-    Price: $40.00 AUD
-  - [iPhone 13 Pro Max](https://www.adbchistory.com/products/artemis-goddess-of-the-hunt-iphone-magnetic-phone-case?variant=47689421258973)
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/11780835365436236984_2048.jpg?v=1777374493
+    Price: $50.00 AUD
+  - [iPhone 13 Pro Max](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681966301)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/18157231685955795301_2048.jpg?v=1776520966
-    Price: $40.00 AUD
-- [Apollo, Greek God of Music - iPhone Magnetic Phone Case | AD/BC](https://www.adbchistory.com/products/apollo-god-of-music-iphone-magnetic-phone-case): Apollo plays his kithara on the temple steps at Delphi. Rustic oil painting design on a tough dual-layer MagSafe iPhone case. For the talented artist in your life.
-  Updated: 2026-04-23T13:54:25Z
-  Vendor: Printify
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/8141489103507090589_2048.jpg?v=1777374497
+    Price: $50.00 AUD
+- [Apollo, Greek God of Music - iPhone Magnetic Phone Case | AD/BC](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case): Apollo plays his kithara on the temple steps at Delphi. Rustic oil painting design on a tough dual-layer MagSafe iPhone case. For the talented artist in your life.
+  Updated: 2026-04-30T14:44:41Z
+  Vendor: AD/BC
   Product Type: Phone Case
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/8036252306474423446_2048.jpg?v=1776952371
-  - [iPhone 17](https://www.adbchistory.com/products/apollo-god-of-music-iphone-magnetic-phone-case?variant=47694545289437)
+  Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/Carousel-Apollo1.webp?v=1777391514
+  - [iPhone 17](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545289437)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/12602297791189795161_2048.jpg?v=1776952396
-    Price: $40.00 AUD
-  - [iPhone 17 Air](https://www.adbchistory.com/products/apollo-god-of-music-iphone-magnetic-phone-case?variant=47694545322205)
+    Price: $50.00 AUD
+  - [iPhone 17 Air](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545322205)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/6559590301264885674_2048.jpg?v=1776952397
-    Price: $40.00 AUD
-  - [iPhone 17 Pro](https://www.adbchistory.com/products/apollo-god-of-music-iphone-magnetic-phone-case?variant=47694545354973)
+    Price: $50.00 AUD
+  - [iPhone 17 Pro](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545354973)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/6681430184416907785_2048.jpg?v=1776952399
-    Price: $40.00 AUD
-  - [iPhone 17 Pro Max](https://www.adbchistory.com/products/apollo-god-of-music-iphone-magnetic-phone-case?variant=47694545387741)
+    Price: $50.00 AUD
+  - [iPhone 17 Pro Max](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545387741)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/6513001364677440619_2048.jpg?v=1776952401
-    Price: $40.00 AUD
-  - [iPhone 16](https://www.adbchistory.com/products/apollo-god-of-music-iphone-magnetic-phone-case?variant=47694545420509)
+    Price: $50.00 AUD
+  - [iPhone 16](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545420509)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/7126941855960760014_2048.jpg?v=1776952391
-    Price: $40.00 AUD
-  - [iPhone 16 Plus](https://www.adbchistory.com/products/apollo-god-of-music-iphone-magnetic-phone-case?variant=47694545518813)
+    Price: $50.00 AUD
+  - [iPhone 16 Plus](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545518813)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/15834683196831912286_2048.jpg?v=1776952394
-    Price: $40.00 AUD
-  - [iPhone 16 Pro Max](https://www.adbchistory.com/products/apollo-god-of-music-iphone-magnetic-phone-case?variant=47694545486045)
+    Price: $50.00 AUD
+  - [iPhone 16 Pro Max](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545486045)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/8036252306474423446_2048.jpg?v=1776952371
-    Price: $40.00 AUD
-  - [iPhone 15](https://www.adbchistory.com/products/apollo-god-of-music-iphone-magnetic-phone-case?variant=47694545551581)
+    Price: $50.00 AUD
+  - [iPhone 15](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545551581)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/3544837071427477712_2048.jpg?v=1776952373
-    Price: $40.00 AUD
-  - [iPhone 15 Plus](https://www.adbchistory.com/products/apollo-god-of-music-iphone-magnetic-phone-case?variant=47694545649885)
+    Price: $50.00 AUD
+  - [iPhone 15 Plus](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545649885)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/10861325090206648776_2048.jpg?v=1776952378
-    Price: $40.00 AUD
-  - [iPhone 15 Pro](https://www.adbchistory.com/products/apollo-god-of-music-iphone-magnetic-phone-case?variant=47694545584349)
+    Price: $50.00 AUD
+  - [iPhone 15 Pro](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545584349)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/14626553161151654442_2048.jpg?v=1776952375
-    Price: $40.00 AUD
-  - [iPhone 15 Pro Max](https://www.adbchistory.com/products/apollo-god-of-music-iphone-magnetic-phone-case?variant=47694545617117)
+    Price: $50.00 AUD
+  - [iPhone 15 Pro Max](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545617117)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/9033060102419726908_2048.jpg?v=1776952380
-    Price: $40.00 AUD
-  - [iPhone 14](https://www.adbchistory.com/products/apollo-god-of-music-iphone-magnetic-phone-case?variant=47694545682653)
+    Price: $50.00 AUD
+  - [iPhone 14](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545682653)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/3951100020494389997_2048.jpg?v=1776952382
-    Price: $40.00 AUD
-  - [iPhone 14 Plus](https://www.adbchistory.com/products/apollo-god-of-music-iphone-magnetic-phone-case?variant=47694545780957)
+    Price: $50.00 AUD
+  - [iPhone 14 Plus](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545780957)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/11989184489629496472_2048.jpg?v=1776952385
-    Price: $40.00 AUD
-  - [iPhone 14 Pro](https://www.adbchistory.com/products/apollo-god-of-music-iphone-magnetic-phone-case?variant=47694545715421)
+    Price: $50.00 AUD
+  - [iPhone 14 Pro](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545715421)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/14358319906134569809_2048.jpg?v=1776952384
-    Price: $40.00 AUD
-  - [iPhone 14 Pro Max](https://www.adbchistory.com/products/apollo-god-of-music-iphone-magnetic-phone-case?variant=47694545748189)
+    Price: $50.00 AUD
+  - [iPhone 14 Pro Max](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545748189)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/5733871039985164826_2048.jpg?v=1776952388
-    Price: $40.00 AUD
-  - [iPhone 13](https://www.adbchistory.com/products/apollo-god-of-music-iphone-magnetic-phone-case?variant=47694545813725)
+    Price: $50.00 AUD
+  - [iPhone 13](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545813725)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/7321806506003192269_2048.jpg?v=1776952403
-    Price: $40.00 AUD
-  - [iPhone 13 Pro](https://www.adbchistory.com/products/apollo-god-of-music-iphone-magnetic-phone-case?variant=47694545846493)
+    Price: $50.00 AUD
+  - [iPhone 13 Pro](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545846493)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/4890946846663990139_2048.jpg?v=1776952405
-    Price: $40.00 AUD
-  - [iPhone 13 Pro Max](https://www.adbchistory.com/products/apollo-god-of-music-iphone-magnetic-phone-case?variant=47694545879261)
+    Price: $50.00 AUD
+  - [iPhone 13 Pro Max](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545879261)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/7579815697102903560_2048.jpg?v=1776952407
-    Price: $40.00 AUD
+    Price: $50.00 AUD
 
 ## Collections
 
 - [Coffee Mugs - AD/BC](https://www.adbchistory.com/collections/coffee-mugs): - AD/BC
-  Updated: 2026-02-25T09:23:10Z
+  Updated: 2026-04-30T15:40:59Z
   Total Products: 0
 - [Ancient History Phone Cases | Greece, Rome & Egypt | AD/BC](https://www.adbchistory.com/collections/history-phone-cases): Ancient history phone cases featuring real archaeological sites and historical scenes. Dual-layer, impact-resistant, printed to last. Ships worldwide.
-  Updated: 2026-04-23T12:47:03Z
-  Total Products: 29
+  Updated: 2026-04-30T15:40:59Z
+  Total Products: 31
 - [Ebooks - AD/BC](https://www.adbchistory.com/collections/ebooks): - AD/BC
-  Updated: 2025-10-31T00:22:35Z
+  Updated: 2026-04-30T15:40:59Z
   Total Products: 1
 - [History Gifts for the Chronologically Curious | AD/BC](https://www.adbchistory.com/collections/history-gifts): Ancient history phone cases, apparel and accessories featuring Greece, Rome, Egypt and beyond. Designed for the chronologically curious. Ships worldwide.
-  Updated: 2026-04-23T12:47:03Z
-  Total Products: 30
+  Updated: 2026-04-30T15:40:59Z
+  Total Products: 32
 - [T-Shirts - AD/BC](https://www.adbchistory.com/collections/t-shirts): - AD/BC
-  Updated: 2026-03-22T18:44:44Z
+  Updated: 2026-04-30T15:40:59Z
   Total Products: 0
 - [Hoodies - AD/BC](https://www.adbchistory.com/collections/hoodies): - AD/BC
-  Updated: 2026-03-22T18:44:46Z
+  Updated: 2026-04-30T15:40:59Z
   Total Products: 0
 - [Courses - AD/BC](https://www.adbchistory.com/collections/courses): - AD/BC
-  Updated: 2026-02-24T11:53:03Z
+  Updated: 2026-04-30T15:40:59Z
   Total Products: 0
 - [Gift Cards - AD/BC](https://www.adbchistory.com/collections/gift-cards): - AD/BC
-  Updated: 2025-10-31T00:23:01Z
+  Updated: 2026-04-30T15:41:00Z
   Total Products: 0
 - [AD/BC - AD/BC](https://www.adbchistory.com/collections/ad-bc): - AD/BC
-  Updated: 2026-03-22T18:44:54Z
+  Updated: 2026-04-30T15:41:00Z
   Total Products: 0
 - [Gods of Ancient Greece - Mythology Phone Cases | AD/BC](https://www.adbchistory.com/collections/gods-of-greek-myth-mythology-phone-cases): Greek mythology phone cases with oil painting artwork drawn from ancient sources and archaeology. Shop the AD/BC Gods of Greek Myth collection.
-  Updated: 2026-04-18T14:06:53Z
+  Updated: 2026-04-30T15:41:00Z
   Total Products: 23
 - [Curiosities | Ancient History & Archaeology Designs | AD/BC](https://www.adbchistory.com/collections/curiosities): Ancient history phone cases, coffee mugs, mousepads and more spanning Greece, Rome, Egypt, Babylon, and beyond. Original designs from across the ancient world.
-  Updated: 2026-04-15T07:13:08Z
+  Updated: 2026-04-30T15:41:00Z
   Total Products: 0
 - [All Products | AD/BC](https://www.adbchistory.com/collections/all-products): Ancient history phone cases, t-shirts & hoodies. Greek, Roman, Egyptian & Norse designs with oil painting artwork. Browse all AD/BC products.
-  Updated: 2026-04-23T12:47:03Z
-  Total Products: 30
+  Updated: 2026-04-30T15:41:00Z
+  Total Products: 32
 - [Gods of Viking Legend - Mythology Phone Cases | AD/BC](https://www.adbchistory.com/collections/gods-of-viking-legend-mythology-phone-cases): Viking mythology phone cases with oil painting artwork drawn from the Norse sagas and Eddas. Shop the AD/BC Gods of Viking Legend collection.
-  Updated: 2026-04-18T12:18:57Z
+  Updated: 2026-04-30T15:41:00Z
   Total Products: 1
 - [Gods of Ancient Egypt - Mythology Phone Cases - AD/BC](https://www.adbchistory.com/collections/gods-of-ancient-egypt-mythology-phone-cases): Ancient Egyptian god phone cases with oil painting artwork from the Nile Valley. Shop the AD/BC Gods of Ancient Egypt collection.
-  Updated: 2026-04-18T12:18:57Z
+  Updated: 2026-04-30T15:41:00Z
   Total Products: 1
 
 ## Blogs
@@ -569,7 +551,7 @@
     Author: Dan Rankin
     Tags: Ancient Greece, Ancient Warfare, Greco-Persian Wars, Index, Peloponnesian War
   - [Triremes: Inside the Warships of Ancient Greece | AD/BC](https://www.adbchistory.com/blogs/library/triremes): Triremes: Inside the Warships of Ancient Greece | AD/BC
-    Updated: 2026-04-15T07:15:05Z
+    Updated: 2026-04-26T04:53:47Z
     Author: Dan Rankin
     Tags: Ancient Greece, Ancient Warfare, Greco-Persian Wars, Peloponnesian War, Stoa
   - [Would Rome Have Ever Reached the Industrial Revolution? | AD/BC](https://www.adbchistory.com/blogs/library/rome-industrial-revolution): Would Rome Have Ever Reached the Industrial Revolution? | AD/BC
@@ -585,13 +567,17 @@
     Author: Dan Rankin
     Tags: Ancient Greece, Greek Mythology, Index, Monsters, Mythology
   - [Norse Mythology: Viking Gods, Ragnarok, and Valhalla | AD/BC](https://www.adbchistory.com/blogs/library/norse-mythology-the-viking-gods): Norse Mythology: Viking Gods, Ragnarok, and Valhalla | AD/BC
-    Updated: 2026-04-18T03:28:41Z
+    Updated: 2026-04-26T06:58:45Z
     Author: Dan Rankin
     Tags: Gods & Goddesses, Mythology, Norse, Norse Mythology, Peristyle, Vikings
   - [Where Does Linen Come From? A 5,000-Year Story | AD/BC](https://www.adbchistory.com/blogs/library/where-does-linen-come-from): Where Does Linen Come From? A 5,000-Year Story | AD/BC
-    Updated: 2026-04-23T11:13:34Z
+    Updated: 2026-04-26T04:54:15Z
     Author: Dan Rankin
     Tags: Ancient Crafts & Trades, Ancient Economy, Ancient Egypt, Stoa
+  - [Mesoamerica: Ancient Civilizations of Mexico and Central America | AD/BC](https://www.adbchistory.com/blogs/library/mesoamerica): Mesoamerica: Ancient Civilizations of Mexico and Central America | AD/BC
+    Updated: 2026-04-30T08:40:48Z
+    Author: Dan Rankin
+    Tags: Americas, Ancient Civilizations, Aztec, Maya, Mesoamerica, Olmec
 
 ## Store Pages
 
