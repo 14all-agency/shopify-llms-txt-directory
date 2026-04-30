@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2020-05-28T05:23:16Z
 - Contact Email: service@momanx.com
-- Updated At: 2026-04-23T00:00:48.895Z
+- Updated At: 2026-04-30T04:00:29.191Z
 
 ## Products
 
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/MG6_01.jpg?v=1655022734
   Price: $0.80 USD
 - [Wireless Microphone for Video Recording Moman C2 and C2X | Moman](https://momanx.com/products/wireless-microphone-for-video-recording-moman-c2): Moman C2 and C2X wireless microphone for video recording differs from the C1 with its TFT screen for monitoring. C2 has 1 TX and 1 RX, while C2X has 2 TX.
-  Updated: 2026-04-20T18:40:54Z
+  Updated: 2026-04-27T07:59:21Z
   Vendor: Moman
   Product Type: Wireless Microphones
   Availability: Available
@@ -47,11 +47,11 @@
   - [C2 1-to-1](https://momanx.com/products/wireless-microphone-for-video-recording-moman-c2?variant=45056208208168)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/Moman-C2_2-1200x1200_a8cbe76c-d82e-49f0-ad84-fce23f5b7edd.jpg?v=1658918844
-    Price: $95.20 USD
+    Price: $119.00 USD
   - [C2X 1-to-2](https://momanx.com/products/wireless-microphone-for-video-recording-moman-c2?variant=45056208240936)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/Moman-C2X_2-1600x1600.jpg?v=1683342152
-    Price: $103.20 USD
+    Price: $129.00 USD
 - [Wired Microphone for Camera Moman MA1 | Moman](https://momanx.com/products/wired-microphone-for-camera-moman-ma1): Moman MA1 wired microphone for camera is effective to resist radio frequency interference signals  with cardioid condenser and  is capable of capturing an authentic sound.
   Updated: 2026-04-20T18:40:54Z
   Vendor: Moman
@@ -67,19 +67,19 @@
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/6391ace427ade714b70fb966024ae804_e9f6e3f4-38ce-4d93-9791-4f245f6aa6bb.jpg?v=1676977609
   Price: $94.99 USD
 - [99 Wh V Mount Battery with Dual D-tap Moman Power 99 | Moman](https://momanx.com/products/v-mount-battery-power-99): Moman Power 99 is a 99Wh V mount battery with Dual D-tap, USB-A, and USB-C ports. It's safe for aviation carry-on for charging digital cameras, camcorders, etc.
-  Updated: 2026-04-20T18:40:56Z
+  Updated: 2026-04-27T20:16:29Z
   Vendor: Moman
   Product Type: V Mount Batteries
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/Moman-Power99_1.jpg?v=1700638899
-  Price: $103.96 USD
+  Price: $129.95 USD
 - [Battery Grip Moman Power 32 | Moman](https://momanx.com/products/battery-grip-power-32): Battery grip Moman Power 32 offers stable and safe charge to your devices like phones and cameras during shooting.
-  Updated: 2026-04-20T18:41:00Z
+  Updated: 2026-04-27T07:59:20Z
   Vendor: Moman
   Product Type: Battery Grips
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/Power32_01.jpg?v=1659004397
-  Price: $71.20 USD
+  Price: $89.00 USD
 - [Camera Tripod Ball Head Moman BH01 | Moman](https://momanx.com/products/moman-camera-tripod-ball-head-bh01): Camera tripod ball head Moman BH01 is made of durable and lightweight CNC aluminum alloy and compatible for all cameras, camcorders, and other devices.
   Updated: 2026-04-20T18:41:01Z
   Vendor: Moman
@@ -102,7 +102,7 @@
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/matrix600_1600x1600_24bc2b33-dc07-4c44-9e10-d8fa20d523e9.jpg?v=1658917750
   Price: $449.99 USD
 - [Wireless Lavalier Microphone for DSLR Moman C1 and C1X | Moman](https://momanx.com/products/wireless-lavalier-microphone-for-dslr-moman-c1): Wireless lavalier microphone for DSLR Moman C1 & C1X delivers stable and distortion-free audio within LOS 656ft range.
-  Updated: 2026-04-20T18:41:13Z
+  Updated: 2026-04-27T07:59:21Z
   Vendor: Moman
   Product Type: Wireless Microphones
   Availability: Available
@@ -110,25 +110,25 @@
   - [C1 1-to-1](https://momanx.com/products/wireless-lavalier-microphone-for-dslr-moman-c1?variant=49946006192424)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/C1_01.jpg?v=1659085587
-    Price: $40.45 USD
+    Price: $50.56 USD
   - [C1X 1-to-2](https://momanx.com/products/wireless-lavalier-microphone-for-dslr-moman-c1?variant=49946006225192)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/Moman-C1X_1-1600x1600.jpg?v=1742366568
-    Price: $50.56 USD
+    Price: $63.20 USD
 - [Clip on Wireless Microphone for iPhone Moman CP1(A) | Moman](https://momanx.com/products/clip-on-wireless-microphone-for-iphone-moman-cp1a): Moman CP1(A), a clip on wireless microphone for iphone, supports a 394ft/120m long distance and stable transmission during live-streaming, vlogging, etc.
-  Updated: 2026-04-20T18:41:13Z
+  Updated: 2026-04-27T07:59:21Z
   Vendor: Moman
   Product Type: Wireless Microphones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/CP1_A__01.jpg?v=1655021835
-  Price: $25.59 USD
+  Price: $31.99 USD
 - [Wireless Lapel Microphone for Android Phone Moman CP1(C) | Moman](https://momanx.com/products/wireless-lapel-microphone-for-android-phone-moman-cp1c): As a wireless lapel microphone for Android phone, Moman CP1(C) smartphone mic ensures smooth steady transmission, being ideal for on-the-go video shooting.
-  Updated: 2026-04-20T18:41:13Z
+  Updated: 2026-04-27T07:59:21Z
   Vendor: Moman
   Product Type: Wireless Microphones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/CP1_C__01.jpg?v=1655021880
-  Price: $25.59 USD
+  Price: $31.99 USD
 - [Wireless HDMI Video Transmission System Moman Matrix 600 | Moman](https://momanx.com/products/wireless-hdmi-video-transmission-system): Moman Matrix 600, a wireless HDMI video transmission system, boasts extremely low power consumption, being convenient for day-long video recording.
   Updated: 2026-04-20T18:41:14Z
   Vendor: Moman
@@ -144,7 +144,7 @@
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/ML1-_1.jpg?v=1657793927
   Price: $39.99 USD
 - [Motorcycle Helmet Bluetooth Intercom Moman H1 | Moman](https://momanx.com/products/motorcycle-helmet-intercom-moman-h1): Moman H1 motorcycle helmet bluetooth intercom is ideal for unburdened communication during motorcycle travel suchlike activities with its simple control and CVC noise suppression.
-  Updated: 2026-04-20T18:41:16Z
+  Updated: 2026-04-27T07:59:48Z
   Vendor: Moman
   Product Type: Motorcycle Intercoms
   Availability: Available
@@ -152,32 +152,32 @@
   - [Single Pack](https://momanx.com/products/motorcycle-helmet-intercom-moman-h1?variant=41804035457196)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/MOMAN-H1_62d7eb8d-5d9f-483a-a7c1-82bc6b5f8200.jpg?v=1691396728
-    Price: $28.79 USD
+    Price: $35.99 USD
   - [2-Rider Kit](https://momanx.com/products/motorcycle-helmet-intercom-moman-h1?variant=41804038242476)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/MOMAN-H1.jpg?v=1691396728
-    Price: $55.99 USD
+    Price: $69.99 USD
 - [D Tap Cable Moman DF550 | Moman](https://momanx.com/products/d-tap-cable-moman-df550): Moman DF550 D tap cable has one plug for the D-tap connector and another plug for the NP-F550 dummy battery. It can work for NP-F batteries to video fill light, monitors, cameras, and more.
-  Updated: 2026-04-20T18:41:18Z
+  Updated: 2026-04-27T07:59:58Z
   Vendor: Moman
   Product Type: Battery Cables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/6391ace427ade714b70fb966024ae804_384d8f6b-7716-4772-bbcb-1cf0024d525b.jpg?v=1658716521
-  Price: $23.19 USD
+  Price: $28.99 USD
 - [Power Supply Cable for Monitor Moman DE6 | Moman](https://momanx.com/products/power-supply-cable-for-monitor-moman-de6): Moman DE6 power supply cable for monitor, flexible and neat, comes in plug A of D-tap connector and plug B of LP-E6 dummy battery, being very suitable for outdoor shooting.
-  Updated: 2026-04-20T18:41:18Z
+  Updated: 2026-04-27T07:59:58Z
   Vendor: Moman
   Product Type: Battery Cables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/6391ace427ade714b70fb966024ae804_d42eff62-944b-46a7-81b7-0766a367df04.jpg?v=1658717488
-  Price: $23.99 USD
+  Price: $29.99 USD
 - [Power Cord for Camera Moman DFZ100 | Moman](https://momanx.com/products/power-cord-for-camera-moman-dfz100): Moman DFZ100 power cord for camera is an extendable power adapter cable for FZ100 dummy battery, compatible with D-tap cameras for long-time power supply.
-  Updated: 2026-04-20T18:41:19Z
+  Updated: 2026-04-27T07:59:58Z
   Vendor: Moman
   Product Type: Battery Cables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/6391ace427ade714b70fb966024ae804_d42ae1ff-b1e8-4542-96da-ec87253c7a99.jpg?v=1658718249
-  Price: $36.79 USD
+  Price: $45.99 USD
 - [LED Photography Light Stick Moman MW-18 | Moman](https://momanx.com/products/led-photography-light-stick-moman-mw-18): Moman MW-18 LED photography light stick allows color temperature adjustment from 3000k to 5000k, enabling users to create warm or cold images.
   Updated: 2026-04-20T18:41:19Z
   Vendor: Moman
@@ -186,19 +186,19 @@
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/MOMAN-MW-18_-1200x1200_38a68f8f-e23a-4235-bea9-e39094f3e649.jpg?v=1660552994
   Price: $71.99 USD
 - [Phone Camera Light Moman ML8A-DC | Moman](https://momanx.com/products/phone-camera-light-moman-ml8a-dc): Moman ML8A-DC phone camera light features dimmable bi-color LED beads and 10 different light modes. It is ideal for recording videos, portrait photography, etc.
-  Updated: 2026-04-20T18:41:19Z
+  Updated: 2026-04-27T07:59:31Z
   Vendor: Moman
   Product Type: Camera Lights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/MOMAN-ML8A-DC_1.jpg?v=1660640571
-  Price: $41.65 USD
+  Price: $49.00 USD
 - [RGB LED Camera Light Moman ML8A-RC | Moman](https://momanx.com/products/rgb-led-camera-light-moman-ml8a-rc): Moman ML8A-RC RGB LED camera light offers adjustable color temperature within 2500K-9000K for diverse picture styles. It also has a power bank feature, supporting quick charging for devices like phones.
-  Updated: 2026-04-20T18:41:29Z
+  Updated: 2026-04-27T07:59:31Z
   Vendor: Moman
   Product Type: Camera Lights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/MOMAN-ML8A-RC_2.jpg?v=1660641650
-  Price: $41.65 USD
+  Price: $49.00 USD
 - [Monopod for Video Camera Moman C60 | Moman](https://momanx.com/products/monopod-for-video-camera-moman-c60): Moman C60 monopod for video camera has a strong payload of 10kg, ensuring to shockproof different shooting devices on it, such as digital cameras, DSLRs, camcorder, etc.
   Updated: 2026-04-20T18:41:30Z
   Vendor: Moman
@@ -207,87 +207,87 @@
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/Moman-C60_-1600x1600.jpg?v=1660701739
   Price: $79.20 USD
 - [Best Professional Teleprompter for Video Moman MT12 | Moman](https://momanx.com/products/professional-teleprompter-moman-mt12): Moman MT12 is a professional teleprompter with high definition beamsplitter glass, working with phone, camera, or a 12.9-inch tablet for prompting.
-  Updated: 2026-04-20T18:41:30Z
+  Updated: 2026-04-27T20:16:23Z
   Vendor: Moman
   Product Type: Teleprompters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/MT12.jpg?v=1717128042
-  Price: $119.20 USD
+  Price: $149.00 USD
 - [Best Lighting Setup for Studio Photography COLBOR CL60 | Moman](https://momanx.com/products/best-lighting-setup-for-studio-photography-colbor-cl60): COLBOR CL60 best lighting setup for studio photography is a bi-color light that is capable of providing pictures of warm or cold atmospheres naturally and authentically.
-  Updated: 2026-04-20T18:41:31Z
+  Updated: 2026-04-27T07:59:31Z
   Vendor: COLBOR
   Product Type: Studio Lights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/COLBOR-CL60_1-1600x1600.jpg?v=1664358915
   - [US Plug](https://momanx.com/products/best-lighting-setup-for-studio-photography-colbor-cl60?variant=41925986877612)
     Availability: Available
-    Price: $126.65 USD
+    Price: $149.00 USD
   - [UK Plug](https://momanx.com/products/best-lighting-setup-for-studio-photography-colbor-cl60?variant=41925986910380)
     Availability: Not Available
-    Price: $143.65 USD
+    Price: $169.00 USD
   - [EU Plug](https://momanx.com/products/best-lighting-setup-for-studio-photography-colbor-cl60?variant=41925986943148)
     Availability: Available
-    Price: $135.15 USD
+    Price: $159.00 USD
   - [JP Plug](https://momanx.com/products/best-lighting-setup-for-studio-photography-colbor-cl60?variant=41926020661420)
     Availability: Available
-    Price: $135.15 USD
+    Price: $159.00 USD
 - [Best Studio Light for Video COLBOR CL60M | Moman](https://momanx.com/products/best-studio-light-for-video-colbor-cl60m): COLBOR CL60M best studio light for video is a 65W daylight-balanced LED of PowerCube design for flexible matrix setup. Its standard color temperature at 5600K helps create vivid pictures.
-  Updated: 2026-04-20T18:41:31Z
+  Updated: 2026-04-27T07:59:31Z
   Vendor: COLBOR
   Product Type: Studio Lights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/COLBOR-CL60M_8-1600x1600.jpg?v=1664359326
   - [US Plug](https://momanx.com/products/best-studio-light-for-video-colbor-cl60m?variant=41926299254956)
     Availability: Available
-    Price: $109.65 USD
+    Price: $129.00 USD
   - [UK Plug](https://momanx.com/products/best-studio-light-for-video-colbor-cl60m?variant=41926299287724)
     Availability: Available
-    Price: $152.15 USD
+    Price: $179.00 USD
   - [EU Plug](https://momanx.com/products/best-studio-light-for-video-colbor-cl60m?variant=41926299320492)
     Availability: Available
-    Price: $169.15 USD
+    Price: $199.00 USD
   - [JP Plug](https://momanx.com/products/best-studio-light-for-video-colbor-cl60m?variant=41926299353260)
     Availability: Available
-    Price: $143.65 USD
+    Price: $169.00 USD
 - [Best V Mount Battery Plate COLBOR VBS | Moman](https://momanx.com/products/colbor-vbs-v-mount-battery-plate): The COLBOR VBS V mount battery plate gets V lock batteries such as Moman Power 99 attached and provides a D-tap output so that the battery can power devices such as COLBOR CL100 studio light.
-  Updated: 2026-04-20T18:41:31Z
+  Updated: 2026-04-27T07:59:59Z
   Vendor: COLBOR
   Product Type: Battery Plates
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/COLBOR-VBS_2.jpg?v=1661416400
-  Price: $31.99 USD
+  Price: $39.99 USD
 - [V Lock Battery Plate Moman VBP | Moman](https://momanx.com/products/v-lock-battery-plate-moman-vbp): The Moman VBP v lock battery plate is strong, compact, and adaptable, with several interfaces for a variety of applications.
-  Updated: 2026-04-20T18:41:33Z
+  Updated: 2026-04-27T07:59:59Z
   Vendor: Moman
   Product Type: Battery Plates
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/Moman-VBP_DE6.jpg?v=1662696131
-  Price: $63.99 USD
+  Price: $79.99 USD
 - [V Mount Battery Clamp Moman VBC | Moman](https://momanx.com/products/v-mount-battery-clamp-moman-vbc): The Moman VBC v mount battery clamp has a crab-like design for simple installation and secure attachment.
-  Updated: 2026-04-20T18:41:33Z
+  Updated: 2026-04-27T07:59:58Z
   Vendor: Moman
   Product Type: Battery Plates
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/1_e852d2b5-1be9-4894-a1db-ded84353bfcc.jpg?v=1662696555
-  Price: $23.99 USD
+  Price: $29.99 USD
 - [D Tap Charger Gimpro Tap50 | Moman](https://momanx.com/products/d-tap-charger-gimpro-tap50): The Gimpro D-Tap charger Tap50 is compatible with all external v lock batteries and gold-mounts which have d-tap input interface.
-  Updated: 2026-04-20T18:41:33Z
+  Updated: 2026-04-27T07:59:59Z
   Vendor: Gimpro
   Product Type: Battery Chargers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/GIMPRO-TAP50_2_4d0123e6-64e2-4bcd-95ae-8db8fc4bea48.jpg?v=1689564994
   - [US Plug](https://momanx.com/products/d-tap-charger-gimpro-tap50?variant=42026900979884)
     Availability: Available
-    Price: $23.99 USD
+    Price: $29.99 USD
   - [EU Plug](https://momanx.com/products/d-tap-charger-gimpro-tap50?variant=42026901012652)
     Availability: Available
-    Price: $23.99 USD
+    Price: $29.99 USD
   - [UK Plug](https://momanx.com/products/d-tap-charger-gimpro-tap50?variant=42026901045420)
     Availability: Available
-    Price: $23.99 USD
+    Price: $29.99 USD
   - [JP Plug](https://momanx.com/products/d-tap-charger-gimpro-tap50?variant=42026901078188)
     Availability: Not Available
-    Price: $23.99 USD
+    Price: $29.99 USD
 - [Video Light Diffuser Moman MSD-3 | Moman](https://momanx.com/products/video-light-diffuser-moman-msd-3): Moman MSD-3 is a video light diffuser customized for ML3-D and MFL03. It is made of premium silicone materials, producing soft lighting effect.
   Updated: 2026-04-20T18:41:33Z
   Vendor: Moman
@@ -296,35 +296,35 @@
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/Moma-MSD3-_-_-1200x1200.jpg?v=1663227210
   Price: $7.99 USD
 - [D Tap to DC Cable Moman Dtap12 | Moman](https://momanx.com/products/d-tap-to-dc-cable-moman-dtap12): Moman Dtap d tap to dc cable is equipped with a D-tap male and a DC plug. It supports a v-mount battery/gold-mounts power solution for monitors, transmissions, etc.
-  Updated: 2026-04-20T18:41:34Z
+  Updated: 2026-04-27T07:59:58Z
   Vendor: Moman
   Product Type: Battery Cables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/6391ace427ade714b70fb966024ae804_78bd83d3-dab7-4b1e-b52b-67d1f71e7ef3.jpg?v=1664187423
-  Price: $15.99 USD
+  Price: $19.99 USD
 - [D-tap to Bmpcc 4k Power Cable Gimpro BMPCC | Moman](https://momanx.com/products/d-tap-to-bmpcc-4k-power-cable-gimpro-bmpcc): Gimpro BMPCC D-tap to Bmpcc 4k power cable works with v-mounts suchlike batteries and is used to charge camera devices safely. It is of coiled deisgn for a flexible exension.
-  Updated: 2026-04-20T18:41:34Z
+  Updated: 2026-04-27T07:59:59Z
   Vendor: Gimpro
   Product Type: Battery Cables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/6391ace427ade714b70fb966024ae804_ed943e2d-2b45-4a1c-aa1d-b4dfd791ae1c.jpg?v=1664268873
-  Price: $23.99 USD
+  Price: $29.99 USD
 - [Best Wireless Earphones for Motorcycle Riding Moman H4 | Moman](https://momanx.com/products/best-wireless-earphones-for-motorcycle-riding-moman-h4): Moman H4 best wireless earphones for motorcycle riding has a lightweight construction and is cozy to wear. It can apply for kinds of sports for real-time communication.
-  Updated: 2026-04-20T18:41:44Z
+  Updated: 2026-04-27T07:59:48Z
   Vendor: Moman
   Product Type: Motorcycle Headsets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/2_80ab156f-b318-4c32-a990-329afebc7327.jpg?v=1690360857
-  Price: $20.79 USD
+  Price: $25.99 USD
 - [V Lock Battery Mounting Plate Moman DVBP | Moman](https://momanx.com/products/v-lock-battery-mounting-plate-moman-dvbp): Moman DVBP v lock battery mounting plate is lightweight, mini yet durable enough to attach two v mount batteries to your photography gears.
-  Updated: 2026-04-20T18:41:45Z
+  Updated: 2026-04-27T07:59:58Z
   Vendor: Moman
   Product Type: Battery Plates
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/6391ace427ade714b70fb966024ae804_7ecb9a66-cbf0-4c85-ac48-26e7d877d02b.jpg?v=1672394817
-  Price: $79.20 USD
+  Price: $99.00 USD
 - [Outdoor Studio Lighting COLBOR CL100X | Moman](https://momanx.com/products/outdoor-studio-lighting-colbor-cl100x): CL100X outdoor studio lighting, is a new type of dimmable continuous COB lighting produced by COLBOR. It has an output over100W and adapts Type-C charging, being used in photography and videography.
-  Updated: 2026-04-20T18:41:45Z
+  Updated: 2026-04-27T07:59:31Z
   Vendor: COLBOR
   Product Type: Studio Lights
   Availability: Available
@@ -332,37 +332,37 @@
   - [US Plug](https://momanx.com/products/outdoor-studio-lighting-colbor-cl100x?variant=44193717518632)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/2B5CEEA0-1764-41E6-9665-F598E54ACC94.jpg?v=1671008959
-    Price: $169.15 USD
+    Price: $199.00 USD
   - [UK Plug](https://momanx.com/products/outdoor-studio-lighting-colbor-cl100x?variant=44193717551400)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/2B5CEEA0-1764-41E6-9665-F598E54ACC94.jpg?v=1671008959
-    Price: $169.15 USD
+    Price: $199.00 USD
   - [EU Plug](https://momanx.com/products/outdoor-studio-lighting-colbor-cl100x?variant=44193717584168)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/2B5CEEA0-1764-41E6-9665-F598E54ACC94.jpg?v=1671008959
-    Price: $203.15 USD
+    Price: $239.00 USD
   - [JP Plug](https://momanx.com/products/outdoor-studio-lighting-colbor-cl100x?variant=44193717616936)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/2B5CEEA0-1764-41E6-9665-F598E54ACC94.jpg?v=1671008959
-    Price: $177.65 USD
+    Price: $209.00 USD
 - [Full Color RGB Video Light COLBOR CL60R | Moman](https://momanx.com/products/rgb-video-light-colbor-cl60r): COLBOR CL60R is a RGB video light with 65W output, 2700-6500K color temperature and 360° full color adjustment. It features PowerCube design, App remote control, and mobile charging available.
-  Updated: 2026-04-20T18:41:46Z
+  Updated: 2026-04-27T07:59:31Z
   Vendor: COLBOR
   Product Type: Studio Lights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/CL60R_MAIN.jpg?v=1672383704
   - [US Plug](https://momanx.com/products/rgb-video-light-colbor-cl60r?variant=44227655565608)
     Availability: Available
-    Price: $169.15 USD
+    Price: $199.00 USD
   - [UK Plug](https://momanx.com/products/rgb-video-light-colbor-cl60r?variant=44227655598376)
     Availability: Not Available
-    Price: $169.15 USD
+    Price: $199.00 USD
   - [EU Plug](https://momanx.com/products/rgb-video-light-colbor-cl60r?variant=44227655631144)
     Availability: Available
-    Price: $203.15 USD
+    Price: $239.00 USD
   - [JP Plug](https://momanx.com/products/rgb-video-light-colbor-cl60r?variant=44227655663912)
     Availability: Not Available
-    Price: $169.15 USD
+    Price: $199.00 USD
 - [LED Panel Light for Photography Moman MLX-RGB | Moman](https://momanx.com/products/led-panel-light-for-photography-moman-mlx-rgb): Moman MLX-RGB LED panel light for photography supports a 5-12V full voltage input and can run for max. 24 hours at low battery power. It features 96+ Ra and changeable color temp, being ideal for your photo or video shooting.
   Updated: 2026-04-20T18:41:46Z
   Vendor: Moman
@@ -371,12 +371,12 @@
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/MOMAN-MLX-RGB_9fbc6a8e-968a-45bf-87f9-aae5ba64b2c4.jpg?v=1672901548
   Price: $109.00 USD
 - [70Wh V Mount Battery Moman Power 70 | Moman](https://momanx.com/products/blackmagic-v-mount-battery-moman-power-70): Moman Power 70 is a 70Wh mount battery. It supports outputs including D-tap, BP, USB-A, USB-C, and charging for gimbals, laptops, and cameras like DSLRs.
-  Updated: 2026-04-20T18:41:47Z
+  Updated: 2026-04-27T20:16:32Z
   Vendor: Moman
   Product Type: V Mount Batteries
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/MOMAN-Power70_-1600x1600.jpg?v=1689563863
-  Price: $111.20 USD
+  Price: $139.00 USD
 - [USB C Charger Power Adapter COLBOR CL60PL | Moman](https://momanx.com/products/usb-c-charger-power-adapter-colbor-cl60pl): COLBOR CL60PL USB C charger power adapter provides safe and quick charging for CL60 high-power video light serie with a 14.8V output. Its connector gender is male-to-male of a type of 2-pin.
   Updated: 2026-04-20T18:41:48Z
   Vendor: COLBOR
@@ -396,7 +396,7 @@
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/CL60PL_1_1_1.png?v=1679472540
     Price: $23.99 USD
 - [Lighting for Outdoor Video Shoot COLBOR CL220 | Moman](https://momanx.com/products/lighting-for-outdoor-video-shoot-colbor-cl220): COLBOR CL220 lighting for outdoor video shoot features a max illumination of 108000 lux, 96+CRI, 2700-6500K color temp range, etc. It can be used for filmmaking, photography, video production, and so on.
-  Updated: 2026-04-20T18:41:48Z
+  Updated: 2026-04-27T07:59:32Z
   Vendor: COLBOR
   Product Type: Studio Lights
   Availability: Available
@@ -404,44 +404,44 @@
   - [Standard / US](https://momanx.com/products/lighting-for-outdoor-video-shoot-colbor-cl220?variant=44922191479080)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/COLBOR-CL220_1-1200x1200.jpg?v=1681283845
-    Price: $279.65 USD
+    Price: $329.00 USD
   - [Standard / UK](https://momanx.com/products/lighting-for-outdoor-video-shoot-colbor-cl220?variant=44922191511848)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/COLBOR-CL220_1-1200x1200.jpg?v=1681283845
-    Price: $279.65 USD
+    Price: $329.00 USD
   - [Standard / JP](https://momanx.com/products/lighting-for-outdoor-video-shoot-colbor-cl220?variant=44922191544616)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/COLBOR-CL220_1-1200x1200.jpg?v=1681283845
-    Price: $288.15 USD
+    Price: $339.00 USD
   - [Standard / EUR](https://momanx.com/products/lighting-for-outdoor-video-shoot-colbor-cl220?variant=44922191577384)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/COLBOR-CL220_1-1200x1200.jpg?v=1681283845
-    Price: $305.15 USD
+    Price: $359.00 USD
   - [Lite / US](https://momanx.com/products/lighting-for-outdoor-video-shoot-colbor-cl220?variant=44922191610152)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/COLBOR-CL220_3-1200x1200_095b2aed-5798-45ee-a7cc-932c432b2aec.jpg?v=1681283845
-    Price: $254.15 USD
+    Price: $299.00 USD
   - [Lite / UK](https://momanx.com/products/lighting-for-outdoor-video-shoot-colbor-cl220?variant=44922191642920)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/COLBOR-CL220_3-1200x1200_095b2aed-5798-45ee-a7cc-932c432b2aec.jpg?v=1681283845
-    Price: $254.15 USD
+    Price: $299.00 USD
   - [Lite / JP](https://momanx.com/products/lighting-for-outdoor-video-shoot-colbor-cl220?variant=44922191675688)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/COLBOR-CL220_3-1200x1200_095b2aed-5798-45ee-a7cc-932c432b2aec.jpg?v=1681283845
-    Price: $271.15 USD
+    Price: $319.00 USD
   - [Lite / EUR](https://momanx.com/products/lighting-for-outdoor-video-shoot-colbor-cl220?variant=44922191708456)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/COLBOR-CL220_3-1200x1200_095b2aed-5798-45ee-a7cc-932c432b2aec.jpg?v=1681283845
-    Price: $288.15 USD
+    Price: $339.00 USD
 - [99Wh V Mount Battery Moman with Display Power 99 Pro | Moman](https://momanx.com/products/99wh-v-mount-battery-moman-power-99-pro): Moman Power 99 Pro is a 99Wh V mount battery with display to show charging status. It has four kinds of output and can be charged by USB-C.
-  Updated: 2026-04-20T18:41:48Z
+  Updated: 2026-04-27T20:16:29Z
   Vendor: Moman
   Product Type: V Mount Batteries
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/products/MOMAN-Power-99Pro_1.jpg?v=1681697334
-  Price: $135.96 USD
+  Price: $169.95 USD
 - [Lighting Equipment for Video COLBOR CL330 | Moman](https://momanx.com/products/lighting-equipment-for-video-colbor-cl330): COLBOR CL330 lighting equipment for video features a 330W COB output power for strong brightness. It also has a wide adjustable color temp range of 2700–6500K, CRI97+, and red-green chromatic aberration compensation.
-  Updated: 2026-04-20T18:41:49Z
+  Updated: 2026-04-27T07:59:32Z
   Vendor: COLBOR
   Product Type: Studio Lights
   Availability: Available
@@ -449,35 +449,35 @@
   - [Lite / US](https://momanx.com/products/lighting-equipment-for-video-colbor-cl330?variant=45496257216808)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/COLBOR-CL330_2.jpg?v=1688615380
-    Price: $424.15 USD
+    Price: $499.00 USD
   - [Lite / EUR](https://momanx.com/products/lighting-equipment-for-video-colbor-cl330?variant=45496257315112)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/COLBOR-CL330_2.jpg?v=1688615380
-    Price: $475.15 USD
+    Price: $559.00 USD
   - [Lite / UK](https://momanx.com/products/lighting-equipment-for-video-colbor-cl330?variant=45496257249576)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/COLBOR-CL330_2.jpg?v=1688615380
-    Price: $424.15 USD
+    Price: $499.00 USD
   - [Lite / JP](https://momanx.com/products/lighting-equipment-for-video-colbor-cl330?variant=45496257282344)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/COLBOR-CL330_2.jpg?v=1688615380
-    Price: $424.15 USD
+    Price: $499.00 USD
   - [Standard / US](https://momanx.com/products/lighting-equipment-for-video-colbor-cl330?variant=45496257085736)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/COLBOR-CL330_1.jpg?v=1688615380
-    Price: $466.65 USD
+    Price: $549.00 USD
   - [Standard / EUR](https://momanx.com/products/lighting-equipment-for-video-colbor-cl330?variant=45496257184040)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/COLBOR-CL330_1.jpg?v=1688615380
-    Price: $526.15 USD
+    Price: $619.00 USD
   - [Standard / UK](https://momanx.com/products/lighting-equipment-for-video-colbor-cl330?variant=45496257118504)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/COLBOR-CL330_1.jpg?v=1688615380
-    Price: $466.65 USD
+    Price: $549.00 USD
   - [Standard / JP](https://momanx.com/products/lighting-equipment-for-video-colbor-cl330?variant=45496257151272)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/COLBOR-CL330_1.jpg?v=1688615380
-    Price: $475.15 USD
+    Price: $559.00 USD
 - [Remote Control for Lights COLBOR CTRL1 | Moman](https://momanx.com/products/remote-control-for-lights-colbor-ctr1): COLBOR CTRL1 is a remote control for lights, including the CL60, 60R, 60M, CL100X, CL100XM, CL220, CL220M. It is mini, budget, and versatile. It is able to wirelessly control single or several video ligting devices at the same time.
   Updated: 2026-04-20T18:41:49Z
   Vendor: COLBOR
@@ -493,19 +493,19 @@
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/COLBOR-BP45_2-1600x1600.jpg?v=1689239662
   Price: $47.99 USD
 - [Bluetooth Headset with Mic for Helmet Moman RS-H4P | Moman](https://momanx.com/products/helmet-intercom-headset-moman-h4-plus): Moman RS-H4P Bluetooth headset with mic for helmet offers Hi-Fi stereo sound, carries raised control buttons, and features FM radio and AI voice control.
-  Updated: 2026-04-20T18:42:05Z
+  Updated: 2026-04-27T07:59:48Z
   Vendor: Moman
   Product Type: Motorcycle Headsets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/Moman_RS-H4P_w.jpg?v=1747307739
-  Price: $31.20 USD
+  Price: $39.00 USD
 - [Wireless Motorcycle Headset Moman H4R | Moman](https://momanx.com/products/wireless-motorcycle-headset-moman-h4r): Moman H4R wireless motorcycle headset is a practical device for riders. Thanks to the one-press voice assistant, it supports hands-free operations on mobile phones for calls, music streaming of clear audio, and GPS function.
-  Updated: 2026-04-20T18:42:05Z
+  Updated: 2026-04-27T07:59:49Z
   Vendor: Moman
   Product Type: Motorcycle Headsets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/MOMAN-H4R.jpg?v=1698223981
-  Price: $23.99 USD
+  Price: $29.99 USD
 - [Birthday Gift for Photographer Friend Moman WF101 | Moman](https://momanx.com/products/birthday-gift-for-photographer-friend-moman-wf101): Moman WF101 birthday gift for photographer friend is a WiFi digital photo frame that is creative and sticks to your budget. It features a touch screen of HD 1280*800 resolution IPS for displaying pictures at home or office.
   Updated: 2026-04-20T18:42:06Z
   Vendor: Moman
@@ -521,7 +521,7 @@
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/frameo_2.jpg?v=1698999959
     Price: $71.99 USD
 - [Lavalier Microphone for Phone Moman CP1X | Moman](https://momanx.com/products/lavalier-microphone-for-phone-moman-cp1x): Moman CP1X is a Lavalier microphone for phone with dual-channel transmitters and 65-meter wireless transmission distance. It is an ideal recording mic for YouTubers, vloggers, interviewers, and so on.
-  Updated: 2026-04-20T18:42:06Z
+  Updated: 2026-04-27T07:59:21Z
   Vendor: Moman
   Product Type: Wireless Microphones
   Availability: Available
@@ -529,13 +529,13 @@
   - [CP1XA: Lightning](https://momanx.com/products/lavalier-microphone-for-phone-moman-cp1x?variant=47162301579560)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/MOMAN-CP1XA_3_985d82dc-c196-4e75-8f8b-0a6cde649f24.jpg?v=1699861966
-    Price: $19.19 USD
+    Price: $23.99 USD
   - [CP1XC: Type-C](https://momanx.com/products/lavalier-microphone-for-phone-moman-cp1x?variant=47162301645096)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/MOMANCP1XC_4_8671c52a-14e7-4795-affe-4e47e2577712.jpg?v=1699943557
-    Price: $19.19 USD
+    Price: $23.99 USD
 - [Voice Activated Intercom Moman H2 Pro | Moman](https://momanx.com/products/voice-activated-intercom-moman-h2-pro): Moman H2 Pro is a voice activated intercom that supports music sharing function and two-way wireless communication within 1000 meters. It can apply to motorcycle riding, biking, skiing, climbing, and other sports.
-  Updated: 2026-04-21T17:54:38Z
+  Updated: 2026-04-27T20:13:49Z
   Vendor: Moman
   Product Type: Motorcycle Intercoms
   Availability: Available
@@ -543,27 +543,27 @@
   - [2-Rider Kit / Carbon Fiber](https://momanx.com/products/voice-activated-intercom-moman-h2-pro?variant=47216784015656)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/0236a9c3845d7342688b8f253d8c73a1_6efed7b1-5965-48c5-a7ba-c30df42d4b63.jpg?v=1706171223
-    Price: $79.20 USD
+    Price: $99.00 USD
   - [2-Rider Kit / Carbon](https://momanx.com/products/voice-activated-intercom-moman-h2-pro?variant=48963474161960)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/MOMAN-H2_-1600x1600_c1ecfef3-9c44-4385-acce-be00aea85ef0.jpg?v=1721719370
-    Price: $79.20 USD
+    Price: $99.00 USD
   - [2-Rider Kit / Black](https://momanx.com/products/voice-activated-intercom-moman-h2-pro?variant=47216784310568)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/4fe40f089696834c4906303a743d01c5_2e731a1c-1d41-46c2-919e-228643efb096.jpg?v=1706171223
-    Price: $78.00 USD
+    Price: $97.50 USD
   - [Single Pack / Carbon Fiber](https://momanx.com/products/voice-activated-intercom-moman-h2-pro?variant=47216748527912)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/0236a9c3845d7342688b8f253d8c73a1.jpg?v=1700561203
-    Price: $44.79 USD
+    Price: $55.99 USD
   - [Single Pack / Carbon](https://momanx.com/products/voice-activated-intercom-moman-h2-pro?variant=48963486974248)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/MOMAN-H2_1_-1600x1600_9a58b7b3-2562-42ee-9fc7-9d1eeecde142.jpg?v=1721719490
-    Price: $44.79 USD
+    Price: $55.99 USD
   - [Single Pack / Black](https://momanx.com/products/voice-activated-intercom-moman-h2-pro?variant=47216784277800)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/8b9cc7c9808a81fc8db0eaf67a4d79d7.jpg?v=1706171223
-    Price: $44.79 USD
+    Price: $55.99 USD
 - [Moman BH02 Mini Tripod Ball Head, 1/4" Cold Shoe Mount for Panel light & Microphone & Monitor](https://momanx.com/products/mini-tripod-ball-head-moman-bh02): Moman BH02 is a mini tripod ball head with a 1/4"-20 cold shoe mount screw. It can be used to mount LED video lights, cameras, microphones, monitors, and other photography devices.
   Updated: 2026-04-20T18:42:07Z
   Vendor: Moman
@@ -579,12 +579,12 @@
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/0c829dee20203c8a8c2d25daead1c46a.jpg?v=1701229987
     Price: $12.79 USD
 - [COLBOR VAP1 V-mount to NPF Battery Adapter and VC50 | Moman](https://momanx.com/products/v-mount-to-npf-battery-adapter-colbor-vap1): COLBOR VAP1 V-mount to NPF battery adapter is packed with the  D-tap to USB-C cable VC50. It is specially designed to use with COLBOR CL100X/CL60-Serie video lights for steady and continuous charging.
-  Updated: 2026-04-20T18:42:16Z
+  Updated: 2026-04-27T07:59:59Z
   Vendor: COLBOR
   Product Type: Battery Plates
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/6391ace427ade714b70fb966024ae804_16f52811-3b23-44c0-b621-d74f829a12c6.jpg?v=1701680876
-  Price: $23.99 USD
+  Price: $29.99 USD
 - [Heavy Duty Camera Tripod  Moman Max80 | Moman](https://momanx.com/products/heavy-duty-camera-tripod-moman-max80): Moman Max80 heavy duty camera tripod is built of stable and robust Aluminium Alloy Metal materials. It can hold filming devices and rigs up to 15kg. It is best for travel photography and videography, field filming, landscape recording, etc.
   Updated: 2026-04-20T18:42:17Z
   Vendor: Moman
@@ -621,14 +621,14 @@
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/4_76fd1b3c-489f-43de-9207-c2a0a3e4e9a8.jpg?v=1703651092
   Price: $47.99 USD
 - [Moman H2 Bluetooth Motorcycle Helmet Speaker | Moman](https://momanx.com/products/bluetooth-motorcycle-helmet-speaker-moman-h2): This Bluetooth motorcycle helmet speaker is an alternative accessory to the Moman H2 intercom. This package includes soft and hard microphones, and other mounting clips and velcros. It provides clear audio for communication on your rides.
-  Updated: 2026-04-20T18:42:19Z
+  Updated: 2026-04-29T12:17:06Z
   Vendor: Moman
   Product Type: Motorcycle Intercoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/1_27520552-6014-4b8f-9415-9547f9d43137.jpg?v=1703899253
   Price: $19.99 USD
 - [RGB Light for Studio COLBOR CL220R | Moman](https://momanx.com/products/rgb-light-for-studio-colbor-cl220r): COLBOR CL220R RGB light for studio supports max. 250W power output for illuminating. It features a high CRI of 97, a unique color-pick function, and an M/G balance system for rich and natural images when shooting and filming.
-  Updated: 2026-04-20T18:42:49Z
+  Updated: 2026-04-27T07:59:32Z
   Vendor: COLBOR
   Product Type: Studio Lights
   Availability: Available
@@ -636,19 +636,19 @@
   - [US](https://momanx.com/products/rgb-light-for-studio-colbor-cl220r?variant=47521043480872)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/COLBOR-CL220R_-1600.jpg?v=1706166852
-    Price: $339.15 USD
+    Price: $399.00 USD
   - [UK](https://momanx.com/products/rgb-light-for-studio-colbor-cl220r?variant=47521043513640)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/COLBOR-CL220R_-1600.jpg?v=1706166852
-    Price: $339.15 USD
+    Price: $399.00 USD
   - [EU](https://momanx.com/products/rgb-light-for-studio-colbor-cl220r?variant=47521043546408)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/COLBOR-CL220R_-1600.jpg?v=1706166852
-    Price: $381.65 USD
+    Price: $449.00 USD
   - [JP](https://momanx.com/products/rgb-light-for-studio-colbor-cl220r?variant=47521043579176)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/COLBOR-CL220R_-1600.jpg?v=1706166852
-    Price: $381.65 USD
+    Price: $449.00 USD
 - [Best Gift for Amateur Photographer Moman CT9 | Moman](https://momanx.com/products/best-gift-for-amateur-photographer-moman-ct9): Moman CT9 best gift for amateur photographer is a USB-C hub with three USB 3.0 ports with 4K HD output. It is compatible with laptops, MacBooks, SD/TF card readers, and other Type-C devices.
   Updated: 2026-04-20T18:42:50Z
   Vendor: Moman
@@ -664,7 +664,7 @@
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/4_9f8d1c68-bb1f-45de-8845-f1d5d8602a4e.jpg?v=1708594394
   Price: $59.99 USD
 - [V Mount Battery Plate for BMPCC 4K Moman MVBP | Moman](https://momanx.com/products/v-mount-battery-plate-for-bmpcc-4k-moman-mvbp): Moman MVBP v mount battery plate for BMPCC 4K has two kinds of mounting options. It can be mounted on camera setup, rods, video light stand, stabilizer, and so on. It is portable, robust, and flexible to use.
-  Updated: 2026-04-20T18:42:50Z
+  Updated: 2026-04-27T07:59:59Z
   Vendor: Moman
   Product Type: Battery Plates
   Availability: Available
@@ -672,11 +672,11 @@
   - [MVBP-C](https://momanx.com/products/v-mount-battery-plate-for-bmpcc-4k-moman-mvbp?variant=47725003899176)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/Moman--MVBP-C_-1600x1600.jpg?v=1709196068
-    Price: $71.20 USD
+    Price: $89.00 USD
   - [MVBP-S](https://momanx.com/products/v-mount-battery-plate-for-bmpcc-4k-moman-mvbp?variant=47725003931944)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/Moman--MVBP-S_-1600x1600.jpg?v=1709196068
-    Price: $71.20 USD
+    Price: $89.00 USD
 - [Gift for Young Photographer Moman CS6 | Moman](https://momanx.com/products/gift-for-young-photographer-moman-cs6): Moman CS6 gift for young photographer is a wireless 4K HDMI transmitter and receiver. It can be used with cameras, PCs, laptops, TV, and other devices for picture and video projection. It provides wireless transmission within 50 meters.
   Updated: 2026-04-20T18:42:50Z
   Vendor: Moman
@@ -692,33 +692,33 @@
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/CS6-C.jpg?v=1728981055
     Price: $89.95 USD
 - [99Wh V-mount Camera Battery Moman Power 99 Touch | Moman](https://momanx.com/products/99wh-vmount-camera-battery-moman-power-99-touch): Moman Power 99 Touch 99Wh V-mount camera battery features an LED display, compact size, durable construction, various charging ports, and high density.
-  Updated: 2026-04-20T18:42:51Z
+  Updated: 2026-04-27T20:16:25Z
   Vendor: Moman
   Product Type: V Mount Batteries
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/Power-99-Touch-1600x1600-1.jpg?v=1710914329
-  Price: $143.20 USD
+  Price: $179.00 USD
 - [50Wh V Mount Battery Moman Power 50 Touch | Moman](https://momanx.com/products/50wh-v-mount-battery-moman-power-50-touch): Moman Power 50 Touch 50Wh v mount battery carries a D-Tap, USB-A, USB-C, and DC ports. It has a smart BMS system for stable power delivery.
-  Updated: 2026-04-20T18:42:51Z
+  Updated: 2026-04-27T20:16:26Z
   Vendor: Moman
   Product Type: V Mount Batteries
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/Power-50-Touch-1600x1600-1.jpg?v=1711517991
-  Price: $111.20 USD
+  Price: $139.00 USD
 - [Bluetooth Headset for Dirt Bike Helmet Moman H4S | Moman](https://momanx.com/products/bluetooth-headset-for-dirt-bike-helmet-moman-h4s): Moman H4S Bluetooth headset for dirt bike helmet is specially designed to have a headlight and RGB lighting effects. It uses Bluetooth 5.3 wireless tech to connect to your phone for music, calls, etc.
-  Updated: 2026-04-20T18:42:51Z
+  Updated: 2026-04-27T07:59:49Z
   Vendor: Moman
   Product Type: Motorcycle Headsets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/Moman-H4S-_-1600x1600.jpg?v=1712631266
-  Price: $28.79 USD
+  Price: $35.99 USD
 - [D Tap to NP F Battery Adapter Moman DDB-NPF | Moman](https://momanx.com/products/d-tap-to-np-f-battery-adapter-moman-ddb-npf): Moman DDB-NPF is a D Tap to NP F battery adapter featuring three-way outputs, which includes the double-sized dummy battery and Type-C port. It is built of robust struction and reliable safety protection.
-  Updated: 2026-04-20T18:42:52Z
+  Updated: 2026-04-27T07:59:59Z
   Vendor: Moman
   Product Type: Battery Cables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/6391ace427ade714b70fb966024ae804_c7f4ccc4-0622-414d-84b2-86e0a29fb5e6.jpg?v=1713429092
-  Price: $39.99 USD
+  Price: $49.99 USD
 - [Outdoor LED Solar Spotlight Moman SL218 | Moman](https://momanx.com/products/outdoor-led-solar-spotlight-moman-sl218): Moman SL218 outdoor LED solar spotlight is a 2-Pack solar lamp with motion sensor. It features 5 lighting modes, a waterproof IP65 structure, supporting remote control. Its 218 LEDs can provide a illumincation of 6500K for outdoor use.
   Updated: 2026-04-20T18:42:52Z
   Vendor: Moman
@@ -748,7 +748,7 @@
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/1f50660c89a4f8ee6927962609d82a8f.jpg?v=1713437215
     Price: $24.47 USD
 - [Portable LED Video Light COLBOR W60 and W60R | Moman](https://momanx.com/products/portable-led-video-light-colbor-w60-w60r): COLBOR W60 and W60R portable LED video light feature 60W COB output for CRI 97+, temperature-changeable, wide-range, bright, and even illumination. They are ideal to be used in filming, live streaming, and photo shooting.
-  Updated: 2026-04-20T18:42:53Z
+  Updated: 2026-04-27T07:59:32Z
   Vendor: COLBOR
   Product Type: Studio Lights
   Availability: Available
@@ -756,35 +756,35 @@
   - [W60 (Bi-Color) / US](https://momanx.com/products/portable-led-video-light-colbor-w60-w60r?variant=48303833940264)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/1_16990e68-6aa2-4ee5-8851-b88e783e012e.jpg?v=1714037306
-    Price: $109.65 USD
+    Price: $129.00 USD
   - [W60 (Bi-Color) / UK](https://momanx.com/products/portable-led-video-light-colbor-w60-w60r?variant=48303833973032)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/1_16990e68-6aa2-4ee5-8851-b88e783e012e.jpg?v=1714037306
-    Price: $143.65 USD
+    Price: $169.00 USD
   - [W60 (Bi-Color) / EU](https://momanx.com/products/portable-led-video-light-colbor-w60-w60r?variant=48303834005800)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/1_16990e68-6aa2-4ee5-8851-b88e783e012e.jpg?v=1714037306
-    Price: $118.15 USD
+    Price: $139.00 USD
   - [W60 (Bi-Color) / JP](https://momanx.com/products/portable-led-video-light-colbor-w60-w60r?variant=48303834038568)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/1_16990e68-6aa2-4ee5-8851-b88e783e012e.jpg?v=1714037306
-    Price: $109.65 USD
+    Price: $129.00 USD
   - [W60R (RGB) / US](https://momanx.com/products/portable-led-video-light-colbor-w60-w60r?variant=48803910811944)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/W60R_4916253e-8be1-49dd-9e5f-d43f150620a3.jpg?v=1718871359
-    Price: $143.65 USD
+    Price: $169.00 USD
   - [W60R (RGB) / UK](https://momanx.com/products/portable-led-video-light-colbor-w60-w60r?variant=48803910844712)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/W60R_4916253e-8be1-49dd-9e5f-d43f150620a3.jpg?v=1718871359
-    Price: $186.15 USD
+    Price: $219.00 USD
   - [W60R (RGB) / EU](https://momanx.com/products/portable-led-video-light-colbor-w60-w60r?variant=48803910877480)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/W60R_4916253e-8be1-49dd-9e5f-d43f150620a3.jpg?v=1718871359
-    Price: $169.15 USD
+    Price: $199.00 USD
   - [W60R (RGB) / JP](https://momanx.com/products/portable-led-video-light-colbor-w60-w60r?variant=48803910910248)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/W60R_4916253e-8be1-49dd-9e5f-d43f150620a3.jpg?v=1718871359
-    Price: $169.15 USD
+    Price: $199.00 USD
 - [Motorcycle Handlebar Cell Phone Holder Moman PME1 | Moman](https://momanx.com/products/motorcycle-handlebar-cell-phone-holder-moman-pme1): Moman PME1 motorcycle handlebar cell phone holder features reliable mounting, quick removement, 360° rotable ability, and wide compatibility with various tools, such as bikes, scooters, etc.
   Updated: 2026-04-20T18:42:53Z
   Vendor: Moman
@@ -800,7 +800,7 @@
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/2-1600x1600_b6d42fe3-2a7b-4ffd-b93d-6916944a1bab.jpg?v=1715675135
   Price: $59.99 USD
 - [Mobile Wireless Microphone System Moman M1 | Moman](https://momanx.com/products/mobile-wireless-microphone-system-moman-m1): Moman M1 mobile wireless microphone system has four options for 1-to-1, 1-to-2, iPhone and Android phone recording. It features plug-and-play, DSP noise cancellation chip, and 6-hour long battery life.
-  Updated: 2026-04-20T18:42:54Z
+  Updated: 2026-04-27T07:59:19Z
   Vendor: Moman
   Product Type: Wireless Microphones
   Availability: Available
@@ -808,19 +808,19 @@
   - [1-to-1 / Lightning](https://momanx.com/products/mobile-wireless-microphone-system-moman-m1?variant=48607163646248)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/M1_2091b796-cadd-4e34-b75e-4c5005b0608c.jpg?v=1716881034
-    Price: $19.19 USD
+    Price: $23.99 USD
   - [1-to-1 / Type-C](https://momanx.com/products/mobile-wireless-microphone-system-moman-m1?variant=48607163711784)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/M1_2091b796-cadd-4e34-b75e-4c5005b0608c.jpg?v=1716881034
-    Price: $19.19 USD
+    Price: $23.99 USD
   - [1-to-2 / Lightning](https://momanx.com/products/mobile-wireless-microphone-system-moman-m1?variant=48607163679016)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/M1-_-_600.jpg?v=1716881034
-    Price: $25.59 USD
+    Price: $31.99 USD
   - [1-to-2 / Type-C](https://momanx.com/products/mobile-wireless-microphone-system-moman-m1?variant=48607163777320)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/M1-_-_600.jpg?v=1716881034
-    Price: $25.59 USD
+    Price: $31.99 USD
 - [Portable Battery for Lights COLBOR PG99 | Moman](https://momanx.com/products/portable-battery-for-lights-colbor-pg99): COLBOR PG99 portable battery for lights is designed for COLBOR W100 and W60 compact LED lighting, and other camera gears. It has a Type-C and D-tap port, and weighs 605g for comfortable gripping.
   Updated: 2026-04-20T18:42:54Z
   Vendor: COLBOR
@@ -928,7 +928,7 @@
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/1_6b268f49-e1a4-4218-92f1-1d62ac1c88a8.jpg?v=1719836985
   Price: $119.20 USD
 - [Bluetooth Intercom with Audio Multitasking Moman H2E | Moman](https://momanx.com/products/bluetooth-intercom-with-audio-multitasking-moman-h2e): Moman H2E is a Bluetooth intercom with audio multitasking. It can run two functions at the same time and supports two-way wireless communication within 1000 meters.
-  Updated: 2026-04-22T05:47:19Z
+  Updated: 2026-04-27T07:59:49Z
   Vendor: Moman
   Product Type: Motorcycle Intercoms
   Availability: Available
@@ -936,25 +936,25 @@
   - [2-Rider Kit](https://momanx.com/products/bluetooth-intercom-with-audio-multitasking-moman-h2e?variant=48879728591144)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/H2E_Eagle.jpg?v=1723704961
-    Price: $103.20 USD
+    Price: $129.00 USD
   - [Single Pack](https://momanx.com/products/bluetooth-intercom-with-audio-multitasking-moman-h2e?variant=48879728558376)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/1-1600x1600_71615df5-4217-4a45-a5f9-207f6c147b1c.jpg?v=1723706784
-    Price: $55.20 USD
+    Price: $69.00 USD
 - [Motorcycle Bluetooth Headset with Camera Moman H4C | Moman](https://momanx.com/products/motorcycle-bluetooth-headset-with-camera-moman-h4c): Moman H4C is a motorcycle Bluetooth headset with camera. It allows for recording 1080P videos and loop recording.
-  Updated: 2026-04-20T18:43:11Z
+  Updated: 2026-04-28T21:56:47Z
   Vendor: Moman
   Product Type: Motorcycle Headsets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/H4C_1-1600_1cb7bc58-15e6-4c99-8775-bfba6d3a9c14.jpg?v=1722307134
-  Price: $55.99 USD
+  Price: $69.99 USD
 - [Bluetooth Headset with Display Moman H4M | Moman](https://momanx.com/products/bluetooth-headset-with-display-moman-h4m): Moman H4M Bluetooth headset with display is a versatile device for riders. The clear LCD screen displays a wealth of operating information, including battery level, volume, FM radio, and more.
-  Updated: 2026-04-20T18:43:11Z
+  Updated: 2026-04-27T07:59:50Z
   Vendor: Moman
   Product Type: Motorcycle Headsets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/61oa29LoNYL._AC_SL1500.jpg?v=1722318737
-  Price: $37.59 USD
+  Price: $46.99 USD
 - [Moman H2 Bluetooth Motorcycle Helmet Speaker | Moman](https://momanx.com/products/moman-interchangeable-shells-for-moman-h2e-intercom-customizable-pattern-shells-kit): This Bluetooth motorcycle helmet speaker is an alternative accessory to the Moman H2 intercom. This package includes soft and hard microphones, and other mounting clips and velcros. It provides clear audio for communication on your rides.
   Updated: 2026-04-20T18:43:12Z
   Vendor: Moman
@@ -977,14 +977,14 @@
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/1600x1600_2657f7b9-b71f-4f94-9b14-3c0b30b7872b.jpg?v=1724379872
   Price: $15.99 USD
 - [LED Light for DSLR Camera Moman PC8 | Moman](https://momanx.com/products/led-light-for-dslr-camera-moman-pc8): Moman PC8 LED light for DSLR camera is an RGB light. It features 13 lighting effects and is ideal for photography, live streaming, and recording.
-  Updated: 2026-04-20T18:43:12Z
+  Updated: 2026-04-27T08:11:04Z
   Vendor: Moman
   Product Type: Camera Lights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/PC8.jpg?v=1726048605
-  Price: $33.99 USD
+  Price: $39.99 USD
 - [RGB Photography Light COLBOR W100R | Moman](https://momanx.com/products/rgb-photography-light-colbor-w100r): COLBOR W100R RGB photography light features 100W power output, 360° full colors, handheld size, and efficient lighting control.
-  Updated: 2026-04-20T18:43:13Z
+  Updated: 2026-04-27T08:11:05Z
   Vendor: COLBOR
   Product Type: Studio Lights
   Availability: Available
@@ -992,56 +992,56 @@
   - [US Plug](https://momanx.com/products/rgb-photography-light-colbor-w100r?variant=49547173069096)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/6391ace427ade714b70fb966024ae804_29a49100-f7c9-461e-8c68-da70f0f6204f.jpg?v=1732270684
-    Price: $169.15 USD
+    Price: $199.00 USD
   - [UK Plug](https://momanx.com/products/rgb-photography-light-colbor-w100r?variant=49547173101864)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/6391ace427ade714b70fb966024ae804_29a49100-f7c9-461e-8c68-da70f0f6204f.jpg?v=1732270684
-    Price: $203.15 USD
+    Price: $239.00 USD
   - [EU Plug](https://momanx.com/products/rgb-photography-light-colbor-w100r?variant=49547173134632)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/6391ace427ade714b70fb966024ae804_29a49100-f7c9-461e-8c68-da70f0f6204f.jpg?v=1732270684
-    Price: $194.65 USD
+    Price: $229.00 USD
   - [JP Plug](https://momanx.com/products/rgb-photography-light-colbor-w100r?variant=49547173167400)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/6391ace427ade714b70fb966024ae804_29a49100-f7c9-461e-8c68-da70f0f6204f.jpg?v=1732270684
-    Price: $169.15 USD
+    Price: $199.00 USD
 - [Motorcycle Group Intercom Moman CP-S | Moman](https://momanx.com/products/motorcycle-group-intercom-moman-cp-s): The Moman CP-S motorcycle group intercom supports up to 8-rider communication within a 2000m range.
-  Updated: 2026-04-20T18:57:26Z
+  Updated: 2026-04-27T07:59:48Z
   Vendor: Moman
   Product Type: Motorcycle Intercoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/CP-S_-1600_compressed.jpg?v=1734575574
-  Price: $63.20 USD
+  Price: $79.00 USD
 - [Wireless Bluetooth Intercom Moman CP-E | Moman](https://momanx.com/products/wireless-bluetooth-intercom-moman-cp-e): The Moman CP-E wireless Bluetooth intercom supports up to 6-rider communication, featuring a 2000m communication range, music shares, and FM radio.
-  Updated: 2026-04-20T18:43:14Z
+  Updated: 2026-04-27T07:59:49Z
   Vendor: Moman
   Product Type: Motorcycle Intercoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/CP-E_-1600_d23934b9-e3ba-4028-b9a0-cb6027fa7048.jpg?v=1734575091
-  Price: $55.99 USD
+  Price: $69.99 USD
 - [40W Smoke Fog Machine COLBOR CF5 | Moman](https://momanx.com/products/smoke-fog-machine-colbor-cf5): COLBOR CF5 smoke fog machine features a 40W output and a 60-degree adjustable body.
-  Updated: 2026-04-20T18:43:14Z
+  Updated: 2026-04-29T22:57:27Z
   Vendor: COLBOR
   Product Type: Fog Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/1600X1600-_-5.jpg?v=1736838954
   Price: $103.20 USD
 - [Video Camera Teleprompter Moman MT16 | Moman](https://momanx.com/products/video-camera-teleprompter-moman-mt16): Moman MT16 is a video camera teleprompter with a 16-inch beamsplitter glass.
-  Updated: 2026-04-20T18:43:14Z
+  Updated: 2026-04-27T20:16:26Z
   Vendor: Moman
   Product Type: Teleprompters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/MT16_6.jpg?v=1738919174
-  Price: $159.20 USD
+  Price: $199.00 USD
 - [Bluetooth Headset for Motorcycle Riders Moman RS-S | Moman](https://momanx.com/products/bluetooth-headset-for-motorcycle-riders-moman-rs-s): Moman RS-S Bluetooth headset for motorcycle riders carries glove-friendly buttons and features HiFi stereo sound, FM radio, and noise cancellation.
-  Updated: 2026-04-20T18:43:15Z
+  Updated: 2026-04-27T07:59:49Z
   Vendor: Moman
   Product Type: Motorcycle Headsets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/1600_98a8466f-21eb-46c2-8c75-7b47c6566801.jpg?v=1738980225
-  Price: $27.99 USD
+  Price: $34.99 USD
 - [Wireless Button Microphone Moman Coin | Moman](https://momanx.com/products/wireless-button-microphone-moman-coin): Moman Coin wireless button microphone is compatible with smartphones and cameras. It features active noise reduction and can run for 48 hours.
-  Updated: 2026-04-20T18:43:15Z
+  Updated: 2026-04-27T07:59:19Z
   Vendor: Moman
   Product Type: Wireless Microphones
   Availability: Available
@@ -1049,18 +1049,18 @@
   - [For Lightning/USB-C](https://momanx.com/products/wireless-button-microphone-moman-coin?variant=50032749707560)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/Moman_BMC1_phone_w.jpg?v=1744268809
-    Price: $39.20 USD
+    Price: $49.00 USD
   - [For Lightning/USB-C/3.5mm](https://momanx.com/products/wireless-button-microphone-moman-coin?variant=50032749740328)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/Moman_BMC1_all_w.jpg?v=1744268809
-    Price: $47.20 USD
+    Price: $59.00 USD
 - [Voice Amplifier Wireless Microphone Moman S57 | Moman](https://momanx.com/products/voice-amplifier-wireless-microphone-moman-s57): Moman S57 voice amplifier wireless microphone provides crisp, loud audio with no whistling.
-  Updated: 2026-04-20T18:43:15Z
+  Updated: 2026-04-27T07:59:19Z
   Vendor: Moman
   Product Type: Voice Amplifiers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/Moman_S57_w.jpg?v=1744885605
-  Price: $39.99 USD
+  Price: $49.99 USD
 - [Motorcycle Helmet And Jacket Rack Moman HRW1 | Moman](https://momanx.com/products/motorcycle-helmet-and-jacket-rack-moman-hrw1): Moman HRW1 motorcycle helmet and jacket rack is wall mounted and features a max. load capacity of 40kg.
   Updated: 2026-04-20T18:43:16Z
   Vendor: Moman
@@ -1069,7 +1069,7 @@
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/Moman_HRW1_w.jpg?v=1744858510
   Price: $39.99 USD
 - [Motorcycle Helmet Sling Bag Moman B1 | Moman](https://momanx.com/products/motorcycle-helmet-sling-bag-moman-b1): Moman B1 motorcycle helmet sling bag accommodates various helmets. Inbuilt mesh pocket and integrated hook offer room for daily gear.
-  Updated: 2026-04-20T18:44:54Z
+  Updated: 2026-04-27T20:26:09Z
   Vendor: Moman
   Product Type: Intercom Accessories
   Availability: Available
@@ -1104,7 +1104,7 @@
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/71l-Pe1pZsL._AC_SL1500.jpg?v=1750413795
     Price: $23.99 USD
 - [Intercom System for Motorcycle Moman H2S | Moman](https://momanx.com/products/intercom-system-for-motorcycle-moman-h2s): Moman H2S intercom system for motorcycles features ENC noise cancellation for clear communication and dual chips for true audio multitasking.
-  Updated: 2026-04-22T13:28:07Z
+  Updated: 2026-04-28T21:35:43Z
   Vendor: Moman
   Product Type: Motorcycle Intercoms
   Availability: Available
@@ -1112,13 +1112,13 @@
   - [Single Pack](https://momanx.com/products/intercom-system-for-motorcycle-moman-h2s?variant=50372024336680)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/Moman_H2S_white_01.jpg?v=1752135419
-    Price: $39.20 USD
+    Price: $49.00 USD
   - [2-Rider Kit](https://momanx.com/products/intercom-system-for-motorcycle-moman-h2s?variant=50372024369448)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/Moman_H2S_white_02.jpg?v=1752135419
-    Price: $79.20 USD
+    Price: $99.00 USD
 - [Motorcycle Tyre Pressure Monitor Moman M2 | Moman](https://momanx.com/products/motorcycle-tyre-pressure-monitor-moman-m2): Moman M2 motorcycle tyre pressure monitor offers real-time monitoring via the APP. It is quick to set up and durable.
-  Updated: 2026-04-20T18:44:56Z
+  Updated: 2026-04-29T12:02:07Z
   Vendor: Moman
   Product Type: Intercom Accessories
   Availability: Available
@@ -1157,21 +1157,21 @@
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/Moman_TLK_07.jpg?v=1755067356
     Price: $29.99 USD
 - [Best Backpack for Motorcycle Helmet Moman B2R | Moman](https://momanx.com/products/best-backpack-for-motorcycle-helmet-moman-b2r): Moman B2R is the best backpack for motorcycle helmet with a 40L capacity. It is designed for safe and comfortable use in all conditions.
-  Updated: 2026-04-20T18:44:57Z
+  Updated: 2026-04-25T17:21:58Z
   Vendor: Moman
   Product Type: Intercom Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/Moman_B2R_w.jpg?v=1758802559
   Price: $39.00 USD
 - [Wireless Brake Light for Motorcycle Moman HL1S | Moman](https://momanx.com/products/wireless-brake-light-for-motorcycle-moman-hl1s): Moman HL1S wireless brake light for motorcycle can automatically switch between driving and brake modes. It is charged by solar power and USB-C charging.
-  Updated: 2026-04-20T18:47:16Z
+  Updated: 2026-04-25T17:21:57Z
   Vendor: Moman
   Product Type: Intercom Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/Moman_HL1S_w.jpg?v=1758954163
   Price: $29.00 USD
 - [Moman Motorcycle Fuel Bag | Moman](https://momanx.com/products/moman-motorcycle-fuel-bag): The Moman motorcycle fuel bag is a 2-gallon foldable utility bladder with a 7mm TPU inner layer and durable nylon shell.
-  Updated: 2026-04-20T18:47:17Z
+  Updated: 2026-04-29T14:47:47Z
   Vendor: Moman
   Product Type: Intercom Accessories
   Availability: Available
@@ -1185,7 +1185,7 @@
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/colbor_cf3_w.jpg?v=1760617389
   Price: $89.00 USD
 - [Mesh Motorcycle Intercom Moman CP-X | Moman](https://momanx.com/products/mesh-motorcycle-intercom-moman-cp-x): Moman CP-X mesh motorcycle intercom supports group communication of up to 24 riders. It also features audio multitasking and auto volume control.
-  Updated: 2026-04-22T21:52:57Z
+  Updated: 2026-04-29T10:10:57Z
   Vendor: Moman
   Product Type: Motorcycle Intercoms
   Availability: Available
@@ -1193,15 +1193,15 @@
   - [1PCS](https://momanx.com/products/mesh-motorcycle-intercom-moman-cp-x?variant=51140375052584)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/Moman_CPX_1-unit.jpg?v=1769074674
-    Price: $55.20 USD
+    Price: $69.00 USD
   - [2PCS](https://momanx.com/products/mesh-motorcycle-intercom-moman-cp-x?variant=51140375085352)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/Moman_CPX_2-unit.jpg?v=1769074908
-    Price: $103.20 USD
+    Price: $129.00 USD
   - [4PCS](https://momanx.com/products/mesh-motorcycle-intercom-moman-cp-x?variant=51140375118120)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/Moman_CPX_4-unit.jpg?v=1769074908
-    Price: $199.20 USD
+    Price: $249.00 USD
 - [Sunglasses for Motorcycle Riding Moman CG | Moman](https://momanx.com/products/sunglasses-for-motorcycle-riding-moman-cg): Moman CG sunglasses for motorcycle riding provide sharp, distortion-free vision, an OTG fit that accommodates  glasses, and UV400 protection.
   Updated: 2026-04-20T18:47:17Z
   Vendor: Moman
@@ -1254,7 +1254,7 @@
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/2-1_9592d697-699c-4770-9a95-ace6e246d5da.jpg?v=1761274980
     Price: $24.99 USD
 - [Phone Selfie Monitor Screen Moman XView M4 | Moman](https://momanx.com/products/phone-selfie-monitor-screen-moman-xview-m4): Shoot smarter with the Moman XView M4 phone selfie monitor screen. It features 5.8GHz P2P connection, 164ft range, magnetic mount, and 3-hour battery life.
-  Updated: 2026-04-20T18:47:18Z
+  Updated: 2026-04-28T05:57:05Z
   Vendor: Moman
   Product Type: Phone Monitors
   Availability: Available
@@ -1276,7 +1276,7 @@
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/Moman_XView_M4_W_Blue_1ebd5a6e-a613-4e13-be53-11fd6fc75cbd.jpg?v=1761701500
     Price: $39.99 USD
 - [Selfie Stick Tripod for Phone with Monitor Moman CL07 | Moman](https://momanx.com/products/selfie-stick-tripod-for-phone-moman-cl07): Moman CL07 selfie stick tripod for phone features a detachable monitor and remote control. It ensures 360° rotation, 270° tilt, and adjustable 18’’–69’’ height.
-  Updated: 2026-04-20T18:47:18Z
+  Updated: 2026-04-27T07:59:06Z
   Vendor: Moman
   Product Type: Tripods
   Availability: Available
@@ -1290,7 +1290,7 @@
   Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/Moman_water_backpack_w.jpg?v=1762420420
   Price: $47.00 USD
 - [Bluetooth Voice Amplifier with Wireless Mic Moman A6 Max | Moman](https://momanx.com/products/bluetooth-voice-amplifier-moman-a6-max): Amplify your voice with Moman A6 Max Bluetooth Voice Amplifier. It includes a wireless mic with 164ft range and doubles as a Bluetooth speaker with AUX input.
-  Updated: 2026-04-20T18:47:19Z
+  Updated: 2026-04-27T08:11:08Z
   Vendor: Moman
   Product Type: Voice Amplifiers
   Availability: Available
@@ -1298,13 +1298,13 @@
   - [Pink](https://momanx.com/products/bluetooth-voice-amplifier-moman-a6-max?variant=51175421411624)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/Moman_A6_Max_pink_w.jpg?v=1765354422
-    Price: $47.99 USD
+    Price: $59.99 USD
   - [White](https://momanx.com/products/bluetooth-voice-amplifier-moman-a6-max?variant=51175421444392)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/Moman_A6_Max_white_w.jpg?v=1765354285
-    Price: $47.99 USD
+    Price: $59.99 USD
 - [Auto Tracking Tripod for Phone Moman TT07 | Moman](https://momanx.com/products/auto-tracking-tripod-for-phone-moman-tt07): Moman TT07 auto tracking tripod for phone makes filming easy! It features auto face-tracking, auto-open base, 360° pan, 270° tilt, and 18"-69" selfie stick.
-  Updated: 2026-04-20T18:47:32Z
+  Updated: 2026-04-27T07:59:06Z
   Vendor: Moman
   Product Type: Tripods
   Availability: Available
@@ -1329,7 +1329,7 @@
     Image: https://cdn.shopify.com/s/files/1/0398/3032/3351/files/COLBOR_fog_machine_liquid_w_03.jpg?v=1768462136
     Price: $35.99 USD
 - [COLBOR Fog Chamber for CF5 Fog Machine | Moman](https://momanx.com/products/fog-chamber-for-colbor-cf5): This COLBOR fog machine is specially designed for the COLBOR CF5 fog machine, coming with a 12ml capacity.
-  Updated: 2026-04-20T18:47:33Z
+  Updated: 2026-04-25T06:34:28Z
   Vendor: COLBOR
   Product Type: Fog Machine
   Availability: Available
@@ -1339,10 +1339,10 @@
 ## Collections
 
 - [Professional Microphone | Best Microphone for Streaming | Moman](https://momanx.com/collections/microphones): Shop a professional microphone at Moman Store for your stage or studio recording OR get the best microphone for streaming in the daily recording.
-  Updated: 2026-04-20T18:40:39Z
+  Updated: 2026-04-27T11:12:55Z
   Total Products: 56
 - [Best Teleprompter | Teleprompter for  | Moman](https://momanx.com/collections/teleprompters): Find the best teleprompter for  here at the Moman store, which is clear, wide and supports multi-devices, designed to offer you natural live-streaming, tutorial videos and online conferences.
-  Updated: 2026-04-20T18:40:39Z
+  Updated: 2026-04-27T08:16:15Z
   Total Products: 9
 - [Wireless Transmission | Wireless Video Transmission | Moman](https://momanx.com/collections/wireless-transmission): Click and shop Moman wireless video transmission featuring revolutionary transmission systems and humanized designs, which is ideal for live streaming, conferencing, interviewing, etc.
   Updated: 2026-04-20T18:40:39Z
@@ -1351,13 +1351,13 @@
   Updated: 2026-04-20T18:40:40Z
   Total Products: 11
 - [Wireless Microphone | Wireless Lavalier Microphone and System | Moman](https://momanx.com/collections/wireless-microphones): Discover the best wireless microphone that consists of a mic, receiver, and transmitter at Moman Store and find the suitable wireless lavalier microphone and system for your streaming.
-  Updated: 2026-04-20T18:40:40Z
+  Updated: 2026-04-27T11:12:55Z
   Total Products: 30
 - [Photography Accessories | Outdoor Photography Accessories | Moman](https://momanx.com/collections/photography-accessories): Click here and stock up on Moman outdoor photography accessories, which include all kinds of practical tools such as rechargeable batteries, compact tripod, monopod and so on, applying to different situations.
-  Updated: 2026-04-20T18:40:40Z
+  Updated: 2026-04-27T07:59:06Z
   Total Products: 26
 - [Budget Camera Battery | Camera Battery Near Me | Moman](https://momanx.com/collections/batteries): Click and shop at momanx.com, a store  budget camera battery featuring high capacity and high power, helping photographers for on-the-go shooting, professional filming, vlogs and even live-streaming.
-  Updated: 2026-04-21T13:36:28Z
+  Updated: 2026-04-27T08:16:15Z
   Total Products: 27
 - [Recording Microphone | Best Microphone for Video Recording | Moman](https://momanx.com/collections/recording-microphones): Click and discover your best recording microphone and accessories of SYNCO, a brand stationed at Moman Store to provide the best microphone for video recording.
   Updated: 2026-04-20T18:40:40Z
@@ -1366,31 +1366,31 @@
   Updated: 2026-04-20T18:40:40Z
   Total Products: 9
 - [Professional Camera Gear l  Camera Gear |  Moman](https://momanx.com/collections/camera-gears): Moman Online Store has been working towards an ambitious target to  camera gear of superior quality as your reliable and professional equipment for brilliant videos and photos shooting.
-  Updated: 2026-04-21T13:36:28Z
+  Updated: 2026-04-27T08:16:15Z
   Total Products: 13
 - [Tripod for Camera | Carbon Fiber Tripod | Moman](https://momanx.com/collections/tripods): Shop Carbon fiber tripod for camera  at Moman Store. It could be an essential tool for you to stabilize cameras, thus capturing the best shooting view as the eye can see.
-  Updated: 2026-04-20T18:40:40Z
+  Updated: 2026-04-27T07:59:06Z
   Total Products: 15
 - [Studio Light | LED Studio Lights | Moman](https://momanx.com/collections/studio-lights): Still looking for LED studio lights? Come to Moman Store and shop the COLBOR reliable, professional and customized studio light that meets your need and your budget.
-  Updated: 2026-04-20T18:40:40Z
+  Updated: 2026-04-27T07:59:32Z
   Total Products: 24
 - [Photography Light | LED Light for Photography | Moman](https://momanx.com/collections/photography-lights): Here to shop for photography light. Every specialized photographer or amateur shouldn't miss the high-performance LED light for photography at Moman Store which will bring you professional-looking video content.
-  Updated: 2026-04-20T18:40:41Z
+  Updated: 2026-04-27T07:59:32Z
   Total Products: 40
 - [Camera Light | On Camera Video Light | Moman](https://momanx.com/collections/camera-lights): Buy on camera video light at the Moman store, which is of high CRI, wide color temperature range and special lighting effects. With it and you can capture super natural, full color and high-quality pictures with this whether day or night photography.
-  Updated: 2026-04-20T18:40:41Z
+  Updated: 2026-04-27T07:59:31Z
   Total Products: 15
 - [Camera Monitor | External Camera Monitor | Moman](https://momanx.com/collections/camera-monitors): A camera monitor help video creators to develop great contents on youtube and other social media. Shop for external camera monitor at Moman Store.
-  Updated: 2026-04-21T13:36:28Z
+  Updated: 2026-04-28T11:15:31Z
   Total Products: 3
 - [Camera Mount | Camera Grip | Moman](https://momanx.com/collections/camera-mounts-grips): Click and buy a Moman camera mount or grip to hold your photography equipment.
   Updated: 2026-04-20T18:40:41Z
   Total Products: 2
 - [Streaming Microphone | Best Budget Microphone for Streaming | Moman](https://momanx.com/collections/streaming-microphones): Best budget microphone for streaming, gaming, and podcasting. Find a Moman streaming microphone suitable for your recording.
-  Updated: 2026-04-20T18:40:41Z
+  Updated: 2026-04-27T11:12:55Z
   Total Products: 19
 - [New Arrivals | New Photography Equipment | Moman](https://momanx.com/collections/new-arrivals): New photography equipment arrives at Moman Store to offer brand new photography and videography experience.
-  Updated: 2026-04-22T11:09:44Z
+  Updated: 2026-04-29T11:12:23Z
   Total Products: 11
 - [Sound Shield | Microphone Sound Shield | Moman](https://momanx.com/collections/sound-shields): Click for the microphone sound shield  at Moman online shop. This compact microphone isolation solution with versatile usage can be your unmissable option.
   Updated: 2026-04-20T18:40:41Z
@@ -1402,34 +1402,34 @@
   Updated: 2026-04-20T18:40:41Z
   Total Products: 7
 - [Phone Microphone | Cell Phone Microphone | Moman](https://momanx.com/collections/phone-microphones): Click and find a cell phone microphone that is compatible with your iOS, android or other types of smartphone to start your mobile recording.
-  Updated: 2026-04-20T18:40:42Z
+  Updated: 2026-04-27T07:59:21Z
   Total Products: 15
 - [OrderlyEmails - Recommended Products](https://momanx.com/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-04-22T11:09:44Z
+  Updated: 2026-04-29T11:12:23Z
   Total Products: 177
 - [Photography Deals - Up to 50% Off  | Photography  of the Day | Moman](https://momanx.com/collections/photography-deals): Check out the latest amazing photography deals at Moman. Discounts from 20-60% are available on each  of the day!
-  Updated: 2026-04-22T11:09:44Z
-  Total Products: 22
+  Updated: 2026-04-28T11:15:31Z
+  Total Products: 16
 - [Battery Accessories | Battery Cables and Accessories | Moman](https://momanx.com/collections/battery-accessories): Here at Moman, all types of battery accessories for , including battery cable, battery plate, etc. give you a safe and stable power-supplying experience. Click and have a look!
-  Updated: 2026-04-20T18:40:42Z
+  Updated: 2026-04-27T07:59:59Z
   Total Products: 15
 - [Motorcycle Helmet Intercom](https://momanx.com/collections/motorcycle-helmet-intercom): Motorcycle helmet intercom can perfectly apply to mountain climbing, biking, and high-speed sports like motorcycle racing, skiing, etc. They are wireless, versatile, waterproof, and mini. They provide high-quality audio.
-  Updated: 2026-04-22T11:09:44Z
+  Updated: 2026-04-29T11:12:23Z
   Total Products: 37
 - [Black Friday Photography Deals | Moman](https://momanx.com/collections/black-friday-photography-deals): Discover Black Friday Photography Deals at Moman Store. Cool tools with big savings! Hurry!
-  Updated: 2026-04-22T11:09:44Z
+  Updated: 2026-04-29T11:12:23Z
   Total Products: 18
 - [Mini V Mount Battery for Travel and Flying | Moman](https://momanx.com/collections/moman-power-series): Want to get a carry-on battery on the airplane? Need a screen to check the remaining power? Click and see which Moman mini v mount battery goes great with you.
-  Updated: 2026-04-21T13:36:28Z
+  Updated: 2026-04-27T08:16:15Z
   Total Products: 9
 - [Best V Mount Battery | Best V Mount Battery Brand Moman Power Max Series | Moman](https://momanx.com/collections/moman-power-max-series): Click to shop the best v mount battery that highlights Grade-A 21700 battery cells and Type-C port. This is a brandnew battery line of Moman, one of the best V mount battery brand.
-  Updated: 2026-04-20T18:40:42Z
+  Updated: 2026-04-27T08:16:15Z
   Total Products: 4
 - [Best Budget V Mount Battery | Best V Lock Battery | Moman](https://momanx.com/collections/v-mount-battery): Shop at momanx.com to find different kinds of v mount battery, from color options, battery capacity, charging port, to output, and get one you would like to go with.
-  Updated: 2026-04-21T13:36:28Z
+  Updated: 2026-04-27T08:16:15Z
   Total Products: 5
 - [BOGO Deals Online | Free Gift with Purchase | Moman](https://momanx.com/collections/bogo-deals): Shop BOGO Deals online at Moman PhotoGears today. Buy more save more, OR get free gift with purchase on recording microphones, video lights, teleprompters, and suchlike photography equipment.
-  Updated: 2026-04-20T18:40:42Z
+  Updated: 2026-04-27T11:12:55Z
   Total Products: 10
 - [Shop Online for 1 Dollar Items | Moman](https://momanx.com/collections/1-dollar-items): Find popular 1 dollar items at Moman PhotoGear Store. Free shipping for orders at 39.99 dollars.
   Updated: 2026-04-20T18:40:43Z
@@ -1438,58 +1438,58 @@
   Updated: 2026-04-20T18:40:43Z
   Total Products: 6
 - [Photographer Tools Summer Shopping | Moman](https://momanx.com/collections/photographer-tools-summer-shopping): Summer savings! Shop a wide selection of photographer tools and get the one you need.
-  Updated: 2026-04-22T11:09:44Z
+  Updated: 2026-04-28T11:15:31Z
   Total Products: 12
 - [Motorcycle Bluetooth Headset | Moman](https://momanx.com/collections/motorcycle-bluetooth-headset): Shop a motorcycle bluetooth headset and stay connected to your bluetooth devices to enhance your riding experience.
-  Updated: 2026-04-20T18:40:43Z
+  Updated: 2026-04-27T07:59:50Z
   Total Products: 8
 - [Motorcycle Bluetooth Intercom | Moman](https://momanx.com/collections/motorcycle-bluetooth-intercom): Moman motorcycle Bluetooth intercom can be your ultimate companion for every ride. Click and get one to communicate with each other on the road.
-  Updated: 2026-04-22T11:09:44Z
+  Updated: 2026-04-29T11:12:23Z
   Total Products: 12
 - [Helmet Intercom](https://momanx.com/collections/helmet-intercom)
-  Updated: 2026-04-22T11:09:44Z
+  Updated: 2026-04-29T11:12:23Z
   Total Products: 8
 - [Shop Photography Tools and Supplies in Back to School | Moman](https://momanx.com/collections/back-to-school-photography-tools-and-supplies): Shop Now! Buy your special photography tools and supplies for your back to school activities and get exclusive savings! Hurry, prices are subject to change!
-  Updated: 2026-04-22T11:09:44Z
+  Updated: 2026-04-29T11:12:23Z
   Total Products: 15
 - [Fall Deals | Tools Every Photographer Needs | Moman](https://momanx.com/collections/fall-deals-tools-every-photographer-needs): No hesitate to buy your gear at Moman Store! Big discounts on tools every photographer needs only in two days!
-  Updated: 2026-04-22T11:09:44Z
+  Updated: 2026-04-29T11:12:23Z
   Total Products: 12
 - [Spring Deals | Essential Photography Gear | Moman](https://momanx.com/collections/spring-deals-essential-photography-gear): Discover a great selection of spring deals at Moman Store. Get big discounts on essential photography gear.
-  Updated: 2026-04-22T11:09:44Z
+  Updated: 2026-04-29T11:12:23Z
   Total Products: 15
 - [Winter Deals | Best Tools for Photographers | Moman](https://momanx.com/collections/winter-deals-best-tools-for-photographers): Shop the best deals on the best tools for photographers at Moman Online Store. Buy now and save big!
-  Updated: 2026-04-22T11:09:44Z
-  Total Products: 22
+  Updated: 2026-04-28T11:15:31Z
+  Total Products: 16
 - [Motorcycle Riding Accessories | Moman](https://momanx.com/collections/motorcycle-riding-accessories): Shop motorcycle riding accessories at Moman PhotoGears Store. Find riding backpacks, helmet racks, phone holders, and more.
-  Updated: 2026-04-20T18:40:44Z
+  Updated: 2026-04-28T11:15:31Z
   Total Products: 17
 - [BOGO 50% OFF | Discounted Photography Equipment | Moman](https://momanx.com/collections/bogo-50-off-discounted-photography-equipment): Find discounted photography equipment at the Moman PhotoGears Store. Enjoy a special : buy one item, get the second 50% off.
-  Updated: 2026-04-21T13:36:28Z
+  Updated: 2026-04-27T08:16:15Z
   Total Products: 8
 - [V Battery Mounts | Moman](https://momanx.com/collections/v-battery-mounts): Explore the Moman V battery mounts—plates and clamps designed to attach V-mount batteries to your camera rig and power lights, monitors, and other gear.
-  Updated: 2026-04-20T18:40:44Z
+  Updated: 2026-04-27T07:59:58Z
   Total Products: 8
 - [V Mount Battery Chargers and Cables | Moman](https://momanx.com/collections/v-mount-battery-chargers-and-cables): Streamline power delivery with Moman V mount battery chargers and cables. Get the one to deliver secure power to cameras, monitors, lights, and accessories.
-  Updated: 2026-04-20T18:40:44Z
+  Updated: 2026-04-27T07:59:59Z
   Total Products: 7
 - [Moman H Series](https://momanx.com/collections/moman-h-series)
-  Updated: 2026-04-22T11:09:44Z
+  Updated: 2026-04-29T11:12:23Z
   Total Products: 5
 - [Moman H2S Related Products](https://momanx.com/collections/moman-h2s-related-products)
-  Updated: 2026-04-22T11:09:44Z
+  Updated: 2026-04-27T11:12:55Z
   Total Products: 4
 - [Moman RS-S Related Products](https://momanx.com/collections/moman-rs-s-related-products)
-  Updated: 2026-04-22T11:09:44Z
+  Updated: 2026-04-29T11:12:23Z
   Total Products: 4
 - [Moman RS-H4P Related Products](https://momanx.com/collections/moman-rs-h4p-related-products)
-  Updated: 2026-04-22T11:09:44Z
+  Updated: 2026-04-27T11:12:55Z
   Total Products: 4
 - [Moman CP-X Related Products](https://momanx.com/collections/moman-cp-x-related-products)
-  Updated: 2026-04-22T11:09:44Z
+  Updated: 2026-04-29T11:12:23Z
   Total Products: 4
 - [Voice Amplifiers | Moman](https://momanx.com/collections/voice-amplifiers): Explore Moman voice amplifiers designed for teachers, presenters, and more. They feature one or two wireless mics and a speaker, offering several ways to wear.
-  Updated: 2026-04-20T18:40:45Z
+  Updated: 2026-04-27T07:59:19Z
   Total Products: 3
 
 ## Blogs
@@ -2601,7 +2601,7 @@
     Author: Moman Photography
     Tags: Camera Battery
   - [Bluetooth headset for full face helmet: Basics and Moman picks](https://momanx.com/blogs/moman-ideas/bluetooth-headset-for-full-face-helmet-basics-moman-picks): Bluetooth headset for full face helmet: Basics and Moman picks
-    Updated: 2024-10-27T13:31:05Z
+    Updated: 2026-04-24T07:08:44Z
     Author: Moman Photography
     Tags: Motorcycle Bluetooth Headset
   - [Buyer guide to microphone for iPhone recording](https://momanx.com/blogs/moman-ideas/buyer-guide-to-microphone-for-iphone-recording): <p data-mce-fragment="1">Read this buyer guide before you choose a microphone for iPhone recording.</p>
@@ -2820,7 +2820,7 @@
     Author: Moman Photography
     Tags: V Mount Battery
   - [How to install full face helmet intercom?](https://momanx.com/blogs/moman-ideas/how-to-install-full-face-helmet-intercom): <p>Get a step-by-step guide to installing full face helmet intercom.</p>
-    Updated: 2025-03-28T06:33:31Z
+    Updated: 2026-04-24T07:11:04Z
     Author: Moman Photography
     Tags: Motorcycle Helmet Intercoms
   - [How to choose the best wireless microphone for smartphone?](https://momanx.com/blogs/moman-ideas/how-to-choose-best-wireless-microphone-for-smartphone): <p>Check to know 7 factors to consider when choosing the best wireless microphone for smartphone and get 3 Moman picks.</p>
@@ -3443,7 +3443,7 @@
     Author: Moman Photography
     Tags: Photography Setup
   - [Best voice amplifier for teachers: 3 picks](https://momanx.com/blogs/moman-ideas/best-voice-amplifier-for-teachers): <p>Teaching can be tough on your voice, especially in busy classrooms. Discover the best voice amplifier for teachers that helps you speak clearly and comfortably all day.</p>
-    Updated: 2026-02-17T20:33:22Z
+    Updated: 2026-04-24T07:01:07Z
     Author: Moman Photography
     Tags: Voice Amplifiers
   - [How to choose and use dirt bike helmet intercom?](https://momanx.com/blogs/moman-ideas/choose-and-use-dirt-bike-helmet-intercom): <p>Keeping in touch while riding makes your rides safer and more fun. Here’s a simple guide to choosing and using a dirt bike helmet intercom.</p>
@@ -3483,7 +3483,7 @@
     Author: Moman Photography
     Tags: Motorcycle Helmet Intercoms
   - [Best motorcycle communication headset in 2026](https://momanx.com/blogs/moman-ideas/best-motorcycle-communication-headset-in-2026): <p>Still looking for your riding communication equipment? Check this guide about the best motorcycle communication headset in 2026 and find your answer.</p>
-    Updated: 2026-04-07T10:08:47Z
+    Updated: 2026-04-24T07:40:04Z
     Author: Moman Photography
     Tags: Motorcycle Helmet Intercoms
   - [How to choose and install Bluetooth headset for open face helmet?](https://momanx.com/blogs/moman-ideas/how-to-choose-and-install-bluetooth-headset-for-open-face-helmet): <p>Discover the Bluetooth headset for open face helmet! Learn compatibility tips, key features, and easy installation tricks.</p>
@@ -3507,11 +3507,27 @@
     Author: Moman Photography
     Tags: Voice Amplifiers
   - [Best equipment for YouTube vlogging: Essentials for solo vlogger](https://momanx.com/blogs/moman-ideas/best-equipment-for-youtube-vlogging-for-solo-vlogger): <p>No fancy camera for vlogging? No problem. Here's a guide of best equipment for YouTube vlogging.</p>
-    Updated: 2026-04-19T14:59:52Z
+    Updated: 2026-04-23T04:20:45Z
     Author: Moman Photography
     Tags: Photography Setup
   - [Buyer guide to Bluetooth motorbike headset](https://momanx.com/blogs/moman-ideas/buyer-guide-to-bluetooth-motorbike-headset): <p>Want to travel using a Bluetooth motorbike headset? We've prepared recommendations for various budgets and group sizes. Click to learn more!</p>
     Updated: 2026-04-21T10:43:07Z
+    Author: Moman Photography
+    Tags: Motorcycle Bluetooth Headset
+  - [A complete guide to wireless motorcycle headset](https://momanx.com/blogs/moman-ideas/guide-to-wireless-motorcycle-headset): <p>We break down the key features, types, and buying tips of the wireless motorcycle headset. Click to read the full article and find the perfect riding companion.</p>
+    Updated: 2026-04-23T10:40:47Z
+    Author: Moman Photography
+    Tags: Motorcycle Bluetooth Headset
+  - [Voice amplifier for classroom: Teacher's helpful tool](https://momanx.com/blogs/moman-ideas/voice-amplifier-for-classroom): <p>Your throat hurt after long hours of lecturing? A voice amplifier for classroom helps you deliver loud, clear lectures with ease. Click to learn more.</p>
+    Updated: 2026-04-24T07:01:29Z
+    Author: Moman Photography
+    Tags: Voice Amplifiers
+  - [Landscape photography gear: Equipment list for beginners and pros](https://momanx.com/blogs/moman-ideas/landscape-photography-gear-for-beginners-and-pros): <p>From smartphone to pro rig: the complete list of landscape photography gear. Click and check what you need for stunning outdoor shots.</p>
+    Updated: 2026-04-26T09:36:11Z
+    Author: Moman Photography
+    Tags: Photography Setup
+  - [How do motorcycle Bluetooth headsets work?](https://momanx.com/blogs/moman-ideas/how-do-motorcycle-bluetooth-headsets-work): <p>Tired of missed calls and tangled wires? How do motorcycle Bluetooth headsets work? Click and learn!</p>
+    Updated: 2026-04-28T08:22:04Z
     Author: Moman Photography
     Tags: Motorcycle Bluetooth Headset
 - [Moman Reviews](https://momanx.com/blogs/product-reviews)
