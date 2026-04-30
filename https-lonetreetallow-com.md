@@ -8,7 +8,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-08-01T04:16:49Z
 - Contact Email: melissa@lonetreetallow.com
-- Updated At: 2026-04-22T00:00:40.259Z
+- Updated At: 2026-04-30T00:00:45.116Z
 
 The Lone Tree Tallow Co. is a chemist-formulated, small-batch luxury skincare brand rooted in five generations of South Dakota prairie heritage. Founded and formulated by Melissa Goodwin, a chemist and formulator. Specializing in tallow skincare, barrier repair, and high-performance botanical formulas. Pro-aging philosophy - we help skin look like you, with a healthy glow.
 
@@ -40,8 +40,8 @@ The Lone Tree Tallow Co. is a chemist-formulated, small-batch luxury skincare br
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/7696/7602/files/LoneTree-9678.jpg?v=1761859934
   Price: $32.00 USD
-- [Wild Yarrow Lip Balm](https://lonetreetallow.com/products/wild-yarrow-lip-shield): Wild Yarrow Lip BalmPrairie-born. Barrier-strong. Meet the Wild Yarrow Lip Balm, a tallow lip balm crafted with South Dakota pasture raised tallow and prairie botanicals for lips that stay soft, soothed, and protected. Infused with high–linoleic sunflower oil and wild yarrow, this natural lip balm repairs the barrier while delivering long-lasting moisture and a clean, non-petroleum finish. 🌿 Why it works Beef Tallow – Rich in skin-mimicking lipids and vitamins A, D, E & K. Wild Yarrow Infusion – Calms, restores, and connects you to the prairie. Shea + Jojoba – Smooth glide and deep hydration without greasiness. Sunflower Wax – Breathable protection against wind, cold, and sun. Vitamin E – Antioxidant defense for delicate skin. Signature Scents – Choose Roman Chamomile, Sage + Sweet Orange or Prairie Mint for a refreshing lift. ✨ Perfect for:Daily lip care, outdoor adventures, and anyone looking for a yarrow-infused, tallow-based lip balm that feels as natural as it is effective. Heritage Batch • Small-Batch • Prairie RootedNet Wt. 0.15 oz / 4.2 g
-  Updated: 2026-04-10T19:07:13Z
+- [Wild Yarrow Lip Balm](https://lonetreetallow.com/products/wild-yarrow-lip-shield): Wild Yarrow Lip Balm Prairie-born. Barrier-strong. Meet the Wild Yarrow Lip Balm - a tallow-based, yarrow-infused natural lip balm crafted with South Dakota pasture-raised tallow and prairie botanicals. Built for lips that stay soft, soothed, and protected through wind, sun, and dry indoor air. High-linoleic sunflower oil carries our hand-infused wild yarrow into a clean, non-petroleum formula that repairs the barrier and delivers long-lasting moisture - without the waxy drag of beeswax. Every tube is hand-poured into a BPA-free container and finished with a label you'll actually want sitting on your nightstand. 🌿 Why it works Pasture-Raised Beef Tallow - Rich in skin-mimicking lipids and vitamins A, D, E & K. Wild Yarrow Infusion - Hand-infused into sunflower oil. Calms, restores, and connects you to the prairie. High-Linoleic Sunflower Oil - Lightweight, barrier-supportive carrier. Shea + Jojoba - Smooth glide and deep hydration without greasiness. Sunflower Wax - Plant-based structure. Breathable protection against wind, cold, and sun. No beeswax. Vitamin E - Antioxidant defense for delicate skin. 🍯 Choose your scent 🍏 Green Apple Honey (new for spring 2026) - Orchard-crisp green apple with a warm honey finish. Inspired by the orchard behind the family ranch in late September. 🌱 Prairie Mint - Cool, herbaceous, classic. 🌼 Roman Chamomile - Soft, honeyed, calming. 🍊 Sage + Sweet Orange - Bright savory citrus with a garden-sage finish. ✨ Perfect for: Daily lip care, outdoor adventures, and anyone looking for a yarrow-infused, tallow-based lip balm that feels as natural as it is effective. Heritage Batch • Small-Batch • Prairie Rooted Net Wt. 0.15 oz / 4.2 g
+  Updated: 2026-04-26T08:54:20Z
   Vendor: Lone Tree Tallow
   Product Type: 
   Availability: Available
@@ -58,8 +58,12 @@ The Lone Tree Tallow Co. is a chemist-formulated, small-batch luxury skincare br
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0722/7696/7602/files/LoneTree-7598.jpg?v=1769998728
     Price: $9.00 USD
+  - [Green Apple/Honey](https://lonetreetallow.com/products/wild-yarrow-lip-shield?variant=47342787494066)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0722/7696/7602/files/AdobeStock_1893157443.jpg?v=1777149882
+    Price: $9.00 USD
 - [Field Repair Tallow Balm](https://lonetreetallow.com/products/field-repair-tallow-balm): ⚒️ Field Repair Balm A rugged balm for skin that works as hard as you do. Field Repair Balm is built to shield, soften, and restore skin exposed to wind, grit, and daily wear. Field Repair Balm is built to shield, soften, and restore skin exposed to wind, grit, and daily wear. Nutrient-rich tallow and shea butter replenish the skin barrier while locally sourced beeswax, pine resin, and bee propolis create a breathable, protective seal that locks in hydration. Calendula-infused sunflower oil soothes irritation, jojoba keeps the texture light, and Vitamin E preserves freshness. Field Repair is formulated to be scoopable, dense, and dependable. Firm enough to keep in your back pocket on a sunny day, soft enough to melt instantly into dry skin. Keep it in your truck, your desk drawer, or next to the sink — it’s made for real-life use. The scent is a grounded, unisex blend built on smoky tobacco absolute, warm resin, and a touch of vanilla-tonka bean. Mid-notes add creamy, leathery depth, while a hint of patchouli and black pepper gives the balm its dry, subtle spice. It’s woodsy without being heavy, earthy without going herbal - a quiet, skin-close scent that feels clean, warm, and naturally rugged on anyone.
-  Updated: 2026-04-01T09:21:13Z
+  Updated: 2026-04-24T14:26:07Z
   Vendor: Lone Tree Tallow
   Product Type: 
   Availability: Available
@@ -146,7 +150,7 @@ The Lone Tree Tallow Co. is a chemist-formulated, small-batch luxury skincare br
   Image: https://cdn.shopify.com/s/files/1/0722/7696/7602/files/Screenshot_2026-03-29_at_11.22.18_PM.png?v=1774846375
   Price: $18.00 USD
 - [Blue Hour Ritual Bundle | Tallow Barrier Repair Set](https://lonetreetallow.com/products/the-blue-hour-ritual-set): Complete 3-step ritual: Rose Water Mist + Field Glow Oil + Blue Hour Balm. Tallow-based barrier repair for hormonal skin changes. Free shipping. $110 value.
-  Updated: 2026-04-05T03:09:47Z
+  Updated: 2026-04-23T23:52:59Z
   Vendor: Lone Tree Tallow
   Product Type: 
   Availability: Available
@@ -181,14 +185,14 @@ The Lone Tree Tallow Co. is a chemist-formulated, small-batch luxury skincare br
   Image: https://cdn.shopify.com/s/files/1/0722/7696/7602/files/Screenshot_2026-03-29_at_11.22.07_PM.png?v=1774846375
   Price: $18.00 USD
 - [Prairie Pup Relief Balm | Natural Dog Hot Spot ](https://lonetreetallow.com/products/prairie-pup-relief-balm-natural-dog-hot-spot-): Lick-safe, essential oil-free dog balm with tallow, oatmeal & calendula. Soothes hot spots, itchy skin & dry paws. Prairie-crafted in South Dakota.
-  Updated: 2026-04-07T23:41:22Z
+  Updated: 2026-04-22T23:58:16Z
   Vendor: Lone Tree Tallow
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/7696/7602/files/LoneTree-7664.jpg?v=1768055007
   Price: $24.00 USD
 - [Wild Yarrow Lip Balm Set](https://lonetreetallow.com/products/wild-yarrow-lip-balm-set): All three Wild Yarrow Lip Balms in one set. Grass-fed tallow and slow-infused wild yarrow sunflower oil repair and protect lips naturally. Roman Chamomile, Prairie Mint, Sweet Orange + Sage. Handcrafted in South Dakota.
-  Updated: 2026-04-01T09:21:14Z
+  Updated: 2026-04-29T02:23:59Z
   Vendor: Lone Tree Tallow
   Product Type: 
   Availability: Available
@@ -222,36 +226,43 @@ The Lone Tree Tallow Co. is a chemist-formulated, small-batch luxury skincare br
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0722/7696/7602/files/Screenshot2026-04-06at5.52.11PM_5ae92a9c-762b-4bec-a64e-1e3fc91b2c6e.png?v=1775517167
   Price: $98.00 USD
+- [Sundrop Lip Oil](https://lonetreetallow.com/products/sundrop-lip-oil): A five-ingredient lip oil with jojoba, meadowfoam, and sea buckthorn. Glossy, lightly tinted, never sticky. Clean formula from a real chemist.
+  Updated: 2026-04-29T02:21:22Z
+  Vendor: Lone Tree Tallow
+  Product Type: lip oil
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0722/7696/7602/files/sundrop_lip_oil.jpg?v=1777039892
+  Price: $24.00 USD
 
 ## Collections
 
 - [All Products](https://lonetreetallow.com/collections/frontpage): Discover The Lone Tree Tallow Co. — nutrient-dense skincare rooted in prairie heritage and elevated with modern science. From tallow balms and anti-aging creams to hydrating serums and facial oils, every formula blends grass-fed tallow with botanicals and proven actives like niacinamide, bakuchiol, and tremella mushroom. Small-batch, sustainable, and crafted to repair, soothe, and restore your skin barrier.
-  Updated: 2026-04-14T11:25:13Z
-  Total Products: 17
+  Updated: 2026-04-26T00:26:59Z
+  Total Products: 18
 - [New Arrivals | Lone Tree Tallow](https://lonetreetallow.com/collections/new-arrivals): Discover our newest small-batch releases - from tallow balms to antioxidant elixirs.
 Honoring the balance between earth, craft, and chemistry.
-  Updated: 2026-04-14T11:25:13Z
-  Total Products: 7
+  Updated: 2026-04-26T00:26:59Z
+  Total Products: 8
 - [Tallow + Barrier Repair](https://lonetreetallow.com/collections/tallow-barrier-repair): Your skin’s strength begins at the barrier. This collection is built around our hero ingredient - nutrient-rich tallow, paired with soothing botanicals and modern actives that help skin rebuild what stress and weather strip away. Each balm, cream, and lotion works to restore balance from the inside out - replenishing lipids, locking in moisture, and supporting the skin’s natural rhythm of repair. Rooted in prairie simplicity, elevated by science.Honoring the balance between earth, craft, and chemistry.
-  Updated: 2026-04-14T11:25:13Z
+  Updated: 2026-04-25T11:22:49Z
   Total Products: 11
 - [Men's Collection](https://lonetreetallow.com/collections/mens-collection): Built for men who spend time in the elements. Our men’s collection restores what wind, sun, and long days take away — strengthening skin with nutrient-rich tallow, natural oils, and barrier-repairing actives. From daily face creams to field-ready balms, each formula is crafted to absorb quickly, work hard, and leave nothing behind but clean, healthy skin. Simple. Honest. Effective.Honoring the balance between earth, craft, and chemistry.
-  Updated: 2026-04-06T23:13:12Z
+  Updated: 2026-04-25T11:22:49Z
   Total Products: 5
 - [Rituals + Bundles](https://lonetreetallow.com/collections/holiday-bundles)
-  Updated: 2026-04-06T23:13:12Z
+  Updated: 2026-04-26T00:26:59Z
   Total Products: 5
 - [New! Shopify performance sharing is now turned on](https://lonetreetallow.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-04-14T11:25:13Z
-  Total Products: 18
+  Updated: 2026-04-26T00:26:59Z
+  Total Products: 19
 - [Hydrosols + Hyrdrolats](https://lonetreetallow.com/collections/hydrosols-hyrdrolats)
   Updated: 2026-04-08T11:26:03Z
   Total Products: 2
 - [Face Care](https://lonetreetallow.com/collections/face-care)
-  Updated: 2026-04-14T11:25:13Z
-  Total Products: 6
+  Updated: 2026-04-26T00:26:59Z
+  Total Products: 9
 - [Hormonal Skin](https://lonetreetallow.com/collections/hormonal-skin)
-  Updated: 2026-04-14T11:25:13Z
+  Updated: 2026-04-23T11:24:31Z
   Total Products: 7
 - [Best Sellers | Lone Tree Heritage Tallow](https://lonetreetallow.com/collections/best-sellers): Blue hour tallow balm with bakuchiol and blue tansy. little bloomers fragrance free barrier repair with calendula infused sunflower oil.
   Updated: 2026-04-14T11:25:13Z
