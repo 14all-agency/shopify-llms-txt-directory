@@ -6,16 +6,16 @@
 - Timezone: America/New_York
 - Created At: 2026-04-18T14:21:18Z
 - Contact Email: vinaychilveri143@gmail.com
-- Updated At: 2026-04-22T11:54:09.724Z
+- Updated At: 2026-04-30T00:00:27.321Z
 
 ## Products
 
 - [The Inventory Not Tracked Snowboard](https://test-store-rznizxsq.myshopify.com/products/the-inventory-not-tracked-snowboard)
-  Updated: 2026-04-19T02:21:49Z
+  Updated: 2026-04-24T10:27:06Z
   Vendor: test_store
   Product Type: snowboard
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0746/6509/9438/files/snowboard_purple_hydrogen.png?v=1776522106
+  Image: https://cdn.shopify.com/s/files/1/0746/6509/9438/files/snowboard_purple_hydrogen.png?v=1777026425
   Price: $949.95 USD
 - [The Minimal Snowboard](https://test-store-rznizxsq.myshopify.com/products/the-minimal-snowboard)
   Updated: 2026-04-18T14:21:53Z
@@ -24,11 +24,11 @@
   Availability: Available
   Price: $885.95 USD
 - [The Compare at Price Snowboard](https://test-store-rznizxsq.myshopify.com/products/the-compare-at-price-snowboard)
-  Updated: 2026-04-19T02:21:50Z
+  Updated: 2026-04-24T10:27:06Z
   Vendor: test_store
   Product Type: snowboard
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0746/6509/9438/files/snowboard_sky.png?v=1776522105
+  Image: https://cdn.shopify.com/s/files/1/0746/6509/9438/files/snowboard_sky.png?v=1777026425
   Price: $785.95 USD
 - [The Collection Snowboard: Hydrogen](https://test-store-rznizxsq.myshopify.com/products/the-collection-snowboard-hydrogen)
   Updated: 2026-04-19T02:21:48Z
@@ -38,18 +38,18 @@
   Image: https://cdn.shopify.com/s/files/1/0746/6509/9438/files/Main_0a40b01b-5021-48c1-80d1-aa8ab4876d3d.jpg?v=1776522105
   Price: $600.00 USD
 - [The Videographer Snowboard](https://test-store-rznizxsq.myshopify.com/products/the-videographer-snowboard)
-  Updated: 2026-04-19T02:21:49Z
+  Updated: 2026-04-24T10:27:06Z
   Vendor: test_store
   Product Type: snowboard
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0746/6509/9438/files/Main.jpg?v=1776522104
+  Image: https://cdn.shopify.com/s/files/1/0746/6509/9438/files/Main.jpg?v=1777026425
   Price: $885.95 USD
 - [ Plans Ski Wax](https://test-store-rznizxsq.myshopify.com/products/-plans-ski-wax)
-  Updated: 2026-04-19T02:21:49Z
+  Updated: 2026-04-24T10:27:06Z
   Vendor: test_store
   Product Type: accessories
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0746/6509/9438/files/snowboard_wax.png?v=1776522105
+  Image: https://cdn.shopify.com/s/files/1/0746/6509/9438/files/snowboard_wax.png?v=1777026426
   - [ Plans Ski Wax](https://test-store-rznizxsq.myshopify.com/products/-plans-ski-wax?variant=47750175948974)
     Availability: Available
     Price: $24.95 USD
@@ -116,7 +116,7 @@
   Image: https://cdn.shopify.com/s/files/1/0746/6509/9438/files/Main_b9e0da7f-db89-4d41-83f0-7f417b02831d.jpg?v=1776522106
   Price: $2,629.95 USD
 - [The Collection Snowboard: Liquid](https://test-store-rznizxsq.myshopify.com/products/the-collection-snowboard-liquid)
-  Updated: 2026-04-19T02:21:51Z
+  Updated: 2026-04-29T18:24:50Z
   Vendor: Hydrogen Vendor
   Product Type: snowboard
   Availability: Available
@@ -134,6 +134,9 @@
 - [Hydrogen](https://test-store-rznizxsq.myshopify.com/collections/hydrogen)
   Updated: 2026-04-18T14:21:48Z
   Total Products: 3
+- [AVADA - Best Sellers](https://test-store-rznizxsq.myshopify.com/collections/avada-best-sellers)
+  Updated: 2026-04-22T12:05:07Z
+  Total Products: 17
 
 ## Store Pages
 
