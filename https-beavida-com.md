@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-09-02T12:59:54Z
 - Contact Email: hello@beavida.com
-- Updated At: 2026-04-21T00:00:21.899Z
+- Updated At: 2026-04-30T00:00:33.936Z
 
 Welcome to Beavida
 
@@ -61,12 +61,19 @@ We encourage responsible use of this information, ensuring that any outputs gene
     Image: https://cdn.shopify.com/s/files/1/0974/9931/6556/files/entspannung-online-kurs.jpg?v=1775046820
     Price: €125.00 EUR
 - [Beavida | Beauty Without Toxins | Online Course 💄](https://beavida.com/products/beauty-without-toxins-the-ultimate-guide-to-healthy-cosmetics): Discover how to decode cosmetic labels, choose safe ingredients, and create a routine tailored to your skin type. Practical, expert-led skincare beauty simple.
-  Updated: 2026-04-01T12:34:56Z
+  Updated: 2026-04-22T15:09:57Z
   Vendor: Beavida
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0974/9931/6556/files/Beauty_Without_Toxins_1_2480ed25-7d2c-43f0-a049-c5ed06d0e81d.png?v=1774545288
-  Price: €97.00 EUR
+  - [English](https://beavida.com/products/beauty-without-toxins-the-ultimate-guide-to-healthy-cosmetics?variant=57130303914316)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0974/9931/6556/files/Beauty_Without_Toxins_1_2480ed25-7d2c-43f0-a049-c5ed06d0e81d.png?v=1774545288
+    Price: €97.00 EUR
+  - [Deutsch](https://beavida.com/products/beauty-without-toxins-the-ultimate-guide-to-healthy-cosmetics?variant=57354234167628)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0974/9931/6556/files/Naturlich_schon_1.jpg?v=1776869417
+    Price: €97.00 EUR
 
 ## Collections
 
