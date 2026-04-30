@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2026-01-08T13:11:31Z
 - Contact Email: info@globus-camper.com
-- Updated At: 2026-04-12T00:00:41.022Z
+- Updated At: 2026-04-30T00:00:42.352Z
 
 Globus Camper ist ein deutsches Unternehmen im Bereich **Camper-Umbau, Fahrzeugverglasung und Camping-Zubehör
 Neben Dienstleistungen für den Camper-Ausbau tritt Globus Camper zunehmend als *Hersteller und Anbieter von patentierten Ausstellfenster aus Glas* für Vans und Kastenwagen auf.
@@ -293,7 +293,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/2115001_1_popup_92994ec0-642b-4218-93d3-36f0f8267543.jpg?v=1770448548
     Price: 6.020,00 € EUR
 - [Schiebefenster Vito W639 | Frische Luft und edles Design](https://globus-camper.com/products/schiebefenster-vito-w639): Schiebefenster Vito W639 | Frische Luft und edles Design, was will man mehr? Die getönten Sicherheits-Fenster in der Farbe Galaxy-Schwarz verwandeln
-  Updated: 2026-04-09T05:31:17Z
+  Updated: 2026-04-23T13:06:47Z
   Vendor: Globus Camper GmbH
   Product Type: Schiebefenster
   Availability: Available
@@ -306,20 +306,8 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/mercedes_vito_r_v.png?v=1769616739
     Price: 189,00 € EUR
-- [Schiebefenster Vito W447 - Schiebefenster im modernen Design](https://globus-camper.com/products/schiebefenster-vito-ab-bj-2015): Schiebefenster Vito ab Bj.2015 Passgenau, E-geprüft, 80% getönt in Galaxy-Schwarz. Frischluft und Panorama für den Originalausschnitt.
-  Updated: 2026-03-31T09:59:44Z
-  Vendor: Globus Camper GmbH
-  Product Type: Schiebefenster
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/Vito-Produkt-1_e75cde25-874c-43ff-872c-9bb660ffc4b3.png?v=1769616742
-  - [Mitte links](https://globus-camper.com/products/schiebefenster-vito-ab-bj-2015?variant=56812789825918)
-    Availability: Available
-    Price: 179,00 € EUR
-  - [Mitte rechts](https://globus-camper.com/products/schiebefenster-vito-ab-bj-2015?variant=56812789858686)
-    Availability: Not Available
-    Price: 179,00 € EUR
 - [VW Caddy Maxi mit Schiebefenster – Modelljahre 2008–2021](https://globus-camper.com/products/schiebefenster-vw-caddy-maxi-ab-bj-2008-2021): Schiebefenster VW Caddy Maxi ab Bj.2008-2021 | Frische Luft und edles Design, was will man mehr? Die getönten Sicherheits-Glasfenster in der Farbe
-  Updated: 2026-04-09T12:02:47Z
+  Updated: 2026-04-29T03:07:06Z
   Vendor: Globus Camper GmbH
   Product Type: Schiebefenster
   Availability: Available
@@ -331,7 +319,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Availability: Available
     Price: 180,00 € EUR
 - [Schiebefenster Spacetourer für mehr Komfort im Fahrzeug](https://globus-camper.com/products/schiebefenster-spacetourer-kr): Entdecken Sie die Vorteile von Schiebefenster Spacetourer/ Jumpy/ Proace für Ihr Fahrzeug. Upgrade für Komfort und Funktionalität!
-  Updated: 2026-03-22T11:53:06Z
+  Updated: 2026-04-28T11:05:14Z
   Vendor: Globus Camper GmbH
   Product Type: Schiebefenster
   Availability: Available
@@ -344,7 +332,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Availability: Available
     Price: 180,00 € EUR
 - [Schiebefenster Jumpy &amp; Co. ab 2018 - Globus Camper](https://globus-camper.com/products/schiebefenster-jumpy): Neues für PSA Vans: Schiebefenster Jumpy , Expert, Vivaro und mehr. Modernes Design, 80% Tönung und einfache Nachrüstung.
-  Updated: 2026-04-06T06:08:48Z
+  Updated: 2026-04-23T10:30:08Z
   Vendor: Globus Camper GmbH
   Product Type: Schiebefenster
   Availability: Available
@@ -357,7 +345,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Availability: Available
     Price: 180,00 € EUR
 - [Schiebefenster Renault Trafic – Hochwertig &amp; Passgenau](https://globus-camper.com/products/schiebefenster-renault-trafic): Entdecken Sie schiebefenster renault trafic mit E-Prüfzeichen. Optionales Einbaukit verfügbar. Jetzt beste Qualität sichern!
-  Updated: 2026-03-22T11:53:06Z
+  Updated: 2026-04-27T15:08:03Z
   Vendor: Globus Camper GmbH
   Product Type: Schiebefenster
   Availability: Available
@@ -369,7 +357,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Availability: Available
     Price: 199,00 € EUR
 - [Schiebefenster Ford Custom Einfache Austauschoptionen](https://globus-camper.com/products/schiebefenster-ford-2012-2024): Erleben Sie die eleganten Schiebefenster Ford Custom für 2012-2024. Ideal für den Austausch starrer Fenster.
-  Updated: 2026-04-11T20:38:35Z
+  Updated: 2026-04-27T16:47:22Z
   Vendor: Globus Camper GmbH
   Product Type: Schiebefenster
   Availability: Available
@@ -387,7 +375,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/Ford-Custom-Rechts.jpg?v=1769615971
     Price: 210,00 € EUR
 - [Seitenverglasung Ford Transit - Einfacher Austausch](https://globus-camper.com/products/2012-2024): Entdecken Sie passgenaue Seitenverglasung Ford Transit Tourneo, Custom. Hochwertig und leicht auszutauschen. Jetzt informieren!
-  Updated: 2026-04-06T06:00:46Z
+  Updated: 2026-04-21T14:20:28Z
   Vendor: Globus Camper GmbH
   Product Type: Seitenverglasung
   Availability: Available
@@ -407,7 +395,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/Ford-Custom-R.jpg?v=1769615973
     Price: 89,00 € EUR
 - [Einbaukit  mit Hochwertiger Kantenschutz für Seitenscheiben](https://globus-camper.com/products/einbaukit): Einbaukit  mit Hochwertiger Kantenschutz für Seitenscheiben mit Klemmbereich 6-9 mm. Perfekter Schutz für Ihr Fahrzeug.
-  Updated: 2026-04-11T20:38:36Z
+  Updated: 2026-04-27T15:08:06Z
   Vendor: Globus Camper GmbH
   Product Type: 
   Availability: Available
@@ -422,14 +410,14 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Availability: Available
     Price: 39,90 € EUR
 - [Hochwertiger Kantenschutz 9–12 mm – Meterware](https://globus-camper.com/products/kantenschutz-9-12mm): Entdecken Sie unseren robusten Kantenschutz (9–12 mm), erhältlich als Meterware für mehr Sicherheit. Ideal für Ihre Auto- und Heimwerkerprojekte. Jetzt bestellen!
-  Updated: 2026-04-11T16:13:25Z
+  Updated: 2026-04-13T09:23:37Z
   Vendor: Globus Camper GmbH
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/DSC_5401-scaled-1.jpg?v=1769615976
   Price: 4,70 € EUR
 - [Volkswagen Einbausatz | Einfache Montage für Ihr Auto](https://globus-camper.com/products/einbaukit-volkswagen): Wählen Sie bitte den passenden Einbaukit für Ihre Scheibe. Einbaukit Volkswagen Kantenschutz Klemmbereich 9-12mm, 1x Korrosionsschutz Primer für Ausschnitt , 1x MS Polymer Scheibenkleber 3Std
-  Updated: 2026-04-09T08:47:11Z
+  Updated: 2026-04-29T03:07:05Z
   Vendor: Globus Camper GmbH
   Product Type: 
   Availability: Available
@@ -450,7 +438,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Availability: Available
     Price: 37,90 € EUR
 - [Schiebefenster VW Caddy 5 &amp; Ford Tourneo Connect](https://globus-camper.com/products/caddy-5-ford-tourneo-connect-kr-neu-model-ab-bj-2021): Entdecken Sie Schiebefenster VW Caddy 5 im modernen Design mit E-Prüfzeichen für VW Caddy 5 und Ford Tourneo Connect. Fachgerechter Einbau!
-  Updated: 2026-03-22T11:53:05Z
+  Updated: 2026-04-28T13:37:20Z
   Vendor: Globus Camper GmbH
   Product Type: Schiebefenster
   Availability: Available
@@ -462,7 +450,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Availability: Available
     Price: 190,00 € EUR
 - [Schiebefenster VW T7 Transporter für meher Frische Luft](https://globus-camper.com/products/schiebefenster-vw-t7): Entdecken Sie unsere Schiebefenster VW T7 in Galaxy-Schwarz. Perfekt für Frischluft und stilvolles Design. Jetzt entdecken!
-  Updated: 2026-04-10T14:47:56Z
+  Updated: 2026-04-23T10:30:06Z
   Vendor: Globus Camper GmbH
   Product Type: Schiebefenster
   Availability: Available
@@ -480,7 +468,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/Ford-Custom-neu-rechts.png?v=1769616806
     Price: 210,00 € EUR
 - [Heckscheiben Sprinter W906 ab Bj.2006 - 2016](https://globus-camper.com/products/sprinter-w906): Heckscheiben Sprinter W906 ab 2006-16 Verwandeln Sie Ihren Kasten in einen Kombi mit verbesserter Rundumsicht und Komfort.
-  Updated: 2026-04-06T06:08:49Z
+  Updated: 2026-04-27T19:04:27Z
   Vendor: Globus Camper GmbH
   Product Type: Heckscheibe
   Availability: Available
@@ -492,7 +480,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Availability: Available
     Price: 125,00 € EUR
 - [Schiebefenster Sprinter 906 für frische Luft und coole Optik](https://globus-camper.com/products/schiebefenster-sprinter-906): Hochwertige Schiebefenster Sprinter 906 -910 ab 2006. Passgenau und modern. Jetzt nachrüsten und mehr Frischluft genießen!
-  Updated: 2026-04-06T06:08:48Z
+  Updated: 2026-04-14T05:17:46Z
   Vendor: Globus Camper GmbH
   Product Type: Schiebefenster
   Availability: Available
@@ -504,7 +492,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Availability: Available
     Price: 240,00 € EUR
 - [Aufregende Seitenscheiben T5 für individuelles Design](https://globus-camper.com/products/seitenscheiben-t5): Entdecken Sie Galaxy-Schwarz Seitenscheiben T5 T6 für einen einzigartigen Look Ihres Kastenwagens!
-  Updated: 2026-04-06T06:08:48Z
+  Updated: 2026-04-28T15:55:48Z
   Vendor: Globus Camper GmbH
   Product Type: Seitenverglasung
   Availability: Available
@@ -522,7 +510,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/VW-T5-Seitenscheibe-Hinten-Rechts-1.jpg?v=1769616001
     Price: 89,00 € EUR
   - [Hinten rechts Lange Radstand](https://globus-camper.com/products/seitenscheiben-t5?variant=56812795265406)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/VW-T5-Seitenscheibe-Hinten-Rechts-1.jpg?v=1769616001
     Price: 89,00 € EUR
   - [Mitte links](https://globus-camper.com/products/seitenscheiben-t5?variant=56812795298174)
@@ -534,7 +522,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/VW-T5-Seitenscheibe-Rechts-1.jpg?v=1769616002
     Price: 89,00 € EUR
 - [Schiebefenster VW Caddy Maxi 5 : frische Luft und edles Design](https://globus-camper.com/products/vw-caddy-maxi-5-schiebefenster): Entdecken Sie die VW Caddy Maxi 5 Schiebefenster mit 80% Tönung in Galaxy-Schwarz. Ideal für VW Caddy 5, mit E-Prüfzeichen nicht eintragungspflichtig.
-  Updated: 2026-03-22T11:53:06Z
+  Updated: 2026-04-28T13:36:37Z
   Vendor: Globus Camper GmbH
   Product Type: Schiebefenster
   Availability: Available
@@ -548,7 +536,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/vwcaddy_r_v.png?v=1769616832
     Price: 190,00 € EUR
 - [Ausstellfenster Ford Custom: Komfort für deinen Transit](https://globus-camper.com/products/ausstellfenster-ford-custom): Entdecke die Ausstellfenster Ford Custom für deinen Transit: hochwertige Konstruktion, langlebige Dichtungen und einfache Montage für optimalen Komfort.
-  Updated: 2026-04-06T06:00:58Z
+  Updated: 2026-04-29T08:02:03Z
   Vendor: Globus Camper GmbH
   Product Type: Ausstellfenster
   Availability: Available
@@ -566,7 +554,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/r_v-1.png?v=1770448754
     Price: 560,00 € EUR
 - [Hochwertige Ausstellfenster Renault Trafic ab 2015 - Globus Camper](https://globus-camper.com/products/ausstellfenster-trafic-2015): Entdecken Sie bei Globus Camper hochwertige Ausstellfenster Trafic ab 2015 mit Aluminiumrahmen, Sicherheitsglas und einfacher Montage.
-  Updated: 2026-03-22T11:53:06Z
+  Updated: 2026-04-23T11:02:36Z
   Vendor: Globus Camper GmbH
   Product Type: Ausstellfenster
   Availability: Available
@@ -578,7 +566,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Availability: Available
     Price: 560,00 € EUR
 - [Schiebefenster VW T5 T6 Optimaler Insektenschutz für Reisen](https://globus-camper.com/products/schiebefenster-vw-t5): Erfahren Sie, wie Schiebefenster VW T5 T6 effektiven Schutz vor Insekten bieten und ungestörte Nächte ermöglichen.
-  Updated: 2026-04-09T05:31:28Z
+  Updated: 2026-04-27T11:54:47Z
   Vendor: Globus Camper GmbH
   Product Type: Schiebefenster
   Availability: Available
@@ -586,35 +574,13 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
   - [Mitte links](https://globus-camper.com/products/schiebefenster-vw-t5?variant=56812796707198)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/t5fenster_l_h.png?v=1769616869
-    Price: 270,00 € EUR
+    Price: 246,50 € EUR
   - [Mitte rechts](https://globus-camper.com/products/schiebefenster-vw-t5?variant=56812796739966)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/t5fenster_r_v.png?v=1769616877
-    Price: 270,00 € EUR
-- [Blindscheibe VW T5/T6 | Vollständig lackierte Glasscheibe](https://globus-camper.com/products/blindscheibe-vw-t5-t6): Vermeiden Sie direkte Sonneneinstrahlung und Sichtbarkeit der Karosse mit der vollständig lackierten Blindscheibe VW T5 T6. Ideal für Ihr Camper.
-  Updated: 2026-04-06T06:08:50Z
-  Vendor: Globus Camper GmbH
-  Product Type: Seitenverglasung
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/VW-Blindscheibe.png?v=1769616878
-  - [Hinten links Kurze Radstand](https://globus-camper.com/products/blindscheibe-vw-t5-t6?variant=56812797395326)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/t5fenster_l_v.png?v=1769616885
-    Price: 95,00 € EUR
-  - [Hinten links Lange Radstand](https://globus-camper.com/products/blindscheibe-vw-t5-t6?variant=56812797428094)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/bus_vectoren_b2b_globus_camper.png?v=1769616887
-    Price: 102,00 € EUR
-  - [Hinten rechts Kurze Radstand](https://globus-camper.com/products/blindscheibe-vw-t5-t6?variant=56812797460862)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/t5fenster_r_h.png?v=1769616892
-    Price: 95,00 € EUR
-  - [Hinten rechts Lange Radstand](https://globus-camper.com/products/blindscheibe-vw-t5-t6?variant=56812797493630)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/t5fenster_r_h.png?v=1769616892
-    Price: 102,00 € EUR
+    Price: 246,50 € EUR
 - [Ausstellfenster Volkswagen VW T6: Hochwertige Echtglaslösungen](https://globus-camper.com/products/ausstellfenster-vw-t6): Entdecken Sie unsere Ausstellfenster VW T6 mit exzellenter Dichtung und komfortablem Öffnungsmechanismus für Ihr Fahrzeug.
-  Updated: 2026-04-11T06:36:58Z
+  Updated: 2026-04-28T05:40:46Z
   Vendor: Globus Camper GmbH
   Product Type: Ausstellfenster
   Availability: Available
@@ -622,7 +588,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
   - [Heckscheibe T5](https://globus-camper.com/products/ausstellfenster-vw-t6?variant=56812797788542)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/h-2.png?v=1769616900
-    Price: 558,00 € EUR
+    Price: 620,00 € EUR
   - [Heckscheibe T6](https://globus-camper.com/products/ausstellfenster-vw-t6?variant=56812797821310)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/unnamed.jpg?v=1769616026
@@ -630,11 +596,11 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
   - [Mitte links](https://globus-camper.com/products/ausstellfenster-vw-t6?variant=56812797854078)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/t5fenster_l_h_b9fc0de5-37bb-4173-8a28-e59b665905d6.png?v=1769616904
-    Price: 504,00 € EUR
+    Price: 476,00 € EUR
   - [Mitte rechts](https://globus-camper.com/products/ausstellfenster-vw-t6?variant=56812797886846)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/kopie_bus_vectoren_b2b_globus_camper-1.png?v=1769616909
-    Price: 504,00 € EUR
+    Price: 476,00 € EUR
 - [Ausstellfenster Vito ab 2015 – Hochwertige Fenster kaufen](https://globus-camper.com/products/ausstellfenster-vito-ab2015): Entdecken Sie das Ausstellfenster Vito mit langlebigem Design und optimalem Schutz vor Nässe. Ideal für Austausch und Nachrüstung.
   Updated: 2026-03-22T11:53:06Z
   Vendor: Globus Camper GmbH
@@ -654,7 +620,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/mercedes_vito_r_v_3fc764f7-b1dc-4d34-8e0c-991a317b615a.png?v=1769616928
     Price: 549,00 € EUR
 - [Ausstellfenster Sprinter W906: Flügeltür-Lösung für Profis](https://globus-camper.com/products/ausstellfenster-sprinter-w906): Entdecken Sie die hochwertigen Ausstellfenster Sprinter W906 mit exzellenter Abdichtung und einfachem Öffnen.
-  Updated: 2026-04-06T06:08:49Z
+  Updated: 2026-04-28T18:27:14Z
   Vendor: Globus Camper GmbH
   Product Type: Ausstellfenster
   Availability: Available
@@ -666,7 +632,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Availability: Available
     Price: 490,00 € EUR
 - [Ausstellfenster Sprinter Neue Lösung aus Sicherheitsglas](https://globus-camper.com/products/ausstellfenster-sprinter-ab-2008): Entdecken Sie die hochwertigen Ausstellfenster Sprinter Glas in Glas und pulverbeschichtetem Aluminium für optimale Abdichtung.
-  Updated: 2026-04-06T06:08:48Z
+  Updated: 2026-04-24T09:05:40Z
   Vendor: Globus Camper GmbH
   Product Type: Ausstellfenster
   Availability: Available
@@ -707,7 +673,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/RAM-1.RAW-DUAL-OPEN-AWNING-OUTSIDE-VIEW-e1706360807255.jpg?v=1770448719
     Price: 650,00 € EUR
 - [Schiebefenster Vito W447 mit Moskitonetz für frische Luft](https://globus-camper.com/products/schiebefenster-vito-w447): Entdecken Sie die neuen Schiebefenster Vito W447, ideal für frische Luft und Panorama mit 80% Tönung in Galaxy-Schwarz.
-  Updated: 2026-03-30T09:15:46Z
+  Updated: 2026-04-29T05:15:49Z
   Vendor: Globus Camper GmbH
   Product Type: Schiebefenster
   Availability: Available
@@ -721,7 +687,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/mercedes_vito_r_v_1f9f949b-b529-4861-80ce-d8a31b7449c4.png?v=1769616966
     Price: 270,00 € EUR
 - [Schiebefenster Sprinter mit Moskitonetz für Camper](https://globus-camper.com/products/sprinter-schiebefenster-moskito): Entdecke die neuen Schiebefenster Sprinter mit 80% Tönung und integriertem Moskitonetz für frische Luft und Panoramablick.
-  Updated: 2026-04-09T05:31:27Z
+  Updated: 2026-04-21T14:20:28Z
   Vendor: Globus Camper GmbH
   Product Type: Schiebefenster
   Availability: Available
@@ -735,7 +701,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/sprinter_r_v_0b506f70-ae67-4e53-9712-6d572ed3408b.png?v=1769616974
     Price: 320,00 € EUR
 - [Neue Schiebefenster Renault Trafic ab 2015 mit Moskitonetz](https://globus-camper.com/products/schiebefenster-renault-trafic-moskitonetz): Entdecken Sie die neuen Schiebefenster Renault Trafic mit integriertem Moskitonetz für frische Luft und optimale Sicht.
-  Updated: 2026-03-23T15:35:16Z
+  Updated: 2026-04-23T10:30:04Z
   Vendor: Globus Camper GmbH
   Product Type: Schiebefenster
   Availability: Available
@@ -747,7 +713,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Availability: Available
     Price: 290,00 € EUR
 - [Unglaubliches Schiebefenster Custom mit Moskitonetz](https://globus-camper.com/products/schiebefenster-custom-moskito): Entdecken Sie das Schiebefenster Custom für frische Luft, Panoramaansichten und integriertes Moskitonetz.
-  Updated: 2026-04-08T09:26:47Z
+  Updated: 2026-04-27T11:54:45Z
   Vendor: Globus Camper GmbH
   Product Type: Schiebefenster
   Availability: Available
@@ -783,7 +749,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Availability: Available
     Price: 95,00 € EUR
 - [Ausstellfenster ID BUZZ Echtglas mit Moskitonetz NEU Model](https://globus-camper.com/products/ausstellfenster-id-buzz): Ausstellfenster ID BUZZ Echtglas mit 4 Verschlussriegeln und 2 regelbaren Dämpfer. getöntes Sicherheitsglas nach E17 Norm. Integrierter Moskitonetz
-  Updated: 2026-03-22T11:53:05Z
+  Updated: 2026-04-21T14:20:28Z
   Vendor: Globus Camper GmbH
   Product Type: Ausstellfenster
   Availability: Available
@@ -796,15 +762,8 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/DUCATO-1.SIDE-BIG-POP-UP_5d2d97fc-f3c9-442d-b1ee-d952e00edeee.jpg?v=1769616053
     Price: 590,00 € EUR
-- [Heckscheibe Renault Trafic Flügeltüren L+R ab Bj. 2015](https://globus-camper.com/products/heckscheibe-renault-trafic): Heckscheibe Renault Trafic, endlich bessere Sicht in Ihrem Kastenwagen dank unserer modernen und eleganten Heckscheiben. Sicherheitsglas mit 80% Tönung
-  Updated: 2026-03-22T11:53:05Z
-  Vendor: Globus Camper GmbH
-  Product Type: Heckscheibe
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/h-1.png?v=1769617016
-  Price: 210,00 € EUR
 - [Seitenscheiben VW Caddy Maxi ab 2008 – Licht &amp; Design](https://globus-camper.com/products/ab-bj-2008-2021): Entdecken Sie die getönten Seitenscheiben VW Caddy Maxi. Mehr Licht und edles Design für Ihr Fahrzeug.
-  Updated: 2026-04-06T06:00:58Z
+  Updated: 2026-04-29T03:09:22Z
   Vendor: Globus Camper GmbH
   Product Type: Seitenverglasung
   Availability: Available
@@ -816,7 +775,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Availability: Available
     Price: 80,00 € EUR
 - [Einbaukit für Sprinter, Crafter und MAN | Hochwertige Fahrzeuglösungen](https://globus-camper.com/products/einbaukit-sprinter-crafter-man): Entdecken Sie das Einbaukit für Sprinter, Crafter und MAN. Einfach zu installieren, robust und perfekt für Ihre Fahrzeuganpassung.
-  Updated: 2026-04-09T05:31:30Z
+  Updated: 2026-04-27T11:54:48Z
   Vendor: Globus Camper GmbH
   Product Type: 
   Availability: Available
@@ -831,7 +790,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Availability: Available
     Price: 54,90 € EUR
 - [Spoiler Regenrinne für VW T6 und Aufstelldächer von Reimo](https://globus-camper.com/products/spoiler-regenrinne-ablaufrinne): Entdecken Sie die Spoiler Regenrinne für VW T6 und Reimo Aufstelldächer, optisch kompatibel mit Multirails. Ideal für Fahrer- und Beifahrerseite.
-  Updated: 2026-04-09T05:31:27Z
+  Updated: 2026-04-23T13:06:37Z
   Vendor: Globus Camper GmbH
   Product Type: 
   Availability: Available
@@ -843,14 +802,14 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Availability: Available
     Price: 69,80 € EUR
 - [KFZ Scheibenkleber: Einfach fantastisch und Modular](https://globus-camper.com/products/kfz-scheibenkleber): Entdecken Sie den Primerlosen KFZ Scheibenkleber für Glas und Keramik mit hoher Festigkeit und einfacher Anwendung.
-  Updated: 2026-04-11T16:13:27Z
+  Updated: 2026-04-27T11:54:48Z
   Vendor: Globus Camper GmbH
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/Scheibenklber_MS.webp?v=1774168389
   Price: 8,60 € EUR
 - [Seitenscheibe Vito W639 2004-2015 - Neu &amp; Hochwertig](https://globus-camper.com/products/seitenscheibe-vito-w639): Seitenscheibe Vito W639 Werten Sie Ihr Fahrzeug auf mit wenig Aufwand. Unsere edlen Seitenfenster verleihen Ihrem Wagen einen neuen Look
-  Updated: 2026-04-09T05:31:23Z
+  Updated: 2026-04-22T08:16:09Z
   Vendor: Globus Camper GmbH
   Product Type: Seitenverglasung
   Availability: Available
@@ -862,7 +821,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Availability: Available
     Price: 85,00 € EUR
 - [Ausstellfenster Echtglas für Wohnmobil mehr Komfort und Langlebigkeit](https://globus-camper.com/products/ausstellfenster-wohnmobil): Hochwertige Ausstellfenster Echtglas für Wohnmobil bieten Komfort mit getöntem Glas, schwarzem Alurahmen und praktischen Features für Wohnmobile.
-  Updated: 2026-04-06T06:00:59Z
+  Updated: 2026-04-24T04:59:45Z
   Vendor: Globus Camper GmbH
   Product Type: Ausstellfenster
   Availability: Available
@@ -883,7 +842,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Availability: Available
     Price: 250,00 € EUR
 - [Filz Super Stretch für Camper Caravan Wohnmobil Wohnwagen](https://globus-camper.com/products/camper-filz-super-stretch): Entdecken Sie den vielseitigen Super Stretch Camper Filz für perfekte Verkleidungen in Vans, Wohnmobilen und mehr. Ideal für kreative Projekte!
-  Updated: 2026-04-11T16:13:25Z
+  Updated: 2026-04-24T22:19:36Z
   Vendor: Globus Camper GmbH
   Product Type: 
   Availability: Available
@@ -909,7 +868,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/nadelfilz-superflex-zuschnitt-verschiedene-farben-149002_600x600_1fa4828e-f2bc-449c-85b8-1b1444c09bd2.jpg?v=1769616090
     Price: 16,80 € EUR
 - [Ausstellfenster VW Crafter: Neu Entwicklung für Komfort](https://globus-camper.com/products/ausstellfenster-vw-crafter): Entdecken Sie das ausstellfenster vw crafter mit Sicherheitsglas, Moskitonetz und praktischen Dämpfern für optimalen Komfort.
-  Updated: 2026-04-10T05:41:41Z
+  Updated: 2026-04-29T14:58:21Z
   Vendor: Globus Camper GmbH
   Product Type: Ausstellfenster
   Availability: Available
@@ -937,15 +896,30 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/IMG_4313-scaled-e1706361032307.jpg?v=1769616196
   Price: 32,00 € EUR
+- [Ausstellfenster Kastenwagen inkl. Einbaurahmen für 1mm Blech](https://globus-camper.com/products/ausstellfenster-kastenwagen-gewoelbt): Entdecke die Vorteile von Ausstellfenster Kastenwagen für optimalen Luftaustausch und mehr Komfort im Alltag und Abenteuer.
+  Updated: 2026-04-24T04:59:47Z
+  Vendor: Globus Camper GmbH
+  Product Type: Ausstellfenster
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/OUTSIDE-FLYBLIND_8ec51800-ae7d-4a09-80ee-af6ab3e3d37c.jpg?v=1769616210
+  - [700x340](https://globus-camper.com/products/ausstellfenster-kastenwagen-gewoelbt?variant=56812806963582)
+    Availability: Available
+    Price: 270,00 € EUR
+  - [700x500](https://globus-camper.com/products/ausstellfenster-kastenwagen-gewoelbt?variant=56812806996350)
+    Availability: Not Available
+    Price: 290,00 € EUR
+  - [900x500](https://globus-camper.com/products/ausstellfenster-kastenwagen-gewoelbt?variant=56812807029118)
+    Availability: Available
+    Price: 350,00 € EUR
 - [Hochwertiger Globus Scheibenkleber MS Polymer 400ml](https://globus-camper.com/products/scheibenkleber-ms-polymer-400ml): Scheibenkleber MS Kompatibel mit allen Globus Camper Verglasungen. Hochmodulär, hohe Anfangsfestigkeit. Einfache Verarbeitung, lange Haltbarkeit. Keine Primerverwendung nötig.
-  Updated: 2026-01-31T06:15:25Z
+  Updated: 2026-04-23T11:53:27Z
   Vendor: Globus Camper GmbH
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/images.jpg?v=1769616262
   Price: 7,90 € EUR
 - [Ausstellfenster Ford Transit Kastenwagen T18 - Globus Camper](https://globus-camper.com/products/ausstellfenster-ford-transit): Hochwertige Ausstellfenster Ford Transit Kastenwagen T18. Mit 4 Verschlussriegeln, regelbaren Dämpfern und Sicherheitsglas. Entdecken Sie jetzt!
-  Updated: 2026-04-09T05:31:27Z
+  Updated: 2026-04-25T02:07:56Z
   Vendor: Globus Camper GmbH
   Product Type: Ausstellfenster
   Availability: Available
@@ -963,7 +937,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Availability: Available
     Price: 620,00 € EUR
 - [Ausstellfenster Ducato: Neu Look für deinen Camper](https://globus-camper.com/products/ausstellfenster-ducato): Entdecke das Ausstellfenster Ducato mit 4 Riegeln, Dämpfern und integriertem Moskitonetz für optimalen Komfort und Sicherheit.
-  Updated: 2026-04-11T20:59:16Z
+  Updated: 2026-04-27T11:54:47Z
   Vendor: Globus Camper GmbH
   Product Type: Ausstellfenster
   Availability: Available
@@ -993,7 +967,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/r_v-e1707317846901.png?v=1770448759
     Price: 620,00 € EUR
 - [Hochwertige Ausstellfenster Mercedes Sprinter Flügeltür für Sprinter](https://globus-camper.com/products/ausstellfenster-sprinter-fluegeltuer-ab-w907): Entdecken Sie die Vorteile unserer Ausstellfenster Sprinter Flügeltür mit Aluminiumrahmen und Sicherheitsglas für besten Komfort.
-  Updated: 2026-04-11T06:36:58Z
+  Updated: 2026-04-24T09:06:47Z
   Vendor: Globus Camper GmbH
   Product Type: Ausstellfenster
   Availability: Available
@@ -1005,14 +979,14 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Availability: Available
     Price: 490,00 € EUR
 - [Heckscheiben Ford Custom - Einfacher Austausch oder Einbau](https://globus-camper.com/products/heckscheiben-ford-custom): Hochwertige Heckscheiben Ford Custom von 2012. Passgenau und einfach austauschbar. Informieren Sie sich jetzt.
-  Updated: 2026-04-09T05:31:27Z
+  Updated: 2026-04-21T14:20:36Z
   Vendor: Globus Camper GmbH
   Product Type: Heckscheibe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/Vito-Produkt_1115f984-906d-4e56-ae52-04f515b14741.png?v=1769617091
   Price: 230,00 € EUR
 - [Ausstellfenster VW T5 T6: Neu für mehr Privatsphäre](https://globus-camper.com/products/ausstellfenster-vw-t5): Entdecke die Vorteile der Ausstellfenster VW T5 T6 für mehr Frischluft und individuelle Anpassung in deinem Bulli.
-  Updated: 2026-04-11T06:36:58Z
+  Updated: 2026-04-28T14:24:17Z
   Vendor: Globus Camper GmbH
   Product Type: Ausstellfenster
   Availability: Available
@@ -1020,34 +994,34 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
   - [Mitte links](https://globus-camper.com/products/ausstellfenster-vw-t5?variant=56812808995198)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/t5fenster_l_h_dcf03e6c-c956-4d97-8317-1a37a672ef38.png?v=1769617102
-    Price: 531,00 € EUR
+    Price: 501,50 € EUR
   - [Mitte rechts](https://globus-camper.com/products/ausstellfenster-vw-t5?variant=56812809027966)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/kopie_bus_vectoren_b2b_globus_camper-1_7ca8b60d-a48a-415c-9a21-187b4df3f4a4.png?v=1769617107
-    Price: 531,00 € EUR
+    Price: 501,50 € EUR
 - [Sprühkleber 600ml Hitzebeständig bis 120° - Globus Camper](https://globus-camper.com/products/spruehkleber-600ml-bis-120): Sprühkleber eignet sich ideal für Dachhimmel, Autohimmeln, Filz, Holz, Karton, Stoff und Fahrzeug Innenverkleidungen. Hitzebeständig bis 120°
-  Updated: 2026-04-11T16:13:27Z
+  Updated: 2026-04-23T11:53:26Z
   Vendor: Globus Camper GmbH
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/spruekleber.webp?v=1774168387
   Price: 10,80 € EUR
 - [Verdunkelung für VW T5 | Komfortables Reisen](https://globus-camper.com/products/verdunkelung-fuer-vw-t5-links): Entdecken Sie die perfekte Verdunkelung für VW T5 mit Moskitonetz für Schiebetüren. Bieten Sie Komfort und Schutz für Ihre Reisen.
-  Updated: 2026-04-09T05:31:29Z
+  Updated: 2026-04-23T10:30:23Z
   Vendor: Globus Camper GmbH
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/IMG_5608-scaled.jpg?v=1769616439
   Price: 138,00 € EUR
 - [Verdunkelung für VW T6 - Komfort und Schutz](https://globus-camper.com/products/verdunkelung-t5-links): Entdecken Sie die Verdunkelung für VW T6 mit Moskitonetz - idealer Schutz gegen Sonne und Insekten, perfekt für Reisen und Campen.
-  Updated: 2026-04-09T05:28:41Z
+  Updated: 2026-04-23T10:30:08Z
   Vendor: Globus Camper GmbH
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/IMG_5614-scaled_227fb325-2382-4762-9c10-05442ffbb01b.jpg?v=1769616480
   Price: 145,00 € EUR
 - [Schiebefenster Vito W639 : Frische Luft &amp; elegantes Design](https://globus-camper.com/products/schiebefenster-vito-639-moskito): Entdecken Sie die Schiebefenster Vito W639 mit Moskitonetz für frische Luft , Komfort und stilvolle Sicherheit in Ihrem Fahrzeug.
-  Updated: 2026-03-22T11:53:07Z
+  Updated: 2026-04-21T15:28:04Z
   Vendor: Globus Camper GmbH
   Product Type: Schiebefenster
   Availability: Available
@@ -1061,7 +1035,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/mercedes_vito_r_v_eef5deeb-0db8-45e5-825d-3f130522a740.png?v=1769617141
     Price: 270,00 € EUR
 - [Ausstellfenster Ford Custom Neu Model Komfort für deinen Van](https://globus-camper.com/products/ausstellfenster-ford-custom-2024): Upgrade deinen Ford mit Ausstellfenster Ford Custom von Globus Camper für optimale Belüftung und Komfort auf Reisen.
-  Updated: 2026-04-06T06:00:58Z
+  Updated: 2026-04-24T08:36:45Z
   Vendor: Globus Camper GmbH
   Product Type: Ausstellfenster
   Availability: Available
@@ -1079,7 +1053,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/Ford-Custom-neu-rechts_3a49e8a2-7257-47f0-b571-9fd71f4ccd06.png?v=1772450315
     Price: 560,00 € EUR
 - [Schiebefenster Ford Custom ab 2024: Austausch &amp; Nachrüstung](https://globus-camper.com/products/schiebefenster-ford-custom-ab-2024): Schiebefenster Ford Custom ab 2024: Nachrüstung und Austausch mit E-Prüfzeichen, optimaler Passgenauigkeit und professionellem Einbau.
-  Updated: 2026-04-06T06:00:58Z
+  Updated: 2026-04-23T10:30:07Z
   Vendor: Globus Camper GmbH
   Product Type: Schiebefenster
   Availability: Available
@@ -1097,7 +1071,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/Ford-Custom-neu-rechts_e9bab5a7-c3ab-49ea-b194-c728c5e1a9ad.png?v=1769617172
     Price: 210,00 € EUR
 - [Schiebefenster VW T6: Einzigartige Belüftung für Ihr Bulli](https://globus-camper.com/products/schiebefenster-vw-t6-t5): Entdecken Sie stilvolle Schiebefenster VW T6 in Galaxy-Schwarz für modernes Design und optimale Belüftung. Jetzt informieren!
-  Updated: 2026-04-09T19:37:33Z
+  Updated: 2026-04-29T11:56:06Z
   Vendor: Globus Camper GmbH
   Product Type: Schiebefenster
   Availability: Available
@@ -1118,14 +1092,14 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
   Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/VW-T5-Heckscheibe-Fluegeltueren-1.jpg?v=1769616572
   Price: 180,00 € EUR
 - [Heckscheibe VW T6: Elegantes Austauschfenster kaufen](https://globus-camper.com/products/heckscheibe-vw-t6): Kaufen Sie die passende Heckscheibe VW T6 mit E Prüfzeichen für Ihr Fahrzeug. Qualität und Eleganz vereint.
-  Updated: 2026-04-11T00:47:36Z
+  Updated: 2026-04-29T09:00:57Z
   Vendor: Globus Camper GmbH
   Product Type: Heckscheibe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/VW-T6-Heckscheibe-1.png?v=1769617199
   Price: 169,00 € EUR
 - [Ausstellfenster MAN ab 2017 - Hochwertige Fahrzeugfenster](https://globus-camper.com/products/ausstellfenster-man): Entdecken Sie die Ausstellfenster MAN ab 2017. Hochwertige Fensterlösungen für MAN-Fahrzeuge, die Sicherheit und Komfort bieten.
-  Updated: 2026-04-06T06:08:48Z
+  Updated: 2026-04-21T14:20:27Z
   Vendor: Globus Camper GmbH
   Product Type: Ausstellfenster
   Availability: Available
@@ -1210,14 +1184,14 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
   Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/Verrigelung-Schibefenster-unten.png?v=1769617248
   Price: 5,00 € EUR
 - [Dichtmasse abtupfbar - Hochwertige Abdichtung](https://globus-camper.com/products/dichtmasse-abtupfbar): Entdecken Sie die Dichtmasse abtupfbar 310 ml schwarz für zuverlässige Abdichtungen. Ideal für Bauarbeiten und Reparaturen.
-  Updated: 2026-04-03T18:55:47Z
+  Updated: 2026-04-23T11:59:26Z
   Vendor: Globus Camper GmbH
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/Dichtmasse-abtupfbar.png?v=1769617247
   Price: 14,20 € EUR
 - [Schiebefenster ID Buzz neu für meher Frische Luft](https://globus-camper.com/products/schiebefenster-id-buzz): Entdecken Sie unsere Schiebefenster ID Buzz in Galaxy-Schwarz. Perfekt für Frischluft und stilvolles Design. Jetzt entdecken!
-  Updated: 2026-03-22T11:53:07Z
+  Updated: 2026-04-21T14:37:39Z
   Vendor: Globus Camper GmbH
   Product Type: Schiebefenster
   Availability: Available
@@ -1231,7 +1205,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/T5-Schiebefenster-V-R-1-scaled-1.jpg?v=1769616645
     Price: 190,00 € EUR
 - [Schiebefenster ID Buzz mit Moskitonetz – Neu effektiver Schutz](https://globus-camper.com/products/schiebefenster-id-buzz-moskito): Schütze dich mit unseren Schiebefenster ID Buzz vor Plagegeistern und genieße ungestörte Nächte im VW ID Buzz
-  Updated: 2026-04-09T19:08:29Z
+  Updated: 2026-04-23T10:30:05Z
   Vendor: Globus Camper GmbH
   Product Type: Schiebefenster
   Availability: Available
@@ -1245,7 +1219,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/t5fenster_r_v_02f5889b-876d-46be-a382-0205cb457be3.png?v=1769617280
     Price: 270,00 € EUR
 - [Ausstellfenster Jumpy: Modernes Design für PSA Vans](https://globus-camper.com/products/ausstellfenster-jumpy): Entdecken Sie das neue Ausstellfenster Jumpy für PSA Vans. Einfach nachrüstbar und mit 80% Tönung für mehr Komfort.
-  Updated: 2026-04-11T06:17:33Z
+  Updated: 2026-04-21T14:20:24Z
   Vendor: Globus Camper GmbH
   Product Type: Ausstellfenster
   Availability: Available
@@ -1264,7 +1238,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
   Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/IMG_6392-scaled.jpg?v=1769616682
   Price: 12,00 € EUR
 - [VW T5 Schiebefenster kaufen – Komfort für jeden Tag](https://globus-camper.com/products/vw-t5-schiebefenster-private): Entdecken Sie passgenaue VW T5 Schiebefenster für Camping und Alltag. Hochwertig, einfach zu montieren und ideal für Frischluft!
-  Updated: 2026-04-09T08:47:16Z
+  Updated: 2026-04-13T09:23:36Z
   Vendor: Globus Camper GmbH
   Product Type: Schiebefenster
   Availability: Available
@@ -1278,7 +1252,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/t5fenster_r_v_a3517261-62f7-411b-a995-ae1118fff044.png?v=1769617303
     Price: 360,00 € EUR
 - [Schiebefenster Sprinter W906 mit Rollo und Moskitonetz](https://globus-camper.com/products/schiebefenster-sprinter-w906): Schiebefenster Sprinter W906-910 mit Rollo &amp; Moskitonetz. Passgenau, getönt &amp; modern – ideal für Camper Ausbau &amp; Nachrüstung.
-  Updated: 2026-04-06T06:08:37Z
+  Updated: 2026-04-24T09:05:32Z
   Vendor: Globus Camper GmbH
   Product Type: Schiebefenster
   Availability: Available
@@ -1293,7 +1267,7 @@ Globus Camper ist ein deutsches Unternehmen aus Waltrop (NRW), das im Bereich *C
     Price: 420,00 € EUR
 - [Hochwertiges Moskitonetz für Schiebefenster](https://globus-camper.com/products/moskitonetz-fuer-schiebefenster-ersatzteil): Werten Sie Ihr Auto mit einem Moskitonetz für Schiebefenster auf.
 Ein Moskitonetz für Schiebefenster ist unerlässlich, um lästige Insekten aus Ihrem Auto fernzuhalten.
-  Updated: 2026-03-27T09:32:06Z
+  Updated: 2026-04-25T15:53:15Z
   Vendor: Globus Camper GmbH
   Product Type: Schiebefenster
   Availability: Available
@@ -1317,7 +1291,7 @@ Ein Moskitonetz für Schiebefenster ist unerlässlich, um lästige Insekten aus 
     Availability: Available
     Price: 35,00 € EUR
 - [Schiebefenster Ford Custom Moskito 2024: beste Lösung](https://globus-camper.com/products/schiebefenster-ford-custom-moskito-ab-2024): Entdecken Sie Schiebefenster Ford Custom Moskitonetz. Fachgerechter Einbau und schnelle Lieferung garantiert – Schiebefenster Ford custom.
-  Updated: 2026-04-06T06:00:58Z
+  Updated: 2026-04-24T04:59:46Z
   Vendor: Globus Camper GmbH
   Product Type: Schiebefenster
   Availability: Available
@@ -1335,7 +1309,7 @@ Ein Moskitonetz für Schiebefenster ist unerlässlich, um lästige Insekten aus 
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/Ford-Custom-neu-rechts_0d0ae103-12fc-4da0-ba62-a8289e644345.png?v=1769440091
     Price: 290,00 € EUR
 - [Schiebefenster T7: Austausch und Nachrüstung für Transporter](https://globus-camper.com/products/schiebefenster-t7-moskito): Entdecken Sie Schiebefenster T7 mit Moskitonetz. Fachgerechter Einbau und schnelle Lieferung garantiert.
-  Updated: 2026-04-06T06:00:57Z
+  Updated: 2026-04-23T10:30:04Z
   Vendor: Globus Camper GmbH
   Product Type: Schiebefenster
   Availability: Available
@@ -1353,7 +1327,7 @@ Ein Moskitonetz für Schiebefenster ist unerlässlich, um lästige Insekten aus 
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/Ford-Custom-neu-rechts_ff94ca2a-a335-4f7a-9dcd-e8ba516ce43e.png?v=1769440077
     Price: 290,00 € EUR
 - [Verdunkelung VW T5: Moskitonetz für besten Komfort](https://globus-camper.com/products/verdunkelung-vw-t5): Optimale Verdunkelung VW T5 und T6 mit Moskitonetz für Privatsphäre und Schutz im Fahrzeug. Erleben Sie mehr Komfort unterwegs!
-  Updated: 2026-03-22T11:53:06Z
+  Updated: 2026-04-28T05:55:56Z
   Vendor: Globus Camper GmbH
   Product Type: Zubehör
   Availability: Available
@@ -1367,7 +1341,7 @@ Ein Moskitonetz für Schiebefenster ist unerlässlich, um lästige Insekten aus 
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/kopie_bus_vectoren_b2b_globus_camper-1_96d6e99a-5c1c-464e-a9fc-3c8ba70a39a3.png?v=1769440063
     Price: 175,00 € EUR
 - [Ausstellfenster VW T7 Transporter Komfort für deinen Van](https://globus-camper.com/products/ausstellfenster-vw-t7): Upgrade deinen Ford mit Ausstellfenster VW T7 von Globus Camper für optimale Belüftung und Komfort auf Reisen.
-  Updated: 2026-04-06T06:00:58Z
+  Updated: 2026-04-24T08:36:46Z
   Vendor: Globus Camper GmbH
   Product Type: Ausstellfenster
   Availability: Available
@@ -1385,7 +1359,7 @@ Ein Moskitonetz für Schiebefenster ist unerlässlich, um lästige Insekten aus 
     Image: https://cdn.shopify.com/s/files/1/0979/2084/4158/files/Ford-Custom-neu-rechts_324037e2-dd87-40c7-9995-9572cceb14a0.png?v=1774168379
     Price: 560,00 € EUR
 - [Ausstellfenster Ford Nugget Neu Model Komfort für deinen Van](https://globus-camper.com/products/ausstellfenster-ford-nugget-ab-2024): Upgrade deinen Ford mit Ausstellfenster Ford Nugget von Globus Camper für optimale Belüftung und Komfort auf Reisen.
-  Updated: 2026-04-06T06:00:58Z
+  Updated: 2026-04-24T08:36:46Z
   Vendor: Globus Camper GmbH
   Product Type: Ausstellfenster
   Availability: Available
@@ -1435,7 +1409,7 @@ Ein Moskitonetz für Schiebefenster ist unerlässlich, um lästige Insekten aus 
 ## Collections
 
 - [Camper Zubehör & Erweiterungen | Globus Camper](https://globus-camper.com/collections/zubehoer): Zubehör für Camper und Vans – von Fenstern bis Aufstelldach-Komponenten. Hochwertige Lösungen für Ausbau, Nachrüstung und Komfort.
-  Updated: 2026-04-11T11:54:44Z
+  Updated: 2026-04-29T12:04:40Z
   Total Products: 22
 - [Aufstelldächer für Camper & Vans | Globus Camper](https://globus-camper.com/collections/aufstelldach): Aufstelldächer für Camper und Vans – mehr Platz, Schlafkomfort und Flexibilität. Ideal für Camper-Ausbau und individuelle Umbauten.
   Updated: 2026-02-16T13:26:21Z
@@ -1447,88 +1421,88 @@ Ein Moskitonetz für Schiebefenster ist unerlässlich, um lästige Insekten aus 
   Updated: 2026-02-16T13:26:21Z
   Total Products: 1
 - [Ausstellfenster von Globus Camper – Licht, Luft und Komfort](https://globus-camper.com/collections/ausstellfenster): Ausstellfenster von Globus Camper sind die ideale Lösung für Transporter-Umbauten und Camper-Ausbauten, die mehr Tageslicht, frische Luft und Wohnkomfort bringen sollen.
-  Updated: 2026-04-10T12:04:36Z
+  Updated: 2026-04-29T12:04:40Z
   Total Products: 19
 - [Ausstellfenster Ford – Komfort, Belüftung & modernes Design](https://globus-camper.com/collections/ford-ausstellfenster): Ausstellfenster Ford Vans und Camper. sind eine perfekte Möglichkeit, Ihren Bus zum komfortablen Reisemobil umzubauen. Mit clevere Fensterlösungen gewinnen Sie deutlich mehr Tageslicht, frische Luft
-  Updated: 2026-04-07T12:04:55Z
+  Updated: 2026-04-29T12:04:40Z
   Total Products: 4
 - [Ausstellfenster Camper - Perfekte Fenster für deinen Camper](https://globus-camper.com/collections/universal): Universelle Ausstellfenster für Camper, Vans und Wohnmobile. Flexible Lösungen für individuelle Umbauten und Nachrüstungen mit Universelle Ausstellfenster
-  Updated: 2026-04-05T12:11:44Z
+  Updated: 2026-04-24T11:59:52Z
   Total Products: 2
 - [Schiebefensterr Globus Camper für Transporter – Licht, Luft & Komfort](https://globus-camper.com/collections/schiebefenster): Einfache Installation, optimale Lüftung und Panoramaaussichten durch unsere Schiebefenster für dein mobiles Heim.
-  Updated: 2026-04-11T11:54:44Z
+  Updated: 2026-04-29T12:04:40Z
   Total Products: 26
 - [Ausstellfenster Fiat Ducato– Komfort, Belüftung & modernes Design](https://globus-camper.com/collections/ausstellfenster-fiat): Hochwertige Ausstellfenster für Fiat Camper und Transporter. Passgenaue Fenster für Umbau und Nachrüstung – ideal für Kastenwagen und Wohnmobile
-  Updated: 2026-04-08T12:19:22Z
+  Updated: 2026-04-26T12:06:30Z
   Total Products: 1
 - [Ausstellfenster Volkswagen - Hochwertige Fenster & Faire Preise](https://globus-camper.com/collections/ausstellfenster-vw): Passgenaue Ausstellfenster Volkswagen Camper. Perfekt für T5, T6, Crafter und andere Modelle – für mehr Licht, Luft und Komfort
-  Updated: 2026-04-10T12:04:36Z
+  Updated: 2026-04-28T12:08:49Z
   Total Products: 3
 - [Seitenverglasung – Stil, Sicht & Komfort für Ihren VW](https://globus-camper.com/collections/seitenverglasung): Eine Seitenverglasung für Transporter ist eine der effektivsten Maßnahmen, um mehr Tageslicht, freie Sicht und ein luftiges Raumgefühl in Ihrem Fahrzeug zu schaffen.
-  Updated: 2026-04-09T12:09:34Z
+  Updated: 2026-04-26T00:15:55Z
   Total Products: 6
 - [Seitenverglasung Ford Custom – Licht, Design & Komfort](https://globus-camper.com/collections/ford-custom-setenvergl): Seitenverglasung Ford Custom – passgenau, robust & stilvoll. Ideal für Nachrüstung oder Camper Ausbau mit mehr Licht & Sicht.
-  Updated: 2026-02-16T06:10:05Z
+  Updated: 2026-04-16T12:12:32Z
   Total Products: 1
 - [Seitenverglasung Mercedes – Licht, Komfort & modernes Design](https://globus-camper.com/collections/mercedes-vito-viano-sprinter-seitenvergl): Seitenverglasung Mercedes für Vito, Viano & Sprinter – passgenau, hochwertig & ideal für Nachrüstung oder Camper Ausbau.
-  Updated: 2026-04-09T12:09:34Z
+  Updated: 2026-04-15T12:01:46Z
   Total Products: 2
 - [Seitenverglasung Volkswagen – mehr Licht, Stil & Optik](https://globus-camper.com/collections/vw-seitenverglasung): Seitenverglasung Volkswagen ist eine effektive Möglichkeit, den Innenraum Ihres Vans oder Campers heller, luftiger und komfortabler zu gestalten. Besonders beim Camper- oder Vanlife-Ausbau
-  Updated: 2026-04-02T13:15:17Z
+  Updated: 2026-04-26T00:15:55Z
   Total Products: 3
 - [Schiebefenster Ford Custom – Komfort, Frischluft & modernes Design](https://globus-camper.com/collections/ford-schiebefenster): Schiebefenster Ford Custom – passgenau, getönt & hochwertig. Ideal für Camper Ausbau oder Nachrüstung im Ford Transporter.
-  Updated: 2026-04-10T12:04:36Z
+  Updated: 2026-04-28T12:08:49Z
   Total Products: 4
 - [Hochwertige Schiebefenster Mercedes Sprinter Fahrzeuge](https://globus-camper.com/collections/mercedes-schiebefenster): Erfahren Sie mehr über die Schiebefenster Mercedes Sprinter. Entdecken Sie innovative Designs und erstklassige Funktionalität.
-  Updated: 2026-04-09T12:09:34Z
+  Updated: 2026-04-23T14:15:41Z
   Total Products: 7
 - [Heckscheiben für Camper & Vans | Globus Camper](https://globus-camper.com/collections/heckscheibe): Heckscheiben für Camper und Vans – passgenau, robust und ideal für Nachrüstung oder Umbau. Mehr Licht, Sicht und Komfort im Fahrzeug.
-  Updated: 2026-04-11T11:54:44Z
+  Updated: 2026-04-28T12:08:49Z
   Total Products: 7
 - [Heckscheibe für Renault - Hochwertige Auswahl](https://globus-camper.com/collections/renault-trafic-heckscheibe): Entdecken Sie unsere hochwertige Heckscheibe für Renault-Modelle. Zuverlässig und langlebig, perfekt für Ihre Fahrzeugreparatur.
-  Updated: 2026-03-12T11:57:11Z
+  Updated: 2026-04-21T19:15:48Z
   Total Products: 1
 - [Schiebefenster von Renault - Komfortabel und Praktisch](https://globus-camper.com/collections/renault-schiebefenster): Entdecken Sie die vielseitigen Schiebefenster von Renault, die Funktionalität und Stil kombinieren. Ideal für Ihr Fahrzeug.
-  Updated: 2026-03-23T11:55:22Z
+  Updated: 2026-04-28T12:08:49Z
   Total Products: 2
 - [Ausstellfenster Mercedes - Hochwertige Fenster Globus Camper](https://globus-camper.com/collections/mercedes-ausstellfenster): Ausstellfenster Mercedes Vans und Camper. Ideal für Sprinter & Co. – langlebig, passgenau und optimal für den Camper-Ausbau.
-  Updated: 2026-04-02T13:15:17Z
+  Updated: 2026-04-29T12:04:40Z
   Total Products: 4
 - [Heckscheibe Mercedes - Hochwertige Autogas-Ersatzteile](https://globus-camper.com/collections/mercedes-heckscheibe): Entdecken Sie hochwertige Heckscheibe Mercedes Sprinter. Perfekte Passform und Langlebigkeit garantiert.
-  Updated: 2026-04-07T11:01:53Z
+  Updated: 2026-04-28T12:08:49Z
   Total Products: 2
 - [Entdecken Sie die Schiebefenster Volkswagen VW T5/T6/T7 und Caddy](https://globus-camper.com/collections/schiebefenster-vw): Erfahren Sie mehr über die Schiebefenster Volkswagen. Flexibilität, Design und Funktionalität in einem. Perfekt für Ihr Fahrzeug.
-  Updated: 2026-04-11T11:54:44Z
+  Updated: 2026-04-29T12:04:40Z
   Total Products: 8
 - [Schiebefenster Jumpy – Komfort & Frischluft für Camper](https://globus-camper.com/collections/psa-group-schiebefenster): Schiebefenster Jumpy Von PSA Group – passgenau, getönt & mit Moskitonetz. Ideal für Nachrüstung oder Camper Ausbau.
-  Updated: 2026-04-01T12:04:02Z
+  Updated: 2026-04-28T12:08:49Z
   Total Products: 2
 - [Heckscheibe Volkswagen– Sicherheit, Komfort & passgenaues Design](https://globus-camper.com/collections/vw-heckscheibe): Heckscheibe Volkswagen – robust, getönt und passgenau. Ideal für Camper Ausbau oder Nachrüstung im VW Transporter.
-  Updated: 2026-04-11T11:54:44Z
+  Updated: 2026-04-25T12:06:46Z
   Total Products: 3
 - [Heckscheibe Ford Custom – Sicherheit, Komfort und Design](https://globus-camper.com/collections/ford-custom-heckscheibe): Heckscheibe Ford Custom – passgenau, getönt & robust. Ideal für Nachrüstung oder Camper Ausbau. Heckscheibe sorgt für bessere Rücksicht, mehr Licht im Innenraum und einen modernen Look.
   Updated: 2026-04-09T12:09:34Z
   Total Products: 1
 - [ID Buzz Schiebefenster – frische Luft & stilvolles Camper-Design](https://globus-camper.com/collections/id-buzz-schiebefenster): Schiebefenster für VW ID. Buzz Camper – ideal für Nachrüstung und Umbau. Hochwertige Fensterlösungen für Komfort, Belüftung und Alltagstauglichkeit.
-  Updated: 2026-04-10T12:04:36Z
+  Updated: 2026-04-15T12:01:46Z
   Total Products: 2
 - [Ausstellfenster Crafter – Frischluft, Komfort und Design](https://globus-camper.com/collections/crafter-ausstellfenster): Stabile Ausstellfenster Crafter und MAN Vans und Camper. Passgenau für Camper-Ausbau, Nachrüstung und komfortables Reisen.
-  Updated: 2026-04-07T12:04:55Z
+  Updated: 2026-04-26T12:06:30Z
   Total Products: 2
 - [Ausstellfenster ID Buzz – Komfort, Belüftung und Design](https://globus-camper.com/collections/id-buzz-ausstellfenster): Moderne Ausstellfenster ID Buzz Camper. Passgenaue Lösungen für Umbau, Belüftung und mehr Komfort unterwegs.
-  Updated: 2026-02-07T07:56:00Z
+  Updated: 2026-04-16T12:12:32Z
   Total Products: 1
 - [Ausstellfenster Jumpy – Komfort, Belüftung & modernes Design](https://globus-camper.com/collections/psa-ausstellfenster): Ausstellfenster für Peugeot, Citroën und Opel Camper. Perfekt für Kastenwagen, Wohnmobile und individuelle Camper-Umbauten.
-  Updated: 2026-02-13T13:08:58Z
+  Updated: 2026-04-14T12:02:37Z
   Total Products: 1
 - [Ausstellfenster Renault Merkmale von Lüftungsfenster](https://globus-camper.com/collections/ausstellfenster-renault): Entdecken Sie bei Globus Camper hochwertige Ausstellfenster Renault mit Aluminiumrahmen, Sicherheitsglas und einfacher Montage.
   Updated: 2026-03-20T11:51:37Z
   Total Products: 1
 - [Alle Produkte von Globus Camper Ausstellfenster oder Schiebefenster](https://globus-camper.com/collections/all): Wir freuen uns euch alle Produkte von Globus Camper anbieten zu können: Aufstelldach, Ausstellfenster, Heckscheibe, Schiebefenster, Seitenverglasung, Zubehör
-  Updated: 2026-04-11T11:54:44Z
+  Updated: 2026-04-29T12:04:40Z
   Total Products: 87
 - [Daily Deals - Globus Camper GmbH](https://globus-camper.com/collections/daily-deals): Please DO NOT modify this collection. It is automatically managed by Daily Deals. - Globus Camper GmbH
-  Updated: 2026-04-10T12:04:36Z
+  Updated: 2026-04-28T12:08:49Z
   Total Products: 4
 
 ## Blogs
