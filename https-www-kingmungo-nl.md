@@ -6,103 +6,82 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2024-08-27T15:57:48Z
 - Contact Email: info@kingmungo.nl
-- Updated At: 2026-04-15T00:00:38.576Z
+- Updated At: 2026-04-30T00:00:43.344Z
 
 ## Products
 
-- [Drinkfles 1 Liter Lekvrije Drinkbus Lila King Mungo BPA-vrij](https://www.kingmungo.nl/products/drinkfles_1_liter_drinkbus_lila): Drinkfles 1 liter lekvrije drinkbus van lila Tritan. Ideale waterfles voor sport of kantoor. Jarenlange kwaliteit, BPA vrij.
-  Updated: 2026-03-20T13:05:38Z
-  Vendor: King Mungo
-  Product Type: KMDF052 1 Liter drinkfles
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0853/4229/0262/files/1_liter_drinkfles_paars_lila_-_King_Mungo.webp?v=1773222969
-  Price: € 23,00 EUR
 - [Drinkfles 1 Liter - Lekvrije Drinkbus - Blauw - King Mungo](https://www.kingmungo.nl/products/drinkfles_1_liter_drinkbus_blauw): Drinkfles 1 liter en lekvrije drinkbus van transparant blauw Tritan. Ideale waterfles voor sport of kantoor. Jarenlange kwaliteit en BPA vrij. Bestel bij King Mungo uit Someren.
-  Updated: 2026-03-11T09:57:07Z
+  Updated: 2026-04-28T09:02:01Z
   Vendor: King Mungo
   Product Type: KMDF029
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/4229/0262/files/drinkflesbidonlichtblauw1literwaterflessendrinkflessenvaatwasserbestendigkingmungo.webp?v=1773222971
   Price: € 23,00 EUR
 - [Drinkfles 1 Liter - Lekvrije Drinkbus - Mat Zwart - King Mungo](https://www.kingmungo.nl/products/drinkfles_1_liter_drinkbus_zwart): Drinkfles 1 liter en lekvrije drinkbus van mat zwart Tritan. Ideale waterfles voor sport of kantoor. Jarenlange kwaliteit en BPA vrij. Bestel bij King Mungo uit Someren.
-  Updated: 2026-03-11T09:58:07Z
+  Updated: 2026-04-28T09:02:30Z
   Vendor: King Mungo
   Product Type: KMDF017 1 Liter drinkfles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/4229/0262/files/drinkflesbidonzwart1liter1000mlkmdf017kingmungo3.webp?v=1773223086
   Price: € 23,00 EUR
 - [Drinkfles 1 Liter Lekvrije Drinkbus Tritan Roze | King Mungo](https://www.kingmungo.nl/products/lekvrije-drinkfles-1-liter-drinkbus): Zoek je een lekvrije drinkfles 1 liter of drinkbus? De roze King Mungo waterfles van Tritan is BPA-vrij, vaatwasserbestendig en ideaal voor sport en werk.
-  Updated: 2026-04-08T16:22:48Z
+  Updated: 2026-04-28T09:01:46Z
   Vendor: King Mungo
   Product Type: KMDF044 - 1 Liter drinkfles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/4229/0262/files/Drinkfles_1_liter_King_Mungo_roze_1_liter_waterflessen.webp?v=1773223027
   Price: € 23,00 EUR
 - [Drinkfles 1 Liter Lekvrij BPA-vrij Grijs | King Mungo](https://www.kingmungo.nl/products/drinkfles-1-liter-grijs-mat): Zoek je een lekvrije 1 liter drinkfles mat grijs? Deze BPA-vrije Tritan waterfles is ideaal voor Hyrox, Padel & kantoor. Bestel nu bij King Mungo voor levering morgen!
-  Updated: 2026-03-12T20:01:17Z
+  Updated: 2026-04-28T09:01:27Z
   Vendor: King Mungo
   Product Type: KMDF010 1 Liter drinkfles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/4229/0262/files/Drinkfles_1_liter_King_Mungo_grijs_06_-_KMDF010.webp?v=1773222970
   Price: € 23,00 EUR
 - [Drinkfles 1 Liter Lekvrij BPA-vrij Roze Mat | King Mungo](https://www.kingmungo.nl/products/drinkfles-1-liter-roze-mat): Zoek je een lekvrije 1 liter drinkfles roze mat? Deze BPA-vrije Tritan fles is ideaal voor Padel & Hyrox. Bestel nu voor levering morgen bij King Mungo!
-  Updated: 2026-03-12T19:55:54Z
+  Updated: 2026-04-28T09:01:07Z
   Vendor: King Mungo
   Product Type: KMDF008 - 1 Liter drinkfles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/4229/0262/files/Drinkfles_1_liter_King_Mungo_roze_3_-_KMDF008.jpg?v=1773222975
   Price: € 23,00 EUR
-- [Hoofdlamp met Rood Licht & Sensor - King Mungo KMHL009 (Noodpakket Tip)](https://www.kingmungo.nl/products/oplaadbare-hoofdlamp-led-met-sensor-kmhl009-king-mungo): Zoekt u een lichte noodpakket hoofdlamp? De KMHL009 is oplaadbaar, heeft rood nachtzicht en een bewegingssensor. Perfect voor hardlopen, klussen en camping.
-  Updated: 2026-03-11T09:56:22Z
-  Vendor: King Mungo
-  Product Type: KMHL009 - LED hoofdlamp
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0853/4229/0262/files/led_hoofdlamp_USB_oplaadbare_hoofdlampen_zwart_King_Mungo_KMHL009_-_1.jpg?v=1773222969
-  Price: € 28,95 EUR
 - [Beste Noodpakket Zaklamp Oplaadbaar (1500 Lumen) - King Mungo KM-L12](https://www.kingmungo.nl/products/king-mungo-km-l12-tactische-zaklamp-oplaadbaar): ✅ Zoekt u een zaklamp voor uw noodpakket? ✅ De KM-L12 is tactisch, oplaadbaar én werkt op AAA batterijen (Dual-Fuel). ✅ Complete set met fietshouder & holster.
-  Updated: 2026-04-09T20:16:37Z
+  Updated: 2026-04-28T09:00:31Z
   Vendor: King Mungo
   Product Type: KM-L12
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/4229/0262/files/ledzaklampledoplaadbaar18650batterij1000lumenzaklampenriemholsteronlinekopenbol.com-KingMungoKM-L12.jpg?v=1773222967
   Price: € 29,95 EUR
 - [Led Zaklamp - 2000 Lumen - incl batterijen - King Mungo](https://www.kingmungo.nl/products/led-zaklamp-zeer-fel-2000-lumen-inclusief-4-aa-batterijen-cadeau-voor-man-king-mungo-zaklampen): Hoge kwaliteit led zaklamp op 4 AA batterijen (inclusief), handig voor op de camping, ideale zaklamp uitlaten van de hond of te gebruiken tijdens een. Kies voor kwaliteit, kies voor King Mungo KM-MG51
-  Updated: 2026-04-04T09:26:24Z
+  Updated: 2026-04-28T09:00:10Z
   Vendor: King Mungo
   Product Type: KMMG51
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/4229/0262/files/zeer_felle_zaklamp_op_batterijen_energiezuinig_King_Mungo_-_KM-MG51_zoom.jpg?v=1773222976
   Price: € 31,00 EUR
 - [Hoofdlamp Oplaadbaar King Mungo KMHL014 | Met Bewegingssensor](https://www.kingmungo.nl/products/hoofdlamp-oplaadbaar-felle-led-king-mungo-kmhl014): Zoek je een hoofdlamp oplaadbaar van hoge kwaliteit? King Mungo KMHL014, de professionele oplaadbare hoofdlamp, felle LED-bundel, bewegingssensor, lange accuduur. Bestel online met Gratis verzending!
-  Updated: 2026-03-11T09:56:17Z
+  Updated: 2026-04-28T08:59:47Z
   Vendor: King Mungo
   Product Type: KMHL014 - Led hoofdlamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/4229/0262/files/kmhl014-KingMungohoofdlampled2023.jpg?v=1773222906
   Price: € 24,95 EUR
 - [Oplaadbare Hoofdlamp Noodpakket? Beter dan een Zaklamp! King Mungo KMHL55](https://www.kingmungo.nl/products/oplaadbare-hoofdlamp-king-mungo-kmhl55): Zoek je een hoofdlamp voor je noodpakket? De King Mungo KMHL55 gaat jaren mee. 800 Lumen, USB-C oplaadbaar en topkwaliteit voor elke onverwachte situatie.
-  Updated: 2026-03-27T22:52:35Z
+  Updated: 2026-04-28T08:59:29Z
   Vendor: King Mungo
   Product Type: KMHL55
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/4229/0262/files/King_Mungo_hoofdlampen_LED_KM-HL55_2200x2400_25b01b1b-5f94-4112-af3d-d20d0203d969.jpg?v=1773222907
   Price: € 43,00 EUR
 - [Dienblad 50cm hout Groot Rond Zwart - Houten Plateau | King Mungo](https://www.kingmungo.nl/products/dienblad-50cm-hout-rond-groot-zwart-decoratief-plateau-king-mungo): Dienblad 50cm hout: Maak je interieur compleet met het grote King Mungo houten dienblad. Dit zwarte houten plateau is perfect voor decoratie op je tafel of hocker. Breng direct sfeer in huis.
-  Updated: 2026-03-11T09:55:07Z
+  Updated: 2026-04-28T08:58:56Z
   Vendor: King Mungo
   Product Type: 50cm rond zwart
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/4229/0262/files/dienbladgrootrondzwart50cm.jpg?v=1773222906
   Price: € 53,00 EUR
-- [Groot Rond Dienblad Zwart 60 cm - XXL Houten Plateau King Mungo](https://www.kingmungo.nl/products/groot-rond-dienblad-hout-60cm-rond-xxl-zwart-decoratief-plateau): Groot Rond Dienblad: Transformeer je interieur met het XXL King Mungo dienblad van 60cm. Dit grote, ronde plateau van zwart hout is de perfecte blikvanger voor je tafel of hocker.
-  Updated: 2026-03-19T21:17:26Z
-  Vendor: King Mungo
-  Product Type: 60cm rond zwart
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0853/4229/0262/files/1200x1167.jpg?v=1773222907
-  Price: € 58,00 EUR
 - [King Mungo Drinkfles 1 Liter | 100% Lekvrij & BPA-vrij - King Mungo](https://www.kingmungo.nl/products/king-mungo-drinkfles-1-liter-100-lekvrij-bpa-vrij): Stop met het verspillen van geld aan waterflessen die lekken, naar plastic smaken of na één val barsten. De King Mungo is ontwikkeld na het uitvoerig  - King Mungo
-  Updated: 2026-03-11T09:55:21Z
+  Updated: 2026-04-28T08:58:16Z
   Vendor: King Mungo
   Product Type: 
   Availability: Available
@@ -124,21 +103,21 @@
     Image: https://cdn.shopify.com/s/files/1/0853/4229/0262/files/drinkflesbidonlichtblauw1literwaterflessendrinkflessenvaatwasserbestendigkingmungo.jpg?v=1773222907
     Price: € 23,00 EUR
 - [Drinkfles 1 Liter Lekvrij BPA-vrij Blauw | King Mungo](https://www.kingmungo.nl/products/drinkfles-1-liter-lekvrij-bpa-vrij-blauw): Zoek je een lekvrije 1 liter drinkfles blauw mat? Deze BPA-vrije Tritan waterfles is ideaal voor Hyrox en Padel. Bestel nu voor levering morgen bij King Mungo!
-  Updated: 2026-04-07T14:36:51Z
+  Updated: 2026-04-28T08:57:41Z
   Vendor: King Mungo
   Product Type: KMDF007 1 liter blauw
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/4229/0262/files/Drinkfles_1_liter_King_Mungo_blauw_2_-_KMDF007.jpg?v=1773222907
   Price: € 23,00 EUR
 - [18650 Batterij Oplaadbaar 3200mAh | Beveiligd (PCB) | King Mungo](https://www.kingmungo.nl/products/18650-batterij-oplaadbaar-3200mah): Zoek je een 18650 batterij voor je zaklamp? Deze 3200mAh accu met PCB (69mm) is ideaal voor noodpakketten. Bestel nu bij King Mungo voor levering morgen!
-  Updated: 2026-04-11T16:59:46Z
+  Updated: 2026-04-28T08:57:06Z
   Vendor: King Mungo
   Product Type: 18650 oplaadbare batterij
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/4229/0262/files/18650batterij6.9cm.jpg?v=1773222906
   Price: € 14,95 EUR
 - [Hoofdlamp Batterijen LED KMHL003 | King Mungo](https://www.kingmungo.nl/products/hoofdlamp-batterijen-led-kmhl003): Betrouwbare LED hoofdlamp op batterijen. De King Mungo KMHL003 is IPX6 waterdicht en ideaal voor je noodpakket of hardlopen. Bestel nu voor levering morgen!
-  Updated: 2026-03-15T18:15:56Z
+  Updated: 2026-04-28T08:56:21Z
   Vendor: King Mungo
   Product Type: KMHL003
   Availability: Available
@@ -151,7 +130,7 @@
   Updated: 2026-04-09T11:28:19Z
   Total Products: 6
 - [Hoofdlampen Led Oplaadbaar - Professioneel - King Mungo](https://www.kingmungo.nl/collections/led-hoofdlampen): LED Hoofdlampen oplaadbaar zeer fel. Als Hoge kwaliteit telt kies dan voor King Mungo, professionele hoofdlampen die jaren meegaan.
-  Updated: 2026-03-28T11:23:01Z
+  Updated: 2026-04-17T11:25:11Z
   Total Products: 4
 - [Zaklampen LED oplaadbaar van hoge kwaliteit - King Mungo](https://www.kingmungo.nl/collections/led-zaklampen): Hoge kwaliteit LED Zaklampen met gratis verzending! Oplaadbare robuuste zaklampen van hoge kwaliteit. King Mungo zaklampen gaan jaren mee.
   Updated: 2026-04-10T11:24:54Z
@@ -160,13 +139,13 @@
   Updated: 2026-04-09T11:28:19Z
   Total Products: 12
 - [Houten Dienblad Kopen? Groot formaat 50, 60 & 70 cm | King Mungo](https://www.kingmungo.nl/collections/houten-dienblad): Maak je interieur af! Onze grote, decoratieve houten dienbladen (50-70 cm) creëren direct rust en sfeer op elke tafel. Gemaakt van kwalitatief hout. Voor 15u besteld, morgen in huis Gratis verzending.
-  Updated: 2026-03-12T06:14:46Z
+  Updated: 2026-04-18T11:25:49Z
   Total Products: 2
 - [AVADA - Best Sellers](https://www.kingmungo.nl/collections/avada-best-sellers)
-  Updated: 2026-04-12T11:23:50Z
+  Updated: 2026-04-18T11:25:49Z
   Total Products: 21
 - [APPPlaza - Best Sellers](https://www.kingmungo.nl/collections/appplaza-best-sellers)
-  Updated: 2026-04-12T11:23:50Z
+  Updated: 2026-04-18T11:25:49Z
   Total Products: 21
 
 ## Blogs
@@ -648,6 +627,13 @@
     Updated: 2026-04-14T11:57:06Z
     Author: Michiel K
     Tags: 1 Liter, 1 liter drinkfles, 1 liter fles, beste-1-liter-drinkfles-gebruik, drinkfles king mungo review, drinkflessen king mungo, hiken-drinkbus-outdoor, hyrox-sportfles-kopen, kantoor-waterfles-lekvrij, king mungo, King-Mungo-Someren, padel-bidon-1000ml
+  - [Stinkende-drinkfles-schoonmaken: Zo voorkom je die vieze lucht](https://www.kingmungo.nl/blogs/news/stinkende-drinkfles-schoonmaken-tips): Stinkende-drinkfles-schoonmaken: Zo voorkom je die vieze lucht
+    Updated: 2026-04-15T08:12:02Z
+    Author: Michiel K
+    Tags: BPA vrije waterfles, dopper vs king mungo, fles schoonmaken baking soda, king mungo, king mungo kwaliteit, king mungo review, king mungo reviews, king mungo reviws, stinkende drinkfles schoonmaken, vieze bidon wassen
+  - [Drinkfles 1 liter auto: Past altijd in je bekerhouder](https://www.kingmungo.nl/blogs/news/drinkfles-1-liter-auto-bekerhouder): Drinkfles 1 liter auto: Past altijd in je bekerhouder
+    Updated: 2026-04-16T09:16:01Z
+    Author: Michiel K
 
 ## Store Pages
 
