@@ -5,7 +5,7 @@
 - Contact Email: ask@boomandmellow.com
 - Contact Phone: +971566949790
 - Address: Ground Floor Shop #21 Town Centre Jumeirah, 75B Street, Jumeira Road, Jumeira 1, Dubai, U.A.E.
-- Updated At: 2026-04-23T00:00:33.664Z
+- Updated At: 2026-04-30T00:00:35.751Z
 
 Boom & Mellow is the UAE's leading curated concept store for women seeking unique, boho-chic jewelry, accessories, bags, clothing, and gifts. Founded in 2005 by Sima Barazi, the store is known for its free-spirited aesthetic and carefully sourced global designers. We offer free same-day 3-hour delivery in Dubai, free gift wrapping, and worldwide shipping on orders over 1,000 AED.
 
@@ -341,6 +341,8 @@ Boom & Mellow is the UAE's leading curated concept store for women seeking uniqu
   Total Products: 71
 - [Brands with Purpose | Boom & Mellow](https://www.boomandmellow.com/collections/brands-with-purpose)
   Total Products: 0
+- [RELAX RE-LUX Upcycled Clothing & Embroidered Pouches | Boom & Mellow](https://www.boomandmellow.com/collections/relax-re-lux): Shop RELAX RE-LUX at Boom & Mellow — handmade upcycled clothing and embroidered pouches crafted from vintage household textiles. Sustainable one-of-a-kind fashion with a story to tell.
+  Total Products: 22
 
 ## Policies
 
