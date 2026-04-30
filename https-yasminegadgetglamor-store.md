@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-04-15T11:28:54Z
 - Contact Email: yasminehall401@gmail.com
-- Updated At: 2026-04-22T11:25:07.084Z
+- Updated At: 2026-04-30T00:00:30.417Z
 
 ## Products
 
@@ -336,7 +336,7 @@
     Image: https://cdn.shopify.com/s/files/1/0676/1080/4290/files/d8b4f2b0-feb6-45dd-ab73-b5dfdf96fda2.jpg?v=1776252704
     Price: $71.87 USD
 - [Double Chin Facial Massage Electric V Face Massager For Men And Women](https://yasminegadgetglamor.store/products/double-chin-facial-massage-electric-v-face-massager-for-men-and-women): Product information: Model: V face massager Whether it is electric: Yes Face-lifting machine style: mask type Color: champagne, white, light green, orange, fuchsia, deep green Specification: A,B,C,D Classification: A trial version: 6-gear adjustment, TENS micro-current massage, automatic massage mode, upgraded 4 massage heads, external pulse, smart display, face fit design, wireless portable folding, large-capacity lithium battery; B Upgraded version: 6 modes and 12 levels of intensity, TENS micro-current massage, automatic massage mode, upgrade 4 massage heads, external pulse, smart display, face fit design, wireless portable folding, large-capacity lithium battery, voice broadcast; C Ultimate Edition: 6 modes and 12 levels of intensity, TENS micro-current massage, automatic massage mode, upgrade to 4 massage heads, external pulse, smart display, face fit design, wireless portable folding, large-capacity lithium battery, voice broadcast, high-end product color matching, Photorejuvenation; D remote control deluxe version: 6 modes and 12 levels of intensity, TENS micro-current massage, automatic massage mode, upgrade 4 massage heads, external pulse, smart display, face fit design, wireless portable folding, large-capacity lithium battery, voice broadcast, high-end product color matching, Photon skin rejuvenation, constant temperature hot compress, wireless remote control Packaging Information: Massager x1
-  Updated: 2026-04-15T23:32:07Z
+  Updated: 2026-04-27T11:49:37Z
   Vendor: null
   Product Type: Health and wellnes &fitness product
   Availability: Available
@@ -545,7 +545,7 @@
   Image: https://cdn.shopify.com/s/files/1/0676/1080/4290/files/2213524368724.jpg?v=1776252722
   Price: $41.79 USD
 - [Resistance Bands Sealing Elastic Booty Sport Bodybuilding Rubber Band For Fitness Gym Leagues Equipment Sports Mini Yoga](https://yasminegadgetglamor.store/products/resistance-bands-sealing-elastic-booty-sport-bodybuilding-rubber-band-for-fitness-gym-leagues-equipment-sports-mini-yoga): Overview Suitable for young people and women with small strength, it can effectively stretch and exercise the whole body muscles, stabilize posture and control the stretching distance, effectively improve the physical activity ability, and shape the perfect body curve. It is an auxiliary for yoga and pilates. Can increase the fun of exercise, change a single exercise style. The circle has good resilience, and the movement in yoga training with ease, to achieve better plastic purposes. 4 tension belts of different colors and thicknesses + cloth bags + instructions should be loaded into color box 120g/ set at the same time Specification Purple 600*50* 0.5mm tension value 10-15lb 16g Pink 600*50* 0.7mm tension value 15-20lb 20g Blue 600*50*0.9mm tension value 20-30lb 26g Grey 600*50*1.1mm tension value 30-40lb 31g [cloth bag] : 11*18.5cm [color box] : 17*9*1.8cm [box size] : 54*41*23cm 125 sets/box weight: about 13kg [characteristics] : the tension belt has added lines on the inside, which can play a non-slip effect Cleaning and durability: washable and wipes with a dry and wet cloth. [advantages] : soft, strong resilience, wear resistance, good comprehensive performance. Package Content 1* band
-  Updated: 2026-04-15T23:32:24Z
+  Updated: 2026-04-22T11:51:49Z
   Vendor: null
   Product Type: Health and wellnes &fitness product
   Availability: Available
@@ -578,7 +578,7 @@
   Image: https://cdn.shopify.com/s/files/1/0676/1080/4290/files/58a46ded-92f0-49d7-90de-996a8277061e.jpg?v=1776252725
   Price: $24.44 USD
 - [Foot Massage Pad Electric Stimulator Massager](https://yasminegadgetglamor.store/products/foot-massage-pad-electric-stimulator-massager): Are you troubled by foot pain and afraid to take that dreadful first step in the morning? Does your body and feet feel sore and achy from long time standing or walking? Our electric foot massager with technology which elicits muscle contraction by electric impulse, helps to muscle and feet pain relief. It has 6 modes and 9 intensity levels, you can adjust it as you like. Feature: Effective Foot Massager: Adopts the low frequency pulse technology (EMS) for foot, ankle, muscle massage to promote blood circulation and get to relax. 6 Modes & 9 Intensity Levels: 6 modes and 9 adjustable intensity levels can directly stimulate the acupuncture points and relieve soreness, swelling, leg pain, reduce fatigue and improve sleeping quality. 15 Minutes Auto Off: 15 minutes is a course of , when the time is due, it will automatically shut off, no worry about forget to shut it off. A regular  is helpful to your health. Portable & Easy To Clean: This foot massage mat is soft, lightweight and foldable, easy to carry to anywhere, even in travelling, you can also enjoy foot massage. The material of this mat is easy to clean, just wipe it with a half wet towel and dry it after use. Wide Applications: It can fully balance the foot and heel, relax the calf muscles and form the calf. It is also suitable for office worker, travelers, middle-aged, elderly people and women who wear high heels, which can greatly relieve muscle and feet. Specification: Product Type: EMS Foot Massager Color: Black Material: Leather; Plastic Voltage: 1.5V Frequency: 1～100Hz Output: Max 98Ma Mode: 6 Modes Intensity: 9 Levels Of Intensity Battery: 240mAh Lithium Battery Charging Time: 2Hrs Operating Time: 15 Minutes Power Method: USB Rechargeable USB Cable Length: 30cm/11.81in Item Size: 31.5x28cm/12.4x11.3in Item Weight: 96.5g/0.22lbs Package Size: 34*19*3.5cm/13.38*7.48*1.37in Package Weight: 216g/0.47lbs Package Contents: 1x Electric Foot Massage 1x USB Cable 1x User Manual Note: Not to use if you have high blood pressure.
-  Updated: 2026-04-15T23:33:15Z
+  Updated: 2026-04-27T11:49:33Z
   Vendor: null
   Product Type: Health and wellnes &fitness product
   Availability: Available
@@ -911,7 +911,7 @@
     Image: https://cdn.shopify.com/s/files/1/0676/1080/4290/files/257916929565.jpg?v=1776252752
     Price: $109.44 USD
 - [Abdominal Wheel Multi-function Four-wheel Automatic Rebound Fitness Equipment](https://yasminegadgetglamor.store/products/abdominal-wheel-multi-function-four-wheel-automatic-rebound-fitness-equipment): Product information: Applicable scenarios: fitness equipment, fitness and bodybuilding, others Color: multifunctional abdominal wheel Green, multifunctional abdominal wheel Black Specification: abdominal wheel Packing list: Abdominal wheel*1pc Product Image:
-  Updated: 2026-04-15T23:32:58Z
+  Updated: 2026-04-27T11:49:36Z
   Vendor: null
   Product Type: Health and wellnes &fitness product
   Availability: Available
@@ -1087,13 +1087,13 @@
   Updated: 2026-04-15T11:31:05Z
   Total Products: 1
 - [WellNest Series](https://yasminegadgetglamor.store/collections/wellnest-series)
-  Updated: 2026-04-20T23:30:35Z
+  Updated: 2026-04-28T11:35:10Z
   Total Products: 8
 - [PureHarmony Line](https://yasminegadgetglamor.store/collections/pureharmony-line)
-  Updated: 2026-04-15T18:44:41Z
+  Updated: 2026-04-28T11:35:10Z
   Total Products: 6
 - [VitalVibe Collection](https://yasminegadgetglamor.store/collections/vitalvibe-collection)
-  Updated: 2026-04-15T18:46:11Z
+  Updated: 2026-04-28T11:35:10Z
   Total Products: 7
 - [NourishNest Collection](https://yasminegadgetglamor.store/collections/nourishnest-collection)
   Updated: 2026-04-15T23:51:45Z
@@ -1105,10 +1105,10 @@
   Updated: 2026-04-15T18:49:15Z
   Total Products: 6
 - [EnergEase Series](https://yasminegadgetglamor.store/collections/energease-series)
-  Updated: 2026-04-15T18:50:26Z
+  Updated: 2026-04-23T11:34:27Z
   Total Products: 6
 - [BlissBloom Line](https://yasminegadgetglamor.store/collections/blissbloom-line)
-  Updated: 2026-04-15T18:51:02Z
+  Updated: 2026-04-23T11:34:27Z
   Total Products: 5
 - [ZenVibe Collection](https://yasminegadgetglamor.store/collections/zenvibe-collection)
   Updated: 2026-04-15T18:51:36Z
@@ -1117,7 +1117,7 @@
   Updated: 2026-04-15T18:52:28Z
   Total Products: 5
 - [Serenity Spectrum](https://yasminegadgetglamor.store/collections/serenity-spectrum)
-  Updated: 2026-04-15T23:50:16Z
+  Updated: 2026-04-28T11:35:10Z
   Total Products: 6
 - [VitalAura Collection](https://yasminegadgetglamor.store/collections/vitalaura-collection)
   Updated: 2026-04-15T18:54:26Z
