@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-08-28T21:36:06Z
 - Contact Email: arjun@botanicalbottles.com
-- Updated At: 2026-04-23T00:00:20.688Z
+- Updated At: 2026-04-30T00:00:31.931Z
 
 ## Products
 
@@ -500,8 +500,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0818/8893/6251/files/5mlClearEuro_BlackTamperEvidentCap.jpg?v=1773434691
   Price: $0.26 USD
-- [Buy 18-415 Black Tamper-Evident Screw Caps | 1530 pcs](https://botanicalbottles.com/products/18-415-black-tamper-evident-orifice-reducer-screw-cap-1530-pieces-per-case): 1530-piece 18-415 black tamper-evident orifice reducer screw caps. Durable plastic, ribbed design with tamper ring, perfect for Euro Round bottles.
-  Updated: 2026-04-07T10:18:03Z
+- [Botanical Bottles 18-415 Black Tamper-Evident Screw Caps | 1530 pcs](https://botanicalbottles.com/products/18-415-black-tamper-evident-orifice-reducer-screw-cap-1530-pieces-per-case): 1530-piece 18-415 black tamper-evident orifice reducer screw caps. Durable plastic, ribbed design with tamper ring, perfect for Euro Round bottles.
+  Updated: 2026-04-27T05:37:33Z
   Vendor: Botanical Bottles
   Product Type: Closure
   Availability: Available
@@ -809,7 +809,7 @@
   Image: https://cdn.shopify.com/s/files/1/0818/8893/6251/files/30mlAmberEuro_WhiteTamperEvidentCap.jpg?v=1773438466
   Price: $0.29 USD
 - [Buy 30ml Cobalt Blue Euro Round | 18‑415 Black Tamper Caps](https://botanicalbottles.com/products/30ml-cobalt-blue-euro-round-18-415-black-tamper-evident-orifice-reducer-caps-312-sets-per-case): 30ml cobalt blue Euro Round glass bottles with 18‑415 black tamper‑evident orifice reducer caps. 330 sets per case, perfect for oils, serums, and cosmetics.
-  Updated: 2026-04-10T21:51:54Z
+  Updated: 2026-04-28T18:52:18Z
   Vendor: Botanical Bottles
   Product Type: Bottle
   Availability: Available
@@ -850,10 +850,10 @@
   Updated: 2026-04-16T11:17:01Z
   Total Products: 32
 - [Shop Euro Round Bottles | 18‑415 Glass Bottles Bulk Cases](https://botanicalbottles.com/collections/euro-rounds): Shop Euro round glass bottles in amber, clear, cobalt blue and more. Ideal for oils, aprayers , serums, tinctures, cosmetics, and liquid products.
-  Updated: 2026-04-10T12:35:12Z
+  Updated: 2026-04-28T11:14:52Z
   Total Products: 30
 - [Shop Bottle & Closure Sets | Complete Packaging Solutions](https://botanicalbottles.com/collections/sets): Discover bottle sets with matching closures droppers, caps and sprayers included. Great for ready‑to‑fill products and packaging efficiency.
-  Updated: 2026-04-10T12:35:42Z
+  Updated: 2026-04-28T11:14:52Z
   Total Products: 54
 - [Shop Euro Round Bottle Sets | Bottles with Closures Bulk](https://botanicalbottles.com/collections/euro-round-sets): Complete Euro round bottle sets with matching droppers, sprayers, and caps. Perfect for oils, tinctures, serums, and DIY cosmetics products.
   Updated: 2026-04-10T12:36:06Z
@@ -862,13 +862,13 @@
   Updated: 2026-04-10T12:36:35Z
   Total Products: 4
 - [Shop Glass Bottles & Packaging | Bulk & Wholesale Cases](https://botanicalbottles.com/collections/all): Browse all glass bottles, droppers, sprayers, and closures. Boston and Euro rounds in amber, clear, and cobalt blue for DIY oils, serums, and tinctures.
-  Updated: 2026-04-18T11:20:50Z
+  Updated: 2026-04-28T11:14:52Z
   Total Products: 127
 - [Smart Products Filter Index - Do not delete](https://botanicalbottles.com/collections/globofilter-best--products-index)
-  Updated: 2026-04-18T11:20:50Z
+  Updated: 2026-04-28T11:14:52Z
   Total Products: 137
 - [Shop Cobalt Blue Glass Bottles | Euro & Boston Rounds Bulk](https://botanicalbottles.com/collections/cobalt-blue): Cobalt blue glass bottles for essential oils, tinctures, serums, and DIY cosmetics. Available as Boston rounds, Euro rounds, and full bottle sets.
-  Updated: 2026-04-10T12:37:20Z
+  Updated: 2026-04-28T11:14:52Z
   Total Products: 16
 - [Shop Amber Glass Bottles | Bulk Boston & Euro Rounds](https://botanicalbottles.com/collections/amber): Amber glass bottles in Boston and Euro round styles. Ideal for oils, serums, tinctures, and DIY cosmetics. Available individually or in bulk sets.
   Updated: 2026-04-10T12:37:49Z
@@ -904,15 +904,13 @@
   Updated: 2026-04-07T10:24:42Z
 - [Custom Glass Bottle Coatings & Printing | BotanicalBottles](https://botanicalbottles.com/pages/request-for-quote): 
   Updated: 2026-04-10T09:46:26Z
-- [Custom Glass Bottle Coatings & Printing | BotanicalBottles](https://botanicalbottles.com/pages/quotes-history): 
-  Updated: 2026-04-07T10:25:10Z
 
 ## Policies
 
 - [Privacy Policy](https://botanicalbottles.com/policies/privacy-policy)
   Updated: 2024-07-17T15:43:19-04:00
 - [Shipping Policy](https://botanicalbottles.com/policies/shipping-policy)
-  Updated: 2025-04-22T13:16:22-04:00
+  Updated: 2026-04-26T19:56:08-04:00
 - [Refund Policy](https://botanicalbottles.com/policies/refund-policy)
   Updated: 2024-07-17T15:47:36-04:00
 - [Terms of Service](https://botanicalbottles.com/policies/terms-of-service)
