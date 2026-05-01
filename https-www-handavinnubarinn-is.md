@@ -6,7 +6,7 @@
 - Timezone: Etc/UTC
 - Created At: 2025-09-21T10:34:42Z
 - Contact Email: handavinnubarinn@handavinnubarinn.is
-- Updated At: 2026-04-24T00:00:42.086Z
+- Updated At: 2026-05-01T00:00:45.120Z
 
 Our online store features carefully crafted items from our own workshop, a wide range of knitting, crochet, and craft products, as well as yarn and other handcraft supplies. The goal is to create a community for handcraft makers and everyone who loves creating with their hands. 
 
@@ -249,7 +249,7 @@ Our online store features carefully crafted items from our own workshop, a wide 
     Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/7_6d626a2c-6856-49ee-8df9-ab0012dbcf8e.jpg?v=1766220086
     Price: 690,00 kr. ISK
 - [Punktanudds hringir](https://www.handavinnubarinn.is/products/punktanudds-hringir-1): Léttir og meðfærilegir punktanuddshringir sem henta vel fyrir fólk sem er í handavinnu og sem fikt tól. Úrval af litum í boði.
-  Updated: 2026-04-08T20:36:57Z
+  Updated: 2026-04-28T14:34:47Z
   Vendor: Handavinnubarinn
   Product Type: Fylgihlutir handavinnulífsins
   Availability: Available
@@ -487,35 +487,35 @@ Our online store features carefully crafted items from our own workshop, a wide 
   Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/50.jpg?v=1765921275
   Price: 420,00 kr. ISK
 - [KnitPro Mindful Gratitude 13cm – Forsala - Útskiptanlegt prjónasett](https://www.handavinnubarinn.is/products/knitpro-mindful-gratitude-prjonasett): KnitPro Mindful Gratitude 13cm útskiptanlegt prjónasett – ryðfríir stálprjónar með 360° snúrum, mandalamynstraðri tösku og öllum helstu fylgihlutum.
-  Updated: 2026-04-10T05:53:19Z
+  Updated: 2026-04-24T22:11:53Z
   Vendor: Knitpro
   Product Type: Prjónasett
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/KnitproMindful-Gratitudeprjonasettnota.jpg?v=1765811605
   Price: 29.990,00 kr. ISK
 - [KnitPro Mindful Warmth 10cm – Forsala - Útskiptanlegt prjónasett](https://www.handavinnubarinn.is/products/knitpro-mindful-warmth-prjonasett): KnitPro Mindful Warmth 10cm útskiptanlegt prjónasett með 11 pörum stálprjóna með 360° snúrum og fylgihlutum. Silkimjúkir stálprjónar með orðum sem veita innblástur við prjónaskapinn. Fullkomið fyrir prjónastund í núvitund
-  Updated: 2026-04-10T05:53:07Z
+  Updated: 2026-04-24T22:11:37Z
   Vendor: Knitpro
   Product Type: Prjónasett
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/KnitproMindful-Warmthprjonasettnota.jpg?v=1765811379
   Price: 25.990,00 kr. ISK
 - [Knitpro Mindful Believe 13cm - Forsala - Útskiptanlegt prjónasett](https://www.handavinnubarinn.is/products/knitpro-mindful-believe-prjonasett): KnitPro Mindful Believe 13cm útskiptanlegt prjónasett með ryðfríum stálprjónum, 360° snúrum og fylgihlutum. Silkimjúkir prjónar með orðum sem veita innblástur í fallegri Mindful-tösku.
-  Updated: 2026-04-10T05:52:52Z
+  Updated: 2026-04-24T22:11:19Z
   Vendor: Knitpro
   Product Type: Prjónasett
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/KnitproMindful-Believeprjonasettnota.jpg?v=1765811251
   Price: 13.990,00 kr. ISK
 - [Knitpro Mindful Kindness 10cm - Forsala - Útskiptanlegt prjónasett](https://www.handavinnubarinn.is/products/knitpro-mindful-kindness-prjonasett): KnitPro Mindful Kindness 10cm útskiptanlegt prjónasett með 7 pörum af stálprjónum, 360° snúrur, prjónamæli og prjónamerki. Falleg Mindful-taska með fylgihlutum. Fullkomið fyrir smærri og meðalstór verkefni.
-  Updated: 2026-04-10T05:52:40Z
+  Updated: 2026-04-24T22:11:00Z
   Vendor: Knitpro
   Product Type: Prjónasett
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/KnitproMindful-Kindnessprjonasettnota2.jpg?v=1769084976
   Price: 14.990,00 kr. ISK
 - [KnitPro Mindful - Chakra silfurhúðuð prjónamerki - Forsala - Mindful prjónalína](https://www.handavinnubarinn.is/products/knitpro-mindful-chakra-prjonamerki): KnitPro Mindful Chakra prjónamerki, 10 silfurhúðuð merki með chakra táknum. Renna mjúklega á prjóna og henta fyrir mynstralínur, úrtökur og útaukningar. Kemur í fallegum túrkis poka.
-  Updated: 2026-04-20T19:57:51Z
+  Updated: 2026-04-24T22:10:23Z
   Vendor: Knitpro
   Product Type: Prjónafylgihlutir
   Availability: Available
@@ -708,7 +708,7 @@ Our online store features carefully crafted items from our own workshop, a wide 
     Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/38_07f596fa-4d86-4f96-921d-eb2f92c81da0.jpg?v=1766002876
     Price: 350,00 kr. ISK
 - [Teiknimynda fatabætur](https://www.handavinnubarinn.is/products/teiknimyndafatabaetur): Mismunandi útgáfur af fatabótum með myndum úr vinsælum teiknimyndum. Paw Patrol bætur stærð sirka 7,5x10,5cm Lightning McQueen allar stærðir sirka 8x5cm Thomas & Friends allar stærðir sirka 5x5cm /7x5cm
-  Updated: 2025-12-18T08:22:34Z
+  Updated: 2026-04-28T09:57:46Z
   Vendor: Handavinnubarinn
   Product Type: Fylgihlutir handavinnulífsins
   Availability: Available
@@ -746,7 +746,7 @@ Our online store features carefully crafted items from our own workshop, a wide 
     Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/41_e5d7af07-00ea-4708-a258-3d17bafef719.jpg?v=1766002432
     Price: 350,00 kr. ISK
   - [Lightning McQueen 4](https://www.handavinnubarinn.is/products/teiknimyndafatabaetur?variant=48111897444567)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/40_510bbe48-a6c8-4a76-836c-950ee80c5ee6.jpg?v=1766002432
     Price: 350,00 kr. ISK
   - [Sally](https://www.handavinnubarinn.is/products/teiknimyndafatabaetur?variant=48111897477335)
@@ -1122,8 +1122,8 @@ Our online store features carefully crafted items from our own workshop, a wide 
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/6_4da3217d-87eb-40e2-9213-50bfe94f7df4.jpg?v=1771523975
     Price: 590,00 kr. ISK
-- [Namaste handavinnutaska](https://www.handavinnubarinn.is/products/namaste-handavinnutaska): Þessi vara fæst einungis í forpöntun. Næsta sending væntanleg í maí.Namaste Maker’s axlartaskan er fullkominn félagi fyrir handverksfólk á ferðinni. Taskan er smekklega og meðvitað hönnuð úr hágæða gervileðri (vegan leather) og rúmar auðveldlega eitt eða tvö handverksverkefni ásamt nauðsynjum dagsins eins og veski, skipulagsbók eða spjaldtölvu. Að innan er taskan afar vel skipulögð og inniheldur: 3 pennavasa 1 vasa fyrir smáhluti 1 símahólf 1 stórt miðhólf með rennilás 2 rúmgóð opin hólf sitt hvoru megin við miðhólfið (nægilega stór fyrir t.d. spjaldtölvu) Að utan er rennilásavasi sem hentar vel fyrir síma eða aðra hluti sem gott er að hafa fljótt við höndina. Stillanleg axlaról tryggir þægindi og segulloka heldur eigum þínum öruggum inni í töskunni. Taskan er BPA- og PVC-laus, fæst í nokkrum litum og er 30,5 × 43,2 × 15,2 cm að stærð. Með töskunni fylgja einnig vandaðir fylgihlutir: Umhverfisvænn rykpoki Frágangsnál Lítil Crafter’s Dot minnisbók 20cm Málband með lyklakippufestingu Lotus-garnleiðari Aftengjanlegur skrautborði með lotus-prjónamerki Hagnýt, falleg og hugsuð fyrir skapandi fólk, fullkomin taska fyrir handverksunnendur sem vilja sameina stíl og notagildi.
-  Updated: 2026-04-10T05:58:01Z
+- [Namaste handavinnutaska](https://www.handavinnubarinn.is/products/namaste-handavinnutaska): ATH þessi vara er einungis fáanleg í forpöntun. Næsta pöntun fer fram í byrjun maí ef lágmarki er náð til þess að panta. Ef lágmarkið næst ekki fyrir pöntun fæst varan endurgreidd.Namaste Maker’s axlartaskan er fullkominn félagi fyrir handverksfólk á ferðinni. Taskan er smekklega og meðvitað hönnuð úr hágæða gervileðri (vegan leather) og rúmar auðveldlega eitt eða tvö handverksverkefni ásamt nauðsynjum dagsins eins og veski, skipulagsbók eða spjaldtölvu. Að innan er taskan afar vel skipulögð og inniheldur: 3 pennavasa 1 vasa fyrir smáhluti 1 símahólf 1 stórt miðhólf með rennilás 2 rúmgóð opin hólf sitt hvoru megin við miðhólfið (nægilega stór fyrir t.d. spjaldtölvu) Að utan er rennilásavasi sem hentar vel fyrir síma eða aðra hluti sem gott er að hafa fljótt við höndina. Stillanleg axlaról tryggir þægindi og segulloka heldur eigum þínum öruggum inni í töskunni. Taskan er BPA- og PVC-laus, fæst í nokkrum litum og er 30,5 × 43,2 × 15,2 cm að stærð. Með töskunni fylgja einnig vandaðir fylgihlutir: Umhverfisvænn rykpoki Frágangsnál Lítil Crafter’s Dot minnisbók 20cm Málband með lyklakippufestingu Lotus-garnleiðari Aftengjanlegur skrautborði með lotus-prjónamerki Hagnýt, falleg og hugsuð fyrir skapandi fólk, fullkomin taska fyrir handverksunnendur sem vilja sameina stíl og notagildi.
+  Updated: 2026-04-24T22:08:33Z
   Vendor: Handavinnubarinn
   Product Type: Fylgihlutir handavinnulífsins
   Availability: Available
@@ -1909,7 +1909,7 @@ Our online store features carefully crafted items from our own workshop, a wide 
     Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/F9F0D174-4CDE-4668-AE1E-33D0F9CEE8D2.jpg?v=1773693626
     Price: 2.690,00 kr. ISK
 - [KnitPro Mindful Swivel 360° útskiptanlegar snúrur](https://www.handavinnubarinn.is/products/knitpro-mindful-swivel-360-utskiptanlegar-snurur): KnitPro Mindful Swivel 360° útskiptanlega snúran er hönnuð til að gera hringprjón auðvelt, mjúkt og streitulaust. Mindful línan byggir á hugmyndafræði hæglætis og núvitundar, þar sem prjón verður róandi iðja sem hefur jákvæð áhrif á líkama og huga. Snúran er búin Swivel 360° snúningskerfi sem kemur í veg fyrir að hún vindi upp á sig eða bogni við prjón. Hún er úr stáli með sléttri nælonhúð sem rennur létt í gegnum lykkjur. Snúrurnar eru í einkennandi blágrænum lit Mindful línunnar og fylgja með snúrulykill og snúrulok sem gera kleift að nota snúruna sem lykkjuhaldara. Eru til í lengdum 40cm, 50cm, 60cm, 80cm, 100cm, 120cm og 150cm. Lengdin segir til um lengd samtals með prjónum.
-  Updated: 2026-04-13T16:44:59Z
+  Updated: 2026-04-29T07:43:37Z
   Vendor: Knitpro
   Product Type: Fylgihlutir handavinnulífsins
   Availability: Available
@@ -2033,15 +2033,15 @@ Our online store features carefully crafted items from our own workshop, a wide 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/3D611E06-A5A9-4866-A345-EE23BE161679.jpg?v=1775920574
   Price: 1.190,00 kr. ISK
-- [KnitPro Meadow útskiptanlegt prjonasett](https://www.handavinnubarinn.is/products/knitpro-meadow-utskiptanlegt-prjonasett): ATH þessi vara er einungis fáanleg í forpöntun. Næsta pöntun fer fram í byrjun maí. KnitPro Meadow settið með 13 cm útskiptanlegu prjónunum og fylgihlutum inniheldur allt sem þarf til að prjóna bæði beint og í hring. Prjónarnir eru úr tré í fallegum, mjúkum pastellitum, með einstaklega sléttu yfirborði. Prjónarnir tengjast auðveldlega við ryðfría og nælonhúðaða stálsnúru. Swivel 360° snúrurnar eru sterkar og sveigjanlegar, renna mjúklega í gegnum lykkjurnar ásamt því að snúast með prjónunum sem kemur í veg fyrir að snúran flækist. Settið inniheldur: 8 pör af 13 cm útskiptanlegir prjónar í stærðum 3,50–8,00 mm 4 Swivel 360° snúrur fyrir heildarlengd (með pinnum): 60 cm (1 stk), 80 cm (2 stk) og 100 cm (1 stk) 8 snúrustoppara 4 snúrulykla 1 sett af tengjum fyrir snúrur Allt er geymt í fallegu tauhulstri með hólfum fyrir prjónapinna og rennilásavasa fyrir víra og fylgihluti. Selt sem eitt sett.
-  Updated: 2026-04-12T19:46:07Z
+- [KnitPro Meadow útskiptanlegt prjonasett](https://www.handavinnubarinn.is/products/knitpro-meadow-utskiptanlegt-prjonasett): ATH þessi vara er einungis fáanleg í forpöntun. Næsta pöntun fer fram í byrjun maí ef lágmarki er náð til þess að panta. Ef lágmarkið næst ekki fyrir pöntun fæst varan endurgreidd. KnitPro Meadow settið með 13 cm útskiptanlegu prjónunum og fylgihlutum inniheldur allt sem þarf til að prjóna bæði beint og í hring. Prjónarnir eru úr tré í fallegum, mjúkum pastellitum, með einstaklega sléttu yfirborði. Prjónarnir tengjast auðveldlega við ryðfría og nælonhúðaða stálsnúru. Swivel 360° snúrurnar eru sterkar og sveigjanlegar, renna mjúklega í gegnum lykkjurnar ásamt því að snúast með prjónunum sem kemur í veg fyrir að snúran flækist. Settið inniheldur: 8 pör af 13 cm útskiptanlegir prjónar í stærðum 3,50–8,00 mm 4 Swivel 360° snúrur fyrir heildarlengd (með pinnum): 60 cm (1 stk), 80 cm (2 stk) og 100 cm (1 stk) 8 snúrustoppara 4 snúrulykla 1 sett af tengjum fyrir snúrur Allt er geymt í fallegu tauhulstri með hólfum fyrir prjónapinna og rennilásavasa fyrir víra og fylgihluti. Selt sem eitt sett.
+  Updated: 2026-04-24T22:07:26Z
   Vendor: Knitpro
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0782/2603/0807/files/44227441-8648-4AFA-B43F-D1FDB9ECA162.jpg?v=1775981529
   Price: 12.990,00 kr. ISK
-- [KnitPro Day&Nite 360° swivel prjónasnúrur](https://www.handavinnubarinn.is/products/knitpro-day-nite-360-swivel-prjonasnurur): ATH þessi vara er einungis fáanleg í forpöntun. Næsta pöntun fer fram í byrjun maí. KnitPro Swivel 360° snúrurnar gera prjónum kleift að snúast frjálst sem kemur í veg fyrir að snúran snúist eða krumpist við prjón. Stálsnúrurnar eru nælonhúðaðar sem gerir þá bæði sterka og einstaklega mjúka í notkun, þannig að þeir renna áreynslulaust í gegnum lykkjur. Snúrurnar tengjast prjónum með sérhönnuðum lykli. Snúrustopparar breyta snúrunum í lykkjuhaldara. Settið inniheldur: 4 útskiptanlegar snúrur: 60 cm (1 stk), 80 cm (2 stk) og 100 cm (1 stk) 4 snúrustoppara 2 snúrulykla 1 par af tengjum fyrir snúrur Allt kemur í fallegum taupoka.
-  Updated: 2026-04-12T19:56:38Z
+- [KnitPro Day&Nite 360° swivel prjónasnúrur](https://www.handavinnubarinn.is/products/knitpro-day-nite-360-swivel-prjonasnurur): ATH þessi vara er einungis fáanleg í forpöntun. Næsta pöntun fer fram í byrjun maí ef lágmarki er náð til þess að panta. Ef lágmarkið næst ekki fyrir pöntun fæst varan endurgreidd. KnitPro Swivel 360° snúrurnar gera prjónum kleift að snúast frjálst sem kemur í veg fyrir að snúran snúist eða krumpist við prjón. Stálsnúrurnar eru nælonhúðaðar sem gerir þá bæði sterka og einstaklega mjúka í notkun, þannig að þeir renna áreynslulaust í gegnum lykkjur. Snúrurnar tengjast prjónum með sérhönnuðum lykli. Snúrustopparar breyta snúrunum í lykkjuhaldara. Settið inniheldur: 4 útskiptanlegar snúrur: 60 cm (1 stk), 80 cm (2 stk) og 100 cm (1 stk) 4 snúrustoppara 2 snúrulykla 1 par af tengjum fyrir snúrur Allt kemur í fallegum taupoka.
+  Updated: 2026-04-28T14:36:16Z
   Vendor: Handavinnubarinn
   Product Type: 
   Availability: Available
@@ -2051,7 +2051,7 @@ Our online store features carefully crafted items from our own workshop, a wide 
 ## Collections
 
 - [Allar vörur](https://www.handavinnubarinn.is/collections/products)
-  Updated: 2026-04-21T11:31:19Z
+  Updated: 2026-04-29T11:27:27Z
   Total Products: 71
 - [Forpöntun](https://www.handavinnubarinn.is/collections/forsala): ATH þessar vörur eru einungis í forpöntun.
   Updated: 2026-04-14T11:27:31Z
@@ -2063,10 +2063,10 @@ Our online store features carefully crafted items from our own workshop, a wide 
   Updated: 2026-04-17T11:31:14Z
   Total Products: 18
 - [Fylgihlutir](https://www.handavinnubarinn.is/collections/fylgihlutir)
-  Updated: 2026-04-21T11:31:19Z
+  Updated: 2026-04-29T11:27:27Z
   Total Products: 43
 - [FeaturedProducts](https://www.handavinnubarinn.is/collections/featuredproducts)
-  Updated: 2026-04-18T11:33:27Z
+  Updated: 2026-04-29T11:27:27Z
   Total Products: 11
 - [Gjafakort](https://www.handavinnubarinn.is/collections/gjafabref)
   Updated: 2025-12-27T08:07:37Z
@@ -2090,10 +2090,10 @@ Our online store features carefully crafted items from our own workshop, a wide 
   Updated: 2026-04-18T11:33:27Z
   Total Products: 4
 - [KnitPro](https://www.handavinnubarinn.is/collections/knitpro-mindful)
-  Updated: 2026-04-21T11:31:19Z
+  Updated: 2026-04-29T11:27:27Z
   Total Products: 17
 - [Prjónar og snúrur](https://www.handavinnubarinn.is/collections/prjonar-og-snurur)
-  Updated: 2026-04-14T11:27:31Z
+  Updated: 2026-04-29T11:27:27Z
   Total Products: 11
 - [Skæri](https://www.handavinnubarinn.is/collections/skaeri)
   Updated: 2026-04-18T11:33:27Z
@@ -2117,7 +2117,7 @@ Our online store features carefully crafted items from our own workshop, a wide 
   Updated: 2026-04-09T11:29:14Z
   Total Products: 5
 - [Lykkjusnúrur og stopparar](https://www.handavinnubarinn.is/collections/lykkjusnurur-og-stopparar)
-  Updated: 2026-04-17T11:31:14Z
+  Updated: 2026-04-29T11:27:27Z
   Total Products: 8
 - [Útsaumur](https://www.handavinnubarinn.is/collections/utsaumur)
   Updated: 2026-04-17T11:31:14Z
