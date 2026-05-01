@@ -23,7 +23,7 @@ Natur-Sense is commonly associated with queries related to aloe vera gel, natura
 - Timezone: America/New_York
 - Created At: 2019-08-07T19:00:28Z
 - Contact Email: support@natur-sense.com
-- Updated At: 2026-04-22T00:00:21.660Z
+- Updated At: 2026-05-01T00:00:33.624Z
 
 Natur-Sense.com is a trusted source for high-quality, nature-inspired wellness and personal care products, with a focus on purity, effectiveness, and transparency. Our flagship Aloe Vera Gel and related products are formulated to support healthy skin, hydration, and everyday well-being.
 
@@ -31,36 +31,36 @@ We are committed to providing accurate product information, clean ingredient sta
 
 ## Products
 
-- [NaturSense USDA Organic Aloe Gel 12oz - Pure, Soothing Moisturizer](https://natur-sense.com/products/natursense-organic-aloe-vera-gel-12oz): Discover NaturSense 12oz USDA Organic Aloe Vera Gel. Our 99% pure, cold-pressed, vitamin-rich formula soothes skin, calms sunburn, and conditions hair. Shop now!
-  Updated: 2026-04-21T13:57:37Z
+- [NaturSense Organic Aloe Gel 12oz - Pure, Soothing Moisturizer](https://natur-sense.com/products/natursense-organic-aloe-vera-gel-12oz): Discover NaturSense 12oz Organic Aloe Vera Gel. Our pure, cold-pressed, vitamin-rich formula soothes skin, calms sunburn, and conditions hair. Shop now!
+  Updated: 2026-04-29T07:54:56Z
   Vendor: NaturSense
   Product Type: Skincare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/5706/4015/files/NS-Home-Products-12ozAloe-12.jpg?v=1772465770
   Price: $17.89 USD
 - [NaturSense 64.2oz - 99% Organic Aloe Gel - Soothes Sunburn, Moisturizes Skin](https://natur-sense.com/products/natursense-organic-aloe-vera-gel-64oz): NaturSense 64oz Pure Organic Aloe Gel. cold-pressed, and packed with vitamins. Soothes sunburn, moisturizes skin, and nourishes hair & scalp naturally.
-  Updated: 2026-04-21T15:44:36Z
+  Updated: 2026-04-30T09:44:46Z
   Vendor: NaturSense
   Product Type: Skincare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/5706/4015/files/64-oz-aloe-gel-lifestile-1080x1080-2025.jpg?v=1756905834
   Price: $55.89 USD
 - [NaturSense Organic Castile Soap | 64 fl oz (Gallon) Multi-Purpose Natural Liquid Soap](https://natur-sense.com/products/organic-castile-soap-64oz): NaturSense Organic Castile Soap: Gentle, multi-purpose liquid soap for body, hair, pets & home. Made with 100% USDA organic oils. Shop the 64 fl oz (gallon) size today!
-  Updated: 2026-04-21T20:10:16Z
+  Updated: 2026-04-30T21:00:17Z
   Vendor: NaturSense
   Product Type: Skincare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/5706/4015/files/64-oz-castile-soap-lifestile-1080x1080.jpg?v=1703970964
   Price: $29.89 USD
-- [Organic Aloe Vera Gel 2-Pack 64oz w/Pump - NaturSense 99% Pure](https://natur-sense.com/products/organic-aloe-vera-gel-2pack-64oz-pump): Soothe & hydrate with NaturSense 99% USDA Organic Aloe Vera Gel (64 fl oz). Perfect for skin, hair, sunburns, and daily moisturizing. Fast-absorbing & non-sticky.
-  Updated: 2026-04-20T13:34:55Z
+- [Organic Aloe Vera Gel 2-Pack 64oz w/Pump - NaturSense 99% Pure](https://natur-sense.com/products/organic-aloe-vera-gel-2pack-64oz-pump): Soothe & hydrate with NaturSense Organic Aloe Vera Gel (64 fl oz). Perfect for skin, hair, sunburns, and daily moisturizing. Fast-absorbing & non-sticky.
+  Updated: 2026-04-30T02:56:12Z
   Vendor: NaturSense
   Product Type: Skincare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/5706/4015/files/71yrOT7A61L._SX679.jpg?v=1754053843
   Price: $98.89 USD
 - [NaturSense Organic Castile Soap 2-Pack (128oz Total) | Unscented for Baby, Body & Home](https://natur-sense.com/products/pure-castile-soap-organic-unscented-2pack-64oz): Premium castile soap made with 100% organic coconut, olive & aloe oils. Safe for babies, pets & household cleaning. Unscented 2-pack, 64oz bottles w/pumps.
-  Updated: 2026-04-21T16:50:08Z
+  Updated: 2026-04-28T09:26:47Z
   Vendor: NaturSense
   Product Type: Skincare
   Availability: Available
@@ -77,13 +77,13 @@ We are committed to providing accurate product information, clean ingredient sta
 ## Collections
 
 - [Home page](https://natur-sense.com/collections/frontpage)
-  Updated: 2026-04-19T11:13:06Z
+  Updated: 2026-04-27T11:13:19Z
   Total Products: 5
 - [all](https://natur-sense.com/collections/all)
-  Updated: 2026-04-21T11:12:13Z
+  Updated: 2026-04-28T11:10:53Z
   Total Products: 7
 - [Aloe Vera Products](https://natur-sense.com/collections/aloe-vera-products)
-  Updated: 2026-04-21T11:12:13Z
+  Updated: 2026-04-28T11:10:53Z
   Total Products: 3
 - [Castile Soap Products](https://natur-sense.com/collections/castile-soap-products)
   Updated: 2026-04-13T11:10:40Z
