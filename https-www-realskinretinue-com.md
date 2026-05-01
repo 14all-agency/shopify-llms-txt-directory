@@ -6,21 +6,21 @@
 - Timezone: America/Chicago
 - Created At: 2021-12-12T23:48:26Z
 - Contact Email: info@realskinretinue.com
-- Updated At: 2026-04-19T00:00:21.252Z
+- Updated At: 2026-05-01T00:00:34.064Z
 
 ## Products
 
-- [Real Skin Retinue | Savef Skin Essential Face Serum™ — #1 Total Serum](https://www.realskinretinue.com/products/savef-skin-essential-face-serum): By Real Skin Retinue. Barrier-first, photo-conscious, fragrance-free. 17+ antioxidants, peptides & ceramides. 100% report glowing, hydrated skin on first use. 30ml.
-  Updated: 2026-04-08T22:10:40Z
+- [Real Skin Retinue | Savef Skin Essential Face Serum™ — Photo Aging Defense | #1 Total Serum](https://www.realskinretinue.com/products/savef-skin-essential-face-serum): By Real Skin Retinue. Barrier-first, photo-conscious, fragrance-free. Defends against photo aging with 17+ antioxidants, peptides & ceramides. 100% report glowing, hydrated skin on first use. 30ml.
+  Updated: 2026-04-28T02:36:33Z
   Vendor: Real Skin Retinue
   Product Type: Face Serum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0615/3968/0472/files/a8d26cb0-036c-11f1-906b-e135de811eb4.webp?v=1770415332
+  Image: https://cdn.shopify.com/s/files/1/0615/3968/0472/files/1976444322493_02.jpg?v=1769707794
   Price: $155.00 USD
 - [Savef Skin Book | Barrier-First Skincare Guide by Marzia Rahmani](https://www.realskinretinue.com/products/savef-skin-book): Discover the Modern Skin Concept™ with Marzia Rahmani's barrier-first skincare guide. Photo-conscious strategies, ingredient transparency, and holistic wellness for healthy, resilient skin.
-  Updated: 2026-04-02T10:54:25Z
-  Vendor: realskinretinue
-  Product Type: 
+  Updated: 2026-04-28T18:02:45Z
+  Vendor: Real Skin Retinue
+  Product Type: Skincare Guide
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0615/3968/0472/files/Book_square_OPT.jpg?v=1725138061
   Price: $18.99 USD
@@ -34,7 +34,7 @@
   Updated: 2026-04-02T10:54:25Z
   Total Products: 0
 - [All Skincare Products — Real Skin Retinue](https://www.realskinretinue.com/collections/all-products): Shop all Real Skin Retinue skincare products. Barrier-first, photo-conscious formulas for hydration, protection & long-term skin health.
-  Updated: 2026-04-03T00:59:14Z
+  Updated: 2026-04-25T02:03:31Z
   Total Products: 2
 
 ## Blogs
@@ -263,6 +263,18 @@
     Updated: 2026-04-15T12:12:12Z
     Author: Marzia Rahmani
     Tags: aging skin, barrier repair, photo-conscious skincare, Photoconscious Skincare, photoprotection
+  - [Glycolic Acid + Hyaluronic Acid: Why Mixing Them May Harm Your Skin Barrier](https://www.realskinretinue.com/blogs/news/why-mixing-glycolic-acid-hyaluronic-acid-may-be-risky): Glycolic Acid + Hyaluronic Acid: Why Mixing Them May Harm Your Skin Barrier
+    Updated: 2026-04-21T06:18:14Z
+    Author: Marzia Rahmani
+    Tags: AHA, barrier skincare, clean skincare, glycolic acid, hyaluronic acid, hydration, Modern Skin Concept, Savef Skin, skin barrier, skincare ingredients, skincare routine
+  - [Are AHAs and Vitamin C Really Universal? The Truth About Skincare Ingredients](https://www.realskinretinue.com/blogs/news/the-holy-grail-of-skincare-why-alpha-hydroxy-acids-and-vitamin-c-may-not-be-what-you-think): Are AHAs and Vitamin C Really Universal? The Truth About Skincare Ingredients
+    Updated: 2026-04-21T06:18:18Z
+    Author: Marzia Rahmani
+    Tags: AHA, barrier skincare, clean skincare, Modern Skin Concept, photo-conscious, Savef Skin, skin barrier, skincare, skincare ingredients, vitamin C
+  - [Photo-Conscious Barrier Repair Serum for Photoaging](https://www.realskinretinue.com/blogs/news/photoaging-antioxidant-barrier-repair-serum): Photo-Conscious Barrier Repair Serum for Photoaging
+    Updated: 2026-04-28T22:26:16Z
+    Author: Marzia Rahmani
+    Tags: aging skin, AHA exfoliation, antioxidant serum, Antioxidants, barrier repair, DNA protection, Fasting and Skin Health, Modern Skin Concept, Peptides, photo-conscious, photo-conscious skincare, photoaging, skincare, SPF, sun damage prevention, sun-damaged skin
 - [Is Your Skincare Aging You?](https://www.realskinretinue.com/blogs/is-your-skincare-aging-you)
   - [Is Your Skincare Aging You? Avoid These Harmful Ingredients](https://www.realskinretinue.com/blogs/is-your-skincare-aging-you/is-your-skincare-aging-you): Is Your Skincare Aging You? Avoid These Harmful Ingredients
     Updated: 2026-02-12T02:45:15Z
@@ -270,8 +282,8 @@
 
 ## Store Pages
 
-- [Contact Real Skin Retinue | Get in Touch](https://www.realskinretinue.com/pages/contact): 
-  Updated: 2026-04-08T22:16:23Z
+- [Contact Real Skin Retinue | Get in Touch](https://www.realskinretinue.com/pages/contact): Get in TouchWe'd love to hear from you. Whether you have a question about your order, our products, or anything else — our team is here to help.📧 i...
+  Updated: 2026-04-26T02:17:12Z
 - [About Real Skin Retinue | Founder Marzia Rahmani & the Modern Skin Concept™](https://www.realskinretinue.com/pages/about): About Real Skin Retinue At Real Skin Retinue, we believe preservation is truth—which starts within you. Skin is living, dynamic, and responsive—it ...
   Updated: 2026-04-08T22:13:58Z
 - [Real Skin Retinue FAQ | Savef Skin Serum — Ingredients, How to Use & Shipping](https://www.realskinretinue.com/pages/faq): 
@@ -292,7 +304,7 @@
 - [Shipping Policy](https://www.realskinretinue.com/policies/shipping-policy)
   Updated: 2024-10-04T20:18:12-05:00
 - [Refund Policy](https://www.realskinretinue.com/policies/refund-policy)
-  Updated: 2026-01-25T21:21:05-06:00
+  Updated: 2026-04-23T21:29:03-05:00
 - [Terms of Service](https://www.realskinretinue.com/policies/terms-of-service)
   Updated: 2022-05-11T08:52:56-05:00
 - [Contact Information](https://www.realskinretinue.com/policies/contact-information)
