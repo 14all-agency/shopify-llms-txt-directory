@@ -8,12 +8,12 @@
 - Timezone: America/New_York
 - Created At: 2025-04-16T15:55:12Z
 - Contact Email: admin@hypesinventory.com
-- Updated At: 2026-04-22T17:35:56.125Z
+- Updated At: 2026-05-01T07:54:56.621Z
 
 ## Products
 
 - [Flare Yoga Pants High Waisted – Flairé™ Flared Leggings](https://hypesinventory.com/products/flare-yoga-pants-high-waisted): Shop flare yoga pants high waisted by Flairé™. Tummy control, soft stretch fabric, and pockets for comfort, style, and everyday wear.
-  Updated: 2026-04-15T23:34:22Z
+  Updated: 2026-04-30T17:39:15Z
   Vendor: Flairé™
   Product Type: Yoga Leggings
   Availability: Available
@@ -99,7 +99,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/flaire-yoga-leggings-olive-green-small-flaire-high-waisted-flare-leggings-with-pockets-tummy-control-flared-yoga-pants-35131094532349.webp?v=1775784879
     Price: $34.95 USD
 - [Flare Yoga Pants High Waisted – Flairé™ Leggings with Pockets](https://hypesinventory.com/products/flare-yoga-pants-high-waisted-flaire): Shop flare yoga pants high waisted by Flairé™. Sculpting fit, soft stretch fabric, and pockets for comfort, style, and everyday wear.
-  Updated: 2026-04-15T23:44:11Z
+  Updated: 2026-04-30T17:39:20Z
   Vendor: Flairé™
   Product Type: Flared Leggings
   Availability: Available
@@ -205,7 +205,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/flaire-flared-leggings-light-gray-s-flaire-30-high-waisted-flare-leggings-with-pockets-yoga-athleisure-pants-36483823304957.webp?v=1775785958
     Price: $34.95 USD
 - [Long Lasting Waterproof Matte Lipstick | PHOFAY Lipstick](https://hypesinventory.com/products/long-lasting-waterproof-matte-lipstick): Shop long lasting waterproof matte lipstick by PHOFAY. Smudge-proof, full-coverage formula delivers bold color with a smooth matte finish that lasts all day.
-  Updated: 2026-04-20T04:20:45Z
+  Updated: 2026-04-30T17:39:14Z
   Vendor: Hypes Inventory
   Product Type: Lipstick
   Availability: Available
@@ -247,7 +247,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-lipstick-07-matte-lipstick-phofay-long-lasting-waterproof-lipstick-35159647551741.webp?v=1775784901
     Price: $16.95 USD
 - [Pressed Powder – PHOFAY Matte Setting Powder Oil-Control Finish](https://hypesinventory.com/products/phofay-matte-setting-pressed-powder): Shop pressed powder by PHOFAY. This pressed powder controls oil, blurs pores, and sets makeup for a smooth, matte, long-lasting finish with lightweight coverage.
-  Updated: 2026-04-20T05:08:31Z
+  Updated: 2026-04-30T17:39:13Z
   Vendor: Hypes Inventory
   Product Type: Setting Powder
   Availability: Available
@@ -289,7 +289,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-setting-powder-04-pressed-powder-phofay-matte-setting-powder-35159630348541.webp?v=1775784835
     Price: $13.99 USD
 - [Loose Setting Powder – PHOFAY Soft Touch Matte Powder](https://hypesinventory.com/products/phofay-loose-setting-powder): Shop loose setting powder by PHOFAY. Lightweight, finely milled formula controls shine, blurs pores, and delivers a smooth, matte, airbrushed finish.
-  Updated: 2026-04-20T04:14:38Z
+  Updated: 2026-04-30T17:39:10Z
   Vendor: Hypes Inventory
   Product Type: Loose Powder
   Availability: Available
@@ -311,7 +311,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-loose-powder-03-1pcs-phofay-setting-soft-touch-loose-powder-35159625990397.webp?v=1775784841
     Price: $24.95 USD
 - [Lip Liner Pencil – PHOFAY Waterproof Long-Lasting Lip Liner](https://hypesinventory.com/products/phofay-lip-liner-pencil-waterproof): Shop lip liner pencil by PHOFAY. Waterproof, long-lasting formula defines, shapes, and contours lips for smooth, precise, and fade-resistant wear.
-  Updated: 2026-04-19T19:53:38Z
+  Updated: 2026-04-30T17:39:11Z
   Vendor: Hypes Inventory
   Product Type: Lip Liner
   Availability: Available
@@ -361,14 +361,14 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-lip-liner-silver-lip-liner-pencil-waterproof-long-lasting-lip-liner-by-phofay-35159684251901.webp?v=1775784918
     Price: $17.68 USD
 - [Waterproof Liquid Eyeliner – PHOFAY Smudge Proof Eyeliner Pen](https://hypesinventory.com/products/phofay-waterproof-liquid-eyeliner): Shop waterproof liquid eyeliner by PHOFAY. Smudge-proof, long-lasting eyeliner pen delivers precise, bold lines that stay all day without fading or transferring.
-  Updated: 2026-04-19T19:45:51Z
+  Updated: 2026-04-30T17:39:08Z
   Vendor: Hypes Inventory
   Product Type: Eyeliner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-eyeliner-black-waterproof-liquid-eyeliner-smudge-proof-eyeliner-pen-phofay-35159643914493.webp?v=1775784925
   Price: $17.68 USD
 - [Volumizing Mascara – PHOFAY Lengthening & Curling Mascara](https://hypesinventory.com/products/phofay-volumizing-mascara): Get bold, voluminous lashes with PHOFAY Volumizing Mascara. Curling, lengthening, and buildable formula for dramatic lash definition. 10g.
-  Updated: 2026-04-19T19:14:21Z
+  Updated: 2026-04-30T17:39:09Z
   Vendor: Hypes Inventory
   Product Type: Mascara
   Availability: Available
@@ -386,7 +386,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-mascara-set1-volumizing-mascara-phofay-lengthening-curling-mascara-35159673635069.webp?v=1775784947
     Price: $20.63 USD
 - [Eyebrow Pencil – PHOFAY Waterproof Brow Pencil with Spoolie](https://hypesinventory.com/products/phofay-eyebrow-pencil-waterproof): Shop eyebrow pencil by PHOFAY. Waterproof brow pencil with spoolie delivers precise, natural-looking, long-lasting definition for flawless
-  Updated: 2026-04-19T19:11:16Z
+  Updated: 2026-04-30T17:39:11Z
   Vendor: Hypes Inventory
   Product Type: Eyebrow Pencil
   Availability: Available
@@ -408,7 +408,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-eyebrow-pencil-02-1pcs-phofay-eyebrow-pencil-waterproof-brow-pencil-with-spoolie-for-natural-brows-35159658692861.webp?v=1775784959
     Price: $18.95 USD
 - [Tinted Eyebrow Gel – PHOFAY Waterproof Long-Lasting Brow Gel](https://hypesinventory.com/products/phofay-tinted-eyebrow-gel): Shop tinted eyebrow gel by PHOFAY. Waterproof, long-lasting brow gel defines, fills, and shapes brows with a natural, smudge-proof finish.
-  Updated: 2026-04-19T18:07:14Z
+  Updated: 2026-04-30T17:39:09Z
   Vendor: Hypes Inventory
   Product Type: Eyebrow Gel
   Availability: Available
@@ -430,7 +430,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-eyebrow-gel-02-1pcs-phofay-tinted-eyebrow-gel-35159681204477.webp?v=1775784860
     Price: $16.98 USD
 - [Liquid Blush – PHOFAY Lightweight Mousse Liquid Blush](https://hypesinventory.com/products/phofay-liquid-blush-mousse): Shop liquid blush by PHOFAY. Lightweight mousse liquid blush delivers a smooth, natural glow with long-lasting, buildable, streak-free coverage.
-  Updated: 2026-04-19T17:51:38Z
+  Updated: 2026-04-30T17:39:10Z
   Vendor: Hypes Inventory
   Product Type: Liquid Blush
   Availability: Available
@@ -464,7 +464,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-liquid-blush-pink-liquid-blush-phofay-mousse-lightweight-blush-35159685595389.webp?v=1775784972
     Price: $19.98 USD
 - [Cream and Powder Blush Duo | PHOFAY Buildable Glow](https://hypesinventory.com/products/phofay-cream-and-powder-blush-duo): Shop cream and powder blush duo by PHOFAY. Buildable cream and powder blush delivers a smooth, radiant glow with long-lasting, lightweight coverage in one compact.
-  Updated: 2026-04-19T10:24:16Z
+  Updated: 2026-04-30T17:39:15Z
   Vendor: Hypes Inventory
   Product Type: Blush Duo
   Availability: Available
@@ -490,7 +490,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-blush-duo-set-1pcs-phofay-cream-and-powder-blush-buildable-blush-duo-for-radiant-glow-35159686578429.webp?v=1775784986
     Price: $26.95 USD
 - [ShakeVolt Hero - Hypes Inventory](https://hypesinventory.com/products/electric-portable-whey-protein-shaker-bottle): - Hypes Inventory
-  Updated: 2026-04-10T01:36:48Z
+  Updated: 2026-04-30T17:39:16Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -540,7 +540,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-blue-with-powder-box-shakevolt-hero-35186790007037.webp?v=1775785007
     Price: $54.98 USD
 - [Scrunch Gym Set | V-Back Sculpting Activewear by Flairé™](https://hypesinventory.com/products/v-back-scrunch-gym-set): Scrunch gym set designed to enhance curves with a flattering V-back fit. Squat-proof, sweat-resistant activewear perfect for workouts or everyday wear.
-  Updated: 2026-04-20T04:40:17Z
+  Updated: 2026-04-30T17:39:16Z
   Vendor: Flairé™
   Product Type: 
   Availability: Available
@@ -746,7 +746,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/flaire-olive-green-xs-scrunch-gym-set-v-back-seamless-workout-set-for-women-flaire-35214350319869.webp?v=1775785026
     Price: $44.90 USD
 - [Seamless Yoga One Piece | Flairé™ Sculpting Bodysuit](https://hypesinventory.com/products/tight-sports-seamless-yoga-one-piece): Shop seamless yoga one piece by Flairé™. Sculpting V-back bodysuit with breathable stretch fabric for workouts, yoga, or everyday wear.
-  Updated: 2026-04-20T06:04:49Z
+  Updated: 2026-04-30T17:39:18Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -812,7 +812,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-black-l-tight-sports-back-v-shape-one-piece-35199336218877.webp?v=1775785031
     Price: $44.95 USD
 - [Seamless Yoga Set | Flairé™ High Waist Workout Set](https://hypesinventory.com/products/seamless-yoga-set-flaire): Shop seamless yoga set by Flairé™. Sculpting, breathable workout set with a high-waist fit designed for comfort, flexibility, and a flattering look.
-  Updated: 2026-04-20T04:34:00Z
+  Updated: 2026-04-30T17:39:13Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -1018,7 +1018,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-bra-pants-blue-gray-s-women-yoga-set-flaire-cross-high-waist-fitness-workout-set-35199447957757.webp?v=1775785054
     Price: $44.95 USD
 - [Women's Nylon Stretch Zip-Up Yoga Jacket | Fall & Winter Activewear](https://hypesinventory.com/products/womens-nylon-stretch-zip-up-yoga-jacket-for-fall-winter): Stay warm and flexible in this women's nylon stretch zip-up yoga jacket. 87% polyamide/13% spandex blend for all-season activewear. Sizes XS–XXL.
-  Updated: 2026-04-10T01:39:33Z
+  Updated: 2026-04-30T17:39:16Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -1224,7 +1224,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-navy-blue-xxl-women-s-nylon-stretch-zip-up-yoga-jacket-for-fall-winter-35235397206269.webp?v=1775785150
     Price: $36.95 USD
 - [Seamless Yoga Set Women | Flairé™ High Waist Workout Set](https://hypesinventory.com/products/seamless-yoga-set-women): Shop seamless yoga set women by Flairé™. High-waist, breathable activewear set designed for comfort, flexibility, and a flattering sculpted fit.
-  Updated: 2026-04-20T04:31:02Z
+  Updated: 2026-04-30T17:39:18Z
   Vendor: Hypes Inventory
   Product Type: Activewear Set
   Availability: Available
@@ -1410,14 +1410,14 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-activewear-set-lake-blue-m-women-yoga-set-flaire-seamless-high-waist-workout-set-35236115415293.png?v=1775785194
     Price: $32.95 USD
 - [Order Protection - Hypes Inventory](https://hypesinventory.com/products/shipping-protection): Protect your order from loss, damage, or theft during shipping. - Hypes Inventory
-  Updated: 2026-04-10T01:39:53Z
+  Updated: 2026-04-30T17:39:08Z
   Vendor: Hypes Inventory
   Product Type: Atlas - Shipping Protection
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-atlas-shipping-protection-default-title-order-protection-35135787925757.png?v=1775785192
   Price: $2.50 USD
 - [Adjustable Ankle Support Trainer - Hypes Inventory](https://hypesinventory.com/products/adjustable-ankle-support-trainer): Elevate your fitness routine with our Ankle Support Trainer with Adjustable Straps. Crafted from high-quality TPE material, this trainer is designed  - Hypes Inventory
-  Updated: 2026-04-15T18:10:49Z
+  Updated: 2026-04-30T17:39:11Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -1487,14 +1487,14 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-3color-3-tube-10-to-30-pounds-adjustable-ankle-support-trainer-35369503457533.webp?v=1775785212
     Price: $19.12 USD
 - [Adjustable Lumbar Support Belt - Hypes Inventory](https://hypesinventory.com/products/adjustable-lumbar-support-belt): Say goodbye to lower back discomfort with the Adjustable Lumbar Support Belt, a portable and easy-to-use solution for effective back care. Designed to  - Hypes Inventory
-  Updated: 2026-04-15T18:10:36Z
+  Updated: 2026-04-30T17:39:15Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-one-size-adjustable-lumbar-support-belt-35369484124413.webp?v=1775785218
   Price: $249.99 USD
 - [Ladies Full Body Shaper | Strapless Seamless Bodysuit](https://hypesinventory.com/products/ladies-full-body-shaper-strapless): Shop ladies full body shaper by Shaper™ for strapless seamless support, tummy control, and a smooth sculpted fit. Perfect under dresses.
-  Updated: 2026-04-20T06:01:37Z
+  Updated: 2026-04-30T17:39:12Z
   Vendor: Hypes Inventory
   Product Type: Strapless Bodysuit
   Availability: Available
@@ -1548,7 +1548,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-strapless-bodysuit-nude-xs-s-strapless-seamless-bodysuit-by-shaper-35698125930749.jpg?v=1775785236
     Price: $39.90 USD
 - [Ladies Full Body Shaper | Shaper™ Seamless Bodysuit](https://hypesinventory.com/products/seamless-one-piece-ladies-full-body-shaper): Shop ladies full body shaper by Shaper™ for tummy control, seamless support, and a smooth sculpted fit. Comfortable for everyday wear.
-  Updated: 2026-04-20T05:59:39Z
+  Updated: 2026-04-30T17:39:16Z
   Vendor: Hypes Inventory
   Product Type: Shapewear Bodysuit
   Availability: Available
@@ -1754,7 +1754,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-shapewear-bodysuit-nude-small-seamless-one-piece-shapewear-by-shaper-35801683165437.webp?v=1775785242
     Price: $37.99 USD
 - [One Shoulder Sports Bra | Flairé™ Ribbed Workout Bra](https://hypesinventory.com/products/one-shoulder-sports-bra): Shop one shoulder sports bra by Flairé™. Ribbed, supportive, and breathable design perfect for workouts, yoga, and everyday athleisure style.
-  Updated: 2026-04-20T04:29:37Z
+  Updated: 2026-04-30T17:39:13Z
   Vendor: Hypes Inventory
   Product Type: Sports Bra
   Availability: Available
@@ -1840,7 +1840,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-sports-bra-advanced-black-vest-s-one-shoulder-sports-bra-flaire-ribbed-workout-bra-35782961037565.webp?v=1775785258
     Price: $39.99 USD
 - [Women's Long Sleeve Activewear Top | Moisture-Wicking Yoga & Running Shirt](https://hypesinventory.com/products/long-sleeve-activewear): Shop women's long sleeve activewear tops. Breathable, moisture-wicking fabric for yoga, running, and gym workouts. Comfortable fit in sizes S–XL.
-  Updated: 2026-04-10T01:41:10Z
+  Updated: 2026-04-30T17:39:14Z
   Vendor: Hypes Inventory
   Product Type: Activewear Top
   Availability: Available
@@ -1926,7 +1926,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-activewear-top-camel-brown-s-women-s-long-sleeve-activewear-35473630331133.webp?v=1775785263
     Price: $53.95 USD
 - [Silicone Toe Separators for Bunions – Foot Pain Relief Spacers](https://hypesinventory.com/products/silicone-toe-separators-for-bunions): Relieve foot pain with silicone toe separators for bunions. Designed to align toes, reduce discomfort, and improve daily comfort. Soft, reusable, and effective.
-  Updated: 2026-04-20T16:02:54Z
+  Updated: 2026-04-30T17:39:13Z
   Vendor: Hypes Inventory
   Product Type: Foot Care
   Availability: Available
@@ -1940,7 +1940,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-foot-care-small-bunion-corrector-toe-separator-gel-spacer-for-foot-pain-relief-healarch-35871018582269.png?v=1776250757
     Price: $14.99 USD
 - [Liquid Highlighter Wand | Glow Makeup Highlighter PHOFAY](https://hypesinventory.com/products/phofay-liquid-highlighter-wand): Shop liquid highlighter wand by PHOFAY. Buildable glow formula delivers radiant shine for cheeks, face, and makeup looks with a smooth finish.
-  Updated: 2026-04-19T10:19:16Z
+  Updated: 2026-04-30T17:39:14Z
   Vendor: Hypes Inventory
   Product Type: Highlighter
   Availability: Available
@@ -1970,7 +1970,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-highlighter-01-1pcs-liquid-highlighter-wand-phofay-glow-makeup-highlighter-35533946487037.webp?v=1775785281
     Price: $19.98 USD
 - [Lip Tint | Long-Lasting Lip & Cheek Tint Formula PHOFAY](https://hypesinventory.com/products/phofay-lip-tint): Shop lip tint by PHOFAY. Long-lasting, buildable color for lips and cheeks with a lightweight, non-drying formula for a natural finish.
-  Updated: 2026-04-19T10:07:13Z
+  Updated: 2026-04-30T17:39:16Z
   Vendor: Hypes Inventory
   Product Type: Lip Tint
   Availability: Available
@@ -1992,7 +1992,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-lip-tint-01-lip-tint-phofay-long-lasting-lip-cheek-tint-35533954416893.webp?v=1775785306
     Price: $19.09 USD
 - [Hydrating Lip Gloss | Hyaluronic High Shine PHOFAY](https://hypesinventory.com/products/hydrating-lip-gloss-hyaluronic): Shop hydrating lip gloss by PHOFAY. Hyaluronic formula delivers high shine, smooth lips, and long-lasting hydration for a flawless glossy finish.
-  Updated: 2026-04-19T10:03:13Z
+  Updated: 2026-04-30T17:39:16Z
   Vendor: Hypes Inventory
   Product Type: Lip Gloss
   Availability: Available
@@ -2030,7 +2030,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-lip-gloss-01-lip-gloss-phofay-hydrating-hyaluronic-lip-gloss-35533951992061.webp?v=1775785308
     Price: $19.98 USD
 - [Hydrating Lip Gloss | Ultra-Glossy Shine Formula PHOFAY](https://hypesinventory.com/products/hydrating-lip-gloss): Shop hydrating lip gloss by PHOFAY. Ultra-glossy formula delivers high shine, smooth application, and moisturized lips for a flawless finish.
-  Updated: 2026-04-19T08:27:17Z
+  Updated: 2026-04-30T17:39:16Z
   Vendor: Hypes Inventory
   Product Type: Lip Gloss
   Availability: Available
@@ -2068,14 +2068,14 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-lip-gloss-04-1pcs-lip-gloss-phofay-ultra-glossy-hydrating-lip-gloss-35533954187517.webp?v=1775785322
     Price: $19.15 USD
 - [Hydrating Makeup Primer | Long-Lasting Grip PHOFAY](https://hypesinventory.com/products/hydrating-makeup-primer): Shop hydrating makeup primer by PHOFAY. Lightweight formula grips makeup, smooths skin, and delivers a long-lasting flawless finish all day.
-  Updated: 2026-04-19T07:32:06Z
+  Updated: 2026-04-30T17:39:10Z
   Vendor: Hypes Inventory
   Product Type: Makeup Primer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-makeup-primer-1pcs-makeup-primer-phofay-hydrating-long-lasting-primer-35534302281981.webp?v=1775785341
   Price: $17.99 USD
 - [Short Nude Yoga Long Sleeve Top - Hypes Inventory](https://hypesinventory.com/products/short-nude-yoga-long-sleeve-top): Short Nude Yoga Long Sleeve TopEffortless comfort. Elevated style. Breathe, stretch, and flow in our Short Nude Yoga Long Sleeve Top — the perfect  - Hypes Inventory
-  Updated: 2026-04-10T01:42:47Z
+  Updated: 2026-04-30T17:39:19Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -2145,7 +2145,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-black-6-short-nude-yoga-long-sleeve-top-35539325288701.webp?v=1775785366
     Price: $24.98 USD
 - [50% OFF TODAY! High-Waisted Seamless Yoga Shorts for Women](https://hypesinventory.com/products/high-waisted-seamless-yoga-shorts-for-women): Discover the perfect blend of style, comfort, and functionality with our Seamless Yoga Shorts. Designed specifically for the active woman, these  - Hypes Inventory
-  Updated: 2026-04-15T18:11:13Z
+  Updated: 2026-04-30T17:39:16Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -2283,7 +2283,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-dark-brown-s-high-waisted-seamless-yoga-shorts-for-women-35540522172669.webp?v=1775785374
     Price: $19.99 USD
 - [Seamless Butt Lifting Yoga Leggings for Women - Hypes Inventory](https://hypesinventory.com/products/seamless-butt-lifting-yoga-leggings-for-women): Elevate Your Workout Wardrobe Introducing our Fitness Yoga Pants, designed specifically for women who want to look and feel fabulous while working  - Hypes Inventory
-  Updated: 2026-04-10T01:43:49Z
+  Updated: 2026-04-30T17:39:16Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -2401,14 +2401,14 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-army-green-l-seamless-butt-lifting-yoga-leggings-for-women-35540529119485.webp?v=1775785412
     Price: $29.39 USD
 - [DerMend Moisturizing Bruise Formula Cream 4.50 oz (Pack of 2) - Hypes](https://hypesinventory.com/products/dermend-moisturizing-bruise-formula-cream-4-50-oz-pack-of-2): 💜 DerMend Moisturizing Bruise Formula Cream – 4.5 oz (Pack of 2) Restore, hydrate, and visibly improve the look of bruised and fragile skin. ✨  - Hypes Inventory
-  Updated: 2026-04-15T18:10:49Z
+  Updated: 2026-04-30T17:39:15Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-unscented-4-5-ounce-pack-of-2-dermend-moisturizing-bruise-formula-cream-4-50-oz-pack-of-2-37037419233533.jpg?v=1775785961
   Price: $55.00 USD
 - [50% OFF TODAY ! Fashionable Waterproof Travel and Gym Bag](https://hypesinventory.com/products/fashionable-waterproof-travel-and-gym-bag): Discover the ultimate blend of style and functionality with our Multi-functional Travel Bag. Perfect for the gym, travel, or daily use, this bag is  - Hypes Inventory
-  Updated: 2026-04-15T18:10:50Z
+  Updated: 2026-04-30T17:39:09Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -2438,7 +2438,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-light-gray-fashionable-waterproof-travel-and-gym-bag-35608257724669.webp?v=1775785436
     Price: $65.99 USD
 - [Ribbed Yoga Pants - Hypes Inventory](https://hypesinventory.com/products/ribbed-yoga-pants): These stylish and comfortable yoga pants feature a flattering high waist design with a ribbed waistband for added support and style. The flared leg  - Hypes Inventory
-  Updated: 2026-04-15T18:11:20Z
+  Updated: 2026-04-30T17:39:12Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -2512,7 +2512,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-new-grey-s-ribbed-yoga-pants-35618704490749.webp?v=1775785450
     Price: $39.22 USD
 - [Women's Zip-Up Jacket and Drawstring Skirt Set (2 pc set) - Hypes](https://hypesinventory.com/products/zip-up-jacket-and-drawstring-skirt-set-one-set): Introducing our stunning Zip-Up Jacket + Drawstring Skirt Set, a perfect blend of style and comfort that will elevate your wardrobe. This  - Hypes Inventory
-  Updated: 2026-04-10T01:44:20Z
+  Updated: 2026-04-30T17:39:17Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -2542,7 +2542,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-deep-red-jacket-and-skirt-m-women-s-zip-up-jacket-and-drawstring-skirt-set-2-pc-set-35620484710653.webp?v=1775785457
     Price: $75.99 USD
 - [Women's Yoga Sports Bra | Crossback Shockproof Quick-Dry Support Bra](https://hypesinventory.com/products/sports-bra): Shop women's crossback yoga sports bra with shockproof support, quick-drying fabric, and adjustable straps. Breathable and comfortable for all workouts.
-  Updated: 2026-04-10T01:44:32Z
+  Updated: 2026-04-30T17:39:17Z
   Vendor: Hypes Inventory
   Product Type: Sports Bra
   Availability: Available
@@ -2612,7 +2612,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-sports-bra-light-brown-s-women-s-yoga-sports-bra-35621576999165.webp?v=1775785471
     Price: $23.90 USD
 - [TrailFlex™ Outdoor Barefoot Running Shoes | Non-Slip Breathable Multi-Terrain](https://hypesinventory.com/products/outdoor-non-slip-barefoot-running-shoes): Shop TrailFlex™ Outdoor Barefoot Running Shoes — non-slip, breathable & built for multi-terrain performance. Lightweight natural feel for trail & everyday use.
-  Updated: 2026-04-10T01:44:41Z
+  Updated: 2026-04-30T17:39:18Z
   Vendor: Hypes Inventory
   Product Type: Barefoot Shoes
   Availability: Available
@@ -2810,7 +2810,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-barefoot-shoes-white-36-trailflex-outdoor-barefoot-running-shoes-non-slip-breathable-multi-terrain-performance-35639149625597.webp?v=1775785474
     Price: $49.95 USD
 - [Zipper Yoga Jumpsuit - Hypes Inventory](https://hypesinventory.com/products/zipper-yoga-jumpsuit): Product Description:Discover the perfect blend of style and functionality with the Zipper Short Sleeve Yoga Jumpsuit for women. Designed for active  - Hypes Inventory
-  Updated: 2026-04-10T01:44:55Z
+  Updated: 2026-04-30T17:39:13Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -2880,7 +2880,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-black-small-s-zipper-yoga-jumpsuit-35659631263997.webp?v=1775785477
     Price: $71.44 USD
 - [Yoga Short Jumpsuit | Women's One-Piece Activewear Romper](https://hypesinventory.com/products/yoga-short-jumpsuit): Shop women's yoga short jumpsuit — a stylish one-piece activewear romper for yoga, gym, and casual wear. Comfortable stretch fit in sizes S–XL.
-  Updated: 2026-04-10T01:45:16Z
+  Updated: 2026-04-30T17:39:12Z
   Vendor: Hypes Inventory
   Product Type: Yoga Jumpsuit
   Availability: Available
@@ -2958,7 +2958,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-yoga-jumpsuit-black-large-yoga-short-jumpsuit-35659647025405.webp?v=1775785511
     Price: $57.21 USD
 - [Backless Yoga Jumpsuit | Women's Stylish One-Piece Activewear](https://hypesinventory.com/products/backless-yoga-jumpsuit): Turn heads at the gym with this women's backless yoga jumpsuit. High-quality cotton-nylon blend with spandex lining for stretch and support. Sizes S–L.
-  Updated: 2026-04-15T18:10:49Z
+  Updated: 2026-04-30T17:39:10Z
   Vendor: Hypes Inventory
   Product Type: Yoga Jumpsuit
   Availability: Available
@@ -3036,7 +3036,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-yoga-jumpsuit-black-s-backless-yoga-jumpsuit-35659670782205.webp?v=1775785547
     Price: $56.11 USD
 - [Women's Running & Yoga Clothes | Breathable Moisture-Wicking Activewear](https://hypesinventory.com/products/running-yoga-clothes): Shop women's running and yoga clothes with breathable, moisture-wicking fabric for outdoor sports and gym workouts. Lightweight and comfortable. Sizes XS–XL.
-  Updated: 2026-04-10T01:46:21Z
+  Updated: 2026-04-30T17:39:19Z
   Vendor: Hypes Inventory
   Product Type: Activewear Set
   Availability: Available
@@ -3106,7 +3106,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-activewear-set-orange-skirt-medium-m-running-yoga-clothes-35659651580157.webp?v=1775785562
     Price: $40.91 USD
 - [Women Yoga Shorts - Hypes Inventory](https://hypesinventory.com/products/women-yoga-shorts): Stay cool, comfortable, and stylish with our breathable three-point nylon shorts, designed for the active and fashionable woman. Made from  - Hypes Inventory
-  Updated: 2026-04-10T01:47:06Z
+  Updated: 2026-04-30T17:39:13Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -3244,7 +3244,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-wine-red-m-women-yoga-shorts-35659674943741.webp?v=1775785611
     Price: $33.38 USD
 - [Seamless Knitted Yoga Pants | High-Waist Hip-Lifting Women's Leggings](https://hypesinventory.com/products/yoga-pants): Shop seamless knitted yoga pants with a peach hip-lifting design and high-waist compression band. Sculpting, stretchy fit for yoga and gym. Sizes S–XL.
-  Updated: 2026-04-10T01:48:02Z
+  Updated: 2026-04-30T17:39:21Z
   Vendor: Hypes Inventory
   Product Type: Yoga Leggings
   Availability: Available
@@ -3442,7 +3442,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-yoga-leggings-black-l-yoga-pants-35659653873917.webp?v=1775785652
     Price: $42.52 USD
 - [Yoga Wear - Hypes Inventory](https://hypesinventory.com/products/yoga-wear): This women's tight long sleeve yoga wear offers a perfect combination of comfort, flexibility, and style. Designed for active movement, it provides a  - Hypes Inventory
-  Updated: 2026-04-10T01:48:35Z
+  Updated: 2026-04-30T17:39:13Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -3528,7 +3528,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-birch-tea-brown-only-coat-l-yoga-wear-35659663212797.webp?v=1775785711
     Price: $53.57 USD
 - [Seamless Yoga Jumpsuit - Hypes Inventory](https://hypesinventory.com/products/seamless-yoga-jumpsuit): Experience comfort and style with this women's tight-fitting, breathable yoga jumpsuit. Made from soft nylon for stretch, moisture-wicking, and a  - Hypes Inventory
-  Updated: 2026-04-10T01:49:02Z
+  Updated: 2026-04-30T17:39:14Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -3614,7 +3614,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-apricot-xl-seamless-yoga-jumpsuit-35659695194365.webp?v=1775785727
     Price: $49.71 USD
 - [Seamless Yoga Jumpsuit | Flairé™ Sculpting Activewear](https://hypesinventory.com/products/seamless-yoga-jumpsuit-flaire): Shop seamless yoga jumpsuit by Flairé™. Sculpting, stretchy one-piece activewear designed for comfort, support, and a flattering fit for workouts or everyday wear.
-  Updated: 2026-04-20T04:27:12Z
+  Updated: 2026-04-30T17:39:16Z
   Vendor: Hypes Inventory
   Product Type: Yoga Jumpsuit
   Availability: Available
@@ -3716,7 +3716,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-yoga-jumpsuit-black-small-flaire-seamless-sculpt-yoga-jumpsuit-women-s-one-piece-activewear-35659700764925.webp?v=1775785755
     Price: $44.95 USD
 - [Summer Crop Top with Built-In Bra for Women | Seamless Padded Camisole](https://hypesinventory.com/products/summer-crop-top-with-built-in-bra-for-women): Shop this summer crop top with built-in bra — seamless, padded & perfect for warm weather. Comfortable everyday wear that doubles as a workout top.
-  Updated: 2026-04-10T01:49:27Z
+  Updated: 2026-04-30T17:39:19Z
   Vendor: Hypes Inventory
   Product Type: Crop Top
   Availability: Available
@@ -3802,7 +3802,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-crop-top-black-s-summer-crop-top-with-built-in-bra-for-women-35665652613373.webp?v=1775785759
     Price: $22.90 USD
 - [Loose Hooded Net Top for Women | Sheer Mesh Cover-Up Activewear Top](https://hypesinventory.com/products/loose-hooded-net-top): Shop this loose hooded net top — sheer mesh cover-up perfect over activewear or as a beach layer. Lightweight & breathable for warm weather.
-  Updated: 2026-04-15T18:11:13Z
+  Updated: 2026-04-30T17:39:19Z
   Vendor: Hypes Inventory
   Product Type: Mesh Top
   Availability: Available
@@ -3888,7 +3888,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-mesh-top-black-xl-loose-hooded-net-top-35674143555837.webp?v=1775785788
     Price: $37.08 USD
 - [Women’s Hooded Sport Jacket | Flairé™ Lightweight Jacket](https://hypesinventory.com/products/womens-hooded-sport-jacket): Shop women’s hooded sport jacket by Flairé™. Lightweight, breathable activewear jacket perfect for workouts, running, and everyday comfort and style.
-  Updated: 2026-04-20T04:24:06Z
+  Updated: 2026-04-30T17:39:14Z
   Vendor: Hypes Inventory
   Product Type: Sport Jacket
   Availability: Available
@@ -3910,7 +3910,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-sport-jacket-black-one-size-women-s-thin-hooded-sport-jacket-by-flaire-35674867630333.webp?v=1775785803
     Price: $36.11 USD
 - [Ladies Full Body Shaper | Shaper™ Seamless Sculpting Bodysuit](https://hypesinventory.com/products/fit-flex-all-in-one-ladies-full-body-shaper): Shop ladies full body shaper by Shaper™ for tummy control, sculpting support, and a seamless fit. Perfect for workouts or everyday wear.
-  Updated: 2026-04-20T05:57:16Z
+  Updated: 2026-04-30T17:39:18Z
   Vendor: Hypes Inventory
   Product Type: Sports Shapewear
   Availability: Available
@@ -3988,7 +3988,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-sports-shapewear-skin-color-xl-all-in-one-sculpting-by-shaper-35698496372989.webp?v=1775785808
     Price: $34.90 USD
 - [Seamless Shapewear Bodysuit | Shaper™ Tummy Control](https://hypesinventory.com/products/seamless-shapewear-bodysuit-tummy-control): Shop seamless shapewear bodysuit by Shaper™ for tummy control, waist sculpting, and a smooth invisible fit. Comfortable for all-day wear.
-  Updated: 2026-04-20T05:53:59Z
+  Updated: 2026-04-30T17:39:13Z
   Vendor: Hypes Inventory
   Product Type: Shapewear Bodysuit
   Availability: Available
@@ -4194,7 +4194,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-shapewear-bodysuit-apricot-xs-seamless-confidence-shaper-35700394950909.webp?v=1775785823
     Price: $34.90 USD
 - [Ladies Full Body Shaper | Shaper™ Tummy Control Bodysuit](https://hypesinventory.com/products/ladies-full-body-shaper-curve-enhancer): Shop ladies full body shaper by Shaper™ for tummy control, waist sculpting, and seamless support. Comfortable, breathable, and invisible under clothing.
-  Updated: 2026-04-20T05:51:35Z
+  Updated: 2026-04-30T17:39:10Z
   Vendor: Shaper™
   Product Type: Full Body Shaper
   Availability: Available
@@ -4280,7 +4280,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/shaper-full-body-shaper-khaki-xs-total-body-curve-enhancer-by-shaper-35707112390909.webp?v=1775785835
     Price: $37.98 USD
 - [Plus Size Shapewear for Women | Shaper™ Tummy Control](https://hypesinventory.com/products/plus-size-shapewear-for-women): Shop plus size shapewear for women by Shaper™. Seamless tummy control, butt lifting support, and all-day comfort. Available in sizes S–6XL.
-  Updated: 2026-04-20T05:48:26Z
+  Updated: 2026-04-30T17:39:20Z
   Vendor: Hypes Inventory
   Product Type: Plus Size Shapewear
   Availability: Available
@@ -4358,7 +4358,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-plus-size-shapewear-black-small-curve-confidence-plus-size-shapewear-by-shaper-35701308915965.jpg?v=1775785841
     Price: $29.98 USD
 - [Ladies Full Body Shaper | Seamless Tummy Control Bodysuit](https://hypesinventory.com/products/ladies-full-body-shaper-bodysuit): Shop ladies full body shaper bodysuit by Shaper™ for tummy control, waist sculpting, and a seamless fit. Comfortable, supportive, and invisible under clothing.
-  Updated: 2026-04-20T05:40:34Z
+  Updated: 2026-04-30T17:39:16Z
   Vendor: Hypes Inventory
   Product Type: Shapewear Bodysuit
   Availability: Available
@@ -4428,7 +4428,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-shapewear-bodysuit-beige-small-s-women-s-tummy-control-full-body-shaper-bodysuit-by-shaper-35715251831037.webp?v=1775785860
     Price: $31.99 USD
 - [Seamless Body Shaper Bodysuit | Tummy Control Shapewear](https://hypesinventory.com/products/seamless-body-shaper-bodysuit): Shop seamless body shaper bodysuit for tummy control and sculpting. Smooth, breathable shapewear designed for a flattering, invisible fit under any outfit.
-  Updated: 2026-04-20T04:43:40Z
+  Updated: 2026-04-30T17:39:21Z
   Vendor: Shaper™
   Product Type: Shapewear Bodysuit
   Availability: Available
@@ -4506,7 +4506,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/shaper-shapewear-bodysuit-black-small-shaper-seamless-body-shaper-bodysuit-snatching-tummy-control-shapewear-35885004292349.jpg?v=1775785873
     Price: $26.99 USD
 - [Evil Eye Bracelet | Multi-Layer Beaded Protection Jewelry](https://hypesinventory.com/products/multi-layer-evil-eye-bracelet): Evil eye bracelet featuring a stylish multi-layer beaded design for protection and everyday wear. Available in black or brown for a bold, meaningful look.
-  Updated: 2026-04-15T18:11:01Z
+  Updated: 2026-04-30T17:39:12Z
   Vendor: Hypes Inventory
   Product Type: Bracelet
   Availability: Available
@@ -4520,7 +4520,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-bracelet-black-multi-layer-evil-eye-bracelet-35716527194365.webp?v=1775785893
     Price: $12.99 USD
 - [Posture Corrector Bra | Shaper™ Back Support Shaping Bra](https://hypesinventory.com/products/posture-corrector-bra): Shop posture corrector bra by Shaper™ for back, waist, and abdomen support. Comfortable shaping bra designed for better posture and all-day wear.
-  Updated: 2026-04-20T04:56:39Z
+  Updated: 2026-04-30T17:39:11Z
   Vendor: Hypes Inventory
   Product Type: Posture Corrector
   Availability: Available
@@ -4566,7 +4566,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-posture-corrector-skin-black-l-posture-corrector-bra-for-women-back-waist-abdomen-support-adjustable-comfort-shaping-bra-for-better-posture-35722123968765.webp?v=1775785904
     Price: $45.84 USD
 - [High-Waisted Crossover Flare Leggings (One Pair) - Hypes Inventory](https://hypesinventory.com/products/high-waisted-crossover-flare-leggings-one-pair): Elevate your style and comfort with our High-Waisted Crossover Flare Leggings. Perfect for both casual outings and active days, these leggings combine  - Hypes Inventory
-  Updated: 2026-04-15T18:11:11Z
+  Updated: 2026-04-30T17:39:15Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -4652,7 +4652,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-army-green-s-high-waisted-crossover-flare-leggings-one-pair-35758670610685.webp?v=1775785925
     Price: $67.67 USD
 - [Women Winter Boots - Stylish Round Toe Mid-Tube Martin Boots](https://hypesinventory.com/products/winter-solid-color-mid-tube-viscose-martin-boots-for-women): Discover women winter boots designed for warmth and style. Round toe mid-tube Martin boots with viscose lining and thick heel for ultimate comfort.
-  Updated: 2026-04-11T04:18:59Z
+  Updated: 2026-04-30T17:39:16Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -4754,7 +4754,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-grey-6-women-women-s-winter-round-toe-mid-tube-martin-boots-warm-viscose-long-boots-with-thick-heel-35858325897469.webp?v=1775785980
     Price: $59.90 USD
 - [Plush-Lined Winter Boots | Unisex Non-Slip Fur Boots](https://hypesinventory.com/products/plush-lined-winter-boots): Shop plush-lined winter boots with soft fur lining and a non-slip sole. Cozy unisex indoor and outdoor boots made for warm everyday comfort.
-  Updated: 2026-04-21T04:51:51Z
+  Updated: 2026-04-30T17:39:16Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -4820,14 +4820,14 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-white-5-5-5-women-4-4-5-men-plush-lined-winter-boots-unisex-warm-indoor-outdoor-non-slip-fur-boots-35870494851325.webp?v=1775785997
     Price: $29.99 USD
 - [Calvin Klein Metallic Plaited Evening Scarf – Lightweight & Elegant](https://hypesinventory.com/products/calvin-klein-womens-lightweight-wrap-scarf-latte-one-size): Elevate your style with the Calvin Klein Metallic Plaited Evening Scarf. Lightweight, elegant, and versatile—perfect as a wrap, headscarf, or travel accessory for any season.
-  Updated: 2026-04-15T18:10:48Z
+  Updated: 2026-04-30T17:39:15Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-latte-one-size-calvin-klein-metallic-plaited-evening-scarf-lightweight-elegant-wrap-35866429096189.webp?v=1775786005
   Price: $54.98 USD
 - [Unisex Oversized Corduroy Patchwork Jacket | Warm Retro Colorblock Coat](https://hypesinventory.com/products/oversized-corduroy-patchwork-jackets-for-women): Shop this unisex oversized corduroy patchwork jacket — warm retro colorblock design perfect for autumn & winter. A bold streetwear statement piece.
-  Updated: 2026-04-10T01:53:47Z
+  Updated: 2026-04-30T17:39:17Z
   Vendor: Hypes Inventory
   Product Type: Jacket
   Availability: Available
@@ -4929,7 +4929,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-jacket-burgundy-small-unisex-oversized-corduroy-patchwork-jacket-warm-retro-colorblock-coat-for-autumn-winter-35879516307709.webp?v=1775786020
     Price: $49.99 USD
 - [Women's Mid-Length Down Jacket | Warm, Lightweight & Stylish Winter Coat](https://hypesinventory.com/products/puffer-jacket-for-women): Shop this women's mid-length down jacket — warm, lightweight & stylish winter coat. Stay cozy without sacrificing style all season long.
-  Updated: 2026-04-10T01:54:04Z
+  Updated: 2026-04-30T17:39:12Z
   Vendor: Hypes Inventory
   Product Type: Down Jacket
   Availability: Available
@@ -4983,7 +4983,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Cilsoka-Womens-Jackets-Dressy-Casual-Petite-Coats-for-Women-Trendy-Jacket-Outerwear-Zipper-Coat-Outdoor-My-Orders-past-Orders_f659097e-bf8e-430b-b58a-5035681c68b3.43412bde89ba7121d9b8.avif?v=1775657493
     Price: $48.90 USD
 - [Women's Puffer Vest | Stylish Winter Layer for Comfort & Warmth](https://hypesinventory.com/products/puffer-vest-for-women-short-autumn-winter-style): Shop this women's puffer vest — a stylish winter layer that keeps you warm without the bulk. Perfect for layering over any outfit.
-  Updated: 2026-04-10T01:54:10Z
+  Updated: 2026-04-30T17:39:15Z
   Vendor: Hypes Inventory
   Product Type: Puffer Vest
   Availability: Available
@@ -5029,7 +5029,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-puffer-vest-beige-small-women-s-colete-puffer-vest-stylish-winter-layer-for-comfort-warmth-35883950244093.webp?v=1775786049
     Price: $39.99 USD
 - [Women Two Piece Suit | Elegant Tailored Set LÁVINE™](https://hypesinventory.com/products/women-two-piece-suit): Shop women two piece suit by LÁVINE™. Elegant warm tailored set designed for office wear, events, and everyday sophisticated style.
-  Updated: 2026-04-19T07:16:00Z
+  Updated: 2026-04-30T17:39:25Z
   Vendor: LÁVINE™
   Product Type: Pant Suit Set
   Availability: Available
@@ -5115,7 +5115,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/lavine-pant-suit-set-white-small-lavine-elegant-autumn-winter-suit-for-women-warm-tailored-two-piece-set-36019700007165.png?v=1775786065
     Price: $54.99 USD
 - [Oversized Knit Sweater Women | Cozy Chunky Pullover LÁVINE™](https://hypesinventory.com/products/oversized-knit-sweater-women): Shop oversized knit sweater women love. LÁVINE™ cozy chunky pullover designed for warmth, comfort, and effortless fall and winter style.
-  Updated: 2026-04-19T07:12:02Z
+  Updated: 2026-04-30T17:39:13Z
   Vendor: LÁVINE™
   Product Type: Oversized Knit Sweater
   Availability: Available
@@ -5217,7 +5217,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/lavine-oversized-knit-sweater-khaki-small-lavine-ultra-soft-oversized-knit-sweater-for-women-cozy-chunky-pullover-36003043508477.jpg?v=1775786086
     Price: $39.99 USD
 - [Velvet Stand Collar Sweater Women | Elegant Pullover LÁVINE™](https://hypesinventory.com/products/velvet-stand-collar-sweater-women): Shop velvet stand collar sweater women love. Elegant autumn winter pullover with soft velvet feel, designed for warmth, comfort, and everyday style.
-  Updated: 2026-04-19T07:09:26Z
+  Updated: 2026-04-30T17:39:15Z
   Vendor: Hypes Inventory
   Product Type: Sweater
   Availability: Available
@@ -5283,7 +5283,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-sweater-white-small-velvet-stand-collar-sweater-for-women-warm-elegant-autumn-winter-pullover-35902771822845.jpg?v=1775786097
     Price: $29.90 USD
 - [Cozy Fleece Loungewear Set Women | Soft Lounge Set LÁVINE™](https://hypesinventory.com/products/cozy-fleece-loungewear-set): Shop LÁVINE™ cozy fleece loungewear for women. Ultra-soft two piece set designed for warmth, comfort, and everyday style. Perfect for lounging or going out.
-  Updated: 2026-04-19T07:06:48Z
+  Updated: 2026-04-30T17:39:14Z
   Vendor: LÁVINE™
   Product Type: Fleece Lounge Set
   Availability: Available
@@ -5321,7 +5321,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/lavine-fleece-lounge-set-white-small-lavine-cozy-two-piece-fleece-set-for-women-lounge-sweater-sweatpants-35889331863805.webp?v=1775786102
     Price: $49.99 USD
 - [Vintage Cargo Pants for Women | High Waist StraightLeg Denim Trousers](https://hypesinventory.com/products/vintage-high-waist-straight-cargo-pants-for-women): Step into style with our Vintage Cargo Women’s Pants. High-waist, straight-leg denim design for comfort and elegance. Available in blue, sizes S–XL.
-  Updated: 2026-04-10T01:55:13Z
+  Updated: 2026-04-30T17:39:13Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -5343,7 +5343,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-blue-small-vintage-cargo-pants-for-women-high-waist-straight-leg-denim-trousers-35889346281725.webp?v=1775786107
     Price: $94.04 USD
 - [Deeptown Y2K Vintage Cargo Pants for Women | Oversized Streetwear](https://hypesinventory.com/products/deeptown-y2k-vintage-white-cargo-pants-for-women): Shop Deeptown Y2K Vintage Cargo Pants — oversized streetwear wide-leg trousers with a retro aesthetic. Bold Y2K fashion for women.
-  Updated: 2026-04-15T18:11:13Z
+  Updated: 2026-04-30T17:39:21Z
   Vendor: Hypes Inventory
   Product Type: Cargo Pants
   Availability: Available
@@ -5389,7 +5389,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-cargo-pants-chocolate-small-deeptown-y2k-vintage-cargo-pants-for-women-oversized-streetwear-wide-leg-trousers-35889352016125.webp?v=1775786118
     Price: $33.76 USD
 - [Loose Fit High-Waisted Hip-Hop Joggers for Women - Hypes Inventory](https://hypesinventory.com/products/loose-fit-high-waisted-hip-hop-joggers-for-women): Elevate your activewear collection with our stylish and versatile Harem Pants, designed specifically for women who love movement and comfort. Made  - Hypes Inventory
-  Updated: 2026-04-15T18:11:05Z
+  Updated: 2026-04-30T17:39:14Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -5419,7 +5419,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-grey-small-loose-fit-high-waisted-hip-hop-joggers-for-women-35891672121597.webp?v=1775786127
     Price: $28.90 USD
 - [Retro Baggy Cargo Pants | Y2K High-Waisted Streetwear with Pockets for](https://hypesinventory.com/products/retro-high-waist-baggy-cargo-denim-pants-for-women): Step up your style with Retro Baggy Cargo Pants — Y2K-inspired, comfy, and versatile with deep pockets. Perfect for vintage and streetwear lovers.
-  Updated: 2026-04-15T18:11:15Z
+  Updated: 2026-04-30T17:39:16Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -5485,7 +5485,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-blue-s-retro-baggy-cargo-pants-y2k-high-waisted-streetwear-with-pockets-for-women-35891699450109.webp?v=1775786142
     Price: $39.99 USD
 - [Wide-Leg Denim Pants | Y2K Streetwear Jeans for Men & Women – Trendy](https://hypesinventory.com/products/2023-spring-fashion-wide-leg-denim-cargo-pants): Upgrade your look with trendy wide-leg denim pants! Lightweight, comfy, and bold — perfect for casual streetwear and everyday fashion.
-  Updated: 2026-04-10T01:56:06Z
+  Updated: 2026-04-30T17:39:12Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -5515,7 +5515,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-blue-s-wide-leg-denim-pants-y2k-streetwear-jeans-for-men-women-trendy-2025-collection-35891701186813.webp?v=1775786153
     Price: $44.89 USD
 - [Women’s Christmas Sweatshirt | Long Sleeve Crew Neck Holiday Top –](https://hypesinventory.com/products/womens-long-sleeve-christmas-print-crew-neck-sweatshirt): Stay cozy and festive with our Christmas sweatshirt! Soft, stretchy, and stylish — perfect for holiday parties or relaxing winter days.
-  Updated: 2026-04-10T01:56:12Z
+  Updated: 2026-04-30T17:39:18Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -5553,7 +5553,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-deer-s-women-s-christmas-sweatshirt-long-sleeve-crew-neck-holiday-top-festive-cozy-35892024803581.webp?v=1775786171
     Price: $29.99 USD
 - [Galaxy Keychain Collection | 3D Double-Sided Planet Keychains for](https://hypesinventory.com/products/fashionable-keychain-with-glow-in-the-dark-glass-ball): Discover the Galaxy Keychain Collection — 8 stunning 3D planet designs in glass orbs. Lightweight, stylish & perfect for space lovers and gift giving.
-  Updated: 2026-04-15T18:10:51Z
+  Updated: 2026-04-30T17:39:17Z
   Vendor: Hypes Inventory
   Product Type: Keychain
   Availability: Available
@@ -5591,7 +5591,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-keychain-moon-galaxy-keychain-collection-3d-double-sided-planet-keychains-for-space-lovers-35938510766333.jpg?v=1775786183
     Price: $13.89 USD
 - [Korean Style Fleece Sweatshirt Set | Thick Warm Hoodie Outfit for](https://hypesinventory.com/products/korean-style-autumn-winter-plus-size-hoodie-set-for-women): Shop this Korean style fleece sweatshirt set — thick, warm hoodie outfit perfect for autumn & winter. Cozy matching set with a trendy aesthetic.
-  Updated: 2026-04-15T18:11:07Z
+  Updated: 2026-04-30T17:39:18Z
   Vendor: Hypes Inventory
   Product Type: Sweatshirt Set
   Availability: Available
@@ -5616,7 +5616,7 @@
     Availability: Available
     Price: $39.99 USD
 - [Glow in the Dark Planet Keychain | Solar System Space Key Ring Gift](https://hypesinventory.com/products/glow-in-the-dark-planet-keychain): Glow in the dark planet keychain with realistic solar system designs. Premium glass & alloy, glows after 10 seconds of light. Perfect space gift. 8x2cm.
-  Updated: 2026-04-15T18:11:07Z
+  Updated: 2026-04-30T17:39:17Z
   Vendor: Hypes Inventory
   Product Type: Keychain
   Availability: Available
@@ -5698,7 +5698,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-keychain-venus-glow-in-the-dark-planet-keychain-solar-system-space-key-ring-35966216044797.webp?v=1775786214
     Price: $10.99 USD
 - [Fashion Plush 3-Piece Women's Loungewear Set - Hypes Inventory](https://hypesinventory.com/products/fashion-plush-3-piece-womens-loungewear-set): 🌸 Women’s Two-Piece Vest &amp; Shorts Set – Casual Chic Matching Outfit Stay stylish  comfortable all day long with our Women’s Long-Sleeve Vest  - Hypes Inventory
-  Updated: 2026-04-15T18:10:52Z
+  Updated: 2026-04-30T17:39:15Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -5903,38 +5903,38 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/HAPIMO-Rollbacks-Women-s-Cozy-Knit-Set-3-Piece-Outfits-Fuzzy-Fleece-Warm-Hooded-Cardigan-Crop-Top-Shorts-Set-Warm-Pajamas-Loungewear-Dark-Gray-XXXL_7230576c-27d7-4198-8eda-b726ce66eab.avif?v=1775657794
     Price: $38.99 USD
-- [Delphine Black Leather Winter Boots | British Martin Style Cow Suede Boots for Women](https://hypesinventory.com/products/delphine-black-leather-winter-boots-one-pair): Stay warm and stylish this winter with Delphine Black Leather Boots. Crafted from cow suede with a sturdy sole — comfort meets timeless elegance.
-  Updated: 2026-04-15T18:10:49Z
+- [Black Leather Winter Boots for Women | Stylish & Durable](https://hypesinventory.com/products/black-leather-winter-boots): Shop black leather winter boots for women designed for comfort and style. Discover durable, warm, and trendy boots perfect for everyday wear.
+  Updated: 2026-04-30T17:39:18Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-black-single-lining-5-delphine-black-leather-winter-boots-35971335749885.webp?v=1775786235
-  - [Black single lining / 5](https://hypesinventory.com/products/delphine-black-leather-winter-boots-one-pair?variant=46785521942781)
+  - [Black single lining / 5](https://hypesinventory.com/products/black-leather-winter-boots?variant=46785521942781)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-black-single-lining-5-delphine-black-leather-winter-boots-35971335749885.webp?v=1775786235
     Price: $69.90 USD
-  - [Black single lining / 5.5](https://hypesinventory.com/products/delphine-black-leather-winter-boots-one-pair?variant=46785521975549)
+  - [Black single lining / 5.5](https://hypesinventory.com/products/black-leather-winter-boots?variant=46785521975549)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-black-single-lining-5-delphine-black-leather-winter-boots-35971335749885.webp?v=1775786235
     Price: $69.90 USD
-  - [Black single lining / 6](https://hypesinventory.com/products/delphine-black-leather-winter-boots-one-pair?variant=46785522008317)
+  - [Black single lining / 6](https://hypesinventory.com/products/black-leather-winter-boots?variant=46785522008317)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-black-single-lining-5-delphine-black-leather-winter-boots-35971335749885.webp?v=1775786235
     Price: $69.90 USD
-  - [Black single lining / 6.5](https://hypesinventory.com/products/delphine-black-leather-winter-boots-one-pair?variant=46785522041085)
+  - [Black single lining / 6.5](https://hypesinventory.com/products/black-leather-winter-boots?variant=46785522041085)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-black-single-lining-5-delphine-black-leather-winter-boots-35971335749885.webp?v=1775786235
     Price: $69.90 USD
-  - [Black single lining / 7](https://hypesinventory.com/products/delphine-black-leather-winter-boots-one-pair?variant=46785522073853)
+  - [Black single lining / 7](https://hypesinventory.com/products/black-leather-winter-boots?variant=46785522073853)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-black-single-lining-5-delphine-black-leather-winter-boots-35971335749885.webp?v=1775786235
     Price: $69.90 USD
-  - [Black single lining / 7.5](https://hypesinventory.com/products/delphine-black-leather-winter-boots-one-pair?variant=46785522106621)
+  - [Black single lining / 7.5](https://hypesinventory.com/products/black-leather-winter-boots?variant=46785522106621)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-black-single-lining-5-delphine-black-leather-winter-boots-35971335749885.webp?v=1775786235
     Price: $69.90 USD
 - [Ribbed Knit Lounge Set | Cozy 2-Piece Women’s Outfit](https://hypesinventory.com/products/lavine-ribbed-knit-lounge-set-women): Ribbed knit lounge set for women featuring a cozy 2-piece sweater and pants combo. Soft, stylish, and perfect for relaxing, errands, or everyday wear.
-  Updated: 2026-04-22T16:55:34Z
+  Updated: 2026-04-30T17:39:23Z
   Vendor: LÁVINE™
   Product Type: 
   Availability: Available
@@ -6060,7 +6060,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/lavine-apricot-xs-ribbed-lounge-set-lavine-cozy-knit-two-piece-outfit-36135358169341.png?v=1775786263
     Price: $49.99 USD
 - [Hooded Loungewear Set for Women | 2 Piece Cozy Outfit](https://hypesinventory.com/products/hooded-loungewear-set-women): Stay cozy in this hooded loungewear set for women. Soft, stylish, and perfect for lounging, travel, or everyday wear. Shop now for comfort and style.
-  Updated: 2026-04-20T16:16:15Z
+  Updated: 2026-04-30T17:39:20Z
   Vendor: LÁVINE™
   Product Type: 
   Availability: Available
@@ -6146,14 +6146,14 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/lavine-khaki-s-lavine-women-s-hooded-two-piece-lounge-set-36017363288317.webp?v=1775786270
     Price: $36.99 USD
 - [Wavytalk Power Wave Crimper | Perfect Beach Waves in Minutes](https://hypesinventory.com/products/wavytalk-power-wave-hair-crimper-curling-wand-for-beach-waves-with-ionic-technology-dual-voltage-lightweight-design-reducing-frizz-damage-perfect-for-travel): Shop the Wavytalk Power Wave Crimper — create perfect beach waves in minutes. Easy-to-use hair crimper for effortless textured styles at home.
-  Updated: 2026-04-10T01:58:21Z
+  Updated: 2026-04-30T17:39:11Z
   Vendor: Hypes Inventory
   Product Type: Hair Styling Tool
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-hair-styling-tool-pink-wavytalk-power-wave-crimper-perfect-beach-waves-in-minutes-36252161573117.jpg?v=1775786277
   Price: $139.99 USD
 - [NFC Keychain | Tap to Share Reviews & Social Media](https://hypesinventory.com/products/nfc-keychain): NFC keychain that lets customers tap to open your Google reviews, social media, or website instantly. Easy to use, waterproof, and perfect for business growth.
-  Updated: 2026-04-15T01:49:08Z
+  Updated: 2026-04-30T17:39:17Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -6183,7 +6183,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-facebook-nfc-keychain-instantly-share-social-media-contact-info-with-one-tap-36480219021565.png?v=1775786310
     Price: $14.99 USD
 - [Insulated Lunch & Laptop Bag | Stylish 2-in-1 Work & Travel Tote](https://hypesinventory.com/products/insulated-lunch-laptop-bag): Upgrade your daily carry with this insulated lunch & laptop bag. Stylish 2-in-1 tote keeps food fresh while protecting your laptop — perfect for work, school & travel.
-  Updated: 2026-04-15T18:11:05Z
+  Updated: 2026-04-30T17:39:14Z
   Vendor: Hypes Inventory
   Product Type: Laptop Tote Bag
   Availability: Available
@@ -6217,7 +6217,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-laptop-tote-bag-black-one-size-fits-everything-insulated-lunch-laptop-bag-stylish-2-in-1-work-travel-tote-36341682340093.png?v=1775786333
     Price: $74.99 USD
 - [Oversized Loungewear Set LÁVINE™ – Cozy Matching Outfit](https://hypesinventory.com/products/lavine-oversized-loungewear-set): Shop the LÁVINE™ oversized loungewear set with a cozy cardigan and wide-leg pants. Relaxed fit, stylish comfort, and perfect for everyday wear.
-  Updated: 2026-04-19T05:06:19Z
+  Updated: 2026-04-30T17:39:17Z
   Vendor: LÁVINE™
   Product Type: Women’s Two-Piece Sets
   Availability: Available
@@ -6343,7 +6343,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/lavine-women-s-two-piece-sets-light-grey-s-us4-6-lavine-slouchy-luxe-two-piece-set-36385425457405.jpg?v=1775786358
     Price: $54.99 USD
 - [women’s oversized knit sweater | Cozy Slouchy Pullover LÁVINE™](https://hypesinventory.com/products/lavine-womens-oversized-knit-sweater): Shop the LÁVINE™ women’s oversized knit sweater for a cozy, relaxed fit. A luxe slouchy pullover designed for effortless everyday style and comfort.
-  Updated: 2026-04-19T04:59:51Z
+  Updated: 2026-04-30T17:39:20Z
   Vendor: Hypes Inventory
   Product Type: Pullover Sweater
   Availability: Available
@@ -6413,7 +6413,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-pullover-sweater-beige-s-cozy-luxe-slouchy-pullover-36409079038205.webp?v=1775786385
     Price: $74.07 USD
 - [All-Match Knitted Coat for Women | Versatile Open-Front Cardigan](https://hypesinventory.com/products/all-match-knitted-coat): Shop this all-match knitted coat — a versatile open-front cardigan that pairs with everything. Cozy, stylish & perfect for layering year-round.
-  Updated: 2026-04-10T02:00:07Z
+  Updated: 2026-04-30T17:39:22Z
   Vendor: Hypes Inventory
   Product Type: Knit Cardigan
   Availability: Available
@@ -6499,7 +6499,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-knit-cardigan-gray-s-women-knitted-cardigan-coat-soft-loose-fit-knit-sweater-jacket-36441014960381.webp?v=1775786394
     Price: $74.95 USD
 - [Stripe Lounge Set Women | Flaire™ Two Piece Outfit](https://hypesinventory.com/products/stripe-lounge-set-women): Shop stripe lounge set women by Flaire™. Stylish two piece outfit with square neck top and wide leg pants, designed for comfort and everyday wear.
-  Updated: 2026-04-11T04:10:46Z
+  Updated: 2026-04-30T17:39:18Z
   Vendor: Hypes Inventory
   Product Type: Co-Ord Set
   Availability: Available
@@ -6645,7 +6645,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-co-ord-set-red-s-us4-6-lavine-stripe-lounge-set-women-square-neck-two-piece-outfit-36461361266941.jpg?v=1775786418
     Price: $49.95 USD
 - [Cherry Purse Charm Keychain for Handbags | Cute Cherry Charm](https://hypesinventory.com/products/cherry-purse-charm): Add a cute cherry purse charm to your handbag or purse. Durable, stylish cherry keychain with secure clip—perfect gift for women and girls. Shop now.
-  Updated: 2026-04-11T01:21:48Z
+  Updated: 2026-04-30T17:39:20Z
   Vendor: Hypes Inventory
   Product Type: Bag Charm
   Availability: Available
@@ -6759,7 +6759,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-bag-charm-cherry-charm-red-cherry-bag-charm-keychain-for-handbags-cute-cherry-purse-charm-strawberry-keychain-gift-for-women-36645286281469.png?v=1775786446
     Price: $14.95 USD
 - [Coach Laurel Small Shoulder Bag | Pebble Leather Purse](https://hypesinventory.com/products/coach-laurel-small-shoulder-bag): Shop coach laurel small shoulder bag in pebble leather. Compact crossbody purse with zip closure, detachable strap, and elegant everyday design.
-  Updated: 2026-04-11T04:06:42Z
+  Updated: 2026-04-30T17:39:13Z
   Vendor: Hypes Inventory
   Product Type: Shoulder Bag
   Availability: Available
@@ -6777,14 +6777,14 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-shoulder-bag-one-size-gold-chalk-coach-outlet-laurel-small-shoulder-bag-36553575792893.jpg?v=1775786503
     Price: $261.65 USD
 - [Apple Keychain Bag Charm | Cute Handbag Accessory for women](https://hypesinventory.com/products/apple-keychain-bag-charm): Shop the apple keychain bag charm for handbags. Cute, stylish accessory that adds a playful touch to your bag or keys for everyday use.
-  Updated: 2026-04-20T16:01:56Z
+  Updated: 2026-04-30T17:39:11Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-default-title-apple-keychain-bag-charm-for-handbags-cute-aesthetic-purse-charm-accessory-for-women-36593704861949.jpg?v=1775813181
   Price: $18.95 USD
 - [1000 Savings Challenge Binder | Cash Envelope Budget Planner](https://hypesinventory.com/products/1000-savings-challenge-binder-with-cash-envelopes-money-saving-planner): Shop the 1000 Savings Challenge Binder — includes cash envelopes & money saving planner to help you reach your savings goals faster.
-  Updated: 2026-04-21T04:29:32Z
+  Updated: 2026-04-30T17:39:27Z
   Vendor: Hypes Inventory
   Product Type: Savings Planner
   Availability: Available
@@ -6814,7 +6814,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-savings-planner-blue-1000-1000-savings-challenge-binder-with-cash-envelopes-money-saving-planner-36667547582717.jpg?v=1775786538
     Price: $16.95 USD
 - [Cherry Faux Fur Bag Charm & Keychain | 4 Colors | Ships from New York](https://hypesinventory.com/products/cherry-fur-key-chain-bag-charm): Cute cherry faux fur bag charm and keychain. 4 color options, 6" total length. Woman-owned business, ships from New York in 1–2 business days.
-  Updated: 2026-04-10T02:03:12Z
+  Updated: 2026-04-30T17:39:18Z
   Vendor: Curated By Suarez
   Product Type: Bag Charm
   Availability: Available
@@ -6832,21 +6832,21 @@
     Availability: Available
     Price: $14.00 USD
 - [Pickleball Cherry Bag Charm | Sporty Purse Charm with Paddle & Cherry](https://hypesinventory.com/products/pickleball-cherry-bag-charm-sweet-sporty-accessory-with-paddle-and-cherry-charms): Shop the Pickleball Cherry Bag Charm — bright cherry charm with mini pickleball paddle. Gold plated, approx. 3" x 1". Perfect gift for pickleball lovers.
-  Updated: 2026-04-14T14:27:10Z
+  Updated: 2026-04-30T17:39:18Z
   Vendor: Ellisonyoung.com
   Product Type: Bag Charm
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/ellisonyoung-com-bag-charm-default-title-pickleball-cherry-bag-charm-sweet-sporty-accessory-with-paddle-and-cherry-charms-36774518915325.jpg?v=1775786589
   Price: $31.25 USD
 - [Deluxe Cherry Charm - Tumbler Handle Charm for Unique Style](https://hypesinventory.com/products/deluxe-cherry-charm-tumbler-handle-charm): Discover the Deluxe Cherry Charm - Tumbler Handle Charm, a stylish accessory to personalize your drinkware and backpacks with flair!
-  Updated: 2026-04-18T21:39:30Z
+  Updated: 2026-04-30T17:39:14Z
   Vendor: Etch and Ember
   Product Type: Charm
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/etch-and-ember-charm-default-title-deluxe-cherry-charm-tumbler-handle-charm-36774519341309.jpg?v=1775786598
   Price: $9.00 USD
 - [Cherry Bag Charm | Venus-Inspired Purse Charm | 2 Colors & 3 Styles](https://hypesinventory.com/products/cherry-bag-charm): Shop the Cherry Bag Charm — inspired by Venus, goddess of love. Available in 2 colors and 3 styles. Ships from New York in 1–2 business days.
-  Updated: 2026-04-10T02:04:01Z
+  Updated: 2026-04-30T17:39:19Z
   Vendor: Curated By Suarez
   Product Type: Bag Charm
   Availability: Available
@@ -6864,14 +6864,14 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/curated-by-suarez-bag-charm-1-satin-finish-red-cherry-cherry-bag-charm-36774524322045.jpg?v=1775786616
     Price: $16.00 USD
 - [Bags & Shoes Keychain Charm | Cute Metal Purse & Planner Charm](https://hypesinventory.com/products/bags-and-shoes-keychain-charm): Shop the Bags & Shoes metal keychain charm — 3.5" length, perfect as a purse charm, planner charm, or car keychain. Super cute everyday accessory.
-  Updated: 2026-04-10T02:03:49Z
+  Updated: 2026-04-30T17:39:14Z
   Vendor: The Fabulous Planner
   Product Type: Keychain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/the-fabulous-planner-keychain-default-title-bag-and-shoe-keychain-charm-36778345267453.jpg?v=1775786619
   Price: $12.50 USD
 - [The Ultimate Goal Planner | Undated Weekly & Daily Planner | Goal](https://hypesinventory.com/products/the-ultimate-goal-planner-undated-weekly-daily-planner-goal-setting-planner): Turn  dreams into a done  with our Goal Planner. Designed for go-getters, dream chasers, and planner lovers, this chic and powerful planner is  - Hypes Inventory
-  Updated: 2026-04-21T06:48:46Z
+  Updated: 2026-04-30T17:39:18Z
   Vendor: The Fabulous Planner
   Product Type: 
   Availability: Available
@@ -6889,7 +6889,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/the-fabulous-planner-pink-the-ultimate-goal-planner-undated-weekly-daily-planner-goal-setting-planner-36778345988349.png?v=1775786639
     Price: $23.99 USD
 - [2026 Planner Weekly Monthly – A5 Discbound Planner Journal - Hypes](https://hypesinventory.com/products/2026-weekly-and-monthly-discbound-planner-laminated-cover): Stay organized all year with this 2026 weekly &amp;  planner designed for productivity, flexibility, and creativity. This 2026 weekly &amp;  - Hypes Inventory
-  Updated: 2026-04-10T02:05:21Z
+  Updated: 2026-04-30T17:39:10Z
   Vendor: The Fabulous Planner
   Product Type: 
   Availability: Available
@@ -6911,14 +6911,14 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/the-fabulous-planner-pink-undated-2026-planner-weekly-monthly-a5-discbound-planner-journal-36778346840317.jpg?v=1775786702
     Price: $39.99 USD
 - [Pearl & Bead Bag Charm | 18K Gold Plated Handbag Accessory](https://hypesinventory.com/products/pearl-and-bead-bag-charm): Elevate your handbag with this pearl and bead bag charm. 18K gold plated hardware, lead & nickel free, approx. 14" long. Elegant gift for women.
-  Updated: 2026-04-20T15:43:56Z
+  Updated: 2026-04-30T17:39:11Z
   Vendor: Ellisonyoung.com
   Product Type: Bag Charm
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/ellisonyoung-com-bag-charm-default-title-pearl-and-bead-bag-charm-36778347135229.jpg?v=1775786711
   Price: $18.75 USD
 - [Couple Heart Keychain Set | Matching Love Keyrings Gift](https://hypesinventory.com/products/couple-heart-keychain): Couple heart keychain set for couples. Matching love keyrings perfect for anniversaries, Valentine's Day, or gifts. Cute, durable, and meaningful.
-  Updated: 2026-04-21T22:47:20Z
+  Updated: 2026-04-30T17:39:20Z
   Vendor: Hypes Inventory
   Product Type: Keychain
   Availability: Available
@@ -6932,7 +6932,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-keychain-heart-1-romantic-couple-heart-keychain-set-matching-love-keyrings-for-boyfriend-girlfriend-anniversary-gift-36778451337469.jpg?v=1775786736
     Price: $14.95 USD
 - [Women’s Printed Sweatshirt | Casual Long Sleeve Top](https://hypesinventory.com/products/womens-printed-sweatshirt): Shop this women’s printed sweatshirt for the perfect mix of comfort and style. A casual long sleeve top designed for everyday wear and effortless outfits.
-  Updated: 2026-04-18T18:19:02Z
+  Updated: 2026-04-30T17:39:22Z
   Vendor: Hypes Inventory
   Product Type: Sweatshirt
   Availability: Available
@@ -6998,7 +6998,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-sweatshirt-white-l-women-s-fashionable-casual-printed-long-sleeved-sweatshirt-36779707793661.webp?v=1775786802
     Price: $54.20 USD
 - [Levitating UFO Lamp | Magnetic Suspension Star Light Home Decor Gift](https://hypesinventory.com/products/levitating-ufo-lamp-magnetic-suspension-ufo-star-light-creative-gift-decoration-home-decor): Shop the Levitating UFO Lamp — magnetic suspension UFO star light for creative home decor. A unique gift for space lovers.
-  Updated: 2026-04-22T02:40:33Z
+  Updated: 2026-04-30T17:39:18Z
   Vendor: Hypes Inventory
   Product Type: LED Lamp
   Availability: Available
@@ -7020,7 +7020,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-led-lamp-starry-sky-bottom-au-levitating-ufo-lamp-magnetic-floating-galaxy-light-36784033956093.jpg?v=1775786801
     Price: $89.95 USD
 - [Canvas Backpack | Vintage Cotton School Bag with Pockets](https://hypesinventory.com/products/canvas-backpack): Shop this canvas backpack made from durable cotton with multiple pockets and padded straps. Perfect for school, travel, and everyday use.
-  Updated: 2026-04-19T04:48:49Z
+  Updated: 2026-04-30T17:39:16Z
   Vendor: Hypes Inventory
   Product Type: Backpack
   Availability: Available
@@ -7038,7 +7038,7 @@
     Availability: Available
     Price: $189.95 USD
 - [Cotton Comfort Palazzo Pants for Women | Wide Leg Lounge Trousers](https://hypesinventory.com/products/cotton-comfort-pallazzoz-pants): Shop these cotton comfort palazzo pants — wide leg lounge trousers in soft cotton for all-day comfort. Relaxed fit perfect for home or casual outings.
-  Updated: 2026-04-15T18:10:48Z
+  Updated: 2026-04-30T17:39:14Z
   Vendor: Hypes Inventory
   Product Type: Palazzo Pants
   Availability: Available
@@ -7068,14 +7068,14 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-palazzo-pants-garden-green-6-cotton-comfort-pallazzoz-pants-36784505291005.webp?v=1775786826
     Price: $149.95 USD
 - [Openable Book Locket Necklace gift for Daughter or Son](https://hypesinventory.com/products/openable-book-locket-necklace-for-son-or-daughter-graduation-gift-stainless-steel-pendant-for-kids-teens): Openable book locket necklace for daughter or son. A meaningful graduation gift made from stainless steel. Perfect keepsake jewelry for special moments.
-  Updated: 2026-04-20T20:07:04Z
+  Updated: 2026-04-30T17:39:16Z
   Vendor: Hypes Inventory
   Product Type: Necklace
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/To_my_daughter_-_heartfelt_locket_gift.png?v=1776055459
+  Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/To_my_daughter_-_heartfelt_locket_gift.png?v=1777341599
   - [Gold  Star Daughter / Cannot Customized](https://hypesinventory.com/products/openable-book-locket-necklace-for-son-or-daughter-graduation-gift-stainless-steel-pendant-for-kids-teens?variant=47249214701821)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/To_my_daughter_-_heartfelt_locket_gift.png?v=1776055459
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/To_my_daughter_-_heartfelt_locket_gift.png?v=1777341599
     Price: $24.95 USD
   - [Silver Star Daughter / Cannot Customized](https://hypesinventory.com/products/openable-book-locket-necklace-for-son-or-daughter-graduation-gift-stainless-steel-pendant-for-kids-teens?variant=47249214734589)
     Availability: Available
@@ -7206,14 +7206,14 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-necklace-gold-star-daughter-cannot-customized-openable-book-locket-necklace-graduation-gift-for-daughter-son-loved-ones-36789080752381.jpg?v=1776244972
     Price: $24.95 USD
 - [Punk Waist Chain Charm – Silver Bag Charm Keychain](https://hypesinventory.com/products/punk-waist-chain-charm): Punk waist chain charm in silver design. Trendy bag charm keychain for purses, handbags, and accessories. Stylish statement accessory for women.
-  Updated: 2026-04-13T21:09:00Z
+  Updated: 2026-04-30T17:39:11Z
   Vendor: Hypes Inventory
   Product Type: Waist Chain Belt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-waist-chain-belt-silver-one-size-fits-all-women-s-punk-cross-waist-chain-belt-adjustable-silver-body-chain-for-dresses-jeans-festival-outfits-trendy-gothic-charm-jewelry-gift-36790491807997.jpg?v=1775786916
   Price: $24.95 USD
 - [Beaded Chain Bracelet Set for Women | Heart Alloy Electroplated Jewelry](https://hypesinventory.com/products/beaded-chain-bracelet-set-for-women): Shop this women's beaded chain bracelet set — alloy construction, heart shape design, electroplating finish. 20mm height, 100mm length. Elegant gift.
-  Updated: 2026-04-15T18:10:49Z
+  Updated: 2026-04-30T17:39:21Z
   Vendor: Hypes Inventory
   Product Type: Bracelet
   Availability: Available
@@ -7259,7 +7259,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-bracelet-10593-beaded-chain-bracelet-set-for-women-36790500851965.webp?v=1775786942
     Price: $18.65 USD
 - [Fashion Texture Chain Ring for Women | Trendy Statement Ring](https://hypesinventory.com/products/fashion-texture-chain-ring-for-women): Shop this fashion texture chain ring for women — a trendy statement ring with a unique chain-link design. Elevate any outfit with this bold accessory.
-  Updated: 2026-04-15T18:10:48Z
+  Updated: 2026-04-30T17:39:27Z
   Vendor: Hypes Inventory
   Product Type: Ring
   Availability: Available
@@ -7273,21 +7273,21 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-ring-18k-gold-opening-no-14-fashion-texture-chain-ring-for-women-36790500884733.webp?v=1775786943
     Price: $39.95 USD
 - [Perspirex Strong Antiperspirant – 20mL Roll On Sweat Control](https://hypesinventory.com/products/perspirex-strong-antiperspirant-20ml): Perspirex strong antiperspirant roll on 20mL for excessive sweating. Long-lasting sweat and odor control for hyperhidrosis with powerful protection.
-  Updated: 2026-04-15T18:11:09Z
+  Updated: 2026-04-30T17:39:14Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-n-a-perspirex-strong-antiperspirant-roll-on-20ml-36798595531005.jpg?v=1775786953
   Price: $49.90 USD
 - [Perspirex Original Antiperspirant 20ml | 3–5 Day Protection](https://hypesinventory.com/products/perspirex-original-antiperspirant-20ml): Shop Perspirex Original Antiperspirant 20ml for powerful 3–5 day sweat protection. Clinically proven formula for excessive sweating and all-day confidence.
-  Updated: 2026-04-19T04:40:12Z
+  Updated: 2026-04-30T17:39:21Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-default-title-perspirex-original-antiperspirant-roll-on-20ml-0-67oz-long-lasting-3-5-day-sweat-protection-36798856593661.png?v=1775786957
   Price: $18.95 USD
 - [Women’s House Slippers | Cozy Memory Foam Indoor Slippers](https://hypesinventory.com/products/womens-house-slippers): Shop women’s house slippers designed for comfort and warmth. Cozy memory foam indoor slippers perfect for relaxing at home every day.
-  Updated: 2026-04-19T04:45:10Z
+  Updated: 2026-04-30T17:39:21Z
   Vendor: Bread
   Product Type: Slippers
   Availability: Available
@@ -7341,14 +7341,14 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/bread-slippers-honey-wheat-w-6-m-4-women-s-ashton-slipper-36801616183549.png?v=1775786976
     Price: $59.99 USD
 - [Strawberry Tumbler with Straw | Cute Insulated Drink Cup](https://hypesinventory.com/products/strawberry-tumbler-with-straw): Shop strawberry tumbler with straw. Cute insulated drink cup with reusable straw, spill-resistant lid, and stylish design for everyday use.
-  Updated: 2026-04-11T03:50:46Z
+  Updated: 2026-04-30T17:39:14Z
   Vendor: Etch and Ember
   Product Type: Tumbler Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/etch-and-ember-tumbler-bundle-default-title-strawberry-days-tumbler-bundle-36801700626685.jpg?v=1775787001
   Price: $100.00 USD
 - [5-Toe Forefoot Pads for High Heels | Ball of Foot Pain Relief](https://hypesinventory.com/products/5-toe-forefoot-pads-ball-of-foot-cushion): Soft 5-toe forefoot pads designed for high heels. Reduce ball-of-foot pain, absorb shock, prevent sliding, and add comfort. Available in 4, 6, or 8 pcs.
-  Updated: 2026-04-10T02:10:40Z
+  Updated: 2026-04-30T17:39:14Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -7418,7 +7418,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-4pcs-4mm-black-forefoot-pads-for-high-heels-5-toe-cushion-insoles-36886651404541.jpg?v=1775787031
     Price: $18.95 USD
 - [Shoe Heel Pads – Anti Slip Cushion Inserts for Shoes](https://hypesinventory.com/products/shoe-heel-pads): Shoe heel pads designed to stop slipping and reduce heel pain. Anti-slip cushion inserts for better shoe fit, comfort, and blister prevention.
-  Updated: 2026-04-13T19:23:24Z
+  Updated: 2026-04-30T17:39:18Z
   Vendor: Hypes Inventory
   Product Type: Shoe Insoles
   Availability: Available
@@ -7480,7 +7480,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-shoe-insoles-beige-5mm-1pairs-shoe-heel-pads-for-shoes-anti-slip-cushion-inserts-36886750167293.jpg?v=1775787065
     Price: $18.95 USD
 - [Heel Pads for Loose Shoes | Heel Cups for Comfort Support](https://hypesinventory.com/products/heel-pads-for-loose-shoes): Shop heel pads for loose shoes with anti-slip grip and cushioning. Designed for comfort, heel support, and improved shoe fit for everyday wear.
-  Updated: 2026-04-11T03:39:38Z
+  Updated: 2026-04-30T17:39:17Z
   Vendor: Hypes Inventory
   Product Type: Shoe Insoles
   Availability: Available
@@ -7510,37 +7510,37 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-shoe-insoles-7mm-beige-shoe-heel-pads-anti-slip-heel-grips-for-loose-shoes-comfort-36887173071101.jpg?v=1775787083
     Price: $16.95 USD
 - [Flairé™ High Waist Flare Jeans | Retro Bell Bottom Denim for Women](https://hypesinventory.com/products/flaire™-high-waist-flare-jeans-retro-bell-bottom-denim-pants-for-women-vintage-70s-slim-fit): Shop Flairé™ High Waist Flare Jeans — retro bell bottom denim with vintage 70s slim fit. Flattering high waist silhouette for women.
-  Updated: 2026-04-22T06:56:21Z
+  Updated: 2026-05-01T03:50:15Z
   Vendor: Flairé™
   Product Type: Flare Jeans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/flaire-flare-jeans-brown-m-flaire-high-waist-flare-jeans-women-retro-bell-bottom-fit-36890523762941.jpg?v=1775787085
   - [Brown / M](https://hypesinventory.com/products/flaire™-high-waist-flare-jeans-retro-bell-bottom-denim-pants-for-women-vintage-70s-slim-fit?variant=47275543920893)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/flaire-flare-jeans-brown-m-flaire-high-waist-flare-jeans-women-retro-bell-bottom-fit-36890523762941.jpg?v=1775787085
     Price: $34.95 USD
   - [Black / L](https://hypesinventory.com/products/flaire™-high-waist-flare-jeans-retro-bell-bottom-denim-pants-for-women-vintage-70s-slim-fit?variant=47275543953661)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/flaire-flare-jeans-brown-m-flaire-high-waist-flare-jeans-women-retro-bell-bottom-fit-36890523795709.jpg?v=1775787085
     Price: $34.95 USD
   - [Black / M](https://hypesinventory.com/products/flaire™-high-waist-flare-jeans-retro-bell-bottom-denim-pants-for-women-vintage-70s-slim-fit?variant=47275543986429)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/flaire-flare-jeans-brown-m-flaire-high-waist-flare-jeans-women-retro-bell-bottom-fit-36890523795709.jpg?v=1775787085
     Price: $34.95 USD
   - [Black / S](https://hypesinventory.com/products/flaire™-high-waist-flare-jeans-retro-bell-bottom-denim-pants-for-women-vintage-70s-slim-fit?variant=47275544019197)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/flaire-flare-jeans-brown-m-flaire-high-waist-flare-jeans-women-retro-bell-bottom-fit-36890523795709.jpg?v=1775787085
     Price: $34.95 USD
   - [Brown / L](https://hypesinventory.com/products/flaire™-high-waist-flare-jeans-retro-bell-bottom-denim-pants-for-women-vintage-70s-slim-fit?variant=47275544051965)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/flaire-flare-jeans-brown-m-flaire-high-waist-flare-jeans-women-retro-bell-bottom-fit-36890523762941.jpg?v=1775787085
     Price: $34.95 USD
   - [Brown / S](https://hypesinventory.com/products/flaire™-high-waist-flare-jeans-retro-bell-bottom-denim-pants-for-women-vintage-70s-slim-fit?variant=47275544084733)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/flaire-flare-jeans-brown-m-flaire-high-waist-flare-jeans-women-retro-bell-bottom-fit-36890523762941.jpg?v=1775787085
     Price: $34.95 USD
   - [Color / L](https://hypesinventory.com/products/flaire™-high-waist-flare-jeans-retro-bell-bottom-denim-pants-for-women-vintage-70s-slim-fit?variant=47275544117501)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/flaire-flare-jeans-brown-m-flaire-high-waist-flare-jeans-women-retro-bell-bottom-fit-36890523926781.jpg?v=1775787093
     Price: $34.95 USD
   - [Color / M](https://hypesinventory.com/products/flaire™-high-waist-flare-jeans-retro-bell-bottom-denim-pants-for-women-vintage-70s-slim-fit?variant=47275544150269)
@@ -7596,7 +7596,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/flaire-flare-jeans-brown-m-flaire-high-waist-flare-jeans-women-retro-bell-bottom-fit-36890523762941.jpg?v=1775787085
     Price: $34.95 USD
 - [Flairé™ High Waist Flare Leggings | Women's Flared Yoga Pants](https://hypesinventory.com/products/flaire™-high-waist-flare-leggings-women-s-flared-yoga-pants-for-gym-workout-lounge): Shop Flairé™ High Waist Flare Leggings — breathable, stretchy flared yoga pants for gym, workout, and lounge. Flattering high-waist fit. Sizes S–XL.
-  Updated: 2026-04-21T13:43:47Z
+  Updated: 2026-04-30T17:39:19Z
   Vendor: Flairé™
   Product Type: Yoga Leggings
   Availability: Available
@@ -7710,7 +7710,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/flaire-yoga-leggings-small-black-flaire-high-waist-flare-leggings-women-s-flared-yoga-pants-for-gym-workout-lounge-36890532544765.jpg?v=1775787129
     Price: $59.95 USD
 - [Stacked Jeans Women | High Waist Stretch Denim Pants – Flairé™](https://hypesinventory.com/products/products-stacked-jeans-women): Shop stacked jeans women love. Flairé™ high waist stretch denim offers a flattering fit, bell bottom style, and all-day comfort. Perfect for streetwear or casual outfits.
-  Updated: 2026-04-20T22:38:18Z
+  Updated: 2026-04-30T17:39:24Z
   Vendor: Flairé™
   Product Type: Straight Leg Jeans
   Availability: Available
@@ -7728,21 +7728,21 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/flaire-straight-leg-jeans-blue-s-flaire-high-waist-straight-leg-jeans-women-s-classic-blue-denim-pants-36890535559421.jpg?v=1775787129
     Price: $34.95 USD
 - [Y2K Denim Overalls Women | Loose Fit Zip Front Jumpsuit](https://hypesinventory.com/products/flaire™-y2k-zip-front-denim-overalls-loose-fit-pocket-jumpsuit-for-women): Shop y2k denim overalls women love. Loose fit zip front jumpsuit with pockets, durable denim, and trendy streetwear style for everyday wear.
-  Updated: 2026-04-22T17:30:09Z
+  Updated: 2026-04-30T17:39:19Z
   Vendor: Flairé™
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/flaire-black-l-flaire-y2k-zip-front-denim-overalls-loose-fit-pocket-jumpsuit-for-women-36890595459325.jpg?v=1775787140
   - [Black / L](https://hypesinventory.com/products/flaire™-y2k-zip-front-denim-overalls-loose-fit-pocket-jumpsuit-for-women?variant=47275566039293)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/flaire-black-l-flaire-y2k-zip-front-denim-overalls-loose-fit-pocket-jumpsuit-for-women-36890595459325.jpg?v=1775787140
     Price: $49.99 USD
   - [Black / S](https://hypesinventory.com/products/flaire™-y2k-zip-front-denim-overalls-loose-fit-pocket-jumpsuit-for-women?variant=47275566072061)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/flaire-black-l-flaire-y2k-zip-front-denim-overalls-loose-fit-pocket-jumpsuit-for-women-36890595459325.jpg?v=1775787140
     Price: $49.99 USD
   - [Black / M](https://hypesinventory.com/products/flaire™-y2k-zip-front-denim-overalls-loose-fit-pocket-jumpsuit-for-women?variant=47275566104829)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/flaire-black-l-flaire-y2k-zip-front-denim-overalls-loose-fit-pocket-jumpsuit-for-women-36890595459325.jpg?v=1775787140
     Price: $49.99 USD
   - [Blue / S](https://hypesinventory.com/products/flaire™-y2k-zip-front-denim-overalls-loose-fit-pocket-jumpsuit-for-women?variant=47275566137597)
@@ -7797,34 +7797,34 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/flaire-black-l-flaire-y2k-zip-front-denim-overalls-loose-fit-pocket-jumpsuit-for-women-36890595590397.jpg?v=1775787152
     Price: $49.99 USD
-- [Flairé™ Butterfly Print Distressed Jeans | High Waist Ripped Straight Leg Denim](https://hypesinventory.com/products/flaire™-butterfly-print-distressed-jeans-high-waist-ripped-straight-leg-denim): Shop Flairé™ Butterfly Print Distressed Jeans — high waist ripped straight leg denim with butterfly print detail. Bold streetwear style for women.
-  Updated: 2026-04-10T02:13:08Z
+- [High Waist Distressed Jeans | Flairé™ Butterfly Denim](https://hypesinventory.com/products/high-waist-distressed-jeans): Shop high waist distressed jeans from Flairé™ featuring butterfly print detail and a flattering fit. Stylish denim perfect for everyday outfits.
+  Updated: 2026-05-01T00:13:40Z
   Vendor: Flairé™
   Product Type: Distressed Jeans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/flaire-distressed-jeans-blue-l-flaire-butterfly-print-high-waist-jeans-distressed-straight-leg-denim-36890667548925.jpg?v=1775787176
-  - [Blue / L](https://hypesinventory.com/products/flaire™-butterfly-print-distressed-jeans-high-waist-ripped-straight-leg-denim?variant=47275580686589)
+  - [Blue / L](https://hypesinventory.com/products/high-waist-distressed-jeans?variant=47275580686589)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/flaire-distressed-jeans-blue-l-flaire-butterfly-print-high-waist-jeans-distressed-straight-leg-denim-36890667548925.jpg?v=1775787176
     Price: $39.99 USD
-  - [Blue / S](https://hypesinventory.com/products/flaire™-butterfly-print-distressed-jeans-high-waist-ripped-straight-leg-denim?variant=47275580719357)
+  - [Blue / S](https://hypesinventory.com/products/high-waist-distressed-jeans?variant=47275580719357)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/flaire-distressed-jeans-blue-l-flaire-butterfly-print-high-waist-jeans-distressed-straight-leg-denim-36890667548925.jpg?v=1775787176
     Price: $39.99 USD
-  - [Blue / M](https://hypesinventory.com/products/flaire™-butterfly-print-distressed-jeans-high-waist-ripped-straight-leg-denim?variant=47275580752125)
+  - [Blue / M](https://hypesinventory.com/products/high-waist-distressed-jeans?variant=47275580752125)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/flaire-distressed-jeans-blue-l-flaire-butterfly-print-high-waist-jeans-distressed-straight-leg-denim-36890667548925.jpg?v=1775787176
     Price: $39.99 USD
-  - [Blue / Xl](https://hypesinventory.com/products/flaire™-butterfly-print-distressed-jeans-high-waist-ripped-straight-leg-denim?variant=47275580784893)
+  - [Blue / Xl](https://hypesinventory.com/products/high-waist-distressed-jeans?variant=47275580784893)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/flaire-distressed-jeans-blue-l-flaire-butterfly-print-high-waist-jeans-distressed-straight-leg-denim-36890667548925.jpg?v=1775787176
     Price: $39.99 USD
-  - [Blue / 2Xl](https://hypesinventory.com/products/flaire™-butterfly-print-distressed-jeans-high-waist-ripped-straight-leg-denim?variant=47275580817661)
+  - [Blue / 2Xl](https://hypesinventory.com/products/high-waist-distressed-jeans?variant=47275580817661)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/flaire-distressed-jeans-blue-l-flaire-butterfly-print-high-waist-jeans-distressed-straight-leg-denim-36890667548925.jpg?v=1775787176
     Price: $39.99 USD
 - [High Waist Ripped Jeans Women | Distressed Raw Hem Denim](https://hypesinventory.com/products/flaire™-high-waist-ripped-jeans-women): Shop high waist ripped jeans women love. Distressed raw hem denim with flattering fit, durable fabric, and trendy streetwear style for everyday wear.
-  Updated: 2026-04-21T05:59:14Z
+  Updated: 2026-04-30T17:39:16Z
   Vendor: Flairé™
   Product Type: Distressed Jeans
   Availability: Available
@@ -7842,7 +7842,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/flaire-distressed-jeans-blue-s-flaire-distressed-raw-hem-jeans-high-waist-ripped-denim-for-women-36890668368125.jpg?v=1775787187
     Price: $27.95 USD
 - [High Waist Wide Leg Pants Women | Relaxed Fit Trousers](https://hypesinventory.com/products/flaire™-high-waist-wide-leg-pants-women): Shop high waist wide leg pants women love. Relaxed fit minimalist trousers with breathable fabric, flattering design, and everyday comfort.
-  Updated: 2026-04-22T05:51:38Z
+  Updated: 2026-04-30T17:39:29Z
   Vendor: Flairé™
   Product Type: Wide Leg Pants
   Availability: Available
@@ -7928,7 +7928,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/flaire-wide-leg-pants-dark-gray-m-flaire-high-waist-wide-leg-pants-relaxed-fit-minimalist-trousers-for-women-36890669613309.jpg?v=1775787216
     Price: $27.95 USD
 - [UV Protection Crop Hoodie – Women's Lightweight Hoodie Flairé™](https://hypesinventory.com/products/uv-protection-crop-hoodie): UV protection crop hoodie designed for lightweight comfort and sun protection. Stylish zip-up hoodie perfect for workouts, travel, and everyday wear.
-  Updated: 2026-04-13T20:39:52Z
+  Updated: 2026-04-30T17:39:30Z
   Vendor: Fitglutes Activewear Gymwear Sportswear & Workout Clothes
   Product Type: Activewear Hoodie
   Availability: Available
@@ -8014,7 +8014,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-hoodie-flint-s-the-svelte-uv-protection-crop-hoodie-36891289649405.jpg?v=1775787274
     Price: $36.00 USD
 - [UV Protection Workout Set – Hoodie & Sweatpants Flairé™](https://hypesinventory.com/products/uv-protection-workout-set): UV protection workout set with crop hoodie and sweatpants. Lightweight, breathable, and perfect for outdoor workouts, lounging, and everyday wear.
-  Updated: 2026-04-13T20:24:43Z
+  Updated: 2026-04-30T17:39:24Z
   Vendor: Fitglutes Activewear Gymwear Sportswear & Workout Clothes
   Product Type: Activewear Set
   Availability: Available
@@ -8100,7 +8100,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-set-flint-s-the-svelte-uv-protection-crop-hoodie-sweatpants-2-piece-set-36891292074237.jpg?v=1775787397
     Price: $65.00 USD
 - [The Elle Form Crop Zip Jacket | Women's Cotton Terry Activewear](https://hypesinventory.com/products/the-elle-form-crop-zip-jacket): Shop The Elle Form Crop Zip Jacket — a cropped zip-up in 83% cotton/17% polyester terry fabric. Stylish and comfortable for gym, lounge, and everyday wear. Sizes S–XL.
-  Updated: 2026-04-10T02:20:06Z
+  Updated: 2026-04-30T17:39:19Z
   Vendor: Fitglutes Activewear Gymwear Sportswear & Workout Clothes
   Product Type: Activewear Jacket
   Availability: Available
@@ -8169,94 +8169,94 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-jacket-woodland-s-the-elle-form-crop-zip-jacket-36891295252733.jpg?v=1775787516
     Price: $60.00 USD
-- [The Venus Leggings | Women's Sculpting High-Rise Recycled Nylon Leggings](https://hypesinventory.com/products/the-venus-leggings): Shop The Venus Leggings — sculpting seam design with a high-rise waistband. Made from 78% recycled nylon/22% spandex for a flattering, flexible fit. Sizes S–XL.
-  Updated: 2026-04-10T02:22:22Z
+- [High Waisted Leggings | Sculpting Flairé™ Workout Leggings](https://hypesinventory.com/products/high-waisted-leggings-flaire-1): Shop high waisted leggings from Flairé™ designed to sculpt and support. Discover breathable, stylish leggings perfect for workouts and everyday wear.
+  Updated: 2026-04-30T17:39:15Z
   Vendor: Fitglutes Activewear Gymwear Sportswear & Workout Clothes
   Product Type: Yoga Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-yoga-leggings-bistre-s-the-venus-leggings-36891296923901.jpg?v=1775787587
-  - [Bistre / S](https://hypesinventory.com/products/the-venus-leggings?variant=47275719786749)
+  - [Bistre / S](https://hypesinventory.com/products/high-waisted-leggings-flaire-1?variant=47275719786749)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-yoga-leggings-bistre-s-the-venus-leggings-36891296923901.jpg?v=1775787587
     Price: $26.00 USD
-  - [Bistre / M](https://hypesinventory.com/products/the-venus-leggings?variant=47275719819517)
+  - [Bistre / M](https://hypesinventory.com/products/high-waisted-leggings-flaire-1?variant=47275719819517)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-yoga-leggings-bistre-s-the-venus-leggings-36891296923901.jpg?v=1775787587
     Price: $26.00 USD
-  - [Bistre / L](https://hypesinventory.com/products/the-venus-leggings?variant=47275719852285)
+  - [Bistre / L](https://hypesinventory.com/products/high-waisted-leggings-flaire-1?variant=47275719852285)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-yoga-leggings-bistre-s-the-venus-leggings-36891296923901.jpg?v=1775787587
     Price: $26.00 USD
-  - [Bistre / XL](https://hypesinventory.com/products/the-venus-leggings?variant=47275719885053)
+  - [Bistre / XL](https://hypesinventory.com/products/high-waisted-leggings-flaire-1?variant=47275719885053)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-yoga-leggings-bistre-s-the-venus-leggings-36891296923901.jpg?v=1775787587
     Price: $26.00 USD
-  - [Black / S](https://hypesinventory.com/products/the-venus-leggings?variant=47275719917821)
+  - [Black / S](https://hypesinventory.com/products/high-waisted-leggings-flaire-1?variant=47275719917821)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-yoga-leggings-bistre-s-the-venus-leggings-36891299217661.jpg?v=1775787689
     Price: $26.00 USD
-  - [Black / M](https://hypesinventory.com/products/the-venus-leggings?variant=47275719950589)
+  - [Black / M](https://hypesinventory.com/products/high-waisted-leggings-flaire-1?variant=47275719950589)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-yoga-leggings-bistre-s-the-venus-leggings-36891299217661.jpg?v=1775787689
     Price: $26.00 USD
-  - [Black / L](https://hypesinventory.com/products/the-venus-leggings?variant=47275719983357)
+  - [Black / L](https://hypesinventory.com/products/high-waisted-leggings-flaire-1?variant=47275719983357)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-yoga-leggings-bistre-s-the-venus-leggings-36891299217661.jpg?v=1775787689
     Price: $26.00 USD
-  - [Black / XL](https://hypesinventory.com/products/the-venus-leggings?variant=47275720016125)
+  - [Black / XL](https://hypesinventory.com/products/high-waisted-leggings-flaire-1?variant=47275720016125)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-yoga-leggings-bistre-s-the-venus-leggings-36891299217661.jpg?v=1775787689
     Price: $26.00 USD
-  - [Shuttle Grey / S](https://hypesinventory.com/products/the-venus-leggings?variant=47275720048893)
+  - [Shuttle Grey / S](https://hypesinventory.com/products/high-waisted-leggings-flaire-1?variant=47275720048893)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-yoga-leggings-bistre-s-the-venus-leggings-36891298169085.jpg?v=1775787633
     Price: $26.00 USD
-  - [Shuttle Grey / M](https://hypesinventory.com/products/the-venus-leggings?variant=47275720081661)
+  - [Shuttle Grey / M](https://hypesinventory.com/products/high-waisted-leggings-flaire-1?variant=47275720081661)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-yoga-leggings-bistre-s-the-venus-leggings-36891298169085.jpg?v=1775787633
     Price: $26.00 USD
-  - [Shuttle Grey / L](https://hypesinventory.com/products/the-venus-leggings?variant=47275720114429)
+  - [Shuttle Grey / L](https://hypesinventory.com/products/high-waisted-leggings-flaire-1?variant=47275720114429)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-yoga-leggings-bistre-s-the-venus-leggings-36891298169085.jpg?v=1775787633
     Price: $26.00 USD
-  - [Shuttle Grey / XL](https://hypesinventory.com/products/the-venus-leggings?variant=47275720147197)
+  - [Shuttle Grey / XL](https://hypesinventory.com/products/high-waisted-leggings-flaire-1?variant=47275720147197)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-yoga-leggings-bistre-s-the-venus-leggings-36891298169085.jpg?v=1775787633
     Price: $26.00 USD
-  - [Almond / S](https://hypesinventory.com/products/the-venus-leggings?variant=47275720179965)
+  - [Almond / S](https://hypesinventory.com/products/high-waisted-leggings-flaire-1?variant=47275720179965)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-yoga-leggings-bistre-s-the-venus-leggings-36891298627837.jpg?v=1775787660
     Price: $26.00 USD
-  - [Almond / M](https://hypesinventory.com/products/the-venus-leggings?variant=47275720212733)
+  - [Almond / M](https://hypesinventory.com/products/high-waisted-leggings-flaire-1?variant=47275720212733)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-yoga-leggings-bistre-s-the-venus-leggings-36891298627837.jpg?v=1775787660
     Price: $26.00 USD
-  - [Almond / L](https://hypesinventory.com/products/the-venus-leggings?variant=47275720245501)
+  - [Almond / L](https://hypesinventory.com/products/high-waisted-leggings-flaire-1?variant=47275720245501)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-yoga-leggings-bistre-s-the-venus-leggings-36891298627837.jpg?v=1775787660
     Price: $26.00 USD
-  - [Almond / XL](https://hypesinventory.com/products/the-venus-leggings?variant=47275720278269)
+  - [Almond / XL](https://hypesinventory.com/products/high-waisted-leggings-flaire-1?variant=47275720278269)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-yoga-leggings-bistre-s-the-venus-leggings-36891298627837.jpg?v=1775787660
     Price: $26.00 USD
-  - [Cobalt / S](https://hypesinventory.com/products/the-venus-leggings?variant=47275720311037)
+  - [Cobalt / S](https://hypesinventory.com/products/high-waisted-leggings-flaire-1?variant=47275720311037)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-yoga-leggings-bistre-s-the-venus-leggings-36891297448189.jpg?v=1775787604
     Price: $26.00 USD
-  - [Cobalt / M](https://hypesinventory.com/products/the-venus-leggings?variant=47275720343805)
+  - [Cobalt / M](https://hypesinventory.com/products/high-waisted-leggings-flaire-1?variant=47275720343805)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-yoga-leggings-bistre-s-the-venus-leggings-36891297448189.jpg?v=1775787604
     Price: $26.00 USD
-  - [Cobalt / L](https://hypesinventory.com/products/the-venus-leggings?variant=47275720376573)
+  - [Cobalt / L](https://hypesinventory.com/products/high-waisted-leggings-flaire-1?variant=47275720376573)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-yoga-leggings-bistre-s-the-venus-leggings-36891297448189.jpg?v=1775787604
     Price: $26.00 USD
-  - [Cobalt / XL](https://hypesinventory.com/products/the-venus-leggings?variant=47275720409341)
+  - [Cobalt / XL](https://hypesinventory.com/products/high-waisted-leggings-flaire-1?variant=47275720409341)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-yoga-leggings-bistre-s-the-venus-leggings-36891297448189.jpg?v=1775787604
     Price: $26.00 USD
 - [The Venus Zip Top | Women's Full-Zip Activewear Top with Thumbholes](https://hypesinventory.com/products/the-venus-zip-top): Shop The Venus Zip Top — full-length zip with thumbholes and contoured seams. 78% recycled nylon/22% spandex for a sculpting, flexible fit. Sizes S–XL.
-  Updated: 2026-04-20T07:36:36Z
+  Updated: 2026-04-30T17:39:20Z
   Vendor: Fitglutes Activewear Gymwear Sportswear & Workout Clothes
   Product Type: Activewear Top
   Availability: Available
@@ -8341,110 +8341,110 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-top-bistre-s-the-venus-zip-top-36891300266237.jpg?v=1775787765
     Price: $31.00 USD
-- [The Venus Zip Jacket | Women's Recycled Nylon Activewear Jacket with Pockets](https://hypesinventory.com/products/the-venus-zip-jacket): Shop The Venus Zip Jacket — full-length zip with side pockets. Made from 90% recycled nylon/10% spandex for a sleek, flexible fit. Sizes S–XL.
-  Updated: 2026-04-10T02:26:42Z
+- [Zip Jacket for Women | Stylish Flairé™ Activewear Jacket](https://hypesinventory.com/products/zip-jacket-for-women-flaire): Shop zip jacket for women from Flairé™ designed for comfort and style. Discover flattering, breathable activewear perfect for everyday wear.
+  Updated: 2026-04-30T17:39:24Z
   Vendor: Fitglutes Activewear Gymwear Sportswear & Workout Clothes
   Product Type: Activewear Jacket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-jacket-bistre-s-the-venus-zip-jacket-36891302101245.jpg?v=1775787876
-  - [Bistre / S](https://hypesinventory.com/products/the-venus-zip-jacket?variant=47275720442109)
+  - [Bistre / S](https://hypesinventory.com/products/zip-jacket-for-women-flaire?variant=47275720442109)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-jacket-bistre-s-the-venus-zip-jacket-36891302101245.jpg?v=1775787876
     Price: $45.00 USD
-  - [Bistre / M](https://hypesinventory.com/products/the-venus-zip-jacket?variant=47275720474877)
+  - [Bistre / M](https://hypesinventory.com/products/zip-jacket-for-women-flaire?variant=47275720474877)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-jacket-bistre-s-the-venus-zip-jacket-36891302101245.jpg?v=1775787876
     Price: $45.00 USD
-  - [Bistre / L](https://hypesinventory.com/products/the-venus-zip-jacket?variant=47275720507645)
+  - [Bistre / L](https://hypesinventory.com/products/zip-jacket-for-women-flaire?variant=47275720507645)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-jacket-bistre-s-the-venus-zip-jacket-36891302101245.jpg?v=1775787876
     Price: $45.00 USD
-  - [Bistre / XL](https://hypesinventory.com/products/the-venus-zip-jacket?variant=47275720540413)
+  - [Bistre / XL](https://hypesinventory.com/products/zip-jacket-for-women-flaire?variant=47275720540413)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-jacket-bistre-s-the-venus-zip-jacket-36891302101245.jpg?v=1775787876
     Price: $45.00 USD
-  - [Black / S](https://hypesinventory.com/products/the-venus-zip-jacket?variant=47275720573181)
+  - [Black / S](https://hypesinventory.com/products/zip-jacket-for-women-flaire?variant=47275720573181)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-jacket-bistre-s-the-venus-zip-jacket-36891304132861.jpg?v=1775787981
     Price: $45.00 USD
-  - [Black / M](https://hypesinventory.com/products/the-venus-zip-jacket?variant=47275720605949)
+  - [Black / M](https://hypesinventory.com/products/zip-jacket-for-women-flaire?variant=47275720605949)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-jacket-bistre-s-the-venus-zip-jacket-36891304132861.jpg?v=1775787981
     Price: $45.00 USD
-  - [Black / L](https://hypesinventory.com/products/the-venus-zip-jacket?variant=47275720638717)
+  - [Black / L](https://hypesinventory.com/products/zip-jacket-for-women-flaire?variant=47275720638717)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-jacket-bistre-s-the-venus-zip-jacket-36891304132861.jpg?v=1775787981
     Price: $45.00 USD
-  - [Black / XL](https://hypesinventory.com/products/the-venus-zip-jacket?variant=47275720671485)
+  - [Black / XL](https://hypesinventory.com/products/zip-jacket-for-women-flaire?variant=47275720671485)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-jacket-bistre-s-the-venus-zip-jacket-36891304132861.jpg?v=1775787981
     Price: $45.00 USD
-  - [Almond / S](https://hypesinventory.com/products/the-venus-zip-jacket?variant=47275720704253)
+  - [Almond / S](https://hypesinventory.com/products/zip-jacket-for-women-flaire?variant=47275720704253)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-jacket-bistre-s-the-venus-zip-jacket-36891302953213.jpg?v=1775787921
     Price: $45.00 USD
-  - [Almond / M](https://hypesinventory.com/products/the-venus-zip-jacket?variant=47275720737021)
+  - [Almond / M](https://hypesinventory.com/products/zip-jacket-for-women-flaire?variant=47275720737021)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-jacket-bistre-s-the-venus-zip-jacket-36891302953213.jpg?v=1775787921
     Price: $45.00 USD
-  - [Almond / L](https://hypesinventory.com/products/the-venus-zip-jacket?variant=47275720769789)
+  - [Almond / L](https://hypesinventory.com/products/zip-jacket-for-women-flaire?variant=47275720769789)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-jacket-bistre-s-the-venus-zip-jacket-36891302953213.jpg?v=1775787921
     Price: $45.00 USD
-  - [Almond / XL](https://hypesinventory.com/products/the-venus-zip-jacket?variant=47275720802557)
+  - [Almond / XL](https://hypesinventory.com/products/zip-jacket-for-women-flaire?variant=47275720802557)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-jacket-bistre-s-the-venus-zip-jacket-36891302953213.jpg?v=1775787921
     Price: $45.00 USD
-  - [Cobalt / S](https://hypesinventory.com/products/the-venus-zip-jacket?variant=47275720835325)
+  - [Cobalt / S](https://hypesinventory.com/products/zip-jacket-for-women-flaire?variant=47275720835325)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-jacket-bistre-s-the-venus-zip-jacket-36891302559997.jpg?v=1775787904
     Price: $45.00 USD
-  - [Cobalt / M](https://hypesinventory.com/products/the-venus-zip-jacket?variant=47275720868093)
+  - [Cobalt / M](https://hypesinventory.com/products/zip-jacket-for-women-flaire?variant=47275720868093)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-jacket-bistre-s-the-venus-zip-jacket-36891302559997.jpg?v=1775787904
     Price: $45.00 USD
-  - [Cobalt / L](https://hypesinventory.com/products/the-venus-zip-jacket?variant=47275720900861)
+  - [Cobalt / L](https://hypesinventory.com/products/zip-jacket-for-women-flaire?variant=47275720900861)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-jacket-bistre-s-the-venus-zip-jacket-36891302559997.jpg?v=1775787904
     Price: $45.00 USD
-  - [Cobalt / XL](https://hypesinventory.com/products/the-venus-zip-jacket?variant=47275720933629)
+  - [Cobalt / XL](https://hypesinventory.com/products/zip-jacket-for-women-flaire?variant=47275720933629)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-jacket-bistre-s-the-venus-zip-jacket-36891302559997.jpg?v=1775787904
     Price: $45.00 USD
-  - [Shuttle Grey / S](https://hypesinventory.com/products/the-venus-zip-jacket?variant=47275720966397)
+  - [Shuttle Grey / S](https://hypesinventory.com/products/zip-jacket-for-women-flaire?variant=47275720966397)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-jacket-bistre-s-the-venus-zip-jacket-36891303346429.jpg?v=1775787942
     Price: $45.00 USD
-  - [Shuttle Grey / M](https://hypesinventory.com/products/the-venus-zip-jacket?variant=47275720999165)
+  - [Shuttle Grey / M](https://hypesinventory.com/products/zip-jacket-for-women-flaire?variant=47275720999165)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-jacket-bistre-s-the-venus-zip-jacket-36891303346429.jpg?v=1775787942
     Price: $45.00 USD
-  - [Shuttle Grey / L](https://hypesinventory.com/products/the-venus-zip-jacket?variant=47275721031933)
+  - [Shuttle Grey / L](https://hypesinventory.com/products/zip-jacket-for-women-flaire?variant=47275721031933)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-jacket-bistre-s-the-venus-zip-jacket-36891303346429.jpg?v=1775787942
     Price: $45.00 USD
-  - [Shuttle Grey / XL](https://hypesinventory.com/products/the-venus-zip-jacket?variant=47275721064701)
+  - [Shuttle Grey / XL](https://hypesinventory.com/products/zip-jacket-for-women-flaire?variant=47275721064701)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-jacket-bistre-s-the-venus-zip-jacket-36891303346429.jpg?v=1775787942
     Price: $45.00 USD
-  - [Red Berry / S](https://hypesinventory.com/products/the-venus-zip-jacket?variant=47275721097469)
+  - [Red Berry / S](https://hypesinventory.com/products/zip-jacket-for-women-flaire?variant=47275721097469)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-jacket-bistre-s-the-venus-zip-jacket-36891303739645.jpg?v=1775787964
     Price: $45.00 USD
-  - [Red Berry / M](https://hypesinventory.com/products/the-venus-zip-jacket?variant=47275721130237)
+  - [Red Berry / M](https://hypesinventory.com/products/zip-jacket-for-women-flaire?variant=47275721130237)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-jacket-bistre-s-the-venus-zip-jacket-36891303739645.jpg?v=1775787964
     Price: $45.00 USD
-  - [Red Berry / L](https://hypesinventory.com/products/the-venus-zip-jacket?variant=47275721163005)
+  - [Red Berry / L](https://hypesinventory.com/products/zip-jacket-for-women-flaire?variant=47275721163005)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-jacket-bistre-s-the-venus-zip-jacket-36891303739645.jpg?v=1775787964
     Price: $45.00 USD
-  - [Red Berry / XL](https://hypesinventory.com/products/the-venus-zip-jacket?variant=47275721195773)
+  - [Red Berry / XL](https://hypesinventory.com/products/zip-jacket-for-women-flaire?variant=47275721195773)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-jacket-bistre-s-the-venus-zip-jacket-36891303739645.jpg?v=1775787964
     Price: $45.00 USD
 - [Sports Bra Leggings Set – Women's Activewear Flairé™](https://hypesinventory.com/products/sports-bra-leggings-set): Sports bra leggings set designed for comfort and style. Includes racerback sports bra and high-waisted leggings. Perfect for gym, yoga, and everyday wear.
-  Updated: 2026-04-13T20:21:52Z
+  Updated: 2026-04-30T17:39:26Z
   Vendor: Fitglutes Activewear Gymwear Sportswear & Workout Clothes
   Product Type: Activewear Set
   Availability: Available
@@ -8530,7 +8530,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-set-bistre-s-the-venus-sports-bra-leggings-2-piece-set-36891304984829.jpg?v=1775788022
     Price: $43.00 USD
 - [3 Piece Gym Set Womens – Zip Top & Leggings Flairé™](https://hypesinventory.com/products/3-piece-gym-set-womens): 3 piece gym set womens with zip top, sports bra, and leggings. Sculpting, stretchy activewear set perfect for workouts, gym, and everyday wear.
-  Updated: 2026-04-20T07:38:36Z
+  Updated: 2026-04-30T17:39:31Z
   Vendor: Fitglutes Activewear Gymwear Sportswear & Workout Clothes
   Product Type: Activewear Set
   Availability: Available
@@ -8616,7 +8616,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-set-bistre-s-the-venus-zip-top-sports-bra-leggings-3-piece-set-36891310096637.jpg?v=1775788158
     Price: $69.00 USD
 - [The Venus Zip Top & Leggings 2-Piece Set | Women's Activewear](https://hypesinventory.com/products/the-venus-zip-top-leggings-2-piece-set): Shop The Venus Zip Top & Leggings 2-Piece Set. Brushed 78% recycled nylon/22% spandex fabric for a soft, sculpting workout look. Sizes S–XL.
-  Updated: 2026-04-20T07:37:37Z
+  Updated: 2026-04-30T17:39:15Z
   Vendor: Fitglutes Activewear Gymwear Sportswear & Workout Clothes
   Product Type: Activewear Set
   Availability: Available
@@ -8702,7 +8702,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-activewear-set-bistre-s-the-venus-zip-top-leggings-2-piece-set-36891313307901.jpg?v=1775788456
     Price: $50.00 USD
 - [The Venus Sports Bra | Women's Racerback Bra with Removable Pads](https://hypesinventory.com/products/the-venus-sports-bra): Shop The Venus Sports Bra — racerback design with removable pads and wide underband. 78% recycled nylon/22% spandex for all-day support. Sizes S–XL.
-  Updated: 2026-04-10T02:37:24Z
+  Updated: 2026-04-30T17:39:20Z
   Vendor: Fitglutes Activewear Gymwear Sportswear & Workout Clothes
   Product Type: Sports Bra
   Availability: Available
@@ -8787,8 +8787,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fitglutes-activewear-gymwear-sportswear-workout-clothes-sports-bra-bistre-s-the-venus-sports-bra-36891316257021.jpg?v=1775788580
     Price: $24.00 USD
-- [Ribbed Built In Bra Tank Top | LÁVINE™ Seamless Racerback](https://hypesinventory.com/products/lavine™-built-in-bra-tank-top-ribbed-racerback-padded-seamless-camisole-1): Ribbed built in bra tank top with seamless racerback design. Soft, stretchy, and supportive for everyday wear, workouts, or layering.
-  Updated: 2026-04-16T09:33:06Z
+- [Built In Bra Tank Top | LÁVINE™ Seamless Racerback](https://hypesinventory.com/products/lavine™-built-in-bra-tank-top-ribbed-racerback-padded-seamless-camisole-1): Ribbed built in bra tank top with seamless racerback design. Soft, stretchy, and supportive for everyday wear, workouts, or layering.
+  Updated: 2026-04-30T17:39:15Z
   Vendor: LÁVINE™
   Product Type: Tank Top
   Availability: Available
@@ -8894,7 +8894,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/lavine-tank-top-khaki-s-lavine-ribbed-built-in-bra-tank-top-seamless-padded-camisole-36946616844541.webp?v=1775758246
     Price: $19.99 USD
 - [Cherry Bag Charm Keychain | Cute Purse Charm Accessory](https://hypesinventory.com/products/cherry-bag-charm-keychain): Shop cherry bag charm keychains for purses and handbags. Cute, trendy accessory for women that adds a stylish touch to any bag.
-  Updated: 2026-04-18T17:56:43Z
+  Updated: 2026-04-30T17:39:21Z
   Vendor: Hypes Inventory
   Product Type: Bag Charm
   Availability: Available
@@ -8964,7 +8964,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-bag-charm-gold-cherry-bag-charm-keychain-cute-purse-handbag-fruit-accessories-beautiful-birthday-gift-for-women-37203093094653.png?v=1775758271
     Price: $21.99 USD
 - [Turban Headband for Women – Wide Stretchy Hair Wrap](https://hypesinventory.com/products/turban-headband-for-women): Turban headband for women with a wide stretchy design for all-day comfort. Perfect for natural hair, workouts, and everyday wear. Stylish, secure, and breathable.
-  Updated: 2026-04-21T14:13:32Z
+  Updated: 2026-04-30T17:39:31Z
   Vendor: Hypes Inventory
   Product Type: Hair Accessory
   Availability: Available
@@ -9082,7 +9082,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-hair-accessory-turmeric-yellow-turban-headband-for-women-wide-stretchy-hair-wrap-all-day-comfort-36978335973629.jpg?v=1775758297
     Price: $11.99 USD
 - [Evil Eye Shirt for Women – Cute Casual Graphic Tee](https://hypesinventory.com/products/evil-eye-shirt): Evil eye shirt for women with a cute graphic design. Soft, comfortable, and perfect for everyday wear, casual outfits, and trendy street style.
-  Updated: 2026-04-13T19:14:37Z
+  Updated: 2026-04-30T17:39:16Z
   Vendor: Hypes Inventory
   Product Type: Graphic Tee
   Availability: Available
@@ -9168,7 +9168,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-graphic-tee-black-eye-medium-cute-evil-eye-casual-shirt-37037760938237.jpg?v=1775758302
     Price: $30.21 USD
 - [Keyhole Bra for Women | Stylish Cutout Detail Bralette](https://hypesinventory.com/products/keyhole-bra): Shop the Keyhole Bra — a stylish bralette with a chic keyhole cutout detail. Comfortable, supportive & perfect for everyday or layering.
-  Updated: 2026-04-22T17:12:46Z
+  Updated: 2026-04-30T23:36:59Z
   Vendor: Net Positive
   Product Type: Bralette
   Availability: Available
@@ -9176,25 +9176,25 @@
   - [Chocolate / XS](https://hypesinventory.com/products/keyhole-bra?variant=47325541138685)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/net-positive-bralette-chocolate-xs-keyhole-bra-37089270399229.jpg?v=1775758313
-    Price: $48.00 USD
+    Price: $38.00 USD
   - [Chocolate / S](https://hypesinventory.com/products/keyhole-bra?variant=47325541171453)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/net-positive-bralette-chocolate-xs-keyhole-bra-37089270399229.jpg?v=1775758313
-    Price: $48.00 USD
+    Price: $38.00 USD
   - [Chocolate / M](https://hypesinventory.com/products/keyhole-bra?variant=47325541204221)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/net-positive-bralette-chocolate-xs-keyhole-bra-37089270399229.jpg?v=1775758313
-    Price: $48.00 USD
+    Price: $38.00 USD
   - [Chocolate / L](https://hypesinventory.com/products/keyhole-bra?variant=47325541236989)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/net-positive-bralette-chocolate-xs-keyhole-bra-37089270399229.jpg?v=1775758313
-    Price: $48.00 USD
+    Price: $38.00 USD
   - [Chocolate / XL](https://hypesinventory.com/products/keyhole-bra?variant=47325541269757)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/net-positive-bralette-chocolate-xs-keyhole-bra-37089270399229.jpg?v=1775758313
-    Price: $48.00 USD
+    Price: $38.00 USD
 - [Seamless Gym Leggings for Women – High Waist Compression Fit](https://hypesinventory.com/products/seamless-gym-leggings): Seamless gym leggings for women with a high waist and sculpting fit. Perfect for workouts, yoga, and everyday activewear. Comfortable and supportive.
-  Updated: 2026-04-22T02:52:37Z
+  Updated: 2026-04-30T22:38:36Z
   Vendor: Alyth Active
   Product Type: Compression Leggings
   Availability: Available
@@ -9296,7 +9296,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/alyth-active-compression-leggings-dusty-aubergine-25-x-small-gravity-strength-stayform-legging-37089272889597.jpg?v=1775758323
     Price: $80.00 USD
 - [So Chic Bag Charm | Modern Handbag Accessory for Women](https://hypesinventory.com/products/so-chic-bag-charm): Shop the So Chic Bag Charm — a modern, stylish handbag accessory approx. 11" long. Elevate any purse or tote with this chic finishing touch.
-  Updated: 2026-04-21T12:41:48Z
+  Updated: 2026-04-30T17:39:22Z
   Vendor: Ellisonyoung.com
   Product Type: Bag Charm
   Availability: Available
@@ -9310,21 +9310,21 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/ellisonyoung-com-bag-charm-black-heart-so-chic-bag-charm-37089277935869.jpg?v=1775758333
     Price: $23.75 USD
 - [Soccer Keychain & Bag Charm | Sports Fan Purse Accessory Gift](https://hypesinventory.com/products/soccer-keychain-bag-charm): Shop the Soccer Keychain & Bag Charm — miniature soccer ball, jersey, cleat & 'Go Team' charm. 5.2" L. Perfect gift for soccer fans.
-  Updated: 2026-04-15T18:03:38Z
+  Updated: 2026-04-30T17:39:20Z
   Vendor: Madeline Love
   Product Type: Keychain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/madeline-love-keychain-pink-soccer-keychain-bag-charm-37089279148285.jpg?v=1775758328
   Price: $40.00 USD
 - [Moth Keychain – Celestial Moth Bag Charm Accessory](https://hypesinventory.com/products/moth-keychain): Moth keychain with a celestial moth design. Aesthetic metal bag charm perfect for keys, purses, and backpacks. Unique and stylish accessory.
-  Updated: 2026-04-13T19:00:59Z
+  Updated: 2026-04-30T17:39:13Z
   Vendor: Why Begin
   Product Type: Keychain & Bag Charm
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/why-begin-keychain-bag-charm-default-title-celestial-moth-keychain-metal-bag-charm-aesthetic-accessory-37089309950205.jpg?v=1775758337
   Price: $4.99 USD
 - [Tassel Crossbody Bag for Women – Square Shoulder Handbag](https://hypesinventory.com/products/tassel-crossbody-bag-for-women): Tassel crossbody bag for women with a stylish square design and tassel detail. Lightweight PU leather handbag perfect for everyday use, travel, and casual wear.
-  Updated: 2026-04-13T18:48:44Z
+  Updated: 2026-04-30T17:39:21Z
   Vendor: Hypes Inventory
   Product Type: Crossbody Bag
   Availability: Available
@@ -9338,112 +9338,105 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-crossbody-bag-black-tassel-crossbody-bag-for-women-square-shoulder-handbag-37092625318141.jpg?v=1775758340
     Price: $59.99 USD
 - [Marc Jacobs The Duffle Bag Black | Canvas Crossbody Bag Purse](https://hypesinventory.com/products/marc-jacobs-the-duffle-bag-black-crossbody-bag-purse): Shop Marc Jacobs The Duffle Bag in black canvas. Adjustable/detachable crossbody strap, MARC JACOBS dustbag included. 10"x6"x5". MSRP $295.
-  Updated: 2026-04-15T18:11:13Z
+  Updated: 2026-04-30T17:39:22Z
   Vendor: Hypes Inventory
   Product Type: Crossbody Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-crossbody-bag-default-title-marc-jacobs-the-duffle-bag-black-crossbody-bag-purse-37092630069501.jpg?v=1775758348
   Price: $349.99 USD
 - [Marc Jacobs Medium Monogram Terry Tote Bag | Designer Canvas Handbag](https://hypesinventory.com/products/marc-jacobs-medium-monogram-the-terry-tote-bag): Shop the Marc Jacobs Medium Monogram Terry Tote Bag — iconic monogram canvas design with spacious interior. A must-have designer handbag.
-  Updated: 2026-04-15T18:11:04Z
+  Updated: 2026-04-30T17:39:13Z
   Vendor: Hypes Inventory
   Product Type: Tote Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-tote-bag-default-title-marc-jacobs-medium-monogram-the-terry-tote-bag-37092633247997.jpg?v=1775758350
   Price: $299.99 USD
 - [Marc Jacobs Monogram Mini Tote Canvas Crossbody Bag | Beige Jacquard](https://hypesinventory.com/products/marc-jacobs-the-monogram-tote-canvas-crossbody-bag): Shop Marc Jacobs The Monogram Beige Mini Tote in woven jacquard canvas. Adjustable crossbody strap, inner card slot, zip closure. 7"x6"x4".
-  Updated: 2026-04-15T18:11:14Z
+  Updated: 2026-04-30T17:39:22Z
   Vendor: Hypes Inventory
   Product Type: Tote Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-tote-bag-default-title-marc-jacobs-the-monogram-tote-canvas-crossbody-bag-37092634132733.jpg?v=1775758354
   Price: $349.99 USD
 - [Beige Camera Bag Crossbody | Stylish Canvas Shoulder Bag](https://hypesinventory.com/products/marc-jacobs-beige-camera-bag-crossbody): Shop beige camera bag crossbody with adjustable strap. Lightweight canvas shoulder bag with zip closure, compact design, and everyday style.
-  Updated: 2026-04-15T18:10:48Z
+  Updated: 2026-04-30T17:39:14Z
   Vendor: Hypes Inventory
   Product Type: Camera Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-camera-bag-default-title-beige-camera-bag-crossbody-stylish-adjustable-strap-shoulder-bag-37092635083005.jpg?v=1775758363
   Price: $229.99 USD
 - [Black Camera Bag Crossbody | Compact Adjustable Shoulder Bag](https://hypesinventory.com/products/marc-jacobs-black-camera-bag-crossbody): Shop black camera bag crossbody with adjustable strap. Compact canvas shoulder bag with zip closure, lightweight design, and everyday functionality.
-  Updated: 2026-04-15T18:10:49Z
+  Updated: 2026-04-30T17:39:15Z
   Vendor: Hypes Inventory
   Product Type: Camera Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-camera-bag-default-title-black-camera-bag-crossbody-compact-shoulder-bag-with-adjustable-strap-37092635345149.jpg?v=1775758363
   Price: $229.99 USD
 - [Marc Jacobs The Camera Bag Slate Green | Canvas Crossbody Bag](https://hypesinventory.com/products/marc-jacobs-slate-green-the-camera-bag-crossbody): Shop Marc Jacobs The Camera Bag in slate green canvas. Adjustable/detachable crossbody strap, inner zip pocket. 9.5"x4.5"x3". Chic & compact.
-  Updated: 2026-04-15T18:10:59Z
+  Updated: 2026-04-30T17:39:20Z
   Vendor: Hypes Inventory
   Product Type: Camera Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-camera-bag-one-size-marc-jacobs-slate-green-the-camera-bag-crossbody-37092635705597.jpg?v=1775758367
   Price: $229.99 USD
 - [Marc Jacobs The Camera Bag Blue Shadow | Canvas Crossbody Bag](https://hypesinventory.com/products/marc-jacobs-blue-shadow-the-camera-bag-crossbody): Shop Marc Jacobs The Camera Bag in blue shadow canvas. Adjustable/detachable crossbody strap, inner zip pocket. 9.5"x4.5"x3". Chic & compact.
-  Updated: 2026-04-15T18:11:08Z
+  Updated: 2026-04-30T17:39:20Z
   Vendor: Hypes Inventory
   Product Type: Camera Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-camera-bag-default-title-marc-jacobs-blue-shadow-the-camera-bag-crossbody-37092636000509.jpg?v=1775758375
   Price: $229.99 USD
 - [Marc Jacobs Bugs Bunny Grind Bag | Looney Tunes Tote](https://hypesinventory.com/products/marc-jacobs-bugs-bunny-grind-bag): Shop Marc Jacobs Bugs Bunny grind bag. Looney Tunes leather crossbody tote with adjustable strap, compact design, and premium pebbled leather.
-  Updated: 2026-04-15T18:10:58Z
+  Updated: 2026-04-30T17:39:16Z
   Vendor: Hypes Inventory
   Product Type: Crossbody Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-crossbody-bag-default-title-marc-jacobs-looney-tunes-bugs-bunny-mini-grind-bag-37092638687485.jpg?v=1775758386
   Price: $349.99 USD
 - [Marc by Marc Jacobs Crosby Nylon Quilted Diaper Bag | Large Black Tote](https://hypesinventory.com/products/marc-by-marc-jacobs-crosby-nylon-quilted-diaper-bag-black-large): Shop the Marc by Marc Jacobs Crosby Nylon Quilted Diaper Bag in black — large, stylish & functional. Perfect as a diaper bag or everyday tote.
-  Updated: 2026-04-15T18:11:07Z
+  Updated: 2026-04-30T17:39:23Z
   Vendor: Hypes Inventory
   Product Type: Diaper Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-diaper-bag-n-a-quilted-diaper-bag-large-baby-bag-with-changing-pad-shoulder-strap-37092644356349.jpg?v=1775758386
   Price: $369.99 USD
 - [Marc Jacobs Signet Flash Camera Bag | Black Smooth Leather Camo Strap Crossbody](https://hypesinventory.com/products/marc-jacobs-signet-flash-black-camo-strap-camera-bag): Shop Marc Jacobs Signet Flash Camera Bag in black smooth leather. Camo crossbody strap, inner card slot, zip closure. 8.5"x5.5"x3". MSRP $395.
-  Updated: 2026-04-15T18:11:00Z
+  Updated: 2026-04-30T17:39:14Z
   Vendor: Hypes Inventory
   Product Type: Camera Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-camera-bag-default-title-marc-jacobs-signet-flash-black-camo-strap-camera-bag-37092645273853.jpg?v=1775758387
   Price: $499.99 USD
 - [Marc Jacobs Grind Mini Leather Tote | Colorblock Crossbody Bag](https://hypesinventory.com/products/marc-jacobs-grind-mini-leather-tote): Shop Marc Jacobs grind mini leather tote in pomegranate colorblock. Compact crossbody with pebbled leather, zip closure, and adjustable strap for everyday use.
-  Updated: 2026-04-15T18:11:02Z
+  Updated: 2026-04-30T17:39:11Z
   Vendor: Hypes Inventory
   Product Type: Tote Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-tote-bag-default-title-marc-jacobs-grind-mini-pomegranate-colorblock-leather-tote-37092652122365.jpg?v=1775758392
   Price: $399.99 USD
 - [Marc Jacobs Mini Tote Leather | Designer Crossbody Bag](https://hypesinventory.com/products/marc-jacobs-mini-tote-leather): Shop Marc Jacobs mini tote leather bag with colorblock design. Compact crossbody with premium leather, zip closure, and adjustable strap for everyday use.
-  Updated: 2026-04-15T18:11:06Z
+  Updated: 2026-04-30T17:39:11Z
   Vendor: Hypes Inventory
   Product Type: Tote Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-tote-bag-default-title-marc-jacobs-grind-mini-loam-soil-colorblock-leather-tote-37092654022909.jpg?v=1775758399
   Price: $399.99 USD
-- [Marc Jacobs Washed Monogram Denim Grind Canvas Tote | Crossbody Bag](https://hypesinventory.com/products/marc-jacobs-the-washed-monogram-denim-grind-canvas-tote): Shop Marc Jacobs Washed Monogram Denim Grind Canvas Tote. Adjustable crossbody strap, spacious interior. Iconic monogram print in a casual denim finish.
-  Updated: 2026-04-15T18:11:06Z
-  Vendor: Hypes Inventory
-  Product Type: Tote Bag
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-tote-bag-default-title-marc-jacobs-the-washed-monogram-denim-grind-canvas-tote-37092658249981.jpg?v=1775758406
-  Price: $399.99 USD
 - [Marc Jacobs Black Leather Hobo Bag – Small Designer Shoulder Bag](https://hypesinventory.com/products/marc-jacobs-black-leather-hobo-bag): Shop Marc Jacobs black leather hobo bag. Small designer shoulder bag with smooth leather, zip closure, and versatile convertible style for everyday use.
-  Updated: 2026-04-15T18:11:30Z
+  Updated: 2026-04-30T17:39:24Z
   Vendor: Hypes Inventory
   Product Type: Hobo Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-hobo-bag-default-title-marc-jacobs-tempo-small-black-leather-hobo-shoulder-bag-37092662116605.jpg?v=1775758412
   Price: $399.99 USD
 - [Marc Jacobs Terry Canvas Leather Hobo Shoulder Bag | Crossbody Purse](https://hypesinventory.com/products/marc-jacobs-terry-canvas-leather-hobo-shoulder-bag): Shop Marc Jacobs Terry Canvas Natural Hobo Shoulder Bag. Canvas & leather, adjustable crossbody strap, zip closure, inner pockets. 10"x5.5"x2".
-  Updated: 2026-04-15T18:11:04Z
+  Updated: 2026-04-30T17:39:10Z
   Vendor: Hypes Inventory
   Product Type: Hobo Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-hobo-bag-default-title-marc-jacobs-terry-canvas-leather-hobo-shoulder-bag-37092662575357.jpg?v=1775758417
   Price: $349.99 USD
 - [Leather Shoulder Bag | Crossbody, Tote & Wing Bag for Women | 3 Colors](https://hypesinventory.com/products/shoulder-bag-crossbody-bag-tote-bag-wing-bag): Shop this versatile leather shoulder bag — wear as a crossbody, handheld tote, or wing bag. Car-stitched leather lining, 3 colors, lightweight at 0.35kg.
-  Updated: 2026-04-09T18:13:50Z
+  Updated: 2026-04-30T17:39:18Z
   Vendor: Hypes Inventory
   Product Type: Crossbody Bag
   Availability: Available
@@ -9461,21 +9454,21 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-crossbody-bag-black-shoulder-bag-crossbody-bag-tote-bag-wing-bag-37092756586749.jpg?v=1775758425
     Price: $99.98 USD
 - [Rose Bag Charm Keychain | Gold Red Flower Pendant – Hypes Inventory](https://hypesinventory.com/products/rose-bag-charm-keychain-gold-red-flower-pearl): Elegant rose bag charm with pearl accents. Perfect gift for women – fits bags, backpacks & purses. Comes in luxury gift packaging.
-  Updated: 2026-04-11T01:35:47Z
+  Updated: 2026-04-30T17:39:32Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-default-title-rose-bag-charm-keychain-gold-red-flower-pendant-with-pearls-37203030475005.png?v=1775758433
   Price: $14.99 USD
 - [Pearl Beaded Bow Heart Locket Bag Charm | Elegant Purse Accessory](https://hypesinventory.com/products/pearl-beaded-bow-pointe-metal-heart-locket-bag-charm): Shop the Pearl Beaded Bow Pointe Metal Heart Locket Bag Charm — cream gold, 3.5" L x 1.75" x 2.5". An elegant, romantic accessory for any handbag.
-  Updated: 2026-04-09T18:13:55Z
+  Updated: 2026-04-30T17:39:14Z
   Vendor: Madeline Love
   Product Type: Bag Charm
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/madeline-love-bag-charm-cream-gold-pearl-beaded-bow-pointe-metal-heart-locket-bag-charm-37094689472765.jpg?v=1775758433
   Price: $26.25 USD
 - [Letter Decor Hand Satchel Bag | PU Leather Mini Purse & Crossbody for Women](https://hypesinventory.com/products/letter-decor-hand-satchel-bag): Shop the Letter Decor Hand Satchel Bag in PU leather. Wear as a purse, shoulder bag, crossbody or mini tote. 9.8"x3.9"x7.5", 1.3 lbs. Great gift.
-  Updated: 2026-04-21T07:03:50Z
+  Updated: 2026-05-01T07:02:20Z
   Vendor: DailySale
   Product Type: Satchel Bag
   Availability: Available
@@ -9483,46 +9476,46 @@
   - [Purple](https://hypesinventory.com/products/letter-decor-hand-satchel-bag?variant=47329784037629)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/dailysale-satchel-bag-purple-letter-decor-hand-satchel-bag-37094690914557.webp?v=1775758439
-    Price: $28.00 USD
+    Price: $39.00 USD
   - [Green](https://hypesinventory.com/products/letter-decor-hand-satchel-bag?variant=47329784070397)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/dailysale-satchel-bag-purple-letter-decor-hand-satchel-bag-37094690947325.webp?v=1775758439
-    Price: $28.00 USD
+    Price: $39.00 USD
   - [White](https://hypesinventory.com/products/letter-decor-hand-satchel-bag?variant=47329784103165)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/dailysale-satchel-bag-purple-letter-decor-hand-satchel-bag-37094690980093.webp?v=1775758434
-    Price: $28.00 USD
+    Price: $39.00 USD
   - [Pink](https://hypesinventory.com/products/letter-decor-hand-satchel-bag?variant=47329784135933)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/dailysale-satchel-bag-purple-letter-decor-hand-satchel-bag-37094691012861.webp?v=1775758439
-    Price: $28.00 USD
+    Price: $39.00 USD
   - [Black](https://hypesinventory.com/products/letter-decor-hand-satchel-bag?variant=47329784168701)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/dailysale-satchel-bag-purple-letter-decor-hand-satchel-bag-37094691045629.webp?v=1775758440
-    Price: $28.00 USD
+    Price: $39.00 USD
 - [Large Work Tote Bag for Women | Stylish Vegan Leather Bag](https://hypesinventory.com/products/large-work-tote-bag-for-women): Large work tote bag for women designed for work, travel, and daily use. Spacious, stylish, and made with durable vegan leather for everyday carry.
-  Updated: 2026-04-13T04:59:22Z
+  Updated: 2026-04-30T17:39:13Z
   Vendor: Hypes Inventory
   Product Type: Tote Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-tote-bag-amber-brown-sqlp-large-work-tote-bag-for-women-designer-purses-and-handbags-big-bucket-bags-womens-travel-shoulder-bag-amber-brown-37116350660861.jpg?v=1775758444
   Price: $59.99 USD
 - [Wrangler Small Crossbody Bag | Mini Shoulder Purse](https://hypesinventory.com/products/wrangler-small-crossbody-bag): Wrangler small crossbody bag made from vegan leather with adjustable strap. Compact, stylish, and perfect for everyday use, travel, or casual outings.
-  Updated: 2026-04-11T02:21:23Z
+  Updated: 2026-04-30T17:39:15Z
   Vendor: Hypes Inventory
   Product Type: Crossbody Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-crossbody-bag-jean-wrangler-small-crossbody-bags-for-women-trendy-designer-mini-purses-shoulder-handbag-hobo-with-adjustable-strapwg119-077jn-37116555723005.jpg?v=1775758445
   Price: $135.81 USD
 - [Wrangler Western Tote Bag & Wallet Set | Genuine Leather Satchel Purse for Women](https://hypesinventory.com/products/wrangler-tote-bag-for-women-western-purse-top-handle-satchel-purse-and-wallet-set-2pcs-gift-wg2-242dbr): Shop the Wrangler Women's Western Tote & Wallet 2-Piece Set. Genuine leather with whipstitch & tassels, spacious interior. 11.8"x10"x4.5". Perfect gift.
-  Updated: 2026-04-09T18:14:08Z
+  Updated: 2026-04-30T17:39:20Z
   Vendor: Hypes Inventory
   Product Type: Tote Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-tote-bag-vintage-dark-brown-wrangler-tote-bag-for-women-western-purse-top-handle-satchel-purse-and-wallet-set-2pcs-gift-wg2-242dbr-37116557000957.jpg?v=1775758447
   Price: $129.99 USD
 - [Cartoon Animal Keychain | Cute Enamel Dog & Penguin Keyring Gift](https://hypesinventory.com/products/cartoon-animal-keychain-cute-enamel-dog-penguin-heart-star-keyring-for-bags-car-keys-gifts): Shop cute enamel cartoon animal keychains — puppy or penguin designs. Durable, lightweight, perfect for bags, keys, backpacks & cars. Great gift idea.
-  Updated: 2026-04-11T01:08:51Z
+  Updated: 2026-04-30T17:39:14Z
   Vendor: Hypes Inventory
   Product Type: Keychain
   Availability: Available
@@ -9536,7 +9529,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-keychain-puppy-charm-cartoon-animal-keychain-cute-enamel-dog-penguin-heart-star-keyring-for-bags-car-keys-gifts-37118564368637.jpg?v=1775758451
     Price: $11.99 USD
 - [Puffer Tote Bag for Women | Quilted Crossbody Travel Bag](https://hypesinventory.com/products/puffer-tote-bag-for-women): Puffer tote bag for women that is lightweight, spacious, and stylish. Perfect for travel, gym, work, and school. A trendy quilted crossbody bag.
-  Updated: 2026-04-11T01:03:00Z
+  Updated: 2026-04-30T17:39:26Z
   Vendor: Hypes Inventory
   Product Type: Tote Bag
   Availability: Available
@@ -9578,7 +9571,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-tote-bag-army-green-puffer-tote-bag-quilted-tote-bag-crossbody-bags-for-travel-gym-work-37118974623997.jpg?v=1775758464
     Price: $49.99 USD
 - [Puffer Tote Bag for Women | Quilted Laptop & Tumbler Tote](https://hypesinventory.com/products/puffer-tote-bag-for-women-lightweight-quilted-shoulder-bag-with-laptop-tumbler-holder): Puffer tote bag for women with laptop sleeve and tumbler holder. Lightweight, spacious, and stylish for work, school, gym, and travel.
-  Updated: 2026-04-22T17:30:37Z
+  Updated: 2026-04-30T17:39:32Z
   Vendor: Hypes Inventory
   Product Type: Tote Bag
   Availability: Available
@@ -9588,11 +9581,11 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-tote-bag-camel-puffer-tote-bag-for-women-lightweight-quilted-shoulder-bag-with-laptop-sleeve-tumbler-holder-37123896017149.jpg?v=1775758464
     Price: $59.99 USD
   - [Pink](https://hypesinventory.com/products/puffer-tote-bag-for-women-lightweight-quilted-shoulder-bag-with-laptop-tumbler-holder?variant=47336163934461)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-tote-bag-camel-puffer-tote-bag-for-women-lightweight-quilted-shoulder-bag-with-laptop-sleeve-tumbler-holder-37123896312061.jpg?v=1775758470
     Price: $59.99 USD
   - [Sage Green](https://hypesinventory.com/products/puffer-tote-bag-for-women-lightweight-quilted-shoulder-bag-with-laptop-tumbler-holder?variant=47336163967229)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-tote-bag-camel-puffer-tote-bag-for-women-lightweight-quilted-shoulder-bag-with-laptop-sleeve-tumbler-holder-37123896344829.jpg?v=1775758470
     Price: $59.99 USD
   - [Cream](https://hypesinventory.com/products/puffer-tote-bag-for-women-lightweight-quilted-shoulder-bag-with-laptop-tumbler-holder?variant=47336163999997)
@@ -9620,7 +9613,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-tote-bag-camel-puffer-tote-bag-for-women-lightweight-quilted-shoulder-bag-with-laptop-sleeve-tumbler-holder-37123896541437.jpg?v=1775758476
     Price: $59.99 USD
 - [Puffer Tote Bag for Women | Quilted Lightweight Travel Tote](https://hypesinventory.com/products/puffer-tote-bag-for-women-large-quilted-puffy-handbag-lightweight-travel-gym-tote-with-cup-holder-compartments): Puffer tote bag for women that is lightweight, spacious, and stylish. Perfect for work, gym, school, and travel with compartments and a cup holder.
-  Updated: 2026-04-20T13:47:06Z
+  Updated: 2026-04-30T17:39:20Z
   Vendor: Hypes Inventory
   Product Type: Tote Bag
   Availability: Available
@@ -9634,7 +9627,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-tote-bag-black-puffer-tote-bag-for-women-large-quilted-puffy-handbag-lightweight-travel-gym-tote-with-cup-holder-compartments-37123928523005.jpg?v=1775758483
     Price: $59.99 USD
   - [Sky Blue](https://hypesinventory.com/products/puffer-tote-bag-for-women-large-quilted-puffy-handbag-lightweight-travel-gym-tote-with-cup-holder-compartments?variant=47336284913917)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-tote-bag-black-puffer-tote-bag-for-women-large-quilted-puffy-handbag-lightweight-travel-gym-tote-with-cup-holder-compartments-37123928555773.jpg?v=1775758483
     Price: $59.99 USD
   - [Purple](https://hypesinventory.com/products/puffer-tote-bag-for-women-large-quilted-puffy-handbag-lightweight-travel-gym-tote-with-cup-holder-compartments?variant=47336284946685)
@@ -9642,7 +9635,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-tote-bag-black-puffer-tote-bag-for-women-large-quilted-puffy-handbag-lightweight-travel-gym-tote-with-cup-holder-compartments-37123928588541.jpg?v=1775758484
     Price: $59.99 USD
   - [Green](https://hypesinventory.com/products/puffer-tote-bag-for-women-large-quilted-puffy-handbag-lightweight-travel-gym-tote-with-cup-holder-compartments?variant=47336284979453)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-tote-bag-black-puffer-tote-bag-for-women-large-quilted-puffy-handbag-lightweight-travel-gym-tote-with-cup-holder-compartments-37123928621309.jpg?v=1775758484
     Price: $59.99 USD
   - [Grey](https://hypesinventory.com/products/puffer-tote-bag-for-women-large-quilted-puffy-handbag-lightweight-travel-gym-tote-with-cup-holder-compartments?variant=47336285012221)
@@ -9658,7 +9651,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-tote-bag-black-puffer-tote-bag-for-women-large-quilted-puffy-handbag-lightweight-travel-gym-tote-with-cup-holder-compartments-37123928752381.jpg?v=1775758489
     Price: $59.99 USD
 - [Puffer Tote Bag for Women | Quilted Travel Handbag](https://hypesinventory.com/products/puffer-tote-bag-for-women-large-quilted-crossbody-handbag-lightweight-carryall-travel-gym-bag): Shop the puffer tote bag for women, a quilted crossbody handbag perfect for travel, gym, and everyday use. Lightweight, spacious, and stylish.
-  Updated: 2026-04-22T17:30:41Z
+  Updated: 2026-04-30T17:39:18Z
   Vendor: Hypes Inventory
   Product Type: Crossbody Tote Bag
   Availability: Available
@@ -9672,7 +9665,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-crossbody-tote-bag-black-puffer-tote-bag-for-women-large-quilted-crossbody-handbag-lightweight-carryall-travel-gym-bag-37123931635965.jpg?v=1775758495
     Price: $49.99 USD
   - [Light Purple](https://hypesinventory.com/products/puffer-tote-bag-for-women-large-quilted-crossbody-handbag-lightweight-carryall-travel-gym-bag?variant=47336286126333)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-crossbody-tote-bag-black-puffer-tote-bag-for-women-large-quilted-crossbody-handbag-lightweight-carryall-travel-gym-bag-37123931668733.jpg?v=1775758495
     Price: $49.99 USD
   - [Deep Green](https://hypesinventory.com/products/puffer-tote-bag-for-women-large-quilted-crossbody-handbag-lightweight-carryall-travel-gym-bag?variant=47336286159101)
@@ -9680,7 +9673,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-crossbody-tote-bag-black-puffer-tote-bag-for-women-large-quilted-crossbody-handbag-lightweight-carryall-travel-gym-bag-37123931701501.jpg?v=1775758497
     Price: $49.99 USD
   - [Beige](https://hypesinventory.com/products/puffer-tote-bag-for-women-large-quilted-crossbody-handbag-lightweight-carryall-travel-gym-bag?variant=47336286191869)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-crossbody-tote-bag-black-puffer-tote-bag-for-women-large-quilted-crossbody-handbag-lightweight-carryall-travel-gym-bag-37123931734269.jpg?v=1775758497
     Price: $49.99 USD
   - [Green](https://hypesinventory.com/products/puffer-tote-bag-for-women-large-quilted-crossbody-handbag-lightweight-carryall-travel-gym-bag?variant=47336286224637)
@@ -9708,7 +9701,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-crossbody-tote-bag-black-puffer-tote-bag-for-women-large-quilted-crossbody-handbag-lightweight-carryall-travel-gym-bag-37123931930877.jpg?v=1775758503
     Price: $49.99 USD
 - [Quilted Puffer Tote Bag for Women | Lightweight Shoulder Handbag](https://hypesinventory.com/products/quilted-puffer-tote-bag-for-women-lightweight-shoulder-handbag-for-work-school-travel): Shop this quilted puffer tote bag for women — lightweight, spacious, with multiple pockets. Perfect for work, school, gym & travel. Stylish everyday shoulder bag.
-  Updated: 2026-04-10T22:08:45Z
+  Updated: 2026-04-30T17:39:22Z
   Vendor: Hypes Inventory
   Product Type: Tote Bag
   Availability: Available
@@ -9730,7 +9723,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-tote-bag-black-quilted-puffer-tote-bag-for-women-lightweight-shoulder-handbag-for-work-school-travel-37123934519549.jpg?v=1775758511
     Price: $45.99 USD
 - [Chic Flare High-Waist Pants for Women | Elegant Wide Leg Trousers](https://hypesinventory.com/products/chic-flare-high-waist-pants): Shop chic flare high-waist pants with a flattering fit. Elegant wide leg trousers perfect for work, casual outfits, or stylish everyday wear.
-  Updated: 2026-04-10T21:42:44Z
+  Updated: 2026-04-30T17:39:15Z
   Vendor: Hypes Inventory
   Product Type: Flare Pants
   Availability: Available
@@ -9747,14 +9740,14 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-flare-pants-black-l-chic-flare-high-waist-pants-37125260738813.jpg?v=1775758511
     Price: $28.99 USD
 - [Couple Keychain Pendant Creative Valentine'S Day Other Festivals](https://hypesinventory.com/products/love-couple-keychain-pendant-creative-valentines-day-other-festivals-small-gift-keyrings-pendant): Shop the couple keychain pendant, a romantic gift for couples. Perfect for Valentine’s Day, anniversaries, or everyday matching accessories.
-  Updated: 2026-04-15T18:11:05Z
+  Updated: 2026-04-30T17:39:17Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-ysk-true-love-love-couple-keychain-pendant-creative-valentine-s-day-other-festivals-small-gift-keyrings-pendant-37198140375293.jpg?v=1775758522
   Price: $6.93 USD
 - [Fruit Keychain Charm | Cute Y2K Bag Accessory for women](https://hypesinventory.com/products/fruit-keychain-charm-cute-apple-watermelon-y2k-bag-charm-for-women): Shop the fruit keychain charm with cute apple and watermelon design. A trendy Y2K bag accessory that adds a playful touch to your everyday style.
-  Updated: 2026-04-10T21:07:28Z
+  Updated: 2026-04-30T17:39:17Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -9764,7 +9757,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-a-fruit-keychain-charm-cute-apple-watermelon-y2k-bag-charm-for-women-37198491353341.jpg?v=1775758524
     Price: $12.99 USD
   - [B](https://hypesinventory.com/products/fruit-keychain-charm-cute-apple-watermelon-y2k-bag-charm-for-women?variant=47359966445821)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-a-fruit-keychain-charm-cute-apple-watermelon-y2k-bag-charm-for-women-37198491517181.jpg?v=1775758525
     Price: $12.99 USD
   - [C](https://hypesinventory.com/products/fruit-keychain-charm-cute-apple-watermelon-y2k-bag-charm-for-women?variant=47359966413053)
@@ -9776,14 +9769,14 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-a-fruit-keychain-charm-cute-apple-watermelon-y2k-bag-charm-for-women-37198491549949.jpg?v=1775758524
     Price: $12.99 USD
 - [Coco Shoulder Bag for Women – Stylish Half Moon Bag](https://hypesinventory.com/products/spring-coco-shoulder-bag): Coco shoulder bag for women with a trendy half moon shape and vegan leather design. Lightweight, stylish, and perfect for everyday use or summer outings.
-  Updated: 2026-04-13T18:46:12Z
+  Updated: 2026-04-30T17:39:25Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/3af770d04c108fd468b7bdd45b4d.jpg?v=1776056653
+  Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/3af770d04c108fd468b7bdd45b4d.jpg?v=1777341571
   Price: $109.99 USD
 - [Personalized Knitted Dress for Women | Lavine™ Official](https://hypesinventory.com/products/fashion-personalized-knitted-dress-for-women): Shop the personalized knitted dress for women by Lavine™. Soft, flattering, and versatile knitwear designed for comfort, style, and everyday elegance.
-  Updated: 2026-04-15T21:48:49Z
+  Updated: 2026-04-30T17:39:16Z
   Vendor: Hypes Inventory
   Product Type: 
   Availability: Available
@@ -9872,42 +9865,254 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/adb270384f1e8f1eb5c6aa5b918d.webp?v=1776250025
     Price: $59.98 USD
-[List Continued](https://hypesinventory.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MjE3MDAzNDIxOTQ5LCJsYXN0X3ZhbHVlIjoiOTIxNzAwMzQyMTk0OSJ9)
+- [Khaki Zip-Up Pocket Quilted Jacket](https://hypesinventory.com/products/khaki-zip-up-pocket-quilted-jacket): Material:100%Polyester Stylish and functional jacket with a convenient zip-up front Features a handy pocket for storing small essentials while on the go Quilted design adds warmth and a trendy touch to any outfit Perfect combination of comfort, style, and practicality Size Chart (CM) Sizes Bust Shoulder Sleeve Length Length Hem Width Relax Relax Relax Relax Relax S 112 59 48.5 64 98 M 118 62 49 66 104 L 124 65 49.5 68 110 XL 132 69 49.5 70 118 2XL 140 73 49.5 72 126 Elasticity None Size Chart (INCH) Sizes Bust Shoulder Sleeve Length Length Hem Width Relax Relax Relax Relax Relax S 44.1 23.2 19.1 25.2 38.6 M 46.5 24.4 19.3 26.0 40.9 L 48.8 25.6 19.5 26.8 43.3 XL 52.0 27.2 19.5 27.6 46.5 2XL 55.1 28.7 19.5 28.3 49.6 Elasticity None
+  Updated: 2026-05-01T05:36:15Z
+  Vendor: Wild and Free Boutique
+  Product Type: Jackets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/e8e3ba68ffaf2783.jpg?v=1777570618
+  - [Khaki / 2XL / 100%Polyester](https://hypesinventory.com/products/khaki-zip-up-pocket-quilted-jacket?variant=47480354046205)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/e8e3ba68ffaf2783.jpg?v=1777570618
+    Price: $57.60 USD
+  - [Khaki / L / 100%Polyester](https://hypesinventory.com/products/khaki-zip-up-pocket-quilted-jacket?variant=47480354078973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/e8e3ba68ffaf2783.jpg?v=1777570618
+    Price: $57.60 USD
+  - [Khaki / M / 100%Polyester](https://hypesinventory.com/products/khaki-zip-up-pocket-quilted-jacket?variant=47480354111741)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/e8e3ba68ffaf2783.jpg?v=1777570618
+    Price: $57.60 USD
+  - [Khaki / S / 100%Polyester](https://hypesinventory.com/products/khaki-zip-up-pocket-quilted-jacket?variant=47480354144509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/e8e3ba68ffaf2783.jpg?v=1777570618
+    Price: $57.60 USD
+  - [Khaki / XL / 100%Polyester](https://hypesinventory.com/products/khaki-zip-up-pocket-quilted-jacket?variant=47480354177277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/e8e3ba68ffaf2783.jpg?v=1777570618
+    Price: $57.60 USD
+  - [Black / 2XL / 100%Polyester](https://hypesinventory.com/products/khaki-zip-up-pocket-quilted-jacket?variant=47480354210045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/1022e03c338c1006.jpg?v=1777570627
+    Price: $54.22 USD
+  - [Black / L / 100%Polyester](https://hypesinventory.com/products/khaki-zip-up-pocket-quilted-jacket?variant=47480354242813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/1022e03c338c1006.jpg?v=1777570627
+    Price: $54.22 USD
+  - [Black / M / 100%Polyester](https://hypesinventory.com/products/khaki-zip-up-pocket-quilted-jacket?variant=47480354275581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/1022e03c338c1006.jpg?v=1777570627
+    Price: $54.22 USD
+  - [Black / S / 100%Polyester](https://hypesinventory.com/products/khaki-zip-up-pocket-quilted-jacket?variant=47480354308349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/1022e03c338c1006.jpg?v=1777570627
+    Price: $54.22 USD
+  - [Black / XL / 100%Polyester](https://hypesinventory.com/products/khaki-zip-up-pocket-quilted-jacket?variant=47480354341117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/1022e03c338c1006.jpg?v=1777570627
+    Price: $54.22 USD
+  - [Green / L / 100%Polyester](https://hypesinventory.com/products/khaki-zip-up-pocket-quilted-jacket?variant=47480354373885)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/f551fd1fe42086c7.jpg?v=1777570636
+    Price: $54.22 USD
+  - [Green / M / 100%Polyester](https://hypesinventory.com/products/khaki-zip-up-pocket-quilted-jacket?variant=47480354406653)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/f551fd1fe42086c7.jpg?v=1777570636
+    Price: $54.22 USD
+  - [Green / S / 100%Polyester](https://hypesinventory.com/products/khaki-zip-up-pocket-quilted-jacket?variant=47480354439421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/f551fd1fe42086c7.jpg?v=1777570636
+    Price: $54.22 USD
+  - [Green / XL / 100%Polyester](https://hypesinventory.com/products/khaki-zip-up-pocket-quilted-jacket?variant=47480354472189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/f551fd1fe42086c7.jpg?v=1777570636
+    Price: $54.22 USD
+- [Zip Up Long Sleeve Hooded Cropped Jacket](https://hypesinventory.com/products/zip-up-long-sleeve-hooded-cropped-jacket): Elevate your casual style with our Zip Up Long Sleeve Hooded Cropped Jacket. This essential piece combines comfort and chic appeal, crafted from a blend of 76.6% polyester and 23.4% viscose. - Normal thickness for year-round wear - Versatile, unlined design - Machine washable for easy care Available in sizes S to XL, it features a flattering cropped cut for a modern silhouette. Perfect for layering over your favorite tops—make it a staple in your wardrobe today!
+  Updated: 2026-05-01T05:36:47Z
+  Vendor: Wild and Free Boutique
+  Product Type: outerwear
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/63290121-3765-438d-a1be-e54aea06ee23-Max.jpg?v=1777570667
+  - [Gray / S](https://hypesinventory.com/products/zip-up-long-sleeve-hooded-cropped-jacket?variant=47480354898173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/63290121-3765-438d-a1be-e54aea06ee23-Max.jpg?v=1777570667
+    Price: $27.62 USD
+  - [Gray / M](https://hypesinventory.com/products/zip-up-long-sleeve-hooded-cropped-jacket?variant=47480354930941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/63290121-3765-438d-a1be-e54aea06ee23-Max.jpg?v=1777570667
+    Price: $27.62 USD
+  - [Gray / L](https://hypesinventory.com/products/zip-up-long-sleeve-hooded-cropped-jacket?variant=47480354963709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/63290121-3765-438d-a1be-e54aea06ee23-Max.jpg?v=1777570667
+    Price: $27.62 USD
+  - [Gray / XL](https://hypesinventory.com/products/zip-up-long-sleeve-hooded-cropped-jacket?variant=47480354996477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/63290121-3765-438d-a1be-e54aea06ee23-Max.jpg?v=1777570667
+    Price: $27.62 USD
+  - [Black / S](https://hypesinventory.com/products/zip-up-long-sleeve-hooded-cropped-jacket?variant=47480355029245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/8cdabb52-7dc9-4d38-8533-5a4f84e00c6a-Max.jpg?v=1777570672
+    Price: $27.62 USD
+  - [Black / M](https://hypesinventory.com/products/zip-up-long-sleeve-hooded-cropped-jacket?variant=47480355062013)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/8cdabb52-7dc9-4d38-8533-5a4f84e00c6a-Max.jpg?v=1777570672
+    Price: $27.62 USD
+  - [Black / L](https://hypesinventory.com/products/zip-up-long-sleeve-hooded-cropped-jacket?variant=47480355094781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/8cdabb52-7dc9-4d38-8533-5a4f84e00c6a-Max.jpg?v=1777570672
+    Price: $27.62 USD
+  - [Black / XL](https://hypesinventory.com/products/zip-up-long-sleeve-hooded-cropped-jacket?variant=47480355127549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/8cdabb52-7dc9-4d38-8533-5a4f84e00c6a-Max.jpg?v=1777570672
+    Price: $27.62 USD
+  - [Navy / S](https://hypesinventory.com/products/zip-up-long-sleeve-hooded-cropped-jacket?variant=47480355160317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fc7eab06-d05b-44ff-b962-e7e80e370fbd-Max.jpg?v=1777570678
+    Price: $27.62 USD
+  - [Navy / M](https://hypesinventory.com/products/zip-up-long-sleeve-hooded-cropped-jacket?variant=47480355193085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fc7eab06-d05b-44ff-b962-e7e80e370fbd-Max.jpg?v=1777570678
+    Price: $27.62 USD
+  - [Navy / L](https://hypesinventory.com/products/zip-up-long-sleeve-hooded-cropped-jacket?variant=47480355225853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fc7eab06-d05b-44ff-b962-e7e80e370fbd-Max.jpg?v=1777570678
+    Price: $27.62 USD
+  - [Navy / XL](https://hypesinventory.com/products/zip-up-long-sleeve-hooded-cropped-jacket?variant=47480355258621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/fc7eab06-d05b-44ff-b962-e7e80e370fbd-Max.jpg?v=1777570678
+    Price: $27.62 USD
+  - [Dark Gray / S](https://hypesinventory.com/products/zip-up-long-sleeve-hooded-cropped-jacket?variant=47480355291389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/31a4fb4d-42d1-47b9-86c9-5796f8df0826-Max.jpg?v=1777570683
+    Price: $27.62 USD
+  - [Dark Gray / M](https://hypesinventory.com/products/zip-up-long-sleeve-hooded-cropped-jacket?variant=47480355324157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/31a4fb4d-42d1-47b9-86c9-5796f8df0826-Max.jpg?v=1777570683
+    Price: $27.62 USD
+  - [Dark Gray / L](https://hypesinventory.com/products/zip-up-long-sleeve-hooded-cropped-jacket?variant=47480355356925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/31a4fb4d-42d1-47b9-86c9-5796f8df0826-Max.jpg?v=1777570683
+    Price: $27.62 USD
+  - [Dark Gray / XL](https://hypesinventory.com/products/zip-up-long-sleeve-hooded-cropped-jacket?variant=47480355389693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/31a4fb4d-42d1-47b9-86c9-5796f8df0826-Max.jpg?v=1777570683
+    Price: $27.62 USD
+  - [Khaki / S](https://hypesinventory.com/products/zip-up-long-sleeve-hooded-cropped-jacket?variant=47480355422461)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/c60a4dfe-89d2-4c7b-8f66-48cfcdadbcfb-Max.jpg?v=1777570687
+    Price: $27.62 USD
+  - [Khaki / M](https://hypesinventory.com/products/zip-up-long-sleeve-hooded-cropped-jacket?variant=47480355455229)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/c60a4dfe-89d2-4c7b-8f66-48cfcdadbcfb-Max.jpg?v=1777570687
+    Price: $27.62 USD
+  - [Khaki / L](https://hypesinventory.com/products/zip-up-long-sleeve-hooded-cropped-jacket?variant=47480355487997)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/c60a4dfe-89d2-4c7b-8f66-48cfcdadbcfb-Max.jpg?v=1777570687
+    Price: $27.62 USD
+  - [Khaki / XL](https://hypesinventory.com/products/zip-up-long-sleeve-hooded-cropped-jacket?variant=47480355520765)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/c60a4dfe-89d2-4c7b-8f66-48cfcdadbcfb-Max.jpg?v=1777570687
+    Price: $27.62 USD
+  - [White / S](https://hypesinventory.com/products/zip-up-long-sleeve-hooded-cropped-jacket?variant=47480355553533)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/641d26f1-fb4e-498f-a385-059daad7cc91-Max.jpg?v=1777570693
+    Price: $27.62 USD
+  - [White / M](https://hypesinventory.com/products/zip-up-long-sleeve-hooded-cropped-jacket?variant=47480355586301)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/641d26f1-fb4e-498f-a385-059daad7cc91-Max.jpg?v=1777570693
+    Price: $27.62 USD
+  - [White / L](https://hypesinventory.com/products/zip-up-long-sleeve-hooded-cropped-jacket?variant=47480355619069)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/641d26f1-fb4e-498f-a385-059daad7cc91-Max.jpg?v=1777570693
+    Price: $27.62 USD
+  - [White / XL](https://hypesinventory.com/products/zip-up-long-sleeve-hooded-cropped-jacket?variant=47480355651837)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/641d26f1-fb4e-498f-a385-059daad7cc91-Max.jpg?v=1777570693
+    Price: $27.62 USD
+- [Women's Casual Zip Up Jacket](https://hypesinventory.com/products/womens-casual-zip-up-jacket): Step into the season with confidence in our Women's Casual Zip-Up Jacket. Designed as the perfect outerwear piece for fall, this long-sleeve coat combines a sleek, versatile look with everyday practicality. The smooth zip-up front allows for easy layering, while the convenient pockets provide a secure spot for your essentials. Women's Casual Zip Up Jacket Crafted from a soft fabric, this jacket offers just the right amount of warmth for crisp autumn days. Its classic, tailored silhouette flatters your figure without feeling restrictive, making it an ideal choice for a wide range of activities. Whether you're running errands, meeting friends for coffee, or enjoying a weekend stroll, this jacket is your go-to piece for effortless, casual style. Key Highlights: Classic Zip-Up Design: Easy to wear and style, perfect for on-the-go layering. Functional Pockets: pockets offer both style and utility for your daily needs. Comfort: Provides ideal fall warmth without the bulk of a heavy coat. Versatile Styling: The timeless design pairs effortlessly with jeans, leggings, or casual dresses. Material: 100% Polyester
+  Updated: 2026-05-01T05:38:39Z
+  Vendor: FitiqueFit
+  Product Type: Jackets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/04e24596-182f-40f7-996a-bdb031b809d4.jpg?v=1777570813
+  - [Beige brown / L](https://hypesinventory.com/products/womens-casual-zip-up-jacket?variant=47480356045053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/409bc281-a1d4-4997-86af-10dce810df26.jpg?v=1777570813
+    Price: $99.99 USD
+  - [Beige brown / M](https://hypesinventory.com/products/womens-casual-zip-up-jacket?variant=47480356077821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/409bc281-a1d4-4997-86af-10dce810df26.jpg?v=1777570813
+    Price: $99.99 USD
+  - [Beige brown / S](https://hypesinventory.com/products/womens-casual-zip-up-jacket?variant=47480356110589)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/409bc281-a1d4-4997-86af-10dce810df26.jpg?v=1777570813
+    Price: $99.99 USD
+  - [Brown / L](https://hypesinventory.com/products/womens-casual-zip-up-jacket?variant=47480356143357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/a562adc9-eb17-4252-8f54-538a2e4c75b8.jpg?v=1777570821
+    Price: $99.99 USD
+  - [Brown / M](https://hypesinventory.com/products/womens-casual-zip-up-jacket?variant=47480356176125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/a562adc9-eb17-4252-8f54-538a2e4c75b8.jpg?v=1777570821
+    Price: $99.99 USD
+  - [Brown / S](https://hypesinventory.com/products/womens-casual-zip-up-jacket?variant=47480356208893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/a562adc9-eb17-4252-8f54-538a2e4c75b8.jpg?v=1777570821
+    Price: $99.99 USD
+- [Aemi + Co Zip Up Raglan Sleeve Cropped Hoodie](https://hypesinventory.com/products/aemi-co-zip-up-raglan-sleeve-cropped-hoodie): The zip-up raglan sleeve cropped hoodie is a versatile and trendy wardrobe staple. Featuring a front zipper for easy wear and a stylish look. Raglan sleeves provide added comfort and a unique style. The cropped length adds a modern and edgy touch to any outfit. Features: Basic style, Ribbed, Pocketed Sheer: Opaque Stretch: No stretch Material composition: 50% cotton, 50% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product measurements: S:Bust 34-35 in, Waist 26-27 inM:Bust 36-37 in, Waist 28-29 inL:Bust 38-39 in, Waist 30-31 in
+  Updated: 2026-05-01T05:39:02Z
+  Vendor: Femstylo
+  Product Type: Women's Clothing
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/c4a599cd-2b9c-4f78-8591-caa73c96261f-Max.jpg?v=1777570914
+  - [S / Bone](https://hypesinventory.com/products/aemi-co-zip-up-raglan-sleeve-cropped-hoodie?variant=47480356339965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/8b4bff99-a2ab-47e4-b5ab-dd69d30fa35a-Max.jpg?v=1777570919
+    Price: $68.99 USD
+  - [M / Bone](https://hypesinventory.com/products/aemi-co-zip-up-raglan-sleeve-cropped-hoodie?variant=47480356372733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/8b4bff99-a2ab-47e4-b5ab-dd69d30fa35a-Max.jpg?v=1777570919
+    Price: $68.99 USD
+  - [L / Bone](https://hypesinventory.com/products/aemi-co-zip-up-raglan-sleeve-cropped-hoodie?variant=47480356405501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/8b4bff99-a2ab-47e4-b5ab-dd69d30fa35a-Max.jpg?v=1777570919
+    Price: $68.99 USD
+[List Continued](https://hypesinventory.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MjYzOTI4MjEzNzU3LCJsYXN0X3ZhbHVlIjoiOTI2MzkyODIxMzc1NyJ9)
 
 ## Collections
 
 - [PHOFAY Collection - Hypes Inventory](https://hypesinventory.com/collections/phofay): PHOFAY Brand Selection - Hypes Inventory
-  Updated: 2026-04-19T16:20:39Z
+  Updated: 2026-04-28T01:51:55Z
   Total Products: 15
 - [Flairé™ collection - Hypes Inventory](https://hypesinventory.com/collections/flaire™-collection): Designed to sculpt, support, and move with you. The Flairé™ Collection delivers sleek, body-contouring activewear that enhances your shape while  - Hypes Inventory
-  Updated: 2026-04-19T18:05:13Z
+  Updated: 2026-04-28T18:20:13Z
   Total Products: 24
 - [Health & Beauty - Hypes Inventory](https://hypesinventory.com/collections/health-beauty): - Hypes Inventory
-  Updated: 2026-04-19T16:20:39Z
+  Updated: 2026-04-28T01:51:50Z
   Total Products: 18
 - [Shaper™ Collection - Hypes Inventory](https://hypesinventory.com/collections/shaper™-collection): Sculpt, smooth, and enhance your natural curves with our Shaper™ Collection. Designed for comfort and confidence, each piece delivers targeted  - Hypes Inventory
-  Updated: 2026-04-19T18:01:32Z
+  Updated: 2026-04-28T01:51:54Z
   Total Products: 9
 - [Winter Collection ❄️ – Cozy. Chic. Confident. - Hypes Inventory](https://hypesinventory.com/collections/winter-collection): Embrace the chill in style with our Winter Collection, where warmth meets elegance. From plush knit beanies and fleece-lined gloves to luxurious  - Hypes Inventory
-  Updated: 2026-04-18T19:15:53Z
+  Updated: 2026-04-28T14:03:08Z
   Total Products: 21
-- [LÁVINE™ Essentials - Hypes Inventory](https://hypesinventory.com/collections/lavine™-essentials): Effortless luxury, designed for everyday elegance. The LÁVINE™ Collection features ultra-soft, elevated essentials made to flatter, move, and feel  - Hypes Inventory
-  Updated: 2026-04-18T19:15:53Z
+- [Women’s Loungewear Set | LÁVINE™ Essentials Collection](https://hypesinventory.com/collections/womens-loungewear-set-lavine): Shop women’s loungewear sets designed for comfort and style. Discover soft, flattering, and trendy pieces from LÁVINE™ Essentials perfect for everyday wear.
+  Updated: 2026-04-28T02:56:04Z
   Total Products: 9
 - [Bag Charms for Purses & Keychains – Cute Accessories | Hypes Inventory](https://hypesinventory.com/collections/bag-charms-for-purses): Shop bag charms for purses, keychains, and accessories. Cute, trendy, and gift-ready styles to elevate your bags and everyday look.
-  Updated: 2026-04-16T14:20:33Z
+  Updated: 2026-04-28T11:24:44Z
   Total Products: 30
 - [New Arrivals - Hypes Inventory](https://hypesinventory.com/collections/new-arrivals): - Hypes Inventory
-  Updated: 2026-04-19T16:40:10Z
+  Updated: 2026-04-28T18:20:13Z
   Total Products: 12
 - [Women’s Activewear – Gym Sets, Yoga Pants & Athleisure - Hypes](https://hypesinventory.com/collections/the-venus-collection): Stay confident, comfortable, and stylish with our Women’s Activewear Collection. Designed for movement and everyday wear, these pieces combine  - Hypes Inventory
-  Updated: 2026-04-20T15:59:18Z
+  Updated: 2026-04-28T17:30:48Z
   Total Products: 36
-- [The Bag Edit - Hypes Inventory](https://hypesinventory.com/collections/luggage-bags): - Hypes Inventory
-  Updated: 2026-04-18T16:48:43Z
+- [Bag Edit | Trendy Everyday Bags, Totes & Crossbody Styles](https://hypesinventory.com/collections/bag-edit): Shop The Bag Edit for stylish everyday bags, totes, handbags, and crossbody styles made to elevate your outfits with ease.
+  Updated: 2026-04-29T21:07:32Z
   Total Products: 32
-- [Mother’s Day Bags – Elegant Tote Bags & Gifts for Mom - Hypes](https://hypesinventory.com/collections/mother-s-day-bags-elegant-tote-bags-gifts-for-mom): Celebrate her with a gift she’ll use every day 💖 Stylish, lightweight tote bags designed for busy moms—perfect for work, travel, and everyday life.  - Hypes Inventory
-  Updated: 2026-04-16T14:20:33Z
+- [Mothers Day Gifts | Stylish & Practical Gift Ideas for Mom](https://hypesinventory.com/collections/mothers-day-gifts): Shop mothers day gifts designed for style and everyday use. Discover elegant bags and thoughtful gift ideas perfect for moms.
+  Updated: 2026-04-28T13:56:40Z
   Total Products: 10
 - [Handbags, Wallets & Cases](https://hypesinventory.com/collections/handbags-wallets-cases)
   Updated: 2026-04-13T04:53:38Z
@@ -9923,7 +10128,7 @@
 
 - [The Queen’s Journal 👑](https://hypesinventory.com/blogs/the-queen-s-journal-👑)
   - [✨ 5 Powerful Ways to Unlock Your Inner Queen Every Day - Hypes](https://hypesinventory.com/blogs/the-queen-s-journal-👑/unlock-your-inner-queen): ✨ 5 Powerful Ways to Unlock Your Inner Queen Every Day - Hypes
-    Updated: 2026-04-10T06:47:51Z
+    Updated: 2026-04-29T20:58:40Z
     Author: Wesley Mitchell
     Tags: activewear, athleisure, Black women fashion, black women style, confidence tips, empowering fashion, empowerment for women, everyday wear, feminine fashion, plus size, queen lifestyle, self-love, style inspiration, yoga pants
 - [News](https://hypesinventory.com/blogs/news)
@@ -9968,6 +10173,18 @@
     Updated: 2026-04-22T15:02:04Z
     Author: Hypes Inventory
     Tags: business growth, customer feedback, get more google reviews, google review nfc keychain, google reviews, growth, increase reviews, nfc, nfc business card, nfc keychain, nfc marketing tips, nfc marketing tool, nfc social media keychain, nfc tap to review, reviews
+  - [Fast Track Your Business Growth with NFC Keychain: A Proven Tool for Boosting Google Reviews](https://hypesinventory.com/blogs/business-growth-tips/fast-track-your-business-growth-with-nfc-keychain-a-proven-tool-for-boosting-google-reviews): Fast Track Your Business Growth with NFC Keychain: A Proven Tool for Boosting Google Reviews
+    Updated: 2026-04-24T15:01:36Z
+    Author: Hypes Inventory
+    Tags: business boost, customer feedback, fast business growth, get more google reviews, google review nfc keychain, google review strategy, growth, keychain tool, nfc, nfc business card, nfc keychain, nfc marketing tool, nfc social media keychain, nfc tap to review, reviews
+  - [Boost Local Business with NFC Keychain: Secret to Instant Google Reviews and Fast Growth](https://hypesinventory.com/blogs/business-growth-tips/boost-local-business-with-nfc-keychain-secret-to-instant-google-reviews-and-fast-growth): Boost Local Business with NFC Keychain: Secret to Instant Google Reviews and Fast Growth
+    Updated: 2026-04-27T15:03:04Z
+    Author: Hypes Inventory
+    Tags: business boost, customer engagement, effective review solutions., get more google reviews, google review nfc keychain, growth, instant feedback strategies, local marketing, nfc, nfc business card, nfc keychain, nfc marketing tool, nfc social media keychain, nfc tap to review, reviews
+  - [Empower Your Business Growth Fast with NFC Keychain: The Secret Tool for More Google Reviews and Customers](https://hypesinventory.com/blogs/business-growth-tips/empower-your-business-growth-fast-with-nfc-keychain-the-secret-tool-for-more-google-reviews-and-customers): Empower Your Business Growth Fast with NFC Keychain: The Secret Tool for More Google Reviews and Customers
+    Updated: 2026-04-29T15:03:46Z
+    Author: Hypes Inventory
+    Tags: business, customer feedback, enhance customer engagement, get more google reviews, google review nfc keychain, growth strategy, increase online presence, keychain tool, nfc, nfc business card, nfc keychain, nfc marketing tool, nfc social media keychain, nfc tap to review, reviews
 
 ## Store Pages
 
@@ -10007,6 +10224,8 @@
   Updated: 2026-04-10T01:31:58Z
 - [html sitemap](https://hypesinventory.com/pages/html-sitemap): Products Flairé™ High Waisted Flare Leg... Flairé™ 30” High-Waisted Flare... Matte Lipstick – PHOFAY Long-L... Pressed Powder – PHOFAY Matte ... PH...
   Updated: 2026-04-10T01:32:03Z
+- [Partner links](https://hypesinventory.com/pages/partner-links): Partner links JOLIE'S Powered by SEOAnt
+  Updated: 2026-04-24T09:32:29Z
 
 ## Policies
 
