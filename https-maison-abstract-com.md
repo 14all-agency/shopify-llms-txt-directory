@@ -10,7 +10,7 @@ The platform allows customers to browse different artist collections, explore fr
 - Timezone: Europe/London
 - Created At: 2025-10-25T13:47:11Z
 - Contact Email: info@maison-abstract.com
-- Updated At: 2026-04-24T00:00:51.137Z
+- Updated At: 2026-05-01T00:00:56.665Z
 
 ## Products
 
@@ -4773,7 +4773,7 @@ The platform allows customers to browse different artist collections, explore fr
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/8204187540966434619_2048.jpg?v=1769377704
     Price: £60.99 GBP
 - [JMC-1960-1 by Jean Michel Coulon Wall Art Print - Maison Abstract](https://maison-abstract.com/products/jmc-1960-1-by-jean-michel-coulon-wall-art-print): In JMC-1960-1, Jean Michel Coulon continues his exploration of colour as pure energy. Working in Paris during the golden age of abstraction, Coulon developed a distinct style merging French lyrical abstraction with modernist discipline. His limited public exhibitions and private devotion to painting give his works an aura of discovery. This 1960 piece reveals dense, rhythmic layers of pigment, evoking music and movement. Faithfully reproduced, it embodies the spirit of mid-century innovation and the poetic restraint that made Coulon one of France’s quiet masters of abstract art. Product features- Three paper choices: Fine Art (textured), Semi-Glossy (satin photo finish), Matte (low-sheen for artwork)- Giclée printing with vivid, fade-resistant colors- Multiple sizes and both horizontal & vertical orientations available- Paper weights: Fine Art 285 g/m²; Semi-Glossy 180–260 g/m²; Matte 189–200 g/m²- Rolled delivery for safe shipping; blanks sourced from USA and JapanCare instructions- If the print does gather any dust, you may wipe it off gently with a clean, dry cloth. - Maison Abstract
-  Updated: 2026-04-20T17:39:39Z
+  Updated: 2026-04-30T20:36:11Z
   Vendor: Printify
   Product Type: Poster
   Availability: Available
@@ -5869,7 +5869,7 @@ The platform allows customers to browse different artist collections, explore fr
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/14351440361050950260_2048.jpg?v=1768939503
     Price: £165.99 GBP
 - [Self-Portrait Black Background by Helene Schjerfbeck Wall Art Print - Maison Abstract](https://maison-abstract.com/products/self-portrait-black-background-by-helene-schjerfbeck-wall-art-print): Helene Schjerfbeck’s Self-Portrait (Black Background) stands among her most compelling works, offering an intimate window into the artist’s soul. One of Finland’s most influential painters, Schjerfbeck redefined portraiture through her subtle colour tones, simplified form, and emotional precision. Here, she depicts herself with stark honesty — her features fading into darkness, symbolising both mortality and artistic clarity. The black background isolates her expression, heightening the sense of solitude and reflection. This painting embodies Schjerfbeck’s lifelong dedication to self-examination and her pioneering move toward modernist abstraction. A deeply moving and sophisticated piece, it resonates with timeless humanity. Product features- Fine art option: textured, archival 285 g/m² paper for a traditional art feel- Semi-glossy option: bright white satin finish with high color fidelity (180–260 g/m²)- Matte option: lighter-weight, low-reflective paper for a subtle look (189–200 g/m²)- Giclée printing: vivid, lightfast colors that resist fading- Multiple sizes and orientations; rolled for safe shipping and easy framingCare instructions- If the print does gather any dust, you may wipe it off gently with a clean, dry cloth. - Maison Abstract
-  Updated: 2026-04-20T17:39:41Z
+  Updated: 2026-04-30T20:36:11Z
   Vendor: Printify
   Product Type: Poster
   Availability: Available
@@ -9957,7 +9957,7 @@ The platform allows customers to browse different artist collections, explore fr
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/20251119085228-1f0c5251-409c-6234-835e-0644bdc990d2.jpg?v=1769435267
     Price: £47.99 GBP
 - [Painting of boy by Unknown Artist Wall Art Print - Maison Abstract](https://maison-abstract.com/products/painting-of-boy-by-unknown-artist-wall-art-print): This striking portrait captures a young boy illuminated by soft, natural light against a deep blue, textured background. His thoughtful expression, crossed arms, and finely rendered features create a sense of quiet confidence and introspection. The artist’s delicate brushwork highlights the contrast between the crisp white shirt and the rich, expressive strokes surrounding him. Perfect for adding elegance and emotional depth to any room, this artwork enhances modern, minimalist, and classic interiors alike. Ideal for collectors seeking unique portrait art, this piece brings warmth, presence, and timeless charm to your home or gallery wall.Product features- Three paper choices: Fine Art (textured archival), Semi-Gloss (bright satin), Matte (soft, low-sheen)- Giclée printing for bright, fade-resistant color- Multiple sizes with horizontal and vertical orientation options- Paper weights: Fine Art 285 g/m²; Semi-Gloss and Matte options vary by supplier- Shipped rolled for safe delivery; sourced from USA and JapanCare instructions- If the print does gather any dust, you may wipe it off gently with a clean, dry cloth. - Maison Abstract
-  Updated: 2026-04-20T17:39:53Z
+  Updated: 2026-04-30T20:36:12Z
   Vendor: Printify
   Product Type: Poster
   Availability: Available
@@ -10269,7 +10269,7 @@ The platform allows customers to browse different artist collections, explore fr
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/8693128951859235975_2048.jpg?v=1768947165
     Price: £238.40 GBP
 - [Painting of girl by Unknown Artist Wall Art Print - Maison Abstract](https://maison-abstract.com/products/painting-of-girl-by-unknown-artist-wall-art-print): This captivating portrait features a young girl rendered in soft, luminous tones against a richly textured blue background. The artist’s delicate brushwork highlights her gentle expression, pale hair, and thoughtful pose, creating a serene and introspective atmosphere. Subtle details—such as the golden earring and the crisp white clothing—add elegance and refinement to the composition. The swirling blue backdrop contrasts beautifully with her calm presence, giving the piece depth and emotional resonance. Perfect for adding sophistication and quiet beauty to any interior, this artwork brings a sense of calm, sensitivity, and timeless portraiture to your space. Product features- Three paper options: Fine Art (textured archival), Semi-Glossy (bright satin), Matte (subtle, low-sheen)- Giclée print quality for bright, fade-resistant colors- Multiple sizes with horizontal and vertical layouts- Paper weights: Fine Art 285 g/m²; Semi-Glossy 180–260 g/m²; Matte 189–200 g/m²- Shipped rolled for protection; sourced blanks from USA (JONDO) and Japan (Printify Choice)Care instructions- If the print does gather any dust, you may wipe it off gently with a clean, dry cloth. - Maison Abstract
-  Updated: 2026-04-20T17:39:54Z
+  Updated: 2026-04-30T20:36:12Z
   Vendor: Printify
   Product Type: Poster
   Availability: Available
@@ -10467,7 +10467,7 @@ The platform allows customers to browse different artist collections, explore fr
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/20251119184450-1f0c577d-449a-6102-8abe-0a850ae8c9fe.jpg?v=1769457202
     Price: £60.99 GBP
 - [Painting of girl by Unknown Artist Framed Matte Canvas Classic Wall Art - Maison Abstract](https://maison-abstract.com/products/painting-of-girl-by-unknown-artist-framed-matte-canvas-classic-wall-art): This captivating portrait features a young girl rendered in soft, luminous tones against a richly textured blue background. The artist’s delicate brushwork highlights her gentle expression, pale hair, and thoughtful pose, creating a serene and introspective atmosphere. Subtle details—such as the golden earring and the crisp white clothing—add elegance and refinement to the composition. The swirling blue backdrop contrasts beautifully with her calm presence, giving the piece depth and emotional resonance. Perfect for adding sophistication and quiet beauty to any interior, this artwork brings a sense of calm, sensitivity, and timeless portraiture to your space. Product features- Greenguard Gold  latex inks for safe, vivid color- Cotton–polyester canvas with proprietary matte coating for crisp detail- Sustainably sourced radial pine frame in multiple color options- Available in horizontal, vertical, and square sizes with sawtooth hanging hardware- Non-toxic, durable printing process with bright, long-lasting colorsCare instructions- If the canvas does gather any dust, you may wipe it off gently with a clean, damp cloth. - Maison Abstract
-  Updated: 2026-04-20T17:39:54Z
+  Updated: 2026-04-30T20:36:12Z
   Vendor: Printify
   Product Type: Canvas
   Availability: Available
@@ -11875,7 +11875,7 @@ The platform allows customers to browse different artist collections, explore fr
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/8632583176123631833_2048.jpg?v=1768982917
     Price: £180.22 GBP
 - [Farbfeld Malerei (Acryl) by Unknown Artist Wall Art Print - Maison Abstract](https://maison-abstract.com/products/farbfeld-malerei-acryl-by-unknown-artist-wall-art-print): Bring bold contemporary energy into your space with this vibrant acrylic abstract painting, a striking example of modern Farbfeld Malerei (Color Field Art). Built from layered blocks of intense colour—crimson, turquoise, magenta, yellow, black, and white—the composition radiates movement and balance. Thick horizontal and vertical strokes create a textured grid that feels both structured and expressive. The artwork’s luminous palette and dynamic rhythm make it a perfect statement piece for living rooms, offices, and creative interiors. Ideal for lovers of modern abstraction, this piece adds depth, personality, and gallery-worthy sophistication to any décor. Hang it to lift a room’s mood. Let the strong horizontal and vertical shapes anchor a workspace or compliment contemporary furnishings. The layered colors read differently in bright daylight and softer evening light, so the piece evolves with your space.Choose orientation and size that match your frame — horizontal for a low, wide composition or vertical to emphasize height. With archival inks and vibrant giclée printing, the palette stays vivid over time.Product features- Three paper options: Fine art (textured), Semi-glossy (satin), Matte (subtle)- Giclée printing for bright, long-lasting colors- Multiple sizes plus horizontal and vertical orientations- Rolled shipping for safe, easy framing- Paper weights: Fine Art 285 g/m²; Semi-Glossy 180–260 g/m²; Matte 189–200 g/m²Care instructions- If the print does gather any dust, you may wipe it off gently with a clean, dry cloth. - Maison Abstract
-  Updated: 2026-04-20T17:40:00Z
+  Updated: 2026-04-30T20:36:13Z
   Vendor: Printify
   Product Type: Poster
   Availability: Available
@@ -12241,7 +12241,7 @@ The platform allows customers to browse different artist collections, explore fr
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/17578832257020158700_2048.jpg?v=1768984074
     Price: £234.72 GBP
 - [Sand by Natalia P Fernandes Wall Art Print - Maison Abstract](https://maison-abstract.com/products/sand-by-natalia-p-fernandes-wall-art-print): “Sand” by contemporary artist Natalia P. Fernandes captures the quiet poetry of natural landscapes through her signature blend of minimalism and emotional depth. Born in Portugal and influenced by the shifting textures of coastal environments, Fernandes channels her background in fine arts and environmental studies into works that explore harmony between land, light, and memory. In this painting, soft gradients and tactile brushwork evoke the warmth and movement of windswept dunes, creating a serene, meditative atmosphere. Ideal for modern interiors, “Sand” offers a refined balance of texture and calm, reflecting Fernandes’ devotion to organic beauty and thoughtful composition. Product features- Three paper choices: Fine Art (textured archival), Semi-Glossy (bright photo satin), Matte (low-sheen art-optimized)- Giclée printing for bright, long-lasting color retention- Multiple sizes available with vertical and horizontal orientations- Paper weights: Fine Art 285 g/m², Semi-Glossy 180–260 g/m², Matte 189–200 g/m²- Rolled shipping;  product sourced from USA (JONDO) and Japan (Printify Choice)Care instructions- If the print does gather any dust, you may wipe it off gently with a clean, dry cloth. - Maison Abstract
-  Updated: 2026-04-20T17:40:01Z
+  Updated: 2026-04-30T20:36:13Z
   Vendor: Printify
   Product Type: Poster
   Availability: Available
@@ -12447,7 +12447,7 @@ The platform allows customers to browse different artist collections, explore fr
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/14802539178475198248_2048.jpg?v=1769360864
     Price: £38.99 GBP
 - [Une liseuse de romans by Vincent Van Gogh Wall Art Print - Maison Abstract](https://maison-abstract.com/products/une-liseuse-de-romans-by-vincent-van-gogh-wall-art-print): In Madame Roulin Rocking the Cradle (La Berceuse), painted in 1889, Vincent van Gogh expresses maternal serenity through rhythmic brushwork and luminous color. Augustine Roulin, wife of his close friend Joseph Roulin, is depicted as the symbol of nurturing love. Created during Van Gogh’s stay in Arles, the painting reflects his yearning for peace amid emotional turbulence. The golden background and rocking motion evoke a lullaby’s gentle rhythm. This stunning reproduction embodies Van Gogh’s passion and empathy, turning any room into a warm sanctuary. Ideal for art lovers who appreciate emotional depth and timeless post-impressionist beauty. Product features- Made with semi-glossy paper for sharp color fidelity.- Available in a lighter matte paper for a classic look.- Crafted from fine art paper for an archival-quality feel.- Giclée prints ensure bright and lasting colors.- Choose from various sizes and orientations to fit your space. Care instructions- If the print does gather any dust, you may wipe it off gently with a clean, dry cloth. EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Generic brand, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Blank product sourced from USA (JONDO) and Japan (Printify Choice) Care instructions: If the print does gather any dust, you may wipe it off gently with a clean, dry cloth. - Maison Abstract
-  Updated: 2026-04-20T17:40:02Z
+  Updated: 2026-04-30T20:36:13Z
   Vendor: Printify
   Product Type: Poster
   Availability: Available
@@ -13303,7 +13303,7 @@ The platform allows customers to browse different artist collections, explore fr
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/716442165997669098_2048.jpg?v=1768983330
     Price: £27.62 GBP
 - [Weeki Wachee spring by Toni Frissell Wall Art Print - Maison Abstract](https://maison-abstract.com/products/weeki-wachee-spring-by-toni-frissell-wall-art-print): Weeki Wachee Spring captures the ethereal vision of renowned American photographer Toni Frissell, celebrated for her pioneering work in fashion, portrait, and underwater photography. Created during her groundbreaking explorations beneath the surface, this image showcases Frissell’s ability to transform water into a dreamlike stage of light, grace, and suspended movement. Her innovative use of natural spring environments—especially Florida’s crystal-clear Weeki Wachee—pushed the boundaries of photographic art in the mid-20th century. This piece reveals both her technical mastery and her poetic eye, resulting in a timeless, serene composition that continues to inspire collectors, designers, and lovers of atmospheric visual storytelling. Product features- Giclée prints with bright, fade-resistant color and deep blacks- Three paper choices: Fine Art (textured, archival), Semi-Glossy (bright satin finish), Matte (low-reflection)- Multiple sizes plus horizontal or vertical layout options- Paper weights: Fine Art 285 g/m²; Semi-Glossy 180–260 g/m²; Matte 189–200 g/m²- Shipped rolled for protection; blank product sourced from USA and JapanCare instructions- If the print does gather any dust, you may wipe it off gently with a clean, dry cloth. - Maison Abstract
-  Updated: 2026-04-20T17:40:05Z
+  Updated: 2026-04-30T20:36:14Z
   Vendor: Printify
   Product Type: Poster
   Availability: Available
@@ -13687,7 +13687,7 @@ The platform allows customers to browse different artist collections, explore fr
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/17646009119825440869_2048.jpg?v=1768983054
     Price: £446.99 GBP
 - [Raising the St George  by Unknown attributed to Joe Rosenthal Wall Art Print - Maison Abstract](https://maison-abstract.com/products/raising-the-st-george-by-unknown-attributed-to-joe-rosenthal-wall-art-print): Raising the St George is a striking reinterpretation of one of the most famous wartime photographs in history, long attributed to American photojournalist Joe Rosenthal, who captured the original Raising the Flag on Iwo Jima in 1945. While the creator of this altered artwork remains unknown, the piece draws its power from Rosenthal’s legacy of documenting resilience and sacrifice. By replacing the original flag with the St George-inspired Union motif, the artwork transforms a global symbol of victory into a fresh cultural statement. This production celebrates both the historic moment that inspired it and the creative reimagining that gives it new life today. Product features- Three paper choices: Fine Art (textured/archival), Semi-Glossy (bright satin), or Matte (subtle, low sheen)- Giclée print quality for vivid, long-lasting color and sharp detail- Multiple sizes available with horizontal and vertical orientation options- Paper weights: Fine Art 285 g/m²; Semi-Glossy 180–260 g/m²; Matte 189–200 g/m² depending on supplier- Carefully rolled for shipping; blank product sourced from USA (JONDO) and Japan (Printify Choice) — adults onlyCare instructions- If the print does gather any dust, you may wipe it off gently with a clean, dry cloth. - Maison Abstract
-  Updated: 2026-04-20T17:40:07Z
+  Updated: 2026-04-30T20:36:14Z
   Vendor: Printify
   Product Type: Poster
   Availability: Available
@@ -13893,7 +13893,7 @@ The platform allows customers to browse different artist collections, explore fr
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/13698573342511651059_2048.jpg?v=1768983854
     Price: £17.55 GBP
 - [Raising the Union Jack by Unknown attributed to Joe Rosenthal Wall Art Print - Maison Abstract](https://maison-abstract.com/products/raising-the-union-jack-by-unknown-attributed-to-joe-rosenthal-wall-art-print): Raising the Union Jack is a striking reinterpretation of one of the most famous wartime photographs in history, long attributed to American photojournalist Joe Rosenthal, who captured the original Raising the Flag on Iwo Jima in 1945. While the creator of this altered artwork remains unknown, the piece draws its power from Rosenthal’s legacy of documenting resilience and sacrifice. By replacing the original flag with the St George-inspired Union motif, the artwork transforms a global symbol of victory into a fresh cultural statement. This production celebrates both the historic moment that inspired it and the creative reimagining that gives it new life today. Product features- Three paper choices: Fine Art (textured, archival), Semi-Glossy (bright, satin finish), Matte (low sheen for artwork)- Giclée printing for bright, long-lasting colors and rich blacks- Multiple sizes available with horizontal and vertical orientation options- Paper weights listed: Fine Art 285 g/m², Semi-Glossy 180–260 g/m², Matte 189–200 g/m²- Shipped rolled for protection; sourced blanks from USA and Japan;  productCare instructions- If the print does gather any dust, you may wipe it off gently with a clean, dry cloth. - Maison Abstract
-  Updated: 2026-04-20T17:40:07Z
+  Updated: 2026-04-30T20:36:14Z
   Vendor: Printify
   Product Type: Poster
   Availability: Available
@@ -14505,7 +14505,7 @@ The platform allows customers to browse different artist collections, explore fr
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/20251130113625-1f0cde0c-dd35-6cfc-92a1-e24ceb83195e.jpg?v=1768991910
     Price: £85.68 GBP
 - [Bride and Bridesmaid by Unknown Artist Matte Canvas Wall Art Print - Maison Abstract](https://maison-abstract.com/products/bride-and-bridesmaid-by-unknown-artist-matte-canvas-wall-art-print): This vibrant contemporary painting presents a striking expressive portrait of a woman and child, rendered in bold colour and energetic brushwork. Set against a radiant yellow background, the figures appear almost dreamlike, their forms shaped by sweeping strokes of red, blue, pink, and white. The woman’s flowing dress and the child’s oversized bow evoke themes of celebration, heritage, and memory. Rich texture and layered paint give the piece a lively, modern character while maintaining an emotional warmth. Perfect for collectors of contemporary expressionism, this artwork adds colour, movement, and personality to any interior space. Product features- Soft rubber dots on back corners keep the canvas steady when hung- Printed with UL- Greenguard Gold inks for high-quality, low-emission color- Stretched over FSC-sourced radiata pine frame for renewable, sustainable construction- Durable cotton-poly canvas printed with non-toxic latex inks- Available in 60 sizes with vertical, horizontal, and square orientation optionsCare instructions- If the canvas does gather any dust, you may wipe it off gently with a clean, damp cloth. - Maison Abstract
-  Updated: 2026-04-20T17:40:10Z
+  Updated: 2026-04-30T20:36:14Z
   Vendor: Printify
   Product Type: Canvas
   Availability: Available
@@ -16735,7 +16735,7 @@ The platform allows customers to browse different artist collections, explore fr
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/5547410020689386651_2048.jpg?v=1769014612
     Price: £40.73 GBP
 - [Marilyn Monroe attributed to Voke Wall Pop Art Poster - Maison Abstract](https://maison-abstract.com/products/marilyn-monroe-attributed-to-voke-wall-pop-art-poster): This striking contemporary portrait attributed Voke celebrates the timeless glamour and magnetic charm of Marilyn Monroe, reimagined through bold colour and expressive brushwork. Bursting with vibrant reds, electric blues and warm golden tones, the artwork transforms the legendary Hollywood icon into a modern pop-art masterpiece. Voke’s dynamic layering and confident strokes create a sense of movement and emotional intensity, giving the classic muse a fresh, energetic presence. Perfect for modern interiors, studios and statement walls, this piece captures the allure, strength and cinematic legacy of Marilyn Monroe while adding a dramatic, eye-catching focal point to any space. Product features- Three paper choices: Fine art, Semi-glossy, Matte- Giclée prints with bright, fade-resistant color- Paper weights from 180–285 g/m² depending on option- Multiple sizes and horizontal/vertical orientations- Ships rolled for safe delivery; sourced from USA and JapanCare instructions- If the print does gather any dust, you may wipe it off gently with a clean, dry cloth. - Maison Abstract
-  Updated: 2026-04-20T17:40:23Z
+  Updated: 2026-04-30T20:36:14Z
   Vendor: Printify
   Product Type: Poster
   Availability: Available
@@ -19411,7 +19411,7 @@ The platform allows customers to browse different artist collections, explore fr
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/10820897627719633585_2048.jpg?v=1766403047
     Price: £85.68 GBP
 - [US Marshals with Young Ruby Bridges on School Steps by Unknown  Black & White Civil Rights Photograph Wall Art Print - Maison Abstract](https://maison-abstract.com/products/us-marshals-with-young-ruby-bridges-on-school-steps-by-unknown-black-white-civil-rights-photograph-wall-art-print): This powerful black-and-white photograph captures a defining moment of the American civil rights era. A young schoolgirl descends the steps of a public building, flanked by U.S. marshals, embodying both vulnerability and extraordinary courage. The formal attire, stark architecture, and guarded presence create a striking contrast between childhood innocence and institutional force. Composed with documentary precision, the image reflects the tensions of a nation confronting segregation and social change. As wall art, it serves as a timeless reminder of resilience, justice, and the individuals who stood at the center of historic transformation. Each poster ships rolled for safe delivery and is available in horizontal or vertical formats and a range of sizes. Thoughtful materials and archival giclée printing mean the image maintains its depth and clarity with regular light exposure. Whether you’re curating a personal wall gallery or searching for a quiet piece to anchor a reading nook, these prints add a restrained, timeless focal point.Product features- Three paper options: Fine Art (textured, archival), Semi-Glossy (bright, satin finish), Matte (low reflection, art-optimized)- Giclée printing for vivid, long-lasting black-and-white tones- Multiple sizes with horizontal and vertical orientations- Paper weights: Fine Art 285 g/m²; Semi-Glossy 180–260 g/m²; Matte 189–200 g/m²- Ships rolled for secure delivery; sourced blanks from USA and JapanCare instructions- If the print does gather any dust, you may wipe it off gently with a clean, dry cloth. - Maison Abstract
-  Updated: 2026-04-20T17:40:39Z
+  Updated: 2026-04-30T20:36:15Z
   Vendor: Printify
   Product Type: Poster
   Availability: Available
@@ -19609,7 +19609,7 @@ The platform allows customers to browse different artist collections, explore fr
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/6484097338969783506_2048.jpg?v=1766409499
     Price: £31.15 GBP
 - [US Marshals with Young Ruby Bridges on School Steps by Unknown  Black & White Civil Rights Photograph Framed Wall Art Print - Maison Abstract](https://maison-abstract.com/products/us-marshals-with-young-ruby-bridges-on-school-steps-by-unknown-black-white-civil-rights-photograph-framed-wall-art-print): This powerful black-and-white photograph captures a defining moment of the American civil rights era. A young schoolgirl descends the steps of a public building, flanked by U.S. marshals, embodying both vulnerability and extraordinary courage. The formal attire, stark architecture, and guarded presence create a striking contrast between childhood innocence and institutional force. Composed with documentary precision, the image reflects the tensions of a nation confronting segregation and social change. As wall art, it serves as a timeless reminder of resilience, justice, and the individuals who stood at the center of historic transformation. Product features- Two paper choices: 310 gsm fine art (textured) or 260 gsm semi-gloss (bright photo finish)- Matte black 100% pinewood frame with brown paper backing- Shatter‑proof plexiglass cover for safe, clear display- Pre‑installed hanging hardware and rubber bumpers for easy, level mounting- Available in 10 sizes with horizontal and vertical orientation optionsCare instructions- Clean framed prints with a slightly wet cloth when necessary. - Maison Abstract
-  Updated: 2026-04-20T17:40:40Z
+  Updated: 2026-04-30T20:36:15Z
   Vendor: Printify
   Product Type: Poster
   Availability: Available
@@ -19855,7 +19855,7 @@ The platform allows customers to browse different artist collections, explore fr
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/13242788871005619535_2048.jpg?v=1766662715
     Price: £86.35 GBP
 - [People Communicating by Unknown Abstract Framed Minimalist Wall Art Print - Maison Abstract](https://maison-abstract.com/products/people-communicating-by-unknown-abstract-framed-minimalist-wall-art-print): This abstract composition explores the quiet tension between form and emptiness. Soft, organic shapes appear to float across a warm, neutral ground, their blurred edges suggesting movement, diffusion, and chance. The restrained palette of browns and creams creates a calm, contemplative atmosphere, inviting slow observation. The work evokes natural processes—ink spreading through paper, stains forming unpredictably—while maintaining a deliberate sense of balance. Minimal yet expressive, the composition speaks to modern abstraction’s interest in spontaneity, materiality, and the beauty of imperfection. A framed matte canvas print that brings subtle, modern texture to quiet interiors. The soft cream background and scattered organic spots lend an aged, film-like quality—an abstract whisper rather than a shout. Mounted on a slim pine frame with a matte black finish, the piece reads both contemporary and lived-in. It hangs easily with sawtooth hardware and arrives ready to display, adding a gentle focal point over a bedside table, in a study, or along a gallery wall.Product features- Greenguard Gold  inks for safe, high-fidelity prints- Sustainable pine frame from FSC- renewable forests- Durable cotton/polyester canvas with proprietary matte coating- Non-toxic latex inks for bright, long-lasting color- Available in multiple sizes and orientations; sawtooth hanging hardware includedCare instructions- If the canvas does gather any dust, you may wipe it off gently with a clean, damp cloth. - Maison Abstract
-  Updated: 2026-04-20T17:40:43Z
+  Updated: 2026-04-30T20:36:15Z
   Vendor: Printify
   Product Type: Canvas
   Availability: Available
@@ -19921,7 +19921,7 @@ The platform allows customers to browse different artist collections, explore fr
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/10742492511595238007_2048.jpg?v=1766747946
     Price: £170.18 GBP
 - [People Communicating by Unknown Abstract Matte Canvas Wall Art Print - Maison Abstract](https://maison-abstract.com/products/people-communicating-by-unknown-abstract-matte-canvas-wall-art-print): This abstract composition explores the quiet tension between form and emptiness. Soft, organic shapes appear to float across a warm, neutral ground, their blurred edges suggesting movement, diffusion, and chance. The restrained palette of browns and creams creates a calm, contemplative atmosphere, inviting slow observation. The work evokes natural processes—ink spreading through paper, stains forming unpredictably—while maintaining a deliberate sense of balance. Minimal yet expressive, the composition speaks to modern abstraction’s interest in spontaneity, materiality, and the beauty of imperfection. A minimalist stretched matte canvas that brings quiet, contemplative energy to a room. Soft cream tones are interrupted by organic, ink-like dots and blots that feel both accidental and deliberate — like fragments of a memory or the residue of a slow, meditative process. The lightly textured cotton-poly canvas sits on a slim 1.25" pine stretcher and is printed with low-VOC, UL- Greenguard Gold latex inks for vivid, long-lasting color. Rubber corner dots and included back-hanging hardware keep the piece steady and easy to hang. Works well as a subtle focal point above a sofa, in a calm reading nook, or grouped with other abstract pieces to build a curated wall composition.Product features- Matte cotton-poly canvas stretched over 1.25" radiata pine frame- Printed with non-toxic, UL- Greenguard Gold latex inks- Soft rubber dots on back corners to prevent slipping and included hanging hardware- Sustainably sourced pine frame from FSC- renewable forests- Available in multiple orientations and sizes; slight size tolerance of +/- 1/8"Care instructions- If the canvas does gather any dust, you may wipe it off gently with a clean, damp cloth. - Maison Abstract
-  Updated: 2026-04-20T17:40:43Z
+  Updated: 2026-04-30T20:36:16Z
   Vendor: Printify
   Product Type: Canvas
   Availability: Available
@@ -20832,7 +20832,7 @@ The platform allows customers to browse different artist collections, explore fr
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/15516780654106776143_2048.jpg?v=1767904177
     Price: £50.38 GBP
 - [Vivid 20 by Orit Fuchs Canvas Wall Art Print - Maison Abstract](https://maison-abstract.com/products/vivid-20-by-orit-fuchs-canvas-wall-art-print): Vivid 20 by Orit Fuchs exemplifies the artist’s contemporary approach to abstraction, rooted in emotional expression and intuitive process. Known for her bold color relationships and textured surfaces, Fuchs draws on modern expressionist influences to create works that explore inner landscapes rather than literal form. In this painting, vibrant hues and layered brushwork interact dynamically, producing a sense of movement and depth. Vivid 20 reflects Fuchs’ commitment to balancing spontaneity with structure, resulting in a composition that feels both energetic and resolved, inviting viewers to engage emotionally with its powerful visual language. This stretched matte canvas brings bold, modern portrait art into any space with bright color, clean lines, and museum-quality print clarity. The image’s deep navy background and vibrant pop of red and orange create a lively focal point — a confident, stylish presence that complements contemporary living rooms, bedrooms, or studio walls. Printed with UL- Greenguard Gold latex inks on a cotton-poly canvas and stretched over sustainably sourced radiata pine, the piece looks polished from every angle thanks to a crisp 1.25" profile and soft rubber dots that keep it steady when hung. Choose horizontal, vertical, or square orientations and from a wide range of sizes to fit your wall and composition needs. Slight size variations may occur due to the production process.Product features- Museum-quality prints using Greenguard Gold latex inks for vivid, durable color- Stretched over 1.25" sustainable radiata pine frame with back-hanging hardware- Soft rubber dots on back corners to protect walls and keep the canvas securely in place- Cotton-poly composite matte canvas with unique coating for exceptional image detail- Available in horizontal, vertical, and square formats across 60 sizes; tolerance +/- 1/8"Care instructions- If the canvas does gather any dust, you may wipe it off gently with a clean, damp cloth. - Maison Abstract
-  Updated: 2026-04-20T17:40:48Z
+  Updated: 2026-04-30T20:36:16Z
   Vendor: Printify
   Product Type: Canvas
   Availability: Available
@@ -21000,7 +21000,7 @@ The platform allows customers to browse different artist collections, explore fr
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/8488521509498521199_2048.jpg?v=1767905469
     Price: £159.45 GBP
 - [Vivid 81 by Orit Fuchs Matte Canvas Wall Art Print - Maison Abstract](https://maison-abstract.com/products/vivid-81-by-orit-fuchs-matte-canvas-wall-art-print): In Vivid 81, Orit Fuchs delivers a bold abstract work characterized by rich color relationships and expressive surface detail. Influenced by modern abstraction and expressionism, Fuchs approaches painting as an intuitive process shaped by experience and emotion. Her artistic background informs the structured yet energetic composition, where layered textures create movement and depth. Vivid 81 stands as a striking example of her mature style, making it an ideal statement piece for contemporary interiors. The painting’s vitality and balance ensure lasting visual impact for collectors and design-conscious spaces. Bright, bold, and playfully modern — this stretched matte canvas turns a quirky pop-portrait into wall-ready art. The image of a sunlit woman biting into a juicy slice of watermelon feels impulsive and summer-sweet: warm tones, glossy sunglasses, and confident brushlike shapes that bring energy to kitchens, studios, and living rooms. Printed with low-VOC GREENGUARD Gold inks on a cotton-poly canvas, the colors stay vivid while the matte finish reduces glare for a relaxed, gallery-style look. The panel arrives stretched on a sustainable radiata pine frame with soft rubber corner dots and ready-to-hang hardware, so the piece sits flat and secure against the wall the moment you unbox it.Product features- Matte cotton-poly canvas printed with GREENGUARD Gold latex inks- Stretched on sustainable radiata pine frame with back hanging included- Soft rubber dots on bottom corners to keep canvas steady when hung- Available in horizontal, vertical, and square orientations across 60 sizes- Printed using non-toxic, non-flammable latex inks; small size tolerance +/- 1/8" (3.2mm)Care instructions- If the canvas does gather any dust, you may wipe it off gently with a clean, damp cloth. - Maison Abstract
-  Updated: 2026-04-20T17:40:49Z
+  Updated: 2026-04-30T20:36:16Z
   Vendor: Printify
   Product Type: Canvas
   Availability: Available
@@ -21022,7 +21022,7 @@ The platform allows customers to browse different artist collections, explore fr
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/14684749803769215169_2048.jpg?v=1767905899
     Price: £85.68 GBP
 - [Vivid 63 by Orit Fuchs Matte Framed Canvas Wall Art - Maison Abstract](https://maison-abstract.com/products/vivid-63-by-orit-fuchs-matte-framed-canvas-wall-art): Vivid 63 stands as a vivid example of Orit Fuchs’s dynamic visual language, where oil and acrylic meld into a powerful portrait that commands attention. Fuchs—an artist and storyteller living in Tel Aviv—shapes her striking female figures from a lifetime of creative exploration, spanning painting, sculpture, and design. Her early career as a successful art director informs the work’s nuanced engagement with gender roles, cultural imagery, and self-expression. This piece’s bold palette and thoughtful composition capture a moment of introspection, inviting the viewer to engage with the emotional and cultural layers Fuchs consistently unearths. This matte canvas print brings bold pop-art attitude to any wall. A stylized portrait with bright pinks and southwestern accents sits on a smooth, low-reflective surface that keeps colors punchy without glare. The slender black pine frame gives the piece a modern, gallery-ready edge while the muted matte finish makes it easy to place under soft lighting — from living rooms to reading nooks. It hangs cleanly with included sawtooth hardware and pairs naturally with mixed-media gallery walls or solitary statement spaces.The artwork feels playful and a little secretive: a confident figure tipping a finger to her lips against a warm background. It suits someone who curates interiors with personality — collectors of contemporary pop illustration, makers who love color-forward décor, and anyone outfitting a studio, boutique, or bedroom with chic, tongue-in-cheek charm. Bring this framed matte canvas into a space to add a bright focal point that reads both modern and comfortable.Product features- Matte, low-reflective coating for deep, glare-free colors- Cotton/polyester composite canvas with proprietary coating for sharp detail- Printed with non-toxic latex inks and UL- Greenguard Gold pigments- Sustainably sourced pine frame; multiple sizes and frame colors available- Sawtooth hanging hardware included; horizontal, vertical, and square optionsCare instructions- If the canvas does gather any dust, you may wipe it off gently with a clean, damp cloth. - Maison Abstract
-  Updated: 2026-04-20T17:40:50Z
+  Updated: 2026-04-30T20:36:16Z
   Vendor: Printify
   Product Type: Canvas
   Availability: Available
@@ -21208,7 +21208,7 @@ The platform allows customers to browse different artist collections, explore fr
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/15386185302578198141_2048.jpg?v=1767961993
     Price: £225.80 GBP
 - [Vivid 63 by Orit Fuchs Canvas Wall Art Matte Stretched - Maison Abstract](https://maison-abstract.com/products/vivid-63-by-orit-fuchs-canvas-wall-art-matte-stretched): Painted in 2019, Vivid 63 is part of Orit Fuchs’s iconic VIVID Series, known for its contemporary portrayal of women with bold color and graphic refinement. Fuchs—who lives and works in Tel Aviv—brings a multidisciplinary background to her practice, ranging from typography and illustration to sculpture, all rooted in a deep understanding of visual storytelling. Her experience in  and design gives her portraits a compelling pop-infused edge, while her artistic vision reveals layered narratives of strength, attitude, and presence. Vivid 63 resonates as both a fashion-forward portrait and a cultural vignette. Bright, bold, and a little mischievous — this stretched matte canvas brings pop-art attitude to a room without shouting for attention. The stylized portrait, with its soft skin tones, candy-pink background, and colorful southwestern hatband, reads like a confident whisper on the wall. The slim 1.25" depth keeps the piece contemporary and gallery-ready; it hangs clean and flat so the artwork becomes the focal point of a bedroom, studio, or entryway. Use it to add a splash of playful sophistication to a curated gallery wall or let it stand alone as a statement that’s both modern and subtly provocative.Product features- Durable cotton-poly canvas with matte finish for low-glare, museum-quality images.- Stretched on a 1.25" radiata pine frame sourced from renewable FSC- forests.- Printed with non-toxic, UL- Greenguard Gold latex inks for vivid, long-lasting color.- Soft rubber dots on the back keep the canvas stable when hung; back hanging hardware included.- Available in multiple orientations and 60 size options; slight size tolerance +/- 1/8" due to production.Care instructions- If the canvas does gather any dust, you may wipe it off gently with a clean, damp cloth. - Maison Abstract
-  Updated: 2026-04-20T17:40:50Z
+  Updated: 2026-04-30T20:36:17Z
   Vendor: Printify
   Product Type: Canvas
   Availability: Available
@@ -21918,7 +21918,7 @@ The platform allows customers to browse different artist collections, explore fr
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/12290671158764011556_2048.jpg?v=1768226003
     Price: £200.38 GBP
 - [Vivid 2 by Orit Fuchs Matte Canvas Framed Wall Art - Maison Abstract](https://maison-abstract.com/products/vivid-2-by-orit-fuchs-matte-canvas-framed-wall-art): Vivid 2 is a dynamic abstract work by contemporary artist Orit Fuchs, whose practice explores colour, emotion, and intuitive expression. Influenced by modern abstraction and colour-field traditions, Fuchs creates compositions that prioritise movement and feeling over representation. In this painting, bold layers of pigment interact with gestural marks, producing a sense of rhythm and spontaneous energy. The vibrant palette and textured surface invite viewers into an immersive visual experience. Vivid 2 reflects Fuchs’s commitment to emotional authenticity, using abstraction as a language to communicate intensity, balance, and inner vitality. A bold, framed matte canvas that brings pop-art edge to any wall. This multi-color piece features high-contrast, graphic illustration with sharp lines and vivid hues printed using UL- Greenguard Gold and non-toxic latex inks. The cotton-poly canvas composite has a proprietary coating for crisp detail, stretched over a sustainably sourced pine frame and finished with sawtooth hardware for easy hanging. It sits confidently in living rooms, studios, or office nooks — a conversation-starting accent that reads modern, playful, and artful.Product features- UL- Greenguard Gold printing with non-toxic latex inks- Cotton-poly canvas composite with proprietary coating for sharp, vibrant color- Stretched on sustainably sourced pine frame (FSC) with multiple sizes/colors- Matte finish, framed presentation with sawtooth hanging hardware included- Available in horizontal, vertical, and square orientationsCare instructions- If the canvas does gather any dust, you may wipe it off gently with a clean, damp cloth. - Maison Abstract
-  Updated: 2026-04-20T17:40:54Z
+  Updated: 2026-04-30T20:36:17Z
   Vendor: Printify
   Product Type: Canvas
   Availability: Available
@@ -21972,7 +21972,7 @@ The platform allows customers to browse different artist collections, explore fr
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/15935957346591191659_2048.jpg?v=1768226371
     Price: £159.45 GBP
 - [Vivid 2 by Orit Fuchs Matte Stretched Canvas Wall Art - Maison Abstract](https://maison-abstract.com/products/vivid-2-by-orit-fuchs-matte-stretched-canvas-wall-art): Created by Orit Fuchs, a contemporary abstract artist known for her expressive use of colour, Vivid 2 exemplifies an intuitive and emotionally driven approach to painting. Fuchs draws on influences from modern abstraction, allowing colour relationships and painterly gestures to guide the composition. The work’s layered textures and saturated hues generate depth and movement, encouraging personal interpretation. Rather than fixed narrative, Vivid 2 offers an open visual dialogue, reflecting the artist’s belief in abstraction as a direct emotional experience. The painting stands as a celebration of spontaneity, energy, and expressive freedom. A vibrant stretched canvas print that brings pop-art attitude to any wall. Printed with UL- Greenguard Gold latex inks on a cotton-poly canvas, the artwork’s bold lines and glossy tones remain true and fade-resistant. The image is hand-stretched over a 1.25" pine frame sourced from FSC- renewable forests, with soft rubber dots on the back for secure, scratch-free display and included hanging hardware for easy installation. Lightweight yet sturdy, this canvas adds a playful, modern focal point to living rooms, studios, or boutique spaces — it’s designed to sit confidently above a shelf or anchor a gallery wall with instant personality.Product features- UL- Greenguard Gold latex inks for vivid, non-toxic printing- Stretched over 1.25" radiata pine frame from renewable FSC forests- Durable cotton-poly canvas with unique JONDO coating for sharp color and detail- Soft rubber dots on back to prevent slipping and protect surfaces; back hanging included- Available in horizontal, vertical and square orientations across 60 sizes; slight size tolerance +/- 1/8"Care instructions- If the canvas does gather any dust, you may wipe it off gently with a clean, damp cloth. - Maison Abstract
-  Updated: 2026-04-20T17:40:55Z
+  Updated: 2026-04-30T20:36:17Z
   Vendor: Printify
   Product Type: Canvas
   Availability: Available
@@ -24988,8 +24988,8 @@ The platform allows customers to browse different artist collections, explore fr
   Updated: 2026-02-15T01:47:12Z
   Total Products: 0
 - [Framed Matte Canvas - Maison Abstract](https://maison-abstract.com/collections/framed-matte-canvas): Discover our Framed Art Matte Canvas Collection — a curated selection of timeless and contemporary designs created to elevate any space. From classic masterpieces by renowned artists to modern abstract expressions, each canvas captures the beauty, emotion, and creativity of art in every detail. Printed on premium museum-quality paper, our art canvas bring gallery-worthy aesthetics into your home, office, or studio. Whether you prefer vibrant color, minimalist tones, or vintage charm, our collection offers styles to suit every taste and décor. Transform your walls into a personal gallery and celebrate your passion for art with every piece. - Maison Abstract
-  Updated: 2026-04-20T16:25:28Z
-  Total Products: 254
+  Updated: 2026-04-30T20:15:53Z
+  Total Products: 255
 - [Henri Matisse - Maison Abstract](https://maison-abstract.com/collections/henri-matisse): Henri Matisse (1869–1954) was one of the most influential artists of the 20th century, celebrated for his bold colour, expressive simplicity and groundbreaking role in Fauvism. Throughout his career, Matisse sought to create art that conveyed joy, balance and emotional clarity. His paintings, drawings and cut-outs are instantly recognisable for their vibrant palettes, fluid lines and harmonious compositions. Matisse believed that art should offer comfort and beauty, a philosophy reflected across his lifelong body of work. Today, his creations continue to inspire modern interiors, making Matisse-themed wall art a timeless choice for collectors and design-focused homes. - Maison Abstract
   Updated: 2026-02-15T01:47:13Z
   Total Products: 0
@@ -25006,11 +25006,11 @@ The platform allows customers to browse different artist collections, explore fr
   Updated: 2026-02-15T01:47:48Z
   Total Products: 0
 - [Framed Posters - Maison Abstract](https://maison-abstract.com/collections/framed-posters): Discover our Framed Art Posters Collection — a curated selection of timeless and contemporary designs created to elevate any space. From classic masterpieces by renowned artists to modern abstract expressions, each poster captures the beauty, emotion, and creativity of art in every detail. Printed on premium museum-quality paper, our art posters bring gallery-worthy aesthetics into your home, office, or studio. Whether you prefer vibrant color, minimalist tones, or vintage charm, our collection offers styles to suit every taste and décor. Transform your walls into a personal gallery and celebrate your passion for art with every piece. - Maison Abstract
-  Updated: 2026-04-20T16:25:28Z
-  Total Products: 178
+  Updated: 2026-04-30T20:12:58Z
+  Total Products: 179
 - [Matte Canvas - Maison Abstract](https://maison-abstract.com/collections/matte-canvas): Discover our Matte Canvas Collection — a curated selection of timeless and contemporary designs created to elevate any space. From classic masterpieces by renowned artists to modern abstract expressions, each canvas captures the beauty, emotion, and creativity of art in every detail. Printed on premium museum-quality paper, our art canvas bring gallery-worthy aesthetics into your home, office, or studio. Whether you prefer vibrant color, minimalist tones, or vintage charm, our collection offers styles to suit every taste and décor. Transform your walls into a personal gallery and celebrate your passion for art with every piece. - Maison Abstract
-  Updated: 2026-04-20T16:25:28Z
-  Total Products: 259
+  Updated: 2026-04-30T20:17:37Z
+  Total Products: 260
 - [Natalija Miladinović - Maison Abstract](https://maison-abstract.com/collections/natalija-miladinovic): Natalija Miladinović is a Serbian contemporary artist known for her emotionally charged abstracts and symbolic storytelling. Her work explores inner strength, intuition and personal transformation, blending bold colour palettes with expressive, fluid brushwork. Miladinović’s paintings often reflect the invisible emotional worlds that shape human experience, creating art that feels both powerful and deeply introspective. Influenced by European modernism and her own cultural heritage, she crafts pieces that radiate movement, energy and spiritual depth. Perfect for modern interiors, her artworks bring warmth, inspiration and a striking contemporary elegance to any space, making them ideal for collectors seeking meaningful visual expression. - Maison Abstract
   Updated: 2026-02-15T01:47:13Z
   Total Products: 0
@@ -25156,8 +25156,8 @@ The platform allows customers to browse different artist collections, explore fr
   Updated: 2026-04-20T16:25:30Z
   Total Products: 34
 - [Portraits - Maison Abstract](https://maison-abstract.com/collections/portraits): Abstract Portraits is a striking collection that reimagines the human form through bold shapes, expressive lines, and layered colour. Rather than focusing on realistic detail, these artworks capture mood, emotion, and identity in a modern, artistic way.
-  Updated: 2026-04-20T16:25:30Z
-  Total Products: 65
+  Updated: 2026-04-30T20:22:15Z
+  Total Products: 67
 - [Landscape - Maison Abstract](https://maison-abstract.com/collections/landscape): Abstract Landscape is a modern exploration of nature, expressed through flowing forms, layered textures, and expressive colour. Rather than depicting a specific place, the artwork captures the feeling of open horizons, shifting light, and natural movement. Subtle blends and bold contrasts create depth and atmosphere, inviting the viewer to interpret the scene in their own way.
   Updated: 2026-04-20T16:25:30Z
   Total Products: 28
@@ -25177,11 +25177,11 @@ The platform allows customers to browse different artist collections, explore fr
   Updated: 2026-04-20T16:25:31Z
   Total Products: 34
 - [Canvas-Landscape - Maison Abstract](https://maison-abstract.com/collections/canvas-landscape): - Maison Abstract
-  Updated: 2026-04-20T16:25:31Z
+  Updated: 2026-04-24T11:42:27Z
   Total Products: 31
 - [Canvas-Portraits - Maison Abstract](https://maison-abstract.com/collections/canvas-portraits): - Maison Abstract
-  Updated: 2026-04-20T16:25:31Z
-  Total Products: 69
+  Updated: 2026-04-30T20:17:37Z
+  Total Products: 70
 - [Canvas-Abstract - Maison Abstract](https://maison-abstract.com/collections/canvas-abstract): - Maison Abstract
   Updated: 2026-04-20T16:25:32Z
   Total Products: 29
@@ -25198,7 +25198,7 @@ The platform allows customers to browse different artist collections, explore fr
   Updated: 2026-04-20T16:25:32Z
   Total Products: 31
 - [Framed-Canvas-Portraits - Maison Abstract](https://maison-abstract.com/collections/framed-canvas-portraits): - Maison Abstract
-  Updated: 2026-04-20T16:25:32Z
+  Updated: 2026-04-30T20:47:49Z
   Total Products: 71
 - [Framed-Canvas-Abstract - Maison Abstract](https://maison-abstract.com/collections/framed-canvas-abstract): - Maison Abstract
   Updated: 2026-04-20T16:25:33Z
