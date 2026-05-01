@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-03-17T20:45:18Z
 - Contact Email: art@grahamwatts.art
-- Updated At: 2026-04-23T15:38:37.508Z
+- Updated At: 2026-05-01T00:00:27.397Z
 
 ## Products
 
@@ -310,7 +310,7 @@
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/snowcat-serenity-5402984.jpg?v=1774910675
   Price: $369.00 CAD
 - [Wildlife painting "Grizz" – Grizzly Bear](https://grahamwatts.art/products/wildlife-painting-grizz-grizzly-bear): Wildlife painting called "Grizz" is a bold and commanding portrait of a grizzly bear emerging from the water, painted in rich, lifelike detail. Measuring 30 by 40 inches. Set against a soft grey sky, this wildlife painting creates a striking contrast between wilderness and serenity—inviting viewers to connect with the spirit of the wild up close.
-  Updated: 2026-04-21T06:33:28Z
+  Updated: 2026-04-28T21:38:07Z
   Vendor: Canadian Art By Local Artist Graham Watts Vancouver To Whistler
   Product Type: 🟢 Buy Original Art / Living Colours of the Wild - Collection
   Availability: Available
@@ -334,7 +334,7 @@
 ## Collections
 
 - [Home page](https://grahamwatts.art/collections/frontpage): Discover original paintings, limited edition prints, and fine art cards inspired by Vancouver and Whistler landscapes. Fast shipping in Canada and USA. Elevate your space with local art Graham Watts original paintings or limited‑edition prints. ★★★★★ Rated 4.9/5.0 by 100+ Collectors Express Shipping via Canada PostSecure Checkout with  or PayPal100% Satisfaction Guarantee7-Day Returns (return shipping at collector’s expense)
-  Updated: 2026-04-20T18:33:22Z
+  Updated: 2026-04-28T21:36:43Z
   Total Products: 2
 - [Fine Art Limited Editions](https://grahamwatts.art/collections/fine-art-limited-editions): Fine Art Limited Editions - Whether you’re an experienced art collector or buying your very first piece, the right artwork is the one that creates a genuine connection—something that feels meaningful, brings presence to your space, and continues to resonate every time you live with it, whether that’s an original painting or one of my vibrant fine art prints.
   Updated: 2026-04-21T20:41:29Z
