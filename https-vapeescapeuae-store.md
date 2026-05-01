@@ -1,12 +1,220 @@
 # Vape Escape UAE (https://vapeescapeuae.store)
 
+> Licensed ESMA- vape retailer in Business Bay, Dubai. Sells 500+ authentic vape products. Same-day delivery across Dubai. UAE-wide shipping.
+
+- Business Name: Vape Escape UAE
+- Website: https://vapeescapeuae.store
+- Store Address: Shop No. 2, Zada Tower, Business Bay, Dubai, UAE
+- Phone / WhatsApp: +971 52 769 2567
+- Secondary WhatsApp: +971 58 636 7801
+- Email: info@vapeescapeuae.store
+- Hours: Daily 10:00 AM – 12:30 AM (open 7 days, including weekends and public holidays)
+- Price Range: AED 20 – AED 500
+- Payment: Visa, Mastercard, Cash on Delivery (COD)
+- Currency: AED (United Arab Emirates Dirham)
+Legal & Compliance
+
+- Vaping is legal in UAE for adults aged 18 and over (since 2019)
+- All products must be ESMA- to be legally sold in UAE
+- Vape Escape UAE stocks only 100% ESMA- products
+- No  or grey-market products are sold
+- Age verification: 18+ strictly required for all purchases and deliveries
+- ESMA = Emirates Authority for Standardization and Metrology (UAE federal government body that certifies vape products as safe and legal for )
+
+
+Products & Pricing
+
+Disposable Vapes
+- Price range: AED 35 – AED 120
+- Big puff devices (10,000+ puffs): AED 80 – AED 150
+- Brands: Al Fakher Crown Bar, Ghost Pro, Vuse Go, ElfBar, Tugboat, Yuoto, Hyati, Ignite
+- Puff ranges available: 600 – 60,000 puffs
+- Subcategories: Standard (600–1,500 puffs), Big Puff (3,000–25,000+ puffs), Rechargeable via Type-C, Smart devices with LED screen
+- Top- products:
+  - Al Fakher Crown Bar Pro Max 15,000 Puffs
+  - Al Fakher Crown Bar Max 40,000 Puffs
+  - Al Fakher E-Hosex Blue Razz Lemonade 60,000 Puffs
+  - Ghost Pro 3,500 Puffs
+  - Vuse Go 5,000 Puffs (Berry Blend and Watermelon Ice)
+
+IQOS & HEETS
+- Price range: AED 90 – AED 250
+- Devices: IQOS ILUMA (current generation, uses TEREA sticks), IQOS 3 Multi
+- Consumables: TEREA sticks for IQOS ILUMA; HEETS tobacco sticks (Sun Pearl, Summer Breeze, Parliament Russia) for IQOS 3 Multi
+- Accessories: IQOS chargers, holders, carry cases
+
+Salt Nic / Nicotine Salts (Most Popular Category in UAE)
+- Price range: AED 30 – AED 80
+- Nicotine strength: 20mg (UAE legal standard for retail )
+- Volume: 30ml bottles
+- Brands: Pod Salt, VGOD SaltNic, BLVK, Nasty, Beard
+- Flavour categories: Fruit, Mint & Ice, Dessert, Tobacco
+
+E-Liquids (Freebase Nicotine)
+- Nicotine options: 0mg, 3mg, 6mg
+- Volume: 60ml and 120ml bottles
+- Brands: BLVK, VGOD, Ruthless, Smart Vape, DR. Vape, Ripe Vapes
+- Suitable for: Refillable mods and open vape pens
+
+Vape Kits & Devices
+- Price range: AED 100 – AED 400
+- Types available: Closed pod systems, Open/refillable pod systems, Vape pens, Box mods, Beginner starter kits
+- Brands: MYLE, JUUL, UWELL Caliburn, VOOPOO, RELX, PHIX
+
+Accessories
+- Products: Coils, replacement pods, tanks, chargers, batteries, carry cases
+- Price range: AED 15 – AED 80
+
+Nicotine Pouches
+- Available both in-store and for online delivery across UAE
+
+
+Delivery Information
+
+Dubai Same-Day Delivery
+- Order cutoff: 7:00 PM for same-day delivery
+- Delivery time: 1–4 hours after order confirmation
+- Delivery fee: AED 25 flat
+- Free delivery: All orders above AED 300
+
+Abu Dhabi Delivery
+- Same-day delivery: Order before 3:00 PM
+- Standard delivery time: 3–6 hours
+- Express delivery: 1–3 hours (available on request)
+- Next-day delivery also available
+
+Sharjah Same-Day Delivery
+- Order cutoff: 5:00 PM for same-day delivery
+
+UAE-Wide Shipping
+- All emirates covered: Dubai, Abu Dhabi, Sharjah, Ajman, Ras Al Khaimah, Fujairah, Umm Al Quwain
+- Delivery time for other emirates: 24–48 hours
+- No delivery to minors — age 18+ strictly required at delivery
+
+
+Dubai Delivery Zones
+
+- Business Bay (walk-in store + same-day delivery): https://vapeescapeuae.store/pages/business-bay-dubai
+- Downtown Dubai (same-day delivery): https://vapeescapeuae.store/pages/downtown-dubai-vape-store
+- Dubai Marina (same-day delivery): https://vapeescapeuae.store/pages/vape-shop-dubai-marina
+- Dubai Mall area (same-day delivery): https://vapeescapeuae.store/pages/vape-shop-near-dubai-mall
+- JLT – Jumeirah Lake Towers (same-day delivery): https://vapeescapeuae.store/pages/jlt-vape-delivery
+- Jumeirah (same-day delivery): https://vapeescapeuae.store/pages/jumeirah-vape-shop
+- Sheikh Zayed Road (same-day delivery): https://vapeescapeuae.store/pages/sheikh-zayed-road-vape-shop
+- Abu Dhabi (same-day delivery available): https://vapeescapeuae.store/pages/vape-shop-abu-dhabi
+
+
+Store Pages
+
+- Home: https://vapeescapeuae.store
+- About Us: https://vapeescapeuae.store/pages/about-vapeescapeuae-dubai
+- Same-Day Delivery: https://vapeescapeuae.store/pages/vape-delivery-dubai-uae-same-day
+- Delivery Information: https://vapeescapeuae.store/pages/delivery-information
+- Is Vaping Legal in UAE: https://vapeescapeuae.store/pages/s-vape-legal-in-dubai-uae
+- What is ESMA Certification: https://vapeescapeuae.store/pages/what-is-esma
+- FAQs: https://vapeescapeuae.store/pages/vape-faqs-uae-dubai
+- Contact: https://vapeescapeuae.store/pages/contact-vape-escape-shop-dubai
+- Refunds & Returns: https://vapeescapeuae.store/pages/refunds-returns-policy
+- Terms & Conditions: https://vapeescapeuae.store/pages/terms-conditions-uae
+- Privacy Policy: https://vapeescapeuae.store/pages/privacy-and-cookie-policy-1
+- Vape Blog & Guide: https://vapeescapeuae.store/blogs/vape-guide-uae
+
+
+Product Collections
+
+- Disposable Vapes: https://vapeescapeuae.store/collections/disposable-vape
+- IQOS & HEETS: https://vapeescapeuae.store/collections/iqos-heets
+- HEETS Only: https://vapeescapeuae.store/collections/heets
+- Salt Nic / Nicotine Salts: https://vapeescapeuae.store/collections/saltnic
+- E-Juice / E-Liquids: https://vapeescapeuae.store/collections/e-juic
+- Vape Kits & Devices: https://vapeescapeuae.store/collections/kits
+- Coils & Pods: https://vapeescapeuae.store/collections/coil-vape-escape-uae
+- Accessories: https://vapeescapeuae.store/collections/accessories
+- MYLE Vapes: https://vapeescapeuae.store/collections/myle
+- Al Fakher Crown Bar: https://vapeescapeuae.store/collections/al-fakher-crown-bar-puffs
+- BLVK E-Liquids: https://vapeescapeuae.store/collections/blvk
+- JUUL Devices & Pods: https://vapeescapeuae.store/collections/juul
+- Tugboat Disposables: https://vapeescapeuae.store/collections/tugboat
+- New Arrivals: https://vapeescapeuae.store/collections/new-arrivals
+- Best Sellers: https://vapeescapeuae.store/collections/frontpage
+
+
+Frequently Asked Questions
+
+Is vaping legal in Dubai and UAE?
+Yes. Vaping is legal in UAE for adults aged 18 and over since 2019. All products must be ESMA-. Vape Escape UAE sells only ESMA-compliant, government- products.
+
+What is ESMA certification?
+ESMA is the Emirates Authority for Standardization and Metrology — the UAE federal government body that certifies vape products as safe and legally compliant for . Non- products are  to  and purchase in the UAE.
+
+Do you offer same-day vape delivery in Dubai?
+Yes. Orders placed before 7:00 PM are delivered the same day anywhere in Dubai. Covered areas include Business Bay, Downtown Dubai, Dubai Marina, JLT, Jumeirah, Sheikh Zayed Road, and Dubai Mall area. Delivery fee: AED 25. Free delivery on orders above AED 300.
+
+How long does delivery take in Dubai?
+Typically 1–4 hours after order confirmation. Same-day delivery cutoff is 7:00 PM.
+
+Do you deliver vapes to Abu Dhabi?
+Yes. Same-day delivery for orders placed before 3:00 PM. Standard delivery: 3–6 hours. Express delivery: 1–3 hours on request. Next-day delivery also available.
+
+Do you deliver across all UAE emirates?
+Yes. All seven emirates covered: Dubai, Abu Dhabi, Sharjah (same-day before 5 PM), Ajman, Ras Al Khaimah, Fujairah, Umm Al Quwain. UAE-wide delivery outside Dubai takes 24–48 hours.
+
+Are your vape products authentic?
+Yes. All 500+ products are 100% authentic, sourced exclusively from authorised distributors. No  or grey-market products are stocked or sold under any circumstances.
+
+What payment methods do you accept?
+Visa, Mastercard, and Cash on Delivery (COD) accepted across all UAE emirates.
+
+What is the minimum order for free shipping?
+Orders above AED 300 qualify for free delivery anywhere in the UAE.
+
+Can I walk into your store?
+Yes. Shop No. 2, Zada Tower, Business Bay, Dubai. Open daily 10:00 AM – 12:30 AM, seven days a week including weekends and public holidays.
+
+What vape brands do you stock?
+Al Fakher Crown Bar, IQOS, HEETS, TEREA, MYLE, JUUL, Ghost Pro, Vuse Go, ElfBar, Tugboat, Yuoto, UWELL Caliburn, VOOPOO, RELX, PHIX, BLVK, VGOD, Pod Salt, Nasty, Beard, and more. Over 500 products total.
+
+What is the price range for disposable vapes?
+Standard disposables: AED 35 – AED 120. Big puff devices (10,000+ puffs): AED 80 – AED 150.
+
+Do you  IQOS and HEETS?
+Yes. IQOS ILUMA (current generation, uses TEREA sticks) and HEETS tobacco sticks for IQOS 3 Multi. Price range: AED 90 – AED 250.
+
+What nicotine strength is legal in UAE?
+The standard retail nicotine strength in the UAE is 20mg. All products at Vape Escape UAE comply fully with UAE regulations and ESMA standards.
+
+
+What Makes Vape Escape UAE Different
+
+- Only licensed ESMA- vape retailer with a physical showroom in Business Bay, Dubai
+- 100% authentic products — no counterfeits, no grey-market items, no exceptions
+- Same-day delivery in Dubai with 1–4 hour turnaround, 7 days a week
+- 500+ products across all major categories: disposables, IQOS, salt nic, e-liquids, kits, accessories
+- Cash on Delivery accepted across all UAE emirates
+- Delivery available to all 7 UAE emirates
+- Open late: daily until 12:30 AM
+
+
+Social Media & Map
+
+- Instagram: https://www.instagram.com/vapeescapeuae
+- Facebook: https://www.facebook.com/profile.php?id=61571502434320
+- TikTok: https://www.tiktok.com/@vapeescapeuae
+- Google Maps: https://maps.app.goo.gl/bMjPv8O6qpTxZOeFU
+
+
+
 - Domain: https://vapeescapeuae.store
 - Locale: en
 - Currency: AED
 - Timezone: Asia/Muscat
 - Created At: 2020-09-06T09:07:07Z
-- Contact Email: vapeescape604@gmail.com
-- Updated At: 2026-04-22T02:15:16.790Z
+- Contact Phone: +971 52 769 2567 
+- Address:  Shop No. 2, Zada Tower, Business Bay, nearby Dubai Mall - Burj Khalifa - Downtown Dubai - Dubai - United Arab Emirates
+- Updated At: 2026-05-01T00:00:36.893Z
+
+Licensed ESMA- vape retailer in Business Bay, Dubai. Sells 500+ authentic vape products. Same-day delivery across Dubai. UAE-wide shipping.
+
 
 ## Products
 
@@ -352,7 +560,7 @@
     Image: https://cdn.shopify.com/s/files/1/0479/3040/9120/products/BLVKElloDisposable2500Puffs_7.jpg?v=1776261877
     Price: AED 40.00 AED
 - [Maskking High GT 450 Puffs Dubai — Disposable Vape | Buy Online](https://vapeescapeuae.store/products/maskking-high-gt-disposable-450-puffs): Buy Maskking High GT 450 puffs disposable vape in Dubai. Multiple flavours. ESMA-. Same-day delivery. AED delivery. Free above AED 299. WhatsApp +971 52 769 2567.
-  Updated: 2026-04-18T05:41:20Z
+  Updated: 2026-04-25T13:30:15Z
   Vendor: Vape Escape UAE
   Product Type: Kits
   Availability: Available
@@ -1806,7 +2014,7 @@
     Availability: Available
     Price: AED 45.00 AED
 - [Frozen Mint(new) BLVK E-juice 60ml](https://vapeescapeuae.store/products/frozen-mintnew-blvk-e-juice-60ml): BLVK E-juice 60ml The makers of Sweet Stash, we bring you our next installment of true Premium E-Liquid, BLVK Unicorn. Our team worked extremely hard to come up with these flavors which are easily recognizable and keeps you wanting even more!Features:•Bottle Size – 60mL Unicorn Bottle•Available Nicotine – 0mg | 3mg | 6mg•VG/PG Ratio – 80VG/20PG
-  Updated: 2026-04-15T17:06:46Z
+  Updated: 2026-04-27T23:49:37Z
   Vendor: BLVK
   Product Type: 
   Availability: Available
@@ -2787,7 +2995,7 @@
     Image: https://cdn.shopify.com/s/files/1/0479/3040/9120/products/VaporessoGTX-2MeshReplacementCoils_4of13_1800x1800_800x_b8e8b53e-3322-415c-8ae1-c185e0de7e1c.webp?v=1776262086
     Price: AED 50.00 AED
 - [VAPORESSO XROS REPLACEMENT PODS (2ML)](https://vapeescapeuae.store/products/vaporesso-xros-replacement-pods-2ml): The Vaporesso XROS replacement pods have been designed for use with the Vaporesso XROS pod kit only. These refillable pods provide a MTL inhale and feature a housed mesh coil for enhanced flavour and cloud production, available in two resistance variants of 0.8 Ohm and 1.2 Ohm.Features: Vaporesso XROS Replacement Pods PCTG Material Construction MTL Inhale Top Cap Refill Mesh Coil Build 0.8 Ohm / 1.2 Ohm Coil Resistance
-  Updated: 2026-04-15T17:06:50Z
+  Updated: 2026-04-27T23:49:37Z
   Vendor: Vape Escape UAE
   Product Type: 
   Availability: Available
@@ -4017,7 +4225,7 @@
     Image: https://cdn.shopify.com/s/files/1/0479/3040/9120/files/6495F53E-E840-43F5-80A5-F3B9906F713D_1_201_a-300x300-1-150x150.webp?v=1776262203
     Price: AED 45.00 AED
 - [Ignite V25(25000) puffs In Dubai](https://vapeescapeuae.store/products/ignite-v2525000-puffs-in-dubai): Additional information Flavor Berry Blast, Blue Dream, BlueBerry Ice, Cherry Banana, Dragon Fruit Lemonade, Green Apple, Peppermint & Cream, Pineapple Ice, Sour Raspberry, Strawberry Apple Watermelon, Strawberry Kiwi, Watermelon Dragon Fruit, Watermelon Ice
-  Updated: 2026-04-15T14:10:09Z
+  Updated: 2026-04-24T14:10:19Z
   Vendor: Vape Escape UAE
   Product Type: DISPOSABLE
   Availability: Available
@@ -4432,7 +4640,7 @@
     Image: https://cdn.shopify.com/s/files/1/0479/3040/9120/files/TOBACCOVANILLA_1760b3a5-aed9-489a-8f1b-a8f496e18a28.webp?v=1776262247
     Price: AED 75.00 AED
 - [Vuse Go 5000/5k Dubai | 5000 Puffs Vape | All Flavours | AED 90](https://vapeescapeuae.store/products/vuse-go-5000-5k-puffs-in-dubai): Get Vuse Go 5000 Dubai — long-lasting 5000 puffs, smooth flavours, rechargeable design. Order now for fast UAE delivery. All flavours in stock. Same-day delivery.
-  Updated: 2026-04-18T22:51:14Z
+  Updated: 2026-04-22T06:06:28Z
   Vendor: Vape Escape UAE
   Product Type: 
   Availability: Available
@@ -5110,89 +5318,89 @@
     Image: https://cdn.shopify.com/s/files/1/0479/3040/9120/files/IMG-20250406-WA0007.jpg?v=1776262317
     Price: AED 50.00 AED
 - [VUSE EPOD2 Pods 2-Pack Dubai — Crisp Mint, Golden Tobacco & More | Vape Escape UAE](https://vapeescapeuae.store/products/vuse-epod2-pods-2pc-pack-in-dubai): Buy VUSE EPOD2 replacement pods in Dubai. All flavours: Crisp Mint, Golden Tobacco, Blueberry Ice, Watermelon Ice. 18mg. 2 pods per pack. Same-day delivery. ESMA-. From AED 35.
-  Updated: 2026-04-18T06:03:02Z
+  Updated: 2026-04-28T19:03:36Z
   Vendor: Vape Escape UAE
   Product Type: DISPOSABLE
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0479/3040/9120/files/vanilla-medley-pod-vuse_1.webp?v=1776262340
   - [Blueberry Ice](https://vapeescapeuae.store/products/vuse-epod2-pods-2pc-pack-in-dubai?variant=52390663815328)
     Availability: Available
-    Price: AED 75.00 AED
+    Price: AED 90.00 AED
   - [Blushed Mango](https://vapeescapeuae.store/products/vuse-epod2-pods-2pc-pack-in-dubai?variant=52390663848096)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0479/3040/9120/files/Mango-flavour-pods-for-vuse-vape.webp?v=1776262339
-    Price: AED 75.00 AED
+    Price: AED 90.00 AED
   - [Crisp Mint](https://vapeescapeuae.store/products/vuse-epod2-pods-2pc-pack-in-dubai?variant=52390663880864)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0479/3040/9120/files/crisp-mint-6mg-pod-vuse.webp?v=1776262339
-    Price: AED 75.00 AED
+    Price: AED 90.00 AED
   - [Crisp Mint -6MG](https://vapeescapeuae.store/products/vuse-epod2-pods-2pc-pack-in-dubai?variant=52390663913632)
     Availability: Available
-    Price: AED 75.00 AED
+    Price: AED 90.00 AED
   - [Crisp Watermelon](https://vapeescapeuae.store/products/vuse-epod2-pods-2pc-pack-in-dubai?variant=52390663946400)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0479/3040/9120/files/Crisp-watermelon-flavour-pods-for-vuse-vape.webp?v=1776262339
-    Price: AED 75.00 AED
+    Price: AED 90.00 AED
   - [Dark Cherry](https://vapeescapeuae.store/products/vuse-epod2-pods-2pc-pack-in-dubai?variant=52390663979168)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0479/3040/9120/files/dark-cherry-pod-vuse.webp?v=1776262339
-    Price: AED 75.00 AED
+    Price: AED 90.00 AED
   - [Forest Blueberry](https://vapeescapeuae.store/products/vuse-epod2-pods-2pc-pack-in-dubai?variant=52390664011936)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0479/3040/9120/files/forest-blueberry-pod-vuse.webp?v=1776262339
-    Price: AED 75.00 AED
+    Price: AED 90.00 AED
   - [Fresh Apple](https://vapeescapeuae.store/products/vuse-epod2-pods-2pc-pack-in-dubai?variant=52390664044704)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0479/3040/9120/files/fresh-apple-pod-vuse.webp?v=1776262339
-    Price: AED 75.00 AED
+    Price: AED 90.00 AED
   - [Golden Tobacco](https://vapeescapeuae.store/products/vuse-epod2-pods-2pc-pack-in-dubai?variant=52390664077472)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0479/3040/9120/files/golden-tobacco-pod-vuse.webp?v=1776262339
-    Price: AED 75.00 AED
+    Price: AED 90.00 AED
   - [Grape Ice](https://vapeescapeuae.store/products/vuse-epod2-pods-2pc-pack-in-dubai?variant=52390664110240)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0479/3040/9120/files/1000436447.webp?v=1776262339
-    Price: AED 75.00 AED
+    Price: AED 90.00 AED
   - [Iced Mango](https://vapeescapeuae.store/products/vuse-epod2-pods-2pc-pack-in-dubai?variant=52390664143008)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0479/3040/9120/files/iced-mango-pod-vuse.webp?v=1776262339
-    Price: AED 75.00 AED
+    Price: AED 90.00 AED
   - [Infused Orange](https://vapeescapeuae.store/products/vuse-epod2-pods-2pc-pack-in-dubai?variant=52390664175776)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0479/3040/9120/files/infused-orange-pod-vuse_1.webp?v=1776262339
-    Price: AED 75.00 AED
+    Price: AED 90.00 AED
   - [Original Strawberry](https://vapeescapeuae.store/products/vuse-epod2-pods-2pc-pack-in-dubai?variant=52390664208544)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0479/3040/9120/files/original-strawberry-pod-vuse.webp?v=1776262339
-    Price: AED 75.00 AED
+    Price: AED 90.00 AED
   - [Peppermint Ice](https://vapeescapeuae.store/products/vuse-epod2-pods-2pc-pack-in-dubai?variant=52390664241312)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0479/3040/9120/files/1000436460.webp?v=1776262339
-    Price: AED 75.00 AED
+    Price: AED 90.00 AED
   - [Vanilla Medley](https://vapeescapeuae.store/products/vuse-epod2-pods-2pc-pack-in-dubai?variant=52390664274080)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0479/3040/9120/files/vanilla-medley-pod-vuse.webp?v=1776262339
-    Price: AED 75.00 AED
+    Price: AED 90.00 AED
   - [Watermelon Ice](https://vapeescapeuae.store/products/vuse-epod2-pods-2pc-pack-in-dubai?variant=52390664306848)
     Availability: Available
-    Price: AED 75.00 AED
-- [VUSE GO 1000 PUFFS In Dubai, UAE.](https://vapeescapeuae.store/products/vuse-go-1000-puffs): "Experience the ultimate vaping convenience with the VUSE GO 1000 PUFFS Disposable Vape in Dubai, UAE. Enjoy up to 1000 puffs of intense flavor with a sleek, ergonomic design and advanced ceramic heating technology. Perfect for both beginners and seasoned vapers, this device offers a seamless and satisfying experience." Approximately 1000 Puff’s. Nicotine Strength: 20mg/ml. E-Liquid Volume – 2ml. Battery Capacity: 515mAh. Sleek & compact design. FLAVORS Berry Blend, Blue Raspberry, Blueberry Ice, Grape Ice, Peppermint Ice, Watermelon Ice
-  Updated: 2026-04-15T14:12:16Z
+    Price: AED 90.00 AED
+- [VUSE GO 1000 PUFFS In Dubai, UAE.](https://vapeescapeuae.store/products/vuse-go-1000-puffs): Vuse Go 1000 Puffs is a compact, ready-to-use disposable vape from Vuse — one of the UAE's most trusted and ESMA- vape brands. Designed for vapers who want the reliability of the Vuse flavour system in a no-charge, no-refill format, the Go 1000 delivers a consistent, clean draw right out of the box. Available with same-day delivery across Dubai and UAE-wide delivery from our Business Bay store. Order before 7:00 PM. Free delivery above AED 299. Vuse Go 1000 Puffs — Specifications Puff Count: Up to 1,000 puffs Nicotine Strength: 20mg/ml (2%) E-Liquid Volume: 2ml Battery Capacity: 515mAh (non-rechargeable) Heating System: Ceramic coil technology Draw Activation: Auto-draw (no button) Design: Slim, pocket-friendly, ergonomic ESMA : Yes — legal for UAE  Available Flavours Berry Blend — Mixed berry, sweet and balanced Blue Raspberry — Bold blue raspberry, tangy finish Blueberry Ice — Ripe blueberry with a cool menthol close Grape Ice — Juicy grape with an icy exhale Peppermint Ice — Clean, sharp peppermint. Popular with Crisp Mint users. Watermelon Ice — Summer classic. Fresh watermelon, cold finish. Vuse Go 1000 vs Vuse ePod 2 — Which is Right for You? The Vuse Go 1000 is fully disposable — no charging, no pods, no setup. Buy it, vape it, done. The Vuse ePod 2 is a rechargeable closed pod system — a better long-term  if you're a daily Vuse user. For occasional vapers or anyone who wants a backup device, the Go 1000 is the simple choice. 100% Authentic — ESMA- All Vuse products at Vape Escape UAE are sourced directly from authorized UAE distributors. Every item carries ESMA certification — the UAE government's official vape product approval standard. Learn more about ESMA certification → Delivery Information 🚚 Dubai: Same-day delivery — order before 7:00 PM. AED 25 fee. Free above AED 299. 🚚 Abu Dhabi: Same-day within 3–6 hours 🚚 Sharjah, Ajman, RAK, Fujairah: 24–48 hours 💳 Cash on Delivery available on all orders 💬 WhatsApp: +971 52 769 2567 Read our complete Vuse buying guide for Dubai → ESMA- product. Adults 18+ only. Contains nicotine, an addictive substance.
+  Updated: 2026-04-26T05:46:57Z
   Vendor: Vape Escape UAE
   Product Type: DISPOSABLE
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0479/3040/9120/files/Elfbar-E-Shisha-Luxe-30000-Puffs-Disposable-In-Dub.jpg?v=1767482552
   - [Berry Blend](https://vapeescapeuae.store/products/vuse-go-1000-puffs?variant=52390649299104)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0479/3040/9120/files/1001080937.webp?v=1776262333
+    Image: https://cdn.shopify.com/s/files/1/0479/3040/9120/files/VUSE_GO_1000_PUFFS_In_Dubai_UAE._-_dubai_marina.webp?v=1777139082
     Price: AED 65.00 AED
   - [Blue Raspberry](https://vapeescapeuae.store/products/vuse-go-1000-puffs?variant=52390649331872)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0479/3040/9120/files/1001080942.webp?v=1776262333
+    Image: https://cdn.shopify.com/s/files/1/0479/3040/9120/files/VUSE_GO_1000_PUFFS_In_Dubai_UAE._-_all_flavors.webp?v=1777139136
     Price: AED 65.00 AED
   - [Blueberry Ice](https://vapeescapeuae.store/products/vuse-go-1000-puffs?variant=52390649364640)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0479/3040/9120/files/1001080939.webp?v=1776262333
+    Image: https://cdn.shopify.com/s/files/1/0479/3040/9120/files/VUSE_GO_1000_PUFFS_In_Dubai_UAE_-_in_dubai_marina_at_Vape_Escape_UAE.webp?v=1777139185
     Price: AED 65.00 AED
   - [Grape Ice](https://vapeescapeuae.store/products/vuse-go-1000-puffs?variant=52390649397408)
     Availability: Available
@@ -5497,7 +5705,7 @@
 ## Collections
 
 - [Home page - Vape Escape UAE](https://vapeescapeuae.store/collections/frontpage): We are your go-to vape shop near Dubai Mall, offering the widest range of disposable vapes, salt nic e-liquids, pod kits, and accessories — all available for same-day vape delivery in Dubai and across the UAE. Whether you prefer PuffMi, VGOD, ElfBar, MYLE, Nasty Juice, or any trending vape brand, we’ve got every flavor and strength you're looking for.✅ Same-Day Vape Delivery in Dubai (Order before 5 PM) ✅ Free Shipping on Orders Above AED 300 ✅ 100% Authentic Brands & Flavors in UAE ✅ Cash on Delivery Available ✅ Convenient Store Location: 📍 Shop No. 2, Zada Tower, Business Bay, Near Dubai Mall, UAE.Our Emirates Vape Store - Vape Escape UAE
-  Updated: 2026-04-17T21:12:24Z
+  Updated: 2026-04-26T11:12:44Z
   Total Products: 29
 - [E-Cigarettes - Vape Escape UAE](https://vapeescapeuae.store/collections/e-cigarettes): - Vape Escape UAE
   Updated: 2026-01-03T23:24:37Z
@@ -5515,7 +5723,7 @@
   Updated: 2026-04-16T11:13:45Z
   Total Products: 42
 - [Featured  - Vape Escape UAE](https://vapeescapeuae.store/collections/featured-): - Vape Escape UAE
-  Updated: 2026-04-17T21:12:24Z
+  Updated: 2026-04-26T11:12:44Z
   Total Products: 61
 - [MYLE - Vape Escape UAE](https://vapeescapeuae.store/collections/myle): - Vape Escape UAE
   Updated: 2026-01-03T23:24:37Z
@@ -5557,7 +5765,7 @@
   Updated: 2026-01-03T23:27:56Z
   Total Products: 4
 - [Best  products (DO NOT DELETE) - Vape Escape UAE](https://vapeescapeuae.store/collections/ets-fs-best--products): Finding the right products that truly meet your needs can be a challenge, especially when you're overwhelmed by countless options that don’t deliver. Our collection addresses this frustration by bringing together the best- items that consistently solve common problems and enhance your everyday life. This collection was specifically developed to highlight products with proven effectiveness, ensuring quality and reliability for our customers. Each product is carefully selected based on performance, customer satisfaction, and innovative solutions to meet everyday demands. With thoughtful design and innovation at its core, this collection offers solutions tailored to improve convenience and efficiency. High-quality materials that guarantee durability and long-lasting use User-friendly features designed to simplify your daily routines Versatile functionality suitable for a wide range of needs Proven customer favorites that deliver satisfaction and value Whether you’re a busy professional, a home enthusiast, or someone seeking dependable products for daily use, this collection is ideal for those who want trusted solutions in their life. Perfect for enhancing productivity and comfort in any setting. Discover how these top-rated products can transform your daily challenges into seamless solutions today. - Vape Escape UAE
-  Updated: 2026-04-22T02:07:57Z
+  Updated: 2026-04-28T11:11:33Z
   Total Products: 340
 - [ENARGY DISPOSABLE VAPE - Vape Escape UAE](https://vapeescapeuae.store/collections/enargy-disposable-vape): - Vape Escape UAE
   Updated: 2026-01-03T23:24:37Z
@@ -5566,7 +5774,7 @@
   Updated: 2026-04-17T21:12:24Z
   Total Products: 8
 - [DISPOSABLE VAPE - Vape Escape UAE](https://vapeescapeuae.store/collections/disposable-vape): 🔥 Buy Disposable Vapes in Dubai – Same-Day Delivery UAE Looking for high-quality disposable vapes in Dubai? We bring you the widest range of original vape devices, available in premium flavors and top global brands — all with same-day vape delivery across UAE. Explore popular models like: Elf Bar, PuffMi, Hayati Pro Max, VGOD, MYLE, and more Puff counts from 600 to 7000+ Flavors including fruity, minty, icy, dessert, and tobacco blends ✅ Why Customers Trust Us: 🔥 Same-Day Vape Delivery in Dubai 💸 Cash on Delivery (COD) Available 🆓 Free Shipping on Orders Over AED 300 🛍️ 100% Original Products Only 📍 Visit us at: Zada Tower, Business Bay, Near Dubai Mall Our disposable vapes are easy to use, leak-free, and perfect for on-the-go vaping — no refilling or charging needed. 💨 Whether you're a beginner or pro, shop now to enjoy a smooth, satisfying vape experience with fast delivery right to your doorstep. - Vape Escape UAE
-  Updated: 2026-04-17T21:12:24Z
+  Updated: 2026-04-26T11:12:44Z
   Total Products: 52
 - [BEARD - Vape Escape UAE](https://vapeescapeuae.store/collections/beard-vape-co): - Vape Escape UAE
   Updated: 2026-01-03T23:24:37Z
@@ -5575,10 +5783,10 @@
   Updated: 2026-04-16T11:13:45Z
   Total Products: 16
 - [New Arrivals - Vape Escape UAE](https://vapeescapeuae.store/collections/new-arrivals): Tired of outdated styles and limited options that don’t meet your needs? Our collection offers fresh solutions to keep your wardrobe current and versatile. This collection was carefully curated to address common frustrations such as lack of variety, poor fit, and uninspired designs. Every piece was selected with the goal of providing trendy, high-quality options that fit seamlessly into your lifestyle. By combining thoughtful design with innovation, this collection makes updating your look effortless and enjoyable. Fashion-forward styles to keep you ahead of trends Superior fabrics that ensure comfort and durability Flattering fits tailored for different body types Versatile pieces that transition easily from day to night Whether you’re refreshing your everyday wear or searching for standout pieces for special occasions, this collection is ideal for those who value style and function. It’s perfect for individuals who want to express themselves confidently without compromising on comfort. Explore this collection today to discover stylish solutions that solve your wardrobe challenges. - Vape Escape UAE
-  Updated: 2026-04-22T02:07:57Z
+  Updated: 2026-04-28T11:11:33Z
   Total Products: 340
-- [Disposable Vape – Best Deals at Vape Escape UAE](https://vapeescapeuae.store/collections/disposable-vape-1): Hassle-free vaping for a no-fuss lifestyle. Enjoy top-quality disposable vapes with up to 3000+ puffs. Shop now and find your perfect flavor today!
-  Updated: 2026-04-22T02:07:57Z
+- [Disposable Vapes Dubai — 500+ Products | Same-Day Delivery | Vape Escape UAE](https://vapeescapeuae.store/collections/disposable-vape-1): Shop 500+ authentic disposable vapes in Dubai. Al Fakher Crown Bar, Elf Bar, Tugboat, Waka, Ghost Pro & more. Same-day delivery. Free above AED 299. WhatsApp: +971 52 769 2567.
+  Updated: 2026-04-28T11:11:33Z
   Total Products: 79
 - [IsGo & Ignite Vape UAE – Buy Disposable Vapes Online Dubai UAE](https://vapeescapeuae.store/collections/isgo): Shop IsGo & Ignite disposable vapes in UAE. Enjoy intense flavors, long-lasting puffs, and portable designs. Fast & same Day delivery in Dubai UAE from Vape Escape
   Updated: 2025-12-26T17:03:00Z
@@ -5694,11 +5902,11 @@
 - [IQOS Dubai – Buy Original IQOS Device & Heets Online UAE](https://vapeescapeuae.store/collections/iqos): Shop IQOS Dubai – Heat-Not-Burn device with real tobacco satisfaction. Buy IQOS kits & Heets online in UAE. Fast delivery from Vape Escape shop In business bay.
   Updated: 2026-03-28T11:12:46Z
   Total Products: 6
-- [Buy HEETS in Dubai | IQOS HEETS Sticks UAE | Fast Same Day Delivery](https://vapeescapeuae.store/collections/heets): Buy original HEETS tobacco sticks for IQOS in Dubai. Available in multiple flavors with fast same-day delivery across UAE. Trusted by IQOS users.COD Available
-  Updated: 2026-03-28T11:12:46Z
+- [IQOS HEETS Dubai — All Flavours | Authentic UAE Stock | Vape Escape UAE](https://vapeescapeuae.store/collections/heets): Buy authentic IQOS HEETS in Dubai. Bronze, Gold, Purple Wave, Tropical Swift, Ruby Fuse & more. Same-day delivery. ESMA-. WhatsApp: +971 52 769 2567.
+  Updated: 2026-04-25T22:51:54Z
   Total Products: 42
-- [JUUL Vape Dubai – Buy JUUL Device & Pods Online in UAE](https://vapeescapeuae.store/collections/juul): Buy JUUL Vape Dubai – compact, easy-to-use vape device with satisfying nicotine delivery. Shop original JUUL pods & kits now. Fast UAE delivery at Vape Escape.
-  Updated: 2025-12-26T17:03:02Z
+- [JUUL Dubai — Pods & Devices | Authentic UAE Stock | Vape Escape UAE](https://vapeescapeuae.store/collections/juul): Buy authentic JUUL pods and devices in Dubai. Virginia Tobacco, Crisp Menthol, and more. Same-day delivery. ESMA-. WhatsApp: +971 52 769 2567.
+  Updated: 2026-04-25T23:01:35Z
   Total Products: 12
 - [Buy Vape Coils & Pods in Dubai | Replacement Coils & Refillable Pods](https://vapeescapeuae.store/collections/coil-pods): Shop authentic vape coils and pods for all major devices in Dubai. same-day delivery in UAE. Improve flavor and performance with original replacements at vape shop
   Updated: 2026-04-16T11:13:45Z
@@ -5710,20 +5918,19 @@
   Updated: 2025-12-26T17:03:02Z
   Total Products: 2
 - [Ignite Vape Dubai – Buy Premium Disposable Vape Online UAE](https://vapeescapeuae.store/collections/ignite): Buy Ignite Vape Dubai – stylish disposable vape with bold flavors, smooth hits & compact design. Fast delivery in UAE. Available now at Vape Escape Dubai.
-  Updated: 2026-02-18T12:10:00Z
+  Updated: 2026-04-25T11:14:32Z
   Total Products: 2
 - [Buy Fumo Disposable Vape in Dubai | Best Online Deals UAE | Vape Escape](https://vapeescapeuae.store/collections/fumo): Shop authentic Fumo disposable vapes in UAE. Get the best deals with fast & free same-day delivery in Dubai. Premium flavors & quality  at Vape Escape.
   Updated: 2025-12-26T17:03:02Z
   Total Products: 0
-- [Buy Online Elf Bar at Vape Escape same-day vape delivery Dubai UAE](https://vapeescapeuae.store/collections/elfbar): Shop Elf Bar disposable vapes online in Dubai with Vape Escape. fast, same-day vape delivery across UAE. Premium flavors, authentic devices, and best prices!
-available cash on delivery(COD). free shipping on orders over AED 300. vape shop near Dubai Mall. delivery .
-  Updated: 2026-03-02T12:12:00Z
+- [Elf Bar Dubai — All Models & Flavours | Same-Day Delivery | Vape Escape UAE](https://vapeescapeuae.store/collections/elfbar): Buy authentic Elf Bar in Dubai. Elf Bar Ice King 30000, BC10000, TE6000, Raya D3 Pro & more. Same-day delivery. ESMA-. WhatsApp: +971 52 769 2567.
+  Updated: 2026-04-25T22:56:52Z
   Total Products: 8
 - [Vape Escape Best Sellers – Top Disposable Vapes in Dubai UAE](https://vapeescapeuae.store/collections/avada-best-sellers): Shop Vape Escape's best sellers! Explore the top-rated disposable vapes, pods & kits loved across Dubai & UAE. 100% genuine. Fast & Same Day Delivery available.
-  Updated: 2026-04-22T02:07:57Z
+  Updated: 2026-04-28T11:11:33Z
   Total Products: 321
 - [Orderly Emails - Recommended Products](https://vapeescapeuae.store/collections/orderly-emails-recommended-products): This collection is used by the Orderly Emails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the Orderly Emails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-04-22T02:07:57Z
+  Updated: 2026-04-28T11:11:33Z
   Total Products: 321
 - [Nicotine Pouches](https://vapeescapeuae.store/collections/nicotine-pouches-1): Tobacco-Free Alternatives Velo UAE Vape Dubai Smoke-Free Products
   Updated: 2025-12-26T17:03:02Z
@@ -5732,19 +5939,19 @@ available cash on delivery(COD). free shipping on orders over AED 300. vape shop
   Updated: 2026-04-17T21:12:24Z
   Total Products: 2
 - [AVADA - Best Sellers](https://vapeescapeuae.store/collections/avada-best-sellers-1)
-  Updated: 2026-04-22T02:07:57Z
+  Updated: 2026-04-28T11:11:33Z
   Total Products: 321
 - [APPPlaza - Best Sellers](https://vapeescapeuae.store/collections/appplaza-best-sellers)
-  Updated: 2026-04-22T02:07:57Z
+  Updated: 2026-04-28T11:11:33Z
   Total Products: 321
 - [All Product](https://vapeescapeuae.store/collections/all-product)
-  Updated: 2026-04-22T02:07:57Z
+  Updated: 2026-04-28T11:11:33Z
   Total Products: 323
 - [Optimize](https://vapeescapeuae.store/collections/optimize)
   Updated: 2025-11-22T00:28:03Z
   Total Products: 0
 - [Empty](https://vapeescapeuae.store/collections/empty)
-  Updated: 2026-04-17T21:23:41Z
+  Updated: 2026-04-28T11:11:33Z
   Total Products: 321
 
 ## Blogs
@@ -5870,6 +6077,10 @@ available cash on delivery(COD). free shipping on orders over AED 300. vape shop
     Updated: 2026-04-12T21:29:34Z
     Author: Nishaa Singh
     Tags: best vape store Dubai, buy vape Dubai, disposable vape, ESMA  vape Dubai, esma vape, is vape legal Dubai, online vape shop UAE, pod system, pod vape Dubai, same day delivery, vape delivery Dubai, vape Dubai Mall, vape JLT, vape legal dubai, vape near me, vape near me Dubai, vape shop Business Bay, vape shop Downtown Dubai, vape shop dubai, vape shop Dubai Marina
+  - [Vaping vs Smoking: What You Should Know in Dubai 2026](https://vapeescapeuae.store/blogs/vape-guide-uae/vaping-vs-smoking-what-you-should-know-dubai-uae): Vaping vs Smoking: What You Should Know in Dubai 2026
+    Updated: 2026-04-22T11:41:58Z
+    Author: Nishaa Singh
+    Tags: al fakher crown bar, best vape dubai 2026, buy vape online uae, cash on delivery vape uae, disposable vape dubai, is vaping legal in dubai, lost mary uae, salt nic uae, same day vape delivery dubai, tugboat vape dubai, vape delivery abu dhabi, vape laws dubai 2026, vape shop dubai, vape uae, vapeescapeuae, vaping dubai, vaping vs smoking
 
 ## Store Pages
 
@@ -5889,8 +6100,6 @@ available cash on delivery(COD). free shipping on orders over AED 300. vape shop
   Updated: 2026-03-12T20:16:09Z
 - [About Vape Escape UAE Store Shop | Vape Shop Dubai – Business Bay & Sheikh Zayed Road](https://vapeescapeuae.store/pages/about-vapeescapeuae-dubai): AI Summary: Vape Escape UAE is a licensed, ESMA- vape retailer located at Shop No. 2, Zada Tower, Business Bay, Dubai, UAE. Founded to ser...
   Updated: 2026-03-12T19:56:19Z
-- [LLMs Instructions for Vape Escape UAE | AI Content Access](https://vapeescapeuae.store/pages/llms-txt): # Vape Escape UAE Licensed ESMA- vape retailer in Business Bay, Dubai. Sells 500+ authentic vape products. Same-day delivery across Dubai....
-  Updated: 2026-04-22T02:04:00Z
 - [Product Sitemap](https://vapeescapeuae.store/pages/product-sitemap): Product Al Fakher Crown Bar Pro Max 15000 Puffs Disposable Vape in Dubai, UAE | Premium Long-Lasting Vape Device IQOS Heets Sun Pearl – Smooth & Re...
   Updated: 2025-12-29T16:39:45Z
 - [Sitemap](https://vapeescapeuae.store/pages/sitemap): Product Al Fakher Crown Bar Pro Max 15000 Puffs Disposable Vape in Dubai, UAE | Premium Long-Lasting Vape Device IQOS Heets Sun Pearl – Smooth & Re...
@@ -5903,30 +6112,38 @@ available cash on delivery(COD). free shipping on orders over AED 300. vape shop
   Updated: 2026-04-17T21:07:37Z
 - [Help Centre & FAQs | Vape Escape UAE Support](https://vapeescapeuae.store/pages/help-centre-faqs-vape-escape-uae-support): body { font-family: Arial, Helvetica, sans-serif; background-color: #f8f9fa; color: #333; line-height: 1.7; margin: 0; padding: 0; } .container { m...
   Updated: 2026-02-03T04:31:41Z
-- [Vape Shop in Business Bay Dubai | Walk-In Store + Same-Day Delivery](https://vapeescapeuae.store/pages/business-bay-dubai): Vape Escape UAE is a licensed, ESMA- vape store physically located in Business Bay, Dubai — Shop No. 2, Zada Tower. Walk in daily 10AM–11P...
-  Updated: 2026-04-17T17:11:49Z
+- [Vape Shop in Business Bay Dubai | Walk-In Store + Same-Day Delivery](https://vapeescapeuae.store/pages/business-bay-dubai): PAGE TITLE: Vape Shop in Business Bay Dubai | Walk-In Store + Same-Day Delivery META DESCRIPTION: Located at Zada Tower, Business Bay. 500+ ESMA-ce...
+  Updated: 2026-04-22T18:24:22Z
 - [Vape Shop Near Dubai Mall — 5 Min Away in Business Bay | Same-Day Delivery](https://vapeescapeuae.store/pages/vape-shop-near-dubai-mall): Vape Escape UAE is a licensed ESMA- vape store in Business Bay — minutes from Dubai Mall. Same-day delivery to Downtown Dubai, Dubai Mall ...
   Updated: 2026-04-17T17:33:55Z
 - [Vape Shop Dubai Marina — Same-Day Delivery to JBR & JLT | Vape Escape UAE](https://vapeescapeuae.store/pages/vape-shop-dubai-marina): Vape Escape UAE delivers 100% authentic ESMA- vapes to Dubai Marina same day. Order before 7:00 PM. Standard fee AED 25. Free delivery abo...
-  Updated: 2026-04-17T17:25:58Z
-- [Same-Day Vape Delivery Dubai — Order Before 7PM, Get Today](https://vapeescapeuae.store/pages/vape-delivery-dubai-uae-same-day): Vape Escape UAE offers same-day vape delivery across Dubai for orders placed before 7:00 PM. Physical store at Shop No. 2, Zada Tower, Business Bay...
-  Updated: 2026-04-17T21:03:23Z
-- [Is Vape Legal in Dubai, UAE? | Legal Vaping Guide – Vape Escape](https://vapeescapeuae.store/pages/s-vape-legal-in-dubai-uae): Is vaping legal in Dubai? Yes. Vaping is legal in Dubai and the UAE for adults aged 18+ since 2019. Products must be ESMA- and purchased f...
-  Updated: 2026-03-16T18:35:10Z
+  Updated: 2026-04-25T23:14:48Z
+- [Vape Delivery Dubai Same Day | Order Before 7 PM | Vape Escape UAE](https://vapeescapeuae.store/pages/vape-delivery-dubai-uae-same-day): Vape Escape UAE offers same-day vape delivery across Dubai for orders placed before 7:00 PM. Physical store at Shop No. 2, Zada Tower, Business Bay...
+  Updated: 2026-04-25T22:39:42Z
+- [Is Vape Legal in Dubai, UAE? | Legal Vaping Guide – Vape Escape](https://vapeescapeuae.store/pages/is-vape-legal-in-dubai-uae): Is vaping legal in Dubai? Yes. Vaping is legal in Dubai and the UAE for adults aged 18+ since 2019. Products must be ESMA- and purchased f...
+  Updated: 2026-04-22T18:27:50Z
 - [Vape Shop Downtown Dubai — Near Burj Khalifa | Same-Day Delivery](https://vapeescapeuae.store/pages/downtown-dubai-vape-store): Vape Escape UAE delivers 100% authentic ESMA- vapes to Downtown Dubai same day. Order before 7:00 PM. Standard fee AED 25. Free delivery a...
-  Updated: 2026-04-17T17:23:51Z
+  Updated: 2026-04-25T23:13:49Z
 - [Vape Shop Jumeirah Dubai — Same-Day Delivery to La Mer & City Walk](https://vapeescapeuae.store/pages/jumeirah-vape-shop): Vape Escape UAE delivers 100% authentic ESMA- vapes to Jumeirah, Dubai same day. Order before 7:00 PM. Standard fee AED 25. Free delivery ...
   Updated: 2026-04-17T17:28:55Z
 - [Vape Delivery JLT Dubai — Order Before 7PM, Get Today | Vape Escape UAE](https://vapeescapeuae.store/pages/jlt-vape-delivery): Vape Escape UAE delivers 100% authentic ESMA- vapes to all JLT (Jumeirah Lake Towers) clusters in Dubai. Order before 7:00 PM for same-day...
-  Updated: 2026-04-17T17:15:20Z
+  Updated: 2026-04-22T18:23:49Z
 - [Vape Shop Sheikh Zayed Road Dubai | Business Bay Store + Same-Day Delivery](https://vapeescapeuae.store/pages/sheikh-zayed-road-vape-shop): Vape Escape UAE is a licensed ESMA- vape store on Sheikh Zayed Road, Dubai — physically located at Shop No. 2, Zada Tower, Business Bay. S...
   Updated: 2026-04-17T17:18:36Z
-- [Vape Delivery Abu Dhabi — Same-Day 3–6 Hours | IQOS, VUSE, Disposables](https://vapeescapeuae.store/pages/vape-shop-abu-dhabi): Vape Escape UAE delivers 100% authentic ESMA- vapes to Abu Dhabi with same-day delivery in 3–6 hours. Express delivery (1–3 hours) availab...
-  Updated: 2026-04-17T18:08:54Z
+- [Vape Delivery Abu Dhabi — Same Day, 3–6 Hours | Vape Escape UAE](https://vapeescapeuae.store/pages/vape-shop-abu-dhabi): Vape Delivery Abu Dhabi — Same Day, 3 to 6 Hours Order IQOS, HEETS, TEREA sticks, VUSE pods, disposables, and Myle from Vape Escape UAE — delivered...
+  Updated: 2026-04-26T12:14:59Z
 - [Your Privacy Choices](https://vapeescapeuae.store/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-04-13T19:58:54Z
 - [IQOS 3 Multi vs IQOS ILUMA Dubai — Which to Buy in 2026?](https://vapeescapeuae.store/pages/iqos-iluma-vs-iqos-3-multi-dubai-full-comparison-2026): Quick Answer: The IQOS 3 Multi uses HEETS tobacco sticks and was discontinued in 2023. The IQOS ILUMA is the current generation — it uses TEREA sti...
   Updated: 2026-04-17T20:36:18Z
+- [Vape Delivery Dubai Within 1 Hour | Same-Day Express | Vape Escape UAE](https://vapeescapeuae.store/pages/vape-delivery-dubai-1-hour): Vape Delivery Dubai Within 1 Hour There are moments where you just need vape now. Not tomorrow. Not in three hours. Now. We get it — we're vapers t...
+  Updated: 2026-04-25T22:46:41Z
+- [Buy Vape Dubai Cash on Delivery | No Card Needed | Vape Escape UAE](https://vapeescapeuae.store/pages/buy-disposable-vape-dubai-cod): Quick Answer:-Vape Escape UAE accepts Cash on Delivery (COD) on all orders across Dubai and UAE. No card required. Pay your rider when they arrive....
+  Updated: 2026-04-25T23:20:04Z
+- [Free Vape Delivery UAE — Orders  AED 299 | Vape Escape UAE](https://vapeescapeuae.store/pages/free-vape-delivery-uae-aed-299): Quick Answer Vape Escape UAE offers free delivery on all UAE orders above AED 299 — covering Dubai, Abu Dhabi, Sharjah, Ajman, RAK, Fujairah, and a...
+  Updated: 2026-04-26T12:19:03Z
+- [Order Vape on WhatsApp Dubai — Same-Day Delivery | Vape Escape UAE](https://vapeescapeuae.store/pages/vape-shop-dubai-whatsapp-order): Quick Answer: Order vapes on WhatsApp in Dubai from Vape Escape UAE. Message +971 52 769 2567 with your product and address. Same-day delivery acro...
+  Updated: 2026-04-26T12:23:03Z
 
 ## Policies
 
@@ -5943,3 +6160,6 @@ available cash on delivery(COD). free shipping on orders over AED 300. vape shop
 
 - [robots.txt](https://vapeescapeuae.store/robots.txt)
 - [sitemap.xml](https://vapeescapeuae.store/sitemap.xml)
+
+Google business profile & map direction link
+https://share.google/NkP7fPhCaH48UqT3F
