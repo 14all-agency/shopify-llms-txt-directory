@@ -9,26 +9,26 @@
 - Created At: 2024-04-12T10:02:47Z
 - Contact Email: notifications@outfittersatellite.com
 - Contact Phone: 615-889-8833
-- Updated At: 2026-04-23T09:22:44.637Z
+- Updated At: 2026-05-01T00:00:30.855Z
 
 ## Products
 
 - [BEAM 9555 PotsDOCK | Outfitter Satellite](https://www.outfittersatellite.com/products/beam-potsdock-9555): :Beam Potsdock 9555: a versatile dock for Iridium 9555 with Bluetooth Support, Optional GPS Tracking & more. Get it for vehicles, boats, planes & buildings! Order yours from Outfitter Satellite today!
-  Updated: 2026-04-23T08:10:32Z
+  Updated: 2026-04-27T10:26:30Z
   Vendor: BEAM
   Product Type: Beam Hardware / Docks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/9555-potsdock-01.jpg?v=1715089146
   Price: $1,225.00 USD
 - [Iridium 9575 PotsDOCK Extreme](https://www.outfittersatellite.com/products/beam-potsdock-extreme): Potsdock Extreme Docking Station for Iridium 9575 Extreme supports RJ11, Bluetooth, GPS Tracking, USB port for data connections & more. Order direct from Outfitter Satellite today!
-  Updated: 2026-04-23T08:10:33Z
+  Updated: 2026-04-27T10:26:30Z
   Vendor: BEAM
   Product Type: Beam Hardware / Docks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/potsdock-extreme-01.jpg?v=1715089149
   Price: $1,225.00 USD
 - [DK-050 Docking Station for Iridium 9555](https://www.outfittersatellite.com/products/9555-docking-station-dk050): Traveling to recondite places? You need the best quality in Satellite communications. Get the ASE DK-050 Docking Station for Iridium 9555 Satellite Phone. Order direct from Outfitter Satellite now!
-  Updated: 2026-04-23T08:10:20Z
+  Updated: 2026-04-27T10:26:30Z
   Vendor: ASE
   Product Type: Beam Hardware / Docks
   Availability: Available
@@ -42,14 +42,14 @@
     Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/ase-dk075-01.jpg?v=1715089148
     Price: $2,115.00 USD
 - [Beam RST210 Satellite Antenna (for Iridium) - Shop Satellite Antennas Today| Outfitter Satellite](https://www.outfittersatellite.com/products/beam-rst210-mast-antenna): If you need access to the Iridium Satellite Network for in-building or marine use, the Iridium Mast Satellite Antenna could be just the thing. Order yours from Outfitter Satellite today.
-  Updated: 2026-04-01T18:47:58Z
+  Updated: 2026-04-27T10:26:30Z
   Vendor: BEAM
   Product Type: Antennas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/beam-rst202-01.jpg?v=1723644075
   Price: $340.00 USD
 - [Pelican 1300 Case with Pluck Foam | Outfitter Satellite](https://www.outfittersatellite.com/products/pelican-1300): Pelican cases are made out of a Polypropylene co-polymer material that are light weight, durable and highly chemical / water resistant & will withstand temps of -10 degrees F to +210 degrees F. Limited quantity available!
-  Updated: 2026-04-23T08:11:58Z
+  Updated: 2026-04-27T10:26:31Z
   Vendor: Peli
   Product Type: Accessories
   Availability: Available
@@ -63,7 +63,7 @@
     Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/Pelican1300-Yellow-insert.jpg?v=1715089162
     Price: $49.00 USD
 - [Pelican 1200 | Case for Satellite Phones](https://www.outfittersatellite.com/products/pelican-1200): The Pelican 1200 offers ultimate protection for your satellite phone with a watertight, crushproof design. Shop rugged cases at Outfitters Satellite.
-  Updated: 2026-04-23T08:11:57Z
+  Updated: 2026-04-27T10:26:31Z
   Vendor: Peli
   Product Type: Accessories
   Availability: Available
@@ -105,14 +105,14 @@
     Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/pel-1200-06_f6c1908b-e77e-4d90-8263-94ece7b3f310.jpg?v=1723646330
     Price: $85.00 USD
 - [Thuraya IP+ Satellite Terminal: Shop Satellite Terminals](https://www.outfittersatellite.com/products/thuraya-ip): The Thuraya IP+ Terminal is the ultimate in compact, lightweight satellite broadband terminals. Shop satellite terminals at Outfitter Satellite today.
-  Updated: 2026-04-23T08:12:12Z
+  Updated: 2026-04-27T10:26:31Z
   Vendor: Thuraya
   Product Type: Satellite Terminals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/Thuraya_IP.jpg?v=1769168837
   Price: $3,475.00 USD
 - [Padded Soft Case for Satellite Phones](https://www.outfittersatellite.com/products/padded-soft-case): Protect your satellite phone with this padded soft case. Lightweight and durable, it's perfect for travel and outdoor use. Available at Outfitters Satellite.
-  Updated: 2026-04-23T08:11:55Z
+  Updated: 2026-04-30T12:02:39Z
   Vendor: Outfitter Satellite
   Product Type: Accessories
   Availability: Available
@@ -126,84 +126,84 @@
     Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/Softcase_Yello_01.jpg?v=1715089169
     Price: $26.00 USD
 - [Iridium 9505a/9555/9575 AC Charger & Plug Kit](https://www.outfittersatellite.com/products/ac-charger-plug-kit): Keep your Iridium 9555 or 9505A powered globally. Includes AC charger and 5 international plug adapters for worldwide use. In stock at Outfitter Satellite.
-  Updated: 2026-04-23T08:10:22Z
+  Updated: 2026-04-30T11:54:40Z
   Vendor: Iridium
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/irid-ac-04.jpg?v=1715089184
   Price: $125.00 USD
 - [Iridium 9505A/9555 International Plug Kit](https://www.outfittersatellite.com/products/international-plug-kit): Lost your International Plugs for your Iridium 9505A/9555.  No worries, order this replacement kit to fit your existing AC adapter from Outfitter Satellite.
-  Updated: 2026-04-23T08:11:15Z
+  Updated: 2026-04-27T10:26:33Z
   Vendor: Iridium
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/irid-ac-05_1d950f24-8584-4187-9d63-c50ab46fc5dd.jpg?v=1715089186
   Price: $35.00 USD
 - [Iridium 9505A/9555 AC ADAPTER (ADAPTER ONLY)](https://www.outfittersatellite.com/products/ac-charger-only): Damaged or lost your AC adapter for your Iridium 9505A/9555 from Outfitter Satellite?  No problem, Outfitter Satellite stocks the AC Adapter to get your satellite phone back up and ready to use.
-  Updated: 2026-04-23T08:10:21Z
+  Updated: 2026-04-27T10:26:33Z
   Vendor: Iridium
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/irid-ac-03_20d0ea4c-ade8-4375-a681-12c17e6b6f3f.jpg?v=1715089188
   Price: $90.00 USD
 - [Iridium 9555 Battery | Genuine Satellite Phone Battery](https://www.outfittersatellite.com/products/iridium-9555-battery): Power your Iridium 9555 with a genuine battery. 4 hours talk time & 30 hours standby. In stock and ready to ship from Outfitter Satellite.
-  Updated: 2026-04-23T08:11:17Z
+  Updated: 2026-04-30T11:42:57Z
   Vendor: Iridium
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/9555-battery-01.jpg?v=1715089191
   Price: $119.00 USD
 - [Iridium 9555 Hi Capacity Battery - Satellite Phone Battery](https://www.outfittersatellite.com/products/iridium-9555-hicap-battery): Extend the talk time on your Iridium 9555 satellite phone from Outfitter Satellite with our High Capacity (HI CAP) Battery. Boost your talk time up to 6.5 hours
-  Updated: 2026-04-23T08:11:18Z
+  Updated: 2026-04-30T11:50:11Z
   Vendor: Iridium
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/Iridium_9555_HiCap_Battery.jpg?v=1769168876
   Price: $159.00 USD
 - [IsatDock MAST Active Antenna - Satellite Phone](https://www.outfittersatellite.com/products/beam-isatdock-mast-antenna): Get a pole or mast-mount type omnidirectional marine-grade Active Antenna to use with any of the BEAM IsatDock, BEAM Terra, or BEAM Oceana sat phones. Get yours from Outfitter Satellite today.
-  Updated: 2026-04-01T18:48:08Z
+  Updated: 2026-04-27T10:26:34Z
   Vendor: BEAM
   Product Type: Beam Hardware / Docks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/beam-isatdock-antenna-01.jpg?v=1715089181
   Price: $809.00 USD
 - [BEAM IsatDock 18.5M Cable - Satellite Phone](https://www.outfittersatellite.com/products/beam-isatdock-18-5m-active-antenna-cable): Connect your IsatDock to your BEAM Isat Antenna to complete your docking solution. Order yours from Outfitter Satellite today.
-  Updated: 2026-04-01T18:48:09Z
+  Updated: 2026-04-27T10:26:34Z
   Vendor: BEAM
   Product Type: Beam Hardware / Docks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/beam-isatdock-cable-02_bcef0568-1d09-4348-b00a-962196298f7f.jpg?v=1715089186
   Price: $234.00 USD
 - [BEAM IsatDock 50M Cable - Satellite Phone | Outfitter Satellite](https://www.outfittersatellite.com/products/beam-isatdock-50m-active-antenna-cable): The BEAM IsatDock Active Cable - 50 Meters is our LONGEST Active cable run option for use with your Antenna and IsatDock. Order yours today from Outfitter Satellite.
-  Updated: 2026-04-01T18:48:10Z
+  Updated: 2026-04-27T10:26:34Z
   Vendor: BEAM
   Product Type: Beam Hardware / Docks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/beam-isatdock-cable-04.jpg?v=1715089189
   Price: $550.00 USD
 - [Iridium 9575 Extreme Battery | Standard Capacity Battery](https://www.outfittersatellite.com/products/iridium-extreme-standard-battery): Power your Iridium 9575 Extreme with a standard capacity battery. Features 4 hours of talk time and 30 hours of standby. In stock at Outfitter Satellite.
-  Updated: 2026-04-23T08:11:33Z
+  Updated: 2026-04-30T11:47:38Z
   Vendor: Iridium
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/irid-9575-bat-01.jpg?v=1715089192
   Price: $119.00 USD
 - [BEAM LiteDock Extreme - Iridium 9575 Extreme satellite phone](https://www.outfittersatellite.com/products/beam-litedock-extreme): The BEAM LiteDock Extreme is the perfect solution for the Iridium Extreme 9575 handset for maritime, vehicle or fixed applications. Order yours today from Outfitter Satellite.
-  Updated: 2026-04-23T08:10:32Z
+  Updated: 2026-04-27T10:26:35Z
   Vendor: BEAM
   Product Type: Beam Hardware / Docks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/beam-litedock-extreme-01.jpg?v=1715089196
   Price: $395.00 USD
 - [Iridium Car Charger | Compatible with 9555, 9575 & 9505A](https://www.outfittersatellite.com/products/iridium-car-charger): Charge your Iridium 9555, 9575 Extreme, or 9505A on the go. High-quality auto accessory for reliable power in any vehicle. In stock at Outfitter Satellite.
-  Updated: 2026-04-23T08:11:20Z
+  Updated: 2026-04-30T12:00:28Z
   Vendor: Iridium
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/irid-dc-01.jpg?v=1715089198
   Price: $55.00 USD
 - [Pelican 1400 Hard Case - Satellite Phone | Outfitter Satellite](https://www.outfittersatellite.com/products/pelican-1400): Protect valuable equipment from dust, water, and abuse by airport baggage handlers with our Pelican 1400, perfect for traveling. Check it out at Outfitter Satellite now.
-  Updated: 2026-04-23T08:12:02Z
+  Updated: 2026-04-27T10:26:36Z
   Vendor: Peli
   Product Type: Accessories
   Availability: Available
@@ -245,35 +245,35 @@
     Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/Pelican_1400_4.jpg?v=1769167983
     Price: $150.00 USD
 - [Iridium Car Antenna with 5-meter Cable](https://www.outfittersatellite.com/products/iridium-mobile-magnetic-mount-antenna): Iridium mobile magnetic-mount antenna with 5-meter cable with male TNC connector. Suitable for low-profile land vehicle applications. Order yours today from Outfitter Satellite!
-  Updated: 2026-04-01T18:48:12Z
+  Updated: 2026-04-27T10:26:36Z
   Vendor: Iridium
   Product Type: Antennas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/beam-rst215-01.jpg?v=1723643305
   Price: $220.00 USD
 - [Iridium Portable Auxiliary Antenna - Satellite Phone](https://www.outfittersatellite.com/products/car-antenna-1-5m): The Iridium Portable Auxiliary Antenna by AeroAntenna is a low-profile magnetic-mount antenna with a 1.5-meter (4.9 foot) antenna cable. Order yours from Outfitter Satellite today!
-  Updated: 2026-04-23T08:10:34Z
+  Updated: 2026-04-27T10:26:36Z
   Vendor: Iridium
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/irid-1-5m-ant-01.jpg?v=1715089197
   Price: $99.00 USD
 - [IsatDock Passive Fixed-Site Antenna - Satellite Phone](https://www.outfittersatellite.com/products/isatdock-fixed-passive-antenna): This is a pole-mount or mast-mount type Passive Directional Antenna that can be used with the BEAM IsatDock or BEAM Terra series products. Intended for fixed site and building installations. Order yours from Outfitter Satellite today.
-  Updated: 2026-04-23T08:11:45Z
+  Updated: 2026-04-27T10:26:37Z
   Vendor: BEAM
   Product Type: Beam Hardware / Docks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/beam-isatdock-fixed-ant-01.jpg?v=1715089199
   Price: $625.00 USD
 - [Iridium 9555 Antenna Adapter - Satellite Phone](https://www.outfittersatellite.com/products/antenna-adapter-for-9555): The Iridium 9555 antenna adapter has a TNC female connector and can be used with the portable auxiliary antenna or other external Iridium antennas.  Replaces MPN: H2AA0801. Get yours from Outfitter Satellite today.
-  Updated: 2026-04-23T08:10:26Z
+  Updated: 2026-04-30T11:57:36Z
   Vendor: Iridium
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/irid-9555-antadp-01.jpg?v=1715089204
   Price: $69.95 USD
 - [Thuraya Fixed Docking Unit (FDU) - Satellite Phone](https://www.outfittersatellite.com/products/thuraya-fixed-docking-unit): There are Thuraya Fixed Docking Unit versions for both the Thuraya XT or Thuraya XT-PRO satellite phone.  Includes external antenna and 25-meter cable.  Order direct from Outfitter Satellite now!
-  Updated: 2026-04-23T08:12:11Z
+  Updated: 2026-04-27T10:26:38Z
   Vendor: Thuraya
   Product Type: Beam Hardware / Docks
   Availability: Available
@@ -287,7 +287,7 @@
     Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/Thuraya_Fixed_Docking_Unit.jpg?v=1769168902
     Price: $1,029.00 USD
 - [IsatDock2 PRO -Satellite Phone | Outfitter Satellite](https://www.outfittersatellite.com/products/beam-isatdock2-pro): Experience our IsatDock2 PRO by BEAM an enhanced docking solution supporting RJ11/POTS connectivity for using standard telephone handsets. Available from Outfitter Satellite now!
-  Updated: 2026-04-23T08:10:31Z
+  Updated: 2026-04-27T10:26:39Z
   Vendor: BEAM
   Product Type: Beam Hardware / Docks
   Availability: Available
@@ -305,77 +305,77 @@
     Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/beam-isatdock2-pro-01.jpg?v=1715089228
     Price: $925.00 USD
 - [External Antenna Adapter - Satellite Phone | Outfitter Satellite](https://www.outfittersatellite.com/products/antenna-adapter-for-iridium-go): The Iridium GO! external antenna adapter is necessary to connect an external antenna to your Iridium GO! device. Check it out now at Outfitter Satellite!
-  Updated: 2026-04-23T08:10:27Z
+  Updated: 2026-04-27T10:26:39Z
   Vendor: Iridium
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/irid-go-antadp-01.jpg?v=1715089230
   Price: $46.00 USD
 - [Iridium GO! Wall Mount - Satellite Phone | Outfitter Satellite](https://www.outfittersatellite.com/products/wall-mounting-bracket): Wall Mounting bracket for the Irdidium GO! Hotspot. Order yours direct from Outfitter Satellite today!
-  Updated: 2026-04-23T08:12:23Z
+  Updated: 2026-04-27T10:26:39Z
   Vendor: Iridium
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/irid-go-wallmount-01.jpg?v=1715089232
   Price: $40.00 USD
 - [Iridium GO! Outdoor USB cable - 5-meter | Outfitter Satellite](https://www.outfittersatellite.com/products/outdoor-usb-cable-5m): Iridium GO! 16.4 ft outdoor grade USB cable with weather flaps to protect against water & dust intrusion that occur form extended outdoor stationing. Order yours from Outfitter Satellite today!
-  Updated: 2026-04-01T18:48:22Z
+  Updated: 2026-04-27T10:26:39Z
   Vendor: Iridium
   Product Type: Cables
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/irid-go-5mcable-01.jpg?v=1715089234
   Price: $46.00 USD
 - [Inmarsat IsatPhone 2 Battery | Genuine Replacement Battery](https://www.outfittersatellite.com/products/inmarsat-isatphone-2-battery): Power your IsatPhone 2 with a 3180 mAh Li-ion battery. Enjoy up to 8 hours of talk time and 160 hours of standby. Order now!
-  Updated: 2026-04-23T08:11:12Z
+  Updated: 2026-04-30T11:38:41Z
   Vendor: Inmarsat
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/inm-isatphone2-bat-01.jpg?v=1715089236
   Price: $99.00 USD
 - [Micro-USB data cable for the Iridium 9555 - Satellite Phone | Outfitter Satellite](https://www.outfittersatellite.com/products/mini-usb-cable): Mini-USB data cable for the Iridium 9555 satellite phone. Order yours today direct from Outfitter Satellite.
-  Updated: 2026-04-23T08:11:50Z
+  Updated: 2026-04-27T10:26:40Z
   Vendor: Iridium
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/irid-miniusb-01.jpg?v=1715089243
   Price: $35.00 USD
 - [Inmarsat EXPLORER 510 by Cobham - Satellite Phone](https://www.outfittersatellite.com/products/cobham-explorer-510): The EXPLORER 510 by Cobham is one of the smallest but most advanced Inmarsat BGAN terminals.  Outfitter Satellite offers low cost prepaid, postpaid, and SCAP plans.
-  Updated: 2026-04-23T08:10:41Z
+  Updated: 2026-04-27T10:26:41Z
   Vendor: Cobham
   Product Type: Satellite Terminals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/inm-exp510-01.jpg?v=1715089238
   Price: $3,205.00 USD
 - [Cobham EXPLORER DC Car Charger - Satellite Phone](https://www.outfittersatellite.com/products/dc-car-charger): EXPLORER DC Car Charger for use with the Cobham EXPLORER 510 and Cobham EXPLORER 710 BGAN terminals. Order yours today from Outfitter Satellite!
-  Updated: 2026-04-01T18:48:25Z
+  Updated: 2026-04-27T10:26:41Z
   Vendor: Cobham
   Product Type: Satellite Terminals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/Cobham_Explorer_DC_Car_Charger.jpg?v=1769168664
   Price: $119.00 USD
 - [Iridium Extreme PTT](https://www.outfittersatellite.com/products/iridium-extreme-ptt-with-soft-case): The Iridium Extreme PTT with soft case offers global push-to-talk functionality and durable protection. Perfect for rugged environments. Shop now!
-  Updated: 2026-04-23T08:11:26Z
+  Updated: 2026-04-27T10:26:42Z
   Vendor: Iridium
   Product Type: Satellite Phones - Iridium
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/softcase-02_7e17c2e9-5a6a-4cf1-9f37-33e6522649f5.jpg?v=1719327500
   Price: $1,449.00 USD
 - [EXPLORER 710 Inmarsat BGAN - Shop High Data Rate Terminals](https://www.outfittersatellite.com/products/cobham-explorer-710): The EXPLORER 710 is the smallest Class 1 BGAN that supports HDR. Itâ€™s a compact yet powerful terminal. Order yours from Outfitter Satellite today.
-  Updated: 2026-04-23T08:10:41Z
+  Updated: 2026-04-27T10:26:29Z
   Vendor: Cobham
   Product Type: Satellite Terminals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/inm-exp-710-01.jpg?v=1715089260
   Price: $8,192.00 USD
 - [Cobham Explorer 710 battery model TT-3686G](https://www.outfittersatellite.com/products/cobham-explorer-710-battery): Cobham Explorer 710 battery model TT-3686G by Outfitter Satellite Phones. Order yours today and upgrade your phone.
-  Updated: 2026-04-23T08:10:42Z
+  Updated: 2026-04-27T10:26:30Z
   Vendor: Cobham
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/inm-exp-710-bat-01.jpg?v=1715089264
   Price: $412.00 USD
 - [DK075 Docking Station with POTS for Iridium 9555](https://www.outfittersatellite.com/products/9555-docking-station-with-pots-dk075): ASE docking station for the Iridium 9555 satellite phone.  Allows indoor and below decks use through a variety of external antennas. Get yours from Outfitter Satellite.
-  Updated: 2026-04-23T08:10:20Z
+  Updated: 2026-04-30T11:22:00Z
   Vendor: ASE
   Product Type: Accessories
   Availability: Available
@@ -389,175 +389,168 @@
     Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/ase-dk075-01_183ec59c-b498-4844-9948-956ccb3be4f6.jpg?v=1715089273
     Price: $2,155.00 USD
 - [ASE ComCenter II MC08 - Shop Indoor Satellite Handsets](https://www.outfittersatellite.com/products/ase-comcenter-ii-indoor): The ASE ComCenter II provides voice and data services to your office or building and mounts indoors. Order yours from Outfitter Satellite today.
-  Updated: 2026-04-01T18:48:33Z
+  Updated: 2026-04-27T10:26:31Z
   Vendor: ASE
   Product Type: Docking Stations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/ase-mc08-01.jpg?v=1715089278
   Price: $6,497.02 USD
 - [Iridium GO!Â® Rechargeable Li-ion Battery - Satellite Phone](https://www.outfittersatellite.com/products/iridium-go-battery): Get up to 5.5 hours of talk and data use 15.5 hours on standby mode. Order the Iridium GO! rechargeable li-ion battery now. Get yours from Outfitter Satellite today.
-  Updated: 2026-04-23T08:11:35Z
+  Updated: 2026-04-27T10:26:32Z
   Vendor: Iridium
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/irid-go-battery-01.jpg?v=1715089295
   Price: $65.00 USD
-- [Iridium 9575 Extreme High Capacity Battery | Outfitter](https://www.outfittersatellite.com/products/iridium-extreme-hicap-battery): Extend your mission with the Iridium 9575 Extreme High Capacity Battery. Offers up to 6.5 hours of talk time. Genuine power for your satellite phone. Order now!
-  Updated: 2026-04-23T08:11:22Z
-  Vendor: Iridium
-  Product Type: Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/Iridium_Extreme_HiCap_Battery.jpg?v=1769167533
-  Price: $145.00 USD
 - [Hughes 9211 HDR Inmarsat BGAN - Shop High Data Rate Terminals](https://www.outfittersatellite.com/products/hughes-9211-hdr): The Hughes 911 HDR Inmarsat BGAN provides the finest balance between performance, quality of service, and cost. Order yours from Outfitter Satellite today.
-  Updated: 2026-04-01T18:48:34Z
+  Updated: 2026-04-27T10:26:32Z
   Vendor: Hughes
   Product Type: Satellite Terminals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/hughes-9211-05.jpg?v=1715178471
   Price: $6,099.00 USD
 - [ASE 9575-P BagDock Portable Docking Station](https://www.outfittersatellite.com/products/portable-docking-station): Discover the convenience of a portable docking station for your satellite phone. Stay connected on the go with a reliable docking solution from Outfitters Satellite.
-  Updated: 2026-04-01T18:48:35Z
+  Updated: 2026-04-27T10:26:32Z
   Vendor: ASE
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/ase-ptt-bagdock-02.jpg?v=1715089295
   Price: $1,190.00 USD
 - [Battery for Hughes 9202-9211 Thuraya IP+](https://www.outfittersatellite.com/products/hughes-replacement-battery): This battery for the Hughes Thuraya IP+ 9202 and 9211 works perfect for a replacement battery or a spare. Order yours from Outfitter Satellite.
-  Updated: 2026-04-01T18:48:35Z
+  Updated: 2026-04-27T10:26:33Z
   Vendor: Hughes
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/hughes-9211-bat-01.jpg?v=1715089311
   Price: $369.00 USD
 - [Spare battery for Thuraya XT-LITE - Satellite Phone](https://www.outfittersatellite.com/products/thuraya-xt-lite-battery): Get a spare rechargeable battery for Thuraya XT-LITE satellite phones. Save on batteries and other accessories today. Get yours from Outfitter Satellite today.
-  Updated: 2026-04-23T08:12:19Z
+  Updated: 2026-04-27T10:26:33Z
   Vendor: Thuraya
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/thuraya_xt_lite_batt-01.jpg?v=1715089313
   Price: $105.00 USD
 - [Padded Soft Case with Carry Strap - Satellite Phone](https://www.outfittersatellite.com/products/medium-padded-soft-case): Protect your satellite equipment with our padded soft case with carrying strap, perfect for keeping your valuables safe while traveling. Order from Outfitter Satellite today!
-  Updated: 2026-04-01T18:48:37Z
+  Updated: 2026-04-27T10:26:34Z
   Vendor: Outfitter Satellite
   Product Type: Cases
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/Medium_Padded_Soft_Case.jpg?v=1769168613
   Price: $29.00 USD
 - [IsatPhone Car Charger - Satellite Phone | Outfitter Satellite](https://www.outfittersatellite.com/products/car-charger): Lost your car charger? Check out our new DC car charger for the IsatPhone 2 and IsatPhone PRO satellite phones. Order now at Outfitter Satellite!
-  Updated: 2026-04-23T08:10:34Z
+  Updated: 2026-04-27T10:26:34Z
   Vendor: Inmarsat
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/dccarchargerforisatphone2andisatphonepro.png?v=1722354371
   Price: $15.00 USD
 - [IsatPhone Wall Charger - Satellite Phone | Outfitter Satellite](https://www.outfittersatellite.com/products/wall-charger): Need a new Wall Charger? Check out our AC wall charger accessory for the IsatPhone 2 and IsatPhone PRO satellite phones. Available now at Outfitter Satellite!
-  Updated: 2026-04-23T08:12:23Z
+  Updated: 2026-04-27T10:26:34Z
   Vendor: Inmarsat
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/inm-isaphone2-ac-01.jpg?v=1715089320
   Price: $30.00 USD
 - [USB Charging Adapter for Satellite Phones](https://www.outfittersatellite.com/products/usb-charging-adapter): Keep your satellite phone powered with a USB charging adapter, perfect for on-the-go charging. Available now at Outfitters Satellite.
-  Updated: 2026-04-23T08:12:22Z
+  Updated: 2026-04-27T10:26:34Z
   Vendor: Iridium
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/irid-9575-usbcharge-01.jpg?v=1715089323
   Price: $108.00 USD
 - [Thuraya XT-PRO Battery - Satellite Phone | Outfitter Satellite](https://www.outfittersatellite.com/products/thuraya-xt-pro-battery): Replacement rechargeable battery for Thuraya XT-PRO. Swap old Li-ion batteries for longer satellite phone operations or carry as an extra in remote areas. Order yours today from Outfitter Satellite.
-  Updated: 2026-04-23T08:12:21Z
+  Updated: 2026-04-27T10:26:35Z
   Vendor: Thuraya
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/thur-xt-pro-bat-01.jpg?v=1715089328
   Price: $129.00 USD
 - [Vehicle Mount Docking Station](https://www.outfittersatellite.com/products/vehicle-mount-docking-station): Stay connected on the road with this vehicle mount docking station for satellite phones. Easy installation and reliable performance from Outfitters Satellite.
-  Updated: 2026-04-01T18:48:44Z
+  Updated: 2026-04-27T10:26:36Z
   Vendor: ASE
   Product Type: Docking Stations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/ase-9575-veh-01.jpg?v=1715089329
   Price: $1,390.00 USD
 - [Antenna Charging Adapter for Iridium 9575](https://www.outfittersatellite.com/products/antenna-charging-adapter-for-9575): Ensure your Iridium 9575 phone stays charged with this antenna charging adapter. Ideal for extended use in remote areas. Shop now at Outfitters Satellite.
-  Updated: 2026-04-23T08:10:28Z
+  Updated: 2026-04-27T10:26:36Z
   Vendor: Iridium
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/irid-9575-ant-adp-01.jpg?v=1715089331
   Price: $129.00 USD
 - [Iridium Extreme® Leather Holster - Satellite Phone](https://www.outfittersatellite.com/products/iridium-extreme-leather-holster): Iridium Extreme® Leather Holster protects the device against bumps and scratches and provides a way to clip to your belt. Order yours today from Outfitter Satellite.
-  Updated: 2026-04-23T08:11:23Z
+  Updated: 2026-04-30T11:51:45Z
   Vendor: Iridium
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/irid-9575-hol-01.jpg?v=1715089333
   Price: $39.99 USD
 - [Iridium 9555 Leather Holster - Satellite Phone](https://www.outfittersatellite.com/products/iridium-9555-leather-holster): The 9555 leather holster protects the device against bumps and scratches and provides a way to clip to your belt. Get yours today direct from Outfitter Satellite.
-  Updated: 2026-04-23T08:11:18Z
+  Updated: 2026-04-27T10:26:36Z
   Vendor: Iridium
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/irid-9555-hol-01.jpg?v=1715089335
   Price: $39.99 USD
 - [Thales MissionLINK for Iridium Certus - Satellite Phone](https://www.outfittersatellite.com/products/thales-missionlink-700): The Thales MissionLINK utilizes the new Iridium Next network on Iridium Certus service.  It provides 100% global coverage with low latency.
-  Updated: 2026-04-01T18:48:46Z
+  Updated: 2026-04-27T10:26:37Z
   Vendor: Thales
   Product Type: Satellite Internet Terminals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/thales-missionlink-01.jpg?v=1715089341
   Price: $5,995.00 USD
 - [Hughes 9202M - Shop BGAN Satellite Terminals](https://www.outfittersatellite.com/products/hughes-9202m): The Hughes 9202M is a lightweight BGAN terminal that offers broadband internet access with speeds up to 464 kbps. Shop satellite terminals at Outfitter Satellite today.
-  Updated: 2026-04-01T18:48:46Z
+  Updated: 2026-04-27T10:26:37Z
   Vendor: Hughes
   Product Type: Satellite Terminals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/hughes9202.jpg?v=1715089341
   Price: $3,549.00 USD
 - [Icom IC-SAT100 Iridium PTT Radio | Outfitter Satellite](https://www.outfittersatellite.com/products/icom-ic-sat100-ptt-satellite-phone): Order the Icom IC-SAT100 for reliable Iridium Push-To-Talk (PTT) service. High-volume group communication anywhere on Earth. Rugged, IP67 rated, and easy to use.
-  Updated: 2026-04-23T08:11:01Z
+  Updated: 2026-04-27T10:26:38Z
   Vendor: Icom
   Product Type: Radios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/ICOM_IC-SAT100_PTT_Satellite_Phone.jpg?v=1769168925
   Price: $1,249.00 USD
 - [BEAM Isatdock2 Adapter - Satellite Phone | Outfitter Satellite](https://www.outfittersatellite.com/products/beam-isatdock2-adapter): Make your life easier with a replacement adapter for Isatdock2 by Beam. Get yours today from Outfitter Satellite.
-  Updated: 2026-04-01T18:48:47Z
+  Updated: 2026-04-27T10:26:38Z
   Vendor: BEAM
   Product Type: Adapters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/isatdock2-adapter.png?v=1715089375
   Price: $99.00 USD
 - [ICOM IC-SAT100 Battery - Satellite Phone](https://www.outfittersatellite.com/products/icom-ic-sat100-battery): Extra power for your ICOM IC-SAT100 PTT Device. Order your battery from Outfitter Satellite today!
-  Updated: 2026-04-23T08:11:00Z
+  Updated: 2026-04-27T10:26:40Z
   Vendor: Icom
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/ic-batt-01.jpg?v=1715089382
   Price: $149.95 USD
 - [ICOM IC-SAT100 Rapid Charger - Satellite Phone](https://www.outfittersatellite.com/products/icom-rapid-charger): Charge your ICOM IC-SAT100 rapidly in its own cradle. Get this and more Satellite phone accessories from Outfitter Satellite today.
-  Updated: 2026-04-01T18:48:50Z
+  Updated: 2026-04-27T10:26:40Z
   Vendor: Icom
   Product Type: Chargers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/ic-charger-01.jpg?v=1715089383
   Price: $69.95 USD
 - [ICOM IC-SAT100 6-Gang Charger - Satellite Phone](https://www.outfittersatellite.com/products/icom-6-gang-battery-charger): Charge up to 6 IC-SAT100 batteries at a time with the BC-214N 6-gang battery charger. Order yours from Outfitter Satellite today!
-  Updated: 2026-04-23T08:11:00Z
+  Updated: 2026-04-27T10:26:40Z
   Vendor: Icom
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/ic-6gangcharger-01.jpg?v=1715089385
   Price: $449.95 USD
 - [Iridium Edge Solar M2M - Shop Solar-Powered SBD Devices](https://www.outfittersatellite.com/products/iridium-edge-solar): This standalone, programable, solar-powered SBD device offers real-time GPS tracking. Order your Iridium Edge Solar M2M from Outfitter Satellite today.
-  Updated: 2026-04-23T08:11:21Z
+  Updated: 2026-04-27T10:26:40Z
   Vendor: Iridium
   Product Type: Trackers - Iridium
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/Iridium_Edge_Solar.png?v=1769168818
   Price: $389.00 USD
 - [Iridium Passive Antenna Cable](https://www.outfittersatellite.com/products/passive-antenna-cable): Get a reliable passive antenna cable for your satellite phone. Perfect for improving signal strength in remote locations. Available at Outfitter Satellite.
-  Updated: 2026-04-01T18:48:53Z
+  Updated: 2026-04-27T10:26:40Z
   Vendor: Iridium
   Product Type: Cables
   Availability: Available
@@ -579,7 +572,7 @@
     Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/Iridium_Passive_Antenna_Cable.jpg?v=1769168989
     Price: $459.00 USD
 - [Beam Passive Antenna Cable](https://www.outfittersatellite.com/products/beam-passive-antenna-cable): Boost satellite signal with the Beam passive antenna cable, ensuring reliable communication in remote areas. Available now at Outfitters Satellite.
-  Updated: 2026-04-01T18:48:53Z
+  Updated: 2026-04-27T10:26:41Z
   Vendor: BEAM
   Product Type: Beam Hardware / Docks
   Availability: Available
@@ -605,7 +598,7 @@
     Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/beam-antcable-01.jpg?v=1715089367
     Price: $1,425.00 USD
 - [ASE Antenna Kits by Blue Sky Networks | Iridium Signal Boost](https://www.outfittersatellite.com/products/ase-antenna-kits-by-blue-sky-networks): Enhance your Iridium signal with ASE antenna kits by Blue Sky Networks. Reliable satellite connectivity for remote offices, buildings, and marine use. Shop now!
-  Updated: 2026-04-01T18:48:55Z
+  Updated: 2026-04-27T10:26:29Z
   Vendor: ASE
   Product Type: Beam Hardware / Docks
   Availability: Available
@@ -638,7 +631,7 @@
     Availability: Available
     Price: $4,730.00 USD
 - [ASE Dual-Mode Antenna Kits by Blue Sky Networks](https://www.outfittersatellite.com/products/ase-dual-mode-antenna-kits-by-blue-sky-networks): Improve connectivity with ASE dual-mode antenna kits from Blue Sky Networks. Perfect for reliable satellite and cellular signal reception. Shop now!
-  Updated: 2026-04-23T08:10:29Z
+  Updated: 2026-04-27T10:26:30Z
   Vendor: ASE
   Product Type: Antennas
   Availability: Available
@@ -662,126 +655,119 @@
     Availability: Available
     Price: $4,600.00 USD
 - [ICOM BC-247 Docking Station](https://www.outfittersatellite.com/products/icom-bc-247-dock): If you are looking for a rugged, global, push-to-talk docking station for your IC-SAT 100 then order the ICOM BC-247 from Outfitter Satellite today.
-  Updated: 2026-04-01T18:48:56Z
+  Updated: 2026-04-27T10:26:30Z
   Vendor: Icom
   Product Type: Docking Stations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/icom-bc-247-01.jpg?v=1715089392
   Price: $415.00 USD
 - [ICOM IC-SAT100 Antenna - Satellite Phone](https://www.outfittersatellite.com/products/icom-ic-sat100-antenna): Replacement antenna for your ICOM IC-SAT100 PTT Device. Order your antenna from Outfitter Satellite today!
-  Updated: 2026-04-01T18:48:58Z
+  Updated: 2026-04-27T10:26:30Z
   Vendor: Icom
   Product Type: Antennas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/ic-antenna-01.jpg?v=1715089396
   Price: $210.00 USD
 - [ICOM IC-SAT100 External Antenna - Satellite Phone](https://www.outfittersatellite.com/products/icom-ah-40-external-antenna): External antenna for your ICOM IC-SAT100 PTT Device. Order your antenna from Outfitter Satellite today!
-  Updated: 2026-04-01T18:48:59Z
+  Updated: 2026-04-27T10:26:30Z
   Vendor: Icom
   Product Type: Antennas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/ic-extant-01.jpg?v=1715089398
   Price: $279.00 USD
 - [ICOM IC-SAT100 Speaker Microphone - Satellite Phone | Outfitter Satellite Phones](https://www.outfittersatellite.com/products/icom-speaker-microphone): Speaker microphone for your ICOM IC-SAT100 PTT Device. Order your antenna from Outfitter Satellite today!
-  Updated: 2026-04-01T18:48:59Z
+  Updated: 2026-04-27T10:26:31Z
   Vendor: Icom
   Product Type: Microphones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/ic-spkmic-01.jpg?v=1715089400
   Price: $145.00 USD
 - [Headquarters Docking Station with POTS for Satellite Phones](https://www.outfittersatellite.com/products/headquarters-docking-station-with-pots): Connect your satellite phone with the headquarters docking station featuring POTS for clear and reliable communication. Shop now at Outfitters Satellite.
-  Updated: 2026-04-23T08:10:59Z
+  Updated: 2026-04-27T10:26:31Z
   Vendor: ASE
   Product Type: Beam Hardware / Docks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/ase-9575P-HQ-01.jpg?v=1715089402
   Price: $1,800.00 USD
 - [IsatDock 10m Passive Cable for Inmarsat Phones](https://www.outfittersatellite.com/products/isatdock-10m-passive-cable): Improve your Inmarsat phone's performance with the IsatDock 10m passive cable. Ideal for extending connectivity in remote areas. Shop now at Outfitters Satellite.
-  Updated: 2026-04-01T18:49:02Z
+  Updated: 2026-04-27T10:26:31Z
   Vendor: BEAM
   Product Type: Beam Hardware / Docks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/beam-isd936-01.jpg?v=1715089401
   Price: $140.00 USD
 - [IsatDock 20m Passive Cable for Inmarsat Phones](https://www.outfittersatellite.com/products/isatdock-20m-passive-cable): Extend your Inmarsat phone’s signal with the IsatDock 20m passive cable. Ideal for remote communication needs. Shop now at Outfitters Satellite.
-  Updated: 2026-04-01T18:49:03Z
+  Updated: 2026-04-27T10:26:32Z
   Vendor: BEAM
   Product Type: Beam Hardware / Docks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/beam-isd937-01.jpg?v=1715089403
   Price: $310.00 USD
 - [Icom IC-SAT100M for Iridium PTT - Satellite Phone | Outfitter Satellite Phones](https://www.outfittersatellite.com/products/icom-ic-sat100m): The Icom IC-SAT100m is a device designed specifically for Iridium's push-to-talk service for high volume communication anywhere on the planet. Order yours from Outfitter Satellite today!
-  Updated: 2026-04-23T08:11:02Z
+  Updated: 2026-04-27T10:26:33Z
   Vendor: Icom
   Product Type: Radios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/ICOM_IC-SAT100M.jpg?v=1769168732
   Price: $2,975.00 USD
 - [Iridium GO! exec® | Portable Satellite Wi-Fi Hotspot](https://www.outfittersatellite.com/products/iridium-go-exec): The Iridium GO! Exec offers portable satellite Wi-Fi with reliable global coverage. Stay connected anywhere with this compact device. Order now from Outfitters Satellite.
-  Updated: 2026-04-23T08:11:36Z
+  Updated: 2026-04-27T10:26:38Z
   Vendor: Iridium
   Product Type: Satellite Wi-Fi Hotspots - Iridium Go! exec
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/irid-go-exec-05.jpg?v=1715089482
   Price: $1,575.00 USD
 - [Iridium GO! exec Premium Dual Mode Antenna Kit - Satellite Phone](https://www.outfittersatellite.com/products/premium-dual-mode-antenna-kit): The Fixed Installation Kit for the Iridium GO! exec is a dual mode antenna kit than enables your Iridium GO! exec to work indoors on land or sea. Outfitter Satellite offers additional  when you purchase the kit with your Iridium GO! exec.
-  Updated: 2026-04-01T18:49:09Z
+  Updated: 2026-04-27T10:26:41Z
   Vendor: Iridium
   Product Type: Antennas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/irid_goexec_fxdinskit_01.jpg?v=1715089528
   Price: $639.00 USD
 - [Iridium GO! exec LITE Single Mode Antenna Kit - Satellite Phone](https://www.outfittersatellite.com/products/lite-single-mode-antenna-kit): The LITE Single Mode Antenna Kit for the Iridium GO! exec includes a pass Iridium mast antenna, mounting kit, and 5-meter LMR400 cable  by Iridium. It allows you to work indoors on land or at sea.
-  Updated: 2026-04-23T08:11:47Z
+  Updated: 2026-04-27T10:26:29Z
   Vendor: Iridium
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/Iridium_GO_exec_LITE_External_Single-Mode_Antenna_Kit.png?v=1769168775
   Price: $409.00 USD
 - [BEAM RST210 Iridium Passive Single-Mode Mast Antenna](https://www.outfittersatellite.com/products/beam-rst202-mast-antenna): Improve your satellite communication with the Beam RST210 mast antenna. Designed for clear signal reception in remote areas. Shop antennas now at Outfitters Satellite.
-  Updated: 2026-04-01T18:49:11Z
+  Updated: 2026-04-27T10:26:29Z
   Vendor: BEAM
   Product Type: Antennas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/beam-rst210-01_d7738883-e879-4388-a3b0-8a127c19c98b.jpg?v=1715089554
   Price: $325.00 USD
 - [SPOT GEN 4™](https://www.outfittersatellite.com/products/spot-gen-4): The SPOT Gen4 is the pocket-sized satellite GPS messenger that allows you to keep family, friends, and colleagues informed of your safety. In case of an emergency, it can send an alert through the Globalstar satellite network, providing a vital, life-saving communication link.
-  Updated: 2026-04-23T08:12:05Z
+  Updated: 2026-04-27T10:26:31Z
   Vendor: SPOT
   Product Type: Trackers - SPOT Gen4
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/spot-gen4-satellite-gps-messenger.png?v=1773390108
   Price: $149.95 USD
-- [SPOT Trace®](https://www.outfittersatellite.com/products/spot-trace): The SPOT Trace provides advanced tracking for your most valued assets. Receive instant text or email alerts when movement is detected, and monitor your assets using SPOT Mapping on your phone or computer.
-  Updated: 2026-04-23T08:12:06Z
-  Vendor: SPOT
-  Product Type: Trackers - SPOT Trace
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/spottrace1_ca093efb-3255-464f-9a3c-094428867b52.png?v=1722355813
-  Price: $123.25 USD
 - [SPOT X® Two-Way Satellite Messenger](https://www.outfittersatellite.com/products/spot-x): The SPOT X offers 2-way satellite messaging for when you’re off the grid or out of cellular range. Connect SPOT X to your smartphone via Bluetooth through the SPOT X app to access your contacts and communicate easily.
-  Updated: 2026-04-23T08:12:07Z
+  Updated: 2026-04-27T10:26:32Z
   Vendor: SPOT
   Product Type: Trackers - SPOT X
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/SPOT_X.png?v=1769168694
   Price: $238.38 USD
 - [Globalstar SmartOne C Satellite Tracker](https://www.outfittersatellite.com/products/globalstar-smartone-c): **Custom Order - 1-2 week lead time** The SmartOne C from Globalstar is an affordable asset tracker that enables smart management of both fixed and mobile assets, providing a practical solution to enhance your operational efficiency and security. The SmartOne C is a compact commercial IoT device with low power consumption and is ideal for asset tracking with lightweight input and event monitoring. It can be powered by an external source or, if external power is unavailable or interrupted, it will automatically switch to battery backup using four AAA batteries. The SmartOne C employs motion sensors, comparative GPS positions, and custom-configured sensors to collect and transmit asset status information. Features Up to 12 different reporting times Choose Interval Tracking or 24-hour operation mode Various reporting schedules Low battery alert Easy set-up and install Powered by external/regulator cables or lithium batteries Automatic alerts if an asset moves outside of the preconfigured range Low-cost messaging mode for when an asset stays in the same location for a predetermined period Hardware on/off feature that allows the device to initiate GPS re-centering mode Serial signals (TTL) accepted from external device sensors Specifications Specification Details Dimensions 6.86 x 8.26 x 2.54 cm (2.7 x 3.25 x 1 in) Weight 102 g (3.6 oz) with 4 batteries and mounting hardware Operating Temperature -30° to +60°C (-22° to +140°F)Note: The unit remains operational over -40° to +85°C (-40° to +185°F), though battery life and RF performance may be reduced. Line Power 5V DC or 8–22V DC with regulator cable Battery Type 4 × AAA 1.5V lithium cells (up to 1.5+ years of operation) Certifications ANATEL (Brazil, pending), FCC CFR Parts 15 & 25, Industry Canada, CE Mark (Europe), COFETEL (pending) Standards SAE J1455, MIL-STD-810, NEMA 4X / IP68, RoHS compliant Satellite Technology Global LEO satellite operation using the Globalstar Satellite Network SmartOne Satellite Tracker – Message Delivery Options and Formats Before activation, you must select a messaging plan and a data delivery route. The messaging plan allows your SmartOne tracker to transmit GPS coordinates and other data to your chosen destination. View SmartOne Airtime and Messaging Plans To access your GPS data or reports, choose one of the following delivery options: Bespoke tracking portal Deliver raw data to a corporate server Deliver decoded messages by email Deliver decoded messages to a URL Download full details of the messaging options Downloads SmartOne C Brochure SmartOne C User Guide
-  Updated: 2026-04-23T08:10:57Z
+  Updated: 2026-04-27T10:26:34Z
   Vendor: Globalstar
   Product Type: Trackers - SmartOne
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/smartonec4.png?v=1716887715
   Price: $106.87 USD
 - [Globalstar SolarTrack](https://www.outfittersatellite.com/products/solartrack): **Custom Order - 1-2 week lead time** SolarTrack is the ideal solution for remote IoT and asset tracking applications where cellular network access is limited or unavailable. Utilizing the Globalstar Low Earth Orbit satellite network, SolarTrack provides near-global tracking capabilities, making it perfect for applications like livestock tracking, lone worker safety, fleet management, fuel monitoring, security personnel tracking, event management, and SCADA systems. Features Compact, rugged design Internal satellite and GPS sensors Easy to install and mount on any asset View GPS locations online Set up geofencing alerts Coverage across 120 counties How SolarTrack Works Tracking SolarTrack uses the Globalstar satellite network to transmit GPS coordinates to the mapping portal as frequently as every five minutes. This satellite capability ensures that your assets are safe with near real-time updates, even in the most remote locations. Configuration Configuring SolarTrack to meet your specific needs is simple with Bluetooth technology. This feature also allows integration with SCADA systems to transmit data from remote sensors monitoring assets such as pipelines, agricultural watering systems, and security systems. Subscriptions Service SolarTrack 3 SolarTrack 12* Activation Fee $30.00 $30.00 Monthly Fee $25.00 $40.00 Minimum Term 3 Months 12 Months Includes Hardware ✗ ✓ Includes Unlimited Messages ✓ ✓ Includes Mapping Portal ✓ ✓ *Please ensure you contact us via phone or email if you wish to subscribe to this service package. Specification Dimensions 58 x 32 x 18.5 mm Weight 24g Mounts Animal Ear Tag (2g) or Multipurpose Clip (5g) Power Solar Charging Solar Charge Rate .125 watts5 hours of direct sunlight to fully charge from a dead battery3 hours of direct daily sunlight to keep fully charged at 30 minute reporting rate Battery Type Lithium Polymer Battery Charge Time Dependent on sun exposure* Battery Capacity 150mAh Battery Lithium Content 0.054 grams (0.002 ounces) Expected Battery Life (without charging the battery) Reporting Interval Battery Life 30 minutes 1.5 days 60 minutes 3 days 240 minutes 10 days 720 minutes 19 days 1440 minutes 28 days
-  Updated: 2026-04-23T08:12:05Z
+  Updated: 2026-04-27T10:26:35Z
   Vendor: Globalstar
   Product Type: Trackers - SmartOne
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/solartrackproductimage.png?v=1718269511
   Price: $136.79 USD
 - [ Used Iridium Extreme PTT | Rugged Satellite Radio](https://www.outfittersatellite.com/products/-used-iridium-extreme-model-9575n): Save on a  Used Iridium Extreme PTT. Professional-grade push-to-talk and global voice in one rugged device. Fully tested with 100% global coverage.
-  Updated: 2026-04-23T08:10:38Z
+  Updated: 2026-04-27T10:26:36Z
   Vendor: Iridium
   Product Type: Satellite Phones - Iridium
   Availability: Available
@@ -795,7 +781,7 @@
     Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/iridium-extreme-9575n-yellow-case.png?v=1715089313
     Price: $949.00 USD
 - [Iridium 9575 Extreme High Capacity Battery | Outfitter](https://www.outfittersatellite.com/products/iridium-extreme-model-9575n): Power your Iridium 9575 Extreme with a high-capacity battery. Designed for durability in harsh environments. Fast shipping from Outfitter Satellite.
-  Updated: 2026-04-23T08:11:24Z
+  Updated: 2026-04-30T11:20:21Z
   Vendor: Iridium
   Product Type: Iridium Extreme
   Availability: Available
@@ -809,7 +795,7 @@
     Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/Iridium_Extreme_Model_9575N_2.png?v=1769167662
     Price: $1,349.00 USD
 - [ Used Iridium 9555 | Tested & Reliable | Outfitter Satellite](https://www.outfittersatellite.com/products/-used-iridium-9555): Save on a  Used Iridium 9555 satellite phone. Fully tested, 12-month warranty included, and 100% global coverage. Reliable comms for a better price.
-  Updated: 2026-04-23T08:10:37Z
+  Updated: 2026-04-27T11:59:44Z
   Vendor: Iridium
   Product Type: 
   Availability: Available
@@ -823,7 +809,7 @@
     Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/Certified_Used_Iridium_9555_2.jpg?v=1769167598
     Price: $914.00 USD
 - [Iridium 9555 Satellite Phone | Global Safety | Outfitter Satellite](https://www.outfittersatellite.com/products/iridium-9555): Order the Iridium 9555 for rugged, reliable communication in the most remote locations. 100% global coverage for voice and SMS.
-  Updated: 2026-04-23T08:11:16Z
+  Updated: 2026-04-30T11:21:10Z
   Vendor: Iridium
   Product Type: Satellite Phones - Iridium
   Availability: Available
@@ -837,7 +823,7 @@
     Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/iridium-9555-yellow-case_5a20ee4a-dfac-4fde-aa12-57a1e0a75799.png?v=1715597133
     Price: $1,129.00 USD
 - [Inmarsat IsatPhone 2 | Reliable Global Satellite Phone](https://www.outfittersatellite.com/products/inmarsat-isatphone-2): The Inmarsat IsatPhone 2 offers 8 hours of talk time and fast network registration. Durable, reliable, and perfect for maritime or emergency use. Order today!
-  Updated: 2026-04-23T08:11:12Z
+  Updated: 2026-04-30T11:28:52Z
   Vendor: Inmarsat
   Product Type: IsatPhone 2
   Availability: Available
@@ -851,21 +837,21 @@
     Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/inm-isatphone2-07_4ad64677-405d-417f-be06-aa5fd36d911b.jpg?v=1715175741
     Price: $788.00 USD
 - [Thuraya XT-LITE Satellite Phone - Shop Satellite Phones Today](https://www.outfittersatellite.com/products/thuraya-xt-lite): The Thuraya XT-Lite satellite phone provides exceptional voice and SMS messaging. Order your satellite phone from Outfitter Satellite today.
-  Updated: 2026-04-23T08:12:18Z
+  Updated: 2026-04-27T10:26:41Z
   Vendor: Thuraya
   Product Type: Satellite Phones - Thuraya
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/thur-xtlite-02.jpg?v=1715089512
   Price: $708.00 USD
 - [Thuraya XT-PRO - Purchase Your Satellite Phone](https://www.outfittersatellite.com/products/thuraya-xt-pro): Experience the most feature-rich satellite phone from the Thuraya, the XT-PRO. Shop the satellite phones at Outfitter Satellite today.
-  Updated: 2026-04-23T08:12:20Z
+  Updated: 2026-04-27T10:26:41Z
   Vendor: Thuraya
   Product Type: Satellite Phones - Thuraya
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/thur-xt-pro-01.jpg?v=1715089240
   Price: $949.00 USD
 - [Iridium GO! Hotspot - Shop Outfitter Satellite Phones](https://www.outfittersatellite.com/products/iridium-go): The Iridium GO! satellite hotspot is perfect for phone calls, texts, and light email. Order yours today from Outfitter Satellite Phones!
-  Updated: 2026-04-23T08:11:34Z
+  Updated: 2026-04-30T11:40:49Z
   Vendor: Iridium
   Product Type: Satellite Wi-Fi Hotspots
   Availability: Available
@@ -879,7 +865,7 @@
     Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/irid-go-01_ff709434-aa79-4155-b764-8fd89f99da70.jpg?v=1715089297
     Price: $849.00 USD
 - [Iridium GO! Hotspot Used | Satellite Hotspot](https://www.outfittersatellite.com/products/-used-iridium-go): The Iridium GO! Hotspot is available used from Outfitter Satellite for a discounted price and includes a 6 month warranty. Order your satellite mobile hotspot today.
-  Updated: 2026-04-23T08:10:40Z
+  Updated: 2026-04-27T10:26:42Z
   Vendor: Iridium
   Product Type: 
   Availability: Available
@@ -893,7 +879,7 @@
     Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/irid-go-01.jpg?v=1715089253
     Price: $619.00 USD
 - [Inmarsat SIM Card | Near-Global Satellite Connectivity](https://www.outfittersatellite.com/products/inmarsat-sim-card): Get reliable connectivity with an Inmarsat SIM card. Perfect for maritime, remote work, and global travel. Flexible prepaid and postpaid plans available now.
-  Updated: 2026-04-23T08:11:15Z
+  Updated: 2026-04-30T12:04:06Z
   Vendor: Inmarsat
   Product Type: SIM Cards (SIM Only ex Thuraya)
   Availability: Available
@@ -905,7 +891,7 @@
     Availability: Available
     Price: $10.00 USD
 - [Iridium SIM Card | Global Satellite Connectivity | Outfitters Satellite](https://www.outfittersatellite.com/products/iridium-sim-card): Stay connected anywhere on Earth. Get your Iridium SIM card with fast activation and 100% global coverage. Reliable voice and data plans for your satellite phone.
-  Updated: 2026-04-23T08:11:45Z
+  Updated: 2026-04-30T17:46:56Z
   Vendor: Iridium
   Product Type: SIM Cards (SIM Only ex Thuraya)
   Availability: Available
@@ -914,7 +900,7 @@
     Availability: Available
     Price: $10.00 USD
   - [Pay Monthly Iridium Satellite Phones](https://www.outfittersatellite.com/products/iridium-sim-card?variant=41348755718242)
-    Availability: Available
+    Availability: Not Available
     Price: $10.00 USD
   - [Pay Monthly Iridium GO! exec](https://www.outfittersatellite.com/products/iridium-sim-card?variant=41348821483618)
     Availability: Available
@@ -932,7 +918,7 @@
     Availability: Available
     Price: $10.00 USD
 - [Thuraya Standard Top-Ups | Prepaid Satellite Airtime](https://www.outfittersatellite.com/products/thuraya-sim-card): Recharge your Thuraya phone quickly. Choose from a variety of standard prepaid airtime top-ups for seamless global communication. Order now!
-  Updated: 2026-04-23T08:12:14Z
+  Updated: 2026-04-30T11:58:56Z
   Vendor: Thuraya
   Product Type: SIM Cards (Thuraya SIM Only)
   Availability: Available
@@ -944,14 +930,14 @@
     Availability: Available
     Price: $10.00 USD
 - [Garmin inReach® Messenger](https://www.outfittersatellite.com/products/garmin-inreach-messenger): With the inReach® Messenger satellite communicator home is closer than you think. Providing global two-way messaging and interactive SOS, it keeps you connected with friends and family even when you’re out of cell coverage.
-  Updated: 2026-04-23T08:10:51Z
+  Updated: 2026-04-27T12:56:51Z
   Vendor: Garmin
   Product Type: Trackers - Garmin
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/inreachmessenger8.png?v=1722346559
   Price: $299.99 USD
 - [Garmin inReach Mini 2 | Compact Satellite Messenger | Outfitter](https://www.outfittersatellite.com/products/garmin-inreach-mini-2): Stay safe anywhere with the Garmin inReach Mini 2. Features two-way messaging, SOS alerts, and TracBack® routing. Compact, rugged, and global. Order today!
-  Updated: 2026-04-23T08:10:53Z
+  Updated: 2026-04-27T10:26:43Z
   Vendor: Garmin
   Product Type: Trackers - Garmin
   Availability: Available
@@ -965,91 +951,91 @@
     Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/inreachmini2black3_862f4a5b-ed50-420b-803a-4efab71c5b7a.png?v=1722347061
     Price: $349.99 USD
 - [McMurdo FastFind 220 PLB | GPS & Galileo Personal Locator Beacon](https://www.outfittersatellite.com/products/mcmurdo-fastfind-220-plb): Stay safe outdoors with the McMurdo FastFind 220 PLB. Features GNSS for fast, accurate location via GPS & Galileo. Compact, waterproof, and no subscription needed.
-  Updated: 2026-04-23T08:11:47Z
+  Updated: 2026-04-30T11:32:25Z
   Vendor: McMurdo
   Product Type: Locator Beacons
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/mcmurdofastfind2201.png?v=1725870432
   Price: $268.99 USD
 - [Garmin inReach® Messenger Plus](https://www.outfittersatellite.com/products/garmin-inreach-messenger-plus): The Garmin inReach® Messenger Plus SOS satellite communicator is an upgraded version of the inReach Messenger, offering enhanced features for staying connected off the grid. This compact and rugged device allows two-way text messaging*, ensuring you can communicate with friends and family, even in remote locations without cell service.
-  Updated: 2026-04-23T08:10:51Z
+  Updated: 2026-04-27T10:26:47Z
   Vendor: Garmin
   Product Type: Trackers - Garmin
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/inreachmessengerplus1_e55685b6-240f-46c1-aa3d-3a039dbd0fa9.png?v=1726820291
   Price: $399.99 USD
 - [Iridium 9603 Developer's Kit](https://www.outfittersatellite.com/products/iridium-9603-developers-kit): The Iridium 9603 Developer's Kit is the smallest form factor of any commercial satellite transceiver currently available, and allows users to develop their own tracking device that runs off the Iridium satellite network.
-  Updated: 2026-04-23T08:11:19Z
+  Updated: 2026-04-27T10:26:47Z
   Vendor: Iridium
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/9603developerskit.png?v=1731059040
   Price: $606.33 USD
 - [Globalstar STX-3 Simplex Modem | Satellite Data Transmitter](https://www.outfittersatellite.com/products/globalstar-stx-3-simplex-modem-1): Integrate the Globalstar STX-3 for low-power satellite data transmission. Surface-mount design for IoT, tracking, and remote monitoring. 100% global coverage.
-  Updated: 2026-04-23T08:10:58Z
+  Updated: 2026-04-27T12:49:13Z
   Vendor: Globalstar
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/stx3modem.png?v=1731060145
   Price: $84.00 USD
 - [Thuraya SKYPHONE | Universal Satellite & Cellular Smartphone](https://www.outfittersatellite.com/products/thuraya-skyphone-smart-satellite-phone): Experience the future with Thuraya SKYPHONE. The first smartphone to combine satellite & cellular connectivity for seamless global use. Order yours today!
-  Updated: 2026-04-23T08:12:14Z
+  Updated: 2026-04-30T11:19:00Z
   Vendor: Thuraya
   Product Type: Satellite Phones - Thuraya
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/Thuraya_SKYPHONE_Smart_Satellite_Phone_2.png?v=1769167371
   Price: $1,063.00 USD
 - [Jotron Tron SA20 PLB](https://www.outfittersatellite.com/products/jotron-tron-sa20-plb): The Tron SA20 PLB is a Cospas-Sarsat-ready beacon and harnesses the emergency frequency 406MHz for quick and efficient rescues wherever you are in the world. It's compact, lightweight, and can be used safely in even the harshest environments. Optimized for safety and connectivity, the Tron SA20 ensures you can send a distress signal whether you're on land or at sea. With built-in Return Link Service (RLS) technology, you’ll receive confirmation that your emergency alert has been received and your location identified, giving you peace of mind that help is on the way. Plus, with Near Field Communication (NFC), you can connect to a smartphone for added functionality and ease of use. Key Features: Global Emergency Alerting: transmits on 406 MHz via Cospas-Sarsat for worldwide search and rescue coordination. Precision GPS Tracking: built-in GNSS receiver (GPS, Galileo, and Glonass) for fast and accurate positioning. Local Homing Signal: 121.5 MHz signal helps rescuers pinpoint your exact location. Compact & Lightweight: easy to carry without adding extra bulk. User-Friendly Activation: intuitive interface for quick and simple deployment in an emergency. Specification C/S 406 MHz  according to Cospas-Sarsat 121.5 MHz homing VHF/AM frequency for homing/location purposes RLS Return Link System through Galileo GNSS GNSS Supports GPS, Galileo and GLONASS MEOSAR Enhanced detection capability for faster rescue LED and IR-LED Visual and infrared light for location assistance NFC Near-Field Communication for status readout by use of a smartphone Activation One-hand activation Battery 11 year lifetime Operating Time More than 24 hours Operating Temperature Range -4°F to +131°F (-20°C to +55°C) Storage Temperature Range -22°F to +158°F (-30°C to +70°C) IP Rating Waterproof acc. to IP-X7 (max. depth 1 meter for 1 hour) Weight 5.3oz (PLB only) Dimensions H: 3.5 x W: 2.5 x D: 1.2"
-  Updated: 2026-04-23T08:11:46Z
+  Updated: 2026-04-27T10:26:29Z
   Vendor: Jotron
   Product Type: Personal Locator Beacons
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/TronSA201.png?v=1738852729
   Price: $299.00 USD
 - [Standard Horizon HX210](https://www.outfittersatellite.com/products/standard-horizon-hx210): The Standard Horizon HX210 is a powerful, fully submersible handheld VHF marine radio designed for those who demand reliable communication on the water.
-  Updated: 2026-04-23T08:12:08Z
+  Updated: 2026-04-27T10:26:30Z
   Vendor: Standard Horizon
   Product Type: Radios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/StandardHorizonHX2101.png?v=1743169343
   Price: $166.65 USD
 - [Standard Horizon HX40](https://www.outfittersatellite.com/products/standard-horizon-hx40): The Standard Horizon HX40 is one of the smallest and most powerful handheld VHF radios available, delivering 6 watts of transmission power.
-  Updated: 2026-04-23T08:12:08Z
+  Updated: 2026-04-27T10:26:30Z
   Vendor: Standard Horizon
   Product Type: Radios
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/StandardHorizonHX401.png?v=1743171750
   Price: $199.98 USD
 - [Garmin GPSMAP 67i | Handheld GPS with inReach® Satellite Communication](https://www.outfittersatellite.com/products/garmin-gpsmap-67i): The GPSMAP 67i combines multi-band GNSS with inReach® messaging and SOS, preloaded maps, and long battery life for reliable off-grid navigation.
-  Updated: 2026-04-23T08:10:47Z
+  Updated: 2026-04-30T11:43:55Z
   Vendor: Garmin
   Product Type: GPS Handhelds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/Garmin_GPSMAP_67i.png?v=1769167485
   Price: $599.99 USD
 - [Garmin Montana 710 | Rugged 5” GPS Navigator with Topo Maps](https://www.outfittersatellite.com/products/garmin-montana-710): The Garmin Montana 710 with a glove-friendly 5” screen, TopoActive Europe maps, satellite imagery, and ABC sensors for off-road navigation.
-  Updated: 2026-04-23T08:10:54Z
+  Updated: 2026-04-27T10:26:32Z
   Vendor: Garmin
   Product Type: GPS Handhelds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/GarminMontana7101.png?v=1747738218
   Price: $649.99 USD
 - [Garmin Montana 710i | GPS Navigator with inReach® Satellite Communication](https://www.outfittersatellite.com/products/garmin-montana-710i): Navigate off-grid with the Montana 710i, a rugged GPS with inReach® messaging, TopoActive maps, and satellite imagery for outdoor adventures.
-  Updated: 2026-04-23T08:10:55Z
+  Updated: 2026-04-27T10:26:33Z
   Vendor: Garmin
   Product Type: GPS Handhelds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/GarminMontana7101_405e65f9-82f3-4842-b2cc-1c304243dcba.png?v=1747738582
   Price: $799.99 USD
 - [Garmin Montana 760i | Rugged Handheld GPS with inReach® Messaging](https://www.outfittersatellite.com/products/garmin-montana-760i): Navigate and stay connected with the Garmin Montana 760i, a durable 5" GPS handheld with TopoActive maps, inReach® satellite communication, and multi-GNSS support.
-  Updated: 2026-04-23T08:10:56Z
+  Updated: 2026-04-27T12:51:10Z
   Vendor: Garmin
   Product Type: GPS Handhelds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/GarminMontana760i1.png?v=1747739035
   Price: $899.99 USD
 - [ICOM IC-M25 EVO VHF Marine Radio – Compact, Floating & USB-C Charging](https://www.outfittersatellite.com/products/icom-m25-evo-vhf-radio): Stay connected on the water with the ICOM IC-M25 EVO marine radio. Slim, floating design with 11-hour battery life, USB-C charging, and flashing light recovery.
-  Updated: 2026-04-23T08:11:03Z
+  Updated: 2026-04-27T10:26:33Z
   Vendor: Icom
   Product Type: Radios
   Availability: Available
@@ -1069,35 +1055,35 @@
   Availability: Available
   Price: $10,000.00 USD
 - [Thuraya FDU-XT Neo](https://www.outfittersatellite.com/products/thuraya-fdu-xt-neo): **CUSTOM ORDER - 3-4 Week Lead Time** The Thuraya FDU-XT NEO turns your Thuraya XT-PRO, XT-PRO Dual, XT, or XT-LITE satellite phone into a powerful, indoor satellite communications hub. It's the ideal solution for offices, remote cabins, disaster response operations centres, or anywhere that typical cell coverage doesn't exist. Easy InstallationPlug-and-play setup, with no special technical knowledge required. Reliable PowerOperates via AC or DC – suitable for both on-grid and off-grid locations. Indoor Satellite AccessStay connected indoors, even where mobile networks fail. Wide CompatibilityWorks with Thuraya XT-PRO, XT-PRO Dual, XT-LITE, and XT. Benefits of Thuraya FDU-XT NEO Satellite Connectivity IndoorsInstantly turn your satellite phone into a fixed indoor terminal, delivering reliable voice and SMS services wherever you are – even inside buildings. Plug & Play SimplicitySet up in minutes. Just dock your compatible Thuraya handset, connect the indoor and outdoor antennas, and you’re ready to make and receive calls. Universal Power OptionsRuns on mains AC or DC, making it ideal for both permanent and temporary installations – from remote sites and field offices to vehicles and shelters. Consistent, High-Quality VoiceEnjoy clear voice calls and seamless SMS, powered by Thuraya’s satellite network, even in the world’s most challenging environments. Flexible InstallationSupplied with a long-reach outdoor antenna and 25-metre cable, ensuring strong satellite signal reception even in buildings with thick walls or metal structures. .feature-table-container { display: flex; flex-wrap: wrap; gap: 20px; margin: 0 -8px; } .feature-card { background: #f7fafd; border-radius: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.07); padding: 20px 18px; flex: 1 1 230px; min-width: 220px; max-width: 350px; box-sizing: border-box; margin: 8px; font-family: 'Segoe UI', Arial, sans-serif; } .feature-title { font-weight: 600; margin-bottom: 8px; font-size: 1.07em; color: #1b2836; letter-spacing: 0.01em; } .feature-detail { color: #364354; font-size: 1em; line-height: 1.5; } @media (max-width: 700px) { .feature-table-container { flex-direction: column; gap: 12px; } .feature-card { max-width: 100%; margin: 0 0 12px 0; } } Dimensions 198 x 235 x 86 mm(W x L x H) Interfaces 2 x RJ-11 portsExternal telephone (voice), Auxiliary handset (voice)1 x USB (PC connection)1 x Speaker (Aux out)2 x SMA connectorsSatellite antenna, GPS antenna Power USB PD adapter (110–240V)Input: DC 15V Download Thuraya DFDU-XT User Manual
-  Updated: 2026-04-23T08:12:10Z
+  Updated: 2026-04-27T10:26:33Z
   Vendor: Thuraya
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/Thuraya_FDU-XT_Neo.png?v=1769168759
   Price: $1,598.00 USD
 - [Garmin GPSMAP H1 Handheld GPS Navigator | Rugged & Reliable](https://www.outfittersatellite.com/products/garmin-gpsmap-h1): Navigate with confidence using the Garmin GPSMAP H1. Rugged handheld GPS with TopoActive maps, 160-hour battery, and glove-friendly touchscreen.
-  Updated: 2026-04-23T08:10:47Z
+  Updated: 2026-04-27T12:46:38Z
   Vendor: Garmin
   Product Type: GPS Handhelds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/garmin-gpsmap-h1-rugged-handheld-gps.png?v=1773390066
   Price: $699.99 USD
 - [Garmin GPSMAP H1i Plus | Rugged GPS with Satellite Communication](https://www.outfittersatellite.com/products/garmin-gpsmap-h1i-plus): Stay connected anywhere with the Garmin GPSMAP H1i Plus. Rugged handheld GPS with maps, multi-GNSS, 160-hour battery, and global two-way satellite messaging.
-  Updated: 2026-04-23T08:10:49Z
+  Updated: 2026-04-27T10:26:34Z
   Vendor: Garmin
   Product Type: GPS Handhelds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/garmin-gpsmap-h1i-plus-inreach-satellite-gps.png?v=1773390081
   Price: $999.99 USD
 - [Thuraya IP NEO | Rugged Portable Satellite Broadband Terminal](https://www.outfittersatellite.com/products/thuraya-ip-neo): Thuraya IP NEO delivers portability and, high-speeds up to 1024 kbps. Lightweight and easy to deploy, perfect for defense, energy, and emergency response.
-  Updated: 2026-04-23T08:12:12Z
+  Updated: 2026-04-27T10:26:35Z
   Vendor: Thuraya
   Product Type: Satellite Terminals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/thurayaipneoimage1osi.png?v=1757000974
   Price: $4,892.21 USD
 - [Garmin fēnix 8 Pro | First Smartwatch with inReach Technology | OSI](https://www.outfittersatellite.com/products/garmin-fenix-8-pro): Garmin fēnix 8 Pro keeps you connected anywhere with inReach satellite SOS, LTE calling, mapping, and training tools. Built tough with titanium and sapphire.
-  Updated: 2026-04-01T18:49:52Z
+  Updated: 2026-04-27T10:26:35Z
   Vendor: Garmin
   Product Type: Satellite Messengers
   Availability: Available
@@ -1119,98 +1105,98 @@
     Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/Garmin_f_nix_8_Pro_9.png?v=1769169057
     Price: $1,299.99 USD
 - [Garmin eTrex Touch | Handheld GPS for Hiking & Outdoor Adventures](https://www.outfittersatellite.com/products/garmin-etrex-touch): Explore with the Garmin eTrex Touch handheld GPS. Features a 3” touchscreen, preloaded maps, multi-band GPS, WiFi downloads, and up to 650 hours of battery life.
-  Updated: 2026-04-23T08:10:45Z
+  Updated: 2026-04-27T10:26:36Z
   Vendor: Garmin
   Product Type: GPS Handhelds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/GarmineTrexTouch1.png?v=1758530252
   Price: $449.99 USD
 - [NAL Technologies Shout 3G Satellite Tracker](https://www.outfittersatellite.com/products/naltec-shout-3g-satellite-tracker): The SHOUT 3G is a versatile dual-mode Iridium/GSM tracking and messaging device. Featuring a touchscreen interface, it provides fast access to menus and simple text entry through an on-screen keyboard. Like the SHOUT ts, the SHOUT 3G incorporates ultra-low power electronics, consuming less than 35µA while in sleep mode. Powered by an internal 1.95 A-Hr rechargeable Li-Ion battery, the unit is capable of transmitting position reports every hour for up to two months, delivering around 1,500 reports in total. The device automatically wakes from sleep at set intervals to send its location back to a monitoring center. For emergencies, a protected 911 button enables instant alert notifications. Messages can be transmitted in standard format, 256-bit AES encryption, or PECOS 10-byte/30-byte packets. Key Features: Low-cost Small form-factor Resistive touchscreen Free-text messaging Canned messaging More than 1600 reports PECOS format 10-byte / 30-byte formats AES-256 bit encryption USB interface Bluetooth Motion sensor Data logging .spec-table-wrap { max-width: 900px; margin: 0 auto 2rem; overflow-x: auto; } table.spec-table { width: 100%; border-collapse: collapse; font-family: Inter, Arial, sans-serif; font-size: 16px; line-height: 1.5; } .spec-table caption { text-align: left; font-weight: 600; font-size: 1.125rem; margin-bottom: 0.75rem; color: #374151; } .spec-table th, .spec-table td { padding: 12px 14px; vertical-align: top; border: 1px solid #e9e9e9; } .spec-table thead th { background: #f7f7f7; font-weight: 600; text-align: left; white-space: nowrap; } .spec-table th[scope="row"] { width: 34%; background: #f7f7f7; font-weight: 600; text-align: left; white-space: nowrap; } .spec-table ul { margin: 0; padding-left: 1.1rem; } .spec-table li { margin: 0.25rem 0; } Subscriptions Service SBD 0 SBD 12 SBD 17 SBD 30 Activation Fee FREE $40.00 $40.00 $40.00 Monthly Fee $17.00 $20.00 $25.00 $42.50 Minimum Term 1 Month 1 Month 1 Month 1 Month Suspended Monthly Fee $2.50 $2.50 $2.50 $2.50 Minimum Billable Message Size 30 Bytes 10 Bytes 10 Bytes 10 Bytes Inclusive Bytes per Month 0 Bytes 12,000 Bytes 17,000 Bytes 30,000 Bytes Overage (per 1,000 Bytes) $1.50 $1.50 $1.75 $1.50 SBD Registration / Mailbox Check $0.05 $0.05 $0.05 $0.05 Specifications Dimensions 10.4 × 5.8 × 2.3 cm Weight 221 g Battery Type Rechargeable Li-Ion 1.95 A-Hr single cell 3.6V to 4.2V I/O Interface Standard USB and Bluetooth Software Interface AT Commands through USB Operating Temperature –30°C to +70°C Operating Humidity < 75% RH Operating Frequency 1616 to 1626.5 MHz GSM Frequency 850 / 900 / 1800 / 1900 MHz GPS Frequency 1575.42 MHz (L1 carrier) Downloads Download NAL Technologies Shout 3G User Guide
-  Updated: 2026-04-23T08:11:51Z
+  Updated: 2026-04-27T10:26:36Z
   Vendor: NAL Technologies
   Product Type: Satellite Messengers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/nalresearchshout3g_d198d888-792e-43a3-bb78-ba6b9b895d35.png?v=1759748620
   Price: $1,807.00 USD
 - [NAL Technologies SHOUT ts Satellite Tracker](https://www.outfittersatellite.com/products/naltec-shout-ts-satellite-tracker): The SHOUT ts is a handheld satellite tracker and messaging device featuring a color touchscreen for quick navigation and easy text entry via on-screen keyboards. Built for efficiency, it consumes less than 35µA in sleep mode. Its internal 1.95 A-Hr rechargeable Li-Ion battery enables hourly position reporting for up to two months (around 1,500 transmissions). The device can also be programmed to wake automatically at set intervals and send updates to a monitoring center. In emergencies, a protected 911 button delivers immediate alert notifications. Messages can be transmitted in standard format, secured with 256-bit AES encryption, or in 10-byte, 30-byte, or PECOS encrypted packet formats. .spec-table-wrap { max-width: 900px; margin: 0 auto 2rem; overflow-x: auto; } table.spec-table { width: 100%; border-collapse: collapse; font-family: Inter, Arial, sans-serif; font-size: 16px; line-height: 1.5; } .spec-table caption { text-align: left; font-weight: 600; font-size: 1.125rem; margin-bottom: 0.75rem; color: #374151; } .spec-table th, .spec-table td { padding: 12px 14px; vertical-align: top; border: 1px solid #e9e9e9; } .spec-table thead th { background: #f7f7f7; font-weight: 600; text-align: left; white-space: nowrap; } .spec-table th[scope="row"] { width: 34%; background: #f7f7f7; font-weight: 600; text-align: left; white-space: nowrap; } .spec-table ul { margin: 0; padding-left: 1.1rem; } .spec-table li { margin: 0.25rem 0; } Subscriptions Service SBD 0 SBD 12 SBD 17 SBD 30 Activation Fee FREE $40.00 $40.00 $40.00 Monthly Fee $17.00 $20.00 $25.00 $42.50 Minimum Term 1 Month 1 Month 1 Month 1 Month Suspended Monthly Fee $2.50 $2.50 $2.50 $2.50 Minimum Billable Message Size 30 Bytes 10 Bytes 10 Bytes 10 Bytes Inclusive Bytes per Month 0 Bytes 12,000 Bytes 17,000 Bytes 30,000 Bytes Overage (per 1,000 Bytes) $1.50 $1.50 $1.75 $1.50 SBD Registration / Mailbox Check $0.05 $0.05 $0.05 $0.05 Specifications Dimensions 10.4 × 5.8 × 2.3 cm Weight 204 g Battery Type Rechargeable Li-Ion 1.95 A-Hr Single Cell I/O Interface Standard USB Software Interface AT Commands through USB Operating Temperature –40°C to +85°C (–40°F to +185°F) Operating Humidity < 75% RH Operating Frequency 1616 to 1626.5 MHz GPS Frequency 1575.42 MHz (L1 carrier) Downloads Download NAL Research SHOUT ts User Guide
-  Updated: 2026-04-23T08:11:53Z
+  Updated: 2026-04-27T10:26:36Z
   Vendor: NAL Technologies
   Product Type: Satellite Messengers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/nalresearchshoutts.png?v=1759752799
   Price: $1,009.00 USD
 - [NAL Technologies SHOUT sp Satellite Tracker](https://www.outfittersatellite.com/products/naltec-shout-sp-satellite-tracker): The SHOUT sp is a compact satellite tracker that works with your smartphone to provide GPS reporting, emergency alerts, and two-way messaging via Iridium’s global Short Burst Data service.
-  Updated: 2026-04-23T08:11:52Z
+  Updated: 2026-04-27T10:26:36Z
   Vendor: NAL Technologies
   Product Type: Satellite Messengers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/nal_research_shout_sp.png?v=1759753649
   Price: $4,154.00 USD
 - [NAL Technologies SHOUT Nano Satellite Tracker](https://www.outfittersatellite.com/products/naltec-shout-nano-satellite-tracker): NAL Technologies SHOUT Nano Satellite Tracker is a handheld two-way satellite messenger and tracker that uses Iridium’s global SBD service to deliver location updates, emergency alerts, and text messaging. Lightweight and power-efficient, it supports extended field use with up to two months of reporting on a single charge.
-  Updated: 2026-04-23T08:11:51Z
+  Updated: 2026-04-27T10:26:37Z
   Vendor: NAL Technologies
   Product Type: Satellite Messengers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/nalresearchshoutnano.png?v=1759754399
   Price: $943.00 USD
 - [NAL Technologies Shout Nano 100 Satellite Tracker](https://www.outfittersatellite.com/products/naltec-shout-nano-100-satellite-tracker): NAL Technologies Shout Nano 100 Satellite Tracker is a handheld two-way satellite messenger and tracker that uses Iridium’s global SBD service to deliver location updates, emergency alerts, and text messaging. Lightweight and power-efficient, it supports extended field use with up to two months of reporting on a single charge.
-  Updated: 2026-04-01T18:49:56Z
+  Updated: 2026-04-27T10:26:37Z
   Vendor: NAL Technologies
   Product Type: Satellite Messengers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/nalresearchshoutnano100.png?v=1759754749
   Price: $943.00 USD
 - [NAL Technologies Shout Nano 500 Satellite Tracker](https://www.outfittersatellite.com/products/naltec-shout-nano-500-satellite-tracker): NAL Technologies Shout Nano 500 Satellite Tracker is a handheld two-way satellite messenger and tracker that uses Iridium’s global SBD service to deliver location updates, emergency alerts, and text messaging. Lightweight and power-efficient, it supports extended field use with up to two months of reporting on a single charge.
-  Updated: 2026-04-01T18:49:56Z
+  Updated: 2026-04-27T10:26:37Z
   Vendor: NAL Technologies
   Product Type: Satellite Messengers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/nalresearchshoutnano500_807012ea-6b21-475b-b041-a9c70d0b77a8.png?v=1759755315
   Price: $943.00 USD
 - [Garmin inReach® Mini 3](https://www.outfittersatellite.com/products/garmin-inreach-mini-3): Go beyond mobile coverage with the Garmin inReach® Mini 3, a rugged handheld communicator that combines compact design with powerful satellite technology. Using the Iridium global satellite network, it delivers reliable SOS support, two-way messaging, and real-time tracking for adventurers and professionals who need connectivity in remote environments. SOS Emergency Support At the push of a button, the inReach Mini 3 sends an interactive SOS alert with your location to Garmin Response℠, a 24/7 international coordination hub. From backcountry expeditions to offshore trips, you’ll have peace of mind knowing help is always within reach. Off-Grid Messaging Stay in touch with two-way text messaging and preset check-ins that don’t impact your monthly allowance. Paired with the Garmin Messenger™ app, the device automatically chooses the best available connection, WiFi, cellular, or satellite, for seamless communication, plus LiveTrack™ sharing so friends and family can follow your route. Built Tough, Designed for Adventure The inReach Mini 3 features a scratch-resistant color touchscreen and IP67-rated durability to handle tough conditions. Its rugged design and glove-friendly buttons make it equally at home in the mountains, on the water, or in remote worksites. Long Battery Life With up to 350 hours in 10-minute tracking mode, the rechargeable battery is built for long journeys. Safety charging adds extra security by restoring power to your smartphone when needed. Pair with the Garmin Explore™ app to plan trips, navigate, and access weather forecasts directly from your device.
-  Updated: 2026-04-01T18:49:57Z
+  Updated: 2026-04-27T10:26:38Z
   Vendor: Garmin
   Product Type: Trackers - Garmin
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/garmininreachmini31.png?v=1759826724
   Price: $449.99 USD
 - [Garmin inReach Mini 3 Plus | Advanced Off-Grid Communicator](https://www.outfittersatellite.com/products/garmin-inreach-mini-3-plus): Adventure with the Garmin inReach Mini 3 Plus. Global Iridium coverage, SOS alerts, photo & voice messaging, LiveTrack™ updates, and rugged IP67 design.
-  Updated: 2026-04-01T18:49:57Z
+  Updated: 2026-04-27T10:26:38Z
   Vendor: Garmin
   Product Type: Trackers - Garmin
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/garmininreachmini3plus1.png?v=1759827641
   Price: $499.99 USD
 - [SmartOne C Input Cable - 8-22 Volt](https://www.outfittersatellite.com/products/smartone-c-input-cable-8-22-volt): The SmartOne C comes equipped with four AAA batteries, providing power for up to 750 days of operation. For users who prefer a permanent power connection, the optional cable allows you to hard-wire the SmartOne C to a 12 V battery system on your boat or other asset. If the external power source is ever interrupted, the device will automatically switch to its internal AAA batteries to maintain normal tracking and reporting. When using the 8–22 V external input cable, ensure that the voltage supplied to the Line Power + wire remains between 8.0 VDC and 22 VDC. Applying less than 8 VDC may cause the regulator to malfunction, while exceeding 22 VDC could result in regulator damage.
-  Updated: 2026-04-23T08:12:03Z
+  Updated: 2026-04-27T10:26:40Z
   Vendor: Globalstar
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/smartonec8-22_24voltagecable.png?v=1761206350
   Price: $37.50 USD
 - [SmartOne C Input Cable - 8-24 Volt](https://www.outfittersatellite.com/products/smartone-c-input-cable-8-24-volt): This cable connects to the SmartOne C unit to provide power and I/O capability. 8–24 V input only.
-  Updated: 2026-04-23T08:12:04Z
+  Updated: 2026-04-27T10:26:40Z
   Vendor: Globalstar
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/smartonec8-22_24voltagecable.png?v=1761206350
   Price: $75.00 USD
 - [SmartOne C & 8-22 Volt Input Cable Bundle](https://www.outfittersatellite.com/products/smartone-c-8-22-volt-input-cable-bundle): Monitor and protect vehicles, trailers, and equipment anywhere with the SmartOne C Tracker & 8–22 V Cable Bundle.
-  Updated: 2026-04-22T12:40:36Z
+  Updated: 2026-04-27T10:26:40Z
   Vendor: Outfitter Satellite
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/smartonecandcablebundle.png?v=1761206918
   Price: $144.37 USD
 - [SmartOne C & 8-24 Volt Input Cable Bundle](https://www.outfittersatellite.com/products/smartone-c-8-24-volt-input-cable-bundle): The SmartOne C Asset Tracker & 8–24V Input Cable Bundle offers a complete solution for monitoring and protecting your valuable assets via satellite. Designed for use on trailers, containers, and heavy equipment, the SmartOne C uses the Globalstar satellite network to provide reliable location data even in remote areas beyond cellular coverage. With this bundle, you get the robust SmartOne C tracker along with the 8–24V regulated input cable, allowing you to power the device from external sources such as vehicle or machinery batteries. This significantly extends the operating life of the device and is perfect for assets with a constant or semi-constant power supply. Key Features Global satellite coverage via the Globalstar network Motion-activated tracking and customised reporting intervals Long battery life (up to 3 years on internal batteries) Rugged, IP68-rated weatherproof housing External power capability via 8–24V input cable Ideal for fleet management, asset security, and remote operations Specifications Specification Details Dimensions 6.86 x 8.26 x 2.54 cm (2.7 x 3.25 x 1 in) Weight 102 g (3.6 oz) with 4 batteries and mounting hardware Operating Temperature -30° to +60°C (-22° to +140°F)Note: The unit remains operational over -40° to +85°C (-40° to +185°F), though battery life and RF performance may be reduced. Line Power 5V DC or 8–22V DC with regulator cable Battery Type 4 × AAA 1.5V lithium cells (up to 1.5+ years of operation) Certifications ANATEL (Brazil, pending), FCC CFR Parts 15 & 25, Industry Canada, CE Mark (Europe), COFETEL (pending) Standards SAE J1455, MIL-STD-810, NEMA 4X / IP68, RoHS compliant Satellite Technology Global LEO satellite operation using the Globalstar Satellite Network SmartOne Satellite Tracker – Message Delivery Options and Formats Before activation, you must select a messaging plan and a data delivery route. The messaging plan allows your SmartOne tracker to transmit GPS coordinates and other data to your chosen destination. View SmartOne Airtime and Messaging Plans To access your GPS data or reports, choose one of the following delivery options: Bespoke tracking portal Deliver raw data to a corporate server Deliver decoded messages by email Deliver decoded messages to a URL Download full details of the messaging options Downloads SmartOne C Brochure SmartOne C User Guide
-  Updated: 2026-04-22T12:40:36Z
+  Updated: 2026-04-27T10:26:40Z
   Vendor: Globalstar
   Product Type: Trackers - SmartOne
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/8482/5954/files/smartonecandcablebundle.png?v=1761206918
   Price: $181.87 USD
 - [Iridium Sat Phone Monthly Contracts | Outfitter Satellite](https://www.outfittersatellite.com/products/iridium-sat-phone-monthly-contracts): Choose an Iridium satellite phone monthly contract with clear pricing, global coverage, and flexible plans for personal or business use. Voice and SMS included.
-  Updated: 2026-04-22T12:40:36Z
+  Updated: 2026-04-27T10:26:44Z
   Vendor: Iridium
   Product Type: Airtime
   Availability: Available
@@ -1234,7 +1220,7 @@
     Availability: Available
     Price: $0.00 USD
 - [Iridium GO! WiFi Hotspot Monthly Contracts | Outfitter Satellite](https://www.outfittersatellite.com/products/iridium-go-monthly-contracts): Choose an Iridium GO! monthly contract with clear pricing, global coverage, and flexible plans for personal or business use. Voice and SMS included in some plans.
-  Updated: 2026-04-01T18:50:00Z
+  Updated: 2026-04-27T10:26:41Z
   Vendor: Iridium
   Product Type: Airtime
   Availability: Available
@@ -1252,7 +1238,7 @@
     Availability: Available
     Price: $0.00 USD
 - [Iridium GO! exec Monthly Contracts | Outfitter Satellite](https://www.outfittersatellite.com/products/iridium-go-exec-monthly-contracts): Choose an Iridium GO! exec monthly contract with clear pricing, global coverage, and flexible plans for personal or business use.
-  Updated: 2026-04-01T18:50:01Z
+  Updated: 2026-04-27T10:26:42Z
   Vendor: Iridium
   Product Type: Airtime
   Availability: Available
@@ -1277,25 +1263,25 @@
 ## Collections
 
 - [Satellite Communication Solutions](https://www.outfittersatellite.com/collections/frontpage): Discover top satellite communication devices at Outfitter Satellite. Explore our collection of cutting-edge products for any adventure or need.
-  Updated: 2026-04-16T11:22:00Z
+  Updated: 2026-04-28T11:16:07Z
   Total Products: 6
 - [Satellite Phones: Emergency Sat Phones & Global Connectivity](https://www.outfittersatellite.com/collections/satellite-phones): Explore a range of satellite phones offering global voice and SMS connectivity. Perfect for remote work, adventure, and emergency communication.
-  Updated: 2026-04-16T11:22:00Z
+  Updated: 2026-04-28T11:16:07Z
   Total Products: 14
 - [Iridium Satellite Phones for : 100% Global Coverage](https://www.outfittersatellite.com/collections/iridium-satellite-phones): Shop Iridium satellite phones with worldwide coverage and rugged design, built for reliable communication in the toughest environments.
-  Updated: 2026-04-16T11:22:00Z
+  Updated: 2026-04-28T11:16:07Z
   Total Products: 8
 - [Rent Satellite Phones & Internet Terminals](https://www.outfittersatellite.com/collections/satellite-rentals): Rent satellite phones and internet terminals from Outfitter Satellite for short-term global communication needs. Enjoy flexible rental plans and reliable service.
   Updated: 2026-04-01T18:47:55Z
   Total Products: 4
 - [Iridium Satellite Phones & Accessories Collection](https://www.outfittersatellite.com/collections/iridium): Shop the Iridium collection of satellite phones and accessories for reliable global communication. Outfitters Satellite offers Iridium products for all your needs.
-  Updated: 2026-04-16T11:22:00Z
+  Updated: 2026-04-28T11:16:07Z
   Total Products: 23
 - [IsatPhone Satellite Phones | Outfitter Satellite](https://www.outfittersatellite.com/collections/inmarsat): Inmarsat Satellite Phones Inmarsat GSPS: The Inmarsat IsatPhone 2 satellite phone provides voice, SMS, email-to-text and 2.4 kbps internet access. This satellite phone is effective for users operating in non-mountainous areas between 50° N and 50° S. Its safety features include an Assistance Button and the ability to leave a breadcrumb trail of GPS locations by text or email. In a critical situation, the Assistance Button can be configured to send multiple recipients a message with your current GPS fix, the time at which this fix was acquired and the time that the alert was triggered. Inmarsat BGAN: Inmarsat offers lightweight land-portable satellite internet terminals about the size of a laptop computer. Inmarsat BGAN terminals offer voice, standard IP internet access, and streaming IP. data. The data speed available depends on the class of Inmarsat BGAN terminal. For example, Class 1 BGAN terminals like the Cobham EXPLORER 710 offer standard IP data up to a maximum standard IP data rate of 492 kbps and streaming IP data speeds suitable for HDR broadcast video. Standard IP data is offered on a best effort shared bandwidth basis, which means that the published maximum standard IP data speed may not be achieved.
   Updated: 2026-04-01T18:47:56Z
   Total Products: 10
 - [Satellite Phone Batteries & Accessories Collection](https://www.outfittersatellite.com/collections/batteries-accessories): Find satellite phone batteries and accessories for extended connectivity. Keep your satellite device powered with Outfitters Satellite's top-rated products.
-  Updated: 2026-04-19T11:14:39Z
+  Updated: 2026-04-30T11:15:12Z
   Total Products: 46
 - [Vehicle Satellite Phones: Mobile Antennas & Docking Stations](https://www.outfittersatellite.com/collections/in-vehicle-solutions): Explore in-vehicle satellite solutions with reliable rack-mountable phones and docking stations. Stay connected on the road with Iridium, Inmarsat, and Thuraya.
   Updated: 2026-04-01T18:47:56Z
@@ -1325,7 +1311,7 @@
   Updated: 2024-05-07T13:37:35Z
   Total Products: 0
 - [Satellite Phone Batteries: Buy Iridium & Inmarsat Batteries](https://www.outfittersatellite.com/collections/spare-batteries-1): Stay powered with spare batteries for satellite devices. Outfitter Satellite offers reliable, long-lasting batteries for any adventure.
-  Updated: 2026-04-16T11:22:00Z
+  Updated: 2026-04-30T11:15:12Z
   Total Products: 18
 - [Satellite Phone Cases & Holsters: Buy Pelican & Iridium Cases](https://www.outfittersatellite.com/collections/cases-holsters-1): Protect your satellite phone with rugged cases and holsters. Browse our selection for durable, secure storage solutions built for any adventure.
   Updated: 2026-04-19T11:14:39Z
@@ -1337,7 +1323,7 @@
   Updated: 2026-04-01T18:48:00Z
   Total Products: 24
 - [Satellite Phone Docking Stations Collection](https://www.outfittersatellite.com/collections/handheld-phones): Explore satellite phone docking stations for charging and connectivity. Outfitters Satellite provides docking solutions for secure communication in any location.
-  Updated: 2026-04-01T18:48:00Z
+  Updated: 2026-04-28T11:16:07Z
   Total Products: 12
 - [Marine Satellite Solutions: Offshore Internet, Docks & Phones](https://www.outfittersatellite.com/collections/maritime-solutions): Stay connected offshore with advanced maritime satellite solutions. Explore Iridium, Thuraya, and Inmarsat services for reliable communication at sea.
   Updated: 2026-04-01T18:48:01Z
@@ -1349,7 +1335,7 @@
   Updated: 2026-04-01T18:48:01Z
   Total Products: 14
 - [FREESHIPPING Promo](https://www.outfittersatellite.com/collections/freeshipping-promo)
-  Updated: 2026-03-01T12:15:02Z
+  Updated: 2026-04-28T11:16:07Z
   Total Products: 10
 - [Personal GPS tracking solutions with SOS button](https://www.outfittersatellite.com/collections/satellite-messengers): Discover personal satellite messengers with GPS tracking, two-way messaging, and SOS features for outdoor safety and communication.
   Updated: 2026-04-01T18:48:02Z
@@ -1361,7 +1347,7 @@
   Updated: 2026-04-01T18:48:03Z
   Total Products: 0
 - [Satellite Phone Accessories](https://www.outfittersatellite.com/collections/satellite-phone-accessories): Shop essential satellite phone accessories to enhance your communication. Find batteries, chargers, and docking stations for seamless connectivity.
-  Updated: 2026-04-19T11:14:39Z
+  Updated: 2026-04-30T11:15:12Z
   Total Products: 70
 - [Inmarsat Satellite Phones for : Near-Global Connectivity](https://www.outfittersatellite.com/collections/inmarsat-satellite-phones): Explore Inmarsat satellite phones offering reliable voice and data communication for maritime, offshore, and remote business needs.
   Updated: 2026-04-16T11:38:56Z
@@ -1378,14 +1364,14 @@
 - [Iridium Satellite Internet Terminals: Global Wi-Fi Hotspots](https://www.outfittersatellite.com/collections/iridium-satellite-internet): Shop Iridium satellite internet devices for reliable global data connectivity in remote and off-grid locations.
   Updated: 2026-04-01T18:48:04Z
   Total Products: 6
-- [Personal Satellite Trackers: Emergency SOS & GPS Messengers](https://www.outfittersatellite.com/collections/personal-satellite-trackers): Ensure safety in remote regions with personal satellite trackers like the Bivy Stick and SPOT Gen4. Stay connected and secure in even the most challenging environments.
-  Updated: 2026-04-01T18:48:05Z
+- [Personal Satellite Trackers: Emergency SOS & GPS Messengers](https://www.outfittersatellite.com/collections/personal-satellite-trackers): Ensure safety in remote regions with personal satellite trackers like the SPOT Gen4. Stay connected and secure in even the most challenging environments.
+  Updated: 2026-04-28T11:49:34Z
   Total Products: 19
 - [Asset Satellite Trackers](https://www.outfittersatellite.com/collections/asset-satellite-trackers): Secure your assets with advanced satellite trackers. Monitor vehicles, infrastructure, and more in real-time, no matter the distance.
   Updated: 2026-04-01T18:48:06Z
   Total Products: 8
 - [Iridium Airtime](https://www.outfittersatellite.com/collections/iridium-airtime): Enjoy truly global satellite communication with Iridium airtime monthly plans - ideal for longer-term usage periods and works in the same way as an everyday phone contract. Simply sign-up to your preferred airtime package and your Iridium device will be ready to use from anywhere in the world.
-  Updated: 2026-04-16T11:22:00Z
+  Updated: 2026-04-30T11:15:12Z
   Total Products: 9
 - [Satellite Phone SIM Cards & Airtime Collection](https://www.outfittersatellite.com/collections/sim-cards-airtime): Explore SIM cards and airtime plans for satellite phones. Outfitters Satellite offers flexible, affordable airtime solutions for global communication.
   Updated: 2026-04-01T18:48:06Z
@@ -1397,16 +1383,16 @@
   Updated: 2026-04-01T18:48:07Z
   Total Products: 2
 - [All Products](https://www.outfittersatellite.com/collections/all-products): Browse our entire catalogue of satellite communications equipment and airtime available to purchase from Outfitter Satellite. Choose from Iridium or Inmarsat satellite phones to SPOT GPS trackers or Wi-Fi terminals, all to keep you reliably in touch from remote locations wherever in the world you may be.
-  Updated: 2026-04-19T11:14:39Z
+  Updated: 2026-04-30T11:15:12Z
   Total Products: 161
 - [Hunting Satellite Communicators: Off-Grid GPS & Emergency SOS](https://www.outfittersatellite.com/collections/satellite-communication-for-hunting): Ensure safety and communication on your hunting trips with reliable satellite phones and devices. Stay connected in remote areas. Shop our collection now!
   Updated: 2026-04-16T11:22:00Z
   Total Products: 11
 - [Satellite Communication Lone Worker Solutions](https://www.outfittersatellite.com/collections/satellite-communication-lone-worker-solutions): Satellite Communication Lone Worker Solutions The safety of your remotely deployed workforce is paramount when it comes to commercial operations taking place in remote, off-grid regions such as deep woodland or isolated locations where essential maintenance is carried out. Every member of staff needs to be reliably tracked or should be easily contactable either by voice or two-way message/SMS.
-  Updated: 2026-04-16T11:22:00Z
+  Updated: 2026-04-28T11:16:07Z
   Total Products: 13
 - [Iridium Prepaid Vouchers](https://www.outfittersatellite.com/collections/iridium-prepaid-vouchers): Iridium Prepaid Vouchers Stay reliably connected with seamless communication wherever you are in the world with our range of prepaid Iridium airtime vouchers. Whether you're exploring remote corners of the globe or managing operations in challenging environments, our airtime vouchers ensure you are always within reach.
-  Updated: 2026-04-16T11:22:00Z
+  Updated: 2026-04-30T11:15:12Z
   Total Products: 5
 - [Inmarsat Prepaid Vouchers](https://www.outfittersatellite.com/collections/inmarsat-prepaid-vouchers): Inmarsat Airtime Inmarsat prepaid vouchers are an affordable solution for reliable near-global communication needs. Inmarsat ensures that staying connected doesn’t break the bank, making it an ideal choice for individuals and businesses alike. Whether you’re navigating remote terrains or working offshore, Inmarsat’s prepaid airtime vouchers deliver consistent and cost-effective connectivity.
   Updated: 2026-04-01T18:48:08Z
@@ -1415,19 +1401,19 @@
   Updated: 2026-04-01T18:48:08Z
   Total Products: 2
 - [Airtime](https://www.outfittersatellite.com/collections/airtime)
-  Updated: 2026-04-16T11:22:00Z
+  Updated: 2026-04-30T11:15:12Z
   Total Products: 11
 - [Satellite SIM Cards: Buy Iridium, Inmarsat & Thuraya SIMs](https://www.outfittersatellite.com/collections/sim-cards): Stay connected worldwide with Outfitter Satellite's SIM cards for satellite phones. Enjoy flexible, affordable airtime options and reliable global coverage
-  Updated: 2026-04-16T11:22:00Z
+  Updated: 2026-04-30T11:15:12Z
   Total Products: 3
 - [Welcome 10 ](https://www.outfittersatellite.com/collections/welcome10-): Shop the Welcome10  Collection at Outfitter Satellite. Enjoy exclusive savings on premium satellite communication devices and accessories!
-  Updated: 2026-04-19T11:14:39Z
+  Updated: 2026-04-30T11:15:12Z
   Total Products: 221
 - [Personal Locator Beacons: Emergency PLBs for Hiking & Marine](https://www.outfittersatellite.com/collections/locator-beacons): Browse locator beacons designed for emergency SOS signaling with GPS location, ensuring safety for adventurers and remote travelers.
   Updated: 2026-04-14T12:28:29Z
   Total Products: 8
 - [Test](https://www.outfittersatellite.com/collections/test)
-  Updated: 2026-04-19T11:14:39Z
+  Updated: 2026-04-30T11:15:12Z
   Total Products: 221
 - [Two-Way Radios](https://www.outfittersatellite.com/collections/two-way-radios): Stay connected with reliable two-way radios for any environment. Perfect for work or outdoor adventures, ensuring seamless communication even in remote locations.
   Updated: 2026-04-01T18:48:10Z
@@ -1442,7 +1428,7 @@
   Updated: 2026-04-01T18:48:12Z
   Total Products: 18
 - [Satellite Phone Batteries](https://www.outfittersatellite.com/collections/satellite-phone-batteries)
-  Updated: 2026-04-16T11:22:00Z
+  Updated: 2026-04-30T11:15:12Z
   Total Products: 8
 - [Satellite Phone Beam hardware/docks](https://www.outfittersatellite.com/collections/satellite-phone-beam-hardware-docks)
   Updated: 2026-04-01T18:48:12Z
@@ -1469,7 +1455,7 @@
   Updated: 2026-04-16T11:51:18Z
   Total Products: 8
 - [Blend AI -Outfitter - Iridium Phones & Accessories](https://www.outfittersatellite.com/collections/blend-ai-outfitter-iridium-phones-accessories)
-  Updated: 2026-04-19T11:14:39Z
+  Updated: 2026-04-30T11:15:12Z
   Total Products: 30
 - [Blend AI - Outfitter - Other Satellite Phone](https://www.outfittersatellite.com/collections/blend-ai-outfitter-other-satellite-phone)
   Updated: 2026-04-01T18:48:17Z
@@ -1487,13 +1473,13 @@
   Updated: 2026-04-01T18:48:18Z
   Total Products: 16
 - [Humanitarian Satellite Phones & Communication Equipment](https://www.outfittersatellite.com/collections/humanitarian):  used satellite phones and trackers for humanitarian missions, relief operations, and emergency response teams. Reliable connectivity in remote areas.
-  Updated: 2026-04-16T11:22:00Z
+  Updated: 2026-04-28T11:16:07Z
   Total Products: 10
 - [Iridium Monthly Contracts - Satellite Phone & Data Plans - Outfitter Satellite](https://www.outfittersatellite.com/collections/iridium-monthly-contracts): Flexible Iridium monthly contracts for satellite phones, data terminals, and PTT devices. Global coverage with no long-term commitment. Expert support included.
-  Updated: 2026-04-01T18:48:19Z
+  Updated: 2026-04-26T11:15:25Z
   Total Products: 7
 - [Iridium Monthly Airtime | Satellite Phone Plans - Outfitter Satellite](https://www.outfittersatellite.com/collections/iridium-monthly-airtime-contracts): Flexible Iridium monthly contracts for satellite phones, GO!, and GO! exec. Global coverage, no long-term commitment. Perfect for remote operations and field work.
-  Updated: 2026-04-01T18:48:19Z
+  Updated: 2026-04-26T11:15:25Z
   Total Products: 3
 - [The first step in the application](https://www.outfittersatellite.com/collections/the-first-step-in-the-application)
   Updated: 2026-04-03T06:54:14Z
@@ -2392,7 +2378,7 @@
 - [Emergency Communications](https://www.outfittersatellite.com/pages/emergency-communications): /* --- Local scope reset --- */ .ec-wrap, .ec-wrap * { box-sizing: border-box; } /* ===== Brand, base & TYPOGRAPHY (standardized to Poppins) ===== ...
   Updated: 2025-10-03T12:21:40Z
 - [Satellite Phones | Buy & Rent Iridium & Inmarsat | Outfitter Satellite](https://www.outfittersatellite.com/pages/satellite-phones): #os-satphones .os-hero-btn{ display:inline-block; padding:10px 16px; border-radius:14px; background:#ff6b01; color:#ffffff; text-decoration:none; b...
-  Updated: 2026-03-10T09:16:15Z
+  Updated: 2026-04-28T06:48:46Z
 - [Starlink Satellite Internet Rental](https://www.outfittersatellite.com/pages/starlink-satellite-internet-rental): .osr-hero{ position:relative; width:100vw; margin-left:calc(50% - 50vw); min-height:480px; overflow:hidden; background:#0b1025; } .osr-hero picture...
   Updated: 2026-02-24T14:16:47Z
 - [Starlink Satellite Internet | High-Speed Remote Connectivity Solutions](https://www.outfittersatellite.com/pages/starlink): body { background:#f8f9fb; } /* HERO */ .brand-hero-starlink { background: linear-gradient(120deg, #fafdff 70%, #eaf2fa 100%); text-align: center; ...
