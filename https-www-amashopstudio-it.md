@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-04-12T22:59:50Z
 - Contact Email: izzomarianna@hotmail.it
-- Updated At: 2026-01-16T00:00:44.311Z
+- Updated At: 2026-05-01T00:00:27.713Z
 
 ## Products
 
@@ -76,7 +76,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/EDEBF269-9E80-43E1-9E7C-46E3E72CB53D.jpg?v=1738316487
   Price: 9,90 € EUR
 - [Tazza "Il miglior dottore" personalizzabile](https://www.amashopstudio.it/products/tazza-il-miglior-dottore-personalizzabile): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:13Z
+  Updated: 2026-02-07T00:27:15Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -90,7 +90,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/tazzamigliornonno.jpg?v=1738791256
   Price: 9,90 € EUR
 - [Tazza "Il miglior psicologo" personalizzabile](https://www.amashopstudio.it/products/tazza-il-miglior-psicologo-personalizzabile): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:13Z
+  Updated: 2026-02-16T00:25:04Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -111,7 +111,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/tazzainfermiere.jpg?v=1738713571
   Price: 9,90 € EUR
 - [Tazza "Comm cazz coce" personalizzabile](https://www.amashopstudio.it/products/tazza-comm-cazz-coce-personalizzabile): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:14Z
+  Updated: 2026-03-24T06:04:40Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -139,14 +139,14 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/EE5F1A23-99DE-49E5-99D9-AF721B219664.jpg?v=1738316515
   Price: 9,90 € EUR
 - [Tazza “Buon Natale” personalizzabile con nome](https://www.amashopstudio.it/products/tazza-buon-natale-personalizzabile): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:14Z
+  Updated: 2026-04-06T00:41:25Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/tazzabuonnatale.jpg?v=1738713261
   Price: 9,90 € EUR
 - [Tazza “Camice Dottore” personalizzabile](https://www.amashopstudio.it/products/copia-tazza-camice-dottore-personalizzabile): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:14Z
+  Updated: 2026-04-08T03:46:50Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -209,14 +209,14 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/7B323608-FFF8-46B1-89A9-F838F183E8C7.jpg?v=1738316667
   Price: 9,90 € EUR
 - [Tazza “Baby Coming” personalizzabile](https://www.amashopstudio.it/products/tazza-baby-coming-personalizzabile): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:16Z
+  Updated: 2026-03-18T02:16:20Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/tazzababycoming.jpg?v=1738366073
   Price: 9,90 € EUR
 - [Tazza “Ballerina” personalizzabile](https://www.amashopstudio.it/products/tazza-ballerina-personalizzabile): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:16Z
+  Updated: 2026-03-29T08:06:32Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -244,7 +244,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/tazza23.jpg?v=1738365845
   Price: 9,90 € EUR
 - [Tazza “ Congratulazioni  laurea ” personalizzabile con data,nome o frasi](https://www.amashopstudio.it/products/tazza-elfo-natale-personalizzabile): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:16Z
+  Updated: 2026-03-04T06:22:38Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -258,7 +258,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/tazza1976edizionelimitata.jpg?v=1738424308
   Price: 9,90 € EUR
 - [Tazza “Love You&Me” personalizzabile](https://www.amashopstudio.it/products/tazza-love-you-me-personalizzabile): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:17Z
+  Updated: 2026-02-10T10:16:05Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -279,14 +279,14 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/tazzaapi.jpg?v=1738424695
   Price: 9,90 € EUR
 - [Tazza “Mom Dog” personalizzabile](https://www.amashopstudio.it/products/tazza-mom-dog-personalizzabile): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:17Z
+  Updated: 2026-03-20T00:24:00Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/tazzamomdogi.jpg?v=1738424792
   Price: 9,90 € EUR
 - [Tazza “Questa tazza contiene amore” personalizzabile](https://www.amashopstudio.it/products/tazza-quest-tazza-contiene-amore-personalizzabile): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:17Z
+  Updated: 2026-03-23T07:30:57Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -321,7 +321,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/tazzaripigliati.jpg?v=1738712782
   Price: 9,90 € EUR
 - [Tazza ”Nome ed iniziale” persnalizzabile](https://www.amashopstudio.it/products/tazza-nome-ed-iniziale-persnalizzabile): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:18Z
+  Updated: 2026-02-20T00:46:52Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -425,7 +425,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/tazzaPERSONALIZZAMI.jpg?v=1738881853
   Price: 9,90 € EUR
 - [Tazza “O Vrenzola ... O Niente ...” personalizzabile](https://www.amashopstudio.it/products/tazza-o-vrenzola-o-niente-personalizzabile): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:20Z
+  Updated: 2026-03-12T03:24:01Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -439,7 +439,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/BORRACCIAFAMILY.jpg?v=1738623044
   Price: 8,00 € EUR
 - [Borraccia'' Acqua is new gin'' personalizzabile](https://www.amashopstudio.it/products/borraccia-family-mod-2-personalizzabile-1): Realizzate in alluminio superleggero. Con doppio tappo a vite , per una perfetta chiusura ermetica. Confezionata in scatola di cartoncino bianca, capienza: 500ML. La borraccia Personalizzabile è un'Idea Regalo originale e simpatica. È adatta per ogni tipo di occasione, che sia per la mamma o per il papà, per un amico o per un compagno di vita, che sia per il nonno o per la nonna non importa, è un regalo unico, ideale e multiuso da fare alle persone che ami.
-  Updated: 2025-09-17T14:59:20Z
+  Updated: 2026-02-07T06:41:55Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -467,7 +467,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/0EECD73C-D780-4140-B871-9C5452E677BF.jpg?v=1738686730
   Price: 5,00 € EUR
 - [Penna in alluminio  personalizzabile con incisione laser](https://www.amashopstudio.it/products/penna-in-plastica-personalizzabile): Penna a sfera personalizzata a scatto, in alluminio con custodia in velluto. IDEA REGALO: ottimo come regalo personale o aziendale, ideale per ufficio, scuola, feste di laurea, festa del papà, per la mamma , anniversario, Natale, Pasqua , compleanno, maestre
-  Updated: 2025-09-17T14:59:21Z
+  Updated: 2026-03-14T08:55:10Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -528,14 +528,14 @@
     Availability: Available
     Price: 9,00 € EUR
 - [Crea la tua borraccia](https://www.amashopstudio.it/products/crea-la-tua-tazza-1): Realizzate in alluminio superleggero. Con tappo a vite , per una perfetta chiusura ermetica. Confezionata in scatola di cartoncino bianca, capienza: 500ML. La borraccia Personalizzabile è un'Idea Regalo originale e simpatica. È adatta per ogni tipo di occasione, che sia per la mamma o per il papà, per un amico o per un compagno di vita, che sia per il nonno o per la nonna non importa, è un regalo unico, ideale e multiuso da fare alle persone che ami.
-  Updated: 2025-09-17T14:59:21Z
+  Updated: 2026-03-12T10:48:16Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/tazzaCREALATUABORRACCIA.jpg?v=1738882123
   Price: 8,00 € EUR
 - [T Shirt ''  Edizione limitata '' personalizzabile con nome e data](https://www.amashopstudio.it/products/t-shirt-menomale-che-non-penso-a-voce-alta-personalizzabile-con-nome-copia): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Lavabile in lavatrice. Colore bianco. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:21Z
+  Updated: 2026-01-20T07:14:24Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -589,7 +589,7 @@
     Availability: Available
     Price: 9,00 € EUR
 - [T Shirt '' 23 u scem '' personalizzabile con nome](https://www.amashopstudio.it/products/t-shirt-c-vo-a-ciort-personalizzabile-con-nome-copia): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Lavabile in lavatrice. Colore bianco. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:22Z
+  Updated: 2026-03-14T03:18:49Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -643,7 +643,7 @@
     Availability: Available
     Price: 9,00 € EUR
 - [Bavaglino Rosa ''Orsetto con pallloncini '' personalizzabile con nome](https://www.amashopstudio.it/products/bavaglino-rosa-orsetto-personalizzabile-con-dedica-vuoi-essere-la-mia-madrina): PERSONALIZZABILE: Aggiungi il nome del tuo bambino . Bavaglino in poliestere dal bordino colorato rosa . Puoi personalizzarlo aggiungendo le scritte in base alle tue esigenze .
-  Updated: 2025-09-17T14:59:22Z
+  Updated: 2026-02-21T11:54:44Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -671,14 +671,14 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/bavaglinoorsettoceleste.jpg?v=1738709380
   Price: 6,00 € EUR
 - [Body ''Festa dei nonni ''rosa  personalizzabile con nome](https://www.amashopstudio.it/products/body-festa-dei-nonni-rosa-personalizzabile-con-nome): Unico ed originale body baby personalizzabile con nome . Tenero body da regalare per sottolineare la tenerezza della famiglia e l' amore per i nonni . Disponibile in diverse taglie . Lavabile in lavatrice.
-  Updated: 2025-09-17T14:59:23Z
+  Updated: 2026-03-29T07:55:46Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/9902E306-F19B-47D3-B7E1-7FA82A0DF8CF.png?v=1738793977
   Price: 7,00 € EUR
 - [Body ''Family ''  personalizzabile con nome](https://www.amashopstudio.it/products/body-festa-dei-nonni-rosa-personalizzabile-con-nome-copia): Unico ed originale body baby personalizzabile con nome . Tenero body da regalare per sottolineare la tenerezza della famiglia . Disponibile in diverse taglie . Lavabile in lavatrice.
-  Updated: 2025-09-17T14:59:23Z
+  Updated: 2026-03-23T23:33:15Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -707,7 +707,7 @@
     Availability: Available
     Price: 10,00 € EUR
 - [Adesivo ''Benvenuto cuori '' personalizzabile (50 PZ.)](https://www.amashopstudio.it/products/adesivo-benvenuto-cuori-personalizzabile-50-pz): Tenero adesivo design Cuori orsetto, idea per personalizzare pacchi, bomboniere o qualsiasi altra superficie . Diametro a scelta tra 3 -4 o 5 cm. Su richiesta stesso articolo anche di dimensioni personalizzate . Carta adesiva bianca. Kit 50 .pz ( SELEZIONA DIMENSIONE )
-  Updated: 2025-09-17T14:59:23Z
+  Updated: 2026-03-07T23:47:02Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -815,7 +815,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/eleganza.jpg?v=1739632974
   Price: 8,00 € EUR
 - [Blocco note '' Farfalle '' personalizzabile con nome](https://www.amashopstudio.it/products/blocco-note-farfalle-personalizzabile): Dai un tocco di originalità ai tuoi appunti , scegli il nostro blocco note personalizzato. Fai un regalo unico . Personalizzato con stampa sublimatica, questo blocco note sarà un regalo unico ed originale. Personalizzala con il tuo nome o il nome di una tua amica o fai una dedica alle persone care . Sorprendi chi ami con i prodotti AMA SHOP. Un regalo perfetto per le persone più care ! Misure:14,7cm/21cm/1,5cm Contiene 100 fogli di carta comune.
-  Updated: 2025-09-17T14:59:25Z
+  Updated: 2026-03-05T09:20:06Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -836,7 +836,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/leopardato.jpg?v=1739633204
   Price: 8,00 € EUR
 - [Blocco note '''' personalizzabile con nome](https://www.amashopstudio.it/products/blocco-note--personalizzabile-con-nome): Dai un tocco di originalità ai tuoi appunti , scegli il nostro blocco note personalizzato. Fai un regalo unico . Personalizzato con stampa sublimatica, questo blocco note sarà un regalo unico ed originale. Personalizzala con il tuo nome o il nome di una tua amica o fai una dedica alle persone care . Sorprendi chi ami con i prodotti AMA SHOP. Un regalo perfetto per le persone più care ! Misure:14,7cm/21cm/1,5cm Contiene 100 fogli di carta comune.
-  Updated: 2025-09-17T14:59:26Z
+  Updated: 2026-03-26T05:53:36Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -885,14 +885,14 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/contienebellezza.jpg?v=1739653988
   Price: 6,00 € EUR
 - [Pochette 'I trucchi di... ' personalizzabile con nome](https://www.amashopstudio.it/products/pochette-i-trucchi-di-personalizzabile-con-nome): Elegante, originale questa pochette è davvero un regalo unico ed originale ! Fai un regalo unico . Personalizzata con stampa sublimatica. Personalizzala con il tuo nome o il nome di una tua amica o fai una dedica alle persone care . Sorprendi chi ami con i prodotti AMA SHOP. Un regalo perfetto per le persone più care !
-  Updated: 2025-09-17T14:59:27Z
+  Updated: 2026-03-18T04:04:34Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/ITRUCCIDIMAMMA.jpg?v=1739654199
   Price: 6,00 € EUR
 - [Pochette 'Team bride la sposa. ' personalizzabile con nome](https://www.amashopstudio.it/products/pochette-team-bride-la-sposa-personalizzabile-con-nome): Elegante, originale questa pochette è davvero un regalo unico ed originale ! Fai un regalo unico . Personalizzata con stampa sublimatica. Personalizzala con il tuo nome o il nome di una tua amica o fai una dedica alle persone care . Sorprendi chi ami con i prodotti AMA SHOP. Un regalo perfetto per le persone più care !
-  Updated: 2025-09-17T14:59:27Z
+  Updated: 2026-04-08T01:59:23Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -920,7 +920,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/nome_24806e08-4c04-4a98-a6ec-a5323e5ef4f9.jpg?v=1739657648
   Price: 6,00 € EUR
 - [Balsamo per labbra ' Argento' personalizzabile con nome inciso](https://www.amashopstudio.it/products/pochette-cuore-personalizzabile-con-nome): con confezione classica e finitura metallica a forma di barretta. Opzione elegante e pratica per la cura delle labbra. La confezione e la personalizzazione fatta con incisione laser conferisce un aspetto sofisticato e unico a questo balsamo. Il balsamo per labbra idrata e protegge le labbra dalla secchezza e dai fattori ambientali. Inoltre, questo balsamo per labbra offre una protezione solare SPF15, che aiuta a prevenire i danni causati dai raggi UV. La classica confezione con finitura metallica conferisce un tocco di eleganza e consente di portare il balsamo per labbra comodamente in borsa, in tasca o nella borsa da toilette, assicurando che sia sempre a portata di mano quando se ne ha bisogno. Sorprendi chi ami con i prodotti AMA SHOP. Un regalo perfetto per le persone più care !
-  Updated: 2025-09-17T14:59:28Z
+  Updated: 2026-02-28T03:07:23Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -934,7 +934,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/ORSETTONOME.jpg?v=1739662035
   Price: 9,00 € EUR
 - [Balsamo per labbra 'BLU' personalizzabile con nome inciso](https://www.amashopstudio.it/products/balsamo-per-labbra-oro-personalizzabile-con-nome-inciso): con confezione classica e finitura metallica a forma di barretta. Opzione elegante e pratica per la cura delle labbra. La confezione e la personalizzazione fatta con incisione laser conferisce un aspetto sofisticato e unico a questo balsamo. Il balsamo per labbra idrata e protegge le labbra dalla secchezza e dai fattori ambientali. Inoltre, questo balsamo per labbra offre una protezione solare SPF15, che aiuta a prevenire i danni causati dai raggi UV. La classica confezione con finitura metallica conferisce un tocco di eleganza e consente di portare il balsamo per labbra comodamente in borsa, in tasca o nella borsa da toilette, assicurando che sia sempre a portata di mano quando se ne ha bisogno. Sorprendi chi ami con i prodotti AMA SHOP. Un regalo perfetto per le persone più care !
-  Updated: 2025-09-17T14:59:28Z
+  Updated: 2026-02-11T09:27:35Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -990,7 +990,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/seideinostri.jpg?v=1739743847
   Price: 8,00 € EUR
 - [Tappetino mouse ' Family' personalizzabile con nome, data o dedica](https://www.amashopstudio.it/products/tappetino-mouse-sei-dei-nostri-personalizzabile-con-nome-data-o-dedica-copia): Tappetino mouse con frase ironica stampato con colori brillanti . Fai un regalo unico . Personalizzato con stampa sublimatica. Personalizzalo con il tuo nome o il nome di una tua amica o fai una dedica alle persone care . Sorprendi chi ami con i prodotti AMA SHOP. Un regalo perfetto per le persone più care ! Misure: 23 x 19 cm - spessore 5 mm
-  Updated: 2025-09-17T14:59:29Z
+  Updated: 2026-04-08T01:39:35Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -1039,7 +1039,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/VOLEVOESSEREUNDURO_fdb6abb1-5242-4648-b32d-1c6d349c0ca0.jpg?v=1740065109
   Price: 8,00 € EUR
 - [Tappetino mouse 'super mamma' personalizzabile con nome,data o dedica](https://www.amashopstudio.it/products/tappetino-mouse-super-mamma-personalizzabile-con-nome-data-o-dedica): Tappetino mouse con frase ironica stampato con colori brillanti . Fai un regalo unico . Personalizzato con stampa sublimatica. Personalizzalo con il tuo nome o il nome di una tua amica o fai una dedica alle persone care . Sorprendi chi ami con i prodotti AMA SHOP. Un regalo perfetto per le persone più care ! Misure: 23 x 19 cm - spessore 5 mm
-  Updated: 2025-09-17T14:59:30Z
+  Updated: 2026-03-28T05:18:56Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -1067,7 +1067,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/tazzaDUROSQUADRA.jpg?v=1740236082
   Price: 9,90 € EUR
 - [Tazza ' VOLEVO ESSERE UN DURO..MA' personalizzala con la tua squadra](https://www.amashopstudio.it/products/tazza-volevo-essere-un-duro-ma-personalizzala-con-la-tua-squadra): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:31Z
+  Updated: 2026-02-07T07:53:52Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -1088,21 +1088,21 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/tazzaGAIA.jpg?v=1740241458
   Price: 9,90 € EUR
 - [Tazza ' Carlos' puoi personalizzarla con tuo testo](https://www.amashopstudio.it/products/tazza-carlos-puoi-personalizzarla-con-tuo-testo): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. Fai un regalo unico ed originale
-  Updated: 2025-09-17T14:59:31Z
+  Updated: 2026-04-05T23:23:48Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/tazzaGAIA.jpg?v=1740241458
   Price: 9,90 € EUR
 - [Tazza '1° Festa del Papà' puoi personalizzarla con nome e foto](https://www.amashopstudio.it/products/tazza-1-festa-del-papa-puoi-personalizzarla-con-nome-e-foto): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. 🎁 È il REGALO PERFETTO per il tuo PAPA'
-  Updated: 2025-09-17T14:59:32Z
+  Updated: 2026-02-16T12:48:38Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/1festadelpapa.jpg?v=1740520659
   Price: 9,90 € EUR
 - [Tazza ' Festa del papà stellina ' puoi personalizzarla con nome](https://www.amashopstudio.it/products/tazza-festa-del-papa-stellina-puoi-personalizzarla-con-nome): Prodotto Made in Italy Prodotto esclusivo disegnato e realizzato internamente Tazza in Ceramica di alta qualità Adatta per essere utilizzata in forno a microonde. Lavabile in lavastoviglie Colore bianco. 🎁 È il REGALO PERFETTO per il tuo PAPA'
-  Updated: 2025-09-17T14:59:32Z
+  Updated: 2026-03-08T01:01:23Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -1242,7 +1242,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/conte.jpg?v=1741538767
   Price: 8,00 € EUR
 - [Tappetino mouse Fumetto  personalizzabile con nome, dedica  e foto trasformata in cartone](https://www.amashopstudio.it/products/tappetino-mouse-fumetto-personalizzabile-con-nome-dedica-e-foto-trasformata-in-cartone): Entra con noi nel mondo delle favole, fai un regalo unico a chi ami. Scatta una foto e noi realizziamo la magia e ti portiamo nel mondo delle favole , trasformandola in un cartone 3D. Personalizzato con stampa sublimatica. Personalizzalo con il tuo nome o il nome di una tua amica o fai una dedica alle persone care . Sorprendi chi ami con i prodotti AMA SHOP. Un regalo perfetto per le persone più care ! Misure: 23 x 19 cm - spessore 5 mm
-  Updated: 2025-09-17T14:59:35Z
+  Updated: 2026-04-08T07:02:38Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -1263,7 +1263,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/tazzadilloamodotuo.jpg?v=1742054454
   Price: 9,90 € EUR
 - [Quadro ' FAVOLA ' la tua foto trasformata in cartone 3d con cornice](https://www.amashopstudio.it/products/quadro-favola-la-tua-foto-trasformata-in-cartone-3d-con-cornice): Prodotto Made in Italy Carica la tua foto, noi la trasformiamo in un cartone 3d Compreso di cornice 2 Varianti di misure 🎁 È il REGALO PERFETTO per chi ami
-  Updated: 2025-09-17T14:59:35Z
+  Updated: 2026-02-27T12:17:54Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -1288,15 +1288,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/casetta.jpg?v=1742503399
   Price: 5,00 € EUR
-- [Portachiavi 'spotify ' personalizzabile con foto e titolo canzone](https://www.amashopstudio.it/products/portachiavi-spotify-personalizzabile-con-foto-e-titolo-canzone): Portachivi Spotify Interattivo Personalizzabile Rendi omaggio alla tua musica preferita con il portachivi Spotify interattivo personalizzabile! Questo elegante supporto non è solo un accessorio, ma un modo innovativo per celebrare i tuoi brani del cuore. Caratteristiche: Interattivo: Scansiona il codice per ascoltare la canzone direttamente su Spotify. Personalizzazione: Aggiungi una foto e un testo della tua canzone preferita, rendendo ogni pezzo unico. Design Elegante: Realizzato con materiali di alta qualità, si adatta perfettamente a qualsiasi ambiente. Regalo Ideale: Perfetto per compleanni, anniversari o per sorprendere un amico amante della musica. Cattura i ricordi musicali in modo originale e creativo con il portachiavi Spotify interattivo!
-  Updated: 2026-01-15T16:11:55Z
+- [Portachiavi 'spotify ' personalizzabile con foto e titolo canzone](https://www.amashopstudio.it/products/portachiavi-spotify-personalizzabile-con-foto-e-titolo-canzone): Portachiavi Spotify Interattivo Personalizzabile Rendi omaggio alla tua musica preferita con il portachiavi Spotify interattivo personalizzabile! Questo elegante supporto non è solo un accessorio, ma un modo innovativo per celebrare i tuoi brani del cuore. Caratteristiche: Interattivo: Scansiona il codice per ascoltare la canzone direttamente su Spotify. Personalizzazione: Aggiungi una foto e un testo della tua canzone preferita, rendendo ogni pezzo unico. Design Elegante: Realizzato con materiali di alta qualità, si adatta perfettamente a qualsiasi ambiente. Regalo Ideale: Perfetto per compleanni, anniversari o per sorprendere un amico amante della musica. Cattura i ricordi musicali in modo originale e creativo con il portachiavi Spotify interattivo!
+  Updated: 2026-03-22T20:30:56Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/pchiavispotify.jpg?v=1744653991
   Price: 6,00 € EUR
 - [Specchietto da borsetta ' personalizzabile](https://www.amashopstudio.it/products/specchietto-da-borsetta-personalizzabile): Scopri il nostro specchio da borsetta personalizzabile, perfetto per aggiungere un tocco unico al tuo stile! Puoi scegliere di stampare il tuo nome o una foto speciale, rendendolo un accessorio davvero personale. Compatto e leggero, si adatta facilmente a qualsiasi borsa, permettendoti di controllare il tuo look ovunque tu sia. Un regalo ideale per te o per una persona cara, questo specchio unisce funzionalità e creatività in un solo prodotto!
-  Updated: 2025-09-17T14:59:36Z
+  Updated: 2026-03-06T07:55:21Z
   Vendor: AMA SHOP
   Product Type: 
   Availability: Available
@@ -1310,7 +1310,7 @@
   Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/portachiavi.jpg?v=1744812387
   Price: 5,00 € EUR
 - [Adesivo a forma di targa colore rosa personalizzabile con nome data e provincia](https://www.amashopstudio.it/products/adesivo-a-forma-di-targa-colore-rosa): . Aggiungi un tocco di personalità ai tuoi oggetti con il nostro adesivo personalizzabile a forma di targa . Questo simpatico segnale stradale in rosa e bianco è perfetto per decorare quaderni, PC, porte, finestre e auto, rendendo ogni spazio unico e originale. Scegli di esprimere il tuo stile con un adesivo che parla di te!
-  Updated: 2025-09-17T14:59:36Z
+  Updated: 2026-03-18T01:42:07Z
   Vendor: AMA SHOP
   Product Type: Adesivo personalizzato
   Availability: Available
@@ -1352,7 +1352,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/TARGAROSA.jpg?v=1744812764
     Price: 9,00 € EUR
 - [Adesivo a forma di targa colore  azzurro personalizzabile con nome data e provincia](https://www.amashopstudio.it/products/adesivo-a-forma-di-targa-colore-azzurro-personalizzabile-con-nome-data-e-provincia): . Aggiungi un tocco di personalità ai tuoi oggetti con il nostro adesivo personalizzabile a forma di targa. Questo simpatico segnale stradale in azzurro e bianco è perfetto per decorare quaderni, PC, porte, finestre e auto, rendendo ogni spazio unico e originale. Scegli di esprimere il tuo stile con un adesivo che parla di te!
-  Updated: 2025-09-17T14:59:36Z
+  Updated: 2026-04-04T23:44:26Z
   Vendor: AMA SHOP
   Product Type: Adesivo personalizzato
   Availability: Available
@@ -1394,7 +1394,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/TARGAAZZURRA.jpg?v=1744814410
     Price: 9,00 € EUR
 - [Adesivo Maradona Napoli - Numero 10 | Calcio | Sport - AdesiviPersonalizzati](https://www.amashopstudio.it/products/adesivo-numero-10-maradona-napoli): Acquista l'adesivo Maradona Napoli con il numero 10. Perfetto per i fan del calcio e dello sport. Adesivi personalizzati di alta qualità. Spedizione rapida!
-  Updated: 2025-09-17T14:59:37Z
+  Updated: 2026-04-16T16:23:31Z
   Vendor: AMA SHOP
   Product Type: Adesivo personalizzato
   Availability: Available
@@ -1849,7 +1849,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/frontviewrealistict-shirtmockupand3dmodeltshirtmockups.jpg?v=1746085082
     Price: 9,00 € EUR
 - [T-Shirt ‘NAPOLI’ chi ama non dimentica |Numero 10 |Maradona mod.2](https://www.amashopstudio.it/products/t-shirt-napoli-chi-ama-non-dimentica-numero-10-maradona-mod-2): T-Shirt ‘NAPOLI’ La t-shirt celebrativa ‘NAPOLI’ è un capo d'abbigliamento perfetto per chi ama e non dimentica. Ecco alcune delle sue caratteristiche principali: Caratteristiche della T-Shirt Materiale**: Realizzata in cotone di alta qualità per garantire comfort e durata.Colore**: Disponibile in un elegante colore nero che si abbina facilmente a qualsiasi outfit.Taglie**: Offerta in una varietà di taglie per adattarsi a tutti. **Personalizzazione**: Possibilità di personalizzare la parte posteriore della maglietta con il nome che preferisci, rendendo così il capo unico e speciale. Questa t-shirt è un ottimo modo per esprimere il tuo amore e la tua passione per Napoli, con un design che si distingue e una qualità che non delude. È il regalo perfetto per te o per chi ami, un pensiero speciale che porta con sé un pezzo di Napoli.
-  Updated: 2025-09-17T14:59:39Z
+  Updated: 2026-03-05T06:08:04Z
   Vendor: AMA SHOP
   Product Type: Adesivo personalizzato
   Availability: Available
@@ -1875,7 +1875,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/frontviewrealistict-shirtmockupand3dmodeltshirtmockups2.jpg?v=1746085408
     Price: 9,00 € EUR
 - [T-Shirt ‘NAPOLI’ chi ama non dimentica |Numero 10 |Maradona |bianca](https://www.amashopstudio.it/products/t-shirt-napoli-chi-ama-non-dimentica-numero-10-maradona-mod-2-copia): T-Shirt ‘NAPOLI’ La t-shirt celebrativa ‘NAPOLI’ è un capo d'abbigliamento perfetto per chi ama e non dimentica. Ecco alcune delle sue caratteristiche principali: Caratteristiche della T-Shirt Materiale**: Realizzata in cotone di alta qualità per garantire comfort e durata.Colore**: Disponibile in un elegante colore bianco che si abbina facilmente a qualsiasi outfit.Taglie**: Offerta in una varietà di taglie per adattarsi a tutti. **Personalizzazione**: Possibilità di personalizzare la parte posteriore della maglietta con il nome che preferisci, rendendo così il capo unico e speciale. Questa t-shirt è un ottimo modo per esprimere il tuo amore e la tua passione per Napoli, con un design che si distingue e una qualità che non delude. È il regalo perfetto per te o per chi ami, un pensiero speciale che porta con sé un pezzo di Napoli.
-  Updated: 2025-09-17T14:59:39Z
+  Updated: 2026-02-21T03:05:43Z
   Vendor: AMA SHOP
   Product Type: Adesivo personalizzato
   Availability: Available
@@ -2216,7 +2216,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/numero_vintage.jpg?v=1746203318
     Price: 9,00 € EUR
 - [Adesivo prespaziato numero racing mod.8 personalizzabile adatto per auto moto pc](https://www.amashopstudio.it/products/adesivo-prespaziato-numero-vintage-personalizzabile-adatto-per-auto-moto-pc-copia): . Adesivi Numeri Prespaziati in Vinile Gli adesivi numeri prespaziati in vinile sono una soluzione versatile e personalizzabile per le tue esigenze di decorazione e identificazione su auto e moto. Questi adesivi sono progettati per resistere alle intemperie e offrire una lunga durata, mantenendo un aspetto lucido e accattivante. Caratteristiche Principali - **Materiale di Qualità**: Realizzati in vinile di alta qualità, questi adesivi sono resistenti all'acqua e ai raggi UV, garantendo che i colori non sbiadiscano con il tempo.- **Facilità di Applicazione**: Grazie al design prespaziato, l'applicazione è semplice e veloce. Non c'è bisogno di preoccuparsi di allineare individualmente ogni numero.- **Personalizzazione**: È possibile scegliere tra una vasta gamma di font, dimensioni e colori per adattarsi perfettamente al tuo veicolo e al tuo stile personale. ## Vantaggi degli Adesivi Prespaziati - **Versatilità**: Ideali per numeri di gara, targhe personalizzate, o semplicemente per aggiungere un tocco personale al tuo veicolo.- **Durabilità**: La resistenza del vinile garantisce che gli adesivi mantengano la loro integrità anche in condizioni climatiche avverse.- **Facilità di Rimozione**: Quando decidi di cambiare o rimuovere l'adesivo, si stacca facilmente senza lasciare residui appiccicosi. ## Come Personalizzare i Tuoi Adesivi 1. **Scegli i Numeri**: Decidi quali numeri ti servono e in quale sequenza.2. **Seleziona il Font e le Dimensioni**: Opta per un font che rispecchi il tuo stile e scegli la dimensione che meglio si adatta allo spazio disponibile sul tuo veicolo.3. **Scegli il Colore**: Disponibili in un'ampia varietà di colori per abbinarsi alla tua auto o moto. ## Suggerimenti per l'Applicazione - **Pulizia della Superficie**: Prima dell'applicazione, assicurati che la superficie sia pulita e asciutta per garantire una perfetta adesione.- **Posizionamento Attento**: Utilizza del nastro adesivo come guida per posizionare correttamente l'adesivo prima di applicarlo definitivamente.- **Eliminazione delle Bolle**: Utilizza una spatola morbida o una carta di credito per eliminare eventuali bolle d'aria. Gli adesivi numeri prespaziati in vinile sono una scelta eccellente per chi desidera personalizzare il proprio veicolo in modo semplice e affidabile. Sfrutta la possibilità di aggiungere un tocco personale al tuo mezzo con stile e funzionalità! LA DIMENSIONE E' SMEPRE RIFERITA ALLA LARGHEZZA
-  Updated: 2025-09-17T14:59:41Z
+  Updated: 2026-03-02T08:54:23Z
   Vendor: AMA SHOP
   Product Type: Adesivo personalizzato
   Availability: Available
@@ -2291,7 +2291,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/SCUDETTONAPOLIMOD_1_5c688a48-3588-47d7-8bb5-f59594c94a15.jpg?v=1746217386
     Price: 9,00 € EUR
 - [Adesivo 'Forza Napoli'| Supporter calcio | Napoli calcio](https://www.amashopstudio.it/products/adesivo-napoli-3-scudetto-napoli-supporter-calcio-copia): . Adesivo in PVC ‘Napoli’ Adatto per Ogni Superficie Gli adesivi in PVC sono una scelta eccellente per chi cerca un'opzione versatile e resistente per decorare o personalizzare superfici diverse. Ecco perché l'adesivo in PVC ‘Napoli’ è ideale per ogni esigenza: Caratteristiche dell'Adesivo in PVC ‘Napoli’ Resistenza: Realizzato con materiali di alta qualità, l'adesivo in PVC ‘Napoli’ è resistente all'acqua, ai raggi UV e agli agenti atmosferici, garantendo una lunga durata nel tempo. Versatilità: Può essere applicato su una varietà di superfici, incluse pareti, vetri, metallo, plastica e molto altro. Facilità di Applicazione: Grazie al suo design autoadesivo, l'adesivo è semplice da applicare e rimuovere senza lasciare residui. Personalizzazione: Disponibile in diverse dimensioni e disegni per soddisfare ogni gusto e necessità.
-  Updated: 2025-09-17T14:59:41Z
+  Updated: 2026-04-06T07:26:24Z
   Vendor: AMA SHOP
   Product Type: Adesivo personalizzato
   Availability: Available
@@ -2417,7 +2417,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/napolisito2.jpg?v=1746374692
     Price: 9,00 € EUR
 - [Adesivo ' Forza Napoli tifoso D.O.C.| Supporter calcio | Napoli calcio](https://www.amashopstudio.it/products/adesivo-napoli-corona-1926mod-2-supporter-calcio-napoli-calcio-copia): . Adesivo in PVC ‘Napoli’ Adatto per Ogni Superficie Gli adesivi in PVC sono una scelta eccellente per chi cerca un'opzione versatile e resistente per decorare o personalizzare superfici diverse. Ecco perché l'adesivo in PVC ‘Napoli’ è ideale per ogni esigenza: Caratteristiche dell'Adesivo in PVC ‘Napoli’ Resistenza: Realizzato con materiali di alta qualità, l'adesivo in PVC ‘Napoli’ è resistente all'acqua, ai raggi UV e agli agenti atmosferici, garantendo una lunga durata nel tempo. Versatilità: Può essere applicato su una varietà di superfici, incluse pareti, vetri, metallo, plastica e molto altro. Facilità di Applicazione: Grazie al suo design autoadesivo, l'adesivo è semplice da applicare e rimuovere senza lasciare residui. Personalizzazione: Disponibile in diverse dimensioni e disegni per soddisfare ogni gusto e necessità.
-  Updated: 2025-09-17T14:59:41Z
+  Updated: 2026-02-27T11:58:29Z
   Vendor: AMA SHOP
   Product Type: Adesivo personalizzato
   Availability: Available
@@ -2501,7 +2501,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/napolisito4.jpg?v=1746374845
     Price: 9,00 € EUR
 - [Adesivo ' Napoli nel cuore '| Supporter calcio | Napoli calcio](https://www.amashopstudio.it/products/adesivo-forza-napoli-signori-si-nasce-supporter-calcio-napoli-calcio-copia): . Adesivo in PVC ‘Napoli’ Adatto per Ogni Superficie Gli adesivi in PVC sono una scelta eccellente per chi cerca un'opzione versatile e resistente per decorare o personalizzare superfici diverse. Ecco perché l'adesivo in PVC ‘Napoli’ è ideale per ogni esigenza: Caratteristiche dell'Adesivo in PVC ‘Napoli’ Resistenza: Realizzato con materiali di alta qualità, l'adesivo in PVC ‘Napoli’ è resistente all'acqua, ai raggi UV e agli agenti atmosferici, garantendo una lunga durata nel tempo. Versatilità: Può essere applicato su una varietà di superfici, incluse pareti, vetri, metallo, plastica e molto altro. Facilità di Applicazione: Grazie al suo design autoadesivo, l'adesivo è semplice da applicare e rimuovere senza lasciare residui. Personalizzazione: Disponibile in diverse dimensioni e disegni per soddisfare ogni gusto e necessità.
-  Updated: 2025-09-17T14:59:42Z
+  Updated: 2026-03-20T10:42:34Z
   Vendor: AMA SHOP
   Product Type: Adesivo personalizzato
   Availability: Available
@@ -2585,7 +2585,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/napoli6sito.jpg?v=1746375010
     Price: 9,00 € EUR
 - [Adesivo ' Napoli 1926 '| Supporter calcio | Napoli calcio - AMA SHOP](https://www.amashopstudio.it/products/adesivo-napoli-con-vesuvio-supporter-calcio-napoli-calcio-copia): Mostra il tuo sostegno alla squadra di calcio Napoli con il nostro adesivo ' Napoli 1926 '. Perfetto per decorare auto, laptop o qualsiasi superficie. Acquista ora e rappresenta i colori del Napoli!
-  Updated: 2025-12-21T11:12:18Z
+  Updated: 2026-04-20T08:51:57Z
   Vendor: AMA SHOP
   Product Type: Adesivo personalizzato
   Availability: Available
@@ -2753,7 +2753,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/anemaecorestickers.jpg?v=1746564808
     Price: 9,00 € EUR
 - [T-Shirt 'NAPOLI' Anema e core 1926](https://www.amashopstudio.it/products/t-shirt-napoli-anema-e-core-1926-bianca): Acquista la T-Shirt 'NAPOLI' Anema e core 1926, maglietta ufficiale SSC Napoli. Ideale per tifosi e appassionati di calcio. Spedizione rapida e sicura.
-  Updated: 2025-09-17T14:59:43Z
+  Updated: 2026-04-18T18:54:06Z
   Vendor: AMA SHOP
   Product Type: Adesivo personalizzato
   Availability: Available
@@ -2779,7 +2779,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/TSHIRTANEMAECORE.jpg?v=1746478058
     Price: 9,00 € EUR
 - [Set"Adesivo PVC Effetto Polaroid 'Ricordi Indelebili' - Personalizzabile con Foto, Data e Dedica"5 PZ](https://www.amashopstudio.it/products/adesivo-napoli-1926-nero-supporter-calcio-napoli-calcio-copia-1): Trasforma i tuoi ricordi più preziosi in adesivi unici con il nostro Adesivo PVC Effetto Polaroid "Ricordi Indelebili". Realizzato in PVC di alta qualità, questo adesivo resistente all'acqua e ai raggi UV ricrea perfettamente l'iconica cornice Polaroid, aggiungendo un tocco vintage e nostalgico alle tue foto preferite. Personalizzalo facilmente con la tua foto del cuore, aggiungi una data speciale e una dedica personale per rendere ogni adesivo unico e significativo. Ideale per decorare diari, laptop, valigie, smartphone, album fotografici o qualsiasi superficie liscia. Caratteristiche principali: Materiale PVC premium resistente all'acqua e ai raggi UV Effetto Polaroid autentico con spazio per foto, data e dedica Facile da applicare e rimuovere senza lasciare residui Perfetto per regali personalizzati e ricordi speciali Disponibile in diverse dimensioni per adattarsi a ogni esigenza Il set comprende 5pz. uno da 10 cm + 4 da 5 cm Cattura i tuoi momenti più belli e trasformali in adesivi che durano nel tempo. Ogni "Ricordo Indelebile" racconta una storia unica: la tua!
-  Updated: 2025-12-12T23:41:33Z
+  Updated: 2026-02-09T19:25:43Z
   Vendor: AMA SHOP
   Product Type: Adesivo personalizzato
   Availability: Available
@@ -2912,7 +2912,7 @@
     Image: https://cdn.shopify.com/s/files/1/0826/2467/6183/files/NAPOLI4SCUDETTOMOD3.jpg?v=1748067604
     Price: 9,00 € EUR
 - [Adesivo Napoli Campioni d'Italia 4° scudetto Mod.4  + 2 adesivi da 10 cm in omaggio](https://www.amashopstudio.it/products/adesivo-napoli-campioni-ditalia-4-scudetto-mod-3-2-adesivi-da-10-cm-in-omaggio-copia): Mostra il tuo orgoglio per il Napoli calcio con il nostro adesivo 'Anema e core 1926'. Perfetto per decorare auto, laptop o qualsiasi superficie. Acquista ora e rappresenta la tua squadra del cuore!
-  Updated: 2025-09-17T14:59:43Z
+  Updated: 2026-04-08T08:13:30Z
   Vendor: AMA SHOP
   Product Type: Adesivo personalizzato
   Availability: Available
@@ -3154,25 +3154,25 @@
   Updated: 2025-09-17T14:59:12Z
   Total Products: 62
 - [Adesivi](https://www.amashopstudio.it/collections/adesivi): Adesivi personalizzati in pvc
-  Updated: 2026-01-01T12:13:39Z
+  Updated: 2026-04-20T11:30:53Z
   Total Products: 41
 - [Penne](https://www.amashopstudio.it/collections/penne-1): Penne personalizzate con incisione laser
   Updated: 2025-09-17T14:59:12Z
   Total Products: 2
 - [Ultimi arrivi](https://www.amashopstudio.it/collections/ultimi-arrivi)
-  Updated: 2026-01-06T12:19:38Z
+  Updated: 2026-04-20T11:30:53Z
   Total Products: 147
 - [Tote bag](https://www.amashopstudio.it/collections/tote-bag)
   Updated: 2025-09-17T14:59:12Z
   Total Products: 5
 - [Borracce](https://www.amashopstudio.it/collections/borracce)
-  Updated: 2025-09-17T14:59:12Z
+  Updated: 2026-03-12T11:26:54Z
   Total Products: 6
 - [Portachiavi](https://www.amashopstudio.it/collections/portachiavi)
-  Updated: 2026-01-06T12:19:38Z
+  Updated: 2026-03-23T11:24:05Z
   Total Products: 8
 - [T-shirt](https://www.amashopstudio.it/collections/t-shirt)
-  Updated: 2025-09-17T14:59:12Z
+  Updated: 2026-04-19T11:29:52Z
   Total Products: 16
 - [Body e bavette](https://www.amashopstudio.it/collections/body-e-bavette)
   Updated: 2025-09-17T14:59:12Z
@@ -3205,7 +3205,7 @@
   Updated: 2025-09-17T14:59:13Z
   Total Products: 1
 - [Prodotti Napoli](https://www.amashopstudio.it/collections/prodotti-napoli-1): Scopri la nostra selezione di prodotti ispirati alla bellezza e alla cultura di Napoli. Sfoglia la nostra collezione e trova il pezzo perfetto per te.
-  Updated: 2025-12-20T12:22:32Z
+  Updated: 2026-04-20T11:30:53Z
   Total Products: 39
 
 ## Blogs
