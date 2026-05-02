@@ -10,7 +10,7 @@
 - Contact Email: Home4u@home4u.is
 - Contact Phone: +354 7656999
 - Address: Miðhraun 22, Garðabær, Iceland
-- Updated At: 2026-04-24T00:00:43.538Z
+- Updated At: 2026-05-02T00:00:46.839Z
 
 Home4u is a leading Icelandic e-commerce store specializing in premium bathroom, kitchen, and home improvement products. We offer a curated selection of high-quality European brands, focusing on modern Scandinavian design, durability, and functionality.
 
@@ -45,7 +45,7 @@ We serve homeowners, contractors, designers, and developers looking for reliable
     Availability: Available
     Price: kr 64,900.00 ISK
 - [Gold Baðþil](https://home4u.is/products/gold-badthil): Einföld og falleg hönnun frá REA. ​ ​Stærð: Lengd: 700mm Hæð:​ 1400mm ​ Einnig Fáanleg í 80cm lengd. ​ Afhendingartími ef vara er ekki til á lager hjá okkur Ef varan er ekki til: 4-6 vikur er venjulegi afgreiðslutíminn okkar á sérpöntunum. Við bjóðum einnig uppá hraðsendingu gegn auka gjaldi. Endilega hafðu samband við okkur fyrir nánari upplýsingar. Sími: 765 6999 Netfang: home4u@home4u.is
-  Updated: 2026-04-17T21:31:36Z
+  Updated: 2026-04-25T12:19:45Z
   Vendor: Rea
   Product Type: 
   Availability: Available
@@ -241,24 +241,6 @@ We serve homeowners, contractors, designers, and developers looking for reliable
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/meteor_111_white_1200x800_a28a720b-3949-4d7e-94c9-31e0c7493a1c.webp?v=1716472699
     Price: kr 91,000.00 ISK
-- [METEOR 137 1370x500mm (3Litir)](https://home4u.is/products/meteor-137-1370x500mm-3litir): Vandaðir og góðir handklæðaofnar frá EXCELENT.Fáanlegur í þrem litum.Efni: low carbon steel Afhendingartími ef vara er ekki til á lager hjá okkur Ef varan er ekki til: 4-6 vikur er venjulegi afgreiðslutíminn okkar á sérpöntunum. Við bjóðum einnig uppá hraðsendingu gegn auka gjaldi. Endilega hafðu samband við okkur fyrir nánari upplýsingar. Sími: 765 6999 Netfang: home4u@home4u.is
-  Updated: 2025-12-17T11:47:02Z
-  Vendor: Excelent
-  Product Type: handklæðaofn
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/grex_me137_gr_1200x800_clean.webp?v=1716473015
-  - [Matt Black](https://home4u.is/products/meteor-137-1370x500mm-3litir?variant=48722688409921)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/grex_me137_gr_1200x800_clean.webp?v=1716473015
-    Price: kr 104,900.00 ISK
-  - [Grey Metalic](https://home4u.is/products/meteor-137-1370x500mm-3litir?variant=48722688442689)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/meteor_137_grey_1200x800_199b6d69-9735-4bb0-8a31-a9592cd0ffb7.webp?v=1716473030
-    Price: kr 104,900.00 ISK
-  - [White Soft](https://home4u.is/products/meteor-137-1370x500mm-3litir?variant=48722688475457)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/meteor_137_white_1200x800_95d08b12-03fa-48ff-8e87-4b62dbc5ab6d.webp?v=1716473030
-    Price: kr 104,900.00 ISK
 - [Rafmagnshitari 600W](https://home4u.is/products/rafmagnshitari-600w): Glæsileg lausn fyrir sumarbústaðinn eða hvaða heimili sem er. Default stilling er sett á 48 ° C en auðvelt er að endurstilla eftir eigin vali. Einnig er hægt að velja tíma stillingu svo ofnin slökkvi á sér á ákveðnum tíma. ​ Auka eiginleikar: Hitarinn er frostþolinn. Litir í boði: Svartur, Grár & Hvítur. Stærð: 66 x 55 x 39 mm ​ Afhendingartími ef vara er ekki til á lager hjá okkur Ef varan er ekki til: 4-6 vikur er venjulegi afgreiðslutíminn okkar á sérpöntunum. Við bjóðum einnig uppá hraðsendingu gegn auka gjaldi. Endilega hafðu samband við okkur fyrir nánari upplýsingar. Sími: 765 6999 Netfang: home4u@home4u.is
   Updated: 2025-08-07T15:58:30Z
   Vendor: Excelent
@@ -356,7 +338,7 @@ We serve homeowners, contractors, designers, and developers looking for reliable
     Availability: Not Available
     Price: kr 0.00 ISK
 - [LINE PRO - Built in fyrir flísina niðurfall](https://home4u.is/products/line-pro-built-in-fyrir-flisina-nidurfall): Einstaklega vönduð og falleg vara.12 litir/ útfærslur í boði, einnig hægt að setja flís í brautina.Dýpt fyrir samsetningu: 49mmFlæði: 0,85 l / sek Nútímaleg hönnun Dýpt í gólf 49mm Mikið flæði 0,85 lítrar á sek / 51 líter á mín Hægt að skipta um cover eftir samsetningu / lit Stíflast ekki, þarf sjaldan að þrífa Lyktalaus tækni / Anti smell system Vatnslásinn er búinn til úr 1mm þykku AISI 304 ryðfríu stál Margir litir í boði Einnig hægt að setja flís í brautina með og án ramma Ekkert mál að skiptu um coverið / litina eftir á Data Sheet Installation guide Afhendingartími ef vara er ekki til á lager hjá okkur Ef varan er ekki til: 4-6 vikur er venjulegi afgreiðslutíminn okkar á sérpöntunum. Við bjóðum einnig uppá hraðsendingu gegn auka gjaldi. Endilega hafðu samband við okkur fyrir nánari upplýsingar. Sími: 765 6999 Netfang: home4u@home4u.is
-  Updated: 2026-03-27T12:30:47Z
+  Updated: 2026-04-24T16:20:46Z
   Vendor: Ced'or
   Product Type: niðurfall
   Availability: Available
@@ -434,7 +416,7 @@ We serve homeowners, contractors, designers, and developers looking for reliable
     Availability: Not Available
     Price: kr 0.00 ISK
 - [Ottawa Comfort Hvítt Glans Skál og hæglokandi seta 54x36,5](https://home4u.is/products/ottawa-skal-og-haeglokandi-seta): Einstaklega vönduð og falleg hönnun Hæglokandi seta fylgir með Silent smart OTTAWAMWBP Festing | 18cm Teikningar skál hér Afhendingartími ef vara er ekki til á lager hjá okkur Ef varan er ekki til: 4-6 vikur er venjulegi afgreiðslutíminn okkar á sérpöntunum. Við bjóðum einnig uppá hraðsendingu gegn auka gjaldi. Endilega hafðu samband við okkur fyrir nánari upplýsingar. Sími: 765 6999 Netfang: home4u@home4u.is
-  Updated: 2026-03-27T12:30:48Z
+  Updated: 2026-04-24T16:20:46Z
   Vendor: Omnires
   Product Type: salerni
   Availability: Available
@@ -532,7 +514,7 @@ We serve homeowners, contractors, designers, and developers looking for reliable
   Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/427861ea8959c91e28bc4a0fa8ca.jpg?v=1716631202
   Price: kr 108,900.00 ISK
 - [Brushed Gold- Y collection - Innbyggt handlaugatæki](https://home4u.is/products/brushed-gold-y-collection-innbyggt-handlaugataeki): Glæsileg og falleg hönnun frá Omnires.Lengd frá tæki að bunu 18.5 cmInnvolskerfi / 4.5 cm inn í vegg Tæknilegar upplýsingar hér Afhendingartími ef vara er ekki til á lager hjá okkur Ef varan er ekki til: 4-6 vikur er venjulegi afgreiðslutíminn okkar á sérpöntunum. Við bjóðum einnig uppá hraðsendingu gegn auka gjaldi. Endilega hafðu samband við okkur fyrir nánari upplýsingar. Sími: 765 6999 Netfang: home4u@home4u.is
-  Updated: 2025-10-23T14:03:16Z
+  Updated: 2026-04-24T16:20:46Z
   Vendor: Omnires
   Product Type: blöndunartæki
   Availability: Available
@@ -623,7 +605,7 @@ We serve homeowners, contractors, designers, and developers looking for reliable
   Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/OMNIRES_SYSYT05BL.webp?v=1746182123
   Price: kr 345,900.00 ISK
 - [Brushed gold Innbyggð Thermo sturta - Y Collection](https://home4u.is/products/brushed-gold-innbyggd-thermo-sturta-y-collection): Glæsileg og falleg hönnun frá OmniresFullbúið innbyggt THERMO sturtusett.Hitalæsing við 38 gráðurVatn á min miðast við 3 bar: 22 l/minÞrýstigeta allt að 6 barLokur fyrir sturtuhaus og barka / ekki pinni SYSYT05GLB Tæknilegar Upplýsingar Innvolskerfið BOX TE 2F Dýpt inn í vegg - 7cmTvö 3/4 tommu inntök / heitt & kalt.Tvö 1/2 mix úttökHitalæsing við 38 gráðurFilterað með non-return valves/rásumLokur fyrir sturtu haus og barka / ekki pinni Leiðbeiningar hér Tæknilegar teikningar Afhendingartími ef vara er ekki til á lager hjá okkur Ef varan er ekki til: 4-6 vikur er venjulegi afgreiðslutíminn okkar á sérpöntunum. Við bjóðum einnig uppá hraðsendingu gegn auka gjaldi. Endilega hafðu samband við okkur fyrir nánari upplýsingar. Sími: 765 6999 Netfang: home4u@home4u.is
-  Updated: 2026-02-23T14:56:11Z
+  Updated: 2026-04-24T16:20:46Z
   Vendor: Omnires
   Product Type: sturtutæki
   Availability: Available
@@ -803,22 +785,22 @@ We serve homeowners, contractors, designers, and developers looking for reliable
   Updated: 2024-10-21T16:19:32Z
   Total Products: 1
 - [Handlaugatæki](https://home4u.is/collections/handlaugataeki)
-  Updated: 2026-03-28T11:22:04Z
+  Updated: 2026-04-25T11:23:07Z
   Total Products: 37
 - [Baðtæki](https://home4u.is/collections/badtaekin)
-  Updated: 2026-03-13T07:38:54Z
+  Updated: 2026-04-30T11:20:46Z
   Total Products: 59
 - [Sturtusett](https://home4u.is/collections/sturtusett)
-  Updated: 2026-03-28T11:22:04Z
+  Updated: 2026-04-25T11:23:07Z
   Total Products: 39
 - [Baðkör Frístandandi og veggfest](https://home4u.is/collections/fristandandi-badkor): Glæsileg Úrval af Frístandandi Baðkörum
-  Updated: 2026-02-23T12:02:40Z
+  Updated: 2026-04-30T11:20:46Z
   Total Products: 24
 - [Baðþil](https://home4u.is/collections/badthil)
-  Updated: 2026-03-26T11:21:59Z
+  Updated: 2026-04-26T11:22:54Z
   Total Products: 6
 - [Handlaugar](https://home4u.is/collections/handlaugar)
-  Updated: 2026-04-18T11:24:44Z
+  Updated: 2026-04-25T11:23:07Z
   Total Products: 38
 - [Sturtubotnar](https://home4u.is/collections/sturtubotnar)
   Updated: 2025-11-11T14:30:18Z
@@ -827,28 +809,28 @@ We serve homeowners, contractors, designers, and developers looking for reliable
   Updated: 2026-03-28T11:22:04Z
   Total Products: 18
 - [Ofnar](https://home4u.is/collections/ofnar)
-  Updated: 2025-12-17T12:21:20Z
+  Updated: 2026-04-25T11:23:07Z
   Total Products: 8
 - [Niðurföll](https://home4u.is/collections/nidurfoll)
-  Updated: 2026-03-28T11:22:04Z
+  Updated: 2026-04-25T11:23:07Z
   Total Products: 12
 - [Salerni](https://home4u.is/collections/salerni)
-  Updated: 2026-04-15T08:06:24Z
+  Updated: 2026-04-28T11:22:17Z
   Total Products: 25
 - [Blöndunartæki Baðherbergi](https://home4u.is/collections/blondunartaeki)
-  Updated: 2026-03-28T11:22:04Z
+  Updated: 2026-04-30T11:20:46Z
   Total Products: 113
 - [Baðherbergið](https://home4u.is/collections/badherbergid)
-  Updated: 2026-04-18T11:24:44Z
+  Updated: 2026-04-30T11:20:46Z
   Total Products: 275
 - [Y Collection Omnires](https://home4u.is/collections/y-collection-omnires)
-  Updated: 2026-03-13T07:38:54Z
+  Updated: 2026-04-30T11:20:46Z
   Total Products: 102
 - [Contour Collection Omnires](https://home4u.is/collections/contour-collection-omnires)
   Updated: 2026-03-28T11:22:04Z
   Total Products: 33
 - [Ovo Línan](https://home4u.is/collections/ovo-linan): Ekki bara handlaugar, heldur einnig einstök frístandandi baðkör. OVO M baðkörin eru að mestu leiti úr dolomite rock eða dólómítsteinefni sem er gríðarlega sterkt og endingargott efni.
-  Updated: 2026-03-28T11:22:04Z
+  Updated: 2026-04-25T11:23:07Z
   Total Products: 26
 - [Eldhúsvaskar](https://home4u.is/collections/eldhusvaskar)
   Updated: 2026-04-22T11:20:20Z
@@ -866,25 +848,25 @@ We serve homeowners, contractors, designers, and developers looking for reliable
   Updated: 2026-04-22T11:20:20Z
   Total Products: 34
 - [Speglar](https://home4u.is/collections/speglar): Einstaklega vönduð hönnun. Led lýsing og hitari í speglinum til að koma í veg fyrir móðu.
-  Updated: 2025-12-26T12:13:17Z
+  Updated: 2026-04-28T11:22:17Z
   Total Products: 8
 - [Aukahlutir fyrir baðherbergið](https://home4u.is/collections/aukahlutir-fyrir-badherbergid)
   Updated: 2026-04-01T11:23:23Z
   Total Products: 64
 - [Tappar og Vatnslásar](https://home4u.is/collections/tappar-og-vatnslasar)
-  Updated: 2026-04-18T11:24:44Z
+  Updated: 2026-04-29T11:22:26Z
   Total Products: 15
 - [SOME Baðkör](https://home4u.is/collections/some-badkor)
-  Updated: 2026-02-03T12:18:43Z
+  Updated: 2026-04-30T11:20:46Z
   Total Products: 9
 - [ÚTSÖLU VÖRUR !](https://home4u.is/collections/utsolu-vorur): Allt að 70% afsláttur !! Af vörur sem eru hættar í sölu hjá okkur í Home4u.
   Updated: 2025-10-03T15:54:51Z
   Total Products: 4
 - [SOME](https://home4u.is/collections/some): Glæsilegar vöru frá SOME.
-  Updated: 2026-04-18T11:24:44Z
+  Updated: 2026-04-30T11:20:46Z
   Total Products: 29
 - [SOME speglar](https://home4u.is/collections/some-speglar)
-  Updated: 2025-12-26T12:13:17Z
+  Updated: 2026-04-28T11:22:17Z
   Total Products: 8
 - [Flísar](https://home4u.is/collections/flisar): Við kynnum með stolti flísar frá nokkrum af bestu framleiðendum í Evrópu svo sem, Tubadzin, Cerrad, Nowagala og Paradyz Flísar | JBK byggingavörur | Tubądzin
   Updated: 2026-03-13T15:09:08Z
