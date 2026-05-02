@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-10-08T14:26:58Z
 - Contact Email: hello@ymcyc.com
-- Updated At: 2026-04-25T00:00:34.626Z
+- Updated At: 2026-05-02T00:00:37.728Z
 
 ## Products
 
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0900/7159/7381/files/epic-climbs-black-edition-din-a1-940563.jpg?v=1731875655
   Price: 42,00 € EUR
 - [Climb Goals – Radsport Poster (DIN A1) | 100 Legendäre Berganstiege für Radfahrer](https://shop.ymcyc.com/products/pure-data-100-climbs-edition-din-a1): 100 legendäre Rennrad-Anstiege auf purem Weiß. Minimalistisches DIN A1 Poster mit Steigungsdaten und Platz für persönliche Notizen.
-  Updated: 2026-04-04T20:13:19Z
+  Updated: 2026-04-27T16:37:06Z
   Vendor: YMCYC
   Product Type: Poster
   Availability: Available
@@ -60,7 +60,7 @@
   Image: https://cdn.shopify.com/s/files/1/0900/7159/7381/files/50-must-rides-black-compact-edition-din-a2-809322.jpg?v=1739180338
   Price: 36,00 € EUR
 - [Climb Finisher-Sticker Dusty Rose (100 Stk.)](https://shop.ymcyc.com/products/finisher-stickerbogen-climb-poster-dusty-rose): 100 Finisher-Sticker in Dusty Rose für dein Climb-Poster. Perfekt auf helle Poster abgestimmt. Recyclingpapier, vorgestanzt, DIN A4.
-  Updated: 2026-04-05T08:16:33Z
+  Updated: 2026-04-27T16:37:06Z
   Vendor: YMCYC
   Product Type: Sticker
   Availability: Available
@@ -81,7 +81,7 @@
   Image: https://cdn.shopify.com/s/files/1/0900/7159/7381/files/black-white-100-grand-tour-edition-din-a1-poster-4822026.jpg?v=1762832398
   Price: 42,00 € EUR
 - [Climb Finisher-Sticker Carbon Black (100 Stk.)](https://shop.ymcyc.com/products/finisher-stickerbogen-climb-poster-carbon-black): 100 Finisher-Sticker in Carbon Black für dein Climb-Poster. Ideal für gerahmte Poster mit Glas. Recyclingpapier, vorgestanzt, DIN A4.
-  Updated: 2026-04-05T08:16:54Z
+  Updated: 2026-04-27T16:37:02Z
   Vendor: YMCYC
   Product Type: Sticker
   Availability: Available
@@ -108,19 +108,19 @@
   Updated: 2026-04-05T10:28:56Z
   Total Products: 2
 - [Pure White](https://shop.ymcyc.com/collections/pure-white): Climb-Poster auf purem Weiß: minimalistisch, klar, zeitlos. 50 oder 100 Anstiege mit Steigungsdaten. Die ruhige Variante für deine Wand.
-  Updated: 2026-04-10T11:33:52Z
+  Updated: 2026-04-28T11:33:39Z
   Total Products: 7
 - [50 Essential Climbs](https://shop.ymcyc.com/collections/50-essential-climbs): Die 50 wichtigsten Rennrad-Pässe als DIN A2 Poster. Von Galibier bis Mortirolo — kompakt, datenreich, ab 36 €. Designed in München.
   Updated: 2026-04-10T11:33:52Z
   Total Products: 4
 - [100 Legendary Climbs](https://shop.ymcyc.com/collections/100-legendary-climbs): Die 100 legendärsten Rennrad-Anstiege Europas als DIN A1 Poster. Stelvio, Ventoux, Alpe d'Huez — alle auf einem Print. Ab 42 €.
-  Updated: 2026-04-10T11:33:52Z
+  Updated: 2026-04-28T11:33:39Z
   Total Products: 5
 - [Climb Sticker](https://shop.ymcyc.com/collections/poster-accessories-sticker): Climb Sticker – Die perfekte Ergänzung für dein Climb Poster. Markiere absolvierte Anstiege mit praktischen Stickern. Erhältlich in dunklen und hellen Varianten
-  Updated: 2026-04-04T20:16:51Z
+  Updated: 2026-04-28T11:33:39Z
   Total Products: 4
 - [All Legendary Climbs Prints](https://shop.ymcyc.com/collections/all-prints): Entdecke die exklusive Kollektion von Rennrad-Postern bei YMCYC. Von der Pure Data Edition bis zum Retro-Look – das ideale Geschenk für Radsportler, um 100 legendäre Anstiege als interaktive Bucket List festzuhalten.
-  Updated: 2026-04-10T11:33:52Z
+  Updated: 2026-04-28T11:33:39Z
   Total Products: 9
 
 ## Blogs
@@ -152,6 +152,8 @@
   Updated: 2025-02-10T14:25:41Z
 - [GDPR Compliance](https://shop.ymcyc.com/pages/gdpr-compliance): #form-gdpr-edit-account-request, #form-gdpr-requests-request, #form-gdpr-personal-information-request, #form-gdpr-orders-request, #form-gdpr-person...
   Updated: 2025-02-26T08:05:24Z
+- [Widerrufsformular](https://shop.ymcyc.com/pages/eu-widerrufsformular)
+  Updated: 2026-04-28T10:07:47Z
 
 ## Policies
 
