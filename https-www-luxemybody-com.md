@@ -14,7 +14,7 @@ Luxe My Body is built for those who appreciate luxury, detail, and the art of pr
 - Timezone: America/Chicago
 - Created At: 2020-05-21T01:41:30Z
 - Contact Email: sales@luxemybody.com
-- Updated At: 2026-04-25T04:00:24.552Z
+- Updated At: 2026-05-02T08:00:24.499Z
 
 Luxe My Body is a luxury footwear and hosiery brand created by Carrie LaChance, designed to embody power, elegance, and visual impact. Every product is built around the philosophy that fashion should not only be worn, but experienced.
 
@@ -27,7 +27,7 @@ This site represents the official source for Luxe My Body products, collections,
 ## Products
 
 - [Elegant Beige Pantyhose - Luxury Hosiery by Luxe My Body](https://www.luxemybody.com/products/elegant-beige-pantyhose): Slip into luxury with beige Elegant Full Pantyhose — silky-sheer 10 denier, glossy shine, high waistband, and booty-lifting seams that sculpt every curve.
-  Updated: 2026-04-22T02:19:11Z
+  Updated: 2026-04-30T10:24:49Z
   Vendor: Luxe My Body
   Product Type: Hosiery
   Availability: Available
@@ -41,7 +41,7 @@ This site represents the official source for Luxe My Body products, collections,
     Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/products/Elegant_Beige_Full_Pantyhose_4.jpg?v=1757734146
     Price: $55.00 USD
 - [Daring Beige Crotchless Pantyhose - Luxury Hosiery by Luxe My Body](https://www.luxemybody.com/products/daring-baige-crotchless-pantyhose): Unapologetically risky, these beige Daring Crotchless Pantyhose leave nothing to the imagination. Made in silky-sheer 10 denier with a wide, comfortable waistband and booty-lifting seams, they contour your curves with a glossy, second-skin shine. The lace-reinforced open crotch is pure temptation — a provocative twist that transforms classic pantyhose into a statement of seduction. Smooth. Glossy. Deliciously daring. Silky sheer 10 denier. Wide, comfortable high waistband. Two booty lifting support seams. Open crotch. Invisible sheer reinforced toe.
-  Updated: 2026-04-22T02:19:12Z
+  Updated: 2026-04-30T10:24:50Z
   Vendor: Luxe My Body
   Product Type: Hosiery
   Availability: Available
@@ -55,7 +55,7 @@ This site represents the official source for Luxe My Body products, collections,
     Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/products/Daring_Beige_Crotchless_Pantyhose_4.jpg?v=1757733911
     Price: $59.00 USD
 - [Seductive Beige Stockings - Luxury Hosiery by Luxe My Body](https://www.luxemybody.com/products/seductive-beige-stockings): These beige Seductive Stockings are designed to smooth, shine, and seduce. Crafted in silky-sheer 10 denier, they feature a wide, comfortable thigh band made of the same glossy material for a flawless hold that won’t cut in. An invisible reinforced toe keeps the look sleek from heel to thigh, while the glossy finish contours your legs with a smooth, irresistible shine. Pair with our Lace Garter Belt (sold separately) for the ultimate Luxe My Body statement. Silky sheer 10 denier. Wide, comfortable thigh band. Invisible sheer reinforced toe. Garter belt "sold separately".
-  Updated: 2026-04-22T02:19:13Z
+  Updated: 2026-04-30T10:24:51Z
   Vendor: Luxe My Body
   Product Type: Hosiery
   Availability: Available
@@ -69,7 +69,7 @@ This site represents the official source for Luxe My Body products, collections,
     Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/products/Seductive_Beige_Thigh_High_Stockings_1.jpg?v=1757733684
     Price: $49.00 USD
 - [Black Lace High Waisted  Garter Suspender Belt with 4 Metal Clips](https://www.luxemybody.com/products/lace-black-garter-belt): Our black Lace Garter Belt is designed to turn elegance into temptation. Crafted in delicate lace with four adjustable straps and secure hook metal closures, it frames the waist and hips with irresistible allure. Sleek yet strong, it’s built to hold stockings perfectly in place while drawing every eye to your curves. Pair it with Luxe My Body seductive stockings for a look that blends luxury with desire — the kind of detail that transforms lingerie into power. Soft Lace. 4 Strap Adjustable Garter Belt. Durable Metal Clips. Adjustable hooked clasp in the back. Thigh highs and thong sold separately.
-  Updated: 2026-04-22T02:19:15Z
+  Updated: 2026-05-01T20:14:51Z
   Vendor: Luxe My Body
   Product Type: Garter Belt
   Availability: Available
@@ -91,7 +91,7 @@ This site represents the official source for Luxe My Body products, collections,
     Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/products/Lace_Black_Garter_Belt.jpg?v=1757732846
     Price: $39.00 USD
 - [Adjustable White Lace Bridal Garter Belt with 4 Metal Clips](https://www.luxemybody.com/products/lace-white-garter-belt): Our white Lace Garter Belt is designed to turn elegance into temptation. Crafted in delicate lace with four adjustable straps and secure hook metal closures, it frames the waist and hips with irresistible allure. Sleek yet strong, it’s built to hold stockings perfectly in place while drawing every eye to your curves. Pair it with Luxe My Body seductive stockings for a look that blends luxury with desire — the kind of detail that transforms lingerie into power.
-  Updated: 2026-04-22T02:19:16Z
+  Updated: 2026-04-30T10:24:54Z
   Vendor: Luxe My Body
   Product Type: Garter Belt
   Availability: Available
@@ -113,7 +113,7 @@ This site represents the official source for Luxe My Body products, collections,
     Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/products/Lace-Garter-Belt-1.jpg?v=1757732737
     Price: $39.00 USD
 - [Elegant Sheer Black Pantyhose - Luxury Hosiery by Luxe My Body](https://www.luxemybody.com/products/elegant-black-pantyhose): Slip into pure luxury with these black Elegant Full Pantyhose, designed to contour every curve with a silky-sheer 10 denier finish. A wide, comfortable high waistband hugs the waist, while booty-lifting seams sculpt and enhance your shape. Featuring an invisible reinforced toe and sheer gusset, these pantyhose deliver a flawless glossy shine from hip to toe. Ultra-smooth. Ultra-glossy. Unapologetically Luxe.
-  Updated: 2026-04-22T02:19:18Z
+  Updated: 2026-04-30T10:24:55Z
   Vendor: Luxe My Body
   Product Type: Hosiery
   Availability: Available
@@ -127,7 +127,7 @@ This site represents the official source for Luxe My Body products, collections,
     Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/products/Elegant-Full-Pantyhose-Hosiery_1.jpg?v=1757732592
     Price: $55.00 USD
 - [Elegant Brown Pantyhose - Luxury Hosiery by Luxe My Body](https://www.luxemybody.com/products/elegant-brown-pantyhose): Slip into pure luxury with these brown Elegant Full Pantyhose, designed to contour every curve with a silky-sheer 10 denier finish. A wide, comfortable high waistband hugs the waist, while booty-lifting seams sculpt and enhance your shape. Featuring an invisible reinforced toe and sheer gusset, these pantyhose deliver a flawless glossy shine from hip to toe. Ultra-smooth. Ultra-glossy. Unapologetically Luxe.
-  Updated: 2026-04-23T17:36:46Z
+  Updated: 2026-04-30T10:24:56Z
   Vendor: Luxe My Body
   Product Type: Hosiery
   Availability: Available
@@ -141,7 +141,7 @@ This site represents the official source for Luxe My Body products, collections,
     Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/products/Elegant_Brown_Full_Panthose_5.jpg?v=1757732450
     Price: $55.00 USD
 - [Daring Brown Crotchless Pantyhose Luxury Hosiery by Luxe My Body](https://www.luxemybody.com/products/daring-brown-crotchless-pantyhose): Unapologetically risky, these brown Daring Crotchless Pantyhose leave nothing to the imagination. Made in silky-sheer 10 denier with a wide, comfortable waistband and booty-lifting seams, they contour your curves with a glossy, second-skin shine. The lace-reinforced open crotch is pure temptation — a provocative twist that transforms classic pantyhose into a statement of seduction. Smooth. Glossy. Deliciously daring.
-  Updated: 2026-04-22T02:19:20Z
+  Updated: 2026-05-01T20:14:43Z
   Vendor: Luxe My Body
   Product Type: Hosiery
   Availability: Available
@@ -155,7 +155,7 @@ This site represents the official source for Luxe My Body products, collections,
     Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/products/Daring-Brown_Crotchless-Pantyhose-1.jpg?v=1757732344
     Price: $59.00 USD
 - [Daring Black Crotchless Pantyhose Luxury Hosiery by Luxe My Body](https://www.luxemybody.com/products/daring-black-crotchless-pantyhose): Unapologetically risky, these black Daring Crotchless Pantyhose leave nothing to the imagination. Made in silky-sheer 10 denier with a wide, comfortable waistband and booty-lifting seams, they contour your curves with a glossy, second-skin shine. The lace-reinforced open crotch is pure temptation — a provocative twist that transforms classic pantyhose into a statement of seduction. Smooth. Glossy. Deliciously daring.
-  Updated: 2026-04-22T02:19:21Z
+  Updated: 2026-05-01T20:14:47Z
   Vendor: Luxe My Body
   Product Type: Hosiery
   Availability: Available
@@ -169,7 +169,7 @@ This site represents the official source for Luxe My Body products, collections,
     Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/products/Daring_Black_Crotchless_Pantyhose_5.jpg?v=1757732167
     Price: $59.00 USD
 - [Seductive Black Stockings - Luxury Hosiery by Luxe My Body](https://www.luxemybody.com/products/seductive-black-stockings): These black Seductive Stockings are designed to smooth, shine, and seduce. Crafted in silky-sheer 10 denier, they feature a wide, comfortable thigh band made of the same glossy material for a flawless hold that won’t cut in. An invisible reinforced toe keeps the look sleek from heel to thigh, while the glossy finish contours your legs with a smooth, irresistible shine. Pair with our Lace Garter Belt (sold separately) for the ultimate Luxe My Body statement.
-  Updated: 2026-04-23T17:31:26Z
+  Updated: 2026-05-01T20:14:46Z
   Vendor: Luxe My Body
   Product Type: Hosiery
   Availability: Available
@@ -182,773 +182,605 @@ This site represents the official source for Luxe My Body products, collections,
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/products/Seductive-Black_Thigh-High_Stockings_1.jpg?v=1757731776
     Price: $49.00 USD
-- [White Patent Leather Platform Stiletto Sandals 160mm - by Luxe My Body](https://www.luxemybody.com/products/princess-white-patent-high-heel-sandals): Graceful yet commanding, the White Patent Princess Sandals feature a 160mm stiletto heel and a 35mm platform, pairing delicate straps with Luxe My Body’s daring Superarch heel. Engineered with an extreme pitch, this sandal transforms elegance into power, designed for warm nights, grand entrances, and unforgettable exits. Every step resonates with allure as the rounded metal heel tip clicks sharply against the floor, echoing confidence and control. Finished with shimmering gold accents at every turn — from the ankle buckle to the insole and heel tip — the Princess makes luxury feel effortless yet unapologetically powerful.
-  Updated: 2026-04-22T02:19:28Z
+- [White Patent Leather Platform Stiletto Sandals 160mm - by Luxe My Body](https://www.luxemybody.com/products/princess-white-patent-high-heel-sandals): Graceful yet commanding, the Princess White Patent High Heel Sandals feature a 160mm (6 inch) stiletto heel and a 35mm platform. Pairing delicate straps with the daring Superarch heel, this sandal transforms elegance into power—designed for warm nights, grand entrances, and unforgettable exits. Engineered with an extreme pitch, every step resonates with allure as the rounded metal heel tip clicks sharply against the floor, echoing confidence and control. Finished with shimmering gold accents at every turn—from the ankle buckle to the signature gold-toned insole—the Princess makes luxury feel effortless yet unapologetically powerful.
+  Updated: 2026-05-01T08:59:47Z
   Vendor: Luxe My Body
   Product Type: Footwear
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_White_Patent_Sandals_1.jpg?v=1757731402
+  Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/princess-white-patent-high-heel-sandal-160mm-main.jpg?v=1777498562
   - [35 EU](https://www.luxemybody.com/products/princess-white-patent-high-heel-sandals?variant=52167752286526)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_White_Patent_Sandals_1.jpg?v=1757731402
     Price: $995.00 USD
   - [35.5 EU](https://www.luxemybody.com/products/princess-white-patent-high-heel-sandals?variant=52167752319294)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_White_Patent_Sandals_1.jpg?v=1757731402
     Price: $995.00 USD
   - [36 EU](https://www.luxemybody.com/products/princess-white-patent-high-heel-sandals?variant=52167752352062)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_White_Patent_Sandals_1.jpg?v=1757731402
     Price: $995.00 USD
   - [36.5 EU](https://www.luxemybody.com/products/princess-white-patent-high-heel-sandals?variant=52167752384830)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_White_Patent_Sandals_1.jpg?v=1757731402
     Price: $995.00 USD
   - [37 EU](https://www.luxemybody.com/products/princess-white-patent-high-heel-sandals?variant=52167752417598)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_White_Patent_Sandals_1.jpg?v=1757731402
     Price: $995.00 USD
   - [37.5 EU](https://www.luxemybody.com/products/princess-white-patent-high-heel-sandals?variant=52167752450366)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_White_Patent_Sandals_1.jpg?v=1757731402
     Price: $995.00 USD
   - [38 EU](https://www.luxemybody.com/products/princess-white-patent-high-heel-sandals?variant=52167752483134)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_White_Patent_Sandals_1.jpg?v=1757731402
     Price: $995.00 USD
   - [38.5 EU](https://www.luxemybody.com/products/princess-white-patent-high-heel-sandals?variant=52167752515902)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_White_Patent_Sandals_1.jpg?v=1757731402
     Price: $995.00 USD
   - [39 EU](https://www.luxemybody.com/products/princess-white-patent-high-heel-sandals?variant=52167752548670)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_White_Patent_Sandals_1.jpg?v=1757731402
     Price: $995.00 USD
   - [40 EU](https://www.luxemybody.com/products/princess-white-patent-high-heel-sandals?variant=52167752581438)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_White_Patent_Sandals_1.jpg?v=1757731402
     Price: $995.00 USD
   - [41 EU](https://www.luxemybody.com/products/princess-white-patent-high-heel-sandals?variant=52167752614206)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_White_Patent_Sandals_1.jpg?v=1757731402
     Price: $995.00 USD
   - [42 EU](https://www.luxemybody.com/products/princess-white-patent-high-heel-sandals?variant=52167752646974)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_White_Patent_Sandals_1.jpg?v=1757731402
     Price: $995.00 USD
   - [43 EU](https://www.luxemybody.com/products/princess-white-patent-high-heel-sandals?variant=52167752679742)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_White_Patent_Sandals_1.jpg?v=1757731402
     Price: $995.00 USD
   - [44 EU](https://www.luxemybody.com/products/princess-white-patent-high-heel-sandals?variant=52167752712510)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_White_Patent_Sandals_1.jpg?v=1757731402
     Price: $995.00 USD
-- [Beige Patent Platform Stiletto Sandals 160mm - by Luxe My Body](https://www.luxemybody.com/products/princess-beige-patent-high-heel-sandals): Graceful yet commanding, the Beige Patent Princess Sandals feature a 160mm stiletto heel and a 35mm platform, pairing delicate straps with Luxe My Body’s daring Superarch heel. Engineered with an extreme pitch, this sandal transforms elegance into power, designed for warm nights, grand entrances, and unforgettable exits. Every step resonates with allure as the rounded metal heel tip clicks sharply against the floor, echoing confidence and control. Finished with shimmering gold accents at every turn — from the ankle buckle to the insole and heel tip — the Princess makes luxury feel effortless yet unapologetically powerful.
-  Updated: 2026-04-22T02:19:32Z
+- [Beige Patent Platform Stiletto Sandals 160mm - by Luxe My Body](https://www.luxemybody.com/products/princess-beige-patent-high-heel-sandals): Graceful yet commanding, the Princess Beige Patent High Heel Sandals feature a 160mm (6 inch) stiletto heel and a 35mm platform. Pairing delicate straps with the daring Superarch heel, this sandal transforms elegance into power—designed for warm nights, grand entrances, and unforgettable exits. Engineered with an extreme pitch, every step resonates with allure as the rounded metal heel tip clicks sharply against the floor, echoing confidence and control. Finished with shimmering gold accents at every turn—from the ankle buckle to the signature gold-toned insole—the Princess makes luxury feel effortless yet unapologetically powerful.
+  Updated: 2026-05-01T08:59:48Z
   Vendor: Luxe My Body
   Product Type: Footwear
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_Beige_Patent_Sandals_1.jpg?v=1757731223
+  Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/princess-beige-patent-high-heel-sandal-160mm-main.jpg?v=1777498520
   - [35 EU](https://www.luxemybody.com/products/princess-beige-patent-high-heel-sandals?variant=52167776829758)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_Beige_Patent_Sandals_1.jpg?v=1757731223
     Price: $995.00 USD
   - [35.5 EU](https://www.luxemybody.com/products/princess-beige-patent-high-heel-sandals?variant=52167776862526)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_Beige_Patent_Sandals_1.jpg?v=1757731223
     Price: $995.00 USD
   - [36 EU](https://www.luxemybody.com/products/princess-beige-patent-high-heel-sandals?variant=52167776895294)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_Beige_Patent_Sandals_1.jpg?v=1757731223
     Price: $995.00 USD
   - [36.5 EU](https://www.luxemybody.com/products/princess-beige-patent-high-heel-sandals?variant=52167776928062)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_Beige_Patent_Sandals_1.jpg?v=1757731223
     Price: $995.00 USD
   - [37 EU](https://www.luxemybody.com/products/princess-beige-patent-high-heel-sandals?variant=52167776960830)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_Beige_Patent_Sandals_1.jpg?v=1757731223
     Price: $995.00 USD
   - [37.5 EU](https://www.luxemybody.com/products/princess-beige-patent-high-heel-sandals?variant=52167776993598)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_Beige_Patent_Sandals_1.jpg?v=1757731223
     Price: $995.00 USD
   - [38 EU](https://www.luxemybody.com/products/princess-beige-patent-high-heel-sandals?variant=52167777026366)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_Beige_Patent_Sandals_1.jpg?v=1757731223
     Price: $995.00 USD
   - [38.5 EU](https://www.luxemybody.com/products/princess-beige-patent-high-heel-sandals?variant=52167777059134)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_Beige_Patent_Sandals_1.jpg?v=1757731223
     Price: $995.00 USD
   - [39 EU](https://www.luxemybody.com/products/princess-beige-patent-high-heel-sandals?variant=52167777091902)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_Beige_Patent_Sandals_1.jpg?v=1757731223
     Price: $995.00 USD
   - [40 EU](https://www.luxemybody.com/products/princess-beige-patent-high-heel-sandals?variant=52167777124670)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_Beige_Patent_Sandals_1.jpg?v=1757731223
     Price: $995.00 USD
   - [41 EU](https://www.luxemybody.com/products/princess-beige-patent-high-heel-sandals?variant=52167777157438)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_Beige_Patent_Sandals_1.jpg?v=1757731223
     Price: $995.00 USD
   - [42 EU](https://www.luxemybody.com/products/princess-beige-patent-high-heel-sandals?variant=52167777190206)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_Beige_Patent_Sandals_1.jpg?v=1757731223
     Price: $995.00 USD
   - [43 EU](https://www.luxemybody.com/products/princess-beige-patent-high-heel-sandals?variant=52167777222974)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_Beige_Patent_Sandals_1.jpg?v=1757731223
     Price: $995.00 USD
   - [44 EU](https://www.luxemybody.com/products/princess-beige-patent-high-heel-sandals?variant=52167777255742)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/Princess_160mm_Beige_Patent_Sandals_1.jpg?v=1757731223
     Price: $995.00 USD
-- [Black Leather Stiletto High Heels Strappy Sandals 160mm by Luxe My Body](https://www.luxemybody.com/products/princess-black-leather-high-heel-sandals): Graceful yet commanding, the Black Leather Princess Sandals feature a 160mm stiletto heel and a 35mm platform, pairing delicate straps with Luxe My Body’s daring Superarch heel. Engineered with an extreme pitch, this sandal transforms elegance into power, designed for warm nights, grand entrances, and unforgettable exits. Every step resonates with allure as the rounded metal heel tip clicks sharply against the floor, echoing confidence and control. Finished with shimmering gold accents at every turn — from the ankle buckle to the insole and heel tip — the Princess makes luxury feel effortless yet unapologetically powerful.
-  Updated: 2026-04-22T02:19:36Z
+- [Black Leather Stiletto High Heels Strappy Sandals 160mm by Luxe My Body](https://www.luxemybody.com/products/princess-black-leather-high-heel-sandals): Graceful yet commanding, the Princess Black Leather High Heel Sandals feature a 160mm (6 inch) stiletto heel and a 35mm platform. Pairing delicate straps with the daring Superarch heel, this sandal transforms elegance into power—designed for warm nights, grand entrances, and unforgettable exits. Engineered with an extreme pitch, every step resonates with allure as the rounded metal heel tip clicks sharply against the floor, echoing confidence and control. Finished with shimmering gold accents at every turn—from the ankle buckle to the signature gold-toned insole—the Princess makes luxury feel effortless yet unapologetically powerful.
+  Updated: 2026-05-01T08:59:47Z
   Vendor: Luxe My Body
   Product Type: Footwear
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-strappy-high-heel-sandals-right.jpg?v=1758831067
+  Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/princess-black-leather-high-heel-sandal-160mm-main.jpg?v=1777498501
   - [35 EU](https://www.luxemybody.com/products/princess-black-leather-high-heel-sandals?variant=52167900037438)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-strappy-high-heel-sandals-right.jpg?v=1758831067
     Price: $995.00 USD
   - [35.5 EU](https://www.luxemybody.com/products/princess-black-leather-high-heel-sandals?variant=52167900070206)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-strappy-high-heel-sandals-right.jpg?v=1758831067
     Price: $995.00 USD
   - [36 EU](https://www.luxemybody.com/products/princess-black-leather-high-heel-sandals?variant=52167900102974)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-strappy-high-heel-sandals-right.jpg?v=1758831067
     Price: $995.00 USD
   - [36.5 EU](https://www.luxemybody.com/products/princess-black-leather-high-heel-sandals?variant=52167900135742)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-strappy-high-heel-sandals-right.jpg?v=1758831067
     Price: $995.00 USD
   - [37 EU](https://www.luxemybody.com/products/princess-black-leather-high-heel-sandals?variant=52167900168510)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-strappy-high-heel-sandals-right.jpg?v=1758831067
     Price: $995.00 USD
   - [37.5 EU](https://www.luxemybody.com/products/princess-black-leather-high-heel-sandals?variant=52167900201278)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-strappy-high-heel-sandals-right.jpg?v=1758831067
     Price: $995.00 USD
   - [38 EU](https://www.luxemybody.com/products/princess-black-leather-high-heel-sandals?variant=52167900234046)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-strappy-high-heel-sandals-right.jpg?v=1758831067
     Price: $995.00 USD
   - [38.5 EU](https://www.luxemybody.com/products/princess-black-leather-high-heel-sandals?variant=52167900266814)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-strappy-high-heel-sandals-right.jpg?v=1758831067
     Price: $995.00 USD
   - [39 EU](https://www.luxemybody.com/products/princess-black-leather-high-heel-sandals?variant=52167900299582)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-strappy-high-heel-sandals-right.jpg?v=1758831067
     Price: $995.00 USD
   - [40 EU](https://www.luxemybody.com/products/princess-black-leather-high-heel-sandals?variant=52167900332350)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-strappy-high-heel-sandals-right.jpg?v=1758831067
     Price: $995.00 USD
   - [41 EU](https://www.luxemybody.com/products/princess-black-leather-high-heel-sandals?variant=52167900365118)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-strappy-high-heel-sandals-right.jpg?v=1758831067
     Price: $995.00 USD
   - [42 EU](https://www.luxemybody.com/products/princess-black-leather-high-heel-sandals?variant=52167900397886)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-strappy-high-heel-sandals-right.jpg?v=1758831067
     Price: $995.00 USD
   - [43 EU](https://www.luxemybody.com/products/princess-black-leather-high-heel-sandals?variant=52167900430654)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-strappy-high-heel-sandals-right.jpg?v=1758831067
     Price: $995.00 USD
   - [44 EU](https://www.luxemybody.com/products/princess-black-leather-high-heel-sandals?variant=52167900463422)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-strappy-high-heel-sandals-right.jpg?v=1758831067
     Price: $995.00 USD
-- [Black Patent Stiletto High Heels Strappy Sandals 160mm by Luxe My Body](https://www.luxemybody.com/products/princess-black-patent-high-heel-sandals): Graceful yet commanding, the Black Patent Princess Sandals feature a 160mm stiletto heel and a 35mm platform, pairing delicate straps with Luxe My Body’s daring Superarch heel. Engineered with an extreme pitch, this sandal transforms elegance into power, designed for warm nights, grand entrances, and unforgettable exits. Every step resonates with allure as the rounded metal heel tip clicks sharply against the floor, echoing confidence and control. Finished with shimmering gold accents at every turn — from the ankle buckle to the insole and heel tip — the Princess makes luxury feel effortless yet unapologetically powerful.
-  Updated: 2026-04-22T02:19:39Z
+- [Black Patent Stiletto High Heels Strappy Sandals 160mm by Luxe My Body](https://www.luxemybody.com/products/princess-black-patent-high-heel-sandals): Graceful yet commanding, the Princess Black Patent High Heel Sandals feature a 160mm (6 inch) stiletto heel and a 35mm platform. Pairing delicate straps with the daring Superarch heel, this sandal transforms elegance into power—designed for warm nights, grand entrances, and unforgettable exits. Engineered with an extreme pitch, every step resonates with allure as the rounded metal heel tip clicks sharply against the floor, echoing confidence and control. Finished with shimmering gold accents at every turn—from the ankle buckle to the signature gold-toned insole—the Princess makes luxury feel effortless yet unapologetically powerful.
+  Updated: 2026-05-01T08:59:47Z
   Vendor: Luxe My Body
   Product Type: Footwear
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-leather-stiletto-sandals.jpg?v=1759508566
+  Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/princess-black-patent-high-heel-sandal-160mm-main.jpg?v=1777498483
   - [35 EU](https://www.luxemybody.com/products/princess-black-patent-high-heel-sandals?variant=52167906394430)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-leather-stiletto-sandals.jpg?v=1759508566
     Price: $995.00 USD
   - [35.5 EU](https://www.luxemybody.com/products/princess-black-patent-high-heel-sandals?variant=52167906427198)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-leather-stiletto-sandals.jpg?v=1759508566
     Price: $995.00 USD
   - [36 EU](https://www.luxemybody.com/products/princess-black-patent-high-heel-sandals?variant=52167906459966)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-leather-stiletto-sandals.jpg?v=1759508566
     Price: $995.00 USD
   - [36.5 EU](https://www.luxemybody.com/products/princess-black-patent-high-heel-sandals?variant=52167906492734)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-leather-stiletto-sandals.jpg?v=1759508566
     Price: $995.00 USD
   - [37 EU](https://www.luxemybody.com/products/princess-black-patent-high-heel-sandals?variant=52167906525502)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-leather-stiletto-sandals.jpg?v=1759508566
     Price: $995.00 USD
   - [37.5 EU](https://www.luxemybody.com/products/princess-black-patent-high-heel-sandals?variant=52167906558270)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-leather-stiletto-sandals.jpg?v=1759508566
     Price: $995.00 USD
   - [38 EU](https://www.luxemybody.com/products/princess-black-patent-high-heel-sandals?variant=52167906591038)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-leather-stiletto-sandals.jpg?v=1759508566
     Price: $995.00 USD
   - [38.5 EU](https://www.luxemybody.com/products/princess-black-patent-high-heel-sandals?variant=52167906623806)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-leather-stiletto-sandals.jpg?v=1759508566
     Price: $995.00 USD
   - [39 EU](https://www.luxemybody.com/products/princess-black-patent-high-heel-sandals?variant=52167906656574)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-leather-stiletto-sandals.jpg?v=1759508566
     Price: $995.00 USD
   - [40 EU](https://www.luxemybody.com/products/princess-black-patent-high-heel-sandals?variant=52167906689342)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-leather-stiletto-sandals.jpg?v=1759508566
     Price: $995.00 USD
   - [41 EU](https://www.luxemybody.com/products/princess-black-patent-high-heel-sandals?variant=52167906722110)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-leather-stiletto-sandals.jpg?v=1759508566
     Price: $995.00 USD
   - [42 EU](https://www.luxemybody.com/products/princess-black-patent-high-heel-sandals?variant=52167906754878)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-leather-stiletto-sandals.jpg?v=1759508566
     Price: $995.00 USD
   - [43 EU](https://www.luxemybody.com/products/princess-black-patent-high-heel-sandals?variant=52167906787646)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-leather-stiletto-sandals.jpg?v=1759508566
     Price: $995.00 USD
   - [44 EU](https://www.luxemybody.com/products/princess-black-patent-high-heel-sandals?variant=52167906820414)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-leather-stiletto-sandals.jpg?v=1759508566
     Price: $995.00 USD
-- [Black Leather Stiletto High Heels Pumps - Superarch by Luxe My Body](https://www.luxemybody.com/products/goddess-black-patent-high-heel-pumps): Step into divine power with the Black Patent Goddess Pumps that feature a 160mm stiletto heel with a 35mm platform and crafted in supple genuine leather. Elevated by Luxe My Body’s signature Superarch heel and engineered with an extreme pitch, this masterpiece was designed to celebrate curves and confidence at the highest level. Each step resounds with allure as the rounded metal heel tip strikes the floor in a sharp, commanding rhythm that demands attention across any room. Finished with a gold leather sole, insole, and heel tip, the Goddess redefines luxury with unapologetic presence.
-  Updated: 2026-04-22T02:19:47Z
+- [Black Leather Stiletto High Heels Pumps - Superarch by Luxe My Body](https://www.luxemybody.com/products/goddess-black-patent-high-heel-pumps): Step into divine power with the Goddess Black Patent High Heel Pumps, featuring a 160mm (6 inch) stiletto heel with a 35mm platform. Crafted in supple genuine leather and elevated by the signature Superarch heel, this masterpiece is engineered with an extreme pitch designed to celebrate curves and confidence at the highest level. Each step resounds with allure as the rounded metal heel tip strikes the floor in a sharp, commanding rhythm that demands attention. Finished with signature gold-toned soles and insoles, the Goddess redefines luxury with an unapologetic presence.
+  Updated: 2026-05-01T08:59:46Z
   Vendor: Luxe My Body
   Product Type: Footwear
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-pumps-right.jpg?v=1758831038
+  Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/goddess-black-patent-high-heel-pump-160mm-main.jpg?v=1777498208
   - [35 EU](https://www.luxemybody.com/products/goddess-black-patent-high-heel-pumps?variant=52168117485886)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-pumps-right.jpg?v=1758831038
     Price: $995.00 USD
   - [35.5 EU](https://www.luxemybody.com/products/goddess-black-patent-high-heel-pumps?variant=52168117518654)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-pumps-right.jpg?v=1758831038
     Price: $995.00 USD
   - [36 EU](https://www.luxemybody.com/products/goddess-black-patent-high-heel-pumps?variant=52168117551422)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-pumps-right.jpg?v=1758831038
     Price: $995.00 USD
   - [36.5 EU](https://www.luxemybody.com/products/goddess-black-patent-high-heel-pumps?variant=52168117584190)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-pumps-right.jpg?v=1758831038
     Price: $995.00 USD
   - [37 EU](https://www.luxemybody.com/products/goddess-black-patent-high-heel-pumps?variant=52168117616958)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-pumps-right.jpg?v=1758831038
     Price: $995.00 USD
   - [37.5 EU](https://www.luxemybody.com/products/goddess-black-patent-high-heel-pumps?variant=52168117649726)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-pumps-right.jpg?v=1758831038
     Price: $995.00 USD
   - [38 EU](https://www.luxemybody.com/products/goddess-black-patent-high-heel-pumps?variant=52168117682494)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-pumps-right.jpg?v=1758831038
     Price: $995.00 USD
   - [38.5 EU](https://www.luxemybody.com/products/goddess-black-patent-high-heel-pumps?variant=52168117715262)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-pumps-right.jpg?v=1758831038
     Price: $995.00 USD
   - [39 EU](https://www.luxemybody.com/products/goddess-black-patent-high-heel-pumps?variant=52168117748030)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-pumps-right.jpg?v=1758831038
     Price: $995.00 USD
   - [40 EU](https://www.luxemybody.com/products/goddess-black-patent-high-heel-pumps?variant=52168117780798)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-pumps-right.jpg?v=1758831038
     Price: $995.00 USD
   - [41 EU](https://www.luxemybody.com/products/goddess-black-patent-high-heel-pumps?variant=52168117813566)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-pumps-right.jpg?v=1758831038
     Price: $995.00 USD
   - [42 EU](https://www.luxemybody.com/products/goddess-black-patent-high-heel-pumps?variant=52168117846334)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-pumps-right.jpg?v=1758831038
     Price: $995.00 USD
   - [43 EU](https://www.luxemybody.com/products/goddess-black-patent-high-heel-pumps?variant=52168117879102)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-pumps-right.jpg?v=1758831038
     Price: $995.00 USD
   - [44 EU](https://www.luxemybody.com/products/goddess-black-patent-high-heel-pumps?variant=52168117911870)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-pumps-right.jpg?v=1758831038
     Price: $995.00 USD
-- [White Patent High Heels Oxfords - Superarch by Luxe My Body](https://www.luxemybody.com/products/empress-white-patent-high-heel-oxfords): Authority takes form in the White Patent Empress Oxfords that feature a 160mm stiletto heel with a commanding 35mm platform. This lace-up stunner transforms the timeless Oxford silhouette into a modern power shoe, elevated by Luxe My Body’s daring Superarch heel and engineered with an extreme pitch that pushes the arch into seductive submission. Each step resonates with dominance thanks to the rounded metal heel tip, striking boldly against the floor with a sound that echoes strength and authority. Finished with gold-lined soles, insoles, and metal tips, the Empress is a flawless fusion of sophistication and provocation—ensuring your presence is never overlooked.
-  Updated: 2026-04-22T02:19:54Z
+- [White Patent High Heels Oxfords - Superarch by Luxe My Body](https://www.luxemybody.com/products/empress-white-patent-high-heel-oxfords): Authority takes form in the Empress White Patent High Heel Oxfords, featuring a 160mm (6 inch) stiletto heel with a commanding 35mm platform. This lace-up stunner transforms the timeless Oxford silhouette into a modern power shoe, elevated by the daring Superarch heel. Engineered with an extreme pitch that pushes the arch into seductive submission, each step resonates with dominance. The rounded metal heel tip strikes boldly against the floor, creating a sound that echoes strength and authority. Finished with signature gold-toned soles and insoles, the Empress is a flawless fusion of sophistication and provocation—ensuring your presence is never overlooked.
+  Updated: 2026-05-01T08:59:45Z
   Vendor: Luxe My Body
   Product Type: Footwear
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-high-heel-oxfords-right.jpg?v=1758831011
+  Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/empress-white-patent-high-heel-oxford-160mm-main.jpg?v=1777497996
   - [35 EU](https://www.luxemybody.com/products/empress-white-patent-high-heel-oxfords?variant=52168142422334)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-high-heel-oxfords-right.jpg?v=1758831011
     Price: $1,195.00 USD
   - [35.5 EU](https://www.luxemybody.com/products/empress-white-patent-high-heel-oxfords?variant=52168142455102)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-high-heel-oxfords-right.jpg?v=1758831011
     Price: $1,195.00 USD
   - [36 EU](https://www.luxemybody.com/products/empress-white-patent-high-heel-oxfords?variant=52168142487870)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-high-heel-oxfords-right.jpg?v=1758831011
     Price: $1,195.00 USD
   - [36.5 EU](https://www.luxemybody.com/products/empress-white-patent-high-heel-oxfords?variant=52168142520638)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-high-heel-oxfords-right.jpg?v=1758831011
     Price: $1,195.00 USD
   - [37 EU](https://www.luxemybody.com/products/empress-white-patent-high-heel-oxfords?variant=52168142553406)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-high-heel-oxfords-right.jpg?v=1758831011
     Price: $1,195.00 USD
   - [37.5 EU](https://www.luxemybody.com/products/empress-white-patent-high-heel-oxfords?variant=52168142586174)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-high-heel-oxfords-right.jpg?v=1758831011
     Price: $1,195.00 USD
   - [38 EU](https://www.luxemybody.com/products/empress-white-patent-high-heel-oxfords?variant=52168142618942)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-high-heel-oxfords-right.jpg?v=1758831011
     Price: $1,195.00 USD
   - [38.5 EU](https://www.luxemybody.com/products/empress-white-patent-high-heel-oxfords?variant=52168142651710)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-high-heel-oxfords-right.jpg?v=1758831011
     Price: $1,195.00 USD
   - [39 EU](https://www.luxemybody.com/products/empress-white-patent-high-heel-oxfords?variant=52168142684478)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-high-heel-oxfords-right.jpg?v=1758831011
     Price: $1,195.00 USD
   - [40 EU](https://www.luxemybody.com/products/empress-white-patent-high-heel-oxfords?variant=52168142717246)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-high-heel-oxfords-right.jpg?v=1758831011
     Price: $1,195.00 USD
   - [41 EU](https://www.luxemybody.com/products/empress-white-patent-high-heel-oxfords?variant=52168142750014)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-high-heel-oxfords-right.jpg?v=1758831011
     Price: $1,195.00 USD
   - [42 EU](https://www.luxemybody.com/products/empress-white-patent-high-heel-oxfords?variant=52168142782782)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-high-heel-oxfords-right.jpg?v=1758831011
     Price: $1,195.00 USD
   - [43 EU](https://www.luxemybody.com/products/empress-white-patent-high-heel-oxfords?variant=52168142815550)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-high-heel-oxfords-right.jpg?v=1758831011
     Price: $1,195.00 USD
   - [44 EU](https://www.luxemybody.com/products/empress-white-patent-high-heel-oxfords?variant=52168142848318)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-high-heel-oxfords-right.jpg?v=1758831011
     Price: $1,195.00 USD
-- [Empress - Black Patent Platform 160mm Stiletto High Heel Oxfords](https://www.luxemybody.com/products/empress-black-patent-high-heel-oxfords): Authority takes form in the Black Patent Empress Oxfords that feature a 160mm stiletto heel with a commanding 35mm platform. This lace-up stunner transforms the timeless Oxford silhouette into a modern power shoe, elevated by Luxe My Body’s daring Superarch heel and engineered with an extreme pitch that pushes the arch into seductive submission. Each step resonates with dominance thanks to the rounded metal heel tip, striking boldly against the floor with a sound that echoes strength and authority. Finished with gold-lined soles, insoles, and metal tips, the Empress is a flawless fusion of sophistication and provocation—ensuring your presence is never overlooked.
-  Updated: 2026-04-22T02:20:02Z
+- [Empress - Black Patent Platform 160mm Stiletto High Heel Oxfords](https://www.luxemybody.com/products/empress-black-patent-high-heel-oxfords): Authority takes form in the Empress Black Patent High Heel Oxfords, featuring a 160mm (6 inch) stiletto heel with a commanding 35mm platform. This lace-up stunner transforms the timeless Oxford silhouette into a modern power shoe, elevated by the daring Superarch heel. Engineered with an extreme pitch that pushes the arch into seductive submission, each step resonates with dominance. The rounded metal heel tip strikes boldly against the floor, creating a sound that echoes strength and authority. Finished with signature gold-toned soles and insoles, the Empress is a flawless fusion of sophistication and provocation—ensuring your presence is never overlooked.
+  Updated: 2026-05-01T09:00:36Z
   Vendor: Luxe My Body
   Product Type: Footwear
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-oxfords-side.jpg?v=1758830549
+  Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/empress-black-patent-high-heel-oxford-160mm-main.jpg?v=1777497934
   - [35 EU](https://www.luxemybody.com/products/empress-black-patent-high-heel-oxfords?variant=52168156774718)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-oxfords-side.jpg?v=1758830549
     Price: $1,195.00 USD
   - [35.5 EU](https://www.luxemybody.com/products/empress-black-patent-high-heel-oxfords?variant=52168156807486)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-oxfords-side.jpg?v=1758830549
     Price: $1,195.00 USD
   - [36 EU](https://www.luxemybody.com/products/empress-black-patent-high-heel-oxfords?variant=52168156840254)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-oxfords-side.jpg?v=1758830549
     Price: $1,195.00 USD
   - [36.5 EU](https://www.luxemybody.com/products/empress-black-patent-high-heel-oxfords?variant=52168156873022)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-oxfords-side.jpg?v=1758830549
     Price: $1,195.00 USD
   - [37 EU](https://www.luxemybody.com/products/empress-black-patent-high-heel-oxfords?variant=52168156905790)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-oxfords-side.jpg?v=1758830549
     Price: $1,195.00 USD
   - [37.5 EU](https://www.luxemybody.com/products/empress-black-patent-high-heel-oxfords?variant=52168156938558)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-oxfords-side.jpg?v=1758830549
     Price: $1,195.00 USD
   - [38 EU](https://www.luxemybody.com/products/empress-black-patent-high-heel-oxfords?variant=52168156971326)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-oxfords-side.jpg?v=1758830549
     Price: $1,195.00 USD
   - [38.5 EU](https://www.luxemybody.com/products/empress-black-patent-high-heel-oxfords?variant=52168157004094)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-oxfords-side.jpg?v=1758830549
     Price: $1,195.00 USD
   - [39 EU](https://www.luxemybody.com/products/empress-black-patent-high-heel-oxfords?variant=52168157036862)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-oxfords-side.jpg?v=1758830549
     Price: $1,195.00 USD
   - [40 EU](https://www.luxemybody.com/products/empress-black-patent-high-heel-oxfords?variant=52168157069630)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-oxfords-side.jpg?v=1758830549
     Price: $1,195.00 USD
   - [41 EU](https://www.luxemybody.com/products/empress-black-patent-high-heel-oxfords?variant=52168157102398)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-oxfords-side.jpg?v=1758830549
     Price: $1,195.00 USD
   - [42 EU](https://www.luxemybody.com/products/empress-black-patent-high-heel-oxfords?variant=52168157135166)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-oxfords-side.jpg?v=1758830549
     Price: $1,195.00 USD
   - [43 EU](https://www.luxemybody.com/products/empress-black-patent-high-heel-oxfords?variant=52168157167934)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-oxfords-side.jpg?v=1758830549
     Price: $1,195.00 USD
   - [44 EU](https://www.luxemybody.com/products/empress-black-patent-high-heel-oxfords?variant=52168157200702)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-high-heel-oxfords-side.jpg?v=1758830549
     Price: $1,195.00 USD
-- [Beige Patent High Heels Oxfords - Superarch by Luxe My Body](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords): Authority takes form in the Beige Patent Empress Oxfords that feature a 160mm stiletto heel with a commanding 35mm platform. This lace-up stunner transforms the timeless Oxford silhouette into a modern power shoe, elevated by Luxe My Body’s daring Superarch heel and engineered with an extreme pitch that pushes the arch into seductive submission. Each step resonates with dominance thanks to the rounded metal heel tip, striking boldly against the floor with a sound that echoes strength and authority. Finished with gold-lined soles, insoles, and metal tips, the Empress is a flawless fusion of sophistication and provocation—ensuring your presence is never overlooked.
-  Updated: 2026-04-22T02:20:10Z
+- [Empress Beige Patent High Heel Oxfords 160mm Superarch - Luxe My Body](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords-160mm): Authority takes form in the Empress Black Leather High Heel Oxfords, featuring a 160mm (6 inch) stiletto heel with a commanding 35mm platform. This lace-up stunner transforms the timeless Oxford silhouette into a modern power shoe, elevated by the daring Superarch heel. Engineered with an extreme pitch that pushes the arch into seductive submission, each step resonates with dominance. The rounded metal heel tip strikes boldly against the floor, creating a sound that echoes strength and authority. Finished with signature gold-toned soles and insoles, the Empress is a flawless fusion of sophistication and provocation—ensuring your presence is never overlooked.
+  Updated: 2026-05-01T09:00:42Z
   Vendor: Luxe My Body
   Product Type: Footwear
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/beige-patent-high-heel-oxfords-right.jpg?v=1758830938
-  - [35 EU](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords?variant=52168213135678)
+  Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/empress-beige-patent-high-heel-oxford-160mm-main.jpg?v=1777497913
+  - [35 EU](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords-160mm?variant=52168213135678)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/beige-patent-high-heel-oxfords-right.jpg?v=1758830938
     Price: $1,195.00 USD
-  - [35.5 EU](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords?variant=52168213168446)
+  - [35.5 EU](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords-160mm?variant=52168213168446)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/beige-patent-high-heel-oxfords-right.jpg?v=1758830938
     Price: $1,195.00 USD
-  - [36 EU](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords?variant=52168213201214)
+  - [36 EU](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords-160mm?variant=52168213201214)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/beige-patent-high-heel-oxfords-right.jpg?v=1758830938
     Price: $1,195.00 USD
-  - [36.5 EU](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords?variant=52168213233982)
+  - [36.5 EU](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords-160mm?variant=52168213233982)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/beige-patent-high-heel-oxfords-right.jpg?v=1758830938
     Price: $1,195.00 USD
-  - [37 EU](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords?variant=52168213266750)
+  - [37 EU](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords-160mm?variant=52168213266750)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/beige-patent-high-heel-oxfords-right.jpg?v=1758830938
     Price: $1,195.00 USD
-  - [37.5 EU](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords?variant=52168213299518)
+  - [37.5 EU](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords-160mm?variant=52168213299518)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/beige-patent-high-heel-oxfords-right.jpg?v=1758830938
     Price: $1,195.00 USD
-  - [38 EU](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords?variant=52168213332286)
+  - [38 EU](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords-160mm?variant=52168213332286)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/beige-patent-high-heel-oxfords-right.jpg?v=1758830938
     Price: $1,195.00 USD
-  - [38.5 EU](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords?variant=52168213365054)
+  - [38.5 EU](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords-160mm?variant=52168213365054)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/beige-patent-high-heel-oxfords-right.jpg?v=1758830938
     Price: $1,195.00 USD
-  - [39 EU](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords?variant=52168213397822)
+  - [39 EU](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords-160mm?variant=52168213397822)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/beige-patent-high-heel-oxfords-right.jpg?v=1758830938
     Price: $1,195.00 USD
-  - [40 EU](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords?variant=52168213430590)
+  - [40 EU](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords-160mm?variant=52168213430590)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/beige-patent-high-heel-oxfords-right.jpg?v=1758830938
     Price: $1,195.00 USD
-  - [41 EU](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords?variant=52168213463358)
+  - [41 EU](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords-160mm?variant=52168213463358)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/beige-patent-high-heel-oxfords-right.jpg?v=1758830938
     Price: $1,195.00 USD
-  - [42 EU](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords?variant=52168213496126)
+  - [42 EU](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords-160mm?variant=52168213496126)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/beige-patent-high-heel-oxfords-right.jpg?v=1758830938
     Price: $1,195.00 USD
-  - [43 EU](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords?variant=52168213528894)
+  - [43 EU](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords-160mm?variant=52168213528894)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/beige-patent-high-heel-oxfords-right.jpg?v=1758830938
     Price: $1,195.00 USD
-  - [44 EU](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords?variant=52168213561662)
+  - [44 EU](https://www.luxemybody.com/products/empress-beige-patent-high-heel-oxfords-160mm?variant=52168213561662)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/beige-patent-high-heel-oxfords-right.jpg?v=1758830938
     Price: $1,195.00 USD
-- [Black Leather High Heels Oxfords - Superarch by Luxe My Body](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords): Authority takes form in the Black Leather Empress Oxfords that feature a 160mm stiletto heel with a commanding 35mm platform. This lace-up stunner transforms the timeless Oxford silhouette into a modern power shoe, elevated by Luxe My Body’s daring Superarch heel and engineered with an extreme pitch that pushes the arch into seductive submission. Each step resonates with dominance thanks to the rounded metal heel tip, striking boldly against the floor with a sound that echoes strength and authority. Finished with gold-lined soles, insoles, and metal tips, the Empress is a flawless fusion of sophistication and provocation—ensuring your presence is never overlooked.
-  Updated: 2026-04-22T02:20:17Z
+- [Empress Black Leather High Heel Oxfords 160mm Superarch - Luxe My Body](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords-160mm): Authority takes form in the Empress Black Leather High Heel Oxfords, featuring a 160mm (6 inch) stiletto heel with a commanding 35mm platform. This lace-up stunner transforms the timeless Oxford silhouette into a modern power shoe, elevated by the daring Superarch heel. Engineered with an extreme pitch that pushes the arch into seductive submission, each step resonates with dominance. The rounded metal heel tip strikes boldly against the floor, creating a sound that echoes strength and authority. Finished with signature gold-toned soles and insoles, the Empress is a flawless fusion of sophistication and provocation—ensuring your presence is never overlooked.
+  Updated: 2026-05-01T08:58:06Z
   Vendor: Luxe My Body
   Product Type: Footwear
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-oxfords-right.jpg?v=1758856371
-  - [35 EU](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords?variant=52168226079038)
+  Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/empress-black-leather-high-heel-oxford-160mm-main.jpg?v=1777497895
+  - [35 EU](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords-160mm?variant=52168226079038)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-oxfords-right.jpg?v=1758856371
     Price: $1,195.00 USD
-  - [35.5 EU](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords?variant=52168226111806)
+  - [35.5 EU](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords-160mm?variant=52168226111806)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-oxfords-right.jpg?v=1758856371
     Price: $1,195.00 USD
-  - [36 EU](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords?variant=52168226144574)
+  - [36 EU](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords-160mm?variant=52168226144574)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-oxfords-right.jpg?v=1758856371
     Price: $1,195.00 USD
-  - [36.5 EU](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords?variant=52168226177342)
+  - [36.5 EU](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords-160mm?variant=52168226177342)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-oxfords-right.jpg?v=1758856371
     Price: $1,195.00 USD
-  - [37 EU](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords?variant=52168226210110)
+  - [37 EU](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords-160mm?variant=52168226210110)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-oxfords-right.jpg?v=1758856371
     Price: $1,195.00 USD
-  - [37.5 EU](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords?variant=52168226242878)
+  - [37.5 EU](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords-160mm?variant=52168226242878)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-oxfords-right.jpg?v=1758856371
     Price: $1,195.00 USD
-  - [38 EU](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords?variant=52168226275646)
+  - [38 EU](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords-160mm?variant=52168226275646)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-oxfords-right.jpg?v=1758856371
     Price: $1,195.00 USD
-  - [38.5 EU](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords?variant=52168226308414)
+  - [38.5 EU](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords-160mm?variant=52168226308414)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-oxfords-right.jpg?v=1758856371
     Price: $1,195.00 USD
-  - [39 EU](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords?variant=52168226341182)
+  - [39 EU](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords-160mm?variant=52168226341182)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-oxfords-right.jpg?v=1758856371
     Price: $1,195.00 USD
-  - [40 EU](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords?variant=52168226373950)
+  - [40 EU](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords-160mm?variant=52168226373950)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-oxfords-right.jpg?v=1758856371
     Price: $1,195.00 USD
-  - [41 EU](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords?variant=52168226406718)
+  - [41 EU](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords-160mm?variant=52168226406718)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-oxfords-right.jpg?v=1758856371
     Price: $1,195.00 USD
-  - [42 EU](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords?variant=52168226439486)
+  - [42 EU](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords-160mm?variant=52168226439486)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-oxfords-right.jpg?v=1758856371
     Price: $1,195.00 USD
-  - [43 EU](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords?variant=52168226472254)
+  - [43 EU](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords-160mm?variant=52168226472254)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-oxfords-right.jpg?v=1758856371
     Price: $1,195.00 USD
-  - [44 EU](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords?variant=52168226505022)
+  - [44 EU](https://www.luxemybody.com/products/empress-black-leather-high-heel-oxfords-160mm?variant=52168226505022)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-oxfords-right.jpg?v=1758856371
     Price: $1,195.00 USD
-- [Black Leather High Heel Knee High Boots - Luxury Boots by Luxe My Body](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots): Unapologetically bold, the Black Leather Mistress Boots features a 160mm stiletto heel on a 35mm platform, lacing up to perfection with no zipper in sight — a true test of devotion and desire. Crafted in smooth leather and climbing knee-high, they’re built around Luxe My Body’s daring Superarch heel, engineered with an extreme pitch that sculpts a silhouette both dangerous and divine. Every step resounds with power as the rounded metal heel tip strikes the floor in a sharp, commanding rhythm, ensuring your entrance is never forgotten. Gold soles, insoles, and heel tips seal its dominance in luxury, while the interior is fully lined in soft gold leather for an indulgent finish.
-  Updated: 2026-04-22T02:20:24Z
+- [Mistress Black Leather High Heel Knee High Boots 160mm - Luxe My Body](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots-160mm): Unapologetically bold, the Mistress Black Leather High Heel Knee Boots feature a 160mm (6 inch) stiletto heel on a 35mm platform. Lacing up to perfection with no zipper in sight, they are a true test of devotion and desire. Crafted in high-shine leather and climbing knee-high, these boots are built around the daring Superarch heel, engineered with an extreme pitch that sculpts a silhouette both dangerous and divine. Every step resounds with power as the rounded metal heel tip strikes the floor in a sharp, commanding rhythm. Signature gold soles and heel tips seal its dominance in luxury, while the interior is fully lined in soft gold leather for an indulgent finish.
+  Updated: 2026-05-01T08:58:01Z
   Vendor: Luxe My Body
   Product Type: Footwear
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-boots-right.jpg?v=1758842439
-  - [35 EU](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots?variant=52168245641534)
+  Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/mistress-black-leather-high-heel-knee-boot-160mm-main.jpg?v=1777497526
+  - [35 EU](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots-160mm?variant=52168245641534)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-boots-right.jpg?v=1758842439
     Price: $1,495.00 USD
-  - [35.5 EU](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots?variant=52168245674302)
+  - [35.5 EU](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots-160mm?variant=52168245674302)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-boots-right.jpg?v=1758842439
     Price: $1,495.00 USD
-  - [36 EU](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots?variant=52168245707070)
+  - [36 EU](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots-160mm?variant=52168245707070)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-boots-right.jpg?v=1758842439
     Price: $1,495.00 USD
-  - [36.5 EU](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots?variant=52168245739838)
+  - [36.5 EU](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots-160mm?variant=52168245739838)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-boots-right.jpg?v=1758842439
     Price: $1,495.00 USD
-  - [37 EU](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots?variant=52168245772606)
+  - [37 EU](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots-160mm?variant=52168245772606)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-boots-right.jpg?v=1758842439
     Price: $1,495.00 USD
-  - [37.5 EU](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots?variant=52168245805374)
+  - [37.5 EU](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots-160mm?variant=52168245805374)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-boots-right.jpg?v=1758842439
     Price: $1,495.00 USD
-  - [38 EU](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots?variant=52168245838142)
+  - [38 EU](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots-160mm?variant=52168245838142)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-boots-right.jpg?v=1758842439
     Price: $1,495.00 USD
-  - [38.5 EU](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots?variant=52168245870910)
+  - [38.5 EU](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots-160mm?variant=52168245870910)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-boots-right.jpg?v=1758842439
     Price: $1,495.00 USD
-  - [39 EU](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots?variant=52168245903678)
+  - [39 EU](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots-160mm?variant=52168245903678)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-boots-right.jpg?v=1758842439
     Price: $1,495.00 USD
-  - [40 EU](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots?variant=52168245936446)
+  - [40 EU](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots-160mm?variant=52168245936446)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-boots-right.jpg?v=1758842439
     Price: $1,495.00 USD
-  - [41 EU](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots?variant=52168245969214)
+  - [41 EU](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots-160mm?variant=52168245969214)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-boots-right.jpg?v=1758842439
     Price: $1,495.00 USD
-  - [42 EU](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots?variant=52168246001982)
+  - [42 EU](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots-160mm?variant=52168246001982)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-boots-right.jpg?v=1758842439
     Price: $1,495.00 USD
-  - [43 EU](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots?variant=52168246034750)
+  - [43 EU](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots-160mm?variant=52168246034750)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-boots-right.jpg?v=1758842439
     Price: $1,495.00 USD
-  - [44 EU](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots?variant=52168246067518)
+  - [44 EU](https://www.luxemybody.com/products/mistress-black-leather-high-heel-boots-160mm?variant=52168246067518)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-leather-platform-high-heel-boots-right.jpg?v=1758842439
     Price: $1,495.00 USD
-- [White Patent High Heel Knee High Boots - Luxury Boots by Luxe My Body](https://www.luxemybody.com/products/mistress-white-patent-high-heel-boots): Unapologetically bold, the White Patent Mistress Boots features a 160mm stiletto heel on a 35mm platform, lacing up to perfection with no zipper in sight — a true test of devotion and desire. Crafted in smooth leather and climbing knee-high, they’re built around Luxe My Body’s daring Superarch heel, engineered with an extreme pitch that sculpts a silhouette both dangerous and divine. Every step resounds with power as the rounded metal heel tip strikes the floor in a sharp, commanding rhythm, ensuring your entrance is never forgotten. Gold soles, insoles, and heel tips seal its dominance in luxury, while the interior is fully lined in soft gold leather for an indulgent finish.
-  Updated: 2026-04-22T02:20:32Z
+- [Mistress White Patent High Heel Knee Boots 160mm - Luxe My Body](https://www.luxemybody.com/products/mistress-white-patent-high-heel-knee-boots-160mm): Unapologetically bold, the Mistress White Patent High Heel Knee Boots feature a 160mm (6 inch) stiletto heel on a 35mm platform. Lacing up to perfection with no zipper in sight, they are a true test of devotion and desire. Crafted in high-shine leather and climbing knee-high, these boots are built around the daring Superarch heel, engineered with an extreme pitch that sculpts a silhouette both dangerous and divine. Every step resounds with power as the rounded metal heel tip strikes the floor in a sharp, commanding rhythm. Signature gold soles and heel tips seal its dominance in luxury, while the interior is fully lined in soft gold leather for an indulgent finish.
+  Updated: 2026-05-01T08:54:47Z
   Vendor: Luxe My Body
   Product Type: Footwear
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-platform-high-heel-boots-right.jpg?v=1758840531
-  - [35 EU](https://www.luxemybody.com/products/mistress-white-patent-high-heel-boots?variant=52168281882942)
+  Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/mistress-white-patent-high-heel-knee-boot-160mm-main.jpg?v=1777497509
+  - [35 EU](https://www.luxemybody.com/products/mistress-white-patent-high-heel-knee-boots-160mm?variant=52168281882942)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-platform-high-heel-boots-right.jpg?v=1758840531
     Price: $1,495.00 USD
-  - [35.5 EU](https://www.luxemybody.com/products/mistress-white-patent-high-heel-boots?variant=52168281915710)
+  - [35.5 EU](https://www.luxemybody.com/products/mistress-white-patent-high-heel-knee-boots-160mm?variant=52168281915710)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-platform-high-heel-boots-right.jpg?v=1758840531
     Price: $1,495.00 USD
-  - [36 EU](https://www.luxemybody.com/products/mistress-white-patent-high-heel-boots?variant=52168281948478)
+  - [36 EU](https://www.luxemybody.com/products/mistress-white-patent-high-heel-knee-boots-160mm?variant=52168281948478)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-platform-high-heel-boots-right.jpg?v=1758840531
     Price: $1,495.00 USD
-  - [36.5 EU](https://www.luxemybody.com/products/mistress-white-patent-high-heel-boots?variant=52168281981246)
+  - [36.5 EU](https://www.luxemybody.com/products/mistress-white-patent-high-heel-knee-boots-160mm?variant=52168281981246)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-platform-high-heel-boots-right.jpg?v=1758840531
     Price: $1,495.00 USD
-  - [37 EU](https://www.luxemybody.com/products/mistress-white-patent-high-heel-boots?variant=52168282014014)
+  - [37 EU](https://www.luxemybody.com/products/mistress-white-patent-high-heel-knee-boots-160mm?variant=52168282014014)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-platform-high-heel-boots-right.jpg?v=1758840531
     Price: $1,495.00 USD
-  - [37.5 EU](https://www.luxemybody.com/products/mistress-white-patent-high-heel-boots?variant=52168282046782)
+  - [37.5 EU](https://www.luxemybody.com/products/mistress-white-patent-high-heel-knee-boots-160mm?variant=52168282046782)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-platform-high-heel-boots-right.jpg?v=1758840531
     Price: $1,495.00 USD
-  - [38 EU](https://www.luxemybody.com/products/mistress-white-patent-high-heel-boots?variant=52168282079550)
+  - [38 EU](https://www.luxemybody.com/products/mistress-white-patent-high-heel-knee-boots-160mm?variant=52168282079550)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-platform-high-heel-boots-right.jpg?v=1758840531
     Price: $1,495.00 USD
-  - [38.5 EU](https://www.luxemybody.com/products/mistress-white-patent-high-heel-boots?variant=52168282112318)
+  - [38.5 EU](https://www.luxemybody.com/products/mistress-white-patent-high-heel-knee-boots-160mm?variant=52168282112318)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-platform-high-heel-boots-right.jpg?v=1758840531
     Price: $1,495.00 USD
-  - [39 EU](https://www.luxemybody.com/products/mistress-white-patent-high-heel-boots?variant=52168282145086)
+  - [39 EU](https://www.luxemybody.com/products/mistress-white-patent-high-heel-knee-boots-160mm?variant=52168282145086)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-platform-high-heel-boots-right.jpg?v=1758840531
     Price: $1,495.00 USD
-  - [40 EU](https://www.luxemybody.com/products/mistress-white-patent-high-heel-boots?variant=52168282177854)
+  - [40 EU](https://www.luxemybody.com/products/mistress-white-patent-high-heel-knee-boots-160mm?variant=52168282177854)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-platform-high-heel-boots-right.jpg?v=1758840531
     Price: $1,495.00 USD
-  - [41 EU](https://www.luxemybody.com/products/mistress-white-patent-high-heel-boots?variant=52168282210622)
+  - [41 EU](https://www.luxemybody.com/products/mistress-white-patent-high-heel-knee-boots-160mm?variant=52168282210622)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-platform-high-heel-boots-right.jpg?v=1758840531
     Price: $1,495.00 USD
-  - [42 EU](https://www.luxemybody.com/products/mistress-white-patent-high-heel-boots?variant=52168282243390)
+  - [42 EU](https://www.luxemybody.com/products/mistress-white-patent-high-heel-knee-boots-160mm?variant=52168282243390)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-platform-high-heel-boots-right.jpg?v=1758840531
     Price: $1,495.00 USD
-  - [43 EU](https://www.luxemybody.com/products/mistress-white-patent-high-heel-boots?variant=52168282276158)
+  - [43 EU](https://www.luxemybody.com/products/mistress-white-patent-high-heel-knee-boots-160mm?variant=52168282276158)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-platform-high-heel-boots-right.jpg?v=1758840531
     Price: $1,495.00 USD
-  - [44 EU](https://www.luxemybody.com/products/mistress-white-patent-high-heel-boots?variant=52168282308926)
+  - [44 EU](https://www.luxemybody.com/products/mistress-white-patent-high-heel-knee-boots-160mm?variant=52168282308926)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/white-patent-platform-high-heel-boots-right.jpg?v=1758840531
     Price: $1,495.00 USD
-- [Black Patent High Heel Knee High Boots - Luxury Boots by Luxe My Body](https://www.luxemybody.com/products/mistress-black-patent-high-heel-boots): Unapologetically bold, the Black Patent Mistress Boots features a 160mm stiletto heel on a 35mm platform, lacing up to perfection with no zipper in sight — a true test of devotion and desire. Crafted in smooth leather and climbing knee-high, they’re built around Luxe My Body’s daring Superarch heel, engineered with an extreme pitch that sculpts a silhouette both dangerous and divine. Every step resounds with power as the rounded metal heel tip strikes the floor in a sharp, commanding rhythm, ensuring your entrance is never forgotten. Gold soles, insoles, and heel tips seal its dominance in luxury, while the interior is fully lined in soft gold leather for an indulgent finish..
-  Updated: 2026-04-22T02:20:39Z
+- [Mistress Black Patent High Heel Knee Boots 160mm - Luxe My Body](https://www.luxemybody.com/products/mistress-black-patent-high-heel-knee-boots-160mm): Unapologetically bold, the Mistress Black Patent High Heel Knee Boots feature a 160mm (6 inch) stiletto heel on a 35mm platform. Lacing up to perfection with no zipper in sight, they are a true test of devotion and desire. Crafted in high-shine leather and climbing knee-high, these boots are built around the daring Superarch heel, engineered with an extreme pitch that sculpts a silhouette both dangerous and divine. Every step resounds with power as the rounded metal heel tip strikes the floor in a sharp, commanding rhythm. Signature gold soles and heel tips seal its dominance in luxury, while the interior is fully lined in soft gold leather for an indulgent finish.
+  Updated: 2026-05-01T08:54:27Z
   Vendor: Luxe My Body
   Product Type: Footwear
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-platform-high-heel-boots-right.jpg?v=1772490589
-  - [35 EU](https://www.luxemybody.com/products/mistress-black-patent-high-heel-boots?variant=52168285913406)
+  Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/mistress-black-patent-high-heel-knee-boot-160mm-main.jpg?v=1777497488
+  - [35 EU](https://www.luxemybody.com/products/mistress-black-patent-high-heel-knee-boots-160mm?variant=52168285913406)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-platform-high-heel-boots-right.jpg?v=1772490589
     Price: $1,495.00 USD
-  - [35.5 EU](https://www.luxemybody.com/products/mistress-black-patent-high-heel-boots?variant=52168285946174)
+  - [35.5 EU](https://www.luxemybody.com/products/mistress-black-patent-high-heel-knee-boots-160mm?variant=52168285946174)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-platform-high-heel-boots-right.jpg?v=1772490589
     Price: $1,495.00 USD
-  - [36 EU](https://www.luxemybody.com/products/mistress-black-patent-high-heel-boots?variant=52168285978942)
+  - [36 EU](https://www.luxemybody.com/products/mistress-black-patent-high-heel-knee-boots-160mm?variant=52168285978942)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-platform-high-heel-boots-right.jpg?v=1772490589
     Price: $1,495.00 USD
-  - [36.5 EU](https://www.luxemybody.com/products/mistress-black-patent-high-heel-boots?variant=52168286011710)
+  - [36.5 EU](https://www.luxemybody.com/products/mistress-black-patent-high-heel-knee-boots-160mm?variant=52168286011710)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-platform-high-heel-boots-right.jpg?v=1772490589
     Price: $1,495.00 USD
-  - [37 EU](https://www.luxemybody.com/products/mistress-black-patent-high-heel-boots?variant=52168286044478)
+  - [37 EU](https://www.luxemybody.com/products/mistress-black-patent-high-heel-knee-boots-160mm?variant=52168286044478)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-platform-high-heel-boots-right.jpg?v=1772490589
     Price: $1,495.00 USD
-  - [37.5 EU](https://www.luxemybody.com/products/mistress-black-patent-high-heel-boots?variant=52168286077246)
+  - [37.5 EU](https://www.luxemybody.com/products/mistress-black-patent-high-heel-knee-boots-160mm?variant=52168286077246)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-platform-high-heel-boots-right.jpg?v=1772490589
     Price: $1,495.00 USD
-  - [38 EU](https://www.luxemybody.com/products/mistress-black-patent-high-heel-boots?variant=52168286110014)
+  - [38 EU](https://www.luxemybody.com/products/mistress-black-patent-high-heel-knee-boots-160mm?variant=52168286110014)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-platform-high-heel-boots-right.jpg?v=1772490589
     Price: $1,495.00 USD
-  - [38.5 EU](https://www.luxemybody.com/products/mistress-black-patent-high-heel-boots?variant=52168286142782)
+  - [38.5 EU](https://www.luxemybody.com/products/mistress-black-patent-high-heel-knee-boots-160mm?variant=52168286142782)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-platform-high-heel-boots-right.jpg?v=1772490589
     Price: $1,495.00 USD
-  - [39 EU](https://www.luxemybody.com/products/mistress-black-patent-high-heel-boots?variant=52168286175550)
+  - [39 EU](https://www.luxemybody.com/products/mistress-black-patent-high-heel-knee-boots-160mm?variant=52168286175550)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-platform-high-heel-boots-right.jpg?v=1772490589
     Price: $1,495.00 USD
-  - [40 EU](https://www.luxemybody.com/products/mistress-black-patent-high-heel-boots?variant=52168286208318)
+  - [40 EU](https://www.luxemybody.com/products/mistress-black-patent-high-heel-knee-boots-160mm?variant=52168286208318)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-platform-high-heel-boots-right.jpg?v=1772490589
     Price: $1,495.00 USD
-  - [41 EU](https://www.luxemybody.com/products/mistress-black-patent-high-heel-boots?variant=52168286241086)
+  - [41 EU](https://www.luxemybody.com/products/mistress-black-patent-high-heel-knee-boots-160mm?variant=52168286241086)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-platform-high-heel-boots-right.jpg?v=1772490589
     Price: $1,495.00 USD
-  - [42 EU](https://www.luxemybody.com/products/mistress-black-patent-high-heel-boots?variant=52168286273854)
+  - [42 EU](https://www.luxemybody.com/products/mistress-black-patent-high-heel-knee-boots-160mm?variant=52168286273854)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-platform-high-heel-boots-right.jpg?v=1772490589
     Price: $1,495.00 USD
-  - [43 EU](https://www.luxemybody.com/products/mistress-black-patent-high-heel-boots?variant=52168286306622)
+  - [43 EU](https://www.luxemybody.com/products/mistress-black-patent-high-heel-knee-boots-160mm?variant=52168286306622)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-platform-high-heel-boots-right.jpg?v=1772490589
     Price: $1,495.00 USD
-  - [44 EU](https://www.luxemybody.com/products/mistress-black-patent-high-heel-boots?variant=52168286339390)
+  - [44 EU](https://www.luxemybody.com/products/mistress-black-patent-high-heel-knee-boots-160mm?variant=52168286339390)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0298/0478/9808/files/black-patent-platform-high-heel-boots-right.jpg?v=1772490589
     Price: $1,495.00 USD
 
 ## Collections
 
-- [High Heel Collection | Luxury Superarch Stiletto Pumps & Sandals](https://www.luxemybody.com/collections/stiletto-high-heels): Discover luxury superarch stiletto high heels — platform pumps, sandals, boots, and oxfords in patent and leather. Featuring a bold 160mm high heel.
-  Updated: 2026-04-01T09:19:10Z
+- [Extreme 6 Inch High Heels | 160mm Superarch Stilettos](https://www.luxemybody.com/collections/extreme-high-heels): Shop extreme 6 inch high heels and 160mm Superarch stilettos. Luxury black patent knee boots and high-arch pumps with an ultra super arch extreme pitch.
+  Updated: 2026-04-30T21:00:30Z
   Total Products: 16
 - [Luxe My Body – High Heel & Hosiery Accessories](https://www.luxemybody.com/collections/high-heel-hosiery-accessories): Shop luxury garter belts — crafted to pair with stockings and hosiery for an irresistible, elegant fit. Mens garter belt lingerie essentials.
   Updated: 2026-04-04T11:05:39Z
   Total Products: 3
 - [Luxury High Heels & Hosiery | Superarch Stilettos & Pantyhose](https://www.luxemybody.com/collections/products-hosiery-high-heels): Shop luxury high heels and hosiery — superarch stiletto pumps, sandals, boots, and oxfords paired with sheer pantyhose and glossy stockings.
-  Updated: 2026-04-23T11:05:52Z
+  Updated: 2026-04-30T21:00:30Z
   Total Products: 28
 - [Luxe My Body – High Heel & Hosiery Accessories](https://www.luxemybody.com/collections/sheer-hosiery-pantyhose-stockings): Shop luxury hosiery, pantyhose, and stockings — sheer, opaque, and glossy styles with ultra-smooth comfort. The world’s smoothest, shiniest hosiery.
-  Updated: 2026-04-23T11:05:52Z
+  Updated: 2026-04-29T11:05:42Z
   Total Products: 9
 - [Luxe My Body – Luxury Pantyhose & Stockings Collection](https://www.luxemybody.com/collections/hosiery-stockings): hop Luxe My Body hosiery — ultra-sheer pantyhose and glossy stockings crafted for elegance, confidence, and a flawless, silky shine.
   Updated: 2026-04-01T09:19:10Z
   Total Products: 0
 - [Luxe My Body – Luxury Crotchless Pantyhose Collection](https://www.luxemybody.com/collections/hosiery-crotchless-pantyhose): Shop Luxe My Body crotchless pantyhose — ultra-sheer, glossy, and designed for sensual comfort, flawless fit, and timeless allure.
-  Updated: 2026-04-17T11:05:32Z
+  Updated: 2026-04-29T11:05:42Z
   Total Products: 3
 - [Luxe My Body – Luxury Pantyhose Collection](https://www.luxemybody.com/collections/hosiery-pantyhose): Shop Luxe My Body pantyhose — luxury hosiery with a silky-sheer finish, glossy shine, and flawless fit that empowers every curve.
-  Updated: 2026-04-23T11:05:52Z
+  Updated: 2026-04-27T11:05:42Z
   Total Products: 3
 
 ## Blogs
@@ -959,7 +791,7 @@ This site represents the official source for Luxe My Body products, collections,
     Author: Carrie LaChance
     Tags: packaging
   - [How To Care For Hosiery](https://www.luxemybody.com/blogs/luxe-my-body/how-to-care-for-hosiery)
-    Updated: 2025-10-05T22:28:42Z
+    Updated: 2026-04-30T21:17:01Z
     Author: Carrie LaChance
     Tags: cleaning, storage
   - [Luxe My Body Is Live](https://www.luxemybody.com/blogs/luxe-my-body/luxe-my-body-is-live): Luxe My Body Is Live
@@ -1052,7 +884,7 @@ This site represents the official source for Luxe My Body products, collections,
     Author: Luxe My Body
     Tags: elevate your look with pantyhose, fashion, high quality pantyhose, high-heel pairings, hosiery, luxe my body, luxury, luxury pantyhose, nylon pantyhose, pantyhose, premium hosiery, run resistant pantyhose, sexy pantyhose, sheer hosiery, shiny pantyhose, silk stockings, silky pantyhose, stylish outfits with pantyhose, ultra shiny pantyhose
   - [Walk with Confidence in Superarch High Heels](https://www.luxemybody.com/blogs/luxe-my-body/walk-with-confidence-in-superarch-high-heels): Walk with Confidence in Superarch High Heels
-    Updated: 2026-04-22T00:07:59Z
+    Updated: 2026-05-01T00:23:56Z
     Author: Luxe My Body
     Tags: comfortable high heels, confidence, confidence in heels, elevate your style, extreme heels, fashion, heels, high heels, high heels in public, high quality heels, luxe my body heels, luxury high heels, stiletto heels, styling high heels, stylish footwear, superarch high heels, superarch shoes, walking in high heels
   - [Entranced by Elegance Discovering the Allure of Sheer Hosiery](https://www.luxemybody.com/blogs/luxe-my-body/entranced-by-elegance-discovering-the-allure-of-sheer-hosiery): Entranced by Elegance Discovering the Allure of Sheer Hosiery
@@ -1063,19 +895,47 @@ This site represents the official source for Luxe My Body products, collections,
     Updated: 2026-04-24T00:08:22Z
     Author: Luxe My Body
     Tags: best heels for women, comfortable high heels, confidence in heels, elegance, extreme heels, heels, heels for elegance, high, high heels, high heels in public, high quality heels, luxe my body heels, luxury heels, luxury high heels, stiletto heels, styling high heels, stylish footwear, superarch high heels, walking in high heels
+  - [Editor’s Picks: The Best Shiny Pantyhose for a Luxurious Experience](https://www.luxemybody.com/blogs/luxe-my-body/editor-s-picks-the-best-shiny-pantyhose-for-a-luxurious-experience): Editor’s Picks: The Best Shiny Pantyhose for a Luxurious Experience
+    Updated: 2026-04-25T08:02:00Z
+    Author: Luxe My Body
+    Tags: best pantyhose brands, fashion, high quality pantyhose, high-end hosiery, hosiery, luxe my body, luxurious experience, luxury, luxury pantyhose, nylon pantyhose, pantyhose, premium hosiery, run resistant pantyhose, sheer hosiery, shiny pantyhose, silky pantyhose, top-rated shiny legwear, ultra shiny pantyhose
+  - [Gain an Elegant Posture with Superarch Extreme Heels](https://www.luxemybody.com/blogs/luxe-my-body/gain-an-elegant-posture-with-superarch-extreme-heels): Gain an Elegant Posture with Superarch Extreme Heels
+    Updated: 2026-05-01T00:23:21Z
+    Author: Luxe My Body
+    Tags: comfort shoes, confidence in heels, elegance, extreme heels, fashion footwear, heels, high heels, high heels in public, high quality heels, luxe my body heels, luxury high heels, posture, stiletto heels, styling high heels, stylish extreme heels, superarch heel benefits, superarch high heels, walking in high heels
+  - [Top Ways to Style Superarch Heels for Any Occasion](https://www.luxemybody.com/blogs/luxe-my-body/top-ways-to-style-superarch-heels-for-any-occasion): Top Ways to Style Superarch Heels for Any Occasion
+    Updated: 2026-04-27T00:12:54Z
+    Author: Luxe My Body
+    Tags: chic footwear ideas, comfortable heels, confidence in heels, extreme heels, fashion trends, heels, high, high heels, high heels in public, high quality heels, how to wear high heels, luxe my body heels, luxury high heels, occasion outfits, stiletto heels, style, styling high heels, superarch high heels, walking in high heels
+  - [Why Luxury Pantyhose Feel Like a Second Skin A Sensory Journey](https://www.luxemybody.com/blogs/luxe-my-body/why-luxury-pantyhose-feel-like-a-second-skin-a-sensory-journey): Why Luxury Pantyhose Feel Like a Second Skin A Sensory Journey
+    Updated: 2026-04-28T08:02:32Z
+    Author: Luxe My Body
+    Tags: best luxury pantyhose brands, comfort, fashion accessories, high quality pantyhose, high-end, hosiery, luxe my body, luxury, luxury pantyhose, nylon pantyhose, pantyhose, premium hosiery, run resistant pantyhose, sensory experience in hosiery, sheer hosiery, shiny pantyhose, silky pantyhose, silky tights, ultra shiny pantyhose
+  - [Master the Art of Walking in Superarch High Heels](https://www.luxemybody.com/blogs/luxe-my-body/master-the-art-of-walking-in-superarch-high-heels): Master the Art of Walking in Superarch High Heels
+    Updated: 2026-04-29T00:12:40Z
+    Author: Luxe My Body
+    Tags: best high heel styles, confidence in heels, extreme heels, fashion, heel tips, heels, high heels, high heels in public, high quality heels, luxe my body heels, luxury high heels, stiletto heels, styling high heels, superarch, superarch high heel guide, superarch high heels, walking in high heels, walking techniques
+  - [Indulge Your Senses Why Silky Pantyhose Are a Must-Have for Every Fashionista](https://www.luxemybody.com/blogs/luxe-my-body/indulge-your-senses-why-silky-pantyhose-are-a-must-have-for-every-fashionista): Indulge Your Senses Why Silky Pantyhose Are a Must-Have for Every Fashionista
+    Updated: 2026-04-30T08:02:17Z
+    Author: Luxe My Body
+    Tags: comfort and style, fashionable pantyhose, high quality pantyhose, high-end legwear, hosiery, luxe my body, luxury, luxury pantyhose, must-have fashion accessory, nylon pantyhose, pantyhose, premium hosiery, premium hosiery options, run resistant pantyhose, sheer hosiery, shiny pantyhose, silky, silky pantyhose, ultra shiny pantyhose
+  - [Elevate Your Look with Luxe Superarch Extreme Heels](https://www.luxemybody.com/blogs/luxe-my-body/elevate-your-look-with-luxe-superarch-extreme-heels): Elevate Your Look with Luxe Superarch Extreme Heels
+    Updated: 2026-05-01T00:07:27Z
+    Author: Luxe My Body
+    Tags: arch support, confidence in heels, elegance, elevate your look heels, extreme heels, fashion, heels, high heels, high heels in public, high quality heels, luxe my body heels, luxury high heels, luxury shoes, stiletto heels, styling high heels, stylish women’s footwear, superarch high heels, walking in high heels
 
 ## Store Pages
 
-- [About](https://www.luxemybody.com/pages/about-us): Hi, I’m Carrie LaChance, Founder and CEO of Luxe My Body. As a model, influencer, creator, entrepreneur, and lifelong devotee of fashion, I grew fr...
-  Updated: 2025-09-16T21:07:09Z
+- [About Us](https://www.luxemybody.com/pages/about-us): Hi, I’m Carrie LaChance, Founder and CEO of Luxe My Body. As a model, influencer, creator, entrepreneur, and lifelong devotee of fashion, I grew fr...
+  Updated: 2026-04-30T06:44:27Z
 - [Contact Us](https://www.luxemybody.com/pages/contact): Check out some of our frequently asked questions here.
   Updated: 2026-01-05T06:41:20Z
-- [Ambassadors - Wanna Be A #luxegirl](https://www.luxemybody.com/pages/ambassadors): Wanna Be a Luxe My Body Ambassador? Are you passionate about fashion, glamour, and luxury style? Luxe My Body is looking for confident, stylish wom...
-  Updated: 2025-09-16T20:27:55Z
-- [Wholesale](https://www.luxemybody.com/pages/wholesale): Luxe My Body wholesale offers partners access to our premium hosiery and 160mm Superarch heels—luxury products designed to captivate and drive ...
-  Updated: 2025-09-13T03:52:58Z
+- [Luxe My Body Ambassadors - Wanna Be A #luxegirl](https://www.luxemybody.com/pages/ambassadors): Want To Become A Luxe My Body Ambassador? Are you passionate about fashion, glamour, and luxury style? Luxe My Body is looking for confident, styli...
+  Updated: 2026-04-30T06:45:47Z
+- [Wholesale](https://www.luxemybody.com/pages/wholesale): Luxe My Body's wholesale department offers partners access to our premium hosiery and 160mm Superarch high heels—luxury products designed to captiv...
+  Updated: 2026-04-30T05:26:16Z
 - [Investor Relations](https://www.luxemybody.com/pages/investor-relations): Luxe My Body is committed to strong investor relations, delivering growth through innovative design, premium products, and a bold vision for the fu...
-  Updated: 2025-09-13T03:49:25Z
+  Updated: 2026-04-30T05:20:25Z
 - [Women's Hosiery Size Chart](https://www.luxemybody.com/pages/womens-hosiery-size-chart): .size-chart-container { display: flex; justify-content: center; width: 100%; margin: 0; /* no margin */ } .size-chart { display: flex; flex-directi...
   Updated: 2025-10-04T01:06:53Z
 - [Questions](https://www.luxemybody.com/pages/questions): Do you have a shoe size chart? Yes, click here to see our shoe size chart. Do you ship internationally? Yes we ship worldwide. Do you offer wholesa...
@@ -1088,7 +948,7 @@ This site represents the official source for Luxe My Body products, collections,
   Updated: 2026-01-28T16:41:33Z
 - [Heel Height Faqs
  – Luxe My Body](https://www.luxemybody.com/pages/heel-height-faqs): The pitch of a 6-inch heel isn’t fixed. It’s the inclination angle or arch created inside the shoe. This angle varies by design, even when heel hei...
-  Updated: 2026-02-25T21:03:43Z
+  Updated: 2026-04-30T06:27:18Z
 - [Heel Height Faqs
  – Luxe My Body](https://www.luxemybody.com/pages/superarch-info): The Superarch Difference - Forget everything you think you know about high heels. The Luxe My Body Superarch is not just another shoe—it’s a revolu...
   Updated: 2026-02-25T21:15:46Z
