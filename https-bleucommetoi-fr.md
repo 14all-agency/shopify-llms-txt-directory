@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2022-08-19T03:58:11Z
 - Contact Email: gfaure5@gmail.com
-- Updated At: 2026-04-25T00:00:38.242Z
+- Updated At: 2026-05-02T00:00:41.246Z
 
 ## Products
 
 - [Face Care](https://bleucommetoi.fr/products/candle)
-  Updated: 2026-04-22T20:29:05Z
+  Updated: 2026-05-01T21:26:37Z
   Vendor: Video Commerce
   Product Type: 
   Availability: Available
@@ -25,14 +25,14 @@
   Image: https://cdn.shopify.com/s/files/1/0659/2482/5332/files/4_94b46ff3-680f-476b-8c1f-1fb43e20ed9c.png?v=1717086056
   Price: $5.00 USD
 - [Daily Care](https://bleucommetoi.fr/products/perfume-1)
-  Updated: 2026-04-24T18:38:28Z
+  Updated: 2026-05-01T21:26:37Z
   Vendor: Video Commerce
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2482/5332/files/3.png?v=1717082707
   Price: $10.00 USD
 - [Yoga Blouse](https://bleucommetoi.fr/products/produit-c): Designed for casual.
-  Updated: 2026-04-22T20:29:06Z
+  Updated: 2026-04-29T16:22:52Z
   Vendor: Video Commerce
   Product Type: 
   Availability: Available
@@ -47,7 +47,7 @@
     Availability: Available
     Price: $49.00 USD
 - [Yoga Hoodie](https://bleucommetoi.fr/products/yoga-hoodie): Designed for casual.
-  Updated: 2026-04-22T20:29:06Z
+  Updated: 2026-04-30T22:14:42Z
   Vendor: Video Commerce
   Product Type: 
   Availability: Available
@@ -80,7 +80,7 @@
     Availability: Available
     Price: $2.00 USD
 - [Yoga Short Top](https://bleucommetoi.fr/products/produit-b): Designed for casual.
-  Updated: 2026-04-24T19:39:52Z
+  Updated: 2026-04-29T15:23:32Z
   Vendor: Video Commerce
   Product Type: 
   Availability: Available
@@ -94,15 +94,37 @@
   - [L](https://bleucommetoi.fr/products/produit-b?variant=52851133940049)
     Availability: Available
     Price: $49.00 USD
+- [Face Care (Copy)](https://bleucommetoi.fr/products/face-care-copy)
+  Updated: 2026-04-30T22:14:42Z
+  Vendor: Video Commerce
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0659/2482/5332/files/4.png?v=1717082734
+  Price: $10.00 USD
+- [Yoga Short Top (Copy)](https://bleucommetoi.fr/products/yoga-short-top-copy): Designed for casual.
+  Updated: 2026-04-30T22:14:43Z
+  Vendor: Video Commerce
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0659/2482/5332/files/pexels-olia-danilevich-9004263.jpg?v=1728199326
+  - [S](https://bleucommetoi.fr/products/yoga-short-top-copy?variant=53667737338193)
+    Availability: Available
+    Price: $49.00 USD
+  - [M](https://bleucommetoi.fr/products/yoga-short-top-copy?variant=53667737370961)
+    Availability: Available
+    Price: $49.00 USD
+  - [L](https://bleucommetoi.fr/products/yoga-short-top-copy?variant=53667737403729)
+    Availability: Available
+    Price: $49.00 USD
 
 ## Collections
 
 - [Yoga](https://bleucommetoi.fr/collections/yoga)
-  Updated: 2026-04-22T20:29:05Z
-  Total Products: 3
+  Updated: 2026-04-30T22:00:43Z
+  Total Products: 4
 - [Beauty](https://bleucommetoi.fr/collections/beauty)
-  Updated: 2026-04-22T20:29:06Z
-  Total Products: 3
+  Updated: 2026-04-30T21:59:17Z
+  Total Products: 4
 
 ## Store Pages
 
