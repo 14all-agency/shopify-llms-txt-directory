@@ -10,7 +10,7 @@
 - Contact Email: support@nubest.com
 - Contact Phone: +1 307-213-9119
 - Address: 1910 Thomes Ave, Cheyenne, WY 82001, USA
-- Updated At: 2026-04-25T12:00:26.897Z
+- Updated At: 2026-05-02T12:00:26.433Z
 
 ## Products
 
@@ -204,8 +204,8 @@
     Updated: 2025-11-04T03:31:17Z
   - [What Age Does A Girl Stop Growing In Height?](https://doctortaller.com/blogs/science-insight/what-age-does-a-girl-stop-growing-in-height): What Age Does A Girl Stop Growing In Height?
     Updated: 2025-12-15T06:51:51Z
-  - [Average Height for Men in the USA (2026 Update)](https://doctortaller.com/blogs/science-insight/the-average-height-for-men-usa): The average height for  men in the United States is 5 feet 9 inches (175.3 cm), according to the most recent data from the Centers for Disease Control and Prevention (CDC) and the National Center for Health Statistics (NCHS). This measurement reflects the 50th percentile—meaning half of U.S. men are taller, and half are shorter—based on comprehensive sampling from the CDC’s National Health and Nutrition Examination Survey (NHANES). This average serves as a key benchmark in demographic studies,  assessments, and national health guidelines, particularly in the context of body mass index (BMI) and growth chart evaluations.
-    Updated: 2026-04-20T08:35:00Z
+  - [Average Height for Men in the US (2026 Update)](https://doctortaller.com/blogs/science-insight/the-average-height-for-men-usa): The average height for  men in the United States is 5 feet 9 inches (175.3 cm), according to the most recent data from the Centers for Disease Control and Prevention (CDC) and the National Center for Health Statistics (NCHS). This measurement reflects the 50th percentile—meaning half of U.S. men are taller, and half are shorter—based on comprehensive sampling from the CDC’s National Health and Nutrition Examination Survey (NHANES). This average serves as a key benchmark in demographic studies,  assessments, and national health guidelines, particularly in the context of body mass index (BMI) and growth chart evaluations.
+    Updated: 2026-04-28T06:03:21Z
   - [Comparing China's Average Height with Global Standards](https://doctortaller.com/blogs/science-insight/comparing-chinas-average-height-with-global-standards): Comparing China's Average Height with Global Standards
     Updated: 2025-10-30T07:50:09Z
   - [Do Energy Drinks Stunt Your Growth?](https://doctortaller.com/blogs/science-insight/do-energy-drinks-stunt-your-growth): Do Energy Drinks Stunt Your Growth?
@@ -223,7 +223,7 @@
   - [9 Secret Tips to Grow Taller](https://doctortaller.com/blogs/science-insight/9-secret-tips-to-grow-taller): 9 Secret Tips to Grow Taller
     Updated: 2025-11-18T07:01:15Z
   - [Average Height for Men in the U.S. and Worldwide](https://doctortaller.com/blogs/science-insight/average-height-for-men-in-the-us-and-worldwide): Average Height for Men in the U.S. and Worldwide
-    Updated: 2025-10-30T07:48:50Z
+    Updated: 2026-04-29T09:54:39Z
   - [Does Stress Stunt Your Growth?](https://doctortaller.com/blogs/science-insight/does-stress-stunt-your-growth): Does Stress Stunt Your Growth?
     Updated: 2025-10-30T07:48:36Z
   - [How To Grow Taller After Puberty?](https://doctortaller.com/blogs/science-insight/how-to-grow-taller-after-puberty): How To Grow Taller After Puberty?
@@ -331,8 +331,8 @@
     Updated: 2026-02-14T03:46:20Z
   - [Complete Guide to Kids’ Height and Weight Charts](https://doctortaller.com/blogs/growth-tips/complete-guide-to-kids-height-and-weight-charts): <p>Do you often wonder whether your child is growing normally? Every child follows a unique developmental path, and this process is affected by a number of factors. However, there is no need to worry excessively, as you can proactively and closely monitor your child's height and weight over time to detect potential health issues early on and intervene promptly. In this article, we will explore how to effectively utilize a height weight chart for kids, as well as how you can support your child's growth potential.</p>
     Updated: 2026-04-08T07:03:45Z
-  - [Average Height for Women in the USA (Updated 2026)](https://doctortaller.com/blogs/growth-tips/average-height-for-women-in-the-usa): <p>As parents, we are wired to give our child every possible advantage, from the best school to the top-tier enrichment programs to make sure they never miss a practice.  But there’s one critical advantage many of us are accidentally overlooking right at the dinner table everyday.</p>
-    Updated: 2026-04-23T07:26:25Z
+  - [Average Height for Women in the US (2026 Update)](https://doctortaller.com/blogs/growth-tips/average-height-for-women-in-the-usa): <p>As parents, we are wired to give our child every possible advantage, from the best school to the top-tier enrichment programs to make sure they never miss a practice.  But there’s one critical advantage many of us are accidentally overlooking right at the dinner table everyday.</p>
+    Updated: 2026-04-28T02:17:37Z
 - [Author](https://doctortaller.com/blogs/author): Meet the Doctor Taller blog authors: expert health & wellness writers sharing science-backed insights on nutrition, growth, and parenting for kids & teens.
   - [Doctor Taller Editors](https://doctortaller.com/blogs/author/doctortaller)
     Updated: 2026-01-02T06:57:45Z
