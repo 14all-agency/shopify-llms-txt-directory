@@ -6,34 +6,34 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-06-23T16:57:53Z
 - Contact Email: info@pelios.de
-- Updated At: 2026-03-19T14:15:46.126Z
+- Updated At: 2026-05-02T09:16:29.833Z
 
 ## Products
 
-- [Holzofen kaufen mit 7,7 kW ☝ Kamin bis zu 85m² Heizraum](https://www.pelios.de/products/holzofen-77-kw): Holzofen kaufen mit 7,7 kW ★ Klein, stark, effizient. Kompakter Holzofen mit modernem Design in vier Farben (beige, rot, silber, schwarz)
-  Updated: 2026-03-13T09:33:26Z
+- [schmaler Holzofen kaufen mit 7,7 kW ☝ Kamin bis zu 85m² Heizraum](https://www.pelios.de/products/holzofen-77-kw): Holzofen kaufen mit 7,7 kW ★ Klein, stark, effizient. Schmaler Holzofen für kleine Räume mit modernem Design in vier Farben (beige, rot, silber, schwarz)
+  Updated: 2026-05-02T08:22:17Z
   Vendor: Gekas
   Product Type: Holzofen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_100_left_red.jpg?v=1750698347
   - [beige](https://www.pelios.de/products/holzofen-77-kw?variant=51247521890643)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_100_left_beige.webp?v=1773264998
-    Price: 799,00 € EUR
+    Price: 899,00 € EUR
   - [rot](https://www.pelios.de/products/holzofen-77-kw?variant=51247521923411)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_100_left_red.webp?v=1773264998
-    Price: 799,00 € EUR
+    Price: 899,00 € EUR
   - [schwarz](https://www.pelios.de/products/holzofen-77-kw?variant=51247521956179)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_100_left_black.webp?v=1773264998
-    Price: 799,00 € EUR
+    Price: 899,00 € EUR
   - [silber](https://www.pelios.de/products/holzofen-77-kw?variant=51278446788947)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_100_left_silver.webp?v=1773264998
-    Price: 799,00 € EUR
-- [Holzofen 22 kW Shop, Kamin bis zu 200m² Wohnfläche](https://www.pelios.de/products/holzofen-22-kw): Holzofen 22 kW Shop, bis zu 200m² Wohnfläche. Ein Blickfang in vier eleganten Farbtönen: in dezentem beige, kräftigem rot, kühlem silber oder edlem schwarz
-  Updated: 2026-03-15T13:39:53Z
+    Price: 899,00 € EUR
+- [Holzofen mit Pizzafach Backfach kaufen 22 kW Shop, Kaminofen für Holz](https://www.pelios.de/products/holzofen-22-kw): Holzofen mit Pizzafach Backfach mit 22 kW Heizleistung, Shop, bis zu 200m² Wohnfläche. Ein Blickfang in vier eleganten Farbtönen: beige, rot, silber, schwarz
+  Updated: 2026-05-02T08:21:48Z
   Vendor: Gekas
   Product Type: Holzofen
   Availability: Available
@@ -41,26 +41,26 @@
   - [Schwarz](https://www.pelios.de/products/holzofen-22-kw?variant=51247524217171)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_500_front_black.webp?v=1751053385
-    Price: 1.594,60 € EUR
+    Price: 1.795,00 € EUR
   - [Beige](https://www.pelios.de/products/holzofen-22-kw?variant=51278228914515)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_500_front_beige_flame.webp?v=1751053385
     Price: 1.894,60 € EUR
   - [Rot](https://www.pelios.de/products/holzofen-22-kw?variant=51278228947283)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_500_front_red.webp?v=1751053385
     Price: 1.794,60 € EUR
   - [Silber](https://www.pelios.de/products/holzofen-22-kw?variant=51278300184915)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_500_front_silver.webp?v=1751053385
     Price: 1.894,60 € EUR
-- [Holzofen kaufen mit 14.8 kW☝ hier günstig im Shop](https://www.pelios.de/products/holzofen-148-kw): Holzofen kaufen mit 14.8 kW ➥ für Räume bis 360 m³ bzw. 150 m² Wohnfläche, mit Backfach / Pizzafach, Holzverbrauch von 4,8Kg/h und einem Wirkungsgrad von 77%
-  Updated: 2026-03-11T22:29:51Z
+- [Holzofen mit Backfach Pizzafach kaufen mit 14.8 kW☝ hier im Shop](https://www.pelios.de/products/holzofen-148-kw): Holzofen kaufen mit 14.8 kW ➥ für Räume bis 360 m³ bzw. 150 m² Wohnfläche, mit Backfach / Pizzafach, Holzverbrauch von 4,8Kg/h und einem Wirkungsgrad von 77%
+  Updated: 2026-05-02T08:19:57Z
   Vendor: Gekas
   Product Type: Holzofen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_mg_450_front_flame.webp?v=1753873598
-  Price: 1.285,00 € EUR
+  Price: 1.485,00 € EUR
 - [Ethanol Wandkamin schwarz kaufen☝hier günstig im Shop](https://www.pelios.de/products/nevada-bio-wandkamin): Ethanol Wandkamin schwarz ★ Bio-Ethanol-Wandkamin mit Glas Frontscheibe ✓ Brenndauer von bis zu 6 Stunden ✓ Wärmeleistung 2,2 kW ✓ von ScandiFlames
   Updated: 2026-03-18T12:35:06Z
   Vendor: ScandiFlames
@@ -83,19 +83,32 @@
     Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/bio20320_black_60613.webp?v=1768572854
     Price: 1.139,00 € EUR
 - [Bio Ethanolkamin freistehend schwarz kaufen☝hier im Shop](https://www.pelios.de/products/topeka-freistehender-schwarzer-biokamin): Bio Ethanolkamin freistehend schwarz ➥ Dieser freistehende Biokamin ist perfekt zum Trennen von zwei Räumen ✓ Indoor-Standkamin von ScandiFlames
-  Updated: 2026-03-18T12:35:06Z
+  Updated: 2026-04-03T05:24:33Z
   Vendor: ScandiFlames
   Product Type: 3-seitiger Ethanol Einbaukamin, Freistehender Ethanol Kamin
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/bio20216bk_51600.webp?v=1753873562
-  Price: 1.319,00 € EUR
-- [Ethanolkamin freistehend weiß kaufen☝ Bioethanol-Standkamin](https://www.pelios.de/products/lansing-bioethanol-standkamin-weiss): Ethanolkamin freistehend weiß kaufen ★ 3,5-Liter-Brenner mit bis zu 7,5 Stunden Brenndauer ✓ 3,3 kW Wärmeleistung ✓ 1m breit ✓ Marke ScandiFlames
-  Updated: 2026-03-09T13:20:48Z
+  - [Schwarz](https://www.pelios.de/products/topeka-freistehender-schwarzer-biokamin?variant=53395249791315)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/bio20216bk_51600.webp?v=1753873562
+    Price: 1.319,00 € EUR
+  - [Weiß](https://www.pelios.de/products/topeka-freistehender-schwarzer-biokamin?variant=53395249824083)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/bio_20_216_68970.jpg?v=1775150537
+    Price: 1.319,00 € EUR
+- [Ethanolkamin freistehend weiß oder schwarz kaufen☝ Standkamin](https://www.pelios.de/products/lansing-bioethanol-standkamin-weiss): Ethanolkamin freistehend weiß oder schwarz kaufen ★ 3,5-Liter-Brenner mit bis zu 7,5 Stunden Brenndauer ✓ 3,3 kW Wärmeleistung ✓ 1m breit ✓ Marke ScandiFlames
+  Updated: 2026-04-30T04:23:41Z
   Vendor: ScandiFlames
   Product Type: Freistehender Ethanol Kamin
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/lansingtwosidedlwhite1_61122.webp?v=1753873521
-  Price: 1.049,00 € EUR
+  - [Weiß](https://www.pelios.de/products/lansing-bioethanol-standkamin-weiss?variant=53608374436179)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/images_bio20213_6__43924.webp?v=1753873534
+    Price: 1.049,00 € EUR
+  - [Schwarz](https://www.pelios.de/products/lansing-bioethanol-standkamin-weiss?variant=53608374468947)
+    Availability: Available
+    Price: 1.049,00 € EUR
 - [Elektrokamin mit Heizung kaufen☝127cm - Wandkamin weiß](https://www.pelios.de/products/azurite-127-cm-elektro-wandkamin-weiss): Elektrokamin mit Heizung kaufen ➥ Wandkamin 127 cm in weiß, ohne Brandgefahr ✓ 9 Flammenfarbkombinationen ✓ zwei Heizstufen 750W oder 1500W ✓ Timerfunktion ✓
   Updated: 2026-03-18T12:35:07Z
   Vendor: ScandiFlames Electric
@@ -117,57 +130,29 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/scandiflames_electric_feroza_137_3_sided_electric_fireplace_wall_mounted__1__57306.webp?v=1753873491
   Price: 1.549,00 € EUR
-- [Pelletofen kaufen☝ Evita 3,2 - 6,1 kW für bis zu 180 m³](https://www.pelios.de/products/pelletofen-evita-3-2-6-1-kw-fur-180-m): Pelletofen kaufen ➥ Der Evita präsentiert sich in edlem Beige oder Bordeaux (rot)⚙️ Leistung & Effizienz auf Spitzenniveau mit 6,1 kW Nennleistung
-  Updated: 2026-03-13T09:31:30Z
-  Vendor: Gekas
-  Product Type: Pelletofen
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_evita_right_beige_v2.jpg?v=1753725049
-  - [Rot](https://www.pelios.de/products/pelletofen-evita-3-2-6-1-kw-fur-180-m?variant=51487749931347)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_evita_right_bordeaux_v2.jpg?v=1753725049
-    Price: 1.890,00 € EUR
-  - [Beige](https://www.pelios.de/products/pelletofen-evita-3-2-6-1-kw-fur-180-m?variant=51487749964115)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_evita_right_beige_v2.jpg?v=1753725049
-    Price: 1.890,00 € EUR
-- [Pelletofen kaufen ☝7,1 - 12,8 kW für bis zu 350 m³](https://www.pelios.de/products/pelletofen-amanda-plus-7-1-12-8-kw-350-m): Pelletofen kaufen ➥ Der Amanda Plus präsentiert sich in edlem Beige oder Bordeaux (rot)⚙️ Leistung & Effizienz auf Spitzenniveau mit 12,8 kW Nennleistung
-  Updated: 2026-03-12T19:18:56Z
-  Vendor: Gekas
-  Product Type: Pelletofen
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_amanda_plus_left_beige.jpg?v=1753725625
-  - [rot](https://www.pelios.de/products/pelletofen-amanda-plus-7-1-12-8-kw-350-m?variant=51487749079379)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_amanda_plus_right_bordeaux.jpg?v=1753725476
-    Price: 3.760,00 € EUR
-  - [beige](https://www.pelios.de/products/pelletofen-amanda-plus-7-1-12-8-kw-350-m?variant=51487749112147)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/high_amanda_plus_right_beige.jpg?v=1753725475
-    Price: 3.760,00 € EUR
-- [Heizband Pro 1000 Infrarot-Terrassenheizung m Fernbedienung](https://www.pelios.de/products/heizband-pro-1000): Heizband Pro 1000 Infrarot-Terrassenheizung mit Fernbedienung und WiFi-Steuerung. Das Gerät hat eine Länge von 75,5 cm und bis zu 1000 W Heizleistung.
-  Updated: 2026-03-19T04:48:33Z
+- [Heizband Pro 1000 W Infrarot-Heizstrahler Dunkelstrahler mit App](https://www.pelios.de/products/heizband-pro-1000): Heation Heizband Pro 1000 Infrarot-Terrassenheizung mit Fernbedienung und WiFi-Steuerung. Dunkelstrahler, Heizstrahler zur Wandmontage mit 1000 W Heizleistung.
+  Updated: 2026-04-21T14:58:55Z
   Vendor: Heation
   Product Type: Hängender elektrischer Terrassenheizer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/heation_heatbar_1000_pro_2_63314.webp?v=1753912286
   Price: 449,00 € EUR
-- [Infrarot-Terrassenheizung mit Wi-Fi-Steuerung](https://www.pelios.de/products/heizband-pro-1800): Infrarot-Terrassenheizung mit Wi-Fi-Steuerung und Fernbedienung. Das Gerät hat eine Länge von 115 cm und eine Heizleistung von bis zu 1800 W. für 13-18 m²
-  Updated: 2026-03-19T04:50:06Z
+- [Infrarot-Terrassenheizung Wi-Fi-Steuerung, Wandmontage Heizstrahler](https://www.pelios.de/products/heizband-pro-1800): Infrarot-Terrassenheizung, Heizstrahler mit Wi-Fi-Steuerung + Fernbedienung. Dunkelstrahler mit Heizleistung von bis zu 1800 W. Wandmontage für 13-18 m²
+  Updated: 2026-04-21T15:02:10Z
   Vendor: Heation
   Product Type: Hängender elektrischer Terrassenheizer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/heation_heatbar_1800_pro_2_63315.webp?v=1753912330
   Price: 619,00 € EUR
-- [Infrarot-Terrassenheizung mit Fernbedienung für 25m²](https://www.pelios.de/products/heizband-pro-2400): Infrarot-Terrassenheizung mit Fernbedienung, Heizleistung 2.400 W, Fläche bis zu 25 m², Länge ca. 165 cm, Gewicht ca. 11,5 kg, Fernbedienung, Wi‑Fi/App
-  Updated: 2026-03-19T04:51:35Z
+- [Infrarot-Terrassenheizung, Heizstrahler mit Fernbedienung für 25m²](https://www.pelios.de/products/heizband-pro-2400): Infrarot-Terrassenheizung, Heizstrahler mit Fernbedienung, Heizleistung 2.400 W, bis zu 25 m², Länge ca. 165 cm, Gewicht ca. 11,5 kg, Fernbedienung, Wi‑Fi/App
+  Updated: 2026-04-21T14:55:54Z
   Vendor: Heation
   Product Type: Hängender elektrischer Terrassenheizer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/9631/1891/files/heation_heatbar_2400_pro_2_63316.webp?v=1753912344
   Price: 749,00 € EUR
 - [Muztag Mallorca Gas-Terrassenheizer schwarz 140cm hoch, 50cm breit, bis 7,3 kW Wärmeleistung](https://www.pelios.de/products/muztag-mallorca-terrassenheizer): Muztag Mallorca Terrassenheizer in schwarz, 138 × 48,6 × 48,6 cm, Gewicht 50 kg, Wärmeleistung bis 7,3 kW, Brennstoffverbrauch ca. 0,52 L/Std.
-  Updated: 2026-03-13T15:42:05Z
+  Updated: 2026-04-25T19:28:10Z
   Vendor: Muztag
   Product Type: Outdoor Terrassenheizer
   Availability: Available
@@ -286,58 +271,58 @@
 ## Collections
 
 - [Kamin Ofen Shop ☝ Kamin aus Handarbeit günstig kaufen](https://www.pelios.de/collections/frontpage): Kamin Ofen Shop ✔ Kamin kaufen hier im Shop ★ mega effizient ✓ geringer Verbrauch ✓ echte Handarbeit ✓ Endecken Sie unser umfangreiches, günstiges Angebot.
-  Updated: 2026-01-08T10:58:57Z
+  Updated: 2026-04-18T15:58:38Z
   Total Products: 1
 - [Holzofen kaufen ☝günstig hier im Shop ★ echte Handarbeit](https://www.pelios.de/collections/holzofen): Holzofen kaufen ➥ Entdecken Sie unsere exklusiven Holzöfen von Pelios – wo traditionelle Handwerkskunst auf moderne Effizienz trifft. Kamine Shop ✔
-  Updated: 2026-02-02T12:30:41Z
+  Updated: 2026-04-18T16:11:13Z
   Total Products: 3
 - [Pelletofen kaufen ☝ günstig hier im Shop ★ echte Handarbeit](https://www.pelios.de/collections/pelletofen): Pelletofen kaufen ➥ keine billigen China-Elemente ✔ keine Massenware ✔ dicker Industriestahl ✔ geringer Verbrauch ✔ Entdecken Sie unser Angebot hier im Shop
-  Updated: 2025-11-11T15:58:21Z
+  Updated: 2026-03-19T18:15:12Z
   Total Products: 2
 - [Ethanolkamin kaufen ☝ hier günstig im Qualitäts-Shop](https://www.pelios.de/collections/ethanolkamin): Ethanolkamin kaufen ★ mega Qualität und schnelle Lieferung garantiert ✔ ausschließlich Bioethanol, das speziell für Ethanol-Kamine hergestellt wurde
-  Updated: 2026-03-13T18:33:47Z
+  Updated: 2026-04-29T16:23:31Z
   Total Products: 14
 - [Elektrokamin kaufen ☝ hier günstig im Qualitäts-Shop](https://www.pelios.de/collections/elektrokamin): Elektrokamin kaufen ★ Pelios ist Ihr Vertriebspartner für hochwertige Elektro-Kamine führender Marken - große Auswahl von traditionell bis modern.
-  Updated: 2026-01-31T20:58:53Z
+  Updated: 2026-03-19T18:15:12Z
   Total Products: 3
 - [Terrassenheizung, angenehme Wärme für den Outdoor-Bereich](https://www.pelios.de/collections/terassenheizung): Terrassenheizung, Elegant oder modern – ob Heizstrahler im klassischen Stil oder Heizbänder im minimalistischen Look: hier findet jeder sein Reichweitendesign
-  Updated: 2026-03-18T16:51:29Z
+  Updated: 2026-04-23T11:33:40Z
   Total Products: 8
 - [geeignet bis 15 qm](https://www.pelios.de/collections/geeignet-bis-15-qm)
-  Updated: 2026-03-13T18:33:47Z
+  Updated: 2026-03-19T18:15:12Z
   Total Products: 5
 - [bis 20 qm](https://www.pelios.de/collections/bis-20-qm)
-  Updated: 2026-03-18T16:50:38Z
+  Updated: 2026-03-19T18:15:12Z
   Total Products: 6
 - [bis 30 qm](https://www.pelios.de/collections/bis-25-qm)
-  Updated: 2026-03-18T16:51:29Z
+  Updated: 2026-04-29T16:23:31Z
   Total Products: 8
 - [bis 100qm](https://www.pelios.de/collections/bis-100qm)
-  Updated: 2026-01-08T10:58:57Z
+  Updated: 2026-04-18T15:58:38Z
   Total Products: 2
 - [bis 150 qm](https://www.pelios.de/collections/bis-150-qm)
-  Updated: 2026-02-02T12:30:41Z
+  Updated: 2026-04-18T16:09:32Z
   Total Products: 2
 - [bis 200 qm](https://www.pelios.de/collections/bis-200-qm)
-  Updated: 2026-01-16T14:16:56Z
+  Updated: 2026-04-18T16:11:13Z
   Total Products: 1
 - [Wandmontage](https://www.pelios.de/collections/wandmontage)
-  Updated: 2026-03-18T16:51:29Z
+  Updated: 2026-03-19T18:15:12Z
   Total Products: 8
 - [Raumteiler](https://www.pelios.de/collections/raumteiler)
-  Updated: 2026-01-16T14:10:19Z
+  Updated: 2026-04-29T16:23:31Z
   Total Products: 2
 - [außen](https://www.pelios.de/collections/aussen)
-  Updated: 2026-03-18T16:51:29Z
+  Updated: 2026-04-23T11:33:40Z
   Total Products: 7
 - [ohne Rauch](https://www.pelios.de/collections/ohne-rauch)
-  Updated: 2026-03-18T16:51:29Z
+  Updated: 2026-04-29T16:23:31Z
   Total Products: 16
 - [ohne Strom](https://www.pelios.de/collections/ohne-strom)
-  Updated: 2026-03-18T15:32:41Z
+  Updated: 2026-04-29T16:23:31Z
   Total Products: 13
 - [Infrarot](https://www.pelios.de/collections/infrarot)
-  Updated: 2026-03-18T16:51:29Z
+  Updated: 2026-03-19T18:15:12Z
   Total Products: 3
 
 ## Blogs
@@ -776,6 +761,188 @@
     Updated: 2026-03-18T11:00:04Z
     Author: The Team
     Tags: Heizsysteme, Lärmemissionen
+  - [Kaminofen für Mietwohnung - was ist erlaubt?](https://www.pelios.de/blogs/news/kaminofen-fuer-mietwohnung-was-ist-erlaubt): Kaminofen für Mietwohnung - was ist erlaubt?
+    Updated: 2026-03-20T01:25:42Z
+    Author: Admin
+  - [Elektrokamin Stromverbrauch pro Tag berechnen](https://www.pelios.de/blogs/news/elektrokamin-stromverbrauch-pro-tag-berechnen): Elektrokamin Stromverbrauch pro Tag berechnen
+    Updated: 2026-03-22T01:30:42Z
+    Author: Admin
+  - [Elektrokamin Wandmontage für Mietwohnung](https://www.pelios.de/blogs/news/elektrokamin-wandmontage-fuer-mietwohnung): Elektrokamin Wandmontage für Mietwohnung
+    Updated: 2026-03-24T01:15:28Z
+    Author: Admin
+  - [Kaminofen 2026: Was bleibt erlaubt laut BImSchV?](https://www.pelios.de/blogs/news/kaminofen-2026-erlaubt)
+    Updated: 2026-03-25T13:38:04Z
+    Author: The Team
+    Tags: BImSchV Stufe 2, Kaminofen
+  - [Kaminofen kaufen: Kosten realistisch kalkulieren](https://www.pelios.de/blogs/news/kaminofen-kaufen-kosten)
+    Updated: 2026-03-25T13:38:04Z
+    Author: The Team
+    Tags: Kaminofen kaufen, Kaminofen Kosten
+  - [Wie viel Wärme bringt ein Elektrokamin?](https://www.pelios.de/blogs/news/wie-viel-waerme-bringt-ein-elektrokamin): Wie viel Wärme bringt ein Elektrokamin?
+    Updated: 2026-03-26T01:20:09Z
+    Author: Admin
+  - [Kaminofen richtig wählen: Wie viel kW brauchen Sie?](https://www.pelios.de/blogs/news/kaminofen-richtig-waehlen)
+    Updated: 2026-03-26T11:00:04Z
+    Author: The Team
+    Tags: Heizlastberechnung, Kaminofen
+  - [Terrassenheizer kaufen: So wählen Sie richtig](https://www.pelios.de/blogs/news/terrassenheizer-kaufen): Terrassenheizer kaufen: So wählen Sie richtig
+    Updated: 2026-03-28T01:25:18Z
+    Author: Admin
+  - [Kamin ohne Schornstein: Die neuesten Bioethanol-Modelle für 2023](https://www.pelios.de/blogs/news/kamin-ohne-schornstein-modelle)
+    Updated: 2026-03-28T11:00:03Z
+    Author: The Team
+    Tags: Bioethanol Kamin, Kamin ohne Schornstein, sichere Heizlösungen
+  - [Elektro Kamin Innovationen 2026 – Smarte Heizlösungen](https://www.pelios.de/blogs/news/elektro-kamin-innovationen-2026)
+    Updated: 2026-03-28T11:00:03Z
+    Author: The Team
+    Tags: Elektro Kamin, Energieeffizienz, smarte Heizlösungen
+  - [Kaminofen mit Backfach: Der neue Trend für 2023](https://www.pelios.de/blogs/news/kaminofen-mit-backfach-trend-2023)
+    Updated: 2026-03-29T11:00:04Z
+    Author: The Team
+    Tags: Heizen und Kochen, Kaminofen, Kaminofen mit Backfach
+  - [Braucht ein Pelletofen einen Schornstein?](https://www.pelios.de/blogs/news/braucht-ein-pelletofen-einen-schornstein): Braucht ein Pelletofen einen Schornstein?
+    Updated: 2026-03-30T01:20:54Z
+    Author: Admin
+  - [Pelletofen Förderung: Voraussetzungen und Antrag](https://www.pelios.de/blogs/news/pelletofen-foerderung-voraussetzungen-und-antrag): Pelletofen Förderung: Voraussetzungen und Antrag
+    Updated: 2026-04-01T01:20:31Z
+    Author: Admin
+  - [Pelletofen Lebensdauer und Wartung – lohnt sich die Investition?](https://www.pelios.de/blogs/news/pelletofen-lebensdauer-wartung)
+    Updated: 2026-04-01T19:22:03Z
+    Author: The Team
+    Tags: Pelletofen, Pelletofen kaufen
+  - [Pellets Heizung oder Scheitholz? Laufende Heizkosten im direkten Vergleich](https://www.pelios.de/blogs/news/pellets-heizung-vergleich)
+    Updated: 2026-04-01T19:22:03Z
+    Author: The Team
+    Tags: Holzofen kaufen, Pellets Heizung
+  - [Kaminofen mit Speicher: Nachhaltige Trends 2026](https://www.pelios.de/blogs/news/kaminofen-mit-speicher-trends)
+    Updated: 2026-04-02T11:00:04Z
+    Author: The Team
+    Tags: Kaminofen mit Speicher, Kaminofen Trends 2026, smarte Heizlösungen
+  - [Kaminofen 2026: BImSchV Grenzwerte einfach erklärt](https://www.pelios.de/blogs/news/kaminofen-2026-bimschv)
+    Updated: 2026-04-02T11:00:04Z
+    Author: The Team
+    Tags: BImSchV, Kaminofen, Kaminofen kaufen
+  - [Kaminofen kaufen 2026: Die besten Tipps für umweltbewusste Käufer](https://www.pelios.de/blogs/news/kaminofen-kaufen-2026-tipps)
+    Updated: 2026-04-02T11:06:03Z
+    Author: The Team
+    Tags: Kaminofen Angebote, Kaminofen kaufen, Nachhaltigkeit
+  - [Holzofen 8 kW im Wohnbereich richtig wählen](https://www.pelios.de/blogs/news/holzofen-8-kw-wohnbereich): Holzofen 8 kW im Wohnbereich richtig wählen
+    Updated: 2026-04-03T01:30:10Z
+    Author: Admin
+  - [Kamin-Designtrends 2026: Minimalismus und moderne Technik im Fokus](https://www.pelios.de/blogs/news/kamin-designtrends-2026-minimalismus-und-moderne-technik-im-fokus)
+    Updated: 2026-04-03T11:00:04Z
+    Author: The Team
+    Tags: Kamin-Designtrends 2026, Kaminofen, moderne Kaminöfen
+  - [Welcher Elektrokamin für 20 m² passt?](https://www.pelios.de/blogs/news/welcher-elektrokamin-fuer-20-m2-passt): Welcher Elektrokamin für 20 m² passt?
+    Updated: 2026-04-05T01:30:27Z
+    Author: Admin
+  - [Heizsysteme und staatliche Förderungen: So nutzen Sie Ihre Zuschüsse optimal](https://www.pelios.de/blogs/news/heizsysteme-und-staatliche-foerderungen-so-nutzen-sie-ihre-zuschuesse-optimal)
+    Updated: 2026-04-06T21:20:04Z
+    Author: The Team
+    Tags: Heizsysteme, staatliche Förderung, Zuschüsse
+  - [Kaminofen mit Backfach: Nachhaltig heizen & kochen 2026](https://www.pelios.de/blogs/news/kaminofen-mit-backfach-2026)
+    Updated: 2026-04-06T21:20:04Z
+    Author: The Team
+    Tags: Kaminofen mit Backfach, Kochen, Nachhaltigkeit
+  - [Welcher Kamin ohne Schornstein funktioniert?](https://www.pelios.de/blogs/news/welcher-kamin-ohne-schornstein-funktioniert): Welcher Kamin ohne Schornstein funktioniert?
+    Updated: 2026-04-07T01:25:26Z
+    Author: Admin
+  - [Kaminofen 2026: Energieeffizienz trifft Design](https://www.pelios.de/blogs/news/kaminofen-2026-design)
+    Updated: 2026-04-07T11:00:04Z
+    Author: The Team
+    Tags: Design, Energieeffizienz, Kaminofen
+  - [Kaminofen ab 2026: Welche Modelle wirklich weiterbetrieben werden dürfen](https://www.pelios.de/blogs/news/kaminofen-ab-2026-welche-modelle-wirklich-weiterbetrieben-werden-duerfen)
+    Updated: 2026-04-07T11:00:04Z
+    Author: The Team
+    Tags: BImSchV Kaminofen, Kaminofen 2026 erlaubt
+  - [Kaminofen Kosten: Anschaffung, Einbau und Folgekosten](https://www.pelios.de/blogs/news/kaminofen-kosten)
+    Updated: 2026-04-07T11:08:03Z
+    Author: The Team
+    Tags: Kaminofen Einbau Kosten, Kaminofen Kosten
+  - [Kaminofen kW pro qm: Wie viel Fläche wird wirklich warm?](https://www.pelios.de/blogs/news/kaminofen-kw-pro-qm)
+    Updated: 2026-04-08T11:00:04Z
+    Author: The Team
+    Tags: Kaminofen kW pro qm, Ofen Heizleistung berechnen
+  - [Ethanol Kamin Verbrauch: Brenndauer und Kosten im Alltag](https://www.pelios.de/blogs/news/ethanol-kamin-verbrauch)
+    Updated: 2026-04-08T11:00:04Z
+    Author: The Team
+    Tags: Bioethanol Kamin Brenndauer, Ethanol Kamin Verbrauch
+  - [Holzofen für offene Wohnbereiche richtig wählen](https://www.pelios.de/blogs/news/holzofen-fuer-offene-wohnbereiche-richtig-waehlen): Holzofen für offene Wohnbereiche richtig wählen
+    Updated: 2026-04-09T01:30:28Z
+    Author: Admin
+  - [Ethanol Kamin oder Elektro Kamin? Die beste Lösung für Wohnungen](https://www.pelios.de/blogs/news/ethanol-kamin-wohnung)
+    Updated: 2026-04-09T11:00:04Z
+    Author: The Team
+    Tags: Elektro Kamin, Ethanol Kamin
+  - [Holzofen kaufen: Richtig dimensionieren für jedes Raumkonzept](https://www.pelios.de/blogs/news/holzofen-kaufen-dimensionieren)
+    Updated: 2026-04-09T11:00:04Z
+    Author: The Team
+    Tags: Holzofen kaufen, Kaminofen Leistung
+  - [Holzofen oder Pelletofen im Altbau?](https://www.pelios.de/blogs/news/holzofen-oder-pelletofen-altbau): Holzofen oder Pelletofen im Altbau?
+    Updated: 2026-04-11T01:30:23Z
+    Author: Admin
+  - [Kaminofen für 100 m² richtig wählen](https://www.pelios.de/blogs/news/kaminofen-fuer-100-m2-richtig-waehlen): Kaminofen für 100 m² richtig wählen
+    Updated: 2026-04-13T01:55:25Z
+    Author: Admin
+  - [Elektrokamin kaufen - worauf es ankommt](https://www.pelios.de/blogs/news/elektrokamin-kaufen-worauf-es-ankommt): Elektrokamin kaufen - worauf es ankommt
+    Updated: 2026-04-15T02:15:49Z
+    Author: Admin
+  - [Beste Terrassenheizer für Gastronomie außenbereich](https://www.pelios.de/blogs/news/beste-terrassenheizer-fuer-gastronomie-aussenbereich): Beste Terrassenheizer für Gastronomie außenbereich
+    Updated: 2026-04-17T02:00:49Z
+    Author: Admin
+  - [Pelletverbrauch im Winter richtig kalkulieren](https://www.pelios.de/blogs/news/pelletverbrauch-im-winter-richtig-kalkulieren): Pelletverbrauch im Winter richtig kalkulieren
+    Updated: 2026-04-19T02:05:48Z
+    Author: Admin
+  - [Kaminofen Lieferzeit und Spedition Ablauf](https://www.pelios.de/blogs/news/kaminofen-lieferzeit-und-spedition-ablauf): Kaminofen Lieferzeit und Spedition Ablauf
+    Updated: 2026-04-21T04:50:37Z
+    Author: Admin
+  - [Kaminofen: Vor- und Nachteile für Mieter](https://www.pelios.de/blogs/news/kaminofen-vor-und-nachteile-fuer-mieter): Kaminofen: Vor- und Nachteile für Mieter
+    Updated: 2026-04-23T03:24:25Z
+    Author: Admin
+  - [Wie sicher ist ein Ethanolkamin im Wohnzimmer?](https://www.pelios.de/blogs/news/wie-sicher-ist-ein-ethanolkamin-im-wohnzimmer): Wie sicher ist ein Ethanolkamin im Wohnzimmer?
+    Updated: 2026-04-25T03:30:24Z
+    Author: Admin
+  - [Infrarot Terrassenheizer für Balkon kaufen](https://www.pelios.de/blogs/news/infrarot-terrassenheizer-fuer-balkon-kaufen): Infrarot Terrassenheizer für Balkon kaufen
+    Updated: 2026-04-27T03:39:20Z
+    Author: Admin
+  - [Pelletofen Aufstellung: Abstände zur Wand](https://www.pelios.de/blogs/news/pelletofen-aufstellung-abstaende-zur-wand): Pelletofen Aufstellung: Abstände zur Wand
+    Updated: 2026-04-29T03:45:46Z
+    Author: Admin
+  - [Design Kamin 2026: Die besten Modelle für moderne Wohnräume](https://www.pelios.de/blogs/news/design-kamin-2026)
+    Updated: 2026-04-29T16:12:03Z
+    Author: The Team
+    Tags: Design Kamin, Kamin Trends 2026, moderne Kamine
+  - [Elektro Kamin kaufen: Worauf Sie bei Heizleistung, Stromverbrauch und Flammeneffekt achten sollten](https://www.pelios.de/blogs/news/elektro-kamin-kaufberatung)
+    Updated: 2026-04-29T16:12:03Z
+    Author: The Team
+    Tags: Elektro Kamin, Elektro Kamin Stromverbrauch, Elektrokamine
+  - [Kamin ohne Genehmigung? Was in Wohnung, Gartenhaus und Ferienimmobilie wirklich erlaubt ist](https://www.pelios.de/blogs/news/kamin-ohne-genehmigung)
+    Updated: 2026-04-30T11:00:04Z
+    Author: The Team
+    Tags: Kamin Genehmigung Deutschland, Kamin ohne Genehmigung, Kamin ohne Schornstein
+  - [Einbaukamin planen im offenen Wohnbereich: Leistung, Luftführung und Design richtig abstimmen](https://www.pelios.de/blogs/news/einbaukamin-planung-offener-wohnbereich)
+    Updated: 2026-04-30T11:00:04Z
+    Author: The Team
+    Tags: Design Kaminofen, Einbaukamin, offener Wohnbereich Kamin
+  - [Die besten Eckkamin-Modelle 2026 für kleine und große Räume im Vergleich](https://www.pelios.de/blogs/news/eckkamin-modelle-2026-vergleich)
+    Updated: 2026-04-30T11:12:04Z
+    Author: The Team
+    Tags: Design Kaminofen, Eckkamin, Kaminofen
+  - [Guide: Pelletverbrauch pro Stunde berechnen](https://www.pelios.de/blogs/news/guide-pelletverbrauch-pro-stunde-berechnen): Guide: Pelletverbrauch pro Stunde berechnen
+    Updated: 2026-05-01T03:54:46Z
+    Author: Admin
+  - [Kaminofen Angebote 2026: So erkennen Sie echte Schnäppchen ohne bei Effizienz und Qualität zu sparen](https://www.pelios.de/blogs/news/kaminofen-angebote-2026)
+    Updated: 2026-05-01T11:00:04Z
+    Author: The Team
+    Tags: Holzofen kaufen, Kaminofen Angebote, Kaminofen kaufen
+  - [Förderung Holzofen 2026: Wann es Zuschüsse gibt – und wann Hausbesitzer leer ausgehen](https://www.pelios.de/blogs/news/foerderung-holzofen-2026)
+    Updated: 2026-05-01T11:00:04Z
+    Author: The Team
+    Tags: Förderung Holzofen, Förderung Kamin, staatliche Zuschüsse Heizung
+  - [Kamin mit Heizfunktion im Altbau: Wann sich Nachrüstung, Speicherlösung oder Hybridbetrieb wirklich lohnt](https://www.pelios.de/blogs/news/kamin-mit-heizfunktion-altbau)
+    Updated: 2026-05-01T11:10:03Z
+    Author: The Team
+    Tags: Hybrid-Heizsysteme, Kamin mit Heizfunktion, Wohnraumheizung
 
 ## Store Pages
 
@@ -793,7 +960,7 @@
 - [Shipping Policy](https://www.pelios.de/policies/shipping-policy)
   Updated: 2025-08-13T16:40:48+02:00
 - [Refund Policy](https://www.pelios.de/policies/refund-policy)
-  Updated: 2025-09-29T19:20:11+02:00
+  Updated: 2026-04-18T19:14:32+02:00
 - [Terms of Service](https://www.pelios.de/policies/terms-of-service)
   Updated: 2025-06-23T22:15:31+02:00
 
