@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-05-06T04:35:08Z
 - Contact Email: info@craftedcocktailtoppers.com
-- Updated At: 2026-04-23T00:00:36.963Z
+- Updated At: 2026-05-02T00:00:40.454Z
 
 Welcome to Crafted Cocktail Toppers' LLMS.txt. This file helps AI assistants understand our store structure and offerings.
 
@@ -17,7 +17,7 @@ LLMS sections below provide additional context for our content, policies, and re
 ## Products
 
 - [Custom Edible Monogram Toppers | Cocktail Garnishes](https://craftedcocktailtoppers.com/products/50-1000-personalized-edible-drink-toppers-monogram-cocktail-garnishes): Elevate your cocktails with custom edible monogram toppers. Perfect for weddings, parties & events. Premium quality, fast shipping. Order 50-1000 pieces!
-  Updated: 2026-04-22T20:42:46Z
+  Updated: 2026-05-01T19:47:27Z
   Vendor: Crafted Cocktail Toppers
   Product Type: Cocktail Accessories
   Availability: Available
@@ -70,19 +70,19 @@ LLMS sections below provide additional context for our content, policies, and re
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/il_fullxfull.6048552515_a70x.webp?v=1746560933
     Price: $450.00 USD
-  - [Rush Shipping Service / 50](https://craftedcocktailtoppers.com/products/50-1000-personalized-edible-drink-toppers-monogram-cocktail-garnishes?variant=43003695988806)
+  - [Rush Production Service / 50](https://craftedcocktailtoppers.com/products/50-1000-personalized-edible-drink-toppers-monogram-cocktail-garnishes?variant=43003695988806)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/il_fullxfull.6000475256_3sm7.webp?v=1746560972
     Price: $18.21 USD
-  - [Rush Shipping Service / 250](https://craftedcocktailtoppers.com/products/50-1000-personalized-edible-drink-toppers-monogram-cocktail-garnishes?variant=43003696021574)
+  - [Rush Production Service / 250](https://craftedcocktailtoppers.com/products/50-1000-personalized-edible-drink-toppers-monogram-cocktail-garnishes?variant=43003696021574)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/il_fullxfull.6000475256_3sm7.webp?v=1746560972
     Price: $18.21 USD
-  - [Rush Shipping Service / 500](https://craftedcocktailtoppers.com/products/50-1000-personalized-edible-drink-toppers-monogram-cocktail-garnishes?variant=43003696054342)
+  - [Rush Production Service / 500](https://craftedcocktailtoppers.com/products/50-1000-personalized-edible-drink-toppers-monogram-cocktail-garnishes?variant=43003696054342)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/il_fullxfull.6000475256_3sm7.webp?v=1746560972
     Price: $18.21 USD
-  - [Rush Shipping Service / 1000](https://craftedcocktailtoppers.com/products/50-1000-personalized-edible-drink-toppers-monogram-cocktail-garnishes?variant=43003696087110)
+  - [Rush Production Service / 1000](https://craftedcocktailtoppers.com/products/50-1000-personalized-edible-drink-toppers-monogram-cocktail-garnishes?variant=43003696087110)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/il_fullxfull.6000475256_3sm7.webp?v=1746560972
     Price: $18.21 USD
@@ -978,7 +978,7 @@ LLMS sections below provide additional context for our content, policies, and re
     Availability: Available
     Price: $500.00 USD
 - [Custom Pet Photo Cocktail Stirrers | Personalized Acrylic Drink Sticks](https://craftedcocktailtoppers.com/products/personalized-pet-photo-cocktail-stirrers): Celebrate every sip with custom pet photo cocktail stirrers! 🎉 Personalized acrylic drink sticks are perfect for weddings, parties, and holidays.
-  Updated: 2026-04-06T00:41:28Z
+  Updated: 2026-05-01T06:02:16Z
   Vendor: Crafted Cocktail Toppers
   Product Type: 
   Availability: Available
@@ -1695,25 +1695,25 @@ LLMS sections below provide additional context for our content, policies, and re
 ## Collections
 
 - [Home page](https://craftedcocktailtoppers.com/collections/frontpage)
-  Updated: 2026-04-22T11:21:36Z
+  Updated: 2026-05-01T11:36:19Z
   Total Products: 1
 - [Imported Products](https://craftedcocktailtoppers.com/collections/imported-products)
   Updated: 2026-04-02T10:38:43Z
   Total Products: 0
 - [AVADA - Best Sellers](https://craftedcocktailtoppers.com/collections/avada-best-sellers)
-  Updated: 2026-04-22T11:21:36Z
+  Updated: 2026-05-01T11:36:19Z
   Total Products: 24
 - [Edible Drink Toppers](https://craftedcocktailtoppers.com/collections/edible-drink-toppers)
-  Updated: 2026-04-22T11:21:36Z
+  Updated: 2026-05-01T11:36:19Z
   Total Products: 5
 - [Cocktail Decorations & Edible Drink Toppers - Crafted Cocktail Toppers](https://craftedcocktailtoppers.com/collections/cocktail-decorations): Premium cocktail decorations by Crafted Cocktail Toppers. Personalized edible drink toppers for weddings, parties, birthdays & luxe celebrations.
-  Updated: 2026-04-13T11:22:15Z
+  Updated: 2026-05-01T11:36:19Z
   Total Products: 4
 - [Paper Napkins](https://craftedcocktailtoppers.com/collections/paper-napkins)
-  Updated: 2026-04-10T11:24:10Z
+  Updated: 2026-04-23T11:24:11Z
   Total Products: 9
 - [New Arrivals](https://craftedcocktailtoppers.com/collections/new-arrivals)
-  Updated: 2026-04-06T11:18:39Z
+  Updated: 2026-05-01T11:36:19Z
   Total Products: 1
 - [Gift Sets](https://craftedcocktailtoppers.com/collections/gift-sets)
   Updated: 2026-04-02T10:38:43Z
@@ -2336,6 +2336,15 @@ LLMS sections below provide additional context for our content, policies, and re
     Author: Che Che
   - [Party Planning Success: Custom Drink Toppers Made for Your Grad Celebration](https://craftedcocktailtoppers.com/blogs/news/party-planning-success-custom-drink-toppers-made-for-your-grad-celebration): Party Planning Success: Custom Drink Toppers Made for Your Grad Celebration
     Updated: 2026-04-22T02:12:31Z
+    Author: Che Che
+  - [The Allure of Edible Drink Toppers: Finding Your Local Cocktail Enhancers Near You](https://craftedcocktailtoppers.com/blogs/news/the-allure-of-edible-drink-toppers-finding-your-local-cocktail-enhancers-near-you): The Allure of Edible Drink Toppers: Finding Your Local Cocktail Enhancers Near You
+    Updated: 2026-04-27T00:29:47Z
+    Author: Che Che
+  - [The Latest Cocktail Trends: Crafting Edible Drink Toppers for Unforgettable Events](https://craftedcocktailtoppers.com/blogs/news/the-latest-cocktail-trends-crafting-edible-drink-toppers-for-unforgettable-events): The Latest Cocktail Trends: Crafting Edible Drink Toppers for Unforgettable Events
+    Updated: 2026-04-28T00:49:15Z
+    Author: Che Che
+  - [A Comprehensive Guide to Edible Drink Toppers for Weddings and Parties](https://craftedcocktailtoppers.com/blogs/news/a-comprehensive-guide-to-edible-drink-toppers-for-weddings-and-parties): A Comprehensive Guide to Edible Drink Toppers for Weddings and Parties
+    Updated: 2026-04-29T02:32:40Z
     Author: Che Che
 
 ## Store Pages
