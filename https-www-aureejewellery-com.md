@@ -12,7 +12,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
 - Timezone: Europe/London
 - Created At: 2020-02-26T18:32:35Z
 - Contact Email: contact@aureejewellery.com
-- Updated At: 2026-04-23T00:00:48.838Z
+- Updated At: 2026-05-02T00:00:50.237Z
 
 ## Products
 
@@ -74,7 +74,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
     Availability: Available
     Price: £2,925.00 GBP
 - [Waverley Gold Vermeil Adjustable Curb Chain | Auree Jewellery](https://www.aureejewellery.com/products/waverley-gold-adjustable-curb-chain): The Waverley Adjustable Yellow Gold Vermeil Trace Chains have been handcrafted in Italy. These chains pair wonderfully with a simple little pendant. Beautifully gift wrapped with free UK delivery and returns.
-  Updated: 2026-04-20T16:25:53Z
+  Updated: 2026-04-30T13:32:47Z
   Vendor: Auree Jewellery
   Product Type: Chains
   Availability: Available
@@ -121,13 +121,6 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Product Type: Delivery
   Availability: Available
   Price: £0.00 GBP
-- [Gold Vermeil Double Knot Earrings Online In the UK | Auree Jewellery](https://www.aureejewellery.com/products/onslow-gold-vermeil-double-knot-stud-earrings): Shop for these classic yet stylish knot earrings. Made from 18ct Gold Vermeil, these earrings are perfect for both - everyday elegance or evening glamour. ✓Gift Wrapping ✓Sustainability Focussed
-  Updated: 2026-04-22T09:13:17Z
-  Vendor: Auree Jewellery
-  Product Type: Earrings
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/earrings-onslow-yellow-gold-vermeil-double-knot-stud-earrings-1.jpg?v=1679414847
-  Price: £95.00 GBP
 - [Multi Gemstone Necklace | Gold Plated | Auree Jewellery | UK](https://www.aureejewellery.com/products/antibes-gold-luxury-gemstone-18-necklace): Luxury Gemstone & Gold Chennai Necklace - see our full colourful range of Handmade Gold & Gemstone Jewellery
   Updated: 2026-04-20T16:25:57Z
   Vendor: Auree Jewellery
@@ -183,7 +176,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/cufflinks-albemarle-sterling-silver-oval-cufflinks-1_8c22062c-e64f-4b66-9697-0097189a1383.jpg?v=1749131608
   Price: £295.00 GBP
 - [9ct White Gold Disc Initial Pendant | Auree Jewellery](https://www.aureejewellery.com/products/westbourne-9ct-white-gold-disc-pendant): Personalise our 9ct White Gold Disc Pendants with an engraved initial or date. Beautifully Gift-Wrapped with Free UK Delivery.
-  Updated: 2026-04-22T09:13:36Z
+  Updated: 2026-04-29T16:45:39Z
   Vendor: Auree Jewellery
   Product Type: Necklaces & Pendants
   Availability: Available
@@ -213,7 +206,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
     Availability: Available
     Price: £625.00 GBP
 - [Medium Rose Gold Chain | 9ct Rose Gold | Auree Jewellery](https://www.aureejewellery.com/products/paddington-9ct-medium-rose-gold-curb-chain): Our classic Paddington 9ct Rose Gold Medium Curb Chain is suitable for hanging pendants on and wearing every day. All our chains are available with Free UK Delivery and Returns.
-  Updated: 2026-04-22T09:13:18Z
+  Updated: 2026-04-29T16:45:27Z
   Vendor: Auree Jewellery
   Product Type: Chains
   Availability: Available
@@ -235,7 +228,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/earrings-salina-silver-disc-aqua-chalcedony-earrings-1.jpg?v=1749131601
   Price: £130.00 GBP
 - [Fine White Gold Chain | 9ct White Gold | Auree Jewellery](https://www.aureejewellery.com/products/marylebone-9ct-white-gold-fine-trace-chain): Our 9ct White Gold Fine Trace Chains are perfect for wearing with any pendant. Made in Italy. All our chains are available with Free UK Delivery and Returns.
-  Updated: 2026-04-22T09:13:18Z
+  Updated: 2026-04-29T16:45:26Z
   Vendor: Auree Jewellery
   Product Type: Chains
   Availability: Available
@@ -249,60 +242,6 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   - [20" | 51cm](https://www.aureejewellery.com/products/marylebone-9ct-white-gold-fine-trace-chain?variant=42448262529162)
     Availability: Available
     Price: £180.00 GBP
-- [Auree Jewellery | Gift Card](https://www.aureejewellery.com/products/auree-jewellery-gift-): Feeling indecisive? Looking for a present for your trickiest and pickiest friend? This is the perfect option. You will be sent a beautiful Auree .
-  Updated: 2026-04-20T16:26:09Z
-  Vendor: Auree Jewellery
-  Product Type: Gift Vouchers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/gift-vouchers-auree-gift-card-1.jpg?v=1749131595
-  - [e-Gift Card / ¬£40](https://www.aureejewellery.com/products/auree-jewellery-gift-?variant=55738846445942)
-    Availability: Available
-    Price: £40.00 GBP
-  - [e-Gift Card / ¬£50](https://www.aureejewellery.com/products/auree-jewellery-gift-?variant=55738846478710)
-    Availability: Available
-    Price: £50.00 GBP
-  - [e-Gift Card / ¬£100](https://www.aureejewellery.com/products/auree-jewellery-gift-?variant=55738846511478)
-    Availability: Available
-    Price: £100.00 GBP
-  - [e-Gift Card / ¬£150](https://www.aureejewellery.com/products/auree-jewellery-gift-?variant=55738846544246)
-    Availability: Available
-    Price: £150.00 GBP
-  - [e-Gift Card / ¬£200](https://www.aureejewellery.com/products/auree-jewellery-gift-?variant=55738846577014)
-    Availability: Available
-    Price: £200.00 GBP
-  - [e-Gift Card / ¬£250](https://www.aureejewellery.com/products/auree-jewellery-gift-?variant=55738846609782)
-    Availability: Available
-    Price: £250.00 GBP
-  - [e-Gift Card / ¬£300](https://www.aureejewellery.com/products/auree-jewellery-gift-?variant=55738846642550)
-    Availability: Available
-    Price: £300.00 GBP
-  - [e-Gift Card / ¬£500](https://www.aureejewellery.com/products/auree-jewellery-gift-?variant=55738846675318)
-    Availability: Available
-    Price: £500.00 GBP
-  - [Physical Gift Card / ¬£25](https://www.aureejewellery.com/products/auree-jewellery-gift-?variant=55738846708086)
-    Availability: Available
-    Price: £25.00 GBP
-  - [Physical Gift Card / ¬£50](https://www.aureejewellery.com/products/auree-jewellery-gift-?variant=55738846740854)
-    Availability: Available
-    Price: £50.00 GBP
-  - [Physical Gift Card / ¬£100](https://www.aureejewellery.com/products/auree-jewellery-gift-?variant=55738846773622)
-    Availability: Available
-    Price: £100.00 GBP
-  - [Physical Gift Card / ¬£150](https://www.aureejewellery.com/products/auree-jewellery-gift-?variant=55738846806390)
-    Availability: Available
-    Price: £150.00 GBP
-  - [Physical Gift Card / ¬£200](https://www.aureejewellery.com/products/auree-jewellery-gift-?variant=55738846839158)
-    Availability: Available
-    Price: £200.00 GBP
-  - [Physical Gift Card / ¬£250](https://www.aureejewellery.com/products/auree-jewellery-gift-?variant=55738846871926)
-    Availability: Available
-    Price: £250.00 GBP
-  - [Physical Gift Card / ¬£300](https://www.aureejewellery.com/products/auree-jewellery-gift-?variant=55738846904694)
-    Availability: Available
-    Price: £300.00 GBP
-  - [Physical Gift Card / ¬£500](https://www.aureejewellery.com/products/auree-jewellery-gift-?variant=55738846937462)
-    Availability: Available
-    Price: £500.00 GBP
 - [Fine Rose Gold Chain | 9ct Rose Gold | Auree Jewellery](https://www.aureejewellery.com/products/marylebone-9ct-rose-gold-fine-trace-chain): Our 9ct Rose Gold Fine Trace Chains are for wearing with any pendant. Made in Italy. All 9ct gold chains are available with Free UK Delivery and Returns.
   Updated: 2026-04-20T16:26:09Z
   Vendor: Auree Jewellery
@@ -344,13 +283,6 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/files/pixelcut-export_57.jpg?v=1770287203
   Price: £895.00 GBP
-- [Curzon Sterling Silver Torque Bangle](https://www.aureejewellery.com/products/curzon-sterling-silver-bangle): Sterling Silver Bangle - with optional engraving available. Next day delivery with free delivery and returns.
-  Updated: 2026-04-20T16:26:15Z
-  Vendor: Auree Jewellery
-  Product Type: Bracelets & Bangles
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/bracelets-bangles-curzon-sterling-silver-bangle-1.jpg?v=1749131582
-  Price: £265.00 GBP
 - [Acorn Necklace | Sterling Silver and Gold Vermeil | Auree Jewellery](https://www.aureejewellery.com/products/sherwood-silver-gold-acorn-necklace): A pretty Acorn Necklace made from Sterling Silver and 18ct Yellow Gold Vermeil. Beautifully Gift-wrapped with Free UK Delivery and Returns.
   Updated: 2026-04-21T10:41:30Z
   Vendor: Auree Jewellery
@@ -367,21 +299,21 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
     Availability: Available
     Price: £185.00 GBP
 - [Auree White Box Size X-Small Potters - Auree Jewellery](https://www.aureejewellery.com/products/auree-white-box-size-x-small-potters): Shop the Auree White Box in size X-Small from Auree Jewellery. Perfect for storing your precious jewellery. Free UK delivery on orders over ¬£100.
-  Updated: 2026-04-22T16:19:06Z
+  Updated: 2026-05-01T14:57:32Z
   Vendor: Potters
   Product Type: Packaging
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/packaging-auree-white-box-size-small-pattern-inner-potters-1.jpg?v=1749131576
   Price: £0.00 GBP
 - [Auree Pouch Size Small Cotton Barons | Auree Jewellery](https://www.aureejewellery.com/products/auree-pouch-size-small-cotton-barons): Keep your jewellery safe and organised with the Auree Pouch in Small Cotton Barons. Perfect for storing your favourite pieces on the go. Shop now!
-  Updated: 2026-04-22T15:58:58Z
+  Updated: 2026-05-01T14:57:30Z
   Vendor: Cotton Barons
   Product Type: Packaging
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/packaging-auree-pouch-size-small-cotton-barons-1.jpg?v=1749131576
   Price: £0.00 GBP
 - [Auree Pouch Size Medium Cotton Barons - Auree Jewellery](https://www.aureejewellery.com/products/auree-pouch-size-medium-cotton-barons): Keep your jewellery safe and secure with the Auree Pouch Size Medium Cotton Barons. Made from high-quality cotton, this pouch is perfect for storing your favourite pieces.
-  Updated: 2026-04-07T09:06:51Z
+  Updated: 2026-04-28T11:24:19Z
   Vendor: Cotton Barons
   Product Type: Packaging
   Availability: Available
@@ -431,7 +363,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
     Availability: Available
     Price: £360.00 GBP
 - [Sterling Silver Bangle | Hook Clasp | Auree Jewellery](https://www.aureejewellery.com/products/ledbury-silver-bangle): A classic Silver Hook Bangle, made from the finest Sterling Silver. Beautifully Gift-Wrapped with Free UK Delivery.
-  Updated: 2026-04-20T16:26:19Z
+  Updated: 2026-04-30T13:16:36Z
   Vendor: Auree Jewellery
   Product Type: Bracelets & Bangles
   Availability: Available
@@ -444,13 +376,6 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/bracelets-bangles-knightsbridge-silver-russian-wedding-bangle-1.jpg?v=1749131566
   Price: £425.00 GBP
-- [Sterling Silver Tear Drop Bangle - Auree Jewellery](https://www.aureejewellery.com/products/boltons-silver-tear-drop-bangle): Shop the stunning Boltons Silver Tear Drop Bangle from Auree Jewellery. Handcrafted with precision and elegance. Perfect for everyday wear or special occasions.
-  Updated: 2026-04-20T16:26:20Z
-  Vendor: Auree Jewellery
-  Product Type: Bracelets & Bangles
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/bracelets-bangles-boltons-silver-tear-drop-bangle-1.jpg?v=1749131565
-  Price: £225.00 GBP
 - [Auree White Mystique Ring Box Potters](https://www.aureejewellery.com/products/auree-white-mystique-ring-box-potters): Explore our stunning Auree White Mystique Ring Box Potters - the perfect accessory for your special occasions. Shop now at Auree Jewellery.
   Updated: 2026-01-25T12:45:18Z
   Vendor: Potters
@@ -459,17 +384,17 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/packaging-auree-white-mystique-ring-box-potters-1.jpg?v=1749131564
   Price: £0.00 GBP
 - [Sterling Silver Trace Chain Necklace | Adjustable Length | Auree](https://www.aureejewellery.com/products/waverley-sterling-silver-adjustable-chain): Our Sterling Silver Curb Chains are adjustable to different lengths. Made in England. Beautifully gift-wrapped with free UK delivery and returns.
-  Updated: 2026-04-21T10:41:18Z
+  Updated: 2026-04-30T12:21:41Z
   Vendor: Auree Jewellery
   Product Type: Chains
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/Waverley-Sterling-Silver-Chain_c5f6d7dd-3894-4c14-80a4-2494f60423b2.jpg?v=1749131562
   - [16" | 41cm](https://www.aureejewellery.com/products/waverley-sterling-silver-adjustable-chain?variant=42421879734410)
     Availability: Available
-    Price: £40.00 GBP
+    Price: £35.00 GBP
   - [16-18" | 41-45cm](https://www.aureejewellery.com/products/waverley-sterling-silver-adjustable-chain?variant=42389584838794)
     Availability: Available
-    Price: £75.00 GBP
+    Price: £65.00 GBP
   - [18-20" | 45-51cm](https://www.aureejewellery.com/products/waverley-sterling-silver-adjustable-chain?variant=42389584871562)
     Availability: Available
     Price: £75.00 GBP
@@ -480,14 +405,14 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
     Availability: Available
     Price: £75.00 GBP
 - [Double Circle Earrings | 9ct Yellow Gold | Auree Jewellery](https://www.aureejewellery.com/products/kelso-9ct-gold-earrings): A very pretty pair of 9ct Yellow Gold Double Circle Earrings. Beautifully gift-wrapped with free UK delivery and returns.
-  Updated: 2026-04-20T16:26:22Z
+  Updated: 2026-05-01T10:16:16Z
   Vendor: Auree Jewellery
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/files/Kelso_9ct_Double_Hoop_Stud_Earrings.jpg?v=1772467876
   Price: £125.00 GBP
 - [Interlocking Circle Bracelet | Sterling Silver | Auree Jewellery](https://www.aureejewellery.com/products/kelso-silver-bracelet): A very pretty Sterling Silver Interlocking Circle Bracelet. Beautifully gift-wrapped with free UK delivery and returns.
-  Updated: 2026-04-20T16:26:23Z
+  Updated: 2026-04-28T13:24:17Z
   Vendor: Auree Jewellery
   Product Type: Bracelets & Bangles
   Availability: Available
@@ -501,7 +426,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/Kelso-Gold-Necklace_fc028350-7fb6-4993-9215-fbe977fdd4c4.jpg?v=1749131555
   Price: £795.00 GBP
 - [Interlinking Silver Necklace, Circle Necklace, Sterling Silver Necklace, Silver Jewellery, Women's Jewellery - Auree Jewellery](https://www.aureejewellery.com/products/kelso-silver-rings-necklace): Featuring two interlinking circles on a fine trace chain, Auree's Kelso Sterling Silver necklace goes with every outfit. Shop for matching earrings and bracelets. ‚úìFree UK Delivery ‚úìFive Year Guarantee
-  Updated: 2026-04-20T16:26:24Z
+  Updated: 2026-04-29T23:45:45Z
   Vendor: Auree Jewellery
   Product Type: Necklaces & Pendants
   Availability: Available
@@ -515,14 +440,14 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/Sofia-Sterling-Silver-Cubic-Zirconia-Bracelet_26162852-812b-4bed-a9c7-5f897d9829e3.jpg?v=1749131548
   Price: £50.00 GBP
 - [Auree Gift Bag - Shop Now for Beautiful Jewellery Gifts | Auree Jewellery](https://www.aureejewellery.com/products/auree-gift-bag): Discover the perfect Auree gift bag for your jewellery purchase. Shop now for beautifully crafted jewellery gifts at Auree Jewellery.
-  Updated: 2026-04-22T11:09:45Z
+  Updated: 2026-04-29T13:32:18Z
   Vendor: Print and Packaging Solutions
   Product Type: Packaging
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/packaging-auree-gift-bag-1.jpg?v=1772542472
   Price: £3.00 GBP
 - [February Birthstone Necklace - Amethyst | Auree Jewellery](https://www.aureejewellery.com/products/bali-february-birthstone-necklace-amethyst): Celebrate February birthdays with our Bali Amethyst Birthstone Necklace. Handcrafted with love, this stunning piece is perfect for adding a touch of elegance to any outfit.
-  Updated: 2026-04-22T09:13:16Z
+  Updated: 2026-04-29T16:45:30Z
   Vendor: Auree Jewellery
   Product Type: Necklaces & Pendants
   Availability: Available
@@ -683,7 +608,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/Bali-9ct-Gold-December-Turquoise-Bracelet_957a1dae-0eb3-453b-a391-013f42a6cf8a.jpg?v=1772556341
   Price: £425.00 GBP
 - [Sterling Silver Russian Wedding Ring | Trinity Ring | Auree Jewellery](https://www.aureejewellery.com/products/knightsbridge-sterling-silver-russian-wedding-ring): Sterling Silver Russian Wedding Ring. Polished Sterling Silver. See our full collection of Sterling Silver and Gold Jewellery. Beautifully Gift Wrapped with Free UK Delivery & Returns.
-  Updated: 2026-04-22T09:13:26Z
+  Updated: 2026-04-30T20:36:50Z
   Vendor: Auree Jewellery
   Product Type: Rings
   Availability: Available
@@ -722,13 +647,6 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/Waverley-Rose-Gold-Vermeil-Chain_06fc35fc-e953-4fee-97dc-f4581af7f2d5.jpg?v=1749131482
   Price: £65.00 GBP
-- [Blue Topaz and Gold Vermeil Disc Earrings | Auree Jewellery](https://www.aureejewellery.com/products/salina-gold-vermeil-disc-blue-topaz-earrings): Bestselling Gold vermeil disc earrings with sky blue topaz drops. Bright, elegant and perfect for everyday wear or gifting. Free UK delivery and gift wrapping.
-  Updated: 2026-04-20T16:26:38Z
-  Vendor: Auree Jewellery
-  Product Type: Earrings
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/Salina-Blue-Topaz-Gold-Vermeil-Disc-Earrings2_da936440-ce6c-48d9-af6c-847c3c571436.jpg?v=1749131478
-  Price: £185.00 GBP
 - [Sterling Silver Disc and Blue Topaz Drop Earrings | Auree Jewellery](https://www.aureejewellery.com/products/sterling-silver-disc-blue-topaz-earrings): Sterling silver drop earrings with vibrant blue topaz gemstones. Elegant, lightweight and perfect for day-to-night sparkle. Free UK delivery & Returns.
   Updated: 2026-04-20T16:26:39Z
   Vendor: Auree Jewellery
@@ -756,7 +674,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
     Availability: Available
     Price: £2,925.00 GBP
 - [Fine Yellow Gold Chain | 9ct Yellow Gold | Auree Jewellery](https://www.aureejewellery.com/products/marylebone-adjustable-9ct-gold-fine-chain): Our Adjustable 9ct Yellow Gold Fine Trace Chain are for wearing with any pendant. Made in Italy. All chains are available with Free UK Delivery and Returns.
-  Updated: 2026-04-20T16:26:42Z
+  Updated: 2026-04-25T10:06:55Z
   Vendor: Auree Jewellery
   Product Type: Chains
   Availability: Available
@@ -802,7 +720,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/files/pixelcut-export_-_2026-02-19T144918.682.jpg?v=1771513382
   Price: £115.00 GBP
 - [Solid 9ct Gold and Gemstone Birthstone Pendants | Auree Jewellery](https://www.aureejewellery.com/products/bali-9ct-gold-birthstone-pendants): The most special 9ct Gold & Gemstone Birthstone Pendants. Perfect for layering and wearing everyday. Free Delivery with 100 Day Free Returns.
-  Updated: 2026-04-22T16:12:01Z
+  Updated: 2026-05-01T11:57:17Z
   Vendor: Auree Jewellery
   Product Type: Necklaces & Pendants
   Availability: Available
@@ -921,7 +839,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/Manhattan-Lapis-Lazuli-Gold-Vermeil-Interchangable-Drop-Earrings_b2b35ba2-9afc-4ece-ab0e-8cfd169226f8.jpg?v=1749131384
   Price: £250.00 GBP
 - [Fingerprint Necklace | Sterling Silver Pendant | Auree Jewellery](https://www.aureejewellery.com/products/northcote-sterling-silver-fingerprint-pendant): Our Sterling Silver Disc Pendant is hand engraved with your child's Fingerprint. Bespoke to you. Beautifully Gift-Wrapped with Free UK delivery.
-  Updated: 2026-04-21T10:41:36Z
+  Updated: 2026-04-28T09:07:05Z
   Vendor: Auree Jewellery
   Product Type: Necklaces & Pendants
   Availability: Available
@@ -981,7 +899,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
     Availability: Available
     Price: £475.00 GBP
 - [Personalised Fingerprint Necklace | 9ct Gold Pendant | Auree Jewellery](https://www.aureejewellery.com/products/9ct-gold-fingerprint-necklace): Personalised 9ct Gold Disc Fingerprint Necklace with a Fingerprint, footprint or handprint. Hand Engraved in London. Beautifully Gift-Wrapped with Free Delivery.
-  Updated: 2026-04-20T16:26:52Z
+  Updated: 2026-04-28T09:07:38Z
   Vendor: Auree Jewellery
   Product Type: Necklaces & Pendants
   Availability: Available
@@ -1048,7 +966,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/files/Salina-Gold-Amazonite-Drop-Earrings.jpg?v=1760363962
   Price: £150.00 GBP
 - [Amazonite Stud Earrings | Gold Plated | Auree Jewellery](https://www.aureejewellery.com/products/antibes-gold-vermeil-amazonite-stud-earrings): These vibrant little amazonite earrings are set into 18ct Gold Plated Silver and have comfortable butterfly backs. Gift Wrapped, Free UK Delivery and 100 Day Returns with Five Year Guarantee.
-  Updated: 2026-04-22T09:13:17Z
+  Updated: 2026-04-30T12:09:21Z
   Vendor: Auree Jewellery
   Product Type: Earrings
   Availability: Available
@@ -1069,14 +987,14 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/Olivera-Gold-Medium-Hoops_a02379e3-050d-4a51-ab86-f8edfbbb8041.jpg?v=1749131366
   Price: £225.00 GBP
 - [Stud Earrings, Aqua Chalcedony Stud Earrings, 18ct Gold on Silver, Women's Jewellery - Auree Jewellery](https://www.aureejewellery.com/products/brooklyn-gold-aqua-chalcedony-stud-earrings): Shop our Brooklyn Gold Aqua Chalcedony Stud Earrings from Auree Jewellery. Handcrafted with love and care, perfect for everyday wear.
-  Updated: 2026-04-20T16:26:55Z
+  Updated: 2026-04-29T12:25:12Z
   Vendor: Auree Jewellery
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/Brooklyn-Aqua-Chalcedony-Gold-Stud-Earrings_915a6fd9-824f-4208-8b0a-9c6c952170a4.jpg?v=1749131364
   Price: £120.00 GBP
 - [Stud Earrings, Blue Topaz Stud Earrings, 18ct Gold on Silver, Women's Jewellery - Auree Jewellery](https://www.aureejewellery.com/products/brooklyn-gold-blue-topaz-cushion-stud-earrings): Shop our Brooklyn Gold Blue Topaz Cushion Stud Earrings from Auree Jewellery. Handcrafted with love and care, these earrings are the perfect addition to your jewellery collection.
-  Updated: 2026-04-20T16:26:55Z
+  Updated: 2026-04-30T13:16:33Z
   Vendor: Auree Jewellery
   Product Type: Earrings
   Availability: Available
@@ -1097,7 +1015,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/files/pixelcut-export_43.jpg?v=1770220876
   Price: £95.00 GBP
 - [Blue Topaz Necklace, 18ct Gold on Silver, Gemstone Necklace, Gold Jewellery, Women's Jewellery - Auree Jewellery](https://www.aureejewellery.com/products/brooklyn-gold-vermeil-blue-topaz-necklace): Shop our stunning Brooklyn Gold Vermeil Blue Topaz Necklace. Handcrafted with love, this necklace is the perfect accessory for any occasion. Free UK delivery available.
-  Updated: 2026-04-20T16:26:56Z
+  Updated: 2026-04-30T13:16:33Z
   Vendor: Auree Jewellery
   Product Type: Necklaces & Pendants
   Availability: Available
@@ -1111,26 +1029,26 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/Brooklyn-Aqua-Chalcedony-Gold-Necklace_ae3895e8-a96c-4b54-b26e-7a6d21033ab5.jpg?v=1749131353
   Price: £175.00 GBP
 - [Brown and Pink Leather Watch Strap | Silver Buckle | Auree Jewellery](https://www.aureejewellery.com/products/montmartre-brown-pink-leather-watch-strap-silver): Ladies Two-tone Brown & Hot Pink Leather Watch Strap with Silver Buckle. Beautifully Gift-Wrapped with Free UK Delivery & Returns.
-  Updated: 2026-04-20T16:26:58Z
+  Updated: 2026-04-30T12:46:38Z
   Vendor: Auree Jewellery
   Product Type: Watch Straps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/watches-montmartre-chestnut-hot-pink-leather-watch-strap-with-silver-buckle_d3499fdb-1838-49e2-8173-e4007b45b29a.jpg?v=1749131352
-  Price: £30.00 GBP
+  Price: £40.00 GBP
 - [Brown and Orange Leather Watch Strap | Silver Buckle | Auree Jewellery](https://www.aureejewellery.com/products/montmartre-brown-orange-leather-watch-strap-silver): Ladies Two-tone Brown & Orange Leather Watch Strap with Silver Buckle. Beautifully Gift-Wrapped with Free UK Delivery & Returns.
-  Updated: 2026-04-20T16:26:58Z
+  Updated: 2026-04-30T12:46:38Z
   Vendor: Auree Jewellery
   Product Type: Watch Straps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/Montmartre-Chestnut-Orange-Silver-Buckle-Watch-Strap_28e51af0-53ec-476b-b0bc-7a8e70083d51.jpg?v=1749131346
-  Price: £30.00 GBP
+  Price: £40.00 GBP
 - [Brown and Orange Leather Watch Strap | Rose Gold | Auree Jewellery](https://www.aureejewellery.com/products/montmartre-brown-orange-leather-watch-strap-rose): Ladies Two-tone Brown & Orange Leather Watch Strap with Rose Gold Buckle. Beautifully Gift-Wrapped with Free UK Delivery & Returns.
-  Updated: 2026-04-20T16:26:59Z
+  Updated: 2026-04-30T12:46:38Z
   Vendor: Auree Jewellery
   Product Type: Watch Straps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/Montmartre-Chestnut-Orange-Rose-Gold-Buckle-Watch-Strap_7987e0f7-9ad0-428b-a18b-84a8c69024e9.jpg?v=1749131344
-  Price: £30.00 GBP
+  Price: £40.00 GBP
 - [Moonstone Stud Earrings | Gold Vermeil | Auree Jewellery](https://www.aureejewellery.com/products/savanne-gold-vermeil-moonstone-stud-earrings): Pretty round Moonstone Stud Earrings set in polished 22ct Gold Vermeil. Beautifully Gift-Wrapped with Free UK Delivery and Returns.
   Updated: 2026-04-20T16:26:59Z
   Vendor: Auree Jewellery
@@ -1146,7 +1064,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/files/fuschia_savanne_gold_studs.jpg?v=1770640595
   Price: £70.00 GBP
 - [Labradorite Stud Earrings | Gold Vermeil | Auree Jewellery](https://www.aureejewellery.com/products/savanne-gold-vermeil-labradorite-stud-earrings): Pretty round Labradorite Stud Earrings set in polished 22ct Gold Vermeil. Beautifully Gift-Wrapped with Free UK Delivery and Returns.
-  Updated: 2026-04-22T10:18:52Z
+  Updated: 2026-04-30T13:16:36Z
   Vendor: Auree Jewellery
   Product Type: Earrings
   Availability: Available
@@ -1256,7 +1174,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/Manhattan-Blue-Topaz-Gemstone-Hoop-Earrings_4e5ca86e-333a-4258-b4c0-054e2820cc00.jpg?v=1749131303
   Price: £425.00 GBP
 - [Aqua Chalcedony Stud Earrings | Sterling Silver | Auree Jewellery](https://www.aureejewellery.com/products/savanne-silver-aqua-chalcedony-stud-earrings): Pretty Aqua Chalcedony Stud Earrings set in Sterling Silver. Beautifully gift-wrapped with Free UK delivery and Returns.
-  Updated: 2026-04-20T16:27:06Z
+  Updated: 2026-04-30T13:16:36Z
   Vendor: Auree Jewellery
   Product Type: Earrings
   Availability: Available
@@ -1303,7 +1221,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
     Availability: Available
     Price: £6,395.00 GBP
 - [Multi Gemstone Bracelet | 18ct Gold Vermeil | Auree Jewellery](https://www.aureejewellery.com/products/antibes-multi-gemtsone-gold-vermeil-bracelet): A pretty multi Gemstone Bracelet set in 18ct Gold Vermeil. Beautifully gift-wrapped with Free UK delivery and Returns.
-  Updated: 2026-04-20T16:27:08Z
+  Updated: 2026-04-24T12:41:17Z
   Vendor: Auree Jewellery
   Product Type: Bracelets & Bangles
   Availability: Available
@@ -1356,7 +1274,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/files/4_bf44bd97-e50b-4a92-b181-ba5457c36a2f.jpg?v=1752491145
   Price: £325.00 GBP
 - [Interlocking Circle Necklace | Yellow Gold Vermeil | Auree Jewellery](https://www.aureejewellery.com/products/kelso-yellow-gold-vermeil-necklace): A very pretty Yellow Gold Vermeil Interlocking Circle Necklace. Beautifully gift-wrapped with free UK delivery and returns.
-  Updated: 2026-04-22T09:13:17Z
+  Updated: 2026-04-29T16:45:31Z
   Vendor: Auree Jewellery
   Product Type: Necklaces & Pendants
   Availability: Available
@@ -1370,19 +1288,26 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/Bellevue_9ct_Yellow_Gold_Footprint_Cufflinks-1_e7481e3a-4d62-443a-bfc6-82db5e4c4346.jpg?v=1749131266
   Price: £1,650.00 GBP
 - [Triple Yellow Gold Hoop Earrings |Trinity Earrings |  Auree Jewellery](https://www.aureejewellery.com/products/knightsbridge-gold-triple-russian-wedding-earrings): The perfect pair of Triple Yellow Gold Hoop Earrings. Beautifully Gift-wrapped with Free UK Delivery and Returns.
-  Updated: 2026-04-20T16:27:11Z
+  Updated: 2026-04-27T21:30:57Z
   Vendor: Auree Jewellery
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/Knightsbridge-Yellow-Gold-Vermeil-Russian-Wedding-Hoop-Earrings_102e8443-9831-4b32-9eef-a8c9acc38225.jpg?v=1749131264
   Price: £325.00 GBP
 - [Gloucester Freshwater White Pearl and Sterling Silver Bracelet | Auree Jewellery](https://www.aureejewellery.com/products/gloucester-white-freshwater-pearl-silver-bracelet): White Freshwater Pearl & Sterling Silver Gloucester Bracelet. Pretty Silver and Pearl Jewellery available with Free Delivery and Returns.
-  Updated: 2026-04-20T16:27:12Z
+  Updated: 2026-05-01T16:48:35Z
   Vendor: Auree Jewellery
   Product Type: Bracelets & Bangles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/Gloucester-White-Freshwater-Pearl-Sterling-Silver-Bracelet_9e570087-89dc-4277-95a9-97d24510df4c.jpg?v=1749131261
   Price: £65.00 GBP
+- [Glebe Double White Pearl and Gold Vermeil Drop Earrings | Auree Jewellery](https://www.aureejewellery.com/products/glebe-double-white-pearl-gold-drop-earrings): Double White Pearl & Gold Vermeil Glebe Drop Earrings. Pretty Gold and Pearl Jewellery available with Free Delivery and Returns.
+  Updated: 2026-04-27T11:21:33Z
+  Vendor: Auree Jewellery
+  Product Type: Earrings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/Glebe-Pearl-Yellow-Gold-Vermeil-Earrings_bdf8a89f-f8dd-40b6-a9b8-f947d5e73c85.jpg?v=1749131259
+  Price: £125.00 GBP
 - [Glebe Double White Pearl and Sterling Silver Drop Earrings | Auree Jewellery](https://www.aureejewellery.com/products/glebe-double-white-pearl-silver-drop-earrings): Double White Pearl & Sterling Silver Glebe Drop Earrings. Pretty Silver and Pearl Jewellery available with Free Delivery and Returns.
   Updated: 2026-04-20T16:27:12Z
   Vendor: Auree Jewellery
@@ -1391,7 +1316,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/Glebe-Pearl-Silver-Earrings_5c66b1e3-e898-4e41-9fc2-796cc4d1b99e.jpg?v=1749131258
   Price: £125.00 GBP
 - [Freshwater Pearl Necklace | Gold Plated | Auree Jewellery](https://www.aureejewellery.com/products/courtfield-white-pearl-gold-necklace): Freshwater Pearl & 18ct Gold Plated Silver Necklace. Beautifully Gift-Wrapped with Free UK Delivery and Returns.
-  Updated: 2026-04-21T11:05:38Z
+  Updated: 2026-04-28T05:20:56Z
   Vendor: Auree Jewellery
   Product Type: Necklaces & Pendants
   Availability: Available
@@ -1458,7 +1383,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
     Availability: Available
     Price: £945.00 GBP
 - [Russian Wedding Ring Pendant, Sterling Silver | Trinity Necklace | Auree Jewellery](https://www.aureejewellery.com/products/knightsbridge-silver-russian-wedding-ring-pendant): Sterling Silver Russian Wedding Ring Pendant. Beautifully gift-wrapped with Free UK Delivery and Returns.
-  Updated: 2026-04-20T16:27:17Z
+  Updated: 2026-04-30T13:18:29Z
   Vendor: Auree Jewellery
   Product Type: Necklaces & Pendants
   Availability: Available
@@ -1473,7 +1398,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
     Availability: Available
     Price: £265.00 GBP
 - [Gold Plated Pave Cubic Zirconia Hoop Earrings | Auree Jewellery](https://www.aureejewellery.com/products/dovehouse-gold-cubic-zirconia-hoop-earrings): Beautiful small huggie style Gold Hoop Earrings in 18ct Yellow Gold on Sterling Silver set with Cubic Zirconia stones. Free delivery & a five year guarantee.
-  Updated: 2026-04-20T16:27:17Z
+  Updated: 2026-04-30T11:29:17Z
   Vendor: Auree Jewellery
   Product Type: Earrings
   Availability: Available
@@ -1494,20 +1419,20 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/Gloucester-Silver-Pearl-Pendant_59034b0d-562e-4a59-bd3f-953dbd59d0e0.jpg?v=1749131234
   Price: £85.00 GBP
 - [Fine Trace Chain, Sterling Silver, Choice of Chain Lengths, Women's Jewellery - Auree Jewellery](https://www.aureejewellery.com/products/marylebone-adjustable-silver-fine-chain): Our Marylebone Adjustable Fine Sterling Silver Trace Chains are completed with a bolt clasp. Made in Italy. Beautifully gift wrapped with Free UK Delivery and Returns.
-  Updated: 2026-04-20T16:27:19Z
+  Updated: 2026-04-30T13:18:23Z
   Vendor: Auree Jewellery
   Product Type: Chains
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/Marylebone-Sterling-Silver-Chain_fe2d4784-e95e-443e-b624-3b1a24fbbea2.jpg?v=1749131231
   - [16" | 41cm](https://www.aureejewellery.com/products/marylebone-adjustable-silver-fine-chain?variant=42448247193738)
     Availability: Available
-    Price: £40.00 GBP
+    Price: £35.00 GBP
   - [16-18" | 41-45cm](https://www.aureejewellery.com/products/marylebone-adjustable-silver-fine-chain?variant=42389522448522)
     Availability: Available
-    Price: £45.00 GBP
+    Price: £40.00 GBP
   - [18-20" | 45-51cm](https://www.aureejewellery.com/products/marylebone-adjustable-silver-fine-chain?variant=42389522481290)
     Availability: Available
-    Price: £50.00 GBP
+    Price: £45.00 GBP
 - [Heavy Silver Trace Chain | Sterling Silver | Auree Jewellery](https://www.aureejewellery.com/products/fenchurch-sterling-silver-heavy-trace-chain): Our Fenchurch Sterling Silver Heavy Trace Chain is completed with a bolt clasp. Made in Italy. Beautifully gift wrapped with Free UK Delivery and Returns.
   Updated: 2026-04-20T16:27:19Z
   Vendor: Auree Jewellery
@@ -1587,14 +1512,14 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
     Availability: Available
     Price: £155.00 GBP
 - [Freshwater Pearl Stud Earrings | Gold Plated | Auree Jewellery](https://www.aureejewellery.com/products/seville-white-pearl-gold-vermeil-stud-earrings): Freshwater Pearl & 18ct Gold Plated Silver Stud Earrings. They will last you a lifetime. Beautifully gift-wrapped with Free UK Delivery and Returns.
-  Updated: 2026-04-21T10:43:07Z
+  Updated: 2026-05-01T14:27:26Z
   Vendor: Auree Jewellery
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/Thurloe-9ct-gold-pearl-stud-earrings_57eb7961-084e-4b75-90b7-296c9b51f997.jpg?v=1749131218
   Price: £65.00 GBP
 - [White Freshwater Pearl Stud Earrings | Gold Plated | Auree Jewellery](https://www.aureejewellery.com/products/molina-white-pearl-gold-vermeil-stud-earrings): Pearl &  18ct Gold Plated on Silver Stud Earrings. The perfect size that you will have forever. Beautifully gift-wrapped with Free UK Delivery and Returns.
-  Updated: 2026-04-20T16:27:21Z
+  Updated: 2026-05-01T15:57:26Z
   Vendor: Auree Jewellery
   Product Type: Earrings
   Availability: Available
@@ -1616,7 +1541,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
     Availability: Available
     Price: £145.00 GBP
 - [Shell Necklace, Cowrie Shell Necklace, Sterling Silver, Women's Jewellery - Auree Jewellery](https://www.aureejewellery.com/products/moka-sterling-silver-shell-pendant): Cowrie Shell Pendant in solid Sterling Silver on a choice of pretty Silver chains. Beautifully gift-wrapped with Free UK Delivery and Returns.
-  Updated: 2026-04-20T16:27:22Z
+  Updated: 2026-04-29T13:45:14Z
   Vendor: Auree Jewellery
   Product Type: Necklaces & Pendants
   Availability: Available
@@ -1634,7 +1559,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
     Availability: Available
     Price: £150.00 GBP
 - [9ct Three Colour Gold Knot Stud Earrings | 9ct Yellow, Rose and White Gold | Auree Jewellery](https://www.aureejewellery.com/products/walton-9ct-yellow-rose-white-gold-knot-earrings): Solid 9ct Three Colour Gold Knot Earrings. Classic everyday Gold earrings. Beautifully gift-wrapped with Free UK Delivery and Returns.
-  Updated: 2026-04-22T09:13:18Z
+  Updated: 2026-04-29T16:45:32Z
   Vendor: Auree Jewellery
   Product Type: Earrings
   Availability: Available
@@ -1702,7 +1627,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
     Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/Bali-December-Turquoise-Necklace_26145392-7e4c-42d8-900a-7c62af764373.jpg?v=1775820081
     Price: £495.00 GBP
 - [Barbican Beaded Adjustable Silver Chain - Auree Jewellery](https://www.aureejewellery.com/products/barbican-beaded-adjustable-silver-chain): Shop our Barbican Beaded Adjustable Silver Chain from Auree Jewellery. Handmade with love, this silver chain is perfect for any occasion. Order now!
-  Updated: 2026-04-20T16:27:25Z
+  Updated: 2026-04-29T13:45:16Z
   Vendor: Auree Jewellery
   Product Type: Chains
   Availability: Available
@@ -1766,14 +1691,14 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/Barcelona-Chrysoprase-May-Birthstone-Gold-Necklace_db18ef2d-a07d-4d02-bb57-1f508d7351d2.jpg?v=1758853895
   Price: £295.00 GBP
 - [Barcelona June Birthstone Necklace Moonstone | Auree Jewellery](https://www.aureejewellery.com/products/barcelona-june-birthstone-necklace-moonstone): Discover the Barcelona June Birthstone Necklace featuring a beautiful Moonstone. Handcrafted with love by Auree Jewellery. Shop now!
-  Updated: 2026-04-20T16:27:29Z
+  Updated: 2026-04-30T11:37:03Z
   Vendor: Auree Jewellery
   Product Type: Necklaces & Pendants
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/Barcelona-Moonstone-June-Birthstone-Gold-Necklace_1e290fbf-658d-4711-b8d5-7622ba4a2e24.jpg?v=1758853895
   Price: £295.00 GBP
 - [July Birthstone Necklace | Gold and Carnelian | Auree Jewellery](https://www.aureejewellery.com/products/barcelona-july-birthstone-necklace-carnelian): Barcelona July Birthstone Necklace, Carnelian, Auree Jewellery - Discover our beautiful Barcelona July birthstone necklace featuring Carnelian. Shop now for the perfect gift at Auree Jewellery.
-  Updated: 2026-04-20T16:27:29Z
+  Updated: 2026-04-30T11:38:00Z
   Vendor: Auree Jewellery
   Product Type: Necklaces & Pendants
   Availability: Available
@@ -1840,7 +1765,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/Silver-Chennai-Multi-Gemstone-Bracelet_ae6a646c-03e8-49e8-b6de-4baacfeece29.jpg?v=1749131156
   Price: £195.00 GBP
 - [Amazonite Stud Earrings | Sterling Silver |  Auree Jewellery](https://www.aureejewellery.com/products/savanne-sterling-silver-amazonite-stud-earrings): Pretty Amazonite Stud Earrings set in Sterling Silver. Beautifully Gift-Wrapped with Free UK Delivery & Returns.
-  Updated: 2026-04-21T10:43:37Z
+  Updated: 2026-04-27T13:47:15Z
   Vendor: Auree Jewellery
   Product Type: Earrings
   Availability: Available
@@ -1854,7 +1779,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/Iseo-Gold-Pink-Chalcedony-Earrings_cd7cae95-7e03-42a6-ac66-0d506fd231e5.jpg?v=1749131150
   Price: £165.00 GBP
 - [9ct Yellow Gold Initial Necklace | Personalised Jewellery | Auree](https://www.aureejewellery.com/products/9ct-yellow-gold-initial-necklace): Personalised solid 9ct Gold Disc Initial Pendants engraved in London. Jewellery you will keep and treasure forever. Beautifully Gift-Wrapped & Free UK Delivery.
-  Updated: 2026-04-20T16:27:34Z
+  Updated: 2026-04-29T16:45:37Z
   Vendor: Auree Jewellery
   Product Type: Necklaces & Pendants
   Availability: Available
@@ -1878,14 +1803,14 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
     Availability: Available
     Price: £995.00 GBP
 - [Aqua Chalcedony Stud Earrings | Gold Plated | Auree Jewellery](https://www.aureejewellery.com/products/savanne-gold-vermeil-aqua-chalcedony-stud-earrings): Pretty round Aqua Chalcedony Stud Earrings set in polished 18ct Gold Plated Silver. Beautifully Gift-Wrapped with Free UK Delivery & Returns.
-  Updated: 2026-04-20T16:27:34Z
+  Updated: 2026-04-30T12:08:36Z
   Vendor: Auree Jewellery
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/savanne-gold-vermeil-aqua-chalcedony-stud-earrings_3bf74c7b-d85e-43ed-8766-b5e5392f2e7c.jpg?v=1749131142
   Price: £70.00 GBP
 - [Sterling Silver Initial Necklace | Engraved Pendant | Auree Jewellery](https://www.aureejewellery.com/products/sterling-silver-personalised-initial-necklace): Personalised Sterling Silver Engraved Initial Necklace. Hand engraved in London. Beautifully Gift-Wrapped with Free UK Delivery & Returns.
-  Updated: 2026-04-21T10:41:36Z
+  Updated: 2026-04-30T23:16:56Z
   Vendor: Auree Jewellery
   Product Type: Necklaces & Pendants
   Availability: Available
@@ -1909,7 +1834,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
     Availability: Available
     Price: £145.00 GBP
 - [Interchangeable Gemstone Pendant Loop | Gold Vermeil | Auree Jewellery](https://www.aureejewellery.com/products/manhattan-gold-vermeil-pendant-loop): Manhattan Interchangeable Pendant Loop to fit any pendant to a chain. Beautifully gift-wrapped with Free UK Delivery and Returns.
-  Updated: 2026-04-21T09:38:17Z
+  Updated: 2026-04-30T13:32:57Z
   Vendor: Auree Jewellery
   Product Type: Necklaces & Pendants
   Availability: Available
@@ -1924,7 +1849,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
     Availability: Available
     Price: £175.00 GBP
 - [Gold Spinner Necklace | I Love You | Auree Jewellery](https://www.aureejewellery.com/products/verona-yellow-gold-spinning-i-love-you-pendant): Spin our Gold Spinner Necklace to reveal the message "I Love You" - the perfect romantic gift. Beautifully Gift-Wrapped with Free UK Delivery & Returns.
-  Updated: 2026-04-21T11:48:07Z
+  Updated: 2026-04-30T13:32:58Z
   Vendor: Auree Jewellery
   Product Type: Necklaces & Pendants
   Availability: Available
@@ -1939,7 +1864,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
     Availability: Available
     Price: £220.00 GBP
 - [Sterling Silver Spinner Necklace | I Love You | Auree Jewellery](https://www.aureejewellery.com/products/verona-silver-spinning-i-love-you-pendant): Spin our Sterling Silver Spinner Necklace to reveal the message "I Love You" - the perfect romantic gift. Beautifully Gift-Wrapped with Free UK Delivery & Returns.
-  Updated: 2026-04-20T16:27:37Z
+  Updated: 2026-04-29T13:45:20Z
   Vendor: Auree Jewellery
   Product Type: Necklaces & Pendants
   Availability: Available
@@ -2590,57 +2515,69 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   - [Large | 19mm](https://www.aureejewellery.com/products/optional-pendant-3?variant=34188954370186)
     Availability: Available
     Price: £575.00 GBP
-[List Continued](https://www.aureejewellery.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo1MTc0MDYyNDQ4Nzc4LCJsYXN0X3ZhbHVlIjoiNTE3NDA2MjQ0ODc3OCJ9)
+- [Cufflink 1 Additional Engraving](https://www.aureejewellery.com/products/cufflink-1-additional-engraving): ***This is a hidden product used with the Product Options application, Please do not delete this product.***
+  Updated: 2026-04-20T17:54:26Z
+  Vendor: Auree Jewellery
+  Product Type: OPTIONS_HIDDEN_PRODUCT
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0337/9609/6138/products/options-hidden-product-cufflink-1-additional-engraving-1.jpg?v=1749131065
+  - [Initials / Date / Name (machine engraved)](https://www.aureejewellery.com/products/cufflink-1-additional-engraving?variant=34191019671690)
+    Availability: Available
+    Price: £50.00 GBP
+  - [Initials / Date / Name (hand engraved)](https://www.aureejewellery.com/products/cufflink-1-additional-engraving?variant=34191019802762)
+    Availability: Available
+    Price: £75.00 GBP
+[List Continued](https://www.aureejewellery.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo1MTc0MzY2MzcxOTc4LCJsYXN0X3ZhbHVlIjoiNTE3NDM2NjM3MTk3OCJ9)
 
 ## Collections
 
 - [Earrings for Women | Studs, Hoops, Drops | Gold & Silver | Auree](https://www.aureejewellery.com/collections/earrings): Shop our collection of semi-precious earrings at Auree Jewellery. Find the perfect pair to elevate your look. Shop now
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 557
 - [Bracelets & Bangles | Gold & Silver | Auree Jewellery](https://www.aureejewellery.com/collections/bracelets-bangles): Shop handcrafted gold and silver bracelets and bangles for women at Auree Jewellery. Timeless designs with gemstones, chains, and personalised options for every occasion.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-04-30T13:37:52Z
   Total Products: 291
 - [Elegant Chains for Women | Auree Jewellery](https://www.aureejewellery.com/collections/chains): Discover our stunning collection of chains for women at Auree Jewellery. From delicate to statement pieces, find the perfect chain for any occasion.
-  Updated: 2026-04-20T16:23:12Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 45
 - [Shop Solid Gold & Gemstone Rings | Auree Jewellery](https://www.aureejewellery.com/collections/rings): Explore our stunning collection of designer rings at Auree Jewellery. Find the perfect ring for any occasion. Free UK Delivery & Free Returns.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-04-29T11:43:31Z
   Total Products: 99
 - [Dusk till Dawn Collection | Auree Jewellery](https://www.aureejewellery.com/collections/dusk-till-dawn): Discover our stunning Dusk till Dawn collection at Auree Jewellery. Shop our range of elegant and timeless pieces crafted with care and attention to detail.
-  Updated: 2026-04-20T16:23:12Z
+  Updated: 2026-04-29T11:41:32Z
   Total Products: 49
 - [Miss to Mrs Collection | Auree Jewellery](https://www.aureejewellery.com/collections/miss-to-mrs): Explore our Miss to Mrs Collection for the perfect bridal jewellery. Shop now for beautifully crafted pieces from Auree Jewellery.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 95
 - [Power Dressing Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/power-dressing): Explore our stunning Power Dressing jewellery collection at Auree Jewellery. Shop now for elegant pieces that will elevate your style.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 115
 - [Shop Stylish Travel Jewellery | Auree Jewellery](https://www.aureejewellery.com/collections/travel-jewellery): Discover our collection of stylish travel jewellery at Auree Jewellery. Perfect pieces for your next adventure. Shop now!
-  Updated: 2026-04-20T16:23:12Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 64
 - [Everyday Luxe Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/everyday-luxe): Discover our stunning Everyday Luxe jewellery collection. Shop now for elegant and timeless pieces at Auree Jewellery.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 150
 - [Londoners Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/the-londoners): Discover the Londoners jewellery collection at Auree Jewellery. Shop our stunning range of London-inspired pieces including necklaces, bracelets, and earrings.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T11:31:57Z
   Total Products: 135
 - [Auree Essentials Collection | Auree Jewellery](https://www.aureejewellery.com/collections/auree-essentials): Explore the stunning Auree Essentials collection from Auree Jewellery. Discover timeless pieces crafted with exquisite detail and quality materials.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 156
 - [Gold Vermeil Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/gold-vermeil-jewellery): Discover our stunning Gold Vermeil Jewellery Collection crafted with elegance and style. Shop now for the perfect piece at Auree Jewellery.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 550
 - [Personalised Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/personalised-jewellery): Explore our stunning collection of personalised jewellery at Auree Jewellery. Shop now for unique and customizable pieces that reflect your style.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-04-30T13:32:29Z
   Total Products: 109
 - [Gifts Under £50 - Affordable Jewelry Collection | Auree Jewellery](https://www.aureejewellery.com/collections/gifts-under-50): Discover our collection of affordable jewelry gifts under £50 at Auree Jewellery. Shop now for beautiful and budget-friendly pieces for every occasion.
-  Updated: 2026-04-21T11:17:06Z
-  Total Products: 28
+  Updated: 2026-04-30T13:17:26Z
+  Total Products: 26
 - [Auree New Arrivals - Latest Collection at Auree Jewellery](https://www.aureejewellery.com/collections/auree-new-arrivals): Discover the latest Auree New Arrivals collection at Auree Jewellery. Shop now for beautifully crafted pieces in gold and silver.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 71
 - [Chalcedony Gemstone Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/chalcedony-gemstone-jewellery): Explore our stunning Chalcedony gemstone jewellery collection at Auree Jewellery. Shop now for beautifully crafted pieces with Chalcedony stones.
-  Updated: 2026-04-20T16:23:14Z
+  Updated: 2026-04-24T11:17:44Z
   Total Products: 70
 - [Rose Quartz Jewellery | Necklaces, Rings & Bracelets – Auree Jewellery](https://www.aureejewellery.com/collections/rose-quartz-jewellery): Discover our stunning Rose Quartz Jewellery Collection at Auree Jewellery. Shop now for beautifully crafted pieces that radiate love and compassion.
   Updated: 2026-04-20T16:23:14Z
@@ -2649,25 +2586,25 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Updated: 2026-04-20T16:23:14Z
   Total Products: 25
 - [Moonstone Jewellery | Necklaces, Bracelets & Rings – Auree Jewellery](https://www.aureejewellery.com/collections/moonstone-jewellery): Explore our stunning Moonstone Jewellery Collection at Auree Jewellery. Handcrafted pieces featuring beautiful moonstone gemstones. Shop now!
-  Updated: 2026-04-21T11:20:29Z
+  Updated: 2026-04-30T11:27:01Z
   Total Products: 59
 - [Mother's Day Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/mothers-day-jewellery): Discover the perfect Mother's Day gift with our stunning jewellery collection. Shop earrings, necklaces, and bracelets for a special gift she'll love.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 165
 - [East Meets West Collection - Auree Jewellery](https://www.aureejewellery.com/collections/east-meets-west): Discover our East Meets West collection, featuring a fusion of Eastern and Western influences. Shop now for elegant and unique jewellery pieces at Auree Jewellery.
-  Updated: 2026-04-20T16:23:14Z
+  Updated: 2026-04-30T11:27:01Z
   Total Products: 32
 - [Bestselling Jewellery | Gold & Silver Jewellery | Auree Jewellery](https://www.aureejewellery.com/collections/auree-bestsellers): Discover the best- jewellery pieces from Auree. Explore our top quality designs crafted with precision and style. Shop now.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 122
 - [Chrysoprase Jewellery Collection - Auree Jewellery](https://www.aureejewellery.com/collections/chrysoprase-jewellery): Discover our stunning Chrysoprase jewellery collection at Auree Jewellery. Handcrafted pieces featuring beautiful green Chrysoprase gemstones. Shop now!
-  Updated: 2026-04-20T16:23:15Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 38
 - [Shop Labradorite Jewellery - Unique Designs | Auree Jewellery](https://www.aureejewellery.com/collections/labradorite-jewellery): Explore our stunning collection of Labradorite jewellery, handcrafted with care. Find your perfect piece at Auree Jewellery today.
   Updated: 2026-04-20T16:23:15Z
   Total Products: 30
 - [Cubic Zirconia Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/cubic-zirconia-jewellery): Explore our stunning collection of cubic zirconia jewellery at Auree Jewellery. Shop now for affordable and elegant pieces.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-04-29T11:50:00Z
   Total Products: 101
 - [Stylish Cufflinks for Men | Auree Jewellery](https://www.aureejewellery.com/collections/cufflinks): Discover our collection of stylish cufflinks for men at Auree Jewellery. From classic designs to modern styles, find the perfect accessory for any occasion.
   Updated: 2026-04-20T16:23:15Z
@@ -2676,163 +2613,163 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Updated: 2026-04-20T16:23:17Z
   Total Products: 33
 - [Valentine's Day Jewellery Gifts | Auree Jewellery](https://www.aureejewellery.com/collections/valentines-day-be-my-lover): Explore our romantic Valentine's Day Be My Lover collection of beautiful jewellery pieces. Find the perfect gift for your loved one at Auree Jewellery.
-  Updated: 2026-04-20T16:23:17Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 87
 - [Easter Collection, jewellery, handcrafted, seasonal - Easter Collection | Auree Jewellery](https://www.aureejewellery.com/collections/the-easter-collection): Easter Collection, jewellery, handcrafted, seasonal - Discover the stunning Easter Collection from Auree Jewellery. Shop now for beautifully handcrafted pieces perfect for the season.
-  Updated: 2026-04-20T16:23:17Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 85
 - [Pearl Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/pearl-jewellery): Explore our stunning pearl jewellery collection at Auree Jewellery. Find the perfect piece to add elegance to any outfit. Shop now!
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 73
 - [Shop the Kelso Collection | Auree Jewellery](https://www.aureejewellery.com/collections/kelso-collection): Explore the exquisite Kelso Collection from Auree Jewellery. Discover timeless pieces crafted with precision and elegance. Shop now!
-  Updated: 2026-04-21T09:39:47Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 24
 - [Bali Birthstone Collection | Auree Jewellery](https://www.aureejewellery.com/collections/bali-birthstone-collection): Discover the stunning Bali Birthstone Collection by Auree Jewellery. Shop our beautiful range of birthstone jewellery inspired by the beauty of Bali.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-04-23T11:17:39Z
   Total Products: 45
 - [Birthstone Jewellery | Personalised Gifts | Auree Jewellery](https://www.aureejewellery.com/collections/birthstone-jewellery-gifts): Discover handcrafted birthstone jewellery by Auree. Meaningful, personalised pieces in Gold Vermeil & Silver - perfect for birthdays, gifts or everyday wear.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-04-30T11:27:01Z
   Total Products: 60
 - [Russian Wedding Rings and Bangles | 9ct & 18ct Gold | Auree Jewellery](https://www.aureejewellery.com/collections/russian-wedding-ring-and-bangles): Shop our classic Russian Wedding Rings & Bangles. Featuring interlocking bands crafted in 9ct or 18ct gold. Expertly handmade in London. Engraving available.
   Updated: 2026-04-20T16:23:18Z
   Total Products: 27
 - [Stylish Watches for Women - Auree Jewellery](https://www.aureejewellery.com/collections/watches): Discover our collection of stylish watches for women at Auree Jewellery. Shop now for the perfect timepiece to complement your style.
-  Updated: 2026-04-20T16:23:18Z
+  Updated: 2026-04-30T12:46:39Z
   Total Products: 40
 - [Gifts Under £100 | Affordable Jewellery Gifts | Auree Jewellery](https://www.aureejewellery.com/collections/gifts-under-100): Discover elegant jewellery gifts under £100 at Auree Jewellery, from personalised bracelets and gemstone necklaces to silver and gold vermeil earrings, perfect for every occasion.
-  Updated: 2026-04-22T11:15:51Z
-  Total Products: 104
+  Updated: 2026-05-01T11:21:15Z
+  Total Products: 100
 - [Christmas Gift Guide | Auree Jewellery](https://www.aureejewellery.com/collections/christmas-gift-guide): Discover the perfect gifts for your loved ones this Christmas with Auree Jewellery's curated gift guide. Shop now for beautiful jewellery pieces.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 135
 - [Sterling Silver Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/sterling-silver-jewellery): Explore our stunning collection of sterling silver jewellery, handcrafted with care and attention to detail. Shop now at Auree Jewellery.
-  Updated: 2026-04-22T16:20:20Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 326
 - [Rose Gold Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/rose-gold): Explore our stunning Rose Gold jewellery collection at Auree Jewellery. Shop now for beautiful pieces crafted with love and attention to detail.
-  Updated: 2026-04-20T16:23:18Z
+  Updated: 2026-04-30T12:46:39Z
   Total Products: 29
 - [Amethyst Jewellery | Gold & Silver Birthstone Pieces – Auree Jewellery](https://www.aureejewellery.com/collections/amethyst-february-birthstone-jewellery): Explore handcrafted Amethyst Jewellery in gold and silver. Elegant February birthstone rings, necklaces & earrings with vibrant purple gemstones at Auree.
-  Updated: 2026-04-22T16:20:21Z
+  Updated: 2026-04-25T11:19:40Z
   Total Products: 34
 - [Blue Topaz Jewellery | Necklaces, Rings & Earrings – Auree Jewellery](https://www.aureejewellery.com/collections/blue-topaz-jewellery): Browse our Blue Topaz jewellery collection at Auree – stunning necklaces, rings and earrings set in solid gold, sterling silver and gold vermeil. Free delivery.
-  Updated: 2026-04-20T16:23:19Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 59
 - [Manhattan Collection | Auree Jewellery](https://www.aureejewellery.com/collections/the-manhattan-collection): Explore the luxurious Manhattan Collection by Auree Jewellery. Discover exquisite pieces inspired by the glamour of New York City. Shop now!
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 63
 - [Press Picks & Editors Favourites - Auree Jewellery](https://www.aureejewellery.com/collections/press-picks-editors-favourites): Explore the latest press picks and editors favourites at Auree Jewellery. Discover unique pieces that are perfect for any occasion.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-04-30T13:25:03Z
   Total Products: 49
 - [Solid Gold Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/solid-gold-jewellery): Explore our stunning collection of solid gold jewellery at Auree Jewellery. From elegant necklaces to stylish rings, find your perfect piece today.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 129
 - [La Belle Mare Collection - Auree Jewellery](https://www.aureejewellery.com/collections/la-belle-mare): Explore our stunning La Belle Mare collection, inspired by the beauty of the ocean. Shop now for elegant and timeless jewellery pieces.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-04-30T11:27:01Z
   Total Products: 32
 - [The Brooklyn Collection | Auree Jewellery](https://www.aureejewellery.com/collections/the-brooklyn): Explore the stunning Brooklyn Collection from Auree Jewellery. Handcrafted pieces inspired by the vibrant energy of Brooklyn. Shop now!
-  Updated: 2026-04-20T16:23:19Z
+  Updated: 2026-04-30T09:38:56Z
   Total Products: 62
 - [Cote d'Azur Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/cote-d-azur): Explore our stunning Cote d'Azur jewellery collection inspired by the French Riviera. Handcrafted with love and passion. Shop now at Auree Jewellery.
   Updated: 2026-04-20T16:23:20Z
   Total Products: 10
 - [Shop The New Yorkers Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/the-new-yorkers): Discover the latest trends with The New Yorkers jewellery collection from Auree Jewellery. Find unique pieces inspired by the vibrant city of New York.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-04-30T13:25:14Z
   Total Products: 108
 - [Hoop Earrings | Auree Jewellery](https://www.aureejewellery.com/collections/hoop-earrings): Explore our stunning collection of hoop earrings at Auree Jewellery. Handcrafted with care and attention to detail. Shop now!
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-04-29T11:48:20Z
   Total Products: 135
 - [Amazonite Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/amazonite): Explore our stunning Amazonite jewellery collection at Auree Jewellery. Handcrafted pieces featuring beautiful Amazonite gemstones. Shop now!
-  Updated: 2026-04-21T11:20:31Z
+  Updated: 2026-04-30T11:27:01Z
   Total Products: 15
 - [Stud Earrings | Gold & Silver | Auree Jewellery](https://www.aureejewellery.com/collections/stud-earrings): Discover our stunning collection of stud earrings at Auree Jewellery. Handcrafted with love and attention to detail. Shop now!
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-05-01T11:32:14Z
   Total Products: 110
 - [Shop Exquisite Drop Earrings | Auree Jewellery](https://www.aureejewellery.com/collections/drop-earrings): Explore our stunning collection of drop earrings at Auree Jewellery. Handcrafted with love and care, these earrings are perfect for any occasion.
-  Updated: 2026-04-22T16:20:03Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 155
 - [Silver Bangles Collection - Auree Jewellery](https://www.aureejewellery.com/collections/silver-bangles): Explore our stunning collection of silver bangles at Auree Jewellery. Handcrafted with the finest materials, our bangles are perfect for any occasion. Shop now!
-  Updated: 2026-04-20T16:23:22Z
+  Updated: 2026-04-30T13:38:39Z
   Total Products: 11
 - [Lapis Lazuli Jewellery | Necklaces, Bracelets and Rings | Auree](https://www.aureejewellery.com/collections/lapis-lazuli): Explore our stunning collection of Lapis Lazuli jewellery at Auree Jewellery. Shop now for beautiful pieces crafted with this vibrant blue gemstone.
-  Updated: 2026-04-20T16:23:22Z
+  Updated: 2026-04-25T11:19:40Z
   Total Products: 27
 - [Birthday Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/birthday-jewellery): Explore our stunning Birthday Jewellery collection at Auree Jewellery. Find the perfect gift for your loved ones. Shop now!
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 97
 - [18th Birthday Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/18th-birthday-jewellery): Explore our stunning 18th birthday jewellery collection at Auree Jewellery. Find the perfect gift for this special milestone. Shop now!
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-04-30T13:38:41Z
   Total Products: 63
 - [Anniversary Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/anniversary-jewellery): Explore our stunning anniversary jewellery collection, featuring elegant designs crafted with love and care. Shop now at Auree Jewellery.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 84
 - [Shop 21st Birthday Jewellery | Auree Jewellery](https://www.aureejewellery.com/collections/21st-birthday-jewellery): Celebrate your 21st birthday with our stunning collection of jewellery. Find the perfect piece to mark this special occasion at Auree Jewellery.
-  Updated: 2026-04-22T11:17:36Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 163
 - [30th Birthday Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/30th-birthday-jewellery): Explore our stunning 30th birthday jewellery collection, perfect for celebrating this milestone. Shop now for beautiful pieces from Auree Jewellery.
-  Updated: 2026-04-21T11:18:32Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 110
 - [New Mother Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/new-mother-jewellery): Explore our stunning collection of new mother jewellery, perfect for celebrating this special time in your life. Shop now at Auree Jewellery.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 100
 - [Wedding Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/wedding-jewellery): Explore our stunning wedding jewellery collection featuring elegant designs crafted with love and care. Shop now at Auree Jewellery.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 97
 - [Bridesmaid Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/bridesmaid-jewellery): Explore our stunning bridesmaid jewellery collection at Auree Jewellery. Find the perfect pieces for your special day. Shop now!
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 107
 - [Bridal Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/bridal-jewellery): Discover our stunning bridal jewellery collection featuring elegant designs for your special day. Shop now at Auree Jewellery.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 106
 - [Christening jewellery, Confirmation jewellery, Auree Jewellery - Christening & Confirmation Jewellery | Auree Jewellery](https://www.aureejewellery.com/collections/christening-confirmation-jewellery): Christening jewellery, Confirmation jewellery, Auree Jewellery - Discover our beautiful collection of Christening & Confirmation jewellery at Auree Jewellery. Find the perfect gift for this special occasion.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 68
 - [40th Birthday Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/40th-birthday-jewellery): Explore our stunning 40th birthday jewellery collection, perfect for celebrating this milestone. Shop now at Auree Jewellery.
-  Updated: 2026-04-20T16:23:24Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 88
 - [50th Birthday Jewellery Collection - Auree Jewellery](https://www.aureejewellery.com/collections/50th-birthday-jewellery): Explore our exquisite 50th birthday jewellery collection, perfect for celebrating this milestone occasion. Shop now at Auree Jewellery.
-  Updated: 2026-04-21T11:18:38Z
+  Updated: 2026-04-30T13:25:37Z
   Total Products: 81
 - [60th Birthday Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/60th-birthday-jewellery): Celebrate a special milestone with our 60th birthday jewellery collection. From elegant necklaces to stunning bracelets, find the perfect gift at Auree Jewellery.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 80
 - [70th Birthday Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/70th-birthday-jewellery): Explore our stunning 70th birthday jewellery collection at Auree Jewellery. Find the perfect gift for your loved one's special milestone. Shop now!
-  Updated: 2026-04-21T11:20:34Z
+  Updated: 2026-04-30T11:27:01Z
   Total Products: 51
 - [80th Birthday Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/80th-birthday-jewellery): Explore our beautiful 80th birthday jewellery collection, perfect for celebrating this milestone occasion. Shop now for timeless pieces at Auree Jewellery.
-  Updated: 2026-04-21T11:18:40Z
+  Updated: 2026-04-30T11:27:01Z
   Total Products: 31
 - [Mallorca Collection - Auree Jewellery](https://www.aureejewellery.com/collections/mallorca): Explore our stunning Mallorca Collection featuring unique and elegant jewellery pieces inspired by the beauty of the Mediterranean. Shop now at Auree Jewellery.
-  Updated: 2026-04-20T16:23:26Z
+  Updated: 2026-04-28T11:24:07Z
   Total Products: 31
 - [Sicily Collection - Auree Jewellery](https://www.aureejewellery.com/collections/sicily-collection): Explore our stunning Sicily Collection of handcrafted jewellery inspired by the beauty of Italy. Shop now for the perfect piece!
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 145
 - [Barcelona Birthstone Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/barcelona-birthstone): Explore our stunning Barcelona Birthstone Jewellery Collection at Auree Jewellery. Find the perfect piece for yourself or as a gift. Shop now!
-  Updated: 2026-04-22T16:20:05Z
+  Updated: 2026-05-01T11:29:28Z
   Total Products: 126
 - [London Topaz Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/london-topaz-jewellery): Discover our stunning London Topaz Jewellery Collection at Auree Jewellery. Shop now for beautifully crafted pieces featuring exquisite topaz gemstones.
   Updated: 2026-04-20T16:23:27Z
   Total Products: 13
 - [Necklaces & Pendants | Gold & Silver | Auree Jewellery](https://www.aureejewellery.com/collections/necklaces-pendants): Discover our exquisite collection of handcrafted necklaces and pendants at Auree Jewellery. Shop now for timeless elegance.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 415
 - [Shop All - Auree Jewellery](https://www.aureejewellery.com/collections/shopping-feed-all): Explore our collection of jewellery and shop all items at Auree Jewellery. Find the perfect piece for yourself or as a gift. Free UK delivery on orders over £100.
-  Updated: 2026-04-22T16:20:07Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 1545
 - [Andalucia Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/andalucia-jewellery-collection): Discover our stunning Andalucia jewellery collection, inspired by the beauty of Southern Spain. Shop now for unique pieces that will make you stand out.
-  Updated: 2026-04-20T16:23:27Z
+  Updated: 2026-04-30T12:44:40Z
   Total Products: 52
 - [Bright Colourful Jewellery Collection - Auree Jewellery](https://www.aureejewellery.com/collections/bright-colourful-jewellery): Explore the vibrant and stunning Bright Colourful Jewellery collection from Auree Jewellery. Shop now for unique and colorful pieces that will brighten up your look.
-  Updated: 2026-04-20T16:23:28Z
+  Updated: 2026-04-30T11:40:32Z
   Total Products: 45
 - [Party Pieces Collection | Auree Jewellery](https://www.aureejewellery.com/collections/party-pieces): Explore the stunning Party Pieces collection from Auree Jewellery. Shop for elegant and chic pieces perfect for any occasion.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-04-29T11:42:00Z
   Total Products: 83
 - [Explore the stunning Britannia Collection by Auree Jewellery. Shop now for timeless and elegant pieces inspired by British heritage.](https://www.aureejewellery.com/collections/the-britannia): Britannia Collection -
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-04-29T11:40:43Z
   Total Products: 42
 - [Single and Stackable Earrings Collection | Auree Jewellery](https://www.aureejewellery.com/collections/single-and-stackable-earrings): Explore our collection of single and stackable earrings at Auree Jewellery. Find the perfect pair to make a statement. Shop now!
-  Updated: 2026-04-20T16:23:29Z
+  Updated: 2026-04-30T13:26:39Z
   Total Products: 16
 - [Rowfant Rainbow Charity Collection - Auree Jewellery](https://www.aureejewellery.com/collections/rowfant-rainbow-charity-collection): Discover the beautiful Rowfant Rainbow Charity Collection from Auree Jewellery. Shop now and support a great cause!
   Updated: 2026-04-20T16:23:29Z
@@ -2853,103 +2790,103 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Updated: 2026-04-20T16:23:30Z
   Total Products: 16
 - [Crystal Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/crystal-jewellery): Discover our stunning Crystal Jewellery Collection at Auree Jewellery. Shop now for beautifully crafted crystal pieces that will elevate your style.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-04-30T11:27:01Z
   Total Products: 26
 - [gifts under £200, affordable jewelry gifts, Auree Jewellery - Gifts Under £200 - Affordable Jewelry Gifts | Auree Jewellery](https://www.aureejewellery.com/collections/gifts-under-200): gifts under £200, affordable jewelry gifts, Auree Jewellery - Find the perfect gifts under £200 at Auree Jewellery. Explore our collection of affordable jewelry gifts for any occasion. Shop now!
-  Updated: 2026-04-22T16:20:01Z
-  Total Products: 579
+  Updated: 2026-05-01T14:00:04Z
+  Total Products: 580
 - [Gifts Under £300 | Auree Jewellery](https://www.aureejewellery.com/collections/gifts-under-300): Explore our collection of beautiful gifts under £300 at Auree Jewellery. From stunning necklaces to elegant bracelets, find the perfect gift for your loved ones.
-  Updated: 2026-04-22T11:17:38Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 195
 - [Luxury Gifts Over £300 - Auree Jewellery](https://www.aureejewellery.com/collections/gifts-over-300): Discover our exquisite collection of luxury gifts over £300 at Auree Jewellery. Find the perfect present for someone special.
-  Updated: 2026-04-22T11:15:51Z
-  Total Products: 272
+  Updated: 2026-05-01T11:23:23Z
+  Total Products: 275
 - [Jewellery Gifts Collection | Auree Jewellery](https://www.aureejewellery.com/collections/jewellery-gifts): Explore our stunning collection of jewellery gifts at Auree Jewellery. Shop now for the perfect gift for your loved ones.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 185
 - [Yellow Gold Vermeil, Sterling Silver & Gemstone Jewellery | Auree Jewellery](https://www.aureejewellery.com/collections/all): Explore our stunning collection of gemstone, gold and silver jewellery at Auree Jewellery. From earrings to necklaces, find your perfect piece today.
-  Updated: 2026-04-22T16:20:08Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 1802
 - [Olivera Collection - Auree Jewellery](https://www.aureejewellery.com/collections/olivera): Discover our stunning Olivera Collection at Auree Jewellery. Shop now for beautiful and unique pieces crafted with the finest materials.
   Updated: 2026-04-20T16:23:32Z
   Total Products: 12
 - [The Auree 2021 Catalogue - Auree Jewellery](https://www.aureejewellery.com/collections/the-auree-2021-catalogue): Discover the latest Auree Jewellery 2021 collection. Shop our elegant and timeless pieces handcrafted with care. Free UK delivery on orders over £100.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-04-29T11:40:43Z
   Total Products: 56
 - [Shop the exclusive Early Access jewellery collection at Auree Jewellery. Discover stunning pieces handcrafted with care and attention to detail.](https://www.aureejewellery.com/collections/early-access): early access jewellery -
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 135
 - [Auree Jewellery  Collection | Up to 50% Off](https://www.aureejewellery.com/collections/the-): Shop the Auree Jewellery  collection and enjoy up to 50% off on beautiful pieces. Discover stunning jewellery at unbeatable prices.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-04-30T13:23:27Z
   Total Products: 165
 - [Recycled Metals Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/recycled-metals): Discover our stunning recycled metals jewellery collection at Auree Jewellery. Shop now for sustainable and eco-friendly pieces.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 163
 - [Garnet Jewellery | Necklaces, Rings & Earrings – Auree Jewellery](https://www.aureejewellery.com/collections/garnet): Browse our bestselling Garnet jewellery collection. Discover necklaces, rings, and earrings in gold, silver, and Gold vermeil. Free UK Delivery & Returns
-  Updated: 2026-04-20T16:23:32Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 18
 - [Citrine Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/citrine): Explore our stunning Citrine jewellery collection at Auree Jewellery. Shop now for beautiful Citrine rings, earrings, necklaces, and bracelets.
-  Updated: 2026-04-20T16:23:33Z
+  Updated: 2026-04-30T09:38:56Z
   Total Products: 17
 - [Stylish Jewellery for Living - Auree Jewellery](https://www.aureejewellery.com/collections/jewellery-for-living): jewellery for living - Explore our collection of stylish jewellery designed for everyday living. Shop now for elegant and versatile pieces at Auree Jewellery.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 156
 - [Most Gifted Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/most-gifted): Explore the most gifted jewellery collection at Auree Jewellery. Find the perfect gift for your loved ones with our stunning pieces.
-  Updated: 2026-04-22T11:17:43Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 156
 - [Moissanite Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/moissanite): Discover our stunning Moissanite jewellery collection at Auree Jewellery. Shop now for beautifully crafted pieces that will make you shine.
   Updated: 2026-04-20T16:23:34Z
   Total Products: 17
 - [Auree Archive Collection | Auree Jewellery](https://www.aureejewellery.com/collections/auree-archive): Explore the Auree Archive collection of exquisite jewellery pieces. Discover timeless designs crafted with precision and passion at Auree Jewellery.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 45
 - [St Ives Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/st-ives): Explore our stunning St Ives jewellery collection at Auree Jewellery. Handcrafted with love and care, our pieces are perfect for any occasion.
   Updated: 2026-04-20T16:23:34Z
   Total Products: 8
 - [Milestone Birthdays Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/milestone-birthdays): Explore our stunning Milestone Birthdays jewellery collection, perfect for celebrating special occasions. Shop now at Auree Jewellery.
-  Updated: 2026-03-30T11:26:29Z
+  Updated: 2026-04-29T11:21:53Z
   Total Products: 3
 - [Wholesale Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/wholesale): Explore our stunning wholesale jewellery collection at Auree Jewellery. Find the perfect pieces for your retail store or boutique. Shop now!
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 315
 - [Star Jewellery Collection | Celestial Gold & Silver – Auree Jewellery](https://www.aureejewellery.com/collections/star-jewellery): Explore Auree’s handcrafted star jewellery in gold and silver. Delicate celestial necklaces, earrings & bracelets – perfect gifts with a little extra sparkle.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-04-23T11:17:39Z
   Total Products: 37
 - [Wholesale Jewellery Edit | Auree Jewellery](https://www.aureejewellery.com/collections/wholesale-edit): Explore our wholesale jewellery collection with Auree Jewellery. Shop our latest edit of wholesale jewellery pieces for your retail store. Free shipping available.
   Updated: 2026-02-06T12:01:30Z
   Total Products: 6
 - [Christmas Edit Collection | Auree Jewellery](https://www.aureejewellery.com/collections/christmas-edit): Discover the perfect Christmas gifts with Auree Jewellery's Christmas Edit collection. Shop now for exquisite jewellery pieces for your loved ones.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 156
 - [Most Gifted Jewellery | Bestselling Gifts – Auree Jewellery](https://www.aureejewellery.com/collections/most-gifted-jewellery): Shop Auree’s Most Gifted Jewellery collection. Discover bestselling gold and gemstone pieces, perfect for birthdays, anniversaries, and meaningful gifts.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 126
 - [Ortigia Collection | Auree Jewellery](https://www.aureejewellery.com/collections/ortigia): Discover the stunning Ortigia collection from Auree Jewellery. Handcrafted pieces inspired by the beauty of Ortigia Island in Sicily. Shop now!
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-04-28T11:24:07Z
   Total Products: 40
 - [Emerald Jewellery Collection - Shop the Latest Styles | Auree Jewellery](https://www.aureejewellery.com/collections/emerald): Discover our stunning emerald jewellery collection at Auree Jewellery. From rings to earrings, find the perfect piece to add to your collection.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-04-30T13:26:03Z
   Total Products: 11
 - [VCH Style Collection | Auree Jewellery](https://www.aureejewellery.com/collections/vch-style): Discover the latest VCH Style jewellery collection from Auree. Shop now for unique and stylish pieces that will elevate your look.
-  Updated: 2026-04-20T16:23:36Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 24
 - [Shop Liberty 2023 Collection | Auree Jewellery](https://www.aureejewellery.com/collections/liberty-2023): Discover the stunning Liberty 2023 collection at Auree Jewellery. Browse our exclusive range of beautifully crafted pieces for a touch of luxury.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 103
 - [Shop Precious Gemstones | Auree Jewellery](https://www.aureejewellery.com/collections/precious-gemstones): Explore our stunning collection of precious gemstone jewellery. Shop now for high-quality gemstone rings, earrings, necklaces, and more at Auree Jewellery.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-04-30T13:26:00Z
   Total Products: 40
 - [Moda Rosa Collection | Auree Jewellery](https://www.aureejewellery.com/collections/moda-rosa-collection): Explore the elegant Moda Rosa Collection by Auree Jewellery. Shop our exquisite range of pink gemstone jewellery. Free UK delivery on orders over £100.
-  Updated: 2026-04-20T11:17:22Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 37
 - [Pom London Collection | Auree Jewellery](https://www.aureejewellery.com/collections/pom-london): Discover the exquisite Pom London collection at Auree Jewellery. Browse our stunning range of handcrafted jewellery pieces inspired by the vibrant city of London.
-  Updated: 2026-04-18T11:19:01Z
+  Updated: 2026-04-26T11:27:48Z
   Total Products: 31
 - [Shop the Pom on the Wold Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/pom-on-the-wold): Discover our stunning Pom on the Wold Jewellery Collection at Auree Jewellery. Shop now for beautifully crafted pieces inspired by the Cotswolds.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-04-30T11:27:01Z
   Total Products: 36
 - [The Lone Piper Collection | Auree Jewellery](https://www.aureejewellery.com/collections/the-lone-piper): Explore our stunning The Lone Piper collection at Auree Jewellery. Find the perfect pieces for every occasion. Shop now!
-  Updated: 2026-04-17T12:43:33Z
+  Updated: 2026-04-30T11:27:01Z
   Total Products: 63
 - [Hamptons Collection | Auree Jewellery](https://www.aureejewellery.com/collections/hamptons): Explore our Hamptons collection at Auree Jewellery. Handcrafted pieces inspired by the luxury and elegance of the Hamptons. Shop now!
   Updated: 2026-04-20T16:23:37Z
@@ -2958,7 +2895,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Updated: 2026-04-21T11:17:06Z
   Total Products: 36
 - [Shop the Stunning Havana Collection at Auree Jewellery](https://www.aureejewellery.com/collections/havana-collection): Discover the beautiful Havana Collection at Auree Jewellery. Handcrafted pieces inspired by the vibrant colors of Havana. Shop now!
-  Updated: 2026-04-20T16:23:37Z
+  Updated: 2026-04-28T11:24:07Z
   Total Products: 9
 - [Fingerprint, Footprints, Handprints Jewellery Collection](https://www.aureejewellery.com/collections/fingerprint-footprints-handprints): Discover our exquisite collection of jewellery featuring unique fingerprint, footprints, and handprints designs. Perfect for capturing precious memories. Shop now at Auree Jewellery.
   Updated: 2026-04-20T16:23:37Z
@@ -2970,121 +2907,121 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Updated: 2026-04-20T16:23:37Z
   Total Products: 20
 - [Lime Wood Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/collections/lime-wood): Discover the Lime Wood jewellery collection from Auree Jewellery. Handcrafted pieces featuring stunning lime wood accents. Shop now!
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-04-30T13:32:29Z
   Total Products: 63
 - [Ragdale Hall Collection - Auree Jewellery](https://www.aureejewellery.com/collections/ragdale-hall): Explore the luxurious Ragdale Hall collection at Auree Jewellery. Discover stunning pieces inspired by the elegance of Ragdale Hall.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 143
 - [Liberty New Pieces - Auree Jewellery](https://www.aureejewellery.com/collections/liberty-new-pieces): Discover the latest Liberty New Pieces collection from Auree Jewellery. Shop now for elegant and timeless jewellery pieces.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 77
 - [Bamford Collection | Auree Jewellery](https://www.aureejewellery.com/collections/bamford): Explore the stunning Bamford collection by Auree Jewellery. Handcrafted pieces with timeless elegance. Shop now!
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 102
 - [Burford Collection - Auree Jewellery](https://www.aureejewellery.com/collections/burford): Explore the exquisite Burford collection from Auree Jewellery. Discover stunning pieces crafted with precision and elegance. Shop now!
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-04-30T13:26:17Z
   Total Products: 38
 - [Shop Liberty Xmas Jewelry Collection | Auree Jewellery](https://www.aureejewellery.com/collections/liberty-xmas): Liberty Xmas jewelry - Discover the perfect holiday gifts with Auree Jewellery's Liberty Xmas collection. Shop now for elegant and festive jewelry pieces.
-  Updated: 2026-04-20T11:17:22Z
+  Updated: 2026-04-30T11:38:08Z
   Total Products: 102
 - [California Collection - Gold Plated Gemstone Jewellery | Auree Jewellery](https://www.aureejewellery.com/collections/california-collection): Discover the California Collection by Auree Jewellery. Shop our unique handcrafted jewellery inspired by the golden state. Free UK delivery.
   Updated: 2026-04-20T16:23:38Z
   Total Products: 16
 - [Verona Heart Collection - Auree Jewellery](https://www.aureejewellery.com/collections/verona-heart-collection): Discover our stunning Verona Heart Collection, featuring beautifully crafted heart-shaped jewellery. Shop now and find the perfect gift for your loved one.
-  Updated: 2026-04-20T16:23:38Z
+  Updated: 2026-04-28T11:24:07Z
   Total Products: 26
 - [Chewton September 2023 Collection - Auree Jewellery](https://www.aureejewellery.com/collections/chewton-september-2023): Discover the Chewton September 2023 Collection by Auree Jewellery. Shop our latest designs and find the perfect piece for you. Explore now!
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-04-30T13:26:21Z
   Total Products: 60
 - [John Lewis Collection | Auree Jewellery](https://www.aureejewellery.com/collections/john-lewis): Explore the exquisite John Lewis collection by Auree Jewellery. Discover stunning pieces crafted with the finest materials for a touch of elegance.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 135
 - [Stylish Jewellery Cases for Organizing Your Accessories - Auree Jewellery](https://www.aureejewellery.com/collections/jewellery-cases): Discover our collection of stylish jewellery cases perfect for organizing your accessories. Shop now at Auree Jewellery!
-  Updated: 2026-04-20T16:23:38Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 2
 - [Auree Jewellery at Harvey Nichols - Luxury Jewellery Collection](https://www.aureejewellery.com/collections/harvey-nichols): Discover the exquisite Auree Jewellery collection at Harvey Nichols. Shop luxury necklaces, bracelets, and earrings online. Free UK delivery on orders over £100.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 99
 - [John Lewis Personalisation Jewelry Collection | Auree Jewellery](https://www.aureejewellery.com/collections/john-lewis-personalisation): Explore the exclusive John Lewis Personalisation jewelry collection at Auree Jewellery. Shop now for unique and personalized pieces.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-04-29T11:42:00Z
   Total Products: 36
 - [Founder's Favourites | Auree Jewellery](https://www.aureejewellery.com/collections/founders-favourites): Auree Founder, Amelia picks her favourite pieces for 2024. All with free delivery and gift wrapping available.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 76
 - [Auree Jewellery Team Picks Collection](https://www.aureejewellery.com/collections/team-picks): Discover our handpicked selection of jewellery pieces in the Auree Jewellery Team Picks Collection. Shop now for timeless elegance and stunning craftsmanship.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-04-30T13:26:26Z
   Total Products: 37
 - [Luxury Gifts Over £100 | Auree Jewellery](https://www.aureejewellery.com/collections/gifts-over-100): Find the perfect luxury gift priced over £100 at Auree Jewellery. Explore our stunning collection of fine jewellery and accessories. Shop now!
-  Updated: 2026-04-22T16:20:10Z
-  Total Products: 914
+  Updated: 2026-05-01T14:00:04Z
+  Total Products: 918
 - [Luxury Jewelry Packaging - Auree Jewellery](https://www.aureejewellery.com/collections/packaging): Discover our exquisite collection of luxury jewelry packaging at Auree Jewellery. Perfect for gifts or storing your precious items. Shop now!
   Updated: 2024-11-06T16:08:17Z
   Total Products: 12
 - [Liberty 2024 Collection | Auree Jewellery](https://www.aureejewellery.com/collections/liberty-2024): Explore the stunning Liberty 2024 collection by Auree Jewellery. Discover elegant and timeless pieces crafted with precision and passion.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 91
 - [Auree x @theeditbutton Jewellery Collection | Gold & Silver Earrings | Auree Jewellery](https://www.aureejewellery.com/collections/auree-x-the-edit-button): Explore the exclusive Auree x The Edit Button collection of timeless jewellery pieces. Shop now for elegant designs and exquisite craftsmanship.
-  Updated: 2026-04-21T23:20:08Z
+  Updated: 2026-04-30T13:25:57Z
   Total Products: 40
 - [Castle Howard Collection | Auree Jewellery](https://www.aureejewellery.com/collections/castle-howard-collection): Explore the elegant Castle Howard Collection from Auree Jewellery. Discover exquisite pieces inspired by the stunning architecture and history of Castle Howard.
-  Updated: 2026-04-20T16:23:40Z
+  Updated: 2026-04-30T11:27:01Z
   Total Products: 48
 - [Pinterest Shopping Collection | Auree Jewellery](https://www.aureejewellery.com/collections/pinterest-shopping): Discover our Pinterest Shopping Collection at Auree Jewellery. Browse our exquisite range of jewellery inspired by the latest trends on Pinterest.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 89
 - [SAMPLE  | Auree Jewellery](https://www.aureejewellery.com/collections/sample-): Unique one off pieces available just for you. Sterling Silver, 18ct Gold Vermeil, natural gemstones and Pearls. Sign up to our newsletter for exclusive alerts.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-04-30T12:40:37Z
   Total Products: 12
 - [Wholesale Collection Edit BR](https://www.aureejewellery.com/collections/wholesale-collection-edit-br)
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-04-30T11:27:01Z
   Total Products: 50
 - [Wholesale Fashion Edit BR](https://www.aureejewellery.com/collections/wholesale-fashion-edit-br)
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-04-30T11:27:01Z
   Total Products: 52
 - [Summer Gemstone Jewellery | London Jeweller | Auree Jewellery](https://www.aureejewellery.com/collections/summer-gemstone-jewellery): Beautiful Gemstone Jewellery for the summer. Bright coloured stones with Sterling Silver & 18ct Gold Vermeil. Free Delivery & 100 Day Free Returns.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 62
 - [Gemstone Bracelets | Gold Plated | Auree Jewellery](https://www.aureejewellery.com/collections/power-up-bracelets): A new collection of bracelets that harnesses the unique meanings and healing properties of semi-precious gemstones.
-  Updated: 2026-04-20T16:23:41Z
+  Updated: 2026-04-27T11:21:18Z
   Total Products: 18
 - [Summer  | Auree Jewellery](https://www.aureejewellery.com/collections/summer-): We've been particularly generous this year, sorting through our lovely items to bring you our BEST  yet. With up to 60% off and FREE delivery, there is something for everyone.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 112
 - [John Lewis Autumn 2024](https://www.aureejewellery.com/collections/john-lewis-autumn-2024)
-  Updated: 2026-04-20T11:17:22Z
+  Updated: 2026-04-30T11:27:01Z
   Total Products: 43
 - [Beaufort & Blake](https://www.aureejewellery.com/collections/beaufort-blake)
-  Updated: 2026-04-18T11:19:01Z
+  Updated: 2026-04-29T11:21:53Z
   Total Products: 40
 - [The Auree Icons](https://www.aureejewellery.com/collections/auree-ten-1): To celebrate Ten Years of Auree, we've created a collection of ten Limited Edition pieces that are a twist of some of our most iconic collections.
-  Updated: 2026-04-20T16:23:42Z
+  Updated: 2026-04-29T11:21:53Z
   Total Products: 14
 - [Babington House](https://www.aureejewellery.com/collections/babington-house)
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-04-30T11:27:01Z
   Total Products: 37
 - [Limited Editions | Auree Jewellery](https://www.aureejewellery.com/collections/limited-editions): Sometimes you need jewellery that's just a little bit special. Our collection of Limited Edition pieces, are unique and made in very small batches. Making sure they are one of a kind.
-  Updated: 2026-04-20T16:23:42Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 18
 - [Chewton Glen Wholesale Collection](https://www.aureejewellery.com/collections/chewton-glen): A selection of beautiful Auree jewellery available at Chewton Glen Hotel. All natural gemstones and precious metals.
-  Updated: 2026-04-20T11:17:22Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 61
 - [January Birthstone Jewellery | Shop Beautiful Garnet Jewellery | Auree](https://www.aureejewellery.com/collections/january-birthstone-jewellery): The prettiest selection of January Birthstone Jewellery. Choose from our bestselling selection of Garnet Jewellery in Silver and Gold. Free Delivery & Returns.
-  Updated: 2026-04-20T16:23:42Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 18
 - [February Birthstone Jewellery | Amethyst Jewellery | Auree Jewellery](https://www.aureejewellery.com/collections/february-birthstone-jewellery): Choose from our bestselling collection of Amethyst February Birthstone Jewellery in Sterling Silver and Gold. Free Delivery & Returns with a 5 year Guarantee.
-  Updated: 2026-04-22T16:20:15Z
+  Updated: 2026-04-25T11:19:40Z
   Total Products: 34
 - [March Birthstone Jewellery | Blue Topaz Jewellery | Auree Jewellery](https://www.aureejewellery.com/collections/march-birthstone-jewellery): Browse our bestselling selection of March Blue Topaz Birthstone Jewellery in Sterling Silver or Gold Vermeil. Blue Topaz is believed to bring the wearer calmness, clarity and emotional balance.
-  Updated: 2026-04-20T16:23:43Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 59
 - [April Birthstone Jewellery | Crystal Jewellery | Auree Jewellery](https://www.aureejewellery.com/collections/april-birthstone-jewellery): Shop our bestselling Crystal Jewellery. April Birthstone Jewellery to choose Sterling Silver or Gold Vermeil. Free Delivery & Returns with 5 Year Guarantee.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-04-30T11:27:01Z
   Total Products: 26
 - [May Birthstone Jewellery | Chrysoprase Jewellery | Auree Jewellery](https://www.aureejewellery.com/collections/may-birthstone-jewellery): Our bestselling collection of May birthstone jewellery in bright green Chrysoprase. Beautiful designs in Sterling Silver & Gold Vermeil. Free Delivery & Returns.
-  Updated: 2026-04-20T16:23:44Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 38
 - [June Birthstone Jewellery | Moonstone Jewellery | Auree Jewellery](https://www.aureejewellery.com/collections/june-birthstone-jewellery): Our bestselling collection of June birthstone jewellery in Moonstone. Shop Moonstone Jewellery in Sterling Silver & Gold Vermeil. Free Delivery & Returns.
-  Updated: 2026-04-20T16:23:44Z
+  Updated: 2026-04-29T11:21:53Z
   Total Products: 45
 - [July Birthstone Jewellery | Carnelian Jewellery | Auree Jewellery](https://www.aureejewellery.com/collections/july-birthstone-jewellery): Our most loved collection of July birthstone jewellery in orange Carnelian. Beautiful designs in Sterling Silver & Gold Vermeil. Free Delivery & Returns.
   Updated: 2026-04-20T16:23:44Z
@@ -3093,7 +3030,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Updated: 2026-04-20T16:23:45Z
   Total Products: 34
 - [Septemer Birthstone Jewellery | Lapis Lazuli Jewellery | Auree](https://www.aureejewellery.com/collections/september-birthstone-jewellery): Browse our bestselling September Birthstone Jewellery in iconic blue colour. Beautiful designs in Sterling Silver & Gold Vermeil. Free Delivery & Returns.
-  Updated: 2026-04-20T16:23:46Z
+  Updated: 2026-04-25T11:19:40Z
   Total Products: 27
 - [October Birthstone Jewellery | Rose Quartz Jewellery | Auree](https://www.aureejewellery.com/collections/october-birthstone-jewellery): Browse our bestselling October Birthstone Jewellery in pretty Rose Quartz. Beautiful designs in Sterling Silver & Gold Vermeil. Free Delivery & Returns.
   Updated: 2026-04-20T16:23:46Z
@@ -3105,34 +3042,34 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Updated: 2026-04-20T16:23:47Z
   Total Products: 17
 - [Chain Bracelets in Gold Vermeil & Sterling Silver | Auree Jewellery](https://www.aureejewellery.com/collections/chain-bracelets): Browse our bestselling collection of Gold Chain link bracelets and Silver Chain Bracelets. Free Delivery & Returns with a 5 Year Guarantee.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-04-30T12:46:01Z
   Total Products: 14
 - [Signet Rings handmade in UK | Seal Engraving | 9ct & 18ct Gold | Auree](https://www.aureejewellery.com/collections/signet-rings): Beautiful 9ct and 18ct Signet Rings made by hand in England by our family run workshop. Seal engraving. Choose from solid gold or gemstone set. Free Delivery.
   Updated: 2026-04-20T16:23:47Z
   Total Products: 4
 - [Stacking Rings | Gemstones | Sterling Silver & Gold Vermeil | Auree](https://www.aureejewellery.com/collections/stacking-rings): Our bestselling Stacking Rings in Sterling Silver, Gold Vermeil and Gemstones. Browse Cocktail Rings and Everyday Stacking Rings. Free Delivery & Returns.
-  Updated: 2026-04-20T16:23:47Z
+  Updated: 2026-04-29T11:43:31Z
   Total Products: 67
 - [Pearl Earrings | Freshwater Pearls | Auree Jewellery](https://www.aureejewellery.com/collections/pearl-earrings): Pearl Earrings are beautiful, timeless, and classic. Shop our range of Freshwater Pearls, all with the most lust-worthy iridescent shine. Free Delivery.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 41
 - [Silver Earrings | Sterling Silver | Auree Jewellery](https://www.aureejewellery.com/collections/silver-earrings): Made from the highest quality Sterling Silver, shop our range of silver stud, drop and hoop earrings, all with the most secure fastenings.
-  Updated: 2026-04-22T16:20:11Z
+  Updated: 2026-05-01T11:29:37Z
   Total Products: 100
 - [Gold Earrings | Gold Plated | Auree Jewellery](https://www.aureejewellery.com/collections/gold-earrings): Explore our collection of 18ct Yellow Gold Vermeil Earrings. We use only the thickness 18ct yellow gold plated on Sterling Silver, no nasty base metals.
-  Updated: 2026-04-21T23:20:12Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 256
 - [Solid Gold Earrings | 9ct Gold | Auree Jewellery](https://www.aureejewellery.com/collections/solid-gold-earrings): The most beautiful collection of Solid 9ct Gold Earrings. Classic designs, built to last a lifetime. Find your perfect pair.
-  Updated: 2026-04-20T16:23:49Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 15
 - [Gemstone Earrings | Gold & Silver | Auree Jewellery](https://www.aureejewellery.com/collections/gemstone-earrings): Shop our extensive range of natural gemstone earrings, set in either 18ct Yellow Gold Vermeil or Sterling Silver. Free Delivery & Free 100 Days Returns.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 197
 - [Silver Bracelets | Sterling Silver | Auree Jewellery](https://www.aureejewellery.com/collections/silver-bracelets): Explore our collection of exceptional quality Sterling Silver Bracelets and Bangles. Perfect for gifts or a treat for yourself.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-04-30T13:38:49Z
   Total Products: 63
 - [GOLD BRACELETS](https://www.aureejewellery.com/collections/gold-bracelets): Shop our collection of 18ct Yellow Gold Vermeil Bracelets and Bangles. We use only the thickest 18ct yellow gold plated on Sterling Silver, no nasty base metals. Find the perfect style for you.
-  Updated: 2026-04-22T11:17:48Z
+  Updated: 2026-04-30T13:37:41Z
   Total Products: 117
 - [SOLID GOLD BRACELETS](https://www.aureejewellery.com/collections/solid-gold-bracelets): Explore our Collection of classic Solid 9ct Gold Bracelets and Bangles. With timeless designs built to last a lifetime, find your perfect piece.
   Updated: 2026-04-20T16:23:51Z
@@ -3141,19 +3078,19 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Updated: 2026-04-20T16:23:51Z
   Total Products: 8
 - [EasyGift All Products](https://www.aureejewellery.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-04-22T11:15:51Z
-  Total Products: 1954
+  Updated: 2026-05-01T14:00:04Z
+  Total Products: 1957
 - [Gemstone Bracelets | Gold & Silver | Auree Jewellery](https://www.aureejewellery.com/collections/gemstone-bracelets): Shop our extensive range of natural gemstone bracelets,, set in either 18ct Yellow Gold Vermeil or Sterling Silver. Free Delivery & Returns.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-04-30T09:38:56Z
   Total Products: 68
 - [Pearl Bracelets | Freshwater Pearls | Auree Jewellery](https://www.aureejewellery.com/collections/pearl-bracelets): Pearl Bracelets are beautiful, timeless, and classic. Shop our range of Freshwater Pearls, all with the most lust-worthy iridescent shine. Free Delivery.
   Updated: 2026-04-21T11:17:06Z
   Total Products: 22
 - [Cocktail Rings | Gemstone Rings in Gold and Silver | Auree Jewellery](https://www.aureejewellery.com/collections/cocktail-rings): Choose from our bestselling selection of Cocktail Rings in bright natural gemstones. Sterling Silver or Gold Vermeil with 5 Year Guarantee. Free Delivery.
-  Updated: 2026-04-20T16:23:52Z
+  Updated: 2026-04-29T11:43:31Z
   Total Products: 13
 - [Sterling Silver Rings | Gemstone Silver Rings | Auree Jewellery](https://www.aureejewellery.com/collections/sterling-silver-rings): Browse our bestselling selection of Sterling Silver Rings. Choose from Stacking rings or gemstone rings with our 5 Year Guarantee and Free Delivery.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-04-29T11:43:31Z
   Total Products: 11
 - [Gold Rings – Solid Gold & Gemstone Rings | Auree Jewellery](https://www.aureejewellery.com/collections/gold-rings): Discover beautifully crafted gold rings by Auree Jewellery, including solid gold and gemstone designs. Made in the UK. Free delivery and gift wrapping.
   Updated: 2026-04-20T16:23:53Z
@@ -3162,31 +3099,31 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Updated: 2026-04-20T16:23:53Z
   Total Products: 33
 - [Gemstone Rings | Silver & Gold Vermeil Gemstone Rings - Auree](https://www.aureejewellery.com/collections/gemstone-rings): Shop handcrafted gemstone rings in sterling silver & gold vermeil at Auree Jewellery. Bold colours, timeless design - perfect for stacking, gifting, or everyday.
-  Updated: 2026-04-20T16:23:53Z
+  Updated: 2026-04-29T11:43:31Z
   Total Products: 31
-- [Gemstone Jewellery | Auree Jewellery](https://www.aureejewellery.com/collections/gemstone-jewellery-1): Explore our curated collection of beautiful gemstone jewellery to find the perfect piece to suit your style.
-  Updated: 2026-04-22T11:15:51Z
+- [Gemstone Jewellery | Auree Jewellery](https://www.aureejewellery.com/collections/all-gemstone-jewellery): Explore our curated collection of beautiful gemstone jewellery to find the perfect piece to suit your style.
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 484
 - [PENDANTS](https://www.aureejewellery.com/collections/pendants): A selection of Gold and Silver Pendants that you can wear on your favourite chain.
   Updated: 2026-04-20T16:23:54Z
   Total Products: 18
 - [SILVER NECKLACES](https://www.aureejewellery.com/collections/silver-necklaces): Shop our vast collection of Sterling Silver necklaces and pendants. Choose from natural gemstones, freshwater pearls or personalised silver disc pendants - we have something to suit everyone.
-  Updated: 2026-04-21T11:21:04Z
+  Updated: 2026-04-30T12:40:37Z
   Total Products: 97
 - [Gold Necklaces | Gold Plated | Auree Jewellery](https://www.aureejewellery.com/collections/gold-necklaces): Shop our collection of 18ct Yellow Gold Vermeil Necklaces and Pendants. We use only the thickest 18ct yellow gold plated on Sterling Silver. Free Delivery.
-  Updated: 2026-04-22T11:17:50Z
+  Updated: 2026-04-30T11:27:01Z
   Total Products: 140
 - [Solid Gold Necklaces | 9ct & 18ct Gold | Auree Jewellery](https://www.aureejewellery.com/collections/solid-gold-necklaces): Explore our Collection of classic Solid 9ct Gold Necklaces and Pendants. With timeless designs built to last a lifetime, find your perfect piece.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-04-23T11:17:39Z
   Total Products: 64
 - [Gemstone Necklaces | Gold & Silver | Auree Jewellery](https://www.aureejewellery.com/collections/gemstone-necklaces): Shop our extensive range of natural gemstone necklaces and pendants, set in either 18ct Yellow Gold Vermeil or Sterling Silver. Free Delivery & Free Returns.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-04-30T11:27:01Z
   Total Products: 138
 - [PENDANT NECKLACES](https://www.aureejewellery.com/collections/pendant-necklaces): Our beautiful collection of pendant necklaces designed in London and made in the highest quality Sterling Silver, Gold Vermeil and solid 9ct Gold with Gemstones and Pearls. From timeless everyday pieces to meaningful gifts, each pendant is made to last and perfect for layering or wearing solo.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 153
 - [Pearl Necklace Collection | Timeless & Elegant Pearl Jewellery | Auree Jewellery](https://www.aureejewellery.com/collections/pearl-necklaces): Browse our stunning pearl necklace collection featuring freshwater pearls. Perfect for weddings, anniversaries, or everyday elegance. Free UK delivery.
-  Updated: 2026-04-20T16:23:56Z
+  Updated: 2026-04-28T11:24:07Z
   Total Products: 48
 - [Fingerprint Jewellery | Personalised Gold & Silver Gifts – Auree Jewellery](https://www.aureejewellery.com/collections/fingerprint-necklaces): Shop Auree’s Fingerprint Jewellery Collection – personalised necklaces, bracelets & rings in sterling silver or solid gold. A meaningful and unique gift to cherish. Free UK delivery.
   Updated: 2026-04-20T16:23:56Z
@@ -3195,73 +3132,73 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Updated: 2026-04-22T11:15:51Z
   Total Products: 48
 - [Chains | Sterling Silver & Gold Chains – Auree Jewellery](https://www.aureejewellery.com/collections/chains-for-pendants): Shop our collection of chains for pendants, available in sterling silver, gold vermeil, and solid gold. Perfectly crafted to complement your favourite pendants. Free UK delivery.
-  Updated: 2026-04-20T16:23:57Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 37
 - [Personalised Necklaces - Engraved Gold & Silver Necklaces | Auree](https://www.aureejewellery.com/collections/personalised-necklaces): Discover elegant personalised necklaces at Auree. Engraved gold & sterling silver designs, perfect for gifts or meaningful everyday wear. Free UK delivery.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-04-29T11:42:00Z
   Total Products: 44
 - [Gold & Silver Bangles | Solid & Personalised Bangles – Auree Jewellery](https://www.aureejewellery.com/collections/bangles): Shop handcrafted bangles at Auree Jewellery. Discover gold, sterling silver and personalised bangles - elegant, timeless and perfect for gifting. Free delivery.
-  Updated: 2026-04-20T16:23:58Z
+  Updated: 2026-04-30T13:37:47Z
   Total Products: 34
 - [Bracelets | Gold Plated & Sterling Silver | Auree Jewellery](https://www.aureejewellery.com/collections/bracelets): Browse our Bestselling plain and gemstone bracelets in Sterling Silver and 18ct Gold Vermeil.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-04-30T09:38:56Z
   Total Products: 170
 - [Birthstone Bracelets | Personalised Gold & Silver Gemstone Bracelets | Auree](https://www.aureejewellery.com/collections/birthstone-bracelets): Explore Auree’s birthstone bracelets collection, featuring handcrafted designs in 18ct gold vermeil and sterling silver. Find meaningful gemstone bracelets for every birth month -perfect for gifting or everyday wear.
-  Updated: 2026-04-20T16:23:59Z
+  Updated: 2026-04-29T11:21:53Z
   Total Products: 4
 - [Birthstone Necklaces | Personalised Gold & Silver Gemstone Jewellery](https://www.aureejewellery.com/collections/birthstone-necklaces): Shop our birthstone necklace collection, featuring stunning personalised designs in Gold Vermeil and Sterling Silver. Discover meaningful birthstone jewellery.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-04-30T11:27:01Z
   Total Products: 6
 - [Personalised Bracelets | Gold & Silver | Auree Jewellery](https://www.aureejewellery.com/collections/personalised-bracelets): Discover our collection of Personalised bracelets in Gold and Silver. From engraved initials, dates or fingerprints. Free Delivery and Free Returns.
-  Updated: 2026-04-20T16:23:59Z
+  Updated: 2026-04-30T13:38:58Z
   Total Products: 26
 - [The Fairground](https://www.aureejewellery.com/collections/the-fairground)
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 221
 - [New! Shopify performance sharing is now turned on](https://www.aureejewellery.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-04-22T11:15:51Z
-  Total Products: 2022
+  Updated: 2026-05-01T14:00:04Z
+  Total Products: 2025
 - [All products](https://www.aureejewellery.com/collections/all-products)
-  Updated: 2026-04-22T16:20:18Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 1758
 - [T-Bar Jewellery | Gold & Silver | Auree Jewellery](https://www.aureejewellery.com/collections/fernshaw): A satisfying weight, classic design and it will make an outfit, or Fernshaw Collection is an absolute jewellery box essential. Next Day Delivery, Free Returns & Five Year Guarantee.
-  Updated: 2026-04-20T16:24:01Z
+  Updated: 2026-04-29T11:21:53Z
   Total Products: 8
 - [All Products minus RWR](https://www.aureejewellery.com/collections/all-products-minus-rwr)
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 1770
 - [AUREE | BESTSELLING EARRINGS](https://www.aureejewellery.com/collections/bestselling-earrings): Discover the most-loved earrings at Auree Jewellery, iconic hoops, studs and gemstone drops in gold vermeil & sterling silver, crafted for everyday elegance.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-05-01T11:29:47Z
   Total Products: 22
 - [AUREE BESTSELLING BRACELETS](https://www.aureejewellery.com/collections/bestselling-bracelets): Shop Auree Jewellery’s bestselling bracelets, from timeless gold and silver to gemstone and personalised designs, crafted to elevate every look.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-04-30T13:32:29Z
   Total Products: 25
 - [AUREE | BESTSELLING NECKLACES](https://www.aureejewellery.com/collections/bestselling-necklaces): Discover the bestselling necklaces at Auree Jewellery, elegant chains, gemstone pendants and gold vermeil pieces designed to elevate any look.
-  Updated: 2026-04-20T16:24:02Z
+  Updated: 2026-04-29T11:21:53Z
   Total Products: 24
 - [AUREE | BESTSELLING RINGS](https://www.aureejewellery.com/collections/bestselling-rings): Explore Auree Jewellery’s bestselling rings, from iconic Russian wedding bands to gemstone stacking styles, crafted in silver, gold-vermeil & solid gold.
   Updated: 2026-04-21T11:17:06Z
   Total Products: 14
 - [BESTSELLERS UNDER £100](https://www.aureejewellery.com/collections/bestsellers-under-100): Discover jewellery gifts under £100 at Auree Jewellery, from personalised bracelets and gemstone necklaces to gold vermeil earrings, perfect for every occasion.
-  Updated: 2026-04-20T16:24:03Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 27
 - [AUREE BESTSELLING JEWELLERY UNDER £250](https://www.aureejewellery.com/collections/bestsellers-under-250): Explore Auree Jewellery’s bestsellers under £250, timeless gold, silver & gemstone designs, perfect for gifting or elevating your everyday style.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-05-01T14:00:04Z
   Total Products: 65
 - [LUXURY BESTSELLERS](https://www.aureejewellery.com/collections/bestsellers-luxury): Discover our best- premium jewellery, rings, necklaces, bracelets and earrings from Auree, lasting quality, beautiful design and  excellence
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 33
 - [ALL TIME BESTSELLERS](https://www.aureejewellery.com/collections/all-time-bestsellers)
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-04-30T13:19:02Z
   Total Products: 25
 - [THE AUREE  | Auree Jewellery](https://www.aureejewellery.com/collections/the--2026): We've been sorting through all our lovely items to bring you our BEST  yet. With up to 60% off beautiful Auree icons, and FREE delivery, we are sure you will find something you will fall in love with.
-  Updated: 2026-04-22T11:15:51Z
+  Updated: 2026-05-01T11:21:15Z
   Total Products: 137
 - [SILVER BIRTHSTONE JEWELLERY](https://www.aureejewellery.com/collections/silver-birthstone-jewellery): Meaningful gemstones set in sterling silver, these personalised pieces are perfect birthday gifts or everyday treasures. Choose your birthstone to create a truly unique and thoughtful jewellery present.
-  Updated: 2026-04-20T16:24:05Z
+  Updated: 2026-04-25T11:19:40Z
   Total Products: 14
 - [GOLD BIRTHSTONE JEWELLERY](https://www.aureejewellery.com/collections/gold-birthstone-jewellery): Celebrate something special with our beautiful birthstone jewellery collection. Featuring meaningful natural gemstones set in Gold Vermeil (18ct Gold on Sterling Silver). These personalised pieces make the perfect jewellery present.
-  Updated: 2026-04-20T16:24:05Z
+  Updated: 2026-04-30T11:27:01Z
   Total Products: 21
 - [Gaia](https://www.aureejewellery.com/collections/gaia): nature/natural things
   Updated: 2026-04-20T16:24:06Z
@@ -3270,10 +3207,10 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Updated: 2026-04-20T16:24:06Z
   Total Products: 16
 - [EMERALD JEWELLERY](https://www.aureejewellery.com/collections/emerald-jewellery-uk): Beautiful Emerald Jewellery in Sterling Silver and Gold perfect for special Birthdays and meaningful jewellery gifting. Emerald is traditionally given as the Birthstone for May, it is also perfect if you are looking for Emerald 55th Wedding Anniversary jewellery. Choose from Emerald Necklaces, Emerald Earrings and Earrings Bracelets, all made in the finest Sterling Silver and 18ct Gold Vermeil and gift wrapped.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-04-30T13:19:02Z
   Total Products: 11
 - [SAPPHIRE JEWELLERY](https://www.aureejewellery.com/collections/sapphire-jewellery-uk): The most striking Sapphire Jewellery in Sterling Silver, Gold Vermeil and 9ct Gold - perfect for Birthdays and meaningful gifting. Sapphire is traditionally given as a Birthstone for September, it is also perfect if you are looking for Sapphire 45th Wedding Anniversary jewellery. Choose from Sapphire Necklaces, Sapphire Earrings and Sapphire Bracelets, all made in the finest Sterling Silver and 18ct Gold Vermeil and beautifully gift wrapped.
-  Updated: 2026-04-21T11:17:06Z
+  Updated: 2026-04-30T11:56:43Z
   Total Products: 13
 
 ## Blogs
@@ -3846,7 +3783,7 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
 - [Privacy Policy - Auree Jewellery](https://www.aureejewellery.com/pages/privacy-policy): Your trust in us is our absolute number one priority, which is why we want you to be as informed as possible. Forget celebrities, we all need our p...
   Updated: 2025-04-04T09:21:45Z
 - [Gemstone Guide - Learn About Different Types of Gemstones](https://www.aureejewellery.com/pages/gemstone-guide): Amazonite Found all over the world, from Brazil to Myanmar and Madagascar, this is a fabulous mottled green gemstone. Known as the "stone of courag...
-  Updated: 2026-04-10T11:31:55Z
+  Updated: 2026-04-29T10:34:01Z
 - [Precious Metals Collection | Auree Jewellery](https://www.aureejewellery.com/pages/precious-metals): This is a short summary for each of the different precious metals we stock. We have also described a little about the background of carat gold and ...
   Updated: 2024-04-30T13:48:16Z
 - [Jewellery Care Guide | Auree Jewellery](https://www.aureejewellery.com/pages/jewellery-care-guide): We love every piece of Auree Jewellery and each new owner has big responsibilities. It needs to be looked after carefully and considerately. Please...
@@ -3891,20 +3828,20 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Updated: 2026-03-19T09:02:53Z
 - [Meet the Auree Team | Auree Jewellery](https://www.aureejewellery.com/pages/the-auree-team): 
   Updated: 2025-04-04T09:26:40Z
-- [Auree Jewellery Press Page](https://www.aureejewellery.com/pages/press): You’ll find our jewellery trotting around the world but don’t take our word for it, see who is wearing it right now on our Instagram. Auree Jewelle...
-  Updated: 2024-04-30T13:48:40Z
+- [Auree Jewellery Press Page | Women's Jewellery](https://www.aureejewellery.com/pages/press): 
+  Updated: 2026-04-23T10:09:16Z
 - [Wedding Bridal Jewellery | Auree Jewellery](https://www.aureejewellery.com/pages/wedding-bridal-jewellery): wedding-list
   Updated: 2024-04-30T13:51:49Z
 - [Discontinued Watches & Watch Straps | Auree Jewellery](https://www.aureejewellery.com/pages/discontinued-watches-watch-straps): We  to disappoint you...sadly this Watch / Watch Strap is no longer available Can we suggest something else that you may like instead OR if you...
   Updated: 2024-04-30T13:44:59Z
-- [Sustainable Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/pages/sustainability): As a founder-led business we’ve grown from the ground up and have always taken an extremely conscious approach to everything that we do. We are per...
-  Updated: 2024-04-30T13:50:28Z
+- [Sustainable Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/pages/sustainability): 
+  Updated: 2026-04-23T09:55:54Z
 - [Five Year Guarantee - Auree Jewellery](https://www.aureejewellery.com/pages/five-year-guarantee): Our promise to you, Jewellery Made to Last. We want you to wear your jewellery every day. Our pieces should be the perfect partner; built to  w...
   Updated: 2024-11-28T09:51:37Z
 - [Recycle Your Jewellery - Sustainable Jewellery Recycling](https://www.aureejewellery.com/pages/recycle-your-jewellery): Our commitment to Do Better Together In our continued journey to become a more sustainable brand we want you to be able to turn to us. Make the con...
   Updated: 2024-04-30T13:48:55Z
-- [Auree Services - Expert Jewellery Services | Auree Jewellery](https://www.aureejewellery.com/pages/auree-services): Every piece of Auree Jewellery is covered by our Five Year Guarantee, giving you peace of mind that if anything should happen to it we are here to ...
-  Updated: 2024-04-30T13:42:04Z
+- [Auree Services - Expert Jewellery Services | Auree Jewellery](https://www.aureejewellery.com/pages/auree-services): 
+  Updated: 2026-04-23T09:48:24Z
 - [Early Access to Exclusive Jewellery | Auree Jewellery](https://www.aureejewellery.com/pages/early-access): Join our newsletter today to receive 10% off your next order and be the first to hear all the latest Auree news and exclusive offers. Subscribe
   Updated: 2024-04-30T13:50:09Z
 - [Auree Jewellery Needs You](https://www.aureejewellery.com/pages/auree-jewellery-needs-you): We have now completed our round of website testing, and no longer need any more lovely volunteers. We really appreciate everyone's help who has tak...
@@ -3947,8 +3884,8 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Updated: 2024-04-30T13:47:37Z
 - [The Auree Archive - Discover Timeless Jewellery Pieces](https://www.aureejewellery.com/pages/the-auree-archive): 
   Updated: 2024-04-30T13:51:04Z
-- [Discover Your Birthstone - Auree Jewellery](https://www.aureejewellery.com/pages/discover-your-birthstone): 
-  Updated: 2024-04-30T13:45:09Z
+- [Discover Your Birthstone | Women's Jewellery UK | Auree Jewellery](https://www.aureejewellery.com/pages/discover-your-birthstone): 
+  Updated: 2026-04-23T09:42:31Z
 - [Auree Jewellery Ambassador Programme](https://www.aureejewellery.com/pages/collab): 
   Updated: 2024-05-31T13:41:46Z
 - [Christmas Gift Guide | Auree Jewellery](https://www.aureejewellery.com/pages/christmas-gift-guide): 
@@ -3961,16 +3898,16 @@ We use the highest quality, sustainably sourced sterling silver, gold vermeil an
   Updated: 2024-04-30T13:51:54Z
 - [Discontinued Jewellery Sets - Auree Jewellery](https://www.aureejewellery.com/pages/discontinued-jewellery-sets): We  to disappoint you...Sadly this Jewellery Set is no longer available Can we suggest something else that you may like instead OR if you heart...
   Updated: 2024-04-30T13:44:25Z
-- [Unique Jewellery Collection | Auree Jewellery](https://www.aureejewellery.com/pages/unique-to-auree): 
-  Updated: 2024-04-30T13:51:24Z
+- [Why buy from Auree? Quality Women's Jewellery | Auree Jewellery UK](https://www.aureejewellery.com/pages/unique-to-auree): 
+  Updated: 2026-04-23T09:52:55Z
 - [Auree Jewellery Edit Button Collection](https://www.aureejewellery.com/pages/theeditbutton): 
   Updated: 2024-04-30T13:42:14Z
 - [Auree Jewellery - The Edit Button Preview](https://www.aureejewellery.com/pages/theeditbutton-preview): 
   Updated: 2024-04-30T13:51:19Z
 - [Sample  T&Cs | Auree Jewellery](https://www.aureejewellery.com/pages/sample--returns): We hope you will understand that Sample  items cannot be returned, refunded or exchanged. Please carefully review the product details and image...
   Updated: 2025-06-12T08:45:42Z
-- [Become a Stockist | Auree Jewellery](https://www.aureejewellery.com/pages/become-a-stockist): 
-  Updated: 2025-04-07T08:47:00Z
+- [Become a Stockist | Women's Jewellery UK | Auree Jewellery](https://www.aureejewellery.com/pages/become-a-stockist): 
+  Updated: 2026-04-23T09:46:17Z
 - [Book an Appointment | Russian Wedding Rings | Auree Jewellery](https://www.aureejewellery.com/pages/book-an-appointment): 
   Updated: 2025-09-10T10:36:43Z
 - [Join our Mailing List | Auree Jewellery](https://www.aureejewellery.com/pages/join-our-newsletter): Sign up today, to be the first to hear the latest Auree news, as well as be the first to know about exclusive new releases. We'll also send you a 1...
