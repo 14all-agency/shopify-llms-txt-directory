@@ -6,40 +6,40 @@
 - Timezone: America/New_York
 - Created At: 2025-07-14T17:43:38Z
 - Contact Email: contact@justchippys.com
-- Updated At: 2026-04-24T06:30:07.022Z
+- Updated At: 2026-05-02T00:00:22.318Z
 
 ## Products
 
 - [Build your own 6 pack](https://justchippys.com/products/build-your-own-6-pack): Build your ideal box of 6 cookies!
-  Updated: 2026-04-24T05:01:17Z
+  Updated: 2026-05-01T17:41:58Z
   Vendor: Just Chippy's
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/1417/2770/files/JustChippy_s87.jpg?v=1775278938
   Price: $26.00 USD
 - [Build your own 12 Pack](https://justchippys.com/products/build-your-own-12-pack): Build Your Perfect 12 Pack! From the Chocolate Chippy to Nan's Blueberry Best, it's all up to you!
-  Updated: 2026-04-22T16:37:57Z
+  Updated: 2026-05-01T20:42:46Z
   Vendor: Just Chippy's
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/1417/2770/files/JustChippy_s84.jpg?v=1775508470
   Price: $50.00 USD
 - [Mighty Minis (15 Pack)](https://justchippys.com/products/the-15-mighty-minis): Select up to 3 cookie flavors. Each cookie flavor comes in a quantity of 5. Ex. Qty: 2 = 10 cookies of select flavor.
-  Updated: 2026-04-24T05:17:16Z
+  Updated: 2026-05-01T16:30:47Z
   Vendor: Just Chippy's
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/1417/2770/files/JustChippy_s28.jpg?v=1775507938
   Price: $26.00 USD
 - [Mega Mighty Minis (30 pack)](https://justchippys.com/products/the-mega-mighty-minis-30-pack): Select up to 6 cookie flavors. Each cookie flavor comes in a quantity of 5. Ex. Qty: 2 = 10 cookies of select flavor.
-  Updated: 2026-04-23T07:48:57Z
+  Updated: 2026-05-01T17:23:47Z
   Vendor: Just Chippy's
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0638/1417/2770/files/JustChippy_sEditMinis.jpg?v=1775509330
   Price: $44.00 USD
 - [Just Chippy’s Classics](https://justchippys.com/products/just-chippy-s-classics): Our timeless favorites baked with simple, quality ingredients. Includes all of our OG flavors Flavor- Chocolate Chippy- Col's Chocolate Craze- Mom's PB&J- Nan's Blueberry Best- Oatmeal Date Night-Spark's Sprinkles
-  Updated: 2026-04-23T16:37:06Z
+  Updated: 2026-05-01T20:26:17Z
   Vendor: Just Chippy's
   Product Type: 
   Availability: Available
@@ -60,13 +60,13 @@
 ## Collections
 
 - [Fan Favorites](https://justchippys.com/collections/fan-favorites)
-  Updated: 2026-04-23T11:23:02Z
+  Updated: 2026-05-01T11:26:35Z
   Total Products: 1
 - [Shop All](https://justchippys.com/collections/shop-all)
-  Updated: 2026-04-23T11:23:02Z
+  Updated: 2026-05-01T11:26:35Z
   Total Products: 11
 - [Build Your Pack](https://justchippys.com/collections/build-your-pack)
-  Updated: 2026-04-23T11:23:02Z
+  Updated: 2026-05-01T11:26:35Z
   Total Products: 5
 
 ## Store Pages
