@@ -6,7 +6,7 @@
 - Timezone: Australia/Canberra
 - Created At: 2020-03-13T13:18:06Z
 - Contact Email: hello@glamsteals.com
-- Updated At: 2026-04-24T00:00:48.730Z
+- Updated At: 2026-05-03T00:00:46.877Z
 
 ## Products
 
@@ -51,7 +51,7 @@
     Availability: Available
     Price: $1,239.00 AUD
 - [Jimmy Choo Bicolor Metal Sunglasses For Women | Glam Steals](https://www.glamsteals.com/products/jimmy-choo-bicolor-metal-sunglasses-2): Refine your ensemble with Jimmy Choo bicolor metal sunglasses for women made with fine metal. Available now at Glam Steals. Designed with a contemporary edge that endures. A versatile piece that enhances both comfort and style.
-  Updated: 2026-04-21T15:13:37Z
+  Updated: 2026-04-30T12:03:37Z
   Vendor: Jimmy Choo
   Product Type: Sunglasses
   Availability: Available
@@ -252,13 +252,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0353/4399/0919/files/Dolce-Gabbana-Embroidered-Ankle-Boots-In-Lambskin-0.png?v=1772483402
   Price: $999.00 AUD
-- [Dolce & Gabbana Elegant Leopard Print Mid Calf Boots For Women | Glam Steals](https://www.glamsteals.com/products/dolce-gabbana-elegant-leopard-print-mid-calf-boots): Upgrade your look with Dolce & Gabbana Elegant Leopard Print Mid Calf Boots for Women. Shop now!
-  Updated: 2026-04-20T15:15:21Z
-  Vendor: Dolce & Gabbana
-  Product Type: Boots
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0353/4399/0919/files/Dolce-Gabbana-Elegant-Leopard-Print-Mid-Calf-Boots-0.png?v=1772484769
-  Price: $1,059.00 AUD
 - [Dolce & Gabbana Elegant Ankle Open Toe Heel Boots For Women | Glam Steals](https://www.glamsteals.com/products/dolce-gabbana-elegant-ankle-open-toe-heel-boots): Complete your wardrobe with Dolce & Gabbana elegant ankle open toe heel boots for women. Order today!
   Updated: 2026-04-20T15:15:21Z
   Vendor: Dolce & Gabbana
@@ -319,7 +312,7 @@
   Image: https://cdn.shopify.com/s/files/1/0353/4399/0919/files/Dolce-Gabbana-Elegant-Shoulder-Bag-Gold-Black-Stra-0.png?v=1772480327
   Price: $1,169.00 AUD
 - [Dolce & Gabbana Emerald Halter Cropped Tank Top For Women | Glam Steals](https://www.glamsteals.com/products/dolce-gabbana-emerald-halter-cropped-tank-top): Complete your wardrobe with Dolce & Gabbana Emerald Halter Cropped Tank Top for Women. Order today!
-  Updated: 2026-04-20T15:15:26Z
+  Updated: 2026-04-28T07:19:16Z
   Vendor: Dolce & Gabbana
   Product Type: Tank Tops
   Availability: Available
@@ -424,6 +417,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0353/4399/0919/files/Dolce-Gabbana-Chic-Portofino-Leather-White-Sneaker-0.png?v=1772489747
   Price: $1,219.00 AUD
+- [Dolce & Gabbana Chic Black & White Daymaster Leather Sneakers for Women](https://www.glamsteals.com/products/dolce-gabbana-chic-black-white-daymaster-leather-sneakers): Stylish and timeless – Dolce & Gabbana chic black & white daymaster leather sneakers for women. Buy now!
+  Updated: 2026-04-27T10:18:02Z
+  Vendor: Dolce & Gabbana
+  Product Type: Sneakers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0353/4399/0919/files/Dolce-Gabbana-Chic-Daymaster-Leather-Black-White-S-0.png?v=1774896407
+  Price: $1,239.00 AUD
 - [Dolce & Gabbana Mirror Heel Ankle Strap Sandals For Women | Glam Steals](https://www.glamsteals.com/products/dolce-gabbana-elegant-ankle-strap-sandals-with-mirror-heels): Complete your wardrobe with Dolce & Gabbana elegant ankle strap sandals with mirror heels for women. Order today!
   Updated: 2026-04-20T15:15:30Z
   Vendor: Dolce & Gabbana
@@ -545,7 +545,7 @@
   Image: https://cdn.shopify.com/s/files/1/0353/4399/0919/files/Dolce-Gabbana-Brass-Leopard-Fur-Pearl-Collier-Chai-0.png?v=1772490661
   Price: $1,469.00 AUD
 - [Dolce & Gabbana Gold Brass Chain Dog Heart Pendant Charm Necklace For Women | Glam Steals](https://www.glamsteals.com/products/dolce-gabbana-gold-brass-chain-dog-heart-pendant-charm-necklace): Upgrade your look with Dolce & Gabbana gold brass chain dog heart pendant charm necklace for women. Shop now!
-  Updated: 2026-04-20T15:15:36Z
+  Updated: 2026-04-24T09:00:18Z
   Vendor: Dolce & Gabbana
   Product Type: Necklaces
   Availability: Available
@@ -917,6 +917,13 @@
   - [EU39.5/US9.5](https://www.glamsteals.com/products/burberry-black-leather-boot?variant=42800510140551)
     Availability: Available
     Price: $1,319.00 AUD
+- [Bottega Veneta Pink Cotton Dress For Women | Glam Steals](https://www.glamsteals.com/products/bottega-veneta-pink-cotton-dress): Complete your wardrobe with Bottega Veneta pink cotton dress for women. Order today!
+  Updated: 2026-04-30T14:05:15Z
+  Vendor: Bottega Veneta
+  Product Type: Dresses
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0353/4399/0919/files/Bottega-Veneta-Cotton-Pink-Dress-Glam-Steals-1.png?v=1772488440
+  Price: $1,249.00 AUD
 - [Dolce & Gabbana White Knitted Cotton Logo Shopping Tote Bag For Women | Glam Steals](https://www.glamsteals.com/products/dolce-gabbana-white-green-knitted-cotton-logo-shopping-tote-bag): Upgrade your look with Dolce & Gabbana white green knitted cotton logo shopping tote bag for women. Shop now!
   Updated: 2026-04-20T15:15:46Z
   Vendor: Dolce & Gabbana
@@ -1780,7 +1787,7 @@
   Image: https://cdn.shopify.com/s/files/1/0353/4399/0919/files/Dolce-Gabbana-Black-Velvet-Roses-Ankle-Strap-Pumps-0.png?v=1772489913
   Price: $1,179.00 AUD
 - [Dolce & Gabbana Pink Sorrento Crystals Low Top Sneakers Shoes For Women | Glam Steals](https://www.glamsteals.com/products/dolce-gabbana-pink-sorrento-crystals-low-top-sneakers-shoes): Stylish and timeless – Dolce & Gabbana pink sorrento crystals low top sneakers shoes for women. Buy now!
-  Updated: 2026-04-20T15:16:08Z
+  Updated: 2026-04-27T13:53:20Z
   Vendor: Dolce & Gabbana
   Product Type: Sneakers
   Availability: Available
@@ -1792,7 +1799,7 @@
     Availability: Available
     Price: $1,039.00 AUD
   - [EU37/US7](https://www.glamsteals.com/products/dolce-gabbana-pink-sorrento-crystals-low-top-sneakers-shoes?variant=42402772975751)
-    Availability: Available
+    Availability: Not Available
     Price: $1,039.00 AUD
 - [Dolce & Gabbana White Leather Portofino Low Top Sneakers Shoes For Women | Glam Steals](https://www.glamsteals.com/products/dolce-gabbana-white-leather-portofino-low-top-sneakers-shoes-1): Stylish and timeless – Dolce & Gabbana white leather portofino low top sneakers shoes for women. Buy now!
   Updated: 2026-04-20T15:16:09Z
@@ -1918,14 +1925,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0353/4399/0919/files/Dolce-Gabbana-Tone-Brass-Crystal-Embellished-Gold-0.png?v=1772481575
   Price: $2,169.00 AUD
-- [Dolce & Gabbana Gold Tone Brass Crystal Embellished Waist Chain Belt For Women | Glam Steals](https://www.glamsteals.com/products/dolce-gabbana-gold-tone-brass-crystal-embellished-waist-chain-belt): Upgrade your look with Dolce & Gabbana gold tone brass crystal embellished waist chain belt for women. Shop now!
-  Updated: 2026-04-20T15:16:13Z
-  Vendor: Dolce & Gabbana
-  Product Type: Body Jewelry
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0353/4399/0919/files/Dolce-Gabbana-Tone-Brass-Crystal-Embellished-Waist-0.png?v=1772478936
-  Price: $2,119.00 AUD
-[List Continued](https://www.glamsteals.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MDQ4MTExODQ1NTExLCJsYXN0X3ZhbHVlIjoiODA0ODExMTg0NTUxMSJ9)
+[List Continued](https://www.glamsteals.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MDQ4MTExNzQ3MjA3LCJsYXN0X3ZhbHVlIjoiODA0ODExMTc0NzIwNyJ9)
 
 ## Collections
 
@@ -1933,50 +1933,50 @@
   Updated: 2026-04-20T15:09:51Z
   Total Products: 18
 - [Belts (supplied)](https://www.glamsteals.com/collections/beltsupplied)
-  Updated: 2026-04-23T17:33:09Z
-  Total Products: 467
+  Updated: 2026-05-01T03:22:41Z
+  Total Products: 469
 - [Buy Women's Handbags | Crossbody, Duffle, Nappy & Shoulder](https://www.glamsteals.com/collections/bags1): Explore shoulder bags, satchels, crossbody, duffle, and handbags for women online at Glam Steals Australia, from leather to saddle and shopping bags. Shop Now!
-  Updated: 2026-04-23T21:36:07Z
-  Total Products: 3657
+  Updated: 2026-05-01T09:22:10Z
+  Total Products: 3707
 - [Explore Premium Clothing for Women](https://www.glamsteals.com/collections/clothing2): Shop women’s clothing online at Glam Steals Australia. Explore curated styles, elevated edits & premium third-party fashion finds.
-  Updated: 2026-04-23T17:50:12Z
-  Total Products: 11000
+  Updated: 2026-05-02T21:14:42Z
+  Total Products: 11161
 - [Frames (Supplied)](https://www.glamsteals.com/collections/framessupplied)
-  Updated: 2026-04-21T12:49:26Z
+  Updated: 2026-04-30T16:10:32Z
   Total Products: 460
 - [Buy Women's Sterling Silver Jewelry | Gemstone & Diamond](https://www.glamsteals.com/collections/jewelery): Explore sterling silver and gemstone jewelry for women in Australia, perfect for any occasion. Shop now online!
-  Updated: 2026-04-23T10:54:20Z
-  Total Products: 474
+  Updated: 2026-05-01T03:13:06Z
+  Total Products: 482
 - [Shoes (Supplied)](https://www.glamsteals.com/collections/shoes1)
-  Updated: 2026-04-23T21:51:07Z
-  Total Products: 4104
+  Updated: 2026-05-02T01:13:11Z
+  Total Products: 4146
 - [Buy Women's Sunglasses | Running, Sports, Aviator & Polarized](https://www.glamsteals.com/collections/sunglasses-supplied): Get the best women's sunglasses in Australia, from designer to polarized and retro styles in white, gold, and more. Buy now online!
-  Updated: 2026-04-23T05:38:12Z
-  Total Products: 564
+  Updated: 2026-05-01T03:13:07Z
+  Total Products: 567
 - [Watches (Supplied)](https://www.glamsteals.com/collections/watches-1)
-  Updated: 2026-04-20T15:09:52Z
+  Updated: 2026-04-30T06:29:38Z
   Total Products: 44
 - [Uncategorized (Supplied)](https://www.glamsteals.com/collections/uncategorized)
-  Updated: 2026-04-23T13:12:40Z
-  Total Products: 309
+  Updated: 2026-05-02T16:07:09Z
+  Total Products: 320
 - [Weekly Steals | Exclusive Deals on Top Luxury Brands](https://www.glamsteals.com/collections/weekly-steals): Shop Weekly Steals at Glam Steals Australia! Explore exclusive deals on top luxury brands. From designer clothing and accessories to shoes and more—these limited-time offers won’t last.
   Updated: 2026-04-21T01:43:30Z
   Total Products: 24
 - [Hair Accessories (Supplied)](https://www.glamsteals.com/collections/hairaccessories-supplied)
-  Updated: 2026-04-23T10:47:37Z
-  Total Products: 254
+  Updated: 2026-05-01T01:16:25Z
+  Total Products: 255
 - [Shop Luxury Silk Pillowcases – Sleep Better in Style](https://www.glamsteals.com/collections/silk-pillowcases): Shop the best silk pillowcases for women online at Glam Steals Australia. Soft & luxurious pillowcase sets made from premium satin silk—designed to elevate sleep quality and skin comfort every night.
   Updated: 2026-04-20T15:09:52Z
   Total Products: 0
 - [Trendy Women's Apparel & Stylish Outfits | Shop Online](https://www.glamsteals.com/collections/apparel): Shop trendy women's apparel, stylish clothing, and wardrobe essentials online at Glam Steals Australia. Explore seasonal fashion trends and stylish outfits for every occasion.
-  Updated: 2026-04-23T15:46:40Z
-  Total Products: 11001
+  Updated: 2026-05-02T15:16:42Z
+  Total Products: 11166
 - [Shop Women's Bags | Crossbody, Duffle, Shoulder & More](https://www.glamsteals.com/collections/bags): Shop women's bags online at Glam Steals Australia. Explore handbags, crossbody, satchels, duffle, shoulder bags, and diaper bags online—designed for fashion and function.​
-  Updated: 2026-04-21T13:42:55Z
-  Total Products: 2041
+  Updated: 2026-05-01T05:04:44Z
+  Total Products: 2099
 - [Buy Women’s Shoes – From Summer Sandals to Winter Boots](https://www.glamsteals.com/collections/shoes): Elevate every outfit with shoes for women—casual, formal, vintage, and seasonal styles, including heels, wedges, platforms, boots, and Sandals. Shop online at Glam Steals Australia.
-  Updated: 2026-04-23T21:51:36Z
-  Total Products: 4107
+  Updated: 2026-05-02T15:19:02Z
+  Total Products: 4151
 - [Premium Cosmetics | Makeup for Face, Eyes & Lips](https://www.glamsteals.com/collections/makeup): Explore luxury makeup essentials & premium cosmetics for women online at Glam Steals Australia—from long-wear foundations, lipsticks, eyeshadows, and more for flawless beauty.
   Updated: 2026-04-20T15:09:52Z
   Total Products: 0
@@ -1990,67 +1990,67 @@
   Updated: 2026-04-20T15:09:52Z
   Total Products: 6
 - [Luxury Gifts for Her | Chic Jewellery, Accessories & More](https://www.glamsteals.com/collections/gifting): Shop luxury gifts for women with stylish jewellery, accessories, and thoughtful gift ideas for birthdays, Christmas, and Valentine's Day. Shop online for the perfect gift in Australia!
-  Updated: 2026-04-23T15:19:55Z
-  Total Products: 716
+  Updated: 2026-05-01T03:13:06Z
+  Total Products: 724
 - [Buy Women’s Dresses Online | Casual to Evening Styles](https://www.glamsteals.com/collections/dresses): Shop women's dresses for every occasion online at Glam Steals Australia. From casual outings to special events, explore stylish and flattering designs to elevate your wardrobe.
-  Updated: 2026-04-23T17:49:41Z
-  Total Products: 994
+  Updated: 2026-05-02T04:30:42Z
+  Total Products: 1006
 - [Tops for Women – Casual, Dressy & Everyday Styles](https://www.glamsteals.com/collections/tops): Shop tops for women online at Glam Steals Australia—featuring casual basics, dressy blouses, cotton shirts, tees, tanks, and versatile styles for every occasion and season.
-  Updated: 2026-04-21T07:47:16Z
-  Total Products: 1758
+  Updated: 2026-05-01T05:07:43Z
+  Total Products: 1792
 - [Buy Women's Bottoms | Trousers, Pants, Shorts, Jeans & More](https://www.glamsteals.com/collections/bottoms): Explore the perfect women's trousers, pants, shorts, jeans and more for any occasion. From casual to elegant, shop the latest styles today online at Glam Steals!
-  Updated: 2026-04-21T07:47:20Z
-  Total Products: 1589
+  Updated: 2026-05-01T03:13:16Z
+  Total Products: 1618
 - [Women's Jumpsuits & Playsuits | Casual to Dressy Looks](https://www.glamsteals.com/collections/jumpsuits-and-playsuits): Shop women’s jumpsuits and playsuits online at Glam Steals Australia. From casual to dressy one-piece styles, find the perfect outfit for any occasion—whether it’s summer or winter.
-  Updated: 2026-04-20T15:09:53Z
+  Updated: 2026-04-30T16:09:06Z
   Total Products: 46
 - [Shop Women's Outerwear – All Season Jackets & Coats](https://www.glamsteals.com/collections/outerwear): Explore outerwear for women—jackets, coats, and puffers designed for all seasons. Shop stylish and versatile layers online at Glam Steals Australia.
-  Updated: 2026-04-21T07:47:20Z
-  Total Products: 815
+  Updated: 2026-05-01T03:13:16Z
+  Total Products: 831
 - [Buy Lingerie Online | Crotchless, Satin & Wedding Looks](https://www.glamsteals.com/collections/lingerie): Shop women’s lingerie online at Glam Steals Australia. Explore lace, bridal, sheer, crotchless, and satin styles—Perfect for special nights or wedding day elegance.
-  Updated: 2026-04-20T15:09:53Z
-  Total Products: 45
+  Updated: 2026-05-01T03:13:18Z
+  Total Products: 46
 - [Buy Women's Loungewear | Soft, Stylish, and Chic Comfort](https://www.glamsteals.com/collections/relaxed-luxe): Explore cozy, premium loungewear for women online at Glam Steals Australia —matching sets, knitwear, and soft essentials designed for comfort at home or casual everyday wear.
-  Updated: 2026-04-21T01:43:37Z
-  Total Products: 257
+  Updated: 2026-04-30T17:46:28Z
+  Total Products: 268
 - [Shop Women's Sleepwear – Cotton & Silk Nightwear Sets](https://www.glamsteals.com/collections/sleepwear): From breathable cotton to luxurious silk and warm flannel, shop women's sleepwear and nightwear sets crafted for perfect rest online at Glam Steals Australia.
   Updated: 2026-04-21T01:40:27Z
   Total Products: 9
 - [Swimwear – Swimming Suits & Costumes for Women](https://www.glamsteals.com/collections/swimwear): Dive into swimwear for women—featuring stylish swimming suits and flattering swimming costumes designed for comfort and sun-ready style online at Glam Steals Australia.
-  Updated: 2026-04-21T01:43:28Z
-  Total Products: 121
+  Updated: 2026-04-30T17:45:49Z
+  Total Products: 126
 - [Shop Women’s Activewear | Tops, Shorts, Leggings & More](https://www.glamsteals.com/collections/activewear): Shop women's activewear online at Glam Steals Australia. Explore tops, pants, leggings, hoodies, shorts and more for style and comfort.
-  Updated: 2026-04-23T09:23:38Z
-  Total Products: 115
+  Updated: 2026-05-02T19:32:20Z
+  Total Products: 117
 - [Buy Women's Evening Bags | Stylish Party Clutches & More](https://www.glamsteals.com/collections/evening-bags): Shop evening bags for women online at Glam Steals Australia. Explore party bags, clutches, purses, elegant mini bags, and statement styles perfect for special occasions.
   Updated: 2026-04-20T15:09:53Z
   Total Products: 31
 - [Shop Women's Accessories | Jewellery, Travel & Fashion](https://www.glamsteals.com/collections/accessories): Complete your outfit with women’s accessories online at Glam Steals Australia. Explore jewellery, fashion finds, and travel picks made for every occasion.
-  Updated: 2026-04-23T12:57:18Z
-  Total Products: 858
+  Updated: 2026-05-01T03:13:14Z
+  Total Products: 861
 - [Women's Gold & Silver Jewellery | Necklaces, Rings & More](https://www.glamsteals.com/collections/jewellery): Shop jewellery for women online at Glam Steals Australia. Explore gold and silver necklaces, earrings, bracelets, and rings—elegant pieces for every occasion.
-  Updated: 2026-04-21T07:47:10Z
-  Total Products: 362
+  Updated: 2026-05-01T03:13:06Z
+  Total Products: 371
 - [Shop Women’s Eyewear | Sunglasses & Blue Light](https://www.glamsteals.com/collections/eyewear): Shop women’s eyewear online at Glam Steals Australia. Explore sunglasses, blue light glasses, and fashion frames for daily wear and travel.
-  Updated: 2026-04-21T01:39:54Z
+  Updated: 2026-04-30T14:05:29Z
   Total Products: 190
 - [Buy Women’s Hair Accessories | Everyday to Wedding Looks](https://www.glamsteals.com/collections/hair-accessories): Buy women’s hair accessories perfect for weddings, events, and everyday wear. Shop headpieces, clips, combs, pins, headbands, and more online at Glam Steals Australia.
-  Updated: 2026-04-21T01:42:13Z
-  Total Products: 59
+  Updated: 2026-04-28T05:59:56Z
+  Total Products: 60
 - [Women's Socks – Bamboo, Thermal, Wool, Silk, Lace & More](https://www.glamsteals.com/collections/socks): Wrap your feet in comfort with bamboo, wool, silk, thermal, and lace socks—featuring ankle, travel, ballet, and glitter styles of socks for women at Glam Steals Australia.
   Updated: 2026-04-20T15:09:53Z
   Total Products: 16
 - [Flats for Women | Comfortable & Stylish Everyday Shoes](https://www.glamsteals.com/collections/flats): Shop flats for women online at Glam Steals Australia. Explore comfortable, stylish flat shoes perfect for work, casual days, weddings and bridal or dressy occasions.
-  Updated: 2026-04-21T01:43:47Z
-  Total Products: 531
+  Updated: 2026-05-01T03:13:22Z
+  Total Products: 548
 - [Buy Women's Heels | Everyday, Wedding & Special Occasions](https://www.glamsteals.com/collections/heels): Explore versatile and chic heels for women online at Glam Steals Australia. Shop perfect heels for weddings, events, and everyday elegance
-  Updated: 2026-04-21T07:47:18Z
-  Total Products: 1203
+  Updated: 2026-05-01T03:13:23Z
+  Total Products: 1238
 - [Shop Women's Boots Online | Work, Hiking, Winter & More](https://www.glamsteals.com/collections/boots): Shop women's boots online in Australia. Explore ankle, hiking, winter, and cowgirl styles for work and casual wear.
-  Updated: 2026-04-21T01:43:39Z
-  Total Products: 475
+  Updated: 2026-04-30T16:42:34Z
+  Total Products: 481
 - [Buy Women’s Sporty Sneakers & Athletic Shoes Online](https://www.glamsteals.com/collections/athletic-shoes): Explore online at Glam Steals Australia for stylish women’s athletic shoes. From sporty runners to sleek trainers, step into all-day comfort.
-  Updated: 2026-04-20T15:09:54Z
+  Updated: 2026-04-30T17:46:53Z
   Total Products: 77
 - [Buy Luxury Home Decor | Living, Bedroom & Wall Pieces](https://www.glamsteals.com/collections/home-decor): Shop home decor online at Glam Steals Australia, including wall decor, bedroom and living room decoration. Buy now!
   Updated: 2026-04-20T15:09:54Z
@@ -2086,70 +2086,70 @@
   Updated: 2026-04-20T15:09:54Z
   Total Products: 0
 - [Yoga & Pilates Outfits – Clothing, Leggings, Tops & More](https://www.glamsteals.com/collections/yoga-and-pilates): Shop wide leg yoga pants, leggings, flare pants, tops, shirts, shorts, and socks for women—perfect pilates and yoga outfits online at Glam Steals Australia.
-  Updated: 2026-04-23T09:23:38Z
-  Total Products: 130
+  Updated: 2026-05-02T19:32:20Z
+  Total Products: 132
 - [Buy Women’s Gym Outfits | Clothes, Bags & Accessories](https://www.glamsteals.com/collections/gym): Shop gym outfits, clothes, bags, accessories, and activewear for women online at Glam Steals Australia. Performance-ready styles made for movement and motivation.
-  Updated: 2026-04-23T09:23:38Z
-  Total Products: 107
+  Updated: 2026-05-02T19:32:20Z
+  Total Products: 109
 - [Wedding Outfits: Shop Dresses, Heels, Accessories & More](https://www.glamsteals.com/collections/wedding): Shop wedding-ready styles online at Glam Steals Australia. Explore chic guest outfits, luxury bags, accessories, statement heels, and elegant gloves for women.
-  Updated: 2026-04-23T14:01:38Z
-  Total Products: 855
+  Updated: 2026-05-02T11:32:43Z
+  Total Products: 875
 - [Women’s Party Outfits | Going Out & Night Out Dresses](https://www.glamsteals.com/collections/exclusive-night-out): Discover luxury party outfits for women online at Glam Steals. Explore going out dresses, night out clothes, skirts, tops, pants, and heels curated for confident evenings.
-  Updated: 2026-04-21T03:44:52Z
-  Total Products: 261
+  Updated: 2026-05-01T03:12:59Z
+  Total Products: 262
 - [Baby Shower Outfits | Shop Dresses, Accessories & More](https://www.glamsteals.com/collections/baby-shower): Shop women's baby shower outfits, dresses, jewellery, and accessories for a stylish and elegant look on your special day! Shop online at Glam Steals Australia.
-  Updated: 2026-04-23T15:20:54Z
-  Total Products: 552
+  Updated: 2026-04-30T17:46:52Z
+  Total Products: 555
 - [Designer Summer Outfits for Women | Dresses, Bags & More](https://www.glamsteals.com/collections/summer-edit): Shop designer summer outfits for women—linen sets, summer dresses, skirts, bikinis, one-piece swimsuits, bucket hats, scarves & summer bags at Glam Steals.
-  Updated: 2026-04-23T09:37:47Z
+  Updated: 2026-05-01T04:37:07Z
   Total Products: 632
 - [Women's Winter Outfits – Clothing, Dresses, Jackets & More](https://www.glamsteals.com/collections/winter-edit): Explore winter outfits for women—winter clothing including coats, jackets, dresses, and more to stay cozy, warm and fashionable this season!. Shop online at Glam Steals Australia.
-  Updated: 2026-04-21T06:21:52Z
-  Total Products: 486
+  Updated: 2026-05-01T01:04:41Z
+  Total Products: 487
 - [Shop Brunch & Bubbles Outfits for Women | Luxury Daywear](https://www.glamsteals.com/collections/brunch-bubbles): Shop Brunch & Bubbles outfits for women online at Glam Steals. Discover chic brunch dresses, relaxed sets, and luxury daywear for polished daytime looks.
-  Updated: 2026-04-21T03:58:04Z
+  Updated: 2026-04-30T17:31:18Z
   Total Products: 311
 - [Women's Black Tie Outfits | Dresses, Gowns & Accessories](https://www.glamsteals.com/collections/cocktail-gala-events): Explore luxury black tie outfits for women online at Glam Steals. Shop elegant cocktail dresses, gala gowns, eveningwear, and refined accessories designed for formal event
-  Updated: 2026-04-21T13:42:55Z
-  Total Products: 359
+  Updated: 2026-04-30T17:41:52Z
+  Total Products: 371
 - [Buy Street Style Outfits – Women's Clothing & Streetwear](https://www.glamsteals.com/collections/street-style): Explore street style fashion for women, including streetwear, clothing, oversized jackets, baggy jeans, graphic tees, sneakers, accessories & more online at Glam Steals Australia.
-  Updated: 2026-04-21T01:43:39Z
+  Updated: 2026-04-30T16:33:25Z
   Total Products: 110
 - [Shop Festival Outfits for Women | Dresses, Boots & More](https://www.glamsteals.com/collections/festival): Shop women’s festival outfits online at Glam Steals Australia. Explore boots, hats, scarves, and festival dresses—everything you need for a standout festival look.
-  Updated: 2026-04-23T15:22:53Z
-  Total Products: 697
+  Updated: 2026-05-01T03:12:59Z
+  Total Products: 699
 - [Women's Day Outfits & Gifts – Fashion, Bags, Jewelry & More](https://www.glamsteals.com/collections/womens-day-edit): Shop the best Women’s Day gifts online at Glam Steals Australia—from chic fashion and luxury wear to mini bags, shoes, jewellery, and accessories.
   Updated: 2026-04-20T15:09:55Z
   Total Products: 0
 - [Women's Bachelorette Outfits | Shop Hen Party Dresses](https://www.glamsteals.com/collections/bachelorette): Shop women’s bachelorette outfits online at Glam Steals Australia. Explore chic hen party dresses and stylish looks perfect for the bride-to-be and her crew.
-  Updated: 2026-04-21T05:25:38Z
+  Updated: 2026-04-30T17:31:53Z
   Total Products: 275
 - [Maternity Clothes | Pregnancy Wear, Dresses, Skirts & More](https://www.glamsteals.com/collections/maternity): Shop maternity clothes online at Glam Steals Australia. Explore pregnancy wear, dresses, gowns, jumpsuits & playsuits, hoodies, maxi skirts, and sundresses for every trimester.
-  Updated: 2026-04-21T05:52:53Z
+  Updated: 2026-04-30T17:35:54Z
   Total Products: 107
 - [Race Day Looks – Shop Outfits, Racewear & Accessories](https://www.glamsteals.com/collections/races): Turn heads at the races with standout race day outfits for women, including midi dresses, headpieces, chic racewear, accessories & more. Shop glamorous looks online at Glam Steals Australia.
-  Updated: 2026-04-21T13:42:55Z
+  Updated: 2026-04-30T17:31:53Z
   Total Products: 461
 - [Resort Wear for Women | Flowy Dresses & Breezy Outfits](https://www.glamsteals.com/collections/resort-wear): Shop luxury resort wear and casual resort outfits for women online at Glam Steals Australia. Stylish resort wear dresses, sundresses, and maxi styles are perfect for your next getaway.
-  Updated: 2026-04-23T14:01:38Z
-  Total Products: 831
+  Updated: 2026-05-01T04:37:07Z
+  Total Products: 882
 - [Buy Women's Beach Outfits | Stylish Beachwear & Accessories](https://www.glamsteals.com/collections/beachwear): Explore women's beach outfits including beachwear, swimwear & accessories online at Glam Steals Australia. Stylish bikinis, cover-ups, and essentials for your perfect beach day.
-  Updated: 2026-04-21T01:40:09Z
-  Total Products: 252
+  Updated: 2026-04-30T17:47:38Z
+  Total Products: 289
 - [Shop Shoulder Bags for Women – Stylish, Travel-Ready Looks](https://www.glamsteals.com/collections/shoulder-bags): Explore stylish women's shoulder bags in leather, vintage, denim, and travel-ready styles—perfect for every outfit. Shop now at Glam Steals Australia.
-  Updated: 2026-04-21T13:42:55Z
-  Total Products: 1224
+  Updated: 2026-05-01T05:04:44Z
+  Total Products: 1261
 - [Buy Women's Chic Crossbody Bags | For Travel & Daily Use](https://www.glamsteals.com/collections/crossbody-bags): Explore travel-friendly and everyday crossbody bags for women at Glam Steals Australia. Fashion-forward designs that move with you.
-  Updated: 2026-04-21T07:47:09Z
-  Total Products: 256
+  Updated: 2026-05-01T03:13:11Z
+  Total Products: 267
 - [Buy Women's Laptop Bags | Backpacks & Work Briefcases](https://www.glamsteals.com/collections/laptop-bags): From sleek briefcases to modern backpacks, our laptop bags combine fashion with function—shop durable and stylish options online at Glam Steals Australia.
   Updated: 2026-04-20T15:09:56Z
   Total Products: 0
 - [Women's Wallets & Cardholders | Stylish & Compact Designs](https://www.glamsteals.com/collections/cardholders-wallets): Shop women's cardholders and wallets online in Australia. Sleek, stylish designs perfect for everyday use, travel, and organisation—crafted for convenience and elegance.
-  Updated: 2026-04-21T01:43:41Z
-  Total Products: 258
+  Updated: 2026-05-01T03:13:07Z
+  Total Products: 264
 - [Buy Women's Mini Bags | Designer & Crossbody Styles](https://www.glamsteals.com/collections/mini-bags): Explore designer mini handbags and crossbody styles for travel, weddings, casual outfits, and formal events. Shop premium mini bags online at Glam Steals.
-  Updated: 2026-04-21T01:43:03Z
+  Updated: 2026-04-30T16:54:00Z
   Total Products: 25
 - [Buy Women's Duffle & Weekender Bags Online in Australia](https://www.glamsteals.com/collections/duffle-weekender-bags): Shop women’s duffle and weekender bags online at Glam Steals Australia. Stylish, spacious, and durable designs perfect for travel, overnight stays, or weekend getaways.
   Updated: 2026-04-20T15:09:56Z
@@ -2158,23 +2158,23 @@
   Updated: 2026-04-20T15:09:56Z
   Total Products: 0
 - [Buy Women's Satchel Bags – Crossbody & Handbag Styles](https://www.glamsteals.com/collections/satchels): Explore satchel bags, crossbody satchels, and leather handbags crafted for everyday style. Shop chic designs for women online at Glam Steals Australia.
-  Updated: 2026-04-21T01:41:38Z
-  Total Products: 183
+  Updated: 2026-04-30T17:47:16Z
+  Total Products: 187
 - [Buy Stylish Scarves & Shawls – Wraps for Every Season](https://www.glamsteals.com/collections/scarves-and-shawls): Explore cozy scarves and stylish shawls made for warmth, layering, and fashion-forward looks. Shop must-have wraps for women online at Glam Steals Australia.
-  Updated: 2026-04-21T01:41:08Z
-  Total Products: 296
+  Updated: 2026-05-01T03:13:14Z
+  Total Products: 298
 - [Shop Luxury Watches for Women – Stylish Timepieces](https://www.glamsteals.com/collections/watches): Shop premium watches for women, designed to blend style and sophistication. Shop online at Glam Steals Australia.
-  Updated: 2026-04-20T15:09:56Z
+  Updated: 2026-04-30T06:29:38Z
   Total Products: 46
 - [Shop Women’s Belts Online for Every Outfit](https://www.glamsteals.com/collections/belts): Shop women's belts online in Australia. Buy stylish designer belts perfect for adding a chic touch to any outfit. Explore trendy, classic, and statement belts for every occasion!
-  Updated: 2026-04-23T12:57:18Z
-  Total Products: 321
+  Updated: 2026-04-30T04:45:43Z
+  Total Products: 322
 - [Buy Women's Gloves & Mittens | Snow, Winter, Ski & Sports](https://www.glamsteals.com/collections/gloves): Shop women's gloves online at Glam Steals Australia, from fingerless to winter and snow styles in wool, leather, and more. Buy now online!
   Updated: 2026-04-21T01:40:42Z
   Total Products: 59
 - [Shop Sneakers for Women – Street-Ready & Casual Looks](https://www.glamsteals.com/collections/sneakers): Chic sneakers that go from brunch to city strolls—everyday comfort meets casual cool. Explore stylish options for women online at Glam Steals Australia.
-  Updated: 2026-04-21T13:42:51Z
-  Total Products: 1074
+  Updated: 2026-05-02T01:13:40Z
+  Total Products: 1092
 - [Buy Lip Care Products | Balms, Scrubs, Treatments & More](https://www.glamsteals.com/collections/lip-care): Shop lip care products for women online at Glam Steals Australia. Explore lip balms, masks, scrubs, and treatments designed to soothe, soften, and protect dry, chapped lips.
   Updated: 2026-04-20T15:09:56Z
   Total Products: 0
@@ -2212,7 +2212,7 @@
   Updated: 2026-04-20T15:09:57Z
   Total Products: 4
 - [Shop Women's Backpacks | Casual, Travel & Work Styles](https://www.glamsteals.com/collections/backpacks): Shop women's backpacks online in Australia. Stylish, durable, and versatile designs perfect for travel, work, weekends, and everyday use.
-  Updated: 2026-04-20T15:09:57Z
+  Updated: 2026-04-30T17:43:18Z
   Total Products: 49
 - [Women's Travel Bags – Weekender, Duffel & Carry-On Styles](https://www.glamsteals.com/collections/travel-bags): Explore travel bags for women online at Glam Steals Australia—shop weekender totes, carry-on backpacks, large canvas duffels, and overnight bags for stylish escapes.
   Updated: 2026-04-20T15:09:57Z
@@ -2230,10 +2230,10 @@
   Updated: 2026-04-20T15:09:58Z
   Total Products: 0
 - [Shop A-Line Dresses for Women | Mini, Midi, Maxi & More](https://www.glamsteals.com/collections/a-line-dresses): Shop elegant A-line dresses online at Glam Steals Australia. Explore stylish gowns for weddings, formal events, mini, midi, maxi & cocktail styles. Buy now at Glam Steals!
-  Updated: 2026-04-21T09:43:55Z
-  Total Products: 269
+  Updated: 2026-04-30T17:45:55Z
+  Total Products: 275
 - [Buy Fit & Flare Dresses Online | Flattering Fashion](https://www.glamsteals.com/collections/fit-and-flare-dresses): Shop fit and flare dresses for women online at Glam Steals Australia. Explore flattering silhouettes perfect for day, night, weddings, and everything in between.
-  Updated: 2026-04-21T01:42:24Z
+  Updated: 2026-04-30T14:10:49Z
   Total Products: 132
 - [Shop Empire Waist Dresses for Women | Glam Steals](https://www.glamsteals.com/collections/empire-waist-dresses): Shop empire waist dresses for women online at Glam Steals Australia. Explore empire line styles, flowy silhouettes, flattering fits & timeless elegance.
   Updated: 2026-04-20T15:09:58Z
@@ -2245,53 +2245,53 @@
   Updated: 2026-04-20T15:09:58Z
   Total Products: 9
 - [Short Mini & Short Dresses – Sparkly, Floral & Denim Styles](https://www.glamsteals.com/collections/mini-dresses): Explore mini dresses in sparkly, floral, denim & linen styles. Shop online at Glam Steals for perfect for parties, casual days, and every event.
-  Updated: 2026-04-21T07:47:17Z
-  Total Products: 223
+  Updated: 2026-05-01T03:13:18Z
+  Total Products: 231
 - [Maxi Dresses for Women | Formal, Boho, Floral & Sundress](https://www.glamsteals.com/collections/maxi-dresses): Shop maxi dresses for women online at Glam Steals Australia. Explore formal, floral, boho, sundress, and casual styles—perfect for every season and occasion.
-  Updated: 2026-04-21T07:47:06Z
-  Total Products: 148
+  Updated: 2026-05-01T03:13:05Z
+  Total Products: 150
 - [Buy Halter Neck Dresses | Mini, Midi, Silk & Satin Styles](https://www.glamsteals.com/collections/halter-neck-dresses): Shop halter neck dresses online at Glam Steals Australia. Explore black, mini, midi, silk, and satin styles—perfect for weddings, parties, vacations, and stylish everyday wear.
   Updated: 2026-04-20T19:33:56Z
   Total Products: 13
 - [Casual T-Shirts & Tees – Everyday Style for Women](https://www.glamsteals.com/collections/t-shirts): Explore t-shirts and tees for women—featuring soft fabrics, relaxed fits, and everyday casual wear essentials made for comfort and style online at Glam Steals Australia.
-  Updated: 2026-04-21T07:47:16Z
-  Total Products: 479
+  Updated: 2026-05-01T04:48:23Z
+  Total Products: 483
 - [Buy Women's Bodysuits Online | Lace, Sequin, Sheer & Mesh](https://www.glamsteals.com/collections/bodysuits): Shop bodysuits online at Glam Steals Australia. Explore lace bodysuits, sequin styles, sheer silhouettes & mesh bodysuits for bold, modern looks.
   Updated: 2026-04-20T15:09:58Z
   Total Products: 21
 - [Buy Shirts for Women – Casual to Formal Looks](https://www.glamsteals.com/collections/shirts): Elevate your wardrobe with shirts that go from brunch to boardroom—featuring both casual and formal styles. Shop shirts for women online at Glam Steals Australia.
-  Updated: 2026-04-21T07:47:11Z
-  Total Products: 470
+  Updated: 2026-05-01T03:13:17Z
+  Total Products: 487
 - [Women's Blouses | Silk, Floral, Linen, Satin & Work Blouse](https://www.glamsteals.com/collections/blouses): Explore stylish blouses for women online in Australia! Choose from silk, satin, floral, and lace blouses. Perfect for work and casual wear. Shop now!
-  Updated: 2026-04-21T07:47:12Z
-  Total Products: 211
+  Updated: 2026-05-01T03:13:02Z
+  Total Products: 221
 - [Sweaters & Knitwear – Cozy & Stylish Layers for Women](https://www.glamsteals.com/collections/sweaters-and-knitwear): Shop sweaters and knitwear for women—featuring soft knits, cozy layers, and timeless styles perfect for layering in every season online at Glam Steals Australia.
   Updated: 2026-04-20T15:09:59Z
   Total Products: 55
 - [Trousers – Work, Casual & All-Season Styles for Women](https://www.glamsteals.com/collections/trousers): Explore trousers for women online at Glam Steals Australia—Shop summer and winter styles perfect for work, casual days, and versatile looks for every occasion.
-  Updated: 2026-04-21T07:47:06Z
-  Total Products: 568
+  Updated: 2026-05-01T03:13:01Z
+  Total Products: 586
 - [Shop Jeans for Women | Flattering Fits for Every Style](https://www.glamsteals.com/collections/jeans): Shop women’s jeans online at Glam Steals Australia. Explore skinny, straight, flared, and wide-leg jeans, and flattering denim fits for every shape, style, and occasion.
-  Updated: 2026-04-21T07:47:20Z
-  Total Products: 365
+  Updated: 2026-05-01T03:13:16Z
+  Total Products: 371
 - [Buy Women's Pants Online | Casual, Work & Dressy Looks](https://www.glamsteals.com/collections/pants): Find women's pants for every occasion—casual, work, dressy, tailored, and statement pieces. Shop polished styles online now at Glam Steals Australia.
-  Updated: 2026-04-21T01:43:12Z
-  Total Products: 54
+  Updated: 2026-05-01T03:12:59Z
+  Total Products: 55
 - [Shop Women's Skorts – Denim, Linen, Cargo & Sporty Looks](https://www.glamsteals.com/collections/skorts): Update your wardrobe with skorts in denim, linen, cargo, and sporty silhouettes made for comfort and versatility. Shop online at Glam Steals Australia.
   Updated: 2026-04-20T15:09:59Z
   Total Products: 2
 - [Shop Women's Skirts | Everyday, Work & Party Styles](https://www.glamsteals.com/collections/skirts): Shop women's skirts online at Glam Steals Australia. Mini, midi, and maxi styles are perfect for everyday wear, work, or special occasions—flattering fits for every wardrobe.
-  Updated: 2026-04-21T07:47:16Z
-  Total Products: 558
+  Updated: 2026-04-30T17:46:52Z
+  Total Products: 561
 - [Stylish Women's Shorts – Jeans, Cargo, Linen & More Styles](https://www.glamsteals.com/collections/shorts): Shop women’s shorts in denim, cotton, linen, cargo, pajama, and dressy styles—perfect for summer, lounging, or everyday wear. Available at Glam Steals Australia.
-  Updated: 2026-04-21T07:47:16Z
-  Total Products: 65
+  Updated: 2026-04-30T16:44:32Z
+  Total Products: 69
 - [Women's Blazers | Leather, Tweed, Cropped & Long Blazers](https://www.glamsteals.com/collections/blazers): Upgrade your wardrobe with trendy blazers for women, including leather, tweed, cropped, and long blazers. Available online in Australia. Buy now & style it your way!
   Updated: 2026-04-21T01:40:55Z
   Total Products: 94
 - [Shop Women’s Bras Online | Find Your Fit](https://www.glamsteals.com/collections/bras): Shop women's bras online at Glam Steals in Australia. Explore wirefree bras, lace bralettes, strapless, sports styles, maternity bras, high impact, and more styles.
-  Updated: 2026-04-20T15:09:59Z
-  Total Products: 37
+  Updated: 2026-05-01T03:13:18Z
+  Total Products: 38
 - [Women's Underwear | Seamless, Cotton & Everyday Styles](https://www.glamsteals.com/collections/underwear): Shop women's underwear online at Glam Steals Australia. Comfortable, seamless, and everyday styles including briefs, bikinis, and high-waisted fits designed for all-day comfort and confidence.
   Updated: 2026-04-20T15:09:59Z
   Total Products: 13
@@ -2314,14 +2314,14 @@
   Updated: 2026-04-20T15:10:00Z
   Total Products: 2
 - [Shop Women’s Earrings, Hoops, Studs | Gold & Silver Styles](https://www.glamsteals.com/collections/earrings): Shop women’s earrings online at Glam Steals Australia. Explore gold, sterling silver, statement drops, and everyday studs in elevated finishes.
-  Updated: 2026-04-21T07:47:10Z
-  Total Products: 127
+  Updated: 2026-04-30T04:46:09Z
+  Total Products: 133
 - [Women's Rings – Elegant Gold & Silver Jewelry Styles](https://www.glamsteals.com/collections/rings): Shop elegant rings in gold & silver online at Glam Steals Australia, designed for modern women who love timeless elegance. Perfect for adding sparkle and sophistication to any outfit.
-  Updated: 2026-04-20T15:10:00Z
-  Total Products: 8
+  Updated: 2026-04-30T14:15:29Z
+  Total Products: 10
 - [Shop Necklaces for Women – Gold & Silver Styles](https://www.glamsteals.com/collections/necklaces): Add a touch of luxury with women's necklaces crafted in gold and silver. Explore stunning designs online now at Glam Steals Australia.
-  Updated: 2026-04-20T15:10:00Z
-  Total Products: 122
+  Updated: 2026-05-01T03:13:06Z
+  Total Products: 123
 - [Shop Women's Bracelets, Bangles & Cuffs Online](https://www.glamsteals.com/collections/bracelets): Shop gold & sterling silver bracelets for women in Australia, from bangles to cuffs. Buy online now!
   Updated: 2026-04-20T15:10:00Z
   Total Products: 77
@@ -2335,11 +2335,11 @@
   Updated: 2026-04-20T15:10:00Z
   Total Products: 0
 - [Shop Optical Frames for Women– Trendy & Classic Styles](https://www.glamsteals.com/collections/optical-frames): Explore optical frames designed for everyday wear—stylish, comfortable, and versatile. Shop chic eyewear online now at Glam Steals Australia.
-  Updated: 2026-04-21T01:39:59Z
+  Updated: 2026-04-30T14:05:29Z
   Total Products: 333
 - [Buy Women's Hats Online | Trendy & Timeless Styles](https://www.glamsteals.com/collections/hats): Top off your look with stylish hats & headwear. Shop fashionable hats for women, fedoras, bucket hats, berets, sun hats, and more—perfect for every season and outfit.
-  Updated: 2026-04-21T01:43:22Z
-  Total Products: 238
+  Updated: 2026-05-01T03:13:00Z
+  Total Products: 240
 - [Shop Women's Hair Ties | Scrunchies, Elastics & More](https://www.glamsteals.com/collections/hair-ties): Shop hair ties for women online at Glam Steals Australia. Explore stylish elastics, scrunchies, and coils for all-day hold and comfort.
   Updated: 2026-04-21T01:40:52Z
   Total Products: 1
@@ -2353,14 +2353,14 @@
   Updated: 2026-04-20T15:10:01Z
   Total Products: 4
 - [Shop Loafers for Women | Suede, Heeled & More Styles](https://www.glamsteals.com/collections/loafers): Shop loafers for women online at Glam Steals Australia. Explore chunky, penny, heeled, leather, suede, and more styles—perfect for work, weekends, or elevated casual looks.
-  Updated: 2026-04-23T21:51:37Z
-  Total Products: 138
+  Updated: 2026-04-30T17:35:11Z
+  Total Products: 140
 - [Mules: Women's Shoes, Heels, Sandals & Mule Sneakers](https://www.glamsteals.com/collections/mules): Step into style with women’s mules—featuring heels, sandals, wedge styles, open toes & mule sneakers for women. Shop chic shoes online at Glam Steals Australia.
-  Updated: 2026-04-23T19:36:41Z
-  Total Products: 146
+  Updated: 2026-04-30T17:41:41Z
+  Total Products: 148
 - [Women's Slip-Ons Shoes – Comfortable & Trendy Footwear](https://www.glamsteals.com/collections/slip-ons): Slide into effortless style with women's slip-ons shoes—casual, chic, and perfect for everyday wear. Shop stylish slip-ons online at Glam Steals Australia.
-  Updated: 2026-04-21T01:42:06Z
-  Total Products: 38
+  Updated: 2026-04-30T16:44:26Z
+  Total Products: 40
 - [Flip Flops for Women | Casual & Beach-Ready Styles](https://www.glamsteals.com/collections/flip-flops): Shop women’s flip flops online at Glam Steals Australia. Explore casual, comfy, and stylish styles perfect for summer, beach days, and everyday wear.
   Updated: 2026-04-20T15:10:01Z
   Total Products: 11
@@ -2374,25 +2374,25 @@
   Updated: 2026-04-20T15:10:01Z
   Total Products: 103
 - [Buy Women's Block Heels Online in Australia](https://www.glamsteals.com/collections/block-heels): Shop women’s block heels online in Australia. Stylish and supportive heels perfect for all-day wear—ideal for work, events, or everyday outfits.
-  Updated: 2026-04-21T01:42:50Z
+  Updated: 2026-04-30T16:09:42Z
   Total Products: 35
 - [Women’s Kitten Heels | Sleek, Low & Stylish Options](https://www.glamsteals.com/collections/kitten-heels): Shop kitten heels in sleek, feminine styles online at Glam Steals Australia. From office to evening, these low heels offer timeless elegance with wearable comfort.
   Updated: 2026-04-21T01:42:47Z
   Total Products: 11
 - [Buy Women's Stylish Ankle Boots Online](https://www.glamsteals.com/collections/ankle-boots): Explore women’s ankle boots for every season. Shop sleek, comfy styles perfect for day-to-night looks—chunky heels, classic blacks, and more online at Glam Steals Australia.
-  Updated: 2026-04-21T01:43:04Z
-  Total Products: 169
+  Updated: 2026-04-30T16:42:34Z
+  Total Products: 174
 - [Buy Knee High Boots Online | Chic Tall Boots for Women](https://www.glamsteals.com/collections/knee-high-boots): Shop knee-high boots for women online at Glam Steals Australia. Explore flat, heeled, long boots, over-knee high boots, and leather styles—perfect for dressing up or everyday chic.
   Updated: 2026-04-21T01:43:39Z
   Total Products: 27
 - [Shop Over the Knee Boots & Thigh High Boots for Women](https://www.glamsteals.com/collections/over-the-knee-boots): Step up your style with over the knee boots and thigh high boots for women. Shop bold, statement footwear online now at Glam Steals Australia.
-  Updated: 2026-04-21T01:43:39Z
+  Updated: 2026-04-30T14:07:59Z
   Total Products: 35
 - [Buy Women's Hiking Shoes | Adventure-Ready Footwear](https://www.glamsteals.com/collections/hiking-shoes): Stay grounded on every adventure with durable and stylish hiking shoes for women online at Glam Steals Australia. Perfect for nature walks, weekend hikes, and active getaways.
-  Updated: 2026-04-20T15:10:02Z
+  Updated: 2026-04-30T17:46:53Z
   Total Products: 36
 - [Buy Women's Gym Shoes | For Workout, Weightlifting & More](https://www.glamsteals.com/collections/gym-shoes): Buy women’s gym shoes online at Glam Steals Australia. Explore workout, weightlifting, and training styles designed for support, performance, and all-day comfort. Shop now!
-  Updated: 2026-04-20T15:10:02Z
+  Updated: 2026-04-30T17:43:17Z
   Total Products: 16
 - [Buy Women's Premium Face Wash & Cleansing Essentials](https://www.glamsteals.com/collections/cleansers-and-face-wash): Shop women’s cleansers and face wash online at Glam Steals Australia. Explore face wash Wipes, hydrating cleansers, gentle foaming formulas & skincare staples.
   Updated: 2026-04-20T15:10:02Z
@@ -2416,7 +2416,7 @@
   Updated: 2026-04-20T15:10:02Z
   Total Products: 10
 - [Lip Care Masks | Deep Conditioning & Lip Repair](https://www.glamsteals.com/collections/lip-masks): Shop the best lip masks for women online at Glam Steals Australia, offering hydration and nourishment for beautiful lips. Shop today!
-  Updated: 2026-04-23T17:33:39Z
+  Updated: 2026-05-01T01:12:59Z
   Total Products: 1955
 - [Shop Eye Masks for Women | Eye Patches Online](https://www.glamsteals.com/collections/eye-masks): Shop under eye masks for women online at Glam Steals Australia. Target dark circles, puffiness, and tired eyes with hydrating, soothing eye patches.
   Updated: 2026-04-20T15:10:02Z
@@ -2494,26 +2494,26 @@
   Updated: 2026-04-20T15:10:04Z
   Total Products: 2
 - [Shop Women’s Coats | Winter, Wool, Trench & More Styles](https://www.glamsteals.com/collections/coats): Shop women’s coats online in Australia. Shop winter coats, wool styles, trench coats, peacoats, long and short coats—perfect for staying warm and stylish all season.
-  Updated: 2026-04-20T15:10:04Z
-  Total Products: 107
+  Updated: 2026-05-01T03:13:09Z
+  Total Products: 108
 - [Buy Jackets for Women | Stylish Outerwear for All Seasons](https://www.glamsteals.com/collections/jackets): Explore versatile women’s premium jackets for every season. Shop casual layers, smart outerwear, and on-trend styles—available online at Glam Steals Australia.
-  Updated: 2026-04-22T18:26:49Z
-  Total Products: 457
+  Updated: 2026-05-01T18:55:40Z
+  Total Products: 463
 - [Face Skincare for Women | Cleansers, Moisturisers & More](https://www.glamsteals.com/collections/face-skincare): Shop women’s face skincare online in Australia. Explore cleansers, serums, moisturisers, face masks, and treatments made to hydrate, brighten, and protect every skin type.
   Updated: 2026-04-20T15:10:04Z
   Total Products: 0
 - [Gloves (Supplied)](https://www.glamsteals.com/collections/gloves12)
-  Updated: 2026-04-21T01:40:42Z
-  Total Products: 88
+  Updated: 2026-04-30T04:50:29Z
+  Total Products: 89
 - [Scarves (Supplied)](https://www.glamsteals.com/collections/scarves)
-  Updated: 2026-04-23T17:49:12Z
-  Total Products: 593
+  Updated: 2026-05-01T03:13:14Z
+  Total Products: 595
 - [Elegant Wedding Dresses & Gowns – Shop Now!](https://www.glamsteals.com/collections/wedding-dresses): Shop wedding dresses and gowns online at Glam Steals Australia—perfect for brides and stylish guests. Make your special day unforgettable with our elegant collection.
   Updated: 2026-04-20T15:10:04Z
   Total Products: 0
 - [Women's Cocktail Dresses | Formal, Party & Wedding Styles](https://www.glamsteals.com/collections/cocktail-dresses): Shop for women's cocktail dresses online. Explore elegant styles for formal events, parties, and weddings, including sequin, satin, lace, and bodycon designs suitable for all seasons, both summer and winter.
-  Updated: 2026-04-21T01:43:38Z
-  Total Products: 53
+  Updated: 2026-04-30T16:34:49Z
+  Total Products: 57
 - [Shop Elegant Ball Gown Wedding Dresses Online](https://www.glamsteals.com/collections/ball-gown-wedding-dresses): Explore ball gown wedding dresses online at Glam Steals Australia. Shop elegant bridal gowns for a majestic and memorable wedding day appearance.
   Updated: 2026-04-20T15:10:05Z
   Total Products: 0
@@ -2587,8 +2587,8 @@
   Updated: 2026-04-20T15:10:06Z
   Total Products: 0
 - [Shop Elegant Evening Dresses & Formal Gowns | Glam Steals](https://www.glamsteals.com/collections/evening-dresses-and-gowns): Shop evening dresses and gowns online at Glam Steals Australia. Explore long silhouettes, formal styles & elevated elegance for every occasion.
-  Updated: 2026-04-21T01:43:38Z
-  Total Products: 53
+  Updated: 2026-04-30T16:34:49Z
+  Total Products: 57
 - [Buy Stylish Birthday Outfits | Birthday Dress for Women](https://www.glamsteals.com/collections/birthday-dresses): Buy birthday outfits online at Glam Steals Australia. Shop women's birthday dresses with sparkle, structure, and standout style—perfect for your big day, including your 21st, 30th, and 40th birthday.
   Updated: 2026-04-20T15:10:06Z
   Total Products: 0
@@ -2596,8 +2596,8 @@
   Updated: 2026-04-20T15:10:06Z
   Total Products: 0
 - [Chic Rave Outfits | Shop Rave Wear, Clothing & Accessories](https://www.glamsteals.com/collections/rave-outfit): Shop women's rave outfits, rave clothing, rave wear and more online at Glam Steals Australia. Find vibrant and stylish pieces to stand out at your next rave event.
-  Updated: 2026-04-23T15:22:53Z
-  Total Products: 663
+  Updated: 2026-05-01T03:12:59Z
+  Total Products: 665
 - [Shop Chic Evening Tops & Formal  Blouses for Women](https://www.glamsteals.com/collections/evening-tops-and-blouses): Shop women’s evening tops and blouses online at Glam Steals Australia. Explore elegant styles for dinners, events & after-dark occasions.
   Updated: 2026-04-21T01:41:24Z
   Total Products: 6
@@ -2617,7 +2617,7 @@
   Updated: 2026-04-20T15:10:07Z
   Total Products: 0
 - [Shop Workout Shorts for Women | Gym & Running Styles](https://www.glamsteals.com/collections/gym-shorts): Women’s workout shorts are designed for movement and comfort. Shop stylish training, gym, and running shorts online at Glam Steals Australia. Upgrade your fitness wardrobe today!
-  Updated: 2026-04-20T15:10:07Z
+  Updated: 2026-04-30T16:44:32Z
   Total Products: 1
 - [Women's Gym Leggings & Trousers | Shop Workout Pants](https://www.glamsteals.com/collections/gym-leggings-and-trousers): Explore gym leggings and workout pants made for movement. Shop supportive sports tights, leggings, and trousers online at Glam Steals Australia.
   Updated: 2026-04-20T15:10:07Z
@@ -2629,7 +2629,7 @@
   Updated: 2026-04-20T15:10:07Z
   Total Products: 0
 - [Buy Summer Dresses – Mini, Midi, Maxi, Cotton & More](https://www.glamsteals.com/collections/summer-dresses): Shop summer dresses for women—featuring mini, midi, and maxi styles in cotton and linen, perfect for work and casual days online at Glam Steals Australia.
-  Updated: 2026-04-23T09:37:48Z
+  Updated: 2026-04-30T16:10:33Z
   Total Products: 56
 - [Jersey Tops for Women | T-Shirts, Shirts & Everyday Styles](https://www.glamsteals.com/collections/jersey-tops): Shop jersey tops, shirts, and T-shirts for women online at Glam Steals Australia. Explore soft, breathable styles perfect for layering or casual everyday outfits.
   Updated: 2026-04-20T15:10:07Z
@@ -2644,17 +2644,17 @@
   Updated: 2026-04-20T15:10:08Z
   Total Products: 23
 - [Buy Women's Printed T-Shirts | Graphic Tees for Women](https://www.glamsteals.com/collections/graphic-t-shirts): Explore our collection of women’s graphic tees and printed t-shirts. Shop online at Glam Steals Australia for unique designs and standout styles!
-  Updated: 2026-04-20T15:10:08Z
+  Updated: 2026-04-30T17:38:02Z
   Total Products: 65
 - [Buy Women's Essential T-Shirts | Casual & Everyday Tees](https://www.glamsteals.com/collections/essential-t-shirts): Shop essential T-shirts for women online at Glam Steals Australia. Everyday tees are designed for comfort and style, perfect for casual wear and layering. Find your wardrobe must-haves today!
-  Updated: 2026-04-20T15:10:08Z
+  Updated: 2026-04-30T17:05:09Z
   Total Products: 10
 - [Women's Nirvana T-Shirts – Short & Long Sleeve Styles](https://www.glamsteals.com/collections/nirvana-t-shirts): Rock your style with Nirvana T-shirts for women—short sleeve and long sleeve styles made for casual cool. Shop online now at Glam Steals Australia.
   Updated: 2026-04-20T15:10:08Z
   Total Products: 0
 - [Shop Women’s Crew Neck T-Shirts | Glam Steals](https://www.glamsteals.com/collections/crew-neck-t-shirts): Shop premium crew neck T-shirts for women at Glam Steals Australia. Made from soft cotton with a classic fit and soft textures, perfect for layering. From workdays to weekends, shop now!
-  Updated: 2026-04-21T19:36:27Z
-  Total Products: 364
+  Updated: 2026-05-01T04:48:23Z
+  Total Products: 368
 - [Shop Women's Boxy T-Shirts Online | Australia](https://www.glamsteals.com/collections/boxy-t-shirts): Shop boxy t-shirts for women in Australia, including crop and oversized styles. Find long sleeve options and versatile, trendy tees for a relaxed look.
   Updated: 2026-04-20T15:10:08Z
   Total Products: 3
@@ -2668,11 +2668,11 @@
   Updated: 2026-04-20T15:10:08Z
   Total Products: 0
 - [Buy Women's Summer Hats – Beach & Spring Sun Hat Styles](https://www.glamsteals.com/collections/summer-hats): Shop summer hats for women, including wide-brim beach hats and lightweight spring sun hats—perfect for sunny days and stylish shade online at Glam Steals Australia.
-  Updated: 2026-04-21T01:43:22Z
-  Total Products: 46
+  Updated: 2026-04-30T17:06:28Z
+  Total Products: 47
 - [Buy Summer & Streetwear Bucket Hats for Women](https://www.glamsteals.com/collections/bucket-hats): Shop bucket hats online at Glam Steals Australia. Explore summer-ready, casual and streetwear bucket hats in denim, cotton and printed styles.
-  Updated: 2026-04-21T01:43:22Z
-  Total Products: 46
+  Updated: 2026-04-30T17:06:28Z
+  Total Products: 47
 - [Buy Trendy Cowboy Hats & Western Hats for Women](https://www.glamsteals.com/collections/cowboy-hats): Add flair to any look with women’s cowboy hats from Glam Steals Australia. Perfect for concerts, festivals, or styled streetwear. Shop cowgirl hats online.
   Updated: 2026-04-20T15:10:08Z
   Total Products: 0
@@ -3550,10 +3550,30 @@
     Updated: 2026-04-23T10:57:06Z
     Author: Priyanka Bimal
     Tags: Style Guide
-  - [Step Into Glamour: Heels To Refine Your Couture Looks](https://www.glamsteals.com/blogs/glam-steals-stories/step-into-glamour-heels-to-refine-your-couture-looks): <p><span>In the landscape of couture footwear, these heels are conversation starters. </span></p>
-    Updated: 2026-04-23T18:29:31Z
+  - [Step Into Glamour: Heels to Refine Your Couture Look](https://www.glamsteals.com/blogs/glam-steals-stories/step-into-glamour-heels-to-refine-your-couture-looks): Step Into Glamour: Heels to Refine Your Couture Look
+    Updated: 2026-04-27T06:13:34Z
     Author: Priyanka Bimal
     Tags: Occasion Edit
+  - [From Nice to Monaco: Riviera Dressing Done Right](https://www.glamsteals.com/blogs/glam-steals-stories/from-nice-to-monaco-riviera-dressing-done-right): <p>Incorporating Miu Miu into your wardrobe ensures your French outfit feel modern, dynamic, and distinctly individual.</p>
+    Updated: 2026-04-27T18:29:31Z
+    Author: Priyanka Bimal
+    Tags: Style Guide
+  - [From Positano to Portofino: The Art of Italian Resort Dressing](https://www.glamsteals.com/blogs/glam-steals-stories/from-positano-to-portofino-the-art-of-italian-resort-dressing): <p>True Italian style clothing is timeless, expressive, and always a little bit indulgent.</p>
+    Updated: 2026-04-28T18:34:01Z
+    Author: Priyanka Bimal
+    Tags: Style Guide
+  - [Escape in Style: The Modern Vacation Wardrobe](https://www.glamsteals.com/blogs/glam-steals-stories/escape-in-style-the-modern-vacation-wardrobe): <p>The new language of travel fashion revolves around fluid silhouettes, elevated basics, and pieces that transition effortlessly from day to night. </p>
+    Updated: 2026-04-29T18:34:30Z
+    Author: Priyanka Bimal
+    Tags: Style Guide
+  - [Met Gala’s Best Dressed Through the Years: Icons, Drama & Defining Moments](https://www.glamsteals.com/blogs/glam-steals-stories/met-gala-s-best-dressed-through-the-years-icons-drama-defining-moments): <p>Over the years, Met Gala outfits have transcended trends, evolving into cultural moments that define entire eras of style.</p>
+    Updated: 2026-04-30T18:29:27Z
+    Author: Priyanka Bimal
+    Tags: Occasion Edit
+  - [25 Years of Stella McCartney: Iconic Designs & Sustainable Style Evolution](https://www.glamsteals.com/blogs/glam-steals-stories/25-years-of-stella-mccartney-iconic-designs-sustainable-style-evolution): <p>McCartney has established herself as a leader in sustainable, cruelty-free fashion, pioneering innovative alternatives to animal-based materials.</p>
+    Updated: 2026-05-01T18:29:40Z
+    Author: Priyanka Bimal
+    Tags: Brand In Focus
 
 ## Store Pages
 
@@ -3579,6 +3599,8 @@
   Updated: 2026-02-28T09:06:43Z
 - [Brands page](https://www.glamsteals.com/pages/brands-page)
   Updated: 2026-04-01T04:48:32Z
+- [Loyalty Program](https://www.glamsteals.com/pages/loyalty-program)
+  Updated: 2026-04-29T14:39:52Z
 
 ## Policies
 
