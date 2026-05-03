@@ -6,7 +6,7 @@
 - Timezone: America/Bogota
 - Created At: 2026-01-01T19:35:07Z
 - Contact Email: casatekitty98@gmail.com
-- Updated At: 2026-04-26T00:00:29.824Z
+- Updated At: 2026-05-03T00:00:35.046Z
 
 ## Products
 
@@ -73,6 +73,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0697/8764/8131/files/Lip_Glaze_Mariposa.png?v=1771378212
   Price: 5500,00 $ COP
+- [Lip Gloss Xixi - Brillo Labial Hidratante | CASA.T](https://casa-t-2.myshopify.com/products/lip-gloss-xixi-brillo-labial-hidratante): Lip Gloss Xixi con acabado ultra brillante, textura ligera no pegajosa e hidratación profunda. Labios jugosos y luminosos todo el día. CASA.T Colombia.
+  Updated: 2026-04-29T02:05:04Z
+  Vendor: CASA.T
+  Product Type: Maquillaje - Labios
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0697/8764/8131/files/ChatGPTImage28abr2026_07_10_38p.m..png?v=1777426888
+  Price: 0,00 $ COP
 
 ## Collections
 
