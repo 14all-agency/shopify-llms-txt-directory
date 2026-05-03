@@ -10,39 +10,39 @@
 - Contact Email: jaemcmahon4@gmail.com
 - Contact Phone: +64274798723
 - Address: 128 Shakespeare Rd RD1 Waiuku NZ
-- Updated At: 2026-04-20T00:00:21.017Z
+- Updated At: 2026-05-03T00:00:35.484Z
 
 ## Products
 
 - [Regular Scoop – Mystery Gift Box NZ | SweetScoops.nz](https://sweetscoops.co.nz/products/regular-scoop): Surprise someone special with the Regular Scoop — a handpicked mystery gift with 10+ surprise tokens. Perfect for birthdays, Easter & more. Ships within NZ.
-  Updated: 2026-04-18T14:12:19Z
+  Updated: 2026-05-02T07:21:38Z
   Vendor: SweetScoops.nz
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0764/8467/3694/files/1775959610829.png?v=1775972616
   Price: $10.00 NZD
 - [Large Scoop](https://sweetscoops.co.nz/products/large-scoop): 20 mystery tokens of pure joy — because why have one surprise when you can have twenty?Twice the size of the regular scoop, curated with collectibles, novelty toys, and fun finds. Great for bigger kids, teens, or serious surprise lovers. Every scoop is different — that's half the fun! Ships within NZ. 🍦✨
-  Updated: 2026-04-18T10:53:06Z
+  Updated: 2026-05-02T07:21:38Z
   Vendor: SweetScoops.nz
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0764/8467/3694/files/rn-image_picker_lib_temp_3945c6eb-f4ba-45b3-84fb-f6ba98f70589.png?v=1775972422
   Price: $20.00 NZD
 - [Gacha Ball Surprise – Mystery Gift NZ | SweetScoops.nz](https://sweetscoops.co.nz/products/gacha-ball-surprise): Twist, open and discover! The Gacha Ball Surprise is a fun mystery gift handpicked just for you. Great for all ages. Ships within NZ.
-  Updated: 2026-04-18T14:13:20Z
+  Updated: 2026-05-02T07:21:41Z
   Vendor: SweetScoops.nz
   Product Type: 
   Availability: Available
   Price: $6.00 NZD
 - [Surprise Bag](https://sweetscoops.co.nz/products/surprise-bag): Not your average gift bag. Plushies, blind boxes, sleep masks & more — every bag is a one-of-a-kind adventure.A mystery gift bag packed with unique items you won't find in our regular scoops. Every bag is different, every unboxing is a moment. Perfect for gifting or treating yourself! Ships within NZ. 🍦✨
-  Updated: 2026-04-18T14:14:02Z
+  Updated: 2026-04-26T23:37:27Z
   Vendor: SweetScoops.nz
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0764/8467/3694/files/1775978269394.png?v=1775978772
   Price: $15.00 NZD
 - [Regular – Mystery Gift for Boys NZ | SweetScoops.nz](https://sweetscoops.co.nz/products/dudes-scoop-regular): handpicked mystery scoop for boys aged 2–12! Packed with surprise tokens chosen with dudes in mind. Perfect for birthdays & more. Ships within NZ.
-  Updated: 2026-04-18T00:40:20Z
+  Updated: 2026-05-01T21:23:33Z
   Vendor: SweetScoops.nz
   Product Type: 
   Availability: Available
@@ -56,14 +56,14 @@
   Image: https://cdn.shopify.com/s/files/1/0764/8467/3694/files/rn-image_picker_lib_temp_0b582f60-3d6c-4460-8742-0b5b194197df.png?v=1775960344
   Price: $28.00 NZD
 - [Sparkle Scoop Jewellery Mystery Box | SweetScoops NZ](https://sweetscoops.co.nz/products/sparkle-scoop): Get 10 tokens and surprise jewellery items in the Sparkle Scoop mystery box. Perfect for jewellery lovers — shop SweetScoops NZ.
-  Updated: 2026-04-18T00:40:20Z
+  Updated: 2026-04-26T23:20:48Z
   Vendor: SweetScoops.nz
   Product Type: Mystery Box
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0764/8467/3694/files/rn-image_picker_lib_temp_f4744bb2-6afe-44d1-becd-83cf5ed3963e.png?v=1775960345
   Price: $14.00 NZD
 - [Arty Scoop Stationery Mystery Box | SweetScoops NZ](https://sweetscoops.co.nz/products/arty-scoop): Get 10 tokens and surprise stationery items in the Arty Scoop mystery box. Perfect for creatives — shop SweetScoops NZ.
-  Updated: 2026-04-18T00:40:20Z
+  Updated: 2026-04-25T21:41:27Z
   Vendor: SweetScoops.nz
   Product Type: Mystery Box
   Availability: Available
@@ -77,7 +77,7 @@
   Image: https://cdn.shopify.com/s/files/1/0764/8467/3694/files/rn-image_picker_lib_temp_58537497-070a-4a17-b91a-237273f523f6.png?v=1775960345
   Price: $16.00 NZD
 - [Deluxe Scoop Mystery Box | SweetScoops NZ](https://sweetscoops.co.nz/products/deluxe-scoop): Get 20 tokens and 4 special gifts in the Deluxe Scoop mystery box. The ultimate surprise experience — shop SweetScoops NZ.
-  Updated: 2026-04-19T00:35:22Z
+  Updated: 2026-04-25T01:02:37Z
   Vendor: SweetScoops.nz
   Product Type: Mystery Box
   Availability: Available
@@ -97,11 +97,18 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0764/8467/3694/files/rn-image_picker_lib_temp_d54f63b9-3119-45a9-9ed4-553a216cc03e.png?v=1776071817
   Price: $10.00 NZD
+- [Gift Box](https://sweetscoops.co.nz/products/gift-box): Preselected items from our Scoop shop. An easy gift option for birthdays special occasions or a little treat for yourself
+  Updated: 2026-04-22T12:30:53Z
+  Vendor: SweetScoops.nz
+  Product Type: Mystery Box
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0764/8467/3694/files/rn-image_picker_lib_temp_936b815a-5237-43a1-9802-4a838976e268.png?v=1776817734
+  Price: $15.00 NZD
 
 ## Collections
 
 - [Home page](https://sweetscoops.co.nz/collections/frontpage)
-  Updated: 2026-04-19T06:42:08Z
+  Updated: 2026-05-02T11:21:29Z
   Total Products: 4
 - [Toys and Games example products](https://sweetscoops.co.nz/collections/toys-and-games-example-products)
   Updated: 2026-04-19T06:42:08Z
@@ -110,17 +117,20 @@
   Updated: 2026-04-19T06:42:08Z
   Total Products: 0
 - [Easter Gifts](https://sweetscoops.co.nz/collections/easter-gifts): Find the perfect Easter gift for your loved ones. Shop our full range of gifts this Easter! Use code EASTER15 for 15% off.
-  Updated: 2026-04-17T22:53:56Z
-  Total Products: 5
+  Updated: 2026-05-02T11:21:29Z
+  Total Products: 6
 - [New Arrivals](https://sweetscoops.co.nz/collections/new-arrivals): Fresh drops and the latest mystery gift boxes — be the first to discover what's new at SweetScoops.
-  Updated: 2026-04-19T06:42:08Z
-  Total Products: 2
+  Updated: 2026-05-02T11:21:29Z
+  Total Products: 3
 - [Gift Ideas](https://sweetscoops.co.nz/collections/gift-ideas): Not sure what to get? Browse our curated mystery gift boxes — perfect for birthdays, celebrations, or just because.
-  Updated: 2026-04-19T06:42:08Z
+  Updated: 2026-05-02T11:21:29Z
   Total Products: 2
 - [All Products](https://sweetscoops.co.nz/collections/all-products)
-  Updated: 2026-04-19T06:42:08Z
-  Total Products: 5
+  Updated: 2026-05-02T11:21:29Z
+  Total Products: 6
+- [Mystery Gift Boxes & Surprise Scoops - SweetScoops.nz](https://sweetscoops.co.nz/collections/mystery-scoops): Shop our Mystery Scoops gift boxes — surprise-filled, handpicked, and perfect for any occasion. Order yours at SweetScoops.nz.
+  Updated: 2026-05-02T11:21:29Z
+  Total Products: 3
 
 ## Blogs
 
