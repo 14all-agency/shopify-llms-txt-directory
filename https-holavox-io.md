@@ -6,35 +6,35 @@
 - Timezone: Europe/Paris
 - Created At: 2025-10-19T15:48:08Z
 - Contact Email: contact@holavox.io
-- Updated At: 2026-04-20T00:00:30.833Z
+- Updated At: 2026-05-03T00:00:20.151Z
 
 Traducteur vocal instantané HOLAVOX
 
 ## Products
 
 - [Traducteur vocal instantané portable - HOLAVOX](https://holavox.io/products/holavox-traducteur-vocal-instantane-portable): Traducteur vocal instantané portable - HOLAVOX. Traduction en ligne ou en mode hors-ligne, carte SIM intégrée. Simple, rapide et précis
-  Updated: 2026-04-17T02:11:23Z
+  Updated: 2026-05-02T23:24:36Z
   Vendor: Holavox
   Product Type: traducteur vocal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/7432/4866/files/1_image_traducteur_avec_logo_premium_noir.jpg?v=1770933736
   Price: 139,90 € EUR
 - [Ecouteurs traducteurs sans fil](https://holavox.io/products/ecouteurs-traducteurs-sans-fil): Ecouteurs traducteurs sans fil Traduction instantanée de nombreuses langues en Bluetooth ou tout simplement pour écouter de la musique. Traduction instantanée
-  Updated: 2026-04-16T04:27:08Z
+  Updated: 2026-04-29T09:14:38Z
   Vendor: Holavox
   Product Type: écouteurs de traduction
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/7432/4866/files/1_boitier_ecouteur_premium.jpg?v=1767913176
   Price: 34,90 € EUR
 - [Etui premium en cuir pu pour traducteur HOLAVOX](https://holavox.io/products/etui-premium-en-cuir-pu-pour-traducteur-holavox): Etui premium en cuir pu pour traducteur HOLAVOX, clip de ceinture rotatif à 360 degrés permettant d'accrocher son étui à la ceinture
-  Updated: 2026-04-06T04:01:35Z
+  Updated: 2026-04-29T09:14:38Z
   Vendor: Holavox
   Product Type: accessoire
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0934/7432/4866/files/etui_face_et_cote-cmpr.png?v=1767089423
   Price: 19,90 € EUR
 - [Le guide ultime du voyageur à l'étranger - Ebook HOLAVOX](https://holavox.io/products/ebook-le-guide-ultime-du-voyageur-a-letranger): Découvrez Le guide ultime du voyageur à l'étranger pour des conseils essentiels avant de partir et maximiser votre expérience de voyage.
-  Updated: 2026-04-06T03:39:49Z
+  Updated: 2026-04-29T09:14:37Z
   Vendor: Holavox
   Product Type: 
   Availability: Available
@@ -83,6 +83,9 @@ Traducteur vocal instantané HOLAVOX
   - [Louer une voiture à l'étranger](https://holavox.io/blogs/traducteur-vocal-instantane-plus-de-barriere/louer-une-voiture-a-l-etranger): Louer une voiture à l'étranger
     Updated: 2026-04-12T21:04:45Z
     Author: Laurent PLANCHON
+  - [Pharmacie à l’étranger](https://holavox.io/blogs/traducteur-vocal-instantane-plus-de-barriere/pharmacie-a-l-etranger)
+    Updated: 2026-04-21T15:42:22Z
+    Author: Laurent PLANCHON
 
 ## Store Pages
 
@@ -96,6 +99,8 @@ Traducteur vocal instantané HOLAVOX
   Updated: 2026-03-30T18:49:40Z
 - [Support traducteur Holavox - Assistance et Service Client](https://holavox.io/pages/support-sav-holavox): Support traducteur Holavox sav Vous avez besoin d'assistance pour utiliser nos traducteurs ou vous constatez un éventuel dysfonctionnement ? Vous p...
   Updated: 2026-03-30T18:46:31Z
+- [A propos](https://holavox.io/pages/a-propos): Tout a commencé par une situation simple mais stressante. Un voyage à l'étranger. Un moment imprévu. Une impossibilité de communiquer. Un rendez-vo...
+  Updated: 2026-04-26T10:53:37Z
 
 ## Policies
 
