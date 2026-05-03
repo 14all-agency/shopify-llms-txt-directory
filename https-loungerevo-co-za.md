@@ -6,12 +6,12 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2023-11-07T16:28:21Z
 - Contact Email: info@loungerevo.co.za
-- Updated At: 2026-04-10T00:00:22.575Z
+- Updated At: 2026-05-03T00:00:37.542Z
 
 ## Products
 
 - [Modular Sleeper Couch (Modi)](https://loungerevo.co.za/products/modi-sleeper-couch): Feel like taking an afternoon nap? Sleeping comfortably in the living room? With the Modi Sleeper Lounge, you can turn your sofa into a comfortable sofa bed and drift off to dreamland. Our Modular Sleeper Couch serve as 2 extra guest beds or a double bed. The plush cushions and supportive frame provide maximum comfort and support, while the sleek and modern design will fit seamlessly into any home.
-  Updated: 2026-03-20T10:01:55Z
+  Updated: 2026-04-19T16:19:47Z
   Vendor: Lounge Revo
   Product Type: 
   Availability: Available
@@ -435,7 +435,7 @@
 ## Collections
 
 - [Home page](https://loungerevo.co.za/collections/frontpage)
-  Updated: 2026-04-07T11:26:31Z
+  Updated: 2026-04-20T11:26:36Z
   Total Products: 12
 - [Pillows](https://loungerevo.co.za/collections/pillows)
   Updated: 2024-11-06T16:09:02Z
@@ -459,7 +459,7 @@
   Updated: 2024-11-06T16:09:03Z
   Total Products: 3
 - [Lounge Revo – 2026](https://loungerevo.co.za/collections/lounge-revo-2025): Discover the perfect blend of comfort and craftsmanship with Lounge Revo, your ultimate destination for quality lounge suites and stylish couches.
-  Updated: 2026-04-07T11:26:31Z
+  Updated: 2026-04-20T11:26:36Z
   Total Products: 6
 
 ## Blogs
