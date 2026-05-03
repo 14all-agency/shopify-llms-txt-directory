@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-16T04:28:47Z
 - Contact Email: celestialmonarch92@gmail.com
-- Updated At: 2026-04-23T00:00:41.626Z
+- Updated At: 2026-05-03T00:00:45.644Z
 
 Discover Magic! At Crystal Arborist, you can find something wonderful and unique. 100% Customer Satisfaction .
 
@@ -1959,7 +1959,7 @@ Lovely brooch would be sure to please. For those looking to wear something speci
     Author: Callie Hitchcock
     Tags: Fantasy, Love, Magic, Memories, Nautical, Romance, Slow burn
   - [Starlight Cove: Shadowlight Voyages](https://crystalarborist.com/blogs/short-stories-self-help/starlight-cove-shadowlight-edition): <p><em><strong>Starlight Cove is Home. The Sea is everything else. Follow Shadowlight's first Voyages, a Story about Love, Prophecy, and what it means to Belong somewhere.</strong></em></p>
-    Updated: 2026-04-05T15:18:45Z
+    Updated: 2026-04-25T18:32:30Z
     Author: Callie Hitchcock
     Tags: Belonging, Heartfelt, Love and loyalty, Maritime fiction, Mythic, nautical fiction, Prophecy
   - [Shadowlight: Unwavering (Book 6)](https://crystalarborist.com/blogs/short-stories-self-help/shadowlight-6): <p><em><strong>The truth is out, the Presence is watching, and the crew must face what's coming. Some things bend. Some things break &amp; some things hold, no matter what. </strong></em></p>
@@ -1974,6 +1974,10 @@ Lovely brooch would be sure to please. For those looking to wear something speci
     Updated: 2026-04-18T21:05:40Z
     Author: Callie Hitchcock
     Tags: Ancient island, epic, High fantasy, Nautical, Past lives, Swords
+  - [Silver Tide: Harbor of the Heart (Book 9)](https://crystalarborist.com/blogs/short-stories-self-help/silver-tide-harbor-of-the-heart-book-9): <p><em><strong>Fin Bollard would survive any storm to bring his son home. But some battles can't be won with a sword — and some harbors can only be found in the heart.</strong></em></p>
+    Updated: 2026-04-25T19:35:01Z
+    Author: Callie Hitchcock
+    Tags: Adventure, Character driven, Emotional read, epic, Family, Fantasy, Heart, Identity, Love, Memory, Series fiction
 - [The Archives of Insights & Discoveries](https://crystalarborist.com/blogs/the-archives-of-insights-discoveries)
   - [Beginner's Guide to Crystal Collecting | How to Start Your Collection](https://crystalarborist.com/blogs/the-archives-of-insights-discoveries/beginners-guide-to-crystal-collecting-how-to-start-your-collection): Beginner's Guide to Crystal Collecting | How to Start Your Collection
     Updated: 2026-01-18T00:28:48Z
