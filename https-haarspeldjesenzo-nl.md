@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-10-27T18:38:27Z
 - Contact Email: info@haarspeldjesenzo.nl
-- Updated At: 2026-04-20T00:00:33.894Z
+- Updated At: 2026-05-03T00:00:21.991Z
 
 ## Products
 
@@ -151,7 +151,7 @@
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5473261352.jpg?v=1766752230
   Price: € 9,95 EUR
 - [Diadeem - stof - haarband - met knoop - oudroze](https://haarspeldjesenzo.nl/products/diadeem-stof-haarband-met-knoop-oudroze-p804179083): Deze diadeem, gemaakt van stof, mag niet ontbreken in je collectie. De diadeem heeft een knoop en gemaakt van normale en neutrale stof. Verkrijgbaar in verschillende designs binnen deze lijn en is ongeveer 30 mm breed.
-  Updated: 2026-03-08T10:05:12Z
+  Updated: 2026-04-29T19:27:36Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
@@ -445,56 +445,56 @@
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5415431704.jpg?v=1766752248
   Price: € 9,95 EUR
 - [Haar glitterclip - hair extension - haar extensie - glitter haar - antislipspeld - pink - roze - 1 stuk](https://haarspeldjesenzo.nl/products/haar-glitterclip-hair-extension-haar-extensie-glitter-haar-antislipspeld-pink-roze-1-stuk-p799351027): We hebben toch weer iets leuks!!!! Deze antislipclipjes met glitterdraad erin laten het haar van je dochter helemaal glinsteren! Je schuift het clipje in het haar en knipt de glitterdraden/haren af tot de gewenste lengte. Het clipje valt weg onder het eigen haar en de glitterdraden/haren komen zo…
-  Updated: 2026-03-14T00:29:16Z
+  Updated: 2026-04-29T07:56:26Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5415318225.jpg?v=1766752248
   Price: € 1,95 EUR
 - [Haar glitterclip - hair extension - haar extensie - glitter haar - antislipspeld - coffee - koffie bruin - 1 stuk](https://haarspeldjesenzo.nl/products/haar-glitterclip-hair-extension-haar-extensie-glitter-haar-antislipspeld-coffee-koffie-bruin-1-stuk-p799348059): We hebben toch weer iets leuks!!!! Deze antislipclipjes met glitterdraad erin laten het haar van je dochter helemaal glinsteren! Je schuift het clipje in het haar en knipt de glitterdraden/haren af tot de gewenste lengte. Het clipje valt weg onder het eigen haar en de glitterdraden/haren komen zo…
-  Updated: 2026-02-13T12:25:22Z
+  Updated: 2026-04-29T07:56:00Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5415343342.jpg?v=1766752248
   Price: € 1,95 EUR
 - [Haar glitterclip - hair extension - haar extensie - glitter haar - antislipspeld - colorful - kleurrijk - 1 stuk](https://haarspeldjesenzo.nl/products/haar-glitterclip-hair-extension-haar-extensie-glitter-haar-antislipspeld-colorful-kleurrijk-1-stuk-p799348289): We hebben toch weer iets leuks!!!! Deze antislipclipjes met glitterdraad erin laten het haar van je dochter helemaal glinsteren! Je schuift het clipje in het haar en knipt de glitterdraden/haren af tot de gewenste lengte. Het clipje valt weg onder het eigen haar en de glitterdraden/haren komen zo…
-  Updated: 2026-02-13T12:25:23Z
+  Updated: 2026-04-29T07:55:39Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5415336349.jpg?v=1766752250
   Price: € 1,95 EUR
 - [Haar glitterclip - hair extension - haar extensie - glitter haar - antislipspeld - silver - zilver - 1 stuk](https://haarspeldjesenzo.nl/products/haar-glitterclip-hair-extension-haar-extensie-glitter-haar-antislipspeld-silver-zilver-1-stuk-p799351022): We hebben toch weer iets leuks!!!! Deze antislipclipjes met glitterdraad erin laten het haar van je dochter helemaal glinsteren! Je schuift het clipje in het haar en knipt de glitterdraden/haren af tot de gewenste lengte. Het clipje valt weg onder het eigen haar en de glitterdraden/haren komen zo…
-  Updated: 2026-02-13T12:25:23Z
+  Updated: 2026-04-29T07:55:26Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5415318175.jpg?v=1766752251
   Price: € 1,95 EUR
 - [Haar glitterclip - hair extension - haar extensie - glitter haar - antislipspeld - rose - roze - 1 stuk](https://haarspeldjesenzo.nl/products/haar-glitterclip-hair-extension-haar-extensie-glitter-haar-antislipspeld-rose-roze-1-stuk-p799348287): We hebben toch weer iets leuks!!!! Deze antislipclipjes met glitterdraad erin laten het haar van je dochter helemaal glinsteren! Je schuift het clipje in het haar en knipt de glitterdraden/haren af tot de gewenste lengte. Het clipje valt weg onder het eigen haar en de glitterdraden/haren komen zo…
-  Updated: 2026-02-13T12:25:23Z
+  Updated: 2026-04-29T07:55:16Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5415336317.jpg?v=1766752251
   Price: € 1,95 EUR
 - [Haar glitterclip - hair extension - haar extensie - glitter haar - antislipspeld - rainbow - regenboog - 1 stuk](https://haarspeldjesenzo.nl/products/haar-glitterclip-hair-extension-haar-extensie-glitter-haar-antislipspeld-rainbow-regenboog-1-stuk-p799351021): We hebben toch weer iets leuks!!!! Deze antislipclipjes met glitterdraad erin laten het haar van je dochter helemaal glinsteren! Je schuift het clipje in het haar en knipt de glitterdraden/haren af tot de gewenste lengte. Het clipje valt weg onder het eigen haar en de glitterdraden/haren komen zo…
-  Updated: 2026-02-13T12:25:24Z
+  Updated: 2026-04-29T07:55:07Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5415318151.jpg?v=1766752252
   Price: € 1,95 EUR
 - [Haar glitterclip - hair extension - haar extensie - glitter haar - antislipspeld - purple - paars - 1 stuk](https://haarspeldjesenzo.nl/products/haar-glitterclip-hair-extension-haar-extensie-glitter-haar-antislipspeld-purple-paars-1-stuk-p799331669): We hebben toch weer iets leuks!!!! Deze antislipclipjes met glitterdraad erin laten het haar van je dochter helemaal glinsteren! Je schuift het clipje in het haar en knipt de glitterdraden/haren af tot de gewenste lengte. Het clipje valt weg onder het eigen haar en de glitterdraden/haren komen zo…
-  Updated: 2026-02-13T12:25:24Z
+  Updated: 2026-04-29T07:54:37Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5415332307.jpg?v=1766752253
   Price: € 1,95 EUR
 - [Haar glitterclip - hair extension - haar extensie - glitter haar - antislipspeld - gold -goud - 1 stuk](https://haarspeldjesenzo.nl/products/haar-glitterclip-hair-extension-haar-extensie-glitter-haar-antislipspeld-gold-goud-1-stuk-p799331668): We hebben toch weer iets leuks!!!! Deze antislipclipjes met glitterdraad erin laten het haar van je dochter helemaal glinsteren! Je schuift het clipje in het haar en knipt de glitterdraden/haren af tot de gewenste lengte. Het clipje valt weg onder het eigen haar en de glitterdraden/haren komen zo…
-  Updated: 2026-02-13T12:25:24Z
+  Updated: 2026-04-29T07:54:16Z
   Vendor: Haarspeldjes & zo
   Product Type: 
   Availability: Available
@@ -520,13 +520,6 @@
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5412736961.jpg?v=1766752256
-  Price: € 8,95 EUR
-- [French Barrette - 8 cm speld / clip - meiden - dames - volwassenen - zwart](https://haarspeldjesenzo.nl/products/french-barrette-8-cm-speld-clip-meiden-dames-volwassenen-zwart-p799218369): Deze French barrette spelden zijn geschikt voor de wat minder volle bossen haar. De spelden zijn 8 cm groot en op de speld zit een stukje imitatieleer bevestigd. Ze worden verkocht in setjes van twee spelden. Met deze leuke clips maak je je outfit helemaal af!
-  Updated: 2026-02-13T12:25:25Z
-  Vendor: Haarspeldjes & zo
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5412741556.jpg?v=1766752256
   Price: € 8,95 EUR
 - [French Barrette - 10 cm speld / clip - meiden - dames - volwassenen - panter - bruin](https://haarspeldjesenzo.nl/products/french-barrette-10-cm-speld-clip-meiden-dames-volwassenen-panter-bruin-p799240138): Deze French barrette spelden zijn geschikt voor de wat vollere bossen haar. De spelden zijn 10 cm groot en op de speld zit een stukje imitatieleer bevestigd. Ze worden verkocht in setjes van twee spelden. Met deze leuke clips maak je je outfit helemaal af!
   Updated: 2026-02-13T12:25:26Z
@@ -1592,13 +1585,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5342639973.jpg?v=1766752322
   Price: € 9,95 EUR
-- [Mini clip - baby haarspeldjes - mini - 2cm groot - voor de eerste lokjes haar - alligator clip - strikjes - roze/bruin](https://haarspeldjesenzo.nl/products/mini-clip-baby-haarspeldjes-mini-2cm-groot-voor-de-eerste-lokjes-haar-alligator-clip-strikjes-roze-bruin-p792690213): Weinig winkels verkopen ze! Alligator clips met tandjes van maar 2 cm groot! Geschikt dus voor de allereerste haartjes en door de tandjes blijven ze ook nog eens super goed zitten. Ideaal voor jouw baby'tje! Op het alligatorclipje zitten strikjes bevestigd. Verkrijgbaar in verschillende combinaties.
-  Updated: 2026-03-28T08:33:46Z
-  Vendor: Haarspeldjes & zo
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5321704009.jpg?v=1766752323
-  Price: € 8,95 EUR
 - [Baby haarspeldjes - mini - 2cm groot - try-out - mix - voor de eerste lokjes haar - sterretjes - roze - glitters - kerst - feestdagen](https://haarspeldjesenzo.nl/products/baby-haarspeldjes-mini-2cm-groot-try-out-mix-voor-de-eerste-lokjes-haar-sterretjes-roze-glitters-kerst-feestdagen-p792689201): Weinig winkels verkopen ze! Haarspeldjes voor de aller eerste lokjes van je kleine meisje. De meeste haarspeldjes zijn 3, 4 of 5 cm groot. Maar deze mini-speldjes zijn 2 cm groot en daardoor ideaal voor jouw baby'tje! Op het klik-klak haarspeldje zitten kleine sterretjes bevestigd. Verkrijgbaar in…
   Updated: 2026-02-13T12:26:07Z
   Vendor: Haarspeldjes & zo
@@ -1634,13 +1620,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5321672153.jpg?v=1766752325
   Price: € 8,95 EUR
-- [Baby haarspeldjes - mini - 2cm groot - voor de eerste lokjes haar - imitatieleer - bloemetjes - hartjes - sterretjes - kerst - feestdagen - glitters - groen](https://haarspeldjesenzo.nl/products/baby-haarspeldjes-mini-2cm-groot-voor-de-eerste-lokjes-haar-imitatieleer-bloemetjes-hartjes-sterretjes-kerst-feestdagen-glitters-groen-p792691644): Weinig winkels verkopen ze! Haarspeldjes voor de aller eerste lokjes van je kleine meisje. De meeste haarspeldjes zijn 3, 4 of 5 cm groot. Maar deze mini-speldjes zijn 2 cm groot en daardoor ideaal voor jouw baby'tje! Op het klik-klak haarspeldje zit een leuke applicatie bevestigd zoals een bloem of…
-  Updated: 2026-02-13T12:26:08Z
-  Vendor: Haarspeldjes & zo
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5321666358.jpg?v=1766752325
-  Price: € 9,95 EUR
 - [Baby haarspeldjes - mini - 2cm groot - voor de eerste lokjes haar - imitatieleer - bloemetjes - hartjes - sterretjes - kerst - feestdagen - glitters - paars](https://haarspeldjesenzo.nl/products/baby-haarspeldjes-mini-2cm-groot-voor-de-eerste-lokjes-haar-imitatieleer-bloemetjes-hartjes-sterretjes-kerst-feestdagen-glitters-paars-p792691643): Weinig winkels verkopen ze! Haarspeldjes voor de aller eerste lokjes van je kleine meisje. De meeste haarspeldjes zijn 3, 4 of 5 cm groot. Maar deze mini-speldjes zijn 2 cm groot en daardoor ideaal voor jouw baby'tje! Op het klik-klak haarspeldje zit een leuke applicatie bevestigd zoals een bloem of…
   Updated: 2026-02-13T12:26:09Z
   Vendor: Haarspeldjes & zo
@@ -1654,13 +1633,6 @@
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5321666334.jpg?v=1766752325
-  Price: € 9,95 EUR
-- [Baby haarspeldjes - mini - 2cm groot - voor de eerste lokjes haar - imitatieleer - bloemetjes - hartjes - sterretjes - kerst - feestdagen - glitters - rood](https://haarspeldjesenzo.nl/products/baby-haarspeldjes-mini-2cm-groot-voor-de-eerste-lokjes-haar-imitatieleer-bloemetjes-hartjes-sterretjes-kerst-feestdagen-glitters-rood-p792691641): Weinig winkels verkopen ze! Haarspeldjes voor de aller eerste lokjes van je kleine meisje. De meeste haarspeldjes zijn 3, 4 of 5 cm groot. Maar deze mini-speldjes zijn 2 cm groot en daardoor ideaal voor jouw baby'tje! Op het klik-klak haarspeldje zit een leuke applicatie bevestigd zoals een bloem of…
-  Updated: 2026-02-13T12:26:09Z
-  Vendor: Haarspeldjes & zo
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5321672009.jpg?v=1766752326
   Price: € 9,95 EUR
 - [Baby haarspeldjes - mini - 2cm groot - voor de eerste lokjes haar - imitatieleer - bloemetjes - hartjes - sterretjes - kerst - feestdagen - glitters - groen](https://haarspeldjesenzo.nl/products/baby-haarspeldjes-mini-2cm-groot-voor-de-eerste-lokjes-haar-imitatieleer-bloemetjes-hartjes-sterretjes-kerst-feestdagen-glitters-groen-p792690194): Weinig winkels verkopen ze! Haarspeldjes voor de aller eerste lokjes van je kleine meisje. De meeste haarspeldjes zijn 3, 4 of 5 cm groot. Maar deze mini-speldjes zijn 2 cm groot en daardoor ideaal voor jouw baby'tje! Op het klik-klak haarspeldje zit een leuke applicatie bevestigd zoals een bloem of…
   Updated: 2026-02-13T12:26:10Z
@@ -1760,7 +1732,35 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5321475645_ef87dc89-d3ab-420a-b09f-c10bcdb508a1.jpg?v=1766752335
   Price: € 8,95 EUR
-[List Continued](https://haarspeldjesenzo.nl/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQ2NTA3NzUwNjQzMSwibGFzdF92YWx1ZSI6IjE1NDY1MDc3NTA2NDMxIn0=)
+- [Haarspeldje antislip - baby's - kinderen - meisjes - mix - hartjes - imitatieleer - roze](https://haarspeldjesenzo.nl/products/haarspeldje-antislip-babys-kinderen-meisjes-mix-hartjes-imitatieleer-roze-p792690115): Deze speldjes zijn bedoeld voor kleine meiden met de eerste plukjes haar, meiden met dunne haren, meiden die graag hun speldjes uit hun haren trekken of meiden waar gewone klik-klakspeldjes niet blijven zitten... Kortom, de musthave van dit moment. Het haarspeldje heeft een andere vorm dan jullie…
+  Updated: 2026-02-13T12:26:16Z
+  Vendor: Haarspeldjes & zo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5321466466.jpg?v=1766752336
+  Price: € 8,95 EUR
+- [Haarspeldje antislip - baby's - kinderen - meisjes - mix - hartjes - imitatieleer - goud](https://haarspeldjesenzo.nl/products/haarspeldje-antislip-babys-kinderen-meisjes-mix-hartjes-imitatieleer-goud-p792689125): Deze speldjes zijn bedoeld voor kleine meiden met de eerste plukjes haar, meiden met dunne haren, meiden die graag hun speldjes uit hun haren trekken of meiden waar gewone klik-klakspeldjes niet blijven zitten... Kortom, de musthave van dit moment. Het haarspeldje heeft een andere vorm dan jullie…
+  Updated: 2026-02-13T12:26:16Z
+  Vendor: Haarspeldjes & zo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5321475627.jpg?v=1766752336
+  Price: € 8,95 EUR
+- [Haarspeldje antislip - baby's - kinderen - meisjes - mix - imitatieleer - beige/bruin](https://haarspeldjesenzo.nl/products/haarspeldje-antislip-babys-kinderen-meisjes-mix-imitatieleer-beige-bruin-p792690101): Deze speldjes zijn bedoeld voor kleine meiden met de eerste plukjes haar, meiden met dunne haren, meiden die graag hun speldjes uit hun haren trekken of meiden waar gewone klik-klakspeldjes niet blijven zitten... Kortom, de musthave van dit moment. Het haarspeldje heeft een andere vorm dan jullie…
+  Updated: 2026-04-28T19:02:58Z
+  Vendor: Haarspeldjes & zo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5321466428.jpg?v=1766752337
+  Price: € 9,95 EUR
+- [Haarspeldje antislip - baby's - kinderen - meisjes - mix - sterretjes - hartjes - bloemetjes - blauw - kerst - feestdagen - glitters - glimmend](https://haarspeldjesenzo.nl/products/haarspeldje-antislip-babys-kinderen-meisjes-mix-sterretjes-hartjes-bloemetjes-blauw-kerst-feestdagen-glitters-glimmend-p792690060): Deze speldjes zijn bedoeld voor kleine meiden met de eerste plukjes haar, meiden met dunne haren, meiden die graag hun speldjes uit hun haren trekken of meiden waar gewone klik-klakspeldjes niet blijven zitten... Kortom, de musthave van dit moment. Het haarspeldje heeft een andere vorm dan jullie…
+  Updated: 2026-02-13T12:26:17Z
+  Vendor: Haarspeldjes & zo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0953/8696/0255/files/5321401893.jpg?v=1766752341
+  Price: € 9,95 EUR
+[List Continued](https://haarspeldjesenzo.nl/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQ2NTA3ODE5NDU1OSwibGFzdF92YWx1ZSI6IjE1NDY1MDc4MTk0NTU5In0=)
 
 ## Collections
 
@@ -1777,16 +1777,16 @@
   Updated: 2026-03-20T20:20:20Z
   Total Products: 40
 - [Diademen bekleed met stof](https://haarspeldjesenzo.nl/collections/diademen-bekleed-met-stof): Stijlvolle diademen bekleed met zachte stof. Perfect voor een elegante look!
-  Updated: 2026-04-19T13:36:22Z
-  Total Products: 118
+  Updated: 2026-04-29T20:11:18Z
+  Total Products: 136
 - [Diademen met imitatieleer](https://haarspeldjesenzo.nl/collections/diademen-met-imitatieleer): Trendy diademen met imitatieleer voor een stoere, moderne uitstraling.
-  Updated: 2026-03-30T12:44:48Z
+  Updated: 2026-04-29T19:19:07Z
   Total Products: 10
 - [Diademen met glitters/parels/kralen](https://haarspeldjesenzo.nl/collections/diademen-met-glitters-parels-kralen): Feestelijke diademen versierd met glitters, parels en kralen. Perfect voor speciale gelegenheden!
   Updated: 2026-04-19T13:39:00Z
   Total Products: 62
 - [Basic diademen en speldjes](https://haarspeldjesenzo.nl/collections/basic-diademen-en-speldjes): Eenvoudige, basic diademen en speldjes voor dagelijks gebruik. Tijdloos en praktisch!
-  Updated: 2026-04-16T11:36:34Z
+  Updated: 2026-04-21T07:10:10Z
   Total Products: 44
 - [Diadeem Flower](https://haarspeldjesenzo.nl/collections/diadeem-flower): Romantische diademen versierd met bloemen. Perfect voor een speelse, vrouwelijke look!
   Updated: 2026-04-14T12:12:14Z
@@ -1795,11 +1795,11 @@
   Updated: 2026-04-15T12:04:09Z
   Total Products: 4
 - [Baby-hoofdbanden](https://haarspeldjesenzo.nl/collections/baby-hoofdbanden): Zachte hoofdbanden speciaal voor baby's. Schattig en comfortabel!
-  Updated: 2026-04-19T13:36:51Z
+  Updated: 2026-04-27T12:08:17Z
   Total Products: 33
-- [Baby haarbandjes](https://haarspeldjesenzo.nl/collections/baby-haarbandjes): Lieve haarbandjes voor de allerkleinsten. Zacht en veilig voor baby's!
-  Updated: 2026-04-17T12:04:11Z
-  Total Products: 31
+- [Baby haarbandjes kerst](https://haarspeldjesenzo.nl/collections/baby-haarbandjes): Lieve haarbandjes voor de allerkleinsten. Zacht en veilig voor baby's!
+  Updated: 2026-04-30T21:23:49Z
+  Total Products: 18
 - [Scrunchies](https://haarspeldjesenzo.nl/collections/scrunchies): Trendy scrunchies in verschillende kleuren en materialen. Een musthave voor je collectie!
   Updated: 2026-03-20T21:06:50Z
   Total Products: 22
@@ -1822,8 +1822,8 @@
   Updated: 2026-03-22T21:12:37Z
   Total Products: 0
 - [Schoudertassen](https://haarspeldjesenzo.nl/collections/schoudertassen): Trendy schoudertassen in verschillende stijlen en kleuren. Perfect voor dagelijks gebruik!
-  Updated: 2026-04-04T12:17:51Z
-  Total Products: 10
+  Updated: 2026-04-30T09:54:14Z
+  Total Products: 14
 - [Portemonnees](https://haarspeldjesenzo.nl/collections/portemonnees): Handige portemonnees in verschillende formaten. Compact en stijlvol!
   Updated: 2026-03-22T21:13:49Z
   Total Products: 2
@@ -1834,20 +1834,20 @@
   Updated: 2026-03-27T12:06:31Z
   Total Products: 52
 - [Sjaals, mutsen en handschoenen (voor kinderen)](https://haarspeldjesenzo.nl/collections/sjaals-mutsen-en-handschoenen-voor-kinderen): Complete wintersets voor kinderen met muts, sjaal en handschoenen. Warm en gezellig!
-  Updated: 2026-04-10T13:28:21Z
-  Total Products: 37
+  Updated: 2026-04-28T18:43:20Z
+  Total Products: 58
 - [Oorwarmers (voor kinderen)](https://haarspeldjesenzo.nl/collections/oorwarmers-voor-kinderen): Zachte oorwarmers speciaal voor kinderen. Houd de oortjes warm!
-  Updated: 2026-03-20T21:25:47Z
+  Updated: 2026-04-22T11:58:37Z
   Total Products: 76
 - [Manchetten / mouwtjes](https://haarspeldjesenzo.nl/collections/manchetten-mouwtjes): Stijlvolle manchetten en mouwtjes om je outfit compleet te maken. Met knopen of kant!
   Updated: 2026-04-04T12:18:01Z
   Total Products: 16
 - [Lente & Zomer Accessoires - Haarspeldjes & zo](https://haarspeldjesenzo.nl/collections/lente-zomer): Shop zomer accessoires: strandtassen, zonnebrillen, zonnehoedjes, petjes en meer. Stijlvol de zomer door!
-  Updated: 2026-04-19T13:37:51Z
-  Total Products: 86
+  Updated: 2026-05-02T13:28:15Z
+  Total Products: 111
 - [Strandtassen](https://haarspeldjesenzo.nl/collections/strandtassen-en-zonnehoeden-vrouw): Stijlvolle strandtassen voor dames. Perfect voor een dagje strand of zomerse uitjes!
-  Updated: 2026-04-13T12:08:48Z
-  Total Products: 10
+  Updated: 2026-04-30T09:53:45Z
+  Total Products: 23
 - [Zonnebrillen voor kids](https://haarspeldjesenzo.nl/collections/zonnebrillen-voor-kids): Trendy zonnebrillen speciaal voor kinderen. Bescherm hun oogjes met stijl!
   Updated: 2026-04-19T13:37:51Z
   Total Products: 22
@@ -1855,8 +1855,8 @@
   Updated: 2026-03-22T21:40:54Z
   Total Products: 3
 - [Zomerhoedjes (en tasjes) voor kids](https://haarspeldjesenzo.nl/collections/zomerhoedjes-en-tasjes-voor-kids): Schattige zomerhoedjes en tasjes voor kinderen. Bescherming tegen de zon met een speelse twist!
-  Updated: 2026-04-18T12:00:27Z
-  Total Products: 23
+  Updated: 2026-05-02T13:28:15Z
+  Total Products: 35
 - [Petjes voor kinderen](https://haarspeldjesenzo.nl/collections/petjes-voor-kinderen): Stoere en leuke petjes voor kinderen. Perfect voor zonnige dagen!
   Updated: 2026-03-22T21:21:35Z
   Total Products: 0
@@ -1867,49 +1867,49 @@
   Updated: 2026-04-19T13:39:00Z
   Total Products: 62
 - [Baby haarbandjes](https://haarspeldjesenzo.nl/collections/baby-haarbandjes-1): Zachte haarbandjes voor baby's met bloemetjes en andere lieve details!
-  Updated: 2026-04-17T12:04:11Z
-  Total Products: 31
+  Updated: 2026-04-30T21:21:56Z
+  Total Products: 44
 - [Baby haarspeldjes mini en clips (2 cm)](https://haarspeldjesenzo.nl/collections/baby-haarspeldjes-mini-en-clips-2-cm): Mini haarspeldjes en clips speciaal voor baby's, slechts 2 cm groot. Perfect voor fijn babyhaar!
-  Updated: 2026-04-19T18:59:10Z
+  Updated: 2026-05-01T19:28:40Z
   Total Products: 132
 - [Antislip haarspeldjes](https://haarspeldjesenzo.nl/collections/antislip-haarspeldjes): Antislip haarspeldjes die goed blijven zitten, perfect voor baby's en kinderen met fijn haar!
-  Updated: 2026-04-06T11:49:38Z
-  Total Products: 120
+  Updated: 2026-04-30T20:14:31Z
+  Total Products: 150
 - [Haarspeldjes met imitatieleer](https://haarspeldjesenzo.nl/collections/haarspeldjes-met-imitatieleer): Stoere haarspeldjes met imitatieleer details. Trendy en stijlvol!
-  Updated: 2026-03-30T12:44:48Z
+  Updated: 2026-04-29T19:19:07Z
   Total Products: 10
 - [Haarspeldjes met applicaties](https://haarspeldjesenzo.nl/collections/haarspeldjes-met-applicaties): Leuke haarspeldjes versierd met applicaties zoals bloemetjes, sterretjes en meer!
   Updated: 2026-04-19T13:35:41Z
   Total Products: 173
 - [French Barrette spelden](https://haarspeldjesenzo.nl/collections/alligatorclips-en-french-barrette-spelden): Stevige French Barrette spelden in verschillende maten voor een goede grip in het haar!
-  Updated: 2026-03-20T20:53:37Z
+  Updated: 2026-04-30T12:10:13Z
   Total Products: 23
 - [Haarstrikken](https://haarspeldjesenzo.nl/collections/haarstrikken): Schattige haarstrikken in verschillende maten en kleuren. Van basic tot feestelijk!
-  Updated: 2026-03-22T22:02:41Z
-  Total Products: 18
+  Updated: 2026-04-30T19:02:03Z
+  Total Products: 19
 - [Bobby-pins](https://haarspeldjesenzo.nl/collections/bobby-pins): Handige bobby-pins en schuifspeldjes in setjes. Perfect voor het vastzetten van losse plukjes!
   Updated: 2026-03-22T21:45:45Z
   Total Products: 7
 - [Scrunchies en elastiekjes](https://haarspeldjesenzo.nl/collections/scrunchies-en-elastiekjes): Trendy scrunchies en elastiekjes voor elke dag. Haarschonend en stijlvol!
-  Updated: 2026-04-19T19:00:18Z
-  Total Products: 154
+  Updated: 2026-04-30T21:17:59Z
+  Total Products: 167
 - [Haarspeldjes & Haarclips - Haarspeldjes & zo](https://haarspeldjesenzo.nl/collections/haarspeldjes-haarclips): Shop haarspeldjes en haarclips in alle soorten: antislip, mini, met bloemen, leer en meer. Voor baby's, kinderen en volwassenen!
-  Updated: 2026-04-19T19:00:18Z
-  Total Products: 950
-- [Antislip haarspeldjes](https://haarspeldjesenzo.nl/collections/antislip-haarspeldjes-1): Antislip haarspeldjes die perfect blijven zitten, ideaal voor baby's en kinderen met fijn haar!
-  Updated: 2026-04-06T11:49:38Z
-  Total Products: 104
+  Updated: 2026-05-01T19:28:40Z
+  Total Products: 1009
+- [Antislip haarspeldjes kerst](https://haarspeldjesenzo.nl/collections/antislip-haarspeldjes-1): Antislip haarspeldjes die perfect blijven zitten, ideaal voor baby's en kinderen met fijn haar!
+  Updated: 2026-04-30T20:05:45Z
+  Total Products: 41
 - [Mini haarspeldjes (2 cm)](https://haarspeldjesenzo.nl/collections/mini-haarspeldjes-2-cm): Extra kleine haarspeldjes van slechts 2 cm, perfect voor baby's en peuters met fijn haar!
-  Updated: 2026-04-19T18:59:10Z
+  Updated: 2026-05-01T19:28:40Z
   Total Products: 132
 - [Haarspeldje Lott](https://haarspeldjesenzo.nl/collections/haarspeldje-lott): Haarspeldjes uit de Lott serie in verschillende kleuren en maten!
   Updated: 2026-04-19T10:45:20Z
   Total Products: 64
 - [Haarspeldje Yara](https://haarspeldjesenzo.nl/collections/haarspeldje-yara): Haarspeldjes uit de Yara serie in verschillende kleuren en maten!
-  Updated: 2026-03-22T21:38:43Z
+  Updated: 2026-04-21T12:09:00Z
   Total Products: 34
 - [Haarspeldje Liz](https://haarspeldjesenzo.nl/collections/haarspeldje-liz): Golvende haarspeldjes uit de Liz serie in verschillende kleuren en maten!
-  Updated: 2026-04-11T08:43:10Z
+  Updated: 2026-04-22T11:58:37Z
   Total Products: 75
 - [Haarspeldje Noor](https://haarspeldjesenzo.nl/collections/haarspeldje-noor): Golvende open haarspeldjes uit de Noor serie in verschillende kleuren en maten!
   Updated: 2026-04-19T13:36:11Z
@@ -1936,7 +1936,7 @@
   Updated: 2026-04-09T18:36:06Z
   Total Products: 13
 - [French Barrette](https://haarspeldjesenzo.nl/collections/french-barrette): French Barrette haarspelden voor een stevige grip en elegante look!
-  Updated: 2026-03-22T21:58:44Z
+  Updated: 2026-04-30T12:10:13Z
   Total Products: 23
 - [Haarstrikjes - Haarspeldjes & zo](https://haarspeldjesenzo.nl/collections/haarstrikjes): Shop haarstrikjes in verschillende maten en kleuren. Haarstrik Flo en Mila series met alligatorclips. Perfect voor meisjes en dames!
   Updated: 2026-03-22T21:53:23Z
@@ -1963,8 +1963,11 @@
   Updated: 2026-02-13T12:25:08Z
   Total Products: 0
 - [Sjaaltjes](https://haarspeldjesenzo.nl/collections/sjaaltjes): Deze mini sjaals zijn de finishing touch voor jouw look!
-  Updated: 2026-04-10T13:28:21Z
-  Total Products: 6
+  Updated: 2026-04-28T18:43:20Z
+  Total Products: 27
+- [Hairtools](https://haarspeldjesenzo.nl/collections/hairtools): Alle musthaves die je nodig hebt om een mooi kapsel te creëren.
+  Updated: 2026-04-30T21:36:39Z
+  Total Products: 1
 
 ## Blogs
 
