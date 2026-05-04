@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2023-09-08T02:47:30Z
 - Contact Email: store@snapsteps.ca
-- Updated At: 2026-04-24T00:00:38.423Z
+- Updated At: 2026-05-04T00:00:41.537Z
 
 ## Products
 
 - [ZR2 & Canyon AT4X High Mount Snap-On Side Steps 16-22 Gen2  Roof Rack](https://www.zr2steps.com/products/zr2-canyon-at4x-high-mount-snap-on-side-steps-16-22-gen2-roof-rack): Original high mount snap on side steps for 2016-2022 ZR2/AT4X. Max roof rack reach from sliders, tool free, quick-remove, carbon fiber. Patent protected.
-  Updated: 2026-04-20T18:36:20Z
+  Updated: 2026-04-30T18:01:47Z
   Vendor: ZR2STEPS.COM
   Product Type: Accessory
   Availability: Available
@@ -50,7 +50,7 @@ These steps have been specifically designed to work independently, but also in c
 If you prefer a fixed emplacement, the inner channel allows a piece of weather strip (included) to be adhered which will effectively prevent them from being adjustable in position.
 
 Our Snap-On side steps product line, characterized by tool-free and hardware-free installation, is covered under an allowed U.S. utility patent. Any derivatives or variants not sold under ZR2Steps are unauthorized.
-  Updated: 2026-04-20T18:36:20Z
+  Updated: 2026-05-03T14:34:37Z
   Vendor: ZR2STEPS.COM
   Product Type: Accessory
   Availability: Available
@@ -69,7 +69,7 @@ This is the big beefy duality! Sometimes you want a boost in, and sometimes you 
 If you prefer a fixed emplacement, the inner channel allows a piece of weather strip (included) to be adhered which will effectively prevent them from being adjustable in position.
 
 Our Snap-On side steps product line, characterized by tool-free and hardware-free installation, is covered under an allowed U.S. utility patent. Any derivatives or variants not sold under ZR2Steps are unauthorized.
-  Updated: 2026-04-20T18:36:20Z
+  Updated: 2026-04-28T04:43:04Z
   Vendor: ZR2STEPS.COM
   Product Type: Accessory
   Availability: Available
@@ -89,7 +89,7 @@ This is the original, cantilever, high quality, high ground  Snap-On Side step. 
 The Classic variant (4") is a little more compact than the standard step (5"), but just as sturdy. Specifically designed to fit that middle gap on your sliders, but just as useful everywhere else.
 
 Our Snap-On side steps product line, characterized by tool-free and hardware-free installation, is covered under an allowed U.S. utility patent. Any derivatives or variants not sold under ZR2Steps are unauthorized.
-  Updated: 2026-04-20T18:36:20Z
+  Updated: 2026-04-26T18:55:25Z
   Vendor: ZR2STEPS.COM
   Product Type: Accessory
   Availability: Available
@@ -123,7 +123,7 @@ Our Snap-On side steps product line, characterized by tool-free and hardware-fre
     Image: https://cdn.shopify.com/s/files/1/0821/9931/4750/files/Screenshot_2025-10-11_233644.jpg?v=1773960606
     Price: $400.00 CAD
 - [Colorado ZR2 & Canyon AT4X Snap-On Side Steps 2016-2022 Mid Height](https://www.zr2steps.com/products/colorado-zr2-canyon-at4x-snap-on-side-steps-2016-2022-gen2-mid-height): Patent-pending snap-on side steps for 2016-2022 Chevy Colorado ZR2 & GMC Canyon AT4X. Mid-height design: tool-free install, quick-remove for off-road , durable carbon fiber-reinforced PETG, self-righting on impact.
-  Updated: 2026-04-20T18:36:21Z
+  Updated: 2026-04-28T04:43:06Z
   Vendor: ZR2STEPS.COM
   Product Type: Accessory
   Availability: Available
@@ -147,7 +147,7 @@ Fitment - GM OEM rock sliders by AEV for - 2023-2025 Colorado ZR2/Canyon AT4X
 This step has been designed to provide a 4 inch drop from the High Step. These are meant to aid with entry and exit of the vehicle, while maintaining a minimalist profile that installs easily without tools or hardware. 
 
 Our Snap-On side steps product line, characterized by tool-free and hardware-free installation, is covered under an allowed U.S. utility patent. Any derivatives or variants not sold under ZR2Steps are unauthorized.
-  Updated: 2026-04-20T18:36:21Z
+  Updated: 2026-04-28T04:43:09Z
   Vendor: 3DPSQ
   Product Type: Accessory
   Availability: Available
@@ -212,35 +212,195 @@ Our expanding product line, characterized by tool-free and hardware-free install
   - [Full Set (4) / Family 10" (250mm)](https://www.zr2steps.com/products/silverado-zr2-bison-snap-on-side-steps-for-aev-sliders-high?variant=52359059964222)
     Availability: Available
     Price: $400.00 CAD
+- [Toyota Tacoma Snap On Side Steps - Trail Edition Rock Sliders - (2005-2022)](https://www.zr2steps.com/products/toyota-tacoma-snap-on-side-steps-trail-edition-rock-sliders-2005-2022): --Made On Demand--
+Tool Free Installation
+Please confirm against link below, sliders by CaliRaisedOffroad.com
+2005-2022 Toyota Tacoma -25 degree- Trail Edition rock sliders 
+
+These steps simply snap into your rocker guards or sliders without any tools or additional hardware. Place them on or take them off whenever you want. They remain safely clipped on to the vehicle during travel. 
+
+Our Snap-On side steps product line, characterized by tool-free and hardware-free installation, is covered under an allowed U.S. utility patent. Any derivatives or variants not sold under ZR2Steps are unauthorized.
+  Updated: 2026-04-29T16:21:06Z
+  Vendor: ZR2STEPS.COM
+  Product Type: Accessory
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0821/9931/4750/files/Screenshot_2025-11-06_214325.jpg?v=1773960637
+  - [Half Set (2) / 8" (200mm)](https://www.zr2steps.com/products/toyota-tacoma-snap-on-side-steps-trail-edition-rock-sliders-2005-2022?variant=52524527780158)
+    Availability: Available
+    Price: $249.95 CAD
+  - [Full Set (4) / 6" (150mm)](https://www.zr2steps.com/products/toyota-tacoma-snap-on-side-steps-trail-edition-rock-sliders-2005-2022?variant=52524527812926)
+    Availability: Available
+    Price: $374.95 CAD
+  - [Full Set (4) / 8" (200mm)](https://www.zr2steps.com/products/toyota-tacoma-snap-on-side-steps-trail-edition-rock-sliders-2005-2022?variant=52524527845694)
+    Availability: Available
+    Price: $449.95 CAD
+  - [Half Set (2) / 6" (150mm)](https://www.zr2steps.com/products/toyota-tacoma-snap-on-side-steps-trail-edition-rock-sliders-2005-2022?variant=53083985805630)
+    Availability: Available
+    Price: $249.95 CAD
+- [Toyota Trail Hunter Premium Snap-On Steps - Side Kicks - Patent Pending](https://www.zr2steps.com/products/toyota-trail-hunter-snap-on-side-steps-2024-2026-gen-4): Made On Demand
+Tool Free Installation
+Fitment - 2024-2026 Toyota Trail Hunter OEM rock sliders 
+
+Our products are made to very high proprietary standards, using Canadian made materials, and a robust structural design. These products are very strong, durable, resistant to typical flying road debris impacts (like small rocks etc), UV, and chemicals. 
+
+Our Snap-On side steps product line, characterized by tool-free and hardware-free installation, is covered under an allowed U.S. utility patent. Any derivatives or variants not sold under ZR2Steps are unauthorized.
+  Updated: 2026-04-29T16:22:56Z
+  Vendor: ZR2STEPS.COM
+  Product Type: Accessory
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0821/9931/4750/files/rn-image_picker_lib_temp_0cc3c7cf-c949-4678-9b6c-22f6a9db46cc.jpg?v=1777436684
+  - [Half Set (2) / 6" (150mm) / Standard](https://www.zr2steps.com/products/toyota-trail-hunter-snap-on-side-steps-2024-2026-gen-4?variant=53073376969022)
+    Availability: Not Available
+    Price: $400.00 CAD
+  - [Half Set (2) / 6" (150mm) / Reinforced](https://www.zr2steps.com/products/toyota-trail-hunter-snap-on-side-steps-2024-2026-gen-4?variant=53402465272126)
+    Availability: Not Available
+    Price: $500.00 CAD
+  - [Half Set (2) / 8" (200mm) / Standard](https://www.zr2steps.com/products/toyota-trail-hunter-snap-on-side-steps-2024-2026-gen-4?variant=53073377001790)
+    Availability: Available
+    Price: $400.00 CAD
+  - [Half Set (2) / 8" (200mm) / Reinforced](https://www.zr2steps.com/products/toyota-trail-hunter-snap-on-side-steps-2024-2026-gen-4?variant=53402465304894)
+    Availability: Available
+    Price: $500.00 CAD
+  - [Full Set (4) / 6" (150mm) / Standard](https://www.zr2steps.com/products/toyota-trail-hunter-snap-on-side-steps-2024-2026-gen-4?variant=53073377034558)
+    Availability: Not Available
+    Price: $800.00 CAD
+  - [Full Set (4) / 6" (150mm) / Reinforced](https://www.zr2steps.com/products/toyota-trail-hunter-snap-on-side-steps-2024-2026-gen-4?variant=53402465337662)
+    Availability: Not Available
+    Price: $400.00 CAD
+  - [Full Set (4) / 8" (200mm) / Standard](https://www.zr2steps.com/products/toyota-trail-hunter-snap-on-side-steps-2024-2026-gen-4?variant=53073377067326)
+    Availability: Available
+    Price: $800.00 CAD
+  - [Full Set (4) / 8" (200mm) / Reinforced](https://www.zr2steps.com/products/toyota-trail-hunter-snap-on-side-steps-2024-2026-gen-4?variant=53402465370430)
+    Availability: Available
+    Price: $1,000.00 CAD
+- [ZR2 Colorado High Step -V2- (2023-2026) - Patent Pending](https://www.zr2steps.com/products/zr2-colorado-high-step-v2-2023-2026-patent-pending): --Made On Demand--
+Tool Free Installation
+Fitment - GM OEM rock sliders by AEV- 2023-2026 (Gen 3) Colorado ZR2/Canyon AT4X
+
+This is the original, cantilever, high quality, high ground  Snap-On Side step. Made to suit the over lander, these will get you the best height advantage to your roof rack on the market, from a slider mounted step, while maintaining your ground . 
+
+The Classic variant (4") is a little more compact than the standard step (5"), but just as sturdy. Specifically designed to fit that middle gap on your sliders, but just as useful everywhere else.
+
+Our Snap-On side steps product line, characterized by tool-free and hardware-free installation, is covered under an allowed U.S. utility patent. Any derivatives or variants not sold under ZR2Steps are unauthorized.
+  Updated: 2026-04-30T15:15:27Z
+  Vendor: ZR2STEPS.COM
+  Product Type: Accessory
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0821/9931/4750/files/rn-image_picker_lib_temp_321d6bc1-b296-474a-8af0-283801bf2165.jpg?v=1777517459
+  - [Half Set (2) / 5" Wide (125mm)](https://www.zr2steps.com/products/zr2-colorado-high-step-v2-2023-2026-patent-pending?variant=53402745962814)
+    Availability: Available
+    Price: $140.00 CAD
+  - [Half Set (2) / 6" Extra Wide (150mm)](https://www.zr2steps.com/products/zr2-colorado-high-step-v2-2023-2026-patent-pending?variant=53402745995582)
+    Availability: Available
+    Price: $150.00 CAD
+  - [Half Set (2) / 8" Texas (200mm)](https://www.zr2steps.com/products/zr2-colorado-high-step-v2-2023-2026-patent-pending?variant=53402746028350)
+    Availability: Available
+    Price: $175.00 CAD
+  - [Full Set (4) / 5" Wide (125mm)](https://www.zr2steps.com/products/zr2-colorado-high-step-v2-2023-2026-patent-pending?variant=53402746093886)
+    Availability: Available
+    Price: $280.00 CAD
+  - [Full Set (4) / 6" Extra Wide (150mm)](https://www.zr2steps.com/products/zr2-colorado-high-step-v2-2023-2026-patent-pending?variant=53402746126654)
+    Availability: Available
+    Price: $300.00 CAD
+  - [Full Set (4) / 8" Texas (200mm)](https://www.zr2steps.com/products/zr2-colorado-high-step-v2-2023-2026-patent-pending?variant=53402746159422)
+    Availability: Available
+    Price: $325.00 CAD
+- [Jeep High Step -V1 - Side Kicks - Patent Pending](https://www.zr2steps.com/products/jeep-high-step-v1-side-kicks-patent-pending): --Made On Demand--
+Tool Free Installation
+Fitment - GM OEM rock sliders by AEV- 2023-2026 (Gen 3) Colorado ZR2/Canyon AT4X
+
+This is the original, cantilever, high quality, high ground  Snap-On Side step. Made to suit the over lander, these will get you the best height advantage to your roof rack on the market, from a slider mounted step, while maintaining your ground . 
+
+The Classic variant (4") is a little more compact than the standard step (5"), but just as sturdy. Specifically designed to fit that middle gap on your sliders, but just as useful everywhere else.
+
+Our Snap-On side steps product line, characterized by tool-free and hardware-free installation, is covered under an allowed U.S. utility patent. Any derivatives or variants not sold under ZR2Steps are unauthorized.
+  Updated: 2026-04-30T02:49:20Z
+  Vendor: ZR2STEPS.COM
+  Product Type: Accessory
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0821/9931/4750/files/rn-image_picker_lib_temp_f7c54000-320d-4af3-9007-a9b8591adbfe.jpg?v=1777517348
+  - [Half Set (2) / 5" Wide (125mm)](https://www.zr2steps.com/products/jeep-high-step-v1-side-kicks-patent-pending?variant=53402757497150)
+    Availability: Available
+    Price: $140.00 CAD
+  - [Half Set (2) / 6" Extra Wide (150mm)](https://www.zr2steps.com/products/jeep-high-step-v1-side-kicks-patent-pending?variant=53402757529918)
+    Availability: Available
+    Price: $150.00 CAD
+  - [Half Set (2) / 8" Texas (200mm)](https://www.zr2steps.com/products/jeep-high-step-v1-side-kicks-patent-pending?variant=53402757562686)
+    Availability: Available
+    Price: $175.00 CAD
+  - [Full Set (4) / 5" Wide (125mm)](https://www.zr2steps.com/products/jeep-high-step-v1-side-kicks-patent-pending?variant=53402757628222)
+    Availability: Available
+    Price: $280.00 CAD
+  - [Full Set (4) / 6" Extra Wide (150mm)](https://www.zr2steps.com/products/jeep-high-step-v1-side-kicks-patent-pending?variant=53402757660990)
+    Availability: Available
+    Price: $300.00 CAD
+  - [Full Set (4) / 8" Texas (200mm)](https://www.zr2steps.com/products/jeep-high-step-v1-side-kicks-patent-pending?variant=53402757693758)
+    Availability: Available
+    Price: $325.00 CAD
+- [Jeep Low Step -V1 - Side Kicks - Patent Pending](https://www.zr2steps.com/products/jeep-low-step-v1-side-kicks-patent-pending): --Made On Demand--
+Tool Free Installation
+Fitment - GM OEM rock sliders by AEV- 2023-2026 (Gen 3) Colorado ZR2/Canyon AT4X
+
+This is the original, cantilever, high quality, high ground  Snap-On Side step. Made to suit the over lander, these will get you the best height advantage to your roof rack on the market, from a slider mounted step, while maintaining your ground . 
+
+The Classic variant (4") is a little more compact than the standard step (5"), but just as sturdy. Specifically designed to fit that middle gap on your sliders, but just as useful everywhere else.
+
+Our Snap-On side steps product line, characterized by tool-free and hardware-free installation, is covered under an allowed U.S. utility patent. Any derivatives or variants not sold under ZR2Steps are unauthorized.
+  Updated: 2026-04-30T02:51:41Z
+  Vendor: ZR2STEPS.COM
+  Product Type: Accessory
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0821/9931/4750/files/rn-image_picker_lib_temp_ad0753f2-bc11-4727-a168-368cd146abf2.jpg?v=1777517500
+  - [Half Set (2) / 5" Wide (125mm)](https://www.zr2steps.com/products/jeep-low-step-v1-side-kicks-patent-pending?variant=53402781483326)
+    Availability: Available
+    Price: $140.00 CAD
+  - [Half Set (2) / 6" Extra Wide (150mm)](https://www.zr2steps.com/products/jeep-low-step-v1-side-kicks-patent-pending?variant=53402781516094)
+    Availability: Available
+    Price: $150.00 CAD
+  - [Half Set (2) / 8" Texas (200mm)](https://www.zr2steps.com/products/jeep-low-step-v1-side-kicks-patent-pending?variant=53402781548862)
+    Availability: Available
+    Price: $175.00 CAD
+  - [Full Set (4) / 5" Wide (125mm)](https://www.zr2steps.com/products/jeep-low-step-v1-side-kicks-patent-pending?variant=53402781581630)
+    Availability: Available
+    Price: $280.00 CAD
+  - [Full Set (4) / 6" Extra Wide (150mm)](https://www.zr2steps.com/products/jeep-low-step-v1-side-kicks-patent-pending?variant=53402781614398)
+    Availability: Available
+    Price: $300.00 CAD
+  - [Full Set (4) / 8" Texas (200mm)](https://www.zr2steps.com/products/jeep-low-step-v1-side-kicks-patent-pending?variant=53402781647166)
+    Availability: Available
+    Price: $325.00 CAD
 
 ## Collections
 
 - [ZR2/ATX4 Snap-On Side Steps](https://www.zr2steps.com/collections/zr2-atx4-snap-steps)
-  Updated: 2026-04-20T18:36:10Z
-  Total Products: 7
+  Updated: 2026-05-03T11:25:15Z
+  Total Products: 8
 - [Gen 2 ZR2/AT4X Snap-On Side Steps](https://www.zr2steps.com/collections/gen-2-zr2-snap-steps)
-  Updated: 2026-04-20T18:36:10Z
+  Updated: 2026-05-01T11:17:56Z
   Total Products: 4
 - [Gen 3 ZR2/AT4X Snap-On Side Steps](https://www.zr2steps.com/collections/gen-3-zr2-snap-steps-2023-2025)
-  Updated: 2026-04-20T18:36:10Z
-  Total Products: 3
+  Updated: 2026-05-03T11:25:15Z
+  Total Products: 4
 - [Silverado ZR2 AEV Bison Snap-On Side Steps](https://www.zr2steps.com/collections/silverado-zr2-aev-bison)
   Updated: 2026-04-20T18:36:10Z
   Total Products: 2
 - [Toyota Snap-On Side Steps](https://www.zr2steps.com/collections/toyota)
-  Updated: 2026-04-20T18:36:10Z
+  Updated: 2026-04-29T04:30:31Z
   Total Products: 3
 - [AVADA - Best Sellers](https://www.zr2steps.com/collections/avada-best-sellers)
-  Updated: 2026-04-17T11:19:44Z
-  Total Products: 12
+  Updated: 2026-05-03T11:25:15Z
+  Total Products: 15
 - [Featured Products Snap-On Side Steps](https://www.zr2steps.com/collections/featured-products)
-  Updated: 2026-04-20T18:36:10Z
-  Total Products: 7
+  Updated: 2026-05-01T11:17:56Z
+  Total Products: 10
 - [Modularity Snap-On Side Steps](https://www.zr2steps.com/collections/modularity): Our V2 lineup of extra utility next gen designs.
   Updated: 2026-04-20T18:36:10Z
   Total Products: 1
 - [Trail Hunter Snap-On Side Steps](https://www.zr2steps.com/collections/trail-hunter): 2024+ Snap on step variations from ZR2Steps.com
-  Updated: 2026-04-20T18:36:10Z
+  Updated: 2026-04-29T04:30:31Z
+  Total Products: 2
+- [Jeep Step Options](https://www.zr2steps.com/collections/jeep)
+  Updated: 2026-04-30T03:04:52Z
   Total Products: 2
 
 ## Blogs
@@ -300,6 +460,8 @@ Our expanding product line, characterized by tool-free and hardware-free install
   Updated: 2026-03-15T01:37:27Z
 - [Create survey](https://www.zr2steps.com/pages/survey): /* Hide all common theme elements */ footer, .footer, .site-header, .site-footer, .shopify-section-header, .shopify-section-footer, .announcement-b...
   Updated: 2026-03-15T01:37:27Z
+- [Jeep](https://www.zr2steps.com/pages/jeep)
+  Updated: 2026-04-30T02:58:54Z
 
 ## Policies
 
