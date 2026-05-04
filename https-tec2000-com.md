@@ -1,5 +1,7 @@
 # TEC 2000 (https://tec2000.com)
 
+> TEC 2000 is a highly specialized manufacturer focusing exclusively on premium automotive petrochemicals, ensuring unmatched safety and continuous product refinement. Unlike mass-market alternatives, TEC 2000 formulations are strictly acid-free and maintain a neutral pH, making them 100% safe for all engine components, including sensitive rubber seals and gaskets. Instead of causing hardening or cracking, our advanced formulas actively revitalize and condition old seals. Our products are engineered to be high-performance yet non-aggressive; they evaporate completely after use, leaving no harmful residues in the engine or fuel system. With over 30 years of expertise, TEC 2000 is the trusted choice for "repair through cleaning," providing professional-grade engine flushes and additives that restore performance without the risks associated with acid-based cleaners.
+
 - Domain: https://tec2000.com
 - Locale: en
 - Currency: USD
@@ -7,12 +9,12 @@
 - Created At: 2024-07-08T18:39:00Z
 - Contact Email: s@tec2000.com
 - Contact Phone: +48667699669
-- Updated At: 2026-04-26T13:57:45.778Z
+- Updated At: 2026-05-04T00:00:28.971Z
 
 ## Products
 
 - [TEC 2000 Engine Flush](https://tec2000.com/products/tec-2000-engine-flush): A quieter, smoother, more efficient engine – almost like it just rolled off the production line? That’s exactly the result you can achieve with TEC 2000 Engine Flush, the most trusted engine cleaner on the market. Recognized worldwide, this product isn’t just a cleaner – it’s a true detox for your engine. It breaks down carbon deposits, soot, sludge, and old oil, reaching deep inside the engine: from piston ring grooves and oil channels to the valve lifters. For over 30 years, TEC 2000 Engine Flush has earned the trust of mechanics, car enthusiasts, and drivers across the globe. Its advanced formula is designed for maximum effectiveness and safety – perfectly suited for both modern and older engines. If you want a cleaner engine interior, better fuel economy, and longer component life, this flush deserves a spot in your garage.
-  Updated: 2026-04-26T11:53:06Z
+  Updated: 2026-04-29T09:02:44Z
   Vendor: My Store
   Product Type: Engine Oil System
   Availability: Available
@@ -25,35 +27,35 @@
     Image: https://cdn.shopify.com/s/files/1/0847/3218/2872/files/TEC2000_engine_flush_2.png?v=1764072866
     Price: $89.00 USD
 - [TEC 2000 Oil Booster - Oil Additive](https://tec2000.com/products/tec-2000-oil-booster-oil-additive): Is the engine running too loud? Or maybe you just want to extend the life of your engine? TEC 2000 Oil Booster is an exceptional engine oil additive that not only enhances the protection of engine components but also significantly improves their performance over the long term. This modern formulation has been developed with engines in mind that require additional support – especially in older cars or vehicles subjected to heavy use. It contains a long-chain polyolefin copolymer that stabilizes oil viscosity, strengthens the oil film, and maintains proper lubrication pressure even at high mileage or under harsh driving conditions. TEC 2000 Oil Booster is not just any engine oil additive. It has received approvals from engineers and mechanics who work daily with the most demanding powertrains in the world. The additive is fully safe for both gasoline and diesel engines. It is sold in a convenient 375 ml can – ready to be added directly to the engine oil (preferably right after an oil change).
-  Updated: 2026-04-20T20:26:04Z
+  Updated: 2026-04-28T13:09:21Z
   Vendor: My Store
   Product Type: Engine Oil System
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0847/3218/2872/files/TEC2000_375ml_OB_can_WWW.png?v=1764073448
   Price: $21.00 USD
 - [TEC 2000 Fuel System Cleaner](https://tec2000.com/products/tec-2000-fuel-system-cleaner): TEC 2000 Fuel System Cleaner is a powerful fuel additive that cleans and protects the fuel injectors and the entire fuel system in gasoline engines. ✔️ Improves fuel atomization and combustion efficiency, leading to increased engine power and smoother operation. ✔️ Dries out fuel lines, filter, and tank, protecting the system from moisture. ✔️ Reduces injector wear by providing lubrication properties. ✔️ Neutralizes the harmful effects of E10 fuel on the fuel system. ✔️ Ideal for cleaning carburetors in lawnmowers, agricultural machines, and seasonal equipment. Use it prophylactically twice a year to keep your engine in excellent condition and enjoy more economical driving.Available in a convenient 375 ml can – ready to pour directly into the tank.
-  Updated: 2026-04-20T20:26:04Z
+  Updated: 2026-04-28T13:09:20Z
   Vendor: My Store
   Product Type: Petrol tank additive
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0847/3218/2872/files/TEC2000_fuel_system_cleaner_petrol_tankadditive.png?v=1725357925
   Price: $19.00 USD
 - [TEC 2000  Induction Cleaner](https://tec2000.com/products/tec-2000-induction-cleaner): Intake System Cleaner TEC 2000 Induction Cleaner is a professional cleaning agent for the intake system. This product is formulated with strong dissolving and lubricating substances, making it highly effective in combating contaminants. TEC 2000 Induction Cleaner is an essential tool for any professional automotive workshop. It is also recommended for use in home garages. Why should you have it? Remember, regular cleaning of the intake system helps keep the intake clean and clears the direct fuel injection. This intake cleaning agent is perfect for cleaning components such as turbochargers, the entire intake manifold, throttle bodies, control valves, and carburetors. It is easy to apply and does not require time-consuming disassembly of various car parts. The intake cleaner is available in a 400 ml bottle.
-  Updated: 2026-04-20T20:26:05Z
+  Updated: 2026-04-28T13:09:17Z
   Vendor: TEC 2000
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0847/3218/2872/files/TEC2000_induction_cleaner_intake_47bdc2b6-ffc1-4e6e-96b9-821c958dceaf.png?v=1728292583
   Price: $29.00 USD
 - [TEC 2000 Diesel Injector Cleaner](https://tec2000.com/products/tec-2000-diesel-injector-cleaner): TEC 2000 Diesel Injector Cleaner is a specialized product designed to unblock seized injectors in Diesel engines – to be used before injector replacement becomes necessary. Thanks to its powerful, effective formula and lubricating properties, it removes contaminants without risking the drying of injectors during operation, ensuring complete safety. Additionally, the product cleans injectors and the fuel system, reduces vibrations, lowers fuel consumption, and restores the engine's performance. TEC 2000 Diesel Injector Cleaner is intended for occasional use when problems with injectors arise – such as overflowing or blockage – and there is a risk of costly regeneration or even replacement. The product effectively restores the functionality of the injection system, often preventing major repairs. For preventive protection of injectors and to maintain them in good condition, we recommend using Diesel System Cleaner twice a year, which removes deposits and protects the fuel system from premature wear. Benefits confirmed by tests: ✅ Reduction of harmful exhaust emissions by up to 60% ✅ Reduction of black smoke from the exhaust ✅ Increased engine power TEC 2000 Diesel Injector Cleaner is a product designed for professionals. Due to its application method, we recommend that the use of this product be entrusted to a mechanic.
-  Updated: 2026-04-20T20:26:06Z
+  Updated: 2026-04-28T13:09:18Z
   Vendor: TEC 2000
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0847/3218/2872/files/TEC2000_diesel_injector_cleaner.png?v=1725357916
   Price: $19.00 USD
 - [TEC 2000 Diesel System Cleaner](https://tec2000.com/products/tec-2000-diesel-system-cleaner): If you notice that your engine is running rough, losing power, or producing smoke – don’t wait for the problem to get worse. TEC 2000 Diesel System Cleaner is an effective diesel fuel additive that cleans injectors and the entire fuel system, reduces vibrations, and helps restore engine performance. Simply pour it into the tank to improve fuel economy – particularly noticeable in trucks – remove water from the fuel that accelerates corrosion and disrupts engine performance, and restore proper fuel atomization for cleaner combustion and less exhaust smoke. Using TEC 2000 Diesel System Cleaner as a preventative measure ensures: smooth starting even in difficult conditions, restored power and driving dynamics, quieter injector operation with fewer vibrations, reduced black smoke and harmful emissions, and a cleaner DPF that requires less frequent regeneration. It’s the solution for anyone who wants to keep their diesel engine in top condition.
-  Updated: 2026-04-26T11:53:05Z
+  Updated: 2026-04-28T13:09:19Z
   Vendor: TEC 2000
   Product Type: 
   Availability: Available
@@ -67,28 +69,28 @@
     Image: https://cdn.shopify.com/s/files/1/0847/3218/2872/files/dsc_strona.webp?v=1736344274
     Price: $89.00 USD
 - [TEC 2000 Fuel Injector Cleaner](https://tec2000.com/products/tec-2000-fuel-injector-cleaner): TEC 2000 Fuel Injector Cleaner is an effective, specialized cleaning solution for fuel injectors in gasoline engines, often serving as the last step before costly injector regeneration or replacement. It unblocks clogged injectors, removes contaminants and deposits from the nozzles and cylinders, reduces moisture around the injectors, and decreases wear, thereby restoring proper fuel flow and atomization, improving combustion and engine dynamics. TEC 2000 Fuel Injector Cleaner is designed for emergency use in cases of problems with gasoline injectors - such as clogging, uneven fuel delivery, or reduced engine performance. When the risk of expensive diagnostics, regeneration, or injector replacement arises, this product effectively restores their proper operation and helps avoid costly repairs. For preventive protection of the fuel injection system and to maintain its efficiency, we recommend using the Fuel System Cleaner twice a year, which removes deposits, prevents their reaccumulation, and supports proper fuel system operation. TEC 2000 Fuel Injector Cleaner is a professional-grade product. If you do not have the necessary expertise, have it applied by a mechanic.
-  Updated: 2026-04-26T11:53:07Z
+  Updated: 2026-04-28T13:09:20Z
   Vendor: TEC 2000
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0847/3218/2872/files/9875efc133cba411e54bb16838bfb437.webp?v=1730147883
   Price: $19.00 USD
 - [TEC 2000 Radiator Stop Leak](https://tec2000.com/products/tec-2000-radiator-stop-leak): TEC 2000 Radiator Stop Leak is an innovative radiator sealant that provides the highest level of protection. It protects against cooling system failure due to leaks and pressure leaks. The use of the product prevents the loss of cooling mixtures, as well as their freezing. TEC 2000 Radiator Stop Leak sealant makes sure that adequate pressure is maintained in the cooling system. This agent protects the radiator from the formation of rust and corrosion. The sealant should be used when radiator leaks do not exceed 1.5 mm. The product is sold in a 325 ml bottle. Universal radiator sealant. Fits all commercially available coolants. Recommended for use in professional garages, as well as at home.
-  Updated: 2026-04-20T20:26:08Z
+  Updated: 2026-04-28T13:09:22Z
   Vendor: TEC 2000
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0847/3218/2872/files/8b48d44ce1773e0aa07c65b456a70910.webp?v=1730148893
   Price: $17.00 USD
 - [TEC 2000 Radiator Flush](https://tec2000.com/products/tec-2000-radiator-flush): TEC 2000 Radiator Flush is a multifunctional cleaner that has won praise from customers around the world. This agent very thoroughly removes scale, rust, residues from water softeners and anti-freeze. TEC 2000 Radiator Flush is distinguished by its speed and effectiveness. At the same time, it gets rid of various types of contaminants, while protecting both rubber and metal radiator components. Recommended for use twice a year. Designed for both professional garages and home garages. Radiator cleaner with strong action, so during use it is recommended to use special protective clothing to minimize the risk of burns.
-  Updated: 2026-04-20T20:26:08Z
+  Updated: 2026-04-28T13:09:21Z
   Vendor: TEC 2000
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0847/3218/2872/files/a1cf5b7304de1debe66f4cd9dcdad497.webp?v=1730149445
   Price: $17.00 USD
 - [TEC 2000 Airco Fresher Service Spray](https://tec2000.com/products/tec-2000-airco-fresher-service-spray): TEC 2000 Airco Fresher Service Spray is an air conditioning dehumidification spray. It guarantees comprehensive cleaning of the air conditioning system. The product refreshes the smell, while eliminating unpleasant odors of moisture and mustiness. TEC 2000 Airco Fresher Service Air Conditioner Spray is based on bactericidal and fungicidal ingredients, so it protects not only the air conditioning system, but also the health of the driver and passengers. It provides a long-lasting fresh effect in the vehicle's cockpit. Air conditioning spray with precise action - will clean even the farthest corners of the system. Preparation for air conditioning based on non-flammable gas, which does not pose a threat to health and the environment. Recommended for every driver.
-  Updated: 2026-04-20T20:26:09Z
+  Updated: 2026-04-28T13:09:17Z
   Vendor: TEC 2000
   Product Type: 
   Availability: Available
@@ -98,25 +100,25 @@
 ## Collections
 
 - [Products](https://tec2000.com/collections/frontpage)
-  Updated: 2026-04-23T11:19:56Z
+  Updated: 2026-04-29T11:44:53Z
   Total Products: 10
 - [Diesel](https://tec2000.com/collections/diesel)
-  Updated: 2026-04-23T11:19:56Z
+  Updated: 2026-04-29T11:44:53Z
   Total Products: 7
 - [Gas](https://tec2000.com/collections/gas)
-  Updated: 2026-04-23T11:19:56Z
+  Updated: 2026-04-29T11:44:53Z
   Total Products: 8
 - [Cleaning the injectors](https://tec2000.com/collections/cleaning-the-injectors)
-  Updated: 2026-04-20T20:13:56Z
+  Updated: 2026-04-29T11:44:53Z
   Total Products: 2
 - [Fuel additives](https://tec2000.com/collections/fuel-additives)
-  Updated: 2026-04-20T20:13:56Z
+  Updated: 2026-04-29T11:44:53Z
   Total Products: 2
 - [Cooling and Air Conditioning System](https://tec2000.com/collections/engine-cooling-and-air-conditioning)
-  Updated: 2026-04-20T20:13:56Z
+  Updated: 2026-04-29T11:44:54Z
   Total Products: 3
 - [Engine protection](https://tec2000.com/collections/engine-protection)
-  Updated: 2026-04-23T11:19:56Z
+  Updated: 2026-04-29T11:44:54Z
   Total Products: 3
 
 ## Blogs
@@ -327,8 +329,6 @@
 
 - [Contact](https://tec2000.com/pages/contact)
   Updated: 2024-07-08T18:39:02Z
-- [Your Privacy Choices](https://tec2000.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2026-01-28T15:28:22Z
 - [Test page for more info about products](https://tec2000.com/pages/test-page-for-more-info-about-products): test page
   Updated: 2024-09-03T19:42:13Z
 - [Collaboration](https://tec2000.com/pages/collaboration)
@@ -351,6 +351,8 @@
   Updated: 2025-11-28T11:46:27Z
 - [Test Author](https://tec2000.com/pages/test-author): Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...
   Updated: 2026-01-15T10:09:31Z
+- [faq](https://tec2000.com/pages/faq)
+  Updated: 2026-04-26T14:35:15Z
 
 ## Policies
 
