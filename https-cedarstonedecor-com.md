@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-02-26T20:42:56Z
 - Contact Email: artistryvibes816@gmail.com
-- Updated At: 2026-04-26T00:00:37.854Z
+- Updated At: 2026-05-04T00:00:40.406Z
 
 ## Products
 
@@ -303,7 +303,7 @@
   Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/4660132864363781672_2048.jpg?v=1776782199
   Price: $48.99 USD
 - ["Fueled by Caffeine" Pastel Geometric Ceramic Mug — Coffee Lover Gift | Cedar & Stone](https://cedarstonedecor.com/products/pastel-geometric-ceramic-mug-fueled-by-caffeine-patterned-coffee-cup-11oz-15oz): Glossy white ceramic mug with soft pastel geometric pattern and "Fueled by Caffeine" text. Microwave & dishwasher safe. Available in 11oz and 15oz — a cheerful morning essential.
-  Updated: 2026-04-24T12:06:37Z
+  Updated: 2026-05-03T17:49:13Z
   Vendor: Printify
   Product Type: Mug
   Availability: Available
@@ -314,7 +314,7 @@
     Price: $15.99 USD
   - [15oz](https://cedarstonedecor.com/products/pastel-geometric-ceramic-mug-fueled-by-caffeine-patterned-coffee-cup-11oz-15oz?variant=42359076257867)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/1660598587860591810_2048.jpg?v=1776782201
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/13324177204915169887_2048.jpg?v=1776782201
     Price: $19.99 USD
 - [Botanical & Classical Framed Canvas Wall Art — Personalized Inspirational Print | Cedar & Stone](https://cedarstonedecor.com/products/personalize-it-framed-canvas-wall-art): Framed matte canvas with classical statue, botanical, and mushroom art on a soft lavender background. 6 sizes, 4 frame colors. Ready to hang — a peaceful, meaningful wall accent.
   Updated: 2026-04-23T23:59:23Z
@@ -4550,7 +4550,272 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/20260424204302-1f1401e3-050e-6958-8e7d-92e4fe322afa.png?v=1777063557
   Price: $49.99 USD
-[List Continued](https://cedarstonedecor.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NjgyMjcyNzIzMDE5LCJsYXN0X3ZhbHVlIjoiNzY4MjI3MjcyMzAxOSJ9)
+- [Personalized Watercolor Hummingbird Floral Throw Pillow | Cedar & Stone](https://cedarstonedecor.com/products/personalize-it-watercolor-hummingbird-floral-throw-pillow): Custom watercolor hummingbird & peony throw pillow with insert. Double-sided print, concealed zipper, 7 sizes. A beautiful botanical gift for the home.
+  Updated: 2026-05-03T16:51:10Z
+  Vendor: Printify
+  Product Type: Home Decor
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/20260503154842-1f147078-fd6d-6f64-af9c-ba68134408d9.png?v=1777823709
+  - [14" × 14"](https://cedarstonedecor.com/products/personalize-it-watercolor-hummingbird-floral-throw-pillow?variant=42380993396811)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/20260503154842-1f147078-fd6d-6f64-af9c-ba68134408d9.png?v=1777823709
+    Price: $27.23 USD
+  - [16" × 16"](https://cedarstonedecor.com/products/personalize-it-watercolor-hummingbird-floral-throw-pillow?variant=42380993429579)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/11832108383634203150_2048.jpg?v=1777823711
+    Price: $29.77 USD
+  - [18" × 18"](https://cedarstonedecor.com/products/personalize-it-watercolor-hummingbird-floral-throw-pillow?variant=42380993462347)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/4457085870617521995_2048.jpg?v=1777823714
+    Price: $33.30 USD
+  - [20" × 20"](https://cedarstonedecor.com/products/personalize-it-watercolor-hummingbird-floral-throw-pillow?variant=42380993495115)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/2644436829327842466_2048.jpg?v=1777823717
+    Price: $39.93 USD
+  - [24" × 24"](https://cedarstonedecor.com/products/personalize-it-watercolor-hummingbird-floral-throw-pillow?variant=42380993527883)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/390873289106776847_2048.jpg?v=1777823720
+    Price: $58.13 USD
+  - [26" × 26"](https://cedarstonedecor.com/products/personalize-it-watercolor-hummingbird-floral-throw-pillow?variant=42380993560651)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/8366677527589775630_2048.jpg?v=1777823722
+    Price: $67.15 USD
+  - [28" × 28"](https://cedarstonedecor.com/products/personalize-it-watercolor-hummingbird-floral-throw-pillow?variant=42380993593419)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/15101575426402476209_2048.jpg?v=1777823725
+    Price: $72.52 USD
+- [Personalized Pink Floral Velveteen Plush Throw Blanket | Cedar & Stone](https://cedarstonedecor.com/products/personalize-it-floral-rose-pattern-velveteen-plush-blanket-soft-pink-botanical-throw): Soft velveteen throw blanket with a vintage pink rose botanical print. 3 sizes, machine washable. A cozy, romantic gift for her, baby showers & bridal gifts.
+  Updated: 2026-05-03T16:49:43Z
+  Vendor: Printify
+  Product Type: Home Decor
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/10316786357194527298_2048.jpg?v=1777824027
+  - [30" × 40"](https://cedarstonedecor.com/products/personalize-it-floral-rose-pattern-velveteen-plush-blanket-soft-pink-botanical-throw?variant=42380995100747)
+    Availability: Available
+    Price: $22.07 USD
+  - [50" × 60"](https://cedarstonedecor.com/products/personalize-it-floral-rose-pattern-velveteen-plush-blanket-soft-pink-botanical-throw?variant=42380995133515)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/10316786357194527298_2048.jpg?v=1777824027
+    Price: $38.52 USD
+  - [60" × 80"](https://cedarstonedecor.com/products/personalize-it-floral-rose-pattern-velveteen-plush-blanket-soft-pink-botanical-throw?variant=42380995166283)
+    Availability: Available
+    Price: $52.88 USD
+- [Personalized Floral Hummingbird Garden Flag & Yard Banner | Cedar & Stone](https://cedarstonedecor.com/products/personalize-it-welcome-to-maries-garden-floral-hummingbird-yard-banner): Custom garden flag with watercolor hummingbird & floral design. Double-sided poly canvas, 2 sizes. A charming personalized gift for garden lovers.
+  Updated: 2026-05-03T16:48:10Z
+  Vendor: Printify
+  Product Type: Home Decor
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/9011739658570366704_2048.jpg?v=1777824733
+  - [12'' × 18''](https://cedarstonedecor.com/products/personalize-it-welcome-to-maries-garden-floral-hummingbird-yard-banner?variant=42380998737995)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/9011739658570366704_2048.jpg?v=1777824733
+    Price: $18.99 USD
+  - [24.5'' × 32''](https://cedarstonedecor.com/products/personalize-it-welcome-to-maries-garden-floral-hummingbird-yard-banner?variant=42380998770763)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/13066977726814272253_2048.jpg?v=1777824735
+    Price: $27.99 USD
+- [Personalized Watercolor Floral Glass Cutting Board | Cedar & Stone](https://cedarstonedecor.com/products/personalize-it-glass-cutting-board-vintage-watercolor-gardenias): Custom tempered glass cutting board with vintage watercolor rose design. Stable rubber feet, scratch-resistant print. 2 sizes. A beautiful bridal or Mother's Day gift.
+  Updated: 2026-05-03T16:46:27Z
+  Vendor: Printify
+  Product Type: Home Decor
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/13621158682011942920_2048.jpg?v=1777824959
+  - [8" x 11" / Rectangle](https://cedarstonedecor.com/products/personalize-it-glass-cutting-board-vintage-watercolor-gardenias?variant=42381000933451)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/13621158682011942920_2048.jpg?v=1777824959
+    Price: $29.99 USD
+  - [11" x 15" / Rectangle](https://cedarstonedecor.com/products/personalize-it-glass-cutting-board-vintage-watercolor-gardenias?variant=42381000966219)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/4254065175980142524_2048.jpg?v=1777824962
+    Price: $37.99 USD
+- [Personalized Monogram Ceramic Coaster | Cedar & Stone](https://cedarstonedecor.com/products/personalize-it-cedar-stone-monogram-ceramic-coaster): Custom ceramic coaster with monogram initials & botanical design. Cork-backed, heat & cold resistant. Round or square. A perfect housewarming or wedding gift.
+  Updated: 2026-05-03T16:45:07Z
+  Vendor: Printify
+  Product Type: Home Decor
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/1682236333174688408_2048.jpg?v=1777825436
+  - [Round / One size](https://cedarstonedecor.com/products/personalize-it-cedar-stone-monogram-ceramic-coaster?variant=42381006078027)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/1682236333174688408_2048.jpg?v=1777825436
+    Price: $15.99 USD
+  - [Square / One size](https://cedarstonedecor.com/products/personalize-it-cedar-stone-monogram-ceramic-coaster?variant=42381006110795)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/8603890962586698059_2048.jpg?v=1777825441
+    Price: $15.99 USD
+- [Personalized Hummingbird Floral Tea Towel | Cedar & Stone](https://cedarstonedecor.com/products/personalize-it-hummingbird-floral-tea-towel): Custom microfiber tea towel with a watercolor hummingbird & peony design. Quick-drying, hemmed edges, 16"×25". A perfect housewarming or gift for her.
+  Updated: 2026-05-03T16:42:33Z
+  Vendor: Printify
+  Product Type: Home Decor
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/10522065687179062293_2048.jpg?v=1777825801
+  Price: $17.99 USD
+- [Personalized Corgi Garden Flag | Custom Welcome House Banner](https://cedarstonedecor.com/products/personalized-corgi-garden-flag-welcome-to-paddies-domain-decorative-house-banner): Shop our Personalized Corgi Garden Flag — a charming 'Welcome to Paddie's Domain' decorative house banner customized with your pet's name. Printed on demand.
+  Updated: 2026-05-03T17:05:22Z
+  Vendor: Printify
+  Product Type: Home Decor
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/20260405181014-1f1311ab-1bd0-63d6-a061-aece9a8b8c81.png?v=1777827921
+  Price: $18.99 USD
+- [Per My Last Email White Glossy Mug | Funny Office Worker Coffee Mug](https://cedarstonedecor.com/products/per-my-last-email-white-glossy-mug): Shop the Per My Last Email white glossy mug — a hilarious gift for coworkers and office workers. A bold, funny ceramic coffee mug printed on demand.
+  Updated: 2026-05-03T17:48:19Z
+  Vendor: Printify
+  Product Type: Mug
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/white-glossy-mug-white-20-oz-handle-on-right-69e3ce36a38ea.jpg?v=1777827925
+  - [11 oz](https://cedarstonedecor.com/products/per-my-last-email-white-glossy-mug?variant=42381068173387)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/white-glossy-mug-white-11-oz-handle-on-right-69e3ce36a431c.jpg?v=1777827926
+    Price: $15.99 USD
+  - [15 oz](https://cedarstonedecor.com/products/per-my-last-email-white-glossy-mug?variant=42381068206155)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/white-glossy-mug-white-15-oz-handle-on-right-69e3ce36a4452.jpg?v=1777827926
+    Price: $19.99 USD
+  - [20 oz](https://cedarstonedecor.com/products/per-my-last-email-white-glossy-mug?variant=42381068238923)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/white-glossy-mug-white-20-oz-handle-on-right-69e3ce36a38ea.jpg?v=1777827925
+    Price: $21.99 USD
+- [Consideration Ceramic Mug 11oz & 15oz | Artistry Vibes](https://cedarstonedecor.com/products/consideration-ceramic-mug-11oz-15oz): The Consideration Ceramic Mug — BPA & lead-free, microwave & dishwasher-safe. Available in 11oz and 15oz with vivid printed designs. Perfect gift for mug lovers.
+  Updated: 2026-05-03T17:42:26Z
+  Vendor: Printify
+  Product Type: Mugs
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/6738349094741181992_2048.jpg?v=1777827928
+  - [11oz](https://cedarstonedecor.com/products/consideration-ceramic-mug-11oz-15oz?variant=42381068271691)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/6738349094741181992_2048.jpg?v=1777827928
+    Price: $15.99 USD
+  - [15oz](https://cedarstonedecor.com/products/consideration-ceramic-mug-11oz-15oz?variant=42381068304459)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/15806939544640601941_2048.jpg?v=1777827928
+    Price: $19.99 USD
+- [Small Steps Ceramic Mug 11oz & 15oz | Artistry Vibes](https://cedarstonedecor.com/products/small-steps-ceramic-mug-11oz-15oz): Sip in style with the Small Steps Ceramic Mug. BPA & lead-free, microwave & dishwasher-safe white ceramic. Available in 11oz and 15oz with vivid printed designs.
+  Updated: 2026-05-03T17:47:19Z
+  Vendor: Printify
+  Product Type: Mugs
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/6989246503452947352_2048.jpg?v=1777827931
+  - [11oz](https://cedarstonedecor.com/products/small-steps-ceramic-mug-11oz-15oz?variant=42381068337227)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/6989246503452947352_2048.jpg?v=1777827931
+    Price: $15.99 USD
+  - [15oz](https://cedarstonedecor.com/products/small-steps-ceramic-mug-11oz-15oz?variant=42381068369995)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/4052495276911388564_2048.jpg?v=1777827931
+    Price: $19.99 USD
+- [Funny Retro Fridge Magnet – "I'll Take That Under Consideration" Die-Cut | Artistry Vibes](https://cedarstonedecor.com/products/ill-take-that-under-consideration-die-cut-fridge-magnet): Cheeky mid-century die-cut fridge magnet in 5 sizes. Matte vinyl, vibrant print, indoor & outdoor use. Great housewarming or gift for mom with vintage style.
+  Updated: 2026-05-03T17:17:36Z
+  Vendor: Printify
+  Product Type: Home Decor
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/6242573974127756310_1200.jpg?v=1777827933
+  - [2" x 2" / Die-Cut / 1 pc](https://cedarstonedecor.com/products/ill-take-that-under-consideration-die-cut-fridge-magnet?variant=42381068402763)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/6242573974127756310_1200.jpg?v=1777827933
+    Price: $8.99 USD
+  - [3" x 3" / Die-Cut / 1 pc](https://cedarstonedecor.com/products/ill-take-that-under-consideration-die-cut-fridge-magnet?variant=42381068435531)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/7142844868704892123_1200.jpg?v=1777827934
+    Price: $8.99 USD
+  - [4" x 4" / Die-Cut / 1 pc](https://cedarstonedecor.com/products/ill-take-that-under-consideration-die-cut-fridge-magnet?variant=42381068468299)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/399392014788576907_1200.jpg?v=1777827934
+    Price: $11.99 USD
+  - [5" x 5" / Die-Cut / 1 pc](https://cedarstonedecor.com/products/ill-take-that-under-consideration-die-cut-fridge-magnet?variant=42381068501067)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/18348573559049808745_1200.jpg?v=1777827934
+    Price: $15.99 USD
+  - [6" × 6" / Die-Cut / 1 pc](https://cedarstonedecor.com/products/ill-take-that-under-consideration-die-cut-fridge-magnet?variant=42381068533835)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/13951537237676829308_1200.jpg?v=1777827934
+    Price: $15.99 USD
+- [Funny Office Fridge Magnet – "Per My Last Email: No" Die-Cut | Artistry Vibes](https://cedarstonedecor.com/products/per-my-last-email-no-die-cut-magnet-funny-office-fridge-sticker): Sassy retro die-cut fridge magnet in 5 sizes. Matte vinyl, vibrant print, indoor & outdoor use. Perfect gift for coworkers, office humor & 90s aesthetic fans.
+  Updated: 2026-05-03T17:16:05Z
+  Vendor: Printify
+  Product Type: Home Decor
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/8372950393218235544_1200.jpg?v=1777827937
+  - [2" x 2" / Die-Cut / 1 pc](https://cedarstonedecor.com/products/per-my-last-email-no-die-cut-magnet-funny-office-fridge-sticker?variant=42381068566603)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/8372950393218235544_1200.jpg?v=1777827937
+    Price: $8.99 USD
+  - [3" x 3" / Die-Cut / 1 pc](https://cedarstonedecor.com/products/per-my-last-email-no-die-cut-magnet-funny-office-fridge-sticker?variant=42381068599371)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/13299796121797829531_1200.jpg?v=1777827937
+    Price: $8.99 USD
+  - [4" x 4" / Die-Cut / 1 pc](https://cedarstonedecor.com/products/per-my-last-email-no-die-cut-magnet-funny-office-fridge-sticker?variant=42381068632139)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/11586896409094113385_1200.jpg?v=1777827937
+    Price: $11.99 USD
+  - [5" x 5" / Die-Cut / 1 pc](https://cedarstonedecor.com/products/per-my-last-email-no-die-cut-magnet-funny-office-fridge-sticker?variant=42381068664907)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/2442708719615783939_1200.jpg?v=1777827937
+    Price: $15.99 USD
+  - [6" × 6" / Die-Cut / 1 pc](https://cedarstonedecor.com/products/per-my-last-email-no-die-cut-magnet-funny-office-fridge-sticker?variant=42381068697675)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/2936103560275518113_1200.jpg?v=1777827936
+    Price: $15.99 USD
+- [Sassy Fridge Magnet – "On My Way to Not Give a Shit" Die-Cut | Artistry Vibes](https://cedarstonedecor.com/products/on-my-way-to-not-give-a-shit-die-cut-fridge-magnet): Retro-style die-cut fridge magnet in 5 sizes. Matte vinyl, vibrant print, indoor & outdoor use. Funny gift for her, teen room decor & quirky kitchen art.
+  Updated: 2026-05-03T17:14:36Z
+  Vendor: Printify
+  Product Type: Home Decor
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/4626072670459688021_1200.jpg?v=1777827940
+  - [2" x 2" / Die-Cut / 1 pc](https://cedarstonedecor.com/products/on-my-way-to-not-give-a-shit-die-cut-fridge-magnet?variant=42381068730443)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/4626072670459688021_1200.jpg?v=1777827940
+    Price: $8.99 USD
+  - [3" x 3" / Die-Cut / 1 pc](https://cedarstonedecor.com/products/on-my-way-to-not-give-a-shit-die-cut-fridge-magnet?variant=42381068763211)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/14935211154901248468_1200.jpg?v=1777827940
+    Price: $8.99 USD
+  - [4" x 4" / Die-Cut / 1 pc](https://cedarstonedecor.com/products/on-my-way-to-not-give-a-shit-die-cut-fridge-magnet?variant=42381068795979)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/6405432327056713980_1200.jpg?v=1777827939
+    Price: $11.99 USD
+  - [5" x 5" / Die-Cut / 1 pc](https://cedarstonedecor.com/products/on-my-way-to-not-give-a-shit-die-cut-fridge-magnet?variant=42381068828747)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/17367645172753709212_1200.jpg?v=1777827940
+    Price: $15.99 USD
+  - [6" × 6" / Die-Cut / 1 pc](https://cedarstonedecor.com/products/on-my-way-to-not-give-a-shit-die-cut-fridge-magnet?variant=42381068861515)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/4125526637639004464_1200.jpg?v=1777827940
+    Price: $15.99 USD
+- [Cat Lover Ceramic Mug – Introverted but Willing to Discuss Cats | Artistry Vibes](https://cedarstonedecor.com/products/introverted-but-willing-to-discuss-cats-ceramic-mug-11oz-15oz): Glossy ceramic cat mug in 11oz & 15oz. Microwave & dishwasher safe, vibrant print. Perfect gift for cat moms, introverts & coffee lovers. Shop Artistry Vibes.
+  Updated: 2026-05-03T17:46:30Z
+  Vendor: Printify
+  Product Type: Mugs
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/5734047889491133837_2048.jpg?v=1777827943
+  - [11oz](https://cedarstonedecor.com/products/introverted-but-willing-to-discuss-cats-ceramic-mug-11oz-15oz?variant=42381068894283)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/7718051372966593923_2048.jpg?v=1777827942
+    Price: $15.99 USD
+  - [15oz](https://cedarstonedecor.com/products/introverted-but-willing-to-discuss-cats-ceramic-mug-11oz-15oz?variant=42381068927051)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/7873676260239200955_2048.jpg?v=1777827942
+    Price: $19.99 USD
+- [Corgi Balloon Paw Print Ceramic Coffee Mug | Cedar & Stone](https://cedarstonedecor.com/products/corgi-balloon-paw-print-ceramic-coffee-cup-11oz-15oz): Playful paw print ceramic mug with corgi balloon design. Microwave & dishwasher safe, available in 11oz & 15oz. A cute gift for pet & cat lovers.
+  Updated: 2026-05-03T17:46:02Z
+  Vendor: Printify
+  Product Type: Mugs
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/16192730530973348155_2048.jpg?v=1777827946
+  - [11oz](https://cedarstonedecor.com/products/corgi-balloon-paw-print-ceramic-coffee-cup-11oz-15oz?variant=42381068959819)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/16724521280763310786_2048.jpg?v=1777827946
+    Price: $15.99 USD
+  - [15oz](https://cedarstonedecor.com/products/corgi-balloon-paw-print-ceramic-coffee-cup-11oz-15oz?variant=42381068992587)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/2716808477908045073_2048.jpg?v=1777827946
+    Price: $19.99 USD
+- [Personalize it! Engraved Bamboo Pizza Board – “You Can’t Buy Happiness but You Can Buy PIZZA”](https://cedarstonedecor.com/products/personalize-it-engraved-bamboo-pizza-board-you-can-t-buy-happiness-but-you-can-buy-pizza): Rustic bamboo pizza peel engraved with a playful quote that celebrates pizza night. Or change the text to what fits your style! The warm grain of natural bamboo and the deep-etched lettering create a cozy, homey look that sits nicely on a countertop or hangs from a hook. Lightweight yet sturdy, this 15½" x 11" board doubles as a serving paddle for straight-from-the-oven slices and a decorative accent when entertaining. It’s made from sustainably sourced bamboo and finished with a smooth, food-safe surface — care is simple: hand wash and dry promptly to keep the wood looking its best. The engraved message adds personality and invites conversation at casual dinners, pizza parties, or laid-back gatherings around the table.Product features- Natural bamboo construction for a warm, eco-friendly look- Engraved decoration for durable, long-lasting lettering- One size: 15½" x 11" — paddle-style shape with handle and hanging hole- Lightweight and sturdy enough for serving and presentation- Hand wash only; avoid dishwasher to preserve finish and engravingCare instructions- Hand wash
+  Updated: 2026-05-03T17:44:23Z
+  Vendor: Printify
+  Product Type: Home Decor
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/7052/8587/files/13325958714994093400_2048.jpg?v=1777829620
+  Price: $38.09 USD
+[List Continued](https://cedarstonedecor.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3Njg2ODM5MTA3NjU5LCJsYXN0X3ZhbHVlIjoiNzY4NjgzOTEwNzY1OSJ9)
 
 ## Collections
 
@@ -4561,17 +4826,17 @@
   Updated: 2026-04-23T23:52:25Z
   Total Products: 0
 - [Home Decor — Vases, Candles, Tabletop & Decorative Accents | Cedar & Stone](https://cedarstonedecor.com/collections/decor): Shop home decor at Cedar & Stone. Discover vases, candles, tabletop accents, and decorative pieces for a warm, modern rustic home.
-  Updated: 2026-04-24T16:03:16Z
-  Total Products: 28
+  Updated: 2026-05-03T17:18:54Z
+  Total Products: 32
 - [Lighting – Indoor & Outdoor Home Lights & Lamps | Cedar & Stone](https://cedarstonedecor.com/collections/lighting): Shop solar garden lights, LED outdoor lighting, plant grow lights, night lights, and wall sconces. Stylish lighting for every room and outdoor space.
   Updated: 2026-04-24T16:30:06Z
   Total Products: 33
 - [Tabletop & Kitchen – Ceramic Plates, Mugs & Candles | Cedar & Stone](https://cedarstonedecor.com/collections/tabletop-kitchen): Shop Japanese ceramic plates, patterned coffee mugs, and soy wax candles. Elegant tabletop pieces for everyday dining and special occasions.
-  Updated: 2026-04-24T20:45:54Z
-  Total Products: 21
+  Updated: 2026-05-03T17:33:36Z
+  Total Products: 28
 - [Gifts & Novelty – Personalized & Unique Gift Ideas | Cedar & Stone](https://cedarstonedecor.com/collections/gifts-novelty): Shop personalized keychains, engraved tumblers, journals, woven blankets, and novelty pillow cases. Unique gifts for every occasion.
-  Updated: 2026-04-24T15:23:44Z
-  Total Products: 14
+  Updated: 2026-05-03T17:48:21Z
+  Total Products: 21
 - [Wall Art & Wall Decor — Mirrors, Hangings & Boho Accents | Cedar & Stone](https://cedarstonedecor.com/collections/wall-art): Shop wall art, mirrors, and hanging decor at Cedar & Stone. Bohemian mirrors, macrame hangings, wooden pendants, and more for every room.
   Updated: 2026-04-24T15:58:48Z
   Total Products: 20
