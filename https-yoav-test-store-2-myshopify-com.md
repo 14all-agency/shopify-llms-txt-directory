@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-01-08T15:14:34Z
 - Contact Email: yoav@40rty.ai
-- Updated At: 2026-04-26T00:00:34.348Z
+- Updated At: 2026-05-04T00:00:36.751Z
 
 ## Products
 
@@ -223,7 +223,7 @@
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/2526_AERONAUT_DETAIL_3.jpg?v=1773917571
   Price: $699.95 USD
 - [Paradise Snowboard](https://yoav-test-store-2.myshopify.com/products/paradise-snowboard): Paradise Snowboard is a high-performance snowboard built for riders who demand quality and durability.
-  Updated: 2026-04-12T20:17:07Z
+  Updated: 2026-04-30T22:32:59Z
   Vendor: CAPiTA
   Product Type: Snowboard
   Availability: Available
@@ -265,7 +265,7 @@
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/FRD07_EQUALIZER_146_04615a6b-087b-4de5-afc0-3f608fdc68fc.png?v=1773917568
   Price: $599.95 USD
 - [Space Metal Fantasy Snowboard](https://yoav-test-store-2.myshopify.com/products/space-metal-fantasy-snowboard): Space Metal Fantasy Snowboard is a high-performance snowboard built for riders who demand quality and durability.
-  Updated: 2026-04-13T22:22:39Z
+  Updated: 2026-04-30T19:22:55Z
   Vendor: CAPiTA
   Product Type: Snowboard
   Availability: Available
@@ -692,7 +692,7 @@
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/2026-salomon-highlander-bindings__80806.1755115090.jpg?v=1773917527
   Price: $329.95 USD
 - [Nitro Team Bindings](https://yoav-test-store-2.myshopify.com/products/nitro-team-bindings): Nitro Team Bindings enhances your snowboarding setup with durable construction.
-  Updated: 2026-04-12T20:22:24Z
+  Updated: 2026-04-30T21:06:03Z
   Vendor: Nitro
   Product Type: Bindings
   Availability: Available
@@ -741,7 +741,7 @@
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/Smith-Squad-Mag-Goggle-AC-Elena-Hight-ChromaPop-Everyday-Rose-Gold-Mirror-Bonus.jpg?v=1773917523
   Price: $200.00 USD
 - [Oakley Flight Deck M Goggles](https://yoav-test-store-2.myshopify.com/products/oakley-flight-deck-m-goggles): Wide view goggles with a frameless design and Prizm lens technology.
-  Updated: 2026-04-14T00:07:53Z
+  Updated: 2026-04-30T21:56:26Z
   Vendor: Oakley
   Product Type: Goggles
   Availability: Available
@@ -886,7 +886,7 @@
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/download.webp?v=1773848291
   Price: $34.95 USD
 - [Airhole Facemask](https://yoav-test-store-2.myshopify.com/products/airhole-facemask): Breathable facemask with a signature airhole for easy breathing on cold days.
-  Updated: 2026-04-13T11:49:58Z
+  Updated: 2026-04-27T19:13:27Z
   Vendor: Airhole
   Product Type: Face Mask
   Availability: Available
@@ -949,7 +949,7 @@
   Updated: 2026-03-18T12:07:32Z
   Total Products: 1
 - [Automated Collection](https://yoav-test-store-2.myshopify.com/collections/automated-collection)
-  Updated: 2026-04-13T11:46:05Z
+  Updated: 2026-04-30T12:55:15Z
   Total Products: 104
 - [Hydrogen](https://yoav-test-store-2.myshopify.com/collections/hydrogen)
   Updated: 2026-03-18T12:07:32Z
@@ -958,7 +958,7 @@
   Updated: 2026-04-12T06:23:23Z
   Total Products: 23
 - [Snowboards](https://yoav-test-store-2.myshopify.com/collections/snowboards)
-  Updated: 2026-04-12T08:16:27Z
+  Updated: 2026-04-30T12:55:15Z
   Total Products: 39
 - [Snowboard bindings](https://yoav-test-store-2.myshopify.com/collections/snowboard-bindings)
   Updated: 2026-04-13T11:46:05Z
