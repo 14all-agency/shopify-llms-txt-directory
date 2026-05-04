@@ -6,12 +6,12 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-03-16T17:42:19Z
 - Contact Email: info@iconbracelet.com
-- Updated At: 2026-04-21T00:00:26.864Z
+- Updated At: 2026-05-04T00:00:38.454Z
 
 ## Products
 
 - [Pulsera Charms ICON Base - ICON Bracelet](https://iconbracelet.com/products/pulsera-icon-base): - ICON Bracelet
-  Updated: 2026-04-20T18:38:36Z
+  Updated: 2026-04-23T21:09:05Z
   Vendor: ICON Bracelet
   Product Type: 
   Availability: Available
@@ -25,7 +25,7 @@
     Image: https://cdn.shopify.com/s/files/1/0952/3285/2306/files/Pulsera-charms-italianos-dorada.png?v=1776710316
     Price: 20,00 € EUR
 - [Pulsera Charms ICON Estrella - ICON Bracelet](https://iconbracelet.com/products/pulsera-icon-star): - ICON Bracelet
-  Updated: 2026-04-20T18:39:43Z
+  Updated: 2026-05-01T12:15:16Z
   Vendor: ICON Bracelet
   Product Type: 
   Availability: Available
@@ -39,7 +39,7 @@
     Image: https://cdn.shopify.com/s/files/1/0952/3285/2306/files/pulsera-charms-italianos-estrellas-dorada.png?v=1776710383
     Price: 20,00 € EUR
 - [Pulsera Charms ICON Corazón - ICON Bracelet](https://iconbracelet.com/products/pulsera-icon-corazon): - ICON Bracelet
-  Updated: 2026-04-20T18:40:57Z
+  Updated: 2026-05-03T17:04:01Z
   Vendor: ICON Bracelet
   Product Type: 
   Availability: Available
@@ -58,6 +58,13 @@
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/3285/2306/files/italian-charm-silver-Spicy.png?v=1753202004
+  Price: 3,99 € EUR
+- [Nazar - ICON Bracelet](https://iconbracelet.com/products/product): - ICON Bracelet
+  Updated: 2026-04-24T14:05:05Z
+  Vendor: ICON Bracelet
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0952/3285/2306/files/italian-charm-silver-Nazar.png?v=1754170526
   Price: 3,99 € EUR
 - [Bichón Maltés - ICON Bracelet](https://iconbracelet.com/products/bichon-maltes): - ICON Bracelet
   Updated: 2026-04-20T16:59:53Z
@@ -86,6 +93,13 @@
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/3285/2306/files/italian-charm-golden-Sunset.png?v=1753199684
+  Price: 3,99 € EUR
+- [Mar - ICON Bracelet](https://iconbracelet.com/products/mar): - ICON Bracelet
+  Updated: 2026-04-24T14:07:08Z
+  Vendor: ICON Bracelet
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0952/3285/2306/files/italian-charm-silver-Gaviota.png?v=1752925560
   Price: 3,99 € EUR
 - [Zebra - ICON Bracelet](https://iconbracelet.com/products/zebra): - ICON Bracelet
   Updated: 2026-04-20T16:59:56Z
@@ -151,14 +165,14 @@
   Image: https://cdn.shopify.com/s/files/1/0952/3285/2306/files/italian-charm-silver-Ballenas.png?v=1753201377
   Price: 3,99 € EUR
 - [Araña - ICON Bracelet](https://iconbracelet.com/products/spider): - ICON Bracelet
-  Updated: 2026-04-20T17:00:00Z
+  Updated: 2026-04-21T20:34:31Z
   Vendor: ICON Bracelet
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/3285/2306/files/italian-charm-silver-Spider.png?v=1754151714
   Price: 3,99 € EUR
 - [Estrella - ICON Bracelet](https://iconbracelet.com/products/estrella): - ICON Bracelet
-  Updated: 2026-04-20T17:00:01Z
+  Updated: 2026-04-28T08:46:07Z
   Vendor: ICON Bracelet
   Product Type: 
   Availability: Available
@@ -563,6 +577,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/3285/2306/files/italian-charm-silver-Tulipanes-Blancos.png?v=1753440689
   Price: 3,99 € EUR
+- [Tulipanes Morados](https://iconbracelet.com/products/tulipanes-morados)
+  Updated: 2026-04-24T14:09:58Z
+  Vendor: ICON Bracelet
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0952/3285/2306/files/italian-charm-silver-Tulipanes-Morados.png?v=1754150718
+  Price: 3,99 € EUR
 - [Girasoles](https://iconbracelet.com/products/girasoles)
   Updated: 2026-01-10T18:18:18Z
   Vendor: ICON Bracelet
@@ -627,14 +648,14 @@
   Image: https://cdn.shopify.com/s/files/1/0952/3285/2306/files/italian-charm-silver-Reflejo-en-el-Agua.png?v=1754154106
   Price: 3,99 € EUR
 - [Navegación](https://iconbracelet.com/products/sail)
-  Updated: 2026-03-30T01:26:04Z
+  Updated: 2026-04-24T14:07:07Z
   Vendor: ICON Bracelet
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/3285/2306/files/italian-charm-silver-Sail.png?v=1754154975
   Price: 3,99 € EUR
 - [Velero](https://iconbracelet.com/products/velero)
-  Updated: 2026-01-10T18:18:16Z
+  Updated: 2026-04-24T14:07:08Z
   Vendor: ICON Bracelet
   Product Type: 
   Availability: Available
@@ -662,7 +683,7 @@
   Image: https://cdn.shopify.com/s/files/1/0952/3285/2306/files/italian-charm-silver-Ballena.png?v=1754154061
   Price: 3,99 € EUR
 - [Caseta de la Playa](https://iconbracelet.com/products/caseta-de-la-playa)
-  Updated: 2026-02-19T22:22:18Z
+  Updated: 2026-04-24T14:05:26Z
   Vendor: ICON Bracelet
   Product Type: 
   Availability: Available
@@ -732,7 +753,7 @@
   Image: https://cdn.shopify.com/s/files/1/0952/3285/2306/files/italian-charm-silver-Pink-Glass-Heart.png?v=1754147369
   Price: 3,99 € EUR
 - [Perla Corazón Cian](https://iconbracelet.com/products/cyan-glass-heart)
-  Updated: 2026-04-09T10:22:08Z
+  Updated: 2026-05-03T17:03:56Z
   Vendor: ICON Bracelet
   Product Type: 
   Availability: Available
@@ -885,13 +906,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/3285/2306/files/italian-charm-silver-hawaii.png?v=1752865583
   Price: 3,99 € EUR
-- [London](https://iconbracelet.com/products/london)
-  Updated: 2026-01-10T18:18:10Z
-  Vendor: ICON Bracelet
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0952/3285/2306/files/italian-charm-silver-london.png?v=1754151853
-  Price: 3,99 € EUR
 - [Corazón Naranja](https://iconbracelet.com/products/corazon-naranja)
   Updated: 2026-01-10T18:18:10Z
   Vendor: ICON Bracelet
@@ -998,11 +1012,18 @@
   Image: https://cdn.shopify.com/s/files/1/0952/3285/2306/files/italian-charm-golden-Diamante-Fucsia.png?v=1752865178
   Price: 3,99 € EUR
 - [Perla Verde](https://iconbracelet.com/products/perla-verde-1)
-  Updated: 2026-01-10T18:18:07Z
+  Updated: 2026-04-21T20:34:26Z
   Vendor: ICON Bracelet
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/3285/2306/files/italian-charm-golden-Diamante-Verde.png?v=1752865350
+  Price: 3,99 € EUR
+- [Gato Noche](https://iconbracelet.com/products/gato)
+  Updated: 2026-04-24T14:04:35Z
+  Vendor: ICON Bracelet
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0952/3285/2306/files/italian-charm-golden-Gato-noche.png?v=1753439824
   Price: 3,99 € EUR
 - [GOLDEN PACK 1 PULSERA + 5 CHARMS](https://iconbracelet.com/products/pack-1-pulsera-charms): Elige tu pulsera favorita y complétala con los cinco charms que más te representen.
   Updated: 2026-01-10T18:18:07Z
@@ -1159,14 +1180,14 @@
   Image: https://cdn.shopify.com/s/files/1/0952/3285/2306/files/pack-10-charms-pulsera-italiana.png?v=1754323313
   Price: 40,00 € EUR
 - [Nazar](https://iconbracelet.com/products/nazar)
-  Updated: 2026-01-10T18:18:03Z
+  Updated: 2026-04-24T14:05:06Z
   Vendor: ICON Bracelet
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/3285/2306/files/italian-charm-golden-Ojo-De-La-Suerte.png?v=1754152489
   Price: 3,99 € EUR
 - [Bad Bunny - Un Verano Sin Ti](https://iconbracelet.com/products/un-verano-sin-ti)
-  Updated: 2026-02-06T23:45:56Z
+  Updated: 2026-04-24T07:43:08Z
   Vendor: ICON Bracelet
   Product Type: 
   Availability: Available
@@ -1187,7 +1208,7 @@
   Image: https://cdn.shopify.com/s/files/1/0952/3285/2306/files/italian-charm-silver-Bandera-Carreras.png?v=1754156013
   Price: 3,99 € EUR
 - [Margarita](https://iconbracelet.com/products/margarita)
-  Updated: 2026-01-10T18:18:02Z
+  Updated: 2026-05-03T17:03:56Z
   Vendor: ICON Bracelet
   Product Type: 
   Availability: Available
@@ -1200,12 +1221,12 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/3285/2306/files/italian-charm-golden-Flor-Blanca.png?v=1754152506
   Price: 3,99 € EUR
-- [Huella](https://iconbracelet.com/products/huella)
-  Updated: 2026-01-10T18:18:02Z
+- [Huella](https://iconbracelet.com/products/huella-1)
+  Updated: 2026-05-01T12:11:06Z
   Vendor: ICON Bracelet
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0952/3285/2306/files/italian-charm-silver-Huella-Animal.png?v=1754168723
+  Image: https://cdn.shopify.com/s/files/1/0952/3285/2306/files/italian-charm-golden-Huella.png?v=1754150958
   Price: 3,99 € EUR
 - [Corazón](https://iconbracelet.com/products/corazon-1)
   Updated: 2026-01-10T18:18:02Z
@@ -1278,7 +1299,7 @@
   Image: https://cdn.shopify.com/s/files/1/0952/3285/2306/files/italian-charm-golden-Palo-de-Cartas.png?v=1754151099
   Price: 3,99 € EUR
 - [As](https://iconbracelet.com/products/as)
-  Updated: 2026-01-10T18:18:00Z
+  Updated: 2026-04-28T08:47:17Z
   Vendor: ICON Bracelet
   Product Type: 
   Availability: Available
@@ -1613,6 +1634,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/3285/2306/files/italian-charm-silver-College-Girl.png?v=1752858771
   Price: 3,99 € EUR
+- [Los Girasoles - Van Gogh](https://iconbracelet.com/products/los-girasoles)
+  Updated: 2026-04-24T14:07:28Z
+  Vendor: ICON Bracelet
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0952/3285/2306/files/italian-charm-silver-Girasoles-Cuadro.png?v=1752925689
+  Price: 3,99 € EUR
 - [Sexy](https://iconbracelet.com/products/sexy)
   Updated: 2026-01-10T18:17:52Z
   Vendor: ICON Bracelet
@@ -1716,19 +1744,19 @@
 ## Collections
 
 - [Golden Charms - ICON Bracelet](https://iconbracelet.com/collections/charms-dorados): - ICON Bracelet
-  Updated: 2026-04-20T16:58:37Z
+  Updated: 2026-04-22T11:32:07Z
   Total Products: 178
 - [Silver Charms - ICON Bracelet](https://iconbracelet.com/collections/silver-charms): - ICON Bracelet
-  Updated: 2026-04-20T16:58:37Z
+  Updated: 2026-05-01T11:39:10Z
   Total Products: 347
 - [Pantalla Inicio - ICON Bracelet](https://iconbracelet.com/collections/pantalla-inicio): - ICON Bracelet
   Updated: 2026-04-20T16:58:38Z
   Total Products: 6
 - [Pulseras - ICON Bracelet](https://iconbracelet.com/collections/bracelets): - ICON Bracelet
-  Updated: 2026-04-20T16:58:38Z
+  Updated: 2026-05-01T11:39:10Z
   Total Products: 6
 - [Animales - ICON Bracelet](https://iconbracelet.com/collections/mascotas): - ICON Bracelet
-  Updated: 2026-04-20T16:58:39Z
+  Updated: 2026-04-22T11:32:07Z
   Total Products: 69
 - [Viajes - ICON Bracelet](https://iconbracelet.com/collections/paises): - ICON Bracelet
   Updated: 2026-04-20T16:58:39Z
@@ -1740,46 +1768,46 @@
   Updated: 2026-04-20T16:58:40Z
   Total Products: 24
 - [Perlas - ICON Bracelet](https://iconbracelet.com/collections/perlas): - ICON Bracelet
-  Updated: 2026-04-20T16:58:41Z
+  Updated: 2026-04-22T11:32:07Z
   Total Products: 29
 - [Packs - ICON Bracelet](https://iconbracelet.com/collections/packs): - ICON Bracelet
   Updated: 2026-04-20T16:58:41Z
   Total Products: 7
 - [Hobbies y más - ICON Bracelet](https://iconbracelet.com/collections/hobbies): - ICON Bracelet
-  Updated: 2026-04-20T16:58:42Z
+  Updated: 2026-04-22T11:32:07Z
   Total Products: 94
 - [Números y Letras - ICON Bracelet](https://iconbracelet.com/collections/numeros-y-letras): - ICON Bracelet
-  Updated: 2026-04-20T16:58:42Z
+  Updated: 2026-04-22T11:32:07Z
   Total Products: 72
 - [Estrellas - ICON Bracelet](https://iconbracelet.com/collections/estrellas): - ICON Bracelet
-  Updated: 2026-04-20T16:58:43Z
+  Updated: 2026-04-22T11:32:07Z
   Total Products: 18
 - [Para Packs - ICON Bracelet](https://iconbracelet.com/collections/para-packs): - ICON Bracelet
-  Updated: 2026-04-20T16:58:43Z
+  Updated: 2026-05-01T11:39:10Z
   Total Products: 524
 - [Todos los charms - ICON Bracelet](https://iconbracelet.com/collections/todos-los-charms): - ICON Bracelet
-  Updated: 2026-04-20T16:58:43Z
+  Updated: 2026-05-01T11:39:10Z
   Total Products: 525
 - [All - ICON Bracelet](https://iconbracelet.com/collections/all): - ICON Bracelet
-  Updated: 2026-04-20T16:58:44Z
+  Updated: 2026-05-01T11:39:10Z
   Total Products: 538
 - [Nuevos Productos - ICON Bracelet](https://iconbracelet.com/collections/nuevos-productos): - ICON Bracelet
-  Updated: 2026-04-20T16:58:44Z
+  Updated: 2026-05-01T11:39:10Z
   Total Products: 44
 - [1 - ICON Bracelet](https://iconbracelet.com/collections/1): - ICON Bracelet
-  Updated: 2026-04-20T16:58:45Z
+  Updated: 2026-04-22T11:32:07Z
   Total Products: 12
 - [2 - ICON Bracelet](https://iconbracelet.com/collections/2): - ICON Bracelet
   Updated: 2026-04-20T16:58:45Z
   Total Products: 5
 - [3 - ICON Bracelet](https://iconbracelet.com/collections/3): - ICON Bracelet
-  Updated: 2026-04-20T16:58:46Z
+  Updated: 2026-04-22T11:32:07Z
   Total Products: 5
 - [Películas - ICON Bracelet](https://iconbracelet.com/collections/peliculas): - ICON Bracelet
-  Updated: 2026-04-20T16:58:46Z
+  Updated: 2026-05-01T11:39:10Z
   Total Products: 23
 - [Colgantes - ICON Bracelet](https://iconbracelet.com/collections/colgantes): - ICON Bracelet
-  Updated: 2026-04-20T16:58:47Z
+  Updated: 2026-04-22T11:32:07Z
   Total Products: 6
 - [Amor - ICON Bracelet](https://iconbracelet.com/collections/amor): - ICON Bracelet
   Updated: 2026-04-20T16:58:47Z
@@ -1822,6 +1850,19 @@
   Updated: 2025-08-02T15:47:28Z
 - [Pulsera Interactiva ICON Bracelet – Diseña tu Pulsera Personalizada con Charms](https://iconbracelet.com/pages/pulsera-interactiva): 
   Updated: 2025-11-02T11:59:13Z
+
+## Policies
+
+- [Privacy Policy](https://iconbracelet.com/policies/privacy-policy)
+  Updated: 2025-03-26T18:25:15+01:00
+- [Shipping Policy](https://iconbracelet.com/policies/shipping-policy)
+  Updated: 2025-09-16T20:42:36+02:00
+- [Refund Policy](https://iconbracelet.com/policies/refund-policy)
+  Updated: 2025-11-24T20:56:08+01:00
+- [Terms of Service](https://iconbracelet.com/policies/terms-of-service)
+  Updated: 2025-11-24T20:56:42+01:00
+- [Contact Information](https://iconbracelet.com/policies/contact-information)
+  Updated: 2025-11-24T20:55:34+01:00
 
 ## Optional
 
