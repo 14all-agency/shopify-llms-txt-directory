@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2022-02-14T11:48:42Z
 - Contact Email: commerciale@archimedilsrl.it
-- Updated At: 2026-04-26T00:00:44.691Z
+- Updated At: 2026-05-04T00:00:48.692Z
 
 ## Products
 
@@ -88,7 +88,7 @@
     Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/files/disco_feltro_nero_raimondi_248V_maxititina.png?v=1704442981
     Price: 17,50 € EUR
 - [Renner Rio Verde - Impregnante gel all’acqua 750 ml](https://www.archimedilsrl.it/products/impregnante-rioverde-rg-1380-da-0-75-lt): Renner Rio Verde RG 1380 0,75 L: impregnante gel all’acqua antigoccia per legno, ideale per superfici verticali. Protegge con finitura uniforme e naturale.
-  Updated: 2025-12-09T07:37:21Z
+  Updated: 2026-04-28T09:42:59Z
   Vendor: RENNER ITALIA SPA
   Product Type: Impregnanti
   Availability: Available
@@ -122,7 +122,7 @@
     Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/products/RM1010_1.png?v=1744809975
     Price: 20,90 € EUR
 - [Renner Rio Verde - Vintage Prestige vernice extra opaca lavabile per interni ed esterni 0,5 L](https://www.archimedilsrl.it/products/rio-verde-renner-vintage-prestige-0-5lt-vernice-extra-opaca-lavabile-per-interni-ed-esterni-ginepro): Scopri Renner Rio Verde Vintage Prestige Ginepro 0,5 L: vernice extra opaca lavabile per interni ed esterni, ideale per una finitura elegante e resistente.
-  Updated: 2026-04-22T10:30:21Z
+  Updated: 2026-05-02T08:43:40Z
   Vendor: RENNER ITALIA SPA
   Product Type: Vernici per legno
   Availability: Available
@@ -337,7 +337,7 @@
     Availability: Available
     Price: 39,00 € EUR
 - [San Marco - Maestro Plus Idropittura traspirante supercoprente per interni](https://www.archimedilsrl.it/products/maestro-plus-idropittura-traspirante-supercoprente-per-interni-rapida-essiccazione-4-lt): Maestro Plus idropittura traspirante supercoprente per interni da 4 lt: alta copertura, rapida essiccazione e finitura opaca luminosa per risultati professionali.
-  Updated: 2026-04-16T14:03:16Z
+  Updated: 2026-04-30T09:52:47Z
   Vendor: COLORIFICIO SAN MARCO
   Product Type: Pitture traspiranti
   Availability: Available
@@ -363,7 +363,7 @@
     Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/products/controtelaio-in-legno-per-porte-interne-universale-60-70-80-90-legno-abete-cm-12-utilfer-592615.jpg?v=1679311176
     Price: 24,20 € EUR
 - [Renner Rio Verde - Impregnante classico all'acqua per legno RMxx10](https://www.archimedilsrl.it/products/impregnante-allacqua-color-noce-scuro-750ml-rm1410): Renner RM1410 Noce Scuro 750 ml: impregnante all’acqua per legno, protegge e valorizza con effetto naturale. Ideale per uso interno ed esterno.
-  Updated: 2026-04-13T10:14:46Z
+  Updated: 2026-05-03T19:43:45Z
   Vendor: RENNER ITALIA SPA
   Product Type: Impregnanti
   Availability: Available
@@ -486,13 +486,13 @@
     Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/products/lotto-scarpa-da-lavoro-bassa-race-t8145-marrone-s1p-src-44-eu-lotto-349165.jpg?v=1679311591
     Price: 75,00 € EUR
 - [San Marco - Combat 333 igienizzante antimuffa](https://www.archimedilsrl.it/products/igienizzante-antimuffa-combat-333-1-lt): San Marco Combat 333 igienizzante antimuffa 1 lt: soluzione concentrata per eliminare e prevenire muffe su superfici interne ed esterne. Efficace, versatile e facile da usare.
-  Updated: 2026-04-25T16:22:19Z
+  Updated: 2026-05-02T18:52:57Z
   Vendor: COLORIFICIO SAN MARCO
   Product Type: Prodotti pulizia antimuffa
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/files/combat_333_lt1_san_marco_igienizzante_archimedil_srl_lt0_5_finghicida.png?v=1776502532
   - [0,5 lt](https://www.archimedilsrl.it/products/igienizzante-antimuffa-combat-333-1-lt?variant=50606173094221)
-    Availability: Not Available
+    Availability: Available
     Price: 13,90 € EUR
   - [1 lt](https://www.archimedilsrl.it/products/igienizzante-antimuffa-combat-333-1-lt?variant=39958312452193)
     Availability: Available
@@ -516,7 +516,7 @@
     Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/files/raimondi-raschietto-con-lama-acciaio-ginetto-25-cm-6-raimondi-670453_372x372_db80aa10-e814-411d-87b6-f57dbbcdf076.jpg?v=1726831332
     Price: 24,50 € EUR
 - [Eclisse - Controtelaio Mod. Unico per porta a scomparsa (600x2100)](https://www.archimedilsrl.it/products/controtelaio-per-porta-a-scomparsa-kit-cartongesso-600x2100-art-ekci060sb-eclisse): Controtelaio Mod. Unico per porta a scomparsa Kit cartongesso 600x2100 spessore100/125 art.EKCI060SB della Eclisse al miglior prezzo sul web.
-  Updated: 2026-04-21T06:40:59Z
+  Updated: 2026-04-27T15:18:04Z
   Vendor: ECLISSE
   Product Type: Controtelaio scorrevole Unico cartongesso
   Availability: Available
@@ -605,14 +605,14 @@
   Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/products/eclisse-controtelaio-mod-syntesis-line-filo-muro-per-porta-a-scomparsa-kit-cartongesso-700x2100-sp100-artes2lk070sb-eclisse-srl-387852.jpg?v=1679310874
   Price: 345,00 € EUR
 - [San Marco Combat 222 detergente antimuffa 5 lt](https://www.archimedilsrl.it/products/san-marco-combat-222-detergente-per-la-pulizia-di-superfici-con-muffe-ed-alghe-size-5-lt): San Marco Combat 222 detergente antimuffa 5 lt: rimuove e previene la formazione di muffe e funghi su pareti e soffitti interni ed esterni. Pronto all’uso e facile da applicare.
-  Updated: 2026-04-21T07:24:26Z
+  Updated: 2026-04-28T06:32:17Z
   Vendor: COLORIFICIO SAN MARCO
   Product Type: Prodotti pulizia antimuffa
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/products/san-marco-detergente-antimuffa-combat-222-lt-5-colorificio-san-marco-495975.jpg?v=1679311047
   Price: 63,90 € EUR
 - [San Marco - Stucco in Pasta Marcostuk per Interni Kg. 20](https://www.archimedilsrl.it/products/stucco-in-pasta-marcostuk-san-marco-kg-20-per-interni): Stucco in Pasta per Interni Kg. 20 Stucco bianco pronto per rasature fini e lisce di superfici all'interno in intonaco, gesso e cartongesso, calcestruzzo e legno, nuove o già verniciate. Altamente riempitivo, rasa e stucca piccoli buchi o fessure. Grazie alla facilità di applicazione a strati sottili sovrapposti e all'elevata carteggiabilità, MARCOSTUK risulta indicato anche per ampie superfici.
-  Updated: 2026-04-17T02:07:00Z
+  Updated: 2026-04-27T12:03:57Z
   Vendor: COLORIFICIO SAN MARCO
   Product Type: Intonaci e stucchi
   Availability: Available
@@ -653,7 +653,7 @@
     Availability: Available
     Price: 16,00 € EUR
 - [Kerakoll - Rasobuild Eco Fino Kg. 25, Bianco](https://www.archimedilsrl.it/products/rasobuild-eco-fino-kg-25-bianco-103582): Rasobuild Eco Fino Kg. 25, Bianco Intonachino di finitura minerale, eco-compatibile, ideale nel GreenBuilding. A ridotte emissioni di CO2, contiene materie prime riciclate, riciclabile come inerte a fine vita. Rasobuild Eco Fino garantisce finiture superficiali ad alti livelli di stabilità dimensionale in unica passata. L’elevata scorrevolezza consente una finitura a civile fine ed un’applicazione veloce e sicura. Idoneo a supportare pitture e rivestimenti decorativi organici e minerali.
-  Updated: 2025-10-02T15:44:06Z
+  Updated: 2026-05-01T08:39:45Z
   Vendor: KERAKOLL
   Product Type: 
   Availability: Available
@@ -667,14 +667,14 @@
   Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/files/biocalce-intonaco-25kg_calce_traspirante_nhl3_5_interni_esterni_kerakoll_archimedil_srl_naturale.png?v=1772115811
   Price: 20,99 € EUR
 - [Eclisse BIAS DS - Ammortizzatore bidirezionale porte scomparsa](https://www.archimedilsrl.it/products/ammortizzatore-rallentatore-bidirezionale-bias-ds-eclisse): Ammortizzatore bidirezionale BIAS DS porte scomparsa della ECLISSE. Miglior prezzo per ammortizzatori eclisse per porte a scomparsa.
-  Updated: 2026-04-17T09:28:45Z
+  Updated: 2026-04-29T19:30:36Z
   Vendor: ECLISSE
   Product Type: Ammortizzatori Eclisse
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/products/eclisse-ammortizzatore-e-rallentatore-bidirezionale-bias-ds-per-porte-a-scomparsa-eclisse-eclisse-srl-925966.jpg?v=1679310865
   Price: 65,00 € EUR
 - [San Marco - Atomo Fissativo murale inodore per esterni e interni, Trasparente](https://www.archimedilsrl.it/products/san-marco-atomo-fissativo-murale-inodore-per-esterni-e-interni-colore-trasparente-size-15-lt): Atomo Fissativo murale inodore per esterni e interni, Trasparente ATOMO è un fissativo per muri solvent free altamente penetrante indicato per l'impregnazione e il consolidamento murale, all'interno o all'esterno, prima della tinteggiatura.L'innovativa formulazione nanotecnologica, a base di particelle finissime, consente ad ATOMO di penetrare in profondità stabilizzando superfici particolarmente sfarinanti, poco compatte e già verniciate con vari strati residui di vecchie pitture. ATOMO migliora la coesione e uniforma la capacità assorbente delle superfici, anche nel caso di supporti cementizi o similari, garantendo risultati omogenei e duraturi.Si applica su superfici nuove o già dipinte, intonaci civili ma anche pannelli prefabbricati, gesso e cartongesso oltre che su pareti rivestite da sistemi di isolamento termico "a cappotto".ATOMO è un fissativo murale a base acquosa, per questo è inodore, e rappresenta una valida alternativa al classico primer a base solvente.Sia l'applicazione che l'essiccazione garantiscono zero emissioni di VOC, per un maggior benessere abitativo e il rispetto dell'applicatore.Per diluire il prodotto e pulire gli attrezzi a lavoro concluso utilizzare acqua.Prodotto realizzato con attenzione alla sostenibilità ambientale.In presenza di muffa è necessario, prima della tinteggiatura, detergere le superfici con COMBAT 222; per un'azione preservante è consigliabile eseguire anche il trattamento con COMBAT 333.In presenza di lieve muffa, o per prevenirne la formazione, pretrattare con COMBAT FIX.
-  Updated: 2026-04-24T12:13:26Z
+  Updated: 2026-05-02T18:52:45Z
   Vendor: COLORIFICIO SAN MARCO
   Product Type: primer o fissativi
   Availability: Available
@@ -780,7 +780,7 @@
   Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/files/H40_EXTREME.jpg?v=1701188019
   Price: 69,90 € EUR
 - [Sika - Sikaflex 11 FC Purform Grigio, Adesivo sigillante poliuretanico ml. 300](https://www.archimedilsrl.it/products/sika-sikaflex-11-fc-grigio-adesivo-universale-elastico-e-sigillante-per-giunti-in-grado-di-incollare-e-sigillare-la-maggior-parte-dei-materiali-edili-interni-ed-esterni-300ml): Sikaflex 11 FC Purform Grigio, Adesivo sigillante poliuretanico ml. 300 Impieghi Adesivo per l'incollaggio di componenti e materiali da costruzione come: Calcestruzzo Opere murarie Pietra ricostituita Ceramica Legno Metallo Vetro non trasparente Sigillante per giunti verticali e orizzontali. Vantaggi Capacità di movimento di ± 25 % Facile da applicare e non cola Aderisce bene alla maggior parte dei materiali da costruzione Buona resistenza meccanica e agli agenti atmosferici Contenuto di monomero molto basso Non è richiesta alcuna formazione sull'utilizzo dei diisocianati (REACH) Sigillante adesivo con marcatura CE
-  Updated: 2026-04-14T10:34:43Z
+  Updated: 2026-04-28T07:52:26Z
   Vendor: SIKA
   Product Type: Sigillanti
   Availability: Available
@@ -801,7 +801,7 @@
   Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/products/tytan-schiuma-adesiva-a-presa-rapida-per-pistola-per-cartongesso-ml-830-cartone-da-12-pz-selena-tytan-330757.jpg?v=1679311054
   Price: 129,00 € EUR
 - [KERADUR ECO KERAKOLL - Consolidante cemento e massetto prezzo basso](https://www.archimedilsrl.it/products/keradur-eco-kg-5-kerakoll-047515): Consolidante cemento e massetto. Consolidante di profondità certificato, eco-compatibile all'acqua per fondi assorbenti. Consolidante cemento Keradur Eco Kerakoll 5 Kg al miglior prezzo sul web.
-  Updated: 2026-04-02T08:33:26Z
+  Updated: 2026-04-30T10:08:43Z
   Vendor: KERAKOLL
   Product Type: Consolidanti
   Availability: Available
@@ -941,7 +941,7 @@
     Availability: Available
     Price: 16,00 € EUR
 - [San Marco - SUPERCONFORT bianco lt. 4 Pittura per interni anticondensa](https://www.archimedilsrl.it/products/san-marco-superconfort-pittura-per-interni-anticondensa-termoisolante-traspirante-antimuffa-colore-bianco-size-4-lt): San Marco Superconfort 4 lt: idropittura per interni anticondensa, termoisolante, traspirante e antimuffa. Ideale per ambienti umidi, offre finitura opaca bianca e facile applicazione.
-  Updated: 2026-04-25T12:58:25Z
+  Updated: 2026-05-02T13:04:51Z
   Vendor: COLORIFICIO SAN MARCO
   Product Type: Pitture anticondensa & antimuffa
   Availability: Available
@@ -971,7 +971,7 @@
     Availability: Available
     Price: 64,00 € EUR
 - [San Marco - PAINTOP ANTIALGA 15 Lt. - Pittura al quarzo per esterno](https://www.archimedilsrl.it/products/san-marco-paintop-antialga): Pittura al quarzo per esterni, ad elevato potere riempitivo e mascherante che la rende adatta per supporti imperfetti; antimuffa e antialga, preserva dalla formazione di muffe e alghe.Pittura al quarzo per esterno San marco - Pittura bianca al quarzo per esterno PAINTOP ANTIALGA.
-  Updated: 2026-04-16T14:04:27Z
+  Updated: 2026-04-29T14:39:25Z
   Vendor: COLORIFICIO SAN MARCO
   Product Type: Pitture al quarzo
   Availability: Available
@@ -993,7 +993,7 @@
   Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/products/parabordi-knauf-alux-30-m-sheetrock-knauf-793229.jpg?v=1679311604
   Price: 23,00 € EUR
 - [San Marco Combat 6000 pittura lavabile antimuffa per interni bianco](https://www.archimedilsrl.it/products/combat-6000-3500019-14-litri-bianco): San Marco Combat 6000 14 lt: idropittura lavabile antimuffa bianca per interni. Elevata copertura, finitura opaca uniforme e rapida essiccazione per ambienti umidi.
-  Updated: 2026-04-25T19:02:06Z
+  Updated: 2026-05-02T18:52:55Z
   Vendor: COLORIFICIO SAN MARCO
   Product Type: Pitture anticondensa & antimuffa
   Availability: Available
@@ -1038,7 +1038,7 @@
     Availability: Available
     Price: 49,50 € EUR
 - [Winkler - Skermo Terrazze Impermeabilizzante per balconi e terrazzi](https://www.archimedilsrl.it/products/skermo-terrazze-winkler-impermeabilizzante-balconi-e-terrazzi-5-litri): Winkler Skermo Terrazze 5 L: impermeabilizzante invisibile all’acqua per balconi e terrazzi. Protezione duratura contro infiltrazioni, mantiene l’aspetto originale.
-  Updated: 2026-04-22T14:50:22Z
+  Updated: 2026-05-02T10:33:27Z
   Vendor: WINKLER SRL
   Product Type: Impermeabilizzanti acrilici
   Availability: Available
@@ -1093,7 +1093,7 @@
     Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/products/rf1120_b8b3fc68-1011-48ac-9f41-e9af0ae47f86.png?v=1744728144
     Price: 60,00 € EUR
 - [Zinco Group - Comignolo Girevole Acciao Inox Con Cuscinetto per Base Tonda (Innesto Maschio)](https://www.archimedilsrl.it/products/comignolo-eolico-inox-d-100-femmina-con-cuscinetto-a-bagno-dolio): Comignolo Girevole Acciao Inox Con Cuscinetto per Base Tonda (Maschio) Comignolo girevole per aerazione in Acciaio Inox 304. Disponibile in varie misure.
-  Updated: 2026-03-25T13:11:36Z
+  Updated: 2026-04-27T16:07:15Z
   Vendor: ZINCO GROUP
   Product Type: Fumisteria
   Availability: Available
@@ -1123,7 +1123,7 @@
     Availability: Available
     Price: 57,00 € EUR
   - [D. 300](https://www.archimedilsrl.it/products/comignolo-eolico-inox-d-100-femmina-con-cuscinetto-a-bagno-dolio?variant=46752761020749)
-    Availability: Available
+    Availability: Not Available
     Price: 60,00 € EUR
   - [D. 80](https://www.archimedilsrl.it/products/comignolo-eolico-inox-d-100-femmina-con-cuscinetto-a-bagno-dolio?variant=46752761053517)
     Availability: Available
@@ -1228,7 +1228,7 @@
   Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/products/raimondi-levelling-system-rls-pinza-per-rivestimento-231-nriv-raimondi-737333.jpg?v=1679311636
   Price: 29,90 € EUR
 - [San Marco - Detergente Antimuffa Combat 222](https://www.archimedilsrl.it/products/detergente-antimuffa-combat-222-0-5lt): San Marco Combat 222 detergente antimuffa 0,5 lt: soluzione professionale per eliminare muffe, funghi e alghe da superfici interne ed esterne. Efficace, versatile e facile da usare.
-  Updated: 2026-04-25T16:22:29Z
+  Updated: 2026-05-02T18:52:55Z
   Vendor: COLORIFICIO SAN MARCO
   Product Type: Prodotti pulizia antimuffa
   Availability: Available
@@ -1278,7 +1278,7 @@
     Availability: Available
     Price: 17,00 € EUR
 - [Eclisse BIAS - Ammortizzatore integrato sola chiusura porte](https://www.archimedilsrl.it/products/ammortizzatore-in-sola-chiusura-integrato-bias-per-porte-a-scomparsa-eclisse): Ammortizzatore integrato BIAS porte scomparsa della ECLISSE. Miglior prezzo per ammortizzatori eclisse per porte a scomparsa.
-  Updated: 2026-03-19T16:10:58Z
+  Updated: 2026-04-27T12:01:28Z
   Vendor: ECLISSE
   Product Type: Ammortizzatori Eclisse
   Availability: Available
@@ -1320,7 +1320,7 @@
   Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/products/disco-porta-segmenti-diamantati-x-maxititina-raimondi-d530-cod250psda-raimondi-203654.jpg?v=1679311239
   Price: 145,00 € EUR
 - [Tillmanns - Pannello Isolante Depron 80 x 125 cm](https://www.archimedilsrl.it/products/pannello-isolante-depron-80-x-125-cm-spessore-3-mm-confezione-da-20-pannelli): Pannello Isolante Depron 80 x 125 cm Misura 80x125 cm. Pannello isolante in espanso di polistirolo estruso - Applicabile su pareti, sottoparati, sottolegno, ecc. - Crea più comfort - Protegge dal freddo, dal caldo e dall'umidità - Riduce il consumo di energia per il riscaldamento. Disponibile nel nostro negozio anche lo specifico collante Glutolin nel formato da 8 Kg. Le sue caratteristiche principali: Inodore Non assorbe acqua Non si bagna Previene la formazione di muffe Può essere impiegato alle temperature di 60°C / +70°C Il pannello isolante Depron è disponibile in diversi spessori e dimensioni: 2500 x 800 x 3/6/9 mm 1250 x 800 x 12 mm Con il pannello isolante Depron contieni la dispersione di calore, a seconda dello spessore scelto: 3 mm 17% dispersione di calore 6 mm 30% dispersione di calore 9 mm 38% dispersione di calore 12mm 43% dispersione di calore
-  Updated: 2026-04-24T19:10:25Z
+  Updated: 2026-05-03T07:50:55Z
   Vendor: TILLMANNS
   Product Type: Isolanti termici & accessori
   Availability: Available
@@ -1384,7 +1384,7 @@
   Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/products/nastro-fbrgls-cemento-3inx150ft-perma-glas-mesh-387115.jpg?v=1679311557
   Price: 22,00 € EUR
 - [Nastro rete coprigiunti Knauf 50 mm x 90 m – Top Quality](https://www.archimedilsrl.it/products/nastro-rete-coprigiunti-knauf-mm50x20m-top-quality-50mmx90m): Nastro rete coprigiunti Knauf 50 mm x 90 m: adesivo in fibra di vetro top quality per cartongesso. Previene crepe e assicura giunti perfetti e lisci.
-  Updated: 2026-03-30T08:25:46Z
+  Updated: 2026-04-30T13:39:56Z
   Vendor: KNAUF
   Product Type: Nastri
   Availability: Available
@@ -1476,7 +1476,7 @@
     Availability: Available
     Price: 108,00 € EUR
 - [Geal - ICR 17 Idrorepellente anti umidità - Base solvente](https://www.archimedilsrl.it/products/geal-icr-17-idrorepellente-antiumidita-antiefflorescenze-per-cotto-pietre-marmi-graniglie-e-cementizi): Geal ICR 17: idrorepellente a base solvente per cotto, pietre, marmo e cementizi. Protegge da umidità ed efflorescenze mantenendo l’aspetto naturale.
-  Updated: 2026-03-25T11:17:46Z
+  Updated: 2026-04-28T10:07:38Z
   Vendor: GEAL
   Product Type: Idrorepellenti
   Availability: Available
@@ -1546,7 +1546,7 @@
   Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/products/quadro-portatile-con-unico-interruttore-e-3-prese-friggeri-153722.jpg?v=1679311628
   Price: 160,00 € EUR
 - [Kerakoll - Nanoflex No Limits Gel membrana impermeabile 20 kg](https://www.archimedilsrl.it/products/gel-membrana-impermeabile-per-impermeabilizzazione-20kg-art-14580-nanoflex-no-limits-kerakoll): Kerakoll Nanoflex No Limits 20 kg: gel membrana impermeabile elastica e piastrellabile. Protezione totale per terrazzi, balconi, bagni e piscine. Facile da applicare.
-  Updated: 2026-04-17T10:12:45Z
+  Updated: 2026-04-30T13:14:17Z
   Vendor: KERAKOLL
   Product Type: Impermeabilizzanti cementizi
   Availability: Available
@@ -1581,7 +1581,7 @@
   Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/products/toprofile-sistema-di-profilatura-piastrelle-e-lastre-smussatrice-per-battiscopa-montolit-620317.jpg?v=1679311795
   Price: 548,00 € EUR
 - [Kerakoll - Biocalce Tinteggio Bianco](https://www.archimedilsrl.it/products/biocalce-tinteggio-kerakoll-bianco-14-lt): Biocalce Tinteggio Bianco Tinteggio murale naturale certificato, eco‑compatibile, a base di grassello selezionato di pura calce CL 90‑S conforme alla norma EN 459‑1 e terre colorate naturali, per la decorazione altamente traspirante di intonaci. Biocalce Tinteggio, grassello di calce naturale, è particolarmente adatto per la decorazione di intonaci civili e di risanamento per eseguire decorazioni di alto pregio estetico. Lascia il muro libero di respirare Ideale per garantire ambienti interni sani per un maggior benessere psicofisico Batteriostatico e fungistatico naturale classificato B+ e F+ (metodo CSTB) In esterno restituisce alle facciate nuove l’aspetto antico di un tempo Pack secchio 14 ℓ ‑ 4 ℓ Resa su supporto finito con Biocalce Intonachino Fino ≈ 0,2 – 0,3 ℓ/m2 in due mani Conservazione ≈ 12 mesi
-  Updated: 2026-04-19T08:13:26Z
+  Updated: 2026-04-30T20:29:55Z
   Vendor: KERAKOLL
   Product Type: Pitture base calce
   Availability: Available
@@ -1706,7 +1706,7 @@
   Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/products/tytan-schiuma-adesiva-60-secondi-manuale-ml750-vendita-a-cartone-da-12-pz-selena-tytan-762252.png?v=1679311051
   Price: 139,00 € EUR
 - [Malta di giunzione Kerakoll Fugabella - Resina Per Pavimentazione Kg 3](https://www.archimedilsrl.it/products/fugabella-color-01-bianco-kerakoll-3-kg): Kerakoll Fugabella Color, resina-cemento decorativa per fughe. 50 colori, alta resistenza e finitura estetica impeccabile per interni ed esterni.
-  Updated: 2026-02-11T13:00:03Z
+  Updated: 2026-04-28T13:13:58Z
   Vendor: KERAKOLL
   Product Type: Fuganti
   Availability: Available
@@ -2011,7 +2011,7 @@
   Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/products/biocalce-intonachino-00-kg20-047640-kerakoll-spa-819028.jpg?v=1679311233
   Price: 26,00 € EUR
 - [Tillmanns - Glutolin Hs colla per pannelli isolanti Depron](https://www.archimedilsrl.it/products/colla-glutolin-hs-8-kg-colla-per-depron-collante-per-pannelli-isolanti-depron): Colla Glutolin Hs Collante per Pannelli Isolanti DEPRON Adesivo per polistirolo estruso a base di resine sintetiche in dispersione acquosa ad alto residuo secco: incollaggio su fondi assorbenti di lastre in polistirolo espanso estruso (tipo Depron), pannelli per controsoffittature, faesite, ecc.
-  Updated: 2026-04-24T19:10:24Z
+  Updated: 2026-05-03T07:50:55Z
   Vendor: TILLMANNS
   Product Type: Isolanti termici & accessori
   Availability: Available
@@ -2025,7 +2025,7 @@
     Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/products/glutolin.jpg?v=1701188100
     Price: 10,90 € EUR
 - [San Marco - Laguna 3.0 Idropittura lavabile inodore per interni](https://www.archimedilsrl.it/products/san-marco-laguna-3-0-idropittura-lavabile-inodore-per-interni-colore-bianco-lt-14): San Marco Laguna 3.0 idropittura lavabile inodore per interni da 14 lt: alta copertura, finitura opaca uniforme e applicazione senza odori per ambienti eleganti e confortevoli.
-  Updated: 2026-04-24T06:53:46Z
+  Updated: 2026-04-29T14:39:57Z
   Vendor: COLORIFICIO SAN MARCO
   Product Type: Pitture lavabili
   Availability: Available
@@ -2040,7 +2040,7 @@
     Availability: Available
     Price: 15,00 € EUR
 - [Geal - CB90 Detergente concentrato neutro per pavimenti in gres, cotto, pietre, marmi](https://www.archimedilsrl.it/products/cb90-lt-5-detergente-concentrato-neutro-per-pavimenti-in-gres-cotto-pietre-marmi-e-graniti): Geal - CB90 Detergente concentrato neutro Geal CB90 è un detergente arricchito con tensioattivi anionici, non ionici e sinergici. Questa soluzione concentrata offre una pulizia profonda e non aggressiva per tutti i tipi di superfici lavabili. Caratteristiche distintive del nostro detergente: Versatile ed efficace: Grazie alla sua azione sgrassante e alla bassa schiumosità, è ideale per la pulizia ordinaria e straordinaria di superfici in cotto, ceramica, linoleum, gomma, laminati, PVC, materiali lapidei, agglomerati e ricomposti cementizi. Senza aloni o opacizzazioni: La sua formula appositamente studiata non lascia tracce indesiderate sulla superficie trattata, garantendo un risultato pulito e luminoso. Sicuro ed efficiente: Il pH neutro e i principi attivi solventi ed emulsionanti assicurano una pulizia profonda senza danneggiare le superfici. Il detergente è adatto per l'uso frequente e non aggressivo. Modalità d'uso consigliate: Pulizia ordinaria e frequente: Diluire CB 90 al 5% in 2-3 litri d'acqua. Utilizzare un panno morbido, spugna o mop costantemente risciacquati e puliti per strofinare delicatamente la superficie. Pulizia straordinaria e periodica: Distribuire il prodotto puro o diluito al massimo al 20% sulla superficie da trattare. Frizionare energicamente con spazzole, tamponi abrasivi o una monospazzola con disco medio-duro. Rimuovere i residui e risciacquare con acqua pulita. Asciugare e ripetere se necessario. Il consumo varia in base alle necessità e alla diluizione utilizzata.
-  Updated: 2026-04-23T10:19:15Z
+  Updated: 2026-05-03T09:00:26Z
   Vendor: GEAL
   Product Type: Prodotti pulizia
   Availability: Available
@@ -2089,7 +2089,7 @@
   Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/products/fresa-profilo-e-45-gradi-profondita-15-grana-fine-per-toprofile-artfpe15tpgf-fine-brevetti-montolit-114294.jpg?v=1679311198
   Price: 179,00 € EUR
 - [Kerakoll - Biocalce Pietra Malta naturale eco-compatibile traspirante per murature Kg. 25](https://www.archimedilsrl.it/products/malta-naturale-eco-compatibile-traspirante-per-murature-25kg-biocalce-pietra-art-11029-kerakoll): Biocalce Pietra Malta naturale eco-compatibile traspirante per murature Kg. 25 Malta naturale certificata, eco‑compatibile, di pura calce naturale NHL 3.5 a norma EN 459‑1, per l’allettamento e la stilatura altamente traspirante di murature. Biocalce Pietra è una malta di classe M5 idonea per l’elevazione di murature facciavista e per la stilatura di paramenti murari in mattone o pietra naturale. Interni, esterni. Naturale, poroso e altamente traspirante, lascia il muro libero di respirare Ideale per la stilatura delle vecchie murature in pietra e mattoni Impasto plastico e morbido per una veloce e facile stesura Miscelabile con inerti autoctoni da 1 a 4 mm per riprodurre la malta tipica originaria Destinazione d’uso Stilatura o allettamento traspirante di murature portanti e di tamponamento in laterizio, mattone, tufo, pietra e miste interne ed esterne. Biocalce Pietra è particolarmente adatto per l’elevazione di murature facciavista e per la stilatura di paramenti murari in mattone o pietra naturale nell’Edilizia del Benessere dove l’origine rigorosamente naturale dei suoi ingredienti garantisce il rispetto dei parametri fondamentali di porosità, igroscopicità e traspirabilità richiesti. Biocalce Pietra è idoneo per la stuccatura e la ricostruzione a vista nel Restauro Storico, dove la scelta di ingredienti della tradizione come calce naturale, pozzolana naturale, pietra, marmo e granito sapientemente dosati garantisce interventi conservativi nel rispetto delle strutture esistenti e dei materiali originari. Non utilizzare su supporti sporchi, decoesi, polverulenti. Su supporti con elevata presenza di salinità interstiziali.
-  Updated: 2026-02-27T22:35:49Z
+  Updated: 2026-04-29T13:21:49Z
   Vendor: KERAKOLL
   Product Type: Malte allettamento
   Availability: Available
@@ -2103,7 +2103,7 @@
   Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/products/disco-traino-feltri-per-maxititina-raimondi-d430-213velcro-raimondi-810942.jpg?v=1679311244
   Price: 101,00 € EUR
 - [Winkler - Wingrip Next aggrappante universale bianco](https://www.archimedilsrl.it/products/wingrip-evo-bianco-kg-20-ponte-daggrappo-universale-aggrappante): Wingrip Evo Bianco Winkler 20 kg: primer aggrappante universale per supporti assorbenti e non. Aderenza ottimale, pronto all’uso e facile da applicare.
-  Updated: 2026-04-01T15:04:43Z
+  Updated: 2026-05-01T06:08:15Z
   Vendor: WINKLER SRL
   Product Type: Aggrappanti
   Availability: Available
@@ -2118,7 +2118,7 @@
     Availability: Available
     Price: 125,00 € EUR
 - [Eclisse - Controtelaio Mod. Unico per porta a scomparsa - 900x2100](https://www.archimedilsrl.it/products/controtelaio-per-porta-a-scomparsa-kit-cartongesso-900x2100-art-ekci090sb-eclisse): Controtelaio Mod. Unico per porta a scomparsa KIT CARTONGESSO 900x2100 spessore 100/125 art.EKCI090SB
-  Updated: 2026-04-21T06:40:38Z
+  Updated: 2026-04-27T15:17:27Z
   Vendor: ECLISSE
   Product Type: Controtelaio scorrevole Unico cartongesso
   Availability: Available
@@ -2152,7 +2152,7 @@
     Availability: Not Available
     Price: 36,00 € EUR
 - [Colorchimica - Pertre Smalto antiruggine Serie 7100](https://www.archimedilsrl.it/products/pertre-smalto-antiruggine-serie-7100-cuoio-0-750l): Colorchimica Pertre Smalto antiruggine Serie 7100: fondo e finitura in un solo prodotto, ideale per ferro e superfici ossidate. Disponibile nei formati da 750 ml e 2500 ml.
-  Updated: 2026-04-25T16:17:56Z
+  Updated: 2026-05-02T16:49:25Z
   Vendor: COLORCHIMICA
   Product Type: Smalti antiruggine
   Availability: Available
@@ -2262,7 +2262,7 @@
     Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/products/pertre-smalto-antiruggine-serie-7100-cuoio-0750l-colorchimica-827423.jpg?v=1679311608
     Price: 18,50 € EUR
   - [Rame ml.750](https://www.archimedilsrl.it/products/pertre-smalto-antiruggine-serie-7100-cuoio-0-750l?variant=46728667595085)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/products/pertre-smalto-antiruggine-serie-7100-cuoio-0750l-colorchimica-827423.jpg?v=1679311608
     Price: 22,00 € EUR
   - [Grigio Antracite ml.750](https://www.archimedilsrl.it/products/pertre-smalto-antiruggine-serie-7100-cuoio-0-750l?variant=46728679948621)
@@ -2274,9 +2274,9 @@
     Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/products/pertre-smalto-antiruggine-serie-7100-cuoio-0750l-colorchimica-827423.jpg?v=1679311608
     Price: 18,50 € EUR
   - [Testa di moro ml.2500](https://www.archimedilsrl.it/products/pertre-smalto-antiruggine-serie-7100-cuoio-0-750l?variant=47678549164365)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/files/pertTre2_5lt.jpg?v=1701188000
-    Price: 43,00 € EUR
+    Price: 46,00 € EUR
   - [Grigio argento ml.2500](https://www.archimedilsrl.it/products/pertre-smalto-antiruggine-serie-7100-cuoio-0-750l?variant=48038089359693)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/files/pertTre2_5lt.jpg?v=1701188000
@@ -2314,7 +2314,7 @@
     Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/files/pertTre2_5lt.jpg?v=1701188000
     Price: 43,00 € EUR
   - [Verde Bottiglia ml.2500](https://www.archimedilsrl.it/products/pertre-smalto-antiruggine-serie-7100-cuoio-0-750l?variant=50161992892749)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/files/pertTre2_5lt.jpg?v=1701188000
     Price: 43,00 € EUR
   - [Verde Vittoria ml.2500](https://www.archimedilsrl.it/products/pertre-smalto-antiruggine-serie-7100-cuoio-0-750l?variant=52269824704845)
@@ -2400,7 +2400,7 @@
   Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/products/montolit-banco-di-lavoro-per-lastre-di-grande-formato-table-one-art-300-20-brevetti-montolit-spa-961638.jpg?v=1679311556
   Price: 715,00 € EUR
 - [Botola ispezione per cartongesso 30x30 cm con telaio in alluminio](https://www.archimedilsrl.it/products/botola-ispezione-cartongesso-30x30-telaio-in-alluminio): Botola ispezione per cartongesso 30x30 cm con telaio in alluminio: accesso pratico e invisibile a impianti tecnici. Facile da montare, pronta da rasare o tinteggiare.
-  Updated: 2025-08-05T19:00:53Z
+  Updated: 2026-04-29T08:27:09Z
   Vendor: ABC SISTEM
   Product Type: Botola cartongesso
   Availability: Available
@@ -2506,7 +2506,7 @@
   Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/files/ADATTATORE_CIVILE_17023.png?v=1700815936
   Price: 7,00 € EUR
 - [San Marco - Wall Cream Pittura traspirante per interni alta copertura](https://www.archimedilsrl.it/products/san-marco-wall-cream-pittura-traspirante-per-interni-alta-copertura-colore-bianco-size-14-lt): San Marco Wall Cream pittura traspirante per interni da 14 lt: elevata copertura, finitura opaca uniforme e ottima traspirabilità, ideale per ambienti soggetti a umidità come cucine e bagni.
-  Updated: 2026-04-22T20:48:05Z
+  Updated: 2026-04-28T11:15:58Z
   Vendor: COLORIFICIO SAN MARCO
   Product Type: Pitture traspiranti
   Availability: Available
@@ -2539,7 +2539,7 @@
   Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/products/sa-500-25kg-massetto-autolivellante-a-base-cementizia-per-pavimenti-interni-civili-fassa-bortolo-397309.jpg?v=1679311671
   Price: 21,00 € EUR
 - [Geal - Scudo Impermeabilizzante invisibile per terrazzi](https://www.archimedilsrl.it/products/geal-scudo-lt-1-impermeabilizzante-invisibile-per-terrazzi): Geal Scudo 1 L: impermeabilizzante invisibile all’acqua per terrazzi e superfici esterne. Protegge da infiltrazioni senza alterare l’aspetto. Facile applicazione.
-  Updated: 2026-04-23T07:53:56Z
+  Updated: 2026-04-26T07:36:40Z
   Vendor: GEAL
   Product Type: Impermeabilizzanti acrilici
   Availability: Available
@@ -2722,7 +2722,7 @@
     Availability: Available
     Price: 11,00 € EUR
 - [Kerakoll - Kerakover Quarzite Bianco](https://www.archimedilsrl.it/products/kerakover-eco-quarzite-kerakoll-bianco-14-lt): Kerakover Quarzite Bianco Idropittura al quarzo organica minerale eco-compatibile, a base stirolo-acrilica, con additivi antibiodeteriogeni, coprente ad effetto opaco, ideale nel GreenBuilding. Rispetta l'ambiente e la salute degli operatori. Kerakover Eco Quarzite è superlavabile, riempitiva, di pregiato aspetto estetico, ottima copertura, elevata resistenza agli agenti atmosferici. Interni, esterni. Resa elevata - Ottime caratteristiche di copertura e riempimento - Facile applicazione a pennello, rullo e a spruzzo - Resistente agli attacchi di muffe, alghe e funghi.
-  Updated: 2026-04-07T08:05:46Z
+  Updated: 2026-04-27T13:36:33Z
   Vendor: KERAKOLL
   Product Type: Pitture al quarzo
   Availability: Available
@@ -2816,7 +2816,7 @@
   Image: https://cdn.shopify.com/s/files/1/0553/5118/1409/files/adattatore_industriale_friggeri_17026.png?v=1700815414
   Price: 7,00 € EUR
 - [Membrana desolidarizzante e impermeabilizzante PRODESO  rotolo Mt.1x30](https://www.archimedilsrl.it/products/prodeso-rotolo-mt-1x30-sistema-desolidarizzante-e-impermeabilizzante-progress-profiles): Prodeso Progress Profiles rotolo 1x30 m: membrana desolidarizzante e impermeabilizzante per posa rapida e sicura. Ideale per terrazzi, bagni e superfici a rischio fessurazione.
-  Updated: 2026-04-22T14:26:26Z
+  Updated: 2026-04-30T21:08:36Z
   Vendor: PROGRESS PROFILES
   Product Type: Tessuti Impermeabilizzanti
   Availability: Available
@@ -2837,13 +2837,13 @@
   Updated: 2024-01-14T18:29:48Z
   Total Products: 0
 - [Attrezzature edile - Edilizia Online - 1000 recensioni Amazon & Ebay](https://www.archimedilsrl.it/collections/attrezzature-edile): Scopri la gamma completa di attrezzature edili dello shop ufficiale dell'Edilizia Online. Troverai attrezzi per piastrellisti, attrezzi per cartongessisti, attrezzi da lavoro al miglior prezzo. Spedizione in 24h e pagamenti sicuri.
-  Updated: 2026-04-25T11:07:54Z
-  Total Products: 268
+  Updated: 2026-05-01T11:08:23Z
+  Total Products: 269
 - [Pitture Vernici](https://www.archimedilsrl.it/collections/pitture-vernici): Pitture Vernici al miglior prezzo sul web Più di +1000 recensioni su Amazon & Ebay Scopri la gamma completa di attrezzature edili dello shop ufficiale dell'Edilizia Online. Troverai attrezzi per pitture per interni e pitture per esterni al miglior prezzo. Spedizione in 24h e pagamenti sicuri.
-  Updated: 2026-04-25T11:07:54Z
+  Updated: 2026-05-03T11:08:33Z
   Total Products: 78
 - [Materiali edili](https://www.archimedilsrl.it/collections/materiali-edili): Materiali edili al miglior prezzo sul web Più di +1000 recensioni su Amazon & Ebay Scopri la gamma completa di attrezzature edili dello shop ufficiale dell'Edilizia Online. Troverai impermeabilizzante collante, malti strutturali da ripristino, collanti e fuganti, isolanti termici al miglior prezzo. Spedizione in 24h e pagamenti sicuri.
-  Updated: 2026-04-25T11:07:54Z
+  Updated: 2026-05-03T11:08:33Z
   Total Products: 229
 - [Attrezzatura per cartongessisti](https://www.archimedilsrl.it/collections/attrezzatura-per-cartongessisti)
   Updated: 2024-01-14T18:29:49Z
@@ -2852,13 +2852,13 @@
   Updated: 2026-04-22T11:08:17Z
   Total Products: 34
 - [Attrezzi da lavoro | Attrezzatura e scarpe da lavoro per edilizia](https://www.archimedilsrl.it/collections/attrezzatura-da-lavoro): Da Archimedil srl troverai  attrezzi da lavoro e accessori di sicurezza come le pistole per tubi da mortaio e i banchi da lavoro ben realizzati.  Per i vostri lavori più impegnativi troverai calzature antinfortunistiche diadora o Race nella nostra categoria di attrezzatura da lavoro.
-  Updated: 2026-03-29T11:09:30Z
+  Updated: 2026-04-29T11:09:15Z
   Total Products: 10
 - [Pittura per esterni](https://www.archimedilsrl.it/collections/pittura-per-esterni): Pittura per esterni al miglior prezzo sul web Più di +1000 recensioni su Amazon & Ebay Scopri la gamma completa di attrezzature edili dello shop ufficiale dell'Edilizia Online. Troverai attrezzi per pittura per esterni al miglior prezzo. Spedizione in 24h e pagamenti sicuri.
-  Updated: 2026-04-16T11:09:12Z
+  Updated: 2026-04-28T11:09:33Z
   Total Products: 5
 - [Pittura per interni al miglior prezzo sul web - Pitture San Marco & altri](https://www.archimedilsrl.it/collections/pittura-per-interni): Volete rinnovare l'aspetto degli interni della vostra casa con una nuova mano di vernice? Da Archimedil srl abbiamo un'incredibile selezione di prodotti per la pittura di interni, Dagli smalti murali alle pitture traspiranti, fino alle pitture anticondensa e antimuffa al miglior prezzo sul web.
-  Updated: 2026-04-25T11:07:54Z
+  Updated: 2026-05-03T11:08:33Z
   Total Products: 24
 - [Pitture Antimuffa](https://www.archimedilsrl.it/collections/pitture-antimuffa): Pitture Antimuffa al miglior prezzo sul web Pitture antimuffa con più di +1000 recensioni su Amazon & Ebay Scopri la gamma completa di pitture antimuffa a basso prezzo dello shop ufficiale dell'Edilizia Online. Troverai prodotti al miglior prezzo utili per accessori e attrezzi per la pittura. Spedizione in 24h e pagamenti sicuri. Le pitture antimuffa sono utili ed efficaci per combattere organismi vegetali di carattere biologico che si riproducono attraverso l’emissione di spore. Soprattutto in zone come i sanitari la muffa può creare disagio negli spazi. Grazie alle pitture antimuffa possono essere eliminati o ridotti i disagi causati dalla muffa.
   Updated: 2024-01-14T18:29:49Z
@@ -2885,10 +2885,10 @@
   Updated: 2026-04-04T11:07:27Z
   Total Products: 10
 - [Casa](https://www.archimedilsrl.it/collections/casa): Prodotti per la Casa al miglior prezzo sul web Più di +1000 recensioni su Amazon & Ebay Scopri la gamma completa di prodotti per la casa dello shop ufficiale dell'Edilizia Online. Troverai Controtelai e accessori Eclisse, Prodotti per la pulizia, Prodotti per il bagno e tanti altri accessori per la casa al miglior prezzo. Spedizione in 24h e pagamenti sicuri.
-  Updated: 2026-04-25T11:07:54Z
+  Updated: 2026-05-03T11:08:33Z
   Total Products: 252
 - [Prodotti pulizia - detergenti e sgrassatori per l'edilizia al miglior prezzo](https://www.archimedilsrl.it/collections/prodotti-pulizia): Prodotti per la pulizia al miglior prezzo sul web Attrezzature professionali per la pulizia venduti con più di +1000 recensioni su Amazon & Ebay La pulizia è una parte essenziale di qualsiasi progetto edile, ed è per questo che da Archimedil SRL - l'ecommerce sull'edilizia con oltre 1000 recensioni su amazon, siamo orgogliosi di offrire la nostra vasta selezione di prodotti per la pulizia. Dai detergenti per stuccature e sgrassatori ai prodotti protettivi per la bellezza - abbiamo tutti i prodotti essenziali per la pulizia. Che abbiate bisogno di qualcosa per rinnovare i pavimenti o per pulire in profondità i tappeti, siamo sicuri che troverete il prodotto perfetto nella nostra gamma. Tutti i nostri prodotti sono di alta qualità e vengono forniti con una garanzia di soddisfazione. Lasciate che vi aiutiamo a rendere più facili i vostri lavori di costruzione più difficili. Scopri la gamma completa di Attrezzature professionali per la pulizia dello shop ufficiale dell'Edilizia Online. Troverai prodotti pulizia al miglior prezzo. Spedizione in 24h e pagamenti sicuri.
-  Updated: 2026-04-24T11:08:00Z
+  Updated: 2026-05-03T11:08:33Z
   Total Products: 33
 - [Controtelai e accessori Eclisse](https://www.archimedilsrl.it/collections/controtelai-e-accessori-eclisse): Controtelai e accessori Eclisse al miglior prezzo sul web Controtelai Eclisse venduti con più di +1000 recensioni su Amazon & Ebay Scopri la gamma completa di attrezzature edili dello shop ufficiale dell'Edilizia Online. Troverai controtelai e accessori eclisse al miglior prezzo. Spedizione in 24h e pagamenti sicuri. Tra i migliori controtelai e accessori eclisse troverai Controtelai per porte scorrevoli con stipiti, Controtelai per porte filo muro senza stipiti, Controtelai per porte con stipiti filo muro, Telaio con profilo inclinato a 40°. I controtelai per porte scorrevoli sono per il bagno o per le zone living della casa.
   Updated: 2025-07-31T09:50:06Z
@@ -2897,7 +2897,7 @@
   Updated: 2026-03-15T11:07:16Z
   Total Products: 30
 - [Controtelai modello Unico cartongesso](https://www.archimedilsrl.it/collections/controllai-cartongesso-modello-unico): Controtelai cartongesso modello unico al miglior prezzo sul web Controllai cartongesso modello unico venduti con più di +1000 recensioni su Amazon & Ebay Scopri la gamma completa di attrezzature edili dello shop ufficiale dell'Edilizia Online. Troverai Controllai cartongesso modello unico al miglior prezzo. Spedizione in 24h e pagamenti sicuri.
-  Updated: 2026-04-14T11:09:28Z
+  Updated: 2026-05-02T11:07:29Z
   Total Products: 5
 - [Controtelai cartongesso filomuro syntesis - Controtelai porte filomuro prezzo](https://www.archimedilsrl.it/collections/controtelai-cartongesso-filomuro-sintetys): I prodotti syntesis sono controtelaio per ante scorrevoli a scomparsa senza finiture esterne, capace di scomparire completamente nella parete. L’assenza di stipiti e coprifili favorisce la perfetta integrazione della superficie scorrevole, fondendo tecnica e design all'insegna della modernità. Controtelai per porte filomuro al miglior prezzo.
   Updated: 2026-03-25T11:08:27Z
@@ -2906,13 +2906,13 @@
   Updated: 2025-04-04T08:37:22Z
   Total Products: 1
 - [Kerakoll - Fugalite, Biolite, Keraklima miglior prezzo sul web](https://www.archimedilsrl.it/collections/kerakoll): Kerakoll è un marchio rinomato nel settore dell'edilizia, noto per la sua eccellenza e l'innovazione nelle soluzioni per fughe e adesivi. La nostra categoria offre una selezione completa dei loro prodotti di punta, tra cui la Fugalite e la Geolite. Seleziona i prodotti al miglior prezzo sul web.
-  Updated: 2026-04-25T11:07:54Z
+  Updated: 2026-05-01T11:08:23Z
   Total Products: 60
 - [FRIGGERI](https://www.archimedilsrl.it/collections/friggeri)
   Updated: 2026-04-19T11:09:24Z
   Total Products: 12
 - [Eclisse](https://www.archimedilsrl.it/collections/eclisse)
-  Updated: 2026-04-22T11:08:17Z
+  Updated: 2026-05-02T11:07:29Z
   Total Products: 39
 - [friulsider](https://www.archimedilsrl.it/collections/friulsider)
   Updated: 2025-04-04T08:37:22Z
@@ -2921,7 +2921,7 @@
   Updated: 2025-04-04T08:37:22Z
   Total Products: 0
 - [GEAL](https://www.archimedilsrl.it/collections/geal)
-  Updated: 2026-04-23T11:08:16Z
+  Updated: 2026-05-03T11:08:33Z
   Total Products: 20
 - [AREXONS](https://www.archimedilsrl.it/collections/arexons)
   Updated: 2026-04-16T11:09:12Z
@@ -2933,13 +2933,13 @@
   Updated: 2025-04-04T08:37:22Z
   Total Products: 0
 - [WINKLER](https://www.archimedilsrl.it/collections/winkler-s-r-l)
-  Updated: 2026-04-22T11:08:17Z
+  Updated: 2026-05-02T11:07:29Z
   Total Products: 21
 - [BETAFENCE](https://www.archimedilsrl.it/collections/betafence)
   Updated: 2025-04-04T08:37:22Z
   Total Products: 0
 - [COLORIFICIO AREA 51](https://www.archimedilsrl.it/collections/area-51)
-  Updated: 2026-04-16T11:09:12Z
+  Updated: 2026-04-30T11:08:39Z
   Total Products: 6
 - [KERAKO](https://www.archimedilsrl.it/collections/kerako)
   Updated: 2025-04-04T08:37:23Z
@@ -2987,7 +2987,7 @@
   Updated: 2025-04-04T08:37:24Z
   Total Products: 0
 - [COLORIFICIO SAN MARCO - Pittura San Marco miglior prezzo](https://www.archimedilsrl.it/collections/colorificio-san-marco): Scopri la nostra selezione di pitture per interni ed esterni della Colorificio San Marco al miglior prezzo sul web. Oltre 1000 recensioni verificate. Idropitture, Pitture traspiranti, Pitture antimuffa a prezzi bassi del marchio San Marco.
-  Updated: 2026-04-25T11:07:54Z
+  Updated: 2026-05-03T11:08:33Z
   Total Products: 53
 - [Generico](https://www.archimedilsrl.it/collections/generico)
   Updated: 2025-04-04T08:37:24Z
@@ -2996,8 +2996,8 @@
   Updated: 2025-04-04T08:37:24Z
   Total Products: 0
 - [Raimondi - Utensili per l'edilizia al miglior prezzo sul web - Archimedil](https://www.archimedilsrl.it/collections/raimondi-1): RAIMONDI è il produttore leader di sistemi di taglio per grandi lastre, perfetti per qualsiasi progetto di pavimentazione o rivestimento. Le loro frese per piastrelle, le basi per giunti e gli altri strumenti per il taglio delle piastrelle sono progettati e prodotti con le migliori tecnologie disponibili. I prodotti RAIMONDI SPA possono essere acquistati comodamente sull'ecommerce di Archimedil srl, che dispone dell'intera gamma di utensili, dalle frese per piastrelle standard ai sistemi di taglio extra large. I clienti possono affidarsi a RAIMONDI SPA quando hanno bisogno di utensili professionali e di alta qualità che durino anche nei lavori più difficili. Scopri la selezione di prodotti di Archimedil srl oggi stesso e mettete le mani su alcuni dei migliori utensili per professionisti sul mercato!
-  Updated: 2026-04-25T11:07:54Z
-  Total Products: 130
+  Updated: 2026-05-01T11:08:23Z
+  Total Products: 131
 - [Dianhydro](https://www.archimedilsrl.it/collections/dianhydro)
   Updated: 2025-04-04T08:37:24Z
   Total Products: 0
@@ -3032,13 +3032,13 @@
   Updated: 2025-02-22T07:25:04Z
   Total Products: 2
 - [Ferramenta - Materiali ferramenta per edilizia](https://www.archimedilsrl.it/collections/ferramenta): Ferramenta al miglior prezzo sul web Più di +1000 recensioni su Amazon & Ebay La categoria Ferramenta di Archimedil è la tappa perfetta per tutte le vostre esigenze di miglioramento della casa. Con un'ampia gamma di prodotti come livelle e livellatori, potete essere certi di trovare il prodotto giusto per portare a termine il lavoro. La nostra ampia selezione di livelle è dotata di diverse caratteristiche, tra cui le corna, che facilitano l'uso dei dispositivi di misurazione e livellamento. Le livelle sono disponibili in diverse dimensioni e stili, in modo da poterne trovare una adatta alle specifiche del vostro progetto. Se avete bisogno di questi strumenti per progetti a breve o a lungo termine, Archimedil SRL ha i prodotti per ferramenta necessari per realizzarli.- Livelle, Livellatori e pomelli viti al miglior prezzo Trovare una livella o un livellatore di qualità è facile da Archimedil SRL: abbiamo la migliore selezione di livelle ai migliori prezzi online. Il nostro team di esperti garantisce che tutti i prodotti da ferramenta siano all'altezza degli standard più elevati, assicurando che qualsiasi cosa acquistiate da noi durerà per diversi progetti. Scopri la gamma completa di articoli da ferramenta dello shop ufficiale dell'Edilizia Online. Troverai prodotti della categoria Ferramenta, al miglior prezzo. Spedizione in 24h e pagamenti sicuri.
-  Updated: 2026-04-25T11:07:54Z
+  Updated: 2026-05-03T11:08:33Z
   Total Products: 162
 - [Fissaggi](https://www.archimedilsrl.it/collections/fissaggi)
   Updated: 2024-04-16T14:50:34Z
   Total Products: 2
 - [Banco da Lavoro & attrezzi da lavoro al miglior prezzo - Archimedil](https://www.archimedilsrl.it/collections/banco-da-lavoro): Che siate falegnami, appaltatori o amanti del fai-da-te, avere gli strumenti e banchi da lavoro al miglior prezzo sul web  è essenziale per il vostro mestiere. Gli attrezzi da lavoro Raimondi a prezzo basso su Archimedil srl.
-  Updated: 2026-03-29T11:09:30Z
+  Updated: 2026-04-29T11:09:15Z
   Total Products: 4
 - [Dischi e carte abrasive prezzo basso - Edilizia Online - Archimedil](https://www.archimedilsrl.it/collections/dischi-e-carte-abrasive): La categoria dischi e carte abrasive comprende una vasta gamma di prodotti utilizzati per la sabbiatura, la levigatura e la rimozione di materiali come legno, metallo e plastica. Dischi e carte abrasive al miglior prezzo online su Archimedil.
   Updated: 2026-04-17T11:09:19Z
@@ -3053,13 +3053,13 @@
   Updated: 2024-01-14T18:29:52Z
   Total Products: 0
 - [Fumisteria](https://www.archimedilsrl.it/collections/sistemi-di-ventilazione)
-  Updated: 2026-04-07T11:09:18Z
+  Updated: 2026-04-28T11:09:33Z
   Total Products: 12
 - [Ventose elettriche](https://www.archimedilsrl.it/collections/ventose-elettriche)
   Updated: 2026-02-05T12:08:33Z
   Total Products: 1
 - [Intonaci e stucchi traspiranti - Miglior prezzo sul web](https://www.archimedilsrl.it/collections/intonaci-e-stucchi): All'interno di Intonaci e stucchi troverete una vasta selezione di prodotti di alta qualità, tra cui il BenessereBio Kerakoll per bioedilizia, lo Stucco Super Finish di Knauf per cartongesso , intonaco Biocalce, ideali per creare ambienti salubri e duraturi al miglior prezzo sul web. Scopri la selezione di intonaci e
-  Updated: 2026-04-24T11:08:00Z
+  Updated: 2026-04-28T11:09:33Z
   Total Products: 17
 - [Elettropompa](https://www.archimedilsrl.it/collections/elettropompa)
   Updated: 2024-01-14T18:29:52Z
@@ -3074,13 +3074,13 @@
   Updated: 2024-01-14T18:29:52Z
   Total Products: 0
 - [Siliconi colorati - Sigillanti poliuretanici e Monocomponente miglior prezzo](https://www.archimedilsrl.it/collections/sigillanti): La nostra vasta selezione di siliconi colorati comprende marche rinomate come Sika, Tytan e Kerakoll, garantendo soluzioni affidabili e durature per le vostre esigenze di sigillatura. Mettiamo a vostra disposizione solo siliconi colorati di alta qualità, provenienti da marche rinomate nel settore dell'edilizia.
-  Updated: 2026-04-24T11:08:00Z
+  Updated: 2026-04-30T11:08:39Z
   Total Products: 20
 - [Set da Carpentiere](https://www.archimedilsrl.it/collections/set-da-carpentiere)
   Updated: 2025-07-03T15:21:04Z
   Total Products: 5
 - [Attrezzi e accessori](https://www.archimedilsrl.it/collections/attrezzi-e-accessori)
-  Updated: 2026-02-09T12:07:40Z
+  Updated: 2026-05-01T11:08:23Z
   Total Products: 1
 - [Misuratore Laser](https://www.archimedilsrl.it/collections/misuratore-laser)
   Updated: 2024-04-16T15:09:55Z
@@ -3107,10 +3107,10 @@
   Updated: 2024-11-14T14:56:39Z
   Total Products: 0
 - [Aggrappanti](https://www.archimedilsrl.it/collections/aggrappanti)
-  Updated: 2026-04-25T11:07:54Z
+  Updated: 2026-05-01T11:08:23Z
   Total Products: 5
 - [Malte allettamento](https://www.archimedilsrl.it/collections/malte-allettamento)
-  Updated: 2026-02-26T12:10:55Z
+  Updated: 2026-04-30T11:08:39Z
   Total Products: 1
 - [Malte strutturali & accessori](https://www.archimedilsrl.it/collections/malte-strutturali-accessori)
   Updated: 2024-01-14T18:29:53Z
@@ -3134,31 +3134,31 @@
   Updated: 2024-03-29T06:39:58Z
   Total Products: 0
 - [Impermeabilizzanti cementizi](https://www.archimedilsrl.it/collections/impermeabilizzanti-cementizi)
-  Updated: 2026-04-19T11:09:24Z
+  Updated: 2026-05-01T11:08:23Z
   Total Products: 5
 - [Impermeabilizzanti bituminosi - Elastik Edilchimica](https://www.archimedilsrl.it/collections/impermeabilizzanti-bituminosi): Membrana Impermeabilizzante bituminosa Impermeabilizzanti bituminosi al miglior prezzo sul web e prezzo basso. All'interno della categoria troverai i migliori prodotti professionali come Elastik Edilchimica. Se state cercando prodotti di alta qualità per proteggere e rendere impermeabili le vostre superfici, siete nel posto giusto. La nostra vasta selezione di impermeabilizzanti bituminosi comprende marche rinomate come Wingrip e Edilchimica, garantendo soluzioni affidabili e durature per le vostre esigenze. Vernice bituminosa impermeabilizzante Uno dei nostri prodotti di punta è il Wingrip Bituminoso Impermeabilizzante, una soluzione versatile e altamente performante. Questo prodotto offre una protezione superiore contro l'infiltrazione dell'acqua e la formazione di umidità, garantendo una tenuta impeccabile. Grazie alla sua composizione di qualità e alla sua resistenza agli agenti atmosferici, il Wingrip Bituminoso Impermeabilizzante è la scelta ideale per coperture, terrazze, balconi e altre superfici esposte agli agenti esterni. Un'altra opzione eccellente è il ponte di aggrappo universale per la posa di pavimenti. Questo prodotto di Edilchimica è stato appositamente progettato per garantire una superficie solida e resistente, ideale per l'applicazione di pavimenti. Il ponte di aggrappo universale per la posa di pavimenti offre una presa eccezionale, evitando la formazione di fessure e garantendo una posa stabile nel tempo. Non dimenticate di esplorare anche il Supporto Antifessura per Elastik di Edilchimica. Questo prodotto è progettato per proteggere le superfici da eventuali fessurazioni, offrendo una soluzione affidabile e duratura. Grazie alla sua formula avanzata e alla sua capacità di adattarsi a diverse superfici, il Supporto Antifessura per Elastik è la scelta perfetta per una protezione efficace e duratura. Presso il nostro ecommerce, mettiamo a vostra disposizione solo prodotti di alta qualità, provenienti da marche rinomate nel settore edilizio. Abbiamo curato attentamente la nostra selezione per fornirvi le migliori soluzioni impermeabilizzanti bituminose sul mercato. Scegliete il prodotto che meglio si adatta alle vostre esigenze e affidatevi alla qualità e all'affidabilità dei nostri impermeabilizzanti bituminosi. Ordinate ora e proteggete le vostre superfici con i nostri impermeabilizzanti bituminosi di qualità superiore. La vostra soddisfazione è la nostra priorità, e siamo pronti a offrirvi un servizio impeccabile e prodotti che superano le vostre aspettative. Elastik Edilchimica troverai impermeabilizzante liquido, supporto antifessura, Impermeabilizzante bituminosi.
   Updated: 2026-04-13T04:51:17Z
   Total Products: 7
 - [Impermeabilizzanti acrilici - Vernici acrilici & accessori | Prezzo basso](https://www.archimedilsrl.it/collections/impermeabilizzanti-acrilici): La categoria degli "Impermeabilizzanti Acrilici" di Archimedil Srl - L'edilizia online con 1000 recensioni su amazon e ebay è progettata per fornire ai clienti una vasta gamma di prodotti per la protezione e la riparazione delle strutture contro l'acqua, specificatamente utilizzando tecnologie acriliche.
-  Updated: 2026-04-23T11:08:16Z
+  Updated: 2026-05-02T11:07:29Z
   Total Products: 17
 - [Impermeabilizzanti poliuretanici](https://www.archimedilsrl.it/collections/impermeabilizzanti-poliuretanici)
   Updated: 2026-04-20T11:08:16Z
   Total Products: 3
 - [Tessuti Impermeabilizzanti](https://www.archimedilsrl.it/collections/tessuti-impermeabilizzanti)
-  Updated: 2026-04-21T11:08:22Z
+  Updated: 2026-05-01T11:08:23Z
   Total Products: 5
 - [Impermeabilizzanti & Accessori](https://www.archimedilsrl.it/collections/impermeabilizzanti-accessori): Impermeabilizzanti & Accessori prezzo Impermeabilizzanti con più di +1000 recensioni su Amazon & Ebay La categoria di "Impermeabilizzanti & Accessori" di Archimedil srl è progettata per fornire ai clienti una vasta gamma di prodotti per la protezione e la riparazione delle strutture contro l'acqua. Siamo orgogliosi di offrire prodotti di alta qualità, testati e certificati per garantire la massima efficacia e durata. Iniziamo con i prodotti per l'impermeabilizzazione. La malta per impermeabilizzazione è una soluzione ideale per sigillare e proteggere le strutture in calcestruzzo, mattoni e altri materiali da umidità e infiltrazioni d'acqua. La malta per impermeabilizzazione dell'ecommerce Archimedil - L'edilizia online, con oltre 1000 recensioni di amazon e Ebay è facile da applicare, resistente alle intemperie e all'acqua, e fornisce una protezione duratura. La membrana impermeabilizzante è un'altra soluzione efficace per proteggere le strutture dall'acqua. Le membrane impermeabilizzanti sono disponibili in diverse forme, come fogli, liquidi e spray, e sono progettate per essere applicate su una vasta gamma di superfici, tra cui calcestruzzo, asfalto, metalli e legno. Le membrane impermeabilizzanti sono resistenti alle intemperie, all'acqua e all'abrasione, e forniscono una protezione duratura. Il nastro sigillante per impermeabilizzazione è un'altra soluzione efficace per proteggere le strutture dall'acqua. Il nastro sigillante è progettato per essere utilizzato in giunti, fessure e altre aree vulnerabili per sigillare e proteggere contro l'acqua. Il nastro sigillante è facile da applicare, resistente alle intemperie e all'acqua, e fornisce una protezione duratura. Inoltre, Archimedil srl offre una vasta gamma di accessori per l'impermeabilizzazione per aiutare i clienti a completare i loro progetti. Tra questi, troverete rulli per l'applicazione, pennelli per la stesura della malta, cutter per tagliare la membrana impermeabilizzante e molto altro ancora. Tutti gli accessori sono di alta qualità e progettati per garantire un'applicazione facile e precisa. Scopri la gamma completa di Impermeabilizzanti & Accessori dello shop ufficiale dell'Edilizia Online. Troverai Impermeabilizzanti & accessori al miglior prezzo. Spedizione in 24h e pagamenti sicuri.
-  Updated: 2026-04-25T11:07:54Z
+  Updated: 2026-05-02T11:07:29Z
   Total Products: 56
 - [Accessori per impermeabilizzanti](https://www.archimedilsrl.it/collections/accessori-per-impermeabilizzanti)
-  Updated: 2026-04-24T11:08:00Z
+  Updated: 2026-04-29T11:09:15Z
   Total Products: 18
 - [Idrorepellenti](https://www.archimedilsrl.it/collections/idrorepellenti)
-  Updated: 2026-04-23T11:08:16Z
+  Updated: 2026-04-28T11:09:33Z
   Total Products: 4
 - [Materiali per cartongesso | Pannelli cartongesso & Accessori | Archimedil](https://www.archimedilsrl.it/collections/attrezzature-per-cartongesso): Materiali per cartongesso selezionati dal nostro staff di professionisti dell'edilizia. Forniamo una vasta gamma di prodotti per la costruzione e la ristrutturazione di pareti e soffitti in cartongesso. I pannelli in cartongesso sono una soluzione ideale per la costruzione e la ristrutturazione di pareti e soffitti.
-  Updated: 2026-04-24T11:08:00Z
+  Updated: 2026-05-01T11:08:23Z
   Total Products: 32
 - [NUOVI ARRIVI](https://www.archimedilsrl.it/collections/nuovi-arrivi)
   Updated: 2026-03-20T16:53:50Z
@@ -3167,7 +3167,7 @@
   Updated: 2026-04-03T11:08:46Z
   Total Products: 12
 - [Lubrificanti](https://www.archimedilsrl.it/collections/lubrificanti)
-  Updated: 2026-03-20T16:53:50Z
+  Updated: 2026-04-27T11:08:00Z
   Total Products: 3
 - [Levigatura](https://www.archimedilsrl.it/collections/levigatura)
   Updated: 2026-03-21T11:07:37Z
@@ -3179,10 +3179,10 @@
   Updated: 2026-04-24T11:08:00Z
   Total Products: 43
 - [Attrezzi e accessori per la posa](https://www.archimedilsrl.it/collections/attrezzi-e-accessori-per-la-posa)
-  Updated: 2026-04-25T11:07:54Z
-  Total Products: 62
+  Updated: 2026-04-30T11:08:39Z
+  Total Products: 63
 - [Movimentazione](https://www.archimedilsrl.it/collections/movimentazione-1)
-  Updated: 2026-04-24T11:08:00Z
+  Updated: 2026-04-30T11:08:39Z
   Total Products: 26
 - [Attrezzi e accessori per la pulizia](https://www.archimedilsrl.it/collections/attrezzi-e-accessori-per-la-pulizia)
   Updated: 2026-04-25T11:07:54Z
@@ -3191,7 +3191,7 @@
   Updated: 2026-03-20T16:53:51Z
   Total Products: 5
 - [Mescolatori](https://www.archimedilsrl.it/collections/mescolatori)
-  Updated: 2026-03-30T11:08:33Z
+  Updated: 2026-04-30T11:08:39Z
   Total Products: 13
 - [Seghe ed elettroseghe](https://www.archimedilsrl.it/collections/taglio-legno-plastica-metallo)
   Updated: 2026-03-20T16:53:51Z
@@ -3200,7 +3200,7 @@
   Updated: 2026-03-20T16:53:51Z
   Total Products: 0
 - [Accessori elettroutensili](https://www.archimedilsrl.it/collections/accessori-elettroutensili)
-  Updated: 2026-04-24T11:08:00Z
+  Updated: 2026-05-03T11:08:33Z
   Total Products: 25
 - [Punte elicoidali](https://www.archimedilsrl.it/collections/punte-elicoidali)
   Updated: 2026-03-20T16:53:51Z
@@ -3218,7 +3218,7 @@
   Updated: 2026-03-20T16:53:51Z
   Total Products: 3
 - [Fruste](https://www.archimedilsrl.it/collections/fruste-1)
-  Updated: 2026-04-22T11:08:17Z
+  Updated: 2026-04-30T11:08:39Z
   Total Products: 1
 - [Smerigliatrici](https://www.archimedilsrl.it/collections/smerigliatrici)
   Updated: 2026-03-20T16:53:51Z
@@ -3245,19 +3245,19 @@
   Updated: 2026-03-20T16:53:51Z
   Total Products: 1
 - [Attrezzatura per cartongesso](https://www.archimedilsrl.it/collections/attrezzatura-per-cartongesso)
-  Updated: 2026-03-20T16:53:51Z
+  Updated: 2026-04-26T11:08:10Z
   Total Products: 18
 - [Cazzuole Raimondi al miglior prezzo - Cazzuole a punta tonda e Quadrata](https://www.archimedilsrl.it/collections/cazzuole): Le nostre cazzuole con manico ergonomico sono progettate per offrire una presa comoda e ridurre l'affaticamento durante l'uso. La forma ergonomicamente sagomata si adatta perfettamente alla mano, consentendoti di lavorare per lunghe ore senza sforzo. La punta quadrata o tonda delle nostre cazzuole ti offre la versatilità necessaria per affrontare diversi tipi di lavori.
   Updated: 2026-03-20T16:53:51Z
   Total Products: 5
 - [Attrezzi da lavoro](https://www.archimedilsrl.it/collections/attrezzi-da-lavoro)
-  Updated: 2026-04-25T11:07:54Z
+  Updated: 2026-04-26T11:08:10Z
   Total Products: 74
 - [Pitture base calce e silicate](https://www.archimedilsrl.it/collections/pitture-base-calce-e-silicate-1)
-  Updated: 2026-04-21T09:07:41Z
+  Updated: 2026-05-01T11:08:23Z
   Total Products: 4
 - [Vernici per legno](https://www.archimedilsrl.it/collections/vernici-per-legno)
-  Updated: 2026-04-22T11:08:17Z
+  Updated: 2026-05-02T11:07:29Z
   Total Products: 10
 - [Finiture all'acqua](https://www.archimedilsrl.it/collections/finiture-allacqua)
   Updated: 2026-04-19T11:09:24Z
@@ -3278,22 +3278,22 @@
   Updated: 2026-04-13T11:08:04Z
   Total Products: 2
 - [Vernici ad effetto materico](https://www.archimedilsrl.it/collections/vernici-ad-effetto-materico)
-  Updated: 2026-04-22T11:08:17Z
+  Updated: 2026-05-02T11:07:29Z
   Total Products: 1
 - [Impregnanti a solvente](https://www.archimedilsrl.it/collections/impregnanti-a-solvente)
-  Updated: 2026-04-06T11:06:47Z
+  Updated: 2026-04-26T11:08:10Z
   Total Products: 1
 - [Primer o fissativi per interni](https://www.archimedilsrl.it/collections/primer-o-fissativi-per-interni)
-  Updated: 2026-04-20T11:08:16Z
+  Updated: 2026-04-28T11:09:33Z
   Total Products: 6
 - [Rivestimenti per esterni](https://www.archimedilsrl.it/collections/pitture-per-spatolato)
   Updated: 2026-04-23T11:08:16Z
   Total Products: 3
 - [Pitture al quarzo](https://www.archimedilsrl.it/collections/pitture-al-quarzo)
-  Updated: 2026-04-19T11:09:24Z
+  Updated: 2026-04-28T11:09:33Z
   Total Products: 5
 - [Pittura anticondensa & Antimuffa](https://www.archimedilsrl.it/collections/pittura-anticondensa-antimuffa)
-  Updated: 2026-04-25T11:07:54Z
+  Updated: 2026-05-03T11:08:33Z
   Total Products: 20
 - [Vernici per pavimenti](https://www.archimedilsrl.it/collections/vernici-per-pavimenti)
   Updated: 2026-03-20T16:53:52Z
@@ -3305,16 +3305,16 @@
   Updated: 2026-03-20T16:53:52Z
   Total Products: 1
 - [Primer e fissativi per esterni](https://www.archimedilsrl.it/collections/primer-e-stativi-per-esterni)
-  Updated: 2026-03-26T11:08:29Z
+  Updated: 2026-04-28T11:09:33Z
   Total Products: 5
 - [Fondi per esterni](https://www.archimedilsrl.it/collections/fondi-per-esterni-1)
-  Updated: 2026-04-21T09:07:41Z
+  Updated: 2026-04-28T11:09:33Z
   Total Products: 4
 - [Consolidanti](https://www.archimedilsrl.it/collections/consolidanti)
-  Updated: 2026-04-02T11:09:33Z
+  Updated: 2026-04-29T11:09:15Z
   Total Products: 2
 - [Idropitture](https://www.archimedilsrl.it/collections/idropitture-1)
-  Updated: 2026-04-24T11:08:00Z
+  Updated: 2026-05-02T11:07:29Z
   Total Products: 24
 - [Smalti murali](https://www.archimedilsrl.it/collections/smalti-murali)
   Updated: 2026-04-17T11:09:19Z
@@ -3323,28 +3323,28 @@
   Updated: 2026-03-20T16:53:52Z
   Total Products: 5
 - [Accessori per cartongesso](https://www.archimedilsrl.it/collections/accessori-per-cartongesso)
-  Updated: 2026-04-24T11:08:00Z
+  Updated: 2026-05-01T11:08:23Z
   Total Products: 43
 - [Idrorepellenti base acqua balconi e terrazzi - Idrorepellenti winlker e Geal](https://www.archimedilsrl.it/collections/idrorepellenti-base-acqua): Nella categoria Idrorepellenti base acqua  di Archimedil srl troverai prodotti di alta qualità per proteggere le tue superfici da umidità, infiltrazioni e danni causati dall'acqua. Scegliendo i nostri idrorepellenti base acqua, potrai garantire una maggiore durata e resistenza alle tue balconate, terrazze e altre superfici esposte agli agenti atmosferici.
-  Updated: 2026-04-25T11:07:54Z
+  Updated: 2026-05-02T11:07:29Z
   Total Products: 11
 - [Idrorepellenti base solvente](https://www.archimedilsrl.it/collections/idrorepellenti-base-solvente)
-  Updated: 2026-04-10T11:11:01Z
+  Updated: 2026-04-28T11:09:33Z
   Total Products: 3
 - [Edilizia](https://www.archimedilsrl.it/collections/edilizia)
-  Updated: 2026-04-25T11:07:54Z
+  Updated: 2026-05-03T11:08:33Z
   Total Products: 74
 - [Isolanti acustici & Accessori](https://www.archimedilsrl.it/collections/isolanti-acustici-accessori)
   Updated: 2026-04-24T11:08:00Z
   Total Products: 7
 - [Rasanti](https://www.archimedilsrl.it/collections/rasanti)
-  Updated: 2026-04-24T11:08:00Z
+  Updated: 2026-05-01T11:08:23Z
   Total Products: 12
 - [Collanti](https://www.archimedilsrl.it/collections/collanti)
-  Updated: 2026-04-25T11:07:54Z
+  Updated: 2026-05-01T11:08:23Z
   Total Products: 10
 - [Fuganti](https://www.archimedilsrl.it/collections/fuganti)
-  Updated: 2026-04-20T11:08:16Z
+  Updated: 2026-04-30T11:08:39Z
   Total Products: 4
 - [Sanitari & Accessori](https://www.archimedilsrl.it/collections/sanitari-accessori)
   Updated: 2026-04-24T11:08:00Z
@@ -3353,16 +3353,16 @@
   Updated: 2026-04-04T11:07:27Z
   Total Products: 1
 - [Best sellers](https://www.archimedilsrl.it/collections/best-sellers)
-  Updated: 2026-04-25T11:07:54Z
+  Updated: 2026-05-03T11:08:33Z
   Total Products: 11
 - [Schiume e accessori](https://www.archimedilsrl.it/collections/schiume-e-accessori)
   Updated: 2026-04-22T11:08:17Z
   Total Products: 16
 - [Siliconi e accessori](https://www.archimedilsrl.it/collections/siliconi-e-accessori)
-  Updated: 2026-04-24T11:08:00Z
+  Updated: 2026-04-29T11:09:15Z
   Total Products: 24
 - [Rulli e pennelli](https://www.archimedilsrl.it/collections/rulli-e-pennelli)
-  Updated: 2026-04-25T11:07:54Z
+  Updated: 2026-04-30T11:08:39Z
   Total Products: 27
 - [Abrasivi e spazzole](https://www.archimedilsrl.it/collections/dischi-e-spazzole)
   Updated: 2026-04-24T11:08:00Z
@@ -3374,13 +3374,13 @@
   Updated: 2026-03-20T16:53:53Z
   Total Products: 1
 - [Utensileria](https://www.archimedilsrl.it/collections/utensileria)
-  Updated: 2026-04-23T11:08:16Z
+  Updated: 2026-05-01T11:08:23Z
   Total Products: 47
 - [Smalti per metallo](https://www.archimedilsrl.it/collections/smalti-per-metallo)
-  Updated: 2026-04-25T11:07:54Z
+  Updated: 2026-05-03T11:08:33Z
   Total Products: 8
 - [Smalti e accessori](https://www.archimedilsrl.it/collections/smalti-e-accessori)
-  Updated: 2026-04-25T11:07:54Z
+  Updated: 2026-05-03T11:08:33Z
   Total Products: 6
 - [Ancoranti e accessori](https://www.archimedilsrl.it/collections/ancoranti-e-accessori)
   Updated: 2026-03-20T16:53:53Z
@@ -3389,7 +3389,7 @@
   Updated: 2026-03-29T11:09:30Z
   Total Products: 6
 - [Minuteria ferramenta](https://www.archimedilsrl.it/collections/minuteria-ferramenta)
-  Updated: 2026-04-25T11:07:54Z
+  Updated: 2026-05-01T11:08:23Z
   Total Products: 45
 - [Bocchettoni](https://www.archimedilsrl.it/collections/bocchettoni)
   Updated: 2026-04-15T11:08:37Z
@@ -3404,16 +3404,16 @@
   Updated: 2024-01-14T18:29:58Z
   Total Products: 0
 - [Sistemi di protezione individuale](https://www.archimedilsrl.it/collections/sistemi-di-protezione-individuale): Sistemi di protezione individuale prezzo basso DPI - Dispositivi di protezione individuale La sicurezza sul cantiere è fondamentale e noi di Archimedil SRL comprendiamo l'importanza di fornire sistemi di protezione individuale affidabili e di alta qualità. Abbiamo selezionato una vasta gamma di prodotti che ti permetteranno di lavorare in sicurezza e con tranquillità. I nostri occhiali protettivi con stanghette regolabili di Maurer sono progettati per offrire massima protezione agli occhi durante i lavori edili. Grazie alle stanghette regolabili, questi occhiali si adattano comodamente al tuo viso, garantendo una vestibilità sicura e confortevole. Indumenti protettivi edilizia La visiera protettiva ribaltabile a rete di Papillon è un'ottima scelta per proteggere il viso da schegge e detriti durante le attività di lavoro. La visiera ribaltabile ti offre la flessibilità di sollevarla quando non è necessaria, consentendoti una visione chiara e proteggendo al contempo il tuo viso. Per la protezione delle mani, i nostri guanti protettivi 55-AG317 sono la scelta ideale. Questi guanti offrono una buona presa e protezione da abrasioni, tagli e sostanze chimiche, garantendo la sicurezza delle tue mani durante il lavoro. La tua sicurezza è la nostra priorità, e con i nostri sistemi di protezione individuale, potrai lavorare in modo sicuro e protetto. Scegli Archimedil SRL per trovare i migliori prodotti per la tua protezione personale sul cantiere.
-  Updated: 2026-04-25T11:07:54Z
+  Updated: 2026-04-26T11:08:10Z
   Total Products: 29
 - [AVADA - Best Sellers](https://www.archimedilsrl.it/collections/avada-best-sellers)
-  Updated: 2026-04-25T11:07:54Z
-  Total Products: 1204
+  Updated: 2026-05-03T11:08:33Z
+  Total Products: 1205
 - [Collezione in evidenza](https://www.archimedilsrl.it/collections/collezione-in-evidenza)
-  Updated: 2026-04-25T11:07:54Z
-  Total Products: 1212
+  Updated: 2026-05-03T11:08:33Z
+  Total Products: 1213
 - [Monospazzole e accessori](https://www.archimedilsrl.it/collections/monospazzole-e-accessori)
-  Updated: 2026-04-24T11:08:00Z
+  Updated: 2026-04-26T11:08:10Z
   Total Products: 31
 - [Caricabatterie e Batterie](https://www.archimedilsrl.it/collections/caricabatterie-e-batterie)
   Updated: 2025-04-17T15:23:27Z
@@ -3431,28 +3431,28 @@
   Updated: 2026-04-09T11:18:01Z
   Total Products: 5
 - [Isolanti termici e accessori](https://www.archimedilsrl.it/collections/isolanti-termici-e-accessori)
-  Updated: 2026-04-25T11:07:54Z
+  Updated: 2026-05-03T11:08:33Z
   Total Products: 13
 - [Griglie di aerazione e chiusini](https://www.archimedilsrl.it/collections/griglie-di-aerazione-e-chiusini)
   Updated: 2025-12-18T12:08:44Z
   Total Products: 7
 - [Dicembre](https://www.archimedilsrl.it/collections/dicembre)
-  Updated: 2026-04-25T11:07:54Z
+  Updated: 2026-05-01T11:08:23Z
   Total Products: 13
 - [Gennaio](https://www.archimedilsrl.it/collections/gennaio)
   Updated: 2026-04-25T11:07:54Z
   Total Products: 63
 - [GEELLI](https://www.archimedilsrl.it/collections/geelli)
-  Updated: 2026-04-25T11:07:54Z
+  Updated: 2026-05-03T11:08:33Z
   Total Products: 31
 - [PAFFONI](https://www.archimedilsrl.it/collections/paffoni)
-  Updated: 2026-04-07T11:09:18Z
+  Updated: 2026-04-30T11:08:39Z
   Total Products: 33
 - [EDILCHIMICA](https://www.archimedilsrl.it/collections/edilchimica)
   Updated: 2026-04-13T04:51:17Z
   Total Products: 2
 - [COLORCHIMICA](https://www.archimedilsrl.it/collections/colorchimica)
-  Updated: 2026-04-25T11:07:54Z
+  Updated: 2026-05-03T11:08:33Z
   Total Products: 5
 - [Living](https://www.archimedilsrl.it/collections/living)
   Updated: 2026-03-02T12:09:00Z
@@ -3461,7 +3461,7 @@
   Updated: 2024-04-16T13:19:20Z
   Total Products: 3
 - [Cucina](https://www.archimedilsrl.it/collections/cucina)
-  Updated: 2026-04-03T11:08:46Z
+  Updated: 2026-04-30T11:08:39Z
   Total Products: 8
 - [Clothes](https://www.archimedilsrl.it/collections/clothes): Discover our favorites fashionable discoveries, a selection of cool items to integrate in your wardrobe. Compose a unique style with personality which matches your own.
   Updated: 2025-04-04T08:37:26Z
@@ -3476,7 +3476,7 @@
   Updated: 2024-04-06T10:48:10Z
   Total Products: 1
 - [Spazzole ricambio per elettroutensili](https://www.archimedilsrl.it/collections/spazzole-ricambio-per-elettroutensili)
-  Updated: 2026-02-25T12:08:10Z
+  Updated: 2026-05-03T11:08:33Z
   Total Products: 1
 - [Box Doccia](https://www.archimedilsrl.it/collections/box-doccia-1)
   Updated: 2026-04-11T10:56:23Z
@@ -3491,43 +3491,43 @@
   Updated: 2025-04-04T08:37:26Z
   Total Products: 0
 - [TILLMANNS](https://www.archimedilsrl.it/collections/tillmanns)
-  Updated: 2026-04-25T11:07:54Z
+  Updated: 2026-05-03T11:08:33Z
   Total Products: 6
 - [Protettivi per manti bituminosi](https://www.archimedilsrl.it/collections/protettivi-per-manti-bituminosi)
-  Updated: 2026-04-15T11:08:37Z
+  Updated: 2026-04-27T11:08:00Z
   Total Products: 2
 - [Rubinetteria](https://www.archimedilsrl.it/collections/rubinetteria-1): Rubinetteria al miglior prezzo Miscelatori e rubinetti Lasciati ispirare dalla nostra vasta selezione di prodotti di rubinetteria per il tuo bagno. Archimedil SRL ti offre una gamma completa di rubinetti per soddisfare le tue esigenze di design, funzionalità e stile. Scegliendo i nostri prodotti, puoi trasformare il tuo bagno in uno spazio elegante, confortevole e moderno. Se stai cercando un miscelatore incasso doccia di alta qualità, ti consigliamo di considerare il Paffoni, un'opzione che unisce design elegante e prestazioni impeccabili. Con il suo look raffinato, questo miscelatore incasso doccia aggiungerà un tocco di classe al tuo spazio bagno. Per un'esperienza di doccia sofisticata e personalizzata, il Set doccia incasso Duplex è l'ideale. Questo set ti offre la possibilità di regolare la temperatura e l'intensità dell'acqua secondo le tue preferenze, garantendo una doccia confortevole e rilassante. Se desideri un lavabo elegante e funzionale, il Miscelatore Lavabo prolungato senza scarico è la scelta perfetta. Questo miscelatore offre praticità e stile contemporaneo, permettendoti di creare un ambiente bagno moderno e di tendenza. Esplora la nostra gamma di prodotti di rubinetteria e scopri le opzioni che meglio si adattano al tuo stile e alle tue esigenze. Archimedil SRL ti offre soluzioni di qualità per rendere il tuo bagno un luogo di comfort e raffinatezza.
   Updated: 2026-04-07T11:09:18Z
   Total Products: 46
 - [Arredo Bagno](https://www.archimedilsrl.it/collections/arredo-bagno)
-  Updated: 2026-04-25T11:07:54Z
+  Updated: 2026-05-03T11:08:33Z
   Total Products: 33
 - [SIKA](https://www.archimedilsrl.it/collections/sika)
-  Updated: 2026-04-25T11:07:54Z
+  Updated: 2026-05-01T11:08:23Z
   Total Products: 33
 - [FILA](https://www.archimedilsrl.it/collections/fila)
-  Updated: 2026-04-25T11:07:54Z
+  Updated: 2026-04-30T11:08:39Z
   Total Products: 32
 - [RENNER](https://www.archimedilsrl.it/collections/renner)
-  Updated: 2026-04-22T11:08:17Z
+  Updated: 2026-05-02T11:07:29Z
   Total Products: 11
 - [Colavene](https://www.archimedilsrl.it/collections/colavene)
   Updated: 2026-04-09T11:18:01Z
   Total Products: 5
 - [Pulizia Bagno](https://www.archimedilsrl.it/collections/bagno)
-  Updated: 2026-04-24T11:08:00Z
+  Updated: 2026-04-30T11:08:39Z
   Total Products: 17
 - [Pulizia Cucina](https://www.archimedilsrl.it/collections/cucina-1)
-  Updated: 2026-04-24T11:08:00Z
+  Updated: 2026-04-30T11:08:39Z
   Total Products: 17
 - [Pulizia Pavimento](https://www.archimedilsrl.it/collections/pavimento)
-  Updated: 2026-04-24T11:08:00Z
+  Updated: 2026-05-03T11:08:33Z
   Total Products: 20
 - [Gedy](https://www.archimedilsrl.it/collections/gedy)
   Updated: 2025-10-14T09:57:44Z
   Total Products: 14
 - [Prodotti speciali](https://www.archimedilsrl.it/collections/prodotti-speciali)
-  Updated: 2026-04-24T11:08:00Z
+  Updated: 2026-05-02T11:07:29Z
   Total Products: 17
 - [I NECESSORI](https://www.archimedilsrl.it/collections/i-necessori)
   Updated: 2024-06-10T15:59:34Z
@@ -3557,7 +3557,7 @@
   Updated: 2026-02-24T12:08:16Z
   Total Products: 51
 - [MAURER-PLUS](https://www.archimedilsrl.it/collections/maurer-plus)
-  Updated: 2026-04-15T11:08:37Z
+  Updated: 2026-04-27T11:08:00Z
   Total Products: 17
 - [ADS PACKAGING](https://www.archimedilsrl.it/collections/ads-packaging)
   Updated: 2026-03-10T11:08:07Z
@@ -3566,7 +3566,7 @@
   Updated: 2026-01-24T12:07:35Z
   Total Products: 6
 - [FIORELLINI PENNELLI](https://www.archimedilsrl.it/collections/fiorellini-pennelli)
-  Updated: 2026-04-25T11:07:54Z
+  Updated: 2026-04-30T11:08:39Z
   Total Products: 16
 - [IGIEMME](https://www.archimedilsrl.it/collections/igiemme)
   Updated: 2025-12-18T12:08:44Z
