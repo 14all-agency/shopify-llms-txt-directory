@@ -6,7 +6,7 @@
 - Timezone: America/Bogota
 - Created At: 2026-03-19T00:56:14Z
 - Contact Email: scaredartstudios@gmail.com
-- Updated At: 2026-04-27T00:00:35.119Z
+- Updated At: 2026-05-04T00:00:36.170Z
 
 ## Products
 
