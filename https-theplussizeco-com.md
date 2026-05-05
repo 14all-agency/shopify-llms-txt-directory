@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-06-10T17:50:10Z
 - Contact Email: tejusentprs@gmail.com
-- Updated At: 2026-04-28T00:00:42.468Z
+- Updated At: 2026-05-05T00:00:44.724Z
 
 ## Products
 
@@ -23,20 +23,12 @@
     Availability: Available
     Price: ₹1,294.00 INR
 - [Green Cotton Floral Afghani Salwar Suit - The Plus  Size Co.](https://theplussizeco.com/products/green-cotton-floral-afghani-salwar-suit): Breathe fresh in florals with our Green Cotton Floral Afghani Salwar Suit. Features cotton fabric and N neckline. Sizes in XL to 10XL with free customization.
-  Updated: 2026-04-20T04:31:06Z
+  Updated: 2026-05-04T07:35:39Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_23_ca8cae6b-6d8d-45dd-a2bd-9fd7a129d32b.png?v=1769849289
-  - [9XL / 8XL / With Dupatta](https://theplussizeco.com/products/green-cotton-floral-afghani-salwar-suit?variant=44944784556085)
-    Availability: Not Available
-    Price: ₹1,294.00 INR
-  - [7XL / 8XL / Without Dupatta](https://theplussizeco.com/products/green-cotton-floral-afghani-salwar-suit?variant=44944785408053)
-    Availability: Available
-    Price: ₹1,294.00 INR
-  - [10XL / 10XL / With Dupatta](https://theplussizeco.com/products/green-cotton-floral-afghani-salwar-suit?variant=44944784785461)
-    Availability: Not Available
-    Price: ₹1,294.00 INR
+  Price: ₹1,294.00 INR
 - [Plus Size Maroon Floral Cotton Salwar Suit- The Plus Size Co.](https://theplussizeco.com/products/maroon-floral-cotton-salwar-suit)
   Updated: 2026-01-31T21:29:55Z
   Vendor: The Plus Size Co.
@@ -293,6 +285,13 @@
   - [10XL](https://theplussizeco.com/products/navy-floral-collared-co-ord-set-with-pockets?variant=44743865532469)
     Availability: Available
     Price: ₹995.00 INR
+- [Plus Size Neon Yellow Printed Co-ord Set with Pockets -The Plus Size Co](https://theplussizeco.com/products/neon-yellow-printed-co-ord-set-with-pockets): Light up your day with our Neon Yellow Printed Co-ord Set with Pockets. Features polyester fabric and V neckline. Paired with pant. Sizes in XL to 10XL.
+  Updated: 2026-05-01T11:10:57Z
+  Vendor: The Plus Size Co.
+  Product Type: Co-ord Sets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Neon_Yellow_Printed_Co-ord_Set_with_Pockets_2.png?v=1753078917
+  Price: ₹994.00 INR
 - [Plus Size Red Floral Cotton Co-ord Set With Pockets- The Plus Size Co.](https://theplussizeco.com/products/red-floral-cotton-co-ord-set-with-pockets): Bloom bright in red florals with our Red Floral Cotton Co-ord Set With Pockets. Features cotton fabric and 3/4th sleeves. Pair with pant. Sizes in XL to 10XL.
   Updated: 2025-10-23T05:48:17Z
   Vendor: The Plus Size Co.
@@ -611,12 +610,17 @@
     Availability: Available
     Price: ₹1,194.00 INR
 - [Smoky Grey Floral Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/smoky-grey-floral-cotton-suit-set): Step effortless elegance with our Smoky Grey Floral Cotton Suit Set. Features cotton fabric and V neckline. Paired with pant and dupatta. Sizes in XL to 10XL.
-  Updated: 2026-01-31T19:34:13Z
+  Updated: 2026-05-01T11:25:09Z
   Vendor: The Plus Size Co.
   Product Type: Suit Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0681/1569/3621/files/Lalita_TPSC_5_350c95a8-9b30-4768-b331-eb14ca6943ea.png?v=1769841188
-  Price: ₹1,194.00 INR
+  - [5XL](https://theplussizeco.com/products/smoky-grey-floral-cotton-suit-set?variant=45190161498165)
+    Availability: Available
+    Price: ₹1,194.00 INR
+  - [6XL](https://theplussizeco.com/products/smoky-grey-floral-cotton-suit-set?variant=44944719183925)
+    Availability: Available
+    Price: ₹1,194.00 INR
 - [Plus Size Soft Pink Floral Cotton Suit Set- The Plus Size Co.](https://theplussizeco.com/products/soft-pink-floral-cotton-suit-set): ush in style with the charm of our Soft Pink Floral Cotton Suit Set. Features cotton fabric and 3/4th sleeves. Paired with pant and dupatta. Sizes XL to 10XL.
   Updated: 2026-01-19T09:18:48Z
   Vendor: The Plus Size Co.
@@ -963,7 +967,7 @@
   Updated: 2025-07-17T18:57:34Z
   Total Products: 0
 - [Plus Size Co-ord Sets for Office & Casual Wear | The Plus Size Co.](https://theplussizeco.com/collections/plus-size-coord-sets): Shop Stylish Plus Size Co-ord Sets for Women in sizes XL to 10XL. From Casual to office Wear explore trendy & comfortable two-piece sets designed for curves.
-  Updated: 2026-04-23T10:31:25Z
+  Updated: 2026-05-01T11:10:55Z
   Total Products: 26
 - [Plus Size Kurta Sets for Women in XL to 10XL - The Plus Size Co.](https://theplussizeco.com/collections/plus-size-kurta-sets): Shop Stylish & Affordable Kurta Sets for women at The Plus Size Co. Designed for sizes up to 10XL, our ethnic wear combines comfort, trend, and perfect fit.
   Updated: 2026-04-25T11:26:50Z
@@ -981,7 +985,7 @@
   Updated: 2026-04-23T10:28:21Z
   Total Products: 25
 - [Plus Size Vacation Wear – Dresses, Kurtas & Co-ords| The Plus Size Co.](https://theplussizeco.com/collections/plus-size-vacation-wear): Plan your getaway in style with our Plus Size Vacation Wear. Shop Breezy Dresses, Chic Kurtas & Comfy Co-ord Sets in Sizes XL to 10XL. Travel-friendly & trendy!
-  Updated: 2026-04-23T10:31:25Z
+  Updated: 2026-05-01T11:10:55Z
   Total Products: 40
 - [Trending Products](https://theplussizeco.com/collections/plus-size-trending-products)
   Updated: 2026-04-23T10:28:21Z
@@ -997,7 +1001,7 @@ Sizes XL to 10XL without compromising on style or comfort.
   Updated: 2026-04-12T11:29:05Z
   Total Products: 61
 - [Plus Size Ethnic Wear Under ₹999 – Sizes XL to 10XL | The Plus Size Co.](https://theplussizeco.com/collections/plus-size-fashion-under-999): Discover Stylish Plus Size Fashion under ₹999 at The Plus Size Co. Shop Co-ord Sets, Night Gowns, Kurtas, Tops & Dresses in sizes XL to 10XL. Budget-friendly, curve-loving fits!
-  Updated: 2026-04-23T10:31:25Z
+  Updated: 2026-05-01T11:10:55Z
   Total Products: 90
 - [Western Wear](https://theplussizeco.com/collections/western-wear-1)
   Updated: 2026-04-23T10:31:25Z
