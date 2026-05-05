@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2024-01-19T13:12:44Z
 - Contact Email: serviceclient@flerisse.com
-- Updated At: 2026-04-27T00:00:36.235Z
+- Updated At: 2026-05-05T00:00:37.571Z
 
 Flérisse est une marque de soins capillaires naturels dédiée aux cheveux texturés (afro, bouclés, frisés). Nos produits sont formulés avec des ingrédients naturels pour nourrir, hydrater et sublimer vos boucles.
 
@@ -50,8 +50,8 @@ Flérisse est une marque de soins capillaires naturels dédiée aux cheveux text
 
 ## Collections
 
-- [Essence Moussante](https://flerisse.com/collections/flerimousse): Découvrez la collection Essence Moussante , une gamme complète pour nettoyer , nourrir et revitaliser vos boucles. Ce soin capillaire offre une hydratation profonde grâce à son shampooing doux et sa crème capillaire qui définit et hydrate chaque boucle. Une routine parfaite pour des cheveux brillants, doux et pleins de vitalité, en parfaite harmonie avec les besoins de vos boucles
-  Updated: 2026-04-26T11:29:01Z
+- [Essence Moussante](https://flerisse.com/collections/flerimousse): Découvrez la collection Essence Moussante , une gamme complète pour nettoyer , nourrir et revitaliser vos boucles. Ce soin capillaire offre une hydratation profonde grâce à son shampoing doux et sa crème capillaire qui définit et hydrate chaque boucle. Une routine parfaite pour des cheveux brillants, doux et pleins de vitalité, en parfaite harmonie avec les besoins de vos boucles
+  Updated: 2026-05-01T12:50:00Z
   Total Products: 2
 - [Duo Soin](https://flerisse.com/collections/flericurls): La collection Duo Soin est votre alliée pour des boucles parfaitement définies et hydratées . Composée de notre crème capillaire nourrissante et d'un sérum de croissance , cette gamme sublime la texture de vos cheveux tout en particulier les frisottis. Apportez à vos boucles un soin complet pour plus de souplesse , de brillance et de vitalité .
   Updated: 2026-04-26T11:29:01Z
