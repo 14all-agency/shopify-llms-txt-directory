@@ -6,7 +6,7 @@
 - Timezone: America/Mexico_City
 - Created At: 2026-03-01T02:56:31Z
 - Contact Email: edelserratos@gmail.com
-- Updated At: 2026-04-26T07:53:01.672Z
+- Updated At: 2026-05-05T00:00:27.507Z
 
 ## Products
 
@@ -411,6 +411,60 @@
   - [Blanco / 3XL](https://www.persartz.com/products/drop002-txt-reign-persartz®-crown-signal-script-camiseta-streetwear-premium?variant=43106304458855)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0653/2811/9911/files/unisex-premium-t-shirt-white-front-69eca1b29e93a.png?v=1777115600
+    Price: 799,00 $ MXN
+- [Persartz® Shadow Monogram – Camiseta Streetwear Minimal Black](https://www.persartz.com/products/persartz®-shadow-monogram-camiseta-streetwear-minimal-black): Camiseta negra premium con monograma Persartz en negro profundo (black on black), diseñada para un look silencioso pero dominante. Estética minimalista con presencia fuerte: solo los que saben, saben. Corte moderno, tela suave de alta calidad y acabado limpio para uso diario o outfits más pesados. Diseño enfocado en exclusividad visual, contraste sutil y branding oculto que eleva el estilo urbano sin gritar. Envuélvete en comodidad con esta camiseta premium. Está confeccionada con 100% algodón peinado y tiene un tacto suave y lujoso. Su corte normal y su cuello redondo le dan un aspecto atemporal. Además, el tejido está preencogido para que conserve su tamaño y forma lavado tras lavado. Combínala con lo que quieras para que se adapte a cualquier ocasión. • 100% algodón peinado • El tono marles es 85% algodón y 15% viscosa • Peso del tejido: 150,25 g/m² (5,3 oz/yd²) • Diámetro del hilado: 28 filamentos • Tejido preencogido • Corte regular • Cuello redondo • Diseño con costuras laterales • Pespunte doble en las mangas y el dobladillo • Cuello acanalado • Tapeta de hombro a hombro • Producto base procedente de Bangladés
+  Updated: 2026-05-01T14:14:51Z
+  Vendor: Persartz Luxury Streetwear
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0653/2811/9911/files/unisex-premium-t-shirt-black-front-69f40c77eded5.jpg?v=1777601673
+  - [Negro / S](https://www.persartz.com/products/persartz®-shadow-monogram-camiseta-streetwear-minimal-black?variant=43536502259815)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0653/2811/9911/files/unisex-premium-t-shirt-black-front-69f40c77eded5.jpg?v=1777601673
+    Price: 799,00 $ MXN
+  - [Negro / M](https://www.persartz.com/products/persartz®-shadow-monogram-camiseta-streetwear-minimal-black?variant=43536502292583)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0653/2811/9911/files/unisex-premium-t-shirt-black-front-69f40c77eded5.jpg?v=1777601673
+    Price: 799,00 $ MXN
+  - [Negro / L](https://www.persartz.com/products/persartz®-shadow-monogram-camiseta-streetwear-minimal-black?variant=43536502325351)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0653/2811/9911/files/unisex-premium-t-shirt-black-front-69f40c77eded5.jpg?v=1777601673
+    Price: 799,00 $ MXN
+  - [Negro / XL](https://www.persartz.com/products/persartz®-shadow-monogram-camiseta-streetwear-minimal-black?variant=43536502358119)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0653/2811/9911/files/unisex-premium-t-shirt-black-front-69f40c77eded5.jpg?v=1777601673
+    Price: 799,00 $ MXN
+  - [Negro / 2XL](https://www.persartz.com/products/persartz®-shadow-monogram-camiseta-streetwear-minimal-black?variant=43536502390887)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0653/2811/9911/files/unisex-premium-t-shirt-black-front-69f40c77eded5.jpg?v=1777601673
+    Price: 799,00 $ MXN
+  - [Negro / 3XL](https://www.persartz.com/products/persartz®-shadow-monogram-camiseta-streetwear-minimal-black?variant=43536502423655)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0653/2811/9911/files/unisex-premium-t-shirt-black-front-69f40c77eded5.jpg?v=1777601673
+    Price: 799,00 $ MXN
+  - [Blanco / S](https://www.persartz.com/products/persartz®-shadow-monogram-camiseta-streetwear-minimal-black?variant=43536502456423)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0653/2811/9911/files/unisex-premium-t-shirt-white-front-69f40c77ef57a.jpg?v=1777601673
+    Price: 799,00 $ MXN
+  - [Blanco / M](https://www.persartz.com/products/persartz®-shadow-monogram-camiseta-streetwear-minimal-black?variant=43536502489191)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0653/2811/9911/files/unisex-premium-t-shirt-white-front-69f40c77ef57a.jpg?v=1777601673
+    Price: 799,00 $ MXN
+  - [Blanco / L](https://www.persartz.com/products/persartz®-shadow-monogram-camiseta-streetwear-minimal-black?variant=43536502521959)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0653/2811/9911/files/unisex-premium-t-shirt-white-front-69f40c77ef57a.jpg?v=1777601673
+    Price: 799,00 $ MXN
+  - [Blanco / XL](https://www.persartz.com/products/persartz®-shadow-monogram-camiseta-streetwear-minimal-black?variant=43536502554727)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0653/2811/9911/files/unisex-premium-t-shirt-white-front-69f40c77ef57a.jpg?v=1777601673
+    Price: 799,00 $ MXN
+  - [Blanco / 2XL](https://www.persartz.com/products/persartz®-shadow-monogram-camiseta-streetwear-minimal-black?variant=43536502587495)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0653/2811/9911/files/unisex-premium-t-shirt-white-front-69f40c77ef57a.jpg?v=1777601673
+    Price: 799,00 $ MXN
+  - [Blanco / 3XL](https://www.persartz.com/products/persartz®-shadow-monogram-camiseta-streetwear-minimal-black?variant=43536502620263)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0653/2811/9911/files/unisex-premium-t-shirt-white-front-69f40c77ef57a.jpg?v=1777601673
     Price: 799,00 $ MXN
 
 ## Collections
