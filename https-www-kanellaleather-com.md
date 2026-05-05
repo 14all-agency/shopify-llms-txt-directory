@@ -6,28 +6,28 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2021-04-08T14:58:24Z
 - Contact Email: kanellaleather@gmail.com
-- Updated At: 2026-04-27T09:15:09.664Z
+- Updated At: 2026-05-05T00:00:24.744Z
 
 ## Products
 
 - [Kanella Leather Zina Leather Harness - Kanella Leather](https://www.kanellaleather.com/products/zina-leather-harness): The beauty of the ZINA lies in its ability to effortlessly transition between various looks. For daytime flair, style it over a crisp white shirt and jeans/skirt. For a formal look, embrace its transformative power by combining it with an elegant evening gown, letting it become the focal point of your ensemble. Handcrafted Adjustable straps Gold Brass/Silver Stainless Steel Buckles High quality full-grain leather Don't see your size? Contact us with your measurements! _________________________ Lead times South Africa: Delivery 4-6 working days International: Delivery 6-10 working days. Please refer to our Shipping Policy. Need it urgently? Let us know! All products are uniquely handmade with love. Kanella Leather Zina Leather Harness - Kanella Leather
-  Updated: 2026-04-20T16:27:49Z
+  Updated: 2026-04-29T14:53:08Z
   Vendor: Kanella Leather
   Product Type: Chest Harness
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/6297/5935/files/IMG-8907.jpg?v=1773291591
   - [Gold / Black](https://www.kanellaleather.com/products/zina-leather-harness?variant=40231522402495)
     Availability: Available
-    Price: R 2,080.00 ZAR
+    Price: R 2,190.00 ZAR
   - [Gold / Burgundy](https://www.kanellaleather.com/products/zina-leather-harness?variant=44233975431389)
     Availability: Available
-    Price: R 2,080.00 ZAR
+    Price: R 2,190.00 ZAR
   - [Silver / Black](https://www.kanellaleather.com/products/zina-leather-harness?variant=42941233070301)
     Availability: Available
-    Price: R 2,080.00 ZAR
+    Price: R 2,190.00 ZAR
   - [Silver / Burgundy](https://www.kanellaleather.com/products/zina-leather-harness?variant=44233975529693)
     Availability: Available
-    Price: R 2,080.00 ZAR
+    Price: R 2,190.00 ZAR
 - [Kanella Leather Amara Leather Harness - Kanella Leather](https://www.kanellaleather.com/products/amara-leather-harness): The Amara Chest Harness is always a great choice! Offering adjustable straps for the perfect fit, the harness will conform to your body for maximum comfort. With a timeless design that never goes out of style, the Amara Chest Harness is the ideal choice for any occasion. Handcrafted Adjustable Strap width: 20mm Gold brass buckles/Silver stainless steel buckles High quality full-grain leather ____________________________________Lead timesSouth Africa: Delivery 4-6 working daysInternational: Delivery 6-8 working daysNeed it urgently? Let us know! All products are uniquely handmade with love.Kanella Leather Amara Leather Harness - Kanella Leather
   Updated: 2026-04-20T16:27:49Z
   Vendor: Kanella Leather
@@ -365,29 +365,29 @@
     Availability: Available
     Price: R 1,290.00 ZAR
 - [Thea Leather Leg Garter Belt - Kanella Leather](https://www.kanellaleather.com/products/thea-leg-garter-belt): Thea Leather Leg Garter Belt - Kanella Leather. Slip into something irresistible with Thea Single Leg Garter. Worldwide shipping.
-  Updated: 2026-04-25T07:43:30Z
+  Updated: 2026-04-28T06:39:42Z
   Vendor: Kanella Leather
   Product Type: Leg garter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/6297/5935/files/60315ED4-ECED-4961-92F2-11A5EA55047D.jpg?v=1769061995
   - [Gold / Black](https://www.kanellaleather.com/products/thea-leg-garter-belt?variant=40231068958911)
     Availability: Available
-    Price: R 1,700.00 ZAR
+    Price: R 1,850.00 ZAR
   - [Gold / Burgundy](https://www.kanellaleather.com/products/thea-leg-garter-belt?variant=44234575479005)
     Availability: Available
-    Price: R 1,700.00 ZAR
+    Price: R 1,850.00 ZAR
   - [Gold / Dark Red](https://www.kanellaleather.com/products/thea-leg-garter-belt?variant=44234575511773)
     Availability: Available
-    Price: R 1,700.00 ZAR
+    Price: R 1,850.00 ZAR
   - [Silver / Black](https://www.kanellaleather.com/products/thea-leg-garter-belt?variant=40231076364479)
     Availability: Available
-    Price: R 1,700.00 ZAR
+    Price: R 1,850.00 ZAR
   - [Silver / Burgundy](https://www.kanellaleather.com/products/thea-leg-garter-belt?variant=44234575577309)
     Availability: Available
-    Price: R 1,700.00 ZAR
+    Price: R 1,850.00 ZAR
   - [Silver / Dark Red](https://www.kanellaleather.com/products/thea-leg-garter-belt?variant=44234575610077)
     Availability: Available
-    Price: R 1,700.00 ZAR
+    Price: R 1,850.00 ZAR
 - [Kanella Leather Zoe Double Leather Leg Garter Belt - Kanella Leather](https://www.kanellaleather.com/products/zoe-leg-garter-belt): Handcrafted Adjustable Solid gold brass/Silver stainless steel components High quality full-grain leather 20mm straps _______________________________________________________________Lead timesSouth Africa: Delivery 4-6 working daysInternational: Delivery 6-10 working days. Please refer to our Shipping Policy.Need it urgently? Let us know! All products are uniquely handmade with love.Kanella Leather Zoe Double Leather Leg Garter Belt - Kanella Leather
   Updated: 2026-04-20T16:27:51Z
   Vendor: Kanella Leather
@@ -515,29 +515,29 @@
     Availability: Available
     Price: R 630.00 ZAR
 - [Kanella Leather Anna Full Body Leather Harness - Kanella Leather](https://www.kanellaleather.com/products/anna-leather-harness): Take the plunge and feel daringly beautiful in Anna. This elegant lingerie piece is crafted for the risk takers, those seeking a bold style. We dare you  Handcrafted Adjustable straps Gold brass/Silver stainless steel buckles High quality full-grain leather You are able to detach the choker harness for the leg garter belt Don't see your size? Contact us with your measurements!________________________________Lead timesSouth Africa: Delivery 4-7 working daysInternational: Delivery 6-10 working days. Please refer to our Shipping Policy.Need it urgently? Let us know! All products are uniquely handmade with love.Kanella Leather Anna Full Body Leather Harness - Kanella Leather
-  Updated: 2026-04-20T16:27:52Z
+  Updated: 2026-04-28T06:40:13Z
   Vendor: Kanella Leather
   Product Type: Full Body Harness
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/6297/5935/files/IMG-5350.jpg?v=1769062042
   - [Silver / Black](https://www.kanellaleather.com/products/anna-leather-harness?variant=40240964632767)
     Availability: Available
-    Price: R 3,590.00 ZAR
+    Price: R 3,790.00 ZAR
   - [Silver / Burgundy](https://www.kanellaleather.com/products/anna-leather-harness?variant=44234642784477)
     Availability: Available
-    Price: R 3,590.00 ZAR
+    Price: R 3,790.00 ZAR
   - [Silver / Dark Red](https://www.kanellaleather.com/products/anna-leather-harness?variant=44234642817245)
     Availability: Available
-    Price: R 3,590.00 ZAR
+    Price: R 3,790.00 ZAR
   - [Gold / Black](https://www.kanellaleather.com/products/anna-leather-harness?variant=40240965157055)
     Availability: Available
-    Price: R 3,590.00 ZAR
+    Price: R 3,790.00 ZAR
   - [Gold / Burgundy](https://www.kanellaleather.com/products/anna-leather-harness?variant=44234642882781)
     Availability: Available
-    Price: R 3,590.00 ZAR
+    Price: R 3,790.00 ZAR
   - [Gold / Dark Red](https://www.kanellaleather.com/products/anna-leather-harness?variant=44234642915549)
     Availability: Available
-    Price: R 3,590.00 ZAR
+    Price: R 3,790.00 ZAR
 - [Kanella Leather Xyla Leather Harness - Kanella Leather](https://www.kanellaleather.com/products/xyla-leather-harness): XYLA is a statement piece. Wear her over a dress, shirt, top or lingerie. Wear her YOUR way!  Handcrafted Adjustable High quality full-grain leather Solid gold Brass/Silver stainless Steel buckles Don't see your size? Contact us with your measurements!________________________________Delivery 4-6 working days. Need it urgently? Let us know! All products are uniquely handmade with love.Please refer to our Shipping Policy for international shipping and lead times. Kanella Leather Xyla Leather Harness - Kanella Leather
   Updated: 2026-04-20T16:27:52Z
   Vendor: Kanella Leather
@@ -851,29 +851,29 @@
     Availability: Available
     Price: R 1,490.00 ZAR
 - [Aria Leather Leg Garter Belt - Kanella Leather](https://www.kanellaleather.com/products/aria-leg-garter-belt): Aria Leather Leg Garter Belt - Kanella Leather. Experience the thrill of being daring and confident in the Aria Leg Garter Belt. Wear her YOUR way 
-  Updated: 2026-04-25T07:25:45Z
+  Updated: 2026-04-28T06:35:50Z
   Vendor: Kanella Leather
   Product Type: Leg garter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/6297/5935/files/IMG-5353.jpg?v=1769062239
   - [Silver / Black](https://www.kanellaleather.com/products/aria-leg-garter-belt?variant=40231133872319)
     Availability: Available
-    Price: R 4,490.00 ZAR
+    Price: R 4,590.00 ZAR
   - [Silver / Dark Red](https://www.kanellaleather.com/products/aria-leg-garter-belt?variant=44234114236637)
     Availability: Available
-    Price: R 4,490.00 ZAR
+    Price: R 4,590.00 ZAR
   - [Silver / Burgundy](https://www.kanellaleather.com/products/aria-leg-garter-belt?variant=44234114269405)
     Availability: Available
-    Price: R 4,490.00 ZAR
+    Price: R 4,590.00 ZAR
   - [Gold / Black](https://www.kanellaleather.com/products/aria-leg-garter-belt?variant=40231135051967)
     Availability: Available
-    Price: R 4,490.00 ZAR
+    Price: R 4,590.00 ZAR
   - [Gold / Dark Red](https://www.kanellaleather.com/products/aria-leg-garter-belt?variant=44234114334941)
     Availability: Available
-    Price: R 4,490.00 ZAR
+    Price: R 4,590.00 ZAR
   - [Gold / Burgundy](https://www.kanellaleather.com/products/aria-leg-garter-belt?variant=44234114367709)
     Availability: Available
-    Price: R 4,490.00 ZAR
+    Price: R 4,590.00 ZAR
 - [Kanella Leather Helia Leather Choker - Kanella Leather](https://www.kanellaleather.com/products/helia-leather-choker): Indulge in leather elegance with the Helia Choker. Made with premium leather, this choker is both comfortable and adjustable, ensuring a perfect fit. Elevate any outfit with this elegant accessory. Handcrafted Adjustable Small ring Small stud detail Strap width: 15mm Gold Brass/Silver stainless steel components Closure: Holster stud Don't see your size? Contact us with your measurements!_________________________________________________Lead timesSouth Africa: Delivery 4-6 working daysInternational: Delivery 6-8 working days. Please refer to our Shipping Policy.Need it urgently? Let us know! All products are uniquely handmade with love.Kanella Leather Helia Leather Choker - Kanella Leather
   Updated: 2026-04-20T16:27:54Z
   Vendor: Kanella Leather
@@ -1031,29 +1031,29 @@
     Availability: Available
     Price: R 700.00 ZAR
 - [Kanella Leather Coco Leather Harness - Kanella Leather](https://www.kanellaleather.com/products/coco-leather-harness): Our Coco Chest Harness is a beautiful piece. Its secure fit and adjustable straps allow for optimal comfort and freedom of movement. Perfect for any outfit. Wear her YOUR way  Handcrafted Adjustable Solid gold brass/Silver stainless steel components High quality full-grain leather Don't see your size? Contact us with your measurements!____________________________________Lead timesSouth Africa: Delivery 4-6 working daysInternational: Delivery 6-10 working days. Please refer to our Shipping Policy.Need it urgently? Let us know! All products are uniquely handmade with love.Kanella Leather Coco Leather Harness - Kanella Leather
-  Updated: 2026-04-20T16:27:54Z
+  Updated: 2026-04-28T06:36:55Z
   Vendor: Kanella Leather
   Product Type: Chest Harness
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/6297/5935/files/IMG-8909.jpg?v=1773300547
   - [Silver / Black](https://www.kanellaleather.com/products/coco-leather-harness?variant=40273262608575)
     Availability: Available
-    Price: R 2,600.00 ZAR
+    Price: R 2,800.00 ZAR
   - [Silver / Burgundy](https://www.kanellaleather.com/products/coco-leather-harness?variant=44234129572061)
     Availability: Available
-    Price: R 2,600.00 ZAR
+    Price: R 2,800.00 ZAR
   - [Silver / Dark Red](https://www.kanellaleather.com/products/coco-leather-harness?variant=44234129604829)
     Availability: Available
-    Price: R 2,600.00 ZAR
+    Price: R 2,800.00 ZAR
   - [Gold / Black](https://www.kanellaleather.com/products/coco-leather-harness?variant=40273268310207)
     Availability: Available
-    Price: R 2,600.00 ZAR
+    Price: R 2,800.00 ZAR
   - [Gold / Burgundy](https://www.kanellaleather.com/products/coco-leather-harness?variant=44234129670365)
     Availability: Available
-    Price: R 2,600.00 ZAR
+    Price: R 2,800.00 ZAR
   - [Gold / Dark Red](https://www.kanellaleather.com/products/coco-leather-harness?variant=44234129703133)
     Availability: Available
-    Price: R 2,600.00 ZAR
+    Price: R 2,800.00 ZAR
 - [Kanella Leather Artemis Leather Handcuffs - Kanella Leather](https://www.kanellaleather.com/products/artemis-leather-handcuffs): Elevate your bedroom play with our Artemis Handcuffs. Handcrafted with high-quality hardware, these elegant cuffs add a touch of sophistication to any lingerie. Make your intimate moments even more special when you pair it with our leather lingerie collection. Handmade Adjustable Solid gold Brass/Silver Nickel Components High quality full-grain leather Includes a set of handcuffs and 2 x leather straps with snap hooks Pair them with a leg garter x ___________________________________________________ Lead times South Africa: Delivery 4-6 working days International: Delivery 6-10 working days. Please refer to our Shipping Policy. Need it urgently? Let us know! All products are uniquely handmade with love. Kanella Leather Artemis Leather Handcuffs - Kanella Leather
   Updated: 2026-04-22T20:59:27Z
   Vendor: Kanella Leather
@@ -1181,29 +1181,29 @@
     Availability: Available
     Price: R 1,490.00 ZAR
 - [Kanella Leather Isabella Leather Leg Garter Belt - Kanella Leather](https://www.kanellaleather.com/products/isabella-leg-garter-belt): Handcrafted Adjustable Solid gold brass/Silver stainless steel components High quality full-grain leather Pair this leg garter belt with a set of handcuffs xx Don't see your size? Contact us with your measurements! __________________________ Lead times South Africa: Delivery 4-6 working days International: Delivery 6-10 working days. Please refer to our Shipping Policy. Need it urgently? Let us know! All products are uniquely handmade with love. Kanella Leather Isabella Leather Leg Garter Belt - Kanella Leather
-  Updated: 2026-04-20T16:27:55Z
+  Updated: 2026-04-28T06:34:42Z
   Vendor: Kanella Leather
   Product Type: Leg garter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/6297/5935/files/FullSizeRender_78ee1be6-eda9-4a83-9d4a-7490c38a0d8f.jpg?v=1723036076
   - [Silver / Black](https://www.kanellaleather.com/products/isabella-leg-garter-belt?variant=40288788873407)
     Availability: Available
-    Price: R 1,990.00 ZAR
+    Price: R 2,100.00 ZAR
   - [Silver / Dark Red](https://www.kanellaleather.com/products/isabella-leg-garter-belt?variant=44234560340189)
     Availability: Available
-    Price: R 1,990.00 ZAR
+    Price: R 2,100.00 ZAR
   - [Silver / Burgundy](https://www.kanellaleather.com/products/isabella-leg-garter-belt?variant=44234560372957)
     Availability: Available
-    Price: R 1,990.00 ZAR
+    Price: R 2,100.00 ZAR
   - [Gold / Black](https://www.kanellaleather.com/products/isabella-leg-garter-belt?variant=40288788906175)
     Availability: Available
-    Price: R 1,990.00 ZAR
+    Price: R 2,100.00 ZAR
   - [Gold / Dark Red](https://www.kanellaleather.com/products/isabella-leg-garter-belt?variant=44234560438493)
     Availability: Available
-    Price: R 1,990.00 ZAR
+    Price: R 2,100.00 ZAR
   - [Gold / Burgundy](https://www.kanellaleather.com/products/isabella-leg-garter-belt?variant=44234560471261)
     Availability: Available
-    Price: R 1,990.00 ZAR
+    Price: R 2,100.00 ZAR
 - [Petite Ilisia Leather Choker - Kanella Leather](https://www.kanellaleather.com/products/ilisia-leather-choker): Petite Ilisia Leather Choker - Kanella Leather. Embrace leather elegance and luxury with our Petite Ilisia Choker. Worldwide shipping.
   Updated: 2026-04-25T07:28:40Z
   Vendor: Kanella Leather
@@ -1509,29 +1509,29 @@
     Availability: Available
     Price: R 1,780.00 ZAR
 - [Kanella Leather Kalista Leather Leg Garter Belt - Kanella Leather](https://www.kanellaleather.com/products/kalista-leg-garter-belt): Dare to unleash your bold inner goddess with our Kalista Leg Garter Belt. Feel daring and empowered as you flaunt this beautiful, sexy garter belt . 
-  Updated: 2026-04-20T16:27:57Z
+  Updated: 2026-04-28T06:35:02Z
   Vendor: Kanella Leather
   Product Type: Leg garter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/6297/5935/files/D1B70755-C555-4424-B6AC-BDA4CC6948F9.jpg?v=1741780721
   - [Silver / Black](https://www.kanellaleather.com/products/kalista-leg-garter-belt?variant=40389088706751)
     Availability: Available
-    Price: R 1,890.00 ZAR
+    Price: R 1,990.00 ZAR
   - [Silver / Dark Red](https://www.kanellaleather.com/products/kalista-leg-garter-belt?variant=44234535076061)
     Availability: Available
-    Price: R 1,890.00 ZAR
+    Price: R 1,990.00 ZAR
   - [Silver / Burgundy](https://www.kanellaleather.com/products/kalista-leg-garter-belt?variant=44234535108829)
     Availability: Available
-    Price: R 1,890.00 ZAR
+    Price: R 1,990.00 ZAR
   - [Gold / Black](https://www.kanellaleather.com/products/kalista-leg-garter-belt?variant=40389088772287)
     Availability: Available
-    Price: R 1,890.00 ZAR
+    Price: R 1,990.00 ZAR
   - [Gold / Dark Red](https://www.kanellaleather.com/products/kalista-leg-garter-belt?variant=44234535174365)
     Availability: Available
-    Price: R 1,890.00 ZAR
+    Price: R 1,990.00 ZAR
   - [Gold / Burgundy](https://www.kanellaleather.com/products/kalista-leg-garter-belt?variant=44234535207133)
     Availability: Available
-    Price: R 1,890.00 ZAR
+    Price: R 1,990.00 ZAR
 - [Kanella Leather Calypso Leather Harness - Kanella Leather](https://www.kanellaleather.com/products/calypso-leather-harness): Make a bold statement with the unique Calypso Choker Harness. Crafted with beautiful leather, this harness is sure to dazzle and keep all eyes on you!  Adjustable Handcrafted Solid Gold Brass/Stainless Steel Buckles High quality full-grain leather Don't see your size? Contact us with your measurements!____________________________________ Delivery 3-6 working days. Need it urgently? Let us know! All products are uniquely handmade with love.Please refer to our Shipping Policy for international shipping and lead times.Kanella Leather Calypso Leather Harness - Kanella Leather
   Updated: 2026-04-20T16:27:57Z
   Vendor: Kanella Leather
@@ -1923,35 +1923,35 @@
     Availability: Available
     Price: R 2,390.00 ZAR
 - [Violetta Leg Garter Belt - Kanella Leather](https://www.kanellaleather.com/products/violetta-leg-garter-belt): Violetta Leg Garter Belt - Kanella Leather. Handcrafted Adjustable Solid gold brass/Silver stainless steel buckles High quality full-grain leather.
-  Updated: 2026-04-25T06:20:25Z
+  Updated: 2026-04-28T06:33:22Z
   Vendor: Kanella Leather
   Product Type: Leg garter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/6297/5935/products/image_fdec6565-702c-4b0d-af74-6ec255d18b18.jpg?v=1685864713
   - [Silver / Black](https://www.kanellaleather.com/products/violetta-leg-garter-belt?variant=40571127726271)
     Availability: Available
-    Price: R 2,500.00 ZAR
+    Price: R 4,200.00 ZAR
   - [Silver / Dark Red](https://www.kanellaleather.com/products/violetta-leg-garter-belt?variant=44234521215197)
     Availability: Available
-    Price: R 2,500.00 ZAR
+    Price: R 4,200.00 ZAR
   - [Silver / Burgundy](https://www.kanellaleather.com/products/violetta-leg-garter-belt?variant=44234521247965)
     Availability: Available
-    Price: R 2,500.00 ZAR
+    Price: R 4,200.00 ZAR
   - [Silver / Cognac Brown](https://www.kanellaleather.com/products/violetta-leg-garter-belt?variant=44234521280733)
     Availability: Available
-    Price: R 2,500.00 ZAR
+    Price: R 4,200.00 ZAR
   - [Gold / Black](https://www.kanellaleather.com/products/violetta-leg-garter-belt?variant=40571127759039)
     Availability: Available
-    Price: R 2,500.00 ZAR
+    Price: R 4,200.00 ZAR
   - [Gold / Dark Red](https://www.kanellaleather.com/products/violetta-leg-garter-belt?variant=44234521313501)
     Availability: Available
-    Price: R 2,500.00 ZAR
+    Price: R 4,200.00 ZAR
   - [Gold / Burgundy](https://www.kanellaleather.com/products/violetta-leg-garter-belt?variant=44234521346269)
     Availability: Available
-    Price: R 2,500.00 ZAR
+    Price: R 4,200.00 ZAR
   - [Gold / Cognac Brown](https://www.kanellaleather.com/products/violetta-leg-garter-belt?variant=44234521379037)
     Availability: Available
-    Price: R 2,500.00 ZAR
+    Price: R 4,200.00 ZAR
 - [Kanella Leather Aurora Leather Harness - Kanella Leather](https://www.kanellaleather.com/products/aurora-leather-harness): The Aurora Chest Harness is designed and crafted with style and comfort in mind. She has adjustable straps, providing reliable comfort. Aurora will compliment any outfit. Wear her YOUR way  Handcrafted Adjustable Strap width: 20mm Gold Brass/ Stainless Steel Buckles Iron Chain High quality full-grain leather Use the two additional straps to TRANSFORM the harness! Wear her YOUR way! Don't see your size? Contact us with your measurements! ____________________________________Lead timesSouth Africa: Delivery 4-6 working daysInternational: Delivery 6-10 working days. Please refer to our Shipping Policy.Need it urgently? Let us know! All products are uniquely handmade with love.Kanella Leather Aurora Leather Harness - Kanella Leather
   Updated: 2026-04-20T16:27:59Z
   Vendor: Kanella Leather
@@ -2259,29 +2259,29 @@
     Availability: Available
     Price: R 6,380.00 ZAR
 - [Kanella Leather Xanthus Leather Harness - Kanella Leather](https://www.kanellaleather.com/products/xanthus-leather-harness): Elevate your style with our Xanthus Chest Harness. This iconic piece makes a statement and boasts a beautiful design, all while ensuring premium quality. Stand out from the crowd and make a bold statement with confidence and style. Handcrafted Adjustable Solid Gold Brass/Silver Stainless Steel Buckles High quality full-grain leather Please refer to our Sizing Charts Don't see your size? Contact us with your measurements!____________________________________Lead timesSouth Africa: Delivery 4-6 working daysInternational: Delivery 6-10 working days. Please refer to our Shipping Policy.Need it urgently? Let us know! All products are uniquely handmade with love.Kanella Leather Xanthus Leather Harness - Kanella Leather
-  Updated: 2026-04-20T16:28:02Z
+  Updated: 2026-04-28T06:38:36Z
   Vendor: Kanella Leather
   Product Type: Chest Harness
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/6297/5935/products/image_83254791-af8f-4953-83ca-dfd84702830f.jpg?v=1703490150
   - [Silver / Black](https://www.kanellaleather.com/products/xanthus-leather-harness?variant=40890416627903)
     Availability: Available
-    Price: R 2,790.00 ZAR
+    Price: R 3,100.00 ZAR
   - [Silver / Dark Red](https://www.kanellaleather.com/products/xanthus-leather-harness?variant=44217081037021)
     Availability: Available
-    Price: R 2,790.00 ZAR
+    Price: R 3,100.00 ZAR
   - [Silver / Burgundy](https://www.kanellaleather.com/products/xanthus-leather-harness?variant=44217081069789)
     Availability: Available
-    Price: R 2,790.00 ZAR
+    Price: R 3,100.00 ZAR
   - [Gold / Black](https://www.kanellaleather.com/products/xanthus-leather-harness?variant=40890416660671)
     Availability: Available
-    Price: R 2,790.00 ZAR
+    Price: R 3,100.00 ZAR
   - [Gold / Dark Red](https://www.kanellaleather.com/products/xanthus-leather-harness?variant=44217081135325)
     Availability: Available
-    Price: R 2,790.00 ZAR
+    Price: R 3,100.00 ZAR
   - [Gold / Burgundy](https://www.kanellaleather.com/products/xanthus-leather-harness?variant=44217081168093)
     Availability: Available
-    Price: R 2,790.00 ZAR
+    Price: R 3,100.00 ZAR
 - [Kanella Leather Alectrona Leather Choker - Kanella Leather](https://www.kanellaleather.com/products/alectrona-leather-choker): Are you looking for a unique piece? Our Alectrona Choker is a statement piece that will make you powerful. Handcrafted with attention to detail. Handcrafted Adjustable Width 40mm Metal components Closure: Buckle High quality full-grain leather _________________________________________________Lead timesSouth Africa: Delivery 4-6 working daysInternational: Delivery 6-10 working days. Please refer to our Shipping Policy.Need it urgently? Let us know! All products are uniquely handmade with love. Kanella Leather Alectrona Leather Choker. - Kanella Leather
   Updated: 2026-04-20T16:28:03Z
   Vendor: Kanella Leather
@@ -3204,29 +3204,29 @@
     Availability: Available
     Price: R 1,800.00 ZAR
 - [Kanella Leather Sapphira Leather Full Body Harness - Kanella Leather](https://www.kanellaleather.com/products/sapphira-leather-harness): Sapphira is an elegant beauty! xx She has beautiful ring detail and you can select silver or gold components. You are able to detach the leg garter belt section so that you can wear top bra harness on its own. We also  the bra harness separately - KYRA). She has been designed with comfort kept in mind. Adjustments are made at the back. Handmade to make you feel beautiful  Handcrafted Adjustable Solid gold brass/Silver stainless steel buckles Double leg garter belt Detachable leg garter belt The top bra harness is the Kyra chest harness which can be detached. Pair her with handcuffs and or/ ankle cuffs to create the perfect set You are welcome to send us your measurements. Don't see your size? Contact us with your measurements!________________________________Lead timesSouth Africa: Delivery 8-10 working daysInternational: Delivery 10-12 working days. Please refer to our Shipping Policy.Need it urgently? Let us know! All products are uniquely handmade with love.Kanella Leather Sapphira Leather Full Body Harness - Kanella Leather
-  Updated: 2026-04-20T16:28:08Z
+  Updated: 2026-04-28T06:38:01Z
   Vendor: Kanella Leather
   Product Type: Full Body Harness
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/6297/5935/files/FullSizeRender_51ba8f1f-ebd9-45c9-acc8-0ac1d89e7872.jpg?v=1752849032
   - [Silver / Black](https://www.kanellaleather.com/products/sapphira-leather-harness?variant=42694867681501)
     Availability: Available
-    Price: R 5,990.00 ZAR
+    Price: R 6,900.00 ZAR
   - [Silver / Dark Red](https://www.kanellaleather.com/products/sapphira-leather-harness?variant=44239369896157)
     Availability: Available
-    Price: R 5,990.00 ZAR
+    Price: R 6,900.00 ZAR
   - [Silver / Burgundy](https://www.kanellaleather.com/products/sapphira-leather-harness?variant=44239369928925)
     Availability: Available
-    Price: R 5,990.00 ZAR
+    Price: R 6,900.00 ZAR
   - [Gold / Black](https://www.kanellaleather.com/products/sapphira-leather-harness?variant=42694867714269)
     Availability: Available
-    Price: R 5,990.00 ZAR
+    Price: R 6,900.00 ZAR
   - [Gold / Dark Red](https://www.kanellaleather.com/products/sapphira-leather-harness?variant=44239369994461)
     Availability: Available
-    Price: R 5,990.00 ZAR
+    Price: R 6,900.00 ZAR
   - [Gold / Burgundy](https://www.kanellaleather.com/products/sapphira-leather-harness?variant=44239370027229)
     Availability: Available
-    Price: R 5,990.00 ZAR
+    Price: R 6,900.00 ZAR
 - [Artemis Leather Ankle Cuffs - Kanella Leather](https://www.kanellaleather.com/products/artemis-leather-ankle-cuffs): Artemis Leather Ankle Cuffs - Kanella Leather. Handcrafted using full-grain leather and high-quality hardware. Adjustable straps. Worldwide shipping.
   Updated: 2026-04-25T12:16:57Z
   Vendor: Kanella Leather
@@ -5247,7 +5247,7 @@
     Availability: Available
     Price: R 1,490.00 ZAR
 - [Hemera Leather Harness - Kanella Leather](https://www.kanellaleather.com/products/hemera-leather-harness): Hemera Leather Harness - Kanella Leather. We have added elegant components to create the beautiful piece that she is. Wear her YOUR way 
-  Updated: 2026-04-25T07:41:00Z
+  Updated: 2026-04-28T18:26:51Z
   Vendor: Kanella Leather
   Product Type: Chest Harness
   Availability: Available
@@ -5276,8 +5276,8 @@
   - [Silver / Burgundy](https://www.kanellaleather.com/products/hemera-leather-harness?variant=44217064030429)
     Availability: Available
     Price: R 1,990.00 ZAR
-- [Kanella Leather Erato Leather Cuff Bracelet](https://www.kanellaleather.com/products/erato-leather-cuff-bracelet): The Erato Cuff Bracelet is an iconic accessory. The beautiful leather cuff is sophisticated and stylish - The perfect addition to any ensemble.
-  Updated: 2026-04-25T06:05:47Z
+- [Kanella Leather Erato Leather Cuff Bracelet](https://www.kanellaleather.com/products/erato-leather-cuff-bracelet): Kanella Leather Erato Leather Cuff Bracelet. The Erato Cuff Bracelet is an iconic accessory. - The perfect addition to any ensemble.
+  Updated: 2026-04-28T05:22:27Z
   Vendor: Kanella Leather
   Product Type: Bracelet
   Availability: Available
@@ -5456,8 +5456,8 @@
   - [4XL / Gold](https://www.kanellaleather.com/products/luna-chain-necklace?variant=43779003187421)
     Availability: Available
     Price: R 650.00 ZAR
-- [Kanella Leather Delta Leather Choker Harness - Kanella Leather](https://www.kanellaleather.com/products/delta-leather-harness): Enhance your style with our DELTA Choker Harness. Crafted with beautiful leather and high quality finished components, DELTA is the perfect way to make a statement wherever you go. Enjoy the craftsmanship and quality of this accessory, perfect for any casual or formal occasion. Wear her YOUR way  Handcrafted Adjustable Gold Brass/ Silver Stainless Steel Buckles High quality full-grain leather Don't see your size? Contact us with your measurements!____________________________________Kanella Leather Delta Leather Choker HarnessLead timesSouth Africa: Delivery 4-6 working daysInternational: Delivery 6-10 working days. Please refer to our Shipping Policy.Need it urgently? Let us know! All products are uniquely handmade with love. - Kanella Leather
-  Updated: 2026-04-20T16:28:19Z
+- [Kanella Leather Delta Leather Harness](https://www.kanellaleather.com/products/delta-leather-harness): Kanella Leather Delta Leather Harness. Crafted with high quality finished components, DELTA is the perfect way to make a statement wherever you go.
+  Updated: 2026-04-28T18:04:00Z
   Vendor: Kanella Leather
   Product Type: Leather Harness
   Availability: Available
@@ -5612,8 +5612,8 @@
   - [45.7 cm / 18 in / Silver / Cognac Brown](https://www.kanellaleather.com/products/delta-leather-harness?variant=44217058951389)
     Availability: Available
     Price: R 1,990.00 ZAR
-- [Kanella Leather Athanasia Leather Handcuffs - Kanella Leather](https://www.kanellaleather.com/products/athanasia-leather-handcuffs): Our ATHANASIA Handcuffs are just absolutely beautiful. We have added elegant bold D-rings, stainless steel chain and buckle detail. Pair her with a leg garter belt and choker  Handmade Adjustable Gold Solid Brass/Stainless Steel Buckles & Triggers Stainless Steel Chain Cuff Width= 50mm ___________________________________________________Kanella Leather Athanasia Leather HandcuffsLead timesSouth Africa: Delivery 4-6 working daysInternational: Delivery 6-10 working days. Please refer to our Shipping Policy.Need it urgently? Let us know! All products are uniquely handmade with love. - Kanella Leather
-  Updated: 2026-04-20T16:28:20Z
+- [Kanella Leather Athanasia Leather Handcuffs](https://www.kanellaleather.com/products/athanasia-leather-handcuffs): Kanella Leather Athanasia Leather Handcuffs. We have used high-quality hardware and full-grain leather. Pair her with a leg garter belt and choker 
+  Updated: 2026-04-28T17:59:28Z
   Vendor: Kanella Leather
   Product Type: Handcuffs
   Availability: Available
@@ -5738,8 +5738,8 @@
   - [XL / Gold / Dark Red](https://www.kanellaleather.com/products/athanasia-leather-handcuffs?variant=44554633347293)
     Availability: Available
     Price: R 1,530.00 ZAR
-- [Kanella Leather Athanasia Leather Ankle Cuffs - Kanella Leather](https://www.kanellaleather.com/products/athanasia-ankle-cuffs): Our ATHANASIA Ankle Cuffs are just absolutely beautiful! Pair them with the Athanasia Handcuffs.  Handmade Adjustable Cuff width: 50mm Includes a Stainless Steel Chain connector Gold Brass/ Silver Stainless Steel Buckles & Triggers ___________________________________________________Kanella Leather Athanasia Leather Ankle CuffsLead timesSouth Africa: Delivery 4-6 working daysInternational: Delivery 6-10 working days. Please refer to our Shipping Policy.Need it urgently? Let us know! All products are uniquely handmade with love. - Kanella Leather
-  Updated: 2026-04-20T16:28:20Z
+- [Kanella Leather Athanasia Leather Ankle Cuffs](https://www.kanellaleather.com/products/athanasia-ankle-cuffs): Kanella Leather Athanasia Leather Ankle Cuffs. Our ATHANASIA Ankle Cuffs are just absolutely beautiful! Pair them with the Athanasia Handcuffs. 
+  Updated: 2026-04-28T17:56:49Z
   Vendor: Kanella Leather
   Product Type: cuffs
   Availability: Available
@@ -5864,8 +5864,8 @@
   - [XL / Gold / Dark Red](https://www.kanellaleather.com/products/athanasia-ankle-cuffs?variant=44554632954077)
     Availability: Available
     Price: R 1,790.00 ZAR
-- [Kanella Leather Kleio Chain Necklace - Kanella Leather](https://www.kanellaleather.com/products/kleio-chain-necklace): Add edgy sophistication to your outfit with our Kleio Chain Necklace. This unique piece will become a favourite of yours. She has beautiful stainless steel chain and a complementing trigger and lock pendant. We have added an extender at the back so that it is adjustable. She is gorgeous  Stainless Steel Chain Adjustable Lock pendant Trigger Clasp Don't see your size? Contact us with your measurements!_________________________________________________Kanella Leather Kleio Chain NecklaceLead timesSouth Africa: Delivery 3-6 working daysInternational: Delivery 6-8 working days. Please refer to our Shipping Policy.Need it urgently? Let us know! All products are uniquely handmade with love. - Kanella Leather
-  Updated: 2026-04-20T16:28:20Z
+- [Kanella Leather Kleio Chain Necklace - Kanella Leather](https://www.kanellaleather.com/products/kleio-chain-necklace): Kanella Leather Kleio Chain Necklace. Add edgy sophistication to your outfit with our Kleio Chain Necklace. This unique piece will become a favourite of yours.
+  Updated: 2026-04-28T17:55:17Z
   Vendor: Kanella Leather
   Product Type: Chain Necklace
   Availability: Available
@@ -5895,7 +5895,7 @@
     Availability: Available
     Price: R 650.00 ZAR
 - [Kanella Leather Kharis Chain Necklace](https://www.kanellaleather.com/products/kharis-chain-necklace): Kanella Leather Kharis Chain Necklace Featuring edgy chunky chain and a beautiful lock, this necklace is perfect for making a statement.
-  Updated: 2026-04-21T12:00:29Z
+  Updated: 2026-04-28T17:52:44Z
   Vendor: Kanella Leather
   Product Type: Chain Necklace
   Availability: Available
@@ -6261,7 +6261,7 @@
     Availability: Available
     Price: R 1,450.00 ZAR
 - [Kanella Leather Kassiopeia Leather Choker](https://www.kanellaleather.com/products/kassiopeia-leather-choker): Kanella Leather Kassiopeia Leather Choker Crafted with luxurious leather and hand-stitched stainless steel charms, she adds a touch of glamour to any look.
-  Updated: 2026-04-21T11:57:34Z
+  Updated: 2026-04-28T17:53:55Z
   Vendor: Kanella Leather
   Product Type: Choker
   Availability: Available
@@ -6410,8 +6410,8 @@
   - [4XL / Gold / Dark Red](https://www.kanellaleather.com/products/kassiopeia-leather-choker?variant=44223791038685)
     Availability: Available
     Price: R 1,470.00 ZAR
-- [Kanella Leather Kleopatra  Leash - Kanella Leather](https://www.kanellaleather.com/products/kleopatra--leash): Our Kleopatra Leash is an elegant piece with beautiful ring and chain detail. Strap width = 20mm Total length = 60 cm Gold Solid Brass/Silver Stainless Steel Components Chunky Stainless Steel Chain ONLY the leash is included High quality full-grain leather Addition to leg garter belts, chokers & chest harnesses. See our Iokaste and Venus Chokers :) _________________________________Kanella Leather Kleopatra  LeashLead timesSouth Africa: Delivery 4-6 working daysInternational: Delivery 6-10 working days. Please refer to our Shipping Policy.Need it urgently? Let us know! All products are uniquely handmade with love. - Kanella Leather
-  Updated: 2026-04-20T16:28:23Z
+- [Kanella Leather Kleopatra  Leash - Kanella Leather](https://www.kanellaleather.com/products/kleopatra--leash): Kanella Leather Kleopatra  Leash. Our Kleopatra Leash is is crafted from full-grain leather and high-quality hardware. Worldwide shipping.
+  Updated: 2026-04-28T18:16:16Z
   Vendor: Kanella Leather
   Product Type: 
   Availability: Available
@@ -6441,7 +6441,7 @@
     Availability: Available
     Price: R 1,180.00 ZAR
 - [Hera Leather Leg Garter Belt - Kanella Leather](https://www.kanellaleather.com/products/hera-leather-leg-garter-belt): Hera Leather Leg Garter Belt - Kanella Leather. Accentuate your curves with the Hera Leg Garter Belt! She adds a touch of glamour to your wardrobe.
-  Updated: 2026-04-25T07:39:10Z
+  Updated: 2026-04-28T18:11:49Z
   Vendor: Kanella Leather
   Product Type: Leg garter
   Availability: Available
@@ -6747,7 +6747,7 @@
     Availability: Available
     Price: R 1,350.00 ZAR
 - [Kanella Leather Adira Chain Necklace](https://www.kanellaleather.com/products/adira-chain-necklace): Kanella Leather Adira Chain Necklace Elevate any outfit with the stunning Adira Necklace. This elegant and adjustable piece exudes charm and sophistication.
-  Updated: 2026-04-21T11:54:56Z
+  Updated: 2026-04-28T18:08:57Z
   Vendor: Kanella Leather
   Product Type: Chain Necklace
   Availability: Available
@@ -6860,8 +6860,8 @@
   - [Gold / Burgundy](https://www.kanellaleather.com/products/xenia-leather-harness?variant=45831052820701)
     Availability: Available
     Price: R 1,990.00 ZAR
-- [Kanella Leather Aella Leather Choker Harness](https://www.kanellaleather.com/products/aella-leather-harness): Kanella Leather Aella Leather Choker Harness Aella Choker Harness is an elegant and striking piece. Crafted from full-grain leather & hiqh quality hardware.
-  Updated: 2026-04-21T11:11:21Z
+- [Kanella Leather Aella Harness](https://www.kanellaleather.com/products/aella-leather-harness): Kanella Leather Aella Harness. She is an elegant and striking piece. Crafted from full-grain leather & hiqh quality hardware.
+  Updated: 2026-04-28T18:07:45Z
   Vendor: Kanella Leather
   Product Type: Choker Harness
   Availability: Available
@@ -7611,7 +7611,7 @@
     Availability: Available
     Price: R 1,430.00 ZAR
 - [Selene Éclat Leather Choker Necklace - Kanella Leather](https://www.kanellaleather.com/products/selene-eclat-choker): Selene Éclat Leather Choker Necklace - Kanella Leather Elevate your jewellery collection with our Selene Éclat Choker. She is sure to become a beloved staple.
-  Updated: 2026-04-25T17:31:10Z
+  Updated: 2026-04-28T05:41:03Z
   Vendor: Kanella Leather
   Product Type: Chain Necklace
   Availability: Available
@@ -7844,8 +7844,8 @@
   - [Silver / Black](https://www.kanellaleather.com/products/dione-coin-purse?variant=46524542681309)
     Availability: Available
     Price: R 2,250.00 ZAR
-- [Xanthe Leather Crossbody Bag With No Spikes -Kanella Leather](https://www.kanellaleather.com/products/xanthe-bag-with-no-spikes): The Xanthe Bag is a beautiful handbag crafted from luxurious leather and meticulously handcrafted to ensure a unique, refined look.
-  Updated: 2026-04-25T06:08:08Z
+- [Xanthe Leather Crossbody Bag With No Spikes -Kanella Leather](https://www.kanellaleather.com/products/xanthe-bag-with-no-spikes): Xanthe Leather Crossbody Bag With No Spikes. A beautiful handbag crafted from luxurious leather and meticulously handcrafted to ensure a unique, refined look.
+  Updated: 2026-04-28T17:48:22Z
   Vendor: Kanella Leather
   Product Type: Bag
   Availability: Available
@@ -8073,7 +8073,7 @@
     Availability: Available
     Price: R 1,780.00 ZAR
 - [Kanella Leather Rabbit Bijou - Leather Bag Charm](https://www.kanellaleather.com/products/rabbit-bijou): Kanella Leather Rabbit Bijou - Leather Bag Charm. Kanella’s Rabbit Bijou is a miniature jewel designed to bring personality and edge to your bag or keyring.
-  Updated: 2026-04-21T06:53:23Z
+  Updated: 2026-04-28T17:44:41Z
   Vendor: Kanella Leather
   Product Type: Bag Charms
   Availability: Available
@@ -8097,7 +8097,7 @@
     Availability: Available
     Price: R 620.00 ZAR
 - [Kanella Leather Cat Bijou - Leather Bag Charm](https://www.kanellaleather.com/products/cat-bijou): Kanella Leather Cat Bijou - Leather Bag Charm. Sleek and endlessly iconic. Kanella’s Cat Bijou is a miniature jewel that embodies independence and allure.
-  Updated: 2026-04-21T06:53:35Z
+  Updated: 2026-04-28T17:46:15Z
   Vendor: Kanella Leather
   Product Type: Bag Charms
   Availability: Available
@@ -8145,7 +8145,7 @@
     Availability: Available
     Price: R 690.00 ZAR
 - [Kanella Leather Medea Brooch Accessory](https://www.kanellaleather.com/products/medea-brooch): Kanella Leather Medea Brooch Accessory.Created to captivate, our Medea Brooch embodies timeless sophistication with a modern edge.
-  Updated: 2026-04-25T05:31:04Z
+  Updated: 2026-04-28T17:41:07Z
   Vendor: Kanella Leather
   Product Type: 
   Availability: Available
@@ -8415,7 +8415,7 @@
     Availability: Available
     Price: R 680.00 ZAR
 - [Kanella Leather Iris Leather Waist Belt | Full-grain leather](https://www.kanellaleather.com/products/kanella-leather-iris-leather-waist-belt): Kanella Leather Iris Leather Waist Belt. Elevate your silhouette with the Iris Belt - a commanding statement piece crafted from premium full-grain leather.
-  Updated: 2026-04-26T17:40:17Z
+  Updated: 2026-04-28T05:23:00Z
   Vendor: Kanella Leather
   Product Type: Waist Belt
   Availability: Available
@@ -8575,19 +8575,19 @@
 ## Collections
 
 - [Kanella Leather - Leather Harnesses - Kanella Leather](https://www.kanellaleather.com/collections/chest-harnesses): Kanella Leather - Leather Harnesses Our Harnesses are uniquely handcrafted. We use premium full grain leather and high quality hardware to make our beautiful pieces. They can be styled as a fashion accessory or an intimate accessory. Wear it YOUR way!  - Kanella Leather
-  Updated: 2026-04-20T16:26:33Z
+  Updated: 2026-04-29T14:53:09Z
   Total Products: 28
 - [Leather Leg Garter Belts & Thongs - Kanella Leather](https://www.kanellaleather.com/collections/leg-garter-belts): Kanella Leather Leg Garter BeltsAccentuate your curves with our beautiful Leg Garter Belts! Whether it's for a casual night out or an intimate evening, it will add a touch of glamour to your wardrobe. Make a statement with this luxurious accessories!  - Kanella Leather
-  Updated: 2026-04-24T13:08:00Z
+  Updated: 2026-04-28T06:39:43Z
   Total Products: 10
 - [Kanella Leather Chokers and Chain Necklaces - Kanella Leather](https://www.kanellaleather.com/collections/choker-necklaces): Kanella Leather Chokers and Chain NecklacesElevate your style with our Leather Chokers! Handcrafted using our premium leather and hardware. Each choker necklace adds a touch of elegance and sophistication to any outfit. Be confident and make a statement with the perfect accessory for any occasion.  - Kanella Leather
   Updated: 2026-04-26T11:18:28Z
   Total Products: 28
 - [Kanella Leather Full Body Harnesses - Kanella Leather](https://www.kanellaleather.com/collections/full-body-harnesses): Kanella Leather Full Body HarnessesYou can also pair a chest or choker harness with a leg garter belt, to create that perfect Kanella set! Don’t forget to accessorise with a matching choker and handcuffs xx - Kanella Leather
-  Updated: 2026-04-20T16:26:33Z
+  Updated: 2026-04-28T06:40:14Z
   Total Products: 3
 - [Kanella Leather - All Products - Kanella Leather](https://www.kanellaleather.com/collections/all): Premium Leather Goods – Harnesses, Bags & More | Kanella Browse all Kanella Leather pieces: handcrafted harnesses, belts, bags & accessories. Unique leather fashion and intimate wear — shop worldwide now! - Kanella Leather
-  Updated: 2026-04-26T11:18:28Z
+  Updated: 2026-04-29T14:53:09Z
   Total Products: 108
 - [Kanella Leather - Cuff Bracelets & Hand Harnesses - Kanella Leather](https://www.kanellaleather.com/collections/bracelets-and-cuffs): Kanella Leather - Cuff Bracelets & Hand HarnessesAdd a touch of leather luxury to your jewellery collection. We have a beautiful selection of leather bracelets and cuffs. Worldwide shipping. - Kanella Leather
   Updated: 2026-04-25T05:55:11Z
@@ -8595,39 +8595,39 @@
 - [Intimate Leather Accessories - Kanella Leather](https://www.kanellaleather.com/collections/leather-accessories): Intimate Leather Accessories - Kanella Leather. Elevate your intimate style with premium leather cuffs, ankle cuffs & leashes. Handcrafted quality & bold design
   Updated: 2026-04-25T05:14:09Z
   Total Products: 12
-- [Kanella Leather - Reign Collection - Kanella Leather](https://www.kanellaleather.com/collections/the-reign-collection): Kanella Leather - Reign CollectionKanella's Reign Collection is inspired by Ancient Greece. The Ancient Greeks were known for their sophisticated apparel and design. Get ready to feel like ROYALTY  - Kanella Leather
-  Updated: 2026-04-26T11:18:28Z
+- [Kanella Leather - Reign Collection - Kanella Leather](https://www.kanellaleather.com/collections/the-reign-collection): Kanella Leather - Reign CollectionKanella's Reign Collection is inspired by Ancient Greece. Get ready to feel like ROYALTY  - Kanella Leather
+  Updated: 2026-05-04T13:17:06Z
   Total Products: 7
-- [Kanella Leather - Leather Waist Belts - Kanella Leather](https://www.kanellaleather.com/collections/leather-waist-belts): Kanella Leather - Leather Waist Belts Our Waist Belts are uniquely handcrafted. We use premium full grain leather and high quality hardware to make our beautiful pieces. Wear it YOUR way!  - Kanella Leather
-  Updated: 2026-04-25T05:18:38Z
+- [Kanella Leather - Leather Waist Belts - Kanella Leather](https://www.kanellaleather.com/collections/leather-waist-belts): Kanella Leather - Leather Waist Belts. We use full grain leather and high quality hardware to make our beautiful pieces.
+  Updated: 2026-05-04T13:19:48Z
   Total Products: 10
-- [Chain Necklaces - Brooches - Chain Accessories - Kanella Leather](https://www.kanellaleather.com/collections/chain): Chain Necklaces - Brooches - Chain AccessoriesAll pieces are uniquely curated for YOU. Worldwide shipping. - Kanella Leather
-  Updated: 2026-04-24T06:32:55Z
+- [Chain Necklaces - Brooches - Chain Accessories](https://www.kanellaleather.com/collections/chain): Chain Necklaces - Brooches - Chain Accessories. All pieces are uniquely curated for YOU. Worldwide shipping.
+  Updated: 2026-05-04T13:21:31Z
   Total Products: 10
 - [Featured products - Kanella Leather](https://www.kanellaleather.com/collections/featured-products): Our Featured Collection showcases our new and popular pieces. Stand out from the crowd and add a touch of elegance and edge to your look. Perfect for special events or everyday wear. Wear it YOUR way. x - Kanella Leather
-  Updated: 2026-04-26T11:18:28Z
+  Updated: 2026-05-04T06:22:28Z
   Total Products: 23
-- [Leather Masks - Roleplay - Rabbit/Mouse/Cat Masks - Kanella Leather](https://www.kanellaleather.com/collections/leather-masks): Leather Masks - Roleplay - Rabbit/Mouse/Cat Masks Our sexy masks will elevate your intimate moments and add a touch of sensuality to any encounter. Handcrafted beautiful pieces.  Worldwide shipping. Please refer to our shipping policy for international shipping and lead times. *Leather Masks - Roleplay - Rabbit/Mouse/Cat Masks - Kanella Leather
-  Updated: 2026-04-20T16:26:35Z
+- [Leather Masks - Roleplay - Rabbit/Mouse/Cat Masks](https://www.kanellaleather.com/collections/leather-masks): Leather Masks - Roleplay - Rabbit/Mouse/Cat Masks Our sexy masks will elevate your intimate moments and add a touch of sensuality to any encounter.
+  Updated: 2026-05-04T13:12:28Z
   Total Products: 3
-- [Kanella Leather - Leather Crossbody Bags - Kanella Leather](https://www.kanellaleather.com/collections/bags): Kanella Leather - Leather Crossbody Bags. At Kanella Leather, we believe that a bag is more than just an accessory - it's a statement piece that reflects your personality and style. Our bag collection is a testament to the art of fine leatherwork, where every stitch, every detail, and every element is carefully crafted to perfection.With a passion for quality and a commitment to excellence, we use only the finest premium leathers, carefully selected for their softness, durability, and luxurious feel. From sleek and modern designs to classic and sophisticated silhouettes, each bag in our collection is a masterpiece that exudes elegance, sophistication, and refinement.Whether you're looking for a statement piece to elevate your workwear or a timeless classic to complement your everyday style, our beautiful bag collection has something for everyone.  Worldwide shipping. Please refer to our shipping policy for lead times and international shipping.*Kanella Leather - Leather Crossbody Bags - Kanella Leather
-  Updated: 2026-04-25T05:27:03Z
+- [Kanella Leather - Leather Crossbody Bags](https://www.kanellaleather.com/collections/bags): Kanella Leather - Leather Crossbody Bags. We believe that a bag is more than just an accessory- it's a statement piece that reflects your personality and style.
+  Updated: 2026-05-04T13:14:39Z
   Total Products: 4
 - [Kanella Leather Bag Charms - Kanella's Bag Bijoux - Kanella Leather](https://www.kanellaleather.com/collections/bijoux-bag-charms): Kanella Leather Bag Charms - Kanella's Bag Bijoux A bag isn’t just an accessory—it’s a statement. Kanella’s Bag Bijoux transforms your everyday carry into a piece of modern luxury with a rebellious twist. Each charm is crafted like a miniature jewel, merging sculptural design with bold hardware details. Every piece is designed to be collectible, versatile, and unapologetically distinctive. Think of them as jewelry for your bags—a way to elevate, personalize, and stand out. Whether clipped onto a bag, a tote, or worn as a keychain, Kanella's Bag Bijoux is made for those who curate their style with intention and crave details that whisper couture but scream individuality. Kanella Leather Bag Charms - Kanella's Bag Bijoux. Worldwide shipping. Please refer to our Shipping Policy for international shipping and lead times. - Kanella Leather
   Updated: 2026-04-20T16:26:35Z
   Total Products: 2
-- [Leather Corset Belts - Full-grain Leather - Kanella Leather](https://www.kanellaleather.com/collections/leather-corset-belts): Leather Corset Belts - Kanella Leather Discover striking Leather Corset Belts that blend elegance and edgy style. Each piece is uniquely handcrafted using premium full grain leather and high quality hardware. Shop Kanella Leather for unique designs Worldwide shipping.
-  Updated: 2026-04-25T05:52:22Z
+- [Leather Corset Belts - Full-grain Leather - Kanella Leather](https://www.kanellaleather.com/collections/leather-corset-belts): Leather Corset Belts - Kanella Leather Discover striking Leather Corset Belts that blend elegance and edgy style. Each piece is uniquely handcrafted.
+  Updated: 2026-05-04T13:16:11Z
   Total Products: 3
 - [AVADA - Best Sellers](https://www.kanellaleather.com/collections/avada-best-sellers)
-  Updated: 2026-04-27T09:08:11Z
+  Updated: 2026-04-29T14:53:09Z
   Total Products: 108
 
 ## Blogs
 
 - [Kanella Leather Blog Insights](https://www.kanellaleather.com/blogs/news): Kanella Leather Blog Insights
   - [Is it your first time buying a harness - Essential tips](https://www.kanellaleather.com/blogs/news/first-time-buying-harness): Is it your first time buying a harness - Essential tips
-    Updated: 2026-04-25T13:09:31Z
+    Updated: 2026-04-28T05:20:55Z
     Author: Kanella Leather
     Tags: blog
   - [Can leather lingerie enhance intimacy?](https://www.kanellaleather.com/blogs/news/how-can-leather-lingerie-enhance-intimacy-in-relationships): Can leather lingerie enhance intimacy?
@@ -8635,17 +8635,17 @@
     Author: Kanella Leather
     Tags: blog
   - [Why full-grain leather accessories are superior](https://www.kanellaleather.com/blogs/news/why-premium-leather-lingerie-superior): Why full-grain leather accessories are superior
-    Updated: 2026-04-25T13:07:49Z
+    Updated: 2026-04-28T05:19:18Z
     Author: Kanella Leather
   - [Why Kanella Leather is Different](https://www.kanellaleather.com/blogs/news/why-kanella-leather-is-different): Why Kanella Leather is Different
     Updated: 2026-04-25T13:03:36Z
     Author: Kanella Leather
   - [Leather Harness Fashion - How to Style a Designer Harness](https://www.kanellaleather.com/blogs/news/leather-harness-fashion-how-to-style): Leather Harness Fashion - How to Style a Designer Harness
-    Updated: 2026-04-25T13:01:27Z
+    Updated: 2026-04-28T05:17:26Z
     Author: Kanella Leather
     Tags: blog
   - [Why a Full-Grain Leather Corset Belt Is the Ultimate Accessory](https://www.kanellaleather.com/blogs/news/why-a-full-grain-leather-corset-belt-is-the-ultimate-statement-accessory): Why a Full-Grain Leather Corset Belt Is the Ultimate Accessory
-    Updated: 2026-04-25T13:02:28Z
+    Updated: 2026-04-28T05:15:13Z
     Author: Kanella Leather
     Tags: blog
 
