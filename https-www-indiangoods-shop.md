@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-08-09T10:55:08Z
 - Contact Email: help@indiangoods.shop
-- Updated At: 2026-04-28T12:02:41.567Z
+- Updated At: 2026-05-05T12:02:52.224Z
 
 ## Products
 
@@ -40,8 +40,6 @@
   Price: $8.93 USD
 - [Sansu Cysto Mukta Ras](https://www.indiangoods.shop/products/sansu-cysto-mukta-ras)
   Price: $45.48 USD
-- [BVG Life Sciences Rasa Pachak Vati](https://www.indiangoods.shop/products/bvg-life-sciences-rasa-pachak-vati)
-  Price: $11.28 USD
 - [Plix Watermelon SPF PA++++ 50 Protect & Hydrate 2 In 1 Moisturizer + Sunscreen](https://www.indiangoods.shop/products/plix-watermelon-spf-pa-50-protect-hydrate-2-in-1-moisturizer-sunscreen)
   Price: $14.25 USD
 - [Dr. Johns John-Malt Tonic - Chocolate Flavour](https://www.indiangoods.shop/products/dr-johns-john-malt-tonic-chocolate-flavour)
@@ -592,8 +590,6 @@
   Price: $21.98 USD
 - [Inatur Shea Butter Hand Cream](https://www.indiangoods.shop/products/inatur-shea-butter-hand-cream)
   Price: $8.94 USD
-- [Aroma Care Essential Sun Shield UV Safe SPF 40 PA +++](https://www.indiangoods.shop/products/aroma-care-essential-sun-shield-uv-safe-spf-40-pa)
-  Price: $9.90 USD
 - [Everest Ayurveda Rasnerantadi Kashayam](https://www.indiangoods.shop/products/everest-ayurveda-rasnerantadi-kashayam)
   Price: $23.29 USD
 - [Avene Thermal Spring Water](https://www.indiangoods.shop/products/avene-thermal-spring-water)
@@ -1066,8 +1062,6 @@
   Price: $5.31 USD — $7.57 USD
 - [ColourPop Brow Gel Clear](https://www.indiangoods.shop/products/colourpop-brow-gel-clear)
   Price: $18.32 USD
-- [ColourPop Level Up Mascara - Black](https://www.indiangoods.shop/products/colourpop-level-up-mascara-black)
-  Price: $20.12 USD
 - [Nivea Soft Daily UV Light Moisturising Cream](https://www.indiangoods.shop/products/nivea-soft-daily-uv-light-moisturising-cream)
   Price: $6.96 USD — $15.87 USD
 - [Santhigiri Thriphaladi Choornam](https://www.indiangoods.shop/products/santhigiri-thriphaladi-choornam)
@@ -1124,6 +1118,8 @@
   Price: $19.03 USD — $47.99 USD
 - [The Pickle Story Curry / Kura Masala](https://www.indiangoods.shop/products/the-pickle-story-curry-kura-masala)
   Price: $5.86 USD — $8.12 USD
+- [ColourPop Fresh Kiss Glossy Lip Stain - Cherry Up](https://www.indiangoods.shop/products/colourpop-fresh-kiss-glossy-lip-stain-cherry-up)
+  Price: $20.12 USD
 - [ColourPop Super Shock Shadow - Mighty Morphin](https://www.indiangoods.shop/products/colourpop-super-shock-shadow-mighty-morphin)
   Price: $17.47 USD
 - [ColourPop Lippie Pencils - Love Bug](https://www.indiangoods.shop/products/colourpop-lippie-pencils-love-bug)
@@ -2226,8 +2222,6 @@
   Price: $13.83 USD
 - [Ishva Dates Powder Jar Bottle](https://www.indiangoods.shop/products/ishva-dates-powder-jar-bottle)
   Price: $13.77 USD
-- [Inlife Melatonin 3mg Tablets to Promotes Sleep and Relaxation](https://www.indiangoods.shop/products/inlife-melatonin-3mg-tablets-to-promotes-sleep-and-relaxation)
-  Price: $20.80 USD
 - [Inlife Plant Protein Powder Cookies & Cream](https://www.indiangoods.shop/products/inlife-plant-protein-powder-cookies-cream)
   Price: $72.83 USD
 - [Fixderma Baby Hoopoe Diaper Rash Cream with Zinc Oxide & Panthenol](https://www.indiangoods.shop/products/fixderma-baby-hoopoe-diaper-rash-cream-with-zinc-oxide-panthenol)
@@ -2520,8 +2514,6 @@
   Price: $13.64 USD
 - [Too Faced Lip Injection Extreme Lip Plumper (Lip Gloss)- Original - Travel Size](https://www.indiangoods.shop/products/too-faced-lip-injection-extreme-lip-plumper-lip-gloss-original-travel-size)
   Price: $30.23 USD — $53.30 USD
-- [Too Faced Lip Injection Power Plumping Lip Gloss - Paid Off](https://www.indiangoods.shop/products/too-faced-lip-injection-power-plumping-lip-gloss-paid-off)
-  Price: $48.07 USD
 - [Too Faced Lip Injection Power Plumping Lip Gloss - Pretty Pony](https://www.indiangoods.shop/products/too-faced-lip-injection-power-plumping-lip-gloss-pretty-pony)
   Price: $48.07 USD
 - [Arata Body Wash Nourishing Calming And Rejuvenating - Cherry Blossom](https://www.indiangoods.shop/products/arata-body-wash-nourishing-calming-and-rejuvenating-cherry-blossom)
@@ -2800,8 +2792,6 @@
   Price: $23.29 USD
 - [Laura Mercier Rouge Essentiel Silky Creme Lipstick - Ultime](https://www.indiangoods.shop/products/laura-mercier-rouge-essentiel-silky-creme-lipstick-ultime)
   Price: $69.70 USD
-- [Bryan & Candy Green Tea Shower Gel](https://www.indiangoods.shop/products/bryan-candy-green-tea-shower-gel)
-  Price: $14.49 USD
 - [Laura Mercier Petal Soft Lip Color - 380 Sienna](https://www.indiangoods.shop/products/laura-mercier-petal-soft-lip-color-380-sienna)
   Price: $58.88 USD
 - [Laura Mercier Long Wear Lip Liner - Naked](https://www.indiangoods.shop/products/laura-mercier-long-wear-lip-liner-naked)
@@ -3188,8 +3178,6 @@
   Price: $30.45 USD
 - [Madhura Pickles Maagai Pickle](https://www.indiangoods.shop/products/madhura-pickles-maagai-pickle)
   Price: $30.45 USD
-- [BoroPlus Antiseptic And Moisturising Bathing Neem Soap With Neem, Tea Tree, Aloe Vera & Shea Butter](https://www.indiangoods.shop/products/boroplus-antiseptic-and-moisturising-bathing-neem-soap-with-neem-tea-tree-aloe-vera-shea-butter)
-  Price: $18.54 USD
 - [AVN Bruhatyadi Kashayam Tablets](https://www.indiangoods.shop/products/avn-bruhatyadi-kashayam-tablets)
   Price: $25.00 USD
 - [Cipla Cetafresh Cleansing Lotion](https://www.indiangoods.shop/products/cipla-cetafresh-cleansing-lotion)
@@ -3362,6 +3350,8 @@
   Price: $80.23 USD
 - [Sri Sri Tattva Supasupp She's Active Multivitamin Capsules For Women](https://www.indiangoods.shop/products/sri-sri-tattva-supasupp-shes-active-multivitamin-capsules-for-women)
   Price: $16.43 USD
+- [The Derma Co 1% Vitamin C Brightening Lip Balm](https://www.indiangoods.shop/products/the-derma-co-1-vitamin-c-brightening-lip-balm)
+  Price: $10.26 USD
 - [Earthbaby 100% Natural Wood Cold Press Sesame (Til Oil)](https://www.indiangoods.shop/products/earthbaby-100-natural-wood-cold-press-sesame-til-oil)
   Price: $14.09 USD
 - [Dr. Willmar Schwabe India Ferrum Phosphoricum Biochemic Tablets](https://www.indiangoods.shop/products/dr-willmar-schwabe-india-ferrum-phosphoricum-biochemic-tablets)
@@ -3818,6 +3808,8 @@
   Price: $19.16 USD
 - [Sunny Herbals Glamour Cream For Men With Aloe Vera To Moisturize & Reduce Dark Spots](https://www.indiangoods.shop/products/sunny-herbals-glamour-cream-for-men-with-aloe-vera-to-moisturize-reduce-dark-spots)
   Price: $13.95 USD
+- [Lakme Ultimate Glam SPF 8 Foundation - Shade 02](https://www.indiangoods.shop/products/lakme-ultimate-glam-spf-8-foundation-shade-2)
+  Price: $12.42 USD
 - [Smashbox Halo Healthy Glow All-In-One Tinted Moisturizer Foundation With SPF 25 (Skin Tint) - Light Medium](https://www.indiangoods.shop/products/smashbox-halo-healthy-glow-all-in-one-tinted-moisturizer-foundation-with-spf-25-skin-tint-light-medium)
   Price: $36.54 USD — $64.20 USD
 - [Mamaearth Moisture Matte Long Stay Lipstick Gift Set - Bright and Bold](https://www.indiangoods.shop/products/mamaearth-moisture-matte-long-stay-lipstick-gift-set-bright-and-bold)
@@ -3906,6 +3898,8 @@
   Price: $9.32 USD
 - [Mamaearth Moisture Matte Longstay Mini Lipstick - Plum Punch](https://www.indiangoods.shop/products/mamaearth-moisture-matte-longstay-mini-lipstick-plum-punch)
   Price: $10.21 USD
+- [Wellman 50+ UK's No.1 Multivitamin Tablets For Men above 50 (Ginseng, Citrus & Amino Acids & Micronutrients)](https://www.indiangoods.shop/products/wellman-50-uks-no-1-multivitamin-tablets-for-men-above-50-ginseng-citrus-amino-acids-micronutrients)
+  Price: $12.03 USD
 - [Mamaearth Moisture Matte Longstay Mini Lipstick - Candyfloss Pink](https://www.indiangoods.shop/products/mamaearth-moisture-matte-longstay-mini-lipstick-candyfloss-pink)
   Price: $10.21 USD
 - [Aqualogica Illuminate+ Milk Fluid Moisturizer](https://www.indiangoods.shop/products/aqualogica-illuminate-milk-fluid-moisturizer)
@@ -4780,8 +4774,6 @@
   Price: $16.58 USD
 - [Lakme Blush & Glow Strawberry Creme Face Wash](https://www.indiangoods.shop/products/lakme-blush-glow-strawberry-creme-face-wash)
   Price: $6.31 USD — $9.51 USD
-- [Lakme 9 To 5 Primer + Matte Mini Foundation - Warm Beige](https://www.indiangoods.shop/products/lakme-9-to-5-primer-matte-mini-foundation-warm-beige)
-  Price: $9.36 USD
 - [Love Beauty And Planet Onion Shampoo + Hair Mask Combo](https://www.indiangoods.shop/products/love-beauty-and-planet-onion-shampoo-hair-mask-combo)
   Price: $38.55 USD
 - [Godavari Vantillu Atukula Mixture (poha chivda)](https://www.indiangoods.shop/products/godavari-vantillu-atukula-mixture-poha-chivda)
@@ -5182,6 +5174,8 @@
   Price: $33.65 USD
 - [L'Oreal Paris Extraordinary Hair Kit](https://www.indiangoods.shop/products/loreal-paris-extraordinary-hair-kit)
   Price: $57.86 USD
+- [Nescafe 2 In 1 Instant Coffee 30 Sachets](https://www.indiangoods.shop/products/nescafe-2-in-1-instant-coffee-30-sachets)
+  Price: $45.46 USD
 - [Mamaearth Rosemary Water Anti-Hair Fall Spray with 100% Pure Steam Distilled Rosemary Water & Methi Dana for Hair](https://www.indiangoods.shop/products/mamaearth-rosemary-water-anti-hair-fall-spray-with-100-pure-steam-distilled-rosemary-water-methi-dana-for-hair)
   Price: $12.79 USD
 - [Dot & Key Cica + Niacinamide Oil Free Moisturizer For Acne Prone Skin](https://www.indiangoods.shop/products/dot-key-cica-niacinamide-oil-free-moisturizer-for-acne-prone-skin)
@@ -5710,6 +5704,8 @@
   Price: $57.82 USD
 - [Decode Age NMN 500 Capsules](https://www.indiangoods.shop/products/decode-age-nmn-500-capsules)
   Price: $41.81 USD
+- [Decode Age 99.5% Pure Trans Resveratrol 250mg Supplement Capsules](https://www.indiangoods.shop/products/decode-age-99-5-pure-trans-resveratrol-250mg-supplement-capsules)
+  Price: $42.69 USD
 - [Galact Granules Lactation Granules - Chocolate Flavor With Shatavari](https://www.indiangoods.shop/products/galact-granules-lactation-granules-chocolate-flavor-with-shatavari)
   Price: $14.72 USD — $25.35 USD
 - [Joy Refreshing Shower Gel Body Wash with Vitamin C](https://www.indiangoods.shop/products/joy-refreshing-shower-gel-body-wash-with-vitamin-c)
@@ -7326,6 +7322,8 @@
   Price: $30.52 USD
 - [VLCC Clinic ProShape Slimming Gel](https://www.indiangoods.shop/products/vlcc-clinic-proshape-slimming-gel)
   Price: $21.95 USD
+- [Dhootapapeshwar Avipattikar Choorna Vati](https://www.indiangoods.shop/products/dhootapapeshwar-avipattikar-choorna-vati)
+  Price: $5.51 USD
 - [Baidyanath Nagpur Arjunamrita](https://www.indiangoods.shop/products/baidyanath-nagpur-arjunamrita)
   Price: $18.97 USD
 - [VLCC Clinic Deep Nourishing ProYouth Body Lotion SPF 25](https://www.indiangoods.shop/products/vlcc-clinic-deep-nourishing-proyouth-body-lotion-spf-25)
@@ -7412,8 +7410,6 @@
   Price: $37.28 USD
 - [Murad Rapid Relief Sulfur Mask](https://www.indiangoods.shop/products/murad-rapid-relief-sulfur-mask)
   Price: $82.64 USD
-- [Lakme Hyaluronic Dewy Face Wash Hyadrating with 4D Hyaluronic Acid](https://www.indiangoods.shop/products/lakme-hyaluronic-dewy-face-wash-hyadrating-with-4d-hyaluronic-acid)
-  Price: $12.62 USD
 - [VLCC Clinic ProDefense All Day Cream SPF 30](https://www.indiangoods.shop/products/vlcc-clinic-prodefense-all-day-cream-spf-30)
   Price: $15.46 USD
 - [Nivea Sun Sensitive Skin Spf 50 Sunscreen](https://www.indiangoods.shop/products/nivea-sun-sensitive-skin-spf-50-sunscreen)
@@ -7696,8 +7692,6 @@
   Price: $4.33 USD
 - [Tata Sampann Yumside Biryani Paste/Masala - Hyderabadi Style](https://www.indiangoods.shop/products/tata-sampann-yumside-biryani-paste-masala-hyderabadi-style)
   Price: $14.44 USD
-- [The Body Shop Peptalk Flower Lip Oil Refill- Iris](https://www.indiangoods.shop/products/the-body-shop-peptalk-flower-lip-oil-refill-iris)
-  Price: $25.79 USD
 - [VLCC Clinic ProPerfect Micro Serum](https://www.indiangoods.shop/products/vlcc-clinic-properfect-micro-serum)
   Price: $15.38 USD
 - [Clensta Red Aloe Vera Daily Glow Sunscreen SPF 50](https://www.indiangoods.shop/products/clensta-red-aloe-vera-daily-glow-sunscreen-spf-50)
@@ -8368,8 +8362,6 @@
   Price: $6.77 USD — $9.16 USD
 - [Sesderma Hidraven Foamy Soap Free Cream](https://www.indiangoods.shop/products/sesderma-hidraven-foamy-soap-free-cream)
   Price: $54.58 USD
-- [Kottakkal Arya Vaidyasala - Hingutriguna Leham](https://www.indiangoods.shop/products/avs-kottakkal-arya-vaidyasala-hingutriguna-leham-kavs-594)
-  Price: $16.10 USD
 - [Vellanki Foods Kakarakaya Karam (Bittergourd)](https://www.indiangoods.shop/products/vellanki-foods-kakarakaya-karam-bittergourd)
   Price: $9.81 USD — $33.89 USD
 - [Father Muller Sepia Dilution](https://www.indiangoods.shop/products/father-muller-sepia-dilution)
@@ -9342,8 +9334,6 @@
   Price: $7.23 USD
 - [Clinique Even Better Clinical Serum Foundation SPF 20 - WN 94 Deep Neutral (M)](https://www.indiangoods.shop/products/clinique-even-better-clinical-serum-foundation-spf-20-wn-94-deep-neutral-m)
   Price: $81.63 USD
-- [Baidyanath Medohar Guggulu](https://www.indiangoods.shop/products/baidyanath-medohar-guggulu)
-  Price: $10.84 USD
 - [Father Muller Sabadilla Mother Tincture Q](https://www.indiangoods.shop/products/father-muller-sabadilla-mother-tincture-q)
   Price: $8.45 USD — $12.44 USD
 - [Father Muller Withania Somnifera Mother Tincture Q](https://www.indiangoods.shop/products/father-muller-withania-somnifera-mother-tincture-q)
@@ -9528,8 +9518,6 @@
   Price: $9.29 USD
 - [Vellanki Foods Avisalu(Flax Seed) Chikki](https://www.indiangoods.shop/products/vellanki-foods-avisaluflax-seed-chikki)
   Price: $13.31 USD — $44.81 USD
-- [Father Muller Absinthium Mother Tincture Q](https://www.indiangoods.shop/products/father-muller-absinthium-mother-tincture-q)
-  Price: $7.23 USD
 - [Vellanki Foods Cashew Bite](https://www.indiangoods.shop/products/vellanki-foods-cashew-bite)
   Price: $18.38 USD — $65.07 USD
 - [Guru Prasadam Coliticare Plus Tablets](https://www.indiangoods.shop/products/guru-prasadam-coliticare-plus-tablets)
@@ -10302,6 +10290,8 @@
   Price: $9.68 USD — $10.09 USD
 - [Lakme Vitamin C Pro Brillance Serum](https://www.indiangoods.shop/products/lakme-vitamin-c-pro-brillance-serum)
   Price: $12.62 USD — $21.06 USD
+- [Maybelline New York Tattoostudio Smokey Eye Kohl Gel Pencil Eyeliner - Smokey Black](https://www.indiangoods.shop/products/maybelline-new-york-tattoostudio-smokey-eye-kohl-gel-pencil-eyeliner-smokey-black)
+  Price: $15.50 USD
 - [L'Oreal Paris Absolut Repair Molecular Sulfate-Free Deep Repairing Shampoo](https://www.indiangoods.shop/products/loreal-paris-absolut-repair-molecular-sulfate-free-deep-repairing-shampoo)
   Price: $34.14 USD
 - [Minimalist Light Fluid Face Sunscreen with SPF 50 PA++++ - Lightweight, Water & Sweat Resistant](https://www.indiangoods.shop/products/minimalist-light-fluid-face-sunscreen-with-spf-50-pa-lightweight-water-sweat-resistant)
@@ -10840,6 +10830,8 @@
   Price: $15.32 USD — $28.16 USD
 - [Vedaka Raw Flax Seeds](https://www.indiangoods.shop/products/vedaka-raw-flax-seeds)
   Price: $16.08 USD
+- [Everest Kesari Milk Masala](https://www.indiangoods.shop/products/everest-kesari-milk-masala)
+  Price: $8.23 USD
 - [Lakme Facelift Foundation Stick - Warm Natural](https://www.indiangoods.shop/products/lakme-facelift-foundation-stick-warm-natural)
   Price: $22.06 USD
 - [Lakme Facelift Foundation Stick - Neutral Medium](https://www.indiangoods.shop/products/lakme-facelift-foundation-stick-neutral-medium)
@@ -11054,8 +11046,6 @@
   Price: $11.52 USD — $17.85 USD
 - [Sorich Organics Lightly Seasoned Seeds Cracker](https://www.indiangoods.shop/products/sorich-organics-lightly-seasoned-seeds-cracker)
   Price: $7.21 USD
-- [L'Oreal Paris Flash Cat Eye Eyeliner - Black](https://www.indiangoods.shop/products/loreal-paris-flash-cat-eye-eyeliner-black)
-  Price: $22.12 USD
 - [Sorich Organics Pudina Treat Pumpkin Seeds](https://www.indiangoods.shop/products/sorich-organics-pudina-treat-pumpkin-seeds)
   Price: $7.21 USD
 - [Sorich Organics Pudina 7-in-1 Seeds Cracker](https://www.indiangoods.shop/products/sorich-organics-pudina-7-in-1-seeds-cracker)
@@ -11356,8 +11346,6 @@
   Price: $243.80 USD
 - [Satjeevan Organic Moong Dal Chilka](https://www.indiangoods.shop/products/satjeevan-organic-moong-dal-chilka)
   Price: $13.79 USD — $26.62 USD
-- [Dot & Key Lime Rush Sports Face Wash](https://www.indiangoods.shop/products/dot-key-lime-rush-sports-face-wash)
-  Price: $9.77 USD
 - [LoveChild By Masaba Gupta Concealer Cameo - Beige King](https://www.indiangoods.shop/products/lovechild-by-masaba-gupta-concealer-cameo-beige-king)
   Price: $20.20 USD
 - [LoveChild By Masaba Gupta Lights. Camera. Foundation - Almond Rom](https://www.indiangoods.shop/products/lovechild-by-masaba-gupta-lights-camera-foundation-almond-rom)
@@ -12204,6 +12192,8 @@
   Price: $22.16 USD
 - [Saffola Masala & Coriander Masala Oats](https://www.indiangoods.shop/products/saffola-masala-coriander-masala-oats)
   Price: $19.80 USD
+- [Alpino Organic Natural Peanut Butter Crunch](https://www.indiangoods.shop/products/alpino-organic-natural-peanut-butter-crunch)
+  Price: $15.23 USD — $33.49 USD
 - [Faces Canada Setting & Finishing Loose Powder](https://www.indiangoods.shop/products/faces-canada-setting-finishing-loose-powder)
   Price: $13.62 USD
 - [Plum Lash Serum Eyeliner - 01 Blackout](https://www.indiangoods.shop/products/plum-lash-serum-eyeliner-01-blackout)
@@ -13468,8 +13458,6 @@
   Price: $31.35 USD
 - [Typhoo Calming Organic Chamomile Tea Bags](https://www.indiangoods.shop/products/typhoo-calming-organic-chamomile-tea-bags)
   Price: $8.23 USD
-- [Chicco Liquid Talc Natural Sensation](https://www.indiangoods.shop/products/chicco-liquid-talc-natural-sensation)
-  Price: $18.48 USD
 - [Ponds Dual Acne & Oil Solution Ultra Matte Facial Powder](https://www.indiangoods.shop/products/ponds-dual-acne-oil-solution-ultra-matte-facial-powder)
   Price: $17.41 USD
 - [Dr. Reddy’s Celehealth Nutritional Drink - Saffron & Cardamom Flavor](https://www.indiangoods.shop/products/dr-reddy-s-celehealth-nutritional-drink-saffron-cardamom-flavor)
@@ -13514,6 +13502,8 @@
   Price: $20.53 USD
 - [Tetley Fruit Infusions With Lemon And Ginger Tea Bags](https://www.indiangoods.shop/products/tetley-super-fruits-immune-with-vitamin-c-tea-bags)
   Price: $24.21 USD
+- [Boroline Suthol Active Neem Body Hygiene Liquid](https://www.indiangoods.shop/products/boroline-suthol-active-neem-body-hygiene-liquid)
+  Price: $8.44 USD
 - [Bornfeel Moroccan Red Clay Face Wash](https://www.indiangoods.shop/products/bornfeel-moroccan-red-clay-face-wash)
   Price: $12.62 USD
 - [Tetley Lemon Flavoured Tea Bags](https://www.indiangoods.shop/products/tetley-lemon-flavoured-tea-bags)
@@ -13776,8 +13766,6 @@
   Price: $10.71 USD
 - [Kerala Naturals Neem Leaf Powder](https://www.indiangoods.shop/products/kerala-naturals-neem-leaf-powder)
   Price: $7.71 USD
-- [Smashbox Cover Shot Eye Palette - Ablaze](https://www.indiangoods.shop/products/smashbox-cover-shot-eye-palette-ablaze)
-  Price: $70.22 USD
 - [Swiss Beauty Cheek-A-Boo 3 In 1 Blusher Contour & Highlighter - 2](https://www.indiangoods.shop/products/swiss-beauty-cheek-a-boo-3-in-1-blusher-contour-highlighter-2)
   Price: $11.66 USD
 - [Swiss Beauty Cover & Blend Stick Foundation - 02 Fair Buff](https://www.indiangoods.shop/products/swiss-beauty-cover-blend-stick-foundation-02-fair-buff)
@@ -15066,8 +15054,6 @@
   Price: $12.47 USD
 - [Lakme Absolute Explore Eye Shadow Stick - Shimmering Gold](https://www.indiangoods.shop/products/lakme-absolute-explore-eye-shadow-stick-shimmering-gold)
   Price: $18.37 USD
-- [Vaseline Deep Moisture Silky Body Creme](https://www.indiangoods.shop/products/vaseline-deep-moisture-silky-body-creme)
-  Price: $16.27 USD
 - [Lakme Absolute Lip Mousse - 303 Nude Naturalle](https://www.indiangoods.shop/products/lakme-absolute-lip-mousse-303-nude-naturalle)
   Price: $17.35 USD
 - [Faces Canada Water Melon Fresh Glow Gel Creme](https://www.indiangoods.shop/products/faces-canada-water-melon-fresh-glow-gel-creme)
@@ -15126,10 +15112,10 @@
   Price: $18.31 USD
 - [The Wellness Shop Chocolate Hair Removal Powder](https://www.indiangoods.shop/products/the-wellness-shop-chocolate-hair-removal-powder)
   Price: $23.97 USD
-- [Alps Goodness Tea Tree, Hyaluronic Acid & Ketoconazole Anti Dandruff Scalp Serum](https://www.indiangoods.shop/products/alps-goodness-tea-tree-hyaluronic-acid-ketoconazole-anti-dandruff-scalp-serum)
-  Price: $11.79 USD
 - [Lakme Micellar Water Bi-Phasic Make-up Remover](https://www.indiangoods.shop/products/lakme-micellar-water-bi-phasic-make-up-remover)
   Price: $10.35 USD
+- [The Wellness Shop Neem Hair Removal Powder](https://www.indiangoods.shop/products/the-wellness-shop-neem-hair-removal-powder)
+  Price: $23.97 USD
 - [The Wellness Shop Organic Black Hair Color](https://www.indiangoods.shop/products/the-wellness-shop-organic-black-hair-color)
   Price: $31.53 USD
 - [The Body Shop Jamaican Black Castor Oil Curl Activator for Curly Hair](https://www.indiangoods.shop/products/the-body-shop-jamaican-black-castor-oil-curl-activator)
@@ -15150,14 +15136,20 @@
   Price: $18.31 USD
 - [The Wellness Shop Volcan French Green Clay Face Mask](https://www.indiangoods.shop/products/the-wellness-shop-volcan-french-green-clay-face-mask)
   Price: $21.19 USD
-[List Continued](https://www.indiangoods.shop/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NzQwNjQ4ODc4MjQyLCJsYXN0X3ZhbHVlIjoiODc0MDY0ODg3ODI0MiJ9)
+- [Lakme Absolute Lip Mousse - 202 Pink Veil](https://www.indiangoods.shop/products/lakme-absolute-lip-mousse-202-pink-veil)
+  Price: $17.35 USD
+- [Lakme Absolute Skin Dew Satin Lipstick - 206 Pink Flush](https://www.indiangoods.shop/products/lakme-absolute-skin-dew-satin-lipstick-206-pink-flush)
+  Price: $18.31 USD
+- [The Wellness Shop Oil Control Face Wash](https://www.indiangoods.shop/products/the-wellness-shop-oil-control-face-wash)
+  Price: $19.80 USD
+[List Continued](https://www.indiangoods.shop/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NzQwNjQ5MzA0MjI2LCJsYXN0X3ZhbHVlIjoiODc0MDY0OTMwNDIyNiJ9)
 
 ## Collections
 
 - [Himalaya Herbals](https://www.indiangoods.shop/collections/himalaya-products)
   Total Products: 399
 - [Health & Wellness](https://www.indiangoods.shop/collections/health-wellness)
-  Total Products: 22853
+  Total Products: 22878
 - [Kottakkal Arya Vaidya Sala](https://www.indiangoods.shop/collections/kottakkal-arya-vaidya-sala)
   Total Products: 351
 - [Beauty & Personal Care](https://www.indiangoods.shop/collections/beauty-personal-care)
@@ -15165,11 +15157,11 @@
 - [Homeopathy Products](https://www.indiangoods.shop/collections/homeopathy-products)
   Total Products: 6114
 - [Ayurvedic Products](https://www.indiangoods.shop/collections/ayurvedic-products)
-  Total Products: 15746
+  Total Products: 15765
 - [Food](https://www.indiangoods.shop/collections/food)
   Total Products: 14181
 - [all](https://www.indiangoods.shop/collections/all)
-  Total Products: 50040
+  Total Products: 50011
 - [Baby & Kids](https://www.indiangoods.shop/collections/baby-kids)
   Total Products: 1532
 - [Dhootapapeswar](https://www.indiangoods.shop/collections/dhootapapeswar)
@@ -15243,9 +15235,9 @@
 - [Ayurvedic Balms](https://www.indiangoods.shop/collections/ayurvedic-balms)
   Total Products: 90
 - [Ayurvedic Capsules](https://www.indiangoods.shop/collections/ayurvedic-capsules)
-  Total Products: 2571
+  Total Products: 2574
 - [Ayurvedic Churna](https://www.indiangoods.shop/collections/ayurvedic-churna)
-  Total Products: 1295
+  Total Products: 1296
 - [Chyawanprash](https://www.indiangoods.shop/collections/chyawanprash)
   Total Products: 130
 - [Ayurvedic Creams](https://www.indiangoods.shop/collections/ayurvedic-creams)
@@ -15259,21 +15251,21 @@
 - [Ayurvedic Granules](https://www.indiangoods.shop/collections/ayurvedic-granules)
   Total Products: 61
 - [Ayurvedic Gummies](https://www.indiangoods.shop/collections/ayurvedic-gummies)
-  Total Products: 92
+  Total Products: 93
 - [Ayurvedic Kits](https://www.indiangoods.shop/collections/ayurvedic-kits)
-  Total Products: 81
+  Total Products: 82
 - [Ayurvedic Massage Oils](https://www.indiangoods.shop/collections/ayurvedic-massage-oils)
   Total Products: 174
 - [Ayurvedic Oils](https://www.indiangoods.shop/collections/ayurvedic-oils)
-  Total Products: 254
+  Total Products: 255
 - [Ayurvedic Powders](https://www.indiangoods.shop/collections/ayurvedic-powders)
-  Total Products: 1723
+  Total Products: 1725
 - [Ayurvedic Protein Powders](https://www.indiangoods.shop/collections/ayurvedic-protein-powders)
   Total Products: 67
 - [Ayurvedic Syrups](https://www.indiangoods.shop/collections/ayurvedic-syrups)
-  Total Products: 2019
+  Total Products: 2023
 - [Ayurvedic Tablets](https://www.indiangoods.shop/collections/ayurvedic-tablets)
-  Total Products: 3979
+  Total Products: 3986
 - [Ayurvedic Thailam](https://www.indiangoods.shop/collections/ayurvedic-thailam)
   Total Products: 410
 - [Ayurvedic Bhasma](https://www.indiangoods.shop/collections/ayurvedic-bhasma)
@@ -15309,7 +15301,7 @@
 - [Unani Tablets](https://www.indiangoods.shop/collections/unani-tablets)
   Total Products: 121
 - [Unani Products](https://www.indiangoods.shop/collections/unani-products)
-  Total Products: 860
+  Total Products: 861
 - [Hair Care Products](https://www.indiangoods.shop/collections/hair-care-products)
   Total Products: 4736
 - [Conditioners](https://www.indiangoods.shop/collections/conditioners)
@@ -15549,7 +15541,7 @@
 - [Men Face Scrubs](https://www.indiangoods.shop/collections/men-face-scrubs)
   Total Products: 10
 - [Available Products](https://www.indiangoods.shop/collections/available-products)
-  Total Products: 50040
+  Total Products: 50011
 - [Men Face Wash](https://www.indiangoods.shop/collections/men-face-wash)
   Total Products: 69
 - [Men Hair Color](https://www.indiangoods.shop/collections/men-hair-color)
@@ -16033,7 +16025,7 @@
 - [Pankajakasthuri](https://www.indiangoods.shop/collections/pankajakasthuri)
   Total Products: 74
 - [Pentacare Ayurveda](https://www.indiangoods.shop/collections/pentacare-ayurveda)
-  Total Products: 170
+  Total Products: 177
 - [Pragna Herbals](https://www.indiangoods.shop/collections/pragna-herbals)
   Total Products: 29
 - [Prakruti Ayurveda](https://www.indiangoods.shop/collections/prakruti-ayurveda)
@@ -16211,9 +16203,9 @@
 - [Garnier](https://www.indiangoods.shop/collections/garnier)
   Total Products: 83
 - [Top Picks](https://www.indiangoods.shop/collections/top-picks)
-  Total Products: 50040
+  Total Products: 50011
 - [New Arrivals](https://www.indiangoods.shop/collections/new-arrivals)
-  Total Products: 50040
+  Total Products: 50011
 - [Dhootapapeshwar](https://www.indiangoods.shop/collections/dhootapapeshwar)
   Total Products: 255
 - [Reginald Men](https://www.indiangoods.shop/collections/reginald-men)
@@ -16379,7 +16371,7 @@
 - [Subscription Products](https://www.indiangoods.shop/collections/subscription-products)
   Total Products: 6300
 - [Sea Buckthorn Products](https://www.indiangoods.shop/collections/sea-buckthorn-products)
-  Total Products: 32
+  Total Products: 33
 - [Kama Ayurveda](https://www.indiangoods.shop/collections/kama-ayurveda)
   Total Products: 194
 - [Vaseline](https://www.indiangoods.shop/collections/vaseline)
