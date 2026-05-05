@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-22T04:17:36Z
 - Contact Email: sunnymello810@gmail.com
-- Updated At: 2026-04-10T00:00:32.778Z
+- Updated At: 2026-05-05T00:00:40.904Z
 
 ## Products
 
@@ -1943,7 +1943,7 @@
     Availability: Available
     Price: $34.00 USD
 - [Wire Wrpped Bracelet in Antiqued Copper,Adjustable Peridot](https://www.sunvdesigns.com/products/wire-wrpped-bracelet-in-antiqued-copper-adjustable-peridot-bracelet-august-birthstone-copper-bangle-cuff-bracelet-filigree-leaf-bracelet): This beautiful beaded bracelet is hand wire wrapped using semi transparent green Peridot gemstone using genuine copper wires in various gauges, then I  - Sunny Sea Glass Jewelry
-  Updated: 2026-04-01T19:34:09Z
+  Updated: 2026-04-16T23:50:06Z
   Vendor: SunVDesigns
   Product Type: Wire Wrapped Bracelet/Anklet
   Availability: Available
@@ -2512,6 +2512,27 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Sea-Glass-Anklet_-Anklet-in-Gold-Filled_-Beach-Style-Summer-Bracelet_-Beach-Lover-Nautical-Jewelry-Gifts-For-All-Ages_-Ocean-Theme-anklet-My-Store-9929352.jpg?v=1763676685
   Price: $26.95 USD
+- [Opalite Full Moon Tree of Life Necklace in Antiqued copper,Wire](https://www.sunvdesigns.com/products/opalite-full-moon-tree-of-life-necklace-in-antiqued-copper-wire-wrapped-full-moon-tree-of-life-family-tree-of-life-necklace-moon-tree): *Engraving service is not available. This tree of life is made with Opalite Moon using genuine copper wires carefully twisted &amp; wrapped, used the  - Sunny Sea Glass Jewelry
+  Updated: 2026-04-25T23:11:55Z
+  Vendor: SunVDesigns
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/566379d0-il_fullxfull.1792687807_8oj3.jpg?v=1756000978
+  - [17 inch](https://www.sunvdesigns.com/products/opalite-full-moon-tree-of-life-necklace-in-antiqued-copper-wire-wrapped-full-moon-tree-of-life-family-tree-of-life-necklace-moon-tree?variant=42904313266257)
+    Availability: Available
+    Price: $55.95 USD
+  - [18 inch](https://www.sunvdesigns.com/products/opalite-full-moon-tree-of-life-necklace-in-antiqued-copper-wire-wrapped-full-moon-tree-of-life-family-tree-of-life-necklace-moon-tree?variant=42904313364561)
+    Availability: Available
+    Price: $56.95 USD
+  - [20 inch](https://www.sunvdesigns.com/products/opalite-full-moon-tree-of-life-necklace-in-antiqued-copper-wire-wrapped-full-moon-tree-of-life-family-tree-of-life-necklace-moon-tree?variant=42904313462865)
+    Availability: Available
+    Price: $57.95 USD
+  - [22 inch](https://www.sunvdesigns.com/products/opalite-full-moon-tree-of-life-necklace-in-antiqued-copper-wire-wrapped-full-moon-tree-of-life-family-tree-of-life-necklace-moon-tree?variant=42904313561169)
+    Availability: Available
+    Price: $59.95 USD
+  - [24 inch](https://www.sunvdesigns.com/products/opalite-full-moon-tree-of-life-necklace-in-antiqued-copper-wire-wrapped-full-moon-tree-of-life-family-tree-of-life-necklace-moon-tree?variant=42904313659473)
+    Availability: Available
+    Price: $61.95 USD
 - [Green Beach Glass Earrings in Sterling Silver - May Birthstone Sea Glass](https://www.sunvdesigns.com/products/green-beach-glass-earrings-in-sterling-silver-earwires-may-birthstone-sea-glass-earrings-green-sea-glass-dangle-earrings-beach-earrings): Shop beautiful Green Beach Glass Earrings with sterling silver earwires, perfect as May birthstone jewelry. Light green sea glass dangle earrings for a beach-inspired look.
   Updated: 2026-04-01T19:34:12Z
   Vendor: My Store
@@ -3848,7 +3869,7 @@
     Availability: Available
     Price: $54.95 USD
 - [Copper Peridot Tree of Life Necklace Wire Wrapped Copper Tree of life](https://www.sunvdesigns.com/products/copper-peridot-tree-of-life-necklace-wire-wrapped-copper-tree-of-life-necklace-peridot-tree-of-life-pendant-august-birthstone): This unique Tree of life Pendant is wire wrapped with using non tarnish /recycled copper wires in various gauges. Love that gorgeous semi transparent  - Sunny Sea Glass Jewelry
-  Updated: 2026-04-01T19:34:35Z
+  Updated: 2026-04-16T23:50:06Z
   Vendor: SunVDesigns
   Product Type: 
   Availability: Available
@@ -3973,7 +3994,7 @@
     Availability: Available
     Price: $28.00 USD
 - [Deerskin Lace Leather Deerskin Lace 3 mm(1/8") Width, Black, Brown &](https://www.sunvdesigns.com/products/sterling-silver-s-hook-clasp-deerskin-lace-leather-deerskin-lace-3-mm1-8-width-black-brown-turquoise-tan-leather-made-in-usa): This deerskin leather lace is 3 mm wide, lightweight, and strong enough to hold light to medium pendants. Finished with handmade antiqued copper  - Sunny Sea Glass Jewelry
-  Updated: 2026-04-05T08:29:25Z
+  Updated: 2026-04-12T09:12:39Z
   Vendor: My Store
   Product Type: Wire wrapped necklace
   Availability: Available
@@ -5176,23 +5197,23 @@
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Star-Earrings_-Swarovski-Crystal-Star-Earrings_-Crystal-Star-Holiday-Earrings-Sunny-Sea-Glass-Jewelry-10086846.jpg?v=1762486870
   Price: $37.95 USD
 - [Dandelion Heart Charm Lariat Necklace, Real Dandelion Seed Pearl](https://www.sunvdesigns.com/products/dandelion-heart-charm-lariat-necklace-real-dandelion-seed-pearl-silver-lariat-necklace-wish-necklace-hollow-orb-wish-necklace-wish-gift): This pretty necklace is made with 20 mm hand-blown clear glass orb filled with genuine  flower seeds. Make a wish by blowing the seeds off a  - Sunny Sea Glass Jewelry
-  Updated: 2026-04-01T19:34:47Z
+  Updated: 2026-04-30T09:26:39Z
   Vendor: SunVDesigns
   Product Type: Necklace
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/d6c06749-il_fullxfull.992525259_myx0.jpg?v=1756001042
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/IMG_9524.png?v=1777497871
   - [18](https://www.sunvdesigns.com/products/dandelion-heart-charm-lariat-necklace-real-dandelion-seed-pearl-silver-lariat-necklace-wish-necklace-hollow-orb-wish-necklace-wish-gift?variant=42904373690449)
     Availability: Available
-    Price: $49.95 USD
+    Price: $42.95 USD
   - [19](https://www.sunvdesigns.com/products/dandelion-heart-charm-lariat-necklace-real-dandelion-seed-pearl-silver-lariat-necklace-wish-necklace-hollow-orb-wish-necklace-wish-gift?variant=59222903586897)
     Availability: Available
-    Price: $50.95 USD
+    Price: $43.95 USD
   - [20](https://www.sunvdesigns.com/products/dandelion-heart-charm-lariat-necklace-real-dandelion-seed-pearl-silver-lariat-necklace-wish-necklace-hollow-orb-wish-necklace-wish-gift?variant=42904373919825)
     Availability: Available
-    Price: $51.95 USD
+    Price: $44.95 USD
   - [22](https://www.sunvdesigns.com/products/dandelion-heart-charm-lariat-necklace-real-dandelion-seed-pearl-silver-lariat-necklace-wish-necklace-hollow-orb-wish-necklace-wish-gift?variant=42904374149201)
     Availability: Available
-    Price: $53.95 USD
+    Price: $46.95 USD
 - [Leather Bracelet, Magnetic Clasp Leather Bracelet,  Bracelet,](https://www.sunvdesigns.com/products/leather-bracelet-magnetic-clasp-leather-bracelet-pearl-bracelet-pearl-leather-bracelet-leather-jewelry-bracelet-for-mom-and-granma): This Light weight lavender leather 6 to 7 mm freshwater white pearl with accented with Swarovski crystals  silver beads. This Bracelet is unique  - Sunny Sea Glass Jewelry
   Updated: 2026-04-01T19:34:47Z
   Vendor: Sunny Sea Glass Jewelry
@@ -5979,24 +6000,6 @@
   - [Saddle Tan DS Leather](https://www.sunvdesigns.com/products/malachite-pendant-necklace-in-antiqued-copper-may-birthstone-green-malachite-jewelry-copy?variant=58954511810641)
     Availability: Available
     Price: $50.00 USD
-- [Wire Wrapped Malachite Necklace in Antiqued Copper](https://www.sunvdesigns.com/products/malachite-pendant-necklace-in-antiqued-copper-may-birthstone-green-malachite-jewelry-copy-1): This listing is for the ONE Amazing beautiful dark green wire wrapped Natural Malachite Necklace in Antiqued Copper wires. This unique/beautiful  - Sunny Sea Glass Jewelry
-  Updated: 2026-04-01T19:34:55Z
-  Vendor: SunVDesigns
-  Product Type: Wire wrapped necklace
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/IMG-7241.heic?v=1768402914
-  - [Ant. copper chain](https://www.sunvdesigns.com/products/malachite-pendant-necklace-in-antiqued-copper-may-birthstone-green-malachite-jewelry-copy-1?variant=58956571639889)
-    Availability: Available
-    Price: $45.00 USD
-  - [Black Deerskin Leather](https://www.sunvdesigns.com/products/malachite-pendant-necklace-in-antiqued-copper-may-birthstone-green-malachite-jewelry-copy-1?variant=58956571672657)
-    Availability: Available
-    Price: $50.00 USD
-  - [Choco.Brown Leather](https://www.sunvdesigns.com/products/malachite-pendant-necklace-in-antiqued-copper-may-birthstone-green-malachite-jewelry-copy-1?variant=58956571705425)
-    Availability: Available
-    Price: $50.00 USD
-  - [Saddle Tan Leather](https://www.sunvdesigns.com/products/malachite-pendant-necklace-in-antiqued-copper-may-birthstone-green-malachite-jewelry-copy-1?variant=58956571738193)
-    Availability: Available
-    Price: $50.00 USD
 - [Wire Wrapped Carnelian Heart Necklace, Copper Pendant, Healing Gemstone](https://www.sunvdesigns.com/products/wire-wrapped-carnelian-heart-necklace-copper-pendant-healing-gemstone): This listing is for the vibrant wire wrapped heart shaped Carnelian gemstone in natural copper wires.This pendant comes with your choice of chain. The pendant measures 30mm from the top of the bail to the bottom of the pendant .78 inch(20mm) across.* I have two pendants available. You will receive one of them.If you choose leather, you will receive 1.5 mm black leather.***About CARNEILAN GENSTONE: It is sought to bring bold energy, warmth, and a joy that lingers as much as it empowers and stimulates. It's known for being a stone of courage, endurance, energy. This is a powerhouse for success and one of the luckiest good luck charms known to humans.*To take care of all your copper jewelry, it may get darker over the time if expose to water/moisture. You can simply clean it with a polishing cloth which will go back to its original condition easily.Thank you very much for visiting my shop.Please contact me if you have any questions.It is shipped in a gift box
   Updated: 2026-04-01T19:34:55Z
   Vendor: SunVDesigns
@@ -6045,13 +6048,6 @@
   - [24 inch / Crystal heart](https://www.sunvdesigns.com/products/wired-heart-pendant-necklace-in-copper-valentine-necklace-heart-crystal-necklace?variant=58971399422033)
     Availability: Available
     Price: $26.95 USD
-- [Blue Sea Glass leather choker Necklace, coastal necklace](https://www.sunvdesigns.com/products/sea-glass): Discover the understated elegance of our Blue Sea Glass Leather Choker. Crafted from cultured sea glass in rich ocean blue tones. This piece features a sleek 1.5mm black leather cord with an adjustable sliding knot that fits 15 to 27 inches—perfect for layering or wearing solo. Versatile enough for any gender, this coastal necklace bridges artisan craftsmanship with everyday wearability. Ships in one to two days. Thanks for visiting my shop. Any questions, email me.
-  Updated: 2026-04-01T19:34:56Z
-  Vendor: SunVDesigns
-  Product Type: Sea glass Necklace
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/IMG-8738.png?v=1774962615
-  Price: $22.95 USD
 - [Angel Sea Glass Necklace](https://www.sunvdesigns.com/products/angel-sea-glass-necklace): Embrace the beauty of the Angel Sea Glass Necklace, a perfect blend of elegance and personal touch. This customizable piece, available in an array of vibrant colors, is ideal for significant moments like baptisms or first communions. Make it yours with an initial letter and celebrate life's milestones with style!. No.1: Frosted white, No.2: Aqua Blue, No.3: Periwinkle, No.4: Peridot green, No.5: Pacific blue The pendant comes on a 20 inch silver filled sturdy chain. *Please email me with the desired initial letter if you wish to personalize. * Matching earrings are available: www.sunvdesigns.com/products/angel-dangling-earrings Thank you for visiting my shop.
   Updated: 2026-04-01T19:34:56Z
   Vendor: SunVDesigns
@@ -6107,43 +6103,427 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/1EDD8302-5584-4A69-8A42-FCBB79887EB5.png?v=1774928436
   Price: $19.95 USD
-[List Continued](https://www.sunvdesigns.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTc0MjIzOTgwMTQyNSwibGFzdF92YWx1ZSI6IjE1NzQyMjM5ODAxNDI1In0=)
+- [Minimalist Aqua Sea Glass Bracelet or Anklet, Coastal Jewelry, Bestie Gifts, Surfer's Bracelet](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet): This listing is for the minimalist cultured sea glass adjustable bracelet and or anklet. Lightweight & fun to wear all year around. Can be layered with other bracelets.*These pretty & cute minimalist bracelet/anklets are made with cultured free form sea glass beads accented with Swarovski white crystal pearls. They are strung on a durable S-Lon cord. ***Materials:*Cultured Sea Glass*S-Lon cords*Swarovski White pearls* .925 Sterling Silver Accent beads. .Perfect gift for mom, grandma, aunts, new mom's, sisters, best friends, coworkers....* Sea glass size, shape and shade may vary slightly, I will pick the best color & shape as close to the photos shown.✧ Sizing & Measurements ✧* Adjustable from 5.5 - 9.5 inches to fit most wrist sizes* Closure: Slide Lock knot* Custom sizing available on request.Macrame string material: These bracelets are made with S-Lon Tex which is plied & bonded Nylon Bead Cord. These cords are well known for color, texture & durability of cords.S-Lon cord, also known as Super Lon, is a twisted nylon multi-filament cord used in jewelry making, bead stringing, and micro-macrame. It's known for its strength, bulk, and ability to avoid stretching, making it suitable for knotting and detailed projects.Bracelet cord Width: 5 mmBead size: 18 x 14 mm***WRIST SIZE: Please choose your actual "wrist size" in drop down menu. They will have some room to be adjustable by pulling from each ends.Bracelet size guide for women.Small Size - 6.0 to 6.5"Medium Size - 6.75” - 7.0"Large Size - 7.5" to 8.0"Please refer to the last photo sizing chart for the men's size.Easy Bracelet care instructions will be included with the order.If you are ordering multiple items, please indicate if the items are all gift.Thanks for visiting my shop.
+  Updated: 2026-05-01T06:58:28Z
+  Vendor: SunVDesigns
+  Product Type: Sea Glass Bracelet/Anklet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Photoroom_20260412_145137.png?v=1776478957
+  - [5.5 to 7 inch / Blue / Black](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353856311377)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Blue / White](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353982599249)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Blue / Light Grey](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353982632017)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Blue / Turquoise blue](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353982664785)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Blue / Brown](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353982697553)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Blue / Pink](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353982730321)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Blue / Purple](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353982763089)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Pink / Black](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353957826641)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Pink / White](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353982795857)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Pink / Light Grey](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353982828625)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Pink / Turquoise blue](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353982861393)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Pink / Brown](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353982894161)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Pink / Pink](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353982926929)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Pink / Purple](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353982959697)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Periwinkle / Black](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353957859409)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Periwinkle / White](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353982992465)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Periwinkle / Light Grey](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353983025233)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Periwinkle / Turquoise blue](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353983058001)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Periwinkle / Brown](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353983090769)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Periwinkle / Pink](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353983123537)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Periwinkle / Purple](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353983156305)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Green / Black](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353957892177)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Green / White](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353983189073)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Green / Light Grey](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353983221841)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Green / Turquoise blue](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353983254609)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Green / Brown](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353983287377)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Green / Pink](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353983320145)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Green / Purple](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353983352913)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Aqua Blue / Black](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353957924945)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Aqua Blue / White](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353983385681)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Aqua Blue / Light Grey](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353983418449)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Aqua Blue / Turquoise blue](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353983451217)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Aqua Blue / Brown](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353983483985)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Aqua Blue / Pink](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353983516753)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Aqua Blue / Purple](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353983549521)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Blue / Black](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353856344145)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Blue / White](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353983778897)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Blue / Light Grey](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353983811665)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Blue / Turquoise blue](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353983844433)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Blue / Brown](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353983877201)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Blue / Pink](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353983909969)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Blue / Purple](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353983942737)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Pink / Black](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353957990481)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Pink / White](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353983975505)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Pink / Light Grey](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353984008273)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Pink / Turquoise blue](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353984041041)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Pink / Brown](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353984073809)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Pink / Pink](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353984106577)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Pink / Purple](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353984139345)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Periwinkle / Black](https://www.sunvdesigns.com/products/minimalist-adjustable-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet?variant=59353958023249)
+    Availability: Available
+    Price: $9.95 USD
+- [Sea Glass Anklet, Coastal Jewelry, Bestie Gifts, Surfer's Bracelet](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy): This listing is for the minimalist cultured sea glass adjustable bracelet and or anklet. Lightweight & fun to wear all year around. Can be layered with other bracelets.*These pretty & cute minimalist bracelet/anklets are made with cultured free form sea glass beads accented with Swarovski white crystal pearls. They are strung on a durable S-Lon cord. ***Materials:*Cultured Sea Glass*S-Lon cords*Swarovski White pearls* .925 Sterling Silver Accent beads. .Perfect gift for mom, grandma, aunts, new mom's, sisters, best friends, coworkers....* Sea glass size, shape and shade may vary slightly, I will pick the best color & shape as close to the photos shown.✧ Sizing & Measurements ✧* Adjustable from 5.5 - 9.5 inches to fit most wrist sizes* Closure: Slide Lock knot* Custom sizing available on request.Macrame string material: These bracelets are made with S-Lon Tex which is plied & bonded Nylon Bead Cord. These cords are well known for color, texture & durability of cords.S-Lon cord, also known as Super Lon, is a twisted nylon multi-filament cord used in jewelry making, bead stringing, and micro-macrame. It's known for its strength, bulk, and ability to avoid stretching, making it suitable for knotting and detailed projects.Bracelet cord Width: 5 mmBead size: 18 x 14 mm***WRIST SIZE: Please choose your actual "wrist size" in drop down menu. They will have some room to be adjustable by pulling from each ends.Bracelet size guide for women.Small Size - 6.0 to 6.5"Medium Size - 6.75” - 7.0"Large Size - 7.5" to 8.0"Please refer to the last photo sizing chart for the men's size.Easy Bracelet care instructions will be included with the order.If you are ordering multiple items, please indicate if the items are all gift.Thanks for visiting my shop.
+  Updated: 2026-05-01T06:58:07Z
+  Vendor: SunVDesigns
+  Product Type: Sea Glass Bracelet/Anklet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/E823D2E0-7C17-4F3F-8610-5A953A2B3F24.png?v=1776769981
+  - [5.5 to 7 inch / Blue / Black](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376770121809)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Blue / White](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376770154577)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Blue / Light Grey](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376770187345)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Blue / Turquoise blue](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376770220113)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Blue / Brown](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376770252881)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Blue / Pink](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376770285649)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Blue / Purple](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376770318417)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Pink / Black](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376770351185)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Pink / White](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376770383953)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Pink / Light Grey](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376770416721)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Pink / Turquoise blue](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376770449489)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Pink / Brown](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376770482257)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Pink / Pink](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376770515025)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Pink / Purple](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376770547793)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Periwinkle / Black](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376770580561)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Periwinkle / White](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376770613329)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Periwinkle / Light Grey](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376770646097)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Periwinkle / Turquoise blue](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376770678865)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Periwinkle / Brown](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376770711633)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Periwinkle / Pink](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376770744401)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Periwinkle / Purple](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376770777169)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Green / Black](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376770809937)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Green / White](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376770842705)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Green / Light Grey](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376770875473)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Green / Turquoise blue](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376770908241)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Green / Brown](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376770941009)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Green / Pink](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376770973777)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Green / Purple](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376771006545)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Aqua Blue / Black](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376771039313)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Aqua Blue / White](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376771072081)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Aqua Blue / Light Grey](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376771104849)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Aqua Blue / Turquoise blue](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376771137617)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Aqua Blue / Brown](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376771170385)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Aqua Blue / Pink](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376771203153)
+    Availability: Available
+    Price: $9.95 USD
+  - [5.5 to 7 inch / Aqua Blue / Purple](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376771235921)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Blue / Black](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376771268689)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Blue / White](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376771301457)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Blue / Light Grey](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376771334225)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Blue / Turquoise blue](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376771366993)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Blue / Brown](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376771399761)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Blue / Pink](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376771432529)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Blue / Purple](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376771465297)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Pink / Black](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376771498065)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Pink / White](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376771530833)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Pink / Light Grey](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376771563601)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Pink / Turquoise blue](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376771596369)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Pink / Brown](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376771629137)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Pink / Pink](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376771661905)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Pink / Purple](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376771694673)
+    Availability: Available
+    Price: $9.95 USD
+  - [7 to 8 inch / Periwinkle / Black](https://www.sunvdesigns.com/products/minimalist-aqua-sea-glass-bracelet-or-anklet-coastal-jewelry-bestie-gifts-surfers-bracelet-copy?variant=59376771727441)
+    Availability: Available
+    Price: $9.95 USD
+- [Green Beach Glass Macrame Bracelet, Beaded Coastal Jewelry, Beach gift](https://www.sunvdesigns.com/products/green-sea-glass-bracelet-adjustable-sea-glass-macrame-bracelets-nautical-sea-glass-bracelet-beach-lovers-gift-copy): Own a truly one-of-a-kind treasure. Because this piece features genuine, surf-tumbled sea glass shaped by the ocean itself, no two are ever alike—and I have only one of this exact beauty available. This bracelet is handcrafted with natural sea glass and macrame cord, capturing the essence of coastal living. The sea glass measures 23 x 16 mm and is carefully drilled and woven into an adjustable macrame design. The sliding tie closure fits wrists from 5.5 to 10 inches, with 1 inch of cord at each end for easy adjustment. Perfect as a gift for the beach lover in your life or a treasured treat for yourself. Materials: * Natural Genuine sea glass * Korean waxed polyester cord (water resistant) Materials: Natural Green Sea glass Korean waxed polyester cord. water resistant
+  Updated: 2026-04-24T07:16:08Z
+  Vendor: SunVdesigns
+  Product Type: Sea Glass Bracelet/Anklet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/IMG_9195.png?v=1776533757
+  Price: $22.95 USD
+- [Blue Beach Glass leather choker Adjustable Pendant Necklace, Surfer's Adjustable Jewelry](https://www.sunvdesigns.com/products/blue-sea-glass-leather-choker-necklace-coastal-necklace-copy): Discover the understated elegance of our Blue Sea Glass Leather Choker. Crafted from cultured sea glass in rich ocean blue tones. This piece features a sleek 1.5mm black leather cord with an adjustable sliding knot that fits 15 to 27 inches—perfect for layering or wearing solo. Versatile enough for any gender, this coastal necklace bridges artisan craftsmanship with everyday wearability. *Materials: Cultured Sea Glass measures 1-1/8 inch x3/4 inch wide, 0.7 mm in thick Greek Leather 1.5 mm in thickness Ships in one to two days. Thanks for visiting my shop. Any questions, email me.
+  Updated: 2026-04-24T07:15:27Z
+  Vendor: SunVDesigns
+  Product Type: Sea glass Necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/IMG_9290.png?v=1776791444
+  Price: $19.95 USD
+- [Sea Glass Leather choker Adjustable Pendant Necklace, coastal Jewelry](https://www.sunvdesigns.com/products/blue-beach-glass-leather-choker-adjustable-pendant-necklace-coastal-jewelry-surfers-adjustable-pendant-copy): Discover the understated elegance of our Blue Sea Glass Leather Choker. Crafted from cultured sea glass in rich ocean blue tones. This piece features a sleek 1.5mm black leather cord with an adjustable sliding knot that fits 15 to 27 inches—perfect for layering or wearing solo. Versatile enough for any gender, this coastal necklace bridges artisan craftsmanship with everyday wearability. *Materials: Cultured Sea Glass measures 1-1/8 inch x3/4 inch wide, 0.7 mm in thick Greek Leather 1.5 mm in thickness Ships in one to two days. Thanks for visiting my shop. Any questions, email me.
+  Updated: 2026-04-24T07:13:50Z
+  Vendor: SunVDesigns
+  Product Type: Sea glass Necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/IMG_9394.png?v=1776891922
+  Price: $19.95 USD
+- [Frosted Sea Glass Turtle Pendant Necklace](https://www.sunvdesigns.com/products/frosted-sea-glass-turtle-pendant-necklace): This listing is for the cultured Sea glass Turtle adjustable Necklace.Carry a piece of ocean magic with you. *This is my collection: Cultured Sea glass jewelry. The same soft finish as found in natural sea glass.This handmade necklace features a semi-transparent blue sea glass turtle, slightly semi-opaque Aqua turtle, celebrated across cultures as guardian of the tides and a symbol of ancient wisdom. This necklace made with Natural Aquamarine gemstones -the stone of Courage & Calm and shell beads for truly organic feel. This necklace is adjustable tied with 6 mm sea glass bead.*Materials:Sea Turtles: Cultured Sea Glass Sea turtle measures 20x15mmCord: S-Lon cord:Aquamarine 4 mmShell beads: 4 to 5 mm rondelle*About S-Lon cord: S-Lon cord, also known as Super Lon, is a twisted nylon multi-filament cord used in jewelry making, bead stringing, and micro-macrame. It's known for its strength, bulk, and ability to avoid stretching, making it suitable for knotting and detailed projects.P.S Photos shown with #4 and 8 cord. If you prefer in other cord colors, please enter number of your desired cord color & sea glass color, otherwise you will receive this colored bracelet. Thank you.Don't forget to browse my other beautiful items in my shop.
+  Updated: 2026-04-27T08:31:01Z
+  Vendor: SunVDesigns
+  Product Type: Sea glass Necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/IMG-9474.png?v=1777235366
+  - [Pacific Blue / 15 inch](https://www.sunvdesigns.com/products/frosted-sea-glass-turtle-pendant-necklace?variant=59414436479057)
+    Availability: Available
+    Price: $22.95 USD
+  - [Pacific Blue / 17 inch](https://www.sunvdesigns.com/products/frosted-sea-glass-turtle-pendant-necklace?variant=59414512009297)
+    Availability: Not Available
+    Price: $22.95 USD
+  - [Pacific Blue / 19 inch](https://www.sunvdesigns.com/products/frosted-sea-glass-turtle-pendant-necklace?variant=59414512042065)
+    Availability: Not Available
+    Price: $22.95 USD
+  - [Pacific Blue / 21 inch](https://www.sunvdesigns.com/products/frosted-sea-glass-turtle-pendant-necklace?variant=59414512074833)
+    Availability: Not Available
+    Price: $22.95 USD
+  - [Pacific Blue / 23 inch](https://www.sunvdesigns.com/products/frosted-sea-glass-turtle-pendant-necklace?variant=59414512107601)
+    Availability: Not Available
+    Price: $22.95 USD
+  - [Aqua / 15 inch](https://www.sunvdesigns.com/products/frosted-sea-glass-turtle-pendant-necklace?variant=59414436511825)
+    Availability: Available
+    Price: $22.95 USD
+  - [Aqua / 17 inch](https://www.sunvdesigns.com/products/frosted-sea-glass-turtle-pendant-necklace?variant=59414512140369)
+    Availability: Not Available
+    Price: $22.95 USD
+  - [Aqua / 19 inch](https://www.sunvdesigns.com/products/frosted-sea-glass-turtle-pendant-necklace?variant=59414512173137)
+    Availability: Not Available
+    Price: $22.95 USD
+  - [Aqua / 21 inch](https://www.sunvdesigns.com/products/frosted-sea-glass-turtle-pendant-necklace?variant=59414512205905)
+    Availability: Not Available
+    Price: $22.95 USD
+  - [Aqua / 23 inch](https://www.sunvdesigns.com/products/frosted-sea-glass-turtle-pendant-necklace?variant=59414512238673)
+    Availability: Not Available
+    Price: $22.95 USD
+- [Aqua Sea Glass Earrings in Sterling Silver, Beach Jewelry, Beach Wedding Jewelry](https://www.sunvdesigns.com/products/aqua-sea-glass-earrings-in-sterling-silver-beach-jewelry): These sea glass beauties are perfect splash of color for your collection. Ocean inspired beach jewelry. Grab these minimalist earrings!Designed for the woman who loves a "casual to elegant" look, these earrings transition perfectly from a breezy day at the beach to a sophisticated evening out. Each teardrop-shaped glass gem is carefully hand-wrapped in silver-filled wire, creating a look that is both organic and refined.Choose sterling silver, crystal, or pearl accent top finish in the drop down menu.Why You’ll Love Them:*Refreshing Color: Aqua sea glass evokes the clarity of tropical waters and the calming rhythm of the tides.*Artisanal Quality: Hand-wrapped with durable silver-filled wire, ensuring a high-quality *finish that won't flake or rub off like plated alternatives.Comfort First: Finished with solid .925 Sterling Silver earwires, making them hypoallergenic and safe for sensitive ears.Versatile Length: Dangles approximately about 1 inch from the earwires—the ideal length for framing the face without feeling heavy.Product Details:Materials: cultured sea glass, sterling silver beads .925 Sterling Silver earwires.Sea glass bead size: 6 to 10 mm freeform sea glass beads.Total Length: Approx. 25mm (1 inches) from the bottom of the earwires.Packaging & Gifting:Your earrings will arrive in a gift box and ready for gifting. Whether it’s a treat for yourself or a thoughtful gift for a beach lover, these earrings are sure to become a jewelry box favorite.Thank you for visiting my shop.*Engraving service is not available.
+  Updated: 2026-05-03T12:36:02Z
+  Vendor: SunVDesigns
+  Product Type: Sea Glass Earrings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0691/3559/7649/files/Photoroom_20260502_183823.jpg?v=1777768501
+  - [Silver Top](https://www.sunvdesigns.com/products/aqua-sea-glass-earrings-in-sterling-silver-beach-jewelry?variant=59453327212625)
+    Availability: Available
+    Price: $22.95 USD
+  - [Crystal top](https://www.sunvdesigns.com/products/aqua-sea-glass-earrings-in-sterling-silver-beach-jewelry?variant=59453327245393)
+    Availability: Available
+    Price: $22.95 USD
+  - [Pearl Top](https://www.sunvdesigns.com/products/aqua-sea-glass-earrings-in-sterling-silver-beach-jewelry?variant=59453327278161)
+    Availability: Available
+    Price: $22.95 USD
+[List Continued](https://www.sunvdesigns.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTc4NTM1NTY0MDkxMywibGFzdF92YWx1ZSI6IjE1Nzg1MzU1NjQwOTEzIn0=)
 
 ## Collections
 
 - [Sea Glass Necklace - Sunny Sea Glass Jewelry](https://www.sunvdesigns.com/collections/sea-glass-necklace): - Sunny Sea Glass Jewelry
-  Updated: 2026-04-02T01:21:29Z
-  Total Products: 34
+  Updated: 2026-04-29T16:41:10Z
+  Total Products: 37
 - [Sea Glass Earrings - Sunny Sea Glass Jewelry](https://www.sunvdesigns.com/collections/sea-glass-earrings): - Sunny Sea Glass Jewelry
-  Updated: 2026-04-02T01:21:29Z
-  Total Products: 62
+  Updated: 2026-05-03T00:38:09Z
+  Total Products: 63
 - [Sea Glass Bracelets/Anklets - Sunny Sea Glass Jewelry](https://www.sunvdesigns.com/collections/sea-glass-bracelets-anklets): - Sunny Sea Glass Jewelry
-  Updated: 2026-04-02T01:21:29Z
-  Total Products: 11
+  Updated: 2026-04-23T19:16:03Z
+  Total Products: 14
 - [Wire Wrapped Earrings - Sunny Sea Glass Jewelry](https://www.sunvdesigns.com/collections/sea-glass-jewlry): - Sunny Sea Glass Jewelry
   Updated: 2026-04-02T01:21:29Z
   Total Products: 40
 - [Unique Wire Wrapped Necklace Collection](https://www.sunvdesigns.com/collections/wire-wrapped-necklace): Wire Wrapped Opal Necklace, sterling silver with chain, swirl design - Sunny Sea Glass Jewelry
-  Updated: 2026-04-02T01:21:29Z
-  Total Products: 54
+  Updated: 2026-05-02T12:37:46Z
+  Total Products: 55
 - [All Others - Sunny Sea Glass Jewelry](https://www.sunvdesigns.com/collections/all-others): - Sunny Sea Glass Jewelry
-  Updated: 2026-04-02T01:21:29Z
+  Updated: 2026-04-29T21:31:30Z
   Total Products: 10
 - [New Arrivals-SunVDesigns](https://www.sunvdesigns.com/collections/january-specialsj): SunVDesigns
   Updated: 2026-04-02T01:21:29Z
   Total Products: 18
 - [Wire Wrapped Bracelets - Sunny Sea Glass Jewelry](https://www.sunvdesigns.com/collections/wire-wrapped-bracelet-1): - Sunny Sea Glass Jewelry
-  Updated: 2026-04-02T01:21:29Z
+  Updated: 2026-04-17T11:13:27Z
   Total Products: 24
 - [HOLIDAY Jewelry - Sunny Sea Glass Jewelry](https://www.sunvdesigns.com/collections/holiday-jewelry): - Sunny Sea Glass Jewelry
-  Updated: 2026-04-02T01:21:30Z
-  Total Products: 45
+  Updated: 2026-05-03T00:38:09Z
+  Total Products: 52
 - [Crystal  Jewelry - Sunny Sea Glass Jewelry](https://www.sunvdesigns.com/collections/crystal-jewelry): - Sunny Sea Glass Jewelry
   Updated: 2026-04-02T01:21:30Z
   Total Products: 11
 - [Monthly Specials!](https://www.sunvdesigns.com/collections/monthly-specials)
-  Updated: 2026-04-02T01:21:30Z
-  Total Products: 16
+  Updated: 2026-05-03T00:38:09Z
+  Total Products: 24
 
 ## Blogs
 
@@ -6207,6 +6587,63 @@
     Author: Admin
   - [11 Best Sea Glass Jewelry Gifts](https://www.sunvdesigns.com/blogs/news/best-sea-glass-jewelry-gifts): 11 Best Sea Glass Jewelry Gifts
     Updated: 2026-04-08T00:05:27Z
+    Author: Admin
+  - [How to Choose Tree of Life Necklaces](https://www.sunvdesigns.com/blogs/news/how-to-choose-tree-of-life-necklaces): How to Choose Tree of Life Necklaces
+    Updated: 2026-04-10T02:10:33Z
+    Author: Admin
+  - [Birthstone Necklaces That Feel Personal](https://www.sunvdesigns.com/blogs/news/birthstone-necklaces-that-feel-personal): Birthstone Necklaces That Feel Personal
+    Updated: 2026-04-12T01:40:16Z
+    Author: Admin
+  - [Sterling Silver vs Silver Filled Jewelry](https://www.sunvdesigns.com/blogs/news/sterling-silver-vs-silver-filled-jewelry): Sterling Silver vs Silver Filled Jewelry
+    Updated: 2026-04-14T01:40:23Z
+    Author: Admin
+  - [Handmade Anklets for Women That Feel Personal](https://www.sunvdesigns.com/blogs/news/handmade-anklets-for-women): Handmade Anklets for Women That Feel Personal
+    Updated: 2026-04-15T05:30:47Z
+    Author: Admin
+  - [Unlocking the Luminous Energy: The Spiritual Meaning and Benefits of Abalone Shell Jewelry](https://www.sunvdesigns.com/blogs/news/unlocking-the-luminous-energy-the-spiritual-meaning-and-benefits-of-abalone-shell-jewelry)
+    Updated: 2026-04-15T15:09:45Z
+    Author: AI Blog Generator
+  - [Best Jewelry for Beach Vacations](https://www.sunvdesigns.com/blogs/news/best-jewelry-for-beach-vacations): Best Jewelry for Beach Vacations
+    Updated: 2026-04-17T04:10:48Z
+    Author: Admin
+  - [The Smart Shopper's Guide for April 2026](https://www.sunvdesigns.com/blogs/news/the-smart-shoppers-guide-for-april-2026)
+    Updated: 2026-04-17T15:16:42Z
+    Author: AI Blog Generator
+  - [Why One of a Kind Handmade Jewelry Matters](https://www.sunvdesigns.com/blogs/news/why-one-of-a-kind-handmade-jewelry-matters): Why One of a Kind Handmade Jewelry Matters
+    Updated: 2026-04-18T03:00:47Z
+    Author: Admin
+  - [The Enduring Allure of Periwinkle Sea Glass Earrings: Why This Lavender Pair is Perfect for Beach Weddings & Everyday Elegance](https://www.sunvdesigns.com/blogs/news/the-enduring-allure-of-periwinkle-sea-glass-earrings-why-this-lavender-pair-is-perfect-for-beach-weddings-everyday-elegance)
+    Updated: 2026-04-18T14:50:11Z
+    Author: AI Blog Generator
+  - [How to Clean Wire Wrapped Jewelry Safely](https://www.sunvdesigns.com/blogs/news/how-to-clean-wire-wrapped-jewelry-safely): How to Clean Wire Wrapped Jewelry Safely
+    Updated: 2026-04-20T05:10:24Z
+    Author: Admin
+  - [Can Sea Glass Jewelry Get Wet?](https://www.sunvdesigns.com/blogs/news/can-sea-glass-jewelry-get-wet): Can Sea Glass Jewelry Get Wet?
+    Updated: 2026-04-21T15:56:00Z
+    Author: Admin
+  - [Sea Glass vs Gemstone Jewelry](https://www.sunvdesigns.com/blogs/news/sea-glass-vs-gemstone-jewelry): Sea Glass vs Gemstone Jewelry
+    Updated: 2026-04-23T17:16:04Z
+    Author: Admin
+  - [Genuine Versus Cultured Sea Glass](https://www.sunvdesigns.com/blogs/news/genuine-versus-cultured-sea-glass): Genuine Versus Cultured Sea Glass
+    Updated: 2026-04-25T10:52:10Z
+    Author: Admin
+  - [12 Best Beach Wedding Jewelry Ideas](https://www.sunvdesigns.com/blogs/news/best-beach-wedding-jewelry-ideas): 12 Best Beach Wedding Jewelry Ideas
+    Updated: 2026-04-28T04:03:44Z
+    Author: Admin
+  - [Best First Communion Jewelry Gifts](https://www.sunvdesigns.com/blogs/news/best-first-communion-jewelry-gifts): Best First Communion Jewelry Gifts
+    Updated: 2026-04-28T16:01:39Z
+    Author: Admin
+  - [A Guide to Gemstone Pendant Meanings](https://www.sunvdesigns.com/blogs/news/guide-to-gemstone-pendant-meanings): A Guide to Gemstone Pendant Meanings
+    Updated: 2026-05-02T04:09:43Z
+    Author: Admin
+  - [Beyond the Beach: Why Your Hunter Green Macrame Sea Glass Bracelet Is a Year-Round Style Essential](https://www.sunvdesigns.com/blogs/news/beyond-the-beach-why-your-hunter-green-macrame-sea-glass-bracelet-is-a-year-round-style-essential)
+    Updated: 2026-05-02T15:28:50Z
+    Author: AI Blog Generator
+  - [The Unexpected Charm: How to Style Your Seafoam Green Sea Glass Christmas Tree Earrings All Winter Long](https://www.sunvdesigns.com/blogs/news/the-unexpected-charm-how-to-style-your-seafoam-green-sea-glass-christmas-tree-earrings-all-winter-long)
+    Updated: 2026-05-03T23:26:37Z
+    Author: AI Blog Generator
+  - [15 Beach Lover Gift Ideas That Feel Personal](https://www.sunvdesigns.com/blogs/news/beach-lover-gift-ideas): 15 Beach Lover Gift Ideas That Feel Personal
+    Updated: 2026-05-04T00:06:15Z
     Author: Admin
 - [Sea Glass Jewelry: Crafting Unique Coastal Pieces](https://www.sunvdesigns.com/blogs/sea-glass-jewelry-crafting-unique-coastal-pieces)
   - [Coastal Sea Glass Jewelry Gift Idea: Top 10 Unique Beach Lover Picks](https://www.sunvdesigns.com/blogs/sea-glass-jewelry-crafting-unique-coastal-pieces/coastal-sea-glass-jewelry-gift-idea-top-10-unique-beach-lover-picks-833-12)
