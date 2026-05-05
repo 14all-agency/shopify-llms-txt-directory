@@ -9,7 +9,7 @@
 - Created At: 2021-04-29T12:50:47Z
 - Contact Email: info@zorro.lv
 - Contact Phone: +371 24 203 759
-- Updated At: 2026-04-27T00:00:43.025Z
+- Updated At: 2026-05-05T00:00:45.398Z
 
 Zorro.lv ir specializēts Latvijas veikals, kas piedāvā premium un super-premium klases barību suņiem un kaķiem. Uzņēmums izceļas tirgū ar uzsvaru uz bioloģiski piemērotu uzturu ar augstu gaļas saturu un hipoalerģiskām sastāvdaļām, nodrošinot, ka produkti nesatur bieži sastopamas pildvielas, piemēram, graudus, glutēnu, kukurūzu un soju. Rūpīgi atlasītajā klāstā ietilpst augstākās klases Eiropas zīmoli, tostarp Essential Foods, Naturea, Yora, McAdams un Leitwolf, kā arī dabīgi kārumi un kvalitatīvi aksesuāri, piemēram, organiskas kažokādas rotaļlietas.
 
@@ -86,7 +86,6 @@ Zorro.lv ir specializēts Latvijas veikals, kas piedāvā premium un super-premi
 - [YORA insektu ( kukaiņu ) super barība pieaugušiem visu šķirņu suņiem ALL BREEDS](https://zorro.lv/products/yora-insektu-bariba-visu-skirnu-suniem)
 - [YORA insektu ( kukaiņu ) super barība mazo šķirņu suņiem SMALL BREEDS COMPLETE](https://zorro.lv/products/yora-insektu-kukainu-super-bariba-mazo-skirnu-suniem)
 - [YORA insektu ( kukaiņu ) superbarība pieaugušiem lielo šķirņu suņiem LARGE BREEDS 12kg](https://zorro.lv/products/yora-insektu-kukainu-superbariba-pieaugusiem-lielo-skirnu-suniem)
-- [YORA insektu (kukaiņu) super barība pieaugušiem kaķiem un kaķēniem SUPERFOOD](https://zorro.lv/products/yora-insektu-kukainu-super-bariba-pieaugusiem-kakiem-complete-)
 - [YORA insektu (kukaiņu ) super barība kucēniem PUPPY](https://zorro.lv/products/yora-insektu-kukainu-super-bariba-kuceniem-puppy-complete)
 - [Antialerģisks, higēnisks, nekairinošs un neslīdošs paklājiņš- gulta](https://zorro.lv/products/antialergisks-higenisks-nekairinoss-un-neslidoss-paklajins-gulta)
 - [YORA motivācijas veselīgie kārumi REWARDS ar āboliem un burkāniem 100g](https://zorro.lv/products/motivacijas-veseligie-karumi-rewards)
@@ -114,6 +113,7 @@ Zorro.lv ir specializēts Latvijas veikals, kas piedāvā premium un super-premi
 - [ESSENTIAL kārums suņiem COW DELIGHTS 2 gab.](https://zorro.lv/products/essential-karums-suniem-cow-delights)
 - [Urban Style™ kaklasiksna ar atstarojošiem elementiem BLACK](https://zorro.lv/products/urban-style™-kaklasiksna-ar-atstarojosiem-elementiem)
 - [Urban Style™ kaklasiksna ar atstarojošiem elementiem RED](https://zorro.lv/products/urban-style™-kaklasiksna-ar-atstarojosiem-elementiem-2)
+- [Moderna dizaina bļoda Vega bowl balta](https://zorro.lv/products/moderna-dizaina-bloda-vega)
 - [Moderna dizaina bļoda Vega Bowl Cool Grey](https://zorro.lv/products/moderna-dizaina-bloda-vega-bowl-cool-grey)
 - [YORA insektu ( kukaiņu ) konservs ar bietēm un kāļiem 390g](https://zorro.lv/products/yora-insektu-konservi)
 - [ESSENTIAL konservi suņiem ar pīles un vistas gaļu CONTOUR 400 g](https://zorro.lv/products/essential-konservi-suniem-ar-piles-un-vistas-galu-contour-400-g)
@@ -130,7 +130,6 @@ Zorro.lv ir specializēts Latvijas veikals, kas piedāvā premium un super-premi
 - [ESSENTIAL JAGUAR konservs kaķiem ar vistas fileju un lasi 85 g](https://zorro.lv/products/essential-jaguar-konservs-ar-vistas-fileju-un-lasi-85-g)
 - [ESSENTIAL PANTHER  konservs kaķiem ar vistas fileju un tītara gaļu 85 g](https://zorro.lv/products/essential-panther-konservs-kakiem-ar-vistas-fileju-un-titara-galu-85-g)
 - [ESSENTIAL The LITTLE LION konservs kaķēniem ar vistas fileju un lasi 85 g](https://zorro.lv/products/essential-the-little-lion-konservs-ar-vistas-fileju-un-lasi-85-g)
-- [Liofilizēti vistas gaļas krūtiņas uzkodu kubiciņi Kitty Beat Chicken Pure](https://zorro.lv/products/vistas-galas-uzkodu-kubicini-kitty-beat-chicken-pure)
 - [Augstvērtīga barība 59% ar cāļa gaļu un olām pieaugušiem suņiem Naturea TERRA](https://zorro.lv/products/augstvertiga-bariba-59-ar-cala-galu-un-olam-pieaugusiem-suniem-naturea-terra)
 - [ESSENTIAL konservu vāciņš](https://zorro.lv/products/essential-konservu-vacins)
 - [90% pīle, cālis, lasis, forele, olas ESSENTIAL bezgraudu barība mazo šķirņu kucēniem The BEGINNING-10 KG](https://zorro.lv/products/copy-of-85-galas-pile-calis-lasis-forele-olas-super-premium-bezgraudu-bariba-mazo-skirnu-kuceniem-the-beginning)
@@ -153,9 +152,6 @@ Zorro.lv ir specializēts Latvijas veikals, kas piedāvā premium un super-premi
 - [McAdams gardumi svaigai elpai ar 50% brīvo turēšanas apstākļu tītaru gaļu FRESH BREATH 150 g](https://zorro.lv/products/mcadams-gardumi-svaigai-elpai-ar-50-brivo-turesanas-apstaklu-titaru-galu)
 - [McAdams nomierinošie gardumi suņiem ar 50% brīvo turēšanas apstākļu tītaru gaļu BEDTIME 150 g](https://zorro.lv/products/mcadams-nomierinosie-gardumi-suniem-ar-50-brivo-turesanas-apstaklu-titaru-galu)
 - [McAdams gardumi ar 50% tītara cepeti no brīvo turēšanas apstākļu tītara gaļu, dzērvenēm un salviju Cranberries&Sage 150g](https://zorro.lv/products/mcadams-gardumi-ar-50-titara-cepeti-no-brivo-turesanas-apstaklu-titara-galu-dzervenem-un-salviju)
-- [Svētku Kēksiņš suņiem no maiznīcas Itālijā CANETTONE GOURMET ORANGE - AR PĪLES GAĻU 125g](https://zorro.lv/products/il-canettone-gourmet-ar-piles-galu-orange-125g)
-- [Svētku Kēksiņš suņiem no maiznīcas Itālijā CANETTONE GOURMET WHITE - AR LASI 125g](https://zorro.lv/products/keksins-suniem-canettone-gourmet-white-ar-lasi-125g)
-- [Svētku Kēksiņš suņiem no maiznīcas Itālijā CANETTONE GOURMET GREEN - AR ŠĶINĶI 125g](https://zorro.lv/products/keksins-suniem-no-maiznicas-italija-canettone-gourmet-ar-piles-galu-orange-125g-copy)
 - [McAdams labas uzvedības apbalvošanas gardumi ar 50% tītara cepeti no brīvo turēšanas apstākļu tītara gaļu un ķirbi 150 g](https://zorro.lv/products/mcadams-gardumi-ar-50-titara-cepeti-no-brivo-turesanas-apstaklu-titara-galu-dzervenem-un-salviju-cranberries-sage-copy)
 - [WOOLFSNACKS gardumi ar pīles gaļu DUCK CHUNKIES](https://zorro.lv/products/woolfsnacks-gardumi-ar-trusa-galu-rabbit-chunkies-copy)
 - [ESSENTIAL Bezgraudu graužamie kārumi zobus attīroši Liellops un Trusis 200g](https://zorro.lv/products/essential-bezgraudu-grauzamie-karumi-zobus-attirosi-liellops-un-trusis-200-g)
@@ -171,9 +167,9 @@ Zorro.lv ir specializēts Latvijas veikals, kas piedāvā premium un super-premi
 - [LEITWOLF zirga gaļas mīkstie gardumi](https://zorro.lv/products/leitwolf-zirga-galas-mikstie-gardumi)
 - [McAdams premium konservi ar brīvās turēšanas tītara gaļu 150 g](https://zorro.lv/products/mcadams-premium-konservi-no-brivas-turesanas-titara-galas-150-g)
 - [McAdams premium konservi ar brīvās turēšanas tītara gaļu un Norvēģijas lasi  150 g](https://zorro.lv/products/mcadams-premium-konservi-no-brivas-turesanas-titara-galas-un-norvegijas-lasi-150-g)
-- [BEZMAKSAS LEITWOLF 2 kg iegādājoties 12,5 kg- pilnvērtīga hipoalerģiska barība pieaugušiem suņiem](https://zorro.lv/products/docapp-free-gift-bezmaksas-leitwolf-2-kg-iegadajoties-12-5-kg-pilnvertiga-hipoalergiska-bariba-pieaugusiem-suniem)
 - [Pilnvērtīga sabalansēta ikdienas barība NATUREA ELEMENTS visu šķirņu pieaugušiem suņiem ar Ibērijas cūkgaļu](https://zorro.lv/products/pilnvertiga-sabalanseta-ikdienas-bariba-naturea-elements-visu-skirnu-pieaugusiem-suniem-ar-iberijas-cukgalu)
 - [Skandināvu dizaina akmens masas keramikas barības trauks Kronborg](https://zorro.lv/products/skandinavu-dizaina-akmens-masas-keramikas-bloda-kronborg)
+- [Paliktnis ēdamtraukiem Libra](https://zorro.lv/products/paliktnis-edamtraukiem-libra)
 - [ESSENTIAL konservs suņiem ar tītara, pīles un cūkgaļas gabaliņiem 400g](https://zorro.lv/products/essential-ziemassvetku-konservs-suniem-400g)
 - [ESSENTIAL graužamnūjiņas ar kanēli,piparmētru un probiotiķiem 250 g](https://zorro.lv/products/essential-grauzamnujinas-tiriem-zobiem-ar-kaneli-piparmetru-un-probiotikiem-250-g)
 - [ESSENTIAL graužamnūjuņas ar kurkumu un kolagēnu 250g](https://zorro.lv/products/essential-grauzamnujunas-ar-kurkumu-un-kolagenu-250g)
@@ -197,7 +193,8 @@ Zorro.lv ir specializēts Latvijas veikals, kas piedāvā premium un super-premi
 - [Svaiga vistas gaļas desa 100g](https://zorro.lv/products/svaiga-vistas-galas-desa-100g)
 - [Lieldienu izlase](https://zorro.lv/products/lieldienu-izlase)
 - [Lieldienu gardumu komplekts](https://zorro.lv/products/lieldienu-gardumu-komplekts)
-[List Continued](https://zorro.lv/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDYyNDgwNzUzNDkzNSwibGFzdF92YWx1ZSI6IjEwNjI0ODA3NTM0OTM1In0=)
+- [The DOG lēnēšanas risinājums – gudrāka ēšana, veselīgāks suns](https://zorro.lv/products/the-dog-lenesanas-risinajums)
+[List Continued](https://zorro.lv/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDgzOTc3MzM0ODE4MywibGFzdF92YWx1ZSI6IjEwODM5NzczMzQ4MTgzIn0=)
 
 ## Collections
 
@@ -226,7 +223,7 @@ Zorro.lv ir specializēts Latvijas veikals, kas piedāvā premium un super-premi
 - [Super Cena](https://zorro.lv/collections/super-cena)
 - [Jaunākie produkti](https://zorro.lv/collections/jaunumi-zorro-lv)
 - [Leitwolf](https://zorro.lv/collections/leitwolf)
-- [Produkti bez atlaides](https://zorro.lv/collections/produkti-bez-atlaides)
+- [Īpašais piedāvājums _ Special offer (b/z/a)](https://zorro.lv/collections/produkti-bez-atlaides)
 - [Naturea kaķu konservi](https://zorro.lv/collections/naturea-kaku-konservi)
 - [Zivju dienas](https://zorro.lv/collections/zivju-dienas)
 - [McAdams](https://zorro.lv/collections/mcadams)
