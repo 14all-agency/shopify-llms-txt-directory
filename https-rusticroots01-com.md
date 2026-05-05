@@ -6,7 +6,7 @@
 - Timezone: America/Phoenix
 - Created At: 2026-01-13T23:16:09Z
 - Contact Email: info@rusticroots01.com
-- Updated At: 2026-04-27T00:00:51.303Z
+- Updated At: 2026-05-05T00:00:47.558Z
 
  RUSTIC ROOTS, 
 
@@ -1453,8 +1453,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/cotton-heritage-m2580-i-unisex-premium-pullover-hoodie-white-front-6971b94c0a11d.jpg?v=1769060695
     Price: $75.00 USD
-- [GIRLS OFF GRID T SHIRT SHORT SLEEVES](https://rusticroots01.com/products/unisex-classic-tee-off-grid-girl): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾ 4XL 34 30 24 ¼ 5XL 35 32 25 ¼
-  Updated: 2026-04-08T05:40:35Z
+- [GIRLS OFF GRID TSHIRT](https://rusticroots01.com/products/unisex-classic-tee-off-grid-girl): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾ 4XL 34 30 24 ¼ 5XL 35 32 25 ¼
+  Updated: 2026-05-01T17:41:08Z
   Vendor: R & R APPAREL
   Product Type: TSHIRT
   Availability: Available
@@ -1667,7 +1667,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/distressed-dad-hat-khaki-front-69b1fc6a2fd53.jpg?v=1773277453
   Price: $34.98 USD
 - [Embroidered Beanie BOONDOCKING](https://rusticroots01.com/products/embroidered-beanie-boondocking): The perfect beanie has arrived! This embroidered beauty has a snug fit that ensures you're going to feel cozy and warm whatever you're doing. • 60% cotton, 40% acrylic • Breathable cotton blend • Form-fitting shape • One size fits most This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide A (inches) B (inches) C (inches) D (inches) One size 17 ⅜-17 ⅞ 8 ⅛ 2 ½ 8 ¼
-  Updated: 2026-04-08T05:40:36Z
+  Updated: 2026-05-01T05:42:10Z
   Vendor: RUSTIC ROOTS 
   Product Type: BEANIE CAP HAT
   Availability: Available
@@ -2244,7 +2244,7 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/vintage-corduroy-cap-burgundy-front-697033137d7c1.jpg?v=1768960801
     Price: $40.00 USD
 - [Snapback Hat UNKNOWN](https://rusticroots01.com/products/snapback-hat-unknown): This hat is structured with a classic fit, flat brim, and full buckram. The adjustable snap closure makes it a comfortable, one-size-fits-most hat. • 80% acrylic, 20% wool • Green Camo is 60% cotton, 40% polyester • Structured, 6-panel, high-profile • 6 embroidered eyelets • Plastic snap closure • Green undervisor • Head circumference: 21⅝″–23⅝″ (54.9 cm–60 cm) • Blank product sourced from Vietnam or BangladeshSize guide A (inches) B (inches) C (inches) D (inches) One size 20 ⅛-23 ⅝ 4 ½ 2 ½ 7 ⅛
-  Updated: 2026-04-08T05:40:40Z
+  Updated: 2026-05-01T05:42:58Z
   Vendor: RUSTIC ROOTS 
   Product Type: OFF GRID
   Availability: Available
@@ -5622,11 +5622,11 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-charcoal-front-and-back-69b10ada736fd.jpg?v=1773210443
     Price: $40.00 USD
 - [RV LIFE HEART BURST](https://rusticroots01.com/products/rv-life-heart-burst): The 100% cotton unisex classic tee will help you land a more structured look. It sits nicely, maintains sharp lines around the edges, and goes perfectly with layered streetwear outfits. Plus, it's extra trendy now! • 100% cotton • Sport Grey is 90% cotton, 10% polyester • Ash Grey is 99% cotton, 1% polyester • Heather colors are 50% cotton, 50% polyester • Fabric weight: 5.0–5.3 oz/yd² (170-180 g/m²) • Open-end yarn • Tubular fabric • Taped neck and shoulders • Double seam at sleeves and bottom hem • Blank product sourced from Honduras, Nicaragua, Haiti, Dominican Republic, Bangladesh, Mexico Disclaimers: • Due to the fabric properties, the White color variant may appear off-white rather than bright white. • Dark color speckles throughout the fabric are expected for the color Natural. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 28 18 15 ⅝ M 29 20 17 L 30 22 18 ½ XL 31 24 20 2XL 32 26 21 ½ 3XL 33 28 22 ¾
-  Updated: 2026-04-08T05:40:53Z
+  Updated: 2026-05-01T17:39:11Z
   Vendor: R & R APPAREL
   Product Type: RV LIFE TEE
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-and-back-69b10910353bd.jpg?v=1773210053
+  Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-tropical-blue-front-69b109102e224.jpg?v=1773210053
   - [Maroon / S](https://rusticroots01.com/products/rv-life-heart-burst?variant=51650362736922)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-classic-tee-maroon-front-69b1091046d12.jpg?v=1773210053
@@ -6442,13 +6442,13 @@
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/all-over-print-womens-crew-neck-t-shirt-white-front-69b0df59d0143.jpg?v=1773199202
     Price: $42.00 USD
 - [TRAVEL OFF GRID Unisex organic sweatshirt](https://rusticroots01.com/products/unisex-organic-sweatshirt-off-grid-travel): The Unisex organic sweatshirt is made of organic and recycled materials and feels soft and cozy to the touch. It has set-in sleeves, 2×2 rib at collar, and a self-fabric neck tape. Order your next eco-friendly essential and hit the streets in style!• 80% organic cotton, 20% recycled polyester• 100% organic cotton exterior• Frenchy terry knit • Set-in sleeves• 2×2 rib at collar• Self-fabric neck tape• Blank product sourced from BangladeshDisclaimer: US customers should order a size up as the EU sizes for this supplier correspond to a smaller size in the US market.This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-04-22T02:11:30Z
+  Updated: 2026-04-30T14:22:29Z
   Vendor: R & R APPAREL
   Product Type: OFF GRID LONG SLEEVE T SHIRTS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-organic-sweatshirt-french-navy-front-69b0dc7fb06da.jpg?v=1773198645
   - [Black / S](https://rusticroots01.com/products/unisex-organic-sweatshirt-off-grid-travel?variant=51666779570458)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0977/7859/8170/files/unisex-organic-sweatshirt-black-front-69b0dc7fb6494.jpg?v=1773198645
     Price: $57.00 USD
   - [Black / M](https://rusticroots01.com/products/unisex-organic-sweatshirt-off-grid-travel?variant=51666779603226)
@@ -18232,17 +18232,17 @@
 ## Collections
 
 - [R & R APPAREL CATALOG](https://rusticroots01.com/collections/frontpage): RUSTIC ROOTS R & R APPAREL
-  Updated: 2026-04-25T04:06:17Z
-  Total Products: 287
+  Updated: 2026-05-04T07:23:47Z
+  Total Products: 318
 - [OFF GRID COLLECTION](https://rusticroots01.com/collections/off-grid): RUSTIC ROOTS R & R APPAREL
-  Updated: 2026-04-22T02:27:32Z
+  Updated: 2026-05-01T05:40:52Z
   Total Products: 43
 - [Showcase Products](https://rusticroots01.com/collections/rv-life): RUSTIC ROOTS R & R APPAREL
-  Updated: 2026-04-22T07:53:38Z
-  Total Products: 59
+  Updated: 2026-05-04T07:45:02Z
+  Total Products: 60
 - [OFF RD & RV & UTV & ATV & JEEP](https://rusticroots01.com/collections/off-grid-1): RUSTIC ROOTS R & R APPAREL
-  Updated: 2026-04-25T04:06:17Z
-  Total Products: 94
+  Updated: 2026-05-04T07:32:46Z
+  Total Products: 121
 - [HATS](https://rusticroots01.com/collections/hats): RUSTIC ROOTS R & R APPAREL
   Updated: 2026-04-23T03:24:50Z
   Total Products: 63
@@ -18256,7 +18256,7 @@
   Updated: 2026-04-24T03:22:12Z
   Total Products: 46
 - [BACKPACKS & BAGS](https://rusticroots01.com/collections/backpacks): RUSTIC ROOTS R & R APPAREL WE CARRY VARITY OF BACK PACKS
-  Updated: 2026-04-08T05:40:29Z
+  Updated: 2026-05-04T07:26:02Z
   Total Products: 11
 - [Embroidery-Patches   COLLECTION](https://rusticroots01.com/collections/embroided-patches-collection): I DESIGN MY Embroidery PATCHES ----Yes, the embroidered patches from Rustic Roots come with an iron-on backing, making them ready to be attached using an iron. You can follow the steps provided below to apply them securely.
   Updated: 2026-04-08T05:40:29Z
