@@ -6,7 +6,7 @@
 - Timezone: Asia/Baghdad
 - Created At: 2026-03-21T11:21:24Z
 - Contact Email: ramyar.mahmood.mahdi@gmail.com
-- Updated At: 2026-04-28T18:28:14.964Z
+- Updated At: 2026-05-06T00:00:30.926Z
 
 "Where modern aesthetics meet uncompromising quality. We specialize in premium apparel designed for those who value both style and durability. Every piece in our collection is crafted from high-grade, wash-resistant fabrics to ensure your look stays fresh, wash after wash. Experience the perfect blend of comfort and contemporary design."
 
@@ -21,13 +21,13 @@ Customer First: Enjoy a seamless shopping experience with dedicated support and 
 ## Products
 
 - [Unisex organic sweatshirt](https://novawear-6609.myshopify.com/products/unisex-organic-sweatshirt): The Unisex organic sweatshirt is made of organic and recycled materials, and feels soft and cozy to the touch. It has set-in sleeves, 2×2 rib at collar, and a self-fabric neck tape. Order your next eco-friendly essential and hit the streets in style! • 80% organic cotton, 20% recycled polyester • 100% organic cotton exterior • Frenchy terry knit • Set-in sleeves • 2×2 rib at collar • Self-fabric neck tape • Blank product sourced from Bangladesh Disclaimer: US customers should order a size up as the EU sizes for this supplier correspond to a smaller size in the US market.
-  Updated: 2026-04-27T18:47:00Z
+  Updated: 2026-05-03T07:45:43Z
   Vendor: NovaWear
-  Product Type: 
+  Product Type: SWEATSHIRT
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-organic-sweatshirt-black-back-69c9640f35edc.jpg?v=1777146371
   - [Black / S](https://novawear-6609.myshopify.com/products/unisex-organic-sweatshirt?variant=43242987126902)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-organic-sweatshirt-black-back-69c9640f35edc.jpg?v=1777146371
     Price: $55.99 USD
   - [Black / M](https://novawear-6609.myshopify.com/products/unisex-organic-sweatshirt?variant=43242987159670)
@@ -127,9 +127,9 @@ Customer First: Enjoy a seamless shopping experience with dedicated support and 
     Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-organic-sweatshirt-grey-melange-front-69c9640f358c7.jpg?v=1777146376
     Price: $55.99 USD
 - [Unisex lightweight zip up windbreaker](https://novawear-6609.myshopify.com/products/unisex-lightweight-zip-up-windbreaker): Light as a feather, this jacket is your go-to windbreaker for any outside adventure. Pack it in your travel bag and explore the outdoors protected and dry (did we mention it’s water-resistant?). • 100% polyester • Interior water-resistant coating • Waterproof pressure resistance: 600 mm • Fabric weight: 2.5 oz/yd² (84.8 g/m²) • Regular, comfortable fit • Matte finish eyelets and zippers • Rubber zipper pull tab • Reversed zipper tape • Three-panel hood with a fine mesh liner • Scuba neck • Self-fabric neck tape • Welt pockets with mesh pocket bags • Tightening toggle for the waistband • Elastic cuffs • Blank product sourced from China Important: This product is available only in the US, except for US territories such as Puerto Rico, Guam, the US Virgin Islands, American Samoa, and Northern Mariana Islands.
-  Updated: 2026-04-27T18:46:59Z
+  Updated: 2026-05-03T07:45:23Z
   Vendor: NovaWear
-  Product Type: 
+  Product Type: ZIP HOODIE
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-lightweight-zip-up-windbreaker-maroon-back-69caad532f31d.jpg?v=1777146376
   - [Black / XS](https://novawear-6609.myshopify.com/products/unisex-lightweight-zip-up-windbreaker?variant=43244949307510)
@@ -333,9 +333,9 @@ Customer First: Enjoy a seamless shopping experience with dedicated support and 
     Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-lightweight-zip-up-windbreaker-blush-white-zipper-back-69caad532f1ba.jpg?v=1777146378
     Price: $84.99 USD
 - [Unisex garment-dyed lightweight hoodie](https://novawear-6609.myshopify.com/products/unisex-garment-dyed-lightweight-hoodie): Add a touch of vintage comfort to your everyday rotation with this soft, relaxed hoodie. Made from 100% ring-spun cotton, it offers a worn-in feel and lived-in color thanks to its garment-dyed finish. Perfect for layering or lounging, this sweatshirt blends casual comfort with timeless style. • 100% ring-spun cotton • Lightweight fabric: 6.4 oz./yd.² (217 g/m²) • Relaxed fit • Seamless-body • Natural-colored flat drawcord (white drawcord on White color) • Ribbed cuffs and waistband • The fabric of this product is OEKO-TEX Standard 100  • Blank product sourced from El Salvador
-  Updated: 2026-04-27T18:46:58Z
+  Updated: 2026-05-03T07:44:47Z
   Vendor: NovaWear
-  Product Type: 
+  Product Type: SWEATSHIRT
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-lightweight-fleece-hooded-sweatshirt-i-comfort-colors-1467-black-front-and-back-69cad6b59ec18.jpg?v=1777146379
   - [Black / S](https://novawear-6609.myshopify.com/products/unisex-garment-dyed-lightweight-hoodie?variant=43245182779510)
@@ -1769,7 +1769,7 @@ Customer First: Enjoy a seamless shopping experience with dedicated support and 
     Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-heavy-blend-hoodie-gold-front-69d27ef862cf8.jpg?v=1775402774
     Price: $58.99 USD
 - [Unisex Champion tie-dye hoodie](https://novawear-6609.myshopify.com/products/unisex-champion-tie-dye-hoodie): If you're looking for a trendy, one-of-a-kind clothing item, this Champion tie-dye hoodie is the one! It's almost impossible to create two similar items during the garment-dyeing process, so every piece has a unique touch to it. • 82% cotton, 18% poly fleece • Fabric weight: 12 oz/yd² (406.9 g/m²) • Unique scrunch-dye, tie-dye pattern • Reverse Weave® cross-grain cut resists shrinkage • Two-ply hood with matching drawcords • 1×1 rib knit side panels, sleeve cuffs, and bottom hem • Front pouch pocket • Woven label at the back of the neck • Embroidered "C" logo on left sleeve • Blank product sourced from El SalvadorSize guide LENGTH (inches) WIDTH (inches) SLEEVE LENGTH (inches) S 26 20 34 ½ M 27 22 35 ¼ L 28 24 36 XL 29 26 36 ¾ 2XL 30 28 37 ½ LENGTH (cm) WIDTH (cm) SLEEVE LENGTH (cm) S 66 50.8 87.6 M 68.6 55.9 89.5 L 71.1 61 91.4 XL 73.7 66 93.4 2XL 76.2 71.1 95.3
-  Updated: 2026-04-20T17:12:17Z
+  Updated: 2026-04-28T19:08:21Z
   Vendor: NovaWear
   Product Type: T-SHIRT
   Availability: Available
@@ -1831,7 +1831,7 @@ Customer First: Enjoy a seamless shopping experience with dedicated support and 
     Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-champion-tie-dye-hoodie-mulled-berry-front-69d2aa7164a62.jpg?v=1775413895
     Price: $109.99 USD
   - [Mulled Berry / 2XL](https://novawear-6609.myshopify.com/products/unisex-champion-tie-dye-hoodie?variant=43258795819126)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-champion-tie-dye-hoodie-mulled-berry-front-69d2aa7164a62.jpg?v=1775413895
     Price: $109.99 USD
 - [Unisex Champion hoodie](https://novawear-6609.myshopify.com/products/unisex-champion-hoodie): This quality hoodie from Champion will keep you dry and comfortable all day. Made with moisture-wicking Double Dry® technology, it’s a go-to for staying fresh on the move. • 50% cotton, 50% polyester • Light Steel color is 50% cotton, 40% polyester, and 10% black polyester • Fabric weight: 9 oz./yd.² (305 g/m²) • Regular fit • Set-in sleeves • Two-ply hood • Dyed-to-match drawcord • Kangaroo pocket • Heavy rib-knit waistband and cuffs • Embroidered “C” logo on the left cuff • Blank product sourced from Honduras and Guatemala Disclaimer: Size up for a looser fit.Size guide A (inches) B (inches) C (inches) S 28 34-37 34 ½ M 29 38-41 35 ½ L 30 42-45 36 ½ XL 31 46-49 37 ½ 2XL 32 50-53 38 ½ 3XL 33 54-57 39 ½ A (cm) B (cm) C (cm) S 71.1 86.4-94 87.6 M 73.7 96.5-104.1 90.2 L 76.2 106.7-114.3 92.7 XL 78.7 116.8-124.5 95.3 2XL 81.3 127-134.6 97.8 3XL 83.8 137.2-144.8 100.3
@@ -3192,21 +3192,1213 @@ Customer First: Enjoy a seamless shopping experience with dedicated support and 
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-heavy-blend-zip-hoodie-purple-back-69e7c8b493261.jpg?v=1776797903
     Price: $57.99 USD
+- [Under Armour® hoodie](https://novawear-6609.myshopify.com/products/under-armour®-hoodie): Stay comfy and warm with this ultra-soft fleece hoodie. It features a relaxed fit for all-day comfort and is ideal for sports and casual wear. • 80% cotton, 20% polyester • Fabric weight: 8.11 oz./yd.² (275 g/m²) • Soft cotton-blend fleece with brushed inside • Unisex, regular fit • Front pouch pocket • Ribbed cuffs and bottom hem • Matching drawstrings • Embroidered Under Armour® logo at the top center • Blank product sourced from Vietnam
+  Updated: 2026-05-03T06:52:00Z
+  Vendor: NovaWear
+  Product Type: T-SHIRT
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-under-armour-rival-fleece-hoodie-navy-front-69f647b47afca.jpg?v=1777747910
+  - [Black / S](https://novawear-6609.myshopify.com/products/under-armour®-hoodie?variant=43365568807030)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-under-armour-rival-fleece-hoodie-black-front-69f647b478c5c.jpg?v=1777747910
+    Price: $98.99 USD
+  - [Black / M](https://novawear-6609.myshopify.com/products/under-armour®-hoodie?variant=43365568839798)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-under-armour-rival-fleece-hoodie-black-front-69f647b478c5c.jpg?v=1777747910
+    Price: $98.99 USD
+  - [Black / L](https://novawear-6609.myshopify.com/products/under-armour®-hoodie?variant=43365568872566)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-under-armour-rival-fleece-hoodie-black-front-69f647b478c5c.jpg?v=1777747910
+    Price: $98.99 USD
+  - [Black / XL](https://novawear-6609.myshopify.com/products/under-armour®-hoodie?variant=43365568905334)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-under-armour-rival-fleece-hoodie-black-front-69f647b478c5c.jpg?v=1777747910
+    Price: $98.99 USD
+  - [Black / 2XL](https://novawear-6609.myshopify.com/products/under-armour®-hoodie?variant=43365568938102)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-under-armour-rival-fleece-hoodie-black-front-69f647b478c5c.jpg?v=1777747910
+    Price: $98.99 USD
+  - [Navy / S](https://novawear-6609.myshopify.com/products/under-armour®-hoodie?variant=43365568970870)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-under-armour-rival-fleece-hoodie-navy-front-69f647b47afca.jpg?v=1777747910
+    Price: $98.99 USD
+  - [Navy / M](https://novawear-6609.myshopify.com/products/under-armour®-hoodie?variant=43365569003638)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-under-armour-rival-fleece-hoodie-navy-front-69f647b47afca.jpg?v=1777747910
+    Price: $98.99 USD
+  - [Navy / L](https://novawear-6609.myshopify.com/products/under-armour®-hoodie?variant=43365569036406)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-under-armour-rival-fleece-hoodie-navy-front-69f647b47afca.jpg?v=1777747910
+    Price: $98.99 USD
+  - [Navy / XL](https://novawear-6609.myshopify.com/products/under-armour®-hoodie?variant=43365569069174)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-under-armour-rival-fleece-hoodie-navy-front-69f647b47afca.jpg?v=1777747910
+    Price: $98.99 USD
+  - [Navy / 2XL](https://novawear-6609.myshopify.com/products/under-armour®-hoodie?variant=43365569101942)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-under-armour-rival-fleece-hoodie-navy-front-69f647b47afca.jpg?v=1777747910
+    Price: $98.99 USD
+  - [Grey / S](https://novawear-6609.myshopify.com/products/under-armour®-hoodie?variant=43365569134710)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-under-armour-rival-fleece-hoodie-grey-front-69f647b4795df.jpg?v=1777747910
+    Price: $98.99 USD
+  - [Grey / M](https://novawear-6609.myshopify.com/products/under-armour®-hoodie?variant=43365569167478)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-under-armour-rival-fleece-hoodie-grey-front-69f647b4795df.jpg?v=1777747910
+    Price: $98.99 USD
+  - [Grey / L](https://novawear-6609.myshopify.com/products/under-armour®-hoodie?variant=43365569200246)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-under-armour-rival-fleece-hoodie-grey-front-69f647b4795df.jpg?v=1777747910
+    Price: $98.99 USD
+  - [Grey / XL](https://novawear-6609.myshopify.com/products/under-armour®-hoodie?variant=43365569233014)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-under-armour-rival-fleece-hoodie-grey-front-69f647b4795df.jpg?v=1777747910
+    Price: $98.99 USD
+  - [Grey / 2XL](https://novawear-6609.myshopify.com/products/under-armour®-hoodie?variant=43365569265782)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-under-armour-rival-fleece-hoodie-grey-front-69f647b4795df.jpg?v=1777747910
+    Price: $98.99 USD
+- [Oversized faded t-shirt](https://novawear-6609.myshopify.com/products/oversized-faded-t-shirt): Embrace the versatility of the Oversized faded t-shirt, designed for those who appreciate the art of layering and creating unique outfits that effortlessly fuse modern trends with a hint of nostalgia. Its loose fit allows you to play with textures and proportions, giving you the freedom to express your personality through your style. • 100% carded cotton • Fabric weight: 7.1 oz. /yd. ² (240 g/m²) • Garment-dyed, pre-shrunk fabric • Boxy, oversized fit • Dropped shoulders • Wide neck ribbing • Tear-away label • Blank product sourced from ChinaSize guide LENGTH (inches) CHEST (inches) SLEEVE LENGTH (inches) S 27 ¾ 39 9 M 29 ⅛ 43 9 ½ L 30 ½ 47 9 ½ XL 31 ⅞ 51 10 ¼ 2XL 33 ¼ 55 10 ⅝ 3XL 34 59 11 LENGTH (cm) CHEST (cm) SLEEVE LENGTH (cm) S 70.5 99 23 M 74 109.2 24 L 77.5 119.4 24 XL 81 129.5 26 2XL 84.5 139.7 27 3XL 86.5 149.9 28
+  Updated: 2026-05-03T07:02:24Z
+  Vendor: NovaWear
+  Product Type: EMBROIDERY
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-oversized-faded-t-shirt-faded-bone-front-69f64a86bce5f.jpg?v=1777748623
+  - [Faded Khaki / S](https://novawear-6609.myshopify.com/products/oversized-faded-t-shirt?variant=43365596004470)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-oversized-faded-t-shirt-faded-khaki-front-69f64a86bc723.jpg?v=1777748623
+    Price: $49.99 USD
+  - [Faded Khaki / M](https://novawear-6609.myshopify.com/products/oversized-faded-t-shirt?variant=43365596037238)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-oversized-faded-t-shirt-faded-khaki-front-69f64a86bc723.jpg?v=1777748623
+    Price: $49.99 USD
+  - [Faded Khaki / L](https://novawear-6609.myshopify.com/products/oversized-faded-t-shirt?variant=43365596070006)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-oversized-faded-t-shirt-faded-khaki-front-69f64a86bc723.jpg?v=1777748623
+    Price: $49.99 USD
+  - [Faded Khaki / XL](https://novawear-6609.myshopify.com/products/oversized-faded-t-shirt?variant=43365596102774)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-oversized-faded-t-shirt-faded-khaki-front-69f64a86bc723.jpg?v=1777748623
+    Price: $49.99 USD
+  - [Faded Khaki / 2XL](https://novawear-6609.myshopify.com/products/oversized-faded-t-shirt?variant=43365596135542)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-oversized-faded-t-shirt-faded-khaki-front-69f64a86bc723.jpg?v=1777748623
+    Price: $49.99 USD
+  - [Faded Khaki / 3XL](https://novawear-6609.myshopify.com/products/oversized-faded-t-shirt?variant=43365596168310)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-oversized-faded-t-shirt-faded-khaki-front-69f64a86bc723.jpg?v=1777748623
+    Price: $49.99 USD
+  - [Faded Eucalyptus / S](https://novawear-6609.myshopify.com/products/oversized-faded-t-shirt?variant=43365596201078)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-oversized-faded-t-shirt-faded-eucalyptus-front-69f64a86ba817.jpg?v=1777748623
+    Price: $49.99 USD
+  - [Faded Eucalyptus / M](https://novawear-6609.myshopify.com/products/oversized-faded-t-shirt?variant=43365596233846)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-oversized-faded-t-shirt-faded-eucalyptus-front-69f64a86ba817.jpg?v=1777748623
+    Price: $49.99 USD
+  - [Faded Eucalyptus / L](https://novawear-6609.myshopify.com/products/oversized-faded-t-shirt?variant=43365596266614)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-oversized-faded-t-shirt-faded-eucalyptus-front-69f64a86ba817.jpg?v=1777748623
+    Price: $49.99 USD
+  - [Faded Eucalyptus / XL](https://novawear-6609.myshopify.com/products/oversized-faded-t-shirt?variant=43365596299382)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-oversized-faded-t-shirt-faded-eucalyptus-front-69f64a86ba817.jpg?v=1777748623
+    Price: $49.99 USD
+  - [Faded Eucalyptus / 2XL](https://novawear-6609.myshopify.com/products/oversized-faded-t-shirt?variant=43365596332150)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-oversized-faded-t-shirt-faded-eucalyptus-front-69f64a86ba817.jpg?v=1777748623
+    Price: $49.99 USD
+  - [Faded Eucalyptus / 3XL](https://novawear-6609.myshopify.com/products/oversized-faded-t-shirt?variant=43365596364918)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-oversized-faded-t-shirt-faded-eucalyptus-front-69f64a86ba817.jpg?v=1777748623
+    Price: $49.99 USD
+  - [Faded Bone / S](https://novawear-6609.myshopify.com/products/oversized-faded-t-shirt?variant=43365596397686)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-oversized-faded-t-shirt-faded-bone-front-69f64a86bce5f.jpg?v=1777748623
+    Price: $49.99 USD
+  - [Faded Bone / M](https://novawear-6609.myshopify.com/products/oversized-faded-t-shirt?variant=43365596430454)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-oversized-faded-t-shirt-faded-bone-front-69f64a86bce5f.jpg?v=1777748623
+    Price: $49.99 USD
+  - [Faded Bone / L](https://novawear-6609.myshopify.com/products/oversized-faded-t-shirt?variant=43365596463222)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-oversized-faded-t-shirt-faded-bone-front-69f64a86bce5f.jpg?v=1777748623
+    Price: $49.99 USD
+  - [Faded Bone / XL](https://novawear-6609.myshopify.com/products/oversized-faded-t-shirt?variant=43365596495990)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-oversized-faded-t-shirt-faded-bone-front-69f64a86bce5f.jpg?v=1777748623
+    Price: $49.99 USD
+  - [Faded Bone / 2XL](https://novawear-6609.myshopify.com/products/oversized-faded-t-shirt?variant=43365596528758)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-oversized-faded-t-shirt-faded-bone-front-69f64a86bce5f.jpg?v=1777748623
+    Price: $49.99 USD
+  - [Faded Bone / 3XL](https://novawear-6609.myshopify.com/products/oversized-faded-t-shirt?variant=43365596561526)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-oversized-faded-t-shirt-faded-bone-front-69f64a86bce5f.jpg?v=1777748623
+    Price: $49.99 USD
+- [Women’s organic crew neck sweatshirt](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt): Get comfortable in this women’s organic crew neck sweatshirt. Featuring a super-soft brushed fleece inside, it’s an excellent companion for your everyday routine or relaxing at home. • 80% organic combed ring-spun cotton, 20% recycled polyester for production in the US • 100% organic combed ring-spun cotton for production in Europe • Fabric weight: 8.9 oz./yd.² (301.76 g/m²) • Super soft fleece inside • 30 singles • Regular fit • Dropped shoulders • Set-in sleeves • 1 × 1 ribbed cuffs at collar, sleeve cuffs, and bottom hem • 2 needles top stitches on all seams • The fabric of this product holds certifications for its organic cotton content under GOTS (Global Organic Textile Standard) and OCS (Organic Content Standard). Additionally, GRS (Global Recycled Standard) certifies the recycled content present in the product. • Blank product sourced from Bangladesh The sizes correspond to a bigger size in the European market, customers from that region should order a size down.Size guide LENGTH (inches) CHEST (inches) SLEEVE LENGTH (inches) S 22 ½ 13 -14 ⅛ 18 ¼ M 23 ¼ 14 ⅝-15 ¾ 18 ¼ L 24 16 ⅛-16 ⅞ 18 ¼ XL 24 ¾ 16 ⅛-16 ⅞ 18 ¼ 2XL 25 ⅝ 18 ½-19 ¼ 18 ¼ LENGTH (cm) CHEST (cm) SLEEVE LENGTH (cm) S 57 33-36 46.4 M 59 37-40 46.4 L 61 41-43 46.4 XL 63 41-43 46.4 2XL 65 47-49 46.4
+  Updated: 2026-05-03T07:09:36Z
+  Vendor: NovaWear
+  Product Type: T-SHIRT
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-green-bay-front-69f64bd1b020c.jpg?v=1777748965
+  - [Black / S](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365601771638)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-black-front-69f64bd1aad2c.jpg?v=1777748964
+    Price: $68.99 USD
+  - [Black / M](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365601804406)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-black-front-69f64bd1aad2c.jpg?v=1777748964
+    Price: $68.99 USD
+  - [Black / L](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365601837174)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-black-front-69f64bd1aad2c.jpg?v=1777748964
+    Price: $68.99 USD
+  - [Black / XL](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365601869942)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-black-front-69f64bd1aad2c.jpg?v=1777748964
+    Price: $68.99 USD
+  - [Black / 2XL](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365601902710)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-black-front-69f64bd1aad2c.jpg?v=1777748964
+    Price: $68.99 USD
+  - [French Navy / S](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365601935478)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-french-navy-front-69f64bd1abf35.jpg?v=1777748964
+    Price: $68.99 USD
+  - [French Navy / M](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365601968246)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-french-navy-front-69f64bd1abf35.jpg?v=1777748964
+    Price: $68.99 USD
+  - [French Navy / L](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365602001014)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-french-navy-front-69f64bd1abf35.jpg?v=1777748964
+    Price: $68.99 USD
+  - [French Navy / XL](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365602033782)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-french-navy-front-69f64bd1abf35.jpg?v=1777748964
+    Price: $68.99 USD
+  - [French Navy / 2XL](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365602066550)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-french-navy-front-69f64bd1abf35.jpg?v=1777748964
+    Price: $68.99 USD
+  - [Green Bay / S](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365602099318)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-green-bay-front-69f64bd1b020c.jpg?v=1777748965
+    Price: $68.99 USD
+  - [Green Bay / M](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365602132086)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-green-bay-front-69f64bd1b020c.jpg?v=1777748965
+    Price: $68.99 USD
+  - [Green Bay / L](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365602164854)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-green-bay-front-69f64bd1b020c.jpg?v=1777748965
+    Price: $68.99 USD
+  - [Green Bay / XL](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365602197622)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-green-bay-front-69f64bd1b020c.jpg?v=1777748965
+    Price: $68.99 USD
+  - [Green Bay / 2XL](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365602230390)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-green-bay-front-69f64bd1b020c.jpg?v=1777748965
+    Price: $68.99 USD
+  - [Bubble Pink / S](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365602263158)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-bubble-pink-front-69f64bd1abe1d.jpg?v=1777748965
+    Price: $68.99 USD
+  - [Bubble Pink / M](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365602295926)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-bubble-pink-front-69f64bd1abe1d.jpg?v=1777748965
+    Price: $68.99 USD
+  - [Bubble Pink / L](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365602328694)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-bubble-pink-front-69f64bd1abe1d.jpg?v=1777748965
+    Price: $68.99 USD
+  - [Bubble Pink / XL](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365602361462)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-bubble-pink-front-69f64bd1abe1d.jpg?v=1777748965
+    Price: $68.99 USD
+  - [Bubble Pink / 2XL](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365602394230)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-bubble-pink-front-69f64bd1abe1d.jpg?v=1777748965
+    Price: $68.99 USD
+  - [Cool Heather Grey / S](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365602426998)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-cool-heather-grey-front-69f64bd1abebf.jpg?v=1777748964
+    Price: $68.99 USD
+  - [Cool Heather Grey / M](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365602459766)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-cool-heather-grey-front-69f64bd1abebf.jpg?v=1777748964
+    Price: $68.99 USD
+  - [Cool Heather Grey / L](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365602492534)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-cool-heather-grey-front-69f64bd1abebf.jpg?v=1777748964
+    Price: $68.99 USD
+  - [Cool Heather Grey / XL](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365602525302)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-cool-heather-grey-front-69f64bd1abebf.jpg?v=1777748964
+    Price: $68.99 USD
+  - [Cool Heather Grey / 2XL](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365602558070)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-cool-heather-grey-front-69f64bd1abebf.jpg?v=1777748964
+    Price: $68.99 USD
+  - [White / S](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365602590838)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-white-front-69f64bd1ac019.jpg?v=1777748965
+    Price: $68.99 USD
+  - [White / M](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365602623606)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-white-front-69f64bd1ac019.jpg?v=1777748965
+    Price: $68.99 USD
+  - [White / L](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365602656374)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-white-front-69f64bd1ac019.jpg?v=1777748965
+    Price: $68.99 USD
+  - [White / XL](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365602689142)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-white-front-69f64bd1ac019.jpg?v=1777748965
+    Price: $68.99 USD
+  - [White / 2XL](https://novawear-6609.myshopify.com/products/women-s-organic-crew-neck-sweatshirt?variant=43365602721910)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/womens-organic-crew-neck-stella-alma-sweatshirt-white-front-69f64bd1ac019.jpg?v=1777748965
+    Price: $68.99 USD
+- [Unisex sports jersey](https://novawear-6609.myshopify.com/products/unisex-sports-jersey): Made with 100% breathable polyester mesh, this unisex sports jersey provides optimal ventilation and comfort during intense workouts or leisure activities. The jersey’s relaxed fit and extended length offer extra coverage, while the binding on the collar ensures long-lasting durability and a polished look. • 100% breathable polyester (mesh) • Fabric weight: 4.13 oz./yd² (140 g/m²) • Relaxed fit • Elastic and durable • Side-seamed construction • Extended length • Short raglan sleeves • Binding on collar • Classic round neckline • Blank product sourced from ChinaSize guide LENGTH (inches) CHEST (inches) S 27 ½ 31-34 M 28 ⅜ 35-38 L 29 ⅛ 39-41 XL 29 ⅞ 42-45 2XL 30 ¾ 46-48 LENGTH (cm) CHEST (cm) S 70 78.7-86.4 M 72 89-96.5 L 74 99-104.1 XL 76 106.7-114.3 2XL 78 116.8-122
+  Updated: 2026-05-03T07:14:11Z
+  Vendor: NovaWear
+  Product Type: EMBROIDERY
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-royal-blue-front-69f64ce3d8744.jpg?v=1777749240
+  - [Black / S](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365605277814)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-black-front-69f64ce3d73fa.jpg?v=1777749239
+    Price: $33.99 USD
+  - [Black / M](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365605310582)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-black-front-69f64ce3d73fa.jpg?v=1777749239
+    Price: $33.99 USD
+  - [Black / L](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365605343350)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-black-front-69f64ce3d73fa.jpg?v=1777749239
+    Price: $33.99 USD
+  - [Black / XL](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365605376118)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-black-front-69f64ce3d73fa.jpg?v=1777749239
+    Price: $33.99 USD
+  - [Black / 2XL](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365605408886)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-black-front-69f64ce3d73fa.jpg?v=1777749239
+    Price: $33.99 USD
+  - [French Navy / S](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365605441654)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-french-navy-front-69f64ce3d7a29.jpg?v=1777749240
+    Price: $33.99 USD
+  - [French Navy / M](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365605474422)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-french-navy-front-69f64ce3d7a29.jpg?v=1777749240
+    Price: $33.99 USD
+  - [French Navy / L](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365605507190)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-french-navy-front-69f64ce3d7a29.jpg?v=1777749240
+    Price: $33.99 USD
+  - [French Navy / XL](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365605539958)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-french-navy-front-69f64ce3d7a29.jpg?v=1777749240
+    Price: $33.99 USD
+  - [French Navy / 2XL](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365605572726)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-french-navy-front-69f64ce3d7a29.jpg?v=1777749240
+    Price: $33.99 USD
+  - [Red / S](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365605605494)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-red-front-69f64ce3d7cb6.jpg?v=1777749240
+    Price: $33.99 USD
+  - [Red / M](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365605638262)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-red-front-69f64ce3d7cb6.jpg?v=1777749240
+    Price: $33.99 USD
+  - [Red / L](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365605671030)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-red-front-69f64ce3d7cb6.jpg?v=1777749240
+    Price: $33.99 USD
+  - [Red / XL](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365605703798)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-red-front-69f64ce3d7cb6.jpg?v=1777749240
+    Price: $33.99 USD
+  - [Red / 2XL](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365605736566)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-red-front-69f64ce3d7cb6.jpg?v=1777749240
+    Price: $33.99 USD
+  - [Royal Blue / S](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365605769334)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-royal-blue-front-69f64ce3d8744.jpg?v=1777749240
+    Price: $33.99 USD
+  - [Royal Blue / M](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365605802102)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-royal-blue-front-69f64ce3d8744.jpg?v=1777749240
+    Price: $33.99 USD
+  - [Royal Blue / L](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365605834870)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-royal-blue-front-69f64ce3d8744.jpg?v=1777749240
+    Price: $33.99 USD
+  - [Royal Blue / XL](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365605867638)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-royal-blue-front-69f64ce3d8744.jpg?v=1777749240
+    Price: $33.99 USD
+  - [Royal Blue / 2XL](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365605900406)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-royal-blue-front-69f64ce3d8744.jpg?v=1777749240
+    Price: $33.99 USD
+  - [Neon Orange / S](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365605933174)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-neon-orange-front-69f64ce3d7b1c.jpg?v=1777749240
+    Price: $33.99 USD
+  - [Neon Orange / M](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365605965942)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-neon-orange-front-69f64ce3d7b1c.jpg?v=1777749240
+    Price: $33.99 USD
+  - [Neon Orange / L](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365605998710)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-neon-orange-front-69f64ce3d7b1c.jpg?v=1777749240
+    Price: $33.99 USD
+  - [Neon Orange / XL](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365606031478)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-neon-orange-front-69f64ce3d7b1c.jpg?v=1777749240
+    Price: $33.99 USD
+  - [Neon Orange / 2XL](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365606064246)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-neon-orange-front-69f64ce3d7b1c.jpg?v=1777749240
+    Price: $33.99 USD
+  - [Neon Yellow / S](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365606097014)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-neon-yellow-front-69f64ce3d7be6.jpg?v=1777749239
+    Price: $33.99 USD
+  - [Neon Yellow / M](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365606129782)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-neon-yellow-front-69f64ce3d7be6.jpg?v=1777749239
+    Price: $33.99 USD
+  - [Neon Yellow / L](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365606162550)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-neon-yellow-front-69f64ce3d7be6.jpg?v=1777749239
+    Price: $33.99 USD
+  - [Neon Yellow / XL](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365606195318)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-neon-yellow-front-69f64ce3d7be6.jpg?v=1777749239
+    Price: $33.99 USD
+  - [Neon Yellow / 2XL](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365606228086)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-neon-yellow-front-69f64ce3d7be6.jpg?v=1777749239
+    Price: $33.99 USD
+  - [White / S](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365606260854)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-white-front-69f64ce3d7e56.jpg?v=1777749239
+    Price: $33.99 USD
+  - [White / M](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365606293622)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-white-front-69f64ce3d7e56.jpg?v=1777749239
+    Price: $33.99 USD
+  - [White / L](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365606326390)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-white-front-69f64ce3d7e56.jpg?v=1777749239
+    Price: $33.99 USD
+  - [White / XL](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365606359158)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-white-front-69f64ce3d7e56.jpg?v=1777749239
+    Price: $33.99 USD
+  - [White / 2XL](https://novawear-6609.myshopify.com/products/unisex-sports-jersey?variant=43365606391926)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-sports-jersey-white-front-69f64ce3d7e56.jpg?v=1777749239
+    Price: $33.99 USD
+- [Garment-dyed heavyweight long-sleeve shirt](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt): Enjoy ultimate comfort with this unisex garment-dyed shirt, crafted from durable heavyweight fabric and dyed for a lived-in look. The dyeing technique ensures the shirt is pre-shrunk to maintain its shape no matter how many times you wash it. • 100% soft ring-spun cotton • Fabric weight: 6.1 oz./yd.² (206.8 g/m²) • Relaxed fit • Garment-dyed, pre-shrunk fabric • Topstitched, classic width collar • Twill-taped neck and shoulders for comfort and durability • Rib cuffs • Shoulder-to-shoulder twill tape • Signature twill label • Blank product sourced from HondurasSize guide LENGTH (inches) CHEST (inches) SLEEVE LENGTH (inches) S 26 ⅝ 31-34 31 ⅞ M 28 34-37 33 ¾ L 29 ¾ 38-41 36 ⅞ XL 30 ¾ 42-45 37 ¼ 2XL 31 ⅝ 46-49 38 ¾ 3XL 32 ½ 50-53 39 ¾ LENGTH (cm) CHEST (cm) SLEEVE LENGTH (cm) S 67.6 78.7-86.4 81 M 71.1 86.4-94 85.7 L 75.6 96.5-104.1 93.7 XL 78.1 106.7-114.3 94.6 2XL 80.3 116.8-124.5 98.4 3XL 82.6 127-134.6 101
+  Updated: 2026-05-03T07:20:14Z
+  Vendor: NovaWear
+  Product Type: T-SHIRT
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-black-front-69f64e51f04ce.jpg?v=1777749601
+  - [Black / S](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365609341046)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-black-front-69f64e51f04ce.jpg?v=1777749601
+    Price: $48.99 USD
+  - [Black / M](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365609373814)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-black-front-69f64e51f04ce.jpg?v=1777749601
+    Price: $48.99 USD
+  - [Black / L](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365609406582)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-black-front-69f64e51f04ce.jpg?v=1777749601
+    Price: $48.99 USD
+  - [Black / XL](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365609439350)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-black-front-69f64e51f04ce.jpg?v=1777749601
+    Price: $48.99 USD
+  - [Black / 2XL](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365609472118)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-black-front-69f64e51f04ce.jpg?v=1777749601
+    Price: $48.99 USD
+  - [Black / 3XL](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365609504886)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-black-front-69f64e51f04ce.jpg?v=1777749601
+    Price: $48.99 USD
+  - [Blue Jean / S](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365609537654)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-blue-jean-front-69f64e51f057c.jpg?v=1777749601
+    Price: $48.99 USD
+  - [Blue Jean / M](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365609570422)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-blue-jean-front-69f64e51f057c.jpg?v=1777749601
+    Price: $48.99 USD
+  - [Blue Jean / L](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365609603190)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-blue-jean-front-69f64e51f057c.jpg?v=1777749601
+    Price: $48.99 USD
+  - [Blue Jean / XL](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365609635958)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-blue-jean-front-69f64e51f057c.jpg?v=1777749601
+    Price: $48.99 USD
+  - [Blue Jean / 2XL](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365609668726)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-blue-jean-front-69f64e51f057c.jpg?v=1777749601
+    Price: $48.99 USD
+  - [Blue Jean / 3XL](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365609701494)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-blue-jean-front-69f64e51f057c.jpg?v=1777749601
+    Price: $48.99 USD
+  - [Light Green / S](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365609734262)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-light-green-front-69f64e51f0683.jpg?v=1777749601
+    Price: $48.99 USD
+  - [Light Green / M](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365609767030)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-light-green-front-69f64e51f0683.jpg?v=1777749601
+    Price: $48.99 USD
+  - [Light Green / L](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365609799798)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-light-green-front-69f64e51f0683.jpg?v=1777749601
+    Price: $48.99 USD
+  - [Light Green / XL](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365609832566)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-light-green-front-69f64e51f0683.jpg?v=1777749601
+    Price: $48.99 USD
+  - [Light Green / 2XL](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365609865334)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-light-green-front-69f64e51f0683.jpg?v=1777749601
+    Price: $48.99 USD
+  - [Light Green / 3XL](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365609898102)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-light-green-front-69f64e51f0683.jpg?v=1777749601
+    Price: $48.99 USD
+  - [Grey / S](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365609930870)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-grey-front-69f64e51f0602.jpg?v=1777749601
+    Price: $48.99 USD
+  - [Grey / M](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365609963638)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-grey-front-69f64e51f0602.jpg?v=1777749601
+    Price: $48.99 USD
+  - [Grey / L](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365609996406)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-grey-front-69f64e51f0602.jpg?v=1777749601
+    Price: $48.99 USD
+  - [Grey / XL](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365610029174)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-grey-front-69f64e51f0602.jpg?v=1777749601
+    Price: $48.99 USD
+  - [Grey / 2XL](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365610061942)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-grey-front-69f64e51f0602.jpg?v=1777749601
+    Price: $48.99 USD
+  - [Grey / 3XL](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365610094710)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-grey-front-69f64e51f0602.jpg?v=1777749601
+    Price: $48.99 USD
+  - [Violet / S](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365610127478)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-violet-front-69f64e51f0702.jpg?v=1777749602
+    Price: $48.99 USD
+  - [Violet / M](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365610160246)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-violet-front-69f64e51f0702.jpg?v=1777749602
+    Price: $48.99 USD
+  - [Violet / L](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365610193014)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-violet-front-69f64e51f0702.jpg?v=1777749602
+    Price: $48.99 USD
+  - [Violet / XL](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365610225782)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-violet-front-69f64e51f0702.jpg?v=1777749602
+    Price: $48.99 USD
+  - [Violet / 2XL](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365610258550)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-violet-front-69f64e51f0702.jpg?v=1777749602
+    Price: $48.99 USD
+  - [Violet / 3XL](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365610291318)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-violet-front-69f64e51f0702.jpg?v=1777749602
+    Price: $48.99 USD
+  - [White / S](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365610324086)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-white-front-69f64e51f077e.jpg?v=1777749601
+    Price: $48.99 USD
+  - [White / M](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365610356854)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-white-front-69f64e51f077e.jpg?v=1777749601
+    Price: $48.99 USD
+  - [White / L](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365610389622)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-white-front-69f64e51f077e.jpg?v=1777749601
+    Price: $48.99 USD
+  - [White / XL](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365610422390)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-white-front-69f64e51f077e.jpg?v=1777749601
+    Price: $48.99 USD
+  - [White / 2XL](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365610455158)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-white-front-69f64e51f077e.jpg?v=1777749601
+    Price: $48.99 USD
+  - [White / 3XL](https://novawear-6609.myshopify.com/products/garment-dyed-heavyweight-long-sleeve-shirt?variant=43365610487926)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-garment-dyed-heavyweight-long-sleeve-shirt-white-front-69f64e51f077e.jpg?v=1777749601
+    Price: $48.99 USD
+- [Oversized tie-dye t-shirt](https://novawear-6609.myshopify.com/products/oversized-tie-dye-t-shirt): Meet your next streetwear essential—the oversized tie-dye t-shirt. The tee has a cool, relaxed fit and is highly durable thanks to its heavyweight cotton material. Join the tie-dye trend and order it for yourself today. • 100% US grown cotton • Fabric weight: 7.5 oz/yd² (254 g/m²) • Oversized fit • Ribbed neck • Blank product sourced from Honduras This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) S 29 19 ½ M 30 21 ½ L 31 23 ½ XL 31 ½ 25 ½ 2XL 33 27 ½ LENGTH (cm) WIDTH (cm) S 73.7 49.5 M 76.2 54.6 L 78.7 59.7 XL 80 64.8 2XL 83.8 69.9
+  Updated: 2026-05-03T07:27:26Z
+  Vendor: NovaWear
+  Product Type: T-SHIRT
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-oversized-tie-dye-t-shirt-sherbet-rainbow-front-69f64fee632d6.jpg?v=1777750033
+  - [Milky way / S](https://novawear-6609.myshopify.com/products/oversized-tie-dye-t-shirt?variant=43365616255094)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-oversized-tie-dye-t-shirt-milky-way-front-69f64fee6460b.jpg?v=1777750033
+    Price: $49.99 USD
+  - [Milky way / M](https://novawear-6609.myshopify.com/products/oversized-tie-dye-t-shirt?variant=43365616287862)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-oversized-tie-dye-t-shirt-milky-way-front-69f64fee6460b.jpg?v=1777750033
+    Price: $49.99 USD
+  - [Milky way / L](https://novawear-6609.myshopify.com/products/oversized-tie-dye-t-shirt?variant=43365616320630)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-oversized-tie-dye-t-shirt-milky-way-front-69f64fee6460b.jpg?v=1777750033
+    Price: $49.99 USD
+  - [Milky way / XL](https://novawear-6609.myshopify.com/products/oversized-tie-dye-t-shirt?variant=43365616353398)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-oversized-tie-dye-t-shirt-milky-way-front-69f64fee6460b.jpg?v=1777750033
+    Price: $49.99 USD
+  - [Milky way / 2XL](https://novawear-6609.myshopify.com/products/oversized-tie-dye-t-shirt?variant=43365616386166)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-oversized-tie-dye-t-shirt-milky-way-front-69f64fee6460b.jpg?v=1777750033
+    Price: $49.99 USD
+  - [Navy / White / S](https://novawear-6609.myshopify.com/products/oversized-tie-dye-t-shirt?variant=43365616418934)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-oversized-tie-dye-t-shirt-navy-white-front-69f64fee64ee8.jpg?v=1777750032
+    Price: $49.99 USD
+  - [Navy / White / M](https://novawear-6609.myshopify.com/products/oversized-tie-dye-t-shirt?variant=43365616451702)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-oversized-tie-dye-t-shirt-navy-white-front-69f64fee64ee8.jpg?v=1777750032
+    Price: $49.99 USD
+  - [Navy / White / L](https://novawear-6609.myshopify.com/products/oversized-tie-dye-t-shirt?variant=43365616484470)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-oversized-tie-dye-t-shirt-navy-white-front-69f64fee64ee8.jpg?v=1777750032
+    Price: $49.99 USD
+  - [Navy / White / XL](https://novawear-6609.myshopify.com/products/oversized-tie-dye-t-shirt?variant=43365616517238)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-oversized-tie-dye-t-shirt-navy-white-front-69f64fee64ee8.jpg?v=1777750032
+    Price: $49.99 USD
+  - [Navy / White / 2XL](https://novawear-6609.myshopify.com/products/oversized-tie-dye-t-shirt?variant=43365616550006)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-oversized-tie-dye-t-shirt-navy-white-front-69f64fee64ee8.jpg?v=1777750032
+    Price: $49.99 USD
+  - [Sherbet rainbow / S](https://novawear-6609.myshopify.com/products/oversized-tie-dye-t-shirt?variant=43365616582774)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-oversized-tie-dye-t-shirt-sherbet-rainbow-front-69f64fee632d6.jpg?v=1777750033
+    Price: $49.99 USD
+  - [Sherbet rainbow / M](https://novawear-6609.myshopify.com/products/oversized-tie-dye-t-shirt?variant=43365616615542)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-oversized-tie-dye-t-shirt-sherbet-rainbow-front-69f64fee632d6.jpg?v=1777750033
+    Price: $49.99 USD
+  - [Sherbet rainbow / L](https://novawear-6609.myshopify.com/products/oversized-tie-dye-t-shirt?variant=43365616648310)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-oversized-tie-dye-t-shirt-sherbet-rainbow-front-69f64fee632d6.jpg?v=1777750033
+    Price: $49.99 USD
+  - [Sherbet rainbow / XL](https://novawear-6609.myshopify.com/products/oversized-tie-dye-t-shirt?variant=43365616681078)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-oversized-tie-dye-t-shirt-sherbet-rainbow-front-69f64fee632d6.jpg?v=1777750033
+    Price: $49.99 USD
+  - [Sherbet rainbow / 2XL](https://novawear-6609.myshopify.com/products/oversized-tie-dye-t-shirt?variant=43365616713846)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-oversized-tie-dye-t-shirt-sherbet-rainbow-front-69f64fee632d6.jpg?v=1777750033
+    Price: $49.99 USD
+  - [Classic rainbow / S](https://novawear-6609.myshopify.com/products/oversized-tie-dye-t-shirt?variant=43365616746614)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-oversized-tie-dye-t-shirt-classic-rainbow-front-69f64fee66ec7.jpg?v=1777750032
+    Price: $49.99 USD
+  - [Classic rainbow / M](https://novawear-6609.myshopify.com/products/oversized-tie-dye-t-shirt?variant=43365616779382)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-oversized-tie-dye-t-shirt-classic-rainbow-front-69f64fee66ec7.jpg?v=1777750032
+    Price: $49.99 USD
+  - [Classic rainbow / L](https://novawear-6609.myshopify.com/products/oversized-tie-dye-t-shirt?variant=43365616812150)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-oversized-tie-dye-t-shirt-classic-rainbow-front-69f64fee66ec7.jpg?v=1777750032
+    Price: $49.99 USD
+  - [Classic rainbow / XL](https://novawear-6609.myshopify.com/products/oversized-tie-dye-t-shirt?variant=43365616844918)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-oversized-tie-dye-t-shirt-classic-rainbow-front-69f64fee66ec7.jpg?v=1777750032
+    Price: $49.99 USD
+  - [Classic rainbow / 2XL](https://novawear-6609.myshopify.com/products/oversized-tie-dye-t-shirt?variant=43365616877686)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-oversized-tie-dye-t-shirt-classic-rainbow-front-69f64fee66ec7.jpg?v=1777750032
+    Price: $49.99 USD
+  - [Black / White / S](https://novawear-6609.myshopify.com/products/oversized-tie-dye-t-shirt?variant=43365616910454)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-oversized-tie-dye-t-shirt-black-white-front-69f64fee68e6f.jpg?v=1777750032
+    Price: $49.99 USD
+  - [Black / White / M](https://novawear-6609.myshopify.com/products/oversized-tie-dye-t-shirt?variant=43365616943222)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-oversized-tie-dye-t-shirt-black-white-front-69f64fee68e6f.jpg?v=1777750032
+    Price: $49.99 USD
+  - [Black / White / L](https://novawear-6609.myshopify.com/products/oversized-tie-dye-t-shirt?variant=43365616975990)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-oversized-tie-dye-t-shirt-black-white-front-69f64fee68e6f.jpg?v=1777750032
+    Price: $49.99 USD
+  - [Black / White / XL](https://novawear-6609.myshopify.com/products/oversized-tie-dye-t-shirt?variant=43365617008758)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-oversized-tie-dye-t-shirt-black-white-front-69f64fee68e6f.jpg?v=1777750032
+    Price: $49.99 USD
+  - [Black / White / 2XL](https://novawear-6609.myshopify.com/products/oversized-tie-dye-t-shirt?variant=43365617041526)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-oversized-tie-dye-t-shirt-black-white-front-69f64fee68e6f.jpg?v=1777750032
+    Price: $49.99 USD
+- [Unisex essential organic hoodie](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie): Stay cozy and stylish with this thick, eco-friendly hoodie crafted from premium organic and recycled materials. Featuring a relaxed fit and a classic kangaroo pocket, it’s the perfect blend of comfort and streetwear chic. • 80% organic cotton, 20% recycled polyester • Fabric weight: 10.3 oz./yd.² (350 g/m²) • Regular fit • Set-in sleeves • Self-fabric double-layered hood • Kangaroo pocket • 1 × 1 rib at sleeve and bottom hems • Double-needle topstitch at the hem, cuffs, and armholes • Self-fabric half-moon at the back of the neck • Round drawcords with metal tipping • Metal eyelets • The fabric of this product holds certifications for its organic cotton content under GOTS (Global Organic Textile Standard) and OCS (Organic Content Standard). Additionally, GRS (Global Recycled Standard) certifies the recycled content present in the product. • Blank product sourced from BangladeshSize guide A (inches) B (inches) C (inches) S 26 ¾ 33 -36 25 ¼ M 28 ⅜ 37 -39 ¾ 25 ¾ L 29 ⅛ 41 -42 ⅞ 26 ⅜ XL 29 ⅞ 43 ¾-45 ⅝ 27 2XL 30 ¾ 46 ⅞-48 ⅞ 27 ½ 3XL 31 ½ 50.00-53 28 ⅜ 4XL 32 ¼ 54 -57 29 ⅛ 5XL 33 ⅛ 58 -61 29 ¾ A (cm) B (cm) C (cm) S 68 83.8-91.4 64 M 72 94-101 65.5 L 74 104-109 67 XL 76 111-116 68.6 2XL 78 119-124 70 3XL 80 127-134.6 72 4XL 82 137.2-144.8 74 5XL 84 147.3-155 75.5
+  Updated: 2026-05-04T07:15:48Z
+  Vendor: NovaWear
+  Product Type: T-SHIRT
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-desert-dust-front-69f79ec559dc8.jpg?v=1777835738
+  - [Black / S](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366765297782)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-black-front-69f79ec557339.jpg?v=1777835737
+    Price: $85.45 USD
+  - [Black / M](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366765330550)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-black-front-69f79ec557339.jpg?v=1777835737
+    Price: $85.45 USD
+  - [Black / L](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366765363318)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-black-front-69f79ec557339.jpg?v=1777835737
+    Price: $85.45 USD
+  - [Black / XL](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366765396086)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-black-front-69f79ec557339.jpg?v=1777835737
+    Price: $85.45 USD
+  - [Black / 2XL](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366765428854)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-black-front-69f79ec557339.jpg?v=1777835737
+    Price: $85.45 USD
+  - [Black / 3XL](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366765461622)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-black-front-69f79ec557339.jpg?v=1777835737
+    Price: $85.45 USD
+  - [Black / 4XL](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366765494390)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-black-front-69f79ec557339.jpg?v=1777835737
+    Price: $85.45 USD
+  - [Black / 5XL](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366765527158)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-black-front-69f79ec557339.jpg?v=1777835737
+    Price: $85.45 USD
+  - [French Navy / S](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366765559926)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-french-navy-front-69f79ec557d39.jpg?v=1777835737
+    Price: $85.45 USD
+  - [French Navy / M](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366765592694)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-french-navy-front-69f79ec557d39.jpg?v=1777835737
+    Price: $85.45 USD
+  - [French Navy / L](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366765625462)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-french-navy-front-69f79ec557d39.jpg?v=1777835737
+    Price: $85.45 USD
+  - [French Navy / XL](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366765658230)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-french-navy-front-69f79ec557d39.jpg?v=1777835737
+    Price: $85.45 USD
+  - [French Navy / 2XL](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366765690998)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-french-navy-front-69f79ec557d39.jpg?v=1777835737
+    Price: $85.45 USD
+  - [French Navy / 3XL](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366765723766)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-french-navy-front-69f79ec557d39.jpg?v=1777835737
+    Price: $85.45 USD
+  - [French Navy / 4XL](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366765756534)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-french-navy-front-69f79ec557d39.jpg?v=1777835737
+    Price: $85.45 USD
+  - [French Navy / 5XL](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366765789302)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-french-navy-front-69f79ec557d39.jpg?v=1777835737
+    Price: $85.45 USD
+  - [India Ink Grey / S](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366765822070)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-india-ink-grey-front-69f79ec557e31.jpg?v=1777835737
+    Price: $85.45 USD
+  - [India Ink Grey / M](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366765854838)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-india-ink-grey-front-69f79ec557e31.jpg?v=1777835737
+    Price: $85.45 USD
+  - [India Ink Grey / L](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366765887606)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-india-ink-grey-front-69f79ec557e31.jpg?v=1777835737
+    Price: $85.45 USD
+  - [India Ink Grey / XL](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366765920374)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-india-ink-grey-front-69f79ec557e31.jpg?v=1777835737
+    Price: $85.45 USD
+  - [India Ink Grey / 2XL](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366765953142)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-india-ink-grey-front-69f79ec557e31.jpg?v=1777835737
+    Price: $85.45 USD
+  - [Desert Dust / S](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366765985910)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-desert-dust-front-69f79ec559dc8.jpg?v=1777835738
+    Price: $85.45 USD
+  - [Desert Dust / M](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366766018678)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-desert-dust-front-69f79ec559dc8.jpg?v=1777835738
+    Price: $85.45 USD
+  - [Desert Dust / L](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366766051446)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-desert-dust-front-69f79ec559dc8.jpg?v=1777835738
+    Price: $85.45 USD
+  - [Desert Dust / XL](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366766084214)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-desert-dust-front-69f79ec559dc8.jpg?v=1777835738
+    Price: $85.45 USD
+  - [Desert Dust / 2XL](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366766116982)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-desert-dust-front-69f79ec559dc8.jpg?v=1777835738
+    Price: $85.45 USD
+  - [Heather Grey / S](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366766149750)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-heather-grey-front-69f79ec557dba.jpg?v=1777835738
+    Price: $85.45 USD
+  - [Heather Grey / M](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366766182518)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-heather-grey-front-69f79ec557dba.jpg?v=1777835738
+    Price: $85.45 USD
+  - [Heather Grey / L](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366766215286)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-heather-grey-front-69f79ec557dba.jpg?v=1777835738
+    Price: $85.45 USD
+  - [Heather Grey / XL](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366766248054)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-heather-grey-front-69f79ec557dba.jpg?v=1777835738
+    Price: $85.45 USD
+  - [Heather Grey / 2XL](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366766280822)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-heather-grey-front-69f79ec557dba.jpg?v=1777835738
+    Price: $85.45 USD
+  - [Heather Grey / 3XL](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366766313590)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-heather-grey-front-69f79ec557dba.jpg?v=1777835738
+    Price: $85.45 USD
+  - [Heather Grey / 4XL](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366766346358)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-heather-grey-front-69f79ec557dba.jpg?v=1777835738
+    Price: $85.45 USD
+  - [Heather Grey / 5XL](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366766379126)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-heather-grey-front-69f79ec557dba.jpg?v=1777835738
+    Price: $85.45 USD
+  - [White / S](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366766411894)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-white-front-69f79ec557eaa.jpg?v=1777835738
+    Price: $85.45 USD
+  - [White / M](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366766444662)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-white-front-69f79ec557eaa.jpg?v=1777835738
+    Price: $85.45 USD
+  - [White / L](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366766477430)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-white-front-69f79ec557eaa.jpg?v=1777835738
+    Price: $85.45 USD
+  - [White / XL](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366766510198)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-white-front-69f79ec557eaa.jpg?v=1777835738
+    Price: $85.45 USD
+  - [White / 2XL](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366766542966)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-white-front-69f79ec557eaa.jpg?v=1777835738
+    Price: $85.45 USD
+  - [White / 3XL](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366766575734)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-white-front-69f79ec557eaa.jpg?v=1777835738
+    Price: $85.45 USD
+  - [White / 4XL](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366766608502)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-white-front-69f79ec557eaa.jpg?v=1777835738
+    Price: $85.45 USD
+  - [White / 5XL](https://novawear-6609.myshopify.com/products/unisex-essential-organic-hoodie?variant=43366766641270)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-essential-organic-cruiser-2.0-hoodie-white-front-69f79ec557eaa.jpg?v=1777835738
+    Price: $85.45 USD
+- [Quarter zip pullover](https://novawear-6609.myshopify.com/products/quarter-zip-pullover): Jumping and squatting your way through an intense workout is difficult enough, so why not make it easier with comfy clothing that embraces your movement? The eco-friendly pullover is lightweight and comfortable and has sweat-wicking qualities that will keep your body cool and dry. • 100% recycled polyester • Regular fit • Self-mock collar, bottom hem, and cuffs • UPF 50+ protection • Hydrophilic finish • Contrast color adidas logo on the left sleeveSize guide LENGTH (inches) CHEST (inches) SLEEVE LENGTH (inches) S 27 ½ 41 ¼ 25 ¾ M 28 ¼ 44 ½ 26 ¼ L 29 ¼ 47 ¾ 26 ½ XL 30 50 ¾ 26 ¾ 2XL 31 54 ¾ 27 3XL 32 58 ¾ 27 ½ 4XL 32 ¾ 63 ½ 27 ¾ LENGTH (cm) CHEST (cm) SLEEVE LENGTH (cm) S 69.9 104.8 65.4 M 71.8 113 66.7 L 74.3 121.3 67.3 XL 76.2 129 68 2XL 78.7 139 68.6 3XL 81.3 149.2 69.9 4XL 83.2 161.3 70.5
+  Updated: 2026-05-04T07:25:49Z
+  Vendor: NovaWear
+  Product Type: EMBROIDERY
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-adidas-quarter-zip-pullover-black-heather-front-69f7a1290ee2d.jpg?v=1777836345
+  - [Black Heather / S](https://novawear-6609.myshopify.com/products/quarter-zip-pullover?variant=43366788989046)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-adidas-quarter-zip-pullover-black-heather-front-69f7a1290ee2d.jpg?v=1777836345
+    Price: $103.99 USD
+  - [Black Heather / M](https://novawear-6609.myshopify.com/products/quarter-zip-pullover?variant=43366789021814)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-adidas-quarter-zip-pullover-black-heather-front-69f7a1290ee2d.jpg?v=1777836345
+    Price: $103.99 USD
+  - [Black Heather / L](https://novawear-6609.myshopify.com/products/quarter-zip-pullover?variant=43366789054582)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-adidas-quarter-zip-pullover-black-heather-front-69f7a1290ee2d.jpg?v=1777836345
+    Price: $103.99 USD
+  - [Black Heather / XL](https://novawear-6609.myshopify.com/products/quarter-zip-pullover?variant=43366789087350)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-adidas-quarter-zip-pullover-black-heather-front-69f7a1290ee2d.jpg?v=1777836345
+    Price: $103.99 USD
+  - [Black Heather / 2XL](https://novawear-6609.myshopify.com/products/quarter-zip-pullover?variant=43366789120118)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-adidas-quarter-zip-pullover-black-heather-front-69f7a1290ee2d.jpg?v=1777836345
+    Price: $103.99 USD
+  - [Black Heather / 3XL](https://novawear-6609.myshopify.com/products/quarter-zip-pullover?variant=43366789152886)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-adidas-quarter-zip-pullover-black-heather-front-69f7a1290ee2d.jpg?v=1777836345
+    Price: $103.99 USD
+  - [Black Heather / 4XL](https://novawear-6609.myshopify.com/products/quarter-zip-pullover?variant=43366789185654)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-adidas-quarter-zip-pullover-black-heather-front-69f7a1290ee2d.jpg?v=1777836345
+    Price: $103.99 USD
+  - [White / S](https://novawear-6609.myshopify.com/products/quarter-zip-pullover?variant=43366789218422)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-adidas-quarter-zip-pullover-white-front-69f7a129114c7.jpg?v=1777836345
+    Price: $103.99 USD
+  - [White / M](https://novawear-6609.myshopify.com/products/quarter-zip-pullover?variant=43366789251190)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-adidas-quarter-zip-pullover-white-front-69f7a129114c7.jpg?v=1777836345
+    Price: $103.99 USD
+  - [White / L](https://novawear-6609.myshopify.com/products/quarter-zip-pullover?variant=43366789283958)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-adidas-quarter-zip-pullover-white-front-69f7a129114c7.jpg?v=1777836345
+    Price: $103.99 USD
+  - [White / XL](https://novawear-6609.myshopify.com/products/quarter-zip-pullover?variant=43366789316726)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-adidas-quarter-zip-pullover-white-front-69f7a129114c7.jpg?v=1777836345
+    Price: $103.99 USD
+  - [White / 2XL](https://novawear-6609.myshopify.com/products/quarter-zip-pullover?variant=43366789349494)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-adidas-quarter-zip-pullover-white-front-69f7a129114c7.jpg?v=1777836345
+    Price: $103.99 USD
+  - [White / 3XL](https://novawear-6609.myshopify.com/products/quarter-zip-pullover?variant=43366789382262)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-adidas-quarter-zip-pullover-white-front-69f7a129114c7.jpg?v=1777836345
+    Price: $103.99 USD
+  - [White / 4XL](https://novawear-6609.myshopify.com/products/quarter-zip-pullover?variant=43366789415030)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/mens-adidas-quarter-zip-pullover-white-front-69f7a129114c7.jpg?v=1777836345
+    Price: $103.99 USD
+- [Short sleeve t-shirt](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt): The tri-blend fabric creates a vintage, fitted look. And extreme durability makes this t-shirt withstand repeated washings and still remain super comfortable. • 50% polyester, 25% combed ring-spun cotton, 25% rayon • Fabric weight: 3.4 oz/yd² (115.3 g/m²) • Pre-shrunk for extra durability • 40 singles • Regular fit • Side-seamed construction • Blank product sourced from Guatemala, Nicaragua, Honduras, or the US Disclaimer: The fabric is slightly sheer and may appear see-through, especially in lighter colors or under certain lighting conditions.Size guide LENGTH (inches) WIDTH (inches) XS 27 16 ½ S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28 LENGTH (cm) WIDTH (cm) XS 68.6 42 S 71.1 45.7 M 73.7 50.8 L 76.2 55.9 XL 78.7 61 2XL 81.3 66 3XL 83.8 71.1
+  Updated: 2026-05-04T07:42:48Z
+  Vendor: NovaWear
+  Product Type: T-SHIRT
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-red-triblend-back-69f7a5081b697.jpg?v=1777837355
+  - [Teal Triblend / XS](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366797672566)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-teal-triblend-back-69f7a50822ac4.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Teal Triblend / S](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366797705334)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-teal-triblend-back-69f7a50822ac4.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Teal Triblend / M](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366797738102)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-teal-triblend-back-69f7a50822ac4.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Teal Triblend / L](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366797770870)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-teal-triblend-back-69f7a50822ac4.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Teal Triblend / XL](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366797803638)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-teal-triblend-back-69f7a50822ac4.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Teal Triblend / 2XL](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366797836406)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-teal-triblend-back-69f7a50822ac4.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Teal Triblend / 3XL](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366797869174)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-teal-triblend-back-69f7a50822ac4.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Maroon Triblend / XS](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366797901942)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-maroon-triblend-back-69f7a508225ef.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Maroon Triblend / S](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366797934710)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-maroon-triblend-back-69f7a508225ef.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Maroon Triblend / M](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366797967478)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-maroon-triblend-back-69f7a508225ef.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Maroon Triblend / L](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798000246)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-maroon-triblend-back-69f7a508225ef.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Maroon Triblend / XL](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798033014)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-maroon-triblend-back-69f7a508225ef.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Maroon Triblend / 2XL](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798065782)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-maroon-triblend-back-69f7a508225ef.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Maroon Triblend / 3XL](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798098550)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-maroon-triblend-back-69f7a508225ef.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Berry Triblend / XS](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798131318)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-berry-triblend-back-69f7a5082249d.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Berry Triblend / S](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798164086)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-berry-triblend-back-69f7a5082249d.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Berry Triblend / M](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798196854)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-berry-triblend-back-69f7a5082249d.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Berry Triblend / L](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798229622)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-berry-triblend-back-69f7a5082249d.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Berry Triblend / XL](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798262390)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-berry-triblend-back-69f7a5082249d.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Berry Triblend / 2XL](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798295158)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-berry-triblend-back-69f7a5082249d.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Berry Triblend / 3XL](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798327926)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-berry-triblend-back-69f7a5082249d.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Purple Triblend / XS](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798360694)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-purple-triblend-back-69f7a508228fa.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Purple Triblend / S](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798393462)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-purple-triblend-back-69f7a508228fa.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Purple Triblend / M](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798426230)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-purple-triblend-back-69f7a508228fa.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Purple Triblend / L](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798458998)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-purple-triblend-back-69f7a508228fa.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Purple Triblend / XL](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798491766)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-purple-triblend-back-69f7a508228fa.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Purple Triblend / 2XL](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798524534)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-purple-triblend-back-69f7a508228fa.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Purple Triblend / 3XL](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798557302)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-purple-triblend-back-69f7a508228fa.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Red Triblend / XS](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798590070)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-red-triblend-back-69f7a5081b697.jpg?v=1777837355
+    Price: $37.99 USD
+  - [Red Triblend / S](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798622838)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-red-triblend-back-69f7a5081b697.jpg?v=1777837355
+    Price: $37.99 USD
+  - [Red Triblend / M](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798655606)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-red-triblend-back-69f7a5081b697.jpg?v=1777837355
+    Price: $37.99 USD
+  - [Red Triblend / L](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798688374)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-red-triblend-back-69f7a5081b697.jpg?v=1777837355
+    Price: $37.99 USD
+  - [Red Triblend / XL](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798721142)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-red-triblend-back-69f7a5081b697.jpg?v=1777837355
+    Price: $37.99 USD
+  - [Red Triblend / 2XL](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798753910)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-red-triblend-back-69f7a5081b697.jpg?v=1777837355
+    Price: $37.99 USD
+  - [Red Triblend / 3XL](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798786678)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-red-triblend-back-69f7a5081b697.jpg?v=1777837355
+    Price: $37.99 USD
+  - [Blue Triblend / XS](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798819446)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-blue-triblend-back-69f7a50822551.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Blue Triblend / S](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798852214)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-blue-triblend-back-69f7a50822551.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Blue Triblend / M](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798884982)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-blue-triblend-back-69f7a50822551.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Blue Triblend / L](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798917750)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-blue-triblend-back-69f7a50822551.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Blue Triblend / XL](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798950518)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-blue-triblend-back-69f7a50822551.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Blue Triblend / 2XL](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366798983286)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-blue-triblend-back-69f7a50822551.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Blue Triblend / 3XL](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366799016054)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-blue-triblend-back-69f7a50822551.jpg?v=1777837354
+    Price: $37.99 USD
+  - [Aqua Triblend / XS](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366799048822)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-aqua-triblend-back-69f7a5082232c.jpg?v=1777837355
+    Price: $37.99 USD
+  - [Aqua Triblend / S](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366799081590)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-aqua-triblend-back-69f7a5082232c.jpg?v=1777837355
+    Price: $37.99 USD
+  - [Aqua Triblend / M](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366799114358)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-aqua-triblend-back-69f7a5082232c.jpg?v=1777837355
+    Price: $37.99 USD
+  - [Aqua Triblend / L](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366799147126)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-aqua-triblend-back-69f7a5082232c.jpg?v=1777837355
+    Price: $37.99 USD
+  - [Aqua Triblend / XL](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366799179894)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-aqua-triblend-back-69f7a5082232c.jpg?v=1777837355
+    Price: $37.99 USD
+  - [Aqua Triblend / 2XL](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366799212662)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-aqua-triblend-back-69f7a5082232c.jpg?v=1777837355
+    Price: $37.99 USD
+  - [Aqua Triblend / 3XL](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366799245430)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-aqua-triblend-back-69f7a5082232c.jpg?v=1777837355
+    Price: $37.99 USD
+  - [Olive Triblend / XS](https://novawear-6609.myshopify.com/products/short-sleeve-t-shirt?variant=43366799278198)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-tri-blend-t-shirt-olive-triblend-back-69f7a5082285e.jpg?v=1777837354
+    Price: $37.99 USD
+- [Urban hoodie](https://novawear-6609.myshopify.com/products/urban-hoodie): A relaxed classic made for every season. The Urban Hoodie features heavyweight fleece with an oversized fit that balances structure and softness. Its smooth, mill-dyed fabric offers a uniform tone and a polished look you can wear anywhere. • 80% cotton, 20% recycled polyester • Heather Grey is 70% cotton, 30% recycled polyester • Heavyweight fabric: 10 oz./yd² (340 g/m²) • Oversized fit • Two-panel hood, no drawcords • Front kangaroo pocket • Ribbed cuffs and waistband • Blank product sourced from PakistanSize guide CHEST (inches) LENGTH (inches) S 20 27 M 22 28 L 24 29 XL 26 30 2XL 28 31 3XL 30 32 CHEST (cm) LENGTH (cm) S 50.8 68.6 M 55.9 71.1 L 61 73.7 XL 66 76.2 2XL 71.1 78.7 3XL 76.2 81.3
+  Updated: 2026-05-04T08:01:24Z
+  Vendor: NovaWear
+  Product Type: T-SHIRT
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-urban-hoodie-black-front-and-back-69f7a97de106c.jpg?v=1777838478
+  - [Black / S](https://novawear-6609.myshopify.com/products/urban-hoodie?variant=43366811041910)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-urban-hoodie-black-front-and-back-69f7a97de106c.jpg?v=1777838478
+    Price: $67.99 USD
+  - [Black / M](https://novawear-6609.myshopify.com/products/urban-hoodie?variant=43366811074678)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-urban-hoodie-black-front-and-back-69f7a97de106c.jpg?v=1777838478
+    Price: $67.99 USD
+  - [Black / L](https://novawear-6609.myshopify.com/products/urban-hoodie?variant=43366811107446)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-urban-hoodie-black-front-and-back-69f7a97de106c.jpg?v=1777838478
+    Price: $67.99 USD
+  - [Black / XL](https://novawear-6609.myshopify.com/products/urban-hoodie?variant=43366811140214)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-urban-hoodie-black-front-and-back-69f7a97de106c.jpg?v=1777838478
+    Price: $67.99 USD
+  - [Black / 2XL](https://novawear-6609.myshopify.com/products/urban-hoodie?variant=43366811172982)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-urban-hoodie-black-front-and-back-69f7a97de106c.jpg?v=1777838478
+    Price: $67.99 USD
+  - [Black / 3XL](https://novawear-6609.myshopify.com/products/urban-hoodie?variant=43366811205750)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-urban-hoodie-black-front-and-back-69f7a97de106c.jpg?v=1777838478
+    Price: $67.99 USD
+  - [Sandshell / S](https://novawear-6609.myshopify.com/products/urban-hoodie?variant=43366811238518)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-urban-hoodie-sandshell-front-and-back-69f7a97de22db.jpg?v=1777838479
+    Price: $67.99 USD
+  - [Sandshell / M](https://novawear-6609.myshopify.com/products/urban-hoodie?variant=43366811271286)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-urban-hoodie-sandshell-front-and-back-69f7a97de22db.jpg?v=1777838479
+    Price: $67.99 USD
+  - [Sandshell / L](https://novawear-6609.myshopify.com/products/urban-hoodie?variant=43366811304054)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-urban-hoodie-sandshell-front-and-back-69f7a97de22db.jpg?v=1777838479
+    Price: $67.99 USD
+  - [Sandshell / XL](https://novawear-6609.myshopify.com/products/urban-hoodie?variant=43366811336822)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-urban-hoodie-sandshell-front-and-back-69f7a97de22db.jpg?v=1777838479
+    Price: $67.99 USD
+  - [Sandshell / 2XL](https://novawear-6609.myshopify.com/products/urban-hoodie?variant=43366811369590)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-urban-hoodie-sandshell-front-and-back-69f7a97de22db.jpg?v=1777838479
+    Price: $67.99 USD
+  - [Sandshell / 3XL](https://novawear-6609.myshopify.com/products/urban-hoodie?variant=43366811402358)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-urban-hoodie-sandshell-front-and-back-69f7a97de22db.jpg?v=1777838479
+    Price: $67.99 USD
+  - [White / S](https://novawear-6609.myshopify.com/products/urban-hoodie?variant=43366811435126)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-urban-hoodie-white-front-and-back-69f7a97de23ae.jpg?v=1777838478
+    Price: $67.99 USD
+  - [White / M](https://novawear-6609.myshopify.com/products/urban-hoodie?variant=43366811467894)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-urban-hoodie-white-front-and-back-69f7a97de23ae.jpg?v=1777838478
+    Price: $67.99 USD
+  - [White / L](https://novawear-6609.myshopify.com/products/urban-hoodie?variant=43366811500662)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-urban-hoodie-white-front-and-back-69f7a97de23ae.jpg?v=1777838478
+    Price: $67.99 USD
+  - [White / XL](https://novawear-6609.myshopify.com/products/urban-hoodie?variant=43366811533430)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-urban-hoodie-white-front-and-back-69f7a97de23ae.jpg?v=1777838478
+    Price: $67.99 USD
+  - [White / 2XL](https://novawear-6609.myshopify.com/products/urban-hoodie?variant=43366811566198)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-urban-hoodie-white-front-and-back-69f7a97de23ae.jpg?v=1777838478
+    Price: $67.99 USD
+  - [White / 3XL](https://novawear-6609.myshopify.com/products/urban-hoodie?variant=43366811598966)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0690/4892/6326/files/unisex-urban-hoodie-white-front-and-back-69f7a97de23ae.jpg?v=1777838478
+    Price: $67.99 USD
 
 ## Collections
 
 - [hoodies](https://novawear-6609.myshopify.com/collections/hoodies)
-  Updated: 2026-04-25T19:46:14Z
-  Total Products: 6
+  Updated: 2026-05-03T20:01:21Z
+  Total Products: 9
 - [sweatshirt](https://novawear-6609.myshopify.com/collections/sweatshirt)
-  Updated: 2026-04-25T19:46:15Z
-  Total Products: 6
+  Updated: 2026-05-03T19:25:48Z
+  Total Products: 9
 - [zip hoodies](https://novawear-6609.myshopify.com/collections/zip-hoodies)
-  Updated: 2026-04-25T19:46:15Z
+  Updated: 2026-05-02T19:45:05Z
   Total Products: 3
 - [T-shirts](https://novawear-6609.myshopify.com/collections/t-shirts)
-  Updated: 2026-04-25T19:46:15Z
-  Total Products: 5
+  Updated: 2026-05-03T19:42:42Z
+  Total Products: 9
 
 ## Blogs
 
