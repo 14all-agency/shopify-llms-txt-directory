@@ -1,26 +1,28 @@
 # PatchUp (https://www.patchup.fr)
 
+> PatchUp est une marque française de patches transdermiques bien-être, fondée sur la conviction que le bien-être doit être simple, discret et efficace. La gamme comprend 7 patches actifs à porter 8h par jour : DREAM (sommeil), ZEN (stress), ENERGY (énergie), FOCUS (concentration), DAILY (immunité), AFTER PARTY (récupération) et LIBIDO (vitalité). Tous les actifs sont naturels et diffusés par voie transdermique directement dans la peau, sans ingestion. Partenaires : Nature & Découvertes, Amazon France.
+
 - Domain: https://www.patchup.fr
 - Locale: fr
 - Currency: EUR
 - Timezone: Europe/Paris
 - Created At: 2025-01-07T20:12:04Z
 - Contact Email: contact@patchup.fr
-- Updated At: 2026-04-28T06:57:43.421Z
+- Updated At: 2026-05-06T00:00:30.049Z
 
 PatchUp est une marque française de patches transdermiques bien-être. Slogan : "Le bien-être te colle à la peau." Gamme de 7 patches actifs formulés avec des ingrédients naturels pour le sommeil, le stress, l'énergie, la concentration, l'immunité, la récupération et la libido.
 
 ## Products
 
 - [Patch Concentration & Mémoire Naturel | PatchUp](https://www.patchup.fr/products/focus-patch): Patchs bien être qui améliore ta concentration et ta mémoire. PatchUp Focus libère ses actifs en continu via la peau pendant 8h. Idéal travail, études. Vegan.
-  Updated: 2026-04-21T10:38:56Z
+  Updated: 2026-04-29T06:00:26Z
   Vendor: PatchUp
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0913/5816/7385/files/patch-concentration-memoire-vitamines-patchup.png?v=1774429426
   Price: 29,90 € EUR
 - [Patch Énergie Naturel Sans Caféine | PatchUp](https://www.patchup.fr/products/energy-patch): Boost ton énergie sans pic ni crash. PatchUp Energy diffuse ses actifs naturels pendant 8h directement dans le sang. Vitalité stable toute la journée. Essaie maintenant.
-  Updated: 2026-04-17T07:29:42Z
+  Updated: 2026-05-01T23:16:46Z
   Vendor: PatchUp
   Product Type: 
   Availability: Available
@@ -89,19 +91,19 @@ PatchUp est une marque française de patches transdermiques bien-être. Slogan :
   Updated: 2025-10-01T06:01:31Z
   Total Products: 2
 - [Coup de Boost](https://www.patchup.fr/collections/coup-de-boost)
-  Updated: 2026-04-16T20:10:39Z
+  Updated: 2026-05-02T11:27:21Z
   Total Products: 3
 - [Party et Focus](https://www.patchup.fr/collections/party-et-focus)
-  Updated: 2026-04-21T11:29:59Z
+  Updated: 2026-05-02T11:27:21Z
   Total Products: 5
 - [Patchup](https://www.patchup.fr/collections/patchup)
-  Updated: 2026-04-21T11:29:59Z
+  Updated: 2026-05-02T11:27:21Z
   Total Products: 10
 - [Les packs duo](https://www.patchup.fr/collections/les-packs-duo)
   Updated: 2025-12-03T10:25:28Z
   Total Products: 6
 - [Tous les produits](https://www.patchup.fr/collections/tous-les-produits)
-  Updated: 2026-04-21T11:29:59Z
+  Updated: 2026-05-02T11:27:21Z
   Total Products: 21
 - [Les Trios](https://www.patchup.fr/collections/les-trios)
   Updated: 2025-08-20T16:42:42Z
@@ -113,7 +115,7 @@ PatchUp est une marque française de patches transdermiques bien-être. Slogan :
   Updated: 2025-12-31T09:17:16Z
   Total Products: 0
 - [Studioh x Patchup](https://www.patchup.fr/collections/studioh-x-patchup): .sh-hero{background:#0d1f3c;padding:36px 28px;border-radius:14px;text-align:center;margin-bottom:22px;} .sh-hero a.sh-logo-link{display:block;margin-bottom:16px;} .sh-hero a.sh-logo-link img{height:50px;display:block;margin:0 auto;} .sh-badge{display:inline-block;background:rgba(255,255,255,0.08);color:#a8c4e8;font-size:10px;font-weight:500;padding:4px 14px;border-radius:20px;letter-spacing:1.5px;text-transform:uppercase;margin-bottom:18px;border:1px solid rgba(255,255,255,0.12);} .sh-hero h2{color:#fff;font-size:1.3rem;font-weight:600;margin:0 0 14px;line-height:1.45;} .sh-intro{color:#8daecf;font-size:0.86rem;line-height:1.75;max-width:500px;margin:0 auto 12px;} .sh-tagline{color:#c8dff2;font-size:0.9rem;font-weight:600;margin:0 auto 20px;font-style:italic;} .sh-divider{width:40px;height:2px;background:rgba(255,255,255,0.12);margin:0 auto 18px;border-radius:2px;} .sh-hero a.sh-site-link{color:#6a9fd4;font-size:0.78rem;text-decoration:none;border-bottom:1px solid rgba(106,159,212,0.3);} .sh-moments{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin-bottom:22px;} @media(min-width:600px){.sh-moments{grid-template-columns:repeat(4,1fr);}} .sh-card{background:#fff;border:1px solid #eeebe6;border-radius:10px;padding:14px 12px;} .sh-card .sh-tag{display:block;font-size:10px;font-weight:600;padding:2px 8px;border-radius:20px;margin-bottom:8px;width:fit-content;} .sh-avant .sh-tag{background:#FEF3E2;color:#92580a;} .sh-seance .sh-tag{background:#E3EEF8;color:#1a5a8a;} .sh-apres .sh-tag{background:#EAF5EE;color:#1f6b3a;} .sh-nuit .sh-tag{background:#EEF0F8;color:#3a3d7a;} .sh-card h3{font-size:0.82rem;font-weight:600;margin:0 0 5px;line-height:1.3;color:#1a1a1a;} .sh-card p{font-size:0.77rem;color:#777;line-height:1.55;margin:0 0 8px;} .sh-pills{display:flex;flex-wrap:wrap;gap:4px;} .sh-pill{font-size:10px;background:#f5f2ee;border:1px solid #e8e3dc;padding:2px 8px;border-radius:20px;color:#888;} .sh-promo{background:#f5f0ea;border:1px solid #e2d8cc;padding:16px 20px;border-radius:10px;text-align:center;font-size:0.87rem;line-height:1.6;color:#4a3d30;} .sh-promo strong{color:#2a1f12;} Espace exclusif · Adhérents Studio H Cet espace t'est réservé.À toi, et seulement à toi. Brice et Émilia ont voulu aller plus loin que la séance. Parce qu'ils savent que la vraie performance se joue aussi entre deux entraînements — dans ta récupération, ton sommeil, ton niveau d'énergie au quotidien. PatchUp, c'est la pièce manquante de ta routine sportive. Découvrir Studio H, coaching & sport à Toulouse Borderouge → Avant la séance Fatigue accumulée ? Sois vraiment dans ta séance, même après une journée chargée. EnergyFocus Pendant l'effort Tenir sur la durée Pas de crash. Une énergie stable du début à la fin. Energy Après la séance Récupérer plus vite Aide ton corps à récupérer pour être prêt dès la prochaine session. After PartyDaily La nuit La récup se joue là 80% de la récup musculaire se fait en dormant. Dream 🎁 Ta remise de −10% est déjà appliquée sur toute la boutique — rien à saisir, rien à faire.
-  Updated: 2026-04-21T11:29:59Z
+  Updated: 2026-05-02T11:27:21Z
   Total Products: 9
 - [Patch Sommeil Naturel Sans Mélatonine | PatchUp](https://www.patchup.fr/collections/patch-sommeil): Retrouve un sommeil profond et réparateur avec nos patchs sommeil transdermiques. Valériane, 5-HTP, magnésium diffusés 8h. Sans mélatonine, sans accoutumance. Livraison gratuite dès 60€.
   Updated: 2026-04-02T11:28:37Z
@@ -521,6 +523,12 @@ PatchUp est une marque française de patches transdermiques bien-être. Slogan :
   - [Lavande : bienfaits sur le sommeil et le stress | PatchUp](https://www.patchup.fr/blogs/news/lavande-bienfaits-sur-le-sommeil-et-le-stress-patchup)
     Updated: 2026-04-22T05:30:01Z
     Author: Yannick Blaser
+  - [Comment récupérer après une soirée arrosée naturellement | PatchUp](https://www.patchup.fr/blogs/news/comment-r-cup-rer-apr-s-une-soir-e-arros-e-naturellement)
+    Updated: 2026-04-29T05:39:01Z
+    Author: Yannick Blaser
+  - [Stress chronique : signes, causes et solutions naturelles avant le burn-out | PatchUp](https://www.patchup.fr/blogs/news/stress-chronique-signes-causes-et-solutions-naturelles-avant-le-burn-out)
+    Updated: 2026-04-29T05:45:01Z
+    Author: Yannick Blaser
   - [Patch sommeil sans mélatonine : la solution naturelle pour mieux dormir](https://www.patchup.fr/blogs/news/patch-sommeil-sans-melatonine-la-solution-naturelle-pour-mieux-dormir): <pre>La mélatonine est partout. Mais est-ce vraiment la seule solution pour retrouver le sommeil ? Découvrez pourquoi les patchs transdermiques à base de plantes peuvent être plus efficaces — et surtout, sans les effets secondaires.</pre>
     Updated: 2026-03-30T08:41:02Z
     Author: Yannick Blaser
@@ -535,6 +543,9 @@ PatchUp est une marque française de patches transdermiques bien-être. Slogan :
     Author: Yannick Blaser
   - [Ashwagandha en patch : pourquoi la voie transdermique change tout pour le stress](https://www.patchup.fr/blogs/news/ashwagandha-en-patch-pourquoi-la-voie-transdermique-change-tout-pour-le-stress): <p><meta charset="utf-8"><span>L'ashwagandha est devenu la plante anti-stress numéro un. Mais entre la gélule avalée à la va-vite et le patch transdermique qui diffuse en continu — la différence est réelle. Voici pourquoi.</span></p>
     Updated: 2026-04-27T08:48:01Z
+    Author: Yannick Blaser
+  - [Patch libido naturel : plantes, efficacité et comment ça marche pour hommes et femmes](https://www.patchup.fr/blogs/news/patch-libido-naturel-plantes-efficacite-et-comment-ca-marche-pour-hommes-et-femmes): <p><meta charset="utf-8"><span>La baisse de libido touche 30% des adultes en France. Avant de chercher des solutions médicales, il existe des plantes reconnues dont l'efficacité est documentée. Et en patch, leur action est encore plus régulière.</span></p>
+    Updated: 2026-05-04T08:49:04Z
     Author: Yannick Blaser
   - [comment s'endormir rapidement naturellement ?](https://www.patchup.fr/blogs/news/comment-s-endormir-rapidement-naturellement): <p>Tu n'arrives pas à t'endormir ou tu te réveilles la nuit ? Découvre comment le patch Dream agit en 8h pour un sommeil profond et réparateur, sans somnifères.</p>
     Updated: 2026-03-30T08:11:15Z
@@ -643,8 +654,6 @@ PatchUp est une marque française de patches transdermiques bien-être. Slogan :
 
 ## Partenaires
 - [Nature & Découvertes](https://patchup.fr/pages/partenaires): Marketplace bien-être et santé naturelle
-- [Studio H Toulouse](https://patchup.fr/collections/studioh-x-patchup): Salle de sport partenaire à Borderouge
-
 ## Réseaux sociaux
 - Instagram : https://www.instagram.com/patchup.fr
 
@@ -653,4 +662,4 @@ PatchUp est une marque française de patches transdermiques bien-être. Slogan :
 - [robots.txt](https://www.patchup.fr/robots.txt)
 - [sitemap.xml](https://www.patchup.fr/sitemap.xml)
 
-Code promo premier achat : BIENVENUE10 (-10%). Disponible sur patchup.fr, Nature & Découvertes, Studio H Toulouse et Amazon France.
+Code promo premier achat : BIENVENUE10 (-10%). Disponible sur patchup.fr, Nature & Découvertes,  et Amazon France.
