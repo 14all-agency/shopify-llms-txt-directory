@@ -6,19 +6,19 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2026-04-14T06:57:27Z
 - Contact Email: cowzyfeels@gmail.com
-- Updated At: 2026-04-26T00:00:31.445Z
+- Updated At: 2026-05-06T00:00:34.687Z
 
 ## Products
 
-- [Dad Cap — "Soft. But Strong" Embroidered Baseball Hat](https://cowzy-feels.myshopify.com/products/dad-cap-soft-but-strong-embroidered-baseball-hat): Lightweight and quietly confident, this classic dad cap carries a small, embroidered message — “Soft. But Strong.” — that reads like a gentle reminder. The low-profile, unstructured shape sits comfortably on long days outdoors or quick coffee runs. Its precurved Permacurv® visor and matching underbill keep sun and glare in check while the hideaway strap with antique brass buckle lets you dial in a secure, lived-in fit. Worn with a faded tee, a worn jacket, or folded into a tote, it’s the understated piece that speaks softly about resilience and calm resolve.Product features- Unstructured 6-panel body with low-profile, comfortable fit- Precurved Permacurv® visor with matching underbill and 4-row stitching- Self-fabric hideaway strap with antique brass buckle and grommet for adjustable fit- 100% cotton construction (Green Camo variant: 65% polyester, 35% cotton)- Sewn-in label and brand sticker on the visor;  sizing with age restrictionCare instructions- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.
-  Updated: 2026-04-16T09:23:30Z
+- [Soft But Strong Embroidered Dad Cap — Cowzy Feels](https://cowzy-feels.myshopify.com/products/dad-cap-soft-but-strong-embroidered-baseball-hat): A low-profile dad cap with a quiet message. The "Soft. But Strong." embroidered baseball hat from Cowzy Feels — for those who carry resilience without making noise.
+  Updated: 2026-05-01T04:45:07Z
   Vendor: Printify
   Product Type: Hats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/20260414080828-1f137d91-ebb5-61bc-b683-0af5099c7f23.png?v=1776154228
   Price: R 312.45 ZAR
-- [Highland Cow Graphic Hoodie — Cute Highland Cattle Illustration Sweatshirt](https://cowzy-feels.myshopify.com/products/highland-cow-graphic-hoodie-cute-highland-cattle-illustration-sweatshirt): Soft, substantial, and quietly bold — this garment-dyed hoodie carries a hand-drawn Highland bull emblem across the chest, a small but striking nod to rustic strength and gentle resilience. The heavy, ringspun-cotton blend feels warm against cool mornings and holds shape through repeated wear. Wear it for slow walks, late-night studio sessions, or when you want an easy layer that reads thoughtful, not flashy. The relaxed fit and lined hood make it comfortable for layering; the minimalist black emblem keeps the look versatile and calm. It’s the kind of sweatshirt you reach for when you want to feel grounded and steady.Product features- 80% ringspun cotton / 20% polyester heavy fabric (9.5 oz /yd²) for a soft yet durable feel- Relaxed fit with 1x1 ribbed cuffs and bottom hem for stretch and recovery- Jersey-lined hood with self-colored flatcord drawstrings- Necktape and half-moon back patch for stability and long-lasting shape- Sewn-in twill label; thoughtfully finished details for everyday wearCare instructions- Do not dryclean- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat
-  Updated: 2026-04-16T09:23:30Z
+- [Highland Cow Graphic Hoodie — Cowzy Feels](https://cowzy-feels.myshopify.com/products/highland-cow-graphic-hoodie-cute-highland-cattle-illustration-sweatshirt): A garment-dyed hoodie with a hand-drawn Highland bull emblem. Heavy, warm, and quietly bold — built for those who find strength in stillness.
+  Updated: 2026-05-01T04:44:54Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
@@ -115,8 +115,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/12798218804775683406_2048.jpg?v=1776165770
     Price: R 1,499.00 ZAR
-- [Minimalist Winged Skull T-Shirt](https://cowzy-feels.myshopify.com/products/minimalist-winged-skull-t-shirt): A soft, dependable tee that slips into your everyday rhythm. This classic crewneck carries a small, intricate emblem at the chest — a quiet detail for people who prefer subtle storytelling over loud logos. Wear it on long drives, at backyard bonfires, or while sketching at your favorite café; the lightweight cotton feels breathable in warm weather and layers cleanly under a flannel when temperatures drop. The small print reads like an insider nod to friends who notice the little things. Built for repeated wear and easy care, this shirt becomes more lived-in and personal with each wash.Product features- 100% cotton solid colors (medium 180 g/m²) for breathability and durability- Tubular knit (no side seams) for cleaner lines and reduced fabric waste- Ribbed knit collar and shoulder tape to maintain shape and prevent stretching- Dual printing: DTF for sleeves/neck labels and DTG for main prints for crisp, detailed artwork- Tear-away label, Oeko-Tex , made in Nicaragua with ethical supply chain practicesCare instructions- Non-chlorine: bleach as needed- Do not iron- Do not dryclean- Machine wash: cold (max 30C or 90F)- Tumble dry: low heat
-  Updated: 2026-04-18T07:01:44Z
+- [Minimalist Winged Skull T-Shirt — Cowzy Feels](https://cowzy-feels.myshopify.com/products/minimalist-winged-skull-t-shirt): A soft everyday tee with a small, intricate winged skull emblem at the chest. Subtle storytelling for those who notice the little things. By Cowzy Feels.
+  Updated: 2026-05-01T04:44:20Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -265,8 +265,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/14054108266393556863_2048.jpg?v=1776271086
     Price: R 390.00 ZAR
-- [Youth T-Shirt with Viking Horned Beast Illustration — Kids Norse Myth Tee](https://cowzy-feels.myshopify.com/products/youth-t-shirt-with-viking-horned-beast-illustration-kids-norse-myth-tee): Soft, lightweight youth tee with a small, hand-drawn emblem centered on the chest — a shaggy horned creature curled into a ring of logs. It reads like a quiet woodland badge: a little wild, a little cozy. The retail cut and crew neckline give it a modern, wearable silhouette for everyday play and exploration. Breathable airlume-combed cotton keeps kids comfortable during backyard adventures, nature walks, or lazy afternoons building forts. Subtle and slightly mysterious, the design invites curiosity without shouting, so it layers easily under jackets or pairs with jeans and boots for an outdoorsy, storybook vibe.Product features- 100% cotton solid colors; heather blends include cotton/polyester mixes- Extra lightweight airlume-combed, ring-spun cotton for a soft hand (4.2 oz/yd²)- Side seams and shoulder tape for shape retention and stability- Retail fit with crew neckline and ribbed knit collar for comfortable, modern styling- DTF inner neck label and tear-away label for scratch-free wear; ethically manufacturedCare instructions- Machine wash: warm (max 40C or 105F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam or dry: medium heat- Do not dry clean
-  Updated: 2026-04-16T09:23:31Z
+- [Kids Viking Horned Beast T-Shirt — Cowzy Feels](https://cowzy-feels.myshopify.com/products/youth-t-shirt-with-viking-horned-beast-illustration-kids-norse-myth-tee): A soft youth tee with a hand-drawn shaggy horned creature emblem. A little wild, a little cozy — for kids who love adventure and Norse-inspired stories.
+  Updated: 2026-05-01T04:43:39Z
   Vendor: Printify
   Product Type: Kids clothes
   Availability: Available
@@ -319,8 +319,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/15116794325437824922_2048.jpg?v=1776271239
     Price: R 290.00 ZAR
-- [Unisex Heavy Blend™ Crewneck Sweatshirt](https://cowzy-feels.myshopify.com/products/unisex-heavy-blend™-crewneck-sweatshirt): The Gildan 18000 sweatshirt is a unisex heavy blend crewneck made from a 50/50 cotton-polyester fabric, combining softness with lasting durability. Its smooth surface supports crisp, vibrant prints and embroidery, while the ribbed-knit collar and reinforced cuffs help it keep its shape over time. A seamless body design reduces irritation and adds to overall comfort. Practical, sturdy, and print-friendly, the Gildan 18000 sweatshirt remains a top choice for custom apparel. Disclaimers:- Due to the fabric properties, the White color variant may appear off-white rather than bright white.- Subtle orange hue shifts with lighting in the Orange color variant..: The Gildan 18000 sweatshirt is built for comfort and durability, made from a medium-heavy (8.0 oz/yd² (271 g/m²)) 50/50 cotton-polyester blend. .: The classic fit along with the crew neckline deliver a comfy wearing experience with a clean-cut style. Meanwhile, the double-needle stitching at the shoulder, armhole, neck, waistband, and cuff seams add top-tier durability. .: Say goodbye to itchiness thanks to the gray, pearlized tear-away label. .: The Gildan 18000 sweatshirt is crafted from ethically grown US cotton and backed by the US Cotton Trust Protocol, with OEKO-TEX  dyes that meet safety and environmental standards. .: Fabric blends: Heather Sport colors - 60% polyester, 40% cotton.: Embroidery decoration method available on either left chest, center chest, or large center chest, as well as right + left wrists
-  Updated: 2026-04-24T18:31:49Z
+- [Unisex Heavy Blend Crewneck Sweatshirt — Cowzy Feels](https://cowzy-feels.myshopify.com/products/unisex-heavy-blend™-crewneck-sweatshirt): A heavyweight crewneck sweatshirt built for comfort and lasting wear. Soft cotton-polyester blend, ribbed collar, and a clean canvas for bold prints. By Cowzy Feels.
+  Updated: 2026-05-04T18:35:42Z
   Vendor: Printify
   Product Type: Sweatshirt
   Availability: Available
@@ -357,24 +357,125 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/20260422091007-1f13e2b0-ec4d-63b6-8d04-0e7f6448eb6a.png?v=1776849153
     Price: R 460.99 ZAR
+- [Grow Through It T-Shirt — Inspirational Daily Reminder Tee](https://cowzy-feels.myshopify.com/products/grow-through-it-t-shirt-inspirational-daily-reminder-tee): This T-Shirt carries a quiet, steady message: Grow through it. It sits like a second skin for people who meet small daily storms with ordinary courage. The lightweight, ring-spun cotton feels soft against the skin; the simple crew neck and classic fit keep the silhouette clean so the words take center stage. Wear it on a slow morning with coffee, layered under a jacket for a tough day, or after a long walk when you need to breathe and keep moving. The message reads like a nudge from a friend — not loud, but steady — and the shirt’s understated look makes that nudge feel personal and real. Built to last and  for safety, it’s a reliable piece for those who value durability and quiet reminders to keep growing.Product features- 100% ring-spun cotton — lightweight, soft (4.5 oz/yd²)- Tubular knit (no side seams) for reduced waste and smooth fit- Ribbed collar with shoulder tape for shape retention and stability- Pearlized tear-away label for comfort; safety  (Oeko-Tex)- DTF and DTG printing methods used for crisp sleeve and body printsCare instructions- Do not dryclean- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Machine wash: cold (max 30C or 90F), with similar colors
+  Updated: 2026-05-05T06:08:08Z
+  Vendor: Printify
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/1280707811108051732_2048.jpg?v=1777918076
+  - [Sport Grey / S](https://cowzy-feels.myshopify.com/products/grow-through-it-t-shirt-inspirational-daily-reminder-tee?variant=42955898814541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/15695122312491465961_2048.jpg?v=1777918081
+    Price: R 280.00 ZAR
+  - [White / S](https://cowzy-feels.myshopify.com/products/grow-through-it-t-shirt-inspirational-daily-reminder-tee?variant=42955898847309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/1280707811108051732_2048.jpg?v=1777918076
+    Price: R 280.00 ZAR
+  - [Sky / S](https://cowzy-feels.myshopify.com/products/grow-through-it-t-shirt-inspirational-daily-reminder-tee?variant=42955898880077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/8529418575392038929_2048.jpg?v=1777918090
+    Price: R 280.00 ZAR
+  - [Sage / S](https://cowzy-feels.myshopify.com/products/grow-through-it-t-shirt-inspirational-daily-reminder-tee?variant=42955898912845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/6708467529992747332_2048.jpg?v=1777918086
+    Price: R 280.00 ZAR
+  - [Sport Grey / M](https://cowzy-feels.myshopify.com/products/grow-through-it-t-shirt-inspirational-daily-reminder-tee?variant=42955898945613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/15695122312491465961_2048.jpg?v=1777918081
+    Price: R 280.00 ZAR
+  - [White / M](https://cowzy-feels.myshopify.com/products/grow-through-it-t-shirt-inspirational-daily-reminder-tee?variant=42955898978381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/1280707811108051732_2048.jpg?v=1777918076
+    Price: R 280.00 ZAR
+  - [Sky / M](https://cowzy-feels.myshopify.com/products/grow-through-it-t-shirt-inspirational-daily-reminder-tee?variant=42955899011149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/8529418575392038929_2048.jpg?v=1777918090
+    Price: R 280.00 ZAR
+  - [Sage / M](https://cowzy-feels.myshopify.com/products/grow-through-it-t-shirt-inspirational-daily-reminder-tee?variant=42955899043917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/6708467529992747332_2048.jpg?v=1777918086
+    Price: R 280.00 ZAR
+  - [Sport Grey / L](https://cowzy-feels.myshopify.com/products/grow-through-it-t-shirt-inspirational-daily-reminder-tee?variant=42955899076685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/15695122312491465961_2048.jpg?v=1777918081
+    Price: R 280.00 ZAR
+  - [White / L](https://cowzy-feels.myshopify.com/products/grow-through-it-t-shirt-inspirational-daily-reminder-tee?variant=42955899109453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/1280707811108051732_2048.jpg?v=1777918076
+    Price: R 280.00 ZAR
+  - [Sky / L](https://cowzy-feels.myshopify.com/products/grow-through-it-t-shirt-inspirational-daily-reminder-tee?variant=42955899142221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/8529418575392038929_2048.jpg?v=1777918090
+    Price: R 280.00 ZAR
+  - [Sage / L](https://cowzy-feels.myshopify.com/products/grow-through-it-t-shirt-inspirational-daily-reminder-tee?variant=42955899174989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/6708467529992747332_2048.jpg?v=1777918086
+    Price: R 280.00 ZAR
+  - [Sport Grey / XL](https://cowzy-feels.myshopify.com/products/grow-through-it-t-shirt-inspirational-daily-reminder-tee?variant=42955899207757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/15695122312491465961_2048.jpg?v=1777918081
+    Price: R 280.00 ZAR
+  - [White / XL](https://cowzy-feels.myshopify.com/products/grow-through-it-t-shirt-inspirational-daily-reminder-tee?variant=42955899240525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/1280707811108051732_2048.jpg?v=1777918076
+    Price: R 280.00 ZAR
+  - [Sky / XL](https://cowzy-feels.myshopify.com/products/grow-through-it-t-shirt-inspirational-daily-reminder-tee?variant=42955899273293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/8529418575392038929_2048.jpg?v=1777918090
+    Price: R 280.00 ZAR
+  - [Sage / XL](https://cowzy-feels.myshopify.com/products/grow-through-it-t-shirt-inspirational-daily-reminder-tee?variant=42955899306061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/6708467529992747332_2048.jpg?v=1777918086
+    Price: R 280.00 ZAR
+  - [Sport Grey / 2XL](https://cowzy-feels.myshopify.com/products/grow-through-it-t-shirt-inspirational-daily-reminder-tee?variant=42955899338829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/15695122312491465961_2048.jpg?v=1777918081
+    Price: R 280.00 ZAR
+  - [White / 2XL](https://cowzy-feels.myshopify.com/products/grow-through-it-t-shirt-inspirational-daily-reminder-tee?variant=42955899371597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/1280707811108051732_2048.jpg?v=1777918076
+    Price: R 280.00 ZAR
+  - [Sky / 2XL](https://cowzy-feels.myshopify.com/products/grow-through-it-t-shirt-inspirational-daily-reminder-tee?variant=42955899404365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/8529418575392038929_2048.jpg?v=1777918090
+    Price: R 280.00 ZAR
+  - [Sage / 2XL](https://cowzy-feels.myshopify.com/products/grow-through-it-t-shirt-inspirational-daily-reminder-tee?variant=42955899437133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/6708467529992747332_2048.jpg?v=1777918086
+    Price: R 280.00 ZAR
+  - [Sky / 3XL](https://cowzy-feels.myshopify.com/products/grow-through-it-t-shirt-inspirational-daily-reminder-tee?variant=42955899469901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/8529418575392038929_2048.jpg?v=1777918090
+    Price: R 280.00 ZAR
+  - [Sage / 3XL](https://cowzy-feels.myshopify.com/products/grow-through-it-t-shirt-inspirational-daily-reminder-tee?variant=42955899502669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/6708467529992747332_2048.jpg?v=1777918086
+    Price: R 280.00 ZAR
+- [Soft but Strong: Feminine Floral Strength](https://cowzy-feels.myshopify.com/products/soft-but-strong-feminine-floral-strength): This cropped hoodie channels quiet strength with a soft, lived-in feel. It sits shorter at the waist for a modern silhouette, the raw hem and dropped shoulders lending effortless ease. The hood with adjustable drawstrings offers coverage and attitude without bulk. The fabric—mostly combed ringspun cotton with a touch of recycled polyester—feels luxurious against skin while holding up to regular wear. Thoughtful construction like double-needle topstitching and a soft 3-end fleece interior keeps it durable yet comfortable. Printed with a DTF technique that preserves detail, this hoodie suits someone who blends gentleness with grit—worn for morning coffee runs, late-night studio sessions, or days when you want to move freely and feel grounded.Product features- Durable double-needle topstitching for long-lasting seams- Relaxed, dropped-shoulder fit with a raw cropped hem- Adjustable hood with woven drawstrings and metal grommets- Soft 85% combed ringspun cotton / 15% (recycled) polyester, medium 7.0 oz fabric- DTF printed design on soft 3-end fleece; tear-away label and under 5% shrinkageCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Do not iron- Do not dryclean
+  Updated: 2026-05-05T06:29:45Z
+  Vendor: Printify
+  Product Type: Hoodie
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0703/8045/3965/files/10819266300824638669_2048.jpg?v=1777919379
+  Price: R 340.00 ZAR
 
 ## Collections
 
 - [Home page](https://cowzy-feels.myshopify.com/collections/frontpage)
-  Updated: 2026-04-16T09:23:30Z
+  Updated: 2026-04-30T16:45:01Z
   Total Products: 1
 - [General Clothes Example Products](https://cowzy-feels.myshopify.com/collections/general-clothes-example-products): Browse our general clothes example products collection.
-  Updated: 2026-04-16T09:23:30Z
-  Total Products: 2
+  Updated: 2026-04-30T16:44:04Z
+  Total Products: 1
 - [Featured](https://cowzy-feels.myshopify.com/collections/featured): Discover our newest arrivals — carefully curated pieces added to the Cowzy Feels collection. Be the first to wear what's next
-  Updated: 2026-04-16T09:23:30Z
-  Total Products: 3
+  Updated: 2026-05-04T18:33:58Z
+  Total Products: 2
 - [The Hero — Soft But Strong | Cowzy Feels](https://cowzy-feels.myshopify.com/collections/the-hero): The founding piece of Cowzy Feels. The bull skull in bloom. Soft. Strong. Yours.
-  Updated: 2026-04-20T08:29:40Z
-  Total Products: 3
+  Updated: 2026-05-04T18:07:45Z
+  Total Products: 0
 - [The Resilience Series Drop 1 — Cowzy Feels](https://cowzy-feels.myshopify.com/collections/the-resilience-series): Drop 1 from Cowzy Feels. Designs for those who feel deeply and carry quietly. Soft. Strong. Yours.
-  Updated: 2026-04-20T08:30:08Z
-  Total Products: 6
+  Updated: 2026-05-04T18:33:58Z
+  Total Products: 0
 
 ## Store Pages
 
