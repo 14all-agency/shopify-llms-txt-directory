@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2025-06-27T19:16:57Z
 - Contact Email: info@nutrazek.com
-- Updated At: 2026-04-29T00:00:36.758Z
+- Updated At: 2026-05-06T00:00:39.427Z
 
 ## Products
 
@@ -25,25 +25,25 @@
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/8e6e07ce-8084-46f1-958f-ce468974642c.jpg?v=1757932370
   Price: 21,90 CHF CHF
 - [Löwenmähne Gummies + B6 – Hericium erinaceus mit Beta-Glucanen | NUTRAZEK](https://nutrazek-official.com/products/lowenmahne-vitamin-b6-gummies-60-stk): Löwenmähne Gummies mit 200mg Hericium-Extrakt, 8mg Beta-Glucane & Vitamin B6. Vegan, 30 Tagesdosen. Jetzt bei NUTRAZEK.
-  Updated: 2026-04-22T11:34:34Z
+  Updated: 2026-05-01T01:43:50Z
   Vendor: ChanceToBrand
   Product Type: Produkt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/e026a62c-bbd4-4001-a3b2-c482bf9a37ba.jpg?v=1757940909
+  Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/19456fbc-abd0-4d95-9285-811099b9b179.jpg?v=1777556624
   Price: 21,90 CHF CHF
 - [Kreatin Gummies 3g – Kreatin-Monohydrat ohne Pulver | NUTRAZEK](https://nutrazek-official.com/products/kreatin-gummies-90-stk): Kreatin Gummies mit 3g Kreatin-Monohydrat pro Tagesdosis. Ohne Pulver, natürliche Zutaten, 30 Tagesdosen. Jetzt bei NUTRAZEK.
-  Updated: 2026-04-22T11:31:03Z
+  Updated: 2026-05-01T01:57:08Z
   Vendor: ChanceToBrand
   Product Type: Produkt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/0278a392-2ea3-498f-babc-1c9078f82a17_362b5150-44c2-4937-8fb2-d1f0244ebf1d.jpg?v=1757942847
+  Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/15f71285-8009-4886-aa82-d063c027c785.jpg?v=1777557425
   Price: 32,90 CHF CHF
 - [Elderberry Gummies + Vitamin C & Zink – Holunderbeere | NUTRAZEK](https://nutrazek-official.com/products/elderberry-vitamin-c-zink-gummies-60-stk): Elderberry Gummies mit 100mg Holunderbeeren-Extrakt, 90mg Vitamin C & 7.5mg Zink. Vegan, 30 Tagesdosen. Jetzt bei NUTRAZEK.
-  Updated: 2026-04-22T11:32:29Z
+  Updated: 2026-05-01T02:04:34Z
   Vendor: ChanceToBrand
   Product Type: Produkt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/a193f082-1d93-4e2a-961b-da0e18b07454.jpg?v=1757944365
+  Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/778482fe-9912-4ee3-aabd-6fdcbdb4de5a.jpg?v=1777558200
   Price: 21,90 CHF CHF
 - [Immun Matrix PLUS+ Shots – Vitamin C, D3 & Zink | 50 Shots | NUTRAZEK](https://nutrazek-official.com/products/vita-shield-plus-shots-fresh-orange-500ml): Immun Matrix Shots mit 200mg Vitamin C, 20µg Vitamin D3 & 4mg Zink. 50 vegane Shots à 10ml, Geschmack Orange. Jetzt bei NUTRAZEK.
   Updated: 2026-04-22T11:32:29Z
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/30831059-bd2a-4e46-871b-6cee58bad6e9_c0040f67-0a28-4bc1-8181-db379525205b.jpg?v=1762852268
   Price: 21,90 CHF CHF
 - [VitaSync Complete Shots – 26 Vitamine & Mineralien | 50 Shots | NUTRAZEK](https://nutrazek-official.com/products/vita-complete-plus-50-vegane-shots-fresh-orange-500ml): VitaSync Shots mit 26 Vitaminen, Amino Boost & Super Green Mischung. 50 vegane Shots à 10ml, Geschmack Orange. Jetzt bei NUTRAZEK.
-  Updated: 2026-04-28T23:35:16Z
+  Updated: 2026-05-05T23:35:57Z
   Vendor: ChanceToBrand
   Product Type: Produkt
   Availability: Available
@@ -88,11 +88,11 @@
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/8810a207-3c25-474e-bbcf-2476cb8b80b7_63ad971e-a2d7-4a16-a83c-4b3848e0a20c.jpg?v=1761039845
   Price: 44,90 CHF CHF
 - [Marine Kollagen Peptide 120 Kapseln - Fischkollagen - NUTRAZEK](https://nutrazek-official.com/products/marine-kollagen-peptide-120-kapseln): Marine Kollagen Peptide 120 Kapseln - 79% Kollagen Hydrolysat aus Fisch für Haut und Gelenke. Typ I Kollagen, 40 Tage Vorrat. Jetzt bestellen!
-  Updated: 2026-04-22T11:30:34Z
+  Updated: 2026-05-01T02:41:07Z
   Vendor: ChanceToBrand
   Product Type: Produkt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/95c5ff2c-863f-4fef-9422-0e8168b2f78c.jpg?v=1761071130
+  Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/525af3e6-215e-4241-9b80-be1c40a24ec2.jpg?v=1777560062
   Price: 34,90 CHF CHF
 - [L-Tryptophan 500mg - Schweizer Apothekerqualität - NUTRAZEK](https://nutrazek-official.com/products/l-tryptophan-90-kapseln): L-Tryptophan 500mg in Schweizer Apothekerqualität. Essentielle Aminosäure für Wohlbefinden und Entspannung. Vegan, 90 Kapseln. Jetzt bestellen!
   Updated: 2026-04-21T12:35:58Z
@@ -102,14 +102,14 @@
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/cadfdb04-cdbb-409c-b004-de037bb31685.jpg?v=1761062336
   Price: 24,90 CHF CHF
 - [Ägyptisches Schwarzkümmelöl 240 vegane Softgels - Nigella sativa - NUTRAZEK](https://nutrazek-official.com/products/agyptisches-schwarzkummelol-240-vegane-softgels): Ägyptisches Schwarzkümmelöl 240 vegane Softgels - 100% reines Schwarzkümmelöl aus Ägypten. Traditionelle Heilpflanze, 120 Tage Vorrat. Jetzt bestellen!
-  Updated: 2026-04-28T23:35:16Z
+  Updated: 2026-05-05T23:35:55Z
   Vendor: ChanceToBrand
   Product Type: Produkt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/5c360e8a-8a96-47b5-a172-f0fbc2ec7723.jpg?v=1760998668
   Price: 34,90 CHF CHF
 - [Omega 3 Triglyceride 18/12 Halal 140 Softgels - EPA DHA - NUTRAZEK](https://nutrazek-official.com/products/omega-3-triglyceride-18-12-halal-gelatine-140-softgels): Omega 3 Triglyceride 18/12 mit Halal-Gelatine 140 Softgels - 18% EPA, 12% DHA in natürlicher Triglycerid-Form. 70 Tage Vorrat. Jetzt bestellen!
-  Updated: 2026-04-28T23:35:16Z
+  Updated: 2026-05-05T23:35:59Z
   Vendor: ChanceToBrand
   Product Type: Produkt
   Availability: Available
@@ -150,6 +150,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/b7ab76a6-8c3f-464a-bd46-5e8030904f70.jpg?v=1761252200
   Price: 21,90 CHF CHF
+- [EAA Essentielle Aminosäuren Kirsche 500g - Muskelaufbau - NUTRAZEK](https://nutrazek-official.com/products/eaa-essentielle-aminosauren-kirsche-500g): EAA Essentielle Aminosäuren Kirsche 500g - Alle 8 essentiellen Aminosäuren mit Vitamin B6. Kirsch-Geschmack, 50 Portionen. Jetzt bestellen!
+  Updated: 2026-04-30T10:06:08Z
+  Vendor: ChanceToBrand
+  Product Type: Produkt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/24ca9c09-0219-4689-b043-1f400eae981c.jpg?v=1772963970
+  Price: 24,90 CHF CHF
 - [Premium Whey Protein Schokolade 1kg – 78g Protein pro 100g | NUTRAZEK](https://nutrazek-official.com/products/premium-whey-protein-schokolade-1-000g): Premium Whey Protein Schokolade mit 78g Protein/100g & vollständigem Aminosäureprofil. 1kg, ca. 33 Portionen. Jetzt bei NUTRAZEK.
   Updated: 2026-04-22T11:33:40Z
   Vendor: ChanceToBrand
@@ -172,7 +179,7 @@
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/f6c00628-ae09-4a56-80ae-2de8a375af4b_0cb24fe1-6d75-40b5-bb10-b2d2c004b48a.jpg?v=1761040076
   Price: 44,90 CHF CHF
 - [Premium Whey Protein Cookies 1kg – 78g Protein pro 100g | NUTRAZEK](https://nutrazek-official.com/products/premium-whey-protein-cookies-1-000g): Premium Whey Protein Cookies mit 78g Protein/100g & vollständigem Aminosäureprofil. 1kg, 33 Portionen. Jetzt bei NUTRAZEK.
-  Updated: 2026-04-28T23:35:18Z
+  Updated: 2026-05-05T23:35:53Z
   Vendor: ChanceToBrand
   Product Type: Sportnahrung
   Availability: Available
@@ -193,18 +200,18 @@
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/c741412d-e8fc-436b-b1b9-416d7e59b2bc.jpg?v=1761045252
   Price: 37,90 CHF CHF
 - [Vitamin D3 + K2 Tropfen 1000 I.E. - 1700 Tropfen Apotheker-Qualität - NUTRAZEK](https://nutrazek-official.com/products/vitamin-d3-k2-1-700-tropfen-1-000-i-e-50ml): Vitamin D3 + K2 Tropfen 1000 I.E. - 1700 Tropfen in Apotheker-Qualität. Das Power-Duo für starke Knochen & Immunsystem. 4+ Jahre Vorrat. Jetzt bestellen!
-  Updated: 2026-04-22T11:30:36Z
+  Updated: 2026-05-01T01:27:45Z
   Vendor: ChanceToBrand
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/1f759145-853e-46e9-9f1a-0ac02231e586_c5a145a6-9e5a-427b-8555-8f9b69263d4d.jpg?v=1761048122
+  Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/aabb092a-d283-4374-a365-83d4284bd5f1.jpg?v=1777555656
   Price: 49,90 CHF CHF
 - [Lux Arcana D3 – Vitamin D3 4.000 IE | Premium Qualität](https://nutrazek-official.com/products/vitamin-d3-4-000-ie-180-softgels): Hochdosiertes Vitamin D3 (4.000 IE) in Premium-Qualität. Unterstützt Immunsystem, Knochen & Muskeln. 180 Softgel-Kapseln. Laborgeprüft. Jetzt bestellen!
-  Updated: 2026-04-22T11:32:41Z
+  Updated: 2026-05-01T02:31:24Z
   Vendor: ChanceToBrand
   Product Type: Produkt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/b6803bbb-75a1-4db5-85d6-d5107e3ff967.jpg?v=1768926868
+  Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/a2382670-3ff3-44d0-95ae-9a58f7e29938.jpg?v=1777559469
   Price: 24,90 CHF CHF
 - [Neurocharge 33 Shots 500 ml – Energie & Konzentration | NUTRAZEK](https://nutrazek-official.com/products/ginseng-power-plus-33-shots-500ml): Neurocharge 33 Shots mit Ginseng, Koffein, Vitamin B12 & C – 33 Portionen à 15 ml für mentale Energie und Konzentration. Pharmazeutisch entwickelt.
   Updated: 2026-04-22T11:33:25Z
@@ -212,6 +219,20 @@
   Product Type: Produkt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/8f4161cb-24f2-4102-b508-d10d506c11cb.jpg?v=1775055654
+  Price: 29,90 CHF CHF
+- [CURCUMA HARIDRA  - 60 vegane Kapseln](https://nutrazek-official.com/products/curcuma-95-curcumin-piperin-60-vegane-kapseln): CURCUMA HARIDRA – Hochdosierter Kurkuma-Komplex mit Piperin Pharmazeutisch entwickelter Kurkuma-Extrakt mit 95 % Curcuminoiden und Bioverfügbarkeits-Enhancer für maximale Wirksamkeit. Vorteile Entzündungsmodulation: Curcuminoide hemmen nachweislich NF-κB-vermittelte Entzündungswege – wissenschaftlich gut dokumentiert. Antioxidativer Schutz: Curcumin neutralisiert freie Radikale und unterstützt die körpereigene antioxidative Abwehr (EFSA-konform). Gelenk- und Bewegungskomfort: Unterstützt die normale Gelenkfunktion bei regelmässiger Einnahme. Optimierte Bioverfügbarkeit: Schwarzer Pfefferfrucht-Extrakt (Piperine, Piper nigrum) steigert die Curcumin-Resorption um bis zu 2000 %. Verdauungsunterstützung: Kurkuma trägt traditionell zur Förderung einer normalen Verdauungsfunktion bei. Qualität Entwickelt von approbierten Apothekern mit pharmazeutischer Expertise Kurkumawurzel-Trockenextrakt standardisiert auf 95 % Curcuminoide (Curcuma longa L.) Laborgeprüfte Rohstoffe – kontrolliert auf Reinheit, Schwermetalle und Pestizidrückstände Vegane HPMC-Kapseln, glutenfrei, ohne künstliche Zusatzstoffe 60 Kapseln pro Dose – Reichweite: 60 Tage bei empfohlener Dosierung Anwendung 1 Kapsel täglich mit ausreichend Wasser einnehmen, vorzugsweise zu einer Mahlzeit. Die gleichzeitige Einnahme mit einer fetthaltigen Mahlzeit kann die Resorption der Curcuminoide zusätzlich verbessern.
+  Updated: 2026-04-30T22:39:59Z
+  Vendor: ChanceToBrand
+  Product Type: Produkt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/c16f86fc-c52f-44f3-bb01-fe78ea1de99d.jpg?v=1777558850
+  Price: 24,90 CHF CHF
+- [HYDRAX ELECTROLYTE COMPLEX - Strawberry Lemon - 300g](https://nutrazek-official.com/products/elektrolyte-pulver-strawberry-lemon-300g): HYDRAX ELECTROLYTE COMPLEX – Präzise Mineralstoffformel für maximale Hydration Pharmazeutisch entwickelter Elektrolyt-Komplex mit 6 essenziellen Mineralstoffen – konzipiert für intensive körperliche Belastung, schnelle Rehydration und optimale Muskelleistung. Vorteile Kalium 2048 mg (102 % NRV): Trägt zur normalen Muskelfunktion und zur Aufrechterhaltung des normalen Blutdrucks bei (EFSA-anerkannter Health Claim). Chlorid 1860 mg (232 % NRV): Unterstützt die normale Verdauung und trägt zur Aufrechterhaltung des Säure-Basen-Gleichgewichts bei. Magnesium 242 mg (64 % NRV): Trägt zur Verringerung von Müdigkeit und Erschöpfung sowie zur normalen Muskelfunktion bei (EFSA-anerkannter Health Claim). Natrium 186 mg: Reguliert den Wasserhaushalt und unterstützt die Nervenleitung – essenziell bei Schweissverlust. Calcium 152 mg (19 % NRV) + Zink 1,4 mg: Calcium trägt zur normalen Muskelfunktion bei; Zink unterstützt das normale Immunsystem. Qualität Hochwertige Mineralstoffformen: Kaliumchlorid, Magnesiumtricitrat, Calciumcarbonat, Zinkgluconat Laborgeprüfte Rohstoffe – kontrolliert auf Reinheit und Schwermetalle Ohne künstliche Farbstoffe (Farbstoff: Rote Bete), gesüsst mit Sucralose 300 g pro Dose – 30 Portionen à 10 g Anwendung 10 g (entspricht 2 gestrichenen Messlöffeln) in 400 ml Wasser einrühren und gut vermischen. Vor, während oder nach körperlicher Aktivität konsumieren.
+  Updated: 2026-04-30T23:45:26Z
+  Vendor: ChanceToBrand
+  Product Type: Produkt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0903/7080/1997/files/c210a928-1f29-42f5-8a49-dd1324a9a2b4.jpg?v=1777554167
   Price: 29,90 CHF CHF
 
 ## Collections
