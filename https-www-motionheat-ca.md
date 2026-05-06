@@ -6,12 +6,12 @@
 - Timezone: America/Denver
 - Created At: 2021-11-16T19:00:29Z
 - Contact Email: info@powerinmotion.ca
-- Updated At: 2026-04-28T23:45:01.659Z
+- Updated At: 2026-05-06T00:00:27.171Z
 
 ## Products
 
 - [Heated Vest - Stay Warm in Cold Weather for Men & Women](https://www.motionheat.ca/products/motionheat-heated-vest): Stay warm with our heated vest, available in sizes for both men and women. Perfect for outdoor activities, winter sports, or everyday wear, this battery-powered vest offers adjustable heat settings for customized comfort. Shop now for all-day warmth in Canada and US.
-  Updated: 2026-04-28T20:59:42Z
+  Updated: 2026-05-05T21:05:17Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -95,7 +95,7 @@
     Availability: Available
     Price: $895.00 CAD
 - [Heated Glove Liner Complete Set - Full Hand Warmth for Winter](https://www.motionheat.ca/products/heated-glove-liner-complete-set): Experience full-hand warmth with the Heated Glove Liner Complete Set. these battery-powered liners offer adjustable heat settings for comfort in cold conditions. Ideal for outdoor work, skiing, those with Raynaud's and arthritis, and daily use. Shop now in Canada and US for long-lasting warmth and relief.
-  Updated: 2026-04-28T20:59:36Z
+  Updated: 2026-05-05T21:05:07Z
   Vendor: Motion Heat
   Product Type: Gloves & Mittens
   Availability: Available
@@ -221,7 +221,7 @@
     Image: https://cdn.shopify.com/s/files/1/0611/2061/0541/files/Untitleddesign.png?v=1775066552
     Price: $595.00 CAD
 - [Heated Insoles - Adjustable Warmth for Cold Feet](https://www.motionheat.ca/products/heated-insoles-insoles-only): Keep your feet warm in freezing temperatures with our heated insoles. These battery-powered insoles offer adjustable heat settings for outdoor activities like hiking or skiing. Perfect for all-day comfort and foot warmth. Available in Canada and US.
-  Updated: 2026-04-28T20:59:39Z
+  Updated: 2026-05-05T21:05:08Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -255,14 +255,14 @@
     Image: https://cdn.shopify.com/s/files/1/0611/2061/0541/files/InsoleOnly.png?v=1729259178
     Price: $75.00 CAD
 - [Heated Insole DIY Kit - Customize Your Foot Warmth](https://www.motionheat.ca/products/insole-do-it-yourself-kit-only): Create your own heated insoles with our DIY kit. Ideal for those who need adjustable, battery-powered foot warmth in cold conditions. Perfect for hikers, outdoor workers, and cold-weather enthusiasts. Available in Canada and US.
-  Updated: 2026-04-28T20:59:38Z
+  Updated: 2026-05-05T21:05:08Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0611/2061/0541/files/DIY-Kit-only-without-legStrips.jpg?v=1760219884
   Price: $50.00 CAD
 - [Flip-Open Mitten Insulated Shell - Versatile Winter Warmth](https://www.motionheat.ca/products/flip-open-mitten-insulated-shell): Enjoy the best of both worlds with the Flip-Open Mitten Insulated Shell. Designed for warmth and dexterity, these mittens are ideal for winter sports and daily wear. Perfect for cold-weather adventurers who need flexibility. Available in Canada and US.
-  Updated: 2026-04-28T20:57:25Z
+  Updated: 2026-05-05T21:02:22Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -283,7 +283,7 @@
     Availability: Available
     Price: $95.00 CAD
 - [Heated Glove Liners - Lightweight & Battery-Powered](https://www.motionheat.ca/products/heated-glove-liner-liners-only): Keep your hands warm with battery-powered heated glove liners. Lightweight and perfect for use under any glove. Ideal for winter sports or everyday outdoor use. Available in Canada and US. Order today for flexible warmth.
-  Updated: 2026-04-28T20:57:26Z
+  Updated: 2026-05-05T21:02:23Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -304,7 +304,7 @@
     Availability: Available
     Price: $130.00 CAD
 - [Rechargeable Batteries for Heated Gear - Reliable Power](https://www.motionheat.ca/products/rechargeable-batteries-for-heated-gear): Power your heated gloves, vests, and insoles with long-lasting rechargeable batteries. Ideal for winter sports and cold-weather adventures, ensuring your gear stays charged. Order now for reliable power in Canada and US.
-  Updated: 2026-04-28T20:59:37Z
+  Updated: 2026-05-05T21:05:16Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -358,14 +358,14 @@
     Image: https://cdn.shopify.com/s/files/1/0611/2061/0541/files/14.png?v=1729259089
     Price: $430.00 CAD
 - [Heated Insole Leg Straps - Secure Fit for Cold Days](https://www.motionheat.ca/products/heated-insole-leg-straps): Ensure your rechargeable batteries stay in place with adjustable leg straps. Perfect for cold-weather hiking or daily use. These straps offer stability and comfort for long days outdoors. Available across Canada and US. Shop now for a secure fit.
-  Updated: 2026-04-28T20:59:37Z
+  Updated: 2026-05-05T21:05:09Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0611/2061/0541/files/LegStrap_7d414837-97c0-49d2-9cf8-1ebc9a8a4e5e.png?v=1729259153
   Price: $85.00 CAD
 - [Fast Chargers for Heated Gear - Quick & Efficient](https://www.motionheat.ca/products/chargers-for-heated-gear): Charge your heated gear quickly with our efficient fast chargers. Perfect for heated gloves, vests, and insoles. Ensure your gear stays powered for any cold-weather adventure. Shop now in Canada and US for fast charging solutions.
-  Updated: 2026-04-28T20:59:57Z
+  Updated: 2026-05-05T21:05:14Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -395,7 +395,7 @@
     Image: https://cdn.shopify.com/s/files/1/0611/2061/0541/files/CarCharger_2872fa00-99ee-4f48-b4a7-aec8c45699da.jpg?v=1729259109
     Price: $20.00 CAD
 - [Heated Gear Cables & Accessories - Power Up Your Warmth](https://www.motionheat.ca/products/cables-and-accessories): Ensure your heated gear stays powered with high-quality cables and accessories. Designed for Motion Heat products, these cables provide reliable connections and smooth charging. Whether you need replacement cords, extension cables, or connectors, we have the accessories to keep your heated gloves, vests, and insoles
-  Updated: 2026-04-28T20:59:56Z
+  Updated: 2026-05-05T21:05:20Z
   Vendor: Motion Heat
   Product Type: Electronics Component Connectors
   Availability: Available
@@ -445,7 +445,7 @@
     Availability: Available
     Price: $30.00 CAD
 - [Heated Insoles Complete Set - Adjustable Heat for Cold Feet](https://www.motionheat.ca/products/heated-insoles-complete-set): Say goodbye to cold feet with the Heated Insoles Complete Set. Featuring adjustable heat settings for ultimate foot comfort, it’s ideal for winter walks, skiing, or daily use. Stay warm all day long in Canada and US. Shop now for the best foot warmth solutions.
-  Updated: 2026-04-28T20:59:57Z
+  Updated: 2026-05-05T21:05:10Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -515,7 +515,7 @@
     Image: https://cdn.shopify.com/s/files/1/0611/2061/0541/files/InsoleCompleteset12v3.2ah.png?v=1769669832
     Price: $310.00 CAD
 - [Heated Wear Essentials Kit - Full Body Warmth](https://www.motionheat.ca/products/heated-wear-essentials-kit): Complete your cold-weather gear with the Heated Wear Essentials Kit. Featuring heated gloves, insoles, and a vest, it’s perfect for winter hiking, skiing, and outdoor work. Keep warm with adjustable heat settings. Shop the ultimate kit for Canada and US now.
-  Updated: 2026-04-28T20:59:45Z
+  Updated: 2026-05-05T21:05:13Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -617,7 +617,7 @@
     Availability: Available
     Price: $1,030.00 CAD
 - [Trigger Mitten Insulated Shell - Dexterity & Warmth](https://www.motionheat.ca/products/trigger-mitten-insulated-shell): The Trigger Mitten Insulated Shell delivers warmth without losing dexterity. Great for skiing, snowboarding, and cold-weather outdoor activities. Offers flexible hand movement with top-tier insulation. Shop now for all-day protection in Canada and US.
-  Updated: 2026-04-28T20:59:41Z
+  Updated: 2026-05-05T21:05:11Z
   Vendor: Motion Heat
   Product Type: Gloves & Mittens
   Availability: Available
@@ -638,7 +638,7 @@
     Availability: Available
     Price: $95.00 CAD
 - [Heated Glove Liner - Left or Right Hand - Battery-Powered Warmth](https://www.motionheat.ca/products/heated-glove-liner-single-left-right-hand): Keep one hand warm with this customizable heated glove liner. Perfect for winter sports, cold-weather commutes, or outdoor work. Battery-powered and fits under any glove. Available for left or right hand. Order across Canada and US today.
-  Updated: 2026-04-28T20:57:29Z
+  Updated: 2026-05-05T21:02:26Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -674,7 +674,7 @@
     Availability: Available
     Price: $75.00 CAD
 - [Split Mitten Insulated Shell - Winter Durability](https://www.motionheat.ca/products/split-mitten-insulated-shell): Designed for extreme cold, the Split Mitten Insulated Shell offers durable warmth for skiing and snowboarding enthusiasts. Keep your hands warm and dry with reliable protection. Ideal for icy adventures in Canada and US.
-  Updated: 2026-04-28T20:59:40Z
+  Updated: 2026-05-05T21:05:12Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -695,7 +695,7 @@
     Availability: Available
     Price: $95.00 CAD
 - [Heated Glove Liner & Mittens Bundle - Stay Warm All Winter](https://www.motionheat.ca/products/heated-glove-liner-mitten-bundle): Stay cozy in extreme cold with our heated glove liner & mitten bundle. Perfect for outdoor workers, adventurers, and winter hikers. Battery-powered warmth for all-day comfort. Order now and enjoy reliable cold protection in Canada and US.
-  Updated: 2026-04-28T20:59:44Z
+  Updated: 2026-05-05T21:05:19Z
   Vendor: Motion Heat
   Product Type: Gloves & Mittens
   Availability: Available
@@ -997,7 +997,7 @@
     Availability: Available
     Price: $620.00 CAD
 - [SKI Glove 5.0](https://www.motionheat.ca/products/ski-glove-5-0): 🔥 Introducing the All-New Motion Heat Ski Glove 5.0! 🔥 Take your winter adventures to the next level with our latest heated ski gloves—built with the same cutting-edge heating technology as our best- glove liners. Designed for peak performance, these gloves deliver up to 50°C on our 12V batteries and a scorching 60°C on 16V, ensuring unbeatable warmth in even the coldest conditions. Crafted with Hipora® lining, the Ski Glove 5.0 keeps your hands dry and comfortable by providing breathable, windproof, and waterproof protection—just like our renowned mittens. Whether you're carving down the slopes or braving icy winds, these gloves are built to keep up with your every move. 🔥 Key Features:✔ Advanced Heating Technology – Reaches up to 60°C for all-day warmth✔ Hipora® Insulation – Breathable, windproof, and waterproof for ultimate comfort✔ Designed for Performance – Ideal for skiing, snowboarding, and extreme winter activities Upgrade your winter gear and make cold hands a thing of the past! Get your hands in the Ski Glove 5.0 today!
-  Updated: 2026-04-28T20:57:32Z
+  Updated: 2026-05-05T21:02:29Z
   Vendor: Motion Heat Canada
   Product Type: Gloves & Mittens
   Availability: Available
@@ -1021,10 +1021,10 @@
 ## Collections
 
 - [MotionHeat | Heated Clothing | Home Page](https://www.motionheat.ca/collections/home-page): MotionHeat™ - variety of battery power  Heated clothes for work and leisure, including heated gloves and vest to keep you warm in the winter cold.  Heated Gloves Calgary | Edmonton | Alberta | Saskatchewan | Winnipeg | Toronto | Vancouver | Canada | Ottawa | Nova Scotia | New Brunwick
-  Updated: 2026-04-18T11:21:54Z
+  Updated: 2026-04-29T11:18:09Z
   Total Products: 8
 - [Heated Clothing Canada | Motion Heat Vests, Gloves, and Insoles](https://www.motionheat.ca/collections/heated-clothing-canada): Explore Motion Heat's range of heated clothing, including vests, glove liners, and insoles. Ideal for Canadian winters, our products offer unmatched warmth and comfort. Find out where to buy winter clothes in Canada, learn how to layer for winter, and discover stylish and functional winter wear for men and women.
-  Updated: 2026-04-19T11:20:49Z
+  Updated: 2026-04-29T11:18:09Z
   Total Products: 19
 
 ## Blogs
