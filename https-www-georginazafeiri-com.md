@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-08-14T11:11:55Z
 - Contact Email: hello@georginazafeiri.com
-- Updated At: 2026-04-29T00:00:38.325Z
+- Updated At: 2026-05-06T00:00:41.457Z
 
 ## Products
 
@@ -1614,8 +1614,8 @@
 - [Mountains](https://www.georginazafeiri.com/collections/mountains): I am deeply interested in the sublime and oceanic feeling that I experience when I'm in the mountains. Mountains are sometimes referred to as "Sleeping giants" perhaps like beings that have watched the environment change over billions of years. Timeless... For me when I spend time in the mountains I realise that nature is powerful, nature is ultimately in charge and human beings are very small in comparison. As a qualified international mountain leader I am fortunate to have lived and worked in some of the most beautiful mountainous landscapes. It is an environment that I feel very safe in and at peace. I also feel very sad that in some areas the mountainous areas are becoming more accessible to humans with events and sports frequently disturbing the flora and fauna.
   Updated: 2026-03-02T08:02:33Z
   Total Products: 22
-- [Deep Dive](https://www.georginazafeiri.com/collections/deep-dive): I once overheard a man at a private view saying, "I don't have anything against it but I just don't understand Abstract Art." I felt really pleased about his words, as he had had a reaction to my artworks. There was nothing else that needed to be understood...
-  Updated: 2026-03-02T07:46:55Z
+- [Deep Dive](https://www.georginazafeiri.com/collections/deep-dive): "At a private view, I once heard a man remark, 'I have nothing against it; I just don't understand abstract art.' His words actually delighted me. He had experienced a genuine reaction to my work. Art doesn't always need a translation; it just needs to be felt."
+  Updated: 2026-05-02T08:12:56Z
   Total Products: 6
 - [Large Scale Drawing](https://www.georginazafeiri.com/collections/large-scale-drawing): My large scale drawings explore the architecture of the city, everyday commuter scenes on public transport and the relationship of the viewer who can "step into" the artwork.
   Updated: 2026-03-09T12:53:14Z
