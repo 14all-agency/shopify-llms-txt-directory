@@ -6,7 +6,7 @@
 - Timezone: Etc/UTC
 - Created At: 2016-05-30T17:04:53Z
 - Contact Email: daria@daria.is
-- Updated At: 2026-04-28T00:00:46.356Z
+- Updated At: 2026-05-06T00:00:45.695Z
 
 Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtispeglum, ilmkertum, brúnkuvörum og fatnaði. Við bjóðum vörur frá vörumerkjum eins og L.A. Girl, Tan-Luxe, Marc Inbane, MakeUp Eraser og fleiri. Verslun í Firði Hafnarfirði og sending um allt Ísland.
 
@@ -19,28 +19,28 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Availability: Available
   Price: kr 3,900.00 ISK
 - [LIP LINER - 026 RASPBERRY](https://daria.is/products/lip-liner-026-raspberry): BeBella lip liners are designed for lining, shaping or filling in the lip. Our pencils are very creamy and smooth. The texture is perfect for outlining lips or coloring them.They are available in 37 beautiful colors each work well with different lipstick shades.
-  Updated: 2026-04-20T21:46:37Z
+  Updated: 2026-05-04T19:58:43Z
   Vendor: Bebella
   Product Type: varablýantur
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/products/26rasberry_copy_2048x2048_1b031c3e-d970-45ab-8893-de4ef3524eb8.jpg?v=1739460286
   Price: kr 354.00 ISK
 - [LIP LINER - 028 ORCHID](https://daria.is/products/lip-liner-028-orchid): BeBella lip liners are designed for lining, shaping or filling in the lip. Our pencils are very creamy and smooth. The texture is perfect for outlining lips or coloring them.They are available in 37 beautiful colors each work well with different lipstick shades.
-  Updated: 2026-04-20T21:46:37Z
+  Updated: 2026-05-04T19:58:44Z
   Vendor: Bebella
   Product Type: varablýantur
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/products/28-orchid_2048x2048_8a8d7cfc-eaaf-45e9-9138-b8ba6e43cb98.jpg?v=1739460288
   Price: kr 354.00 ISK
 - [ACTIVATED CHARCOAL TOOTH POLISH](https://daria.is/products/activated-charcoal-tooth-polish): Pitch-black powder to whiten your teeth? Yes! Activated charcoal is the secret ingredient. It's an oxidized version of charcoal and can be used to effectively whiten teeth. It removes external stains from your teeth without the toxic chemical ingredients used in commercial tooth whitening. This tooth whitening promotes good oral health and can change the pH in the mouth, helping to reduce things that cause cavities, gum disease and bad breath.Carbon Coco is a 100% Natural Teeth Whitener. It naturally whiten teeth, polishes teeth, strengthens enamel and detoxifies your mouth without any chemicals and added nasties. All by simply dipping a wet toothbrush into the fine, odourless and tasteless black dust. Brush in small gentle circles for two minutes. Spit it out carefully, rinse really well and you’re done. Your mouth will feel amazingly clean…..What’s in it? 100% Organic Coconut Shell Activated Charcoal with a hint of bentonite powder and lemon myrtle. Deodorise Prevent Bad Breath Remove Plaque Prevent Harmful Bacteria Growth
-  Updated: 2026-04-20T21:46:38Z
+  Updated: 2026-05-04T19:55:38Z
   Vendor: Carbon Coco
   Product Type: tannhvíttun
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/products/f73c59c8f33164e31350a33523c36591_768x768_crop_center_b6c7e51f-2b45-40ad-bb04-e6349301e850.png?v=1739460289
   Price: kr 3,003.00 ISK
 - [BAMBOO CHARCOAL TOOTHBRUSH](https://daria.is/products/bamboo-charcoal-toothbrush): Our Carbon Coco Bamboo Charcoal Toothbrush has bamboo embedded in to every bristle on the brush. This activated charcoal acts as a natural deodoriser, helps prevent bad breath, remove plaque, creates negative ions and prevents harmful bacteria growing in the brush in between uses. With the help of our unique specially designed contour toothbrush, you’ll get a first-class care for your mouth every time. Happy Brushing!
-  Updated: 2026-04-20T21:46:38Z
+  Updated: 2026-05-04T19:56:05Z
   Vendor: Carbon Coco
   Product Type: tannhvíttun
   Availability: Available
@@ -54,21 +54,21 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/products/selfie_light.jpg?v=1739460299
   Price: kr 1,990.00 ISK
 - [Heavenly](https://daria.is/products/heavenly): 3D Mink augnhár Cruelty free Hægt að nota allt að 25 sinnum
-  Updated: 2026-04-20T21:46:39Z
+  Updated: 2026-05-04T19:57:27Z
   Vendor: Daría
   Product Type: augnhár
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/products/Heavenly1.JPG?v=1527271998
   Price: kr 2,990.00 ISK
 - [Innocent](https://daria.is/products/innocent): 3D Mink augnhár Cruelty free Hægt að nota allt að 25 sinnum
-  Updated: 2026-04-20T21:46:39Z
+  Updated: 2026-05-04T19:57:47Z
   Vendor: Daría
   Product Type: augnhár
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/products/Innocent1.JPG?v=1527272007
   Price: kr 2,990.00 ISK
 - [Beautiful](https://daria.is/products/beautyful): 3D Mink augnhár Cruelty free Hægt að nota allt að 25 sinnum
-  Updated: 2026-04-20T21:46:39Z
+  Updated: 2026-05-04T19:56:07Z
   Vendor: Daría
   Product Type: augnhár
   Availability: Available
@@ -110,7 +110,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/products/Melon500.png?v=1739460323
   Price: kr 4,890.00 ISK
 - [Hot Mama](https://daria.is/products/hot-mama): 3D Mink augnhár Cruelty free Hægt að nota allt að 25 sinnum
-  Updated: 2026-04-20T21:46:41Z
+  Updated: 2026-05-04T19:57:38Z
   Vendor: Daría
   Product Type: augnhár
   Availability: Available
@@ -124,7 +124,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/products/sassy_1.jpg?v=1739460311
   Price: kr 2,990.00 ISK
 - [Spegill með Led Ljósum, Bluetooth og hátalarar (Black)](https://daria.is/products/spegill-med-led-ljosum-bluetooth-og-hatalarar-black): Sniðugur förðunar spegill með Led ljósum sem hægt er að dimma. Ný týpa af vinsæla förðunarspeglinum sem er með: USB hleðslu, hægt er að hlaða spegilinn með USB snúru sem fylgir með. Bluetooth, getur tengt símann við spegilinn, hlustað á tónlist og svarað í símann. 2 hátalarar. Lítill stækkunarspegill með 10X stækkun og sogskálum að aftan. Spegillinn er 31cm á hæð og 17cm á breidd. Í verslun okkar Firði Hafnarfirði erum við með alla spegla og vörur til sýnis, einnig sendum við hvert á land sem er.
-  Updated: 2026-04-20T21:46:42Z
+  Updated: 2026-05-03T11:39:27Z
   Vendor: Vanity beauty accessories
   Product Type: spegill
   Availability: Available
@@ -138,7 +138,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/products/Gloss_1024x1024_e4ae03ee-519d-404c-a2a3-d4837f3e0284.png?v=1739460324
   Price: kr 6,390.00 ISK
 - [Dry Brush Cleaner Sponge](https://daria.is/products/dry-brush-cleaner-sponge): What it is: A dry, makeup-removing sponge that allows you to switch colors without having to switch brushes. What it does: Inspired by a common makeup artist dilemma of how remove powder product from brushes without the drying time of a liquid brush cleaner, this sponge offers a dry alternative. The special material allows you to remove pigment from your brushes without brush cleaner formula. Simply swipe the brush over the sponge until pigment is removed and move on to the next color. The sponge is completely reusable and can be cleaned by washing it with warm water and soap or it can be sprayed with disinfecting brush cleaner for a quick cleanse. What else you need to know: This product is not tested on animals. Suggested Usage: -Glide any eye shadow brush in a circular motion against the Color Switch sponge to remove one color and then switch to the next color. -To reuse or disinfect the Color Switch sponge, add a small drop of soap, run it under warm water, squeeze out all pigment, and lay flat to dry. -For a quick clean, spray the Color Switch Sponge with disinfecting brush cleaning spray and lay flat to dry. Precautions: -If irritation occurs in the face or eyes, discontinue use.
-  Updated: 2026-04-20T21:46:43Z
+  Updated: 2026-05-04T19:56:55Z
   Vendor: G Brushes
   Product Type: burstar
   Availability: Available
@@ -159,14 +159,14 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/products/TanLuxe_Wonder_Oil_100ml_LightMed_Render_1024x1024_c645e65c-eb2c-474a-b01f-6baff9e648f2.png?v=1739460343
   Price: kr 7,990.00 ISK
 - [PARIS SPEGILL 50 X 60 CM (SVARTUR) - Hollywood spegill - Makeup spegill](https://daria.is/products/spegill-med-14-led-peru-ljosum-svartur-forpontun): Fullkomnaðu snyrtiaðstöðuna með þessum æðislega spegil. LED perurnar gefa frá sér mjög góða birtu sem auðveldar förðunina og tryggir að allar litir birtist rétt. Þær eru einnig orkusparandi og endast lengi. Hægt er að breyta birtu ljósanna í bæði Warm White og Cool White Dimmanleg Led ljós Lítill stækkunarspegill með X10 stækkun fylgir með sem festist á spegilinn með segul. Hægt er að taka lappirnar af og hengja spegilinn uppá vegg Álrammi: Spegillinn er byggður utan um álramma sem er bæði léttur og endingargóður. Spegillinn er 50cm á hæð og 60cm á breidd. Speglinum fylgir snúra sem stungið er í samband í innstungu Í verslun okkar Firði Hafnarfirði erum við með alla spegla og vörur til sýnis, einnig sendum við hvert á land sem er.
-  Updated: 2026-04-20T21:46:44Z
+  Updated: 2026-05-04T14:20:27Z
   Vendor: Vanity beauty accessories
   Product Type: spegill
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/paris_hollywood_fordunarspegill_svartur_makeup_spegill.webp?v=1773137023
   Price: kr 23,715.00 ISK
 - [PARIS SPEGILL 50 X 60 CM (SILFUR)-Hollywood spegill-makeup spegill](https://daria.is/products/spegill-med-14-led-peru-ljosum-silfur-forpontun): Fullkomnaðu snyrtiaðstöðuna með þessum æðislega spegil. LED perurnar gefa frá sér mjög góða birtu sem auðveldar förðunina og tryggir að allar litir birtist rétt. Þær eru einnig orkusparandi og endast lengi. Hægt er að breyta birtu ljósanna í bæði Warm White og Cool White Dimmanleg Led ljós Lítill stækkunarspegill með X10 stækkun fylgir með sem festist á spegilinn með segul. Hægt er að taka lappirnar af og hengja spegilinn uppá vegg Álrammi: Spegillinn er byggður utan um álramma sem er bæði léttur og endingargóður. Spegillinn er 50cm á hæð og 60cm á breidd. Speglinum fylgir snúra sem stungið er í samband í innstungu Í verslun okkar Firði Hafnarfirði erum við með alla spegla og vörur til sýnis, einnig sendum við hvert á land sem er.
-  Updated: 2026-04-26T18:06:07Z
+  Updated: 2026-05-04T19:39:37Z
   Vendor: Vanity beauty accessories
   Product Type: spegill
   Availability: Available
@@ -180,21 +180,21 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/products/canva_best_1.png?v=1739460337
   Price: kr 12,900.00 ISK
 - [Activated Charcoal Tooth Polish Sweet Mint](https://daria.is/products/activated-charcoal-tooth-polish-sweet-mint): Nýtt frá Carboncoco, tannhvíttundarduftið vinsæla fæst núna með mintubragði ! Pitch-black powder to whiten your teeth? Yes! Activated charcoal is the secret ingredient. It's an oxidized version of charcoal and can be used to effectively whiten teeth. It removes external stains from your teeth without the toxic chemical ingredients used in commercial tooth whitening. This tooth whitening promotes good oral health and can change the pH in the mouth, helping to reduce things that cause cavities, gum disease and bad breath.Carbon Coco is a 100% Natural Teeth Whitener. It naturally whiten teeth, polishes teeth, strengthens enamel and detoxifies your mouth without any chemicals and added nasties. All by simply dipping a wet toothbrush into the fine black dust. Brush in small gentle circles for two minutes. Spit it out carefully, rinse really well and you’re done. Your mouth will feel amazingly clean…..What’s in it? 100% Organic Coconut Shell Activated Charcoal with a hint of bentonite powder and lemon myrtle. Deodorise Prevent Bad Breath Remove Plaque Prevent Harmful Bacteria Growth
-  Updated: 2026-04-20T21:46:45Z
+  Updated: 2026-05-04T19:55:39Z
   Vendor: Carbon Coco
   Product Type: tannhvíttun
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/products/Jar_Mint_Spill_1024x1024_f537e237-fa88-4f79-9a89-19abf99e3a1e.png?v=1739460359
   Price: kr 3,003.00 ISK
 - [INSTANT HERO](https://daria.is/products/instant-hero): WHAT IT IS A multi-purpose, quick drying skin perfector, INSTANT HERO glides effortlessly on to skin to deliver a full coverage, no-commitment glow. WHAT IT DOESAdjusts to all skin-tones for a tailor-made tan. Custom designed, integrated sponge means a drama free experience is . Infused with a nourishing blend of Vitamin B, C & E, Aloe Vera and caffeine, the hydrating formulation instantly tans, tone and blurs imperfections by reducing the appearance of redness, cellulite and imperfections. With light reflecting nanoparticles and micro-pigments, skin is left hydrated and glossy with a glow that lasts up to 24 hours. WHY WE LOVE IT • Skin perfecter and body bronzer. • Firms and tones skin.• Blurs imperfections.• Quick-drying with zero transfer. • Illuminates and brightens.• Evens and brightens skin tone. PREP, APPLY & MAINTAIN PREP Exfoliate using a gentle scrub 24 hours before tanning. Moisturise dry areas such as hands, feet, knees, ankles and elbows prior to application. APPLY Apply product onto skin with the integrated sponge, blending in circular motions. INSTANT HERO dries within seconds and promises zero transfer. Removes instantly with soap and water. MAINTAIN Exfoliate and moisturise skin regularly to maintain an even, luminous glow.
-  Updated: 2026-04-20T21:46:45Z
+  Updated: 2026-05-04T19:57:48Z
   Vendor: Tan-Luxe
   Product Type: brúnkukrem
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/products/Untitled_design_21.png?v=1739460371
   Price: kr 4,990.00 ISK
 - [Spegill með 24 LED ljósum og stækkun X1 X2 X3 (Hvítur)](https://daria.is/products/spegill-med-24-led-ljosum-og-staekkun-x1-x2-x3): Sniðugur förðunar spegill með 24 Led ljósum sem hægt er að dimma. Á vinstri hlið spegilsins er 2X og 3X stækkun Hægt er að halla speglinum aftur. USB snúra fylgir með og hægt er að tengja hana í rafmagn, fartölvu eða hleðslubanka til að kveikja á led ljósum, einnig er hægt að nota 4 AA batterí. 31cm á hæð, breidd 17 cm með lokaða hliðarspegla og um 34cm með hliðarspegla opna. Í verslun okkar Firði Hafnarfirði erum við með alla spegla og vörur til sýnis, einnig sendum við hvert á land sem er.
-  Updated: 2026-04-20T21:46:46Z
+  Updated: 2026-05-04T13:04:46Z
   Vendor: Vanity beauty accessories
   Product Type: spegill
   Availability: Available
@@ -215,7 +215,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/products/superglowbody.jpg?v=1739460402
   Price: kr 8,900.00 ISK
 - [Hollywood Spegill 56.5 X 70 cm (silfur) - Förðunarspegill Led ljós](https://daria.is/products/hollywood-spegill-56-5-x-70-cm): ----- Ný útgáfa af Hollywood speglinum ----- Í nýrri útgáfunni er hægt að hengja spegilinn upp á vegg og komið usb tengi á hliðinni til að hlaða síma. Spegill með 12 Led perum sem gefa mjög góða birtu Hægt er að breyta í hvíta, bláa og gula birtu Dimmanleg Ledljós Lítill stækkunarspegill X10 fylgir með Speglinum fylgir snúra sem stungið er í samband í innstungu Álrammi: Spegillinn er byggður utan um álramma sem er bæði léttur og endingargóður. Spegillinn er 56.5cm á hæð og 70cm á breidd Í verslun okkar Firði Hafnarfirði erum við með alla spegla og vörur til sýnis, einnig sendum við hvert á land sem er.
-  Updated: 2026-04-25T11:43:46Z
+  Updated: 2026-05-04T19:57:36Z
   Vendor: Vanity beauty accessories
   Product Type: spegill
   Availability: Available
@@ -229,14 +229,14 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/products/CopyofUntitled_2.png?v=1739460413
   Price: kr 4,590.00 ISK
 - [I <3 You 7-Day Set](https://daria.is/products/i-3-you-7-day-set): #1 sustainable makeup remover in the world. Erase ALL Makeup With JUST Water! Including waterproof mascara, eyeliner, foundation, lipstick, & more! The Original MakeUp Eraser is a premium, patented, polyester cloth made up of millions of tiny hair-like fibers that work together to create a "suction" for all dirt, makeup, & oil in your pores. Double-sided to erase makeup with the short fibers side & exfoliate the skin with the long fiber side (side with tag). Reusable, machine washable, & lasts 3 to 5 years. 1 MakeUp Eraser is equal to 3600 makeup wipes! No chemicals, less waste. Ultra soft, dermatologist , & great for sensitive skin. PRO TIP: Use minis to erase makeup, apply toner, or remove face masks. Free of alcohol, oils, astringents, parabens, fragrances, & sulfates. #nomorewipes I <3 You 7-Day Set includes: 7 mini MakeUp Erasers. One mini for every day of the week! Each mini MakeUp Eraser measure approx. 4in. x 3in. ✔ dermatologist  ✔ hypoallergenic ✔ cruelty-free ✔ 100% vegan ✔ eco-friendly ✔ EU  ✔ machine washable ✔ reusable ✔ no chemicals ✔ less waste ✔ lasts 3 to 5 years ✔ face + lip exfoliator ✔ great for sensitive skin ✔ saves money
-  Updated: 2026-04-20T21:46:48Z
+  Updated: 2026-05-04T19:57:44Z
   Vendor: makeup eraser
   Product Type: makeup eraser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/products/CopyofUntitled_4.png?v=1739460427
   Price: kr 4,590.00 ISK
 - [HOLIDAY LIP CUBE (12 Varalitir og 4 mini Matte)](https://daria.is/products/holiday-lip-cube-12-varalitir-og-4-mini-matte): A limited-edition, gift-ready Lip Collection with 12 full-size Moisturizing Lipsticks and 4 mini deluxe Matte Liquid Lipsticks. Included is our #1 best- lipstick "Girlpower". REALHER’s Moisturizing Lipstick contains encapsulated water that offers hydration for your lips. Each shade is infused with jojoba seed oil, shea butter, and vitamin E. Not only are the Matte Liquid Lipsticks high in pigment, but it also contains a proven smear-resistant formulation. Included are 4 deluxe versions exclusive only to this cube. All in all, this collection of high quality lipsticks are the unique way to gift this year. These can make for great stocking stuffers, party favors, or a great addition to a vanity. The options are endless.
-  Updated: 2026-04-20T21:46:48Z
+  Updated: 2026-05-04T19:57:35Z
   Vendor: Realher
   Product Type: Varalitur
   Availability: Available
@@ -250,7 +250,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/products/2574868-6.jpg?v=1739460454
   Price: kr 4,590.00 ISK
 - [Hvítur/Silfur spegill með led ljósum USB snúra og 4 AA](https://daria.is/products/hvitur-silfur-spegill-med-led-ljosum-usb-snura-og-4-aa): Sniðugur förðunar spegill með Led ljósum sem hægt er að dimma. Stækkunarspegill fylgir með sem er með sogskálum að aftan og hægt að taka af speglinum, hann stækkar X 10 USB snúra fylgir með og hægt er að tengja hana í rafmagn, fartölvu eða hleðslubanka til að kveikja á led ljósum. Hæð 31 cm Breidd 17 cm Batterí fylgja ekki með. Í verslun okkar Firði Hafnarfirði erum við með alla spegla og vörur til sýnis, einnig sendum við hvert á land sem er.
-  Updated: 2026-04-22T16:55:26Z
+  Updated: 2026-05-04T19:57:43Z
   Vendor: Vanity beauty accessories
   Product Type: spegill
   Availability: Available
@@ -278,7 +278,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/products/perle-de-soleil_1024x1024_f7d43aa2-31c9-41b4-847f-3be150efe61e.jpg?v=1739460460
   Price: kr 8,337.00 ISK
 - [Svartar háar gallabuxna leggings](https://daria.is/products/svartar-haar-galla-leggings): Svartar háar galla leggings 83% Cotton, 15% Polyester & 2% Elastane
-  Updated: 2026-04-25T20:22:56Z
+  Updated: 2026-04-28T13:09:31Z
   Vendor: Daría
   Product Type: 
   Availability: Available
@@ -299,7 +299,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 3,270.00 ISK
 - [Hollywood Spegill 56.5 X 70 cm (svartur) - Förðunarspegill](https://daria.is/products/svartur-hollywood-spegill-56-5-x-70-cm): ----- Ný útgáfa af Hollywood speglinum ----- Í nýrri útgáfunni er hægt að hengja spegilinn upp á vegg og komið usb tengi á hliðinni til að hlaða síma. Spegill með 12 Led perum sem gefa mjög góða birtu Hægt er að breyta í hvíta, bláa og gula birtu Dimmanleg Ledljós Lítill stækkunarspegill X10 fylgir með Álrammi: Spegillinn er byggður utan um álramma sem er bæði léttur og endingargóður. Speglinum fylgir snúra sem stungið er í samband í innstungu Spegillinn er 56.5cm á hæð og 70cm á breidd Í verslun okkar Firði Hafnarfirði erum við með alla spegla og vörur til sýnis, einnig sendum við hvert á land sem er.
-  Updated: 2026-04-27T18:40:03Z
+  Updated: 2026-05-04T19:57:37Z
   Vendor: Vanity beauty accessories
   Product Type: spegill
   Availability: Available
@@ -327,7 +327,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/products/Untitleddesign_49.png?v=1739460475
   Price: kr 6,900.00 ISK
 - [ICHI Aðhalds toppur brúnn](https://daria.is/products/ichi-adhalds-toppur-brunn): ICHI Aðhalds toppur
-  Updated: 2026-04-20T21:46:56Z
+  Updated: 2026-05-04T19:57:45Z
   Vendor: ICHI
   Product Type: 
   Availability: Available
@@ -351,7 +351,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 1,497.00 ISK
 - [ICHI Aðhalds buxur svartar](https://daria.is/products/ichi-adhalds-buxur-svartar): ICHI Aðhalds buxur svartar
-  Updated: 2026-04-20T21:46:56Z
+  Updated: 2026-05-04T19:57:44Z
   Vendor: ICHI
   Product Type: 
   Availability: Available
@@ -372,7 +372,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 1,497.00 ISK
 - [Gallabuxna leggings dökkar](https://daria.is/products/gallabuxna-leggings-dokkar): Gallabuxna leggings dökkar
-  Updated: 2026-04-25T20:23:03Z
+  Updated: 2026-05-04T19:57:15Z
   Vendor: Daría
   Product Type: 
   Availability: Available
@@ -381,7 +381,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 2,670.00 ISK
   - [S](https://daria.is/products/gallabuxna-leggings-dokkar?variant=43846142591193)
-    Availability: Not Available
+    Availability: Available
     Price: kr 2,670.00 ISK
   - [M](https://daria.is/products/gallabuxna-leggings-dokkar?variant=43846142623961)
     Availability: Not Available
@@ -396,7 +396,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 1,335.00 ISK
 - [LIP MOUSSE VELVET LIP COLOR (10 litir)](https://daria.is/products/lip-mousse-velvet-lip-color-10-litir): Lip Mousse Velvet Lip Color is whipped into a creamy texture that feels so light and comfortable, you'll barely know it's there. The velvety formula goes on buttery soft, giving a seamless finish with maximum color payoff that wears down evenly throughout the day. Non-sticky, and non-drying, your lips will feel pillow soft and extra hydrated from added vitamin E. The unique teardrop applicator features a center well that holds extra product for full coverage color and even application that hugs your lip curves. Whipped, creamy lip color Non-sticky, non-drying formula Vitamin E enriched formula Teardrop applicator with a center well Cruelty free
-  Updated: 2026-04-20T21:46:58Z
+  Updated: 2026-05-04T19:58:45Z
   Vendor: L.A. Girl
   Product Type: Varalitur
   Availability: Available
@@ -442,7 +442,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Image: https://cdn.shopify.com/s/files/1/1319/3093/files/slay.webp?v=1739460506
     Price: kr 845.00 ISK
 - [BROW BESTIE TRIANGULAR AUTO PENCIL (8 Litir)](https://daria.is/products/brow-bestie-triangular-auto-pencil-8-litir): Time to become besties with your brows again. The Brow Bestie Pencil features a twistable triangle tip with a built-in spoolie. Use the edge of the triangle to line and shade your brows, then brush product through with the spoolie end to soften any harsh lines. Through thick and thin brows, your new bestie will keep them looking their best! Slanted Triangular-Shaped, Retractable Tip High Color Payoff with Ultra-Long Wear Water Resistant & Sweat Resistant Built-In Spoolie End Cruelty Free, Paraben Free & Vegan
-  Updated: 2026-04-27T17:18:34Z
+  Updated: 2026-05-04T19:56:29Z
   Vendor: L.A. Girl
   Product Type: Augabrúnir
   Availability: Available
@@ -522,7 +522,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Image: https://cdn.shopify.com/s/files/1/1319/3093/files/black.webp?v=1739460515
     Price: kr 795.00 ISK
 - [BROW POMADE (5 Litir)](https://daria.is/products/brow-pomade-5-litir): Define and sculpt perfect looking brows. Creamy pomade glides on smoothly and locks into place. Water-resistant formula lasts throughout the day without fading or smudging. Available in 6 flattering shades to fill and fix brows. Complement your brow fix with PRO.brush Duo Brow Brush, featuring an angled brush and spoolie.
-  Updated: 2026-04-20T21:47:00Z
+  Updated: 2026-05-04T19:56:31Z
   Vendor: L.A. Girl
   Product Type: Augabrúnir
   Availability: Available
@@ -548,7 +548,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Image: https://cdn.shopify.com/s/files/1/1319/3093/files/softblack_9ec9289c-3ebf-409a-b8f7-00ae97467fd5.webp?v=1739460515
     Price: kr 895.00 ISK
 - [FANATIC BLUSH PALETTE (2 Litir)](https://daria.is/products/fanatic-blush-palette-2-litir): Are you a blush fanatic? Yeah, us too! Our Fanatic Blush collection features two, 4-pan blush palettes in a range of cheeky colors that leave you blushing. Blushed Babe will have you feeling pretty in pink or go for Island Hottie if warm corals are your thing. You can even mix and match shades to create your own custom look! The sleek compact case and full-sized mirror make these palettes your ultimate travel companion and vanity space saver. One swipe and you’ll be a fan too! Matte & satin finishes Soft & pigmented formula 4 color palette Travel-friendly compact case Cruelty-free, paraben-free & vegan
-  Updated: 2026-04-20T21:47:00Z
+  Updated: 2026-05-04T19:57:00Z
   Vendor: L.A. Girl
   Product Type: Palletta
   Availability: Available
@@ -562,7 +562,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Image: https://cdn.shopify.com/s/files/1/1319/3093/files/Islandhottie.webp?v=1739460516
     Price: kr 1,145.00 ISK
 - [HD PRO.CONCEAL Corrector (10 Litir)](https://daria.is/products/hd-pro-conceal-corrector-10-litir): A concealer that needs no introduction. The L.A. Girl HD PRO.conceal is the holy grail of concealers. The creamy, yet lightweight texture provides complete, natural-looking coverage with a ‘barely there’ feel and all-day wear. Our top  color correctors camouflage darkness under the eyes, reduce redness, and eliminate hyperpigmentation so you can stress less and slay more. A brush tip applicator makes placement easier than ever – gently squeeze the product into the brush and apply as needed. Although PRO.conceal provides flawless coverage for its day job, as a side hustle you can use it to contour and highlight, snatching your features – just like the PROs. Lightweight, creamy texture Long-wearing, crease-resistant formula Built in, brush-tip applicator Correct, conceal, contour, & highlight Ideal for all skin types Cruelty-free & fragrance-free Orange Color Corrector: Neutralizes dark spots for medium/deep skin tones. Yellow Color Corrector: Corrects dullness caused by purple/blue undertones and brightens under-eye circles for medium to dark skin tones. Green Color Corrector: Neutralizes redness for medium to dark skin tones. Lavender Color Corrector: Neutralizes unwanted yellow undertones and sallowness. Peach Color Corrector: Neutralizes dark spots for light skin tones. Light Yellow Color Corrector: Corrects dullness caused by purple/blue undertones and brightens under eye circles for fairer skin tones. Mint Color Corrector: Neutralizes redness for fair to light skin tones. Reddish Color Corrector: Neutralizes dark spots for dark to deep dark skin tones. Cool Pink Color Corrector: Neutralizes dark spots for fair to light skin tones. Flat White Color Corrector: Lightens and neutralizes any PRO.conceal shade.
-  Updated: 2026-04-20T21:47:01Z
+  Updated: 2026-05-04T19:57:26Z
   Vendor: L.A. Girl
   Product Type: hyljari
   Availability: Available
@@ -647,7 +647,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/settingspray.webp?v=1739460522
   Price: kr 845.00 ISK
 - [PRO COVERAGE ILLUMINATING FOUNDATION (7 Litir)](https://daria.is/products/pro-coverage-illuminating-foundation-7-litir): Seamless, full-coverage, skin-like finish so flawless, they’ll be asking who did your makeup. PRO.coverage HD Illuminating Foundation has a buildable, lightweight, antioxidant rich formula that hydrates and helps improve skin appearance while you wear. Cover imperfections, and even out skin tone with a dewy, radiant finish that looks like your skin, but better. It’s like having a pro MUA in a bottle. PRO Tip: Try the white foundation mixer to lighten your summer shade for winter or use as a white base for creative makeup looks. Buildable, medium-to-full coverage foundation Dewy, radiant finish Formulated with vitamin E & vitamin C Hydrates and improves skin appearance Cruelty-free, paraben-free & vegan
-  Updated: 2026-04-20T21:47:04Z
+  Updated: 2026-05-02T11:47:37Z
   Vendor: L.A. Girl
   Product Type: Farði
   Availability: Available
@@ -681,7 +681,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Image: https://cdn.shopify.com/s/files/1/1319/3093/files/white_9a85eb87-1a29-4910-8263-48fcdef220ea.webp?v=1739460529
     Price: kr 1,295.00 ISK
 - [LIP ATTRACTION LIPSTICK (10 Litir)](https://daria.is/products/lip-attraction-lipstick-10-litir): Lip Attraction will have you catching feelings for lipstick all over again! The high-shine formula applies like a lipstick and wears like a pigmented gloss giving you the best of both worlds. Vitamin E locks in moisture leaving lips soft and hydrated for that first kiss feeling. Like any classic love story, we know you can’t get enough of the original 10 shades, so we brought in 10 more to fall for. Lip Attraction 2 has the same creamy, pigmented formula but this time with light-reflecting pigments which adds a subtle shimmer you'll go back for again and again. Surprisingly wearable, the shimmer lipstick bounces off light for an extra-glam shine without looking glittery or metallic. Why Lip Attraction will have you crushing: Full-Coverage Color Semi-gloss finish Magnetic closure 10 glossy shades, 10 shimmer shades Hydrating vitamin E formula
-  Updated: 2026-04-22T03:14:47Z
+  Updated: 2026-05-04T19:58:41Z
   Vendor: L.A. Girl
   Product Type: Varalitur
   Availability: Available
@@ -753,7 +753,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Image: https://cdn.shopify.com/s/files/1/1319/3093/files/nonstopnude.webp?v=1739460527
     Price: kr 845.00 ISK
 - [SHOCKWAVE LIPLINER (12 Litir)](https://daria.is/products/shockwave-lipliner-4-litir): You might want to take a seat before you swatch, because the Shockwave Lipliners will have you shook. Shockingly bold colors glide on creamy pigment with a full coverage finish that lasts up to 8 hours. Electrify your look with a vivid, statement lip from the Neon collection, or find your nude go-to lipliner from the Nude collection that will literally complement any look. The soft plastic pencil can be sharpened with a regular sharpener for precise application every time. Get ready to create looks that shock. Smudge-proof glide on gel lipliner Available in neon or nude finishes Up to 8-hour wear Water-resistant Soft plastic can be sharpened Cruelty-free & paraben-free
-  Updated: 2026-04-25T12:03:46Z
+  Updated: 2026-04-28T15:39:17Z
   Vendor: L.A. Girl
   Product Type: lip liner
   Availability: Available
@@ -829,7 +829,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Image: https://cdn.shopify.com/s/files/1/1319/3093/files/superbright.webp?v=1739460539
     Price: kr 845.00 ISK
 - [SHOCKWAVE EYELINER (4 Litir)](https://daria.is/products/shockwave-eyeliner-4-litir): You might want to take a seat before you swatch, because the Shockwave Eyeliners will have you shook. Shockingly bold colors glide on creamy pigment with a full coverage finish that lasts up to 16 hours. Electrify your look with a vivid pop of color from the Neon collection, or light up your eyes with sultry, matte-metallic shimmer from the Metallic collection. The soft plastic pencil can be sharpened with a regular sharpener for precise application every time. Get ready to create looks that shock. Smudge-proof glide on gel eyeliner Available in neon or metallic finishes Up to 16-hour wear Water-resistant Soft plastic can be sharpened FDA  for the eye area Cruelty-free & paraben-free
-  Updated: 2026-04-20T21:47:06Z
+  Updated: 2026-05-04T11:33:09Z
   Vendor: L.A. Girl
   Product Type: eyeliner
   Availability: Available
@@ -857,7 +857,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 845.00 ISK
 - [PERFECT PRECISION LIPLINER (8 Litir)](https://daria.is/products/perfect-precision-lipliner-8-litir): Lipliner has made a comeback in a big way. Whether is overlining, or entirely reshaping lips, these trends are here to stay and Perfect Precision Lipliner is here to help. Create perfectly precise lines to customize your lip shape without tugging, skipping or crumbling on lips. Not too soft, yet not too waxy, it’s the goldilocks of lipliner formulas. Fill in your lips and wear it alone or layer your lipstick on top to lock in color for long lasting wear. Each lip pencil is made of wood from sustainable forests so you can feel good about the products in your bag, while looking good too. Rich, intense color Shape, line & define lips Smooth, long-wearing formula Made of wood from sustainable forests Sharpen with our 3-way sharpener Cruelty free
-  Updated: 2026-04-20T21:47:06Z
+  Updated: 2026-05-04T11:33:09Z
   Vendor: L.A. Girl
   Product Type: lip liner
   Availability: Available
@@ -903,7 +903,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Image: https://cdn.shopify.com/s/files/1/1319/3093/files/GP714_prod_img.webp?v=1739460549
     Price: kr 695.00 ISK
 - [FINELINE EYELINER (3Litir)](https://daria.is/products/fineline-eyeliner-3litir): Fineline Eyeliner will have you lookin’ finer. The soft, flexible tip hugs your lash line to create thin, precise lines giving you total control. Deliver super saturated color in just one stroke to have all eyes on you. We know the struggle is real when it comes to that perfect wing, so whether you’re a professional makeup artist, or just starting out, you’ll do fine sweetie. Fine tip liquid liner Quick drying, & crease proof Lasts up to 12 hours (based on a panel test) Cruelty-free, paraben-free, & vegan
-  Updated: 2026-04-20T21:47:06Z
+  Updated: 2026-05-04T19:57:02Z
   Vendor: L.A. Girl
   Product Type: eyeliner
   Availability: Available
@@ -921,7 +921,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Image: https://cdn.shopify.com/s/files/1/1319/3093/files/darkblue.webp?v=1739460546
     Price: kr 845.00 ISK
 - [HD PRO.CONCEAL (20 Litir)](https://daria.is/products/hd-pro-conceal-10-litir): A concealer that needs no introduction. The L.A. Girl HD PRO.conceal is the holy grail of concealers. The creamy, yet lightweight texture provides complete, natural-looking coverage with a ‘barely there’ feel and all-day wear. Our top  color correctors camouflage darkness under the eyes, reduce redness, and eliminate hyperpigmentation so you can stress less and slay more. A brush tip applicator makes placement easier than ever – gently squeeze the product into the brush and apply as needed. Although PRO.conceal provides flawless coverage for its day job, as a side hustle you can use it to contour and highlight, snatching your features – just like the PROs. Lightweight, creamy texture Long-wearing, crease-resistant formula Built in, brush-tip applicator Correct, conceal, contour, & highlight Ideal for all skin types Cruelty-free & fragrance-free
-  Updated: 2026-04-20T21:47:07Z
+  Updated: 2026-05-04T19:57:25Z
   Vendor: L.A. Girl
   Product Type: hyljari
   Availability: Available
@@ -1052,7 +1052,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Image: https://cdn.shopify.com/s/files/1/1319/3093/files/mediumbeige_f67e0178-a34f-4f92-8a90-f9a540dae642.webp?v=1739460559
     Price: kr 895.00 ISK
 - [PRO MATTE FOUNDATION (8 Litir)](https://daria.is/products/pro-matte-foundation-8-litir): Get matte, get even. The L.A. Girl PRO.matte Foundation is your new ride or die for a flawless-looking face and lasting wear. With a shine-free and suede-like finish, you’ll have smooth, buildable coverage that looks matte, but never dry. Not only does this foundation minimize the appearance of pores and fine lines with the soft-focus formula, but it is also packed with vitamin E, B5 and sunflower oil to leave your skin feeling soft and hydrated. Wear with confidence, because like any good ride or die, we’ve got you covered. Medium to full coverage foundation Suede-like finish Long wearing, buildable coverage Added vitamin E, B5 & sunflower oil Best for normal to oily skin types Fragrance free Cruelty-free, paraben-free & vegan
-  Updated: 2026-04-20T21:47:08Z
+  Updated: 2026-05-02T11:47:37Z
   Vendor: L.A. Girl
   Product Type: Farði
   Availability: Available
@@ -1153,7 +1153,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/GLP526_prod_img_1024x1024_cd6b56fd-18bc-480e-9307-2ba61762e28b.webp?v=1739460560
   Price: kr 895.00 ISK
 - [LINE ART MATTE EYELINER (2 Litir)](https://daria.is/products/line-art-matte-eyeliner-2-litir): Your eyes are the canvas, and we have the right tools you need to create art. Time to use your imagination with our Line Art Matte Eyeliner! It doesn’t matter what look you’re going for; it always gets the job done with its high intensity pigment and rich color pay-off. Through thick or thin, Line Art will add the final touches to your work of art. The quick drying, smudge-proof and water-resistant formula provides long lasting wear while a soft, flexible fine tip brush ensures smooth lining. Beat the line and grab Line Art Matte Eyeliner to create your own masterpiece! Pro tip: Lay tip flat against the edge of the eye with tip pointing outward and stamp a cat-eye shape to create perfect winged liner. Matte formula Smudge-proof & water-resistant Quick drying Create precise or dramatic lines Cruelty-free & paraben-free & vegan
-  Updated: 2026-04-20T21:47:09Z
+  Updated: 2026-05-04T19:58:40Z
   Vendor: L.A. Girl
   Product Type: eyeliner
   Availability: Available
@@ -1207,7 +1207,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Image: https://cdn.shopify.com/s/files/1/1319/3093/files/contorhighlightcontor.webp?v=1739460570
     Price: kr 895.00 ISK
 - [JUST BLUSHING (4 Litir)](https://daria.is/products/just-blushing-4-litir): Extremely pigmented powder blush that is just gorgeous! Available in an impressive assortment of colors, this collection of 16 blushes ranges from soft gray to wearable nudes to bold and bright shades. Blendable, buildable color in matte & shimmer finishes. The soft and silky formula is long wearing sure to leave you 'just blushing' all night long.
-  Updated: 2026-04-20T21:47:10Z
+  Updated: 2026-05-05T13:56:47Z
   Vendor: L.A. Girl
   Product Type: kinnalitur
   Availability: Available
@@ -1409,7 +1409,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Image: https://cdn.shopify.com/s/files/1/1319/3093/files/aLIPBRUSH.webp?v=1739460598
     Price: kr 795.00 ISK
 - [Carmen gallabuxur svartar](https://daria.is/products/carmen-gallabuxur-svartar): 43% Viscose, 33% Cotton, 17% Lyocell, 5% Polyester, 2% Elastane
-  Updated: 2026-04-20T21:47:12Z
+  Updated: 2026-05-04T19:56:34Z
   Vendor: pulz
   Product Type: buxur
   Availability: Available
@@ -1442,7 +1442,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 5,370.00 ISK
 - [Carmen gallabuxur ljósbláar](https://daria.is/products/carmen-gallabuxur-ljosblaar): 92% Cotton, 6% Polyester, 2% Elastane
-  Updated: 2026-04-22T15:27:27Z
+  Updated: 2026-05-04T19:56:33Z
   Vendor: pulz
   Product Type: buxur
   Availability: Available
@@ -1475,7 +1475,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 17,900.00 ISK
 - [Lexi blazer svartur](https://daria.is/products/lexi-blazer-svartur): 90% Polyester, 10% Elastane
-  Updated: 2026-04-20T21:47:12Z
+  Updated: 2026-05-04T19:58:27Z
   Vendor: ICHI
   Product Type: blazer
   Availability: Available
@@ -1520,7 +1520,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Image: https://cdn.shopify.com/s/files/1/1319/3093/files/GFP913_prod_img_1024x1024_a418c4a5-db1d-4f93-9077-c1ca1e458481.webp?v=1739460630
     Price: kr 945.00 ISK
 - [BROW INK MICRO BRUSH DETAILER PEN (3 Litir)](https://daria.is/products/brow-ink-micro-brush-detailer-pen-3-litir): The L.A. Girl Brow Ink Micro Brush Detailer Pen is an absolute game-changer for nailing those perfectly natural-looking brows. With its ultra-precise hair-like strokes and meticulous detailing, this pen is all about giving you those on-point brows. Turn your Brow Ink Pen around and use the spoolie to brush out and soften your brows. It’s a total must-have for achieving that effortless and flawless brow slay. Ultra precise hair-like strokes Easy to control brush tip applicator Cruelty & paraben free How to Apply With cap secured, shake well before each use. On bare dry skin, gently flick the brush upwards in sparse areas to create hair-like strokes. Blend with spoolie brush to soften look. Cap tightly after use and store tip down.
-  Updated: 2026-04-20T21:47:15Z
+  Updated: 2026-05-04T19:56:30Z
   Vendor: L.A. Girl
   Product Type: Augabrúnir
   Availability: Available
@@ -1538,7 +1538,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Image: https://cdn.shopify.com/s/files/1/1319/3093/files/GBP34x_prod_img_main_3_1024x1024_f3771b7c-c50f-4ce1-9f3b-221f11919d40.webp?v=1739460637
     Price: kr 945.00 ISK
 - [LIP OIL NOURISHING GLOSS (6 Litir)](https://daria.is/products/lip-oil-nourishing-gloss-6-litir): L.A. Girl Lip Oil is sending a lifeline to your lips! Boosted with hydrating rosehip fruit oil and vitamin E, lips will feel softer, smoother, and plumped with hydration. All shades apply sheer, but if you’re feeling extra, opt for one of the shimmers to add a subtle sparkle. BTW, these smell amazing, but don’t take our word for it. Each shade is infused with its own scent that is obsession worthy. You’ll need one for your bag, your desk, your car, your vanity… you get what we mean. Apply alone or pair it with a lipliner for that effortlessly put together look. Moisturizes lips with a glossy shine Glossy & shimmer formulas Includes: vitamin E, rosehip fruit oil, sodium hyaluronate Doe foot applicator wand Cruelty-free, paraben free & vegan Try the leave on Lip Mask  at night to get maximum hydration for your lips. How to Apply Apply the lip oil directly to lips following along with your natural lip shape. Can be worn alone, with lipliner, or over lip color for extra shine and hydration.
-  Updated: 2026-04-20T21:47:15Z
+  Updated: 2026-05-04T19:58:47Z
   Vendor: L.A. Girl
   Product Type: 
   Availability: Available
@@ -1618,7 +1618,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/standandi_spegill_me_led_lj_sum.jpg?v=1739460746
   Price: kr 42,415.00 ISK
 - [Jules samfestingur (Atelier Rêve)](https://daria.is/products/jules-samfestingur-atelier-reve): 98% Cotton, 2% Elastane
-  Updated: 2026-04-20T21:47:18Z
+  Updated: 2026-05-04T19:58:00Z
   Vendor: ICHI
   Product Type: samfestingur
   Availability: Available
@@ -1660,21 +1660,21 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 870.00 ISK
 - [Ferðaspegill með Led lýsingu](https://daria.is/products/ferdaspegill-med-led-lysingu): Sniðugur ferðaspegill með 3X og 5X stækkun á annarri hliðinni og venjulegum spegli á hinni hliðinni. Hægt er að breyta í hvíta, bláa og gula birtu, Warm light, Natural White og Cool white. Dimmanleg ljós. Hægt er að hlaða spegilinn, 1000mah rafhlaða, usb snúra fylgir með. Sleep mode: Ljósin slökkna þegar hann er lokaður og kveikna aftur þegar hann er opnaður. Hæð 25cm Breidd 19 cm Í verslun okkar Firði Hafnarfirði erum við með alla spegla og vörur til sýnis, einnig sendum við hvert á land sem er.
-  Updated: 2026-04-24T00:41:06Z
+  Updated: 2026-05-05T15:22:57Z
   Vendor: Vanity beauty accessories
   Product Type: spegill
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/ferdaspegill_med_led_lysingu.png?v=1739460755
   Price: kr 5,942.00 ISK
 - [Lashvana augnhára starter kit (Misty D curl)](https://daria.is/products/lashvana-starter-kit-misty-c-curl): Vinsæla DIY Starter kittið okkar er einstaklega hentugt fyrir byrjendur. Kittið inniheldur allt sem þú þarft til þess að byrja! Hvað er innifalið í boxinu? Misty augnhár 40 stk augnhár Augnháratöng Bonder Sealer Remover Hvernig á að setja augnhárin á? Skref 1: Þrífðu augnhárin þín með augnhárasjampó og vertu viss um að þau séu 100% hrein og þurr áður en þú byrjar. Skref 2: Berðu bonder upp við rót augnháranna þinna. Passaðu að nota bonderinn ekki eins og maskara. Skref 3: Losaðu augnhár varlega úr boxinu og raðaðu þeim undir þín eigin augnhár. Gott er að byrja út á enda og vinna sig innar. Raðaðu augnhárunum örlítið yfir hvert annað svo þau haldist sem best á. Skref 4: Að lokum skalt þú bera sealer upp við rót augnháranna og nota augnháratöngina til þess að klemma þeim saman við þín eigin augnhár. Þetta er mjög mikilvægt skref upp á að augnhárin haldist sem lengst á.
-  Updated: 2026-04-20T21:47:19Z
+  Updated: 2026-05-04T19:58:22Z
   Vendor: lashvana
   Product Type: augnhár
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/B398A03A-9E77-4693-BADD-4B7F3F7BEF2E.webp?v=1739460755
   Price: kr 8,290.00 ISK
 - [Lashvana Aria cluster augnhár](https://daria.is/products/lashvana-aria-cluster-augnhar): DIY cluster augnhárin koma í fjórum mismunandi lengdum ( 10mm, 12mm, 14mm & 16mm ). 40 stk í pakka. Vegan & Cruelty free Vatns & Svitaheld Endurnýtanleg augnhár Endast í allt að 5-10 daga Ofurþunnt band Hönnuð með þægindi í huga
-  Updated: 2026-04-20T21:47:19Z
+  Updated: 2026-05-05T12:41:36Z
   Vendor: lashvana
   Product Type: augnhár
   Availability: Available
@@ -1762,7 +1762,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 5,399.00 ISK
 - [main skyrta hvít](https://daria.is/products/main-skyrta-hvit): 100% Viscose (LENZING™ ECOVERO™)
-  Updated: 2026-04-20T21:47:21Z
+  Updated: 2026-04-30T17:49:06Z
   Vendor: ICHI
   Product Type: skyrta
   Availability: Available
@@ -1771,7 +1771,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 2,070.00 ISK
   - [36](https://daria.is/products/main-skyrta-hvit?variant=45960960671961)
-    Availability: Available
+    Availability: Not Available
     Price: kr 2,070.00 ISK
   - [38](https://daria.is/products/main-skyrta-hvit?variant=45960960704729)
     Availability: Not Available
@@ -1785,15 +1785,22 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   - [44](https://daria.is/products/main-skyrta-hvit?variant=45960960803033)
     Availability: Not Available
     Price: kr 2,070.00 ISK
+- [LASHVANA AUGNHÁR MISTY D CURL](https://daria.is/products/lashvana-augnhar-misty-d-curl): DIY cluster augnhárin koma í fjórum mismunandi lengdum ( 10mm, 12mm, 14mm & 16mm ). 40 stk í pakka. Vegan & Cruelty free Vatns & Svitaheld Endurnýtanleg augnhár Endast í allt að 5-10 daga Ofurþunnt band Hönnuð með þægindi í huga
+  Updated: 2026-05-04T19:58:21Z
+  Vendor: lashvana
+  Product Type: augnhár
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/MistyC.webp?v=1739460872
+  Price: kr 2,995.00 ISK
 - [LASHVANA Bonder & Sealer DUO](https://daria.is/products/lashvana-bonder-sealer-duo)
-  Updated: 2026-04-22T16:34:56Z
+  Updated: 2026-05-05T12:41:46Z
   Vendor: lashvana
   Product Type: augnhár
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/149E59AF-3606-4A32-B59A-FEAF67687ECFkk.webp?v=1739460871
   Price: kr 3,290.00 ISK
 - [midde samfestingur](https://daria.is/products/midde-samfestingur): 100% Polyester
-  Updated: 2026-04-20T21:47:22Z
+  Updated: 2026-04-30T16:50:56Z
   Vendor: b.young
   Product Type: samfestingur
   Availability: Available
@@ -1805,7 +1812,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 3,870.00 ISK
   - [38](https://daria.is/products/midde-samfestingur?variant=46028868092121)
-    Availability: Available
+    Availability: Not Available
     Price: kr 3,870.00 ISK
   - [40](https://daria.is/products/midde-samfestingur?variant=46028868124889)
     Availability: Not Available
@@ -1814,14 +1821,14 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 3,870.00 ISK
 - [Förðunartaska með Led spegli (Svört)](https://daria.is/products/fordunartaska-med-led-spegli-svort): Æðisleg förðunartaska með Led ljósum og spegli Þessi snyrtitaska er frábær fyrir þá sem vilja halda snyrtivörunum sínum í lagi og á öruggum stað, bæði á ferð og heima við. Taskan er með margskiptum hólfum, þar á meðal vatnsheldum vösum sem tryggja að förðunar- og snyrtivörur þínar haldist öruggar, skipulagðar og aðgengilegar Lykilatriði: Spegil með LED-ljósum: Innbyggður spegill með LED-ljósum sem gefur frá sér mjög góða birtu, 3 birtustillingar,Cool white/Warm white/Natura white sem er einnig hægt að dimma Gott Geymslupláss: Nægilega stór til að geyma allar helstu snyrtivörur, svo sem bursta, förðunarvörur, húðvörur og hárvörur. Vatnsheld Hönnun: Yfirborðsefni sem þolir vatn verndar vörurnar þínar, jafnvel við raka eða vatnsslettur. Ferðavæn Stærð: Létt og meðfærileg Sniðug Hólfaskipting: Margskipt hólf tryggja gott skipulag á mismunandi vörum, auðvelt að breyta stærð hólfanna. Burstavasi: Sér burstavasi fylgir með sem heldur burstunum þínum á sínum stað Taskan er 26X11 cm á stærð Endurhlaðanleg 2000mah rafhlaða fyrir led ljós, snúra fylgir með
-  Updated: 2026-04-25T19:17:27Z
+  Updated: 2026-05-05T13:40:17Z
   Vendor: Vanity beauty accessories
   Product Type: förðunartaska
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/fordunartaska_med_led_spegil_spegli_svort_1080.png?v=1739460941
   Price: kr 12,665.00 ISK
 - [Förðunartaska með Led spegli (Bleik)](https://daria.is/products/fordunartaska-med-led-spegli-bleik): Æðisleg förðunartaska með Led ljósum og spegli Þessi snyrtitaska er frábær fyrir þá sem vilja halda snyrtivörunum sínum í lagi og á öruggum stað, bæði á ferð og heima við. Taskan er með margskiptum hólfum, þar á meðal vatnsheldum vösum sem tryggja að förðunar- og snyrtivörur þínar haldist öruggar, skipulagðar og aðgengilegar Lykilatriði: Spegil með LED-ljósum: Innbyggður spegill með LED-ljósum sem gefur frá sér mjög góða birtu, 3 birtustillingar,Cool white/Warm white/Natura white sem er einnig hægt að dimma Gott Geymslupláss: Nægilega stór til að geyma allar helstu snyrtivörur, svo sem bursta, förðunarvörur, húðvörur og hárvörur. Vatnsheld Hönnun: Yfirborðsefni sem þolir vatn verndar vörurnar þínar, jafnvel við raka eða vatnsslettur. Ferðavæn Stærð: Létt og meðfærileg Sniðug Hólfaskipting: Margskipt hólf tryggja gott skipulag á mismunandi vörum, auðvelt að breyta stærð hólfanna. Burstavasi: Sér burstavasi fylgir með sem heldur burstunum þínum á sínum stað Taskan er 26X11 cm á stærð Endurhlaðanleg 2000mah rafhlaða fyrir led ljós, snúra fylgir með Í verslun okkar Firði Hafnarfirði erum við með alla spegla og vörur til sýnis, einnig sendum við hvert á land sem er.
-  Updated: 2026-04-26T18:06:38Z
+  Updated: 2026-05-04T19:57:06Z
   Vendor: Vanity beauty accessories
   Product Type: förðunartaska
   Availability: Available
@@ -1840,14 +1847,14 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 845.00 ISK
 - [Brightening Setting Powder](https://daria.is/products/brightening-setting-powder): This setting powder brightens and blurs, subtly color correcting your look while softening pores and fine lines. Available in 3 shades, it holds your makeup in place all day, leaving you with a bright, silky matte finish.
-  Updated: 2026-04-20T21:47:24Z
+  Updated: 2026-05-04T19:56:26Z
   Vendor: L.A. Girl
   Product Type: púður
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/GPS168_prod_img.webp?v=1739461000
   Price: kr 795.00 ISK
 - [Sunset Daze Marble Blush Stick](https://daria.is/products/sunset-daze-marble-blush-stick): A creamy marbled blush with multi-dimensional hues. Offered in three marbled shades, they feature warm tones and are infused with skin-loving ingredients such as vitamin E, almond oil, camellia seed oil, meadowfoam seed oil, and mango seed butter. Marbled Blush Cream Stick Creamy & Blendable Formula Long-Wearing Twist-Up Applicator Velvety Soft Texture Vitamin E, Almond Oil, & Meadowfoam Seed Oil to moisturizes skin Camellia Seed Oil helps soothe skin Mango Butter Ultra helps soften skin
-  Updated: 2026-04-20T21:47:24Z
+  Updated: 2026-04-28T15:39:19Z
   Vendor: L.A. Girl
   Product Type: snyrtivörur
   Availability: Available
@@ -1862,7 +1869,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 795.00 ISK
 - [Glow Envy Highlighter Wand](https://daria.is/products/glow-envy-highlighter-wand): This easy-to-use illuminating liquid highlighter may provide an instant-dewy glow for a natural-luminous finish that is perfect for all occasions. Soft-Cushion Applicator Buildable Gel Formula Lightweight and Long-Wearing Skin-Loving Ingredients Sodium Hyaluronate Shea Butter Both ingredients help hydrate and soothe the skin.
-  Updated: 2026-04-20T21:47:24Z
+  Updated: 2026-05-04T19:57:18Z
   Vendor: L.A. Girl
   Product Type: snyrtivörur
   Availability: Available
@@ -1874,7 +1881,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 795.00 ISK
 - [Contour Envy Contour Wand](https://daria.is/products/contour-envy-contour-wand): Sculpt, define, and enhance features with Contour Envy Contour Wands. This lightweight, buildable gel blends effortlessly for long wear and comes with a cushion-tip applicator for an easy-to-use application. Soft-Cushion Applicator Buildable Gel Formula Lightweight and Long-Wearing Skin-Loving Ingredients Sodium Hyaluronate Shea Butter Both ingredients help hydrate and soothe the skin.
-  Updated: 2026-04-20T21:47:25Z
+  Updated: 2026-05-04T19:56:47Z
   Vendor: L.A. Girl
   Product Type: contour
   Availability: Available
@@ -1899,7 +1906,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/GFS200_prod_altimg_1.webp?v=1739461005
   Price: kr 895.00 ISK
 - [HD PRO.BB Cream](https://daria.is/products/hd-pro-bb-cream): Simplify your makeup routine with all-in-one skin beautifying PRO.bb Cream. This powerful multi-tasker primes, moisturizes, and evens out skin tone with a tint of coverage for a natural look. Added vitamin B3, vitamin C and vitamin E hydrates and helps improves skin’s appearance while you wear. Perfect to give your complexion a quick and easy boost on the go. This skin friendly formula is fragrance-free, and paraben-free. Primes, moisturizes & enhances skin Sheer coverage BB cream Added vitamin B3, vitamin C & vitamin E Sodium hyaluronate for added hydration Added anti-aging vegan collagen boosting peptide Fragrance free Cruelty-free, paraben-free & vegan
-  Updated: 2026-04-20T21:47:25Z
+  Updated: 2026-05-04T19:57:24Z
   Vendor: L.A. Girl
   Product Type: Farði
   Availability: Available
@@ -1914,7 +1921,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 745.00 ISK
 - [L.A. Girl Glide Gel Liner® Pencil (10 litir)](https://daria.is/products/l-a-girl-glide-gel-liner-pencil-10-litir): Finally, the bold, pigmented look of a gel eyeliner with the ease of using a pencil. The Glide Gel Eyeliner has a soft gel-like formula that glides on effortlessly. You don’t have to be a makeup artist to get the defined, bold look only a gel eyeliner can give. For a smokey look, smudge out the eyeliner immediately after application, then let it dry down for an all-day wear. Sharpen before application to get precise lines. Long-wearing, bold color Gel-like formula Glides on smoothly, no tugging Made in Germany Cruelty-free & paraben-free Finish off your eye look with Volumatic Mascara!
-  Updated: 2026-04-20T21:47:26Z
+  Updated: 2026-05-04T19:58:17Z
   Vendor: L.A. Girl
   Product Type: augu
   Availability: Available
@@ -1978,7 +1985,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 745.00 ISK
 - [Lip Haze Soft Matte Lip Color](https://daria.is/products/lip-haze-soft-matte-lip-color): Available in 10 velvety color shades, you can choose from soft pinks and nudes for an everyday pout to match your aesthetic or make a statement with our vibrant berry shades. Whatever you choose, these matte lip colors will complement your makeup glam. Why We Love It: A velvet cushion, this lippie gives you that soft matte finish to complement your makeup look and skin color. Made with a low transfer formula, this is comfortable to apply and to wear all day. Hyper-pigmentation Long-lasting Cruelty-free Paraben-free Low transfer formula Comfortable velvet cushion Matte finish Tell Me More:
-  Updated: 2026-04-20T21:47:27Z
+  Updated: 2026-05-04T19:58:42Z
   Vendor: L.A. Girl
   Product Type: Varalitur
   Availability: Available
@@ -2030,7 +2037,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Image: https://cdn.shopify.com/s/files/1/1319/3093/files/GLC876_prod_img.webp?v=1739461035
     Price: kr 845.00 ISK
 - [Glossy Plumping Lipgloss](https://daria.is/products/glossy-plumping-lipgloss): Plump it up with Glossy Plumping Lipgloss! This non-sticky, high-shine, lip plumper formula creates a warm tingling sensation that increases circulation to your lips, instantly adding volume for fuller looking lips. Vitamin E and aloe vera lock in moisture to keep lips soft and naturally plump with hydration for the most kissably-plush pout. Available in pigmented cream colors and sheer shimmer finishes that are perfect to wear alone or over your favorite L.A. Girl lipsticks and lipliners. Glossy Plumping Lipgloss is here plump you up! Pro Tip: Want added fullness to your favorite lipstick? Add a lighter color of Glossy Plumping Lipgloss to the center of your lips, which will add shine and fullness. Plumping lip gloss Non-sticky, high-shine formula Pigmented cream and sheer shimmer finishes Warm, tingling sensation Added vitamin E & aloe vera to hydrate lips Cruelty-free & paraben free formula
-  Updated: 2026-04-20T21:47:28Z
+  Updated: 2026-05-04T19:57:17Z
   Vendor: L.A. Girl
   Product Type: Varalitur
   Availability: Available
@@ -2077,7 +2084,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 2,070.00 ISK
 - [JANNIE GALLAPILS](https://daria.is/products/jannie-gallapils): 95% Cotton, 4% Polyester, 1% Elastane
-  Updated: 2026-04-20T21:47:29Z
+  Updated: 2026-05-04T19:57:51Z
   Vendor: cream
   Product Type: pils
   Availability: Available
@@ -2098,7 +2105,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 4,470.00 ISK
 - [Donne buxur](https://daria.is/products/donne-buxur): 98% Cotton, 2% Elastane
-  Updated: 2026-04-20T21:47:30Z
+  Updated: 2026-05-04T19:56:54Z
   Vendor: cream
   Product Type: buxur
   Availability: Available
@@ -2125,7 +2132,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 5,070.00 ISK
 - [bengtha buxur beinar](https://daria.is/products/benghta-buxur-beinar): 75% Viscose, 21% Polyamide, 4% Elastane
-  Updated: 2026-04-20T21:47:30Z
+  Updated: 2026-05-04T19:56:09Z
   Vendor: CULTURE
   Product Type: buxur
   Availability: Available
@@ -2182,7 +2189,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 4,470.00 ISK
 - [Crop toppur hvítur](https://daria.is/products/crop-toppur-hvitur): 91% Polyester & 9% Elastane
-  Updated: 2026-04-20T21:47:31Z
+  Updated: 2026-05-04T19:56:48Z
   Vendor: Daría
   Product Type: Toppur
   Availability: Available
@@ -2200,7 +2207,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 1,470.00 ISK
 - [crop toppur svartur](https://daria.is/products/crop-toppur-svartur): 91% Polyester & 9% Elastane
-  Updated: 2026-04-20T21:47:31Z
+  Updated: 2026-05-04T19:56:49Z
   Vendor: Daría
   Product Type: Toppur
   Availability: Available
@@ -2218,7 +2225,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 1,470.00 ISK
 - [Hairpearl augabrúna litur svartur](https://daria.is/products/hairpearl-augabruna-litur-svartur): SVARTUR AUGNHÁRALITUR Klassískur svartur augnháralitur fyrir dökkhærða og svarthærða.No 1 er náttúrulega svartur litur. Hairpearl augnháralitirnir blandast 1 hlutur af lit á móti 1 hlutur af festi.Biðtími er 3 – 5 mínútur fyrir augabrúnir.
-  Updated: 2026-04-20T21:47:31Z
+  Updated: 2026-05-04T19:57:22Z
   Vendor: Daría
   Product Type: Augabrúnir
   Availability: Available
@@ -2249,7 +2256,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 3,270.00 ISK
 - [hella buxur](https://daria.is/products/hella-buxur): 83% Polyester, 14% Viscose, 3% Elastane
-  Updated: 2026-04-20T21:47:32Z
+  Updated: 2026-05-04T19:57:28Z
   Vendor: kaffe
   Product Type: buxur
   Availability: Available
@@ -2276,7 +2283,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 4,470.00 ISK
 - [attie melida kjóll leopard](https://daria.is/products/attie-melida-kjoll-leopard): 95% Polyester, 5% Elastane
-  Updated: 2026-04-20T21:47:33Z
+  Updated: 2026-05-04T19:55:57Z
   Vendor: CULTURE
   Product Type: KJÓLL
   Availability: Available
@@ -2297,7 +2304,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 4,770.00 ISK
 - [bengtha buxur ljósar](https://daria.is/products/bengtha-buxur-ljosar): 75% Viscose, 21% Polyamide, 4% Elastane
-  Updated: 2026-04-20T21:47:33Z
+  Updated: 2026-05-04T19:56:10Z
   Vendor: CULTURE
   Product Type: buxur
   Availability: Available
@@ -2324,7 +2331,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 3,270.00 ISK
 - [LEONA LEOPARD GALLABUXUR](https://daria.is/products/leona-leopard-gallabuxur): 98% Cotton, 2% Elastane
-  Updated: 2026-04-20T21:47:34Z
+  Updated: 2026-05-04T19:58:26Z
   Vendor: cream
   Product Type: buxur
   Availability: Available
@@ -2354,7 +2361,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 5,070.00 ISK
 - [cherina pallíttu kjóll](https://daria.is/products/cherina-pallittu-kjoll): 100% Polyester
-  Updated: 2026-04-20T21:47:34Z
+  Updated: 2026-05-04T19:56:40Z
   Vendor: CULTURE
   Product Type: KJÓLL
   Availability: Available
@@ -2375,7 +2382,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 7,770.00 ISK
 - [Miami Spegill 40 X 50 CM (2 litir) - Förðunarspegill með Led ljósum](https://daria.is/products/miami-spegill-40-x-50-cm-2-litir): Fáðu faglega lýsingu heima hjá þér með Miami förðunarspeglinum – fullkominn spegill fyrir daglega snyrtingu og förðun Við eigum Miami spegilinn til í 2 litum, hvítann og silfur Eiginleikar: Stærð: 40 x 50 cm Bæði hægt að láta standa á snyrtiborði og hengja uppá vegg 12 LED perur: Gefa bjarta og jafna lýsingu – Veldu milli 3 birtustillinga – Cool White, Warm White og Natural White – til að fá nákvæma förðunarlýsingu fyrir allar aðstæður Snertistýring: Auðveld stilling á birtu og birtustigi með einum snertihnappi Símahaldari: Haltu símanum innan seilingar – horfðu á kennslumyndbönd, hlustaðu á tónlist eða fylgstu með samfélagsmiðlum á meðan þú undirbýrð þig USB-A og USB-C tengi: Hleðslutengimöguleikar fyrir flest snjalltæki Stílhrein hönnun: Hentar jafnt í svefnherbergi sem og á snyrtiborðið – hægt að hafa frístandandi eða festa á vegg Álrammi: Spegillinn er byggður utan um álramma sem er bæði léttur og endingargóður. Speglinum fylgir snúra sem stungið er í samband í innstungu Í verslun okkar Firði Hafnarfirði erum við með alla spegla og vörur til sýnis, einnig sendum við hvert á land sem er.
-  Updated: 2026-04-25T13:21:16Z
+  Updated: 2026-05-02T14:19:24Z
   Vendor: Vanity beauty accessories
   Product Type: spegill
   Availability: Available
@@ -2411,11 +2418,18 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 6,570.00 ISK
 - [Stick & Stay Peel-off Lip Stain (Caramel)](https://daria.is/products/stick-stay-peel-off-lip-stain-caramel): Peel-off Lip Stain, Semi-Permanet Lip Look! ✨ Endist í allt að 12klst á vörunum 💧 Vatnsþolið og smitfrítt 🌬️ Ofurlétt á vörunum 👄 Varanlegt útlit í takmarkaðan tíma Notkun: 1) Berðu lip-stain á varirnar þínar eða einungis á varalínuna 2) Leyfðu því að þorna í 2-3 mínútur 3) Taktu varlega af og sjáðu litinn sem helst út daginn! 4) Fullkomnaðu varirnar með Lashvana Lip-Oil Fjarlæging: Við mælum með því að nota farðahreinsi eins og t.d. Michellar Cleansing Water (Bleika)
-  Updated: 2026-04-25T15:58:46Z
+  Updated: 2026-04-30T12:47:30Z
   Vendor: lashvana
   Product Type: varablýantur
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/caramel_d96eb2ae-b9db-4839-92f6-bbaabc8587bd.webp?v=1751721357
+  Price: kr 3,990.00 ISK
+- [Stick & Stay Peel-off Lip Stain (Peach)](https://daria.is/products/stick-stay-peel-off-lip-stain-peach): Peel-off Lip Stain, Semi-Permanet Lip Look! ✨ Endist í allt að 12klst á vörunum 💧 Vatnsþolið og smitfrítt 🌬️ Ofurlétt á vörunum 👄 Varanlegt útlit í takmarkaðan tíma Notkun: 1) Berðu lip-stain á varirnar þínar eða einungis á varalínuna 2) Leyfðu því að þorna í 2-3 mínútur 3) Taktu varlega af og sjáðu litinn sem helst út daginn! 4) Fullkomnaðu varirnar með Lashvana Lip-Oil Fjarlæging: Við mælum með því að nota farðahreinsi eins og t.d. Michellar Cleansing Water (Bleika)
+  Updated: 2026-05-04T11:45:27Z
+  Vendor: lashvana
+  Product Type: varablýantur
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/peach.webp?v=1751721634
   Price: kr 3,990.00 ISK
 - [lip oil strawberry](https://daria.is/products/lip-oil-strawberry): Dekraðu við varirnar með silkimjúkri og nærandi formúlu sem er hönnuð til að veita hámarks raka og náttúrulegan gljáa 👄 Vara olíurnar innihalda m.a. arganolíu, hýalúrónsýru og E-Vítamín sem vinna að því að mýkja, vernda og endurnýja varirnar. Með reglulegri notkun verða varirnar mýkri, fyllri og heilbrigðari að sjá. Hentar öllum húðgerðum og er frábær viðbót í daglega snyrtirútínu!
   Updated: 2026-04-20T21:47:36Z
@@ -2425,28 +2439,21 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/1f_47defbe5-0429-4d3b-9809-97dfb41aea75.webp?v=1751721783
   Price: kr 2,990.00 ISK
 - [lip oil creme brulee](https://daria.is/products/lip-oil-creme-brulee): Dekraðu við varirnar með silkimjúkri og nærandi formúlu sem er hönnuð til að veita hámarks raka og náttúrulegan gljáa 👄 Vara olíurnar innihalda m.a. arganolíu, hýalúrónsýru og E-Vítamín sem vinna að því að mýkja, vernda og endurnýja varirnar. Með reglulegri notkun verða varirnar mýkri, fyllri og heilbrigðari að sjá. Hentar öllum húðgerðum og er frábær viðbót í daglega snyrtirútínu!
-  Updated: 2026-04-20T21:47:36Z
+  Updated: 2026-05-04T19:58:46Z
   Vendor: lashvana
   Product Type: Varalitur
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/5f_74ac0768-cab2-4415-b00a-3eb00e87665d.webp?v=1751721900
   Price: kr 2,990.00 ISK
 - [Fade Away - Press On Neglur](https://daria.is/products/fade-away-press-on-neglur): Undirlag: Byrjaðu á því að klippa þínar náttúrulegu neglur í þægilega lengd svo þær passi vel undir gervineglurnar. Pússa neglurnar: Pússaðu neglurnar þínar vel og vandlega með litlu naglaþjölinni sem fylgir pakkanum, ef að þú vilt að neglurnar endist, ekki sleppa þessu skrefi! Naglaband: Notaðu naglabandaprikið og ýttu naglaböndunum niður, eins og þörf er á. Finna réttar stærðir: Finndu þínar stærðir, mátaðu gervineglurnar á þínar og athugaðu hvaða stærðir henta þér best. Athugaðu að undir nöglunum getur þú séð stærðina á hverri nögl sem auðveldar þér að finna sömu stærðir fyrir hina hendina. Sótthreinsa: Þegar að þú ert búin að pússa neglurnar, ýta naglaböndunum niður og finna rétta naglastærð sem hentar þér skaltu sótthreinsa hverja nögl vel með sótthreinsiklútnum sem fylgir í pakkanum. Setja neglurnar á: Það eru tvær leiðir til þess að setja neglurnar á, ef að þú vilt fá stutta endingu (1-3 dagar) getur þú notað límmiðana sem fylgja í pakkanum. Ef að þú vilt fá lengri endingu (5-10+ dagar) getur þú notað fljótandi lím sem fylgir með. Límmiðar: Byrjaðu á því að finna rétta stærð af límmiðum sem hentar þínum nöglum, settu límmiða á nöglina þína, fjarlægðu bakhliðina af límmiðunum og þrýstu nöglunum vel á. Ef að þú notar límmiðana getur þú fjarlægt neglurnar af og endurnýtt þær aftur. Fljótandi lím: Settu lím á þína náttúrulegu nögl og berðu aðeins innan í gervinöglina. Staðsettu gervinöglina upp við naglabandið þitt (Alls ekki ofan á naglabandið sjálft). Þegar að þú ert sátt með staðsetninguna á nöglinni þrýstu henni þá niður og haltu vel í 60-90 sek, mjög mikilvægt skref svo að ekkert loft myndist inn á milli. Hvað er innifalið í pakkanum? 30Stk Neglur Fljótandi lím Límmiðapúðar 2Stk Sótthreinsiklútar Naglabandaprik Naglaþjöl Leiðbeiningar
-  Updated: 2026-04-20T21:47:36Z
+  Updated: 2026-05-04T19:56:59Z
   Vendor: lashvana
   Product Type: neglur
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/IMG-3406.jpg?v=1751722166
   Price: kr 4,200.00 ISK
-- [Everyday French - Press On Neglur](https://daria.is/products/everyday-french-press-on-neglur): Leiðbeiningar fyrir press on neglur 💅🏻 Undirlag: Byrjaðu á því að klippa þínar náttúrulegu neglur í þægilega lengd svo þær passi vel undir gervineglurnar. Pússa neglurnar: Pússaðu neglurnar þínar vel og vandlega með litlu naglaþjölinni sem fylgir pakkanum, ef að þú vilt að neglurnar endist, ekki sleppa þessu skrefi! Naglaband: Notaðu naglabandaprikið og ýttu naglaböndunum niður, eins og þörf er á. Finna réttar stærðir: Finndu þínar stærðir, mátaðu gervineglurnar á þínar og athugaðu hvaða stærðir henta þér best. Athugaðu að undir nöglunum getur þú séð stærðina á hverri nögl sem auðveldar þér að finna sömu stærðir fyrir hina hendina. Sótthreinsa: Þegar að þú ert búin að pússa neglurnar, ýta naglaböndunum niður og finna rétta naglastærð sem hentar þér skaltu sótthreinsa hverja nögl vel með sótthreinsiklútnum sem fylgir í pakkanum. Setja neglurnar á: Það eru tvær leiðir til þess að setja neglurnar á, ef að þú vilt fá stutta endingu (1-3 dagar) getur þú notað límmiðana sem fylgja í pakkanum. Ef að þú vilt fá lengri endingu (5-10+ dagar) getur þú notað fljótandi lím sem fylgir með. Límmiðar: Byrjaðu á því að finna rétta stærð af límmiðum sem hentar þínum nöglum, settu límmiða á nöglina þína, fjarlægðu bakhliðina af límmiðunum og þrýstu nöglunum vel á. Ef að þú notar límmiðana getur þú fjarlægt neglurnar af og endurnýtt þær aftur. Fljótandi lím: Settu lím á þína náttúrulegu nögl og berðu aðeins innan í gervinöglina. Staðsettu gervinöglina upp við naglabandið þitt (Alls ekki ofan á naglabandið sjálft). Þegar að þú ert sátt með staðsetninguna á nöglinni þrýstu henni þá niður og haltu vel í 60-90 sek, mjög mikilvægt skref svo að ekkert loft myndist inn á milli. Hvað er innifalið í pakkanum? 30Stk Neglur Fljótandi lím Límmiðapúðar 2Stk Sótthreinsiklútar Naglabandaprik Naglaþjöl Leiðbeiningar
-  Updated: 2026-04-22T11:24:11Z
-  Vendor: lashvana
-  Product Type: neglur
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/3.webp?v=1751722376
-  Price: kr 4,200.00 ISK
 - [ANNA TOPPUR HVÍTUR](https://daria.is/products/anna-toppur-hvitur): 61% Viscose, 39% Polyester
-  Updated: 2026-04-20T21:47:37Z
+  Updated: 2026-05-04T19:55:42Z
   Vendor: cream
   Product Type: bolir
   Availability: Available
@@ -2473,7 +2480,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 2,070.00 ISK
 - [gina samfella brún](https://daria.is/products/gina-samfella-brun): brown
-  Updated: 2026-04-21T14:46:08Z
+  Updated: 2026-05-04T19:57:17Z
   Vendor: Daría
   Product Type: samfella
   Availability: Available
@@ -2491,7 +2498,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 2,070.00 ISK
 - [LARA BOLUR BRÚNN](https://daria.is/products/lara-bolur-brunn): : 95% Polyamide & 5% Elastane
-  Updated: 2026-04-20T21:47:39Z
+  Updated: 2026-05-04T19:58:19Z
   Vendor: Daría
   Product Type: bolir
   Availability: Available
@@ -2506,7 +2513,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 2,070.00 ISK
 - [HENNA GALLABUXUR](https://daria.is/products/henna-gallabuxur): 100% Cotton
-  Updated: 2026-04-20T21:47:40Z
+  Updated: 2026-05-04T19:57:29Z
   Vendor: Daría
   Product Type: buxur
   Availability: Available
@@ -2524,7 +2531,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 3,270.00 ISK
 - [HENNA GALLABUXUR SVARTAR](https://daria.is/products/henna-gallabuxur-svartar): 100% Cotton
-  Updated: 2026-04-20T21:47:41Z
+  Updated: 2026-05-04T19:57:30Z
   Vendor: Daría
   Product Type: buxur
   Availability: Available
@@ -2542,7 +2549,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 3,270.00 ISK
 - [kate jacquard blazer](https://daria.is/products/kate-jacquard-blazer): 73% Polyester, 25% Viscose, 2% Elastane
-  Updated: 2026-04-20T21:47:41Z
+  Updated: 2026-05-04T19:58:09Z
   Vendor: ICHI
   Product Type: blazer
   Availability: Available
@@ -2570,7 +2577,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/20124405_1511141_100.jpg?v=1756986111
   Price: kr 1,770.00 ISK
 - [GALLABUXNA LEGGINGS GRÁAR](https://daria.is/products/gallabuxna-leggings-graar): 83% Cotton, 15% Polyester & 2% Elastane
-  Updated: 2026-04-25T20:22:57Z
+  Updated: 2026-05-04T19:57:16Z
   Vendor: Daría
   Product Type: buxur
   Availability: Available
@@ -2594,7 +2601,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 3,270.00 ISK
 - [ARINA LEGGINGS](https://daria.is/products/aeina-leggings): 93% Polyamide, 7% Elastane
-  Updated: 2026-04-20T21:47:43Z
+  Updated: 2026-05-04T19:55:52Z
   Vendor: kaffe
   Product Type: leggings
   Availability: Available
@@ -2614,29 +2621,8 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   - [XXL](https://daria.is/products/aeina-leggings?variant=47312335405273)
     Availability: Not Available
     Price: kr 2,370.00 ISK
-- [ARINA TOPPUR SVARTUR](https://daria.is/products/arina-toppur-svartur): 93% Polyamide, 7% Elastane
-  Updated: 2026-04-20T21:47:44Z
-  Vendor: kaffe
-  Product Type: Toppur
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/10510692_100121_350.jpg?v=1758112640
-  - [S](https://daria.is/products/arina-toppur-svartur?variant=47312367911129)
-    Availability: Available
-    Price: kr 6,900.00 ISK
-  - [M](https://daria.is/products/arina-toppur-svartur?variant=47312367943897)
-    Availability: Not Available
-    Price: kr 6,900.00 ISK
-  - [L](https://daria.is/products/arina-toppur-svartur?variant=47312367976665)
-    Availability: Not Available
-    Price: kr 6,900.00 ISK
-  - [XL](https://daria.is/products/arina-toppur-svartur?variant=47312368009433)
-    Availability: Available
-    Price: kr 6,900.00 ISK
-  - [XXL](https://daria.is/products/arina-toppur-svartur?variant=47312368042201)
-    Availability: Not Available
-    Price: kr 6,900.00 ISK
 - [ARINA TOPPUR HVÍTUR](https://daria.is/products/arina-toppur-hvitur): 93% Polyamide, 7% Elastane
-  Updated: 2026-04-20T21:47:44Z
+  Updated: 2026-05-05T11:56:06Z
   Vendor: kaffe
   Product Type: Toppur
   Availability: Available
@@ -2707,8 +2693,29 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   - [34](https://daria.is/products/stipa-kapa?variant=47312402481369)
     Availability: Available
     Price: kr 5,370.00 ISK
+- [Dubai Spegill 91 X 61 cm (Hvítur)](https://daria.is/products/dubai-spegill-91-x-61-cm-hvitur): Dubai spegillinn er nú fáanlegur í nýrri og enn glæsilegri útgáfu með mjúklega ávölum hornum. Nýja hönnunin gefur speglinum mýkra og fágaðra útlit sem fellur einstaklega vel inn í nútímaleg svefnherbergi, fataherbergi og snyrtiaðstöðu. Fullkomnaðu snyrtiaðstöðuna með þessum æðislega spegli. Með björtu, jöfnu ljósi og þremur litahitastillingum færðu nákvæmari förðun, snyrtilegri vinnuaðstöðu og fallegra rými. Stærð: 91cm á breidd og 61cm á hæð LED perurnar gefa frá sér mjög góða birtu sem auðveldar förðunina og tryggir að allar litir birtist rétt. Þær eru einnig orkusparandi og endast lengi. Veldu milli 3 birtustillinga - Cool White, Warm White og Natural White - til að fá nákvæma förðunarlýsingu fyrir allar aðstæður Dimmanleg Led ljós Lítill stækkunarspegill með X10 stækkun fylgir með Hægt er að taka lappirnar af og hengja spegilinn uppá vegg Álrammi: Spegillinn er byggður utan um álramma sem er bæði léttur og endingargóður. Speglinum fylgir snúra sem stungið er í samband í innstungu Í verslun okkar Firði Hafnarfirði erum við með alla spegla og vörur til sýnis, einnig sendum við hvert á land sem er.
+  Updated: 2026-05-04T19:56:56Z
+  Vendor: Vanity beauty accessories
+  Product Type: spegill
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/Hollywood_spegill-Dubai-stor_fordunarspegill_med_ljosum.jpg?v=1777203415
+  Price: kr 41,900.00 ISK
+- [Tokyo Spegill 101 X 61 cm (Hvítur)](https://daria.is/products/tokyo-spegill-101-x-61-cm-hvitur): Fullkomnaðu snyrtiaðstöðuna með þessum æðislega spegli. Með björtu, jöfnu ljósi og þremur litahitastillingum færðu nákvæmari förðun, snyrtilegri vinnuaðstöðu og fallegra rými. Stærð: 101 cm á breidd og 61cm á hæð LED lýsingin gefur frá sér mjög góða birtu sem auðveldar förðunina og tryggir að allar litir birtist rétt. Lýsingin er einnig orkusparandi og endist lengi. Veldu milli 3 birtustillinga - Cool White, Warm White og Natural White - til að fá nákvæma förðunarlýsingu fyrir allar aðstæður Dimmanleg Led ljós Lítill stækkunarspegill með X10 stækkun fylgir með Hægt er að taka lappirnar af og hengja spegilinn uppá vegg Álrammi: Spegillinn er byggður utan um álramma sem er bæði léttur og endingargóður. Speglinum fylgir snúra sem stungið er í samband í innstungu Í verslun okkar Firði Hafnarfirði erum við með alla spegla og vörur til sýnis, einnig sendum við hvert á land sem er.
+  Updated: 2026-04-30T16:31:11Z
+  Vendor: Vanity beauty accessories
+  Product Type: spegill
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/hviturfordunarspegillmedljosum_storspegillmedljosum_makeupspegillnr1_68cc18cd-6ac4-4d63-903c-473eda6ca2ae.png?v=1758296784
+  Price: kr 43,900.00 ISK
+- [L.A. Spegill 56.5 X 70 CM (Hvítur)](https://daria.is/products/l-a-spegill-56-5-x-70-cm-hvitur): Fullkomnaðu snyrtiaðstöðuna með þessum æðislega spegli. Með björtu, jöfnu ljósi og þremur litahitastillingum færðu nákvæmari förðun, snyrtilegri vinnuaðstöðu og fallegra rými. Stærð: 70cm á hæð og 56.5cm á breidd LED lýsingin gefur frá sér mjög góða birtu sem auðveldar förðunina og tryggir að allar litir birtist rétt. Lýsingin er einnig orkusparandi og endist lengi. Veldu milli 3 birtustillinga - Cool White, Warm White og Natural White - til að fá nákvæma förðunarlýsingu fyrir allar aðstæður Dimmanleg Led ljós Lítill stækkunarspegill með X10 stækkun fylgir með Hægt er að taka lappirnar af og hengja spegilinn uppá vegg Álrammi: Spegillinn er byggður utan um álramma sem er bæði léttur og endingargóður. Speglinum fylgir snúra sem stungið er í samband í innstungu Í verslun okkar Firði Hafnarfirði erum við með alla spegla og vörur til sýnis, einnig sendum við hvert á land sem er.
+  Updated: 2026-05-04T21:53:16Z
+  Vendor: Vanity beauty accessories
+  Product Type: spegill
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1319/3093/files/hviturfordunarspegillmedljosum_storspegillmedljosum_makeupspegill_vanitybeautyaccessories.png?v=1758301832
+  Price: kr 36,900.00 ISK
 - [detona kjóll](https://daria.is/products/detona-kjoll): 100% Polyester
-  Updated: 2026-04-20T21:47:46Z
+  Updated: 2026-05-04T19:56:52Z
   Vendor: b.young
   Product Type: KJÓLL
   Availability: Available
@@ -2729,7 +2736,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 3,270.00 ISK
 - [foxy d curl](https://daria.is/products/foxy-d-curl): DIY cluster augnhárin koma í fjórum mismunandi lengdum ( 10mm, 12mm, 14mm & 16mm ). 40 stk í pakka. Vegan & Cruelty free Vatns & Svitaheld Endurnýtanleg augnhár Endast í allt að 5-10 daga Ofurþunnt band Hönnuð með þægindi í huga
-  Updated: 2026-04-20T21:47:47Z
+  Updated: 2026-05-05T08:39:28Z
   Vendor: lashvana
   Product Type: augnhár
   Availability: Available
@@ -2754,7 +2761,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 2,370.00 ISK
 - [kyjla gallabuxur](https://daria.is/products/kyjla-gallabuxur): 99% Cotton, 1% Elastane
-  Updated: 2026-04-20T21:47:48Z
+  Updated: 2026-05-04T19:58:15Z
   Vendor: b.young
   Product Type: buxur
   Availability: Available
@@ -2784,13 +2791,13 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 11,900.00 ISK
 - [Skógur Ilmkerti](https://daria.is/products/skogur-ilmkerti): Skógur felur í sér hrífandi ilm norræns skógar. Fullkomið fyrir veturinn, þetta kerti er tilvalið fyrir þá í leit að nostalgískum ilm af greni. Faðmaðu huggulegheitin og leyfðu skógi að skapa kósíheit á heimilinu þínu. Handgert frá grunni Lúxus kókosvaxblanda Allt að 50 klst brennslutími Ilmfjölskylda: Viður & Grænt Ilmtónar: Greni, furunálar, einiber og sítrus.
-  Updated: 2026-04-27T13:04:27Z
+  Updated: 2026-05-05T15:18:59Z
   Vendor: Ilmur
   Product Type: ilmkerti
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/skogurilmkerti_kokosvax_jolailmkerti.greniilmkerti.png?v=1761384062
   - [1 Þráða 220 gr](https://daria.is/products/skogur-ilmkerti?variant=47421908156633)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1319/3093/files/skogurilmkerti_kokosvax_jolailmkerti.greniilmkerti.png?v=1761384062
     Price: kr 6,900.00 ISK
   - [3 Þráða 525 gr](https://daria.is/products/skogur-ilmkerti?variant=47421908189401)
@@ -2812,7 +2819,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Image: https://cdn.shopify.com/s/files/1/1319/3093/files/saffran_ilmkerti_islensk_framleidsla_88aa3ee8-ffc8-4c36-bbdc-eed179744265.png?v=1761385921
     Price: kr 11,900.00 ISK
 - [arina toppur](https://daria.is/products/arina-toppur): 93% Polyamide, 7% Elastane
-  Updated: 2026-04-20T21:47:49Z
+  Updated: 2026-05-04T19:55:53Z
   Vendor: kaffe
   Product Type: bolur
   Availability: Available
@@ -2833,7 +2840,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 5,900.00 ISK
 - [ARINA TOPPUR HVÍTUR](https://daria.is/products/arina-toppur-hvitur-1): 93% Polyamide, 7% Elastane
-  Updated: 2026-04-20T21:47:49Z
+  Updated: 2026-05-04T19:55:55Z
   Vendor: kaffe
   Product Type: Toppur
   Availability: Available
@@ -2902,7 +2909,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 4,470.00 ISK
 - [antoinett kjóll svartur](https://daria.is/products/antoinett-kjoll-svartur): 65% Cotton, 33% Polyester, 2% Elastane
-  Updated: 2026-04-20T21:47:50Z
+  Updated: 2026-05-04T19:55:50Z
   Vendor: CULTURE
   Product Type: KJÓLL
   Availability: Available
@@ -2950,7 +2957,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 3,270.00 ISK
 - [anett buxur](https://daria.is/products/anett-buxur): 80% Polyester, 17% Viscose, 3% Elastane
-  Updated: 2026-04-20T21:47:51Z
+  Updated: 2026-05-04T19:55:40Z
   Vendor: cream
   Product Type: buxur
   Availability: Available
@@ -2971,7 +2978,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 4,470.00 ISK
 - [KANNA BLAZER](https://daria.is/products/kanna-blazer): 100% Polyester
-  Updated: 2026-04-20T21:47:51Z
+  Updated: 2026-05-04T19:58:07Z
   Vendor: cream
   Product Type: blazer
   Availability: Available
@@ -3013,7 +3020,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 4,770.00 ISK
 - [ANTONIA SS CRYSTAL (SS CRYSTAL)](https://daria.is/products/antonia-ss-crystal-ss-crystal): ANTONIA – Tímalaus og fáguð hengiskart er hannað til að laða að athygli. Tvö fínlega slípuð kristöl í andstæðum litum og mjúkum, ávölum formum mynda glæsilegt samspil ljóss og litar. Hvor steinn er vandlega festur með handunninni klómfestingu í fáguðu messingumgjörðinni. Pinninn er úr skurðstáli sem tryggir þægindi og endingargæði. Heildarlengd eyrnalokksins er um það bil 28 mm. Hér sýnt með hvítum kristölum og silfurlitaðri áferð. Eyrnalokkar sem vekja athygli – fullkomin blanda af fágun og nútímalegri glæsileika.
-  Updated: 2026-04-20T21:47:52Z
+  Updated: 2026-05-04T19:55:51Z
   Vendor: Dyrberg/Kern
   Product Type: eyrnalokkar
   Availability: Available
@@ -3027,77 +3034,77 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/470033_TENERESSCRYSTAL_SSCRYSTAL.webp?v=1763046187
   Price: kr 15,900.00 ISK
 - [ESMARA SG EMERALD GREEN / CRYSTAL (SG GREEN)](https://daria.is/products/esmara-sg-emerald-green-crystal-sg-green): ESMARA – Áhrifamiklir og stílhreinir eyrnalokkar innblásnir af Art Deco-tíðarandanum. Þrír glitrandi kristallar með smaragðsskurði raðast saman í nútímalegt og fágað mynstur sem fangar birtuna fallega. Lokarnir eru með pinnalás úr skurðstáli sem tryggir þægindi og endingargæði. Heildarlengd um 35 mm. Hér sýndir í glansandi gulláferð með gullnum og smaragðsgrænum kristöllum. Hannað í Danmörku – án kadmíums, blýs og nikkels.
-  Updated: 2026-04-20T21:47:52Z
+  Updated: 2026-05-04T19:56:57Z
   Vendor: Dyrberg/Kern
   Product Type: eyrnalokkar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/470150_ESMARASGEMERALDGREEN-CRYSTAL_SGGREEN.webp?v=1763046600
   Price: kr 14,900.00 ISK
 - [FIORA SG EMERALD GREEN /GOLDEN](https://daria.is/products/fiora-sg-emerald-green-golden): FIORA – Nútímalegir og rómantískir eyrnalokkar með frönskum króklás. Stór dropalaga kristall myndar miðpunkt hönnunarinnar og er fallega umlukinn minni kristöllum í andstæðum litum sem skapa glitrandi dýpt og mýkt. Lokarnir eru úr fáguðu messingi með gulláferð (IP-húðun), og krókurinn er úr skurðstáli sem tryggir þægindi og endingu. Heildarlengd um 28 mm. Hér sýndir í draumkenndri blöndu af smaragðsgrænum og ljósum gullkristöllum í gulláferð. Hannað í Danmörku – án kadmíums, blýs og nikkels.
-  Updated: 2026-04-20T21:47:53Z
+  Updated: 2026-05-04T19:57:03Z
   Vendor: Dyrberg/Kern
   Product Type: eyrnalokkar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/524965_1.webp?v=1763047451
   Price: kr 12,900.00 ISK
 - [GOLARI SG ROSE](https://daria.is/products/golari-sg-rose): GOLARI – Stórfenglegir hengilokkar sem fanga birtuna með hverju hreyfingu. Stór slípaður dropalaga kristall hangir í festingu undir minni kristal með smaragðsskurði, sem saman mynda áhrifaríkt og fágað útlit. Báðir kristallar eru klómfestir fyrir hámarks glans og gæði. Lokarnir eru með pinnalás og heildarlengd þeirra er um 5 cm. Hér sýndir í gulláferð með blöndu af ferskjulitum og ljósbleikum kristöllum. Glæsileg hönnun frá Danmörku – án kadmíums, blýs og nikkels.
-  Updated: 2026-04-20T21:47:53Z
+  Updated: 2026-05-04T19:57:19Z
   Vendor: Dyrberg/Kern
   Product Type: eyrnalokkar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/526185_1.webp?v=1763047700
   Price: kr 17,900.00 ISK
 - [BALETE SG GREEN_WHITE PEARL](https://daria.is/products/balete-sg-green_white-pearl): BALETE – Kvenlegir og glæsilegir eyrnalokkar sem henta fullkomlega fyrir viðburði og hátíðleg tilefni. Efri hlutinn er lauflaga og þakinn maríuhnoðraformuðum (navette) kristöllum í mismunandi litbrigðum sem skapa fallega dýpt og glans. Neðan við laufið hangir 10 mm hvít eftirlíking af perlu sem fullkomnar útlitið með klassískum blæ. Hér sýndir í gulláferð með blöndu af smaragðsgrænum kristöllum. Hannað í Danmörku – án kadmíums, nikkels og blýs.
-  Updated: 2026-04-20T21:47:53Z
+  Updated: 2026-05-04T19:56:01Z
   Vendor: Dyrberg/Kern
   Product Type: eyrnalokkar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/527330_1.webp?v=1763047880
   Price: kr 12,900.00 ISK
 - [BALETE SG GOLDEN](https://daria.is/products/balete-sg-golden): BALETE – Kvenlegir, glæsilegir og fágaðir eyrnalokkar sem henta fullkomlega fyrir viðburði og hátíðleg tilefni. Efri hlutinn er lauflaga og skreyttur glitrandi maríuhnoðraformuðum (navette) kristöllum í mismunandi gulltónum sem skapa djúpt og glansandi útlit. Neðan við laufið hangir 10 mm gullperlulaga skraut sem bætir við hlýjum og lúxuskenndum blæ. Hér sýndir í gulláferð með blöndu af gullnum kristöllum. Hannað í Danmörku – án kadmíums, nikkels og blýs.
-  Updated: 2026-04-20T21:47:54Z
+  Updated: 2026-05-04T19:55:59Z
   Vendor: Dyrberg/Kern
   Product Type: eyrnalokkar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/527369_1.webp?v=1763048054
   Price: kr 12,900.00 ISK
 - [BALETE SS CRYSTAL_WHITE PEARL](https://daria.is/products/balete-ss-crystal_white-pearl): BALETE – Kvenlegir, glæsilegir eyrnalokkar sem henta fullkomlega fyrir viðburði og hátíðleg tilefni. Efri hlutinn er lauflaga og þakinn maríuhnoðraformuðum (navette) hvítum kristöllum, og neðan við hangir 10 mm hvít eftirlíkingarperla á silfurlituðu yfirborði sem gefur klassískan og glæsilegan blæ. Heildarlengd eyrnalokksins er um 40 mm. Hönnuð í fáguðu messingi og handgerð til fullkomnunar smáatriða. Hannað í Danmörku – án nikkels.
-  Updated: 2026-04-20T21:47:54Z
+  Updated: 2026-05-04T19:56:02Z
   Vendor: Dyrberg/Kern
   Product Type: eyrnalokkar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/527370_1.webp?v=1763048253
   Price: kr 12,900.00 ISK
 - [BALETE SG BLACK_WHITE PEARL](https://daria.is/products/balete-sg-black_white-pearl): BALETE – Kvenlegir, glæsilegir eyrnalokkar sem henta fullkomlega fyrir viðburði og hátíðleg tilefni. Efri hlutinn er lauflaga og þakinn maríuhnoðraformuðum (navette) kristöllum í mismunandi litbrigðum, og neðan við hangir 10 mm hvít eftirlíkingarperla sem bætir við klassískum blæ. Eyrnalokkarnir eru úr fáguðu messingi með pinnalás úr skurðstáli fyrir þægindi og endingu. Heildarlengd þeirra er um 40 mm. Hér sýndir í gulláferð með blöndu af svörtum og gráum kristöllum. Hannað í Danmörku – án kadmíums, nikkels og blýs.
-  Updated: 2026-04-20T21:47:54Z
+  Updated: 2026-05-04T19:55:58Z
   Vendor: Dyrberg/Kern
   Product Type: eyrnalokkar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/527297_1.webp?v=1763048408
   Price: kr 12,900.00 ISK
 - [GRETIA SS CRYSTAL](https://daria.is/products/gretia-ss-crystal): GRETIA – Ný útgáfa af stóru hringlaga eyrnalokkum með kristöllum. Þessi útgáfa er ríkulega skreytt með stórum hvítum kristöllum á fremri hluta fyrir glæsilegt og áberandi útlit. Eyrnalokkarnir eru úr fáguðu messingi með silfurlituðu yfirborði. Þvermál er um 30 mm og pinninn úr skurðstáli. Dönsk hönnun – án kadmíums, blýs og nikkels. Einfaldlega stórkostlegir.
-  Updated: 2026-04-20T21:47:54Z
+  Updated: 2026-05-04T19:57:20Z
   Vendor: Dyrberg/Kern
   Product Type: eyrnalokkar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/523638_1.webp?v=1763049113
   Price: kr 13,900.00 ISK
 - [FIORA SS GREY/CRYSTAL](https://daria.is/products/fiora-ss-grey-crystal): FIORA – Nútímalegir, rómantískir eyrnalokkar með frönskum króklás. Stór dropalaga kristall myndar miðpunkt hönnunarinnar og er fallega umlukinn minni kristöllum í andstæðum litum sem skapa glitrandi og áhrifaríkt útlit. Lokarnir eru úr fáguðu messingi með IP-húðun í gulláferð, og krókurinn er úr skurðstáli fyrir þægindi og endingu. Heildarlengd um 28 mm. Hér sýndir í fallegri blöndu af ljósgráum kristöllum og glærum kristöllum á silfurlituðu yfirborði. Dönsk hönnun – án kadmíums, blýs og nikkels.
-  Updated: 2026-04-20T21:47:55Z
+  Updated: 2026-05-04T19:57:05Z
   Vendor: Dyrberg/Kern
   Product Type: eyrnalokkar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/524962_1.webp?v=1763049542
   Price: kr 12,900.00 ISK
 - [FIORA SG LIGHT ROSE](https://daria.is/products/fiora-sg-light-rose): FIORA – Nútímalegir, rómantískir eyrnalokkar með frönskum króklás. Stór dropalaga kristall myndar miðpunkt hönnunarinnar og er fallega umlukinn minni kristöllum í andstæðum litum sem skapa glitrandi og áhrifaríkt útlit. Eyrnalokkarnir eru úr fáguðu messingi með IP-húðun í gulláferð, og krókurinn er úr skurðstáli fyrir þægindi og endingu. Heildarlengd um 28 mm. Hér sýndir í rómantískri bleikri tónum á gulláferð. Dönsk hönnun – án kadmíums, blýs og nikkels.
-  Updated: 2026-04-20T21:47:55Z
+  Updated: 2026-05-04T19:57:04Z
   Vendor: Dyrberg/Kern
   Product Type: eyrnalokkar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/523608_1.webp?v=1763049724
   Price: kr 12,900.00 ISK
 - [Christmas Edition'25 (D curl)](https://daria.is/products/christmas-edition25-d-curl): Jólaboxið okkar í ár er loksins komið – verkefni sem við erum ótrúlega stolt af. Það er hannað af okkur frá grunni, með áherslu á smáatriði, gæði og hátíðlegri lúxus stemningu. Í boxinu færðu allt sem þú þarft til að skapa fullkomið jóla útlit - allt í einu boxi! Limited Edition Augnhár Bond&Seal DUO Remover Non Sticky Augnháratöng Chestnut Lip-Stain (Brúnn) Vanilla Lip-Butter Jólaboxið í ár kemur í mjög takmörkuðu upplagi og þegar það klárast kemur það ekki aftur! Fullkomin hátíðargjöf eða lúxus dekur handa þér sjálfri. 🤎
-  Updated: 2026-04-20T21:47:56Z
+  Updated: 2026-05-04T19:56:41Z
   Vendor: lashvana
   Product Type: Augabrúnir
   Availability: Available
@@ -3111,28 +3118,28 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/IMG_8910_1.webp?v=1763124737
   Price: kr 3,990.00 ISK
 - [Freckle & Lip pen Cocoa Ember](https://daria.is/products/freckle-lip-pen-cocoa-ember): Lashvana Freckle & Lip pen, 2-1 solution! Einn penni - ýmsir möguleikar! hvort sem þú vilt fá náttúrulegt eða ýkt útlit, þá er Lashvana freknu og vara penninn fullkomin lausn. ✔ Vatns & Svitaþolið ✔ Allt að 12klst ending ✔ Vegan & Cruelty free ✔ Aðlagar sig að náttúrulegum húðlit ✔ Náttúrulegar freknur, varir og eyeliner, allt í einni lausn Hvernig er best að fjarlægja litinn af? Við mælum með því að nota farðahreinsi til að ná litnum auðveldlega af.
-  Updated: 2026-04-20T21:47:57Z
+  Updated: 2026-05-04T19:57:12Z
   Vendor: lashvana
   Product Type: Andlit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/IMG_7957.webp?v=1763124877
   Price: kr 3,990.00 ISK
 - [Freckle & Lip pen  Blushed Rose](https://daria.is/products/freckle-lip-pen-blushed-rose): Lashvana Freckle & Lip pen, 2-1 solution! Einn penni - ýmsir möguleikar! hvort sem þú vilt fá náttúrulegt eða ýkt útlit, þá er Lashvana freknu og vara penninn fullkomin lausn. ✔ Vatns & Svitaþolið ✔ Allt að 12klst ending ✔ Vegan & Cruelty free ✔ Aðlagar sig að náttúrulegum húðlit ✔ Náttúrulegar freknur, varir og eyeliner, allt í einni lausn Hvernig er best að fjarlægja litinn af? Við mælum með því að nota farðahreinsi til að ná litnum auðveldlega af.
-  Updated: 2026-04-20T21:47:57Z
+  Updated: 2026-05-04T19:57:10Z
   Vendor: lashvana
   Product Type: Andlit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/IMG_7955.webp?v=1763125060
   Price: kr 3,990.00 ISK
 - [Freckle & Lip pen Honeydust](https://daria.is/products/freckle-lip-pen-honeydust): Lashvana Freckle & Lip pen, 2-1 solution! Einn penni - ýmsir möguleikar! hvort sem þú vilt fá náttúrulegt eða ýkt útlit, þá er Lashvana freknu og vara penninn fullkomin lausn. ✔ Vatns & Svitaþolið ✔ Allt að 12klst ending ✔ Vegan & Cruelty free ✔ Aðlagar sig að náttúrulegum húðlit ✔ Náttúrulegar freknur, varir og eyeliner, allt í einni lausn Hvernig er best að fjarlægja litinn af? Við mælum með því að nota farðahreinsi til að ná litnum auðveldlega af.
-  Updated: 2026-04-20T21:47:57Z
+  Updated: 2026-05-04T19:57:13Z
   Vendor: lashvana
   Product Type: Andlit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1319/3093/files/IMG_7959.webp?v=1763125235
   Price: kr 3,990.00 ISK
 - [Cashmere touch buxur](https://daria.is/products/cashmere-touch-buxur): 97% Cotton, 3% Elastane
-  Updated: 2026-04-20T21:47:57Z
+  Updated: 2026-05-04T19:56:36Z
   Vendor: Lindbergh
   Product Type: Buxur
   Availability: Available
@@ -3153,7 +3160,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 21,900.00 ISK
 - [Cashmere touch svartar](https://daria.is/products/cashmere-touch-svartar): 97% Cotton, 3% Elastane 5-pockets from Lindbergh's 1927 capsule in a classic and elegant design. Incredibly soft and comfortable due to the exclusive cotton fabric, which is made with Cashmere Touch . The trousers have two side pockets and two back pockets and features a logo patch on the back. Closes with a button and a hidden zipper.
-  Updated: 2026-04-20T21:47:58Z
+  Updated: 2026-05-04T19:56:39Z
   Vendor: Lindbergh
   Product Type: Buxur
   Availability: Available
@@ -3174,7 +3181,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 21,900.00 ISK
 - [Cashmere touch pants sand](https://daria.is/products/cashmere-touch-pants-sand): 5-pockets from Lindbergh's 1927 capsule in a classic and elegant design. Incredibly soft and comfortable due to the exclusive cotton fabric, which is made with Cashmere Touch . The trousers have two side pockets and two back pockets and features a logo patch on the back. Closes with a button and a hidden zipper. Quality: 97% Cotton, 3% Elastane
-  Updated: 2026-04-20T21:47:58Z
+  Updated: 2026-05-04T19:56:38Z
   Vendor: Lindbergh
   Product Type: buxur herrar
   Availability: Available
@@ -3300,7 +3307,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 11,900.00 ISK
 - [Junk deluxe polo bolur hvítur](https://daria.is/products/junk-deluxe-polo-bolur-hvitur): Simple polo shirt from JUNK de LUXE made of 100% breathable cotton. Plain-coloured and with a discreet, embroidered logo on the left side of the chest as well as ribbed edges on the sleeves and the collar. Button placket with two buttons and a small logo patch on the bottom left. The polo is made in relaxed fit, which is a bit more loose and provides some room for movement. Quality: 100% Cotton
-  Updated: 2026-04-20T21:48:00Z
+  Updated: 2026-05-04T19:58:03Z
   Vendor: Junk Deluxe
   Product Type: Bolir
   Availability: Available
@@ -3321,7 +3328,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 12,900.00 ISK
 - [Junk Deluxe polo bolur svartur](https://daria.is/products/junk-deluxe-polo-bolur-svartur): Simple polo shirt from JUNK de LUXE made of 100% breathable cotton. Plain-coloured and with a discreet, embroidered logo on the left side of the chest as well as ribbed edges on the sleeves and the collar. Button placket with two buttons and a small logo patch on the bottom left. The polo is made in relaxed fit, which is a bit more loose and provides some room for movement. Quality: 100% Cotton
-  Updated: 2026-04-20T21:48:00Z
+  Updated: 2026-05-04T19:58:07Z
   Vendor: Junk Deluxe
   Product Type: Bolir
   Availability: Available
@@ -3345,7 +3352,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Not Available
     Price: kr 12,900.00 ISK
 - [Junk Deluxe polo bolur army](https://daria.is/products/junk-deluxe-polo-bolur-army): Simple polo shirt from JUNK de LUXE made of 100% breathable cotton. Plain-coloured and with a discreet, embroidered logo on the left side of the chest as well as ribbed edges on the sleeves and the collar. Button placket with two buttons and a small logo patch on the bottom left. The polo is made in relaxed fit, which is a bit more loose and provides some room for movement. Quality: 100% Cotton
-  Updated: 2026-04-27T13:40:07Z
+  Updated: 2026-05-04T19:58:02Z
   Vendor: Junk Deluxe
   Product Type: Bolir
   Availability: Available
@@ -3369,7 +3376,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 12,900.00 ISK
 - [Junk Deluxe polo bolur sand](https://daria.is/products/junk-deluxe-polo-bolur-sand): Simple polo shirt from JUNK de LUXE made of 100% breathable cotton. Plain-coloured and with a discreet, embroidered logo on the left side of the chest as well as ribbed edges on the sleeves and the collar. Button placket with two buttons and a small logo patch on the bottom left. The polo is made in relaxed fit, which is a bit more loose and provides some room for movement. Quality: 100% Cotton
-  Updated: 2026-04-20T21:48:01Z
+  Updated: 2026-05-04T19:58:04Z
   Vendor: Junk Deluxe
   Product Type: Bolir
   Availability: Available
@@ -3411,7 +3418,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 23,900.00 ISK
 - [Kyle peysa](https://daria.is/products/kyle-peysa): Resteröds has been making practical, honest knitwear since 1935. The Kyle is a dark blue rib-knit men's cardigan with a V-neck and four matching buttons. Made from 80% wool and 20% polyamide, the wool provides warmth and breathability while the polyamide adds strength and shape retention. The rib pattern adds texture and freedom of movement, and ribbed trims at the cuffs and hem help maintain the fit. Soft without being heavy, it is a simple choice for both everyday wear and more formal occasions.
-  Updated: 2026-04-20T21:48:02Z
+  Updated: 2026-05-04T19:58:16Z
   Vendor: Resteröds
   Product Type: Peysur
   Availability: Available
@@ -3453,7 +3460,7 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
     Availability: Available
     Price: kr 14,900.00 ISK
 - [hvítur bolur crew neck](https://daria.is/products/hvitur-bolur-crew-neck): A great basic T-shirt and a necessity in every men's wardrobe. The T-shirt has a crew neck and is made in a cotton blend with stretch, which gives lots of comfort and plenty of freedom of movement. The T-shirt is plain-coloured and can be used both on its own as well as underneath a sweater, cardigan, or overshirt. This product is  as OEKO-TEX® STANDARD 100 (cert.no. 2176-328 DTI) and thus adheres to the strict rules for harmful and environmentally harmful substances according to the requirements in the standard. All components of the product e.g. fabric, thread, buttons, labels etc. have been tested and  according to the requirements in OEKO-TEX® STANDARD 100 product class II/4. Read more about OEKO-TEX® STANDARD 100 here. Quality: 95% Cotton, 5% Elastane
-  Updated: 2026-04-24T13:11:38Z
+  Updated: 2026-05-04T19:57:42Z
   Vendor: Lindbergh
   Product Type: Bolir
   Availability: Available
@@ -3478,455 +3485,458 @@ Daria.is - Íslensk netverslun með breiðu úrvali af förðunarvörum, snyrtis
 ## Collections
 
 - [Home page](https://daria.is/collections/frontpage)
-  Updated: 2026-04-20T21:46:37Z
+  Updated: 2026-05-04T20:00:06Z
   Total Products: 0
 - [Muddy Body](https://daria.is/collections/muddy-body)
-  Updated: 2026-04-20T21:46:37Z
+  Updated: 2026-05-04T20:00:32Z
   Total Products: 0
 - [Við mælum með](https://daria.is/collections/vid-maelum-med)
-  Updated: 2026-04-27T11:02:26Z
+  Updated: 2026-05-05T11:02:58Z
   Total Products: 12
 - [b.tan](https://daria.is/collections/b-tan)
-  Updated: 2026-04-20T21:46:37Z
+  Updated: 2026-05-04T19:59:22Z
   Total Products: 0
 - [Nýtt](https://daria.is/collections/nytt)
-  Updated: 2026-04-27T11:02:26Z
-  Total Products: 339
+  Updated: 2026-05-05T17:08:53Z
+  Total Products: 363
 - [The Balm](https://daria.is/collections/the-balm)
-  Updated: 2026-04-20T21:46:37Z
+  Updated: 2026-05-04T20:01:02Z
   Total Products: 0
 - [Aukahlutir](https://daria.is/collections/skart-og-aukahlutir)
-  Updated: 2026-04-27T11:02:26Z
+  Updated: 2026-05-05T11:02:58Z
   Total Products: 29
 - [Ecco Bella](https://daria.is/collections/ecco-bella)
-  Updated: 2026-04-20T21:46:38Z
+  Updated: 2026-05-04T19:59:40Z
   Total Products: 0
 - [Gjafabréf](https://daria.is/collections/gjafabref)
-  Updated: 2026-04-20T21:46:38Z
+  Updated: 2026-05-04T19:59:48Z
   Total Products: 0
 - [Oval Burstar og Burstasett](https://daria.is/collections/oval-burstar-og-burstasett-1)
-  Updated: 2026-04-20T21:46:38Z
+  Updated: 2026-05-04T20:00:36Z
   Total Products: 1
 - [Makeup Eraser](https://daria.is/collections/makeup-eraser)
-  Updated: 2026-04-20T21:46:38Z
+  Updated: 2026-05-04T20:00:26Z
   Total Products: 11
 - [Skin&Tonic](https://daria.is/collections/skin-tonic)
-  Updated: 2026-04-20T21:46:38Z
+  Updated: 2026-05-04T20:00:48Z
   Total Products: 0
 - [augnhár](https://daria.is/collections/augnhar)
-  Updated: 2026-04-25T11:03:27Z
-  Total Products: 12
+  Updated: 2026-05-05T11:02:58Z
+  Total Products: 17
 - [varalitir](https://daria.is/collections/varalitir)
-  Updated: 2026-04-23T11:02:38Z
-  Total Products: 14
+  Updated: 2026-05-04T19:59:18Z
+  Total Products: 15
 - [Pallettur](https://daria.is/collections/pallettur)
-  Updated: 2026-04-20T21:46:38Z
+  Updated: 2026-05-04T19:59:05Z
   Total Products: 1
 - [Maskarar](https://daria.is/collections/maskarar)
-  Updated: 2026-03-29T03:38:16Z
+  Updated: 2026-05-04T19:59:03Z
   Total Products: 0
 - [augu](https://daria.is/collections/augu)
-  Updated: 2026-03-29T03:38:02Z
+  Updated: 2026-05-05T11:02:58Z
   Total Products: 2
 - [Pigment](https://daria.is/collections/pigment)
-  Updated: 2026-03-29T03:38:18Z
+  Updated: 2026-05-04T19:59:07Z
   Total Products: 0
 - [Highlight og Contour](https://daria.is/collections/highlight-og-contour)
-  Updated: 2026-04-20T21:46:39Z
+  Updated: 2026-05-04T19:58:55Z
   Total Products: 3
 - [Bebella](https://daria.is/collections/bebella)
-  Updated: 2026-04-20T21:46:39Z
+  Updated: 2026-05-04T19:59:23Z
   Total Products: 2
 - [varablýantar](https://daria.is/collections/varablyantar)
-  Updated: 2026-04-26T11:02:38Z
+  Updated: 2026-05-05T11:02:58Z
   Total Products: 4
 - [Burstasett](https://daria.is/collections/burstasett)
-  Updated: 2026-04-20T21:46:39Z
+  Updated: 2026-05-04T19:58:52Z
   Total Products: 0
 - [Stakir Burstar](https://daria.is/collections/stakir-burstar)
-  Updated: 2026-04-20T21:46:39Z
+  Updated: 2026-05-04T19:59:14Z
   Total Products: 1
 - [Varablýantar](https://daria.is/collections/varablyantar-1)
-  Updated: 2026-04-26T11:02:38Z
+  Updated: 2026-05-05T11:02:58Z
   Total Products: 4
 - [Glimmer](https://daria.is/collections/glimmer)
-  Updated: 2026-04-20T21:46:39Z
+  Updated: 2026-05-04T19:58:54Z
   Total Products: 0
 - [Kinnalitir og Sólarpúður](https://daria.is/collections/kinnalitir)
-  Updated: 2026-04-20T21:46:40Z
-  Total Products: 1
+  Updated: 2026-05-04T19:59:02Z
+  Total Products: 3
 - [Förðunarspeglar - Makeup speglar með Led ljósum](https://daria.is/collections/speglar): Förðunarspeglar Mikið úrval af æðislegum förðunarspeglum Fullkomnaðu förðunaraðstöðuna með Led ljósa spegil
-  Updated: 2026-04-27T11:02:26Z
+  Updated: 2026-05-05T11:02:58Z
   Total Products: 27
 - [Carbon Coco](https://daria.is/collections/carbon-coco)
-  Updated: 2026-04-20T21:46:40Z
+  Updated: 2026-05-04T19:59:36Z
   Total Products: 4
 - [Tannhvíttun](https://daria.is/collections/tannhvittun)
-  Updated: 2026-04-20T21:46:40Z
+  Updated: 2026-05-04T19:59:15Z
   Total Products: 4
 - [Just Me Tea Skinny Teatox](https://daria.is/collections/just-me-tea-skinny-teatox)
-  Updated: 2026-04-20T21:46:40Z
+  Updated: 2026-05-04T20:00:17Z
   Total Products: 0
 - [Skinny Coffee Australia](https://daria.is/collections/skinny-coffee-australia)
-  Updated: 2026-04-20T21:46:40Z
+  Updated: 2026-05-04T20:00:49Z
   Total Products: 0
 - [maskar](https://daria.is/collections/maskar)
-  Updated: 2026-04-20T21:46:41Z
+  Updated: 2026-05-04T19:59:03Z
   Total Products: 0
 - [Augabrúnir](https://daria.is/collections/augnbrunir)
-  Updated: 2026-04-20T21:46:41Z
+  Updated: 2026-05-04T19:58:48Z
   Total Products: 6
 - [Farði](https://daria.is/collections/fardi)
-  Updated: 2026-04-21T11:02:20Z
+  Updated: 2026-05-04T19:58:53Z
   Total Products: 5
 - [Primer](https://daria.is/collections/primer)
-  Updated: 2026-04-20T21:46:41Z
+  Updated: 2026-05-04T19:59:09Z
   Total Products: 0
 - [pop socket](https://daria.is/collections/pop-socket)
-  Updated: 2026-04-20T21:46:41Z
+  Updated: 2026-05-04T19:59:08Z
   Total Products: 0
 - [Símahulstur](https://daria.is/collections/simahulstur)
-  Updated: 2026-04-20T21:46:41Z
+  Updated: 2026-05-04T20:00:45Z
   Total Products: 1
 - [Daría Lashes](https://daria.is/collections/daria-lashes)
-  Updated: 2026-04-20T21:46:41Z
+  Updated: 2026-05-04T19:59:39Z
   Total Products: 6
 - [Buddy Scrub](https://daria.is/collections/buddy-scrub)
-  Updated: 2026-04-20T21:46:41Z
+  Updated: 2026-05-04T19:59:34Z
   Total Products: 0
 - [Síma Aukahlutir](https://daria.is/collections/sima-aukahlutir)
-  Updated: 2026-04-20T21:46:41Z
+  Updated: 2026-05-04T19:59:10Z
   Total Products: 1
 - [Nanshy](https://daria.is/collections/nanshy)
-  Updated: 2026-04-20T21:46:42Z
+  Updated: 2026-05-04T20:00:33Z
   Total Products: 0
 - [Sugarbearhair](https://daria.is/collections/sugarbearhair)
-  Updated: 2026-04-20T21:46:42Z
+  Updated: 2026-05-04T20:01:00Z
   Total Products: 2
 - [Socialeyes](https://daria.is/collections/socialeyes)
-  Updated: 2026-04-20T21:46:42Z
+  Updated: 2026-05-04T20:00:57Z
   Total Products: 0
 - [Tan-Luxe](https://daria.is/collections/tan-luxe)
-  Updated: 2026-04-20T21:46:42Z
+  Updated: 2026-05-04T20:01:01Z
   Total Products: 6
 - [brúnkuvörur](https://daria.is/collections/brunkuvorur)
-  Updated: 2026-04-20T21:46:42Z
+  Updated: 2026-05-04T19:58:51Z
   Total Products: 13
 - [Sudsy Sweets Body Bakery](https://daria.is/collections/sudsy-sweets-body-bakery)
-  Updated: 2026-04-20T21:46:42Z
+  Updated: 2026-05-04T20:00:59Z
   Total Products: 0
 - [Best  Products](https://daria.is/collections/best--products)
-  Updated: 2026-04-27T11:02:26Z
-  Total Products: 462
+  Updated: 2026-05-05T17:09:23Z
+  Total Products: 486
 - [Newest Products](https://daria.is/collections/newest-products)
-  Updated: 2026-04-27T11:02:26Z
-  Total Products: 462
+  Updated: 2026-05-05T17:09:23Z
+  Total Products: 486
 - [Moroccananoil](https://daria.is/collections/moroccananoil)
-  Updated: 2026-04-20T21:46:42Z
+  Updated: 2026-05-04T20:00:31Z
   Total Products: 0
 - [Jólapakkar](https://daria.is/collections/jolapakkar)
-  Updated: 2026-04-20T21:46:43Z
+  Updated: 2026-05-04T20:00:16Z
   Total Products: 0
 - [Jólagjafir](https://daria.is/collections/jolagjafir)
-  Updated: 2026-04-27T11:02:26Z
+  Updated: 2026-05-05T11:02:58Z
   Total Products: 44
 - [GlamGlow](https://daria.is/collections/glamglow)
-  Updated: 2026-04-20T21:46:43Z
+  Updated: 2026-05-04T19:59:50Z
   Total Products: 0
 - [bebella pigment](https://daria.is/collections/bebella-pigment)
-  Updated: 2026-04-20T21:46:43Z
+  Updated: 2026-05-04T19:59:24Z
   Total Products: 0
 - [makeup töskur](https://daria.is/collections/makeup-toskur)
-  Updated: 2026-04-27T11:02:26Z
+  Updated: 2026-05-05T11:02:58Z
   Total Products: 10
 - [iphone 5](https://daria.is/collections/iphone-5)
-  Updated: 2026-04-20T21:46:43Z
+  Updated: 2026-05-04T19:58:57Z
   Total Products: 0
 - [Símahulstur iphone 6 og 6s](https://daria.is/collections/simahulstur-iphone-6-og-6s)
-  Updated: 2026-04-20T21:46:43Z
+  Updated: 2026-05-04T19:59:11Z
   Total Products: 0
 - [jól2018](https://daria.is/collections/jol2018)
-  Updated: 2026-04-20T21:46:43Z
+  Updated: 2026-05-04T20:00:14Z
   Total Products: 0
 - [Mine Jewelry](https://daria.is/collections/mine-jewelry)
-  Updated: 2026-04-20T21:46:43Z
+  Updated: 2026-05-04T20:00:29Z
   Total Products: 0
 - [Vera Wang](https://daria.is/collections/vera-wang)
-  Updated: 2026-04-20T21:46:44Z
+  Updated: 2026-05-04T20:01:10Z
   Total Products: 0
 - [Rimmel](https://daria.is/collections/rimmel)
-  Updated: 2026-04-20T21:46:44Z
+  Updated: 2026-05-04T20:00:42Z
   Total Products: 0
 - [Ilmvötn og Body Spray](https://daria.is/collections/ilmvotn-og-body-spray)
-  Updated: 2026-04-20T21:46:44Z
+  Updated: 2026-05-04T19:58:56Z
   Total Products: 10
 - [Escentric Molecules](https://daria.is/collections/escentric-molecules)
-  Updated: 2026-04-20T21:46:44Z
+  Updated: 2026-05-04T19:59:43Z
   Total Products: 4
 - [Kjólar](https://daria.is/collections/kjolar)
-  Updated: 2026-04-26T11:02:38Z
-  Total Products: 24
+  Updated: 2026-05-05T17:03:51Z
+  Total Products: 30
 - [buxur](https://daria.is/collections/buxur)
-  Updated: 2026-04-26T11:02:38Z
-  Total Products: 51
+  Updated: 2026-05-05T16:44:41Z
+  Total Products: 53
 - [Leggings](https://daria.is/collections/leggings)
-  Updated: 2026-04-26T11:02:38Z
+  Updated: 2026-05-04T20:00:23Z
   Total Products: 5
 - [Samfestingar](https://daria.is/collections/samfestingar)
-  Updated: 2026-04-20T21:46:44Z
+  Updated: 2026-05-04T20:00:44Z
   Total Products: 3
 - [Toppar](https://daria.is/collections/toppar)
-  Updated: 2026-04-25T11:03:27Z
-  Total Products: 11
+  Updated: 2026-05-05T17:08:53Z
+  Total Products: 14
 - [Yfirhafnir](https://daria.is/collections/yfirhafnir)
-  Updated: 2026-04-26T11:02:38Z
+  Updated: 2026-05-04T20:01:13Z
   Total Products: 13
 - [Peysur](https://daria.is/collections/peysur)
-  Updated: 2026-04-20T21:46:45Z
-  Total Products: 7
+  Updated: 2026-05-05T16:53:32Z
+  Total Products: 8
 - [Samfellur](https://daria.is/collections/samfellur)
-  Updated: 2026-04-24T11:02:48Z
+  Updated: 2026-05-04T20:00:43Z
   Total Products: 2
 - [Fatnaður](https://daria.is/collections/fatnadur)
-  Updated: 2026-04-26T11:02:38Z
-  Total Products: 163
+  Updated: 2026-05-05T17:08:53Z
+  Total Products: 178
 - [Skyrtur](https://daria.is/collections/skyrtur)
-  Updated: 2026-04-26T11:02:38Z
-  Total Products: 21
-- [Bolir](https://daria.is/collections/bolir)
-  Updated: 2026-04-25T11:03:27Z
+  Updated: 2026-05-05T16:41:21Z
   Total Products: 22
+- [Bolir](https://daria.is/collections/bolir)
+  Updated: 2026-05-05T17:08:53Z
+  Total Products: 28
 - [Glamcor](https://daria.is/collections/glamcor)
-  Updated: 2026-04-20T21:46:45Z
+  Updated: 2026-05-04T19:59:49Z
   Total Products: 0
 - [Héliabrine](https://daria.is/collections/heliabrine)
-  Updated: 2026-04-20T21:46:45Z
+  Updated: 2026-05-04T19:59:53Z
   Total Products: 0
 - [Skór](https://daria.is/collections/skor)
-  Updated: 2026-04-20T21:46:45Z
+  Updated: 2026-05-04T20:00:50Z
   Total Products: 1
 - [Moroccan Tan](https://daria.is/collections/moroccan-tan)
-  Updated: 2026-04-20T21:46:45Z
+  Updated: 2026-05-04T20:00:30Z
   Total Products: 0
 - [g brushes](https://daria.is/collections/g-brushes)
-  Updated: 2026-04-20T21:46:46Z
+  Updated: 2026-05-04T19:59:47Z
   Total Products: 1
 - [applicator](https://daria.is/collections/applicator)
-  Updated: 2026-04-20T21:46:46Z
+  Updated: 2026-05-04T19:59:20Z
   Total Products: 0
 - [Bomb Cosmetics](https://daria.is/collections/bomb-cosmetics)
-  Updated: 2026-04-20T21:46:46Z
+  Updated: 2026-05-04T19:59:28Z
   Total Products: 1
 - [Bomb Cosmetics Lip Balm og skrúbbar](https://daria.is/collections/bomb-cosmetics-lip-balm-og-skrubbar)
-  Updated: 2026-04-20T21:46:46Z
+  Updated: 2026-05-04T19:59:31Z
   Total Products: 0
 - [Bomb Cosmetics Ilmkerti](https://daria.is/collections/bomb-cosmetics-ilmkerti)
-  Updated: 2026-04-20T21:46:46Z
+  Updated: 2026-05-04T19:59:30Z
   Total Products: 0
 - [Bomb Cosmetics Baðbombusett](https://daria.is/collections/bomb-cosmetics-badbombusett): Bomb Cosmetics Baðbombusett
-  Updated: 2026-04-20T21:46:46Z
+  Updated: 2026-05-04T19:59:29Z
   Total Products: 0
 - [SPO-filter-3f960fec865dab23adfdf47ad0079f8a](https://daria.is/collections/spo-filter-3f960fec865dab23adfdf47ad0079f8a)
-  Updated: 2026-03-29T03:38:24Z
+  Updated: 2026-05-04T19:59:13Z
   Total Products: 0
 - [SPO-filter-cee5b992b0d8b661e96cfd7c427e3b13](https://daria.is/collections/spo-filter-cee5b992b0d8b661e96cfd7c427e3b13)
-  Updated: 2026-04-27T11:02:26Z
+  Updated: 2026-05-05T11:02:58Z
   Total Products: 42
 - [Grímur](https://daria.is/collections/grimur)
-  Updated: 2026-04-20T21:46:46Z
+  Updated: 2026-05-04T19:59:51Z
   Total Products: 0
 - [Íþróttafatnaður](https://daria.is/collections/ithrottafatnadur)
-  Updated: 2026-04-20T21:46:46Z
+  Updated: 2026-05-04T20:00:13Z
   Total Products: 0
 - [Realher](https://daria.is/collections/realher)
-  Updated: 2026-04-20T21:46:47Z
+  Updated: 2026-05-04T20:00:41Z
   Total Products: 1
 - [jólagjafir 2021](https://daria.is/collections/jolagjafir-2020)
-  Updated: 2026-04-27T11:02:26Z
+  Updated: 2026-05-05T11:02:58Z
   Total Products: 41
 - [bomb dagatöl](https://daria.is/collections/bomb-dagatol)
-  Updated: 2026-04-20T21:46:47Z
+  Updated: 2026-05-04T19:59:32Z
   Total Products: 1
 - [Belti](https://daria.is/collections/belti)
-  Updated: 2026-04-20T21:46:47Z
+  Updated: 2026-05-04T19:59:25Z
   Total Products: 0
 - [Sólgleraugu](https://daria.is/collections/solgleraugu)
-  Updated: 2026-04-20T21:46:47Z
+  Updated: 2026-05-04T20:00:58Z
   Total Products: 0
 - [Töskur og veski](https://daria.is/collections/toskur-og-veski)
-  Updated: 2026-04-20T21:46:47Z
+  Updated: 2026-05-04T20:01:04Z
   Total Products: 0
 - [Eyrnalokkar hálsmen og skart](https://daria.is/collections/eyrnalokkar-og-halsmen)
-  Updated: 2026-04-20T21:46:47Z
+  Updated: 2026-05-04T19:59:44Z
   Total Products: 13
 - [Hárskraut](https://daria.is/collections/harskraut)
-  Updated: 2026-04-20T21:46:47Z
+  Updated: 2026-05-04T19:59:52Z
   Total Products: 0
 - [Maria Nila](https://daria.is/collections/maria-nila)
-  Updated: 2026-04-20T21:46:47Z
+  Updated: 2026-05-04T20:00:28Z
   Total Products: 0
 - [Húfur og Hattar](https://daria.is/collections/hufur-og-hattar)
-  Updated: 2026-04-20T21:46:48Z
+  Updated: 2026-05-04T20:00:07Z
   Total Products: 0
 - [Liberte](https://daria.is/collections/liberte)
-  Updated: 2026-04-20T21:46:48Z
+  Updated: 2026-05-04T20:00:24Z
   Total Products: 0
 - [Jólagjafir 20-21](https://daria.is/collections/jolagjafir-2021)
-  Updated: 2026-04-27T11:02:26Z
+  Updated: 2026-05-05T11:02:58Z
   Total Products: 40
 - [Vinsælar jólagjafir](https://daria.is/collections/vinsaelar-jolagjafir)
-  Updated: 2026-04-27T11:02:26Z
+  Updated: 2026-05-05T11:02:58Z
   Total Products: 12
 - [Marc Inbane](https://daria.is/collections/marc-inbane)
-  Updated: 2026-04-20T21:46:48Z
+  Updated: 2026-05-04T20:00:27Z
   Total Products: 11
 - [Snyrtiborð](https://daria.is/collections/snyrtibord)
-  Updated: 2026-04-20T21:46:48Z
+  Updated: 2026-05-04T20:00:53Z
   Total Products: 0
 - [jólagjafir 2025](https://daria.is/collections/jolagjafir-2025): jólagjöfin fyrir hana, ýmsar sniðugar jólagjafir
-  Updated: 2026-04-27T11:02:26Z
+  Updated: 2026-05-05T11:02:58Z
   Total Products: 63
 - [Plus size](https://daria.is/collections/plus-size)
-  Updated: 2026-04-20T21:46:48Z
+  Updated: 2026-05-04T20:00:39Z
   Total Products: 0
 - [b.young](https://daria.is/collections/b-young)
-  Updated: 2026-04-26T11:02:38Z
-  Total Products: 25
+  Updated: 2026-05-05T11:02:58Z
+  Total Products: 29
 - [Ichi](https://daria.is/collections/ichi)
-  Updated: 2026-04-26T11:02:38Z
+  Updated: 2026-05-04T20:00:09Z
   Total Products: 22
 - [Blazer](https://daria.is/collections/blazer)
-  Updated: 2026-04-20T21:46:49Z
+  Updated: 2026-05-04T19:59:26Z
   Total Products: 12
 - [Snyrtivörur](https://daria.is/collections/snyrtivorur)
-  Updated: 2026-04-26T11:02:38Z
-  Total Products: 121
+  Updated: 2026-05-05T11:02:58Z
+  Total Products: 130
 - [Förðunarvörur](https://daria.is/collections/fordunarvorur)
-  Updated: 2026-04-20T21:46:49Z
+  Updated: 2026-05-04T19:59:46Z
   Total Products: 15
 - [Brúnkuvörur](https://daria.is/collections/brunkuvorur-1)
-  Updated: 2026-04-20T21:46:49Z
+  Updated: 2026-05-04T19:59:33Z
   Total Products: 16
 - [Húðvörur](https://daria.is/collections/hudvorur)
-  Updated: 2026-04-20T21:46:49Z
+  Updated: 2026-05-04T20:00:08Z
   Total Products: 29
 - [Efri hluti](https://daria.is/collections/efri-hluti)
-  Updated: 2026-04-26T11:02:38Z
-  Total Products: 76
+  Updated: 2026-05-05T17:08:53Z
+  Total Products: 83
 - [Neðri hluti](https://daria.is/collections/nedri-hluti)
-  Updated: 2026-04-26T11:02:38Z
-  Total Products: 62
+  Updated: 2026-05-05T16:44:41Z
+  Total Products: 64
 - [Fransa](https://daria.is/collections/fransa)
-  Updated: 2026-04-20T21:46:49Z
+  Updated: 2026-05-04T19:59:47Z
   Total Products: 2
 - [L.A. Girl](https://daria.is/collections/l-a-girl)
-  Updated: 2026-04-26T11:02:38Z
+  Updated: 2026-05-05T11:02:58Z
   Total Products: 50
 - [L.A. Girl varir](https://daria.is/collections/l-a-girl-varir)
-  Updated: 2026-04-20T21:46:50Z
+  Updated: 2026-05-04T20:00:21Z
   Total Products: 4
 - [Pils](https://daria.is/collections/pils)
-  Updated: 2026-04-20T21:46:50Z
+  Updated: 2026-05-04T20:00:38Z
   Total Products: 5
 - [Pulz](https://daria.is/collections/pulz)
-  Updated: 2026-04-23T11:02:38Z
+  Updated: 2026-05-04T20:00:40Z
   Total Products: 2
 - [Vanity beauty accessories](https://daria.is/collections/vanity-beauty-accessories)
-  Updated: 2026-04-27T11:02:26Z
+  Updated: 2026-05-05T11:02:58Z
   Total Products: 17
 - [Cream](https://daria.is/collections/cream)
-  Updated: 2026-04-26T11:02:38Z
-  Total Products: 31
+  Updated: 2026-05-05T17:08:54Z
+  Total Products: 40
 - [Soaked](https://daria.is/collections/soaked)
-  Updated: 2026-04-25T11:03:27Z
-  Total Products: 6
+  Updated: 2026-05-05T16:54:16Z
+  Total Products: 8
 - [Lashvana augnháralengingar](https://daria.is/collections/lashvana): Quicklashes eru augnhár sem þú setur á þig sjálf/ur í rólegheitunum heima og endast í allt að 5-10 daga. Augnhárin okkar eru vegan & cruelty free, vatns & svitaþolin og eru gerð úr hágæða PBT trefjum. Þú getur tekið augnhárin af hvenær sem er og endurnýtt þau aftur.  Gervi augnhár, eye lash extension, starter kit, byrjendapakki
-  Updated: 2026-04-26T11:02:38Z
-  Total Products: 18
+  Updated: 2026-05-05T11:02:58Z
+  Total Products: 27
 - [Útsala](https://daria.is/collections/utsala)
-  Updated: 2026-04-20T21:46:50Z
+  Updated: 2026-05-04T20:01:05Z
   Total Products: 1
 - [Kaffe](https://daria.is/collections/kaffe)
-  Updated: 2026-04-26T11:02:38Z
+  Updated: 2026-05-05T11:02:58Z
   Total Products: 39
 - [Culture](https://daria.is/collections/culture)
-  Updated: 2026-04-25T11:03:27Z
+  Updated: 2026-05-05T11:02:58Z
   Total Products: 21
 - [Útsala 50%](https://daria.is/collections/utsala-50)
-  Updated: 2026-04-26T11:02:38Z
+  Updated: 2026-05-04T20:01:07Z
   Total Products: 36
 - [Ilmur ilmkerti](https://daria.is/collections/ilmur-ilmkerti): ILMUR ilmkerti eru handgerð á Íslandi úr sérblöndu af kókos- og apríkósuvaxi sem tryggir hreina og yfirburða brennsluupplifun. Vaxið er glútenlaust og án eiturefna, parabena og þalata, þannig færðu fallega loga og notalegan ilm
-  Updated: 2026-04-20T21:46:51Z
+  Updated: 2026-05-04T20:00:10Z
   Total Products: 2
 - [skartgripur](https://daria.is/collections/skartgripur)
-  Updated: 2026-04-20T21:46:51Z
+  Updated: 2026-05-04T20:00:46Z
   Total Products: 13
 - [dyrberg/kern](https://daria.is/collections/dyrberg-kern)
-  Updated: 2026-04-20T21:46:51Z
+  Updated: 2026-05-04T19:59:40Z
   Total Products: 13
 - [Herrafatnaður](https://daria.is/collections/herrar)
-  Updated: 2026-04-26T11:02:38Z
+  Updated: 2026-05-04T19:59:54Z
   Total Products: 106
 - [Herrar skyrtur](https://daria.is/collections/herrar-skyrtur)
-  Updated: 2026-04-23T12:11:24Z
+  Updated: 2026-05-04T20:00:03Z
   Total Products: 26
 - [Herrar nýjar vörur](https://daria.is/collections/herrar-nyjar-vorur)
-  Updated: 2026-04-26T11:02:38Z
+  Updated: 2026-05-04T20:00:00Z
   Total Products: 109
 - [Herrar yfirhafnir](https://daria.is/collections/herrar-yfirhafnir)
-  Updated: 2026-04-25T11:03:27Z
+  Updated: 2026-05-04T20:00:04Z
   Total Products: 8
 - [Herrar Jakkaföt](https://daria.is/collections/herrar-jakkafot)
-  Updated: 2026-04-25T11:03:27Z
+  Updated: 2026-05-04T19:59:59Z
   Total Products: 8
 - [Herrar yfirskyrtur](https://daria.is/collections/herrar-yfirskyrtur)
-  Updated: 2026-04-20T21:46:52Z
+  Updated: 2026-05-04T20:00:05Z
   Total Products: 4
 - [Herrar peysur](https://daria.is/collections/herrar-peysur)
-  Updated: 2026-04-23T11:02:38Z
+  Updated: 2026-05-04T20:00:01Z
   Total Products: 14
 - [herrar bolir](https://daria.is/collections/herrar-bolir)
-  Updated: 2026-04-26T11:02:38Z
+  Updated: 2026-05-04T19:59:56Z
   Total Products: 17
 - [Herrar buxur og gallabuxur](https://daria.is/collections/herrar-buxur-og-gallabuxur)
-  Updated: 2026-04-23T11:02:38Z
+  Updated: 2026-05-04T19:59:58Z
   Total Products: 16
 - [Herrar Náttföt](https://daria.is/collections/herrar-nattfot)
-  Updated: 2026-04-20T21:46:52Z
+  Updated: 2026-05-04T20:00:00Z
   Total Products: 1
 - [Herrar aukahlutir,húfur og treflar](https://daria.is/collections/herrar-aukahlutir-hufur-og-treflar)
-  Updated: 2026-04-21T11:02:20Z
+  Updated: 2026-05-04T19:59:55Z
   Total Products: 9
 - [jólagjafahugmyndir 2025](https://daria.is/collections/jolagjafahugmyndir-2025)
-  Updated: 2026-04-27T11:02:26Z
+  Updated: 2026-05-05T11:02:58Z
   Total Products: 43
 - [herrar skór](https://daria.is/collections/herrar-skor)
-  Updated: 2026-04-20T21:46:53Z
+  Updated: 2026-05-04T20:00:02Z
   Total Products: 2
 - [Herrar Blazer](https://daria.is/collections/herrar-blazer)
-  Updated: 2026-04-25T11:03:27Z
+  Updated: 2026-05-04T19:59:56Z
   Total Products: 4
 - [70% afsláttur - Daría](https://daria.is/collections/70-afslattur): Verslaðu vörur á 70% afslætti hjá Daría. Takmarkað magn í boði.
-  Updated: 2026-04-26T11:02:38Z
+  Updated: 2026-05-05T11:02:58Z
   Total Products: 75
 - [Ilmolíur](https://daria.is/collections/ilmoliur)
-  Updated: 2026-04-20T21:46:53Z
+  Updated: 2026-05-04T20:01:25Z
   Total Products: 0
 - [Herrar Bindi og Slaufur](https://daria.is/collections/bindi-og-slaufur)
-  Updated: 2026-04-22T11:01:55Z
+  Updated: 2026-05-04T20:01:36Z
   Total Products: 3
 - [Herrar Belti og axlarbönd](https://daria.is/collections/bindi-og-axlarbond)
-  Updated: 2026-04-22T11:01:55Z
+  Updated: 2026-05-04T20:01:35Z
   Total Products: 3
 - [Raaw Alchemy](https://daria.is/collections/raaw-alchemy): RAAW Alchemy er verðlaunað danskt clean beauty og ilmvatnsmerki stofnað af Trice Angie Christiansen. Vörurnar eru hannaðar með lífrænum, sjálfbærum og villtum hráefnum, þar á meðal sjávarbotnum og öflugum jurtaútdráttum. Húðvörurnar eru háþjappaðar og fjölnota, en ilmvötnin eru unisex og unnin úr náttúrulegum efnum. Skandínavísk hönnun, hrein innihaldsefni og sjálfbær lúxus í hverri flösku.
-  Updated: 2026-04-20T21:46:54Z
+  Updated: 2026-05-04T20:01:49Z
   Total Products: 11
 - [ilmvötn](https://daria.is/collections/ilmvotn)
-  Updated: 2026-04-20T21:46:54Z
+  Updated: 2026-05-04T20:01:48Z
   Total Products: 7
 - [Ilmtæki og Ilmolíur](https://daria.is/collections/ilmtaeki-og-ilmoliur): Ilmtæki og ilmolíur frá Lunora. Þráðlaus kaldlofts ilmtæki með Bluetooth og hágæða ilmolíur fyrir heimilið og vinnustaðinn.
-  Updated: 2026-04-20T21:46:54Z
+  Updated: 2026-05-04T20:02:05Z
   Total Products: 4
+- [ny](https://daria.is/collections/ny)
+  Updated: 2026-05-03T03:25:13Z
+  Total Products: 0
 
 ## Store Pages
 
