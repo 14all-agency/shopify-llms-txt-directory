@@ -6,7 +6,7 @@
 - Timezone: America/Denver
 - Created At: 2023-11-14T20:49:27Z
 - Contact Email: customerservice@itsdoggoneawesome.com
-- Updated At: 2026-04-28T00:00:23.412Z
+- Updated At: 2026-05-07T00:00:34.784Z
 
 ## Products
 
@@ -284,7 +284,7 @@
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/travel-mug-with-a-handle-white-40-oz-left-6849ff6fd7813.jpg?v=1749679993
     Price: $26.00 USD
 - [“Dogs = Love” Unisex Heavy Blend™ Hooded Sweatshirt](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt): Stay cozy while sharing a powerful message with our soft, high-quality hoodie featuring a heart and the words “Dogs = Love.” Designed for comfort and meaning, this hoodie reminds everyone that pets are more than companions—they’re lifelong commitments filled with love. Every hoodie supports our mission to promote responsible pet ownership, assist pet owners in need, and work toward reducing shelter and rescue populations to 20% nationwide by 2035. Wear the message. Inspire compassion. Help keep pets where they belong—home. This unisex heavy blend hooded sweatshirt is relaxation itself. Made with a thick blend of cotton and polyester, it feels plush, soft and warm, a perfect choice for any cold day. In the front, the spacious kangaroo pocket adds daily practicality while the hood's drawstring is the same color as the base sweater for extra style points. .: Made with a medium-heavy fabric (8.0 oz/yd² (271 g/m²)) that consists of 50% cotton and 50% polyester for that cozy feel and warmth you need in a hoodie..: The classic fit along with the pouch pocket and the tear-away label make for a highly comfortable, scratch-free wearing experience. .: The color-matched drawcord and the double-lined hood add a stylish flair and durability that tie everything together..: Made using 100% ethically grown US cotton. Gildan is also a proud member of the US Cotton Trust Protocol ensuring ethical and sustainable means of production. The blank tee's dyes are OEKO-TEX- dyes with low environmental impact..: Fabric blends: Heather Sport colors - 60% polyester, 40% cotton
-  Updated: 2026-03-13T12:47:25Z
+  Updated: 2026-05-05T19:14:40Z
   Vendor: Printify
   Product Type: Hoodie
   Availability: Available
@@ -292,203 +292,203 @@
   - [S / White](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608119447630)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/1646687075433187442_2048.jpg?v=1749683194
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [S / Ash](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608119480398)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/2141725673472102190_2048.jpg?v=1749683199
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [S / Carolina Blue](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608119513166)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/11594125566743570094_2048.jpg?v=1749683206
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [S / Light Pink](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608119545934)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/1775447932564557680_2048.jpg?v=1749683212
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [S / Sand](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608119578702)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/12214993771404893540_2048.jpg?v=1749683201
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [S / Antique Cherry Red](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608119611470)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/3498375374141894698_2048.jpg?v=1749683214
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [S / Charcoal](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608119644238)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/2468299123259060173_2048.jpg?v=1749683210
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [S / Indigo Blue](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608119677006)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/17775763596344411263_2048.jpg?v=1749683208
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [S / Graphite Heather](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608119709774)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/15524914878257724775_2048.jpg?v=1749683203
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [M / White](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608119742542)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/1646687075433187442_2048.jpg?v=1749683194
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [M / Ash](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608119775310)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/2141725673472102190_2048.jpg?v=1749683199
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [M / Carolina Blue](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608119808078)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/11594125566743570094_2048.jpg?v=1749683206
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [M / Light Pink](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608119840846)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/1775447932564557680_2048.jpg?v=1749683212
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [M / Sand](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608119873614)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/12214993771404893540_2048.jpg?v=1749683201
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [M / Antique Cherry Red](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608119906382)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/3498375374141894698_2048.jpg?v=1749683214
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [M / Charcoal](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608119939150)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/2468299123259060173_2048.jpg?v=1749683210
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [M / Indigo Blue](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608119971918)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/17775763596344411263_2048.jpg?v=1749683208
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [M / Graphite Heather](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120004686)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/15524914878257724775_2048.jpg?v=1749683203
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [L / White](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120037454)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/1646687075433187442_2048.jpg?v=1749683194
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [L / Ash](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120070222)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/2141725673472102190_2048.jpg?v=1749683199
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [L / Carolina Blue](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120102990)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/11594125566743570094_2048.jpg?v=1749683206
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [L / Light Pink](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120135758)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/1775447932564557680_2048.jpg?v=1749683212
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [L / Sand](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120168526)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/12214993771404893540_2048.jpg?v=1749683201
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [L / Antique Cherry Red](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120201294)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/3498375374141894698_2048.jpg?v=1749683214
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [L / Charcoal](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120234062)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/2468299123259060173_2048.jpg?v=1749683210
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [L / Indigo Blue](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120266830)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/17775763596344411263_2048.jpg?v=1749683208
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [L / Graphite Heather](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120299598)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/15524914878257724775_2048.jpg?v=1749683203
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [XL / White](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120332366)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/1646687075433187442_2048.jpg?v=1749683194
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [XL / Ash](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120365134)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/2141725673472102190_2048.jpg?v=1749683199
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [XL / Carolina Blue](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120397902)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/11594125566743570094_2048.jpg?v=1749683206
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [XL / Light Pink](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120430670)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/1775447932564557680_2048.jpg?v=1749683212
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [XL / Sand](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120463438)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/12214993771404893540_2048.jpg?v=1749683201
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [XL / Antique Cherry Red](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120496206)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/3498375374141894698_2048.jpg?v=1749683214
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [XL / Charcoal](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120528974)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/2468299123259060173_2048.jpg?v=1749683210
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [XL / Indigo Blue](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120561742)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/17775763596344411263_2048.jpg?v=1749683208
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [XL / Graphite Heather](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120594510)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/15524914878257724775_2048.jpg?v=1749683203
-    Price: $35.40 USD
+    Price: $38.00 USD
   - [2XL / White](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120627278)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/1646687075433187442_2048.jpg?v=1749683194
-    Price: $39.13 USD
+    Price: $40.00 USD
   - [2XL / Ash](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120660046)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/2141725673472102190_2048.jpg?v=1749683199
-    Price: $39.13 USD
+    Price: $40.00 USD
   - [2XL / Carolina Blue](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120692814)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/11594125566743570094_2048.jpg?v=1749683206
-    Price: $39.13 USD
+    Price: $40.00 USD
   - [2XL / Light Pink](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120725582)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/1775447932564557680_2048.jpg?v=1749683212
-    Price: $39.13 USD
+    Price: $40.00 USD
   - [2XL / Sand](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120758350)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/12214993771404893540_2048.jpg?v=1749683201
-    Price: $39.13 USD
+    Price: $40.00 USD
   - [2XL / Antique Cherry Red](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120791118)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/3498375374141894698_2048.jpg?v=1749683214
-    Price: $39.13 USD
+    Price: $40.00 USD
   - [2XL / Charcoal](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120823886)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/2468299123259060173_2048.jpg?v=1749683210
-    Price: $39.13 USD
+    Price: $40.00 USD
   - [2XL / Indigo Blue](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120856654)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/17775763596344411263_2048.jpg?v=1749683208
-    Price: $39.13 USD
+    Price: $40.00 USD
   - [2XL / Graphite Heather](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120889422)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/15524914878257724775_2048.jpg?v=1749683203
-    Price: $39.13 USD
+    Price: $40.00 USD
   - [3XL / White](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120922190)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/1646687075433187442_2048.jpg?v=1749683194
-    Price: $41.28 USD
+    Price: $45.00 USD
   - [3XL / Ash](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120954958)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/2141725673472102190_2048.jpg?v=1749683199
-    Price: $41.28 USD
+    Price: $45.00 USD
   - [3XL / Carolina Blue](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608120987726)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/11594125566743570094_2048.jpg?v=1749683206
-    Price: $41.28 USD
+    Price: $45.00 USD
   - [3XL / Light Pink](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608121020494)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/1775447932564557680_2048.jpg?v=1749683212
-    Price: $41.28 USD
+    Price: $45.00 USD
   - [3XL / Sand](https://www.itsdoggoneawesome.com/products/pets-love-unisex-heavy-blend™-hooded-sweatshirt?variant=42608121053262)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/12214993771404893540_2048.jpg?v=1749683201
-    Price: $41.28 USD
+    Price: $45.00 USD
 - [Reduce Shelter Pet Population - Bumper Stickers](https://www.itsdoggoneawesome.com/products/bumper-stickers): Drive the Change: Reduce Shelter Populations by 20% by 2035!Show your commitment to saving lives—one pet at a time. This bold bumper sticker spreads awareness and inspires action toward a future where fewer animals end up in shelters. By 2035, let’s give more pets the loving homes they deserve. ✅ Weather-resistant vinyl✅ Easy to apply, long-lasting✅ A small sticker with a big message Every sticker sold helps raise awareness. Join the movement. Be part of the solution. .: Material: premium water-resistant vinyl.: Waterproof sticky adhesive.: Suitable for indoor and outdoor use.: Easy peel backing.: Matte finish
   Updated: 2026-03-13T12:47:25Z
   Vendor: Printify
@@ -504,7 +504,7 @@
   Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/8940808261934506545_2048.jpg?v=1750098789
   Price: $6.58 USD
 - [It's DogGone Awesome Logo and "Pets = Commitment + Love" - Unisex Hoodie](https://www.itsdoggoneawesome.com/products/its-doggone-awesome-logo-and-pets-commitment-love-unisex-hoodie): Stay cozy while sharing a powerful message with our soft, high-quality hoodie featuring a heart and the words “Pets = Commitment + Love.” Designed for comfort and meaning, this hoodie reminds everyone that pets are more than companions—they’re lifelong commitments filled with love. Every hoodie supports our mission to promote responsible pet ownership, assist pet owners in need, and work toward reducing shelter and rescue populations to 20% nationwide by 2035. Wear the message. Inspire compassion. Help keep pets where they belong—home. • 50% pre-shrunk cotton, 50% polyester Heather Sport Dark Navy is 40% cotton, 60% polyester • Fabric weight: 8.0 oz/yd² (271.25 g/m²) • Air-jet spun yarn with a soft feel and reduced pilling • Double-lined hood with matching drawcord • Quarter-turned body to avoid crease down the middle • 1 × 1 athletic rib-knit cuffs and waistband with spandex • Front pouch pocket • Double-needle stitched collar, shoulders, armholes, cuffs, and hem • Blank product sourced from Bangladesh, Nicaragua, Honduras or El Salvador Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
-  Updated: 2026-03-28T04:33:38Z
+  Updated: 2026-05-05T03:15:08Z
   Vendor: It's DogGone Awesome
   Product Type: 
   Availability: Available
@@ -512,299 +512,235 @@
   - [Sport Grey / S](https://www.itsdoggoneawesome.com/products/its-doggone-awesome-logo-and-pets-commitment-love-unisex-hoodie?variant=42616996724814)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-sport-grey-front-685065a442b74.jpg?v=1750099380
-    Price: $34.50 USD
+    Price: $38.00 USD
   - [Sport Grey / M](https://www.itsdoggoneawesome.com/products/its-doggone-awesome-logo-and-pets-commitment-love-unisex-hoodie?variant=42616996757582)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-sport-grey-front-685065a442b74.jpg?v=1750099380
-    Price: $34.50 USD
+    Price: $38.00 USD
   - [Sport Grey / L](https://www.itsdoggoneawesome.com/products/its-doggone-awesome-logo-and-pets-commitment-love-unisex-hoodie?variant=42616996790350)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-sport-grey-front-685065a442b74.jpg?v=1750099380
-    Price: $34.50 USD
+    Price: $38.00 USD
   - [Sport Grey / XL](https://www.itsdoggoneawesome.com/products/its-doggone-awesome-logo-and-pets-commitment-love-unisex-hoodie?variant=42616996823118)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-sport-grey-front-685065a442b74.jpg?v=1750099380
-    Price: $34.50 USD
+    Price: $38.00 USD
   - [Sport Grey / 2XL](https://www.itsdoggoneawesome.com/products/its-doggone-awesome-logo-and-pets-commitment-love-unisex-hoodie?variant=42616996855886)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-sport-grey-front-685065a442b74.jpg?v=1750099380
-    Price: $38.00 USD
+    Price: $40.00 USD
   - [Sport Grey / 3XL](https://www.itsdoggoneawesome.com/products/its-doggone-awesome-logo-and-pets-commitment-love-unisex-hoodie?variant=42616996888654)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-sport-grey-front-685065a442b74.jpg?v=1750099380
-    Price: $40.50 USD
+    Price: $45.00 USD
   - [Sport Grey / 4XL](https://www.itsdoggoneawesome.com/products/its-doggone-awesome-logo-and-pets-commitment-love-unisex-hoodie?variant=42616996921422)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-sport-grey-front-685065a442b74.jpg?v=1750099380
-    Price: $44.00 USD
+    Price: $48.00 USD
   - [Sport Grey / 5XL](https://www.itsdoggoneawesome.com/products/its-doggone-awesome-logo-and-pets-commitment-love-unisex-hoodie?variant=42616996954190)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-sport-grey-front-685065a442b74.jpg?v=1750099380
-    Price: $47.00 USD
+    Price: $50.00 USD
   - [Ash / S](https://www.itsdoggoneawesome.com/products/its-doggone-awesome-logo-and-pets-commitment-love-unisex-hoodie?variant=42616996986958)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-ash-front-685065a446754.jpg?v=1750099380
-    Price: $34.50 USD
+    Price: $38.00 USD
   - [Ash / M](https://www.itsdoggoneawesome.com/products/its-doggone-awesome-logo-and-pets-commitment-love-unisex-hoodie?variant=42616997019726)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-ash-front-685065a446754.jpg?v=1750099380
-    Price: $34.50 USD
+    Price: $38.00 USD
   - [Ash / L](https://www.itsdoggoneawesome.com/products/its-doggone-awesome-logo-and-pets-commitment-love-unisex-hoodie?variant=42616997052494)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-ash-front-685065a446754.jpg?v=1750099380
-    Price: $34.50 USD
+    Price: $38.00 USD
   - [Ash / XL](https://www.itsdoggoneawesome.com/products/its-doggone-awesome-logo-and-pets-commitment-love-unisex-hoodie?variant=42616997085262)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-ash-front-685065a446754.jpg?v=1750099380
-    Price: $34.50 USD
+    Price: $38.00 USD
   - [Ash / 2XL](https://www.itsdoggoneawesome.com/products/its-doggone-awesome-logo-and-pets-commitment-love-unisex-hoodie?variant=42616997118030)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-ash-front-685065a446754.jpg?v=1750099380
-    Price: $38.00 USD
+    Price: $40.00 USD
   - [Ash / 3XL](https://www.itsdoggoneawesome.com/products/its-doggone-awesome-logo-and-pets-commitment-love-unisex-hoodie?variant=42616997150798)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-ash-front-685065a446754.jpg?v=1750099380
-    Price: $40.50 USD
+    Price: $45.00 USD
   - [Ash / 4XL](https://www.itsdoggoneawesome.com/products/its-doggone-awesome-logo-and-pets-commitment-love-unisex-hoodie?variant=42616997183566)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-ash-front-685065a446754.jpg?v=1750099380
-    Price: $44.00 USD
+    Price: $48.00 USD
   - [Ash / 5XL](https://www.itsdoggoneawesome.com/products/its-doggone-awesome-logo-and-pets-commitment-love-unisex-hoodie?variant=42616997216334)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-ash-front-685065a446754.jpg?v=1750099380
-    Price: $47.00 USD
+    Price: $50.00 USD
   - [White / S](https://www.itsdoggoneawesome.com/products/its-doggone-awesome-logo-and-pets-commitment-love-unisex-hoodie?variant=42616997249102)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-white-front-685065a44aff7.jpg?v=1750099380
-    Price: $34.50 USD
+    Price: $38.00 USD
   - [White / M](https://www.itsdoggoneawesome.com/products/its-doggone-awesome-logo-and-pets-commitment-love-unisex-hoodie?variant=42616997281870)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-white-front-685065a44aff7.jpg?v=1750099380
-    Price: $34.50 USD
+    Price: $38.00 USD
   - [White / L](https://www.itsdoggoneawesome.com/products/its-doggone-awesome-logo-and-pets-commitment-love-unisex-hoodie?variant=42616997314638)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-white-front-685065a44aff7.jpg?v=1750099380
-    Price: $34.50 USD
+    Price: $38.00 USD
   - [White / XL](https://www.itsdoggoneawesome.com/products/its-doggone-awesome-logo-and-pets-commitment-love-unisex-hoodie?variant=42616997347406)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-white-front-685065a44aff7.jpg?v=1750099380
-    Price: $34.50 USD
+    Price: $38.00 USD
   - [White / 2XL](https://www.itsdoggoneawesome.com/products/its-doggone-awesome-logo-and-pets-commitment-love-unisex-hoodie?variant=42616997380174)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-white-front-685065a44aff7.jpg?v=1750099380
-    Price: $38.00 USD
+    Price: $40.00 USD
   - [White / 3XL](https://www.itsdoggoneawesome.com/products/its-doggone-awesome-logo-and-pets-commitment-love-unisex-hoodie?variant=42616997412942)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-white-front-685065a44aff7.jpg?v=1750099380
-    Price: $40.50 USD
+    Price: $45.00 USD
   - [White / 4XL](https://www.itsdoggoneawesome.com/products/its-doggone-awesome-logo-and-pets-commitment-love-unisex-hoodie?variant=42616997445710)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-white-front-685065a44aff7.jpg?v=1750099380
-    Price: $44.00 USD
+    Price: $48.00 USD
   - [White / 5XL](https://www.itsdoggoneawesome.com/products/its-doggone-awesome-logo-and-pets-commitment-love-unisex-hoodie?variant=42616997478478)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-white-front-685065a44aff7.jpg?v=1750099380
-    Price: $47.00 USD
+    Price: $50.00 USD
 - [Empty Shelters - Fulfilled Homes and Hearts - Unisex Hoodie](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie): Stay cozy while sharing a powerful message with our soft, high-quality hoodie featuring a heart and the words “Empty Shelters - Fulfilled Homes and Hearts” and a heart with a paw and hand placed together in unity. Designed for comfort and meaning, this hoodie encourages emptying the shelters and providing loving, caring homes for all of the pets.Every hoodie supports our mission to promote responsible pet ownership, assist pet owners in need, and work toward reducing shelter and rescue populations to 20% nationwide by 2035.Wear the message. Inspire compassion. Help keep pets where they belong—home.• 50% pre-shrunk cotton, 50% polyesterHeather Sport Dark Navy is 40% cotton, 60% polyester• Fabric weight: 8.0 oz/yd² (271.25 g/m²)• Air-jet spun yarn with a soft feel and reduced pilling• Double-lined hood with matching drawcord• Quarter-turned body to avoid crease down the middle• 1 × 1 athletic rib-knit cuffs and waistband with spandex• Front pouch pocket• Double-needle stitched collar, shoulders, armholes, cuffs, and hem• Blank product sourced from Bangladesh, Nicaragua, Honduras or El SalvadorDisclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white.This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions! Size guide LENGTH (inches) WIDTH (inches) S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28 3XL 32 30 4XL 33 32 5XL 34 34
-  Updated: 2026-01-13T04:19:55Z
+  Updated: 2026-05-05T03:08:06Z
   Vendor: It's DogGone Awesome
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-sport-grey-front-68507065c075a.jpg?v=1750102135
-  - [Heliconia / S](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617030312014)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-heliconia-front-68507065cc5ef.jpg?v=1750102135
-    Price: $34.50 USD
-  - [Heliconia / M](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617030344782)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-heliconia-front-68507065cc5ef.jpg?v=1750102135
-    Price: $34.50 USD
-  - [Heliconia / L](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617030377550)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-heliconia-front-68507065cc5ef.jpg?v=1750102135
-    Price: $34.50 USD
-  - [Heliconia / XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617030410318)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-heliconia-front-68507065cc5ef.jpg?v=1750102135
-    Price: $34.50 USD
-  - [Heliconia / 2XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617030443086)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-heliconia-front-68507065cc5ef.jpg?v=1750102135
-    Price: $38.00 USD
-  - [Heliconia / 3XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617030475854)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-heliconia-front-68507065cc5ef.jpg?v=1750102135
-    Price: $40.50 USD
-  - [Heliconia / 4XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617030508622)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-heliconia-front-68507065cc5ef.jpg?v=1750102135
-    Price: $44.00 USD
-  - [Heliconia / 5XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617030541390)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-heliconia-front-68507065cc5ef.jpg?v=1750102135
-    Price: $47.00 USD
   - [Sport Grey / S](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617030574158)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-sport-grey-front-68507065c075a.jpg?v=1750102135
-    Price: $34.50 USD
+    Price: $38.00 USD
   - [Sport Grey / M](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617030606926)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-sport-grey-front-68507065c075a.jpg?v=1750102135
-    Price: $34.50 USD
+    Price: $38.00 USD
   - [Sport Grey / L](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617030639694)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-sport-grey-front-68507065c075a.jpg?v=1750102135
-    Price: $34.50 USD
+    Price: $38.00 USD
   - [Sport Grey / XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617030672462)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-sport-grey-front-68507065c075a.jpg?v=1750102135
-    Price: $34.50 USD
+    Price: $38.00 USD
   - [Sport Grey / 2XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617030705230)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-sport-grey-front-68507065c075a.jpg?v=1750102135
-    Price: $38.00 USD
+    Price: $40.00 USD
   - [Sport Grey / 3XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617030737998)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-sport-grey-front-68507065c075a.jpg?v=1750102135
-    Price: $40.50 USD
+    Price: $45.00 USD
   - [Sport Grey / 4XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617030770766)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-sport-grey-front-68507065c075a.jpg?v=1750102135
-    Price: $44.00 USD
+    Price: $48.00 USD
   - [Sport Grey / 5XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617030803534)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-sport-grey-front-68507065c075a.jpg?v=1750102135
-    Price: $47.00 USD
+    Price: $50.00 USD
   - [Carolina Blue / S](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617030836302)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-carolina-blue-front-68507065d30cd.jpg?v=1750102135
-    Price: $34.50 USD
+    Price: $38.00 USD
   - [Carolina Blue / M](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617030869070)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-carolina-blue-front-68507065d30cd.jpg?v=1750102135
-    Price: $34.50 USD
+    Price: $38.00 USD
   - [Carolina Blue / L](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617030901838)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-carolina-blue-front-68507065d30cd.jpg?v=1750102135
-    Price: $34.50 USD
+    Price: $38.00 USD
   - [Carolina Blue / XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617030934606)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-carolina-blue-front-68507065d30cd.jpg?v=1750102135
-    Price: $34.50 USD
+    Price: $38.00 USD
   - [Carolina Blue / 2XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617030967374)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-carolina-blue-front-68507065d30cd.jpg?v=1750102135
-    Price: $38.00 USD
+    Price: $40.00 USD
   - [Carolina Blue / 3XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617031000142)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-carolina-blue-front-68507065d30cd.jpg?v=1750102135
-    Price: $40.50 USD
+    Price: $45.00 USD
   - [Carolina Blue / 4XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617031032910)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-carolina-blue-front-68507065d30cd.jpg?v=1750102135
-    Price: $44.00 USD
+    Price: $48.00 USD
   - [Carolina Blue / 5XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617031065678)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-carolina-blue-front-68507065d30cd.jpg?v=1750102135
-    Price: $47.00 USD
-  - [Gold / S](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617031098446)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-gold-front-68507065dd757.jpg?v=1750102135
-    Price: $34.50 USD
-  - [Gold / M](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617031131214)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-gold-front-68507065dd757.jpg?v=1750102135
-    Price: $34.50 USD
-  - [Gold / L](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617031163982)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-gold-front-68507065dd757.jpg?v=1750102135
-    Price: $34.50 USD
-  - [Gold / XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617031196750)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-gold-front-68507065dd757.jpg?v=1750102135
-    Price: $34.50 USD
-  - [Gold / 2XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617031229518)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-gold-front-68507065dd757.jpg?v=1750102135
-    Price: $38.00 USD
-  - [Gold / 3XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617031262286)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-gold-front-68507065dd757.jpg?v=1750102135
-    Price: $40.50 USD
-  - [Gold / 4XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617031295054)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-gold-front-68507065dd757.jpg?v=1750102135
-    Price: $44.00 USD
-  - [Gold / 5XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617031327822)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-gold-front-68507065dd757.jpg?v=1750102135
-    Price: $47.00 USD
+    Price: $50.00 USD
   - [Ash / S](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617031360590)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-ash-front-68507065ecb65.jpg?v=1750102135
-    Price: $34.50 USD
+    Price: $38.00 USD
   - [Ash / M](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617031393358)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-ash-front-68507065ecb65.jpg?v=1750102135
-    Price: $34.50 USD
+    Price: $38.00 USD
   - [Ash / L](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617031426126)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-ash-front-68507065ecb65.jpg?v=1750102135
-    Price: $34.50 USD
+    Price: $38.00 USD
   - [Ash / XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617031458894)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-ash-front-68507065ecb65.jpg?v=1750102135
-    Price: $34.50 USD
+    Price: $38.00 USD
   - [Ash / 2XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617031491662)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-ash-front-68507065ecb65.jpg?v=1750102135
-    Price: $38.00 USD
+    Price: $40.00 USD
   - [Ash / 3XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617031524430)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-ash-front-68507065ecb65.jpg?v=1750102135
-    Price: $40.50 USD
+    Price: $45.00 USD
   - [Ash / 4XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617031557198)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-ash-front-68507065ecb65.jpg?v=1750102135
-    Price: $44.00 USD
+    Price: $48.00 USD
   - [Ash / 5XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617031589966)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-ash-front-68507065ecb65.jpg?v=1750102135
-    Price: $47.00 USD
+    Price: $50.00 USD
   - [White / S](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617031622734)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-white-front-6850706607a3c.jpg?v=1750102135
-    Price: $34.50 USD
+    Price: $38.00 USD
   - [White / M](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617031655502)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-white-front-6850706607a3c.jpg?v=1750102135
-    Price: $34.50 USD
+    Price: $38.00 USD
   - [White / L](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617031688270)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-white-front-6850706607a3c.jpg?v=1750102135
-    Price: $34.50 USD
+    Price: $38.00 USD
   - [White / XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617031721038)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-white-front-6850706607a3c.jpg?v=1750102135
-    Price: $34.50 USD
+    Price: $38.00 USD
   - [White / 2XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617031753806)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-white-front-6850706607a3c.jpg?v=1750102135
-    Price: $38.00 USD
+    Price: $40.00 USD
   - [White / 3XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617031786574)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-white-front-6850706607a3c.jpg?v=1750102135
-    Price: $40.50 USD
+    Price: $45.00 USD
   - [White / 4XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617031819342)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-white-front-6850706607a3c.jpg?v=1750102135
-    Price: $44.00 USD
+    Price: $48.00 USD
   - [White / 5XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie?variant=42617031852110)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-white-front-6850706607a3c.jpg?v=1750102135
-    Price: $47.00 USD
+    Price: $50.00 USD
 - [“Empty Shelters, Fulfilled Hearts and Homes” Unisex Hoodie](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie-1): Wrap yourself in purpose with this cozy hoodie featuring a heartwarming design of a hand and paw touching in unity. The message, “Empty Shelters, Fulfilled Hearts and Homes,” reflects our mission to reduce shelter populations to 20% nationwide by 2035. Every purchase supports responsible pet ownership and helps keep more pets in the loving homes they deserve. Wear the message. Inspire the mission. • 50% pre-shrunk cotton, 50% polyester Heather Sport Dark Navy is 40% cotton, 60% polyester • Fabric weight: 8.0 oz/yd² (271.25 g/m²) • Air-jet spun yarn with a soft feel and reduced pilling • Double-lined hood with matching drawcord • Quarter-turned body to avoid crease down the middle • 1 × 1 athletic rib-knit cuffs and waistband with spandex • Front pouch pocket • Double-needle stitched collar, shoulders, armholes, cuffs, and hem • Blank product sourced from Bangladesh, Nicaragua, Honduras or El Salvador Disclaimer: Due to the fabric properties, the White color variant may appear off-white rather than bright white. This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!Size guide LENGTH (inches) WIDTH (inches) S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28 3XL 32 30 4XL 33 32 5XL 34 34
-  Updated: 2025-06-21T08:28:36Z
+  Updated: 2026-05-05T02:55:45Z
   Vendor: It's DogGone Awesome
   Product Type: 
   Availability: Available
@@ -812,99 +748,99 @@
   - [Sport Grey / S](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie-1?variant=42629210406990)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-sport-grey-front-6855c45c9cbdf.jpg?v=1750451306
-    Price: $28.50 USD
+    Price: $38.00 USD
   - [Sport Grey / M](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie-1?variant=42629210439758)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-sport-grey-front-6855c45c9cbdf.jpg?v=1750451306
-    Price: $28.50 USD
+    Price: $38.00 USD
   - [Sport Grey / L](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie-1?variant=42629210472526)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-sport-grey-front-6855c45c9cbdf.jpg?v=1750451306
-    Price: $28.50 USD
+    Price: $38.00 USD
   - [Sport Grey / XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie-1?variant=42629210505294)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-sport-grey-front-6855c45c9cbdf.jpg?v=1750451306
-    Price: $28.50 USD
+    Price: $38.00 USD
   - [Sport Grey / 2XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie-1?variant=42629210538062)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-sport-grey-front-6855c45c9cbdf.jpg?v=1750451306
-    Price: $31.50 USD
+    Price: $40.00 USD
   - [Sport Grey / 3XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie-1?variant=42629210570830)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-sport-grey-front-6855c45c9cbdf.jpg?v=1750451306
-    Price: $33.50 USD
+    Price: $45.00 USD
   - [Sport Grey / 4XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie-1?variant=42629210603598)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-sport-grey-front-6855c45c9cbdf.jpg?v=1750451306
-    Price: $36.50 USD
+    Price: $48.00 USD
   - [Sport Grey / 5XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie-1?variant=42629210636366)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-sport-grey-front-6855c45c9cbdf.jpg?v=1750451306
-    Price: $39.00 USD
+    Price: $50.00 USD
   - [Ash / S](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie-1?variant=42629210669134)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-ash-front-6855c45ca070a.jpg?v=1750451306
-    Price: $28.50 USD
+    Price: $38.00 USD
   - [Ash / M](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie-1?variant=42629210701902)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-ash-front-6855c45ca070a.jpg?v=1750451306
-    Price: $28.50 USD
+    Price: $38.00 USD
   - [Ash / L](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie-1?variant=42629210734670)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-ash-front-6855c45ca070a.jpg?v=1750451306
-    Price: $28.50 USD
+    Price: $38.00 USD
   - [Ash / XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie-1?variant=42629210767438)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-ash-front-6855c45ca070a.jpg?v=1750451306
-    Price: $28.50 USD
+    Price: $38.00 USD
   - [Ash / 2XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie-1?variant=42629210800206)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-ash-front-6855c45ca070a.jpg?v=1750451306
-    Price: $31.50 USD
+    Price: $40.00 USD
   - [Ash / 3XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie-1?variant=42629210832974)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-ash-front-6855c45ca070a.jpg?v=1750451306
-    Price: $33.50 USD
+    Price: $45.00 USD
   - [Ash / 4XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie-1?variant=42629210865742)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-ash-front-6855c45ca070a.jpg?v=1750451306
-    Price: $36.50 USD
+    Price: $48.00 USD
   - [Ash / 5XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie-1?variant=42629210898510)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-ash-front-6855c45ca070a.jpg?v=1750451306
-    Price: $39.00 USD
+    Price: $50.00 USD
   - [White / S](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie-1?variant=42629210931278)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-white-front-6855c45ca7f6a.jpg?v=1750451306
-    Price: $28.50 USD
+    Price: $38.00 USD
   - [White / M](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie-1?variant=42629210964046)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-white-front-6855c45ca7f6a.jpg?v=1750451306
-    Price: $28.50 USD
+    Price: $38.00 USD
   - [White / L](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie-1?variant=42629210996814)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-white-front-6855c45ca7f6a.jpg?v=1750451306
-    Price: $28.50 USD
+    Price: $38.00 USD
   - [White / XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie-1?variant=42629211029582)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-white-front-6855c45ca7f6a.jpg?v=1750451306
-    Price: $28.50 USD
+    Price: $38.00 USD
   - [White / 2XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie-1?variant=42629211062350)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-white-front-6855c45ca7f6a.jpg?v=1750451306
-    Price: $31.50 USD
+    Price: $40.00 USD
   - [White / 3XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie-1?variant=42629211095118)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-white-front-6855c45ca7f6a.jpg?v=1750451306
-    Price: $33.50 USD
+    Price: $45.00 USD
   - [White / 4XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie-1?variant=42629211127886)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-white-front-6855c45ca7f6a.jpg?v=1750451306
-    Price: $36.50 USD
+    Price: $48.00 USD
   - [White / 5XL](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-hearts-and-homes-unisex-hoodie-1?variant=42629211160654)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/unisex-heavy-blend-hoodie-white-front-6855c45ca7f6a.jpg?v=1750451306
-    Price: $39.00 USD
+    Price: $50.00 USD
 - [“Empty Shelters, Fulfilled Homes and Hearts” Tote Bag](https://www.itsdoggoneawesome.com/products/empty-shelters-fulfilled-homes-and-hearts-tote-bag): Carry compassion everywhere you go with this durable 15" x 15" polyester tote bag. Featuring a heartfelt design of a hand and paw high-fiving inside a heart, surrounded by the powerful message “Empty Shelters, Fulfilled Homes and Hearts,” this tote is more than a bag—it’s a statement. Perfect for everyday errands, events, or showing your support for responsible pet ownership, every purchase helps advance our mission to reduce shelter populations to 20% nationwide by 2035. Strong enough to carry essentials. Bold enough to carry the message. • 100% polyester • Bag size: 15″ × 15″ (39 × 39 cm) • Capacity: 2.6 US gal (10 l) • Maximum weight limit: 44lbs (20 kg) • Dual handles made from 100% natural cotton bull denim • Handle length: 26″ (67 cm), width 1″ (2.5 cm) • The handles can slightly differ depending on the fulfillment location • Blank product components sourced from Israel This product is made especially for you as soon as you place an order, which is why it takes us a bit longer to deliver it to you. Making products on demand instead of in bulk helps reduce overproduction, so thank you for making thoughtful purchasing decisions!
   Updated: 2026-04-06T01:41:42Z
   Vendor: It's DogGone Awesome
@@ -919,6 +855,219 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/all-over-print-tote-bag-red-15x15-mockup-6855c9c351d76.jpg?v=1750452685
     Price: $18.00 USD
+- [It's DogGone Awesome (Light Blues) Logo Hoodie](https://www.itsdoggoneawesome.com/products/its-doggone-awesome-light-blues-logo-hoodie): Soft and warm Gildan hoodie with a fun design, taken from the logo of It's DogGone Awesome.
+  Updated: 2026-05-05T14:20:25Z
+  Vendor: It's DogGone Awesome
+  Product Type: Hoodie
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/Logo-tweakedApril2026.png?v=1777944261
+  Price: $38.00 USD
+- [T-Shirt — "Slow the Shelter Flow" Graphic Tee](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee): A soft, breathable tee that carries a gentle, earnest message for animal lovers and shelter supporters. The front shows a hand-drawn house outline with playful pets lined up beneath it and the phrase “Slow the Shelter Flow” in a light, friendly script. Wear this shirt on volunteer days, adoption drives, or quiet weekends to share compassion without shouting—subtle artwork and pastel tones make the message warm and approachable. The shirt’s classic crew neck and relaxed fit layer easily under jackets or pair simply with jeans for low-key days that still say something meaningful.Product features- Durable 100% cotton (solid colors) with medium-weight 180 g/m² fabric for year-round comfort- Tubular knit construction (no side seams) for a clean look and reduced fabric waste- Ribbed, elastic collar and shoulder tape to preserve shape and prevent stretching- Dual printing: DTF on sleeves/labels and DTG for main design for crisp, detailed art- Tear-away label, Oeko-Tex , EU 2-year warranty and ethically sourced US cottonCare instructions- Non-chlorine: bleach as needed- Do not iron- Do not dryclean- Machine wash: cold (max 30C or 90F)- Tumble dry: low heat EU representative: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY Product information: Gildan 5000, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: For adults, Made in Nicaragua Care instructions: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, Do not iron, Do not dryclean
+  Updated: 2026-05-06T03:28:10Z
+  Vendor: Printify
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/5439323172389056182_2048.jpg?v=1778035514
+  - [Charcoal / S](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726280228942)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/13674777230145395400_2048.jpg?v=1778035527
+    Price: $21.99 USD
+  - [Maroon / S](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726280261710)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/15574368706361918792_2048.jpg?v=1778035519
+    Price: $21.99 USD
+  - [Natural / S](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726280294478)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/6980021483297728981_2048.jpg?v=1778035522
+    Price: $21.99 USD
+  - [Navy / S](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726280327246)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/12762463641535787139_2048.jpg?v=1778035532
+    Price: $21.99 USD
+  - [Purple / S](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726280360014)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/16382552457228943795_2048.jpg?v=1778035534
+    Price: $21.99 USD
+  - [Red / S](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726280392782)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/14270195278795203644_2048.jpg?v=1778035536
+    Price: $21.99 USD
+  - [Royal / S](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726280425550)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/6130324439897815810_2048.jpg?v=1778035530
+    Price: $21.99 USD
+  - [Sport Grey / S](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726280458318)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/17026033225711607880_2048.jpg?v=1778035517
+    Price: $21.99 USD
+  - [White / S](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726280491086)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/9617283712568286054_2048.jpg?v=1778035512
+    Price: $21.99 USD
+  - [Black / S](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726280523854)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/5439323172389056182_2048.jpg?v=1778035514
+    Price: $21.99 USD
+  - [Forest Green / S](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726280556622)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/7638938676749251992_2048.jpg?v=1778035524
+    Price: $21.99 USD
+  - [Charcoal / M](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726280589390)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/13674777230145395400_2048.jpg?v=1778035527
+    Price: $21.99 USD
+  - [Maroon / M](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726280622158)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/15574368706361918792_2048.jpg?v=1778035519
+    Price: $21.99 USD
+  - [Natural / M](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726280654926)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/6980021483297728981_2048.jpg?v=1778035522
+    Price: $21.99 USD
+  - [Navy / M](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726280687694)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/12762463641535787139_2048.jpg?v=1778035532
+    Price: $21.99 USD
+  - [Purple / M](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726280720462)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/16382552457228943795_2048.jpg?v=1778035534
+    Price: $21.99 USD
+  - [Red / M](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726280753230)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/14270195278795203644_2048.jpg?v=1778035536
+    Price: $21.99 USD
+  - [Royal / M](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726280785998)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/6130324439897815810_2048.jpg?v=1778035530
+    Price: $21.99 USD
+  - [Sport Grey / M](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726280818766)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/17026033225711607880_2048.jpg?v=1778035517
+    Price: $21.99 USD
+  - [White / M](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726280851534)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/9617283712568286054_2048.jpg?v=1778035512
+    Price: $21.99 USD
+  - [Black / M](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726280884302)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/5439323172389056182_2048.jpg?v=1778035514
+    Price: $21.99 USD
+  - [Forest Green / M](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726280917070)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/7638938676749251992_2048.jpg?v=1778035524
+    Price: $21.99 USD
+  - [Charcoal / L](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726280949838)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/13674777230145395400_2048.jpg?v=1778035527
+    Price: $21.99 USD
+  - [Maroon / L](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726280982606)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/15574368706361918792_2048.jpg?v=1778035519
+    Price: $21.99 USD
+  - [Navy / L](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726281015374)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/12762463641535787139_2048.jpg?v=1778035532
+    Price: $21.99 USD
+  - [Purple / L](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726281048142)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/16382552457228943795_2048.jpg?v=1778035534
+    Price: $21.99 USD
+  - [Red / L](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726281080910)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/14270195278795203644_2048.jpg?v=1778035536
+    Price: $21.99 USD
+  - [Royal / L](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726281113678)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/6130324439897815810_2048.jpg?v=1778035530
+    Price: $21.99 USD
+  - [Sport Grey / L](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726281146446)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/17026033225711607880_2048.jpg?v=1778035517
+    Price: $21.99 USD
+  - [White / L](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726281179214)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/9617283712568286054_2048.jpg?v=1778035512
+    Price: $21.99 USD
+  - [Black / L](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726281211982)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/5439323172389056182_2048.jpg?v=1778035514
+    Price: $21.99 USD
+  - [Forest Green / L](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726281244750)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/7638938676749251992_2048.jpg?v=1778035524
+    Price: $21.99 USD
+  - [Charcoal / XL](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726281277518)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/13674777230145395400_2048.jpg?v=1778035527
+    Price: $21.99 USD
+  - [Maroon / XL](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726281310286)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/15574368706361918792_2048.jpg?v=1778035519
+    Price: $21.99 USD
+  - [Natural / XL](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726281343054)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/6980021483297728981_2048.jpg?v=1778035522
+    Price: $21.99 USD
+  - [Navy / XL](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726281375822)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/12762463641535787139_2048.jpg?v=1778035532
+    Price: $21.99 USD
+  - [Purple / XL](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726281408590)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/16382552457228943795_2048.jpg?v=1778035534
+    Price: $21.99 USD
+  - [Red / XL](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726281441358)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/14270195278795203644_2048.jpg?v=1778035536
+    Price: $21.99 USD
+  - [Royal / XL](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726281474126)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/6130324439897815810_2048.jpg?v=1778035530
+    Price: $21.99 USD
+  - [Sport Grey / XL](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726281506894)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/17026033225711607880_2048.jpg?v=1778035517
+    Price: $21.99 USD
+  - [White / XL](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726281539662)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/9617283712568286054_2048.jpg?v=1778035512
+    Price: $21.99 USD
+  - [Black / XL](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726281572430)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/5439323172389056182_2048.jpg?v=1778035514
+    Price: $21.99 USD
+  - [Forest Green / XL](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726281605198)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/7638938676749251992_2048.jpg?v=1778035524
+    Price: $21.99 USD
+  - [Charcoal / 2XL](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726281637966)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/13674777230145395400_2048.jpg?v=1778035527
+    Price: $24.99 USD
+  - [Maroon / 2XL](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726281670734)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/15574368706361918792_2048.jpg?v=1778035519
+    Price: $24.99 USD
+  - [Navy / 2XL](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726281703502)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/12762463641535787139_2048.jpg?v=1778035532
+    Price: $24.99 USD
+  - [Purple / 2XL](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726281736270)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/16382552457228943795_2048.jpg?v=1778035534
+    Price: $24.99 USD
+  - [Red / 2XL](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726281769038)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/14270195278795203644_2048.jpg?v=1778035536
+    Price: $24.99 USD
+  - [Royal / 2XL](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726281801806)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/6130324439897815810_2048.jpg?v=1778035530
+    Price: $24.99 USD
+  - [Sport Grey / 2XL](https://www.itsdoggoneawesome.com/products/t-shirt-slow-the-shelter-flow-rescue-animals-graphic-tee?variant=43726281834574)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0574/2578/9006/files/17026033225711607880_2048.jpg?v=1778035517
+    Price: $24.99 USD
 
 ## Collections
 
@@ -926,8 +1075,8 @@
   Updated: 2026-01-24T02:04:06Z
   Total Products: 4
 - [Apparel](https://www.itsdoggoneawesome.com/collections/apparel): Apparel Department – Where Passion Meets Purpose At It's DogGone Awesome, our Apparel Department goes beyond fashion—it's about wearing your heart on your sleeve. We offer a thoughtfully curated selection of clothing and accessories that reflect the deep bond between people and pets, blending comfort, style, and purpose. Every piece in our collection is designed to celebrate responsible pet ownership and the joy animals bring into our lives. Whether you're looking for cozy sweatshirts with meaningful messages, graphic tees that spark conversations about pet adoption, or accessories that showcase your support for animal welfare, our apparel helps you express your love for pets and your commitment to their well-being. Best of all, each purchase supports our mission to keep pets in loving homes and to educate the public about choosing pets responsibly. With every item, you're not just getting quality apparel—you’re joining a movement. Wear what you believe in. Show your love. Spread the message.
-  Updated: 2025-06-20T23:26:48Z
-  Total Products: 5
+  Updated: 2026-05-06T11:13:08Z
+  Total Products: 7
 - [Books](https://www.itsdoggoneawesome.com/collections/books): The importance of the human-animal bond is becoming more recognized throughout the world. The benefits of owning a pet, whether it be a tiny gerbil, a large Great Dane or miniature cow is amazing in many ways. There are health, mental and social benefits to be considered, the extent of which depends on the particular pet that you have chosen to live with. Choosing that particular pet is an important part of the process, as some animals and people do not suit each other as well as others.The right pet will help the person live a more fulfilling life if it is approached correctly. The books that are forthcoming from Its DogGone Awesome will include information on how to choose the right type of pet for you, your living circumstances and your own unique personality. There will also be fun and engaging coloring books, games and apps that will provide educational and informative information for those who are considering a new pet as well as for the younger people in the home. We hope that you enjoy these books! We welcome any suggestions or thoughts as we work towards the goal of a stronger human-animal bond and less animals in shelters needing new homes or abandoned on the streets.
   Updated: 2026-01-24T02:04:06Z
   Total Products: 5
@@ -969,6 +1118,8 @@
   Updated: 2024-12-13T06:19:27Z
 - [Refund Policy](https://www.itsdoggoneawesome.com/pages/refund-policy): Refund policy We have a 30-day return policy, which means you have 30 days after receiving your item to request a return. To be eligible for a retu...
   Updated: 2024-12-13T06:17:20Z
+- [Apparel Department](https://www.itsdoggoneawesome.com/pages/apparel-department): Apparel Department – Where Passion Meets Purpose At It's DogGone Awesome, our Apparel Department goes beyond fashion—it's about wearing your heart ...
+  Updated: 2026-05-05T01:36:15Z
 - [Links](https://www.itsdoggoneawesome.com/pages/links): The internet is always changing and you may find that some of the links in the books no longer work. Those links will be updated as they have come ...
   Updated: 2026-02-09T00:58:12Z
 - [Slow the Shelter Flow](https://www.itsdoggoneawesome.com/pages/slow-the-shelter-flow): Slow the Shelter Flow Slow the Shelter Flow is a proactive pet retention and education initiative focused on reducing the number of pets entering s...
