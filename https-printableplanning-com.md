@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2026-04-30T08:00:31.706Z
+- Updated At: 2026-05-07T12:00:30.955Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -1898,7 +1898,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Debt_Payoff_Plan_-_Snowball_Method_2_-_Printable_Planning.jpg?v=1558039032
   Price: $5.95 USD
 - [Budget Worksheet - Weekly or Monthly, Green Red Blue - Printable](https://printableplanning.com/products/budget-worksheet-weekly-or-monthly-green-red-blue-printable): A printable Budget Worksheet - Weekly or Monthly, Green Red Blue page to help you keep track of your weekly budget or monthly budget, keeping track of income, fixed and variable expenses, and logging totals including your budgeted and actual totals and a column to show the difference. The income has a green label column, the expenses have a light red label column, and the totals have a blue label column. Use this printable page to track your weekly or monthly budget for yourself or for your family. SPECIFICATIONS: 8.5" x 11" printable PDF page. Offset to the right to allow for a 3-hole punch for binder inclusion. Simple and clean and color category labels. Easily specify weekly or monthly on the page. 4 income rows and 21 expense rows. Print a new printable Budget Worksheet - Weekly or Monthly, Green Red Blue page as needed. OPTION: Get it in a bundle and save! Financial BUNDLE: Budget Worksheet, Bill Payment, Debt Payoff Plan - Printable
-  Updated: 2026-04-01T16:58:03Z
+  Updated: 2026-05-01T14:34:09Z
   Vendor: Artistically Invited
   Product Type: Financial Sheets
   Availability: Available
@@ -2269,7 +2269,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Disability_Care_-_Daily_Care_Sheet_-_Printable_Planning.jpg?v=1561318368
   Price: $5.95 USD
 - [Fundraising Form, 12 Item Columns - Printable](https://printableplanning.com/products/fundraising-form-12-item-columns-printable): A printable fundraising form, 12 item columns with editable fields to fit your organization and cause, and fundraising items. Personalize this PDF file with your cause, organization and contact information, with your items and their prices, and a note along the bottom. This form supports up to 12 items with their prices and up to 10 customers per page. Editable Sections: Fundraising cause (1 line). Organization name, address, and phone (up to 4 lines). 12 Items and their prices. Note along the bottom (1 line). SPECIFICATIONS & BENEFITS: 8.5" x 11" printable PDF page. Simple and clean. Edit the designated text. Fonts, colors, and layout are available only as shown. Digital/Printable purchase. No physical goods will be sent. (Pen not included). Print a new printable fundraising form with 12 item columns as needed for your fundraiser(s).
-  Updated: 2026-04-01T16:58:11Z
+  Updated: 2026-05-02T17:44:47Z
   Vendor: Artistically Invited
   Product Type: Fundraising Forms
   Availability: Available
@@ -2839,22 +2839,22 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
 ## Collections
 
 - [Frontpage](https://printableplanning.com/collections/frontpage)
-  Updated: 2026-04-25T11:02:54Z
+  Updated: 2026-05-03T11:03:34Z
   Total Products: 407
 - [Digital Goods VAT Tax](https://printableplanning.com/collections/digital-goods-vat-tax)
   Updated: 2026-04-17T11:01:23Z
   Total Products: 238
 - [Printable Downloads | Checklists, Planners, Forms, and Trackers](https://printableplanning.com/collections/all): Shop printable downloads for caregiver forms, daily planning, home organization, school helpers, and financial tracking, made to be easy to use.
-  Updated: 2026-04-25T11:02:54Z
+  Updated: 2026-05-03T11:03:34Z
   Total Products: 407
 - [Organization Printables | Lists, Logs, and Helpers](https://printableplanning.com/collections/miscellaneous-organization-pages): Everyday organization printables like  lists, call logs, trackers, and simple helpers for keeping daily details in one place.
-  Updated: 2026-04-25T11:02:54Z
+  Updated: 2026-05-03T11:03:34Z
   Total Products: 13
 - [Caregiver Forms | Health Logs and Housekeeping](https://printableplanning.com/collections/caregivers-health-housekeeping): Printable caregiver forms and logs for families and pet care, plus health info sheets and housekeeping checklists to keep routines organized.
   Updated: 2026-04-09T11:01:09Z
   Total Products: 42
 - [Printable Financial Sheets | Budget, Bills, Savings, and Debt](https://printableplanning.com/collections/financial-sheets): Printable financial sheets to track budgeting, bills, tithing, savings, and debt payoff. Simple pages for monthly planning and everyday money routines.
-  Updated: 2026-04-01T16:57:21Z
+  Updated: 2026-05-02T11:01:33Z
   Total Products: 43
 - [Holiday and Occasion Printables | Gift Tags, RSVPs, and More](https://printableplanning.com/collections/holiday-and-occasion-printable-pages): Holiday and occasion printables like gift tags, RSVP and guest list pages, gift planning lists, and more for organized celebrations.
   Updated: 2026-04-08T11:01:24Z
@@ -2872,7 +2872,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Updated: 2026-04-08T11:01:24Z
   Total Products: 53
 - [School and Teacher Printables | Forms, Labels, and Checklists](https://printableplanning.com/collections/school-and-teachers): School and teacher printables for grading, homework, supply labels, and classroom organization. Download files and print as needed all year.
-  Updated: 2026-04-21T11:01:42Z
+  Updated: 2026-05-03T11:03:34Z
   Total Products: 42
 - [Children’s Printables | Chore Charts, Activities, and Helpers](https://printableplanning.com/collections/childrens-printable-pages): Children’s printables like chore charts, activity pages, and fun helpers for routines at home. Great for families, rewards, and busy days.
   Updated: 2026-04-08T11:01:24Z
