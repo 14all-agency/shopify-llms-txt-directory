@@ -8,315 +8,833 @@
 - Timezone: Australia/Melbourne
 - Created At: 2024-05-15T10:02:41Z
 - Contact Email: hello@adbchistory.com
-- Updated At: 2026-04-30T16:00:26.075Z
+- Updated At: 2026-05-07T20:00:24.941Z
 
 ## Products
 
-- [Athena, Greek Goddess of Wisdom - iPhone Magnetic Phone Case | AD/BC](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case): Athena commanding a war room, aegis across her chest, owl watching from above. Tough dual-layer MagSafe protection. For those already three moves ahead.
-  Updated: 2026-04-30T14:44:40Z
+- [Mars, Roman God of War - Tough Phone Case](https://www.adbchistory.com/products/mars-tough-phone-case): Mars Ultor leading Rome's legions, painted in vivid detail. For leaders, fighters, and mythology lovers. Thick case for iPhone, Samsung & Pixel.
+  Updated: 2026-05-07T17:58:30Z
   Vendor: AD/BC
   Product Type: Phone Case
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/18059424515678262482_2048.jpg?v=1777374965
-  - [iPhone 17](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871518429)
+  Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/15553128057360483144_2048.jpg?v=1778174101
+  - [Samsung Galaxy S26](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891655590109)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/18362075031111812932_2048.jpg?v=1777374984
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/11548299104710818520_2048.jpg?v=1778174225
     Price: $50.00 AUD
-  - [iPhone 17 Air](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871551197)
+  - [Samsung Galaxy S26 Plus](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891655622877)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/11465882325013732845_2048.jpg?v=1777374984
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/3739933348309803467_2048.jpg?v=1778174227
     Price: $50.00 AUD
-  - [iPhone 17 Pro](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871583965)
+  - [Samsung Galaxy S26 Ultra](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891655655645)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/6352460789954759968_2048.jpg?v=1777374985
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/8094840305619911287_2048.jpg?v=1778174229
     Price: $50.00 AUD
-  - [iPhone 17 Pro Max](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871616733)
+  - [iPhone 17 Air](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891655688413)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/6083546099473841904_2048.jpg?v=1777374986
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/13004092541343094010_2048.jpg?v=1778174215
     Price: $50.00 AUD
-  - [iPhone 16](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871649501)
+  - [iPhone 17](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891655721181)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/18409760503973363135_2048.jpg?v=1777374981
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/1224404770875599828_2048.jpg?v=1778174213
     Price: $50.00 AUD
-  - [iPhone 16 Pro](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871682269)
+  - [iPhone 17 Pro](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891655753949)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/8903698446849553560_2048.jpg?v=1777374977
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/16413378545614321364_2048.jpg?v=1778174218
     Price: $50.00 AUD
-  - [iPhone 16 Pro Max](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871715037)
+  - [iPhone 17 Pro Max](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891655786717)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/8454770405284732064_2048.jpg?v=1777374979
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/11435426156718956289_2048.jpg?v=1778174222
     Price: $50.00 AUD
-  - [iPhone 16 Plus](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871747805)
+  - [iPhone 16](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891655819485)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/11826235268398692122_2048.jpg?v=1777374982
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/15553128057360483144_2048.jpg?v=1778174101
     Price: $50.00 AUD
-  - [iPhone 15](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871780573)
+  - [iPhone 16 Pro](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891655852253)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/18059424515678262482_2048.jpg?v=1777374965
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/12946528519455542603_2048.jpg?v=1778174199
     Price: $50.00 AUD
-  - [iPhone 15 Pro](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871813341)
+  - [iPhone 16 Pro Max](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891655885021)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/5172598737535223150_2048.jpg?v=1777374965
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/2844425055108966237_2048.jpg?v=1778174103
     Price: $50.00 AUD
-  - [iPhone 15 Pro Max](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871846109)
+  - [iPhone 16 Plus](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891655917789)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/10295032185806646266_2048.jpg?v=1777374969
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/12661815352906417027_2048.jpg?v=1778174197
     Price: $50.00 AUD
-  - [iPhone 15 Plus](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871878877)
+  - [iPhone 15](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891655950557)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/710833483619380545_2048.jpg?v=1777374967
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/15984979409158345198_2048.jpg?v=1778174179
     Price: $50.00 AUD
-  - [iPhone 14](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871911645)
+  - [iPhone 15 Pro](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891655983325)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/14752250250004933677_2048.jpg?v=1777374970
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/1702023193135550294_2048.jpg?v=1778174183
     Price: $50.00 AUD
-  - [iPhone 14 Pro](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871944413)
+  - [iPhone 15 Pro Max](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656016093)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/11059548165605038233_2048.jpg?v=1777374972
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/4137787659790446020_2048.jpg?v=1778174185
     Price: $50.00 AUD
-  - [iPhone 14 Pro Max](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672871977181)
+  - [iPhone 15 Plus](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656048861)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/3227837936856170368_2048.jpg?v=1777374975
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/7938286416800451506_2048.jpg?v=1778174181
     Price: $50.00 AUD
-  - [iPhone 14 Plus](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672872009949)
+  - [iPhone 14](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656081629)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/5398838044342067817_2048.jpg?v=1777374974
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/12790327194391565718_2048.jpg?v=1778174163
     Price: $50.00 AUD
-  - [iPhone 13](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672872042717)
+  - [iPhone 14 Pro](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656114397)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/15054166323500142034_2048.jpg?v=1777374987
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/5412551345013109825_2048.jpg?v=1778174165
     Price: $50.00 AUD
-  - [iPhone 13 Pro](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672872075485)
+  - [iPhone 14 Pro Max](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656147165)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/7312446337867210291_2048.jpg?v=1777374988
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/588800907902070227_2048.jpg?v=1778174168
     Price: $50.00 AUD
-  - [iPhone 13 Pro Max](https://www.adbchistory.com/products/athena-greek-goddess-of-wisdom-iphone-magnetic-phone-case?variant=47672872108253)
+  - [iPhone 14 Plus](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656179933)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/15319559103615796993_2048.jpg?v=1777374989
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/5646472526292414_2048.jpg?v=1778174166
     Price: $50.00 AUD
-- [Anubis, Egyptian God of the Dead - iPhone Magnetic Phone Case | AD/BC](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case): Anubis guarding the entrance to the underworld, golden eyes and crook and flail. Tough dual-layer MagSafe case. For the person in your life who never flinches.
-  Updated: 2026-04-30T14:44:40Z
+  - [iPhone 13](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656212701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/7697982432482670952_2048.jpg?v=1778174136
+    Price: $50.00 AUD
+  - [iPhone 13 Mini](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656245469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/13335713129410430970_2048.jpg?v=1778174139
+    Price: $50.00 AUD
+  - [iPhone 13 Pro](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656278237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/9449276920909219787_2048.jpg?v=1778174142
+    Price: $50.00 AUD
+  - [iPhone 13 Pro Max](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656311005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/14372315573580448666_2048.jpg?v=1778174144
+    Price: $50.00 AUD
+  - [iPhone 12](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656343773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/17565619914799159380_2048.jpg?v=1778174130
+    Price: $50.00 AUD
+  - [iPhone 12 Mini](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656376541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/761906441237975128_2048.jpg?v=1778174126
+    Price: $50.00 AUD
+  - [iPhone 12 Pro](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656409309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/11738760335878315207_2048.jpg?v=1778174131
+    Price: $50.00 AUD
+  - [iPhone 12 Pro Max](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656442077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/15682085024714143869_2048.jpg?v=1778174134
+    Price: $50.00 AUD
+  - [iPhone 11](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656474845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/11506021556927532979_2048.jpg?v=1778174115
+    Price: $50.00 AUD
+  - [iPhone 11 Pro](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656507613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/11508125008346598352_2048.jpg?v=1778174117
+    Price: $50.00 AUD
+  - [iPhone 11 Pro Max](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656540381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/9674850934300518923_2048.jpg?v=1778174119
+    Price: $50.00 AUD
+  - [iPhone X](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656573149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/7481636401255111700_2048.jpg?v=1778174108
+    Price: $50.00 AUD
+  - [iPhone XR](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656605917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/5215372081482940523_2048.jpg?v=1778174110
+    Price: $50.00 AUD
+  - [iPhone XS](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656638685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/13986516810517289238_2048.jpg?v=1778174111
+    Price: $50.00 AUD
+  - [iPhone XS MAX](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656671453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/8865797096137297666_2048.jpg?v=1778174114
+    Price: $50.00 AUD
+  - [iPhone 8](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656704221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/8954391259855436993_2048.jpg?v=1778174104
+    Price: $50.00 AUD
+  - [iPhone 8 Plus](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656736989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/12873571419362247236_2048.jpg?v=1778174106
+    Price: $50.00 AUD
+  - [Google Pixel 9](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656769757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/4029485452662550949_2048.jpg?v=1778174201
+    Price: $50.00 AUD
+  - [Google Pixel 9 Pro](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656802525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/17655259652916577916_2048.jpg?v=1778174203
+    Price: $50.00 AUD
+  - [Google Pixel 9 Pro XL](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656835293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/2430635274466971240_2048.jpg?v=1778174205
+    Price: $50.00 AUD
+  - [Google Pixel 8](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656868061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/6828384372902597288_2048.jpg?v=1778174195
+    Price: $50.00 AUD
+  - [Google Pixel 8 Pro](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656900829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/9706538074078206877_2048.jpg?v=1778174193
+    Price: $50.00 AUD
+  - [Google Pixel 7](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656933597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/8789277521643169603_2048.jpg?v=1778174174
+    Price: $50.00 AUD
+  - [Google Pixel 6](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656966365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/6069392989941018723_2048.jpg?v=1778174151
+    Price: $50.00 AUD
+  - [Google Pixel 6 Pro](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891656999133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/5588011527431505558_2048.jpg?v=1778174176
+    Price: $50.00 AUD
+  - [Samsung Galaxy S25](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891657031901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/3231123629347046094_2048.jpg?v=1778174206
+    Price: $50.00 AUD
+  - [Samsung Galaxy S25 Plus](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891657064669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/188355201574855402_2048.jpg?v=1778174208
+    Price: $50.00 AUD
+  - [Samsung Galaxy S25 Ultra](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891657097437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/9049229876711433061_2048.jpg?v=1778174210
+    Price: $50.00 AUD
+  - [Samsung Galaxy S24](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891657130205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/5538587104779177017_2048.jpg?v=1778174187
+    Price: $50.00 AUD
+  - [Samsung Galaxy S24 Plus](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891657162973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/17565960422248211012_2048.jpg?v=1778174189
+    Price: $50.00 AUD
+  - [Samsung Galaxy S24 Ultra](https://www.adbchistory.com/products/mars-tough-phone-case?variant=47891657195741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/8716123227666220257_2048.jpg?v=1778174191
+    Price: $50.00 AUD
+- [Apollo, Greek God of Music - Tough Phone Case](https://www.adbchistory.com/products/apollo-tough-phone-case): Apollo playing his lyre at Delphi, painted in vivid detail. For artists, musicians, and mythology lovers. Thick case for iPhone, Samsung & Pixel.
+  Updated: 2026-05-07T17:56:43Z
   Vendor: AD/BC
   Product Type: Phone Case
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/9663942460015745749_2048.jpg?v=1777374149
-  - [iPhone 17](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487520989)
+  Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/11859595301553947083_2048.jpg?v=1778171551
+  - [Samsung Galaxy S26](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891716505821)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/9915821600904965149_2048.jpg?v=1777374203
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/17910045765321734392_2048.jpg?v=1778171797
     Price: $50.00 AUD
-  - [iPhone 17 Air](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487553757)
+  - [Samsung Galaxy S26 Plus](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891716538589)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/8765169935263681446_2048.jpg?v=1777374207
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/17856684139626199098_2048.jpg?v=1778171801
     Price: $50.00 AUD
-  - [iPhone 17 Pro](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487586525)
+  - [Samsung Galaxy S26 Ultra](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891716571357)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/14038162079419891547_2048.jpg?v=1777374210
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/14268211342968456973_2048.jpg?v=1778171805
     Price: $50.00 AUD
-  - [iPhone 17 Pro Max](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487619293)
+  - [iPhone 17 Air](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891716604125)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/3328417393155691289_2048.jpg?v=1777374214
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/1907590999043972748_2048.jpg?v=1778171782
     Price: $50.00 AUD
-  - [iPhone 16](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487652061)
+  - [iPhone 17](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891716636893)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/12826107085636837167_2048.jpg?v=1777374194
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/14183851155447865337_2048.jpg?v=1778171778
     Price: $50.00 AUD
-  - [iPhone 16 Pro](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487684829)
+  - [iPhone 17 Pro](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891716669661)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/4059829999904765371_2048.jpg?v=1777374190
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/16900768033687454277_2048.jpg?v=1778171787
     Price: $50.00 AUD
-  - [iPhone 16 Pro Max](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487717597)
+  - [iPhone 17 Pro Max](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891716702429)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/9663942460015745749_2048.jpg?v=1777374149
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/12589184407487921551_2048.jpg?v=1778171791
     Price: $50.00 AUD
-  - [iPhone 16 Plus](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487750365)
+  - [iPhone 16](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891716735197)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/10394268775187327043_2048.jpg?v=1777374198
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/11859595301553947083_2048.jpg?v=1778171551
     Price: $50.00 AUD
-  - [iPhone 15](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487783133)
+  - [iPhone 16 Pro](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891716767965)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/8448842418511561178_2048.jpg?v=1777374153
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/9554287493480785661_2048.jpg?v=1778171744
     Price: $50.00 AUD
-  - [iPhone 15 Pro](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487815901)
+  - [iPhone 16 Pro Max](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891716800733)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/1527993856131578158_2048.jpg?v=1777374156
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/1410581378842172903_2048.jpg?v=1778171748
     Price: $50.00 AUD
-  - [iPhone 15 Pro Max](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487848669)
+  - [iPhone 16 Plus](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891716833501)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/11391441850376360796_2048.jpg?v=1777374165
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/9452455690420666430_2048.jpg?v=1778171740
     Price: $50.00 AUD
-  - [iPhone 15 Plus](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487881437)
+  - [iPhone 15](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891716866269)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/15868698851653035055_2048.jpg?v=1777374160
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/14053503741265534682_2048.jpg?v=1778171700
     Price: $50.00 AUD
-  - [iPhone 14](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487914205)
+  - [iPhone 15 Pro](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891716899037)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/15597086529066116005_2048.jpg?v=1777374169
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/9687610593919115323_2048.jpg?v=1778171709
     Price: $50.00 AUD
-  - [iPhone 14 Pro](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487946973)
+  - [iPhone 15 Pro Max](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891716931805)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/17321466249031673140_2048.jpg?v=1777374174
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/3376476956223027517_2048.jpg?v=1778171714
     Price: $50.00 AUD
-  - [iPhone 14 Pro Max](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687487979741)
+  - [iPhone 15 Plus](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891716964573)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/14787403351793689403_2048.jpg?v=1777374184
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/16960757960642233839_2048.jpg?v=1778171705
     Price: $50.00 AUD
-  - [iPhone 14 Plus](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687488012509)
+  - [iPhone 14](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891716997341)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/12318327653653618404_2048.jpg?v=1777374179
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/8602850985276674849_2048.jpg?v=1778171659
     Price: $50.00 AUD
-  - [iPhone 13](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687488045277)
+  - [iPhone 14 Pro](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717030109)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/17545120556210973163_2048.jpg?v=1777374218
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/6440553796739646636_2048.jpg?v=1778171664
     Price: $50.00 AUD
-  - [iPhone 13 Pro](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687488078045)
+  - [iPhone 14 Pro Max](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717062877)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/274109976281758823_2048.jpg?v=1777374222
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/4789285849459922298_2048.jpg?v=1778171673
     Price: $50.00 AUD
-  - [iPhone 13 Pro Max](https://www.adbchistory.com/products/anubis-egyptian-god-of-the-dead-iphone-magnetic-phone-case?variant=47687488110813)
+  - [iPhone 14 Plus](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717095645)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/9959157476249179270_2048.jpg?v=1777374227
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/13540467950841891063_2048.jpg?v=1778171668
     Price: $50.00 AUD
-- [Odin, the Viking Allfather - iPhone Magnetic Phone Case | AD/BC](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case): Odin seated on Hlidskjalf, Gungnir across his knees, one eye watching nine worlds. Tough dual-layer MagSafe case. For the ones who know knowledge comes at a price.
-  Updated: 2026-04-30T14:44:41Z
+  - [iPhone 13](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717128413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/3028258976704111359_2048.jpg?v=1778171611
+    Price: $50.00 AUD
+  - [iPhone 13 Mini](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717161181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/8185715980631281170_2048.jpg?v=1778171614
+    Price: $50.00 AUD
+  - [iPhone 13 Pro](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717193949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/8192146796971467502_2048.jpg?v=1778171617
+    Price: $50.00 AUD
+  - [iPhone 13 Pro Max](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717226717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/18443121559954762103_2048.jpg?v=1778171620
+    Price: $50.00 AUD
+  - [iPhone 12](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717259485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/17727455806189437448_2048.jpg?v=1778171599
+    Price: $50.00 AUD
+  - [iPhone 12 Mini](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717292253)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/1598462831627910929_2048.jpg?v=1778171596
+    Price: $50.00 AUD
+  - [iPhone 12 Pro](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717325021)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/1008141108921952962_2048.jpg?v=1778171603
+    Price: $50.00 AUD
+  - [iPhone 12 Pro Max](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717357789)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/10294092724942819220_2048.jpg?v=1778171606
+    Price: $50.00 AUD
+  - [iPhone 11](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717390557)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/2125991507027082807_2048.jpg?v=1778171575
+    Price: $50.00 AUD
+  - [iPhone 11 Pro](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717423325)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/18327520672003364971_2048.jpg?v=1778171577
+    Price: $50.00 AUD
+  - [iPhone 11 Pro Max](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717456093)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/15282115671351651940_2048.jpg?v=1778171580
+    Price: $50.00 AUD
+  - [iPhone X](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717488861)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/13096168204574427554_2048.jpg?v=1778171561
+    Price: $50.00 AUD
+  - [iPhone XR](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717521629)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/9407590898832928534_2048.jpg?v=1778171564
+    Price: $50.00 AUD
+  - [iPhone XS](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717554397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/12639197952871553844_2048.jpg?v=1778171568
+    Price: $50.00 AUD
+  - [iPhone XS MAX](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717587165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/5185336964932828459_2048.jpg?v=1778171571
+    Price: $50.00 AUD
+  - [iPhone 8](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717619933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/9953249876038290576_2048.jpg?v=1778171554
+    Price: $50.00 AUD
+  - [iPhone 8 Plus](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717652701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/1035751286530512464_2048.jpg?v=1778171558
+    Price: $50.00 AUD
+  - [Google Pixel 9](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717685469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/11289880560188395527_2048.jpg?v=1778171752
+    Price: $50.00 AUD
+  - [Google Pixel 9 Pro](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717718237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/14394284147850040011_2048.jpg?v=1778171757
+    Price: $50.00 AUD
+  - [Google Pixel 9 Pro XL](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717751005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/5542600093412472480_2048.jpg?v=1778171761
+    Price: $50.00 AUD
+  - [Google Pixel 8](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717783773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/13331890741152886166_2048.jpg?v=1778171736
+    Price: $50.00 AUD
+  - [Google Pixel 8 Pro](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717816541)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/12695882305929606970_2048.jpg?v=1778171732
+    Price: $50.00 AUD
+  - [Google Pixel 7](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717849309)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/10239163579534554150_2048.jpg?v=1778171690
+    Price: $50.00 AUD
+  - [Google Pixel 6](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717882077)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/1167408568507547528_2048.jpg?v=1778171634
+    Price: $50.00 AUD
+  - [Google Pixel 6 Pro](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717914845)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/10705830539739980389_2048.jpg?v=1778171695
+    Price: $50.00 AUD
+  - [Samsung Galaxy S25](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717947613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/7880518895588363853_2048.jpg?v=1778171767
+    Price: $50.00 AUD
+  - [Samsung Galaxy S25 Plus](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891717980381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/3434060671937054029_2048.jpg?v=1778171770
+    Price: $50.00 AUD
+  - [Samsung Galaxy S25 Ultra](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891718013149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/3094937069204943943_2048.jpg?v=1778171774
+    Price: $50.00 AUD
+  - [Samsung Galaxy S24](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891718045917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/18371608044671482711_2048.jpg?v=1778171719
+    Price: $50.00 AUD
+  - [Samsung Galaxy S24 Plus](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891718078685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/16642971563764299225_2048.jpg?v=1778171723
+    Price: $50.00 AUD
+  - [Samsung Galaxy S24 Ultra](https://www.adbchistory.com/products/apollo-tough-phone-case?variant=47891718111453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/17456284425633022479_2048.jpg?v=1778171728
+    Price: $50.00 AUD
+- [Selene, Greek Goddess of the Moon - Tough Phone Case](https://www.adbchistory.com/products/selene-tough-phone-case): Selene watching over her beloved Endymion, painted in vivid detail. For dreamers, romantics, and mythology lovers. Thick case for iPhone, Samsung & Pixel.
+  Updated: 2026-05-07T17:58:44Z
   Vendor: AD/BC
   Product Type: Phone Case
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/16955820863407287304_2048.jpg?v=1777374419
-  - [iPhone 17](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681376477)
+  Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/16205728853469969281_2048.jpg?v=1778174411
+  - [Samsung Galaxy S26](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891910754525)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/15915190916686297136_2048.jpg?v=1777374474
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/15106993151431733305_2048.jpg?v=1778174526
     Price: $50.00 AUD
-  - [iPhone 17 Air](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681409245)
+  - [Samsung Galaxy S26 Plus](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891910787293)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/10692656148948700978_2048.jpg?v=1777374477
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/9572936586684762690_2048.jpg?v=1778174528
     Price: $50.00 AUD
-  - [iPhone 17 Pro](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681442013)
+  - [Samsung Galaxy S26 Ultra](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891910820061)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/1870944370179415020_2048.jpg?v=1777374481
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/5255502192495358980_2048.jpg?v=1778174531
     Price: $50.00 AUD
-  - [iPhone 17 Pro Max](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681474781)
+  - [iPhone 17 Air](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891910852829)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/5035420906956936888_2048.jpg?v=1777374485
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/13678512173787224316_2048.jpg?v=1778174520
     Price: $50.00 AUD
-  - [iPhone 16](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681507549)
+  - [iPhone 17](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891910885597)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/4464921325372174053_2048.jpg?v=1777374465
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/15326636894703808960_2048.jpg?v=1778174518
     Price: $50.00 AUD
-  - [iPhone 16 Pro](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681540317)
+  - [iPhone 17 Pro](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891910918365)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/15661118960520464096_2048.jpg?v=1777374461
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/7792983190508943513_2048.jpg?v=1778174522
     Price: $50.00 AUD
-  - [iPhone 16 Pro Max](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681573085)
+  - [iPhone 17 Pro Max](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891910951133)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/16955820863407287304_2048.jpg?v=1777374419
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/13952635805544232810_2048.jpg?v=1778174525
     Price: $50.00 AUD
-  - [iPhone 16 Plus](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681605853)
+  - [iPhone 16](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891910983901)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/4989739704050649138_2048.jpg?v=1777374470
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/16205728853469969281_2048.jpg?v=1778174411
     Price: $50.00 AUD
-  - [iPhone 15](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681638621)
+  - [iPhone 16 Pro](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911016669)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/1082253216713155847_2048.jpg?v=1777374426
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/6101811017054158306_2048.jpg?v=1778174501
     Price: $50.00 AUD
-  - [iPhone 15 Pro](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681671389)
+  - [iPhone 16 Pro Max](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911049437)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/5732393657193970468_2048.jpg?v=1777374431
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/10328123100220617301_2048.jpg?v=1778174502
     Price: $50.00 AUD
-  - [iPhone 15 Pro Max](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681704157)
+  - [iPhone 16 Plus](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911082205)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/16541730774042949938_2048.jpg?v=1777374440
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/13496005366308703649_2048.jpg?v=1778174498
     Price: $50.00 AUD
-  - [iPhone 15 Plus](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681736925)
+  - [iPhone 15](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911114973)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/2114626116896830185_2048.jpg?v=1777374435
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/10098420022057850731_2048.jpg?v=1778174483
     Price: $50.00 AUD
-  - [iPhone 14](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681769693)
+  - [iPhone 15 Pro](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911147741)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/807816849752314882_2048.jpg?v=1777374444
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/6637028942394320945_2048.jpg?v=1778174487
     Price: $50.00 AUD
-  - [iPhone 14 Pro](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681802461)
+  - [iPhone 15 Pro Max](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911180509)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/6112087308591466252_2048.jpg?v=1777374448
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/16588672698604855056_2048.jpg?v=1778174489
     Price: $50.00 AUD
-  - [iPhone 14 Pro Max](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681835229)
+  - [iPhone 15 Plus](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911213277)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/17722127112028334949_2048.jpg?v=1777374457
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/250804510632584899_2048.jpg?v=1778174485
     Price: $50.00 AUD
-  - [iPhone 14 Plus](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681867997)
+  - [iPhone 14](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911246045)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/6424560119675010434_2048.jpg?v=1777374452
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/15431882554768575081_2048.jpg?v=1778174466
     Price: $50.00 AUD
-  - [iPhone 13](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681900765)
+  - [iPhone 14 Pro](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911278813)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/10037057361557837817_2048.jpg?v=1777374489
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/1229343769703962553_2048.jpg?v=1778174468
     Price: $50.00 AUD
-  - [iPhone 13 Pro](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681933533)
+  - [iPhone 14 Pro Max](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911311581)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/11780835365436236984_2048.jpg?v=1777374493
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/17935054942881939369_2048.jpg?v=1778174472
     Price: $50.00 AUD
-  - [iPhone 13 Pro Max](https://www.adbchistory.com/products/odin-the-viking-allfather-iphone-magnetic-phone-case?variant=47687681966301)
+  - [iPhone 14 Plus](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911344349)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/8141489103507090589_2048.jpg?v=1777374497
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/6929793182608336835_2048.jpg?v=1778174469
     Price: $50.00 AUD
-- [Apollo, Greek God of Music - iPhone Magnetic Phone Case | AD/BC](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case): Apollo plays his kithara on the temple steps at Delphi. Rustic oil painting design on a tough dual-layer MagSafe iPhone case. For the talented artist in your life.
-  Updated: 2026-04-30T14:44:41Z
+  - [iPhone 13](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911377117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/9885758353080214343_2048.jpg?v=1778174441
+    Price: $50.00 AUD
+  - [iPhone 13 Mini](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911409885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/18320261282572154514_2048.jpg?v=1778174444
+    Price: $50.00 AUD
+  - [iPhone 13 Pro](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911442653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/7597462363102024177_2048.jpg?v=1778174446
+    Price: $50.00 AUD
+  - [iPhone 13 Pro Max](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911475421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/7563631908078524952_2048.jpg?v=1778174449
+    Price: $50.00 AUD
+  - [iPhone 12](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911508189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/18278371714010604387_2048.jpg?v=1778174435
+    Price: $50.00 AUD
+  - [iPhone 12 Mini](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911540957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/12344518703200381196_2048.jpg?v=1778174432
+    Price: $50.00 AUD
+  - [iPhone 12 Pro](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911573725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/2278182972874219154_2048.jpg?v=1778174436
+    Price: $50.00 AUD
+  - [iPhone 12 Pro Max](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911606493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/3298370086279197935_2048.jpg?v=1778174439
+    Price: $50.00 AUD
+  - [iPhone 11](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911639261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/3736069941238656349_2048.jpg?v=1778174422
+    Price: $50.00 AUD
+  - [iPhone 11 Pro](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911672029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/531443629007295742_2048.jpg?v=1778174423
+    Price: $50.00 AUD
+  - [iPhone 11 Pro Max](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911704797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/12942491681203180688_2048.jpg?v=1778174425
+    Price: $50.00 AUD
+  - [iPhone X](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911737565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/6499801831828854930_2048.jpg?v=1778174417
+    Price: $50.00 AUD
+  - [iPhone XR](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911770333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/1425012767319877799_2048.jpg?v=1778174417
+    Price: $50.00 AUD
+  - [iPhone XS](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911803101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/386807424981880984_2048.jpg?v=1778174419
+    Price: $50.00 AUD
+  - [iPhone XS MAX](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911835869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/1195514671070336082_2048.jpg?v=1778174419
+    Price: $50.00 AUD
+  - [iPhone 8](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911868637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/16052245540461278478_2048.jpg?v=1778174413
+    Price: $50.00 AUD
+  - [iPhone 8 Plus](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911901405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/1570416999129734848_2048.jpg?v=1778174414
+    Price: $50.00 AUD
+  - [Google Pixel 9](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911934173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/11615417242489553478_2048.jpg?v=1778174504
+    Price: $50.00 AUD
+  - [Google Pixel 9 Pro](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911966941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/9620827905228546854_2048.jpg?v=1778174507
+    Price: $50.00 AUD
+  - [Google Pixel 9 Pro XL](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891911999709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/11355107575082175257_2048.jpg?v=1778174509
+    Price: $50.00 AUD
+  - [Google Pixel 8](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891912032477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/13663681520786298026_2048.jpg?v=1778174496
+    Price: $50.00 AUD
+  - [Google Pixel 8 Pro](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891912065245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/6648678673229872647_2048.jpg?v=1778174495
+    Price: $50.00 AUD
+  - [Google Pixel 7](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891912098013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/14675281264260407704_2048.jpg?v=1778174479
+    Price: $50.00 AUD
+  - [Google Pixel 6](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891912130781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/10187515127579123090_2048.jpg?v=1778174456
+    Price: $50.00 AUD
+  - [Google Pixel 6 Pro](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891912163549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/3110785446502191099_2048.jpg?v=1778174481
+    Price: $50.00 AUD
+  - [Samsung Galaxy S25](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891912196317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/7585432082298178900_2048.jpg?v=1778174511
+    Price: $50.00 AUD
+  - [Samsung Galaxy S25 Plus](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891912229085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/10448926489580167336_2048.jpg?v=1778174514
+    Price: $50.00 AUD
+  - [Samsung Galaxy S25 Ultra](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891912261853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/10209913565114997490_2048.jpg?v=1778174516
+    Price: $50.00 AUD
+  - [Samsung Galaxy S24](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891912294621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/9666796855501887118_2048.jpg?v=1778174490
+    Price: $50.00 AUD
+  - [Samsung Galaxy S24 Plus](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891912327389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/7299312435112524014_2048.jpg?v=1778174491
+    Price: $50.00 AUD
+  - [Samsung Galaxy S24 Ultra](https://www.adbchistory.com/products/selene-tough-phone-case?variant=47891912360157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/13401629160754951082_2048.jpg?v=1778174493
+    Price: $50.00 AUD
+- [Helios, Greek God of the Sun - Tough Phone Case](https://www.adbchistory.com/products/helios-tough-phone-case): Helios driving his chariot across the sky, painted in vivid detail. For early risers, adventurers, and mythology lovers. Thick case for iPhone, Samsung & Pixel.
+  Updated: 2026-05-07T17:58:22Z
   Vendor: AD/BC
   Product Type: Phone Case
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/Carousel-Apollo1.webp?v=1777391514
-  - [iPhone 17](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545289437)
+  Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/3456047629515990881_2048.jpg?v=1778175942
+  - [Samsung Galaxy S26](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891939229917)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/4953714233058895842_2048.jpg?v=1778176115
     Price: $50.00 AUD
-  - [iPhone 17 Air](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545322205)
+  - [Samsung Galaxy S26 Plus](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891939262685)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/7498717103282809375_2048.jpg?v=1778176118
     Price: $50.00 AUD
-  - [iPhone 17 Pro](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545354973)
+  - [Samsung Galaxy S26 Ultra](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891939295453)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/13845908077683835254_2048.jpg?v=1778176121
     Price: $50.00 AUD
-  - [iPhone 17 Pro Max](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545387741)
+  - [iPhone 17 Air](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891939328221)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/8410784119747767000_2048.jpg?v=1778176108
     Price: $50.00 AUD
-  - [iPhone 16](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545420509)
+  - [iPhone 17](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891939360989)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/10248003356874011235_2048.jpg?v=1778176106
     Price: $50.00 AUD
-  - [iPhone 16 Plus](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545518813)
+  - [iPhone 17 Pro](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891939393757)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/9464982689942943958_2048.jpg?v=1778176110
     Price: $50.00 AUD
-  - [iPhone 16 Pro Max](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545486045)
+  - [iPhone 17 Pro Max](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891939426525)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/14746043932624865341_2048.jpg?v=1778176112
     Price: $50.00 AUD
-  - [iPhone 15](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545551581)
+  - [iPhone 16](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891939459293)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/3456047629515990881_2048.jpg?v=1778175942
     Price: $50.00 AUD
-  - [iPhone 15 Plus](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545649885)
+  - [iPhone 16 Pro](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891939492061)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/6564020148606642223_2048.jpg?v=1778176087
     Price: $50.00 AUD
-  - [iPhone 15 Pro](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545584349)
+  - [iPhone 16 Pro Max](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891939524829)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/6684115764307112923_2048.jpg?v=1778176089
     Price: $50.00 AUD
-  - [iPhone 15 Pro Max](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545617117)
+  - [iPhone 16 Plus](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891939557597)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/5286809632633696360_2048.jpg?v=1778176085
     Price: $50.00 AUD
-  - [iPhone 14](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545682653)
+  - [iPhone 15](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891939590365)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/5664215100315315178_2048.jpg?v=1778176066
     Price: $50.00 AUD
-  - [iPhone 14 Plus](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545780957)
+  - [iPhone 15 Pro](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891939623133)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/13872336390408707373_2048.jpg?v=1778176070
     Price: $50.00 AUD
-  - [iPhone 14 Pro](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545715421)
+  - [iPhone 15 Pro Max](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891939655901)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/16310604856717459165_2048.jpg?v=1778176073
     Price: $50.00 AUD
-  - [iPhone 14 Pro Max](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545748189)
+  - [iPhone 15 Plus](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891939688669)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/18238358694601863069_2048.jpg?v=1778176068
     Price: $50.00 AUD
-  - [iPhone 13](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545813725)
+  - [iPhone 14](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891939721437)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/738970823442881655_2048.jpg?v=1778176041
     Price: $50.00 AUD
-  - [iPhone 13 Pro](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545846493)
+  - [iPhone 14 Pro](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891939754205)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/15276453109756157408_2048.jpg?v=1778176044
     Price: $50.00 AUD
-  - [iPhone 13 Pro Max](https://www.adbchistory.com/products/apollo-greek-god-of-music-iphone-magnetic-phone-case?variant=47694545879261)
+  - [iPhone 14 Pro Max](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891939786973)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/14260473563157523780_2048.jpg?v=1778176051
+    Price: $50.00 AUD
+  - [iPhone 14 Plus](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891939819741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/11341431736441621406_2048.jpg?v=1778176046
+    Price: $50.00 AUD
+  - [iPhone 13](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891939852509)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/10074993701579177256_2048.jpg?v=1778176000
+    Price: $50.00 AUD
+  - [iPhone 13 Mini](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891939885277)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/1421690028356091846_2048.jpg?v=1778176003
+    Price: $50.00 AUD
+  - [iPhone 13 Pro](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891939918045)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/11115659101062019294_2048.jpg?v=1778176006
+    Price: $50.00 AUD
+  - [iPhone 13 Pro Max](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891939950813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/15402071443399797319_2048.jpg?v=1778176009
+    Price: $50.00 AUD
+  - [iPhone 12](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891939983581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/2849429809217051356_2048.jpg?v=1778175990
+    Price: $50.00 AUD
+  - [iPhone 12 Mini](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891940016349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/11732506530446721641_2048.jpg?v=1778175987
+    Price: $50.00 AUD
+  - [iPhone 12 Pro](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891940049117)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/16680029726017151722_2048.jpg?v=1778175993
+    Price: $50.00 AUD
+  - [iPhone 12 Pro Max](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891940081885)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/17544357644619903010_2048.jpg?v=1778175997
+    Price: $50.00 AUD
+  - [iPhone 11](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891940114653)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/4256696003085705636_2048.jpg?v=1778175969
+    Price: $50.00 AUD
+  - [iPhone 11 Pro](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891940147421)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/10085985296063553175_2048.jpg?v=1778175972
+    Price: $50.00 AUD
+  - [iPhone 11 Pro Max](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891940180189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/6640648223190194191_2048.jpg?v=1778175974
+    Price: $50.00 AUD
+  - [iPhone X](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891940212957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/4317778794626595376_2048.jpg?v=1778175954
+    Price: $50.00 AUD
+  - [iPhone XR](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891940245725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/4837437870095454152_2048.jpg?v=1778175958
+    Price: $50.00 AUD
+  - [iPhone XS](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891940278493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/12355921555249949325_2048.jpg?v=1778175962
+    Price: $50.00 AUD
+  - [iPhone XS MAX](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891940311261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/3923607879463776329_2048.jpg?v=1778175966
+    Price: $50.00 AUD
+  - [iPhone 8](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891940344029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/8553713044516298170_2048.jpg?v=1778175947
+    Price: $50.00 AUD
+  - [iPhone 8 Plus](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891940376797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/17739132738105819794_2048.jpg?v=1778175951
+    Price: $50.00 AUD
+  - [Google Pixel 9](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891940409565)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/9131808005824548504_2048.jpg?v=1778176092
+    Price: $50.00 AUD
+  - [Google Pixel 9 Pro](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891940442333)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/1624321993310614308_2048.jpg?v=1778176094
+    Price: $50.00 AUD
+  - [Google Pixel 9 Pro XL](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891940475101)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/3959932449255052205_2048.jpg?v=1778176097
+    Price: $50.00 AUD
+  - [Google Pixel 8](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891940507869)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/817206845549457069_2048.jpg?v=1778176083
+    Price: $50.00 AUD
+  - [Google Pixel 8 Pro](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891940540637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/10845878926610042584_2048.jpg?v=1778176082
+    Price: $50.00 AUD
+  - [Google Pixel 7](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891940573405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/8477650243633236023_2048.jpg?v=1778176060
+    Price: $50.00 AUD
+  - [Google Pixel 6](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891940606173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/2321420416115448564_2048.jpg?v=1778176023
+    Price: $50.00 AUD
+  - [Google Pixel 6 Pro](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891940638941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/8750286736442935677_2048.jpg?v=1778176062
+    Price: $50.00 AUD
+  - [Samsung Galaxy S25](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891940671709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/14445616302152102393_2048.jpg?v=1778176099
+    Price: $50.00 AUD
+  - [Samsung Galaxy S25 Plus](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891940704477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/8820870121903111584_2048.jpg?v=1778176102
+    Price: $50.00 AUD
+  - [Samsung Galaxy S25 Ultra](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891940737245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/4857249670677763487_2048.jpg?v=1778176104
+    Price: $50.00 AUD
+  - [Samsung Galaxy S24](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891940770013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/8057014559702654190_2048.jpg?v=1778176075
+    Price: $50.00 AUD
+  - [Samsung Galaxy S24 Plus](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891940802781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/3608900761280743978_2048.jpg?v=1778176077
+    Price: $50.00 AUD
+  - [Samsung Galaxy S24 Ultra](https://www.adbchistory.com/products/helios-tough-phone-case?variant=47891940835549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0701/7260/6685/files/8706538275722958412_2048.jpg?v=1778176079
     Price: $50.00 AUD
 
 ## Collections
@@ -325,14 +843,14 @@
   Updated: 2026-04-30T15:40:59Z
   Total Products: 0
 - [Ancient History Phone Cases | Greece, Rome & Egypt | AD/BC](https://www.adbchistory.com/collections/history-phone-cases): Ancient history phone cases featuring real archaeological sites and historical scenes. Dual-layer, impact-resistant, printed to last. Ships worldwide.
-  Updated: 2026-04-30T15:40:59Z
-  Total Products: 31
+  Updated: 2026-05-07T17:02:42Z
+  Total Products: 32
 - [Ebooks - AD/BC](https://www.adbchistory.com/collections/ebooks): - AD/BC
   Updated: 2026-04-30T15:40:59Z
   Total Products: 1
 - [History Gifts for the Chronologically Curious | AD/BC](https://www.adbchistory.com/collections/history-gifts): Ancient history phone cases, apparel and accessories featuring Greece, Rome, Egypt and beyond. Designed for the chronologically curious. Ships worldwide.
-  Updated: 2026-04-30T15:40:59Z
-  Total Products: 32
+  Updated: 2026-05-07T17:02:42Z
+  Total Products: 34
 - [T-Shirts - AD/BC](https://www.adbchistory.com/collections/t-shirts): - AD/BC
   Updated: 2026-04-30T15:40:59Z
   Total Products: 0
@@ -349,20 +867,26 @@
   Updated: 2026-04-30T15:41:00Z
   Total Products: 0
 - [Gods of Ancient Greece - Mythology Phone Cases | AD/BC](https://www.adbchistory.com/collections/gods-of-greek-myth-mythology-phone-cases): Greek mythology phone cases with oil painting artwork drawn from ancient sources and archaeology. Shop the AD/BC Gods of Greek Myth collection.
-  Updated: 2026-04-30T15:41:00Z
-  Total Products: 23
+  Updated: 2026-05-07T17:57:12Z
+  Total Products: 26
 - [Curiosities | Ancient History & Archaeology Designs | AD/BC](https://www.adbchistory.com/collections/curiosities): Ancient history phone cases, coffee mugs, mousepads and more spanning Greece, Rome, Egypt, Babylon, and beyond. Original designs from across the ancient world.
   Updated: 2026-04-30T15:41:00Z
   Total Products: 0
 - [All Products | AD/BC](https://www.adbchistory.com/collections/all-products): Ancient history phone cases, t-shirts & hoodies. Greek, Roman, Egyptian & Norse designs with oil painting artwork. Browse all AD/BC products.
-  Updated: 2026-04-30T15:41:00Z
-  Total Products: 32
+  Updated: 2026-05-07T17:02:42Z
+  Total Products: 34
 - [Gods of Viking Legend - Mythology Phone Cases | AD/BC](https://www.adbchistory.com/collections/gods-of-viking-legend-mythology-phone-cases): Viking mythology phone cases with oil painting artwork drawn from the Norse sagas and Eddas. Shop the AD/BC Gods of Viking Legend collection.
-  Updated: 2026-04-30T15:41:00Z
+  Updated: 2026-05-07T16:59:51Z
   Total Products: 1
 - [Gods of Ancient Egypt - Mythology Phone Cases - AD/BC](https://www.adbchistory.com/collections/gods-of-ancient-egypt-mythology-phone-cases): Ancient Egyptian god phone cases with oil painting artwork from the Nile Valley. Shop the AD/BC Gods of Ancient Egypt collection.
-  Updated: 2026-04-30T15:41:00Z
+  Updated: 2026-05-07T16:59:51Z
   Total Products: 1
+- [Mythology Phone Cases | Greece, Rome & Egypt | AD/BC](https://www.adbchistory.com/collections/mythology-phone-cases): Ancient mythology phone cases featuring real archaeological sites and historical scenes. Dual-layer cases, MagSafe & impact-resistant. History worth reliving.
+  Updated: 2026-05-07T17:02:42Z
+  Total Products: 32
+- [Digital Goods VAT Tax](https://www.adbchistory.com/collections/digital-goods-vat-tax)
+  Updated: 2026-05-07T16:11:35Z
+  Total Products: 0
 
 ## Blogs
 
@@ -574,17 +1098,13 @@
     Updated: 2026-04-26T04:54:15Z
     Author: Dan Rankin
     Tags: Ancient Crafts & Trades, Ancient Economy, Ancient Egypt, Stoa
-  - [Mesoamerica: Ancient Civilizations of Mexico and Central America | AD/BC](https://www.adbchistory.com/blogs/library/mesoamerica): Mesoamerica: Ancient Civilizations of Mexico and Central America | AD/BC
-    Updated: 2026-04-30T08:40:48Z
-    Author: Dan Rankin
-    Tags: Americas, Ancient Civilizations, Aztec, Maya, Mesoamerica, Olmec
 
 ## Store Pages
 
 - [Contact | AD/BC History](https://www.adbchistory.com/pages/contact): Got a question, a bone to pick, or an ancient grudge to settle? Scroll down to the contact form and let us know. AD/BC History is proudly Australia...
-  Updated: 2026-04-14T06:14:19Z
+  Updated: 2026-05-02T09:21:52Z
 - [About Us | AD/BC History](https://www.adbchistory.com/pages/about-us): The internet home for armchair archaeologists. AD/BC History is a research-driven history brand dedicated to making the ancient world accessible wi...
-  Updated: 2026-03-23T14:44:13Z
+  Updated: 2026-05-03T07:35:13Z
 - [Para Bellum: Free Ancient History Card Game | AD/BC](https://www.adbchistory.com/pages/para-bellum-ancient-card-game): Si vis pacem, para bellum. If you want peace, prepare for war. Para Bellum is a free ancient history card game that puts you in command of one of f...
   Updated: 2026-03-15T16:54:37Z
 - [Your Privacy Choices](https://www.adbchistory.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
