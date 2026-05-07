@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-05-09T11:07:06Z
 - Contact Email: info@farmmedix.com
-- Updated At: 2026-04-30T00:00:39.658Z
+- Updated At: 2026-05-07T00:00:41.186Z
 
 Farm Medix is New Zealand's leading provider of mastitis diagnostics and lameness management solutions for dairy farmers. Farm Medix helps farmers improve milk quality, reduce antibiotic use, and boost herd performance. We offer expert 7-day support to help you get the best results.
 
@@ -148,9 +148,6 @@ Farm Medix is New Zealand's leading provider of mastitis diagnostics and lamenes
   - [NZ Dairy Expo 2026 | Farm Medix](https://www.farmmedix.nz/blogs/news/nz-dairy-expo-2026): NZ Dairy Expo 2026 | Farm Medix
     Updated: 2026-02-20T02:29:01Z
     Author: Farm Medix
-  - [From Invisible to Unstoppable: How Farm Medix Is Redefining Dairy Herd Health](https://www.farmmedix.nz/blogs/news/from-invisible-to-unstoppable-how-farm-medix-is-redefining-dairy-herd-health): <p><meta charset="utf-8">Dairy farms run on visible systems — and invisible microbial ones. Farm Medix helps farmers identify and manage hidden infections like mastitis and lameness, reducing antibiotics, improving herd health, and delivering better outcomes for cows, farmers, and the industry.</p>
-    Updated: 2026-03-30T21:10:43Z
-    Author: Farm Medix
 - [Stride-On Equine](https://www.farmmedix.nz/blogs/stride-on-equine)
   - [Lucy Laxon’s Mud Fever Success with Stride-On Equine](https://www.farmmedix.nz/blogs/stride-on-equine/mud-fever-lucy-laxon): <p><meta charset="utf-8"><meta charset="utf-8">Winters in Waikato made mud fever a constant struggle for Lucy Laxon — until she found Stride-On. Within weeks, her mares’ legs healed completely. The bands made care effortless, safe, and stress-free.<br></p>
     Updated: 2025-12-08T22:58:00Z
@@ -188,6 +185,9 @@ Farm Medix is New Zealand's leading provider of mastitis diagnostics and lamenes
     Author: Farm Medix
   - [Mastitis Caused by : Understanding Iatrogenic Infections in Dairy Cows](https://www.farmmedix.nz/blogs/articles/mastitis-caused-by--understanding-iatrogenic-infections-in-dairy-cows): <p><meta charset="utf-8"><meta charset="utf-8">Learn how mastitis can be unintentionally introduced during , why some cases become severe, and practical steps to reduce iatrogenic infection risk on farm.</p>
     Updated: 2026-01-22T03:39:01Z
+    Author: Farm Medix
+  - [From Invisible to Unstoppable: How Farm Medix Is Redefining Dairy Herd Health](https://www.farmmedix.nz/blogs/articles/from-invisible-to-unstoppable-how-farm-medix-is-redefining-dairy-herd-health): <p><meta charset="utf-8">Dairy farms run on visible systems — and invisible microbial ones. Farm Medix helps farmers identify and manage hidden infections like mastitis and lameness, reducing antibiotics, improving herd health, and delivering better outcomes for cows, farmers, and the industry.</p>
+    Updated: 2026-05-06T00:58:52Z
     Author: Farm Medix
 
 ## Store Pages
