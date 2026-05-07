@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-11-03T20:22:23Z
 - Contact Email: japhethkipngenokirui@gmail.com
-- Updated At: 2026-04-26T00:00:25.498Z
+- Updated At: 2026-05-07T00:00:34.699Z
 
 Welcome, click the link, sign up and subscribe.
 
@@ -185,7 +185,7 @@ Welcome, click the link, sign up and subscribe.
   Image: https://cdn.shopify.com/s/files/1/0790/1043/1194/files/720ce651-5cc0-4f30-ac13-b2d1d44ca6f8.webp?v=1775058661
   Price: KES 2,666.71 KES
 - [Écharpe AIR | Gris](https://japheth.link/products/echarpe-air-gris): L'écharpe AIR Chimparoo est conçu spécialement pour l'eau. Elle est idéale pour les parents actifs qui font des séances d'exercice et pendant les journées chaudes. Fabriquée en maille légère et respirante, elle sèche rapidement et offre un portage ergonomique, confortable et polyvalent, que ce soit pour des sorties estivales ou des moments de peau-à-peau.
-  Updated: 2026-04-14T15:11:25Z
+  Updated: 2026-05-01T14:24:02Z
   Vendor: Chimpäroo
   Product Type: Écharpe
   Availability: Available
@@ -285,6 +285,13 @@ Welcome, click the link, sign up and subscribe.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0790/1043/1194/files/61aN0pz24QL._AC_UL1000.jpg?v=1776011863
   Price: KES 1,846.28 KES
+- [Short-sleeved T-shirt](https://japheth.link/products/short-sleeved-t-shirt-1): Unisex wear, good for sports and outdoors adventure.
+  Updated: 2026-05-06T02:17:55Z
+  Vendor: GiftApp
+  Product Type: Gift
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0790/1043/1194/files/Jakikishop-com-logo_80ee8be1-b7f4-4421-894e-8c6fc540ee86.png?v=1777987516
+  Price: KES 200.00 KES
 
 ## Collections
 
@@ -304,8 +311,8 @@ Welcome, click the link, sign up and subscribe.
   Updated: 2026-04-14T12:03:34Z
   Total Products: 4
 - [All Products (ChatGPT-AI Product Description)](https://japheth.link/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
-  Updated: 2026-04-14T15:10:54Z
-  Total Products: 32
+  Updated: 2026-05-05T13:25:44Z
+  Total Products: 33
 
 ## Blogs
 
