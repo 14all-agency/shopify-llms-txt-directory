@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2022-01-25T23:30:16Z
 - Contact Email: customerservice@shopharbour.com
-- Updated At: 2026-04-30T00:00:51.501Z
+- Updated At: 2026-05-07T00:00:54.122Z
 
 ## Products
 
 - [Amalfi 2 Seat Armless Sofa | Fully Upholstered Outdoor Furniture](https://shopharbour.com/products/amalfi-2-seat-armless-sofa): Amalfi 2 Seat Armless Sofa blends luxury and comfort with premium Italian fabric and a modern base made from 100% outdoor materials in timeless neutral tones.
-  Updated: 2026-04-29T12:49:16Z
+  Updated: 2026-05-06T12:50:24Z
   Vendor: Harbour
   Product Type: 2 SEAT ARMLESS SOFA
   Availability: Available
@@ -217,7 +217,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/amalfi-2-seat-armless-sofa-amal-06b-alast-marsno-6143688.png?v=1775072906
     Price: $6,995.00 USD
 - [Amalfi 2 Seat 1 Arm Left | Fully Upholstered Outdoor Furniture](https://shopharbour.com/products/amalfi-2-seat-1-arm-left): Amalfi 2 Seat 1 Arm Left blends luxury and comfort with premium Italian fabric and a modern base made from 100% outdoor materials in timeless neutral tones.
-  Updated: 2026-04-29T12:49:13Z
+  Updated: 2026-05-06T12:50:19Z
   Vendor: Harbour
   Product Type: 2 SEAT 1 ARM LEFT
   Availability: Available
@@ -423,7 +423,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/amalfi-2-seat-1-arm-left-amal-06cl-alast-marsno-7519747.png?v=1775073060
     Price: $7,995.00 USD
 - [Amalfi 2 Seat 1 Arm Right | Fully Upholstered Outdoor Furniture](https://shopharbour.com/products/amalfi-2-seat-1-arm-right): Amalfi 2 Seat 1 Arm Right blends luxury and comfort with premium Italian fabric and a modern base made from 100% outdoor materials in timeless neutral tones.
-  Updated: 2026-04-29T12:49:16Z
+  Updated: 2026-05-06T12:50:20Z
   Vendor: Harbour
   Product Type: 2 SEAT 1 ARM RIGHT
   Availability: Available
@@ -629,7 +629,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/amalfi-2-seat-1-arm-right-amal-06cr-alast-marsno-9237855.png?v=1775073150
     Price: $7,995.00 USD
 - [Amalfi 3 Seat Armless Sofa | Fully Upholstered Outdoor Furniture](https://shopharbour.com/products/amalfi-3-seat-armless-sofa): Amalfi 3 Seat Armless Sofa blends luxury and comfort with premium Italian fabric and a modern base made from 100% outdoor materials in timeless neutral tones.
-  Updated: 2026-04-29T12:49:20Z
+  Updated: 2026-05-06T12:50:27Z
   Vendor: Harbour
   Product Type: 3 SEAT ARMLESS SOFA
   Availability: Available
@@ -835,7 +835,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/amalfi-3-seat-armless-sofa-amal-05b-alast-marsno-3228494.png?v=1775073149
     Price: $8,795.00 USD
 - [Amalfi Curved Chaise Left | Fully Upholstered Outdoor Furniture](https://shopharbour.com/products/amalfi-curved-chaise-left): Amalfi Curved Chaise Left blends luxury and comfort with premium Italian fabric and a modern base made from 100% outdoor materials in timeless neutral tones.
-  Updated: 2026-04-29T22:38:47Z
+  Updated: 2026-05-06T12:52:29Z
   Vendor: Harbour
   Product Type: CHAISE LEFT
   Availability: Available
@@ -1041,7 +1041,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/amalfi-curved-chaise-left-amal-07el-alast-marsno-5571375.png?v=1775073202
     Price: $11,295.00 USD
 - [Amalfi Curved Chaise Right | Fully Upholstered Outdoor Furniture](https://shopharbour.com/products/amalfi-curved-chaise-right): Amalfi Curved Chaise Right blends luxury and comfort with premium Italian fabric and a modern base made from 100% outdoor materials in timeless neutral tones.
-  Updated: 2026-04-29T22:38:48Z
+  Updated: 2026-05-06T12:54:19Z
   Vendor: Harbour
   Product Type: CHAISE RIGHT
   Availability: Available
@@ -1247,7 +1247,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/amalfi-curved-chaise-right-amal-07er-alast-marsno-1940028.png?v=1775073264
     Price: $11,295.00 USD
 - [Amalfi Armless Single | Fully Upholstered Outdoor Furniture](https://shopharbour.com/products/amalfi-armless-single): Amalfi Armless Single blends luxury and comfort with premium Italian fabric and a modern base made from 100% outdoor materials in timeless neutral tones.
-  Updated: 2026-04-29T12:49:39Z
+  Updated: 2026-05-06T12:52:23Z
   Vendor: Harbour
   Product Type: ARMLESS SINGLE
   Availability: Available
@@ -1453,7 +1453,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/amalfi-armless-single-amal-08d-alast-marsno-4817751.png?v=1775073326
     Price: $4,650.00 USD
 - [Amalfi Corner | Fully Upholstered Outdoor Furniture](https://shopharbour.com/products/amalfi-corner): Amalfi Corner blends luxury and comfort with premium Italian fabric and a modern base made from 100% outdoor materials in timeless neutral tones.
-  Updated: 2026-04-29T22:38:37Z
+  Updated: 2026-05-06T12:52:26Z
   Vendor: Harbour
   Product Type: CORNER
   Availability: Available
@@ -1659,7 +1659,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/amalfi-corner-amal-08c-alast-marsno-7155003.png?v=1775073385
     Price: $5,850.00 USD
 - [Amalfi Swivel Armless Chair | Fully Upholstered Outdoor Furniture](https://shopharbour.com/products/amalfi-swivel-armless-chair): Amalfi Swivel Armless Chair blends luxury and comfort with premium Italian fabric and a modern base made from 100% outdoor materials in timeless neutral tones.
-  Updated: 2026-04-29T12:53:39Z
+  Updated: 2026-05-06T12:56:25Z
   Vendor: Harbour
   Product Type: SWIVEL LOUNGE CHAIR
   Availability: Available
@@ -1865,7 +1865,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/amalfi-swivel-armless-chair-amal-08h-alast-marsno-5571386.png?v=1775073500
     Price: $5,150.00 USD
 - [Amalfi Ottoman | Fully Upholstered Outdoor Furniture](https://shopharbour.com/products/amalfi-ottoman): Amalfi Ottoman blends luxury and comfort with premium Italian fabric and a modern base made from 100% outdoor materials in timeless neutral tones.
-  Updated: 2026-04-29T12:53:36Z
+  Updated: 2026-05-06T12:56:21Z
   Vendor: Harbour
   Product Type: OTTOMAN
   Availability: Available
@@ -2071,7 +2071,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/amalfi-ottoman-amal-09a-alast-marsno-9138356.png?v=1775073499
     Price: $2,995.00 USD
 - [Antigua Dining Chair | Contemporary Aluminum Outdoor Furniture](https://shopharbour.com/products/antigua-dining-chair): The Antigua Dining Chair features soft curves, plush cushions, and coastal rope detailing, offering European elegance and deep comfort in any outdoor space.
-  Updated: 2026-04-29T19:33:37Z
+  Updated: 2026-05-06T19:33:57Z
   Vendor: Harbour
   Product Type: DINING CHAIR
   Availability: Available
@@ -2277,7 +2277,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/antigua-dining-chair-anti-01a-albon-roshe-pc-rivsla-1276088.png?v=1775073494
     Price: $1,450.00 USD
 - [Antigua Sun Lounge | Contemporary Aluminum Outdoor Furniture](https://shopharbour.com/products/antigua-sun-lounge): The Antigua Sun Lounge features soft curves, plush cushions, and coastal rope detailing, offering European elegance and deep comfort in any outdoor space.
-  Updated: 2026-04-29T19:34:53Z
+  Updated: 2026-05-06T19:35:15Z
   Vendor: Harbour
   Product Type: SUN LOUNGE
   Availability: Available
@@ -2483,7 +2483,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/antigua-sun-lounge-anti-04a-alast-rodgr-stifog-1449899.png?v=1775073625
     Price: $3,495.00 USD
 - [Antigua 3 Seat Sofa | Contemporary Aluminum Outdoor Furniture](https://shopharbour.com/products/antigua-3-seat-sofa): The Antigua 3 Seat Sofa features soft curves, plush cushions, and coastal rope detailing, offering European elegance and deep comfort in any outdoor space.
-  Updated: 2026-04-29T12:12:19Z
+  Updated: 2026-05-06T12:12:36Z
   Vendor: Harbour
   Product Type: 3 SEAT SOFA
   Availability: Available
@@ -2689,7 +2689,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/antigua-3-seat-sofa-anti-05a-alast-rodgr-stifog-661844.png?v=1772222592
     Price: $6,995.00 USD
 - [Antigua 2 Seat 1 Arm Left | Contemporary Aluminum Outdoor Furniture](https://shopharbour.com/products/antigua-2-seat-1-arm-left): The Antigua 2 Seat 1 Arm Left features soft curves, plush cushions, and coastal rope detailing, offering European elegance and deep comfort in any outdoor space.
-  Updated: 2026-04-29T12:11:26Z
+  Updated: 2026-05-06T12:11:37Z
   Vendor: Harbour
   Product Type: 2 SEAT 1 ARM LEFT
   Availability: Available
@@ -2895,7 +2895,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/antigua-2-seat-1-arm-left-anti-06cl-altau-rolgr-stisan-2151937.png?v=1775073805
     Price: $5,395.00 USD
 - [Antigua 2 Seat Sofa | Contemporary Aluminum Outdoor Furniture](https://shopharbour.com/products/antigua-2-seat-sofa): The Antigua 2 Seat Sofa features soft curves, plush cushions, and coastal rope detailing, offering European elegance and deep comfort in any outdoor space.
-  Updated: 2026-04-29T19:35:39Z
+  Updated: 2026-05-06T19:35:58Z
   Vendor: Harbour
   Product Type: 2 SEAT SOFA
   Availability: Available
@@ -3101,7 +3101,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/antigua-2-seat-sofa-anti-06a-alast-rodgr-stifog-5528155.png?v=1775073869
     Price: $5,795.00 USD
 - [Antigua 2 Seat 1 Arm Right | Contemporary Aluminum Outdoor Furniture](https://shopharbour.com/products/antigua-2-seat-1-arm-right): The Antigua 2 Seat 1 Arm Right features soft curves, plush cushions, and coastal rope detailing, offering European elegance and deep comfort in any outdoor space.
-  Updated: 2026-04-29T19:36:24Z
+  Updated: 2026-05-06T19:36:57Z
   Vendor: Harbour
   Product Type: 2 SEAT 1 ARM RIGHT
   Availability: Available
@@ -3307,7 +3307,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/antigua-2-seat-1-arm-right-anti-06cr-altau-rolgr-stisan-3513866.png?v=1775073996
     Price: $5,395.00 USD
 - [Antigua Daybed | Contemporary Aluminum Outdoor Furniture](https://shopharbour.com/products/antigua-daybed): The Antigua Daybed features soft curves, plush cushions, and coastal rope detailing, offering European elegance and deep comfort in any outdoor space.
-  Updated: 2026-04-29T12:13:14Z
+  Updated: 2026-05-06T12:13:32Z
   Vendor: Harbour
   Product Type: DAYBED
   Availability: Available
@@ -3513,7 +3513,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/antigua-daybed-anti-07a-alast-rodgr-pebwhi-7517110.png?v=1775073997
     Price: $9,195.00 USD
 - [Antigua Chaise Left | Contemporary Aluminum Outdoor Furniture](https://shopharbour.com/products/antigua-chaise-left): The Antigua Chaise Left features soft curves, plush cushions, and coastal rope detailing, offering European elegance and deep comfort in any outdoor space.
-  Updated: 2026-04-29T19:36:57Z
+  Updated: 2026-05-06T19:37:31Z
   Vendor: Harbour
   Product Type: CHAISE LEFT
   Availability: Available
@@ -3719,7 +3719,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/antigua-chaise-left-anti-07bl-alast-rodgr-stifog-265811.png?v=1772222214
     Price: $4,995.00 USD
 - [Antigua Chaise Right | Contemporary Aluminum Outdoor Furniture](https://shopharbour.com/products/antigua-chaise-right): The Antigua Chaise Right features soft curves, plush cushions, and coastal rope detailing, offering European elegance and deep comfort in any outdoor space.
-  Updated: 2026-04-29T12:13:02Z
+  Updated: 2026-05-06T12:13:26Z
   Vendor: Harbour
   Product Type: CHAISE RIGHT
   Availability: Available
@@ -3925,7 +3925,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/Finish_Aluminum_Asteroid_Rope_Rope_Dark_Grey_Upholstery_Stirling_Fog.png?v=1772222115
     Price: $4,995.00 USD
 - [Antigua Lounge Chair | Contemporary Aluminum Outdoor Furniture](https://shopharbour.com/products/antigua-lounge-chair): The Antigua Lounge Chair features soft curves, plush cushions, and coastal rope detailing, offering European elegance and deep comfort in any outdoor space.
-  Updated: 2026-04-29T12:13:58Z
+  Updated: 2026-05-06T12:14:24Z
   Vendor: Harbour
   Product Type: LOUNGE CHAIR
   Availability: Available
@@ -4131,7 +4131,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/antigua-lounge-chair-anti-08a-alast-rodgr-stifog-449291.png?v=1772221861
     Price: $2,850.00 USD
 - [Antigua Corner | Contemporary Aluminum Outdoor Furniture](https://shopharbour.com/products/antigua-corner): The Antigua Corner features soft curves, plush cushions, and coastal rope detailing, offering European elegance and deep comfort in any outdoor space.
-  Updated: 2026-04-29T12:55:59Z
+  Updated: 2026-05-06T12:58:41Z
   Vendor: Harbour
   Product Type: CORNER
   Availability: Available
@@ -4337,7 +4337,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/antigua-corner-anti-08c-alast-rodgr-stifog-941336.png?v=1772221740
     Price: $3,195.00 USD
 - [Antigua Armless Single | Contemporary Aluminum Outdoor Furniture](https://shopharbour.com/products/antigua-armless-single): The Antigua Armless Single features soft curves, plush cushions, and coastal rope detailing, offering European elegance and deep comfort in any outdoor space.
-  Updated: 2026-04-29T12:12:33Z
+  Updated: 2026-05-06T12:12:49Z
   Vendor: Harbour
   Product Type: ARMLESS SINGLE
   Availability: Available
@@ -4543,7 +4543,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/antigua-armless-single-anti-08d-altau-rolgr-stisan-5506495.png?v=1775594839
     Price: $2,495.00 USD
 - [Antigua Swivel Lounge Chair | Contemporary Aluminum Outdoor Furniture](https://shopharbour.com/products/antigua-swivel-lounge-chair): The Antigua Swivel Lounge Chair features soft curves, plush cushions, and coastal rope detailing, offering European elegance and deep comfort in any outdoor space.
-  Updated: 2026-04-29T12:14:29Z
+  Updated: 2026-05-06T12:14:49Z
   Vendor: Harbour
   Product Type: SWIVEL LOUNGE CHAIR
   Availability: Available
@@ -4749,7 +4749,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/antigua-swivel-lounge-chair-anti-08f-alast-rodgr-stifog-397234.png?v=1772221828
     Price: $3,650.00 USD
 - [Antigua Rectangle Coffee Table | Contemporary Aluminum Outdoor Furniture](https://shopharbour.com/products/antigua-rectangle-coffee-table): The Antigua Rectangle Coffee Table features an Italian ceramic top on a plinth base of extruded aluminum, combining modern style with durable outdoor strength.
-  Updated: 2026-04-29T12:56:07Z
+  Updated: 2026-05-06T12:58:48Z
   Vendor: Harbour
   Product Type: COFFEE TABLE
   Availability: Available
@@ -4795,7 +4795,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/antigua-rectangle-coffee-table-anti-10a-alwhi-labia-3956511.png?v=1775081006
     Price: $4,195.00 USD
 - [Antigua Round Coffee Table | Contemporary Aluminum Outdoor Furniture](https://shopharbour.com/products/antigua-round-coffee-table): The Antigua Round Coffee Table features an Italian ceramic top on a plinth base of extruded aluminum, combining modern style with durable outdoor strength.
-  Updated: 2026-04-29T12:56:12Z
+  Updated: 2026-05-06T12:58:54Z
   Vendor: Harbour
   Product Type: COFFEE TABLE
   Availability: Available
@@ -4841,7 +4841,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/antigua-round-coffee-table-anti-10f-alwhi-labia-3672214.png?v=1775081007
     Price: $3,895.00 USD
 - [Antigua Round Side Table | Contemporary Aluminum Outdoor Furniture](https://shopharbour.com/products/antigua-square-side-table): The Antigua Round Side Table features an Italian ceramic top on a plinth base of extruded aluminum, combining modern style with durable outdoor strength.
-  Updated: 2026-04-29T22:37:57Z
+  Updated: 2026-05-06T16:46:08Z
   Vendor: Harbour
   Product Type: SIDE TABLE
   Availability: Available
@@ -4887,7 +4887,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/antigua-round-side-table-anti-11a-alwhi-labia-5320923.png?v=1775081070
     Price: $1,295.00 USD
 - [Antigua Square Side Table | Contemporary Aluminum Outdoor Furniture](https://shopharbour.com/products/antigua-round-side-table): The Antigua Square Side Table features an Italian ceramic top on a plinth base of extruded aluminum, combining modern style with durable outdoor strength.
-  Updated: 2026-04-29T12:56:18Z
+  Updated: 2026-05-06T22:45:48Z
   Vendor: Harbour
   Product Type: SIDE TABLE
   Availability: Available
@@ -4933,7 +4933,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/antigua-square-side-table-anti-11b-alwhi-labia-1556478.png?v=1775081071
     Price: $1,295.00 USD
 - [Avalon Dining Chair | Sculptural Teak Outdoor Furniture](https://shopharbour.com/products/avalon-dining-chair): Avalon Dining Chair features clean lines, tapered legs, and double-layered rope accents on a teak base for effortless outdoor comfort.
-  Updated: 2026-04-29T19:38:07Z
+  Updated: 2026-05-06T19:38:39Z
   Vendor: Harbour
   Product Type: DINING CHAIR
   Availability: Available
@@ -5139,7 +5139,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/avalon-dining-chair-aval-01a-tenat-rolgr-marpar-7372624.png?v=1775081365
     Price: $1,750.00 USD
 - [Avalon Counter Stool | Sculptural Teak Outdoor Furniture](https://shopharbour.com/products/avalon-counter-stool): Avalon Counter Stool features clean lines, tapered legs, and double-layered rope accents on a teak base for effortless outdoor comfort.
-  Updated: 2026-04-29T12:56:33Z
+  Updated: 2026-05-06T12:59:14Z
   Vendor: Harbour
   Product Type: COUNTER STOOL
   Availability: Available
@@ -5165,7 +5165,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/avalon-counter-stool-aval-02a-tenat-rolgr-pancoc-8693857.png?v=1775081113
     Price: $1,450.00 USD
 - [Avalon Bar Stool | Sculptural Teak Outdoor Furniture](https://shopharbour.com/products/avalon-bar-stool): Avalon Bar Stool features clean lines, tapered legs, and double-layered rope accents on a teak base for effortless outdoor comfort.
-  Updated: 2026-04-29T12:56:29Z
+  Updated: 2026-05-06T12:59:11Z
   Vendor: Harbour
   Product Type: BAR STOOL
   Availability: Available
@@ -5191,7 +5191,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/avalon-bar-stool-aval-02c-tenat-rolgr-pancoc-8271779.png?v=1775081113
     Price: $1,550.00 USD
 - [Avalon 3 Seat Sofa | Sculptural Teak Outdoor Furniture](https://shopharbour.com/products/avalon-3-seat-sofa): Avalon 3 Seat Sofa features clean lines, tapered legs, and double-layered rope accents on a teak base for effortless outdoor comfort.
-  Updated: 2026-04-29T12:14:33Z
+  Updated: 2026-05-06T12:14:58Z
   Vendor: Harbour
   Product Type: 3 SEAT SOFA
   Availability: Available
@@ -5397,7 +5397,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/avalon-3-seat-sofa-aval-05a-tenat-rodgr-pc-rivsla-2431256.png?v=1775081363
     Price: $6,840.00 USD
 - [Avalon 2 Seat Sofa | Sculptural Teak Outdoor Furniture](https://shopharbour.com/products/avalon-2-seat-sofa): Avalon 2 Seat Sofa features clean lines, tapered legs, and double-layered rope accents on a teak base for effortless outdoor comfort.
-  Updated: 2026-04-29T12:56:26Z
+  Updated: 2026-05-06T12:59:07Z
   Vendor: Harbour
   Product Type: 2 SEAT SOFA
   Availability: Available
@@ -5423,7 +5423,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/avalon-2-seat-sofa-aval-06a-tenat-rolgr-pancoc-3817156.png?v=1775081240
     Price: $4,295.00 USD
 - [Avalon Lounge Chair | Sculptural Teak Outdoor Furniture](https://shopharbour.com/products/avalon-lounge-chair): Inspired by Avalon Beach, the Avalon Lounge Chair features clean lines, tapered legs, and double-layered rope accents on a teak base for effortless outdoor comfort.
-  Updated: 2026-04-29T12:56:37Z
+  Updated: 2026-05-06T12:59:19Z
   Vendor: Harbour
   Product Type: LOUNGE CHAIR
   Availability: Available
@@ -5629,7 +5629,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/aval-08a-teak-natural-bateau-cocoon-rope-light-grey.png?v=1775147659
     Price: $2,995.00 USD
 - [Avalon Daybed | Sculptural Teak Outdoor Furniture](https://shopharbour.com/products/avalon-daybed): Avalon Daybed features clean lines, tapered legs, and double-layered rope accents on a teak base for effortless outdoor comfort.
-  Updated: 2026-04-29T12:14:51Z
+  Updated: 2026-05-06T12:15:19Z
   Vendor: Harbour
   Product Type: DAYBED
   Availability: Available
@@ -5835,7 +5835,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/avalon-daybed-aval-07a-tenat-rodgr-pc-rivsla-3879332.png?v=1775081667
     Price: $8,095.00 USD
 - [Avalon Ottoman | Sculptural Teak Outdoor Furniture](https://shopharbour.com/products/avalon-ottoman): Avalon Ottoman features clean lines, tapered legs, and double-layered rope accents on a teak base for effortless outdoor comfort.
-  Updated: 2026-04-29T19:38:50Z
+  Updated: 2026-05-06T19:39:14Z
   Vendor: Harbour
   Product Type: OTTOMAN
   Availability: Available
@@ -6041,21 +6041,21 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/avalon-ottoman-aval-09a-tenat-pebcam-5819287.png?v=1775081666
     Price: $2,295.00 USD
 - [Avalon Coffee Table | Sculptural Teak Outdoor Furniture](https://shopharbour.com/products/avalon-coffee-table): The Avalon Coffee Table features a solid natural teak frame with tapered legs and a slatted top, combining timeless style and versatile outdoor function.
-  Updated: 2026-04-29T12:56:31Z
+  Updated: 2026-05-06T12:59:13Z
   Vendor: Harbour
   Product Type: COFFEE TABLE
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/avalon-coffee-table-aval-10a-tenat-429433.png?v=1731107943
   Price: $2,195.00 USD
 - [Avalon Side Table | Sculptural Teak Outdoor Furniture](https://shopharbour.com/products/avalon-side-table): The Avalon Side Table features a solid natural teak frame with tapered legs and a solid top, combining timeless style and versatile outdoor function.
-  Updated: 2026-04-29T12:56:37Z
+  Updated: 2026-05-06T12:59:19Z
   Vendor: Harbour
   Product Type: SIDE TABLE
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/WoodTeakNatural.png?v=1741771077
   Price: $1,195.00 USD
 - [Barcelona 3 Seat Sofa | Classic Wicker Outdoor Furniture](https://shopharbour.com/products/barcelona-3-seat-sofa): The Barcelona 3 Seat Sofa features classic wicker and elegant curves with a subtle curved back, transforming traditional materials into refined transitional comfort.
-  Updated: 2026-04-29T12:56:41Z
+  Updated: 2026-05-06T12:59:23Z
   Vendor: Harbour
   Product Type: 3 SEAT SOFA
   Availability: Available
@@ -6163,7 +6163,7 @@
     Availability: Available
     Price: $6,995.00 USD
 - [Barcelona 2 Seat Sofa | Classic Wicker Outdoor Furniture](https://shopharbour.com/products/barcelona-2-seat-sofa): The Barcelona 2 Seat Sofa features classic wicker and elegant curves defined by a subtle curved back, blending traditional wicker with graceful modern design for versatile living.
-  Updated: 2026-04-29T12:56:39Z
+  Updated: 2026-05-06T12:59:21Z
   Vendor: Harbour
   Product Type: 2 SEAT SOFA
   Availability: Available
@@ -6271,7 +6271,7 @@
     Availability: Available
     Price: $5,495.00 USD
 - [Barcelona Lounge Chair | Classic Wicker Outdoor Furniture](https://shopharbour.com/products/barcelona-lounge-chair): The Barcelona Lounge Chair features classic wicker and elegant curves defined by a subtle curved back, reshaping traditional material into a modern transitional aesthetic.
-  Updated: 2026-04-29T12:56:45Z
+  Updated: 2026-05-06T12:59:27Z
   Vendor: Harbour
   Product Type: LOUNGE CHAIR
   Availability: Available
@@ -6379,7 +6379,7 @@
     Availability: Available
     Price: $2,695.00 USD
 - [Breeze Dining Breeze Dining Chair | Modern Aluminum Outdoor Furniture](https://shopharbour.com/products/breeze-dining-chair): Breeze Dining Chair balances modern style and alluring design with thin tubular aluminum frames and solid teak accents, perfect for smaller outdoor spaces.
-  Updated: 2026-04-29T12:57:07Z
+  Updated: 2026-05-06T12:59:49Z
   Vendor: Harbour
   Product Type: DINING CHAIR
   Availability: Available
@@ -6393,7 +6393,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/breeze-dining-chair-bree-01a-alwhi-bawhi-500635.png?v=1743456976
     Price: $795.00 USD
 - [Breeze Club Chair | Modern Aluminum Outdoor Furniture](https://shopharbour.com/products/breeze-club-chair): Breeze Club Chair balances modern style and alluring design with thin tubular aluminum frames and solid teak accents, perfect for smaller outdoor spaces.
-  Updated: 2026-04-29T12:57:04Z
+  Updated: 2026-05-06T12:59:45Z
   Vendor: Harbour
   Product Type: CLUB CHAIR
   Availability: Available
@@ -6407,7 +6407,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/breeze-club-chair-bree-01c-alwhi-bawhi-792199.png?v=1743457006
     Price: $1,095.00 USD
 - [Breeze Counter Stool | Modern Aluminum Outdoor Furniture](https://shopharbour.com/products/breeze-counter-stool): Breeze Counter Stool balances modern style and alluring design with thin tubular aluminum frames and solid teak accents, perfect for smaller outdoor spaces.
-  Updated: 2026-04-29T12:57:05Z
+  Updated: 2026-05-06T12:59:47Z
   Vendor: Harbour
   Product Type: COUNTER STOOL
   Availability: Available
@@ -6421,7 +6421,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/breeze-counter-stool-bree-02a-alwhi-bawhi-884076.png?v=1731142009
     Price: $975.00 USD
 - [Breeze Bar Stool | Modern Aluminum Outdoor Furniture](https://shopharbour.com/products/breeze-bar-stool): Breeze Bar Stool balances modern style and alluring design with thin tubular aluminum frames and solid teak accents, perfect for smaller outdoor spaces.
-  Updated: 2026-04-29T12:57:03Z
+  Updated: 2026-05-06T12:59:44Z
   Vendor: Harbour
   Product Type: BAR STOOL
   Availability: Available
@@ -6435,7 +6435,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/breeze-bar-stool-bree-02c-alwhi-bawhi-337336.png?v=1731142067
     Price: $995.00 USD
 - [Breeze Sun Lounge | Modern Aluminum Outdoor Furniture](https://shopharbour.com/products/breeze-sun-lounge): Breeze Sun Lounge balances modern style and alluring design with thin tubular aluminum frames and solid teak accents, perfect for smaller outdoor spaces.
-  Updated: 2026-04-29T12:57:13Z
+  Updated: 2026-05-06T12:59:54Z
   Vendor: Harbour
   Product Type: SUN LOUNGE
   Availability: Available
@@ -6449,7 +6449,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/breeze-sun-lounge-bree-04a-alwhi-bawhi-211362.png?v=1731142263
     Price: $2,795.00 USD
 - [Breeze Stacking Sun Lounge | Modern Aluminum Outdoor Furniture](https://shopharbour.com/products/breeze-stacking-sun-lounge): Breeze Stacking Sun Lounge balances modern style and alluring design with thin tubular aluminum frames and solid teak accents, perfect for smaller outdoor spaces.
-  Updated: 2026-04-29T12:57:11Z
+  Updated: 2026-05-06T12:59:53Z
   Vendor: Harbour
   Product Type: STACKING SUN LOUNGE
   Availability: Available
@@ -6463,7 +6463,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/breeze-stacking-sun-lounge-bree-04b-alwhi-bawhi-101080.png?v=1731142324
     Price: $1,995.00 USD
 - [Breeze 3 Seat Sofa | Modern Aluminum Outdoor Furniture](https://shopharbour.com/products/breeze-3-seat-sofa): Breeze 3 Seat Sofa balances modern style and alluring design with thin tubular aluminum frames and solid teak accents, perfect for smaller outdoor spaces.
-  Updated: 2026-04-29T12:15:28Z
+  Updated: 2026-05-06T12:16:00Z
   Vendor: Harbour
   Product Type: 3 SEAT SOFA
   Availability: Available
@@ -6669,7 +6669,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/breeze-3-seat-sofa-bree-05a-alast-basil-stifog-6835185.png?v=1775160018
     Price: $5,595.00 USD
 - [Breeze 2 Seat Sofa | Modern Aluminum Outdoor Furniture](https://shopharbour.com/products/breeze-2-seat-sofa): Breeze 2 Seat Sofa balances modern style and alluring design with thin tubular aluminum frames and solid teak accents, perfect for smaller outdoor spaces.
-  Updated: 2026-04-29T12:15:24Z
+  Updated: 2026-05-06T12:15:53Z
   Vendor: Harbour
   Product Type: 2 SEAT SOFA
   Availability: Available
@@ -6875,7 +6875,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/breeze-2-seat-sofa-bree-06a-alast-basil-stifog-4296410.png?v=1776115698
     Price: $4,295.00 USD
 - [Breeze Footstool | Modern Aluminum Outdoor Furniture](https://shopharbour.com/products/breeze-footstool): Breeze Footstool balances modern style and alluring design with thin tubular aluminum frames and solid teak accents, perfect for smaller outdoor spaces.
-  Updated: 2026-04-29T12:57:07Z
+  Updated: 2026-05-06T12:59:49Z
   Vendor: Harbour
   Product Type: FOOTSTOOL
   Availability: Available
@@ -6889,7 +6889,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/breeze-footstool-bree-09b-alwhi-bawhi-279074.png?v=1731142862
     Price: $850.00 USD
 - [Breeze Lounge Chair | Modern Aluminum Outdoor Furniture](https://shopharbour.com/products/breeze-lounge-chair): Breeze Lounge Chair balances modern style and alluring design with thin tubular aluminum frames and solid teak accents, perfect for smaller outdoor spaces.
-  Updated: 2026-04-29T12:15:33Z
+  Updated: 2026-05-06T12:16:06Z
   Vendor: Harbour
   Product Type: LOUNGE CHAIR
   Availability: Available
@@ -7095,7 +7095,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/breeze-lounge-chair-bree-08a-albrz-basil-pebwhi-5774200.png?v=1775160196
     Price: $2,595.00 USD
 - [Breeze XL Teak Dining Chair | Modern Teak Outdoor Furniture](https://shopharbour.com/products/breeze-xl-teak-dining-chair): Blending modern design with solid cylindrical teak, the Breeze XL Teak Dining Chair brings a minimalist coastal vibe and everyday comfort to outdoor dining.
-  Updated: 2026-04-29T12:57:51Z
+  Updated: 2026-05-06T13:00:35Z
   Vendor: Harbour
   Product Type: DINING CHAIR
   Availability: Available
@@ -7113,14 +7113,14 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/breeze-xl-teak-dining-chair-brtk-01a-tenat-babla-189428.png?v=1743457984
     Price: $995.00 USD
 - [Breeze XL Teak Dining Table 79" | Modern Teak Outdoor Furniture](https://shopharbour.com/products/breeze-xl-teak-dining-table-79): Blending modern design with solid cylindrical teak, the Breeze XL Teak Dining Table 79" brings a minimalist coastal vibe and everyday comfort to outdoor dining.
-  Updated: 2026-04-29T12:57:54Z
+  Updated: 2026-05-06T13:00:38Z
   Vendor: Harbour
   Product Type: DINING TABLE
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/breeze-xl-teak-dining-table-79-brtk-03b-tenat-842257.png?v=1731146956
   Price: $4,995.00 USD
 - [Breeze XL Teak Stacking Sun Lounge | Modern Teak Outdoor Furniture](https://shopharbour.com/products/breeze-xl-teak-stacking-sun-lounge): Blending modern design with solid cylindrical teak, the Breeze XL Teak Stacking Sun Lounge brings a minimalist coastal vibe and everyday comfort to outdoor lounging.
-  Updated: 2026-04-29T12:57:55Z
+  Updated: 2026-05-06T13:00:39Z
   Vendor: Harbour
   Product Type: STACKING SUN LOUNGE
   Availability: Available
@@ -7142,14 +7142,14 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/breeze-xl-teak-stacking-sun-lounge-brtk-04b-tenat-batau-5076900.png?v=1775160189
     Price: $2,250.00 USD
 - [Breeze XL Teak Dining Table 102" | Modern Teak Outdoor Furniture](https://shopharbour.com/products/breeze-xl-teak-dining-table-102): Blending modern design with solid cylindrical teak, the Breeze XL Teak Dining Table 102" brings a minimalist coastal vibe and everyday comfort to outdoor dining.
-  Updated: 2026-04-29T12:57:52Z
+  Updated: 2026-05-06T13:00:37Z
   Vendor: Harbour
   Product Type: DINING TABLE
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/breeze-xl-teak-dining-table-102-brtk-03c-tenat-518489.png?v=1731147005
   Price: $5,995.00 USD
 - [Breeze XL Teak 3 Seat Sofa | Modern Teak Outdoor Furniture](https://shopharbour.com/products/breeze-xl-teak-3-seat-sofa): Blending modern design with solid cylindrical teak, the Breeze XL Teak 3 Seat Sofa brings a minimalist coastal vibe and everyday comfort to outdoor living.
-  Updated: 2026-04-29T13:45:16Z
+  Updated: 2026-05-06T13:49:52Z
   Vendor: Harbour
   Product Type: 3 SEAT SOFA
   Availability: Available
@@ -7344,7 +7344,7 @@
     Availability: Available
     Price: $9,095.00 USD
 - [Breeze XL Teak 2 Seat Sofa | Modern Teak Outdoor Furniture](https://shopharbour.com/products/breeze-xl-teak-2-seat-sofa): Blending modern design with solid cylindrical teak, the Breeze XL Teak 2 Seat Sofa brings a minimalist coastal vibe and everyday comfort to outdoor living.
-  Updated: 2026-04-29T12:57:46Z
+  Updated: 2026-05-06T13:00:30Z
   Vendor: Harbour
   Product Type: 2 SEAT SOFA
   Availability: Available
@@ -7370,7 +7370,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/breeze-xl-teak-2-seat-sofa-brtk-06a-tenat-pancoc-4460866.png?v=1775160187
     Price: $5,695.00 USD
 - [Breeze XL Teak Lounge Chair | Modern Teak Outdoor Furniture](https://shopharbour.com/products/breeze-xl-teak-lounge-chair): Blending modern design with solid cylindrical teak, the Breeze XL Teak Lounge Chair brings a minimalist coastal vibe and everyday comfort to outdoor living.
-  Updated: 2026-04-29T13:45:44Z
+  Updated: 2026-05-06T13:50:21Z
   Vendor: Harbour
   Product Type: LOUNGE CHAIR
   Availability: Available
@@ -7530,7 +7530,7 @@
     Availability: Available
     Price: $3,695.00 USD
 - [Breeze XL Teak Ottoman | Modern Teak Outdoor Furniture](https://shopharbour.com/products/breeze-xl-teak-ottoman): Blending modern design with solid cylindrical teak, the Breeze XL Teak Ottoman brings a minimalist coastal vibe and everyday comfort to outdoor living.
-  Updated: 2026-04-29T19:39:19Z
+  Updated: 2026-05-06T19:39:39Z
   Vendor: Harbour
   Product Type: OTTOMAN
   Availability: Available
@@ -7736,14 +7736,14 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/breeze-xl-teak-ottoman-brtk-09a-tenat-sorsky-7432725.png?v=1775160436
     Price: $2,595.00 USD
 - [Breeze XL Teak Coffee Table | Modern Teak Outdoor Furniture](https://shopharbour.com/products/breeze-xl-teak-coffee-table): Blending modern design with solid cylindrical teak, the Breeze XL Teak Coffee Table brings a minimalist coastal vibe and everyday comfort to outdoor living.
-  Updated: 2026-04-29T12:57:49Z
+  Updated: 2026-05-06T13:00:34Z
   Vendor: Harbour
   Product Type: COFFEE TABLE
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/breeze-xl-teak-coffee-table-brtk-10a-tenat-711026.png?v=1731147324
   Price: $3,495.00 USD
 - [Breeze XL Aluminum Dining Chair | Modern Aluminum Outdoor Furniture](https://shopharbour.com/products/breeze-xl-dining-chair): Breeze XL Aluminum Dining Chair blends modern design with cylindrical powder-coated aluminum and teak accents, offering minimalist coastal style and comfort.
-  Updated: 2026-04-29T12:57:37Z
+  Updated: 2026-05-06T13:00:20Z
   Vendor: Harbour
   Product Type: DINING CHAIR
   Availability: Available
@@ -7757,7 +7757,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/breeze-xl-dining-chair-brxl-01a-alwhi-bawhi-919083.png?v=1743457476
     Price: $850.00 USD
 - [Breeze XL Aluminum Dining Table 79" | Modern Aluminum Outdoor Furniture](https://shopharbour.com/products/breeze-xl-dining-table-79): Breeze XL Aluminum Dining Table 79" blends modern design with cylindrical powder-coated aluminum and teak accents, offering minimalist coastal style and comfort.
-  Updated: 2026-04-29T12:57:41Z
+  Updated: 2026-05-06T13:00:24Z
   Vendor: Harbour
   Product Type: DINING TABLE
   Availability: Available
@@ -7771,7 +7771,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/breeze-xl-dining-table-79-brxl-03b-alwhi-657795.png?v=1731147449
     Price: $3,295.00 USD
 - [Breeze XL Aluminum Armless Dining Chair | Modern Aluminum Outdoor Furniture](https://shopharbour.com/products/breeze-xl-armless-dining-chair): Breeze XL Aluminum Armless Dining Chair blends modern design with cylindrical powder-coated aluminum and teak accents, offering minimalist coastal style and comfort.
-  Updated: 2026-04-29T12:57:23Z
+  Updated: 2026-05-06T13:00:05Z
   Vendor: Harbour
   Product Type: ARMLESS DINING CHAIR
   Availability: Available
@@ -7785,7 +7785,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/breeze-xl-aluminum-armless-dining-chair-brxl-01b-alast-basil-573861.png?v=1751523225
     Price: $795.00 USD
 - [Breeze XL Aluminum Dining Table 102" | Modern Aluminum Outdoor Furniture](https://shopharbour.com/products/breeze-xl-dining-table-102): Breeze XL Aluminum Dining Table 102" blends modern design with cylindrical powder-coated aluminum and teak accents, offering minimalist coastal style and comfort.
-  Updated: 2026-04-29T12:57:40Z
+  Updated: 2026-05-06T13:00:22Z
   Vendor: Harbour
   Product Type: DINING TABLE
   Availability: Available
@@ -7799,7 +7799,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/breeze-xl-dining-table-102-brxl-03c-alwhi-714368.png?v=1731147551
     Price: $4,295.00 USD
 - [Breeze XL Aluminum 3 Seat Sofa | Modern Aluminum Outdoor Furniture](https://shopharbour.com/products/breeze-xl-3-seat-sofa): Breeze XL Aluminum 3 Seat Sofa blends modern design with cylindrical powder-coated aluminum and teak accents, offering minimalist coastal style and comfort.
-  Updated: 2026-04-29T19:39:52Z
+  Updated: 2026-05-06T19:40:12Z
   Vendor: Harbour
   Product Type: 3 SEAT SOFA
   Availability: Available
@@ -8005,7 +8005,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/breeze-xl-aluminum-3-seat-sofa-brxl-05a-alwhi-marsno-7470334.png?v=1775074160
     Price: $8,750.00 USD
 - [Breeze XL Aluminum 2 Seat Sofa | Modern Aluminum Outdoor Furniture](https://shopharbour.com/products/breeze-xl-2-seat-sofa): Breeze XL Aluminum 2 Seat Sofa blends modern design with cylindrical powder-coated aluminum and teak accents, offering minimalist coastal style and comfort.
-  Updated: 2026-04-29T13:41:46Z
+  Updated: 2026-05-06T13:46:18Z
   Vendor: Harbour
   Product Type: 2 SEAT SOFA
   Availability: Available
@@ -8211,7 +8211,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/breeze-xl-aluminum-2-seat-sofa-brxl-06a-alast-marsno-3442481.png?v=1775074221
     Price: $6,895.00 USD
 - [Breeze XL Aluminum 2 Seat 1 Arm Left | Modern Aluminum Outdoor Furniture](https://shopharbour.com/products/breeze-xl-2-seat-1-arm-left): Breeze XL Aluminum 2 Seat 1 Arm Left blends modern design with cylindrical powder-coated aluminum and teak accents, offering minimalist coastal style and comfort.
-  Updated: 2026-04-29T13:40:19Z
+  Updated: 2026-05-06T13:44:46Z
   Vendor: Harbour
   Product Type: 2 SEAT 1 ARM LEFT
   Availability: Available
@@ -8417,7 +8417,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/breeze-xl-aluminum-2-seat-1-arm-left-brxl-06cl-alast-marsno-7247381.png?v=1775074412
     Price: $6,450.00 USD
 - [Breeze XL Aluminum 2 Seat 1 Arm Right | Modern Aluminum Outdoor Furniture](https://shopharbour.com/products/breeze-xl-2-seat-1-arm-right): Breeze XL Aluminum 2 Seat 1 Arm Right blends modern design with cylindrical powder-coated aluminum and teak accents, offering minimalist coastal style and comfort.
-  Updated: 2026-04-29T13:41:20Z
+  Updated: 2026-05-06T13:45:42Z
   Vendor: Harbour
   Product Type: 2 SEAT 1 ARM RIGHT
   Availability: Available
@@ -8623,7 +8623,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/breeze-xl-aluminum-2-seat-1-arm-right-brxl-06cr-albrz-stismo-8736842.png?v=1775074469
     Price: $5,050.00 USD
 - [Breeze XL Aluminum Daybed | Modern Aluminum Outdoor Furniture](https://shopharbour.com/products/breeze-xl-daybed): Breeze XL Aluminum Daybed blends modern design with cylindrical powder-coated aluminum and teak accents, offering minimalist coastal style and comfort.
-  Updated: 2026-04-29T13:44:14Z
+  Updated: 2026-05-06T13:48:54Z
   Vendor: Harbour
   Product Type: DAYBED
   Availability: Available
@@ -8829,7 +8829,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/breeze-xl-aluminum-daybed-brxl-07a-albrz-altsan-3290136.png?v=1775074647
     Price: $9,495.00 USD
 - [Breeze XL Aluminum Chaise Left | Modern Aluminum Outdoor Furniture](https://shopharbour.com/products/breeze-xl-chaise-left): Breeze XL Aluminum Chaise Left blends modern design with cylindrical powder-coated aluminum and teak accents, offering minimalist coastal style and comfort.
-  Updated: 2026-04-29T13:42:58Z
+  Updated: 2026-05-06T13:47:34Z
   Vendor: Harbour
   Product Type: CHAISE LEFT
   Availability: Available
@@ -9035,7 +9035,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/breeze-xl-aluminum-chaise-left-brxl-07bl-alast-marsno-2732691.png?v=1775074647
     Price: $5,495.00 USD
 - [Breeze XL Aluminum Chaise Right | Modern Aluminum Outdoor Furniture](https://shopharbour.com/products/breeze-xl-chaise-right): Breeze XL Aluminum Chaise Right blends modern design with cylindrical powder-coated aluminum and teak accents, offering minimalist coastal style and comfort.
-  Updated: 2026-04-29T13:43:23Z
+  Updated: 2026-05-06T13:48:01Z
   Vendor: Harbour
   Product Type: CHAISE RIGHT
   Availability: Available
@@ -9241,7 +9241,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/breeze-xl-aluminum-chaise-right-brxl-07br-alwhi-stisag-7471283.png?v=1775681538
     Price: $4,450.00 USD
 - [Breeze XL Aluminum Cabana | Modern Aluminum Outdoor Furniture](https://shopharbour.com/products/breeze-xl-cabana): Breeze XL Aluminum Cabana blends modern design with cylindrical powder-coated aluminum and teak accents, offering minimalist coastal style and comfort.
-  Updated: 2026-04-29T19:40:34Z
+  Updated: 2026-05-06T19:40:54Z
   Vendor: Harbour
   Product Type: CABANA
   Availability: Available
@@ -9447,7 +9447,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/breeze-xl-aluminum-cabana-brxl-07c-alast-tenat-stifog-4317226.png?v=1775081795
     Price: $19,495.00 USD
 - [Breeze XL Lounge Chair | Modern Aluminum Outdoor Furniture](https://shopharbour.com/products/breeze-xl-lounge-chair): Breeze XL Lounge Chair blends modern design with cylindrical powder-coated aluminum and teak accents, offering minimalist coastal style and comfort.
-  Updated: 2026-04-29T19:41:07Z
+  Updated: 2026-05-06T19:41:28Z
   Vendor: Harbour
   Product Type: LOUNGE CHAIR
   Availability: Available
@@ -9653,7 +9653,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/breeze-xl-aluminum-lounge-chair-brxl-08a-alwhi-stimos-1695049.png?v=1775081961
     Price: $2,795.00 USD
 - [Breeze XL Aluminum Corner | Modern Aluminum Outdoor Furniture](https://shopharbour.com/products/breeze-xl-corner): Breeze XL Aluminum Corner blends modern design with cylindrical powder-coated aluminum offering minimalist coastal style and comfort.
-  Updated: 2026-04-29T13:43:43Z
+  Updated: 2026-05-06T13:48:15Z
   Vendor: Harbour
   Product Type: CORNER
   Availability: Available
@@ -9859,7 +9859,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/breeze-xl-aluminum-corner-brxl-08c-alast-pebclo-6196581.png?v=1775082033
     Price: $3,695.00 USD
 - [Breeze XL Aluminum Ottoman | Modern Aluminum Outdoor Furniture](https://shopharbour.com/products/breeze-xl-ottoman): Breeze XL Aluminum Ottoman blends modern design with cylindrical powder-coated aluminum and teak accents, offering minimalist coastal style and comfort.
-  Updated: 2026-04-29T13:44:58Z
+  Updated: 2026-05-06T13:49:41Z
   Vendor: Harbour
   Product Type: OTTOMAN
   Availability: Available
@@ -10065,7 +10065,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/breeze-xl-aluminum-ottoman-brxl-09a-alast-stifog-3968723.png?v=1775082221
     Price: $2,150.00 USD
 - [Breeze XL Aluminum Coffee Table | Modern Aluminum Outdoor Furniture](https://shopharbour.com/products/breeze-xl-coffee-table): Breeze XL Aluminum Coffee Table blends modern design with cylindrical powder-coated aluminum and teak accents, offering minimalist coastal style and comfort.
-  Updated: 2026-04-29T12:57:30Z
+  Updated: 2026-05-06T13:00:13Z
   Vendor: Harbour
   Product Type: COFFEE TABLE
   Availability: Available
@@ -10079,7 +10079,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/breeze-xl-coffee-table-brxl-10e-alwhi-899462.png?v=1731160939
     Price: $2,150.00 USD
 - [Breeze XL Aluminum 66" Console | Modern Aluminum Outdoor Furniture](https://shopharbour.com/products/breeze-xl-console): Breeze XL Aluminum 66" Console blends modern design with cylindrical powder-coated aluminum and teak accents, offering minimalist coastal style and comfort.
-  Updated: 2026-04-29T12:57:23Z
+  Updated: 2026-05-06T13:00:05Z
   Vendor: Harbour
   Product Type: CONSOLE
   Availability: Available
@@ -10093,7 +10093,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/breeze-xl-66-console-brxl-12a-alwhi-318895.png?v=1731161527
     Price: $2,595.00 USD
 - [Byron Aluminum Dining Chair | Handcrafted Outdoor Luxury](https://shopharbour.com/products/byron-aluminum-dining-chair): The Byron Aluminum Dining Chair features sophisticated styling with architectural angles, handcrafted construction, and brass accents for understated outdoor luxury.
-  Updated: 2026-04-29T12:57:59Z
+  Updated: 2026-05-06T13:00:43Z
   Vendor: Harbour
   Product Type: DINING CHAIR
   Availability: Available
@@ -10111,7 +10111,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/byron-aluminum-dining-chair-byra-01a-altau-bawhi-455873.png?v=1743449751
     Price: $895.00 USD
 - [Byron Aluminum Counter Stool | Handcrafted Outdoor Luxury](https://shopharbour.com/products/byron-aluminum-counter-stool): The Byron Aluminum Counter Stool features sophisticated styling with architectural angles, handcrafted construction, and brass accents for understated outdoor luxury.
-  Updated: 2026-04-29T12:57:58Z
+  Updated: 2026-05-06T13:00:42Z
   Vendor: Harbour
   Product Type: COUNTER STOOL
   Availability: Available
@@ -10125,7 +10125,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/byron-aluminum-counter-stool-byra-02a-altau-bawhi-927567.png?v=1731161705
     Price: $950.00 USD
 - [Byron Aluminum Bar Stool | Handcrafted Outdoor Luxury](https://shopharbour.com/products/byron-aluminum-bar-stool): The Byron Aluminum Bar Stool features sophisticated styling with architectural angles, handcrafted construction, and brass accents for understated outdoor luxury.
-  Updated: 2026-04-29T12:57:56Z
+  Updated: 2026-05-06T13:00:41Z
   Vendor: Harbour
   Product Type: BAR STOOL
   Availability: Available
@@ -10139,7 +10139,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/byron-aluminum-bar-stool-byra-02c-altau-bawhi-848110.png?v=1731093234
     Price: $995.00 USD
 - [Byron Aluminum Extension Dining Table | Handcrafted Outdoor Luxury](https://shopharbour.com/products/byron-aluminum-extension-dining-table): The Byron Aluminum Extension Dining Table features sophisticated styling with architectural angles, handcrafted construction, and brass accents for understated outdoor luxury.
-  Updated: 2026-04-29T22:38:08Z
+  Updated: 2026-05-06T13:00:45Z
   Vendor: Harbour
   Product Type: DINING TABLE
   Availability: Available
@@ -10161,7 +10161,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/byron-aluminum-extension-dining-table-byra-03e-albrz-609480.png?v=1731093267
     Price: $7,495.00 USD
 - [Byron Teak Dining Chair | Handcrafted Outdoor Luxury](https://shopharbour.com/products/byron-dining-chair): The Byron Teak Dining Chair features sophisticated styling with architectural angles, handcrafted construction, and brass accents for understated outdoor luxury.
-  Updated: 2026-04-29T12:58:04Z
+  Updated: 2026-05-06T13:00:49Z
   Vendor: Harbour
   Product Type: DINING CHAIR
   Availability: Available
@@ -10179,7 +10179,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/byron-dining-chair-byro-01a-tenat-basil-329273.png?v=1743449772
     Price: $995.00 USD
 - [Byron Teak Counter Stool | Handcrafted Outdoor Luxury](https://shopharbour.com/products/byron-counter-stool): The Byron Teak Counter Stool features sophisticated styling with architectural angles, handcrafted construction, and brass accents for understated outdoor luxury.
-  Updated: 2026-04-29T12:58:04Z
+  Updated: 2026-05-06T13:00:48Z
   Vendor: Harbour
   Product Type: COUNTER STOOL
   Availability: Available
@@ -10193,7 +10193,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/byron-counter-stool-byro-02a-tenat-basil-677141.png?v=1731093582
     Price: $1,095.00 USD
 - [Byron Teak Bar Stool | Handcrafted Outdoor Luxury](https://shopharbour.com/products/byron-bar-stool): The Byron Teak Bar Stool features sophisticated styling with architectural angles, handcrafted construction, and brass accents for understated outdoor luxury.
-  Updated: 2026-04-29T12:58:02Z
+  Updated: 2026-05-06T13:00:46Z
   Vendor: Harbour
   Product Type: BAR STOOL
   Availability: Available
@@ -10211,14 +10211,14 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/BYTK-02C.png?v=1731093686
     Price: $1,125.00 USD
 - [Byron Teak Extension Dining Table | Handcrafted Outdoor Luxury](https://shopharbour.com/products/byron-extension-dining-table): The Byron Teak Extension Dining Table features sophisticated styling with architectural angles, handcrafted construction, and brass accents for understated outdoor luxury.
-  Updated: 2026-04-29T18:06:27Z
+  Updated: 2026-05-06T19:38:17Z
   Vendor: Harbour
   Product Type: DINING TABLE
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/byron-extension-dining-table-byro-03e-tenat-537847.png?v=1731093691
   Price: $7,995.00 USD
 - [Byron Teak Lounge Chair | Handcrafted Outdoor Luxury](https://shopharbour.com/products/byron-lounge-chair): The Byron Teak Lounge Chair features sophisticated styling with architectural angles, handcrafted construction, and brass accents for understated outdoor luxury.
-  Updated: 2026-04-29T12:58:08Z
+  Updated: 2026-05-06T13:00:54Z
   Vendor: Harbour
   Product Type: LOUNGE CHAIR
   Availability: Available
@@ -10243,7 +10243,7 @@
     Availability: Available
     Price: $1,995.00 USD
 - [Catalina Easy Chair](https://shopharbour.com/products/catalina-easy-chair): Our Catalina collection creates striking silhouettes with engineered solid teak for a laidback coastal aesthetic. The lowâ€“profile Catalina Easy Chair is cool and easy comfort â€” enjoy plush seat and back cushions supported by a curved back of laminated solid teak. Substantial and luxurious, this loungeâ€“worthy piece enhances any outdoor space. FEATURESâ€¢ Frame handcrafted of sustainably sourced solid Indonesian teak in our workshopâ€¢ When properly maintained and cared for, teak is the ideal outdoor material with its natural resistance to weather, cracking and rotting. Please refer to our Care + Maintenance Guide for additional information about the care and natural beauty of teakâ€¢ 1 seat cushion and 1 box back cushion included. Resistant to outdoor mildew, stains and fading.â€¢ Quick dry flowâ€“through foam seat cushion features a Dacron wrap for sinkâ€“in comfort. Back cushion is filled with Dacron.â€¢ Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural agingâ€¢ If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T12:58:12Z
+  Updated: 2026-05-06T13:00:56Z
   Vendor: Harbour
   Product Type: EASY CHAIR
   Availability: Available
@@ -10269,7 +10269,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/catalina-easy-chair-cata-08b-tenat-pancoc-8020816.png?v=1751584694
     Price: $3,750.00 USD
 - [Byron Teak Easy Chair | Handcrafted Outdoor Luxury](https://shopharbour.com/products/byron-easy-chair): The Byron Teak Easy Chair features sophisticated styling with architectural angles, handcrafted construction, and brass accents for understated outdoor luxury.
-  Updated: 2026-04-29T12:58:06Z
+  Updated: 2026-05-06T13:00:51Z
   Vendor: Harbour
   Product Type: EASY CHAIR
   Availability: Available
@@ -10290,7 +10290,7 @@
     Availability: Available
     Price: $1,895.00 USD
 - [Catalina Ottoman](https://shopharbour.com/products/catalina-ottoman): Our Catalina collection creates striking silhouettes with engineered solid teak for a laidback coastal aesthetic. The Catalina Ottoman is cool and easy comfort â€” enjoy a plush outdoor cushion on a solid teak base. Heavy and luxurious, this loungeâ€“worthy piece is designed to pair with the Catalina Easy Chair, offering the perfect place to put up your feet. FEATURESâ€¢ Frame handcrafted of sustainably sourced solid Indonesian teak in our workshopâ€¢ When properly maintained and cared for, teak is the ideal outdoor material with its natural resistance to weather, cracking and rotting. Please refer to our Care + Maintenance Guide for additional information about the care and natural beauty of teakâ€¢ 1 seat cushion included. Resistant to outdoor mildew, stains and fading.â€¢ Quick dry flowâ€“through foam seat cushion features a Dacron wrap for sinkâ€“in comfort. Back cushion is filled with Dacron.â€¢ Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural agingâ€¢ If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T12:58:13Z
+  Updated: 2026-05-06T13:00:58Z
   Vendor: Harbour
   Product Type: OTTOMAN
   Availability: Available
@@ -10316,14 +10316,14 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/catalina-ottoman-cata-09a-tenat-pancoc-5678540.png?v=1751584694
     Price: $1,750.00 USD
 - [Catalina Round Coffee Table](https://shopharbour.com/products/catalina-coffee-table): Our Catalina collection creates striking silhouettes with engineered solid teak for a laidback coastal aesthetic. The Catalina Round Coffee Table is the perfect anchor for your outdoor seating set — featuring a frame of combined solid teak planks tracing a round curve in two distinct segments for an architectural touch, all supporting a round slab of natural travertine. Unique and practical, this artisan piece enhances any outdoor space. FEATURES• Frame handcrafted of sustainably sourced solid Indonesian teak in our workshop• When properly maintained and cared for, teak is the ideal outdoor material with its natural resistance to weather, cracking and rotting. Please refer to our Care + Maintenance Guide for additional information about the care and natural beauty of teak• Travertine stone is a natural product. Expect patterns and textures to be unique to each top.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.•Assembly required.
-  Updated: 2026-04-29T12:58:15Z
+  Updated: 2026-05-06T13:00:59Z
   Vendor: Harbour
   Product Type: COFFEE TABLE
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/catalina-round-coffee-table-cata-10f-tenat-trcre-229792.png?v=1731094403
   Price: $4,495.00 USD
 - [Hamilton Dining Chair](https://shopharbour.com/products/hamilton-dining-chair): Our Hamilton collection pairs clean lines with practical design. The Hamilton Dining Chair is contemporary comfort — featuring an extruded aluminum base in Asteroid or Taupe with tapered legs, a sculptural contoured back rest and double–layered woven Olefin rope accents in Dark or Light Grey. Enjoy a pair of plush all–weather seat and back cushions available in a range of neutral tones for added comfort. This effortless contemporary dining chair is made to be incredibly versatile, elevating any space. Pair it with any Hamilton dining table to complete your outdoor dining set. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Back and arms hand wrapped with all–weather Olefin rope, a defining feature of the collection that adds comfort and visual interest• Superior quality powder coating applied for weather resistance• 1 seat cushion and 1 knife–edge back cushion included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushion is filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T19:43:10Z
+  Updated: 2026-05-06T19:43:29Z
   Vendor: Harbour
   Product Type: DINING CHAIR
   Availability: Available
@@ -10529,7 +10529,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hamilton-dining-chair-hami-01a-alast-rodgr-pebwhi-5747367.png?v=1775074949
     Price: $1,395.00 USD
 - [Hamilton Counter Stool](https://shopharbour.com/products/hamilton-counter-stool): Our Hamilton collection pairs clean lines with practical design. The Hamilton Counter Stool was designed as the perfect everyday seat for counter spaces — enjoy an extruded aluminum base in Asteroid or Taupe with tapered legs, a sculptural contoured back rest and double–layered woven Olefin rope accents in Dark or Light Grey. Enjoy a pair of plush all–weather seat and back cushions available in a range of neutral tones for added comfort. This effortless contemporary counter–height stool is made to be incredibly versatile, elevating any outdoor space. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Back and arms hand wrapped with all–weather Olefin rope, a defining feature of the collection that adds comfort and visual interest• Superior quality powder coating applied for weather resistance• 1 seat cushion and 1 knife–edge back cushion included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushion is filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T19:43:47Z
+  Updated: 2026-05-06T19:44:08Z
   Vendor: Harbour
   Product Type: COUNTER STOOL
   Availability: Available
@@ -10735,7 +10735,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hamilton-counter-stool-hami-02a-altau-rolgr-altsan-4602269.png?v=1775075129
     Price: $1,650.00 USD
 - [Hamilton Bar Stool](https://shopharbour.com/products/hamilton-bar-stool): Our Hamilton collection pairs clean lines with practical design. The Hamilton Bar Stool was designed as the perfect everyday seat for bar spaces — enjoy an extruded aluminum base in Asteroid or Taupe with tapered legs, a sculptural contoured back rest and double–layered woven Olefin rope accents in Dark or Light Grey. Enjoy a pair of plush all–weather seat and back cushions available in a range of neutral tones for added comfort. This effortless contemporary bar–height stool is made to be incredibly versatile, elevating any outdoor space. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Back and arms hand wrapped with all–weather Olefin rope, a defining feature of the collection that adds comfort and visual interest• Superior quality powder coating applied for weather resistance• 1 seat cushion and 1 knife–edge back cushion included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushion is filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T19:44:25Z
+  Updated: 2026-05-06T19:44:45Z
   Vendor: Harbour
   Product Type: BAR STOOL
   Availability: Available
@@ -10941,7 +10941,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hamilton-bar-stool-hami-02c-alast-rodgr-stifog-2898165.png?v=1775075301
     Price: $1,495.00 USD
 - [Hamilton Dining Table 39"](https://shopharbour.com/products/hamilton-dining-table-39): Our Hamilton collection pairs clean lines with practical design. The Hamilton Dining Table 39" was designed as the perfect outdoor table for four — enjoy an extruded aluminum base in Asteroid or Taupe with a matching slatted top and curved edges that echo the curved backs of the collection. The larger of our square dining tables, this effortless contemporary dining table is made to be incredibly versatile, elevating any space. Pair it with our Hamilton dining chair to complete your outdoor dining set. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Table sits 4 guests comfortably• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:07:57Z
+  Updated: 2026-05-06T13:10:43Z
   Vendor: Harbour
   Product Type: DINING TABLE
   Availability: Available
@@ -10955,7 +10955,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/hamilton-dining-table-39-hami-03a-altau-796041.png?v=1731095388
     Price: $2,295.00 USD
 - [Hamilton Dining Table 79"](https://shopharbour.com/products/hamilton-dining-table-79): Our Hamilton collection pairs clean lines with practical design. The Hamilton Dining Table 79" was designed as the perfect outdoor table for up to eight — enjoy an extruded aluminum base in Asteroid or Taupe with a matching slatted top and curved edges that echo the curved backs of the collection. The smaller of our rectangular dining tables, this effortless contemporary dining table is made to be incredibly versatile, elevating any space. Pair it with our Hamilton dining chair to complete your outdoor dining set. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Table sits 6-8 guests comfortably• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:08:01Z
+  Updated: 2026-05-06T13:10:46Z
   Vendor: Harbour
   Product Type: DINING TABLE
   Availability: Available
@@ -10969,7 +10969,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/FinishAluminumTaupe_36f96ddc-c41b-459d-98d5-52aadbc14ede.png?v=1731095516
     Price: $3,650.00 USD
 - [Hamilton Dinng Table 102"](https://shopharbour.com/products/hamilton-dining-table-102): Our Hamilton collection pairs clean lines with practical design. The Hamilton Dining Table 102" was designed as the perfect outdoor table for up to ten — enjoy an extruded aluminum base in Asteroid or Taupe with a matching slatted top and curved edges that echo the curved backs of the collection. The larger of our rectangular dining tables, this effortless contemporary dining table is made to be incredibly versatile, elevating any space. Pair it with our Hamilton dining chair to complete your outdoor dining set. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Table sits 8-10 guests comfortably• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:07:50Z
+  Updated: 2026-05-06T13:10:37Z
   Vendor: Harbour
   Product Type: DINING TABLE
   Availability: Available
@@ -10983,7 +10983,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/hamilton-dinng-table-102-hami-03c-altau-898649.png?v=1731095542
     Price: $4,195.00 USD
 - [Hamilton Dining Table 32"](https://shopharbour.com/products/hamilton-dining-table-32): Our Hamilton collection pairs clean lines with practical design. The Hamilton Square Dining Table 32" was designed as the perfect outdoor table for up to four — enjoy an extruded aluminum base in Asteroid or Taupe with a matching slatted top and curved edges that echo the curved backs of the collection. The smaller of our square dining tables, this effortless contemporary dining table is made to be incredibly versatile, elevating any space. Pair it with our Hamilton dining chair to complete your outdoor dining set. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Table sits 4 guests comfortably• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:07:52Z
+  Updated: 2026-05-06T13:10:39Z
   Vendor: Harbour
   Product Type: DINING TABLE
   Availability: Available
@@ -10997,7 +10997,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/hamilton-dining-table-32-hami-03n-altau-740838.png?v=1731095609
     Price: $2,095.00 USD
 - [Hamilton 2 Seat Sofa](https://shopharbour.com/products/hamilton-2-seat-sofa): Our Hamilton collection pairs clean lines with practical design. The Hamilton 2 Seat Sofa is contemporary comfort — featuring an extruded aluminum frame in Asteroid or Taupe with tapered legs, sculptural back rest contours and double–layered woven Olefin rope accents in Dark or Light Grey. Enjoy a plush all–weather bench cushion with knife–edge back cushions available in a range of neutral tones for total comfort. This effortless contemporary sofa is made to be incredibly versatile, elevating any outdoor space. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Back and arms hand wrapped with all–weather Olefin rope, a defining feature of the collection that adds comfort and visual interest• Superior quality powder coating applied for weather resistance• 1 seat cushion and 2 knife–edge back cushions included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushions are filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T19:46:14Z
+  Updated: 2026-05-06T19:46:40Z
   Vendor: Harbour
   Product Type: 2 SEAT SOFA
   Availability: Available
@@ -11203,7 +11203,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hamilton-2-seat-sofa-hami-06a-alast-rodgr-marpar-3053284.png?v=1775075302
     Price: $6,050.00 USD
 - [Hamilton 3 Seat Sofa](https://shopharbour.com/products/hamilton-3-seat-sofa): Our Hamilton collection pairs clean lines with practical design. The Hamilton 3 Seat Sofa is contemporary comfort — featuring an extruded aluminum frame in Asteroid or Taupe with tapered legs, sculptural back rest contours and double–layered woven Olefin rope accents in Dark or Light Grey. Enjoy a plush all–weather bench cushion with knife–edge back cushions available in a range of neutral tones for total comfort. This effortless contemporary sofa is made to be incredibly versatile, elevating any outdoor space. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Back and arms hand wrapped with all–weather Olefin rope, a defining feature of the collection that adds comfort and visual interest• Superior quality powder coating applied for weather resistance• 1 seat cushion and 3 knife–edge back cushions included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushions are filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T19:45:01Z
+  Updated: 2026-05-06T19:45:22Z
   Vendor: Harbour
   Product Type: 3 SEAT SOFA
   Availability: Available
@@ -11409,7 +11409,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/hamilton-3-seat-sofa-hami-05a-altau-rolgr-pangra-419443.png?v=1772493927
     Price: $5,950.00 USD
 - [Hamilton 2 Seat Armless Sofa](https://shopharbour.com/products/hamilton-2-seat-armless-sofa): Our Hamilton collection pairs clean lines with practical design. Part of our sectional collection, the Hamilton 2 Seat Armless Sofa is contemporary comfort — featuring an extruded aluminum frame in Asteroid or Taupe with tapered legs, sculptural back rest contours and double–layered woven Olefin rope accents in Dark or Light Grey. Enjoy a plush all–weather bench cushion with knife–edge back cushions available in a range of neutral tones for total comfort. This effortless contemporary sofa is made to be incredibly versatile, elevating any smaller outdoor space. Use it as a stand–alone element, or pair it with an opposite Chaise or Corner sofa and opposite 2 Seat 1 Arms for an inviting U–shaped sectional sofa. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Back and arms hand wrapped with all–weather Olefin rope, a defining feature of the collection that adds comfort and visual interest• Superior quality powder coating applied for weather resistance• 1 seat cushion and 2 knife–edge back cushions included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushions are filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T12:20:41Z
+  Updated: 2026-05-06T12:21:38Z
   Vendor: Harbour
   Product Type: 2 SEAT ARMLESS SOFA
   Availability: Available
@@ -11615,7 +11615,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hamilton-2-seat-armless-sofa-hami-06b-alast-rodgr-monsil-2139905.png?v=1775075549
     Price: $4,395.00 USD
 - [Hamilton 2 Seat 1 Arm Left](https://shopharbour.com/products/hamilton-2-seat-1-arm-left): Our Hamilton collection pairs clean lines with practical design. Part of our sectional collection, the Hamilton 2 Seat 1 Arm Left is contemporary comfort — featuring an extruded aluminum frame in Asteroid or Taupe with tapered legs, sculptural back rest contours and double–layered woven Olefin rope accents in Dark or Light Grey. Enjoy a plush all–weather bench cushion with knife–edge back cushions available in a range of neutral tones for total comfort. This effortless contemporary sofa is made to be incredibly versatile, elevating any outdoor space. Pair it with an opposite Chaise or Corner and opposite 2 Seat 1 Arm for a cornering sectional sofa. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Back and arms hand wrapped with all–weather Olefin rope, a defining feature of the collection that adds comfort and visual interest• Superior quality powder coating applied for weather resistance• 1 seat cushion and 2 knife–edge back cushions included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushions are filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T12:20:28Z
+  Updated: 2026-05-06T12:21:21Z
   Vendor: Harbour
   Product Type: 2 SEAT 1 ARM LEFT
   Availability: Available
@@ -11821,7 +11821,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hamilton-2-seat-1-arm-left-hami-06cl-alast-rodgr-stisag-5428655.png?v=1775595143
     Price: $4,295.00 USD
 - [Hamilton 2 Seat 1 Arm Right](https://shopharbour.com/products/hamilton-2-seat-1-arm-right): Our Hamilton collection pairs clean lines with practical design. Part of our sectional collection, the Hamilton 2 Seat 1 Arm Right is contemporary comfort — featuring an extruded aluminum frame in Asteroid or Taupe with tapered legs, sculptural back rest contours and double–layered woven Olefin rope accents in Dark or Light Grey. Enjoy a plush all–weather bench cushion with knife–edge back cushions available in a range of neutral tones for total comfort. This effortless contemporary sofa is made to be incredibly versatile, elevating any outdoor space. Pair it with an opposite Chaise or Corner and opposite 2 Seat 1 Arm for a cornering sectional sofa. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Back and arms hand wrapped with all–weather Olefin rope, a defining feature of the collection that adds comfort and visual interest• Superior quality powder coating applied for weather resistance• 1 seat cushion and 2 knife–edge back cushions included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushions are filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:06:23Z
+  Updated: 2026-05-06T13:09:08Z
   Vendor: Harbour
   Product Type: 2 SEAT 1 ARM RIGHT
   Availability: Available
@@ -12027,7 +12027,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hamilton-2-seat-1-arm-right-hami-06cr-altau-rolgr-stifog-5583994.png?v=1775082392
     Price: $4,295.00 USD
 - [Hamilton Daybed](https://shopharbour.com/products/hamilton-daybed): Our Hamilton collection pairs clean lines with practical design. The Hamilton Daybed is a relaxing escape — featuring an extruded aluminum frame in Asteroid or Taupe with tapered legs, sculptural back rest contours and double–layered woven Olefin rope accents in Dark or Light Grey. Lounge on a plush all–weather bench cushion with knife–edge back cushions available in a range of neutral tones for total comfort. Generous enough in size to host multiple people, this effortless contemporary outdoor daybed is made to be incredibly versatile, elevating any patio or poolside space. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Back and arms hand wrapped with all–weather Olefin rope, a defining feature of the collection that adds comfort and visual interest• Superior quality powder coating applied for weather resistance• 1 seat cushion and 2 knife–edge back cushions included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushions are filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T12:22:37Z
+  Updated: 2026-05-06T12:23:33Z
   Vendor: Harbour
   Product Type: DAYBED
   Availability: Available
@@ -12233,7 +12233,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hamilton-daybed-hami-07a-altau-rolgr-monchr-4526380.png?v=1775160437
     Price: $8,095.00 USD
 - [Hamilton Chaise Left](https://shopharbour.com/products/hamilton-chaise-left): Our Hamilton collection pairs clean lines with practical design. Part of our sectional collection, the Hamilton Chaise Left is contemporary comfort — featuring an extruded aluminum frame in Asteroid or Taupe with tapered legs, sculptural back rest contours and double–layered woven Olefin rope accents in Dark or Light Grey. Enjoy a plush all–weather bench cushion with knife–edge back cushions available in a range of neutral tones for total comfort. This effortless contemporary chaise sofa is made to be incredibly versatile, elevating any outdoor space. Pair it with an opposite 2 Seat 1 Arm for a chaise sectional sofa. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Back and arms hand wrapped with all–weather Olefin rope, a defining feature of the collection that adds comfort and visual interest• Superior quality powder coating applied for weather resistance• 1 seat cushion and 1 knife–edge back cushion included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushion is filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:07:04Z
+  Updated: 2026-05-06T13:09:51Z
   Vendor: Harbour
   Product Type: CHAISE LEFT
   Availability: Available
@@ -12439,7 +12439,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hamilton-chaise-left-hami-07bl-altau-rolgr-marmin-6398869.png?v=1775595197
     Price: $5,595.00 USD
 - [Hamilton Chaise Right](https://shopharbour.com/products/hamilton-chaise-right): Our Hamilton collection pairs clean lines with practical design. Part of our sectional collection, the Hamilton Chaise Right is contemporary comfort — featuring an extruded aluminum frame in Asteroid or Taupe with tapered legs, sculptural back rest contours and double–layered woven Olefin rope accents in Dark or Light Grey. Enjoy a plush all–weather bench cushion with knife–edge back cushions available in a range of neutral tones for total comfort. This effortless contemporary sofa is made to be incredibly versatile, elevating any outdoor space. Pair it with an opposite 2 Seat 1 Arm for a chaise sectional sofa. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Back and arms hand wrapped with all–weather Olefin rope, a defining feature of the collection that adds comfort and visual interest• Superior quality powder coating applied for weather resistance• 1 seat cushion and 1 knife–edge back cushion included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushion is filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T12:22:15Z
+  Updated: 2026-05-06T12:23:13Z
   Vendor: Harbour
   Product Type: CHAISE RIGHT
   Availability: Available
@@ -12645,7 +12645,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hamilton-chaise-right-hami-07br-altau-rolgr-monchr-9127855.png?v=1775595197
     Price: $4,695.00 USD
 - [Hamilton Lounge Chair](https://shopharbour.com/products/hamilton-lounge-chair): Our Hamilton collection pairs clean lines with practical design. The Hamilton Lounge Chair is contemporary comfort — featuring an extruded aluminum frame in Asteroid or Taupe with tapered legs, sculptural back rest contours and double–layered woven Olefin rope accents in Dark or Light Grey. Enjoy a plush all–weather cushion with a knife–edge back cushion available in a range of neutral tones for total comfort. This effortless contemporary lounge chair is made to be incredibly versatile, elevating any outdoor space. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Back and arms hand wrapped with all–weather Olefin rope, a defining feature of the collection that adds comfort and visual interest• Superior quality powder coating applied for weather resistance• 1 seat cushion and 1 knife–edge back cushion included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushion is filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T19:46:54Z
+  Updated: 2026-05-06T19:47:21Z
   Vendor: Harbour
   Product Type: LOUNGE CHAIR
   Availability: Available
@@ -12851,7 +12851,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hamilton-lounge-chair-hami-08a-altau-rolgr-marpar-7199187.png?v=1775082641
     Price: $3,150.00 USD
 - [Hamilton Corner](https://shopharbour.com/products/hamilton-corner): Our Hamilton collection pairs clean lines with practical design. Part of our sectional collection, the Hamilton Corner is contemporary comfort — featuring an extruded aluminum frame in Asteroid or Taupe with tapered legs, sculptural back rest contours and double–layered woven Olefin rope accents in Dark or Light Grey. Enjoy a plush all–weather bench cushion with knife–edge back cushions available in a range of neutral tones for total comfort. This effortless contemporary corner sofa is made to be incredibly versatile, elevating any outdoor space. Pair it with a 2 Seat 1 Arm or an Armless Single for a modular sofa option. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Back and arms hand wrapped with all–weather Olefin rope, a defining feature of the collection that adds comfort and visual interest• Superior quality powder coating applied for weather resistance• 1 seat cushion and 2 knife–edge back cushions included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushions are filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:07:21Z
+  Updated: 2026-05-06T13:10:08Z
   Vendor: Harbour
   Product Type: CORNER
   Availability: Available
@@ -13057,7 +13057,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hamilton-corner-hami-08c-alast-rodgr-pebclo-3380137.png?v=1775595317
     Price: $3,450.00 USD
 - [Hamilton Ottoman](https://shopharbour.com/products/hamilton-ottoman): Our Hamilton collection pairs clean lines with practical design. Part of our sectional collection, the Hamilton Ottoman is designed for kicking back — featuring an extruded aluminum frame in Asteroid or Taupe with tapered legs and a slatted suspension supporting a plush all–weather cushion available in a range of neutral tones. Generous in size, this effortless contemporary ottoman pairs seamlessly with Sectionals, Sofas or Chairs, elevating any outdoor space. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Back and arms hand wrapped with all–weather Olefin rope, a defining feature of the collection that adds comfort and visual interest• Superior quality powder coating applied for weather resistance• 1 seat cushion included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:55:07Z
+  Updated: 2026-05-06T13:59:53Z
   Vendor: Harbour
   Product Type: OTTOMAN
   Availability: Available
@@ -13263,7 +13263,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hamilton-ottoman-hami-09a-albon-pebclo-5625464.png?v=1775160676
     Price: $2,350.00 USD
 - [Hamilton Armless Single](https://shopharbour.com/products/hamilton-armless-single): Our Hamilton collection pairs clean lines with practical design. Part of our sectional collection, the Hamilton Armless Single is contemporary comfort — featuring an extruded aluminum frame in Asteroid or Taupe with tapered legs, sculptural back rest contours and double–layered woven Olefin rope accents in Dark or Light Grey. Enjoy a plush all–weather seat cushion with a knife–edge back cushion available in a range of neutral tones for total comfort. This effortless contemporary armless single is made to be incredibly versatile, elevating any outdoor space. Use it as a stand–alone element, or in multiples paired with Corners to create a modular sectional sofa. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Back and arms hand wrapped with all–weather Olefin rope, a defining feature of the collection that adds comfort and visual interest• Superior quality powder coating applied for weather resistance• 1 seat cushion and 1 knife–edge back cushion included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushion is filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T19:47:31Z
+  Updated: 2026-05-06T19:47:59Z
   Vendor: Harbour
   Product Type: ARMLESS SINGLE
   Availability: Available
@@ -13469,7 +13469,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hamilton-armless-single-hami-08d-altau-rolgr-marmin-3588034.png?v=1775082684
     Price: $3,095.00 USD
 - [Hamilton Footstool](https://shopharbour.com/products/hamilton-footstool): Our Hamilton collection pairs clean lines with practical design. The Hamilton Footstool is designed for kicking back — featuring an extruded aluminum tubular frame in Asteroid or Taupe wrapped in double–layered woven Olefin rope in Dark or Light Grey for a softness that's also weatherproof. An easy and fun–shaped alternative to a traditional ottoman, this effortless contemporary footstool is ideal for additional seating and also adds bonus visual interest to any outdoor design. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Back and arms hand wrapped with all–weather Olefin rope, a defining feature of the collection that adds comfort and visual interest• Superior quality powder coating applied for weather resistance• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:08:03Z
+  Updated: 2026-05-06T13:10:48Z
   Vendor: Harbour
   Product Type: FOOTSTOOL
   Availability: Available
@@ -13483,7 +13483,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/hamilton-footstool-hami-09b-altau-rolgr-169300.png?v=1731099084
     Price: $895.00 USD
 - [Hamilton Coffee Table](https://shopharbour.com/products/hamilton-coffee-table): Our Hamilton collection pairs clean lines with practical design. The Hamilton Coffee Table was designed as the perfect anchor for your seating set — featuring an extruded aluminum base in Asteroid or Taupe with a matching slatted top and curved edges that echo the curved backs of the collection. This effortless contemporary coffee table is made to be incredibly versatile, elevating any outdoor space. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:07:13Z
+  Updated: 2026-05-06T13:10:00Z
   Vendor: Harbour
   Product Type: COFFEE TABLE
   Availability: Available
@@ -13497,7 +13497,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/FinishAluminumTaupe_fa51aec5-107d-4418-8c5f-0931c71aaca7.png?v=1731099317
     Price: $1,795.00 USD
 - [Hampton Dining Table 75"](https://shopharbour.com/products/hampton-dining-table-75): Our Hampton collection layers interesting angles with simplicity of form for a harmonious design. The Hampton Dining Table 2000 is an elegant update to a timeless table that's perfect for up to eight — featuring square geometries of extruded aluminum supporting an Italian ceramic top with a beautiful pattern of natural swirls. A showpiece that's easy to maintain, this smaller rectangular option is a perfect fit for any outdoor space. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Table sits 6-8 guests comfortably• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:08:13Z
+  Updated: 2026-05-06T13:10:59Z
   Vendor: Harbour
   Product Type: DINING TABLE
   Availability: Available
@@ -13511,7 +13511,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/hampton-dining-table-75-hamp-03b-alwhi-labia-567504.png?v=1731099432
     Price: $5,095.00 USD
 - [Hampton Dining Table 100"](https://shopharbour.com/products/hampton-dining-table-100): Our Hampton collection layers interesting angles with simplicity of form for a harmonious design. The Hampton Dining Table 2600 is an elegant update to a timeless table that's perfect for up to ten — featuring square geometries of extruded aluminum supporting an Italian ceramic top with a beautiful pattern of natural swirls. A showpiece that's easy to maintain, this larger rectangular option is a perfect fit for any outdoor space. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Table sits 8-10 guests comfortably• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:08:11Z
+  Updated: 2026-05-06T13:10:56Z
   Vendor: Harbour
   Product Type: DINING TABLE
   Availability: Available
@@ -13525,7 +13525,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/hampton-dining-table-100-hamp-03c-alwhi-labia-584989.png?v=1731099553
     Price: $6,495.00 USD
 - [Hampton Sun Lounge](https://shopharbour.com/products/hampton-sun-lounge): Our Hampton collection layers interesting angles with simplicity of form for a harmonious design. The Hampton Sun Lounge is an elegant update to timeless pieces — enjoy a Batyline sling suspension with no cushion required for easy maintenance, all handcrafted in square geometries of extruded aluminum. Clean lines and versatility make this piece a perfect fit for any outdoor space. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Fully adjustable back to achieve desired angle of recline• Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:08:20Z
+  Updated: 2026-05-06T13:11:15Z
   Vendor: Harbour
   Product Type: SUN LOUNGE
   Availability: Available
@@ -13539,7 +13539,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/FinishAluminumWhite_SlingBatylineWhite_73083024-1cde-4d17-a583-62aef7b0dfda.png?v=1731100391
     Price: $2,095.00 USD
 - [Hampton 3 Seat Sofa](https://shopharbour.com/products/hampton-3-seat-sofa): Our Hampton collection layers interesting angles with simplicity of form for a harmonious design. The Hampton 3 Seat Sofa is an elegant update to timeless pieces — enjoy a plush bench cushion on a sling suspension, all handcrafted in square geometries of extruded aluminum. Side cushions add extra comfort while square cut–out details add visual interest. Clean lines and versatility make this piece a perfect fit for any outdoor space. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• 1 seat cushion, 3 knife–edge back cushions and armrest pillows included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushions are filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:08:09Z
+  Updated: 2026-05-06T13:10:54Z
   Vendor: Harbour
   Product Type: 3 SEAT SOFA
   Availability: Available
@@ -13649,7 +13649,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hampton-3-seat-sofa-hamp-05a-alwhi-bawhi-pangra-7965914.png?v=1775160438
     Price: $6,195.00 USD
 - [Hampton 2 Seat Sofa](https://shopharbour.com/products/hampton-2-seat-sofa): Our Hampton collection layers interesting angles with simplicity of form for a harmonious design. The Hampton 2 Seat Sofa is an elegant update to timeless pieces — enjoy a plush bench cushion on a sling suspension, all handcrafted in square geometries of extruded aluminum. Side cushions add extra comfort while square cut–out details add visual interest. Clean lines and versatility make this piece a perfect fit for any smaller outdoor space. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• 1 seat cushion, 2 knife–edge back cushions and armrest pillows included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushions are filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-15T07:18:44Z
+  Updated: 2026-05-06T13:10:53Z
   Vendor: Harbour
   Product Type: 2 SEAT SOFA
   Availability: Available
@@ -13758,8 +13758,80 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hampton-2-seat-sofa-hamp-06a-alwhi-bawhi-pangra-7273458.png?v=1775160438
     Price: $5,195.00 USD
+  - [Aluminum Bone / Panama Blanco / Batyline White](https://shopharbour.com/products/hampton-2-seat-sofa?variant=48305517986040)
+    Availability: Available
+    Price: $5,195.00 USD
+  - [Aluminum Bone / Panama Cloud / Batyline White](https://shopharbour.com/products/hampton-2-seat-sofa?variant=48305518018808)
+    Availability: Available
+    Price: $5,195.00 USD
+  - [Aluminum Bone / Panama Coco / Batyline White](https://shopharbour.com/products/hampton-2-seat-sofa?variant=48305518051576)
+    Availability: Available
+    Price: $5,195.00 USD
+  - [Aluminum Bone / Panama Grafito / Batyline White](https://shopharbour.com/products/hampton-2-seat-sofa?variant=48305518084344)
+    Availability: Available
+    Price: $5,195.00 USD
+  - [Aluminum Bone / Panama Marble / Batyline White](https://shopharbour.com/products/hampton-2-seat-sofa?variant=48305518117112)
+    Availability: Available
+    Price: $5,195.00 USD
+  - [Aluminum Bone / Riviera Ivory / Batyline White](https://shopharbour.com/products/hampton-2-seat-sofa?variant=48305518149880)
+    Availability: Available
+    Price: $6,095.00 USD
+  - [Aluminum Bone / Riviera Sand / Batyline White](https://shopharbour.com/products/hampton-2-seat-sofa?variant=48305518182648)
+    Availability: Available
+    Price: $6,095.00 USD
+  - [Aluminum Bone / Riviera Slate / Batyline White](https://shopharbour.com/products/hampton-2-seat-sofa?variant=48305518215416)
+    Availability: Available
+    Price: $6,095.00 USD
+  - [Aluminum Bone / Riviera Stone / Batyline White](https://shopharbour.com/products/hampton-2-seat-sofa?variant=48305518248184)
+    Availability: Available
+    Price: $6,095.00 USD
+  - [Aluminum Bone / Siesta Indigo / Batyline White](https://shopharbour.com/products/hampton-2-seat-sofa?variant=48305518280952)
+    Availability: Available
+    Price: $6,095.00 USD
+  - [Aluminum Bone / Siesta Ivory / Batyline White](https://shopharbour.com/products/hampton-2-seat-sofa?variant=48305518313720)
+    Availability: Available
+    Price: $6,095.00 USD
+  - [Aluminum Bone / Siesta Slate / Batyline White](https://shopharbour.com/products/hampton-2-seat-sofa?variant=48305518346488)
+    Availability: Available
+    Price: $6,095.00 USD
+  - [Aluminum Bone / Siesta Taupe / Batyline White](https://shopharbour.com/products/hampton-2-seat-sofa?variant=48305518379256)
+    Availability: Available
+    Price: $6,095.00 USD
+  - [Aluminum Bronze / Panama Blanco / Batyline Silver](https://shopharbour.com/products/hampton-2-seat-sofa?variant=48305518412024)
+    Availability: Available
+    Price: $5,195.00 USD
+  - [Aluminum Bronze / Panama Cloud / Batyline Silver](https://shopharbour.com/products/hampton-2-seat-sofa?variant=48305518444792)
+    Availability: Available
+    Price: $5,195.00 USD
+  - [Aluminum Bronze / Panama Coco / Batyline Silver](https://shopharbour.com/products/hampton-2-seat-sofa?variant=48305518477560)
+    Availability: Available
+    Price: $5,195.00 USD
+  - [Aluminum Bronze / Panama Grafito / Batyline Silver](https://shopharbour.com/products/hampton-2-seat-sofa?variant=48305518510328)
+    Availability: Available
+    Price: $5,195.00 USD
+  - [Aluminum Bronze / Panama Marble / Batyline Silver](https://shopharbour.com/products/hampton-2-seat-sofa?variant=48305518543096)
+    Availability: Available
+    Price: $5,195.00 USD
+  - [Aluminum Bronze / Riviera Ivory / Batyline Silver](https://shopharbour.com/products/hampton-2-seat-sofa?variant=48305518575864)
+    Availability: Available
+    Price: $6,095.00 USD
+  - [Aluminum Bronze / Riviera Sand / Batyline Silver](https://shopharbour.com/products/hampton-2-seat-sofa?variant=48305518608632)
+    Availability: Available
+    Price: $6,095.00 USD
+  - [Aluminum Bronze / Riviera Slate / Batyline Silver](https://shopharbour.com/products/hampton-2-seat-sofa?variant=48305518641400)
+    Availability: Available
+    Price: $6,095.00 USD
+  - [Aluminum Bronze / Riviera Stone / Batyline Silver](https://shopharbour.com/products/hampton-2-seat-sofa?variant=48305518674168)
+    Availability: Available
+    Price: $6,095.00 USD
+  - [Aluminum Bronze / Siesta Indigo / Batyline Silver](https://shopharbour.com/products/hampton-2-seat-sofa?variant=48305518706936)
+    Availability: Available
+    Price: $6,095.00 USD
+  - [Aluminum Bronze / Siesta Ivory / Batyline Silver](https://shopharbour.com/products/hampton-2-seat-sofa?variant=48305518739704)
+    Availability: Available
+    Price: $6,095.00 USD
 - [Hampton Lounge Chair](https://shopharbour.com/products/hampton-lounge-chair): Our Hampton collection layers interesting angles with simplicity of form for a harmonious design. The Hampton Lounge Chair is an elegant update to timeless pieces — enjoy a plush cushion on a sling suspension, all handcrafted in square geometries of extruded aluminum. Side cushions add extra comfort while square cut–out details add visual interest. Clean lines and versatility make this piece a perfect fit for any outdoor space. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• 1 seat cushion, 1 knife–edge back cushion and armrest pillows included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushion is filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-15T07:18:44Z
+  Updated: 2026-05-06T13:11:01Z
   Vendor: Harbour
   Product Type: LOUNGE CHAIR
   Availability: Available
@@ -13868,8 +13940,80 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hampton-lounge-chair-hamp-08a-alwhi-bawhi-pangra-1012874.png?v=1775595312
     Price: $2,995.00 USD
+  - [Aluminum Bone / Panama Blanco / Batyline White](https://shopharbour.com/products/hampton-lounge-chair?variant=48305519362296)
+    Availability: Available
+    Price: $2,995.00 USD
+  - [Aluminum Bone / Panama Cloud / Batyline White](https://shopharbour.com/products/hampton-lounge-chair?variant=48305519395064)
+    Availability: Available
+    Price: $2,995.00 USD
+  - [Aluminum Bone / Panama Coco / Batyline White](https://shopharbour.com/products/hampton-lounge-chair?variant=48305519427832)
+    Availability: Available
+    Price: $2,995.00 USD
+  - [Aluminum Bone / Panama Grafito / Batyline White](https://shopharbour.com/products/hampton-lounge-chair?variant=48305519460600)
+    Availability: Available
+    Price: $2,995.00 USD
+  - [Aluminum Bone / Panama Marble / Batyline White](https://shopharbour.com/products/hampton-lounge-chair?variant=48305519493368)
+    Availability: Available
+    Price: $2,995.00 USD
+  - [Aluminum Bone / Riviera Ivory / Batyline White](https://shopharbour.com/products/hampton-lounge-chair?variant=48305519526136)
+    Availability: Available
+    Price: $3,495.00 USD
+  - [Aluminum Bone / Riviera Sand / Batyline White](https://shopharbour.com/products/hampton-lounge-chair?variant=48305519558904)
+    Availability: Available
+    Price: $3,495.00 USD
+  - [Aluminum Bone / Riviera Slate / Batyline White](https://shopharbour.com/products/hampton-lounge-chair?variant=48305519591672)
+    Availability: Available
+    Price: $3,495.00 USD
+  - [Aluminum Bone / Riviera Stone / Batyline White](https://shopharbour.com/products/hampton-lounge-chair?variant=48305519624440)
+    Availability: Available
+    Price: $3,495.00 USD
+  - [Aluminum Bone / Siesta Indigo / Batyline White](https://shopharbour.com/products/hampton-lounge-chair?variant=48305519657208)
+    Availability: Available
+    Price: $3,495.00 USD
+  - [Aluminum Bone / Siesta Ivory / Batyline White](https://shopharbour.com/products/hampton-lounge-chair?variant=48305519689976)
+    Availability: Available
+    Price: $3,495.00 USD
+  - [Aluminum Bone / Siesta Slate / Batyline White](https://shopharbour.com/products/hampton-lounge-chair?variant=48305519722744)
+    Availability: Available
+    Price: $3,495.00 USD
+  - [Aluminum Bone / Siesta Taupe / Batyline White](https://shopharbour.com/products/hampton-lounge-chair?variant=48305519755512)
+    Availability: Available
+    Price: $3,495.00 USD
+  - [Aluminum Bronze / Panama Blanco / Batyline Silver](https://shopharbour.com/products/hampton-lounge-chair?variant=48305519788280)
+    Availability: Available
+    Price: $2,995.00 USD
+  - [Aluminum Bronze / Panama Cloud / Batyline Silver](https://shopharbour.com/products/hampton-lounge-chair?variant=48305519821048)
+    Availability: Available
+    Price: $2,995.00 USD
+  - [Aluminum Bronze / Panama Coco / Batyline Silver](https://shopharbour.com/products/hampton-lounge-chair?variant=48305519853816)
+    Availability: Available
+    Price: $2,995.00 USD
+  - [Aluminum Bronze / Panama Grafito / Batyline Silver](https://shopharbour.com/products/hampton-lounge-chair?variant=48305519886584)
+    Availability: Available
+    Price: $2,995.00 USD
+  - [Aluminum Bronze / Panama Marble / Batyline Silver](https://shopharbour.com/products/hampton-lounge-chair?variant=48305519919352)
+    Availability: Available
+    Price: $2,995.00 USD
+  - [Aluminum Bronze / Riviera Ivory / Batyline Silver](https://shopharbour.com/products/hampton-lounge-chair?variant=48305519952120)
+    Availability: Available
+    Price: $3,495.00 USD
+  - [Aluminum Bronze / Riviera Sand / Batyline Silver](https://shopharbour.com/products/hampton-lounge-chair?variant=48305519984888)
+    Availability: Available
+    Price: $3,495.00 USD
+  - [Aluminum Bronze / Riviera Slate / Batyline Silver](https://shopharbour.com/products/hampton-lounge-chair?variant=48305520017656)
+    Availability: Available
+    Price: $3,495.00 USD
+  - [Aluminum Bronze / Riviera Stone / Batyline Silver](https://shopharbour.com/products/hampton-lounge-chair?variant=48305520050424)
+    Availability: Available
+    Price: $3,495.00 USD
+  - [Aluminum Bronze / Siesta Indigo / Batyline Silver](https://shopharbour.com/products/hampton-lounge-chair?variant=48305520083192)
+    Availability: Available
+    Price: $3,495.00 USD
+  - [Aluminum Bronze / Siesta Ivory / Batyline Silver](https://shopharbour.com/products/hampton-lounge-chair?variant=48305520115960)
+    Availability: Available
+    Price: $3,495.00 USD
 - [Hampton Rectangle Coffee Table](https://shopharbour.com/products/hampton-rectangle-coffee-table): Our Hampton collection layers interesting angles with simplicity of form for a harmonious design. The Hampton Rectangle Coffee Table is an elegant update to a timeless table — featuring square geometries of extruded aluminum supporting an Italian ceramic top with a beautiful pattern of natural swirls. A showpiece that's easy to maintain, this coffee table is a perfect fit for any outdoor space. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Laminam top is highly resistant to abrasion and other damage• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.•Assembly required.
-  Updated: 2026-04-29T13:08:15Z
+  Updated: 2026-05-06T13:11:04Z
   Vendor: Harbour
   Product Type: COFFEE TABLE
   Availability: Available
@@ -13883,7 +14027,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/hampton-rectangle-coffee-table-hamp-10a-alwhi-labia-143867.png?v=1731108432
     Price: $2,695.00 USD
 - [Hampton Round Coffee Table](https://shopharbour.com/products/hampton-round-coffee-table): Our Hampton collection layers interesting angles with simplicity of form for a harmonious design. The Hampton Round Coffee Table is an elegant update to a timeless table — featuring square geometries of extruded aluminum and a three-leg design with stretchers supporting a matching slatted aluminum top. Easy to maintain, this coffee table is a perfect fit for any outdoor space. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:08:17Z
+  Updated: 2026-05-06T13:11:10Z
   Vendor: Harbour
   Product Type: COFFEE TABLE
   Availability: Available
@@ -13897,7 +14041,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/hampton-round-coffee-table-hamp-10f-alwhi-411665.png?v=1731110079
     Price: $2,295.00 USD
 - [Hampton Side Table](https://shopharbour.com/products/hampton-side-table): Our Hampton collection layers interesting angles with simplicity of form for a harmonious design. The Hampton Rectangle Coffee Table is an elegant update to a timeless table — featuring square geometries of extruded aluminum supporting an Italian ceramic top with a beautiful pattern of natural swirls. A showpiece that's easy to maintain, this side table is a perfect fit for any outdoor space. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Laminam top is highly resistant to abrasion and other damage• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.•Assembly required.
-  Updated: 2026-04-29T13:08:18Z
+  Updated: 2026-05-06T13:11:12Z
   Vendor: Harbour
   Product Type: SIDE TABLE
   Availability: Available
@@ -13911,7 +14055,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/hampton-side-table-hamp-11b-alwhi-labia-822919.png?v=1741633885
     Price: $1,395.00 USD
 - [Hayman Dining Chair](https://shopharbour.com/products/hayman-dining-chair): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Our Hayman Dining Chair was designed as the perfect everyday seat — enjoy a simple, modern chair with an aluminum extrusion frame available in Asteroid of White supported by a Batyline sling suspension in Silver or White for added comfort and easy cleaning. Indoor–inspired comfort meets outdoor performance with this modern dining chair made for a variety of spaces. Pair it with any Hayman dining table to complete the outdoor dining set. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:08:38Z
+  Updated: 2026-05-06T13:11:45Z
   Vendor: Harbour
   Product Type: DINING CHAIR
   Availability: Available
@@ -13925,7 +14069,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/hayman-dining-chair-haym-01a-alwhi-bawhi-159163.png?v=1765923385
     Price: $675.00 USD
 - [Hayman Armless Dining Chair](https://shopharbour.com/products/hayman-armless-dining-chair): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Our Hayman Armless Dining Chair was designed as the perfect everyday seat — enjoy a simple, modern chair with an aluminum extrusion frame available in Asteroid of White supported by a Batyline sling suspension in Silver or White for added comfort and easy cleaning. Made to be used as a side chair in combination with the Hayman Dining Chair. Indoor–inspired comfort meets outdoor performance with this modern armless dining chair made for a variety of spaces. Pair it with any Hayman dining table to complete the outdoor dining set. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T14:55:28Z
+  Updated: 2026-05-06T13:11:30Z
   Vendor: Harbour
   Product Type: ARMLESS DINING CHAIR
   Availability: Available
@@ -13939,7 +14083,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/hayman-armless-dining-chair-haym-01b-alwhi-bawhi-959014.png?v=1765923277
     Price: $625.00 USD
 - [Hayman Counter Stool](https://shopharbour.com/products/hayman-counter-stool): Our Hayman collection is a statement in simplicity with clean angles and modern styling. The higher version of our dining chair, our Hayman Counter Stool was designed as the perfect everyday seat for counter spaces — enjoy a simple, modern chair with an aluminum extrusion frame available in Asteroid or White supported by a Batyline sling suspension in Silver or White for added comfort and easy cleaning. Indoor–inspired comfort meets outdoor performance with this modern counter–height stool made for a variety of spaces. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:08:37Z
+  Updated: 2026-05-06T13:11:45Z
   Vendor: Harbour
   Product Type: COUNTER STOOL
   Availability: Available
@@ -13953,7 +14097,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/hayman-counter-stool-haym-02a-alwhi-bawhi-347211.png?v=1731113147
     Price: $795.00 USD
 - [Hayman Bar Stool](https://shopharbour.com/products/hayman-bar-stool): Our Hayman collection is a statement in simplicity with clean angles and modern styling. The highest version of our dining chair, our Hayman Bar Stool was designed as the perfect everyday seat for bar tables and al fresco entertaining — enjoy a simple, modern chair with an aluminum extrusion frame available in Asteroid or White supported by a Batyline sling suspension in Silver or White for added comfort and easy cleaning. Indoor–inspired comfort meets outdoor performance with this modern bar–height stool made for a variety of spaces. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:08:30Z
+  Updated: 2026-05-06T13:11:36Z
   Vendor: Harbour
   Product Type: BAR STOOL
   Availability: Available
@@ -13967,7 +14111,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/hayman-bar-stool-haym-02c-alwhi-bawhi-309920.png?v=1765923327
     Price: $850.00 USD
 - [Hayman Armless Counter Stool](https://shopharbour.com/products/hayman-armless-counter-stool): Our Hayman collection is a statement in simplicity with clean angles and modern styling. The armless version of our counter stool, our Hayman Armless Counter Stool was designed as the perfect everyday seat for counter spaces — enjoy a simple, modern chair with an aluminum extrusion frame available in Asteroid or White supported by a Batyline sling suspension in Silver or White for added comfort and easy cleaning. With the arms removed, getting in and out of tighter spaces is a breeze. Indoor–inspired comfort meets outdoor performance with this modern armless counter–height stool made for a variety of spaces. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:08:27Z
+  Updated: 2026-05-06T13:11:28Z
   Vendor: Harbour
   Product Type: ARMLESS COUNTER STOOL
   Availability: Available
@@ -13981,7 +14125,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/hayman-armless-counter-stool-haym-02e-alast-basil-398234.png?v=1731132055
     Price: $750.00 USD
 - [Hayman Armless Bar Stool](https://shopharbour.com/products/hayman-armless-bar-stool): Our Hayman collection is a statement in simplicity with clean angles and modern styling. The armless version of our bar stool, our Hayman Armless Bar Stool was designed as the perfect everyday seat for counter spaces — enjoy a simple, modern chair with an aluminum extrusion frame available in Asteroid or White supported by a Batyline sling suspension in Silver or White for added comfort and easy cleaning. With the arms removed, getting in and out of tighter spaces is a breeze. Indoor–inspired comfort meets outdoor performance with this modern armless bar–height stool made for a variety of spaces. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:08:26Z
+  Updated: 2026-05-06T13:11:26Z
   Vendor: Harbour
   Product Type: ARMLESS BAR STOOL
   Availability: Available
@@ -13995,7 +14139,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/hayman-armless-bar-stool-haym-02f-alast-basil-764803.png?v=1731132103
     Price: $795.00 USD
 - [Hayman Dining Table 81"](https://shopharbour.com/products/hayman-dining-table-81): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Defined by wide legs, our Hayman Dining Table 2000 was designed as the perfect outdoor table for up to eight — enjoy a small rectangular surface in slatted extruded aluminum available in Asteroid or White that's streamlined yet functional. An indoor aesthetic meets outdoor performance with this modern dining table made for a variety of spaces, especially smaller ones. Add our Hayman dining chairs to complete your outdoor dining set. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Table sits 6-8 guests comfortably• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:08:43Z
+  Updated: 2026-05-06T13:11:50Z
   Vendor: Harbour
   Product Type: DINING TABLE
   Availability: Available
@@ -14009,7 +14153,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/hayman-dining-table-81-haym-03b-alwhi-826216.png?v=1751483117
     Price: $3,795.00 USD
 - [Hayman Dining Table 42"](https://shopharbour.com/products/hayman-dining-table-42): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Defined by wide legs, our Hayman Dining Table 1000 was designed as the perfect outdoor table for four — enjoy a simple square surface in slatted extruded aluminum available in Asteroid or White that's streamlined yet functional. An indoor aesthetic meets outdoor performance with this modern dining table made for a variety of spaces, especially smaller ones. Add our Hayman dining chairs to complete your outdoor dining set. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Table sits 4 guests comfortably• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:08:42Z
+  Updated: 2026-05-06T13:11:49Z
   Vendor: Harbour
   Product Type: DINING TABLE
   Availability: Available
@@ -14023,7 +14167,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/hayman-dining-table-42-haym-03a-alast-280341.png?v=1751483917
     Price: $2,195.00 USD
 - [Hayman Dining Table 106"](https://shopharbour.com/products/hayman-dining-table-106): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Defined by wide legs, our Hayman Dining Table 2600 was designed as the perfect outdoor table for up to ten — enjoy our standard large rectangular surface in slatted extruded aluminum available in Asteroid or White that's streamlined yet functional. An indoor aesthetic meets outdoor performance with this modern dining table made for a variety of spaces. Add our Hayman dining chairs to complete your outdoor dining set. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Table sits 8-10 guests comfortably• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:08:39Z
+  Updated: 2026-05-06T13:11:47Z
   Vendor: Harbour
   Product Type: DINING TABLE
   Availability: Available
@@ -14041,7 +14185,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/hayman-dining-table-106-haym-03c-altau-683026.png?v=1731132844
     Price: $4,295.00 USD
 - [Hayman Dining Table 120"](https://shopharbour.com/products/hayman-dining-table-3000): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Defined by wide legs, our Hayman Dining Table was designed as the perfect outdoor table for up to twelve — enjoy our largest rectangular surface in slatted extruded aluminum available in Asteroid or White that's streamlined yet functional. An indoor aesthetic meets outdoor performance with this modern dining table made for a variety of spaces. Add our Hayman dining chairs to complete your outdoor dining set. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Table sits 10-12 guests comfortably• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:08:40Z
+  Updated: 2026-05-06T13:11:47Z
   Vendor: Harbour
   Product Type: DINING TABLE
   Availability: Available
@@ -14055,7 +14199,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/hayman-dining-table-120-haym-03d-alast-474364.png?v=1731132850
     Price: $5,195.00 USD
 - [Hayman Sun Lounge](https://shopharbour.com/products/hayman-sun-lounge): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Our low–profile Hayman Sun Lounge was designed to be experienced — sink into ultimate relaxation with a plush hinged cushion in a range of neutral tones supported by a Batyline sling suspension in Silver or White for added comfort, all floating on a squared plinth base. Indoor comfort meets outdoor performance with this modern sun lounge made for patio and pool spaces. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Fully adjustable back to achieve desired angle of recline• Batyline mesh sling suspension adds comfort to the sit and overall functionality of the lounger. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• 1 seat cushion included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T19:48:44Z
+  Updated: 2026-05-06T19:49:13Z
   Vendor: Harbour
   Product Type: SUN LOUNGE
   Availability: Available
@@ -14261,7 +14405,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hayman-aluminum-sun-lounge-haym-04a-alast-basil-stisha-6253551.png?v=1775160675
     Price: $2,995.00 USD
 - [Hayman Double Sun Lounge](https://shopharbour.com/products/hayman-double-sun-lounge): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Our low–profile Hayman Double Sun Lounge for two was designed to be experienced — sink into ultimate relaxation with a plush hinged cushion for two supported by a Batyline sling suspension in Silver or White for added comfort, all floating on a squared plinth base. Indoor comfort meets outdoor performance with this modern double sun lounge made for patio and pool spaces. Separate adjustable backs allow for varied settings simultaneously. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Fully adjustable backs to achieve desired angle of recline individually• Batyline mesh sling suspension adds comfort to the sit and overall functionality of the lounger. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• 1 seat cushion included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T19:49:59Z
+  Updated: 2026-05-06T19:50:29Z
   Vendor: Harbour
   Product Type: DOUBLE SUN LOUNGE
   Availability: Available
@@ -14467,7 +14611,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hayman-aluminum-double-sun-lounge-haym-04d-alwhi-bawhi-pebsmo-5857277.png?v=1775160798
     Price: $7,395.00 USD
 - [Hayman Stacking Mesh Sun Lounge](https://shopharbour.com/products/hayman-stacking-mesh-sun-lounge): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Our low–profile Hayman Stacking Mesh Sun Lounge was designed to be effortless and practical — featuring a powder coated extruded aluminum frame available in Asteroid or White with a mesh Batyline sling suspension in Silver or White for added comfort and beyond easy cleaning. Indoor comfort meets outdoor performance with this modern stacking sun lounge made for patio and pool spaces. Built to last and always stackable, this is a smart choice for seasonal or hospitality needs. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Fully adjustable back to achieve desired angle of recline• Stack 4–6 Sun Lounges for convenient off–season storage• Batyline mesh sling suspension adds comfort to the sit and overall functionality of the lounger. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:08:48Z
+  Updated: 2026-05-06T13:11:56Z
   Vendor: Harbour
   Product Type: STACKING SUN LOUNGE
   Availability: Available
@@ -14481,7 +14625,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/hayman-stacking-mesh-sun-lounge-haym-04b-alwhi-bawhi-593283.png?v=1731110560
     Price: $1,795.00 USD
 - [Hayman Mesh Sun Lounge](https://shopharbour.com/products/hayman-mesh-sun-lounge): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Our low-profile Hayman Mesh Sun Lounge was designed to be effortless and practical — featuring a powder coated extruded aluminum frame available in Asteroid or White with a mesh Batyline sling suspension in Silver or White for added comfort and beyond easy cleaning. Indoor comfort meets outdoor performance with this modern sun lounge made for patio and pool spaces. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Fully adjustable back to achieve desired angle of recline• Batyline mesh sling suspension adds comfort to the sit and overall functionality of the lounger. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• Rear rubberized wheels for easy maneuverability • Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:08:45Z
+  Updated: 2026-05-06T13:11:52Z
   Vendor: Harbour
   Product Type: SUN LOUNGE
   Availability: Available
@@ -14495,7 +14639,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/HAYM-04E-ALWHI.png?v=1731110674
     Price: $1,795.00 USD
 - [Hayman 3 Seat Sofa](https://shopharbour.com/products/hayman-3-seat-sofa): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Defined by its wide arms, our low–profile Hayman 3 Seat Sofa was designed to be experienced — sink into ultimate relaxation with a deep bench cushion in a range of neutral tones supported by a Batyline sling suspension in Silver or White for added comfort, all crafted in a powder coated extruded aluminum frame available in Asteroid or White. Indoor comfort meets outdoor performance with this geometric modern sofa made for a variety of spaces. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Concealed Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• 1 seat cushion and 3 box back cushions included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushions are filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T19:51:23Z
+  Updated: 2026-05-06T19:51:54Z
   Vendor: Harbour
   Product Type: 3 SEAT SOFA
   Availability: Available
@@ -14701,7 +14845,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hayman-aluminum-3-seat-sofa-haym-05a-alwhi-bawhi-batcla-4499462.png?v=1775082806
     Price: $6,495.00 USD
 - [Hayman 2 Seat Sofa](https://shopharbour.com/products/hayman-2-seat-sofa): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Defined by its wide arms, our low–profile Hayman 2 Seat Sofa was designed to be experienced — sink into ultimate relaxation with a deep bench cushion in a range of neutral tones supported by a Batyline sling suspension in Silver or White for added comfort, all crafted in a powder coated extruded aluminum frame available in Asteroid or White. Indoor comfort meets outdoor performance with this geometric modern sofa made for a variety of spaces. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Concealed Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• 1 seat cushion and 2 box back cushions included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushions are filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T19:52:39Z
+  Updated: 2026-05-06T19:53:10Z
   Vendor: Harbour
   Product Type: 2 SEAT SOFA
   Availability: Available
@@ -14907,7 +15051,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hayman-aluminum-2-seat-sofa-haym-06a-alast-basil-marpar-5420984.png?v=1775160856
     Price: $5,950.00 USD
 - [Hayman 2 Seat Armless Sofa](https://shopharbour.com/products/hayman-2-seat-armless-sofa): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Defined by its wide arms, our low–profile Hayman 2 Seat Armless Sofa was designed to be experienced — sink into ultimate relaxation with a deep bench cushion in a range of neutral tones supported by a Batyline sling suspension in Silver or White for added comfort, all crafted in a powder coated extruded aluminum frame available in Asteroid or White. Indoor comfort meets outdoor performance with this geometric modern sofa made for a variety of spaces and configurations. Pair it with a Left and Right Chaise, or 2 Corners and 1 Arm sofas to expand it as a closed sectional sofa. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Concealed Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• 1 seat cushion and 2 box back cushions included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushions are filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T12:24:18Z
+  Updated: 2026-05-06T12:25:15Z
   Vendor: Harbour
   Product Type: 2 SEAT ARMLESS SOFA
   Availability: Available
@@ -15113,7 +15257,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hayman-aluminum-2-seat-armless-sofa-haym-06b-alwhi-bawhi-stisha-4643602.png?v=1775595559
     Price: $4,450.00 USD
 - [Hayman 2 Seat 1 Arm Left](https://shopharbour.com/products/hayman-2-seat-1-arm-left): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Defined by its wide arms, our low–profile Hayman 2 Seat 1 Arm Left Sofa was designed to be experienced — sink into ultimate relaxation with a deep bench cushion in a range of neutral tones supported by a Batyline sling suspension in Silver or White for added comfort, all crafted in a powder coated extruded aluminum frame available in Asteroid or White. Indoor comfort meets outdoor performance with this geometric modern sofa made for a variety of spaces and configurations. Pair it with an opposite Chaise for a classic L shape, or a Corner and another 2 Seat 1 Arm to expand it as a closed cornering sectional sofa. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Concealed Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• 1 seat cushion and 2 box back cushions included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushions are filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T19:53:17Z
+  Updated: 2026-05-06T19:53:49Z
   Vendor: Harbour
   Product Type: 2 SEAT 1 ARM LEFT
   Availability: Available
@@ -15319,7 +15463,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hayman-aluminum-2-seat-1-arm-left-haym-06cl-alast-basil-batcla-1859406.png?v=1775681958
     Price: $5,295.00 USD
 - [Hayman 2 Seat 1 Arm Right](https://shopharbour.com/products/hayman-2-seat-1-arm-right): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Defined by its wide arms, our low–profile Hayman 2 Seat 1 Arm Right Sofa was designed to be experienced — sink into ultimate relaxation with a deep bench cushion in a range of neutral tones supported by a Batyline sling suspension in Silver or White for added comfort, all crafted in a powder coated extruded aluminum frame available in Asteroid or White. Indoor comfort meets outdoor performance with this geometric modern sofa made for a variety of spaces and configurations. Pair it with an opposite Chaise for a classic L shape, or a Corner and another 2 Seat 1 Arm to expand it as a closed cornering sectional sofa. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Concealed Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• 1 seat cushion and 2 box back cushions included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushions are filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T19:53:54Z
+  Updated: 2026-05-06T19:54:28Z
   Vendor: Harbour
   Product Type: 2 SEAT 1 ARM RIGHT
   Availability: Available
@@ -15525,7 +15669,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hayman-aluminum-2-seat-1-arm-right-haym-06cr-alast-basil-altsla-1251739.png?v=1775682019
     Price: $5,495.00 USD
 - [Hayman Chaise Left](https://shopharbour.com/products/hayman-chaise-left): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Defined by its wide arms, our low–profile Hayman Chaise Left was designed to be experienced — sink into ultimate relaxation with a deep bench cushion in a range of neutral tones supported by a Batyline sling suspension in Silver or White for added comfort, all crafted in a powder coated extruded aluminum frame available in Asteroid or White. Indoor comfort meets outdoor performance with this geometric modern sofa made for a variety of spaces and configurations. Pair it with a 2 Seat 1 Arm to expand it as a classic L shape chaise sectional sofa, or other elements for larger sectional sofa options. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Concealed Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• 1 seat cushion and 1 box back cushion included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushion is filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T12:25:44Z
+  Updated: 2026-05-06T12:26:23Z
   Vendor: Harbour
   Product Type: CHAISE LEFT
   Availability: Available
@@ -15731,7 +15875,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hayman-aluminum-chaise-left-haym-07bl-albrz-basil-altdew-9820304.png?v=1775682206
     Price: $5,495.00 USD
 - [Hayman Chaise Right](https://shopharbour.com/products/hayman-chaise-right): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Defined by its wide arms, our low–profile Hayman Chaise Right was designed to be experienced — sink into ultimate relaxation with a deep bench cushion in a range of neutral tones supported by a Batyline sling suspension in Silver or White for added comfort, all crafted in a powder coated extruded aluminum frame available in Asteroid or White. Indoor comfort meets outdoor performance with this geometric modern sofa made for a variety of spaces and configurations. Pair it with a 2 Seat 1 Arm to expand it as a classic L shape chaise sectional sofa, or other elements for larger sectional sofa options. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Concealed Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• 1 seat cushion and 1 box back cushion included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushion is filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T12:25:55Z
+  Updated: 2026-05-06T12:27:01Z
   Vendor: Harbour
   Product Type: CHAISE RIGHT
   Availability: Available
@@ -15937,7 +16081,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/hayman-chaise-right-haym-07br-alwhi-bawhi-rivsla-528502.png?v=1731113509
     Price: $5,095.00 USD
 - [HAYMAN CABANA](https://shopharbour.com/products/hayman-cabana): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Our low–profile Hayman Batyline Cabana was designed to be experienced — sink into ultimate relaxation with a plush hinged cushion for two supported by a Batyline sling suspension in Silver or White for added comfort, all crafted in a powder coated extruded aluminum frame available in Asteroid or White. The Cabana comes with a Double Sun Lounge with adjustable backrests for two, plus a mesh Batyline curtain that can be adjusted for the desired amount of sun or shade. Indoor comfort meets outdoor performance with this modern cabana day bed made for patio and pool spaces. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Batyline screen offers adjustable shading as desired• Concealed Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• 1 seat cushion included with the ability to set 2 independent seat backs at desired angles of recline. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T12:26:09Z
+  Updated: 2026-05-06T12:27:16Z
   Vendor: Harbour
   Product Type: CABANA
   Availability: Available
@@ -16143,7 +16287,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hayman-aluminum-curtain-cabana-haym-07d-alwhi-bawhi-sstnav-9303329.png?v=1775082986
     Price: $16,995.00 USD
 - [Hayman Lounge Chair](https://shopharbour.com/products/hayman-lounge-chair): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Defined by its wide arms, our low–profile Hayman Lounge Chair was designed to be experienced — sink into ultimate relaxation with a cushion for deep seating available in a range of neutral tones supported by a Batyline sling suspension in White or Silver for added comfort, all crafted in a powder coated extruded aluminum frame available in White or Asteroid. Indoor comfort meets outdoor performance with this modern lounge chair made for a variety of patio and pool spaces. Pair it with an Ottoman to really kick back and unwind. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Concealed Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• 1 seat cushion and 1 box back cushion included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushion is filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T19:54:37Z
+  Updated: 2026-05-06T19:55:20Z
   Vendor: Harbour
   Product Type: LOUNGE CHAIR
   Availability: Available
@@ -16349,7 +16493,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/hayman-lounge-chair-haym-08a-alast-basil-rivivo-737705.png?v=1731114063
     Price: $3,195.00 USD
 - [Hayman Corner](https://shopharbour.com/products/hayman-corner): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Our low–profile Hayman Corner was designed to be experienced — sink into ultimate relaxation with a deep bench cushion in a range of neutral tones supported by a Batyline sling suspension in Silver or White for added comfort, all crafted in a powder coated extruded aluminum frame available in Asteroid or White. Indoor comfort meets outdoor performance with this geometric modern sofa made for a variety of spaces and configurations. Pair it with a 2 Seat 1 Arm sofa to expand to a cornering sectional sofa, or a 2 Seat Armless sofa to customize your perfect U shape sectional sofa. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Concealed Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• 1 seat cushion and 2 box back cushions included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushions are filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T19:55:20Z
+  Updated: 2026-05-06T19:56:05Z
   Vendor: Harbour
   Product Type: CORNER
   Availability: Available
@@ -16555,7 +16699,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/hayman-corner-haym-08c-alwhi-bawhi-rivsla-688278.png?v=1731114814
     Price: $3,650.00 USD
 - [Hayman Armless Single](https://shopharbour.com/products/hayman-armless-single): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Our low–profile Hayman Armless Single was designed to be experienced — sink into ultimate relaxation with a deep bench cushion in a range of neutral tones supported by a Batyline sling suspension in Silver or White for added comfort, all crafted in a powder coated extruded aluminum frame available in Asteroid or White. Indoor comfort meets outdoor performance with this geometric modern sofa made for a variety of spaces and configurations. Add customized length to any sectional sofa, or modularly combine with a Corner for maximum flexibility. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Concealed Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• 1 seat cushion and 1 box back cushion included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushion is filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T19:55:59Z
+  Updated: 2026-05-06T19:56:47Z
   Vendor: Harbour
   Product Type: ARMLESS SINGLE
   Availability: Available
@@ -16761,7 +16905,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hayman-aluminum-armless-single-haym-08d-alast-basil-stisal-4708027.png?v=1775682620
     Price: $2,850.00 USD
 - [Hayman Swivel Lounge Chair](https://shopharbour.com/products/hayman-swivel-lounge-chair): Our Hayman collection is a statement in simplicity with clean angles and modern styling. The swivel version of our lounge chair, our low-profile Hayman Swivel Lounge Chair was designed to be experienced — sink into ultimate relaxation with a cushion for deep seating available in a range of neutral tones supported by a Batyline sling suspension in White or Silver for added comfort, all crafted in a powder coated extruded aluminum frame available in White or Asteroid. The swivel feature is both practical and playful. Indoor comfort meets outdoor performance with this modern lounge chair made for a variety of patio and pool spaces. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Swivel base allows for easy rotation• Concealed Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• 1 seat cushion and 1 box back cushion included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushion is filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• Swivel mechanism rotates in a continuous 360 degree swivel; the swivel does not spin–back to an original orientation, but remains as last positioned.• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T19:57:07Z
+  Updated: 2026-05-06T19:58:00Z
   Vendor: Harbour
   Product Type: SWIVEL LOUNGE CHAIR
   Availability: Available
@@ -16967,7 +17111,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hayman-aluminum-swivel-lounge-chair-haym-08f-alwhi-bawhi-stifli-3977510.png?v=1775082988
     Price: $3,750.00 USD
 - [Hayman Ottoman](https://shopharbour.com/products/hayman-ottoman): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Our low–profile Hayman Ottoman was designed to be enjoyed — put your feet up and relax with a plush cushion in a range of neutral tones supported by a Batyline sling suspension in Silver or White for added comfort, all crafted in a powder coated extruded aluminum frame available in Asteroid or White. Indoor comfort meets outdoor performance with this geometric modern ottoman made for a variety of spaces and configurations. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Concealed Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• 1 seat cushion included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T12:26:54Z
+  Updated: 2026-05-06T12:28:03Z
   Vendor: Harbour
   Product Type: OTTOMAN
   Availability: Available
@@ -17173,7 +17317,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hayman-aluminum-ottoman-haym-09a-alast-basil-pebfog-4713525.png?v=1775160857
     Price: $2,150.00 USD
 - [Hayman Coffee Table](https://shopharbour.com/products/hayman-coffee-table): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Defined by wide legs, our rectangular Hayman Coffee Table was designed as the perfect anchor for your seating set — enjoy a generous surface in slatted extruded aluminum that's streamlined yet functional. An indoor aesthetic meets outdoor performance with this geometric modern coffee table made for a variety of spaces. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:08:34Z
+  Updated: 2026-05-06T13:11:41Z
   Vendor: Harbour
   Product Type: COFFEE TABLE
   Availability: Available
@@ -17199,7 +17343,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hayman-aluminum-coffee-table-haym-10a-altau-2935574.png?v=1775082918
     Price: $1,995.00 USD
 - [Hayman Side Table Square](https://shopharbour.com/products/hayman-side-table): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Defined by wide legs, our Hayman Side Table Square was designed as the perfect addition for your seating set — enjoy a generous surface in slatted extruded aluminum in Asteroid or White that's streamlined yet functional. An indoor aesthetic meets outdoor performance with this modern square side table made for a variety of spaces. Place it next to your outdoor sofa, sectional sofa or poolside Sun Lounge. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:08:47Z
+  Updated: 2026-05-06T13:11:54Z
   Vendor: Harbour
   Product Type: SIDE TABLE
   Availability: Available
@@ -17213,7 +17357,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/hayman-side-table-square-haym-11b-alwhi-971632.png?v=1765923459
     Price: $625.00 USD
 - [Hayman 46" Console](https://shopharbour.com/products/hayman-console-46): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Defined by wide legs, our Hayman 46" Console is our newest addition to the collection — enjoy a smaller surface in slatted extruded aluminum in Asteroid or White that's streamlined yet functional. An indoor aesthetic meets outdoor performance with this modern console table made for a variety of spaces. Use it to entertain, lay out poolside snacks or towels, or fill space against the side of your home. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:08:24Z
+  Updated: 2026-05-06T13:11:23Z
   Vendor: Harbour
   Product Type: CONSOLE
   Availability: Available
@@ -17227,7 +17371,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/hayman-46-console-haym-12m-alwhi-494276.png?v=1751482729
     Price: $1,850.00 USD
 - [Hayman 61" Console](https://shopharbour.com/products/hayman-console-61): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Defined by wide legs, our Hayman 61" Console is our newest addition to the collection — enjoy our largest surface in slatted extruded aluminum in Asteroid or White that's streamlined yet functional. An indoor aesthetic meets outdoor performance with this modern console table made for a variety of spaces. Use it to entertain, lay out poolside snacks or towels, or fill space against the side of your home. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:08:27Z
+  Updated: 2026-05-06T13:11:24Z
   Vendor: Harbour
   Product Type: CONSOLE
   Availability: Available
@@ -17241,35 +17385,35 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/hayman-61-console-haym-12a-alwhi-135867.png?v=1765923260
     Price: $2,095.00 USD
 - [Hayman Teak Dining Chair](https://shopharbour.com/products/hayman-teak-dining-chair): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Our Hayman Dining Chair was designed as the perfect everyday seat — enjoy a simple, modern chair with a solid natural teak frame supported by a Batyline sling suspension in White for added comfort and easy cleaning. Indoor–inspired comfort meets outdoor performance with this modern dining chair made for a variety of spaces. Pair it with any Hayman dining table to complete the outdoor dining set. FEATURES• Frame handcrafted of sustainably sourced solid Indonesian teak in our workshop• When properly maintained and cared for, teak is the ideal outdoor material with its natural resistance to weather, cracking and rotting. Please refer to our Care + Maintenance Guide for additional information about the care and natural beauty of teak• Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:09:05Z
+  Updated: 2026-05-06T13:12:12Z
   Vendor: Harbour
   Product Type: DINING CHAIR
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hayman-teak-dining-chair-hytk-01a-tenat-bawhi-330031.png?v=1751523094
   Price: $850.00 USD
 - [Hayman Teak Armless Dining Chair](https://shopharbour.com/products/hayman-teak-armless-dining-chair): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Our Hayman Teak Armless Dining Chair was designed as the perfect everyday seat — enjoy a simple, modern chair with a solid natural teak frame supported by a Batyline sling suspension in White for added comfort and easy cleaning. Made to be used as a side chair in combination with the Hayman Teak Dining Chair. Indoor–inspired comfort meets outdoor performance with this modern armless dining chair made for a variety of spaces. Pair it with any Hayman dining table to complete the outdoor dining set. FEATURES• Frame handcrafted of sustainably sourced solid Indonesian teak in our workshop• When properly maintained and cared for, teak is the ideal outdoor material with its natural resistance to weather, cracking and rotting. Please refer to our Care + Maintenance Guide for additional information about the care and natural beauty of teak• Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:08:55Z
+  Updated: 2026-05-06T13:12:03Z
   Vendor: Harbour
   Product Type: ARMLESS DINING CHAIR
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hayman-teak-armless-dining-chair-hytk-01b-tenat-bawhi-848321.png?v=1751523275
   Price: $795.00 USD
 - [Hayman Teak Dining Table 81"](https://shopharbour.com/products/hayman-teak-dining-table-81): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Defined by wide legs, our Hayman Teak Dining Table 2000 was designed as the perfect outdoor table for up to eight — enjoy our standard large rectangular surface in slatted solid natural teak that's streamlined yet functional. An indoor aesthetic meets outdoor performance with this modern dining table made for a variety of spaces. Add our Hayman dining chairs to complete your outdoor dining set. FEATURES• Frame handcrafted of sustainably sourced solid Indonesian teak in our workshop• When properly maintained and cared for, teak is the ideal outdoor material with its natural resistance to weather, cracking and rotting. Please refer to our Care + Maintenance Guide for additional information about the care and natural beauty of teak• Table sits 6–8 guests comfortably• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:09:08Z
+  Updated: 2026-05-06T13:12:16Z
   Vendor: Harbour
   Product Type: DINING TABLE
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hayman-teak-dining-table-81-hytk-03b-tenat-1776997.png?v=1751523284
   Price: $4,595.00 USD
 - [Hayman Teak Dining Table 106"](https://shopharbour.com/products/hayman-teak-dining-table-106): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Defined by wide legs, our Hayman Teak Dining Table 2600 was designed as the perfect outdoor table for up to ten — enjoy our standard large rectangular surface in slatted solid natural teak that's streamlined yet functional. An indoor aesthetic meets outdoor performance with this modern dining table made for a variety of spaces. Add our Hayman dining chairs to complete your outdoor dining set. FEATURES• Frame handcrafted of sustainably sourced solid Indonesian teak in our workshop• When properly maintained and cared for, teak is the ideal outdoor material with its natural resistance to weather, cracking and rotting. Please refer to our Care + Maintenance Guide for additional information about the care and natural beauty of teak• Table sits 8–10 guests comfortably• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:09:06Z
+  Updated: 2026-05-06T13:12:14Z
   Vendor: Harbour
   Product Type: DINING TABLE
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/hayman-teak-dining-table-106-hytk-03c-tenat-257958.png?v=1731116797
   Price: $5,095.00 USD
 - [Hayman Teak Sun Lounge](https://shopharbour.com/products/hayman-teak-sun-lounge): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Our low–profile Hayman Teak Sun Lounge was designed to be experienced — sink into ultimate relaxation with a plush hinged cushion in a range of neutral tones supported by a Batyline sling suspension in Silver or White for added comfort, all floating on a squared solid natural teak base. Indoor comfort meets outdoor performance with this modern sun lounge made for patio and pool spaces. FEATURES• Frame handcrafted of sustainably sourced solid Indonesian teak in our workshop• When properly maintained and cared for, teak is the ideal outdoor material with its natural resistance to weather, cracking and rotting. Please refer to our Care + Maintenance Guide for additional information about the care and natural beauty of teak• Fully adjustable back to achieve desired angle of recline• Concealed Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• 1 seat cushion included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushion is filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T19:57:43Z
+  Updated: 2026-05-06T19:58:39Z
   Vendor: Harbour
   Product Type: SUN LOUNGE
   Availability: Available
@@ -17475,7 +17619,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hayman-teak-sun-lounge-hytk-04a-tenat-bawhi-sorbia-2446181.png?v=1776097551
     Price: $3,650.00 USD
 - [Hayman Teak 3 Seat Sofa](https://shopharbour.com/products/hayman-teak-3-seat-sofa): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Defined by its wide arms, our low–profile Hayman Teak 3 Seat Sofa was designed to be experienced — sink into ultimate relaxation with a deep bench cushion in a range of neutral tones supported by a Batyline sling suspension in White for added comfort, all crafted in a solid natural teak frame. Indoor comfort meets outdoor performance with this geometric modern sofa made for a variety of spaces and configurations. FEATURES• Frame handcrafted of sustainably sourced solid Indonesian teak in our workshop• When properly maintained and cared for, teak is the ideal outdoor material with its natural resistance to weather, cracking and rotting. Please refer to our Care + Maintenance Guide for additional information about the care and natural beauty of teak• Concealed Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• 1 seat cushion and 3 knife–edge back cushions included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushions are filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T14:04:15Z
+  Updated: 2026-05-06T14:09:00Z
   Vendor: Harbour
   Product Type: 3 SEAT SOFA
   Availability: Available
@@ -17681,7 +17825,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hayman-teak-3-seat-sofa-hytk-05a-tenat-bawhi-sorbia-9171191.png?v=1775855251
     Price: $7,895.00 USD
 - [Hayman Teak 2 Seat Sofa](https://shopharbour.com/products/hayman-teak-2-seat-sofa): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Defined by its wide arms, our low–profile Hayman Teak 2 Seat Sofa was designed to be experienced — sink into ultimate relaxation with a deep bench cushion in a range of neutral tones supported by a Batyline sling suspension in White for added comfort, all crafted in a solid natural teak frame. Indoor comfort meets outdoor performance with this geometric modern sofa made for a variety of spaces and configurations. FEATURES• Frame handcrafted of sustainably sourced solid Indonesian teak in our workshop• When properly maintained and cared for, teak is the ideal outdoor material with its natural resistance to weather, cracking and rotting. Please refer to our Care + Maintenance Guide for additional information about the care and natural beauty of teak• Concealed Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• 1 seat cushion and 2 knife–edge back cushions included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushions are filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T12:27:45Z
+  Updated: 2026-05-06T12:28:55Z
   Vendor: Harbour
   Product Type: 2 SEAT SOFA
   Availability: Available
@@ -17887,7 +18031,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hayman-teak-2-seat-sofa-hytk-06a-tenat-bawhi-sorbia-4854467.png?v=1775076034
     Price: $6,495.00 USD
 - [Hayman Teak 2 Seat 1 Arm Left](https://shopharbour.com/products/hayman-teak-2-seat-1-arm-left): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Defined by its wide arms, our low–profile Hayman Teak 2 Seat 1 Arm Left Sofa was designed to be experienced — sink into ultimate relaxation with a deep bench cushion in a range of neutral tones supported by a Batyline sling suspension in White for added comfort, all crafted in a solid natural teak frame. Indoor comfort meets outdoor performance with this geometric modern sofa made for a variety of spaces and configurations. Pair it with an opposite Chaise for a classic L shape sectional sofa, or a Corner and another 2 Seat 1 Arm to expand it as a closed cornering sectional sofa. FEATURES• Frame handcrafted of sustainably sourced solid Indonesian teak in our workshop• When properly maintained and cared for, teak is the ideal outdoor material with its natural resistance to weather, cracking and rotting. Please refer to our Care + Maintenance Guide for additional information about the care and natural beauty of teak• Concealed Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• 1 seat cushion and 2 knife–edge back cushions included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushions are filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T19:58:16Z
+  Updated: 2026-05-06T19:59:22Z
   Vendor: Harbour
   Product Type: 2 SEAT 1 ARM LEFT
   Availability: Available
@@ -18093,7 +18237,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hayman-teak-2-seat-1-arm-left-hytk-06cl-tenat-bawhi-sorbia-9159823.png?v=1775076141
     Price: $6,295.00 USD
 - [Hayman Teak 2 Seat 1 Arm Right](https://shopharbour.com/products/hayman-teak-2-seat-1-arm-right): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Defined by its wide arms, our low–profile Hayman Teak 2 Seat 1 Arm Right Sofa was designed to be experienced — sink into ultimate relaxation with a deep bench cushion in a range of neutral tones supported by a Batyline sling suspension in White for added comfort, all crafted in a solid natural teak frame. Indoor comfort meets outdoor performance with this geometric modern sofa made for a variety of spaces and configurations. Pair it with an opposite Chaise for a classic L shape sectional sofa, or a Corner and another 2 Seat 1 Arm to expand it as a closed cornering sectional sofa. FEATURES• Frame handcrafted of sustainably sourced solid Indonesian teak in our workshop• When properly maintained and cared for, teak is the ideal outdoor material with its natural resistance to weather, cracking and rotting. Please refer to our Care + Maintenance Guide for additional information about the care and natural beauty of teak• Concealed Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• 1 seat cushion and 2 knife–edge back cushions included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushions are filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T12:27:43Z
+  Updated: 2026-05-06T12:28:54Z
   Vendor: Harbour
   Product Type: 2 SEAT 1 ARM RIGHT
   Availability: Available
@@ -18299,7 +18443,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hayman-teak-2-seat-1-arm-right-hytk-06cr-tenat-bawhi-sorbia-6001131.png?v=1775076250
     Price: $6,295.00 USD
 - [Hayman Teak Chaise Right](https://shopharbour.com/products/hayman-teak-chaise-right): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Defined by its wide arms, our low–profile Hayman Teak Chaise Right was designed to be experienced — sink into ultimate relaxation with a deep bench cushion in a range of neutral tones supported by a Batyline sling suspension in White for added comfort, all crafted in a solid natural teak frame. Indoor comfort meets outdoor performance with this geometric modern chaise sofa made for a variety of spaces and configurations. Pair it with a 2 Seat 1 Arm to expand it as a classic L shape chaise sectional sofa, or other elements for larger sectional sofa options. FEATURES• Frame handcrafted of sustainably sourced solid Indonesian teak in our workshop• When properly maintained and cared for, teak is the ideal outdoor material with its natural resistance to weather, cracking and rotting. Please refer to our Care + Maintenance Guide for additional information about the care and natural beauty of teak• Concealed Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• 1 seat cushion and 1 knife–edge back cushion included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushion is filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T12:28:18Z
+  Updated: 2026-05-06T12:29:25Z
   Vendor: Harbour
   Product Type: CHAISE RIGHT
   Availability: Available
@@ -18505,7 +18649,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hayman-teak-chaise-right-hytk-07br-tenat-bawhi-sorbia-3756806.png?v=1776097632
     Price: $6,140.00 USD
 - [Hayman Teak Chaise Left](https://shopharbour.com/products/hayman-teak-chaise-left): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Defined by its wide arms, our low–profile Hayman Teak Chaise Left was designed to be experienced — sink into ultimate relaxation with a deep bench cushion in a range of neutral tones supported by a Batyline sling suspension in White for added comfort, all crafted in a solid natural teak frame. Indoor comfort meets outdoor performance with this geometric modern chaise sofa made for a variety of spaces and configurations. Pair it with a 2 Seat 1 Arm to expand it as a classic L shape chaise sectional sofa, or other elements for larger sectional sofa options. FEATURES• Frame handcrafted of sustainably sourced solid Indonesian teak in our workshop• When properly maintained and cared for, teak is the ideal outdoor material with its natural resistance to weather, cracking and rotting. Please refer to our Care + Maintenance Guide for additional information about the care and natural beauty of teak• Concealed Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• 1 seat cushion and 1 knife–edge back cushion included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushion is filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T12:28:14Z
+  Updated: 2026-05-06T12:29:23Z
   Vendor: Harbour
   Product Type: CHAISE LEFT
   Availability: Available
@@ -18711,7 +18855,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hayman-teak-chaise-left-hytk-07bl-tenat-bawhi-sorbia-1566844.png?v=1776097622
     Price: $6,140.00 USD
 - [Hayman Teak Batyline Cabana](https://shopharbour.com/products/hayman-teak-cabana): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Our low–profile Hayman Teak Batyline Cabana was designed to be experienced — sink into ultimate relaxation with a plush hinged cushion for two supported by a Batyline sling suspension in White for added comfort, all crafted in a solid natural teak frame. The Cabana comes with a Double Sun Lounge with adjustable backrests for two, plus a mesh Batyline curtain that can be adjusted for the desired amount of sun or shade. Indoor comfort meets outdoor performance with this modern cabana day bed made for patio and pool spaces. FEATURES• Frame handcrafted of sustainably sourced solid Indonesian teak in our workshop• When properly maintained and cared for, teak is the ideal outdoor material with its natural resistance to weather, cracking and rotting. Please refer to our Care + Maintenance Guide for additional information about the care and natural beauty of teak• Batyline screen offers adjustable shading as desired• Concealed Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• 1 seat cushion included per Sun Lounge. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T19:58:46Z
+  Updated: 2026-05-06T20:00:06Z
   Vendor: Harbour
   Product Type: CABANA
   Availability: Available
@@ -18917,7 +19061,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hayman-teak-batyline-cabana-hytk-07d-tenat-bawhi-sorsla-3112332.png?v=1775083238
     Price: $16,995.00 USD
 - [Hayman Teak Lounge Chair](https://shopharbour.com/products/hayman-teak-lounge-chair): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Defined by its wide arms, our low–profile Hayman Teak Lounge Chair was designed to be experienced — sink into ultimate relaxation with a cushion for deep seating available in a range of neutral tones supported by a Batyline sling suspension in White for added comfort, all crafted in a solid natural teak frame. Indoor comfort meets outdoor performance with this modern lounge chair made for a variety of patio and pool spaces. Pair it with an Ottoman to really kick back and unwind. FEATURES• Frame handcrafted of sustainably sourced solid Indonesian teak in our workshop• When properly maintained and cared for, teak is the ideal outdoor material with its natural resistance to weather, cracking and rotting. Please refer to our Care + Maintenance Guide for additional information about the care and natural beauty of teak• Concealed Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• 1 seat cushion and 1 knife–edge back cushion included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort. Back cushion is filled with Dacron.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T12:28:32Z
+  Updated: 2026-05-06T12:29:42Z
   Vendor: Harbour
   Product Type: LOUNGE CHAIR
   Availability: Available
@@ -19123,7 +19267,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hytk-08a-teak-natural-sorrento-slate-batyline-white.png?v=1775589904
     Price: $3,695.00 USD
 - [Hayman Teak Swivel Lounge Chair](https://shopharbour.com/products/hayman-teak-swivel-lounge-chair): Our Hayman collection is a statement in simplicity with clean angles and modern styling. The swivel version of our lounge chair, our lowâ€“profile Hayman Teak Swivel Lounge Chair was designed to be experienced â€” sink into ultimate relaxation with a cushion for deep seating available in a range of neutral tones supported by a Batyline sling suspension in White for added comfort, all crafted in a solid natural teak frame. The swivel feature is both practical and playful. Indoor comfort meets outdoor performance with this modern swivel lounge chair made for a variety of patio and pool spaces. FEATURESâ€¢ Frame handcrafted of sustainably sourced solid Indonesian teak in our workshopâ€¢ When properly maintained and cared for, teak is the ideal outdoor material with its natural resistance to weather, cracking and rotting. Please refer to our Care + Maintenance Guide for additional information about the care and natural beauty of teakâ€¢ Swivel base allows for easy rotationâ€¢ Concealed Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.â€¢ 1 seat cushion and 1 box back cushion included. Resistant to outdoor mildew, stains and fading.â€¢ Quick dry flowâ€“through foam seat cushion features a Dacron wrap for sinkâ€“in comfort. Back cushion is filled with Dacron.â€¢ Swivel mechanism rotates in a continuous 360 degree swivel; the swivel does not spinâ€“back to an original orientation, but remains as last positioned.â€¢ If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T12:28:47Z
+  Updated: 2026-05-06T12:29:50Z
   Vendor: Harbour
   Product Type: SWIVEL LOUNGE CHAIR
   Availability: Available
@@ -19329,7 +19473,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hayman-teak-swivel-lounge-chair-hytk-08f-tenat-bawhi-sornav-5731602.png?v=1775161221
     Price: $4,295.00 USD
 - [Hayman Teak Ottoman](https://shopharbour.com/products/hayman-teak-ottoman): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Our low–profile Hayman Teak Ottoman was designed to be enjoyed — put your feet up and relax with a plush cushion in a range of neutral tones supported by a Batyline sling suspension in White for added comfort, all crafted in a solid natural teak frame. Indoor comfort meets outdoor performance with this geometric modern ottoman made for a variety of spaces and configurations. FEATURES• Frame handcrafted of sustainably sourced solid Indonesian teak in our workshop• When properly maintained and cared for, teak is the ideal outdoor material with its natural resistance to weather, cracking and rotting. Please refer to our Care + Maintenance Guide for additional information about the care and natural beauty of teak• Concealed Batyline mesh sling suspension adds comfort to the sit and overall functionality. Batyline mesh is easy to clean, as well as resistant to fading, stretching and stains.• 1 seat cushion included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam seat cushion features a Dacron wrap for sink–in comfort• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T12:28:35Z
+  Updated: 2026-05-06T12:29:44Z
   Vendor: Harbour
   Product Type: OTTOMAN
   Availability: Available
@@ -19535,14 +19679,14 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/hayman-teak-ottoman-hytk-09a-tenat-bawhi-sorbia-2918883.png?v=1775595857
     Price: $2,450.00 USD
 - [Hayman Teak Coffee Table](https://shopharbour.com/products/hayman-teak-coffee-table): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Defined by wide legs, our Hayman Teak Coffee Table was designed as the perfect anchor for your seating set — enjoy a generous surface in slatted solid teak that's streamlined yet functional. An indoor aesthetic meets outdoor performance with this geometric modern coffee table made for a variety of spaces. FEATURES• Frame handcrafted of sustainably sourced solid Indonesian teak in our workshop• When properly maintained and cared for, teak is the ideal outdoor material with its natural resistance to weather, cracking and rotting. Please refer to our Care + Maintenance Guide for additional information about the care and natural beauty of teak• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:09:03Z
+  Updated: 2026-05-06T13:12:10Z
   Vendor: Harbour
   Product Type: COFFEE TABLE
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/hayman-teak-coffee-table-hytk-10a-tenat-375748.png?v=1731117834
   Price: $2,250.00 USD
 - [LCA Dining Chair | Contemporary Aluminum Outdoor Dining Furniture](https://shopharbour.com/products/lca-dining-chair): The LCA Dining Chair combines contemporary design and weather-resistant aluminum, delivering comfort and style for any outdoor dining area.
-  Updated: 2026-04-29T20:10:07Z
+  Updated: 2026-05-06T13:12:25Z
   Vendor: Harbour
   Product Type: DINING CHAIR
   Availability: Available
@@ -19556,7 +19700,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/lca-dining-chair-lca-01a-alwhi-bawhi-343946.png?v=1765923479
     Price: $995.00 USD
 - [Loop Dining Chair | Contemporary Aluminum Outdoor Furniture](https://shopharbour.com/products/loop-dining-chair): The Loop Dining Chair is a contemporary update on classic wicker, with clean angled lines and a frame that includes a distinctive grid-like weave.
-  Updated: 2026-04-29T19:59:42Z
+  Updated: 2026-05-06T20:00:55Z
   Vendor: Harbour
   Product Type: DINING CHAIR
   Availability: Available
@@ -19762,7 +19906,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/loop-dining-chair-loop-01a-alast-wigre-sorbia-7175481.png?v=1775682619
     Price: $1,050.00 USD
 - [Loop Counter Stool | Contemporary Aluminum Outdoor Furniture](https://shopharbour.com/products/loop-counter-stool): The Loop Counter Stool is a contemporary update on classic wicker, with clean angled lines and a frame that includes a distinctive grid-like weave.
-  Updated: 2026-04-29T13:09:31Z
+  Updated: 2026-05-06T13:12:39Z
   Vendor: Harbour
   Product Type: COUNTER STOOL
   Availability: Available
@@ -19968,14 +20112,14 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/loop-counter-stool-loop-02a-altau-winat-sietau-9386597.png?v=1775161396
     Price: $1,095.00 USD
 - [Hayman Teak Side Table](https://shopharbour.com/products/hayamn-teak-side-table): Our Hayman collection is a statement in simplicity with clean angles and modern styling. Defined by wide legs, our Hayman Teak Side Table was designed as the perfect addition for your seating set — enjoy a generous surface in slatted solid teak that's streamlined yet functional. An indoor aesthetic meets outdoor performance with this modern side table made for a variety of spaces. Place it next to your outdoor sofa, sectional sofa or poolside Sun Lounge. FEATURES• Frame handcrafted of sustainably sourced solid Indonesian teak in our workshop• When properly maintained and cared for, teak is the ideal outdoor material with its natural resistance to weather, cracking and rotting. Please refer to our Care + Maintenance Guide for additional information about the care and natural beauty of teak• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:09:11Z
+  Updated: 2026-05-06T13:12:18Z
   Vendor: Harbour
   Product Type: SIDE TABLE
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/FinishTeakNatural.png?v=1741735175
   Price: $1,295.00 USD
 - [Loop Bar Stool | Contemporary Aluminum Outdoor Furniture](https://shopharbour.com/products/loop-bar-stool): The Loop Bar Stool is a contemporary update on classic wicker, with clean angled lines and a frame that includes a distinctive grid-like weave.
-  Updated: 2026-04-29T13:09:31Z
+  Updated: 2026-05-06T13:12:38Z
   Vendor: Harbour
   Product Type: BAR STOOL
   Availability: Available
@@ -20181,7 +20325,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/loop-bar-stool-loop-02c-altau-winat-sietau-9340138.png?v=1775161455
     Price: $1,150.00 USD
 - [Loop Sun Lounge | Contemporary Aluminum Outdoor Furniture](https://shopharbour.com/products/loop-sun-lounge): The Loop Sun Lounge is a contemporary update on classic wicker, with clean angled lines and a frame that includes a distinctive grid-like weave.
-  Updated: 2026-04-29T20:00:16Z
+  Updated: 2026-05-06T20:01:33Z
   Vendor: Harbour
   Product Type: SUN LOUNGE
   Availability: Available
@@ -20387,14 +20531,14 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/loop-sun-lounge-loop-04a-alast-wigre-altsno-1490509.png?v=1775161458
     Price: $3,450.00 USD
 - [Loop Stacking Sun Lounge | Contemporary Aluminum Outdoor Furniture](https://shopharbour.com/products/loop-stacking-sun-lounge): The Loop Stacking Sun Lounge is a contemporary update on classic wicker, with clean angled lines and a frame that includes a distinctive grid-like weave.
-  Updated: 2026-04-29T13:09:37Z
+  Updated: 2026-05-06T13:12:44Z
   Vendor: Harbour
   Product Type: STACKING SUN LOUNGE
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/loop-stacking-sun-lounge-loop-04b-alast-basil-553413.png?v=1731118343
   Price: $1,995.00 USD
 - [Loop Easy Chair | Contemporary Aluminum Outfoor Furniture](https://shopharbour.com/products/loop-easy-chair): The Loop Easy Chair is a contemporary update on classic wicker, with clean angled lines and a frame that includes a distinctive grid-like weave.
-  Updated: 2026-04-29T12:28:53Z
+  Updated: 2026-05-06T12:30:03Z
   Vendor: Harbour
   Product Type: EASY CHAIR
   Availability: Available
@@ -20600,7 +20744,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/loop-easy-chair-loop-08b-albrz-wigre-sstnav-7277781.png?v=1775161639
     Price: $3,240.00 USD
 - [Loop Ottoman | Contemporary Aluminum Outdoor Furniture](https://shopharbour.com/products/loop-ottoman): The Loop Ottoman is a contemporary update on classic wicker, with clean angled lines and a frame that includes a distinctive grid-like weave.
-  Updated: 2026-04-29T12:28:54Z
+  Updated: 2026-05-06T12:30:07Z
   Vendor: Harbour
   Product Type: OTTOMAN
   Availability: Available
@@ -20806,7 +20950,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/loop-ottoman-loop-09a-albrz-wigre-sstsan-8950519.png?v=1775161710
     Price: $2,295.00 USD
 - [Lucca Organic Coffee Table | Organic Travertine Luxury Outdoor Furniture](https://shopharbour.com/products/lucca-organic-coffee-table): The Lucca Organic Coffee Table is a study in sculptural and contemporary design, with dynamic angles, organic curves, and a tripod design capped by show-stopping travertine.
-  Updated: 2026-04-29T13:09:46Z
+  Updated: 2026-05-06T13:12:54Z
   Vendor: Harbour
   Product Type: COFFEE TABLE
   Availability: Available
@@ -20820,7 +20964,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/lucca-organic-coffee-table-lucc-10a-maara-938293.png?v=1743632957
     Price: $4,795.00 USD
 - [Lucca Round Coffee Table 47" | Organic Travertine Luxury Outdoor Furniture](https://shopharbour.com/products/lucca-round-coffee-table-47): The Lucca Round Coffee Table 47" is a study in sculptural and contemporary design, with dynamic angles, organic curves, and a tripod design capped by show-stopping travertine.
-  Updated: 2026-04-29T13:09:56Z
+  Updated: 2026-05-06T13:13:02Z
   Vendor: Harbour
   Product Type: COFFEE TABLE
   Availability: Available
@@ -20834,7 +20978,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/lucca-round-coffee-table-47-lucc-10e-maara-511418.png?v=1743633460
     Price: $3,995.00 USD
 - [Lucca Round Coffee Table 33" | Organic Travertine Luxury Outdoor Furniture](https://shopharbour.com/products/lucca-round-coffee-table-33): The Lucca Round Coffee Table 33" is a study in sculptural and contemporary design, with dynamic angles, organic curves, and a tripod design capped by show-stopping travertine.
-  Updated: 2026-04-29T13:09:52Z
+  Updated: 2026-05-06T13:12:59Z
   Vendor: Harbour
   Product Type: COFFEE TABLE
   Availability: Available
@@ -20848,7 +20992,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/lucca-round-coffee-table-33-lucc-10f-maara-204524.png?v=1743633556
     Price: $3,495.00 USD
 - [Lucca Round Side Table | Organic Travertine Luxury Outdoor Furniture](https://shopharbour.com/products/lucca-round-side-table): The Lucca Round Side Table is a study in sculptural and contemporary design, with dynamic angles, organic curves, and a tripod design capped by show-stopping travertine.
-  Updated: 2026-04-29T13:09:57Z
+  Updated: 2026-05-06T13:13:04Z
   Vendor: Harbour
   Product Type: SIDE TABLE
   Availability: Available
@@ -20862,7 +21006,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/lucca-round-side-table-lucc-11a-maara-461307.png?v=1743633799
     Price: $2,150.00 USD
 - [Macquarie Coffee Table](https://shopharbour.com/products/macquarie-coffee-table): Our Macquarie collection is a study in material harmony. The Macquarie Coffee Table is the perfect anchor for your seating set — featuring a robust extruded aluminum base supporting a black granite top, which brings a natural and rugged element to the mix. The airy open center introduces loftiness and visibility to your configuration, as well as offering a functional space for added storage. This streamlined piece introduces a modern element to any outdoor space. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Marble stone is a natural product. Formed by deposits in the earth, expect variations in color and veining to be unique to each top.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.•Assembly required.
-  Updated: 2026-04-29T13:09:59Z
+  Updated: 2026-05-06T13:13:06Z
   Vendor: Harbour
   Product Type: COFFEE TABLE
   Availability: Available
@@ -20876,7 +21020,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/macquarie-coffee-table-macq-10a-alast-grbla-778353.png?v=1731118934
     Price: $3,495.00 USD
 - [Macquarie Side Table](https://shopharbour.com/products/macquarie-side-table): Our Macquarie collection is a study in material harmony. The Macquarie Coffee Table is the perfect complement for your seating set — featuring a robust extruded aluminum base supporting a black granite top, which brings a natural and rugged element to the mix. The airy open center introduces loftiness and visibility to your configuration, as well as offering a functional space for added storage. This streamlined piece introduces a modern element to any outdoor space. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Marble stone is a natural product. Formed by deposits in the earth, expect variations in color and veining to be unique to each top.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.•Assembly required.
-  Updated: 2026-04-29T13:10:01Z
+  Updated: 2026-05-06T13:13:08Z
   Vendor: Harbour
   Product Type: SIDE TABLE
   Availability: Available
@@ -20890,7 +21034,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/macquarie-side-table-macq-11b-alwhi-mawhi-3669806.png?v=1775161629
     Price: $1,995.00 USD
 - [Madison Round Side Table | Minimalistic Aluminum Outdoor Furniture](https://shopharbour.com/products/madison-round-side-table): Sleek and minimal, the Madison Round Side Table features durable aluminum construction for versatile, modern outdoor living spaces.
-  Updated: 2026-04-29T13:10:06Z
+  Updated: 2026-05-06T13:13:12Z
   Vendor: Harbour
   Product Type: SIDE TABLE
   Availability: Available
@@ -20904,7 +21048,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/madison-round-side-table-madi-11a-grbla-alast-alast-214509.png?v=1741636152
     Price: $1,295.00 USD
 - [Madison Square Side Table | Minimalistic Aluminum Outdoor Furniture](https://shopharbour.com/products/madison-square-side-table): Sleek and minimal, the Madison Square Side Table features durable aluminum construction for versatile, modern outdoor living spaces.
-  Updated: 2026-04-29T13:10:08Z
+  Updated: 2026-05-06T13:13:14Z
   Vendor: Harbour
   Product Type: SIDE TABLE
   Availability: Available
@@ -20918,7 +21062,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/madison-square-side-table-madi-11b-mawhi-alwhi-alwhi-754093.png?v=1763680738
     Price: $1,295.00 USD
 - [MLB Teak Dining Chair | Modern Outdoor Furniture](https://shopharbour.com/products/mlb-dining-chair): The Harbour x Martyn Lawrence Bullard Teak Dining Chair features sculptural curves, zig-zag profiles, modern lines, and luxurious materials.
-  Updated: 2026-04-29T13:11:22Z
+  Updated: 2026-05-06T13:14:31Z
   Vendor: Harbour
   Product Type: DINING CHAIR
   Availability: Available
@@ -20932,21 +21076,21 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/mlb-dining-chair-mlb-01a-tenat-copsan-772723.png?v=1743455853
     Price: $1,195.00 USD
 - [MLB Teak Armless Dining Chair | Modern Outdoor Furniture](https://shopharbour.com/products/mlb-armless-dining-chair): The Harbour x Martyn Lawrence Bullard Teak Armless Dining Chair features sculptural curves, zig-zag profiles, modern lines, and luxurious materials.
-  Updated: 2026-04-29T13:11:20Z
+  Updated: 2026-05-06T13:14:30Z
   Vendor: Harbour
   Product Type: ARMLESS DINING CHAIR
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/mlb-teak-armless-dining-chair-mlb-01b-tenat-twres-305463.png?v=1751523337
   Price: $925.00 USD
 - [MLB Teak Dining Table 106" | Modern Outdoor Furniture](https://shopharbour.com/products/mlb-dining-table-106): The Harbour x Martyn Lawrence Bullard Teak Dining Table features sculptural curves, modern lines and luxurious materials.
-  Updated: 2026-04-29T13:11:23Z
+  Updated: 2026-05-06T13:14:32Z
   Vendor: Harbour
   Product Type: DINING TABLE
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/mlb-dining-table-106-mlb-03c-tenat-883515.png?v=1731119956
   Price: $7,295.00 USD
 - [Pacific Teak Angled Sun Lounge | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-stacking-sun-lounge): The Pacific Teak Angled Sun Lounge is crafted in natural teak, offering streamlined comfort and modern style for outdoor lounging.
-  Updated: 2026-04-29T18:06:27Z
+  Updated: 2026-05-06T13:17:21Z
   Vendor: Harbour
   Product Type: STACKING SUN LOUNGE
   Availability: Available
@@ -20976,7 +21120,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/pacific-teak-angled-sun-lounge-paci-04b-techa-basil-4784446.png?v=1775161631
     Price: $2,095.00 USD
 - [MLB Teak Slatted Sun Lounge | Modern Outdoor Furniture](https://shopharbour.com/products/mlb-slatted-sun-lounge): The Harbour x Martyn Lawrence Bullard Teak Slatted Sun Lounge features sculptural curves, zig-zag profiles, modern lines, and luxurious materials.
-  Updated: 2026-04-29T20:00:42Z
+  Updated: 2026-05-06T20:02:04Z
   Vendor: Harbour
   Product Type: SUN LOUNGE
   Availability: Available
@@ -21182,7 +21326,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/mlb-teak-slatted-sun-lounge-mlb-04c-tenat-sstnav-8213758.png?v=1775083353
     Price: $4,495.00 USD
 - [MLB Teak 3 Seat Armless Sofa | Modern Outdoor Furniture](https://shopharbour.com/products/mlb-3-seat-armless-sofa): The Harbour x Martyn Lawrence Bullard Teak 3 Seat Armless Sofa features sculptural curves, zig-zag profiles, modern lines, and luxurious materials.
-  Updated: 2026-04-29T20:01:13Z
+  Updated: 2026-05-06T20:02:38Z
   Vendor: Harbour
   Product Type: 3 SEAT ARMLESS SOFA
   Availability: Available
@@ -21388,7 +21532,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/mlb-teak-3-seat-armless-sofa-mlb-05c-tenat-sorbia-3916459.png?v=1775083463
     Price: $6,795.00 USD
 - [MLB Teak 2 Seat Armless Sofa | Modern Outdoor Furniture](https://shopharbour.com/products/mlb-2-seat-armless-sofa): The Harbour x Martyn Lawrence Bullard Teak 2 Seat Armless Sofa features sculptural curves, zig-zag profiles, modern lines, and luxurious materials.
-  Updated: 2026-04-29T14:08:37Z
+  Updated: 2026-05-06T14:13:27Z
   Vendor: Harbour
   Product Type: 2 SEAT ARMLESS SOFA
   Availability: Available
@@ -21594,7 +21738,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/mlb-teak-2-seat-armless-sofa-mlb-06b-tenat-sstnav-6082356.png?v=1775083641
     Price: $5,895.00 USD
 - [MLB Teak Lounge Chair | Modern Outdoor Furniture](https://shopharbour.com/products/mlb-lounge-chair): The Harbour x Martyn Lawrence Bullard Teak Lounge Chair features sculptural curves, zig-zag profiles, modern lines, and luxurious materials.
-  Updated: 2026-04-29T13:11:24Z
+  Updated: 2026-05-06T13:14:34Z
   Vendor: Harbour
   Product Type: LOUNGE CHAIR
   Availability: Available
@@ -21608,7 +21752,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/mlb-lounge-chair-mlb-08a-tenat-copsan-507812.png?v=1731120569
     Price: $2,150.00 USD
 - [MLB Teak Easy Chair | Modern Outdoor Furniture](https://shopharbour.com/products/mlb-easy-chair): The Harbour x Martyn Lawrence Bullard Teak Easy Chair features sculptural curves, zig-zag profiles, modern lines, and luxurious materials.
-  Updated: 2026-04-29T20:01:31Z
+  Updated: 2026-05-06T20:03:03Z
   Vendor: Harbour
   Product Type: EASY CHAIR
   Availability: Available
@@ -21722,7 +21866,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/mlb-teak-easy-chair-mlb-08b-tenat-sstsky-6811425.png?v=1775161793
     Price: $3,550.00 USD
 - [MLB Teak Corner | Modern Outdoor Furniture](https://shopharbour.com/products/mlb-corner): The Harbour x Martyn Lawrence Bullard Teak Corner features sculptural curves, zig-zag profiles, modern lines, and luxurious materials.
-  Updated: 2026-04-29T14:09:15Z
+  Updated: 2026-05-06T14:14:04Z
   Vendor: Harbour
   Product Type: CORNER
   Availability: Available
@@ -21928,14 +22072,14 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/mlb-teak-corner-mlb-08c-tenat-sstnav-8066149.png?v=1775161939
     Price: $7,195.00 USD
 - [MLB Teak Round Coffee Table | Modern Outdoor Furniture](https://shopharbour.com/products/mlb-round-coffee-table): The Harbour x Martyn Lawrence Bullard Teak Round Coffee Table features sculptural curves, zig-zag profiles, modern lines, and luxurious materials.
-  Updated: 2026-04-29T13:11:25Z
+  Updated: 2026-05-06T13:14:35Z
   Vendor: Harbour
   Product Type: COFFEE TABLE
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/mlb-round-coffee-table-mlb-10a-tenat-trcre-171253.png?v=1731120821
   Price: $2,895.00 USD
 - [MLB Teak Round Side Table | Modern Outdoor Furniture](https://shopharbour.com/products/mlb-round-side-table): The Harbour x Martyn Lawrence Bullard Teak Round Side Table features sculptural curves, zig-zag profiles, modern lines, and luxurious materials.
-  Updated: 2026-04-29T13:11:27Z
+  Updated: 2026-05-06T13:14:37Z
   Vendor: Harbour
   Product Type: SIDE TABLE
   Availability: Available
@@ -21949,7 +22093,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/mlb-round-side-table-mlb-11a-techa-trcre-636598.png?v=1741636418
     Price: $1,295.00 USD
 - [Moab 107" Rectangle Dining Table](https://shopharbour.com/products/moab-rectangle-dining-table-107): Our Moab collection uses the finest materials to create the next generation of comfort — it's the definition of bringing the indoors out. The Moab 107” Rectangle Dining Table was designed as the perfect outdoor table — featuring a powder coated extruded aluminum frame with a travertine stone top set into a matching aluminum border. Tubular construction and angled legs introduce a dynamic design element to this classic collection. This striking piece brings a modern approach to the table and a contemporary aesthetic to any space. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Travertine stone is a natural product. Expect patterns and textures to be unique to each top.• Table sits 6 guests comfortably• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.•Assembly required.
-  Updated: 2026-04-29T13:11:30Z
+  Updated: 2026-05-06T13:14:40Z
   Vendor: Harbour
   Product Type: DINING TABLE
   Availability: Available
@@ -21975,7 +22119,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/moab-107-rectangle-dining-table-moab-03c-alwhi-trnat-9244772.png?v=1775076136
     Price: $7,995.00 USD
 - [Moab 48" Round Dining Table](https://shopharbour.com/products/moab-round-dining-table-48): Our Moab collection uses the finest materials to create the next generation of comfort — it's the definition of bringing the indoors out. The Moab 48” Round Dining Table was designed as the perfect outdoor table — featuring a powder coated extruded aluminum frame with a travertine stone top set into a matching aluminum border. Tubular construction and an angled three–leg design introduce a dynamic element to this classic collection. This striking piece brings a modern approach to the table and a contemporary aesthetic to any space. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Travertine stone is a natural product. Expect patterns and textures to be unique to each top.• Table sits 4 guests comfortably• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.•Assembly required.
-  Updated: 2026-04-29T13:11:30Z
+  Updated: 2026-05-06T13:14:40Z
   Vendor: Harbour
   Product Type: DINING TABLE
   Availability: Available
@@ -22001,7 +22145,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/moab-48-round-dining-table-moab-03h-alwhi-trnat-2495195.png?v=1775076135
     Price: $5,295.00 USD
 - [Moab Dining Chair](https://shopharbour.com/products/moab-dining-chair): Our Moab collection uses the finest materials to create the next generation of comfort — it's the definition of bringing the indoors out. The Moab Dining Chair is pure luxury — enjoy a boxed seat and back cushion set on a powder coated extruded aluminum frame. Tubular construction and a thin streamlined profile introduce a dynamic element to this classic collection. This striking piece brings a contemporary aesthetic to any space.
-  Updated: 2026-04-29T13:11:33Z
+  Updated: 2026-05-06T13:14:42Z
   Vendor: Harbour
   Product Type: DINING CHAIR
   Availability: Available
@@ -22207,7 +22351,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/moab-dining-chair-moab-01a-alwhi-pancoc-4236732.png?v=1775076397
     Price: $1,295.00 USD
 - [Moab Sofa 108"](https://shopharbour.com/products/moab-sofa-108): Our Moab collection uses the finest materials to create the next generation of comfort — it's the definition of bringing the indoors out. The Moab 108” Sofa is pure luxury — enjoy a generous bench cushion at medium height on a powder coated extruded aluminum frame with side wall cushions for added comfort. Tubular construction and a thin streamlined profile introduce a dynamic element to this classic collection. This striking piece brings a contemporary aesthetic to any space. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• 1 seat cushion and 2 knife–edge back cushions included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam lines the inside of the aluminum frame – cushion features a Dacron wrap for sink–in comfort• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:11:58Z
+  Updated: 2026-05-06T22:45:47Z
   Vendor: Harbour
   Product Type: 3.5 SEAT SOFA
   Availability: Available
@@ -22413,7 +22557,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/moab-sofa-108-moab-05e-alwhi-panclo-1988186.png?v=1775076397
     Price: $6,995.00 USD
 - [Moab Sun Lounge](https://shopharbour.com/products/moab-sun-lounge): Our Moab collection uses the finest materials to create the next generation of comfort — it's the definition of bringing the indoors out. The Moab Sun Lounge is poolside luxury — relax on a plush cushion on a slatted powder coated extruded aluminum frame with a fully adjustable back rest. Tubular construction and a thin streamlined profile introduce a dynamic element to this classic collection. This striking piece brings a contemporary aesthetic to any space. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Fully adjustable back to achieve desired angle of recline• Superior quality powder coating applied for weather resistance• 1 seat cushion included. Resistant to outdoor mildew, stains and fading.• Quick dry flow-through foam seat cushion features a Dacron wrap for sink–in comfort• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:12:17Z
+  Updated: 2026-05-06T22:45:46Z
   Vendor: Harbour
   Product Type: SUN LOUNGE
   Availability: Available
@@ -22619,7 +22763,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/moab-sun-lounge-moab-04a-alwhi-panmar-2920978.png?v=1775076396
     Price: $2,995.00 USD
 - [Moab Sofa 90"](https://shopharbour.com/products/moab-sofa-90): Our Moab collection uses the finest materials to create the next generation of comfort — it's the definition of bringing the indoors out. The Moab 90” Sofa is pure luxury — enjoy a generous bench cushion at medium height on a powder coated extruded aluminum frame with side wall cushions for added comfort. Tubular construction and a thin streamlined profile introduce a dynamic element to this classic collection. This striking piece brings a contemporary aesthetic to any space. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• 1 seat cushion and 2 knife–edge back cushions included. Resistant to outdoor mildew, stains and fading.• Quick dry flow–through foam lines the inside of the aluminum frame – cushion features a Dacron wrap for sink–in comfort• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T21:26:15Z
+  Updated: 2026-05-06T13:15:26Z
   Vendor: Harbour
   Product Type: 2.5 SEAT SOFA
   Availability: Available
@@ -22825,7 +22969,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/moab-sofa-90-moab-06e-alwhi-panclo-8648636.png?v=1775076503
     Price: $5,795.00 USD
 - [Moab Lounge Chair](https://shopharbour.com/products/moab-lounge-chair): Our Moab collection uses the finest materials to create the next generation of comfort — it's the definition of bringing the indoors out. The Moab Lounge Chair is pure luxury — enjoy a generous bench cushion at medium height on a powder coated extruded aluminum frame with side wall cushions for added comfort. Tubular construction and a thin streamlined profile introduce a dynamic element to this classic collection. This striking piece brings a contemporary aesthetic to any space.
-  Updated: 2026-04-29T18:16:29Z
+  Updated: 2026-05-06T22:45:47Z
   Vendor: Harbour
   Product Type: LOUNGE CHAIR
   Availability: Available
@@ -23031,7 +23175,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/moab-lounge-chair-moab-08a-alwhi-panmar-5894424.png?v=1775076588
     Price: $3,195.00 USD
 - [Moab Ottoman](https://shopharbour.com/products/moab-ottoman): Our Moab collection uses the finest materials to create the next generation of comfort — it's the definition of bringing the indoors out. The Moab Ottoman is pure luxury — enjoy a generous cushion at low height on a powder coated extruded aluminum frame. Tubular construction and a thin streamlined profile introduce a dynamic element to this classic collection. This striking piece brings a contemporary aesthetic to any space.
-  Updated: 2026-04-29T13:11:37Z
+  Updated: 2026-05-06T13:14:47Z
   Vendor: Harbour
   Product Type: OTTOMAN
   Availability: Available
@@ -23237,7 +23381,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/moab-ottoman-moab-09a-alwhi-panmar-4764349.png?v=1775076629
     Price: $1,795.00 USD
 - [Moab Coffee Table](https://shopharbour.com/products/moab-rectangle-coffee-table): Our Moab collection uses the finest materials to create the next generation of comfort — it's the definition of bringing the indoors out. The Moab Coffee Table was designed as the perfect anchor for your outdoor seating set — featuring a powder coated extruded aluminum frame with a travertine stone top set into a matching aluminum border. Tubular construction and angled legs introduce a dynamic design element to this classic collection. Rectangular with curved corners, this striking piece brings a modern approach to the table and a contemporary aesthetic to any space. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Travertine stone is a natural product. Expect patterns and textures to be unique to each top.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.•Assembly required.
-  Updated: 2026-04-29T13:11:31Z
+  Updated: 2026-05-06T13:14:41Z
   Vendor: Harbour
   Product Type: COFFEE TABLE
   Availability: Available
@@ -23263,7 +23407,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/moab-coffee-table-moab-10a-alwhi-trnat-2795733.png?v=1775076496
     Price: $4,495.00 USD
 - [Moab Round Coffee Table](https://shopharbour.com/products/moab-round-coffee-table): Our Moab collection uses the finest materials to create the next generation of comfort — it's the definition of bringing the indoors out. The Moab Round Coffee Table was designed as the perfect anchor for your outdoor seating set — featuring a powder coated extruded aluminum frame with a travertine stone top set into a matching aluminum border. Tubular construction and an angled three–leg design introduce a dynamic element to this classic collection. Round in shape for maximum versatility, this striking piece brings a modern approach to the table and a contemporary aesthetic to any space. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Travertine stone is a natural product. Expect patterns and textures to be unique to each top.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.•Assembly required.
-  Updated: 2026-04-29T13:11:44Z
+  Updated: 2026-05-06T13:14:55Z
   Vendor: Harbour
   Product Type: COFFEE TABLE
   Availability: Available
@@ -23277,7 +23421,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/moab-round-coffee-table-moab-10f-albrz-trgre-655986.png?v=1731122600
     Price: $3,995.00 USD
 - [Moab Round Side Table](https://shopharbour.com/products/moab-round-side-table): Our Moab collection uses the finest materials to create the next generation of comfort — it's the definition of bringing the indoors out. The Moab Round Side Table was designed as the perfect complement for your outdoor sofas, chairs or poolside sun lounge — featuring a powder coated extruded aluminum frame with a travertine stone top set into a matching aluminum border. Tubular construction and an angled three–leg design introduce a dynamic element to this classic collection. Round in shape for maximum versatility, this striking piece brings a modern approach to the table and a contemporary aesthetic to any space. FEATURES• Frame handcrafted of extruded aluminum in our workshop• Superior quality powder coating applied for weather resistance• Travertine stone is a natural product. Expect patterns and textures to be unique to each top.• Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:11:51Z
+  Updated: 2026-05-06T13:15:02Z
   Vendor: Harbour
   Product Type: SIDE TABLE
   Availability: Available
@@ -23310,28 +23454,28 @@
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/nature-boy-stacking-sun-lounge-natu-04b-tenat-basil-688838.png?v=1731122718
   Price: $1,995.00 USD
 - [Noosa Dining Chair | Organic Solid Teak Outdoor Furniture](https://shopharbour.com/products/noosa-dining-chair): The Noosa Dining Chair features a solid teak frame and twisted rope detail, offering laid-back comfort and coastal style for relaxed outdoor lounging.
-  Updated: 2026-04-29T13:13:15Z
+  Updated: 2026-05-06T13:16:27Z
   Vendor: Harbour
   Product Type: DINING CHAIR
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/noosa-dining-chair-noos-01a-tenat-twres-243513.png?v=1751523342
   Price: $537.00 USD
 - [Noosa Counter Stool | Organic Solid Teak Outdoor Furniture](https://shopharbour.com/products/noosa-counter-stool): The Noosa Counter Stool features a solid teak frame and twisted rope detail, offering laid-back comfort and coastal style for relaxed outdoor lounging.
-  Updated: 2026-04-29T13:13:15Z
+  Updated: 2026-05-06T13:16:27Z
   Vendor: Harbour
   Product Type: COUNTER STOOL
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/noosa-counter-stool-noos-02a-tenat-twres-321028.png?v=1731122800
   Price: $995.00 USD
 - [Noosa Backless Bar Stool](https://shopharbour.com/products/noosa-backless-bar-stool): Our Noosa collection is inspired by the beach lifestyle. A take on the classic mid–century wooden stool, the Noosa Backless Bar Stool is handcrafted comfort — enjoy a solid Indonesian teak frame with a scooped seat supported by rounded legs and stretchers. Perfect for any outdoor bar space, or even indoor if you wish, this stylish piece completes any space. FEATURES• Frame handcrafted of sustainably sourced solid Indonesian teak in our workshop • When properly maintained and cared for, teak is the ideal outdoor material with its natural resistance to weather, cracking and rotting. Please refer to our Care + Maintenance Guide for additional information about the care and natural beauty of teak. • Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T13:13:12Z
+  Updated: 2026-05-06T13:16:24Z
   Vendor: Harbour
   Product Type: BACKLESS BAR STOOL
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/noosa-backless-bar-stool-noos-02d-tenat-490021.png?v=1731122849
   Price: $1,150.00 USD
 - [Noosa Easy Chair | Organic Solid Teak Outdoor Furniture](https://shopharbour.com/products/noosa-easy-chair): The Noosa Easy Chair features a solid teak frame and twisted rope detail, offering laid-back comfort and coastal style for relaxed outdoor lounging.
-  Updated: 2026-04-29T13:13:17Z
+  Updated: 2026-05-06T13:16:28Z
   Vendor: Harbour
   Product Type: EASY CHAIR
   Availability: Available
@@ -23353,35 +23497,35 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/noosa-easy-chair-noos-08b-tenat-twres-panmar-9783381.png?v=1751584929
     Price: $3,250.00 USD
 - [Noosa Round Coffee Table | Organic Solid Teak Outdoor Furniture](https://shopharbour.com/products/noosa-round-coffee-table): The Noosa Round Coffee Table is crafted in solid teak, grounding your outdoor lounge with warm tones and a smooth, coastal-inspired circular shape.
-  Updated: 2026-04-29T13:13:21Z
+  Updated: 2026-05-06T13:16:33Z
   Vendor: Harbour
   Product Type: COFFEE TABLE
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/noosa-round-coffee-table-noos-10a-tenat-785057.png?v=1731122939
   Price: $2,695.00 USD
 - [Noosa Footed Stump 1 | Organic Solid Teak Outdoor Furniture](https://shopharbour.com/products/noosa-stump-1): Crafted from solid teak, the Noosa Footed Stump 1 adds sculptural beauty and functional charm as a side table or accent piece.
-  Updated: 2026-04-29T13:13:17Z
+  Updated: 2026-05-06T13:16:29Z
   Vendor: Harbour
   Product Type: SIDE TABLE
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/NOOS-11M-SIDETABLE-FRONT.png?v=1741748849
   Price: $1,650.00 USD
 - [Noosa Footed Stump 2 | Organic Solid Teak Outdoor Furniture](https://shopharbour.com/products/noosa-stump-2): Crafted from solid teak, the Noosa Footed Stump 2 adds sculptural beauty and functional charm as a side table or accent piece.
-  Updated: 2026-04-29T13:13:20Z
+  Updated: 2026-05-06T13:16:32Z
   Vendor: Harbour
   Product Type: SIDE TABLE
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/NOOS-11N-SIDETABLE-FRONT.png?v=1741748854
   Price: $1,750.00 USD
-- [Noosa Footed Stump 3](https://shopharbour.com/products/noosa-stump-3): Our Noosa collection is inspired by the beach lifestyle. The Noosa Footed Stump 2 offers a stump–style side table for the outdoors — engineered from solid Indonesian teak and supported by legs that lift it off the ground for added visual interest. The natural beauty of the teak will change over time and weather with the elements. Perfect for mixing and matching, this organic piece is available in three slightly different shapes and sizes. FEATURES • Frame handcrafted of sustainably sourced solid Indonesian teak in our workshop • When properly maintained and cared for, teak is the ideal outdoor material with its natural resistance to weather, cracking and rotting. Please refer to our Care + Maintenance Guide for additional information about the care and natural beauty of teak. • Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.
-  Updated: 2026-04-29T23:36:57Z
+- [Noosa Footed Stump 3](https://shopharbour.com/products/noosa-stump-3): Our Noosa collection is inspired by the beach lifestyle. The Noosa Footed Stump 2 offers a stump–style side table for the outdoors — engineered from solid Indonesian teak and supported by legs that lift it off the ground for added visual interest. The natural beauty of the teak will change over time and weather with the elements. Perfect for mixing and matching, this organic piece is available in three slightly different shapes and sizes. FEATURES• Frame handcrafted of sustainably sourced solid Indonesian teak in our workshop • When properly maintained and cared for, teak is the ideal outdoor material with its natural resistance to weather, cracking and rotting. Please refer to our Care + Maintenance Guide for additional information about the care and natural beauty of teak. • Our custom outdoor covers are strongly recommended as an extra layer of protection against the elements and natural aging• If the furniture will remain covered and not used frequently, we recommend periodically taking off the covers to allow moisture and humidity to dissipate from inside allowing the furniture to breathe. This helps reduce trapped humidity if the furniture is not regularly used.• Over time, each unique piece will naturally experience movement, cracks and changes in the appearance of the wood. Driven by sun and moisture, natural cracking is especially prevalent in stumps due to the thickness of the wood.
+  Updated: 2026-05-06T13:16:31Z
   Vendor: Harbour
   Product Type: SIDE TABLE
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/NOOS-11O-SIDETABLE-MAIN.png?v=1741748861
   Price: $1,695.00 USD
 - [Pacific Aluminum Counter Stool | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-aluminum-counter-stool): The Pacific Aluminum Counter Stool is crafted in powder-coated aluminum, offering streamlined comfort and modern style for outdoor entertaining.
-  Updated: 2026-04-29T13:13:37Z
+  Updated: 2026-05-06T13:16:52Z
   Vendor: Harbour
   Product Type: COUNTER STOOL
   Availability: Available
@@ -23399,7 +23543,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/pacific-aluminum-counter-stool-paca-02a-altau-bawhi-986971.png?v=1731123073
     Price: $895.00 USD
 - [Pacific Aluminum Dining Chair | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-aluminum-dining-chair): The Pacific Aluminum Dining Chair is crafted in powder-coated aluminum, offering streamlined comfort and modern style for outdoor dining.
-  Updated: 2026-04-29T13:13:40Z
+  Updated: 2026-05-06T13:16:55Z
   Vendor: Harbour
   Product Type: DINING CHAIR
   Availability: Available
@@ -23417,7 +23561,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/pacific-aluminum-dining-chair-paca-01a-altau-bawhi-299195.png?v=1743454778
     Price: $850.00 USD
 - [Pacific Aluminum Bar Stool | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-aluminum-bar-stool): The Pacific Aluminum Bar Stool is crafted in powder-coated aluminum, offering streamlined comfort and modern style for outdoor entertaining.
-  Updated: 2026-04-29T13:13:33Z
+  Updated: 2026-05-06T13:16:45Z
   Vendor: Harbour
   Product Type: BAR STOOL
   Availability: Available
@@ -23435,7 +23579,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/pacific-aluminum-bar-stool-paca-02c-altau-bawhi-510599.png?v=1747851368
     Price: $950.00 USD
 - [Pacific Aluminum Extension Dining Table | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-aluminum-extension-dining-table): The Pacific Aluminum Extension Dining Table is crafted in powder-coated aluminum, offering streamlined design and modern style for outdoor dining.
-  Updated: 2026-04-29T13:13:41Z
+  Updated: 2026-05-06T19:46:06Z
   Vendor: Harbour
   Product Type: DINING TABLE
   Availability: Available
@@ -23453,7 +23597,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/pacific-aluminum-extension-dining-table-paca-03e-altau-837447.png?v=1731123362
     Price: $5,695.00 USD
 - [Pacific Aluminum 3 Seat Sofa | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-aluminum-3-seat-sofa): The Pacific Aluminum 3 Seat Sofa is crafted in powder-coated aluminum, offering streamlined comfort and modern style for outdoor lounging.
-  Updated: 2026-04-29T12:34:44Z
+  Updated: 2026-05-06T12:36:26Z
   Vendor: Harbour
   Product Type: 3 SEAT SOFA
   Availability: Available
@@ -23659,7 +23803,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/pacific-aluminum-3-seat-sofa-paca-05a-alwhi-bawhi-pebcam-6816804.png?v=1775076802
     Price: $8,150.00 USD
 - [Pacific Aluminum 2 Seat Sofa | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-aluminum-2-seat-sofa): The Pacific Aluminum 2 Seat Sofa is crafted in powder-coated aluminum, offering streamlined comfort and modern style for outdoor lounging.
-  Updated: 2026-04-29T12:34:43Z
+  Updated: 2026-05-06T12:36:21Z
   Vendor: Harbour
   Product Type: 2 SEAT SOFA
   Availability: Available
@@ -23865,7 +24009,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/pacific-aluminum-2-seat-sofa-paca-06a-alast-basil-stismo-7026598.png?v=1775076935
     Price: $5,750.00 USD
 - [Pacific Aluminum 2 Seat Armless Sofa | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-aluminum-2-seat-armless-sofa): The Pacific Aluminum 2 Seat Armless Sofa is crafted in powder-coated aluminum, offering streamlined comfort and modern style for outdoor lounging.
-  Updated: 2026-04-29T12:34:31Z
+  Updated: 2026-05-06T12:36:10Z
   Vendor: Harbour
   Product Type: 2 SEAT ARMLESS SOFA
   Availability: Available
@@ -24071,7 +24215,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/pacific-aluminum-2-seat-armless-sofa-paca-06b-alast-basil-marmin-7450526.png?v=1775076983
     Price: $6,495.00 USD
 - [Pacific Aluminum 2 Seat 1 Arm | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-aluminum-2-seat-1-arm-l-r): The Pacific Aluminum 2 Seat 1 Arm is crafted in powder-coated aluminum, offering streamlined comfort and modern style for outdoor lounging.
-  Updated: 2026-04-29T20:11:22Z
+  Updated: 2026-05-06T20:13:00Z
   Vendor: Harbour
   Product Type: 2 SEAT 1 ARM L/R
   Availability: Available
@@ -24277,7 +24421,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/pacific-aluminum-2-seat-1-arm-paca-06c-alast-basil-stisag-1358059.png?v=1775076985
     Price: $5,250.00 USD
 - [Pacific Aluminum Daybed | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-aluminum-daybed): The Pacific Aluminum Daybed is crafted in powder-coated aluminum, offering streamlined comfort and modern style for outdoor lounging.
-  Updated: 2026-04-29T13:13:39Z
+  Updated: 2026-05-06T13:16:53Z
   Vendor: Harbour
   Product Type: DAYBED
   Availability: Available
@@ -24391,7 +24535,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/pacific-aluminum-daybed-paca-07a-altau-bawhi-pancoc-6266595.png?v=1775076793
     Price: $6,995.00 USD
 - [Pacific Aluminum Lounge Chair | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-aluminum-lounge-chair): The Pacific Aluminum Lounge Chair is crafted in powder-coated aluminum, offering streamlined comfort and modern style for outdoor lounging.
-  Updated: 2026-04-29T13:13:47Z
+  Updated: 2026-05-06T13:17:04Z
   Vendor: Harbour
   Product Type: LOUNGE CHAIR
   Availability: Available
@@ -24597,7 +24741,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/pacific-aluminum-lounge-chair-paca-08a-alast-basil-monsan-9737276.png?v=1775077117
     Price: $2,795.00 USD
 - [Pacific Aluminum Corner | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-aluminum-corner): The Pacific Aluminum Corner is crafted in powder-coated aluminum, offering streamlined comfort and modern style for outdoor lounging.
-  Updated: 2026-04-29T12:35:25Z
+  Updated: 2026-05-06T12:37:09Z
   Vendor: Harbour
   Product Type: CORNER
   Availability: Available
@@ -24803,7 +24947,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/pacific-aluminum-corner-paca-08c-alwhi-bawhi-stisan-5685449.png?v=1775595977
     Price: $3,350.00 USD
 - [Pacific Aluminum Armless Single | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-aluminum-armless-single): The Pacific Aluminum Armless Single is crafted in powder-coated aluminum, offering streamlined comfort and modern style for outdoor lounging.
-  Updated: 2026-04-29T12:35:23Z
+  Updated: 2026-05-06T12:37:03Z
   Vendor: Harbour
   Product Type: ARMLESS SINGLE
   Availability: Available
@@ -25009,7 +25153,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/pacific-aluminum-armless-single-paca-08d-alwhi-bawhi-stisan-3214125.png?v=1775596041
     Price: $2,525.00 USD
 - [Pacific Aluminum Ottoman | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-aluminum-ottoman): The Pacific Aluminum Ottoman is crafted in powder-coated aluminum, offering streamlined comfort and modern style for outdoor lounging.
-  Updated: 2026-04-29T14:20:04Z
+  Updated: 2026-05-06T14:24:49Z
   Vendor: Harbour
   Product Type: OTTOMAN
   Availability: Available
@@ -25215,7 +25359,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/pacific-aluminum-ottoman-paca-09a-albon-battea-6915877.png?v=1775596230
     Price: $2,350.00 USD
 - [Pacific Aluminum Coffee Table | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-aluminum-coffee-table): The Pacific Aluminum Coffee Table is crafted in powder-coated aluminum, offering streamlined design and modern function for outdoor living.
-  Updated: 2026-04-29T13:13:36Z
+  Updated: 2026-05-06T13:16:49Z
   Vendor: Harbour
   Product Type: COFFEE TABLE
   Availability: Available
@@ -25233,7 +25377,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/pacific-aluminum-coffee-table-paca-10a-altau-753252.png?v=1731125537
     Price: $1,895.00 USD
 - [Pacific Aluminum Side Table | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-aluminum-side-table): The Pacific Aluminum Side Table is crafted in powder-coated aluminum, offering streamlined design and modern function for outdoor living.
-  Updated: 2026-04-29T13:13:52Z
+  Updated: 2026-05-06T13:17:14Z
   Vendor: Harbour
   Product Type: SIDE TABLE
   Availability: Available
@@ -25247,7 +25391,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/pacific-aluminum-side-table-paca-11c-altau-962225.png?v=1741641193
     Price: $1,250.00 USD
 - [Pacific Teak Extension Dining Table | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-extension-dining-table): The Pacific Teak Extension Dining Table is crafted in natural teak, offering streamlined design and modern style for outdoor dining.
-  Updated: 2026-04-29T13:14:09Z
+  Updated: 2026-05-06T13:17:29Z
   Vendor: Harbour
   Product Type: DINING TABLE
   Availability: Available
@@ -25265,7 +25409,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/pacific-extension-dining-table-paci-03e-alwhi-tenat-990452.png?v=1747852004
     Price: $6,495.00 USD
 - [Pacific Teak Square Bar Table | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-square-bar-table): The Pacific Teak Square Bar Table is crafted in natural teak, offering streamlined design and modern style for outdoor entertaining.
-  Updated: 2026-04-29T13:14:15Z
+  Updated: 2026-05-06T13:17:37Z
   Vendor: Harbour
   Product Type: BAR TABLE
   Availability: Available
@@ -25283,7 +25427,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/AccentTeakNatural_FrameAluminumWhite.png?v=1731125943
     Price: $2,395.00 USD
 - [Pacific Teak Sun Lounge | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-sun-lounge): The Pacific Teak Sun Lounge is crafted in natural teak, offering streamlined comfort and modern style for outdoor lounging.
-  Updated: 2026-04-29T13:14:16Z
+  Updated: 2026-05-06T13:17:36Z
   Vendor: Harbour
   Product Type: SUN LOUNGE
   Availability: Available
@@ -25305,7 +25449,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/pacific-teak-sun-lounge-paci-04a-tenat-batau-5676066.png?v=1775161790
     Price: $2,495.00 USD
 - [Pacific Teak 3 Seat Sofa | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-3-seat-sofa): The Pacific Teak 3 Seat Sofa is crafted in natural teak, offering streamlined comfort and modern style for outdoor lounging.
-  Updated: 2026-04-29T20:12:01Z
+  Updated: 2026-05-06T20:13:38Z
   Vendor: Harbour
   Product Type: 3 SEAT SOFA
   Availability: Available
@@ -25511,7 +25655,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/pacific-teak-3-seat-sofa-paci-05a-tenat-bawhi-pebcam-2251221.png?v=1775162058
     Price: $7,750.00 USD
 - [Pacific Teak 2 Seat Sofa | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-2-seat-sofa): The Pacific Teak 2 Seat Sofa is crafted in natural teak, offering streamlined comfort and modern style for outdoor lounging.
-  Updated: 2026-04-29T20:12:34Z
+  Updated: 2026-05-06T20:14:17Z
   Vendor: Harbour
   Product Type: 2 SEAT SOFA
   Availability: Available
@@ -25717,7 +25861,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/pacific-teak-2-seat-sofa-paci-06a-tenat-bawhi-pc-veldun-8165914.png?v=1775162117
     Price: $5,495.00 USD
 - [Pacific Teak 2 Seat Armless Sofa | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-2-seat-armless-sofa): The Pacific Teak 2 Seat Armless Sofa is crafted in natural teak, offering streamlined comfort and modern style for outdoor lounging.
-  Updated: 2026-04-29T12:36:24Z
+  Updated: 2026-05-06T12:38:10Z
   Vendor: Harbour
   Product Type: 2 SEAT ARMLESS SOFA
   Availability: Available
@@ -25923,7 +26067,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/pacific-teak-2-seat-armless-sofa-paci-06b-tenat-bawhi-pc-veldun-6362388.png?v=1775162177
     Price: $5,095.00 USD
 - [Pacific Teak 2 Seat 1 Arm | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-2-seat-1-arm-l-r): The Pacific Teak 2 Seat 1 Arm is crafted in natural teak, offering streamlined comfort and modern style for outdoor lounging.
-  Updated: 2026-04-29T20:13:02Z
+  Updated: 2026-05-06T20:14:48Z
   Vendor: Harbour
   Product Type: 2 SEAT 1 ARM L/R
   Availability: Available
@@ -26129,7 +26273,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/pacific-teak-2-seat-1-arm-paci-06c-tenat-bawhi-pebcam-7319301.png?v=1775162296
     Price: $6,450.00 USD
 - [Pacific Teak Daybed | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-daybed): The Pacific Teak Daybed is crafted in natural teak, offering streamlined comfort and modern style for outdoor lounging.
-  Updated: 2026-04-29T12:36:51Z
+  Updated: 2026-05-06T12:38:40Z
   Vendor: Harbour
   Product Type: DAYBED
   Availability: Available
@@ -26335,7 +26479,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/pacific-teak-daybed-paci-07a-tenat-bawhi-pebcam-6903761.png?v=1775162358
     Price: $9,095.00 USD
 - [Pacific Teak Lounge Chair | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-lounge-chair): The Pacific Teak Lounge Chair is crafted in natural teak, offering streamlined comfort and modern style for outdoor lounging.
-  Updated: 2026-04-29T20:13:37Z
+  Updated: 2026-05-06T20:15:21Z
   Vendor: Harbour
   Product Type: LOUNGE CHAIR
   Availability: Available
@@ -26541,7 +26685,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/pacific-teak-lounge-chair-paci-08a-tenat-bawhi-pebcam-1662173.png?v=1775083767
     Price: $3,395.00 USD
 - [Pacific Teak Corner | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-corner): The Pacific Teak Corner is crafted in natural teak, offering streamlined comfort and modern style for outdoor lounging.
-  Updated: 2026-04-29T12:36:43Z
+  Updated: 2026-05-06T12:38:33Z
   Vendor: Harbour
   Product Type: CORNER
   Availability: Available
@@ -26747,7 +26891,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/pacific-teak-corner-paci-08c-tenat-bawhi-pebcam-8076060.png?v=1775683044
     Price: $3,995.00 USD
 - [Pacific Teak Armless Single | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-armless-single): The Pacific Teak Armless Single is crafted in natural teak, offering streamlined comfort and modern style for outdoor lounging.
-  Updated: 2026-04-29T12:36:42Z
+  Updated: 2026-05-06T12:38:28Z
   Vendor: Harbour
   Product Type: ARMLESS SINGLE
   Availability: Available
@@ -26953,7 +27097,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/pacific-teak-armless-single-paci-08d-tenat-bawhi-pc-veldun-4984076.png?v=1775683106
     Price: $2,895.00 USD
 - [Pacific Teak Ottoman | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-ottoman): The Pacific Teak Ottoman is crafted in natural teak, offering streamlined comfort and modern style for outdoor lounging.
-  Updated: 2026-04-29T14:22:20Z
+  Updated: 2026-05-06T14:27:19Z
   Vendor: Harbour
   Product Type: OTTOMAN
   Availability: Available
@@ -27159,7 +27303,7 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/pacific-teak-ottoman-paci-09a-tenat-pc-veldun-8331200.png?v=1775683282
     Price: $2,250.00 USD
 - [Pacific Teak Coffee Table | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-coffee-table): The Pacific Teak Coffee Table is crafted in natural teak, offering streamlined design and modern function for outdoor living.
-  Updated: 2026-04-29T13:14:05Z
+  Updated: 2026-05-06T13:17:25Z
   Vendor: Harbour
   Product Type: COFFEE TABLE
   Availability: Available
@@ -27173,49 +27317,49 @@
     Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/products/pacific-coffee-table-paci-10a-tenat-567450.png?v=1731127686
     Price: $2,095.00 USD
 - [Pacific Teak Side Table | Modern Outdoor Furniture](https://shopharbour.com/products/pacific-side-table): The Pacific Teak Side Table is crafted in natural teak, offering streamlined design and modern function for outdoor living.
-  Updated: 2026-04-29T13:14:14Z
+  Updated: 2026-05-06T13:17:34Z
   Vendor: Harbour
   Product Type: SIDE TABLE
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/pacific-teak-side-table-paci-11c-tenat-902239.png?v=1741735239
   Price: $1,595.00 USD
 - [Pure Natural Stump | Organic Solid Teak Outdoor Furniture](https://shopharbour.com/products/pure-natural-stump): The Pure Natural Stump is crafted from solid teak with organic lines and raw texture, offering versatile function and sculptural outdoor beauty in any space.
-  Updated: 2026-04-29T13:15:22Z
+  Updated: 2026-05-06T13:18:50Z
   Vendor: Harbour
   Product Type: SIDE TABLE
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/PURE-11D-NATURALSIDETABLE-FRONT.png?v=1741735185
   Price: $1,095.00 USD
 - [Pure Curved Stump | Organic Solid Teak Outdoor Furniture](https://shopharbour.com/products/pure-curved-stump): The Pure Curved Stump is crafted from solid teak with organic lines and raw texture, offering versatile function and sculptural outdoor beauty in any space.
-  Updated: 2026-04-29T13:15:21Z
+  Updated: 2026-05-06T13:18:49Z
   Vendor: Harbour
   Product Type: SIDE TABLE
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/PURE-11E-CURVEDSIDETABLE-FRONT.png?v=1741735191
   Price: $1,095.00 USD
 - [Pure Square Side Table | Organic Solid Teak Outdoor Furniture](https://shopharbour.com/products/pure-square-side-table): The Pure Square Side Table is crafted from solid teak with organic lines and raw texture, offering versatile function and sculptural outdoor beauty in any space.
-  Updated: 2026-04-29T13:15:24Z
+  Updated: 2026-05-06T13:18:52Z
   Vendor: Harbour
   Product Type: SIDE TABLE
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/PURE-11F-SQUARESIDETABLE-FRONT.png?v=1741735197
   Price: $1,395.00 USD
 - [Pure Triangle Side Table | Organic Solid Teak Outdoor Furniture](https://shopharbour.com/products/pure-triangle-side-table): The Pure Triangle Side Table is crafted from solid teak with organic lines and raw texture, offering versatile function and sculptural outdoor beauty in any space.
-  Updated: 2026-04-29T13:15:25Z
+  Updated: 2026-05-06T13:18:52Z
   Vendor: Harbour
   Product Type: SIDE TABLE
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/PURE-11G-TRIANGLESIDETABLE-FRONT45.png?v=1741735202
   Price: $1,395.00 USD
 - [Pure Sphere Stump | Organic Solid Teak Outdoor Furniture](https://shopharbour.com/products/pure-sphere-stump): The Pure Sphere Stump is crafted from solid teak with organic lines and raw texture, offering versatile function and sculptural outdoor beauty in any space.
-  Updated: 2026-04-29T13:15:23Z
+  Updated: 2026-05-06T13:18:50Z
   Vendor: Harbour
   Product Type: SIDE TABLE
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0624/6812/9016/files/PURE-11H-SPHERESIDETABLE-FRONT.png?v=1741735247
   Price: $2,195.00 USD
 - [Santorini Outdoor Sun Lounge | Fully Upholstered Outdoor Furniture](https://shopharbour.com/products/santorini-outdoor-sun-lounge): The Santorini Outdoor Sun Lounge is fully upholstered in outdoor materials offering versatile function and comfort poolside.
-  Updated: 2026-04-29T13:23:56Z
+  Updated: 2026-05-06T13:27:30Z
   Vendor: Harbour
   Product Type: SUN LOUNGE
   Availability: Available
@@ -27446,7 +27590,7 @@
   Updated: 2026-03-26T16:07:33Z
   Total Products: 1
 - [Pacific Aluminum Collection | Modern & Durable Outdoor Furniture](https://shopharbour.com/collections/pacific): The Pacific Collection features sofas, lounge chairs, dining chairs, tables, and sun lounges with sleek aluminum frames and sling seating for modern outdoor living.
-  Updated: 2026-04-21T21:02:29Z
+  Updated: 2026-05-05T13:21:06Z
   Total Products: 22
 - [Antigua Collection | Contemporary Aluminum Outdoor Furniture](https://shopharbour.com/collections/antigua): Our Antigua Collection brings European styling and a fresh vision of rope to outdoor living — Luxurious sofas, lounge chairs, tables, and poolside designs.
   Updated: 2026-04-15T07:17:43Z
@@ -27464,10 +27608,10 @@
   Updated: 2026-04-15T07:17:43Z
   Total Products: 3
 - [Victoria Aluminum | Handcrafted Modern Outdoor Furniture](https://shopharbour.com/collections/victoria): Showcasing an aluminum finish and sculptural mid-century lines, Victoria offers a full range of outdoor pieces including sofas, chairs, tables, and sun lounges.
-  Updated: 2026-04-23T12:44:25Z
+  Updated: 2026-05-05T11:18:18Z
   Total Products: 36
 - [Hayman Teak Collection | Minimalistic & Modern Outdoor Furniture](https://shopharbour.com/collections/hayman): Hayman Teak offers stylish comfort for outdoor living, dining, and poolside with neutral fabrics, various finishes, Batyline sling seats, and slatted tables.
-  Updated: 2026-04-29T16:41:55Z
+  Updated: 2026-05-06T13:12:03Z
   Total Products: 23
 - [Breeze Collection | Modern Aluminum Outdoor Furniture](https://shopharbour.com/collections/breeze): Breeze offers sofas, lounge chairs, dining tables, chairs, and poolside designs that balance modern style with seaside vibes, ideal for smaller spaces.
   Updated: 2026-04-15T11:18:07Z
@@ -27506,16 +27650,16 @@
   Updated: 2026-03-26T16:07:34Z
   Total Products: 0
 - [Outdoor Sofas Furniture Collection - HARBOUR](https://shopharbour.com/collections/outdoor-sofas): Elevate your outdoor living space with our luxury outdoor sofa collection. Crafted from sustainable all-weather materials, our outdoor sofas are built to withstand any climate.
-  Updated: 2026-04-29T13:09:43Z
+  Updated: 2026-05-06T13:12:51Z
   Total Products: 98
 - [2 Seat Outdoor Sofas Furniture Collection - HARBOUR](https://shopharbour.com/collections/2-seat-outdoor-sofas): 2 Seat Outdoor Sofas - Harbour
   Updated: 2026-04-28T11:15:33Z
   Total Products: 30
 - [3 Seat Outdoor Sofas Furniture Collection - HARBOUR](https://shopharbour.com/collections/3-seat-outdoor-sofas): 3 Seat Outdoor Sofas - Harbour
-  Updated: 2026-04-29T13:08:56Z
+  Updated: 2026-05-06T13:12:03Z
   Total Products: 40
 - [Outdoor Sectionals Furniture Collection - HARBOUR](https://shopharbour.com/collections/outdoor-sectionals): Elevate your outdoor living space with our luxury outdoor patio sectionals. Crafted from sustainable all-weather materials, our outdoor sectionals are built to withstand any climate.
-  Updated: 2026-04-29T12:57:33Z
+  Updated: 2026-05-06T13:00:15Z
   Total Products: 105
 - [Outdoor Lounge Chairs Furniture Collection - HARBOUR](https://shopharbour.com/collections/outdoor-lounge-chairs): Discover our collection of handcrafted outdoor lounge chairs to complete your space. Available in a range of finishes and all-weather fabrics, indoor comfort meets outdoor performance with these pieces.
   Updated: 2026-04-28T11:15:33Z
@@ -27524,16 +27668,16 @@
   Updated: 2026-04-23T20:02:10Z
   Total Products: 31
 - [Outdoor Tables Furniture Collection - HARBOUR](https://shopharbour.com/collections/outdoor-tables): Outdoor Tables - Harbour
-  Updated: 2026-04-29T16:56:35Z
+  Updated: 2026-05-05T13:21:06Z
   Total Products: 98
 - [Outdoor Dining Tables Furniture Collection - HARBOUR](https://shopharbour.com/collections/outdoor-dining-tables): Discover our collection of handcrafted outdoor dining tables to complete your space. Available in a range of finishes and sizes, these tables elevate al fresco dining.
-  Updated: 2026-04-29T16:56:35Z
+  Updated: 2026-05-05T13:21:06Z
   Total Products: 98
 - [Outdoor Coffee Tables Furniture Collection - HARBOUR](https://shopharbour.com/collections/coffee-tables): Discover our collection of handcrafted outdoor coffee tables to complete your space. Available in a range of finishes and styles, these tables make outdoor entertaining a breeze.
   Updated: 2026-04-20T11:16:22Z
   Total Products: 78
 - [Outdoor Side Tables Furniture Collection - HARBOUR](https://shopharbour.com/collections/outdoor-side-tables): Elevate your outdoor living space with our square, rectangular and round outdoor side tables. Available in a range of finishes and styles, these tables make outdoor entertaining a breeze.
-  Updated: 2026-04-29T16:55:51Z
+  Updated: 2026-05-01T21:43:07Z
   Total Products: 65
 - [Outdoor Fire Tables Furniture Collection - HARBOUR](https://shopharbour.com/collections/outdoor-fire-tables): Elevate your outdoor living space with our outdoor fire tables. Available in a range of finishes and styles, these outside fire tables infuse energy, warmth and light to any space.
   Updated: 2026-04-20T11:16:22Z
@@ -27548,10 +27692,10 @@
   Updated: 2026-04-23T12:39:04Z
   Total Products: 37
 - [Outdoor Dining Chairs Furniture Collection - HARBOUR](https://shopharbour.com/collections/outdoor-dining-chairs): Elevate your outdoor living space with our outdoor dining chairs. Available in a range of finishes and styles, these chairs are the perfect complement to our outdoor tables.
-  Updated: 2026-04-28T16:50:45Z
+  Updated: 2026-05-03T11:19:41Z
   Total Products: 62
 - [Sun Lounges Furniture Collection - HARBOUR](https://shopharbour.com/collections/sun-lounges): Elevate your outdoor living space with our outdoor sun lounges. Available in a range of finishes and styles, these sun loungers are poolside perfection.
-  Updated: 2026-04-26T11:19:49Z
+  Updated: 2026-05-02T11:18:35Z
   Total Products: 51
 - [Daybeds Furniture Collection - HARBOUR](https://shopharbour.com/collections/day-beds): Discover our collection of handcrafted outdoor day beds to complete your space. Available in a range of finishes and styles, these day beds invite all-day relaxation.
   Updated: 2026-04-15T07:17:45Z
@@ -27569,7 +27713,7 @@
   Updated: 2026-03-26T16:07:36Z
   Total Products: 0
 - [Outdoor Furniture Covers Furniture Collection - HARBOUR](https://shopharbour.com/collections/outdoor-furniture-covers): Outdoor Furniture Covers - Harbour
-  Updated: 2026-04-28T11:15:33Z
+  Updated: 2026-05-06T11:23:49Z
   Total Products: 744
 - [Indoor Sofas Furniture Collection - HARBOUR](https://shopharbour.com/collections/indoor-sofas): Indoor Sofas - Harbour
   Updated: 2026-04-15T07:17:45Z
@@ -27719,35 +27863,35 @@
   Updated: 2026-04-29T16:41:55Z
   Total Products: 5
 - [Outdoor Swatches Furniture Collection - HARBOUR](https://shopharbour.com/collections/swatches): Outdoor Swatches - Harbour
-  Updated: 2026-04-25T11:18:45Z
-  Total Products: 128
+  Updated: 2026-05-06T11:23:49Z
+  Total Products: 130
 - [Indoor Swatches Furniture Collection - HARBOUR](https://shopharbour.com/collections/indoor-swatches): Indoor Swatches - Harbour
-  Updated: 2026-04-29T11:16:00Z
-  Total Products: 44
+  Updated: 2026-05-02T11:18:35Z
+  Total Products: 45
 - [In-Stock Outdoor Sofas Furniture Collection - HARBOUR](https://shopharbour.com/collections/in-stock-outdoor-sofas): Design your outdoor space with our luxury sofas. Bring the comfort of inside, outside, with weather-resistant outdoor furniture and create a living and entertaining space to be enjoyed all year round. Ideal for patios, gardens, patios and balconies.
-  Updated: 2026-04-28T11:15:33Z
+  Updated: 2026-05-02T13:59:08Z
   Total Products: 16
 - [In-Stock Outdoor Lounge Chairs - HARBOUR](https://shopharbour.com/collections/in-stock-outdoor-lounge-chairs): Design your outdoor space with our luxury lounge chairs. Bring the comfort of inside, outside, with weather-resistant outdoor furniture and create a living and entertaining space to be enjoyed all year round. Ideal for patios, gardens, patios and balconies.
-  Updated: 2026-04-28T14:56:50Z
-  Total Products: 20
+  Updated: 2026-05-02T14:18:58Z
+  Total Products: 21
 - [In-Stock Outdoor Coffee Tables - SHIPS WITHIN 2-3 DAYS Furniture Collection - HARBOUR](https://shopharbour.com/collections/in-stock-outdoor-coffee-tables): In-Stock Outdoor Coffee Tables - SHIPS WITHIN 2-3 DAYS - Harbour
-  Updated: 2026-04-29T15:46:58Z
-  Total Products: 29
+  Updated: 2026-05-06T16:46:38Z
+  Total Products: 32
 - [In-Stock Outdoor Side Tables Furniture Collection - HARBOUR](https://shopharbour.com/collections/in-stock-outdoor-side-tables): In-Stock Outdoor Side Tables - Harbour
-  Updated: 2026-04-29T16:55:51Z
-  Total Products: 27
+  Updated: 2026-05-05T20:42:47Z
+  Total Products: 26
 - [In-Stock Outdoor Sectionals - SHIPS WITHIN 2-3 DAYS Furniture Collection - HARBOUR](https://shopharbour.com/collections/in-stock-outdoor-sectionals): In-Stock Outdoor Sectionals - SHIPS WITHIN 2-3 DAYS - Harbour
-  Updated: 2026-04-24T15:26:50Z
-  Total Products: 24
+  Updated: 2026-05-06T17:18:08Z
+  Total Products: 27
 - [In-Stock Outdoor Ottomans Furniture Collection - HARBOUR](https://shopharbour.com/collections/in-stock-outdoor-ottomans): In-Stock Outdoor Ottomans - Harbour
   Updated: 2026-04-24T16:40:43Z
   Total Products: 10
 - [In-Stock Outdoor Dining Chairs - SHIPS WITHIN 2-3 DAYS Furniture Collection - HARBOUR](https://shopharbour.com/collections/in-stock-outdoor-dining-chairs): In-Stock Outdoor Dining Chairs - SHIPS WITHIN 2-3 DAYS - Harbour
-  Updated: 2026-04-29T15:17:01Z
-  Total Products: 25
+  Updated: 2026-05-06T19:58:38Z
+  Total Products: 28
 - [In-Stock Outdoor Dining Tables - SHIPS WITHIN 3 DAYS Furniture Collection - HARBOUR](https://shopharbour.com/collections/in-stock-outdoor-dining-tables): In-Stock Outdoor Dining Tables - SHIPS WITHIN 3 DAYS - Harbour
-  Updated: 2026-04-29T16:56:35Z
-  Total Products: 41
+  Updated: 2026-05-05T21:45:56Z
+  Total Products: 45
 - [In-Stock Outdoor Counter and Bar Stools - SHIPS WITHIN 2-3 DAYS Furniture Collection - HARBOUR](https://shopharbour.com/collections/in-stock-outdoor-counter-and-bar-stools): In-Stock Outdoor Counter and Bar Stools - SHIPS WITHIN 2-3 DAYS - Harbour
   Updated: 2026-04-15T07:17:48Z
   Total Products: 9
@@ -27755,11 +27899,11 @@
   Updated: 2026-04-07T22:11:09Z
   Total Products: 0
 - [In-Stock Outdoor Sun Lounges - HARBOUR](https://shopharbour.com/collections/in-stock-outdoor-sun-lounges): Poolside never looked so good with our extensive range of in-stock Sun Lounges. Designed to elevate your outdoor space and for you to create a slice of paradise in your own home. Durable, comfortable and weather resistant they are perfect for year-round entertaining. Available in single and double, cushioned or mesh.
-  Updated: 2026-04-27T18:45:57Z
-  Total Products: 16
+  Updated: 2026-05-06T19:54:00Z
+  Total Products: 20
 - [In-Stock Outdoor Daybeds - SHIPS WITHIN 3 DAYS Furniture Collection - HARBOUR](https://shopharbour.com/collections/in-stock-outdoor-day-beds): In-Stock Outdoor Day Beds - SHIPS WITHIN 2-3 DAYS - Harbour
-  Updated: 2026-04-15T07:17:48Z
-  Total Products: 4
+  Updated: 2026-05-06T19:42:53Z
+  Total Products: 3
 - [In-Stock Outdoor Cabanas Furniture Collection - HARBOUR](https://shopharbour.com/collections/in-stock-outdoor-cabanas): In-Stock Outdoor Cabanas - Harbour
   Updated: 2026-04-23T20:05:49Z
   Total Products: 0
@@ -27824,7 +27968,7 @@
   Updated: 2026-04-15T07:17:49Z
   Total Products: 24
 - [Breeze XL Collection | Modern Aluminum Outdoor Furniture](https://shopharbour.com/collections/breeze-xl-aluminum): The Breeze XL Aluminum collection includes sofas, lounge chairs, dining tables, chairs, and poolside designs—balancing modern style with alluring seaside vibes.
-  Updated: 2026-04-29T12:57:33Z
+  Updated: 2026-05-06T13:00:15Z
   Total Products: 19
 - [Hayman Aluminum Collection | Minimalistic & Modern Outdoor Furniture](https://shopharbour.com/collections/hayman-aluminum): Hayman Aluminum offers stylish comfort for outdoor living, dining, and poolside with neutral fabrics, various finishes, Batyline sling seats, and slatted tables.
   Updated: 2026-04-26T11:19:49Z
@@ -27833,28 +27977,28 @@
   Updated: 2026-04-15T07:17:49Z
   Total Products: 12
 - [Indoor Furniture Collection - HARBOUR](https://shopharbour.com/collections/indoor): Indoor - Harbour
-  Updated: 2026-04-29T11:16:00Z
-  Total Products: 174
+  Updated: 2026-05-02T11:18:35Z
+  Total Products: 175
 - [Maui Collection | Aluminum & Rope Outdoor Furniture](https://shopharbour.com/collections/maui-collection): Harbour x Marcel Wanders’ Maui Collection includes rope seating, travertine tables, and sculptural dividers that bring elegance and serve as statement pieces.
   Updated: 2026-03-26T16:07:42Z
   Total Products: 10
 - [I N V E N T O R Y Furniture Collection - HARBOUR](https://shopharbour.com/collections/inventory): I N V E N T O R Y - Harbour
-  Updated: 2026-04-29T19:09:27Z
-  Total Products: 259
+  Updated: 2026-05-06T19:58:38Z
+  Total Products: 276
 - [All Products No Weather No Furniture Collection - HARBOUR](https://shopharbour.com/collections/all-products-no-weather-no): All Products No Weather No - Harbour
-  Updated: 2026-04-29T17:55:08Z
+  Updated: 2026-05-06T13:12:53Z
   Total Products: 1084
 - [Trade Outdoor Furniture Collection - HARBOUR](https://shopharbour.com/collections/trade-outdoor): Trade Outdoor - Harbour
-  Updated: 2026-04-29T16:41:55Z
+  Updated: 2026-05-06T13:12:03Z
   Total Products: 159
 - [Premium Outdoor  Swatches | Select Your Fabric and Finish](https://shopharbour.com/collections/all-swatches): Browse Harbour's fabric and material swatches. Explore textures, colors, and finishes to find the perfect fit for your outdoor design.
-  Updated: 2026-04-29T11:16:00Z
-  Total Products: 208
+  Updated: 2026-05-06T11:23:49Z
+  Total Products: 210
 - [Performance Rugs Furniture Collection - HARBOUR](https://shopharbour.com/collections/performance-rugs): Elevate your outdoor living space with our outdoor modern rugs. Available in a range of styles and colors, this all-new range of high-performance outdoor rugs perfectly complements our outdoor collections.
   Updated: 2026-04-15T07:17:49Z
   Total Products: 3
 - [Outdoor-living-all Furniture Collection - HARBOUR](https://shopharbour.com/collections/outdoor-living-all): Outdoor-living-all - Harbour
-  Updated: 2026-04-29T16:55:51Z
+  Updated: 2026-05-06T13:12:03Z
   Total Products: 510
 - [Bar Carts Furniture Collection | Harbour](https://shopharbour.com/collections/bar-carts): Discover our collection of outdoor bar carts to complete your space. Available in a range of finishes, these outdoor bar carts make entertaining a breeze.
   Updated: 2026-04-15T07:17:49Z
@@ -27890,34 +28034,34 @@
   Updated: 2026-04-15T07:17:50Z
   Total Products: 1
 - [Shop Quick-Ship Outdoor Collections | Ready to Ship Designs](https://shopharbour.com/collections/in-stock-all-outdoor): Ready-to-ship luxury outdoor furniture for living, dining, and poolside lounging. Durable, weather-resistant, and suited to any aesthetic.
-  Updated: 2026-04-29T20:21:53Z
-  Total Products: 506
+  Updated: 2026-05-06T20:23:33Z
+  Total Products: 521
 - [In-Stock All Indoor Furniture Collection - HARBOUR](https://shopharbour.com/collections/in-stock-all-indoor): In-Stock All Indoor - Harbour
-  Updated: 2026-04-25T11:18:45Z
-  Total Products: 15
+  Updated: 2026-05-02T11:18:35Z
+  Total Products: 16
 - [All Furniture Collection - HARBOUR](https://shopharbour.com/collections/all): All - Harbour
-  Updated: 2026-04-29T17:55:08Z
-  Total Products: 2043
+  Updated: 2026-05-06T13:12:53Z
+  Total Products: 2044
 - [In stock Teak Natural Furniture Collection - HARBOUR](https://shopharbour.com/collections/instock-teak-natural): In stock Teak Natural - Harbour
-  Updated: 2026-04-29T13:08:56Z
+  Updated: 2026-05-06T13:12:03Z
   Total Products: 101
 - [Dining Furniture Collection - HARBOUR](https://shopharbour.com/collections/dining-tables-dining-chairs): Dining - Harbour
-  Updated: 2026-04-29T16:56:35Z
+  Updated: 2026-05-05T13:21:06Z
   Total Products: 77
 - [Instock Outdoor All | New Furniture Collection - HARBOUR](https://shopharbour.com/collections/instock-outdoor-all-custom)
-  Updated: 2026-04-29T16:56:35Z
+  Updated: 2026-05-06T13:12:51Z
   Total Products: 303
 - [Instock Indoor All | New](https://shopharbour.com/collections/instock-indoor-all-new)
   Updated: 2026-04-09T23:52:12Z
   Total Products: 20
 - [Living Furniture Collection - HARBOUR](https://shopharbour.com/collections/outdoor-living-old): Living - Harbour
-  Updated: 2026-04-29T13:08:56Z
+  Updated: 2026-05-06T13:12:03Z
   Total Products: 113
 - [Pool Furniture Collection - HARBOUR](https://shopharbour.com/collections/outdoor-pool): Pool - Harbour
   Updated: 2026-04-26T11:19:49Z
   Total Products: 30
 - [Tables Furniture Collection - HARBOUR](https://shopharbour.com/collections/tables): Tables - Harbour
-  Updated: 2026-04-29T16:56:35Z
+  Updated: 2026-05-05T13:21:06Z
   Total Products: 72
 - [Accessories Furniture Collection - HARBOUR](https://shopharbour.com/collections/accessories): Accessories - Harbour
   Updated: 2026-04-29T11:16:00Z
@@ -27926,7 +28070,7 @@
   Updated: 2026-04-11T12:55:41Z
   Total Products: 30
 - [Weather Covers Furniture Collection - HARBOUR](https://shopharbour.com/collections/weather-covers): Weather Covers - Harbour
-  Updated: 2026-04-28T11:15:33Z
+  Updated: 2026-05-06T11:23:49Z
   Total Products: 743
 - [Gio Collection | Luxury Fully Upholstered Outdoor Furniture](https://shopharbour.com/collections/gio): Sculptural and supportive, the Gio Collection includes a sofa, lounge chair, and ottoman—all in Italian fabric resistant to sun and moisture.
   Updated: 2026-04-15T07:17:51Z
@@ -27935,13 +28079,13 @@
   Updated: 2026-03-26T16:07:44Z
   Total Products: 5
 - [Como Collection | Luxury Fully Upholstered Outdoor Furniture](https://shopharbour.com/collections/como): The Como Collection features organic curves and is expertly upholstered in performance fabric, with sofas, sectionals, ottomans, and a sun lounge included.
-  Updated: 2026-04-27T11:16:28Z
+  Updated: 2026-05-02T11:18:35Z
   Total Products: 27
 - [Cove Luxe Collection | Upholstered Aluminum Outdoor Furniture](https://shopharbour.com/collections/cove-luxe): Refined and weather-resistant, the Cove Luxe Collection offers sculptural seating with bolster backs. Includes sofa, chairs, and outdoor tables.
   Updated: 2026-04-15T07:17:51Z
   Total Products: 7
 - [Cove Teak Collection | Modern Sculptural Teak Outdoor Furniture](https://shopharbour.com/collections/cove-teak): The Cove Teak Collection is made from Grade A Indonesian teak with soft curves and refined details. Includes seating, dining, and sun lounges.
-  Updated: 2026-04-25T11:18:45Z
+  Updated: 2026-05-03T11:19:41Z
   Total Products: 11
 - [Porto Collection | Luxury Aluminum & Travertine Outdoor Furniture](https://shopharbour.com/collections/porto): With sculptural bases and sleek surfaces, the Porto Collection offers a dining chair, club chair, and tables in aluminum or travertine.
   Updated: 2026-04-15T07:17:51Z
@@ -27968,22 +28112,22 @@
   Updated: 2026-04-15T07:17:52Z
   Total Products: 3
 - [Outdoor Furniture for Patios, Balconies & Small Spaces Furniture Collection - HARBOUR](https://shopharbour.com/collections/outdoor-furniture-for-patios-balconies-small-spaces)
-  Updated: 2026-04-29T16:55:51Z
+  Updated: 2026-05-01T21:43:07Z
   Total Products: 147
 - [COPACABANA SWATCHES Furniture Collection - HARBOUR](https://shopharbour.com/collections/copacabna-swatches)
   Updated: 2026-04-15T07:17:52Z
   Total Products: 3
 - [PANAMA SWATCHES Furniture Collection - HARBOUR](https://shopharbour.com/collections/panama-swatches)
-  Updated: 2026-04-17T11:19:05Z
+  Updated: 2026-04-30T11:16:52Z
   Total Products: 4
 - [ALUMINUM SWATCHES Furniture Collection - HARBOUR](https://shopharbour.com/collections/aluminum-swatches)
-  Updated: 2026-04-25T11:18:45Z
+  Updated: 2026-04-30T11:16:52Z
   Total Products: 5
 - [TEAK SWATCHES Furniture Collection - HARBOUR](https://shopharbour.com/collections/teak-swatches)
   Updated: 2026-04-18T11:21:28Z
   Total Products: 2
 - [TRAVERTINE SWATCHES Furniture Collection - HARBOUR](https://shopharbour.com/collections/travertine-swatches)
-  Updated: 2026-04-25T11:18:45Z
+  Updated: 2026-05-02T11:18:35Z
   Total Products: 7
 - [WICKER SWATCHES Furniture Collection - HARBOUR](https://shopharbour.com/collections/wicker-swatches)
   Updated: 2026-04-15T07:17:52Z
@@ -27998,7 +28142,7 @@
   Updated: 2026-04-15T07:17:52Z
   Total Products: 4
 - [ROPE SWATCHES Furniture Collection - HARBOUR](https://shopharbour.com/collections/rope-swatches)
-  Updated: 2026-04-15T07:17:52Z
+  Updated: 2026-04-30T11:16:52Z
   Total Products: 6
 - [STRAPPING SWATCHES Furniture Collection - HARBOUR](https://shopharbour.com/collections/strapping-swatches)
   Updated: 2026-04-15T07:17:53Z
@@ -28010,7 +28154,7 @@
   Updated: 2026-04-17T11:19:05Z
   Total Products: 6
 - [STIRLING SWATCHES Furniture Collection - HARBOUR](https://shopharbour.com/collections/stirling-swatches)
-  Updated: 2026-04-20T11:16:22Z
+  Updated: 2026-05-06T11:23:49Z
   Total Products: 10
 - [MONTEREY SWATCHES Furniture Collection - HARBOUR](https://shopharbour.com/collections/monterey-swatches)
   Updated: 2026-04-25T11:18:45Z
@@ -28022,16 +28166,16 @@
   Updated: 2026-04-17T11:19:05Z
   Total Products: 4
 - [PEBBLE SWATCHES Furniture Collection - HARBOUR](https://shopharbour.com/collections/pebble-swatches)
-  Updated: 2026-04-17T11:19:05Z
+  Updated: 2026-05-02T11:18:35Z
   Total Products: 6
 - [SIESTA SWATCHES Furniture Collection - HARBOUR](https://shopharbour.com/collections/siesta-swatches)
-  Updated: 2026-04-17T11:19:05Z
+  Updated: 2026-04-30T11:16:52Z
   Total Products: 4
 - [OUTDOOR SCONCES Furniture Collection - HARBOUR](https://shopharbour.com/collections/outdoor-sconces)
   Updated: 2026-04-15T07:17:53Z
   Total Products: 3
 - [HARBOUR SIGNATURE TEXTILES Furniture Collection - HARBOUR](https://shopharbour.com/collections/signature-fabrics-swatches)
-  Updated: 2026-04-25T11:18:45Z
+  Updated: 2026-05-06T11:23:49Z
   Total Products: 34
 - [Black Friday Deals | Featured Products Furniture Collection - HARBOUR](https://shopharbour.com/collections/black-friday-deals-featured-products)
   Updated: 2026-03-25T22:17:40Z
@@ -28061,8 +28205,8 @@
   Updated: 2026-03-25T22:17:41Z
   Total Products: 2
 - [ | Save on Luxury Outdoor Designs](https://shopharbour.com/collections/-outdoor): Enjoy exclusive savings on luxury outdoor furniture. Harbour crafts premium sofas, sectionals, dining sets, and more—made for modern outdoor living.
-  Updated: 2026-04-23T20:05:49Z
-  Total Products: 7
+  Updated: 2026-05-05T13:21:35Z
+  Total Products: 6
 - [Contract Stocking Program Furniture Collection - HARBOUR USA](https://shopharbour.com/collections/contract-program)
   Updated: 2026-03-26T16:07:46Z
   Total Products: 0
@@ -28073,7 +28217,7 @@
   Updated: 2026-04-15T07:17:54Z
   Total Products: 19
 - [In-Stock Premium Outdoor Swatches | Ships Within 3 Days](https://shopharbour.com/collections/in-stock-swatches-ships-within-3-days): Browse Harbour’s in-stock swatches ready to ship. Explore textures, colors, and finishes to find the perfect fit for your outdoor space.
-  Updated: 2026-04-25T11:18:45Z
+  Updated: 2026-05-06T11:23:49Z
   Total Products: 106
 - [In-Stock Planters - Ships Within 3 Days Furniture Collection - HARBOUR USA](https://shopharbour.com/collections/in-stock-planters-ships-within-3-days)
   Updated: 2026-04-07T22:15:03Z
@@ -28115,11 +28259,11 @@
   Updated: 2026-04-23T12:31:06Z
   Total Products: 17
 - [PRESIDENTS DAY  | LIVING Furniture Collection - HARBOUR](https://shopharbour.com/collections/presidents-day--living)
-  Updated: 2026-04-17T13:27:35Z
-  Total Products: 3
+  Updated: 2026-05-04T21:07:07Z
+  Total Products: 2
 - [PRESIDENTS DAY  | DINING Furniture Collection - HARBOUR](https://shopharbour.com/collections/presidents-day--dining)
-  Updated: 2026-04-20T11:16:22Z
-  Total Products: 4
+  Updated: 2026-05-05T13:21:36Z
+  Total Products: 3
 - [PRESIDENTS DAY  | POOL Furniture Collection - HARBOUR](https://shopharbour.com/collections/presidents-day--pool)
   Updated: 2026-04-23T20:05:50Z
   Total Products: 0
@@ -28127,16 +28271,16 @@
   Updated: 2026-04-11T12:56:46Z
   Total Products: 4
 - [PRESIDENTS DAY  | ALL DESIGNS Furniture Collection - HARBOUR](https://shopharbour.com/collections/presidents-day--all-designs)
-  Updated: 2026-04-23T20:05:50Z
-  Total Products: 11
+  Updated: 2026-05-05T13:21:36Z
+  Total Products: 9
 - [Outdoor Living](https://shopharbour.com/collections/outdoor-living-2025)
-  Updated: 2026-04-29T16:55:51Z
+  Updated: 2026-05-06T13:12:53Z
   Total Products: 444
 - [Outdoor Dining 2025 Furniture Collection - HARBOUR](https://shopharbour.com/collections/outdoor-dining-2025)
-  Updated: 2026-04-29T16:56:35Z
+  Updated: 2026-05-05T13:21:06Z
   Total Products: 217
 - [Pool Furniture Collection - HARBOUR](https://shopharbour.com/collections/pool-2025)
-  Updated: 2026-04-29T13:09:43Z
+  Updated: 2026-05-06T13:12:51Z
   Total Products: 66
 - [In-Stock Amalfi Collection | Fully Upholstered Outdoor Furniture](https://shopharbour.com/collections/in-stock-amalfi-collection): Our Amalfi Collection brings Italian upholstery outdoors — Luxurious outdoor sofas and loungers in premium Italian fabrics in a range of neutral tones.
   Updated: 2026-04-20T11:16:22Z
@@ -28145,8 +28289,8 @@
   Updated: 2026-04-07T22:11:35Z
   Total Products: 11
 - [In-Stock Hayman Aluminum | Minimalistic & Modern Outdoor Furniture](https://shopharbour.com/collections/in-stock-hayman-aluminum): Hayman Aluminum offers stylish comfort for outdoor living, dining, and poolside with neutral fabrics, various finishes, Batyline sling seats, and slatted tables.
-  Updated: 2026-04-24T19:10:28Z
-  Total Products: 12
+  Updated: 2026-05-02T13:59:12Z
+  Total Products: 13
 - [In-Stock Pacific Teak Collection | Modern Teak Outdoor Furniture](https://shopharbour.com/collections/in-stock-pacific-teak): The Pacific Collection features sofas, lounge chairs, dining chairs, tables, and sun lounges with natural teak frames and sling seating for modern outdoor living.
   Updated: 2026-04-07T22:05:17Z
   Total Products: 7
@@ -28154,22 +28298,22 @@
   Updated: 2026-04-29T15:46:58Z
   Total Products: 12
 - [In-Stock Victoria Aluminum | Handcrafted Modern Outdoor Furniture](https://shopharbour.com/collections/in-stock-victoria-aluminum): Showcasing an aluminum finish and sculptural mid-century lines, Victoria offers a full range of outdoor pieces including sofas, chairs, tables, and sun lounges.
-  Updated: 2026-04-13T15:46:21Z
+  Updated: 2026-05-06T19:43:01Z
   Total Products: 18
 - [In-Stock Dining Furniture Collection - HARBOUR](https://shopharbour.com/collections/in-stock-dining)
-  Updated: 2026-04-29T16:56:35Z
-  Total Products: 81
+  Updated: 2026-05-06T19:58:38Z
+  Total Products: 88
 - [In-Stock Living Furniture Collection - HARBOUR](https://shopharbour.com/collections/in-stock-living)
-  Updated: 2026-04-29T16:55:51Z
-  Total Products: 130
+  Updated: 2026-05-06T17:18:09Z
+  Total Products: 136
 - [In-Stock Pool Furniture Collection - HARBOUR](https://shopharbour.com/collections/in-stock-pool)
-  Updated: 2026-04-27T18:46:00Z
-  Total Products: 17
+  Updated: 2026-05-06T19:54:00Z
+  Total Products: 20
 - [In-Stock Santorini Collection | Fully Upholstered Luxury Outdoor Furniture](https://shopharbour.com/collections/in-stock-santorini-collection): Bring indoor comfort outside with the Santorini Collection, offering customizable sectionals, seating, tables, and dining designs in outdoor fabrics.
-  Updated: 2026-04-29T16:56:35Z
-  Total Products: 21
+  Updated: 2026-05-06T16:46:38Z
+  Total Products: 22
 - [In-Stock Hayman Teak | Minimalistic & Modern Outdoor Furniture](https://shopharbour.com/collections/in-stock-hayman-teak-collection): Hayman Teak offers stylish comfort for outdoor living, dining, and poolside with neutral fabrics, various finishes, Batyline sling seats, and slatted tables.
-  Updated: 2026-04-23T20:05:50Z
+  Updated: 2026-05-02T14:06:09Z
   Total Products: 6
 - [In-Stock Porto | Luxury Aluminum & Travertine Outdoor Furniture](https://shopharbour.com/collections/in-stock-porto-collection): With sculptural bases and sleek surfaces, the Porto Collection offers a dining chair, club chair, and tables in aluminum or travertine.
   Updated: 2026-04-08T16:40:52Z
@@ -28917,7 +29061,7 @@
 - [Shipping Delivery EU](https://shopharbour.com/pages/shipping-delivery-eu)
   Updated: 2025-12-11T23:19:01Z
 - [Search Results](https://shopharbour.com/pages/search-results-v-next): #shopify-section-footer { display: none; } .filters-container { background-color: #F5F3EF; padding: 20px; border: none; } .fs-filters__group { bord...
-  Updated: 2026-04-29T18:39:03Z
+  Updated: 2026-05-06T19:12:01Z
 - [Search Results](https://shopharbour.com/pages/ssr-search-results)
   Updated: 2026-04-29T18:39:04Z
 - [New York Showroom - Landing Page Test](https://shopharbour.com/pages/new-york-showroom-landing-page-test)
@@ -28943,7 +29087,7 @@
 - [Fabric By The Yard](https://shopharbour.com/pages/fabric-by-the-yard): 
   Updated: 2026-03-10T18:07:13Z
 - [Search Results](https://shopharbour.com/pages/search-results): #shopify-section-footer { display: none; } .filters-container { background-color: #F5F3EF; padding: 20px; border: none; } .fs-filters__group { bord...
-  Updated: 2026-04-29T18:38:52Z
+  Updated: 2026-05-06T19:12:01Z
 - [Collections Testing Page](https://shopharbour.com/pages/collections-testing-page)
   Updated: 2026-04-21T04:36:06Z
 
