@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-05-14T17:41:05Z
 - Contact Email: info@agrumity.com
-- Updated At: 2026-04-29T17:18:06.798Z
+- Updated At: 2026-05-07T00:00:24.651Z
 
 ## Products
 
@@ -56,8 +56,8 @@
 ## Collections
 
 - [Sorrento Experience | Hands-On Adventures with Agrumity](https://agrumity.com/collections/sorrento-experience): Join the Sorrento Experience with Agrumity: explore lemon groves, craft authentic local recipes, and enjoy hands-on Italian coastal adventures.
-  Updated: 2026-04-20T22:05:13Z
-  Total Products: 3
+  Updated: 2026-05-06T21:27:50Z
+  Total Products: 4
 - [Agrumity Kits](https://agrumity.com/collections/limoncello-kit): Make your own Limoncello! - This is the spirit of this collection! With this kit we offer you the opportunity to experience the thrill of making the famous liqueur and to share with your loved ones or your friends the taste and the story of how you transformed the original Sorrento Lemons into this specialty. We leave it to you to select the alcoholic base that you like best and that you can easily find in your country. For this reason we have experimented and created personally different variants of the traditional recipe depending on the type of alcohol you will use! We can't wait to see your limoncello!
   Updated: 2026-04-20T22:05:13Z
   Total Products: 3
@@ -92,6 +92,15 @@
     Updated: 2026-04-16T22:26:01Z
     Author: Matteo Maresca
     Tags: best pizza class sorrento, cooking class, cooking class sorrento, pizza class sorrento
+  - [Exploring the Flavors of Sorrento A Food Lover's Guide](https://agrumity.com/blogs/agrumity-experience/exploring-the-flavors-of-sorrento-a-food-lovers-guide): Exploring the Flavors of Sorrento A Food Lover's Guide
+    Updated: 2026-04-29T17:40:26Z
+    Author: Agrumity
+  - [Top 10 Things to Do in Sorrento for First-Time Visitors](https://agrumity.com/blogs/agrumity-experience/top-10-things-to-do-in-sorrento-for-first-time-visitors): Top 10 Things to Do in Sorrento for First-Time Visitors
+    Updated: 2026-04-30T01:01:33Z
+    Author: Agrumity
+  - [How to Experience the Perfect Weekend in Sorrento](https://agrumity.com/blogs/agrumity-experience/how-to-experience-the-perfect-weekend-in-sorrento): How to Experience the Perfect Weekend in Sorrento
+    Updated: 2026-05-04T00:43:42Z
+    Author: Agrumity
 
 ## Store Pages
 
@@ -125,6 +134,8 @@
   Updated: 2026-03-07T15:44:27Z
 - [Insider Tips](https://agrumity.com/pages/insider-tips-sorrento): Make the most of your Sorrento trip with our insider tips, must-see spots, local food place, and practical travel advice.
   Updated: 2026-04-12T17:13:48Z
+- [Limoncello Tour and Lemon Picking Experience](https://agrumity.com/pages/limoncello-tour-sorrento): Discover one of the most authentic things to do in Sorrento: a real lemon tour inside a traditional Italian lemon grove. This experience takes you ...
+  Updated: 2026-04-29T18:22:42Z
 
 ## Policies
 
