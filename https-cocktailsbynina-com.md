@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-05-27T15:06:53Z
 - Contact Email: info@cocktailsbynina.com
-- Updated At: 2026-04-28T10:38:54.034Z
+- Updated At: 2026-05-07T00:00:33.474Z
 
 ## Products
 
@@ -115,7 +115,7 @@
     Image: https://cdn.shopify.com/s/files/1/0942/4502/8175/files/Mango_Madness_1000ml_full.webp?v=1753870433
     Price: € 34,95 EUR
 - [STRAWBERRY DAIQUIRI](https://cocktailsbynina.com/products/strawberry-daiquiri): Rum, Bols Strawberry, limoensap, suikersiroop en verse aardbeien. De Daiquiri kent veel verschillende varianten. Deze aardbeien variant zorgt voor een ultiem zomer gevoel. Een ietwat zurige cocktail met een zoete nasmaak. Tip: thuis in de blender mixen met wat crushed ijs voor een slush puppy effect.De originele Daiquiri kwam tot leven rond 1898 in de bar Venus, in Santiago. Het gerucht gaat dat de mijningenieurs, die aan het werk waren in de ijzermijn 'Daiquiri' zonder gin kwamen te zitten, maar een overvloed aan witte rum, suiker en limoen hadden. Serveren in een Martini glas zonder ijs met eventueel een verse aardbei ter garnering.
-  Updated: 2026-03-08T06:13:04Z
+  Updated: 2026-05-06T21:54:37Z
   Vendor: Cocktails by Nina
   Product Type: 
   Availability: Available
@@ -133,7 +133,7 @@
     Image: https://cdn.shopify.com/s/files/1/0942/4502/8175/files/Strawberry_Daquiri_1000ml_full.webp?v=1753870360
     Price: € 29,95 EUR
 - [COSMOPOLITAN](https://cocktailsbynina.com/products/cosmopolitan): De Cosmopolitan is een verfijnde en stijlvolle cocktail die bekend staat om haar frisse en fruitige karakter. Gemaakt met wodka, Cointreau, cranberrysap en een scheutje limoensap, biedt deze drank een perfecte balans tussen zoet en zuur. Met zijn elegante roze kleur en verfijnde smaak is de Cosmopolitan een iconische keuze voor gezellige avonden en feestelijke gelegenheden, ideaal voor wie houdt van een trendy en smaakvolle cocktail.
-  Updated: 2025-12-08T12:17:34Z
+  Updated: 2026-05-06T16:55:26Z
   Vendor: Cocktails by Nina
   Product Type: 
   Availability: Available
@@ -151,7 +151,7 @@
     Image: https://cdn.shopify.com/s/files/1/0942/4502/8175/files/Cosmopolitan_1000ml_full.webp?v=1753870292
     Price: € 29,95 EUR
 - [WOOWOO](https://cocktailsbynina.com/products/woowoo): De Woo Woo is een verleidelijke en fruitige cocktail die bekend staat om zijn frisse en vrolijke smaak. Gemaakt met wodka, peach likeur en cranberrysap, zorgt deze drank voor een heerlijk evenwicht tussen zoet en zuur. Het is een populaire keuze voor feestjes en zomerse gelegenheden, dankzij zijn levendige kleur en verfrissende karakter. De Woo Woo brengt een vrolijke sfeer en maakt elke gelegenheid net dat beetje specialer.
-  Updated: 2026-03-26T08:14:56Z
+  Updated: 2026-05-02T16:01:07Z
   Vendor: Cocktails by Nina
   Product Type: 
   Availability: Available
@@ -205,7 +205,7 @@
     Image: https://cdn.shopify.com/s/files/1/0942/4502/8175/files/Old_Fashioned_1000ml_full.webp?v=1753870019
     Price: € 39,95 EUR
 - [NINA'S AMOR](https://cocktailsbynina.com/products/ninas-amor): Voor deze cocktail heb ik de mooiste smaken samen gebracht. Speels zoet met een zuur randje. Vodka, vanille likeur, perzik likeur, passievrucht likeur en citroensap. Geniet van mijn creatie. De Nina's amor is alleen verkrijgbaar op onze site. De cocktail is ontstaan na een samenwerking met Licor Amor, een prachtige vanille likeur met echte stukjes bladgoud. De cocktail is vrij zoet met een licht zure nasmaak.
-  Updated: 2026-03-09T09:27:43Z
+  Updated: 2026-05-02T16:01:07Z
   Vendor: Cocktails by Nina
   Product Type: 
   Availability: Available
@@ -223,7 +223,7 @@
     Image: https://cdn.shopify.com/s/files/1/0942/4502/8175/files/Nina_Amor_1000ml_full.webp?v=1753869932
     Price: € 37,95 EUR
 - [MAI TAI](https://cocktailsbynina.com/products/mai-tai): Verse fruitsappen, Cointreau, Amaretto, suikersiroop, citroensap, witte rum en bruine rum. MaiTai is het Tahitiaanse woord voor ‘ goed’ en dat is precies hoe deze cocktail je laat voelen! De toevoeging van verse fruitsappen maakt deze cocktail zeer toegankelijk en voelt jouw volgende exotische vakantie dichterbij dan ooit!De Mai Tai werd waarschijnlijk voor het eerst gemaakt in het jaar 1944 in het Trader Vic restaurant in Oakland, Californië. Serveer in een longdrinkglas met ijs en eventueel een schijfje ananas of sinaasappel.
-  Updated: 2026-03-28T14:06:26Z
+  Updated: 2026-05-06T17:24:37Z
   Vendor: Cocktails by Nina
   Product Type: 
   Availability: Available
@@ -262,7 +262,7 @@
   Image: https://cdn.shopify.com/s/files/1/0942/4502/8175/files/CBYN-JAN2026-Martini-glazen-4F9A4684.webp?v=1769623593
   Price: € 49,95 EUR
 - [PINA COLADA](https://cocktailsbynina.com/products/pina-colada): Cocktail op basis van Malibu rum, kokosmelk en ananassap. Het ultieme vakantie gevoel. Een frisse, zoete, zomerse cocktail. Perfect voor de liefhebber van de minder sterke cocktail.De cocktail werd bedacht in 1954 door een barman in de Caribe Hilton in San Juan. Het is dan ook de nationale drank van Puerto Rico. Serveer in een ' hurricane' glas met ijs en een schijfje ananas.
-  Updated: 2026-03-16T00:49:36Z
+  Updated: 2026-05-06T17:24:36Z
   Vendor: Cocktails by Nina
   Product Type: 
   Availability: Available
@@ -285,13 +285,6 @@
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0942/4502/8175/files/Hurricane_glas.jpg?v=1752768343
-  Price: € 21,95 EUR
-- [Pina Colada glazen (51cl)](https://cocktailsbynina.com/products/pina-colada-glazen-51cl): 4 stuks Pina Colada glazen van 51cl verpakt in mooie doos.4 Pina Colada glazen van ieder 51cl.
-  Updated: 2025-12-08T12:17:35Z
-  Vendor: Cocktails by Nina
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0942/4502/8175/files/Pina-Colada-glazen.jpg?v=1756307785
   Price: € 21,95 EUR
 - [Gin-tonic glazen (65cl)](https://cocktailsbynina.com/products/gin-tonic-glazen-65cl): Gin tonic glazen kopen Wil je gin tonic glazen kopen? In deze kleurrijke verpakking vind je vier gin tonic glazen. Deze gin tonic glazen kunnen gewoon in de vaatwasser en hebben een inhoudsmaat van ieder 65 cl. De set is niet alleen geschikt voor je eigen cocktails, maar is ook een leuk geschenk voor andere liefhebbers van een goede gin tonic. Royal Leerdam glaswerk De gin tonic glazen uit deze set zijn van Royal Leerdam. Dit merk staat garant voor kwaliteit en produceert al 125 jaar glaswerk. Glazen van Royal Leerdam kenmerken zich door een combinatie van elegant design en functionele details. Glazen van Royal Leerdam zijn dan ook erg geliefd in de horeca, maar ze zijn ook in veel huishoudens niet meer weg te denken. Het kraakheldere glaswerk van deze gin tonic glazen is gemaakt van sterk duurzaam glas, waardoor het bestand is tegen stoten. Deze fraaie, komvormige gin tonic glazen van Royal Leerdam zien er niet alleen stijlvol uit, ze laten ook jouw favoriete drankje extra tot zijn recht komen. Het glas houdt door zijn vorm de aroma’s van de gin en de tonic goed vast. Daardoor kun je de complexe geuren van beide drankjes beter ruiken en beleef je de smaken op z’n best. Ook kun je in deze gin tonic glazen veel ijsblokjes toevoegen, die niet te snel smelten en je gin tonic dus niet meteen waterig maken. Gin tonic glazen zijn dankzij hun vorm ook ideaal om de gin en de tonic gemakkelijk te kunnen mengen.
   Updated: 2025-12-08T12:17:36Z
@@ -584,7 +577,7 @@
   Image: https://cdn.shopify.com/s/files/1/0942/4502/8175/files/ST9.jpg?v=1752768933
   Price: € 19,00 EUR
 - [Swedish Tonic - For the mixologist - Blade](https://cocktailsbynina.com/products/swedish-tonic-for-the-mixologist-blade): Zeer degelijke flessenopener van dit prachtige merk!
-  Updated: 2025-12-08T12:17:40Z
+  Updated: 2026-04-28T13:58:24Z
   Vendor: Cocktails by Nina
   Product Type: 
   Availability: Available
@@ -622,8 +615,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0942/4502/8175/files/Pornstar_1000ml_full.webp?v=1753868839
     Price: € 29,95 EUR
-- [FIZZLED SPICE](https://cocktailsbynina.com/products/fizzled-spice): Mocktail met grapefruitsap, jus d’orange, Jalapeño , tonic en limoensap.Deze mocktail combineert zoet met een lichte spice van de jalapeño en een 'fizzle' van de tonic.
-  Updated: 2026-01-31T10:06:16Z
+- [FIZZLED SPICE](https://cocktailsbynina.com/products/fizzled-spice): Ontdek de FIZZLED SPICE, een verfrissende mocktail die je smaakpapillen wakker schudt. Dit heerlijke drankje combineert de volle, fruitige smaken van grapefruitsap en vers jus d'orange met een subtiele kick van jalapeño. De tonic voegt een sprankelende 'fizzle' toe, terwijl limoensap voor de perfecte zuurgraad zorgt. Het resultaat? Een perfecte balans tussen zoet en spicy, met een prikkelende afwerking die je steeds terug doet grijpen naar je glas. Ideaal voor wie houdt van cocktails met karakter, maar zonder alcohol. Lekker op elk moment van de dag.
+  Updated: 2026-04-30T23:52:35Z
   Vendor: Cocktails by Nina
   Product Type: 
   Availability: Available
@@ -641,7 +634,7 @@
     Image: https://cdn.shopify.com/s/files/1/0942/4502/8175/files/Fizzled_Spice_1000ml_full.webp?v=1753868722
     Price: € 32,95 EUR
 - [BLUE HAWAIIAN](https://cocktailsbynina.com/products/blue-hawaiian): Een Blue Hawaiian is een betoverende cocktail die je meeneemt naar een tropisch paradijs. Deze verrukkelijke mix van blauw curaçao, Kokosroom, en ananassap creëert een levendige, turquoise kleur die doet denken aan een zonnige azure oceaan. Perfect in balans, is het een verfrissende en exotische drank die een zachte zoetheid combineert met een subtiele citrusachtige kick, afgewerkt met een vleugje kokos. Ideaal om je zomerse feest of relaxte dag in stijl te vieren en je zintuigen te laten dansen op een tropisch ritme.
-  Updated: 2026-02-21T07:17:13Z
+  Updated: 2026-05-06T17:24:38Z
   Vendor: Cocktails by Nina
   Product Type: 
   Availability: Available
@@ -659,7 +652,7 @@
     Image: https://cdn.shopify.com/s/files/1/0942/4502/8175/files/Blue_Hawaiian_1000ml_full.webp?v=1753868733
     Price: € 29,95 EUR
 - [Cocktail Box - 2 stuks](https://cocktailsbynina.com/products/cocktail-box-2-stuks): Stel zelf jouw eigen cocktail box samen. De box bestaat uit 2 cocktails of mocktails van ieder 200ml. Perfect om cadeau te doen, zelf van te genieten om of te proberen.
-  Updated: 2026-03-21T22:38:15Z
+  Updated: 2026-05-02T13:43:56Z
   Vendor: Cocktails by Nina
   Product Type: 
   Availability: Available
@@ -673,7 +666,7 @@
   Image: https://cdn.shopify.com/s/files/1/0942/4502/8175/files/Cocktails-by-Nina-4F9A2350-HR_1335x899-vierkant.jpg?v=1752769038
   Price: € 49,95 EUR
 - [Cocktail Box - 6 stuks](https://cocktailsbynina.com/products/cocktail-box-6-stuks): Stel zelf jouw eigen cocktail box samen. De box bestaat uit 6 cocktails of mocktails van ieder 200ml. Perfect om cadeau te doen, zelf van te genieten om of te proberen.
-  Updated: 2026-03-18T10:09:57Z
+  Updated: 2026-04-29T19:08:26Z
   Vendor: Cocktails by Nina
   Product Type: 
   Availability: Available
@@ -741,7 +734,7 @@
     Image: https://cdn.shopify.com/s/files/1/0942/4502/8175/files/Ginger_Bee_1000ml_full.webp?v=1753868167
     Price: € 34,95 EUR
 - [SUMMER BREEZE](https://cocktailsbynina.com/products/summer-breeze): Deze mocktails barst van het rode fruit, met een bloemige ondertoon en een kleine ‘fizz’.Om even te ontsnappen aan de koude dagen, een zomerse mocktail! Dit drankje barst van het rode fruit, met een bloemige ondertoon en een kleine ‘fizz’. Serveer de Summer breeze in een glas vol met ijs en waan je alvast in de zomermaanden. Cheers!
-  Updated: 2026-02-27T10:30:57Z
+  Updated: 2026-05-02T16:01:10Z
   Vendor: Cocktails by Nina
   Product Type: 
   Availability: Available
@@ -779,7 +772,7 @@
   Image: https://cdn.shopify.com/s/files/1/0942/4502/8175/files/21f0b7559c540cb5f80e311fc1939fe107e5291ca69c1bab58b3e9e87c016a5e.jpg?v=1760643857
   Price: € 78,00 EUR
 - [PORNSTAR MARTINI](https://cocktailsbynina.com/products/pornstar-martini): Deze cocktail combineert vanillevodka met passievrucht en limoensap. Vol, romig en heerlijk zoet – perfect om gekoeld te serveren en ideaal voor in de fles.
-  Updated: 2026-04-26T05:23:27Z
+  Updated: 2026-05-06T21:54:36Z
   Vendor: Cocktails by Nina
   Product Type: 
   Availability: Available
@@ -822,73 +815,73 @@
 ## Collections
 
 - [Home page](https://cocktailsbynina.com/collections/frontpage)
-  Updated: 2026-04-26T11:58:46Z
+  Updated: 2026-05-06T11:52:27Z
   Total Products: 7
 - [Cocktail aan huis](https://cocktailsbynina.com/collections/cocktail-aan-huis): Cocktails aan huis? Bij Cocktails by Nina koop je kant en klare cocktails online in verschillende smaken! ✔ Ready-to-serve ✔ Ook alcoholvrij
-  Updated: 2026-04-26T11:58:46Z
+  Updated: 2026-05-06T11:52:27Z
   Total Products: 22
 - [Cocktails](https://cocktailsbynina.com/collections/cocktails): Cocktails bestellen? Bij Cocktails by Nina koop je kant en klare cocktails online in verschillende smaken! ✔ Ready-to-serve ✔ Ook alcoholvrij
-  Updated: 2026-04-26T11:58:46Z
+  Updated: 2026-05-06T11:52:27Z
   Total Products: 22
 - [Cocktails aan huis](https://cocktailsbynina.com/collections/cocktails-aan-huis): Drink de lekkerste cocktails aan huis Heb je wat te vieren of wil je gewoon lekker een avondje thuis blijven? Drink de lekkerste cocktails aan huis wanneer je één van de cocktails van Cocktails by Nina bestelt. Je hebt niet altijd zin om een avondje uit te gaan wanneer je trek hebt in een cocktail. We kennen allemaal wel de typische cocktailbars, waar het maken van cocktails meer om de show draait en je vervolgens de hoofdprijs kan betalen voor één cocktail. Natuurlijk zijn die cocktails erg lekker en misschien zelfs wel perfect. Hierdoor zal het tijdens je avondje uit waarschijnlijk niet bij één cocktail blijven. De kosten kunnen daardoor flink oplopen tijdens je bezoek aan de dure cocktailbar. Drink daarom de lekkerste cocktails aan huis, waarbij je voor hetzelfde geld veel meer cocktails kan drinken!
-  Updated: 2026-04-26T11:58:46Z
+  Updated: 2026-05-06T11:52:27Z
   Total Products: 22
 - [Cocktails bestellen](https://cocktailsbynina.com/collections/cocktails-bestellen): Cocktails bestellen? Bij Cocktails by Nina koop je ready to serve cocktails online in verschillende smaken! ✔ kant en klaar ✔ Ook alcoholvrij
-  Updated: 2026-04-26T11:58:46Z
+  Updated: 2026-05-06T11:52:27Z
   Total Products: 22
 - [Cocktails bezorgen](https://cocktailsbynina.com/collections/cocktails-bezorgen): Cocktails laten bezorgen? Bij Cocktails by Nina koop je ready to serve cocktails online in verschillende smaken! ✔ kant en klaar ✔ Ook alcoholvrij
-  Updated: 2026-04-26T11:58:46Z
+  Updated: 2026-05-06T11:52:27Z
   Total Products: 22
 - [Cocktails kopen](https://cocktailsbynina.com/collections/cocktails-kopen): Cocktails kopen? Bij Cocktails by Nina koop je ready to serve cocktails online in verschillende smaken! ✔ kant en klaar ✔ Ook alcoholvrij
-  Updated: 2026-04-26T11:58:46Z
+  Updated: 2026-05-06T11:52:27Z
   Total Products: 22
 - [Cocktails op locatie](https://cocktailsbynina.com/collections/cocktails-op-locatie): Cocktails op locatie laten bezorgen? Bij Cocktails by Nina koop je ready to serve cocktails online in allerlei smaken! ✔ kant en klaar ✔ Ook alcoholvrij
-  Updated: 2026-04-26T11:58:46Z
+  Updated: 2026-05-06T11:52:27Z
   Total Products: 22
 - [Cocktails thuisbezorgd](https://cocktailsbynina.com/collections/cocktails-thuisbezorgd): Cocktails thuis laten bezorgen? Bij Cocktails by Nina koop je ready to serve cocktails online in allerlei smaken! ✔ kant en klaar ✔ Ook alcoholvrij
-  Updated: 2026-04-26T11:58:46Z
+  Updated: 2026-05-06T11:52:27Z
   Total Products: 22
 - [Kant en klare cocktail mix](https://cocktailsbynina.com/collections/kant-en-klare-cocktail-mix): Kant en klare cocktail mix kopen? Bij Cocktails by Nina koop je ready to serve cocktails online in allerlei smaken! ✔ kant en klaar ✔ Ook alcoholvrij
-  Updated: 2026-03-29T11:50:34Z
+  Updated: 2026-05-06T11:52:27Z
   Total Products: 19
 - [Kant en klare cocktails](https://cocktailsbynina.com/collections/kant-en-klare-cocktails): Kant en klare cocktails kopen? Bij Cocktails by Nina koop je ready to serve cocktails online in allerlei smaken! ✔ kant en klaar ✔ Ook alcoholvrij
-  Updated: 2026-04-26T11:58:46Z
+  Updated: 2026-05-06T11:52:27Z
   Total Products: 22
 - [Kant en klare cocktails bestellen](https://cocktailsbynina.com/collections/kant-en-klare-cocktails-bestellen): Kant en klare cocktails bestellen? Bij Cocktails by Nina koop je kant en klare cocktails online in verschillende smaken! ✔ Ready-to-serve ✔ Ook alcoholvrij
-  Updated: 2026-04-26T11:58:46Z
+  Updated: 2026-05-06T11:52:27Z
   Total Products: 22
 - [Cocktail boxen](https://cocktailsbynina.com/collections/cocktail-boxen)
-  Updated: 2026-04-26T11:58:46Z
+  Updated: 2026-05-03T11:53:42Z
   Total Products: 16
 - [Cocktail pakket bestellen](https://cocktailsbynina.com/collections/cocktail-pakket-bestellen): Cocktail pakket online bestellen? Bij Cocktails by Nina koop je kant en klare cocktails in verschillende smaken! ✔ Ready-to-serve ✔ Ook alcoholvrij
-  Updated: 2026-04-26T11:58:46Z
+  Updated: 2026-05-03T11:53:42Z
   Total Products: 14
 - [Cocktail pakket bezorgen](https://cocktailsbynina.com/collections/cocktail-pakket-bezorgen): Cocktail pakket laten bezorgen? Bij Cocktails by Nina koop je kant en klare cocktails in verschillende smaken! ✔ Ready-to-serve ✔ Ook alcoholvrij
-  Updated: 2026-04-26T11:58:46Z
+  Updated: 2026-05-03T11:53:42Z
   Total Products: 14
 - [Cocktail pakket cadeau](https://cocktailsbynina.com/collections/cocktail-pakket-cadeau): Iemand een Cocktail pakket cadeau doen? Stel je eigen cadeauset samen met 2, 4 of 6 kant en klare cocktails ✔ Ready-to-serve ✔ Ook alcoholvrij
-  Updated: 2026-04-26T11:58:46Z
+  Updated: 2026-05-03T11:53:42Z
   Total Products: 14
 - [Cocktail pakket zelf maken](https://cocktailsbynina.com/collections/cocktail-pakket-zelf-maken): Cocktail pakket maken? Bij Cocktails by Nina maak je je eigen kant en klare cocktail pakket met 2, 4 of 6 smaken ✔ Ready-to-serve
-  Updated: 2026-04-26T11:58:46Z
+  Updated: 2026-05-03T11:53:42Z
   Total Products: 14
 - [Special packages](https://cocktailsbynina.com/collections/special-packages): Speciaal cocktail pakket bestellen? Bij Cocktails by Nina koop je kant en klare cocktail pakketten in verschillende smaken! ✔ Ready-to-serve
   Updated: 2026-03-23T11:32:03Z
   Total Products: 12
 - [Cocktailglazen](https://cocktailsbynina.com/collections/cocktailglazen): Cocktail glazen - Bestel hier al je glazen voor de perfecte cocktail presentatie - Cocktails by Nina
-  Updated: 2025-12-08T12:17:34Z
+  Updated: 2026-05-02T11:34:06Z
   Total Products: 9
 - [Cocktailglazen set](https://cocktailsbynina.com/collections/cocktailglazen-set): Cocktail glazen sets- Bestel hier al je glazen sets voor de perfecte cocktail presentatie - Cocktails by Nina
-  Updated: 2025-12-08T12:17:34Z
+  Updated: 2026-05-02T11:34:06Z
   Total Products: 9
 - [Glaswerk](https://cocktailsbynina.com/collections/glaswerk): Glazen voor cocktails nodig? Bestel hier al je glazen voor de perfecte cocktail presentatie - Cocktails by Nina
-  Updated: 2025-12-08T12:17:34Z
+  Updated: 2026-05-02T11:34:06Z
   Total Products: 9
 - [Womansday](https://cocktailsbynina.com/collections/womansday)
-  Updated: 2026-03-26T11:36:19Z
+  Updated: 2026-05-06T11:52:27Z
   Total Products: 4
 - [Cocktail cadeauset](https://cocktailsbynina.com/collections/cocktail-cadeauset): Cocktail cadeausets - Stel je eigen cadeauset samen met 2, 4 of 6 smaken ✔ kies uit alle smaken ✔ Doordeweeks voor 15:00 besteld, volgende dag in huis
-  Updated: 2026-04-26T11:58:46Z
+  Updated: 2026-05-03T11:53:42Z
   Total Products: 9
 - [Cocktail Box Items](https://cocktailsbynina.com/collections/cocktail-box-items)
   Updated: 2026-01-16T19:08:52Z
@@ -897,23 +890,23 @@
   Updated: 2026-02-15T15:45:18Z
   Total Products: 1
 - [Alcoholvrije cocktails](https://cocktailsbynina.com/collections/alcoholvrije-cocktails): Alcoholvrije cocktails serveren Ook wanneer jij of je bezoek niet van alcohol houdt, kun je cocktails serveren. Alcoholvrije cocktails worden ook wel virgin cocktails of mocktails genoemd. Deze mocktails kun je dankzij het feit dat ze geen alcohol bevatten op elk gewenst moment van de dag serveren. Door het toevoegen van diverse ingrediënten kun je een mocktail maken die wat smaak betreft niet onder zal doen voor een alcoholhoudende cocktail. Denk aan toevoegingen als gember, bittersinaasappel, limoensap of amandelsiroop. Om het jou wat makkelijker te maken, hebben wij in ons assortiment diverse kant en klare mocktails opgenomen, die je direct uit de fles kunt serveren. Alcoholvrije cocktails kopen Je kunt verschillende alcoholvrije cocktails kopen op onze website. Denk bijvoorbeeld aan de heerlijk zoete Mai-To die wij hebben gemaakt op basis van ananassap, limoensap en de alcoholvrije rum vervangende Lyre’s Dark Cane, Lyre's White Cane en Lyre's Orange Sec. Als je liever een iets minder zoete mocktail wilt bestellen, dan is de Jolly Bird wellicht een goede keuze. Deze frisse alcoholvrije cocktail is lichtzoet en heeft een wat bittere nasmaak. Een andere optie is de Cosmopolitan, die met zijn basis van cranberry juice, limoensap en de alcohol vervangende Seedlip Grove 42 een bijzonder smakelijk drankje vormt voor na het eten of tijdens een feestelijke bijeenkomst. Alcoholvrije cocktails online vinden bij Cocktails by Nina Bekijk het aanbod en vind de verschillende alcoholvrije cocktails online bij Cocktails by Nina. Je kunt je bestelling afmaken met ons glaswerk, zodat het serveren van je mocktail een lust voor het oog wordt. Wanneer jouw bestelling een waarde heeft van meer dan €75,-, betaal je geen kosten voor de levering van je order. Je kunt ook iemand een alcoholvrije cocktail cadeau doen. Tijdens het bestelproces kun je kosteloos een door jou gekozen tekst op een kaartje laten bijvoegen, zodat je een mocktail als cadeau in een persoonlijk geschenk omtovert. De ontvanger kan direct genieten van zijn cadeau, want onze alcoholvrije cocktails zijn ‘ready to serve’.
-  Updated: 2026-02-27T12:30:51Z
+  Updated: 2026-05-03T11:53:42Z
   Total Products: 7
 - [Kant en klare mocktails kopen](https://cocktailsbynina.com/collections/kant-en-klare-mocktails): Met een kant en klare mocktail trakteer je jouw gasten of jezelf op een feestelijk en smaakvol alcoholvrij drankje. Bekijk ons assortiment!
-  Updated: 2026-04-02T10:52:01Z
+  Updated: 2026-05-03T11:53:42Z
   Total Products: 7
 - [Mocktail kopen](https://cocktailsbynina.com/collections/mocktail-kopen): Mocktails kopen? Bij Cocktails by Nina koop je kant en klare mocktails online in verschillende smaken! ✔ Ready-to-serve
-  Updated: 2026-02-27T12:30:51Z
+  Updated: 2026-05-03T11:53:42Z
   Total Products: 7
 - [Mocktails](https://cocktailsbynina.com/collections/mocktails): Mocktails bestellen? Bij Cocktails by Nina koop je kant en klare mocktails online in verschillende smaken! ✔ Ready-to-serve
-  Updated: 2026-04-02T10:39:35Z
+  Updated: 2026-05-03T11:53:42Z
   Total Products: 7
 - [Shotjes pakket](https://cocktailsbynina.com/collections/shotjes): Shotjes online bestellen? Bij Cocktails by Nina koop je shotjes in verschillende smaken! ✔ Ready-to-serve
   Updated: 2026-04-09T12:22:23Z
   Total Products: 6
 - [Cocktail accessoires](https://cocktailsbynina.com/collections/cocktail-accessoires): Cocktailaccessoires zijn de essentiële tools en hulpmiddelen die worden gebruikt voor het creëren, mixen en serveren van cocktails. Ze variëren van functionele instrumenten voor het nauwkeurig bereiden van drankjes tot elegante items die de presentatie verfraaien. Denk hierbij aan shakers, jiggers (barmaatjes), strainers (zeefjes) en barlepels, maar ook aan verfijnd glaswerk, garneringen en ijsvormen. Samen zorgen deze accessoires voor precisie, consistentie en flair, en helpen ze de thuismixoloog of professionele bartender om memorabele drankjes te creëren.
-  Updated: 2025-12-08T12:17:34Z
-  Total Products: 10
+  Updated: 2026-05-03T15:09:26Z
+  Total Products: 8
 - [Cocktail Candies](https://cocktailsbynina.com/collections/cocktail-candies)
   Updated: 2025-12-08T12:17:34Z
   Total Products: 0
@@ -922,11 +915,11 @@
 
 - [Artikelen](https://cocktailsbynina.com/blogs/news)
   - [Zo blijven cocktails vers: houdbaarheid en bewaartips](https://cocktailsbynina.com/blogs/news/zo-blijven-cocktails-vers-houdbaarheid-en-bewaartips): Ontdek hoe je de versheid en houdbaarheid cocktails uitgelegd kunt behouden. Leer belangrijke bewaartips voor jouw favoriete cocktails!
-    Updated: 2026-04-27T11:16:25Z
+    Updated: 2026-04-29T12:20:41Z
     Author: Ruud
     Tags: nl, versheid en houdbaarheid cocktails uitgelegd
   - [Cocktail experience thuis: een simpel stappenplan voor jouw feest](https://cocktailsbynina.com/blogs/news/cocktail-ervaring-thuis-stappenplan-feest): Ontdek ons cocktail experience thuis stappenplan! Maak van je woonkamer een gezellige bar en laat je gasten genieten met eenvoudige tips.
-    Updated: 2026-04-27T10:49:58Z
+    Updated: 2026-04-29T12:23:59Z
     Author: Ruud
     Tags: cocktail experience thuis stappenplan, nl
   - [Feestelijke shots voor elk event: de leukste recepten](https://cocktailsbynina.com/blogs/news/feestelijke-shots-voor-elk-event-de-leukste-recepten): Ontdek de leukste recepten in onze lijst van feestelijke shots! Van kleurrijke laagjes tot zoete smaken, maak elk event onvergetelijk.
@@ -934,13 +927,45 @@
     Author: Ruud
     Tags: lijst van feestelijke shots, nl
   - [Ontdek de verschillende cocktailstijlen: van klassiek tot modern](https://cocktailsbynina.com/blogs/news/ontdek-verschillende-cocktailstijlen-klassiek-modern): Ontdek de uitleg verschillende cocktailstijlen en leer de unieke kenmerken van klassieke en moderne cocktails kennen voor jouw volgende feestje!
-    Updated: 2026-04-27T13:24:25Z
+    Updated: 2026-04-29T12:23:05Z
     Author: Ruud
     Tags: nl, uitleg verschillende cocktailstijlen
   - [Ijs in cocktails: tips voor een perfecte serveerervaring](https://cocktailsbynina.com/blogs/news/ijs-in-cocktails-tips-voor-een-perfecte-serveerervaring): Ontdek de rol van ijs in cocktails en leer tips voor een perfecte serveerervaring. Maak jouw drankjes onvergetelijk en verfrissend!
-    Updated: 2026-04-28T04:21:20Z
+    Updated: 2026-04-29T12:22:41Z
     Author: Ruud
     Tags: nl, rol van ijs in cocktails
+  - [Alcoholvrije cocktails: uitleg, keuze en inspiratie](https://cocktailsbynina.com/blogs/news/alcoholvrije-cocktails-uitleg-keuze-en-inspiratie): Ontdek de uitleg alcoholvrije cocktails en laat je inspireren. Geniet van verfijnde en kleurrijke mocktails voor elk evenement!
+    Updated: 2026-04-29T12:22:18Z
+    Author: Ruud
+    Tags: nl, uitleg alcoholvrije cocktails
+  - [Mixologie thuis: premium cocktails en mocktails beleven](https://cocktailsbynina.com/blogs/news/mixologie-thuis-premium-cocktails-en-mocktails-beleven): Ontdek de uitleg mixologie voor premium cocktails en mocktails thuis. Leer technieken en tips voor bar-kwaliteit drankjes zonder ervaring!
+    Updated: 2026-04-30T06:30:07Z
+    Author: Ruud
+    Tags: nl, uitleg mixologie
+  - [Spirits en mixers: de basis voor premium cocktails thuis](https://cocktailsbynina.com/blogs/news/spirits-en-mixers-de-basis-voor-premium-cocktails-thuis): Ontdek het onderscheid in spirits en mixers voor premium cocktails thuis. Leer hoe de juiste combinaties je drankjes naar een hoger niveau tillen!
+    Updated: 2026-05-01T06:00:10Z
+    Author: Ruud
+    Tags: nl, onderscheid in spirits en mixers
+  - [Essentiële cocktailbegrippen: jouw gids voor heldere keuzes](https://cocktailsbynina.com/blogs/news/essentiele-cocktailbegrippen-jouw-gids-voor-heldere-keuzes): Ontdek de essentiële begrippen in de cocktailwereld! Maak indruk op je gasten met onze handige gids voor heerlijke cocktails en mocktails.
+    Updated: 2026-05-02T06:00:08Z
+    Author: Ruud
+    Tags: begrippen in de cocktailwereld, nl
+  - [Signature cocktails uitgelegd: unieke drankbeleving voor elk event](https://cocktailsbynina.com/blogs/news/signature-cocktails-uitleg-voor-elke-event): Ontdek wat zijn signature cocktails en hoe ze jouw evenement onvergetelijk maken. Leer meer over unieke drankbelevingen die indruk maken!
+    Updated: 2026-05-03T06:00:09Z
+    Author: Ruud
+    Tags: nl, wat zijn signature cocktails
+  - [Verbeter je cocktails: de onmisbare rol van siropen](https://cocktailsbynina.com/blogs/news/verbeter-je-cocktails-de-onmisbare-rol-van-siropen): Ontdek de rol van siropen in cocktails en til je mixanzee naar een hoger niveau. Leer welke siropen onmisbaar zijn voor perfecte smaken!
+    Updated: 2026-05-04T01:04:52Z
+    Author: Ruud
+    Tags: nl, rol van siropen in cocktails
+  - [Feestcocktails voorbereiden: stappen, tips en slimme opties](https://cocktailsbynina.com/blogs/news/feestcocktails-voorbereiden-stappen-tips-en-slimme-opties): Leer hoe je feest cocktails voorbereiden kunt met handige tips, tools en slimme opties. Geniet van je feestje zonder achter de bar te staan!
+    Updated: 2026-05-05T02:11:29Z
+    Author: Ruud
+    Tags: feest cocktails voorbereiden, nl
+  - [Bitters in cocktails: verrijk je smaakbeleving met tips](https://cocktailsbynina.com/blogs/news/bitters-in-cocktails-verrijk-je-smaakbeleving-met-tips): Ontdek de ultieme uitleg bitters in cocktails! Verrijk je smaakbeleving met tips en maak thuis de perfecte cocktails als een pro.
+    Updated: 2026-05-06T06:00:13Z
+    Author: Ruud
+    Tags: nl, uitleg bitters in cocktails
 
 ## Store Pages
 
