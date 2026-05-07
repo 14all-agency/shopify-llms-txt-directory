@@ -6,33 +6,33 @@
 - Timezone: America/Los_Angeles
 - Created At: 2013-04-04T00:04:53Z
 - Contact Email: andres@casazg.com
-- Updated At: 2026-04-29T00:00:36.570Z
+- Updated At: 2026-05-07T00:00:38.573Z
 
 ## Products
 
-- [Sangrita Mix: Non-alcoholic Tequila Chaser by Casa ZG](https://casazg.com/products/sangrita-mix-packets): Discover a fresh and exciting way to enjoy tequila by adding Casa ZG's Sangrita Mix as a non-alcoholic tequila chaser. Makes up to 1/2 Gallon when mixed your Orange Juice. Recipes and how to prepare in our website.
-  Updated: 2026-04-26T19:55:57Z
+- [Sangrita Mix by Casa ZG. Non-Alcoholic Drink Mix. Makes 1/2 Gal.](https://casazg.com/products/sangrita-mix-packets): Discover a fresh and exciting way to enjoy tequila by adding Casa ZG's Sangrita Mix as a non-alcoholic tequila chaser. Makes up to 1/2 Gallon when mixed your Orange Juice. Recipes and how to prepare in our website.
+  Updated: 2026-05-06T21:43:56Z
   Vendor: Casa ZG
-  Product Type: Tequila Chaser Mix
+  Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0225/0153/files/Casa_ZG_Sangrita_Tequila_Chaser_B0D8MWS7YM_Makes_1_2_Gallon_Cocktail_Mixer_Mocktail_Mixer_Product.jpg?v=1742853725
   Price: $9.99 USD
-- [Michelada Mix (non alcoholic ) for Beer Cocktail | Casa ZG](https://casazg.com/products/michelada-mix-packets): Make 1/2 Gal. of Michelada for beer cocktails. Give your beer some spice with Casa ZG's Michelada Mix ( non-alcoholic ). Recipes and how to prepare in our website.
-  Updated: 2026-04-27T19:53:36Z
+- [Michelada Mix (non alcoholic )  | Casa ZG](https://casazg.com/products/michelada-mix-packets): Make 1/2 Gal. of Michelada Style cocktails. Give your beverages some spice with Casa ZG's Michelada Mix ( non-alcoholic ). Recipes and how to prepare in our website.
+  Updated: 2026-05-06T22:18:06Z
   Vendor: Casa ZG
   Product Type: Beer Cocktail Mixer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0225/0153/files/Casa_ZG_Michelada_B0D8N1ZQ7P_How_to_Prepare_Beer_Cocktail_Cocktail_Mix_Mocktail_Mixer_Cerveza_Refrescante_Polvo_AmazonMain.jpg?v=1742853259
   Price: $9.99 USD
-- [Sangrita Mix Non-alcoholic Tequila Chaser. Single Serve 3 ct.  Casa ZG](https://casazg.com/products/sangrita-mix-single-serve-packets-of-3): Discover a fresh and exciting way to enjoy tequila by adding Casa ZG's Sangrita Mix as a non-alcoholic tequila chaser, now available as a set of 3 single serve packets. Makes up to 8oz when mixed your Orange Juice. Recipes and how to prepare in our website.
-  Updated: 2026-04-25T14:35:00Z
+- [Sangrita Mix by Casa ZG. Non-Alcoholic Drink Mix | Single Serve 3 ct.](https://casazg.com/products/sangrita-mix-single-serve-packets-of-3): Discover a fresh and exciting way to enjoy tequila by adding Casa ZG's Sangrita Mix as a non-alcoholic tequila chaser, now available as a set of 3 single serve packets. Makes up to 8oz when mixed your Orange Juice. Recipes and how to prepare in our website.
+  Updated: 2026-04-29T16:08:01Z
   Vendor: Casa ZG
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0225/0153/files/Casa_ZG_Sangrita_Mix_Single_Serve_3_Pack_New_Product.png?v=1764967532
   Price: $11.99 USD
-- [Sangrita Mix Non-alcoholic Tequila Chaser. Single Serve 5 ct.  Casa ZG](https://casazg.com/products/sangrita-mix-single-serve-5-pack): Discover a fresh and exciting way to enjoy tequila by adding Casa ZG's Sangrita Mix as a non-alcoholic tequila chaser, now available as a set of 5 single serve packets. Makes up to 8oz when mixed your Orange Juice. Recipes and how to prepare in our website.
-  Updated: 2026-04-25T14:35:00Z
+- [Sangrita Mix by Casa ZG. Non-Alcoholic Drink Mix | Single Serve 5 ct.](https://casazg.com/products/sangrita-mix-single-serve-5-pack): Discover a fresh and exciting way to enjoy tequila by adding Casa ZG's Sangrita Mix as a non-alcoholic tequila chaser, now available as a set of 5 single serve packets. Makes up to 8oz when mixed your Orange Juice. Recipes and how to prepare in our website.
+  Updated: 2026-04-29T15:39:52Z
   Vendor: Casa ZG
   Product Type: 
   Availability: Available
@@ -42,7 +42,7 @@
 ## Collections
 
 - [Casa ZG Products](https://casazg.com/collections/casa-zg-products)
-  Updated: 2026-04-28T23:45:58Z
+  Updated: 2026-05-01T04:26:00Z
   Total Products: 6
 
 ## Blogs
