@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-03-26T00:24:38Z
 - Contact Email: joeadecants@gmail.com
-- Updated At: 2026-04-28T00:00:36.011Z
+- Updated At: 2026-05-07T00:00:38.687Z
 
 Joe A.’s Decants
 [!IMPORTANT]
@@ -2936,7 +2936,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $75.00 USD
 - [Mercedes-Benz Club Black EDT](https://joeasdecants.com/products/mercedes-benz-club-black): Top Notes: Bergamot Mid Notes: Incense, Jasmine Base Notes: Vanilla, Benzoin, Woodsy Notes, Ambroxan
-  Updated: 2026-04-04T15:11:37Z
+  Updated: 2026-04-28T04:24:54Z
   Vendor: Mercedes-Benz
   Product Type: Mercedes-Benz Club Black EDT
   Availability: Available
@@ -3085,7 +3085,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $29.00 USD
 - [Blue Agava & Cacao](https://joeasdecants.com/products/blue-agava-cacao): Top Notes: Cardamom, Lime Blossom, Grapefruit, Red Berries Mid Notes: Orchid, Lily, Geranium Base Notes: Cacao, Vanilla Pod, Cinnamon, Vetiver, Musk
-  Updated: 2026-04-22T20:19:23Z
+  Updated: 2026-05-02T16:55:18Z
   Vendor: Jo Malone London
   Product Type: Blue Agava & Cacao
   Availability: Available
@@ -3208,8 +3208,8 @@ This document provides a structured overview of our offerings, brand standards, 
 - [Fall](https://joeasdecants.com/collections/fall)
   Updated: 2026-04-06T22:17:17Z
   Total Products: 58
-- [Ultimate Search - Do not delete](https://joeasdecants.com/collections/catalog): Ultimate Search app uses this temporary collection to fetch best  items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2026-04-26T16:54:27Z
+- [All Products](https://joeasdecants.com/collections/catalog): All of Joe A.'s Products.
+  Updated: 2026-05-06T02:18:21Z
   Total Products: 415
 - [The Adventurer](https://joeasdecants.com/collections/the-adventurer)
   Updated: 2026-04-22T20:38:37Z
@@ -3218,25 +3218,25 @@ This document provides a structured overview of our offerings, brand standards, 
   Updated: 2026-04-06T22:17:18Z
   Total Products: 10
 - [The Maverick](https://joeasdecants.com/collections/the-maverick)
-  Updated: 2026-04-23T11:23:19Z
+  Updated: 2026-04-28T11:23:46Z
   Total Products: 108
 - [The Minimalist](https://joeasdecants.com/collections/the-minimalist)
   Updated: 2026-04-08T11:35:51Z
   Total Products: 34
 - [The Supportive](https://joeasdecants.com/collections/the-supportive)
-  Updated: 2026-04-26T16:54:27Z
+  Updated: 2026-05-03T11:28:49Z
   Total Products: 21
 - [Aromafo Full Collection](https://joeasdecants.com/collections/aromafo-full-collection)
   Updated: 2026-04-08T16:22:16Z
   Total Products: 11
 - [Featured Members Only](https://joeasdecants.com/collections/featured-members-only)
-  Updated: 2026-04-22T21:05:01Z
+  Updated: 2026-05-03T11:28:49Z
   Total Products: 95
 - [Fragrance Wars - The Booze Wars](https://joeasdecants.com/collections/boozy-fragrance-wars)
   Updated: 2026-04-22T20:38:37Z
   Total Products: 32
 - [Fragrance Wars - The Gourmand Wars](https://joeasdecants.com/collections/fragrance-wars-the-gourmand-wars): Hey guys, Joe A. here with another one for ya'! We’ve battled tobacco. We’ve waged war in barbershops. We crowned a Booze Wars champion. Now it’s time for something sweeter… and far more dangerous!! Welcome to The Gourmand Wars: Vanilla vs Chocolate. Not fruit. Not woods. Not freshies. This is dessert ... at war !!! --- TEAM VANILLA Vanilla is comfort. Vanilla is seduction. Vanilla is warmth in the cold and confidence in the dark. But don’t mistake softness for weakness. On the Designer side, we’ve got power vanillas: spicy, tobacco-laced, amber-charged heavy hitters like Tom Ford Tobacco Vanille, Mercedes-Benz Club Black, and Giorgio Armani Stronger With You Intensely just to name a few... On the Niche side? Creamy, resinous, sensual masterpieces like Parfums de Marly Althair, Giardini di Toscana Bianco Latte, and Initio Parfums Privés Absolute Aphrodisiac just to name a few... Vanilla isn’t plain. Vanilla is versatile. Vanilla is a . --- TEAM CHOCOLATE Chocolate is darker. Richer. More indulgent. In the Designer division, we explore how houses interpret cacao, from nutty elegance in Valentino Uomo, to airy cacao in Jo Malone London Blue Agava & Cacao, to sweet musk comfort in Al-Rehab Choco Musk EDP, just to reveal a few contenders... But the Niche side? That’s where the gloves come off. We’re talking unapologetic chocolate domination: syrupy bombs like Montale Chocolate Greedy, bitter cacao like Akro Dark, boozy indulgence like By Kilian Black Phantom, and frosting-thick sweetness from Mancera Choco Violette just to name a few... This isn’t subtle. This is decadence done right! --- THE FORMAT 32 fragrances. 4 brackets. Designer vs Designer. Niche vs Niche. Single elimination. No mercy. No second chances. No “but it’s good for layering.” Only one note family walks away with the crown. I'LL BE ANNOUNCING THE BRACKETS IN FOLLOW UP POSTS! --- THE QUESTION Are you Team Vanilla: warmth, seduction, smooth confidence? Or are you Team Chocolate: indulgence, depth, unapologetic richness? This Valentine’s season, we’re not choosing roses. We’re choosing dessert. And only one will reign supreme. Brothers…The Gourmand Wars officially begin.
-  Updated: 2026-04-23T11:23:19Z
+  Updated: 2026-05-03T11:28:49Z
   Total Products: 32
 - [Gourmand Wars Sample Kits](https://joeasdecants.com/collections/gourmand-wars-sample-kits)
   Updated: 2026-04-06T22:17:18Z
