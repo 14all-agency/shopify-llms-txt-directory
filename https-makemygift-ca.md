@@ -6,118 +6,10 @@
 - Timezone: America/Denver
 - Created At: 2020-04-02T03:34:44Z
 - Contact Email: sales@makemygift.ca
-- Updated At: 2026-04-28T02:05:56.156Z
+- Updated At: 2026-05-07T00:00:32.645Z
 
 ## Products
 
-- [Handmade Decorative Birthday Greeting Cards](https://makemygift.ca/products/handmade-decorative-birthday-greeting-cards): Make someone's day by sending a beautifully embellished card. Nothing brings a smile to someone's face more than getting the mail and having a fun card to open and then display! Card comes with matching envelopes, stickers to seal the envelopes.
-  Updated: 2026-04-20T19:20:13Z
-  Vendor: cool cards
-  Product Type: cards
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/birthday-greeting-card-1-min.png?v=1654190977
-  Price: $9.99 CAD
-- [Handmade Decorative Romantic Greeting Cards](https://makemygift.ca/products/handmade-decorative-romantic-greeting-cards): Make someone's day by sending a beautifully embellished card. Nothing brings a smile to someone's face more than getting the mail and having a fun card to open and then display! Card comes with matching envelopes, stickers to seal the envelopes.
-  Updated: 2026-04-20T19:20:14Z
-  Vendor: MakeMyGift.ca
-  Product Type: cards
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/love-greeting-card-1-min.png?v=1654191360
-  Price: $9.99 CAD
-- [Baby Shower and Get Well Soon Greeting Cards](https://makemygift.ca/products/baby-shower-get-well-greeting-cards): Cards have a variety of raised embellishments to make each card a beautiful gift to send. Glitter (just enough to look great; not enough to get everywhere), foil, gems, bows, and die cuts with foam spacers add to the design. The envelopes are decorated to match each card in a unique way. The cards also come with silver foil sealing stickers for the back of each envelope. The inside of each card is blank for you to write your own special message.
-  Updated: 2026-03-02T05:54:38Z
-  Vendor: MakeMyGift.ca
-  Product Type: cards
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/cards-baby-shower-and-get-well-soon-greeting-cards-28055340941415.png?v=1621997716
-  - [1](https://makemygift.ca/products/baby-shower-get-well-greeting-cards?variant=39297680408679)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/cards-baby-shower-and-get-well-soon-greeting-cards-28055340712039.jpg?v=1621997716
-    Price: $9.99 CAD
-  - [2](https://makemygift.ca/products/baby-shower-get-well-greeting-cards?variant=39297680441447)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/cards-baby-shower-and-get-well-soon-greeting-cards-28055340941415.png?v=1621997716
-    Price: $9.99 CAD
-  - [3](https://makemygift.ca/products/baby-shower-get-well-greeting-cards?variant=39297680474215)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/cards-baby-shower-and-get-well-soon-greeting-cards-28055341138023.jpg?v=1621997716
-    Price: $9.99 CAD
-  - [4](https://makemygift.ca/products/baby-shower-get-well-greeting-cards?variant=39297680506983)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/cards-baby-shower-and-get-well-soon-greeting-cards-28055341400167.png?v=1621997716
-    Price: $9.99 CAD
-  - [5](https://makemygift.ca/products/baby-shower-get-well-greeting-cards?variant=39297680539751)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/cards-baby-shower-and-get-well-soon-greeting-cards-28228958355559.jpg?v=1621997716
-    Price: $9.99 CAD
-  - [6](https://makemygift.ca/products/baby-shower-get-well-greeting-cards?variant=39298599288935)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/cards-baby-shower-and-get-well-soon-greeting-cards-28055355654247.jpg?v=1621997716
-    Price: $9.99 CAD
-- [Thinking of You and Thank You Greeting Cards](https://makemygift.ca/products/thinking-of-you-and-thank-you-greeting-cards): Cards have a variety of raised embellishments to make each card a beautiful gift to send. Glitter (just enough to look great; not enough to get everywhere), foil, gems, bows, and die cuts with foam spacers add to the design. The envelopes are decorated to match each card in a unique way. The cards also come with silver foil sealing stickers for the back of each envelope. The inside of each card is blank for you to write your own special message.
-  Updated: 2026-04-20T19:20:14Z
-  Vendor: MakeMyGift.ca
-  Product Type: cards
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/cards-thinking-of-you-and-thank-you-greeting-cards-28055361257575.jpg?v=1622005810
-  - [1](https://makemygift.ca/products/thinking-of-you-and-thank-you-greeting-cards?variant=39298602139751)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/cards-thinking-of-you-and-thank-you-greeting-cards-28055361257575.jpg?v=1622005810
-    Price: $9.99 CAD
-  - [2](https://makemygift.ca/products/thinking-of-you-and-thank-you-greeting-cards?variant=39298602172519)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/cards-thinking-of-you-and-thank-you-greeting-cards-28055361323111.png?v=1622005810
-    Price: $9.99 CAD
-  - [3](https://makemygift.ca/products/thinking-of-you-and-thank-you-greeting-cards?variant=39298602205287)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/cards-thinking-of-you-and-thank-you-greeting-cards-28055361519719.jpg?v=1622005810
-    Price: $9.99 CAD
-  - [4](https://makemygift.ca/products/thinking-of-you-and-thank-you-greeting-cards?variant=39298602238055)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/cards-thinking-of-you-and-thank-you-greeting-cards-28055362338919.jpg?v=1622005810
-    Price: $9.99 CAD
-- [Assorted Handmade Decorative Greeting Cards](https://makemygift.ca/products/assorted-handmade-decorative-greeting-cards): Cards have a variety of raised embellishments to make each card a beautiful gift to send. Glitter (just enough to look great; not enough to get everywhere), foil, gems, bows, and die cuts with foam spacers add to the design. The envelopes are decorated to match each card in a unique way. The cards also come with silver foil sealing stickers for the back of each envelope. The inside of each card is blank for you to write your own special message.
-  Updated: 2026-04-20T19:20:14Z
-  Vendor: MakeMyGift.ca
-  Product Type: cards
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/cards-assorted-handmade-decorative-greeting-cards-28055375085671.jpg?v=1621997244
-  - [1](https://makemygift.ca/products/assorted-handmade-decorative-greeting-cards?variant=39298626650215)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/cards-assorted-handmade-decorative-greeting-cards-28055375085671.jpg?v=1621997244
-    Price: $9.99 CAD
-  - [2](https://makemygift.ca/products/assorted-handmade-decorative-greeting-cards?variant=39298626682983)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/cards-assorted-handmade-decorative-greeting-cards-28055375118439.jpg?v=1621997244
-    Price: $9.99 CAD
-  - [3](https://makemygift.ca/products/assorted-handmade-decorative-greeting-cards?variant=39298626715751)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/cards-assorted-handmade-decorative-greeting-cards-28055375183975.png?v=1621997244
-    Price: $9.99 CAD
-  - [4](https://makemygift.ca/products/assorted-handmade-decorative-greeting-cards?variant=39298626748519)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/cards-assorted-handmade-decorative-greeting-cards-28055375216743.jpg?v=1621997244
-    Price: $9.99 CAD
-  - [5](https://makemygift.ca/products/assorted-handmade-decorative-greeting-cards?variant=39298635038823)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/cards-assorted-handmade-decorative-greeting-cards-28055375413351.jpg?v=1621997244
-    Price: $9.99 CAD
-  - [6](https://makemygift.ca/products/assorted-handmade-decorative-greeting-cards?variant=39298638315623)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/cards-assorted-handmade-decorative-greeting-cards-28055377936487.jpg?v=1621997244
-    Price: $9.99 CAD
-  - [7](https://makemygift.ca/products/assorted-handmade-decorative-greeting-cards?variant=39298638741607)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/cards-assorted-handmade-decorative-greeting-cards-28055378362471.jpg?v=1621997244
-    Price: $9.99 CAD
-  - [8](https://makemygift.ca/products/assorted-handmade-decorative-greeting-cards?variant=39298639396967)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/cards-assorted-handmade-decorative-greeting-cards-28055379574887.jpg?v=1621997244
-    Price: $9.99 CAD
-  - [9](https://makemygift.ca/products/assorted-handmade-decorative-greeting-cards?variant=39298639954023)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/cards-assorted-handmade-decorative-greeting-cards-28055381016679.jpg?v=1621997244
-    Price: $9.99 CAD
 - [Elite Caramel Mousse Chocolate Cake](https://makemygift.ca/products/elite-caramel-mousse-chocolate-cake): New design with enhanced flavors. Velvety smooth chocolate caramel mousse layered between rich chocolate sponge and crunchy caramel spread. Topped with Belgium white chocolate caramel mousse, waves of marble chocolate shavings. This Caramel and Chocolate Cake Can be served to 8-14 people (1.5 kg). Disclaimer:- The product look can vary drastically from bakery to bakery.
   Updated: 2026-04-22T01:12:46Z
   Vendor: FN
@@ -126,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/elite-carameal-chocolate-cake-min.png?v=1654315841
   Price: $89.99 CAD
 - [Cookies & Cream Cheesecake 8"](https://makemygift.ca/products/cheesecake-cookies-cream-1-3-kg): Oreo®,what we refer to as Cake’s favourite cookie! Smooth cheesecake mousse, blended with cookie pieces, sits sandwiched between two layers of rich devil’s food cake. Finished with a decadent dark chocolate glaze and, you guessed it, Oreo® cookies. This Cheesecake Cookies & Cream 1.3 kg Cake Can be served to 12-14 people. Disclaimer:- The product look can vary drastically from bakery to bakery. May Contain: Peanuts, Sulphites, Tree Nuts, Egg, Milk, Soy, Wheat. This product does not contain alcohol. This product have limited available in U.S, if not available , the product will be replaced with suitable alternative.
-  Updated: 2026-04-20T19:20:15Z
+  Updated: 2026-05-02T17:42:37Z
   Vendor: LR
   Product Type: cake
   Availability: Available
@@ -169,14 +61,14 @@
   Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/ferrero-rocher-box-gift-min.png?v=1654219398
   Price: $59.99 CAD
 - [Premium Mixed Floral Bouquet Gift Set | Flowers, Teddy Bear & Greeting Card](https://makemygift.ca/products/extra-large-mixed-floral-bouquet): Complete luxury gift set with vibrant mixed flowers, adorable teddy bear & greeting card. Perfect for birthdays, anniversaries & celebrations. Same-day delivery!
-  Updated: 2026-04-20T19:20:17Z
+  Updated: 2026-04-29T20:27:36Z
   Vendor: FN
   Product Type: Bouquet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/mixed-floral-bouquet-flowers-min.png?v=1681150621
   Price: $95.99 CAD
 - [Tiramisu Cake](https://makemygift.ca/products/mascarpone-cheese-mousse-delicious-white-sponge-cake): Signature creamy Mascarpone cheese mousse made from 35% real cream and espresso infused ladyfingers lay on a bed of delicious white sponge cake. Finished to perfection with chocolate and vanilla twist ladyfingers, and dusted with chocolate cocoa powder on top. Disclaimer:- The product look can vary drastically from bakery to bakery. May Contain: Peanuts, Sulphites, Tree Nuts, Egg, Milk, Soy, Wheat. This product does not contain alcohol. This product have limited availability in U.S, if not available , the product will be replaced with suitable alternative.
-  Updated: 2026-04-23T02:26:06Z
+  Updated: 2026-05-02T14:38:07Z
   Vendor: FN
   Product Type: cake
   Availability: Available
@@ -197,35 +89,35 @@
   Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/elite-orange-roses-bouquet-flowers-min.png?v=1654141167
   Price: $79.99 CAD
 - [Truffle Royale Chocolate Cake 8"](https://makemygift.ca/products/truffle-royale-chocolate-cake): A chocoholic’s dream! A layer of milk chocolate truffle and a layer of white chocolate truffle sit atop a layer of rich devil’s food cake. Decorated with a dark chocolate coating and waves of white chocolate swirls. Keep refrigerated, best served chilled. 1.1 kg can be served to 12-14 people. Disclaimer:- The product look can vary drastically from bakery to bakery. May Contain: Peanuts, Sulphites, Tree Nuts, Egg, Milk, Soy, Wheat. This product does not contain alcohol. This product is only available in Canada, if you order for some other location , the product will be replaced with suitable alternative.
-  Updated: 2026-04-27T17:06:38Z
+  Updated: 2026-05-02T12:39:36Z
   Vendor: LR
   Product Type: cake
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/truffle-chocolate-cake-min.png?v=1654263048
   Price: $79.99 CAD
 - [Brownie Chocolate Cheesecake 8"](https://makemygift.ca/products/brownie-chocolate-cheesecake): Our most famous creation of rich walnut brownie base baked with a creamy vanilla cheesecake. Adorned with dark chocolate ganache, our homemade brownies and a scrumptious pool of buttery caramel. And with that folks, we have a winner!. 1.2 kg Cake can be served to 10-12 people. Disclaimer:- The product look can vary drastically from bakery to bakery. May Contain: Peanuts, Sulphites, Tree Nuts, Egg, Milk, Soy, Wheat. This product does not contain alcohol. This product is only available in Canada, if you order for some other location , the product will be replaced with suitable alternative.
-  Updated: 2026-04-27T12:39:37Z
+  Updated: 2026-05-01T20:56:26Z
   Vendor: FN
   Product Type: cake
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/brownie-cheesecake-min.png?v=1682052021
   Price: $79.99 CAD
 - [Chocolate Fudge Cake 8"](https://makemygift.ca/products/chocolate-fudge-cake): Created with the true chocolate lover in mind, this delicious cake features three layers of decadent chocolate fudge and chocolate devil's food cake, topped with rich chocolate icing and creamy chocolate ganache. It might just be heaven on earth! 8" cake and can be served to 12-14 people Disclaimer:- The product look can vary drastically from bakery to bakery. May Contain: Peanuts, Sulphites, Tree Nuts, Egg, Milk, Soy, Wheat.
-  Updated: 2026-04-27T23:35:27Z
+  Updated: 2026-05-04T15:02:47Z
   Vendor: LR
   Product Type: cake
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/chocolate-fudge-cake-birthday-anniversary-min.png?v=1683947890
   Price: $79.99 CAD
 - [Elegant Red Roses Luxury Gift Set - Flowers, Chocolate box](https://makemygift.ca/products/elegant-red-rose-bouquet): Complete luxury gift set with premium red roses, adorable teddy bear & greeting card. Perfect for Valentine's Day, anniversaries & romantic occasions. Order now!
-  Updated: 2026-04-20T19:20:19Z
+  Updated: 2026-05-04T14:15:27Z
   Vendor: FN
   Product Type: Bouquet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/red-roses-bouquet-flowers-min.png?v=1771456365
   Price: $99.99 CAD
 - [Milk Chocolate Caramel Cake](https://makemygift.ca/products/milk-chocolate-caramel-cake): Cake is like a box of chocolates - except better! Velvety smooth milk chocolate truffle and buttery caramel spread on layers of chocolate sponge cake. Finished with, wait for it... Belgian chocolate chips. 1.4 kg can be served to 12-14 people Disclaimer:- The product look can vary drastically from bakery to bakery. May Contain: Peanuts, Sulphites, Tree Nuts, Egg, Milk, Soy, Wheat. This product does not contain alcohol.
-  Updated: 2026-04-20T19:20:19Z
+  Updated: 2026-05-05T12:54:47Z
   Vendor: FN
   Product Type: cake
   Availability: Available
@@ -239,7 +131,7 @@
   Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/black-forest-cake-min_8d2e98fa-5ad7-40ca-8d32-d0e4be43fa59.png?v=1680489512
   Price: $79.99 CAD
 - [White Chocolate Raspberry Cake](https://makemygift.ca/products/white-chocolate-raspberry-cake): White chocolate mousse and raspberry purée spread between delicate layers of white chocolate sponge cake. 8 inch cake can be served to 8- 14 people. Disclaimer:- The product look can vary drastically from bakery to bakery. May Contain: Peanuts, Sulphites, Tree Nuts, Egg, Milk, Soy, Wheat. This product does not contain alcohol. This product is only available in Ontario, Canada, if you order for some other location , the product will be replaced with suitable alternative.
-  Updated: 2026-04-20T19:20:20Z
+  Updated: 2026-05-06T04:32:57Z
   Vendor: FN
   Product Type: cake
   Availability: Available
@@ -260,14 +152,14 @@
   Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/almond-fudge-cake-min.png?v=1654354191
   Price: $79.99 CAD
 - [Premium Pink Roses Luxury Gift Set | Elegant Bouquet, Chocolates & Card](https://makemygift.ca/products/pink-rose-bouquet): Stunning pink roses gift set with artisan chocolates & greeting card. Perfect for Mother's Day, birthdays, thank you & appreciation. Express grace & gratitude!
-  Updated: 2026-04-24T11:17:58Z
+  Updated: 2026-04-28T12:48:47Z
   Vendor: SB
   Product Type: Bouquet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/files/image_46496d35-99a6-448b-973a-eadbfd52fa6e.png?v=1771457913
   Price: $99.99 CAD
 - [Red Velvet Love Cake 8"](https://makemygift.ca/products/8-inch-red-velvet-cake): Roll out the Red Velvet! Special occasions call for a timeless classic. Moist velvet cake, with a touch of cocoa, is layered with La Rocca’s own cream cheese icing made with REAL cream cheese. Nothing else compares!. 8 inch can be served to 12-14 people Disclaimer:- The product look can vary drastically from bakery to bakery. May Contain: Peanuts, Sulphites, Tree Nuts, Egg, Milk, Soy, Wheat. This product does not contain alcohol.
-  Updated: 2026-04-25T22:54:17Z
+  Updated: 2026-05-05T06:08:17Z
   Vendor: LR
   Product Type: cake
   Availability: Available
@@ -302,7 +194,7 @@
   Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/cherry-noire-cake-min.png?v=1654273806
   Price: $79.99 CAD
 - [Birthday Confetti Vanilla Cake 8"](https://makemygift.ca/products/birthday-confetti-cake): What’s a birthday without cake? Celebrate with three layers of reimagined artisan developed birthday cake and oh-so-satisfying frosting. Finished with more frosting and bright confetti sprinkles! Disclaimer:- The product look can vary drastically from bakery to bakery. May Contain: Peanuts, Sulphites, Tree Nuts, Egg, Milk, Soy, Wheat. This product does not contain alcohol.
-  Updated: 2026-04-20T19:20:22Z
+  Updated: 2026-05-03T22:18:28Z
   Vendor: LR
   Product Type: cake
   Availability: Available
@@ -323,7 +215,7 @@
   Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/big-brown-teddy-bear-gift-min.png?v=1654221807
   Price: $79.00 CAD
 - [Birthday Candles Color Flame](https://makemygift.ca/products/birthday-candles-color-flame): Package of 10 Colored Flame Candles and Holders Birthday cake candles measure approximately 2.75-Inch Flames appear the same color as candle toppers when lit to add decorative fun to the cake at any birthday party 10 plastic holders prevent wax from dripping on the birthday cake Coordinate with other birthday party supplies and party decorations from Unique
-  Updated: 2026-04-27T20:38:28Z
+  Updated: 2026-05-05T12:54:47Z
   Vendor: DR
   Product Type: Candles
   Availability: Available
@@ -356,7 +248,7 @@
   Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/cookies-dough-cake-min.png?v=1654275577
   Price: $79.99 CAD
 - [Ca-ke Topper](https://makemygift.ca/products/birthday-cake-topper): Top off their delicious cake with this Birthday, Anniversary, Mother's Day Cake Topper Reads the Occasions artistic script. Add it to the top layer of their cake.
-  Updated: 2026-04-27T23:35:27Z
+  Updated: 2026-05-06T09:44:27Z
   Vendor: AE
   Product Type: Topper
   Availability: Available
@@ -378,7 +270,7 @@
     Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/eid-topper-min.png?v=1647659365
     Price: $1.99 CAD
 - [Chocolate Burst Cake 8"](https://makemygift.ca/products/chocolate-truffle-8-inch-cake): Moist chocolate sponge cake layered with decadent chocolate mousse and generously covered with a rich chocolate glaze. Topped with white chocolate chips and creamy chocolate ganache. Disclaimer:- The product look can vary drastically from bakery to bakery. May Contain: Peanuts, Sulphites, Tree Nuts, Egg, Milk, Soy, Wheat. This product does not contain alcohol.
-  Updated: 2026-04-20T19:20:26Z
+  Updated: 2026-05-06T09:44:26Z
   Vendor: ES
   Product Type: cake
   Availability: Available
@@ -427,7 +319,7 @@
   Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/files/premium-orchid-planter-luxury-gift-set-with-chocolates.png?v=1771457365
   Price: $99.99 CAD
 - [Fresh Fruit Chiffon Cake](https://makemygift.ca/products/fresh-fruit-chiffon-cake): Chiffon cake, fresh chopped seasonal fruits and whipping cream stuffing. Disclaimer:- The product can vary slightly as shown in picture. As Cake is perishable good, Delivery will be attempted only once. Once ordered, the delivery can't be redirected to another address.
-  Updated: 2026-04-26T13:42:38Z
+  Updated: 2026-05-04T14:15:27Z
   Vendor: MCS
   Product Type: cake
   Availability: Available
@@ -467,21 +359,21 @@
     Availability: Available
     Price: $139.99 CAD
 - [Mango Madness Cake](https://makemygift.ca/products/mango-madness-cake): Fresh mango Cake, mango purée and freshly whipped cream in between multiple layers of delicate mango-flavoured crêpes. Topped with a side of mangos. Please note that this cake is not available in Quebec 8" Cake have 12-14 servings. Disclaimer:- Currently, this product is only available in Canada, The product look can vary drastically from bakery to bakery. May Contain: Peanuts, Sulphites, Tree Nuts, Egg, Milk, Soy, Wheat. This product does not contain alcohol.
-  Updated: 2026-04-26T20:05:08Z
+  Updated: 2026-05-03T19:30:47Z
   Vendor: RB
   Product Type: cake
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/mango-cake-delivery-canada-min.png?v=1671299554
   Price: $85.00 CAD
 - [Hazelnut Bacio Cake 6"](https://makemygift.ca/products/hazelnut-nutty-bacio-cake): 6 inch Cake, Your tastebuds will go hazel-nuts over this nutty chocolate cake! Creamy chocolate hazelnut mousse spread between layers of moist chocolate sponge cake. Enrobed in a chocolate glaze and surrounded by toasted chopped hazelnut praline This Cake is Kosher  Disclaimer:- The product look can vary drastically from bakery to bakery. May Contain: Peanuts, Sulphites, Tree Nuts, Egg, Milk, Soy, Wheat. This product does not contain alcohol.
-  Updated: 2026-04-27T21:35:47Z
+  Updated: 2026-05-04T10:31:18Z
   Vendor: ES
   Product Type: Cake
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/hazelnut-bacio-cake-min.png?v=1657146738
   Price: $59.99 CAD
 - [Decadent Chocolate Cake 6"](https://makemygift.ca/products/decadent-chocolate-cake): Chocolate sponge cake layered with rich chocolate mousse. All covered in a creamy chocolate ganache, marble chocolate curls and chocolate truffles This Cake is Kosher  Disclaimer:- The product look can vary drastically from bakery to bakery. May Contain: Peanuts, Sulphites, Tree Nuts, Egg, Milk, Soy, Wheat. This product does not contain alcohol.
-  Updated: 2026-04-27T22:36:46Z
+  Updated: 2026-05-05T20:55:57Z
   Vendor: ES
   Product Type: Cake
   Availability: Available
@@ -522,42 +414,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/chocolate-gift-basket-min.png?v=1661387949
   Price: $89.00 CAD
-- [Number Birthday Candles](https://makemygift.ca/products/number-birthday-candles): Listed price for one candle. Add more fun to your birthday party with these numbered candles are designed in white and decorated with different glowing edges, making them look cuter and more delicate, simple and classic design can match with other decorations well and make your cake more beautiful
-  Updated: 2026-04-20T19:20:33Z
-  Vendor: DR
-  Product Type: Candles
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/number-candle-min.png?v=1663176210
-  - [0](https://makemygift.ca/products/number-birthday-candles?variant=39882084155495)
-    Availability: Available
-    Price: $9.99 CAD
-  - [1](https://makemygift.ca/products/number-birthday-candles?variant=39882084188263)
-    Availability: Available
-    Price: $9.99 CAD
-  - [2](https://makemygift.ca/products/number-birthday-candles?variant=39882084221031)
-    Availability: Available
-    Price: $9.99 CAD
-  - [3](https://makemygift.ca/products/number-birthday-candles?variant=39882084253799)
-    Availability: Available
-    Price: $9.99 CAD
-  - [4](https://makemygift.ca/products/number-birthday-candles?variant=39882084286567)
-    Availability: Available
-    Price: $9.99 CAD
-  - [5](https://makemygift.ca/products/number-birthday-candles?variant=39882084319335)
-    Availability: Available
-    Price: $9.99 CAD
-  - [6](https://makemygift.ca/products/number-birthday-candles?variant=39882084352103)
-    Availability: Available
-    Price: $9.99 CAD
-  - [7](https://makemygift.ca/products/number-birthday-candles?variant=39882084384871)
-    Availability: Available
-    Price: $9.99 CAD
-  - [8](https://makemygift.ca/products/number-birthday-candles?variant=39882084417639)
-    Availability: Available
-    Price: $9.99 CAD
-  - [9](https://makemygift.ca/products/number-birthday-candles?variant=39882084450407)
-    Availability: Available
-    Price: $9.99 CAD
 - [Luxury Candles & Ferrero Rocher Gift Basket | Premium Gift Collection](https://makemygift.ca/products/candles-chocolates-gift-basket): Stunning gift basket with 2 large scented candles & 24 Ferrero Rocher chocolates. Perfect for celebrations & special occasions. Beautifully wrapped & ready to gift!
   Updated: 2026-04-20T19:20:33Z
   Vendor: MakeMyGift.ca
@@ -566,7 +422,7 @@
   Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/Candles-chocolates-gift-basket.png?v=1666109373
   Price: $99.00 CAD
 - [Sauvage for Men](https://makemygift.ca/products/sauvage-for-men): Sauvage is an act of creation inspired by wide-open spaces. A composition marked by a raw freshness, powerful and noble all at once. A radically fresh composition, Dior Sauvage is both raw and noble. Radiant top notes burst with the juicy freshness of Calabrian bergamot, while Amberwood unleashes a powerfully woody trail. Sauvage men's cologne is inspired by wide-open spaces, a white-hot desert landscape under a vast blue sky. Eau de Parfum Spray 2.0 oz
-  Updated: 2026-04-20T19:20:34Z
+  Updated: 2026-05-04T15:02:47Z
   Vendor: Dior
   Product Type: Fragrance
   Availability: Available
@@ -600,15 +456,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/ferrero-rocher-min.png?v=1671354751
   Price: $45.00 CAD
-- [Ferrero Rocher Chocolates Box- 24 Count](https://makemygift.ca/products/ferrero-rocher-chocolates-box-24-count): Our signature praline. FERRERO ROCHER offers a unique taste experience of contrasting layers. A smooth chocolate filling surrounds a whole hazelnut, all encased in a crisp wafer and enveloped in fine milk chocolate and chopped hazelnuts. Carefully crafted and wrapped in delicate gold foil, FERRERO ROCHER is made to "say more". 24 delicious Ferrero Rocher chocolates, presented in an impressive transparent gift box, the perfect Easter basket and egg stuffers, or gift for loved ones this holiday season A tempting combination of smooth chocolaty cream surrounding a whole hazelnut within a delicate, crisp wafer all enveloped in milk chocolate and finely chopped hazelnuts Perfect for sharing, or indulging on your own during the holidays Make loved ones feel special every day with Ferrero Rocher Confections Peanuts Free,  Kosher (OU-Dairy)
-  Updated: 2026-04-20T19:20:35Z
-  Vendor: Ferrero Rocher
-  Product Type: Chocolate
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0278/3861/1559/products/rocher-24count-min.png?v=1671675990
-  Price: $59.99 CAD
 - [Triple Chocolate Cake 6"](https://makemygift.ca/products/triple-chocolate-cake): Our triple chocolate cake is filled with delightful layers of decadent chocolate sponge cake, white chocolate mousse and dark chocolate mousse made from real cream. Generously covered in chocolate glaze and waves of white chocolate. Triple Chocolate Cake is 6 inch about 800 g good to serve to 4-8 people. Disclaimer:- The product look can vary drastically from bakery to bakery. May Contain: Peanuts, Sulphites, Tree Nuts, Egg, Milk, Soy, Wheat. This product does not contain alcohol.
-  Updated: 2026-04-27T20:38:26Z
+  Updated: 2026-04-28T13:07:25Z
   Vendor: ES
   Product Type: Cake
   Availability: Available
@@ -661,89 +510,89 @@
 ## Collections
 
 - [Gifts for Mother](https://makemygift.ca/collections/mother): Gifts for Mother
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 68
+  Updated: 2026-05-06T11:18:26Z
+  Total Products: 65
 - [Branded Watches Online Store - Same Day Delivery](https://makemygift.ca/collections/watches): Branded watches collection for . Offering brands like Diesel, Armani and Tommy etc. 100 percent authentic collections for gifting.
   Updated: 2026-04-20T19:19:39Z
   Total Products: 14
 - [Gifts for Kids](https://makemygift.ca/collections/gifts-for-kids)
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 94
+  Updated: 2026-05-06T11:18:26Z
+  Total Products: 74
 - [Gifts for Newborn](https://makemygift.ca/collections/gifts-for-newborn)
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 41
+  Updated: 2026-05-06T11:18:26Z
+  Total Products: 37
 - [Chocolate Gift Boxes from Top Brands](https://makemygift.ca/collections/chocolates): Chocolates and Assorted Chocolate Boxes from Lindt, Nestle and many more, avilable for delivery in Canada.
-  Updated: 2026-04-20T19:19:39Z
-  Total Products: 29
+  Updated: 2026-04-28T02:21:52Z
+  Total Products: 21
 - [Personalized Gifts](https://makemygift.ca/collections/personalized-gifts)
-  Updated: 2026-04-20T19:19:39Z
-  Total Products: 12
+  Updated: 2026-04-28T02:21:44Z
+  Total Products: 9
 - [Father's Day Gifts](https://makemygift.ca/collections/fathers-day-gifts): Gift for Father. same-day delivery unique gifts.
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 105
+  Updated: 2026-05-06T11:18:26Z
+  Total Products: 96
 - [Christmas Gifts](https://makemygift.ca/collections/christmas-gifts)
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 136
+  Updated: 2026-05-06T11:18:26Z
+  Total Products: 120
 - [Thanksgiving Gifts](https://makemygift.ca/collections/thanksgiving-gifts)
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 68
+  Updated: 2026-05-06T11:18:26Z
+  Total Products: 60
 - [Top  Fragrances Canada - Same Day Delivery](https://makemygift.ca/collections/fragrance): Buy perfume, cologne online in Canada. Products from CK, Burberry, Versace etc. at affordable rates delivered direct to your door.
-  Updated: 2026-04-20T19:19:39Z
-  Total Products: 28
+  Updated: 2026-05-05T11:17:01Z
+  Total Products: 27
 - [Premium Luxury Flower Bouquets & Rose Delivery Canada | MakeMyGift](https://makemygift.ca/collections/flowers): Shop premium luxury flower bouquets & artisan rose arrangements. Same-day delivery across Canada & U.S. Hand-selected blooms, expert craftsmanship,  fresh
-  Updated: 2026-04-25T11:14:52Z
-  Total Products: 15
+  Updated: 2026-05-05T11:17:01Z
+  Total Products: 14
 - [Greeting Cards](https://makemygift.ca/collections/greeting-cards)
-  Updated: 2026-04-20T19:19:40Z
-  Total Products: 5
+  Updated: 2026-04-28T02:18:02Z
+  Total Products: 0
 - [Buy Gifts Online Canada - Online Gift Store Toronto | Makemygift](https://makemygift.ca/collections/all): Online gift store in U.S & Canada offering same day delivery of Birthday and Anniversary Gifts, Cakes, Bouquets, Perfumes, Gift Baskets and Personalized Gift delivery anywhere in Canada and U.S. Makemygift is the only online gift shop offering same day delivery of gifts all seven days of week in New York, California, Toronto, Greater Toronto area, Mississauga, Brampton, Scarborough, Etobicoke, Oakville, Burlington and Hamilton.
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 207
+  Updated: 2026-05-06T11:18:26Z
+  Total Products: 182
 - [Gifts under $50](https://makemygift.ca/collections/gifts-under-30): Send Gifts under CAD 50 to Canada. Same Day Delivery in Ontario and Express Delivery to rest of Canada.
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 56
+  Updated: 2026-05-06T11:18:26Z
+  Total Products: 36
 - [Gifts and Cakes Deliver in Toronto | Cake Shops Online](https://makemygift.ca/collections/cake-delivery-toronto): Online cake shops to Send Cakes to Toronto. Same day gifts and cakes delivery in Toronto and greater Toronto area. anniversary and birthday cakes for delivery in Toronto.
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 47
+  Updated: 2026-05-06T11:18:26Z
+  Total Products: 45
 - [Cake Delivery Brampton](https://makemygift.ca/collections/cake-delivery-brampton): Send Cakes to Brampton. Brampton Cake Delivery. Birthday cakes delivery in Brampton.
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 38
+  Updated: 2026-05-06T11:18:26Z
+  Total Products: 37
 - [Cakes Delivery Service in Hamilton](https://makemygift.ca/collections/cake-delivery-hamilton): Send cakes Hamilton. Hamilton Cake Delivery. Best birthday cakes Hamilton. Cake shop Hamilton. Same-day cake delivery.
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 38
+  Updated: 2026-05-06T11:18:26Z
+  Total Products: 37
 - [Best  Gifts](https://makemygift.ca/collections/best--gifts): Best  gifts for birthday and anniversary occasion, for male and female. Top  gifts available for express shipping to Canada.
-  Updated: 2026-04-20T19:19:40Z
-  Total Products: 20
+  Updated: 2026-04-28T02:21:52Z
+  Total Products: 15
 - [Unique Gifts for Valentines Day](https://makemygift.ca/collections/valentines-day-gifts): Valentines Day Gifts for him and her. Handpicked and unique gifts for your valentines. Same day delivery of valentine's gifts in Toronto, Mississauga, GTA and throughout popular Canadian cities.
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 173
+  Updated: 2026-05-06T11:18:26Z
+  Total Products: 150
 - [Mother's Day Gifts 2026 - Flowers, Cakes & Gift Baskets | MakeMyGift](https://makemygift.ca/collections/mothers-day-gifts): Shop our curated Mother's Day collection featuring fresh flower bouquets, celebration cakes, premium chocolates, and personalized gift baskets. Same-day delivery available.
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 147
+  Updated: 2026-05-06T11:18:26Z
+  Total Products: 133
 - [Birthday Gifts Online Store in Canada](https://makemygift.ca/collections/birthday-gifts): Huge and unique gifts collection for Birthday. if you are looking for the perfect gift, take a look at our online gift store, we offer same-day delivery to major Canadian cities. Makemygift can deliver gifts to Toronto, Mississauga & Hamilton very same day.
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 180
+  Updated: 2026-05-06T11:18:26Z
+  Total Products: 156
 - [Unique Anniversary Gifts Canada - Order Online for Express Delivery](https://makemygift.ca/collections/anniversary-gifts): Anniversary gifts collection that will make your partner feel special. Order Cakes, Bouquets, Gift Baskets and Fragrances for anniversary gifts. Available for same day delivery or schedule gift delivery anywhere in Canada.
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 180
+  Updated: 2026-05-06T11:18:26Z
+  Total Products: 156
 - [Gifts for Her - Feminine Gifts that will leave a lasting impression](https://makemygift.ca/collections/gifts-for-her): Feminine Gifts to order online. Collection of gifts for girls & women for delivery anywhere in Canada. Gifts for Valentine day, Women's day and Mother's day, we got them all.
   Updated: 2026-04-20T19:19:40Z
   Total Products: 0
 - [Gifts for Men, Order gifts for Boyfriend, Husband, Father & Brother](https://makemygift.ca/collections/gifts-for-him): Online gifts shop in Canada offering gifts for your Boyfriend, Husbands, Father and Brother. Browse unique articles including but not limited to Branded watches, Fragrances, personalized gifts and much more.
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 128
+  Updated: 2026-05-06T11:18:26Z
+  Total Products: 114
 - [Soft Toy Gifts](https://makemygift.ca/collections/soft-toys-gifts)
-  Updated: 2026-04-20T19:19:40Z
-  Total Products: 26
+  Updated: 2026-04-28T02:21:52Z
+  Total Products: 16
 - [OrderlyEmails - Recommended Products](https://makemygift.ca/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-04-25T11:14:52Z
-  Total Products: 27
+  Updated: 2026-04-30T11:15:05Z
+  Total Products: 24
 - [Eid & Ramadan Kareem Gifts](https://makemygift.ca/collections/eid-ramadan-kareem-gifts): Celebrate Eid & Ramadan Kareem with exclusive gifts from Makemygift
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 72
+  Updated: 2026-05-05T11:17:01Z
+  Total Products: 60
 - [Canada's & U.S.A Online Gifts Shop](https://makemygift.ca/collections/canadas-online-gift-shop): Gifts for your U.S & Canadian friends and family. We have something for everyone. Fast gifts delivery all over Canada and U.S including Toronto, New York, Las Vegas, Calgary, Vancouver, Edmonton to name a few.
-  Updated: 2026-04-24T11:16:27Z
-  Total Products: 149
+  Updated: 2026-05-05T11:17:01Z
+  Total Products: 121
 - [Gift Baskets](https://makemygift.ca/collections/gift-baskets): You will be delighted to receive a whole basket full of chocolates and Treats. Or appeal to his or her sweet side with a gift basket full of chocolates. The assorted chocolate bars offer delightful flavors such as hazelnut and apricot dark chocolate or organic milk chocolate. There’s even some caramel in there! Looking for a more health-conscious gift in Canada? Send an assortment of delicious fresh fruits in a gift basket. Perfect for guilt-free snacking!
   Updated: 2026-04-20T19:19:41Z
   Total Products: 22
@@ -751,65 +600,65 @@
   Updated: 2026-04-20T19:19:41Z
   Total Products: 0
 - [Order Cake Delivery New York, Toronto, Mississauga, Brampton & Chicago](https://makemygift.ca/collections/cakes): Order Cakes online from Makemygift. we deliver cakes to New York, Toronto, Mississauga, Brampton & Chicago and more cities in United States and Canada
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 47
+  Updated: 2026-05-06T11:18:26Z
+  Total Products: 45
 - [Toronto Gift Shop](https://makemygift.ca/collections/toronto-gift-shop)
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 205
+  Updated: 2026-05-06T11:18:26Z
+  Total Products: 176
 - [Montreal Gift Shop](https://makemygift.ca/collections/montreal-gift-shop)
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 205
+  Updated: 2026-05-06T11:18:26Z
+  Total Products: 176
 - [Calgary Gift Shop](https://makemygift.ca/collections/calgary-gift-shop)
-  Updated: 2026-04-25T11:14:52Z
-  Total Products: 144
+  Updated: 2026-05-05T11:17:01Z
+  Total Products: 120
 - [Ottawa Gift Shop](https://makemygift.ca/collections/ottawa-gift-shop)
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 205
+  Updated: 2026-05-06T11:18:26Z
+  Total Products: 176
 - [Edmonton Gift Shop](https://makemygift.ca/collections/edmonton-gift-shop)
-  Updated: 2026-04-20T19:19:41Z
-  Total Products: 145
+  Updated: 2026-05-05T11:17:01Z
+  Total Products: 119
 - [Winnipeg Gift Shop](https://makemygift.ca/collections/winnipeg-gift-shop)
-  Updated: 2026-04-26T11:16:05Z
-  Total Products: 149
+  Updated: 2026-05-05T11:17:01Z
+  Total Products: 123
 - [Mississauga Gift Shop](https://makemygift.ca/collections/mississauga-gift-shop)
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 205
+  Updated: 2026-05-06T11:18:26Z
+  Total Products: 176
 - [Vancouver Gift Shop](https://makemygift.ca/collections/vancouver-gift-shop)
-  Updated: 2026-04-26T13:42:23Z
-  Total Products: 149
+  Updated: 2026-05-05T11:17:01Z
+  Total Products: 125
 - [Brampton Gift Shop](https://makemygift.ca/collections/brampton-gift-shop)
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 205
+  Updated: 2026-05-06T11:18:26Z
+  Total Products: 176
 - [Hamilton Gift Shop](https://makemygift.ca/collections/hamilton-gift-shop)
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 205
+  Updated: 2026-05-06T11:18:26Z
+  Total Products: 176
 - [Home Decor](https://makemygift.ca/collections/home-decor): Shop for Home Decor gifts products at Makemygift online gift shop.Makemygift offer quick delivery across Canada.
-  Updated: 2026-04-20T19:19:41Z
-  Total Products: 30
+  Updated: 2026-04-28T02:21:44Z
+  Total Products: 27
 - [Raksha Bandhan Gifts](https://makemygift.ca/collections/raksha-bandhan-gifts)
-  Updated: 2026-04-25T11:14:52Z
-  Total Products: 25
+  Updated: 2026-04-28T02:21:40Z
+  Total Products: 24
 - [All Products](https://makemygift.ca/collections/all-products)
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 218
+  Updated: 2026-05-06T11:18:26Z
+  Total Products: 187
 - [Diwali Gifts](https://makemygift.ca/collections/diwali-gifts): MakeMyGift will make this Diwali special with thoughtful selection of Traditional Diwali Gifts to order online. Some of the gifts for Diwali include Gift Baskets, Fragrance Candles and Cuddly and playful toys.
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 129
+  Updated: 2026-05-06T11:18:26Z
+  Total Products: 113
 - [Women's Day Gifts](https://makemygift.ca/collections/amazing-day-gifts): creative and personalized gifts for canadaian women's
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 147
+  Updated: 2026-05-06T11:18:26Z
+  Total Products: 133
 - [Gifts on  - Limited time Only](https://makemygift.ca/collections/gifts-on--limited-time-only): Shop gifts on huge  for limited time
-  Updated: 2026-04-20T19:19:42Z
-  Total Products: 37
+  Updated: 2026-04-28T02:21:51Z
+  Total Products: 25
 - [Exclusive Easter Gifts](https://makemygift.ca/collections/easter-gifts): Celebrate Easter with joy - exclusive gifts collection for Canadian's.
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 210
+  Updated: 2026-05-06T11:18:26Z
+  Total Products: 184
 - [New York Gift Shop](https://makemygift.ca/collections/new-york-gift-shop): New york gift shop, cakes , flowers and gifts delivery to new york same day
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 216
+  Updated: 2026-05-06T11:18:26Z
+  Total Products: 185
 - [Chicago Gift Shop](https://makemygift.ca/collections/chicago-gift-shop): Chicago Gift Shop , cakes and flowers Delivery to chicago same day
-  Updated: 2026-04-27T11:17:58Z
-  Total Products: 216
+  Updated: 2026-05-06T11:18:26Z
+  Total Products: 185
 
 ## Blogs
 
@@ -947,6 +796,18 @@
     Author: Dilpreet Singh
   - [Unique Gift Ideas for Every Occasion: A Complete 2026 Guide](https://makemygift.ca/blogs/news/unique-gift-ideas-for-every-occasion-a-complete-2026-guide): Unique Gift Ideas for Every Occasion: A Complete 2026 Guide
     Updated: 2026-04-28T02:04:22Z
+    Author: Makemygift
+  - [10 Creative Ways to Personalize Your Gift for Any Occasion](https://makemygift.ca/blogs/news/10-creative-ways-to-personalize-your-gift-for-any-occasion): 10 Creative Ways to Personalize Your Gift for Any Occasion
+    Updated: 2026-04-29T02:45:52Z
+    Author: Makemygift
+  - [The Ultimate Guide to Choosing the Perfect Flower Bouquet for Your Loved Ones](https://makemygift.ca/blogs/news/the-ultimate-guide-to-choosing-the-perfect-flower-bouquet-for-your-loved-ones): The Ultimate Guide to Choosing the Perfect Flower Bouquet for Your Loved Ones
+    Updated: 2026-05-03T00:10:48Z
+    Author: Makemygift
+  - [How to Ensure Safe and Timely Cake Delivery Every Time](https://makemygift.ca/blogs/news/how-to-ensure-safe-and-timely-cake-delivery-every-time): How to Ensure Safe and Timely Cake Delivery Every Time
+    Updated: 2026-05-04T02:06:34Z
+    Author: Makemygift
+  - [Top FAQs About Gift Baskets Answered](https://makemygift.ca/blogs/news/top-faqs-about-gift-baskets-answered): Top FAQs About Gift Baskets Answered
+    Updated: 2026-05-06T02:09:07Z
     Author: Makemygift
 
 ## Store Pages
