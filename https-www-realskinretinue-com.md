@@ -6,19 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2021-12-12T23:48:26Z
 - Contact Email: info@realskinretinue.com
-- Updated At: 2026-05-01T00:00:34.064Z
+- Updated At: 2026-05-08T00:00:36.497Z
 
 ## Products
 
-- [Real Skin Retinue | Savef Skin Essential Face Serum™ — Photo Aging Defense | #1 Total Serum](https://www.realskinretinue.com/products/savef-skin-essential-face-serum): By Real Skin Retinue. Barrier-first, photo-conscious, fragrance-free. Defends against photo aging with 17+ antioxidants, peptides & ceramides. 100% report glowing, hydrated skin on first use. 30ml.
-  Updated: 2026-04-28T02:36:33Z
+- [Savef Skin Face Serum | Preserve, Support & Defend](https://www.realskinretinue.com/products/savef-skin-essential-face-serum): By Real Skin Retinue. Barrier-first, photo-conscious, fragrance-free. Defends against photo aging with 17+ antioxidants, peptides & ceramides. 100% report glowing, hydrated skin on first use. 30ml.
+  Updated: 2026-05-07T16:44:28Z
   Vendor: Real Skin Retinue
   Product Type: Face Serum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0615/3968/0472/files/1976444322493_02.jpg?v=1769707794
   Price: $155.00 USD
 - [Savef Skin Book | Barrier-First Skincare Guide by Marzia Rahmani](https://www.realskinretinue.com/products/savef-skin-book): Discover the Modern Skin Concept™ with Marzia Rahmani's barrier-first skincare guide. Photo-conscious strategies, ingredient transparency, and holistic wellness for healthy, resilient skin.
-  Updated: 2026-04-28T18:02:45Z
+  Updated: 2026-05-06T08:36:08Z
   Vendor: Real Skin Retinue
   Product Type: Skincare Guide
   Availability: Available
@@ -27,8 +27,8 @@
 
 ## Collections
 
-- [My Story](https://www.realskinretinue.com/collections/my-story)
-  Updated: 2026-04-02T10:54:25Z
+- [My Story](https://www.realskinretinue.com/collections/my-story): 20+ years in skincare led Marzia Rahmani to the Modern Skin Concept™ — photo-conscious, barrier-first skincare that simplifies, educates, and truly empowers.
+  Updated: 2026-05-05T17:05:11Z
   Total Products: 0
 - [Real Skin Retinue -Photo-Conscious Skincare for Glowing Skin](https://www.realskinretinue.com/collections/mission): Photo-conscious skincare, antioxidant skincare, fasted skin support, UV protection, healthy glowing skin, minimalist skincare, Real Skin Retinue
   Updated: 2026-04-02T10:54:25Z
@@ -275,6 +275,22 @@
     Updated: 2026-04-28T22:26:16Z
     Author: Marzia Rahmani
     Tags: aging skin, AHA exfoliation, antioxidant serum, Antioxidants, barrier repair, DNA protection, Fasting and Skin Health, Modern Skin Concept, Peptides, photo-conscious, photo-conscious skincare, photoaging, skincare, SPF, sun damage prevention, sun-damaged skin
+  - [Photo-Ageing & Skin Resilience | The Modern Skin Concept™](https://www.realskinretinue.com/blogs/news/supporting-skin-resilience-against-photo-ageing-modern-skin-concept): Photo-Ageing & Skin Resilience | The Modern Skin Concept™
+    Updated: 2026-05-04T16:32:10Z
+    Author: Marzia Rahmani
+    Tags: barrier care, Modern Skin Concept, photo-ageing, photoprotection, Savef Skin, skin resilience, skincare philosophy
+  - [What is Photo-Conscious Skincare? | Real Skin Retinue](https://www.realskinretinue.com/blogs/news/what-is-photo-conscious-skincare): What is Photo-Conscious Skincare? | Real Skin Retinue
+    Updated: 2026-05-06T14:34:13Z
+    Author: Marzia Rahmani
+    Tags: antioxidants, barrier skincare, photo-conscious, Savef Skin, skin health
+  - [Stop Repairing What You Keep Damaging | Real Skin Retinue](https://www.realskinretinue.com/blogs/news/stop-repairing-what-you-keep-damaging): Stop Repairing What You Keep Damaging | Real Skin Retinue
+    Updated: 2026-05-07T13:35:13Z
+    Author: Marzia Rahmani
+    Tags: antioxidants, astaxanthin, barrier care, Modern Skin Concept, PDRN, skin aging, skin protection, skincare
+  - [How to Build a Barrier-Protecting, Photo-Conscious Skincare Routine | Real Skin Retinue](https://www.realskinretinue.com/blogs/news/how-to-build-a-barrier-protecting-photo-conscious-routine): How to Build a Barrier-Protecting, Photo-Conscious Skincare Routine | Real Skin Retinue
+    Updated: 2026-05-07T13:35:16Z
+    Author: Marzia Rahmani
+    Tags: antioxidant serum, barrier repair, Modern Skin Concept, photo-conscious, Savef Skin, sensitive skin, skin barrier, skincare, skincare routine, SPF
 - [Is Your Skincare Aging You?](https://www.realskinretinue.com/blogs/is-your-skincare-aging-you)
   - [Is Your Skincare Aging You? Avoid These Harmful Ingredients](https://www.realskinretinue.com/blogs/is-your-skincare-aging-you/is-your-skincare-aging-you): Is Your Skincare Aging You? Avoid These Harmful Ingredients
     Updated: 2026-02-12T02:45:15Z
@@ -294,8 +310,10 @@
   Updated: 2025-11-21T15:57:51Z
 - [Real Skin Retinue | Modern Skin Concept™ & Skin Permeability — Protect Your Barrier](https://www.realskinretinue.com/pages/modern-skin-permeability): Copyright Real Skin Retinue BARRIER-FIRST – THE FIRST PHOTO-CONSCIOUS SKINCARE FOR MODERN SKINModern Skin Concept™ & Permeability Skin isn’t aging ...
   Updated: 2026-04-08T22:18:24Z
-- [Real Skin Retinue | The Modern Skin Concept™ — Marzia Rahmani, Founder's Perspective](https://www.realskinretinue.com/pages/the-modern-skin-concept): Seeing Beyond Surface Beauty: A Founder’s Perspective by Marzia Rahmani The heart, lungs, and liver are vital organs — protected by the rib cage. A...
-  Updated: 2026-04-08T22:18:46Z
+- [The Modern Skin Concept™: Founder's Perspective | Real Skin Retinue](https://www.realskinretinue.com/pages/the-modern-skin-concept): Seeing Beyond Surface Beauty: A Founder’s Perspective by Marzia Rahmani The heart, lungs, and liver are vital organs — protected by the rib cage. A...
+  Updated: 2026-05-05T17:06:31Z
+- [The Photo-Conscious Philosophy | Real Skin Retinue](https://www.realskinretinue.com/pages/photo-conscious-philosophy): ONE SERUM. NO COMPROMISE The Photo-Conscious Philosophy: Protection Without Compromise The term "photo-conscious" describes a formulation approach ...
+  Updated: 2026-05-05T20:33:23Z
 
 ## Policies
 
