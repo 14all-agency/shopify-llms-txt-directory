@@ -1,12 +1,14 @@
 # DND & Co. (https://delayednomad.shop)
 
+> DND & Co. is a digital products studio for independent creators and solopreneurs. We design guides, frameworks, and bundles that help you build clearer systems, work with more intention, and move forward — even when things feel messy.
+
 - Domain: https://delayednomad.shop
 - Locale: en
 - Currency: EUR
 - Timezone: Europe/Sofia
 - Created At: 2026-04-06T06:43:10Z
 - Contact Email: delayed.nomad.digital@outlook.com
-- Updated At: 2026-04-29T12:52:49.695Z
+- Updated At: 2026-05-08T00:00:26.777Z
 
 DND & Co. is a digital products studio for creators and solopreneurs who think in systems and build in motion. We make guides, templates, and frameworks for the ones doing it on their own terms.
 
