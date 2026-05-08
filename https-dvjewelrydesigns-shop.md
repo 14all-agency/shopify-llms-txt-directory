@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-10-21T15:48:20Z
 - Contact Email: info@dvjewelrydesigns.com
-- Updated At: 2026-04-29T16:04:44.998Z
+- Updated At: 2026-05-08T00:00:26.494Z
 
 ## Products
 
@@ -2474,7 +2474,7 @@
     Availability: Available
     Price: $1,900.00 USD
 - [Rough Diamond Ring - Sterling Silver Twig Design | DV Jewelry](https://dvjewelrydesigns.shop/products/rough-diamond-hand-sculpted-ring-in-sterling-silver): Handmade nature-inspired jewelry: Raw Diamond Sterling Silver Engagement Ring with twig and leaf detail. One-of-a-kind beauty for the nature lover.
-  Updated: 2026-03-26T14:22:17Z
+  Updated: 2026-05-01T05:25:19Z
   Vendor: DV Jewelry Designs
   Product Type: 
   Availability: Available
@@ -4150,7 +4150,7 @@
     Availability: Available
     Price: $165.00 USD
 - [Rough Diamond Ring - Sterling Silver Leaf Design | DV Jewelry](https://dvjewelrydesigns.shop/products/rough-diamond-engagement-ring): Unique handmade raw diamond engagement ring with intricate twig and leaf detail. Perfect for nature lovers seeking one-of-a-kind jewelry.
-  Updated: 2026-03-26T14:22:28Z
+  Updated: 2026-05-01T05:26:40Z
   Vendor: DV Jewelry Designs
   Product Type: Ring
   Availability: Available
@@ -5914,11 +5914,11 @@
     Availability: Available
     Price: $225.00 USD
 - [Hibiscus Morganite Ring - Sterling Silver Flower | DV Jewelry](https://dvjewelrydesigns.shop/products/hibiscus-ring-with-pink-morganite): Unique handcrafted ring, featuring a stunning hibiscus flower design with two intricately detailed leaves and a delicate twig, all crafted from sterling silver.
-  Updated: 2026-03-26T14:22:38Z
+  Updated: 2026-05-05T06:49:18Z
   Vendor: DV Jewelry Designs
   Product Type: Ring
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/HibiscusRingwithPinkMorganite2-Photoroom.jpg?v=1756238642
+  Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/HibiscusRingwithPinkMorganite1-Photoroom.jpg?v=1756238629
   - [4 / Sterling Silver - Polished](https://dvjewelrydesigns.shop/products/hibiscus-ring-with-pink-morganite?variant=50292545192221)
     Availability: Available
     Price: $375.00 USD
@@ -7203,7 +7203,7 @@
     Availability: Available
     Price: $4,100.00 USD
 - [Raw Diamond Ring - 14k Gold Twig Bridal Set | DV Jewelry](https://dvjewelrydesigns.shop/products/raw-diamond-gold-twig-ring-127): Three Diamond Twig Bridal Set using Rough Uncut Diamonds, hand sculpted with the center branch to focus on the diamond and two smaller diamonds on each side.
-  Updated: 2026-04-08T05:29:16Z
+  Updated: 2026-05-07T19:57:19Z
   Vendor: DV Jewelry Designs
   Product Type: Ring
   Availability: Available
@@ -10154,7 +10154,7 @@
     Availability: Available
     Price: $590.00 USD
 - [Sterling Silver Cable Chain 1.5mm | Classic Round Link Necklace Chain | DV Jewelry Designs](https://dvjewelrydesigns.shop/products/sterling-silver-cable-chains): Simple and classic 1.5mm sterling silver cable chain. Perfect for small pendants, charms, and drops. Handcrafted artisan jewelry by DV Jewelry Designs.
-  Updated: 2026-03-26T14:23:07Z
+  Updated: 2026-04-29T17:43:13Z
   Vendor: DV Jewelry Designs
   Product Type: Necklace Pendant
   Availability: Available
@@ -10750,162 +10750,187 @@
   - [8 / 14k Yellow Gold](https://dvjewelrydesigns.shop/products/unisex-branch-ring?variant=51191700455709)
     Availability: Available
     Price: $895.00 USD
-- [Oval Moissanite Twig Ring | Solid Gold Forest Jewelry | DV Jewelry Designs](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite): Hand-sculpted solid gold twig ring with oval moissanite. Organic branch setting, made to order. Available with sapphire, ruby & more. DV Jewelry Designs.
-  Updated: 2026-04-22T09:28:06Z
+- [Oval Moissanite Twig Bridal Set | Solid Gold Forest Jewelry | DV Jewelry Designs](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone): Hand-sculpted solid gold twig ring with oval moissanite. Organic branch setting, made to order. Available with sapphire, ruby & more. DV Jewelry Designs.
+  Updated: 2026-04-30T20:19:48Z
   Vendor: DV Jewelry Designs
   Product Type: Ring
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/d8356c2b-be5e-4d7c-ad35-826e54585c38.png?v=1776804851
-  - [4 / 14k Antiqued Yellow Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192011489565)
+  Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/Oval_Sapphire_Forest_Ring_rustic_spanish_background-Photoroom.jpg?v=1777571458
+  - [Moissanite / 14k Antiqued Rose Gold / 4](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192011522333)
     Availability: Available
-    Price: $3,050.00 USD
-  - [4 / 14k Antiqued Rose Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192011522333)
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Rose Gold / 4.25](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192011718941)
     Availability: Available
-    Price: $3,050.00 USD
-  - [4 / 14k Antiqued White Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192011555101)
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Rose Gold / 4.5](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192011915549)
     Availability: Available
-    Price: $3,050.00 USD
-  - [4 / 14k White Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192011587869)
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Rose Gold / 4.75](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192012112157)
     Availability: Available
-    Price: $3,050.00 USD
-  - [4 / 14k Yellow Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192011620637)
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Rose Gold / 5](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192012308765)
     Availability: Available
-    Price: $3,050.00 USD
-  - [4 / 14k Rose Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192011653405)
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Rose Gold / 5.25](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192012505373)
     Availability: Available
-    Price: $3,050.00 USD
-  - [4.25 / 14k Antiqued Yellow Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192011686173)
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Rose Gold / 5.5](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192012701981)
     Availability: Available
-    Price: $3,050.00 USD
-  - [4.25 / 14k Antiqued Rose Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192011718941)
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Rose Gold / 5.75](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192012898589)
     Availability: Available
-    Price: $3,050.00 USD
-  - [4.25 / 14k Antiqued White Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192011751709)
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Rose Gold / 6](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192013095197)
     Availability: Available
-    Price: $3,050.00 USD
-  - [4.25 / 14k White Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192011784477)
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Rose Gold / 6.25](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192013291805)
     Availability: Available
-    Price: $3,050.00 USD
-  - [4.25 / 14k Yellow Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192011817245)
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Rose Gold / 6.5](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192013488413)
     Availability: Available
-    Price: $3,050.00 USD
-  - [4.25 / 14k Rose Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192011850013)
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Rose Gold / 6.75](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192013685021)
     Availability: Available
-    Price: $3,050.00 USD
-  - [4.5 / 14k Antiqued Yellow Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192011882781)
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Rose Gold / 7](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192013881629)
     Availability: Available
-    Price: $3,050.00 USD
-  - [4.5 / 14k Antiqued Rose Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192011915549)
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Rose Gold / 7.25](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192014078237)
     Availability: Available
-    Price: $3,050.00 USD
-  - [4.5 / 14k Antiqued White Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192011948317)
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Rose Gold / 7.5](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192014274845)
     Availability: Available
-    Price: $3,050.00 USD
-  - [4.5 / 14k White Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192011981085)
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Rose Gold / 7.75](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192014471453)
     Availability: Available
-    Price: $3,050.00 USD
-  - [4.5 / 14k Yellow Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012013853)
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Rose Gold / 8](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192014668061)
     Availability: Available
-    Price: $3,050.00 USD
-  - [4.5 / 14k Rose Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012046621)
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Rose Gold / 8.25](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192014864669)
     Availability: Available
-    Price: $3,050.00 USD
-  - [4.75 / 14k Antiqued Yellow Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012079389)
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Rose Gold / 8.5](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192015061277)
     Availability: Available
-    Price: $3,050.00 USD
-  - [4.75 / 14k Antiqued Rose Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012112157)
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Rose Gold / 8.75](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192015257885)
     Availability: Available
-    Price: $3,050.00 USD
-  - [4.75 / 14k Antiqued White Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012144925)
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Rose Gold / 9](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192015454493)
     Availability: Available
-    Price: $3,050.00 USD
-  - [4.75 / 14k White Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012177693)
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Rose Gold / 9.25](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192015651101)
     Availability: Available
-    Price: $3,050.00 USD
-  - [4.75 / 14k Yellow Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012210461)
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Rose Gold / 9.5](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192015847709)
     Availability: Available
-    Price: $3,050.00 USD
-  - [4.75 / 14k Rose Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012243229)
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Rose Gold / 9.75](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192016044317)
     Availability: Available
-    Price: $3,050.00 USD
-  - [5 / 14k Antiqued Yellow Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012275997)
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Rose Gold / 10](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192016240925)
     Availability: Available
-    Price: $3,050.00 USD
-  - [5 / 14k Antiqued Rose Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012308765)
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Yellow Gold / 4](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192011489565)
     Availability: Available
-    Price: $3,050.00 USD
-  - [5 / 14k Antiqued White Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012341533)
+    Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/forest_oval_ring_rustic_spanish_background-Photoroom.jpg?v=1777571458
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Yellow Gold / 4.25](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192011686173)
     Availability: Available
-    Price: $3,050.00 USD
-  - [5 / 14k White Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012374301)
+    Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/forest_oval_ring_rustic_spanish_background-Photoroom.jpg?v=1777571458
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Yellow Gold / 4.5](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192011882781)
     Availability: Available
-    Price: $3,050.00 USD
-  - [5 / 14k Yellow Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012407069)
+    Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/forest_oval_ring_rustic_spanish_background-Photoroom.jpg?v=1777571458
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Yellow Gold / 4.75](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192012079389)
     Availability: Available
-    Price: $3,050.00 USD
-  - [5 / 14k Rose Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012439837)
+    Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/forest_oval_ring_rustic_spanish_background-Photoroom.jpg?v=1777571458
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Yellow Gold / 5](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192012275997)
     Availability: Available
-    Price: $3,050.00 USD
-  - [5.25 / 14k Antiqued Yellow Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012472605)
+    Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/forest_oval_ring_rustic_spanish_background-Photoroom.jpg?v=1777571458
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Yellow Gold / 5.25](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192012472605)
     Availability: Available
-    Price: $3,050.00 USD
-  - [5.25 / 14k Antiqued Rose Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012505373)
+    Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/forest_oval_ring_rustic_spanish_background-Photoroom.jpg?v=1777571458
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Yellow Gold / 5.5](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192012669213)
     Availability: Available
-    Price: $3,050.00 USD
-  - [5.25 / 14k Antiqued White Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012538141)
+    Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/forest_oval_ring_rustic_spanish_background-Photoroom.jpg?v=1777571458
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Yellow Gold / 5.75](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192012865821)
     Availability: Available
-    Price: $3,050.00 USD
-  - [5.25 / 14k White Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012570909)
+    Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/forest_oval_ring_rustic_spanish_background-Photoroom.jpg?v=1777571458
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Yellow Gold / 6](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192013062429)
     Availability: Available
-    Price: $3,050.00 USD
-  - [5.25 / 14k Yellow Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012603677)
+    Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/forest_oval_ring_rustic_spanish_background-Photoroom.jpg?v=1777571458
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Yellow Gold / 6.25](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192013259037)
     Availability: Available
-    Price: $3,050.00 USD
-  - [5.25 / 14k Rose Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012636445)
+    Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/forest_oval_ring_rustic_spanish_background-Photoroom.jpg?v=1777571458
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Yellow Gold / 6.5](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192013455645)
     Availability: Available
-    Price: $3,050.00 USD
-  - [5.5 / 14k Antiqued Yellow Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012669213)
+    Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/forest_oval_ring_rustic_spanish_background-Photoroom.jpg?v=1777571458
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Yellow Gold / 6.75](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192013652253)
     Availability: Available
-    Price: $3,050.00 USD
-  - [5.5 / 14k Antiqued Rose Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012701981)
+    Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/forest_oval_ring_rustic_spanish_background-Photoroom.jpg?v=1777571458
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Yellow Gold / 7](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192013848861)
     Availability: Available
-    Price: $3,050.00 USD
-  - [5.5 / 14k Antiqued White Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012734749)
+    Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/forest_oval_ring_rustic_spanish_background-Photoroom.jpg?v=1777571458
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Yellow Gold / 7.25](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192014045469)
     Availability: Available
-    Price: $3,050.00 USD
-  - [5.5 / 14k White Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012767517)
+    Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/forest_oval_ring_rustic_spanish_background-Photoroom.jpg?v=1777571458
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Yellow Gold / 7.5](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192014242077)
     Availability: Available
-    Price: $3,050.00 USD
-  - [5.5 / 14k Yellow Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012800285)
+    Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/forest_oval_ring_rustic_spanish_background-Photoroom.jpg?v=1777571458
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Yellow Gold / 7.75](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192014438685)
     Availability: Available
-    Price: $3,050.00 USD
-  - [5.5 / 14k Rose Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012833053)
+    Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/forest_oval_ring_rustic_spanish_background-Photoroom.jpg?v=1777571458
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Yellow Gold / 8](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192014635293)
     Availability: Available
-    Price: $3,050.00 USD
-  - [5.75 / 14k Antiqued Yellow Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012865821)
+    Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/forest_oval_ring_rustic_spanish_background-Photoroom.jpg?v=1777571458
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Yellow Gold / 8.25](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192014831901)
     Availability: Available
-    Price: $3,050.00 USD
-  - [5.75 / 14k Antiqued Rose Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012898589)
+    Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/forest_oval_ring_rustic_spanish_background-Photoroom.jpg?v=1777571458
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Yellow Gold / 8.5](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192015028509)
     Availability: Available
-    Price: $3,050.00 USD
-  - [5.75 / 14k Antiqued White Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012931357)
+    Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/forest_oval_ring_rustic_spanish_background-Photoroom.jpg?v=1777571458
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Yellow Gold / 8.75](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192015225117)
     Availability: Available
-    Price: $3,050.00 USD
-  - [5.75 / 14k White Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012964125)
+    Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/forest_oval_ring_rustic_spanish_background-Photoroom.jpg?v=1777571458
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Yellow Gold / 9](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192015421725)
     Availability: Available
-    Price: $3,050.00 USD
-  - [5.75 / 14k Yellow Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192012996893)
+    Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/forest_oval_ring_rustic_spanish_background-Photoroom.jpg?v=1777571458
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Yellow Gold / 9.25](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192015618333)
     Availability: Available
-    Price: $3,050.00 USD
-  - [5.75 / 14k Rose Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192013029661)
+    Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/forest_oval_ring_rustic_spanish_background-Photoroom.jpg?v=1777571458
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Yellow Gold / 9.5](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192015814941)
     Availability: Available
-    Price: $3,050.00 USD
-  - [6 / 14k Antiqued Yellow Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192013062429)
+    Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/forest_oval_ring_rustic_spanish_background-Photoroom.jpg?v=1777571458
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Yellow Gold / 9.75](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192016011549)
     Availability: Available
-    Price: $3,050.00 USD
-  - [6 / 14k Antiqued Rose Gold](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-moissanite?variant=51192013095197)
+    Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/forest_oval_ring_rustic_spanish_background-Photoroom.jpg?v=1777571458
+    Price: $3,700.00 USD
+  - [Moissanite / 14k Antiqued Yellow Gold / 10](https://dvjewelrydesigns.shop/products/forest-collection-twig-ring-oval-gemstone?variant=51192016208157)
     Availability: Available
-    Price: $3,050.00 USD
+    Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/forest_oval_ring_rustic_spanish_background-Photoroom.jpg?v=1777571458
+    Price: $3,700.00 USD
 - [Handmade Branch Wedding Band | Nature-Inspired Twig Ring | DV Jewelry Designs](https://dvjewelrydesigns.shop/products/handmade-branch-band-nature-inspired-ring): Hand-sculpted branch wedding band with intertwining twig design. Available in sterling silver & 14k gold. Unique nature-inspired ring by DV Jewelry Designs.
   Updated: 2026-04-22T15:10:07Z
   Vendor: DV Jewelry Designs
@@ -11268,7 +11293,53 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/raw_diamond_bridal_leaf_set_2_yellow_gold_1.jpg?v=1777055117
     Price: $2,140.00 USD
-[List Continued](https://dvjewelrydesigns.shop/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDE3NTE3NzMyNjg3NywibGFzdF92YWx1ZSI6IjEwMTc1MTc3MzI2ODc3In0=)
+- [14k Gold Plated Cattleya Orchid Necklace | Sterling Silver Pendant – DV Jewelry Designs](https://dvjewelrydesigns.shop/products/silver-plated-cattleya-orchid): Hand-sculpted sterling silver Cattleya orchid pendant plated in 14k rose or yellow gold. Available with or without a gold-filled cable chain. From $175.
+  Updated: 2026-04-30T05:03:03Z
+  Vendor: DV Jewelry Designs
+  Product Type: Necklace Pendant
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/rose_gold_orchid.jpg?v=1777480697
+  - [14k Rose Gold Plated - Silver / Pendant Only - No Chain](https://dvjewelrydesigns.shop/products/silver-plated-cattleya-orchid?variant=51223158063389)
+    Availability: Available
+    Price: $175.00 USD
+  - [14k Rose Gold Plated - Silver / 16" Plated Cable Chain](https://dvjewelrydesigns.shop/products/silver-plated-cattleya-orchid?variant=51223158096157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/rose_gold_orchid.jpg?v=1777480697
+    Price: $205.00 USD
+  - [14k Rose Gold Plated - Silver / 18" Plated Cable Chain](https://dvjewelrydesigns.shop/products/silver-plated-cattleya-orchid?variant=51223158128925)
+    Availability: Available
+    Price: $210.00 USD
+  - [14k Rose Gold Plated - Silver / 20" Plated Cable Chain](https://dvjewelrydesigns.shop/products/silver-plated-cattleya-orchid?variant=51223158161693)
+    Availability: Available
+    Price: $215.00 USD
+  - [14k Yellow Gold Plated - Silver / Pendant Only - No Chain](https://dvjewelrydesigns.shop/products/silver-plated-cattleya-orchid?variant=51223158194461)
+    Availability: Available
+    Price: $175.00 USD
+  - [14k Yellow Gold Plated - Silver / 16" Plated Cable Chain](https://dvjewelrydesigns.shop/products/silver-plated-cattleya-orchid?variant=51223158227229)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/image_39.png?v=1777480576
+    Price: $205.00 USD
+  - [14k Yellow Gold Plated - Silver / 18" Plated Cable Chain](https://dvjewelrydesigns.shop/products/silver-plated-cattleya-orchid?variant=51223158259997)
+    Availability: Available
+    Price: $210.00 USD
+  - [14k Yellow Gold Plated - Silver / 20" Plated Cable Chain](https://dvjewelrydesigns.shop/products/silver-plated-cattleya-orchid?variant=51223158292765)
+    Availability: Available
+    Price: $215.00 USD
+- [Sterling Silver Cattleya Orchid Necklace | Handmade Flower Pendant – DV Jewelry Designs](https://dvjewelrydesigns.shop/products/sterling-silver-cattleya-orchid-pendant): Hand-sculpted 92.5 sterling silver Cattleya orchid pendant, 1" wide. Wear as a pendant only or add a sterling silver cable chain. Handmade by DV Jewelry Designs.
+  Updated: 2026-04-30T05:08:55Z
+  Vendor: DV Jewelry Designs
+  Product Type: Necklace Pendant
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/orchidpendantinsilver.png?v=1777480576
+  Price: $175.00 USD
+- [Custom: Men's Vine Ring - Antique Rose Gold](https://dvjewelrydesigns.shop/products/custom-mens-vine-ring-antique-rose-gold): New Design, #257 Material: 14k Rose Gold Finish: Antiqued Size: 9
+  Updated: 2026-05-07T22:22:05Z
+  Vendor: DV Jewelry Designs
+  Product Type: Ring
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/mensband3-Photoroom.jpg?v=1778192063
+  Price: $1,333.33 USD
+[List Continued](https://dvjewelrydesigns.shop/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDE4NzkwNTM2ODM0OSwibGFzdF92YWx1ZSI6IjEwMTg3OTA1MzY4MzQ5In0=)
 
 ## Collections
 
@@ -11279,8 +11350,8 @@
   Updated: 2026-03-26T14:21:59Z
   Total Products: 13
 - [Gemstone Rings - Handcrafted Moss Agate & Nature-Inspired Designs | DV Jewelry](https://dvjewelrydesigns.shop/collections/gemstone-rings): Handcrafted gemstone rings in sterling silver & gold. Nature-inspired designs featuring moss agate, raw diamonds & more. Artisan-made engagement & statement rings.
-  Updated: 2026-04-08T14:13:07Z
-  Total Products: 36
+  Updated: 2026-05-07T11:28:37Z
+  Total Products: 38
 - [Handmade Wedding Bands & Statement Rings - Nature-Inspired Designs - DV Jewelry](https://dvjewelrydesigns.shop/collections/wedding-bands-and-statement-jewelry): Artisan wedding bands & statement jewelry in silver & gold. Unique twig, leaf & nature-inspired designs. Handcrafted engagement & wedding ring sets.
   Updated: 2026-04-29T11:24:33Z
   Total Products: 43
@@ -11288,10 +11359,10 @@
   Updated: 2026-04-05T17:01:30Z
   Total Products: 6
 - [Handcrafted Necklaces & Pendants - Raw Diamond & Gemstone Designs - DV Jewelry](https://dvjewelrydesigns.shop/collections/necklaces-pendants): Artisan necklaces & pendants with raw diamonds, gemstones & nature motifs. Handmade in sterling silver & gold. Unique nature-inspired jewelry.
-  Updated: 2026-04-10T11:24:49Z
-  Total Products: 18
+  Updated: 2026-04-29T17:08:49Z
+  Total Products: 20
 - [Moissanite Jewelry & Engagement Rings - Handcrafted Nature Designs - DV Jewelry](https://dvjewelrydesigns.shop/collections/moissanite-jewelry): Handcrafted moissanite rings, necklaces & earrings in silver & gold. Ethical, brilliant alternative to diamonds. Nature-inspired artisan designs.
-  Updated: 2026-04-21T22:37:43Z
+  Updated: 2026-04-30T20:17:08Z
   Total Products: 18
 - [Handcrafted Nature-Inspired Bracelets in Silver & Gold - DV Jewelry Designs](https://dvjewelrydesigns.shop/collections/bracelets): Artisan-made bracelets with leaf, twig & beach designs. Handcrafted in sterling silver & gold. Unique nature-inspired jewelry pieces.
   Updated: 2026-03-26T14:22:00Z
@@ -11300,25 +11371,25 @@
   Updated: 2026-04-08T14:13:07Z
   Total Products: 25
 - [Recommended products (Seguno)](https://dvjewelrydesigns.shop/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
-  Updated: 2026-04-29T11:24:33Z
-  Total Products: 132
+  Updated: 2026-05-07T22:16:00Z
+  Total Products: 135
 - [Olive Branch Jewelry - Handcrafted Silver & Gold Nature Designs | DV Jewelry](https://dvjewelrydesigns.shop/collections/olive-branch-collection): Shop the Olive Branch Collection — handcrafted rings, necklaces & earrings in sterling silver & 14k gold with delicate olive branch motifs.
   Updated: 2026-04-01T17:15:42Z
   Total Products: 5
 - [One-of-a-Kind Handmade Jewelry | DV Jewelry Designs](https://dvjewelrydesigns.shop/collections/one-of-a-kind-jewelry): Discover unique one-of-a-kind jewelry pieces. Handcrafted rings, necklaces & pendants featuring raw diamonds, gemstones & nature-inspired designs.
-  Updated: 2026-04-08T17:33:05Z
-  Total Products: 11
+  Updated: 2026-04-30T17:26:28Z
+  Total Products: 12
 - [Moss Agate Jewelry - Rings, Necklaces & Pendants | DV Jewelry](https://dvjewelrydesigns.shop/collections/moss-agate): Handcrafted moss agate rings, necklaces & pendants in sterling silver and gold. Unique nature-inspired twig designs featuring genuine moss agate gemstones
   Updated: 2026-04-10T11:24:49Z
   Total Products: 8
 - [Gift Cards - DV Jewelry Designs | Handmade Jewelry Gifts](https://dvjewelrydesigns.shop/collections/gift-card): Give the perfect gift with a DV Jewelry Designs gift card. Let them choose their favorite handmade nature-inspired jewelry. Virtual gift cards available.
-  Updated: 2026-04-25T11:28:16Z
-  Total Products: 6
+  Updated: 2026-05-07T22:15:33Z
+  Total Products: 7
 - [Forest Collection - Nature-Inspired Jewelry | DV Jewelry](https://dvjewelrydesigns.shop/collections/forest): Explore the Forest Collection featuring handcrafted nature-inspired jewelry. Unique designs in sterling silver and gold with organic flowing details.
-  Updated: 2026-04-21T22:38:58Z
+  Updated: 2026-04-30T20:17:08Z
   Total Products: 6
 - [Nature-Inspired Engagement Rings & Wedding Bands | Handcrafted Bridal Jewelry - DV Jewelry Designs](https://dvjewelrydesigns.shop/collections/bridal-collection): Handcrafted engagement rings and wedding bands with twig, leaf, and branch designs. Ethically sourced raw diamonds and gemstones. Perfect for fall 2026 weddings.
-  Updated: 2026-04-24T17:48:37Z
+  Updated: 2026-04-30T20:17:08Z
   Total Products: 20
 - [Mother's Day Jewelry Gifts – Handcrafted Sterling Silver & Gold | DV Jewelry Designs](https://dvjewelrydesigns.shop/collections/mothers-day-gift-ideas): Shop handcrafted Mother's Day jewelry in sterling silver & 14k gold. Nature-inspired rings, necklaces & earrings with moss agate, moissanite & raw diamonds. Order soon for delivery in time.
   Updated: 2026-04-27T17:37:52Z
