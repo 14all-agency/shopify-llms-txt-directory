@@ -23,7 +23,7 @@ Natur-Sense is commonly associated with queries related to aloe vera gel, natura
 - Timezone: America/New_York
 - Created At: 2019-08-07T19:00:28Z
 - Contact Email: support@natur-sense.com
-- Updated At: 2026-05-01T00:00:33.624Z
+- Updated At: 2026-05-08T13:15:11.930Z
 
 Natur-Sense.com is a trusted source for high-quality, nature-inspired wellness and personal care products, with a focus on purity, effectiveness, and transparency. Our flagship Aloe Vera Gel and related products are formulated to support healthy skin, hydration, and everyday well-being.
 
@@ -31,45 +31,45 @@ We are committed to providing accurate product information, clean ingredient sta
 
 ## Products
 
-- [NaturSense Organic Aloe Gel 12oz - Pure, Soothing Moisturizer](https://natur-sense.com/products/natursense-organic-aloe-vera-gel-12oz): Discover NaturSense 12oz Organic Aloe Vera Gel. Our pure, cold-pressed, vitamin-rich formula soothes skin, calms sunburn, and conditions hair. Shop now!
-  Updated: 2026-04-29T07:54:56Z
+- [99% Organic Aloe Vera Gel, Soothing Moisturizer 12oz | NaturSense](https://natur-sense.com/products/natursense-organic-aloe-vera-gel-12oz): 99% Organic Aloe Vera Gel, cold-pressed with vitamins A, C & E. Pure, no sticky residue. Hydrates skin, soothes sunburn, conditions hair. 12oz pump bottle.
+  Updated: 2026-05-06T23:22:17Z
   Vendor: NaturSense
-  Product Type: Skincare
+  Product Type: Organic > Skin Care > Aloe Vera Gel > Sunburn Relief
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/5706/4015/files/NS-Home-Products-12ozAloe-12.jpg?v=1772465770
   Price: $17.89 USD
-- [NaturSense 64.2oz - 99% Organic Aloe Gel - Soothes Sunburn, Moisturizes Skin](https://natur-sense.com/products/natursense-organic-aloe-vera-gel-64oz): NaturSense 64oz Pure Organic Aloe Gel. cold-pressed, and packed with vitamins. Soothes sunburn, moisturizes skin, and nourishes hair & scalp naturally.
-  Updated: 2026-04-30T09:44:46Z
+- [99% Organic Aloe Vera Gel Refill, 64oz Moisturizer | NaturSense](https://natur-sense.com/products/natursense-organic-aloe-vera-gel-64oz): 99% Organic Aloe Vera Gel, cold-pressed with vitamins A, C & E. Pure, no sticky residue. Hydrates skin, soothes sunburn, conditions hair & scalp. 64oz refill bottle.
+  Updated: 2026-05-08T01:28:48Z
   Vendor: NaturSense
-  Product Type: Skincare
+  Product Type: Organic > Skin Care > Aloe Vera Gel > Sunburn Relief
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/5706/4015/files/64-oz-aloe-gel-lifestile-1080x1080-2025.jpg?v=1756905834
   Price: $55.89 USD
-- [NaturSense Organic Castile Soap | 64 fl oz (Gallon) Multi-Purpose Natural Liquid Soap](https://natur-sense.com/products/organic-castile-soap-64oz): NaturSense Organic Castile Soap: Gentle, multi-purpose liquid soap for body, hair, pets & home. Made with 100% USDA organic oils. Shop the 64 fl oz (gallon) size today!
-  Updated: 2026-04-30T21:00:17Z
+- [100% Organic Castile Soap, Unscented 64oz with Pump | NaturSense](https://natur-sense.com/products/organic-castile-soap-64oz): 100% Organic Pure Castile Soap with coconut, olive & aloe oils. Unscented and gentle for body, baby, hands, pets & household cleaning. 64oz with pump.
+  Updated: 2026-05-08T12:01:26Z
   Vendor: NaturSense
-  Product Type: Skincare
+  Product Type: Organic > Personal Care > Castile Soap > Multi-Purpose Liquid Soap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/5706/4015/files/64-oz-castile-soap-lifestile-1080x1080.jpg?v=1703970964
   Price: $29.89 USD
-- [Organic Aloe Vera Gel 2-Pack 64oz w/Pump - NaturSense 99% Pure](https://natur-sense.com/products/organic-aloe-vera-gel-2pack-64oz-pump): Soothe & hydrate with NaturSense Organic Aloe Vera Gel (64 fl oz). Perfect for skin, hair, sunburns, and daily moisturizing. Fast-absorbing & non-sticky.
-  Updated: 2026-04-30T02:56:12Z
+- [99% Organic Aloe Vera Gel, 2-Pack 64oz Bottles + Pump | NaturSense](https://natur-sense.com/products/organic-aloe-vera-gel-2pack-64oz-pump): 99% Organic Aloe Vera Gel, cold-pressed with vitamins A, C & E. No sticky residue. Hydrates skin, soothes sunburn, conditions hair & scalp. 2-Pack 64oz + pump.
+  Updated: 2026-05-08T03:24:59Z
   Vendor: NaturSense
-  Product Type: Skincare
+  Product Type: Organic > Skin Care > Aloe Vera Gel > Sunburn Relief
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/5706/4015/files/71yrOT7A61L._SX679.jpg?v=1754053843
   Price: $98.89 USD
-- [NaturSense Organic Castile Soap 2-Pack (128oz Total) | Unscented for Baby, Body & Home](https://natur-sense.com/products/pure-castile-soap-organic-unscented-2pack-64oz): Premium castile soap made with 100% organic coconut, olive & aloe oils. Safe for babies, pets & household cleaning. Unscented 2-pack, 64oz bottles w/pumps.
-  Updated: 2026-04-28T09:26:47Z
+- [100% Organic Castile Soap, Unscented 2-Pack 64oz + Pump | NaturSense](https://natur-sense.com/products/pure-castile-soap-organic-unscented-2pack-64oz): 100% Organic Pure Castile Soap with coconut, olive & aloe oils. Unscented and gentle for body, baby, hands, pets & household cleaning. 2-Pack 64oz + pump.
+  Updated: 2026-05-08T03:14:29Z
   Vendor: NaturSense
-  Product Type: Skincare
+  Product Type: Organic > Personal Care > Castile Soap > Multi-Purpose Liquid Soap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/5706/4015/files/ns-castile-soap-x2-01.jpg?v=1754183939
   Price: $49.89 USD
-- [Methylene Blue 1% Solution: USP Grade for Cognitive & Mitochondrial Support](https://natur-sense.com/products/natursense-methylene-blue-1-percent-usp-grade): Discover NaturSense USP Grade Methylene Blue 1% Solution. Support cognitive clarity, memory, and cellular energy production with our research-backed, pharmaceutical-grade formula. Enhance your research today!
-  Updated: 2026-04-01T09:21:06Z
+- [Methylene Blue 1% Solution, USP Grade Mint 1.69oz | NaturSense](https://natur-sense.com/products/natursense-methylene-blue-1-percent-usp-grade): USP Grade Methylene Blue 1% Solution with soft mint flavor. Pharmaceutical-grade purity, third-party lab tested. 1.69oz (50ml) dropper bottle. Made in USA.
+  Updated: 2026-05-06T23:14:55Z
   Vendor: NaturSense
-  Product Type: Skincare
+  Product Type: Supplements > Cellular Energy > Methylene Blue > USP Grade
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/5706/4015/files/Methylene-Blue-bottle-close-up-plus-dropper-revised.jpg?v=1756833716
   Price: $28.89 USD
@@ -77,19 +77,19 @@ We are committed to providing accurate product information, clean ingredient sta
 ## Collections
 
 - [Home page](https://natur-sense.com/collections/frontpage)
-  Updated: 2026-04-27T11:13:19Z
+  Updated: 2026-05-07T11:11:36Z
   Total Products: 5
 - [all](https://natur-sense.com/collections/all)
-  Updated: 2026-04-28T11:10:53Z
+  Updated: 2026-05-07T11:11:36Z
   Total Products: 7
 - [Aloe Vera Products](https://natur-sense.com/collections/aloe-vera-products)
-  Updated: 2026-04-28T11:10:53Z
+  Updated: 2026-05-07T11:11:36Z
   Total Products: 3
 - [Castile Soap Products](https://natur-sense.com/collections/castile-soap-products)
-  Updated: 2026-04-13T11:10:40Z
+  Updated: 2026-05-04T17:45:58Z
   Total Products: 2
 - [Methylene Blue Products](https://natur-sense.com/collections/methylene-blue-products)
-  Updated: 2026-04-01T09:21:04Z
+  Updated: 2026-05-04T17:46:09Z
   Total Products: 1
 
 ## Blogs
