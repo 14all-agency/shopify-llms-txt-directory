@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2023-06-04T13:58:10Z
 - Contact Email: hello@thephoenixcandles.com
-- Updated At: 2026-04-30T19:37:25.491Z
+- Updated At: 2026-05-08T00:00:23.436Z
 
 ## Products
 
 - [Perseverance | Aromachology Soy Candle with Tiger's Eye Crystal | The Phoenix Candles](https://thephoenixcandles.com/products/perseverance-tigers-eye-crystal-infused-candle): Meet Perseverance — a handmade aromachology soy candle with Tiger's Eye crystal. Gardenia & mandarin scent. Toxin-free, vegan, wooden wick. Made in New Jersey.
-  Updated: 2026-04-08T19:15:02Z
+  Updated: 2026-05-06T18:16:43Z
   Vendor: My Store
   Product Type: Candle
   Availability: Available
@@ -144,7 +144,7 @@
     Author: Shaina Brooks
     Tags: aromachology candles, invisible load women, letter to overextended mom, mindfulness for busy moms, self-care for overwhelmed women, self-care rituals for women, you are enough
   - [What Is Aromachology? The Science Behind Why Scent Changes How You Feel | The Phoenix Candles](https://thephoenixcandles.com/blogs/rise-up/what-is-aromachology): What Is Aromachology? The Science Behind Why Scent Changes How You Feel | The Phoenix Candles
-    Updated: 2026-04-23T00:00:07Z
+    Updated: 2026-04-30T20:57:57Z
     Author: Shaina Brooks
     Tags: aromachology candles, aromachology vs aromatherapy, crystal infused soy candles, fragrance and emotions, how scent affects mood, science of scent, self-care ritual candles, what is aromachology
 
