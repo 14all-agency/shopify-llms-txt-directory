@@ -6,28 +6,28 @@
 - Timezone: America/Chicago
 - Created At: 2025-08-26T21:21:43Z
 - Contact Email: sales@detekthome.com
-- Updated At: 2026-04-28T00:00:41.383Z
+- Updated At: 2026-05-08T00:00:42.968Z
 
 ## Products
 
 - [Blue-Green Algae Toxin Test 99% Accurate | Detekt Home](https://detekthome.com/products/blue-green-algae-toxin-test): Blue-green algae toxin test kit with 99% accuracy and 10-minute results. EPA trusted, no lab fees, made in USA. Learn more today.
-  Updated: 2026-04-18T02:36:49Z
+  Updated: 2026-04-29T04:12:28Z
   Vendor: Detekt Rapid Tests
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/AlgaeAmazonImagesV3-06.png?v=1756319025
-  - [One Pack (2 tests)](https://detekthome.com/products/blue-green-algae-toxin-test?variant=46805355987044)
+  Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/Algae_Amazon_ImagesV4_1pc.png?v=1777392664
+  - [1 Test](https://detekthome.com/products/blue-green-algae-toxin-test?variant=46805355987044)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/AlgaeAmazonImagesV3-06.png?v=1756319025
-    Price: $28.34 USD
-  - [Two Pack (4 tests)](https://detekthome.com/products/blue-green-algae-toxin-test?variant=46805356019812)
+    Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/Algae_Amazon_ImagesV4_1pc.png?v=1777392664
+    Price: $22.99 USD
+  - [2 Tests](https://detekthome.com/products/blue-green-algae-toxin-test?variant=46805356019812)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/Algae_Amazon_ImagesV3-08.png?v=1756847800
-    Price: $49.99 USD
-  - [Three Pack (6 tests)](https://detekthome.com/products/blue-green-algae-toxin-test?variant=46805356052580)
+    Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/Algae_Amazon_ImagesV4_2pc_a8164d04-1377-49bc-a562-936f1e780b41.png?v=1777392678
+    Price: $34.99 USD
+  - [3 Tests](https://detekthome.com/products/blue-green-algae-toxin-test?variant=46805356052580)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/Algae_Amazon_ImagesV3-09.png?v=1756847826
-    Price: $69.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/Algae_Amazon_ImagesV4_6pc_e7f1714e-25e0-46ce-a542-5d48777f85f2.png?v=1777392691
+    Price: $89.99 USD
 - [Lead Test Kit - Water & Lead Paint Test for Home](https://detekthome.com/products/total-toxic-lead-test-kit): Detect dangerous lead in tap water and painted surfaces with our easy, at-home lead test kit. Results in 5 minutes. Made in USA. Trusted by families. Order now!
   Updated: 2026-04-16T04:19:35Z
   Vendor: Detekt Rapid Tests
@@ -57,7 +57,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/Bacteria_in_Water_Amazon_Images_DIPSLIDES_V4-08.png?v=1760979166
     Price: $19.99 USD
 - [Surface Bacteria Test Kit Home Use | Detekt Home](https://detekthome.com/products/home-sanitation-test-kit): Home & kitchen sanitation test kit for surfaces detects coliforms, Salmonella, and mold on counters, boards, and appliances. Learn more today.
-  Updated: 2026-04-16T03:32:33Z
+  Updated: 2026-05-01T17:33:28Z
   Vendor: Detekt Rapid Tests
   Product Type: 
   Availability: Available
@@ -97,7 +97,7 @@
   Image: https://cdn.shopify.com/s/files/1/0731/9234/1604/files/r.png?v=1756925912
   Price: $29.99 USD
 - [DIY Mold Test Kit 6pc 72-Hour Results | Detekt Home](https://detekthome.com/products/mold-test-kit): DIY Mold Test Kit with 6 pieces and visual results in 72 hours. Detect mold, bacteria, and fungus at home. Made in USA. Learn more today.
-  Updated: 2026-04-23T23:47:58Z
+  Updated: 2026-05-06T15:37:22Z
   Vendor: Detekt Rapid Tests
   Product Type: 
   Availability: Available
@@ -188,22 +188,22 @@
   Updated: 2026-04-24T11:17:39Z
   Total Products: 4
 - [Algae Test Kit - Blue Green Algae & Cyanobacteria](https://detekthome.com/collections/algae-toxin): Algae test kit detects toxic blue green algae & cyanobacteria in ponds, lakes & reservoirs. Results in 10 minutes. 99% accurate. EPA trusted. Made in USA.
-  Updated: 2026-04-18T11:21:05Z
+  Updated: 2026-04-28T16:10:50Z
   Total Products: 1
 - [Home Air Quality Test Kit - Mold & Radon Detection](https://detekthome.com/collections/air-quality): Home air quality test kits detect mold spores, radon gas & indoor air contaminants. Results in minutes. 99% accurate. EPA trusted. Lab-grade. Made in USA.
-  Updated: 2026-04-24T11:17:39Z
+  Updated: 2026-05-07T11:32:52Z
   Total Products: 3
 - [Bacteria Test Kit - Water & Surface Microbial Test](https://detekthome.com/collections/bacteria): Bacteria test kits detect E. coli, coliform & harmful microbes in water, kitchen & home surfaces. Results in minutes. 99% accurate. EPA trusted. Made in USA.
-  Updated: 2026-04-24T11:17:39Z
+  Updated: 2026-05-07T11:32:52Z
   Total Products: 4
 - [Water Quality](https://detekthome.com/collections/water-quality)
-  Updated: 2026-04-24T11:17:39Z
+  Updated: 2026-04-28T16:10:50Z
   Total Products: 9
 - [Radon Test Kit - Home Radon Gas Detection & Testing](https://detekthome.com/collections/radon-gas): Radon test kits detect dangerous radon gas in your home basement & living spaces. DIY radon testing with results in minutes. 99% accurate. EPA trusted. Made in USA.
   Updated: 2026-04-24T11:17:39Z
   Total Products: 2
 - [Mold Test Kit - Home Air Quality & DIY Mold Detection](https://detekthome.com/collections/mold): Mold test kits detect airborne mold spores & indoor air quality issues in your home. Lab-grade results in minutes. 99% accurate. EPA trusted. Made in USA.
-  Updated: 2026-04-24T11:17:39Z
+  Updated: 2026-05-07T11:32:52Z
   Total Products: 4
 - [Water Purity Test Kit - Drinking Water & Well Water Testing](https://detekthome.com/collections/water-purity): Water test kits detect bacteria, lead & contaminants in drinking water, well water & tap water. Results in minutes. 99% accurate. EPA trusted. Made in USA.
   Updated: 2026-04-24T11:17:39Z
@@ -212,16 +212,16 @@
   Updated: 2026-04-24T11:17:39Z
   Total Products: 1
 - [Best Sellers](https://detekthome.com/collections/best-sellers)
-  Updated: 2026-04-24T11:17:39Z
+  Updated: 2026-05-07T11:32:52Z
   Total Products: 12
 - [Full Home Tests](https://detekthome.com/collections/full-home-tests)
   Updated: 2026-04-24T11:17:39Z
   Total Products: 3
 - [Sanitation](https://detekthome.com/collections/sanitation)
-  Updated: 2026-04-21T11:20:50Z
+  Updated: 2026-05-02T11:18:43Z
   Total Products: 2
 - [Mold](https://detekthome.com/collections/mold-1)
-  Updated: 2026-04-24T11:17:39Z
+  Updated: 2026-05-07T11:32:52Z
   Total Products: 1
 - [Bulk & Wholesale](https://detekthome.com/collections/bulk-wholesale)
   Updated: 2026-03-12T20:19:32Z
