@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-04-15T11:28:54Z
 - Contact Email: yasminehall401@gmail.com
-- Updated At: 2026-04-30T00:00:30.417Z
+- Updated At: 2026-05-08T00:00:34.807Z
 
 ## Products
 
@@ -545,7 +545,7 @@
   Image: https://cdn.shopify.com/s/files/1/0676/1080/4290/files/2213524368724.jpg?v=1776252722
   Price: $41.79 USD
 - [Resistance Bands Sealing Elastic Booty Sport Bodybuilding Rubber Band For Fitness Gym Leagues Equipment Sports Mini Yoga](https://yasminegadgetglamor.store/products/resistance-bands-sealing-elastic-booty-sport-bodybuilding-rubber-band-for-fitness-gym-leagues-equipment-sports-mini-yoga): Overview Suitable for young people and women with small strength, it can effectively stretch and exercise the whole body muscles, stabilize posture and control the stretching distance, effectively improve the physical activity ability, and shape the perfect body curve. It is an auxiliary for yoga and pilates. Can increase the fun of exercise, change a single exercise style. The circle has good resilience, and the movement in yoga training with ease, to achieve better plastic purposes. 4 tension belts of different colors and thicknesses + cloth bags + instructions should be loaded into color box 120g/ set at the same time Specification Purple 600*50* 0.5mm tension value 10-15lb 16g Pink 600*50* 0.7mm tension value 15-20lb 20g Blue 600*50*0.9mm tension value 20-30lb 26g Grey 600*50*1.1mm tension value 30-40lb 31g [cloth bag] : 11*18.5cm [color box] : 17*9*1.8cm [box size] : 54*41*23cm 125 sets/box weight: about 13kg [characteristics] : the tension belt has added lines on the inside, which can play a non-slip effect Cleaning and durability: washable and wipes with a dry and wet cloth. [advantages] : soft, strong resilience, wear resistance, good comprehensive performance. Package Content 1* band
-  Updated: 2026-04-22T11:51:49Z
+  Updated: 2026-05-02T18:23:17Z
   Vendor: null
   Product Type: Health and wellnes &fitness product
   Availability: Available
@@ -1105,10 +1105,10 @@
   Updated: 2026-04-15T18:49:15Z
   Total Products: 6
 - [EnergEase Series](https://yasminegadgetglamor.store/collections/energease-series)
-  Updated: 2026-04-23T11:34:27Z
+  Updated: 2026-05-03T11:37:49Z
   Total Products: 6
 - [BlissBloom Line](https://yasminegadgetglamor.store/collections/blissbloom-line)
-  Updated: 2026-04-23T11:34:27Z
+  Updated: 2026-05-03T11:37:49Z
   Total Products: 5
 - [ZenVibe Collection](https://yasminegadgetglamor.store/collections/zenvibe-collection)
   Updated: 2026-04-15T18:51:36Z
