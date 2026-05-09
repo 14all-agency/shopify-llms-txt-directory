@@ -6,49 +6,49 @@
 - Timezone: America/New_York
 - Created At: 2023-09-05T05:49:56Z
 - Contact Email: sales@ultraiser.com
-- Updated At: 2026-04-14T00:00:26.078Z
+- Updated At: 2026-05-09T00:00:26.488Z
 
 The ULTRAISER is a portable HIFU (High-Intensity Focused Ultrasound) machine designed for home use, focusing on anti-aging and skin smoothing treatments. It is available for purchase online.
 
 ## Products
 
 - [Home use HIFU Device | HIFU Machine Home use | ULTRAISER P1](https://www.ultraiser.com/products/ultraiser-p1-portable-home-use-hifu-device): HIFU ultrasound device for home use: ULTRAISER P1. Home use HIFU Device designed to be used as a HIFU portable machine. The benefit of HIFU without clinic sessions.
-  Updated: 2026-01-16T12:24:36Z
+  Updated: 2026-04-20T19:47:03Z
   Vendor: Ultraiser
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0818/9250/7927/files/ULTRAISERP1-PortableHome-useHIFUDevice.jpg?v=1699067484
   Price: £799.00 GBP
 - [HIFU Machine Professional | HIFU Pro | ULTRAISER P1 Pro](https://www.ultraiser.com/products/ultraiser-p1-pro-professional-portable-hifu-device): Professional HIFU machine ULTRAISER P1 Pro: Optimally designed for treatments around eyes, wrinkles and curved areas of the face. Your professional HIFU device!
-  Updated: 2026-02-20T19:32:36Z
+  Updated: 2026-05-05T22:29:06Z
   Vendor: Ultraiser
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0818/9250/7927/files/ULTRAISERP1Pro-ProfessionalPortableHIFUDevice.jpg?v=1699067670
   Price: £949.00 GBP
 - [HIFU Cartridge | HIFU Replacement Cartridge (2mm)](https://www.ultraiser.com/products/hifu-replacement-cartridge-2mm): The 2mm HIFU Cartridge price is £199, provides up to 100,000 shots to a skin depth of 4mm and has been specifically developed for use with ULTRAISER.
-  Updated: 2026-02-26T14:30:17Z
+  Updated: 2026-04-20T19:47:04Z
   Vendor: Ultraiser
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0818/9250/7927/files/5ec50aaf25bdd.jpg?v=1701154504
   Price: £199.00 GBP
 - [HIFU Cartridge | HIFU Replacement Cartridge (4mm) | ULTRAISER](https://www.ultraiser.com/products/hifu-replacement-cartridge-4mm): The 4mm HIFU Cartridge price is £199, provides up to 100,000 shots to a skin depth of 4mm and has been specifically developed for use with ULTRAISER.
-  Updated: 2026-03-08T00:11:35Z
+  Updated: 2026-04-24T12:37:56Z
   Vendor: Ultraiser
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0818/9250/7927/files/5ec50b6bc8c36.jpg?v=1701155093
   Price: £199.00 GBP
 - [HIFU Gel | Ultrasound Gel | ULTRAISER](https://www.ultraiser.com/products/ultrasound-gel): The HIFU Gel TranShape has been specifically produced for HIFU devices and enables optimal ultrasound transmission to the skin. Ultrasound gel ingredients.
-  Updated: 2026-03-08T00:11:36Z
+  Updated: 2026-04-30T17:29:27Z
   Vendor: Ultraiser
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0818/9250/7927/files/5ea15cb963e0f.jpg?v=1701156077
   Price: £9.99 GBP
 - [HIFU for Beauty Clinics | ULTRAISER Clinic (eHM15)](https://www.ultraiser.com/products/ultraiser-clinic-ehm15): ULTRAISER Clinic (eHM15) is a HIFU device for beauty clinics providing a completely non-invasive skin lifting / fat removal .
-  Updated: 2025-10-20T00:07:36Z
+  Updated: 2026-04-20T19:47:05Z
   Vendor: Ultraiser
   Product Type: 
   Availability: Available
@@ -58,10 +58,10 @@ The ULTRAISER is a portable HIFU (High-Intensity Focused Ultrasound) machine des
 ## Collections
 
 - [ULTRAISER](https://www.ultraiser.com/collections/frontpage)
-  Updated: 2026-03-08T11:40:34Z
+  Updated: 2026-05-06T12:06:05Z
   Total Products: 5
 - [Home](https://www.ultraiser.com/collections/home)
-  Updated: 2026-02-21T12:44:31Z
+  Updated: 2026-05-06T12:06:05Z
   Total Products: 2
 
 ## Blogs
