@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-10-02T08:02:20Z
 - Contact Email: info@noorns.com
-- Updated At: 2026-04-29T00:00:39.642Z
+- Updated At: 2026-05-09T00:00:41.269Z
 
 ## Products
 
@@ -109,7 +109,7 @@
   Image: https://cdn.shopify.com/s/files/1/0972/8183/5353/files/someone-in-a-lab-coat-giving-a-using-a-laptop-to-consult-someone-online.png?v=1772009678
   Price: €299.00 EUR
 - [HPA-Axis & Methylation](https://noorns.com/products/hpa-axis-methylation): Sleep off the “wired-but-tired” cycle by understanding how your body makes and clears cortisol. Ideal for people with stress reactivity, poor sleep, afternoon crashes, or night waking. What you’ll learn: Your stress-response (HPA) pattern and timing issues that disrupt rest. What you’ll do: Use routines, nutrition, and light/timing cues to smooth your daily rhythm. Why it helps: Aligns your schedule and supports your cortisol biology. Pairs with: Methylation & Diet.
-  Updated: 2026-03-19T06:23:35Z
+  Updated: 2026-05-04T19:08:47Z
   Vendor: Noorns
   Product Type: Digital Nutrigenomics Nutrition Report
   Availability: Available
@@ -133,13 +133,13 @@
 ## Collections
 
 - [Home page](https://noorns.com/collections/frontpage)
-  Updated: 2026-04-28T11:44:58Z
+  Updated: 2026-05-05T11:45:15Z
   Total Products: 15
 - [All Products](https://noorns.com/collections/all-nutrigenomics-reports)
-  Updated: 2026-04-28T11:44:58Z
+  Updated: 2026-05-05T11:45:15Z
   Total Products: 17
 - [Nutrigenomics Tests](https://noorns.com/collections/nutrition-reports)
-  Updated: 2026-04-28T11:44:58Z
+  Updated: 2026-05-05T11:45:15Z
   Total Products: 15
 - [Consultations](https://noorns.com/collections/consultations)
   Updated: 2026-02-25T08:50:16Z
