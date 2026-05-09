@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-11-09T22:44:54Z
 - Contact Email: admin@valscollectibles.com
-- Updated At: 2026-04-30T00:00:37.554Z
+- Updated At: 2026-05-09T00:00:40.558Z
 
 ## Products
 
@@ -143,13 +143,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0965/4547/2810/files/fbc0ae99e4c94980b22a7df7e26377b4lg.jpg?v=1775173863
   Price: $42.99 USD
-- [Jujutsu Kaisen Yuta Okkotsu Culling Game Arc Second Masterlise Expiece Ichibansho Statue PREORDER](https://valscollectibles.com/products/jujutsu-kaisen-yuta-okkotsu-culling-game-arc-second-masterlise-expiece-ichibansho-statue-preorder): Bandai Spirits Ichibansho presents Yuta Okkotsu from Jujutsu Kaisen in a popular pose! Made of plastic, this highly detailed Jujutsu Kaisen Yuta Culling Game Arc Second Masterlise Expiece Ichibansho Statue measures approximately 7-inches tall. Collect this and enhance your display with other incredible Ichibansho figures! Masterlise Expiece Figures are Ichibansho's premier statue line featuring high-quality details in a compact size. This line is truly a masterpiece for fans to collect! Buy Jujutsu Kaisen Yuta Okkotsu Culling Game Arc Second Masterlise Expiece Ichibansho Statue at Val's Collectibles Estimated to Ship in July 2026
-  Updated: 2026-04-20T03:56:07Z
-  Vendor: Ichibansho
-  Product Type: Statues and Busts
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0965/4547/2810/files/Screenshot_2026-04-02_at_7.03.38_PM.png?v=1775175075
-  Price: $54.99 USD
 - [Jujutsu Kaisen Fumihiko Takaba Culling Game Arc Second Masterlise Expiece Ichibansho Statue PREORDER July 2026](https://valscollectibles.com/products/jujutsu-kaisen-fumihiko-takaba-culling-game-arc-second-masterlise-expiece-ichibansho-statue-preorder-july-2026): Bandai Spirits Ichibansho presents Fumihiko Takaba from Jujutsu Kaisen in a popular pose! Made of plastic, this highly detailed Jujutsu Kaisen Fumihiko Culling Game Arc Second Masterlise Expiece Ichibansho Statue measures approximately 5 12-inches tall. Collect this and enhance your display with other incredible Ichibansho figures! Masterlise Expiece Figures are Ichibansho's premier statue line featuring high-quality details in a compact size. This line is truly a masterpiece for fans to collect!Buy Jujutsu Kaisen Fumihiko Takaba Culling Game Arc Second Masterlise Expiece Ichibansho Statue at Val's Collectibles. This is a PREORDER item, estimated ship date is July 2026. Secure your spot!
   Updated: 2026-04-03T12:41:15Z
   Vendor: Ichibansho
@@ -178,10 +171,10 @@
   Updated: 2026-03-26T15:24:48Z
   Total Products: 1
 - [Funko Pops!](https://valscollectibles.com/collections/funko-pops)
-  Updated: 2026-03-26T15:24:48Z
+  Updated: 2026-05-06T22:53:38Z
   Total Products: 1
 - [Loungefly bags](https://valscollectibles.com/collections/loungefly-bags): Bags, Backpacks, Wallets, for every fandom!
-  Updated: 2026-03-26T15:24:48Z
+  Updated: 2026-05-06T22:54:07Z
   Total Products: 5
 - [Stuffies](https://valscollectibles.com/collections/stuffies): Stuffed plushies
   Updated: 2026-03-26T15:24:48Z
@@ -190,19 +183,19 @@
   Updated: 2026-03-26T15:24:48Z
   Total Products: 0
 - [Accessories](https://valscollectibles.com/collections/accessories)
-  Updated: 2026-04-02T22:18:39Z
+  Updated: 2026-05-06T22:54:08Z
   Total Products: 1
 - [Pre-Owned and Vintage](https://valscollectibles.com/collections/pre-owned-and-vintage)
   Updated: 2026-03-26T15:24:48Z
   Total Products: 0
 - [Funkos!](https://valscollectibles.com/collections/funkos)
-  Updated: 2026-04-02T21:57:38Z
+  Updated: 2026-05-06T22:54:21Z
   Total Products: 1
 - [Figures](https://valscollectibles.com/collections/figures-1)
-  Updated: 2026-04-20T11:33:34Z
+  Updated: 2026-05-06T22:55:05Z
   Total Products: 15
 - [Home Goods](https://valscollectibles.com/collections/home-goods): Housewares, Mugs, Cups, Towels, Utensils, all the things for the house
-  Updated: 2026-04-02T22:08:38Z
+  Updated: 2026-05-06T22:56:29Z
   Total Products: 1
 
 ## Store Pages
