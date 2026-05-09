@@ -6,7 +6,11 @@
 - Timezone: Asia/Shanghai
 - Created At: 2022-03-23T01:42:17Z
 - Contact Email: info@bola-bicycle.com
-- Updated At: 2026-04-30T11:20:52.314Z
+- Contact Phone: +8618059256592
+- Address: Xiamen,Fujian,China
+- Updated At: 2026-05-09T00:00:45.164Z
+
+Bola Carbon Wheelset,Bola Carbon Bike Rim,Bola carbon rim OEM
 
 ## Products
 
@@ -772,8 +776,8 @@
   - [Marble Glossy / Customized / Extremelight](https://bolacarbon.com/products/60mm-tubular-carbon-rim-700c-25mm-wide-rim-brake-bola?variant=42621958717694)
     Availability: Available
     Price: $290.00 USD
-- [88mm Carbon Tubular Rim 700c | 25mm Wide Aero TT/Triathlon](https://bolacarbon.com/products/88mm-carbon-tubular-rim-700c-25mm-wide-aero-tt-triathlon): 88mm carbon tubular rim for 700c wheels, 25mm wide. 520–550g per rim. U-shape aero for time trial, triathlon, and pro cycling builds,rider max weight 130kgs.
-  Updated: 2026-04-27T21:27:44Z
+- [88mm Carbon Tubular Rim 700c, 25mm Wide | Aero TT Tri](https://bolacarbon.com/products/88mm-carbon-tubular-rim-700c-25mm-wide-aero-tt-triathlon): 88mm carbon tubular rim, 700c, 25mm wide, 520–550g. U-shape aero profile for time trial, triathlon, EN 14781 . Rider max weight 130kg.
+  Updated: 2026-05-06T15:29:37Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Bicycle Rim
   Availability: Available
@@ -1168,8 +1172,8 @@
   - [Marble Glossy / Customs / Extremelight](https://bolacarbon.com/products/bola-700c-carbon-tubeless-rim-45mm-28mm-21mm-hooked-hookless-offset?variant=48119712841982)
     Availability: Available
     Price: $290.00 USD
-- [Bola 700C Carbon Road Rim, 55&60mm Wavy U shape, 28mm – 415-515g](https://bolacarbon.com/products/bola-700c-carbon-road-rim-55-60mm-wavy-u-shape-28mm-415-515g): 700C carbon road rim, 55mm and 60mm wavy U-profile, 28mm wide, 415–515g. Tubeless ready, up to 120kg rider, ISO 4210 .
-  Updated: 2026-04-30T10:42:51Z
+- [700C Wavy U-Shape Carbon Road Rim, 55/60mm, 28mm Wide, 415–515g](https://bolacarbon.com/products/bola-700c-carbon-road-rim-55-60mm-wavy-u-shape-28mm-415-515g): Aerodynamic 700C carbon road rim, wavy U-profile, 55/60mm depths, 28mm wide, 415–515g. ISO 4210 , SCA tested, tubeless ready, supports 25–32mm tires and up to 120kg riders.
+  Updated: 2026-05-06T17:57:14Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Road Bicycle Rim
   Availability: Available
@@ -1222,8 +1226,8 @@
   - [Marble Glossy / Extremelight](https://bolacarbon.com/products/bola-700c-carbon-road-rim-55-60mm-wavy-u-shape-28mm-415-515g?variant=48119698030846)
     Availability: Available
     Price: $290.00 USD
-- [700c Carbon Tubeless Rim 50mm Deep|Hooked/Hookless|18/20mm Inner Wide](https://bolacarbon.com/products/700c-carbon-tubeless-rim-50mm-deep-hooked-hookless-18-20mm-inner-wide): Aerodynamic 700c carbon rim, 50mm deep, 25mm wide, 18/20mm inner width, tubeless-ready. Hooked/hookless for road, spint use.
-  Updated: 2026-04-28T02:05:50Z
+- [700c Carbon Tubeless Rim 50mm Deep | Hooked & Hookless | 18/20mm Wide](https://bolacarbon.com/products/700c-carbon-tubeless-rim-50mm-deep-hooked-hookless-18-20mm-inner-wide): Aerodynamic 700c carbon tubeless rim, 50mm depth, 25mm outer width, 18/20mm inner width. Hooked or hookless bead. For triathlon, road, endurance.
+  Updated: 2026-05-06T18:14:43Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Bicycle Rim
   Availability: Available
@@ -1972,10 +1976,10 @@
   - [Marble Glossy / Customized / Extremelight](https://bolacarbon.com/products/38mm-tubular-carbon-rim-700c-disc-brake-25mm-wide-350g?variant=42634272440574)
     Availability: Available
     Price: $290.00 USD
-- [Bola 700c Tubular Carbon Rim 45mm Deep|330–370g|Standard or Asymmetric](https://bolacarbon.com/products/bola-700c-tubular-carbon-rim-45mm-deep-28mm-wide-330-370g-standard-or-asymmetric): High-performance Bola 700c tubular carbon rim, 45mm deep, 28mm wide, 330–370g. Standard and asymmetric options. Max rider weight: 120kg.
-  Updated: 2026-04-27T19:19:54Z
+- [Bola 700c Tubular Carbon Rim | 45mm Deep | 28mm Wide | 330–370g | Road & Triathlon](https://bolacarbon.com/products/bola-700c-tubular-carbon-rim-45mm-deep-28mm-wide-330-370g-standard-or-asymmetric): High-performance 700c tubular carbon rim for road racing, triathlon, and climbing. 45mm deep, 28mm wide, 330–370g. EN 14781 .
+  Updated: 2026-05-06T18:17:53Z
   Vendor: Carbon Fiber Sporting Goods
-  Product Type: Bicycle Rim
+  Product Type: Bicycle Carbon Tubular Rim
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/55mm_rims_8e544392-c974-480f-9e12-3031be1f2df1.jpg?v=1777273859
   - [UD Matt / 20/24 / Standard](https://bolacarbon.com/products/bola-700c-tubular-carbon-rim-45mm-deep-28mm-wide-330-370g-standard-or-asymmetric?variant=48119566795006)
@@ -2873,7 +2877,7 @@
     Availability: Available
     Price: $290.00 USD
 - [Bola 29er Carbon MTB Offset Rim | 29mm Inner Width | 325–370g | XC/AM](https://bolacarbon.com/products/bola-29er-carbon-mtb-offset-rim-29mm-inner-width-325-370g-xc-am): 29mm inner width carbon 29er rim, 325–370g. 20mm low profile, offset,hookless and tubeless ready—optimal for XC and all-mountain riding.
-  Updated: 2026-04-30T02:42:47Z
+  Updated: 2026-04-30T14:42:58Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Mountain Bike Rims
   Availability: Available
@@ -3185,7 +3189,7 @@
     Availability: Available
     Price: $260.00 USD
 - [29er Carbon MTB Wheelset, 25mm Inner, Tubeless, 1740g](https://bolacarbon.com/products/29er-carbon-mtb-wheelset-25mm-inner-tubeless-1740g): 29er carbon MTB wheelset, 25mm inner width, 1740g. Tubeless ready, Powerway M81 hubs, engineered for trail, all-mountain, and enduro use.
-  Updated: 2026-04-30T02:09:02Z
+  Updated: 2026-04-30T14:09:03Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Mountain Bike Wheelsets
   Availability: Available
@@ -3299,7 +3303,7 @@
     Availability: Available
     Price: $540.00 USD
 - [29er Carbon MTB Wheelset – 30mm Inner, 30mm Profile, 1780g](https://bolacarbon.com/products/29er-carbon-mtb-wheelset-30mm-inner-30mm-profile-1780g): 29er full-carbon MTB wheelset with 30mm inner width,1780g. Tubeless compatible, 28-hole, enduro and trail optimized.
-  Updated: 2026-04-30T03:15:52Z
+  Updated: 2026-04-30T14:12:24Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Bicycle Wheelsets > Mountain Bike Wheelsets
   Availability: Available
@@ -3413,7 +3417,7 @@
     Availability: Available
     Price: $540.00 USD
 - [29er Carbon MTB Wheelset – DT350, 25mm Internal, 1500g](https://bolacarbon.com/products/29er-carbon-mtb-wheelset-dt350-25mm-internal-1500g): 29er carbon MTB wheelset, DT350 hubs, 25mm internal width, Sapim CX-Ray, tubeless compatible. Lightweight 1500g for trail and all-mountain.
-  Updated: 2026-04-30T03:14:27Z
+  Updated: 2026-04-30T15:11:05Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Mountain Bike Wheelsets
   Availability: Available
@@ -3527,7 +3531,7 @@
     Availability: Available
     Price: $830.00 USD
 - [29er Carbon MTB Wheelset | DT350 Hubs | 30mm Internal Rim](https://bolacarbon.com/products/29er-carbon-mtb-wheelset-dt350-30mm-internal-tubeless): Trail-optimized 29er carbon MTB wheelset. DT350 hubs, Sapim CX-Ray spokes, 30mm internal width. Tubeless-ready. 1520g. Pro-level durability.
-  Updated: 2026-04-30T03:13:54Z
+  Updated: 2026-04-30T15:13:44Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Mountain Bike Wheelsets
   Availability: Available
@@ -3790,8 +3794,8 @@
   - [3K Glossy / Compy 10s / Customized](https://bolacarbon.com/products/38mm-carbon-tubeless-road-wheelset-700c-25mm-wide-rim-brake-1477g?variant=42647618158846)
     Availability: Not Available
     Price: $450.00 USD
-- [38mm Carbon Rim Brake Wheelset for Climbing | DT350 Hubs | Tubeless Ready](https://bolacarbon.com/products/700c-carbon-rim-brake-wheelset-38mm-dt350-hubs-tubeless-ready-sapim-cx-ray): 700C carbon rim brake climbing wheelset, 38mm deep, 25mm wide,1465g/pair. DT Swiss 350 hubs, Sapim CX-Ray, tubeless ready. Max rider weight 100kg.
-  Updated: 2026-04-24T15:32:37Z
+- [700C 38mm Carbon Rim Brake Wheelset | DT350 | Tubeless](https://bolacarbon.com/products/700c-carbon-rim-brake-wheelset-38mm-dt350-hubs-tubeless-ready-sapim-cx-ray): 700C carbon rim brake wheelset. 38mm deep x 25mm wide. Tubeless ready. DT Swiss 350 hubs. Sapim CX-Ray. EN 14781 tested. 1465g/pair. Max 100kg rider.
+  Updated: 2026-05-06T18:21:02Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Road Bike Wheelsets
   Availability: Available
@@ -3941,7 +3945,7 @@
     Availability: Not Available
     Price: $750.00 USD
 - [700C Carbon Tubeless Disc Brake Wheelset 38mm–28mm Wide,Ratchet 54T](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull): 700C carbon tubeless wheelset, 38mm deep, 28mm internal, 1480g. Disc brake  central lock, Ratchet 54T hub, 25–45c tire compatibility.
-  Updated: 2026-04-30T11:19:22Z
+  Updated: 2026-04-30T23:19:36Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Cycling > Wheels & Wheelsets > Road & Gravel Carbon Wheelsets
   Availability: Available
@@ -4054,10 +4058,10 @@
   - [Marble Glossy / Compy 10s / Customized](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647718592766)
     Availability: Available
     Price: $630.00 USD
-- [50mm Carbon Rim Brake Wheelset | DT350 Hubs | Tubeless 700C](https://bolacarbon.com/products/50mm-carbon-rim-brake-wheelset-dt350-hubs-tubeless-700c): High-performance 50mm carbon rim brake wheelset, DT350 hubs, Sapim CX-Ray spokes. Tubeless ready, 1,580g, 700C, max rider 120kg.
-  Updated: 2026-04-24T15:20:04Z
+- [50mm Carbon Rim Brake Road Wheelset | DT350 Hubs | Tubeless | 700C](https://bolacarbon.com/products/50mm-carbon-rim-brake-wheelset-dt350-hubs-tubeless-700c): 50mm carbon rim brake road wheelset with DT Swiss 350 hubs, Sapim CX-Ray bladed spokes. Tubeless compatible, 1,580g, rider limit 120kg. Optimized for racing and endurance road cycling.
+  Updated: 2026-05-06T18:48:29Z
   Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Road Bicycle Wheels & Wheelsets
+  Product Type: Carbon Road Bike Wheelsets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/products/50.jpg?v=1649661198
   - [UD Matt / Shimano 11s / Red Bola](https://bolacarbon.com/products/50mm-carbon-rim-brake-wheelset-dt350-hubs-tubeless-700c?variant=42658140061950)
@@ -4204,10 +4208,10 @@
   - [3K Glossy / Compy 10s / Customized](https://bolacarbon.com/products/50mm-carbon-rim-brake-wheelset-dt350-hubs-tubeless-700c?variant=42658141667582)
     Availability: Not Available
     Price: $780.00 USD
-- [38mm Carbon Tubular Road Wheelset | DT Swiss 350 | 700C 25mm Wide Rim Brake](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake): Hand-built 700C carbon tubular wheelset, 38mm high 25mm wide rim, DT Swiss 350 hubs, Sapim CX-Ray spokes. 1,255g/pair. Rim brake. Max rider 100kg.
-  Updated: 2026-04-24T15:28:37Z
+- [38mm Carbon Tubular Road Wheelset, DT Swiss 350, Sapim CX-Ray, 700C](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake): Hand-built 38mm carbon tubular road wheelset, DT Swiss 350 hubs, Sapim CX-Ray spokes. 700C, 25mm external width, 1,255g, rim brake, EN14781/ISO 4210 tested, max rider 100kg.
+  Updated: 2026-05-06T19:04:22Z
   Vendor: Carbon Fiber Sporting Goods
-  Product Type: Road Bike Wheelset
+  Product Type: Carbon Road Bike Wheelset
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/products/38_39689f77-4918-47a8-9206-8120f76faa51.jpg?v=1649661453
   - [UD Matt / Shimano 11s / Red Bola](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658162278654)
@@ -4354,8 +4358,8 @@
   - [3K Glossy / Compy 10s / Customized](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658163818750)
     Availability: Not Available
     Price: $750.00 USD
-- [700C Carbon Tubular Wheelset, 50mm, DT350, CX-Ray, Rim Brake](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake): High-performance 700C 50mm carbon tubular wheelset with DT350 hubs, Sapim CX-Ray spokes, 1290g. UCI compliant, rim brake, max 100kg rider.
-  Updated: 2026-04-24T15:22:21Z
+- [700C 50mm Carbon Tubular Wheelset DT350 CX-Ray Rim Brake](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake): 700C carbon tubular wheelset, 50mm rim depth, DT Swiss 350 hubs, Sapim CX-Ray spokes, 1290g. UCI-compliant, rim brake, supports riders up to 100kg.
+  Updated: 2026-05-06T19:12:31Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Performance Road Bike Wheelset
   Availability: Available
@@ -4504,10 +4508,10 @@
   - [3K Glossy / Compy 10s / Customized](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658169323774)
     Availability: Not Available
     Price: $790.00 USD
-- [700C Carbon Road Wheelset 50mm Tubeless 25mm wide Rim Brake](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1600g): Lightweight 700C carbon wheelset, 50mm deep, 25mm wide, 1600g. Tubeless ready, rim brake, ideal for racing and fast road cycling.
-  Updated: 2026-04-24T15:25:10Z
+- [700C 50mm Carbon Road Wheelset Rim Brake Tubeless 1600g](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1600g): Lightweight 700C 50mm carbon wheelset, rim brake, 25mm wide, 1600g. Tubeless-ready for racing, endurance, or training; carbon brake pads included.
+  Updated: 2026-05-06T19:13:14Z
   Vendor: Carbon Fiber Sporting Goods
-  Product Type: Road Bike Wheelsets
+  Product Type: Carbon Road Bike Wheelsets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/products/50_9f5d0aa8-75c5-460d-b5a4-0c354137babd.jpg?v=1649662529
   - [UD Matt / Shimano 11s / Red Bola](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1600g?variant=42658241773822)
@@ -4655,7 +4659,7 @@
     Availability: Not Available
     Price: $490.00 USD
 - [Bola 700C Carbon Disc Wheelset 45mm Tubeless Ready  54T– 28mm wide](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide): 700C carbon wheelset for disc brake bikes. 45mm deep,28mm wide,g. Tubeless ready. 54T Ratchet hub, Pillar 1420 spokes, ISO4210 .
-  Updated: 2026-04-30T11:17:24Z
+  Updated: 2026-04-30T23:17:06Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Road Bike Wheelset
   Availability: Available
@@ -4769,7 +4773,7 @@
     Availability: Available
     Price: $680.00 USD
 - [Bola 700C Carbon Disc Wheelset – 38mm | 28mm Wide | DT350 Hubs | Tubeless](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-38mm-28mm-wide-dt350-hubs-tubeless): 700C carbon disc brake wheelset: 38mm rim, 28mm wide, DT350 hubs, Sapim CX-Ray spokes. Tubeless ready, 1,480g/pair. For XC, gravel, endurance.
-  Updated: 2026-04-30T11:13:36Z
+  Updated: 2026-04-30T23:13:26Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Bicycle Wheelsets
   Availability: Available
@@ -4883,7 +4887,7 @@
     Availability: Available
     Price: $780.00 USD
 - [Bola 700C Carbon Disc Brake Wheelset–45mm Rim,DT350,Tubeless,28mm Wide](https://bolacarbon.com/products/bola-700c-carbon-disc-brake-wheelset-45mm-rim-dt350s-sapim-cx-ray-spoke-tubeless-28mm-wide): 45mm 700C carbon disc brake wheelset, 28mm wide, DT Swiss 350s hubs, Sapim CX-Ray spokes, 1,580g, tubeless, for road/gravel.
-  Updated: 2026-04-30T11:10:40Z
+  Updated: 2026-04-30T23:10:18Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Road Bike Wheelsets
   Availability: Available
@@ -5011,7 +5015,7 @@
   Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/1_ff78c338-5f71-4aab-a692-efb6d700a259.png?v=1721295438
   Price: $7.00 USD
 - [Custom Carbon Fiber Bike Parts – OEM & ODM | Bola Carbon](https://bolacarbon.com/products/custom-carbon-fiber-bike-parts-oem-odm-bola-carbon): Submit your CAD drawings for precision custom carbon fiber parts. OEM & ODM manufacturing for motorsport, aerospace, cycling, and industrial applications.
-  Updated: 2026-04-22T02:41:33Z
+  Updated: 2026-05-06T19:15:30Z
   Vendor: Bola Carbon Sporting Goods
   Product Type: Custom Carbon Fiber Components
   Availability: Available
@@ -5096,7 +5100,7 @@
     Availability: Available
     Price: $270.00 USD
 - [700c Carbon Road Rim 55mm–28mm Wide Tubeless,Asymmetric or Symmetric](https://bolacarbon.com/products/bola-700c-carbon-road-rim-55mm-28mm-wide-tubeless-asymmetric-or-symmetric-430-515g): 700c tubeless carbon road rim, 55mm profile, 28mm wide. Asymmetric or symmetric. Weight grades from 430g to 515g. Hooked and hookless compatible. Bola.
-  Updated: 2026-04-30T07:13:02Z
+  Updated: 2026-04-30T19:12:52Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Bicycle Rim
   Availability: Available
@@ -5246,7 +5250,7 @@
     Availability: Available
     Price: $290.00 USD
 - [Bola 700C Carbon Tubular Rim – 35mm Profile,28mm Wide,Asymmetric](https://bolacarbon.com/products/bola-700c-carbon-tubular-rim-35mm-profile-28mm-wide-asymmetric-300g-superlight): Bola 700C carbon tubular rim: 35mm profile, 28mm wide, 300g superlight build. Asymmetric option available. Forward compressive strength >300kg. Max rider 100kg.
-  Updated: 2026-04-30T06:56:42Z
+  Updated: 2026-04-30T18:56:32Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Bicycle Rim
   Availability: Available
@@ -5324,7 +5328,7 @@
     Availability: Available
     Price: $270.00 USD
 - [700C Tubular Offset Carbon Rim 40mm Profile 28mm Wide – Superlight Option | Bola](https://bolacarbon.com/products/700c-tubular-offset-carbon-rim-40mm-profile-28mm-wide-superlight-option-bola): Bola 700C tubular offset carbon rim, 40mm profile, 28mm wide. Superlight at 320 g/rim. Asymmetric spoke bed for even tension. Rim brake or Disc brake, customizable drillings.
-  Updated: 2026-04-30T06:51:32Z
+  Updated: 2026-04-30T18:51:30Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Bicycle Rim
   Availability: Available
@@ -5402,7 +5406,7 @@
     Availability: Available
     Price: $270.00 USD
 - [Bola 700c Carbon Tubular Rim 50mm x 28mm – 350g Superlight Road Racing](https://bolacarbon.com/products/bola-700c-carbon-tubular-rim-50mm-x-28mm-350g-superlight-road-racing): 700c carbon tubular rim, 50mm deep, 28mm wide. Superlight 350g or standard 375g. Forward compression >300kg. Max rider 120kg. By Bola.
-  Updated: 2026-04-30T06:42:14Z
+  Updated: 2026-04-30T18:42:12Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Tubular Bicycle Rim
   Availability: Available
@@ -5480,7 +5484,7 @@
     Availability: Available
     Price: $270.00 USD
 - [Bola 700C Carbon Tubeless Road Rim–35mm Deep,28/21mm Outer/Inner Wide](https://bolacarbon.com/products/bola-700c-carbon-tubeless-road-rim-35mm-deep-28-21mm-outer-inner-wide): 700C carbon tubeless road rim, 35mm deep, 28/21mm wide. Four weight tiers: 330g–415g. Asymmetric option available. Fits 25–32mm tires, 100–125 psi.
-  Updated: 2026-04-30T06:38:05Z
+  Updated: 2026-04-30T18:38:03Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Road Bike Rim
   Availability: Available
@@ -5630,7 +5634,7 @@
     Availability: Available
     Price: $290.00 USD
 - [Bola 50mm Carbon Tubeless Road Rim 700c 28mm Wide](https://bolacarbon.com/products/bola-700c-carbon-tubeless-road-rim-50mm-deep-28mm-wide-hooked-or-hookless-370-470g): 700c carbon tubeless road rim, 50mm deep, 28mm wide, 370–470g. Hooked or hookless. 3-year warranty. Built for racing and endurance.
-  Updated: 2026-04-30T03:31:06Z
+  Updated: 2026-04-30T15:30:55Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Road Rim
   Availability: Available
@@ -6379,10 +6383,10 @@
   - [Marble Glossy / Customs / Extremelight](https://bolacarbon.com/products/700c-carbon-tubeless-road-rim-50mm-high-28mm-wide-hook-hookless-bola?variant=48126846828798)
     Availability: Available
     Price: $290.00 USD
-- [700C Tubular Carbon Rim 35mm | 295g Lightweight Racing](https://bolacarbon.com/products/700c-tubular-carbon-road-rim-35mm-295g-superlight): 700C 35mm tubular carbon road rim, 295g superlight, 28mm wide, compatible with 23-28mm tires, >300kg compressive, custom drilling, 3-year warranty.
-  Updated: 2026-04-29T19:43:41Z
+- [700C Tubular Carbon Rim 35mm Deep, 295g | 28mm Wide, Pro Road Race](https://bolacarbon.com/products/700c-tubular-carbon-road-rim-35mm-295g-superlight): 700C 35mm deep tubular carbon rim, 295g superlight (320g standard), 28mm wide, 23–28mm tire fit, >300kg tested, custom drilled, 3-year warranty, Toray T700/T800 carbon.
+  Updated: 2026-05-06T19:18:19Z
   Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Road Bicycle Rim
+  Product Type: Tubular Road Bicycle Rim
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/35mm_carbon_rims_9b20bb37-2ba0-4ee2-9325-3d26c4a7af31.png?v=1777448326
   - [UD Matt / 20/24 / Standard](https://bolacarbon.com/products/700c-tubular-carbon-road-rim-35mm-295g-superlight?variant=48126867603710)
@@ -6979,10 +6983,10 @@
   - [Marble Glossy / Customs / Extremelight](https://bolacarbon.com/products/700c-carbon-clincher-rim-50mm-25mm-wide-u-shape-420-460g?variant=48122040320254)
     Availability: Available
     Price: $290.00 USD
-- [88mm Carbon Clincher Rim 700C x 25mm – Triathlon Aero](https://bolacarbon.com/products/88mm-carbon-clincher-rim-700c-x-25mm-aero-triathlon-enduro): 88mm carbon clincher rim, 700C x 25mm, for triathlon. U-shaped, 685–720g, 100kg limit, EN 14781 . 3-year warranty.
-  Updated: 2026-04-28T13:41:33Z
+- [88mm Carbon Clincher Rim 700C x 25mm – Triathlon, Endurance | EN 14781](https://bolacarbon.com/products/88mm-carbon-clincher-rim-700c-x-25mm-aero-triathlon-enduro): 88mm U-shaped carbon clincher rim for triathlon and endurance cycling. 700C x 25mm, EN 14781 & ISO 4210 . 100kg rider limit. 3-year warranty. Choice of standard or superlight build.
+  Updated: 2026-05-06T19:19:01Z
   Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Bicycle Rim
+  Product Type: Carbon Road Bike Rim
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/88mm_rims_668a9f82-bb08-49a6-aac2-5707560d3a75.png?v=1777281788
   - [UD Matt / 20/24](https://bolacarbon.com/products/88mm-carbon-clincher-rim-700c-x-25mm-aero-triathlon-enduro?variant=48122031636734)
@@ -7178,13 +7182,6 @@
   - [Marble Glossy / Customs / Extremelight](https://bolacarbon.com/products/700c-carbon-rim-35mm-low-profile-tubeless-365g-25mm-wide-hook-hookless?variant=48128803078398)
     Availability: Available
     Price: $290.00 USD
-- [Carbon Tubular Bike Rim 25/28/30mm – Road & Gravel](https://bolacarbon.com/products/full-carbon-tubular-road-gravel-bike-rim-25-28-30mm-width-700c-en-): Full carbon tubular rim in 25/28/30mm width for road, gravel & CX bikes. Rated 120psi, 125kg max load. EN . OEM options available.
-  Updated: 2026-04-20T20:35:33Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Bicycle Rim
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/OEMcarbonbikerims_46154b14-363f-4b0e-8f4a-fd552682b6fa.jpg?v=1713837714
-  Price: $100.00 USD
 - [700c Tubeless Carbon Road Rim 40mm | 24/25mm Inner | 375–430g](https://bolacarbon.com/products/700c-tubeless-carbon-road-rim-40mm-24-25mm-inner-hook-hookless-375-430g): Lightweight 700c carbon road rim, 40mm profile, 24/25mm inner, hook or hookless.  375–430g. ETRTO 2021 compliant. 3-year warranty.
   Updated: 2026-04-29T20:30:04Z
   Vendor: Carbon Fiber Sporting Goods
@@ -7335,10 +7332,10 @@
   - [Marble Glossy / Customs / Extremelight](https://bolacarbon.com/products/700c-tubeless-carbon-road-rim-40mm-24-25mm-inner-hook-hookless-375-430g?variant=48128820969726)
     Availability: Available
     Price: $290.00 USD
-- [700C Carbon Gravel&Cyclocross 35mm Rim,25mm Inn Wide,Tubeless,330–400g](https://bolacarbon.com/products/700c-carbon-gravel-cyclocross-rim-35mm-25mm-inn-wide-tubeless-330-400g): 35mm carbon rim for gravel & cyclocross. 700C, tubeless-ready, 330–400g, 24/25mm widths. Validated >300kg. 3-year defect warranty.
-  Updated: 2026-04-29T21:48:19Z
+- [700C Carbon Cyclocross/Gravel Rim 35mm 24/25mm Tubeless 330–400g](https://bolacarbon.com/products/700c-carbon-gravel-cyclocross-rim-35mm-25mm-inn-wide-tubeless-330-400g): 700C carbon rim for gravel & cyclocross. 35mm depth, 30mm outer, 24/25mm inner width. Tubeless compatible, 330–400g. Pro-level testing: >300kg compression, >50kg torsion, >280kg spoke tension. 3-year warranty.
+  Updated: 2026-05-06T19:21:15Z
   Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Bicycle Rim
+  Product Type: Carbon Gravel/Cyclocross Bicycle Rim
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/wider_rims_aea6b287-5cdd-40ce-a632-85ed1739922a.png?v=1777454257
   - [UD Matt / 20/20 / Standard](https://bolacarbon.com/products/700c-carbon-gravel-cyclocross-rim-35mm-25mm-inn-wide-tubeless-330-400g?variant=48129064370430)
@@ -9687,10 +9684,10 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/TR30C-30-406.jpg?v=1714292521
   Price: $240.00 USD
-- [700c 28mm Carbon Rear Disc Wheel – Triathlon & TT](https://bolacarbon.com/products/700c-28mm-carbon-rear-disc-wheel-triathlon-time-trial-tubeless-tubular-center-lock): 700c 28mm carbon rear disc wheel for triathlon & time trial. Clincher 1,350g or tubular 1,260g. Center Lock, 36T ratchet hub, 2-year warranty.
-  Updated: 2026-04-20T21:04:33Z
+- [700c Carbon Rear Disc Wheel 28mm – Triathlon & Time Trial](https://bolacarbon.com/products/700c-28mm-carbon-rear-disc-wheel-triathlon-time-trial-tubeless-tubular-center-lock): 28mm wide 700c carbon rear disc wheel for triathlon and time trial racing. Tubeless clincher 1,350g, tubular 1,260g. Center Lock, 36T ratchet hub. ISO 4210 tested, 2-year warranty.
+  Updated: 2026-05-06T19:21:52Z
   Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Bicycle Wheels
+  Product Type: Carbon Bicycle Rear Disc Wheels
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/Bola_carbon_disc_wheel.png?v=1776675866
   - [UD Matt / Disc / Shinamno HG](https://bolacarbon.com/products/700c-28mm-carbon-rear-disc-wheel-triathlon-time-trial-tubeless-tubular-center-lock?variant=48093543039230)
@@ -9786,10 +9783,10 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/1.0png_aa6669ad-40dd-4f87-beed-4833eb089c93.png?v=1714357696
   Price: $460.00 USD
-- [Carbon Three-Spoke 700C 28mm Wheel | Triathlon & TT | Tubeless,Tubular,Clincher](https://bolacarbon.com/products/700c-28mm-carbon-three-spoke-front-wheel-for-triathlon-tt-track-tubeless-tubular-clincher): 700C 28mm carbon three-spoke front  single wheel for triathlon, TT & track. Hook (21mm) and hookless (22mm) tubeless. Track, road & thru-axle options. 2-year warranty.
-  Updated: 2026-04-20T20:35:41Z
+- [700C Carbon Three-Spoke Front Wheel – Triathlon, TT, Track – 28mm](https://bolacarbon.com/products/700c-28mm-carbon-three-spoke-front-wheel-for-triathlon-tt-track-tubeless-tubular-clincher): Aerodynamic 700C 28mm carbon three-spoke front wheel for triathlon, time trial, and velodrome. Tubeless, clincher, and tubular options.  to ISO 4210 and ETRTO standards. 2-year manufacturer warranty. Available for center lock/track hub and multiple axle standards.
+  Updated: 2026-05-06T19:32:14Z
   Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Wheelset
+  Product Type: Performance Carbon Front Wheel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/10.png?v=1714357547
   - [UD Matt / Tubeless / Road](https://bolacarbon.com/products/700c-28mm-carbon-three-spoke-front-wheel-for-triathlon-tt-track-tubeless-tubular-clincher?variant=48093557358846)
@@ -9949,8 +9946,8 @@
   - [Marble Glossy / Tubeless / Micr](https://bolacarbon.com/products/700c-carbon-four-spoke-wheelset-tubeless-ready-tubular-for-road-track-triathlon?variant=48093777330430)
     Availability: Available
     Price: $990.00 USD
-- [700C Carbon Six-Spoke Aero Road Wheelset – Tubeless, Disc](https://bolacarbon.com/products/700c-carbon-six-spoke-tubeless-aero-road-wheelset-28mm-disc-brake): High-performance 700C carbon six-spoke disc wheelset, tubeless ready, 21mm inner width. Shimano, SRAM & Microspline compatible.2 Years Warranty
-  Updated: 2026-04-20T20:35:42Z
+- [700C Carbon Six-Spoke Aero Disc Wheelset – 28mm, Tubeless Ready](https://bolacarbon.com/products/700c-carbon-six-spoke-tubeless-aero-road-wheelset-28mm-disc-brake): 700C carbon six-spoke aero disc wheelset engineered for triathlon, time trial, and track with ISO 4210 certification, tubeless ready 28mm. Shimano, SRAM XDR, Microspline compatible. 2-year warranty.
+  Updated: 2026-05-06T20:04:49Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Road Bike Wheelsets
   Availability: Available
@@ -10027,88 +10024,10 @@
   - [Marble Glossy / DT Swiss 350 / Micr](https://bolacarbon.com/products/700c-carbon-six-spoke-tubeless-aero-road-wheelset-28mm-disc-brake?variant=48093791781118)
     Availability: Available
     Price: $1,250.00 USD
-- [700C Carbon 6-Spoke Gravel Wheelset | Tubeless, 25mm, DT Swiss/Ratchet](https://bolacarbon.com/products/700c-carbon-6-spoke-gravel-cyclocross-wheelset-25mm-tubeless-dt-swiss-350-ratchet-hub): High-performance 700C carbon 6-spoke gravel/cyclocross wheelset, 25mm tubeless, DT Swiss 350 or Bola ratchet 54t hub, 2-year warranty, 1450g/1600g.
-  Updated: 2026-04-20T20:35:42Z
+- [29er 6-Spoke Carbon Wheelset 30mm Wide | DT350/Bola XC Enduro](https://bolacarbon.com/products/29er-6-spoke-carbon-wheelset-30mm-width-dt350-ratchet-hub-xc-enduro): 29er 6-spoke carbon mountain bike wheelset with 30mm internal width for XC and enduro riding; DT Swiss 350 or Bola 54T ratchet hub; Shimano, SRAM XD, and Microspline freehub compatible; tubeless ready design; 2-year warranty.
+  Updated: 2026-05-06T20:10:24Z
   Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Gravel Wheelset
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/11_7293f640-ca0d-4085-b4b2-029fdfac65bc.png?v=1714379154
-  - [UD Matt / DT Swiss 350 / Shimano HG](https://bolacarbon.com/products/700c-carbon-6-spoke-gravel-cyclocross-wheelset-25mm-tubeless-dt-swiss-350-ratchet-hub?variant=48093808001278)
-    Availability: Available
-    Price: $1,250.00 USD
-  - [UD Matt / DT Swiss 350 / Sram XDR](https://bolacarbon.com/products/700c-carbon-6-spoke-gravel-cyclocross-wheelset-25mm-tubeless-dt-swiss-350-ratchet-hub?variant=48093808034046)
-    Availability: Available
-    Price: $1,250.00 USD
-  - [UD Matt / DT Swiss 350 / Micr](https://bolacarbon.com/products/700c-carbon-6-spoke-gravel-cyclocross-wheelset-25mm-tubeless-dt-swiss-350-ratchet-hub?variant=48093808066814)
-    Availability: Available
-    Price: $1,250.00 USD
-  - [UD Matt / Bola 54T / Shimano HG](https://bolacarbon.com/products/700c-carbon-6-spoke-gravel-cyclocross-wheelset-25mm-tubeless-dt-swiss-350-ratchet-hub?variant=48093808099582)
-    Availability: Available
-    Price: $990.00 USD
-  - [UD Matt / Bola 54T / Sram XDR](https://bolacarbon.com/products/700c-carbon-6-spoke-gravel-cyclocross-wheelset-25mm-tubeless-dt-swiss-350-ratchet-hub?variant=48093808132350)
-    Availability: Available
-    Price: $990.00 USD
-  - [UD Matt / Bola 54T / Micr](https://bolacarbon.com/products/700c-carbon-6-spoke-gravel-cyclocross-wheelset-25mm-tubeless-dt-swiss-350-ratchet-hub?variant=48093808165118)
-    Availability: Available
-    Price: $990.00 USD
-  - [UD Glossy / DT Swiss 350 / Shimano HG](https://bolacarbon.com/products/700c-carbon-6-spoke-gravel-cyclocross-wheelset-25mm-tubeless-dt-swiss-350-ratchet-hub?variant=48093808197886)
-    Availability: Available
-    Price: $1,250.00 USD
-  - [UD Glossy / DT Swiss 350 / Sram XDR](https://bolacarbon.com/products/700c-carbon-6-spoke-gravel-cyclocross-wheelset-25mm-tubeless-dt-swiss-350-ratchet-hub?variant=48093808230654)
-    Availability: Available
-    Price: $1,250.00 USD
-  - [UD Glossy / DT Swiss 350 / Micr](https://bolacarbon.com/products/700c-carbon-6-spoke-gravel-cyclocross-wheelset-25mm-tubeless-dt-swiss-350-ratchet-hub?variant=48093808263422)
-    Availability: Available
-    Price: $1,250.00 USD
-  - [UD Glossy / Bola 54T / Shimano HG](https://bolacarbon.com/products/700c-carbon-6-spoke-gravel-cyclocross-wheelset-25mm-tubeless-dt-swiss-350-ratchet-hub?variant=48093808296190)
-    Availability: Available
-    Price: $990.00 USD
-  - [UD Glossy / Bola 54T / Sram XDR](https://bolacarbon.com/products/700c-carbon-6-spoke-gravel-cyclocross-wheelset-25mm-tubeless-dt-swiss-350-ratchet-hub?variant=48093808328958)
-    Availability: Available
-    Price: $990.00 USD
-  - [UD Glossy / Bola 54T / Micr](https://bolacarbon.com/products/700c-carbon-6-spoke-gravel-cyclocross-wheelset-25mm-tubeless-dt-swiss-350-ratchet-hub?variant=48093808361726)
-    Availability: Available
-    Price: $990.00 USD
-  - [Marble Matt / DT Swiss 350 / Shimano HG](https://bolacarbon.com/products/700c-carbon-6-spoke-gravel-cyclocross-wheelset-25mm-tubeless-dt-swiss-350-ratchet-hub?variant=48093808394494)
-    Availability: Available
-    Price: $1,250.00 USD
-  - [Marble Matt / DT Swiss 350 / Sram XDR](https://bolacarbon.com/products/700c-carbon-6-spoke-gravel-cyclocross-wheelset-25mm-tubeless-dt-swiss-350-ratchet-hub?variant=48093808427262)
-    Availability: Available
-    Price: $1,250.00 USD
-  - [Marble Matt / DT Swiss 350 / Micr](https://bolacarbon.com/products/700c-carbon-6-spoke-gravel-cyclocross-wheelset-25mm-tubeless-dt-swiss-350-ratchet-hub?variant=48093808460030)
-    Availability: Available
-    Price: $1,250.00 USD
-  - [Marble Matt / Bola 54T / Shimano HG](https://bolacarbon.com/products/700c-carbon-6-spoke-gravel-cyclocross-wheelset-25mm-tubeless-dt-swiss-350-ratchet-hub?variant=48093808492798)
-    Availability: Available
-    Price: $990.00 USD
-  - [Marble Matt / Bola 54T / Sram XDR](https://bolacarbon.com/products/700c-carbon-6-spoke-gravel-cyclocross-wheelset-25mm-tubeless-dt-swiss-350-ratchet-hub?variant=48093808525566)
-    Availability: Available
-    Price: $990.00 USD
-  - [Marble Matt / Bola 54T / Micr](https://bolacarbon.com/products/700c-carbon-6-spoke-gravel-cyclocross-wheelset-25mm-tubeless-dt-swiss-350-ratchet-hub?variant=48093808558334)
-    Availability: Available
-    Price: $990.00 USD
-  - [Marble Glossy / DT Swiss 350 / Shimano HG](https://bolacarbon.com/products/700c-carbon-6-spoke-gravel-cyclocross-wheelset-25mm-tubeless-dt-swiss-350-ratchet-hub?variant=48093808591102)
-    Availability: Available
-    Price: $1,250.00 USD
-  - [Marble Glossy / DT Swiss 350 / Sram XDR](https://bolacarbon.com/products/700c-carbon-6-spoke-gravel-cyclocross-wheelset-25mm-tubeless-dt-swiss-350-ratchet-hub?variant=48093808623870)
-    Availability: Available
-    Price: $1,250.00 USD
-  - [Marble Glossy / DT Swiss 350 / Micr](https://bolacarbon.com/products/700c-carbon-6-spoke-gravel-cyclocross-wheelset-25mm-tubeless-dt-swiss-350-ratchet-hub?variant=48093808656638)
-    Availability: Available
-    Price: $1,250.00 USD
-  - [Marble Glossy / Bola 54T / Shimano HG](https://bolacarbon.com/products/700c-carbon-6-spoke-gravel-cyclocross-wheelset-25mm-tubeless-dt-swiss-350-ratchet-hub?variant=48093808689406)
-    Availability: Available
-    Price: $990.00 USD
-  - [Marble Glossy / Bola 54T / Sram XDR](https://bolacarbon.com/products/700c-carbon-6-spoke-gravel-cyclocross-wheelset-25mm-tubeless-dt-swiss-350-ratchet-hub?variant=48093808722174)
-    Availability: Available
-    Price: $990.00 USD
-  - [Marble Glossy / Bola 54T / Micr](https://bolacarbon.com/products/700c-carbon-6-spoke-gravel-cyclocross-wheelset-25mm-tubeless-dt-swiss-350-ratchet-hub?variant=48093808754942)
-    Availability: Available
-    Price: $990.00 USD
-- [29er 6-Spoke Carbon Wheelset 30mm Wide | DT240/Novatec XC Enduro](https://bolacarbon.com/products/29er-6-spoke-carbon-wheelset-30mm-width-dt350-ratchet-hub-xc-enduro): 29er 6-spoke carbon wheelset, 30mm internal width for XC/enduro. DT Swiss 350 or Bola Ratchet 54T hub, Shimano & SRAM compatible. 2-year warranty.
-  Updated: 2026-04-20T20:35:42Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Mountain Bike Carbon Wheelsets
+  Product Type: Carbon Mountain Bike Wheelsets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/11_6b94387a-b4c0-4bd5-a5a3-74130c738f87.png?v=1714379762
   - [UD Matt / Bola 54T / Shimano HG](https://bolacarbon.com/products/29er-6-spoke-carbon-wheelset-30mm-width-dt350-ratchet-hub-xc-enduro?variant=48093759308030)
@@ -10366,13 +10285,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/OEMcarbonbikerims_18815b83-2449-4fec-ba64-7a20b2109efb.jpg?v=1715045859
   Price: $90.00 USD
-- [700C Carbon Tubular Road Bike Rim | 25–30mm Wide](https://bolacarbon.com/products/700c-carbon-tubular-road-bike-rim-25-30mm-wide): 700C carbon tubular road rim in 25, 28, or 30mm widths. 558g per rim, ERD 487mm, 100–125 PSI. OEM custom branding available. Contact Bola for pricing.
-  Updated: 2026-04-20T20:35:46Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Tubular Road Bike Rim
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/OEMcarbonbikerims_18815b83-2449-4fec-ba64-7a20b2109efb.jpg?v=1715045859
-  Price: $190.00 USD
 - [29" Full Carbon Tubeless hookless Rim –AM& CX](https://bolacarbon.com/products/29-inch-full-carbon-tubeless-hookless-bike-rim-mtb-gravel-cx-25-28-30mm-wide): Full carbon tubeless 29-inch rim, 25/28/30mm wide, 120psi rated, EN . Engineered for mtb, AM& CX. OEM custom branding available.
   Updated: 2026-04-20T20:35:46Z
   Vendor: Carbon Fiber Sporting Goods
@@ -10388,7 +10300,7 @@
   Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/OEMcarbonbikerims_f7c5873e-5261-4072-9558-bc66c4fb2485.jpg?v=1713837927
   Price: $200.00 USD
 - [700c 34mm Wide Carbon Road&Gravel Rim,45mm&50mm Wavy Profile,24 Spoke](https://bolacarbon.com/products/700c-34mm-wide-carbon-road-gravel-rim-45mm-50mm-wavy-profile-disc-brake-24-spoke-385-460g): 700c carbon disc brake rim, 34mm wide, 45mm & 50mm depth, 24H. Four weight grades from 385g to 460g. Tubeless compatible. Custom OEM options available.
-  Updated: 2026-04-30T11:05:22Z
+  Updated: 2026-04-30T23:05:13Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Bicycle Rim
   Availability: Available
@@ -10442,7 +10354,7 @@
     Availability: Available
     Price: $290.00 USD
 - [34mm Wide Carbon Road Gravel Rim 45mm&50mm Wave Rim,UV-Shape,24 spoke](https://bolacarbon.com/products/34mm-wide-carbon-road-gravel-rim-45mm-50mm-wave-rim-uv-shape-24-spoke-tubeless): 34mm wide carbon road rim for disc brakes in 45mm&50mm aero wave heights.25mm inner width,ultra-light from 380g.Custom drilling available.3-year warranty.
-  Updated: 2026-04-30T11:00:49Z
+  Updated: 2026-04-30T23:00:10Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Road Bike Rim
   Availability: Available
@@ -10496,7 +10408,7 @@
     Availability: Available
     Price: $290.00 USD
 - [40mm Carbon Road Rim – 36mm/30mm Width,Tubeless Ready,700C,Ultralight](https://bolacarbon.com/products/40mm-carbon-road-rim-36mm-outer-30mm-inner-width-tubeless-ready-700c-ultralight-365-445g): Tubeless-ready 40mm carbon road rim with 36mm outer and 30mm inner width, 700C. Available in four weight tiers from 365g to 445g. Hooked UV profile
-  Updated: 2026-04-30T10:53:18Z
+  Updated: 2026-04-30T22:53:02Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Road Bike Rim
   Availability: Available
@@ -10646,7 +10558,7 @@
     Availability: Available
     Price: $280.00 USD
 - [Ultralight Carbon Gravel Bike Rims 700c,34mm Wide,UV-Shape,35mm&40mm](https://bolacarbon.com/products/ultralight-carbon-gravel-bike-rims-700c-34mm-wide-uv-shape-35mm-40mm-disc-brake-bola): Ultralight Carbon Gravel Bike Rims — 700c, 34mm Wide, Disc Brake.Bola's 700c carbon gravel rims deliver  disc-brake performance in 3 weight classes
-  Updated: 2026-04-30T10:47:34Z
+  Updated: 2026-04-30T22:47:33Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Bicycle Rim
   Availability: Available
@@ -10687,10 +10599,10 @@
   - [Marble Glossy / Ultralight](https://bolacarbon.com/products/ultralight-carbon-gravel-bike-rims-700c-34mm-wide-uv-shape-35mm-40mm-disc-brake-bola?variant=48134082527486)
     Availability: Available
     Price: $280.00 USD
-- [700C 28mm Carbon Road Rim 45mm&50mm Wave | Disc Brake | 20/24-Spoke](https://bolacarbon.com/products/700c-28mm-carbon-road-rim-45mm-50mm-wave-disc-brake-20-24-spoke): Bola 700C 28mm carbon disc brake road rim in 45mm&50mm wavy depth.Four weight grades from 360g to 440g.20 or 24-spoke,tubeless-compatible.Three-year warranty.
-  Updated: 2026-04-30T10:40:39Z
+- [700C 28mm Carbon Road Rim, 45mm/50mm Wave, Disc Brake, Tubeless](https://bolacarbon.com/products/700c-28mm-carbon-road-rim-45mm-50mm-wave-disc-brake-20-24-spoke): Engineered 700C carbon disc road rim, U-shaped 28mm x 22mm, 45mm&50mm depth. 360–440g, 20/24-spoke, tubeless-compatible,  and tested for strength, 3-year warranty.
+  Updated: 2026-05-06T19:38:35Z
   Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Bicycle Rim
+  Product Type: Carbon Road Bicycle Rim
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/wave_rims_aedb3fa1-8c5a-4328-b902-e05c6b9807c3.png?v=1777545297
   - [UD Matt / 20/20 / Standard](https://bolacarbon.com/products/700c-28mm-carbon-road-rim-45mm-50mm-wave-disc-brake-20-24-spoke?variant=48134062571774)
@@ -10790,7 +10702,7 @@
     Availability: Available
     Price: $290.00 USD
 - [700C Carbon Road Bike Rim 60mm&65mm Wave Aero,28mm Wide Tubeless](https://bolacarbon.com/products/700c-carbon-road-bike-rim-60mm-65mm-wave-aero-28mm-wide-tubeless-ultralight-430g): Bola 700C carbon tubeless rim: 60mm or 65mm wave aero profile, 28mm outer width, ultralight from 430g. 3-year warranty. Customizable specs available.
-  Updated: 2026-04-30T10:34:29Z
+  Updated: 2026-04-30T22:34:19Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Road Bike Rim
   Availability: Available
@@ -10888,7 +10800,7 @@
   Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/products/tubeless_2d236823-c069-4581-9a8b-1fc9dd7a0b4b.jpg?v=1713256464
   Price: $100.00 USD
 - [700c 40mm Carbon Rim–30mm or 34mm Wide,23mm Inner Width,Tubeless Ready](https://bolacarbon.com/products/700c-40mm-carbon-road-rim-30mm-or-34mm-wide-23mm-inner-width-tubeless-ready-bola): Bola manufactures 700c 40mm carbon road rims in three weight grades (380–430g), available in 30mm or 34mm outer width with 23mm inner width.3-year warranty.
-  Updated: 2026-04-30T10:10:33Z
+  Updated: 2026-04-30T22:10:33Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Road Bike Rim
   Availability: Available
@@ -11002,7 +10914,7 @@
     Availability: Available
     Price: $260.00 USD
 - [700c Carbon Rim 80mm Deep | 34mm Wide UV Shape | Triathlon & Ironman Racing](https://bolacarbon.com/products/700c-carbon-rim-80mm-deep-34mm-wide-uv-shape-triathlon-ironman-racing): 80mm deep 700c UV-shape carbon rim for triathlon and Ironman racing. Available 34mm or 30mm outer width, 580–610 g, 23mm inner width.
-  Updated: 2026-04-30T10:03:43Z
+  Updated: 2026-04-30T22:03:42Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Bicycle Rim
   Availability: Available
@@ -11080,7 +10992,7 @@
     Availability: Available
     Price: $300.00 USD
 - [25mm Inner Wide Carbon Road Rim- 40mm&45mm  UV Wave Profile,24-Spoke](https://bolacarbon.com/products/700c-25mm-inner-wide-carbon-road-rim-40mm-45mm-depth-disc-brake-24-spoke-uv-profile-bola): Bola carbon bike rims: 700c, 25mm inner wide, 40mm & 45mm depth, disc brake, 375–450g. OEM-ready for cycling brands and professional teams. 3-year warranty.
-  Updated: 2026-04-30T09:59:04Z
+  Updated: 2026-04-30T21:59:09Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Bicycle Rim
   Availability: Available
@@ -11134,7 +11046,7 @@
     Availability: Available
     Price: $290.00 USD
 - [700c 34mm Wide Carbon Gravel Bike Rim-35mm&40mm Depth,24H Disc Brake](https://bolacarbon.com/products/700c-34mm-wide-carbon-gravel-bike-rim-35mm-40mm-depth-24h-disc-brake-370-440g-bola): Bola 700c 34mm carbon gravel rim: 35mm or 40mm wavy depth, 24H disc brake, 370–440g. Tubeless-ready, 25mm inner width, customizable. 3-year warranty.
-  Updated: 2026-04-30T09:31:20Z
+  Updated: 2026-04-30T21:32:03Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Bicycle Rim
   Availability: Available
@@ -11195,14 +11107,14 @@
   Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/4550set.png?v=1732607883
   Price: $330.00 USD
 - [Bola 40mm Carbon Disc Wheelset 700C | Road & Gravel](https://bolacarbon.com/products/uci-level-bola-700c-elite-paintless-wider-carbon-bike-wheels-disc-brake-40mm-high-30mm-wide-for-road-and-gravel-amateur-riding): Bola 700C 40mm carbon disc wheelset, 30mm wide rim, 1460g/pair, 24mm inner width. Fits road & gravel, 120kg max. 3-year warranty. Multiple axle standards.
-  Updated: 2026-04-20T20:35:50Z
+  Updated: 2026-05-06T10:29:05Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Wheelset
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/30mmwheelset.png?v=1732609153
   Price: $390.00 USD
 - [29er Carbon MTB Rim – 36mm/30mm Wide,Wave Profile, 20mm&25mm,28-Spoke](https://bolacarbon.com/products/29er-carbon-mtb-rim-36mm-outer-30mm-inner-wide-wave-profile-20mm-25mm-28-spoke-300-380g-bola): Bola manufactures carbon MTB rims in China with ISO-standard quality control. The 29er wave-profile rim offers 36mm outer / 30mm inner width, 28-spoke lacing, and four weight grades (300–380g per rim). Three-year warranty included.
-  Updated: 2026-04-30T09:20:58Z
+  Updated: 2026-04-30T21:21:16Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Mountain Bike Rim
   Availability: Available
@@ -11244,7 +11156,7 @@
     Availability: Available
     Price: $290.00 USD
 - [700C Carbon Bike Rim 50mm Deep 36mm Wide–Superlight to Extreme Light](https://bolacarbon.com/products/700c-carbon-road-bike-rim-50mm-deep-36mm-wide-superlight-to-extreme-light-options-395-490g): 700c carbon road bike rim with 50mm aerodynamic profile, 36mm outer and 30mm inner width. Four weight variants from 395g to 490g. Forward compressive strength >300kg. Compatible with tubeless setups. 3-year warranty. Custom drilling available.
-  Updated: 2026-04-30T09:05:50Z
+  Updated: 2026-04-30T21:07:24Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Bicycle Rim
   Availability: Available
@@ -11394,7 +11306,7 @@
     Availability: Available
     Price: $300.00 USD
 - [700c Tubeless Carbon Road Rim 45mm–36mm/30mm Wide,Weight Options|Bola](https://bolacarbon.com/products/700c-tubeless-carbon-road-rim-45mm-36mm-outer-30mm-inner-wide-375-450g-weight-options-bola): Bola 700c tubeless carbon road rim: 45mm profile, 36mm outer / 30mm inner wide, 375–450g weight tiers. Forward strength >300kg. Ships from factory.
-  Updated: 2026-04-30T08:35:46Z
+  Updated: 2026-04-30T20:36:40Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Bicycle Rim
   Availability: Available
@@ -11544,7 +11456,7 @@
     Availability: Available
     Price: $300.00 USD
 - [700c Tubeless Carbon Gravel Rim–30mm Inner/36mm Outer Wide,35mm Height](https://bolacarbon.com/products/700c-tubeless-carbon-gravel-rim-30mm-inner-36mm-outer-width-35mm-height-four-light-versions-350-435g): 700c tubeless carbon gravel rim, 30mm inner width, 35mm height. Four weight grades: 350–435g/rim. Forward compressive strength >300kg. OEM custom drilling available.
-  Updated: 2026-04-30T07:46:18Z
+  Updated: 2026-04-30T19:46:21Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Bicycle Rim
   Availability: Available
@@ -11694,7 +11606,7 @@
     Availability: Available
     Price: $300.00 USD
 - [Bola 30mm Inner Width Tubeless Ready Carbon Road Rim – 700C,30mm High](https://bolacarbon.com/products/bola-30mm-inner-width-tubeless-ready-carbon-road-rim-700c-30mm-high-335-420g): Bola 30mm Inner Width Tubeless Ready Carbon Road Rim – 700C, 30mm High, 335–420g balances weight and durability. Features tubeless-ready design for reliable rides. Shop now!
-  Updated: 2026-04-30T07:37:10Z
+  Updated: 2026-04-30T19:37:09Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Bicycle Rim
   Availability: Available
@@ -11843,8 +11755,8 @@
   - [Marble Glossy / Customs / Extremelight](https://bolacarbon.com/products/bola-30mm-inner-width-tubeless-ready-carbon-road-rim-700c-30mm-high-335-420g?variant=48132762009854)
     Availability: Available
     Price: $300.00 USD
-- [3-Spoke Carbon Front Wheel 700c Tubeless | Triathlon TT Track | 54T Ratchet Hub](https://bolacarbon.com/products/3-spoke-carbon-front-wheel-700c-tubeless-triathlon-tt-track-54t-ratchet-hub): 700c 3-spoke carbon front wheel with 28mm/21mm wide rim, 800g, tubeless-ready for triathlon, time trial, and track. 54T Ratchet hub. 2-year warranty.
-  Updated: 2026-04-24T08:12:09Z
+- [700c 3-Spoke Carbon Front Wheel Tubeless for Triathlon, TT, Track](https://bolacarbon.com/products/3-spoke-carbon-front-wheel-700c-tubeless-triathlon-tt-track-54t-ratchet-hub): 3-spoke carbon wheelset, 700c tubeless-ready rim (28mm/21mm), for triathlon, time trial, and track. 54T ratchet hub, 2-year warranty, 800g.
+  Updated: 2026-05-06T19:47:53Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Bicycle Wheelset
   Availability: Available
@@ -11874,7 +11786,7 @@
     Availability: Available
     Price: $590.00 USD
 - [700C Offset Tubeless Carbon Road Rim—38/32mm Out/Int Wide,45mm Profile](https://bolacarbon.com/products/bola-700c-offset-tubeless-carbon-road-rim-38mm-outer-32mm-inner-width-45mm-profile-390-470g): Tubeless-ready offset carbon road rim, 700C, 38mm outer/32mm inner width, 45mm profile. Four weight tiers: 390–470g. Rider weight limit 120kg. Ships from Bola.
-  Updated: 2026-04-30T07:30:35Z
+  Updated: 2026-04-30T19:30:39Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Road Rim
   Availability: Available
@@ -12024,7 +11936,7 @@
     Availability: Available
     Price: $320.00 USD
 - [Bola 50mm Carbon Tubeless Road Rim–32/38mm Int/Out Wide Asymmetric](https://bolacarbon.com/products/bola-700c-50mm-carbon-tubeless-road-rim-32mm-inner-38mm-outer-wide-asymmetric-offset-profile): Bola 700C 50mm asymmetric tubeless carbon road rim. 32mm inner / 38mm outer wide. Four weight tiers from 410g (EL) to 500g. ERD 548mm. 3-year warranty. Custom drilling available.
-  Updated: 2026-04-30T07:21:35Z
+  Updated: 2026-04-30T19:21:38Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Bicycle Rim
   Availability: Available
@@ -12329,164 +12241,164 @@
   - [Shimano HG / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641218875646)
     Availability: Not Available
     Price: $650.00 USD
-- [Carbon Wheelset Disc Brake 35/40/45/50mm | T800 Tubeless Ratchet 54T Hub 700c Climbing Road & Gravel](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike): T800 carbon 700c wheelset in 35/40/45/50mm depths. Disc brake, tubeless-ready, 54-tooth ratchet hub (6.67° engagement). 2-year warranty. Built for climbing and gravel.
-  Updated: 2026-04-20T20:35:53Z
+- [Carbon Wheelset Disc Brake 35/40/45/50/55mm | T800 Tubeless Ratchet 54T Hub 700c Climbing Road & Gravel](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel): T800 carbon 700c wheelset in 35/40/45/50/55mm depths. Disc brake, tubeless-ready, 54-tooth ratchet hub (6.67° engagement). 2-year warranty. Built for climbing and gravel.
+  Updated: 2026-05-07T13:11:09Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Bicycle Wheelset
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/142_0.png?v=1766559581
-  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641381798142)
+  - [Sram XDR / 28mm/21mm Out/Int wide 35mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641382584574)
     Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641381830910)
-    Availability: Not Available
+  - [Sram XDR / 28mm/21mm Out/Int wide 35mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641382846718)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641381896446)
-    Availability: Not Available
+  - [Sram XDR / 28mm/21mm Out/Int wide 35mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641383108862)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641381929214)
-    Availability: Not Available
+  - [Sram XDR / 30mm/24mm Out/Int wide 35mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641382617342)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641381994750)
-    Availability: Not Available
+  - [Sram XDR / 30mm/24mm Out/Int wide 35mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641382879486)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641382027518)
-    Availability: Not Available
+  - [Sram XDR / 30mm/24mm Out/Int wide 35mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641383141630)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641409061118)
-    Availability: Not Available
+  - [Sram XDR / 28mm/21mm Out/Int wide 40mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641382682878)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641409093886)
-    Availability: Not Available
+  - [Sram XDR / 28mm/21mm Out/Int wide 40mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641382945022)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641382060286)
-    Availability: Not Available
+  - [Sram XDR / 28mm/21mm Out/Int wide 40mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641383207166)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641382093054)
-    Availability: Not Available
+  - [Sram XDR / 30mm/24mm Out/Int wide 40mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641382715646)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641382158590)
-    Availability: Not Available
+  - [Sram XDR / 30mm/24mm Out/Int wide 40mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641382977790)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641382191358)
-    Availability: Not Available
+  - [Sram XDR / 30mm/24mm Out/Int wide 40mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641383239934)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641382256894)
-    Availability: Not Available
+  - [Sram XDR / 28mm/21mm Out/Int wide 45mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641382781182)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641382289662)
-    Availability: Not Available
+  - [Sram XDR / 28mm/21mm Out/Int wide 45mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641383043326)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641409126654)
-    Availability: Not Available
+  - [Sram XDR / 28mm/21mm Out/Int wide 45mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641383305470)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641409159422)
-    Availability: Not Available
+  - [Sram XDR / 30mm/24mm Out/Int wide 45mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641382813950)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641382322430)
-    Availability: Not Available
+  - [Sram XDR / 30mm/24mm Out/Int wide 45mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641383076094)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641382355198)
-    Availability: Not Available
+  - [Sram XDR / 30mm/24mm Out/Int wide 45mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641383338238)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641382420734)
-    Availability: Not Available
+  - [Sram XDR / 28mm/21mm Out/Int wide 50mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641409257726)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641382453502)
-    Availability: Not Available
+  - [Sram XDR / 28mm/21mm Out/Int wide 50mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641409323262)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641382519038)
-    Availability: Not Available
+  - [Sram XDR / 28mm/21mm Out/Int wide 50mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641409388798)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641382551806)
-    Availability: Not Available
+  - [Sram XDR / 30mm/24mm Out/Int wide 50mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641409290494)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641409192190)
-    Availability: Not Available
+  - [Sram XDR / 30mm/24mm Out/Int wide 50mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641409356030)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641409224958)
-    Availability: Not Available
+  - [Sram XDR / 30mm/24mm Out/Int wide 50mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641409421566)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641382584574)
-    Availability: Not Available
+  - [Sram XDR / 28mm/21mm Out/Int wide 55mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=48157479108862)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641382617342)
-    Availability: Not Available
+  - [Sram XDR / 28mm/21mm Out/Int wide 55mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=48157479141630)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641382682878)
-    Availability: Not Available
+  - [Sram XDR / 28mm/21mm Out/Int wide 55mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=48157479174398)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641382715646)
-    Availability: Not Available
+  - [Sram XDR / 30mm/24mm Out/Int wide 55mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=48157479207166)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641382781182)
-    Availability: Not Available
+  - [Sram XDR / 30mm/24mm Out/Int wide 55mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=48157479239934)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641382813950)
-    Availability: Not Available
+  - [Sram XDR / 30mm/24mm Out/Int wide 55mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=48157479272702)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641409257726)
-    Availability: Not Available
+  - [Shimano HG / 28mm/21mm Out/Int wide 35mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384157438)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641409290494)
-    Availability: Not Available
+  - [Shimano HG / 28mm/21mm Out/Int wide 35mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384419582)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641382846718)
-    Availability: Not Available
+  - [Shimano HG / 28mm/21mm Out/Int wide 35mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384681726)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641382879486)
-    Availability: Not Available
+  - [Shimano HG / 30mm/24mm Out/Int wide 35mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384190206)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641382945022)
-    Availability: Not Available
+  - [Shimano HG / 30mm/24mm Out/Int wide 35mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384452350)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641382977790)
-    Availability: Not Available
+  - [Shimano HG / 30mm/24mm Out/Int wide 35mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384714494)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641383043326)
-    Availability: Not Available
+  - [Shimano HG / 28mm/21mm Out/Int wide 40mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384255742)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641383076094)
-    Availability: Not Available
+  - [Shimano HG / 28mm/21mm Out/Int wide 40mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384517886)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641409323262)
-    Availability: Not Available
+  - [Shimano HG / 28mm/21mm Out/Int wide 40mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384780030)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641409356030)
-    Availability: Not Available
+  - [Shimano HG / 30mm/24mm Out/Int wide 40mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384288510)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641383108862)
-    Availability: Not Available
+  - [Shimano HG / 30mm/24mm Out/Int wide 40mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384550654)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641383141630)
-    Availability: Not Available
+  - [Shimano HG / 30mm/24mm Out/Int wide 40mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384812798)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641383207166)
-    Availability: Not Available
+  - [Shimano HG / 28mm/21mm Out/Int wide 45mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384354046)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641383239934)
-    Availability: Not Available
+  - [Shimano HG / 28mm/21mm Out/Int wide 45mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384616190)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641383305470)
-    Availability: Not Available
+  - [Shimano HG / 28mm/21mm Out/Int wide 45mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384878334)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641383338238)
-    Availability: Not Available
+  - [Shimano HG / 30mm/24mm Out/Int wide 45mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384386814)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641409388798)
-    Availability: Not Available
+  - [Shimano HG / 30mm/24mm Out/Int wide 45mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384648958)
+    Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641409421566)
-    Availability: Not Available
+  - [Shimano HG / 30mm/24mm Out/Int wide 45mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384911102)
+    Availability: Available
     Price: $490.00 USD
-  - [Shimano HG / UD Matt / 28mm/21mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641383371006)
-    Availability: Not Available
+  - [Shimano HG / 28mm/21mm Out/Int wide 50mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641409650942)
+    Availability: Available
     Price: $490.00 USD
-  - [Shimano HG / UD Matt / 30mm/23mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-super-light-carbon-bicycle-wheelset-disc-brake-ratchet-54-teeth-hub-and-aero20-spoke-tubeless-35-40-45-50mm-for-climb-bike?variant=47641383403774)
-    Availability: Not Available
+  - [Shimano HG / 28mm/21mm Out/Int wide 50mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641409716478)
+    Availability: Available
     Price: $490.00 USD
 - [Carbon Disc Brake Wheelset | 54T Ratchet, Tubeless, 40–60mm](https://bolacarbon.com/products/bicycle-carbon-wheels-classic-disc-braking-ratchet-54t-straigh-pull-40-45-50-55-60mm-tubeless-rim-for-cyclocross-road-bike-bola): Carbon disc brake wheelset with 54T ratchet hub, tubeless-ready rims in 40/45/50/55/60mm depths for road and cyclocross; 3-year warranty.
-  Updated: 2026-04-20T20:35:53Z
+  Updated: 2026-05-06T10:16:49Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Bicycle Wheelsets
   Availability: Available
@@ -12641,162 +12553,162 @@
   - [Shimano HG / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/bicycle-carbon-wheels-classic-disc-braking-ratchet-54t-straigh-pull-40-45-50-55-60mm-tubeless-rim-for-cyclocross-road-bike-bola?variant=47651768238334)
     Availability: Not Available
     Price: $385.00 USD
-- [Bola Elite T800 Carbon Disc Brake Wheelset – 54T Ratchet Hub, Straightpull Spokes, 35/40/45/50/55mm](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile): Bola Elite T800 Carbon Disc Brake Wheelset - Ultra-light Toray T800 carbon for climbers and racers. Features 54T ratchet hub and aero straightpull spokes. Shop now!
-  Updated: 2026-04-20T20:35:53Z
+- [Bola Carbon Disc Brake Wheels–54T Hub,Carbon Spoke,35/40/45/50/55/60mm](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm): Bola Elite T800 Carbon Disc Brake Wheelset - Ultra-light Toray T800 carbon for climbers and racers. Features 54T ratchet hub and aero straightpull carbon spokes. Shop now!
+  Updated: 2026-05-07T13:25:03Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Road Wheelset
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/3.2_ba5c55d1-4892-4d6b-900b-806c8b7591d5.png?v=1766978920
-  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654155452670)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654155485438)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654146310398)
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654155452670)
     Availability: Available
-    Price: $630.00 USD
-  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654146343166)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654155518206)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654155550974)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654146408702)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654146441470)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 55mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654146507006)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 55mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654146539774)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654155583742)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654155616510)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654146572542)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654146605310)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654155649278)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654155682046)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654146670846)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654146703614)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 55mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654146769150)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 55mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654146801918)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654155714814)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654155747582)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654146834686)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654146867454)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654155780350)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654155813118)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654146932990)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654146965758)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 55mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654147031294)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 55mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654147064062)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654155845886)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654155878654)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654147096830)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654147129598)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654155911422)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654155944190)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654147195134)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654147227902)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 55mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654147293438)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 55mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654147326206)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654155976958)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654156009726)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654147358974)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654147391742)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654156042494)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654156075262)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654147457278)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654147490046)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 55mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654147555582)
-    Availability: Not Available
-    Price: $630.00 USD
-  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 55mm high](https://bolacarbon.com/products/bola-elite-carbon-bike-wheel-ultralight-disc-brake-ratchet-54t-hub-with-aero-straightpull-carbon-spoke-35-40-45-50-55mm-profile?variant=47654147588350)
-    Availability: Not Available
-    Price: $630.00 USD
+    Price: $760.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654155485438)
+    Availability: Available
+    Price: $760.00 USD
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654146310398)
+    Availability: Available
+    Price: $760.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654146343166)
+    Availability: Available
+    Price: $760.00 USD
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654155518206)
+    Availability: Available
+    Price: $760.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654155550974)
+    Availability: Available
+    Price: $760.00 USD
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654146408702)
+    Availability: Available
+    Price: $760.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654146441470)
+    Availability: Available
+    Price: $760.00 USD
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 55mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654146507006)
+    Availability: Available
+    Price: $760.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 55mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654146539774)
+    Availability: Available
+    Price: $760.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654155583742)
+    Availability: Available
+    Price: $760.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654155616510)
+    Availability: Available
+    Price: $760.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654146572542)
+    Availability: Available
+    Price: $760.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654146605310)
+    Availability: Available
+    Price: $760.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654155649278)
+    Availability: Available
+    Price: $760.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654155682046)
+    Availability: Available
+    Price: $760.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654146670846)
+    Availability: Available
+    Price: $760.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654146703614)
+    Availability: Available
+    Price: $760.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 55mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654146769150)
+    Availability: Available
+    Price: $760.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 55mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654146801918)
+    Availability: Available
+    Price: $760.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654155714814)
+    Availability: Available
+    Price: $760.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654155747582)
+    Availability: Available
+    Price: $760.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654146834686)
+    Availability: Available
+    Price: $760.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654146867454)
+    Availability: Available
+    Price: $760.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654155780350)
+    Availability: Available
+    Price: $760.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654155813118)
+    Availability: Available
+    Price: $760.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654146932990)
+    Availability: Available
+    Price: $760.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654146965758)
+    Availability: Available
+    Price: $760.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 55mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654147031294)
+    Availability: Available
+    Price: $760.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 55mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654147064062)
+    Availability: Available
+    Price: $760.00 USD
+  - [Shimano HG / UD Matt / 28mm/21mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654156239102)
+    Availability: Available
+    Price: $760.00 USD
+  - [Shimano HG / UD Matt / 30mm/23mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654156271870)
+    Availability: Available
+    Price: $760.00 USD
+  - [Shimano HG / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654147883262)
+    Availability: Available
+    Price: $760.00 USD
+  - [Shimano HG / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654147916030)
+    Availability: Available
+    Price: $760.00 USD
+  - [Shimano HG / UD Matt / 28mm/21mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654156304638)
+    Availability: Available
+    Price: $760.00 USD
+  - [Shimano HG / UD Matt / 30mm/23mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654156337406)
+    Availability: Available
+    Price: $760.00 USD
+  - [Shimano HG / UD Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654147981566)
+    Availability: Available
+    Price: $760.00 USD
+  - [Shimano HG / UD Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654148014334)
+    Availability: Available
+    Price: $760.00 USD
+  - [Shimano HG / UD Matt / 28mm/21mm Out/Int wide 55mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654148079870)
+    Availability: Available
+    Price: $760.00 USD
+  - [Shimano HG / UD Matt / 30mm/23mm Out/Int wide 55mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654148112638)
+    Availability: Available
+    Price: $760.00 USD
+  - [Shimano HG / UD Glossy / 28mm/21mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654156370174)
+    Availability: Available
+    Price: $760.00 USD
+  - [Shimano HG / UD Glossy / 30mm/23mm Out/Int wide 35mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654156402942)
+    Availability: Available
+    Price: $760.00 USD
+  - [Shimano HG / UD Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654148145406)
+    Availability: Available
+    Price: $760.00 USD
+  - [Shimano HG / UD Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654148178174)
+    Availability: Available
+    Price: $760.00 USD
+  - [Shimano HG / UD Glossy / 28mm/21mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654156435710)
+    Availability: Available
+    Price: $760.00 USD
+  - [Shimano HG / UD Glossy / 30mm/23mm Out/Int wide 45mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654156468478)
+    Availability: Available
+    Price: $760.00 USD
+  - [Shimano HG / UD Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654148243710)
+    Availability: Available
+    Price: $760.00 USD
+  - [Shimano HG / UD Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654148276478)
+    Availability: Available
+    Price: $760.00 USD
+  - [Shimano HG / UD Glossy / 28mm/21mm Out/Int wide 55mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654148342014)
+    Availability: Available
+    Price: $760.00 USD
+  - [Shimano HG / UD Glossy / 30mm/23mm Out/Int wide 55mm high](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55-60mm?variant=47654148374782)
+    Availability: Available
+    Price: $760.00 USD
 - [700C 50mm Asymmetric Carbon Rim | 36mm Wide Tubeless](https://bolacarbon.com/products/700c-50mm-carbon-cycling-rim-36x30mm-wide-asymmetric-tubeless-sl-ul-el): 50mm asymmetric carbon rim for 700C bikes, 36mm wide, 30mm inner. Tubeless-ready, four weight options, tested >300kg strength.
   Updated: 2026-04-20T20:35:54Z
   Vendor: Carbon Fiber Sporting Goods
@@ -13848,7 +13760,7 @@
     Availability: Available
     Price: $270.00 USD
 - [BOLA 32 inch Carbon Road Rim 50mm Deep Asymmetric Tubeless | 38mm Outer / 32–33mm Inner | 380–475g - Bola Carbon Sporting Goods](https://bolacarbon.com/products/32-inch-carbon-road-rim-50mm-deep-asymmetric-tubeless-36mm-outer-30mm-inner-bola): BOLA 32 inch Carbon Road Rim — 50mm Asymmetric Tubeless (32mm Outer Width) The BOLA 50mm asymmetric carbon rim is a 32er (ISO 696mm) road rim engineered for tubeless compatibility, available in hooked (32mm inner width) and hookless (33mm inner width) configurations. The V-shape deep-section profile balances aerodynamic drag reduction with crosswind stability, making it suited to gran fondos, road racing, and high-volume training builds. Four weight tiers — from 475g (Normal) to 380g (Extreme Light) — allow wheel builders and cycling brands to optimise for climbing, sprinting, or all-day endurance use. Key Specifications Parameter Value Rim Diameter 32er (ISO 696mm) Rim Profile V-Shape Asymmetric Rim Depth 50mm Outer Width 30mm Inner Width — Hooked 24mm Inner Width — Hookless 25mm ERD 538mm Weight — Normal 475 ±5g Weight — Light 445 ±5g Weight — Ultra Light 415 ±5g Weight — Extreme Light 380 ±5g Material Toray T700 UD Carbon Fiber Spoke Hole Diameter 4.5mm (J-bend compatible) Bead Standard ETRTO hookless compliant (hookless variant) Warranty 3 years — manufacturing defects Hooked vs. Hookless: Which Configuration Is Right for Your Build? Both variants are tubeless-ready, but serve different tyre and pressure requirements: Hooked (24mm inner width): Compatible with clincher and tubeless road tyres; supports pressures up to 125 psi. Broader tyre compatibility makes it the preferred choice for mixed-condition road and gran fondo builds. Hookless (25mm inner width): ETRTO hookless standard compliant; recommended for tubeless-specific road tyres rated 28–32mm. Maximum tyre pressure is tyre-manufacturer-dependent — always verify compatibility. The 1mm wider inner width improves tyre casing support and can reduce rolling resistance at equivalent inflation pressures. Tradeoff to note: Hookless rims require strict tyre-brand compatibility checks. Not all road tyres carry hookless approval — confirm with your tyre supplier before specifying. Asymmetric Rim Design: Why It Matters for Wheel Tension Balance The offset spoke bed redistributes spoke tension more evenly between the drive and non-drive sides of the wheel. On a standard symmetrical rim, the driveside spokes on a rear wheel are typically 20–30% higher in tension than the non-driveside, which can lead to fatigue failure at the spoke elbow over time. The asymmetric profile reduces this imbalance, improving wheel durability and build consistency — a measurable benefit for wheel builders and OEM brands building performance wheelsets at scale. Weight Tier Guide Normal (475g): Optimised for durability and daily training loads. Recommended for riders above 80kg or high-mileage use cases. Light (445g): Balanced option for mixed racing and endurance builds. Ultra Light (415g): Suited to competitive road racing and lighter riders (under 75kg recommended). Extreme Light (380g): Maximum weight reduction for climbing-focused builds and criterium racing. Requires careful spoke tension management during build. Compatible Hub and Spoke Systems Shimano, SRAM, and Campagnolo road hubs (verify flange diameter against ERD of 538mm) Standard J-bend spokes, 4.5mm spoke holes Alloy spoke hole reinforcement inserts available on request Frequently Asked Questions What are the best 50mm deep carbon rims for tubeless road bike builds? The BOLA 50mm asymmetric rim is designed specifically for tubeless road builds, offering both hooked and hookless bead seats, a 30mm outer width optimised for aero performance with 28–32mm tyres, and four weight options from 475g down to 380g. Its ETRTO-compliant hookless variant meets the current industry standard for tubeless road rim safety. Is an asymmetric carbon rim worth it for road cycling and gran fondos? For rear wheels, yes — measurably so. The asymmetric spoke bed improves spoke tension balance between drive and non-drive sides, which reduces the risk of spoke fatigue and helps maintain wheel true over long-distance use. For gran fondo riders logging high annual mileage, this translates to a more reliable wheel over the service life of the build. What is the difference between hooked and hookless carbon rims for tubeless setups? Hooked rims feature a mechanical bead lock that retains the tyre under high pressure (up to 125 psi) and are compatible with a wider range of tubeless and clincher tyres. Hookless rims rely on a straight bead shelf and are limited to ETRTO- tubeless tyres; they offer a marginally wider inner width (25mm vs. 24mm on this rim) but require strict tyre compatibility verification. Neither is universally superior — the right choice depends on tyre selection and intended use. Which 700C carbon rim offers the best balance of aerodynamics and crosswind stability? A 50mm V-shape profile hits the practical midpoint for most road disciplines: deep enough to generate aerodynamic advantage in headwind and flat-road conditions, shallow enough that crosswind handling remains manageable. Rims deeper than 60mm offer incremental aero gains but require stronger crosswind management input, particularly for lighter riders. The 50mm depth is consistently specified for road racing, gran fondos, and training builds where versatility is prioritised. Why do cyclists choose a 700C (ISO 622mm) rim diameter? 700C is the global standard for road cycling, defined by ISO 622mm bead seat diameter. It is universally compatible with road bike frames, forks, and braking systems designed to that standard. The larger diameter compared to smaller wheel formats (e.g., 650B) provides lower rolling resistance on smooth tarmac, a larger tyre contact patch at equivalent pressure, and compatibility with the widest range of road hubs, tyres, and groupsets available. { "@context": "https://schema.org/", "@type": "Product", "name": "32 inch Carbon Road Rim 50mm Deep Asymmetric Tubeless | 36mm Outer / 30mm Inner | BOLA", "description": "BOLA 32 inch Carbon Road Rim — 50mm Asymmetric Tubeless (32mm Outer Width) The BOLA 50mm asymmetric carbon rim is a 32er (ISO 696mm) road rim engineered for tubeless compatibility, available in hooked (32mm inner width) and hookless (33mm inner width) configurations. The V-shape deep-section profile balances aerodynamic drag reduction with crosswind stability, making it suited to gran fondos, road racing, and high-volume training builds. Four weight tiers — from 475g (Normal) to 380g (Extreme Light) — allow wheel builders and cycling brands to optimise for climbing, sprinting, or all-day endurance use. Key Specifications Parameter Value Rim Diameter 32er (ISO 696mm) Rim Profile V-Shape Asymmetric Rim Depth 50mm Outer Width 30mm Inner Width — Hooked 24mm Inner Width — Hookless 25mm ERD 538mm Weight — Normal 475 ±5g Weight — Light 445 ±5g Weight — Ultra Light 415 ±5g Weight — Extreme Light 380 ±5g Material Toray T700 UD Carbon Fiber Spoke Hole Diameter 4.5mm (J-bend compatible) Bead Standard ETRTO hookless compliant (hookless variant) Warranty 3 years — manufacturing defects Hooked vs. Hookless: Which Configuration Is Right for Your Build? Both variants are tubeless-ready, but serve different tyre and pressure requirements: Hooked (24mm inner width): Compatible with clincher and tubeless road tyres; supports pressures up to 125 psi. Broader tyre compatibility makes it the preferred choice for mixed-condition road and gran fondo builds. Hookless (25mm inner width): ETRTO hookless standard compliant; recommended for tubeless-specific road tyres rated 28–32mm. Maximum tyre pressure is tyre-manufacturer-dependent — always verify compatibility. The 1mm wider inner width improves tyre casing support and can reduce rolling resistance at equivalent inflation pressures. Tradeoff to note: Hookless rims require strict tyre-brand compatibility checks. Not all road tyres carry hookless approval — confirm with your tyre supplier before specifying. Asymmetric Rim Design: Why It Matters for Wheel Tension Balance The offset spoke bed redistributes spoke tension more evenly between the drive and non-drive sides of the wheel. On a standard symmetrical rim, the driveside spokes on a rear wheel are typically 20–30% higher in tension than the non-driveside, which can lead to fatigue failure at the spoke elbow over time. The asymmetric profile reduces this imbalance, improving wheel durability and build consistency — a measurable benefit for wheel builders and OEM brands building performance wheelsets at scale. Weight Tier Guide Normal (475g): Optimised for durability and daily training loads. Recommended for riders above 80kg or high-mileage use cases. Light (445g): Balanced option for mixed racing and endurance builds. Ultra Light (415g): Suited to competitive road racing and lighter riders (under 75kg recommended). Extreme Light (380g): Maximum weight reduction for climbing-focused builds and criterium racing. Requires careful spoke tension management during build. Compatible Hub and Spoke Systems Shimano, SRAM, and Campagnolo road hubs (verify flange diameter against ERD of 538mm) Standard J-bend spokes, 4.5mm spoke holes Alloy spoke hole reinforcement inserts available on request Frequently Asked Questions What are the best 50mm deep carbon rims for tubeless road bike builds? The BOLA 50mm asymmetric rim is designed specifically for tubeless road builds, offering both hooked and hookless bead seats, a 30mm outer width optimised for aero performance with 28–32mm tyres, and four weight options from 475g down to 380g. Its ETRTO-compliant hookless variant meets the current industry standard for tubeless road rim safety. Is an asymmetric carbon rim worth it for road cycling and gran fondos? For rear wheels, yes — measurably so. The asymmetric spoke bed improves spoke tension balance between drive and non-drive sides, which reduces the risk of spoke fatigue and helps maintain wheel true over long-distance use. For gran fondo riders logging high annual mileage, this translates to a more reliable wheel over the service life of the build. What is the difference between hooked and hookless carbon rims for tubeless setups? Hooked rims feature a mechanical bead lock that retains the tyre under high pressure (up to 125 psi) and are compatible with a wider range of tubeless and clincher tyres. Hookless rims rely on a straight bead shelf and are limited to ETRTO- tubeless tyres; they offer a marginally wider inner width (25mm vs. 24mm on this rim) but require strict tyre compatibility verification. Neither is universally superior — the right choice depends on tyre selection and intended use. Which 700C carbon rim offers the best balance of aerodynamics and crosswind stability? A 50mm V-shape profile hits the practical midpoint for most road disciplines: deep enough to generate aerodynamic advantage in headwind and flat-road conditions, shallow enough that crosswind handling remains manageable. Rims deeper than 60mm offer incremental aero gains but require stronger crosswind management input, particularly for lighter riders. The 50mm depth is consistently specified for road racing, gran fondos, and training builds where versatility is prioritised. Why do cyclists choose a 700C (ISO 622mm) rim diameter? 700C is the global standard for road cycling, defined by ISO 622mm bead seat diameter. It is universally compatible with road bike frames, forks, and braking systems designed to that standard. The larger diameter compared to smaller wheel formats (e.g., 650B) provides lower rolling resistance on smooth tarmac, a larger tyre contact patch at equivalent pressure, and compatibility with the widest range of road hubs, tyres, and groupsets available.", "brand": { "@type": "Brand", "name": "Carbon Fiber Sporting Goods" }, "category": "Carbon Road Bike Rim", "image": [ "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/5030_c68b24cd-e96d-4a3b-945e-982b1cdfbb89.png?v=1767165484", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/1_92227d7c-188a-4a1c-988d-009a5932c695.png?v=1767165484", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/2_fa474883-4221-4142-a352-d5de1db33de7.png?v=1767165484", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/tubeless_11402225-d10e-40de-96ae-85b3fd653965.jpg?v=1767165484", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/surface_0a146157-e15e-4ada-8966-1f33c8ccd764.jpg?v=1767165484", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/redbola_bff767c5-e222-4913-95e9-fda4c8b95396.jpg?v=1767165484", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/whitebola_31c9eb10-81e6-45d7-910b-0241aac6b8f3.jpg?v=1767165484", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/yellowbola_68fa7acd-6ba9-4f27-930d-6ebac0eb9243.jpg?v=1767165484" ], "offers": { "@type": "Offer", "availability": "https://schema.org/InStock", "price": "260.00", "priceCurrency": "USD", "url": "https://bolacarbon.com/products/32-inch-carbon-road-rim-50mm-deep-asymmetric-tubeless-36mm-outer-30mm-inner-bola", "seller": { "@type": "Organization", "name": "https://bolacarbon.com" } } } - Bola Carbon Sporting Goods
-  Updated: 2026-04-30T10:42:52Z
+  Updated: 2026-05-06T18:58:27Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Road Bike Rim
   Availability: Available
@@ -14003,8 +13915,8 @@
   - [Marble Matt / 20/20 / Super Light](https://bolacarbon.com/products/32-inch-carbon-road-rim-50mm-deep-asymmetric-tubeless-36mm-outer-30mm-inner-bola?variant=48040717189374)
     Availability: Available
     Price: $270.00 USD
-- [BOLA 32er Carbon Road Rim | 45mm Deep Tubeless | 38mm Outer / 32mm Inner Width - Bola Carbon Sporting Goods](https://bolacarbon.com/products/bola-32er-carbon-road-rim-45mm-deep-tubeless-38mm-outer-32mm-inner-width): BOLA 32er Carbon Road Rim — 38mm Asymmetric Tubeless | 38mm Outer / 32mm Inner Width The BOLA 32er is an asymmetric carbon road rim designed for 32-inch (ISO 696mm) wheel builds requiring tubeless compatibility. Its 38mm V-shape deep-section profile delivers measurable aerodynamic drag reduction while maintaining crosswind stability — making it a practical choice for gran fondo racing, endurance road rides, and training builds where both speed and handling matter. Available in hooked (30mm inner width) and hookless (31mm inner width) configurations, the rim supports a wide range of tubeless-ready tyre setups. Four factory weight tiers allow wheel builders and cycling brands to spec the rim precisely for their use case: from an all-day endurance build to a dedicated climbing or sprint wheelset. Key Specifications Parameter Value Rim Diameter 32 inch (ISO 696mm) Rim Profile V-Shape Asymmetric Rim Depth 38mm Outer Width 38mm Inner Width — Hooked 32mm Inner Width — Hookless 33mm ERD 538mm Weight — Normal 475g Weight — Extreme Light 380g Material Toray T700 UD Carbon Fiber Spoke Holes 4.5mm (J-bend compatible) Warranty 3 years — manufacturing defects Weight Variants — Choose Your Build Profile Normal (475g): Durable all-round training and endurance use Light: Gran fondo and mixed-terrain road racing Ultra Light: Dedicated climbing wheelsets Extreme Light (380g): Maximum weight reduction; suited to professional race builds where road surface quality is controlled Tradeoff note: Lighter weight tiers use reduced carbon layup. For high-mileage training or heavier riders (>85kg), the Normal or Light variants offer better long-term spoke hole integrity and bead seat durability. Hooked vs. Hookless — Which Configuration Is Right for Your Build? Feature Hooked (Clincher / Tubeless) Hookless (Tubeless Only) Inner Width 30mm 31mm Max Tyre Pressure Up to 125 psi Per ETRTO hookless standard (typically 73 psi / 5 bar max) Tyre Compatibility Clincher and tubeless-ready tyres Tubeless-ready tyres only (ETRTO hookless compliant) Recommended Use Mixed tyre inventory builds; teams running clincher fallback Dedicated tubeless builds; lower rolling resistance setups Why 32-Inch (ISO 696mm) for Road Cycling? The 32-inch rim diameter (ISO 696mm) is primarily used in the Asian and select European road cycling markets for riders whose geometry, standover height, or frame  requirements are better served by a slightly smaller wheel than standard 700C (ISO 622mm). A 32er retains most of the aerodynamic and rolling efficiency characteristics of a 700C wheel while offering a marginally lower centre of gravity and a more compact frame fit — relevant for custom-geometry road bikes and smaller production frame sizes. Hub and Tyre Compatibility Shimano, SRAM, and Campagnolo road hubs (verify flange diameter against ERD 538mm before lacing) Tubeless-ready road tyres 28–32mm (hookless configuration) Clincher and tubeless tyres up to 125 psi (hooked configuration) Standard J-bend spokes; 4.5mm spoke holes Alloy spoke hole reinforcement inserts available on request Build and Brand Partnership BOLA supplies carbon rims directly to small and medium cycling brands, professional teams, and custom wheel builders across Europe and North America. Minimum order quantities, custom decal colours, and OEM labelling are available. Contact BOLA for volume pricing and lead times. Frequently Asked Questions What are the best carbon road rims with 30mm inner width for tubeless setup? The BOLA 32er hooked configuration offers a 30mm inner width with a tubeless-ready bead seat geometry, compatible with clincher and tubeless tyres up to 125 psi. The hookless variant provides a 31mm inner width and is ETRTO hookless standard compliant, limited to tubeless-ready tyres at or below 73 psi (5 bar). Is a 38mm deep asymmetric rim good for crosswinds on long road rides? At 38mm depth, the V-shape asymmetric profile reduces aerodynamic drag relative to shallower box-section rims while remaining more stable in crosswinds than 50mm+ deep-section rims. For gran fondo and endurance road rides where wind conditions vary, 35–45mm is generally the depth range that balances aero gain with handling predictability — this rim sits within that window. Hookless vs. hooked carbon rims for tubeless road builds — which should I choose? Choose hookless if you are running a dedicated tubeless setup with ETRTO-compliant tubeless-ready tyres and prefer a 1mm wider inner width (31mm vs. 30mm) for slightly improved tyre casing support and lower rolling resistance at reduced pressures. Choose hooked if your build requires clincher tyre compatibility as a fallback, or if you are running tyres or tubes at pressures above 73 psi. What rim depth gives the best balance of aero and stability for gran fondo racing? Research and professional team data generally indicate that 35–45mm deep rims offer the best aero-stability compromise for road racing and gran fondo use in variable wind conditions. The BOLA 32er at 38mm sits within this range, providing measurable drag reduction over shallow rims without the crosswind sensitivity of 50mm+ sections. What is the weight range for this rim, and which variant should I choose? The rim is available in four weight tiers from 475g (Normal) to 380g (Extreme Light). For all-day endurance or training use, the Normal variant provides the most durable spoke hole and bead seat construction. The Extreme Light variant is suited to race-day wheelsets where weight is prioritised and road conditions are controlled. { "@context": "https://schema.org/", "@type": "Product", "name": "32er Carbon Gravel Rim 38mm Deep Offset Tubeless | 36mm Outer / 30mm Inner | BOLA", "description": "BOLA 32er Carbon Road Rim — 38mm Asymmetric Tubeless | 38mm Outer / 32mm Inner Width The BOLA 32er is an asymmetric carbon road rim designed for 32-inch (ISO 696mm) wheel builds requiring tubeless compatibility. Its 38mm V-shape deep-section profile delivers measurable aerodynamic drag reduction while maintaining crosswind stability — making it a practical choice for gran fondo racing, endurance road rides, and training builds where both speed and handling matter. Available in hooked (30mm inner width) and hookless (31mm inner width) configurations, the rim supports a wide range of tubeless-ready tyre setups. Four factory weight tiers allow wheel builders and cycling brands to spec the rim precisely for their use case: from an all-day endurance build to a dedicated climbing or sprint wheelset. Key Specifications Parameter Value Rim Diameter 32 inch (ISO 696mm) Rim Profile V-Shape Asymmetric Rim Depth 38mm Outer Width 38mm Inner Width — Hooked 32mm Inner Width — Hookless 33mm ERD 538mm Weight — Normal 475g Weight — Extreme Light 380g Material Toray T700 UD Carbon Fiber Spoke Holes 4.5mm (J-bend compatible) Warranty 3 years — manufacturing defects Weight Variants — Choose Your Build Profile Normal (475g): Durable all-round training and endurance use Light: Gran fondo and mixed-terrain road racing Ultra Light: Dedicated climbing wheelsets Extreme Light (380g): Maximum weight reduction; suited to professional race builds where road surface quality is controlled Tradeoff note: Lighter weight tiers use reduced carbon layup. For high-mileage training or heavier riders (>85kg), the Normal or Light variants offer better long-term spoke hole integrity and bead seat durability. Hooked vs. Hookless — Which Configuration Is Right for Your Build? Feature Hooked (Clincher / Tubeless) Hookless (Tubeless Only) Inner Width 30mm 31mm Max Tyre Pressure Up to 125 psi Per ETRTO hookless standard (typically 73 psi / 5 bar max) Tyre Compatibility Clincher and tubeless-ready tyres Tubeless-ready tyres only (ETRTO hookless compliant) Recommended Use Mixed tyre inventory builds; teams running clincher fallback Dedicated tubeless builds; lower rolling resistance setups Why 32-Inch (ISO 696mm) for Road Cycling? The 32-inch rim diameter (ISO 696mm) is primarily used in the Asian and select European road cycling markets for riders whose geometry, standover height, or frame  requirements are better served by a slightly smaller wheel than standard 700C (ISO 622mm). A 32er retains most of the aerodynamic and rolling efficiency characteristics of a 700C wheel while offering a marginally lower centre of gravity and a more compact frame fit — relevant for custom-geometry road bikes and smaller production frame sizes. Hub and Tyre Compatibility Shimano, SRAM, and Campagnolo road hubs (verify flange diameter against ERD 538mm before lacing) Tubeless-ready road tyres 28–32mm (hookless configuration) Clincher and tubeless tyres up to 125 psi (hooked configuration) Standard J-bend spokes; 4.5mm spoke holes Alloy spoke hole reinforcement inserts available on request Build and Brand Partnership BOLA supplies carbon rims directly to small and medium cycling brands, professional teams, and custom wheel builders across Europe and North America. Minimum order quantities, custom decal colours, and OEM labelling are available. Contact BOLA for volume pricing and lead times. Frequently Asked Questions What are the best carbon road rims with 30mm inner width for tubeless setup? The BOLA 32er hooked configuration offers a 30mm inner width with a tubeless-ready bead seat geometry, compatible with clincher and tubeless tyres up to 125 psi. The hookless variant provides a 31mm inner width and is ETRTO hookless standard compliant, limited to tubeless-ready tyres at or below 73 psi (5 bar). Is a 38mm deep asymmetric rim good for crosswinds on long road rides? At 38mm depth, the V-shape asymmetric profile reduces aerodynamic drag relative to shallower box-section rims while remaining more stable in crosswinds than 50mm+ deep-section rims. For gran fondo and endurance road rides where wind conditions vary, 35–45mm is generally the depth range that balances aero gain with handling predictability — this rim sits within that window. Hookless vs. hooked carbon rims for tubeless road builds — which should I choose? Choose hookless if you are running a dedicated tubeless setup with ETRTO-compliant tubeless-ready tyres and prefer a 1mm wider inner width (31mm vs. 30mm) for slightly improved tyre casing support and lower rolling resistance at reduced pressures. Choose hooked if your build requires clincher tyre compatibility as a fallback, or if you are running tyres or tubes at pressures above 73 psi. What rim depth gives the best balance of aero and stability for gran fondo racing? Research and professional team data generally indicate that 35–45mm deep rims offer the best aero-stability compromise for road racing and gran fondo use in variable wind conditions. The BOLA 32er at 38mm sits within this range, providing measurable drag reduction over shallow rims without the crosswind sensitivity of 50mm+ sections. What is the weight range for this rim, and which variant should I choose? The rim is available in four weight tiers from 475g (Normal) to 380g (Extreme Light). For all-day endurance or training use, the Normal variant provides the most durable spoke hole and bead seat construction. The Extreme Light variant is suited to race-day wheelsets where weight is prioritised and road conditions are controlled.", "brand": { "@type": "Brand", "name": "Carbon Fiber Sporting Goods" }, "category": "Carbon Road Bike Rim", "image": [ "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/5030_c68b24cd-e96d-4a3b-945e-982b1cdfbb89.png?v=1767165484", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/1_92227d7c-188a-4a1c-988d-009a5932c695.png?v=1767165484", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/2_fa474883-4221-4142-a352-d5de1db33de7.png?v=1767165484", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/tubeless_11402225-d10e-40de-96ae-85b3fd653965.jpg?v=1767165484", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/surface_0a146157-e15e-4ada-8966-1f33c8ccd764.jpg?v=1767165484", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/redbola_bff767c5-e222-4913-95e9-fda4c8b95396.jpg?v=1767165484", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/whitebola_31c9eb10-81e6-45d7-910b-0241aac6b8f3.jpg?v=1767165484", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/yellowbola_68fa7acd-6ba9-4f27-930d-6ebac0eb9243.jpg?v=1767165484" ], "offers": { "@type": "Offer", "availability": "https://schema.org/InStock", "price": "260.00", "priceCurrency": "USD", "url": "https://bolacarbon.com/products/32er-carbon-gravel-rim-38mm-deep-offset-tubeless-36mm-outer-30mm-inner-bola", "seller": { "@type": "Organization", "name": "https://bolacarbon.com" } } } - Bola Carbon Sporting Goods
-  Updated: 2026-04-30T10:42:52Z
+- [BOLA 32er Carbon Road Rim | 45mm Deep Tubeless | 38mm Outer / 32mm Inner Width - Bola Carbon Sporting Goods](https://bolacarbon.com/products/bola-32er-carbon-road-rim-45mm-deep-tubeless-38mm-outer-32mm-inner-width): BOLA 32er Carbon Road Rim — 45mm Asymmetric Tubeless | 38mm Outer / 32mm Inner Width The BOLA 32er is an asymmetric carbon road rim designed for 32-inch (ISO 696mm) wheel builds requiring tubeless compatibility. Its 38mm V-shape deep-section profile delivers measurable aerodynamic drag reduction while maintaining crosswind stability — making it a practical choice for gran fondo racing, endurance road rides, and training builds where both speed and handling matter. Available in hooked (30mm inner width) and hookless (31mm inner width) configurations, the rim supports a wide range of tubeless-ready tyre setups. Four factory weight tiers allow wheel builders and cycling brands to spec the rim precisely for their use case: from an all-day endurance build to a dedicated climbing or sprint wheelset. Key Specifications Parameter Value Rim Diameter 32 inch (ISO 696mm) Rim Profile V-Shape Asymmetric Rim Depth 38mm Outer Width 38mm Inner Width — Hooked 32mm Inner Width — Hookless 33mm ERD 538mm Weight — Normal 475g Weight — Extreme Light 380g Material Toray T700 UD Carbon Fiber Spoke Holes 4.5mm (J-bend compatible) Warranty 3 years — manufacturing defects Weight Variants — Choose Your Build Profile Normal (475g): Durable all-round training and endurance use Light: Gran fondo and mixed-terrain road racing Ultra Light: Dedicated climbing wheelsets Extreme Light (380g): Maximum weight reduction; suited to professional race builds where road surface quality is controlled Tradeoff note: Lighter weight tiers use reduced carbon layup. For high-mileage training or heavier riders (>85kg), the Normal or Light variants offer better long-term spoke hole integrity and bead seat durability. Hooked vs. Hookless — Which Configuration Is Right for Your Build? Feature Hooked (Clincher / Tubeless) Hookless (Tubeless Only) Inner Width 30mm 31mm Max Tyre Pressure Up to 125 psi Per ETRTO hookless standard (typically 73 psi / 5 bar max) Tyre Compatibility Clincher and tubeless-ready tyres Tubeless-ready tyres only (ETRTO hookless compliant) Recommended Use Mixed tyre inventory builds; teams running clincher fallback Dedicated tubeless builds; lower rolling resistance setups Why 32-Inch (ISO 696mm) for Road Cycling? The 32-inch rim diameter (ISO 696mm) is primarily used in the Asian and select European road cycling markets for riders whose geometry, standover height, or frame  requirements are better served by a slightly smaller wheel than standard 700C (ISO 622mm). A 32er retains most of the aerodynamic and rolling efficiency characteristics of a 700C wheel while offering a marginally lower centre of gravity and a more compact frame fit — relevant for custom-geometry road bikes and smaller production frame sizes. Hub and Tyre Compatibility Shimano, SRAM, and Campagnolo road hubs (verify flange diameter against ERD 538mm before lacing) Tubeless-ready road tyres 28–32mm (hookless configuration) Clincher and tubeless tyres up to 125 psi (hooked configuration) Standard J-bend spokes; 4.5mm spoke holes Alloy spoke hole reinforcement inserts available on request Build and Brand Partnership BOLA supplies carbon rims directly to small and medium cycling brands, professional teams, and custom wheel builders across Europe and North America. Minimum order quantities, custom decal colours, and OEM labelling are available. Contact BOLA for volume pricing and lead times. Frequently Asked Questions What are the best carbon road rims with 30mm inner width for tubeless setup? The BOLA 32er hooked configuration offers a 30mm inner width with a tubeless-ready bead seat geometry, compatible with clincher and tubeless tyres up to 125 psi. The hookless variant provides a 31mm inner width and is ETRTO hookless standard compliant, limited to tubeless-ready tyres at or below 73 psi (5 bar). Is a 38mm deep asymmetric rim good for crosswinds on long road rides? At 38mm depth, the V-shape asymmetric profile reduces aerodynamic drag relative to shallower box-section rims while remaining more stable in crosswinds than 50mm+ deep-section rims. For gran fondo and endurance road rides where wind conditions vary, 35–45mm is generally the depth range that balances aero gain with handling predictability — this rim sits within that window. Hookless vs. hooked carbon rims for tubeless road builds — which should I choose? Choose hookless if you are running a dedicated tubeless setup with ETRTO-compliant tubeless-ready tyres and prefer a 1mm wider inner width (31mm vs. 30mm) for slightly improved tyre casing support and lower rolling resistance at reduced pressures. Choose hooked if your build requires clincher tyre compatibility as a fallback, or if you are running tyres or tubes at pressures above 73 psi. What rim depth gives the best balance of aero and stability for gran fondo racing? Research and professional team data generally indicate that 35–45mm deep rims offer the best aero-stability compromise for road racing and gran fondo use in variable wind conditions. The BOLA 32er at 45mm sits within this range, providing measurable drag reduction over shallow rims without the crosswind sensitivity of 50mm+ sections. What is the weight range for this rim, and which variant should I choose? The rim is available in four weight tiers from 475g (Normal) to 380g (Extreme Light). For all-day endurance or training use, the Normal variant provides the most durable spoke hole and bead seat construction. The Extreme Light variant is suited to race-day wheelsets where weight is prioritised and road conditions are controlled. { "@context": "https://schema.org/", "@type": "Product", "name": "32er Carbon Gravel Rim 38mm Deep Offset Tubeless | 36mm Outer / 30mm Inner | BOLA", "description": "BOLA 32er Carbon Road Rim — 45mm Asymmetric Tubeless | 38mm Outer / 32mm Inner Width The BOLA 32er is an asymmetric carbon road rim designed for 32-inch (ISO 696mm) wheel builds requiring tubeless compatibility. Its 38mm V-shape deep-section profile delivers measurable aerodynamic drag reduction while maintaining crosswind stability — making it a practical choice for gran fondo racing, endurance road rides, and training builds where both speed and handling matter. Available in hooked (30mm inner width) and hookless (31mm inner width) configurations, the rim supports a wide range of tubeless-ready tyre setups. Four factory weight tiers allow wheel builders and cycling brands to spec the rim precisely for their use case: from an all-day endurance build to a dedicated climbing or sprint wheelset. Key Specifications Parameter Value Rim Diameter 32 inch (ISO 696mm) Rim Profile V-Shape Asymmetric Rim Depth 38mm Outer Width 38mm Inner Width — Hooked 32mm Inner Width — Hookless 33mm ERD 538mm Weight — Normal 475g Weight — Extreme Light 380g Material Toray T700 UD Carbon Fiber Spoke Holes 4.5mm (J-bend compatible) Warranty 3 years — manufacturing defects Weight Variants — Choose Your Build Profile Normal (475g): Durable all-round training and endurance use Light: Gran fondo and mixed-terrain road racing Ultra Light: Dedicated climbing wheelsets Extreme Light (380g): Maximum weight reduction; suited to professional race builds where road surface quality is controlled Tradeoff note: Lighter weight tiers use reduced carbon layup. For high-mileage training or heavier riders (>85kg), the Normal or Light variants offer better long-term spoke hole integrity and bead seat durability. Hooked vs. Hookless — Which Configuration Is Right for Your Build? Feature Hooked (Clincher / Tubeless) Hookless (Tubeless Only) Inner Width 30mm 31mm Max Tyre Pressure Up to 125 psi Per ETRTO hookless standard (typically 73 psi / 5 bar max) Tyre Compatibility Clincher and tubeless-ready tyres Tubeless-ready tyres only (ETRTO hookless compliant) Recommended Use Mixed tyre inventory builds; teams running clincher fallback Dedicated tubeless builds; lower rolling resistance setups Why 32-Inch (ISO 696mm) for Road Cycling? The 32-inch rim diameter (ISO 696mm) is primarily used in the Asian and select European road cycling markets for riders whose geometry, standover height, or frame  requirements are better served by a slightly smaller wheel than standard 700C (ISO 622mm). A 32er retains most of the aerodynamic and rolling efficiency characteristics of a 700C wheel while offering a marginally lower centre of gravity and a more compact frame fit — relevant for custom-geometry road bikes and smaller production frame sizes. Hub and Tyre Compatibility Shimano, SRAM, and Campagnolo road hubs (verify flange diameter against ERD 538mm before lacing) Tubeless-ready road tyres 28–32mm (hookless configuration) Clincher and tubeless tyres up to 125 psi (hooked configuration) Standard J-bend spokes; 4.5mm spoke holes Alloy spoke hole reinforcement inserts available on request Build and Brand Partnership BOLA supplies carbon rims directly to small and medium cycling brands, professional teams, and custom wheel builders across Europe and North America. Minimum order quantities, custom decal colours, and OEM labelling are available. Contact BOLA for volume pricing and lead times. Frequently Asked Questions What are the best carbon road rims with 30mm inner width for tubeless setup? The BOLA 32er hooked configuration offers a 30mm inner width with a tubeless-ready bead seat geometry, compatible with clincher and tubeless tyres up to 125 psi. The hookless variant provides a 31mm inner width and is ETRTO hookless standard compliant, limited to tubeless-ready tyres at or below 73 psi (5 bar). Is a 38mm deep asymmetric rim good for crosswinds on long road rides? At 38mm depth, the V-shape asymmetric profile reduces aerodynamic drag relative to shallower box-section rims while remaining more stable in crosswinds than 50mm+ deep-section rims. For gran fondo and endurance road rides where wind conditions vary, 35–45mm is generally the depth range that balances aero gain with handling predictability — this rim sits within that window. Hookless vs. hooked carbon rims for tubeless road builds — which should I choose? Choose hookless if you are running a dedicated tubeless setup with ETRTO-compliant tubeless-ready tyres and prefer a 1mm wider inner width (31mm vs. 30mm) for slightly improved tyre casing support and lower rolling resistance at reduced pressures. Choose hooked if your build requires clincher tyre compatibility as a fallback, or if you are running tyres or tubes at pressures above 73 psi. What rim depth gives the best balance of aero and stability for gran fondo racing? Research and professional team data generally indicate that 35–45mm deep rims offer the best aero-stability compromise for road racing and gran fondo use in variable wind conditions. The BOLA 32er at 38mm sits within this range, providing measurable drag reduction over shallow rims without the crosswind sensitivity of 50mm+ sections. What is the weight range for this rim, and which variant should I choose? The rim is available in four weight tiers from 475g (Normal) to 380g (Extreme Light). For all-day endurance or training use, the Normal variant provides the most durable spoke hole and bead seat construction. The Extreme Light variant is suited to race-day wheelsets where weight is prioritised and road conditions are controlled.", "brand": { "@type": "Brand", "name": "Carbon Fiber Sporting Goods" }, "category": "Carbon Road Bike Rim", "image": [ "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/5030_c68b24cd-e96d-4a3b-945e-982b1cdfbb89.png?v=1767165484", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/1_92227d7c-188a-4a1c-988d-009a5932c695.png?v=1767165484", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/2_fa474883-4221-4142-a352-d5de1db33de7.png?v=1767165484", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/tubeless_11402225-d10e-40de-96ae-85b3fd653965.jpg?v=1767165484", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/surface_0a146157-e15e-4ada-8966-1f33c8ccd764.jpg?v=1767165484", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/redbola_bff767c5-e222-4913-95e9-fda4c8b95396.jpg?v=1767165484", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/whitebola_31c9eb10-81e6-45d7-910b-0241aac6b8f3.jpg?v=1767165484", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/yellowbola_68fa7acd-6ba9-4f27-930d-6ebac0eb9243.jpg?v=1767165484" ], "offers": { "@type": "Offer", "availability": "https://schema.org/InStock", "price": "260.00", "priceCurrency": "USD", "url": "https://bolacarbon.com/products/32er-carbon-gravel-rim-38mm-deep-offset-tubeless-36mm-outer-30mm-inner-bola", "seller": { "@type": "Organization", "name": "https://bolacarbon.com" } } } - Bola Carbon Sporting Goods
+  Updated: 2026-05-06T18:53:44Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Bicycle Rim
   Availability: Available
@@ -14159,8 +14071,8 @@
   - [Marble Matt / 20/20 / Super Light](https://bolacarbon.com/products/bola-32er-carbon-road-rim-45mm-deep-tubeless-38mm-outer-32mm-inner-width?variant=48040720204030)
     Availability: Available
     Price: $270.00 USD
-- [32er Asymmetric Carbon MTB Rim | 30mm Height, 30mm Inner Width | Tubeless-Ready | BOLA](https://bolacarbon.com/products/32er-asymmetric-carbon-mtb-rim-30mm-height-30mm-inner-width-tubeless-ready-bola): 32er Asymmetric Carbon MTB Rim—30mm Inner Wide,30mm Hight is engineered for aggressive trail,enduro,and freeride riding on 32-inch wheel platforms (696mm BSD).
-  Updated: 2026-04-30T03:25:18Z
+- [32er Asymmetric Carbon MTB Rim, 30mm Inner Width, Tubeless | BOLA](https://bolacarbon.com/products/32er-asymmetric-carbon-mtb-rim-30mm-height-30mm-inner-width-tubeless-ready-bola): Asymmetric carbon MTB rim for 32-inch (696mm BSD) platforms. 30mm inner width, 30mm height. Tubeless-ready, 2.3–2.8" tire compatibility, >300kg strength, 3-year warranty.
+  Updated: 2026-05-06T19:03:26Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Mountain Bike Rim
   Availability: Available
@@ -14238,7 +14150,7 @@
     Availability: Available
     Price: $280.00 USD
 - [Bola disc brake 54T carbon wheelset with wave rims 40/45,45/50,28mm/30mm wide - Bola Carbon Sporting Goods](https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55mm-副本): Bola Elite T800 Carbon Disc Brake Wheelset – 54T Ratchet Hub, Wavy Aero Rims for Climbing and RacingAnswer: Built for demanding cyclists, the Bola Elite T800 delivers sub-1,300g weight, robust 54-tooth engagement, and aerodynamic, wavy-profile rims. Choose 40–50mm depths and 28mm or 30mm widths for optimized climbing, speed, and all-road comfort.Key Specifications Material: Toray T800 unidirectional carbon fiber; tested to ETRTO 2020 and ISO 622:700c standards Brake Type: Disc brake only (centerlock and 6-bolt compatible) Rim Depths Available: 40/45mm or 45/50mm (wavy aerodynamic profile) Rim Width (External): 28mm or 30mm; Internal: 21mm or 23mm (tubeless ready) Hub: 54-tooth ratchet for 6.67° fast engagement Spokes: Aerodynamic straightpull carbon design Weight: Sub-1,300g per set (exact weight varies by size and options) Wheel Size: 700c (ISO 622 mm) Warranty: 3 years; strict quality assurance Technical Comparison Table Spec 40/45mm Rim 45/50mm Rim External Width 28mm 30mm Intended Use Climbing, responsive acceleration Aero efficiency, higher speed Weight* ~1260g ~1290g *Final weight varies by buildFAQs Are ultralight 54T carbon wheelsets good for climbing and road racing? Yes. Low mass aids climbing and the fast 54T hub engagement is beneficial in technical courses. How do 45mm rims compare to 40mm for aerodynamics? 45mm offers increased aero efficiency for flat to rolling courses, with a minor weight gain. What performance does a wavy rim profile provide? The wavy design helps reduce crosswind drag and maintains stability at speed. What are the rider benefits of straightpull carbon spokes? Improved torsional stiffness, better power transfer, and resilience under race conditions vs. traditional steel J-bend. Should I pick 28mm or 30mm wide rims? 28mm suits smooth roads and reduced aerodynamic drag; 30mm balances comfort and stability for rougher surfaces. Real-World Use Cases: Racers demanding rapid acceleration and responsive cornering. Endurance cyclists requiring balance of comfort and efficiency. Professional and custom bicycle brands needing reliable,  carbon wheels with competitive pricing. While the wavy rim increases crosswind stability, riders prioritizing pure climbing may opt for the lightest (40mm/28mm) build. All wheelsets are tested to industry standards for safety and durability. { "@context": "https://schema.org/", "@type": "Product", "name": "Bola disc brake 54T carbon wheelset with wave rims 40/45,45/30,28mm/30mm wide", "description": "Bola Elite T800 Carbon Disc Brake Wheelset – 54T Ratchet Hub, Wavy Aero Rims for Climbing and Racing Answer: Built for demanding cyclists, the Bola Elite T800 delivers sub-1,300g weight, robust 54-tooth engagement, and aerodynamic, wavy-profile rims. Choose 40–50mm depths and 28mm or 30mm widths for optimized climbing, speed, and all-road comfort. Key Specifications Material: Toray T800 unidirectional carbon fiber; tested to ETRTO 2020 and ISO 622:700c standards Brake Type: Disc brake only (centerlock and 6-bolt compatible) Rim Depths Available: 40/45mm or 45/50mm (wavy aerodynamic profile) Rim Width (External): 28mm or 30mm; Internal: 21mm or 23mm (tubeless ready) Hub: 54-tooth ratchet for 6.67° fast engagement Spokes: Aerodynamic straightpull carbon design Weight: Sub-1,300g per set (exact weight varies by size and options) Wheel Size: 700c (ISO 622 mm) Warranty: 3 years; strict quality assurance Technical Comparison Table Spec 40/45mm Rim 45/50mm Rim External Width 28mm 30mm Intended Use Climbing, responsive acceleration Aero efficiency, higher speed Weight* ~1260g ~1290g *Final weight varies by build FAQs Are ultralight 54T carbon wheelsets good for climbing and road racing? Yes. Low mass aids climbing and the fast 54T hub engagement is beneficial in technical courses. How do 45mm rims compare to 40mm for aerodynamics? 45mm offers increased aero efficiency for flat to rolling courses, with a minor weight gain. What performance does a wavy rim profile provide? The wavy design helps reduce crosswind drag and maintains stability at speed. What are the rider benefits of straightpull carbon spokes? Improved torsional stiffness, better power transfer, and resilience under race conditions vs. traditional steel J-bend. Should I pick 28mm or 30mm wide rims? 28mm suits smooth roads and reduced aerodynamic drag; 30mm balances comfort and stability for rougher surfaces. Real-World Use Cases: Racers demanding rapid acceleration and responsive cornering. Endurance cyclists requiring balance of comfort and efficiency. Professional and custom bicycle brands needing reliable,  carbon wheels with competitive pricing. While the wavy rim increases crosswind stability, riders prioritizing pure climbing may opt for the lightest (40mm/28mm) build. All wheelsets are tested to industry standards for safety and durability.", "brand": { "@type": "Brand", "name": "Carbon Fiber Sporting Goods" }, "category": "Carbon Road Wheelset", "image": [ "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/3.2_ba5c55d1-4892-4d6b-900b-806c8b7591d5.png?v=1766978920", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/3.2_H.jpg?v=1766978920", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/3.2.png?v=1766978920", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/H3.2.png?v=1766978873", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/085817a1aca2751a9c30c9b5e4ac6a47.png?v=1766978872" ], "offers": { "@type": "Offer", "availability": "https://schema.org/InStock", "price": "630.00", "priceCurrency": "USD", "url": "https://bolacarbon.com/products/bola-elite-t800-carbon-disc-brake-wheelset-54t-ratchet-hub-straightpull-spokes-35-40-45-50-55mm-副本", "seller": { "@type": "Organization", "name": "https://bolacarbon.com" } } } - Bola Carbon Sporting Goods
-  Updated: 2026-04-21T07:53:24Z
+  Updated: 2026-05-07T02:56:48Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Disc Brake Road Wheelset
   Availability: Available
@@ -14394,7 +14306,7 @@
     Availability: Not Available
     Price: $630.00 USD
 - [Bola ultra light wave carbon wheelset with 20 carbon spoke and ratchet hub - Bola Carbon Sporting Goods](https://bolacarbon.com/products/bola-t800-carbon-disc-wheelset-54t-hub-carbon-spoke-700c-ultralight): Bola Elite T800 Carbon Disc Brake Wheelset Answer: This ultralight carbon wheelset delivers advanced climbing and road racing performance for cyclists prioritizing weight, aerodynamics, and reliable engagement. Constructed with Toray T800 unidirectional carbon fiber and a high-efficiency 54T ratchet hub, it supports disc brake systems and is engineered for optimal power transfer on steep gradients and mixed profiles. Key Specifications Material: Toray T800 unidirectional carbon fiber Brake compatibility: Disc brake only (centerlock and 6-bolt) Weight: Sub-1,200g (varies by rim depth) Rim depths: 45mm & 50mm (wavy, aerodynamic profiles) Rim width: External 28mm / Internal 21mm Spokes: Aerodynamic straightpull carbon (20 per wheel) Hub: 54-tooth ratchet, 6.67° engagement Diameter: 700c (ISO 622 standard) Tubeless ready: Yes (ERTO 2020 standard) Warranty: 3 years Use Cases & Performance Climbing: Sub-1,200g weight and rigid T800 layup minimize energy loss when ascending. Road Racing: 54T hub supports fast acceleration out of corners, aiding breakaways and sprinting. All-Round Riding: Wavy rim depths balance crosswind stability and aerodynamic performance for varied terrain. Comparison Table Attribute Bola Elite T800 Typical Alloy Weight (pair) <1200g 1650–1800g Rim Depth 45/50mm 30–40mm Hub Engagement 54T/6.67° 24–36T/10–15° Spoke Type Carbon, aero Steel Certifications & Standards ERTO 2020 Tubeless-ready Rim Width Standard ISO 622 (700c) Wheel Diameter FAQs Q: Are ultralight carbon disc wheelsets good for climbing and racing?A: Yes. The low weight and increased rigidity improve climbing and acceleration vs. heavier alloy or deeper rim options. Q: How does the 54T ratchet hub compare for real-world use?A: Higher ratchet count (54T) means quicker engagement, benefiting technical riding and out-of-saddle sprints. Q: Why choose wavy rim depths and carbon spokes?A: The design optimizes crosswind handling and aerodynamics, reducing fatigue on long days. Q: Is a sub-1,200g tubeless carbon wheelset worth it?A: For competitive and serious endurance riders, reduced rotational weight translates to measurable performance gains, especially on hilly routes. Tradeoff: While carbon spokes and ultralight rims push peak performance, some riders may prefer alloy spares for increased impact resistance on rough surfaces. - Bola Carbon Sporting Goods
-  Updated: 2026-04-21T14:41:23Z
+  Updated: 2026-05-07T02:56:46Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Road Disc Wheelset
   Availability: Available
@@ -14705,45 +14617,2833 @@
   - [Shimano HG / UD Matt / 30mm/23mm Out/Int wide 35mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel-副本?variant=48068029579518)
     Availability: Not Available
     Price: $490.00 USD
-[List Continued](https://bolacarbon.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MTg5NzQ2ODAyOTQyLCJsYXN0X3ZhbHVlIjoiOTE4OTc0NjgwMjk0MiJ9)
+- [Bola 700C Carbon Disc Wheelset 50mm Tubeless Ready  54T– 28mm wide - Bola Carbon Sporting Goods](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide): 700C Carbon Disc Brake Wheelset –50mm Depth, 28mm Width, Tubeless Ready Answer: This 700C carbon disc wheelset blends a 45mm rim depth and 28mm internal width for balanced aerodynamics, crosswind stability, and everyday durability. Weighing 1560g ±30g per set, it's optimized for road or gravel riders seeking lightweight performance, proven reliability, and broad tire compatibility. Meets standards expected by cycling brands and professional teams in Europe and North America. Technical Specifications Rim Depth 50mm Rim Width 28mm Wheel Size 700C Weight (Pair) 1560g ±30g Hub Powerway CX-32 Disc Spokes Pillar 1420, 24/24 count, 2× Cross lacing Axle Compatibility 12×100mm front, 12×142mm rear thru-axle, Quick-Release compatible Material T700 Carbon Fiber rim, Aluminium Alloy hub shell, Stainless Steel spokes Certification Meets ISO4210 and sequential QC protocols Use Case Alignment Racing & Endurance: Aero profile with low weight supports fast acceleration and efficiency on climbs or flats. Urban & Gravel: 28mm width pairs with wider tires for improved comfort and stability on mixed surfaces. Durability: 2x cross-lacing and quality-control tested for daily training or event use. Key Features 45mm aerodynamic rim profile reduces drag for competitive riding 28mm internal width supports tires from 28mm up to 50mm for diverse disciplines Tubeless-ready design for lower pressures and improved puncture resistance Powerway CX-32 hub with sealed bearings for long-term reliability Pillar 1420 stainless spokes for balanced stiffness and ride quality 1560g ±30g per pair, competitive for disc wheelsets in this class Tested to ISO4210 standards for safety and durability Frequently Asked Questions Q: Is 1560g light for a 700C carbon disc wheelset?A: Yes. It sits on the lighter end of disc-specific 45mm deep carbon wheelsets, supporting both racing and all-around use. Q: Can this wheelset be used for both climbing and flat roads?A: The 45mm profile achieves a balance: aero gains for flats, but remains manageable on climbs and crosswinds. Q: What tire widths fit?A: Optimized for 28–50mm tires, supporting road and gravel disciplines. Q: Are wheels UCI or ISO ?A: Built to meet ISO4210 and UCI event safety standards. Contact Bola for documentation if needed by sanctioning body. Q: What about everyday riding?A: Sealed bearings, robust lacing, and  carbon layup support daily training as well as event use. - Bola Carbon Sporting Goods
+  Updated: 2026-05-05T19:08:28Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Carbon Road Bike Wheelset
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/products/55.jpg?v=1649662906
+  - [UD Matt / Shimano 11s / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146950619390)
+    Availability: Available
+    Price: $680.00 USD
+  - [UD Matt / Shimano 11s / White Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146950652158)
+    Availability: Available
+    Price: $680.00 USD
+  - [UD Matt / Shimano 11s / Customized](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146950684926)
+    Availability: Available
+    Price: $680.00 USD
+  - [UD Matt / Sram 11s / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146950717694)
+    Availability: Available
+    Price: $680.00 USD
+  - [UD Matt / Sram 11s / White Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146950750462)
+    Availability: Available
+    Price: $680.00 USD
+  - [UD Matt / Sram 11s / Customized](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146950783230)
+    Availability: Available
+    Price: $680.00 USD
+  - [UD Matt / Compy 10s / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146950815998)
+    Availability: Available
+    Price: $680.00 USD
+  - [UD Matt / Compy 10s / White Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146950848766)
+    Availability: Available
+    Price: $680.00 USD
+  - [UD Matt / Compy 10s / Customized](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146950881534)
+    Availability: Available
+    Price: $680.00 USD
+  - [UD Glossy / Shimano 11s / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146950914302)
+    Availability: Available
+    Price: $680.00 USD
+  - [UD Glossy / Shimano 11s / White Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146950947070)
+    Availability: Available
+    Price: $680.00 USD
+  - [UD Glossy / Shimano 11s / Customized](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146950979838)
+    Availability: Available
+    Price: $680.00 USD
+  - [UD Glossy / Sram 11s / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146951012606)
+    Availability: Available
+    Price: $680.00 USD
+  - [UD Glossy / Sram 11s / White Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146951045374)
+    Availability: Available
+    Price: $680.00 USD
+  - [UD Glossy / Sram 11s / Customized](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146951078142)
+    Availability: Available
+    Price: $680.00 USD
+  - [UD Glossy / Compy 10s / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146951110910)
+    Availability: Available
+    Price: $680.00 USD
+  - [UD Glossy / Compy 10s / White Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146951143678)
+    Availability: Available
+    Price: $680.00 USD
+  - [UD Glossy / Compy 10s / Customized](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146951176446)
+    Availability: Available
+    Price: $680.00 USD
+  - [Marble Matt / Shimano 11s / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146951209214)
+    Availability: Available
+    Price: $680.00 USD
+  - [Marble Matt / Shimano 11s / White Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146951241982)
+    Availability: Available
+    Price: $680.00 USD
+  - [Marble Matt / Shimano 11s / Customized](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146951274750)
+    Availability: Available
+    Price: $680.00 USD
+  - [Marble Matt / Sram 11s / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146951307518)
+    Availability: Available
+    Price: $680.00 USD
+  - [Marble Matt / Sram 11s / White Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146951340286)
+    Availability: Available
+    Price: $680.00 USD
+  - [Marble Matt / Sram 11s / Customized](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146951373054)
+    Availability: Available
+    Price: $680.00 USD
+  - [Marble Matt / Compy 10s / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146951405822)
+    Availability: Available
+    Price: $680.00 USD
+  - [Marble Matt / Compy 10s / White Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146951438590)
+    Availability: Available
+    Price: $680.00 USD
+  - [Marble Matt / Compy 10s / Customized](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146951471358)
+    Availability: Available
+    Price: $680.00 USD
+  - [Marble Glossy / Shimano 11s / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146951504126)
+    Availability: Available
+    Price: $680.00 USD
+  - [Marble Glossy / Shimano 11s / White Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146951536894)
+    Availability: Available
+    Price: $680.00 USD
+  - [Marble Glossy / Shimano 11s / Customized](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146951569662)
+    Availability: Available
+    Price: $680.00 USD
+  - [Marble Glossy / Sram 11s / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146951602430)
+    Availability: Available
+    Price: $680.00 USD
+  - [Marble Glossy / Sram 11s / White Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146951635198)
+    Availability: Available
+    Price: $680.00 USD
+  - [Marble Glossy / Sram 11s / Customized](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146951667966)
+    Availability: Available
+    Price: $680.00 USD
+  - [Marble Glossy / Compy 10s / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146951700734)
+    Availability: Available
+    Price: $680.00 USD
+  - [Marble Glossy / Compy 10s / White Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146951733502)
+    Availability: Available
+    Price: $680.00 USD
+  - [Marble Glossy / Compy 10s / Customized](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-50mm-tubeless-ready-54t-28mm-wide?variant=48146951766270)
+    Availability: Available
+    Price: $680.00 USD
+- [700C Carbon Tubeless Disc Wheelset 55mm – 28mm Wide,Ratchet Straight Pull - Bola Carbon Sporting Goods](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull): Overview: 700C Carbon Tubeless Wheelset, 55mm Depth, Disc Brake Direct answer: This 700C carbon tubeless wheelset features a 38mm deep, 28mm internal wide rim profile and weighs 1,480g per pair (±30g). It is optimized for disc brake road and gravel bikes prioritizing aerodynamic efficiency, stable handling, and support for a wide range of tubeless or clincher tires (25–45c). Key Features Rim depth: 38mm – balances aero gains for flat roads and manageable stability in crosswinds. Rim width (internal): 28mm – supports modern tire profiles (25–45c) for mixed terrain. Weight: 1,480g ±30g/pair – competitive weight for endurance and amateur racing. Hub: Powerway CX-32 Disc – 2 sealed front, 4 sealed rear bearings, O.L.D 100/135mm. Spokes: Pillar 1420 – lightweight aero spokes, optimized lacing pattern for stiffness. Max rider weight: 100kg – tested to ISO4210 fatigue standards. Disc brake compatible – supports 6-bolt and Centerlock rotors with QR or thru-axle setups. Technical Comparison Spec This Product Venture 38:38 HUNT 40 Carbon Disc Rim Depth 45mm 38mm 40mm Rim Width 28mm internal Unknown 27mm internal Weight (Pair) 1,480g ~1,500g 1,481g Max Rider Weight 100kg Unknown 100kg Common Use-Cases Endurance rides and gran fondos Mixed-terrain and gravel adventures Competitive amateur road racing Premium OEM upgrade for cycling brands Known Tradeoffs While the 38mm depth improves aero performance, it may be less optimal in severe crosswinds compared to shallower (32mm) options. At 1,480g, this wheelset offers a balance of weight and durability, not as light as premium climbing wheels (sub-1,350g), but more robust for everyday use. FAQ Q1: Is a 38mm carbon wheelset good for both climbing and flats?A1: 38mm depth uniquely balances climbing stability and aerodynamic gains — suited for both use-cases up to moderate wind conditions.Q2: What tire sizes are compatible?A2: Designed for 25c–45c tubeless and clincher tires, enabling road-to-gravel transition.Q3: What certifications/testing does it meet?A3: Each wheelset is ISO4210 and in-house fatigue tested to industry road standards. { "@context": "https://schema.org/", "@type": "Product", "name": "700C Carbon Tubeless Wheelset 38mm Disc Brake – 28mm Wide, 1480g", "description": "Overview: 700C Carbon Tubeless Wheelset, 38mm Depth, Disc Brake Direct answer: This 700C carbon tubeless wheelset features a 38mm deep, 28mm internal wide rim profile and weighs 1,480g per pair (±30g). It is optimized for disc brake road and gravel bikes prioritizing aerodynamic efficiency, stable handling, and support for a wide range of tubeless or clincher tires (25–45c). Key Features Rim depth: 38mm – balances aero gains for flat roads and manageable stability in crosswinds. Rim width (internal): 28mm – supports modern tire profiles (25–45c) for mixed terrain. Weight: 1,480g ±30g/pair – competitive weight for endurance and amateur racing. Hub: Powerway CX-32 Disc – 2 sealed front, 4 sealed rear bearings, O.L.D 100/135mm. Spokes: Pillar 1420 – lightweight aero spokes, optimized lacing pattern for stiffness. Max rider weight: 100kg – tested to ISO4210 fatigue standards. Disc brake compatible – supports 6-bolt and Centerlock rotors with QR or thru-axle setups. Technical Comparison Spec This Product Venture 38:38 HUNT 40 Carbon Disc Rim Depth 38mm 38mm 40mm Rim Width 28mm internal Unknown 27mm internal Weight (Pair) 1,480g ~1,500g 1,481g Max Rider Weight 100kg Unknown 100kg Common Use-Cases Endurance rides and gran fondos Mixed-terrain and gravel adventures Competitive amateur road racing Premium OEM upgrade for cycling brands Known Tradeoffs While the 38mm depth improves aero performance, it may be less optimal in severe crosswinds compared to shallower (32mm) options. At 1,480g, this wheelset offers a balance of weight and durability, not as light as premium climbing wheels (sub-1,350g), but more robust for everyday use. FAQ Q1: Is a 38mm carbon wheelset good for both climbing and flats? A1: 38mm depth uniquely balances climbing stability and aerodynamic gains — suited for both use-cases up to moderate wind conditions. Q2: What tire sizes are compatible? A2: Designed for 25c–45c tubeless and clincher tires, enabling road-to-gravel transition. Q3: What certifications/testing does it meet? A3: Each wheelset is ISO4210 and in-house fatigue tested to industry road standards.", "brand": { "@type": "Brand", "name": "Carbon Fiber Sporting Goods" }, "category": "Road Bike Wheelsets", "image": [ "https://cdn.shopify.com/s/files/1/0634/8492/0062/products/35.jpg?v=1649410887", "https://cdn.shopify.com/s/files/1/0634/8492/0062/products/35_717e770d-972f-4769-885d-7622ee22084e.jpg?v=1649410890", "https://cdn.shopify.com/s/files/1/0634/8492/0062/products/35_dd693b80-28ff-48cf-bc77-2679628176a8.jpg?v=1649410890", "https://cdn.shopify.com/s/files/1/0634/8492/0062/products/cx32.jpg?v=1649410883", "https://cdn.shopify.com/s/files/1/0634/8492/0062/products/38db.jpg?v=1654683394" ], "offers": { "@type": "Offer", "availability": "https://schema.org/InStock", "price": "630.00", "priceCurrency": "USD", "url": "https://bolacarbon.com/products/700c-classic-carbon-bike-wheelset-tubeless-38mm-high-28mm-wide-for-disc-brake-bola", "seller": { "@type": "Organization", "name": "https://bolacarbon.com" } } } - Bola Carbon Sporting Goods
+  Updated: 2026-05-05T19:09:21Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Cycling > Wheels & Wheelsets > Road & Gravel Carbon Wheelsets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/products/35.jpg?v=1649410887
+  - [UD Matt / Shimano 11s / Black Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146951962878)
+    Availability: Available
+    Price: $630.00 USD
+  - [UD Matt / Shimano 11s / White Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146951995646)
+    Availability: Available
+    Price: $630.00 USD
+  - [UD Matt / Shimano 11s / Customized](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952028414)
+    Availability: Available
+    Price: $630.00 USD
+  - [UD Matt / Sram 11s / Black Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952061182)
+    Availability: Available
+    Price: $630.00 USD
+  - [UD Matt / Sram 11s / White Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952093950)
+    Availability: Available
+    Price: $630.00 USD
+  - [UD Matt / Sram 11s / Customized](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952126718)
+    Availability: Available
+    Price: $630.00 USD
+  - [UD Matt / Compy 10s / Black Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952159486)
+    Availability: Available
+    Price: $630.00 USD
+  - [UD Matt / Compy 10s / White Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952192254)
+    Availability: Available
+    Price: $630.00 USD
+  - [UD Matt / Compy 10s / Customized](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952225022)
+    Availability: Available
+    Price: $630.00 USD
+  - [UD Glossy / Shimano 11s / Black Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952257790)
+    Availability: Available
+    Price: $630.00 USD
+  - [UD Glossy / Shimano 11s / White Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952290558)
+    Availability: Available
+    Price: $630.00 USD
+  - [UD Glossy / Shimano 11s / Customized](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952323326)
+    Availability: Available
+    Price: $630.00 USD
+  - [UD Glossy / Sram 11s / Black Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952356094)
+    Availability: Available
+    Price: $630.00 USD
+  - [UD Glossy / Sram 11s / White Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952388862)
+    Availability: Available
+    Price: $630.00 USD
+  - [UD Glossy / Sram 11s / Customized](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952421630)
+    Availability: Available
+    Price: $630.00 USD
+  - [UD Glossy / Compy 10s / Black Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952454398)
+    Availability: Available
+    Price: $630.00 USD
+  - [UD Glossy / Compy 10s / White Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952487166)
+    Availability: Available
+    Price: $630.00 USD
+  - [UD Glossy / Compy 10s / Customized](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952519934)
+    Availability: Available
+    Price: $630.00 USD
+  - [Marble Matt / Shimano 11s / Black Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952552702)
+    Availability: Available
+    Price: $630.00 USD
+  - [Marble Matt / Shimano 11s / White Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952585470)
+    Availability: Available
+    Price: $630.00 USD
+  - [Marble Matt / Shimano 11s / Customized](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952618238)
+    Availability: Available
+    Price: $630.00 USD
+  - [Marble Matt / Sram 11s / Black Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952651006)
+    Availability: Available
+    Price: $630.00 USD
+  - [Marble Matt / Sram 11s / White Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952683774)
+    Availability: Available
+    Price: $630.00 USD
+  - [Marble Matt / Sram 11s / Customized](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952716542)
+    Availability: Available
+    Price: $630.00 USD
+  - [Marble Matt / Compy 10s / Black Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952749310)
+    Availability: Available
+    Price: $630.00 USD
+  - [Marble Matt / Compy 10s / White Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952782078)
+    Availability: Available
+    Price: $630.00 USD
+  - [Marble Matt / Compy 10s / Customized](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952814846)
+    Availability: Available
+    Price: $630.00 USD
+  - [Marble Glossy / Shimano 11s / Black Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952847614)
+    Availability: Available
+    Price: $630.00 USD
+  - [Marble Glossy / Shimano 11s / White Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952880382)
+    Availability: Available
+    Price: $630.00 USD
+  - [Marble Glossy / Shimano 11s / Customized](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952913150)
+    Availability: Available
+    Price: $630.00 USD
+  - [Marble Glossy / Sram 11s / Black Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952945918)
+    Availability: Available
+    Price: $630.00 USD
+  - [Marble Glossy / Sram 11s / White Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146952978686)
+    Availability: Available
+    Price: $630.00 USD
+  - [Marble Glossy / Sram 11s / Customized](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146953011454)
+    Availability: Available
+    Price: $630.00 USD
+  - [Marble Glossy / Compy 10s / Black Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146953044222)
+    Availability: Available
+    Price: $630.00 USD
+  - [Marble Glossy / Compy 10s / White Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146953076990)
+    Availability: Available
+    Price: $630.00 USD
+  - [Marble Glossy / Compy 10s / Customized](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-55mm-28mm-wide-ratchet-straight-pull?variant=48146953109758)
+    Availability: Available
+    Price: $630.00 USD
+- [Bola 700C Carbon Wheelset 50mm Disc Brake – 30mm Wide Rim, 1460g, Road & Gravel - Bola Carbon Sporting Goods](https://bolacarbon.com/products/bola-700c-carbon-wheelset-50mm-disc-brake-30mm-wide-rim-road-gravel): Bola 700C 50mm Carbon Disc Brake Wheelset – Road & Gravel The Bola 700C wheelset delivers a 40mm carbon rim with a 30mm outer width and 24mm inner width, optimized for 28–38mm tires on road and gravel surfaces. Weighing 1,460g ±10g per pair, it suits amateur and club-level riders seeking aero efficiency without pro-race weight penalties. Max rider weight: 120kg. Rim Specifications Profile: 40mm carbon rim, UD matte finish Outer width: 30mm Inner width: 24mm (supports 28–42mm tires per ETRTO guidelines) Runout tolerance: ±0.2mm offset Max spoke tension: 180 kgf Tire pressure range: 100–125 psi Hub Specifications Model: Bola 52T Ratchet, NBK bearing, disc brake, straight-pull Front hub: 2 sealed bearings, O.L.D. 100mm Rear hub: 4 sealed bearings, O.L.D. 135mm Front end caps: M9 / M12 / M15 Rear end caps: M10 / M12 / M12×142 (Boost compatible) Spoke & Build Specifications Spoke brand: Pillar 1423 bladed Spoke count: 24F / 24R Lacing pattern: 2× cross front and rear Wide-Rim Advantage: 30mm vs. 25mm Metric 30mm Outer Width (This Wheelset) 25mm Outer Width (Narrow Standard) Recommended tire width 28–42mm 23–32mm Tire sidewall support Higher – reduces pinch flats Lower on wider tires Aerodynamic profile Optimized for tires ≥28mm Optimized for tires <25mm Gravel suitability Yes – stable on loose surfaces Limited Tradeoff note: The 30mm outer width adds marginal weight vs. 25mm rims but improves cornering stability and reduces rolling resistance when paired with 28mm+ tires — a net benefit for endurance road and gravel use. In the Box Front and rear carbon wheelset (700C) 3× spare spokes (Pillar 1423) Multiple end cap adapters included Frequently Asked Questions Are 40mm carbon wheels good for amateur cyclists? Yes. The 40mm profile balances aerodynamic gain and crosswind stability better than 50mm+ deep rims, making it practical for club rides, century events, and mixed road/gravel routes without the handling sensitivity of deeper race wheels. What tire sizes fit a 24mm inner width rim? Per ETRTO standards, a 24mm inner width is optimized for 28–42mm tires. Running 25mm tires is possible but sub-optimal; 28–32mm road tires and 35–40mm gravel tires perform best. Is this wheelset compatible with Boost 148 rear axles? Yes. The included M12×142 and M12×148 end caps cover both standard 135mm and Boost 142/148 rear spacing. Confirm your frame's O.L.D. before ordering. What brake rotors are compatible? The hub uses a standard 6-bolt disc brake interface, compatible with Shimano, SRAM, and most third-party 6-bolt rotors (rotor not included). What is the warranty on this wheelset? Bola offers a 3-year manufacturer warranty covering rim and hub structural defects under normal riding conditions. - Bola Carbon Sporting Goods
+  Updated: 2026-05-06T10:29:05Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Carbon Wheelset
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/30mmwheelset.png?v=1732609153
+  Price: $390.00 USD
+- [Carbon Disc Brake Wheelset, 54T Ratchet, Tubeless, 50mm,28mm wide](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide): High-Performance Carbon Disc Brake Wheelset — 54T Ratchet Hub, Tubeless-ReadyACE summary: This carbon disc-brake wheelset features a 54-tooth ratchet hub for rapid engagement (6.67°), a tubeless-ready design
+  Updated: 2026-05-06T22:04:38Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Bicycle Wheelsets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/classic.png?v=1766976490
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146953437438)
+    Availability: Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146953470206)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146953502974)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146953535742)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146953568510)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146953601278)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146953634046)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146953666814)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146953699582)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146953732350)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146953765118)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146953797886)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146953830654)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146953863422)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146953896190)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146953928958)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146953961726)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146953994494)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954027262)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954060030)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954092798)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954125566)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954158334)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954191102)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954223870)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954256638)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954289406)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954322174)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954354942)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954387710)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954420478)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954453246)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954486014)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954518782)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954551550)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954584318)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954617086)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954649854)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954682622)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954715390)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954748158)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954780926)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954813694)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954846462)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954879230)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954911998)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954944766)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146954977534)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Shimano HG / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146955010302)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Shimano HG / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-50mm-28mm-wide?variant=48146955043070)
+    Availability: Not Available
+    Price: $385.00 USD
+- [Carbon Disc Brake Wheelset, 54T Ratchet, Tubeless,55mm - Bola Carbon Sporting Goods](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm): High-Performance Carbon Disc Brake Wheelset — 54T Ratchet Hub, Tubeless-ReadyACE summary: This carbon disc-brake wheelset features a 54-tooth ratchet hub for rapid engagement (6.67°), a tubeless-ready design, and multiple rim depths (40/45/50/55/60mm) for configurable aerodynamics in road cycling and cyclocross. Engineered for professional teams and small brands prioritizing quality, weight, and real-world durability.Technical Specifications Rim Material: Toray T700/T800 unidirectional carbon fiber with ACL (Arch-bridge Carbon Lamination) Brake Compatibility: Disc brake only (Center-Lock and 6-bolt rotor compatible) Rim Depths: 40mm, 45mm, 50mm, 55mm, 60mm Tubeless Ready: Yes, supports modern hookless and clincher tubeless setups (max air pressure specifications apply) Hub Engagement: 54T ratchet (6.67°) for faster power transfer (industry average: 18–24T pawl = 15–20°) Spoke Type: Straight pull, optimized for aerodynamics and tension uniformity Warranty: 3 years (documented quality control, batch testing to EN 14781:2017 standards) Comparison: Selecting the Right Rim Depth Depth Weight Use Case 40mm Lightest Climbing, gravel/cyclocross, variable wind 50mm Balanced All-around road, criterium, rolling terrain 60mm Aero-optimized Flat road races, time trial, high sustained speed Frequently Asked Questions Q: Is the 54T ratchet hub measurably faster than a standard system?A: Yes. 54T engagement reduces deadband to 6.67°, compared to 20°+ with standard 18T/24T systems—enabling immediate power during sprints or technical terrain. Q: Are the rims  or tested for impact?A: Yes, batch tested to EN 14781:2017 and ISO 4210-7 standards for fatigue and impact resistance. Q: Is tubeless setup supported for both high-pressure road and lower-pressure cyclocross setups?A: Yes, validated up to 110 psi for road, 45 psi for cyclocross (check tire compatibility and consult max values before use). Q: What frame and fork standards are supported?A: 12x100mm (front), 12x142mm (rear). Center-lock and 6-bolt compatible. Q: What is your warranty process?A: 3 years, covering workmanship and manufacturing defects—compliant with EU/NA small business partner programs. Real-World Considerations Heavier rim depths improve aerodynamics for sustained speed but increase crosswind sensitivity and rotational mass. Straight pull spokes simplify spoke replacement and hold tension better under racing stresses. While tubeless decreases flat risk and rolling resistance, it requires precise tire setup and maintenance. { "@context": "https://schema.org/", "@type": "Product", "name": "Carbon Disc Brake Wheelset 54T Ratchet Hub | 40/45/50/55/60mm Tubeless Road & Cyclocross Wheels", "description": "High-Performance Carbon Disc Brake Wheelset — 54T Ratchet Hub, Tubeless-Ready ACE summary: This carbon disc-brake wheelset features a 54-tooth ratchet hub for rapid engagement (6.67°), a tubeless-ready design, and multiple rim depths (40/45/50/55/60mm) for configurable aerodynamics in road cycling and cyclocross. Engineered for professional teams and small brands prioritizing quality, weight, and real-world durability. Technical Specifications Rim Material: Toray T700/T800 unidirectional carbon fiber with ACL (Arch-bridge Carbon Lamination) Brake Compatibility: Disc brake only (Center-Lock and 6-bolt rotor compatible) Rim Depths: 40mm, 45mm, 50mm, 55mm, 60mm Tubeless Ready: Yes, supports modern hookless and clincher tubeless setups (max air pressure specifications apply) Hub Engagement: 54T ratchet (6.67°) for faster power transfer (industry average: 18–24T pawl = 15–20°) Spoke Type: Straight pull, optimized for aerodynamics and tension uniformity Warranty: 3 years (documented quality control, batch testing to EN 14781:2017 standards) Comparison: Selecting the Right Rim Depth Depth Weight Use Case 40mm Lightest Climbing, gravel/cyclocross, variable wind 50mm Balanced All-around road, criterium, rolling terrain 60mm Aero-optimized Flat road races, time trial, high sustained speed Frequently Asked Questions Q: Is the 54T ratchet hub measurably faster than a standard system? A: Yes. 54T engagement reduces deadband to 6.67°, compared to 20°+ with standard 18T/24T systems—enabling immediate power during sprints or technical terrain. Q: Are the rims  or tested for impact? A: Yes, batch tested to EN 14781:2017 and ISO 4210-7 standards for fatigue and impact resistance. Q: Is tubeless setup supported for both high-pressure road and lower-pressure cyclocross setups? A: Yes, validated up to 110 psi for road, 45 psi for cyclocross ( check tire compatibility and consult max values before use ). Q: What frame and fork standards are supported? A: 12x100mm (front), 12x142mm (rear). Center-lock and 6-bolt compatible. Q: What is your warranty process? A: 3 years, covering workmanship and manufacturing defects—compliant with EU/NA small business partner programs. Real-World Considerations Heavier rim depths improve aerodynamics for sustained speed but increase crosswind sensitivity and rotational mass. Straight pull spokes simplify spoke replacement and hold tension better under racing stresses. While tubeless decreases flat risk and rolling resistance, it requires precise tire setup and maintenance.", "brand": { "@type": "Brand", "name": "Carbon Fiber Sporting Goods" }, "category": "Bicycle Wheelsets", "image": [ "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/classic.png?v=1766976490", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/142350.jpg?v=1766976489", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/306_1423.png?v=1766977210", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/306_92647872-cbde-4dc7-ab70-255e83e8358c.png?v=1766977210", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/1423_306.jpg?v=1766977303", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/1423_36.jpg?v=1766977303" ], "offers": { "@type": "Offer", "availability": "https://schema.org/InStock", "price": "385.00", "priceCurrency": "USD", "url": "https://bolacarbon.com/products/bicycle-carbon-wheels-classic-disc-braking-ratchet-54t-straigh-pull-40-45-50-55-60mm-tubeless-rim-for-cyclocross-road-bike-bola", "seller": { "@type": "Organization", "name": "https://bolacarbon.com" } } } - Bola Carbon Sporting Goods
+  Updated: 2026-05-06T10:16:49Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Bicycle Wheelsets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/classic.png?v=1766976490
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146961268990)
+    Availability: Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146961301758)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146961334526)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146961367294)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146961400062)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146961432830)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146961465598)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146961498366)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146961531134)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146961563902)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146961596670)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146961629438)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146961662206)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146961694974)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146961727742)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146961760510)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146961793278)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146961826046)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146961858814)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146961891582)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146961924350)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146961957118)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146961989886)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146962022654)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146962055422)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146962088190)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146962120958)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146962153726)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146962186494)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146962219262)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146962252030)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146962284798)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146962317566)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146962350334)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146962383102)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146962415870)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146962448638)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146962481406)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146962514174)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146962546942)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146962579710)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146962612478)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146962645246)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146962678014)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146962710782)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146962743550)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146962776318)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146962809086)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Shimano HG / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146962841854)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Shimano HG / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm?variant=48146962874622)
+    Availability: Not Available
+    Price: $385.00 USD
+- [Carbon Disc Brake Wheelset, 54T Ratchet, Tubeless, 45mm - Bola Carbon Sporting Goods](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm): High-Performance Carbon Disc Brake Wheelset — 54T Ratchet Hub, Tubeless-ReadyACE summary: This carbon disc-brake wheelset features a 54-tooth ratchet hub for rapid engagement (6.67°), a tubeless-ready design, and multiple rim depths (40/45/50/55/60mm) for configurable aerodynamics in road cycling and cyclocross. Engineered for professional teams and small brands prioritizing quality, weight, and real-world durability.Technical Specifications Rim Material: Toray T700/T800 unidirectional carbon fiber with ACL (Arch-bridge Carbon Lamination) Brake Compatibility: Disc brake only (Center-Lock and 6-bolt rotor compatible) Rim Depths: 40mm, 45mm, 50mm, 55mm, 60mm Tubeless Ready: Yes, supports modern hookless and clincher tubeless setups (max air pressure specifications apply) Hub Engagement: 54T ratchet (6.67°) for faster power transfer (industry average: 18–24T pawl = 15–20°) Spoke Type: Straight pull, optimized for aerodynamics and tension uniformity Warranty: 3 years (documented quality control, batch testing to EN 14781:2017 standards) Comparison: Selecting the Right Rim Depth Depth Weight Use Case 40mm Lightest Climbing, gravel/cyclocross, variable wind 50mm Balanced All-around road, criterium, rolling terrain 60mm Aero-optimized Flat road races, time trial, high sustained speed Frequently Asked Questions Q: Is the 54T ratchet hub measurably faster than a standard system?A: Yes. 54T engagement reduces deadband to 6.67°, compared to 20°+ with standard 18T/24T systems—enabling immediate power during sprints or technical terrain. Q: Are the rims  or tested for impact?A: Yes, batch tested to EN 14781:2017 and ISO 4210-7 standards for fatigue and impact resistance. Q: Is tubeless setup supported for both high-pressure road and lower-pressure cyclocross setups?A: Yes, validated up to 110 psi for road, 45 psi for cyclocross (check tire compatibility and consult max values before use). Q: What frame and fork standards are supported?A: 12x100mm (front), 12x142mm (rear). Center-lock and 6-bolt compatible. Q: What is your warranty process?A: 3 years, covering workmanship and manufacturing defects—compliant with EU/NA small business partner programs. Real-World Considerations Heavier rim depths improve aerodynamics for sustained speed but increase crosswind sensitivity and rotational mass. Straight pull spokes simplify spoke replacement and hold tension better under racing stresses. While tubeless decreases flat risk and rolling resistance, it requires precise tire setup and maintenance. { "@context": "https://schema.org/", "@type": "Product", "name": "Carbon Disc Brake Wheelset 54T Ratchet Hub | 40/45/50/55/60mm Tubeless Road & Cyclocross Wheels", "description": "High-Performance Carbon Disc Brake Wheelset — 54T Ratchet Hub, Tubeless-Ready ACE summary: This carbon disc-brake wheelset features a 54-tooth ratchet hub for rapid engagement (6.67°), a tubeless-ready design, and multiple rim depths (40/45/50/55/60mm) for configurable aerodynamics in road cycling and cyclocross. Engineered for professional teams and small brands prioritizing quality, weight, and real-world durability. Technical Specifications Rim Material: Toray T700/T800 unidirectional carbon fiber with ACL (Arch-bridge Carbon Lamination) Brake Compatibility: Disc brake only (Center-Lock and 6-bolt rotor compatible) Rim Depths: 40mm, 45mm, 50mm, 55mm, 60mm Tubeless Ready: Yes, supports modern hookless and clincher tubeless setups (max air pressure specifications apply) Hub Engagement: 54T ratchet (6.67°) for faster power transfer (industry average: 18–24T pawl = 15–20°) Spoke Type: Straight pull, optimized for aerodynamics and tension uniformity Warranty: 3 years (documented quality control, batch testing to EN 14781:2017 standards) Comparison: Selecting the Right Rim Depth Depth Weight Use Case 40mm Lightest Climbing, gravel/cyclocross, variable wind 50mm Balanced All-around road, criterium, rolling terrain 60mm Aero-optimized Flat road races, time trial, high sustained speed Frequently Asked Questions Q: Is the 54T ratchet hub measurably faster than a standard system? A: Yes. 54T engagement reduces deadband to 6.67°, compared to 20°+ with standard 18T/24T systems—enabling immediate power during sprints or technical terrain. Q: Are the rims  or tested for impact? A: Yes, batch tested to EN 14781:2017 and ISO 4210-7 standards for fatigue and impact resistance. Q: Is tubeless setup supported for both high-pressure road and lower-pressure cyclocross setups? A: Yes, validated up to 110 psi for road, 45 psi for cyclocross ( check tire compatibility and consult max values before use ). Q: What frame and fork standards are supported? A: 12x100mm (front), 12x142mm (rear). Center-lock and 6-bolt compatible. Q: What is your warranty process? A: 3 years, covering workmanship and manufacturing defects—compliant with EU/NA small business partner programs. Real-World Considerations Heavier rim depths improve aerodynamics for sustained speed but increase crosswind sensitivity and rotational mass. Straight pull spokes simplify spoke replacement and hold tension better under racing stresses. While tubeless decreases flat risk and rolling resistance, it requires precise tire setup and maintenance.", "brand": { "@type": "Brand", "name": "Carbon Fiber Sporting Goods" }, "category": "Bicycle Wheelsets", "image": [ "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/classic.png?v=1766976490", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/142350.jpg?v=1766976489", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/306_1423.png?v=1766977210", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/306_92647872-cbde-4dc7-ab70-255e83e8358c.png?v=1766977210", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/1423_306.jpg?v=1766977303", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/1423_36.jpg?v=1766977303" ], "offers": { "@type": "Offer", "availability": "https://schema.org/InStock", "price": "385.00", "priceCurrency": "USD", "url": "https://bolacarbon.com/products/bicycle-carbon-wheels-classic-disc-braking-ratchet-54t-straigh-pull-40-45-50-55-60mm-tubeless-rim-for-cyclocross-road-bike-bola", "seller": { "@type": "Organization", "name": "https://bolacarbon.com" } } } - Bola Carbon Sporting Goods
+  Updated: 2026-05-06T10:16:49Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Bicycle Wheelsets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/classic.png?v=1766976490
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146964840702)
+    Availability: Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146964873470)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146964906238)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146964939006)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146964971774)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965004542)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965037310)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965070078)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965102846)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965135614)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965168382)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965201150)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965233918)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965266686)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965299454)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965332222)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965364990)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965397758)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965430526)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965463294)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965496062)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965528830)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965561598)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965594366)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965627134)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965659902)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965692670)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965725438)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965758206)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965790974)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965823742)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965856510)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965889278)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965922046)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965954814)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146965987582)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146966020350)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146966053118)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146966085886)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146966118654)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146966151422)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146966184190)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146966216958)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146966249726)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146966282494)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146966315262)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146966348030)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146966380798)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Shimano HG / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146966413566)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Shimano HG / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm?variant=48146966446334)
+    Availability: Not Available
+    Price: $385.00 USD
+- [Carbon Disc Brake Wheelset, 54T Ratchet, Tubeless, 35mm,28mm wide - Bola Carbon Sporting Goods](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide): High-Performance Carbon Disc Brake Wheelset — 54T Ratchet Hub, Tubeless-Ready ACE summary: This carbon disc-brake wheelset features a 54-tooth ratchet hub for rapid engagement (6.67°), a tubeless-ready design, and 50 rim depths (40/45/50/55/60mm) for configurable aerodynamics in road cycling and cyclocross. Engineered for professional teams and small brands prioritizing quality, weight, and real-world durability. Technical Specifications Rim Material: Toray T700/T800 unidirectional carbon fiber with ACL (Arch-bridge Carbon Lamination) Brake Compatibility: Disc brake only (Center-Lock) Rim Depths: 50mm,28mm outer wide Tubeless Ready: Yes, supports modern hookless and clincher tubeless setups (max air pressure specifications apply) Hub Engagement: 54T ratchet (6.67°) for faster power transfer (industry average: 18–24T pawl = 15–20°) Spoke Type: Straight pull, stainless steel optimized for aerodynamics and tension uniformity Warranty: 2 years (documented quality control, batch testing to EN 14781:2017 standards) Comparison: Selecting the Right Rim Depth Depth Weight Use Case 40mm Lightest Climbing, gravel/cyclocross, variable wind 50mm Balanced All-around road, criterium, rolling terrain 60mm Aero-optimized Flat road races, time trial, high sustained speed Frequently Asked Questions Q: Is the 54T ratchet hub measurably faster than a standard system?A: Yes. 54T engagement reduces deadband to 6.67°, compared to 20°+ with standard 18T/24T systems—enabling immediate power during sprints or technical terrain. Q: Are the rims  or tested for impact?A: Yes, batch tested to EN 14781:2017 and ISO 4210-7 standards for fatigue and impact resistance. Q: Is tubeless setup supported for both high-pressure road and lower-pressure cyclocross setups?A: Yes, validated up to 110 psi for road, 45 psi for cyclocross (check tire compatibility and consult max values before use). Q: What frame and fork standards are supported?A: 12x100mm (front), 12x142mm (rear). Center-lock compatible. Q: What is your warranty process?A: 3 years, covering workmanship and manufacturing defects—compliant with EU/NA small business partner programs. Real-World Considerations Heavier rim depths improve aerodynamics for sustained speed but increase crosswind sensitivity and rotational mass. Straight pull spokes simplify spoke replacement and hold tension better under racing stresses. While tubeless decreases flat risk and rolling resistance, it requires precise tire setup and maintenance. - Bola Carbon Sporting Goods
+  Updated: 2026-05-06T10:16:49Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Bicycle Wheelsets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/classic.png?v=1766976490
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153823903998)
+    Availability: Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153823936766)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153823969534)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824002302)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824035070)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824067838)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824100606)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824133374)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824166142)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824198910)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824231678)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824264446)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824297214)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824329982)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824362750)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824395518)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824428286)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824461054)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824493822)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824526590)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824559358)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824592126)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824624894)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824657662)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824690430)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824723198)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824755966)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824788734)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824821502)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824854270)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824887038)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824919806)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824952574)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153824985342)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153825018110)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153825050878)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153825083646)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153825116414)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153825149182)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153825181950)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153825214718)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153825247486)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153825280254)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153825313022)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153825345790)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153825378558)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153825411326)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153825444094)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Shimano HG / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153825476862)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Shimano HG / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-35mm-28mm-wide?variant=48153825509630)
+    Availability: Not Available
+    Price: $385.00 USD
+- [Carbon Disc Brake Wheelset, 54T Ratchet, Tubeless, 40mm,28mm wide - Bola Carbon Sporting Goods](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide): High-Performance Carbon Disc Brake Wheelset — 54T Ratchet Hub, Tubeless-Ready ACE summary: This carbon disc-brake wheelset features a 54-tooth ratchet hub for rapid engagement (6.67°), a tubeless-ready design, and 50 rim depths (40/45/50/55/60mm) for configurable aerodynamics in road cycling and cyclocross. Engineered for professional teams and small brands prioritizing quality, weight, and real-world durability. Technical Specifications Rim Material: Toray T700/T800 unidirectional carbon fiber with ACL (Arch-bridge Carbon Lamination) Brake Compatibility: Disc brake only (Center-Lock) Rim Depths: 50mm,28mm outer wide Tubeless Ready: Yes, supports modern hookless and clincher tubeless setups (max air pressure specifications apply) Hub Engagement: 54T ratchet (6.67°) for faster power transfer (industry average: 18–24T pawl = 15–20°) Spoke Type: Straight pull, stainless steel optimized for aerodynamics and tension uniformity Warranty: 2 years (documented quality control, batch testing to EN 14781:2017 standards) Comparison: Selecting the Right Rim Depth Depth Weight Use Case 40mm Lightest Climbing, gravel/cyclocross, variable wind 50mm Balanced All-around road, criterium, rolling terrain 60mm Aero-optimized Flat road races, time trial, high sustained speed Frequently Asked Questions Q: Is the 54T ratchet hub measurably faster than a standard system?A: Yes. 54T engagement reduces deadband to 6.67°, compared to 20°+ with standard 18T/24T systems—enabling immediate power during sprints or technical terrain. Q: Are the rims  or tested for impact?A: Yes, batch tested to EN 14781:2017 and ISO 4210-7 standards for fatigue and impact resistance. Q: Is tubeless setup supported for both high-pressure road and lower-pressure cyclocross setups?A: Yes, validated up to 110 psi for road, 45 psi for cyclocross (check tire compatibility and consult max values before use). Q: What frame and fork standards are supported?A: 12x100mm (front), 12x142mm (rear). Center-lock compatible. Q: What is your warranty process?A: 3 years, covering workmanship and manufacturing defects—compliant with EU/NA small business partner programs. Real-World Considerations Heavier rim depths improve aerodynamics for sustained speed but increase crosswind sensitivity and rotational mass. Straight pull spokes simplify spoke replacement and hold tension better under racing stresses. While tubeless decreases flat risk and rolling resistance, it requires precise tire setup and maintenance. - Bola Carbon Sporting Goods
+  Updated: 2026-05-06T10:16:49Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Bicycle Wheelsets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/classic.png?v=1766976490
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153831375102)
+    Availability: Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153831407870)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153831440638)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153831473406)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153831506174)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153831538942)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153831571710)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153831604478)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153831637246)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153831670014)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153831702782)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153831735550)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153831768318)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153831801086)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153831833854)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153831866622)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153831899390)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153831932158)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153831964926)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153831997694)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832030462)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832063230)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832095998)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832128766)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832161534)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832194302)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832227070)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832259838)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832292606)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832325374)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832358142)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832390910)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832423678)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832456446)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832489214)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832521982)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832554750)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832587518)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832620286)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832653054)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832685822)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832718590)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832751358)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832784126)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832816894)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832849662)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832882430)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832915198)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Shimano HG / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832947966)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Shimano HG / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-40mm-28mm-wide?variant=48153832980734)
+    Availability: Not Available
+    Price: $385.00 USD
+- [Carbon Disc Brake Wheelset, 54T Ratchet, Tubeless, 45mm,28mm wide - Bola Carbon Sporting Goods](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide): High-Performance Carbon Disc Brake Wheelset — 54T Ratchet Hub, Tubeless-Ready ACE summary: This carbon disc-brake wheelset features a 54-tooth ratchet hub for rapid engagement (6.67°), a tubeless-ready design, and 50 rim depths (40/45/50/55/60mm) for configurable aerodynamics in road cycling and cyclocross. Engineered for professional teams and small brands prioritizing quality, weight, and real-world durability. Technical Specifications Rim Material: Toray T700/T800 unidirectional carbon fiber with ACL (Arch-bridge Carbon Lamination) Brake Compatibility: Disc brake only (Center-Lock) Rim Depths: 50mm,28mm outer wide Tubeless Ready: Yes, supports modern hookless and clincher tubeless setups (max air pressure specifications apply) Hub Engagement: 54T ratchet (6.67°) for faster power transfer (industry average: 18–24T pawl = 15–20°) Spoke Type: Straight pull, stainless steel optimized for aerodynamics and tension uniformity Warranty: 2 years (documented quality control, batch testing to EN 14781:2017 standards) Comparison: Selecting the Right Rim Depth Depth Weight Use Case 40mm Lightest Climbing, gravel/cyclocross, variable wind 50mm Balanced All-around road, criterium, rolling terrain 60mm Aero-optimized Flat road races, time trial, high sustained speed Frequently Asked Questions Q: Is the 54T ratchet hub measurably faster than a standard system?A: Yes. 54T engagement reduces deadband to 6.67°, compared to 20°+ with standard 18T/24T systems—enabling immediate power during sprints or technical terrain. Q: Are the rims  or tested for impact?A: Yes, batch tested to EN 14781:2017 and ISO 4210-7 standards for fatigue and impact resistance. Q: Is tubeless setup supported for both high-pressure road and lower-pressure cyclocross setups?A: Yes, validated up to 110 psi for road, 45 psi for cyclocross (check tire compatibility and consult max values before use). Q: What frame and fork standards are supported?A: 12x100mm (front), 12x142mm (rear). Center-lock compatible. Q: What is your warranty process?A: 3 years, covering workmanship and manufacturing defects—compliant with EU/NA small business partner programs. Real-World Considerations Heavier rim depths improve aerodynamics for sustained speed but increase crosswind sensitivity and rotational mass. Straight pull spokes simplify spoke replacement and hold tension better under racing stresses. While tubeless decreases flat risk and rolling resistance, it requires precise tire setup and maintenance. - Bola Carbon Sporting Goods
+  Updated: 2026-05-06T10:16:49Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Bicycle Wheelsets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/classic.png?v=1766976490
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153839206654)
+    Availability: Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153839239422)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153839272190)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153839304958)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153839337726)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153839370494)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153839403262)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153839436030)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153839468798)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153839501566)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153839534334)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153839567102)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153839599870)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153839632638)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153839665406)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153839698174)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153839730942)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153839763710)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153839796478)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153839829246)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153839862014)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153839894782)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153839927550)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153839960318)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153839993086)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153840025854)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153840058622)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153840091390)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153840124158)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153840156926)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153840189694)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153840222462)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153840255230)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153840287998)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153840320766)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153840353534)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153840386302)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153840419070)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153840451838)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153840484606)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153840517374)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153840550142)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153840582910)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153840615678)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153840648446)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153840681214)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153840713982)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153840746750)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Shimano HG / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153840779518)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Shimano HG / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-45mm-28mm-wide?variant=48153840812286)
+    Availability: Not Available
+    Price: $385.00 USD
+- [Carbon Disc Brake Wheelset, 54T Ratchet, Tubeless, 55mm,28mm wide - Bola Carbon Sporting Goods](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide): High-Performance Carbon Disc Brake Wheelset — 54T Ratchet Hub, Tubeless-Ready ACE summary: This carbon disc-brake wheelset features a 54-tooth ratchet hub for rapid engagement (6.67°), a tubeless-ready design, and 50 rim depths (40/45/50/55/60mm) for configurable aerodynamics in road cycling and cyclocross. Engineered for professional teams and small brands prioritizing quality, weight, and real-world durability. Technical Specifications Rim Material: Toray T700/T800 unidirectional carbon fiber with ACL (Arch-bridge Carbon Lamination) Brake Compatibility: Disc brake only (Center-Lock) Rim Depths: 50mm,28mm outer wide Tubeless Ready: Yes, supports modern hookless and clincher tubeless setups (max air pressure specifications apply) Hub Engagement: 54T ratchet (6.67°) for faster power transfer (industry average: 18–24T pawl = 15–20°) Spoke Type: Straight pull, stainless steel optimized for aerodynamics and tension uniformity Warranty: 2 years (documented quality control, batch testing to EN 14781:2017 standards) Comparison: Selecting the Right Rim Depth Depth Weight Use Case 40mm Lightest Climbing, gravel/cyclocross, variable wind 50mm Balanced All-around road, criterium, rolling terrain 60mm Aero-optimized Flat road races, time trial, high sustained speed Frequently Asked Questions Q: Is the 54T ratchet hub measurably faster than a standard system?A: Yes. 54T engagement reduces deadband to 6.67°, compared to 20°+ with standard 18T/24T systems—enabling immediate power during sprints or technical terrain. Q: Are the rims  or tested for impact?A: Yes, batch tested to EN 14781:2017 and ISO 4210-7 standards for fatigue and impact resistance. Q: Is tubeless setup supported for both high-pressure road and lower-pressure cyclocross setups?A: Yes, validated up to 110 psi for road, 45 psi for cyclocross (check tire compatibility and consult max values before use). Q: What frame and fork standards are supported?A: 12x100mm (front), 12x142mm (rear). Center-lock compatible. Q: What is your warranty process?A: 3 years, covering workmanship and manufacturing defects—compliant with EU/NA small business partner programs. Real-World Considerations Heavier rim depths improve aerodynamics for sustained speed but increase crosswind sensitivity and rotational mass. Straight pull spokes simplify spoke replacement and hold tension better under racing stresses. While tubeless decreases flat risk and rolling resistance, it requires precise tire setup and maintenance. - Bola Carbon Sporting Goods
+  Updated: 2026-05-06T10:16:49Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Bicycle Wheelsets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/classic.png?v=1766976490
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153849397502)
+    Availability: Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153849430270)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153849463038)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153849495806)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153849528574)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153849561342)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153849594110)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153849626878)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153849659646)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153849692414)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153849725182)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153849757950)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153849790718)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153849823486)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153849856254)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153849889022)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153849921790)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153849954558)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153849987326)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850020094)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850052862)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850085630)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850118398)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850151166)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850183934)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850216702)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850249470)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850282238)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850315006)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850347774)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850380542)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850413310)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850446078)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850478846)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850511614)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850544382)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850577150)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850609918)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850642686)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850675454)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850708222)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850740990)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850773758)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850806526)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850839294)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850872062)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850904830)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850937598)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Shimano HG / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153850970366)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Shimano HG / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide?variant=48153851003134)
+    Availability: Not Available
+    Price: $385.00 USD
+- [Carbon  50mm Disc Brake Wheelset, 54T Ratchet,Tubeless, 30mm wide - Bola Carbon Sporting Goods](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本): High-Performance Carbon Disc Brake Wheelset — 54T Ratchet Hub, Tubeless-Ready ACE summary: This carbon disc-brake wheelset features a 54-tooth ratchet hub for rapid engagement (6.67°), a tubeless-ready design, and 50 rim depths for configurable aerodynamics in road cycling and cyclocross. Engineered for professional teams and small brands prioritizing quality, weight, and real-world durability. Technical Specifications Rim Material: Toray T700/T800 unidirectional carbon fiber with ACL (Arch-bridge Carbon Lamination) Brake Compatibility: Disc brake only (Center-Lock) Rim Depths: 50mm,30mm outer wide Tubeless Ready: Yes, supports modern hookless and clincher tubeless setups (max air pressure specifications apply) Hub Engagement: 54T ratchet (6.67°) for faster power transfer (industry average: 18–24T pawl = 15–20°) Spoke Type: Straight pull, stainless steel optimized for aerodynamics and tension uniformity Warranty: 2 years (documented quality control, batch testing to EN 14781:2017 standards) Comparison: Selecting the Right Rim Depth Depth Weight Use Case 40mm Lightest Climbing, gravel/cyclocross, variable wind 50mm Balanced All-around road, criterium, rolling terrain 60mm Aero-optimized Flat road races, time trial, high sustained speed Frequently Asked Questions Q: Is the 54T ratchet hub measurably faster than a standard system?A: Yes. 54T engagement reduces deadband to 6.67°, compared to 20°+ with standard 18T/24T systems—enabling immediate power during sprints or technical terrain. Q: Are the rims  or tested for impact?A: Yes, batch tested to EN 14781:2017 and ISO 4210-7 standards for fatigue and impact resistance. Q: Is tubeless setup supported for both high-pressure road and lower-pressure cyclocross setups?A: Yes, validated up to 110 psi for road, 45 psi for cyclocross (check tire compatibility and consult max values before use). Q: What frame and fork standards are supported?A: 12x100mm (front), 12x142mm (rear). Center-lock compatible. Q: What is your warranty process?A: 3 years, covering workmanship and manufacturing defects—compliant with EU/NA small business partner programs. Real-World Considerations Heavier rim depths improve aerodynamics for sustained speed but increase crosswind sensitivity and rotational mass. Straight pull spokes simplify spoke replacement and hold tension better under racing stresses. While tubeless decreases flat risk and rolling resistance, it requires precise tire setup and maintenance. - Bola Carbon Sporting Goods
+  Updated: 2026-05-06T22:08:28Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Bicycle Wheelsets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/classic.png?v=1766976490
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153865486590)
+    Availability: Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153865519358)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153865552126)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153865584894)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153865617662)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153865650430)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153865683198)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153865715966)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153865748734)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153865781502)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153865814270)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153865847038)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153865879806)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153865912574)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153865945342)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153865978110)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866010878)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866043646)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866076414)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866109182)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866141950)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866174718)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866207486)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866240254)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866273022)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866305790)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866338558)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866371326)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866404094)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866436862)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866469630)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866502398)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866535166)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866567934)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866600702)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866633470)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866666238)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866699006)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866731774)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866764542)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866797310)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866830078)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866862846)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866895614)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866928382)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866961150)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153866993918)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153867026686)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Shimano HG / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153867059454)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Shimano HG / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-disc-brake-wheelset-54t-ratchet-tubeless-55mm-28mm-wide-副本?variant=48153867092222)
+    Availability: Not Available
+    Price: $385.00 USD
+- [Carbon  35mm Disc Brake Wheelset, 54T Ratchet,Tubeless, 30mm wide - Bola Carbon Sporting Goods](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide): High-Performance Carbon Disc Brake Wheelset — 54T Ratchet Hub, Tubeless-Ready ACE summary: This carbon disc-brake wheelset features a 54-tooth ratchet hub for rapid engagement (6.67°), a tubeless-ready design, and 50 rim depths for configurable aerodynamics in road cycling and cyclocross. Engineered for professional teams and small brands prioritizing quality, weight, and real-world durability. Technical Specifications Rim Material: Toray T700/T800 unidirectional carbon fiber with ACL (Arch-bridge Carbon Lamination) Brake Compatibility: Disc brake only (Center-Lock) Rim Depths: 50mm,30mm outer wide Tubeless Ready: Yes, supports modern hookless and clincher tubeless setups (max air pressure specifications apply) Hub Engagement: 54T ratchet (6.67°) for faster power transfer (industry average: 18–24T pawl = 15–20°) Spoke Type: Straight pull, stainless steel optimized for aerodynamics and tension uniformity Warranty: 2 years (documented quality control, batch testing to EN 14781:2017 standards) Comparison: Selecting the Right Rim Depth Depth Weight Use Case 40mm Lightest Climbing, gravel/cyclocross, variable wind 50mm Balanced All-around road, criterium, rolling terrain 60mm Aero-optimized Flat road races, time trial, high sustained speed Frequently Asked Questions Q: Is the 54T ratchet hub measurably faster than a standard system?A: Yes. 54T engagement reduces deadband to 6.67°, compared to 20°+ with standard 18T/24T systems—enabling immediate power during sprints or technical terrain. Q: Are the rims  or tested for impact?A: Yes, batch tested to EN 14781:2017 and ISO 4210-7 standards for fatigue and impact resistance. Q: Is tubeless setup supported for both high-pressure road and lower-pressure cyclocross setups?A: Yes, validated up to 110 psi for road, 45 psi for cyclocross (check tire compatibility and consult max values before use). Q: What frame and fork standards are supported?A: 12x100mm (front), 12x142mm (rear). Center-lock compatible. Q: What is your warranty process?A: 3 years, covering workmanship and manufacturing defects—compliant with EU/NA small business partner programs. Real-World Considerations Heavier rim depths improve aerodynamics for sustained speed but increase crosswind sensitivity and rotational mass. Straight pull spokes simplify spoke replacement and hold tension better under racing stresses. While tubeless decreases flat risk and rolling resistance, it requires precise tire setup and maintenance. - Bola Carbon Sporting Goods
+  Updated: 2026-05-06T10:16:49Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Bicycle Wheelsets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/classic.png?v=1766976490
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153892684030)
+    Availability: Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153892716798)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153892749566)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153892782334)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153892815102)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153892847870)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153892880638)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153892913406)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153892946174)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153892978942)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893011710)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893044478)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893077246)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893110014)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893142782)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893175550)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893208318)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893241086)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893273854)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893306622)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893339390)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893372158)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893404926)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893437694)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893470462)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893503230)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893535998)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893568766)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893601534)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893634302)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893667070)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893699838)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893732606)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893765374)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893798142)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893830910)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893863678)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893896446)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893929214)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893961982)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153893994750)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153894027518)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153894060286)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153894093054)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153894125822)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153894158590)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153894191358)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153894224126)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Shimano HG / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153894256894)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Shimano HG / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide?variant=48153894289662)
+    Availability: Not Available
+    Price: $385.00 USD
+- [Carbon  40mm Disc Brake Wheelset, 54T Ratchet,Tubeless, 30mm wide - Bola Carbon Sporting Goods](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本): High-Performance Carbon Disc Brake Wheelset — 54T Ratchet Hub, Tubeless-Ready ACE summary: This carbon disc-brake wheelset features a 54-tooth ratchet hub for rapid engagement (6.67°), a tubeless-ready design, and 50 rim depths for configurable aerodynamics in road cycling and cyclocross. Engineered for professional teams and small brands prioritizing quality, weight, and real-world durability. Technical Specifications Rim Material: Toray T700/T800 unidirectional carbon fiber with ACL (Arch-bridge Carbon Lamination) Brake Compatibility: Disc brake only (Center-Lock) Rim Depths: 50mm,30mm outer wide Tubeless Ready: Yes, supports modern hookless and clincher tubeless setups (max air pressure specifications apply) Hub Engagement: 54T ratchet (6.67°) for faster power transfer (industry average: 18–24T pawl = 15–20°) Spoke Type: Straight pull, stainless steel optimized for aerodynamics and tension uniformity Warranty: 2 years (documented quality control, batch testing to EN 14781:2017 standards) Comparison: Selecting the Right Rim Depth Depth Weight Use Case 40mm Lightest Climbing, gravel/cyclocross, variable wind 50mm Balanced All-around road, criterium, rolling terrain 60mm Aero-optimized Flat road races, time trial, high sustained speed Frequently Asked Questions Q: Is the 54T ratchet hub measurably faster than a standard system?A: Yes. 54T engagement reduces deadband to 6.67°, compared to 20°+ with standard 18T/24T systems—enabling immediate power during sprints or technical terrain. Q: Are the rims  or tested for impact?A: Yes, batch tested to EN 14781:2017 and ISO 4210-7 standards for fatigue and impact resistance. Q: Is tubeless setup supported for both high-pressure road and lower-pressure cyclocross setups?A: Yes, validated up to 110 psi for road, 45 psi for cyclocross (check tire compatibility and consult max values before use). Q: What frame and fork standards are supported?A: 12x100mm (front), 12x142mm (rear). Center-lock compatible. Q: What is your warranty process?A: 3 years, covering workmanship and manufacturing defects—compliant with EU/NA small business partner programs. Real-World Considerations Heavier rim depths improve aerodynamics for sustained speed but increase crosswind sensitivity and rotational mass. Straight pull spokes simplify spoke replacement and hold tension better under racing stresses. While tubeless decreases flat risk and rolling resistance, it requires precise tire setup and maintenance. - Bola Carbon Sporting Goods
+  Updated: 2026-05-06T22:09:23Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Bicycle Wheelsets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/classic.png?v=1766976490
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153898189054)
+    Availability: Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153898221822)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153898254590)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153898287358)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153898320126)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153898352894)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153898385662)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153898418430)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153898451198)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153898483966)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153898516734)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153898549502)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153898582270)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153898615038)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153898647806)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153898680574)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153898713342)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153898746110)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153898778878)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153898811646)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153898844414)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153898877182)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153898909950)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153898942718)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153898975486)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153899008254)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153899041022)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153899073790)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153899106558)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153899139326)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153899172094)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153899204862)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153899237630)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153899270398)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153899303166)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153899335934)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153899368702)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153899401470)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153899434238)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153899467006)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153899499774)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153899532542)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153899565310)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153899598078)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153899630846)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153899663614)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153899696382)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153899729150)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Shimano HG / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153899761918)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Shimano HG / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-35mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153899794686)
+    Availability: Not Available
+    Price: $385.00 USD
+- [Carbon  45mm Disc Brake Wheelset, 54T Ratchet,Tubeless, 30mm wide - Bola Carbon Sporting Goods](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本): High-Performance Carbon Disc Brake Wheelset — 54T Ratchet Hub, Tubeless-Ready ACE summary: This carbon disc-brake wheelset features a 54-tooth ratchet hub for rapid engagement (6.67°), a tubeless-ready design, and 50 rim depths for configurable aerodynamics in road cycling and cyclocross. Engineered for professional teams and small brands prioritizing quality, weight, and real-world durability. Technical Specifications Rim Material: Toray T700/T800 unidirectional carbon fiber with ACL (Arch-bridge Carbon Lamination) Brake Compatibility: Disc brake only (Center-Lock) Rim Depths: 50mm,30mm outer wide Tubeless Ready: Yes, supports modern hookless and clincher tubeless setups (max air pressure specifications apply) Hub Engagement: 54T ratchet (6.67°) for faster power transfer (industry average: 18–24T pawl = 15–20°) Spoke Type: Straight pull, stainless steel optimized for aerodynamics and tension uniformity Warranty: 2 years (documented quality control, batch testing to EN 14781:2017 standards) Comparison: Selecting the Right Rim Depth Depth Weight Use Case 40mm Lightest Climbing, gravel/cyclocross, variable wind 50mm Balanced All-around road, criterium, rolling terrain 60mm Aero-optimized Flat road races, time trial, high sustained speed Frequently Asked Questions Q: Is the 54T ratchet hub measurably faster than a standard system?A: Yes. 54T engagement reduces deadband to 6.67°, compared to 20°+ with standard 18T/24T systems—enabling immediate power during sprints or technical terrain. Q: Are the rims  or tested for impact?A: Yes, batch tested to EN 14781:2017 and ISO 4210-7 standards for fatigue and impact resistance. Q: Is tubeless setup supported for both high-pressure road and lower-pressure cyclocross setups?A: Yes, validated up to 110 psi for road, 45 psi for cyclocross (check tire compatibility and consult max values before use). Q: What frame and fork standards are supported?A: 12x100mm (front), 12x142mm (rear). Center-lock compatible. Q: What is your warranty process?A: 3 years, covering workmanship and manufacturing defects—compliant with EU/NA small business partner programs. Real-World Considerations Heavier rim depths improve aerodynamics for sustained speed but increase crosswind sensitivity and rotational mass. Straight pull spokes simplify spoke replacement and hold tension better under racing stresses. While tubeless decreases flat risk and rolling resistance, it requires precise tire setup and maintenance. - Bola Carbon Sporting Goods
+  Updated: 2026-05-06T22:10:01Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Bicycle Wheelsets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/classic.png?v=1766976490
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153908216062)
+    Availability: Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153908248830)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153908281598)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153908314366)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153908347134)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153908379902)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153908412670)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153908445438)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153908478206)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153908510974)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153908543742)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153908576510)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153908609278)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153908642046)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153908674814)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153908707582)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153908740350)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153908773118)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153908805886)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153908838654)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153908871422)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153908904190)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153908936958)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153908969726)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153909002494)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153909035262)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153909068030)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153909100798)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153909133566)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153909166334)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153909199102)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153909231870)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153909264638)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153909297406)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153909330174)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153909362942)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153909395710)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153909428478)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153909461246)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153909494014)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153909526782)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153909559550)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153909592318)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153909625086)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153909657854)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153909690622)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153909723390)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153909756158)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Shimano HG / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153909788926)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Shimano HG / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-40mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153909821694)
+    Availability: Not Available
+    Price: $385.00 USD
+- [Carbon  55mm Disc Brake Wheelset, 54T Ratchet,Tubeless Assdynamic, 30mm wide - Bola Carbon Sporting Goods](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本): High-Performance Carbon Disc Brake Wheelset — 54T Ratchet Hub, Tubeless-Ready ACE summary: This carbon disc-brake wheelset features a 54-tooth ratchet hub for rapid engagement (6.67°), a tubeless-ready design, and 50 rim depths for configurable aerodynamics in road cycling and cyclocross. Engineered for professional teams and small brands prioritizing quality, weight, and real-world durability. Technical Specifications Rim Material: Toray T700/T800 unidirectional carbon fiber with ACL (Arch-bridge Carbon Lamination) Brake Compatibility: Disc brake only (Center-Lock) Rim Depths: 50mm,30mm outer wide Tubeless Ready: Yes, supports modern hookless and clincher tubeless setups (max air pressure specifications apply) Hub Engagement: 54T ratchet (6.67°) for faster power transfer (industry average: 18–24T pawl = 15–20°) Spoke Type: Straight pull, stainless steel optimized for aerodynamics and tension uniformity Warranty: 2 years (documented quality control, batch testing to EN 14781:2017 standards) Comparison: Selecting the Right Rim Depth Depth Weight Use Case 40mm Lightest Climbing, gravel/cyclocross, variable wind 50mm Balanced All-around road, criterium, rolling terrain 60mm Aero-optimized Flat road races, time trial, high sustained speed Frequently Asked Questions Q: Is the 54T ratchet hub measurably faster than a standard system?A: Yes. 54T engagement reduces deadband to 6.67°, compared to 20°+ with standard 18T/24T systems—enabling immediate power during sprints or technical terrain. Q: Are the rims  or tested for impact?A: Yes, batch tested to EN 14781:2017 and ISO 4210-7 standards for fatigue and impact resistance. Q: Is tubeless setup supported for both high-pressure road and lower-pressure cyclocross setups?A: Yes, validated up to 110 psi for road, 45 psi for cyclocross (check tire compatibility and consult max values before use). Q: What frame and fork standards are supported?A: 12x100mm (front), 12x142mm (rear). Center-lock compatible. Q: What is your warranty process?A: 3 years, covering workmanship and manufacturing defects—compliant with EU/NA small business partner programs. Real-World Considerations Heavier rim depths improve aerodynamics for sustained speed but increase crosswind sensitivity and rotational mass. Straight pull spokes simplify spoke replacement and hold tension better under racing stresses. While tubeless decreases flat risk and rolling resistance, it requires precise tire setup and maintenance. - Bola Carbon Sporting Goods
+  Updated: 2026-05-07T12:59:10Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Bicycle Wheelsets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/classic.png?v=1766976490
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918013694)
+    Availability: Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918046462)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918079230)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918111998)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918144766)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918177534)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918210302)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918243070)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918275838)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918308606)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918341374)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918374142)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918406910)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918439678)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918472446)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918505214)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918537982)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918570750)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918603518)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918636286)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918669054)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918701822)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918734590)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918767358)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918800126)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918832894)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918865662)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918898430)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918931198)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918963966)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153918996734)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153919029502)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153919062270)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153919095038)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153919127806)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153919160574)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153919193342)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153919226110)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153919258878)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153919291646)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153919324414)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153919357182)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153919389950)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153919422718)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153919455486)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153919488254)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153919521022)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153919553790)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Shimano HG / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153919586558)
+    Availability: Not Available
+    Price: $385.00 USD
+  - [Shimano HG / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-45mm-disc-brake-wheelset-54t-ratchet-tubeless-30mm-wide-副本?variant=48153919619326)
+    Availability: Not Available
+    Price: $385.00 USD
+- [Bola Superlight 700C Carbon Wheelset 50mm Disc Brake – 28mm Wide,Road & Gravel - Bola Carbon Sporting Goods](https://bolacarbon.com/products/bola-700c-carbon-wheelset-50mm-disc-brake-30mm-wide-rim-1460g-road-gravel-副本): Bola 700C 50mm Carbon Disc Brake Wheelset – Road & Gravel The Bola 700C wheelset delivers a 40mm carbon rim with a 30mm outer width and 24mm inner width, optimized for 28–38mm tires on road and gravel surfaces. Weighing 1,460g ±10g per pair, it suits amateur and club-level riders seeking aero efficiency without pro-race weight penalties. Max rider weight: 120kg. Rim Specifications Profile: 40mm carbon rim, UD matte finish Outer width: 30mm Inner width: 24mm (supports 28–42mm tires per ETRTO guidelines) Runout tolerance: ±0.2mm offset Max spoke tension: 180 kgf Tire pressure range: 100–125 psi Hub Specifications Model: Bola 52T Ratchet, NBK bearing, disc brake, straight-pull Front hub: 2 sealed bearings, O.L.D. 100mm Rear hub: 4 sealed bearings, O.L.D. 135mm Front end caps: M9 / M12 / M15 Rear end caps: M10 / M12 / M12×142 (Boost compatible) Spoke & Build Specifications Spoke brand: Pillar 1423 bladed Spoke count: 24F / 24R Lacing pattern: 2× cross front and rear Wide-Rim Advantage: 30mm vs. 25mm Metric 30mm Outer Width (This Wheelset) 25mm Outer Width (Narrow Standard) Recommended tire width 28–42mm 23–32mm Tire sidewall support Higher – reduces pinch flats Lower on wider tires Aerodynamic profile Optimized for tires ≥28mm Optimized for tires <25mm Gravel suitability Yes – stable on loose surfaces Limited Tradeoff note: The 30mm outer width adds marginal weight vs. 25mm rims but improves cornering stability and reduces rolling resistance when paired with 28mm+ tires — a net benefit for endurance road and gravel use. In the Box Front and rear carbon wheelset (700C) 3× spare spokes (Pillar 1423) Multiple end cap adapters included Frequently Asked Questions Are 40mm carbon wheels good for amateur cyclists? Yes. The 40mm profile balances aerodynamic gain and crosswind stability better than 50mm+ deep rims, making it practical for club rides, century events, and mixed road/gravel routes without the handling sensitivity of deeper race wheels. What tire sizes fit a 24mm inner width rim? Per ETRTO standards, a 24mm inner width is optimized for 28–42mm tires. Running 25mm tires is possible but sub-optimal; 28–32mm road tires and 35–40mm gravel tires perform best. Is this wheelset compatible with Boost 148 rear axles? Yes. The included M12×142 and M12×148 end caps cover both standard 135mm and Boost 142/148 rear spacing. Confirm your frame's O.L.D. before ordering. What brake rotors are compatible? The hub uses a standard 6-bolt disc brake interface, compatible with Shimano, SRAM, and most third-party 6-bolt rotors (rotor not included). What is the warranty on this wheelset? Bola offers a 3-year manufacturer warranty covering rim and hub structural defects under normal riding conditions. - Bola Carbon Sporting Goods
+  Updated: 2026-05-06T22:13:52Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Carbon Wheelset
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/30mmwheelset.png?v=1732609153
+  Price: $390.00 USD
+- [Bola Superlight 700C Carbon Wheelset 40mm Disc Brake – 28mm Wide,Road & Gravel - Bola Carbon Sporting Goods](https://bolacarbon.com/products/bola-superlight-700c-carbon-wheelset-50mm-disc-brake-28mm-wide-road-gravel-副本): Bola 700C 50mm Carbon Disc Brake Wheelset – Road & Gravel The Bola 700C wheelset delivers a 40mm carbon rim with a 30mm outer width and 24mm inner width, optimized for 28–38mm tires on road and gravel surfaces. Weighing 1,460g ±10g per pair, it suits amateur and club-level riders seeking aero efficiency without pro-race weight penalties. Max rider weight: 120kg. Rim Specifications Profile: 40mm carbon rim, UD matte finish Outer width: 30mm Inner width: 24mm (supports 28–42mm tires per ETRTO guidelines) Runout tolerance: ±0.2mm offset Max spoke tension: 180 kgf Tire pressure range: 100–125 psi Hub Specifications Model: Bola 52T Ratchet, NBK bearing, disc brake, straight-pull Front hub: 2 sealed bearings, O.L.D. 100mm Rear hub: 4 sealed bearings, O.L.D. 135mm Front end caps: M9 / M12 / M15 Rear end caps: M10 / M12 / M12×142 (Boost compatible) Spoke & Build Specifications Spoke brand: Pillar 1423 bladed Spoke count: 24F / 24R Lacing pattern: 2× cross front and rear Wide-Rim Advantage: 30mm vs. 25mm Metric 30mm Outer Width (This Wheelset) 25mm Outer Width (Narrow Standard) Recommended tire width 28–42mm 23–32mm Tire sidewall support Higher – reduces pinch flats Lower on wider tires Aerodynamic profile Optimized for tires ≥28mm Optimized for tires <25mm Gravel suitability Yes – stable on loose surfaces Limited Tradeoff note: The 30mm outer width adds marginal weight vs. 25mm rims but improves cornering stability and reduces rolling resistance when paired with 28mm+ tires — a net benefit for endurance road and gravel use. In the Box Front and rear carbon wheelset (700C) 3× spare spokes (Pillar 1423) Multiple end cap adapters included Frequently Asked Questions Are 40mm carbon wheels good for amateur cyclists? Yes. The 40mm profile balances aerodynamic gain and crosswind stability better than 50mm+ deep rims, making it practical for club rides, century events, and mixed road/gravel routes without the handling sensitivity of deeper race wheels. What tire sizes fit a 24mm inner width rim? Per ETRTO standards, a 24mm inner width is optimized for 28–42mm tires. Running 25mm tires is possible but sub-optimal; 28–32mm road tires and 35–40mm gravel tires perform best. Is this wheelset compatible with Boost 148 rear axles? Yes. The included M12×142 and M12×148 end caps cover both standard 135mm and Boost 142/148 rear spacing. Confirm your frame's O.L.D. before ordering. What brake rotors are compatible? The hub uses a standard 6-bolt disc brake interface, compatible with Shimano, SRAM, and most third-party 6-bolt rotors (rotor not included). What is the warranty on this wheelset? Bola offers a 3-year manufacturer warranty covering rim and hub structural defects under normal riding conditions. - Bola Carbon Sporting Goods
+  Updated: 2026-05-06T22:14:29Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Carbon Wheelset
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/30mmwheelset.png?v=1732609153
+  Price: $390.00 USD
+- [Bola Superlight 700C Carbon Wheelset 45mm Disc Brake – 28mm Wide,Road & Gravel（副本） - Bola Carbon Sporting Goods](https://bolacarbon.com/products/bola-superlight-700c-carbon-wheelset-40mm-disc-brake-28mm-wide-road-gravel-副本): Bola 700C 50mm Carbon Disc Brake Wheelset – Road & Gravel The Bola 700C wheelset delivers a 40mm carbon rim with a 30mm outer width and 24mm inner width, optimized for 28–38mm tires on road and gravel surfaces. Weighing 1,460g ±10g per pair, it suits amateur and club-level riders seeking aero efficiency without pro-race weight penalties. Max rider weight: 120kg. Rim Specifications Profile: 40mm carbon rim, UD matte finish Outer width: 30mm Inner width: 24mm (supports 28–42mm tires per ETRTO guidelines) Runout tolerance: ±0.2mm offset Max spoke tension: 180 kgf Tire pressure range: 100–125 psi Hub Specifications Model: Bola 52T Ratchet, NBK bearing, disc brake, straight-pull Front hub: 2 sealed bearings, O.L.D. 100mm Rear hub: 4 sealed bearings, O.L.D. 135mm Front end caps: M9 / M12 / M15 Rear end caps: M10 / M12 / M12×142 (Boost compatible) Spoke & Build Specifications Spoke brand: Pillar 1423 bladed Spoke count: 24F / 24R Lacing pattern: 2× cross front and rear Wide-Rim Advantage: 30mm vs. 25mm Metric 30mm Outer Width (This Wheelset) 25mm Outer Width (Narrow Standard) Recommended tire width 28–42mm 23–32mm Tire sidewall support Higher – reduces pinch flats Lower on wider tires Aerodynamic profile Optimized for tires ≥28mm Optimized for tires <25mm Gravel suitability Yes – stable on loose surfaces Limited Tradeoff note: The 30mm outer width adds marginal weight vs. 25mm rims but improves cornering stability and reduces rolling resistance when paired with 28mm+ tires — a net benefit for endurance road and gravel use. In the Box Front and rear carbon wheelset (700C) 3× spare spokes (Pillar 1423) Multiple end cap adapters included Frequently Asked Questions Are 40mm carbon wheels good for amateur cyclists? Yes. The 40mm profile balances aerodynamic gain and crosswind stability better than 50mm+ deep rims, making it practical for club rides, century events, and mixed road/gravel routes without the handling sensitivity of deeper race wheels. What tire sizes fit a 24mm inner width rim? Per ETRTO standards, a 24mm inner width is optimized for 28–42mm tires. Running 25mm tires is possible but sub-optimal; 28–32mm road tires and 35–40mm gravel tires perform best. Is this wheelset compatible with Boost 148 rear axles? Yes. The included M12×142 and M12×148 end caps cover both standard 135mm and Boost 142/148 rear spacing. Confirm your frame's O.L.D. before ordering. What brake rotors are compatible? The hub uses a standard 6-bolt disc brake interface, compatible with Shimano, SRAM, and most third-party 6-bolt rotors (rotor not included). What is the warranty on this wheelset? Bola offers a 3-year manufacturer warranty covering rim and hub structural defects under normal riding conditions. - Bola Carbon Sporting Goods
+  Updated: 2026-05-06T22:14:56Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Carbon Wheelset
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/30mmwheelset.png?v=1732609153
+  Price: $390.00 USD
+- [Bola Superlight 700C Carbon Wheelset 55mm Disc Brake – 28mm Wide,Road & Gravel（副本）（副本） - Bola Carbon Sporting Goods](https://bolacarbon.com/products/bola-superlight-700c-carbon-wheelset-45mm-disc-brake-28mm-wide-road-gravel-副本-副本): Bola 700C 50mm Carbon Disc Brake Wheelset – Road & Gravel The Bola 700C wheelset delivers a 40mm carbon rim with a 30mm outer width and 24mm inner width, optimized for 28–38mm tires on road and gravel surfaces. Weighing 1,460g ±10g per pair, it suits amateur and club-level riders seeking aero efficiency without pro-race weight penalties. Max rider weight: 120kg. Rim Specifications Profile: 40mm carbon rim, UD matte finish Outer width: 30mm Inner width: 24mm (supports 28–42mm tires per ETRTO guidelines) Runout tolerance: ±0.2mm offset Max spoke tension: 180 kgf Tire pressure range: 100–125 psi Hub Specifications Model: Bola 52T Ratchet, NBK bearing, disc brake, straight-pull Front hub: 2 sealed bearings, O.L.D. 100mm Rear hub: 4 sealed bearings, O.L.D. 135mm Front end caps: M9 / M12 / M15 Rear end caps: M10 / M12 / M12×142 (Boost compatible) Spoke & Build Specifications Spoke brand: Pillar 1423 bladed Spoke count: 24F / 24R Lacing pattern: 2× cross front and rear Wide-Rim Advantage: 30mm vs. 25mm Metric 30mm Outer Width (This Wheelset) 25mm Outer Width (Narrow Standard) Recommended tire width 28–42mm 23–32mm Tire sidewall support Higher – reduces pinch flats Lower on wider tires Aerodynamic profile Optimized for tires ≥28mm Optimized for tires <25mm Gravel suitability Yes – stable on loose surfaces Limited Tradeoff note: The 30mm outer width adds marginal weight vs. 25mm rims but improves cornering stability and reduces rolling resistance when paired with 28mm+ tires — a net benefit for endurance road and gravel use. In the Box Front and rear carbon wheelset (700C) 3× spare spokes (Pillar 1423) Multiple end cap adapters included Frequently Asked Questions Are 40mm carbon wheels good for amateur cyclists? Yes. The 40mm profile balances aerodynamic gain and crosswind stability better than 50mm+ deep rims, making it practical for club rides, century events, and mixed road/gravel routes without the handling sensitivity of deeper race wheels. What tire sizes fit a 24mm inner width rim? Per ETRTO standards, a 24mm inner width is optimized for 28–42mm tires. Running 25mm tires is possible but sub-optimal; 28–32mm road tires and 35–40mm gravel tires perform best. Is this wheelset compatible with Boost 148 rear axles? Yes. The included M12×142 and M12×148 end caps cover both standard 135mm and Boost 142/148 rear spacing. Confirm your frame's O.L.D. before ordering. What brake rotors are compatible? The hub uses a standard 6-bolt disc brake interface, compatible with Shimano, SRAM, and most third-party 6-bolt rotors (rotor not included). What is the warranty on this wheelset? Bola offers a 3-year manufacturer warranty covering rim and hub structural defects under normal riding conditions. - Bola Carbon Sporting Goods
+  Updated: 2026-05-06T22:15:16Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Carbon Wheelset
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/30mmwheelset.png?v=1732609153
+  Price: $390.00 USD
+- [Bola Superlight 700C Carbon Wheelset 60mm Disc Brake – 28mm Wide,Road & Gravel（副本）（副本）（副本） - Bola Carbon Sporting Goods](https://bolacarbon.com/products/bola-superlight-700c-carbon-wheelset-55mm-disc-brake-28mm-wide-road-gravel-副本-副本-副本): Bola 700C 50mm Carbon Disc Brake Wheelset – Road & Gravel The Bola 700C wheelset delivers a 40mm carbon rim with a 30mm outer width and 24mm inner width, optimized for 28–38mm tires on road and gravel surfaces. Weighing 1,460g ±10g per pair, it suits amateur and club-level riders seeking aero efficiency without pro-race weight penalties. Max rider weight: 120kg. Rim Specifications Profile: 40mm carbon rim, UD matte finish Outer width: 30mm Inner width: 24mm (supports 28–42mm tires per ETRTO guidelines) Runout tolerance: ±0.2mm offset Max spoke tension: 180 kgf Tire pressure range: 100–125 psi Hub Specifications Model: Bola 52T Ratchet, NBK bearing, disc brake, straight-pull Front hub: 2 sealed bearings, O.L.D. 100mm Rear hub: 4 sealed bearings, O.L.D. 135mm Front end caps: M9 / M12 / M15 Rear end caps: M10 / M12 / M12×142 (Boost compatible) Spoke & Build Specifications Spoke brand: Pillar 1423 bladed Spoke count: 24F / 24R Lacing pattern: 2× cross front and rear Wide-Rim Advantage: 30mm vs. 25mm Metric 30mm Outer Width (This Wheelset) 25mm Outer Width (Narrow Standard) Recommended tire width 28–42mm 23–32mm Tire sidewall support Higher – reduces pinch flats Lower on wider tires Aerodynamic profile Optimized for tires ≥28mm Optimized for tires <25mm Gravel suitability Yes – stable on loose surfaces Limited Tradeoff note: The 30mm outer width adds marginal weight vs. 25mm rims but improves cornering stability and reduces rolling resistance when paired with 28mm+ tires — a net benefit for endurance road and gravel use. In the Box Front and rear carbon wheelset (700C) 3× spare spokes (Pillar 1423) Multiple end cap adapters included Frequently Asked Questions Are 40mm carbon wheels good for amateur cyclists? Yes. The 40mm profile balances aerodynamic gain and crosswind stability better than 50mm+ deep rims, making it practical for club rides, century events, and mixed road/gravel routes without the handling sensitivity of deeper race wheels. What tire sizes fit a 24mm inner width rim? Per ETRTO standards, a 24mm inner width is optimized for 28–42mm tires. Running 25mm tires is possible but sub-optimal; 28–32mm road tires and 35–40mm gravel tires perform best. Is this wheelset compatible with Boost 148 rear axles? Yes. The included M12×142 and M12×148 end caps cover both standard 135mm and Boost 142/148 rear spacing. Confirm your frame's O.L.D. before ordering. What brake rotors are compatible? The hub uses a standard 6-bolt disc brake interface, compatible with Shimano, SRAM, and most third-party 6-bolt rotors (rotor not included). What is the warranty on this wheelset? Bola offers a 3-year manufacturer warranty covering rim and hub structural defects under normal riding conditions. - Bola Carbon Sporting Goods
+  Updated: 2026-05-06T22:15:47Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Carbon Wheelset
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/30mmwheelset.png?v=1732609153
+  Price: $390.00 USD
+- [Bola Superlight 700C Carbon Wheelset 60mm Disc Brake – 30mm Wide,Road & Gravel（副本）（副本）（副本）（副本） - Bola Carbon Sporting Goods](https://bolacarbon.com/products/bola-superlight-700c-carbon-wheelset-60mm-disc-brake-28mm-wide-road-gravel-副本-副本-副本-副本): Bola 700C 50mm Carbon Disc Brake Wheelset – Road & Gravel The Bola 700C wheelset delivers a 40mm carbon rim with a 30mm outer width and 24mm inner width, optimized for 28–38mm tires on road and gravel surfaces. Weighing 1,460g ±10g per pair, it suits amateur and club-level riders seeking aero efficiency without pro-race weight penalties. Max rider weight: 120kg. Rim Specifications Profile: 40mm carbon rim, UD matte finish Outer width: 30mm Inner width: 24mm (supports 28–42mm tires per ETRTO guidelines) Runout tolerance: ±0.2mm offset Max spoke tension: 180 kgf Tire pressure range: 100–125 psi Hub Specifications Model: Bola 52T Ratchet, NBK bearing, disc brake, straight-pull Front hub: 2 sealed bearings, O.L.D. 100mm Rear hub: 4 sealed bearings, O.L.D. 135mm Front end caps: M9 / M12 / M15 Rear end caps: M10 / M12 / M12×142 (Boost compatible) Spoke & Build Specifications Spoke brand: Pillar 1423 bladed Spoke count: 24F / 24R Lacing pattern: 2× cross front and rear Wide-Rim Advantage: 30mm vs. 25mm Metric 30mm Outer Width (This Wheelset) 25mm Outer Width (Narrow Standard) Recommended tire width 28–42mm 23–32mm Tire sidewall support Higher – reduces pinch flats Lower on wider tires Aerodynamic profile Optimized for tires ≥28mm Optimized for tires <25mm Gravel suitability Yes – stable on loose surfaces Limited Tradeoff note: The 30mm outer width adds marginal weight vs. 25mm rims but improves cornering stability and reduces rolling resistance when paired with 28mm+ tires — a net benefit for endurance road and gravel use. In the Box Front and rear carbon wheelset (700C) 3× spare spokes (Pillar 1423) Multiple end cap adapters included Frequently Asked Questions Are 40mm carbon wheels good for amateur cyclists? Yes. The 40mm profile balances aerodynamic gain and crosswind stability better than 50mm+ deep rims, making it practical for club rides, century events, and mixed road/gravel routes without the handling sensitivity of deeper race wheels. What tire sizes fit a 24mm inner width rim? Per ETRTO standards, a 24mm inner width is optimized for 28–42mm tires. Running 25mm tires is possible but sub-optimal; 28–32mm road tires and 35–40mm gravel tires perform best. Is this wheelset compatible with Boost 148 rear axles? Yes. The included M12×142 and M12×148 end caps cover both standard 135mm and Boost 142/148 rear spacing. Confirm your frame's O.L.D. before ordering. What brake rotors are compatible? The hub uses a standard 6-bolt disc brake interface, compatible with Shimano, SRAM, and most third-party 6-bolt rotors (rotor not included). What is the warranty on this wheelset? Bola offers a 3-year manufacturer warranty covering rim and hub structural defects under normal riding conditions. - Bola Carbon Sporting Goods
+  Updated: 2026-05-06T22:16:15Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Carbon Wheelset
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/30mmwheelset.png?v=1732609153
+  Price: $390.00 USD
+- [Bola Superlight 700C Carbon Wheelset 55mm Disc Brake – 30mm Wide offset,Road & Gravel - Bola Carbon Sporting Goods](https://bolacarbon.com/products/bola-superlight-700c-carbon-wheelset-60mm-disc-brake-30mm-wide-road-gravel-副本-副本-副本-副本-副本): Bola 700C 50mm Carbon Disc Brake Wheelset – Road & Gravel The Bola 700C wheelset delivers a 40mm carbon rim with a 30mm outer width and 24mm inner width, optimized for 28–38mm tires on road and gravel surfaces. Weighing 1,460g ±10g per pair, it suits amateur and club-level riders seeking aero efficiency without pro-race weight penalties. Max rider weight: 120kg. Rim Specifications Profile: 40mm carbon rim, UD matte finish Outer width: 30mm Inner width: 24mm (supports 28–42mm tires per ETRTO guidelines) Runout tolerance: ±0.2mm offset Max spoke tension: 180 kgf Tire pressure range: 100–125 psi Hub Specifications Model: Bola 52T Ratchet, NBK bearing, disc brake, straight-pull Front hub: 2 sealed bearings, O.L.D. 100mm Rear hub: 4 sealed bearings, O.L.D. 135mm Front end caps: M9 / M12 / M15 Rear end caps: M10 / M12 / M12×142 (Boost compatible) Spoke & Build Specifications Spoke brand: Pillar 1423 bladed Spoke count: 24F / 24R Lacing pattern: 2× cross front and rear Wide-Rim Advantage: 30mm vs. 25mm Metric 30mm Outer Width (This Wheelset) 25mm Outer Width (Narrow Standard) Recommended tire width 28–42mm 23–32mm Tire sidewall support Higher – reduces pinch flats Lower on wider tires Aerodynamic profile Optimized for tires ≥28mm Optimized for tires <25mm Gravel suitability Yes – stable on loose surfaces Limited Tradeoff note: The 30mm outer width adds marginal weight vs. 25mm rims but improves cornering stability and reduces rolling resistance when paired with 28mm+ tires — a net benefit for endurance road and gravel use. In the Box Front and rear carbon wheelset (700C) 3× spare spokes (Pillar 1423) Multiple end cap adapters included Frequently Asked Questions Are 40mm carbon wheels good for amateur cyclists? Yes. The 40mm profile balances aerodynamic gain and crosswind stability better than 50mm+ deep rims, making it practical for club rides, century events, and mixed road/gravel routes without the handling sensitivity of deeper race wheels. What tire sizes fit a 24mm inner width rim? Per ETRTO standards, a 24mm inner width is optimized for 28–42mm tires. Running 25mm tires is possible but sub-optimal; 28–32mm road tires and 35–40mm gravel tires perform best. Is this wheelset compatible with Boost 148 rear axles? Yes. The included M12×142 and M12×148 end caps cover both standard 135mm and Boost 142/148 rear spacing. Confirm your frame's O.L.D. before ordering. What brake rotors are compatible? The hub uses a standard 6-bolt disc brake interface, compatible with Shimano, SRAM, and most third-party 6-bolt rotors (rotor not included). What is the warranty on this wheelset? Bola offers a 3-year manufacturer warranty covering rim and hub structural defects under normal riding conditions. - Bola Carbon Sporting Goods
+  Updated: 2026-05-06T22:16:59Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Carbon Wheelset
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/30mmwheelset.png?v=1732609153
+  Price: $390.00 USD
+- [Bola Superlight 700C Carbon Wheelset 40mm Disc Brake – 30mm Wide,Road & Gravel（副本）（副本） - Bola Carbon Sporting Goods](https://bolacarbon.com/products/bola-superlight-700c-carbon-wheelset-40mm-disc-brake-30mm-wide-road-gravel-副本-副本): Bola 700C 50mm Carbon Disc Brake Wheelset – Road & Gravel The Bola 700C wheelset delivers a 40mm carbon rim with a 30mm outer width and 24mm inner width, optimized for 28–38mm tires on road and gravel surfaces. Weighing 1,460g ±10g per pair, it suits amateur and club-level riders seeking aero efficiency without pro-race weight penalties. Max rider weight: 120kg. Rim Specifications Profile: 40mm carbon rim, UD matte finish Outer width: 30mm Inner width: 24mm (supports 28–42mm tires per ETRTO guidelines) Runout tolerance: ±0.2mm offset Max spoke tension: 180 kgf Tire pressure range: 100–125 psi Hub Specifications Model: Bola 52T Ratchet, NBK bearing, disc brake, straight-pull Front hub: 2 sealed bearings, O.L.D. 100mm Rear hub: 4 sealed bearings, O.L.D. 135mm Front end caps: M9 / M12 / M15 Rear end caps: M10 / M12 / M12×142 (Boost compatible) Spoke & Build Specifications Spoke brand: Pillar 1423 bladed Spoke count: 24F / 24R Lacing pattern: 2× cross front and rear Wide-Rim Advantage: 30mm vs. 25mm Metric 30mm Outer Width (This Wheelset) 25mm Outer Width (Narrow Standard) Recommended tire width 28–42mm 23–32mm Tire sidewall support Higher – reduces pinch flats Lower on wider tires Aerodynamic profile Optimized for tires ≥28mm Optimized for tires <25mm Gravel suitability Yes – stable on loose surfaces Limited Tradeoff note: The 30mm outer width adds marginal weight vs. 25mm rims but improves cornering stability and reduces rolling resistance when paired with 28mm+ tires — a net benefit for endurance road and gravel use. In the Box Front and rear carbon wheelset (700C) 3× spare spokes (Pillar 1423) Multiple end cap adapters included Frequently Asked Questions Are 40mm carbon wheels good for amateur cyclists? Yes. The 40mm profile balances aerodynamic gain and crosswind stability better than 50mm+ deep rims, making it practical for club rides, century events, and mixed road/gravel routes without the handling sensitivity of deeper race wheels. What tire sizes fit a 24mm inner width rim? Per ETRTO standards, a 24mm inner width is optimized for 28–42mm tires. Running 25mm tires is possible but sub-optimal; 28–32mm road tires and 35–40mm gravel tires perform best. Is this wheelset compatible with Boost 148 rear axles? Yes. The included M12×142 and M12×148 end caps cover both standard 135mm and Boost 142/148 rear spacing. Confirm your frame's O.L.D. before ordering. What brake rotors are compatible? The hub uses a standard 6-bolt disc brake interface, compatible with Shimano, SRAM, and most third-party 6-bolt rotors (rotor not included). What is the warranty on this wheelset? Bola offers a 3-year manufacturer warranty covering rim and hub structural defects under normal riding conditions. - Bola Carbon Sporting Goods
+  Updated: 2026-05-06T10:29:05Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Carbon Wheelset
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/30mmwheelset.png?v=1732609153
+  Price: $390.00 USD
+- [Bola 700C Carbon Disc Brake Wheelset | 45mm & 50mm Wavy Profile | 25mm Inner Wide | Road & Training - Bola Carbon Sporting Goods](https://bolacarbon.com/products/bola-700c-carbon-disc-brake-wheelset-45mm-50mm-wavy-profile-25mm-inner-wide-road-training): Bola 700C Carbon Disc Brake Wheelset — 45mm & 50mm Wave Profile The Bola 700C Carbon Disc Brake Wheelset delivers aerodynamic efficiency and structural rigidity for road cycling, endurance training, and mixed-surface use. Available in 45mm and 50mm wave-profile rim depths with a 28mm outer width, this wheelset suits riders who want measurable performance gains without sacrificing day-to-day reliability. Weighing 1,470g ± 10g per pair, it fits within the competitive range for disc brake carbon wheelsets targeting daily training and racing use. Rim Specifications Specification 45mm Profile 50mm Profile Rim Depth 45mm 50mm Outer Width 28mm 28mm Inner Width 22mm 22mm Surface Finish UD Matte Carbon UD Matte Carbon Profile Shape Wave (toroidal) Wave (toroidal) Choosing between 45mm and 50mm: The 45mm depth offers a more stable ride in crosswinds, making it the preferred choice for exposed routes, hilly terrain, and heavier riders. The 50mm depth provides marginally greater aerodynamic advantage at speeds above 35 km/h, suited to flat road training and criterium-style riding. Both depths share identical hub, spoke, and width specifications for consistent handling. Hub & Bearing System Brand: Bola NBK Bearing Disc Brake Straight-Pull Hub Front Hub: 2 sealed bearings, O.L.D. 100mm Rear Hub: 4 sealed bearings, O.L.D. 135mm End Cap Compatibility — Front: M9, M12, M15 End Cap Compatibility — Rear: M10, M12, M12×142 The straight-pull hub design reduces spoke fatigue at the elbow, contributing to a more consistent tension distribution across the wheel's service life. Four sealed rear bearings support lateral load management under sustained out-of-saddle efforts. Spoke Configuration Spoke Brand: Pillar 1423 Spoke Count: 24 front / 24 rear Lacing Pattern: 2× Cross (front and rear) Max Spoke Tension: 180 kgf Trueness Tolerance: ±0.2mm offset Pillar 1423 bladed spokes are a recognized choice in performance wheelbuilding for their aerodynamic cross-section and tensile reliability. A 24-spoke 2× cross pattern balances lateral stiffness with road compliance — a common configuration for all-round endurance and training wheels. Load & Pressure Ratings Min / Max Tire Pressure: 100 / 125 psi (6.9 / 8.6 bar) Maximum Rider Weight: 120 kg (264 lbs) Tradeoff note: The 28mm outer width and 22mm inner width accommodate tire widths from 25mm to 32mm, enabling light gravel or mixed-surface use. However, the 100 psi minimum pressure and 125 psi maximum ceiling are calibrated for road tires; tubeless-specific pressure ranges should be confirmed with your tire manufacturer before setup. Package Contents 1× Front wheel (45mm or 50mm, as selected) 1× Rear wheel (45mm or 50mm, as selected) 3× Spare spokes (Pillar 1423) Weight: 1,470g ± 10g per pair (excluding accessories) Frequently Asked Questions Is a 45mm or 50mm rim depth better for everyday road cycling? For most daily cycling and mixed-condition training, the 45mm depth is the more practical choice. It handles crosswinds more predictably and reduces rider fatigue on varied terrain. The 50mm depth is better suited to controlled flat environments where aerodynamic efficiency is the priority. Can this 25mm inner wide carbon wheelset handle light gravel riding? Yes. The 25mm inner width supports tire widths up to approximately 32mm, which is suitable for light gravel or paved paths. For sustained off-road or technical gravel use, a wider inner rim (25mm+) would provide better tire support and puncture resistance. What disc brake axle standards does this wheelset support? Front axle options include 9mm QR (M9), 12mm thru-axle (M12), and 15mm thru-axle (M15). Rear options include 10mm QR (M10), 12mm thru-axle (M12), and 12×142mm thru-axle. This covers the majority of modern road, gravel, and hybrid disc brake frames. What is the maximum rider weight for this wheelset? The rated maximum rider weight is 120 kg (264 lbs), inclusive of rider, clothing, and cargo. Does this wheelset come with a warranty? Bola offers a two-year warranty on this wheelset, covering manufacturing defects in the rim, hub, and spoke assembly under normal use conditions. - Bola Carbon Sporting Goods
+  Updated: 2026-05-07T13:14:58Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Carbon Wheelset
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/4550set.png?v=1732607883
+  Price: $330.00 USD
+- [Bola ultra light 35/40/45/50mm carbon wheelset with 20 carbon blade spoke and ratchet ceramic bearing hub - Bola Carbon Sporting Goods](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本): Bola Elite T800 Carbon Disc Brake Wheelset Answer: This ultralight carbon wheelset delivers advanced climbing and road racing performance for cyclists prioritizing weight, aerodynamics, and reliable engagement. Constructed with Toray T800 unidirectional carbon fiber and a high-efficiency 54T ratchet hub, it supports disc brake systems and is engineered for optimal power transfer on steep gradients and mixed profiles. Key Specifications Material: Toray T800 carbon fiber UD Matt Brake compatibility: Disc brake only (centerlock) Weight: Sub-1,200g Rim depths: 35/40/45/50mm Rim width: External 30mm / Internal 24mm or ext 36mm /int 20mm Spokes: Aerodynamic straightpull carbon (20 per wheel) Hub: 54-tooth ratchet, 6.67° engagement Diameter: 700c (ISO 622 standard) Tubeless ready: Yes (ERTO 2020 standard) Warranty: 2 years Use Cases & Performance Climbing: Sub-1,200g weight and rigid T800 layup minimize energy loss when ascending. Road Racing: 54T hub supports fast acceleration out of corners, aiding breakaways and sprinting. All-Round Riding: Wavy rim depths balance crosswind stability and aerodynamic performance for varied terrain. Comparison Table Attribute Bola Elite T800 Typical Alloy Weight (pair) <1000g 1650–1800g Rim Depth 35mm 30–40mm Hub Engagement 54T/6.67° 24–36T/10–15° Spoke Type Carbon, blade Steel Certifications & Standards ERTO 2020 Tubeless-ready Rim Width Standard ISO 622 (700c) Wheel Diameter FAQs Q: Are ultralight carbon disc wheelsets good for climbing and racing?A: Yes. The low weight and increased rigidity improve climbing and acceleration vs. heavier alloy or deeper rim options. Q: How does the 54T ratchet hub compare for real-world use?A: Higher ratchet count (54T) means quicker engagement, benefiting technical riding and out-of-saddle sprints. Q: Why choose wavy rim depths and carbon spokes?A: The design optimizes crosswind handling and aerodynamics, reducing fatigue on long days. Q: Is a sub-1,000g tubeless carbon wheelset worth it?A: For competitive and serious endurance riders, reduced rotational weight translates to measurable performance gains, especially on hilly routes. Tradeoff: While carbon spokes and ultralight rims push peak performance, some riders may prefer alloy spares for increased impact resistance on rough surfaces. - Bola Carbon Sporting Goods
+  Updated: 2026-05-07T13:57:45Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Carbon Road Disc Wheelset
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/3.2_ba5c55d1-4892-4d6b-900b-806c8b7591d5.png?v=1766978920
+  - [Sram XDR / 36mm/30mm Out/Int wide 35mm high / Black Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157502439678)
+    Availability: Available
+    Price: $890.00 USD
+  - [Sram XDR / 36mm/30mm Out/Int wide 35mm high / White Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157502767358)
+    Availability: Available
+    Price: $890.00 USD
+  - [Sram XDR / 36mm/30mm Out/Int wide 35mm high / Customs](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157503095038)
+    Availability: Available
+    Price: $890.00 USD
+  - [Sram XDR / 30mm/23mm Out/Int wide 35mm high / Black Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157502472446)
+    Availability: Available
+    Price: $890.00 USD
+  - [Sram XDR / 30mm/23mm Out/Int wide 35mm high / White Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157502800126)
+    Availability: Available
+    Price: $890.00 USD
+  - [Sram XDR / 30mm/23mm Out/Int wide 35mm high / Customs](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157503127806)
+    Availability: Available
+    Price: $890.00 USD
+  - [Sram XDR / 36mm/30mm Out/Int wide 40mm high / Black Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157502505214)
+    Availability: Available
+    Price: $890.00 USD
+  - [Sram XDR / 36mm/30mm Out/Int wide 40mm high / White Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157502832894)
+    Availability: Available
+    Price: $890.00 USD
+  - [Sram XDR / 36mm/30mm Out/Int wide 40mm high / Customs](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157503160574)
+    Availability: Available
+    Price: $890.00 USD
+  - [Sram XDR / 30mm/23mm Out/Int wide 40mm high / Black Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157502537982)
+    Availability: Available
+    Price: $890.00 USD
+  - [Sram XDR / 30mm/23mm Out/Int wide 40mm high / White Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157502865662)
+    Availability: Available
+    Price: $890.00 USD
+  - [Sram XDR / 30mm/23mm Out/Int wide 40mm high / Customs](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157503193342)
+    Availability: Available
+    Price: $890.00 USD
+  - [Sram XDR / 36mm/30mm Out/Int wide 45mm high / Black Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157502570750)
+    Availability: Available
+    Price: $890.00 USD
+  - [Sram XDR / 36mm/30mm Out/Int wide 45mm high / White Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157502898430)
+    Availability: Available
+    Price: $890.00 USD
+  - [Sram XDR / 36mm/30mm Out/Int wide 45mm high / Customs](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157503226110)
+    Availability: Available
+    Price: $890.00 USD
+  - [Sram XDR / 30mm/23mm Out/Int wide 45mm high / Black Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157502603518)
+    Availability: Available
+    Price: $890.00 USD
+  - [Sram XDR / 30mm/23mm Out/Int wide 45mm high / White Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157502931198)
+    Availability: Available
+    Price: $890.00 USD
+  - [Sram XDR / 30mm/23mm Out/Int wide 45mm high / Customs](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157503258878)
+    Availability: Available
+    Price: $890.00 USD
+  - [Sram XDR / 36mm/30mm Out/Int wide 50mm high / Black Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157502636286)
+    Availability: Available
+    Price: $890.00 USD
+  - [Sram XDR / 36mm/30mm Out/Int wide 50mm high / White Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157502963966)
+    Availability: Available
+    Price: $890.00 USD
+  - [Sram XDR / 36mm/30mm Out/Int wide 50mm high / Customs](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157503291646)
+    Availability: Available
+    Price: $890.00 USD
+  - [Sram XDR / 30mm/23mm Out/Int wide 50mm high / Black Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157502669054)
+    Availability: Available
+    Price: $890.00 USD
+  - [Sram XDR / 30mm/23mm Out/Int wide 50mm high / White Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157502996734)
+    Availability: Available
+    Price: $890.00 USD
+  - [Sram XDR / 30mm/23mm Out/Int wide 50mm high / Customs](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157503324414)
+    Availability: Available
+    Price: $890.00 USD
+  - [Shimano HG / 36mm/30mm Out/Int wide 35mm high / Black Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157504405758)
+    Availability: Available
+    Price: $890.00 USD
+  - [Shimano HG / 36mm/30mm Out/Int wide 35mm high / White Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157504733438)
+    Availability: Available
+    Price: $890.00 USD
+  - [Shimano HG / 36mm/30mm Out/Int wide 35mm high / Customs](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157505061118)
+    Availability: Available
+    Price: $890.00 USD
+  - [Shimano HG / 30mm/23mm Out/Int wide 35mm high / Black Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157504438526)
+    Availability: Available
+    Price: $890.00 USD
+  - [Shimano HG / 30mm/23mm Out/Int wide 35mm high / White Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157504766206)
+    Availability: Available
+    Price: $890.00 USD
+  - [Shimano HG / 30mm/23mm Out/Int wide 35mm high / Customs](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157505093886)
+    Availability: Available
+    Price: $890.00 USD
+  - [Shimano HG / 36mm/30mm Out/Int wide 40mm high / Black Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157504471294)
+    Availability: Available
+    Price: $890.00 USD
+  - [Shimano HG / 36mm/30mm Out/Int wide 40mm high / White Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157504798974)
+    Availability: Available
+    Price: $890.00 USD
+  - [Shimano HG / 36mm/30mm Out/Int wide 40mm high / Customs](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157505126654)
+    Availability: Available
+    Price: $890.00 USD
+  - [Shimano HG / 30mm/23mm Out/Int wide 40mm high / Black Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157504504062)
+    Availability: Available
+    Price: $890.00 USD
+  - [Shimano HG / 30mm/23mm Out/Int wide 40mm high / White Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157504831742)
+    Availability: Available
+    Price: $890.00 USD
+  - [Shimano HG / 30mm/23mm Out/Int wide 40mm high / Customs](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157505159422)
+    Availability: Available
+    Price: $890.00 USD
+  - [Shimano HG / 36mm/30mm Out/Int wide 45mm high / Black Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157504536830)
+    Availability: Available
+    Price: $890.00 USD
+  - [Shimano HG / 36mm/30mm Out/Int wide 45mm high / White Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157504864510)
+    Availability: Available
+    Price: $890.00 USD
+  - [Shimano HG / 36mm/30mm Out/Int wide 45mm high / Customs](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157505192190)
+    Availability: Available
+    Price: $890.00 USD
+  - [Shimano HG / 30mm/23mm Out/Int wide 45mm high / Black Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157504569598)
+    Availability: Available
+    Price: $890.00 USD
+  - [Shimano HG / 30mm/23mm Out/Int wide 45mm high / White Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157504897278)
+    Availability: Available
+    Price: $890.00 USD
+  - [Shimano HG / 30mm/23mm Out/Int wide 45mm high / Customs](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157505224958)
+    Availability: Available
+    Price: $890.00 USD
+  - [Shimano HG / 36mm/30mm Out/Int wide 50mm high / Black Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157504602366)
+    Availability: Available
+    Price: $890.00 USD
+  - [Shimano HG / 36mm/30mm Out/Int wide 50mm high / White Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157504930046)
+    Availability: Available
+    Price: $890.00 USD
+  - [Shimano HG / 36mm/30mm Out/Int wide 50mm high / Customs](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157505257726)
+    Availability: Available
+    Price: $890.00 USD
+  - [Shimano HG / 30mm/23mm Out/Int wide 50mm high / Black Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157504635134)
+    Availability: Available
+    Price: $890.00 USD
+  - [Shimano HG / 30mm/23mm Out/Int wide 50mm high / White Bola](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157504962814)
+    Availability: Available
+    Price: $890.00 USD
+  - [Shimano HG / 30mm/23mm Out/Int wide 50mm high / Customs](https://bolacarbon.com/products/bola-ultra-light-wave-carbon-wheelset-with-20-carbon-spoke-and-ratchet-hub-副本?variant=48157505290494)
+    Availability: Available
+    Price: $890.00 USD
+- [Bola T800 Carbon Disc Brake 40mm Wheelset – 54T Ratchet Hub, Straightpull Spokes,30mm ext wide - Bola Carbon Sporting Goods](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide): Bola Elite T800 Carbon Disc Brake Wheelset — Quick Answer The Bola Elite is a Toray T800 carbon wheelset built for climbers and road racers who need sub-1,500g rolling weight without sacrificing disc brake compatibility. It ships with a 54-tooth engagement ratchet hub and aerodynamic straightpull carbon spokes across five rim depths (35–60mm), making it one of the most configurable performance wheelsets in its price bracket. Key Specifications Carbon Material: Toray T800 carbon fiber UD Matt Brake Type: Disc brake only (centerlock) Rim Depths: 40 mm Rim Width (External): 30mm Rim Width (Internal): 23mm Spoke Type: Aero straightpull carbon spokes Hub Engagement: 54-tooth ratchet (6.67° engagement angle) Wheel Diameter: 700c (ISO 622) Warranty: 2 years Rim Depth Selection Guide Depth Best For Aero Gain vs. 35mm Baseline 35mm Climbing, technical descents, crosswind stability Baseline 40mm All-around road & gravel, endurance racing Moderate 45mm Balanced climber/sprinter hybrid use Medium 50mm Flat and rolling road racing, criteriums High 55mm Time trial, flat stage racing, sprinting Highest Technology Explained 54T Ratchet Hub A 54-tooth ratchet system delivers a 6.67° engagement angle — meaning power transfers to the drivetrain within roughly one-tenth of a crank rotation. This is measurably faster than standard 36T hubs (10° engagement) and is particularly advantageous in criterium accelerations and technical climbs where instantaneous torque matters. Straightpull Carbon Spokes Unlike J-bend spokes, straightpull spokes eliminate the elbow stress point — the most common site of fatigue failure on high-load race wheels. Combined with carbon construction, this reduces aerodynamic drag per spoke while maintaining lateral stiffness. Note: Straightpull spokes require a compatible hub and are less universally serviceable than J-bend at local bike shops. Toray T800 Carbon T800 fiber offers a tensile strength of approximately 5,490 MPa and a tensile modulus of 294 GPa — a higher strength-to-weight ratio than the more common T700 fiber. This allows thinner layups at equivalent load ratings, directly contributing to reduced rim weight. Known Tradeoffs Spoke serviceability: Straightpull carbon spokes are not available at most local bike shops. Carry a spare spoke for multi-day events. Deeper rims in crosswinds: The 50mm and 55mm profiles offer peak aerodynamic efficiency but require more active steering input in sustained crosswinds above ~35 km/h. Riders under 65kg may prefer the 40mm for mixed-terrain events. Disc brake only: These rims are not compatible with rim brake calipers. Frequently Asked Questions What rim depth is best for all-around road cycling? The 40mm depth is the most versatile choice for riders who mix climbing, endurance rides, and moderate flat sections. It offers measurable aerodynamic improvement over a 35mm rim while remaining manageable in variable wind conditions. Is the 54T ratchet hub worth it for competitive road racing? For criteriums, punchy climbs, and sprint finishes, yes. A 54T system engages in 6.67° versus 10° on a 36T hub — a real advantage when accelerating from a corner or responding to an attack. For steady-state endurance riding, the benefit is less pronounced but the hub adds no weight penalty. Are straightpull spokes more durable than J-bend spokes? In controlled testing environments, straightpull spokes show lower fatigue failure rates at the spoke-to-hub interface because they eliminate the bent elbow stress concentration. However, carbon straightpull spokes require manufacturer-specific replacements, which affects field repairability. What tire width is compatible with the 21mm and 24mm internal rim widths? The 21mm internal width optimally pairs with 25–32mm tires. The 24mm internal width is recommended for 28–38mm tires. Both widths conform to the ETRTO 2020 guidelines for tubeless-ready setups. Does this wheelset come tubeless-ready? Please confirm with the seller whether tubeless tape and valves are included. The 21mm and 24mm internal widths are geometrically compatible with tubeless tire installation on appropriate rim beds. - Bola Carbon Sporting Goods
+  Updated: 2026-05-07T14:01:20Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Carbon Road Wheelset
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/3.2_ba5c55d1-4892-4d6b-900b-806c8b7591d5.png?v=1766978920
+  - [UD Matt / Sram XDR / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide?variant=48157509353726)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Sram XDR / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide?variant=48157509681406)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Sram XDR / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide?variant=48157510009086)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Shimano HG / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide?variant=48157510336766)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Shimano HG / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide?variant=48157510664446)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Shimano HG / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide?variant=48157510992126)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Sram XDR / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide?variant=48157509386494)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Sram XDR / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide?variant=48157509714174)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Sram XDR / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide?variant=48157510041854)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Shimano HG / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide?variant=48157510369534)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Shimano HG / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide?variant=48157510697214)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Shimano HG / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide?variant=48157511024894)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Sram XDR / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide?variant=48157509419262)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Sram XDR / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide?variant=48157509746942)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Sram XDR / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide?variant=48157510074622)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Shimano HG / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide?variant=48157510402302)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Shimano HG / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide?variant=48157510729982)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Shimano HG / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide?variant=48157511057662)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Sram XDR / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide?variant=48157509452030)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Sram XDR / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide?variant=48157509779710)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Sram XDR / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide?variant=48157510107390)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Shimano HG / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide?variant=48157510435070)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Shimano HG / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide?variant=48157510762750)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Shimano HG / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide?variant=48157511090430)
+    Availability: Available
+    Price: $760.00 USD
+- [Bola T800 Carbon Disc Brake 45mm Wheelset – 54T Ratchet Hub, Straightpull Spokes,30mm ext wide（副本） - Bola Carbon Sporting Goods](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本): Bola Elite T800 Carbon Disc Brake Wheelset — Quick Answer The Bola Elite is a Toray T800 carbon wheelset built for climbers and road racers who need sub-1,500g rolling weight without sacrificing disc brake compatibility. It ships with a 54-tooth engagement ratchet hub and aerodynamic straightpull carbon spokes across five rim depths (35–60mm), making it one of the most configurable performance wheelsets in its price bracket. Key Specifications Carbon Material: Toray T800 carbon fiber UD Matt Brake Type: Disc brake only (centerlock) Rim Depths: 40 mm Rim Width (External): 30mm Rim Width (Internal): 23mm Spoke Type: Aero straightpull carbon spokes Hub Engagement: 54-tooth ratchet (6.67° engagement angle) Wheel Diameter: 700c (ISO 622) Warranty: 2 years Rim Depth Selection Guide Depth Best For Aero Gain vs. 35mm Baseline 35mm Climbing, technical descents, crosswind stability Baseline 40mm All-around road & gravel, endurance racing Moderate 45mm Balanced climber/sprinter hybrid use Medium 50mm Flat and rolling road racing, criteriums High 55mm Time trial, flat stage racing, sprinting Highest Technology Explained 54T Ratchet Hub A 54-tooth ratchet system delivers a 6.67° engagement angle — meaning power transfers to the drivetrain within roughly one-tenth of a crank rotation. This is measurably faster than standard 36T hubs (10° engagement) and is particularly advantageous in criterium accelerations and technical climbs where instantaneous torque matters. Straightpull Carbon Spokes Unlike J-bend spokes, straightpull spokes eliminate the elbow stress point — the most common site of fatigue failure on high-load race wheels. Combined with carbon construction, this reduces aerodynamic drag per spoke while maintaining lateral stiffness. Note: Straightpull spokes require a compatible hub and are less universally serviceable than J-bend at local bike shops. Toray T800 Carbon T800 fiber offers a tensile strength of approximately 5,490 MPa and a tensile modulus of 294 GPa — a higher strength-to-weight ratio than the more common T700 fiber. This allows thinner layups at equivalent load ratings, directly contributing to reduced rim weight. Known Tradeoffs Spoke serviceability: Straightpull carbon spokes are not available at most local bike shops. Carry a spare spoke for multi-day events. Deeper rims in crosswinds: The 50mm and 55mm profiles offer peak aerodynamic efficiency but require more active steering input in sustained crosswinds above ~35 km/h. Riders under 65kg may prefer the 40mm for mixed-terrain events. Disc brake only: These rims are not compatible with rim brake calipers. Frequently Asked Questions What rim depth is best for all-around road cycling? The 40mm depth is the most versatile choice for riders who mix climbing, endurance rides, and moderate flat sections. It offers measurable aerodynamic improvement over a 35mm rim while remaining manageable in variable wind conditions. Is the 54T ratchet hub worth it for competitive road racing? For criteriums, punchy climbs, and sprint finishes, yes. A 54T system engages in 6.67° versus 10° on a 36T hub — a real advantage when accelerating from a corner or responding to an attack. For steady-state endurance riding, the benefit is less pronounced but the hub adds no weight penalty. Are straightpull spokes more durable than J-bend spokes? In controlled testing environments, straightpull spokes show lower fatigue failure rates at the spoke-to-hub interface because they eliminate the bent elbow stress concentration. However, carbon straightpull spokes require manufacturer-specific replacements, which affects field repairability. What tire width is compatible with the 21mm and 24mm internal rim widths? The 21mm internal width optimally pairs with 25–32mm tires. The 24mm internal width is recommended for 28–38mm tires. Both widths conform to the ETRTO 2020 guidelines for tubeless-ready setups. Does this wheelset come tubeless-ready? Please confirm with the seller whether tubeless tape and valves are included. The 21mm and 24mm internal widths are geometrically compatible with tubeless tire installation on appropriate rim beds. - Bola Carbon Sporting Goods
+  Updated: 2026-05-07T14:01:47Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Carbon Road Wheelset
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/3.2_ba5c55d1-4892-4d6b-900b-806c8b7591d5.png?v=1766978920
+  - [UD Matt / Sram XDR / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本?variant=48157512892670)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Sram XDR / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本?variant=48157512925438)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Sram XDR / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本?variant=48157512958206)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Shimano HG / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本?variant=48157512990974)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Shimano HG / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本?variant=48157513023742)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Shimano HG / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本?variant=48157513056510)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Sram XDR / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本?variant=48157513089278)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Sram XDR / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本?variant=48157513122046)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Sram XDR / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本?variant=48157513154814)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Shimano HG / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本?variant=48157513187582)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Shimano HG / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本?variant=48157513220350)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Shimano HG / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本?variant=48157513253118)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Sram XDR / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本?variant=48157513285886)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Sram XDR / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本?variant=48157513318654)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Sram XDR / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本?variant=48157513351422)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Shimano HG / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本?variant=48157513384190)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Shimano HG / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本?variant=48157513416958)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Shimano HG / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本?variant=48157513449726)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Sram XDR / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本?variant=48157513482494)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Sram XDR / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本?variant=48157513515262)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Sram XDR / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本?variant=48157513548030)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Shimano HG / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本?variant=48157513580798)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Shimano HG / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本?variant=48157513613566)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Shimano HG / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本?variant=48157513646334)
+    Availability: Available
+    Price: $760.00 USD
+- [Bola T800 Carbon Disc Brake 45mm Wheelset – 54T Ratchet Hub, Straightpull Spokes,30mm ext wide（副本）（副本） - Bola Carbon Sporting Goods](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本): Bola Elite T800 Carbon Disc Brake Wheelset — Quick Answer The Bola Elite is a Toray T800 carbon wheelset built for climbers and road racers who need sub-1,500g rolling weight without sacrificing disc brake compatibility. It ships with a 54-tooth engagement ratchet hub and aerodynamic straightpull carbon spokes across five rim depths (35–60mm), making it one of the most configurable performance wheelsets in its price bracket. Key Specifications Carbon Material: Toray T800 carbon fiber UD Matt Brake Type: Disc brake only (centerlock) Rim Depths: 40 mm Rim Width (External): 30mm Rim Width (Internal): 23mm Spoke Type: Aero straightpull carbon spokes Hub Engagement: 54-tooth ratchet (6.67° engagement angle) Wheel Diameter: 700c (ISO 622) Warranty: 2 years Rim Depth Selection Guide Depth Best For Aero Gain vs. 35mm Baseline 35mm Climbing, technical descents, crosswind stability Baseline 40mm All-around road & gravel, endurance racing Moderate 45mm Balanced climber/sprinter hybrid use Medium 50mm Flat and rolling road racing, criteriums High 55mm Time trial, flat stage racing, sprinting Highest Technology Explained 54T Ratchet Hub A 54-tooth ratchet system delivers a 6.67° engagement angle — meaning power transfers to the drivetrain within roughly one-tenth of a crank rotation. This is measurably faster than standard 36T hubs (10° engagement) and is particularly advantageous in criterium accelerations and technical climbs where instantaneous torque matters. Straightpull Carbon Spokes Unlike J-bend spokes, straightpull spokes eliminate the elbow stress point — the most common site of fatigue failure on high-load race wheels. Combined with carbon construction, this reduces aerodynamic drag per spoke while maintaining lateral stiffness. Note: Straightpull spokes require a compatible hub and are less universally serviceable than J-bend at local bike shops. Toray T800 Carbon T800 fiber offers a tensile strength of approximately 5,490 MPa and a tensile modulus of 294 GPa — a higher strength-to-weight ratio than the more common T700 fiber. This allows thinner layups at equivalent load ratings, directly contributing to reduced rim weight. Known Tradeoffs Spoke serviceability: Straightpull carbon spokes are not available at most local bike shops. Carry a spare spoke for multi-day events. Deeper rims in crosswinds: The 50mm and 55mm profiles offer peak aerodynamic efficiency but require more active steering input in sustained crosswinds above ~35 km/h. Riders under 65kg may prefer the 40mm for mixed-terrain events. Disc brake only: These rims are not compatible with rim brake calipers. Frequently Asked Questions What rim depth is best for all-around road cycling? The 40mm depth is the most versatile choice for riders who mix climbing, endurance rides, and moderate flat sections. It offers measurable aerodynamic improvement over a 35mm rim while remaining manageable in variable wind conditions. Is the 54T ratchet hub worth it for competitive road racing? For criteriums, punchy climbs, and sprint finishes, yes. A 54T system engages in 6.67° versus 10° on a 36T hub — a real advantage when accelerating from a corner or responding to an attack. For steady-state endurance riding, the benefit is less pronounced but the hub adds no weight penalty. Are straightpull spokes more durable than J-bend spokes? In controlled testing environments, straightpull spokes show lower fatigue failure rates at the spoke-to-hub interface because they eliminate the bent elbow stress concentration. However, carbon straightpull spokes require manufacturer-specific replacements, which affects field repairability. What tire width is compatible with the 21mm and 24mm internal rim widths? The 21mm internal width optimally pairs with 25–32mm tires. The 24mm internal width is recommended for 28–38mm tires. Both widths conform to the ETRTO 2020 guidelines for tubeless-ready setups. Does this wheelset come tubeless-ready? Please confirm with the seller whether tubeless tape and valves are included. The 21mm and 24mm internal widths are geometrically compatible with tubeless tire installation on appropriate rim beds. - Bola Carbon Sporting Goods
+  Updated: 2026-05-07T02:56:37Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Carbon Road Wheelset
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/3.2_ba5c55d1-4892-4d6b-900b-806c8b7591d5.png?v=1766978920
+  - [UD Matt / Sram XDR / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本?variant=48157513777406)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Sram XDR / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本?variant=48157513810174)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Sram XDR / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本?variant=48157513842942)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Shimano HG / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本?variant=48157513875710)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Shimano HG / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本?variant=48157513908478)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Shimano HG / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本?variant=48157513941246)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Sram XDR / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本?variant=48157513974014)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Sram XDR / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本?variant=48157514006782)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Sram XDR / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本?variant=48157514039550)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Shimano HG / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本?variant=48157514072318)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Shimano HG / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本?variant=48157514105086)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Shimano HG / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本?variant=48157514137854)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Sram XDR / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本?variant=48157514170622)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Sram XDR / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本?variant=48157514203390)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Sram XDR / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本?variant=48157514236158)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Shimano HG / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本?variant=48157514268926)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Shimano HG / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本?variant=48157514301694)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Shimano HG / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本?variant=48157514334462)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Sram XDR / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本?variant=48157514367230)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Sram XDR / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本?variant=48157514399998)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Sram XDR / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本?variant=48157514432766)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Shimano HG / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本?variant=48157514465534)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Shimano HG / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本?variant=48157514498302)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Shimano HG / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本?variant=48157514531070)
+    Availability: Available
+    Price: $760.00 USD
+- [Bola T800 Carbon Disc Brake 50mm Wheelset – 54T Ratchet Hub, Straightpull Spokes,30mm ext wide（副本）（副本）（副本） - Bola Carbon Sporting Goods](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本): Bola Elite T800 Carbon Disc Brake Wheelset — Quick Answer The Bola Elite is a Toray T800 carbon wheelset built for climbers and road racers who need sub-1,500g rolling weight without sacrificing disc brake compatibility. It ships with a 54-tooth engagement ratchet hub and aerodynamic straightpull carbon spokes across five rim depths (35–60mm), making it one of the most configurable performance wheelsets in its price bracket. Key Specifications Carbon Material: Toray T800 carbon fiber UD Matt Brake Type: Disc brake only (centerlock) Rim Depths: 40 mm Rim Width (External): 30mm Rim Width (Internal): 23mm Spoke Type: Aero straightpull carbon spokes Hub Engagement: 54-tooth ratchet (6.67° engagement angle) Wheel Diameter: 700c (ISO 622) Warranty: 2 years Rim Depth Selection Guide Depth Best For Aero Gain vs. 35mm Baseline 35mm Climbing, technical descents, crosswind stability Baseline 40mm All-around road & gravel, endurance racing Moderate 45mm Balanced climber/sprinter hybrid use Medium 50mm Flat and rolling road racing, criteriums High 55mm Time trial, flat stage racing, sprinting Highest Technology Explained 54T Ratchet Hub A 54-tooth ratchet system delivers a 6.67° engagement angle — meaning power transfers to the drivetrain within roughly one-tenth of a crank rotation. This is measurably faster than standard 36T hubs (10° engagement) and is particularly advantageous in criterium accelerations and technical climbs where instantaneous torque matters. Straightpull Carbon Spokes Unlike J-bend spokes, straightpull spokes eliminate the elbow stress point — the most common site of fatigue failure on high-load race wheels. Combined with carbon construction, this reduces aerodynamic drag per spoke while maintaining lateral stiffness. Note: Straightpull spokes require a compatible hub and are less universally serviceable than J-bend at local bike shops. Toray T800 Carbon T800 fiber offers a tensile strength of approximately 5,490 MPa and a tensile modulus of 294 GPa — a higher strength-to-weight ratio than the more common T700 fiber. This allows thinner layups at equivalent load ratings, directly contributing to reduced rim weight. Known Tradeoffs Spoke serviceability: Straightpull carbon spokes are not available at most local bike shops. Carry a spare spoke for multi-day events. Deeper rims in crosswinds: The 50mm and 55mm profiles offer peak aerodynamic efficiency but require more active steering input in sustained crosswinds above ~35 km/h. Riders under 65kg may prefer the 40mm for mixed-terrain events. Disc brake only: These rims are not compatible with rim brake calipers. Frequently Asked Questions What rim depth is best for all-around road cycling? The 40mm depth is the most versatile choice for riders who mix climbing, endurance rides, and moderate flat sections. It offers measurable aerodynamic improvement over a 35mm rim while remaining manageable in variable wind conditions. Is the 54T ratchet hub worth it for competitive road racing? For criteriums, punchy climbs, and sprint finishes, yes. A 54T system engages in 6.67° versus 10° on a 36T hub — a real advantage when accelerating from a corner or responding to an attack. For steady-state endurance riding, the benefit is less pronounced but the hub adds no weight penalty. Are straightpull spokes more durable than J-bend spokes? In controlled testing environments, straightpull spokes show lower fatigue failure rates at the spoke-to-hub interface because they eliminate the bent elbow stress concentration. However, carbon straightpull spokes require manufacturer-specific replacements, which affects field repairability. What tire width is compatible with the 21mm and 24mm internal rim widths? The 21mm internal width optimally pairs with 25–32mm tires. The 24mm internal width is recommended for 28–38mm tires. Both widths conform to the ETRTO 2020 guidelines for tubeless-ready setups. Does this wheelset come tubeless-ready? Please confirm with the seller whether tubeless tape and valves are included. The 21mm and 24mm internal widths are geometrically compatible with tubeless tire installation on appropriate rim beds. - Bola Carbon Sporting Goods
+  Updated: 2026-05-07T14:02:56Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Carbon Road Wheelset
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/3.2_ba5c55d1-4892-4d6b-900b-806c8b7591d5.png?v=1766978920
+  - [UD Matt / Sram XDR / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本?variant=48157515251966)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Sram XDR / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本?variant=48157515284734)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Sram XDR / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本?variant=48157515317502)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Shimano HG / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本?variant=48157515350270)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Shimano HG / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本?variant=48157515383038)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Shimano HG / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本?variant=48157515415806)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Sram XDR / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本?variant=48157515448574)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Sram XDR / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本?variant=48157515481342)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Sram XDR / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本?variant=48157515514110)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Shimano HG / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本?variant=48157515546878)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Shimano HG / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本?variant=48157515579646)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Shimano HG / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本?variant=48157515612414)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Sram XDR / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本?variant=48157515645182)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Sram XDR / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本?variant=48157515677950)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Sram XDR / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本?variant=48157515710718)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Shimano HG / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本?variant=48157515743486)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Shimano HG / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本?variant=48157515776254)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Shimano HG / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本?variant=48157515809022)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Sram XDR / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本?variant=48157515841790)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Sram XDR / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本?variant=48157515874558)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Sram XDR / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本?variant=48157515907326)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Shimano HG / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本?variant=48157515940094)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Shimano HG / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本?variant=48157515972862)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Shimano HG / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-45mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本?variant=48157516005630)
+    Availability: Available
+    Price: $760.00 USD
+- [Bola T800 Carbon Disc Brake 60mm Wheelset – 54T Ratchet Hub, Straightpull Spokes,30mm ext wide（副本）（副本）（副本）（副本） - Bola Carbon Sporting Goods](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-50mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本-副本): Bola Elite T800 Carbon Disc Brake Wheelset — Quick Answer The Bola Elite is a Toray T800 carbon wheelset built for climbers and road racers who need sub-1,500g rolling weight without sacrificing disc brake compatibility. It ships with a 54-tooth engagement ratchet hub and aerodynamic straightpull carbon spokes across five rim depths (35–60mm), making it one of the most configurable performance wheelsets in its price bracket. Key Specifications Carbon Material: Toray T800 carbon fiber UD Matt Brake Type: Disc brake only (centerlock) Rim Depths: 40 mm Rim Width (External): 30mm Rim Width (Internal): 23mm Spoke Type: Aero straightpull carbon spokes Hub Engagement: 54-tooth ratchet (6.67° engagement angle) Wheel Diameter: 700c (ISO 622) Warranty: 2 years Rim Depth Selection Guide Depth Best For Aero Gain vs. 35mm Baseline 35mm Climbing, technical descents, crosswind stability Baseline 40mm All-around road & gravel, endurance racing Moderate 45mm Balanced climber/sprinter hybrid use Medium 50mm Flat and rolling road racing, criteriums High 55mm Time trial, flat stage racing, sprinting Highest Technology Explained 54T Ratchet Hub A 54-tooth ratchet system delivers a 6.67° engagement angle — meaning power transfers to the drivetrain within roughly one-tenth of a crank rotation. This is measurably faster than standard 36T hubs (10° engagement) and is particularly advantageous in criterium accelerations and technical climbs where instantaneous torque matters. Straightpull Carbon Spokes Unlike J-bend spokes, straightpull spokes eliminate the elbow stress point — the most common site of fatigue failure on high-load race wheels. Combined with carbon construction, this reduces aerodynamic drag per spoke while maintaining lateral stiffness. Note: Straightpull spokes require a compatible hub and are less universally serviceable than J-bend at local bike shops. Toray T800 Carbon T800 fiber offers a tensile strength of approximately 5,490 MPa and a tensile modulus of 294 GPa — a higher strength-to-weight ratio than the more common T700 fiber. This allows thinner layups at equivalent load ratings, directly contributing to reduced rim weight. Known Tradeoffs Spoke serviceability: Straightpull carbon spokes are not available at most local bike shops. Carry a spare spoke for multi-day events. Deeper rims in crosswinds: The 50mm and 55mm profiles offer peak aerodynamic efficiency but require more active steering input in sustained crosswinds above ~35 km/h. Riders under 65kg may prefer the 40mm for mixed-terrain events. Disc brake only: These rims are not compatible with rim brake calipers. Frequently Asked Questions What rim depth is best for all-around road cycling? The 40mm depth is the most versatile choice for riders who mix climbing, endurance rides, and moderate flat sections. It offers measurable aerodynamic improvement over a 35mm rim while remaining manageable in variable wind conditions. Is the 54T ratchet hub worth it for competitive road racing? For criteriums, punchy climbs, and sprint finishes, yes. A 54T system engages in 6.67° versus 10° on a 36T hub — a real advantage when accelerating from a corner or responding to an attack. For steady-state endurance riding, the benefit is less pronounced but the hub adds no weight penalty. Are straightpull spokes more durable than J-bend spokes? In controlled testing environments, straightpull spokes show lower fatigue failure rates at the spoke-to-hub interface because they eliminate the bent elbow stress concentration. However, carbon straightpull spokes require manufacturer-specific replacements, which affects field repairability. What tire width is compatible with the 21mm and 24mm internal rim widths? The 21mm internal width optimally pairs with 25–32mm tires. The 24mm internal width is recommended for 28–38mm tires. Both widths conform to the ETRTO 2020 guidelines for tubeless-ready setups. Does this wheelset come tubeless-ready? Please confirm with the seller whether tubeless tape and valves are included. The 21mm and 24mm internal widths are geometrically compatible with tubeless tire installation on appropriate rim beds. - Bola Carbon Sporting Goods
+  Updated: 2026-05-07T14:03:59Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Carbon Road Wheelset
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/3.2_ba5c55d1-4892-4d6b-900b-806c8b7591d5.png?v=1766978920
+  - [UD Matt / Sram XDR / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-50mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本-副本?variant=48157516497150)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Sram XDR / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-50mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本-副本?variant=48157516529918)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Sram XDR / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-50mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本-副本?variant=48157516562686)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Shimano HG / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-50mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本-副本?variant=48157516595454)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Shimano HG / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-50mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本-副本?variant=48157516628222)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Shimano HG / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-50mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本-副本?variant=48157516660990)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Sram XDR / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-50mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本-副本?variant=48157516693758)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Sram XDR / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-50mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本-副本?variant=48157516726526)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Sram XDR / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-50mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本-副本?variant=48157516759294)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Shimano HG / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-50mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本-副本?variant=48157516792062)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Shimano HG / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-50mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本-副本?variant=48157516824830)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Shimano HG / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-50mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本-副本?variant=48157516857598)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Sram XDR / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-50mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本-副本?variant=48157516890366)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Sram XDR / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-50mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本-副本?variant=48157516923134)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Sram XDR / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-50mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本-副本?variant=48157516955902)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Shimano HG / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-50mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本-副本?variant=48157516988670)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Shimano HG / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-50mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本-副本?variant=48157517021438)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Shimano HG / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-50mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本-副本?variant=48157517054206)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Sram XDR / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-50mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本-副本?variant=48157517086974)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Sram XDR / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-50mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本-副本?variant=48157517119742)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Sram XDR / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-50mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本-副本?variant=48157517152510)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Shimano HG / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-50mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本-副本?variant=48157517185278)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Shimano HG / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-50mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本-副本?variant=48157517218046)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Shimano HG / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-50mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-ext-wide-副本-副本-副本-副本?variant=48157517250814)
+    Availability: Available
+    Price: $760.00 USD
+- [Bola T800 Carbon Disc Brake 45mm Wheelset – 54T Ratchet Hub, Straightpull Spokes,30mm int wide（副本） - Bola Carbon Sporting Goods](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-int-wide-副本): Bola Elite T800 Carbon Disc Brake Wheelset — Quick Answer The Bola Elite is a Toray T800 carbon wheelset built for climbers and road racers who need sub-1,500g rolling weight without sacrificing disc brake compatibility. It ships with a 54-tooth engagement ratchet hub and aerodynamic straightpull carbon spokes across five rim depths (35–60mm), making it one of the most configurable performance wheelsets in its price bracket. Key Specifications Carbon Material: Toray T800 carbon fiber UD Matt Brake Type: Disc brake only (centerlock) Rim Depths: 40 mm Rim Width (External): 30mm Rim Width (Internal): 23mm Spoke Type: Aero straightpull carbon spokes Hub Engagement: 54-tooth ratchet (6.67° engagement angle) Wheel Diameter: 700c (ISO 622) Warranty: 2 years Rim Depth Selection Guide Depth Best For Aero Gain vs. 35mm Baseline 35mm Climbing, technical descents, crosswind stability Baseline 40mm All-around road & gravel, endurance racing Moderate 45mm Balanced climber/sprinter hybrid use Medium 50mm Flat and rolling road racing, criteriums High 55mm Time trial, flat stage racing, sprinting Highest Technology Explained 54T Ratchet Hub A 54-tooth ratchet system delivers a 6.67° engagement angle — meaning power transfers to the drivetrain within roughly one-tenth of a crank rotation. This is measurably faster than standard 36T hubs (10° engagement) and is particularly advantageous in criterium accelerations and technical climbs where instantaneous torque matters. Straightpull Carbon Spokes Unlike J-bend spokes, straightpull spokes eliminate the elbow stress point — the most common site of fatigue failure on high-load race wheels. Combined with carbon construction, this reduces aerodynamic drag per spoke while maintaining lateral stiffness. Note: Straightpull spokes require a compatible hub and are less universally serviceable than J-bend at local bike shops. Toray T800 Carbon T800 fiber offers a tensile strength of approximately 5,490 MPa and a tensile modulus of 294 GPa — a higher strength-to-weight ratio than the more common T700 fiber. This allows thinner layups at equivalent load ratings, directly contributing to reduced rim weight. Known Tradeoffs Spoke serviceability: Straightpull carbon spokes are not available at most local bike shops. Carry a spare spoke for multi-day events. Deeper rims in crosswinds: The 50mm and 55mm profiles offer peak aerodynamic efficiency but require more active steering input in sustained crosswinds above ~35 km/h. Riders under 65kg may prefer the 40mm for mixed-terrain events. Disc brake only: These rims are not compatible with rim brake calipers. Frequently Asked Questions What rim depth is best for all-around road cycling? The 40mm depth is the most versatile choice for riders who mix climbing, endurance rides, and moderate flat sections. It offers measurable aerodynamic improvement over a 35mm rim while remaining manageable in variable wind conditions. Is the 54T ratchet hub worth it for competitive road racing? For criteriums, punchy climbs, and sprint finishes, yes. A 54T system engages in 6.67° versus 10° on a 36T hub — a real advantage when accelerating from a corner or responding to an attack. For steady-state endurance riding, the benefit is less pronounced but the hub adds no weight penalty. Are straightpull spokes more durable than J-bend spokes? In controlled testing environments, straightpull spokes show lower fatigue failure rates at the spoke-to-hub interface because they eliminate the bent elbow stress concentration. However, carbon straightpull spokes require manufacturer-specific replacements, which affects field repairability. What tire width is compatible with the 21mm and 24mm internal rim widths? The 21mm internal width optimally pairs with 25–32mm tires. The 24mm internal width is recommended for 28–38mm tires. Both widths conform to the ETRTO 2020 guidelines for tubeless-ready setups. Does this wheelset come tubeless-ready? Please confirm with the seller whether tubeless tape and valves are included. The 21mm and 24mm internal widths are geometrically compatible with tubeless tire installation on appropriate rim beds. - Bola Carbon Sporting Goods
+  Updated: 2026-05-07T14:04:49Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Carbon Road Wheelset
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/3.2_ba5c55d1-4892-4d6b-900b-806c8b7591d5.png?v=1766978920
+  - [UD Matt / Sram XDR / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-int-wide-副本?variant=48157519282430)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Sram XDR / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-int-wide-副本?variant=48157519315198)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Sram XDR / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-int-wide-副本?variant=48157519347966)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Shimano HG / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-int-wide-副本?variant=48157519380734)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Shimano HG / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-int-wide-副本?variant=48157519413502)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Matt / Shimano HG / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-int-wide-副本?variant=48157519446270)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Sram XDR / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-int-wide-副本?variant=48157519479038)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Sram XDR / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-int-wide-副本?variant=48157519511806)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Sram XDR / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-int-wide-副本?variant=48157519544574)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Shimano HG / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-int-wide-副本?variant=48157519577342)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Shimano HG / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-int-wide-副本?variant=48157519610110)
+    Availability: Available
+    Price: $760.00 USD
+  - [UD Glossy / Shimano HG / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-int-wide-副本?variant=48157519642878)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Sram XDR / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-int-wide-副本?variant=48157519675646)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Sram XDR / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-int-wide-副本?variant=48157519708414)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Sram XDR / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-int-wide-副本?variant=48157519741182)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Shimano HG / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-int-wide-副本?variant=48157519773950)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Shimano HG / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-int-wide-副本?variant=48157519806718)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Matt / Shimano HG / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-int-wide-副本?variant=48157519839486)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Sram XDR / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-int-wide-副本?variant=48157519872254)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Sram XDR / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-int-wide-副本?variant=48157519905022)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Sram XDR / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-int-wide-副本?variant=48157519937790)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Shimano HG / UD Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-int-wide-副本?variant=48157519970558)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Shimano HG / UD Glossy](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-int-wide-副本?variant=48157520003326)
+    Availability: Available
+    Price: $760.00 USD
+  - [Marble Glossy / Shimano HG / 3K Matt](https://bolacarbon.com/products/bola-t800-carbon-disc-brake-40mm-wheelset-54t-ratchet-hub-straightpull-spokes-30mm-int-wide-副本?variant=48157520036094)
+    Availability: Available
+    Price: $760.00 USD
+[List Continued](https://bolacarbon.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MjE1ODA0NjM3NDM4LCJsYXN0X3ZhbHVlIjoiOTIxNTgwNDYzNzQzOCJ9)
 
 ## Collections
 
 - [700C 28mm - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/700c-28mm-carbon-bike-rim): 700C size carbon rim,most for disc brake rim brake optional,apply for road,grave,time trial etc 28mm outer wide,21mm inner wide is compatible tire size from 25C to 43C Toray T700 with stable resin,complete hand made product,100% quality check by auto machine for the stable quality.More models and weave option etc for your OEM projects - Bola Carbon Sporting Goods
-  Updated: 2026-04-30T10:40:53Z
+  Updated: 2026-05-06T07:38:20Z
   Total Products: 22
 - [700C 25mm - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/700c-carbon-rim-25mm): We are a bike rim manufacturer in China With rich experience in Carbon bike rim and Carbon wheelset, with Competitive price and top quality. - Bola Carbon Sporting Goods
-  Updated: 2026-04-29T08:22:51Z
+  Updated: 2026-05-06T07:18:48Z
   Total Products: 17
 - [MTB - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/mtb-carbon-bicycle-rim): We are a bike rim manufacturer in China With rich experience in Carbon bike rim and Carbon wheelset, with Competitive price and top quality. - Bola Carbon Sporting Goods
-  Updated: 2026-04-30T09:21:15Z
+  Updated: 2026-05-06T07:03:19Z
   Total Products: 28
 - [Carbon Bike Rim - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/carbon-bike-rim): High-quality carbon bike rims for durable performance. Handmade with Toray T700 and T800, 100% quality checked for stability. Explore options and order today!
-  Updated: 2026-04-30T11:05:38Z
-  Total Products: 122
+  Updated: 2026-05-07T02:07:09Z
+  Total Products: 120
 - [MTB Wheel - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/mtb-carbon-wheelset): We are a bike rim manufacturer in China With rich experience in Carbon bike rim and Carbon wheelset, with Competitive price and top quality. - Bola Carbon Sporting Goods
-  Updated: 2026-04-30T03:15:53Z
+  Updated: 2026-05-06T08:10:09Z
   Total Products: 6
 - [700C Rim Brake - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/700c-rim-brake-carbon-wheelset): We are a bike rim manufacturer in China With rich experience in Carbon bike rim and Carbon wheelset, with Competitive price and top quality. - Bola Carbon Sporting Goods
-  Updated: 2026-04-24T06:17:14Z
+  Updated: 2026-05-06T07:12:52Z
   Total Products: 6
 - [700C Disc Brake - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/700c-disc-brake-carbon-bike-wheel): High-performance wheels for serious cyclists. Top quality carbon bike rims and wheelsets with competitive prices. Explore and upgrade your ride today!
-  Updated: 2026-04-30T11:19:24Z
-  Total Products: 6
+  Updated: 2026-05-07T02:05:02Z
+  Total Products: 16
 - [Carbon wheelset - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/carbon-wheelset): We are a bike rim manufacturer in China With rich experience in Carbon bike rim and Carbon wheelset, with Competitive price and top quality. - Bola Carbon Sporting Goods
-  Updated: 2026-04-30T11:19:24Z
-  Total Products: 22
+  Updated: 2026-05-07T02:05:02Z
+  Total Products: 32
 - [All products - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/all-products): We are a bike rim manufacturer in China With rich experience in Carbon bike rim and Carbon wheelset, with Competitive price and top quality. - Bola Carbon Sporting Goods
-  Updated: 2026-04-30T11:19:24Z
-  Total Products: 165
+  Updated: 2026-05-07T02:07:09Z
+  Total Products: 196
 - [Carbon Component - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/carbon-component): Handmade customized carbon fiber product for cycling,sport,outdoor etc projects. - Bola Carbon Sporting Goods
   Updated: 2026-04-20T20:09:18Z
   Total Products: 9
 - [700C 30mm - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/700c-carbon-bike-rim-30mm): High-performance carbon rims for road and time trial riders. Handcrafted 700C size with stable Toray T700 resin for quality and durability. Explore and buy now!
-  Updated: 2026-04-29T09:30:02Z
+  Updated: 2026-05-06T07:21:01Z
   Total Products: 10
 - [Tri-TT-Track-Wheel - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/tri-tt-track-wheel): three,four,five and six spoke wheel and disc wheel for triathlon or Ironman - Bola Carbon Sporting Goods
-  Updated: 2026-04-24T08:12:38Z
+  Updated: 2026-05-06T07:47:38Z
   Total Products: 4
 - [700C 34mm - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/700c-34mm-carbon-bike-rim): Durable and high-performance bike rims for cycling enthusiasts. Experience premium quality and competitive prices from a trusted manufacturer. Shop now and elevate your ride!
   Updated: 2026-04-30T11:05:38Z
@@ -14755,8 +17455,8 @@
   Updated: 2026-04-20T20:09:19Z
   Total Products: 0
 - [OEM upgrade - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/oem-upgrade): Discover our OEM upgrade. Expertly crafted carbon bike rim OEM factory designed to enhance your ride quality and performance. Ready to elevate your cycling experience?
-  Updated: 2026-04-20T20:09:19Z
-  Total Products: 23
+  Updated: 2026-05-07T02:07:09Z
+  Total Products: 21
 - [700C 36mm - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/700c-36mm-carbon-bike-rim): 700C 36mm outer and 30mm inner wide,profile from 30mm to 50mm,four schemes:normal,super,ultra and extreme light,three years warranty - Bola Carbon Sporting Goods
   Updated: 2026-04-30T10:53:17Z
   Total Products: 5
@@ -15048,17 +17748,17 @@
   - [Upgrade carbon bike wheel or change the whole carbon bicycle?](https://bolacarbon.com/blogs/faq/upgrade-carbon-bike-wheel-or-change-the-whole-carbon-bicycle)
     Updated: 2024-09-27T01:33:08Z
     Author: 钟华
-  - [The theory of carbon bike wheel evolution](https://bolacarbon.com/blogs/faq/the-theory-of-carbon-bike-wheel-evolutio)
-    Updated: 2024-10-12T07:13:53Z
+  - [What is carbon bike wheel evolution?](https://bolacarbon.com/blogs/faq/what-is-carbon-bike-wheel-evolution)
+    Updated: 2026-05-05T07:27:47Z
     Author: 钟华
   - [What is the appropriate tire pressure for a carbon bicycle wheel?](https://bolacarbon.com/blogs/faq/what-is-the-appropriate-tire-pressure-for-a-carbon-bicycle-wheel)
     Updated: 2024-10-12T07:05:53Z
     Author: 钟华
-  - [Carbon bike Wheel set test](https://bolacarbon.com/blogs/faq/carbon-bike-wheel-set-test)
-    Updated: 2024-10-12T06:59:36Z
+  - [What do you test on Bola Carbon bike Wheel set?](https://bolacarbon.com/blogs/faq/what-do-you-test-on-bola-carbon-bike-wheel-set)
+    Updated: 2026-05-05T07:26:13Z
     Author: 钟华
-  - [Exploring the mystery of the optimal  tires pressure for gravel carbon bicycle](https://bolacarbon.com/blogs/faq/exploring-the-mystery-of-the-optimal-tires-pressure-for-gravel-carbon-bicycle)
-    Updated: 2024-10-12T06:56:55Z
+  - [What is optimal  tires pressure for gravel carbon bicycle?](https://bolacarbon.com/blogs/faq/what-is-optimal-tires-pressure-for-gravel-carbon-bicycle)
+    Updated: 2026-05-05T07:24:40Z
     Author: 钟华
   - [How is Bola  classic disc brake carbon bike wheel review?](https://bolacarbon.com/blogs/faq/how-is-bola-classic-disc-brake-carbon-bike-wheel-review)
     Updated: 2026-04-30T02:37:49Z
@@ -15069,20 +17769,20 @@
   - [What should you do once the spokes break during cycling?](https://bolacarbon.com/blogs/faq/what-should-you-do-once-the-spokes-break-during-cycling)
     Updated: 2024-10-18T07:46:20Z
     Author: 钟华
-  - [The comparison of rolling resistance among clincher,tubeless ready,and tubular tire](https://bolacarbon.com/blogs/faq/the-comparison-of-rolling-resistance-among-clincher-tubeless-ready-and-tubular-tire)
-    Updated: 2024-10-25T00:53:28Z
+  - [What is the comparison of rolling resistance among clincher,tubeless ready,and tubular tire?](https://bolacarbon.com/blogs/faq/what-is-the-comparison-of-rolling-resistance-among-clincher-tubeless-ready-and-tubular-tire)
+    Updated: 2026-05-05T07:29:00Z
     Author: 钟华
   - [Aluminum bike wheels vs carbon bicycle wheels,Will you pgrade?](https://bolacarbon.com/blogs/faq/aluminum-bike-wheels-vs-carbon-bicycle-wheels-will-you-pgrade)
     Updated: 2024-10-25T00:53:05Z
     Author: 钟华
-  - [Glossy painting surface is better than Matt paint finish for the carbon bike rim](https://bolacarbon.com/blogs/faq/glossy-painting-surface-is-better-than-matt-paint-finish-for-the-carbon-bike-rim)
-    Updated: 2024-11-01T07:30:31Z
+  - [Is glossy paint surface better than Matt finish for carbon bike rim?](https://bolacarbon.com/blogs/faq/is-glossy-painting-surface-better-than-matt-paint-finish-for-the-carbon-bike-rim): Is glossy paint surface better than Matt finish for carbon bike rim?
+    Updated: 2026-05-05T07:30:40Z
     Author: 钟华
-  - [Unveiling the 'wind voice' of carbon fiber wheel sets](https://bolacarbon.com/blogs/faq/unveiling-the-wind-voice-of-carbon-fiber-wheel-sets)
-    Updated: 2024-11-01T07:30:56Z
+  - [What is the 'wind voice' of carbon fiber wheel sets?](https://bolacarbon.com/blogs/faq/what-is-the-wind-voice-of-carbon-fiber-wheel-sets)
+    Updated: 2026-05-05T07:31:43Z
     Author: 钟华
-  - [Wind tunnel testing: comparison between high  and low profile carbon wheelsets](https://bolacarbon.com/blogs/faq/wind-tunnel-testing-comparison-between-high-and-low-profile-carbon-wheelsets)
-    Updated: 2024-11-08T02:25:01Z
+  - [What is Wind tunnel testing befference between high and low profile carbon wheelsets?](https://bolacarbon.com/blogs/faq/what-is-wind-tunnel-testing-befference-between-high-and-low-profile-carbon-wheelsets)
+    Updated: 2026-05-05T07:33:14Z
     Author: 钟华
   - [Which is more important for carbon road bike, aerodynamics or weigh?](https://bolacarbon.com/blogs/faq/which-is-more-important-for-carbon-road-bike-aerodynamics-or-weigh)
     Updated: 2025-02-14T02:59:37Z
@@ -15114,23 +17814,23 @@
   - [Why Choose Handcrafted Carbon Fiber Wheelsets?](https://bolacarbon.com/blogs/faq/why-choose-handcrafted-carbon-fiber-wheelsets)
     Updated: 2025-02-14T02:46:08Z
     Author: 钟华
-  - [Paintless Carbon Fiber Bicycle Rims](https://bolacarbon.com/blogs/faq/paintless-carbon-fiber-bicycle-rims)
-    Updated: 2025-02-19T06:42:24Z
+  - [What is Paintless Carbon Fiber Bicycle Rims?](https://bolacarbon.com/blogs/faq/what-is-paintless-carbon-fiber-bicycle-rims)
+    Updated: 2026-05-05T07:34:00Z
     Author: 钟华
-  - [29er Carbon Fiber Wave-Style Mountain Bike Rim](https://bolacarbon.com/blogs/faq/29er-carbon-fiber-wave-style-mountain-bike-rim)
-    Updated: 2025-02-20T06:45:05Z
+  - [How is 29er Carbon Fiber Wave-Style Mountain Bike Rim?](https://bolacarbon.com/blogs/faq/how-is-29er-carbon-fiber-wave-style-mountain-bike-rim)
+    Updated: 2026-05-05T07:34:40Z
     Author: 钟华
-  - [Carbon bicycle Rim Width and Corresponding Tire Size Compatibility](https://bolacarbon.com/blogs/faq/carbon-bicycle-rim-width-and-corresponding-tire-size-compatibility)
-    Updated: 2025-02-26T02:22:42Z
+  - [What is Compatiblility for Carbon bicycle Rim Width and Tire Size?](https://bolacarbon.com/blogs/faq/what-is-compatiblility-for-carbon-bicycle-rim-width-and-corresponding-tire-size): What is Compatiblility for Carbon bicycle Rim Width and Tire Size?
+    Updated: 2026-05-05T07:39:27Z
     Author: 钟华
   - [BOLA Carbon Fiber Road Bike Wheelset Review:Speed Meets Precision](https://bolacarbon.com/blogs/faq/bola-carbon-fiber-road-bike-wheelset-review-speed-meets-precision)
     Updated: 2025-02-27T06:50:08Z
     Author: 钟华
-  - [Bola carbon fiber disc brake bicycle wheelsets (road/gravel focus)](https://bolacarbon.com/blogs/faq/bola-carbon-fiber-disc-brake-bicycle-wheelsets-road-gravel-focus)
-    Updated: 2025-03-05T04:56:12Z
+  - [How is Bola carbon disc brake bicycle wheelsets (road/gravel focus)](https://bolacarbon.com/blogs/faq/how-is-bola-carbon-fiber-disc-brake-bicycle-wheelsets-road-gravel-focus): How is Bola carbon disc brake bicycle wheelsets (road/gravel focus)
+    Updated: 2026-05-05T07:40:50Z
     Author: 钟华
-  - [3-Year Warranty on Bola Carbon Fiber Bicycle Wheel Rims](https://bolacarbon.com/blogs/faq/3-year-warranty-on-bola-carbon-fiber-bicycle-wheel-rims)
-    Updated: 2025-03-05T05:02:51Z
+  - [What is 3-Year Warranty on Bola Carbon Fiber Bicycle Wheel Rims?](https://bolacarbon.com/blogs/faq/what-is-3-year-warranty-on-bola-carbon-fiber-bicycle-wheel-rims)
+    Updated: 2026-05-05T07:42:39Z
     Author: 钟华
   - [Lightweight, Aerodynamic, and Refined: 700c 34mm wide UV-Profile Carbon Bike RIms](https://bolacarbon.com/blogs/faq/lightweight-aerodynamic-and-refined-700c-34mm-wide-uv-profile-carbon-bike-rims)
     Updated: 2025-03-12T06:10:21Z
@@ -15220,6 +17920,24 @@
   - [Why the 38mm Carbon Tubeless Road Wheelset is a Game-Changer for Road Cyclists](https://bolacarbon.com/blogs/faq/why-the-38mm-carbon-tubeless-road-wheelset-is-a-game-changer-for-road-cyclists): Why the 38mm Carbon Tubeless Road Wheelset is a Game-Changer for Road Cyclists
     Updated: 2026-04-28T14:01:15Z
     Author: AI Blog Agent
+  - [Revolutionize Your Ride with the 20-Inch 406 Carbon Three-Spoke Wheelset for BMX and Polo](https://bolacarbon.com/blogs/faq/revolutionize-your-ride-with-the-20-inch-406-carbon-three-spoke-wheelset-for-bmx-and-polo): Revolutionize Your Ride with the 20-Inch 406 Carbon Three-Spoke Wheelset for BMX and Polo
+    Updated: 2026-04-30T14:01:04Z
+    Author: AI Blog Agent
+  - [Unleashing the Performance of Bola’s 700C Carbon Rim Optimal for Racing and Touring](https://bolacarbon.com/blogs/faq/unleashing-the-performance-of-bola-s-700c-carbon-rim-optimal-for-racing-and-touring): Unleashing the Performance of Bola’s 700C Carbon Rim Optimal for Racing and Touring
+    Updated: 2026-05-01T14:02:56Z
+    Author: AI Blog Agent
+  - [Ride Faster and Smoother with the Perfect 700C Carbon Disc Brake Rim](https://bolacarbon.com/blogs/faq/ride-faster-and-smoother-with-the-perfect-700c-carbon-disc-brake-rim): Ride Faster and Smoother with the Perfect 700C Carbon Disc Brake Rim
+    Updated: 2026-05-05T14:01:23Z
+    Author: AI Blog Agent
+  - [Revolutionizing Road Cycling: Unpacking the Lightweight Excellence of Bola Carbon's 38mm and 50mm Wheelsets Under $500](https://bolacarbon.com/blogs/faq/revolutionizing-road-cycling-unpacking-the-lightweight-excellence-of-bola-carbons-38mm-and-50mm-wheelsets-under-500)
+    Updated: 2026-05-06T06:40:04Z
+    Author: Bola Carbon Sporting Goods
+  - [700C Carbon Four Spoke Wheelset The Ultimate Solution for Road Track and Triathlon Cyclists](https://bolacarbon.com/blogs/faq/700c-carbon-four-spoke-wheelset-the-ultimate-solution-for-road-track-and-triathlon-cyclists): 700C Carbon Four Spoke Wheelset The Ultimate Solution for Road Track and Triathlon Cyclists
+    Updated: 2026-05-07T14:01:13Z
+    Author: AI Blog Agent
+  - [Discovering the Performance Edge of the 38mm Carbon Tubular Wheelset for Road Cycling Enthusiasts](https://bolacarbon.com/blogs/faq/discovering-the-performance-edge-of-the-38mm-carbon-tubular-wheelset-for-road-cycling-enthusiasts): Discovering the Performance Edge of the 38mm Carbon Tubular Wheelset for Road Cycling Enthusiasts
+    Updated: 2026-05-08T14:04:03Z
+    Author: AI Blog Agent
 
 ## Store Pages
 
@@ -15264,6 +17982,34 @@
   Updated: 2026-04-18T16:39:50+08:00
 - [Contact Information](https://bolacarbon.com/policies/contact-information)
   Updated: 2025-01-08T14:23:12+08:00
+
+# ==============================
+# custom sections-r linking external pages
+# ==============================
+
+# 1. [RoadBike_Media]
+road.cc=https://road.cc/
+cyclist.co.uk=https://www.cyclist.co.uk/
+bikeradar=https://www.bikeradar.com/
+bikerumor=https://bikerumor.com/
+granfondo-cycling=https://granfondo-cycling.com/
+velofanatics=https://www.velofanatics.com/
+
+# 2. [Cycling_Community_Event]
+globalcyclingnetwork=https://www.globalcyclingnetwork.com/
+cycloworld=https://www.cycloworld.cc/
+bikeboard=https://bikeboard.cc/eng/
+
+# 3. [Cycling_Guide_Repair]
+cyclistshub=https://www.cyclistshub.com/
+bikeride=https://www.bikeride.com/
+nuuuuuut=https://nuuuuuut.com/en
+
+# 4. [Unavailable_Sites]
+# reddit=https://www.reddit.com/
+# pinkbike=https://www.pinkbike.com/
+# bikemag=https://www.bikemag.com/
+# intheknowcycling=https://intheknowcycling.com/
 
 ## Optional
 
