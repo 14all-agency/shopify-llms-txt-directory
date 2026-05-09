@@ -10,7 +10,7 @@ The platform allows customers to browse different artist collections, explore fr
 - Timezone: Europe/London
 - Created At: 2025-10-25T13:47:11Z
 - Contact Email: info@maison-abstract.com
-- Updated At: 2026-05-01T00:00:56.665Z
+- Updated At: 2026-05-09T00:00:52.990Z
 
 ## Products
 
@@ -18461,7 +18461,7 @@ The platform allows customers to browse different artist collections, explore fr
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/8223900897532971616_2048.jpg?v=1766268270
     Price: £159.45 GBP
 - [This Bloom is About to Wither by Paul Klee  Framed Matte Canvas Wall Art Print - Maison Abstract](https://maison-abstract.com/products/this-bloom-is-about-to-wither-by-paul-klee-framed-matte-canvas-wall-art-print): Paul Klee’s This Bloom is About to Wither is a contemplative meditation on impermanence. Associated with Expressionism, Surrealism, and the Bauhaus, Klee developed a unique visual language rooted in symbols and intuition. In this work, organic forms and softened hues suggest a moment suspended between vitality and decline. Painted during a time when Klee was increasingly reflective about nature and mortality, the piece resonates with emotional restraint rather than drama. His refined line work and abstracted imagery invite viewers to consider life’s transience, reinforcing Klee’s belief that art should echo inner experience rather than literal appearance. Product features- Greenguard Gold  latex inks for safe, long-lasting color- Cotton/polyester canvas composite with a proprietary matte coating for crisp detail- Sustainably sourced radial pine frame (FSC) in multiple color options- Available in horizontal, vertical, and square sizes with sawtooth hanging hardware- Vibrant, fade-resistant printing using advanced techniques for true-to-art colorCare instructions- If the canvas does gather any dust, you may wipe it off gently with a clean, damp cloth. - Maison Abstract
-  Updated: 2026-04-20T17:40:33Z
+  Updated: 2026-05-02T18:44:05Z
   Vendor: Printify
   Product Type: Canvas
   Availability: Available
@@ -18469,51 +18469,51 @@ The platform allows customers to browse different artist collections, explore fr
   - [8″ x 10″ (Vertical) / Black / 1.25"](https://maison-abstract.com/products/this-bloom-is-about-to-wither-by-paul-klee-framed-matte-canvas-wall-art-print?variant=56157585244491)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/1240394842038467073_2048.jpg?v=1766338706
-    Price: £43.68 GBP
+    Price: £58.23 GBP
   - [8″ x 10″ (Vertical) / Espresso / 1.25"](https://maison-abstract.com/products/this-bloom-is-about-to-wither-by-paul-klee-framed-matte-canvas-wall-art-print?variant=56157585277259)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/5535199519571320593_2048.jpg?v=1766338711
-    Price: £43.68 GBP
+    Price: £58.23 GBP
   - [8″ x 10″ (Vertical) / White / 1.25"](https://maison-abstract.com/products/this-bloom-is-about-to-wither-by-paul-klee-framed-matte-canvas-wall-art-print?variant=56157585310027)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/6707118913833828808_2048.jpg?v=1766338715
-    Price: £43.68 GBP
+    Price: £58.23 GBP
   - [16″ x 20″ (Vertical) / Black / 1.25"](https://maison-abstract.com/products/this-bloom-is-about-to-wither-by-paul-klee-framed-matte-canvas-wall-art-print?variant=56157585342795)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/4859161130450704971_2048.jpg?v=1766338679
-    Price: £85.35 GBP
+    Price: £113.80 GBP
   - [16″ x 20″ (Vertical) / Espresso / 1.25"](https://maison-abstract.com/products/this-bloom-is-about-to-wither-by-paul-klee-framed-matte-canvas-wall-art-print?variant=56157585375563)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/12329527504078367501_2048.jpg?v=1766338682
-    Price: £85.35 GBP
+    Price: £113.80 GBP
   - [16″ x 20″ (Vertical) / White / 1.25"](https://maison-abstract.com/products/this-bloom-is-about-to-wither-by-paul-klee-framed-matte-canvas-wall-art-print?variant=56157585408331)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/4065821126181013613_2048.jpg?v=1766338688
-    Price: £85.35 GBP
+    Price: £113.80 GBP
   - [20" x 24" (Vertical) / Black / 1.25"](https://maison-abstract.com/products/this-bloom-is-about-to-wither-by-paul-klee-framed-matte-canvas-wall-art-print?variant=56157585441099)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/14112663361782266165_2048.jpg?v=1766338720
-    Price: £108.78 GBP
+    Price: £145.03 GBP
   - [20" x 24" (Vertical) / Espresso / 1.25"](https://maison-abstract.com/products/this-bloom-is-about-to-wither-by-paul-klee-framed-matte-canvas-wall-art-print?variant=56157585473867)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/11801753364457778280_2048.jpg?v=1766338724
-    Price: £108.78 GBP
+    Price: £145.03 GBP
   - [20" x 24" (Vertical) / White / 1.25"](https://maison-abstract.com/products/this-bloom-is-about-to-wither-by-paul-klee-framed-matte-canvas-wall-art-print?variant=56157585506635)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/6164231717755704310_2048.jpg?v=1766338728
-    Price: £108.78 GBP
+    Price: £145.03 GBP
   - [24" x 30" (Vertical) / Black / 1.25"](https://maison-abstract.com/products/this-bloom-is-about-to-wither-by-paul-klee-framed-matte-canvas-wall-art-print?variant=56157585539403)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/3614554947899199560_2048.jpg?v=1766338694
-    Price: £159.45 GBP
+    Price: £212.60 GBP
   - [24" x 30" (Vertical) / Espresso / 1.25"](https://maison-abstract.com/products/this-bloom-is-about-to-wither-by-paul-klee-framed-matte-canvas-wall-art-print?variant=56157585572171)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/16780006122587977477_2048.jpg?v=1766338698
-    Price: £159.45 GBP
+    Price: £212.60 GBP
   - [24" x 30" (Vertical) / White / 1.25"](https://maison-abstract.com/products/this-bloom-is-about-to-wither-by-paul-klee-framed-matte-canvas-wall-art-print?variant=56157585604939)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0982/0907/1435/files/8037728573465393230_2048.jpg?v=1766338702
-    Price: £159.45 GBP
+    Price: £212.60 GBP
 - [This Bloom is About to Wither by Paul Klee Wall Art Print - Maison Abstract](https://maison-abstract.com/products/this-bloom-is-about-to-wither-by-paul-klee-wall-art-print): Paul Klee’s This Bloom is About to Wither is a contemplative meditation on impermanence. Associated with Expressionism, Surrealism, and the Bauhaus, Klee developed a unique visual language rooted in symbols and intuition. In this work, organic forms and softened hues suggest a moment suspended between vitality and decline. Painted during a time when Klee was increasingly reflective about nature and mortality, the piece resonates with emotional restraint rather than drama. His refined line work and abstracted imagery invite viewers to consider life’s transience, reinforcing Klee’s belief that art should echo inner experience rather than literal appearance. Choose between fine art, semi-gloss, or matte finish, and bring your artwork to life in stunning detail. Whether it's breathtaking landscapes, or eye-capturing portraits, these rolled prints can feature it all as they come in multiple sizes as well as horizontal and vertical orientations..: Three paper options - Fine art, Semi-glossy and Matte.: Paper thickness (JONDO): Fine Art: 285 g/m², Semi-Glossy: 180 g/m², Matte: 200 g/m².: Paper thickness (Printify Choice): Semi-Glossy: 260 g/m², Matte: 189 g/m² .: Multiple sizes to choose from.: Horizontal and vertical options available - Maison Abstract
   Updated: 2026-04-20T17:40:34Z
   Vendor: Printify
@@ -24916,11 +24916,11 @@ The platform allows customers to browse different artist collections, explore fr
 ## Collections
 
 - [Home page - Maison Abstract](https://maison-abstract.com/collections/frontpage): - Maison Abstract
-  Updated: 2026-04-20T16:25:27Z
+  Updated: 2026-05-08T14:09:33Z
   Total Products: 0
 - [Art posters - Maison Abstract](https://maison-abstract.com/collections/art-posters): Discover our Art Posters Collection — a curated selection of timeless and contemporary designs created to elevate any space. From classic masterpieces by renowned artists to modern abstract expressions, each poster captures the beauty, emotion, and creativity of art in every detail. Printed on premium museum-quality paper, our art posters bring gallery-worthy aesthetics into your home, office, or studio. Whether you prefer vibrant color, minimalist tones, or vintage charm, our collection offers styles to suit every taste and décor. Transform your walls into a personal gallery and celebrate your passion for art with every piece. - Maison Abstract
-  Updated: 2026-04-20T16:25:27Z
-  Total Products: 74
+  Updated: 2026-05-08T14:09:33Z
+  Total Products: 73
 - [Piet Mondrian - Maison Abstract](https://maison-abstract.com/collections/piet-mondrian): Explore our Piet Mondrian Collection, a tribute to one of the pioneers of abstract art. This collection showcases Mondrian’s iconic geometric compositions — bold black lines, primary colors, and perfect balance between form and space. Each poster celebrates his revolutionary vision that transformed modern art and design. Printed on premium, museum-quality paper, these pieces bring timeless elegance and sophistication to any interior. Ideal for art lovers, modernists, and minimalists alike, our Mondrian Collection adds structure, energy, and harmony to your walls. Experience the beauty of simplicity and the power of abstraction in every piece. - Maison Abstract
   Updated: 2026-02-15T01:47:08Z
   Total Products: 0
@@ -24952,7 +24952,7 @@ The platform allows customers to browse different artist collections, explore fr
   Updated: 2026-02-15T01:47:11Z
   Total Products: 0
 - [Carroll N. Jones III - Maison Abstract](https://maison-abstract.com/collections/carroll-n-jones-iii): Carroll N. Jones III was an American realist painter celebrated for his luminous depictions of light, atmosphere, and emotion. Born in 1944 into a family of artists, he was mentored by his father, Carroll Jones II, and carried forward the traditions of classical realism with a deeply personal touch. His works capture the quiet poetry of everyday scenes, blending technical precision with spiritual depth. Jones’s paintings are renowned for their tranquil mood and masterful use of tone, inviting viewers to pause and reflect. His art continues to inspire collectors who appreciate beauty, balance, and the harmony of light and form. - Maison Abstract
-  Updated: 2026-04-20T16:25:27Z
+  Updated: 2026-05-08T14:09:33Z
   Total Products: 0
 - [Charles Demuth - Maison Abstract](https://maison-abstract.com/collections/charles-demuth): Charles Demuth (1883–1935) was an influential American modernist painter best known for his role in the Precisionist movement. Blending elements of Cubism and Realism, Demuth captured the spirit of early 20th-century America through geometric forms, clean lines, and bold color harmonies. His work celebrated industrial progress, architecture, and the beauty of everyday urban life. Trained at the Pennsylvania Academy of Fine Arts, Demuth developed a unique visual language that bridged fine art and modern design. Today, his paintings remain timeless symbols of innovation and elegance, making his art a perfect choice for modern, design-conscious interiors. - Maison Abstract
   Updated: 2026-02-15T01:47:45Z
@@ -24988,8 +24988,8 @@ The platform allows customers to browse different artist collections, explore fr
   Updated: 2026-02-15T01:47:12Z
   Total Products: 0
 - [Framed Matte Canvas - Maison Abstract](https://maison-abstract.com/collections/framed-matte-canvas): Discover our Framed Art Matte Canvas Collection — a curated selection of timeless and contemporary designs created to elevate any space. From classic masterpieces by renowned artists to modern abstract expressions, each canvas captures the beauty, emotion, and creativity of art in every detail. Printed on premium museum-quality paper, our art canvas bring gallery-worthy aesthetics into your home, office, or studio. Whether you prefer vibrant color, minimalist tones, or vintage charm, our collection offers styles to suit every taste and décor. Transform your walls into a personal gallery and celebrate your passion for art with every piece. - Maison Abstract
-  Updated: 2026-04-30T20:15:53Z
-  Total Products: 255
+  Updated: 2026-05-08T14:09:33Z
+  Total Products: 254
 - [Henri Matisse - Maison Abstract](https://maison-abstract.com/collections/henri-matisse): Henri Matisse (1869–1954) was one of the most influential artists of the 20th century, celebrated for his bold colour, expressive simplicity and groundbreaking role in Fauvism. Throughout his career, Matisse sought to create art that conveyed joy, balance and emotional clarity. His paintings, drawings and cut-outs are instantly recognisable for their vibrant palettes, fluid lines and harmonious compositions. Matisse believed that art should offer comfort and beauty, a philosophy reflected across his lifelong body of work. Today, his creations continue to inspire modern interiors, making Matisse-themed wall art a timeless choice for collectors and design-focused homes. - Maison Abstract
   Updated: 2026-02-15T01:47:13Z
   Total Products: 0
@@ -25006,16 +25006,16 @@ The platform allows customers to browse different artist collections, explore fr
   Updated: 2026-02-15T01:47:48Z
   Total Products: 0
 - [Framed Posters - Maison Abstract](https://maison-abstract.com/collections/framed-posters): Discover our Framed Art Posters Collection — a curated selection of timeless and contemporary designs created to elevate any space. From classic masterpieces by renowned artists to modern abstract expressions, each poster captures the beauty, emotion, and creativity of art in every detail. Printed on premium museum-quality paper, our art posters bring gallery-worthy aesthetics into your home, office, or studio. Whether you prefer vibrant color, minimalist tones, or vintage charm, our collection offers styles to suit every taste and décor. Transform your walls into a personal gallery and celebrate your passion for art with every piece. - Maison Abstract
-  Updated: 2026-04-30T20:12:58Z
-  Total Products: 179
+  Updated: 2026-05-08T14:09:33Z
+  Total Products: 175
 - [Matte Canvas - Maison Abstract](https://maison-abstract.com/collections/matte-canvas): Discover our Matte Canvas Collection — a curated selection of timeless and contemporary designs created to elevate any space. From classic masterpieces by renowned artists to modern abstract expressions, each canvas captures the beauty, emotion, and creativity of art in every detail. Printed on premium museum-quality paper, our art canvas bring gallery-worthy aesthetics into your home, office, or studio. Whether you prefer vibrant color, minimalist tones, or vintage charm, our collection offers styles to suit every taste and décor. Transform your walls into a personal gallery and celebrate your passion for art with every piece. - Maison Abstract
-  Updated: 2026-04-30T20:17:37Z
-  Total Products: 260
+  Updated: 2026-05-08T14:09:33Z
+  Total Products: 256
 - [Natalija Miladinović - Maison Abstract](https://maison-abstract.com/collections/natalija-miladinovic): Natalija Miladinović is a Serbian contemporary artist known for her emotionally charged abstracts and symbolic storytelling. Her work explores inner strength, intuition and personal transformation, blending bold colour palettes with expressive, fluid brushwork. Miladinović’s paintings often reflect the invisible emotional worlds that shape human experience, creating art that feels both powerful and deeply introspective. Influenced by European modernism and her own cultural heritage, she crafts pieces that radiate movement, energy and spiritual depth. Perfect for modern interiors, her artworks bring warmth, inspiration and a striking contemporary elegance to any space, making them ideal for collectors seeking meaningful visual expression. - Maison Abstract
   Updated: 2026-02-15T01:47:13Z
   Total Products: 0
 - [Unknown Artist - Maison Abstract](https://maison-abstract.com/collections/unknown-artist): Unknown Artist is a captivating and mysterious creator whose work speaks louder than any biography. Without a documented history or established identity, the artist’s paintings invite viewers to focus solely on emotion, technique, and visual storytelling. Their pieces often blend expressive brushwork, rich colour palettes, and timeless themes, making them ideal for modern interiors and art collectors seeking something unique. Each artwork carries an air of intrigue, allowing buyers to interpret its meaning in their own way. Perfect for home décor, gallery walls, and statement spaces, art by Unknown Artist adds depth, character, and contemporary sophistication to any room. - Maison Abstract
-  Updated: 2026-04-20T16:25:28Z
+  Updated: 2026-05-08T14:09:33Z
   Total Products: 20
 - [Christopher Le Brun - Maison Abstract](https://maison-abstract.com/collections/christopher-le-brun): Celebrate the visionary artistry of Christopher Le Brun, one of Britain’s most influential contemporary painters. Known for his expressive brushwork, layered colour fields, and poetic abstraction, Le Brun blends classical motifs with modern sensibility to create works that feel both timeless and dynamic. His paintings evoke emotion through movement, texture, and luminous colour, making them ideal statement pieces for any interior. Featured in major international exhibitions and held in prestigious collections worldwide, Le Brun’s art continues to inspire collectors seeking depth and sophistication. Add a touch of contemporary elegance to your space with artwork by Christopher Le Brun—where tradition meets imagination. - Maison Abstract
   Updated: 2026-02-15T01:47:48Z
@@ -25129,16 +25129,16 @@ The platform allows customers to browse different artist collections, explore fr
   Updated: 2026-02-15T01:47:22Z
   Total Products: 0
 - [Coffee Mugs - Maison Abstract](https://maison-abstract.com/collections/coffee-mugs): Discover the Artistic Coffee Mug Collection by Maison Abstract, where everyday rituals meet contemporary art. Each mug is designed as a miniature canvas, blending bold abstraction, refined colour palettes, and modern aesthetics. Crafted for both beauty and durability, these mugs elevate your coffee or tea experience while making a statement on any table or workspace. Inspired by gallery-worthy artworks and creative expression, the collection celebrates individuality, design, and mindful living. Whether styled in your kitchen or gifted to a design lover, Maison Abstract’s artistic mugs transform simple moments into curated experiences—where art is not only admired, but used every day. - Maison Abstract
-  Updated: 2026-04-20T16:25:29Z
+  Updated: 2026-05-08T14:09:33Z
   Total Products: 52
 - [T-Shirt's - Maison Abstract](https://maison-abstract.com/collections/t-shirts): - Maison Abstract
-  Updated: 2026-04-20T16:25:29Z
+  Updated: 2026-05-08T14:09:33Z
   Total Products: 25
 - [Ferdinand Hodler - Maison Abstract](https://maison-abstract.com/collections/ferdinand-hodler): Ferdinand Hodler was a pioneering Swiss painter and one of the most influential figures of European Symbolism and early modern art. Known for his powerful use of symmetry, rhythm, and repetition, Hodler developed a unique artistic philosophy he called “parallelism,” expressing universal themes of life, death, unity, and spirituality. Rising from a childhood marked by hardship, Hodler achieved international recognition in the late 19th and early 20th centuries. His monumental figurative works, landscapes, and allegorical paintings remain highly sought after by collectors and museums, securing his lasting legacy in the history of modern art. - Maison Abstract
   Updated: 2026-02-15T01:47:53Z
   Total Products: 0
 - [Tote Bags - Maison Abstract](https://maison-abstract.com/collections/tote-bags): Discover the Artistic Tote Bag Collection by Maison Abstract, where functional design meets contemporary art. Each tote is conceived as a wearable canvas, featuring bold abstract compositions, refined colour harmonies, and modern visual language. Crafted for everyday use with durable materials and thoughtful proportions, these bags balance practicality with artistic expression. Inspired by gallery culture and creative individuality, the collection transforms an essential accessory into a statement piece. Perfect for daily errands, travel, or gifting, Maison Abstract tote bags celebrate art in motion—designed for those who carry creativity with them wherever they go. - Maison Abstract
-  Updated: 2026-04-20T16:25:29Z
+  Updated: 2026-05-08T14:09:33Z
   Total Products: 15
 - [Cyprien Eugène Boule - Maison Abstract](https://maison-abstract.com/collections/cyprien-eugene-boule): Cyprien Eugène Boulet was a 19th-century French painter known for his refined portraits and elegant figure studies rooted in academic tradition. His work reflects a deep sensitivity to mood, texture, and human expression, often highlighting luxurious fabrics and calm, contemplative poses. Boulet’s paintings embody the artistic values of late-19th-century France, balancing realism with subtle romanticism. Today, his art is appreciated for its timeless beauty, technical precision, and intimate atmosphere. Collectors and art enthusiasts value Cyprien Eugène Boulet for his graceful compositions, soft color palettes, and his ability to transform simple portrait subjects into enduring works of classical art history. - Maison Abstract
   Updated: 2026-02-15T01:47:54Z
@@ -25150,79 +25150,79 @@ The platform allows customers to browse different artist collections, explore fr
   Updated: 2026-02-15T01:47:54Z
   Total Products: 0
 - [Dorothy Charleton Smyth - Maison Abstract](https://maison-abstract.com/collections/dorothy-charleton-smyth): Dorothy Charleton Smyth was a pioneering British artist and educator known for her refined portraits, still lifes, and commitment to advancing women in the arts. Active in the late 19th and early 20th centuries, Smyth studied in Paris and exhibited widely at the Royal Academy and international salons. Her work blends academic precision with subtle modern sensibility, capturing character, mood, and quiet elegance. As the first woman to serve as Director of the Glasgow School of Art, she played a vital role in shaping British art education. Today, Dorothy Charleton Smyth is celebrated for her artistic legacy and influence. - Maison Abstract
-  Updated: 2026-04-20T16:25:29Z
+  Updated: 2026-05-08T14:09:33Z
   Total Products: 0
 - [Flowers - Maison Abstract](https://maison-abstract.com/collections/flowers): Abstract Flowers is a contemporary floral artwork that blends organic forms with expressive colour and movement. Soft petals dissolve into bold shapes, creating a modern interpretation of nature that feels both elegant and artistic. This piece brings warmth and creativity to any space, making it ideal for living rooms, bedrooms, offices, or creative studios.
-  Updated: 2026-04-20T16:25:30Z
+  Updated: 2026-05-08T14:09:33Z
   Total Products: 34
 - [Portraits - Maison Abstract](https://maison-abstract.com/collections/portraits): Abstract Portraits is a striking collection that reimagines the human form through bold shapes, expressive lines, and layered colour. Rather than focusing on realistic detail, these artworks capture mood, emotion, and identity in a modern, artistic way.
-  Updated: 2026-04-30T20:22:15Z
-  Total Products: 67
+  Updated: 2026-05-08T14:09:33Z
+  Total Products: 65
 - [Landscape - Maison Abstract](https://maison-abstract.com/collections/landscape): Abstract Landscape is a modern exploration of nature, expressed through flowing forms, layered textures, and expressive colour. Rather than depicting a specific place, the artwork captures the feeling of open horizons, shifting light, and natural movement. Subtle blends and bold contrasts create depth and atmosphere, inviting the viewer to interpret the scene in their own way.
-  Updated: 2026-04-20T16:25:30Z
-  Total Products: 28
+  Updated: 2026-05-08T14:09:33Z
+  Total Products: 27
 - [Everything Else- Maison Abstract](https://maison-abstract.com/collections/everything-else): Abstract Everything Else is a diverse collection that celebrates creativity without boundaries. Bringing together unexpected forms, textures, and colour combinations, these artworks explore ideas beyond traditional themes.
-  Updated: 2026-04-20T16:25:30Z
-  Total Products: 15
+  Updated: 2026-05-08T14:09:33Z
+  Total Products: 14
 - [Cars - Maison Abstract](https://maison-abstract.com/collections/cars): - Maison Abstract
-  Updated: 2026-04-20T16:25:31Z
+  Updated: 2026-05-08T14:09:34Z
   Total Products: 8
 - [Canvas-Animals - Maison Abstract](https://maison-abstract.com/collections/canvas-animals): - Maison Abstract
-  Updated: 2026-04-20T16:25:31Z
-  Total Products: 13
+  Updated: 2026-05-08T14:09:34Z
+  Total Products: 12
 - [Canvas-Cars - Maison Abstract](https://maison-abstract.com/collections/canvas-cars): - Maison Abstract
-  Updated: 2026-04-20T16:25:31Z
+  Updated: 2026-05-08T14:09:34Z
   Total Products: 10
 - [Canvas-Flowers - Maison Abstract](https://maison-abstract.com/collections/canvas-flowers): - Maison Abstract
-  Updated: 2026-04-20T16:25:31Z
+  Updated: 2026-05-08T14:09:34Z
   Total Products: 34
 - [Canvas-Landscape - Maison Abstract](https://maison-abstract.com/collections/canvas-landscape): - Maison Abstract
-  Updated: 2026-04-24T11:42:27Z
-  Total Products: 31
+  Updated: 2026-05-08T14:09:34Z
+  Total Products: 28
 - [Canvas-Portraits - Maison Abstract](https://maison-abstract.com/collections/canvas-portraits): - Maison Abstract
-  Updated: 2026-04-30T20:17:37Z
+  Updated: 2026-05-08T14:09:34Z
   Total Products: 70
 - [Canvas-Abstract - Maison Abstract](https://maison-abstract.com/collections/canvas-abstract): - Maison Abstract
-  Updated: 2026-04-20T16:25:32Z
-  Total Products: 29
+  Updated: 2026-05-08T14:09:34Z
+  Total Products: 28
 - [Framed-Canvas-Animals - Maison Abstract](https://maison-abstract.com/collections/framed-canvas-animals): - Maison Abstract
-  Updated: 2026-04-20T16:25:32Z
-  Total Products: 13
+  Updated: 2026-05-08T14:09:34Z
+  Total Products: 14
 - [Framed-Canvas-Cars - Maison Abstract](https://maison-abstract.com/collections/framed-canvas-cars): - Maison Abstract
-  Updated: 2026-04-20T16:25:32Z
+  Updated: 2026-05-08T14:09:34Z
   Total Products: 10
 - [Framed-Canvas-Flowers - Maison Abstract](https://maison-abstract.com/collections/framed-canvas-flowers): - Maison Abstract
-  Updated: 2026-04-20T16:25:32Z
+  Updated: 2026-05-08T14:09:34Z
   Total Products: 34
 - [Framed-Canvas-Landscape - Maison Abstract](https://maison-abstract.com/collections/framed-canvas-landscape): - Maison Abstract
-  Updated: 2026-04-20T16:25:32Z
-  Total Products: 31
+  Updated: 2026-05-08T14:09:34Z
+  Total Products: 33
 - [Framed-Canvas-Portraits - Maison Abstract](https://maison-abstract.com/collections/framed-canvas-portraits): - Maison Abstract
-  Updated: 2026-04-30T20:47:49Z
-  Total Products: 71
+  Updated: 2026-05-08T14:09:34Z
+  Total Products: 69
 - [Framed-Canvas-Abstract - Maison Abstract](https://maison-abstract.com/collections/framed-canvas-abstract): - Maison Abstract
-  Updated: 2026-04-20T16:25:33Z
-  Total Products: 31
+  Updated: 2026-05-08T14:09:34Z
+  Total Products: 30
 - [Framed-Print-Animals - Maison Abstract](https://maison-abstract.com/collections/framed-print-animals): - Maison Abstract
-  Updated: 2026-04-20T16:25:33Z
+  Updated: 2026-05-08T14:09:34Z
   Total Products: 9
 - [Posters - Maison Abstract](https://maison-abstract.com/collections/posters): - Maison Abstract
-  Updated: 2026-04-20T16:25:33Z
+  Updated: 2026-05-08T14:09:34Z
   Total Products: 19
 - [Artist A-C - Maison Abstract](https://maison-abstract.com/collections/artist-a-c): - Maison Abstract
-  Updated: 2026-04-20T16:25:33Z
+  Updated: 2026-05-08T14:09:34Z
   Total Products: 55
 - [Artist D-I - Maison Abstract](https://maison-abstract.com/collections/artist-d-i): - Maison Abstract
-  Updated: 2026-04-20T16:25:33Z
+  Updated: 2026-05-08T14:09:34Z
   Total Products: 44
 - [Artist K-M - Maison Abstract](https://maison-abstract.com/collections/artist-k-m): - Maison Abstract
-  Updated: 2026-04-20T16:25:33Z
+  Updated: 2026-05-08T14:09:34Z
   Total Products: 51
 - [Artist N-S - Maison Abstract](https://maison-abstract.com/collections/artist-n-s): - Maison Abstract
-  Updated: 2026-04-20T16:25:34Z
+  Updated: 2026-05-08T14:09:34Z
   Total Products: 46
 - [Artist T-W - Maison Abstract](https://maison-abstract.com/collections/artist-t-w): - Maison Abstract
-  Updated: 2026-04-20T16:25:34Z
+  Updated: 2026-05-08T14:09:34Z
   Total Products: 29
 
 ## Blogs
@@ -25235,13 +25235,16 @@ The platform allows customers to browse different artist collections, explore fr
     Updated: 2026-02-12T15:20:23Z
     Author: Norman Barrett
   - [Modern Abstract Prints That Transform Living Rooms - Maison Abstract](https://maison-abstract.com/blogs/abstract-view-on-life/modern-abstract-prints-that-transform-living-rooms): Modern Abstract Prints That Transform Living Rooms - Maison Abstract
-    Updated: 2026-02-12T15:18:03Z
+    Updated: 2026-05-01T18:57:54Z
     Author: Norman Barrett
   - [Minimalist Art Prints for a Calm Home](https://maison-abstract.com/blogs/abstract-view-on-life/blog-minimalist-art-prints): <p>In a world that feels increasingly loud, fast, and cluttered, many people are seeking refuge in calmer, more intentional living spaces. Our homes are no longer just places to sleep; they are sanctuaries where we recharge, think, and reconnect with ourselves. One of the most powerful yet understated ways to shape a peaceful interior is through art. In particular, <strong data-start="410" data-end="435">minimalist art prints</strong> have become a defining feature of calm, modern homes, offering visual breathing room without sacrificing personality or depth.</p>
-    Updated: 2026-02-12T11:54:39Z
+    Updated: 2026-05-01T18:58:47Z
     Author: Norman Barrett
   - [Large Wall Art Ideas for Open Spaces](https://maison-abstract.com/blogs/abstract-view-on-life/large-wall-art-for-living-room): <p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;">Open spaces offer a unique opportunity to make a bold visual statement, but they can also feel overwhelming if not styled thoughtfully. Whether you’re decorating a spacious living room, a loft-style apartment, or a modern open-plan home, choosing the right artwork is essential to bring warmth, personality, and cohesion to the space</p>
     Updated: 2026-03-26T20:50:43Z
+    Author: Norman Barrett
+  - [The Psychology of Color in Wall Art](https://maison-abstract.com/blogs/abstract-view-on-life/the-psychology-of-color-in-wall-art): <p>Colour has an extraordinary ability to influence how we think, feel, and behave. From the calming effect of soft blues to the energising power of bold reds, the hues we surround ourselves with shape our daily experiences in subtle yet profound ways. When it comes to interior design, and especially wall art, colour becomes more than a decorative choice—it becomes a psychological tool. Understanding <strong data-start="441" data-end="471">colour psychology wall art</strong> can help you transform a space, enhance mood, and create a deeper emotional connection with your environment.</p>
+    Updated: 2026-05-01T18:56:04Z
     Author: Norman Barrett
 
 ## Store Pages
