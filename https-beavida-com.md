@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-09-02T12:59:54Z
 - Contact Email: hello@beavida.com
-- Updated At: 2026-04-30T00:00:33.936Z
+- Updated At: 2026-05-09T00:00:36.651Z
 
 Welcome to Beavida
 
@@ -47,7 +47,7 @@ We encourage responsible use of this information, ensuring that any outputs gene
     Availability: Available
     Price: €150.00 EUR
 - [Beavida | De-Stress | Online Course 😌](https://beavida.com/products/de-stress): Holistic 4-week relaxation course for women: daily guidance and science-based techniques to reduce stress, boost wellbeing, and thrive at every stage of life.
-  Updated: 2026-04-01T12:33:41Z
+  Updated: 2026-04-30T11:11:35Z
   Vendor: Beavida
   Product Type: online course
   Availability: Available
@@ -61,7 +61,7 @@ We encourage responsible use of this information, ensuring that any outputs gene
     Image: https://cdn.shopify.com/s/files/1/0974/9931/6556/files/entspannung-online-kurs.jpg?v=1775046820
     Price: €125.00 EUR
 - [Beavida | Beauty Without Toxins | Online Course 💄](https://beavida.com/products/beauty-without-toxins-the-ultimate-guide-to-healthy-cosmetics): Discover how to decode cosmetic labels, choose safe ingredients, and create a routine tailored to your skin type. Practical, expert-led skincare beauty simple.
-  Updated: 2026-04-22T15:09:57Z
+  Updated: 2026-04-30T11:11:35Z
   Vendor: Beavida
   Product Type: 
   Availability: Available
@@ -96,16 +96,16 @@ We encourage responsible use of this information, ensuring that any outputs gene
   Updated: 2026-03-13T12:52:50Z
   Total Products: 1
 - [Beavida | Bestsellers | Best Products for Women 🔥](https://beavida.com/collections/bestsellers): These are Beavida's products that are most in demand. Hurry up before we are out of stock - they do  fast! ➤ Go to the bestsellers & discover a new world
-  Updated: 2026-03-31T14:02:34Z
+  Updated: 2026-05-01T11:49:19Z
   Total Products: 7
 - [Beavida | Women’s Tea ♀️ | Herbal Teas for You](https://beavida.com/collections/tea): Our teas for women were specifically designed with you in mind. At every stage of your life, our loose leaf tea blends are here to support you.
   Updated: 2026-03-13T12:55:37Z
   Total Products: 6
 - [Beavida | Online Courses | Knowledge is Power 🧠](https://beavida.com/collections/courses): Holistic online courses for women’s mind & body: reduce stress, boost resilience, learn to love yourself, ease discomfort, and thrive at every stage of life.
-  Updated: 2026-03-31T14:02:34Z
+  Updated: 2026-05-01T11:49:19Z
   Total Products: 4
 - [Digital Goods VAT Tax](https://beavida.com/collections/digital-goods-vat-tax)
-  Updated: 2026-03-31T14:02:34Z
+  Updated: 2026-05-01T11:49:19Z
   Total Products: 3
 
 ## Blogs
@@ -151,6 +151,10 @@ We encourage responsible use of this information, ensuring that any outputs gene
     Updated: 2026-04-16T16:26:46Z
     Author: Larissa Bauml
     Tags: Menstruation
+  - [Loose Leaf Tea vs. Tea Bags 🍵 Which One Is Better?](https://beavida.com/blogs/news/is-loose-leaf-tea-better-than-tea-bags-an-honest-comparison): Loose Leaf Tea vs. Tea Bags 🍵 Which One Is Better?
+    Updated: 2026-05-05T12:24:00Z
+    Author: Larissa Bauml
+    Tags: Tea
   - [Endometriosis Explained 🩸 Symptoms, Causes & ](https://beavida.com/blogs/news/everything-you-need-to-know-about-endometriosis): Endometriosis Explained 🩸 Symptoms, Causes & 
     Updated: 2026-04-16T16:23:01Z
     Author: Larissa Bauml
