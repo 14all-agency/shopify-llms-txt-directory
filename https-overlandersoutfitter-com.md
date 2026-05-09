@@ -20,35 +20,35 @@ We're part of the van life, whitewater river, mountain biking, and trails commun
 - Contact Email: crew@overlandersoutfitter.com
 - Contact Phone: 4238130698
 - Address: 409 Highway 64, Ocoee TN
-- Updated At: 2026-05-02T12:00:32.903Z
+- Updated At: 2026-05-09T16:00:33.348Z
 
 OVERLANDERS Outfitter was born from the adventure lifestyle community—van lifers, trail riders, climbers, paddlers, and backcountry explorers who demand gear that performs when it matters.
 
 ## Products
 
 - [Women of Whitewater Coloring Book for Enthusiasts](https://overlandersoutfitter.com/products/color): Celebrate river culture with Women of Whitewater coloring book. 40+ illustrated portraits by Amanda Selsky with inspiring quotes. For coloring enthusiasts.
-  Updated: 2026-04-29T18:07:12Z
+  Updated: 2026-05-07T19:08:09Z
   Vendor: We The Collective
   Product Type: Coloring Book
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0961/1440/9843/files/resized-coloring-book_a208ab1d-23d0-431f-962a-43228d48260b.webp?v=1772557342
   Price: $19.99 USD
 - [Ocoeeland - Illustrated River Map: River Map Artwork](https://overlandersoutfitter.com/products/river): Explore the beauty of Ocoeeland with our Illustrated River Map artwork. Perfect for adventurers and map lovers alike. Buy now!
-  Updated: 2026-04-29T18:07:09Z
+  Updated: 2026-05-07T19:08:09Z
   Vendor: Ocoee Coffee Joint
   Product Type: Ocoee River Map
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0961/1440/9843/files/Screenshot2025-12-22at08.29.52.png?v=1767634989
   Price: $15.99 USD
 - [Ocoeeland Map Artwork - Illustrated River Map (Digital)](https://overlandersoutfitter.com/products/art): Discover the enchanting beauty of Ocoeeland map artwork with this stunning Illustrated River Map. Instant Digital Download available now!
-  Updated: 2026-04-29T18:07:16Z
+  Updated: 2026-05-07T19:08:09Z
   Vendor: We The Collective
   Product Type: Ocoee River Map
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0961/1440/9843/files/Screenshot2025-12-22at08.29.52.png?v=1767634989
   Price: $8.99 USD
 - [AIRE Tributary Spud Kayak | OVERLANDERS Outfitter](https://overlandersoutfitter.com/products/aire-tributary-spud): AIRE Tributary Spud compact inflatable playboat. Lightweight, stable, maneuverable for whitewater & lake paddling. 1-year warranty. OVERLANDERS Outfitter, Ocoee, TN.
-  Updated: 2026-04-29T18:10:24Z
+  Updated: 2026-05-07T19:11:45Z
   Vendor: AIRE
   Product Type: Inflatable Kayaks
   Availability: Available
@@ -62,7 +62,7 @@ OVERLANDERS Outfitter was born from the adventure lifestyle community—van life
     Image: https://cdn.shopify.com/s/files/1/0961/1440/9843/files/Spud_Lime_Catalog-LIme_583x_37c86cbc-8c93-4ef4-b92c-e308f9d28bb3.jpg?v=1771041322
     Price: $545.00 USD
 - [Gift Card](https://overlandersoutfitter.com/products/gift-card): OVERLANDERS Outfitter Gift Card Gift Cards OVERLANDERS Outfitter
-  Updated: 2026-04-29T18:10:36Z
+  Updated: 2026-05-07T19:11:51Z
   Vendor: OVERLANDERS Outfitter
   Product Type: Gift Cards
   Availability: Available
@@ -95,7 +95,7 @@ OVERLANDERS Outfitter was born from the adventure lifestyle community—van life
     Availability: Available
     Price: $500.00 USD
 - [AIRE Tributary Tater Kayak | OVERLANDERS Outfitter](https://overlandersoutfitter.com/products/aire-tributary-tater-inflatable-kayak): AIRE Tributary Tater  playboat for whitewater surfing & technical paddling. Self-bailing, 275 lbs capacity, 24.5 lbs. Available at OVERLANDERS Outfitter, Ocoee, TN.
-  Updated: 2026-04-29T18:10:30Z
+  Updated: 2026-05-07T19:11:45Z
   Vendor: AIRE
   Product Type: AIRE Tater
   Availability: Available
@@ -109,7 +109,7 @@ OVERLANDERS Outfitter was born from the adventure lifestyle community—van life
     Image: https://cdn.shopify.com/s/files/1/0961/1440/9843/files/816842d1-Tater_Catalog_Teal-scaled_56202cd4-8311-4db0-87bb-6e405e131e4d.jpg?v=1771210293
     Price: $655.00 USD
 - [Navidium Shipping Protection](https://overlandersoutfitter.com/products/navidium-shipping-protection): OVERLANDERS Outfitter Navidium Shipping Protection Shipping Protection OVERLANDERS Outfitter
-  Updated: 2026-04-29T18:11:47Z
+  Updated: 2026-05-07T19:13:57Z
   Vendor: OVERLANDERS Outfitter
   Product Type: Shipping Protection
   Availability: Available
@@ -265,7 +265,7 @@ OVERLANDERS Outfitter was born from the adventure lifestyle community—van life
     Availability: Available
     Price: $36.75 USD
 - [Werner Nomad Rafting Paddle - Fiberglass 1 Piece | OVERLANDERS](https://overlandersoutfitter.com/products/nomad-1-piece-straight-shaft): Werner Nomad rafting paddle with fiberglass construction, tapered blade design, and oval shaft. Premium performance for R2 creek runs and big water. 48"-75" lengths available.
-  Updated: 2026-04-29T18:12:48Z
+  Updated: 2026-05-07T19:13:25Z
   Vendor: Werner x Jackson Kayak
   Product Type: Rafting Paddle
   Availability: Available
@@ -295,21 +295,21 @@ OVERLANDERS Outfitter was born from the adventure lifestyle community—van life
     Image: https://cdn.shopify.com/s/files/1/0961/1440/9843/files/Nomad-DuganSky-ProductPage-Blade_1200x_3addb4bd-7cee-4b07-8291-bd3165f46bd9.png?v=1771432547
     Price: $219.00 USD
 - [Jack's Plastic Welding Super Paco Pad - Self-Inflating - OVERLANDERS Outfitter](https://overlandersoutfitter.com/products/jacks-plastic-welding-paco-pads-super-pad): Legendary self-inflating sleeping Paco Pad for multi-day river trips. High-density foam. Trusted by Grand Canyon guides. Now Shipping from the Ocoee River!
-  Updated: 2026-04-29T18:10:56Z
+  Updated: 2026-05-07T19:13:01Z
   Vendor: Jack's Plastic Welding
   Product Type: Sleeping | Paco Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0961/1440/9843/files/super-padpile.webp?v=1771572089
   Price: $345.00 USD
 - [Jack's Plastic Welding Grande Paco Pad | OVERLANDERS Outfitter](https://overlandersoutfitter.com/products/edited-product-jacks-plastic-welding-paco-pads-grande-pad): Premium 78" x 27" x 3" self-inflating sleeping pad for multi-day river trips. Extra-thick high-density foam. Ocoee's trusted source for outdoor gear.
-  Updated: 2026-04-29T18:11:02Z
+  Updated: 2026-05-07T19:13:03Z
   Vendor: Jack's Plastic Welding
   Product Type: Sleeping | Paco Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0961/1440/9843/files/welding_stock.webp?v=1771540138
   Price: $409.00 USD
 - [Watershed Colorado Dry Duffel](https://overlandersoutfitter.com/products/watershed-colorado-dry-duffel): Watershed Watershed Colorado Dry Duffel Dry Bags OVERLANDERS Outfitter
-  Updated: 2026-04-29T22:13:05Z
+  Updated: 2026-05-07T19:12:53Z
   Vendor: Watershed
   Product Type: Dry Bags
   Availability: Available
@@ -322,15 +322,29 @@ OVERLANDERS Outfitter was born from the adventure lifestyle community—van life
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0961/1440/9843/files/COLORAO_-WO_9638827e-d5b4-483b-a6ab-8060caa99d3f.jpg?v=1771716620
     Price: $269.00 USD
+- [Nature's Generator 50ft Solar Panel Cable](https://overlandersoutfitter.com/products/nature-s-generator-50ft-solar-panel-cable): Nature's Generator Nature's Generator 50ft Solar Panel Cable OVERLANDERS Outfitter
+  Updated: 2026-05-08T13:01:33Z
+  Vendor: Nature's Generator
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/1440/9843/files/natures-generator-50ft-power-panel-cable-263126.png?v=1771723272
+  Price: $94.99 USD
+- [Hyperion (Runergy) 450W Bifacial N-Type Solar Panel | Up to 550W Output (Full Black)](https://overlandersoutfitter.com/products/hyperion-runergy-450w-bifacial-n-type-solar-panel-up-to-550w-output-full-black): Portable Sun LLC Hyperion (Runergy) 450W Bifacial N-Type Solar Panel | Up to 550W Output (Full Black) Solar Panel OVERLANDERS Outfitter
+  Updated: 2026-05-09T01:00:43Z
+  Vendor: Portable Sun LLC
+  Product Type: Solar Panel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/1440/9843/files/hyperion_400w__85920.jpg?v=1771723541
+  Price: $182.00 USD
 - [AIRE Truckbed Pad 78x48x3 | OVERLANDERS Outfitter](https://overlandersoutfitter.com/products/aire-truckbed-landing-pad-78-x-48-x-3): AIRE Truckbed Landing Pad 78"x48"x3" self-inflating sleeping pad. Fits between truck bed wheel wells. Durable PVC, reinforced corners. Overland ready.
-  Updated: 2026-04-29T18:12:30Z
+  Updated: 2026-05-07T19:15:31Z
   Vendor: AIRE
   Product Type: Truck Camping Gear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0961/1440/9843/files/Truck-Bed-Landing-Pad-rolled2.webp?v=1771776260
   Price: $390.00 USD
 - [Jack's Plastic Welding Silverback Paco Pad | OVERLANDERS Outfitter](https://overlandersoutfitter.com/products/jacks-plastic-welding-silverback-pad): Silverback Pad 78"x26"x4" self-inflating sleeping pad. High-density foam, R-value 3.42/in, bombproof PVC construction. Premium river & camping comfort.
-  Updated: 2026-04-29T18:12:48Z
+  Updated: 2026-05-07T19:14:23Z
   Vendor: Jack's Plastic Welding
   Product Type: Sleeping | Paco Pad
   Availability: Available
@@ -344,14 +358,14 @@ OVERLANDERS Outfitter was born from the adventure lifestyle community—van life
     Image: https://cdn.shopify.com/s/files/1/0961/1440/9843/files/Paco-Pad-Sand_2a85dcdb-7a45-4dff-8c01-2b30fae0cdb0.webp?v=1772696965
     Price: $499.00 USD
 - [Paco Guide Pad 72x28x2 Sleeping Pad | OVERLANDERS Outfitter](https://overlandersoutfitter.com/products/jacks-plastic-welding-guide-pad): Paco Guide Pad 72x28x2 sleeping pad for river rafting & camping. High-density foam, puncture-proof, hand-made in New Mexico. Built to last decades.
-  Updated: 2026-04-29T18:11:13Z
+  Updated: 2026-05-07T19:14:25Z
   Vendor: Jack's Plastic Welding
   Product Type: Sleeping | Paco Pad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0961/1440/9843/files/guide-pad_59dd8bb2-1cc1-457e-a4ef-f02aaf38f420.webp?v=1771779516
   Price: $330.00 USD
 - [Kokatat Hustle Life Vest - Unisex - OVERLANDERS Outfitter](https://overlandersoutfitter.com/products/kokatat-unisex-hustle-life-vest): Kokatat Hustle Life Vest PFD with dual US/Canada certification. Sculpted GAIA foam, large front pocket, adjustable fit. Premium comfort for kayaking & SUP.
-  Updated: 2026-04-29T18:12:34Z
+  Updated: 2026-05-07T19:14:35Z
   Vendor: Kokatat
   Product Type: PFD
   Availability: Available
@@ -368,8 +382,15 @@ OVERLANDERS Outfitter was born from the adventure lifestyle community—van life
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0961/1440/9843/files/HUSTLE_-_y.jpg?v=1771784254
     Price: $160.00 USD
+- [Sungold Power Modular & Expandable Ground Mount Brackets for 2× 400W–590W Solar Panels](https://overlandersoutfitter.com/products/sungold-power-modular-expandable-ground-mount-brackets-for-2-400w-590w-solar-panels): Green Vista Living Sungold Power Modular & Expandable Ground Mount Brackets for 2× 400W–590W Solar Panels Accessory OVERLANDERS Outfitter
+  Updated: 2026-05-08T13:01:01Z
+  Vendor: Green Vista Living
+  Product Type: Accessory
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0961/1440/9843/files/01-2_f06f15e0-ecba-4d83-9c80-10a4c4222bc0.jpg?v=1772534347
+  Price: $179.00 USD
 - [AIRE 130D Whitewater Raft | 13' Self-Bailing Raft for Big Water](https://overlandersoutfitter.com/products/aire-130d-orange): AIRE 130D whitewater raft: 13' self-bailing design perfect for R2-R7 teams. Stable, maneuverable, built for big water rapids & multi-day trips. 10-year warranty. In stock.
-  Updated: 2026-04-29T18:12:38Z
+  Updated: 2026-05-07T19:15:28Z
   Vendor: AIRE
   Product Type: AIRE Raft
   Availability: Available
@@ -387,14 +408,14 @@ OVERLANDERS Outfitter was born from the adventure lifestyle community—van life
     Image: https://cdn.shopify.com/s/files/1/0961/1440/9843/files/130D_Catalog_Orange_592x_26b757cd-b1e9-4a1f-8dd1-7e7d1834d878.jpg?v=1772624108
     Price: $5,800.00 USD
 - [Thwart | 130D](https://overlandersoutfitter.com/products/thwart-130d): AIRE Thwart | 130D AIRE Thwart OVERLANDERS Outfitter
-  Updated: 2026-04-29T18:11:47Z
+  Updated: 2026-05-07T19:15:45Z
   Vendor: AIRE
   Product Type: AIRE Thwart
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0961/1440/9843/files/thwart-handle-side.webp?v=1772688710
   Price: $380.00 USD
 - [Jack's Plastic Welding Full Paco Pad 72x24x2 | OVERLANDERS Outfitter](https://overlandersoutfitter.com/products/jacks-welding-full-paco-pad): Full Paco Pad 72x24x2 self-inflating sleeping pad for river camping. High-density foam, R-value 3.42/in, hand-made quality. Perfect for multi-day trips.
-  Updated: 2026-04-29T18:13:03Z
+  Updated: 2026-05-07T19:15:51Z
   Vendor: Jack's Plastic Welding
   Product Type: Sleeping | Paco Pad
   Availability: Available
@@ -408,28 +429,28 @@ OVERLANDERS Outfitter was born from the adventure lifestyle community—van life
     Image: https://cdn.shopify.com/s/files/1/0961/1440/9843/files/51d6lMG6ORL._AC_SX679.jpg?v=1772714116
     Price: $255.00 USD
 - [AIRE Thwart Handle | Kayak & Raft Safety | OVERLANDERS Outfitter](https://overlandersoutfitter.com/products/thwart-handle): Dual rubber grip handles with padded base and stainless steel O-rings. Quick-release buckle, wraps any thwart. Your last chance to stay in the boat.
-  Updated: 2026-04-29T18:11:52Z
+  Updated: 2026-05-07T19:15:07Z
   Vendor: AIRE
   Product Type: Thwart Handle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0961/1440/9843/files/thwart-handle-top_374x_f524d707-fda0-46c7-bda7-ef18519f168d.avif?v=1772859272
   Price: $49.00 USD
 - [AIRE Deluxe Thigh Straps for Inflatable Kayaks | OVERLANDERS Outfitter](https://overlandersoutfitter.com/products/aire-deluxe-thigh-straps): Padded thigh straps with cam buckle adjustment for superior kayak control. Easy install, quick release, doubles as carry handle. Perfect for whitewater & surf.
-  Updated: 2026-04-29T18:13:36Z
+  Updated: 2026-05-07T19:16:06Z
   Vendor: AIRE
   Product Type: AIRE Thigh Straps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0961/1440/9843/files/aire-deluxe-thigh-straps_aredts.webp?v=1772860726
   Price: $68.00 USD
 - [AIRE Inflatable Foot Brace | Kayak Control | OVERLANDERS Outfitter](https://overlandersoutfitter.com/products/aire-inflatable-foot-brace): Inflatable foot brace enhances leg engagement and paddling power. PVC shell, Summit II valve, 4-strap attachment. Lightweight at 1.75 lbs. 1-year warranty.
-  Updated: 2026-04-29T18:12:59Z
+  Updated: 2026-05-07T19:15:15Z
   Vendor: AIRE
   Product Type: AIRE Inflatable Foot Brace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0961/1440/9843/files/Foot_Brace-scaled_507x_bb57d4e6-b082-44c4-bae6-1e244b3536e3.jpg?v=1772862268
   Price: $74.00 USD
 - [Stoke Dry Top (Hydrus 3.0) -Kokatat | OVERLANDERS Outfitter](https://overlandersoutfitter.com/products/stoke-dry-top-hydrus-3-0-womens): Kokatat's Hydrus 3.0 Stoke dry top offers waterproof breathable protection for women paddlers. Latex gaskets, dual adjustable skirt. Excellent all-around.
-  Updated: 2026-04-29T18:14:24Z
+  Updated: 2026-05-07T19:15:36Z
   Vendor: Kokatat
   Product Type: Dry Top
   Availability: Available
@@ -447,7 +468,7 @@ OVERLANDERS Outfitter was born from the adventure lifestyle community—van life
     Image: https://cdn.shopify.com/s/files/1/0961/1440/9843/files/StokeDryTop_Hydrus3.0_-Women_s.jpg?v=1773050672
     Price: $445.00 USD
 - [Kokatat Hydrus 3.0 Stoke Dry Top - Paddle Gear | OVERLANDERS Outfitter](https://overlandersoutfitter.com/products/kokatat-hydrus-3-0-stoke-dry-top-mens): Kokatat's Hydrus 3.0 Stoke dry top for men offers waterproof breathable protection for paddlers. Latex gaskets, dual adjustable skirt. Excellent all-around.
-  Updated: 2026-04-29T18:13:36Z
+  Updated: 2026-05-07T19:15:41Z
   Vendor: Kokatat
   Product Type: Dry Top
   Availability: Available
@@ -468,13 +489,13 @@ OVERLANDERS Outfitter was born from the adventure lifestyle community—van life
 ## Collections
 
 - [Basecamp: Find the Best Basecamp Gear and Equipment](https://overlandersoutfitter.com/collections/outdoor-camping-gear-basecamp): Discover the ultimate Basecamp experience with our top-rated gear and essentials. Elevate your outdoor adventures today!
-  Updated: 2026-05-01T02:51:52Z
+  Updated: 2026-05-06T19:54:44Z
   Total Products: 678
 - [Coffee, Tea & Matcha: Shop the Best Selection Online](https://overlandersoutfitter.com/collections/coffee-tea-matcha-shop): Shop cold brew, mushroom blend coffee, specialty tea & matcha from Rising For People Coffee Co. and more. Premium picks for your daily ritual.
-  Updated: 2026-05-01T02:47:24Z
+  Updated: 2026-05-07T03:27:18Z
   Total Products: 133
 - [The Matcha Collective - Premium Ceremonial Matcha | We The Collective](https://overlandersoutfitter.com/collections/the-matcha-collective): Shop The Matcha Collective for premium ceremonial-grade and culinary matcha. Served daily at Ocoee Coffee Joint. Authentic Japanese matcha.
-  Updated: 2026-05-01T02:42:46Z
+  Updated: 2026-05-06T22:23:53Z
   Total Products: 12
 - [The Drinkware Collective - Mugs & Coffee Tumblers | We The Collective](https://overlandersoutfitter.com/collections/the-drinkware-collective): Shop The Drinkware Collective for premium coffee mugs, tea cups, insulated tumblers & water bottles. Drinkware built to last generations.
   Updated: 2026-05-01T02:46:10Z
@@ -492,13 +513,13 @@ OVERLANDERS Outfitter was born from the adventure lifestyle community—van life
   Updated: 2026-05-01T02:40:00Z
   Total Products: 33
 - [The Menswear Collective - Men's Apparel | We The Collective](https://overlandersoutfitter.com/collections/the-menswear-collective): Shop The Menswear Collective for premium men's performance apparel, waterproof jackets, leather goods & lifestyle essentials built to last.
-  Updated: 2026-05-01T02:51:14Z
+  Updated: 2026-05-05T18:37:18Z
   Total Products: 230
 - [Women's Performance Apparel & Activewear | OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/the-womenswear-collective): Shop women's active sunshirts, skorts, midlayer jackets, performance joggers & crop tops from HaliBorealis, FisheWear & more at OVERLANDERS Outfitter.
-  Updated: 2026-05-01T02:50:40Z
+  Updated: 2026-05-05T19:36:01Z
   Total Products: 348
 - [Footwear - Pro tactical boots, USA-made | We The Collective](https://overlandersoutfitter.com/collections/the-footwear-collective): Footwear: Magnum, Botas Pro tactical boots, USA-made Bruin, Ursidae & Arktos barefoot boots, Oso sandals, Cub kids' shoes. Tactical to minimalist.
-  Updated: 2026-05-01T02:48:45Z
+  Updated: 2026-05-06T05:53:32Z
   Total Products: 263
 - [The Workforce Collective - Pro Workwear | We The Collective](https://overlandersoutfitter.com/collections/the-workforce-collective): Workforce boots: Magnum, Rock Rooster & Botas Pro. Steel toe, composite toe, waterproof, VIBRAM® outsoles. 60+ tactical & work boot models for every profession.
   Updated: 2026-05-01T02:50:32Z
@@ -507,19 +528,19 @@ OVERLANDERS Outfitter was born from the adventure lifestyle community—van life
   Updated: 2026-05-01T02:48:41Z
   Total Products: 88
 - [The Beach Collective - Beach Towels & Coastal Gear | We The Collective](https://overlandersoutfitter.com/collections/the-beach-spring-26): Shop The Beach Collective for premium oversized beach towels, sustainable swimwear, sun protection & coastal essentials built to last.
-  Updated: 2026-05-01T02:49:47Z
+  Updated: 2026-05-08T22:45:43Z
   Total Products: 134
 - [The Pool Collective - Pool Gear & Swim Accessories | We The Collective](https://overlandersoutfitter.com/collections/the-pool): Shop The Pool Collective for premium pool gear and swim accessories: goggles, floats, sun protection & poolside essentials built to last.
   Updated: 2026-05-01T02:44:46Z
   Total Products: 25
 - [The Lake Collective - Paddleboards & Watersports | We The Collective](https://overlandersoutfitter.com/collections/the-lake): Shop The Lake Collective for Hala paddleboards, Watershed waterproof bags & lake gear. Premium water sports equipment built to last.
-  Updated: 2026-05-01T02:49:47Z
+  Updated: 2026-05-08T22:45:43Z
   Total Products: 248
 - [The River Collective - Paddling Gear | We The Collective](https://overlandersoutfitter.com/collections/the-river): Shop The River Collective for premium kayaking and rafting gear. Waterproof bags, river footwear & performance apparel built to last.
-  Updated: 2026-05-01T02:49:47Z
+  Updated: 2026-05-08T22:45:43Z
   Total Products: 138
 - [The Kid's Collective - Kids Outdoor Apparel & Gear | We The Collective](https://overlandersoutfitter.com/collections/the-kids-collective): Shop The Kid's Collective for premium kids' outdoor apparel and gear: UV-protective clothing, water sandals & camping gear built to last.
-  Updated: 2026-05-01T02:48:58Z
+  Updated: 2026-05-06T05:53:32Z
   Total Products: 180
 - [The Ember Collective - Smart Mugs & Temp Control | We The Collective](https://overlandersoutfitter.com/collections/the-ember-collective): Shop The Ember Collective for Ember smart mugs with app-controlled temperature. Keep coffee and tea at your perfect temp for hours.
   Updated: 2026-05-01T02:06:49Z
@@ -528,52 +549,52 @@ OVERLANDERS Outfitter was born from the adventure lifestyle community—van life
   Updated: 2026-05-01T02:48:41Z
   Total Products: 50
 - [Partner Products - Created Co. & Hilltop Packs | We The Collective](https://overlandersoutfitter.com/collections/partner-products): Shop premium partner products from Created Co., Hilltop Packs & trusted brands. Curated outdoor gear, drinkware & lifestyle essentials built to last.
-  Updated: 2026-05-01T02:51:52Z
-  Total Products: 1934
+  Updated: 2026-05-08T22:45:43Z
+  Total Products: 4587
 - [Insulated Tumblers & Water Bottles & Cold Cups - We The Collective](https://overlandersoutfitter.com/collections/the-cold-cup-collective): Shop premium insulated tumblers, cold cups & water bottles. Double-walled stainless steel keeps drinks cold 24+ hours. Durable drinkware built to last.
   Updated: 2026-05-01T02:42:56Z
   Total Products: 54
 - [Bed and Bath | Shop Bedding, Towels & Home Decor Online](https://overlandersoutfitter.com/collections/bed-and-bath): Premium bed and bath, sleeping essentials from Luno, COCOON, ALPS Mountaineering, Great Bay Home, and more. Linens, sleeping bags, and travel gear.
-  Updated: 2026-05-01T02:51:52Z
+  Updated: 2026-05-06T06:39:34Z
   Total Products: 275
 - [Gift Guide - Quality Gear Built to Last | We The Collective](https://overlandersoutfitter.com/collections/gift-guide): Handpicked gifts built to last generations. Premium drinkware, outdoor gear, apparel & home goods. Visit our Ocoee showroom or shop online. Real good goods.
-  Updated: 2026-05-01T02:50:01Z
+  Updated: 2026-05-08T22:45:43Z
   Total Products: 203
 - [The Home Collective - Unique Home Goods & Textiles | We The Collective](https://overlandersoutfitter.com/collections/the-home-collective): Shop The Home Collective for premium bed & bath textiles, candles, furnishings & decor. Quality home essentials built to last generations.
-  Updated: 2026-05-01T02:48:52Z
+  Updated: 2026-05-06T22:23:53Z
   Total Products: 410
 - [Backcountry Camping & Outdoor Gear | Adventure Equipment](https://overlandersoutfitter.com/collections/the-backcountry-collective): Premium backcountry gear from Gravel and Backcountry Sportsman. Tents, backpacking equipment, paddleboards, fishing gear, and outdoor adventure essentials.
-  Updated: 2026-05-01T02:48:40Z
+  Updated: 2026-05-06T05:50:40Z
   Total Products: 314
 - [Ski & Snowboard Gear | Mountain Skiing Equipment & Winter Apparel - We The Collective](https://overlandersoutfitter.com/collections/ski-snowboard-gear-mountain-apparel): Premium ski and snowboard gear for alpine and backcountry skiing. Technical outerwear, mountain equipment, and winter essentials built to last.
-  Updated: 2026-05-01T02:47:45Z
+  Updated: 2026-05-05T18:25:46Z
   Total Products: 131
 - [Bags - Duffels, Backpacks, Tote Bags & Travel Organizers - OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/bag): Shop duffels, backpacks, tote bags & travel organizers at OVERLANDERS Outfitter. Premium leather, COCOON organizers & stadium bags for every adventure.
-  Updated: 2026-05-01T02:50:24Z
+  Updated: 2026-05-05T19:50:03Z
   Total Products: 347
 - [Emergency Collective - Disaster Prep & First Aid](https://overlandersoutfitter.com/collections/emergency-collective): Discover the power of EMERGENCY response with The Emergency Collective. Join us and make a difference today! OVERLANDERS Outfitter
-  Updated: 2026-05-01T02:50:01Z
+  Updated: 2026-05-07T14:04:07Z
   Total Products: 858
 - [Tactical Gear & Equipment - Professional Grade - OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/tactical-gear): Shop tactical gear from RTS Tactical, M-TAC, Magnum & more. Plate carriers, boots, optics & EDC for military, law enforcement & outdoor enthusiasts.
-  Updated: 2026-05-01T02:49:55Z
+  Updated: 2026-05-07T14:04:07Z
   Total Products: 1365
 - [Outdoor Electronics & Adventure Tech Gear - OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/the-electronic-collective): Shop outdoor electronics at OVERLANDERS Outfitter. Anker chargers, Rexing dash cams, Fenix headlamps & portable speakers for overlanding & camping.
-  Updated: 2026-05-01T02:49:08Z
-  Total Products: 277
+  Updated: 2026-05-08T13:19:37Z
+  Total Products: 278
 - [The Pet Collective - Dog & Cat Gear & Essentials](https://overlandersoutfitter.com/collections/pet): Discover the cutest and funniest pet moments on The Pet Collective - your go-to source for all things adorable and furry!
-  Updated: 2026-05-01T02:49:27Z
-  Total Products: 268
+  Updated: 2026-05-08T14:09:49Z
+  Total Products: 297
 - [Sauna Tents & Stoves - Portable Sauna Equipment](https://overlandersoutfitter.com/collections/the-sauna-collective): Shop premium sauna tents, wood stoves, and accessories. Portable outdoor saunas for 4-8 people. Complete packages and replacement parts. North Shore Sauna.
-  Updated: 2026-05-01T02:48:25Z
+  Updated: 2026-05-06T05:50:40Z
   Total Products: 94
 - [Hydration & Electrolyte Supplements | OVERLANDERS](https://overlandersoutfitter.com/collections/the-hydration-collective): Discover the ultimate hydration essentials to keep your skin and body nourished. Find top-rated products in our Hydration category now!
-  Updated: 2026-05-01T02:45:21Z
-  Total Products: 61
+  Updated: 2026-05-05T18:28:10Z
+  Total Products: 62
 - [Road Trip Snacks & Travel Food - Jerky, Astronaut Ice Cream & WE Made Baking Mixes](https://overlandersoutfitter.com/collections/the-road-trip-snacks-collective): Curated road trip snacks including jerky, astronaut ice cream, and handcrafted WE Made baking mixes. Perfect for travel, camping, and cabin adventures.
   Updated: 2026-05-01T02:47:34Z
   Total Products: 23
 - [Gift Cards - Premium Outdoor Gear & Unique Gifts | We The Collective](https://overlandersoutfitter.com/collections/the-gift-card-hub): Give the gift of choice with We The Collective gift cards. Redeemable for premium outdoor gear, artisan textiles, and luxury apparel. No expiration.
-  Updated: 2026-05-01T02:20:23Z
+  Updated: 2026-05-05T18:27:31Z
   Total Products: 4
 - [Sports & Rec. Find the Best Recreation Products & Deals](https://overlandersoutfitter.com/collections/rec): Discover the best in Sports & Rec. gear and equipment for all your favorite activities. Shop now and unleash your potential!
   Updated: 2026-05-01T02:47:53Z
@@ -582,16 +603,16 @@ OVERLANDERS Outfitter was born from the adventure lifestyle community—van life
   Updated: 2026-05-01T02:47:55Z
   Total Products: 28
 - [Mountain Biking & Trail Gear | Electric Bikes - We The Collective](https://overlandersoutfitter.com/collections/mountain-biking-gear-trail-accessories): Premium mountain biking, gravel, and trail cycling gear. MTB helmets, protective equipment, bikepacking accessories, and performance apparel for off-road riders.
-  Updated: 2026-05-01T02:51:45Z
+  Updated: 2026-05-06T06:59:04Z
   Total Products: 659
 - [Overland & Van Life Gear | Vehicle Outfitting Essentials - OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/van-life-gear-car-camping-essentials): Premium overland and van life gear from avatar offroad, TNTvans, THULE, and more. Roof racks, storage systems, van conversion kits, and off-grid essentials.
-  Updated: 2026-05-01T02:51:49Z
+  Updated: 2026-05-05T18:28:26Z
   Total Products: 601
 - [Kayaks & Fishing Boats - Inflatable Kayaks & Marine Gear - OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/kayaks): Shop kayaks, fishing boats & inflatable kayaks from AIRE, Sea Eagle & Lifetime. Roof racks, marine accessories & boating gear for every adventure.
-  Updated: 2026-05-01T02:43:06Z
+  Updated: 2026-05-05T18:28:00Z
   Total Products: 144
 - [Whitewater Kayaking Gear & River Running Equipment | OVERLANDERS](https://overlandersoutfitter.com/collections/whitewater-gear): Premium whitewater kayaking gear from Jackson Kayak, Werner, Watershed, Kokatat, NRS, AIRE. Paddles, PFDs, dry bags, safety gear for river runners.
-  Updated: 2026-05-01T02:47:34Z
+  Updated: 2026-05-06T05:51:23Z
   Total Products: 102
 - [Overnighters on The River Gear - Ocoee, Gauley - OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/overnighters): Overnighters, multi-day river gear tested on the Ocoee, Grand Canyon, Gauley, Rogue, and Salmon. Featuring Jack's Plastic Welding Paco Pads and durable expedition essentials.
   Updated: 2026-05-01T02:41:41Z
@@ -600,25 +621,25 @@ OVERLANDERS Outfitter was born from the adventure lifestyle community—van life
   Updated: 2026-05-01T02:47:55Z
   Total Products: 28
 - [Mountain Biking & Gravel Cycling Gear | Trail Equipment - OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/mountain-biking): Premium mountain biking, gravel, and trail cycling gear. MTB helmets, protective equipment, bikepacking accessories, and performance apparel.
-  Updated: 2026-05-01T02:50:36Z
+  Updated: 2026-05-06T06:59:04Z
   Total Products: 461
 - [Fishing Accessories - Tackle, Storage & Rods  - OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/fishing): Fishing gear and accessories for kayak, shore, and boat fishing. Tackle storage, rod holders, fishing backpacks. Freshwater and saltwater equipment.
-  Updated: 2026-05-01T02:49:06Z
+  Updated: 2026-05-05T18:29:26Z
   Total Products: 218
 - [Skiing & Snowboarding Gear, Apparel & Safety Equipment - OVERLANDERS](https://overlandersoutfitter.com/collections/the-mountain-ski-collective-copy): Premium skiing and snowboarding gear including technical outerwear, avalanche safety equipment, goggles, and accessories for backcountry and resort riders.
-  Updated: 2026-05-01T02:47:45Z
+  Updated: 2026-05-05T18:25:46Z
   Total Products: 131
 - [Winter Outdoor Gear - Cold Weather Camping & Skiing - OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/winter): Winter outdoor gear for cold weather camping, ski touring, and winter hiking. Insulated layers, 4-season tents, winter accessories. Cold-weather equipment.
   Updated: 2026-05-01T02:47:16Z
   Total Products: 85
 - [Spring Outdoor Gear - Seasonal Hiking, Camping & Paddling - OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/spring): Spring outdoor gear for hiking, camping, and paddling. Seasonal equipment for transitional weather. Rain gear, layering, spring fishing accessories.
-  Updated: 2026-05-01T02:48:52Z
+  Updated: 2026-05-05T18:30:14Z
   Total Products: 30
 - [Solar - Harness the Power of the Sun for Renewable Energy](https://overlandersoutfitter.com/collections/solar): Portable solar panels and power stations for off-grid adventures. Solar chargers, battery generators, overlanding power. Renewable energy solutions.
-  Updated: 2026-05-01T02:49:32Z
-  Total Products: 474
+  Updated: 2026-05-08T13:47:27Z
+  Total Products: 478
 - [Outdoor Furniture - Camp Chairs, Tables & More - OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/outdoor-furniture): Outdoor furniture for camping, overlanding, and outdoor living. Portable chairs, tables, outdoor kitchens. Durable, packable gear for adventures.
-  Updated: 2026-05-01T02:48:52Z
+  Updated: 2026-05-05T18:26:31Z
   Total Products: 321
 - [Inflatable Kayaks, Fishing Boats & Water Gear - OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/inflatables): Shop inflatable kayaks (IKs), fishing boats, docks, chairs & pumps. Portable, durable watercraft for fishing, recreation & adventure. Free shipping.
   Updated: 2026-05-01T02:44:46Z
@@ -627,13 +648,13 @@ OVERLANDERS Outfitter was born from the adventure lifestyle community—van life
   Updated: 2026-05-01T02:28:29Z
   Total Products: 4
 - [SUP - Stand-Up Paddleboards, Paddles & Accessories - OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/sup): Stand-up paddleboards (SUP), paddles, and accessories. Inflatable and rigid boards, SUP fishing gear, PFDs. Complete SUP equipment and gear.
-  Updated: 2026-05-01T02:49:47Z
+  Updated: 2026-05-08T22:45:43Z
   Total Products: 116
 - [Paddles - Kayak, Canoe & SUP Paddles - OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/paddles): Kayak, canoe, and SUP paddles. Carbon fiber, fiberglass, aluminum. Touring, whitewater, fishing paddles. High-performance paddling equipment.
-  Updated: 2026-05-01T02:48:03Z
+  Updated: 2026-05-05T18:27:36Z
   Total Products: 14
 - [PFDs - Life Jackets & Flotation Vests - OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/pfds): Coast Guard- PFDs and life jackets for kayaking, paddleboarding, fishing. Low-profile vests, inflatable PFDs. Water safety flotation devices.
-  Updated: 2026-05-01T02:38:23Z
+  Updated: 2026-05-05T18:27:37Z
   Total Products: 4
 - [Throw Ropes & Rope Webbing - Whitewater Rescue Gear - OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/rope-webbing): Shop throw ropes, throw bags & heavy-duty webbing for whitewater rescue & rigging. Top brands: NRS, AIRE, River Station, WWTC. Professional-grade cordage.
   Updated: 2026-05-01T02:45:48Z
@@ -642,7 +663,7 @@ OVERLANDERS Outfitter was born from the adventure lifestyle community—van life
   Updated: 2026-05-01T02:50:24Z
   Total Products: 150
 - [Ultralight & Hiking Daypacks - Lightweight Backpacks - OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/light-packs-day-packs): Ultralight hiking daypacks and lightweight backpacks. Dyneema dry bags, technical daypacks, hydration packs. Minimize weight for day hikes and adventures.
-  Updated: 2026-05-01T02:48:34Z
+  Updated: 2026-05-05T18:28:00Z
   Total Products: 68
 - [Expedition Backpacks - High-Capacity Packs - OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/expedition-packs): Expedition backpacks for multi-day trips and remote adventures. 40L-90L+ capacity, technical mountaineering packs, durable travel backpacks. Built tough.
   Updated: 2026-05-01T02:28:10Z
@@ -651,16 +672,16 @@ OVERLANDERS Outfitter was born from the adventure lifestyle community—van life
   Updated: 2026-05-01T02:34:12Z
   Total Products: 19
 - [Hydration Backpacks - Mountain Bike & Hiking - OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/hydration-backpacks): Hydration backpacks for mountain biking, trail running, and hiking. Integrated reservoirs, breathable designs, tool storage. Stay hydrated on every adventure.
-  Updated: 2026-05-01T02:43:45Z
+  Updated: 2026-05-05T18:28:06Z
   Total Products: 54
 - [Rado Racks: Premium Ski, Surfboard, Bike & Guitar Storage - Handcrafted in Colorado](https://overlandersoutfitter.com/collections/gear-racks): Premium Baltic Birch storage racks for skis, surfboards, bikes, guitars & more. Handcrafted in Colorado. Lifetime warranty. Free shipping on orders over $100.
-  Updated: 2026-05-01T02:46:39Z
+  Updated: 2026-05-05T18:25:31Z
   Total Products: 32
 - [Sleeping Bags for Camping, Backpacking & Cold Weather - OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/sleeping-bags): Premium sleeping bags for camping, backpacking & overlanding. Military surplus cold weather bags, 3-season systems & ultralight options. Free shipping.
-  Updated: 2026-05-01T02:48:36Z
+  Updated: 2026-05-06T06:39:34Z
   Total Products: 52
 - [Car Covers - Weather & UV Protection for Vehicles](https://overlandersoutfitter.com/collections/car-covers): Premium car covers for overlanders & outdoor enthusiasts. Weather-resistant, UV protection, breathable. Custom & universal fit. Protect your vehicle .
-  Updated: 2026-05-01T02:51:19Z
+  Updated: 2026-05-05T18:28:27Z
   Total Products: 64
 - [AIRE Whitewater Rafts & Kayaks | OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/aire): Authorized AIRE dealer in Ocoee, TN. Shop whitewater rafts, kayaks, and inflatable gear. Spring Forward Sales now live. Pro deals available for river guides.
   Updated: 2026-04-20T04:37:46Z
@@ -669,7 +690,7 @@ OVERLANDERS Outfitter was born from the adventure lifestyle community—van life
   Updated: 2026-05-01T02:49:32Z
   Total Products: 59
 - [Golf Clubs & Equipment | Top Golf Brands - OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/golf-disk-golf): Premium golf clubs, balls, apparel & accessories. Callaway, TaylorMade, Titleist, FootJoy. OptiShot2 simulators, hand-crafted headcovers & golf gifts.
-  Updated: 2026-05-01T02:50:44Z
+  Updated: 2026-05-09T01:32:06Z
   Total Products: 180
 - [Vehicle Racks & Cargo Carriers - Thule & More | OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/vehicle-racks): Roof racks, kayak carriers, bike racks & cargo systems. Thule, Yakima & more. Truck bed racks, vehicle-racks, crossbars, tie-downs for overlanding & outdoor adventures.
   Updated: 2026-05-01T02:47:21Z
@@ -681,7 +702,7 @@ OVERLANDERS Outfitter was born from the adventure lifestyle community—van life
   Updated: 2026-05-01T02:51:01Z
   Total Products: 152
 - [Outdoor Hats, Beanies & Visors - Sun Protection | OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/hats-visors): Premium outdoor hats, beanies, visors & neck gaiters. Camper hats, snapbacks, helmet visors, sun protection. Built for paddling, hiking, climbing & overlanding.
-  Updated: 2026-05-01T02:50:03Z
+  Updated: 2026-05-05T19:36:01Z
   Total Products: 234
 - [Helmets for Every Sport & Adventure - OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/helmets): Shop helmets for cycling, MTB, skiing, water sports & more at OVERLANDERS Outfitter. Full face, smart, kids &  helmets for every adventure.
   Updated: 2026-05-01T02:50:32Z
@@ -693,7 +714,7 @@ OVERLANDERS Outfitter was born from the adventure lifestyle community—van life
   Updated: 2026-04-22T11:24:15Z
   Total Products: 17
 - [Tote Bags - Durable, Eco & Adventure Totes | OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/totes): Shop versatile tote bags for commuting, outdoor adventures, and everyday use. Eco-friendly market totes, utility bags, cooler totes & more at OVERLANDERS Outfitter.
-  Updated: 2026-05-01T02:50:24Z
+  Updated: 2026-05-05T18:28:00Z
   Total Products: 72
 - [MREs & Freeze-Dried Camping Meals - OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/mres): Shop MREs, freeze-dried meals & survival rations at OVERLANDERS Outfitter. Lightweight, long-shelf-life food for camping, backpacking & emergency prep.
   Updated: 2026-05-01T02:47:34Z
@@ -702,13 +723,13 @@ OVERLANDERS Outfitter was born from the adventure lifestyle community—van life
   Updated: 2026-05-01T02:47:26Z
   Total Products: 1067
 - [Motocross Gear & Equipment - Bean's Moto Booth | OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/motorcross): Shop premium motocross gear and accessories from Bean's Moto Booth. Quality equipment for riders who demand performance and durability on the track.
-  Updated: 2026-05-01T02:51:03Z
+  Updated: 2026-05-05T18:35:10Z
   Total Products: 215
 - [Climbing Gear & Safety Equipment by Kong - OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/climbing): Shop Kong climbing gear — CE & UIAA  carabiners, belay devices, harnesses & more. Italian-crafted since 1830. Distributed by Kong USA.
   Updated: 2026-05-01T02:50:32Z
   Total Products: 313
 - [Outdoor Performance Supplements for Overlanding & Adventure | OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/supplements): Shop electrolytes, protein, and energy supplements for overlanders & outdoor athletes. Field-ready nutrition to fuel your next adventure at OVERLANDERS Outfitter.
-  Updated: 2026-05-01T02:45:04Z
+  Updated: 2026-05-07T03:27:18Z
   Total Products: 11
 - [SPF Hair Care for Outdoor Adventures – OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/spf-haircare): Shop Sun Bum SPF hair care products. UV-protective shampoos, conditioners & sprays for overlanders, surfers & outdoor enthusiasts.
   Updated: 2026-05-01T02:48:07Z
@@ -735,7 +756,7 @@ OVERLANDERS Outfitter was born from the adventure lifestyle community—van life
   Updated: 2026-05-01T02:48:50Z
   Total Products: 211
 - [FisheWear Women's Fishing & Outdoor Apparel | OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/fishewear): Shop FisheWear — bold women's fishing & outdoor apparel designed in Alaska. Technical comfort, signature prints, built for adventure on and off the water.
-  Updated: 2026-05-01T02:47:51Z
+  Updated: 2026-05-05T19:50:03Z
   Total Products: 52
 - [Women's Clothing by Downeast: Dresses & Tops  – OVERLANDERS Outfitter](https://overlandersoutfitter.com/collections/downeast): Shop Downeast women's clothing — dresses, tops, sweaters, tees & pants. Modest, stylish, and effortlessly wearable. Available at OVERLANDERS Outfitter.
   Updated: 2026-05-01T02:44:29Z
