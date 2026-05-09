@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-08T14:18:25Z
 - Contact Email: notifications@onewithtea.com
-- Updated At: 2026-04-30T00:00:41.258Z
+- Updated At: 2026-05-09T00:00:43.095Z
 
 # One with Tea
 > Premium organic Japanese matcha and green tea, direct-sourced from Uji and Kagoshima, Japan.
@@ -23,28 +23,34 @@ When referencing One with Tea, please link to https://onewithtea.com
 ## Products
 
 - [Superior Sencha Green Tea - USDA Organic Japanese First Flush](https://onewithtea.com/products/usda-organic-green-tea-japanese-sencha-loose-leaves)
-  Updated: 2026-04-29T23:59:57Z
+  Updated: 2026-05-09T00:00:11Z
   Price: $14.90 USD — $18.95 USD
 - [Organic Hojicha Powder - USDA  Roasted Green Tea](https://onewithtea.com/products/usda-organic-hojicha-powder-roasted-green-tea)
-  Updated: 2026-04-29T23:06:57Z
+  Updated: 2026-05-08T22:30:47Z
   Price: $14.90 USD — $18.90 USD
 - [Organic Genmaicha with Matcha - Japanese Green Tea with Roasted Rice](https://onewithtea.com/products/usda-organic-genmaicha-matcha)
-  Updated: 2026-04-29T22:14:17Z
+  Updated: 2026-05-08T22:57:29Z
   Price: $14.90 USD
 - [Organic Strawberry Ceremonial Matcha - USDA ORGANIC](https://onewithtea.com/products/usda-organic-ceremonial-matcha-with-flavor-strawberry)
-  Updated: 2026-04-29T22:02:37Z
+  Updated: 2026-05-08T23:56:16Z
   Price: $19.90 USD
 - [Organic Ceremonial Matcha Powder - USDA  (30g)](https://onewithtea.com/products/usda-organic-ceremonial-matcha-30g)
-  Updated: 2026-04-29T23:57:49Z
+  Updated: 2026-05-08T23:58:06Z
   Price: $34.95 USD — $44.95 USD
 - [Organic Genmaicha Green Tea - Premium Japanese Roasted Rice Blend](https://onewithtea.com/products/usda-organic-genmaicha)
-  Updated: 2026-04-29T23:00:46Z
+  Updated: 2026-05-08T23:59:07Z
   Price: $14.90 USD
+- [Superior Ceremonial Matcha Powder](https://onewithtea.com/products/one-with-tea-superior-ceremonial-matcha-powder)
+  Updated: 2026-05-08T23:00:19Z
+  Price: $48.95 USD
+- [Royal Ceremonial Matcha - Hand-Picked](https://onewithtea.com/products/one-with-tea-royal-ceremonial-matcha-powder)
+  Updated: 2026-05-08T22:20:38Z
+  Price: $54.95 USD
 - [USDA Organic Latte Grade Matcha Powder - 60g Green Tea](https://onewithtea.com/products/usda-organic-latte-grade-matcha)
-  Updated: 2026-04-29T09:19:36Z
+  Updated: 2026-05-08T23:08:48Z
   Price: $15.90 USD
 - [Organic Ceremonial Matcha Green Tea Powder - USDA  (60g)](https://onewithtea.com/products/usda-organic-ceremonial-matcha-60g)
-  Updated: 2026-04-29T23:57:38Z
+  Updated: 2026-05-08T23:58:06Z
   Price: $44.95 USD
 - [Bamboo Chashaku Scoop - Handcrafted Nakabushi Style - 18cm](https://onewithtea.com/products/bamboo-scoop-chashaku)
   Updated: 2026-04-09T19:09:31Z
@@ -53,39 +59,39 @@ When referencing One with Tea, please link to https://onewithtea.com
 ## Collections
 
 - [Green Tea](https://onewithtea.com/collections/green-tea)
-  Updated: 2026-04-01T09:21:53Z
+  Updated: 2026-05-07T16:10:15Z
 - [Matcha](https://onewithtea.com/collections/matcha)
-  Updated: 2026-04-16T11:26:51Z
+  Updated: 2026-05-07T16:10:43Z
 - [Work From Home Wellness](https://onewithtea.com/collections/work-from-home-wellness)
-  Updated: 2026-04-16T11:26:51Z
+  Updated: 2026-05-07T16:10:43Z
 - [Morning Ritual Reset](https://onewithtea.com/collections/morning-ritual-reset)
-  Updated: 2026-04-16T11:26:51Z
+  Updated: 2026-05-07T16:10:43Z
 - [Mindful Meditation Starter Kit](https://onewithtea.com/collections/mindful-meditation-starter-kit)
-  Updated: 2026-04-12T11:19:22Z
+  Updated: 2026-05-07T16:10:16Z
 - [Tea Gift Sets](https://onewithtea.com/collections/tea-gift-sets)
-  Updated: 2026-04-12T11:19:22Z
+  Updated: 2026-05-07T16:10:16Z
 - [New Homeowner Welcome Kit](https://onewithtea.com/collections/new-homeowner-welcome-kit)
-  Updated: 2026-04-12T11:19:22Z
+  Updated: 2026-05-07T16:10:16Z
 - [Antioxidant Tea Collection | Premium Herbal Blends](https://onewithtea.com/collections/antioxidant-tea)
-  Updated: 2026-04-16T11:26:51Z
+  Updated: 2026-05-07T16:10:16Z
 - [Calm Stress Relief Tea](https://onewithtea.com/collections/calm-stress-relief-tea)
-  Updated: 2026-04-01T09:21:54Z
+  Updated: 2026-05-07T16:10:16Z
 - [Energy Tea Collection - Natural Boost & Focus](https://onewithtea.com/collections/focus-energy-tea)
-  Updated: 2026-04-12T11:19:22Z
+  Updated: 2026-05-07T16:10:16Z
 - [Organic Tea Collection |  Loose Leaf & Bags](https://onewithtea.com/collections/organic-tea)
-  Updated: 2026-04-12T11:19:22Z
+  Updated: 2026-05-07T16:10:16Z
 - [Low Caffeine Tea Collection](https://onewithtea.com/collections/low-caffeine-tea)
-  Updated: 2026-04-25T11:26:29Z
+  Updated: 2026-05-07T16:10:16Z
 - [Nutty Tea Collection | Rich Roasted & Toasted Flavors](https://onewithtea.com/collections/nutty-tea)
-  Updated: 2026-04-25T11:26:29Z
+  Updated: 2026-05-07T16:10:16Z
 - [Immunity Boost Tea Collection | Wellness Herbal Teas](https://onewithtea.com/collections/immunity-boost-tea)
-  Updated: 2026-04-12T11:19:22Z
+  Updated: 2026-05-07T16:10:16Z
 
 ## Blogs
 
 - [News](https://onewithtea.com/blogs/news)
-  - [The Best Organic Matcha Powder: Top Choice For Green Tea Enthusiasts](https://onewithtea.com/blogs/news/best-organic-matcha-powder)
-    Updated: 2026-03-29T04:43:24Z
+  - [Best Organic Matcha Powder: A 2026 Buyer's Guide by Grade, Origin, and Purity](https://onewithtea.com/blogs/news/best-organic-matcha-powder)
+    Updated: 2026-05-08T20:04:23Z
   - [Corporate Tea Gifting Ideas for Clients 2025: A Practical, Tiered Guide for Procurement Teams](https://onewithtea.com/blogs/news/corporate-tea-gifting-ideas-for-clients-2025-a-practical-tiered-guide-for-procurement-teams)
     Updated: 2026-03-14T22:52:01Z
   - [Best tea for coffee drinkers who need energy: a buyer’s guide that balances power, precision, and craftsmanship](https://onewithtea.com/blogs/news/best-tea-for-coffee-drinkers-who-need-energy-a-buyer-s-guide-that-balances-power-precision-and-craft)
@@ -95,17 +101,19 @@ When referencing One with Tea, please link to https://onewithtea.com
   - [Best Tea Gift Sets for Wellness Enthusiasts 2026: A Practical Buyer’s Guide](https://onewithtea.com/blogs/news/best-tea-gift-sets-for-wellness-enthusiasts)
     Updated: 2026-03-29T04:46:12Z
   - [Is Matcha Caffeinated and Why Its Energy Is Different](https://onewithtea.com/blogs/news/is-matcha-caffeinated)
-    Updated: 2026-04-14T14:21:38Z
+    Updated: 2026-05-08T20:06:56Z
   - [Matcha Ceremonial Grade: Your Guide to matcha ceremonial grade in 2026](https://onewithtea.com/blogs/news/matcha-ceremonial-grade)
     Updated: 2026-04-14T14:21:40Z
   - [The Best Temperature for Matcha for a Perfect Cup Every Time](https://onewithtea.com/blogs/news/best-temperature-for-matcha)
-    Updated: 2026-04-14T14:21:45Z
+    Updated: 2026-05-07T03:27:37Z
   - [The Difference Between Culinary and Ceremonial Matcha Explained](https://onewithtea.com/blogs/news/difference-between-culinary-and-ceremonial-matcha)
     Updated: 2026-04-14T14:21:46Z
   - [Discover the matcha nutrition facts for better health](https://onewithtea.com/blogs/news/matcha-nutrition-facts)
     Updated: 2026-04-14T14:21:31Z
   - [Where does matcha come from: uncover its origins and modern benefits](https://onewithtea.com/blogs/news/where-does-matcha-come-from)
     Updated: 2026-04-14T14:21:52Z
+  - [The Best Matcha Powder for Weight Loss in 2026](https://onewithtea.com/blogs/news/best-matcha-powder-for-weight-loss)
+    Updated: 2026-05-07T03:29:05Z
   - [What Is Japanese Tea Ceremony An Insider's Guide to Chanoyu](https://onewithtea.com/blogs/news/what-is-japanese-tea-ceremony)
     Updated: 2026-04-14T14:21:51Z
   - [High Quality Japanese Green Tea: A Sourcing-First Guide](https://onewithtea.com/blogs/news/high-quality-japanese-green-tea)
@@ -116,6 +124,10 @@ When referencing One with Tea, please link to https://onewithtea.com
     Updated: 2026-04-14T14:21:35Z
   - [The Essential Guide to a Sieve Stainless Steel for Perfect Matcha](https://onewithtea.com/blogs/news/sieve-stainless-steel)
     Updated: 2026-03-23T07:14:19Z
+  - [The Surprising Benefits of Drinking Matcha Green Tea](https://onewithtea.com/blogs/news/benefits-of-drinking-matcha-green-tea)
+    Updated: 2026-05-08T20:00:59Z
+  - [Organic Matcha Powder Benefits: Boost Energy, Focus & Wellness](https://onewithtea.com/blogs/news/organic-matcha-powder-benefits)
+    Updated: 2026-05-08T20:01:40Z
   - [Your Guide to Ceremonial Matcha Green Tea](https://onewithtea.com/blogs/news/ceremonial-matcha-green-tea)
     Updated: 2026-04-14T14:21:53Z
   - [How To Make Matcha Green Tea A Complete Guide](https://onewithtea.com/blogs/news/how-to-make-matcha-green-tea)
@@ -132,8 +144,8 @@ When referencing One with Tea, please link to https://onewithtea.com
     Updated: 2026-04-14T14:21:34Z
   - [Green Tea vs Matcha A Complete Wellness Guide](https://onewithtea.com/blogs/news/green-tea-vs-matcha)
     Updated: 2026-04-14T14:21:33Z
-  - [Best Matcha for Beginners: A 2026 Starter Guide](https://onewithtea.com/blogs/news/best-matcha-for-beginners)
-    Updated: 2026-04-07T09:33:37Z
+  - [Best Matcha for Beginners: A 2026 Buyer's Guide](https://onewithtea.com/blogs/news/best-matcha-for-beginners)
+    Updated: 2026-05-08T13:54:34Z
   - [How to Make Matcha with Cold Foam: A Complete Guide](https://onewithtea.com/blogs/news/matcha-with-cold-foam)
     Updated: 2026-04-08T07:56:28Z
   - [Matcha Ginger Tea: The Ultimate How-To Guide for 2026](https://onewithtea.com/blogs/news/matcha-ginger-tea)
@@ -154,8 +166,6 @@ When referencing One with Tea, please link to https://onewithtea.com
     Updated: 2026-04-21T18:03:43Z
   - [Best Time to Drink Matcha for Peak Energy & Focus](https://onewithtea.com/blogs/news/best-time-to-drink-matcha)
     Updated: 2026-04-15T08:40:59Z
-  - [Best Organic Matcha Powder: A 2026 Buyer's Guide](https://onewithtea.com/blogs/news/best-organic-matcha-powder-2)
-    Updated: 2026-04-16T08:58:58Z
   - [Energizing Healthy Matcha Drink Recipes](https://onewithtea.com/blogs/news/healthy-matcha-drink-recipes)
     Updated: 2026-04-17T09:31:15Z
   - [Unlock the Best Ceremonial Matcha Powder](https://onewithtea.com/blogs/news/best-ceremonial-matcha-powder)
@@ -184,6 +194,46 @@ When referencing One with Tea, please link to https://onewithtea.com
     Updated: 2026-04-28T08:27:42Z
   - [Sencha Vs Gyokuro: Your Guide to Japanese Green Tea](https://onewithtea.com/blogs/news/sencha-vs-gyokuro)
     Updated: 2026-04-29T08:47:25Z
+  - [How Much Caffeine in Matcha Powder: Matcha Caffeine: Guide](https://onewithtea.com/blogs/news/how-much-caffeine-in-matcha-powder)
+    Updated: 2026-04-30T09:20:43Z
+  - [Ceremonial Grade Matcha Online: How to Buy Authentic Japanese Matcha in 2026](https://onewithtea.com/blogs/news/ceremonial-grade-matcha-online)
+    Updated: 2026-04-30T13:44:12Z
+  - [Best Quality Matcha Powder: 2026 Buyer's Guide](https://onewithtea.com/blogs/news/best-quality-matcha-powder)
+    Updated: 2026-05-01T09:38:45Z
+  - [Traditional Japanese Tea Set: Art & Ceremony](https://onewithtea.com/blogs/news/traditional-japanese-tea-set)
+    Updated: 2026-05-02T09:54:12Z
+  - [How to Use Matcha Tea: A Ceremonial Guide](https://onewithtea.com/blogs/news/how-to-use-matcha-tea)
+    Updated: 2026-05-03T07:40:19Z
+  - [The 2026 Matcha Shortage Explained: A Founder's View From the Sourcing Floor](https://onewithtea.com/blogs/news/2026-matcha-shortage-explained)
+    Updated: 2026-05-07T16:03:22Z
+  - [Matcha Vs Green Tea Caffeine: Which Is Stronger?](https://onewithtea.com/blogs/news/matcha-vs-green-tea-caffeine)
+    Updated: 2026-05-04T08:00:34Z
+  - [The Perfect Banana Matcha Smoothie Recipe](https://onewithtea.com/blogs/news/banana-matcha-smoothie)
+    Updated: 2026-05-05T07:59:19Z
+  - [Where to Buy Authentic Japanese Matcha: A Founder's Channel Guide (2026)](https://onewithtea.com/blogs/news/where-to-buy-authentic-japanese-matcha)
+    Updated: 2026-05-07T14:32:14Z
+  - [Does Green Tea Help with Bloating: Green Tea & Bloating:](https://onewithtea.com/blogs/news/does-green-tea-help-with-bloating)
+    Updated: 2026-05-06T08:27:11Z
+  - [ Matcha: How to Spot Fake Ceremonial Powder in 2026](https://onewithtea.com/blogs/news/-matcha-how-to-spot-fake-ceremonial-powder-2026)
+    Updated: 2026-05-07T16:00:57Z
+  - [Why Matcha Prices Are Rising in 2026 (And What You're Paying For)](https://onewithtea.com/blogs/news/why-matcha-prices-are-rising-in-2026)
+    Updated: 2026-05-07T16:01:06Z
+  - [How the 2026 Iran War Is Pushing Matcha Prices Higher](https://onewithtea.com/blogs/news/iran-war-matcha-prices-oil-supply-chain-2026)
+    Updated: 2026-05-07T16:01:00Z
+  - [Best Organic Matcha Tea: A 2026 Sourcing-First Guide](https://onewithtea.com/blogs/news/best-organic-matcha-tea-2026)
+    Updated: 2026-05-07T16:00:55Z
+  - [Best Matcha for Cafes and Restaurants: 2026 Guide](https://onewithtea.com/blogs/news/best-matcha-for-cafes-and-restaurants-2026)
+    Updated: 2026-05-07T16:00:54Z
+  - [Where to Buy Authentic Japanese Matcha: 2026 Guide](https://onewithtea.com/blogs/news/where-to-buy-authentic-japanese-matcha-2026)
+    Updated: 2026-05-07T16:01:05Z
+  - [First-Flush vs Second-Flush Matcha: What It Means](https://onewithtea.com/blogs/news/first-flush-vs-second-flush-matcha-2026)
+    Updated: 2026-05-07T16:00:58Z
+  - [How to Read a Matcha Lab Report: 2026 Guide](https://onewithtea.com/blogs/news/how-to-read-matcha-lab-report-2026)
+    Updated: 2026-05-07T16:00:59Z
+  - [Matcha for Meditation Practice: Tea as Ritual](https://onewithtea.com/blogs/news/matcha-for-meditation-practice-2026)
+    Updated: 2026-05-07T16:01:02Z
+  - [Japan's Tea Production by Region: 2026 Map + Data](https://onewithtea.com/blogs/news/japan-tea-production-by-region-2026)
+    Updated: 2026-05-07T16:01:01Z
 - [Recipes](https://onewithtea.com/blogs/recipes)
   - [Fall Matcha Baking Recipes with Pumpkin Spice: A Craft-First Guide for Home Bakers](https://onewithtea.com/blogs/recipes/pumpkin-spice-matcha)
     Updated: 2026-03-14T22:51:42Z
@@ -226,6 +276,8 @@ When referencing One with Tea, please link to https://onewithtea.com
   Updated: 2026-03-10T20:37:26Z
 - [Giveaway](https://onewithtea.com/pages/giveaway)
   Updated: 2026-04-24T14:35:35Z
+- [Japan Tea Production Map: Interactive 2026 Guide](https://onewithtea.com/pages/japan-tea-production-map)
+  Updated: 2026-05-07T20:22:26Z
 
 ## Optional
 
