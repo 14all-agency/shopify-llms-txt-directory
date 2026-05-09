@@ -24,7 +24,7 @@ Come explore, I think you’ll find something you love 👀👠💗
 - Contact Email: support@carrielachance.com
 - Contact Phone: 1-601-207-0532
 - Address: 2701 Little Elm Pkwy, STE 100-478 Little Elm, TX 75068
-- Updated At: 2026-05-02T16:00:30.582Z
+- Updated At: 2026-05-09T20:00:31.063Z
 
 This site is the official online home of Carrie LaChance, model, creator, and entrepreneur with over 20 years of experience in glamour, pin-up, and high heel photography. Everything you see here is created, curated, and owned by Carrie, featuring exclusive content that cannot be found anywhere else.
 
@@ -2351,7 +2351,7 @@ File Size: 5 MB
 - Total Images: 19 Photos
 - Year: 2014
 - File Size: 6 MB
-  Updated: 2026-04-26T20:05:38Z
+  Updated: 2026-05-05T03:04:27Z
   Vendor: Carrie LaChance
   Product Type: Photo Downloads
   Availability: Available
@@ -2387,7 +2387,7 @@ Carrie LaChance - Gallery #156 🔞
 Total Images: 41 Photos
 Year: 2014
 File Size: 8 MB
-  Updated: 2026-04-26T20:05:38Z
+  Updated: 2026-05-05T02:59:57Z
   Vendor: Carrie LaChance
   Product Type: Photo Downloads
   Availability: Available
@@ -3056,7 +3056,7 @@ Carrie LaChance - Gallery #182 🔞
 Total Images: 45 Photos
 Year: 2015
 File Size: 17 MB
-  Updated: 2026-04-30T14:09:07Z
+  Updated: 2026-05-05T17:57:07Z
   Vendor: Carrie LaChance
   Product Type: Photo Downloads
   Availability: Available
@@ -4447,7 +4447,7 @@ Carrie LaChance – Gallery #243 🔞
 Total Images: 69 Photos
 Year: 2016
 File Size: 46 MB
-  Updated: 2026-04-26T20:06:14Z
+  Updated: 2026-05-06T19:53:54Z
   Vendor: Carrie LaChance
   Product Type: Photo Downloads
   Availability: Available
@@ -6085,7 +6085,7 @@ Bedroom Eyes Video 🔞
 Run Time: 2 min
 Year: 2019
 File Size: 291 MB
-  Updated: 2026-04-26T20:06:49Z
+  Updated: 2026-05-05T02:48:18Z
   Vendor: Carrie LaChance
   Product Type: Video Downloads
   Availability: Available
@@ -7032,34 +7032,34 @@ Actual prints are not censored.
   Updated: 2026-04-26T20:17:44Z
   Total Products: 31
 - [Photo Collection](https://www.carrielachance.com/collections/photos): Step into my Photo Shoot Collection, featuring over 20 years of my most iconic shoots. From lingerie and glossy pantyhose to classic risqué pinup looks, it’s all about heels, confidence, and glamour. Every set is bundled with all photos included, just as it was captured.
-  Updated: 2026-05-01T11:12:48Z
+  Updated: 2026-05-06T11:14:01Z
   Total Products: 330
 - [Video Collection](https://www.carrielachance.com/collections/videos): Explore my Video Collection, featuring over 20 years of professionally shot content. From high heel glamour and lingerie to glossy pantyhose and classic risqué moments, these videos capture my signature style in motion. Each one is a polished, cinematic look at some of my most unforgettable shoots.
-  Updated: 2026-05-01T11:12:48Z
+  Updated: 2026-05-05T11:13:01Z
   Total Products: 194
 - [Carrie Cam Collection](https://www.carrielachance.com/collections/carrie-cam): Step into my Carrie Cam Collection, where you get a glimpse into my real, everyday life. From grabbing lunch and driving around to little moments at home, these photos and videos are candid, unfiltered, and personal, giving you a closer look at me beyond the shoots.
   Updated: 2026-04-26T20:17:44Z
   Total Products: 40
 - [Cosplay Collection](https://www.carrielachance.com/collections/cosplay): Step into my Cosplay Collection, filled with all my favorite character-inspired shoots and playful costumes. From flirty and fun to bold and daring, each look lets me step into a different fantasy while still keeping my signature heels and style front and center.
-  Updated: 2026-04-26T20:17:44Z
+  Updated: 2026-05-06T11:14:01Z
   Total Products: 80
 - [Latex Collection](https://www.carrielachance.com/collections/latex): Explore my Latex Collection, where every shoot is all about that ultra-shiny, second-skin look I love. From bold outfits to high-gloss finishes, these sets are sleek, edgy, and full of energy. If you love that striking latex shine paired with my signature heels and attitude, this collection is for you.
-  Updated: 2026-05-01T11:12:48Z
+  Updated: 2026-05-05T11:13:01Z
   Total Products: 158
 - [Lingerie Collection](https://www.carrielachance.com/collections/lingerie): Step into my Lingerie Collection, featuring all of my favorite shoots in stunning, sexy sets. From delicate and flirty to bold and seductive, every look highlights my love for heels, confidence, and timeless glamour.
-  Updated: 2026-04-26T20:17:44Z
+  Updated: 2026-05-05T11:13:01Z
   Total Products: 165
 - [Pantyhose Collection](https://www.carrielachance.com/collections/pantyhose): Step into my Pantyhose Collection, featuring all of my favorite shoots in silky, sheer pantyhose. From glossy, ultra-smooth finishes to timeless styling, every look highlights my love for legs, heels, and that signature shine that makes each set so irresistible.
-  Updated: 2026-05-01T11:12:48Z
+  Updated: 2026-05-06T11:14:01Z
   Total Products: 107
 - [Nude Collection](https://www.carrielachance.com/collections/nude): Step into my Artistic Nudes Collection, featuring some of my most revealing and tastefully risqué shoots. These images celebrate confidence, form, and elegance, blending sensuality with a more refined, artistic edge.
-  Updated: 2026-05-01T11:12:48Z
+  Updated: 2026-05-06T11:14:01Z
   Total Products: 256
 - [Leather Collection](https://www.carrielachance.com/collections/leather): Step into my Leather Collection, featuring all of my shoots in bold, edgy leather looks. From sleek and fitted styles to daring statement pieces, every set brings out a powerful, confident side of me with my signature heels and attitude leading the way.
-  Updated: 2026-04-26T20:17:44Z
+  Updated: 2026-05-05T11:13:01Z
   Total Products: 38
 - [Public Collection](https://www.carrielachance.com/collections/public): Step into my Public Collection, featuring some of my most daring shoots captured out in real-world settings. From spontaneous moments to bold, eye-catching looks, these sets bring my signature heels, confidence, and style beyond the studio and into the spotlight.
-  Updated: 2026-05-01T11:12:48Z
+  Updated: 2026-05-06T11:14:01Z
   Total Products: 264
 
 ## Blogs
@@ -7262,6 +7262,52 @@ Actual prints are not censored.
     Updated: 2026-05-02T08:01:11Z
     Author: Carrie LaChance
     Tags: beauty tips, behind the scense, carrie lachance, fashion, glamour, glamour model, heels, high heels, latex model, life of a model, lifestyle blog, model, modeling experiences, outfit of the day, pantyhose, pinup model, sexy model, stilettos
+  - [7 Proven Steps to Make Money as a Sexy Content Creator](https://www.carrielachance.com/blogs/carrie-lachance/7-proven-steps-to-make-money-as-a-sexy-content-creator): 7 Proven Steps to Make Money as a Sexy Content Creator
+    Updated: 2026-05-03T10:00:35Z
+    Author: Carrie LaChance
+  - [Lights Camera High Heels: The Secret to Perfecting Glamour Poses](https://www.carrielachance.com/blogs/carrie-lachance/lights-camera-high-heels-the-secret-to-perfecting-glamour-poses): Lights Camera High Heels: The Secret to Perfecting Glamour Poses
+    Updated: 2026-05-04T00:08:00Z
+    Author: Carrie LaChance
+    Tags: glamour, glamour model, high heels, how to be a model, how to be a model online, how to get into modeling, how to pose for photo shoot, how to pose like a model, modeling, modeling tips, perfect poses, photography, photoshoot, poses, posing techniques, posing tips, secrets to posing better, social media model, taking good selfies, tips for modeling
+  - [Latex Glitz Inside My Fascinating World as a Sexy Pinup Model in Heels Pantyhose and Glamour](https://www.carrielachance.com/blogs/carrie-lachance/latex-glitz-inside-my-fascinating-world-as-a-sexy-pinup-model-in-heels-pantyhose-and-glamour): Latex Glitz Inside My Fascinating World as a Sexy Pinup Model in Heels Pantyhose and Glamour
+    Updated: 2026-05-05T08:01:20Z
+    Author: Carrie LaChance
+    Tags: behind the scense, carrie lachance, glamour, glamour model, heels, high heels, latex, latex fashion photography, latex model, life of a model, outfit of the day, pantyhose, pantyhose fashion, pinup, pinup model, pinup modeling tips, sexy model, stilettos
+  - [Flaunt Your Femininity: Expert Modeling Tips for Seductive Selfies](https://www.carrielachance.com/blogs/carrie-lachance/flaunt-your-femininity-expert-modeling-tips-for-seductive-selfies): Flaunt Your Femininity: Expert Modeling Tips for Seductive Selfies
+    Updated: 2026-05-06T00:09:19Z
+    Author: Carrie LaChance
+    Tags: beauty, expert modeling advice, feminine allure, glamour model, high heels, how to be a model, how to be a model online, how to get into modeling, how to pose for photo shoot, modeling, modeling tips, photo tips, photography, photoshoot, posing techniques, posing tips, seductive photography tips, selfies, social media model, taking good selfies
+  - [10 Secrets to Making Money as a Sexy Content Creator](https://www.carrielachance.com/blogs/carrie-lachance/10-secrets-to-making-money-as-a-sexy-content-creator): 10 Secrets to Making Money as a Sexy Content Creator
+    Updated: 2026-05-06T19:20:54Z
+    Author: Carrie LaChance
+  - [Unlocking the Psychology of High Heels: Why Stilettos Make Men Swoon 👠✨](https://www.carrielachance.com/blogs/carrie-lachance/unlocking-the-psychology-of-high-heels-why-stilettos-make-men-swoon-👠✨): Unlocking the Psychology of High Heels: Why Stilettos Make Men Swoon 👠✨
+    Updated: 2026-05-06T19:59:44Z
+    Author: Carrie LaChance
+    Tags: attraction, effects of high heels, fashion psychology, feminine allure, heels, high heels, psychology, psychology of high heels, stilettos and confidence, why men love women in heels
+  - [Unlock the Secrets: Glamorous Dating Advice for the Modern Man](https://www.carrielachance.com/blogs/carrie-lachance/unlock-the-secrets-glamorous-dating-advice-for-the-modern-man): Unlock the Secrets: Glamorous Dating Advice for the Modern Man
+    Updated: 2026-05-06T20:26:19Z
+    Author: Carrie LaChance
+    Tags: advice, confidence, dating, dating advice, dating advice for men, dating tips, glamorous dating secrets, how to find a high heel girl, how to find right girl, modern dating, relationship guidance
+  - [Unveiling the Allure Why Nylons Add Magic to Glossy Legs ✨💋](https://www.carrielachance.com/blogs/carrie-lachance/unveiling-the-allure-why-nylons-add-magic-to-glossy-legs-✨💋): Unveiling the Allure Why Nylons Add Magic to Glossy Legs ✨💋
+    Updated: 2026-05-06T22:16:32Z
+    Author: Carrie LaChance
+    Tags: alluring legs, benefits of pantyhose, glossy pantyhose, how to wear nylons, legs, nylons, pantyhose, shiny nylons
+  - [Velvet Evenings and Lingerie: A Seductive Diary of Glamour 😘✨](https://www.carrielachance.com/blogs/carrie-lachance/velvet-evenings-and-lingerie-a-seductive-diary-of-glamour-stories-😘✨)
+    Updated: 2026-05-06T22:46:36Z
+    Author: Carrie LaChance
+    Tags:  diary,  tales, glamour, glamour stories, intimate diaries, luxurious evenings, seduction, seductive narrative experiences, seductive stories, storytelling, velvet glamour stories
+  - [When Glamour Meets Psychology: The Allure of High Heels 💋💃](https://www.carrielachance.com/blogs/carrie-lachance/when-glamour-meets-psychology-the-allure-of-high-heels-💋💃): When Glamour Meets Psychology: The Allure of High Heels 💋💃
+    Updated: 2026-05-07T01:11:00Z
+    Author: Carrie LaChance
+    Tags: allure, attraction theory, foot fashion, heels, heels and self-confidence, high heels, impact of high heels, psychology, psychology of high heels, why men love women in heels
+  - [Captivating Charisma: How to Find the Right Girl with Carrie LaChance's Feminine Touch](https://www.carrielachance.com/blogs/carrie-lachance/captivating-charisma-how-to-find-the-right-girl-with-carrie-lachances-feminine-touch): Captivating Charisma: How to Find the Right Girl with Carrie LaChance's Feminine Touch
+    Updated: 2026-05-08T00:08:50Z
+    Author: Carrie LaChance
+    Tags: advice, attract the right girl, charisma, dating, dating advice, dating secrets for men, find love, how to find a high heel girl, how to find right girl, men's dating, relationship tips
+  - [Embrace Elegance The Feminine Touch of Pantyhose and Glossy Legs 👠🖤](https://www.carrielachance.com/blogs/carrie-lachance/embrace-elegance-the-feminine-touch-of-pantyhose-and-glossy-legs-👠): Embrace Elegance The Feminine Touch of Pantyhose and Glossy Legs 👠🖤
+    Updated: 2026-05-09T00:04:49Z
+    Author: Carrie LaChance
+    Tags: benefits of glossy legs, elegance, feminine fashion, glossy legs, how to wear pantyhose, nylons, pantyhose, stylish legwear
 
 ## Store Pages
 
