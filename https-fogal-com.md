@@ -6,29 +6,29 @@
 - Timezone: Europe/Paris
 - Created At: 2023-05-11T08:26:30Z
 - Contact Email: customer-service@fogal.com
-- Updated At: 2026-04-30T09:14:38.254Z
+- Updated At: 2026-05-09T00:00:24.167Z
 
 ## Products
 
-- [Derby Ankle Socks 50D - Open-knit, Cotton blend - FOGAL](https://fogal.com/products/derby-socks): Shop Derby Socks by Fogal. Derby Socks lay a versatile foundation right at your feet. Crafted in Italy in an open-knit style, these socks offer a glove-like fit with a cotton-blend knit, reinforced toes, and soft borders for maximum comfort.
-  Updated: 2026-04-24T09:41:57Z
+- [Derby Ankle Socks 50D - Open-knit, Cotton blend - FOGAL](https://fogal.com/products/derby-ankle-socks): Stylish Derby ankle socks, featuring open-knit design in a comfortable cotton blend material.
+  Updated: 2026-05-02T15:54:54Z
   Vendor: Fogal
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-derby-socks-20322white-sm-7983651.jpg?v=1775123260
-  - [S-M / White](https://fogal.com/products/derby-socks?variant=49317410734426)
+  - [S-M / White](https://fogal.com/products/derby-ankle-socks?variant=49317410734426)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-derby-socks-20322white-sm-7228730.jpg?v=1775123261
     Price: €31.00 EUR
-  - [S-M / Black](https://fogal.com/products/derby-socks?variant=49247404818778)
+  - [S-M / Black](https://fogal.com/products/derby-ankle-socks?variant=49247404818778)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-derby-socks-20322masca-sm-2782465.jpg?v=1775123295
     Price: €31.00 EUR
-  - [L / White](https://fogal.com/products/derby-socks?variant=49317410701658)
+  - [L / White](https://fogal.com/products/derby-ankle-socks?variant=49317410701658)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-derby-socks-20322white-sm-7228730.jpg?v=1775123261
     Price: €31.00 EUR
-  - [L / Black](https://fogal.com/products/derby-socks?variant=49317410668890)
+  - [L / Black](https://fogal.com/products/derby-ankle-socks?variant=49317410668890)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-derby-socks-20322masca-sm-2782465.jpg?v=1775123295
     Price: €31.00 EUR
@@ -77,7 +77,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-zadig-voltaire-wadim-activewear-leggings-603212100-xs-s-1397916.jpg?v=1775123238
     Price: €81.00 EUR
 - [Zadig & Voltaire Wanda Bodysuit Seamless, Sculpting - FOGAL](https://fogal.com/products/zadig-voltaire-wanda-bodysuit): Fogal x Zadig & Voltaire Wanda Bodysuit: Sleek, sculpting design with Q-NOVA® sustainable yarn for a seamless second-skin fit.
-  Updated: 2026-04-30T08:57:23Z
+  Updated: 2026-04-30T20:57:40Z
   Vendor: Fogal
   Product Type: Body activewear
   Availability: Available
@@ -133,7 +133,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-anouk-activewear-jumpsuit-60545masca-s-4694829.jpg?v=1775123304
     Price: €100.00 EUR
 - [All Nude Tights 10D - Ultra-sheer, skin tones - FOGAL](https://fogal.com/products/all-nude-tights): Elevate your legs with these ultra sheer All Nude Tights. Ideal for a polished, barely-there look in warmer seasons. 10 denier for a silky feel.
-  Updated: 2026-04-30T06:54:44Z
+  Updated: 2026-05-08T05:52:04Z
   Vendor: Fogal
   Product Type: Tights
   Availability: Available
@@ -251,7 +251,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-all-nude-tights-10400black-s-4323438.jpg?v=1775123213
     Price: €40.00 EUR
 - [Catwalk Tights 15D - Ultra-sheer, Matte, Natural look - FOGAL](https://fogal.com/products/catwalk-tights): Experience pure elegance with Fogal Catwalk Tights - ultra-sheer luxury 15D matte finish hosiery, flawless fit for special occasions.
-  Updated: 2026-04-30T06:49:58Z
+  Updated: 2026-05-08T05:52:07Z
   Vendor: Fogal
   Product Type: Tights
   Availability: Available
@@ -385,7 +385,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-catwalk-tights-10140black-s-5548573.jpg?v=1776182791
     Price: €40.00 EUR
 - [Caresse Tights 20D - Sheer, matte, silky touch - FOGAL](https://fogal.com/products/caresse-tights): Experience the silky touch and elegant matte finish of Fogal Caresse Tights. These sheer 20 denier tights offer comfort and resilience all day long.
-  Updated: 2026-04-30T05:37:07Z
+  Updated: 2026-05-07T21:27:56Z
   Vendor: Fogal
   Product Type: Tights
   Availability: Available
@@ -583,7 +583,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-caresse-tights-10115black-s-8471776.jpg?v=1775123234
     Price: €40.00 EUR
 - [Flair Tights 40D - Semi-opaque, matte, light support - FOGAL](https://fogal.com/products/flair-tights): Fogal Flair Tights offer elegance with comfort. Semi-opaque 40D with matte finish and light support for all-day wear.
-  Updated: 2026-04-29T10:37:23Z
+  Updated: 2026-05-06T03:33:16Z
   Vendor: Fogal
   Product Type: Tights
   Availability: Available
@@ -649,7 +649,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-flair-tights-10500black-s-6393656.jpg?v=1775123204
     Price: €40.00 EUR
 - [Velour Opaque Tights 60D – Velvet-Soft, Matte - FOGAL](https://fogal.com/products/velour-opaque-tights): Elevate your style with Fogal Velour Opaque Tights. Luxurious velvet-soft feel, ideal for cooler days & polished workwear. 60 Denier for a smooth matte finish.
-  Updated: 2026-04-28T01:40:55Z
+  Updated: 2026-05-06T03:33:16Z
   Vendor: Fogal
   Product Type: Tights
   Availability: Available
@@ -789,7 +789,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-noir-absolu-tights-10570black-s-7435516.jpg?v=1775123203
     Price: €48.00 EUR
 - [Pois Tights 15D – Sheer Diamond & Polka Dot - FOGAL](https://fogal.com/products/pois-tights): Elevate your outfit with these 15 denier sheer Pois Tights featuring an attractive dot pattern for a touch of elegance. Crafted for style and comfort.
-  Updated: 2026-04-29T00:35:53Z
+  Updated: 2026-05-08T12:25:07Z
   Vendor: Fogal
   Product Type: Tights
   Availability: Available
@@ -874,8 +874,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-pois-tights-10192black-s-3739119.jpg?v=1775123215
     Price: €48.00 EUR
-- [Netlace Tights (Special Offer) - FOGAL](https://fogal.com/products/netlace-tights-special-offer): Shop Netlace Tights (Special Offer) by Fogal. Indulge in the luxurious feel of Netlace fishnet tights, meticulously knitted with a fine mesh to exude perfect elegance. These soft and cozy tights are designed for those who seek both style and comfort, making them an essential addition to your wardrobe.
-  Updated: 2026-04-26T09:56:56Z
+- [Netlace Tights 20D - Fishnet (Special Offer) - FOGAL](https://fogal.com/products/netlace-tights-special-offer): Elevate your style with Fogal Netlace Tights. Modern fishnet design meets soft sophistication for a refined, comfortable finish.
+  Updated: 2026-05-08T16:00:46Z
   Vendor: Fogal
   Product Type: Tights
   Availability: Available
@@ -929,7 +929,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-netlace-tights-special-offer-1202100-s-2866959.jpg?v=1775123208
     Price: €20.00 EUR
 - [Catwalk Couture Tights 15D - Ultra-sheer, Back Seam - FOGAL](https://fogal.com/products/catwalk-couture-tights): Elegant and alluring, Catwalk Couture tights feature a subtle decorative seam along the back. With 15 denier ultra-sheer design.
-  Updated: 2026-04-30T06:41:45Z
+  Updated: 2026-05-07T18:59:16Z
   Vendor: Fogal
   Product Type: Tights
   Availability: Available
@@ -988,8 +988,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-goldenline-tights-10139black-s-8970424.jpg?v=1775123201
     Price: €115.00 EUR
-- [Cocoon Tights 80D - Cotton blend, smooth feel - FOGAL](https://fogal.com/products/cocoon-tights): Stay warm and stylish in Fogal Cocoon Tights, plain 80 denier tights in a rich cotton blend for everyday comfort and elegance.
-  Updated: 2026-04-28T09:52:57Z
+- [Cocoon Tights 80D - Cotton blend, Smooth feel - FOGAL](https://fogal.com/products/cocoon-tights): Stay warm and stylish in Fogal Cocoon Tights, plain 80 denier tights in a rich cotton blend for everyday comfort and elegance.
+  Updated: 2026-05-02T01:10:48Z
   Vendor: Fogal
   Product Type: Tights
   Availability: Available
@@ -998,7 +998,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-cocoon-tights-special-offer-10520natur-s-8835962.jpg?v=1775123064
     Price: €67.00 EUR
-  - [S / Pearl](https://fogal.com/products/cocoon-tights?variant=49317409489242)
+  - [S / Pearl Grey](https://fogal.com/products/cocoon-tights?variant=49317409489242)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-cocoon-tights-10520pearl-s-5419681.jpg?v=1775123208
     Price: €67.00 EUR
@@ -1014,7 +1014,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-cocoon-tights-special-offer-10520natur-s-8835962.jpg?v=1775123064
     Price: €67.00 EUR
-  - [M / Pearl](https://fogal.com/products/cocoon-tights?variant=49317409456474)
+  - [M / Pearl Grey](https://fogal.com/products/cocoon-tights?variant=49317409456474)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-cocoon-tights-10520pearl-s-5419681.jpg?v=1775123208
     Price: €67.00 EUR
@@ -1030,7 +1030,7 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-cocoon-tights-special-offer-10520natur-s-8835962.jpg?v=1775123064
     Price: €67.00 EUR
-  - [L / Pearl](https://fogal.com/products/cocoon-tights?variant=49317409423706)
+  - [L / Pearl Grey](https://fogal.com/products/cocoon-tights?variant=49317409423706)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-cocoon-tights-10520pearl-s-5419681.jpg?v=1775123208
     Price: €67.00 EUR
@@ -1152,94 +1152,94 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-cashmere-tights-10525black-s-6889996.jpg?v=1775123191
     Price: €220.00 EUR
-- [Meredith Compression Tights - Class I - FOGAL](https://fogal.com/products/meredith-compression-tights-class-i): Shop Meredith Compression Tights - Class I by Fogal x Sigvaris. Fogal by Sigvaris Group compression tights, designed to keep your legs light, healthy, and stylish. These semi-opaque 60 denier tights are the perfect choice for jobs requiring long periods of standing, as well as for traveling.
-  Updated: 2026-04-29T14:55:10Z
+- [Meredith Compression Tights 60D Class 1 - Energizing- FOGAL](https://fogal.com/products/meredith-compression-tights): Elegant Fogal Meredith Compression Tights provide all-day comfort and energizing Class I compression, perfect for long days on your feet.
+  Updated: 2026-04-30T22:18:56Z
   Vendor: Fogal x Sigvaris
   Product Type: Tights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-x-sigvaris-meredith-compression-tights-class-i-10100cigar-s-7500779.jpg?v=1775123188
-  - [S / Cigar (Espresso)](https://fogal.com/products/meredith-compression-tights-class-i?variant=49317419090266)
+  - [S / Cigar (Espresso)](https://fogal.com/products/meredith-compression-tights?variant=49317419090266)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-x-sigvaris-meredith-compression-tights-class-i-10100cigar-s-7500779.jpg?v=1775123188
     Price: €57.50 EUR
-  - [S / Dark Grey (Carbone)](https://fogal.com/products/meredith-compression-tights-class-i?variant=49317419221338)
+  - [S / Dark Grey (Carbone)](https://fogal.com/products/meredith-compression-tights?variant=49317419221338)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-x-sigvaris-meredith-compression-tights-class-i-10100gris-s-6356440.jpg?v=1775123190
     Price: €57.50 EUR
-  - [S / Midnight](https://fogal.com/products/meredith-compression-tights-class-i?variant=49317419352410)
+  - [S / Midnight](https://fogal.com/products/meredith-compression-tights?variant=49317419352410)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-x-sigvaris-meredith-compression-tights-class-i-10100midni-s-2936192.jpg?v=1775123189
     Price: €57.50 EUR
-  - [S / Black Tulipe (Dark Plum)](https://fogal.com/products/meredith-compression-tights-class-i?variant=52759313318234)
+  - [S / Black Tulipe (Dark Plum)](https://fogal.com/products/meredith-compression-tights?variant=52759313318234)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-x-sigvaris-meredith-compression-tights-class-i-10100tulno-s-6327630.jpg?v=1775123189
     Price: €57.50 EUR
-  - [S / Black](https://fogal.com/products/meredith-compression-tights-class-i?variant=46778719502682)
+  - [S / Black](https://fogal.com/products/meredith-compression-tights?variant=46778719502682)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-x-sigvaris-meredith-compression-tights-class-i-10100black-s-1183961.jpg?v=1775123190
     Price: €57.50 EUR
-  - [M / Cigar (Espresso)](https://fogal.com/products/meredith-compression-tights-class-i?variant=49317419057498)
+  - [M / Cigar (Espresso)](https://fogal.com/products/meredith-compression-tights?variant=49317419057498)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-x-sigvaris-meredith-compression-tights-class-i-10100cigar-s-7500779.jpg?v=1775123188
     Price: €57.50 EUR
-  - [M / Dark Grey (Carbone)](https://fogal.com/products/meredith-compression-tights-class-i?variant=49317419188570)
+  - [M / Dark Grey (Carbone)](https://fogal.com/products/meredith-compression-tights?variant=49317419188570)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-x-sigvaris-meredith-compression-tights-class-i-10100gris-s-6356440.jpg?v=1775123190
     Price: €57.50 EUR
-  - [M / Midnight](https://fogal.com/products/meredith-compression-tights-class-i?variant=49317419319642)
+  - [M / Midnight](https://fogal.com/products/meredith-compression-tights?variant=49317419319642)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-x-sigvaris-meredith-compression-tights-class-i-10100midni-s-2936192.jpg?v=1775123189
     Price: €57.50 EUR
-  - [M / Black Tulipe (Dark Plum)](https://fogal.com/products/meredith-compression-tights-class-i?variant=52759313351002)
+  - [M / Black Tulipe (Dark Plum)](https://fogal.com/products/meredith-compression-tights?variant=52759313351002)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-x-sigvaris-meredith-compression-tights-class-i-10100tulno-s-6327630.jpg?v=1775123189
     Price: €57.50 EUR
-  - [M / Black](https://fogal.com/products/meredith-compression-tights-class-i?variant=49317418959194)
+  - [M / Black](https://fogal.com/products/meredith-compression-tights?variant=49317418959194)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-x-sigvaris-meredith-compression-tights-class-i-10100black-s-1183961.jpg?v=1775123190
     Price: €57.50 EUR
-  - [L / Cigar (Espresso)](https://fogal.com/products/meredith-compression-tights-class-i?variant=49317419024730)
+  - [L / Cigar (Espresso)](https://fogal.com/products/meredith-compression-tights?variant=49317419024730)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-x-sigvaris-meredith-compression-tights-class-i-10100cigar-s-7500779.jpg?v=1775123188
     Price: €57.50 EUR
-  - [L / Dark Grey (Carbone)](https://fogal.com/products/meredith-compression-tights-class-i?variant=49317419155802)
+  - [L / Dark Grey (Carbone)](https://fogal.com/products/meredith-compression-tights?variant=49317419155802)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-x-sigvaris-meredith-compression-tights-class-i-10100gris-s-6356440.jpg?v=1775123190
     Price: €57.50 EUR
-  - [L / Midnight](https://fogal.com/products/meredith-compression-tights-class-i?variant=49317419286874)
+  - [L / Midnight](https://fogal.com/products/meredith-compression-tights?variant=49317419286874)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-x-sigvaris-meredith-compression-tights-class-i-10100midni-s-2936192.jpg?v=1775123189
     Price: €57.50 EUR
-  - [L / Black Tulipe (Dark Plum)](https://fogal.com/products/meredith-compression-tights-class-i?variant=52759313383770)
+  - [L / Black Tulipe (Dark Plum)](https://fogal.com/products/meredith-compression-tights?variant=52759313383770)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-x-sigvaris-meredith-compression-tights-class-i-10100tulno-s-6327630.jpg?v=1775123189
     Price: €57.50 EUR
-  - [L / Black](https://fogal.com/products/meredith-compression-tights-class-i?variant=49317418926426)
+  - [L / Black](https://fogal.com/products/meredith-compression-tights?variant=49317418926426)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-x-sigvaris-meredith-compression-tights-class-i-10100black-s-1183961.jpg?v=1775123190
     Price: €57.50 EUR
-  - [XL / Cigar (Espresso)](https://fogal.com/products/meredith-compression-tights-class-i?variant=49317419123034)
+  - [XL / Cigar (Espresso)](https://fogal.com/products/meredith-compression-tights?variant=49317419123034)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-x-sigvaris-meredith-compression-tights-class-i-10100cigar-s-7500779.jpg?v=1775123188
     Price: €57.50 EUR
-  - [XL / Dark Grey (Carbone)](https://fogal.com/products/meredith-compression-tights-class-i?variant=49317419254106)
+  - [XL / Dark Grey (Carbone)](https://fogal.com/products/meredith-compression-tights?variant=49317419254106)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-x-sigvaris-meredith-compression-tights-class-i-10100gris-s-6356440.jpg?v=1775123190
     Price: €57.50 EUR
-  - [XL / Midnight](https://fogal.com/products/meredith-compression-tights-class-i?variant=49317419385178)
+  - [XL / Midnight](https://fogal.com/products/meredith-compression-tights?variant=49317419385178)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-x-sigvaris-meredith-compression-tights-class-i-10100midni-s-2936192.jpg?v=1775123189
     Price: €57.50 EUR
-  - [XL / Black Tulipe (Dark Plum)](https://fogal.com/products/meredith-compression-tights-class-i?variant=52759313416538)
+  - [XL / Black Tulipe (Dark Plum)](https://fogal.com/products/meredith-compression-tights?variant=52759313416538)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-x-sigvaris-meredith-compression-tights-class-i-10100tulno-s-6327630.jpg?v=1775123189
     Price: €57.50 EUR
-  - [XL / Black](https://fogal.com/products/meredith-compression-tights-class-i?variant=49317418991962)
+  - [XL / Black](https://fogal.com/products/meredith-compression-tights?variant=49317418991962)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-x-sigvaris-meredith-compression-tights-class-i-10100black-s-1183961.jpg?v=1775123190
     Price: €57.50 EUR
 - [All Nude Ankle Socks 10D - Ultra-sheer, Invisible - FOGAL](https://fogal.com/products/all-nude-ankle-socks): Fogal All Nude Ankle Socks: Barely-there elegance with 10 denier sheerness for polished, invisible finish. Ideal for everyday wear.
-  Updated: 2026-04-30T07:10:46Z
+  Updated: 2026-05-08T11:52:28Z
   Vendor: Fogal
   Product Type: Socks
   Availability: Available
@@ -1290,86 +1290,86 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-opaque-semi-opaque-soft-matte-crew-socks-30den-20138black-one-1545531.jpg?v=1775879172
     Price: €22.00 EUR
-- [Pois Socks - FOGAL](https://fogal.com/products/pois-socks): Shop Pois Socks by Fogal. Step into elegance with our Pois sheer ankle socks, designed to add a touch of sophistication to any outfit. Featuring a timeless dot and fine diamond pattern, these socks are perfect for any occasion, whether casual or formal.
-  Updated: 2026-04-20T15:35:02Z
+- [Pois Ankle Socks 15D - Sheer Diamond & Polka Dot - FOGAL](https://fogal.com/products/pois-ankle-socks): Elevate your style with Fogal Pois Ankle Socks - Sheer 15 denier hosiery with diamond polka dot pattern for a modern and sophisticated touch.
+  Updated: 2026-05-08T11:52:27Z
   Vendor: Fogal
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-pois-socks-20192black-one-5370818.jpg?v=1775123186
-  - [One Size / Taupe](https://fogal.com/products/pois-socks?variant=51025418846554)
+  - [One Size / Taupe](https://fogal.com/products/pois-ankle-socks?variant=51025418846554)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-pois-socks-3741130-one-7382120.jpg?v=1775123186
     Price: €26.00 EUR
-  - [One Size / Dark Plum](https://fogal.com/products/pois-socks?variant=51025418879322)
+  - [One Size / Dark Plum](https://fogal.com/products/pois-ankle-socks?variant=51025418879322)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-pois-socks-20192dplum-one-7755316.jpg?v=1775123187
     Price: €26.00 EUR
-  - [One Size / Midnight](https://fogal.com/products/pois-socks?variant=51025418912090)
+  - [One Size / Midnight](https://fogal.com/products/pois-ankle-socks?variant=51025418912090)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-pois-socks-20192midni-one-4383121.jpg?v=1775123187
     Price: €26.00 EUR
-  - [One Size / Black](https://fogal.com/products/pois-socks?variant=51025418944858)
+  - [One Size / Black](https://fogal.com/products/pois-ankle-socks?variant=51025418944858)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-pois-socks-20192black-one-5370818.jpg?v=1775123186
     Price: €26.00 EUR
-- [Netlace Socks - FOGAL](https://fogal.com/products/netlace-socks): Shop Netlace Socks by Fogal. Soft and cozy fishnet ankle socks knitted with a fine mesh for perfect elegance. These ultra-fine socks offer a seamless design and a soft, comfortable border, ensuring both style and comfort.
-  Updated: 2026-04-24T01:41:07Z
+- [Netlace Ankle Socks 20D - Ultra-fine mesh Fishnet - FOGAL](https://fogal.com/products/netlace-ankle-socks): Stay elegant with these seamless fishnet Fogal Netlace Ankle Socks made from ultra-fine mesh for ultimate comfort and style. Perfect addition to any outfit.
+  Updated: 2026-05-01T11:51:48Z
   Vendor: Fogal
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-netlace-socks-30576140-one-5158579.jpg?v=1775123192
-  - [One Size / Plage](https://fogal.com/products/netlace-socks?variant=51025417896282)
+  - [One Size / Plage](https://fogal.com/products/netlace-ankle-socks?variant=51025417896282)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-netlace-socks-30571080-one-9738021.jpg?v=1775123192
     Price: €22.00 EUR
-  - [One Size / Taupe](https://fogal.com/products/netlace-socks?variant=51025417929050)
+  - [One Size / Taupe](https://fogal.com/products/netlace-ankle-socks?variant=51025417929050)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-netlace-socks-30571130-one-3580986.jpg?v=1775123192
     Price: €22.00 EUR
-  - [One Size / Barolo](https://fogal.com/products/netlace-socks?variant=51025417961818)
+  - [One Size / Barolo](https://fogal.com/products/netlace-ankle-socks?variant=51025417961818)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-netlace-socks-30573181-one-4248272.jpg?v=1775123193
     Price: €22.00 EUR
-  - [One Size / Navy](https://fogal.com/products/netlace-socks?variant=51025417994586)
+  - [One Size / Navy](https://fogal.com/products/netlace-ankle-socks?variant=51025417994586)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-netlace-socks-30576140-one-5158579.jpg?v=1775123192
     Price: €22.00 EUR
-  - [One Size / Black](https://fogal.com/products/netlace-socks?variant=51025418027354)
+  - [One Size / Black](https://fogal.com/products/netlace-ankle-socks?variant=51025418027354)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-netlace-socks-20120black-one-7233854.jpg?v=1775123192
     Price: €22.00 EUR
-- [Cocoon Socks 80D - Cotton blend, smooth feel - FOGAL](https://fogal.com/products/cocoon-socks-ex-lima): Shop Cocoon Socks (ex-Lima) by Fogal. Cotton knitted socks designed for exceptional comfort and durability. Made from the finest cotton, these socks feature a soft, comfortable border and reinforced heel and toe for added longevity.
-  Updated: 2026-04-24T09:36:19Z
+- [Cocoon Socks 80D - Cotton blend, Smooth feel - FOGAL](https://fogal.com/products/cocoon-socks): Stay warm and stylish on colder days with Fogal Cocoon Socks. Crafted for comfort in a rich cotton blend, these 80 denier socks offer everyday elegance.
+  Updated: 2026-05-08T05:52:07Z
   Vendor: Fogal
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-cocoon-socks-ex-lima-20316white-sm-7597185.jpg?v=1775123191
-  - [S-M / White](https://fogal.com/products/cocoon-socks-ex-lima?variant=49317418205530)
+  - [S-M / White](https://fogal.com/products/cocoon-socks?variant=49317418205530)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-cocoon-socks-ex-lima-20316white-sm-7597185.jpg?v=1775123191
     Price: €34.00 EUR
-  - [S-M / Navy](https://fogal.com/products/cocoon-socks-ex-lima?variant=46778720747866)
+  - [S-M / Navy](https://fogal.com/products/cocoon-socks?variant=46778720747866)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-cocoon-socks-ex-lima-20316navy-sm-4986823.jpg?v=1775123194
     Price: €34.00 EUR
-  - [S-M / Black](https://fogal.com/products/cocoon-socks-ex-lima?variant=49317418107226)
+  - [S-M / Black](https://fogal.com/products/cocoon-socks?variant=49317418107226)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-cocoon-socks-ex-lima-20316black-sm-5341129.jpg?v=1775123194
     Price: €34.00 EUR
-  - [L / White](https://fogal.com/products/cocoon-socks-ex-lima?variant=49317418172762)
+  - [L / White](https://fogal.com/products/cocoon-socks?variant=49317418172762)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-cocoon-socks-ex-lima-20316white-sm-7597185.jpg?v=1775123191
     Price: €34.00 EUR
-  - [L / Navy](https://fogal.com/products/cocoon-socks-ex-lima?variant=49317418139994)
+  - [L / Navy](https://fogal.com/products/cocoon-socks?variant=49317418139994)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-cocoon-socks-ex-lima-20316navy-sm-4986823.jpg?v=1775123194
     Price: €34.00 EUR
-  - [L / Black](https://fogal.com/products/cocoon-socks-ex-lima?variant=49317418074458)
+  - [L / Black](https://fogal.com/products/cocoon-socks?variant=49317418074458)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-cocoon-socks-ex-lima-20316black-sm-5341129.jpg?v=1775123194
     Price: €34.00 EUR
 - [All Nude Knee-Highs 10D - Ultra-sheer, Invisible - FOGAL](https://fogal.com/products/all-nude-knee-highs): Fogal All Nude Knee-Highs offer barely-there beauty, enhancing your skin tone with a flawless finish. Lightweight and comfortable for all-day wear.
-  Updated: 2026-04-30T07:05:01Z
+  Updated: 2026-05-02T17:57:16Z
   Vendor: Fogal
   Product Type: Knee-Highs
   Availability: Available
@@ -1397,8 +1397,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-all-nude-knee-highs-30400black-one-4564928.jpg?v=1775123189
     Price: €26.00 EUR
-- [Caresse Knee-Highs 20D - Sheer, matte, silky touch - FOGAL](https://fogal.com/products/caresse-knee-highs): Shop Caresse Knee-Highs by Fogal. Silky soft knee-highs that are very comfortable to wear and highly resilient despite their fineness. These knee-highs offer a sheer, matte look with a soft, wide comfortable border, invisible heel, and invisible reinforced toe for added durability.
-  Updated: 2026-04-25T05:19:37Z
+- [Caresse Knee-Highs 20D – Sheer, Matte, Silky Touch - FOGAL](https://fogal.com/products/caresse-knee-highs): Experience luxury with Caresse Knee-Highs 20D - Sheer, Matte, Silky Touch. Elevate your style effortlessly.
+  Updated: 2026-05-01T20:58:23Z
   Vendor: Fogal
   Product Type: Knee-Highs
   Availability: Available
@@ -1448,8 +1448,8 @@
   - [One Size / Black](https://fogal.com/products/opaque-knee-highs?variant=51025416323418)
     Availability: Available
     Price: €26.00 EUR
-- [Pois Knee-Highs - FOGAL](https://fogal.com/products/pois-knee-highs): Shop Pois Knee-Highs by Fogal. Sheer knee-highs featuring a classic dot and fine diamond pattern, offering an elegant look for any occasion. These knee-highs are crafted for both style and comfort.
-  Updated: 2026-04-23T13:46:26Z
+- [Pois Knee-Highs 15D – Sheer, Diamond & Polka Dot - FOGAL](https://fogal.com/products/pois-knee-highs): Elevate your style with Fogal Pois Knee-Highs 15D, featuring a chic mix of diamond structure and micro polka dots for a modern twist.
+  Updated: 2026-05-08T16:39:16Z
   Vendor: Fogal
   Product Type: Knee-Highs
   Availability: Available
@@ -1470,8 +1470,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-pois-knee-highs-30192black-one-9042762.jpg?v=1775123183
     Price: €26.00 EUR
-- [Netlace Knee-Highs - FOGAL](https://fogal.com/products/netlace-knee-highs): Shop Netlace Knee-Highs by Fogal. Soft and cozy fishnet knee-highs, knitted with a fine mesh for perfect elegance. These knee-highs offer a seamless design and ultra-fine finish, providing both style and comfort.
-  Updated: 2026-04-24T01:56:01Z
+- [Netlace Knee-Highs 20D - Ultra-fine mesh Fishnet - FOGAL](https://fogal.com/products/netlace-knee-highs): Elevate your style with Fogal Netlace Knee-Highs: modern, refined, effortlessly elegant. Lightweight, comfortable, and perfect for everyday or elevated looks.
+  Updated: 2026-04-30T23:06:05Z
   Vendor: Fogal
   Product Type: Knee-Highs
   Availability: Available
@@ -1669,7 +1669,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-aleen-activewear-leggings-60531masca-sm-3830361.jpg?v=1775123153
     Price: €57.00 EUR
 - [All Nude Stay-Ups 10D - Ultra-sheer, Invisible - FOGAL](https://fogal.com/products/all-nude-stay-ups): Fogal All Nude Stay-Ups: Ultra-sheer 10 denier for a flawless, second-skin effect. Lightweight, breathable construction for all-day comfort.
-  Updated: 2026-04-30T08:55:23Z
+  Updated: 2026-05-08T11:52:28Z
   Vendor: Fogal
   Product Type: Stay-Ups
   Availability: Available
@@ -1738,8 +1738,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-all-nude-stay-ups-40400black-s-6147948.jpg?v=1776182754
     Price: €40.00 EUR
-- [Caresse Stay-Ups 20D - Sheer, matte, silky touch - FOGAL](https://fogal.com/products/caresse-stay-ups): Shop Caresse Stay-Ups by Fogal. Silky soft stay ups that are very comfortable to wear and highly resilient despite their fineness. These stay ups offer a sheer, matte look with a silky touch and a smooth silicone border for secure wear.
-  Updated: 2026-04-25T05:18:51Z
+- [Caresse Stay-Ups 20D – Sheer, Matte, Silky Touch - FOGAL](https://fogal.com/products/caresse-stay-ups): Experience silky softness and refined elegance with Fogal Caresse Stay-Ups. These 20 denier sheer stay-ups offer a second-skin feel for everyday wear.
+  Updated: 2026-05-01T21:04:46Z
   Vendor: Fogal
   Product Type: Stay-Ups
   Availability: Available
@@ -1760,27 +1760,35 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-caresse-stay-ups-40115black-s-1158341.jpg?v=1775123131
     Price: €40.00 EUR
-- [Cocoon Knee-Highs 80D - Cotton blend, smooth feel - FOGAL](https://fogal.com/products/cocoon-knee-highs-ex-lima): Shop Cocoon Knee-Highs (ex-Lima) by Fogal. Knitted knee-highs made of fine cotton, offering exceptional comfort and style. These knee-highs are crafted from the finest cotton and feature a soft, comfortable border along with a reinforced heel and toe for added durability.
-  Updated: 2026-04-24T08:38:54Z
+- [Cocoon Knee-Highs 80D - Cotton blend, Smooth feel - FOGAL](https://fogal.com/products/cocoon-knee-highs): Stay warm and elegant with Fogal Cocoon Knee-Highs. Crafted from a rich cotton blend, these 80 denier knee-highs offer everyday comfort and style.
+  Updated: 2026-05-02T06:08:15Z
   Vendor: Fogal
   Product Type: Knee-Highs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-cocoon-knee-highs-ex-lima-30316navy-sm-7369046.jpg?v=1775123139
-  - [S-M / Navy](https://fogal.com/products/cocoon-knee-highs-ex-lima?variant=46823495270746)
+  - [S/M / White](https://fogal.com/products/cocoon-knee-highs?variant=54091001889114)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-cocoon-knee-highs-80d-cotton-blend-smooth-feel-30316white-sm-3405757.png?v=1777702095
+    Price: €43.00 EUR
+  - [S/M / Navy](https://fogal.com/products/cocoon-knee-highs?variant=46823495270746)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-cocoon-knee-highs-ex-lima-30316navy-sm-3418713.jpg?v=1775123141
     Price: €43.00 EUR
-  - [L / Black](https://fogal.com/products/cocoon-knee-highs-ex-lima?variant=49317417779546)
+  - [S/M / Black](https://fogal.com/products/cocoon-knee-highs?variant=49317417812314)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-cocoon-knee-highs-ex-lima-30316black-l-3823626.jpg?v=1775123141
     Price: €43.00 EUR
-  - [S-M / Black](https://fogal.com/products/cocoon-knee-highs-ex-lima?variant=49317417812314)
+  - [L / White](https://fogal.com/products/cocoon-knee-highs?variant=54091001921882)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-cocoon-knee-highs-ex-lima-30316black-l-3823626.jpg?v=1775123141
+    Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-cocoon-knee-highs-80d-cotton-blend-smooth-feel-30316white-sm-3405757.png?v=1777702095
     Price: €43.00 EUR
-  - [L / Navy](https://fogal.com/products/cocoon-knee-highs-ex-lima?variant=49317417845082)
+  - [L / Navy](https://fogal.com/products/cocoon-knee-highs?variant=49317417845082)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-cocoon-knee-highs-ex-lima-30316navy-sm-3418713.jpg?v=1775123141
+    Price: €43.00 EUR
+  - [L / Black](https://fogal.com/products/cocoon-knee-highs?variant=49317417779546)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-cocoon-knee-highs-ex-lima-30316black-l-3823626.jpg?v=1775123141
     Price: €43.00 EUR
 - [Nepal Ankle Socks 80D - Finest Wool, Silk & Cashmere blend - FOGAL](https://fogal.com/products/nepal-socks): Shop Nepal Socks by Fogal. Fine ribbed socks made of wool, silk, and cashmere, perfect for keeping warm during the winter months. These socks offer a luxurious feel and exceptional comfort, making them ideal for everyday wear.
   Updated: 2026-04-24T08:37:16Z
@@ -1821,7 +1829,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-nepal-socks-20593black-sm-4931583.jpg?v=1775123141
     Price: €72.00 EUR
 - [Nepal Knee-Highs 80D - Finest Wool, Silk & Cashmere blend - FOGAL](https://fogal.com/products/nepal-knee-highs): Shop Nepal Knee-Highs by Fogal. Sensuous ribbed knee-high socks, carefully crafted in local European workshops from the finest wool, silk, and cashmere. Wrap your legs in rapture with these luxurious socks that you'll find yourself reaching for again and again.
-  Updated: 2026-04-24T08:35:38Z
+  Updated: 2026-05-06T00:37:45Z
   Vendor: Fogal
   Product Type: Knee-Highs
   Availability: Available
@@ -1912,30 +1920,30 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-nepal-leggings-50593black-s-8316686.jpg?v=1775123130
     Price: €205.00 EUR
-- [Netlace Stay-Ups - FOGAL](https://fogal.com/products/netlace-stay-ups-1): Shop Netlace Stay-Ups by Fogal. Soft and cozy fishnet stay ups knitted with a fine mesh for perfect elegance. These ultra-fine stay ups offer a seamless design and smooth silicone border for a secure fit, ensuring both style and comfort.
-  Updated: 2026-04-26T21:59:37Z
+- [Netlace Stay-Ups 20D - Ultra-fine mesh Fishnet - FOGAL](https://fogal.com/products/netlace-stay-ups): Elevate your style with Fogal Netlace Stay-Ups. Refined fishnet design for a sophisticated finish, offering comfort and elegance.
+  Updated: 2026-04-30T23:14:55Z
   Vendor: Fogal
   Product Type: Stay-Ups
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-netlace-stay-ups-40120black-llx-6113081.jpg?v=1775123130
-  - [S/M / Plage](https://fogal.com/products/netlace-stay-ups-1?variant=46823883800922)
+  - [S/M / Plage](https://fogal.com/products/netlace-stay-ups?variant=46823883800922)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-netlace-stay-ups-40120plage-sm-2000600.jpg?v=1775123130
     Price: €40.00 EUR
-  - [L/XL / Black](https://fogal.com/products/netlace-stay-ups-1?variant=49317423579482)
+  - [L/XL / Black](https://fogal.com/products/netlace-stay-ups?variant=49317423579482)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-netlace-stay-ups-40120black-llx-6113081.jpg?v=1775123130
     Price: €40.00 EUR
-  - [S/M / Black](https://fogal.com/products/netlace-stay-ups-1?variant=49317423612250)
+  - [S/M / Black](https://fogal.com/products/netlace-stay-ups?variant=49317423612250)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-netlace-stay-ups-40120black-llx-6113081.jpg?v=1775123130
     Price: €40.00 EUR
-  - [L/XL / Plage](https://fogal.com/products/netlace-stay-ups-1?variant=49317423645018)
+  - [L/XL / Plage](https://fogal.com/products/netlace-stay-ups?variant=49317423645018)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-netlace-stay-ups-40120plage-sm-2000600.jpg?v=1775123130
     Price: €40.00 EUR
 - [Opaque Tights 30D - Semi-opaque, vibrant colors - FOGAL](https://fogal.com/products/opaque-tights): Enhance your wardrobe with Fogal Opaque Tights. 30 denier semi-opaque tights in vibrant colors for a refined or playful finish.
-  Updated: 2026-04-30T05:37:07Z
+  Updated: 2026-05-07T00:15:59Z
   Vendor: Fogal
   Product Type: Tights
   Availability: Available
@@ -1947,6 +1955,10 @@
   - [S / Plage](https://fogal.com/products/opaque-tights?variant=52072068514138)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-opaque-tights-10138plage-s-1962275.jpg?v=1775123143
+    Price: €40.00 EUR
+  - [S / Flanelle](https://fogal.com/products/opaque-tights?variant=52072068579674)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-opaque-tights-10138flane-s-1366178.jpg?v=1775123192
     Price: €40.00 EUR
   - [S / Taupe](https://fogal.com/products/opaque-tights?variant=52072068546906)
     Availability: Available
@@ -2008,10 +2020,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-opaque-tights-10138marin-s-6944897.jpg?v=1775123191
     Price: €40.00 EUR
-  - [S / Flanelle](https://fogal.com/products/opaque-tights?variant=52072068579674)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-opaque-tights-10138flane-s-1366178.jpg?v=1775123192
-    Price: €40.00 EUR
   - [S / Grey](https://fogal.com/products/opaque-tights?variant=49317431247194)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-opaque-tights-10138grey-s-1419909.jpg?v=1775123192
@@ -2031,6 +2039,10 @@
   - [M / Plage](https://fogal.com/products/opaque-tights?variant=52072068677978)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-opaque-tights-10138plage-s-1962275.jpg?v=1775123143
+    Price: €40.00 EUR
+  - [M / Flanelle](https://fogal.com/products/opaque-tights?variant=52072068743514)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-opaque-tights-10138flane-s-1366178.jpg?v=1775123192
     Price: €40.00 EUR
   - [M / Taupe](https://fogal.com/products/opaque-tights?variant=52072068710746)
     Availability: Available
@@ -2092,10 +2104,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-opaque-tights-10138marin-s-6944897.jpg?v=1775123191
     Price: €40.00 EUR
-  - [M / Flanelle](https://fogal.com/products/opaque-tights?variant=52072068743514)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-opaque-tights-10138flane-s-1366178.jpg?v=1775123192
-    Price: €40.00 EUR
   - [M / Grey](https://fogal.com/products/opaque-tights?variant=49317431214426)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-opaque-tights-10138grey-s-1419909.jpg?v=1775123192
@@ -2115,6 +2123,10 @@
   - [L / Plage](https://fogal.com/products/opaque-tights?variant=52072068841818)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-opaque-tights-10138plage-s-1962275.jpg?v=1775123143
+    Price: €40.00 EUR
+  - [L / Flanelle](https://fogal.com/products/opaque-tights?variant=52072068907354)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-opaque-tights-10138flane-s-1366178.jpg?v=1775123192
     Price: €40.00 EUR
   - [L / Taupe](https://fogal.com/products/opaque-tights?variant=52072068874586)
     Availability: Available
@@ -2136,12 +2148,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-opaque-tights-10138grana-s-9922676.jpg?v=1775123146
     Price: €40.00 EUR
-  - [L / Barolo](https://fogal.com/products/opaque-tights?variant=49317430264154)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-opaque-tights-10138baro-s-9998114.jpg?v=1775123145
-    Price: €40.00 EUR
 - [Opaque Tights (Special Offer) - FOGAL](https://fogal.com/products/opaque-tights-special-offer): Shop Opaque Tights (Special Offer) by Fogal. Don’t miss out on this exclusive opportunity to grab your favorite colors from the Fogal Color Vault before they're gone! These luxurious tights offer a velvety soft feel and are designed to provide ultimate comfort and style.
-  Updated: 2026-04-24T18:25:09Z
+  Updated: 2026-05-08T11:45:54Z
   Vendor: Fogal
   Product Type: Tights
   Availability: Available
@@ -2223,7 +2231,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-velour-opaque-stay-ups-special-offer-2072100-s-4521755.jpg?v=1775123073
     Price: €48.00 EUR
 - [Agnes Socks - FOGAL](https://fogal.com/products/agnes-socks): Shop Agnes Socks by Fogal. Bicolour socks with a vertical rib pattern, featuring a contrasting toe, heel, and border. These socks offer a soft and comfortable knitted border with a reinforced knitted-in heel and hand-linked toe for added comfort and durability.
-  Updated: 2026-04-29T00:41:46Z
+  Updated: 2026-05-02T05:26:26Z
   Vendor: Fogal
   Product Type: Socks
   Availability: Available
@@ -2245,7 +2253,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-agnes-socks-31403132-s-m-3341368.jpg?v=1775123126
     Price: €30.00 EUR
 - [Serena Leggings - Seamless, Hidden Pocket - FOGAL](https://fogal.com/products/serena-leggings): Fogal Serena Leggings: Sleek, supportive, and versatile. Seamless, second-skin feel with breathable, flexible finish. Ideal for sports and casual wear.
-  Updated: 2026-04-30T05:11:13Z
+  Updated: 2026-05-08T16:00:46Z
   Vendor: Fogal
   Product Type: Leggings
   Availability: Available
@@ -2395,7 +2403,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-cleo-legwarmers-3039130-one-1222365.jpg?v=1775123120
     Price: €38.00 EUR
 - [Kajsa Legwarmers 100D - Finest Cashmere, diamond pattern - FOGAL](https://fogal.com/products/kajsa-legwarmers): Shop Kajsa Legwarmers by Fogal. Large diamonds adorn these luxurious legwarmers made from the finest cashmere. Designed for ultimate comfort and style, they feature a soft and comfortable knitted border with a side fastening and rolled border.
-  Updated: 2026-04-26T21:33:37Z
+  Updated: 2026-05-07T05:32:25Z
   Vendor: Fogal
   Product Type: legwarmer
   Availability: Available
@@ -2408,8 +2416,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-kajsa-legwarmers-31146060-one-1169785.png?v=1775123124
     Price: €95.00 EUR
-- [Karayan Tights - FOGAL](https://fogal.com/products/karayan-tights): Shop Karayan Tights by Fogal. Opaque tights featuring a special line technique, perfect for a stylish and modern look. These 50 denier tights offer a blend of comfort and elegance.
-  Updated: 2026-04-26T21:32:04Z
+- [Karayan Tights 50D - Opaque, Sleek, Textured effect - FOGAL](https://fogal.com/products/karayan-tights): Elevate your look with Fogal Karayan Tights, textured, 50 denier, opaque. Sleek graphic hosiery for versatile style.
+  Updated: 2026-05-08T16:00:47Z
   Vendor: Fogal
   Product Type: Tights
   Availability: Available
@@ -2492,33 +2500,33 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-ama-socks-31392100-s-m-5783403.jpg?v=1775123119
     Price: €15.00 EUR
-- [e-Gift Card by Fogal - The Perfect Gift](https://fogal.com/products/fogal-gift-card): Shop Fogal e-Gift Cards: stylish, practical, and always appreciated. Delivered by email and redeemable on any purchase at the online boutique fogal.com.
-  Updated: 2026-04-20T15:35:21Z
+- [E-Gift Card - The Perfect Luxury Gift - FOGAL](https://fogal.com/products/fogal-e-gift-card): Luxury E-Gift Card for Instant Delivery - Perfect Present for Every Occasion! Redeemable on all products at Fogal.com
+  Updated: 2026-05-01T20:53:05Z
   Vendor: Fogal
   Product Type: Gift Card
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-e-gift-card-egc-50-8049938.png?v=1775796316
-  - [€50.00](https://fogal.com/products/fogal-gift-card?variant=47458714976602)
+  - [€50.00](https://fogal.com/products/fogal-e-gift-card?variant=47458714976602)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-e-gift-card-egc-50-8049938.png?v=1775796316
     Price: €50.00 EUR
-  - [€100.00](https://fogal.com/products/fogal-gift-card?variant=53923647291738)
+  - [€100.00](https://fogal.com/products/fogal-e-gift-card?variant=53923647291738)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-e-gift-card-egc-50-8049938.png?v=1775796316
     Price: €100.00 EUR
-  - [€150.00](https://fogal.com/products/fogal-gift-card?variant=53923647324506)
+  - [€150.00](https://fogal.com/products/fogal-e-gift-card?variant=53923647324506)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-e-gift-card-egc-50-8049938.png?v=1775796316
     Price: €150.00 EUR
-  - [€200.00](https://fogal.com/products/fogal-gift-card?variant=53923647357274)
+  - [€200.00](https://fogal.com/products/fogal-e-gift-card?variant=53923647357274)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-e-gift-card-egc-50-8049938.png?v=1775796316
     Price: €200.00 EUR
-  - [€250.00](https://fogal.com/products/fogal-gift-card?variant=53923647390042)
+  - [€250.00](https://fogal.com/products/fogal-e-gift-card?variant=53923647390042)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-e-gift-card-egc-50-8049938.png?v=1775796316
     Price: €250.00 EUR
-  - [€500.00](https://fogal.com/products/fogal-gift-card?variant=53923647422810)
+  - [€500.00](https://fogal.com/products/fogal-e-gift-card?variant=53923647422810)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-e-gift-card-egc-50-8049938.png?v=1775796316
     Price: €500.00 EUR
@@ -2530,7 +2538,7 @@
   Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-pret-a-laver-washing-bag-40042000-one-8792032.jpg?v=1775123117
   Price: €11.00 EUR
 - [Affaire Garter Belt - FOGAL](https://fogal.com/products/affaire-garter-belt): Shop Affaire Garter Belt by Fogal. The Affaire Garter Belt adds an extra special element to your special occasion outfit. Crafted in Italy from the finest tulle net with a subtle dots pattern, this garter belt is both attractive and comfortable.
-  Updated: 2026-04-20T15:35:22Z
+  Updated: 2026-05-07T18:59:16Z
   Vendor: Fogal
   Product Type: Bridal
   Availability: Available
@@ -2565,7 +2573,7 @@
   Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-amber-garter-40082000-one-6058532.jpg?v=1775123115
   Price: €50.00 EUR
 - [Silky Tights - FOGAL](https://fogal.com/products/silky-tights-1): Shop Silky Tights by Fogal. Extremely luxurious tights designed for an elegant look, crafted from the highest quality silk. These tights offer a sensational feel and optimum temperature control, making them a standout choice for any occasion.
-  Updated: 2026-04-27T09:20:59Z
+  Updated: 2026-05-07T05:32:26Z
   Vendor: Fogal
   Product Type: Tights
   Availability: Available
@@ -2583,7 +2591,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-silky-tights-5526020-s-8575816.jpg?v=1775123084
     Price: €117.50 EUR
 - [All Nude Toeless Tights 10D – Ultra-Sheer for Open-Toe Shoes](https://fogal.com/products/all-nude-toeless-tights): Fogal All Nude Toeless Tights provide a flawless finish, perfect for open-toe footwear, enhancing skin tone with a barely-there look.
-  Updated: 2026-04-30T00:33:46Z
+  Updated: 2026-05-08T05:52:07Z
   Vendor: Fogal
   Product Type: Tights
   Availability: Available
@@ -2605,7 +2613,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-all-nude-toeless-ultra-sheer-invisible-open-toe-tights-10den-10411110-s-6305834.jpg?v=1776210614
     Price: €40.00 EUR
 - [Catwalk Stockings 15D - Ultra-sheer, Matte - FOGAL](https://fogal.com/products/catwalk-stockings): Fogal Catwalk Stockings feature an ultra-sheer 15 denier design, soft 3D technology, decorative border, and invisible heel for a flawless, luxurious feel.
-  Updated: 2026-04-30T06:51:29Z
+  Updated: 2026-05-07T18:59:17Z
   Vendor: Fogal
   Product Type: Stockings
   Availability: Available
@@ -2666,7 +2674,7 @@
   Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-emma-socks-30502060-s-8287518.jpg?v=1775123081
   Price: €15.50 EUR
 - [Ireen Ankle Socks 20D – Ajouré Openwork, Soft Cuff - FOGAL](https://fogal.com/products/ireen-ankle-socks): Ireen Ankle Socks: Elevate your collection with exquisite ajouré design, vertical loop pattern, and feminine ankle border.
-  Updated: 2026-04-28T03:16:22Z
+  Updated: 2026-05-02T15:54:57Z
   Vendor: Fogal
   Product Type: Socks
   Availability: Available
@@ -2730,7 +2738,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-amalia-stockings-20182100-s-6266193.png?v=1775123085
     Price: €40.00 EUR
 - [Scarlett Tights - FOGAL](https://fogal.com/products/scarlett-tights): Shop Scarlett Tights by Fogal. Sheer tights featuring an elegant motif that instantly brightens your silhouette. These tights are designed to add a touch of sophistication to any outfit, combining style with comfort.
-  Updated: 2026-04-26T21:12:00Z
+  Updated: 2026-05-01T16:05:16Z
   Vendor: Fogal
   Product Type: Tights
   Availability: Available
@@ -2766,7 +2774,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-scarlett-stay-ups-401732100-s-5431690.jpg?v=1775123074
     Price: €48.00 EUR
 - [Rebecca Tights 60D - Cotton blend, openwork floral pattern - FOGAL](https://fogal.com/products/rebecca-tights): Shop Rebecca Tights by Fogal. Knit tights featuring an elegant cut-out floral motif, offering a delicate and stylish touch to any outfit. These tights are designed for both comfort and durability, with a soft and comfortable knit waistband, cotton gusset, and reinforced toes.
-  Updated: 2026-04-27T11:04:17Z
+  Updated: 2026-04-30T10:31:17Z
   Vendor: Fogal
   Product Type: Tights
   Availability: Available
@@ -2784,7 +2792,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-rebecca-tights-10183masca-s-4852637.jpg?v=1775123077
     Price: €34.00 EUR
 - [Gala Tights 40D - Sheer, fine Lurex, shimmery finish - FOGAL](https://fogal.com/products/gala-tights): Elevate your style with Fogal Gala Tights, sheer lurex sparkle for events. Shimmery 40 denier hosiery, perfect for special occasions.
-  Updated: 2026-04-28T04:21:42Z
+  Updated: 2026-05-06T22:34:06Z
   Vendor: Fogal
   Product Type: Tights
   Availability: Available
@@ -2802,7 +2810,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-gala-tights-11412980-s-2742219.jpg?v=1775123083
     Price: €60.00 EUR
 - [Grace Leggings 100D - Merino Wool, Mohair, warmth & luxurious - FOGAL](https://fogal.com/products/grace-merino-wool-leggings): Shop Grace Leggings by Fogal. Luxurious new-wool leggings featuring a fine lateral rib, piqué pattern on the inside leg, and attractive cuffs with a trendy mix. These leggings are designed for both style and warmth, offering a refined look with superior comfort.
-  Updated: 2026-04-26T21:09:53Z
+  Updated: 2026-04-30T10:31:16Z
   Vendor: Fogal
   Product Type: Leggings
   Availability: Available
@@ -2851,8 +2859,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-the-marilyn-net-tights-110002981-s-9469940.png?v=1775123090
     Price: €950.00 EUR
-- [Netlace Stay-Ups (Special Offer) - FOGAL](https://fogal.com/products/netlace-stay-ups-special-offer): Shop Netlace Stay-Ups (Special Offer) by Fogal. Soft and cozy fishnet stay ups knitted with a fine mesh for perfect elegance. These ultra-fine stay ups offer a seamless design and smooth silicone border for a secure fit, ensuring both style and comfort.
-  Updated: 2026-04-26T21:07:45Z
+- [Netlace Stay-Ups 20D - Fishnet (Special Offer) - FOGAL](https://fogal.com/products/netlace-stay-ups-special-offer): Elevate your style with Fogal Netlace Stay-Ups, featuring ultra-fine mesh and a refined appearance. Soft, flexible, and comfortable.
+  Updated: 2026-05-08T14:27:07Z
   Vendor: Fogal
   Product Type: Stay-Ups
   Availability: Available
@@ -2882,7 +2890,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-netlace-stay-ups-special-offer-2226140-s-4543894.jpg?v=1775123075
     Price: €20.00 EUR
 - [Precieuse Ankle Socks 80D - Silk & Cotton, rib structure - FOGAL](https://fogal.com/products/precieuse-socks-1): Shop Precieuse Socks by Fogal. Socks - Beautiful silk and cotton blend in a fine irregular rib structure. Fine border, knitted heel, hand sewn reinforced toe featuring, natural balancing temperature yarn.
-  Updated: 2026-04-27T09:06:41Z
+  Updated: 2026-04-30T18:52:23Z
   Vendor: Fogal
   Product Type: Socks
   Availability: Available
@@ -2965,46 +2973,60 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-precieuse-knee-highs-30606260-s-7219808.jpg?v=1775123079
     Price: €32.50 EUR
-- [Netlace Tights 20D - Ultra-fine mesh, seamless, fishnet - FOGAL](https://fogal.com/products/netlace-tights-2): Shop Netlace Tights by Fogal. Indulge in the luxurious feel of Netlace fishnet tights, meticulously knitted with a fine mesh to exude perfect elegance. These soft and cozy tights are designed for those who seek both style and comfort, making them an essential addition to your wardrobe.
-  Updated: 2026-04-27T23:06:57Z
+- [Ilma Ankle Socks 60D – Cotton Rib, Lurex Stripes - FOGAL](https://fogal.com/products/ilma-ankle-socks): Elevate your style with Fogal Ilma Ankle Socks featuring a subtle shimmer and contrasting Lurex stripe. Soft, breathable, and effortlessly chic.
+  Updated: 2026-05-01T20:09:34Z
+  Vendor: Fogal
+  Product Type: Socks
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-ilma-cotton-lurex-stripes-ankle-socks-30901006-s-m-6696725.jpg?v=1776624930
+  - [S/M / White](https://fogal.com/products/ilma-ankle-socks?variant=50465635369306)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-ilma-cotton-lurex-stripes-ankle-socks-30901006-s-m-6696725.jpg?v=1776624930
+    Price: €10.20 EUR
+  - [L / White](https://fogal.com/products/ilma-ankle-socks?variant=50465635205466)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-ilma-cotton-lurex-stripes-ankle-socks-30901006-s-m-6696725.jpg?v=1776624930
+    Price: €10.20 EUR
+- [Netlace Tights 20D - Ultra-fine mesh Fishnet - FOGAL](https://fogal.com/products/netlace-tights): Elevate your style with Fogal Netlace Tights 20D - a refined take on classic fishnet with a soft, elegant finish. Perfect for any look.
+  Updated: 2026-05-06T03:48:47Z
   Vendor: Fogal
   Product Type: Tights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-netlace-ultra-fine-mesh-seamless-fishnet-tights-20d-10120black-sm-8669601.jpg?v=1776459201
-  - [S/M / Plage](https://fogal.com/products/netlace-tights-2?variant=50789972869466)
+  - [S/M / Plage](https://fogal.com/products/netlace-tights?variant=50789972869466)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-netlace-ultra-fine-mesh-seamless-fishnet-tights-20d-10120plage-sm-9034326.jpg?v=1776459199
     Price: €40.00 EUR
-  - [S/M / Barolo](https://fogal.com/products/netlace-tights-2?variant=50789972902234)
+  - [S/M / Barolo](https://fogal.com/products/netlace-tights?variant=50789972902234)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-netlace-ultra-fine-mesh-seamless-fishnet-tights-20d-10120baro-sm-2564197.jpg?v=1776459201
     Price: €40.00 EUR
-  - [S/M / Navy](https://fogal.com/products/netlace-tights-2?variant=50789972935002)
+  - [S/M / Navy](https://fogal.com/products/netlace-tights?variant=50789972935002)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-netlace-ultra-fine-mesh-seamless-fishnet-tights-20d-10120marin-sm-7746845.jpg?v=1776459201
     Price: €40.00 EUR
-  - [S/M / Black](https://fogal.com/products/netlace-tights-2?variant=50789972967770)
+  - [S/M / Black](https://fogal.com/products/netlace-tights?variant=50789972967770)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-netlace-ultra-fine-mesh-seamless-fishnet-tights-20d-10120black-sm-8669601.jpg?v=1776459201
     Price: €40.00 EUR
-  - [L/XL / Plage](https://fogal.com/products/netlace-tights-2?variant=50789973000538)
+  - [L/XL / Plage](https://fogal.com/products/netlace-tights?variant=50789973000538)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-netlace-ultra-fine-mesh-seamless-fishnet-tights-20d-10120plage-sm-9034326.jpg?v=1776459199
     Price: €40.00 EUR
-  - [L/XL / Barolo](https://fogal.com/products/netlace-tights-2?variant=50789973033306)
+  - [L/XL / Barolo](https://fogal.com/products/netlace-tights?variant=50789973033306)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-netlace-ultra-fine-mesh-seamless-fishnet-tights-20d-10120baro-sm-2564197.jpg?v=1776459201
     Price: €40.00 EUR
-  - [L/XL / Navy](https://fogal.com/products/netlace-tights-2?variant=50789973066074)
+  - [L/XL / Navy](https://fogal.com/products/netlace-tights?variant=50789973066074)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-netlace-ultra-fine-mesh-seamless-fishnet-tights-20d-10120marin-sm-7746845.jpg?v=1776459201
     Price: €40.00 EUR
-  - [L/XL / Black](https://fogal.com/products/netlace-tights-2?variant=50789973098842)
+  - [L/XL / Black](https://fogal.com/products/netlace-tights?variant=50789973098842)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-netlace-ultra-fine-mesh-seamless-fishnet-tights-20d-10120black-sm-8669601.jpg?v=1776459201
     Price: €40.00 EUR
 - [Light & Cool Tights 8D – Ultra-Sheer, Summer - FOGAL](https://fogal.com/products/light-cool-tights): Fogal Light & Cool Tights: Premium 8 denier tights with ultra-sheer finish for flawless legs on warmer days. Advanced 3D knitting technology.
-  Updated: 2026-04-30T05:37:06Z
+  Updated: 2026-05-07T15:51:59Z
   Vendor: Fogal
   Product Type: Tights
   Availability: Available
@@ -3041,8 +3063,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-light-cool-tights-101022100-s-6842546.jpg?v=1775123084
     Price: €40.00 EUR
-- [Katya - Art Déco Ajouré, Wool blend Tights - 60D - FOGAL](https://fogal.com/products/katya-tights): Shop Katya - Art Déco Ajouré, Wool blend Tights - 60D by Fogal. Art déco ajouré tights in a gossamer wool blend. Soft and comfortable knitted waistband, flat seam, wool-lined gusset, knitted-in heel, reinforced toe and sole.
-  Updated: 2026-04-20T17:47:48Z
+- [Katya Tights 60D – Wool blend, Art Déco Ajouré - FOGAL](https://fogal.com/products/katya-tights): Elevate your cold-weather style with Fogal Katya Tights. Featuring an intricate Art Déco-inspired design, these 60D tights offer a blend of warmth & lightness.
+  Updated: 2026-05-01T20:24:25Z
   Vendor: Fogal
   Product Type: Tights
   Availability: Available
@@ -3059,22 +3081,22 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-katya-art-deco-ajoure-wool-blend-tights-60d-50952100-s-4428873.jpg?v=1776624930
     Price: €37.00 EUR
-- [Ireyon - Vertical Business stripes - Knee-Highs - 20D - FOGAL](https://fogal.com/products/ireyon-knee-highs): Shop Ireyon - Vertical Business stripes - Knee-Highs - 20D by Fogal. Knee-Highs - Elegant and classic with irregular, vertical business stripes. Transparent, soft comfort knitted border.
-  Updated: 2026-04-28T12:50:45Z
+- [Ireyon Knee-Highs 20D - Sheer, Vertical Stripes - FOGAL](https://fogal.com/products/ireyon-knee-highs): Elevate your style with Fogal Ireyon Knee-Highs - modern design with irregular stripes for a polished look that elongates the legs.
+  Updated: 2026-05-01T20:36:32Z
   Vendor: Fogal
   Product Type: Knee-Highs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-ireyon-vertical-business-stripes-knee-highs-20d-30802063-s-m-1941224.jpg?v=1776624926
-  - [Pearl Grey / S-M](https://fogal.com/products/ireyon-knee-highs?variant=51576023155034)
+  - [S/M / Pearl Grey](https://fogal.com/products/ireyon-knee-highs?variant=51576023155034)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-ireyon-vertical-business-stripes-knee-highs-20d-30802063-s-m-1941224.jpg?v=1776624926
     Price: €7.80 EUR
-  - [Pearl Grey / L](https://fogal.com/products/ireyon-knee-highs?variant=51576023089498)
+  - [L / Pearl Grey](https://fogal.com/products/ireyon-knee-highs?variant=51576023089498)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-ireyon-vertical-business-stripes-knee-highs-20d-30802063-s-m-1941224.jpg?v=1776624926
     Price: €7.80 EUR
-- [Ipanema - Ajouré, diamond pattern Socks - FOGAL](https://fogal.com/products/ipanema-socks): Shop Ipanema - Ajouré, diamond pattern Socks by Fogal. Socks - These beautiful ajouré sockettes feature a large, flowing diamond pattern. Soft, reinforced toe.
-  Updated: 2026-04-28T12:50:19Z
+- [Ipanema Socks 40D – Ajouré, Diamond Pattern - FOGAL](https://fogal.com/products/ipanema-socks): Fogal Ipanema Socks: Lightweight, 40 denier ajouré design with diamond pattern for a clean, modern look. Breathable and soft.
+  Updated: 2026-05-01T20:42:38Z
   Vendor: Fogal
   Product Type: Socks
   Availability: Available
@@ -3092,7 +3114,7 @@
     Availability: Available
     Price: €7.80 EUR
 - [Souplesse Tights 40D - Cotton blend, rib structure - FOGAL](https://fogal.com/products/souplesse-tights): Fogal Souplesse Tights: Refined, soft, and elegant semi-opaque 40 denier tights made of high-quality long-staple cotton with a finest rib structure.
-  Updated: 2026-04-27T23:06:56Z
+  Updated: 2026-05-08T11:46:00Z
   Vendor: Fogal
   Product Type: Tights
   Availability: Available
@@ -3102,7 +3124,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-souplesse-cotton-tights-40den-5019n2100-s-1537287.jpg?v=1775123072
     Price: €31.00 EUR
   - [S / Navy](https://fogal.com/products/souplesse-tights?variant=54062882586970)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-souplesse-cotton-tights-40den-5019n6140-s-4896027.png?v=1775123074
     Price: €31.00 EUR
   - [M / Black](https://fogal.com/products/souplesse-tights?variant=52481241547098)
@@ -3110,7 +3132,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-souplesse-cotton-tights-40den-5019n2100-s-1537287.jpg?v=1775123072
     Price: €31.00 EUR
   - [M / Navy](https://fogal.com/products/souplesse-tights?variant=54062882619738)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-souplesse-cotton-tights-40den-5019n6140-s-4896027.png?v=1775123074
     Price: €31.00 EUR
   - [L / Black](https://fogal.com/products/souplesse-tights?variant=52481241579866)
@@ -3118,7 +3140,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-souplesse-cotton-tights-40den-5019n2100-s-1537287.jpg?v=1775123072
     Price: €31.00 EUR
   - [L / Navy](https://fogal.com/products/souplesse-tights?variant=54062882652506)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-souplesse-cotton-tights-40den-5019n6140-s-4896027.png?v=1775123074
     Price: €31.00 EUR
 - [Greta Tights 40D - Cotton blend, Avant-Garde Ajouré - FOGAL](https://fogal.com/products/greta-tights): Fogal Greta Tights feature a modern and bold geometric pattern for a striking avant-garde look. Soft, comfortable, and fashion-forward.
@@ -3176,7 +3198,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-giada-overknees-30732100-sm-1302027.jpg?v=1775123070
     Price: €54.00 EUR
 - [Gill - Rib structure, finest Cashmere Legwarmers - FOGAL](https://fogal.com/products/gill-cashmere-legwarmers): Shop Gill Legwarmers by Fogal. Crafted from luxurious cashmere, featuring a chic abstract rib knit design.
-  Updated: 2026-04-24T08:32:59Z
+  Updated: 2026-05-07T05:32:27Z
   Vendor: Fogal
   Product Type: legwarmer
   Availability: Available
@@ -3225,26 +3247,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-gia-rib-silk-tights-80den-5743126.jpg?v=1775123061
     Price: €175.00 EUR
-- [Cocoon Tights (Special Offer) - FOGAL](https://fogal.com/products/cocoon-tights-special-offer): Shop Cocoon Tights (Special Offer) by Fogal. Your legs deserve to be treated with respect! Wrap them in the very best tights made of natural fibers and crafted in small batches in Italy to ensure optimal quality.
-  Updated: 2026-04-26T20:51:58Z
-  Vendor: Fogal
-  Product Type: Tights
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-cocoon-tights-special-offer-10520natur-s-8835962.jpg?v=1775123064
-  - [S / Natural](https://fogal.com/products/cocoon-tights-special-offer?variant=53583649964378)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-cocoon-tights-special-offer-10520natur-s-8835962.jpg?v=1775123064
-    Price: €33.50 EUR
-  - [M / Natural](https://fogal.com/products/cocoon-tights-special-offer?variant=53583650095450)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-cocoon-tights-special-offer-10520natur-s-8835962.jpg?v=1775123064
-    Price: €33.50 EUR
-  - [L / Natural](https://fogal.com/products/cocoon-tights-special-offer?variant=53583650226522)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-cocoon-tights-special-offer-10520natur-s-8835962.jpg?v=1775123064
-    Price: €33.50 EUR
 - [Catwalk Stockings 15D - Ultra-sheer (Special Offer) - FOGAL](https://fogal.com/products/catwalk-stockings-special-offer): Fogal Catwalk Stockings provide an ultra-sheer, matte stockings look with a natural appearance. Elegant and refined for special occasions.
-  Updated: 2026-04-30T06:46:02Z
+  Updated: 2026-05-03T05:47:35Z
   Vendor: Fogal
   Product Type: Stockings
   Availability: Available
@@ -3262,7 +3266,7 @@
     Image: https://cdn.shopify.com/s/files/1/0756/1383/1514/files/fogal-catwalk-stockings-special-offer-451401270-s-4419884.jpg?v=1775123061
     Price: €20.00 EUR
 - [Gardis Knee-Highs 10D - Ultra-sheer, embroidery - FOGAL](https://fogal.com/products/gardis-knee-highs-10d-sheer-floral-embroidery): Elevate your summer looks with Fogal Gardis Knee-Highs. Art Nouveau-inspired floral embroidery on sheer 10 denier, adding a touch of elegance.
-  Updated: 2026-04-29T19:47:08Z
+  Updated: 2026-05-08T23:15:37Z
   Vendor: Fogal
   Product Type: Knee-Highs
   Availability: Available
