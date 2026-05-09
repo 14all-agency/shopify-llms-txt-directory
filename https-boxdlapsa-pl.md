@@ -6,7 +6,7 @@
 - Timezone: Europe/Warsaw
 - Created At: 2025-06-25T16:09:13Z
 - Contact Email: kontakt.boxdlapsa@gmail.com
-- Updated At: 2026-05-01T00:00:39.899Z
+- Updated At: 2026-05-09T00:00:41.889Z
 
 ## Products
 
