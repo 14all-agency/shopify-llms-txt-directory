@@ -6,7 +6,7 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2023-11-07T16:28:21Z
 - Contact Email: info@loungerevo.co.za
-- Updated At: 2026-05-03T00:00:37.542Z
+- Updated At: 2026-05-10T00:00:39.366Z
 
 ## Products
 
