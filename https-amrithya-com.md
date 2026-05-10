@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-09-17T16:23:22Z
 - Contact Email: business@amrithya.com
-- Updated At: 2026-04-29T00:00:26.131Z
+- Updated At: 2026-05-10T00:00:34.635Z
 
 ## Products
 
@@ -32,14 +32,14 @@
   Image: https://cdn.shopify.com/s/files/1/0645/7458/7019/files/Product_7.png?v=1774523626
   Price: ₹1,199.00 INR
 - [Shilajit Gold Elite - Best Shilajit Resin Supplement - Amrithya](https://amrithya.com/products/pure-himalayan-shilajit): Boost energy & vitality with Amrithya Shilajit Gold Elite, the best Shilajit resin supplement for strength, stamina & overall wellness naturally.
-  Updated: 2026-04-28T15:34:36Z
+  Updated: 2026-04-29T15:33:57Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0645/7458/7019/files/Shilajit_gold_elite.png?v=1774523588
   Price: ₹1,199.00 INR
 - [Glow & Collagen Elixir - Supplement for Glowing Skin India - Amrithya](https://amrithya.com/products/glow-collagen-elixir): Revitalize your skin with Amrithya Glow & Collagen Elixir, a natural collagen booster & Ayurvedic supplement for glowing, youthful skin in India.
-  Updated: 2026-04-28T03:35:21Z
+  Updated: 2026-05-02T12:58:46Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0645/7458/7019/files/Product_4.png?v=1774523533
   Price: ₹899.00 INR
 - [Kumkumadi Glow Elixir - Facial Serum for Glowing Skin- Amrithya](https://amrithya.com/products/kumkumadi-glow-elixir): Discover Amrithya Kumkumadi Glow Elixir – a herbal facial serum for glowing skin, reduces pigmentation & supports hair fall control naturally.
-  Updated: 2026-04-28T03:30:05Z
+  Updated: 2026-05-02T12:58:46Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -69,7 +69,7 @@
   Updated: 2026-04-24T11:23:32Z
   Total Products: 1
 - [All Products](https://amrithya.com/collections/all-product-copy): Discover Amrithya range of natural Ayurvedic supplements for hair growth, stress relief, anti-aging, skin care, and immunity. Powered by Shilajit, Ashwagandha, Amla, and more, our products promote healthier hair, youthful skin, improved stamina, and a radiant glow from within.
-  Updated: 2026-04-28T11:19:08Z
+  Updated: 2026-05-03T11:22:43Z
   Total Products: 7
 - [Stress & Sleep](https://amrithya.com/collections/stress-sleep)
   Updated: 2026-04-13T11:19:29Z
@@ -78,10 +78,10 @@
   Updated: 2026-04-05T11:21:20Z
   Total Products: 1
 - [Men’s Strength & Vitality](https://amrithya.com/collections/men-s-strength-vitality)
-  Updated: 2026-04-28T11:19:08Z
+  Updated: 2026-04-30T11:21:55Z
   Total Products: 1
 - [Skin & Beauty](https://amrithya.com/collections/skin-beauty)
-  Updated: 2026-04-24T11:23:32Z
+  Updated: 2026-05-03T11:22:43Z
   Total Products: 2
 
 ## Blogs
