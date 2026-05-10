@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-02-26T17:23:09Z
 - Contact Email: mcintus1211@gmail.com
-- Updated At: 2026-04-25T00:00:32.360Z
+- Updated At: 2026-05-10T00:00:38.219Z
 
 ## Products
 
@@ -200,7 +200,7 @@
   Image: https://cdn.shopify.com/s/files/1/0926/3366/1762/files/APOTHE_Tulip_Barrier_Vegan_Ampoule_30ml_Main.png?v=1772583487
   Price: $21.85 USD
 - [APOTHE Peptide¹¹ Botulinum Essence Toner — Anti-Aging, Deep Hydration & Barrier Repair](https://www.trendykbeauty.com/products/apothe-peptide-botulinum-essence-toner): APOTHE Peptide 11 Botulinum Essence Toner — 11 peptides in liposome technology for visible firming and anti-aging. 5-layer hydration, hypoallergenic, no silicones. 250ml.
-  Updated: 2026-04-14T17:25:07Z
+  Updated: 2026-05-07T18:23:17Z
   Vendor: APOTHE
   Product Type: Normal
   Availability: Available
@@ -368,7 +368,7 @@
   Image: https://cdn.shopify.com/s/files/1/0926/3366/1762/files/thumb_PDRN_Advanced_Sleeping_Mask_01._Purifying_9d7d1bf2-bc62-4167-825f-d17941780056.png?v=1772583549
   Price: $0.00 USD
 - [SAM'U PDRN Hydrogel Mask | Collagen & Hyaluronic Acid](https://www.trendykbeauty.com/products/samu-pdrn-rejuvenating-full-in-hydro-gel-mask-33g-4ea): SAM'U PDRN Rejuvenating Hydrogel Mask with Collagen,  with 8 types of Hyaluronic Acid. Firms, brightens and hydrates. 4 sheets. Free US shipping over $35.
-  Updated: 2026-04-14T17:25:15Z
+  Updated: 2026-04-28T21:38:47Z
   Vendor: SAM'U
   Product Type: 
   Availability: Available
@@ -640,22 +640,22 @@
   Updated: 2026-04-14T17:24:58Z
   Total Products: 9
 - [APOTHE Korean Skincare | Peptide, PDRN & Exosome Products](https://www.trendykbeauty.com/collections/apothe): Shop APOTHE Korean skincare: Exosome brightening, PDRN collagen, and Peptide Botulinum anti-aging formulas. Science-backed ampoules, serums, and sets from Korea.
-  Updated: 2026-04-21T11:23:23Z
+  Updated: 2026-05-08T11:26:43Z
   Total Products: 24
 - [URIID Korean Skincare | Neroli Garden Body & Face Care](https://www.trendykbeauty.com/collections/uriid): Shop URIID — Korean botanical skincare and body care featuring the Neroli Garden collection. Hand creams, cleansing foams, toners and more. Free US shipping over $35.
   Updated: 2026-04-14T17:24:58Z
   Total Products: 24
 - [Best  K-Beauty | Top Korean Skincare Picks](https://www.trendykbeauty.com/collections/top-sellers): Shop best- Korean skincare loved by customers. Discover top-rated serums, creams, and gentle essentials for healthy, glowing skin.
-  Updated: 2026-04-21T11:23:23Z
+  Updated: 2026-05-08T11:26:43Z
   Total Products: 10
 - [K-Beauty  | Korean Skincare Deals & Discounts](https://www.trendykbeauty.com/collections/on-): Shop K-beauty  items with exclusive discounts on serums, creams, and more. Limited-time Korean skincare deals—save before they’re gone.
-  Updated: 2026-04-21T11:23:23Z
+  Updated: 2026-05-08T11:26:43Z
   Total Products: 29
 - [SAM’U Korean Skincare | Sensitive Skin & Barrier Repair](https://www.trendykbeauty.com/collections/samu): Shop SAM’U Korean skincare for sensitive skin. Discover PDRN serums, hydrating toners, and barrier-repair essentials for calm, healthy skin.
-  Updated: 2026-04-17T09:59:57Z
+  Updated: 2026-04-29T11:22:38Z
   Total Products: 34
 - [Face Toners for Hydration, Pore Care & Skin Prep](https://www.trendykbeauty.com/collections/facetoners): Shop face toners and toner pads for hydration, pore care, and sensitive skin. Prep, soothe, and refine your skin with targeted formulas.
-  Updated: 2026-04-14T17:24:59Z
+  Updated: 2026-05-08T11:26:43Z
   Total Products: 10
 - [Face Creams & Moisturizers for Hydration & Anti-Aging](https://www.trendykbeauty.com/collections/facecreams): Shop face creams for hydration, anti-aging, and barrier repair. Featuring LBB, SAM’U, APOTHE & URIID skincare solutions.
   Updated: 2026-04-14T17:24:59Z
@@ -673,13 +673,13 @@
   Updated: 2026-04-14T17:24:59Z
   Total Products: 7
 - [Korean Face Masks| PDRN, Collagen & Hydrogel|Trendy K-Beauty](https://www.trendykbeauty.com/collections/face-mask): Shop Korean face masks from APOTHE & SAM'U. PDRN hydrogel masks, collagen lifting masks and more. Dermatologist-tested. Free US shipping over $35.
-  Updated: 2026-04-21T11:23:23Z
+  Updated: 2026-04-29T11:22:38Z
   Total Products: 14
 - [K-Beauty Bundles | Korean Skincare Sets & Value Kits](https://www.trendykbeauty.com/collections/bundles-1): Shop Korean skincare bundles for better results and value. Discover curated sets for hydration, anti-aging, and sensitive skin routines.
   Updated: 2026-04-17T09:07:10Z
   Total Products: 11
 - [Anti-Aging Skincare | Wrinkle & Firming Solutions](https://www.trendykbeauty.com/collections/anti-aging): Shop anti-aging skincare to reduce wrinkles, improve firmness, and restore glow. Powered by peptides, PDRN, and advanced K-beauty formulas.
-  Updated: 2026-04-14T17:25:00Z
+  Updated: 2026-05-08T11:26:43Z
   Total Products: 8
 - [Brightening Skincare | K-Beauty Glow & Dark Spot Care](https://www.trendykbeauty.com/collections/brightening): Shop K-beauty brightening skincare for glowing skin. Target dark spots, uneven tone, and dullness with gentle, effective formulas.
   Updated: 2026-04-17T09:07:10Z
@@ -691,7 +691,7 @@
   Updated: 2026-04-14T17:25:00Z
   Total Products: 7
 - [PDRN Skincare | Repair & Barrier Recovery Products](https://www.trendykbeauty.com/collections/pdrn): Shop PDRN skincare for skin repair and barrier recovery. Discover Korean serums and treatments for sensitive, damaged, and dehydrated skin.
-  Updated: 2026-04-21T11:23:23Z
+  Updated: 2026-04-29T11:22:38Z
   Total Products: 8
 - [Travel Size Skincare | Mini & On-the-Go Essentials](https://www.trendykbeauty.com/collections/travel-on-the-go): Shop travel-size skincare and on-the-go essentials. Mini serums, mists, and compact products for hydration, glow, and convenience anywhere.
   Updated: 2026-04-14T17:25:00Z
