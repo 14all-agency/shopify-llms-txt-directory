@@ -6,12 +6,101 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-09-22T15:57:36Z
 - Contact Email: ameliasaint.shop@gmail.com
-- Updated At: 2026-05-02T20:15:28.793Z
+- Updated At: 2026-05-10T00:00:27.260Z
+
+Amelia Saint es una marca española de joyería artesanal con piedras naturales y amuletos energéticos. Cada pieza está hecha a mano con intención, combinando estética, espiritualidad y personalización. Especializada en collares, pulseras y packs regalo únicos con carta personalizada por nombre y signo zodiacal.
+ 
+- Sitio web: https://www.ameliasaint.com
+- Contacto: ameliasaint.shop@gmail.com
+- Idioma: Español
+- Moneda: EUR
+- País: España
+ 
+## Sobre la marca
+ 
+Amelia Saint nace del deseo de reconectar con lo sagrado y la energía que habita en cada persona. Cada creación es un amuleto de protección y elevación energética, hecho a mano con piedras 100% naturales y auténticas. El packaging también es artesanal. La marca ofrece personalización completa: el cliente elige la piedra, el símbolo y recibe una carta personalizada con su nombre y signo zodiacal.
+ 
+Más información: https://www.ameliasaint.com/pages/sobre-nosotros
+ 
+## Productos
+ 
+### Collares personalizables con carta
+ 
+Todos los collares incluyen carta personalizada con nombre y signo zodiacal. El cliente elige la piedra natural (amatista, cuarzo blanco, cuarzo transparente, cuarzo rosa, aventurina verde, obsidiana negra, lapislázuli, citrino) y el símbolo (luna, corazón, estrella, colmillo, ojo protector, virgen, cruz).
+ 
+- [COLLAR Carolina + carta personalizada](https://www.ameliasaint.com/products/collar-carolina): Collar de 3 cadenas en 1 + 1 símbolo. El más elaborado de la colección. Precio: 46,99 €
+- [COLLAR Ismelia + carta personalizada](https://www.ameliasaint.com/products/collar-ismelia): Collar de 2 cadenas en 1 + 1 símbolo. Precio: 37,99 €
+- [COLLAR Ismael + carta personalizada](https://www.ameliasaint.com/products/collar-ismael): Collar de 1 cadena + 1 símbolo. Disponible en acabado dorado o plateado. Precio: 35,95 €
+- [COLLAR Andrea + carta personalizada](https://www.ameliasaint.com/products/collar-andrea): Collar de 1 cadena + 1 símbolo. Precio: 35,95 €
+ 
+### Colección Las Lagunas
+ 
+Collares inspirados en Las Lagunas de República Dominicana. Hechos a mano con piedras naturales. Sin personalización de símbolo. Precio: 29,49 €
+ 
+- [Collar LUISA – Jade](https://www.ameliasaint.com/products/collar-luisa?variant=56908322144631)
+- [Collar XIOMARA – Cuarzo Blanco](https://www.ameliasaint.com/products/collar-luisa?variant=56907442356599)
+- [Collar MONUNA – Ónix](https://www.ameliasaint.com/products/collar-luisa?variant=56907442454903)
+- [Collar DANNI – Lapislázuli](https://www.ameliasaint.com/products/collar-luisa?variant=56907442422135)
+ 
+### Packs regalo
+ 
+- [Pack Conexión – 2 collares + carta de conexión zodiacal](https://www.ameliasaint.com/products/pack-conexion-2-collares-de-proteccion-carta-de-conexion-por-signo-zodiacal): Ideal para parejas, madre e hija/o, amigos. Incluye 2 collares con piedras naturales + carta de conexión por signos zodiacales + 2 cartas personalizadas individuales. El cliente elige piedra y símbolo para cada collar. Precio: 52,99 €
+ 
+### Pulseras
+ 
+- [PULSERA Aura + carta personalizada](https://www.ameliasaint.com/products/pulsera): Pulsera hecha a mano con piedras naturales + 1 símbolo + carta personalizada. Piedras disponibles: cuarzo rosa, ojo de tigre, ónix. Precio: 24,49 €
+ 
+## Piedras disponibles y su energía
+ 
+- **Amatista**: intuición, calma, protección espiritual
+- **Cuarzo blanco**: claridad mental, purificación, amplificación de energía
+- **Cuarzo transparente**: equilibrio, limpieza energética
+- **Cuarzo rosa**: amor propio, compasión, apertura del corazón
+- **Aventurina verde**: abundancia, suerte, conexión con la naturaleza
+- **Obsidiana negra**: protección profunda, absorción de negatividad
+- **Lapislázuli**: sabiduría, comunicación, verdad
+- **Citrino**: alegría, manifestación, energía solar
+- **Jade**: prosperidad, armonía, equilibrio
+- **Ónix**: fuerza, resistencia, protección
+- **Ojo de tigre**: confianza, voluntad, claridad de decisión
+ 
+## Colecciones
+ 
+- [COLLARES](https://www.ameliasaint.com/collections/personaliza-tu-collar): Todos los collares personalizables.
+- [PULSERAS](https://www.ameliasaint.com/collections/pulseras): Pulseras artesanales con piedras naturales.
+- [LO MÁS VENDIDO](https://www.ameliasaint.com/collections/lo-mas-vendido): Los productos más populares de la tienda.
+- [PARA REGALAR](https://www.ameliasaint.com/collections/para-regalar): Selección de productos ideales como regalo.
+- [LAS LAGUNAS](https://www.ameliasaint.com/collections/haitises): Colección inspirada en República Dominicana.
+ 
+## Personalización
+ 
+Todos los amuletos personalizables permiten elegir:
+1. La piedra natural (según su energía y significado)
+2. El símbolo (luna, corazón, estrella, colmillo, ojo protector, virgen, cruz)
+3. En algunos modelos: acabado dorado o plateado
+ 
+Cada pedido incluye carta personalizada con el nombre del destinatario y su signo zodiacal.
+ 
+Guía de personalización: https://www.ameliasaint.com/pages/personaliza-tu-collar
+ 
+## Packaging
+ 
+El packaging de Amelia Saint es artesanal, creado a mano por profesionales. Cada detalle está pensado para que el regalo sea una experiencia completa desde el primer momento.
+ 
+Más info: https://www.ameliasaint.com/pages/nuestro-packaging
+ 
+## Información útil
+ 
+- [Preguntas frecuentes](https://www.ameliasaint.com/pages/preguntas-frecuentes)
+- [Política de devoluciones](https://www.ameliasaint.com/policies/refund-policy)
+- [Aviso legal](https://www.ameliasaint.com/policies/terms-of-service)
+- [Privacidad](https://www.ameliasaint.com/policies/privacy-policy)
+- [Contacto](https://www.ameliasaint.com/pages/contact)
 
 ## Products
 
-- [COLLAR Carolina + carta personalizada](https://www.ameliasaint.com/products/collar-carolina): Eleva tu energía y tu estilo con este collar hecho a mano con piedras naturales cuidadosamente seleccionadas. Elige tu piedra y símbolo (significado de piedras en imágenes de producto). Collar personalizable de 3 cadenas en 1 + 1 símbolo + Carta personalizada con nombre y signo zodiacal
-  Updated: 2026-04-07T23:17:30Z
+- [Collar Carolina con Piedras Naturales y Carta Personalizada | Amelia Saint](https://www.ameliasaint.com/products/collar-carolina): Collar artesanal Carolina con piedras naturales y carta personalizada por signo zodiacal. Hecho a mano en España. Envío en 5-7 días. ¡Personaliza el tuyo!
+  Updated: 2026-05-08T04:23:04Z
   Vendor: Amelia Saint
   Product Type: 
   Availability: Available
@@ -166,8 +255,8 @@
   - [Citrino / Luna](https://www.ameliasaint.com/products/collar-carolina?variant=56299029791095)
     Availability: Available
     Price: 46,99 € EUR
-- [COLLAR Ismelia + carta personalizada](https://www.ameliasaint.com/products/collar-ismelia): Eleva tu energía y tu estilo con este collar hecho a mano con piedras naturales cuidadosamente seleccionadas. Elige tu piedra y símbolo (significado de piedras en imágenes de producto). Collar personalizable de 2 cadenas en 1 + 1 símbolo + Carta personalizada con nombre y signo zodiacal
-  Updated: 2026-04-07T23:17:30Z
+- [Collar Ismelia con Piedras Naturales y Carta Personalizada | Amelia Saint](https://www.ameliasaint.com/products/collar-ismelia): Collar artesanal Ismelia con piedras naturales y carta personalizada por signo zodiacal. Hecho a mano en España. Envío en 5-7 días.
+  Updated: 2026-05-08T04:24:14Z
   Vendor: Amelia Saint
   Product Type: 
   Availability: Available
@@ -322,8 +411,8 @@
   - [Citrino / Luna](https://www.ameliasaint.com/products/collar-ismelia?variant=56298959602039)
     Availability: Available
     Price: 37,99 € EUR
-- [COLLAR Ismael + carta personalizada](https://www.ameliasaint.com/products/collar-ismael): Eleva tu energía y tu estilo con este collar hecho a mano con piedras naturales cuidadosamente seleccionadas. Elige tu piedra y símbolo (significado de piedras en imágenes de producto). Collar personalizable de 1 cadena + 1 símbolo + Carta personalizada con nombre y Signo zodiacal
-  Updated: 2026-04-07T23:17:30Z
+- [Collar Ismael con Piedras Naturales y Carta Personalizada | Amelia Saint](https://www.ameliasaint.com/products/collar-ismael): Collar artesanal Ismael con piedras naturales y carta personalizada por signo zodiacal. Hecho a mano en España. Envío en 5-7 días.
+  Updated: 2026-05-08T04:26:11Z
   Vendor: Amelia Saint
   Product Type: 
   Availability: Available
@@ -478,8 +567,8 @@
   - [Obsidiana negra / Cruz / Plateado](https://www.ameliasaint.com/products/collar-ismael?variant=56299108860279)
     Availability: Available
     Price: 35,95 € EUR
-- [COLLAR Andrea + carta personalizada](https://www.ameliasaint.com/products/collar-andrea): Eleva tu energía y tu estilo con este collar hecho a mano con piedras naturales cuidadosamente seleccionadas. Elige tu piedra y símbolo (significado de piedras en imágenes de producto). Collar personalizable de 1 cadena + 1 símbolo + Carta personalizada con nombre y Signo zodiacal
-  Updated: 2026-04-07T23:17:30Z
+- [Collar Andrea con Piedras Naturales y Carta Personalizada | Amelia Saint](https://www.ameliasaint.com/products/collar-andrea): Collar artesanal Andrea con piedras naturales y carta personalizada por signo zodiacal. Hecho a mano en España. Envío en 5-7 días.
+  Updated: 2026-05-08T04:27:25Z
   Vendor: Amelia Saint
   Product Type: 
   Availability: Available
@@ -634,8 +723,8 @@
   - [Citrino / Luna](https://www.ameliasaint.com/products/collar-andrea?variant=56297577054583)
     Availability: Available
     Price: 35,95 € EUR
-- [Pack Conexión / 2 collares de protección + carta de conexión por signo zodiacal](https://www.ameliasaint.com/products/pack-conexion-2-collares-de-proteccion-carta-de-conexion-por-signo-zodiacal): Haz un regalo único para: parejas, madre e hija/o, amigos... 2 collares de protección con piedras naturales + carta de conexión por signos zodiacales (cómo se complementan los signos) + 2 cartas personalizadas para cada collar. Elige ambas piedras y símbolo (si quieres 2 símbolos diferentes especifícalo junto con la piedra en tu pedido), especifica en detalles nombre y signo zodiacal para cada piedra, y prepárate para entregar un regalo único, con intención y significado.
-  Updated: 2026-04-07T23:17:30Z
+- [Pack Conexión: 2 Collares de Protección con Carta Zodiacal | Amelia Saint](https://www.ameliasaint.com/products/pack-conexion-2-collares-de-proteccion-carta-de-conexion-por-signo-zodiacal): Pack regalo de 2 collares artesanales de protección con carta de conexión por signo zodiacal. Ideal para parejas o amigas. Hecho a mano en España.
+  Updated: 2026-05-07T17:04:55Z
   Vendor: Amelia Saint
   Product Type: 
   Availability: Available
@@ -790,115 +879,112 @@
   - [Citrino / Amatista / Luna](https://www.ameliasaint.com/products/pack-conexion-2-collares-de-proteccion-carta-de-conexion-por-signo-zodiacal?variant=56309887697271)
     Availability: Available
     Price: 52,99 € EUR
-- [PULSERA Aura + Carta personalizada](https://www.ameliasaint.com/products/pulsera): Eleva tu aura y tu estilo con esta pulsera hecha a mano con piedras naturales cuidadosamente seleccionadas. Elige tu piedra y símbolo (significado de piedras en imágenes de producto). Pulsera personalizable + 1 símbolo + Carta personalizada con nombre y Signo zodiacal ( para medida especial especificar en instrucciones )
-  Updated: 2026-03-28T17:34:50Z
+- [Pulsera Aura con Piedras Naturales y Carta Personalizada | Amelia Saint](https://www.ameliasaint.com/products/pulsera-aura-piedras-naturales): Pulsera artesanal Aura con piedras naturales y carta personalizada. Hecha a mano en España. Ideal como regalo con significado. Envío en 5-7 días.
+  Updated: 2026-05-08T04:29:03Z
   Vendor: Amelia Saint
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/3769/5095/files/pulsera-aura-carta-personalizada-3129182.png?v=1773864157
-  - [Cuarzo rosa / Luna](https://www.ameliasaint.com/products/pulsera?variant=56489853976951)
+  - [Cuarzo rosa / Luna](https://www.ameliasaint.com/products/pulsera-aura-piedras-naturales?variant=56489853976951)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/3769/5095/files/pulsera-aura-carta-personalizada-5135558.png?v=1773864154
     Price: 24,49 € EUR
-  - [Cuarzo rosa / Corazón](https://www.ameliasaint.com/products/pulsera?variant=56489854009719)
+  - [Cuarzo rosa / Corazón](https://www.ameliasaint.com/products/pulsera-aura-piedras-naturales?variant=56489854009719)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/3769/5095/files/pulsera-aura-carta-personalizada-5135558.png?v=1773864154
     Price: 24,49 € EUR
-  - [Cuarzo rosa / Colmillo](https://www.ameliasaint.com/products/pulsera?variant=56489854075255)
+  - [Cuarzo rosa / Colmillo](https://www.ameliasaint.com/products/pulsera-aura-piedras-naturales?variant=56489854075255)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/3769/5095/files/pulsera-aura-carta-personalizada-5135558.png?v=1773864154
     Price: 24,49 € EUR
-  - [Cuarzo rosa / Ojo protector](https://www.ameliasaint.com/products/pulsera?variant=56489854108023)
+  - [Cuarzo rosa / Ojo protector](https://www.ameliasaint.com/products/pulsera-aura-piedras-naturales?variant=56489854108023)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/3769/5095/files/pulsera-aura-carta-personalizada-5135558.png?v=1773864154
     Price: 24,49 € EUR
-  - [Cuarzo rosa / Cruz](https://www.ameliasaint.com/products/pulsera?variant=56489854140791)
+  - [Cuarzo rosa / Cruz](https://www.ameliasaint.com/products/pulsera-aura-piedras-naturales?variant=56489854140791)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/3769/5095/files/pulsera-aura-carta-personalizada-5135558.png?v=1773864154
     Price: 24,49 € EUR
-  - [Ojo de Tigre / Luna](https://www.ameliasaint.com/products/pulsera?variant=56489854206327)
+  - [Ojo de Tigre / Luna](https://www.ameliasaint.com/products/pulsera-aura-piedras-naturales?variant=56489854206327)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/3769/5095/files/pulsera-aura-carta-personalizada-3129182.png?v=1773864157
     Price: 24,49 € EUR
-  - [Ojo de Tigre / Corazón](https://www.ameliasaint.com/products/pulsera?variant=56489854239095)
+  - [Ojo de Tigre / Corazón](https://www.ameliasaint.com/products/pulsera-aura-piedras-naturales?variant=56489854239095)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/3769/5095/files/pulsera-aura-carta-personalizada-3129182.png?v=1773864157
     Price: 24,49 € EUR
-  - [Ojo de Tigre / Colmillo](https://www.ameliasaint.com/products/pulsera?variant=56489854304631)
+  - [Ojo de Tigre / Colmillo](https://www.ameliasaint.com/products/pulsera-aura-piedras-naturales?variant=56489854304631)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/3769/5095/files/pulsera-aura-carta-personalizada-3129182.png?v=1773864157
     Price: 24,49 € EUR
-  - [Ojo de Tigre / Ojo protector](https://www.ameliasaint.com/products/pulsera?variant=56489854337399)
+  - [Ojo de Tigre / Ojo protector](https://www.ameliasaint.com/products/pulsera-aura-piedras-naturales?variant=56489854337399)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/3769/5095/files/pulsera-aura-carta-personalizada-3129182.png?v=1773864157
     Price: 24,49 € EUR
-  - [Ojo de Tigre / Cruz](https://www.ameliasaint.com/products/pulsera?variant=56489854370167)
+  - [Ojo de Tigre / Cruz](https://www.ameliasaint.com/products/pulsera-aura-piedras-naturales?variant=56489854370167)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/3769/5095/files/pulsera-aura-carta-personalizada-3129182.png?v=1773864157
     Price: 24,49 € EUR
-  - [Onix / Luna](https://www.ameliasaint.com/products/pulsera?variant=56489854435703)
+  - [Onix / Luna](https://www.ameliasaint.com/products/pulsera-aura-piedras-naturales?variant=56489854435703)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/3769/5095/files/pulsera-aura-carta-personalizada-9663057.png?v=1773864155
     Price: 24,49 € EUR
-  - [Onix / Corazón](https://www.ameliasaint.com/products/pulsera?variant=56489854468471)
+  - [Onix / Corazón](https://www.ameliasaint.com/products/pulsera-aura-piedras-naturales?variant=56489854468471)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/3769/5095/files/pulsera-aura-carta-personalizada-9663057.png?v=1773864155
     Price: 24,49 € EUR
-  - [Onix / Colmillo](https://www.ameliasaint.com/products/pulsera?variant=56489854534007)
+  - [Onix / Colmillo](https://www.ameliasaint.com/products/pulsera-aura-piedras-naturales?variant=56489854534007)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/3769/5095/files/pulsera-aura-carta-personalizada-9663057.png?v=1773864155
     Price: 24,49 € EUR
-  - [Onix / Ojo protector](https://www.ameliasaint.com/products/pulsera?variant=56489854566775)
+  - [Onix / Ojo protector](https://www.ameliasaint.com/products/pulsera-aura-piedras-naturales?variant=56489854566775)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/3769/5095/files/pulsera-aura-carta-personalizada-9663057.png?v=1773864155
     Price: 24,49 € EUR
-  - [Onix / Cruz](https://www.ameliasaint.com/products/pulsera?variant=56489854599543)
+  - [Onix / Cruz](https://www.ameliasaint.com/products/pulsera-aura-piedras-naturales?variant=56489854599543)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0947/3769/5095/files/pulsera-aura-carta-personalizada-9663057.png?v=1773864155
     Price: 24,49 € EUR
-  - [Cuarzo Rosa / Luna](https://www.ameliasaint.com/products/pulsera?variant=56907281105271)
-    Availability: Not Available
-    Price: 24,49 € EUR
-  - [Cuarzo Rosa / Corazón](https://www.ameliasaint.com/products/pulsera?variant=56907281138039)
-    Availability: Not Available
-    Price: 24,49 € EUR
-  - [Cuarzo Rosa / Colmillo](https://www.ameliasaint.com/products/pulsera?variant=56907281203575)
-    Availability: Not Available
-    Price: 24,49 € EUR
-  - [Cuarzo Rosa / Ojo protector](https://www.ameliasaint.com/products/pulsera?variant=56907281236343)
-    Availability: Not Available
-    Price: 24,49 € EUR
-  - [Cuarzo Rosa / Cruz](https://www.ameliasaint.com/products/pulsera?variant=56907281269111)
-    Availability: Not Available
-    Price: 24,49 € EUR
-- [Collar LAS LAGUNAS](https://www.ameliasaint.com/products/collar-luisa): Eleva tu energía y tu estilo con este collar hecho a mano con piedras naturales cuidadosamente seleccionadas, inspirada en Las Lagunas de República Dominicana. Elige tu piedra (significado de piedras en imágenes de producto).
-  Updated: 2026-04-08T03:15:12Z
+- [Collar Las Lagunas – Joya Artesanal con Piedras Naturales | Amelia Saint](https://www.ameliasaint.com/products/collar-las-lagunas): Collar artesanal Las Lagunas con piedras naturales. Diseño único hecho a mano en España. Un amuleto con energía y significado. Envío en 5-7 días.
+  Updated: 2026-05-08T04:29:50Z
   Vendor: Amelia Saint
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/3769/5095/files/collar-laguna-8837164.png?v=1775576285
-  - [Collar LUISA (Jade)](https://www.ameliasaint.com/products/collar-luisa?variant=56908322144631)
+  - [Collar LUISA (Jade)](https://www.ameliasaint.com/products/collar-las-lagunas?variant=56908322144631)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0947/3769/5095/files/collar-laguna-5827277.png?v=1775576285
     Price: 29,49 € EUR
-  - [Collar XIOMARA (Cuarzo Blanco)](https://www.ameliasaint.com/products/collar-luisa?variant=56907442356599)
+  - [Collar XIOMARA (Cuarzo Blanco)](https://www.ameliasaint.com/products/collar-las-lagunas?variant=56907442356599)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0947/3769/5095/files/collar-laguna-2300657.png?v=1773864155
     Price: 29,49 € EUR
-  - [Collar MONUNA Onix)](https://www.ameliasaint.com/products/collar-luisa?variant=56907442454903)
+  - [Collar MONUNA Onix)](https://www.ameliasaint.com/products/collar-las-lagunas?variant=56907442454903)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0947/3769/5095/files/collar-laguna-9619797.png?v=1773864197
     Price: 29,49 € EUR
-  - [Collar DANNI (Lapislázuli)](https://www.ameliasaint.com/products/collar-luisa?variant=56907442422135)
+  - [Collar DANNI (Lapislázuli)](https://www.ameliasaint.com/products/collar-las-lagunas?variant=56907442422135)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0947/3769/5095/files/collar-laguna-2599568.png?v=1775576277
     Price: 29,49 € EUR
 
 ## Collections
 
-- [COLLARES](https://www.ameliasaint.com/collections/personaliza-tu-collar)
-  Updated: 2026-03-27T18:19:41Z
+- [Collares Artesanales con Piedras Naturales Personalizados | Amelia Saint](https://www.ameliasaint.com/collections/personaliza-tu-collar): Collares artesanales con piedras naturales y carta personalizada por signo zodiacal. Hechos a mano en España. Envío en 5-7 días. ¡Descubre el tuyo!
+  Updated: 2026-05-07T17:04:53Z
   Total Products: 6
-- [PULSERAS](https://www.ameliasaint.com/collections/pulseras): Nuestras pulseras son mucho más que un complemento: son amuletos de protección y energía pensados para acompañarte en tu día a día con estilo y significado.
-  Updated: 2026-03-27T18:05:41Z
+- [Pulseras Artesanales con Piedras Naturales Personalizadas | Amelia Saint](https://www.ameliasaint.com/collections/pulseras): Pulseras artesanales con piedras naturales y carta personalizada por signo zodiacal. Hechas a mano en España. Envío en 5-7 días. ¡Descubre la tuya!
+  Updated: 2026-05-07T17:04:53Z
   Total Products: 2
-- [LO MAS VENDIDO](https://www.ameliasaint.com/collections/lo-mas-vendido)
-  Updated: 2026-03-27T18:19:41Z
+- [Joyas Más Vendidas con Piedras Naturales | Amelia Saint](https://www.ameliasaint.com/collections/lo-mas-vendido): Los collares y pulseras más vendidos de Amelia Saint. Joyas artesanales con piedras naturales y carta personalizada favoritas de nuestras clientas.
+  Updated: 2026-05-07T17:04:53Z
   Total Products: 6
-- [PARA REGALAR](https://www.ameliasaint.com/collections/para-regalar): Encuentra aquí el regalo perfecto para esa persona especial.
-  Updated: 2026-03-27T18:19:41Z
+- [Regalos Originales de Joyería Artesanal con Piedras Naturales | Amelia Saint](https://www.ameliasaint.com/collections/para-regalar): Regalos originales de joyería artesanal con piedras naturales y carta personalizada. Hechos a mano en España. Ideales para parejas y amigas. ¡Descúbrelos!
+  Updated: 2026-05-07T17:04:53Z
   Total Products: 5
-- [LAS LAGUNAS](https://www.ameliasaint.com/collections/haitises)
-  Updated: 2026-04-07T15:15:05Z
+- [Collar Las Lagunas República Dominicana | Amelia Saint](https://www.ameliasaint.com/collections/haitises): Colección inspirada en Las Lagunas de República Dominicana. Collares artesanales con piedras naturales únicas, llenos de historia y significado.
+  Updated: 2026-05-07T17:04:53Z
   Total Products: 1
-- [Productos de ejemplo de Salud](https://www.ameliasaint.com/collections/-example-products)
-  Updated: 2026-05-01T11:43:07Z
-  Total Products: 4
 
 ## Blogs
 
@@ -906,23 +992,33 @@
   - [AMELIA SAINT JOYERÍA ARTESANAL](https://www.ameliasaint.com/blogs/noticias/amelia-saint-joyeria-artesanal)
     Updated: 2025-12-04T15:28:16Z
     Author: Michelle Guillen
+  - [EL REGALO PERFECTO](https://www.ameliasaint.com/blogs/noticias/el-regalo-perfecto)
+    Updated: 2026-05-08T15:47:09Z
+    Author: Michelle Guillen
+  - [¿Cómo elegir tu piedra?](https://www.ameliasaint.com/blogs/noticias/como-elegir-tu-piedra)
+    Updated: 2026-05-08T15:47:21Z
+    Author: Michelle Guillen
+  - [Joyas con Energía: Piedras Naturales Artesanales que Transforman tu Día | Amelia Saint](https://www.ameliasaint.com/blogs/noticias/joyas-con-energia-como-las-piedras-naturales-artesanales-transforman-tu-dia-a-dia): Joyas con Energía: Piedras Naturales Artesanales que Transforman tu Día | Amelia Saint
+    Updated: 2026-05-08T15:47:25Z
+    Author: Hector Eduardo Cabrera Adames
+    Tags: amuletos, collar artesanal, collar personalizado, joyas con energía, joyería artesanal, joyería energética, piedras naturales, piedras naturales artesanales, signo zodiacal
 
 ## Store Pages
 
-- [Contacto](https://www.ameliasaint.com/pages/contact)
-  Updated: 2025-09-22T15:57:39Z
-- [Sobre Nosotros](https://www.ameliasaint.com/pages/sobre-nosotros): Amelia Saint nace del deseo profundo de reconectar con lo sagrado, con la intuición y con la energía que habita en cada uno de nosotros.Cada creaci...
-  Updated: 2026-01-14T14:18:56Z
-- [PERSONALIZA TU AMULETO](https://www.ameliasaint.com/pages/personaliza-tu-collar): Los Amuletos personalizados son la esencia de Amelia Saint. Una herramienta energética diseñada para elevar tu vibración y acompañarte en tu transf...
-  Updated: 2026-04-17T16:24:51Z
+- [Contacto | Amelia Saint Joyas Artesanales](https://www.ameliasaint.com/pages/contact): ¿Tienes alguna pregunta? Estamos aquí para ayudarteEn Amelia Saint nos encanta conectar con nuestra comunidad. Si tienes alguna duda sobre nuestras...
+  Updated: 2026-05-05T14:12:42Z
+- [Sobre Amelia Saint – Joyería Artesanal con Piedras Naturales hecha en España](https://www.ameliasaint.com/pages/sobre-nosotros): Amelia Saint nace del deseo profundo de reconectar con lo sagrado, con la intuición y con la energía que habita en cada uno de nosotros.Cada creaci...
+  Updated: 2026-05-07T17:41:04Z
+- [Personaliza tu Amuleto con Piedras Naturales y Signo Zodiacal | Amelia Saint](https://www.ameliasaint.com/pages/personaliza-tu-collar): Los Amuletos personalizados son la esencia de Amelia Saint. Una herramienta energética diseñada para elevar tu vibración y acompañarte en tu transf...
+  Updated: 2026-05-07T17:39:30Z
 - [Pack Conexión – 2 Collares de Piedras Naturales y Regalo con Significado](https://www.ameliasaint.com/pages/pack-conexion-2-collares-de-piedras-naturales-y-regalo-con-significado): El Pack Conexión de Amelia Saint es el regalo ideal para alguien especial: más que una joya, es un símbolo de unión, energía y complicidad. Cada pa...
   Updated: 2026-03-28T18:56:50Z
 - [Nuestro Packaging](https://www.ameliasaint.com/pages/nuestro-packaging): En Amelia Saint creemos que cada detalle importa, incluso nuestro packaging es creado a mano de manera artesanal por profesionales que ponen dedica...
   Updated: 2026-01-14T13:28:30Z
-- [Nuestras Creaciones](https://www.ameliasaint.com/pages/nuestras-creaciones)
-  Updated: 2026-03-28T17:45:46Z
-- [Preguntas Frecuentes](https://www.ameliasaint.com/pages/preguntas-frecuentes): ¿Las piedras son naturales y auténticas?Sí, todas nuestras piedras son 100% naturales y auténticas. En Amelia Saint utilizamos únicamente piedras n...
-  Updated: 2026-01-14T14:20:29Z
+- [Nuestras Creaciones | Joyas Artesanales con Piedras Naturales](https://www.ameliasaint.com/pages/nuestras-creaciones): Joyas artesanales hechas con intenciónEn Amelia Saint cada pieza nace de un proceso cuidadoso y consciente. Seleccionamos las piedras naturales una...
+  Updated: 2026-05-05T14:12:05Z
+- [Preguntas Frecuentes sobre Joyería Artesanal con Piedras Naturales | Amelia Saint](https://www.ameliasaint.com/pages/preguntas-frecuentes): Preguntas Frecuentes ¿Las piedras naturales son auténticas? Sí, todas nuestras piedras son 100% naturales, seleccionadas a mano por su calidad y en...
+  Updated: 2026-05-07T17:18:58Z
 
 ## Policies
 
