@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-08-19T03:58:11Z
 - Contact Email: gfaure5@gmail.com
-- Updated At: 2026-05-02T00:00:41.246Z
+- Updated At: 2026-05-10T00:00:41.659Z
 
 ## Products
 
@@ -25,14 +25,14 @@
   Image: https://cdn.shopify.com/s/files/1/0659/2482/5332/files/4_94b46ff3-680f-476b-8c1f-1fb43e20ed9c.png?v=1717086056
   Price: $5.00 USD
 - [Daily Care](https://bleucommetoi.fr/products/perfume-1)
-  Updated: 2026-05-01T21:26:37Z
+  Updated: 2026-05-04T21:45:13Z
   Vendor: Video Commerce
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0659/2482/5332/files/3.png?v=1717082707
   Price: $10.00 USD
 - [Yoga Blouse](https://bleucommetoi.fr/products/produit-c): Designed for casual.
-  Updated: 2026-04-29T16:22:52Z
+  Updated: 2026-05-08T17:28:10Z
   Vendor: Video Commerce
   Product Type: 
   Availability: Available
@@ -47,7 +47,7 @@
     Availability: Available
     Price: $49.00 USD
 - [Yoga Hoodie](https://bleucommetoi.fr/products/yoga-hoodie): Designed for casual.
-  Updated: 2026-04-30T22:14:42Z
+  Updated: 2026-05-08T17:28:10Z
   Vendor: Video Commerce
   Product Type: 
   Availability: Available
