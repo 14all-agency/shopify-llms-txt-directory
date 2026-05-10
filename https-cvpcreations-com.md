@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-02-10T10:50:54Z
 - Contact Email: cvpcreations.ce@gmail.com
-- Updated At: 2026-05-03T00:00:41.351Z
+- Updated At: 2026-05-10T00:00:42.571Z
 
 ## Products
 
@@ -475,7 +475,7 @@
 - [Shipping Policy](https://cvpcreations.com/policies/shipping-policy)
   Updated: 2026-02-28T18:45:26+05:30
 - [Refund Policy](https://cvpcreations.com/policies/refund-policy)
-  Updated: 2026-02-13T20:41:41+05:30
+  Updated: 2026-05-08T11:25:26+05:30
 - [Terms of Service](https://cvpcreations.com/policies/terms-of-service)
   Updated: 2026-02-13T20:43:06+05:30
 - [Contact Information](https://cvpcreations.com/policies/contact-information)
