@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2024-10-28T07:24:43Z
 - Contact Email: godigitalstar@gmail.com
-- Updated At: 2026-05-02T00:00:47.000Z
+- Updated At: 2026-05-10T00:00:48.698Z
 
 ## Products
 
@@ -1552,8 +1552,8 @@
   - [45](https://vibesmilano.com/products/new-balance-nb-9060-grigio-blu-colore-introvabile-sul-mercato-italiano?variant=50601118171477)
     Availability: Available
     Price: 179,00 € EUR
-- [New Balance NB 9060 Fuchsia Pink](https://vibesmilano.com/products/new-balance-nb-9060-rosa-acceso-colore-introvabile-sul-mercato-italiano): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTE: Per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine
-  Updated: 2026-04-25T06:47:04Z
+- [New Balance NB 9060 Fuchsia Pink](https://vibesmilano.com/products/new-balance-nb-9060-rosa-acceso-colore-introvabile-sul-mercato-italiano): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTE: Per la consegna occorrono 12-14 giorni lavorativi mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine
+  Updated: 2026-05-03T06:41:45Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -1604,7 +1604,7 @@
     Availability: Available
     Price: 169,00 € EUR
 - [New Balance NB 9060 Warped Multi-Color](https://vibesmilano.com/products/new-balance-nb-9060-verde-rosa-colore-introvabile-sul-mercato-italiano): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS. L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 Questo modello particolare nasce dalla collaborazione con Joe Freshgoods NOTE: 1) Prestare molta attenzione nella scelta del numero: le New Balance 9060 calzano piccolo, quindi consigliamo di scegliere un numero più grande (ad esempio se porti il 43 dovrai selezionare il 44) A causa della forte richiesta dovuta alla promozione in corso, per la consegna occorrono 12-14 giorni LAVORATIVI mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-04-25T06:47:05Z
+  Updated: 2026-05-04T10:38:38Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -2186,7 +2186,7 @@
     Availability: Available
     Price: 139,00 € EUR
 - [New Balance 530 bianco blu haze](https://vibesmilano.com/products/new-balance-530-bianco-blu-haze): New Balance 530 è una sneaker dal tocco vintage, creata per garantire il massimo comfort grazie ad una nuova tecnologia. Rappresenta la combinazione perfetta tra lo stile rétro e l'estetica sportiva dei tempi moderni. La tomaia in materiale sintetico e mesh garantisce resistenza, massimo comfort e traspirabilità, per una sensazione di asciutto a ogni passo. Combinando ammortizzazione e resistenza alla compressione, l'intersuola ABZORB garantisce un eccezionale assorbimento degli urti, per camminare nella massima leggerezza. Caratteristiche delle New Balance 530: Tomaia in materiale sintetico e mesh Chiusura con lacci tono su tono Caratteristico logo "N" Intersuola con ammortizzazione ABZORB Suola in gomma NOTE: 1) Prestare molta attenzione nella scelta del numero 2) A causa della forte richiesta dovuta alla promozione in corso, per la consegna occorrono 10-12 giorni mediamente. Si prega di tenerne in considerazione quando si effettua l'ordine.
-  Updated: 2026-04-25T06:47:19Z
+  Updated: 2026-05-08T13:36:57Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -10832,7 +10832,7 @@
     Availability: Available
     Price: 169,00 € EUR
 - [New Balance NB 9060 Prism Violet](https://vibesmilano.com/products/new-balance-nb-9060-prism-violet): Le New Balance 9060 rappresentano una nuova espressione dello stile raffinato e del design innovativo di oggi. Il modello 9060 si inspira all'estetica visibilmente tecnologica e orgogliosamente futuristica dell'era Y2K. Le barre di oscillazione, riprese dalle 990, sono state ampliate e utilizzate su tutta la tomaia per conferire un senso di movimento visibile, mentre le linee ondulate e le proporzioni scalate sull'intersuola scolpita pongono un'enfasi esagerata sulle note piattaforme di ammortizzazione ABZORB e SBS L'intersuola ABZORB assorbe gli impatti grazie alla combinazione di ammortizzazione e resistenza alla compressione Intersuola a doppia densità con ammortizzazione ABZORB e SBS Logo sulla linguetta ispirato ai lacci originali delle 991 Dispositivo CR traslucido sul tallone Motivo a rombi della suola ispirato al classico design delle 860 NOTA BENE: TEMPI DI SPEDIZIONE: 12-14 GIORNI LAVORATIVI
-  Updated: 2026-04-20T21:55:40Z
+  Updated: 2026-05-05T06:27:24Z
   Vendor: VIBES MILANO
   Product Type: Sneakers
   Availability: Available
@@ -11547,23 +11547,23 @@
 ## Collections
 
 - [Sneakers](https://vibesmilano.com/collections/sneakers)
-  Updated: 2026-05-01T08:52:18Z
-  Total Products: 1142
+  Updated: 2026-05-09T11:20:49Z
+  Total Products: 1186
 - [Profumi di nicchia](https://vibesmilano.com/collections/profumi): Profumi arabi di nicchia
   Updated: 2026-04-20T21:52:00Z
   Total Products: 16
 - [Scarpe](https://vibesmilano.com/collections/scarpe): Scarpe uomo e donna dei migliori brand
-  Updated: 2026-05-01T08:52:18Z
-  Total Products: 848
+  Updated: 2026-05-09T11:20:49Z
+  Total Products: 884
 - [New Balance](https://vibesmilano.com/collections/new-balance)
-  Updated: 2026-04-25T11:25:21Z
-  Total Products: 249
+  Updated: 2026-05-09T11:20:49Z
+  Total Products: 252
 - [Nike](https://vibesmilano.com/collections/nike): sneakers Nike
-  Updated: 2026-05-01T08:52:18Z
-  Total Products: 224
+  Updated: 2026-05-09T09:11:03Z
+  Total Products: 257
 - [Adidas](https://vibesmilano.com/collections/adidas-sneakers): SNEAKERS ADIDAS
-  Updated: 2026-04-23T11:22:59Z
-  Total Products: 127
+  Updated: 2026-05-07T16:04:07Z
+  Total Products: 136
 - [PUMA](https://vibesmilano.com/collections/puma): SNEAKERS PUMA SPEEDCAT
   Updated: 2026-04-20T21:52:02Z
   Total Products: 8
@@ -11583,10 +11583,10 @@
   Updated: 2026-04-20T21:52:05Z
   Total Products: 34
 - [NB 9060](https://vibesmilano.com/collections/nb-9060)
-  Updated: 2026-04-25T11:25:21Z
-  Total Products: 162
+  Updated: 2026-05-09T07:23:32Z
+  Total Products: 165
 - [NB 530](https://vibesmilano.com/collections/nb-530)
-  Updated: 2026-04-20T21:52:05Z
+  Updated: 2026-05-09T11:20:49Z
   Total Products: 10
 - [NB 1000](https://vibesmilano.com/collections/nb-1000)
   Updated: 2026-04-20T21:52:06Z
@@ -11607,8 +11607,8 @@
   Updated: 2026-04-20T21:52:07Z
   Total Products: 33
 - [AIR FORCE 1](https://vibesmilano.com/collections/air-force-1)
-  Updated: 2026-04-29T16:26:26Z
-  Total Products: 56
+  Updated: 2026-05-06T14:31:17Z
+  Total Products: 60
 - [AIR JORDAN 4](https://vibesmilano.com/collections/air-jordan-4)
   Updated: 2026-04-20T21:52:07Z
   Total Products: 22
@@ -11619,13 +11619,13 @@
   Updated: 2026-04-20T21:52:07Z
   Total Products: 23
 - [SAMBA](https://vibesmilano.com/collections/samba)
-  Updated: 2026-04-20T21:52:08Z
-  Total Products: 18
+  Updated: 2026-05-07T14:41:00Z
+  Total Products: 19
 - [Cinture](https://vibesmilano.com/collections/cinture)
   Updated: 2026-04-20T21:52:09Z
   Total Products: 8
 - [BROOKS](https://vibesmilano.com/collections/brooks): Scarpe da running
-  Updated: 2026-04-20T21:52:09Z
+  Updated: 2026-05-05T11:28:38Z
   Total Products: 28
 - [Bambino](https://vibesmilano.com/collections/bambino): Scarpe bambino
   Updated: 2026-04-25T11:25:21Z
@@ -11649,7 +11649,7 @@
   Updated: 2026-04-20T21:52:11Z
   Total Products: 20
 - [ON CLOUD RUNNING](https://vibesmilano.com/collections/on-cloud-running): Scarpe da running
-  Updated: 2026-04-30T11:22:54Z
+  Updated: 2026-05-04T11:23:59Z
   Total Products: 58
 - [Air Max Dn8](https://vibesmilano.com/collections/air-max-dn8): Sneakers Nike Air Max Dn8
   Updated: 2026-04-20T21:52:11Z
@@ -11750,9 +11750,9 @@
 - [Nike Air Max 95 Corteiz](https://vibesmilano.com/collections/nike-air-max-95-corteiz)
   Updated: 2026-04-20T21:52:23Z
   Total Products: 4
-- [Best seller](https://vibesmilano.com/collections/best-seller)
-  Updated: 2026-04-29T15:58:04Z
-  Total Products: 16
+- [Best Seller](https://vibesmilano.com/collections/best-seller): Gli articoli piu' venduti dell'ultima settimana
+  Updated: 2026-05-09T11:20:49Z
+  Total Products: 9
 - [New Balance 204L Kith](https://vibesmilano.com/collections/new-balance-204l-kith)
   Updated: 2026-04-20T21:52:23Z
   Total Products: 3
@@ -11763,13 +11763,13 @@
   Updated: 2026-04-20T21:52:24Z
   Total Products: 12
 - [Nike JA 3](https://vibesmilano.com/collections/nike-ja-3)
-  Updated: 2026-04-20T21:52:24Z
+  Updated: 2026-05-02T11:23:58Z
   Total Products: 7
 - [Nike Vomero Plus](https://vibesmilano.com/collections/nike-vomero-3-plus)
-  Updated: 2026-04-20T21:52:25Z
+  Updated: 2026-05-09T07:45:04Z
   Total Products: 14
 - [Mizuno Wave Prophecy](https://vibesmilano.com/collections/mizuno-wave-prophecy)
-  Updated: 2026-04-20T21:52:25Z
+  Updated: 2026-05-09T11:20:49Z
   Total Products: 7
 - [Hoka One Clifton 10](https://vibesmilano.com/collections/hoka-one-clifton-10)
   Updated: 2026-04-20T21:52:25Z
@@ -11796,7 +11796,7 @@
   Updated: 2026-04-20T21:52:27Z
   Total Products: 16
 - [Hyperion](https://vibesmilano.com/collections/hyperion)
-  Updated: 2026-04-20T21:52:27Z
+  Updated: 2026-05-05T11:28:38Z
   Total Products: 12
 - [NB 204 L](https://vibesmilano.com/collections/nb-204-l)
   Updated: 2026-04-20T21:52:28Z
@@ -11808,8 +11808,8 @@
   Updated: 2026-04-20T21:52:28Z
   Total Products: 12
 - [Tang Jacket](https://vibesmilano.com/collections/tang-jacket)
-  Updated: 2026-04-23T11:22:59Z
-  Total Products: 5
+  Updated: 2026-05-05T11:28:38Z
+  Total Products: 7
 - [Air Jordan 5](https://vibesmilano.com/collections/air-jordan-5)
   Updated: 2026-04-20T21:52:28Z
   Total Products: 12
@@ -11823,11 +11823,20 @@
   Updated: 2026-04-20T21:52:29Z
   Total Products: 5
 - [New Arrivals - Nuovi Arrivi | VIBES MILANO](https://vibesmilano.com/collections/new-arrivals): Scopri i nuovi arrivi di VIBES MILANO. Le ultime novità sempre aggiornate.
-  Updated: 2026-05-01T08:52:18Z
-  Total Products: 46
+  Updated: 2026-05-09T09:11:03Z
+  Total Products: 90
 - [Mind 002](https://vibesmilano.com/collections/mind-002)
   Updated: 2026-05-01T09:02:28Z
   Total Products: 4
+- [Samba Jane](https://vibesmilano.com/collections/samba-jane)
+  Updated: 2026-05-07T16:04:07Z
+  Total Products: 7
+- [Vomero Premium](https://vibesmilano.com/collections/vomero-premium): Scarpa da running futuristica di casa Nike
+  Updated: 2026-05-09T09:11:03Z
+  Total Products: 29
+- [New Balance 9060 Summer](https://vibesmilano.com/collections/new-balance-9060-summer)
+  Updated: 2026-05-09T10:03:43Z
+  Total Products: 2
 
 ## Blogs
 
