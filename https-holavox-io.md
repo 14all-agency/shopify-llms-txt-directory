@@ -6,14 +6,14 @@
 - Timezone: Europe/Paris
 - Created At: 2025-10-19T15:48:08Z
 - Contact Email: contact@holavox.io
-- Updated At: 2026-05-03T00:00:20.151Z
+- Updated At: 2026-05-10T00:00:27.064Z
 
 Traducteur vocal instantané HOLAVOX
 
 ## Products
 
-- [Traducteur vocal instantané portable - HOLAVOX](https://holavox.io/products/holavox-traducteur-vocal-instantane-portable): Traducteur vocal instantané portable - HOLAVOX. Traduction en ligne ou en mode hors-ligne, carte SIM intégrée. Simple, rapide et précis
-  Updated: 2026-05-02T23:24:36Z
+- [Traducteur vocal instantané HOLAVOX](https://holavox.io/products/holavox-traducteur-vocal-instantane-holavox): Traducteur vocal instantané HOLAVOX. Traduction en ligne ou en mode hors-ligne, carte SIM intégrée. Simple, rapide et précis
+  Updated: 2026-05-09T23:40:18Z
   Vendor: Holavox
   Product Type: traducteur vocal
   Availability: Available
@@ -45,62 +45,65 @@ Traducteur vocal instantané HOLAVOX
 
 - [traducteur vocal instantané, le blog qui vous aide](https://holavox.io/blogs/traducteur-vocal-instantane-plus-de-barriere): Traducteur vocal instantané : découvrez comment briser les barrières linguistiques en temps réel et communiquez sans limites.
   - [Mon traducteur Holavox m’a évité de passer la nuit bloqué](https://holavox.io/blogs/traducteur-vocal-instantane-plus-de-barriere/comment-holavox-m-a-evite-de-passer-la-nuit-bloque-a-la-gare-de-tokyo): Mon traducteur Holavox m’a évité de passer la nuit bloqué
-    Updated: 2026-02-17T21:57:12Z
+    Updated: 2026-05-03T23:01:22Z
     Author: Laurent PLANCHON
   - [La fois où mon traducteur Holavox m’a permis de négocier](https://holavox.io/blogs/traducteur-vocal-instantane-plus-de-barriere/la-fois-ou-holavox-m-a-permis-de-negocier-un-tapis-marocain-sans-me-faire-plumer): La fois où mon traducteur Holavox m’a permis de négocier
-    Updated: 2026-02-02T21:03:35Z
+    Updated: 2026-05-03T23:00:53Z
     Author: Laurent PLANCHON
   - [Holavox m’a sauvé mon premier oral en échange universitaire](https://holavox.io/blogs/traducteur-vocal-instantane-plus-de-barriere/holavox-m-a-sauve-mon-premier-oral-en-echange-universitaire): Holavox m’a sauvé mon premier oral en échange universitaire
     Updated: 2026-02-02T21:00:50Z
     Author: Laurent PLANCHON
   - [Comment Holavox m'a débloqué un contrat en Chine](https://holavox.io/blogs/traducteur-vocal-instantane-plus-de-barriere/comment-holavox-m-a-debloque-un-contrat-en-chine-en-10-minutes): Comment Holavox m'a débloqué un contrat en Chine
-    Updated: 2026-02-20T16:35:06Z
+    Updated: 2026-05-03T22:59:27Z
     Author: Laurent PLANCHON
   - [Traducteur vocal instantané chez le médecin : Mon expérience en Thaïlande](https://holavox.io/blogs/traducteur-vocal-instantane-plus-de-barriere/ce-jour-la-j-ai-vraiment-compris-l-utilite-de-mon-traducteur-chez-le-medecin-en-thailande): Traducteur vocal instantané chez le médecin : Mon expérience en Thaïlande
     Updated: 2026-02-17T21:52:16Z
     Author: Laurent PLANCHON
   - [Meilleur traducteur vocal 2026 : votre guide de voyage](https://holavox.io/blogs/traducteur-vocal-instantane-plus-de-barriere/meilleur-traducteur-vocal-2026-voyager-guide): Meilleur traducteur vocal 2026 : votre guide de voyage
-    Updated: 2026-02-02T20:49:03Z
+    Updated: 2026-05-03T23:00:11Z
     Author: Laurent PLANCHON
-  - [Accident de voiture à l’étranger : comment Holavox m’a littéralement sauvé la mise](https://holavox.io/blogs/traducteur-vocal-instantane-plus-de-barriere/accident-de-voiture-a-l-etranger-comment-holavox-m-a-litteralement-sauve-la-mise): Accident de voiture à l’étranger : comment Holavox m’a littéralement sauvé la mise
-    Updated: 2026-02-17T21:55:25Z
+  - [Accident de voiture : Holavox a été ma meilleure solution](https://holavox.io/blogs/traducteur-vocal-instantane-plus-de-barriere/accident-de-voiture-a-l-etranger-comment-holavox-m-a-litteralement-sauve-la-mise): Accident de voiture : Holavox a été ma meilleure solution
+    Updated: 2026-05-03T22:55:50Z
     Author: Laurent PLANCHON
   - [Intoxication alimentaire au Mexique : Mon sauveur, Holavox](https://holavox.io/blogs/traducteur-vocal-instantane-plus-de-barriere/le-jour-ou-j-ai-fait-une-intoxication-alimentaire-au-mexique): Intoxication alimentaire au Mexique : Mon sauveur, Holavox
-    Updated: 2026-02-20T16:36:47Z
+    Updated: 2026-05-03T22:53:19Z
     Author: Laurent PLANCHON
   - [Accident de voiture à l'étranger : conseils et solutions](https://holavox.io/blogs/traducteur-vocal-instantane-plus-de-barriere/accident-de-voiture-a-letranger): Accident de voiture à l'étranger : conseils et solutions
-    Updated: 2026-03-26T23:43:59Z
+    Updated: 2026-05-03T22:55:10Z
     Author: Laurent PLANCHON
   - [Douleurs soudaines sans traducteur : Guide en Italie](https://holavox.io/blogs/traducteur-vocal-instantane-plus-de-barriere/douleurs-soudaines-sans-traducteur-italie): Douleurs soudaines sans traducteur : Guide en Italie
-    Updated: 2026-04-12T21:06:55Z
+    Updated: 2026-05-03T22:57:34Z
     Author: Laurent PLANCHON
-  - [Le traducteur vocal : Mon sauveur au Brésil](https://holavox.io/blogs/traducteur-vocal-instantane-plus-de-barriere/vol-de-portefeuille-au-bresil-traducteur-vocal): Le traducteur vocal : Mon sauveur au Brésil
-    Updated: 2026-03-26T23:37:28Z
+  - [Le traducteur vocal : Mon sauveur au Brésil](https://holavox.io/blogs/traducteur-vocal-instantane-plus-de-barriere/le-traducteur-vocal-sauve-vol-portefeuille-bresil): Le traducteur vocal : Mon sauveur au Brésil
+    Updated: 2026-05-03T22:54:31Z
     Author: Laurent PLANCHON
   - [Passage à l'hopital en Espagne avec le traducteur vocal](https://holavox.io/blogs/traducteur-vocal-instantane-plus-de-barriere/passage-hopital-espagne-traducteur-vocal): Passage à l'hopital en Espagne avec le traducteur vocal
-    Updated: 2026-04-05T12:17:03Z
+    Updated: 2026-05-03T22:58:52Z
     Author: Laurent PLANCHON
   - [Louer une voiture à l'étranger](https://holavox.io/blogs/traducteur-vocal-instantane-plus-de-barriere/louer-une-voiture-a-l-etranger): Louer une voiture à l'étranger
-    Updated: 2026-04-12T21:04:45Z
+    Updated: 2026-05-03T22:58:07Z
     Author: Laurent PLANCHON
-  - [Pharmacie à l’étranger](https://holavox.io/blogs/traducteur-vocal-instantane-plus-de-barriere/pharmacie-a-l-etranger)
-    Updated: 2026-04-21T15:42:22Z
+  - [Pharmacie à l’étranger éviter les erreurs](https://holavox.io/blogs/traducteur-vocal-instantane-plus-de-barriere/pharmacie-a-letranger-eviter-erreurs): Pharmacie à l’étranger éviter les erreurs
+    Updated: 2026-05-03T22:57:00Z
+    Author: Laurent PLANCHON
+  - [Chez l'habitant en Italie, un traducteur](https://holavox.io/blogs/traducteur-vocal-instantane-plus-de-barriere/chez-lhabitant-en-italie)
+    Updated: 2026-05-03T22:56:20Z
     Author: Laurent PLANCHON
 
 ## Store Pages
 
-- [contactez Holavox traduction instantanée et efficace](https://holavox.io/pages/contact): contactez Holavox traduction instantanée Des questions sur notre traducteur vocal instantané ? Une utilisation du traducteur spécifique ? Contactez...
-  Updated: 2026-03-30T18:45:18Z
+- [contactez Holavox traduction instantanée et efficace](https://holavox.io/pages/contactez-holavox-traduction-instantanee): contactez Holavox traduction instantanée Des questions sur notre traducteur vocal instantané ? Une utilisation du traducteur spécifique ? Contactez...
+  Updated: 2026-05-03T22:38:09Z
 - [FAQ tout savoir sur les traducteurs instantané](https://holavox.io/pages/faq-tout-savoir-sur-les-traducteurs-instantane): FAQ tout savoir sur les traducteurs instantanés Traducteur vocal ou écouteurs traducteurs sans fils HOLAVOX - les différences
-  Updated: 2026-03-30T18:50:54Z
+  Updated: 2026-05-03T22:38:38Z
 - [Devenez partenaire revendeur de nos traducteurs instantanés](https://holavox.io/pages/devenez-partenaire-revendeur-de-nos-traducteurs-instantanes): Devenez partenaire revendeur de nos traducteurs instantanés Devenir revendeur de la traduction premium de haute qualité Holavox – Traducteur vocal ...
-  Updated: 2026-03-30T18:47:32Z
+  Updated: 2026-05-03T22:39:39Z
 - [Suivre ma commande du traducteur](https://holavox.io/pages/suivre-ma-commande): Suivre ma commande du traducteur HOLAVOX Vous pouvez suivre votre commande du traducteur instantané ici Chez HOLAVOX, nous prenons soin d'expédier ...
   Updated: 2026-03-30T18:49:40Z
-- [Support traducteur Holavox - Assistance et Service Client](https://holavox.io/pages/support-sav-holavox): Support traducteur Holavox sav Vous avez besoin d'assistance pour utiliser nos traducteurs ou vous constatez un éventuel dysfonctionnement ? Vous p...
-  Updated: 2026-03-30T18:46:31Z
-- [A propos](https://holavox.io/pages/a-propos): Tout a commencé par une situation simple mais stressante. Un voyage à l'étranger. Un moment imprévu. Une impossibilité de communiquer. Un rendez-vo...
-  Updated: 2026-04-26T10:53:37Z
+- [Support traducteur Holavox - Assistance et Service Client](https://holavox.io/pages/support-traducteur-holavox-sav): Support traducteur Holavox sav Vous avez besoin d'assistance pour utiliser nos traducteurs ou vous constatez un éventuel dysfonctionnement ? Vous p...
+  Updated: 2026-05-03T22:41:05Z
+- [A propos du traducteur HOLAVOX - Découvrez son expertise](https://holavox.io/pages/a-propos-du-traducteur-holavox): A propos du traducteur HOLAVOX Tout a commencé par une situation simple mais stressante. Un voyage à l'étranger. Un moment imprévu. Une impossibili...
+  Updated: 2026-05-03T22:18:52Z
 
 ## Policies
 
