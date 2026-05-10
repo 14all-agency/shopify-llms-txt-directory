@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2019-03-17T06:24:35Z
 - Contact Email: customerservice@holidayjoyby.com
-- Updated At: 2026-05-02T00:00:27.962Z
+- Updated At: 2026-05-10T00:00:37.008Z
 
 ## Products
 
@@ -2204,28 +2204,28 @@
   Updated: 2026-04-24T06:08:51Z
   Total Products: 28
 - [Pink Christmas Ornaments & Holiday Decor – Joy By!](https://www.holidayjoyby.com/collections/pink-collection): Shop elegant pink Christmas ornaments, blush accents & rose gold holiday decor at Joy By. Perfect for a chic, modern Christmas tree this festive season.
-  Updated: 2026-04-24T06:08:51Z
-  Total Products: 42
+  Updated: 2026-05-09T23:14:24Z
+  Total Products: 45
 - [Shop Christmas Decor, Ornaments & Wreaths | Joy By](https://www.holidayjoyby.com/collections/shop-all-christmas-decor): Explore our complete collection of Christmas decor, featuring festive ornaments, wreaths, garlands, and more to bring the magic of the holiday season home.
-  Updated: 2026-04-28T11:05:26Z
-  Total Products: 750
+  Updated: 2026-05-09T23:15:51Z
+  Total Products: 950
 - [New Christmas Decor & Latest Holiday Arrivals | Joy By](https://www.holidayjoyby.com/collections/new-arrivals): Discover the latest Christmas decor in our New Arrivals collection, featuring fresh ornaments, wreaths, and festive decorations to elevate your holiday home.
-  Updated: 2026-04-24T06:08:52Z
-  Total Products: 124
+  Updated: 2026-05-09T23:12:34Z
+  Total Products: 129
 - [Christmas Tree Decorations & Holiday Ornaments | Joy By](https://www.holidayjoyby.com/collections/for-the-tree): Elevate your Christmas tree with Joy By's stunning ornaments, glittering baubles & festive tree accents. Create a magical, picture-perfect holiday display!
   Updated: 2026-04-28T11:05:26Z
   Total Products: 177
 - [Christmas Ornaments & Festive Holiday Decorations | Joy By](https://www.holidayjoyby.com/collections/ornaments): Browse Joy By's exclusive Christmas ornaments — classic baubles, sparkling tree decorations & unique festive pieces for a stunning holiday home this season!
-  Updated: 2026-04-24T06:08:53Z
-  Total Products: 714
+  Updated: 2026-05-09T23:15:29Z
+  Total Products: 835
 - [Christmas Floral Picks & Festive Tree Accents | Joy By](https://www.holidayjoyby.com/collections/picks-1): Transform your Christmas tree with Joy By's holiday floral picks, glittering stems & festive accents. Add warmth, texture & elegance to your holiday decor!
-  Updated: 2026-04-28T11:05:26Z
-  Total Products: 165
+  Updated: 2026-05-09T23:13:04Z
+  Total Products: 164
 - [Sparkling Star & Angel Christmas Tree Toppers | Joy By](https://www.holidayjoyby.com/collections/tree-toppers-2): Crown your Christmas tree in style! Joy By offers breathtaking toppers — glittering stars, elegant angels & more for a show-stopping holiday centerpiece.
   Updated: 2026-04-24T06:08:54Z
   Total Products: 5
 - [Christmas Ribbons & Festive Holiday Accents | Joy By](https://www.holidayjoyby.com/collections/ribbons-1): Wrap your holidays in style. Discover Joy By's Christmas ribbons, perfect for adorning wreaths, gifts and trees with a chic and elegant festive touch.
-  Updated: 2026-04-24T06:08:54Z
+  Updated: 2026-05-09T23:12:34Z
   Total Products: 75
 - [Christmas Tree Skirts and Collars for Every Home | Joy By](https://www.holidayjoyby.com/collections/skirts-collars): Elevate your Christmas tree with Joy By's elegant tree skirts and collars. Find stylish festive designs that add charm and beauty to your holiday decor.
   Updated: 2026-04-24T06:08:55Z
@@ -2237,8 +2237,8 @@
   Updated: 2026-04-24T06:08:56Z
   Total Products: 5
 - [Christmas Wreaths and Garlands for Holiday Decor | Joy By](https://www.holidayjoyby.com/collections/wreaths-garlands): Adorn your home with Joy By's beautifully crafted Christmas wreaths and garlands. Find elegant festive designs perfect for doors, mantels and holiday spaces.
-  Updated: 2026-04-24T06:08:57Z
-  Total Products: 50
+  Updated: 2026-05-09T23:16:00Z
+  Total Products: 67
 - [Premium Artificial Christmas Trees for Your Home | Joy By](https://www.holidayjoyby.com/collections/artificial-christmas-trees): Find your perfect Christmas tree at Joy By. Premium artificial trees with realistic branches and festive styles to brighten your holiday home this season.
   Updated: 2026-04-24T06:08:58Z
   Total Products: 24
@@ -2258,8 +2258,8 @@
   Updated: 2026-04-24T06:09:00Z
   Total Products: 38
 - [Complete Christmas Decor Collection for Your Home | Joy By](https://www.holidayjoyby.com/collections/all-products): Explore Joy By's complete Christmas decor range. From elegant ornaments and garlands to wreaths & tree accents, find everything for your holiday home.
-  Updated: 2026-04-28T11:05:26Z
-  Total Products: 1258
+  Updated: 2026-05-09T23:16:22Z
+  Total Products: 1517
 - [Festive Christmas Tabletop Decor for Your Home | Joy By](https://www.holidayjoyby.com/collections/tabletop): Elevate your Christmas table with Joy By's festive tabletop decor. Discover stylish centerpieces, figurines and holiday accents for every celebration.
   Updated: 2026-04-24T06:09:01Z
   Total Products: 47
@@ -2267,19 +2267,19 @@
   Updated: 2026-04-24T06:09:02Z
   Total Products: 6
 - [Durable Shatterproof Christmas Ornaments for Safe Decor](https://www.holidayjoyby.com/collections/shatterproof-ornaments): Joy By's shatterproof Christmas ornaments, combining elegance and durability. Perfect for families, these ornaments ensure a safe and fun holiday season!
-  Updated: 2026-04-24T06:09:03Z
-  Total Products: 194
+  Updated: 2026-05-09T23:10:08Z
+  Total Products: 195
 - [40-Piece Christmas Ornament Kits for Holiday Decor | Joy By](https://www.holidayjoyby.com/collections/box-kits): Decorate with ease using Joy By's 40-piece Christmas ornament kits. Includes shatterproof festive ornaments in various styles for a stunning holiday tree.
   Updated: 2026-04-24T06:09:03Z
   Total Products: 8
 - [Gold Christmas Ornaments and Festive Decor | Joy By](https://www.holidayjoyby.com/collections/gold): Elevate your Christmas tree with Joy By's golden ornaments, classic baubles and festive gold decor. Bring timeless elegance and warmth to your holiday home.
-  Updated: 2026-04-24T06:09:04Z
-  Total Products: 224
+  Updated: 2026-05-09T23:15:53Z
+  Total Products: 276
 - [Pastel Candy Christmas Ornaments Collection | Joy By](https://www.holidayjoyby.com/collections/pastel-candy): Discover Joy By's pastel candy Christmas ornaments. Charming, colorful festive designs that add a sweet and delightful touch to your holiday tree and home.
   Updated: 2026-04-24T06:09:05Z
   Total Products: 44
 - [Christmas Best Sellers and Holiday Favorites | Joy By](https://www.holidayjoyby.com/collections/best-sellers): Explore Joy By's Christmas best sellers, from sparkling ornaments and festive wreaths to charming tabletop decor loved by customers everywhere this season.
-  Updated: 2026-04-24T06:09:06Z
+  Updated: 2026-05-09T23:12:34Z
   Total Products: 33
 - [Pastel Noel Christmas Ornaments Collection | Joy By](https://www.holidayjoyby.com/collections/pink-purple-ornaments): Browse Joy By's Pastel Noel Christmas ornaments. Soft dreamy designs in gentle pastel shades that add a touch of warmth and charm to your holiday home.
   Updated: 2026-04-24T06:09:06Z
@@ -2291,14 +2291,14 @@
   Updated: 2026-04-24T06:09:07Z
   Total Products: 24
 - [Glass Christmas Ornaments for Holiday Elegance | Joy By](https://www.holidayjoyby.com/collections/glass): Discover Joy By's handcrafted glass Christmas ornaments. Elegant pieces that beautifully reflect tree lights and add refined sparkle to your holiday home.
-  Updated: 2026-04-24T06:09:07Z
-  Total Products: 145
+  Updated: 2026-05-09T23:15:27Z
+  Total Products: 185
 - [Shatterproof Christmas Ornaments for Families | Joy By](https://www.holidayjoyby.com/collections/shatterproof): Explore Joy By's shatterproof Christmas ornaments, crafted from lightweight materials. Festive and worry-free designs perfect for homes with kids and pets.
-  Updated: 2026-04-24T06:09:08Z
-  Total Products: 194
+  Updated: 2026-05-09T23:10:08Z
+  Total Products: 195
 - [Best  Christmas Wreaths and Garlands | Joy By](https://www.holidayjoyby.com/collections/best--wreaths-garlands): Discover Joy By's best  Christmas wreaths and garlands. Customer favorites featuring lush evergreen designs and beautiful festive holiday charm.
-  Updated: 2026-04-24T06:09:09Z
-  Total Products: 48
+  Updated: 2026-05-09T23:15:20Z
+  Total Products: 58
 - [Christmas Bows and Festive Ribbon Accents | Joy By](https://www.holidayjoyby.com/collections/bows): Elevate your holidays with Joy By's Christmas bows and ribbon accents. Perfect festive finishing touches for wreaths, gifts, trees and your holiday home.
   Updated: 2026-04-24T06:09:09Z
   Total Products: 18
@@ -2306,7 +2306,7 @@
   Updated: 2026-04-24T06:09:09Z
   Total Products: 6
 - [Our Founder's Favorite Christmas Picks and Decor | Joy By](https://www.holidayjoyby.com/collections/our-founders-favorites): Curated by Joy By's founder, this Christmas collection brings together signature ornaments, festive garlands and unique decor pieces for your holiday home.
-  Updated: 2026-04-24T06:09:10Z
+  Updated: 2026-05-09T23:12:15Z
   Total Products: 45
 - [Decorative Christmas Trees for Porches and Homes | Joy By](https://www.holidayjoyby.com/collections/decorative-christmas-trees): Browse Joy By's decorative Christmas trees for porches, entryways and tabletops. From pre-lit to accent trees, find the perfect festive fit for any space.
   Updated: 2026-04-24T06:09:10Z
@@ -2327,16 +2327,16 @@
   Updated: 2026-04-24T06:09:11Z
   Total Products: 5
 - [2025 Christmas Collection for Holiday Decor | Joy By](https://www.holidayjoyby.com/collections/2025): Introducing Joy By's 2025 Christmas Collection. Timeless ornaments, elegant holiday decor and sparkling accents curated for a stunning Christmas home.
-  Updated: 2026-04-24T06:09:12Z
+  Updated: 2026-05-09T23:12:34Z
   Total Products: 472
 - [Burgundy and Champagne Christmas Ornaments | Joy By](https://www.holidayjoyby.com/collections/burgundy): Indulge in Joy By's burgundy and champagne Christmas ornaments. Rich, elegant festive tones that bring warmth and sophistication to your holiday tree.
-  Updated: 2026-04-23T23:07:30Z
+  Updated: 2026-05-09T23:12:34Z
   Total Products: 24
 - [Traditional Christmas Decor With a Modern Twist | Joy By](https://www.holidayjoyby.com/collections/tradition-christmas-with-a-twist): Discover Joy By's traditional Christmas collection with a modern twist. Rich textures and vintage inspired ornaments for a timeless and fresh holiday home.
   Updated: 2026-04-24T06:09:12Z
   Total Products: 64
 - [The Perfect Burgundy Christmas Tree Decor | Joy By](https://www.holidayjoyby.com/collections/burgundy-dream): Explore Joy By's burgundy Christmas tree collection. Deep burgundy tones paired with champagne accents and gilded ornaments for a rich festive holiday.
-  Updated: 2026-04-24T06:09:13Z
+  Updated: 2026-05-09T23:12:34Z
   Total Products: 24
 - [Blue Christmas Ornaments and Festive Winter Decor | Joy By](https://www.holidayjoyby.com/collections/blue-collection-page): Explore Joy By's blue Christmas collection. From midnight tones to icy blues, silver accents and shimmering finishes bring winter elegance to your holiday.
   Updated: 2026-04-24T06:09:13Z
@@ -2428,28 +2428,28 @@
 
 ## Store Pages
 
-- [About Us](https://www.holidayjoyby.com/pages/about-us): About Joy By Rima With over twenty years of experience in the interior design industry, Joy by Rima is a premiere production company. Joy by Rima f...
-  Updated: 2025-05-12T10:14:00Z
-- [Contact Us](https://www.holidayjoyby.com/pages/contact-us): Speak To Us We are constantly working with our clients to create magically never seen before installations. Contact us today. Rima Dardenne+1 (310)...
-  Updated: 2020-06-04T07:33:44Z
-- [Coming soon](https://www.holidayjoyby.com/pages/coming-soon): Stay tuned!
-  Updated: 2023-06-27T15:31:14Z
-- [Trade program](https://www.holidayjoyby.com/pages/trade-program)
-  Updated: 2025-05-30T10:43:05Z
-- [Shipping & Returns](https://www.holidayjoyby.com/pages/shipping-page)
-  Updated: 2025-05-30T10:22:53Z
-- [Current offers](https://www.holidayjoyby.com/pages/current-offers)
-  Updated: 2025-10-09T15:24:36Z
-- [Christmas Masterclass](https://www.holidayjoyby.com/pages/christmas-masterclass-landing)
-  Updated: 2025-05-30T11:46:53Z
-- [Joy By LLC Privacy Policy](https://www.holidayjoyby.com/pages/joy-by-llc-privacy-policy)
-  Updated: 2024-08-13T09:34:32Z
-- [How to Work with Us](https://www.holidayjoyby.com/pages/how-to-work-with-us): 
-  Updated: 2025-05-30T10:23:12Z
-- [OUR LOCATION](https://www.holidayjoyby.com/pages/our-location)
-  Updated: 2025-05-29T11:44:03Z
-- [The Fall Porch](https://www.holidayjoyby.com/pages/the-fall-porch)
-  Updated: 2025-06-03T17:07:38Z
+- [Festive Installation Experts and Holiday Decor | Joy By](https://www.holidayjoyby.com/pages/about-us): About Joy By Rima With over twenty years of experience in the interior design industry, Joy by Rima is a premiere production company. Joy by Rima f...
+  Updated: 2026-05-06T22:01:56Z
+- [Contact Us for Holiday Decor and Installations | Joy By](https://www.holidayjoyby.com/pages/contact-us): Speak To Us We are constantly working with our clients to create magically never seen before installations. Contact us today. Rima Dardenne+1 (310)...
+  Updated: 2026-05-06T22:07:26Z
+- [Coming Soon: Holiday and Christmas Decor at Joy By](https://www.holidayjoyby.com/pages/coming-soon): Stay tuned!
+  Updated: 2026-05-06T22:11:09Z
+- [Trade Program for Holiday and Christmas Decor | Joy By](https://www.holidayjoyby.com/pages/trade-program): 
+  Updated: 2026-05-06T22:12:48Z
+- [Shipping and Returns Policy for Holiday Decor | Joy By](https://www.holidayjoyby.com/pages/shipping-page): 
+  Updated: 2026-05-06T22:15:47Z
+- [Current Offers on Christmas and Holiday Decor | Joy By](https://www.holidayjoyby.com/pages/current-offers): 
+  Updated: 2026-05-06T22:22:07Z
+- [Christmas Masterclass for Festive Decor Skills | Joy By](https://www.holidayjoyby.com/pages/christmas-masterclass-landing): 
+  Updated: 2026-05-06T22:31:30Z
+- [LLC Privacy Policy for Holiday Decor Customers | Joy By](https://www.holidayjoyby.com/pages/joy-by-llc-privacy-policy): 
+  Updated: 2026-05-06T22:36:49Z
+- [How to Work With Us for Premium Festive Decor | Joy By](https://www.holidayjoyby.com/pages/how-to-work-with-us): 
+  Updated: 2026-05-06T22:40:45Z
+- [Store Location for Holiday Decor & Christmas | Joy By](https://www.holidayjoyby.com/pages/our-location): 
+  Updated: 2026-05-06T22:43:26Z
+- [Fall Porch Seasonal Decor and Autumn Displays | Joy By](https://www.holidayjoyby.com/pages/the-fall-porch): 
+  Updated: 2026-05-06T22:46:48Z
 
 ## Policies
 
