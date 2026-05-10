@@ -9,7 +9,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2024-05-04T16:10:49Z
 - Contact Email: destek@thesveltechic.com
-- Updated At: 2026-05-03T16:00:51.612Z
+- Updated At: 2026-05-10T20:00:49.777Z
 
 # The Sveltechic — Women's Fashion & Clothing Store (Turkey)
 
@@ -31,7 +31,7 @@ Key facts about The Sveltechic:
 ## Products
 
 - [Pamuk Sırtı Açık Düğmeli Kısa Elbise](https://www.thesveltechic.com/products/cotton-backless-button-front-short-dress): Zarif ve romantik tarzınızı yansıtan %100 pamuk sırtı açık düğmeli kısa elbise. Kolsuz tasarımı ve yuvarlak yaka detayı ile yaz aylarının vazgeçilmezi. Arkasız tasarımı ile dikkat çeken bu elbise, slim fit kalıbı sayesinde vücudunuzu mükemmel şekilde sarar. Özellikler: • %100 pamuk kumaş - nefes alabilir ve konforlu • Sırtı açık düğmeli tasarım - romantik ve şık görünüm • Kolsuz kesim - yaz sıcaklarında ideal • Slim fit kalıp - vücut hatlarını takip eder • Kısa elbise boyu - genç ve dinamik stil • Yuvarlak yaka - klasik ve zarif Kombinleme Önerileri: • Düğün ve özel davetler için topuklu ayakkabı ile • Tatil kombinleri için sandalet ve şapka ile • Günlük kullanım için sneaker ve denim ceket ile • Akşam çıkışları için statement küpe ve clutch çanta ile Bakım Talimatları: Maksimum 30°C'de yıkayın, ağartıcı kullanmayın, benzer renklerle yıkayın, maksimum 110°C'de ütüleyin. XS-L bedenleri mevcuttur.
-  Updated: 2026-04-28T21:01:27Z
+  Updated: 2026-05-06T12:55:21Z
   Vendor: THESVELTECHIC
   Product Type: Dresses
   Availability: Available
@@ -1003,7 +1003,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1714354038206.jpg?v=1714941578
     Price: ₺3.840,00 TRY
 - [Düğümlü Kolsuz Maxi Abiye Elbise](https://www.thesveltechic.com/products/beloved-knotted-sleeveless-long-dress): Sevgili düğümlü kolsuz uzun abiye elbise ile özel günlerinizde şıklığınızı ön plana çıkarın. %95 polyester %5 elastan karışımı jersey kumaştan üretilen bu zarif elbise, slim fit kalıbı ile vücut hatlarınızı mükemmel şekilde sararak sofistike bir görünüm sunar. Çevik yaka tasarımı ve düğümlü detayları ile dikkat çeken bu maxi boy elbise, düğün, parti, tatil ve özel davetler için ideal bir seçimdir. Stretch olmayan yapısı sayesinde formunu korurken, altın tonlarındaki rengi ile zamansız bir elegans yaratır. Gündelik şıklıktan gece çıkışlarına kadar geniş bir kullanım alanına sahip olan bu elbise, gardırobunuzun vazgeçilmez parçası olacak. Benzer renklerle elde soğuk yıkama önerilir, ağartmayın ve düz kurutun. Maksimum 110°C'de ütüleyebilirsiniz.
-  Updated: 2026-04-30T08:46:03Z
+  Updated: 2026-05-04T11:07:09Z
   Vendor: THESVELTECHIC
   Product Type: Dresses
   Availability: Available
@@ -1047,7 +1047,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1714469921898_5933e2e0-d45f-4cc8-aa80-01b97379b344.jpg?v=1714941580
     Price: ₺3.380,00 TRY
 - [Kolsuz Kısa Elbise Beyaz Arkasız Jersey](https://www.thesveltechic.com/products/solid-sleeveless-short-dress): Şık ve rahat kolsuz kısa elbise, arkasız tasarımıyla dikkat çekiyor. %95 polyester %5 elastan jersey kumaşından üretilen bu elbise hafif esneme özelliği sunuyor. Çevik yaka detayı ve slim fit kesimi ile vücut hatlarını güzelce saran bu elbise, gündelik kullanımdan özel davetlere kadar her ortamda rahatlıkla giyilebilir. Düğün, tatil ve eğlence aktiviteleri için ideal. Kısa elbise uzunluğu ile modern ve genç bir görünüm sağlar. Regular kalınlıkta kumaşı sayesinde her mevsim rahatlıkla kullanılabilir. Bakım talimatları: Benzer renklerle elde soğuk yıkayın, ağartmayın, düz kurutun, maksimum 110°C'de ütüleyin. S, M, L bedenleri mevcuttur. Svelte Chic kalitesi ile şıklığınızı tamamlayın.
-  Updated: 2026-04-20T10:58:29Z
+  Updated: 2026-05-06T12:54:53Z
   Vendor: THESVELTECHIC
   Product Type: Dresses
   Availability: Available
@@ -1135,7 +1135,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1714041092496.jpg?v=1714941588
     Price: ₺4.200,00 TRY
 - [V Yaka Kolsuz Kısa Elbise Kırmızı Pamuk Keten](https://www.thesveltechic.com/products/cotton-linen-v-neck-short-dress): Yaz aylarının vazgeçilmezi V yaka kolsuz kısa elbise, %50 pamuk %50 keten karışımı doğal kumaşı ile nefes alabilir yapısı sunar. Gündelik şıklığın simgesi olan bu elbise, V yaka detayı ile feminen bir görünüm yaratırken, kolsuz tasarımı ile sıcak havalarda maksimum konfor sağlar. Shift kalıbı vücut hatlarını rahat bırakan, her vücut tipine uyum sağlayan bir kesim sunar. Kısa boy uzunluğu ile modern ve genç bir tarz yaratır. Tatil, eğlence ve gündelik kullanım için ideal olan bu elbise, sandalet veya sneaker ile kombine edilebilir. Stretch olmayan kumaş yapısı sayesinde formunu korur. 30°C'de yıkanabilir, ağartıcı kullanılmamalıdır. S, M, L, XL bedenlerinde mevcut. Benzer renklerle yıkayın ve maksimum 110°C'de ütüleyin.
-  Updated: 2026-04-20T11:09:24Z
+  Updated: 2026-05-09T13:56:09Z
   Vendor: THESVELTECHIC
   Product Type: Dresses
   Availability: Available
@@ -1683,7 +1683,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1713185122106.jpg?v=1714941652
     Price: ₺4.300,00 TRY
 - [Kalp Yaka Askılı Midi Elbise Pembe Düz](https://www.thesveltechic.com/products/solid-sweetheart-neckline-cami-midi-dress): Zarif kalp yaka tasarımıyla dikkat çeken bu midi elbise, özel günlerinizin vazgeçilmezi. %95 polyester %5 pamuk karışımı dokuma kumaştan üretilen elbise, düşük kesim yaka detayı ve kolsuz tasarımıyla feminen bir görünüm sunar. Regular fit kalıbıyla vücut hatlarını mükemmel şekilde saran elbise, stretch olmayan yapısıyla formunu korur. 125-131 cm uzunluğundaki maxi boy, zarif bir siluet yaratır. Düğün, parti, tatil ve özel davetler için ideal. Maksimum 30°C'de yıkanabilir, ağartıcı kullanmayın. Benzer renklerle yıkayın ve 110°C'de ütüleyin. Kuru temizleme yapmayın. XS'den XL'e kadar beden seçenekleri mevcut. Elegant tarzı seven kadınlar için mükemmel bir seçim.
-  Updated: 2026-04-20T11:03:02Z
+  Updated: 2026-05-06T12:53:35Z
   Vendor: THESVELTECHIC
   Product Type: Dresses
   Availability: Available
@@ -2758,7 +2758,7 @@ Key facts about The Sveltechic:
   Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1712123551870.jpg?v=1714941767
   Price: ₺2.550,00 TRY
 - [Fırfır Yaka V Yaka Kısa Elbise Beyaz Uzun Kollu](https://www.thesveltechic.com/products/ruffle-collar-short-dress): Romantik ve şık tasarımıyla öne çıkan fırfır yaka kısa elbise. %100 viskon dokuma kumaştan üretilen bu zarif parça, V yaka detayı ve uzun kollarıyla feminen bir görünüm sunar. Regular fit kalıbıyla rahat bir kullanım sağlayan elbise, günlük şıklığınızı tamamlar. Stretch olmayan yapısı sayesinde formunu korur. Eğlence ve günlük aktiviteler için ideal olan bu romantik elbise, gardırobunuzun vazgeçilmez parçası olacak. 30°C'de yıkanabilir, benzer renklerle yıkayın. Ağartmayın ve kuru temizleme yapmayın. Maksimum 110°C'de ütüleyebilirsiniz. S, M, L bedenlerinde mevcut. Büst ölçüleri: S-92cm, M-96cm, L-100cm. Elbise uzunluğu yaklaşık 85-88cm arası değişmektedir.
-  Updated: 2026-04-18T10:35:44Z
+  Updated: 2026-05-06T12:53:01Z
   Vendor: THESVELTECHIC
   Product Type: Dresses
   Availability: Available
@@ -2961,7 +2961,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1712803629053.jpg?v=1714941795
     Price: ₺4.000,00 TRY
 - [Monet Çiçek Desenli Yırtmaçlı Midi Elbise Çok Renkli](https://www.thesveltechic.com/products/monet-floral-print-split-midi-dress): Monet Çiçek Desenli Yırtmaçlı Midi Elbise ile şıklığınızı konuşturun! %95 Polyester %5 Elastan jersey kumaşından üretilen bu zarif elbise, çiçek deseni ve asimetrik yırtmaç detayıyla dikkat çekiyor. Kolsuz tasarımı ve düz yaka çizgisi ile gündelik şıklığın mükemmel temsilcisi. Slim fit kalıbı vücut hatlarınızı zarif bir şekilde sararak midi boyu ile modern bir görünüm sunar. Hafif esneme özelliği sayesinde gün boyu konforlu kullanım sağlar. İnce kumaş yapısı ile yaz aylarında ferahlık, çok renkli çiçek deseni ile de canlılık katar. Eğlence ve tatil aktiviteleri için ideal olan bu elbise, gündelik kombinlerinizde fark yaratacak. Asimetrik split detayı hareket kolaylığı sağlarken modern bir dokunuş ekler. 30°C'de yıkanabilir, benzer renklerle yıkayın. Ağartıcı kullanmayın, 110°C'de ütüleyebilirsiniz. XS'den XL'e kadar beden seçenekleri mevcuttur.
-  Updated: 2026-04-20T11:10:43Z
+  Updated: 2026-05-07T10:13:27Z
   Vendor: THESVELTECHIC
   Product Type: Dresses
   Availability: Available
@@ -3325,28 +3325,6 @@ Key facts about The Sveltechic:
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1713768884024.jpg?v=1714941855
     Price: ₺5.400,00 TRY
-- [Kesim Detaylı Kolsuz Kısa Elbise Pembe Stand Yaka](https://www.thesveltechic.com/products/cutout-sleeveless-short-dress): Şık kesim detayları ile dikkat çeken kolsuz kısa elbise. %100 polyester dokuma kumaştan üretilen bu zarif parça, stand yaka tasarımı ve regular fit kalıbıyla günlük şıklığınızı tamamlar. 88-92.5 cm uzunluğunda mini boy kesimi ile genç ve dinamik bir görünüm sunar. Stretch olmayan yapısı sayesinde formunu korur. Gündelik kullanım için ideal olan bu elbise, eğlenceli anlarınızda da tercih edebileceğiniz çok yönlü bir parça. Maksimum 30°C'de yıkanabilir, ağartıcı kullanılmamalıdır. Benzer renklerle yıkayarak renk canlılığını koruyun. S, M, L, XL bedenlerinde mevcut. Pembe rengiyle feminen duruşunuzu vurgulayan bu özel tasarım, gardırobunuzun vazgeçilmez parçası olacak.
-  Updated: 2026-04-20T11:03:55Z
-  Vendor: THESVELTECHIC
-  Product Type: Dresses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1712560494930_f6367dc0-8dab-42d6-bd0e-0300db628fa9.jpg?v=1714941862
-  - [Pembe / S](https://www.thesveltechic.com/products/cutout-sleeveless-short-dress?variant=45287720812789)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1712560494930_f6367dc0-8dab-42d6-bd0e-0300db628fa9.jpg?v=1714941862
-    Price: ₺3.960,00 TRY
-  - [Pembe / M](https://www.thesveltechic.com/products/cutout-sleeveless-short-dress?variant=45287720845557)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1712560494930_f6367dc0-8dab-42d6-bd0e-0300db628fa9.jpg?v=1714941862
-    Price: ₺3.960,00 TRY
-  - [Pembe / L](https://www.thesveltechic.com/products/cutout-sleeveless-short-dress?variant=45287720878325)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1712560494930_f6367dc0-8dab-42d6-bd0e-0300db628fa9.jpg?v=1714941862
-    Price: ₺3.960,00 TRY
-  - [Pembe / XL](https://www.thesveltechic.com/products/cutout-sleeveless-short-dress?variant=45287720911093)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1712560494930_f6367dc0-8dab-42d6-bd0e-0300db628fa9.jpg?v=1714941862
-    Price: ₺3.960,00 TRY
 - [Çiçekli Saç Tokası Pembe Plastik Bohemian Tarzı](https://www.thesveltechic.com/products/blossom-flower-hair-clip): Bohemian tarzında çiçekli saç tokası ile saçlarınıza zarif bir dokunuş katın. %100 plastik malzemeden üretilen bu şık aksesuar, 9.5 cm uzunluğunda tek boyut olarak tasarlanmıştır. Pembe rengi ve çiçek deseni ile günlük kullanımdan özel davetlere kadar her ortamda kullanabileceğiniz çok yönlü bir aksesuar. Hafif yapısı sayesinde saçlarınızı yormaz, rahat kullanım sağlar. İlkbahar ve yaz koleksiyonunun öne çıkan parçalarından biri olan bu toka, saç stilinizi tamamlayacak mükemmel bir seçim. Kolay bakım, dayanıklı yapı ve şık tasarımı bir arada sunan bu aksesuar, her yaştan kadının gardırobunda bulunması gereken temel parçalardan biridir.
   Updated: 2026-04-20T11:10:34Z
   Vendor: THESVELTECHIC
@@ -3576,7 +3554,7 @@ Key facts about The Sveltechic:
   Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1709534830246.jpg?v=1714941882
   Price: ₺2.100,00 TRY
 - [Boyundan Bağlamalı Sırtı Açık Yelek Etekli Takım Kayısı](https://www.thesveltechic.com/products/button-front-halter-neck-backless-vest-blazer-with-skirt-set): Şık ve modern tasarımıyla öne çıkan boyundan bağlamalı sırtı açık yelek etekli takım. %90 polyester %10 elastan jersey kumaşından üretilen bu takım, orta streç özelliği ve slim fit kalıbıyla mükemmel uyum sağlar. Halter yaka tasarımı ve sırtı açık detayıyla feminen bir görünüm sunar. Gündelik kullanımdan iş ortamına kadar her duruma uygun olan bu takım, eğlence ve iş kombinlerinizde rahatlıkla tercih edebilirsiniz. Regular kalınlıkta jersey kumaşı sayesinde tüm gün konforlu kullanım sağlar. Önü düğmeli yelek ve mini etek kombinasyonu ile modern kadının gardırobunda olmazsa olmaz parçalardan biri. Kayısı rengiyle yazlık kombinlerinize taze bir soluk katacak bu takım, XS'den XL'e kadar geniş beden seçenekleriyle sunulmaktadır. Benzer renklerle elde soğuk yıkama, ağartmama ve düz kurutma talimatlarına uyularak uzun süre kullanılabilir.
-  Updated: 2026-04-20T11:07:06Z
+  Updated: 2026-05-06T21:58:32Z
   Vendor: THESVELTECHIC
   Product Type: Skirt Sets
   Availability: Available
@@ -4353,7 +4331,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1705992855035.jpg?v=1714941946
     Price: ₺4.800,00 TRY
 - [Dantel Patchwork Askılı Midi Elbise Siyah V Yaka](https://www.thesveltechic.com/products/lace-patchwork-cami-midi-dress): Zarif dantel patchwork detaylı askılı midi elbise, özel günlerinizde şıklığınızı tamamlayacak. %95 polyester %5 elastan kumaşı ile hafif esneme sağlar. V yaka tasarımı ve marul kesim fırfır detayları ile feminen bir görünüm sunar. Regular fit kalıbı ile rahat kullanım. Parti, düğün ve özel davetler için ideal. Kolsuz tasarımı ile yaz aylarında konforlu. Maksimum 30°C'de yıkanabilir, ağartmayın. Benzer renklerle yıkayın. 110°C'de ütüleyebilir, kuru temizleme yapmayın. XS-XL beden seçenekleri mevcut. Midi boy ile zarif duruş. Seksi ve şık tasarım. Hafif esneme özelliği ile hareket kolaylığı. Dantel malzemesi ile premium kalite. Eğlence, düğün ve parti için uygun. Regular kalınlık. Şeffaf değil. Kolsuz model. V yaka kesim. Provence garden koleksiyonundan. TikTok trend ürün. Bahar-yaz-sonbahar mevsimlerine uygun.
-  Updated: 2026-04-20T11:13:19Z
+  Updated: 2026-05-06T12:51:57Z
   Vendor: THESVELTECHIC
   Product Type: Dresses
   Availability: Available
@@ -4797,8 +4775,8 @@ Key facts about The Sveltechic:
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1706776132547_9c81479d-7ace-440b-88f2-38fa016c43b2.jpg?v=1714941979
     Price: ₺4.200,00 TRY
-- [Askılı Çiçek Bağcıklı Bodycon Uzun Elbise Pudra](https://www.thesveltechic.com/products/strap-flower-lace-up-slim-bodycon-long-dress): Zarif çiçek desenli askılı uzun elbise ile özel gecelerinizde göz kamaştırın. %90 polyester %10 elastan karışımı jersey kumaşı sayesinde vücudunuza mükemmel uyum sağlar. Dar kesim kalıbı ile feminen silüetinizi ortaya çıkarırken, orta streç özelliği hareket rahatlığı sunar. Kolsuz tasarımı ve maxi boyu ile parti, gece çıkışları ve özel davetler için ideal. Bağcık detayları ile modern bir dokunuş katılan bu elbise, pudra rengi ile romantik bir görünüm yaratır. Soğuk elde yıkama ile bakımı kolay. XS'den XL'e kadar beden seçenekleri mevcut. Svelte Chic kalitesi ile üretilmiş bu özel parça, gardırobunuzun vazgeçilmezi olacak.
-  Updated: 2026-04-28T09:03:42Z
+- [Amaris Maxi Dress](https://www.thesveltechic.com/products/strap-flower-lace-up-slim-bodycon-long-dress): Zarif çiçek desenli askılı uzun elbise ile özel gecelerinizde göz kamaştırın. %90 polyester %10 elastan karışımı jersey kumaşı sayesinde vücudunuza mükemmel uyum sağlar. Dar kesim kalıbı ile feminen silüetinizi ortaya çıkarırken, orta streç özelliği hareket rahatlığı sunar. Kolsuz tasarımı ve maxi boyu ile parti, gece çıkışları ve özel davetler için ideal. Bağcık detayları ile modern bir dokunuş katılan bu elbise, pudra rengi ile romantik bir görünüm yaratır. Soğuk elde yıkama ile bakımı kolay. XS'den XL'e kadar beden seçenekleri mevcut. Svelte Chic kalitesi ile üretilmiş bu özel parça, gardırobunuzun vazgeçilmezi olacak.
+  Updated: 2026-05-07T00:51:28Z
   Vendor: THESVELTECHIC
   Product Type: Dresses
   Availability: Available
@@ -4907,52 +4885,6 @@ Key facts about The Sveltechic:
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1705745060360.jpg?v=1714941991
     Price: ₺3.600,00 TRY
-- [Mürekkep Boyama Baskılı Bağlamalı A Kesim Kısa Elbise Gri](https://www.thesveltechic.com/products/ink-painting-print-tie-up-a-line-short-dress): Zarif mürekkep boyama baskısı ile dikkat çeken bu A kesim kısa elbise, gündelik şıklığın mükemmel temsilcisi. Stand yaka ve uzun kol tasarımı ile modern bir görünüm sunan elbise, kuşaklı yapısı sayesinde bel hattını vurgular. %80 Polyester %20 Pamuk karışımı dokuma kumaştan üretilen elbise, regular fit kalıbı ile rahat bir kullanım sağlar. Düğmeli ön detayı ve A kesim silueti ile feminen bir tarz yaratır. Gündelik kullanım için ideal olan bu elbise, eğlenceli aktiviteler ve günlük kombinler için mükemmel seçim. Stretch olmayan kumaş yapısı ile formunu korur. Maksimum 30°C'de yıkanabilir, ağartıcı kullanılmamalıdır. Benzer renklerle yıkayın ve 110°C'de ütüleyin. Kuru temizleme yapılmamalıdır. XS'den XL'e kadar beden seçenekleri mevcuttur.
-  Updated: 2026-04-20T11:08:08Z
-  Vendor: THESVELTECHIC
-  Product Type: Dresses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1706610030501_b4ba18dc-9d2a-4445-bbc7-9f5a6f35025b.jpg?v=1714941993
-  - [Gri / XS](https://www.thesveltechic.com/products/ink-painting-print-tie-up-a-line-short-dress?variant=45287781630197)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1706610030501_b4ba18dc-9d2a-4445-bbc7-9f5a6f35025b.jpg?v=1714941993
-    Price: ₺4.700,00 TRY
-  - [Gri / S](https://www.thesveltechic.com/products/ink-painting-print-tie-up-a-line-short-dress?variant=45287781662965)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1706610030501_b4ba18dc-9d2a-4445-bbc7-9f5a6f35025b.jpg?v=1714941993
-    Price: ₺4.700,00 TRY
-  - [Gri / M](https://www.thesveltechic.com/products/ink-painting-print-tie-up-a-line-short-dress?variant=45287781695733)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1706610030501_b4ba18dc-9d2a-4445-bbc7-9f5a6f35025b.jpg?v=1714941993
-    Price: ₺4.700,00 TRY
-  - [Gri / L](https://www.thesveltechic.com/products/ink-painting-print-tie-up-a-line-short-dress?variant=45287781728501)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1706610030501_b4ba18dc-9d2a-4445-bbc7-9f5a6f35025b.jpg?v=1714941993
-    Price: ₺4.700,00 TRY
-  - [Gri / XL](https://www.thesveltechic.com/products/ink-painting-print-tie-up-a-line-short-dress?variant=45287781761269)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1706610030501_b4ba18dc-9d2a-4445-bbc7-9f5a6f35025b.jpg?v=1714941993
-    Price: ₺4.700,00 TRY
-  - [Kırmızı / XS](https://www.thesveltechic.com/products/ink-painting-print-tie-up-a-line-short-dress?variant=45287781794037)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1710140758853.jpg?v=1714941993
-    Price: ₺4.700,00 TRY
-  - [Kırmızı / S](https://www.thesveltechic.com/products/ink-painting-print-tie-up-a-line-short-dress?variant=45287781826805)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1710140758853.jpg?v=1714941993
-    Price: ₺4.700,00 TRY
-  - [Kırmızı / M](https://www.thesveltechic.com/products/ink-painting-print-tie-up-a-line-short-dress?variant=45287781859573)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1710140758853.jpg?v=1714941993
-    Price: ₺4.700,00 TRY
-  - [Kırmızı / L](https://www.thesveltechic.com/products/ink-painting-print-tie-up-a-line-short-dress?variant=45287781892341)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1710140758853.jpg?v=1714941993
-    Price: ₺4.700,00 TRY
-  - [Kırmızı / XL](https://www.thesveltechic.com/products/ink-painting-print-tie-up-a-line-short-dress?variant=45287781925109)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1710140758853.jpg?v=1714941993
-    Price: ₺4.700,00 TRY
 - [Sırtı Açık Kolsuz Bluz Siyah Jersey Kumaş](https://www.thesveltechic.com/products/solid-open-back-blouse): Şık ve rahat sırtı açık kolsuz bluz ile gündelik şıklığınızı tamamlayın. %80 Polyester, %10 Pamuk, %10 Elastan karışımı jersey kumaştan üretilen bu bluz, orta streç özelliği ile mükemmel uyum sağlar. Regular fit kesimi ile her vücut tipine uygun olan bluz, yakasız tasarımı ve kısa üst boyu ile modern bir görünüm sunar. Gündelik kullanımdan iş ortamına kadar her duruma uygun olan bu bluz, siyah rengi ile kombinleme kolaylığı sağlar. Kolsuz tasarımı ile yaz aylarında ferahlık sunarken, üzerine ceket veya hırka ile sonbahar ve kış aylarında da rahatlıkla kullanılabilir. Bakım kolaylığı sunan kumaş yapısı ile uzun ömürlü kullanım garantisi verir. XS'den XL'e kadar geniş beden seçenekleri mevcuttur. Benzer renklerle soğuk suda elde yıkama önerilir.
   Updated: 2026-04-20T11:03:56Z
   Vendor: THESVELTECHIC
@@ -5666,8 +5598,8 @@ Key facts about The Sveltechic:
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1714354038206_a1d7db58-a64b-4216-8eef-155b8320262f.jpg?v=1716499631
     Price: ₺3.840,00 TRY
-- [Çiçek Desenli Düğümlü Askılı Uzun Elbise Sarı](https://www.thesveltechic.com/products/floral-print-knotted-cami-long-dress): Romantik çiçek desenli maxi elbise ile özel günlerinizi unutulmaz kılın. %80 polyester %20 elastan karışımından üretilen bu zarif elbise, düğün, tatil ve özel davetler için mükemmel. Kalp yaka ve askılı tasarımı ile feminen bir görünüm sunar. A-line kesimi vücut hatlarınızı güzelce sararak rahat hareket imkanı sağlar. Kolsuz tasarımı sayesinde yaz aylarında serinlik, üzerine hırka ekleyerek sonbahar aylarında da kullanabilirsiniz. Normal fit kalıbı her vücut tipine uyum sağlar. Maksimum 30°C'de yıkanabilir, ağartıcı kullanılmamalıdır. Benzer renklerle yıkayın ve maksimum 110°C'de ütüleyin. Kuru temizleme yapılmamalıdır. Düğün, nişan, mezuniyet, tatil ve özel davetleriniz için ideal seçim.
-  Updated: 2026-04-20T11:00:02Z
+- [Çiçek Desenli Maxi Elbise](https://www.thesveltechic.com/products/floral-print-knotted-cami-long-dress): Romantik çiçek desenli maxi elbise ile özel günlerinizi unutulmaz kılın. %80 polyester %20 elastan karışımından üretilen bu zarif elbise, düğün, tatil ve özel davetler için mükemmel. Kalp yaka ve askılı tasarımı ile feminen bir görünüm sunar. A-line kesimi vücut hatlarınızı güzelce sararak rahat hareket imkanı sağlar. Kolsuz tasarımı sayesinde yaz aylarında serinlik, üzerine hırka ekleyerek sonbahar aylarında da kullanabilirsiniz. Normal fit kalıbı her vücut tipine uyum sağlar. Maksimum 30°C'de yıkanabilir, ağartıcı kullanılmamalıdır. Benzer renklerle yıkayın ve maksimum 110°C'de ütüleyin. Kuru temizleme yapılmamalıdır. Düğün, nişan, mezuniyet, tatil ve özel davetleriniz için ideal seçim.
+  Updated: 2026-05-07T00:50:17Z
   Vendor: THESVELTECHIC
   Product Type: Dresses
   Availability: Available
@@ -6010,8 +5942,8 @@ Key facts about The Sveltechic:
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1712140699091_bf962d1c-253f-44f1-844c-c919281c629a.jpg?v=1718908113
     Price: ₺4.800,00 TRY
-- [Monet Bahçe Baskılı Kolsuz Maxi Elbise Yeşil Pembe Sırtı Açık](https://www.thesveltechic.com/products/monet-garden-print-sleeveless-long-dress): Monet'nin ünlü bahçe tablolarından ilham alan bu büyüleyici maxi elbise, sanat severlerin gardırobunda olmazsa olmaz parçalardan biri. %90 polyester %10 elastan karışımı kumaşı sayesinde hem rahat hem de şık bir görünüm sunar. Kolsuz tasarımı ve bisiklet yaka detayı ile yaz aylarının vazgeçilmezi olan bu elbise, sırtı açık kesimi ile seksi bir hava katıyor. Slim fit kalıbı vücut hatlarınızı mükemmel şekilde sararak zarif bir silüet oluşturur. Orta streç özelliği hareket özgürlüğü sağlarken, maxi boyu ile şıklığınızı tamamlar. Parti, tatil ve özel günlerde tercih edebileceğiniz bu elbise, sanatsal baskısı ile dikkat çekici bir tarz yaratır. XS'den XL'e kadar geniş beden seçenekleri mevcuttur. Soğuk elde yıkama önerilir, ağartıcı kullanmayın. Düz kurutun ve maksimum 110°C'de ütüleyin. Kuru temizleme yapmayın. Kombinleme önerileri: Nude topuklu ayakkabılar ve minimal takılarla şık bir akşam yemeği görünümü, sandalet ve hasır çanta ile rahat tatil kombini oluşturabilirsiniz.
-  Updated: 2026-04-20T11:08:27Z
+- [Monet Maxi Elbise](https://www.thesveltechic.com/products/monet-garden-print-sleeveless-long-dress): Monet'nin ünlü bahçe tablolarından ilham alan bu büyüleyici maxi elbise, sanat severlerin gardırobunda olmazsa olmaz parçalardan biri. %90 polyester %10 elastan karışımı kumaşı sayesinde hem rahat hem de şık bir görünüm sunar. Kolsuz tasarımı ve bisiklet yaka detayı ile yaz aylarının vazgeçilmezi olan bu elbise, sırtı açık kesimi ile seksi bir hava katıyor. Slim fit kalıbı vücut hatlarınızı mükemmel şekilde sararak zarif bir silüet oluşturur. Orta streç özelliği hareket özgürlüğü sağlarken, maxi boyu ile şıklığınızı tamamlar. Parti, tatil ve özel günlerde tercih edebileceğiniz bu elbise, sanatsal baskısı ile dikkat çekici bir tarz yaratır. XS'den XL'e kadar geniş beden seçenekleri mevcuttur. Soğuk elde yıkama önerilir, ağartıcı kullanmayın. Düz kurutun ve maksimum 110°C'de ütüleyin. Kuru temizleme yapmayın. Kombinleme önerileri: Nude topuklu ayakkabılar ve minimal takılarla şık bir akşam yemeği görünümü, sandalet ve hasır çanta ile rahat tatil kombini oluşturabilirsiniz.
+  Updated: 2026-05-07T00:49:34Z
   Vendor: THESVELTECHIC
   Product Type: Dresses
   Availability: Available
@@ -6686,7 +6618,7 @@ Key facts about The Sveltechic:
   Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1720607871307.jpg?v=1720819255
   Price: ₺4.000,00 TRY
 - [Kare Yaka Dantel Kollu Kısa Elbise Siyah](https://www.thesveltechic.com/products/square-neck-lace-sleeve-short-dress): Şık kare yaka tasarımı ve dantel kol detaylarıyla öne çıkan bu kısa elbise, parti ve özel günler için mükemmel bir seçim. %100 polyester kumaştan üretilen elbise, normal fit kalıbıyla rahat bir kullanım sunar. Uzun kollu tasarımı ve seksi stiliyle dikkat çeken bu parça, sonbahar sezonunun vazgeçilmez parçalarından biri. Streç olmayan kumaş yapısı sayesinde formunu korur ve şık görünümünü sürdürür. 30°C'de yıkanabilir, ağartıcı kullanılmamalıdır. Benzer renklerle yıkayın ve maksimum 110°C'de ütüleyin. Kuru temizleme yapılmamalıdır. Parti, kokteyl ve özel davetler için ideal olan bu elbise, siyah rengiyle her kombinle uyum sağlar.
-  Updated: 2026-04-18T10:37:17Z
+  Updated: 2026-05-06T12:48:45Z
   Vendor: THESVELTECHIC
   Product Type: Dresses
   Availability: Available
@@ -6739,8 +6671,8 @@ Key facts about The Sveltechic:
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1720752531978_64029ea6-3a03-4615-b004-345d3d99a578.jpg?v=1720819267
   Price: ₺3.250,00 TRY
-- [Renk Bloklu Askılı Uzun Abiye Elbise Siyah Beyaz](https://www.thesveltechic.com/products/color-block-spaghetti-strap-long-dress): Zarif renk bloklu tasarımıyla öne çıkan bu uzun abiye elbise, özel günlerinizde şıklığınızı tamamlayacak. %95 polyester %5 elastan karışımı dokuma kumaşından üretilen elbise, hafif streç özelliği sayesinde rahat hareket imkanı sunar. İnce askılı ve düşük kesim yaka detaylarıyla modern bir görünüm sergiler. Maxi boy kesimi ile zarif bir silüet oluşturur. Parti, eğlence ve tatil gibi özel anlarda tercih edebileceğiniz bu abiye, siyah ve beyaz renk bloklarının uyumuyla zamansız bir şıklık sunar. Normal kalıp yapısı ile her vücut tipine uyum sağlar. 30°C'de yıkanabilir, ağartıcı kullanılmamalıdır. Benzer renklerle yıkayın ve maksimum 110°C'de ütüleyin. Özel günlerinizde fark yaratmak için ideal bir seçim.
-  Updated: 2026-04-20T11:02:38Z
+- [Renk Bloklu Askılı Uzun Abiye Elbise](https://www.thesveltechic.com/products/color-block-spaghetti-strap-long-dress): Zarif renk bloklu tasarımıyla öne çıkan bu uzun abiye elbise, özel günlerinizde şıklığınızı tamamlayacak. %95 polyester %5 elastan karışımı dokuma kumaşından üretilen elbise, hafif streç özelliği sayesinde rahat hareket imkanı sunar. İnce askılı ve düşük kesim yaka detaylarıyla modern bir görünüm sergiler. Maxi boy kesimi ile zarif bir silüet oluşturur. Parti, eğlence ve tatil gibi özel anlarda tercih edebileceğiniz bu abiye, siyah ve beyaz renk bloklarının uyumuyla zamansız bir şıklık sunar. Normal kalıp yapısı ile her vücut tipine uyum sağlar. 30°C'de yıkanabilir, ağartıcı kullanılmamalıdır. Benzer renklerle yıkayın ve maksimum 110°C'de ütüleyin. Özel günlerinizde fark yaratmak için ideal bir seçim.
+  Updated: 2026-05-07T00:48:24Z
   Vendor: THESVELTECHIC
   Product Type: Dresses
   Availability: Available
@@ -7009,7 +6941,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1720171267545_44c07282-7fb4-4341-a0bd-70ef0c836000.jpg?v=1720819306
     Price: ₺4.000,00 TRY
 - [Marul Kesimli Yırtmaçlı Abiye Midi Elbise Sarı](https://www.thesveltechic.com/products/lettuce-trim-slit-midi-dress): Zarif marul kesimli yırtmaçlı abiye midi elbise, özel günlerinizde şıklığınızı tamamlayacak. %60 polyester %40 pamuk karışımı kumaşı ile konforlu kullanım sunar. Kolsuz tasarımı ve yakasız kesimi ile modern bir görünüm sağlar. Midi boyu ile hem şık hem de rahat hareket imkanı verir. Yırtmaç detayı ile feminen bir hava katar. Düğün, nişan, mezuniyet gibi özel davetlerde tercih edilebilir. Normal fit kalıbı ile vücut hatlarını güzel şekilde sararak zarif bir silüet oluşturur. Streç olmayan kumaş yapısı ile formunu korur. 30°C'de yıkanabilir, kolay bakım sağlar. Benzer renklerle yıkayarak renk solmasını önleyebilirsiniz. Maksimum 110°C'de ütülenebilir. Kuru temizleme gerektirmez. Sarı rengi ile canlı ve enerjik bir görünüm sunar. XS'den XL'e kadar beden seçenekleri mevcuttur.
-  Updated: 2026-04-28T09:04:07Z
+  Updated: 2026-05-07T10:58:07Z
   Vendor: THESVELTECHIC
   Product Type: Dresses
   Availability: Available
@@ -8254,7 +8186,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1719451354337.jpg?v=1722622226
     Price: ₺7.000,00 TRY
 - [Beloved Düğümlü Kolsuz Maxi Abiye Elbise Siyah](https://www.thesveltechic.com/products/beloved-knotted-sleeveless-long-dress-1): Beloved düğümlü kolsuz uzun abiye elbise ile özel günlerinizde şıklığınızı tamamlayın. %95 polyester %5 elastan karışımından üretilen bu zarif elbise, bisiklet yaka tasarımı ve slim fit kalıbıyla vücut hatlarınızı mükemmel şekilde sararak sofistike bir görünüm sunar. Düğümlü detayları ile dikkat çeken bu maxi boy elbise, düğün, parti, tatil ve özel eğlenceler için ideal bir seçimdir. Streç olmayan kumaş yapısı sayesinde formunu korurken, kolsuz tasarımı ile yaz aylarında rahatlık sağlar. Casual ve şık tarzı bir arada sunan bu elbise, günlük kullanımdan özel davetlere kadar geniş bir kullanım alanına sahiptir. Elde soğuk yıkama ile kolayca bakımı yapılabilir. Bisiklet yaka ve düğümlü detaylarıyla modern ve zarif bir görünüm elde edin. Maxi boy kesimi ile uzun boylu görünüm sağlayan bu elbise, her vücut tipine uygun slim fit kalıbıyla mükemmel oturur.
-  Updated: 2026-04-26T17:22:31Z
+  Updated: 2026-05-06T12:54:28Z
   Vendor: THESVELTECHIC
   Product Type: Dresses
   Availability: Available
@@ -8332,7 +8264,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1715566336376.jpg?v=1722622229
     Price: ₺4.800,00 TRY
 - [Kalp Yaka Askılı Midi Abiye Elbise Pembe](https://www.thesveltechic.com/products/solid-sweetheart-neckline-cami-midi-dress-1): Zarif kalp yaka tasarımıyla özel günlerinizin vazgeçilmezi olan bu midi abiye elbise, düğün, parti ve özel davetler için mükemmel seçim. %95 polyester %5 pamuk karışımı kumaşı sayesinde rahat kullanım sunar. Kolsuz tasarımı ve düşük kesim boyun çizgisi ile feminen bir görünüm yaratır. Normal fit kalıbıyla her vücut tipine uyum sağlar. Streç olmayan yapısı sayesinde formunu korur. Maxi boy uzunluğu ile şık ve zarif bir silüet oluşturur. Özel günler, eğlence, düğün, tatil ve parti gibi özel anlarda tercih edilebilir. 30°C'de yıkanabilir, ağartıcı kullanılmamalı, benzer renklerle yıkanmalı ve maksimum 110°C'de ütülenmelidir. Kuru temizleme yapılmamalıdır.
-  Updated: 2026-04-20T11:06:05Z
+  Updated: 2026-05-05T17:04:22Z
   Vendor: THESVELTECHIC
   Product Type: Dresses
   Availability: Available
@@ -8786,7 +8718,7 @@ Key facts about The Sveltechic:
   Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1722222830819.jpg?v=1722622837
   Price: ₺2.100,00 TRY
 - [Halter Dokulu Sırtı Açık Abiye Elbise Yeşil Asimetrik](https://www.thesveltechic.com/products/halter-texture-backless-short-dress): Zarif halter yaka tasarımıyla dikkat çeken bu abiye elbise, özel günlerinizin vazgeçilmezi. %90 polyester %10 elastan karışımı dokulu kumaşı sayesinde hem şık hem de rahat. Sırtı açık ve asimetrik kesimi ile modern bir görünüm sunar. Kolsuz tasarımı ve slim fit kalıbı vücut hatlarınızı mükemmel şekilde sararak zarif bir silüet oluşturur. Hafif esneme özelliği hareket özgürlüğü sağlar. Tatil, özel davet ve abiye gerektiren tüm etkinlikler için ideal. Kısa elbise boyu ile genç ve dinamik bir tarz yaratır. Yakasız tasarımı boyun çizginizi güzelce vurgular. Normal kalınlıktaki kumaşı şeffaf değildir. 30°C'de yıkanabilir, ağartıcı kullanılmamalıdır. Benzer renklerle yıkayın ve maksimum 110°C'de ütüleyin. Kuru temizleme yapılmamalıdır. Yeşil rengi ile doğal ve ferah bir görünüm sunar. S, M, L, XL beden seçenekleri mevcuttur.
-  Updated: 2026-04-20T11:03:01Z
+  Updated: 2026-05-07T10:13:27Z
   Vendor: THESVELTECHIC
   Product Type: Dresses
   Availability: Available
@@ -10597,8 +10529,8 @@ Key facts about The Sveltechic:
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1723023819582.jpg?v=1723638059
   Price: ₺4.560,00 TRY
-- [Pileli Biye Fermuarlı Abiye Tüp Elbise Sarı Midi](https://www.thesveltechic.com/products/pleated-piping-zipper-tube-dress): Zarif pileli biye detaylı fermuarlı abiye tüp elbise. %95 polyester %5 elastan karışımı dokuma kumaştan üretilen bu midi boy elbise, düğün, parti ve özel günler için ideal. Kalp yaka tasarımı ve korse detayları ile vücut hatlarını zarif bir şekilde saran model. Kolsuz tasarım ve normal fit kalıp ile rahat kullanım sağlar. Streç olmayan kumaş yapısı ile şık duruş sergiler. 30°C'de yıkanabilir, ağartıcı kullanılmaz. Benzer renklerle yıkayın ve maksimum 110°C'de ütüleyin. XS, S, M bedenlerde mevcut. Özel günlerinizde şıklığınızı tamamlayacak zarif bir seçim.
-  Updated: 2026-04-28T09:09:32Z
+- [Clara Midi Elbise](https://www.thesveltechic.com/products/pleated-piping-zipper-tube-dress): Zarif pileli biye detaylı fermuarlı abiye tüp elbise. %95 polyester %5 elastan karışımı dokuma kumaştan üretilen bu midi boy elbise, düğün, parti ve özel günler için ideal. Kalp yaka tasarımı ve korse detayları ile vücut hatlarını zarif bir şekilde saran model. Kolsuz tasarım ve normal fit kalıp ile rahat kullanım sağlar. Streç olmayan kumaş yapısı ile şık duruş sergiler. 30°C'de yıkanabilir, ağartıcı kullanılmaz. Benzer renklerle yıkayın ve maksimum 110°C'de ütüleyin. XS, S, M bedenlerde mevcut. Özel günlerinizde şıklığınızı tamamlayacak zarif bir seçim.
+  Updated: 2026-05-07T00:47:41Z
   Vendor: THESVELTECHIC
   Product Type: Dresses
   Availability: Available
@@ -12512,7 +12444,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1727403966318.jpg?v=1728565096
     Price: ₺3.720,00 TRY
 - [Puantiyeli Kalp Yaka Askılı Maxi Elbise Siyah](https://www.thesveltechic.com/products/polka-dot-sweetheart-cami-dress): Romantik tarzınızı yansıtan puantiyeli kalp yaka askılı maxi elbise. %100 polyester dokuma kumaştan üretilen bu zarif elbise, V yaka detayı ve kolsuz tasarımıyla tatil ve özel günlerinizde şıklığınızı tamamlar. Normal kalınlıkta, şeffaf olmayan kumaşı ile rahat kullanım sunar. Maxi boy kesimi ile zarif bir görünüm sağlar. Esnemez yapısı ile vücut hatlarınızı güzelce sararak normal uyum sağlar. 30°C'de yıkanabilir, benzer renklerle yıkayın. Maksimum 110°C'de ütüleyebilirsiniz. Kuru temizleme yapmayın, beyazlatmayın. S, M, L bedenlerinde mevcut. Tatil kombinlerinizde, romantik akşam yemeklerinde veya özel davetlerde kullanabileceğiniz çok amaçlı bir parça.
-  Updated: 2026-04-20T11:12:14Z
+  Updated: 2026-05-06T12:46:43Z
   Vendor: THESVELTECHIC
   Product Type: Dresses
   Availability: Available
@@ -13498,8 +13430,8 @@ Key facts about The Sveltechic:
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1726309774092_9680a44a-2f9c-485e-97b5-e089a58bb279.jpg?v=1728565456
     Price: ₺3.120,00 TRY
-- [Plise Fermuarlı Midi Abiye Elbise Yeşil Kolsuz](https://www.thesveltechic.com/products/pleated-zipper-plisse-tube-dress): Şık plise detaylı fermuarlı midi abiye elbise, özel günleriniz için mükemmel seçim. %100 polyester dokuma kumaştan üretilen bu zarif elbise, kolsuz tasarımı ve yakasız modeliyle modern bir görünüm sunar. Pliseli yapısı sayesinde vücuda zarif bir şekilde oturur ve parti, düğün, nişan gibi özel davetlerde göz kamaştırır. Normal fit kalıbıyla rahat hareket imkanı sağlar. Midi boy uzunluğu ile hem şık hem de pratik kullanım sunar. Esnemez yapısı sayesinde formunu korur. 30°C'de yıkanabilir, ağartıcı kullanılmamalıdır. Benzer renklerle yıkayın ve maksimum 110°C'de ütüleyin. Kuru temizleme yapılmamalıdır. XS, S, M, L bedenlerinde mevcut. Özel günlerinizde fark yaratmak için ideal seçim.
-  Updated: 2026-04-20T10:58:31Z
+- [Plise Fermuarlı Midi Abiye Elbise](https://www.thesveltechic.com/products/pleated-zipper-plisse-tube-dress): Şık plise detaylı fermuarlı midi abiye elbise, özel günleriniz için mükemmel seçim. %100 polyester dokuma kumaştan üretilen bu zarif elbise, kolsuz tasarımı ve yakasız modeliyle modern bir görünüm sunar. Pliseli yapısı sayesinde vücuda zarif bir şekilde oturur ve parti, düğün, nişan gibi özel davetlerde göz kamaştırır. Normal fit kalıbıyla rahat hareket imkanı sağlar. Midi boy uzunluğu ile hem şık hem de pratik kullanım sunar. Esnemez yapısı sayesinde formunu korur. 30°C'de yıkanabilir, ağartıcı kullanılmamalıdır. Benzer renklerle yıkayın ve maksimum 110°C'de ütüleyin. Kuru temizleme yapılmamalıdır. XS, S, M, L bedenlerinde mevcut. Özel günlerinizde fark yaratmak için ideal seçim.
+  Updated: 2026-05-07T00:46:18Z
   Vendor: THESVELTECHIC
   Product Type: Dresses
   Availability: Available
@@ -13521,7 +13453,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1727605562089.jpg?v=1728565756
     Price: ₺4.100,00 TRY
 - [Patchwork Baskılı Uzun Kol Ceket Çok Renkli Oversize](https://www.thesveltechic.com/products/multi-color-printed-flap-pockets-winter-coat): Soğuk havalarda tarzınızı yansıtan bu patchwork desenli ceket, %100 polyester kumaşıyla hem sıcak tutar hem de şık görünüm sağlar. Oversize kalıbıyla rahat kullanım sunan ceket, uzun kollu tasarımıyla gündelik kombinlerinizin vazgeçilmezi olacak. Baskılı deseni ve çok renkli yapısıyla dikkat çeken bu ceket, tatil ve günlük kullanım için idealdir. Esnemez kumaş yapısı sayesinde formunu korur. 30°C'de yıkanabilir, ağartıcı kullanılmamalıdır. Benzer renklerle yıkayın ve maksimum 110°C'de ütüleyin. Kuru temizleme yapılmamalıdır. S-XL beden aralığında mevcut olan ceket, her vücut tipine uygun oversize kalıbıyla konforu ve şıklığı bir arada sunar. Gündelik tarzınızı tamamlayan bu ceket, soğuk havalarda sıcaklık sağlarken stil sahibi görünmenizi sağlar.
-  Updated: 2026-04-20T11:05:08Z
+  Updated: 2026-05-07T23:38:49Z
   Vendor: THESVELTECHIC
   Product Type: Winter Coats
   Availability: Available
@@ -14326,7 +14258,7 @@ Key facts about The Sveltechic:
   Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1729749053937.jpg?v=1729971424
   Price: ₺2.550,00 TRY
 - [Kemerli Pileli Kloş Elbise Haki Kolsuz](https://www.thesveltechic.com/products/shirred-pleated-tube-dress-with-belt): Şık ve rahat kemerli pileli kloş elbise, günlük ve iş hayatınızda rahatlıkla kullanabileceğiniz çok amaçlı bir parça. %90 polyester %10 elastan karışımından üretilen bu elbise, pileli detayları ve kemer aksesuarı ile feminen bir görünüm sunar. Kolsuz tasarımı ve kısa boyu ile sıcak havalarda ideal. Dar kesim kalıbı vücut hatlarınızı güzelce sararak şık bir siluet oluşturur. Yakasız tasarımı ile modern ve minimalist bir stil sergiler. Günlük kombinlerinizde sneaker ile rahat, topuklu ayakkabı ile şık bir görünüm elde edebilirsiniz. İş hayatınızda blazer ile kombinleyerek profesyonel bir tarz yakalayabilirsiniz. 30°C'de yıkanabilir, ağartıcı kullanmayın. Benzer renklerle yıkayın ve maksimum 110°C'de ütüleyin. XS, S ve M bedenlerinde mevcut.
-  Updated: 2026-04-20T11:09:36Z
+  Updated: 2026-05-06T21:58:26Z
   Vendor: THESVELTECHIC
   Product Type: Dresses
   Availability: Available
@@ -14658,7 +14590,7 @@ Key facts about The Sveltechic:
     Availability: Available
     Price: ₺3.720,00 TRY
 - [Sırtı Açık Saten Halter Abiye Elbise Yeşil](https://www.thesveltechic.com/products/backless-satin-halter-dress): Şık ve zarif sırtı açık saten halter abiye elbise ile özel gecelerinizde göz kamaştırın. %100 polyester saten kumaşından üretilen bu maxi boy elbise, halter yaka tasarımı ve sırtı açık detayıyla modern bir görünüm sunar. Kolsuz kesimi ve normal kalıp yapısıyla rahat bir kullanım sağlar. Parti, düğün, mezuniyet ve özel davetler için ideal. Esnemez yapısı sayesinde vücut hatlarınızı mükemmel şekilde sararak zarif bir silüet oluşturur. Yeşil rengiyle doğal ve canlı bir görünüm kazandırır. Maksimum 30°C'de yıkanabilir, beyazlatılmaz. Benzer renklerle yıkayın ve 110°C'de ütüleyin. S, M, L, XL bedenlerde mevcut. Svelte Chic kalitesiyle özel anlarınızı unutulmaz kılın.
-  Updated: 2026-05-02T17:20:11Z
+  Updated: 2026-05-09T16:45:08Z
   Vendor: THESVELTECHIC
   Product Type: Dresses
   Availability: Available
@@ -15878,7 +15810,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1731929199887.jpg?v=1731935884
     Price: ₺5.400,00 TRY
 - [Çiçekli Sırtı Açık Uzun Kol Abiye Elbise Pembe](https://www.thesveltechic.com/products/romance-floral-backless-mesh-dress): Romantik çiçek desenli sırtı açık file abiye elbise ile özel günlerinizde şıklığınızı konuşturun. %95 polyester %5 elastan karışımından üretilen bu zarif elbise, jakarlı dokusu ve file detaylarıyla dikkat çeker. Uzun kollu ve dik yakalı tasarımı, düğün, parti ve özel davetler için mükemmel. Dar kesim kalıbı vücut hatlarınızı zarif bir şekilde sararak feminen bir görünüm sunar. Orta esneklikli kumaşı rahat hareket imkanı sağlar. Kısa boy kesimi ile modern ve şık bir tarz yaratır. Sırtı açık detayı ile romantik dokunuş katan bu elbise, özel günlerinizin vazgeçilmezi olacak. 30°C'de yıkanabilir, ağartıcı kullanılmamalı. Benzer renklerle yıkayın ve 110°C'de ütüleyin. Kuru temizleme yapılmamalı. XS'den XL'e kadar beden seçenekleri mevcut.
-  Updated: 2026-04-20T11:12:00Z
+  Updated: 2026-05-06T12:45:28Z
   Vendor: THESVELTECHIC
   Product Type: Dresses
   Availability: Available
@@ -16053,8 +15985,8 @@ Key facts about The Sveltechic:
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1731484670464.jpg?v=1731935897
     Price: ₺4.100,00 TRY
-- [Romantik Çiçekli Kolsuz Maxi Abiye Elbise Pembe](https://www.thesveltechic.com/products/romance-floral-sleeveless-mesh-dress): Romantik çiçekli kolsuz file abiye elbise ile özel gecelerinizde büyüleyici görünün. %95 polyester %5 elastan kompozisyonlu jakarlı tasarım, orta esneklik sunar ve dar uyum sağlar. Maxi boy uzunluğunda, yuvarlak yaka detaylı bu şık elbise parti, tatil ve özel günler için idealdir. File malzemesi ile romantik bir hava katarken, çiçekli deseni ile feminen zarafeti yansıtır. Maksimum 30°C'de yıkanabilir, ağartılmamalıdır. XS'den XL'e kadar beden seçenekleri mevcuttur. Benzer renklerle yıkayın ve maksimum 110°C'de ütüleyin. Kuru temizleme yapmayın. Gündelik kullanımdan özel davetlere kadar geniş kullanım alanı sunan bu zarif parça, gardırobunuzun vazgeçilmez abiye elbisesi olacak.
-  Updated: 2026-04-20T11:09:59Z
+- [Romantik Çiçekli Kolsuz Maxi Abiye Elbise](https://www.thesveltechic.com/products/romance-floral-sleeveless-mesh-dress): Romantik çiçekli kolsuz file abiye elbise ile özel gecelerinizde büyüleyici görünün. %95 polyester %5 elastan kompozisyonlu jakarlı tasarım, orta esneklik sunar ve dar uyum sağlar. Maxi boy uzunluğunda, yuvarlak yaka detaylı bu şık elbise parti, tatil ve özel günler için idealdir. File malzemesi ile romantik bir hava katarken, çiçekli deseni ile feminen zarafeti yansıtır. Maksimum 30°C'de yıkanabilir, ağartılmamalıdır. XS'den XL'e kadar beden seçenekleri mevcuttur. Benzer renklerle yıkayın ve maksimum 110°C'de ütüleyin. Kuru temizleme yapmayın. Gündelik kullanımdan özel davetlere kadar geniş kullanım alanı sunan bu zarif parça, gardırobunuzun vazgeçilmez abiye elbisesi olacak.
+  Updated: 2026-05-07T00:45:04Z
   Vendor: THESVELTECHIC
   Product Type: Dresses
   Availability: Available
@@ -16511,8 +16443,8 @@ Key facts about The Sveltechic:
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1732519257593.jpg?v=1732888994
     Price: ₺4.680,00 TRY
-- [Sırt Dekolteli Payet Maxi Elbise Bordo Kolsuz](https://www.thesveltechic.com/products/elegant-sequins-halter-dress): Şık sırt dekolteli payet maxi elbise ile özel gecelerinizde büyüleyici görünün. %95 polyester %5 elastan karışımından üretilen bu zarif elbise, hafif esneklik sunar ve vücudunuza mükemmel uyum sağlar. Yuvarlak yaka ve kolsuz tasarımı ile modern bir görünüm sunan elbise, düğün ve parti gibi özel etkinlikler için idealdir. Pullu detayları ile ışık altında göz alıcı bir parıltı yaratır. Dar uyumlu kalıbı ile vücut hatlarınızı zarif bir şekilde ortaya çıkarır. Yarı şeffaf yapısı ile feminen bir dokunuş katar. Maxi boy ile uzun bacak görünümü sağlar. Soğuk elde yıkama ile bakımı kolaydır. Bordo rengi ile klasik ve şık bir seçenek sunar. XS, S, M bedenleri mevcuttur.
-  Updated: 2026-04-20T11:14:21Z
+- [Sırt Dekolteli Maxi Elbise](https://www.thesveltechic.com/products/elegant-sequins-halter-dress): Şık sırt dekolteli payet maxi elbise ile özel gecelerinizde büyüleyici görünün. %95 polyester %5 elastan karışımından üretilen bu zarif elbise, hafif esneklik sunar ve vücudunuza mükemmel uyum sağlar. Yuvarlak yaka ve kolsuz tasarımı ile modern bir görünüm sunan elbise, düğün ve parti gibi özel etkinlikler için idealdir. Pullu detayları ile ışık altında göz alıcı bir parıltı yaratır. Dar uyumlu kalıbı ile vücut hatlarınızı zarif bir şekilde ortaya çıkarır. Yarı şeffaf yapısı ile feminen bir dokunuş katar. Maxi boy ile uzun bacak görünümü sağlar. Soğuk elde yıkama ile bakımı kolaydır. Bordo rengi ile klasik ve şık bir seçenek sunar. XS, S, M bedenleri mevcuttur.
+  Updated: 2026-05-07T00:44:16Z
   Vendor: THESVELTECHIC
   Product Type: Dresses
   Availability: Available
@@ -16862,8 +16794,8 @@ Key facts about The Sveltechic:
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1702357542923.jpg?v=1733139602
     Price: ₺5.700,00 TRY
-- [Tek Askılı Şeritli Şifon Maxi Elbise Siyah Asimetrik Yaka](https://www.thesveltechic.com/products/one-strap-long-ribbon-chiffon-dress): Zarif tek askılı şifon maxi elbise ile özel gecelerinizde göz kamaştırın. %95 polyester %5 elastan karışımından üretilen bu şık elbise, asimetrik yaka detayı ve şeritli tasarımıyla dikkat çeker. Yarı şeffaf şifon kumaşı ve normal kalınlığıyla parti ve özel davetler için ideal. Orta esneklik sunan kumaş yapısı rahat hareket imkanı sağlar. Maxi boy kesimi ile zarif bir silüet oluştururken, tek omuz detayı modern bir dokunuş katar. 30°C'de yıkanabilir, ağartıcı kullanılmaz. S, M, L bedenlerinde mevcut. Göğüs ölçüleri: S-74cm, M-78cm, L-82cm. Bel ölçüleri: S-60cm, M-64cm, L-68cm. Elbise boyu yaklaşık 134-137cm arası. Benzer renklerle yıkayın, maksimum 110°C'de ütüleyin. Kuru temizleme yapmayın. Özel geceler, partiler ve davetler için mükemmel seçim.
-  Updated: 2026-04-28T04:34:57Z
+- [Tek Askılı Şeritli Şifon Maxi Elbise](https://www.thesveltechic.com/products/one-strap-long-ribbon-chiffon-dress): Zarif tek askılı şifon maxi elbise ile özel gecelerinizde göz kamaştırın. %95 polyester %5 elastan karışımından üretilen bu şık elbise, asimetrik yaka detayı ve şeritli tasarımıyla dikkat çeker. Yarı şeffaf şifon kumaşı ve normal kalınlığıyla parti ve özel davetler için ideal. Orta esneklik sunan kumaş yapısı rahat hareket imkanı sağlar. Maxi boy kesimi ile zarif bir silüet oluştururken, tek omuz detayı modern bir dokunuş katar. 30°C'de yıkanabilir, ağartıcı kullanılmaz. S, M, L bedenlerinde mevcut. Göğüs ölçüleri: S-74cm, M-78cm, L-82cm. Bel ölçüleri: S-60cm, M-64cm, L-68cm. Elbise boyu yaklaşık 134-137cm arası. Benzer renklerle yıkayın, maksimum 110°C'de ütüleyin. Kuru temizleme yapmayın. Özel geceler, partiler ve davetler için mükemmel seçim.
+  Updated: 2026-05-07T00:43:19Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -16913,8 +16845,8 @@ Key facts about The Sveltechic:
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1733211850324.jpg?v=1733756395
     Price: ₺3.840,00 TRY
-- [Kesik Panel Kolsuz Maxi Abiye Elbise Siyah](https://www.thesveltechic.com/products/cutout-panel-sexy-slim-dress-1): Şık kesik panel detaylı kolsuz maxi abiye elbise. %95 polyester %5 elastan karışımı saten ve jersey kumaştan üretilmiş bu zarif elbise, yuvarlak yaka ve dar uyum kesimi ile özel günlerinizde göz kamaştırmanızı sağlar. Hafif esneme özelliği sayesinde rahat hareket imkanı sunar. Parti, tatil ve özel davetler için ideal. Maksimum 30°C'de yıkanabilir, ağartıcı kullanmayın. Benzer renklerle yıkayın ve 110°C'de ütüleyin. XS-XL beden seçenekleri mevcuttur. Dar uyum kesimi ile vücut hatlarınızı zarif şekilde ortaya çıkarır. Kolsuz tasarımı ile yaz aylarında da rahatlıkla giyilebilir. Saten ve jersey kumaş karışımı lüks bir görünüm sağlar.
-  Updated: 2026-04-20T11:00:15Z
+- [Manon Maxi Dress](https://www.thesveltechic.com/products/cutout-panel-sexy-slim-dress-1): Şık kesik panel detaylı kolsuz maxi abiye elbise. %95 polyester %5 elastan karışımı saten ve jersey kumaştan üretilmiş bu zarif elbise, yuvarlak yaka ve dar uyum kesimi ile özel günlerinizde göz kamaştırmanızı sağlar. Hafif esneme özelliği sayesinde rahat hareket imkanı sunar. Parti, tatil ve özel davetler için ideal. Maksimum 30°C'de yıkanabilir, ağartıcı kullanmayın. Benzer renklerle yıkayın ve 110°C'de ütüleyin. XS-XL beden seçenekleri mevcuttur. Dar uyum kesimi ile vücut hatlarınızı zarif şekilde ortaya çıkarır. Kolsuz tasarımı ile yaz aylarında da rahatlıkla giyilebilir. Saten ve jersey kumaş karışımı lüks bir görünüm sağlar.
+  Updated: 2026-05-07T00:42:27Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -17667,8 +17599,8 @@ Key facts about The Sveltechic:
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1734074203830_abfaa6ea-0dff-4e2b-9c76-de264a0666b6.jpg?v=1734543064
     Price: ₺3.510,00 TRY
-- [Plise Fermuarlı Askılı Abiye Elbise Siyah Kare Yaka](https://www.thesveltechic.com/products/pleated-zipper-strappy-long-dress): Özel etkinlikler için mükemmel olan şık plise fermuarlı askılı abiye elbise. %80 polyester %20 pamuk karışımı lüks kumaştan üretilmiş, dayanıklı ve konforlu. Kolsuz, kare yakalı tasarımı ile her parti ortamında zarif bir görünüm sağlar. Hafif elastikiyetli normal kesim ile hareket özgürlüğü sunar. Maxi boy uzunluğu ile zamansız şıklık. A-line kesimi her vücut tipine uyum sağlar. Fermuarlı detayı ile pratik kullanım. Romantik ve şık tasarımı ile özel günlerinizde göz kamaştırın. Düğün, nişan, mezuniyet balosu gibi özel etkinlikler için ideal. Sade ve zarif çizgileri ile kombinleme kolaylığı sağlar. Kaliteli işçilik ve detaylı dikişlerle uzun ömürlü kullanım. Her gardıropta bulunması gereken zamansız parça.
-  Updated: 2026-04-20T10:57:39Z
+- [Bennet Maxi Dress](https://www.thesveltechic.com/products/pleated-zipper-strappy-long-dress): Özel etkinlikler için mükemmel olan şık plise fermuarlı askılı abiye elbise. %80 polyester %20 pamuk karışımı lüks kumaştan üretilmiş, dayanıklı ve konforlu. Kolsuz, kare yakalı tasarımı ile her parti ortamında zarif bir görünüm sağlar. Hafif elastikiyetli normal kesim ile hareket özgürlüğü sunar. Maxi boy uzunluğu ile zamansız şıklık. A-line kesimi her vücut tipine uyum sağlar. Fermuarlı detayı ile pratik kullanım. Romantik ve şık tasarımı ile özel günlerinizde göz kamaştırın. Düğün, nişan, mezuniyet balosu gibi özel etkinlikler için ideal. Sade ve zarif çizgileri ile kombinleme kolaylığı sağlar. Kaliteli işçilik ve detaylı dikişlerle uzun ömürlü kullanım. Her gardıropta bulunması gereken zamansız parça.
+  Updated: 2026-05-07T00:41:31Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -18108,8 +18040,8 @@ Key facts about The Sveltechic:
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1735292602255_1859a168-57cf-432b-a7b6-a14bc186fe7e.jpg?v=1735323979
     Price: ₺4.400,00 TRY
-- [Sırt Açık Saten Askılı Abiye Elbise Uzun Dantel Detaylı Siyah](https://www.thesveltechic.com/products/backless-long-ribbon-lace-panel-satin-cami-dress): Şık sırt açık tasarımıyla büyüleyici bir görünüm sunan uzun abiye elbise. %100 polyester saten kumaştan üretilen bu zarif elbise, dantel detayları ve ince askılı choker yakalı tasarımıyla özel gecelerinizde parlayacaksınız. Normal kesim ve esnemez kumaş yapısı her vücut tipine mükemmel uyum sağlar. Romantik sırtı açık detayı ile parti, düğün ve özel davetlerde kalıcı izlenim bırakır. Maxi boy uzunluğu ve slim fit kesimiyle zarif bir silüet oluşturur. Kaliteli saten kumaş zahmetsiz güzellik ve konfor sunar. Siyah rengiyle her aksesuar ile uyumlu, zamansız şıklık. Özel günlerinizi unutulmaz kılmak için ideal seçim.
-  Updated: 2026-04-20T11:07:41Z
+- [Sian Maxi Dress](https://www.thesveltechic.com/products/backless-long-ribbon-lace-panel-satin-cami-dress): Şık sırt açık tasarımıyla büyüleyici bir görünüm sunan uzun abiye elbise. %100 polyester saten kumaştan üretilen bu zarif elbise, dantel detayları ve ince askılı choker yakalı tasarımıyla özel gecelerinizde parlayacaksınız. Normal kesim ve esnemez kumaş yapısı her vücut tipine mükemmel uyum sağlar. Romantik sırtı açık detayı ile parti, düğün ve özel davetlerde kalıcı izlenim bırakır. Maxi boy uzunluğu ve slim fit kesimiyle zarif bir silüet oluşturur. Kaliteli saten kumaş zahmetsiz güzellik ve konfor sunar. Siyah rengiyle her aksesuar ile uyumlu, zamansız şıklık. Özel günlerinizi unutulmaz kılmak için ideal seçim.
+  Updated: 2026-05-07T00:40:11Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -18611,8 +18543,8 @@ Key facts about The Sveltechic:
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1737021936276_e0779f91-f71c-4d17-9f41-1f11c4ff8885.jpg?v=1739774471
     Price: ₺3.600,00 TRY
-- [Sırt Bağlamalı Plise Elbise](https://www.thesveltechic.com/products/back-tie-halter-pleated-dress): Zamansız romantizmi şık vintage tarzıyla yaşayın! Halter yaka ve sırt dekolteli bu plise abiye elbise, her ortamda vintage cazibe ve zarafet katıyor. %95 Polyester ve %5 Elastan kumaşından üretilen elbise, düğünler, tatiller ve özel davetler için mükemmel rahatlık sunar. Sırt bağlamalı tasarımı ile vücut hatlarınızı zarif bir şekilde saran bu elbise, mini boy kesimi ile modern bir görünüm yaratır. 30°C'de makinede yıkanabilir, kuru temizlemeye gerek yoktur. Invisible fermuarlı yapısı ile kolay giyim sağlar. Kolsuz tasarımı ile yaz aylarında ferah kullanım sunar. Shift kesimi ile rahat hareket imkanı tanır. Özel günlerinizde kalıcı izlenim bırakmanızı sağlayan bu çok yönlü abiye elbise, gardırobunuzun vazgeçilmez parçası olacak.
-  Updated: 2026-04-20T11:09:23Z
+- [Ronıa Mini Dress](https://www.thesveltechic.com/products/back-tie-halter-pleated-dress): Zamansız romantizmi şık vintage tarzıyla yaşayın! Halter yaka ve sırt dekolteli bu plise abiye elbise, her ortamda vintage cazibe ve zarafet katıyor. %95 Polyester ve %5 Elastan kumaşından üretilen elbise, düğünler, tatiller ve özel davetler için mükemmel rahatlık sunar. Sırt bağlamalı tasarımı ile vücut hatlarınızı zarif bir şekilde saran bu elbise, mini boy kesimi ile modern bir görünüm yaratır. 30°C'de makinede yıkanabilir, kuru temizlemeye gerek yoktur. Invisible fermuarlı yapısı ile kolay giyim sağlar. Kolsuz tasarımı ile yaz aylarında ferah kullanım sunar. Shift kesimi ile rahat hareket imkanı tanır. Özel günlerinizde kalıcı izlenim bırakmanızı sağlayan bu çok yönlü abiye elbise, gardırobunuzun vazgeçilmez parçası olacak.
+  Updated: 2026-05-07T00:39:17Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -18898,7 +18830,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1735293354973_147cb878-a99c-46a1-b1b4-672c7dca3074.jpg?v=1739774595
     Price: ₺3.380,00 TRY
 - [Leopar Desenli File Korse Haki Ayarlanabilir Askılı](https://www.thesveltechic.com/products/leopard-printed-corset): Şiddetli leopar desenli file korse ile tarzınıza adım atın. Göz alıcı tasarımı seksiliği ve zarafeti mükemmel şekilde birleştiren bu çarpıcı file kumaş üst, parti ve eğlence çıkışlarında dikkat çekmenizi sağlar. Ayarlanabilir askılar ve dar kesim ile her vücut tipi için çekici siluet sunar. Kolsuz ve yakasız tasarımı sayesinde gittiğiniz her yerde en iyi görünümünüzü garanti eder. File kumaş yapısı hafif geçirgenlik sağlarken, leopar deseni modern ve cesur bir görünüm yaratır. Slim fit kesimi vücut hatlarınızı mükemmel şekilde sararak feminen bir siluet oluşturur. Korse tarzı tasarımı bel bölgesini vurgulayarak hourglass görünüm sağlar. Ayarlanabilir askı detayları kişisel tercihinize göre ayarlama imkanı sunar. Parti kıyafetleri, gece çıkışları ve özel etkinlikler için ideal seçim. Yüksek kaliteli file kumaş dayanıklılık ve konfor bir arada sunar.
-  Updated: 2026-04-20T11:00:53Z
+  Updated: 2026-05-04T09:56:19Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -18919,8 +18851,8 @@ Key facts about The Sveltechic:
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1735293467856_a6c86726-6e7c-4fa7-8321-24d6a02752c8.jpg?v=1739774595
     Price: ₺3.380,00 TRY
-- [Dantel Askısız Abiye Elbise Siyah Bağlamalı](https://www.thesveltechic.com/products/lace-tie-front-sleeveless-dress): Zarafeti ve stili ortaya çıkarın, çok yönlü maxi dantel elbisemizle her durum için mükemmel bir seçim! %90 polyester ve %10 elastan karışımı lüks yapısı ile yumuşak ve esnek uyum sunar. Düz, kolsuz tasarımı, yakasız neckline ve şık görünmez fermuarı ile zarif bir görünüm sağlar. Boş zamanlar, düğünler, tatiller, partiler ve iş ortamları için ideal olan bu maxi elbise her ortamda dikkat çekici bir seçimdir. Hafif esnek kumaşı sayesinde gün boyu konforlu kullanım sunar. Zamansız stil ve çok yönlülüğü bir arada sunan bu vazgeçilmez parça gardırobunuzun olmazsa olmazı olacak.
-  Updated: 2026-04-06T12:53:41Z
+- [Zarıa Maxi Dress](https://www.thesveltechic.com/products/lace-tie-front-sleeveless-dress): Zarafeti ve stili ortaya çıkarın, çok yönlü maxi dantel elbisemizle her durum için mükemmel bir seçim! %90 polyester ve %10 elastan karışımı lüks yapısı ile yumuşak ve esnek uyum sunar. Düz, kolsuz tasarımı, yakasız neckline ve şık görünmez fermuarı ile zarif bir görünüm sağlar. Boş zamanlar, düğünler, tatiller, partiler ve iş ortamları için ideal olan bu maxi elbise her ortamda dikkat çekici bir seçimdir. Hafif esnek kumaşı sayesinde gün boyu konforlu kullanım sunar. Zamansız stil ve çok yönlülüğü bir arada sunan bu vazgeçilmez parça gardırobunuzun olmazsa olmazı olacak.
+  Updated: 2026-05-07T00:38:28Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -18956,7 +18888,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1736565837005_40847271-773c-474d-82a8-79058011502b.jpg?v=1739965866
     Price: ₺4.320,00 TRY
 - [Kemerli Kolsuz Üst Siyah Düğmeli Cepli](https://www.thesveltechic.com/products/button-detail-pockets-top-with-belt): Zarafeti ve konforu bir arada sunan şık kemerli kolsuz üst. %100 polyester dokuma kumaştan üretilen bu zarif parça, vücut hatlarını vurgulayan kemerli bel tasarımı ve pratik düğmeli cepleri ile hem işlevsel hem de şık bir görünüm sağlar. Bisiklet yaka ve askısız tasarımı sayesinde günlük kullanımdan iş hayatına, partilerden özel davetlere kadar her ortamda rahatlıkla giyilebilir. Pürüzsüz ve hafif dokuma kumaşı sayesinde tüm gün konforlu bir deneyim sunar. Regular fit kalıbı ile her vücut tipine uyum sağlar. Gündüzden geceye zahmetsizce geçiş yapmanızı sağlayan bu çok yönlü parça, gardırobunuzun vazgeçilmez parçalarından biri olacak. Şık düğmeli cepler hem dekoratif hem de fonksiyonel özellik katarken, kemerli bel tasarımı feminine bir silüet oluşturur. Yüksek kaliteli polyester kumaşı sayesinde uzun ömürlü kullanım garantisi verir.
-  Updated: 2026-04-20T11:02:07Z
+  Updated: 2026-05-05T13:25:13Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -19093,8 +19025,8 @@ Key facts about The Sveltechic:
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1737196047599_d9c684c5-b634-428d-abeb-16698267a3f0.jpg?v=1739965884
     Price: ₺3.380,00 TRY
-- [Fırfırlı Göğüs Detaylı Maxi Abiye Elbise Kahverengi İp Askılı](https://www.thesveltechic.com/products/ruched-bust-mesh-detail-knotted-dress): Zarafeti ve konforu bir arada sunan şık kolsuz maxi abiye elbisesi. Fırfırlı göğüs detayları, zarif ağ aksanları ve şık düğüm detaylarıyla özel günlerinizde göz kamaştırın. Esnek bel bandı sayesinde mükemmel uyum sağlayan bu elbise, düğünler, partiler ve özel davetler için ideal. Polyester ve elastan karışımı jerse kumaştan üretilen elbise, hafif esnekliği ile gün boyu konfor sunar. İp askılı tasarımı ve maxi boyu ile zamansız zarafet yaratır. Kahverengi rengiyle her ten tonuna uyum sağlar. Düğmeli detaylar ve yakasız yaka tasarımı ile modern bir görünüm sunar. Tatil, iş sonrası etkinlikler ve hafta sonu buluşmaları için mükemmel seçim. Kaliteli malzemesi uzun ömürlü kullanım garantisi verir.
-  Updated: 2026-04-20T11:05:09Z
+- [Cyra Maxi Dress](https://www.thesveltechic.com/products/ruched-bust-mesh-detail-knotted-dress): Zarafeti ve konforu bir arada sunan şık kolsuz maxi abiye elbisesi. Fırfırlı göğüs detayları, zarif ağ aksanları ve şık düğüm detaylarıyla özel günlerinizde göz kamaştırın. Esnek bel bandı sayesinde mükemmel uyum sağlayan bu elbise, düğünler, partiler ve özel davetler için ideal. Polyester ve elastan karışımı jerse kumaştan üretilen elbise, hafif esnekliği ile gün boyu konfor sunar. İp askılı tasarımı ve maxi boyu ile zamansız zarafet yaratır. Kahverengi rengiyle her ten tonuna uyum sağlar. Düğmeli detaylar ve yakasız yaka tasarımı ile modern bir görünüm sunar. Tatil, iş sonrası etkinlikler ve hafta sonu buluşmaları için mükemmel seçim. Kaliteli malzemesi uzun ömürlü kullanım garantisi verir.
+  Updated: 2026-05-07T00:37:16Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -19474,7 +19406,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1739757690407_7df21897-10b3-4ed9-b828-29209043c72e.jpg?v=1739965938
     Price: ₺4.320,00 TRY
 - [Damalı Cepli Elbise Kahverengi Bağcıklı Arka Tasarım](https://www.thesveltechic.com/products/checkerboard-pockets-tied-back-dress): Her durumda mükemmel olan bu çok yönlü damalı elbise ile zahmetsiz zarafeti keşfedin. Şık cep tasarımı ve bağcıklı arka detayı ile sofistike bir görünüm sunar. %50 polyester ve %50 pamuk karışımından üretilen premium kumaş karışımı konfor ve hava alabilirlik sağlar. Kolsuz tasarımı ile yaz aylarında ferahlık sunarken, vintage tarzı ile zamansız bir şıklık yaratır. İster evde, ister işte, ister bir partide bu askısız elbise her ortama mükemmel uyum sağlar. A-line kesimi ile vücut hatlarını güzelce saran bu mini boy elbise, gömlek yaka detayı ile klasik bir dokunuş katıyor. Damalı deseni ile dikkat çeken bu parça, gardırobunuzun vazgeçilmezi olacak. Günlük kullanımdan özel davetlere kadar her durumda şıklığınızı tamamlayacak bu elbise ile stilinizi yeniden tanımlayın.
-  Updated: 2026-04-20T11:15:45Z
+  Updated: 2026-05-04T19:10:14Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -20283,7 +20215,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1741325420263_a6ea2162-c1eb-4e8d-816b-cf3ab4877b24.jpg?v=1741683552
     Price: ₺4.300,00 TRY
 - [Çiçek Desenli Jakarlı Abiye Kare Yaka Elbise](https://www.thesveltechic.com/products/floral-jacquard-square-neck-dress): Özel günlerinizde parlamak için tasarlanan bu muhteşem çiçek desenli jakarlı abiye elbise, zarif kare yaka detayı ve kolsuz tasarımıyla dikkat çekiyor. %100 polyester kumaştan üretilen bu şık elbise, esnemez dokuma yapısıyla vücudunuza mükemmel oturuyor ve ince kesimi ile şeklinizi en güzel şekilde ortaya çıkarıyor. Öne çıkan özellikleri: • Zarif kare yaka tasarımı • Çiçek desenli jakarlı kumaş • Kolsuz ve rahat kesim • Görünmez fermuarlı pratik kullanım • Regular kalınlık ve kısa boy • Esnemez dokuma kaliteli kumaş Bu abiye elbise düğünler, nişanlar, kokteyl partileri ve özel davetler için ideal. Zarif çiçek deseni ve kare yaka detayıyla klasik şıklığı modern dokunuşlarla birleştiriyor. Görünmez fermuarı sayesinde kesintisiz bir görünüm sunarken, slim fit kesimiyle vücut hatlarınızı zarif bir şekilde vurguluyor. Kombinleme önerileri: Topuklu ayakkabılar ve ince aksesuarlarla tamamlayarak şık bir gece görünümü elde edebilirsiniz. Clutch çanta ve minimal takılarla kombinleyerek zarafetinizi ön plana çıkarın.
-  Updated: 2026-05-02T19:59:57Z
+  Updated: 2026-05-06T12:36:15Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -21235,7 +21167,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1739874004432_897f9066-67d2-4370-852f-f79b81ec0f9a.jpg?v=1741683728
     Price: ₺4.300,00 TRY
 - [Puantiyeli Kare Yaka Mini Elbise](https://www.thesveltechic.com/products/polka-dot-lace-up-back-dress): Şık puantiye desenli kolsuz mini elbise ile rahat şıklığı yakalayın. %92 polyester %8 elastan premium kumaşından üretilen bu elbise, yumuşak ve pürüzsüz dokunuşu ile dayanıklılık sunar. Kare yaka tasarımı ve A-line kesimi ile hem sofistike hem çok yönlü bir görünüm sağlar. Görünmez fermuar detayı kolay giyim imkanı sunarken, normal fit kalıbı vücudunuzu mükemmel şekilde sarar. Düğün, tatil, hafta sonu kaçamakları ve özel etkinlikler için ideal. Vintage tarzı seven kadınlar için mükemmel seçim. Ekru rengi ve siyah puantiye deseni ile zamansız şıklık. Regular fit kalıp rahat hareket imkanı sağlar. Kolsuz tasarım yaz ayları için ideal. Kısa kesim genç ve dinamik görünüm sunar.
-  Updated: 2026-04-20T11:11:24Z
+  Updated: 2026-05-06T12:35:42Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -21406,8 +21338,8 @@ Key facts about The Sveltechic:
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1736849214967_c7057d3e-2cce-4153-9feb-524bc868e625.jpg?v=1741683756
     Price: ₺4.080,00 TRY
-- [Dantel Askılı Maxi Elbise Koyu Kahverengi Soğuk Omuz](https://www.thesveltechic.com/products/elegant-lace-cami-dress): Zarif dantel detaylı askılı maxi elbise ile şıklığınızı konuşturun. Soğuk omuz tasarımı ve kalp şeklindeki yakası ile her vücut tipini mükemmel şekilde vurgulayan bu elbise, hem günlük kullanım hem de özel davetler için ideal. %100 polyester dantel kumaşından üretilen elbise, ayarlanabilir askıları sayesinde mükemmel uyum sağlar. Orta esneklikte ve ince kesimi ile hareket özgürlüğü sunar. Maxi boyu ile zarif bir görünüm yaratırken, çiçekli dantel deseni feminen bir dokunuş katar. Ofis şıklığından akşam davetlerine kadar her ortamda kullanabileceğiniz çok yönlü bir parça. Koyu kahverengi rengi ile gardırobunuzun vazgeçilmez parçası olacak. Ayarlanabilir askılar sayesinde kişiselleştirilebilir uyum, kalp şeklindeki yaka ile dekolte vurgusu, soğuk omuz detayı ile modern stil. Dantel kumaşın şeffaf yapısı ile katmanlı görünüm elde edebilirsiniz.
-  Updated: 2026-04-20T11:04:57Z
+- [Dantel Askılı Romantik Maxi Elbise](https://www.thesveltechic.com/products/elegant-lace-cami-dress): Zarif dantel detaylı askılı maxi elbise ile şıklığınızı konuşturun. Soğuk omuz tasarımı ve kalp şeklindeki yakası ile her vücut tipini mükemmel şekilde vurgulayan bu elbise, hem günlük kullanım hem de özel davetler için ideal. %100 polyester dantel kumaşından üretilen elbise, ayarlanabilir askıları sayesinde mükemmel uyum sağlar. Orta esneklikte ve ince kesimi ile hareket özgürlüğü sunar. Maxi boyu ile zarif bir görünüm yaratırken, çiçekli dantel deseni feminen bir dokunuş katar. Ofis şıklığından akşam davetlerine kadar her ortamda kullanabileceğiniz çok yönlü bir parça. Koyu kahverengi rengi ile gardırobunuzun vazgeçilmez parçası olacak. Ayarlanabilir askılar sayesinde kişiselleştirilebilir uyum, kalp şeklindeki yaka ile dekolte vurgusu, soğuk omuz detayı ile modern stil. Dantel kumaşın şeffaf yapısı ile katmanlı görünüm elde edebilirsiniz.
+  Updated: 2026-05-07T00:35:25Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -21509,7 +21441,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1736563548252_5bf6d23d-a582-4667-bf74-577ec05bba06.jpg?v=1741683768
     Price: ₺2.850,00 TRY
 - [Kare Yaka Sırt Dekolteli Abiye Elbise Kemer Detaylı Kırmızı](https://www.thesveltechic.com/products/square-neck-backless-bow-detail-dress): Şık kare yaka ve sırt dekolteli abiye elbisemizle zarafete adım atın. Zarif kemer detayı ile tamamlanan bu özel tasarım, düğün, parti ve özel etkinlikler için mükemmel bir seçim. %90 Polyester %10 Elastan karışımı kumaşı ile konforlu ve esnek bir giyim deneyimi sunar. Dokuma kumaştan üretilmiş ve görünmez fermuar ile donatılmış askısız tasarımı ile hem rahatlık hem şıklık sağlar. Dikkat çekici arka açık detayı ve zarif kurdele ile tüm gözlerin üzerinizde olacağı bir görünüm yaratır. Regular fit kalıbı ile vücut hatlarınızı mükemmel şekilde sararak zarif bir silüet oluşturur. Hafif esneklik özelliği sayesinde gün boyu rahat hareket edebilirsiniz. Bu gardırop vazgeçilmezi ile özel günlerinizde unutulmaz bir şıklık yakalayın.
-  Updated: 2026-04-20T11:11:32Z
+  Updated: 2026-05-06T12:34:34Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -21549,7 +21481,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1740102253954_2568c9b5-3948-4e26-bbbe-19d739779193.jpg?v=1741683774
     Price: ₺4.320,00 TRY
 - [Piliseli Kolsuz Abiye Elbise V Yaka Sarı Bağlama Detaylı](https://www.thesveltechic.com/products/tied-front-sleeveless-pleated-dress): Özel günleriniz için tasarlanmış şık piliseli abiye elbise. %90 pamuk %10 polyester karışımından üretilen bu zarif parça, V yaka ve bağlama detaylarıyla dikkat çeker. Kolsuz tasarımı ve kısa kesimi ile yaz düğünleri, nişan törenleri ve özel davetler için ideal. Streç olmayan dokuma kumaşı vücudunuza mükemmel uyum sağlar. Görünmez fermuar detayı ile kesintisiz bir görünüm sunar. Piliseli yapısı hareket halinde zarif dalgalanmalar oluşturur. Düğün, mezuniyet, kokteyl partisi gibi özel anlarda tarzınızı yansıtacak bu zamansız elbise, gardırobunuzun vazgeçilmez parçası olacak. Sarı rengi ile enerjik ve neşeli bir görünüm yaratır. Topuklu ayakkabılar ve minimal aksesuarlarla kombinleyerek şıklığınızı tamamlayabilirsiniz.
-  Updated: 2026-04-20T11:14:12Z
+  Updated: 2026-05-06T12:34:11Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -21623,7 +21555,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1740565617115_2a466456-056c-4328-bcd5-050819f1780e.jpg?v=1741683780
     Price: ₺4.300,00 TRY
 - [Tek Omuz Kesik Mayo Beyaz Zıt Dikişli](https://www.thesveltechic.com/products/one-shoulder-cutout-swimsuit): Tatil stilinizi yükselten şık tek omuz kesik mayo. %84 polyester %16 elastan karışımı ile orta seviyede esneklik sunar. Zıt renkli dikişler ve modern kesik tasarım ile zarafet katar. Mekanik örgü tekniği ile dayanıklı ve düzenli fit. Plaj tatillerinde ve havuz kenarında mükemmel. Rahat oturuş ve şık görünüm bir arada. Beyaz rengi ile her kombinle uyumlu. Yaz gardırobunuzun vazgeçilmez parçası. Kaliteli kumaş yapısı ile uzun ömürlü kullanım. Modern kadının tatil stilini yansıtan tasarım.
-  Updated: 2026-04-20T11:06:55Z
+  Updated: 2026-05-09T14:08:39Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -21953,7 +21885,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1737194894584_ae158aed-1b52-4c46-864b-2253c6b5ee10.jpg?v=1741683824
     Price: ₺2.860,00 TRY
 - [Dantel Askılı Korsaj Abiye Elbise Beyaz Kalp Yaka](https://www.thesveltechic.com/products/corset-lace-halter-dress): Şıklığı deneyimleyin, zarif dantel abiye elbisemiz her gardırobun vazgeçilmezidir. Şık bir görünüm için boyun bağı ile kalp şeklinde yaka tasarımına sahiptir. %100 polyester dantel ile yapılmış olup, dayanıklılık ve sofistike bir görünüm sunar. Boş zaman, ev ve iş için mükemmel. Hafif bir esneklik ve dar kesim ile konforu kucaklayın. Uzun kollu tasarımı ile zarif bir silüet oluştururken, mini boy ile modern bir görünüm sergiler. Gizli fermuarı ile pratik kullanım sunar. Özel günlerinizde ve iş hayatınızda şıklığınızı tamamlayan bu muhteşem elbise ile stilinizi yükseltin. Dantel detayları ile feminen bir dokunuş katarken, slim fit kesimiyle vücut hatlarınızı zarif bir şekilde ortaya çıkarır.
-  Updated: 2026-04-20T11:04:29Z
+  Updated: 2026-05-06T12:33:38Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -21975,7 +21907,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1740479384577_3564eaae-813d-4857-a7f6-872104ce8131.jpg?v=1741683825
     Price: ₺4.300,00 TRY
 - [Nakışlı Halter Abiye Elbise Beyaz V Yaka](https://www.thesveltechic.com/products/cotton-embroidered-halter-dress): Şıklık ve konforu bir arada yaşayın; tatil veya gündelik geziler için mükemmel olan %100 pamuklu kolsuz elbisemizle rahatlayın. Premium Pamuk Kumaş: %100 pamuktan üretilen bu elbise, son derece yumuşak, nefes alabilir ve güneşli bir gün için mükemmeldir. İnce İşçilikle Nakış: Sıradanlıktan sıyrılmasını sağlayan zarif bir dokunuş katmak için güzelce tasarlanmış nakışlarla bezenmiştir. Çok Yönlü V Yaka: Şık bir görünüm sunan zarif V yaka detayı, hem gündüz gezmeleri hem de akşam etkinlikleri için uygundur. Bu çok yönlü elbiseyle gardırobunuzu zahmetsizce yükseltin. Halter yaka tasarımı ile modern ve şık görünüm sağlar. Kısa kesim ile yaz aylarında rahat kullanım sunar. Tatil kombinleri ve özel günler için ideal seçim. Kaliteli pamuk kumaşı ile uzun ömürlü kullanım garantisi.
-  Updated: 2026-04-20T11:01:53Z
+  Updated: 2026-05-06T12:33:07Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -22093,7 +22025,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1740015735188_0e492ba3-727f-4904-a9b6-f26e953cd0aa.jpg?v=1741683848
     Price: ₺3.770,00 TRY
 - [Şık Kemerli Fırfırlı Halter Abiye Elbise Siyah V Yaka](https://www.thesveltechic.com/products/bow-tie-pleated-halter-dress): Her ortam için mükemmel olan bu çok yönlü halter abiye elbiseyle şıklığınızı ortaya koyun! Zarif V-yaka tasarımı ve görünmeyen fermuarı ile şık ve düzenli bir görünüm sunar. %100 polyester dokuma kumaştan üretilen bu elbise, formunu ve yapısını korurken maksimum konfor sağlar. Kemerli tasarımı ile vücut hatlarınızı mükemmel şekilde vurgular, fırfırlı detayları ile feminen bir hava katar. Boş zaman, tatil, iş toplantıları veya özel davetler için ideal olan bu çok yönlü elbise, yaşam tarzı ihtiyaçlarınıza sorunsuz bir şekilde uyum sağlar. Askısız tasarımı ile yaz aylarında ferahlık sunarken, üzerine ceket ekleyerek sonbahar ve kış aylarında da kullanabilirsiniz. Mini boy kesimi ile modern ve genç bir görünüm yaratır. A-line kalıbı sayesinde her vücut tipine uygun olarak tasarlanmıştır. Özel günlerinizde ve günlük kullanımda eşit derecede şık görünmenizi sağlayan bu kaçırılmaması gereken elbise ile gardırobunuzu yükseltme şansını kaçırmayın!
-  Updated: 2026-04-18T10:49:25Z
+  Updated: 2026-05-06T12:32:44Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -22221,7 +22153,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1740479619420_271c6f2e-86a5-4d0b-87e1-96da85338752.jpg?v=1741683871
     Price: ₺4.300,00 TRY
 - [Volanlı Yarım Askılı Maxi Elbise](https://www.thesveltechic.com/products/halter-strappy-back-ruffled-dress): Boş zamanlar ve tatil gezileri için mükemmel olan bu zarif maxi elbise, şık halter yaka ve sırtı açık tasarımıyla dikkat çekiyor. %100 polyester dokuma kumaştan üretilen elbise, hafif esneklik ve düzenli kalınlık sunarak tüm gün konfor sağlıyor. Ayarlanabilir askıları sayesinde mükemmel uyum elde ederken, volanlı detayları ve şeritli arka tasarımı ile zahmetsiz zarafet yaratıyor. Regular fit kalıbıyla her vücut tipine uygun olan bu elbise, tatil kombinlerinden günlük şıklığa kadar geniş kullanım alanı sunuyor. Soğuk omuz detayı ve plise dokularıyla modern bir görünüm kazandırırken, maxi boyu ile zarif bir silüet oluşturuyor. Gardırobunuzun vazgeçilmez parçası olacak bu elbise ile tarzınızı bir üst seviyeye taşıyın.
-  Updated: 2026-04-21T21:32:38Z
+  Updated: 2026-05-06T12:26:04Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -22273,7 +22205,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1741086193032_04c705d2-8459-4730-9ab5-0091af4b63c4.jpg?v=1742205243
     Price: ₺4.300,00 TRY
 - [Şık Sırtı Açık Kolsuz Geniş Abiye Elbise Kırmızı](https://www.thesveltechic.com/products/backless-sleeveless-flared-dress): Boş zamanlar, tatiller ve partiler için mükemmel olan bu şık sırtı açık kolsuz abiye elbise ile zarafeti yaşayın! %92 Polyester ve %8 Elastan premium karışımından üretilen bu elbise, her durum için dayanıklılık ve konfor sağlar. Düz ve şık görünümü, klasik kayık yakası ve görünmez fermuarı ile zarafetinizi zahmetsizce artırır. Normal kesimi ve mini boyu ile boş zamanlar ve özel etkinlikler için kolaylık ve şıklık sunar. A-line kesimi vücut hatlarınızı mükemmel şekilde sararak feminen bir silüet oluşturur. Sırtı açık tasarımı ile dikkat çekici bir görünüm sunan bu elbise, parti, tatil ve özel günlerinizde size özgüven kazandırır. Kırmızı rengi ile enerjik ve çekici bir duruş sergilerken, kaliteli kumaşı sayesinde uzun süre kullanabilirsiniz. Gece çıkışları, kokteyl partileri ve romantik akşam yemekleri için ideal olan bu elbise, dolabınızın vazgeçilmez parçası olacak.
-  Updated: 2026-04-20T11:11:00Z
+  Updated: 2026-05-06T12:30:26Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -22306,7 +22238,7 @@ Key facts about The Sveltechic:
   Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1740719507995.jpg?v=1742205269
   Price: ₺3.960,00 TRY
 - [Şık Düğme Detaylı Korse Abiye Elbise Sarı Puantiyeli](https://www.thesveltechic.com/products/eyelet-lace-up-corset-dress): Gardırobunuzu bu şık soğuk omuz abiye elbisesi ile yükseltin! Zarif düğüm detaylı soğuk omuz stili ve kalp şeklindeki yaka ile sofistike bir dokunuş katıyor. %95 pamuk ve %5 elastan karışımından üretilen bu elbise, şık görünümü ile rahat uyumu bir araya getiriyor. Puantiyeli deseni ve sarı rengi ile dikkat çeken bu parça, düğünler, tatiller ve özel günler için ideal. Ayarlanabilir askıları ve gizli fermuarı ile mükemmel uyum sağlar. A-line kesimi her vücut tipine uygun, mini boy ile genç ve dinamik bir görünüm sunar. Vintage tarzı seven kadınlar için vazgeçilmez bir parça. Boş zamanlardan özel davetlere kadar her ortamda şıklığınızı tamamlayacak bu elbise ile unutulmaz bir izlenim bırakın.
-  Updated: 2026-04-20T11:03:59Z
+  Updated: 2026-05-06T12:31:15Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -22348,8 +22280,8 @@ Key facts about The Sveltechic:
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1740719378065.jpg?v=1742205274
   Price: ₺3.380,00 TRY
-- [Halter Yaka Maxi Elbise](https://www.thesveltechic.com/products/vintage-halter-lace-up-back-dress): Bu muhteşem saten maxi elbiseyle zarafeti keşfedin, özel günler için mükemmel. Şık halter yaka tasarımı, zarif arkası açık kesimi ve trendy soğuk omuz detaylarıyla dikkat çeken bu elbise, sevimli fiyonk detayıyla tamamlanmıştır. %100 polyester saten kumaşından üretilen bu abiye elbise, düğünler, tatiller ve partiler için ideal seçimdir. Maxi boy kesimi ile çeşitli vücut tiplerine mükemmel uyum sağlar. Düzenli kalınlığa sahip kumaşı sayesinde rahat kullanım sunar. Kolsuz tasarımı ve V yaka detayı ile şıklığınızı ön plana çıkarın. Bu zamansız parça ile gardırobunuzu yükseltin ve özel günlerinizde göz kamaştırın. Tatil kombinlerinizden akşam davetlerine kadar her ortamda şıklığınızı konuşturacak eşsiz bir tasarım.
-  Updated: 2026-04-27T19:49:40Z
+- [Solana Halter Yaka Maxi Elbise](https://www.thesveltechic.com/products/vintage-halter-lace-up-back-dress): Bu muhteşem saten maxi elbiseyle zarafeti keşfedin, özel günler için mükemmel. Şık halter yaka tasarımı, zarif arkası açık kesimi ve trendy soğuk omuz detaylarıyla dikkat çeken bu elbise, sevimli fiyonk detayıyla tamamlanmıştır. %100 polyester saten kumaşından üretilen bu abiye elbise, düğünler, tatiller ve partiler için ideal seçimdir. Maxi boy kesimi ile çeşitli vücut tiplerine mükemmel uyum sağlar. Düzenli kalınlığa sahip kumaşı sayesinde rahat kullanım sunar. Kolsuz tasarımı ve V yaka detayı ile şıklığınızı ön plana çıkarın. Bu zamansız parça ile gardırobunuzu yükseltin ve özel günlerinizde göz kamaştırın. Tatil kombinlerinizden akşam davetlerine kadar her ortamda şıklığınızı konuşturacak eşsiz bir tasarım.
+  Updated: 2026-05-07T00:29:42Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -22375,7 +22307,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1741933928578_43efd36b-5b10-440d-be8c-07d5bfc22a6a.jpg?v=1742205282
     Price: ₺6.400,00 TRY
 - [Düğmeli Kalp Yaka Balon Kol Abiye Elbise Beyaz](https://www.thesveltechic.com/products/button-front-sweetheart-puff-sleeve-dress): Şık kalp yaka ve balon kol detaylarıyla dikkat çeken bu abiye elbise, özel günlerinizin vazgeçilmezi. %100 polyester kumaşından üretilen elbise, hafif ve dayanıklı yapısıyla konfor sağlar. Görünmez fermuar detayı ve düğmeli tasarımıyla zarif bir görünüm sunar. V yaka kesimi vücut hatlarınızı güzelce vurgularken, regular fit kalıbı rahat kullanım imkanı tanır. Tatil, özel davet ve abiye gerekli tüm etkinlikler için ideal. Esnemez kumaş yapısı sayesinde formunu korur. Kısa kesim tasarımıyla modern ve şık bir stil yaratır. Beyaz rengiyle her aksesuar ve ayakkabı ile kolayca kombinlenebilir. Özel günlerinizde fark yaratmak için mükemmel seçim.
-  Updated: 2026-04-20T11:06:45Z
+  Updated: 2026-05-06T12:30:02Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -22397,7 +22329,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1742106938171_f476e109-0aaf-4de8-844b-1d01ccb600f0.jpg?v=1742205282
     Price: ₺4.000,00 TRY
 - [Halter Yaka Sırt Dekolteli Abiye Elbise Beyaz Fermuar Detaylı](https://www.thesveltechic.com/products/halter-backless-zipper-sleeveless-dress): Şık halter yaka tasarımı ve sırt dekoltesi ile dikkat çeken bu abiye elbise, özel günlerinizin vazgeçilmezi. %90 polyester %10 elastan karışımından üretilen kumaşı sayesinde konforlu esneklik ve dayanıklılık sunar. Görünmez fermuar detayı ile kusursuz bir görünüm elde ederken, kolsuz kesimi ile zarif bir silüet yaratır. Düğün, parti, iş yemeği gibi özel etkinlikler için ideal olan bu maxi elbise, tarz ve sofistikeliği bir arada sunar. Dokuma kumaş yapısı ile kaliteli görünüm sağlarken, hafif esnek yapısı gün boyu konfor garantisi verir. Beyaz rengi ile her aksesuar ile uyum sağlar, gardırobunuzun çok yönlü parçası olur.
-  Updated: 2026-04-06T12:57:38Z
+  Updated: 2026-05-06T12:30:52Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -22526,8 +22458,8 @@ Key facts about The Sveltechic:
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1741687439085_be6f528a-4701-406a-884c-2cf8eb5e1a09.jpg?v=1742205320
     Price: ₺4.100,00 TRY
-- [File Detaylı Askısız Maxi Elbise Sarı Pileli](https://www.thesveltechic.com/products/mesh-ruched-sleeveless-dress): Düğünler ve partiler için mükemmel şık askısız maxi elbise. %95 polyester %5 elastan premium kumaşından üretilen bu zarif elbise, pileli tasarımı ve dik yaka detayıyla dikkat çeker. Orta derecede esneklik ve standart kesimiyle her durum için konfor sunar. File detayları ve şık tasarımıyla özel günlerinizde zarafeti yaşayın. Akşam davetleri, düğün törenleri ve parti organizasyonları için ideal. Maxi boy kesimi ile uzun boylu görünüm sağlar. Askısız tasarımı ile omuzlarınızı vurgular. Pileli detaylar hareket halinde zarif dalgalanma yaratır. Dik yaka ile modern ve şık bir görünüm elde edin. Premium kumaş kalitesi ile uzun süre kullanım imkanı. Kolay bakım, makine yıkanabilir. Kombinleme önerileri: Stiletto ayakkabılar ve ince aksesuar takımları ile tamamlayın.
-  Updated: 2026-04-28T09:00:36Z
+- [File Detaylı Askısız Maxi Elbise](https://www.thesveltechic.com/products/mesh-ruched-sleeveless-dress): Düğünler ve partiler için mükemmel şık askısız maxi elbise. %95 polyester %5 elastan premium kumaşından üretilen bu zarif elbise, pileli tasarımı ve dik yaka detayıyla dikkat çeker. Orta derecede esneklik ve standart kesimiyle her durum için konfor sunar. File detayları ve şık tasarımıyla özel günlerinizde zarafeti yaşayın. Akşam davetleri, düğün törenleri ve parti organizasyonları için ideal. Maxi boy kesimi ile uzun boylu görünüm sağlar. Askısız tasarımı ile omuzlarınızı vurgular. Pileli detaylar hareket halinde zarif dalgalanma yaratır. Dik yaka ile modern ve şık bir görünüm elde edin. Premium kumaş kalitesi ile uzun süre kullanım imkanı. Kolay bakım, makine yıkanabilir. Kombinleme önerileri: Stiletto ayakkabılar ve ince aksesuar takımları ile tamamlayın.
+  Updated: 2026-05-07T00:25:43Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -23288,8 +23220,8 @@ Key facts about The Sveltechic:
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1742290749525_de29b98e-b908-4be7-b382-bb3923a700af.jpg?v=1742837671
     Price: ₺4.100,00 TRY
-- [Dantel Maxi Elbise Metal Detaylı Kolsuz Siyah](https://www.thesveltechic.com/products/sheer-lace-keyhole-cut-out-dress-with-ruched-design): Her türlü etkinlik için tasarlanmış muhteşem dantel maxi elbise ile zarafeti ve stili ortaya çıkarın. %90 polyester ve %10 elastan kumaş karışımı ile dayanıklılık ve konforu bir arada sunar. Eşsiz metal yırtmaç tasarımı ile sadece bir giyim parçası değil, zarafetin bir ifadesidir. Kolsuz kesimi, dik yakası ve hafif esnekliği ile her figürü güzelleştiren normal kesim avantajı sunar. Özel dantel detayları ve şeffaf tasarım unsurları ile öne çıkan bu elbise, parti, düğün, tatil ve özel günler için mükemmel seçim. Yüksek yaka tasarımı ve maxi boy ile şıklığınızı tamamlayın. Metal detaylar ve görünmez fermuarı ile modern ve zarif bir görünüm elde edin. Slight stretch özelliği ile hareket rahatlığı sağlar. Her mevsim giyilebilir, gardırobunuzun vazgeçilmez parçası olacak.
-  Updated: 2026-04-20T11:01:10Z
+- [Dantel Detay Maxi Elbise](https://www.thesveltechic.com/products/sheer-lace-keyhole-cut-out-dress-with-ruched-design): Her türlü etkinlik için tasarlanmış muhteşem dantel maxi elbise ile zarafeti ve stili ortaya çıkarın. %90 polyester ve %10 elastan kumaş karışımı ile dayanıklılık ve konforu bir arada sunar. Eşsiz metal yırtmaç tasarımı ile sadece bir giyim parçası değil, zarafetin bir ifadesidir. Kolsuz kesimi, dik yakası ve hafif esnekliği ile her figürü güzelleştiren normal kesim avantajı sunar. Özel dantel detayları ve şeffaf tasarım unsurları ile öne çıkan bu elbise, parti, düğün, tatil ve özel günler için mükemmel seçim. Yüksek yaka tasarımı ve maxi boy ile şıklığınızı tamamlayın. Metal detaylar ve görünmez fermuarı ile modern ve zarif bir görünüm elde edin. Slight stretch özelliği ile hareket rahatlığı sağlar. Her mevsim giyilebilir, gardırobunuzun vazgeçilmez parçası olacak.
+  Updated: 2026-05-07T00:25:08Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -26642,7 +26574,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1743415382044_8152d0e7-45e7-4d1d-9643-734b10aa11da.jpg?v=1744711918
     Price: ₺4.300,00 TRY
 - [Yarı Şeffaf İki Katmanlı Dantel Abiye Elbise Beyaz Kolsuz](https://www.thesveltechic.com/products/semi-sheer-double-layer-lace-cami-dress): Zarif ve sofistike tasarımıyla özel günlerinizde göz kamaştıracak yarı şeffaf dantel abiye elbise. İki katmanlı yapısı ile hem şık hem de rahat bir kullanım sunar. %90 Polyester %10 Elastan karışımı kumaşı sayesinde hafif esnek yapıya sahiptir. Kolsuz ve yakasız tasarımı ile modern bir görünüm sergiler. Maxi boy kesimi ile uzun boylu şık bir silüet oluşturur. Normal fit kalıbı ile vücut hatlarını zarif şekilde takip eder. Özel günler, düğünler, nişanlar ve kokteyl partileri için ideal. Beyaz rengi ile her aksesuar ile uyum sağlar. 30°C'de yıkanabilir, beyazlatıcı kullanmayın. Benzer renklerle yıkayın ve 110°C'de ütüleyin. Kuru temizleme yapmayın. XS'den XL'e kadar beden seçenekleri mevcuttur.
-  Updated: 2026-04-20T11:03:10Z
+  Updated: 2026-05-07T06:18:10Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -27246,8 +27178,8 @@ Key facts about The Sveltechic:
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1747296058235.jpg?v=1747755671
   Price: ₺4.560,00 TRY
-- [Halter Yaka Çiçek Dantel Maxi Abiye Elbise Sarı Sırt Dekolteli](https://www.thesveltechic.com/products/halter-neck-floral-lace-dress): Her etkinliği unutulmaz bir şova dönüştürün; bu göz alıcı dantel maxi elbise sayesinde hem görünümünüz hem de hissinizle unutulmaz olun. Zarif dantel kumaş: Yumuşak, yüksek kaliteli dantelden üretilmiştir. Polyester ve elastan karışımı sayesinde mükemmel uyum ve şık bir görünüm sağlar. Etkileyici sırt dekolteli tasarım: Şık sırt dekoltesi, kolsuz kesimi ve vücudu ön plana çıkaran halter yaka detayı ile zamansız bir zarafet sunar. Konforlu ve vücudu saran: Maxi boy, yüksek esnekliğe sahip kumaş ve standart kalıp ile her etkinlikte rahatça ve özgüvenle hareket edebilirsiniz. Düğün, nişan, kokteyl partisi ve özel geceler için ideal. Tarzınızı konuşturun—bu unutulmaz maxi elbiseyi gardırobunuza ekleyin, her girişinizi bir kutlamaya dönüştürün!
-  Updated: 2026-04-20T10:59:56Z
+- [Soline Maxi Dress](https://www.thesveltechic.com/products/halter-neck-floral-lace-dress): Her etkinliği unutulmaz bir şova dönüştürün; bu göz alıcı dantel maxi elbise sayesinde hem görünümünüz hem de hissinizle unutulmaz olun. Zarif dantel kumaş: Yumuşak, yüksek kaliteli dantelden üretilmiştir. Polyester ve elastan karışımı sayesinde mükemmel uyum ve şık bir görünüm sağlar. Etkileyici sırt dekolteli tasarım: Şık sırt dekoltesi, kolsuz kesimi ve vücudu ön plana çıkaran halter yaka detayı ile zamansız bir zarafet sunar. Konforlu ve vücudu saran: Maxi boy, yüksek esnekliğe sahip kumaş ve standart kalıp ile her etkinlikte rahatça ve özgüvenle hareket edebilirsiniz. Düğün, nişan, kokteyl partisi ve özel geceler için ideal. Tarzınızı konuşturun—bu unutulmaz maxi elbiseyi gardırobunuza ekleyin, her girişinizi bir kutlamaya dönüştürün!
+  Updated: 2026-05-07T00:23:42Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -27715,7 +27647,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1744713269957_784638bc-920f-47d0-a7e4-3db7defd7197.jpg?v=1747755807
     Price: ₺4.560,00 TRY
 - [Yüksek Bel Dantel Detaylı Şort Beyaz İşlemeli](https://www.thesveltechic.com/products/lace-trim-high-waist-shorts): Her günü şık ve konforlu hale getiren, moda ve rahatlığı mükemmel şekilde bir araya getiren bu zarif işlemeli şort pantolon. %80 polyester ve %20 elastan karışımı dokuma kumaş ile üstün konfor sağlar, pürüzsüz his ve gün boyu esneklik sunar. Güzel işleme detayları ve gizli fermuar ile klasik silüete zahmetsiz şıklık katar. Orta bel, normal kalıp ve kısa boyuyla rahat ama özenli görünüm için ideal. Ofis şıklığından tatil kombinlerine, günlük kullanımdan özel davetlere kadar her ortamda kullanabileceğiniz çok yönlü parça. Beyaz rengi ile her üst ile kolayca kombinlenebilir. Gizli fermuar detayı ile modern ve şık tasarım. Kaliteli dokuma kumaş ile uzun ömürlü kullanım. Yüksek bel kesimi ile vücut hatlarını güzelleştiren silüet. İşleme detayları ile feminen ve zarif görünüm.
-  Updated: 2026-04-06T13:04:16Z
+  Updated: 2026-05-08T19:40:12Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -27802,8 +27734,8 @@ Key facts about The Sveltechic:
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1749014903908.jpg?v=1749425687
     Price: ₺4.300,00 TRY
-- [Kelebek Desenli Halter Yaka Saten Maxi Abiye Elbise Çok Renkli](https://www.thesveltechic.com/products/colorful-scales-pattern-halter-dress): Zamansız zarafet için tasarlanan bu göz alıcı saten maxi abiye elbise, özel davetler ve akşam çıkışları için mükemmel seçim. Vücuda uyum sağlayan halter yaka tasarımı omuzlarınızı zarif bir şekilde vurgularken, yakasız kesimi modern bir şıklık sunar. %100 polyester saten kumaşı yumuşak ve ipeksi dokusuyla tüm gün konfor sağlar. Renkli kelebek desenleri ile dikkat çeken bu elbise, dar kesim silueti sayesinde vücudunuzu şık bir şekilde sarar. Gizli fermuar detayı pürüzsüz bir görünüm oluştururken, maxi boy uzunluğu zarif bir duruş kazandırır. Kolsuz tasarımı ile yaz akşamları ve özel günler için ideal. Abiye, parti, tatil ve özel davetler için mükemmel tercih. S-XL beden aralığında mevcut.
-  Updated: 2026-05-02T12:13:53Z
+- [Renkli Saten Maxi Elbise](https://www.thesveltechic.com/products/colorful-scales-pattern-halter-dress): Zamansız zarafet için tasarlanan bu göz alıcı saten maxi abiye elbise, özel davetler ve akşam çıkışları için mükemmel seçim. Vücuda uyum sağlayan halter yaka tasarımı omuzlarınızı zarif bir şekilde vurgularken, yakasız kesimi modern bir şıklık sunar. %100 polyester saten kumaşı yumuşak ve ipeksi dokusuyla tüm gün konfor sağlar. Renkli kelebek desenleri ile dikkat çeken bu elbise, dar kesim silueti sayesinde vücudunuzu şık bir şekilde sarar. Gizli fermuar detayı pürüzsüz bir görünüm oluştururken, maxi boy uzunluğu zarif bir duruş kazandırır. Kolsuz tasarımı ile yaz akşamları ve özel günler için ideal. Abiye, parti, tatil ve özel davetler için mükemmel tercih. S-XL beden aralığında mevcut.
+  Updated: 2026-05-07T00:21:28Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -27938,24 +27870,6 @@ Key facts about The Sveltechic:
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1746439707590.jpg?v=1749425738
     Price: ₺5.900,00 TRY
-- [Mini Düğmeli Dekolte Yaka Halter Elbise Beyaz](https://www.thesveltechic.com/products/halter-collar-button-up-mini-dress): Bu vazgeçilmez kolsuz pamuklu elbise ile zahmetsiz şıklığın ve konforun tadını çıkarın. %100 pamuktan üretilen bu şık elbise, düğmeli ön kısmı ve dekolte yakası ile hem günlük hem de özel kombinler için idealdir. Rahat ve nefes alabilir kumaşı sayesinde gün boyu konforlu hissedersiniz. Klasik tasarımı ve kısa boyu ile gardırobunuzun vazgeçilmez parçası olacak. Normal kesimi her vücut tipine uyum sağlar. Kolay bakım talimatları ile pratik kullanım sunar - soğuk makinede yıkayabilir, ağartıcı kullanmadan kolayca ütüleyebilirsiniz. Zamansız şıklığı ile hem casual hem de elegant kombinlerde rahatlıkla kullanabilirsiniz. Yaz ve ilkbahar sezonunun trend parçası olan bu elbise, gardırobunuzu yenilemek için mükemmel bir seçim.
-  Updated: 2026-04-20T11:03:53Z
-  Vendor: THESVELTECHIC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1746611654044.jpg?v=1749425745
-  - [Beyaz / S](https://www.thesveltechic.com/products/halter-collar-button-up-mini-dress?variant=46710442131701)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1746611654044.jpg?v=1749425745
-    Price: ₺4.600,00 TRY
-  - [Beyaz / M](https://www.thesveltechic.com/products/halter-collar-button-up-mini-dress?variant=46710442164469)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1746611654044.jpg?v=1749425745
-    Price: ₺4.600,00 TRY
-  - [Beyaz / L](https://www.thesveltechic.com/products/halter-collar-button-up-mini-dress?variant=46710442197237)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1746611654044.jpg?v=1749425745
-    Price: ₺4.600,00 TRY
 - [Katlı Halter Yaka Uzun Elbise Beyaz Açık Sırt](https://www.thesveltechic.com/products/halter-ruffle-backless-maxi-dress): Bu etkileyici file maxi elbise ile her etkinlikte cesur bir duruş sergileyin. Şık halter yaka tasarımı ve zarif açık sırt detayıyla özel günler için mükemmel seçim. Orta derecede esnek yumuşak file kumaşı sayesinde hafif hissettirir ve vücudunuzla kolayca hareket eder. Katlı fırfırlı pileli detayları ile zarif ve şık görünüm sunar. Kolsuz ve yakasız tasarımıyla salaş silüet oluşturur. Yaz tatilleri, özel davetler ve romantik akşam yemekleri için ideal. Beyaz rengiyle her aksesuar ile kolayca kombinlenebilir. Maxi boy ile zarif duruş sağlar. File kumaş yapısı sayesinde nefes alır ve rahat kullanım sunar. Halter yaka boyun çizgisini güzelce vurgular. Açık sırt detayı ile cesur ve etkileyici görünüm. Günlük kullanımdan özel etkinliklere kadar geniş kullanım alanı. Kaliteli işçilik ve dayanıklı kumaş yapısı. Kolay bakım, makine yıkaması uygun. S, M, L bedenlerde mevcut.
   Updated: 2026-04-20T11:12:40Z
   Vendor: THESVELTECHIC
@@ -28207,8 +28121,8 @@ Key facts about The Sveltechic:
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1745287070840.jpg?v=1749848880
     Price: ₺4.200,00 TRY
-- [Sırtı Açık Düğmeli Çiçek Desenli Maxi Elbise Ekru](https://www.thesveltechic.com/products/backless-lace-up-floral-dress): Her girişinizi unutulmaz kılın; göz alıcı sırt dekolteli bu maxi elbise ile tüm dikkatleri üzerinize çekin ve zamansız konfor ile şıklığın tadını çıkarın. Vücuda oturan kesim ile elbisenin normal kalıbı ve yüksek elastan oranı, her ortamda rahat ve zarif bir siluet oluşturur. Zarif tasarım ile sade sırt dekoltesi, düz yakası ve ayarlanabilir askılarıyla bu elbise klasik şıklığı modern dokunuşlarla buluşturur. Kaliteli kumaş ile %95 polyester ve %5 elastan içeren yumuşak jerse kumaş sayesinde narin bir dokunuş ve günlük kullanıma uygun kolay bakım imkanı sunar. Çiçek deseni ile romantik ve vintage tarzı yansıtan bu elbise, tatil, düğün, özel günler ve günlük kullanım için idealdir. Ayarlanabilir askıları sayesinde mükemmel uyum sağlar. Maxi boy ile zarif ve şık görünüm sunar.
-  Updated: 2026-04-20T11:12:53Z
+- [Sırtı Dekolteli Maxi Elbise](https://www.thesveltechic.com/products/backless-lace-up-floral-dress): Her girişinizi unutulmaz kılın; göz alıcı sırt dekolteli bu maxi elbise ile tüm dikkatleri üzerinize çekin ve zamansız konfor ile şıklığın tadını çıkarın. Vücuda oturan kesim ile elbisenin normal kalıbı ve yüksek elastan oranı, her ortamda rahat ve zarif bir siluet oluşturur. Zarif tasarım ile sade sırt dekoltesi, düz yakası ve ayarlanabilir askılarıyla bu elbise klasik şıklığı modern dokunuşlarla buluşturur. Kaliteli kumaş ile %95 polyester ve %5 elastan içeren yumuşak jerse kumaş sayesinde narin bir dokunuş ve günlük kullanıma uygun kolay bakım imkanı sunar. Çiçek deseni ile romantik ve vintage tarzı yansıtan bu elbise, tatil, düğün, özel günler ve günlük kullanım için idealdir. Ayarlanabilir askıları sayesinde mükemmel uyum sağlar. Maxi boy ile zarif ve şık görünüm sunar.
+  Updated: 2026-05-07T00:20:17Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -28247,8 +28161,8 @@ Key facts about The Sveltechic:
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1747359351326.jpg?v=1749848975
     Price: ₺4.680,00 TRY
-- [Boncuklu Kesik Detaylı Uzun Abiye Elbise Bej Kalp Yaka](https://www.thesveltechic.com/products/beaded-cut-out-maxi-dress): Özel geceleriniz için tasarlanan bu zarif abiye elbise, boncuklu kesik detayları ve kalp yaka tasarımıyla büyüleyici bir görünüm sunar. Yüksek esneklikli jarse kumaşından üretilen elbise, vücudunuzu mükemmel şekilde sarar ve gün boyu konfor sağlar. Kolsuz ve dar kesim tasarımı ile doğal hatlarınızı güzellikle vurgular. Ultra konforlu esneklik özelliği sayesinde hareket özgürlüğünüzü kısıtlamaz. Düğün, nişan, mezuniyet balosu ve özel davetler için ideal. Kolay bakım gerektiren kumaşı ile uzun süre yeni görünümünü korur. Bej rengi ile klasik şıklığı yansıtır ve farklı aksesuarlarla kombinlenebilir. S, M, L, XL beden seçenekleri mevcuttur. Zahmetsiz şıklık arayanlar için vazgeçilmez bir parça.
-  Updated: 2026-04-20T10:58:39Z
+- [Desen Detay Maxi Abiye Elbise](https://www.thesveltechic.com/products/beaded-cut-out-maxi-dress): Özel geceleriniz için tasarlanan bu zarif abiye elbise, boncuklu kesik detayları ve kalp yaka tasarımıyla büyüleyici bir görünüm sunar. Yüksek esneklikli jarse kumaşından üretilen elbise, vücudunuzu mükemmel şekilde sarar ve gün boyu konfor sağlar. Kolsuz ve dar kesim tasarımı ile doğal hatlarınızı güzellikle vurgular. Ultra konforlu esneklik özelliği sayesinde hareket özgürlüğünüzü kısıtlamaz. Düğün, nişan, mezuniyet balosu ve özel davetler için ideal. Kolay bakım gerektiren kumaşı ile uzun süre yeni görünümünü korur. Bej rengi ile klasik şıklığı yansıtır ve farklı aksesuarlarla kombinlenebilir. S, M, L, XL beden seçenekleri mevcuttur. Zahmetsiz şıklık arayanlar için vazgeçilmez bir parça.
+  Updated: 2026-05-07T00:19:15Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -29111,7 +29025,7 @@ Key facts about The Sveltechic:
     Availability: Available
     Price: ₺2.600,00 TRY
 - [Nirali Çiçek Desenli Tek Parça Mayo Siyah Beyaz](https://www.thesveltechic.com/products/nirali-flower-one-piece-swimsuit): Yaza güvenle adım atın: Nirali Çiçek Desenli Tek Parça Mayo ile canlı stil ve konfor, unutulmaz güneşli günlerde buluşuyor. Göz alıcı çiçek desenleri ile havuz kenarında dinlenmek veya plajın tadını çıkarmak için ferah bir görünüm sunar. Vücudu saran ve destek sunan bu tek parça mayo, gün boyu harika hissetmeniz için tasarlandı. Hafif esnekliğe sahip %100 polyester kumaşı sayesinde yalnızca soğuk suda elde yıkayarak yeni gibi kalmasını sağlayabilirsiniz. Derin V yaka detayı ile şık ve çekici görünüm. Slim fit kesimi ile vücut hatlarını mükemmel şekilde sarıyor. Plaj tatilleri, havuz partileri ve yaz etkinlikleri için ideal. Tüm bakışları üzerine çek ve harika hisset — bu canlı mayoyu gardırobuna ekle, her yaz etkinliğinde parılda!
-  Updated: 2026-04-20T11:00:00Z
+  Updated: 2026-05-07T13:03:24Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -29128,105 +29042,6 @@ Key facts about The Sveltechic:
   - [XL](https://www.thesveltechic.com/products/nirali-flower-one-piece-swimsuit?variant=46960078717173)
     Availability: Available
     Price: ₺2.990,00 TRY
-- [Bluma Tek Omuzlu Püsküllü Mini Elbise Altın](https://www.thesveltechic.com/products/bluma-halterneck-fringe-mini-dress): Bluma Halter Yaka Püsküllü Mini Elbise ile özel davetlerde parlamanız için tasarlandı! Göz alıcı püskül detayları elbiseye hareket ve eğlenceli bir dokunuş katarken, cesur tasarımıyla geceniz boyunca tüm gözlerin sizin üzerinizde olmasını sağlar. Vücuda oturan halter yaka tasarımı omuzlarınızı vurgular ve her etkinlik için mükemmel, şık ve kendinden emin bir silüet sunar. %100 polyester kumaştan üretilen bu mini elbise, hafif esnekliğe sahip olup rahat bir his sunar ve formunu korur. Altın rengiyle büyüleyici görünüm sağlayan bu elbise, parti, kokteyl ve özel davetler için ideal. Halter yaka detayı sayesinde omuz ve boyun hattınızı zarif bir şekilde vurgular. Püskül detayları hareket halindeyken dinamik bir görünüm yaratır. Mini boy kesimi bacaklarınızı uzun gösterir ve modern bir silüet oluşturur. Kaliteli polyester kumaşı sayesinde bakım kolaydır ve uzun süre formunu korur. Abiye koleksiyonumuzun öne çıkan parçalarından biri olan bu elbise, stilinizi anında yükseltir.
-  Updated: 2026-04-20T11:02:44Z
-  Vendor: THESVELTECHIC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/Bluma_Halterneck_Fringe_Mini_Dress_In_Bronze_6.jpg?v=1755472038
-  - [S](https://www.thesveltechic.com/products/bluma-halterneck-fringe-mini-dress?variant=46960081010933)
-    Availability: Available
-    Price: ₺5.500,00 TRY
-  - [M](https://www.thesveltechic.com/products/bluma-halterneck-fringe-mini-dress?variant=46960081043701)
-    Availability: Available
-    Price: ₺5.500,00 TRY
-  - [L](https://www.thesveltechic.com/products/bluma-halterneck-fringe-mini-dress?variant=46960081076469)
-    Availability: Available
-    Price: ₺5.500,00 TRY
-  - [XL](https://www.thesveltechic.com/products/bluma-halterneck-fringe-mini-dress?variant=46960081109237)
-    Availability: Available
-    Price: ₺5.500,00 TRY
-- [Finbar Dantel Bandaj Elbise Siyah Midi Kalp Yaka](https://www.thesveltechic.com/products/finbar-patchwork-lace-bandage-dress): Finbar Dantel Bandaj Elbise, modern stil ve klasik zarafetin benzersiz kombinasyonu. Patchwork dantel korse ve bandaj tasarımıyla zamansız siluet yaratan bu elbise, özel günler için mükemmel seçim. %95 Polyester %5 Spandex bandaj kumaşı yüksek esneklik sağlar. Arkada görünmez fermuar detayı. Kalp yaka ve midi boy ile zarif görünüm. Küçük kalıp - bedenler arası kalıyorsanız bir beden büyük seçin. Nazik makinede yıkanabilir. Abiye, kokteyl ve düğün davetleri için ideal. Model S beden giyiyor. Renk farkı gösterebilir, model olmayan fotoğraflar gerçek renge en yakın.
-  Updated: 2026-04-20T11:00:56Z
-  Vendor: THESVELTECHIC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/Finbar_Patchwork_Lace_Bandage_Dress_1.jpg?v=1755472039
-  - [XS](https://www.thesveltechic.com/products/finbar-patchwork-lace-bandage-dress?variant=46960080814325)
-    Availability: Available
-    Price: ₺5.400,00 TRY
-  - [S](https://www.thesveltechic.com/products/finbar-patchwork-lace-bandage-dress?variant=47020539805941)
-    Availability: Available
-    Price: ₺5.400,00 TRY
-  - [M](https://www.thesveltechic.com/products/finbar-patchwork-lace-bandage-dress?variant=47020539838709)
-    Availability: Available
-    Price: ₺5.400,00 TRY
-  - [L](https://www.thesveltechic.com/products/finbar-patchwork-lace-bandage-dress?variant=47020539871477)
-    Availability: Available
-    Price: ₺5.400,00 TRY
-  - [XL](https://www.thesveltechic.com/products/finbar-patchwork-lace-bandage-dress?variant=47020539904245)
-    Availability: Available
-    Price: ₺5.400,00 TRY
-- [Birtin Straplez Çiçekli Mini Elbise Kırmızı Drapeli](https://www.thesveltechic.com/products/birtin-strapless-flower-mini-dress): Unutulmaz bir stil ve özgüven için tasarlanmış muhteşem kırmızı straplez çiçek desenli mini elbise. Zarif çiçek motifleri ve boyundan bağlamalı tasarımı ile her özel davet için mükemmel. Eşsiz drapeli yırtmaç detayı elbiseye sofistike bir hava katarken rahat hareket imkanı sunar. %100 polyester kumaştan üretilen elbise pürüzsüz duruş sağlar. Dar kalıplı tasarım nedeniyle bir beden büyük tercih edilmesi önerilir. Abiye, kokteyl partileri ve özel etkinlikler için ideal. Feminen çiçek deseni ile şık ve çekici görünüm. Vücuda oturan kesim ile zarif siluet. Özgüven ve stilinizi yansıtan göz alıcı tasarım.
-  Updated: 2026-04-20T11:01:09Z
-  Vendor: THESVELTECHIC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/Birtin_Strapless_Flower_Mini_Dress_6.jpg?v=1755472038
-  - [XS](https://www.thesveltechic.com/products/birtin-strapless-flower-mini-dress?variant=46960081142005)
-    Availability: Available
-    Price: ₺10.400,00 TRY
-  - [S](https://www.thesveltechic.com/products/birtin-strapless-flower-mini-dress?variant=46960081174773)
-    Availability: Available
-    Price: ₺10.400,00 TRY
-  - [M](https://www.thesveltechic.com/products/birtin-strapless-flower-mini-dress?variant=46960081207541)
-    Availability: Available
-    Price: ₺10.400,00 TRY
-  - [L](https://www.thesveltechic.com/products/birtin-strapless-flower-mini-dress?variant=46960081240309)
-    Availability: Available
-    Price: ₺10.400,00 TRY
-  - [XL](https://www.thesveltechic.com/products/birtin-strapless-flower-mini-dress?variant=46960081273077)
-    Availability: Available
-    Price: ₺10.400,00 TRY
-- [Slade Uzun Kollu Taş Süslemeli Mini Elbise Siyah](https://www.thesveltechic.com/products/slade-long-sleeve-rhinestone-embellished-dress): Spot ışıklarının altında kendinizi gösterin ve bu zarif, taş detaylı Slade Uzun Kollu Elbise ile ışıldayın—unutulmaz anlar için mükemmel bir seçim. Özenle yerleştirilen rhinestone taşlar, elbiseye göz kamaştırıcı bir parlaklık kazandırarak her bakışı üzerinize çekmenizi sağlar. Klasik uzun kollar, zamansız bir stil ve rahat bir örtücülük sunar. Özel davetler, kokteyl partileri ve gece dışarı çıkmaları için idealdir. Yumuşak %100 polyester kumaştan üretilen bu elbise, hafif esnekliği ve fermuarlı arka detayı ile hem lüks hem de kullanım kolaylığı sunar. Mini boy kesimi ile bacaklarınızı uzun gösterir ve zarif bir silüet yaratır. Yuvarlak yaka tasarımı klasik ve şık bir görünüm sağlar. Slim fit kalıbı vücut hatlarınızı mükemmel şekilde sararak feminen bir duruş kazandırır. Abiye etkinlikler, özel davetler, romantik akşam yemekleri ve parti ortamları için mükemmel. Topuklu ayakkabılar ve minimal takılarla kombinleyerek şıklığınızı tamamlayın.
-  Updated: 2026-04-06T13:06:53Z
-  Vendor: THESVELTECHIC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/SladeLongSleeveRhinestoneEmbellishedDress_3.jpg?v=1755472038
-  - [XS](https://www.thesveltechic.com/products/slade-long-sleeve-rhinestone-embellished-dress?variant=46960081305845)
-    Availability: Available
-    Price: ₺9.600,00 TRY
-  - [S](https://www.thesveltechic.com/products/slade-long-sleeve-rhinestone-embellished-dress?variant=46960081338613)
-    Availability: Available
-    Price: ₺9.600,00 TRY
-  - [M](https://www.thesveltechic.com/products/slade-long-sleeve-rhinestone-embellished-dress?variant=46960081371381)
-    Availability: Available
-    Price: ₺9.600,00 TRY
-  - [L](https://www.thesveltechic.com/products/slade-long-sleeve-rhinestone-embellished-dress?variant=46960081404149)
-    Availability: Available
-    Price: ₺9.600,00 TRY
-  - [XL](https://www.thesveltechic.com/products/slade-long-sleeve-rhinestone-embellished-dress?variant=46960081436917)
-    Availability: Available
-    Price: ₺9.600,00 TRY
-- [Yolita Kayıtsız Dantel Elbise Siyah Patchwork Mini](https://www.thesveltechic.com/products/yolita-strapless-patchwork-lace-dress-in-black-1): Her etkinlikte gözleri üzerinize çekin! Zamansız şıklık ve stilin yeni favorisi olan Yolita Kayıtsız Patchwork Dantel Elbise ile tanışın. Benzersiz patchwork dantel tasarımıyla klasik siyah renkte öne çıkın; görünümünüze zarafet ve modern bir hava katın. Vücudunuzu kusursuzca öne çıkaran zarif kesimiyle bu elbise, kutlamalar, partiler ve özel geceler için ideal bir tercihtir. Yüksek kaliteli, hafif esnek polyesterdan üretilen bu elbise, hem konforu hem de kolay bakımıyla gün boyu kendinize güvenmenizi sağlar. Kayıtsız tasarımı ile omuzlarınızı zarif bir şekilde ortaya çıkarır. Mini boy kesimi ile genç ve dinamik bir görünüm sunar. Abiye kategorisinde yer alan bu özel parça, kokteyl partileri ve gece etkinlikleri için mükemmel bir seçimdir. Zarafeti kucaklayın ve her ortamda parlayın!
-  Updated: 2026-04-20T11:07:01Z
-  Vendor: THESVELTECHIC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/YolitaStraplessPatchworkLaceDressInBlack_4.jpg?v=1755506883
-  - [XS](https://www.thesveltechic.com/products/yolita-strapless-patchwork-lace-dress-in-black-1?variant=46960896311541)
-    Availability: Available
-    Price: ₺6.500,00 TRY
-  - [S](https://www.thesveltechic.com/products/yolita-strapless-patchwork-lace-dress-in-black-1?variant=46960896344309)
-    Availability: Available
-    Price: ₺6.500,00 TRY
-  - [M](https://www.thesveltechic.com/products/yolita-strapless-patchwork-lace-dress-in-black-1?variant=46960896377077)
-    Availability: Available
-    Price: ₺6.500,00 TRY
-  - [L](https://www.thesveltechic.com/products/yolita-strapless-patchwork-lace-dress-in-black-1?variant=46960896409845)
-    Availability: Available
-    Price: ₺6.500,00 TRY
 - [Romy Tek Omuz Pul Payet Tüylü Mini Elbise Siyah](https://www.thesveltechic.com/products/romy-one-shoulder-sequin-feather-mini-dress): Spot ışıklarının altında parlayın ve her anınızı unutulmaz kılın! Bu göz alıcı tek omuzlu, payetli ve tüy detaylı mini elbise ile tüm gözler üzerinizde olsun. Baştan aşağı parlayan payetlerle kaplanmış bu elbise, her davet ve özel etkinlikte ışıldamanızı garanti eder. Şık asimetrik detaylar: Hareketli tüy detaylı asimetrik eteğiyle eğlenceli ve çekici bir dokunuş sağlar; tüm dikkatleri üzerine çeker. Gizli arka fermuarı sayesinde kolayca giyilir, böylece gece boyunca mükemmel görünüp kendinize güvenirsiniz. Bu karşı konulmaz mini elbiseyle parti gardırobunuza şıklık katın ve her etkinliğin yıldızı olun! Mükemmel abiye elbise seçeneği olan bu model, özel davetler, parti ve gece etkinlikleri için ideal. Siyah rengi ve altın payet detayları ile zamansız şıklık sunar. Tek omuz tasarımı modern ve çekici bir görünüm sağlarken, tüy detayları hareket halinde büyüleyici bir etki yaratır.
   Updated: 2026-04-20T11:00:31Z
   Vendor: THESVELTECHIC
@@ -29245,128 +29060,8 @@ Key facts about The Sveltechic:
   - [L](https://www.thesveltechic.com/products/romy-one-shoulder-sequin-feather-mini-dress?variant=46960896737525)
     Availability: Available
     Price: ₺8.800,00 TRY
-- [Askısız Büzgülü Dantel Mini Elbise Eldiven Seti Kırmızı](https://www.thesveltechic.com/products/pora-strapless-ruched-lace-dress-with-gloves-in-red): Pora Askısız Büzgülü Dantel Elbise ile özel davetlerinizde zarafet ve özgüveni yakalayın. Yumuşak dantel dokusu ve vücudu saran büzgülü tasarımı ile doğal hatlarınızı öne çıkarır. Uyumlu eldivenlerle tamamlanan bu şık set, her ortamda göz alıcı bir siluet sunar. Straplez kesimi ve mini boyu ile modern kadının vazgeçilmezi. Kokteyl partileri, özel davetler ve romantik akşam yemekleri için mükemmel. Zarif dantel detayları sofistike bir çekicilik katarken, akıllıca tasarlanmış büzgü sistemi kusursuz bir fit sağlar. Kombinize dahil edilen uzun eldivenler ile vintage şıklığı modern tarzla buluşturun. Yüksek kaliteli dantel kumaşı konforlu kullanım sunar. Özel günlerinizi unutulmaz kılmak için tasarlanmış bu eşsiz elbise, gardırobunuzun en değerli parçalarından biri olacak.
-  Updated: 2026-04-20T11:03:12Z
-  Vendor: THESVELTECHIC
-  Product Type: Dresses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/PoraStraplessRuchedLaceDressWithGlovesInRed_1.jpg?v=1755506902
-  - [S](https://www.thesveltechic.com/products/pora-strapless-ruched-lace-dress-with-gloves-in-red?variant=46960899129589)
-    Availability: Available
-    Price: ₺8.800,00 TRY
-  - [M](https://www.thesveltechic.com/products/pora-strapless-ruched-lace-dress-with-gloves-in-red?variant=46960899162357)
-    Availability: Available
-    Price: ₺10.400,00 TRY
-  - [L](https://www.thesveltechic.com/products/pora-strapless-ruched-lace-dress-with-gloves-in-red?variant=46960899195125)
-    Availability: Available
-    Price: ₺10.400,00 TRY
-- [Cadee Uzun Kollu Dantel Elbise Beyaz Mini Kare Yaka](https://www.thesveltechic.com/products/cadee-long-sleeve-lace-dress-in-white): Cadee Uzun Kollu Dantel Elbise ile zamansız şıklığı yaşayın. Zarif dantel kumaşı ve çiçekli deseniyle düğünler, partiler ve özel geceler için mükemmel. Kare yaka detayı ve uzun kolları ile sofistike görünüm sunar. Gizli yan fermuar ile kolay giyim, vücuda oturan slim kesimi ile doğal güzelliğinizi öne çıkarır. Hafif esnek yapısı tüm gün konfor sağlar. Beyaz rengi ile her kombinle uyum gösterir. Beden aralığındaysanız bir beden büyük tercih etmenizi öneririz. Kaliteli dantel kumaşı uzun ömürlü kullanım sunar. Özel günlerinizi daha da özel kılacak bu zarif elbise ile özgüveninizi ortaya çıkarın.
-  Updated: 2026-04-20T11:02:56Z
-  Vendor: THESVELTECHIC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/CadeeLongSleeveLaceDressInWhite_6.jpg?v=1755506903
-  - [S](https://www.thesveltechic.com/products/cadee-long-sleeve-lace-dress-in-white?variant=46960899227893)
-    Availability: Available
-    Price: ₺7.300,00 TRY
-  - [M](https://www.thesveltechic.com/products/cadee-long-sleeve-lace-dress-in-white?variant=46960899260661)
-    Availability: Available
-    Price: ₺7.300,00 TRY
-  - [L](https://www.thesveltechic.com/products/cadee-long-sleeve-lace-dress-in-white?variant=46960899293429)
-    Availability: Available
-    Price: ₺7.300,00 TRY
-- [Irma Çiçekli Bandaj Etek Takımı Bordo Straplez](https://www.thesveltechic.com/products/irma-flower-bandage-skirt-set): Nereye giderseniz gidin dikkatleri üzerinize çekin; karşı konulmaz Irma Çiçekli Bandaj Etek Takımı ile modayı ve konforu mükemmel bir şekilde birleştirin! Benzersiz çiçek tasarımı ile zarif çiçek detaylarıyla öne çıkın, görünümünüze etkileyici ve feminen bir dokunuş katın. Kaliteli bandaj kumaş: Polyester ve spandeks karışımından üretilmiş yumuşak ve esnek kumaşı sayesinde vücudunuza tam oturur ve sizinle birlikte hareket eder. Gizli fermuar: Arkada yer alan fark edilmeyen fermuar ile giyinmek artık çok daha kolay ve pratik. Gardırobunuzu şimdi yenileyin—bu vazgeçilmez etek takımıyla tarzınızı ve özgüveninizi ön plana çıkarın! Abiye davetler, parti ve özel günler için ideal. Straplez kesimi ile zarif görünüm. Bandaj kumaşı vücut hatlarını mükemmel şekilde sararak kusursuz bir silüet oluşturur. Çiçek deseni ile romantik ve feminen bir tarz yakalayın.
-  Updated: 2026-04-20T11:13:55Z
-  Vendor: THESVELTECHIC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/Irma_Flower_Bandage_Skirt_Set_4.jpg?v=1755506903
-  - [S](https://www.thesveltechic.com/products/irma-flower-bandage-skirt-set?variant=46960899031285)
-    Availability: Available
-    Price: ₺8.800,00 TRY
-  - [M](https://www.thesveltechic.com/products/irma-flower-bandage-skirt-set?variant=46960899064053)
-    Availability: Available
-    Price: ₺8.800,00 TRY
-  - [L](https://www.thesveltechic.com/products/irma-flower-bandage-skirt-set?variant=46960899096821)
-    Availability: Available
-    Price: ₺8.800,00 TRY
-- [Matisse Omuz Yastığı Payetli Mini Elbise Siyah](https://www.thesveltechic.com/products/matisse-shoulder-pad-sequin-mini-dress): Her davette parıldayın! Göz alıcı Matisse Omuz Pedli Payetli Mini Elbise, ışıltıyı ve cesur stili buluşturan mükemmel seçenek. Yapılandırılmış omuz pedleriyle tasarlanmış bu elbise, şık ve güçlü görünümle dikkat çeker. Tamamen ışıltılı payetlerle kaplı olan elbise, her açıdan ışığı yansıtarak girdiğiniz her ortamda göz kamaştırmanızı sağlar. Görünmez arka fermuarı sayesinde kusursuz kullanım sunar. Nazik makinede yıkamayla kolayca temizlenir. Cocktail partiler, özel davetler ve gece etkinlikleri için ideal. Vücuda kusursuzca uyum sağlayan slim kesim. Yuvarlak yaka ve kolsuz tasarım modern görünüm yaratır. Polyester kumaş konforlu kullanım sağlar. Bu göz alıcı mini elbiseyi gardırobunuza ekleyin ve her davette tüm dikkatleri üzerinize toplayın.
-  Updated: 2026-04-20T10:59:02Z
-  Vendor: THESVELTECHIC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/Matisse_Shoulder_Pad_Sequin_Mini_Dress_5.jpg?v=1755506909
-  - [XS](https://www.thesveltechic.com/products/matisse-shoulder-pad-sequin-mini-dress?variant=46960900276469)
-    Availability: Available
-    Price: ₺4.800,00 TRY
-  - [S](https://www.thesveltechic.com/products/matisse-shoulder-pad-sequin-mini-dress?variant=46960900309237)
-    Availability: Available
-    Price: ₺4.800,00 TRY
-  - [M](https://www.thesveltechic.com/products/matisse-shoulder-pad-sequin-mini-dress?variant=46960900342005)
-    Availability: Available
-    Price: ₺4.800,00 TRY
-  - [L](https://www.thesveltechic.com/products/matisse-shoulder-pad-sequin-mini-dress?variant=46960900374773)
-    Availability: Available
-    Price: ₺4.800,00 TRY
-- [Gianni Taşlı File Mini Elbise Siyah Tek Omuz Arkası Açık](https://www.thesveltechic.com/products/gianni-backless-rhinestone-mesh-mini-dress-in-black): Gianni Sırt Dekolteli Taş İşlemeli File Mini Elbise ile göz alıcı bir tarzda sahneye adım atın. Işıltılı taş detayları ile her hareketinizde parlayın, çarpıcı sırt dekolteli tasarımla özgüveninizi sergileyin. %100 polyester kumaştan üretilen bu zarif elbise, yumuşak ve hafif esnek yapısıyla tüm gece boyunca konforlu kullanım sunar. Tek omuz tasarımı ve mini boy ile modern ve cesur bir görünüm yaratır. Abiye, parti, festival gibi özel davetler için mükemmel seçim. File kumaş detayları ve geometrik taş işlemeleri ile dikkat çekici bir stil sunar. Siyah rengi ile her aksesuar ile uyumlu, zamansız şıklık vadeder. Slim fit kalıbı vücut hatlarını zarif şekilde sararak feminen bir silüet oluşturur.
-  Updated: 2026-04-20T11:15:45Z
-  Vendor: THESVELTECHIC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/Gianni_Backless_Rhinestone_Mesh_Mini_Dress_In_Black_1.jpg?v=1755506910
-  - [XS](https://www.thesveltechic.com/products/gianni-backless-rhinestone-mesh-mini-dress-in-black?variant=46960899981557)
-    Availability: Available
-    Price: ₺10.100,00 TRY
-  - [S](https://www.thesveltechic.com/products/gianni-backless-rhinestone-mesh-mini-dress-in-black?variant=46960900014325)
-    Availability: Available
-    Price: ₺10.100,00 TRY
-  - [M](https://www.thesveltechic.com/products/gianni-backless-rhinestone-mesh-mini-dress-in-black?variant=46960900047093)
-    Availability: Available
-    Price: ₺10.100,00 TRY
-  - [L](https://www.thesveltechic.com/products/gianni-backless-rhinestone-mesh-mini-dress-in-black?variant=46960900079861)
-    Availability: Available
-    Price: ₺10.100,00 TRY
-  - [XL](https://www.thesveltechic.com/products/gianni-backless-rhinestone-mesh-mini-dress-in-black?variant=46960900112629)
-    Availability: Available
-    Price: ₺10.100,00 TRY
-- [Faustina Pelerin Fiyonk Mini Elbise Kırmızı](https://www.thesveltechic.com/products/faustina-bow-cape-mini-dress): Her etkinlikte gözleri üzerinize çevirin: Şık tarzı ve konforu bir araya getiren zarif Faustina Pelerin ve Fiyonk Mini Elbise ile unutulmaz bir görünüm yakalayın. Eşsiz pelerin ve fiyonk tasarımıyla kalabalıklar arasında öne çıkın, görünümünüze zamansız bir zarafet katın. Yumuşak ve kaliteli polyester kumaştan üretilen bu elbise, hafif esnek yapısı ile kolay hareket ve kalıcı rahatlık sağlar. Görünmez yan fermuarı sayesinde kolayca giyilip çıkarılabilir; güzelliği kadar kullanışlı bir elbisedir. Kokteyl partileri, özel davetler ve abiye gerektiren etkinlikler için mükemmel seçim. A-line kesimi her vücut tipine uyum sağlar. Bisiklet yaka ve pelerin kol detayları ile modern ve zarif görünüm. Mini boy ile genç ve dinamik bir stil. Kırmızı rengi ile dikkat çekici ve etkileyici duruş. Kaliteli polyester kumaş kolay bakım imkanı sunar. Şansınızı kaçırmayın—bu dikkat çekici elbiseyi koleksiyonunuza ekleyin ve zahmetsiz şıklığın tadını çıkarın!
-  Updated: 2026-04-20T11:07:51Z
-  Vendor: THESVELTECHIC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/Faustina_Bow_Cape_Mini_Dress_3.jpg?v=1755506916
-  - [S](https://www.thesveltechic.com/products/faustina-bow-cape-mini-dress?variant=46960900931829)
-    Availability: Available
-    Price: ₺7.600,00 TRY
-  - [M](https://www.thesveltechic.com/products/faustina-bow-cape-mini-dress?variant=46960900964597)
-    Availability: Available
-    Price: ₺7.600,00 TRY
-  - [L](https://www.thesveltechic.com/products/faustina-bow-cape-mini-dress?variant=46960900997365)
-    Availability: Available
-    Price: ₺7.600,00 TRY
-  - [XL](https://www.thesveltechic.com/products/faustina-bow-cape-mini-dress?variant=46960901030133)
-    Availability: Available
-    Price: ₺7.600,00 TRY
-- [Finbar Dantel Bandaj Elbise Beyaz Kalp Yaka Midi](https://www.thesveltechic.com/products/finbar-patchwork-lace-bandage-dress-in-white): Finbar Dantelli Bandaj Elbise ile zarafeti ve özgüveni bir araya getirin. Göz alıcı dantel detayları ve çiçekli desenlerle süslenmiş bu zarif midi elbise, özel günleriniz için mükemmel bir seçim. Esnek bandaj kumaşı vücudunuza kusursuzca oturarak doğal hatlarınızı öne çıkarır. Kalp yaka tasarımı ve askılı kesimi ile feminen bir görünüm sunar. Arkadaki gizli fermuarı sayesinde kolay giyim sağlar. Abiye, kokteyl partileri ve özel davetler için ideal. Beyaz rengi ile her kombinle uyum sağlar. Ofis şıklığından gece çıkışlarına kadar geniş kullanım alanı. Yüksek kaliteli dantel kumaşı ile uzun ömürlü kullanım. XS-L beden seçenekleri ile farklı vücut tiplerine uygun. Svelte Chic kalitesi ile özenle tasarlanmış.
-  Updated: 2026-04-20T11:01:44Z
-  Vendor: THESVELTECHIC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/FinbarPatchworkLaceBandageDressInWhite_2.jpg?v=1755506923
-  - [XS](https://www.thesveltechic.com/products/finbar-patchwork-lace-bandage-dress-in-white?variant=46960901521653)
-    Availability: Available
-    Price: ₺7.300,00 TRY
-  - [S](https://www.thesveltechic.com/products/finbar-patchwork-lace-bandage-dress-in-white?variant=46960901554421)
-    Availability: Available
-    Price: ₺7.300,00 TRY
-  - [M](https://www.thesveltechic.com/products/finbar-patchwork-lace-bandage-dress-in-white?variant=46960901587189)
-    Availability: Available
-    Price: ₺7.300,00 TRY
-  - [L](https://www.thesveltechic.com/products/finbar-patchwork-lace-bandage-dress-in-white?variant=46960901619957)
-    Availability: Available
-    Price: ₺7.300,00 TRY
-- [Denali Halter Yaka Taşlı Midi Elbise Ten Rengi Dekolteli](https://www.thesveltechic.com/products/denali-halterneck-hollow-rhinestone-midi-dress): Spot ışıklarının altında parlayın ve bu göz alıcı Denali Halter Yaka Dekolteli Taşlı Midi Elbise ile herkesi büyüleyin. Işıltılı taş detayları halter yaka kısmını süsler ve özel davetler için mükemmel, göz alıcı bir dokunuş sunar. Zarif dekolte tasarımı silüetinizi öne çıkarırken görünümünüzü şık ve sofistike tutar. Hafif esnemeye sahip kaliteli polyester kumaştan üretilmiş olup, gizli arka fermuarı ile rahat ve vücuda oturan bir uyum sağlar. Resmi etkinlikler, partiler ve özel geceler için ideal. Abiye elbise kategorisinde öne çıkan bu model, kombinleme kolaylığı sunar. Siyah stiletto ayakkabılar ve minimal takılarla tamamlayabilirsiniz. Özel günlerinizin vazgeçilmezi olan bu elbise ile stilinizi yansıtın ve unutulmaz anlar yaşayın.
-  Updated: 2026-04-20T11:11:16Z
+- [Denali Halter Yaka Taşlı Elbise](https://www.thesveltechic.com/products/denali-halterneck-hollow-rhinestone-midi-dress): Spot ışıklarının altında parlayın ve bu göz alıcı Denali Halter Yaka Dekolteli Taşlı Midi Elbise ile herkesi büyüleyin. Işıltılı taş detayları halter yaka kısmını süsler ve özel davetler için mükemmel, göz alıcı bir dokunuş sunar. Zarif dekolte tasarımı silüetinizi öne çıkarırken görünümünüzü şık ve sofistike tutar. Hafif esnemeye sahip kaliteli polyester kumaştan üretilmiş olup, gizli arka fermuarı ile rahat ve vücuda oturan bir uyum sağlar. Resmi etkinlikler, partiler ve özel geceler için ideal. Abiye elbise kategorisinde öne çıkan bu model, kombinleme kolaylığı sunar. Siyah stiletto ayakkabılar ve minimal takılarla tamamlayabilirsiniz. Özel günlerinizin vazgeçilmezi olan bu elbise ile stilinizi yansıtın ve unutulmaz anlar yaşayın.
+  Updated: 2026-05-06T23:49:10Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -29383,92 +29078,29 @@ Key facts about The Sveltechic:
   - [L](https://www.thesveltechic.com/products/denali-halterneck-hollow-rhinestone-midi-dress?variant=46960901751029)
     Availability: Available
     Price: ₺10.400,00 TRY
-- [Ahinoam Askısız Büzgülü Çiçek Desenli Mini Elbise Kırmızı](https://www.thesveltechic.com/products/ahinoam-strapless-ruched-flower-bandage-mini-dress): Bu şık askısız mini elbise ile tüm dikkatleri üzerine çek. Vücudu saran büzgülü tasarımıyla kıvrımlarını ön plana çıkarır ve göz alıcı çiçek detaylarını sergiler. Polyester-spandeks karışımı kumaşıyla her vücut tipine tam oturan, nazikçe esneyen yapıya sahip. Gizli arka fermuar ile kolay giyim sağlar. Abiye, kokteyl ve tatil kombinleri için ideal. Yumuşak kumaşı sayesinde günlük kullanımda da konforlu. Vücudu kusursuzca şekillendiren büzgülü yapısı ile özgüveninizi artırır. Her ortamda pürüzsüz ve kusursuz görünüm sunar. Gardırobunuzun vazgeçilmez parçası olmaya aday bu mini elbise ile stilinizi yükseltin.
-  Updated: 2026-04-20T10:58:26Z
-  Vendor: THESVELTECHIC
-  Product Type: Dresses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/AhinoamStraplessRuchedFlowerBandageMiniDress_4.jpg?v=1755506941
-  - [S](https://www.thesveltechic.com/products/ahinoam-strapless-ruched-flower-bandage-mini-dress?variant=47020533350645)
-    Availability: Available
-    Price: ₺6.500,00 TRY
-  - [M](https://www.thesveltechic.com/products/ahinoam-strapless-ruched-flower-bandage-mini-dress?variant=47020533383413)
-    Availability: Available
-    Price: ₺7.600,00 TRY
-  - [L](https://www.thesveltechic.com/products/ahinoam-strapless-ruched-flower-bandage-mini-dress?variant=46960903520501)
-    Availability: Available
-    Price: ₺6.500,00 TRY
 - [Birtin Straplez Çiçekli Mini Elbise Kırmızı](https://www.thesveltechic.com/products/birtin-strapless-flower-mini-dress-in-red-1): Her etkinlikte parlamanızı sağlayacak Birtin Straplez Çiçekli Mini Elbisemizle spot ışıklarının altında yerinizi alın. Zarif çiçek deseni ve büyüleyici kırmızı rengiyle gardırobunuza taze ve feminen bir dokunuş kazandırır. Boyundan bağlamalı stili ve dökümlü yırtmaç detayıyla vücudu saran zarif bir siluet oluşturur. Kaliteli polyester kumaştan üretilmiş bu mini elbise, partiler, romantik buluşmalar ve unutulmaz etkinlikler için idealdir. Straplez kesimi ve mini boyu ile modern kadının şıklığını yansıtır. Özel günlerinizde tarzınız ve özgüveninizle tüm gözleri üzerinize çekecek bu eşsiz parça, kombinleme kolaylığı sunar. Akşam etkinlikleri, kokteyl partileri ve özel davetler için mükemmel seçim. Rahat kumaş yapısı sayesinde gün boyu konfor sağlar.
-  Updated: 2026-04-20T11:12:27Z
+  Updated: 2026-05-06T11:53:05Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/Birtin_Strapless_Flower_Mini_Dress_In_Red_2.png?v=1755506941
   - [XS](https://www.thesveltechic.com/products/birtin-strapless-flower-mini-dress-in-red-1?variant=46960903618805)
     Availability: Available
-    Price: ₺10.400,00 TRY
+    Price: ₺6.400,00 TRY
   - [S](https://www.thesveltechic.com/products/birtin-strapless-flower-mini-dress-in-red-1?variant=46960903651573)
     Availability: Available
-    Price: ₺10.400,00 TRY
+    Price: ₺6.400,00 TRY
   - [M](https://www.thesveltechic.com/products/birtin-strapless-flower-mini-dress-in-red-1?variant=46960903684341)
     Availability: Available
-    Price: ₺10.400,00 TRY
+    Price: ₺6.400,00 TRY
   - [L](https://www.thesveltechic.com/products/birtin-strapless-flower-mini-dress-in-red-1?variant=46960903717109)
     Availability: Available
-    Price: ₺10.400,00 TRY
+    Price: ₺6.400,00 TRY
   - [XL](https://www.thesveltechic.com/products/birtin-strapless-flower-mini-dress-in-red-1?variant=46960903749877)
     Availability: Available
-    Price: ₺10.400,00 TRY
-- [Augustus Omuz Açık Fırfırlı Midi Elbise Bordo](https://www.thesveltechic.com/products/augustus-off-shoulder-flounce-midi-dress): Bu şık Augustus omuz açık fırfırlı midi elbise ile tarzınızı ve özgüveninizi sergileyin. Bakışları üzerinizde toplayacak ve görünümünüzü zirveye taşıyacak şekilde tasarlandı. Vücuda yakışan omzu açık tasarımıyla omuzlarınızı ortaya çıkaran zamansız stiliyle brunch buluşmalarından kutlamalara kadar her etkinlikte göz kamaştırın. %100 polyesterden üretilen bu elbise, hem yumuşaklık hem de dayanıklılık sunarak tüm gün boyunca rahat ve zarif hissetmenizi sağlar. Pratik arka fermuarı sayesinde elbiseyi giymek çok kolay; her seferinde vücudunuza mükemmel ve hoş bir şekilde oturur. Midi boy kesimi ile zarif ve modern görünüm sunar. Fırfırlı detayları ile feminen bir hava katar. Abiye etkinlikler, kokteyl partileri ve özel davetler için ideal. Topuklu ayakkabılar ve zarif aksesuarlarla kombinleyebilirsiniz. Kolay bakım, elde yıkama önerilir. Bu dikkat çekici elbiseyi bugün gardırobunuza ekleyin ve gittiğiniz her yerde zahmetsiz şıklığın tadını çıkarın.
-  Updated: 2026-04-20T11:09:09Z
-  Vendor: THESVELTECHIC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/Augustus_Off_Shoulder_Flounce_Midi_Dress_4.jpg?v=1755506947
-  - [S](https://www.thesveltechic.com/products/augustus-off-shoulder-flounce-midi-dress?variant=46960904208629)
-    Availability: Available
-    Price: ₺7.700,00 TRY
-  - [M](https://www.thesveltechic.com/products/augustus-off-shoulder-flounce-midi-dress?variant=47020531679477)
-    Availability: Available
-    Price: ₺9.100,00 TRY
-  - [L](https://www.thesveltechic.com/products/augustus-off-shoulder-flounce-midi-dress?variant=47020531712245)
-    Availability: Available
-    Price: ₺9.100,00 TRY
-- [Birtin Askısız Çiçek Desenli Mini Elbise Beyaz](https://www.thesveltechic.com/products/birtin-strapless-flower-mini-dress-in-white): Spot ışıklarının altında parlayın ve göz alıcı Birtin Askısız Çiçek Desenli Mini Elbise ile tüm dikkatleri üzerinize çekin. Her türlü özel davet için mükemmel bir seçim! Vücuda oturan askısız tasarım ile şık halter yakası ve zarif drapeli yırtmacıyla, her etkinlikte size zahmetsiz ve zarif bir siluet sunar. Feminen çiçekli çekicilik ile zarif çiçek deseni taze ve romantik bir dokunuş ekleyerek, gittiğiniz her yerde öne çıkmanızı sağlar. %100 polyester kumaşıyla bu mini elbise hafif ve rahat bir kullanım sunar. Esnemez kumaşı sayesinde mükemmel bir uyum sağlar. Kokteyl partileri, özel davetler ve gece etkinlikleri için ideal. Beyaz rengi ile her aksesuar ile kolayca kombinlenebilir. Askısız tasarımı ile omuzlarınızı zarif bir şekilde ortaya çıkarır. Mini boy ile genç ve dinamik bir görünüm sunar. Çiçek desenleri ile romantik ve feminen bir tarz yaratır.
-  Updated: 2026-04-20T10:59:10Z
-  Vendor: THESVELTECHIC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/BirtinStraplessFlowerMiniDressInWhite_3.jpg?v=1755506948
-  - [XS](https://www.thesveltechic.com/products/birtin-strapless-flower-mini-dress-in-white?variant=46960904405237)
-    Availability: Available
-    Price: ₺10.400,00 TRY
-  - [S](https://www.thesveltechic.com/products/birtin-strapless-flower-mini-dress-in-white?variant=46960904438005)
-    Availability: Available
-    Price: ₺10.400,00 TRY
-  - [M](https://www.thesveltechic.com/products/birtin-strapless-flower-mini-dress-in-white?variant=46960904470773)
-    Availability: Available
-    Price: ₺10.400,00 TRY
-  - [L](https://www.thesveltechic.com/products/birtin-strapless-flower-mini-dress-in-white?variant=46960904503541)
-    Availability: Available
-    Price: ₺10.400,00 TRY
-- [Graillot İnci Detaylı Uzun Kollu Maxi Elbise Kırmızı Büzgülü](https://www.thesveltechic.com/products/graillot-long-sleeve-lace-maxi-dress): Zamansız şıklığa adım atın: Bu göz alıcı Graillot Uzun Kollu İnci Detaylı ve Büzgülü Maxi Elbise ile her anı unutulmaz kılın! Zarif inci süslemeleriyle bezeli bu elbise, şıklığınıza ışıltı katar ve kalabalıkta öne çıkmanızı sağlar. Yumuşak büzgüler vücut hatlarınızı zarifçe vurgularken, maxi boyu ise her vücut tipine uygun, şık ve zarif bir görünüm sunar. Uzun kollar, konfor ve çok yönlülük sunarak bu elbiseyi her mevsim ve özel davet için ideal hale getirir. Saten kumaşı ile lüks bir his sunan bu elbise, düz desenli yapısıyla klasik zarafeti yansıtır. Yüksek yaka detayı ve slim fit kesimiyle vücut hatlarınızı mükemmel şekilde sararak zarif bir siluet oluşturur. Abiye, kokteyl partileri, düğün davetleri ve özel geceler için mükemmel seçim. Kırmızı rengiyle dikkat çeken bu elbise, özgüveninizi artırarak girdiğiniz her ortamda tüm bakışları üzerinize çekecek.
-  Updated: 2026-04-20T11:00:49Z
-  Vendor: THESVELTECHIC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/GraillotLongSleeveLaceMaxiDress_4.jpg?v=1755506948
-  - [S](https://www.thesveltechic.com/products/graillot-long-sleeve-lace-maxi-dress?variant=46960904634613)
-    Availability: Available
-    Price: ₺7.100,00 TRY
-  - [M](https://www.thesveltechic.com/products/graillot-long-sleeve-lace-maxi-dress?variant=46960904667381)
-    Availability: Available
-    Price: ₺7.100,00 TRY
-  - [L](https://www.thesveltechic.com/products/graillot-long-sleeve-lace-maxi-dress?variant=47020531220725)
-    Availability: Available
-    Price: ₺7.100,00 TRY
+    Price: ₺6.400,00 TRY
 - [Kailani Payetli Maxi Elbise Kırmızı Derin V Yaka](https://www.thesveltechic.com/products/kailani): Her etkinlikte gözleri üzerinize çevirin; Kailani Payetli Uzun Elbise ile zarafet ve ışıltının unutulmaz anlarla buluşmasına tanık olun. Göz kamaştırıcı payetlerle süslenmiş bu maxi elbise, ışığın her oyununu yakalayarak gece boyunca parlayın ve kalabalığın arasından sıyrılın. Vücuda oturan balık modeli ile tüm kıvrımlarınızı mükemmel şekilde vurgulayan göz alıcı bir siluet sunar. Zarif derin V yaka tasarımı hem zarif hem etkileyici bir görünüm sunarak şıklığınızı tamamlar. Yere kadar uzanan etek ile büyüleyici bir görünüm elde edin. Işıltısıyla büyüleyen bu elbise, her özel davet, gala gecesi, düğün ve kokteyl partisi için mükemmel bir seçim. Kailani ile gecenin yıldızı olun ve unutulmaz anılar yaratın. Premium kalite kumaş ve özenli işçilik ile üretilmiştir.
-  Updated: 2026-04-20T10:57:51Z
+  Updated: 2026-05-06T11:44:49Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -29677,8 +29309,8 @@ Key facts about The Sveltechic:
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/lolita-6_0b3796b6-a5d5-499a-a4fb-50080401b1b4.jpg?v=1755611363
     Price: ₺4.000,00 TRY
-- [Ruby Fırfırlı Askılı Uzun Elbise Sarı Yırtmaçlı](https://www.thesveltechic.com/products/ruby): Ruby Charming Fırfırlı Elbise ile özel gecelerinizde göz alıcı bir görünüm yakalayın. İpeksi yumuşaklıktaki polyester karışımı kumaşı sayesinde tüm gece rahat kalırken, zarif ince askıları ve çarpıcı fırfır detayları ile dikkat çekin. Yüksek yırtmaç detayı hareket özgürlüğü sağlarken cesur ve zarif bir bitiş sunar. Spot ışıklarının altında parlamak için ideal olan bu elbise, her türlü özel akşam veya kutlama için mükemmel bir seçim. Sarı, Menekşe, Bordo ve Siyah renk seçenekleri ile S, M, L bedenlerinde mevcut. Cildinize nazik ve hafif bir his veren kumaşı ile konfordan ödün vermeden şıklığınızı tamamlayın. Modern askı detayları boynunuzu ön plana çıkarırken çağdaş bir dokunuş katar. Zarif fırfırlar görünümünüze göz alıcı hareket katarken, yüksek kaliteli işçilik uzun süreli kullanım garantisi verir.
-  Updated: 2026-04-29T10:02:16Z
+- [Ruby Fırfırlı Maxi Dress](https://www.thesveltechic.com/products/ruby): Ruby Charming Fırfırlı Elbise ile özel gecelerinizde göz alıcı bir görünüm yakalayın. İpeksi yumuşaklıktaki polyester karışımı kumaşı sayesinde tüm gece rahat kalırken, zarif ince askıları ve çarpıcı fırfır detayları ile dikkat çekin. Yüksek yırtmaç detayı hareket özgürlüğü sağlarken cesur ve zarif bir bitiş sunar. Spot ışıklarının altında parlamak için ideal olan bu elbise, her türlü özel akşam veya kutlama için mükemmel bir seçim. Sarı, Menekşe, Bordo ve Siyah renk seçenekleri ile S, M, L bedenlerinde mevcut. Cildinize nazik ve hafif bir his veren kumaşı ile konfordan ödün vermeden şıklığınızı tamamlayın. Modern askı detayları boynunuzu ön plana çıkarırken çağdaş bir dokunuş katar. Zarif fırfırlar görünümünüze göz alıcı hareket katarken, yüksek kaliteli işçilik uzun süreli kullanım garantisi verir.
+  Updated: 2026-05-06T23:50:50Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -29757,32 +29389,6 @@ Key facts about The Sveltechic:
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/Scherm_afbeelding_2024-11-06_om_11.17.24.png?v=1755611359
     Price: ₺5.900,00 TRY
-- [Millie Altın Korse Elbise Tül Etek Straplez](https://www.thesveltechic.com/products/millie): Göz kamaştıran Millie Altın Korse Elbisesi ile tüm bakışları üzerinize çekin ve her anı unutulmaz kılın. Vücudu saran korse beden belinizi nazikçe şekillendirerek göz alıcı bir kum saati formu oluşturur. Işıltılı altın dantel yumuşak katmanlı yapısıyla ışığı yakalar ve size göz alıcı, ışıldayan bir stil kazandırır. Zarif tül etek akıcı yapısıyla her adımınızda sizinle birlikte hareket ederek hayal gibi ve şık bir dokunuş ekler. Straplez kesimi ile omuzlarınızı zarif bir şekilde ortaya çıkarır. Midi boy ile hem şık hem de rahat bir kullanım sunar. Özel günleriniz, davetler, kokteyl partileri ve romantik akşam yemekleri için mükemmel. A-line kesimi her vücut tipine uyum sağlar. Kaliteli tül kumaşı ile uzun süre kullanım garantisi. Altın rengi ile klasik ve zamansız bir şıklık yaratır. Korse detayı ile vücudunuzu en güzel şekilde sararak özgüveninizi artırır.
-  Updated: 2026-04-20T11:01:34Z
-  Vendor: THESVELTECHIC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/madame-10671-1.jpg?v=1755611359
-  - [Altın / XS](https://www.thesveltechic.com/products/millie?variant=46963285328117)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/madame-10671-2.jpg?v=1755611364
-    Price: ₺14.500,00 TRY
-  - [Altın / S](https://www.thesveltechic.com/products/millie?variant=46963285360885)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/madame-10671-2.jpg?v=1755611364
-    Price: ₺14.500,00 TRY
-  - [Altın / M](https://www.thesveltechic.com/products/millie?variant=46963285393653)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/madame-10671-2.jpg?v=1755611364
-    Price: ₺14.500,00 TRY
-  - [Altın / L](https://www.thesveltechic.com/products/millie?variant=46963285426421)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/madame-10671-2.jpg?v=1755611364
-    Price: ₺14.500,00 TRY
-  - [Altın / XL](https://www.thesveltechic.com/products/millie?variant=46963285459189)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/madame-10671-2.jpg?v=1755611364
-    Price: ₺14.500,00 TRY
 - [Isla Dantel Detaylı Vücut Hatlı Elbise Turuncu](https://www.thesveltechic.com/products/isla): Her etkinlikte dikkatleri üzerinize çekin: Isla Canlı Vücut Hatlı Elbise—modern stilin zamansız zarafetle buluştuğu, unutulmaz anlar için tasarlandı. Zarif dantel detayları ile süslenmiş bu özel elbise, vücudu saran şık tasarımıyla kıvrımlarınızı ön plana çıkarır ve çarpıcı bir siluet oluşturur. Özenle tasarlanmış yaka kısmı yüzünüzü ve omuzlarınızı kusursuzca çerçeveler, parlak ve şık bir görünüm sağlar. Özel davetler, akşam yemekleri ve önemli etkinlikler için ideal olan bu elbise, sizi gecenin yıldızı yapacak. Örme kumaş yapısı sayesinde rahat hareket imkanı sunarken, zarif dantel süslemeler ayrıcalıklı bir zarafet ve sofistike dokunuş katıyor. Turuncu ve pembe renk seçenekleriyle gardırobunuza canlılık katın.
   Updated: 2026-04-20T10:57:34Z
   Vendor: THESVELTECHIC
@@ -29813,100 +29419,12 @@ Key facts about The Sveltechic:
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/12.png?v=1755611365
     Price: ₺4.560,00 TRY
-- [Rüya Gibi Maxi Elbise Sarı V Yaka Akıcı Kumaş](https://www.thesveltechic.com/products/zara): Her anı unutulmaz kılmak için tasarlanan rüya gibi maxi elbise ile zahmetsiz şıklık yaşayın. Yumuşak, akıcı polyester kumaşı hareket ettikçe nazikçe kayar ve teninizi rahatça sarar. Vücuda uyumlu silüeti özenli dikişiyle mükemmel oturur, rahat ama zarif görünüm sunar. V yaka detayı ve A-line kesimi ile feminen bir duruş sergiler. Çok yönlü tasarımı sayesinde kolayca şık ya da sade kombinler yapabilirsiniz. Güneşli yürüyüşlerden akşam davetlerine kadar her ortamda kullanabileceğiniz bu zamansız parça gardırobunuzun vazgeçilmezi olacak. Altın sarısı rengi ile dikkat çeken bu elbise, özgüven ve rahatlığı bir arada sunar. S, M, L bedenlerinde mevcut. Her günü özel kılmak için ideal seçim.
-  Updated: 2026-04-20T10:58:30Z
-  Vendor: THESVELTECHIC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/Snapinst.app_454241034_732023989002261_3595941387343016507_n_1080.jpg?v=1755611375
-  - [Sarı / S](https://www.thesveltechic.com/products/zara?variant=46963290996981)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/1_29cf917c-8367-43c2-88f8-d8965aaf2db1.jpg?v=1755611379
-    Price: ₺4.200,00 TRY
-  - [Sarı / M](https://www.thesveltechic.com/products/zara?variant=46963291029749)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/1_29cf917c-8367-43c2-88f8-d8965aaf2db1.jpg?v=1755611379
-    Price: ₺4.200,00 TRY
-  - [Sarı / L](https://www.thesveltechic.com/products/zara?variant=46963291062517)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/1_29cf917c-8367-43c2-88f8-d8965aaf2db1.jpg?v=1755611379
-    Price: ₺4.200,00 TRY
-- [Harriet Tek Omuzlu Maxi Elbise Siyah Yırtmaçlı](https://www.thesveltechic.com/products/harriet): Harriet Tek Omuzlu Maxi Elbise ile klasik zarafet ve modern cazibeyi bir araya getirin. Şık tek omuz tasarımı ile asimetrik yaka detayı, çarpıcı ve sofistike bir dokunuş katarak unutulmaz bir görünüm sunar. Premium viskon kumaşı sayesinde yumuşak ve nefes alabilen yapıya sahip bu elbise, gün boyu süren rahatlık ve zarif bir duruş vadeder. Vücuda oturan kesimi ve zarif yırtmaç detayı ile doğal hatlarınızı öne çıkarır, cesur ve zarif görünümü mükemmel şekilde dengeler. Özel etkinlikler, davetler ve özel geceler için ideal olan bu maxi elbise, sizi her ortamda öne çıkaracak. Yüksek kaliteli işçilik ve dikkat çekici tasarımı ile gardırobunuzun vazgeçilmez parçası olacak. Hem siyah hem kırmızı renk seçenekleri ile farklı tarzlara uyum sağlar. S, M, L beden seçenekleri ile mükemmel uyum garantisi sunar.
-  Updated: 2026-04-20T11:02:39Z
-  Vendor: THESVELTECHIC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/alecia-maxi-dress-black-dress-babyboo-fashion-31331579297855_1024x_96f0c80c-fa2e-442a-b964-2b397257ddad.jpg?v=1755611405
-  - [Siyah / S](https://www.thesveltechic.com/products/harriet?variant=46963310067957)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/alecia-maxi-dress-black-dress-babyboo-fashion-31331579297855_1024x_96f0c80c-fa2e-442a-b964-2b397257ddad.jpg?v=1755611405
-    Price: ₺3.720,00 TRY
-  - [Siyah / M](https://www.thesveltechic.com/products/harriet?variant=46963310100725)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/alecia-maxi-dress-black-dress-babyboo-fashion-31331579297855_1024x_96f0c80c-fa2e-442a-b964-2b397257ddad.jpg?v=1755611405
-    Price: ₺3.720,00 TRY
-  - [Siyah / L](https://www.thesveltechic.com/products/harriet?variant=46963310133493)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/alecia-maxi-dress-black-dress-babyboo-fashion-31331579297855_1024x_96f0c80c-fa2e-442a-b964-2b397257ddad.jpg?v=1755611405
-    Price: ₺3.720,00 TRY
-  - [Kırmızı / S](https://www.thesveltechic.com/products/harriet?variant=46963310166261)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/23be86da47b95e95be77002fd0d38534_1080x_dc655342-f18c-4a1a-9cdc-b14bb59abb22.jpg?v=1755611411
-    Price: ₺3.720,00 TRY
-  - [Kırmızı / M](https://www.thesveltechic.com/products/harriet?variant=46963310199029)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/23be86da47b95e95be77002fd0d38534_1080x_dc655342-f18c-4a1a-9cdc-b14bb59abb22.jpg?v=1755611411
-    Price: ₺3.720,00 TRY
-  - [Kırmızı / L](https://www.thesveltechic.com/products/harriet?variant=46963310231797)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/23be86da47b95e95be77002fd0d38534_1080x_dc655342-f18c-4a1a-9cdc-b14bb59abb22.jpg?v=1755611411
-    Price: ₺3.720,00 TRY
-- [Anastasia Tüy Detaylı Straplez Maxi Elbise Siyah](https://www.thesveltechic.com/products/anastasia): Anastasia Tüylü Elbise ile sahneye adım atın—unutulmaz girişler ve saf, dikkat çekici bir ihtişam için tasarlandı. Zarif tüy detayları yumuşak, zengin tüylerle lüks ve dokunsal bir his katarak anında tüm dikkatleri üzerinize çekiyor. Vücuda oturan klasik kesim zamansız silüeti ile vücudunuzu sararak her yüksek profilli davet için mükemmel, sofistike bir görünüm sunuyor. Üstün işçilik ile birinci sınıf malzemelerden üretilen bu elbise, hem göründüğü kadar lüks bir his sunar, hem de her giydiğinizde rahatlık ve özgüven sağlar. Straplez yaka tasarımı ile omuzlarınızı zarif bir şekilde ortaya çıkarırken, maxi boy ile şık ve etkileyici bir siluet oluşturur. Özel davetler, gala geceleri, düğünler ve kokteyl partileri için ideal. Siyah rengi ile her aksesuar ile uyum sağlar. Yüksek kaliteli saten kumaş yapısı ile konforlu kullanım sunar. Her daveti kişisel podyumunuza dönüştürün.
-  Updated: 2026-04-20T11:04:41Z
-  Vendor: THESVELTECHIC
-  Product Type: Dresses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/435102674_18332233033141053_989449537161233245_n.jpg?v=1755611405
-  - [Siyah / S](https://www.thesveltechic.com/products/anastasia?variant=46963309969653)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/435102674_18332233033141053_989449537161233245_n.jpg?v=1755611405
-    Price: ₺7.400,00 TRY
-  - [Siyah / M](https://www.thesveltechic.com/products/anastasia?variant=46963310002421)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/435102674_18332233033141053_989449537161233245_n.jpg?v=1755611405
-    Price: ₺6.300,00 TRY
-  - [Siyah / L](https://www.thesveltechic.com/products/anastasia?variant=46963310035189)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/435102674_18332233033141053_989449537161233245_n.jpg?v=1755611405
-    Price: ₺6.300,00 TRY
-- [Ciara Büstiyer Midi Elbise Pembe Straplez](https://www.thesveltechic.com/products/ciara): Kendine güven ve şıklık dolu bir adım atın: Ciara Büstiyer Midi Elbise ile modern zarafet, her ortamda kusursuz, feminen bir uyumla buluşuyor. Zarif büstiyer kesim yapılandırılmış üst kısmı göğüslerinizi şekillendirir ve destekler, her giydiğinizde size özgüven veren bir görünüm sunar. Klasik midi silüet şık ve rahat midi boyu ile brunch, davet veya akşam çıkışları için mükemmel bir tercih sunar. Bel incelten stil özel kesimiyle vücuda oturur ve kusursuz bir siluet oluşturur. Straplez tasarımı ile omuzlarınızı güzelce ortaya çıkarır. Pembe rengiyle feminen ve romantik bir görünüm sağlar. A-line kesimi her vücut tipine uyum sağlar. Özel günler, davetler, akşam yemekleri için ideal. Topuklu ayakkabılar ve zarif aksesuarlarla kombinleyebilirsiniz. Kaliteli kumaş yapısı ile uzun süre kullanım imkanı sunar.
-  Updated: 2026-04-20T11:03:54Z
-  Vendor: THESVELTECHIC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/EMELIA_GEORGETTE_MIDI_8.jpg?v=1755611412
-  - [Pembe / S](https://www.thesveltechic.com/products/ciara?variant=46963312427253)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/EMELIA_GEORGETTE_MIDI_8.jpg?v=1755611412
-    Price: ₺4.500,00 TRY
-  - [Pembe / M](https://www.thesveltechic.com/products/ciara?variant=46963312460021)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/EMELIA_GEORGETTE_MIDI_8.jpg?v=1755611412
-    Price: ₺4.500,00 TRY
-  - [Pembe / L](https://www.thesveltechic.com/products/ciara?variant=46963312492789)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/EMELIA_GEORGETTE_MIDI_8.jpg?v=1755611412
-    Price: ₺4.500,00 TRY
-  - [Pembe / XL](https://www.thesveltechic.com/products/ciara?variant=46963312525557)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/EMELIA_GEORGETTE_MIDI_8.jpg?v=1755611412
-    Price: ₺4.500,00 TRY
 - [Aniyah Askısız Bodycon Maxi Elbise Bordo Tek Omuz](https://www.thesveltechic.com/products/aniyah): Aniyah Askısız Bodycon Maxi Elbise ile her etkinlikte gözleri üzerinize çekin. Vücuda oturan şık bodycon kesimi doğal güzelliğinizi ön plana çıkarırken, zarif askısız tasarımı omuzlarınızı ve köprücük kemiğinizi vurgular. Klasik maxi boyu ile ekstra şıklık katan bu elbise, özel ve resmi etkinlikler için mükemmel seçim. Saten kumaşı sayesinde lüks bir his veren elbise, 4 farklı renk seçeneği ile stilinizi yansıtmanıza olanak tanır. Vücudunuzu nazikçe saran kesimi ile kendinden emin bir görünüm sunar. Akşam yemekleri, kokteyl partileri, düğün ve özel davetler için ideal. Yüksek kaliteli saten kumaşı ile konforlu kullanım sağlar. Zamansız şıklığı ve modern dokunuşu ile gardırobunuzun vazgeçilmezi olacak.
-  Updated: 2026-04-20T10:59:23Z
+  Updated: 2026-05-06T23:44:04Z
   Vendor: THESVELTECHIC
   Product Type: Dresses
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/b3cef6b656c1f33de01edffd0007ac9e_823x_f5f9c7f2-2508-422a-bf15-1083e8a0e2b4.webp?v=1755611419
+  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/028eaa3397034da4b5a37c7fa63ede11_823x_b65403cd-e459-4937-ae20-fb3585798846.webp?v=1755611420
   - [Burgundy / Çok Dar](https://www.thesveltechic.com/products/aniyah?variant=46963317440757)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/b3cef6b656c1f33de01edffd0007ac9e_823x_f5f9c7f2-2508-422a-bf15-1083e8a0e2b4.webp?v=1755611419
@@ -30043,50 +29561,6 @@ Key facts about The Sveltechic:
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/1_3688ecc1-65f3-4b2c-af4b-92720081da57.jpg?v=1755611456
     Price: ₺5.100,00 TRY
-- [Charlotte Askılı Maxi Elbise Siyah Beyaz Açık Sırt](https://www.thesveltechic.com/products/charlotte): Her girişinizi birer ifadeye dönüştürün: Şıklık, zarafet ve unutulmaz bir duruş için tasarlanan Charlotte Askılı Maxi Elbise ile tanışın. Zarif askılı silüet, yumuşak ince askılar ve açık sırt tasarımı ile vücudunuzu vurgulayarak son derece feminen ve modern bir görünüm kazandırır. Akıcı maxi boy uzun eteğin vücudu saran drapesi ve zarif hareketiyle öne çıkın; resmi davetler ve özel geceler için mükemmel bir tercih. Cesur kontrast detaylar ile çarpıcı renk vurguları kişiliğinizi ön plana çıkarır, zamansız şıklığınız ve rafine duruşunuzla dikkatleri üzerinize çeker. Kalp yaka tasarımı ve A-line kesimi ile her vücut tipine uygun. Şifon kumaşın akışkan yapısı hareket halindeyken zarif bir görünüm sağlar. Özel geceler, kokteyl partileri, düğün davetleri ve romantik akşam yemekleri için ideal. Yüksek topuklu ayakkabılar ve minimal takılarla kombinleyerek şıklığınızı tamamlayın.
-  Updated: 2026-04-20T11:10:59Z
-  Vendor: THESVELTECHIC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/EMELIA_KAIA_DRESS_1.jpg?v=1755611450
-  - [Siyah ve Beyaz / S](https://www.thesveltechic.com/products/charlotte?variant=46963335299317)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/EMELIA_KAIA_DRESS_1.jpg?v=1755611450
-    Price: ₺9.600,00 TRY
-  - [Siyah ve Beyaz / M](https://www.thesveltechic.com/products/charlotte?variant=46963335332085)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/EMELIA_KAIA_DRESS_1.jpg?v=1755611450
-    Price: ₺9.600,00 TRY
-- [Çıkarılabilir Askılı Transparan Detaylı Maxi Abiye Elbise Kahverengi](https://www.thesveltechic.com/products/zola): Her girişi unutulmaz kılın; Zola Çıkarılabilir Askılı Maxi Elbise ile her zaman öne çıkan, şık ve çok yönlü stilin mükemmel seçimini keşfedin. Kişiselleştirilebilir Görünümler: Çıkarılabilir askılar sayesinde kolayca askılı veya askısız stile geçiş yapabilir, tek bir elbisede iki etkileyici seçeneğe sahip olabilirsiniz. Benzersiz Büküm Detayı: Ön kısımdaki zarif büküm, sofistike dokunuşuyla kombininize göz alıcı bir vurgu katar. Transparan Detaylar: Zarif transparan paneller, zamansız şıklığı modern bir dokunuşla birleştirerek göz alıcı bir stil sunar. Premium saten kumaştan üretilen bu maxi elbise, özel geceler, düğünler ve kokteyl partileri için mükemmel. Slim fit kalıbı vücut hatlarınızı zarif şekilde sararak feminen bir silüet oluşturur. Straplez yaka tasarımı ile omuzlarınızı güzelce vurgular. Kahverengi ve siyah renk seçenekleri ile gardırobunuzun vazgeçilmezi olacak. S, M, L bedenleri mevcuttur. Gardırobunuzu bu muhteşem elbiseyle yenileyin—her özel an için mükemmel seçim.
-  Updated: 2026-04-20T11:05:57Z
-  Vendor: THESVELTECHIC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/474882340_18480645337016155_5200083262451018828_n.jpg?v=1755611464
-  - [Kahverengi / S](https://www.thesveltechic.com/products/zola?variant=46963339100405)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/474882340_18480645337016155_5200083262451018828_n.jpg?v=1755611464
-    Price: ₺4.800,00 TRY
-  - [Kahverengi / M](https://www.thesveltechic.com/products/zola?variant=46963339133173)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/474882340_18480645337016155_5200083262451018828_n.jpg?v=1755611464
-    Price: ₺4.800,00 TRY
-  - [Kahverengi / L](https://www.thesveltechic.com/products/zola?variant=46963339165941)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/474882340_18480645337016155_5200083262451018828_n.jpg?v=1755611464
-    Price: ₺4.800,00 TRY
-  - [Siyah / S](https://www.thesveltechic.com/products/zola?variant=46963339198709)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/IMG-7632.webp?v=1755611469
-    Price: ₺4.800,00 TRY
-  - [Siyah / M](https://www.thesveltechic.com/products/zola?variant=46963339231477)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/IMG-7632.webp?v=1755611469
-    Price: ₺4.800,00 TRY
-  - [Siyah / L](https://www.thesveltechic.com/products/zola?variant=46963339264245)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/IMG-7632.webp?v=1755611469
-    Price: ₺4.800,00 TRY
 - [Aaliyah | V Yaka Kolsuz Maxi Elbise](https://www.thesveltechic.com/products/aaliyah): Aaliyah V Yaka Kolsuz Maxi Elbise ile unutulmaz bir zarafete adım atın, her özel davette parlamanız için tasarlandı. Vücudu Saran Derin V Yaka: Cesur yaka detayı, vücut hatlarınızı zarifçe vurgular; her ortama uygun iddialı ve rafine bir görünüm sunar. Zamansız Maxi Siluet: Yere kadar uzanan tasarımı ile zarif bir duruş sağlar, sizi daha uzun gösterir ve klasik bir şıklık sunar. Zahmetsiz Kolsuz Stil: Gösterişli takılarınızı ön plana çıkarmak veya sade ve şık görünmek için ideal, çok yönlü kullanım imkânı sağlar. Aaliyah Maxi Elbise’yi bugün koleksiyonunuza ekleyin ve bir sonraki davette kendinizden emin bir şekilde öne çıkın!
   Updated: 2026-04-07T22:47:47Z
   Vendor: THESVELTECHIC
@@ -31358,7 +30832,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1757556216714.jpg?v=1758531029
     Price: ₺3.510,00 TRY
 - [Dantel Kenar Saten Uzun Etek Siyah Orta Bel](https://www.thesveltechic.com/products/lace-hem-satin-maxi-skirt): Şık dantel detayları ile dikkat çeken saten uzun etek, zarif görünümünüz için mükemmel bir seçim. %95 Polyester, %5 Elastan karışımı kumaşı ile konforlu kullanım sunar. Orta bel kesimi ve maxi boyu ile modern kadının vazgeçilmezi. Normal kalıp yapısı her vücut tipine uyum sağlar. Özel günlerinizde ve günlük kombinlerinizde rahatlıkla tercih edebileceğiniz bu etek, gardırobunuzun klasik parçalarından biri olacak. Saten kumaşının verdiği şık görünüm ile her ortamda öne çıkmanızı sağlar. Dantel kenar detayları feminen dokunuşlar katarken, uzun kesimi ile zarif bir silüet oluşturur. 30°C'de yıkanabilir, ağartıcı kullanılmamalıdır. Benzer renklerle yıkayarak uzun ömürlü kullanım sağlayabilirsiniz.
-  Updated: 2026-04-18T10:53:05Z
+  Updated: 2026-05-05T19:56:48Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -32229,27 +31703,6 @@ Key facts about The Sveltechic:
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1761291930459.jpg?v=1761310353
     Price: ₺4.680,00 TRY
-- [Renk Bloklu Omuz Dekolteli Pilili Uzun Elbise Siyah Beyaz](https://www.thesveltechic.com/products/color-block-off-shoulder-pleated-maxi-dress): Zamansız şıklık ve zahmetsiz elegansın buluştuğu bu vazgeçilmez kolsuz maxi elbise ile tarzınızı tamamlayın. Renk bloklu tasarımı ve omuz dekolteli kesimi ile her özel anınızda göz kamaştırın. 🌟 RAHAT KUMAŞ: Polyester ve elastan karışımından üretilen bu elbise, gün boyu cildinizde yumuşak ve narin bir his bırakır. Nefes alabilir yapısı sayesinde uzun saatler boyunca konfor sunar. 👗 VÜCUDA UYUMLU TASARIM: Düz yakası ve normal kesimiyle bu maxi elbise, her vücut tipinde zarif bir siluet oluşturur. Pilili detayları ile feminen bir görünüm kazandırır. ✨ KOLAY BAKIM: Bakımı son derece kolaydır—yalnızca 30°C'de yıkayın, ağartıcı kullanmayın ve düşük ısıda ütüleyin. Tazelik ve şıklığı uzun süre korur. KOMBİN ÖNERİLERİ: Akşam davetleri için topuklu ayakkabılar ve minimal takılarla, günlük kullanım için beyaz sneaker ve denim ceketla kombinleyebilirsiniz. Çanta seçiminde siyah veya beyaz tonları tercih edin. ÖZELLİKLER: - Kolsuz tasarım - Maxi boy - Renk bloklu desen - Omuz dekolteli - Pilili detaylar - Regular fit - Polyester-elastan karışımı - 30°C yıkama Gardırobunuzu bu şık maxi elbise ile yenileyin ve her giydiğinizde özgüven, rahatlık ve stilin tadını çıkarın!
-  Updated: 2026-04-06T13:09:45Z
-  Vendor: THESVELTECHIC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/O1CN010tlIEy2MznhFhHVZx__2208496619899-0-cib.jpg?v=1761561009
-  - [BlackandWhite / XS](https://www.thesveltechic.com/products/color-block-off-shoulder-pleated-maxi-dress?variant=47236893638901)
-    Availability: Available
-    Price: ₺4.800,00 TRY
-  - [BlackandWhite / S](https://www.thesveltechic.com/products/color-block-off-shoulder-pleated-maxi-dress?variant=47236893671669)
-    Availability: Available
-    Price: ₺4.800,00 TRY
-  - [BlackandWhite / M](https://www.thesveltechic.com/products/color-block-off-shoulder-pleated-maxi-dress?variant=47236893704437)
-    Availability: Available
-    Price: ₺4.800,00 TRY
-  - [BlackandWhite / L](https://www.thesveltechic.com/products/color-block-off-shoulder-pleated-maxi-dress?variant=47236893737205)
-    Availability: Available
-    Price: ₺4.800,00 TRY
-  - [BlackandWhite / XL](https://www.thesveltechic.com/products/color-block-off-shoulder-pleated-maxi-dress?variant=47236893769973)
-    Availability: Available
-    Price: ₺4.800,00 TRY
 - [Suni Süet Diz Altı Çizmeler Kahverengi 5cm Topuk](https://www.thesveltechic.com/products/faux-suede-knee-high-boots): Her gün şıklık ve özgüvenle adım atın! Bu zarif ince topuklu diz altı çizmeler, her kombininizi zahmetsizce yükseltmek için mükemmel bir seçim. Yumuşak mikrofiber suni süet malzemeden üretilen bu çizmeler, şık bir görünüm ve günlük kullanım için artırılmış dayanıklılık sunar. Yumuşak poliüretan astar, gün boyu rahatlık sağlayarak ayaklarınızın sabahtan akşama kadar sıcak ve destekli kalmasını mümkün kılar. 5 cm (2 inç) boyunda modern kedi topuğu ve sağlam kauçuk tabanı ile bu çizmeler ideal yükseklik ve güvenilir tutuş sunar. Sonbahar ve kış aylarında kombinlerinizi tamamlayacak bu şık çizmeler, hem günlük hem de özel günlerde rahatlıkla kullanılabilir. Mikrofiber deri malzemesi kolay temizlik imkanı sunarken, ergonomik tasarımı uzun süreli kullanımda bile ayak sağlığınızı korur. Klasik kahverengi rengi ile her kıyafetinizle uyum sağlar.
   Updated: 2026-04-06T13:09:50Z
   Vendor: THESVELTECHIC
@@ -33354,7 +32807,7 @@ Key facts about The Sveltechic:
     Availability: Available
     Price: ₺7.100,00 TRY
 - [Dantel Asimetrik Uzun Abiye Elbise Kahverengi Straplez](https://www.thesveltechic.com/products/dantel-asimetrik-uzun-abiye-elbise): Lüks dantel kumaşıyla özel günlerinizin vazgeçilmezi olan asimetrik kesimli uzun abiye elbise. %50 pamuk %50 premium polyester karışımı kumaşı sayesinde hem şık hem de rahat. Straplez tasarımı ve asimetrik kesimiyle modern bir görünüm sunar. Özel günler, düğün, nişan ve gala geceleriniz için ideal. Sipariş üzerine ölçüye özel üretim imkanı. Maksimum 30°C'de hassas yıkama önerilir. Ara bedenler bir beden büyük tercih etmelidir. Manken: 172 cm, 59 kg, M beden. Kumaş seçimi ve kesimiyle lüks dokunuşunu üzerinde hissedin.
-  Updated: 2026-04-27T11:52:09Z
+  Updated: 2026-05-09T16:38:37Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -33384,7 +32837,7 @@ Key facts about The Sveltechic:
     Availability: Available
     Price: ₺7.200,00 TRY
 - [Örgü Dantel Mini Abiye Elbise Haki Tek Omuz](https://www.thesveltechic.com/products/orgu-dantel-mini-abiye-elbise): Eşsiz tasarımıyla sizi her ortamda öne çıkaracak örgü dantel mini abiye elbise. %60 pamuk %40 premium polyester karışımı kumaşı ile hem şık hem rahat. Tek omuz detayı ve uzun kollarıyla modern bir görünüm sunar. Slim fit kalıbı vücut hatlarınızı mükemmel şekilde sararak zarif bir silüet oluşturur. Sipariş üzerine ölçüye özel üretim ile size tam uyum garantisi. Özel geceler, davetler ve önemli buluşmalar için ideal. Haki rengi ile doğal ve sofistike bir tarz yakalayın. Maksimum 30°C'de hassas yıkama, 110°C'de ütüleme yapılabilir. Ara bedenler için bir beden büyük tercih edilmesi önerilir. Manken: 1.72 boy, 56 kg, S beden kullanılmıştır.
-  Updated: 2026-04-20T11:01:11Z
+  Updated: 2026-05-06T11:24:23Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -33655,7 +33108,7 @@ Key facts about The Sveltechic:
     Availability: Available
     Price: ₺6.300,00 TRY
 - [Kolsuz Fırfırlı Mini Elbise Kare Yaka Denizyıldızı Desenli Kahverengi](https://www.thesveltechic.com/products/kolsuz-firfirli-mini-elbise-kare-yaka-denizyildizi-desenli-kahverengi): Yaz sezonunun en şık parçası olan bu kolsuz mini elbise, kare yaka detayı ve fırfırlı etek tasarımıyla dikkat çekiyor. Denizyıldızı deseni ile plaj tatillerinden şehir kombinlerine kadar her ortamda rahatlıkla kullanabileceğiniz bu elbise, saten kumaşı sayesinde zarif bir görünüm sunuyor. Tek omuz detayı ile modern bir dokunuş katılan elbise, slim fit kalıbıyla vücut hatlarınızı mükemmel şekilde sarıyor. Özel günlerinizde ve günlük kombinlerinizde tercih edebileceğiniz bu elbiseyi, topuklu ayakkabılar ve minimal aksesuarlarla tamamlayarak şık bir görünüm elde edebilirsiniz. Yüksek kaliteli saten kumaşı sayesinde uzun süre kullanabileceğiniz bu elbise, gardırobunuzun vazgeçilmez parçalarından biri olacak. S, M ve L beden seçenekleriyle her vücut tipine uygun olarak tasarlanmıştır.
-  Updated: 2026-04-20T10:57:41Z
+  Updated: 2026-05-06T11:26:10Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -33715,7 +33168,7 @@ Key facts about The Sveltechic:
     Availability: Available
     Price: ₺4.300,00 TRY
 - [Boyundan Bağlamalı Sırtı Açık Yüksek Bel Fırfırlı Mini Elbise](https://www.thesveltechic.com/products/boyundan-baglamali-sirti-acik-yuksek-bel-firfirli-mini-elbise): Zarif ve seksi tasarımıyla dikkat çeken bu mini elbise, yaz gardırobunuzun vazgeçilmezi olacak. Boyundan bağlamalı detayı ve sırtı açık tasarımıyla feminen bir görünüm sunar. Yüksek bel kesimi vücut hatlarınızı mükemmel şekilde ortaya çıkarırken, fırfırlı detayları elbiseye romantik bir hava katar. Özellikler: • Boyundan bağlamalı yüksek yaka tasarım • Sırtı tamamen açık seksi kesim • Yüksek bel ile vücut hatlarını belirginleştiren kalıp • Fırfırlı detaylarla romantik görünüm • A-line kesim ile rahat hareket imkanı • Mini boy ile genç ve dinamik stil • Şifon kumaş ile hafif ve akışkan yapı • Yaz ayları için ideal nefes alabilir materyal Kombinleme Önerileri: Toplantı ve özel davetler için topuklu ayakkabılar ve minimal aksesuarlarla kombinleyebilirsiniz. Günlük kullanım için sandalet ve hafif bir ceket ile tamamlayabilirsiniz. Altın rengi aksesuarlar elbiseyle mükemmel uyum sağlar. Bakım: Elde yıkama önerilir, düşük ısıda ütüleme yapılabilir.
-  Updated: 2026-04-20T11:13:32Z
+  Updated: 2026-05-06T11:15:29Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -33792,8 +33245,8 @@ Key facts about The Sveltechic:
   - [L](https://www.thesveltechic.com/products/puantiyeli-v-yaka-a-kesim-mini-elbise-pudra-kelebek-detayli?variant=47908174463221)
     Availability: Available
     Price: ₺4.500,00 TRY
-- [V Yaka Puantiyeli Mini Elbise Beyaz Siyah Halter Yaka](https://www.thesveltechic.com/products/v-yaka-puantiyeli-mini-elbise-beyaz-siyah-halter-yaka): Şık ve feminen V yaka puantiyeli mini elbise ile yazın en trend parçasına sahip olun. Halter yaka tasarımı ve arkası açık detaylarıyla dikkat çeken bu elbise, özel günlerinizde ve günlük kombinlerinizde rahatlıkla kullanabileceğiniz çok yönlü bir parça. Pamuklu kumaşı sayesinde tüm gün konforlu bir kullanım sunar. Beyaz zemin üzerindeki siyah puantiyeli deseni klasik ve zamansız bir görünüm yaratır. A-line kesimi vücut hatlarını güzelce sararak flatöz bir silüet oluşturur. Yaz aylarının vazgeçilmez parçası olan bu elbiseyi kot ceket, sandalet veya topuklu ayakkabılarla kombinleyebilirsiniz. S, M, L bedenlerinde mevcut olan elbise, genç ve dinamik kadınlar için tasarlanmıştır. Özel günlerinizde, tatilde, arkadaş buluşmalarında rahatlıkla tercih edebileceğiniz bu şık elbise gardırobunuzun vazgeçilmez parçası olacak.
-  Updated: 2026-04-20T11:03:37Z
+- [Marine Mini Dress](https://www.thesveltechic.com/products/v-yaka-puantiyeli-mini-elbise-beyaz-siyah-halter-yaka): Şık ve feminen V yaka puantiyeli mini elbise ile yazın en trend parçasına sahip olun. Halter yaka tasarımı ve arkası açık detaylarıyla dikkat çeken bu elbise, özel günlerinizde ve günlük kombinlerinizde rahatlıkla kullanabileceğiniz çok yönlü bir parça. Pamuklu kumaşı sayesinde tüm gün konforlu bir kullanım sunar. Beyaz zemin üzerindeki siyah puantiyeli deseni klasik ve zamansız bir görünüm yaratır. A-line kesimi vücut hatlarını güzelce sararak flatöz bir silüet oluşturur. Yaz aylarının vazgeçilmez parçası olan bu elbiseyi kot ceket, sandalet veya topuklu ayakkabılarla kombinleyebilirsiniz. S, M, L bedenlerinde mevcut olan elbise, genç ve dinamik kadınlar için tasarlanmıştır. Özel günlerinizde, tatilde, arkadaş buluşmalarında rahatlıkla tercih edebileceğiniz bu şık elbise gardırobunuzun vazgeçilmez parçası olacak.
+  Updated: 2026-05-06T23:41:26Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -33998,11 +33451,11 @@ Key facts about The Sveltechic:
     Availability: Available
     Price: ₺5.900,00 TRY
 - [Virelle Maxi Dress](https://www.thesveltechic.com/products/cicek-islemeli-maxi-elbise-acik-kalp-yaka): Elegance Elbise, sofistike ve feminen çekiciliğin mükemmel birleşimi. Yumuşak şampanya-sarısı tonunda tasarlanan bu vücuda oturan maxi elbise, zarif ve rafine bir görünüm korurken silueti güzelce vurgular. Narin çiçek nakışları şeffaf mesh taban üzerine işlenmiş, hem lüks hem de zarif hissettiren romantik dokulu bir etki yaratır. Yapısal göğüs kısmı, ince askıları ve vücudu saran flatöz kesimiyle bu elbise, özel günler, akşam etkinlikleri veya zahmetsiz tarzla öne çıkmak istediğiniz zarif kutlamalar için idealdir. İnce çiçek detayları romantik ve lüks bir dokunuş katarken, vücuda oturan kesim doğal kıvrımlarınızı güzelce vurgular. Zamansız şampanya tonu sofistike ve ışıltılı görünür. Düğünler, partiler ve zarif akşam etkinlikleri için mükemmeldir.
-  Updated: 2026-04-27T22:29:58Z
+  Updated: 2026-05-08T01:04:45Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/nefertiti-maxi-dress-lemon-dress-babyboo-fashion-1176523960_800x_27863525-c280-492b-a74e-09efd34386d6.webp?v=1777285492
+  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/nefertiti-maxi-dress-lemon-dress-babyboo-fashion-1176251078_800x_52b798e7-3ca6-47b1-acb9-796a66201631.webp?v=1777285492
   - [Sarı / XS](https://www.thesveltechic.com/products/cicek-islemeli-maxi-elbise-acik-kalp-yaka?variant=47917475561717)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/nefertiti-maxi-dress-lemon-dress-babyboo-fashion-1176523960_800x_27863525-c280-492b-a74e-09efd34386d6.webp?v=1777285492
@@ -34104,7 +33557,7 @@ Key facts about The Sveltechic:
     Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/nefertiti-maxi-dress-burgundy-dress-babyboo-fashion-1215950264_800x_98632f5c-0491-47c3-8b1e-7b8083e29b3f.webp?v=1777285749
     Price: ₺6.900,00 TRY
 - [Arkası Bağcıklı Maxi Elbise](https://www.thesveltechic.com/products/maxi-elbise-bordo-arkasi-bagcikli-saten): Maxi Elbise ile zarafeti keşfedin. Derin bordo renkte tasarlanan bu büyüleyici abiye, yapılandırılmış korse tarzı üst kısmı ve akışkan saten eteği ile mükemmel bir siluet yaratır. Kalp yaka kesimi ve ayarlanabilir askıları décolletage bölgesini zarif bir şekilde çerçeveler. Arkadaki bağcık detayı romantik bir dokunuş katarken mükemmel uyum sağlar. Belden aşağı akan saten maxi etek, kalçaları zarif bir şekilde sarar ve her adımda sinematik bir hareket yaratır. Kum saati siluetini vurgulayan bu elbise, klasik gece elbisesinin modern ve sofistike yorumu. Siyah kravatlı etkinlikler, zarif davetler, kış galaları, lüks akşam yemekleri, nişan kutlamaları ve yılbaşı gecesi için ideal. Sorunsuz iç çamaşırı veya meme ucu kapatıcıları ile kullanılması önerilir. Esnek faktör 2/3. Model 1.73m boyunda ve XS beden giyiyor. Premium saten kumaşı ve kusursuz kesimi ile özel anlarınızı unutulmaz kılacak bu elbise, gardırobunuzun vazgeçilmez parçası olacak.
-  Updated: 2026-04-22T00:34:18Z
+  Updated: 2026-05-07T19:55:56Z
   Vendor: THESVELTECHIC
   Product Type: Dresses
   Availability: Available
@@ -34184,8 +33637,8 @@ Key facts about The Sveltechic:
   - [Sarı / XL](https://www.thesveltechic.com/products/maxi-elbise-bordo-arkasi-bagcikli-saten?variant=47917491618037)
     Availability: Available
     Price: ₺7.400,00 TRY
-- [Halter Yaka Maxi Elbise Mor Pileli Detaylı](https://www.thesveltechic.com/products/halter-yaka-maxi-elbise-mor-pileli-detayli): Maxi elbise, halter yaka tasarımı ve katmanlı pileli detaylarıyla zarif bir görünüm sunar. Vücuda oturan korse kısmı ve asimetrik etek kesimi ile hem şık hem rahat bir kullanım sağlar. Hafif ve nefes alabilir kumaşı sayesinde sıcak havalarda ideal bir seçimdir. Arkada gizli fermuarı ile temiz bir bitim sunar. Günlük etkinlikler ve özel davetler için mükemmel bir parça. Yumuşak dökümlü tasarımı ile midi ve maxi boy arasında zarif bir uzunluk sunar. Rafine ama gösterişsiz bir siluet arayanlar için ideal. Yüksek kaliteli şifon kumaşı ile üretilmiştir. Tüm beden seçenekleri mevcuttur.
-  Updated: 2026-04-22T10:21:55Z
+- [Flora Maxi Elbise](https://www.thesveltechic.com/products/halter-yaka-maxi-elbise-mor-pileli-detayli): Maxi elbise, halter yaka tasarımı ve katmanlı pileli detaylarıyla zarif bir görünüm sunar. Vücuda oturan korse kısmı ve asimetrik etek kesimi ile hem şık hem rahat bir kullanım sağlar. Hafif ve nefes alabilir kumaşı sayesinde sıcak havalarda ideal bir seçimdir. Arkada gizli fermuarı ile temiz bir bitim sunar. Günlük etkinlikler ve özel davetler için mükemmel bir parça. Yumuşak dökümlü tasarımı ile midi ve maxi boy arasında zarif bir uzunluk sunar. Rafine ama gösterişsiz bir siluet arayanlar için ideal. Yüksek kaliteli şifon kumaşı ile üretilmiştir. Tüm beden seçenekleri mevcuttur.
+  Updated: 2026-05-06T23:37:28Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -34245,7 +33698,7 @@ Key facts about The Sveltechic:
     Availability: Available
     Price: ₺5.500,00 TRY
 - [Puantiyeli Maxi Elbise](https://www.thesveltechic.com/products/puantiyeli-maxi-elbise-siyah-beyaz-askili): Şık, feminen ve zahmetsizce ikonik. Noemia Maxi Elbise, modern bir dokunuşla zamansız bir parça. Vücudu saran iltifat edici silueti, narin askıları, yumuşak yaka hattı ve her adımda güzel hareket eden akışkan şeffaf eteği ile tasarlanmıştır. Puantiyeli baskı onu eğlenceli tutar, dahili eşarp detayı ise o yükseltilmiş, editöryal dokunuş ekler - gevşek, sarılı veya arkada akarak etkileyici bir görünüm için giyebilirsiniz. Hafif, zarif ve her açıdan dikkat çekmek için yapılmış. Akşam yemekleri, etkinlikler veya zahmetsizce bir arada hissetmek istediğiniz geceler için mükemmel. Klasik ama asla sıradan değil. Özellikler: - Vücudu saran iltifat edici maxi silüet - Narin hareketle yumuşak şeffaf etek - Çoklu stil seçenekleri için gösterişli eşarp detayı - Hafif, akışkan kumaş - Modern hisli zamansız puantiyeli baskı Kumaş: Şifon karışımı, hafif ve nefes alabilir Kalıp: Vücudu saran, maxi boy Bakım: Elde yıkama önerilir Model: 170 cm boyunda, S beden giyiyor
-  Updated: 2026-04-20T10:59:21Z
+  Updated: 2026-05-04T12:56:07Z
   Vendor: THESVELTECHIC
   Product Type: DRESSES
   Availability: Available
@@ -34428,28 +33881,73 @@ Key facts about The Sveltechic:
     Availability: Available
     Price: ₺4.400,00 TRY
 - [Gömlek ve Şort İkili Takım](https://www.thesveltechic.com/products/cicekli-kolsuz-gomlek-ve-sort-i̇kili-takim-bej): Yaz sezonunun vazgeçilmez parçası olan bu şık ikili takım, kolsuz gömlek ve şort kombininden oluşuyor. Çiçekli desenli üst, kare yaka detayı ve önden düğme kapama ile feminen bir görünüm sunar. Rahat kesimli şort ise cep detayları ile hem şık hem de fonksiyonel. Pamuklu kumaşı sayesinde nefes alır ve tüm gün konfor sağlar. Günlük kullanım, tatil, plaj gezileri ve yaz etkinlikleri için ideal. Bej rengi ile her yaştan kadının gardırobuna uyum sağlar. S'den XXL'e kadar geniş beden seçenekleri mevcut. Yüksek kaliteli dikişi ve dayanıklı kumaşı ile uzun süre kullanım imkanı sunar. Kolay bakım, makine yıkama uygun. Tişört, bluz veya tek başına giyilebilir çok amaçlı tasarım.
-  Updated: 2026-04-20T11:02:14Z
+  Updated: 2026-05-08T07:19:21Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/O1CN01YNJVom1NmLYf9F1qf__2219507431612-0-cib.jpg?v=1775559042
-  - [S](https://www.thesveltechic.com/products/cicekli-kolsuz-gomlek-ve-sort-i̇kili-takim-bej?variant=47957876080885)
+  - [S / Siyah](https://www.thesveltechic.com/products/cicekli-kolsuz-gomlek-ve-sort-i̇kili-takim-bej?variant=48131205791989)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/O1CN01ZF2tKs1NmLYkMjBCF__2219507431612-0-cib.jpg?v=1775559042
     Price: ₺4.600,00 TRY
-  - [M](https://www.thesveltechic.com/products/cicekli-kolsuz-gomlek-ve-sort-i̇kili-takim-bej?variant=47957876113653)
+  - [S / Mavi](https://www.thesveltechic.com/products/cicekli-kolsuz-gomlek-ve-sort-i̇kili-takim-bej?variant=48131219620085)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/O1CN01rEXT2M1NmLYl1ln5c__2219507431612-0-cib.jpg?v=1775559042
     Price: ₺4.600,00 TRY
-  - [L](https://www.thesveltechic.com/products/cicekli-kolsuz-gomlek-ve-sort-i̇kili-takim-bej?variant=47957876146421)
+  - [S / Kayısı](https://www.thesveltechic.com/products/cicekli-kolsuz-gomlek-ve-sort-i̇kili-takim-bej?variant=48131219652853)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/O1CN01u480Js1NmLYlVkJKm__2219507431612-0-cib.jpg?v=1775559042
     Price: ₺4.600,00 TRY
-  - [XL](https://www.thesveltechic.com/products/cicekli-kolsuz-gomlek-ve-sort-i̇kili-takim-bej?variant=47957876179189)
+  - [M / Siyah](https://www.thesveltechic.com/products/cicekli-kolsuz-gomlek-ve-sort-i̇kili-takim-bej?variant=48131205857525)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/O1CN01ZF2tKs1NmLYkMjBCF__2219507431612-0-cib.jpg?v=1775559042
     Price: ₺4.600,00 TRY
-  - [XXL](https://www.thesveltechic.com/products/cicekli-kolsuz-gomlek-ve-sort-i̇kili-takim-bej?variant=47957876211957)
+  - [M / Mavi](https://www.thesveltechic.com/products/cicekli-kolsuz-gomlek-ve-sort-i̇kili-takim-bej?variant=48131219685621)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/O1CN01rEXT2M1NmLYl1ln5c__2219507431612-0-cib.jpg?v=1775559042
+    Price: ₺4.600,00 TRY
+  - [M / Kayısı](https://www.thesveltechic.com/products/cicekli-kolsuz-gomlek-ve-sort-i̇kili-takim-bej?variant=48131219718389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/O1CN01u480Js1NmLYlVkJKm__2219507431612-0-cib.jpg?v=1775559042
+    Price: ₺4.600,00 TRY
+  - [L / Siyah](https://www.thesveltechic.com/products/cicekli-kolsuz-gomlek-ve-sort-i̇kili-takim-bej?variant=48131205923061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/O1CN01ZF2tKs1NmLYkMjBCF__2219507431612-0-cib.jpg?v=1775559042
+    Price: ₺4.600,00 TRY
+  - [L / Mavi](https://www.thesveltechic.com/products/cicekli-kolsuz-gomlek-ve-sort-i̇kili-takim-bej?variant=48131219751157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/O1CN01rEXT2M1NmLYl1ln5c__2219507431612-0-cib.jpg?v=1775559042
+    Price: ₺4.600,00 TRY
+  - [L / Kayısı](https://www.thesveltechic.com/products/cicekli-kolsuz-gomlek-ve-sort-i̇kili-takim-bej?variant=48131219783925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/O1CN01u480Js1NmLYlVkJKm__2219507431612-0-cib.jpg?v=1775559042
+    Price: ₺4.600,00 TRY
+  - [XL / Siyah](https://www.thesveltechic.com/products/cicekli-kolsuz-gomlek-ve-sort-i̇kili-takim-bej?variant=48131205988597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/O1CN01ZF2tKs1NmLYkMjBCF__2219507431612-0-cib.jpg?v=1775559042
+    Price: ₺4.600,00 TRY
+  - [XL / Mavi](https://www.thesveltechic.com/products/cicekli-kolsuz-gomlek-ve-sort-i̇kili-takim-bej?variant=48131219816693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/O1CN01rEXT2M1NmLYl1ln5c__2219507431612-0-cib.jpg?v=1775559042
+    Price: ₺4.600,00 TRY
+  - [XL / Kayısı](https://www.thesveltechic.com/products/cicekli-kolsuz-gomlek-ve-sort-i̇kili-takim-bej?variant=48131219849461)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/O1CN01u480Js1NmLYlVkJKm__2219507431612-0-cib.jpg?v=1775559042
+    Price: ₺4.600,00 TRY
+  - [XXL / Siyah](https://www.thesveltechic.com/products/cicekli-kolsuz-gomlek-ve-sort-i̇kili-takim-bej?variant=48131206054133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/O1CN01ZF2tKs1NmLYkMjBCF__2219507431612-0-cib.jpg?v=1775559042
+    Price: ₺4.600,00 TRY
+  - [XXL / Mavi](https://www.thesveltechic.com/products/cicekli-kolsuz-gomlek-ve-sort-i̇kili-takim-bej?variant=48131219882229)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/O1CN01rEXT2M1NmLYl1ln5c__2219507431612-0-cib.jpg?v=1775559042
+    Price: ₺4.600,00 TRY
+  - [XXL / Kayısı](https://www.thesveltechic.com/products/cicekli-kolsuz-gomlek-ve-sort-i̇kili-takim-bej?variant=48131219914997)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/O1CN01u480Js1NmLYlVkJKm__2219507431612-0-cib.jpg?v=1775559042
     Price: ₺4.600,00 TRY
 - [Çiçekli Askılı Maxi Elbise](https://www.thesveltechic.com/products/cicekli-askili-maxi-elbise-beyaz-pembe-sifon): Zarif ve feminen çiçekli askılı maxi elbise, şifon kumaşından üretilmiş olup özel günleriniz için mükemmel bir seçim. Beyaz zemin üzerinde pembe çiçek desenleri ile romantik bir görünüm sunar. A kesim kalıbı sayesinde vücudunuzu sararak zarif bir silüet oluşturur. Straplez yaka tasarımı ile omuzlarınızı güzelce vurgular. Maxi boy ile şık ve gösterişli bir görünüm sağlar. Hafif ve nefes alabilir şifon kumaşı sayesinde tüm gün rahat edersiniz. Düğün, nişan, mezuniyet gibi özel davetlerde tercih edebileceğiniz bu elbise, günlük kombinlerinizde de kullanılabilir. Yüksek kaliteli dikişleri ve detaylı işçiliği ile uzun süre kullanabileceğiniz bir parça. S, M, L, XL beden seçenekleri ile her vücut tipine uygun. Zarif aksesuarlar ve topuklu ayakkabılarla kombinleyerek şık bir görünüm elde edebilirsiniz.
-  Updated: 2026-04-20T11:16:15Z
+  Updated: 2026-05-06T11:38:47Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -34467,11 +33965,11 @@ Key facts about The Sveltechic:
     Availability: Available
     Price: ₺6.300,00 TRY
 - [Fransız Askılı Maxi Elbise](https://www.thesveltechic.com/products/yaz-amazon-etek-yeni-fransiz-retro-uzun-etek-saray-tarzi-dopamin-kadinlar-i-ccedil-in-aski-elbise-giymek): Zarif Fransız retro tarzında tasarlanan bu uzun etek, saray stilini modern kadın gardırobuna taşıyor. Pembe rengiyle dopamin etkisi yaratan bu özel parça, saten benzeri kumaşı ve A-line kesimiyle vücudunuzu zarif bir şekilde saran silüet oluşturuyor. İnce askılı tasarımı sayesinde yaz aylarında rahatlıkla giyebileceğiniz bu etek, midi boy uzunluğuyla hem günlük hem de özel davetlerde kullanım imkanı sunuyor. Straplez yaka detayı ile feminen bir görünüm sağlayan ürün, retro severlerin vazgeçilmezi olmaya aday. Kaliteli kumaş yapısı sayesinde uzun süre kullanım imkanı sunan bu özel tasarım, gardırobunuzun en şık parçalarından biri olacak. Yüksek bel kesimi ile vücut hatlarınızı güzelleştiren bu etek, farklı üstlerle kombinleyerek çeşitli tarzlar yaratmanıza olanak tanıyor.
-  Updated: 2026-04-20T11:08:37Z
+  Updated: 2026-05-06T23:38:07Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/house-of-cb-samaria-raspberry-pink-corset-midi-dress-side-1.avif?v=1775560593
+  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/house-of-cb-samaria-raspberry-pink-corset-midi-dress-lookbook-outdoor-2.avif?v=1775560593
   - [S](https://www.thesveltechic.com/products/yaz-amazon-etek-yeni-fransiz-retro-uzun-etek-saray-tarzi-dopamin-kadinlar-i-ccedil-in-aski-elbise-giymek?variant=47957955510517)
     Availability: Available
     Price: ₺6.300,00 TRY
@@ -34518,7 +34016,7 @@ Key facts about The Sveltechic:
     Availability: Available
     Price: ₺5.700,00 TRY
 - [Straplez Dantel Korse](https://www.thesveltechic.com/products/sinir-ouml-tesi-g-ouml-g-uuml-s-saran-korse-seksi-sirti-a-ccedil-ik-file-ekli-t-uuml-p-uuml-st-kadinlar-i-ccedil-in-ince-dis-giyim-parti-crop-top): Zarif dantel detaylı korse üst ile şıklığınızı ön plana çıkarın. Straplez tasarımı ve sırtı açık kesimi ile parti ve özel günler için mükemmel seçim. İnce dantel kumaşı sayesinde hem şık hem de rahat kullanım sunar. Göğüs bölgesini saran korse kesimi vücut hatlarınızı mükemmel şekilde ortaya çıkarır. Beyaz rengi ile her alt parça ile kolayca kombinlenebilir. Mini boy kesimi ile modern ve genç görünüm sağlar. Slim fit kalıbı sayesinde vücudunuza tam oturur. Parti, kokteyl, özel davet gibi özel günlerinizde tercih edebileceğiniz şık bir üst parçası. Yüksek kaliteli dantel kumaşı uzun süre kullanım imkanı sunar. Straplez tasarımı sayesinde farklı aksesuar seçenekleri ile kombinleyebilirsiniz.
-  Updated: 2026-04-20T11:06:44Z
+  Updated: 2026-05-06T11:20:32Z
   Vendor: THESVELTECHIC
   Product Type: 
   Availability: Available
@@ -34532,54 +34030,6 @@ Key facts about The Sveltechic:
   - [L](https://www.thesveltechic.com/products/sinir-ouml-tesi-g-ouml-g-uuml-s-saran-korse-seksi-sirti-a-ccedil-ik-file-ekli-t-uuml-p-uuml-st-kadinlar-i-ccedil-in-ince-dis-giyim-parti-crop-top?variant=47958050504949)
     Availability: Available
     Price: ₺4.800,00 TRY
-- [Tek Omuz Saten Elbise](https://www.thesveltechic.com/products/tek-omuz-saten-balik-etek-abiye-elbise-sari-arkasi-acik): Zamansız zarafeti yansıtan Fable Abiye Elbise ile özel günlerinizde göz kamaştırın. Canlı sarı rengiyle dikkat çeken bu sofistike maxi elbise, asimetrik tek omuz yaka tasarımı ve ayarlanabilir askılarıyla mükemmel uyum sağlar. İç kısmındaki tutucu bantlar sayesinde güvenli kullanım sunar. Büst, bel ve kalça bölgesinde vücuda oturan kesimi, dramatik balık etek detayı ve kuyruk uzantısıyla büyüleyici bir siluet oluşturur. Esnek olmayan dokulu saten kumaş ve kontrast şifon etek kombinasyonu ile lüks bir görünüm sunar. Bias kesim tekniği ile üretilen elbise, yarı şeffaf etek detayıyla feminen bir hava katıyor. Açık sırt tasarımı, fonksiyonel bel bağı ve düşük sırt kesimi ile seksi bir görünüm yaratır. Gizli fermuarlı kapama ve kanca-göz detayları ile pratik kullanım sağlar. Düğün, nişan, mezuniyet balosu, gala gecesi ve özel davetler için ideal. Profesyonel kuru temizleme önerilir.
-  Updated: 2026-04-13T05:46:03Z
-  Vendor: THESVELTECHIC
-  Product Type: Dress
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/fable-gown-lemon-dress-babyboo-fashion-1171754875.jpg?v=1775926287
-  - [XS](https://www.thesveltechic.com/products/tek-omuz-saten-balik-etek-abiye-elbise-sari-arkasi-acik?variant=47975880098037)
-    Availability: Available
-    Price: ₺4.900,00 TRY
-  - [S](https://www.thesveltechic.com/products/tek-omuz-saten-balik-etek-abiye-elbise-sari-arkasi-acik?variant=47975880130805)
-    Availability: Available
-    Price: ₺4.900,00 TRY
-  - [M](https://www.thesveltechic.com/products/tek-omuz-saten-balik-etek-abiye-elbise-sari-arkasi-acik?variant=47975880163573)
-    Availability: Available
-    Price: ₺4.900,00 TRY
-  - [L](https://www.thesveltechic.com/products/tek-omuz-saten-balik-etek-abiye-elbise-sari-arkasi-acik?variant=47975880196341)
-    Availability: Available
-    Price: ₺4.900,00 TRY
-  - [XL](https://www.thesveltechic.com/products/tek-omuz-saten-balik-etek-abiye-elbise-sari-arkasi-acik?variant=47975880229109)
-    Availability: Available
-    Price: ₺4.900,00 TRY
-  - [XXL](https://www.thesveltechic.com/products/tek-omuz-saten-balik-etek-abiye-elbise-sari-arkasi-acik?variant=47975880261877)
-    Availability: Available
-    Price: ₺4.900,00 TRY
-- [Ellora Fildişi Abiye Elbise](https://www.thesveltechic.com/products/ellora-abiye-elbise-tek-omuz-islemeli-fildisi-kuyruklu): Ellora Abiye Elbise, özel günleriniz için tasarlanmış zarif bir seçim. Fildişi rengi ile sofistike görünüm sunan bu elbise, yarı şeffaf işlemeli üst kısmı ve asimetrik tek omuz yaka detayı ile dikkat çekiyor. Hafif krep kumaştan üretilen etek kısmı, kalçalarda pileli drapeli paneller ve arkada bağcık detayı ile tamamlanıyor. İç kemik destekli korse üst yapısı mükemmel vücut uyumu sağlarken, tamamen astarlı yapısı konfor sunuyor. Gizli fermuarlı kapama sistemi ve kuyruklu tasarımı ile abiye şıklığını yansıtıyor. Düğün, nişan, mezuniyet balosu ve özel davetler için ideal. Krep ve mesh kumaş karışımı sayesinde hem rahat hem de şık. Asimetrik drapeli kalça detayları vücut hatlarını güzelleştirirken, hafifçe genişleyen etek yapısı zarif bir silüet oluşturuyor. Profesyonel kuru temizleme önerilir.
-  Updated: 2026-04-20T11:08:10Z
-  Vendor: THESVELTECHIC
-  Product Type: Dress
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/ellora-gown-ivory-dress-babyboo-fashion-1200674990.jpg?v=1775926402
-  - [XS](https://www.thesveltechic.com/products/ellora-abiye-elbise-tek-omuz-islemeli-fildisi-kuyruklu?variant=47975890977013)
-    Availability: Available
-    Price: ₺5.300,00 TRY
-  - [S](https://www.thesveltechic.com/products/ellora-abiye-elbise-tek-omuz-islemeli-fildisi-kuyruklu?variant=47975891009781)
-    Availability: Available
-    Price: ₺5.300,00 TRY
-  - [M](https://www.thesveltechic.com/products/ellora-abiye-elbise-tek-omuz-islemeli-fildisi-kuyruklu?variant=47975891042549)
-    Availability: Available
-    Price: ₺5.300,00 TRY
-  - [L](https://www.thesveltechic.com/products/ellora-abiye-elbise-tek-omuz-islemeli-fildisi-kuyruklu?variant=47975891075317)
-    Availability: Available
-    Price: ₺5.300,00 TRY
-  - [XL](https://www.thesveltechic.com/products/ellora-abiye-elbise-tek-omuz-islemeli-fildisi-kuyruklu?variant=47975891108085)
-    Availability: Available
-    Price: ₺5.300,00 TRY
-  - [XXL](https://www.thesveltechic.com/products/ellora-abiye-elbise-tek-omuz-islemeli-fildisi-kuyruklu?variant=47975891140853)
-    Availability: Available
-    Price: ₺5.300,00 TRY
 - [Tül Detaylı Sarı Elbise](https://www.thesveltechic.com/products/merritt-strapless-uzun-abiye-elbise-sari-tul-detayli): Merritt Abiye Elbise, zarif ve sofistike bir tasarımla özel günlerinizi unutulmaz kılmak için tasarlandı. Strapless yaka tasarımı ve vücut hatlarını saran stretch krepe kumaşı ile mükemmel bir siluet sunar. Yarı şeffaf mesh etek kısmı, çoklu godet detayları ile akışkan bir hareket sağlar. Tamamen astarlı olan bu zemin boyu elbise, iç kısmındaki tutucu bantlar sayesinde güvenli bir kullanım sunar. Gizli fermuarlı kapama sistemi ile pratik giyim imkanı sağlar. Düğün, nişan, mezuniyet balosu, kokteyl partileri ve özel davetler için ideal. Stretch krepe kumaşı rahat hareket imkanı sunarken, mesh detaylar feminen bir dokunuş katıyor. Ayla Şal ile kombinleyerek şıklığınızı tamamlayabilirsiniz. Profesyonel kuru temizleme önerilir. XS'den XXL'ye kadar geniş beden seçenekleri mevcuttur.
   Updated: 2026-04-20T11:06:27Z
   Vendor: THESVELTECHIC
@@ -34629,7 +34079,7 @@ Key facts about The Sveltechic:
     Availability: Available
     Price: ₺4.300,00 TRY
 - [Sadona Tek Omuz Maxi Elbise](https://www.thesveltechic.com/products/sadona-tek-omuz-maxi-elbise-bordo-kahverengi-saten): Sadona Maxi Elbise, zarif tek omuz yaka tasarımı ve asimetrik pileli detaylarıyla sofistike bir görünüm sunar. Yapısal streç krep üst kısım ve kontrast saten etek kombinasyonu ile özel günlerinizde göz alıcı olun. Düşük bel hattından akan saten etek, kalçalarda zarif drapeli panel ile tamamlanır. Tamamen astarlı ve maxi boy uzunluğu ile zamansız şıklık. Gizli fermuar kapama sistemi ile kolay giyim sağlar. Abiye, düğün, mezuniyet balosu ve özel davetler için ideal. Yüksek kaliteli kumaş karışımı ile konfor ve şıklığı bir arada sunar. Asimetrik pileli detaylar ve omuz üzerindeki pileli tasarım ile modern bir dokunuş. Kalçalarda drapeli panel ile vücut hatlarını zarif şekilde vurgular. Profesyonel temizleme önerilir.
-  Updated: 2026-04-20T11:04:10Z
+  Updated: 2026-05-08T22:30:28Z
   Vendor: THESVELTECHIC
   Product Type: Dress
   Availability: Available
@@ -34677,7 +34127,7 @@ Key facts about The Sveltechic:
     Availability: Available
     Price: ₺6.000,00 TRY
 - [Elan Mini Elbise- Sarı](https://www.thesveltechic.com/products/korse-mini-elbise-sari-cicek-aplikeli): Mini Elbise ile zarafet ve güveni bir arada yaşayın. Sarı renkteki bu büyüleyici elbise, esnek mesh kumaşı ve çiçek şeklindeki şerit aplikeleriyle dikkat çeker. Underwire göğüs desteği ve iç korse kemikleri mükemmel vücut hatları sunarken, ince askıları ve açık sırt bağcığı dramatik bir kontrast yaratır. Bodycon kesimi ile vücudunuza mükemmel oturan bu mini boy elbise, özel gecelerinizde unutulmaz bir görünüm sağlar. Tam astarlı yapısı konfor ve şıklığı garantiler. Doğum günü partileri, akşam davetleri, mezuniyet baloları ve özel kutlamalarda göz kamaştıracak bir seçim. Yüksek kaliteli mesh kumaşı sayesinde rahat hareket ederken, korse detayları vücudunuzu destekler ve şekillendirir. Çiçek aplikeleri ile romantik bir dokunuş katılan bu elbise, modern kadının güçlü ve feminen duruşunu yansıtır.
-  Updated: 2026-04-25T00:33:39Z
+  Updated: 2026-05-06T11:35:21Z
   Vendor: THESVELTECHIC
   Product Type: Dress
   Availability: Available
@@ -34862,8 +34312,8 @@ Key facts about The Sveltechic:
   - [L](https://www.thesveltechic.com/products/askili-boyun-baglamali-arkasi-acik-yirtmacli-elbise-kahverengi?variant=48028001075445)
     Availability: Available
     Price: ₺4.700,00 TRY
-- [Halter Yaka Sırt Açık Maxi Elbise](https://www.thesveltechic.com/products/2025-1): Zarif halter yaka tasarımı ve sırt açık detayıyla dikkat çeken bu sarı maxi elbise, özel günlerinizde şıklığınızı ön plana çıkarır. Yan yırtmaç detayı hareket kolaylığı sağlarken, feminen bir görünüm sunar. Şifon kumaşı sayesinde hafif ve rahat bir kullanım deneyimi yaşarsınız. A kesim kalıbı vücut hatlarını zarif bir şekilde saran bu elbise, akşam yemekleri, kokteyl partileri ve özel davetler için ideal bir seçimdir. Derin V yaka detayı modern ve çekici bir görünüm katarken, maxi boy uzunluğu zamansız bir şıklık sunar. Yüksek kaliteli şifon kumaşı ile üretilen bu elbise, hem konforlu hem de şık bir kullanım sağlar. Sarı rengi ile enerjik ve canlı bir görünüm elde ederken, altın tonları ile lüks bir hava katarsınız. Özel günlerinizde unutulmaz bir stil yaratmak için mükemmel bir tercih olan bu elbise, gardırobunuzun vazgeçilmez parçalarından biri olacak.
-  Updated: 2026-04-27T11:51:56Z
+- [Zolana Yellow Dress](https://www.thesveltechic.com/products/2025-1): Zarif halter yaka tasarımı ve sırt açık detayıyla dikkat çeken bu sarı maxi elbise, özel günlerinizde şıklığınızı ön plana çıkarır. Yan yırtmaç detayı hareket kolaylığı sağlarken, feminen bir görünüm sunar. Şifon kumaşı sayesinde hafif ve rahat bir kullanım deneyimi yaşarsınız. A kesim kalıbı vücut hatlarını zarif bir şekilde saran bu elbise, akşam yemekleri, kokteyl partileri ve özel davetler için ideal bir seçimdir. Derin V yaka detayı modern ve çekici bir görünüm katarken, maxi boy uzunluğu zamansız bir şıklık sunar. Yüksek kaliteli şifon kumaşı ile üretilen bu elbise, hem konforlu hem de şık bir kullanım sağlar. Sarı rengi ile enerjik ve canlı bir görünüm elde ederken, altın tonları ile lüks bir hava katarsınız. Özel günlerinizde unutulmaz bir stil yaratmak için mükemmel bir tercih olan bu elbise, gardırobunuzun vazgeçilmez parçalarından biri olacak.
+  Updated: 2026-05-06T22:00:06Z
   Vendor: Svelte Chic
   Product Type: 
   Availability: Available
@@ -34984,7 +34434,7 @@ Key facts about The Sveltechic:
     Availability: Available
     Price: ₺4.800,00 TRY
 - [Valora Mini Elbise - Sarı](https://www.thesveltechic.com/products/2025-2): Şık ve zarif kalp yaka tasarımıyla dikkat çeken bu mini elbise, özel günlerinizin vazgeçilmezi. Saten kumaşı ile lüks bir görünüm sunan elbise, vücut hatlarını saran slim fit kesimiyle feminen bir silüet yaratıyor. Bel kısmındaki bağcık detayı ile ayarlanabilir kalıp sağlıyor. Askılı tasarımı sayesinde rahat kullanım imkanı sunuyor. Yaz aylarının trend rengi sarı ile gardırobunuza renk katın. Akşam yemekleri, parti ve özel davetler için ideal. S, M, L beden seçenekleri mevcuttur. Kaliteli saten kumaş yapısı ile uzun ömürlü kullanım garantisi. Şık tasarımı ile kombinleme kolaylığı sağlıyor. Topuklu ayakkabı ve minimal aksesuarlarla tamamlayarak şık bir görünüm elde edebilirsiniz.
-  Updated: 2026-04-20T23:19:14Z
+  Updated: 2026-05-06T11:34:50Z
   Vendor: Svelte Chic
   Product Type: 
   Availability: Available
@@ -34999,7 +34449,7 @@ Key facts about The Sveltechic:
     Availability: Available
     Price: ₺4.800,00 TRY
 - [Valora Mini Elbise- Kahverengi](https://www.thesveltechic.com/products/askili-buzgulu-bel-vurgulu-mini-elbise-bordo): Şık ve modern tasarımıyla dikkat çeken askılı mini elbise. Kare yaka detayı ve büzgülü bel kısmı ile vücut hatlarınızı mükemmel şekilde sararak zarif bir görünüm sunar. Polyester kumaşı sayesinde rahat ve konforlu kullanım sağlar. Günlük şıklıktan özel davetlere kadar her ortamda rahatlıkla tercih edebileceğiniz bu elbise, gardırobunuzun vazgeçilmezi olacak. Slim fit kesimi ile vücut hatlarınızı güzelce ortaya çıkarır. Bordo rengi ile zamansız bir şıklık yakalayın. Yüksek kaliteli dikişleri ve detaylı işçiliği ile uzun süre kullanım imkanı sunar. Farklı aksesuarlarla kombinleyerek çeşitli tarzlar yaratabilirsiniz. Özel günlerinizde ve günlük hayatınızda size eşlik edecek bu zarif parça, kendine güvenen kadınların tercihi. Kolay bakım özelliği ile pratik kullanım sağlar.
-  Updated: 2026-04-20T23:24:33Z
+  Updated: 2026-05-06T11:33:58Z
   Vendor: Svelte Chic
   Product Type: 
   Availability: Available
@@ -35029,11 +34479,11 @@ Key facts about The Sveltechic:
     Availability: Available
     Price: ₺5.800,00 TRY
 - [Elan Mini Elbise - Siyah](https://www.thesveltechic.com/products/cicek-detayli-straplez-mini-elbise-siyah-dantel): Zarif çiçek detayları ile süslenmiş straplez mini elbise. Yüksek kaliteli dantel kumaştan üretilen bu şık elbise, özel davetler ve gece etkinlikleri için mükemmel bir seçim. Vücut hatlarını saran slim fit kesimi ile zarif bir görünüm sunar. Straplez tasarımı ile modern ve feminen bir stil yaratır. Çiçekli dantel detayları elbisenin şıklığını artırırken, mini boy ile genç ve dinamik bir hava katar. Özel günlerinizde göz kamaştıracak bu elbise, kaliteli işçiliği ve zarif tasarımı ile gardırobunuzun vazgeçilmezi olacak. S, M, L bedenlerinde mevcut. Profesyonel kuru temizleme önerilir.
-  Updated: 2026-04-25T00:29:49Z
+  Updated: 2026-05-06T23:33:34Z
   Vendor: Svelte Chic
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/nefertiti-mini-dress-black-dress-babyboo-fashion-1199907241_800x_316784dc-ec8a-4fb4-bace-6c175fefdf81.webp?v=1777033862
+  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/nefertiti-mini-dress-black-dress-babyboo-fashion-1199907242_800x_6c64d76e-6519-4228-b800-151acb87ae49.webp?v=1777033862
   - [S](https://www.thesveltechic.com/products/cicek-detayli-straplez-mini-elbise-siyah-dantel?variant=48061243785461)
     Availability: Available
     Price: ₺4.800,00 TRY
@@ -35080,7 +34530,7 @@ Key facts about The Sveltechic:
     Availability: Available
     Price: ₺3.300,00 TRY
 - [Puantiyeli Üç Parça Bikini Takımı](https://www.thesveltechic.com/products/polka-dot-three-piece-bikini-set): Vintage tarzı puantiyeli üç parça bikini takımı ile plajda ve havuz başında şıklığınızı konuşturun. %100 polyamid jersey kumaştan üretilen bu özel tasarım, yüksek streç özelliği sayesinde mükemmel uyum sağlar. Regular fit kalıbıyla rahat hareket imkanı sunar. Metal detayları ve şeffaf dokularıyla dikkat çeken bu bikini takımı, tatil gardırobunuzun vazgeçilmezi olacak. Siyah zemin üzerine beyaz puantiyeli deseniyle zamansız bir şıklık yaratır. Tankini tarzındaki üst parçası ve bikini altıyla mükemmel uyum sağlar. Plaj partilerinden havuz kenarına, tatil anlarınızdan günlük plaj keyfinize kadar her anınızda size eşlik eder. Yüksek kaliteli polyamid kumaşı sayesinde dayanıklı ve uzun ömürlü kullanım sunar. Bakım talimatlarına uygun kullanımda renk ve form bozulmaz.
-  Updated: 2026-04-29T06:16:35Z
+  Updated: 2026-05-06T11:17:18Z
   Vendor: THESVELTECHIC
   Product Type: Tankinis
   Availability: Available
@@ -35242,7 +34692,7 @@ Key facts about The Sveltechic:
     Availability: Available
     Price: ₺3.200,00 TRY
 - [Aura Maxi Dress](https://www.thesveltechic.com/products/2025-4): Şık ve zarif askılı maxi elbise ile özel günlerinizde göz kamaştırın. Derin V yaka tasarımı ve büzgülü detayları ile feminen bir görünüm sunan bu elbise, akşam davetleri ve özel etkinlikler için mükemmel bir seçim. Şifon kumaşı sayesinde hafif ve rahat bir kullanım deneyimi yaşayacaksınız. Bel kısmındaki büzgülü tasarım vücut hatlarınızı güzelce vurgularken, maxi boyu ile zarif bir siluet oluşturur. A kesim kalıbı her vücut tipine uyum sağlar. Yeşil rengi ile doğal ve taze bir görünüm kazandırır. Askılı tasarımı ile yaz aylarında serin kalmanızı sağlarken, üzerine ceket ekleyerek sonbahar aylarında da rahatlıkla kullanabilirsiniz. Kaliteli şifon kumaşı sayesinde uzun süre kullanım imkanı sunar. Özel günlerinizde kendinizi özel hissetmenizi sağlayacak bu zarif elbise, gardırobunuzun vazgeçilmez parçalarından biri olacak.
-  Updated: 2026-05-03T11:53:38Z
+  Updated: 2026-05-07T12:46:37Z
   Vendor: Svelte Chic
   Product Type: 
   Availability: Available
@@ -35263,7 +34713,7 @@ Key facts about The Sveltechic:
     Availability: Available
     Price: ₺5.300,00 TRY
 - [Ariela Maxi Dress](https://www.thesveltechic.com/products/avrupa-ve-amerikan-tarzi-uzun-kadin-elbisesi-2024-yaz-yeni-moda-seksi-firfirli-kenar-ekleme-sik-yirtma-ccedil-li-kolsuz-uzun-elbise): 2024 yaz koleksiyonunun göz alıcı parçası olan bu şık uzun elbise, modern kadının zarafetini yansıtıyor. Straplez kesimi ve fırfırlı detaylarıyla dikkat çeken elbise, yan yırtmaçlı tasarımıyla hareket özgürlüğü sağlar. Şifon kumaşı sayesinde hafif ve nefes alabilir yapısıyla yaz aylarının vazgeçilmezi. A-line kesimi her vücut tipine uyum sağlarken, maxi boyu şıklığınızı tamamlar. Özel davetler, kokteyl partileri ve romantik akşam yemekleri için ideal. Yüksek topuklu ayakkabılar ve minimal aksesuarlarla kombinleyerek kusursuz bir görünüm elde edebilirsiniz. Kaliteli şifon kumaşı uzun ömürlü kullanım sağlar. Kolay bakım, elde yıkama önerilir. Tüm beden seçenekleriyle mevcut.
-  Updated: 2026-04-28T23:04:00Z
+  Updated: 2026-05-06T11:16:45Z
   Vendor: Svelte Chic
   Product Type: 
   Availability: Available
@@ -35283,21 +34733,6 @@ Key facts about The Sveltechic:
   - [XL](https://www.thesveltechic.com/products/avrupa-ve-amerikan-tarzi-uzun-kadin-elbisesi-2024-yaz-yeni-moda-seksi-firfirli-kenar-ekleme-sik-yirtma-ccedil-li-kolsuz-uzun-elbise?variant=48071387775221)
     Availability: Available
     Price: ₺4.700,00 TRY
-- [Adoria Çikolata Payetli Kesim Detaylı Maksi Elbise](https://www.thesveltechic.com/products/adoria-cikolata-payetli-kesim-detayli-maksi-elbise): Adoria Çikolata Payetli Kesim Detaylı Maksi Elbise — modern zarafetin yeniden yorumu. Payetli Kesim Detaylı Maksi Elbise koleksiyonun öne çıkan parçalarından. İnce işçilik ve özenle seçilen kumaş yapısıyla feminen bir duruş kazandırır; vücut hatlarını destekleyen kesim gün boyu rahat bir kullanım sunar. Davet, kokteyl, özel akşam yemeği ve gece programlarınızda zarif bir tercih olarak gardırobunuzun klasiklerinden olmaya aday bir parça. Marka: THESVELTECHICKalıp: Regular FitBeden: S, M, L
-  Updated: 2026-05-02T09:16:16Z
-  Vendor: THESVELTECHIC
-  Product Type: Maksi Elbise
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/DSC_3389.jpg?v=1777670165
-  - [S](https://www.thesveltechic.com/products/adoria-cikolata-payetli-kesim-detayli-maksi-elbise?variant=48094883283189)
-    Availability: Available
-    Price: ₺5.200,00 TRY
-  - [M](https://www.thesveltechic.com/products/adoria-cikolata-payetli-kesim-detayli-maksi-elbise?variant=48094883315957)
-    Availability: Available
-    Price: ₺5.200,00 TRY
-  - [L](https://www.thesveltechic.com/products/adoria-cikolata-payetli-kesim-detayli-maksi-elbise?variant=48094883348725)
-    Availability: Available
-    Price: ₺5.200,00 TRY
 - [Adoria Gümüş Payetli Kesim Detaylı Maksi Elbise](https://www.thesveltechic.com/products/adoria-gumus-payetli-kesim-detayli-maksi-elbise): Adoria Gümüş Payetli Kesim Detaylı Maksi Elbise — modern zarafetin yeniden yorumu. Payetli Kesim Detaylı Maksi Elbise koleksiyonun öne çıkan parçalarından. İnce işçilik ve özenle seçilen kumaş yapısıyla feminen bir duruş kazandırır; vücut hatlarını destekleyen kesim gün boyu rahat bir kullanım sunar. Davet, kokteyl, özel akşam yemeği ve gece programlarınızda zarif bir tercih olarak gardırobunuzun klasiklerinden olmaya aday bir parça. Marka: THESVELTECHICKalıp: Regular FitBeden: S, M, L
   Updated: 2026-05-02T09:16:16Z
   Vendor: THESVELTECHIC
@@ -35313,8 +34748,8 @@ Key facts about The Sveltechic:
   - [L](https://www.thesveltechic.com/products/adoria-gumus-payetli-kesim-detayli-maksi-elbise?variant=48094884036853)
     Availability: Available
     Price: ₺4.400,00 TRY
-- [Arielle Mor Omuz Açık Fırfırlı Midi Elbise](https://www.thesveltechic.com/products/arielle-mor-omuz-acik-firfirli-midi-elbise): Arielle Mor Omuz Açık Fırfırlı Midi Elbise — modern zarafetin yeniden yorumu. Omuz Açık Fırfırlı Midi Elbise koleksiyonun öne çıkan parçalarından. İnce işçilik ve özenle seçilen kumaş yapısıyla feminen bir duruş kazandırır; vücut hatlarını destekleyen kesim gün boyu rahat bir kullanım sunar. Davet, kokteyl, özel akşam yemeği ve gece programlarınızda zarif bir tercih olarak gardırobunuzun klasiklerinden olmaya aday bir parça. Marka: THESVELTECHICKalıp: Regular FitBeden: S, M, L
-  Updated: 2026-05-02T09:16:22Z
+- [Arielle Fırfırlı Midi Elbise](https://www.thesveltechic.com/products/arielle-mor-omuz-acik-firfirli-midi-elbise): Arielle Mor Omuz Açık Fırfırlı Midi Elbise — modern zarafetin yeniden yorumu. Omuz Açık Fırfırlı Midi Elbise koleksiyonun öne çıkan parçalarından. İnce işçilik ve özenle seçilen kumaş yapısıyla feminen bir duruş kazandırır; vücut hatlarını destekleyen kesim gün boyu rahat bir kullanım sunar. Davet, kokteyl, özel akşam yemeği ve gece programlarınızda zarif bir tercih olarak gardırobunuzun klasiklerinden olmaya aday bir parça. Marka: THESVELTECHICKalıp: Regular FitBeden: S, M, L
+  Updated: 2026-05-06T23:32:57Z
   Vendor: THESVELTECHIC
   Product Type: Midi Elbise
   Availability: Available
@@ -35358,8 +34793,8 @@ Key facts about The Sveltechic:
   - [L](https://www.thesveltechic.com/products/marcel-cikolata-kare-yaka-tasli-maksi-elbise?variant=48094887313653)
     Availability: Available
     Price: ₺6.400,00 TRY
-- [Lilly Koyu Çikolata Kalp Yaka Saten Maksi Elbise](https://www.thesveltechic.com/products/lilly-koyu-cikolata-kalp-yaka-saten-maksi-elbise): Lilly Koyu Çikolata Kalp Yaka Saten Maksi Elbise — modern zarafetin yeniden yorumu. Kalp Yaka Saten Maksi Elbise koleksiyonun öne çıkan parçalarından. İnce işçilik ve özenle seçilen kumaş yapısıyla feminen bir duruş kazandırır; vücut hatlarını destekleyen kesim gün boyu rahat bir kullanım sunar. Davet, kokteyl, özel akşam yemeği ve gece programlarınızda zarif bir tercih olarak gardırobunuzun klasiklerinden olmaya aday bir parça. Marka: THESVELTECHICKalıp: Regular FitBeden: S, M, L
-  Updated: 2026-05-02T09:16:43Z
+- [Lilly Saten Maksi Elbise](https://www.thesveltechic.com/products/lilly-koyu-cikolata-kalp-yaka-saten-maksi-elbise): Lilly Koyu Çikolata Kalp Yaka Saten Maksi Elbise — modern zarafetin yeniden yorumu. Kalp Yaka Saten Maksi Elbise koleksiyonun öne çıkan parçalarından. İnce işçilik ve özenle seçilen kumaş yapısıyla feminen bir duruş kazandırır; vücut hatlarını destekleyen kesim gün boyu rahat bir kullanım sunar. Davet, kokteyl, özel akşam yemeği ve gece programlarınızda zarif bir tercih olarak gardırobunuzun klasiklerinden olmaya aday bir parça. Marka: THESVELTECHICKalıp: Regular FitBeden: S, M, L
+  Updated: 2026-05-06T23:32:16Z
   Vendor: THESVELTECHIC
   Product Type: Maksi Elbise
   Availability: Available
@@ -35374,7 +34809,7 @@ Key facts about The Sveltechic:
     Availability: Available
     Price: ₺5.800,00 TRY
 - [Roisin Bordo Taşlı Maksi Elbise](https://www.thesveltechic.com/products/roisin-bordo-tasli-maksi-elbise): Roisin Bordo Taşlı Maksi Elbise — modern zarafetin yeniden yorumu. Taşlı Maksi Elbise koleksiyonun öne çıkan parçalarından. İnce işçilik ve özenle seçilen kumaş yapısıyla feminen bir duruş kazandırır; vücut hatlarını destekleyen kesim gün boyu rahat bir kullanım sunar. Davet, kokteyl, özel akşam yemeği ve gece programlarınızda zarif bir tercih olarak gardırobunuzun klasiklerinden olmaya aday bir parça. Marka: THESVELTECHICKalıp: Regular FitBeden: S, M, L
-  Updated: 2026-05-02T09:16:50Z
+  Updated: 2026-05-04T18:11:34Z
   Vendor: THESVELTECHIC
   Product Type: Maksi Elbise
   Availability: Available
@@ -35404,67 +34839,67 @@ Key facts about The Sveltechic:
     Availability: Available
     Price: ₺4.000,00 TRY
 - [Nash Bordo Taşlı Omuz Açık Maksi Elbise](https://www.thesveltechic.com/products/nash-bordo-tasli-omuz-acik-maksi-elbise): Nash Bordo Taşlı Omuz Açık Maksi Elbise — modern zarafetin yeniden yorumu. Taşlı Omuz Açık Maksi Elbise koleksiyonun öne çıkan parçalarından. İnce işçilik ve özenle seçilen kumaş yapısıyla feminen bir duruş kazandırır; vücut hatlarını destekleyen kesim gün boyu rahat bir kullanım sunar. Davet, kokteyl, özel akşam yemeği ve gece programlarınızda zarif bir tercih olarak gardırobunuzun klasiklerinden olmaya aday bir parça. Marka: THESVELTECHICKalıp: Regular FitBeden: S, M, L
-  Updated: 2026-05-02T09:17:00Z
+  Updated: 2026-05-05T21:39:42Z
   Vendor: THESVELTECHIC
   Product Type: Maksi Elbise
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/241011_Meshki_1145_1e5d4d28-9927-414d-8b53-164cddd95a69.jpg?v=1777670215
   - [S](https://www.thesveltechic.com/products/nash-bordo-tasli-omuz-acik-maksi-elbise?variant=48094892130549)
     Availability: Available
-    Price: ₺4.800,00 TRY
+    Price: ₺6.800,00 TRY
   - [M](https://www.thesveltechic.com/products/nash-bordo-tasli-omuz-acik-maksi-elbise?variant=48094892163317)
     Availability: Available
-    Price: ₺4.800,00 TRY
+    Price: ₺6.800,00 TRY
   - [L](https://www.thesveltechic.com/products/nash-bordo-tasli-omuz-acik-maksi-elbise?variant=48094892196085)
     Availability: Available
-    Price: ₺4.800,00 TRY
+    Price: ₺6.800,00 TRY
 - [Elyna Lacivert Akıcı Halter Yaka Maksi Elbise](https://www.thesveltechic.com/products/elyna-lacivert-akici-halter-yaka-maksi-elbise): Elyna Lacivert Akıcı Halter Yaka Maksi Elbise — modern zarafetin yeniden yorumu. Akıcı Halter Yaka Maksi Elbise koleksiyonun öne çıkan parçalarından. İnce işçilik ve özenle seçilen kumaş yapısıyla feminen bir duruş kazandırır; vücut hatlarını destekleyen kesim gün boyu rahat bir kullanım sunar. Davet, kokteyl, özel akşam yemeği ve gece programlarınızda zarif bir tercih olarak gardırobunuzun klasiklerinden olmaya aday bir parça. Marka: THESVELTECHICKalıp: Regular FitBeden: S, M, L
-  Updated: 2026-05-02T09:17:12Z
+  Updated: 2026-05-05T21:40:34Z
   Vendor: THESVELTECHIC
   Product Type: Maksi Elbise
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/240828_MESHKI_Archive_Drp4_29_1529_ee95d113-b7d7-4bca-b165-ead8d633bdd7.jpg?v=1777670221
   - [S](https://www.thesveltechic.com/products/elyna-lacivert-akici-halter-yaka-maksi-elbise?variant=48094894620917)
     Availability: Available
-    Price: ₺3.200,00 TRY
+    Price: ₺4.500,00 TRY
   - [M](https://www.thesveltechic.com/products/elyna-lacivert-akici-halter-yaka-maksi-elbise?variant=48094894653685)
     Availability: Available
-    Price: ₺3.200,00 TRY
+    Price: ₺4.500,00 TRY
   - [L](https://www.thesveltechic.com/products/elyna-lacivert-akici-halter-yaka-maksi-elbise?variant=48094894686453)
     Availability: Available
-    Price: ₺3.200,00 TRY
+    Price: ₺4.500,00 TRY
 - [Caspian Krem Akıcı File Omuz Açık Maksi Elbise](https://www.thesveltechic.com/products/caspian-krem-akici-file-omuz-acik-maksi-elbise): Caspian Krem Akıcı File Omuz Açık Maksi Elbise — modern zarafetin yeniden yorumu. Akıcı File Omuz Açık Maksi Elbise koleksiyonun öne çıkan parçalarından. İnce işçilik ve özenle seçilen kumaş yapısıyla feminen bir duruş kazandırır; vücut hatlarını destekleyen kesim gün boyu rahat bir kullanım sunar. Davet, kokteyl, özel akşam yemeği ve gece programlarınızda zarif bir tercih olarak gardırobunuzun klasiklerinden olmaya aday bir parça. Marka: THESVELTECHICKalıp: Regular FitBeden: S, M, L
-  Updated: 2026-05-02T09:17:12Z
+  Updated: 2026-05-06T11:13:37Z
   Vendor: THESVELTECHIC
   Product Type: Maksi Elbise
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/KAYLA_SEAH.jpg?v=1777670227
   - [S](https://www.thesveltechic.com/products/caspian-krem-akici-file-omuz-acik-maksi-elbise?variant=48094895603957)
     Availability: Available
-    Price: ₺3.700,00 TRY
+    Price: ₺4.700,00 TRY
   - [M](https://www.thesveltechic.com/products/caspian-krem-akici-file-omuz-acik-maksi-elbise?variant=48094895636725)
     Availability: Available
-    Price: ₺3.700,00 TRY
+    Price: ₺4.700,00 TRY
   - [L](https://www.thesveltechic.com/products/caspian-krem-akici-file-omuz-acik-maksi-elbise?variant=48094895669493)
     Availability: Available
-    Price: ₺3.700,00 TRY
+    Price: ₺4.700,00 TRY
 - [Caspian Siyah Akıcı File Omuz Açık Maksi Elbise](https://www.thesveltechic.com/products/caspian-siyah-akici-file-omuz-acik-maksi-elbise): Caspian Siyah Akıcı File Omuz Açık Maksi Elbise — modern zarafetin yeniden yorumu. Akıcı File Omuz Açık Maksi Elbise koleksiyonun öne çıkan parçalarından. İnce işçilik ve özenle seçilen kumaş yapısıyla feminen bir duruş kazandırır; vücut hatlarını destekleyen kesim gün boyu rahat bir kullanım sunar. Davet, kokteyl, özel akşam yemeği ve gece programlarınızda zarif bir tercih olarak gardırobunuzun klasiklerinden olmaya aday bir parça. Marka: THESVELTECHICKalıp: Regular FitBeden: S, M, L
-  Updated: 2026-05-02T09:17:17Z
+  Updated: 2026-05-05T21:41:31Z
   Vendor: THESVELTECHIC
   Product Type: Maksi Elbise
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/241216_MESHKI_CordiallyInvited_Drp4_02_098.jpg?v=1777670232
   - [S](https://www.thesveltechic.com/products/caspian-siyah-akici-file-omuz-acik-maksi-elbise?variant=48094896521461)
     Availability: Available
-    Price: ₺3.700,00 TRY
+    Price: ₺4.700,00 TRY
   - [M](https://www.thesveltechic.com/products/caspian-siyah-akici-file-omuz-acik-maksi-elbise?variant=48094896554229)
     Availability: Available
-    Price: ₺3.700,00 TRY
+    Price: ₺4.700,00 TRY
   - [L](https://www.thesveltechic.com/products/caspian-siyah-akici-file-omuz-acik-maksi-elbise?variant=48094896586997)
     Availability: Available
-    Price: ₺3.700,00 TRY
+    Price: ₺4.700,00 TRY
 - [Caprice Beyaz Halter Yaka Triko Mini Elbise](https://www.thesveltechic.com/products/caprice-beyaz-halter-yaka-triko-mini-elbise): Caprice Beyaz Halter Yaka Triko Mini Elbise — modern zarafetin yeniden yorumu. Halter Yaka Triko Mini Elbise koleksiyonun öne çıkan parçalarından. İnce işçilik ve özenle seçilen kumaş yapısıyla feminen bir duruş kazandırır; vücut hatlarını destekleyen kesim gün boyu rahat bir kullanım sunar. Davet, kokteyl, özel akşam yemeği ve gece programlarınızda zarif bir tercih olarak gardırobunuzun klasiklerinden olmaya aday bir parça. Marka: THESVELTECHICKalıp: Regular FitBeden: S, M, L
-  Updated: 2026-05-02T09:17:22Z
+  Updated: 2026-05-06T23:39:29Z
   Vendor: THESVELTECHIC
   Product Type: Mini Elbise
   Availability: Available
@@ -35493,8 +34928,8 @@ Key facts about The Sveltechic:
   - [L](https://www.thesveltechic.com/products/mattea-koyu-cikolata-akici-file-esarp-detayli-mini-elbise?variant=48094898127093)
     Availability: Available
     Price: ₺3.400,00 TRY
-- [Mattea Pudra Mavisi Akıcı File Eşarp Detaylı Mini Elbise](https://www.thesveltechic.com/products/mattea-pudra-mavisi-akici-file-esarp-detayli-mini-elbise): Mattea Pudra Mavi Akıcı File Mini Elbise Eşarp Detaylı — modern zarafetin yeniden yorumu. Akıcı File Mini Elbise Eşarp Detaylı koleksiyonun öne çıkan parçalarından. İnce işçilik ve özenle seçilen kumaş yapısıyla feminen bir duruş kazandırır; vücut hatlarını destekleyen kesim gün boyu rahat bir kullanım sunar. Davet, kokteyl, özel akşam yemeği ve gece programlarınızda zarif bir tercih olarak gardırobunuzun klasiklerinden olmaya aday bir parça. Marka: THESVELTECHICKalıp: Regular FitBeden: S, M, L
-  Updated: 2026-05-02T09:17:33Z
+- [Mattea Mini Elbise](https://www.thesveltechic.com/products/mattea-pudra-mavisi-akici-file-esarp-detayli-mini-elbise): Mattea Pudra Mavi Akıcı File Mini Elbise Eşarp Detaylı — modern zarafetin yeniden yorumu. Akıcı File Mini Elbise Eşarp Detaylı koleksiyonun öne çıkan parçalarından. İnce işçilik ve özenle seçilen kumaş yapısıyla feminen bir duruş kazandırır; vücut hatlarını destekleyen kesim gün boyu rahat bir kullanım sunar. Davet, kokteyl, özel akşam yemeği ve gece programlarınızda zarif bir tercih olarak gardırobunuzun klasiklerinden olmaya aday bir parça. Marka: THESVELTECHICKalıp: Regular FitBeden: S, M, L
+  Updated: 2026-05-10T14:22:17Z
   Vendor: THESVELTECHIC
   Product Type: Dresses
   Availability: Available
@@ -35643,21 +35078,6 @@ Key facts about The Sveltechic:
   - [L](https://www.thesveltechic.com/products/mackenzie-siyah-kolsuz-pileli-mini-elbise?variant=48094909300981)
     Availability: Available
     Price: ₺5.000,00 TRY
-- [Amelita Siyah Halter Yaka Mini Elbise](https://www.thesveltechic.com/products/amelita-siyah-halter-yaka-mini-elbise): Amelita Siyah Halter Yaka Mini Elbise — modern zarafetin yeniden yorumu. Halter Yaka Mini Elbise koleksiyonun öne çıkan parçalarından. İnce işçilik ve özenle seçilen kumaş yapısıyla feminen bir duruş kazandırır; vücut hatlarını destekleyen kesim gün boyu rahat bir kullanım sunar. Davet, kokteyl, özel akşam yemeği ve gece programlarınızda zarif bir tercih olarak gardırobunuzun klasiklerinden olmaya aday bir parça. Marka: THESVELTECHICKalıp: Regular FitBeden: S, M, L
-  Updated: 2026-05-02T09:18:27Z
-  Vendor: THESVELTECHIC
-  Product Type: Mini Elbise
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/240717_MESHKIDuskTilDawnFinal_10_533.jpg?v=1777670302
-  - [S](https://www.thesveltechic.com/products/amelita-siyah-halter-yaka-mini-elbise?variant=48094910087413)
-    Availability: Available
-    Price: ₺4.200,00 TRY
-  - [M](https://www.thesveltechic.com/products/amelita-siyah-halter-yaka-mini-elbise?variant=48094910120181)
-    Availability: Available
-    Price: ₺4.200,00 TRY
-  - [L](https://www.thesveltechic.com/products/amelita-siyah-halter-yaka-mini-elbise?variant=48094910152949)
-    Availability: Available
-    Price: ₺4.200,00 TRY
 - [Klara Siyah Krem Kontrast Triko Mini Etek](https://www.thesveltechic.com/products/klara-siyah-krem-kontrast-triko-mini-etek): Klara Siyah Krem Kontrast Triko Mini Etek — modern zarafetin yeniden yorumu. Kontrast Triko Mini Etek koleksiyonun öne çıkan parçalarından. İnce işçilik ve özenle seçilen kumaş yapısıyla feminen bir duruş kazandırır; vücut hatlarını destekleyen kesim gün boyu rahat bir kullanım sunar. Davet, kokteyl, özel akşam yemeği ve gece programlarınızda zarif bir tercih olarak gardırobunuzun klasiklerinden olmaya aday bir parça. Marka: THESVELTECHICKalıp: Regular FitBeden: S, M, L
   Updated: 2026-05-02T12:20:20Z
   Vendor: THESVELTECHIC
@@ -35704,7 +35124,7 @@ Key facts about The Sveltechic:
     Availability: Available
     Price: ₺4.500,00 TRY
 - [Keely Beyaz Pamuklu Kolsuz Midi Elbise](https://www.thesveltechic.com/products/keely-beyaz-pamuklu-kolsuz-midi-elbise): Keely Beyaz Pamuklu Kolsuz Midi Elbise — modern zarafetin yeniden yorumu. Pamuklu Kolsuz Midi Elbise koleksiyonun öne çıkan parçalarından. İnce işçilik ve özenle seçilen kumaş yapısıyla feminen bir duruş kazandırır; vücut hatlarını destekleyen kesim gün boyu rahat bir kullanım sunar. Davet, kokteyl, özel akşam yemeği ve gece programlarınızda zarif bir tercih olarak gardırobunuzun klasiklerinden olmaya aday bir parça. Marka: THESVELTECHICKalıp: Regular FitBeden: S, M, L
-  Updated: 2026-05-02T09:18:47Z
+  Updated: 2026-05-06T23:28:58Z
   Vendor: THESVELTECHIC
   Product Type: Midi Elbise
   Availability: Available
@@ -35719,7 +35139,7 @@ Key facts about The Sveltechic:
     Availability: Available
     Price: ₺7.400,00 TRY
 - [Dinah Puantiyeli Dantelli Saten Maksi Elbise](https://www.thesveltechic.com/products/dinah-puantiyeli-dantelli-saten-maksi-elbise): Dinah Puantiyeli Dantelli Saten Maksi Elbise — modern zarafetin yeniden yorumu. Dantelli Saten Maksi Elbise koleksiyonun öne çıkan parçalarından. İnce işçilik ve özenle seçilen kumaş yapısıyla feminen bir duruş kazandırır; vücut hatlarını destekleyen kesim gün boyu rahat bir kullanım sunar. Davet, kokteyl, özel akşam yemeği ve gece programlarınızda zarif bir tercih olarak gardırobunuzun klasiklerinden olmaya aday bir parça. Marka: THESVELTECHICKalıp: Regular FitBeden: S, M, L
-  Updated: 2026-05-02T09:18:53Z
+  Updated: 2026-05-06T23:29:31Z
   Vendor: THESVELTECHIC
   Product Type: Maksi Elbise
   Availability: Available
@@ -35763,21 +35183,6 @@ Key facts about The Sveltechic:
   - [L](https://www.thesveltechic.com/products/dinah-siyah-krem-dantelli-saten-mini-elbise?variant=48094917918965)
     Availability: Available
     Price: ₺5.000,00 TRY
-- [Elma Gümüş Sim Triko Halter Yaka Maksi Elbise](https://www.thesveltechic.com/products/elma-gumus-sim-triko-halter-yaka-maksi-elbise): Elma Gümüş Sim Triko Halter Yaka Maksi Elbise — modern zarafetin yeniden yorumu. Sim Triko Halter Yaka Maksi Elbise koleksiyonun öne çıkan parçalarından. İnce işçilik ve özenle seçilen kumaş yapısıyla feminen bir duruş kazandırır; vücut hatlarını destekleyen kesim gün boyu rahat bir kullanım sunar. Davet, kokteyl, özel akşam yemeği ve gece programlarınızda zarif bir tercih olarak gardırobunuzun klasiklerinden olmaya aday bir parça. Marka: THESVELTECHICKalıp: Regular FitBeden: S, M, L
-  Updated: 2026-05-02T09:19:09Z
-  Vendor: THESVELTECHIC
-  Product Type: Maksi Elbise
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/251008_MESHKI_Sequins_28_969.jpg?v=1777670344
-  - [S](https://www.thesveltechic.com/products/elma-gumus-sim-triko-halter-yaka-maksi-elbise?variant=48094919131381)
-    Availability: Available
-    Price: ₺5.000,00 TRY
-  - [M](https://www.thesveltechic.com/products/elma-gumus-sim-triko-halter-yaka-maksi-elbise?variant=48094919164149)
-    Availability: Available
-    Price: ₺5.000,00 TRY
-  - [L](https://www.thesveltechic.com/products/elma-gumus-sim-triko-halter-yaka-maksi-elbise?variant=48094919196917)
-    Availability: Available
-    Price: ₺5.000,00 TRY
 - [Lyra Limon Sarısı Şeffaf Triko Pelerin](https://www.thesveltechic.com/products/lyra-limon-sarisi-seffaf-triko-pelerin): Lyra Limon Sarısı Şeffaf Triko Pelerin — modern zarafetin yeniden yorumu. Şeffaf Triko Pelerin koleksiyonun öne çıkan parçalarından. İnce işçilik ve özenle seçilen kumaş yapısıyla feminen bir duruş kazandırır; vücut hatlarını destekleyen kesim gün boyu rahat bir kullanım sunar. Davet, kokteyl, özel akşam yemeği ve gece programlarınızda zarif bir tercih olarak gardırobunuzun klasiklerinden olmaya aday bir parça. Marka: THESVELTECHICKalıp: Regular FitBeden: S, M, L
   Updated: 2026-05-02T09:19:14Z
   Vendor: THESVELTECHIC
@@ -35793,8 +35198,8 @@ Key facts about The Sveltechic:
   - [L](https://www.thesveltechic.com/products/lyra-limon-sarisi-seffaf-triko-pelerin?variant=48094920573173)
     Availability: Available
     Price: ₺3.900,00 TRY
-- [Elyna Koyu Kırmızı Akıcı Halter Yaka Maksi Elbise](https://www.thesveltechic.com/products/elyna-koyu-kirmizi-akici-halter-yaka-maksi-elbise): Elyna Koyu Kırmızı Akıcı Halter Yaka Maksi Elbise — modern zarafetin yeniden yorumu. Akıcı Halter Yaka Maksi Elbise koleksiyonun öne çıkan parçalarından. İnce işçilik ve özenle seçilen kumaş yapısıyla feminen bir duruş kazandırır; vücut hatlarını destekleyen kesim gün boyu rahat bir kullanım sunar. Davet, kokteyl, özel akşam yemeği ve gece programlarınızda zarif bir tercih olarak gardırobunuzun klasiklerinden olmaya aday bir parça. Marka: THESVELTECHICKalıp: Regular FitBeden: S, M, L
-  Updated: 2026-05-02T09:19:27Z
+- [Elyna Halter Yaka Maksi Elbise](https://www.thesveltechic.com/products/elyna-koyu-kirmizi-akici-halter-yaka-maksi-elbise): Elyna Koyu Kırmızı Akıcı Halter Yaka Maksi Elbise — modern zarafetin yeniden yorumu. Akıcı Halter Yaka Maksi Elbise koleksiyonun öne çıkan parçalarından. İnce işçilik ve özenle seçilen kumaş yapısıyla feminen bir duruş kazandırır; vücut hatlarını destekleyen kesim gün boyu rahat bir kullanım sunar. Davet, kokteyl, özel akşam yemeği ve gece programlarınızda zarif bir tercih olarak gardırobunuzun klasiklerinden olmaya aday bir parça. Marka: THESVELTECHICKalıp: Regular FitBeden: S, M, L
+  Updated: 2026-05-08T11:03:07Z
   Vendor: THESVELTECHIC
   Product Type: Maksi Elbise
   Availability: Available
@@ -35809,7 +35214,7 @@ Key facts about The Sveltechic:
     Availability: Available
     Price: ₺3.200,00 TRY
 - [Bonnie Siyah Akıcı Dantelli Halter Yaka Maksi Elbise](https://www.thesveltechic.com/products/bonnie-siyah-akici-dantelli-halter-yaka-maksi-elbise): Bonnie Siyah Akıcı Dantelli Halter Yaka Maksi Elbise — modern zarafetin yeniden yorumu. Akıcı Dantelli Halter Yaka Maksi Elbise koleksiyonun öne çıkan parçalarından. İnce işçilik ve özenle seçilen kumaş yapısıyla feminen bir duruş kazandırır; vücut hatlarını destekleyen kesim gün boyu rahat bir kullanım sunar. Davet, kokteyl, özel akşam yemeği ve gece programlarınızda zarif bir tercih olarak gardırobunuzun klasiklerinden olmaya aday bir parça. Marka: THESVELTECHICKalıp: Regular FitBeden: S, M, L
-  Updated: 2026-05-02T09:19:25Z
+  Updated: 2026-05-06T23:27:44Z
   Vendor: THESVELTECHIC
   Product Type: Maksi Elbise
   Availability: Available
@@ -35913,12 +35318,12 @@ Key facts about The Sveltechic:
   - [L](https://www.thesveltechic.com/products/wynn-limon-sarisi-cicekli-triko-midi-elbise?variant=48094928371957)
     Availability: Available
     Price: ₺5.800,00 TRY
-- [Lemon Alt Üst Takım](https://www.thesveltechic.com/products/sari-pamuklu-onden-bagcikli-peplum-bluz-ve-etek-takimi): Cotton Önden Bağcıklı Peplum Bluz Etek Takım — feminen detayların buluştuğu özel bir parça. Önden Bağcıklı Peplum Bluz Etek Takım, dikkat çekici tasarımı ve özenle seçilmiş kumaş yapısıyla gündelik şıklığın ve özel davetlerin vazgeçilmezi olmaya aday. Kalıbın oturuşu ve kumaşın düşüşü, gün boyu konforlu bir kullanım sağlar. Yaz tatili, kahvaltı buluşmaları ve özel davetlerinizde size eşlik edecek bu parça, sade zarafetin ve modern feminizmin buluştuğu noktada Türk pazarına özel sunulan seçeneklerden. Kompozisyon: 100% Pamuk Kumaş: Pamuklu Kalınlık: Standart Kalıp: Regular Fit Esneklik: Esnek değil Marka: THESVELTECHIC Beden: S, M, L
-  Updated: 2026-05-03T00:30:17Z
+- [Effy Maxi Takım](https://www.thesveltechic.com/products/sari-pamuklu-onden-bagcikli-peplum-bluz-ve-etek-takimi): Cotton Önden Bağcıklı Peplum Bluz Etek Takım — feminen detayların buluştuğu özel bir parça. Önden Bağcıklı Peplum Bluz Etek Takım, dikkat çekici tasarımı ve özenle seçilmiş kumaş yapısıyla gündelik şıklığın ve özel davetlerin vazgeçilmezi olmaya aday. Kalıbın oturuşu ve kumaşın düşüşü, gün boyu konforlu bir kullanım sağlar. Yaz tatili, kahvaltı buluşmaları ve özel davetlerinizde size eşlik edecek bu parça, sade zarafetin ve modern feminizmin buluştuğu noktada Türk pazarına özel sunulan seçeneklerden. Kompozisyon: 100% Pamuk Kumaş: Pamuklu Kalınlık: Standart Kalıp: Regular Fit Esneklik: Esnek Marka: THESVELTECHIC Beden: S, M, L
+  Updated: 2026-05-09T07:45:15Z
   Vendor: THESVELTECHIC
   Product Type: Takım
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1777290017904.png?v=1777670397
+  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/15530D37-512F-41D4-B528-8A779115482B.webp?v=1778160138
   - [S](https://www.thesveltechic.com/products/sari-pamuklu-onden-bagcikli-peplum-bluz-ve-etek-takimi?variant=48094929617141)
     Availability: Available
     Price: ₺4.800,00 TRY
@@ -35928,6 +35333,459 @@ Key facts about The Sveltechic:
   - [L](https://www.thesveltechic.com/products/sari-pamuklu-onden-bagcikli-peplum-bluz-ve-etek-takimi?variant=48094929682677)
     Availability: Available
     Price: ₺4.800,00 TRY
+- [Larissa Maxi Dress](https://www.thesveltechic.com/products/2025-5): Fransız tarzı şık puantiyeli askılı uzun elbise. Beyaz zemin üzerine siyah puantiyelerin zarif dansı, kalp yaka kesimi ve arkası açık detayıyla feminen bir görünüm sunar. Şifon kumaşı sayesinde hafif ve akışkan, A kesim kalıbı vücut hatlarını zarif şekilde saran bu elbise, özel günlerinizde ve günlük şıklığınızda vazgeçilmez parçanız olacak. Yüksek kaliteli şifon kumaş nefes alabilir özelliği ile konfor sağlar. Askılı tasarımı ile yazlık kombinlerinize mükemmel uyum gösterir. Kalp yaka detayı dekolte bölgesini zarif şekilde vurgularken, arkası açık kesim modern bir dokunuş katar. A kesim kalıbı her vücut tipine uygun olup, maxi boy ile şık bir siluet oluşturur. Özel davetler, akşam yemekleri, romantik buluşmalar için ideal. Nude topuklu ayakkabılar ve minimal takılarla kombinleyebilirsiniz.
+  Updated: 2026-05-06T11:21:52Z
+  Vendor: Svelte Chic
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/indir_264559f5-3c03-41e2-a6a1-dbac4585d3ae.jpg?v=1777891067
+  - [S](https://www.thesveltechic.com/products/2025-5?variant=48098688696565)
+    Availability: Available
+    Price: ₺4.800,00 TRY
+  - [M](https://www.thesveltechic.com/products/2025-5?variant=48098688729333)
+    Availability: Available
+    Price: ₺4.800,00 TRY
+  - [L](https://www.thesveltechic.com/products/2025-5?variant=48098688762101)
+    Availability: Available
+    Price: ₺4.800,00 TRY
+- [Laura Maxi Takım](https://www.thesveltechic.com/products/printed-halter-crop-top-mini-skirt-set): Şık ve modern desenli askılı kısa üst ve mini etek takımı ile yazın en trend kombinlerini oluşturun. %100 polyester dokuma kumaştan üretilen bu iki parça takım, ince yapısı ve regular fit kalıbıyla rahat kullanım sunar. Askılı halter yaka tasarımı ve geometrik desenli yapısı ile parti, tatil ve özel günlerinizde dikkat çekici bir görünüm elde edeceksiniz. Görünmez fermuarlı detayı ile pratik kullanım sağlar. Elastan içermediği için streç özelliği yoktur ancak kaliteli dokuma kumaşı sayesinde dayanıklıdır. XS'den XL'e kadar geniş beden seçenekleri mevcuttur. 30°C'de yıkanabilir, ağartıcı kullanılmamalıdır. Benzer renklerle yıkayın ve maksimum 110°C'de ütüleyin. Kuru temizleme yapmayın. Yazlık gardırobunuzun vazgeçilmez parçası olacak bu şık takım ile hem günlük hem de özel günlerde rahatlıkla kullanabilirsiniz.
+  Updated: 2026-05-05T08:13:58Z
+  Vendor: COMMENSE
+  Product Type: Skirt Sets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/KATYA_HALTER_TOP_1_of_1_b6789b82-c391-4cf9-a95d-8aa63c161807.webp?v=1777893556
+  - [XS](https://www.thesveltechic.com/products/printed-halter-crop-top-mini-skirt-set?variant=48117851455733)
+    Availability: Available
+    Price: ₺4.100,00 TRY
+  - [S](https://www.thesveltechic.com/products/printed-halter-crop-top-mini-skirt-set?variant=48117851488501)
+    Availability: Available
+    Price: ₺4.100,00 TRY
+  - [M](https://www.thesveltechic.com/products/printed-halter-crop-top-mini-skirt-set?variant=48117851521269)
+    Availability: Available
+    Price: ₺4.100,00 TRY
+  - [L](https://www.thesveltechic.com/products/printed-halter-crop-top-mini-skirt-set?variant=48117851554037)
+    Availability: Available
+    Price: ₺4.100,00 TRY
+  - [XL](https://www.thesveltechic.com/products/printed-halter-crop-top-mini-skirt-set?variant=48117851586805)
+    Availability: Available
+    Price: ₺4.100,00 TRY
+- [Şifon Puantiyeli Uzun Elbise](https://www.thesveltechic.com/products/chiffon-sheer-polka-dot-print-backless-long-dress-1): Zarif şifon kumaştan üretilen bu puantiyeli maxi elbise, özel günlerinizin vazgeçilmezi. Arkası açık tasarımı ve askısız kesimi ile dikkat çeken elbise, %100 polyester şifon kumaşı sayesinde hafif ve rahat. İnce yapısı ve esnek olmayan kumaşı ile vücut hatlarını zarif şekilde saran regular fit kalıp. Puantiyeli desenin siyah zemin üzerindeki beyaz noktaları klasik ve şık bir görünüm sunar. Parti, özel davet, tatil ve gece çıkışları için ideal. Maxi boy uzunluğu ile zarif bir siluet yaratır. 30°C'de yıkanabilir, ağartıcı kullanmayın. Benzer renklerle yıkayın ve maksimum 110°C'de ütüleyin. Kuru temizleme yapmayın. XS'den XL'e kadar bedenler mevcuttur. Şifon kumaşın doğal akışkanlığı ile hareket halinde büyüleyici bir görünüm sergiler.
+  Updated: 2026-05-05T00:04:31Z
+  Vendor: COMMENSE
+  Product Type: Dresses
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/B1715336686239_938caed1-f122-4bda-b943-bf43345196b5.jpg?v=1777896263
+  - [XS](https://www.thesveltechic.com/products/chiffon-sheer-polka-dot-print-backless-long-dress-1?variant=48118479290613)
+    Availability: Available
+    Price: ₺3.900,00 TRY
+  - [S](https://www.thesveltechic.com/products/chiffon-sheer-polka-dot-print-backless-long-dress-1?variant=48118479356149)
+    Availability: Available
+    Price: ₺3.900,00 TRY
+  - [M](https://www.thesveltechic.com/products/chiffon-sheer-polka-dot-print-backless-long-dress-1?variant=48118479388917)
+    Availability: Available
+    Price: ₺3.900,00 TRY
+  - [L](https://www.thesveltechic.com/products/chiffon-sheer-polka-dot-print-backless-long-dress-1?variant=48118479421685)
+    Availability: Available
+    Price: ₺3.900,00 TRY
+  - [XL](https://www.thesveltechic.com/products/chiffon-sheer-polka-dot-print-backless-long-dress-1?variant=48118479454453)
+    Availability: Available
+    Price: ₺3.900,00 TRY
+- [Monet Maxi Dress](https://www.thesveltechic.com/products/monet-garden-print-sleeveless-long-dress-1): Monet'in ünlü bahçe tablolarından ilham alan bu kolsuz uzun elbise, sanat severlerin gardırobunda olmazsa olmaz parçalardan biri. %88 polyester %12 elastan karışımı jersey kumaşı sayesinde hem rahat hem de şık bir görünüm sunar. Kayık yaka detayı ve slim fit kesimi ile vücut hatlarınızı zarif bir şekilde ortaya çıkarır. Maxi boy uzunluğu ile özel davetlerden günlük kombinlere kadar her ortamda kullanabileceğiniz çok yönlü bir parça. Orta seviye esneklik özelliği hareket özgürlüğü sağlarken, kolsuz tasarımı yaz aylarında serinlik hissi verir. Yeşil ve mor tonlarındaki batik desenli kumaşı ile dikkat çekici bir stil yaratır. El yıkama önerilir, ağartıcı kullanmayın, düz kurutun ve maksimum 110°C'de ütüleyin. XS'den XL'e kadar geniş beden seçenekleri mevcuttur.
+  Updated: 2026-05-05T00:06:36Z
+  Vendor: COMMENSE
+  Product Type: Dresses
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/THEOMAXIDRESS-TAPERTRY_2of2.webp?v=1777896418
+  - [XS](https://www.thesveltechic.com/products/monet-garden-print-sleeveless-long-dress-1?variant=48118504259829)
+    Availability: Available
+    Price: ₺3.500,00 TRY
+  - [S](https://www.thesveltechic.com/products/monet-garden-print-sleeveless-long-dress-1?variant=48118504292597)
+    Availability: Available
+    Price: ₺3.500,00 TRY
+  - [M](https://www.thesveltechic.com/products/monet-garden-print-sleeveless-long-dress-1?variant=48118504325365)
+    Availability: Available
+    Price: ₺3.500,00 TRY
+  - [L](https://www.thesveltechic.com/products/monet-garden-print-sleeveless-long-dress-1?variant=48118504358133)
+    Availability: Available
+    Price: ₺3.500,00 TRY
+  - [XL](https://www.thesveltechic.com/products/monet-garden-print-sleeveless-long-dress-1?variant=48118504390901)
+    Availability: Available
+    Price: ₺3.500,00 TRY
+- [Noir Maxi Dress](https://www.thesveltechic.com/products/metal-halka-askili-arkasi-acik-kisa-elbise-kahverengi): Şık metal halka detaylı askılı elbise ile yaz stilinizi tamamlayın. Halter yaka tasarımı ve arkası açık kesimi ile dikkat çekici bir görünüm sunar. Vücut hatlarını saran slim fit kalıbı ile zarif duruş sağlar. Viskon kumaşı sayesinde nefes alabilir ve rahat. Özel günler, parti ve akşam yemekleri için ideal. Bel kısmındaki bağcık detayı ile ayarlanabilir fit. Mini boy kesimi ile genç ve dinamik görünüm. Kahverengi rengi ile her ten tonuna uyum sağlar. Altın tonlarındaki metal aksesuarlarla mükemmel uyum. Yüksek kaliteli dikişler ve dayanıklı yapısı ile uzun süre kullanım. S, M, L beden seçenekleri mevcuttur.
+  Updated: 2026-05-08T21:10:22Z
+  Vendor: Svelte Chic
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/look-14-6140.avif?v=1778231250
+  - [S](https://www.thesveltechic.com/products/metal-halka-askili-arkasi-acik-kisa-elbise-kahverengi?variant=48118666559733)
+    Availability: Available
+    Price: ₺4.500,00 TRY
+  - [M](https://www.thesveltechic.com/products/metal-halka-askili-arkasi-acik-kisa-elbise-kahverengi?variant=48118666592501)
+    Availability: Available
+    Price: ₺4.500,00 TRY
+  - [L](https://www.thesveltechic.com/products/metal-halka-askili-arkasi-acik-kisa-elbise-kahverengi?variant=48118666625269)
+    Availability: Available
+    Price: ₺4.500,00 TRY
+- [Kristal Taşlı Tek Omuz Bel Dekolte Mermaid Abiye Elbise](https://www.thesveltechic.com/products/kristal-tasli-tek-omuz-bel-dekolte-mermaid-abiye-elbise): Davet, gala, mezuniyet ve özel geceleriniz için tasarlanan bu kristal taşlı maxi abiye, asimetrik tek omuz kesimi ve yan bel dekoltesiyle çarpıcı bir siluet sunar. Mermaid silüetiyle bedeni inceltici hatlarla sarar, eteklere doğru hafifçe bollaşır. İşlemeli mesh kumaşının her hareketle parıldayan dokusu, davetlerde dikkat çekici bir varlık yaratır. Tek omuzdan akan drape detay, klasik abiye estetiğini modern bir asimetri ile birleştirir; yan bel cutout ise feminen bir vurgu ekler. Şampanya tonunda altın saten topuklu ayakkabı ve kristal aksesuarlarla, lacivert tonunda gümüş takılarla zarif bir kombin oluşturabilirsiniz. Ürün Detayları Renk Seçenekleri: Şampanya, Lacivert Boy: Maxi (uzun) Yaka: Asimetrik tek omuz Kol: Kolsuz Bel: Yan dekolte (cutout), yüksek bel Silüet: Mermaid (balıketi) Kumaş: Kristal taş işlemeli mesh, %85 Polyester / %15 Elastan Esneklik: Orta esneklik Sezon: Tüm sezonlar (özel davetler) Bakım Sadece kuru temizleme önerilir. Yıkamayın, ütülemeyin. Saklarken askıda bekletin, kristallere zarar vermemek için katlamayın.
+  Updated: 2026-05-08T00:36:54Z
+  Vendor: THESVELTECHIC
+  Product Type: Maxi
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260505_142947_71394982-94f6-4149-9b7e-e23ca9991a1d.png?v=1777991661
+  - [S / Şampanya](https://www.thesveltechic.com/products/kristal-tasli-tek-omuz-bel-dekolte-mermaid-abiye-elbise?variant=48123643265269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260505_142947_71394982-94f6-4149-9b7e-e23ca9991a1d.png?v=1777991661
+    Price: ₺12.500,00 TRY
+  - [M / Şampanya](https://www.thesveltechic.com/products/kristal-tasli-tek-omuz-bel-dekolte-mermaid-abiye-elbise?variant=48123643298037)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260505_142947_71394982-94f6-4149-9b7e-e23ca9991a1d.png?v=1777991661
+    Price: ₺12.500,00 TRY
+  - [L / Şampanya](https://www.thesveltechic.com/products/kristal-tasli-tek-omuz-bel-dekolte-mermaid-abiye-elbise?variant=48123643330805)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260505_142947_71394982-94f6-4149-9b7e-e23ca9991a1d.png?v=1777991661
+    Price: ₺12.500,00 TRY
+  - [S / Lacivert](https://www.thesveltechic.com/products/kristal-tasli-tek-omuz-bel-dekolte-mermaid-abiye-elbise?variant=48123643363573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260505_143213_5c62ca8e-3327-448b-8a54-8c8f74c23947.png?v=1777991661
+    Price: ₺12.500,00 TRY
+  - [M / Lacivert](https://www.thesveltechic.com/products/kristal-tasli-tek-omuz-bel-dekolte-mermaid-abiye-elbise?variant=48123643396341)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260505_143213_5c62ca8e-3327-448b-8a54-8c8f74c23947.png?v=1777991661
+    Price: ₺12.500,00 TRY
+  - [L / Lacivert](https://www.thesveltechic.com/products/kristal-tasli-tek-omuz-bel-dekolte-mermaid-abiye-elbise?variant=48123643429109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260505_143213_5c62ca8e-3327-448b-8a54-8c8f74c23947.png?v=1777991661
+    Price: ₺12.500,00 TRY
+- [Açık Sırt Saten Balık Kuyruk Maksi Elbise](https://www.thesveltechic.com/products/acik-sirt-saten-balik-kuyruk-maksi-elbise): Yüksek satenli dokusu, dramatik açık sırt detayı ve sofistike balık kuyruk silüetiyle premium davet hissi sunan zarif maksi elbise. Önde kapalı, geniş omuzlu boat-neck dekolte; arkada ince spagetti askılar, dramatik açık sırt ve alçak belde küçük zincir aksesuar; bel hattından dökülen mermaid kesim, dize doğru daralıp ayağa doğru zarif bir flare ile açılır. Detaylar Boat-neck (yatay) yaka, kapalı zarif ön İnce spagetti askılarla dramatik açık sırt Alçak sırtta küçük metalik zincir detayı Slim-fit korsaj, doğal bel seam Mermaid (balık kuyruk) kesim etek; dize daralan, taban hizasında flare ve hafif kuyruk (train) Yüksek parlak saten dokusu — polyester (%95+) Yan dikiş gizli fermuar, astar dahil Beden Önerisi Slim-fit ve mermaid kesim doğal hatları net olarak takip eder. Korsaj göğüs çevresine ve bel hattına oturur, kalçadan diz altına kadar daralır, sonra flare yapar. Göğüs ölçünüz S için 82–86, M için 88–92, L için 94–98 cm aralığında ise normal beden uygundur. Bakım Soğuk suda elde yıkama veya kuru temizleme önerilir. Çamaşır suyu kullanmayın. Düşük ısıda buharlı ütü.
+  Updated: 2026-05-08T00:35:53Z
+  Vendor: THESVELTECHIC
+  Product Type: Maxi
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260505_211314_0304be78-907e-46cb-b9c4-554e3b60595e.png?v=1778015766
+  - [S / Kayısı](https://www.thesveltechic.com/products/acik-sirt-saten-balik-kuyruk-maksi-elbise?variant=48124631154933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260505_211314_0304be78-907e-46cb-b9c4-554e3b60595e.png?v=1778015766
+    Price: ₺5.800,00 TRY
+  - [M / Kayısı](https://www.thesveltechic.com/products/acik-sirt-saten-balik-kuyruk-maksi-elbise?variant=48124631187701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260505_211314_0304be78-907e-46cb-b9c4-554e3b60595e.png?v=1778015766
+    Price: ₺5.800,00 TRY
+  - [L / Kayısı](https://www.thesveltechic.com/products/acik-sirt-saten-balik-kuyruk-maksi-elbise?variant=48124631220469)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260505_211314_0304be78-907e-46cb-b9c4-554e3b60595e.png?v=1778015766
+    Price: ₺5.800,00 TRY
+  - [S / Zeytin Yeşili](https://www.thesveltechic.com/products/acik-sirt-saten-balik-kuyruk-maksi-elbise?variant=48124631253237)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260505_211344_68cc3f37-ad9a-4676-85c9-39ffe0f2e782.png?v=1778015767
+    Price: ₺5.800,00 TRY
+  - [M / Zeytin Yeşili](https://www.thesveltechic.com/products/acik-sirt-saten-balik-kuyruk-maksi-elbise?variant=48124631286005)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260505_211344_68cc3f37-ad9a-4676-85c9-39ffe0f2e782.png?v=1778015767
+    Price: ₺5.800,00 TRY
+  - [L / Zeytin Yeşili](https://www.thesveltechic.com/products/acik-sirt-saten-balik-kuyruk-maksi-elbise?variant=48124631318773)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260505_211344_68cc3f37-ad9a-4676-85c9-39ffe0f2e782.png?v=1778015767
+    Price: ₺5.800,00 TRY
+- [Diamond Makrame Detaylı Derin V Yaka Açık Sırt Krem Şifon Maksi Elbise](https://www.thesveltechic.com/products/diamond-makrame-detayli-derin-v-yaka-acik-sirt-krem-sifon-maksi-elbise): Derin V yaka, halter+spaghetti askı kombinasyonu ve belin sağ tarafında konumlanmış el dokuması diamond makrame applique paneli ile zarif bir gala/davet hissi sunan akışkan şifon maksi elbise. Krem tonlu hafif şifon kumaş, yapısal saten alt katman üzerine yerleştirilmiş; bias kesim full-circle mega-flare etek harekette dramatik bir hacim yaratır. Tamamen açık sırt yalnızca iki ince spaghetti askı ile dengelenmiştir. Detaylar Derin V yaka — omuzlardan doğal bele kadar inen keskin V hattı Halter + spaghetti askı kombo — V-yaka kenarı boyunca uzanan saten halter band ve omuzdan geçen ince askılar Yapısal saten/şifon korsaj — doğal belde biten sıkı oturan üst panel Diamond makrame applique paneli — sağ kalçada, doğal bel dikişine yapısal olarak entegre edilmiş yaklaşık 18×24 cm boyutunda eşkenar dörtgen el dokuması krem panel Bias kesim mega-flare full-circle etek — şeffaf şifon üst katman + akışkan saten alt katman, zemine kadar Tamamen açık sırt — sadece omuzdan bele paralel iki ince spaghetti askı Ana kumaş %90–95 polyester, kalan elastan Yapım tekniği: panel birleştirme (cut & sew) Beden Önerisi Üst beden vücuda oturan yapıdadır, etek bias kesim sayesinde akışkan ve geniş hacimlidir. Göğüs ölçünüz S için 82–86, M için 88–92, L için 94–98 cm aralığında ise normal bedeniniz uygundur. Bakım Soğuk suda elde yıkama veya kuru temizleme önerilir. Çamaşır suyu kullanmayın. Düşük ısıda buharlı ütü; doğrudan ütüden kaçının.
+  Updated: 2026-05-07T12:32:31Z
+  Vendor: THESVELTECHIC
+  Product Type: Maxi
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_093326_d6c6e715-efb1-4ce6-a1e6-6d257cd347b3.png?v=1778067557
+  - [S / Krem](https://www.thesveltechic.com/products/diamond-makrame-detayli-derin-v-yaka-acik-sirt-krem-sifon-maksi-elbise?variant=48126536351989)
+    Availability: Available
+    Price: ₺6.500,00 TRY
+  - [M / Krem](https://www.thesveltechic.com/products/diamond-makrame-detayli-derin-v-yaka-acik-sirt-krem-sifon-maksi-elbise?variant=48126536384757)
+    Availability: Available
+    Price: ₺6.500,00 TRY
+  - [L / Krem](https://www.thesveltechic.com/products/diamond-makrame-detayli-derin-v-yaka-acik-sirt-krem-sifon-maksi-elbise?variant=48126536417525)
+    Availability: Available
+    Price: ₺6.500,00 TRY
+- [Halter Bağlamalı Açık Sırt Smocked Bel İki Katlı Volanlı Mini Şifon Elbise](https://www.thesveltechic.com/products/halter-baglamali-acik-sirt-smocked-bel-i̇ki-katli-volanli-mini-sifon-elbise): İpli halter yaka, blousy şifon korsaj, smocked elastik bel ve iki katlı volanlı mini etekle yaz/davet için zarif bir hareket sunan açık sırt mini elbise. Hafif şifon kumaş bedene yumuşakça akar; ortada büzgülü smocked panel beli toparlar, alt kısımdaki çift katman volan ise dramatik bir hacim katar. Detaylar İpli halter yaka — boynun arkasında bağlanan ince spagetti askılarla mock-V ön drape Blousy/yumuşak hareketli korsaj — hafif şifon kumaş, kolsuz Tamamen açık derin scoop sırt (mid-back seviyesine kadar U-form) Smocked elastik bel paneli — yaklaşık 3-4 cm yatay büzgülü/ shirred panel doğal belde İki katlı volan/flounce mini etek — her katman üstten büzgülü, dramatik mid-thigh hem Polyester şifon (%90-95) Pull-on (baştan giyme), arka kapama yok Beden Önerisi Üst beden serbest/blousy, smocked bel orta toleransla bedene oturur. Göğüs ölçünüz S için 82–86, M için 88–92, L için 94–98 cm aralığında ise normal bedeniniz uygundur. Bakım Soğuk suda elde yıkama veya makinede ince yıkama (30°C max). Çamaşır suyu kullanmayın. Düşük ısıda buharlı ütü.
+  Updated: 2026-05-07T12:36:13Z
+  Vendor: THESVELTECHIC
+  Product Type: Mini
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_094129_71fb47a6-bd91-4727-a81b-7aeb5577044b.png?v=1778060902
+  - [S / Siyah](https://www.thesveltechic.com/products/halter-baglamali-acik-sirt-smocked-bel-i̇ki-katli-volanli-mini-sifon-elbise?variant=48126562500853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_094129_71fb47a6-bd91-4727-a81b-7aeb5577044b.png?v=1778060902
+    Price: ₺6.100,00 TRY
+  - [M / Siyah](https://www.thesveltechic.com/products/halter-baglamali-acik-sirt-smocked-bel-i̇ki-katli-volanli-mini-sifon-elbise?variant=48126562533621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_094129_71fb47a6-bd91-4727-a81b-7aeb5577044b.png?v=1778060902
+    Price: ₺6.100,00 TRY
+  - [L / Siyah](https://www.thesveltechic.com/products/halter-baglamali-acik-sirt-smocked-bel-i̇ki-katli-volanli-mini-sifon-elbise?variant=48126562566389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_094129_71fb47a6-bd91-4727-a81b-7aeb5577044b.png?v=1778060902
+    Price: ₺6.100,00 TRY
+  - [S / Krem](https://www.thesveltechic.com/products/halter-baglamali-acik-sirt-smocked-bel-i̇ki-katli-volanli-mini-sifon-elbise?variant=48126562599157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_094226_1cff63e5-391e-4f8e-8579-1a6d4a436156.png?v=1778060902
+    Price: ₺6.100,00 TRY
+  - [M / Krem](https://www.thesveltechic.com/products/halter-baglamali-acik-sirt-smocked-bel-i̇ki-katli-volanli-mini-sifon-elbise?variant=48126562631925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_094226_1cff63e5-391e-4f8e-8579-1a6d4a436156.png?v=1778060902
+    Price: ₺6.100,00 TRY
+  - [L / Krem](https://www.thesveltechic.com/products/halter-baglamali-acik-sirt-smocked-bel-i̇ki-katli-volanli-mini-sifon-elbise?variant=48126562664693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_094226_1cff63e5-391e-4f8e-8579-1a6d4a436156.png?v=1778060902
+    Price: ₺6.100,00 TRY
+  - [S / Pembe](https://www.thesveltechic.com/products/halter-baglamali-acik-sirt-smocked-bel-i̇ki-katli-volanli-mini-sifon-elbise?variant=48126562697461)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_094253_49823919-8990-41f1-b32c-f929ce870339.png?v=1778060902
+    Price: ₺6.100,00 TRY
+  - [M / Pembe](https://www.thesveltechic.com/products/halter-baglamali-acik-sirt-smocked-bel-i̇ki-katli-volanli-mini-sifon-elbise?variant=48126562730229)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_094253_49823919-8990-41f1-b32c-f929ce870339.png?v=1778060902
+    Price: ₺6.100,00 TRY
+  - [L / Pembe](https://www.thesveltechic.com/products/halter-baglamali-acik-sirt-smocked-bel-i̇ki-katli-volanli-mini-sifon-elbise?variant=48126562762997)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_094253_49823919-8990-41f1-b32c-f929ce870339.png?v=1778060902
+    Price: ₺6.100,00 TRY
+  - [S / Sarı](https://www.thesveltechic.com/products/halter-baglamali-acik-sirt-smocked-bel-i̇ki-katli-volanli-mini-sifon-elbise?variant=48126562795765)
+    Availability: Available
+    Price: ₺6.100,00 TRY
+  - [M / Sarı](https://www.thesveltechic.com/products/halter-baglamali-acik-sirt-smocked-bel-i̇ki-katli-volanli-mini-sifon-elbise?variant=48126562828533)
+    Availability: Available
+    Price: ₺6.100,00 TRY
+  - [L / Sarı](https://www.thesveltechic.com/products/halter-baglamali-acik-sirt-smocked-bel-i̇ki-katli-volanli-mini-sifon-elbise?variant=48126562861301)
+    Availability: Available
+    Price: ₺6.100,00 TRY
+- [Picot Trim Detaylı Spaghetti Askı Derin V Yaka Slim Maksi Elbise](https://www.thesveltechic.com/products/picot-trim-detayli-spaghetti-aski-derin-v-yaka-acik-sirt-slim-maksi-elbise): Derin V yaka, fildişi tonunda hassas picot/scallop kenar süsü ve ince spaghetti askılarla minimal ama etkileyici bir slip silüeti sunan slim fit maksi elbise. Mat süt-ipeği örme jersey kumaş bedeni nazikçe sarar; ince spaghetti askılar yaka V-hattından doğal bir akışla başlar, sırtta düz kapalı panel üzerinde V-form ile tutturulur, sağ kalçada yumuşak yatay büzgülü drape silüete asimetrik bir hareket katar. Detaylar Derin V yaka — fildişi tonunda hassas picot/scallop kenar süsü (yaklaşık 1 cm halka örgü) İnce spaghetti askılar — V-yaka kenarından başlayıp omuzdan kapalı arka panele V-form ile bağlanır Slim fit korsaj — doğal bele kadar bedene oturan yapıda Sağ kalçada yumuşak yatay büzgülü drape — asimetrik hafif ruching, yapısal panel değil Slim pencil maksi etek — doğal belden zemine kadar tek parça akışkan kesim Düz kapalı sırt paneli — kürek kemiklerinden doğal bele kadar pürüzsüz tek parça arka İki ince spaghetti askı omuzlardan kapalı arka panelin üst kenarına V-form ile iner Mat süt-ipeği örme jersey (~%70 polyester / %30 elastan) Pull-on (baştan giyme) kapama, fermuar yok Beden Önerisi Slim fit kesim doğal hatları takip eder; örme jersey kumaş hafif esneklikle bedene uyum sağlar. Göğüs ölçünüz S için 82–86, M için 88–92, L için 94–98 cm aralığında ise normal bedeniniz uygundur. Bakım Soğuk suda elde yıkama veya makinede ince yıkama (30°C max). Çamaşır suyu kullanmayın. Düşük ısıda buharlı ütü.
+  Updated: 2026-05-08T00:31:55Z
+  Vendor: THESVELTECHIC
+  Product Type: Maxi
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_140905_ac6d309e-7e2c-4e31-9f52-08c1fe2858f7.png?v=1778076795
+  - [S / Sarı](https://www.thesveltechic.com/products/picot-trim-detayli-spaghetti-aski-derin-v-yaka-acik-sirt-slim-maksi-elbise?variant=48126854758645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_140905_ac6d309e-7e2c-4e31-9f52-08c1fe2858f7.png?v=1778076795
+    Price: ₺5.400,00 TRY
+  - [M / Sarı](https://www.thesveltechic.com/products/picot-trim-detayli-spaghetti-aski-derin-v-yaka-acik-sirt-slim-maksi-elbise?variant=48126854791413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_140905_ac6d309e-7e2c-4e31-9f52-08c1fe2858f7.png?v=1778076795
+    Price: ₺5.400,00 TRY
+  - [L / Sarı](https://www.thesveltechic.com/products/picot-trim-detayli-spaghetti-aski-derin-v-yaka-acik-sirt-slim-maksi-elbise?variant=48126854824181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_140905_ac6d309e-7e2c-4e31-9f52-08c1fe2858f7.png?v=1778076795
+    Price: ₺5.400,00 TRY
+- [Halter Yaka Çiçek Aksesuarlı Mini Elbise](https://www.thesveltechic.com/products/i̇pli-halter-yaka-cicek-aksesuarli-asimetrik-volanli-gecisli-renk-sifon-mini-elbise): İpli halter yaka, ön ortasında ince çiçek formunda gold-inci aksesuar, üst korsajda üçgen şifon drape paneli ve altında asimetrik mendil-form (handkerchief) volanlı mini etekle yaz/davet için zarif ve dramatik bir hareket sunan dégradé şifon mini elbise. Hafif şifon kumaş bedeni rahatça sarar; gradient renk geçişi (üstten alta) kompozisyona modernlik katar. Detaylar İpli halter yaka — boyun arkasında bağlanan ince spagetti askı Çiçek formunda gold-inci aksesuar — yaka önünde ortalanmış küçük 4-5 yapraklı altın+inci dekoratif aksesuar Üçgen şifon drape paneli — halter düğümünden göğüs altına inen tek parça üst panel Asimetrik mendil-form (handkerchief) volanlı mini etek — birden fazla katmanlı uçları farklı uzunluklarda şifon panelleri Bol/oversize kesim — bedene yapışmaz, akışkan Tamamen açık derin sırt — sadece halter ipi ile bağlanır Kolsuz / cut-in armhole kesim Pull-on, kapama yok Hafif şifon polyester (~%80-90) Beden Önerisi Bol oversize kesim doğal hatları takip etmez, geniş tolerans sunar. Göğüs ölçünüz S için 82–86, M için 88–92, L için 94–98 cm aralığında ise normal bedeniniz uygundur. Bakım Soğuk suda elde yıkama önerilir. Çamaşır suyu kullanmayın. Düşük ısıda buharlı ütü; doğrudan ütüden kaçının.
+  Updated: 2026-05-08T20:11:25Z
+  Vendor: THESVELTECHIC
+  Product Type: Mini
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_151406_e7f37012-501a-4a6b-bd2a-d0a5702ab4f5.png?v=1778080658
+  - [S / Turuncu Geçişli](https://www.thesveltechic.com/products/i̇pli-halter-yaka-cicek-aksesuarli-asimetrik-volanli-gecisli-renk-sifon-mini-elbise?variant=48126950342901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_151406_e7f37012-501a-4a6b-bd2a-d0a5702ab4f5.png?v=1778080658
+    Price: ₺5.700,00 TRY
+  - [M / Turuncu Geçişli](https://www.thesveltechic.com/products/i̇pli-halter-yaka-cicek-aksesuarli-asimetrik-volanli-gecisli-renk-sifon-mini-elbise?variant=48126950375669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_151406_e7f37012-501a-4a6b-bd2a-d0a5702ab4f5.png?v=1778080658
+    Price: ₺5.700,00 TRY
+  - [L / Turuncu Geçişli](https://www.thesveltechic.com/products/i̇pli-halter-yaka-cicek-aksesuarli-asimetrik-volanli-gecisli-renk-sifon-mini-elbise?variant=48126950408437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_151406_e7f37012-501a-4a6b-bd2a-d0a5702ab4f5.png?v=1778080658
+    Price: ₺5.700,00 TRY
+  - [S / Bordo Geçişli](https://www.thesveltechic.com/products/i̇pli-halter-yaka-cicek-aksesuarli-asimetrik-volanli-gecisli-renk-sifon-mini-elbise?variant=48126950441205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_151450_796b02c7-0b24-4f0b-8487-a85891ed04b0.png?v=1778080658
+    Price: ₺5.700,00 TRY
+  - [M / Bordo Geçişli](https://www.thesveltechic.com/products/i̇pli-halter-yaka-cicek-aksesuarli-asimetrik-volanli-gecisli-renk-sifon-mini-elbise?variant=48126950473973)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_151450_796b02c7-0b24-4f0b-8487-a85891ed04b0.png?v=1778080658
+    Price: ₺5.700,00 TRY
+  - [L / Bordo Geçişli](https://www.thesveltechic.com/products/i̇pli-halter-yaka-cicek-aksesuarli-asimetrik-volanli-gecisli-renk-sifon-mini-elbise?variant=48126950506741)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_151450_796b02c7-0b24-4f0b-8487-a85891ed04b0.png?v=1778080658
+    Price: ₺5.700,00 TRY
+- [V Yaka Akışkan Mini Elbise](https://www.thesveltechic.com/products/spaghetti-aski-derin-v-yaka-capraz-acik-sirt-akiskan-sifon-babydoll-mini-elbise): Derin V yaka, ince spaghetti askılar ve çapraz açık sırt detayıyla minimalist bir tatil/davet hissi sunan akışkan şifon babydoll mini elbise. Tek katlı hafif şifon kumaş göğüs hattından doğal akışla bedene düşer; bel hattı bağımsız, esnek ve hareketli. Khaite/Toteme estetiğine yakın saf beyaz tonu, yaz akşamı şıklığını sade biçimde tanımlar. Detaylar Derin V yaka — göğüs ortasına kadar uzanan yumuşak V hattı İnce spaghetti askılar (3-4mm), omuzdan sırta çapraz X formunda iner Tek panel kesim — göğüs hattında yumuşak büzgü, alt bölüm tamamen serbest döküm Bel seam yok — kumaş göğüs büzgüsünden hem önde hem arkada akışkan biçimde dökülür Çapraz açık sırt — askılar üst sırtta X formunda kesişir, doğal bele kadar açık alan Mini etek boyu — diz üstü, billowy A-line akış Hafif şifon kumaş, hafif transparan görünüm (%80-90 polyester) Pull-on (askıdan giyilebilir), fermuar yok Beden Önerisi Loose/oversize fit. Akışkan şifon kumaş bedene değmeden serbestçe döküldüğü için tolerans yüksek. Göğüs ölçünüz S için 80–88, M için 86–94, L için 92–100 cm aralığında ise normal bedeniniz uygundur. Bakım Soğuk suda elde yıkama önerilir. Çamaşır suyu kullanmayın. Düşük ısıda buharlı ütü, yüksek ısıdan kaçının (şifon hassastır).
+  Updated: 2026-05-09T23:15:18Z
+  Vendor: THESVELTECHIC
+  Product Type: Mini
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_185430_29e0a042-3566-4de4-ad6f-d21b92b9c846.png?v=1778093855
+  - [S / Beyaz](https://www.thesveltechic.com/products/spaghetti-aski-derin-v-yaka-capraz-acik-sirt-akiskan-sifon-babydoll-mini-elbise?variant=48127236112629)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_185430_29e0a042-3566-4de4-ad6f-d21b92b9c846.png?v=1778093855
+    Price: ₺5.700,00 TRY
+  - [M / Beyaz](https://www.thesveltechic.com/products/spaghetti-aski-derin-v-yaka-capraz-acik-sirt-akiskan-sifon-babydoll-mini-elbise?variant=48127236145397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_185430_29e0a042-3566-4de4-ad6f-d21b92b9c846.png?v=1778093855
+    Price: ₺5.700,00 TRY
+  - [L / Beyaz](https://www.thesveltechic.com/products/spaghetti-aski-derin-v-yaka-capraz-acik-sirt-akiskan-sifon-babydoll-mini-elbise?variant=48127236178165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_185430_29e0a042-3566-4de4-ad6f-d21b92b9c846.png?v=1778093855
+    Price: ₺5.700,00 TRY
+- [Halter Cowl V Yaka Açık Sırt Asimetrik Volanlı Puantiyeli Şifon Mini Elbise](https://www.thesveltechic.com/products/halter-cowl-v-yaka-acik-sirt-asimetrik-volanli-puantiyeli-sifon-mini-elbise): Halter Y yaka, ön orta cowl drape V, sağ yan büzgülü ruching ve asimetrik volanlı mini etek ile el yapımı izlenimi veren puantiye baskılı şifon mini elbise. Akışkan şifon kumaş, vacation/resort hissi sunan zarif el-boyaması düzensiz puantiye paterniyle Toteme/Saint Laurent yaz koleksiyonu havası taşır. Detaylar Halter Y yaka — ince self-fabric bağcıklar boyun arkasında ince bağcıkla bağlanır Cowl drape V önlü yaka — göğüs ortasında soft kowl kıvrımı ile yumuşak V hattı Sağ yan ruching — bel hizasında yatay büzgülü drape Asimetrik volanlı mini etek — bias kesim, bir tarafta uzayan handkerchief efekti Tamamen açık sırt — sadece ince halter ipi görünür El-boyaması düzensiz puantiye baskı — 2-3 cm tonal noktalar, organik dağılım Hafif şifon kumaş, hafif transparanlık (mid-thigh boyu) Pull-on (askıdan giyilebilir) + halter ip ayarı Beden Önerisi Loose-A-line silüet, halter göğüs hattını sarar. Şifon kumaş bedene değmeden serbestçe döküldüğünden tolerans yüksek. Göğüs ölçünüz S için 80–86, M için 86–92, L için 92–98 cm aralığında ise normal bedeniniz uygundur. Bakım Soğuk suda elde yıkama önerilir. Çamaşır suyu kullanmayın. Düşük ısıda buharlı ütü, yüksek ısıdan kaçının (şifon hassastır).
+  Updated: 2026-05-08T00:23:58Z
+  Vendor: THESVELTECHIC
+  Product Type: Mini
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_191615_82a5a137-79a2-4f35-9f0b-91b08603371d.png?v=1778095248
+  - [S / Krem](https://www.thesveltechic.com/products/halter-cowl-v-yaka-acik-sirt-asimetrik-volanli-puantiyeli-sifon-mini-elbise?variant=48127256166645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_191615_82a5a137-79a2-4f35-9f0b-91b08603371d.png?v=1778095248
+    Price: ₺5.500,00 TRY
+  - [M / Krem](https://www.thesveltechic.com/products/halter-cowl-v-yaka-acik-sirt-asimetrik-volanli-puantiyeli-sifon-mini-elbise?variant=48127256199413)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_191615_82a5a137-79a2-4f35-9f0b-91b08603371d.png?v=1778095248
+    Price: ₺5.500,00 TRY
+  - [L / Krem](https://www.thesveltechic.com/products/halter-cowl-v-yaka-acik-sirt-asimetrik-volanli-puantiyeli-sifon-mini-elbise?variant=48127256232181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_191615_82a5a137-79a2-4f35-9f0b-91b08603371d.png?v=1778095248
+    Price: ₺5.500,00 TRY
+  - [S / Kahverengi](https://www.thesveltechic.com/products/halter-cowl-v-yaka-acik-sirt-asimetrik-volanli-puantiyeli-sifon-mini-elbise?variant=48127256264949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_191648_fd6729dc-16f7-4c3f-a2c2-717723843d8f.png?v=1778095248
+    Price: ₺5.500,00 TRY
+  - [M / Kahverengi](https://www.thesveltechic.com/products/halter-cowl-v-yaka-acik-sirt-asimetrik-volanli-puantiyeli-sifon-mini-elbise?variant=48127256297717)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_191648_fd6729dc-16f7-4c3f-a2c2-717723843d8f.png?v=1778095248
+    Price: ₺5.500,00 TRY
+  - [L / Kahverengi](https://www.thesveltechic.com/products/halter-cowl-v-yaka-acik-sirt-asimetrik-volanli-puantiyeli-sifon-mini-elbise?variant=48127256330485)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_191648_fd6729dc-16f7-4c3f-a2c2-717723843d8f.png?v=1778095248
+    Price: ₺5.500,00 TRY
+- [Square Yaka Volanlı Pin-Tuck Düğmeli Crop Top + Yüksek Bel A-Line Akışkan Pamuk Midi Etek Set](https://www.thesveltechic.com/products/square-yaka-volanli-pin-tuck-dugmeli-crop-top-yuksek-bel-a-line-akiskan-pamuk-midi-etek-set): Square (kare) yaka volanlı kenarlı, dikey pin-tuck pile detaylı düğmeli pamuk crop top ve yüksek bel büzgülü A-line akışkan pamuk midi etekten oluşan iki parça koordineli set. Khaite/Toteme summer estetiği ile romantik-zarif coastal-grandma çağrışımı taşır; her iki parça birlikte veya ayrı ayrı stilenebilir. Detaylar — Üst Square (kare) yaka — ön ve arka aynı geniş kare boyun çizgisi Volanlı kenar trim — kare yaka kenarı ve geniş omuz askıları boyunca yumuşak ~3 cm volan Geniş kare askılar — volanlı kenar finish Dikey pin-tuck pile — bedence iki yanlı dikey ince pile sırası, slim-fit silüet Önde 5 düğmeli kapama — beyaz/renk uyumlu düğmeler Crop boy — doğal bele kadar Detaylar — Alt Yüksek bel — fitted ~3 cm bel bandı Büzgülü gathered etek — bel bandında yumuşak gather, hacimli A-line akış Mid-calf boyu — orta-uzun, romantik silüet Pamuk dokumalı kumaş — doğal düşüş, yumuşak gövde Beden Önerisi Üst slim fit, etek loose-A-line. Pamuk kumaş hafif streç sunmaz, ölçü tablonuza dikkat edin. Göğüs ölçünüz S için 80–86, M için 86–92, L için 92–98 cm aralığında ise normal bedeniniz uygundur. Bakım Soğuk suda elde yıkama veya makinede ince yıkama (30°C max). Çamaşır suyu kullanmayın. Düşük ısıda buharlı ütü; pamuk dokumayı korumak için askıda kurutun.
+  Updated: 2026-05-08T00:21:47Z
+  Vendor: THESVELTECHIC
+  Product Type: Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_192903_d61cf712-7781-45b7-885e-598f19beb51d.png?v=1778095962
+  - [S / Beyaz](https://www.thesveltechic.com/products/square-yaka-volanli-pin-tuck-dugmeli-crop-top-yuksek-bel-a-line-akiskan-pamuk-midi-etek-set?variant=48127266259189)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_192903_d61cf712-7781-45b7-885e-598f19beb51d.png?v=1778095962
+    Price: ₺6.000,00 TRY
+  - [M / Beyaz](https://www.thesveltechic.com/products/square-yaka-volanli-pin-tuck-dugmeli-crop-top-yuksek-bel-a-line-akiskan-pamuk-midi-etek-set?variant=48127266291957)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_192903_d61cf712-7781-45b7-885e-598f19beb51d.png?v=1778095962
+    Price: ₺6.000,00 TRY
+  - [L / Beyaz](https://www.thesveltechic.com/products/square-yaka-volanli-pin-tuck-dugmeli-crop-top-yuksek-bel-a-line-akiskan-pamuk-midi-etek-set?variant=48127266324725)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_192903_d61cf712-7781-45b7-885e-598f19beb51d.png?v=1778095962
+    Price: ₺6.000,00 TRY
+  - [S / Sarı](https://www.thesveltechic.com/products/square-yaka-volanli-pin-tuck-dugmeli-crop-top-yuksek-bel-a-line-akiskan-pamuk-midi-etek-set?variant=48127266357493)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_192938_14852029-95ff-44a1-be28-8218a8ca1097.png?v=1778095963
+    Price: ₺6.000,00 TRY
+  - [M / Sarı](https://www.thesveltechic.com/products/square-yaka-volanli-pin-tuck-dugmeli-crop-top-yuksek-bel-a-line-akiskan-pamuk-midi-etek-set?variant=48127266390261)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_192938_14852029-95ff-44a1-be28-8218a8ca1097.png?v=1778095963
+    Price: ₺6.000,00 TRY
+  - [L / Sarı](https://www.thesveltechic.com/products/square-yaka-volanli-pin-tuck-dugmeli-crop-top-yuksek-bel-a-line-akiskan-pamuk-midi-etek-set?variant=48127266423029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_192938_14852029-95ff-44a1-be28-8218a8ca1097.png?v=1778095963
+    Price: ₺6.000,00 TRY
+- [Strapless Knot Bağcıklı Tube Top + Yüksek Bel Curved Yoke Balletcore A-Line Midi Etek Set](https://www.thesveltechic.com/products/strapless-knot-bagcikli-tube-top-yuksek-bel-curved-yoke-balletcore-a-line-midi-etek-set): Strapless tube top önünde yumuşak fabric knot bağcık ve uzun akan kuyruklar, yüksek bel curved-yoke (V-form) bel bandı altında balletcore A-line akışkan büzgülü midi etekten oluşan iki parça koordineli set. Khaite/Lemaire balletcore minimalist estetiğine yakın; cotton-blend yumuşak jersey kumaş bedene zarif uyum sağlar. Detaylar — Üst Strapless tube top — düz bandeau yaka, askısız Önde fabric knot bağcık — iki kumaş ucu önde göğüs altında düğüm yapar, ~25-30 cm akan kuyruklar Slim fit silüet — bedene zarif uyum, doğal bele kadar Detaylar — Alt Yüksek bel curved-yoke — V-form bel bandı, doğal belin üstünde Yumuşak büzgülü gathered A-line silüet — akışkan ballet flounce Mid-calf boyu — orta-uzun, balletcore romantik akış Cotton-blend jersey — yumuşak streç, doğal döküm Beden Önerisi Üst slim-fit, etek loose A-line. Cotton-blend jersey hafif streç sunar. Göğüs ölçünüz S için 80–86, M için 86–92, L için 92–98 cm aralığında ise normal bedeniniz uygundur. Bakım Soğuk suda elde yıkama önerilir. Çamaşır suyu kullanmayın. Düşük ısıda buharlı ütü, jersey kumaşa yüksek ısı uygulamayın.
+  Updated: 2026-05-08T00:21:13Z
+  Vendor: THESVELTECHIC
+  Product Type: Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_193610_ddcfafa3-2ce3-415d-b01b-b67a09de7e14.png?v=1778096370
+  - [S / Pudra Pembe](https://www.thesveltechic.com/products/strapless-knot-bagcikli-tube-top-yuksek-bel-curved-yoke-balletcore-a-line-midi-etek-set?variant=48127269437685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_193610_ddcfafa3-2ce3-415d-b01b-b67a09de7e14.png?v=1778096370
+    Price: ₺6.600,00 TRY
+  - [M / Pudra Pembe](https://www.thesveltechic.com/products/strapless-knot-bagcikli-tube-top-yuksek-bel-curved-yoke-balletcore-a-line-midi-etek-set?variant=48127269470453)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_193610_ddcfafa3-2ce3-415d-b01b-b67a09de7e14.png?v=1778096370
+    Price: ₺6.600,00 TRY
+  - [L / Pudra Pembe](https://www.thesveltechic.com/products/strapless-knot-bagcikli-tube-top-yuksek-bel-curved-yoke-balletcore-a-line-midi-etek-set?variant=48127269503221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_193610_ddcfafa3-2ce3-415d-b01b-b67a09de7e14.png?v=1778096370
+    Price: ₺6.600,00 TRY
+  - [S / Açık Gri](https://www.thesveltechic.com/products/strapless-knot-bagcikli-tube-top-yuksek-bel-curved-yoke-balletcore-a-line-midi-etek-set?variant=48127269535989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_193641_10646039-df26-4359-9f6c-4347856a8336.png?v=1778096370
+    Price: ₺6.600,00 TRY
+  - [M / Açık Gri](https://www.thesveltechic.com/products/strapless-knot-bagcikli-tube-top-yuksek-bel-curved-yoke-balletcore-a-line-midi-etek-set?variant=48127269568757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_193641_10646039-df26-4359-9f6c-4347856a8336.png?v=1778096370
+    Price: ₺6.600,00 TRY
+  - [L / Açık Gri](https://www.thesveltechic.com/products/strapless-knot-bagcikli-tube-top-yuksek-bel-curved-yoke-balletcore-a-line-midi-etek-set?variant=48127269601525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_193641_10646039-df26-4359-9f6c-4347856a8336.png?v=1778096370
+    Price: ₺6.600,00 TRY
+  - [S / Limon Sarısı](https://www.thesveltechic.com/products/strapless-knot-bagcikli-tube-top-yuksek-bel-curved-yoke-balletcore-a-line-midi-etek-set?variant=48127269634293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_193654_fb1bc7fe-3070-45cc-b120-1da22a19c05b.png?v=1778096371
+    Price: ₺6.600,00 TRY
+  - [M / Limon Sarısı](https://www.thesveltechic.com/products/strapless-knot-bagcikli-tube-top-yuksek-bel-curved-yoke-balletcore-a-line-midi-etek-set?variant=48127269667061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_193654_fb1bc7fe-3070-45cc-b120-1da22a19c05b.png?v=1778096371
+    Price: ₺6.600,00 TRY
+  - [L / Limon Sarısı](https://www.thesveltechic.com/products/strapless-knot-bagcikli-tube-top-yuksek-bel-curved-yoke-balletcore-a-line-midi-etek-set?variant=48127269699829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_193654_fb1bc7fe-3070-45cc-b120-1da22a19c05b.png?v=1778096371
+    Price: ₺6.600,00 TRY
+  - [S / Koyu Gri](https://www.thesveltechic.com/products/strapless-knot-bagcikli-tube-top-yuksek-bel-curved-yoke-balletcore-a-line-midi-etek-set?variant=48127269732597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_193705_b4cfb5a0-4a2c-4c35-8df8-3ab54cd0f8c4.png?v=1778096370
+    Price: ₺6.600,00 TRY
+  - [M / Koyu Gri](https://www.thesveltechic.com/products/strapless-knot-bagcikli-tube-top-yuksek-bel-curved-yoke-balletcore-a-line-midi-etek-set?variant=48127269765365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_193705_b4cfb5a0-4a2c-4c35-8df8-3ab54cd0f8c4.png?v=1778096370
+    Price: ₺6.600,00 TRY
+  - [L / Koyu Gri](https://www.thesveltechic.com/products/strapless-knot-bagcikli-tube-top-yuksek-bel-curved-yoke-balletcore-a-line-midi-etek-set?variant=48127269798133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_193705_b4cfb5a0-4a2c-4c35-8df8-3ab54cd0f8c4.png?v=1778096370
+    Price: ₺6.600,00 TRY
+- [Halter V Yaka Geniş Siyah Dantel Kenar Polka Dot Açık Sırt Slim Mini Elbise](https://www.thesveltechic.com/products/halter-v-yaka-genis-siyah-dantel-kenar-polka-dot-acik-sirt-slim-mini-elbise): Halter V yaka çevresinde dramatik geniş siyah scalloped dantel kenar trim, ince siyah puantiyeli baskı ve siyah dantel kenarlı slim mini etekle Fransız nostalji-coquette estetiği sunan slim-fit mini elbise. Khaite/Sandy Liang summer aesthetic'a yakın. Detaylar Halter V yaka — boyun arkasında ince bağcık Geniş siyah scalloped dantel kenar trim — V yaka her iki kenarında, omuzdan göğüs ucuna kadar (~5-6 cm) İnce siyah puantiye baskı — beyaz zemin üzerine düzgün dağılım (~3-5 mm) Yüksek bel seam — yatay dikiş hattı Slim-fit bodice — bedene yakın oturuş Slim A-line mini etek — hafif flare Mini hem alt kenarda siyah scalloped dantel trim — neckline ile uyumlu Tamamen açık sırt — sadece halter ipi görünür Beden Önerisi Slim fit, hafif streç. Göğüs ölçünüz S için 80–86, M için 86–92, L için 92–98 cm aralığında ise normal bedeniniz uygundur. Bakım Soğuk suda elde yıkama. Çamaşır suyu kullanmayın. Düşük ısıda buharlı ütü; dantel kenar trim'e yüksek ısı uygulamayın.
+  Updated: 2026-05-08T00:19:07Z
+  Vendor: THESVELTECHIC
+  Product Type: Mini
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_195635_6a04e1a9-fab8-4cda-8750-1920cf38c1ce.png?v=1778097602
+  - [S / Beyaz Polka Dot](https://www.thesveltechic.com/products/halter-v-yaka-genis-siyah-dantel-kenar-polka-dot-acik-sirt-slim-mini-elbise?variant=48127318687989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_195635_6a04e1a9-fab8-4cda-8750-1920cf38c1ce.png?v=1778097602
+    Price: ₺5.400,00 TRY
+  - [M / Beyaz Polka Dot](https://www.thesveltechic.com/products/halter-v-yaka-genis-siyah-dantel-kenar-polka-dot-acik-sirt-slim-mini-elbise?variant=48127318720757)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_195635_6a04e1a9-fab8-4cda-8750-1920cf38c1ce.png?v=1778097602
+    Price: ₺5.400,00 TRY
+  - [L / Beyaz Polka Dot](https://www.thesveltechic.com/products/halter-v-yaka-genis-siyah-dantel-kenar-polka-dot-acik-sirt-slim-mini-elbise?variant=48127318753525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_195635_6a04e1a9-fab8-4cda-8750-1920cf38c1ce.png?v=1778097602
+    Price: ₺5.400,00 TRY
+- [Halter Crochet 3D Gül Aplikeli Açık Sırt Bodycon Macrame Mini Elbise](https://www.thesveltechic.com/products/halter-crochet-3d-gul-aplikeli-acik-sirt-bodycon-macrame-mini-elbise): İnce krem rengi macrame/crochet açık örgü kumaş, halter V yaka çevresinde 3D crochet gül aplikleri ve mini etek alt kenarında aynı 3D gül süslemeleriyle Mara Hoffman/coastal-grandma summer estetiği sunan bodycon mini elbise. El işi crochet dokusu hafif transparan bir hava taşır; yaz tatil ve gala için ideal. Detaylar Halter V yaka — boyun arkasında ince bağcık 3D crochet gül aplikleri — V yaka kenar boyunca süs (~3-4 cm rosette) Slim bodycon crochet bedeniş — bedene uyumlu sıkı oturuş Mini etek alt kenarında 3D crochet gül süslemeleri — neckline ile uyumlu Açık örgü crochet/macrame dokuma — hafif transparan görünüm Tamamen açık sırt — sadece halter ipi görünür Beden Önerisi Bodycon slim fit, açık örgü hafif esnek. Göğüs ölçünüz S için 80–86, M için 86–92, L için 92–98 cm aralığında ise normal bedeniniz uygundur. Bakım Sadece elde nazikçe yıkayın. Çamaşır suyu kullanmayın. Düz bir yüzeyde kurutun (asılmayın - şeklini bozar). Düşük ısıda buharlı ütü; 3D appliqilere doğrudan ısı uygulamayın.
+  Updated: 2026-05-08T00:17:16Z
+  Vendor: THESVELTECHIC
+  Product Type: Mini
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_201121_f58b6c00-1d82-483d-bb1b-74ad42f8aeab.png?v=1778098486
+  - [S / Krem](https://www.thesveltechic.com/products/halter-crochet-3d-gul-aplikeli-acik-sirt-bodycon-macrame-mini-elbise?variant=48127333662965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_201121_f58b6c00-1d82-483d-bb1b-74ad42f8aeab.png?v=1778098486
+    Price: ₺5.700,00 TRY
+  - [M / Krem](https://www.thesveltechic.com/products/halter-crochet-3d-gul-aplikeli-acik-sirt-bodycon-macrame-mini-elbise?variant=48127333695733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_201121_f58b6c00-1d82-483d-bb1b-74ad42f8aeab.png?v=1778098486
+    Price: ₺5.700,00 TRY
+  - [L / Krem](https://www.thesveltechic.com/products/halter-crochet-3d-gul-aplikeli-acik-sirt-bodycon-macrame-mini-elbise?variant=48127333728501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_201121_f58b6c00-1d82-483d-bb1b-74ad42f8aeab.png?v=1778098486
+    Price: ₺5.700,00 TRY
+- [Halter Crochet Bra-Cup Keyhole 3D Çiçek Aplikeli Açık Sırt Bodycon Macrame Maksi Elbise](https://www.thesveltechic.com/products/halter-crochet-bra-cup-keyhole-3d-cicek-aplikeli-acik-sirt-bodycon-macrame-maksi-elbise): İnce krem rengi crochet/macrame açık örgü kumaş, halter yapısal bra-cup formu, kupalar arası küçük keyhole detayı, gövdeye dağıtılmış 3D crochet kelebek/çiçek aplikleri ve zemine kadar bodycon maxi silüetle Mara Hoffman/coastal-grandma signature beach gala estetiği sunan crochet maksi elbise. Detaylar Halter yaka — boyun arkasında ince bağcık Yapısal bra-cup formu — sweetheart şekil göğüs kupaları Küçük merkez keyhole — kupalar arası dar açıklık 3D crochet kelebek/çiçek aplikleri — yaka, kupalar ve gövde boyunca dağılım Slim bodycon crochet beden — bedene yakın oturuş Zemine kadar bodycon maxi — açık örgü slim akış Tamamen açık sırt — sadece halter ipi Açık örgü crochet (hafif transparan) Beden Önerisi Bodycon slim fit, açık örgü hafif esnek. Göğüs ölçünüz S için 80–86, M için 86–92, L için 92–98 cm aralığında ise normal bedeniniz uygundur. Bakım Sadece elde nazikçe yıkayın. Çamaşır suyu kullanmayın. Düz bir yüzeyde kurutun. 3D appliqilere doğrudan ısı uygulamayın.
+  Updated: 2026-05-08T00:16:30Z
+  Vendor: THESVELTECHIC
+  Product Type: Maxi
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_201640_8fe2fe75-270d-4bca-a757-706e6f3ef05f.png?v=1778098710
+  - [S / Krem](https://www.thesveltechic.com/products/halter-crochet-bra-cup-keyhole-3d-cicek-aplikeli-acik-sirt-bodycon-macrame-maksi-elbise?variant=48127338021109)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_201640_8fe2fe75-270d-4bca-a757-706e6f3ef05f.png?v=1778098710
+    Price: ₺5.800,00 TRY
+  - [M / Krem](https://www.thesveltechic.com/products/halter-crochet-bra-cup-keyhole-3d-cicek-aplikeli-acik-sirt-bodycon-macrame-maksi-elbise?variant=48127338053877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_201640_8fe2fe75-270d-4bca-a757-706e6f3ef05f.png?v=1778098710
+    Price: ₺5.800,00 TRY
+  - [L / Krem](https://www.thesveltechic.com/products/halter-crochet-bra-cup-keyhole-3d-cicek-aplikeli-acik-sirt-bodycon-macrame-maksi-elbise?variant=48127338086645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0698/7235/3525/files/hf_20260506_201640_8fe2fe75-270d-4bca-a757-706e6f3ef05f.png?v=1778098710
+    Price: ₺5.800,00 TRY
 
 ## Collections
 
@@ -35974,14 +35832,14 @@ Key facts about The Sveltechic:
   Updated: 2026-04-18T10:53:34Z
   Total Products: 530
 - [Setler](https://www.thesveltechic.com/collections/setler): Kadın Takım Set Modelleri | The Sveltechic The Sveltechic set koleksiyonunda üst ve alt parçası uyumlu, hazır kombin takımlar bulabilirsiniz. Blazer-etek setlerinden crop-pantolon takımlarına, triko setlerden yazlık kombin takımlarına kadar — kombin derdi olmadan şık görünün. Set Kategorileri Blazer + Etek Setleri: Ofis ve özel günler için profesyonel şıklık Blazer + Pantolon Setleri: Power suit görünümü Crop Top + Pantolon Setleri: Günlük ve trendy Triko Setler: Sonbahar ve kış için sıcak ve uyumlu Yazlık Setler: Keten ve viskon hafif takımlar Neden Set Tercih Etmeli? Setler, kombin düşünme zahmetini ortadan kaldırır. Profesyonel bir toplantıya blazer seti ile gidin, hafta sonu brunch'ına crop-pantolon seti ile çıkın. Ayrıca set parçalarını ayrı ayrı da kullanarak gardırobunuzdaki kombileri çoğaltabilirsiniz. Sıkça Sorulan Sorular Set parçalarını ayrı ayrı kullanabilir miyim?Evet! Her setin üst ve alt parçası başka kıyafetlerle de rahatlıkla kombinlenebilir. Üst ve alt farklı beden alabilir miyim?Setlerde üst ve alt parça aynı bedende gelir. Farklı beden ihtiyacınız varsa müşteri hizmetlerimizle iletişime geçin.
-  Updated: 2026-04-28T08:59:01Z
+  Updated: 2026-05-07T11:28:02Z
   Total Products: 370
 - [Uzun Kollu Setler](https://www.thesveltechic.com/collections/uzun-kollu-setler)
   Updated: 2025-11-14T19:51:38Z
   Total Products: 97
 - [Etek Setleri](https://www.thesveltechic.com/collections/etek-setleri): Keşfedin: 2025 Etek Setleri Koleksiyonu! Günlükten özel günlere, her ortam için şık ve rahat midi etek setleri. Moda trendlerini yakından takip edin.
-  Updated: 2026-05-02T12:30:04Z
-  Total Products: 295
+  Updated: 2026-05-07T12:54:32Z
+  Total Products: 296
 - [İkili Takım](https://www.thesveltechic.com/collections/pantalon-setleri)
   Updated: 2026-04-18T10:51:14Z
   Total Products: 235
@@ -35989,37 +35847,37 @@ Key facts about The Sveltechic:
   Updated: 2026-04-18T10:51:06Z
   Total Products: 94
 - [Kadın Elbise Modelleri | SvelteChic - Şık Elbiseler Online](https://www.thesveltechic.com/collections/elbiseler): En şık kadın elbise modellerini SvelteChic'te keşfedin. Günlük elbise, abiye elbise, midi elbise ve yazlık elbise seçenekleri uygun fiyatlarla. Hızlı kargo.
-  Updated: 2026-05-03T11:23:23Z
-  Total Products: 2889
+  Updated: 2026-05-10T11:29:09Z
+  Total Products: 2931
 - [Kısa Elbiseler](https://www.thesveltechic.com/collections/kisa-elbiseler): Kadın Kısa Elbise Modelleri | The Sveltechic The Sveltechic kısa elbise koleksiyonunda mini boy, şık ve enerjik elbise modelleri bulabilirsiniz. Günlük kullanımdan gece çıkışına, plajdan brunch'a kadar her ortam için uygun kısa elbiseler burada. Kısa Elbise Kategorileri A-line Mini: Her vücut tipine yakışan rahat kesim Bodycon Mini: Vücudu saran, gece çıkışları için ideal Gömlek Mini Elbise: Günlük şıklık, düğmeli ve rahat Askılı Mini: Yaz aylarının vazgeçilmezi Sıkça Sorulan Sorular Kısa elbise ile hangi ayakkabı giyilir?Topuklu sandalet resmi ortamlar, sneaker günlük, çizme sonbahar/kış için idealdir.
-  Updated: 2026-04-28T09:01:11Z
+  Updated: 2026-05-07T09:46:01Z
   Total Products: 82
 - [Midi Elbiseler](https://www.thesveltechic.com/collections/midi-elbiseler): Kadın Midi Elbise Modelleri | The Sveltechic The Sveltechic midi elbise koleksiyonunda dizaltı uzunlukta, şık ve çok yönlü elbise modelleri bulabilirsiniz. Midi boy, hem resmi hem günlük kullanım için en ideal elbise uzunluğudur — ofisten akşam yemeğine, düğün davetinden hafta sonu gezintisine kadar her ortama uyum sağlar. Midi Elbise Modelleri A-line Midi: Her vücut tipine yakışan, rahat ve şık kesim Kalem Midi: Vücudu saran, resmi ortamlar için ideal Saten Midi: Özel geceler ve davetler için zarif seçim Gömlek Midi: Günlük şıklık için düğmeli, rahat modeller Örme Midi: Sonbahar ve kış ayları için sıcak ve konforlu Midi Elbise Kombin Rehberi Midi elbiseler en çok yönlü elbise türüdür. Topuklu ayakkabı ile resmi, sneaker ile günlük, çizme ile sonbahar görünümü yaratabilirsiniz. Üzerine blazer ekleyerek ofis şıklığı, denim ceket ile casual bir hava katabilirsiniz. Sıkça Sorulan Sorular Midi boy kime yakışır?Midi boy neredeyse her vücut tipine yakışan en güvenli elbise uzunluğudur. Özellikle A-line kesimler evrensel olarak şık görünür. Midi elbise ile hangi ayakkabı giyilir?Topuklu, düz taban, sneaker veya çizme — midi elbise her ayakkabı türüyle uyumludur.
-  Updated: 2026-04-28T11:23:33Z
+  Updated: 2026-05-08T11:26:59Z
   Total Products: 277
 - [Uzun Elbiseler](https://www.thesveltechic.com/collections/uzun-elbiseler): Kadın Uzun Elbise Modelleri | The Sveltechic The Sveltechic uzun elbise koleksiyonunda maxi boy, zarif ve gösterişli elbise modelleri bulabilirsiniz. Düğün, nişan, mezuniyet balosu, özel davet veya yaz tatili — her etkinlik için uygun uzun elbise seçenekleri burada. Uzun Elbise Modelleri Maxi Elbiseler: Yere kadar uzanan, zarif ve gösterişli Yırtmaçlı Modeller: Hareket kolaylığı ve cesur görünüm Straplez Uzun Elbiseler: Özel geceler için iddialı Gömlek Elbise Maxi: Günlük şıklık için rahat ve modern Uzun Elbise Kombin Rehberi Uzun elbiseler minimal aksesuar ile bile çok şık görünür. İnce bir kolye ve zarif küpeler yeterlidir. Düğün ve davetler için topuklu sandalet, tatil için düz taban sandalet tercih edin. Sıkça Sorulan Sorular Kısa boylulara uzun elbise yakışır mı?Evet! Yüksek bel kesimli ve V yaka uzun elbiseler boyunuzu daha uzun gösterir. Topuklu ayakkabı ile kombinin tamamlayın.
-  Updated: 2026-04-28T09:13:19Z
+  Updated: 2026-05-06T12:51:23Z
   Total Products: 78
 - [Çiçekli Elbiseler](https://www.thesveltechic.com/collections/beyaz-elbiseler): 2025 İlkbahar ve Yaz trendlerine uygun çiçekli elbiseler, her ortam için feminen ve şık kombinler sunar. Her vücut tipine uygun modellerimizle yazın keyfini çıkarın.
-  Updated: 2026-05-03T11:23:23Z
-  Total Products: 218
+  Updated: 2026-05-06T20:23:30Z
+  Total Products: 219
 - [Tulum](https://www.thesveltechic.com/collections/tulum): Kadın Tulum Modelleri | The Sveltechic The Sveltechic tulum koleksiyonunda şık ve pratik tek parça tulumlar bulabilirsiniz. Tulumlar, üst ve alt giyimi birleştirerek kombin derdi olmadan hazır bir görünüm sunar. Günlükten özel güne, her durum için uygun tulum modelleri burada. Sıkça Sorulan Sorular Tulum bedeni nasıl seçilir?Tulumlar tek parça olduğu için beden seçimi önemlidir. Boy ölçünüzü de dikkate alarak ürün sayfasındaki beden tablosunu kontrol edin.
   Updated: 2026-04-12T12:49:25Z
   Total Products: 5
 - [Alt Giyim](https://www.thesveltechic.com/collections/alt-giyim): Kadın Alt Giyim Modelleri | The Sveltechic The Sveltechic alt giyim koleksiyonunda pantolonlardan eteklere, şortlardan taytlara kadar her mevsim ve ortam için uygun kadın alt giyim parçaları bulabilirsiniz. Ofis şıklığından günlük rahatlığa, geniş beden aralığı ve kaliteli kumaş seçenekleriyle gardırobunuzun temelini oluşturun. Alt Giyim Kategorileri Pantolonlar: Wide-leg, slim fit, palazzo ve klasik kesimler Etekler: Mini, midi ve maxi boy seçenekleri Jeans: Mom jean, skinny, straight ve wide-leg modeller Şortlar: Yaz sezonu için şık ve rahat seçenekler Vücut Tipine Göre Alt Giyim Seçimi Doğru alt giyim seçimi, kombinin temelini oluşturur. Yüksek bel modeller bel hattını vurgularken, wide-leg kesimler rahat ve şık bir siluet yaratır. A-line etekler her vücut tipine yakışırken, kalem etekler daha resmi ortamlar için idealdir. Sıkça Sorulan Sorular Beden seçiminde ne yapmalıyım?Her ürün sayfasında bel, kalça ve boy ölçüleri detaylı olarak verilmektedir. Beden kılavuzumuzu inceleyerek en doğru seçimi yapabilirsiniz. Kargo süresi ne kadar?Tüm siparişler 2-4 iş günü içinde Türkiye geneline teslim edilir.
-  Updated: 2026-04-18T10:53:18Z
+  Updated: 2026-05-09T11:28:15Z
   Total Products: 446
 - [Pantalon](https://www.thesveltechic.com/collections/pantalonlar): Kadın Pantolon Modelleri | The Sveltechic The Sveltechic pantolon koleksiyonunda wide-leg'den slim fit'e, palazzo'dan kumaş pantolona kadar her tarza ve ortama uygun kadın pantolon modelleri bulabilirsiniz. Ofis şıklığından günlük konfora, premium kumaşlar ve modern kesimlerle gardırobunuzun olmazsa olmazlarını keşfedin. Pantolon Modelleri Wide-Leg Pantolon: 2026'nın en trend kesimi — rahat ve şık Palazzo Pantolon: Akışkan kumaşlar ile zarif görünüm Slim Fit: Vücuda oturan, klasik ve modern Kumaş Pantolon: Ofis ve resmi ortamlar için ideal Yüksek Bel: Bel hattını vurgulayan, uzun gösteren Pantolon Seçim Rehberi Doğru pantolon seçimi silüetinizi tamamen değiştirir. Yüksek bel modeller bacak boyunu uzatır, wide-leg kesimler rahat bir şıklık sunar. Ofis için kumaş pantolon + blazer, günlük için wide-leg + crop top ideal kombinlerdir. Sıkça Sorulan Sorular Pantolon bedeninde nelere dikkat etmeliyim?Bel ve kalça ölçülerinizi alarak ürün sayfasındaki beden tablosuyla karşılaştırın. Rahat kullanım istiyorsanız bir beden büyük tercih edebilirsiniz. Wide-leg pantolon kısa boyluları kısa gösterir mi?Hayır! Yüksek bel wide-leg pantolon + topuklu ayakkabı kombinasyonu boyunuzu uzun gösterir.
   Updated: 2026-04-18T10:53:35Z
   Total Products: 494
 - [Etekler](https://www.thesveltechic.com/collections/etekler): Keşfedin: 2024 trendleriyle uyumlu, her ortama uygun şık ve rahat etekler. Ofisten özel günlerinize, çeşitli kumaş ve modellerde eteklerimizle tarzınızı yansıtın.
-  Updated: 2026-05-02T12:20:21Z
+  Updated: 2026-05-07T11:28:02Z
   Total Products: 801
 - [Jeans](https://www.thesveltechic.com/collections/jeans): Keşfedin: İş Şıklığı Koleksiyonu ile ofiste hem rahat hem de şık olun. Yüksek kaliteli kumaşlarla tasarlanmış blazer, pantolon ve elbiseler sizi bekliyor.
   Updated: 2026-04-18T10:36:20Z
   Total Products: 96
 - [Kadın Şort Modelleri | SvelteChic - Yazlık Şortlar](https://www.thesveltechic.com/collections/etekler-1): Yaz stilinizi tamamlayacak kadın şort modellerini keşfedin. Jean şort, kumaş şort ve plaj şortları SvelteChic'te uygun fiyatlarla.
-  Updated: 2026-05-03T11:23:23Z
+  Updated: 2026-05-10T11:29:09Z
   Total Products: 5787
 - [Bol Pantalon](https://www.thesveltechic.com/collections/bol-pantalon): Bol pantalon koleksiyonumuz, geniş kesimleriyle günlük ve özel günler için rahatlık ve şıklığı birleştiriyor. Her zevke uygun renk ve kumaş seçenekleriyle.
   Updated: 2025-11-14T19:51:39Z
@@ -36031,7 +35889,7 @@ Key facts about The Sveltechic:
   Updated: 2026-04-18T10:36:30Z
   Total Products: 25
 - [Üst Giyim](https://www.thesveltechic.com/collections/ust-giyim)
-  Updated: 2026-05-01T21:06:21Z
+  Updated: 2026-05-06T11:30:35Z
   Total Products: 2113
 - [Kolsuz Üstler](https://www.thesveltechic.com/collections/kolsuz-ustler)
   Updated: 2025-11-14T19:51:39Z
@@ -36049,7 +35907,7 @@ Key facts about The Sveltechic:
   Updated: 2026-04-18T10:35:48Z
   Total Products: 23
 - [Korseler](https://www.thesveltechic.com/collections/korseler): Kadın Korse Modelleri | The Sveltechic The Sveltechic korse koleksiyonunda bel vurgulayan, feminen ve iddialı korse modelleri bulabilirsiniz. Straplez, askılı ve büstiyer tarzı korseler, hem tek başına hem de blazer veya gömlek altına kombinlenerek çok yönlü bir kullanım sunar. Korse Modelleri ve Kullanım Alanları Saten Korseler: Özel geceler ve davetler için zarif seçim Denim Korseler: Günlük şıklık için mükemmel Dantel Detaylı Korseler: Romantik ve feminen görünüm Büstiyer Tarzı: Yüksek bel pantolon veya etekle ideal kombin Korse Kombin Önerileri Korse + yüksek bel pantolon + blazer = güçlü ofis görünümü. Korse + midi etek = şık akşam yemeği kombini. Korse + mom jean + spor ayakkabı = rahat hafta sonu stili. Her duruma uygun korse kombinleri The Sveltechic'te. Sıkça Sorulan Sorular Korse bedeni nasıl seçilir?Korseler genellikle sıkı oturması gereken parçalardır. Normal bedeninizi alabilirsiniz; rahat kullanım istiyorsanız bir beden büyük tercih edebilirsiniz.
-  Updated: 2026-04-28T11:23:33Z
+  Updated: 2026-05-06T12:47:30Z
   Total Products: 131
 - [Bodysuit](https://www.thesveltechic.com/collections/bodysuit): 2025 Bodysuit koleksiyonumuz, günlükten özel günlere her anınıza şıklık ve konfor katıyor; çeşitli kumaş ve kesimlerle.
   Updated: 2026-04-18T10:44:18Z
@@ -36067,64 +35925,64 @@ Key facts about The Sveltechic:
   Updated: 2026-04-18T10:34:54Z
   Total Products: 50
 - [Kombinler](https://www.thesveltechic.com/collections/kombinler)
-  Updated: 2026-04-18T10:51:41Z
+  Updated: 2026-05-07T11:28:02Z
   Total Products: 181
 - [Bikiniler](https://www.thesveltechic.com/collections/bikiniler): Plaj Modasında Bikini Trendleri 2024 2024 yılında plaj modası, yenilikçi tasarımlar ve çarpıcı detaylarla dolu olacak. Bikini koleksiyonumuz, bu yılın en gözde trendlerini yansıtarak her zevke uygun seçenekler sunuyor. Yeni sezonda öne çıkan parçalar arasında, cesur kesimler ve canlı renkler dikkat çekiyor. Minimalist tasarımlar ve retro esintiler, modern dokunuşlarla birleşerek plajlarınızı şıklıkla süsleyecek. Bikinilerdeki yenilikler sadece estetikle sınırlı kalmıyor; fonksiyonellik de ön planda. Hızlı kuruyan kumaşlar, UV korumalı malzemeler ve ayarlanabilir özellikler, gün boyu konfor ve koruma sağlıyor. Ayrıca, çeşitli beden ve vücut tiplerine uyum sağlayacak şekilde tasarlanmış modellerimizle herkes kendini özel hissedecek. Bikini koleksiyonumuzu keşfetmek için Bikiniler Koleksiyonunu Keşfedin linkini ziyaret edebilirsiniz. Bu yıl plaj modasında öne çıkan bir diğer önemli trend ise sürdürülebilirlik. Çevre dostu malzemelerden üretilen bikinilerimiz, moda dünyasındaki ekolojik bilinci desteklerken stil sahibi görünmenizi de sağlıyor. 2024 Bikini Trendleri, yenilikçi yaklaşımlar ve sürdürülebilir moda anlayışı ile plajlarınızı renklendirecek. Plaj gardırobunuzu güncellemek için şimdi tam zamanı! Her Vücut Tipine Uygun Bikini Seçim Rehberi Bikini seçimi, yaz tatillerinin vazgeçilmez bir parçasıdır ve her vücut tipine uygun olanı bulmak bazen zorlayıcı olabilir. Sveltechic koleksiyonunda yer alan Bikiniler kategorisi, çeşitli vücut tiplerine uygun, modern ve konforlu tasarımlarıyla dikkat çeker. Bu rehberimizde, vücut şeklinize en uygun bikini modelini nasıl seçeceğinize dair ipuçları vereceğiz, böylece hem rahat hissedecek hem de şıklığınızla göz kamaştıracaksınız. Başlamadan önce, vücut tipinizi tanımak önemlidir. 'Armut' tipi vücuda sahipseniz, kalçalarınız görece daha genişken, üst bölgeniz daha dar ise, belinizi vurgulayan ve üst kısmı daha hareketli desenlerle süslenmiş bikini modellerini tercih edebilirsiniz. 'Elma' tipi vücut yapısında ise, bel çevresi daha genişken, bacaklar ve kollar daha incedir; bu durumda yüksek belli bikini altları idealdir. 'Muz' veya düz vücut tipine sahip kişiler, hacim ilüzyonu yaratacak rüşlemeler, frillar veya desenli modelleri tercih ederek feminen bir görünüm kazanabilir. 'Kum saati' vücut tipinde ise, dengeli üst ve alt bölümler arasında beli belirginleştiren modeller en uygun seçenektir. Bikini alışverişi yaparken, sadece vücut tipinize uygun modelleri değil, aynı zamanda kaliteli ve uzun ömürlü ürünleri tercih etmek de önemlidir. Sveltechic'in Bikiniler koleksiyonu, dayanıklı kumaşlar ve canlı renklerle tasarlanmıştır, böylece deniz ve güneşin tadını çıkarırken, bikininizin formunu ve rengini koruyabilirsiniz. Unutmayın, doğru bikini sadece güzel görünmenizi sağlamakla kalmaz, aynı zamanda kendinizi iyi hissetmenize de katkıda bulunur. Bikini seçiminde dikkate almanız gereken diğer önemli faktörler arasında ayarlanabilir askılar, çıkarılabilir pedler ve UV koruması bulunan kumaşlar yer alır. Yaz aylarının keyfini çıkarırken, vücut tipinize en uygun bikiniyi seçmek için Sveltechic'in geniş bikini koleksiyonunu keşfedin. Her zevke ve vücut tipine uygun seçeneklerle, bu yaz plajların en şık ve rahat kişisi siz olun! ```html Bikinilerde Renk ve Desen Seçimlerinin Önemi Yaz mevsiminin vazgeçilmez parçalarından olan bikiniler, plaj modasını doğrudan etkileyen unsurlardır. Renk ve desen seçimleri, bikinilerin hem estetik hem de fonksiyonel yönünü önemli ölçüde belirler. Bu nedenle, Bikiniler Koleksiyonunu Keşfedin sayfamızda sunduğumuz çeşitlilik, her zevke ve ihtiyaca uygun alternatifler sunar. Renkler, kişinin ruh halini ve tarzını yansıtırken, desenler ise figürü daha avantajlı gösterme potansiyeline sahiptir. Örneğin, koyu renkler daha sade ve şık bir görünüm sunarken, canlı renkler ve büyük desenler, dikkat çekici ve enerjik bir stil vaat eder. Ayrıca, desenlerin yerleşimi ve boyutu, vücut tipine göre farklılık gösterebilir. Küçük ve sık desenler, genel olarak daha ince bir görünüm sağlarken, büyük desenler daha dolgun bir siluet yaratma eğilimindedir. Bikini seçiminde renk ve desen kadar, kumaş kalitesi ve kesim de önemlidir. Koleksiyonumuzda yer alan bikiniler, yüksek kaliteli kumaşlar kullanılarak üretilmiş ve farklı vücut tiplerine uyum sağlayacak şekilde tasarlanmıştır. Her bir ürün, uzun süreli kullanım ve konfor düşünülerek hazırlanmıştır. Bu yaz, plajda hem şık hem de rahat hissetmek için doğru bikiniyi seçmek büyük önem taşımaktadır. ``` Bikini Alışverişinde Dikkat Edilmesi Gerekenler Bikini alışverişi, yaz tatillerinin vazgeçilmez bir parçasıdır ve doğru seçim yapmak, hem konforunuzu hem de güveninizi artırabilir. Bikini seçerken dikkat edilmesi gereken en önemli faktörlerden biri, vücut tipinize uygun modelleri tercih etmektir. Her vücut tipi için farklı kesim ve tasarımlar bulunmaktadır; dolayısıyla, vücut hatlarınıza en uygun bikiniyi seçmek, plajda şık ve rahat hissetmenizi sağlar. Bir diğer önemli faktör ise kumaş kalitesidir. Uzun süreli kullanım ve deniz suyunun zararlı etkilerine karşı dayanıklı olması için yüksek kaliteli malzemelerden üretilmiş bikinileri tercih etmelisiniz. Ayrıca, UV koruması sağlayan kumaşlar cildinizi güneşin zararlı ışınlarına karşı korurken, hızlı kuruyan materyaller ise konforunuzu artırır. Renk ve desen seçimleri ise tamamen kişisel zevkinize kalmıştır ancak solmayan renkler güneşin altında daha uzun süre canlı kalmayı sağlar. Bikini alırken bir diğer dikkat etmeniz gereken nokta ise tasarım detaylarıdır. Farklı bağlama stilleri, volanlar veya boncuk gibi detaylar, bikininize özgün bir hava katarak sizi plajın yıldızı yapabilir. Bikiniler koleksiyonunu keşfedin ve yaza damga vuracak bir tarz yaratın. İster dinamik ve canlı renkler, ister sade ve zarif tasarımlar olsun, TheSvelteChic sizlere her zevke uygun alternatifler sunar. 2024 Yazına Damga Vuracak Bikini Modelleri Yaklaşan yaz sezonu için hazır mısınız? 2024 yazı, hem yenilikçi tasarımları hem de konforu ön planda tutan bikini modelleriyle karşılıyoruz. Bikiniler koleksiyonunu keşfedin ve plaj modasının en çarpıcı trendlerini ilk siz deneyimleyin. Modern kesimler, canlı renkler ve çeşitli desenlerle donatılmış bu koleksiyon, her zevke ve vücut tipine uygun alternatifler sunuyor. Bu sezonda öne çıkan yüksek belli bikiniler, plajlarda retro bir hava yaratırken, aynı zamanda kullanıcılara ekstra konfor ve şıklık sunuyor. Ayrıca, straplez ve tek omuz gibi minimal tasarımlar, sade güzelliği ön plana çıkararak zamansız bir tarz vaat ediyor. Her bir parça, suya dayanıklı ve hızlı kuruyan kumaşlar kullanılarak, uzun süreli kullanım ve maksimum rahatlık için özenle hazırlanmıştır. Bikini seçiminde, renk ve desen kadar, kumaşın kalitesi ve modelin vücuda uyumu da büyük önem taşır. ThesvelteChic olarak, her bikini modelini, deniz ve havuz keyfinizi iki katına çıkaracak şekilde tasarladık. Unutmayın, doğru bikini sadece güzel görünmenizi sağlamaz, aynı zamanda kendinizi iyi hissetmenize de katkıda bulunur. Yeni sezonun en gözde modelleri için koleksiyon sayfamızı ziyaret ederek, yazı bir adım önde karşılamaya hazırlanın. Bikinilerde Kalite ve Konforun Önemi Bikini seçerken karşılaşılan en büyük zorluklardan biri, hem estetik hem de rahatlık açısından doğru ürünü bulmaktır. Kaliteli bir bikini, plajda geçirilen zamanın keyfini çıkarmanızı sağlarken, aynı zamanda uzun süreli kullanım için de dayanıklılık sunar. SvelTechic’in Bikiniler koleksiyonu, premium malzemelerle tasarlanmış ürünleri ile bu iki önemli özelliği bir arada sunuyor. Bikinilerimiz, suya dayanıklı ve hızlı kuruyan kumaşlar kullanılarak üretilmiştir. Bu özellikler, bikiniyle denizden çıktıktan sonra rahatsızlık hissetmenizi önler ve kumaşın formunu koruyarak daha uzun süre yeni gibi kalmasını sağlar. Ayrıca, elastik yapısı sayesinde her vücut tipine mükemmel uyum sağlar ve hareket özgürlüğü tanır. Bikini alışverişinde aradığınız kalite ve konforu, Bikiniler koleksiyonumuzu keşfedin linkine tıklayarak bulabilirsiniz. Her bir model, plaj modasının en son trendlerini yansıtacak şekilde özenle seçilmiştir. Canlı renklerden sofistike desenlere, her zevke uygun alternatifler sunuyoruz. Kaliteyi ve konforu bir arada sunan bikinilerimiz, yaz tatilinizin vazgeçilmezi olacak. Plajda şıklığınızla göz kamaştırırken, rahatlığı da elden bırakmayın. SvelTechic ile kaliteyi hissedin, konforu yaşayın. Bikini Bakımı: Renklerin ve Dokuların Korunması Yaz aylarının vazgeçilmez parçası bikiniler, güneşin altında geçirilen keyifli saatlerin simgesidir. Ancak bikinilerin renklerinin canlılığını ve dokularının ilk günkü gibi kalmasını sağlamak, doğru bakım teknikleri ile mümkündür. Bikini bakımı, yalnızca uzun ömürlü kullanım sağlamakla kalmaz, aynı zamanda deniz ve havuz keyfinizi de artırır. Bikini bakımında ilk adım, kullanım sonrası doğru yıkama yöntemleridir. Bikinilerinizi her kullanımdan sonra, özellikle tuzlu su veya klor ile temas ettiyse, soğuk su ile elde yıkamak en iyisidir. Sıcak su, bikinilerin elastan liflerine zarar verebilir ve renklerin solmasına neden olabilir. Yıkama esnasında yumuşak deterjanlar kullanılmalı ve bikiniler kesinlikle sıkılmamalıdır. Ayrıca, bikinilerinizi asarak kurutmak ve doğrudan güneş ışığından kaçınmak, renklerin korunması açısından önemlidir. Bikinilerinizin formunu ve rengini korumak için bir diğer önemli nokta ise depolama koşullarıdır. Bikiniler, kullanılmadıkları zamanlarda kuru ve serin bir yerde saklanmalıdır. Katlama yerine rulo yaparak saklamak, kumaşın deforme olmasını önler ve daha uzun süre formunu korumasını sağlar. Bikini bakımı, sadece yıkama ve saklama ile sınırlı değildir; aynı zamanda kullanım sıklığı ve şekli de büyük önem taşır. Sık kullanılan bikinilerinizi dönüşümlü olarak kullanmak, her birinin ömrünü uzatır. Bikiniler Koleksiyonumuzu Keşfedin ve yazın tadını çıkarırken, stilinizi koruyun.
   Updated: 2026-04-18T10:52:38Z
   Total Products: 234
 - [Yeni Gelenler](https://www.thesveltechic.com/collections/yeni-gelenler): Yeni Gelen Kadın Giyim Modelleri | The Sveltechic The Sveltechic'in yeni gelen kadın giyim koleksiyonunda her hafta güncellenen yüzlerce yeni model sizi bekliyor. Elbiselerden blazerlara, trikodan aksesuvara kadar en son moda trendlerini yansıtan parçalar, 2-4 iş günü hızlı kargo ile kapınıza ulaşıyor. Bu Haftanın Öne Çıkan Trendleri Koleksiyonumuz sürekli güncelleniyor. Minimalist kesimler, cesur renkler ve zamansız silüetlerle gardırobunuzu taze tutabilirsiniz. Her yeni sezon, Zara ve H&M gibi dünya markalarından ilham alan ama çok daha uygun fiyatlı parçalarla karşınızda. Neden The Sveltechic'ten Alışveriş? Hızlı Kargo: Tüm siparişler 2-4 iş günü içinde Türkiye genelinde teslim edilir Geniş Beden Aralığı: XS'den XL'e kadar seçenekler Kaliteli Kumaşlar: Her ürün kalite kontrolden geçirilir Uygun Fiyat: Premium görünüm, erişilebilir fiyatlar Sıkça Sorulan Sorular Yeni ürünler ne sıklıkla ekleniyor?Her hafta onlarca yeni model koleksiyonumuza ekleniyor. En güncel parçaları kaçırmamak için düzenli olarak kontrol edin. Kargo süresi ne kadar?Tüm siparişler 2-4 iş günü içinde Türkiye geneline teslim edilir. DDP kargo ile gümrük işlemleri tarafımızdan halledilir. Beden seçiminde yardım alabilir miyim?Her ürün sayfasında detaylı beden tablosu bulunmaktadır. Beden kılavuzumuzu inceleyerek size en uygun bedeni belirleyebilirsiniz.
-  Updated: 2026-05-03T11:23:23Z
-  Total Products: 13200
+  Updated: 2026-05-10T11:29:09Z
+  Total Products: 13240
 - [En Çok Satanlar](https://www.thesveltechic.com/collections/en-cok-satanlar): En Çok Satan Kadın Giyim Ürünleri | The Sveltechic The Sveltechic'in en çok satan kadın giyim ürünleri bu koleksiyonda! Müşterilerimizin en beğendiği ve en çok tercih ettiği parçalar — elbiseler, blazerlar, takımlar ve daha fazlası. Bu ürünler kalite, fiyat ve stil dengesinde en yüksek puanı alan seçimlerdir. Neden Bu Ürünler Çok Satıyor? Kanıtlanmış Kalite: Yüzlerce müşteri tarafından denenmiş ve onaylanmış Mükemmel Fiyat/Performans: Premium görünüm, erişilebilir fiyat Çok Yönlü Kullanım: Ofisten akşam yemeğine kadar her ortama uygun Trend Uyumu: 2026 moda trendleriyle uyumlu zamansız tasarımlar Sıkça Sorulan Sorular En çok satanlar listesi ne sıklıkla güncelleniyor?Liste otomatik olarak satış verilerine göre güncellenir. En popüler ürünler her zaman burada görünür. Stoklar tükenir mi?Popüler ürünlerde stok yenilemesi düzenli olarak yapılmaktadır. Beğendiğiniz ürünü gördüğünüzde kaçırmamak için hemen sipariş vermenizi öneririz.
-  Updated: 2026-05-03T11:23:23Z
-  Total Products: 15
+  Updated: 2026-05-10T11:29:09Z
+  Total Products: 82
 - [Ofis Giyim & İş Kıyafetleri | SvelteChic](https://www.thesveltechic.com/collections/i̇s-sikligi): Profesyonel ve şık ofis giyim modellerini SvelteChic'te keşfedin. İş elbisesi, blazer, pantolon ve bluz seçenekleri.
-  Updated: 2026-04-29T11:22:39Z
+  Updated: 2026-05-09T11:28:15Z
   Total Products: 4338
 - [Günlük Kadın Giyim | SvelteChic - Casual Kıyafetler](https://www.thesveltechic.com/collections/gundelik-tarz): Her güne yakışan günlük kadın giyim modellerini keşfedin. Rahat ve şık casual kıyafetler, tişört, pantolon ve etek modelleri SvelteChic'te.
-  Updated: 2026-04-28T11:23:33Z
-  Total Products: 5052
+  Updated: 2026-05-10T11:29:09Z
+  Total Products: 5058
 - [Haftasonu Geçidi](https://www.thesveltechic.com/collections/haftasonu-gecidi): Keşfedin: 2025 Haftasonu Geçidi koleksiyonu ile hafta sonu şıklığınızı yükseltin! Rahat ve trend midi elbiseler, yazlık kombinler için ideal.
-  Updated: 2026-05-03T11:23:23Z
-  Total Products: 2370
+  Updated: 2026-05-10T11:29:09Z
+  Total Products: 2372
 - [Gece Cazibesi](https://www.thesveltechic.com/collections/gece-cazibesi): Zarif kumaşlar ve sofistike tasarımlarla dolu Gece Cazibesi koleksiyonumuz, özel akşam etkinlikleri için ideal seçenekler sunar.
-  Updated: 2026-04-28T09:13:19Z
+  Updated: 2026-05-06T12:51:23Z
   Total Products: 176
 - [Sıcak İndirimler!](https://www.thesveltechic.com/collections/sicak-i̇ndirimler)
   Updated: 2026-04-16T09:49:18Z
   Total Products: 29
 - [Sveltechıc Trendler](https://www.thesveltechic.com/collections/2024-trendler): Trendler Koleksiyonu Sezonun Vazgeçilmezi: Trendler Koleksiyonu Bu koleksiyon, modern ve şık tasarımlarıyla 2024 yılının moda sahnesini şekillendiriyor. Her bir parça, günlük kullanımdan özel gün kombinlerine kadar geniş bir yelpazede stil sahibi kadınların ihtiyaçlarını karşılamak üzere tasarlandı. Koleksiyondaki Farklı Kategoriler ve Modeller Trendler koleksiyonu, midi elbiseler, triko giysiler, ve çiçekli elbiseler gibi çeşitli alt kategorileri içerir. Her bir kategori, farklı tarz ve ihtiyaçlara yönelik özenle seçilmiş ürünler sunar. Mevsimlere Göre Kumaş ve Renk Seçimleri Yazlık ve kışlık kumaşlar, mevsim şartlarına uygun konfor ve şıklığı bir araya getiriyor. Yaz ayları için hafif ve nefes alabilen kumaşlar, kış sezonu için ise daha sıcak tutan malzemeler öne çıkıyor. Vücut Tipinize Uygun Elbise Seçimleri Her vücut tipine uygun çeşitler sunan bu koleksiyon, kişiye özel tarz yaratmanıza olanak tanır. Midi boy elbiseler özellikle saatli kum saati figürünü vurgularken, trapez kesimler geniş basenli kadınlar için idealdir. Her Kombinin Tamamlayıcısı: Aksesuar ve Ayakkabı Önerileri Stilinizi tamamlayacak aksesuarlar ve ayakkabılarla kombinlerinizi bir üst seviyeye taşıyın. Şık bir çanta veya zarif bir kolye, basit bir elbiseyi bile dönüştürebilir. Moda Sahnesinde Öne Çıkan Renkler ve Desenler Bu sezonun trend renkleri arasında pastel tonlar ve canlı renk blokları yer alıyor. Çiçek desenleri ve geometrik desenler ise kıyafetlere dinamik bir hava katıyor. Şıklığa İlk Adımı Atın Trendler koleksiyonundaki çarpıcı tasarımlarla kendi stilinizi yaratmaya başlayın. Buraya tıklayarak koleksiyonumuzu keşfedin ve modanın keyfini çıkarın!
-  Updated: 2026-04-28T09:13:19Z
+  Updated: 2026-05-07T11:28:02Z
   Total Products: 578
 - [Yaz Çağrısı](https://www.thesveltechic.com/collections/yaz-cagrisi): Yaz Kadın Giyim Koleksiyonu | The Sveltechic Sıcak havalara özel hafif, nefes alan ve şık kadın giyim parçaları. Keten elbiselerden yazlık setlere, mayo ve bikinilerden plaj aksesuarlarına kadar yaz gardırobunuzun ihtiyacı olan her şey bu koleksiyonda. Yaz İçin Temel Parçalar Keten Takımlar: 2026 yazının 1 numaralı trendi Askılı Elbiseler: Hafif ve ferah, günlük kullanım Crop Top + Wide-Leg Set: Rahat ama şık Mayo ve Bikiniler: Havuz ve plaj için geniş seçenek Sıkça Sorulan Sorular Yazın en trend kumaş hangisi?Keten ve viskon bu yazın en popüler kumaşları. Nefes alır, terletmez ve şık görünür. Kargo süresi ne kadar?Tüm siparişler 2-4 iş günü içinde teslim edilir.
-  Updated: 2026-04-28T09:01:11Z
+  Updated: 2026-05-07T09:44:57Z
   Total Products: 55
 - [Asimetrikler](https://www.thesveltechic.com/collections/asimetrikler)
-  Updated: 2026-04-28T11:23:33Z
+  Updated: 2026-05-07T11:28:02Z
   Total Products: 241
 - [Plise Sanatı](https://www.thesveltechic.com/collections/plise-sanati)
-  Updated: 2026-04-28T08:59:01Z
+  Updated: 2026-05-07T09:44:57Z
   Total Products: 143
 - [Tatil Giyim Koleksiyonu | SvelteChic - Plaj & Tatil Kıyafetleri](https://www.thesveltechic.com/collections/tatil): Tatil gardrobunuzu SvelteChic ile tamamlayın. Plaj elbiseleri, pareo, mayo ve tatil kıyafetleri tek adreste.
-  Updated: 2026-05-03T11:23:23Z
-  Total Products: 4403
+  Updated: 2026-05-10T11:29:09Z
+  Total Products: 4414
 - [Basit Stiller](https://www.thesveltechic.com/collections/basit-stiller)
   Updated: 2026-04-18T10:53:22Z
   Total Products: 16
 - [İş İçin](https://www.thesveltechic.com/collections/i̇s-i̇cin): 2024 trendlerine uygun, modern iş kadını için tasarlanmış şık ve konforlu elbiselerle iş yerinizde fark yaratın.
-  Updated: 2026-04-29T11:22:39Z
+  Updated: 2026-05-09T11:28:15Z
   Total Products: 4181
 - [Gece Hayatı](https://www.thesveltechic.com/collections/gece-hayati): Keşfedin: 2025 Gece Hayatı Koleksiyonu ile her türlü gece etkinliği için şık ve konforlu elbiseler, saten ve ipek detaylarla öne çıkın.
-  Updated: 2026-04-28T09:13:19Z
+  Updated: 2026-05-06T12:51:23Z
   Total Products: 175
 - [Old Money](https://www.thesveltechic.com/collections/old-money): Old Money Tarzı Kadın Giyim | The Sveltechic Old money stili, gösterişsiz lüksün, zamansız zarafetin ve kaliteli kumaşların ön planda olduğu bir giyim anlayışıdır. Logosuz, sade ama pahalı görünen parçalar — 2026'nın "quiet luxury" trendinin temeli. Old Money Stili Nedir? Nötr renkler (krem, bej, lacivert, koyu yeşil), kaliteli kumaşlar (kaşmir, yün, keten) ve temiz kesimler. Marka logosu yerine kumaş kalitesi ve fit ön plandadır. The Sveltechic'te old money stiline uygun blazerlar, takımlar, triko setler ve minimalist elbiseler bulabilirsiniz. Old Money Temel Parçalar Tweed Blazer: Klasik ve sofistike — old money gardırobunun temeli Kaşmir Triko: V yaka veya boğazlı, nötr tonlarda Kumaş Pantolon: Wide-leg veya düz kesim, krep veya yün Midi Elbise: Sade, tek renk, kaliteli kumaş Deri Kemer + Minimal Takılar: İnce altın detaylar Sıkça Sorulan Sorular Old money stili pahalı mı?Hayır! Önemli olan marka değil, kalıp ve kumaş kalitesidir. The Sveltechic'te old money stiline uygun parçaları çok uygun fiyata bulabilirsiniz. Old money ile quiet luxury arasındaki fark nedir?Aynı felsefenin farklı isimleridir. İkisi de gösterişsiz, kaliteli ve zamansız giyimi temsil eder.
   Updated: 2026-04-18T10:53:35Z
   Total Products: 165
 - [Kadın Mayo & Bikini Modelleri | SvelteChic](https://www.thesveltechic.com/collections/mayolar): En şık kadın mayo ve bikini modellerini SvelteChic'te keşfedin. Tüm vücut tiplerine uygun mayo, bikini ve plaj giyim seçenekleri.
-  Updated: 2026-04-24T14:22:55Z
+  Updated: 2026-05-10T11:29:09Z
   Total Products: 433
 - [Çiçekli Seri](https://www.thesveltechic.com/collections/cicekli-elbiseler): 2025 Çiçekli Elbiseler koleksiyonumuz, bahar ve yaz ayları için hafif, nefes alabilen kumaşlarla tasarlandı; her ortamda şıklığınızı koruyun.
-  Updated: 2026-04-18T11:27:06Z
+  Updated: 2026-05-06T12:50:07Z
   Total Products: 125
 - [Zamansız Zarafet](https://www.thesveltechic.com/collections/zamansiz-zarafet)
   Updated: 2026-04-18T10:52:46Z
@@ -36133,10 +35991,10 @@ Key facts about The Sveltechic:
   Updated: 2026-04-18T10:37:17Z
   Total Products: 68
 - [İndirimli Kadın Giyim | SvelteChic - Büyük Fırsatlar](https://www.thesveltechic.com/collections/buyuk-indirimler): SvelteChic'te büyük indirim fırsatlarını kaçırmayın. İndirimli elbise, bluz, aksesuar ve daha fazlası uygun fiyatlarla.
-  Updated: 2026-04-28T09:13:19Z
+  Updated: 2026-05-07T11:28:02Z
   Total Products: 578
 - [Romantik Parti](https://www.thesveltechic.com/collections/romantik-parti)
-  Updated: 2026-04-27T11:25:25Z
+  Updated: 2026-05-06T11:30:35Z
   Total Products: 107
 - [Spor Giyim & Günlük Kombinler | SvelteChic](https://www.thesveltechic.com/collections/spor-kombinler): Rahat ve şık spor giyim modellerini SvelteChic'te keşfedin. Eşofman, tayt, sweatshirt ve spor kombinler uygun fiyatlarla.
   Updated: 2026-04-18T10:39:44Z
@@ -36160,8 +36018,8 @@ Key facts about The Sveltechic:
   Updated: 2026-04-18T10:53:34Z
   Total Products: 96
 - [Tüm Ürünler](https://www.thesveltechic.com/collections/tum-urunler): Tüm Kadın Giyim ve Aksesuar | The Sveltechic The Sveltechic'in tüm kadın giyim ve aksesuar koleksiyonunu keşfedin. Elbiseler, blazerlar, pantolonlar, etekler, trikolar, mayo-bikiniler ve aksesuarlar — binlerce ürün tek sayfada. Filtreleme seçeneklerini kullanarak tarzınıza, bütçenize ve ihtiyacınıza en uygun parçaları kolayca bulun. Kategoriler Üst Giyim: Bluzlar, crop toplar, gömlekler, tişörtler Alt Giyim: Pantolonlar, etekler, jeans, şortlar Elbiseler: Mini, midi, maxi ve abiye modeller Dış Giyim: Blazerlar, ceketler, hırkalar, montlar Setler: Hazır kombin takımlar Aksesuar: Takılar, çantalar, kemerler
-  Updated: 2026-05-03T11:23:23Z
-  Total Products: 10313
+  Updated: 2026-05-10T11:29:09Z
+  Total Products: 10353
 - [Kış İçin Favoriler](https://www.thesveltechic.com/collections/kis-i̇cin-favoriler)
   Updated: 2026-04-18T10:43:42Z
   Total Products: 61
@@ -36169,97 +36027,97 @@ Key facts about The Sveltechic:
   Updated: 2026-04-18T10:44:20Z
   Total Products: 47
 - [FENOMENLERİN SEÇTİKLERİ](https://www.thesveltechic.com/collections/fenomenleri̇n-secti̇kleri̇): Kadın modası için fenomenlerin tercihleri: Şık ve fonksiyonel midi elbiseler, 2024 trendleri ve rahat keten kumaşlarla her ortamda öne çıkın.
-  Updated: 2026-04-27T21:14:05Z
+  Updated: 2026-05-07T11:28:02Z
   Total Products: 42
 - [SONBAHAR/KIŞ KOMBİN FİKİRLERİ](https://www.thesveltechic.com/collections/sonbahar-kis-kombi̇n-fi̇ki̇rleri̇): Sonbahar Kış Kadın Giyim Kombinleri | The Sveltechic Soğuk havalarda hem sıcak hem şık kalmanın yolu doğru katmanlama ve kaliteli parçalar. Kaban ve montlardan triko setlere, blazerlardan deri ceketlere kadar sonbahar/kış gardırobunuzun olmazsa olmazları bu koleksiyonda. Sonbahar/Kış Temel Parçaları Yün Blazer: Ofis ve günlük kullanım için sıcak ve şık Triko Set: Kazak + etek veya kazak + pantolon uyumlu takımlar Deri Ceket: Her sezon gardırobun vazgeçilmezi Boğazlı Kazak: Soğuk havalarda şık ve sıcak Kadife Pantolon: Kış aylarının trend alt giyimi Katmanlama İpuçları İç katman: İnce tişört veya bluz. Orta katman: Triko veya hırka. Dış katman: Blazer, kaban veya mont. Bu formül her mevsim geçişinde işe yarar. Sıkça Sorulan Sorular Sonbahar geçişinde ne giymeli?Hafif triko + blazer + jean en güvenli sonbahar kombinidir. Katmanlama ile gün içi sıcaklık değişimlerine uyum sağlarsınız.
-  Updated: 2026-05-03T11:23:23Z
+  Updated: 2026-05-07T11:28:02Z
   Total Products: 3024
 - [Sınırların Ötesinde](https://www.thesveltechic.com/collections/sinirlarin-otesinde)
-  Updated: 2026-04-21T11:25:56Z
+  Updated: 2026-05-06T12:44:59Z
   Total Products: 108
 - [güncelle](https://www.thesveltechic.com/collections/guncelle)
   Updated: 2026-03-31T18:16:43Z
   Total Products: 2897
 - [Efsane Ürünler!](https://www.thesveltechic.com/collections/efsane-urunler)
-  Updated: 2026-04-18T10:46:21Z
+  Updated: 2026-05-06T12:44:02Z
   Total Products: 458
 - [Yeni Yıl](https://www.thesveltechic.com/collections/yeni-yil)
-  Updated: 2026-04-28T11:23:33Z
+  Updated: 2026-05-06T12:43:14Z
   Total Products: 103
 - [KIRMIZI ve BORDO](https://www.thesveltechic.com/collections/kirmizi): Kırmızı ve bordo elbiselerle 2024 trendlerini yakalayın; günlük şıklığınızı ve özel günlerinizi zarif tasarımlarla renklendirin.
-  Updated: 2026-04-29T11:22:39Z
-  Total Products: 756
+  Updated: 2026-05-08T08:11:05Z
+  Total Products: 764
 - [SvelteChic Kadın Giyim Koleksiyonu | Şık Elbise, Bluz & Aksesuar](https://www.thesveltechic.com/collections/sveltechic): SvelteChic koleksiyonunu keşfedin ✓ Şık elbiseler, bluzlar, pantolonlar ve aksesuarlar ✓ Trend kadın giyim modelleri ✓ Hızlı kargo ✓ Uygun fiyat garantisi
-  Updated: 2026-05-03T11:23:23Z
-  Total Products: 10085
+  Updated: 2026-05-10T11:29:09Z
+  Total Products: 10125
 - [27.12](https://www.thesveltechic.com/collections/27-12)
   Updated: 2026-04-13T10:51:18Z
   Total Products: 1
 - [27.12](https://www.thesveltechic.com/collections/27-13)
-  Updated: 2026-04-20T09:55:58Z
+  Updated: 2026-05-06T12:40:05Z
   Total Products: 166
 - [Yeni Gelen Ürünler | SvelteChic - En Yeni Moda](https://www.thesveltechic.com/collections/yeni-gelenler-1): SvelteChic'in en yeni ürünlerini ilk siz keşfedin. Her hafta güncellenen kadın giyim koleksiyonu ile modayı takip edin.
-  Updated: 2026-05-03T11:23:23Z
-  Total Products: 3950
+  Updated: 2026-05-10T11:29:09Z
+  Total Products: 3953
 - [2025 Bahar Koleksiyonu](https://www.thesveltechic.com/collections/2025-bahar-koleksiyonu)
-  Updated: 2026-04-18T10:47:22Z
+  Updated: 2026-05-06T12:39:13Z
   Total Products: 52
 - [NEW BOHO](https://www.thesveltechic.com/collections/new-boho)
-  Updated: 2026-04-18T10:48:32Z
+  Updated: 2026-05-07T11:28:02Z
   Total Products: 64
 - [Dolce Vita](https://www.thesveltechic.com/collections/dolce-vita): Dolce Vita koleksiyonu, günlükten özel davetlere, şık ve rahat kadın elbiseleri sunar. 2024 trendlerini yansıtan zarif tasarımlarla stilinizi yükseltin.
-  Updated: 2026-04-28T11:23:33Z
+  Updated: 2026-05-06T12:29:38Z
   Total Products: 51
 - [Yeni Ürünler](https://www.thesveltechic.com/collections/yeni-urunler): Yeni Eklenen Kadın Giyim Ürünleri | The Sveltechic The Sveltechic'e yeni eklenen kadın giyim ürünlerini keşfedin. En son eklenen elbiseler, üst giyim, alt giyim, dış giyim ve aksesuarlar bu koleksiyonda. Her hafta güncellenen koleksiyonumuzda 2026 trendlerini yakalayan en güncel parçaları bulabilirsiniz. Sıkça Sorulan Sorular Yeni ürünler ne zaman ekleniyor?Koleksiyonumuz her hafta yeni modellerle güncellenmektedir. Kargo süresi ne kadar?Tüm siparişler 2-4 iş günü içinde Türkiye geneline teslim edilir.
-  Updated: 2026-05-02T12:30:04Z
+  Updated: 2026-05-09T07:43:59Z
   Total Products: 987
 - [Özel Seçtiklerimiz | SvelteChic - Küratörlü Koleksiyon](https://www.thesveltechic.com/collections/ozel-sectiklerimiz): SvelteChic'in sizin için özel olarak seçtiği en beğenilen parçaları keşfedin. Kalite ve stil bir arada.
-  Updated: 2026-04-28T11:23:33Z
-  Total Products: 5053
+  Updated: 2026-05-10T11:29:09Z
+  Total Products: 5059
 - [Editörün Seçimleri | SvelteChic - Özel Seçki](https://www.thesveltechic.com/collections/editorun-secimleri): SvelteChic editörlerinin özenle seçtiği en şık parçaları keşfedin. Sezonun en trend ve en çok tercih edilen kadın giyim ürünleri.
-  Updated: 2026-05-03T11:23:23Z
-  Total Products: 2828
+  Updated: 2026-05-10T11:29:09Z
+  Total Products: 2870
 - [K1](https://www.thesveltechic.com/collections/k1)
   Updated: 2026-04-18T10:49:25Z
   Total Products: 622
 - [K2](https://www.thesveltechic.com/collections/k2)
-  Updated: 2026-04-18T10:49:26Z
+  Updated: 2026-05-06T12:39:13Z
   Total Products: 644
 - [K3](https://www.thesveltechic.com/collections/k3)
   Updated: 2026-04-18T10:49:17Z
   Total Products: 643
 - [K4](https://www.thesveltechic.com/collections/k4)
-  Updated: 2026-04-18T10:48:51Z
+  Updated: 2026-05-04T11:23:27Z
   Total Products: 646
 - [K5](https://www.thesveltechic.com/collections/k5)
   Updated: 2026-04-20T09:56:35Z
   Total Products: 793
 - [B1](https://www.thesveltechic.com/collections/b1)
-  Updated: 2026-04-20T11:22:59Z
+  Updated: 2026-05-07T11:28:02Z
   Total Products: 597
 - [B2](https://www.thesveltechic.com/collections/b2)
-  Updated: 2026-04-18T10:49:28Z
+  Updated: 2026-05-06T12:37:11Z
   Total Products: 583
 - [Y](https://www.thesveltechic.com/collections/y)
-  Updated: 2026-04-28T11:23:33Z
+  Updated: 2026-05-07T09:46:01Z
   Total Products: 578
 - [O](https://www.thesveltechic.com/collections/o)
-  Updated: 2026-04-28T11:23:33Z
+  Updated: 2026-05-07T11:28:02Z
   Total Products: 605
 - [D](https://www.thesveltechic.com/collections/d)
-  Updated: 2026-05-03T11:23:23Z
+  Updated: 2026-05-10T11:29:09Z
   Total Products: 716
 - [İç Giyim](https://www.thesveltechic.com/collections/underwear)
   Updated: 2026-04-18T10:53:28Z
   Total Products: 145
 - [2427](https://www.thesveltechic.com/collections/2427)
-  Updated: 2026-04-29T11:22:39Z
+  Updated: 2026-05-06T12:24:55Z
   Total Products: 297
 - [1711](https://www.thesveltechic.com/collections/17)
-  Updated: 2026-05-03T11:23:23Z
+  Updated: 2026-05-10T11:29:09Z
   Total Products: 442
 - [211917](https://www.thesveltechic.com/collections/21)
-  Updated: 2026-04-20T09:56:35Z
+  Updated: 2026-05-06T12:39:13Z
   Total Products: 309
 - [5/1](https://www.thesveltechic.com/collections/5-1)
   Updated: 2026-04-18T10:49:54Z
@@ -36268,28 +36126,28 @@ Key facts about The Sveltechic:
   Updated: 2026-04-29T11:22:39Z
   Total Products: 1082
 - [5/3](https://www.thesveltechic.com/collections/5-3)
-  Updated: 2026-04-18T10:50:09Z
+  Updated: 2026-05-07T09:46:01Z
   Total Products: 1066
 - [5/4](https://www.thesveltechic.com/collections/5-4)
-  Updated: 2026-04-20T09:56:35Z
+  Updated: 2026-05-04T11:23:27Z
   Total Products: 1099
 - [5/5](https://www.thesveltechic.com/collections/5-5)
-  Updated: 2026-04-18T10:50:14Z
+  Updated: 2026-05-06T12:40:05Z
   Total Products: 1096
 - [+1](https://www.thesveltechic.com/collections/1)
-  Updated: 2026-05-03T11:23:23Z
+  Updated: 2026-05-10T11:29:09Z
   Total Products: 1490
 - [+2](https://www.thesveltechic.com/collections/2)
-  Updated: 2026-05-03T11:23:23Z
+  Updated: 2026-05-10T11:29:09Z
   Total Products: 243
 - [+3](https://www.thesveltechic.com/collections/3)
-  Updated: 2026-05-03T11:23:23Z
+  Updated: 2026-05-10T11:29:09Z
   Total Products: 108
 - [YENİ SEZONUN PARLAYAN YILDIZLARI](https://www.thesveltechic.com/collections/yildiz-urunler)
-  Updated: 2026-05-03T11:23:23Z
+  Updated: 2026-05-10T11:29:09Z
   Total Products: 1156
 - [Yeni Seriler](https://www.thesveltechic.com/collections/yeni-seriler)
-  Updated: 2026-04-29T11:22:39Z
+  Updated: 2026-05-07T09:46:01Z
   Total Products: 5409
 - [1504](https://www.thesveltechic.com/collections/1504)
   Updated: 2026-04-28T09:09:03Z
@@ -36298,35 +36156,35 @@ Key facts about The Sveltechic:
   Updated: 2026-04-06T13:42:43Z
   Total Products: 68
 - [Romantik](https://www.thesveltechic.com/collections/romantik)
-  Updated: 2026-04-28T11:23:33Z
+  Updated: 2026-05-06T12:50:07Z
   Total Products: 1328
 - [2025](https://www.thesveltechic.com/collections/2025)
-  Updated: 2026-05-03T11:23:23Z
+  Updated: 2026-05-10T11:29:09Z
   Total Products: 1481
 - [20Mayıs](https://www.thesveltechic.com/collections/20mayis)
-  Updated: 2026-04-18T10:52:06Z
+  Updated: 2026-05-06T12:23:37Z
   Total Products: 245
 - [15Nisan](https://www.thesveltechic.com/collections/15mayis)
   Updated: 2026-04-28T09:09:03Z
   Total Products: 122
 - [Mart](https://www.thesveltechic.com/collections/11mart)
-  Updated: 2026-05-03T11:23:23Z
+  Updated: 2026-05-10T11:29:09Z
   Total Products: 400
 - [Haziran](https://www.thesveltechic.com/collections/9haziran)
-  Updated: 2026-05-03T11:23:23Z
+  Updated: 2026-05-09T11:28:15Z
   Total Products: 364
 - [Şubat](https://www.thesveltechic.com/collections/19subat)
-  Updated: 2026-04-20T09:56:35Z
+  Updated: 2026-05-06T12:39:13Z
   Total Products: 309
 - [DN25](https://www.thesveltechic.com/collections/dn1)
-  Updated: 2026-05-01T21:21:42Z
-  Total Products: 738
+  Updated: 2026-05-09T11:28:15Z
+  Total Products: 737
 - [DN30](https://www.thesveltechic.com/collections/dn30)
-  Updated: 2026-05-03T11:23:23Z
-  Total Products: 2487
+  Updated: 2026-05-10T11:29:09Z
+  Total Products: 2527
 - [All](https://www.thesveltechic.com/collections/all)
-  Updated: 2026-05-03T11:23:23Z
-  Total Products: 13209
+  Updated: 2026-05-10T11:29:09Z
+  Total Products: 13249
 - [solid-bow-detail-textured-blouse](https://www.thesveltechic.com/collections/custom-handle-solid-bow-detail-textured-blouse)
   Updated: 2025-11-14T19:51:45Z
   Total Products: 1
@@ -36334,22 +36192,22 @@ Key facts about The Sveltechic:
   Updated: 2026-04-28T09:01:11Z
   Total Products: 1
 - [Abiye Elbise Modelleri | SvelteChic - Zarif Gece Elbiseleri](https://www.thesveltechic.com/collections/abiye-elbiseler): En şık abiye elbise modelleri SvelteChic'te. Saten, kadife, dantel abiyeler XS-XL arası tüm bedenlerde. Düğün, nişan, mezuniyet için zarif seçenekler. Ücretsiz kargo.
-  Updated: 2026-05-03T11:23:23Z
-  Total Products: 401
+  Updated: 2026-05-10T11:29:09Z
+  Total Products: 400
 - [celin](https://www.thesveltechic.com/collections/celin)
-  Updated: 2026-04-29T11:22:39Z
+  Updated: 2026-05-06T12:18:27Z
   Total Products: 92
 - [Svelte Chic - Elite](https://www.thesveltechic.com/collections/svelte-chic-elite)
-  Updated: 2026-04-18T10:52:38Z
-  Total Products: 292
+  Updated: 2026-05-09T07:43:59Z
+  Total Products: 291
 - [test](https://www.thesveltechic.com/collections/test)
-  Updated: 2026-04-29T11:22:39Z
+  Updated: 2026-05-06T12:18:27Z
   Total Products: 92
 - [Elegant Şıklık](https://www.thesveltechic.com/collections/elegant-siklik): Elegant Kadın Giyim Koleksiyonu | The Sveltechic Elegant şıklık, zarif detaylar, uyumlu renkler ve kaliteli kumaşlarla oluşturulan sofistike bir görünümdür. Düğün, nişan, davet, iş yemeği veya özel bir akşam — her ortamda fark yaratan elegant parçalar The Sveltechic'te. Elegant Stil İçin Temel Parçalar Saten Midi Elbiseler: Zarif ve akışkan, her davete uygun Blazer + Pantolon Takımlar: Güçlü ve sofistike görünüm Dantel Detaylı Parçalar: Feminen ve dikkat çekici Maxi Elbiseler: Gösterişli ve iddialı silüet Sıkça Sorulan Sorular Elegant giyim için hangi renkler tercih edilmeli?Siyah, bordo, koyu yeşil, lacivert ve şampanya rengi en güvenli seçimlerdir. Metalik tonlar da akşam davetleri için idealdir.
-  Updated: 2026-05-03T11:23:23Z
+  Updated: 2026-05-06T12:49:29Z
   Total Products: 209
 - [Etiketin Yarısı!](https://www.thesveltechic.com/collections/en-cok-satanlar-2025)
-  Updated: 2026-05-03T11:23:23Z
+  Updated: 2026-05-10T11:29:09Z
   Total Products: 209
 - [flash ](https://www.thesveltechic.com/collections/flash-)
   Updated: 2025-11-14T19:51:45Z
@@ -36364,22 +36222,22 @@ Key facts about The Sveltechic:
   Updated: 2026-04-16T11:02:58Z
   Total Products: 40
 - [kampanyaaksesuar](https://www.thesveltechic.com/collections/kampanyaaksesuar)
-  Updated: 2026-05-03T11:23:23Z
-  Total Products: 13209
+  Updated: 2026-05-10T11:29:09Z
+  Total Products: 13249
 - [Sürpriz Paket](https://www.thesveltechic.com/collections/surpriz-paket)
   Updated: 2026-04-06T13:43:17Z
   Total Products: 4
 - [Daily Look](https://www.thesveltechic.com/collections/daily-look)
-  Updated: 2026-04-28T11:23:33Z
-  Total Products: 5052
+  Updated: 2026-05-10T11:29:09Z
+  Total Products: 5058
 - [Yeni Keşifler](https://www.thesveltechic.com/collections/yeni-kesifler)
-  Updated: 2026-04-28T11:23:33Z
-  Total Products: 599
+  Updated: 2026-05-09T07:43:59Z
+  Total Products: 598
 - [Svelte Keşifler](https://www.thesveltechic.com/collections/svelte-kesifler)
-  Updated: 2026-05-03T11:23:23Z
+  Updated: 2026-05-10T11:29:09Z
   Total Products: 655
 - [Influencer İş Birliği Çalışması](https://www.thesveltechic.com/collections/influencer-i̇s-birligi-calismasi)
-  Updated: 2026-05-03T11:23:23Z
+  Updated: 2026-05-08T11:26:59Z
   Total Products: 21
 
 ## Blogs
