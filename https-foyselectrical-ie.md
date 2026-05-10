@@ -6,7 +6,7 @@
 - Timezone: Etc/UTC
 - Created At: 2026-01-07T11:25:51Z
 - Contact Email: foyshomevalue@gmail.com
-- Updated At: 2026-05-03T00:00:39.632Z
+- Updated At: 2026-05-10T00:00:40.348Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/russell-hobbs-honeycomb-kettle-black-or-26051__16874.jpg?v=1768059274
   Price: €29.00 EUR
 - [Russell Hobbs Ultra Steam Pro Iron - Red | 23990](https://foyselectrical.ie/products/russell-hobbs-2400w-light-easy-brights-steam-iron-copy): Key Features: 2400 watt Stainless steel plate 35g constant steam 100g steam surge Eco setting Water tank: 350ml Vertical steam Anti scale No drip Soleplate technology: tip technology Variable steam . Irons, Steam Irons, Irons Letterkenny, irons Letterkenny, irons Foys Electrical Cootehill, Foys Electrical Cootehill steam irons
-  Updated: 2026-05-02T19:05:07Z
+  Updated: 2026-05-09T19:04:18Z
   Vendor: Russell Hobbs
   Product Type: Iron
   Availability: Available
@@ -41,12 +41,12 @@
     Availability: Not Available
     Price: €39.95 EUR
 - [Beko Freestanding American Style Fridge Freezer with NeoFrost™ Black Steel | ASL1442VPZ](https://foyselectrical.ie/products/beko-american-fridge-freezer-asl1342b-copy): Shop Beko Freestanding American Style Fridge Freezer with NeoFrost™ Black Steel | ASL1442VPZ ASL1442VPZ - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
-  Updated: 2026-05-02T19:05:06Z
+  Updated: 2026-05-09T19:04:17Z
   Vendor: Beko
   Product Type: American Fridge Freezer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/beko-freestanding-american-style-fridge-freezer-with-neofrost-black-steel-asl1442vpz-asl1442vpz-864679.webp?v=1768059291
-  Price: €729.00 EUR
+  Price: €739.00 EUR
 - [Russell Hobbs Steam Genie™ Maestro 2-in-1 Handheld Steamer | 27600](https://foyselectrical.ie/products/morphy-richards-2400w-crystal-clear-amethyst-steam-iron-300301-copy): Shop Russell Hobbs Steam Genie™ Maestro 2-in-1 Handheld Steamer | 27600 27600 - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
   Updated: 2026-04-30T15:56:48Z
   Vendor: Russell Hobbs
@@ -55,7 +55,7 @@
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/large_27600_WB_Image_1.png?v=1768059300
   Price: €99.95 EUR
 - [Russell Hobbs Honeycomb Electric 1.7L Kettle | 26050](https://foyselectrical.ie/products/honeycomb-white-kettle): Shop Russell Hobbs Honeycomb Electric 1.7L Kettle | 26050 26050 - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
-  Updated: 2026-04-30T15:56:48Z
+  Updated: 2026-05-09T17:01:57Z
   Vendor: Russell Hobbs
   Product Type: Kettle
   Availability: Available
@@ -76,7 +76,7 @@
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/bronte_black_4s_26770_wb_image.webp?v=1768059327
   Price: €69.95 EUR
 - [Russell Hobbs 4 Slice Eclipse Toaster | Copper Sunset - 25143](https://foyselectrical.ie/products/russell-hobbs-4-slice-eclipse-toaster-copper-sunset-copy): Shop Russell hobbs Bronte 4 Slice Toaster | Stone 26771 - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
-  Updated: 2026-04-30T15:56:49Z
+  Updated: 2026-05-08T17:03:10Z
   Vendor: Russell Hobbs
   Product Type: Toaster
   Availability: Available
@@ -90,7 +90,7 @@
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/R26750_1.jpg?v=1768059332
   Price: €49.95 EUR
 - [Russell Hobbs 1.7L Bronte Jug Kettle | Stone | 26751](https://foyselectrical.ie/products/russell-hobbs-colours-1-7-litre-3000w-kettle-20415-copy): Shop RUSSELLHOBBS 1.7LITRE JUG KETTLE - STONE - BRONTE RANGE 26751 - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
-  Updated: 2026-04-30T15:56:50Z
+  Updated: 2026-05-08T17:03:06Z
   Vendor: Russell Hobbs
   Product Type: Kettle
   Availability: Available
@@ -118,21 +118,21 @@
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/R1.webp?v=1768059364
   Price: €95.00 EUR
 - [Shokz OpenFit Air True Wireless Earbuds - Pink | 38-T511PK](https://foyselectrical.ie/products/shokz-openfit-air-true-wireless-earbuds-pink-38-t511pk): Shop Shokz OpenFit Air True Wireless Earbuds - Pink | 38-T511PK 38-T511PK - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
-  Updated: 2026-05-02T10:16:35Z
+  Updated: 2026-05-05T10:16:36Z
   Vendor: Shokz
   Product Type: Earbuds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/2f5bf846e6c5939599e79354893e6434c68528fa_422067__89537.1733746097.jpg?v=1768059516
   Price: €109.00 EUR
 - [Shokz OpenFit Air True Wireless Earbuds - White | 38-T511WT](https://foyselectrical.ie/products/shokz-openfit-air-true-wireless-earbuds-white-38-t511wt): Shop Shokz OpenFit Air True Wireless Earbuds - White | 38-T511WT 38-T511WT - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
-  Updated: 2026-05-02T10:16:35Z
+  Updated: 2026-05-08T10:16:56Z
   Vendor: Shokz
   Product Type: Earbuds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/white_3.jpg?v=1768059517
   Price: €109.00 EUR
 - [Remington Shine Therapy 2300W Ionic Hair Dryer | D5216](https://foyselectrical.ie/products/remington-shine-therapy-2300w-ionic-hair-dryer-d5216): Shop Remington Shine Therapy 2300W Ionic Hair Dryer | D5216 D5216 - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
-  Updated: 2026-05-02T19:05:06Z
+  Updated: 2026-05-09T19:04:16Z
   Vendor: Remington
   Product Type: Hair Dryer
   Availability: Available
@@ -146,7 +146,7 @@
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/KIN86VSE0G_updated.jpg?v=1768059538
   Price: €999.00 EUR
 - [Garmin Forerunner® 165 Black/Slate grey | 49-GAR-010-02863-20](https://foyselectrical.ie/products/garmin-forerunner®-165-black-slate-grey-49-gar-010-02863-20): For a range of Activity Trackers, including Garmin and more, head to your local Foys Electrical Cootehill Foys Electrical Cootehill Store.
-  Updated: 2026-05-02T10:16:35Z
+  Updated: 2026-05-09T10:17:18Z
   Vendor: Garmin
   Product Type: Activity Tracker
   Availability: Available
@@ -159,6 +159,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/27111_1.jpg?v=1768059996
   Price: €95.00 EUR
+- [Ninja Woodfire Folding Grill Stand Black](https://foyselectrical.ie/products/ninja-woodfire-folding-grill-stand-black): Shop Ninja Woodfire Folding Grill Stand Black XSKGRLLSTDEUK - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
+  Updated: 2026-05-07T10:56:48Z
+  Vendor: Ninja
+  Product Type: BBQ Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/XSKGRLLSTDEUK_03.webp?v=1768060040
+  Price: €169.00 EUR
 - [Walker 24″ Smart LED TV – HD Ready 720p](https://foyselectrical.ie/products/walker-24-smart-led-tv-hd-ready-720p): Shop Walker 24″ Smart LED TV – HD Ready 720p WPS24241BK - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
   Updated: 2026-04-21T11:09:00Z
   Vendor: Walker
@@ -229,13 +236,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/judge-jea96-electricals-stick-blender-600w-stainless-steel-ireland.jpg?v=1768060192
   Price: €34.95 EUR
-- [Judge Kettle 1.7L White](https://foyselectrical.ie/products/judge-electricals-jea87-kettle-1-7l-white): Shop Judge Kettle 1.7L White JEA87 - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
-  Updated: 2026-04-30T15:56:55Z
-  Vendor: Judge
-  Product Type: Kettle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/judge-electricals-jea87-kettle-17l-white-ireland.jpg?v=1768060195
-  Price: €20.00 EUR
 - [Tower 800 W 20 L Digital Microwave Oven, White & Chrome](https://foyselectrical.ie/products/tower-800-w-20-l-digital-microwave-oven-white-chrome): Shop Tower 800 W 20 L Digital Microwave Oven, White & Chrome T24041WHT - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
   Updated: 2026-04-30T15:56:55Z
   Vendor: Tower
@@ -244,28 +244,28 @@
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/WN0CX_SQ4_0000000013_WHITE_SLd2.webp?v=1768060199
   Price: €99.95 EUR
 - [Remington PROluxe Powerful AC 2400W Hairdryer](https://foyselectrical.ie/products/remington-roluxe-powerful-ac-2400w-hairdryer-ac9140): Buy Remington Roluxe Powerful AC 2400W Hairdryer | AC9140 online at Foys Electrical Cootehill. Intelligent optiheat technology provides heat where it matters.
-  Updated: 2026-05-02T19:05:01Z
+  Updated: 2026-05-09T19:04:13Z
   Vendor: Remington
   Product Type: Hairdryer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/remington-hairdryer-roluxe-powerful-ac-2400w-hairdryer-ac9140-29211675361479.jpg?v=1768060308
   Price: €49.99 EUR
 - [Remington Shine Therapy 2300W Hairdryer](https://foyselectrical.ie/products/remington-shine-therapy-2300w-hairdryer-d5216): Buy Remington Shine Therapy 2300W Hairdryer | D5216 online at Foys Electrical Cootehill. Powerful 2300 W dryer with three heat settings and two speed settings.
-  Updated: 2026-05-02T19:05:00Z
+  Updated: 2026-05-09T19:04:13Z
   Vendor: Remington
   Product Type: Hairdryer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/remington-hairdryer-shine-therapy-2300w-hairdryer-d5216-29211675787463.jpg?v=1768060309
   Price: €39.99 EUR
 - [Henry Numatic Vacuum Cleaner | HVR200](https://foyselectrical.ie/products/numatic-vacuum-cleaner): Shop Henry Numatic Vacuum Cleaner HVR200 - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
-  Updated: 2026-05-02T19:05:00Z
+  Updated: 2026-05-09T19:04:12Z
   Vendor: Henry
   Product Type: Vacuum Cleaner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/HVR200-12A.png?v=1768060328
   Price: €199.00 EUR
 - [Russell Hobbs PowerSteam Steam Iron](https://foyselectrical.ie/products/russell-hobbs-powersteam-steam-iron-20630): Buy Russell Hobbs PowerSteam Steam Iron | 20630 online at Foys Electrical Cootehill. You get 45g of continuous steam to tackle cotton clothing.
-  Updated: 2026-05-02T19:05:00Z
+  Updated: 2026-05-09T19:04:12Z
   Vendor: Russell Hobbs
   Product Type: Iron
   Availability: Available
@@ -293,28 +293,21 @@
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/24371a.png?v=1768060343
   Price: €49.95 EUR
 - [Russell Hobbs 1.7L Inspire Kettle | Black](https://foyselectrical.ie/products/1-7l-inspire-kettle-black): Shop Russell Hobbs 1.7L Inspire Kettle | Black 24361 - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
-  Updated: 2026-04-30T15:56:58Z
+  Updated: 2026-05-05T17:03:19Z
   Vendor: Russell Hobbs
   Product Type: Kettle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/Russell_Hobbsa.png?v=1768060346
   Price: €49.95 EUR
-- [Russell Hobbs 1.7L Buckingham Quiet Boil Kettle | Stainless Steel](https://foyselectrical.ie/products/russell-buckingham-quiet-boil-kettle-stainless-steel-20460): Shop Russell Hobbs 1.7L Buckingham Quiet Boil Kettle | Stainless Steel 20460 - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
-  Updated: 2026-05-02T19:04:59Z
-  Vendor: Russell Hobbs
-  Product Type: Kettle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/20460a.png?v=1768060346
-  Price: €39.99 EUR
 - [Russell Hobbs 1.7L Inspire Kettle | White 24360](https://foyselectrical.ie/products/russell-inspire-kettle-white-24360): Shop Russell Hobbs 1.7L Inspire Kettle | White 24360 - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
-  Updated: 2026-05-02T19:04:58Z
+  Updated: 2026-05-09T19:04:10Z
   Vendor: Russell Hobbs
   Product Type: Kettle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/24360a.png?v=1768060356
   Price: €44.99 EUR
 - [LG 32 Inch Smart Full HD HDR LED TV](https://foyselectrical.ie/products/32-full-hd-hdr-smart-tv): Shop LG 32" Smart Full HD HDR LED TV 32LQ63006LA.AEK - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
-  Updated: 2026-05-02T19:04:58Z
+  Updated: 2026-05-09T19:04:10Z
   Vendor: LG
   Product Type: TV
   Availability: Available
@@ -328,91 +321,91 @@
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/rhmm701c.png?v=1768060375
   Price: €119.00 EUR
 - [Remington Rotary Shaver](https://foyselectrical.ie/products/rotary-shaver): Buy Philips 1000 Dry Electric Shaver | S1320/04 online at Foys Electrical Cootehill. Flex heads with 4 independent movements adjust to every curve of your face.
-  Updated: 2026-05-02T19:04:56Z
+  Updated: 2026-05-09T19:04:08Z
   Vendor: Remington
   Product Type: Mens Shaver
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/PR1855D.png?v=1768060379
   Price: €49.99 EUR
 - [Blomberg 60cm Induction Hob](https://foyselectrical.ie/products/60cm-induction-hob-1): Buy Belling 60cm Induction Hob BIH60T online at Foys Electrical Cootehill. It offers 4 ceramic induction cooking zones to allow you to cook beautiful dishes.
-  Updated: 2026-05-02T19:04:55Z
+  Updated: 2026-05-09T19:04:06Z
   Vendor: Blomberg
   Product Type: Induction Hob
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/1100x9004_28162946-bb68-401a-9329-ae3c65cbe8ad.png?v=1768060420
   Price: €369.00 EUR
 - [Belling Multifunction Double Oven (EX-DISPLAY) | BI909MFSTA](https://foyselectrical.ie/products/belling-multifunction-double-oven-bi909mfsta): Shop a wide range online or instore at Foys Electrical Cootehill Electrical Foys Electrical Cootehill, including the Belling Multifunction Double Oven | BI909MFSTA
-  Updated: 2026-04-13T15:10:53Z
+  Updated: 2026-05-06T08:51:31Z
   Vendor: Belling
   Product Type: Oven
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/BI909MFSTA.png?v=1768060470
   Price: €449.00 EUR
 - [Blomberg 60cm 4 Zone Induction Hob | MIN54308N](https://foyselectrical.ie/products/blomberg-induction-hob-min54308n): For a full range of products from Ireland's Top Brands, including the Blomberg 60cm 4 Zone Induction Hob | MIN54306N, shop online with Foys Electrical Cootehill Electrical Foys Electrical Cootehill. Quick Nationwide Delivery 
-  Updated: 2026-05-02T19:04:51Z
+  Updated: 2026-05-09T19:04:03Z
   Vendor: Blomberg
   Product Type: Hob
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/blomberg-60cm-4-zone-induction-hob-min54308n-min54308n-334007.png?v=1768060474
   Price: €369.00 EUR
 - [Leisure 60cm Range Cooker | CLA60CEC](https://foyselectrical.ie/products/leisure-60cm-cream-range-cooker): This cooker is perfect if you like the style of traditional range cookers, but don’t have the room. Two ovens for maximum capacity and greater flexibility. Main fan oven allows for faster cooking, saving time and producing great results.
-  Updated: 2026-05-02T19:05:09Z
+  Updated: 2026-05-09T19:04:02Z
   Vendor: Leisure
   Product Type: Range Cooker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/leisure-60cm-range-cooker-cla60cec-cla60cec-846671.jpg?v=1768060516
   Price: €669.00 EUR
 - [Beko 114L Undercounter Fridge | UR4584W](https://foyselectrical.ie/products/beko-114l-undercounter-fridge-ur4584w): For a range of under counter fridges, including the Beko 114L Undercounter Fridge | UR4584W, shop online or instore with Foys Electrical Cootehill Electrical Foys Electrical Cootehill
-  Updated: 2026-05-02T19:05:08Z
+  Updated: 2026-05-09T19:04:18Z
   Vendor: Beko
   Product Type: Larder Fridge
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/beko-114l-undercounter-fridge-ur4584w-ur4584w-117518.jpg?v=1768060603
   Price: €229.00 EUR
 - [Beko 60cm Ceramic Hob | HIC64102](https://foyselectrical.ie/products/beko-60cm-ceramic-hob-hic64102): The sleek and smooth surface of this ceramic hob is both easy to use and easy to clean.
-  Updated: 2026-05-02T19:05:07Z
+  Updated: 2026-05-09T19:04:17Z
   Vendor: Beko
   Product Type: Hob
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/beko-60cm-ceramic-hob-hic64102-hic64102-279978.jpg?v=1768060609
   Price: €199.00 EUR
 - [Beko 50cm Double Oven Electric Cooker  | KDVC563AW](https://foyselectrical.ie/products/beko-double-oven-electric-cooker-kdvc563aw): For a wide range of home appliances and technology, including the Beko Double Oven Electric Cooker  | KDVC563AW, shop online or instore with Foys Electrical Cootehill Electrical Foys Electrical Cootehill
-  Updated: 2026-05-02T19:05:07Z
+  Updated: 2026-05-09T19:04:16Z
   Vendor: Beko
   Product Type: Cooker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/beko-50cm-double-oven-electric-cooker-kdvc563aw-kdvc563aw-874478.jpg?v=1768060620
   Price: €449.00 EUR
 - [Russell Hobbs 6 Speed White Hand Mixer | 14451](https://foyselectrical.ie/products/russell-hobbs-6-speed-hand-mixer-14451): This Russell Hobbs Hand Mixer comes in a solid white glossed body and features an easy release button for simple beater removal. The six speed settings mean that you can select the appropriate speed for the food type and create accurate results every time.
-  Updated: 2026-05-02T19:05:01Z
+  Updated: 2026-05-09T19:04:10Z
   Vendor: Russell Hobbs
   Product Type: Mixer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/14451.jpg?v=1768060666
   Price: €22.99 EUR
 - [Russell Hobbs Carving Knife | 13892](https://foyselectrical.ie/products/russell-hobbs-carving-knife-13892): Part of the Russell Hobbs range, this 120W carving knife has been designed to achieve quality precision. The knife features a 203mm serrated blade made from stainless steel that seamlessly cuts through joints of meat.
-  Updated: 2026-05-02T19:05:01Z
+  Updated: 2026-05-09T19:04:10Z
   Vendor: Russell Hobbs
   Product Type: Carving Knife
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/13892.jpg?v=1768060667
   Price: €21.99 EUR
 - [Russell Hobbs Eclipse 4 Slice Toaster | Midnight Blue](https://foyselectrical.ie/products/russell-hobbs-eclipse-4-slice-toaster-midnight-blue): For a range of toasters, including the Russell Hobbs Eclipse 4 Slice Toaster | Midnight Blue, shop online with Foys Electrical Cootehill Electrical Foys Electrical Cootehill
-  Updated: 2026-05-02T19:05:00Z
+  Updated: 2026-05-09T19:04:10Z
   Vendor: Russell Hobbs
   Product Type: Toaster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/russell-hobbs-eclipse-4-slice-toaster-midnight-blue-25141-594764.jpg?v=1768060668
   Price: €89.99 EUR
 - [Russell Hobbs Eclipse Copper Sunset Kettle | 25113](https://foyselectrical.ie/products/russell-hobbs-eclipse-copper-sunset-kettle-25113): Shop Online and Instore With Foys Electrical Cootehill For The Russell Hobbs Eclipse Copper Sunset Kettle | 25113
-  Updated: 2026-05-02T19:05:00Z
+  Updated: 2026-05-09T19:04:09Z
   Vendor: Russell Hobbs
   Product Type: Kettle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/russell-hobbs-eclipse-copper-sunset-kettle-25113-25113-142304.jpg?v=1768060669
   Price: €64.99 EUR
 - [Russell Hobbs Eclipse Kettle | Midnight Blue](https://foyselectrical.ie/products/russell-hobbs-eclipse-kettle-midnight-blue): For a range of kettles, including the Russell Hobbs Eclipse Kettle in Midnight Blue, shop online or instore with Foys Electrical Cootehill Electrical Foys Electrical Cootehill
-  Updated: 2026-05-02T19:05:00Z
+  Updated: 2026-05-09T19:04:09Z
   Vendor: Russell Hobbs
   Product Type: Kettle
   Availability: Available
@@ -426,7 +419,7 @@
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/20462a.webp?v=1768060674
   Price: €54.95 EUR
 - [Bosch Series 4 Induction Hob 60cm Black | PUE611BB5E](https://foyselectrical.ie/products/bosch-series-4-induction-hob-60cm-black-pue611bb5e): Shop Bosch Series 4 Induction Hob 60cm Black | PUE611BB5E PUE611BB5E - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
-  Updated: 2026-05-02T19:04:58Z
+  Updated: 2026-05-09T19:04:07Z
   Vendor: Bosch
   Product Type: Hob
   Availability: Available
@@ -440,105 +433,147 @@
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/ltd_7.png?v=1768060785
   Price: €249.00 EUR
 - [Blomberg 8kg 1400rpm Washing Machine with SpinSave White | LWA18461W](https://foyselectrical.ie/products/blomberg-8kg-1400rpm-washing-machine-with-spinsave-lwa18461w): For a range of washing machines, shop instore or online with Foys Electrical Cootehill Electrical Foys Electrical Cootehill, including the Blomberg 9kg Washing Machine | LWF194410W. We are the most competitive online and instore retailer for Beko washing machines, Bosch washing machines, Samsung washing machines, Candy, Haier, Siemens washing machines and Blomberg washing machines. Fast and secure delivery to Ireland.
-  Updated: 2026-05-02T19:04:56Z
+  Updated: 2026-05-09T19:04:05Z
   Vendor: Blomberg
   Product Type: Washing Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/ltd.png?v=1768060803
   Price: €429.00 EUR
 - [Beko EnergySpin™ 8kg Washing Machine with 1400 rpm - White | BM3WT4841IW](https://foyselectrical.ie/products/beko-energyspin™-8kg-washing-machine-with-1400-rpm-white-bm3wt4841iw): For a range of washing machines, including the Beko 7kg Washing Machine | WTL72051S, shop online or instore with Foys Electrical Cootehill Electrical Foys Electrical Cootehill. We are the most competitive online and instore retailer for Beko washing machines, Bosch washing machines, Samsung washing machines, Candy, Haier, Siemens washing machines and Blomberg washing machines. Fast and secure delivery to Ireland.
-  Updated: 2026-05-02T19:04:55Z
+  Updated: 2026-05-09T19:02:06Z
   Vendor: Beko
   Product Type: Washing Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/beko-energyspin-8kg-washing-machine-with-1400-rpm-white-bm3wt4841iw-bm3wt4841iw-667685.png?v=1768060844
   Price: €369.00 EUR
 - [Hoover 252L 50/50 Low Frost Freestanding Fridge Freezer - Metal Back | HVT3CLECKIHS-1](https://foyselectrical.ie/products/hoover-252l-50-50-low-frost-freestanding-fridge-freezer-metal-back-hvt3cleckihs-1): Shop Hoover 252L 50/50 Low Frost Freestanding Fridge Freezer - Metal Back | HVT3CLECKIHS-1 HVT3CLECKIHS-1 - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
-  Updated: 2026-04-30T15:57:07Z
+  Updated: 2026-05-06T08:49:30Z
   Vendor: Hoover
   Product Type: Fridge Freezer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/hoover-252l-5050-low-frost-freestanding-fridge-freezer-metal-back-hvt3cleckihs-1-hvt3cleckihs-1-958991.jpg?v=1768060844
   Price: €349.00 EUR
+- [Blomberg Built In Dishwasher - 14 Place Settings | LDV42320](https://foyselectrical.ie/products/blomberg-ldv42320-built-in-dishwasher-14-place-settings-ldv42320): For a range of dishwashers, including the Blomberg 14 Place Dishwasher | LDF30210W, shop online or instore with Foys Electrical Cootehill Electrical Foys Electrical Cootehill
+  Updated: 2026-05-09T19:02:05Z
+  Vendor: Blomberg
+  Product Type: Integrated Dishwasher
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/blomberg-built-in-dishwasher-14-place-settings-ldv42320-ldv42320-559120.jpg?v=1768061075
+  Price: €449.00 EUR
 - [Bosch Series 4 Washing machine, Front Loader 9kg 1400 rpm - White | WAN28259GB](https://foyselectrical.ie/products/bosch-series-4-washing-machine-front-loader-9kg-1400-rpm-white-wan28259gb): For a full range of products from Ireland's Top Brands, including the Bosch 8kg Freestanding Washing Machine | WAN28281GB, shop online with Foys Electrical Cootehill Electrical Foys Electrical Cootehill. Quick Nationwide Delivery . We are the most competitive online and instore retailer for Beko washing machines, Bosch washing machines, Samsung washing machines, Candy washing machines and Blomberg washing machines. Fast and secure delivery to Ireland.
-  Updated: 2026-05-02T19:04:53Z
+  Updated: 2026-05-09T19:02:03Z
   Vendor: Bosch
   Product Type: Washing Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/bosch-series-4-washing-machine-front-loader-9kg-1400-rpm-white-wan28259gb-wan28259gb-309025.webp?v=1768061090
   Price: €589.00 EUR
+- [Bosch Series 2 free-standing dishwasher 60 cm White | SMS26AW08G](https://foyselectrical.ie/products/bosch-series-2-free-standing-dishwasher-60-cm-white-sms26aw08g): For a range of dishwashers, including the Bosch Serie 2 Freestanding Dishwasher | SGS2HVW66G, shop online or instore with Foys Electrical Cootehill Electrical Foys Electrical Cootehill
+  Updated: 2026-05-09T19:04:21Z
+  Vendor: Bosch
+  Product Type: Dishwasher
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/24747670_SMS26AW08G_STP_def.webp?v=1768061165
+  Price: €449.00 EUR
+- [Bosch Series 2 free-standing dishwasher 60 cm Brushed steel anti-fingerprint | SMS26AI08G](https://foyselectrical.ie/products/bosch-series-2-free-standing-dishwasher-60-cm-brushed-steel-anti-fingerprint-sms26ai08g): For a range of dishwashers, including the Bosch Serie 2 Freestanding Dishwasher | SGS2HVW66G, shop online or instore with Foys Electrical Cootehill Electrical Foys Electrical Cootehill
+  Updated: 2026-05-09T19:04:20Z
+  Vendor: Bosch
+  Product Type: Dishwasher
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/24747671_SMS26AI08G_STP_def.webp?v=1768061168
+  Price: €469.00 EUR
+- [Beko 60/40 Fridge Freezer - White | CSG4571W](https://foyselectrical.ie/products/beko-60-40-fridge-freezer-white-csg4571w): Shop online or instore for a wide range of great products, including the Beko Fridge Freezer | CSG1582W
+  Updated: 2026-05-09T19:04:19Z
+  Vendor: Beko
+  Product Type: Fridge Freezer
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/6.png?v=1768061176
+  Price: €349.00 EUR
 - [Miele Guard M1 Terra red Vacuum  | 12652510](https://foyselectrical.ie/products/miele-guard-m1-terra-red-vacuum-12652510): Miele1600W Complete C2 Powerline Vacuum Cleaner - Tested for the equivalent of 20 years use, this high performance vacuum features a powerful 1600w motor and the AllTeq floor head which is suitable for all floor types.
-  Updated: 2026-05-02T19:05:05Z
+  Updated: 2026-05-09T19:04:17Z
   Vendor: Miele
   Product Type: Vacuum Cleaner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/20000214222.png?v=1768061482
   Price: €259.00 EUR
+- [Miele Guard L1 AllFloor Obsidian black Vacuum | 12652280](https://foyselectrical.ie/products/miele-guard-l1-allfloor-obsidian-black-vacuum-12652280): Miele1600W Complete C2 Powerline Vacuum Cleaner - Tested for the equivalent of 20 years use, this high performance vacuum features a powerful 1600w motor and the AllTeq floor head which is suitable for all floor types.
+  Updated: 2026-05-09T19:04:17Z
+  Vendor: Miele
+  Product Type: Vacuum Cleaner
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/20000214238.png?v=1768061482
+  Price: €369.00 EUR
 - [Shokz OpeMove Blue Bone Conduction Sports Headphones | 38-S661BL](https://foyselectrical.ie/products/shokz-openrun-pro-blue-bone-conduction-sports-headphones-38-s661bl): Shop Shokz OpeMove Blue Bone Conduction Sports Headphones | 38-S661BL 38-S661BL - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
-  Updated: 2026-04-30T10:16:37Z
+  Updated: 2026-05-06T10:16:39Z
   Vendor: Shokz
   Product Type: Headphones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/Group1177_600x_f2593675-a65d-4fb6-b890-c3d06ab0ff01.png?v=1768061483
   Price: €89.99 EUR
 - [Shokz OpenRun 9th Gen Bone Conduction Wireless Sport Headphones – Black | 38-S805-ST-BK](https://foyselectrical.ie/products/shokz-openrun-mini-open-ear-wireless-sport-headphones-black-38-s805-st-bk): Shop Shokz OpenRun 9th Gen Bone Conduction Wireless Sport Headphones – Black | 38-S805-ST-BK 38-S805-ST-BK - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
-  Updated: 2026-05-02T10:16:36Z
+  Updated: 2026-05-08T10:16:58Z
   Vendor: Shokz
   Product Type: Headphones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/38-S805-ST-BK.jpg?v=1768061484
   Price: €139.00 EUR
 - [Hoover 50/50 Low Frost Freestanding Fridge Freezer | HOCT3L517EWK-1](https://foyselectrical.ie/products/hoover-low-frost-freestanding-fridge-freezer-hoct3l517ewk-1): For a range of fridge freezers, shop instore or online with Foys Electrical Cootehill Electrical Foys Electrical Cootehill, including the Hoover Fridge Freezer | HHCS517FWK
-  Updated: 2026-05-02T19:05:04Z
+  Updated: 2026-05-09T19:04:15Z
   Vendor: Hoover
   Product Type: Fridge Freezer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/M10261796_white.jpg?v=1768061508
   Price: €349.00 EUR
+- [Ninja Artisan 12" 4-in-1 Electric Outdoor Pizza Oven & Air Fryer | MO201UK](https://foyselectrical.ie/products/ninja-artisan-12-4-in-1-electric-outdoor-pizza-oven-air-fryer-mo201uk): Shop Ninja Artisan 12" 4-in-1 Electric Outdoor Pizza Oven & Air Fryer | MO201UK MO201UK - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
+  Updated: 2026-05-09T19:04:15Z
+  Vendor: Ninja
+  Product Type: Pizza Maker
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/10280117.jpg?v=1768061510
+  Price: €269.00 EUR
 - [Shokz OpenMove Bone Conduction Wireless Headphones – Slate Grey | 38-S661GY](https://foyselectrical.ie/products/shokz-openmove-bone-conduction-wireless-headphones-slate-grey-38-s661gy): Shop Shokz OpenMove Bone Conduction Wireless Headphones – Slate Grey | 38-S661GY 38-S661GY - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
-  Updated: 2026-05-02T10:16:35Z
+  Updated: 2026-05-08T10:16:56Z
   Vendor: Shokz
   Product Type: Headphones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/38-S661GY-1_800x_6b74c992-0801-4484-8c31-cf02f8d9a47e.png?v=1768061515
   Price: €89.99 EUR
 - [Shokz OpenRun 9th Gen Bone Conduction Wireless Sport Headphones – Blue | 38-S805-ST-BL](https://foyselectrical.ie/products/shokz-openrun-9th-gen-bone-conduction-wireless-sport-headphones-blue-38-s805-st-bl): Shop Shokz OpenRun 9th Gen Bone Conduction Wireless Sport Headphones – Blue | 38-S805-ST-BL 38-S805-ST-BL - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
-  Updated: 2026-05-02T10:16:35Z
+  Updated: 2026-05-08T10:16:53Z
   Vendor: Shokz
   Product Type: Headphones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/38-S805-ST-BLb_500x_578bbd58-2858-44b9-9c9f-2271284a203e.png?v=1768061516
   Price: €139.00 EUR
 - [Shokz OpenRun Mini Bone Conduction Wireless Sport Headphones – Cosmic Black | 38-S806-MN-BK](https://foyselectrical.ie/products/shokz-openrun-mini-bone-conduction-wireless-sport-headphones-cosmic-black-38-s806-mn-bk): Shop Shokz OpenRun Mini Bone Conduction Wireless Sport Headphones – Cosmic Black | 38-S806-MN-BK 38-S806-MN-BK - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
-  Updated: 2026-05-02T10:16:36Z
+  Updated: 2026-05-09T10:17:20Z
   Vendor: Shokz
   Product Type: Headphones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/OpenRun_Mini-_Type-_C-Black_600x_97667e3e-8fff-4b2b-9022-1ce995fefd84.png?v=1768061518
   Price: €139.00 EUR
 - [Shokz OpenRun Pro 2 30.3g Open-Ear Wireless Sport Headphones | 38-S820-ST-BK](https://foyselectrical.ie/products/shokz-openrun-pro-2-30-3g-open-ear-wireless-sport-headphones-38-s820-st-bk): Shop Shokz OpenRun Pro 2 30.3g Open-Ear Wireless Sport Headphones | 38-S820-ST-BK 38-S820-ST-BK - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
-  Updated: 2026-05-02T10:16:32Z
+  Updated: 2026-05-09T10:17:17Z
   Vendor: Shokz
   Product Type: Headphones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/38-S820-ST-BK_2.jpg?v=1768061519
   Price: €199.00 EUR
 - [Shokz OpenRun Pro 2 30.3g Open-Ear Wireless Sport Headphones – Orange | 38-S820-ST-OR](https://foyselectrical.ie/products/shokz-openrun-pro-2-30-3g-open-ear-wireless-sport-headphones-orange-38-s820-st-or): Shop Shokz OpenRun Pro 2 30.3g Open-Ear Wireless Sport Headphones – Orange | 38-S820-ST-OR 38-S820-ST-OR - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
-  Updated: 2026-04-30T10:16:36Z
+  Updated: 2026-05-07T10:17:07Z
   Vendor: Shokz
   Product Type: Headphones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/OpenRunPro2-OG-1_600x_a380fbc1-674f-4a54-908b-2e9b78968d6b.png?v=1768061521
   Price: €199.00 EUR
 - [Shokz OpenRun Pro 2 Mini 30g Open-Ear Wireless Sport Headphones | 38-S821-MN-BK](https://foyselectrical.ie/products/shokz-openrun-pro-2-mini-30g-open-ear-wireless-sport-headphones-38-s821-mn-bk): Shop Shokz OpenRun Pro 2 Mini 30g Open-Ear Wireless Sport Headphones | 38-S821-MN-BK 38-S821-MN-BK - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
-  Updated: 2026-05-02T10:16:35Z
+  Updated: 2026-05-08T10:16:53Z
   Vendor: Shokz
   Product Type: Headphones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/GUEST_1c89998c-cfa2-439a-b99f-567399cb5402.webp?v=1768061522
   Price: €199.00 EUR
 - [Shokz OpenRun Pro 2 Mini 30.3g Open-Ear Wireless Sport Headphones – Orange | 38-S821-MN-OR](https://foyselectrical.ie/products/shokz-openrun-pro-2-mini-30-3g-open-ear-wireless-sport-headphones-orange-38-s821-mn-or): Shop Shokz OpenRun Pro 2 Mini 30.3g Open-Ear Wireless Sport Headphones – Orange | 38-S821-MN-OR 38-S821-MN-OR - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
-  Updated: 2026-05-01T10:16:46Z
+  Updated: 2026-05-07T10:17:16Z
   Vendor: Shokz
   Product Type: Headphones
   Availability: Available
@@ -552,7 +587,7 @@
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/thum-1600x1062_ec276bc9-dcc5-4c97-81b1-fec5737ed941.jpg?v=1768061526
   Price: €379.99 EUR
 - [LG 50" 4K UHD LED Smart TV | 50UA75006LA.AEK](https://foyselectrical.ie/products/lg-ua75-50-4k-uhd-led-smart-tv-50ua75006la-aek): For a range of the latest LG TVs, shop online or instore with Foys Electrical Cootehill Electrical Foys Electrical Cootehill, including the LG 32" Smart TV | 32LM6300PLA
-  Updated: 2026-05-02T19:05:04Z
+  Updated: 2026-05-09T19:04:14Z
   Vendor: LG
   Product Type: TV
   Availability: Available
@@ -573,42 +608,42 @@
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/thum-1600x1062_1d183196-096f-4828-929b-7374fc50c38b.jpg?v=1768061533
   Price: €599.00 EUR
 - [Morphy Richards 3 Tier Food Steamer | 48755](https://foyselectrical.ie/products/morphy-richards-3-tier-food-steamer-48755): For a full range of products from Ireland's Top Brands, including the Morphy Richards 3 Tier Food Steamer 48755, shop online with Foys Electrical Foys Electrical Cootehill. Quick Nationwide Delivery 
-  Updated: 2026-05-02T19:05:02Z
+  Updated: 2026-05-09T19:04:12Z
   Vendor: Morphy Richards
   Product Type: Food Steamer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/48755.jpg?v=1768061656
   Price: €54.99 EUR
 - [Shark Cordless Handheld Vacuum Cleaner | WV200UK](https://foyselectrical.ie/products/cordless-handheld-vacuum-cleaner-wv200uk): For a range of handheld vacuum cleaners, including the Cordless Handheld Vacuum Cleaner | WV200UK, shop online or instore with Foys Electrical Foys Electrical Cootehill
-  Updated: 2026-05-02T19:05:00Z
+  Updated: 2026-05-09T19:04:10Z
   Vendor: Shark
   Product Type: Vacuum Cleaner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/bfb4bc50-b2a1-4134-a5b0-5355f780fe47.png?v=1768061697
   Price: €99.00 EUR
 - [Beko 50cm Electric Cooker | KDVC563AK](https://foyselectrical.ie/products/beko-50cm-electric-cooker-kdvc563ak): For A Full Range Of Appliances, TVs, Computers & more, shop on Foys Electrical Cootehill.ie where you will find the Beko 50cm Electric Cooker | KDVC563AK
-  Updated: 2026-05-02T19:04:55Z
+  Updated: 2026-05-09T19:04:05Z
   Vendor: Beko
   Product Type: Cooker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/KDVC563AK.jpg?v=1768061789
   Price: €469.00 EUR
 - [Beko AeroPerfect 60cm Built-in RecycledNet Single Fan Oven | BBIF22300B](https://foyselectrical.ie/products/beko-60cm-aeroperfect-single-oven-bbif22300b): For a range of single ovens, including the Beko 60cm AeroPerfect Single Oven | BBIF22300B, shop online or instore with Foys Electrical Foys Electrical Cootehill
-  Updated: 2026-04-21T14:29:34Z
+  Updated: 2026-05-06T08:51:31Z
   Vendor: Beko
   Product Type: Oven
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/BBIF22300B.jpg?v=1768061790
   Price: €249.00 EUR
 - [Russell Hobbs 3100W PowerSteam Iron | 20630](https://foyselectrical.ie/products/russell-hobbs-powersteam-iron): For a wide range of Iron, shop instore or online with Foys Electrical Foys Electrical Cootehill, where you will find the Russell Hobbs 3100W Powersteam Iron
-  Updated: 2026-05-02T19:05:09Z
+  Updated: 2026-05-09T19:04:13Z
   Vendor: Russell Hobbs
   Product Type: Iron
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/20630.png?v=1768062019
   Price: €49.99 EUR
 - [Russell Hobbs Copper Express 2600w Steam Iron](https://foyselectrical.ie/products/russell-hobbs-copper-express-2600w-steam-iron): For a range of irons, including the Russell Hobbs Copper Express 2600W Steam Iron, shop online or instore with Foys Electrical Foys Electrical Cootehill
-  Updated: 2026-05-02T19:05:08Z
+  Updated: 2026-05-09T19:04:11Z
   Vendor: Russell Hobbs
   Product Type: Iron
   Availability: Available
@@ -629,84 +664,112 @@
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/PPX520_INT-IMS-en_IE.png?v=1768062235
   Price: €599.00 EUR
 - [Beko 60cm Freestanding Black Dishwasher | DVN04320B](https://foyselectrical.ie/products/beko-60cm-freestanding-black-dishwasher-dvn04320b): For a range of freestanding dishwashers, including the Beko 60cm Freestanding Dishwasher | DFN16430X, shop online or instore with Foys Electrical Foys Electrical Cootehill
-  Updated: 2026-05-02T19:05:03Z
+  Updated: 2026-05-09T19:04:08Z
   Vendor: Beko
   Product Type: Dishwasher
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/bek_8.jpg?v=1768062244
   Price: €369.00 EUR
 - [Russell Hobbs 1.7L Inspire White Electric Kettle | 24360](https://foyselectrical.ie/products/russell-hobbs-1-7l-inspire-white-electric-kettle-24360): Shop Online and Instore With Foys Electrical Cootehill For The Russell Hobbs 1.7L Inspire White Electric Kettle | 24360
-  Updated: 2026-05-02T19:05:03Z
+  Updated: 2026-05-09T19:04:07Z
   Vendor: Russell Hobbs
   Product Type: Kettle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/24360.jpg?v=1768062340
   Price: €44.99 EUR
 - [Russell Hobbs Bagless Vacuum Cleaner | RHCV3101](https://foyselectrical.ie/products/russell-hobbs-bagless-vacuum-cleaner-rhcv3101): For a range of Home Appliances, shop online or instore with Foys Electrical Foys Electrical Cootehill, including the Russell Hobbs Bagless Vacuum Cleaner | RHCV3101
-  Updated: 2026-05-02T19:05:00Z
+  Updated: 2026-05-09T19:04:05Z
   Vendor: Russell Hobbs
   Product Type: Vacuum Cleaner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/vacuum_cleaner_Rh_RHCV3101.jpg?v=1768062361
   Price: €89.99 EUR
 - [Hoover 50/50 Fridge Freezer Silver | HVT3CLFCKIHS](https://foyselectrical.ie/products/hoover-60-40-fridge-freezer-hvt3clfckihs): For a range of fridge freezers, including the Hoover 60/40 Fridge Freezer | HVBFP6182W, shop online or instore with Foys Electrical Foys Electrical Cootehill
-  Updated: 2026-04-30T15:57:15Z
+  Updated: 2026-05-09T18:33:12Z
   Vendor: Hoover
   Product Type: Fridge Freezer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/HVT3CLFCKIHS.webp?v=1768062362
   Price: €395.00 EUR
 - [Beko 60cm 13 Place Freestanding Dishwasher | DVN04X20W](https://foyselectrical.ie/products/beko-13-place-freestanding-dishwasher-dvn04x20w): For a range of dishwashers, including the Beko 13 Place Freestanding Dishwasher | DVN04320W, shop online or instore with Foys Electrical Foys Electrical Cootehill
-  Updated: 2026-05-02T19:04:57Z
+  Updated: 2026-05-09T19:04:02Z
   Vendor: Beko
   Product Type: Dishwasher
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/Beko-Freestanding-60cm-13-Place-Dishwasher-White-1-600x600.jpg?v=1768062478
   Price: €329.00 EUR
 - [Remington Shaver Virtually Indestructible | PR1855](https://foyselectrical.ie/products/remington-shaver-virtually-indestructible-pr1855): Shop Remington Shaver Virtually Indestructible | PR1855 PR1855 - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
-  Updated: 2026-05-02T19:04:55Z
+  Updated: 2026-05-09T19:04:01Z
   Vendor: Remington
   Product Type: Shaver
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/2040777.png?v=1768062535
   Price: €49.99 EUR
 - [Shark Klik & Flip Steam Pocket Mop | S6005UK](https://foyselectrical.ie/products/shark-klik-flip-steam-pocket-mop-s6005uk): Shop Shark Klik & Flip Steam Pocket Mop | S6005UK S6005UK - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
-  Updated: 2026-05-02T19:04:55Z
+  Updated: 2026-05-09T19:02:05Z
   Vendor: Shark
   Product Type: Steam Mop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/0622356235129___L.jpg?v=1768062535
   Price: €149.00 EUR
+- [Ninja Woodfire Electric Outdoor BBQ Grill & Smoker | OG701UK](https://foyselectrical.ie/products/ninja-woodfire-electric-bbq-grill-smoker-og701uk): For a range of air fryers, including the Ninja Woodfire Electric Outdoor BBQ Grill & Smoker | OG701UK, shop online or instore with Foys Electrical Foys Electrical Cootehill
+  Updated: 2026-05-09T19:02:05Z
+  Vendor: Ninja
+  Product Type: Grill
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/OG701UK-6_5000x_9216fab6-bb39-491a-a522-95be43bab218.png?v=1768062541
+  Price: €349.00 EUR
 - [Shark Stratos Anti Hair Wrap Plus Pet Pro Cordless Vacuum | IZ400UK](https://foyselectrical.ie/products/shark-stratos-anti-hair-wrap-plus-pet-pro-cordless-vacuum-iz400uk): For a range of cordless vacuum cleaners, including the Shark Anti Hair Wrap Cordless Vacuum Cleaner | IZ300UKT, shop online or instore with Foys Electrical Foys Electrical Cootehill
-  Updated: 2026-05-02T19:05:11Z
+  Updated: 2026-05-09T19:02:02Z
   Vendor: Shark
   Product Type: Vacuum Cleaner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/IZ400UK_01.jpg?v=1768062619
   Price: €269.00 EUR
 - [Zanussi 8kg Washing Machine | ZWF824B3PW](https://foyselectrical.ie/products/zanussi-8kg-washing-machine-zwf824b3pw): Shop Zanussi 8kg Washing Machine | ZWF824B3PW ZWF824B3PW - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
-  Updated: 2026-05-02T19:05:11Z
+  Updated: 2026-05-09T19:02:01Z
   Vendor: Zanussi
   Product Type: Washing Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/ZWF825B4PW-1_f6e00bc4-69cd-43d6-9840-3f09d35383f0.jpg?v=1768062642
   Price: €399.00 EUR
+- [Ninja Foodi FlexDrawer 10.4L Air Fryer | AF500UK](https://foyselectrical.ie/products/ninja-foodi-flexdrawer-10-4l-air-fryer-af500uk): The Brand new Ninja FlexDrawer Airfryer AF500UK is now available to pre-order online at Foys Electrical Cootehill. The Ninja Foodi FlexDrawer 10.4L Air Fryer is the newest airfryer from the NInja range. Airfry with 7 different cooking functions  and cook using up to 45% less energy than an oven.
+  Updated: 2026-05-07T17:03:09Z
+  Vendor: Ninja
+  Product Type: Air Fryer
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/fd4c115f8e40c7214c2f6776add98d39a3d93a41_1296x_a13c13b8-9467-4e70-9f48-05719100dc6f.jpg?v=1768062727
+  Price: €319.00 EUR
 - [Samsung Jet 65 Pet Cordless Stick Vacuum Cleaner with Pet tool | VS15A60AGR5/EU](https://foyselectrical.ie/products/samsung-jet-n-65-pet-cordless-stick-vacuum-cleaner-with-pet-tool-vs15a60agr5-eu): For a range of powerful cordless vacuum cleaners, including the Samsung Jet 60 Turbo Cordless Vacuum Cleaner, shop online or instore with Foys Electrical Cootehill
-  Updated: 2026-04-30T15:57:23Z
+  Updated: 2026-05-09T19:04:11Z
   Vendor: Samsung
   Product Type: Vacuum Cleaner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/uk-jet65-vs9000rl-vs15a60agr5-eu-537873750.png?v=1768205857
-  Price: €299.00 EUR
+  Price: €279.00 EUR
+- [Ninja Double Stack XL 2 Drawer Air Fryer 9.5L | SL400UK](https://foyselectrical.ie/products/ninja-double-stack-xl-2-drawer-air-fryer-9-5l-sl400uk): For a range of air fryers, including the Ninja Double Stack XL 2 Drawer Air Fryer 9.5L | SL400UK, shop online or instore with Foys Electrical Cootehill. We stock the largest selection of ninja air fryers at the most competitive prices.
+  Updated: 2026-05-07T17:03:10Z
+  Vendor: Ninja
+  Product Type: Air Fryer
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/ninja-double-stack-xl-9.5-litre-dual-drawer-air-fryer-scaled-1024x1024.jpg?v=1768205993
+  Price: €319.00 EUR
+- [Ninja Creami Deluxe Ice Cream & Frozen Dessert Maker | NC501](https://foyselectrical.ie/products/ninja-creami-deluxe-ice-cream-frozen-dessert-maker-nc501): For a range of blenders, including the Ninja Creami Deluxe Ice Cream & Frozen Dessert Maker | NC501, shop online or instore with Foys Electrical Cootehill
+  Updated: 2026-05-09T19:04:07Z
+  Vendor: Ninja
+  Product Type: Ice Cream Maker
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/NC501_01.jpg?v=1768206066
+  Price: €289.00 EUR
 - [Eufy Clean X10 Pro Vacuum & Mop with Emptying Station | T2351V11](https://foyselectrical.ie/products/eufy-clean-x10-pro-vacuum-mop-with-emptying-station-t2351v11): For a range of robot vacuum cleaners, including the Eufy RoboVac G30 Verge Smart Robot Vacuum | T2252K11, shop online or instore with Foys Electrical Cootehill
-  Updated: 2026-05-02T19:05:02Z
+  Updated: 2026-05-06T17:03:00Z
   Vendor: Eufy
   Product Type: Vacuum Cleaner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/Maskgroup-1_3840x_dc33a598-7dc3-4c2b-a0d9-59fb5f82a03f.png?v=1768206092
-  Price: €499.00 EUR
+  Price: €599.00 EUR
 - [Blomberg LWA210461W 10kg 1400 spin RecycledTub Washing Machine | LWA210461W](https://foyselectrical.ie/products/blomberg-lwa210461w-10kg-1400-spin-recycledtub-washing-machine-lwa210461w): For a range of washing machines, including the Samsung WW5500 9kg Washing Machine with AddWash‚Ñ¢ | Grey, shop online or instore with Foys Electrical Cootehill. We are the most competitive online and instore retailer for Beko washing machines, Bosch washing machines, Samsung washing machines, Candy washing machines and Blomberg washing machines. Fast and secure delivery to Ireland.
-  Updated: 2026-05-02T19:05:01Z
+  Updated: 2026-05-09T19:04:07Z
   Vendor: Blomberg
   Product Type: Washing Machine
   Availability: Available
@@ -720,7 +783,7 @@
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/6fab6926f89b4c4ead99b10200dd3b5a.png?v=1768496420
   Price: €99.99 EUR
 - [Philips NeoPix 130W HD Home Projector | NPX130W/INT](https://foyselectrical.ie/products/philips-neopix-130w-hd-home-projector-npx130w-int): Shop Foy's Electrical Euronics in Ireland for projectors, shop instore or online with Foy's Electrical Euronics, including the Philips NeoPix Ultra 2 Projector
-  Updated: 2026-04-30T10:16:38Z
+  Updated: 2026-05-07T10:17:00Z
   Vendor: Philips
   Product Type: Projector
   Availability: Available
@@ -734,35 +797,35 @@
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/880501f5d22f4778814aafb9008678af.png?v=1768496428
   Price: €129.00 EUR
 - [Ninja MAX 6‑in‑1 Dual Zone Air Fryer 9.5 L | DZ400UK](https://foyselectrical.ie/products/ninja-max-6-in-1-dual-zone-air-fryer-9-5-l-dz400uk): For a range of air fryers, including the Ninja 5.2L Air Fryer | AF160UK, shop online or instore with Foy's Electrical Euronics. We stock the largest selection of ninja air fryers at the most competitive prices.
-  Updated: 2026-05-02T19:04:59Z
+  Updated: 2026-05-07T17:03:06Z
   Vendor: Ninja
   Product Type: Air Fryer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/10282513.jpg?v=1768496604
   Price: €269.00 EUR
 - [Remington Sapphire Luxe Straightener | S5805](https://foyselectrical.ie/products/remington-sapphire-luxe-straightener-s5805): Shop Remington Sapphire Luxe Straightener | S5805 S5805 - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
-  Updated: 2026-05-02T19:04:58Z
+  Updated: 2026-05-09T19:04:05Z
   Vendor: Remington
   Product Type: Hair Dryer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/S5805_1.jpg?v=1768496610
   Price: €34.99 EUR
 - [Russell Hobbs Classics 2‑Slice Toaster | 27390](https://foyselectrical.ie/products/russell-hobbs-classics-2-slice-toaster-27390): Shop online or instore for a range of products including the Russell Hobbs Mini Kitchen
-  Updated: 2026-05-02T19:04:57Z
+  Updated: 2026-05-09T19:04:04Z
   Vendor: Russell Hobbs
   Product Type: Toaster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/5038061163742.jpg?v=1768496614
   Price: €29.99 EUR
 - [Russell Hobbs Ultra Steam Pro Iron 2600 W | 23990](https://foyselectrical.ie/products/russell-hobbs-ultra-steam-pro-iron-2600-w-model-23990): Shop online or instore for a range of products including the Russell Hobbs Mini Kitchen
-  Updated: 2026-05-02T19:04:57Z
+  Updated: 2026-05-09T19:04:04Z
   Vendor: Russell Hobbs
   Product Type: Steam Iron
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/23990_1.jpg?v=1768496616
   Price: €29.99 EUR
 - [Russell Hobbs 20 L Dehumidifier | RHDH2002](https://foyselectrical.ie/products/russell-hobbs-20-l-dehumidifier-rhdh2002): Shop online or instore for a range of products including the Russell Hobbs Mini Kitchen
-  Updated: 2026-05-02T19:04:56Z
+  Updated: 2026-05-09T19:04:03Z
   Vendor: Russell Hobbs
   Product Type: Dehumidifier
   Availability: Available
@@ -776,63 +839,63 @@
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/HAIHD80D357U1_3.jpg?v=1768496630
   Price: €429.00 EUR
 - [Garmin Forerunner 55 GPS Smartwatch | 49-GAR-010-02562-10](https://foyselectrical.ie/products/garmin-forerunner-55-gps-smartwatch-49-gar-010-02562-10): For a range of Activity Trackers, including Garmin and more, head to your local Foy's Electrical Euronics Store.
-  Updated: 2026-05-02T10:16:35Z
+  Updated: 2026-05-09T10:17:17Z
   Vendor: Garmin
   Product Type: Activity Tracker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/Forerunner55_HR_1000.9__2.jpg?v=1768496645
   Price: €199.00 EUR
 - [Garmin Venu 3 GPS Smartwatch | 49-GAR-010-02784-01](https://foyselectrical.ie/products/garmin-venu-3-gps-smartwatch-49-gar-010-02784-01): For a range of Activity Trackers, including Garmin and more, head to your local Foy's Electrical Euronics Store.
-  Updated: 2026-05-02T10:16:35Z
+  Updated: 2026-05-09T10:17:18Z
   Vendor: Garmin
   Product Type: Activity Tracker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/010-02784-01_1.jpg?v=1768496646
   Price: €469.00 EUR
 - [Garmin Forerunner 165 Music GPS Smartwatch | 49-GAR-010-02863-21](https://foyselectrical.ie/products/garmin-forerunner-165-music-gps-smartwatch-49-gar-010-02863-21): For a range of Activity Trackers, including Garmin and more, head to your local Foy's Electrical Euronics Store.
-  Updated: 2026-05-02T10:16:35Z
+  Updated: 2026-05-09T10:17:18Z
   Vendor: Garmin
   Product Type: Activity Tracker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/010-02863-21_1.jpg?v=1768496648
   Price: €279.00 EUR
 - [Garmin Venu 3S GPS Smartwatch | 49-GAR-010-02785-04](https://foyselectrical.ie/products/garmin-venu-3s-gps-smartwatch-49-gar-010-02785-04): For a range of Activity Trackers, including Garmin and more, head to your local Foy's Electrical Euronics Store.
-  Updated: 2026-04-30T10:16:37Z
+  Updated: 2026-05-09T10:17:12Z
   Vendor: Garmin
   Product Type: Activity Tracker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/Ivory1.jpg?v=1768496651
   Price: €469.00 EUR
 - [Garmin Venu 3S GPS Smartwatch | 49-GAR-010-02785-02](https://foyselectrical.ie/products/garmin-venu-3s-gps-smartwatch-49-gar-010-02785-02): For a range of Activity Trackers, including Garmin and more, head to your local Foy's Electrical Euronics Store.
-  Updated: 2026-05-02T10:16:36Z
+  Updated: 2026-05-09T10:17:19Z
   Vendor: Garmin
   Product Type: Activity Tracker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/FGrey1.jpg?v=1768496652
   Price: €469.00 EUR
 - [Garmin vivoactive 5 Smartwatch - Metallic Navy | 49-GAR-010-02862-12](https://foyselectrical.ie/products/garmin-vivoactive-5-gps-smartwatch-49-gar-010-02862-12): For a range of Activity Trackers, including Garmin and more, head to your local Foy's Electrical Euronics Store.
-  Updated: 2026-05-01T10:16:46Z
+  Updated: 2026-05-09T10:17:17Z
   Vendor: Garmin
   Product Type: Activity Tracker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/cf-xl.jpg?v=1768496676
   Price: €269.99 EUR
 - [Garmin Forerunner 165 Music, Mist Grey & Whitestone | 49-GAR-010-02863-31](https://foyselectrical.ie/products/garmin-forerunner-165-music-mist-grey-whitestone-49-gar-010-02863-31): For a range of running watches, including the Garmin vívomove Sport Smart Watch With Silicone Band | 010-02566-01, shop online or instore with Foy's Electrical Euronics
-  Updated: 2026-04-29T10:16:37Z
+  Updated: 2026-05-09T10:17:17Z
   Vendor: Garmin
   Product Type: Smart Watch
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/cf-xl_42a897bb-1882-4df3-b6b6-4aa107724446.jpg?v=1768496685
   Price: €329.99 EUR
 - [Garmin Venu 3s Smartwatch - Soft Gold - Rose Case | 49-GAR-010-02785-03](https://foyselectrical.ie/products/garmin-venu-3s-smartwatch-soft-gold-rose-case-49-gar-010-02785-03): For a range of running watches, including the Garmin vívomove Sport Smart Watch With Silicone Band | 010-02566-01, shop online or instore with Foy's Electrical Euronics
-  Updated: 2026-04-29T10:16:37Z
+  Updated: 2026-05-09T10:17:20Z
   Vendor: Garmin
   Product Type: Smart Watch
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/cf-xl.png?v=1768496694
   Price: €469.99 EUR
 - [Garmin Forerunner 55 GPS Smartwatch | 49-GAR-010-02562-11](https://foyselectrical.ie/products/garmin-forerunner-55-gps-smartwatch-49-gar-010-02562-11): For a range of running watches, including the Garmin vívomove Sport Smart Watch With Silicone Band | 010-02566-01, shop online or instore with Foy's Electrical Euronics
-  Updated: 2026-05-02T10:16:36Z
+  Updated: 2026-05-08T10:16:56Z
   Vendor: Garmin
   Product Type: Smart Watch
   Availability: Available
@@ -867,35 +930,35 @@
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/23070140_KBN96NSE0_STP_def.webp?v=1770645648
   Price: €1,299.00 EUR
 - [Beko FTC6701K 60 cm Twin Cavity Electric Cooker – Black](https://foyselectrical.ie/products/beko-ftc6701k-60-cm-twin-cavity-electric-cooker-black): Beko FTC6701K 60 cm twin cavity electric cooker in black with 4-zone ceramic hob, 69 L main oven, separate grill, and steam-assisted cleaning — ideal for everyday cooking.
-  Updated: 2026-04-30T15:57:30Z
+  Updated: 2026-05-06T08:49:33Z
   Vendor: Beko
   Product Type: Oven
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/Beko-Freestanding-Cooker-KTC611K.png?v=1771420489
   Price: €545.00 EUR
-- [Bosch Series 2 50/50 Frost Free Fridge Freezer – KGN27NLEAG – Stainless Steel](https://foyselectrical.ie/products/bosch-series-2-50-50-frost-free-fridge-freezer-kgn27nleag-stainless-steel): Bosch KGN27NLEAG Series 2 freestanding fridge-freezer with 255 L total capacity, NoFrost, LED lighting, MultiAirflow and reversible doors — practical everyday cooling.
-  Updated: 2026-05-02T19:04:55Z
+- [Bosch Series 2 50/50 Frost Free Fridge Freezer – KGN27NLEAG – Silver](https://foyselectrical.ie/products/bosch-series-2-50-50-frost-free-fridge-freezer-kgn27nleag-stainless-steel): Bosch KGN27NLEAG Series 2 freestanding fridge-freezer with 255 L total capacity, NoFrost, LED lighting, MultiAirflow and reversible doors — practical everyday cooling.
+  Updated: 2026-05-09T19:04:02Z
   Vendor: Bosch
   Product Type: Fridge Freezer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/KGN27NLEAG_1.jpg?v=1771420007
   Price: €569.00 EUR
 - [Belling 308 L Chest Freezer – BCFE301 – White](https://foyselectrical.ie/products/belling-308-l-chest-freezer-bcfe301-white): Belling BCFE301 308 L chest freezer in white with Frost Shield technology, digital controls, interior baskets, and lockable handle — ideal for reliable frozen food storage.
-  Updated: 2026-04-30T15:57:32Z
+  Updated: 2026-05-06T08:49:34Z
   Vendor: Belling
   Product Type: Chest Freezer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/1--hero-cu1qntax.png?v=1771419770
   Price: €519.00 EUR
 - [Blomberg 60cm Ceramic Hob – MKN24001](https://foyselectrical.ie/products/blomberg-60cm-ceramic-hob-mkn24001): Blomberg MKN24001 60 cm ceramic hob with four cooking zones, side rotary controls, black glass surface and residual heat indicators — stylish and easy to clean.
-  Updated: 2026-05-02T19:04:54Z
+  Updated: 2026-05-09T19:04:02Z
   Vendor: Blomberg
   Product Type: Hob
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/blomberg-60cm-electric-hob-mkn24001-mkn24001-213266.png?v=1771419583
   Price: €269.00 EUR
 - [Belling Chest Freezer – BCFE151 – White](https://foyselectrical.ie/products/belling-chest-freezer-bcfe151-white): Belling BCFE151 chest freezer in white with spacious interior and practical storage — ideal for family frozen food needs.
-  Updated: 2026-04-30T15:57:33Z
+  Updated: 2026-05-06T08:49:34Z
   Vendor: Belling
   Product Type: Freezer
   Availability: Available
@@ -916,7 +979,7 @@
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/24570.jpg?v=1771266467
   Price: €59.95 EUR
 - [George Foreman Small Fit Grill – Black (25800)](https://foyselectrical.ie/products/george-foreman-small-fit-grill-black-25800): George Foreman Small Fit Grill (25800) in black for quick, healthier grilling. Compact design ideal for everyday meals and smaller kitchens.
-  Updated: 2026-05-02T19:04:54Z
+  Updated: 2026-05-09T19:02:04Z
   Vendor: George Forman
   Product Type: Grill
   Availability: Available
@@ -965,14 +1028,14 @@
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/RHCV4101-130487-800x800.jpg?v=1771260379
   Price: €135.00 EUR
 - [Belling BFF230WH Freestanding Fridge Freezer – White](https://foyselectrical.ie/products/belling-bff230wh-freestanding-fridge-freezer-white): Belling BFF230WH freestanding fridge freezer in white with practical fridge and freezer storage for everyday household use.
-  Updated: 2026-04-30T15:57:37Z
+  Updated: 2026-05-06T08:49:35Z
   Vendor: Belling
   Product Type: Fridge Freezer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/BFF230WH_closed-min.jpg?v=1771249198
   Price: €499.00 EUR
 - [NEFF Built-In Single Oven – B1DCCOAK3B](https://foyselectrical.ie/products/neff-built-in-single-oven-b1dccoak3b): NEFF B1DCCOAK3B built-in single oven with modern integrated design and reliable everyday cooking performance for contemporary kitchens.
-  Updated: 2026-04-30T15:57:37Z
+  Updated: 2026-05-06T08:50:42Z
   Vendor: Neff
   Product Type: Oven
   Availability: Available
@@ -1007,7 +1070,7 @@
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/10223319.jpg?v=1771240764
   Price: €47.95 EUR
 - [Russell Hobbs Inspire Grey Kettle – 1.7 L (24363)](https://foyselectrical.ie/products/russell-hobbs-inspire-grey-kettle-1-7-l-24363): Russell Hobbs Inspire grey kettle (24363) with 1.7 L capacity, rapid boil technology, 360° base, removable filter, and modern grey finish.
-  Updated: 2026-05-02T19:04:53Z
+  Updated: 2026-05-09T19:02:03Z
   Vendor: Russell Hobbs
   Product Type: Kettle
   Availability: Available
@@ -1035,7 +1098,7 @@
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/24384_-_1.jpg?v=1771240144
   Price: €64.95 EUR
 - [Russell Hobbs 21274 Textures Grey Kettle – 1.7 L](https://foyselectrical.ie/products/russell-hobbs-21274-textures-grey-kettle-1-7-l): Russell Hobbs Textures grey kettle (21274) with 1.7 L capacity, rapid boil technology, 360° base, removable filter, and modern textured finish.
-  Updated: 2026-04-30T15:57:41Z
+  Updated: 2026-05-08T17:03:07Z
   Vendor: Russell Hobbs
   Product Type: Kettle
   Availability: Available
@@ -1049,7 +1112,7 @@
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/10289841.jpg?v=1771239495
   Price: €44.95 EUR
 - [Russell Hobbs Classics 26930 2-Slice Toaster – Jasmine](https://foyselectrical.ie/products/russell-hobbs-classics-26930-2-slice-toaster-jasmine): Russell Hobbs Classics 26930 Jasmine 2-slice toaster with Fast Toasting, adjustable browning, Lift & Look lever, and defrost/reheat/cancel functions for everyday use.
-  Updated: 2026-04-30T15:57:41Z
+  Updated: 2026-05-08T17:03:08Z
   Vendor: Russell Hobbs
   Product Type: Toaster
   Availability: Available
@@ -1098,12 +1161,12 @@
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/Philips-On-ear-Wireless-Headphones-TAH3209WT00-White-e1767423599758.jpg?v=1771238006
   Price: €39.95 EUR
 - [Sony WH-CH520 Wireless Bluetooth Headphones – Beige](https://foyselectrical.ie/products/sony-wh-ch520-wireless-bluetooth-headphones-beige): Sony WH-CH520 wireless Bluetooth headphones in beige with up to 50 h battery life, built-in mic, and comfortable on-ear design — ideal for everyday listening.
-  Updated: 2026-04-25T17:02:16Z
+  Updated: 2026-05-07T17:03:06Z
   Vendor: Sony
   Product Type: Headphones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/Headphone_Sony_WH-CH520C.jpg?v=1771237846
-  Price: €39.95 EUR
+  Price: €64.95 EUR
 - [Sony WH-CH720N Noise Cancelling Bluetooth Headphones – Black](https://foyselectrical.ie/products/sony-wh-ch720n-noise-cancelling-bluetooth-headphones-black): Sony WH-CH720N wireless noise-cancelling Bluetooth headphones in black with up to 35 h battery life, comfortable over-ear design, and built-in controls for everyday listening.
   Updated: 2026-04-14T16:00:54Z
   Vendor: Sony
@@ -1146,97 +1209,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/22241.jpg?v=1770747207
   Price: €22.95 EUR
-- [Russell Hobbs 27680 9L Dual Basket Air Fryer – Black](https://foyselectrical.ie/products/russell-hobbs-27680-9l-dual-basket-air-fryer-black): Cook healthier meals with the Russell Hobbs 27680 9L Dual Basket Air Fryer. Two 4.5 L baskets, digital controls, sync & match functions and dishwasher-safe parts for easy kitchen cooking.
-  Updated: 2026-04-30T15:57:44Z
-  Vendor: Russell Hobbs
-  Product Type: Air Fryer
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/27680.jpg?v=1770746866
-  Price: €99.95 EUR
-- [Remington Shine Therapy Curling Wand CI53W](https://foyselectrical.ie/products/remington-shine-therapy-curling-wand-ci53w): Achieve smooth, shiny curls with the Remington CI53W Shine Therapy curling wand. Ceramic barrel infused with Moroccan Argan Oil and 8 heat settings for versatile styling.
-  Updated: 2026-04-14T16:00:51Z
-  Vendor: Remington
-  Product Type: Curling Irons
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/51fUGv9o2yL._SL1500_1500x980_c48758b5-0c84-4fde-bf52-612d9cb0c61f.jpg?v=1770746702
-  Price: €29.95 EUR
-- [Foy's Electrical Gift Card](https://foyselectrical.ie/products/foys-electrical-gift-card): Shop Foy's Electrical Gift Card - Buy Online or In-store at Foy's Electrical, part of the Euronics group in Ireland.
-  Updated: 2026-04-13T15:07:15Z
-  Vendor: Foy's Electrical
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/foys-gift-card.png?v=1770995798
-  - [€25.00](https://foyselectrical.ie/products/foys-electrical-gift-card?variant=56361695969666)
-    Availability: Available
-    Price: €25.00 EUR
-  - [€50.00](https://foyselectrical.ie/products/foys-electrical-gift-card?variant=56557156630914)
-    Availability: Available
-    Price: €50.00 EUR
-  - [€100.00](https://foyselectrical.ie/products/foys-electrical-gift-card?variant=56557156663682)
-    Availability: Available
-    Price: €100.00 EUR
-  - [€150.00](https://foyselectrical.ie/products/foys-electrical-gift-card?variant=56557156696450)
-    Availability: Available
-    Price: €150.00 EUR
-  - [€200.00](https://foyselectrical.ie/products/foys-electrical-gift-card?variant=56557156729218)
-    Availability: Available
-    Price: €200.00 EUR
-  - [€250.00](https://foyselectrical.ie/products/foys-electrical-gift-card?variant=56557156761986)
-    Availability: Available
-    Price: €250.00 EUR
-  - [€300.00](https://foyselectrical.ie/products/foys-electrical-gift-card?variant=56557156794754)
-    Availability: Available
-    Price: €300.00 EUR
-  - [€350.00](https://foyselectrical.ie/products/foys-electrical-gift-card?variant=56557156827522)
-    Availability: Available
-    Price: €350.00 EUR
-  - [€400.00](https://foyselectrical.ie/products/foys-electrical-gift-card?variant=56557156860290)
-    Availability: Available
-    Price: €400.00 EUR
-  - [€450.00](https://foyselectrical.ie/products/foys-electrical-gift-card?variant=56557156893058)
-    Availability: Available
-    Price: €450.00 EUR
-  - [€500.00](https://foyselectrical.ie/products/foys-electrical-gift-card?variant=56557156925826)
-    Availability: Available
-    Price: €500.00 EUR
-  - [€550.00](https://foyselectrical.ie/products/foys-electrical-gift-card?variant=56557156958594)
-    Availability: Available
-    Price: €550.00 EUR
-  - [€600.00](https://foyselectrical.ie/products/foys-electrical-gift-card?variant=56557156991362)
-    Availability: Available
-    Price: €600.00 EUR
-  - [€650.00](https://foyselectrical.ie/products/foys-electrical-gift-card?variant=56557157024130)
-    Availability: Available
-    Price: €650.00 EUR
-  - [€700.00](https://foyselectrical.ie/products/foys-electrical-gift-card?variant=56557157056898)
-    Availability: Available
-    Price: €700.00 EUR
-  - [€750.00](https://foyselectrical.ie/products/foys-electrical-gift-card?variant=56557157089666)
-    Availability: Available
-    Price: €750.00 EUR
-  - [€800.00](https://foyselectrical.ie/products/foys-electrical-gift-card?variant=56557157122434)
-    Availability: Available
-    Price: €800.00 EUR
-  - [€850.00](https://foyselectrical.ie/products/foys-electrical-gift-card?variant=56557157155202)
-    Availability: Available
-    Price: €850.00 EUR
-  - [€900.00](https://foyselectrical.ie/products/foys-electrical-gift-card?variant=56557157187970)
-    Availability: Available
-    Price: €900.00 EUR
-  - [€950.00](https://foyselectrical.ie/products/foys-electrical-gift-card?variant=56557157220738)
-    Availability: Available
-    Price: €950.00 EUR
-  - [€1,000.00](https://foyselectrical.ie/products/foys-electrical-gift-card?variant=56557157253506)
-    Availability: Available
-    Price: €1,000.00 EUR
-- [Beko 8 kg Freestanding Washing Machine with ProSmart™ | BW1O3821W](https://foyselectrical.ie/products/beko-8-kg-freestanding-washing-machine-with-prosmart™-bw1o3821w): For a range of dishwashers, including the Bosch Serie 2 Freestanding Dishwasher | SGS2HVW66G, shop online or instore with Foy's Electrical Euronics
-  Updated: 2026-05-02T17:03:04Z
-  Vendor: Beko
-  Product Type: Washing Machine
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0952/4438/6690/files/8785053200.jpg?v=1771504597
-  Price: €339.00 EUR
-[List Continued](https://foyselectrical.ie/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTI4MTMyOTUzNzQxMCwibGFzdF92YWx1ZSI6IjE1MjgxMzI5NTM3NDEwIn0=)
+[List Continued](https://foyselectrical.ie/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTI2NDMxMjEzMTk3MCwibGFzdF92YWx1ZSI6IjE1MjY0MzEyMTMxOTcwIn0=)
 
 ## Collections
 
@@ -1244,287 +1217,296 @@
   Updated: 2026-04-21T10:50:51Z
   Total Products: 1
 - [Deals of The Week](https://foyselectrical.ie/collections/deals-of-the-week): Shop deals of the week on selected appliances from trusted brands. Limited-time offers on cooking, laundry and home appliances.
-  Updated: 2026-05-02T19:05:08Z
-  Total Products: 103
+  Updated: 2026-05-09T19:04:19Z
+  Total Products: 104
 - [TV & Audio](https://foyselectrical.ie/collections/tv-audio): Shop TVs and audio including Smart TVs, headphones and speakers from trusted brands. Quality home entertainment solutions.
-  Updated: 2026-05-02T19:05:05Z
+  Updated: 2026-05-09T19:04:15Z
   Total Products: 105
 - [Laundry](https://foyselectrical.ie/collections/laundry): Shop laundry appliances including washing machines, tumble dryers and washer dryers from trusted brands. Reliable solutions for modern homes.
-  Updated: 2026-05-02T19:05:12Z
+  Updated: 2026-05-09T19:04:20Z
   Total Products: 230
 - [Dishwashers](https://foyselectrical.ie/collections/dishwashers): Shop dishwashers including freestanding and integrated models from trusted brands. Reliable, energy-efficient cleaning solutions for modern kitchens.
   Updated: 2026-04-09T14:01:18Z
   Total Products: 0
 - [Refrigeration](https://foyselectrical.ie/collections/refrigeration): Shop refrigeration including fridges, freezers and fridge freezers from trusted brands. Practical cooling solutions for every home.
-  Updated: 2026-05-02T19:05:13Z
-  Total Products: 184
+  Updated: 2026-05-09T19:04:21Z
+  Total Products: 185
 - [Cooking](https://foyselectrical.ie/collections/cooking): Shop cooking appliances including ovens, hobs and cookers from trusted brands. Practical solutions for modern kitchens.
-  Updated: 2026-05-02T19:05:12Z
+  Updated: 2026-05-09T19:04:18Z
   Total Products: 242
 - [Floorcare](https://foyselectrical.ie/collections/floorcare): Shop floorcare including vacuum cleaners and robot vacuums from trusted brands. Reliable cleaning solutions for every home.
-  Updated: 2026-05-02T19:05:12Z
+  Updated: 2026-05-09T19:04:19Z
   Total Products: 178
 - [Small Appliances](https://foyselectrical.ie/collections/small-appliances): Shop small appliances including kettles, toasters, blenders and more from trusted brands. Practical solutions for everyday kitchen tasks.
-  Updated: 2026-05-02T19:05:13Z
+  Updated: 2026-05-09T19:04:19Z
   Total Products: 535
 - [Technology](https://foyselectrical.ie/collections/technology): Shop technology including TVs, audio and smart devices from trusted brands. Practical tech solutions for entertainment and everyday use.
   Updated: 2026-04-09T14:01:19Z
   Total Products: 0
 - [All Dishwashers](https://foyselectrical.ie/collections/all-dishwashers): Shop dishwashers including freestanding and integrated models from Beko, Bosch and more. Energy-efficient, reliable options for every kitchen.
-  Updated: 2026-05-02T19:05:04Z
-  Total Products: 2
+  Updated: 2026-05-09T19:04:09Z
+  Total Products: 3
 - [Freestanding Dishwashers](https://foyselectrical.ie/collections/freestanding-dishwashers): Shop freestanding dishwashers from trusted brands. Reliable, energy-efficient cleaning solutions for modern kitchens.
-  Updated: 2026-05-02T19:05:04Z
+  Updated: 2026-05-09T19:04:09Z
   Total Products: 2
 - [Built In Dishwashers](https://foyselectrical.ie/collections/built-in-dishwashers): Shop built-in dishwashers from trusted brands. Integrated designs offering efficient, energy-saving cleaning for modern kitchens.
-  Updated: 2026-04-09T14:01:19Z
-  Total Products: 0
+  Updated: 2026-05-09T19:02:06Z
+  Total Products: 1
 - [Home Appliances](https://foyselectrical.ie/collections/home-appliances): Shop home appliances including cooking, laundry, refrigeration and cleaning products from trusted brands. Reliable solutions for every home.
   Updated: 2026-04-09T14:01:19Z
   Total Products: 0
-- [Washing Machines](https://foyselectrical.ie/collections/washing-machines): Shop freestanding and integrated washing machines from trusted brands. Energy-efficient laundry solutions for modern homes.
-  Updated: 2026-05-02T19:05:12Z
+- [Washing Machines | Same Day Delivery Cavan, Monaghan](https://foyselectrical.ie/collections/washing-machines): Shop freestanding and integrated washing machines from trusted brands. Energy-efficient laundry solutions for modern homes.
+  Updated: 2026-05-09T19:04:15Z
   Total Products: 141
-- [Tumble Dryers](https://foyselectrical.ie/collections/tumble-dryers): Shop condenser and heat pump tumble dryers from trusted brands. Energy-efficient drying solutions for modern homes.
-  Updated: 2026-05-02T19:05:07Z
+- [Tumble Dryers  | Same Day Delivery Cavan, Monaghan](https://foyselectrical.ie/collections/tumble-dryers): Shop condenser and heat pump tumble dryers from trusted brands. Energy-efficient drying solutions for modern homes.
+  Updated: 2026-05-09T19:04:19Z
   Total Products: 65
 - [Washer Dryers](https://foyselectrical.ie/collections/washer-dryers): Shop washer dryers combining washing and drying in one appliance. Practical space-saving laundry solutions from trusted brands.
-  Updated: 2026-04-09T14:01:19Z
+  Updated: 2026-05-08T16:12:25Z
   Total Products: 19
 - [Ovens](https://foyselectrical.ie/collections/ovens): Shop built-in and freestanding ovens from trusted brands. Practical, reliable cooking solutions for modern kitchens.
-  Updated: 2026-05-02T19:05:11Z
+  Updated: 2026-05-09T19:04:16Z
   Total Products: 96
 - [Cookers](https://foyselectrical.ie/collections/cookers): Shop electric and gas cookers in a range of sizes and styles from trusted brands. Practical, reliable cooking solutions for every kitchen.
-  Updated: 2026-05-02T19:05:13Z
+  Updated: 2026-05-09T19:04:16Z
   Total Products: 25
 - [Hobs](https://foyselectrical.ie/collections/hobs): Shop gas, electric and ceramic hobs in a range of sizes from trusted brands. Reliable cooking solutions for modern kitchens.
-  Updated: 2026-05-02T19:05:10Z
+  Updated: 2026-05-09T19:04:18Z
   Total Products: 54
 - [Single Ovens](https://foyselectrical.ie/collections/single-ovens): Shop single ovens from trusted brands. Practical built-in cooking solutions ideal for modern kitchens and everyday use.
-  Updated: 2026-05-02T19:05:12Z
+  Updated: 2026-05-09T19:04:15Z
   Total Products: 64
 - [Double Ovens](https://foyselectrical.ie/collections/double-ovens): Shop double ovens from trusted brands. Ideal for flexible cooking with two cavities for baking, roasting and grilling.
-  Updated: 2026-05-02T19:04:59Z
+  Updated: 2026-05-09T19:04:09Z
   Total Products: 30
 - [Fridge Freezers](https://foyselectrical.ie/collections/fridge-freezers): Shop fridge freezers in a range of sizes and finishes from trusted brands. Reliable cooling and freezing solutions for every kitchen.
-  Updated: 2026-05-02T19:05:09Z
-  Total Products: 157
+  Updated: 2026-05-09T19:04:21Z
+  Total Products: 160
 - [Fridges](https://foyselectrical.ie/collections/fridges): Shop freestanding and integrated fridges in a range of sizes and finishes. Reliable cooling solutions from trusted brands for every kitchen.
-  Updated: 2026-05-02T19:05:12Z
+  Updated: 2026-05-09T19:04:16Z
   Total Products: 46
 - [Freezers](https://foyselectrical.ie/collections/freezers): Shop upright and chest freezers in a range of capacities from trusted brands. Practical frozen food storage solutions for every home.
-  Updated: 2026-05-02T19:04:59Z
+  Updated: 2026-05-09T19:04:08Z
   Total Products: 30
 - [Chest Freezers](https://foyselectrical.ie/collections/chest-freezers): Shop chest freezers in a range of capacities from trusted brands. Practical and reliable frozen food storage for homes and utility spaces.
-  Updated: 2026-05-02T19:05:09Z
+  Updated: 2026-05-09T19:04:18Z
   Total Products: 19
 - [American Fridge Freezers](https://foyselectrical.ie/collections/american-fridge-freezers): Shop American fridge freezers with generous capacity and modern features from trusted brands. Ideal for larger households.
-  Updated: 2026-05-02T19:05:13Z
+  Updated: 2026-05-09T19:04:18Z
   Total Products: 57
 - [Air Fryers](https://foyselectrical.ie/collections/air-fryers): Shop air fryers in a range of sizes from trusted brands. Practical solutions for healthier cooking with less oil.
-  Updated: 2026-05-02T19:05:12Z
+  Updated: 2026-05-09T19:04:16Z
   Total Products: 45
 - [Kettles](https://foyselectrical.ie/collections/kettles): Shop kettles in a range of styles and finishes from trusted brands. Practical and efficient boiling solutions for every kitchen.
-  Updated: 2026-05-02T19:05:13Z
+  Updated: 2026-05-09T19:04:19Z
   Total Products: 76
 - [Toasters](https://foyselectrical.ie/collections/toasters): Shop 2-slice and 4-slice toasters in a range of styles and finishes from trusted brands. Practical options for everyday breakfasts.
-  Updated: 2026-05-02T19:05:07Z
+  Updated: 2026-05-09T19:04:17Z
   Total Products: 76
 - [Grills](https://foyselectrical.ie/collections/grills): Shop electric grills and contact grills from trusted brands. Practical solutions for quick, easy cooking at home.
-  Updated: 2026-05-02T19:05:07Z
+  Updated: 2026-05-09T19:04:18Z
   Total Products: 23
 - [Food Mixers](https://foyselectrical.ie/collections/food-mixers): Shop food mixers from trusted brands. Ideal for baking, mixing and everyday food preparation at home.
-  Updated: 2026-05-02T19:05:02Z
+  Updated: 2026-05-09T19:04:11Z
   Total Products: 37
 - [Stand Mixers](https://foyselectrical.ie/collections/stand-mixers): Shop stand mixers from trusted brands. Ideal for baking, mixing and everyday food preparation at home.
   Updated: 2026-04-21T10:50:59Z
   Total Products: 2
 - [Juicers and Blenders](https://foyselectrical.ie/collections/juicers-and-blenders): Shop juicers and blenders from trusted brands. Ideal for smoothies, soups and everyday food preparation at home.
-  Updated: 2026-05-02T19:05:04Z
+  Updated: 2026-05-09T19:04:13Z
   Total Products: 46
 - [Coffee Machines and Coffee Makers](https://foyselectrical.ie/collections/coffee-machines): Shop coffee machines including bean-to-cup, filter and pod models from trusted brands. Enjoy great coffee at home every day.
-  Updated: 2026-05-02T19:05:00Z
+  Updated: 2026-05-09T19:04:10Z
   Total Products: 99
 - [Microwaves](https://foyselectrical.ie/collections/microwaves): Shop microwaves in a range of sizes and styles from trusted brands. Practical solutions for fast heating and everyday cooking.
-  Updated: 2026-05-02T19:05:07Z
+  Updated: 2026-05-09T19:04:11Z
   Total Products: 48
 - [Fans](https://foyselectrical.ie/collections/fans): Shop fans in a range of sizes and styles from trusted brands. Practical cooling solutions for homes and offices.
   Updated: 2026-04-23T19:03:01Z
   Total Products: 16
 - [Irons](https://foyselectrical.ie/collections/irons): Shop steam irons and ironing solutions from trusted brands. Practical options for smooth, crease-free laundry results.
-  Updated: 2026-05-02T19:05:11Z
+  Updated: 2026-05-09T19:04:19Z
   Total Products: 24
 - [Electric Blankets](https://foyselectrical.ie/collections/electric-blankets): Shop electric blankets from trusted brands. Comfortable and energy-efficient warmth solutions for bedrooms and home use.
-  Updated: 2026-04-21T14:30:01Z
+  Updated: 2026-05-08T16:12:38Z
   Total Products: 21
 - [Heaters](https://foyselectrical.ie/collections/heaters): Shop heaters including convector, oil-filled and portable models from trusted brands. Practical heating solutions for homes and offices.
-  Updated: 2026-05-02T19:04:53Z
+  Updated: 2026-05-08T16:12:38Z
   Total Products: 29
 - [All Televisions](https://foyselectrical.ie/collections/all-televisions): Shop all televisions including Smart, 4K and HDR models from trusted brands. Find the right TV size and features for your home.
-  Updated: 2026-05-02T19:04:59Z
+  Updated: 2026-05-09T19:04:11Z
   Total Products: 7
 - [32 Inch to 42 Inch TVs](https://foyselectrical.ie/collections/32-inch-to-42-inch-tvs): Shop 32 to 42 inch TVs including HD and Smart models from trusted brands. Perfect sizes for bedrooms, kitchens and smaller living rooms.
-  Updated: 2026-04-21T10:57:07Z
+  Updated: 2026-05-08T16:12:40Z
   Total Products: 13
 - [43 Inch to 54 Inch TVs](https://foyselectrical.ie/collections/43-inch-to-54-inch-tvs): Shop 43 to 54 inch TVs including Smart and 4K models from trusted brands. Perfect TV sizes for living rooms and bedrooms.
-  Updated: 2026-05-02T19:05:05Z
+  Updated: 2026-05-09T19:04:15Z
   Total Products: 67
 - [55 Inch TVs](https://foyselectrical.ie/collections/55-inch-tvs): Shop 55 inch TVs including 4K and Smart models from trusted brands. Great for living rooms, sharp detail and everyday home entertainment.
-  Updated: 2026-05-02T19:05:06Z
+  Updated: 2026-05-09T19:04:14Z
   Total Products: 25
 - [65 Inch TVs](https://foyselectrical.ie/collections/65-inch-tvs): Shop 65 inch TVs including 4K and Smart models from trusted brands. Ideal for spacious living rooms and cinematic home entertainment.
-  Updated: 2026-05-02T19:05:04Z
+  Updated: 2026-05-09T19:04:15Z
   Total Products: 60
 - [75 Inch TVs](https://foyselectrical.ie/collections/75-inch-tvs): Shop 75 inch TVs including 4K and Smart models from trusted brands. Ideal for immersive viewing in large living spaces.
-  Updated: 2026-05-02T19:05:06Z
+  Updated: 2026-05-09T00:27:58Z
   Total Products: 21
 - [85 Inch TVs](https://foyselectrical.ie/collections/85-inch-tvs): Shop 85 inch TVs including 4K and Smart models from trusted brands. Perfect for immersive viewing in large rooms and home cinema setups.
   Updated: 2026-04-21T14:29:53Z
   Total Products: 11
 - [OLED TVs](https://foyselectrical.ie/collections/oled-tvs): Shop OLED TVs with deep blacks, vibrant colour and Smart features from trusted brands. Premium viewing for modern home entertainment.
-  Updated: 2026-04-30T19:05:17Z
+  Updated: 2026-05-09T00:27:59Z
   Total Products: 51
 - [QLED TVs](https://foyselectrical.ie/collections/qled-tvs): Shop QLED TVs offering vivid colour, sharp detail and Smart features from trusted brands. Ideal for bright, modern living spaces.
-  Updated: 2026-05-02T19:05:06Z
+  Updated: 2026-05-09T00:27:59Z
   Total Products: 71
 - [4K HDR Smart TVs](https://foyselectrical.ie/collections/4k-hdr-smart-tvs): Shop 4K HDR Smart TVs with stunning detail, vibrant colour and built-in streaming apps. Upgrade your home entertainment today.
-  Updated: 2026-05-02T19:05:06Z
+  Updated: 2026-05-09T19:04:15Z
   Total Products: 185
 - [Samsung TVs](https://foyselectrical.ie/collections/samsung-tvs): Shop Samsung TVs including Smart, 4K and QLED models. Enjoy advanced features, vivid colour and reliable performance at home.
-  Updated: 2026-05-02T19:05:06Z
+  Updated: 2026-05-09T00:28:01Z
   Total Products: 111
 - [LG TVs](https://foyselectrical.ie/collections/lg-tvs): Shop LG TVs including LED, OLED and Smart TV models. Enjoy sharp picture quality and smart features for home entertainment.
-  Updated: 2026-05-02T19:05:05Z
+  Updated: 2026-05-09T19:04:15Z
   Total Products: 95
 - [Hisense TVs](https://foyselectrical.ie/collections/hisense-tvs): Shop Hisense TVs including Smart, 4K and large-screen models. Great value television options with modern features for home viewing.
-  Updated: 2026-04-21T14:29:53Z
+  Updated: 2026-05-08T16:12:48Z
   Total Products: 19
 - [Walker TVs](https://foyselectrical.ie/collections/walker-tvs): Shop Walker TVs including Smart and HD models. Practical television solutions offering great value and everyday entertainment.
-  Updated: 2026-04-21T11:07:45Z
+  Updated: 2026-05-08T16:12:48Z
   Total Products: 9
 - [All Vacuum Cleaners](https://foyselectrical.ie/collections/all-vacuum-cleaners): Shop vacuum cleaners including cordless, cylinder and upright models from trusted brands. Reliable cleaning solutions for every home.
-  Updated: 2026-05-02T19:05:12Z
-  Total Products: 13
+  Updated: 2026-05-09T19:04:18Z
+  Total Products: 14
 - [Robot Vacuums](https://foyselectrical.ie/collections/robot-vacuums): Shop robot vacuums with smart navigation and powerful cleaning from trusted brands. Convenient, hands-free cleaning solutions.
-  Updated: 2026-05-02T19:05:03Z
+  Updated: 2026-05-09T00:28:03Z
   Total Products: 66
 - [Bagged Vacuum Cleaners](https://foyselectrical.ie/collections/bagged-vacuum-cleaner): Shop bagged vacuum cleaners from trusted brands. Powerful suction and hygienic dust collection for efficient everyday cleaning.
   Updated: 2026-04-09T14:01:22Z
   Total Products: 0
 - [Cordless Vacuum Cleaners](https://foyselectrical.ie/collections/cordless-vacuum-cleaners): Shop cordless vacuum cleaners from trusted brands. Lightweight, powerful cleaning solutions for quick and easy home cleaning.
-  Updated: 2026-05-02T19:05:12Z
+  Updated: 2026-05-09T19:04:17Z
   Total Products: 52
 - [Headphones](https://foyselectrical.ie/collections/headphones): Shop wired and wireless headphones from trusted brands. Quality sound solutions for music, calls and everyday listening.
-  Updated: 2026-04-21T14:30:03Z
+  Updated: 2026-05-09T00:28:04Z
   Total Products: 164
 - [Hair Dryers](https://foyselectrical.ie/collections/hair-dryers): Shop hair dryers from trusted brands offering powerful drying and styling performance. Practical solutions for everyday hair care.
-  Updated: 2026-05-02T19:05:07Z
+  Updated: 2026-05-09T19:04:17Z
   Total Products: 10
 - [Curling Wands](https://foyselectrical.ie/collections/curling-wands): Shop curling wands from trusted brands for smooth, long-lasting curls. Practical styling tools for everyday use.
   Updated: 2026-04-09T14:01:22Z
   Total Products: 1
 - [LG Products](https://foyselectrical.ie/collections/lg-products)
-  Updated: 2026-05-02T19:05:05Z
+  Updated: 2026-05-09T19:04:15Z
   Total Products: 108
 - [Samsung Products](https://foyselectrical.ie/collections/samsung-products)
-  Updated: 2026-05-02T19:05:06Z
+  Updated: 2026-05-09T19:04:17Z
   Total Products: 297
 - [Beko Products](https://foyselectrical.ie/collections/beko-products)
-  Updated: 2026-05-02T19:05:14Z
+  Updated: 2026-05-09T19:04:21Z
   Total Products: 118
 - [Blomberg Products](https://foyselectrical.ie/collections/blomberg-products)
-  Updated: 2026-05-02T19:05:11Z
+  Updated: 2026-05-09T19:04:15Z
   Total Products: 66
 - [Hisense Products](https://foyselectrical.ie/collections/hisense-products)
-  Updated: 2026-04-21T14:29:56Z
+  Updated: 2026-05-08T16:12:57Z
   Total Products: 46
 - [Haier Products](https://foyselectrical.ie/collections/haier-products)
-  Updated: 2026-04-22T19:04:43Z
+  Updated: 2026-05-09T00:28:06Z
   Total Products: 20
 - [Bosch Products](https://foyselectrical.ie/collections/bosch-products)
-  Updated: 2026-05-02T19:05:10Z
-  Total Products: 100
+  Updated: 2026-05-09T19:04:22Z
+  Total Products: 102
 - [Samsung Products](https://foyselectrical.ie/collections/samsung-products-1)
-  Updated: 2026-05-02T19:05:06Z
+  Updated: 2026-05-09T19:04:17Z
   Total Products: 297
 - [Siemens Products](https://foyselectrical.ie/collections/siemens-products)
   Updated: 2026-04-09T14:01:22Z
   Total Products: 2
 - [Miele Products](https://foyselectrical.ie/collections/miele-products)
-  Updated: 2026-05-02T19:05:07Z
+  Updated: 2026-05-09T19:04:19Z
   Total Products: 33
 - [Russel Hobbs Products](https://foyselectrical.ie/collections/russel-hobbs-products)
-  Updated: 2026-05-02T19:05:13Z
+  Updated: 2026-05-09T19:04:19Z
   Total Products: 77
 - [Electric Shavers](https://foyselectrical.ie/collections/electric-shavers)
-  Updated: 2026-05-02T19:05:13Z
+  Updated: 2026-05-09T19:04:17Z
   Total Products: 11
 - [Steam Mops](https://foyselectrical.ie/collections/steam-mops)
-  Updated: 2026-05-02T19:05:10Z
+  Updated: 2026-05-09T19:04:14Z
   Total Products: 12
 - [Cooker Hoods](https://foyselectrical.ie/collections/cooker-hoods)
-  Updated: 2026-04-09T14:01:23Z
+  Updated: 2026-05-09T00:28:10Z
   Total Products: 11
 - [Phone Accessories](https://foyselectrical.ie/collections/phone-accessories)
-  Updated: 2026-04-28T19:03:33Z
+  Updated: 2026-05-09T00:28:11Z
   Total Products: 31
 - [Smart Watches](https://foyselectrical.ie/collections/smart-watches)
-  Updated: 2026-05-02T19:05:01Z
+  Updated: 2026-05-09T19:04:07Z
   Total Products: 77
 - [Phone Chargers](https://foyselectrical.ie/collections/phone-chargers)
-  Updated: 2026-05-02T19:05:02Z
+  Updated: 2026-05-09T19:04:06Z
   Total Products: 53
 - [Earbuds](https://foyselectrical.ie/collections/earbuds)
-  Updated: 2026-04-21T14:30:01Z
+  Updated: 2026-05-08T16:13:08Z
   Total Products: 38
 - [USB Cables](https://foyselectrical.ie/collections/usb-cables)
-  Updated: 2026-04-09T14:01:23Z
+  Updated: 2026-05-08T16:13:09Z
   Total Products: 12
 - [HDMI Cables](https://foyselectrical.ie/collections/hdmi-cables)
-  Updated: 2026-04-09T14:01:23Z
+  Updated: 2026-05-08T16:13:11Z
   Total Products: 3
 - [Shokz](https://foyselectrical.ie/collections/shokz)
-  Updated: 2026-04-21T14:29:48Z
+  Updated: 2026-05-08T16:13:54Z
   Total Products: 13
 - [PocketBook](https://foyselectrical.ie/collections/pocketbook)
-  Updated: 2026-04-21T14:29:24Z
+  Updated: 2026-05-08T16:13:14Z
   Total Products: 12
 - [Withings](https://foyselectrical.ie/collections/withings)
-  Updated: 2026-04-30T19:04:54Z
-  Total Products: 18
+  Updated: 2026-05-09T10:17:42Z
+  Total Products: 17
 - [myFirst Kids Technology](https://foyselectrical.ie/collections/myfirst-kids-technology)
-  Updated: 2026-04-15T10:17:32Z
-  Total Products: 40
+  Updated: 2026-05-09T00:28:12Z
+  Total Products: 39
 - [Garmin](https://foyselectrical.ie/collections/garmin)
-  Updated: 2026-05-02T10:17:01Z
+  Updated: 2026-05-09T00:28:13Z
   Total Products: 17
 - [Fitbit Activity Trackers](https://foyselectrical.ie/collections/fitbit-activity-trackers)
-  Updated: 2026-04-30T19:05:03Z
+  Updated: 2026-05-08T16:13:20Z
   Total Products: 12
 - [Spring Deals at Foy's](https://foyselectrical.ie/collections/spring-deals-at-foys): Discover Spring Deals at Foy’s Electrical in Cootehill. Save on TVs, appliances and home electronics with competitive prices and expert service.
-  Updated: 2026-05-02T19:05:12Z
-  Total Products: 72
+  Updated: 2026-05-09T19:04:18Z
+  Total Products: 73
 - [Homevalue - Outdoor Collection](https://foyselectrical.ie/collections/homevalue-outdoor-collection): At Foy's Euronics, we are part of the Homevalue group with a wide range of outdoor goods and tools alongside home improvement products available in-store.
-  Updated: 2026-04-30T19:05:03Z
-  Total Products: 23
+  Updated: 2026-05-09T19:04:16Z
+  Total Products: 24
 - [Ecovacs](https://foyselectrical.ie/collections/ecovacs)
-  Updated: 2026-04-23T12:04:30Z
+  Updated: 2026-05-08T16:13:25Z
   Total Products: 20
 - [Blackstone](https://foyselectrical.ie/collections/blackstone)
-  Updated: 2026-04-28T19:03:20Z
+  Updated: 2026-05-08T16:13:26Z
   Total Products: 14
 - [Outdoor Tools](https://foyselectrical.ie/collections/outdoor-tools)
-  Updated: 2026-04-21T14:38:39Z
+  Updated: 2026-05-08T16:13:27Z
   Total Products: 4
 - [Gas and Electric BBQs and Grills](https://foyselectrical.ie/collections/gas-and-electric-bbqs-and-grills)
-  Updated: 2026-05-02T19:04:55Z
+  Updated: 2026-05-09T19:04:16Z
   Total Products: 22
 - [Ride On Toys](https://foyselectrical.ie/collections/ride-on-toys)
-  Updated: 2026-04-21T14:34:46Z
+  Updated: 2026-05-08T16:13:30Z
   Total Products: 11
 - [Home Appliances Cootehill | Foy’s Electrical Euronics](https://foyselectrical.ie/collections/home-appliances-1): Looking for home appliances in Cootehill? Visit Foy’s Electrical Euronics for top deals on washing machines, fridges, cookers & TVs. Fast same-day local delivery available.
-  Updated: 2026-05-02T19:05:12Z
-  Total Products: 117
+  Updated: 2026-05-09T19:04:20Z
+  Total Products: 119
+- [Integrated Appliances](https://foyselectrical.ie/collections/integrated-appliances)
+  Updated: 2026-05-09T19:04:21Z
+  Total Products: 199
+- [Freestanding Appliances](https://foyselectrical.ie/collections/freestanding-appliances)
+  Updated: 2026-05-09T19:04:22Z
+  Total Products: 456
+- [Same Day Delivery on Large Appliances](https://foyselectrical.ie/collections/same-day-delivery-on-large-appliances): At Foy's Electrical we offer same-day local delivery for €20 and appliance installation from €20. We also take away your old machine and all boxes and packaging as part of the service.
+  Updated: 2026-05-09T19:04:22Z
+  Total Products: 650
 
 ## Blogs
 
@@ -1541,14 +1523,8 @@
   - [Best Cordless Vacuums in Ireland (2026): Shark Stratos vs PowerPro](https://foyselectrical.ie/blogs/buying-guides/best-cordless-vacuums-in-ireland-shark-stratos-vs-powerpro): Best Cordless Vacuums in Ireland (2026): Shark Stratos vs PowerPro
     Updated: 2026-04-07T11:33:22Z
     Author: Foys Euronics
-  - [Best Washing Machines in Ireland (2026 Guide)](https://foyselectrical.ie/blogs/buying-guides/best-washing-machines-ireland-2026)
-    Updated: 2026-04-20T19:35:28Z
-    Author: Foys Euronics
   - [Washing Machine Buying Mistakes to Avoid (Ireland Guide)](https://foyselectrical.ie/blogs/buying-guides/washing-machine-buying-mistakes-ireland)
     Updated: 2026-04-20T19:32:07Z
-    Author: Foys Euronics
-  - [What Size Washing Machine Do I Need? (Ireland Guide)](https://foyselectrical.ie/blogs/buying-guides/what-size-washing-machine-do-i-need-ireland)
-    Updated: 2026-04-20T20:14:30Z
     Author: Foys Euronics
 
 ## Store Pages
