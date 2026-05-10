@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-16T04:28:47Z
 - Contact Email: celestialmonarch92@gmail.com
-- Updated At: 2026-05-03T00:00:45.644Z
+- Updated At: 2026-05-10T00:00:46.625Z
 
 Discover Magic! At Crystal Arborist, you can find something wonderful and unique. 100% Customer Satisfaction .
 
@@ -1978,6 +1978,14 @@ Lovely brooch would be sure to please. For those looking to wear something speci
     Updated: 2026-04-25T19:35:01Z
     Author: Callie Hitchcock
     Tags: Adventure, Character driven, Emotional read, epic, Family, Fantasy, Heart, Identity, Love, Memory, Series fiction
+  - [Starlight Cove: Farewell's Greeting (Book 3)](https://crystalarborist.com/blogs/short-stories-self-help/starlight-cove-fairwells-greeting-book-3): <p><em><strong>A Farewell. Sixteen years. A Family scattered across two Worlds, finding their way back to each other. Leaving one Land to Greet another. Finally Home. </strong></em></p>
+    Updated: 2026-05-08T08:15:38Z
+    Author: Callie Hitchcock
+    Tags: Achievement, Family-saga, Fantasy, Fathers-and-sons, Found-family, Grief-and-healing, Homecoming, Nautical
+  - [Shadowlight: When Twilight Meets the Dawn (Book 9](https://crystalarborist.com/blogs/short-stories-self-help/shadowlight-when-twilight-meets-the-dawn-book-9): <p><em><strong>A centuries-old conflict finally meets its end. A Harbor, a Family, and two Brothers finding their way Home- if they Survive the Darkness. Shadowlight Book 9.</strong></em></p>
+    Updated: 2026-05-06T02:51:51Z
+    Author: Callie Hitchcock
+    Tags: Brothers, Coastal, Dark fantasy, Fantasy series, Fiction, Free to read, Homecoming, Identity, Indie fiction, Maritime
 - [The Archives of Insights & Discoveries](https://crystalarborist.com/blogs/the-archives-of-insights-discoveries)
   - [Beginner's Guide to Crystal Collecting | How to Start Your Collection](https://crystalarborist.com/blogs/the-archives-of-insights-discoveries/beginners-guide-to-crystal-collecting-how-to-start-your-collection): Beginner's Guide to Crystal Collecting | How to Start Your Collection
     Updated: 2026-01-18T00:28:48Z
