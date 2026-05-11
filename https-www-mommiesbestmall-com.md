@@ -6,7 +6,7 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2017-09-10T12:25:47Z
 - Contact Email: irene@mommiesbestmall.com
-- Updated At: 2026-04-25T00:00:37.743Z
+- Updated At: 2026-05-11T00:00:42.581Z
 
 ## Products
 
@@ -430,7 +430,7 @@
     Availability: Available
     Price: $39.99 USD
 - [Ivory Satin Flower Petal Girls Dress with Organza Sash (2 of 2)](https://www.mommiesbestmall.com/products/flower-petal-dress-w-sash-ivory-dress): Elegant satin bodice with floating flower petals inside the skirt. Comes with a matching organza sash and faux rose. It can be customized with one of our many different petal colors! Other Colors Available! Other Sizes: Baby, Plus
-  Updated: 2026-04-20T18:56:54Z
+  Updated: 2026-04-25T18:36:20Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -616,7 +616,7 @@
     Availability: Available
     Price: $89.99 USD
 - [Lace Illusion Girls Dress with Mesh Pearl Trim](https://www.mommiesbestmall.com/products/lace-dress-w-mesh-pearl-trim): Elegant bridal lace bodice with four layers of illusion tulle for full skirt volume. The sash in the back can be made into a beautiful bow. The waist is accented with a beautiful pearl mesh trim.
-  Updated: 2026-04-20T18:56:54Z
+  Updated: 2026-04-25T18:36:27Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -670,7 +670,7 @@
     Availability: Available
     Price: $69.99 USD
 - [White Sequin Top Flower Petal Girls Dress](https://www.mommiesbestmall.com/products/sequin-top-petal-dress): Elegant white sequin bodice and floating flower petals inside the skirt. Comes with a matching faux rose. It can be customized with one of our many different petal colors!
-  Updated: 2026-04-20T18:56:55Z
+  Updated: 2026-04-25T18:36:28Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -834,7 +834,7 @@
     Image: https://cdn.shopify.com/s/files/1/2348/7651/files/accessories-gem-pearl-flower-crown-3.jpg?v=1772030633
     Price: $24.99 USD
 - [Faux Flower Crown with Bow](https://www.mommiesbestmall.com/products/floral-crown-wreath): The faux flower crown includes a bow and dangling ribbon. Originally made with only faux rose detailing, the newer versions added an additional mini berry detail in between the roses. Crowns include a small clear clip to keep it secure on your head. These crowns are perfect for flower girls, children's photoshoots, and other miscellaneous special occasions. Circumference: 18.5 inches
-  Updated: 2026-04-20T18:57:00Z
+  Updated: 2026-04-25T18:36:43Z
   Vendor: Kid's Dream
   Product Type: Accessories
   Availability: Available
@@ -925,7 +925,7 @@
     Image: https://cdn.shopify.com/s/files/1/2348/7651/files/accessories-illusion-bow-pearl-headband-7.jpg?v=1772030793
     Price: $9.99 USD
 - [Large Mesh Flower Headband](https://www.mommiesbestmall.com/products/mesh-flower-headband): Thin satin headband with a large mesh flower to the side. Perfect for birthday parties!
-  Updated: 2026-04-20T18:57:01Z
+  Updated: 2026-04-25T18:36:59Z
   Vendor: Kid's Dream
   Product Type: Accessories
   Availability: Available
@@ -1029,7 +1029,7 @@
     Image: https://cdn.shopify.com/s/files/1/2348/7651/files/accessories-organza-bow-headband-w-satin-flower-1.jpg?v=1772030900
     Price: $5.99 USD
 - [Get Cute Flower Bun Wraps from Mommies Best Mall](https://www.mommiesbestmall.com/products/bun-wrap): Decorate your hair bun! The flower bun wrap includes a bow and dangling ribbon. Originally made with only faux rose detailing, the newer versions added a mini berry detail between the roses. These mini crowns are perfect for flower girls, children's photoshoots, and other special occasions.
-  Updated: 2026-04-20T18:57:02Z
+  Updated: 2026-04-25T18:37:08Z
   Vendor: Kid's Dream
   Product Type: Accessories
   Availability: Available
@@ -1095,21 +1095,21 @@
     Image: https://cdn.shopify.com/s/files/1/2348/7651/files/HB005_Wine.jpg?v=1772030885
     Price: $9.99 USD
 - [Healthy Family Recipe Pack](https://www.mommiesbestmall.com/products/healthy-family-recipe-pack): Try our new 15 Healthy Delicious Recipe Pack, perfect for a busy mom. Our recipes are healthy, delicious, and easy to make watch the video and see what you get inside. 15 Recipes a weekly meal planner and a weekly shopping list. Our special offer only lasts for a short time so get it now for $9.95 The recipe pack includes recipes of: RASPBERRY AND COCONUT MUESLI BIRCHER GREEN PANCAKES EGG AND TUNA TOAST WITH HONEY MUSTARD BLT BREAKFAST SALAD POWER SALAD SIMPLE CHICKPEA AND TUNA SALAD LAMB AND CHICKPEA STUFFED PEPPERS MALAYSIAN CHICKEN SOUP ONE-POT SEA BASS AND THAI RICE SESAME ALMOND CHICKEN WITH MISO PUMPKIN PUREE CHICKEN ALLA DIAVOLA SLOW COOKER KOREAN BEEF PAPAYA AND TURMERIC SMOOTHIE CINNAMON ROLL PROTEIN BARS KETO LEMON MUG CAKE Also, Check out the video below
-  Updated: 2026-04-20T18:57:06Z
+  Updated: 2026-04-25T18:37:20Z
   Vendor: Mommies Best Mall
   Product Type: Recipe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2348/7651/files/HealthyFamilyRecipepack_2_f905c263-d5e9-4c2f-8d00-fcd5befbd8f8.jpg?v=1691439601
   Price: $9.95 USD
 - [Plant Based Recipe Pack](https://www.mommiesbestmall.com/products/high-protein-recipe-pack): Plant-Based Recipe Pack 15 Unique, Plant-Based recipes Weekly meal planner Weekly shopping list Professional High Quality Recipes Created exclusively for you. Detailed Nutritional Information Get your $4.99 recipe pack now Recipes included inside: Ripped Blueberry Smoothie Citrus Green Smoothie Burst Chocolate Blender Protein Pancakes Energising Matcha Chia Pudding Vegan Scramble Curry Chickpea Lettuce Wraps Orzo Italian Pasta Salad Roasted Glow Bowl Vegan ‘BLT’ Wrap Roasted Tomato & Barley Soup Thai Peanut Stir Fry Rolled Zucchini Pasta Bake Creamy Moroccan Stew Banana Blueberry Whole Wheat Muffins Lemon Poppy Seed Bliss Balls
-  Updated: 2026-04-20T18:57:06Z
+  Updated: 2026-04-25T18:37:28Z
   Vendor: Mommies Best Mall
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2348/7651/files/plantbasedrecies_2.jpg?v=1691570368
   Price: $4.99 USD
 - [High Protein Recipe Pack](https://www.mommiesbestmall.com/products/high-protein-recipe-pack-1): High Protein Recipe Pack 15 Unique, high-protein recipes Weekly meal planner Weekly shopping list Professional High-Quality Recipes Created exclusively for you Detailed Nutritional Information Get your $ 4.99 recipe pack now Recipes inside: Baked Egg Pots Banana & Yogurt Breakfast Muffins Greek Style Scrambled Eggs Leek Quiche Broccoli Cheese Soup Spiced Sweet Potato Fries Oven Baked Chicken Nuggets Grilled Salmon Salad With Chilies & Herbs Spanish Chicken Stew (Slow Cooker) Chicken & Quinoa Casserole Rainbow Beef Stir Fry Baked Fish With Romesco Salsa White Chocolate Almond Protein Cookies Flourless Carrot Cake The Reset Juice
-  Updated: 2026-04-20T18:57:06Z
+  Updated: 2026-04-25T18:37:28Z
   Vendor: Mommies Best Mall
   Product Type: 
   Availability: Available
@@ -1144,36 +1144,43 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2348/7651/files/accessories-gem-pearl-flower-crown-veil-1.jpg?v=1772030772
   Price: $29.99 USD
+- [Wireless Home Security Motion Sensor](https://www.mommiesbestmall.com/products/homesafer-wireless-home-security-motion-sensor): This Wireless Home Security Motion Sensor can detect motion from up to 8 meters away and has 110 degree motion detection angle. It has a wireless radio frequency range of 300 feet. When triggered the RF signal activates the alarm. Uses one 9-volt battery (not included). Easily protect every window and door of your home. Dimensions 2 3/4 x 4 1/4 x 1 3/4
+  Updated: 2026-05-02T18:31:28Z
+  Vendor: Safety Technology
+  Product Type: Home Protection
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2348/7651/products/HA-MOTION_a_e74af674-5b7c-49d3-8835-01b243f88f77.jpg?v=1692980799
+  Price: $24.99 USD
 - [Barking Dog Alarm](https://www.mommiesbestmall.com/products/safety-technology-barking-dog-alarm): The Barking Dog Alarm is ideal for your home, office, store, business, or any place that would benefit from having a security dog. Except you don’t have to feed, water, walk it or take it to the vet. It scares would-be intruders away by imitating the sound of a vicious barking dog (or an alarm) whenever anyone approaches. The barking dog alarm is used to provide early warning against intrusion and to make people think twice before breaking in. According to the US Department of Justice, “a dog's presence is a close substitute for human occupancy and most burglars avoid houses with dogs”. It uses non-harmful microwaves to “see” through walls and activate either an alarm, a chime, or the recording of a German Shepard in attack mode as soon as motion is detected. The chime can be used by store owners to let them know a customer has entered the store or at home as an automatic doorbell to alert you to visitors approaching.Please note that it will sense motion through most walls (wood, cement, brick, stucco, glass, etc.) but will not work through metal walls, walls with metal studs, tinted glass, or extremely thick walls.FEATURES• The microwave signal can "see" through walls and detect someone approaching from over 10 feet away• Three modes: barking dog, chime, or alarm• Powered by an AC adapter (included) or 8 AA batteries (not included) for temporary use during a power outage• Wireless remote control to arm/disarm the unit, change the sound mode, or activate the panic alarm in case of an emergency• Long-range remote control (50+ feet also work through walls).• Eight volume levels with maximum volume of 120 dB• Measures 6 x 5.75 x 3.75 inches.• Warranty: 1 yearCONTENTS• Barking Dog Alarm• Remote with battery• Instructions• AC Adapter• Window Warning Sticker
-  Updated: 2026-04-20T18:57:13Z
+  Updated: 2026-04-25T18:37:28Z
   Vendor: Safety Technology
   Product Type: Home Protection
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2348/7651/products/ST-BARKINGDOG_a_7e9a8f89-3bdc-4241-9cb0-3f2663272025.jpg?v=1692979755
   Price: $79.95 USD
 - [Would you like to earn a full-time income as a YouTuber?](https://www.mommiesbestmall.com/products/youtube-course): Mastering YouTube: Unlocking Success with Our Comprehensive Course. Are you eager to conquer YouTube and take your channel to soaring heights? Look no further! Our YouTube Mastery Course is meticulously designed to propel your success on the world's most influential video-sharing platform. Whether you're a seasoned content creator or just starting your YouTube journey, this comprehensive course is your gateway to becoming a YouTube sensation! Module 1: Decoding the YouTube Ecosystem Unlock the secrets behind YouTube's powerful algorithm and gain a competitive edge. Navigate YouTube Studio and Analytics like a seasoned pro, gaining invaluable insights to optimize your content strategy. Learn how to identify your target audience effectively and craft content that leaves them captivated and eager for more. Module 2: Creating Captivating Content Transform your creative vision into reality with our expert guidance. From brainstorming engaging video ideas to mastering the art of storytelling, you'll captivate your viewers from the very first frame. Discover budget-friendly filming techniques that deliver professional-quality videos, setting you apart in a sea of content. Module 3: Dominating YouTube Search Results Crack the code of YouTube SEO and dominate search rankings. Learn to unearth the best keywords for your niche, optimize video titles, descriptions, and tags, and leverage the true potential of metadata to attract a flood of organic traffic to your channel. Module 4: Building an Engaged Community Forge meaningful connections with your audience and cultivate a devoted fanbase. Explore powerful strategies for organic subscriber growth, effectively promote your videos across social media, and unlock the secrets of fostering a vibrant community of loyal followers. Module 5: Monetizing Your Passion Turn your YouTube passion into a profitable venture with our monetization strategies. Gain insights into the YouTube Partner Program and discover alternative revenue streams, including brand deals, sponsorships, merchandise, and more. We'll show you how to create a sustainable income by doing what you love. Conclusion: Your Journey to YouTube Stardom Begins Now! Armed with insider knowledge and battle-tested strategies, you possess the tools to take YouTube by storm. Unleash your creativity, share your unique voice, and witness your channel flourish like never before. Enroll today and embark on a transformative YouTube journey. Join countless successful YouTubers who've realized their dreams with our expert guidance. Don't wait; seize the opportunity to redefine your YouTube destiny! Buy now: Ready to unlock your YouTube potential? Enroll in our Ultimate YouTube Mastery Course now and watch your channel soar to new heights. Click here to embark on an extraordinary journey of YouTube success! What you will learn: Curriculum Section 1: Youtube Income Streams Video a - 12 Income Streams You Can Earn Video b - Why I don't like earning from Adsense/Youtube ads Video c - Earn 4 times more with this than with Adsense/Youtube ads Video d - Four figures per month with only a few subscribers Video e - Sponsorships and Brand Deals (I also cover this in-depth in a later section) Video f -  Physical Products easily Video g - Create and  Digital Products Today Video h - Get paid on your live streams Video i - My favorite income stream/business model Section 2: Blueprint For Making Money In Your First Week Video a - The Blueprint Video b - How To Create Videos That Will Go Viral Video c - Creating Your Cash Machine Video d - Cashing Out Video e - Conclusion Section 3 - How to get RECURRING income every month with only a tiny channel Video a - What you need Video b - The "Why" Video c - The Setup Video d - Your Goals Video e - The key to your success with this business model Video f - Examples Video g - Double and Triple your Recurring Income Section 4 - Sponsorships and Brand Deals Video a - Different ways to find brand deals Video b - How to approach brands Video c - Knowing your worth so you can be confident charging companies a lot of money Video d - Pricing method #1 (use this if you're just starting out) Video e - Pricing method #2 (use this to get long-term deals and have revenue coming in for months) Video f - Pricing method #3 (use this to get high-priced deals) Section 5 -  Marketing on YouTube Video a - Why use YouTube to promote  products Video b -  Networks and Programs for any product Video c - How not to get your Amazon  account closed down Video d - Promoting physical products Video e - Promoting digital products (similar to promoting physical products but with a few key differences) Video f - Disclosing your  relationship (I'll also show you a sample disclaimer you can put in your video descriptions) Video g - How to use your videos to build a list Video h - How to create attention-grabbing thumbnails for more clicks and views Section 6 - Getting Traffic to Your YouTube Channels Video a - YouTube, the world's second-largest search engine Video b - How to get your videos to rank high on YouTube Video c - Social Media Tips Video d - A little-known strategy for promoting your videos on Reddit Video e - Collaborate with other YouTubers Video f - The Hustlin' Method of Getting Traffic Video g - 9 Other Great Tips Section 7 - How to get 1 million subscribers on YouTube Video a - One milestone at a time Video b - How to get your first 100 subscribers Video c - How to get to 1000 subscribers Video d - How to get to 100,000 subscribers Video e - How to get to 1 million subscribers Video f - Unorthodox methods of getting subscribers
-  Updated: 2026-04-20T18:57:16Z
+  Updated: 2026-04-25T18:37:35Z
   Vendor: Mommies Best Mall
   Product Type: Online Course
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2348/7651/files/youtubecourse_1.jpg?v=1691940369
   Price: $19.00 USD
 - [365 Bedtime Stories by Mary Graham Bonner](https://www.mommiesbestmall.com/products/365-bedtime-stories-by-mary-graham-bonner): Introducing "365 Bedtime Stories" by Mary Graham Bonner: Step into a timeless world of literary classics with this unique e-book. Nearly a century old, each of its 365 enchanted tales stands the test of time and captivates readers of all ages. Mary Graham Bonner's gift for storytelling shines in each narrative, transporting readers to far-off lands and introducing them to brave heroes, clever heroines, and mysterious creatures. Moral lessons, virtues, and the enduring themes of friendship, courage, and love are featured in every captivating journey. Rediscover the magic of traditional storytelling with this timeless e-book. It's perfect for bedtime rituals, on-the-go entertainment, or for instilling a love for reading in the next generation. With its original illustrations and text preserved, "365 Bedtime Stories" promises a year-long journey of captivating tales that will be cherished for generations to come.
-  Updated: 2026-04-20T18:57:17Z
+  Updated: 2026-04-25T18:37:35Z
   Vendor: Mommies Best Mall
   Product Type: E-book
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2348/7651/files/2048x2048productsimage.jpg?v=1691933990
   Price: $4.99 USD
 - [A Apple Pie And Other Nursery Tales](https://www.mommiesbestmall.com/products/a-apple-pie-and-other-nursery-tales): Six old classic stories for children A Apple Pie. The KITTY'S Tea Party. This Little Pig went to Market. Nursery Rhymes. II. The Three Bears. Little Red Riding Hood. Make room for delightful tales that will keep everyone entertained - and laugh out loud as you go! (Who else remembers Little Red Riding Hood's surprise when she met the wolf in Grandma's bed?)
-  Updated: 2026-04-20T18:57:17Z
+  Updated: 2026-04-25T18:37:36Z
   Vendor: Mommies Best Mall
   Product Type: E-book
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2348/7651/files/2_abf591e1-7818-453a-a9af-00756ad542d2.jpg?v=1691933080
   Price: $4.99 USD
 - [Satin Top Dress with Wavy Rhinestone & Pearl Trim and Plus Sizes](https://www.mommiesbestmall.com/products/538-g-satin-top-dress-w-wavy-rhinestone-pearl-trim): **UPDATE 1/30/26: BLUSH SIZES 16 AND 18 ARE CURRENTLY UNAVAILABLE BUT WILL BE RESTOCKED BY THE END OF FEBRUARY 2026. PLEASE KEEP THIS SHIP DATE IN MIND WHEN PLACING YOUR ORDERS. Simple satin bodice with a tulle skirt. The waist is accented with a cute wavy rhinestone and pearl trim. Other Sizes: Baby
-  Updated: 2026-04-20T18:57:20Z
+  Updated: 2026-04-25T18:37:38Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -1267,7 +1274,7 @@
   Image: https://cdn.shopify.com/s/files/1/2348/7651/files/shirt-unicorn-flip-sequin-shirt-2.jpg?v=1772030658
   Price: $5.99 USD
 - [All Lace Girls Dress with V Back & Bow and Thick Rhinestone Trim](https://www.mommiesbestmall.com/products/lace-v-back-bow-plus-size-dress-w-thick-rhinestone-trim-1): A Nouvelle swirl design lace dress with a deep V-back and thick sash in the shape of a cute bow. The waist is accented with a luxurious 1 1/2-inch thick rhinestone in a braided design. The bottom is finished with scalloped lace. Other Sizes: Baby Please see the listings below for trim options! Trim Options: None, Rhinestone, Thick Pearl, Mesh Pearl
-  Updated: 2026-04-20T18:57:20Z
+  Updated: 2026-04-25T18:37:39Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -1385,7 +1392,7 @@
     Image: https://cdn.shopify.com/s/files/1/2348/7651/files/bolero-satin-bolero-2.jpg?v=1772030918
     Price: $9.99 USD
 - [Classic Pleated Baby Dress with Pearl Trim](https://www.mommiesbestmall.com/products/classic-pearl-pleated-baby-dress): **THE ORIGINAL WAIST TRIM IS NO LONGER AVAILABLE. ALL OPTIONS WILL NOW COME WITH THE TRIM SHOWN IN THE EXTRA PHOTO. Fully lined satin dress with classic box pleated skirt and tulle underskirt. Includes a satin sash that ties in the back and dainty pearl trim to pull it all together. Trim Options: No Trim
-  Updated: 2026-04-20T18:57:23Z
+  Updated: 2026-04-25T18:37:42Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -1453,7 +1460,7 @@
     Image: https://cdn.shopify.com/s/files/1/2348/7651/files/dress-pink-iridescent-sequin-back-v-bow-dress-5.jpg?v=1772030405
     Price: $79.99 USD
 - [Blush Satin Flower Petal Baby Dress](https://www.mommiesbestmall.com/products/blush-satin-flower-petal-baby-dress): **This listing does not include the sash; pictures are just for reference. Add sash here for $5! Elegant satin bodice with floating flower petals inside the skirt. Comes with a matching faux rose. It can be customized with one of our many different petal colors! Other Sizes: Girls/Plus
-  Updated: 2026-04-20T18:57:24Z
+  Updated: 2026-04-25T18:37:43Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -1518,7 +1525,7 @@
     Image: https://cdn.shopify.com/s/files/1/2348/7651/files/dress-classic-pleated-baby-dress-1.jpg?v=1772030410
     Price: $54.99 USD
 - [Blush Satin Flower Petal Girls Dress with Plus Sizes](https://www.mommiesbestmall.com/products/blush-satin-flower-petal-girl-dress): **UPDATE 1/30/26: SIZES 16 AND 18 ARE CURRENTLY UNAVAILABLE BUT WILL BE RESTOCKED BY THE END OF FEBRUARY 2026. PLEASE KEEP THIS SHIP DATE IN MIND WHEN PLACING YOUR ORDERS. **This listing does not include the sash; pictures are just for reference. Elegant satin bodice with floating flower petals inside the skirt. Comes with a matching faux rose. It can be customized with one of our many different petal colors! Other Sizes: Baby
-  Updated: 2026-04-20T18:57:24Z
+  Updated: 2026-04-25T18:37:47Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -1566,7 +1573,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Satin Top Baby Dress with Wavy Rhinestone & Pearl Trim](https://www.mommiesbestmall.com/products/540-g-satin-top-baby-dress-w-rhinestones-pearls): **IVORY SIZE M(12M) IS CURRENTLY UNAVAILABLE BUT WILL BE RESTOCKED BY OCTOBER 3, 2025. PLEASE KEEP THIS SHIP DATE IN MIND WHEN PLACING YOUR ORDERS. Simple satin bodice with a tulle skirt. The waist is accented with a cute wavy rhinestone and pearl trim. Other Sizes: Girls/Plus
-  Updated: 2026-04-20T18:57:25Z
+  Updated: 2026-04-25T18:37:48Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -1660,7 +1667,7 @@
     Image: https://cdn.shopify.com/s/files/1/2348/7651/files/dress-ruffle-ombre-cotton-dress-3.jpg?v=1772030497
     Price: $39.99 USD
 - [Ivory Satin Flower Petal Girls Plus Size Dress with Organza Sash](https://www.mommiesbestmall.com/products/160b-sash-satin-flower-petal-w-sash-plus-size-dress-ivory-dress): Elegant satin bodice with floating flower petals inside the skirt. Comes with a matching organza sash and faux rose. It can be customized with one of our many different petal colors! Other Sizes: Baby, Girls (1 of 2), Girls (2 of 2)
-  Updated: 2026-04-20T18:57:26Z
+  Updated: 2026-04-25T18:38:12Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -1786,7 +1793,7 @@
     Availability: Available
     Price: $89.99 USD
 - [White Satin Flower Petal Girls Plus Size Dress with Organza Sash](https://www.mommiesbestmall.com/products/160b-sash-satin-flower-petal-w-sash-plus-size-dress-white-dress): Elegant satin bodice with floating flower petals inside the skirt. Comes with a matching organza sash and faux rose. It can be customized with one of our many different petal colors! Other Sizes: Baby, Girls (1 of 2), Girls (2 of 2)
-  Updated: 2026-04-20T18:57:26Z
+  Updated: 2026-04-25T18:38:33Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -1828,7 +1835,7 @@
     Availability: Available
     Price: $89.99 USD
 - [Ivory Satin Flower Petal Girls Dress (2 of 2)](https://www.mommiesbestmall.com/products/160b-satin-flower-petal-girl-dress-ivory-dress-2-of-2): **This listing does not include the sash; pictures are just for reference. Add sash here! Elegant satin bodice with floating flower petals inside the skirt. Comes with a matching faux rose. It can be customized with one of our many different petal colors! Other Colors Available! Other Sizes: Baby, Plus
-  Updated: 2026-04-20T18:57:26Z
+  Updated: 2026-04-25T18:38:42Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -1930,7 +1937,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Ivory Satin Flower Petal Girls Dress (1 of 2)](https://www.mommiesbestmall.com/products/160b-satin-flower-petal-girl-dress-ivory-dress-1-of-2): **This listing does not include the sash; pictures are just for reference. Add sash here! Elegant satin bodice with floating flower petals inside the skirt. Comes with a matching faux rose. It can be customized with one of our many different petal colors! Other Colors Available! Other Sizes: Baby, Plus
-  Updated: 2026-04-20T18:57:26Z
+  Updated: 2026-04-25T18:38:53Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -1984,7 +1991,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Ivory Satin Flower Petal Girls Plus Size Dress](https://www.mommiesbestmall.com/products/160b-satin-flower-petal-girl-plus-size-dress-ivory-dress): **This listing does not include the sash; pictures are just for reference. Add sash here! Elegant satin bodice with floating flower petals inside the skirt. Comes with a matching faux rose. Can be customized with one of our many different petal colors! Other Sizes: Baby, Girls (1 of 2), Girls (2 of 2)
-  Updated: 2026-04-20T18:57:27Z
+  Updated: 2026-04-25T18:39:15Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -2104,7 +2111,7 @@
     Availability: Available
     Price: $79.99 USD
 - [White Satin Flower Petal Plus Size Girls Dress](https://www.mommiesbestmall.com/products/160b-satin-flower-petal-girl-dress-white-dress): **This listing does not include the sash; pictures are just for reference. Add sash here! Elegant satin bodice with floating flower petals inside the skirt. Comes with a matching faux rose. Can be customized with one of our many different petal colors! Other Sizes: Baby, Girls (1 of 2), Girls (2 of 2)
-  Updated: 2026-04-20T18:57:27Z
+  Updated: 2026-04-25T18:39:33Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -2140,7 +2147,7 @@
     Availability: Available
     Price: $79.99 USD
 - [White Satin Flower Petal Girl Dress (2 of 2)](https://www.mommiesbestmall.com/products/satin-flower-petal-girl-dress-white-dress-2-of-2): **This listing does not include the sash; pictures are just for reference. Add sash here! Elegant satin bodice with floating flower petals inside the skirt. Comes with a matching faux rose. Can be customized with one of our many different petal colors! Other Colors Available! Other Sizes: Baby, Plus
-  Updated: 2026-04-20T18:57:27Z
+  Updated: 2026-04-25T18:39:43Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -2236,7 +2243,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Ivory Satin Flower Petal Baby Dress](https://www.mommiesbestmall.com/products/satin-flower-petal-dress-2): **SIZE M(12M) IS CURRENTLY UNAVAILABLE BUT WILL BE RESTOCKED BY OCTOBER 3, 2025. PLEASE KEEP THIS SHIP DATE IN MIND WHEN PLACING YOUR ORDERS. **This listing does not include the sash; pictures are just for reference. Add sash here for $5! Elegant satin bodice with floating flower petals inside the skirt. Comes with a matching faux rose. It can be customized with one of our many different petal colors! Other Sizes: Girls (1 of 2), Girls (2 of 2), Plus
-  Updated: 2026-04-20T18:57:27Z
+  Updated: 2026-04-25T18:40:03Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -2272,7 +2279,7 @@
     Availability: Available
     Price: $59.99 USD
 - [Ivory Satin Flower Petal Baby Dress with Organza Sash](https://www.mommiesbestmall.com/products/satin-flower-petal-dress-with-sash): **SIZE M(12M) IS CURRENTLY UNAVAILABLE BUT WILL BE RESTOCKED BY OCTOBER 3, 2025. PLEASE KEEP THIS SHIP DATE IN MIND WHEN PLACING YOUR ORDERS. Elegant satin bodice with floating flower petals inside the skirt. Comes with a matching organza sash and faux rose. It can be customized with one of our many different petal colors! Other Sizes: Girls (1 of 2), Girls (2 of 2), Plus
-  Updated: 2026-04-20T18:57:28Z
+  Updated: 2026-04-25T18:40:27Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -2425,7 +2432,7 @@
     Availability: Available
     Price: $64.99 USD
 - [White Satin Flower Petal Girl Dress (1 of 2)](https://www.mommiesbestmall.com/products/satin-flower-petal-dress-1): **This listing does not include the sash; pictures are just for reference. Add sash here! Elegant satin bodice with floating flower petals inside the skirt. Comes with a matching faux rose. Can be customized with one of our many different petal colors! Other Colors Available! Other Sizes: Baby, Plus
-  Updated: 2026-04-20T18:57:28Z
+  Updated: 2026-04-25T18:40:38Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -2482,7 +2489,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Shantung Girls Dress Decorated with Flower Petals](https://www.mommiesbestmall.com/products/shantung-dress-decorated-with-flower-petals): This fully lined shantung dress is made with washable poly silk and is decorated with flower petals accented with a shiny gem. **Please note the ivory color of the dress may vary due to yellowing over time. The color can vary anywhere between the Ivory/Peach and the Ivory/Yellow photos.** Other Sizes: Baby
-  Updated: 2026-04-20T18:57:28Z
+  Updated: 2026-04-25T18:40:42Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -2584,7 +2591,7 @@
     Image: https://cdn.shopify.com/s/files/1/2348/7651/files/dress-shantung-dress-decorated-with-flower-petals-6.jpg?v=1772031011
     Price: $79.99 USD
 - [Satin Sash (Single)](https://www.mommiesbestmall.com/products/satin-sash): We offer our satin sash and bow dress accessories separately. Our vast color selection makes these perfect for all sorts of events! The sash has an adjustable waist with Velcro and hook. This listing is for the SATIN SASH ONLY.
-  Updated: 2026-04-20T18:57:28Z
+  Updated: 2026-04-25T18:40:55Z
   Vendor: Kid's Dream
   Product Type: Accessories
   Availability: Available
@@ -2638,7 +2645,7 @@
     Availability: Not Available
     Price: $12.99 USD
 - [Ivory Satin Sash & Bow Girls Dress (1 of 2)](https://www.mommiesbestmall.com/products/satin-sash-bow-girl-dress-ivory-dress): **SIZES 2, 4, AND 6 ARE CURRENTLY UNAVAILABLE BUT WILL BE RESTOCKED BY OCTOBER 10, 2025. PLEASE KEEP THIS SHIP DATE IN MIND WHEN PLACING YOUR ORDERS. This gorgeous, princess-perfect, multi-layered full-length illusion dress is detailed with a satin sash & big bow at the waist. Perfect for a grand entrance, the skirt is crafted from tulle fabrics, and the bodice is made with a soft satin, creating a magnificent and luxurious look. Available in over 15 colors! Other Colors Available!
-  Updated: 2026-04-20T18:57:29Z
+  Updated: 2026-04-25T18:41:14Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -2764,7 +2771,7 @@
     Availability: Available
     Price: $74.99 USD
 - [White Satin Sash & Bow Girls Dress (1 of 2)](https://www.mommiesbestmall.com/products/satin-sash-bow-dress): This gorgeous, princess-perfect, multi-layered full-length illusion dress is detailed with a satin sash & big bow at the waist. Perfect for a grand entrance, the skirt is crafted from tulle fabrics, and the bodice is made with a soft satin, creating a magnificent and luxurious look. Available in over 15 colors! Other Colors Available!
-  Updated: 2026-04-20T18:57:29Z
+  Updated: 2026-04-25T18:41:28Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -2841,7 +2848,7 @@
   Image: https://cdn.shopify.com/s/files/1/2348/7651/files/dress-vintage-floral-rose-gold-sequin-back-v-baby-dress-2.jpg?v=1772030500
   Price: $34.99 USD
 - [Satin Headband with Sequin Bow](https://www.mommiesbestmall.com/products/sequin-bow-headband): This headband is the perfect accessory for all of your sequin events! It is a thick headband wrapped in satin and adorned with a sequin bow. These crowns are perfect for flower girls, children's photoshoots, and other miscellaneous special occasions.
-  Updated: 2026-04-20T18:57:30Z
+  Updated: 2026-04-25T18:41:34Z
   Vendor: Kid's Dream
   Product Type: 
   Availability: Available
@@ -2953,7 +2960,7 @@
     Image: https://cdn.shopify.com/s/files/1/2348/7651/files/dress-silver-sequin-back-v-dress-1.jpg?v=1772030585
     Price: $79.99 USD
 - [Capped Sleeve Satin & Tulle Girls Dress with Braided Rhinestone Trim](https://www.mommiesbestmall.com/products/sleeve-satin-dress-w-tulle): Capped sleeve shiny satin bodice with tulle skirt. The waist is accented with a luxurious Tiffany setting diamond-shaped rhinestone in a braided design. Other Sizes: Plus Trim Options: No Trim, Wavy Rhinestone & Pearl
-  Updated: 2026-04-20T18:57:31Z
+  Updated: 2026-04-25T18:41:35Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -3040,7 +3047,7 @@
     Image: https://cdn.shopify.com/s/files/1/2348/7651/files/accessories-triple-layered-petticoat-1.jpg?v=1772030878
     Price: $24.99 USD
 - [Luxurious Princess Ballgown Baby Dress with Floral Trim](https://www.mommiesbestmall.com/products/princess-ballgown-baby-dress-w-floral-trim): **SIZE M(12M) IS CURRENTLY UNAVAILABLE BUT WILL BE RESTOCKED BY OCTOBER 3, 2025. PLEASE KEEP THIS SHIP DATE IN MIND WHEN PLACING YOUR ORDERS. **THE ORIGINAL WAIST TRIM IS NO LONGER AVAILABLE IN THE WHITE COLOR. THE WHITE COLOR OPTION WILL NOW COME WITH THE LARGER FLORAL TRIM SHOWN IN THE CLOSE-UP PHOTO. This gorgeous princess-perfect multi-layered full-length tulle dress is detailed with a pearl floral appliqué on the neckline and a floral trim on the waist. Perfect for a grand entrance, this dress is layered with multiple solid tulle fabrics, creating a magnificent, luxurious dress. Other Sizes: Girls/Plus
-  Updated: 2026-04-20T18:57:31Z
+  Updated: 2026-04-25T18:41:38Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -3082,7 +3089,7 @@
     Availability: Available
     Price: $29.99 USD
 - [White Satin & Tulle 3 Flower Girls Dress](https://www.mommiesbestmall.com/products/satin-3-flower-white-dress): This gorgeous, princess-perfect, multi-layered full-length illusion dress is detailed with three large faux flowers at the waist. Perfect for a grand entrance, the skirt is crafted from tulle fabrics, and the bodice is made with a soft satin, creating a magnificent and luxurious look. Available in 10 colors!
-  Updated: 2026-04-20T18:57:32Z
+  Updated: 2026-04-25T18:41:39Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -3337,7 +3344,7 @@
     Availability: Available
     Price: $64.99 USD
 - [Pearl Rhinestone Satin & Tulle Girls Dress](https://www.mommiesbestmall.com/products/pearl-rhinestone-satin-tulle-dress): **IVORY SIZES 2, 4, AND 6 ARE CURRENTLY UNAVAILABLE BUT WILL BE RESTOCKED BY OCTOBER 10, 2025. PLEASE KEEP THIS SHIP DATE IN MIND WHEN PLACING YOUR ORDERS. **THE ORIGINAL WAIST TRIM IN THE IVORY PICTURE IS NO LONGER AVAILABLE. ALL OPTIONS WILL NOW COME WITH THE WAVY PEARL TRIM OPTION SHOWN IN THE WHITE PHOTOS. This gorgeous, princess-perfect, multi-layered full-length illusion dress is detailed with a pearl and rhinestone wavy trim at the waist. Perfect for a grand entrance, the skirt is crafted from tulle fabric, and the bodice is made from soft satin, creating a magnificent and luxurious look.
-  Updated: 2026-04-20T18:57:32Z
+  Updated: 2026-04-25T18:41:43Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -3378,7 +3385,7 @@
     Image: https://cdn.shopify.com/s/files/1/2348/7651/files/dress-princess-line-ruffle-dress-6.jpg?v=1772030777
     Price: $14.99 USD
 - [Vintage Rose Poly Silk Tulle Girls Dress](https://www.mommiesbestmall.com/products/vintage-rose-satin-tulle-dress): A classic vintage rose flower girl dress with a square-neck Elizabeth satin bodice, Elizabeth satin has the look of raw silk. The skirt has layers of tulle fabric and three elegant flowers on the waist. Other Sizes: Baby, Plus Other Colors: Ivory
-  Updated: 2026-04-20T18:57:33Z
+  Updated: 2026-04-25T18:41:43Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -3492,7 +3499,7 @@
     Availability: Not Available
     Price: $114.99 USD
 - [All Lace Baby Dress with V Back & Bow and Thick Pearl Trim](https://www.mommiesbestmall.com/products/lace-v-back-bow-baby-dress-w-thick-pearl-trim): **THE ORIGINAL WAIST TRIM IS NO LONGER AVAILABLE. ALL OPTIONS WILL NOW COME WITH THE TRIM SHOWN IN THE EXTRA PHOTO. A Nouvelle swirl design lace baby dress with a deep V-back and thick sash in the shape of a cute bow. The waist is accented with a thick pearl trim. The bottom is finished with scalloped lace. Other Sizes: Girls, Plus Please see the listings below for trim options! Trim Options: None, Rhinestone, Thick Rhinestone, Mesh Pearl
-  Updated: 2026-04-20T18:57:34Z
+  Updated: 2026-04-25T18:41:47Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -3912,7 +3919,7 @@
     Image: https://cdn.shopify.com/s/files/1/2348/7651/files/dress-lace-v-back-bow-dress-3.jpg?v=1772030537
     Price: $89.99 USD
 - [Luxurious Princess Ballgown Dress with Floral Trim and Plus Sizes](https://www.mommiesbestmall.com/products/luxurious-princess-ballgown-dress-w-floral-trim): **UPDATE 1/30/26: BLUSH SIZES 16 AND 18 ARE CURRENTLY UNAVAILABLE BUT WILL BE RESTOCKED BY THE END OF FEBRUARY 2026. PLEASE KEEP THIS SHIP DATE IN MIND WHEN PLACING YOUR ORDERS. **THE ORIGINAL WAIST TRIM IS NO LONGER AVAILABLE IN THE WHITE COLOR. THE WHITE COLOR OPTION WILL NOW COME WITH THE LARGER FLORAL TRIM SHOWN IN THE CLOSE-UP PHOTO. This gorgeous princess-perfect multi-layered full-length tulle dress is detailed with a pearl floral appliqué on the neckline and a floral trim on the waist. Perfect for a grand entrance, this dress is layered with multiple solid tulle fabrics, creating a magnificent, luxurious dress. Other Sizes: Baby
-  Updated: 2026-04-20T18:57:35Z
+  Updated: 2026-04-25T18:41:49Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -3960,7 +3967,7 @@
     Availability: Available
     Price: $84.99 USD
 - [Long Lace Illusion Girls Dress with Diamond Shaped Rhinestone Trim](https://www.mommiesbestmall.com/products/long-lace-dress-w-diamond-shape-rhinestone-trim): Elegant bridal lace bodice with four layers of illusion tulle for full skirt volume. The dress is tea-length, and the sash in the back can be made into a beautiful bow. The waist is accented with a luxurious diamond-shaped rhinestone trim. Trim Options: None, Rhinestone, Thick Rhinestone, Thick Pearl, 3-Flower
-  Updated: 2026-04-20T18:57:36Z
+  Updated: 2026-04-25T18:41:49Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -3974,7 +3981,7 @@
     Image: https://cdn.shopify.com/s/files/1/2348/7651/files/dress-long-lace-illusion-dress-w-diamond-shape-rhinestone-trim-6.jpg?v=1772030561
     Price: $104.99 USD
 - [Long Lace Illusion Girls Dress with Thick Pearl Trim](https://www.mommiesbestmall.com/products/long-lace-dress-w-thick-rhinestone-trim-1): **THE ORIGINAL WAIST TRIM IS NO LONGER AVAILABLE. ALL OPTIONS WILL NOW COME WITH THE TRIM SHOWN IN THE EXTRA PHOTO. Elegant bridal lace bodice with three layers of illusion tulle for full skirt volume. The dress is tea-length, and the sash in the back can be made into a beautiful bow. The waist is accented with a thick pearl trim. Trim Options: None, Rhinestone, Thick Rhinestone, Diamond Rhinestone, 3-Flower
-  Updated: 2026-04-20T18:57:36Z
+  Updated: 2026-04-25T18:41:52Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -4070,7 +4077,7 @@
     Availability: Not Available
     Price: $119.99 USD
 - [Long Lace Illusion Girls Dress with Rhinestone Trim](https://www.mommiesbestmall.com/products/long-lace-illusion-dress-w-rhinestone-trim): Elegant bridal lace bodice with four layers of illusion tulle for full skirt volume. The dress is tea-length, and the sash in the back can be made into a beautiful bow. The waist is accented with a luxurious Tiffany setting with diamond-shaped rhinestone in a braided design. Trim Options: None, Thick Rhinestone, Thick Pearl, Diamond Rhinestone, 3-Flower
-  Updated: 2026-04-20T18:57:36Z
+  Updated: 2026-04-25T18:41:53Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -4130,7 +4137,7 @@
     Availability: Not Available
     Price: $99.99 USD
 - [Organza Sash (Single)](https://www.mommiesbestmall.com/products/organza-sash-1): We offer our petal dress accessories, sold in sets or on their own. We have a vast color selection, and these are perfect for all sorts of events! This listing is for the ORGANZA SASH ONLY. View the other accessories below: Variety of Fabric Faux Flowers (Single or Packs)
-  Updated: 2026-04-20T18:57:37Z
+  Updated: 2026-04-25T18:42:10Z
   Vendor: Kid's Dream
   Product Type: Accessories
   Availability: Available
@@ -4160,7 +4167,7 @@
     Availability: Available
     Price: $12.99 USD
 - [Organza Flower Headband with Pearl Detailing](https://www.mommiesbestmall.com/products/organza-headband): Organza headband with 5 flowers adorned with pearls. It's an adorable accent piece for any dress!
-  Updated: 2026-04-20T18:57:37Z
+  Updated: 2026-04-25T18:42:16Z
   Vendor: Kid's Dream
   Product Type: Accessories
   Availability: Available
@@ -4184,7 +4191,7 @@
     Availability: Available
     Price: $5.99 USD
 - [*PREORDER* Long Satin Pearl Trim Girls Communion Dress with Plus Sizes](https://www.mommiesbestmall.com/products/long-satin-communion-dress): UPDATE 1/5/26: The WHITE color will be restocked by the end of February 2026. Please keep this date in mind when placing your preorders! **THE ORIGINAL WAIST TRIM IS NO LONGER AVAILABLE. ALL OPTIONS WILL NOW COME WITH THE TRIM SHOWN IN THE EXTRA PHOTO. Full A-line satin Communion dress with a beautiful thick pearl trim to accent the waist. It comes with a sash in the back for tightening.
-  Updated: 2026-04-20T18:57:37Z
+  Updated: 2026-04-25T18:42:18Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -4226,7 +4233,7 @@
     Availability: Available
     Price: $69.99 USD
 - [Gold Sequins V Back & Bow Baby Dress](https://www.mommiesbestmall.com/products/gold-silver-sequin-v-back-baby-dress): Sleeveless dupioni bodice with layers of glitter tulle skirt and gold sequin waist trim. The back bodice has a dramatic V accented with gold sequins. The dress is finished with a sequin bow in the back to make this the perfect party dress. Other Colors: Blush/Rose Gold Sequins, Pink Iridescent Sequins, Ivory/Silver Sequins, Matching Sequins Other Sizes: Girls, Plus
-  Updated: 2026-04-20T18:57:38Z
+  Updated: 2026-04-25T18:42:19Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -4365,7 +4372,7 @@
     Availability: Not Available
     Price: $74.99 USD
 - [Lace Illusion Girls Dress with 3 Mesh Flowers](https://www.mommiesbestmall.com/products/lace-illusion-dress-w-3-mesh-flowers): Elegant bridal lace bodice with four layers of illusion tulle for full skirt volume. The dress comes with 3 matching mesh flowers on the waist. The sash in the back can be made into a beautiful bow.
-  Updated: 2026-04-20T18:57:39Z
+  Updated: 2026-04-25T18:42:26Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -4455,7 +4462,7 @@
     Availability: Available
     Price: $174.99 USD
 - [Gold Sequins V Back & Bow Girls Dress](https://www.mommiesbestmall.com/products/gold-sequin-back-v-dress): Sleeveless dupioni bodice with layers of glitter tulle skirt and gold sequin waist trim. The back bodice has a dramatic V accented with gold sequins. The dress is finished with a sequin bow in the back to make this the perfect party dress. Other Colors: Blush/Rose Gold Sequins, Ivory/Silver Sequins, Pink/Iridescent Sequins, Matching Sequins Other Sizes: Baby, Plus
-  Updated: 2026-04-20T18:57:39Z
+  Updated: 2026-04-25T18:42:28Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -4533,7 +4540,7 @@
     Availability: Available
     Price: $94.99 USD
 - [Lace Illusion Baby Dress with Thick Pearl Trim](https://www.mommiesbestmall.com/products/lace-dress-w-thick-pearl-trim-1): **THE ORIGINAL WAIST TRIM IS NO LONGER AVAILABLE. ALL OPTIONS WILL NOW COME WITH THE TRIM SHOWN IN THE EXTRA PHOTO. Elegant bridal lace bodice with four layers of illusion tulle for full skirt volume. The sash in the back can be made into a beautiful bow. The waist is accented with a beautiful, thick pearl trim.
-  Updated: 2026-04-20T18:57:39Z
+  Updated: 2026-04-25T18:42:30Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -4563,7 +4570,7 @@
     Availability: Available
     Price: $64.99 USD
 - [Lace Illusion Baby Dress with Mesh Pearl Trim](https://www.mommiesbestmall.com/products/lace-dress-w-mesh-pearl-trim-1): Elegant bridal lace bodice with four layers of illusion tulle for full skirt volume. The sash in the back can be made into a beautiful bow. The waist is accented with a beautiful pearl mesh trim.
-  Updated: 2026-04-20T18:57:40Z
+  Updated: 2026-04-25T18:42:30Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -4593,7 +4600,7 @@
     Availability: Available
     Price: $64.99 USD
 - [Lace Illusion Girls Dress with Thick Pearl Trim](https://www.mommiesbestmall.com/products/lace-dress-w-thick-pearl-trim): **THE ORIGINAL WAIST TRIM IS NO LONGER AVAILABLE. ALL OPTIONS WILL NOW COME WITH THE TRIM SHOWN IN THE EXTRA PHOTO. Elegant bridal lace bodice with four layers of illusion tulle for full skirt volume. The sash in the back can be made into a beautiful bow. The waist is accented with a beautiful thick pearl trim.
-  Updated: 2026-04-20T18:57:40Z
+  Updated: 2026-04-25T18:42:32Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -4686,7 +4693,7 @@
     Availability: Available
     Price: $9.99 USD
 - [Lace Illusion Baby Dress](https://www.mommiesbestmall.com/products/copy-of-lace-illusion-baby-dress-champagne): Elegant bridal lace bodice with four layers of illusion tulle for full skirt volume. The sash in the back can be made into a beautiful bow.
-  Updated: 2026-04-20T18:57:40Z
+  Updated: 2026-04-25T18:42:33Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -4993,7 +5000,7 @@
     Availability: Available
     Price: $174.99 USD
 - [White Satin Flower Petal Girl Dress with Organza Sash (2 of 2)](https://www.mommiesbestmall.com/products/flower-petal-dress-w-sash-white-dress): Elegant satin bodice with floating flower petals inside the skirt. Comes with a matching organza sash and faux rose. It can be customized with one of our many different petal colors! Other Colors Available! Other Sizes: Baby, Plus
-  Updated: 2026-04-20T18:57:42Z
+  Updated: 2026-04-25T18:42:43Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -5140,7 +5147,7 @@
     Availability: Available
     Price: $79.99 USD
 - [Satin Headband with Flowers and Gems](https://www.mommiesbestmall.com/products/copy-of-flower-crown-w-pearl-gem): Satin headband decorated with 3 faux flowers, adorned with pearls and gems.
-  Updated: 2026-04-20T18:57:42Z
+  Updated: 2026-04-25T18:42:50Z
   Vendor: Kid's Dream
   Product Type: 
   Availability: Available
@@ -5155,7 +5162,7 @@
     Availability: Available
     Price: $14.99 USD
 - [Flower Crown with Gems & Ribbons](https://www.mommiesbestmall.com/products/flower-crown-w-pearl-gem): Flower crown decorated with faux flowers, satin bows, and ribbons. Faux flowers are adorned with gems. Circumference: 18.5 inches
-  Updated: 2026-04-20T18:57:42Z
+  Updated: 2026-04-25T18:42:51Z
   Vendor: Kid's Dream
   Product Type: 
   Availability: Available
@@ -5191,7 +5198,7 @@
     Availability: Available
     Price: $19.99 USD
 - [Variety of Fabric Faux Flowers (Single or Packs)](https://www.mommiesbestmall.com/products/fl001-beautiful-flower): We offer a variety of our fabric flowers, sold individually or in packs. We have a huge selection to choose from! These are perfect for all sorts of crafts, be it as an accessory to a dress or on a headband! PLEASE NOTE THESE MAY COME WITH A PIN GLUED ON TO ATTACH TO A DRESS. This listing is for our FAUX FABRIC varieties. View our other options below: Variety of Fabric Mesh Flowers (Single or Packs)
-  Updated: 2026-04-20T18:57:43Z
+  Updated: 2026-04-25T18:43:03Z
   Vendor: Kid's Dream
   Product Type: Accessories
   Availability: Available
@@ -5348,7 +5355,7 @@
   Image: https://cdn.shopify.com/s/files/1/2348/7651/files/accessories-double-satin-flower-headband-1.jpg?v=1772030791
   Price: $19.99 USD
 - [Variety of Fabric Mesh Flowers (Single or Packs)](https://www.mommiesbestmall.com/products/fl003-mesh-flower): We offer a variety of our fabric flowers, sold in packs or on their own. We have a huge selection to choose from! These are perfect for all sorts of crafts, be it as an accessory to a dress or on a headband! This listing is for our MESH varieties. View our other options below: Variety of Fabric Faux Flowers (Single or Packs)
-  Updated: 2026-04-20T18:57:44Z
+  Updated: 2026-04-25T18:43:15Z
   Vendor: Kid's Dream
   Product Type: Accessories
   Availability: Available
@@ -5405,7 +5412,7 @@
     Availability: Available
     Price: $4.99 USD
 - [Floral Comb For Hair](https://www.mommiesbestmall.com/products/floral-decorations-on-a-comb): Hair comb adorned with floral decorations, ribbons, and faux roses. Originally made with three miniature faux roses detailing in the center, the newer versions were made with one large faux rose. These combs are ideal for flower girls, children's photo shoots, and other special occasions.
-  Updated: 2026-04-20T18:57:45Z
+  Updated: 2026-04-25T18:43:23Z
   Vendor: Kid's Dream
   Product Type: Accessories
   Availability: Available
@@ -5429,7 +5436,7 @@
     Availability: Available
     Price: $9.99 USD
 - [Extra Soft Fur Half Coat](https://www.mommiesbestmall.com/products/extra-soft-fur-half-coat): **THE PINK-COLORED FLOWERS ARE NO LONGER AVAILABLE. THE PINK COLOR OPTION WILL NOW COME WITH THE WHITE FLOWER SHOWN IN THE PHOTOS. Girls' half coat with extra soft faux fur. Comes with a complementary corsage.
-  Updated: 2026-04-20T18:57:45Z
+  Updated: 2026-04-25T18:43:25Z
   Vendor: Kid's Dream
   Product Type: Jacket
   Availability: Available
@@ -5450,7 +5457,7 @@
   Image: https://cdn.shopify.com/s/files/1/2348/7651/files/jacket-fleece-style-coat-2.jpg?v=1772030914
   Price: $19.99 USD
 - [Flower Girl T-Shirt](https://www.mommiesbestmall.com/products/flower-girl-t-shirt): Flower Girl T-Shirt: I'm the cutest Flower Girl ever!
-  Updated: 2026-04-20T18:57:46Z
+  Updated: 2026-04-25T18:43:25Z
   Vendor: Kid's Dream
   Product Type: Shirt
   Availability: Available
@@ -5535,7 +5542,7 @@
   Image: https://cdn.shopify.com/s/files/1/2348/7651/files/accessories-comb-veil-1.jpg?v=1772030866
   Price: $19.99 USD
 - [Classic Pleated Girls Dress](https://www.mommiesbestmall.com/products/classic-pleated-dress): **WHITE SIZE 8 IS CURRENTLY UNAVAILABLE BUT WILL BE RESTOCKED BY OCTOBER 10, 2025. PLEASE KEEP THIS SHIP DATE IN MIND WHEN PLACING YOUR ORDERS. **THE ORIGINAL WAIST TRIM IS NO LONGER AVAILABLE. ALL OPTIONS WILL NOW COME WITH THE TRIM SHOWN IN THE EXTRA PHOTO. A fully lined satin dress with a classic box pleated skirt and tulle underskirt features handmade pearl trim on the waist and a satin sash that ties in the back. Other Sizes: Plus
-  Updated: 2026-04-20T18:57:48Z
+  Updated: 2026-04-25T18:43:26Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -5625,7 +5632,7 @@
   Image: https://cdn.shopify.com/s/files/1/2348/7651/files/Gwen_Stacy_Spider_Woman_Maks_glow_in_the_dark.png?v=1710274235
   Price: $54.99 USD
 - [Spiderman blinking eye mask Ring version](https://www.mommiesbestmall.com/products/spiderman-blinking-eye-mask-ring-version): Spiderman blinking eye mask Ring version Introducing the Spider-Man Blinking Eyes Mask: Experience the thrill of being your friendly neighborhood superhero with our latest innovation! Inspired by the iconic Spider-Man, this mask takes your cosplay or playtime to the next level with its captivating blinking eyes feature. Picture yourself donning the mask and feeling the excitement as the eyes light up just like Spider-Man's do in the comics and movies. With a simple press of a button, you can activate the blinking effect, instantly transforming into the web-slinging hero himself. Ring Version: The ring remotely controls blinking, allowing each eye to blink or close individually Ring 2.0 Version： At present, this model cannot see the outside clearly after turning on the lights. The lights cannot be turned off during use. Ring 3.0 Version: You can see the outside through the spider in your eyes, and during use, you can turn off or turn on the lights. After the lights are turned on, there will be a sound of ding~ Product Information: Material:fabric + ABS plasticBox size: 28.5*25.5*24CMMask size: 19*28CM (size does not include neck)Packaging: single independent packaging The Disney Spiderman blinking eye mask Ring version is perfect for both boys and girls ages 14 and up. Made in Mainland China, this eye mask is a fun and functional accessory that is sure to delight fans of the popular Western animation. With a completed degree and original packaging, this model is ready for play with remote control capabilities. When you receive the package, please charge the mask and remote control for about 30 minutes. Then, turn on the switch inside the helmet to see a blue light, and press and hold the middle button on the ring to turn on the switch and display a blue light. After that, the mask can be used as usual. If the remote control still doesn't work, contact our customer service for a replacement. Thank you! Be sure to take a look at our other Spiderman masks as well! Gwen lighting: Touch the upper right corner of the mask's forehead to turn on the eye light, and there will be a continuous sound. Touch again to turn off the light and sound Miles Version: Black mask, light and blinking light Chin Control: By opening and closing the mouth, the chin touches the mechanical device to control blinking or closing the eyes, and cannot control each eye individually. The appearance of both ring control and chin control versions looks the same. Check out all masks by clicking here Recommend Age: 14+y
-  Updated: 2026-04-20T18:57:49Z
+  Updated: 2026-04-25T18:43:27Z
   Vendor: Mommies Best Mall
   Product Type: Dress up
   Availability: Available
@@ -5684,14 +5691,14 @@
   Image: https://cdn.shopify.com/s/files/1/2348/7651/files/Spiderman_Miles_Blinking_Eye_Mask.jpg?v=1710275015
   Price: $89.99 USD
 - [Comb Veil with Dainty Pearl & Rhinestone Adornments](https://www.mommiesbestmall.com/products/comb-veil-with-dainty-pearl-rhinestone-adornment): Comb veil with dainty pearl & rhinestone faux flower adornments. Designed for little princesses, this long comb veil is a charming addition to any special occasion outfit. Handmade from 100% polyester, it ensures durability and comfort for all-day wear. Ideal for communions, this veil is a testament to our commitment to making little girls feel beautiful on their special day. At Kid's Dream, every stitch and design is carefully crafted to meet the highest standards.
-  Updated: 2026-04-20T18:58:10Z
+  Updated: 2026-04-25T18:43:40Z
   Vendor: Kid's Dream
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2348/7651/files/VEIL042_2.jpg?v=1772030324
   Price: $17.99 USD
 - [Satin Wrist-Length Gloves with Satin Bow for Girls](https://www.mommiesbestmall.com/products/satin-wrist-length-gloves-with-satin-bow-for-children): Crafted from smooth, soft satin, these wrist-length gloves provide elegant coverage and comfort. Features a large satin bow with a floral decoration on the wrist. Suitable for a variety of special occasions, including first communions, baptisms, tea parties, weddings, quinceañeras, dance performances, and formal events!
-  Updated: 2026-04-20T18:58:10Z
+  Updated: 2026-04-25T18:43:40Z
   Vendor: Kid's Dream
   Product Type: Gloves
   Availability: Available
@@ -5705,7 +5712,7 @@
     Image: https://cdn.shopify.com/s/files/1/2348/7651/files/GL2FLK12White.jpg?v=1772030327
     Price: $9.99 USD
 - [Satin Wrist-Length Gloves for Children](https://www.mommiesbestmall.com/products/satin-wrist-length-gloves-for-children): Crafted from smooth, soft satin, these wrist-length gloves provide elegant coverage and comfort. Suitable for a variety of special occasions, including first communions, baptisms, tea parties, weddings, quinceañeras, dance performances, and formal events!
-  Updated: 2026-04-20T18:58:10Z
+  Updated: 2026-04-25T18:43:40Z
   Vendor: Kid's Dream
   Product Type: Gloves
   Availability: Available
@@ -5727,7 +5734,7 @@
     Image: https://cdn.shopify.com/s/files/1/2348/7651/files/GL2K7White.jpg?v=1772030329
     Price: $7.99 USD
 - [Satin Elbow-Length Gloves for Girls](https://www.mommiesbestmall.com/products/satin-elbow-length-gloves-for-children): Crafted from smooth, soft satin, these elbow-length gloves provide elegant coverage and comfort. Suitable for a variety of special occasions, including first communions, baptisms, tea parties, weddings, quinceañeras, dance performances, and formal events!
-  Updated: 2026-04-20T18:58:11Z
+  Updated: 2026-04-25T18:43:40Z
   Vendor: Kid's Dream
   Product Type: Gloves
   Availability: Available
@@ -5749,7 +5756,7 @@
     Image: https://cdn.shopify.com/s/files/1/2348/7651/files/GL6K7-WHT_1.jpg?v=1772030332
     Price: $8.99 USD
 - [White Satin Sash & Bow Girls Dress (2 of 2)](https://www.mommiesbestmall.com/products/restocked-white-satin-sash-bow-girls-dress-2-of-2): This gorgeous, princess-perfect, multi-layered full-length illusion dress is detailed with a satin sash & big bow at the waist. Perfect for a grand entrance, the skirt is crafted from tulle fabrics, and the bodice is made with a soft satin, creating a magnificent and luxurious look. Available in over 15 colors! Other Colors Available!
-  Updated: 2026-04-20T18:58:11Z
+  Updated: 2026-04-25T18:43:41Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -5821,7 +5828,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Ivory Satin Sash & Bow Girls Dress (2 of 2)](https://www.mommiesbestmall.com/products/restocked-ivory-satin-sash-bow-girls-dress-2-of-2): **SIZES 2, 4, AND 6 ARE CURRENTLY UNAVAILABLE BUT WILL BE RESTOCKED BY OCTOBER 10, 2025. PLEASE KEEP THIS SHIP DATE IN MIND WHEN PLACING YOUR ORDERS. This gorgeous, princess-perfect, multi-layered full-length illusion dress is detailed with a satin sash & big bow at the waist. Perfect for a grand entrance, the skirt is crafted from tulle fabrics, and the bodice is made with a soft satin, creating a magnificent and luxurious look. Available in over 15 colors! Other Colors Available!
-  Updated: 2026-04-20T18:58:11Z
+  Updated: 2026-04-25T18:43:49Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -5929,7 +5936,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Satin Babydoll Embroidered Puff Sleeve Full Girls Dress with Plus Sizes](https://www.mommiesbestmall.com/products/babydoll-embroidered-puff-sleeve-satin-girls-dress-with-plus-sizes): This dress features a delicate babydoll full-length cut, offering a sweet, classic silhouette that’s as comfortable as it is beautiful. The puff sleeves are enhanced with an elastic band adorned with a satin ribbon, adding a touch of grace and playfulness. The floral embroidered bodice adds intricate detailing that elevates the overall design. The thick satin skirt creates a soft, full look that moves gracefully, while a thin ribbon around the waist adds the perfect finishing touch.
-  Updated: 2026-04-20T18:58:11Z
+  Updated: 2026-04-25T18:44:02Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -5959,7 +5966,7 @@
     Image: https://cdn.shopify.com/s/files/1/2348/7651/files/C501_White_1.jpg?v=1772030341
     Price: $79.99 USD
 - [Capped Sleeve Satin & Tulle Girls Plus Size Dress with Wavy Rhinestone & Pearl Trim](https://www.mommiesbestmall.com/products/capped-sleeve-satin-tulle-girls-plus-size-dress-with-wavy-rhinestone-pearl-trim): Capped sleeve shiny satin bodice with tulle skirt. The waist is accented with a cute rhinestone and pearl trim. Other Sizes: Girls Trim Options: No Trim, Braided Rhinestone
-  Updated: 2026-04-20T18:58:12Z
+  Updated: 2026-04-25T18:44:03Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -6049,7 +6056,7 @@
     Image: https://cdn.shopify.com/s/files/1/2348/7651/files/452-G_Silver.jpg?v=1772030344
     Price: $79.99 USD
 - [Capped Sleeve Satin & Tulle Girls Plus Size Dress](https://www.mommiesbestmall.com/products/capped-sleeve-satin-tulle-girls-plus-size-dress): Capped sleeve shiny satin bodice with tulle skirt. Other Sizes: Girls **This listing does not include a trim; please use the links below for trim options. Trim Options: Wavy Rhinestone & Pearl, Braided Rhinestone
-  Updated: 2026-04-20T18:58:12Z
+  Updated: 2026-04-25T18:44:12Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -6115,7 +6122,7 @@
     Availability: Not Available
     Price: $69.99 USD
 - [Capped Sleeve Satin & Tulle Girls Dress](https://www.mommiesbestmall.com/products/capped-sleeve-satin-tulle-girls-dress): Capped sleeve shiny satin bodice with tulle skirt. Other Sizes: Plus **This listing does not include a trim; please use the links below for trim options. Trim Options: Wavy Rhinestone & Pearl, Braided Rhinestone
-  Updated: 2026-04-20T18:58:12Z
+  Updated: 2026-04-25T18:44:21Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -6178,7 +6185,7 @@
     Availability: Available
     Price: $64.99 USD
 - [Capped Sleeve Satin & Tulle Girls Dress with Wavy Rhinestone & Pearl Trim](https://www.mommiesbestmall.com/products/capped-sleeve-satin-tulle-girls-dress-with-wavy-rhinestone-pearl-trim): Capped sleeve shiny satin bodice with tulle skirt. The waist is accented with a cute rhinestone and pearl trim. Other Sizes: Plus Trim Options: No Trim, Braided Rhinestone
-  Updated: 2026-04-20T18:58:12Z
+  Updated: 2026-04-25T18:44:29Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -6238,7 +6245,7 @@
     Availability: Not Available
     Price: $74.99 USD
 - [Pink & Rose Gold Rhinestone Satin & Tulle Girls Dress](https://www.mommiesbestmall.com/products/pink-rose-gold-rhinestone-sash-satin-tulle-girls-dress): This gorgeous, princess-perfect, multi-layered full-length illusion dress is detailed with a pink and rose gold rhinestone sash trim at the waist. Perfect for a grand entrance, the skirt is crafted from tulle fabric, and the bodice is made from soft satin, creating a magnificent and luxurious look.
-  Updated: 2026-04-20T18:58:13Z
+  Updated: 2026-04-25T18:44:31Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -6396,7 +6403,7 @@
     Image: https://cdn.shopify.com/s/files/1/2348/7651/files/562White_1_17d758a6-bc49-4128-9107-1e344065c0b2.jpg?v=1772030365
     Price: $89.99 USD
 - [Capped Sleeve Satin & Tulle Baby Dress with Floral Trim](https://www.mommiesbestmall.com/products/capped-sleeve-satin-tulle-baby-dress-with-floral-trim): Capped sleeve shiny satin bodice with tulle skirt. The waist and shoulders are accented with an adorable floral embroidered trim adorned with sequins and rhinestones. Other Sizes: Girls, Plus
-  Updated: 2026-04-20T18:58:13Z
+  Updated: 2026-04-25T18:44:32Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -6450,7 +6457,7 @@
     Image: https://cdn.shopify.com/s/files/1/2348/7651/files/562BWhite_1_1842b1c0-2eef-4782-8475-81ef9c6fd20d.jpg?v=1772030367
     Price: $74.99 USD
 - [Capped Sleeve Satin & Tulle Plus Size Dress with Braided Rhinestone Trim](https://www.mommiesbestmall.com/products/capped-sleeve-satin-tulle-plus-size-dress-with-diamond-shaped-rhinestone-trim): Capped sleeve shiny satin bodice with tulle skirt. The waist is accented with a luxurious Tiffany setting diamond-shaped rhinestone in a braided design. Other Sizes: Girls Trim Options: No Trim, Wavy Rhinestone & Pearl
-  Updated: 2026-04-20T18:58:14Z
+  Updated: 2026-04-25T18:44:37Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -6474,7 +6481,7 @@
     Availability: Available
     Price: $79.99 USD
 - [Gold Embroidered Lace V Back & Bow Plus Size Girls Dress](https://www.mommiesbestmall.com/products/preorder-560-gold-embroidered-lace-v-back-bow-girls-plus-size-dress): Sleeveless gold embroidered lace bodice with layers of glitter tulle skirt and gold rhinestone waist trim. The back bodice has a dramatic V accented with tone-on-tone sequins. The dress is finished with a sequin bow in the back to make this the perfect party dress. Other Sizes: Girls
-  Updated: 2026-04-20T18:58:14Z
+  Updated: 2026-04-25T18:44:41Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -6492,7 +6499,7 @@
     Availability: Available
     Price: $89.99 USD
 - [Gold Embroidered Lace V Back & Bow Girls Dress](https://www.mommiesbestmall.com/products/preorder-560-gold-embroidered-lace-v-back-bow-girls-dress): Sleeveless gold embroidered lace bodice with layers of glitter tulle skirt and gold rhinestone waist trim. The back bodice has a dramatic V accented with tone-on-tone sequins. The dress is finished with a sequin bow in the back to make this the perfect party dress. Other Sizes: Plus
-  Updated: 2026-04-20T18:58:14Z
+  Updated: 2026-04-25T18:44:41Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -6507,7 +6514,7 @@
     Availability: Available
     Price: $84.99 USD
 - [Matching Sequins V Back & Bow Plus Size Girls Dress](https://www.mommiesbestmall.com/products/matching-sequins-v-back-bow-plus-size-girls-dress): Sleeveless dupioni bodice with layers of glitter tulle skirt and tone-on-tone sequin waist trim. The back bodice has a dramatic V accented with tone-on-tone sequins. The dress is finished with a sequin bow in the back to make this the perfect party dress. Other Colors: Pink/Iridescent Sequins, Ivory/Silver Sequins, Gold Sequins, Blush/Rose Gold Sequins Other Sizes: Baby, Girls
-  Updated: 2026-04-20T18:58:14Z
+  Updated: 2026-04-25T18:44:45Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -6522,7 +6529,7 @@
     Availability: Available
     Price: $84.99 USD
 - [Dusty Rose Top Satin Flower Petal Girls Dress](https://www.mommiesbestmall.com/products/dusty-rose-top-satin-flower-petal-girl-dress-with-organza-sash): **This listing does not include the sash; pictures are just for reference. Add sash here! Elegant dusty rose satin bodice with floating flower petals inside the skirt. Comes with a matching faux rose. Other Sizes: Baby
-  Updated: 2026-04-20T18:58:15Z
+  Updated: 2026-04-25T18:44:51Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -6534,7 +6541,7 @@
     Availability: Available
     Price: $44.99 USD
 - [Pink/Iridescent Sequins V Back & Bow Baby Dress](https://www.mommiesbestmall.com/products/copy-of-pink-iridescent-sequin-back-v-bow-dress): Sleeveless dupioni bodice with layers of glitter tulle skirt and pink iridescent sequin waist trim. The back bodice has a dramatic V accented with pink iridescent sequins. The dress is finished with a sequin bow in the back to make this the perfect party dress. Other Colors: Gold Sequins, Ivory/Silver Sequins, Blush/Rose Gold Sequins, Matching Sequins Other Sizes: Girls, Plus
-  Updated: 2026-04-20T18:58:15Z
+  Updated: 2026-04-25T18:44:51Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -6549,7 +6556,7 @@
     Availability: Not Available
     Price: $59.99 USD
 - [Long Lace Illusion Girls Dress with 3 Flowers](https://www.mommiesbestmall.com/products/lace-illusion-long-dress-w-flowers): Elegant bridal lace bodice with four layers of illusion tulle for full skirt volume. The dress is tea-length, and the sash in the back can be made into a beautiful bow with a three-flower trim around the waist. Trim Options: None, Rhinestone, Thick Rhinestone, Thick Pearl, Diamond Rhinestone
-  Updated: 2026-04-20T18:58:15Z
+  Updated: 2026-04-25T18:44:55Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -6632,7 +6639,7 @@
     Availability: Available
     Price: $74.99 USD
 - [Ivory Poly Silk Tulle Baby Dress](https://www.mommiesbestmall.com/products/poly-silk-tulle-baby-dress-ivory): **The pink flowers are no longer available; it will now come with two champagne flowers and an ivory flower. A classic ivory flower girl dress with a square-neck Elizabeth satin bodice, Elizabeth satin has the look of raw silk. The skirt has layers of tulle fabric and three elegant flowers on the waist. Other Sizes: Girls, Plus Other Colors: Vintage Rose
-  Updated: 2026-04-20T18:58:16Z
+  Updated: 2026-04-25T18:44:55Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -6679,7 +6686,7 @@
     Image: https://cdn.shopify.com/s/files/1/2348/7651/files/dress-pink-iridescent-sequin-v-back-bow-plus-size-girl-dress-6.jpg?v=1772030407
     Price: $84.99 USD
 - [Classic Pleated Plus Size Dress](https://www.mommiesbestmall.com/products/classic-pleated-girl-plus-size-dress): **THE ORIGINAL WAIST TRIM IS NO LONGER AVAILABLE. ALL OPTIONS WILL NOW COME WITH THE TRIM SHOWN IN THE EXTRA PHOTO. A fully lined satin dress with a classic box pleated skirt and tulle underskirt features handmade pearl trim on the waist and a satin sash that ties in the back. Other Sizes: Girls
-  Updated: 2026-04-20T18:58:16Z
+  Updated: 2026-04-25T18:44:56Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -6709,7 +6716,7 @@
     Image: https://cdn.shopify.com/s/files/1/2348/7651/files/dress-classic-pleated-girl-plus-size-dress-3.jpg?v=1772030569
     Price: $84.99 USD
 - [Vintage Rose Poly Silk Tulle Girls Plus Size Dress](https://www.mommiesbestmall.com/products/vintage-rose-satin-tulle-plus-size-dress): A classic vintage rose flower girl dress with a square-neck Elizabeth satin bodice, Elizabeth satin has the look of raw silk. The skirt has layers of tulle fabric and three elegant flowers on the waist. Other Sizes: Baby, Girls Other Colors: Ivory
-  Updated: 2026-04-20T18:58:17Z
+  Updated: 2026-04-25T18:44:59Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -6821,7 +6828,7 @@
   Image: https://cdn.shopify.com/s/files/1/2348/7651/files/accessories-white-flower-rhinestone-crown-veil-1.jpg?v=1772030630
   Price: $29.99 USD
 - [Gold Sequins V Back & Bow Plus Size Girls Dress](https://www.mommiesbestmall.com/products/plus-gold-sequin-back-v-dress): Sleeveless dupioni bodice with layers of glitter tulle skirt and gold sequin waist trim. The back bodice has a dramatic V accented with gold sequins. The dress is finished with a sequin bow in the back to make this the perfect party dress. Other Colors: Pink/Iridescent Sequins, Ivory/Silver Sequins, Blush/Rose Gold Sequins, Matching Sequins Other Sizes: Baby, Girls
-  Updated: 2026-04-20T18:58:18Z
+  Updated: 2026-04-25T18:45:06Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -6896,7 +6903,7 @@
     Availability: Available
     Price: $89.99 USD
 - [*RESTOCKED* Lace Trim Long Tulle Plus Size Girl Dress](https://www.mommiesbestmall.com/products/copy-of-lace-trim-long-tulle-dress): Sleeveless satin bodice with lace and beadwork accented trim on the waist. The skirt is long and full with a wire hemming finish, making it a brilliant look. Other Sizes: Baby, Girls
-  Updated: 2026-04-20T18:58:19Z
+  Updated: 2026-04-25T18:45:09Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -6965,7 +6972,7 @@
     Availability: Not Available
     Price: $29.99 USD
 - [Vintage Rose Poly Silk Tulle Baby Dress](https://www.mommiesbestmall.com/products/satin-tulle-baby-dress): **The dusty rose flowers are no longer available; they will now come with two champagne flowers and an ivory flower. A classic vintage rose flower girl dress with a square-neck Elizabeth satin bodice, Elizabeth satin has the look of raw silk. The skirt has layers of tulle fabric and three elegant flowers on the waist. Other Sizes: Girls, Plus Other Colors: Ivory
-  Updated: 2026-04-20T18:58:21Z
+  Updated: 2026-04-25T18:45:09Z
   Vendor: Kid's Dream
   Product Type: Dress
   Availability: Available
@@ -6987,7 +6994,7 @@
     Image: https://cdn.shopify.com/s/files/1/2348/7651/files/dress-satin-tulle-baby-dress-1.jpg?v=1772030814
     Price: $64.99 USD
 - [Children's Ballerina Shoes with Ribbon Tie](https://www.mommiesbestmall.com/products/ballerina-shoes-w-ribbon-tie-pink): Dazzling ballerina-inspired children's flats with a charming satin ribbon tie and rubber soles! These enchanting flats are perfect for everyday and special occasions. The soft and comfortable fit ensures that your little ballerina can move with ease and grace. Make every step magical with our ballerina-inspired flats!
-  Updated: 2026-04-20T18:58:21Z
+  Updated: 2026-04-25T18:45:12Z
   Vendor: Kid's Dream
   Product Type: Shoes
   Availability: Available
@@ -7035,7 +7042,7 @@
     Availability: Not Available
     Price: $14.99 USD
 - [Bun Veil Decorated with Pearls](https://www.mommiesbestmall.com/products/pearl-bun-veil): **THE ORIGINAL PEARL TRIM IS NO LONGER AVAILABLE. ALL OPTIONS WILL NOW COME WITH THE TRIM SHOWN IN THE EXTRA PHOTO. A bun veil with pearl detailing all around for a touch of glamour! The veil is long, up to the lower back. Designed for little princesses, this long bun veil is a charming addition to any special occasion outfit. Handmade from 100% polyester, it ensures durability and comfort for all-day wear. Ideal for communions, this veil is a testament to our commitment to making little girls feel beautiful on their special day. At Kid's Dream, every stitch and design is carefully crafted to meet the highest standards.
-  Updated: 2026-04-20T18:58:21Z
+  Updated: 2026-04-25T18:45:12Z
   Vendor: Kid's Dream
   Product Type: Accessories
   Availability: Available
@@ -7430,14 +7437,7 @@
   - [Unisex / Large / Blue LS_0542L](https://www.mommiesbestmall.com/products/3-pc-layette-baby-clothes-set-ls_0542?variant=44591683076211)
     Availability: Available
     Price: $12.17 USD
-- [3 Pc Layette Baby Clothes Set LS_0602](https://www.mommiesbestmall.com/products/3-pc-layette-baby-clothes-set-ls_0602): Bambini layette set perfect for any newborn baby made from soft and cozy cotton baby clothes keeping the little ones comfortable. This set makes the perfect baby shower present for any soon-to-be momma!  ; Made From Soft Cotton Fabric for Comfort and Breathability ; Expandable Shoulder Neckline to Help Pull Garment Over Baby's Head Much More Easily ; Ribbed Leg Opening Makes for a Perfect Fit ; Machine Wash/Tumble Dry Blue Short Sleeve Onezie (100% Cotton), Blue Baby Cap (100% Cotton), Blue Infant Mittens (Jersey)  Image Background and Props Not Included Baby Clothing for every newborn needing clothes.
-  Updated: 2026-04-20T18:58:34Z
-  Vendor: Bambini
-  Product Type: Layette Sets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2348/7651/files/002B_031BB_116B.jpg?v=1775126951
-  Price: $9.69 USD
-[List Continued](https://www.mommiesbestmall.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MjMxMjE1MDM4NTc5LCJsYXN0X3ZhbHVlIjoiODIzMTIxNTAzODU3OSJ9)
+[List Continued](https://www.mommiesbestmall.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MjMxMjE1MDA1ODExLCJsYXN0X3ZhbHVlIjoiODIzMTIxNTAwNTgxMSJ9)
 
 ## Collections
 
@@ -7499,7 +7499,7 @@
   Updated: 2026-04-20T18:50:23Z
   Total Products: 1
 - [Mommies Best Mall | Safety Gizmos](https://www.mommiesbestmall.com/collections/safety-gizmo): All homes need protection we as moms can make sure we have the protection we need for ourselves, our kids and our home. Click here to browse and shop.
-  Updated: 2026-04-20T18:50:23Z
+  Updated: 2026-04-28T16:37:32Z
   Total Products: 235
 - [Mommies Best Mall | Baby Clothes](https://www.mommiesbestmall.com/collections/baby-clothes): We have a range of baby clothes, from 0 months to 36 months. All available online at Mommies Best Mall. Click here to browse and buy.
   Updated: 2026-04-20T18:50:23Z
@@ -7532,7 +7532,7 @@
   Updated: 2026-04-20T18:50:24Z
   Total Products: 158
 - [Recommended products (Seguno)](https://www.mommiesbestmall.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
-  Updated: 2026-04-13T19:02:15Z
+  Updated: 2026-04-28T16:37:32Z
   Total Products: 3503
 - [Find baby kids products under $10 at Mommies Best Mall](https://www.mommiesbestmall.com/collections/under-10): Shop Mommies Best Mall and our $10 store options. We have a large number of baby, toddler and mom essential items for .
   Updated: 2026-04-20T18:50:24Z
@@ -7553,7 +7553,7 @@
   Updated: 2026-04-20T18:50:24Z
   Total Products: 3
 - [Mommies Best Mall | Newest Products](https://www.mommiesbestmall.com/collections/newest-products): We have some new essential baby, newborn and mommy items for you! Shop for your must have items by clicking here.
-  Updated: 2026-04-20T18:50:24Z
+  Updated: 2026-04-28T16:37:32Z
   Total Products: 3540
 - [Get Diapers for your baby from Mommies Best Mall](https://www.mommiesbestmall.com/collections/diapers): Prepare for baby's arrival, or restock your nursery with Mommies Best Mall. Click here to browse and shop your diaper options.
   Updated: 2026-04-20T18:50:24Z
@@ -7628,7 +7628,7 @@
   Updated: 2026-04-20T18:50:26Z
   Total Products: 44
 - [Best  Products](https://www.mommiesbestmall.com/collections/best--products)
-  Updated: 2026-04-13T19:02:15Z
+  Updated: 2026-04-28T16:37:32Z
   Total Products: 3540
 - [Find our most popular products at Mommies Best Mall](https://www.mommiesbestmall.com/collections/featured): Find the best collection of baby and kids clothes and items in our store at Mommies Best Mall, the only place to go if you are looking for clothes and products for your kids online.
   Updated: 2026-04-20T18:50:26Z
@@ -7854,10 +7854,10 @@ Mommies Best Mall
   Updated: 2026-04-20T18:50:30Z
   Total Products: 718
 - [Flowio - Bestseller](https://www.mommiesbestmall.com/collections/flowio-bestseller): Please do not delete! This collection is created automatically when you install Flowio application, and will be used for product recommendation, best seller...inside email marketing campaign. For more information, contact our support team at support@flowio.app
-  Updated: 2026-04-13T19:02:15Z
+  Updated: 2026-04-28T16:37:32Z
   Total Products: 3533
 - [Flowio - New product](https://www.mommiesbestmall.com/collections/flowio-new-product): Please do not delete! This collection is created automatically when you install Flowio application, and will be used for product recommendation, best seller...inside email marketing campaign. For more information, contact our support team at support@flowio.app
-  Updated: 2026-04-13T19:02:15Z
+  Updated: 2026-04-28T16:37:32Z
   Total Products: 3533
 - [Halloween](https://www.mommiesbestmall.com/collections/halloween): Annlorens adorable Halloween outfits for kids. Children's clothes, and toddler clothes.
 Buy the cutest outfits for Halloween now.
@@ -7897,7 +7897,7 @@ Buy the cutest outfits for Halloween now.
   Updated: 2026-04-20T18:50:30Z
   Total Products: 45
 - [Home Security](https://www.mommiesbestmall.com/collections/home-security)
-  Updated: 2026-04-20T18:50:30Z
+  Updated: 2026-04-28T16:37:32Z
   Total Products: 102
 - [Surveillance](https://www.mommiesbestmall.com/collections/surveillance)
   Updated: 2026-04-20T18:50:31Z
@@ -7927,7 +7927,7 @@ Buy the cutest outfits for Halloween now.
   Updated: 2026-04-20T18:50:31Z
   Total Products: 25
 - [Alarm](https://www.mommiesbestmall.com/collections/alarm)
-  Updated: 2026-04-20T18:50:31Z
+  Updated: 2026-04-28T16:37:32Z
   Total Products: 32
 - [Personal Alarm](https://www.mommiesbestmall.com/collections/personal-alarm)
   Updated: 2026-04-20T18:50:31Z
@@ -7948,7 +7948,7 @@ Buy the cutest outfits for Halloween now.
   Updated: 2026-04-20T18:50:31Z
   Total Products: 2
 - [Home Alarms](https://www.mommiesbestmall.com/collections/home-alarms)
-  Updated: 2026-04-20T18:50:32Z
+  Updated: 2026-04-28T16:37:32Z
   Total Products: 13
 - [Gift Basket Special](https://www.mommiesbestmall.com/collections/gift-basket-special): Use this code: Specialgift10 to get 10% off on any products in this collection only.
   Updated: 2026-04-20T18:50:32Z
@@ -8025,6 +8025,9 @@ Buy the cutest outfits for Halloween now.
 - [Thinking Of You Gift Baskets](https://www.mommiesbestmall.com/collections/thinking-of-you-gift-baskets): Nothing says Thinking of you better than one of our amazing Thinking of you gift baskets or gift baskets with one of your loved one's favorite items whether that's wine, chocolate, salty snacks, fruit or something else. We have something to make your gift more meaningful.
   Updated: 2026-04-20T18:50:33Z
   Total Products: 8
+- [Personal Safety](https://www.mommiesbestmall.com/collections/personal-safety)
+  Updated: 2026-04-28T17:20:03Z
+  Total Products: 0
 
 ## Blogs
 
