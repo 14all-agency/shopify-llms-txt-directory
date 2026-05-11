@@ -6,7 +6,7 @@
 - Timezone: America/Denver
 - Created At: 2026-04-17T23:45:10Z
 - Contact Email: hello@foreverlovegifts.com
-- Updated At: 2026-05-02T14:40:30.035Z
+- Updated At: 2026-05-11T00:00:30.322Z
 
 ## Products
 
@@ -3006,6 +3006,22 @@
 - [For Grandson](https://foreverlovegifts.com/collections/for-grandson)
   Updated: 2026-04-25T21:47:28Z
   Total Products: 6
+
+## Blogs
+
+- [News](https://foreverlovegifts.com/blogs/news)
+  - [Gifts That Show How Much You Love Someone](https://foreverlovegifts.com/blogs/news/gifts-that-show-how-much-you-love-someone): Gifts That Show How Much You Love Someone
+    Updated: 2026-05-03T02:14:00Z
+    Author: User
+  - [The Best Heartfelt Gifts for Any Occasion](https://foreverlovegifts.com/blogs/news/the-best-heartfelt-gifts-for-any-occasion): The Best Heartfelt Gifts for Any Occasion
+    Updated: 2026-05-06T00:42:05Z
+    Author: User
+  - [A Beginner's Guide to Choosing the Perfect Gift](https://foreverlovegifts.com/blogs/news/a-beginners-guide-to-choosing-the-perfect-gift): A Beginner's Guide to Choosing the Perfect Gift
+    Updated: 2026-05-09T00:20:29Z
+    Author: User
+  - [How to Make Your Loved Ones Feel Extra Special](https://foreverlovegifts.com/blogs/news/how-to-make-your-loved-ones-feel-extra-special): How to Make Your Loved Ones Feel Extra Special
+    Updated: 2026-05-10T00:41:02Z
+    Author: User
 
 ## Store Pages
 
