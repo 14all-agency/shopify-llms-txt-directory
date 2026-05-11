@@ -10,7 +10,7 @@
 - Contact Email: ekaacouture@gmail.com
 - Contact Phone: 5713150058
 - Address: 3065 C Centreville Road Herndon VA 20171
-- Updated At: 2026-04-30T00:00:43.179Z
+- Updated At: 2026-05-11T00:00:47.464Z
 
 ## Products
 
@@ -2164,19 +2164,19 @@
   - [XL](https://www.moharbyec.com/products/red-and-gold-embroidered-lehenga-choli?variant=45802911465625)
     Availability: Not Available
 - [Multicolor Embroidered Silk Lehenga Choli](https://www.moharbyec.com/products/multicolor-embroidered-silk-lehenga-choli-with-pink-dupatta): Stunning multicolor silk lehenga with yellow & purple panels, silver embroidery & pink dupatta. Perfect for weddings, sangeet & festive celebrations. Ready to ship!
-  Updated: 2026-04-01T19:11:39Z
+  Updated: 2026-05-06T20:21:29Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000170751.jpg?v=1760832417
   - [S](https://www.moharbyec.com/products/multicolor-embroidered-silk-lehenga-choli-with-pink-dupatta?variant=45802912448665)
-    Availability: Available
+    Availability: Not Available
   - [M](https://www.moharbyec.com/products/multicolor-embroidered-silk-lehenga-choli-with-pink-dupatta?variant=45802912481433)
-    Availability: Available
+    Availability: Not Available
   - [L](https://www.moharbyec.com/products/multicolor-embroidered-silk-lehenga-choli-with-pink-dupatta?variant=45802912514201)
-    Availability: Available
+    Availability: Not Available
   - [XL](https://www.moharbyec.com/products/multicolor-embroidered-silk-lehenga-choli-with-pink-dupatta?variant=45802912546969)
-    Availability: Available
+    Availability: Not Available
 - [Navy Blue Embroidered Silk Lehenga Choli](https://www.moharbyec.com/products/navy-blue-embroidered-silk-lehenga-choli-with-gold-detailing): Stunning navy blue silk lehenga with intricate gold embroidery, halter-neck blouse & pleated skirt. Perfect for weddings & festive occasions. Ready to ship!
   Updated: 2026-04-01T19:11:39Z
   Vendor: MOHAR by EKAA COUTURE
@@ -3054,7 +3054,7 @@
   - [XL](https://www.moharbyec.com/products/powder-blue-embroidered-lehenga-with-spaghetti-strap-choli?variant=45859064807577)
     Availability: Not Available
 - [Navy Blue Embroidered Anarkali Gown - Gold Detailing | MOHAR](https://www.moharbyec.com/products/navy-blue-embroidered-anarkali-gown-with-gold-detailing): Stunning navy blue Anarkali gown with intricate gold embroidery, sequin work & elegant sleeves. Perfect for weddings & special occasions. Ready to ship!
-  Updated: 2026-04-01T19:12:26Z
+  Updated: 2026-05-09T04:41:29Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Anarkali
   Availability: Available
@@ -3190,11 +3190,11 @@
   - [2XL](https://www.moharbyec.com/products/mustard-yellow-floral-print-salwar-suit-with-dupatta?variant=45879255826585)
     Availability: Available
 - [Embroidered Lehenga Choli with Gold Border - Maroon & Navy Blue - MOHAR](https://www.moharbyec.com/products/embroidered-lehenga-choli-with-gold-border-maroon-navy-blue): Exquisite lehenga choli with heavy gold embroidery. Available in deep maroon red and navy blue. Perfect for weddings and celebrations. Ready to ship.
-  Updated: 2026-04-26T17:39:57Z
+  Updated: 2026-05-04T03:54:38Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1762710149475.jpg?v=1762802580
+  Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/Photo_1762710150881.jpg?v=1765126781
   - [S / Deep Marron Red Lehenga](https://www.moharbyec.com/products/embroidered-lehenga-choli-with-gold-border-maroon-navy-blue?variant=45879267262617)
     Availability: Not Available
   - [S / Navy Blue Lehenga](https://www.moharbyec.com/products/embroidered-lehenga-choli-with-gold-border-maroon-navy-blue?variant=45879288594585)
@@ -3323,11 +3323,11 @@
   Updated: 2026-04-01T19:08:00Z
   Total Products: 17
 - [Boutique women's clothing in USA | MOHAR](https://www.moharbyec.com/collections/women): Discover your perfect style at MOHAR, the top boutique for women's clothing in the USA. Explore a curated collection of trendy and timeless fashion pieces, designed to elevate your wardrobe. Shop now to experience premium quality and impeccable style.
-  Updated: 2026-04-26T08:26:31Z
-  Total Products: 1167
+  Updated: 2026-05-09T21:15:20Z
+  Total Products: 1192
 - [Indian Lehenga Choli in USA | MOHAR](https://www.moharbyec.com/collections/lehenga): Elevate your style with MOHAR's exquisite collection of Indian Lehenga Choli in the USA. Discover a fusion of tradition and contemporary trends, handcrafted to perfection. Step into the spotlight with our enchanting designs and make heads turn at every event. Shop now!
-  Updated: 2026-04-22T17:31:01Z
-  Total Products: 683
+  Updated: 2026-05-09T21:15:20Z
+  Total Products: 705
 - [Indian Traditional Saree in USA | MOHAR](https://www.moharbyec.com/collections/saree): Experience the grace and beauty of Indian Traditional Sarees at MOHAR - your ultimate destination for ethnic wear in the USA. Browse our handpicked collection of exquisite sarees, each a masterpiece of craftsmanship. Step into the world of elegance and shop now!
   Updated: 2026-04-01T19:08:02Z
   Total Products: 58
@@ -3338,10 +3338,10 @@
   Updated: 2026-01-29T22:41:22Z
   Total Products: 0
 - [Anarkali / Gown](https://www.moharbyec.com/collections/anarkali-gown)
-  Updated: 2026-04-26T08:26:31Z
-  Total Products: 120
+  Updated: 2026-05-09T11:10:50Z
+  Total Products: 123
 - [Year End  in USA | MOHAR](https://www.moharbyec.com/collections/): Celebrate the Year End  in the USA with MOHAR! Enjoy exclusive discounts on our captivating collection of Indian fashion and jewelry. Embrace the elegance of ethnic wear and exquisite designs. Don't miss this limited-time opportunity to elevate your style and save big.
-  Updated: 2026-04-05T17:31:03Z
+  Updated: 2026-05-07T11:12:31Z
   Total Products: 87
 - [Indian Readymade Blouse in USA | MOHAR](https://www.moharbyec.com/collections/blouse): Experience the perfect fit with MOHAR's Indian Readymade Blouse collection in the USA. Explore our handpicked designs, tailored to perfection for a flawless look. From classic to contemporary, find the ideal blouse to complement your sarees or lehengas. Shop now!
   Updated: 2026-04-01T19:08:02Z
@@ -3353,11 +3353,11 @@
   Updated: 2026-01-29T22:41:22Z
   Total Products: 4
 - [Ready to Ship Indian boutique jewelry in USA | MOHAR](https://www.moharbyec.com/collections/ready-to-ship): Adorn yourself with the brilliance of Ready-to-Ship Indian Boutique Jewelry from MOHAR in the USA. Explore our curated collection, featuring exquisite designs handcrafted to perfection. Shop now and experience express delivery.
-  Updated: 2026-04-26T08:26:31Z
-  Total Products: 709
+  Updated: 2026-05-09T21:15:20Z
+  Total Products: 730
 - [Indian boutique Lehenga in USA | MOHAR](https://www.moharbyec.com/collections/lehenga-2): Step into a world of elegance with MOHAR's Indian Boutique Lehenga collection in the USA. Discover exquisite designs and timeless craftsmanship, tailored to perfection. Elevate your style with our stunning lehengas, perfect for weddings and special occasions. Shop now!
-  Updated: 2026-04-22T17:30:32Z
-  Total Products: 653
+  Updated: 2026-05-09T21:14:51Z
+  Total Products: 675
 - [Diwali Diya](https://www.moharbyec.com/collections/diwali-diya): We bring designer diyas for Diwali. Use these with wax tea lights or battery operated lights. Bring the festive celebration to your house!
   Updated: 2026-04-01T19:08:03Z
   Total Products: 5
@@ -3374,8 +3374,8 @@
   Updated: 2026-01-29T22:41:22Z
   Total Products: 0
 - [Lehenga Ready to Ship | Indian dresses in USA | MOHAR](https://www.moharbyec.com/collections/lehenga-ready-to-ship): At MOHAR, find your dream Lehenga Ready to Ship! Explore our stunning collection of Indian dresses in the USA, crafted to perfection. Get ready to dazzle in traditional elegance with a modern twist. Don't wait – shop now and experience express delivery for your special occasions.
-  Updated: 2026-04-26T17:44:47Z
-  Total Products: 120
+  Updated: 2026-05-09T21:15:21Z
+  Total Products: 131
 - [Sherwani Ready to Ship](https://www.moharbyec.com/collections/sherwani-ready-to-ship)
   Updated: 2026-04-23T18:05:48Z
   Total Products: 61
@@ -3386,11 +3386,11 @@
   Updated: 2026-04-13T07:53:36Z
   Total Products: 120
 - [Online Special Indian clothes in USA | MOHAR](https://www.moharbyec.com/collections/online-special): Discover the magic of Online Special Indian Clothes in the USA at MOHAR. Elevate your style with our handpicked collection of exquisite ethnic wear, designed to make you stand out on every occasion. Embrace the essence of India's rich culture and shop now for top-notch quality and unbeatable style.
-  Updated: 2026-04-01T19:08:05Z
-  Total Products: 119
+  Updated: 2026-05-09T20:47:26Z
+  Total Products: 123
 - [Indian Online Lehenga in USA | MOHAR](https://www.moharbyec.com/collections/online-lehenga): Experience the enchanting allure of Indian Online Lehenga at MOHAR - your go-to boutique in the USA. Browse our captivating collection of exquisite designs, blending tradition and modernity. Step into timeless elegance and shop now to turn heads on every occasion.
-  Updated: 2026-04-01T19:08:05Z
-  Total Products: 98
+  Updated: 2026-05-09T20:47:26Z
+  Total Products: 102
 - [Indian Online Gown in USA | MOHAR](https://www.moharbyec.com/collections/online-gown): Experience the charm of Indian Online Gowns in the USA with MOHAR. Explore our exquisite collection, featuring stunning designs that blend tradition and modernity flawlessly. From elegant to opulent, find the perfect gown to make a statement at any event. Shop now!
   Updated: 2026-04-01T19:08:05Z
   Total Products: 1
@@ -3422,8 +3422,8 @@
   Updated: 2026-04-01T19:08:08Z
   Total Products: 0
 - [Products](https://www.moharbyec.com/collections/all)
-  Updated: 2026-04-26T08:26:31Z
-  Total Products: 1569
+  Updated: 2026-05-09T21:15:21Z
+  Total Products: 1594
 - [Co-ord Sets](https://www.moharbyec.com/collections/co-ord-sets)
   Updated: 2026-04-01T19:08:08Z
   Total Products: 0
@@ -3434,8 +3434,8 @@
   Updated: 2026-04-01T19:08:08Z
   Total Products: 0
 - [New Arrivals](https://www.moharbyec.com/collections/new-arrivals)
-  Updated: 2026-04-26T17:44:47Z
-  Total Products: 281
+  Updated: 2026-05-09T21:15:21Z
+  Total Products: 299
 - [bridal lehenga](https://www.moharbyec.com/collections/bridal-lehenga)
   Updated: 2026-04-15T11:07:46Z
   Total Products: 9
@@ -3446,19 +3446,19 @@
   Updated: 2026-04-01T19:08:09Z
   Total Products: 63
 - [Wedding Guests - Women](https://www.moharbyec.com/collections/wedding-guests-women)
-  Updated: 2026-04-26T08:26:31Z
-  Total Products: 202
+  Updated: 2026-05-09T11:10:50Z
+  Total Products: 213
 - [Lehenga under $250](https://www.moharbyec.com/collections/lehenga-under-250)
   Updated: 2026-04-01T19:08:10Z
   Total Products: 31
 - [Sangeet outfits for Ladies Guests](https://www.moharbyec.com/collections/sangeet-outfits-for-guests)
-  Updated: 2026-04-26T08:26:31Z
-  Total Products: 183
+  Updated: 2026-05-09T11:10:50Z
+  Total Products: 186
 - [Sangeet outfit for Men Guests](https://www.moharbyec.com/collections/sangeet-outfit-for-men-guests)
   Updated: 2026-04-01T19:08:10Z
   Total Products: 0
 - [Haldi outfit for Women Guests](https://www.moharbyec.com/collections/haldi-outfit-for-women-guests)
-  Updated: 2026-04-24T18:07:40Z
+  Updated: 2026-05-08T18:05:37Z
   Total Products: 14
 - [Haldi for Men Guests](https://www.moharbyec.com/collections/haldi-for-men-guests)
   Updated: 2026-04-01T19:08:10Z
