@@ -10,7 +10,7 @@
 - Contact Email: info@powerinmotion.ca
 - Contact Phone: 403-233-8841
 - Address: Unit 101 4405 9st SE, T2G 3C8, Calgary AB
-- Updated At: 2026-04-27T00:00:37.753Z
+- Updated At: 2026-05-11T00:00:41.057Z
 
 ## Products
 
@@ -199,7 +199,7 @@
     Availability: Not Available
     Price: $67.00 CAD
 - [Schwalbe - Marathon E-Plus](https://powerinmotion.ca/products/schwalbe-marathon-e-plus): Flat-less especially for E-Bikes. Maximum riding safety at high speeds and on long tours. Highest Marathon quality tires refined for the special demands of an E-Bike. Safety: Schwalbe puncture protection level 7. The patented SmartGuard protection layer is additionally supported by two layers of RaceGuard fabric. This “Smart-DualGuard” protects even better against sharp objects. Control: The ADDIX-E compound, specially developed for the use on E-Bikes, provides outstanding grip even at high speeds and also maximum durability. Riding pleasure: Marathon E-Plus rolls surprisingly well thanks to high-tech materials. The “antiaging” sidewall prevents for much longer the unsightly cracks caused by use with low air pressure. The new carcass construction reinforces the sidewalls with a further layer of fabric and thus stabilizes the tire for even more load capacity. Design: The tread profile of the Marathon E-Plus is modern and dynamic. The E-Plus’s tread depth makes is extremely versatile for touring and trekking. E-Bike: Of course, ECE-R75 certification makes the tires ready for E-Bikes of all classes. The available sizes are consistently geared to the requirements of modern E-Bikes.
-  Updated: 2026-03-31T21:52:11Z
+  Updated: 2026-05-10T00:00:46Z
   Vendor: Live To Play
   Product Type: Bicycle Tires
   Availability: Available
@@ -283,7 +283,7 @@
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/bixpy-default-title-bixpy-transom-adapter-j-2-motors-31100292431972.png?v=1686947831
   Price: $364.99 CAD
 - [SR Suntour - NCX Suspension Seatpost 27.2mm](https://powerinmotion.ca/products/suntour-ncx-suspension-seatpost): The NCX seat post has been engineered and built for years of comfort and performance. The unique and patented parallelogram design allows for smooth small bump compliance with a total of 50mm travel to make for a smooth ride. Comfort, low maintenance, and long-term durability are what this post is all about. The SR SUNTOUR NCX seat post is best in class for performance and value. This is a must-have accessory for any cyclist looking for the ultimate in comfort. Alleviate back pain and saddle soreness. SPECIFICATIONS Latest version 50mm of travel Stainless steel bushings 25mm offset saddle clamp Patented parallelogram suspension design Preload adjustable Internal coil spring for the ultimate in comfort The side clamp has a radial detent with a wide tilt adjustment range Weight 765g Requires 110mm of exposed seat post to the saddle rails for installation Maximum extension of 300mm height for 350mm length Maximum extension of 350mm height for 400mm length Stock standard spring is rated for riders of 140-180lbs +/- Optional hard and soft springs sold separately Optional cover sold separately 7mm rail saddle rail clamp diameter SP12 models are 27.2 and 31.6mm sizes SP17 models are 30.9mm size 2-year manufacturers warranty included Made in Taiwan
-  Updated: 2026-03-31T21:52:21Z
+  Updated: 2026-05-06T19:18:57Z
   Vendor: Suntour
   Product Type: Bicycle Seatposts
   Availability: Available
@@ -672,7 +672,7 @@
     Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/low-profile-thruhull-pedal-drive-adapter-j-2-motors__48724.jpg?v=1707955392
     Price: $234.99 CAD
 - [Service - Tune Ups](https://powerinmotion.ca/products/service-tune-ups): Keep your wheels turning smoothly with our Basic Bike Tune-Up. This comprehensive service includes wheel truing, bearing surface adjustments, gear and brake calibrations, a complete safety check, and tire inspection. Ride confidently, knowing you have optimal performance and security on every outing. Listed price does not include the cost of parts. Service Tiers Safety Check Bolt Check Tire Inflation Component Inspection Brake Inspection Shifter Inspection Basic Tune-Up Everything in Safety Check Drivetrain Tuning Brake Adjustment and Tune Wheel Truing Tire Check / Inflation Drivetrain Lubrication Firmware Update Test Ride Bike Inspection (Assessment on all components on the bike) Bike Wipe Down Standard Tune Everything in Basic Tune-Up Tubeless Sealant Refresh Brake Bleed Includes 3 Spoke Replacements If Needed Pro Tune Everything in Standard Tune Full Bike Deep Clean and Re-Grease
-  Updated: 2026-04-25T16:16:16Z
+  Updated: 2026-05-07T17:27:18Z
   Vendor: Power in Motion
   Product Type: Mechanic Service
   Availability: Available
@@ -711,7 +711,7 @@
     Availability: Not Available
     Price: $55.00 CAD
 - [Service - Wheel, Spoke, services](https://powerinmotion.ca/products/service-wheel-ebike-motor-services): Experience the luxury of having your wheels professionally serviced - from spoke cutting to wheel builds. Our highly skilled technicians are available for an exclusive, rare service, providing competent and cost-effective solutions to your wheel needs. *For Spoke cutting appointment services; Spoke machine set up Spoke and Nipple costs are added to the costs*
-  Updated: 2026-04-25T16:16:16Z
+  Updated: 2026-05-07T16:32:42Z
   Vendor: Power in Motion
   Product Type: Mechanic Service
   Availability: Available
@@ -738,7 +738,7 @@
     Availability: Available
     Price: $45.00 CAD
 - [Service - Brake Services](https://powerinmotion.ca/products/service-brake-services-1): Stay safe with our brake services. Our technicians will take care of all your bike's brake needs, with brake pad replacement, brake adjustment, or a hydraulic brake bleed. Enjoy the luxury of a safe ride, catered to your specific needs. *listed price does not include parts cost*
-  Updated: 2026-04-22T19:44:56Z
+  Updated: 2026-05-07T20:46:55Z
   Vendor: Power in Motion
   Product Type: Mechanic Service
   Availability: Available
@@ -2087,15 +2087,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/TN-Photo-SidekickSeatBelt-GSD-closeup_02_WEB.jpg?v=1709842626
   Price: $55.00 CAD
-- [Tern Clubhouse Seat Pad](https://powerinmotion.ca/products/tern-clubhouse-seat-pad): The Clubhouse Seat Pad provides a comfy seat cushion for one big kid on any of the Clubhouse carriers. Its modular design gives you full freedom to build setups that suit your family’s needs—whether that’s school drop-offs, grocery hauls, or more! Provides a cushioned seat pad for one big kid* on any Clubhouse carrier Combine with the Clubhouse Backrest to create a cozy cabin for one big kid—turn that space into a fun hangout for two by adding an extra seat pad Use with a rear child seat to offer a simple solution for carrying an older kid plus a younger one Ergonomically designed for kiddie comfort Tool-free easy-on, easy-off design for quick transitions between carrying kids and cargo Waterproof for all-weather use—because nobody likes to sit on a wet sponge! *Approx. 5 - 10 years old, 110 - 140 cm (3'7" - 4'7") tall
-  Updated: 2026-03-31T21:53:31Z
-  Vendor: TERN
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/Screenshot2024-03-06at12.08.30PM.png?v=1709842615
-  Price: $55.00 CAD
 - [Tern Clubhouse Backrest](https://powerinmotion.ca/products/tern-clubhouse-backrest): Tern Clubhouse Backrest: Ultimate Comfort and Safety for Your Young Adventurer Elevate your family biking experiences with the Tern Clubhouse Backrest, the perfect complement to the Clubhouse Seat Pad for a fully cushioned, reclining seat that your child will love. Designed specifically for all Clubhouse passenger systems, this backrest ensures that after a day full of activities, your big kid has a comfortable spot to lean back and enjoy the ride home. Ideal for children approximately 5 to 10 years old or 110 to 140 cm (3'7" - 4'7") tall, it's an essential upgrade for any family on the move. Ergonomic Design for Ultimate Comfort: Tailored to fit small backs perfectly, the Clubhouse Backrest is ergonomically designed to provide the utmost comfort for your child. Its thoughtful design supports a natural sitting posture, ensuring a comfortable ride from start to finish. Seamless Transition Between Activities: With a tool-free, easy-on, easy-off design, the Clubhouse Backrest allows for lightning-fast transitions between carrying your kids and converting the space for cargo. This means more time enjoying your adventures and less time fussing with gear. Enhanced Safety Features: Safety is paramount when it comes to family biking, and the Clubhouse Backrest has been designed with this in mind. Reflective accents on the backrest improve your bike's visibility on the road, ensuring a safer ride for you and your family, no matter the time of day. All-Weather Durability: The Clubhouse Backrest is waterproof, ensuring that it's ready for all-weather use. Rain or shine, your child will have a dry, comfortable spot to lean back on, making every ride enjoyable regardless of the weather conditions. The Perfect Pairing: When combined with the Clubhouse Seat Pad, this backrest creates the ultimate backseat setup for your child, providing a cozy, reclining spot on your bike. Whether you're off on a family adventure or simply running errands, your child can ride in comfort and style. The Tern Clubhouse Backrest is more than just a seat accessory; it's a commitment to your child's comfort and safety on every ride. By providing a soft, secure place to lean back and relax, combined with the ease of installation and weatherproof features, it ensures that your family's biking adventures are always a joy. Upgrade your biking setup today with the Tern Clubhouse Backrest and give your child the comfort they deserve on every journey. This product is part of the Tern Passenger System. See what additional accessories are required to safely carry passengers on your bike with the Tern Passenger Guide.
-  Updated: 2026-03-31T21:53:31Z
+  Updated: 2026-05-09T18:07:57Z
   Vendor: TERN
   Product Type: 
   Availability: Available
@@ -2116,7 +2109,7 @@
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/Screenshot2024-03-06at12.31.10PM.png?v=1709842604
   Price: $103.00 CAD
 - [TERN -  Cargo Hold 52 Panniers](https://powerinmotion.ca/products/tern-cargo-hold-52-panniers): The Cargo Hold 52 Panniers are like an extra-roomy trunk for the GSD. With a volume of more than 100 liters per pair, they’re spacious enough for weekly shopping runs, camping adventures, or hauling all your kids’ bags, instruments, and sporting equipment (while your kids are on board, of course). Use in Roll-Top Mode for weather protection, or quickly switch to Bucket Mode for stashing oversized cargo. Two Fidlock® buckles make opening and closing a snap. Holds up to 104 L per pair (52 L per pannier) for hauling heaps of whatever Two Fidlock buckles for hassle-free access to your stuff Weather-resistant roll-top design packs flat for a neat and tidy look, even when loaded Easily converts to Bucket Mode for carrying oversized cargo—stiff design preserves the basket/bucket shape Compatible with (up to 2) child seats* Made with tough, durable, Bluesign® nylon fabric Reflective decals for extra visibility at night Load capacity: 15 kg per bag, 30 kg per pair Folded dimensions: 605 × 335 × 40 mm Roll-top mode dimensions: 605 × 355 × 190 mm *Must be used in Bucket Mode when used with a child seat, and may require a Pannier Adapter. For two child seats, Bucket Mode and two Pannier Adapters are required (The GSD supports two Thule Yepp Maxi child seats).
-  Updated: 2026-03-31T21:53:31Z
+  Updated: 2026-05-09T18:08:01Z
   Vendor: TERN
   Product Type: 
   Availability: Available
@@ -2129,13 +2122,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/Screenshot2024-03-06at12.00.56PM.png?v=1709842615
   Price: $179.00 CAD
-- [TERN - RidePouch - mini bike trunk](https://powerinmotion.ca/products/tern-ridepouch): The RidePouch is like a mini trunk for your bike. Stash here your ride essentials, such as your chain lock or flat tire kit—or you could even use it as a snack holder when you're in a hurry for work or on a school run. Rest assured, you'll save time knowing that your to-go stuff is in one place and within quick reach. One roomy bag with a wide opening for convenient access and zero-fuss storage Stores heavier items such as your chain lock or water bottle Holds multiple smaller items, like a flat tire kit or some snacks for the trip Attaches to standard bottle cage mounts on some Tern accessories, so it won't take up space on the handlebar or handlepost Two bottom drainage holes to let water out in rainy weather Made of water-resistant recycled PET fabric
-  Updated: 2026-03-31T21:53:35Z
-  Vendor: TERN
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/TN-photo-NBD-RidePouch-Hauler-Rack_3-4-close-up_web.jpg?v=1709842626
-  Price: $55.00 CAD
 - [Tern CarryOn Cover 2.0](https://powerinmotion.ca/products/tern-carryon-cover-2-0): An easy-to-use, lightweight cover is an essential accessory for a portable bike. Perfect for trains, subways or buses when you need to bag your bike, the CarryOn Cover helps keep you and others free from grease and grime. Our CarryOn Cover is one of our most popular accessories, and makes it easy to carry or store away your bike. It’s fasts to get on and off, has a comfortable carrying strap and has a built-in storage bag that quickly straps to your bike so it’s always with you when you need it. Cover your bike in seconds—without lifting Quick-fasten internal straps carry the weight of the bike securely Stay-in-place shoulder pad for comfortable carrying Stuffs in own built-in storage bag with a no-slip surface and quick strap so you can mount it to your seatpost, handlepost, rack, or under your seat
   Updated: 2026-03-31T21:53:35Z
   Vendor: TERN
@@ -2207,7 +2193,7 @@
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/21-TN-DuoStandEnd-product_web.jpg?v=1709842903
   Price: $55.00 CAD
 - [Tern Lockstand Extensions](https://powerinmotion.ca/products/tern-lockstand-extensions-1): The Lockstand Extensions are an add-on for the Atlas Lockstand and the DuoStand. They’re designed to make these kickstands even more stable while providing easy access to them at all times. Their extra-wide footprint extends out at a right angle for maximum stability—essential when loading and unloading kids or heavy cargo. They also make it easier to activate the stand when riding with fully-loaded panniers or other accessories (which may make finding the kickstand with your foot a bit tricky). Makes the Atlas Lockstand and the DuoStand even more stable and user-friendly Extends outwards from the kickstand for easier actuation by foot Widens the stand’s footprint for rock-solid loading and unloading of kids or cargo Provides hassle-free stand access while using rear cargo accessories Strong, tubular construction designed to withstand heavy loads Rubberized feet protect indoor flooring and are replaceable when lost or worn DuoStand Ends required for installation on DuoStand Find compatible bikes here
-  Updated: 2026-03-31T21:53:47Z
+  Updated: 2026-05-09T18:07:57Z
   Vendor: TERN
   Product Type: 
   Availability: Available
@@ -2235,7 +2221,7 @@
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/21-TN-LockstandQuadstruts-open-34rear_web-v03.jpg?v=1709842600
   Price: $60.00 CAD
 - [TERN -  Bike Tow Kit - Tow a bike up to 66lbs with a GSD G2, Requires Tail Hitch L/XL](https://powerinmotion.ca/products/tern-bike-tow-kit): With the Bike Tow Kit, you can bring an extra bike along for any ride! Bring your mountain or road bike on your camping weekend, or tow your kid's bike on longer stretches of the trip. Designed for towing a bike without its rider—your riding buddy gets to become everyone’s favorite backseat driver as they chill and take in all the action from your passenger seat. The Kit keeps the towed bike away from the passenger—giving them ample space to travel in comfort, and giving you more space for cargo on your GSD. Turns your GSD Gen 2 into a tow truck for bringing most kid or -sized bikes With their bike in tow, your riding buddy arrives at the destination, fresh and ready to go! Keeps your bike stable and easy to maneuver when towing a heavier e-bike uphill or on winding roads Offers a much safer and cleaner alternative to the bag-and-drag method for carrying your kid's bike Includes multiple tube sizes to fit most fork spacings Passed safety testing by EFBE Prüftechnik for a load limit of 30 kg (66 lb) Requires the Tern Tail Hitch L for installation
-  Updated: 2026-03-31T21:53:51Z
+  Updated: 2026-04-29T20:49:25Z
   Vendor: TERN
   Product Type: 
   Availability: Available
@@ -2263,7 +2249,7 @@
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/FF98C56B-CB53-45C1-90CC-8202AD974899.jpg?v=1718404013
   Price: $26.00 CAD
 - [Topeak Omni Quicktrack Adapter large](https://powerinmotion.ca/products/topeak-omni-quicktrack-adapter): OMNI QUICKTRACK RACK ADAPTER - LARGE Adapter attaches to a standard rear rack allowing the use of popular Topeak TrunkBags and rear baskets. Fits rear rack tubes from 10mm to 12mm diameter Adjustable mounting brackets accommodate rear rack width 4 adjustable mounting positions fit different length of rear racks Platform compatible with Topeak MTX and MTX 2.0 / RX TrunkBags and Topeak baskets Available in two sizes (Standard size: sku 171195-01) Standard (TA2406): Rear rack width 9 - 12 cm Large (TA3001): Rear rack width 12 - 16cm
-  Updated: 2026-03-31T21:53:54Z
+  Updated: 2026-04-29T14:29:36Z
   Vendor: Live To Play
   Product Type: 
   Availability: Available
@@ -2393,7 +2379,7 @@
   Availability: Available
   Price: $18.00 CAD
 - [Service - Segway Ninebot Tires](https://powerinmotion.ca/products/service-segway-ninebot-scooter-services-1): As a dealer of Segway Ninebot Scooters, we can provide service on all Segway Ninebot models of scooters, from brakes to diagnostics, to tire changes. Visit us today to set up an appointment! *listed price does not include parts cost*
-  Updated: 2026-04-22T17:19:27Z
+  Updated: 2026-05-05T23:42:07Z
   Vendor: Power in Motion
   Product Type: Mechanic Service
   Availability: Available
@@ -2419,7 +2405,7 @@
   Price: $45.00 CAD
 - [KMC
 Z7 6 – 7-Speed Chain](https://powerinmotion.ca/products/kmc-z7-6-7-speed-chain): Z7 is a basic, affordable replacement chain for use on 6 and 7 speed bikes.- Features inner plate chamfering to smooth shifting- Z-bridge shape
-  Updated: 2026-03-31T21:54:55Z
+  Updated: 2026-04-29T02:21:27Z
   Vendor: KMC
   Product Type: 
   Availability: Available
@@ -2493,15 +2479,8 @@ Z7 6 – 7-Speed Chain](https://powerinmotion.ca/products/kmc-z7-6-7-speed-chain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/TN-photo-StowDecks-Orox_S12-CH72-full-web_jpg_106a52fb-80be-4670-a07b-29ece7b15c5e.webp?v=1715710812
   Price: $441.00 CAD
-- [TERN - Captain's Chair (Gen 2) - Let older kids and adults ride on the back of a GSD, HSD, QH, or SH in comfort and style](https://powerinmotion.ca/products/captains-chair-gen-2): A long-term favorite, the Captain's Chair is now upgraded with a wider seat pad for more wiggle room, longer side rails for more protection, and dedicated space for you to carry more stuff. Still the best seat in the house, it lets big kids and adults ride along with even more fun! This product is designed to carry either passengers or cargo. If carrying passengers, additional accessories are required for safety. Check out our Passenger Guide to learn more: PASSENGER GUIDE CARGO GUIDE Extra-wide seat pad for a cozier sitting position Longer side rails to use as handholds or armrests Additional rear bar to attach a bag, basket, or extra safety lights Offers space for a box or crate when paired with the Sidekick Joyride Bars Designed to fit one  passenger or two kids on the GSD Designed to fit one passenger on the HSD, Quick Haul, and Short Haul Find compatible bikes here
-  Updated: 2026-03-31T21:55:10Z
-  Vendor: Tern
-  Product Type: Bike Child Seat
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/TN-photo-captains_chair_gen2-GSD-f34-web.jpg?v=1729202527
-  Price: $379.00 CAD
 - [Hub Motor Conversion Kit with Water Bottle Battery - Installation Included](https://powerinmotion.ca/products/hub-motor-conversion-kit-with-water-bottle-battery-installation-included)
-  Updated: 2026-04-10T18:54:27Z
+  Updated: 2026-05-08T18:35:16Z
   Vendor: Power in Motion
   Product Type: Conversion Kit
   Availability: Available
@@ -2559,7 +2538,7 @@ Z7 6 – 7-Speed Chain](https://powerinmotion.ca/products/kmc-z7-6-7-speed-chain
     Availability: Available
     Price: $1,809.99 CAD
 - [500W Hub Motor Conversion Kit with Downtube Battery - Installation Included](https://powerinmotion.ca/products/500w-hub-motor-conversion-kit-with-downtube-battery-installation-included)
-  Updated: 2026-03-31T21:55:10Z
+  Updated: 2026-05-08T16:44:17Z
   Vendor: Power in Motion
   Product Type: Conversion Kit
   Availability: Available
@@ -2597,7 +2576,7 @@ Z7 6 – 7-Speed Chain](https://powerinmotion.ca/products/kmc-z7-6-7-speed-chain
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/7A964FFD-5B11-4DF9-9237-2023377DD082.jpg?v=1718222091
   Price: $55.00 CAD
 - [Surface604 - V Rook (HUB)](https://powerinmotion.ca/products/surface604-v-rook-hub): Introducing the 2025 Surface 604 V-Shape Rook—a step-thru commuter eBike meticulously crafted for daily riders seeking enhanced comfort, power, and functionality. Elegant Step-Thru Design The V-Shape Rook features a beautifully designed step-thru frame, providing an even lower stand-over height for effortless mounting and dismounting. This thoughtful design ensures accessibility and convenience for riders of varying heights. Powerful 500W Motor Equipped with a BAFANG 48V 500W electric motor, the V-Shape Rook is purpose-built for speed and power. Paired with an industry-leading 12mosfet 25A controller, this motor delivers quiet and consistent power distribution at any speed, allowing you to tackle steep hills and urban commutes with ease. Long-Range Battery The V-Shape Rook offers a high-capacity 48V 20Ah (960Wh) Samsung lithium-ion battery, providing a range of up to 65 miles (105 km) per charge. The battery includes a USB plug for on-the-go device charging and a capacity indicator button for added convenience. Whisper-Smooth Torque Sensing Pedal Assist Featuring a world-class torque sensing pedal assist system, the V-Shape Rook delivers precision performance by sampling at 1,000 times per second. This technology intuitively matches your pedaling effort with proportional power, offering a natural and responsive riding experience. Custom Front Rack Included The V-Shape Rook comes with a custom-built front rack, designed specifically for this model. It features a removable wooden panel and two water bottle cage mounts, capable of holding up to 20 kg (45 lbs), enhancing the bike's utility for carrying essentials during your commute. Enhanced Safety and Comfort Features Tires: 27.5" x 2.4" custom Surface 604 tires with 3mm "Green Shield" puncture protection technology, offering 40% more resistance to punctures than standard tires. Brakes: Tektro Auriga hydraulic disc brakes with 180mm rotors, ensuring reliable stopping power in various conditions. Drivetrain: Shimano Alivio 9-speed groupset for smooth and precise gear shifts. Saddle: Selle Royal ergonomic gel saddle, providing superior comfort for city and touring use. Lighting: Fully integrated, bright Büchel "Shiny 120" LED front headlight and rear LED light for enhanced visibility during night rides. The 2022 Surface 604 V-Shape Rook combines elegant design with advanced technology, offering a comfortable and efficient e-bike experience tailored for urban commuters and recreational riders alike.
-  Updated: 2026-04-03T10:05:46Z
+  Updated: 2026-05-09T23:29:54Z
   Vendor: Surface604Bikes
   Product Type: Electric Comfort Bike
   Availability: Available
@@ -2605,56 +2584,56 @@ Z7 6 – 7-Speed Chain](https://powerinmotion.ca/products/kmc-z7-6-7-speed-chain
   - [Black / 17.35" (5'2"-5'7" Rider) / 48v 20Ah](https://powerinmotion.ca/products/surface604-v-rook-hub?variant=45145320849508)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/ROOK-V-BLK_01-2800x1900-Shadows-PNG_1600x_fcaac593-2b00-4c43-a295-50174e70ac9b.webp?v=1775167598
-    Price: $2,700.00 CAD
+    Price: $2,600.00 CAD
   - [Black / 19.5" (5'8"-6'6" Rider) / 48v 20Ah](https://powerinmotion.ca/products/surface604-v-rook-hub?variant=45145320882276)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/ROOK-V-BLK_01-2800x1900-Shadows-PNG_1600x_fcaac593-2b00-4c43-a295-50174e70ac9b.webp?v=1775167598
-    Price: $2,700.00 CAD
+    Price: $2,600.00 CAD
   - [White / 17.35" (5'2"-5'7" Rider) / 48v 20Ah](https://powerinmotion.ca/products/surface604-v-rook-hub?variant=45145320980580)
-    Availability: Available
-    Price: $2,700.00 CAD
+    Availability: Not Available
+    Price: $2,600.00 CAD
   - [White / 19.5" (5'8"-6'6" Rider) / 48v 20Ah](https://powerinmotion.ca/products/surface604-v-rook-hub?variant=45145321013348)
     Availability: Available
-    Price: $2,700.00 CAD
+    Price: $2,600.00 CAD
 - [Surface604 - Colt (Hub)](https://powerinmotion.ca/products/surface604-colt-hub): Introducing the 2025 Surface 604 Colt—a comprehensive, do-it-all commuter eBike designed to offer slick, agile riding in a comfortable position. Redesigned Cruiser Handlebar The Colt features a swept-back, cruiser-style handlebar measuring 710mm in width with a 30mm rise and a 15-degree sweep. This design promotes a more comfortable, upright riding position, reducing strain on your back and shoulders during commutes or leisurely rides. Ergonomic Gel Saddle Equipped with the Selle Royal "Essenza Plus" saddle, adjustable up to 9 degrees, the Colt ensures superior flexibility and shock absorption. Designed for city and touring use, this saddle provides optimal comfort on every journey. Advanced Torque Sensing Pedal Assist The bike's world-class torque sensing pedal assist system delivers precision performance, sampling at 1,000 times per second. This technology intuitively matches your pedaling effort with proportional power, offering a natural and responsive riding experience. Powerful 500W Motor At its core, the Colt houses a 48V 500W electric motor, purpose-built for speed and power. Paired with an industry-leading 12mosfet 25A controller, this motor provides quiet and consistent power distribution at any speed, allowing you to effortlessly navigate various terrains. Long-Range Battery Offering a high-capacity 48V 20Ah (960Wh) Samsung lithium-ion battery, the Colt provides a range of up to 65 miles (105 km) per charge. The battery includes a USB plug for on-the-go device charging and a capacity indicator button for convenience. Key Specifications Tires: 27.5" x 2.4" custom Surface 604 Panaracer tires with puncture protection and reflective sidewalls for enhanced visibility and stability. Brakes: Tektro Auriga hydraulic disc brakes with motor inhibitors and 180mm rotors, ensuring reliable stopping power. Drivetrain: Shimano Alivio 9-speed groupset for smooth and precise gear shifts. Display: Large fixed-color LED display with USB jack, providing easy access to ride metrics and settings. Lighting: Redesigned headlight positioning with a BÜCHEL "Secu Forte" ebike LED headlight delivering 150 lumens for enhanced visibility. The 2022 Surface 604 Colt combines thoughtful design with advanced technology, offering a comfortable and efficient e-bike experience for urban commuters and recreational riders alike.
-  Updated: 2026-04-23T23:35:45Z
+  Updated: 2026-05-09T23:29:37Z
   Vendor: Surface604Bikes
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/Colt_1600x1600_no_stretch.png?v=1775166030
   - [Black / 17.35" (5'2"-5'7" Rider) / 48v 20Ah](https://powerinmotion.ca/products/surface604-colt-hub?variant=45145386156132)
     Availability: Available
-    Price: $2,700.00 CAD
+    Price: $2,600.00 CAD
   - [Black / 19.5" (5'8"-6'6" Rider) / 48v 20Ah](https://powerinmotion.ca/products/surface604-colt-hub?variant=45145386188900)
     Availability: Not Available
-    Price: $2,700.00 CAD
+    Price: $2,600.00 CAD
 - [Surface604 - Shred](https://powerinmotion.ca/products/surface604-shred): Introducing the 2025 Surface 604 Shred—a hardtail electric mountain bike engineered for riders seeking power, precision, and performance on every trail. Powerful 500W Motor At its core, the Shred boasts a purpose-built Bafang 500W 48V electric motor, delivering a surge of quiet, consistent power distribution at higher speeds without vibration. Paired with an industry-leading 12mosfet 25A controller, the Shred offers unmatched torque and speed, ensuring you conquer steep hills and challenging terrains with ease. Whisper-Smooth Torque Sensing Pedal Assist Equipped with an advanced torque sensor, the Shred intuitively matches your pedaling effort in real-time, providing a natural and responsive riding experience. The custom dropout design ensures a seamless assist at any level, delivering a sensation comparable to mid-drive motors. Redesigned Cockpit The Shred features an extra-large 3.5" color LCD display, presenting all vital information at a glance. For added security, set a passcode to prevent unauthorized use, similar to your smartphone. Long-Range Battery Choose between two high-capacity Samsung lithium-ion battery options: 48V20Ah (960Wh): Provides an extended range of up to 65 miles (105 km) per charge. Both batteries feature a USB plug for on-the-go device charging and a capacity indicator button for convenience. Key Specifications Suspension Fork: SR Suntour XCM 32, 29ER with 100mm travel and thru-axle hub. Tires: CST Patrol 27.5" x 2.8" for enhanced stability and traction. Brakes: Tektro hydraulic quad-piston disc brakes, eMTB specific, with motor inhibitors for reliable stopping power. Drivetrain: SRAM X5 9-speed for smooth and precise gear shifts. Saddle: Selle Royale ergonomic gel saddle for optimal comfort during extended rides. Lighting: Powerful Büchel "Shiny 120" LED front light included; rear LED light optional. The 2022 Surface 604 Shred combines cutting-edge technology with robust durability, offering an exceptional eMTB experience for adventurers ready to tackle diverse terrains.
-  Updated: 2026-04-03T10:26:51Z
+  Updated: 2026-05-09T23:29:06Z
   Vendor: Surface604Bikes
   Product Type: Electric Mountian Bike
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/SHRED_1600x1600_no_stretch.png?v=1775167115
   - [Black / Baby Shred (4’8” - 5’7”) / 48v 20Ah](https://powerinmotion.ca/products/surface604-shred?variant=45845325054052)
     Availability: Available
-    Price: $2,900.00 CAD
+    Price: $3,200.00 CAD
   - [Black / 17.35" (5'2"-5'7" Rider) / 48v 20Ah](https://powerinmotion.ca/products/surface604-shred?variant=45145555894372)
     Availability: Not Available
-    Price: $2,900.00 CAD
+    Price: $3,200.00 CAD
   - [Black / 19.5" (5'8"-6'6" Rider) / 48v 20Ah](https://powerinmotion.ca/products/surface604-shred?variant=45145555927140)
     Availability: Available
-    Price: $2,900.00 CAD
+    Price: $3,200.00 CAD
 - [Surface604 - Boar Explorer](https://powerinmotion.ca/products/surface604-boar-explorer): Introducing the Surface 604 Boar Explorer—a versatile fat-tire electric bike designed for outdoor enthusiasts seeking adventure across diverse terrains. Powerful 500W Motor At its core, the Boar Explorer features a Bafang 500W 48V electric motor, delivering a surge of quiet, consistent power at higher speeds without vibration. Paired with an industry-leading 12mosfet 25A controller, the Boar Explorer offers unmatched torque and speed, ensuring you conquer steep hills and challenging terrains with ease. Whisper-Smooth Torque Sensing Pedal Assist Equipped with an advanced torque sensor, the Boar Explorer intuitively matches your pedaling effort in real-time, providing a natural and responsive riding experience. The custom dropout design ensures a seamless assist at any level, delivering a sensation comparable to mid-drive motors. Redesigned Cockpit The Boar Explorer features an extra-large 3.5" color LCD display, presenting all vital information at a glance. For added security, set a passcode to prevent unauthorized use, similar to your smartphone. Long-Range Battery Offering a high-capacity 48V20Ah (960Wh) Samsung lithium-ion battery, the Boar Explorer provides a range of up to 65 miles (105 km) per charge. The battery features a USB plug for on-the-go device charging and a capacity indicator button for convenience. Key Specifications Tires: Maxxis Colossus 27.5" x 4.5" EXO TR for enhanced stability and traction. Brakes: Tektro Auriga hydraulic disc brakes with 180mm rotors for reliable stopping power. Drivetrain: Shimano Alivio 9-speed for smooth and precise gear shifts. Saddle: Selle Royal "Nebula" gel saddle for optimal comfort during extended rides. The Surface 604 Boar Explorer combines cutting-edge technology with robust durability, offering an exceptional e-bike experience for adventurers ready to tackle diverse terrains.
-  Updated: 2026-04-03T10:27:43Z
+  Updated: 2026-05-09T23:27:35Z
   Vendor: Surface604Bikes
   Product Type: Electric Fat Bike
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/BOAR-SM_01-Shadows-2800x1900_3000x_1ee9fc05-02d5-4113-8695-9c2dd486872a.webp?v=1773529919
   - [Green / 17.35" (5'2"-5'7" Rider) / 48v 20Ah](https://powerinmotion.ca/products/surface604-boar-explorer?variant=45145611075684)
     Availability: Available
-    Price: $3,199.00 CAD
+    Price: $3,200.00 CAD
   - [Green / 19.5" (5'8"-6'6" Rider) / 48v 20Ah](https://powerinmotion.ca/products/surface604-boar-explorer?variant=45145611108452)
     Availability: Not Available
-    Price: $3,199.00 CAD
+    Price: $3,200.00 CAD
 - [Riese & Muller - Nevo](https://powerinmotion.ca/products/riese-muller-nevo): Riese & Müller Nevo: A Timeless Classic with Bosch System 2 Precision The Riese & Müller Nevo series redefines premium e-bike craftsmanship, combining elegant step-through design with Bosch System 2 technology for unmatched performance and reliability. Designed for discerning riders, the Nevo series offers a range of trims to suit varied preferences, all delivering a ride that’s both powerful and luxurious. Nevo GT Touring The entry point to the Nevo lineup, the GT Touring, blends sophistication with performance. Powered by the Bosch Performance Line CX motor, it offers 85 Nm of torque for seamless assistance on all terrains. The integrated 500 Wh PowerTube battery provides ample range for city commutes or weekend adventures. The Shimano Deore 10-speed drivetrain ensures precision and reliability, while the Bosch Intuvia display offers intuitive control and ride data. Nevo GT Vario For those seeking effortless riding, the GT Vario delivers unparalleled smoothness. Its Enviolo Trekking hub and Gates Carbon Belt Drive allow for stepless shifting and a maintenance-free experience. This trim is ideal for riders who value convenience and durability, offering a ride that’s quiet, clean, and reliable, whether on urban roads or country trails. Nevo GT Automatic The GT Automatic introduces the revolutionary Enviolo Automatiq shifting system, which automatically adjusts to your cadence and terrain for a fully intuitive ride. Paired with the Gates Carbon Belt Drive, this trim represents the pinnacle of convenience and innovation. Designed for riders who want effortless control, the GT Automatic makes every journey as smooth as it is enjoyable. Nevo GT Rohloff At the pinnacle of the Nevo series, the GT Rohloff features the world-renowned Rohloff E-14 electronic shifting hub. With 14 gears and lightning-fast electronic shifting, this trim offers unmatched precision and efficiency. The Gates Carbon Belt Drive ensures long-lasting performance, and the DualBattery 1,000 Wh option extends your range to handle even the most ambitious touring plans. For riders who demand the absolute best, the GT Rohloff is a true masterpiece of engineering. Unifying Features Across the Nevo Series Every Nevo model is powered by the Bosch Performance Line CX motor, delivering dynamic assistance with unparalleled responsiveness. The integrated Bosch PowerTube battery ensures a clean aesthetic and reliable performance across all trims. Safety is paramount, with Magura MT4 hydraulic disc brakes, Schwalbe Marathon Plus tires with puncture protection, and integrated lighting ensuring confidence in all conditions. Ergonomic touchpoints, such as the Selle Royal saddle and Humpert handlebars, deliver exceptional comfort for every journey. Find Your Perfect Nevo From the accessible sophistication of the GT Touring to the precision and performance of the GT Rohloff, the Nevo series offers a configuration for every rider. With Bosch System 2 at its heart, the Riese & Müller Nevo embodies timeless elegance and cutting-edge innovation, delivering an e-bike experience that’s second to none.
   Updated: 2026-03-31T21:55:17Z
   Vendor: Power in Motion
@@ -2677,40 +2656,40 @@ Z7 6 – 7-Speed Chain](https://powerinmotion.ca/products/kmc-z7-6-7-speed-chain
   Updated: 2026-04-26T11:03:47Z
   Total Products: 23
 - [Top Electric Bikes in Calgary | iGo, Tern, R&M E-Bikes](https://powerinmotion.ca/collections/electric-bikes): Explore the best electric bikes for  in Calgary, Alberta. Find top brands like iGo, Tern, and Riese & Müller. Whether you need commuter, mountain, folding, or cargo e-bikes, we offer quality and performance. Shop now with expert support and nationwide shipping across Canada. Get the perfect electric bike today!
-  Updated: 2026-04-24T11:03:58Z
+  Updated: 2026-05-10T11:04:07Z
   Total Products: 41
 - [Best Electric Bike Conversion Kits For  in Canada](https://powerinmotion.ca/collections/electric-bike-conversion-kits): Explore the best electric bike conversion kits in Canada, including Bafang and mid-drive options. Convert your bike with our top-rated kits, including your choice of 36v, 48v & 52v batteries. Learn how to install and discover if electric bike conversion kits are worth it. Shop now at Power In Motion.ca!
-  Updated: 2026-04-23T11:04:16Z
+  Updated: 2026-05-09T11:04:31Z
   Total Products: 9
 - [Fat Tire](https://powerinmotion.ca/collections/fat-bikes): Fat Bikes are ideal for the all-season rider, whether you’re looking for a winter adventure in the mountains or trying to make it to work in 15cm of fresh snow.  The wide tire provides increased traction and grips the road in slushy and slippery conditions.  Fat Bikes can also be equipped with studded tires for the ultimate winter riding experience!
-  Updated: 2026-04-19T11:05:42Z
+  Updated: 2026-05-09T23:28:14Z
   Total Products: 3
 - [Standard Bikes](https://powerinmotion.ca/collections/standard-bikes)
   Updated: 2025-02-23T00:05:11Z
   Total Products: 0
 - [Bike Accessories | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/all-parts-accessories): Accessories from Rocklock, Suntour Selle Royal, 49N, Ergon Thule, Tern, Montague, and more. From break pads, tubes, seat posts, seats, helmets, locks, water bottle holders and more. Check out Power in Motion and personalize your bike today! Disocunted / Free Shipping Rates from Power In Motion to | Ontario | Quebec | British Columbia | Alberta | New Brunswick | Nova Scotia |Prince Edward | Manitoba Saskatchewan | Newfoundland & Labrador | Compact Folding Bike | Pavement / City / Road Folding Bike | Pavement / City / Road Folding Electric Bike | Dahon | Tern | Montague | Link D8 | Link A7 | Paratrooper | Boston | Urban | Paratrooper Pro | Electric Bike | Ebike | iGO | IGO | igo | Surface 604 | Smartmotion | Paddleboard | Kayak | Conoe | Raft | Inflatable | Aqua Marina | Conversion | Hub Motor | Mid Drive Moter | 500w | 750w | 1000w | 250w | Power In Motion | Calgary | Ottawa, Canada | St. John's, Newfoundland and Labrador | Halifax, Nova Scotia | Fredericton, New Brunswick | Charlottetown, Prince Edward Island | Québec, Quebec | Toronto, Ontario | Winnipeg, Manitoba | Regina, Saskatchewan | Edmonton, Alberta | Victoria, British Columbia | Iqaluit, Nunavut | Yellowknife, Northwest Territories | Whitehorse, Yukon
-  Updated: 2026-04-19T11:05:42Z
+  Updated: 2026-05-10T11:04:07Z
   Total Products: 137
 - [Sales &  Items | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/sales--items): Looking for a ? Or in the mood to save some money. Check out Power In Motion's  section to get a  on everything from E-bikes to speakers. These deals won't stay long so don't wait! Come visit Power In Motion today!
   Updated: 2026-04-24T20:43:26Z
   Total Products: 18
 - [All Products | Power In Motion | Calgary | Alberta | Canada](https://powerinmotion.ca/collections/all-products): Electric Bikes, Folding Bikes, Electric Skateboards, Electric Scooters, Bike Accessories, Electric bike conversions and more! At Power In Motion you are  to find a product that will suit your needs with a reasonable price, and high quality from your favorite brands all from all around the biking world. Check out Power In Motion and revolutionize your ride today! Power In Motion | Calgary | Canada | Surface 604 | Tern | Montague | iGO | Electric Bikes | Ebikes | Electric Skateboards | Electric Scooters | Folding Bikes | Segway | Ninebot | Segway Ninebot | Michael Blast | T4B | Topeak |Shirmano | Dahon | Easymotion | Schwalbe | Thule | Selle Royal | Conversion Kit | Bafang | Hub Motor Conversion Kit | Mid-Drive Conversion Kit | Helmet | Bike Helmet | Bike Fenders | City | Urban | Old |
-  Updated: 2026-04-26T11:03:47Z
-  Total Products: 886
+  Updated: 2026-05-10T11:04:07Z
+  Total Products: 881
 - [iGO Electric Bikes | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/igo-bikes): Power In Motion | PIM | iGo | Berri | Bonaventure | Atwater | Outland Royal | Oka | Laurentian  | Vendome | Extreme 3.0 | Camillien | Electric Bikes | Folding Bikes | Folding Electric Bike | Electric Mountain Bike | Toronto, Ontario | Winnipeg, Manitoba | Regina, Saskatchewan | Edmonton, Alberta | Victoria, British Columbia
   Updated: 2026-04-18T17:48:10Z
   Total Products: 8
 - [Surface 604 Bikes | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/surface-604-bikes): Surface 604 electric bikes are high quality entry level bikes. With a smooth natural acceleration in combination with powerful hub motors. Surface 604 bikes make every ride easy and fun no matter if your located in the city, or in a more rural town. Their bikes all come with high quality breaks, snifters, front suspension, seats and more. Come learn more about Surface 604 at Power In Motion Today! Surface 604 | Rook | Colt | Shred | Boar Hunter | City electric bikes | For  | Calgary | Canada | Shipping | Canada Wide Shipping | Bikes | electric bikes | Commuter | Safest |
-  Updated: 2026-04-24T11:03:58Z
+  Updated: 2026-05-10T11:04:07Z
   Total Products: 12
 - [Tern Folding Bikes for  Canada | Compact & Electric Options](https://powerinmotion.ca/collections/tern-folding-bikes-canada): Discover Tern folding bikes in Canada, including the Tern GSD, HSD, Quick Haul, Vektron, Link, Verge and more models. Explore our selection of foldable electric bikes, perfect for commuting and travel. Shop compact, portable, and lightweight folding bikes for adults at Power In Motion. Get your Tern ebike fold up today
-  Updated: 2026-04-23T11:04:16Z
+  Updated: 2026-05-10T11:04:07Z
   Total Products: 32
 - [Montague Folding Bikes in Canada | Foldable Mountain & Road Bicycles](https://powerinmotion.ca/collections/montague-folding-bikes-canada): Discover premium Montague folding bikes in Calgary, Canada. Shop our range of foldable mountain and road bikes, including electric bicycles. Explore lightweight, compact designs perfect for adults. Find the best folding e-bikes, racing bikes, and more at Power In Motion. Buy now for unbeatable prices.
   Updated: 2026-04-26T11:03:47Z
   Total Products: 12
 - [All Bikes | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/all-bikes): Folding Bikes, Mountain Bikes, Fat Bikes , City Bikes , Cruiser Bikes, Electric Bikes, and more. From popular brands like Surface 604, Tern, iGO, Montague, Michael Blast, Del Sol, Evo, and more. With prices ranging from cheap, to expensive to cover any budget. At Power in Motion Calgary your bound to find a bike perfect for you! Ontario | Quebec | British Columbia | Alberta | New Brunswick | Nova Scotia |Prince Edward | Manitoba Saskatchewan | Newfoundland & Labrador
-  Updated: 2026-04-26T11:03:47Z
+  Updated: 2026-05-10T11:04:07Z
   Total Products: 48
 - [Best Segway Escooters in Calgary | Top Electric Scooters in Canada](https://powerinmotion.ca/collections/segway-escooters-calgary-canada): Discover the best Segway escooters in Calgary, available for purchase in Canada. Whether you're looking for an electric scooter for daily commutes or searching for the best escooter near you, find top-rated options at competitive prices. Learn where to buy and how much escooters cost.
   Updated: 2026-02-06T12:04:01Z
@@ -2725,10 +2704,10 @@ Z7 6 – 7-Speed Chain](https://powerinmotion.ca/products/kmc-z7-6-7-speed-chain
   Updated: 2024-03-11T23:20:43Z
   Total Products: 0
 - [Bafang Motor Kits](https://powerinmotion.ca/collections/bafang-motor-kits)
-  Updated: 2026-04-11T11:05:17Z
+  Updated: 2026-05-09T11:04:31Z
   Total Products: 5
 - [Electric Bike Batteries](https://powerinmotion.ca/collections/electric-bike-batteries)
-  Updated: 2026-04-23T11:04:16Z
+  Updated: 2026-05-09T11:04:31Z
   Total Products: 18
 - [Del Sol Cruiser Bikes | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/del-sol-standard-bikes)
   Updated: 2024-10-06T01:01:50Z
@@ -2740,7 +2719,7 @@ Z7 6 – 7-Speed Chain](https://powerinmotion.ca/products/kmc-z7-6-7-speed-chain
   Updated: 2025-02-23T00:14:33Z
   Total Products: 6
 - [Comfort Electric Bikes](https://powerinmotion.ca/collections/comfort-electric-bikes)
-  Updated: 2026-04-24T20:43:26Z
+  Updated: 2026-05-09T23:29:38Z
   Total Products: 12
 - [Mountain Electric Bikes](https://powerinmotion.ca/collections/mountain-electric-bikes)
   Updated: 2026-04-15T22:33:06Z
@@ -2752,25 +2731,25 @@ Z7 6 – 7-Speed Chain](https://powerinmotion.ca/products/kmc-z7-6-7-speed-chain
   Updated: 2026-04-19T11:05:42Z
   Total Products: 6
 - [Electric Fat Bikes | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/fat-bike-electric): A powerful all-terrain vehicle in the form of a bike. Ride through every obstacle and power up hills. Not even the Alberta backroads will be able to challenge you on one of the electric fat bikes sold in our Calgary location. We ship all across Canada! Ontario | Edmonton | Electric Bike | Electric Fat bike | Fat Bike | AB
-  Updated: 2026-04-19T11:05:42Z
+  Updated: 2026-05-09T23:28:14Z
   Total Products: 6
 - [Top Electric Cargo Bikes in Canada | Tern & Riese and Muller](https://powerinmotion.ca/collections/electric-cargo-bikes-canada): Explore top electric cargo bikes for  in Canada, including Tern and Riese and Muller models. Discover versatile options like the Tern HSD S00, Quick Haul, and Riese and Muller Load 75. Shop the best electric bikes for cargo transport at Power In Motion. Find your perfect e-bike today with shipping all across Canada
-  Updated: 2026-04-23T11:04:16Z
+  Updated: 2026-05-10T11:04:07Z
   Total Products: 27
 - [20”, 26”, & 700c Folding Bikes for  in Calgary](https://powerinmotion.ca/collections/folding-bikes): Explore the best folding bikes in Calgary, including Tern and Montague models. Whether you need a compact, foldable bike for commuting or a lightweight foldable bicycle for travel, find the perfect fold up bike for adults and beginners at Power In Motion. With shipping all across Canada!
-  Updated: 2026-04-26T11:03:47Z
+  Updated: 2026-05-10T11:04:07Z
   Total Products: 16
 - [Comfort - Non Electric](https://powerinmotion.ca/collections/comfort-non-electric)
   Updated: 2024-03-11T23:20:45Z
   Total Products: 0
 - [All Products - For Setting Tax Level](https://powerinmotion.ca/collections/all-products-for-setting-tax-level)
-  Updated: 2026-04-26T11:03:47Z
+  Updated: 2026-05-10T11:04:07Z
   Total Products: 140
 - [Bixpy Watercraft Motor](https://powerinmotion.ca/collections/bixpy-watercraft-motor): Transform your family trip with Bixpy's watercraft motor! With its fantastic fin adapter, you can use the Bixpy on paddleboards, boats, Kayaks, canoes, and more! As the first dealers in Canada, we at Power In Motion Calgary are incredibly pleased with the options Bixpy's J-2 outbound motor kit and the various accessories such as Kayak adapters, Transarm adapters, Fin adapters, Solar Panels, and more interact with the Bixpy system. in Bixpy's own words; Since the shipment of Bixpy's first motors and batteries in late 2017, we have motorized thousands of kayaks, paddleboards, divers, snorkelers, and other water enthusiasts as we have created an industry of motorizing personal watercraft. There are now thousands of videos and pictures online of people using our products to enjoy their local waterways in a way not possible before. It gives us great joy to know we are part of this story. And we’re just getting started!
   Updated: 2025-10-16T11:03:20Z
   Total Products: 24
 - [Thule](https://powerinmotion.ca/collections/thule)
-  Updated: 2025-07-02T03:40:12Z
+  Updated: 2026-04-30T11:03:45Z
   Total Products: 149
 - [Smartmotion](https://powerinmotion.ca/collections/smartmotion)
   Updated: 2024-10-06T01:02:44Z
@@ -2782,7 +2761,7 @@ Z7 6 – 7-Speed Chain](https://powerinmotion.ca/products/kmc-z7-6-7-speed-chain
   Updated: 2024-10-17T23:15:34Z
   Total Products: 4
 - [Standard Commuter, Road, & Mountain Bikes | Power In Motion | Calgary](https://powerinmotion.ca/collections/bikes): Ottawa, Canada | St. John's, Newfoundland and Labrador | Halifax, Nova Scotia | Fredericton, New Brunswick | Charlottetown, Prince Edward Island | Québec, Quebec | Toronto, Ontario | Winnipeg, Manitoba | Regina, Saskatchewan | Edmonton, Alberta | Victoria, British Columbia | Iqaluit, Nunavut | Yellowknife, Northwest Territories | Whitehorse, Yukon |Power In Motion | PIM | iGo | Berri | Bonaventure | Atwater | Outland Royal | Oka | Laurentian  | Vendome | Extreme 3.0 | Camillien | Electric Bikes| Folding Bikes | Folding Electric Bike | Electric Mountain Bike | Surface 604 Electric Bikes | Rook | Colt | Quad | Explorer | Boar Explorer | Tern Folding Bikes | Folding Bikes | Tern Link A7 | Tern Link C8 | Tern Link D8 | Tern Link S8i | Tern Verge D9 | Tern Node D8 | Tern Verge S8i | Tern Node D7i | Tern Eclipse D16 | Tern Vektron Q9 | Tern HSD P9 | Tern HSD S8i | Tern GSD S10 | Tern GSD S00 | Tern GSD r14 | Montague Full Size Mountain, Road Folding Bikes | Montague Paratrooper Folding Bike | Montageue Paratrooper Pro Mountain Bike | Montague Urban Road Bike | Montague Navigator Folding Road Bike |
-  Updated: 2026-04-26T11:03:47Z
+  Updated: 2026-05-10T11:04:07Z
   Total Products: 28
 - [Kayaks & Rafts | Power In Motion | Calgary, Canada](https://powerinmotion.ca/collections/kayaks-rafts): Kayaks | Inflatable Kayaks | Rafts | Inflatable Rafts | Boats | Inflatable Boats | Calgary | Edmonton | Red Deer | Canmore | Banff | Alberta | Canada | British Columbia | Canoes | Affordable | Lightweight | Compact | Inexpensive | high quality | Kayak Paddles | Tolling Motor | Bixpy Kayak | Bixpy Boat |
   Updated: 2024-10-06T03:49:23Z
@@ -2797,7 +2776,7 @@ Z7 6 – 7-Speed Chain](https://powerinmotion.ca/products/kmc-z7-6-7-speed-chain
   Updated: 2024-10-17T23:35:15Z
   Total Products: 0
 - [Converted Bikes](https://powerinmotion.ca/collections/converted-bikes)
-  Updated: 2026-04-17T20:38:05Z
+  Updated: 2026-04-30T11:03:45Z
   Total Products: 7
 - [Riese & Muller Bikes](https://powerinmotion.ca/collections/riese-muller-bikes): Discover the world of Riese & Müller bikes at Powerinmotion Calgary! These bikes have revolutionized the industry time and time again, constantly pushing the boundaries of innovation. Whether you're an athlete, commuter, family rider, bike tourist, or tradesperson, Riese & Müller has an E-Bike that's perfect for you. Can't find the specific model you're looking for? Don't worry! We have the ability to order any bike from Riese & Müller's impressive lineup. Just visit Riese & Müller's website (https://www.r-m.de/en-ca/) to explore the full range of options and find your dream bike. But wait, there's more! If you're in Calgary, don't miss the chance to visit our storefront and experience the extraordinary Load4 75 Envilo, Delite4 Rohloff, and Packster 70 Envilo in person. We offer test rides and demos for interested buyers, so you can feel the thrill and quality of these exceptional bikes firsthand. Join the Riese & Müller revolution and elevate your cycling experience like never before!
   Updated: 2026-04-24T20:43:26Z
@@ -2809,19 +2788,19 @@ Z7 6 – 7-Speed Chain](https://powerinmotion.ca/products/kmc-z7-6-7-speed-chain
   Updated: 2025-01-22T21:18:13Z
   Total Products: 0
 - [New products](https://powerinmotion.ca/collections/new-products)
-  Updated: 2026-04-26T11:03:47Z
+  Updated: 2026-05-10T11:04:07Z
   Total Products: 908
 - [Best  products](https://powerinmotion.ca/collections/best--products)
-  Updated: 2026-04-26T11:03:47Z
+  Updated: 2026-05-10T11:04:07Z
   Total Products: 908
 - [Special Order](https://powerinmotion.ca/collections/special-order): These items are available for special order and are not stocked at our store fronts
   Updated: 2026-03-23T17:19:24Z
   Total Products: 167
 - [Pre Order](https://powerinmotion.ca/collections/pre-order): These products can be put on pre-order if out of stock currently
-  Updated: 2026-04-26T11:03:47Z
+  Updated: 2026-05-10T11:04:07Z
   Total Products: 97
 - [Mechanic Services](https://powerinmotion.ca/collections/mechanic-services): Welcome to Power In Motion, your go-to destination for top-notch bike mechanic services! We take pride in offering a comprehensive range of professional bike services to keep your two-wheeled companion in peak condition. Our highly skilled and experienced bike mechanics are here to ensure that your cycling experience is smooth, safe, and enjoyable. Whether you're a casual rider, a passionate cyclist, or a competitive athlete, we've got you covered with our specialized services.
-  Updated: 2026-04-26T11:03:47Z
+  Updated: 2026-05-08T11:05:06Z
   Total Products: 7
 - [Tires](https://powerinmotion.ca/collections/tires)
   Updated: 2025-02-23T00:19:26Z
@@ -2908,7 +2887,7 @@ Z7 6 – 7-Speed Chain](https://powerinmotion.ca/products/kmc-z7-6-7-speed-chain
   Updated: 2025-02-23T00:16:48Z
   Total Products: 0
 - [Chains](https://powerinmotion.ca/collections/chains): Shop bike chains in Calgary - shipping Canada wide
-  Updated: 2025-09-13T11:02:07Z
+  Updated: 2026-04-29T11:04:06Z
   Total Products: 7
 - [Lights](https://powerinmotion.ca/collections/lights)
   Updated: 2025-02-23T00:10:41Z
@@ -2980,7 +2959,7 @@ Z7 6 – 7-Speed Chain](https://powerinmotion.ca/products/kmc-z7-6-7-speed-chain
   Updated: 2025-02-23T00:10:58Z
   Total Products: 0
 - [Baby Seats](https://powerinmotion.ca/collections/baby-seats)
-  Updated: 2025-10-29T16:20:46Z
+  Updated: 2026-05-03T11:04:01Z
   Total Products: 62
 - [Helmets and Accessories](https://powerinmotion.ca/collections/helmets-and-accessories)
   Updated: 2025-06-04T20:10:34Z
@@ -3019,7 +2998,7 @@ Z7 6 – 7-Speed Chain](https://powerinmotion.ca/products/kmc-z7-6-7-speed-chain
   Updated: 2025-02-22T23:43:39Z
   Total Products: 0
 - [Tern Accessories](https://powerinmotion.ca/collections/tern-accessories)
-  Updated: 2026-04-19T11:05:42Z
+  Updated: 2026-05-10T11:04:07Z
   Total Products: 102
 - [HLC ONLINE ONLY](https://powerinmotion.ca/collections/hlc-online-only)
   Updated: 2024-03-11T23:20:48Z
@@ -3343,46 +3322,46 @@ Z7 6 – 7-Speed Chain](https://powerinmotion.ca/products/kmc-z7-6-7-speed-chain
   Updated: 2025-02-07T23:34:34Z
   Total Products: 0
 - [AddMotor](https://powerinmotion.ca/collections/addmotor): 🚴♂️ Addmotor Electric Trikes — Stability Meets Power & Comfort Discover the full lineup of Addmotor electric trikes, engineered for riders who want a perfect blend of confidence, comfort, and electric performance. Whether you’re cruising through city streets, running daily errands, or exploring neighbourhood paths, Addmotor trikes deliver a stable three-wheel ride, strong motor support, and smart features for everyday life. Each trike in this collection is designed with: Powerful motors for strong starts and smooth hill climbs Long-range batteries built for real-world distances Comfort-first geometry that’s easy on and easy off Integrated lights and displays for safer, more visible rides Cargo-friendly designs perfect for shopping, gear, or fun outings From compact folding options like the Citytri series to rugged, cargo-ready builds like the Grandtan M-340, Addmotor electric trikes bring three-wheel confidence to every rider — whether you’re new to e-mobility or a seasoned commuter. Ride with balance. Ride with power. Ride Addmotor.
-  Updated: 2026-04-24T11:03:58Z
+  Updated: 2026-05-08T11:05:06Z
   Total Products: 4
 - [CYC MOTOR LTD.](https://powerinmotion.ca/collections/cyc-motor-ltd): ⚡ CYC Motor LTD — Electrifying the Ride, Redefining Possibilities Welcome to CYC Motor LTD, where passion meets performance and innovation fuels every revolution. Born from a deep love of electric mobility and engineered for riders who demand power, precision, and reliability, our products represent the cutting edge of electric transportation technology. At CYC Motor LTD, we don’t just build products — we elevate experiences. From high-performance electric bicycle hubs and torque-sensor systems to modular motor kits that transform ordinary bikes into exhilarating electric machines, every component is crafted with purpose. We serve everyone from commuters seeking effortless urban travel to adventure riders chasing limitless terrain. 🔥 What Makes CYC Legendary? 🚀 Unmatched Performance: Industry-leading torque sensors, robust motors, and high-efficiency components designed to deliver power when you need it — without compromise. 🛠️ Precision Engineering: Every part is built with meticulous attention to detail, blending durability with intelligent design so you ride with confidence. ⚙️ Customizable & Modular: Whether you’re upgrading a daily commuter or building a bespoke electric beast, CYC’s systems are engineered for flexibility and seamless integration. 🌍 Designed for Real Riders: Tested against real-world use — from city streets to off-road trails — so your ride feels intuitive and unstoppable. 🔩 Our Products — Built to Transform ⚡ Electric Conversion KitsTurn any compatible bike into an electrifying ride. Easy to install, powerful to ride — embracing the future of motion has never been easier. 🔧 Motors & SensorsHigh-torque drive systems and precision sensors that unlock smooth acceleration, responsive control, and maximum efficiency with every pedal. 🧰 Accessories & Add-OnsFrom screens and controllers to compatible batteries and wiring harnesses — every part supports a unified, superior riding experience. 🛣️ More Than Products — A Movement CYC Motor LTD isn’t just a brand — it’s a community of innovators, commuters, DIY builders, and trailblazers. Everything we build is meant to inspire freedom — to transform your ride, empower your adventure, and push the boundaries of what’s possible on two wheels. Whether you’re upgrading a daily ride, shaping a performance machine, or pioneering your next project, you're riding with the best in modern electric mobility. ⚡ Ride Further. Ride Smarter. Ride CYC. Join the revolution.
-  Updated: 2026-04-23T11:04:16Z
+  Updated: 2026-04-30T11:03:45Z
   Total Products: 7
 - [Electric Trikes](https://powerinmotion.ca/collections/electric-trike)
-  Updated: 2026-04-24T11:03:58Z
+  Updated: 2026-05-08T11:05:06Z
   Total Products: 4
 - [Electric Comfort Bikes](https://powerinmotion.ca/collections/electric-comfort-bikes)
-  Updated: 2026-04-23T11:04:16Z
+  Updated: 2026-05-10T11:04:07Z
   Total Products: 7
 - [Electric Road Bikes](https://powerinmotion.ca/collections/electric-road-bikes)
   Updated: 2026-04-13T11:04:27Z
   Total Products: 1
 - [Electric Mountian Bikes](https://powerinmotion.ca/collections/electric-mountian-bikes)
-  Updated: 2026-04-03T01:11:09Z
+  Updated: 2026-05-09T23:29:07Z
   Total Products: 2
 - [Electric Folding Bikes](https://powerinmotion.ca/collections/electric-folding-bikes)
   Updated: 2026-04-08T18:32:10Z
   Total Products: 3
 - [Electric Fat Bikes](https://powerinmotion.ca/collections/electric-fat-bikes)
-  Updated: 2026-04-19T11:05:42Z
+  Updated: 2026-05-09T23:28:14Z
   Total Products: 8
 - [Electric Cargo Bikes](https://powerinmotion.ca/collections/electric-cargo-bikes)
-  Updated: 2026-04-23T11:04:16Z
+  Updated: 2026-05-10T11:04:07Z
   Total Products: 32
 - [Comfort Bikes](https://powerinmotion.ca/collections/comfort-bikes)
-  Updated: 2026-04-11T16:33:11Z
+  Updated: 2026-05-03T11:04:01Z
   Total Products: 6
 - [Fat Bikes](https://powerinmotion.ca/collections/fat-bikes-1)
   Updated: 2026-04-08T18:37:21Z
   Total Products: 1
 - [Folding Bikes](https://powerinmotion.ca/collections/folding-bikes-1)
-  Updated: 2026-04-26T11:03:47Z
+  Updated: 2026-05-10T11:04:07Z
   Total Products: 23
 - [Cargo Bikes](https://powerinmotion.ca/collections/cargo-bikes)
   Updated: 2026-04-08T22:00:51Z
   Total Products: 1
 - [Road Bikes](https://powerinmotion.ca/collections/road-bikes)
-  Updated: 2026-04-26T11:03:47Z
+  Updated: 2026-05-10T11:04:07Z
   Total Products: 7
 - [Mountian Bike](https://powerinmotion.ca/collections/mountian-bike)
   Updated: 2026-04-08T18:44:06Z
@@ -3397,7 +3376,7 @@ Z7 6 – 7-Speed Chain](https://powerinmotion.ca/products/kmc-z7-6-7-speed-chain
   Updated: 2026-04-24T20:54:37Z
   Total Products: 2
 - [CYC Conversion Kit](https://powerinmotion.ca/collections/cyc-conversion-kit)
-  Updated: 2026-04-24T20:57:58Z
+  Updated: 2026-04-30T11:03:45Z
   Total Products: 3
 
 ## Blogs
