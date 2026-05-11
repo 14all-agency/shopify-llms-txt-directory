@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-05-06T04:35:08Z
 - Contact Email: info@craftedcocktailtoppers.com
-- Updated At: 2026-05-02T00:00:40.454Z
+- Updated At: 2026-05-11T00:00:45.999Z
 
 Welcome to Crafted Cocktail Toppers' LLMS.txt. This file helps AI assistants understand our store structure and offerings.
 
@@ -17,7 +17,7 @@ LLMS sections below provide additional context for our content, policies, and re
 ## Products
 
 - [Custom Edible Monogram Toppers | Cocktail Garnishes](https://craftedcocktailtoppers.com/products/50-1000-personalized-edible-drink-toppers-monogram-cocktail-garnishes): Elevate your cocktails with custom edible monogram toppers. Perfect for weddings, parties & events. Premium quality, fast shipping. Order 50-1000 pieces!
-  Updated: 2026-05-01T19:47:27Z
+  Updated: 2026-05-10T23:41:27Z
   Vendor: Crafted Cocktail Toppers
   Product Type: Cocktail Accessories
   Availability: Available
@@ -87,7 +87,7 @@ LLMS sections below provide additional context for our content, policies, and re
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/il_fullxfull.6000475256_3sm7.webp?v=1746560972
     Price: $18.21 USD
 - [Custom Cocktail Topper Design Setup – $35 Pre-Production Fee](https://craftedcocktailtoppers.com/products/set-up-fee-for-pre-production-design-transfer): Initiate your personalized cocktail topper design with a $35 setup fee. Ensure precise pre-production design transfer for standout event garnishes.
-  Updated: 2026-04-10T19:52:13Z
+  Updated: 2026-05-05T18:36:09Z
   Vendor: Crafted Cocktail Toppers
   Product Type: 
   Availability: Available
@@ -291,7 +291,7 @@ LLMS sections below provide additional context for our content, policies, and re
   Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/il_fullxfull.6248530545_cwgk.jpg?v=1750221531
   Price: $14.43 USD
 - [🎉 7 Best Bulk Personalized Edible Drink Toppers – Fast Turnaround](https://craftedcocktailtoppers.com/products/personalized-edible-drink-toppers): Order custom edible drink toppers—bulk packs, fast delivery, vegan, and allergen-friendly. Perfect for events, bars & weddings. Customize yours today!
-  Updated: 2026-04-02T10:38:44Z
+  Updated: 2026-05-08T14:09:53Z
   Vendor: Crafted Cocktail Toppers
   Product Type: 
   Availability: Available
@@ -387,7 +387,7 @@ LLMS sections below provide additional context for our content, policies, and re
     Availability: Available
     Price: $33.00 USD
 - [Edible Baby Shower Drink Toppers – Custom & Instagram-Worthy](https://craftedcocktailtoppers.com/products/edible-drink-toppers-baby-shower): Personalized edible drink toppers for baby showers, gender reveals & sprinkles. Elevate your drinks with custom designs that impress guests—order now!
-  Updated: 2026-04-21T22:52:55Z
+  Updated: 2026-05-08T13:59:17Z
   Vendor: Crafted Cocktail Toppers
   Product Type: 
   Availability: Available
@@ -1008,7 +1008,7 @@ LLMS sections below provide additional context for our content, policies, and re
     Availability: Available
     Price: $101.98 USD
 - [Personalized Acrylic Cocktail Stirrers | Custom Drink Decor](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor): Premium cocktail decorations by Crafted Cocktail Toppers. Personalized edible drink toppers for weddings, parties, birthdays & luxe celebrations.
-  Updated: 2026-04-12T15:03:47Z
+  Updated: 2026-05-03T14:51:51Z
   Vendor: Crafted Cocktail Toppers
   Product Type: Cocktail Decorations
   Availability: Available
@@ -1695,19 +1695,19 @@ LLMS sections below provide additional context for our content, policies, and re
 ## Collections
 
 - [Home page](https://craftedcocktailtoppers.com/collections/frontpage)
-  Updated: 2026-05-01T11:36:19Z
+  Updated: 2026-05-10T11:27:51Z
   Total Products: 1
 - [Imported Products](https://craftedcocktailtoppers.com/collections/imported-products)
   Updated: 2026-04-02T10:38:43Z
   Total Products: 0
 - [AVADA - Best Sellers](https://craftedcocktailtoppers.com/collections/avada-best-sellers)
-  Updated: 2026-05-01T11:36:19Z
+  Updated: 2026-05-10T11:27:51Z
   Total Products: 24
 - [Edible Drink Toppers](https://craftedcocktailtoppers.com/collections/edible-drink-toppers)
-  Updated: 2026-05-01T11:36:19Z
+  Updated: 2026-05-10T11:27:51Z
   Total Products: 5
 - [Cocktail Decorations & Edible Drink Toppers - Crafted Cocktail Toppers](https://craftedcocktailtoppers.com/collections/cocktail-decorations): Premium cocktail decorations by Crafted Cocktail Toppers. Personalized edible drink toppers for weddings, parties, birthdays & luxe celebrations.
-  Updated: 2026-05-01T11:36:19Z
+  Updated: 2026-05-04T11:23:22Z
   Total Products: 4
 - [Paper Napkins](https://craftedcocktailtoppers.com/collections/paper-napkins)
   Updated: 2026-04-23T11:24:11Z
@@ -2345,6 +2345,15 @@ LLMS sections below provide additional context for our content, policies, and re
     Author: Che Che
   - [A Comprehensive Guide to Edible Drink Toppers for Weddings and Parties](https://craftedcocktailtoppers.com/blogs/news/a-comprehensive-guide-to-edible-drink-toppers-for-weddings-and-parties): A Comprehensive Guide to Edible Drink Toppers for Weddings and Parties
     Updated: 2026-04-29T02:32:40Z
+    Author: Che Che
+  - [Exploring Edible Drink-Topping Machines: A Modern Twist on Cocktails](https://craftedcocktailtoppers.com/blogs/news/exploring-edible-drink-topping-machines-a-modern-twist-on-cocktails): Exploring Edible Drink-Topping Machines: A Modern Twist on Cocktails
+    Updated: 2026-05-04T00:28:47Z
+    Author: Che Che
+  - [Custom Drink Toppers: Elevate Your Baby Shower with Edible Designs](https://craftedcocktailtoppers.com/blogs/news/custom-drink-toppers-elevate-your-baby-shower-with-edible-designs): Custom Drink Toppers: Elevate Your Baby Shower with Edible Designs
+    Updated: 2026-05-05T00:46:14Z
+    Author: Che Che
+  - [Clear Edible Drink Toppers: A Chic Addition to Your Cocktail Selection](https://craftedcocktailtoppers.com/blogs/news/clear-edible-drink-toppers-a-chic-addition-to-your-cocktail-selection): Clear Edible Drink Toppers: A Chic Addition to Your Cocktail Selection
+    Updated: 2026-05-06T02:22:10Z
     Author: Che Che
 
 ## Store Pages
