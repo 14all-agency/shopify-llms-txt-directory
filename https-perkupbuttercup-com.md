@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-01-15T09:24:04Z
 - Contact Email: lexirn@att.net
-- Updated At: 2026-04-23T00:00:23.333Z
+- Updated At: 2026-05-11T00:00:37.956Z
 
 ## Products
 
@@ -807,7 +807,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9265/8742/files/oversized-faded-t-shirt-faded-bone-front-697222c9cce78.jpg?v=1769087708
     Price: $56.88 USD
 - [Unisex oversized hoodie](https://perkupbuttercup.com/products/unisex-oversized-hoodie): Make a stylish statement wherever you go with this trendy oversized hoodie. It’s perfect for layering with a relaxed fit and made from extra soft premium-quality fabric to ensure maximum comfort. • 80% cotton, 20% recycled polyester fleece • Relaxed unisex fit • Dropped shoulders • Lined pullover hood with no drawcord • Kangaroo pocket in front • Sleeve cuff ribbing • Blank product sourced from Vietnam Disclaimer: The brushed interior of this hoodie tends to shed. To reduce visible traces of lint on clothes, avoid wearing dark colors under light-colored clothes and vice versa.
-  Updated: 2026-02-10T01:17:12Z
+  Updated: 2026-04-30T12:40:40Z
   Vendor: Perk Up Buttercup
   Product Type: 
   Availability: Available
@@ -977,7 +977,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9265/8742/files/as-colour-5161-i-unisex-oversized-hoodie-sand-front-6972236b7acb7.jpg?v=1769087871
     Price: $87.00 USD
   - [Sand / 3XL](https://perkupbuttercup.com/products/unisex-oversized-hoodie?variant=53597813244214)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0965/9265/8742/files/as-colour-5161-i-unisex-oversized-hoodie-sand-front-6972236b7acb7.jpg?v=1769087871
     Price: $90.56 USD
   - [Carolina Blue / S](https://perkupbuttercup.com/products/unisex-oversized-hoodie?variant=53597813276982)
@@ -1187,7 +1187,7 @@
     Image: https://cdn.shopify.com/s/files/1/0965/9265/8742/files/unisex-eco-raglan-hoodie-white-front-2-697223744bfd6.jpg?v=1769087895
     Price: $88.01 USD
 - [Unisex organic raglan sweatshirt](https://perkupbuttercup.com/products/unisex-organic-raglan-sweatshirt): To do list: feel comfy and look stylish at the same time. Mark both tasks as done with the unisex organic raglan sweatshirt. Its brushed fleece lining will make you feel like you’re being hugged by a cloud of softness . . . and the 100% cotton exterior will ensure a smooth feel on the outside. • 100% organic cotton exterior • Charcoal Melange’s exterior is 60% organic cotton, 40% recycled polyester • 80% organic cotton, 20% recycled polyester interior • 97% organic cotton, 3% elastane ribs • Fabric weight: 8.3 oz/yd² (280 g/m²) • Fabric weight for Charcoal Melange: 10.3 oz/yd² (348 g/m²) • Side-seamed • Raglan sleeves • Neck tape • Brushed fleece lining • 2 × 2 ribbed cuffs, collar, and hem • Blank product sourced from Pakistan Disclaimer: US customers should order a size up as the EU sizes for this supplier correspond to a smaller size in the US market.
-  Updated: 2026-01-25T06:34:47Z
+  Updated: 2026-05-04T20:06:58Z
   Vendor: Perk Up Buttercup
   Product Type: 
   Availability: Available
@@ -4756,38 +4756,46 @@
 ## Collections
 
 - [Coffee](https://perkupbuttercup.com/collections/coffee)
-  Updated: 2026-01-25T06:34:45Z
+  Updated: 2026-05-08T02:20:42Z
   Total Products: 64
 - [Blends](https://perkupbuttercup.com/collections/blends)
-  Updated: 2026-01-25T06:34:45Z
+  Updated: 2026-05-08T02:20:53Z
   Total Products: 26
 - [Sample Packs](https://perkupbuttercup.com/collections/sample-packs)
-  Updated: 2026-01-25T06:34:45Z
+  Updated: 2026-05-08T02:20:42Z
   Total Products: 3
 - [Single Origin](https://perkupbuttercup.com/collections/single-origin)
-  Updated: 2026-01-25T06:34:45Z
+  Updated: 2026-05-08T02:20:54Z
   Total Products: 20
 - [Flavored](https://perkupbuttercup.com/collections/flavored)
-  Updated: 2026-01-25T06:34:45Z
+  Updated: 2026-05-08T02:20:43Z
   Total Products: 15
 - [Teas](https://perkupbuttercup.com/collections/teas)
-  Updated: 2026-01-25T06:34:45Z
+  Updated: 2026-05-08T02:20:52Z
   Total Products: 11
 - [Merch](https://perkupbuttercup.com/collections/merch)
-  Updated: 2026-01-25T06:34:45Z
+  Updated: 2026-05-08T02:20:56Z
   Total Products: 16
 - [Hoodies & Sweatshirts](https://perkupbuttercup.com/collections/hoodies-sweatshirts)
-  Updated: 2026-01-25T06:34:46Z
+  Updated: 2026-05-08T02:20:43Z
   Total Products: 4
 - [Hats & Caps](https://perkupbuttercup.com/collections/hats-caps)
-  Updated: 2026-01-25T06:34:46Z
+  Updated: 2026-05-08T02:20:57Z
   Total Products: 4
 - [Tees](https://perkupbuttercup.com/collections/tees)
-  Updated: 2026-01-25T06:34:46Z
+  Updated: 2026-05-08T02:20:55Z
   Total Products: 4
 - [Mugs](https://perkupbuttercup.com/collections/mugs)
-  Updated: 2026-01-25T06:34:46Z
+  Updated: 2026-05-08T02:20:43Z
   Total Products: 4
+
+## Blogs
+
+- [News](https://perkupbuttercup.com/blogs/news)
+  - [Coffee vs. Tea: Which Brew is Right for Your Morning?](https://perkupbuttercup.com/blogs/news/coffee-vs-tea-which-brew-is-right-for-your-morning): <p>Coffee or tea — it's the morning question that starts more debates than it settles. At Perk Up Buttercup, we're not here to pick sides. We're here to help you find your perfect cup. Whether you're a die-hard espresso lover or a loose-leaf loyalist, this one breaks down what makes each brew special — and why the best answer might just be having both on hand. Find your favorite at perkupbuttercup.com.</p>
+    Updated: 2026-04-26T09:33:58Z
+    Author: Alexandra lexirn@att.net
+    Tags: best coffee, best tea, coffee, coffee vs tea, how to choose coffee or tea, loose leaf tea, morning routine, Perk Up Buttercup, specialty coffee, tea
 
 ## Store Pages
 
