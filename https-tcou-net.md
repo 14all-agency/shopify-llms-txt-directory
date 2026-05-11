@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2018-01-16T03:31:48Z
 - Contact Email: help@tcou.online
-- Updated At: 2026-05-02T12:33:18.781Z
+- Updated At: 2026-05-11T00:00:25.898Z
 
 ## Products
 
@@ -17,6 +17,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2779/2954/products/TCoU_Leather_Necklace-2.jpg?v=1572169621
   Price: $25.50 USD
+- [GREETING CARDS—TCoU A Beacon of HOPE Cards -- 4 card Pack](https://tcou.net/products/tcou-a-beacon-of-hope-4-card-pack-with-2-tokens-each-you-can-make-a-difference-in-someones-life): TCoU's Beacon of Hope Card Packets of 4 blank cards. Give TCoU cards to friends and family and pay it forward!
+  Updated: 2026-05-07T02:46:50Z
+  Vendor: TCoU, Take Care of you, LLC
+  Product Type: Greeting Cards with Tokens
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2779/2954/products/new_TCoU_card-A_beacon_of_HOPE-final.jpg?v=1572169621
+  Price: $8.00 USD
 - [TCoU Winged Heart Bracelet, Represents Special Protection!!](https://tcou.net/products/tcou-engraved-metal-leather-bracelet-with-winged-heart-represents-special-protector): Beautiful "Winged Heart" Bracelet, leather strap hooks on metal engraved piece "Take Care of You" This bracelet reminds you that YOU are the special protection of your heart!!
   Updated: 2026-04-06T18:30:07Z
   Vendor: TCoU (Take Care of You) Company
@@ -588,7 +595,7 @@
   Image: https://cdn.shopify.com/s/files/1/2779/2954/files/d72f487c-8c88-445f-a3d9-edf2f9e24c50-Max-Origin.webp?v=1769281472
   Price: $33.50 USD
 - [Crochet Hobo Handbag](https://tcou.net/products/crochet-hobo-handbag): Bag size: Medium Material: Polyester fiber Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Length ONESIZE 14.2
-  Updated: 2026-04-06T18:30:11Z
+  Updated: 2026-05-09T16:45:39Z
   Vendor: Trendsi
   Product Type: HANDBAG
   Availability: Available
@@ -828,7 +835,7 @@
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/13896661961049647659_2048.jpg?v=1775959548
     Price: $15.99 USD
 - [T-SHIRT--Stay Wild Moon Child T-Shirt](https://tcou.net/products/stay-wild-moon-child-t-shirt): Introducing Stay Wild Moon Child T-Shirt - Embrace the splendor of this USA-made digitally printed tee, designed to captivate. Made with 100% soft and breathable cotton for a luxurious and unique look. Express your style with this tee.
-  Updated: 2026-04-06T18:30:13Z
+  Updated: 2026-05-05T16:25:23Z
   Vendor: MerchMallow
   Product Type: T-SHIRT
   Availability: Available
@@ -858,7 +865,7 @@
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/1622024326_Saywildmoonchildblk.jpg?v=1769778783
     Price: $31.00 USD
 - [T-SHIRT--Having A Soft Heart In A Cruel World T-Shirt](https://tcou.net/products/having-a-soft-heart-in-a-cruel-world-t-shirt): Introducing Having A Soft Heart In A Cruel World T-Shirt - Unleash your style with this digitally printed tee, exclusively made and printed in the USA. Crafted with precision from 100% soft cotton for a comfortable and unique experience. Embrace the adorability of this tee.
-  Updated: 2026-04-06T18:30:21Z
+  Updated: 2026-05-05T16:25:22Z
   Vendor: MerchMallow
   Product Type: T-SHIRT
   Availability: Available
@@ -1866,7 +1873,7 @@
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/this-is-not-time-to-be-sober-tee-peachy-sunday-t-shirt-33572205625502_ef408834-6c3a-467b-ba00-626829c219c7.png?v=1769778784
     Price: $31.00 USD
 - [Magic Dust T-Shirt](https://tcou.net/products/magic-dust-t-shirt): "Indulge in the beauty of this digitally printed tee, thoughtfully made and printed in the USA. Crafted from 100% soft and ring-spun cotton, it guarantees a smooth and one-of-a-kind experience. Embrace the uniqueness and upgrade your wardrobe with this Magic Dust T-Shirt."
-  Updated: 2026-04-06T18:30:16Z
+  Updated: 2026-05-05T16:25:12Z
   Vendor: MerchMallow
   Product Type: T-SHIRT
   Availability: Available
@@ -2424,7 +2431,7 @@
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/i-am-who-i-am-your-approval-is-not-needed-tee-black-heather-s-peachy-sunday-t-shirt-34405180342430.png?v=1769778820
     Price: $31.00 USD
 - [Surviving Motherhood T-Shirt](https://tcou.net/products/surviving-motherhood-t-shirt): Introducing Surviving Motherhood T-Shirt - Explore the allure of this USA-made digitally printed tee, featuring mesmerizing designs. Crafted with 100% premium cotton for a cozy and extraordinary look. Express your style with this tee.
-  Updated: 2026-04-06T18:30:18Z
+  Updated: 2026-05-05T16:25:20Z
   Vendor: MerchMallow
   Product Type: T-SHIRT
   Availability: Available
@@ -2628,7 +2635,7 @@
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/much-too-young-to-feel-this-damn-old-tee-peachy-sunday-t-shirt-32857446940830.png?v=1769778802
     Price: $31.00 USD
 - [Low Key Boujee T-Shirt](https://tcou.net/products/low-key-boujee-t-shirt): "Unleash the allure of this USA-made digitally printed tee, crafted from 100% soft ring-spun cotton. Experience the comfort and uniqueness as you embrace the adorability of this Low Key Boujee T-Shirt."
-  Updated: 2026-04-21T16:26:58Z
+  Updated: 2026-05-05T16:24:45Z
   Vendor: MerchMallow
   Product Type: T-SHIRT
   Availability: Available
@@ -2902,7 +2909,7 @@
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/48750c5f998a4cd6bff670291d9e8f6c-Max-Origin.webp?v=1770225952
     Price: $45.00 USD
 - [Heart Pattern, Button-Up Cardigan](https://tcou.net/products/heart-pattern-button-up-cardigan): Features: Buttoned Stretch: Slightly stretchy Material composition:100% acrylic Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length S 20.5 42.5 20.5 M 21.1 44.1 20.9 L 21.7 45.7 21.3 XL 22.2 48 21.7
-  Updated: 2026-04-06T18:30:15Z
+  Updated: 2026-05-04T20:46:06Z
   Vendor: Trendsi
   Product Type: SWEATER
   Availability: Available
@@ -4552,7 +4559,7 @@
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/b7480507-13e4-4dbb-b65a-e0218f7d5eef-Max.webp?v=1774113614
     Price: $18.50 USD
 - [Cozy Nighty Night Bundle](https://tcou.net/products/cozy-nighty-night-bundle): Pair the Cozy Lounge Set with the Slippers. Get Free Shipping and 10% .  will reflect at check-out
-  Updated: 2026-04-28T09:27:24Z
+  Updated: 2026-05-03T20:25:59Z
   Vendor: TCoU - Take Care of You-US-TREND
   Product Type: PAJAMAS-LOUNGE SET
   Availability: Available
@@ -4875,12 +4882,12 @@
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/823.jpg?v=1774196058
     Price: $31.98 USD
 - [Kids Luggage Set -- 2 pieces with Spinner Wheels for Boys & Girls--ships from NNECW in Australia](https://tcou.net/products/nnecw-2-pc-kids-luggage-set-with-spinner-wheels-for-boys-girls): This 2-pcs Kid's luggage is beautiful, fun, and practical. For Boys & Girls--ships from NNECW in Australia Good Companion for Traveling & Schooling! Our 2-piece kids carry-on luggage set includes an 18" (45.72cm) ride-on hardshell suitcase and a 12" (30.48cm) backpack. and it weighs only 5.5 lbs., making it suitable for kids to enjoy a vacation, go to school, attend summer camp, go out for a picnic, and more. The hardshell suitcase comes with internal cross straps and a zippered storage pocket for books, clothes, toys, snacks, toiletries, etc., and the backpack comes with 2 compartments and a stretch mesh bottle pocket for easy access. In contrast to normal suitcases, this travel suitcase can meet the needs of both ride-on and sit-on use. Parents can also carry it on their shoulders with the carrying strap or by hand for easy movement. Thanks to the retractable handle and rotatable casters, kids can easily move it around on their own. Most importantly, our luggage set is equipped with an anti-loss rope that lets you connect it to the suitcase for easy pulling or to a backpack for loss prevention, greatly enhancing safety. Besides, the ride-on suitcase features beautiful bee patterns, and the backpack with decorative plush wings is shaped like a bee, which can encourage your kids to pack their luggage themselves. Highlights: Roomy Storage Space: The 2-PC kids’ luggage set includes an 18" (45.72cm) ride-on hardshell suitcase and a 12" (30.48cm) backpack, providing ample storage space. Moreover, there are cross straps and a zippered storage pocket to keep items in place, and the backpack features a stretch mesh pocket for storing water bottles. The luggage set is also airline- for carry-on. Multifunctional Design: This luggage set provides multiple ways to use according to your needs: kids can sit on it when stuck in long lines, providing a comfortable sitting experience; Kids can ride on it for adding more fun with comfortable footrests; Kids can also pull to move the suitcase, which is easy to move around while saving labor; Moreover, the luggage set can be carried on the shoulder or by hand for convenience. Anti-Lose Rope & Adjustable Carrying Strap: The travel rolling luggage includes an anti-lose rope that can connect to the ride-on suitcase for easy pulling or to the backpack to prevent loss, ensuring good safety. Furthermore, it comes with an adjustable carrying strap, suitable for kids and adults of different sizes and shoulder widths. Spinner Wheels & Retractable Handle: The hardshell suitcase features 2 front universal wheels and 2 large rear wheels that are silent, smooth, and effortless to move. And the package weighs only 5.5 lbs. (2.49kg), so it won't burden your little one during school or travel. Moreover, the retractable handle can be adjusted to 3 positions to suit kids’ heights. Premium Material & Stylish Appearance: The hardshell is made of waterproof, anti-scratch PC and ABS; the pulling rod is made of solid, lightweight aluminum; and the backpack is made of tear- and wear-resistant polyester fabric, ensuring long-term use. Other than that, with its cute bee patterns, funny bee shapes, and decorative plush wings, this luggage set can be a perfect gift for your children. Features: 4-in-1 multifunctional design: sit-on, ride-on, pull-to-move, and carry-on Perfect size to put in the overhead compartment of the plane or under the seat Designed with a 58.5 in. (148.59cm) anti-lose rope for pulling a suitcase and preventing loss Designed with a 58.5 in. (113.03cm) adjustable and detachable carrying strap, making it easy to carry around. Comes with compartments in the suitcase and backpack to classify travel essentials The sit-on suitcase provides comfortable sitting and features convenient footrests. The aluminum retractable handle can be adjusted to suit kids of different heights. 2-way smooth zippers with lock holes to ensure security when traveling. The wide and comfortable shoulder straps with adjustable strap buckles help reduce the burden on the kids’ shoulders. Made of safe, waterproof, and anti-scratch materials, the suitcase ensures long-term use Specifications: Color: Yellow and Black Material: ABS, PC, Polyester Fabric, Aluminum Size of the Ride-on Suitcase: 46.99cm x 26.67cm x 36.83cm (L x W x H) Retractable Handle Height from the Ground: 38.1cm Size of the Backpack: 25.4cm x 30.48cm (L x H) Length of the Carrying Strap: 113.03cm Length of the Anti-Loss Rope: 148.59 cm Weight Capacity of the Ride-on Suitcase: 49.89kg Weight Capacity of the Backpack: 8.16kg Recommended Age: 3+ Years Old Net Weight: 2.49kg Package Includes: 1 x Ride-on Suitcase 1 x Backpack 1 x Lanyard 1 x Carrying Strap
-  Updated: 2026-05-01T19:12:47Z
+  Updated: 2026-05-10T19:08:50Z
   Vendor: NNECW
   Product Type: Kids Luggage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2779/2954/files/bn10003yw_1_790e9284-1e77-4aba-9b27-83268af3a7c7.jpg?v=1774285234
-  Price: $244.27 USD
+  Price: $255.36 USD
 - [Smart Luggage/Bag Security Tag - USA Flag [2-Pack]](https://tcou.net/products/smart-bag-security-tag-usa-flag-pack-2): Smart Luggage/Bag Security Tag [US Flag --Tags] Showcase your national pride by adorning your bag with a flag tag representing your specific country or collect flags from each country you visit, adding a distinctive personal touch to your luggage. [Perfect Collectible Souvenir] Ideal for tourists, this tag serves as a memorable keepsake of your visit to each country you have travelled apart from being a trendy bag tag and fashionable luggage tag [Stay in Control of your bags] Update your contact details online anytime, even after your bag is lost, for peace of mind. Relevant both in and outside airline systems, perfect for local travels, and smarter than a name tag [Instant Alerts of misplaced bags] Receive real-time email alerts with your bag's location as soon as it is scanned by Finder, so you always know where it is. Also, receive alerts when lost luggage handlers scan your bag at 2800+ Airports [Effortless Communication] Finders can reach you easily through WhatsApp, SMS, call, or email, ensuring swift contact, enhancing recovery over a simple name tag [Permanent Airline Luggage Tag - SITA World Tracer Code Enabled] Use this as a backup airline luggage tag to prevent mis-tagging related baggage loss and avoid losing your  baggage in the Airline systems across 2800+ Airports Worldwide with SITA World Tracer Code [Direct Call-back] Enjoy the convenience of finders requesting a call back, making communication easy and direct [Privacy Protection] Rest assured that your personal details are secured with QR coding, unlike regular named bag tags, preventing identity theft and ensuring privacy [Stand Out, Easy Identification] Showcases your unique personality and ensures your bag stands out from the crowd. Easily identify your luggage in a chaotic airport or cruise ship baggage arrival [Travel Worry-Free] Enjoy a durable, waterproof, and scratch-resistant tag that keeps your luggage safe on all your journeys. Premium leather strap included. Great choice for frequent travelers
   Updated: 2026-04-06T18:30:18Z
   Vendor: Global Lost Recovery Service | 2800+ Airports worldwide
@@ -5192,14 +5199,14 @@
   Image: https://cdn.shopify.com/s/files/1/2779/2954/files/8682835421728_1.jpg?v=1774303895
   Price: $97.98 USD
 - [Workout Gloves-Wrist Wraps, for unisex by NNEOBA](https://tcou.net/products/nneoba-workout-gloves-wrist-wraps-for-men-and-women): Elevate your workout experience with our versatile Workout Gloves featuring integrated Wrist Wraps. Designed for both men and women, these gloves are perfect for a variety of exercises, including weightlifting, cycling, gym workouts, fitness classes, and cross-training. Key Features: Enhanced Support with Wrist Wraps: Integrated wrist wraps provide additional support and stability during workouts. Ideal for activities that involve wrist movement and strain. Versatile Use: Suitable for various exercises, including weightlifting, cycling, gym sessions, fitness classes, and cross-training. Versatility makes them an essential accessory for your fitness routine. Breathable Design: Breathable materials keep your hands cool and comfortable during intense workouts. Stay focused on your exercise without discomfort or overheating. Optimal Grip and Protection: Offers a secure grip to prevent slipping during weightlifting or other activities. Protects your hands from calluses, blisters, and abrasions. XL Suitable for palm circumference 23-25cm/9.06-9.84" Suitable for palm width 10-11cm/3.94-4.73." Adjustable Fit: Adjustable straps ensure a secure and customized fit for both men and women. Provides flexibility and ease of movement.
-  Updated: 2026-05-01T19:14:57Z
+  Updated: 2026-05-10T19:11:22Z
   Vendor: NNEOBA
   Product Type: Workout Gloves
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2779/2954/files/S20ae2b7851ec4a0daf7cef788b769edam_9a1939be-d37b-4f51-897b-17efa625e308.webp?v=1774304088
-  Price: $111.03 USD
+  Price: $116.07 USD
 - [T-Shirt--"Are You Mad at What I Said or Are You Mad Because It's True?"](https://tcou.net/products/are-you-mad-at-what-i-said-or-are-you-mad-because-its-true-tee): FUN T-Shirt: "Are You Mad at What I Said or Are You Mad Because It's True?" Unisex Jersey Short Sleeve Tee – Timeless Comfort & Style• Perfect Fit: Crafted to feel like a well-loved favorite with a retail fit that adapts to any wardrobe.• Premium Material: Soft cotton with quality printing ensures lasting comfort and vibrant designs.• High-Quality Material: Made from 100% air loom combed and ring-spun cotton, offering a soft, breathable, and lightweight feel (4.2 oz/yd²).• Durable & Ethical: Manufactured sustainably by Bella Canvas in the US and internationally, adhering to no-sweatshop and humane labor practices (Platinum WRAP ).• Enhanced Features:o Ribbed Knit Collar: Elastic and durable, retains shape over time.o Shoulder Tape: Stabilizes the back of the garment and prevents stretching.o Side Seams: Maintain structure and provide long-lasting shape.• Custom Printing Options:o Sleeve Printing: High-quality Direct-to-Film (DTF) or Direct-to-Garment (DTG) methods for crisp, vibrant designs.o Neck Label Printing: Detailed and durable designs using DTF or DTG techniques.This versatile tee is ideal for casual wear, layering, and custom printing, making it a go-to favorite for any occasion!
-  Updated: 2026-04-06T18:30:22Z
+  Updated: 2026-05-07T14:40:57Z
   Vendor: MerchMallow
   Product Type: T-SHIRT
   Availability: Available
@@ -5207,101 +5214,101 @@
   - [S / Black Heather](https://tcou.net/products/are-you-mad-at-what-i-said-or-are-you-mad-because-its-true-tee?variant=42639998582871)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/are-you-mad-at-what-i-said-or-are-you-mad-because-it-s-true-tee-black-heather-s-peachy-sunday-t-shirt-35790562197662_c51980d2-134f-4f87-ae80-c26e11a29e98.png?v=1774305922
-    Price: $29.00 USD
+    Price: $28.99 USD
   - [M / Black Heather](https://tcou.net/products/are-you-mad-at-what-i-said-or-are-you-mad-because-its-true-tee?variant=42639998615639)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/are-you-mad-at-what-i-said-or-are-you-mad-because-it-s-true-tee-black-heather-s-peachy-sunday-t-shirt-35790562197662_c51980d2-134f-4f87-ae80-c26e11a29e98.png?v=1774305922
-    Price: $29.00 USD
+    Price: $28.99 USD
   - [L / Black Heather](https://tcou.net/products/are-you-mad-at-what-i-said-or-are-you-mad-because-its-true-tee?variant=42639998648407)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/are-you-mad-at-what-i-said-or-are-you-mad-because-it-s-true-tee-black-heather-s-peachy-sunday-t-shirt-35790562197662_c51980d2-134f-4f87-ae80-c26e11a29e98.png?v=1774305922
-    Price: $29.00 USD
+    Price: $28.99 USD
   - [XL / Black Heather](https://tcou.net/products/are-you-mad-at-what-i-said-or-are-you-mad-because-its-true-tee?variant=42639998681175)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/are-you-mad-at-what-i-said-or-are-you-mad-because-it-s-true-tee-black-heather-s-peachy-sunday-t-shirt-35790562197662_c51980d2-134f-4f87-ae80-c26e11a29e98.png?v=1774305922
-    Price: $29.00 USD
+    Price: $28.99 USD
   - [2XL / Black Heather](https://tcou.net/products/are-you-mad-at-what-i-said-or-are-you-mad-because-its-true-tee?variant=42639998713943)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/are-you-mad-at-what-i-said-or-are-you-mad-because-it-s-true-tee-black-heather-s-peachy-sunday-t-shirt-35790562197662_c51980d2-134f-4f87-ae80-c26e11a29e98.png?v=1774305922
-    Price: $30.00 USD
+    Price: $29.99 USD
   - [3XL / Black Heather](https://tcou.net/products/are-you-mad-at-what-i-said-or-are-you-mad-because-its-true-tee?variant=42639998746711)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/are-you-mad-at-what-i-said-or-are-you-mad-because-it-s-true-tee-black-heather-s-peachy-sunday-t-shirt-35790562197662_c51980d2-134f-4f87-ae80-c26e11a29e98.png?v=1774305922
-    Price: $31.00 USD
+    Price: $30.99 USD
   - [S / Athletic Heather](https://tcou.net/products/are-you-mad-at-what-i-said-or-are-you-mad-because-its-true-tee?variant=42639998779479)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/are-you-mad-at-what-i-said-or-are-you-mad-because-it-s-true-tee-athletic-heather-s-peachy-sunday-t-shirt-35776964788382_6a5270d7-14af-4739-b8d8-5314f9155a30.png?v=1774305922
-    Price: $29.00 USD
+    Price: $28.99 USD
   - [M / Athletic Heather](https://tcou.net/products/are-you-mad-at-what-i-said-or-are-you-mad-because-its-true-tee?variant=42639998812247)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/are-you-mad-at-what-i-said-or-are-you-mad-because-it-s-true-tee-athletic-heather-s-peachy-sunday-t-shirt-35776964788382_6a5270d7-14af-4739-b8d8-5314f9155a30.png?v=1774305922
-    Price: $29.00 USD
+    Price: $28.99 USD
   - [L / Athletic Heather](https://tcou.net/products/are-you-mad-at-what-i-said-or-are-you-mad-because-its-true-tee?variant=42639998845015)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/are-you-mad-at-what-i-said-or-are-you-mad-because-it-s-true-tee-athletic-heather-s-peachy-sunday-t-shirt-35776964788382_6a5270d7-14af-4739-b8d8-5314f9155a30.png?v=1774305922
-    Price: $29.00 USD
+    Price: $28.99 USD
   - [XL / Athletic Heather](https://tcou.net/products/are-you-mad-at-what-i-said-or-are-you-mad-because-its-true-tee?variant=42639998877783)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/are-you-mad-at-what-i-said-or-are-you-mad-because-it-s-true-tee-athletic-heather-s-peachy-sunday-t-shirt-35776964788382_6a5270d7-14af-4739-b8d8-5314f9155a30.png?v=1774305922
-    Price: $29.00 USD
+    Price: $28.99 USD
   - [2XL / Athletic Heather](https://tcou.net/products/are-you-mad-at-what-i-said-or-are-you-mad-because-its-true-tee?variant=42639998910551)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/are-you-mad-at-what-i-said-or-are-you-mad-because-it-s-true-tee-athletic-heather-s-peachy-sunday-t-shirt-35776964788382_6a5270d7-14af-4739-b8d8-5314f9155a30.png?v=1774305922
-    Price: $30.00 USD
+    Price: $29.99 USD
   - [3XL / Athletic Heather](https://tcou.net/products/are-you-mad-at-what-i-said-or-are-you-mad-because-its-true-tee?variant=42639998943319)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/are-you-mad-at-what-i-said-or-are-you-mad-because-it-s-true-tee-athletic-heather-s-peachy-sunday-t-shirt-35776964788382_6a5270d7-14af-4739-b8d8-5314f9155a30.png?v=1774305922
-    Price: $31.00 USD
+    Price: $30.99 USD
   - [S / Mauve](https://tcou.net/products/are-you-mad-at-what-i-said-or-are-you-mad-because-its-true-tee?variant=42639998976087)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/are-you-mad-at-what-i-said-or-are-you-mad-because-it-s-true-tee-mauve-s-peachy-sunday-t-shirt-35776964755614_068bfea0-91a6-42ff-a6d7-24a126e224f2.png?v=1774305922
-    Price: $29.00 USD
+    Price: $28.99 USD
   - [M / Mauve](https://tcou.net/products/are-you-mad-at-what-i-said-or-are-you-mad-because-its-true-tee?variant=42639999008855)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/are-you-mad-at-what-i-said-or-are-you-mad-because-it-s-true-tee-mauve-s-peachy-sunday-t-shirt-35776964755614_068bfea0-91a6-42ff-a6d7-24a126e224f2.png?v=1774305922
-    Price: $29.00 USD
+    Price: $28.99 USD
   - [L / Mauve](https://tcou.net/products/are-you-mad-at-what-i-said-or-are-you-mad-because-its-true-tee?variant=42639999041623)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/are-you-mad-at-what-i-said-or-are-you-mad-because-it-s-true-tee-mauve-s-peachy-sunday-t-shirt-35776964755614_068bfea0-91a6-42ff-a6d7-24a126e224f2.png?v=1774305922
-    Price: $29.00 USD
+    Price: $28.99 USD
   - [XL / Mauve](https://tcou.net/products/are-you-mad-at-what-i-said-or-are-you-mad-because-its-true-tee?variant=42639999074391)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/are-you-mad-at-what-i-said-or-are-you-mad-because-it-s-true-tee-mauve-s-peachy-sunday-t-shirt-35776964755614_068bfea0-91a6-42ff-a6d7-24a126e224f2.png?v=1774305922
-    Price: $29.00 USD
+    Price: $28.99 USD
   - [2XL / Mauve](https://tcou.net/products/are-you-mad-at-what-i-said-or-are-you-mad-because-its-true-tee?variant=42639999107159)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/are-you-mad-at-what-i-said-or-are-you-mad-because-it-s-true-tee-mauve-s-peachy-sunday-t-shirt-35776964755614_068bfea0-91a6-42ff-a6d7-24a126e224f2.png?v=1774305922
-    Price: $30.00 USD
+    Price: $29.99 USD
   - [3XL / Mauve](https://tcou.net/products/are-you-mad-at-what-i-said-or-are-you-mad-because-its-true-tee?variant=42639999139927)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/are-you-mad-at-what-i-said-or-are-you-mad-because-it-s-true-tee-mauve-s-peachy-sunday-t-shirt-35776964755614_068bfea0-91a6-42ff-a6d7-24a126e224f2.png?v=1774305922
-    Price: $31.00 USD
+    Price: $30.99 USD
   - [S / Heather Prism Peach](https://tcou.net/products/are-you-mad-at-what-i-said-or-are-you-mad-because-its-true-tee?variant=42639999172695)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/are-you-mad-at-what-i-said-or-are-you-mad-because-it-s-true-tee-heather-prism-peach-s-peachy-sunday-t-shirt-35776964821150_8f36c9df-495b-485c-bb68-5e1432e9d9da.png?v=1774305921
-    Price: $29.00 USD
+    Price: $28.99 USD
   - [M / Heather Prism Peach](https://tcou.net/products/are-you-mad-at-what-i-said-or-are-you-mad-because-its-true-tee?variant=42639999205463)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/are-you-mad-at-what-i-said-or-are-you-mad-because-it-s-true-tee-heather-prism-peach-s-peachy-sunday-t-shirt-35776964821150_8f36c9df-495b-485c-bb68-5e1432e9d9da.png?v=1774305921
-    Price: $29.00 USD
+    Price: $28.99 USD
   - [L / Heather Prism Peach](https://tcou.net/products/are-you-mad-at-what-i-said-or-are-you-mad-because-its-true-tee?variant=42639999238231)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/are-you-mad-at-what-i-said-or-are-you-mad-because-it-s-true-tee-heather-prism-peach-s-peachy-sunday-t-shirt-35776964821150_8f36c9df-495b-485c-bb68-5e1432e9d9da.png?v=1774305921
-    Price: $29.00 USD
+    Price: $28.99 USD
   - [XL / Heather Prism Peach](https://tcou.net/products/are-you-mad-at-what-i-said-or-are-you-mad-because-its-true-tee?variant=42639999270999)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/are-you-mad-at-what-i-said-or-are-you-mad-because-it-s-true-tee-heather-prism-peach-s-peachy-sunday-t-shirt-35776964821150_8f36c9df-495b-485c-bb68-5e1432e9d9da.png?v=1774305921
-    Price: $29.00 USD
+    Price: $28.99 USD
   - [2XL / Heather Prism Peach](https://tcou.net/products/are-you-mad-at-what-i-said-or-are-you-mad-because-its-true-tee?variant=42639999303767)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/are-you-mad-at-what-i-said-or-are-you-mad-because-it-s-true-tee-heather-prism-peach-s-peachy-sunday-t-shirt-35776964821150_8f36c9df-495b-485c-bb68-5e1432e9d9da.png?v=1774305921
-    Price: $30.00 USD
+    Price: $29.99 USD
   - [3XL / Heather Prism Peach](https://tcou.net/products/are-you-mad-at-what-i-said-or-are-you-mad-because-its-true-tee?variant=42639999336535)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/are-you-mad-at-what-i-said-or-are-you-mad-because-it-s-true-tee-heather-prism-peach-s-peachy-sunday-t-shirt-35776964821150_8f36c9df-495b-485c-bb68-5e1432e9d9da.png?v=1774305921
-    Price: $31.00 USD
+    Price: $30.99 USD
 - [Speaker--Waterproof Shower, Wireless, Portable Speaker – Bluetooth Speaker](https://tcou.net/products/waterproof-wireless-speaker-portable-bluetooth-shower-speaker): Take your music anywhere with the Purvolt Waterproof Wireless Speaker, designed for powerful sound and everyday durability. Whether you're in the shower, by the pool, or exploring the outdoors, this compact speaker delivers clear, immersive audio in a rugged, water-resistant design that keeps up with your lifestyle. Engineered with 360° Hi-Res stereo sound, it surrounds you with rich, balanced audio—bringing your favorite playlists to life wherever you are. The Bluetooth 5.0 technology ensures fast, stable pairing with your devices, so you can stream seamlessly without interruptions. Built for convenience, this speaker features a lightweight, portable design with an integrated strap, making it easy to hang, carry, or take on the go. The IPX4 water-resistant protection means it can handle splashes, rain, and humid environments with ease—perfect for bathrooms, beaches, or outdoor adventures. Key Features • IPX4 Water-Resistant Protection – Safe for splashes, rain, and wet environments• Bluetooth 5.0 Connectivity – Quick, stable, and easy pairing• 360° Hi-Res Sound – Immersive audio from every angle• Hands-Free Calling – Built-in microphone for convenience• Up to 3 Hours Playtime – Reliable battery for everyday listening• Portable with Strap – Easy to carry, hang, or travel with• Modern Color Options – Available in Blue and White Enjoy music without limits—anytime, anywhere—with the Purvolt Waterproof Wireless Speaker.
-  Updated: 2026-05-01T00:31:07Z
+  Updated: 2026-05-09T00:30:57Z
   Vendor: Pursonic
   Product Type: SPEAKER
   Availability: Available
@@ -6197,7 +6204,7 @@
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/81TzC7h2sUL.jpg?v=1774993555
     Price: $45.99 USD
 - [Pajama pants --Heart Print Drawstring Waist Wide Leg Pants](https://tcou.net/products/heart-print-drawstring-waist-wide-leg-pants): Features: Drawstring, Pocketed Material composition:100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Bottom Length S 26.8-38.6 40.2 40.7 M 28.3-40.2 41.7 41.1 L 30.7-42.5 44.1 41.3 XL 33.1-44.9 46.5 41.6
-  Updated: 2026-04-27T12:41:02Z
+  Updated: 2026-05-09T02:20:47Z
   Vendor: Trendsi
   Product Type: pajama-pants
   Availability: Available
@@ -6536,28 +6543,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/81ixDRtBGrL.jpg?v=1775397489
     Price: $59.95 USD
-- [Necklace--Personalized name and birthstone, beautiful name necklace, in silver or gold. 16" to 18" adjustable cable chain.](https://tcou.net/products/necklace-personalized-name-and-birthstone-beautiful-name-necklace-in-silver-or-gold-16-to-18-adjustable-cable-chain-shop-229488-1902): Custom Name Necklace with Birthstone Give your special someone a personalized necklace made just for them — now with a personal touch that's truly one of a kind! Our Custom Name Necklace with Birthstone combines a timeless cursive name design with a sparkling birthstone charm, making it the ultimate gift for the people you love most. Whether it's a birthday, anniversary, holiday, or just because, this necklace is as meaningful as it is beautiful. This elegant necklace features a cursive name suspended on a 16"–18" adjustable cable chain, finished with a dazzling birthstone charm in your choice of 12 colors — one for every month of the year. It's a layered way to personalize: their name, their stone, their story. Your necklace will be custom made upon ordering in the name or word of your choice, up to 11 characters. It's a gift they'll surely want to keep close to their heart forever! Product Specifications: Customized up to 11 characters Birthstone charm available in 12 colors (January–December) Polished stainless steel Adjustable cable chain (16"–18") 9mm lobster clasp MADE IN THE USA! Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
-  Updated: 2026-04-23T20:55:12Z
-  Vendor: ShineOn Fulfillment
-  Product Type: Jewelry
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2779/2954/files/asset_10855_transformation_33458.jpg?v=1775423768
-  - [Polished Stainless Steel / Standard Box](https://tcou.net/products/necklace-personalized-name-and-birthstone-beautiful-name-necklace-in-silver-or-gold-16-to-18-adjustable-cable-chain-shop-229488-1902?variant=42661401755735)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/asset_10855_transformation_33471.jpg?v=1775423788
-    Price: $39.95 USD
-  - [Polished Stainless Steel / Luxury Box](https://tcou.net/products/necklace-personalized-name-and-birthstone-beautiful-name-necklace-in-silver-or-gold-16-to-18-adjustable-cable-chain-shop-229488-1902?variant=42661401788503)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/asset_10855_transformation_33471.jpg?v=1775423788
-    Price: $59.95 USD
-  - [18k Yellow Gold Finish / Standard Box](https://tcou.net/products/necklace-personalized-name-and-birthstone-beautiful-name-necklace-in-silver-or-gold-16-to-18-adjustable-cable-chain-shop-229488-1902?variant=42661401821271)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/asset_10857_transformation_33486.jpg?v=1775423812
-    Price: $49.95 USD
-  - [18k Yellow Gold Finish / Luxury Box](https://tcou.net/products/necklace-personalized-name-and-birthstone-beautiful-name-necklace-in-silver-or-gold-16-to-18-adjustable-cable-chain-shop-229488-1902?variant=42661401854039)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/asset_10857_transformation_33486.jpg?v=1775423812
-    Price: $69.95 USD
 - [Mental Health Matters T-Shirt, Women, Be Kind to Your Mind. Tshirt Inspirational, Short Sleeve Top, TCoU Recommendations from Amazon Products](https://tcou.net/products/mental-health-matters-shirt-women-be-kind-to-your-mind-letter-print-tshirt-inspirational-tee-graphic-short-sleeve-top): .aplus-v2 .aplus-content-wrapper { position: relative; overflow: hidden; } .aplus-v2 .container-with-background-image { width: 100%; height: 100%; background-repeat: no-repeat; background-size: cover; } .aplus-v2 .premium-aplus-module-2 .premium-background-wrapper { position: relative; } .aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper { position: absolute; width: 50%; height: 100%; top: 0; } .aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper.right { left: 50%; } html[dir="rtl"] .aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper.right { left: auto; right: 50%; } .aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper.secondary-color { color: #fff; } .aplus-v2 .premium-aplus-module-2 .premium-intro-background { padding: 20px; } .aplus-v2 .premium-aplus-module-2 .aplus-module-2-topic { padding-bottom: 10px; } .aplus-v2 .premium-aplus-module-2 .aplus-module-2-heading { padding-bottom: 20px; } .aplus-v2 .premium-aplus-module-2 .aplus-module-2-description { line-height: 1.5em; } .aplus-v2 .premium-aplus-module-2 .premium-intro-background.white-background { background: rgba(255,255,255,0.5); } .aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background { background: rgba(0,0,0,0.5); } .aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background, .aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background h1, .aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background h5, .aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background ol, .aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background ul, .aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background ol .a-list-item, .aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background ul .a-list-item { color: #fff; } .aplus-v2 .premium-aplus-module-2 .premium-intro-content-container { display: table; height: 100%; } .aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper.left .premium-intro-content-container { padding-left: 40px; } html[dir="rtl"] .aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper.left .premium-intro-content-container { padding-left: 0px; padding-right: 40px; } .aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper.right .premium-intro-content-container { padding-right: 40px; } html[dir="rtl"] .aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper.right .premium-intro-content-container { padding-right: 0px; padding-left: 40px; } .aplus-v2 .premium-aplus-module-2 .premium-intro-content-column { display: table-cell; vertical-align: middle; } /** * Premium modules global styles */ .aplus-v2.desktop { max-width: 1464px; min-width: 800px; margin-left: auto; margin-right: auto; word-wrap: break-word; overflow-wrap: break-word; word-break: break-word; } /* Undo this for tech-specs because it breaks table layout */ .aplus-v2.desktop .premium-aplus .aplus-tech-spec-table { word-break: initial; } .aplus-v2 .premium-aplus, .aplus-v2 .premium-aplus .aplus-h1, .aplus-v2 .premium-aplus .aplus-h2, .aplus-v2 .premium-aplus .aplus-p1, .aplus-v2 .premium-aplus .aplus-p2, .aplus-v2 .premium-aplus .aplus-p3, .aplus-v2 .premium-aplus .aplus-accent1, .aplus-v2 .premium-aplus .aplus-accent2 { font-family: Arial, sans-serif; } .aplus-v2 .premium-aplus, .aplus-v2 .premium-aplus .aplus-h1, .aplus-v2 .premium-aplus .aplus-h2, .aplus-v2 .premium-aplus .aplus-p1, .aplus-v2 .premium-aplus .aplus-p2, .aplus-v2 .premium-aplus .aplus-p3, .aplus-v2 .premium-aplus .aplus-accent1, .aplus-v2 .premium-aplus .aplus-accent2 { font-family: inherit; } /* type */ .aplus-v2 .premium-aplus .aplus-h1 { font-size: 32px; line-height: 1.2em; font-weight: 500; } .aplus-v2 .premium-aplus .aplus-h2 { font-size: 26px; line-height: 1.25em; font-weight: 500; } .aplus-v2 .premium-aplus .aplus-h3 { font-size: 18px; line-height: 1.25em; font-weight: 500; } .aplus-v2 .premium-aplus .aplus-p1 { font-size: 20px; line-height: 1.3em; font-weight: 300; } .aplus-v2 .premium-aplus .aplus-p2 { font-size: 16px; line-height: 1.4em; font-weight: 300; } .aplus-v2 .premium-aplus .aplus-p3 { font-size: 14px; line-height: 1.4em; font-weight: 300; } .aplus-v2 .premium-aplus .aplus-accent1 { font-size: 16px; line-height: 1.4em; font-weight: 600; } .aplus-v2 .premium-aplus .aplus-accent2 { font-size: 14px; line-height: 1.4em; font-weight: 600; } /* spacing */ .aplus-v2 .aplus-container-1 { padding: 40px; } .aplus-v2 .aplus-container-1-2 { padding: 40px 80px; } .aplus-v2 .aplus-container-2 { padding: 80px; } .aplus-v2 .aplus-container-3 { padding: 40px 0; } /* Display */ .aplus-v2 .premium-aplus .aplus-display-table { display: table; } .aplus-v2 .premium-aplus .aplus-display-table-cell { display: table-cell; } .aplus-v2 .premium-aplus .aplus-display-inline-block { display: inline-block; } /* Aplus display table with min-width 1000px and fill remaining space inside parent */ .aplus-v2.desktop .premium-aplus .aplus-display-table-width { min-width: 1000px; width: 100% } /** * Padding and margin for element should be 10, 20, 40, or 80 px. Considering mini 10, small 20, medium 40, large 80. */ Mental Health Matters Shirt for Women Be Kind to Your Mind Letter Print Tshirt Women Oversized Human Mental Illness Awareness Tshirt Soft and skin-friendly and not easy to shrink or fade after washing Please select the appropriate size according to the size chart Fabric type 60% Cotton, 35% Polyester, 5% Spandex Care instructions Machine Wash, Hand Wash Only Origin Imported Closure type Pull On About this item Material and Size: S=US(4-6),M=US(8-10),L=US(12-14),XL=US(16),XXL=US(18-20). This cute mental health matters tee awareness graphic t-shirt is made of 60% Cotton, 35% Polyester, 5% Spandex, it is soft and skin-friendly. The right fit gives you comfortable wearing experience. EXCELLENT DESIGN: This human mental illness awareness T shirt adopts a classic round neck style, with a colorful mental health matters print on the back and the chest. The oversized design no longer constricts your torso and inspirational words can make you feel empowered and present in the world. OCCASION: The oversized and mental health colorful letter design is great for any outfit and any occasion and is a good choice for everyday outfit. The cute and unique loose graphic tee will make you the brightest star in the crowd. CUTE GIFT: You can make it the lovely gift for mama, sister, friend, supporters of mental health, victim of depression, mental health professionals, therapists, mental health nurses, school counselors, teacher and volunteer. Uplifting words will energize those around you. TIPS: Package include 1 x Cute Mental Health Matters T-Shirt for women. Recommended machine/hand wash and wash inside out and line dry. PLEASE DON'T PUT IT IN THE DRYER, DRY CLEAN, or BLEACH.
   Updated: 2026-04-06T18:31:10Z
   Vendor: Amazon
@@ -7264,7 +7249,7 @@
   Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9337860674473425812_2048.jpg?v=1775960201
   Price: $41.20 USD
 - ["I'm on Time-Out, Time to Find My Happy", Women's Racerback Tank Top](https://tcou.net/products/im-on-time-out-time-to-find-my-happy-womens-racerback-tank-top): XS S M L XL 2XL Width, in 13.98 15.00 15.98 16.97 17.99 18.98 Length, in 26.97 27.48 27.95 28.46 28.98 29.49 A high-quality print of this slim fit tank-top will turn heads. Bystanders won't be disappointed - the racerback cut looks good on any woman's shoulders. .: Made with extra light fabric (60% combed, ring-spun cotton and 40% polyester: 4 oz/yd² (135 g/m²)) this racerback tank is supremely lightweight and an excellent choice for the active lifestyle..: The classic fit along make the tank a comfortable choice under high performance while the scooped neckline brings a sporty touch to the whole outfit. .: For a completely scratch-free experience, all tanks come with a tear-away label for unhindered performance on a daily basis..: Neck label print area is decorated with Direct-to-Film (DTF) or Direct-to-garment (DTG) methods.
-  Updated: 2026-05-02T00:37:55Z
+  Updated: 2026-05-02T12:35:47Z
   Vendor: Printify
   Product Type: Tank Top
   Availability: Available
@@ -7390,7 +7375,7 @@
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/14531796408552342693_2048.jpg?v=1777682164
     Price: $33.95 USD
 - [TCoU--Take Care of You, Black 15oz Mug — Inspirational Infinity Coffee Cup](https://tcou.net/products/tcou-take-care-of-you-black-15oz-mug-inspirational-infinity-coffee-cup): This glossy black 15oz mug brings a quiet, confident energy to your morning ritual. Satin-black ceramic wraps a minimalist white infinity logo and the handwritten motto “TCoU--Take Care of You,” a small reminder to slow down and honor your own needs. It feels substantial in the hand but stays approachable — the wide C-handle gives steady grip while the tall 15oz shape holds an extra-serving of coffee, tea, or cocoa. Durable and everyday-ready, it blends into a modern kitchen, an artist’s studio, or a bedside table where self-care starts and ends the day.Product features- Glossy black ceramic finish for a sleek, modern look- Generous 15oz capacity for larger servings- Dishwasher- and microwave-safe for everyday convenience- Comfortable C-shaped handle for easy grip- Lead- and BPA-free; meets relevant ceramicware safety standardsCare instructions- Clean in dishwasher or wash by hand with warm water and dish soap
-  Updated: 2026-04-23T05:07:49Z
+  Updated: 2026-05-03T20:25:59Z
   Vendor: Printify
   Product Type: Mug
   Availability: Available
@@ -7666,110 +7651,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/KodakCharmera-4.jpg?v=1776774478
     Price: $34.99 USD
-- [Smile Tank Top — 'One Kind Smile can make the difference' Inspirational Women's Performance Tank](https://tcou.net/products/smile-tank-top-one-kind-look-one-simple-smile-inspirational-womens-performance-tank): Join TCoU in spreading the word. 'One Kind Smile can make the difference'…pass it on’—that invites gentle connection wherever you go. Breathable polyester and quick-dry Dry Zone fibers keep you cool during long runs, errands, or weekend adventures. A lightweight, sun-smart tank made for moving through warm days with a little extra kindness. The front carries a cheerful purple smiley that brightens street corners and yoga mats alike, while the back shares a short, heartfelt reminder—The scoop neck and self-fabric binding offer a smooth, comfortable fit that layers easily under a hoodie or stands alone under the sun, with UPF50 blocking harsh rays so you can stay outside longer without worry. Product features- UPF50 sun protection to block harmful UV rays- Dry Zone moisture-wicking fabric keeps skin cool and dry- Lightweight 3.8 oz 100% polyester for fast drying and durability- Self-fabric binding at neckline and armholes for comfortable fit- Removable tag for itch-free wear and easy relabelingCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Do not iron- Do not dryclean
-  Updated: 2026-04-23T09:13:16Z
-  Vendor: Printify
-  Product Type: Tank Top
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2779/2954/files/728838030027103610_2048.jpg?v=1776892395
-  - [XXL / Jet Black](https://tcou.net/products/smile-tank-top-one-kind-look-one-simple-smile-inspirational-womens-performance-tank?variant=42715923939415)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/728838030027103610_2048.jpg?v=1776892395
-    Price: $34.26 USD
-  - [XXL / Red](https://tcou.net/products/smile-tank-top-one-kind-look-one-simple-smile-inspirational-womens-performance-tank?variant=42715923972183)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/2591624145156838989_2048.jpg?v=1776892397
-    Price: $34.26 USD
-  - [XXL / True Navy](https://tcou.net/products/smile-tank-top-one-kind-look-one-simple-smile-inspirational-womens-performance-tank?variant=42715924004951)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/728838030027103610_2048_7eb23ae7-7978-475f-8e56-c1ac5d9e9265.jpg?v=1776892395
-    Price: $34.26 USD
-  - [XS / Jet Black](https://tcou.net/products/smile-tank-top-one-kind-look-one-simple-smile-inspirational-womens-performance-tank?variant=42715924037719)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/728838030027103610_2048.jpg?v=1776892395
-    Price: $29.86 USD
-  - [XS / Red](https://tcou.net/products/smile-tank-top-one-kind-look-one-simple-smile-inspirational-womens-performance-tank?variant=42715924070487)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/2591624145156838989_2048.jpg?v=1776892397
-    Price: $29.86 USD
-  - [XS / True Navy](https://tcou.net/products/smile-tank-top-one-kind-look-one-simple-smile-inspirational-womens-performance-tank?variant=42715924103255)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/728838030027103610_2048_7eb23ae7-7978-475f-8e56-c1ac5d9e9265.jpg?v=1776892395
-    Price: $29.86 USD
-  - [S / Jet Black](https://tcou.net/products/smile-tank-top-one-kind-look-one-simple-smile-inspirational-womens-performance-tank?variant=42715924136023)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/728838030027103610_2048.jpg?v=1776892395
-    Price: $29.86 USD
-  - [S / Red](https://tcou.net/products/smile-tank-top-one-kind-look-one-simple-smile-inspirational-womens-performance-tank?variant=42715924168791)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/2591624145156838989_2048.jpg?v=1776892397
-    Price: $29.86 USD
-  - [S / True Navy](https://tcou.net/products/smile-tank-top-one-kind-look-one-simple-smile-inspirational-womens-performance-tank?variant=42715924201559)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/728838030027103610_2048_7eb23ae7-7978-475f-8e56-c1ac5d9e9265.jpg?v=1776892395
-    Price: $29.86 USD
-  - [M / Jet Black](https://tcou.net/products/smile-tank-top-one-kind-look-one-simple-smile-inspirational-womens-performance-tank?variant=42715924234327)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/728838030027103610_2048.jpg?v=1776892395
-    Price: $29.86 USD
-  - [M / Red](https://tcou.net/products/smile-tank-top-one-kind-look-one-simple-smile-inspirational-womens-performance-tank?variant=42715924267095)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/2591624145156838989_2048.jpg?v=1776892397
-    Price: $29.86 USD
-  - [M / True Navy](https://tcou.net/products/smile-tank-top-one-kind-look-one-simple-smile-inspirational-womens-performance-tank?variant=42715924299863)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/728838030027103610_2048_7eb23ae7-7978-475f-8e56-c1ac5d9e9265.jpg?v=1776892395
-    Price: $29.86 USD
-  - [L / Jet Black](https://tcou.net/products/smile-tank-top-one-kind-look-one-simple-smile-inspirational-womens-performance-tank?variant=42715924332631)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/728838030027103610_2048.jpg?v=1776892395
-    Price: $29.86 USD
-  - [L / Red](https://tcou.net/products/smile-tank-top-one-kind-look-one-simple-smile-inspirational-womens-performance-tank?variant=42715924365399)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/2591624145156838989_2048.jpg?v=1776892397
-    Price: $29.86 USD
-  - [L / True Navy](https://tcou.net/products/smile-tank-top-one-kind-look-one-simple-smile-inspirational-womens-performance-tank?variant=42715924398167)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/728838030027103610_2048_7eb23ae7-7978-475f-8e56-c1ac5d9e9265.jpg?v=1776892395
-    Price: $29.86 USD
-  - [XL / Jet Black](https://tcou.net/products/smile-tank-top-one-kind-look-one-simple-smile-inspirational-womens-performance-tank?variant=42715924430935)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/728838030027103610_2048.jpg?v=1776892395
-    Price: $29.86 USD
-  - [XL / Red](https://tcou.net/products/smile-tank-top-one-kind-look-one-simple-smile-inspirational-womens-performance-tank?variant=42715924463703)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/2591624145156838989_2048.jpg?v=1776892397
-    Price: $29.86 USD
-  - [XL / True Navy](https://tcou.net/products/smile-tank-top-one-kind-look-one-simple-smile-inspirational-womens-performance-tank?variant=42715924496471)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/728838030027103610_2048_7eb23ae7-7978-475f-8e56-c1ac5d9e9265.jpg?v=1776892395
-    Price: $29.86 USD
-  - [3XL / Jet Black](https://tcou.net/products/smile-tank-top-one-kind-look-one-simple-smile-inspirational-womens-performance-tank?variant=42715924529239)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/728838030027103610_2048.jpg?v=1776892395
-    Price: $37.26 USD
-  - [3XL / Red](https://tcou.net/products/smile-tank-top-one-kind-look-one-simple-smile-inspirational-womens-performance-tank?variant=42715924562007)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/2591624145156838989_2048.jpg?v=1776892397
-    Price: $37.26 USD
-  - [3XL / True Navy](https://tcou.net/products/smile-tank-top-one-kind-look-one-simple-smile-inspirational-womens-performance-tank?variant=42715924594775)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/728838030027103610_2048_7eb23ae7-7978-475f-8e56-c1ac5d9e9265.jpg?v=1776892395
-    Price: $37.26 USD
-  - [4XL / Jet Black](https://tcou.net/products/smile-tank-top-one-kind-look-one-simple-smile-inspirational-womens-performance-tank?variant=42715924627543)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/728838030027103610_2048.jpg?v=1776892395
-    Price: $37.26 USD
-  - [4XL / Red](https://tcou.net/products/smile-tank-top-one-kind-look-one-simple-smile-inspirational-womens-performance-tank?variant=42715924660311)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/2591624145156838989_2048.jpg?v=1776892397
-    Price: $37.26 USD
-  - [4XL / True Navy](https://tcou.net/products/smile-tank-top-one-kind-look-one-simple-smile-inspirational-womens-performance-tank?variant=42715924693079)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/728838030027103610_2048_7eb23ae7-7978-475f-8e56-c1ac5d9e9265.jpg?v=1776892395
-    Price: $37.26 USD
-- [HOBO-Fringe Hem Long Sleeve Mini Dress](https://tcou.net/products/fringe-hem-long-sleeve-mini-dress): Features: Fringe Stretch: No stretch Body: Not lined Material composition:100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Bust S 25.6 36.2 M 26 37.8 L 26.4 40.2 XL 26.8 42.5
-  Updated: 2026-05-02T03:33:57Z
+- [BOHO-Fringe Hem Long Sleeve Mini Dress](https://tcou.net/products/fringe-hem-long-sleeve-mini-dress): Features: Fringe Stretch: No stretch Body: Not lined Material composition:100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Bust S 25.6 36.2 M 26 37.8 L 26.4 40.2 XL 26.8 42.5
+  Updated: 2026-05-07T02:14:13Z
   Vendor: Trendsi
   Product Type: dress
   Availability: Available
@@ -7790,8 +7673,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/6572a72dd61a49cd9856aa08f17b1892-Max.jpg?v=1776802444
     Price: $36.95 USD
-- [HOBO-Fringe Hem Notched Long Sleeve Dress](https://tcou.net/products/fringe-hem-notched-long-sleeve-dress): Features: Fringe Stretch: No stretch Body: Not lined Material composition:100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Bust Sleeve Length S 41.3 37 22.8 M 41.7 38.6 23.2 L 42.1 40.9 23.6 XL 42.5 43.3 24
-  Updated: 2026-04-26T21:10:13Z
+- [BOHO-Fringe Hem Notched Long Sleeve Dress](https://tcou.net/products/fringe-hem-notched-long-sleeve-dress): Features: Fringe Stretch: No stretch Body: Not lined Material composition:100% polyester Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Bust Sleeve Length S 41.3 37 22.8 M 41.7 38.6 23.2 L 42.1 40.9 23.6 XL 42.5 43.3 24
+  Updated: 2026-05-09T02:47:57Z
   Vendor: Trendsi
   Product Type: dress
   Availability: Available
@@ -7817,7 +7700,7 @@
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/1e31c73464d64e14afaf4fc622a0427d-Max.jpg?v=1776802568
     Price: $56.40 USD
 - [Leggings--Printed Wide Waistband Active Leggings with Stirrups](https://tcou.net/products/printed-wide-waistband-active-leggings-with-stirrups): Features: Basic style, Stirrup Stretch: Highly stretchy Material composition: 85% polyester,15% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Bottom Length Waist Hip S 2/4 35.8 23.6 29.5 M 6 36.4 25.2 31.1 L 8 37 26.8 32.7 XL 10 37.6 28.3 34.3
-  Updated: 2026-04-22T08:21:23Z
+  Updated: 2026-05-03T20:26:00Z
   Vendor: Trendsi
   Product Type: leggings
   Availability: Available
@@ -8167,239 +8050,1164 @@
     Availability: Available
     Price: $15.98 USD
 - [TCoU-Take Care of You Heart Keychain — Gentle Reminder of Self Love with Sunset Hands Love Photo Keyring](https://tcou.net/products/tcou-take-care-of-you-heart-keychain-gentle-reminder-of-self-love-with-sunset-hands-love-photo-keyring): A small stainless steel heart keychain that carries a quiet warmth reminder to "Take Care of YOU". The polished metal frame holds a glossy photo insert of two hands forming a heart against a golden sunset, catching light as you move it. It feels solid but feather-light in a pocket. Use it on keys, backpacks, or hung from a zipper to keep a private reminder close — a daily reminder of someone or someplace that matters.This piece blends durability with a soft, sentimental look. The stainless steel resists rust and keeps the shine through everyday use. Its compact size slips into pockets or purse compartments without adding bulk, and the smooth edges make it gentle to carry. Whether tucked into a travel bag on a weekend escape or clipped to daily keys, it turns small moments into something you can hold.Product features- Durable stainless steel resists rust and corrosion- Compact heart-shaped design fits pockets and bags- Lightweight and smooth for comfortable everyday carry One size Width, in 1.57 Height, in 2.83 Care instructions- Clean with a dry cloth
-  Updated: 2026-04-23T02:36:31Z
+  Updated: 2026-05-05T13:16:16Z
   Vendor: Printify
   Product Type: Accessories
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2779/2954/files/17747774164765250079_2048.jpg?v=1776868586
+  Image: https://cdn.shopify.com/s/files/1/2779/2954/files/17747774164765250079_2048.jpg?v=1777986975
   Price: $7.00 USD
 - [Saying No Is Self-Care T-shirt — Mindful Self-Love Graphic T-Shirt](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt): Being Nice Becomes Self-Neglect when we say yes but should have said no S M L XL 2XL Length, in 22.75 24.75 26.50 28.00 30.00 Width, in 26.75 27.25 29.25 31.25 31.25 Sleeve length, in 10.25 10.50 11.50 11.50 11.75 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 . Saying No Is Self-Care. It is part of taking care of you. This T-Shirt says exactly that as a reminder to you and others around you that you need to say no sometimes to take care of you. Soft, relaxed-fit tee that speaks gently and clearly. This garment-dyed shirt carries a calming message—"Saying No Is Self-Care"—front and center in an elegant serif layout with subtle botanical accents. The muted, vintage-washed color and slightly oversized drop-shoulder silhouette make it feel lived-in from the first wear. It’s the kind of shirt you reach for on heavy days: to set a boundary, to breathe, to move through your errands or cozy up at home. The small, graceful logo on the upper back keeps the design thoughtful and understated. Wear it with your favorite jeans, a cardigan, or layered under a jacket when you need a quiet reminder to prioritize yourself.Product features- 100% USA cotton with a durable, smooth knit- Garment-dyed for a soft hand and vintage-washed color- Drop-shoulder, relaxed silhouette with forward-stitched shoulder seam- Medium-weight 7.5 oz fabric with double-needle stitched collar- Assembled in the USA; tear-away label for comfortCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: gentle cycle, low heat
-  Updated: 2026-05-02T10:14:45Z
+  Updated: 2026-05-08T13:22:41Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11165473552343269328_2048.jpg?v=1777673675
+  Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11165473552343269328_2048.jpg?v=1777749303
   - [S / Cream](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt?variant=42740351303767)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/17566163368531178597_2048.jpg?v=1777673682
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/17566163368531178597_2048.jpg?v=1777986558
+    Price: $34.95 USD
   - [S / White](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt?variant=42740351336535)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11165473552343269328_2048.jpg?v=1777673675
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11165473552343269328_2048.jpg?v=1777749303
+    Price: $34.95 USD
   - [S / Peach](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt?variant=42740351369303)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/1513202988195931790_2048.jpg?v=1777673688
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/1513202988195931790_2048.jpg?v=1777986595
+    Price: $34.95 USD
   - [M / Cream](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt?variant=42740351402071)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/17566163368531178597_2048.jpg?v=1777673682
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/17566163368531178597_2048.jpg?v=1777986558
+    Price: $34.95 USD
   - [M / White](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt?variant=42740351434839)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11165473552343269328_2048.jpg?v=1777673675
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11165473552343269328_2048.jpg?v=1777749303
+    Price: $34.95 USD
   - [L / Cream](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt?variant=42740351467607)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/17566163368531178597_2048.jpg?v=1777673682
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/17566163368531178597_2048.jpg?v=1777986558
+    Price: $34.95 USD
   - [L / White](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt?variant=42740351500375)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11165473552343269328_2048.jpg?v=1777673675
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11165473552343269328_2048.jpg?v=1777749303
+    Price: $34.95 USD
   - [L / Peach](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt?variant=42740351533143)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/1513202988195931790_2048.jpg?v=1777673688
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/1513202988195931790_2048.jpg?v=1777986595
+    Price: $34.95 USD
   - [XL / Cream](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt?variant=42740351565911)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/17566163368531178597_2048.jpg?v=1777673682
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/17566163368531178597_2048.jpg?v=1777986558
+    Price: $34.95 USD
   - [XL / Peach](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt?variant=42740351598679)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/1513202988195931790_2048.jpg?v=1777673688
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/1513202988195931790_2048.jpg?v=1777986595
+    Price: $34.95 USD
   - [XL / White](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt?variant=42740351631447)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11165473552343269328_2048.jpg?v=1777673675
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11165473552343269328_2048.jpg?v=1777749303
+    Price: $34.95 USD
   - [2XL / Cream](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt?variant=42740351664215)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/17566163368531178597_2048.jpg?v=1777673682
-    Price: $45.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/17566163368531178597_2048.jpg?v=1777986558
+    Price: $39.95 USD
   - [2XL / White](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt?variant=42740351696983)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11165473552343269328_2048.jpg?v=1777673675
-    Price: $45.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11165473552343269328_2048.jpg?v=1777749303
+    Price: $39.95 USD
   - [2XL / Peach](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt?variant=42740351729751)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/1513202988195931790_2048.jpg?v=1777673688
-    Price: $45.25 USD
-- [Nice isn't always Kind—"Be Kind"-- Mindful Self-Love Graphic T-Shirt](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt-1): Most of us were taught to be nice. Fewer of us were taught how to be kind in a way that includes honesty, boundaries, and courage. Nice is easy to give.Kindness takes intention. But kindness is what people remember. It’s what builds trust, strengthens relationships, and creates real impact — in leadership, in business, and in life. S M L XL 2XL Length, in 22.75 24.75 26.50 28.00 30.00 Width, in 26.75 27.25 29.25 31.25 31.25 Sleeve length, in 10.25 10.50 11.50 11.50 11.75 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 This T-Shirt says exactly that as a reminder to you and others around you that you need to say no sometimes to take care of you. Soft, relaxed-fit tee that speaks gently and clearly. This garment-dyed shirt carries a calming message—"Nice isn't always Kind"—front and center in an elegant serif layout with subtle botanical accents but reminding us to "Be Kind". The muted, vintage-washed color and slightly oversized drop-shoulder silhouette make it feel lived-in from the first wear. It’s the kind of shirt you reach for on heavy days: to set a boundary, to breathe, to move through your errands or cozy up at home. The small, graceful logo on the upper back keeps the design thoughtful and understated. Wear it with your favorite jeans, a cardigan, or layered under a jacket when you need a quiet reminder to prioritize yourself.Product features- 100% USA cotton with a durable, smooth knit- Garment-dyed for a soft hand and vintage-washed color- Drop-shoulder, relaxed silhouette with forward-stitched shoulder seam- Medium-weight 7.5 oz fabric with double-needle stitched collar- Assembled in the USA; tear-away label for comfortCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: gentle cycle, low heat
-  Updated: 2026-05-02T11:04:41Z
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/1513202988195931790_2048.jpg?v=1777986595
+    Price: $39.95 USD
+- [Nice Isn't Always Kind T-Shirt— Mindful Self-Love Graphic T-Shirt](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt-1): Most of us were taught to be nice. Fewer of us were taught how to be kind in a way that includes honesty, boundaries, and courage. Nice is easy to give.Kindness takes intention. But kindness is what people remember. It’s what builds trust, strengthens relationships, and creates real impact — in leadership, in business, and in life. S M L XL 2XL Length, in 22.75 24.75 26.50 28.00 30.00 Width, in 26.75 27.25 29.25 31.25 31.25 Sleeve length, in 10.25 10.50 11.50 11.50 11.75 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 This T-Shirt says exactly that as a reminder to you and others around you that you need to say no sometimes to take care of you. Soft, relaxed-fit tee that speaks gently and clearly. This garment-dyed shirt carries a calming message—"Saying No Is Self-Care"—front and center in an elegant serif layout with subtle botanical accents. The muted, vintage-washed color and slightly oversized drop-shoulder silhouette make it feel lived-in from the first wear. It’s the kind of shirt you reach for on heavy days: to set a boundary, to breathe, to move through your errands or cozy up at home. The small, graceful logo on the upper back keeps the design thoughtful and understated. Wear it with your favorite jeans, a cardigan, or layered under a jacket when you need a quiet reminder to prioritize yourself.Product features- 100% USA cotton with a durable, smooth knit- Garment-dyed for a soft hand and vintage-washed color- Drop-shoulder, relaxed silhouette with forward-stitched shoulder seam- Medium-weight 7.5 oz fabric with double-needle stitched collar- Assembled in the USA; tear-away label for comfortCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: gentle cycle, low heat
+  Updated: 2026-05-09T08:52:26Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9782744979852067947_2048.jpg?v=1777678914
+  Image: https://cdn.shopify.com/s/files/1/2779/2954/files/14159956971162749785_2048.jpg?v=1777986175
   - [S / Cream](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt-1?variant=42740403568727)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/1071645946173757986_2048.jpg?v=1777678926
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/1071645946173757986_2048.jpg?v=1777985991
+    Price: $34.95 USD
   - [S / White](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt-1?variant=42740403601495)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9782744979852067947_2048.jpg?v=1777678914
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9782744979852067947_2048.jpg?v=1777749249
+    Price: $34.95 USD
   - [S / Oatmeal](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt-1?variant=42740403634263)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/2579249697181304042_2048.jpg?v=1777678946
-    Price: $45.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/2579249697181304042_2048.jpg?v=1777985957
+    Price: $34.95 USD
   - [S / Peach](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt-1?variant=42740403667031)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9748213561867074695_2048.jpg?v=1777678933
-    Price: $40.25 USD
+    Price: $34.95 USD
   - [M / Cream](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt-1?variant=42740403699799)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/1071645946173757986_2048.jpg?v=1777678926
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/1071645946173757986_2048.jpg?v=1777985991
+    Price: $34.95 USD
   - [M / White](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt-1?variant=42740403732567)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9782744979852067947_2048.jpg?v=1777678914
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9782744979852067947_2048.jpg?v=1777749249
+    Price: $34.95 USD
   - [M / Oatmeal](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt-1?variant=42740403765335)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/2579249697181304042_2048.jpg?v=1777678946
-    Price: $45.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/2579249697181304042_2048.jpg?v=1777985957
+    Price: $34.95 USD
   - [L / Cream](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt-1?variant=42740403798103)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/1071645946173757986_2048.jpg?v=1777678926
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/1071645946173757986_2048.jpg?v=1777985991
+    Price: $34.95 USD
   - [L / White](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt-1?variant=42740403830871)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9782744979852067947_2048.jpg?v=1777678914
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9782744979852067947_2048.jpg?v=1777749249
+    Price: $34.95 USD
   - [L / Oatmeal](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt-1?variant=42740403863639)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/2579249697181304042_2048.jpg?v=1777678946
-    Price: $45.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/2579249697181304042_2048.jpg?v=1777985957
+    Price: $34.95 USD
   - [L / Peach](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt-1?variant=42740403896407)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9748213561867074695_2048.jpg?v=1777678933
-    Price: $40.25 USD
+    Price: $34.95 USD
   - [XL / Cream](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt-1?variant=42740403929175)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/1071645946173757986_2048.jpg?v=1777678926
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/1071645946173757986_2048.jpg?v=1777985991
+    Price: $34.95 USD
   - [XL / Oatmeal](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt-1?variant=42740403961943)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/2579249697181304042_2048.jpg?v=1777678946
-    Price: $45.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/2579249697181304042_2048.jpg?v=1777985957
+    Price: $34.95 USD
   - [XL / Peach](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt-1?variant=42740403994711)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9748213561867074695_2048.jpg?v=1777678933
-    Price: $40.25 USD
+    Price: $34.95 USD
   - [XL / White](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt-1?variant=42740404027479)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9782744979852067947_2048.jpg?v=1777678914
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9782744979852067947_2048.jpg?v=1777749249
+    Price: $34.95 USD
   - [2XL / Cream](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt-1?variant=42740404060247)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/1071645946173757986_2048.jpg?v=1777678926
-    Price: $45.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/1071645946173757986_2048.jpg?v=1777985991
+    Price: $39.95 USD
   - [2XL / White](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt-1?variant=42740404093015)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9782744979852067947_2048.jpg?v=1777678914
-    Price: $45.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9782744979852067947_2048.jpg?v=1777749249
+    Price: $39.95 USD
   - [2XL / Oatmeal](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt-1?variant=42740404125783)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/2579249697181304042_2048.jpg?v=1777678946
-    Price: $49.87 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/2579249697181304042_2048.jpg?v=1777985957
+    Price: $39.95 USD
   - [2XL / Peach](https://tcou.net/products/saying-no-is-self-care-tee-mindful-self-love-graphic-t-shirt-1?variant=42740404158551)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9748213561867074695_2048.jpg?v=1777678933
-    Price: $45.25 USD
+    Price: $39.95 USD
 - [Kindness includes you, taking care of yourself isn't selfish — Mindful Self-Love Graphic T-Shirt](https://tcou.net/products/kindness-includes-you-taking-care-of-yourself-isnt-selfish-mindful-self-love-graphic-t-shirt): Being Nice Becomes Self-Neglect when we say yes but should have said no S M L XL 2XL Length, in 22.75 24.75 26.50 28.00 30.00 Width, in 26.75 27.25 29.25 31.25 31.25 Sleeve length, in 10.25 10.50 11.50 11.50 11.75 Size tolerance, in 1.00 1.00 1.00 1.00 1.00 Taking care of you is NOT Selfish, it's a need. This T-Shirt says exactly that as a reminder to you and others around you that you need to say no sometimes to take care of you. Soft, relaxed-fit tee that speaks gently and clearly. This garment-dyed shirt carries a calming message—"Take care of You"—front and center in an elegant serif layout with subtle botanical accents. The muted, vintage-washed color and slightly oversized drop-shoulder silhouette make it feel lived-in from the first wear. It’s the kind of shirt you reach for on heavy days: to set a boundary, to breathe, to move through your errands or cozy up at home. The small, graceful logo on the upper back keeps the design thoughtful and understated. Wear it with your favorite jeans, a cardigan, or layered under a jacket when you need a quiet reminder to prioritize yourself.Product features- 100% USA cotton with a durable, smooth knit- Garment-dyed for a soft hand and vintage-washed color- Drop-shoulder, relaxed silhouette with forward-stitched shoulder seam- Medium-weight 7.5 oz fabric with double-needle stitched collar- Assembled in the USA; tear-away label for comfortCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: gentle cycle, low heat
-  Updated: 2026-05-02T11:27:41Z
+  Updated: 2026-05-08T13:25:47Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2779/2954/files/3735303138070864657_2048.jpg?v=1777678723
+  Image: https://cdn.shopify.com/s/files/1/2779/2954/files/3735303138070864657_2048.jpg?v=1777748840
   - [S / Cream](https://tcou.net/products/kindness-includes-you-taking-care-of-yourself-isnt-selfish-mindful-self-love-graphic-t-shirt?variant=42740417298519)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/2187965103330051250_2048.jpg?v=1777678730
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/2187965103330051250_2048.jpg?v=1777748589
+    Price: $34.95 USD
   - [S / White](https://tcou.net/products/kindness-includes-you-taking-care-of-yourself-isnt-selfish-mindful-self-love-graphic-t-shirt?variant=42740417331287)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/3735303138070864657_2048.jpg?v=1777678723
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/3735303138070864657_2048.jpg?v=1777748840
+    Price: $34.95 USD
   - [S / Oatmeal](https://tcou.net/products/kindness-includes-you-taking-care-of-yourself-isnt-selfish-mindful-self-love-graphic-t-shirt?variant=42740417364055)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/6934730303300708368_2048.jpg?v=1777678744
-    Price: $45.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/6934730303300708368_2048.jpg?v=1777984437
+    Price: $34.95 USD
   - [S / Peach](https://tcou.net/products/kindness-includes-you-taking-care-of-yourself-isnt-selfish-mindful-self-love-graphic-t-shirt?variant=42740417396823)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11015882508277266468_2048.jpg?v=1777678736
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11015882508277266468_2048.jpg?v=1777984401
+    Price: $34.95 USD
   - [M / Cream](https://tcou.net/products/kindness-includes-you-taking-care-of-yourself-isnt-selfish-mindful-self-love-graphic-t-shirt?variant=42740417429591)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/2187965103330051250_2048.jpg?v=1777678730
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/2187965103330051250_2048.jpg?v=1777748589
+    Price: $34.95 USD
   - [M / White](https://tcou.net/products/kindness-includes-you-taking-care-of-yourself-isnt-selfish-mindful-self-love-graphic-t-shirt?variant=42740417462359)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/3735303138070864657_2048.jpg?v=1777678723
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/3735303138070864657_2048.jpg?v=1777748840
+    Price: $34.95 USD
   - [M / Oatmeal](https://tcou.net/products/kindness-includes-you-taking-care-of-yourself-isnt-selfish-mindful-self-love-graphic-t-shirt?variant=42740417495127)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/6934730303300708368_2048.jpg?v=1777678744
-    Price: $45.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/6934730303300708368_2048.jpg?v=1777984437
+    Price: $34.95 USD
   - [L / Cream](https://tcou.net/products/kindness-includes-you-taking-care-of-yourself-isnt-selfish-mindful-self-love-graphic-t-shirt?variant=42740417527895)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/2187965103330051250_2048.jpg?v=1777678730
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/2187965103330051250_2048.jpg?v=1777748589
+    Price: $34.95 USD
   - [L / White](https://tcou.net/products/kindness-includes-you-taking-care-of-yourself-isnt-selfish-mindful-self-love-graphic-t-shirt?variant=42740417560663)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/3735303138070864657_2048.jpg?v=1777678723
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/3735303138070864657_2048.jpg?v=1777748840
+    Price: $34.95 USD
   - [L / Oatmeal](https://tcou.net/products/kindness-includes-you-taking-care-of-yourself-isnt-selfish-mindful-self-love-graphic-t-shirt?variant=42740417593431)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/6934730303300708368_2048.jpg?v=1777678744
-    Price: $45.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/6934730303300708368_2048.jpg?v=1777984437
+    Price: $34.95 USD
   - [L / Peach](https://tcou.net/products/kindness-includes-you-taking-care-of-yourself-isnt-selfish-mindful-self-love-graphic-t-shirt?variant=42740417626199)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11015882508277266468_2048.jpg?v=1777678736
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11015882508277266468_2048.jpg?v=1777984401
+    Price: $34.95 USD
   - [XL / Cream](https://tcou.net/products/kindness-includes-you-taking-care-of-yourself-isnt-selfish-mindful-self-love-graphic-t-shirt?variant=42740417658967)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/2187965103330051250_2048.jpg?v=1777678730
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/2187965103330051250_2048.jpg?v=1777748589
+    Price: $34.95 USD
   - [XL / Oatmeal](https://tcou.net/products/kindness-includes-you-taking-care-of-yourself-isnt-selfish-mindful-self-love-graphic-t-shirt?variant=42740417691735)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/6934730303300708368_2048.jpg?v=1777678744
-    Price: $45.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/6934730303300708368_2048.jpg?v=1777984437
+    Price: $34.95 USD
   - [XL / Peach](https://tcou.net/products/kindness-includes-you-taking-care-of-yourself-isnt-selfish-mindful-self-love-graphic-t-shirt?variant=42740417724503)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11015882508277266468_2048.jpg?v=1777678736
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11015882508277266468_2048.jpg?v=1777984401
+    Price: $34.95 USD
   - [XL / White](https://tcou.net/products/kindness-includes-you-taking-care-of-yourself-isnt-selfish-mindful-self-love-graphic-t-shirt?variant=42740417757271)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/3735303138070864657_2048.jpg?v=1777678723
-    Price: $40.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/3735303138070864657_2048.jpg?v=1777748840
+    Price: $34.95 USD
   - [2XL / Cream](https://tcou.net/products/kindness-includes-you-taking-care-of-yourself-isnt-selfish-mindful-self-love-graphic-t-shirt?variant=42740417790039)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/2187965103330051250_2048.jpg?v=1777678730
-    Price: $45.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/2187965103330051250_2048.jpg?v=1777748589
+    Price: $39.95 USD
   - [2XL / White](https://tcou.net/products/kindness-includes-you-taking-care-of-yourself-isnt-selfish-mindful-self-love-graphic-t-shirt?variant=42740417822807)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/3735303138070864657_2048.jpg?v=1777678723
-    Price: $45.25 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/3735303138070864657_2048.jpg?v=1777748840
+    Price: $39.95 USD
   - [2XL / Oatmeal](https://tcou.net/products/kindness-includes-you-taking-care-of-yourself-isnt-selfish-mindful-self-love-graphic-t-shirt?variant=42740417855575)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/6934730303300708368_2048.jpg?v=1777678744
-    Price: $49.87 USD
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/6934730303300708368_2048.jpg?v=1777984437
+    Price: $39.95 USD
   - [2XL / Peach](https://tcou.net/products/kindness-includes-you-taking-care-of-yourself-isnt-selfish-mindful-self-love-graphic-t-shirt?variant=42740417888343)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11015882508277266468_2048.jpg?v=1777678736
-    Price: $45.25 USD
-[List Continued](https://tcou.net/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NjM3MDE5MDMzNjg3LCJsYXN0X3ZhbHVlIjoiNzYzNzAxOTAzMzY4NyJ9)
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11015882508277266468_2048.jpg?v=1777984401
+    Price: $39.95 USD
+- [Weighted Blankets--Bearaby Cotton Hand-Knit Weighted Blankets for Adults - Chunky Knit Blanket - Sustainable, Breathable, Organic, Cooling Weighted Blanket - Machine Washable (Midnight Blue, 15 lbs, 40"x72"), TCoU Recommendations from Amazon Products](https://tcou.net/products/bearaby-cotton-hand-knit-weighted-blankets-for-adults-chunky-knit-blanket-sustainable-breathable-organic-cooling-weighted-blanket-machine-washable-midnight-blue-15-lbs-40x72): /** * Premium-module 11: FAQs - Common Styles (All Devices) */ .aplus-v2 .premium-aplus-module-11 { background: #fff; position: relative; } .aplus-v2 .premium-aplus-module-11.aplus-secondary-color { background: #000; } .aplus-v2 .premium-aplus-module-11 .aplus-question, .aplus-v2 .premium-aplus-module-11 .aplus-answer { display: block; width: 100%; margin: 0; } .aplus-v2 .premium-aplus-module-11 .aplus-answer { visibility: hidden; opacity: 0; height: 0; transition: display 0.1s linear, opacity 0.1s linear, height 0.1s linear; transition-behavior: allow-discrete; } .aplus-v2 .premium-aplus-module-11 .aplus-active .aplus-answer { visibility: visible; opacity: 1; height: auto; height: calc-size(auto); min-height: 40px; } .aplus-v2 .premium-aplus-module-11 .faq-list { margin: 0; } .aplus-v2 .premium-aplus-module-11 .faq-block { position: relative; list-style-type: none; cursor: pointer; border: 2px solid #E6E6E6; background: #fff; border-radius: 3px; margin-bottom: 10px; } .aplus-v2 .premium-aplus-module-11.aplus-secondary-color .faq-block { border: none; } .aplus-v2 .premium-aplus-module-11 .aplus-question::before, .aplus-v2 .premium-aplus-module-11 .aplus-answer::before { text-align: center; border-radius: 3px; display: inline-block; font-weight: 500; position: absolute; color: #fff; top: 10px; left: 10px; } html[dir="rtl"] .aplus-v2 .premium-aplus-module-11 .aplus-question::before, html[dir="rtl"] .aplus-v2 .premium-aplus-module-11 .aplus-answer::before { right: 10px; } .aplus-v2 .premium-aplus-module-11 .aplus-question::before { content: "Q"; background: #505050; transition: background 0.1s linear; z-index: 2; } .aplus-v2 .premium-aplus-module-11 .aplus-answer::before { content: "A"; background: #DF7600; color: #000000; z-index: 1; transform: translateY(0px); transition: transform 0.1s linear; } .aplus-v2 .premium-aplus-module-11 .faq-block.aplus-active .aplus-question::before { background: #404040; } .aplus-v2 .premium-aplus-module-11 .faq-block.aplus-active .aplus-answer::before { transform: translateY(40px); } .aplus-v2 .premium-aplus-module-11 .faq-arrow { position: absolute; top: 25px; border: 10px solid transparent; border-top-color: #505050; } html[dir="rtl"] .aplus-v2 .premium-aplus-module-11 .faq-arrow { right: auto; } .aplus-v2 .premium-aplus-module-11 .aplus-active .faq-arrow { top: 15px; border-top-color: transparent; border-bottom-color: #404040; } .aplus-v2 .premium-aplus-module-2 .premium-background-wrapper { position: relative; } .aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper { position: absolute; width: 50%; height: 100%; top: 0; } .aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper.right { left: 50%; } html[dir="rtl"] .aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper.right { left: auto; right: 50%; } .aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper.secondary-color { color: #fff; } .aplus-v2 .premium-aplus-module-2 .premium-intro-background { padding: 20px; } .aplus-v2 .premium-aplus-module-2 .aplus-module-2-topic { padding-bottom: 10px; } .aplus-v2 .premium-aplus-module-2 .aplus-module-2-heading { padding-bottom: 20px; } .aplus-v2 .premium-aplus-module-2 .aplus-module-2-description { line-height: 1.5em; } .aplus-v2 .premium-aplus-module-2 .premium-intro-background.white-background { background: rgba(255,255,255,0.5); } .aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background { background: rgba(0,0,0,0.5); } .aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background, .aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background h1, .aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background h5, .aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background ol, .aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background ul, .aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background ol .a-list-item, .aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background ul .a-list-item { color: #fff; } .aplus-v2 .premium-aplus-module-2 .premium-intro-content-container { display: table; height: 100%; } .aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper.left .premium-intro-content-container { padding-left: 40px; } html[dir="rtl"] .aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper.left .premium-intro-content-container { padding-left: 0px; padding-right: 40px; } .aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper.right .premium-intro-content-container { padding-right: 40px; } html[dir="rtl"] .aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper.right .premium-intro-content-container { padding-right: 0px; padding-left: 40px; } .aplus-v2 .premium-aplus-module-2 .premium-intro-content-column { display: table-cell; vertical-align: middle; } /** * Common event handler for click and keydown events. * @param {Event} event - The event object. * @param {Function} handleClickOrEnter - Function to handle click or Enter key events. * @param {Function} handleEsc - Function to handle Esc key events. */ // [TODO][AplusMantle-8064] Create common event handler util(key events, click events) in AplusModuleResources function handleClickAndKeyEvents(event, handleClickOrEnterOrSpace) { const ENTER_KEY_CODE = 13; const ESCAPE_KEY_CODE = 27; const SPACE_KEY_CODE = 32; const isClick = event.type === 'click'; const isKeydown = event.type === 'keydown'; const isEnter = isKeydown && event.keyCode === ENTER_KEY_CODE; const isSpace = isKeydown && event.keyCode === SPACE_KEY_CODE; const isEsc = isKeydown && event.keyCode === ESCAPE_KEY_CODE; if (isClick || isEnter || isSpace) { handleClickOrEnterOrSpace(); } else if (isEsc) { handleEsc(event); } } /** * Function to handle esc key event. * @param {Event} event - The event object. */ function handleEsc(event) { event.target.blur() // force remove focus } /** * Premium modules global styles */ .aplus-v2.desktop { max-width: 1464px; min-width: 800px; margin-left: auto; margin-right: auto; word-wrap: break-word; overflow-wrap: break-word; word-break: break-word; } /* Undo this for tech-specs because it breaks table layout */ .aplus-v2.desktop .premium-aplus .aplus-tech-spec-table { word-break: initial; } .aplus-v2 .premium-aplus, .aplus-v2 .premium-aplus .aplus-h1, .aplus-v2 .premium-aplus .aplus-h2, .aplus-v2 .premium-aplus .aplus-p1, .aplus-v2 .premium-aplus .aplus-p2, .aplus-v2 .premium-aplus .aplus-p3, .aplus-v2 .premium-aplus .aplus-accent1, .aplus-v2 .premium-aplus .aplus-accent2 { font-family: Arial, sans-serif; } .aplus-v2 .premium-aplus, .aplus-v2 .premium-aplus .aplus-h1, .aplus-v2 .premium-aplus .aplus-h2, .aplus-v2 .premium-aplus .aplus-p1, .aplus-v2 .premium-aplus .aplus-p2, .aplus-v2 .premium-aplus .aplus-p3, .aplus-v2 .premium-aplus .aplus-accent1, .aplus-v2 .premium-aplus .aplus-accent2 { font-family: inherit; } /* type */ .aplus-v2 .premium-aplus .aplus-h1 { font-size: 32px; line-height: 1.2em; font-weight: 500; } .aplus-v2 .premium-aplus .aplus-h2 { font-size: 26px; line-height: 1.25em; font-weight: 500; } .aplus-v2 .premium-aplus .aplus-h3 { font-size: 18px; line-height: 1.25em; font-weight: 500; } .aplus-v2 .premium-aplus .aplus-p1 { font-size: 20px; line-height: 1.3em; font-weight: 300; } .aplus-v2 .premium-aplus .aplus-p2 { font-size: 16px; line-height: 1.4em; font-weight: 300; } .aplus-v2 .premium-aplus .aplus-p3 { font-size: 14px; line-height: 1.4em; font-weight: 300; } .aplus-v2 .premium-aplus .aplus-accent1 { font-size: 16px; line-height: 1.4em; font-weight: 600; } .aplus-v2 .premium-aplus .aplus-accent2 { font-size: 14px; line-height: 1.4em; font-weight: 600; } /* spacing */ .aplus-v2 .aplus-container-1 { padding: 40px; } .aplus-v2 .aplus-container-1-2 { padding: 40px 80px; } .aplus-v2 .aplus-container-2 { padding: 80px; } .aplus-v2 .aplus-container-3 { padding: 40px 0; } /* Display */ .aplus-v2 .premium-aplus .aplus-display-table { display: table; } .aplus-v2 .premium-aplus .aplus-display-table-cell { display: table-cell; } .aplus-v2 .premium-aplus .aplus-display-inline-block { display: inline-block; } /* Aplus display table with min-width 1000px and fill remaining space inside parent */ .aplus-v2.desktop .premium-aplus .aplus-display-table-width { min-width: 1000px; width: 100% } /** * Padding and margin for element should be 10, 20, 40, or 80 px. Considering mini 10, small 20, medium 40, large 80. */ /** * Premium-module 11: FAQs */ .aplus-v2 .premium-aplus-module-11 .aplus-question { line-height: 25px; padding-bottom: 10px; } .aplus-v2 .premium-aplus-module-11 .faq-block { padding: 10px 80px 15px 100px; } html[dir="rtl"] .aplus-v2 .premium-aplus-module-11 .faq-block { padding-left: 80px; padding-right: 100px; } .aplus-v2 .premium-aplus-module-11 .faq-block.aplus-active { padding-bottom: 35px; } .aplus-v2 .premium-aplus-module-11 .aplus-question::before, .aplus-v2 .premium-aplus-module-11 .aplus-answer::before { width: 80px; line-height: 40px; font-size: 25px; } .aplus-v2 .premium-aplus-module-11 .faq-arrow { right: 40px; } html[dir="rtl"] .aplus-v2 .premium-aplus-module-11 .faq-arrow { left: 40px; } (function(f) {var _np=(window.P._namespace("PremiumAplusModule"));if(_np.guardFatal){_np.guardFatal(f)(_np);}else{f(_np);}}(function(P) { P.now('premium-module-11-faq').execute('init-premium-module-11-faq', function(init) { if (init) { return; } P.register('premium-module-11-faq', function() { return function() { P.when('A', 'jQuery', 'ready').execute('premium-11-faq', function(A, $){ function initFaq(module) { const MODULE_CLASS_NAME = 'premium-aplus-module-11'; const FAQ_CONTAINER_CLASS_NAME = 'faqs-container'; const FAQ_BLOCK_CLASS_NAME = 'faq-block'; const moduleId = $(module).data('faq-block'); const $faqBlocks = $('.aplus-v2 .' + MODULE_CLASS_NAME + ' .' + FAQ_CONTAINER_CLASS_NAME + '.' + moduleId + ' .' + FAQ_BLOCK_CLASS_NAME); /** * Function to handle click or Enter or Space key events. * @param {Element} element - The this object from which the event is dispatched * @param {faqBlocks} faqBlocks - List of all the Question and Answer blocks. */ function handleClickOrEnterOrSpace(element, faqBlocks) { const $element = $(element); const isActive = $element.hasClass('aplus-active'); faqBlocks.removeClass('aplus-active'); faqBlocks.find('[data-faq-question]').attr('aria-expanded', 'false'); if (!isActive) { $element.addClass('aplus-active'); $element.find('[data-faq-question]').attr('aria-expanded', 'true'); } } /* Using jQuery event namespace for preventing duplicate binding on twister refresh */ $faqBlocks.unbind('click keydown.premiumAplusModule11ClickHandler').bind('click keydown.premiumAplusModule11ClickHandler', function(event) { handleClickAndKeyEvents(event, () => handleClickOrEnterOrSpace(this, $faqBlocks)); }); } $(".aplus-v2 .premium-aplus-module-11 .faqs-container").each(function(index, module) { initFaq(module); }); }); }; }); }); })); /** * Premium-module 12: Nav Carousel */ .aplus-v2 .premium-aplus-module-12 .aplus-carousel-card { position: relative; width: 100%; } .aplus-v2 .premium-aplus-module-12 .aplus-carousel-container { position: relative; } .aplus-v2 .premium-aplus-module-12 .aplus-image-carousel-container { /* Match the aspect ratio of the desktop image uploaded via the editor (1464px x 600px) */ padding-top: calc(600 / 1464 * 100%); /* ~40.983% */ height: 0; } .aplus-v2 .premium-aplus-module-12 .aplus-image-carousel-container > div { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } /* Override AUI styles. It poorly attempts to measure the slide heights before waiting until images load. */ .aplus-v2 .premium-aplus-module-12 .a-carousel-viewport { height: 100% !important; } .aplus-v2 .premium-aplus-module-12 .aplus-card-image img { width: 100%; height: auto; } .aplus-v2 .premium-aplus-module-12 .aplus-card-details-wrapper { position: absolute; top: 0; width: 50%; height: 100%; } .aplus-v2 .premium-aplus-module-12 .aplus-card-detail { display: table; width: 100%; height: 100% } .aplus-v2 .premium-aplus-module-12 .card-description { text-align: left; } html[dir="rtl"] .aplus-v2 .premium-aplus-module-12 .card-description { text-align: right; } .aplus-v2 .premium-aplus-module-12 .aplus-table-cell { display: table-cell; vertical-align: middle; } .aplus-v2 .premium-aplus-module-12 .aplus-text-background { padding: 20px; } .aplus-v2 .premium-aplus-module-12 .aplus-text-background-color { background: rgba(0, 0, 0, 0.5); } .aplus-v2 .premium-aplus-module-12 .aplus-text-background-color, .aplus-v2 .premium-aplus-module-12 .aplus-text-background-color h1, .aplus-v2 .premium-aplus-module-12 .aplus-text-background-color h5, .aplus-v2 .premium-aplus-module-12 .aplus-text-background-color ol, .aplus-v2 .premium-aplus-module-12 .aplus-text-background-color ul, .aplus-v2 .premium-aplus-module-12 .aplus-text-background-color ol .a-list-item, .aplus-v2 .premium-aplus-module-12 .aplus-text-background-color ul .a-list-item { color: #fff; } .aplus-v2 .premium-aplus-module-12 .description { margin-top: 20px; } /* nav */ .aplus-v2 .premium-aplus-module-12 .aplus-carousel-actions { position: absolute; top: 20px; width: 100%; text-align: center; } .aplus-v2 .premium-aplus-module-12 .aplus-goto-btn { display: inline-block; margin: 7px 10px; cursor: pointer; border-radius: 30px; border: 2px solid #000; line-height: 2.5em; min-width: 200px; background-color: #fff; white-space: nowrap; color: #000; } .aplus-v2 .premium-aplus-module-12 .aplus-carousel-index { display: none; } .aplus-v2 .premium-aplus-module-12 .aplus-goto-btn.aplus-active { border-color: #fff; background-color: #000; color: #fff; } /** * Regimen template specific css */ html[dir="rtl"] .aplus-v2 .premium-aplus-module-12 .aplus-goto-btn.regimen { text-align: right; } .aplus-v2 .premium-aplus-module-12 .aplus-carousel-actions.regimen { text-align: right; top: 50%; width: 250px; right: 75px; -webkit-transform: translateY(-50%); -moz-transform: translateY(-50%); -o-transform: translateY(-50%); transform: translateY(-50%); } html[dir="rtl"] .aplus-v2 .premium-aplus-module-12 .aplus-carousel-actions.regimen { text-align: left; top: 50%; left: 75px; right: auto; } .aplus-v2 .premium-aplus-module-12 .aplus-goto-btn.regimen { display: inline-block; margin: 10px 10px; cursor: pointer; border-radius: 30px; border: 2px solid #000; width: 220px; background-color: #fff; padding: 2px 0 2px; } .aplus-v2 .premium-aplus-module-12 .aplus-goto-btn.regimen.aplus-active { border-color: #fff; background-color: #000; color: #fff; } .aplus-v2 .premium-aplus-module-12 .aplus-goto-btn.regimen.aplus-active .aplus-carousel-index { color: inherit; } .aplus-v2 .premium-aplus-module-12 .aplus-goto-btn.regimen.aplus-active .aplus-carousel-label { color: inherit; } .aplus-v2 .premium-aplus-module-12 .aplus-carousel-actions .regimen .aplus-carousel-index { display: inline-block; width: 12px; color: #000; } .aplus-v2 .premium-aplus-module-12 .aplus-carousel-actions .regimen .aplus-carousel-label { color: #000; } html[dir="rtl"] .aplus-v2 .premium-aplus-module-12 .aplus-carousel-actions .regimen .aplus-carousel-index { margin-left: 0px; margin-right: 6px; } .aplus-v2 .premium-aplus-module-12 .aplus-headline-top.regimen { position: absolute; top: 0; left: 0; width: 100%; background-color: #000; opacity: 0.5; text-align: center; } .aplus-v2 .premium-aplus-module-12 .aplus-headline-top.regimen .aplus-headline { color: #fff; line-height: 2em; } /** * Navigation template specific css */ .aplus-v2 .premium-aplus-module-12--top-nav .aplus-carousel-actions { background-color: rgba(0, 0, 0, 0.8); top: 0px; } .aplus-v2 .premium-aplus-module-12--top-nav .aplus-goto-btn { padding: 8px; color: #fff; background-color: transparent; border: none; } .aplus-v2 .premium-aplus-module-12--top-nav .aplus-goto-btn.aplus-active { text-decoration: underline; text-underline-offset: 0.8em; text-decoration-thickness: 3px; background-color: transparent; border: none; } (function(f) {var _np=(window.P._namespace("PremiumAplusModule"));if(_np.guardFatal){_np.guardFatal(f)(_np);}else{f(_np);}}(function(P) { P.now('premium-module-12-nav-carousel').execute('init-premium-module-12-nav-carousel', function(init) { if (init) { return; } P.register('premium-module-12-nav-carousel', function(){ return function() { P.when('A', 'jQuery', 'a-carousel-framework', 'ready').execute('premium-12-nav-carousel', function (A, $, framework) { function initiateCarousel(module) { var MODULE_ID = $(module).data('module-id'); /** * Carousel button element classname * @const */ var GOTO_BTN_CLASS_NAME = "aplus-goto-btn-" + MODULE_ID; /** * Carousel button element active classname * @const */ var GOTO_BTN_ACTIVE_CLASS_NAME = "aplus-active"; /** * AUI name for aui carousel * @const */ var CAROUSEL_NAME = "premium-aplus-12-carousel-" + MODULE_ID; /** * Module class name * @const */ var MODULE_CLASS_NAME = ".aplus-v2 .premium-aplus-module-12"; /** * Carousel text container class name * @const */ var TEXT_CONTAINER_CLASS_NAME = MODULE_CLASS_NAME + " .aplus-carousel-text-container-" + MODULE_ID; /** * Carousel text hidden class name * @const */ var TEXT_CONTAINER_HIDDEN = "aplus-hidden"; /** * Carousel horizontal scroll container class name * @const */ var HORIZONTAL_SCROLL_CONTAINER_CLASS_NAME = MODULE_CLASS_NAME + " .aplus-horizontal-scroll-container-" + MODULE_ID; function showCarouselText(oldIndex, newIndex) { var oldClass = TEXT_CONTAINER_CLASS_NAME + "-" + oldIndex; var newClass= TEXT_CONTAINER_CLASS_NAME + "-" + newIndex; $(oldClass).addClass(TEXT_CONTAINER_HIDDEN); $(newClass).removeClass(TEXT_CONTAINER_HIDDEN); } function scrollToCarouselButton(scrollLeft) { if ($(HORIZONTAL_SCROLL_CONTAINER_CLASS_NAME).length) { $(HORIZONTAL_SCROLL_CONTAINER_CLASS_NAME).animate({scrollLeft}, 200); } } /** * Creates a CarouselButton class for provided carousel instance * @param {object} carousel - AUI Carousel instance * @returns {Class} - CarouselButton Class */ function CarouselButtonTemplate(carousel) { /** * Button for controlling the active slide * @constructor * @param {number} index - slide index * @param {DOMElement} [elem] - optional DOM element to use as this objects DOM representation */ function CarouselButton(index, elem) { var self = this; this.index = index; this.carousel = carousel; /* create the button element */ this.elem = this.getElem(elem); this.$elem = $(this.elem); /* store jquery version */ this.elem.addEventListener('click', self.handleClick.bind(self)); this.elem.setAttribute('role', 'tab'); /* add this object to the object manager */ CarouselButton.objects.byId[index] = this; CarouselButton.objects.all.push(this); } /** * Describe behavior for click events on this.elem * @memberOf CarouselButton */ CarouselButton.prototype.handleClick = function(e) { e.preventDefault(); this.carousel.gotoPage(this.index); }; /** * Enter active state * @memberOf CarouselButton */ CarouselButton.prototype.activate = function() { this.$elem.addClass(GOTO_BTN_ACTIVE_CLASS_NAME).attr('aria-selected', 'true'); }; /** * Enter inactive state * @memberOf CarouselButton */ CarouselButton.prototype.deactivate = function() { this.$elem.removeClass(GOTO_BTN_ACTIVE_CLASS_NAME).attr('aria-selected', 'false'); }; /** * Returns an existing or creates a new bound element for this object * @memberOf CarouselButton * @param {DOMElement} [elem] - optionally provide an existing element in the DOM to use * @returns {DOMElement} - this objects DOM representation */ CarouselButton.prototype.getElem = function(elem) { if (this.elem) return this.elem; if (elem) return elem; var createdElem = document.createElement('span'); createdElem.className = GOTO_BTN_CLASS_NAME; return createdElem; }; /** @const Object manager */ CarouselButton.objects = { byId: {}, all: [], }; return CarouselButton; } framework.onInit(CAROUSEL_NAME, function(carousel) { /** @const {Class} */ var CarouselButton = CarouselButtonTemplate(carousel); /* create carousel controls */ var $carouselBtns = $(safeClassSelector(GOTO_BTN_CLASS_NAME)); var btns = $carouselBtns.map(function(i, btnElem) { return new CarouselButton(i + 1, btnElem); }); /* activate first one */ CarouselButton.objects.byId[1].activate(); /* Listen to slide changes */ A.on("a:carousel:" + CAROUSEL_NAME + ":change:pageNumber", function (data) { var newCarouselButton = CarouselButton.objects.byId[data.newValue]; var marginLeft = parseInt(getComputedStyle(newCarouselButton.elem).getPropertyValue('margin-left')); var positionLeft = newCarouselButton.elem.offsetLeft - marginLeft; newCarouselButton.activate(); CarouselButton.objects.byId[data.oldValue].deactivate(); scrollToCarouselButton(positionLeft); showCarouselText(data.oldValue, data.newValue); }); }); /** * @returns {string} - css classname prefixed with module selector */ function safeClassSelector(className) { return '.' + MODULE_CLASS_NAME + ' .' + className; } } $('.aplus-v2 .premium-aplus-module-12 .aplus-carousel-container').each(function (index, module) { initiateCarousel(module); }); framework.createAll(); framework.initializeAll(); }); } }) }); })); Previous page Next page 1 Materials 2 Design 3 Weight Guide (function(f) {var _np=(window.P._namespace("PremiumAplusModule"));if(_np.guardFatal){_np.guardFatal(f)(_np);}else{f(_np);}}(function(P) { P.when('premium-module-12-nav-carousel').execute('invoke-premium-12-nav-carousel-desktop-top', function(init){ init(); }); })); How heavy should my weighted blanket be? We recommend choosing a weighted blanket that’s around 10% of your overall body weight. If you’re in between weights, it’s best to round down to the lighter weight, especially if this is your first time trying a weighted blanket! How long does it take to get used to sleeping under weight? We recommend using the Napper for less than 2 hours during the first three days and gradually increasing the usage until you build up to a full night’s rest. After around ten days, you should begin to experience the benefits of restorative rest. How are Bearaby’s weighted blanket different from other weighted blankets? Unlike conventional weighted blankets, our Nappers are weighted with layer upon layer of sustainable fabric — no artificial fillers or plastic pellets. The hand-knitted design distributes weight evenly and allows air to circulate through the night! Are your blankets machine washable? You can machine wash your Napper separately in cool water on a delicate cycle. After washing, tumble dry your Napper on low – it may take a few cycles to fully dry. Check your machine’s weight capacity before washing, and avoid top-loading machines. (function(f) {var _np=(window.P._namespace("PremiumAplusModule"));if(_np.guardFatal){_np.guardFatal(f)(_np);}else{f(_np);}}(function(P) { P.when('premium-module-11-faq').execute('invoke-premium-11-faq', function(init){ init(); }); })); Cotton SUSTAINABLE COTTON: Introducing our sustainable handcrafted Napper, the ultimate sleeping companion for those who value comfort and sustainability. Pure cotton and OEKO-TEX Standard 100 , the Napper is soft, gentle, and environmentally friendly. EVENLY WEIGHTED FOR DEEPER SLEEP: The soft, breathable fabric is perfect for all seasons, providing a comfortable sleeping experience no matter the weather. The soft, patented*, hand-knit design allows this cooling weighted blanket to help you rest comfortably and avoid artificial fillers, making it a more sustainable option than traditional weighted blankets. *U.S. 10,835,708; U.S. 11,260,200; U.S. 11,806,480 GENTLE: Designed for relaxation and comfort, the Napper helps you to rest better after a long day, allowing you to sleep peacefully throughout the night. With its machine-washable design, this high quality weighted blanket makes for a convenient daily companion. MACHINE WASHABLE:  in the ultimate handcrafted Napper for an eco-friendly, high quality weighted blanket that makes for a long-lasting daily companion. Say goodbye to synthetic and low-grade materials and hello to an enduring option that you can feel good about. PICK YOUR WEIGHT: It's best to choose a weighted blanket that’s around 10% of your overall body weight, depending on your individual snuggle preference! If you’re in between weight options, we recommend rounding up to the heavier weight to experience the full benefits of Deep Touch Pressure (DTP). › See more product details Material Cotton Color Midnight Blue Brand Bearaby Special Feature Breathable Style Modern
+  Updated: 2026-05-03T05:32:45Z
+  Vendor: Amazon
+  Product Type: blanket
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2779/2954/files/81wFZrl72_L_276601ba-1950-4d9d-8f30-f0029523056a.jpg?v=1777743160
+  - [15 lbs (40”x72”) / Moonstone Grey](https://tcou.net/products/bearaby-cotton-hand-knit-weighted-blankets-for-adults-chunky-knit-blanket-sustainable-breathable-organic-cooling-weighted-blanket-machine-washable-midnight-blue-15-lbs-40x72?variant=42741521711191)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/81D7-iFapmL_74a75248-7bca-41a1-888f-634c361176d9.jpg?v=1777743161
+    Price: $269.00 USD
+  - [10 lbs (40”x64”) / Moonstone Grey](https://tcou.net/products/bearaby-cotton-hand-knit-weighted-blankets-for-adults-chunky-knit-blanket-sustainable-breathable-organic-cooling-weighted-blanket-machine-washable-midnight-blue-15-lbs-40x72?variant=42741521743959)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/81D7-iFapmL_74a75248-7bca-41a1-888f-634c361176d9.jpg?v=1777743161
+    Price: $199.00 USD
+  - [20 lbs (45”x72”) / Asteroid Grey](https://tcou.net/products/bearaby-cotton-hand-knit-weighted-blankets-for-adults-chunky-knit-blanket-sustainable-breathable-organic-cooling-weighted-blanket-machine-washable-midnight-blue-15-lbs-40x72?variant=42741521776727)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/81wFZrl72_L_09c4d5b0-ade2-4d87-973b-6190d940a799.jpg?v=1777743160
+    Price: $299.00 USD
+  - [15 lbs (40”x72”) / Midnight Blue](https://tcou.net/products/bearaby-cotton-hand-knit-weighted-blankets-for-adults-chunky-knit-blanket-sustainable-breathable-organic-cooling-weighted-blanket-machine-washable-midnight-blue-15-lbs-40x72?variant=42741521809495)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/71JfGxwjDbL_ec928a1b-3b0d-434a-808f-21b32588a0e2.jpg?v=1777743160
+    Price: $269.00 USD
+  - [20 lbs (45”x72”) / Moonstone Grey](https://tcou.net/products/bearaby-cotton-hand-knit-weighted-blankets-for-adults-chunky-knit-blanket-sustainable-breathable-organic-cooling-weighted-blanket-machine-washable-midnight-blue-15-lbs-40x72?variant=42741521842263)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/81D7-iFapmL_74a75248-7bca-41a1-888f-634c361176d9.jpg?v=1777743161
+    Price: $299.00 USD
+  - [10 lbs (40”x64”) / Asteroid Grey](https://tcou.net/products/bearaby-cotton-hand-knit-weighted-blankets-for-adults-chunky-knit-blanket-sustainable-breathable-organic-cooling-weighted-blanket-machine-washable-midnight-blue-15-lbs-40x72?variant=42741521875031)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/81wFZrl72_L_09c4d5b0-ade2-4d87-973b-6190d940a799.jpg?v=1777743160
+    Price: $199.00 USD
+  - [20 lbs (45”x72”) / Midnight Blue](https://tcou.net/products/bearaby-cotton-hand-knit-weighted-blankets-for-adults-chunky-knit-blanket-sustainable-breathable-organic-cooling-weighted-blanket-machine-washable-midnight-blue-15-lbs-40x72?variant=42741521907799)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/71JfGxwjDbL_ec928a1b-3b0d-434a-808f-21b32588a0e2.jpg?v=1777743160
+    Price: $299.00 USD
+  - [10 lbs (40”x64”) / Midnight Blue](https://tcou.net/products/bearaby-cotton-hand-knit-weighted-blankets-for-adults-chunky-knit-blanket-sustainable-breathable-organic-cooling-weighted-blanket-machine-washable-midnight-blue-15-lbs-40x72?variant=42741521940567)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/71JfGxwjDbL_ec928a1b-3b0d-434a-808f-21b32588a0e2.jpg?v=1777743160
+    Price: $199.00 USD
+  - [15 lbs (40”x72”) / Asteroid Grey](https://tcou.net/products/bearaby-cotton-hand-knit-weighted-blankets-for-adults-chunky-knit-blanket-sustainable-breathable-organic-cooling-weighted-blanket-machine-washable-midnight-blue-15-lbs-40x72?variant=42741521973335)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/81wFZrl72_L_09c4d5b0-ade2-4d87-973b-6190d940a799.jpg?v=1777743160
+    Price: $269.00 USD
+- [TEA--Mighty Leaf Organic Tea Sampler – 40 Count Silken Tea Bags – 8 Assorted Flavors: Tropical Green, Chamomile Citrus, Earl Grey, Vanilla Bean, White Orchard, Breakfast, Spring Jasmine, African Nectar – TCoU Recommendations from Amazon Products](https://tcou.net/products/mighty-leaf-organic-tea-sampler-40-count-silken-tea-bags-8-assorted-flavors-tropical-green-chamomile-citrus-earl-grey-vanilla-bean-white-orchard-breakfast-spring-jasmine-african-nectar-premium-tea-gift-box): .aplus-v2 .premium-aplus-module-13 .aplus-carousel-container { position: relative; } .aplus-v2 .premium-aplus-module-13 .aplus-carousel-element { position: relative; width: 100%; } .aplus-v2 .premium-aplus-module-13 .aplus-card-link-button { text-align: center; padding-top: 20px; } .aplus-v2 .premium-aplus-module-13 .aplus-text-background, .aplus-v2 .premium-aplus-module-13 .aplus-text-background h1, .aplus-v2 .premium-aplus-module-13 .aplus-text-background h5, .aplus-v2 .premium-aplus-module-13 .aplus-text-background ol, .aplus-v2 .premium-aplus-module-13 .aplus-text-background ul, .aplus-v2 .premium-aplus-module-13 .aplus-text-background ol .a-list-item, .aplus-v2 .premium-aplus-module-13 .aplus-text-background ul .a-list-item { color: #fff; } .aplus-v2 .premium-aplus-module-2 .premium-background-wrapper { position: relative; } .aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper { position: absolute; width: 50%; height: 100%; top: 0; } .aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper.right { left: 50%; } html[dir="rtl"] .aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper.right { left: auto; right: 50%; } .aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper.secondary-color { color: #fff; } .aplus-v2 .premium-aplus-module-2 .premium-intro-background { padding: 20px; } .aplus-v2 .premium-aplus-module-2 .aplus-module-2-topic { padding-bottom: 10px; } .aplus-v2 .premium-aplus-module-2 .aplus-module-2-heading { padding-bottom: 20px; } .aplus-v2 .premium-aplus-module-2 .aplus-module-2-description { line-height: 1.5em; } .aplus-v2 .premium-aplus-module-2 .premium-intro-background.white-background { background: rgba(255,255,255,0.5); } .aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background { background: rgba(0,0,0,0.5); } .aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background, .aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background h1, .aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background h5, .aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background ol, .aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background ul, .aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background ol .a-list-item, .aplus-v2 .premium-aplus-module-2 .premium-intro-background.black-background ul .a-list-item { color: #fff; } .aplus-v2 .premium-aplus-module-2 .premium-intro-content-container { display: table; height: 100%; } .aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper.left .premium-intro-content-container { padding-left: 40px; } html[dir="rtl"] .aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper.left .premium-intro-content-container { padding-left: 0px; padding-right: 40px; } .aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper.right .premium-intro-content-container { padding-right: 40px; } html[dir="rtl"] .aplus-v2 .premium-aplus-module-2 .premium-intro-wrapper.right .premium-intro-content-container { padding-right: 0px; padding-left: 40px; } .aplus-v2 .premium-aplus-module-2 .premium-intro-content-column { display: table-cell; vertical-align: middle; } /** * Premium modules global styles */ .aplus-v2.desktop { max-width: 1464px; min-width: 800px; margin-left: auto; margin-right: auto; word-wrap: break-word; overflow-wrap: break-word; word-break: break-word; } /* Undo this for tech-specs because it breaks table layout */ .aplus-v2.desktop .premium-aplus .aplus-tech-spec-table { word-break: initial; } .aplus-v2 .premium-aplus, .aplus-v2 .premium-aplus .aplus-h1, .aplus-v2 .premium-aplus .aplus-h2, .aplus-v2 .premium-aplus .aplus-p1, .aplus-v2 .premium-aplus .aplus-p2, .aplus-v2 .premium-aplus .aplus-p3, .aplus-v2 .premium-aplus .aplus-accent1, .aplus-v2 .premium-aplus .aplus-accent2 { font-family: Arial, sans-serif; } .aplus-v2 .premium-aplus, .aplus-v2 .premium-aplus .aplus-h1, .aplus-v2 .premium-aplus .aplus-h2, .aplus-v2 .premium-aplus .aplus-p1, .aplus-v2 .premium-aplus .aplus-p2, .aplus-v2 .premium-aplus .aplus-p3, .aplus-v2 .premium-aplus .aplus-accent1, .aplus-v2 .premium-aplus .aplus-accent2 { font-family: inherit; } /* type */ .aplus-v2 .premium-aplus .aplus-h1 { font-size: 32px; line-height: 1.2em; font-weight: 500; } .aplus-v2 .premium-aplus .aplus-h2 { font-size: 26px; line-height: 1.25em; font-weight: 500; } .aplus-v2 .premium-aplus .aplus-h3 { font-size: 18px; line-height: 1.25em; font-weight: 500; } .aplus-v2 .premium-aplus .aplus-p1 { font-size: 20px; line-height: 1.3em; font-weight: 300; } .aplus-v2 .premium-aplus .aplus-p2 { font-size: 16px; line-height: 1.4em; font-weight: 300; } .aplus-v2 .premium-aplus .aplus-p3 { font-size: 14px; line-height: 1.4em; font-weight: 300; } .aplus-v2 .premium-aplus .aplus-accent1 { font-size: 16px; line-height: 1.4em; font-weight: 600; } .aplus-v2 .premium-aplus .aplus-accent2 { font-size: 14px; line-height: 1.4em; font-weight: 600; } /* spacing */ .aplus-v2 .aplus-container-1 { padding: 40px; } .aplus-v2 .aplus-container-1-2 { padding: 40px 80px; } .aplus-v2 .aplus-container-2 { padding: 80px; } .aplus-v2 .aplus-container-3 { padding: 40px 0; } /* Display */ .aplus-v2 .premium-aplus .aplus-display-table { display: table; } .aplus-v2 .premium-aplus .aplus-display-table-cell { display: table-cell; } .aplus-v2 .premium-aplus .aplus-display-inline-block { display: inline-block; } /* Aplus display table with min-width 1000px and fill remaining space inside parent */ .aplus-v2.desktop .premium-aplus .aplus-display-table-width { min-width: 1000px; width: 100% } /** * Padding and margin for element should be 10, 20, 40, or 80 px. Considering mini 10, small 20, medium 40, large 80. */ /** * Premium-module 12: Nav Carousel */ .aplus-v2 .premium-aplus-module-12 .aplus-carousel-card { position: relative; width: 100%; } .aplus-v2 .premium-aplus-module-12 .aplus-carousel-container { position: relative; } .aplus-v2 .premium-aplus-module-12 .aplus-image-carousel-container { /* Match the aspect ratio of the desktop image uploaded via the editor (1464px x 600px) */ padding-top: calc(600 / 1464 * 100%); /* ~40.983% */ height: 0; } .aplus-v2 .premium-aplus-module-12 .aplus-image-carousel-container > div { position: absolute; width: 100%; height: 100%; top: 0; left: 0; } /* Override AUI styles. It poorly attempts to measure the slide heights before waiting until images load. */ .aplus-v2 .premium-aplus-module-12 .a-carousel-viewport { height: 100% !important; } .aplus-v2 .premium-aplus-module-12 .aplus-card-image img { width: 100%; height: auto; } .aplus-v2 .premium-aplus-module-12 .aplus-card-details-wrapper { position: absolute; top: 0; width: 50%; height: 100%; } .aplus-v2 .premium-aplus-module-12 .aplus-card-detail { display: table; width: 100%; height: 100% } .aplus-v2 .premium-aplus-module-12 .card-description { text-align: left; } html[dir="rtl"] .aplus-v2 .premium-aplus-module-12 .card-description { text-align: right; } .aplus-v2 .premium-aplus-module-12 .aplus-table-cell { display: table-cell; vertical-align: middle; } .aplus-v2 .premium-aplus-module-12 .aplus-text-background { padding: 20px; } .aplus-v2 .premium-aplus-module-12 .aplus-text-background-color { background: rgba(0, 0, 0, 0.5); } .aplus-v2 .premium-aplus-module-12 .aplus-text-background-color, .aplus-v2 .premium-aplus-module-12 .aplus-text-background-color h1, .aplus-v2 .premium-aplus-module-12 .aplus-text-background-color h5, .aplus-v2 .premium-aplus-module-12 .aplus-text-background-color ol, .aplus-v2 .premium-aplus-module-12 .aplus-text-background-color ul, .aplus-v2 .premium-aplus-module-12 .aplus-text-background-color ol .a-list-item, .aplus-v2 .premium-aplus-module-12 .aplus-text-background-color ul .a-list-item { color: #fff; } .aplus-v2 .premium-aplus-module-12 .description { margin-top: 20px; } /* nav */ .aplus-v2 .premium-aplus-module-12 .aplus-carousel-actions { position: absolute; top: 20px; width: 100%; text-align: center; } .aplus-v2 .premium-aplus-module-12 .aplus-goto-btn { display: inline-block; margin: 7px 10px; cursor: pointer; border-radius: 30px; border: 2px solid #000; line-height: 2.5em; min-width: 200px; background-color: #fff; white-space: nowrap; color: #000; } .aplus-v2 .premium-aplus-module-12 .aplus-carousel-index { display: none; } .aplus-v2 .premium-aplus-module-12 .aplus-goto-btn.aplus-active { border-color: #fff; background-color: #000; color: #fff; } /** * Regimen template specific css */ html[dir="rtl"] .aplus-v2 .premium-aplus-module-12 .aplus-goto-btn.regimen { text-align: right; } .aplus-v2 .premium-aplus-module-12 .aplus-carousel-actions.regimen { text-align: right; top: 50%; width: 250px; right: 75px; -webkit-transform: translateY(-50%); -moz-transform: translateY(-50%); -o-transform: translateY(-50%); transform: translateY(-50%); } html[dir="rtl"] .aplus-v2 .premium-aplus-module-12 .aplus-carousel-actions.regimen { text-align: left; top: 50%; left: 75px; right: auto; } .aplus-v2 .premium-aplus-module-12 .aplus-goto-btn.regimen { display: inline-block; margin: 10px 10px; cursor: pointer; border-radius: 30px; border: 2px solid #000; width: 220px; background-color: #fff; padding: 2px 0 2px; } .aplus-v2 .premium-aplus-module-12 .aplus-goto-btn.regimen.aplus-active { border-color: #fff; background-color: #000; color: #fff; } .aplus-v2 .premium-aplus-module-12 .aplus-goto-btn.regimen.aplus-active .aplus-carousel-index { color: inherit; } .aplus-v2 .premium-aplus-module-12 .aplus-goto-btn.regimen.aplus-active .aplus-carousel-label { color: inherit; } .aplus-v2 .premium-aplus-module-12 .aplus-carousel-actions .regimen .aplus-carousel-index { display: inline-block; width: 12px; color: #000; } .aplus-v2 .premium-aplus-module-12 .aplus-carousel-actions .regimen .aplus-carousel-label { color: #000; } html[dir="rtl"] .aplus-v2 .premium-aplus-module-12 .aplus-carousel-actions .regimen .aplus-carousel-index { margin-left: 0px; margin-right: 6px; } .aplus-v2 .premium-aplus-module-12 .aplus-headline-top.regimen { position: absolute; top: 0; left: 0; width: 100%; background-color: #000; opacity: 0.5; text-align: center; } .aplus-v2 .premium-aplus-module-12 .aplus-headline-top.regimen .aplus-headline { color: #fff; line-height: 2em; } /** * Navigation template specific css */ .aplus-v2 .premium-aplus-module-12--top-nav .aplus-carousel-actions { background-color: rgba(0, 0, 0, 0.8); top: 0px; } .aplus-v2 .premium-aplus-module-12--top-nav .aplus-goto-btn { padding: 8px; color: #fff; background-color: transparent; border: none; } .aplus-v2 .premium-aplus-module-12--top-nav .aplus-goto-btn.aplus-active { text-decoration: underline; text-underline-offset: 0.8em; text-decoration-thickness: 3px; background-color: transparent; border: none; } /** * Premium-module 13: Carousel */ .aplus-v2 .premium-aplus-module-13 .aplus-card-description-wrapper { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } .aplus-v2 .premium-aplus-module-13 .aplus-card-description { display: table; width: 50%; height: 100%; color: #fff; } .aplus-v2 .premium-aplus-module-13 .aplus-card-table-cell { display: table-cell; vertical-align: middle; text-align: left; } html[dir="rtl"] .aplus-v2 .premium-aplus-module-13 .aplus-card-table-cell { text-align: right; } .aplus-v2 .premium-aplus-module-13 .aplus-text-background { background: rgba(0, 0, 0, 0.6); } .aplus-v2 .premium-aplus-module-13 .aplus-card-body { padding: 20px 40px 0 0; } html[dir="rtl"] .aplus-v2 .premium-aplus-module-13 .aplus-card-body { padding: 20px 0 0 40px; } .aplus-v2 .premium-aplus-module-13 .aplus-pagination-wrapper { position: absolute; top: 92%; width: 100%; } (function(f) {var _np=(window.P._namespace("PremiumAplusModule"));if(_np.guardFatal){_np.guardFatal(f)(_np);}else{f(_np);}}(function(P) { P.now('premium-module-12-nav-carousel').execute('init-premium-module-12-nav-carousel', function(init) { if (init) { return; } P.register('premium-module-12-nav-carousel', function(){ return function() { P.when('A', 'jQuery', 'a-carousel-framework', 'ready').execute('premium-12-nav-carousel', function (A, $, framework) { function initiateCarousel(module) { var MODULE_ID = $(module).data('module-id'); /** * Carousel button element classname * @const */ var GOTO_BTN_CLASS_NAME = "aplus-goto-btn-" + MODULE_ID; /** * Carousel button element active classname * @const */ var GOTO_BTN_ACTIVE_CLASS_NAME = "aplus-active"; /** * AUI name for aui carousel * @const */ var CAROUSEL_NAME = "premium-aplus-12-carousel-" + MODULE_ID; /** * Module class name * @const */ var MODULE_CLASS_NAME = ".aplus-v2 .premium-aplus-module-12"; /** * Carousel text container class name * @const */ var TEXT_CONTAINER_CLASS_NAME = MODULE_CLASS_NAME + " .aplus-carousel-text-container-" + MODULE_ID; /** * Carousel text hidden class name * @const */ var TEXT_CONTAINER_HIDDEN = "aplus-hidden"; /** * Carousel horizontal scroll container class name * @const */ var HORIZONTAL_SCROLL_CONTAINER_CLASS_NAME = MODULE_CLASS_NAME + " .aplus-horizontal-scroll-container-" + MODULE_ID; function showCarouselText(oldIndex, newIndex) { var oldClass = TEXT_CONTAINER_CLASS_NAME + "-" + oldIndex; var newClass= TEXT_CONTAINER_CLASS_NAME + "-" + newIndex; $(oldClass).addClass(TEXT_CONTAINER_HIDDEN); $(newClass).removeClass(TEXT_CONTAINER_HIDDEN); } function scrollToCarouselButton(scrollLeft) { if ($(HORIZONTAL_SCROLL_CONTAINER_CLASS_NAME).length) { $(HORIZONTAL_SCROLL_CONTAINER_CLASS_NAME).animate({scrollLeft}, 200); } } /** * Creates a CarouselButton class for provided carousel instance * @param {object} carousel - AUI Carousel instance * @returns {Class} - CarouselButton Class */ function CarouselButtonTemplate(carousel) { /** * Button for controlling the active slide * @constructor * @param {number} index - slide index * @param {DOMElement} [elem] - optional DOM element to use as this objects DOM representation */ function CarouselButton(index, elem) { var self = this; this.index = index; this.carousel = carousel; /* create the button element */ this.elem = this.getElem(elem); this.$elem = $(this.elem); /* store jquery version */ this.elem.addEventListener('click', self.handleClick.bind(self)); this.elem.setAttribute('role', 'tab'); /* add this object to the object manager */ CarouselButton.objects.byId[index] = this; CarouselButton.objects.all.push(this); } /** * Describe behavior for click events on this.elem * @memberOf CarouselButton */ CarouselButton.prototype.handleClick = function(e) { e.preventDefault(); this.carousel.gotoPage(this.index); }; /** * Enter active state * @memberOf CarouselButton */ CarouselButton.prototype.activate = function() { this.$elem.addClass(GOTO_BTN_ACTIVE_CLASS_NAME).attr('aria-selected', 'true'); }; /** * Enter inactive state * @memberOf CarouselButton */ CarouselButton.prototype.deactivate = function() { this.$elem.removeClass(GOTO_BTN_ACTIVE_CLASS_NAME).attr('aria-selected', 'false'); }; /** * Returns an existing or creates a new bound element for this object * @memberOf CarouselButton * @param {DOMElement} [elem] - optionally provide an existing element in the DOM to use * @returns {DOMElement} - this objects DOM representation */ CarouselButton.prototype.getElem = function(elem) { if (this.elem) return this.elem; if (elem) return elem; var createdElem = document.createElement('span'); createdElem.className = GOTO_BTN_CLASS_NAME; return createdElem; }; /** @const Object manager */ CarouselButton.objects = { byId: {}, all: [], }; return CarouselButton; } framework.onInit(CAROUSEL_NAME, function(carousel) { /** @const {Class} */ var CarouselButton = CarouselButtonTemplate(carousel); /* create carousel controls */ var $carouselBtns = $(safeClassSelector(GOTO_BTN_CLASS_NAME)); var btns = $carouselBtns.map(function(i, btnElem) { return new CarouselButton(i + 1, btnElem); }); /* activate first one */ CarouselButton.objects.byId[1].activate(); /* Listen to slide changes */ A.on("a:carousel:" + CAROUSEL_NAME + ":change:pageNumber", function (data) { var newCarouselButton = CarouselButton.objects.byId[data.newValue]; var marginLeft = parseInt(getComputedStyle(newCarouselButton.elem).getPropertyValue('margin-left')); var positionLeft = newCarouselButton.elem.offsetLeft - marginLeft; newCarouselButton.activate(); CarouselButton.objects.byId[data.oldValue].deactivate(); scrollToCarouselButton(positionLeft); showCarouselText(data.oldValue, data.newValue); }); }); /** * @returns {string} - css classname prefixed with module selector */ function safeClassSelector(className) { return '.' + MODULE_CLASS_NAME + ' .' + className; } } $('.aplus-v2 .premium-aplus-module-12 .aplus-carousel-container').each(function (index, module) { initiateCarousel(module); }); framework.createAll(); framework.initializeAll(); }); } }) }); })); Previous page Next page .aplus-mantle.aplus-module .aplus-pagination-dots { margin: 0; } .aplus-mantle.aplus-module .aplus-pagination-dot { display: inline-block; list-style: none; } .aplus-mantle.aplus-module .aplus-carousel-nav { text-align:center; } .aplus-mantle.aplus-module .carousel-slider-circle { display: inline-block; cursor: pointer; height: 15px; width: 15px; border: 1px solid #000; border-radius: 20px; background-color: #fff; margin-left: 5px; } .aplus-mantle.aplus-module .carousel-slider-circle.aplus-carousel-active { background-color: #DE7921; } .aplus-mantle.aplus-module .aplus-pagination-dot--display-none { display: none; } P.now("premium-aplus-13-carousel-4").execute("init-pagination-carousel", function(init) { if (init) { return; } P.register("premium-aplus-13-carousel-4", function() { return function() { P.when("A", "jQuery", "a-carousel-framework", "ready").execute("paginate-carousel", function (A, $, framework) { const ENTER_KEY_CODE = 13; const ESCAPE_KEY_CODE = 27; const LEFT_ARROW_KEY = 37; const RIGHT_ARROW_KEY = 39; const HOME_KEY = 36; const END_KEY = 35; var moduleId = "4"; var carouselName = "premium-aplus-13-carousel-4"; var paginationAction = "aplus-pagination-dot-action-" + moduleId + "-" + carouselName; var paginationGroup = "#aplus-pagination-group-" + moduleId + "-" + carouselName; /* If the carousel goes to a new page */ A.on("a:carousel:"+carouselName+":change:pageNumber", function (data) { A.$(paginationGroup+" .carousel-slider-circle").removeClass("aplus-carousel-active").attr('aria-selected', 'false').attr('tabindex', -1) .eq(data.newValue - 1).addClass("aplus-carousel-active").attr('aria-selected', 'true').attr('tabindex', 0); }); function syncPaginationDotsWithCarouselPages(numPages) { const parentElement = document.querySelector(paginationGroup); if (parentElement && parentElement.children) { const children = parentElement.children; for (let i = 0; i < children.length; i++) { if (i >= numPages) { // If number of dots > num of pages, we should hide other dots children[i].classList.add('aplus-pagination-dot--display-none'); } else if (children[i].classList.contains('aplus-pagination-dot--display-none')) { // Reset display of dots if it was hidden before children[i].classList.remove('aplus-pagination-dot--display-none'); } } } } framework.onInit(carouselName, function (carousel) { try { var totalPages = carousel.getAttr('totalPages'); syncPaginationDotsWithCarouselPages(totalPages); /* Resize event handler to re-calculate the pagination dots count based on orientation */ window.addEventListener('resize', function() { carousel.resize(); totalPages = carousel.getAttr('totalPages'); syncPaginationDotsWithCarouselPages(totalPages); }); A.declarative(paginationAction, 'click keydown', function(event){ var isClick = event.type === 'click'; var isKeydown = event.type === 'keydown'; var isEnter = isKeydown && event.$event.keyCode === ENTER_KEY_CODE; var isEsc = isKeydown && event.$event.keyCode === ESCAPE_KEY_CODE; var isLeftArrow = isKeydown && event.$event.keyCode === LEFT_ARROW_KEY; var isRightArrow = isKeydown && event.$event.keyCode === RIGHT_ARROW_KEY; var isHome = isKeydown && event.$event.keyCode === HOME_KEY; var isEnd = isKeydown && event.$event.keyCode === END_KEY; if (isClick || isEnter) { var data = event.data; carousel.gotoPage(data.page); } else if (isEsc) { event.$target.blur(); } else if (isLeftArrow || isRightArrow || isHome || isEnd) { event.$event.preventDefault(); const dots = A.$(paginationGroup + " .carousel-slider-circle"); const currentIndex = dots.index(event.$target); let nextIndex; if (isLeftArrow) { nextIndex = currentIndex > 0 ? currentIndex - 1 : dots.length - 1; } else if (isRightArrow) { nextIndex = currentIndex < dots.length - 1 ? currentIndex + 1 : 0; } else if (isHome) { nextIndex = 0; } else if (isEnd) { nextIndex = dots.length - 1; } dots.eq(nextIndex).focus(); carousel.gotoPage(nextIndex + 1); } }); } catch (e) { P.log('Failed to init ' + carouselName + '. Error: ' + e.message, 'FATAL', 'AplusModuleResources'); } }); }); } }); }); (function(f) {var _np=(window.P._namespace("PremiumAplusModule"));if(_np.guardFatal){_np.guardFatal(f)(_np);}else{f(_np);}}(function(P) { P.when("premium-aplus-13-carousel-4").execute('invoke-premium-13-carousel-desktop', function(init){init();}); })); Previous page Next page 1 Pure Botanicals 2 Clean Brewing 3 Family Moments 4 Wellness Blend 5 Perfect Gift (function(f) {var _np=(window.P._namespace("PremiumAplusModule"));if(_np.guardFatal){_np.guardFatal(f)(_np);}else{f(_np);}}(function(P) { P.when('premium-module-12-nav-carousel').execute('invoke-premium-12-nav-carousel-desktop-top', function(init){ init(); }); })); About this item Silken Tea Bag Experience – Enjoy premium whole leaf tea in elegant silken pyramid bags that allow full flavor release and aromatic infusion. Includes both caffeinated and caffeine-free options. Premium Whole Leaf Tea – Discover the rich, complex flavors of gourmet whole leaf tea, thoughtfully packed for a luxurious gift experience—perfect for women, men, moms, dads, teachers, or any tea lover. Organic Tea Gift Set for Women – Enjoy premium organic blends like Breakfast, Spring Jasmine, and African Nectar, crafted with care for both flavor and sustainability—an ideal gourmet tea gift for women and tea lovers. Globally Inspired Tea Sampler – Explore a world of flavor with blends like Chamomile Citrus and Green Tea Tropical, curated for a diverse tasting experience—perfect as a thoughtful tea gift for both men and women. Elegant Tea Gift Box – Beautifully packaged and thoughtfully curated, this premium sampler offers tea lovers a sophisticated tasting journey—ideal for birthdays, holidays, or any special occasion. Ingredients Tea
+  Updated: 2026-05-03T06:09:22Z
+  Vendor: Amazon
+  Product Type: tea
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2779/2954/files/71bkbWnBWaL._SL1500.jpg?v=1777745357
+  Price: $46.99 USD
+- [Candles--10 Pcs Motivational Aromatherapy Scented Candles Soy Wax Candles with Essential Oils Inspirational 4.4oz Scented Candle Return Gifts Bulk for Women Mother Teacher Employee Birthday Mother's Day, TCoU Recommendations from Amazon Products](https://tcou.net/products/10-pcs-motivational-aromatherapy-scented-candles-soy-wax-candles-with-essential-oils-inspirational-4-4oz-scented-candle-return-gifts-bulk-for-women-mother-teacher-employee-birthday-mothers-day): .aplus-v2 { display: block; margin-left: auto; margin-right: auto; } .aplus-v2 .aplus-3p-fixed-width { width: 970px; } .aplus-v2 .aplus-3p-fixed-width.aplus-module-wrapper { margin-left: auto; margin-right: auto; } Comprehensive Set Offering: this package includes 10 pieces of inspirational gift candles for women, each sensitively infused with unique fragrance to create a soothing environment; Besides, the set comes with 1 piece of gift box, making it present ready and an exquisite choice for gifting lovers of aromatherapy or positive affirmations; The candles are reliable and burn for up to 10 hours per can,each can has a 5% concentration of fragrance; The total burning time is about 100 hours Stylish and Motivational Design: brimming with character, these candle gifts boast an inspirational and motivational style, and each candle features thoughtfully chosen printed words such as 'keep trying', 'be positive', 'believe in yourself' and more; The candles are designed to inspire, uplift and encourage positivity; Their rich scents and powerful affirmations blend seamlessly to create an inviting and uplifting experience Sustainable Material and Dimension: this scented candle set is crafted from natural soy wax blended with essential oils, delivering a clean burn and promoting a comfortable ambiance; Each candle measures about 2.01 x 2.48 inches/ 5.1 x 6.3 cm and weighs around 1.94 oz, offering an ideal size for decorative and practical utility Mother's Day Gift Choice: with their blend of positivity inspiring words and soothing scents, these candles of our scented candles gift set become a nice gift choice for birthdays, holidays, anniversaries, Mother's Day, housewarming celebration or just as a surprise to remind someone of their worth; The inclusion of a gift box enhances the overall presentation and makes it more desirable User Instructions and Safety Measures: it's suggested to trim the wick to 1/4 inch before lighting each soy candle to prevent soot; Limiting burning time to no more than 4 hours at a time and avoiding burning candles with less than 1/2 inch of wax left is recommended; Always watch candles in use to ensure safety, and keep candles away from fans, open Windows, hot surfaces, children, and pets › See more product details Brand Baquler Color Shades of purple, pink, and yellow Product Dimensions 2.01"W x 2.01"H Item Weight 100 Grams Number of Items 10 Scent Motivational scents (number not specified) Indoor/Outdoor Usage Indoor Specific Uses For Product Home Fragrance, Aromatherapy, Yoga, Stress Relief, Decoration, Relaxation, Meditation Shape Round Material Soy Wax
+  Updated: 2026-05-03T06:13:36Z
+  Vendor: Amazon
+  Product Type: candles
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2779/2954/files/71Jtqb-l93L._AC_SL1500.jpg?v=1777745610
+  Price: $40.99 USD
+- [Gift Basket --35 Pcs Mothers Day - Gifts for Mom, Honey & Almond Bath & Body Gift Basket for Women, Face Skin Care Kit, Home Spa Basket Gift Set, Self-Care Gift Kit, Necklace, Birthday, Anniversary, Wife, TCoU Recommendations from Amazon Products](https://tcou.net/products/35-pcs-mothers-day-gifts-for-mom-honey-almond-bath-body-gift-basket-for-women-face-skin-care-kit-home-spa-basket-gift-set-self-care-gift-kit-necklace-birthday-anniversary-wife): .aplus-v2 { display: block; margin-left: auto; margin-right: auto; } .aplus-v2 .aplus-3p-fixed-width { width: 970px; } .aplus-v2 .aplus-3p-fixed-width.aplus-module-wrapper { margin-left: auto; margin-right: auto; } Rosa Acca Honey & Almond Bath & Body Basket For Women 35 Pcs Honey & Almond Facial Skin Care Set & Bath Spa Basket for Women Send Warmth To Those You Love * Ideal for Mother's Day, Birthday, Christmas, Valentines's day, New Job, New Baby, Anniversary, Bridesmaid, Bridal Shower, Housewarming. * Our gift boxes are the perfect choice for putting a smile on their faces. So, what are you waiting for? Just get this premium gift. Self- Care & Home Spa Gift Kit Pamper Me Skin Care Set Skin Care & Spa Basket Set Skin-Loving Ingredients All Rosa Acca products are made from skin-loving ingredients you want. Rich in essential oils, ceramide, shea butter, argan oil and hyaluronic acid, it can effectively cleanse and moisturize your skin. About this item 35 Pcs Spa & Skin Care Basket Set: This gift basket contains premium essential oil facial skin care & spa products with 210ml body wash & body lotion, 50ml perfume, 100ml diffuser, 100ml face gel cleanser, 30ml hand cream, 120ml face cream, 5 pcs face sheet mask, 3 pcs gel under eye patches & gel lip mask, 30ml clay mask, 30ml face serum & face oil & body oil, 150g bath bombs, silk sleep mask, lip gloss, spa headband, wrist wash band, gua sha, hair ties, face clean sponge, necklace wrapped in a handmade basket, it also has a gift note card for you to personalize it Skin-Loving Ingredients: All Rosa Acca products are made from skin-loving ingredients you want. Rich in essential oils, ceramide, shea butter, argan oil, coconut oil and hyaluronic acid, it can effectively cleanse and moisturize your skin, Whether you have dry, oily or normal skin, our skincare & spa set is suitable for all skin types Head To Toe Skin Care: Let this skin care kit pamper your skin! Clay mask and gel cleanser to cleanse your skin. Under Eye patches for reduce dark circles, eye bags. Gel lip mask and lip gloss for plump lips. Sheet masks, face cream, face serum and hand cream for nourished, hydrated skin. Bath bombs to pleasure the body and mind. Perfume ensures that the delightful fragrance lasts all day, keeping you fresh and confident Spa Gift Baskets for Women: Our spa set for women gift set is a good present to pamper that special someone. This exquisite collection of skin care gifts for women will make her feel truly indulged and cherished. Treat yourself or a loved one to a luxurious self care experience with our beauty kits for women spa gift baskets All Gift Occasions: This gift set is ideal for Mother's Day, Birthday, Christmas, Valentines's day, New Job, New Baby, Anniversary, Bridesmaid, Bridal Shower, Housewarming, Wife, Mom, Grandmother, Sister, Daughter in law, Best Friend, Coworker, Cousin, Aunt, Niece, Teacher, Sister in law, Employee or Girlfriend. Our gift boxes are the perfect choice for putting a smile on their faces. So, what are you waiting for? Just get this premium gift
+  Updated: 2026-05-03T06:29:53Z
+  Vendor: Amazon
+  Product Type: gift basket
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2779/2954/files/91AE3Nrl9XL.jpg?v=1777746576
+  - [Charcoal](https://tcou.net/products/35-pcs-mothers-day-gifts-for-mom-honey-almond-bath-body-gift-basket-for-women-face-skin-care-kit-home-spa-basket-gift-set-self-care-gift-kit-necklace-birthday-anniversary-wife?variant=42741553496151)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/91AE3Nrl9XL.jpg?v=1777746576
+    Price: $59.99 USD
+  - [Ylang Ylang](https://tcou.net/products/35-pcs-mothers-day-gifts-for-mom-honey-almond-bath-body-gift-basket-for-women-face-skin-care-kit-home-spa-basket-gift-set-self-care-gift-kit-necklace-birthday-anniversary-wife?variant=42741553528919)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/817Rox39O4L.jpg?v=1777746576
+    Price: $52.99 USD
+  - [Orange](https://tcou.net/products/35-pcs-mothers-day-gifts-for-mom-honey-almond-bath-body-gift-basket-for-women-face-skin-care-kit-home-spa-basket-gift-set-self-care-gift-kit-necklace-birthday-anniversary-wife?variant=42741553561687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/81cXgbVHV9L.jpg?v=1777746576
+    Price: $49.99 USD
+  - [Sandalwood](https://tcou.net/products/35-pcs-mothers-day-gifts-for-mom-honey-almond-bath-body-gift-basket-for-women-face-skin-care-kit-home-spa-basket-gift-set-self-care-gift-kit-necklace-birthday-anniversary-wife?variant=42741553594455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/91XJpK4I1CL.jpg?v=1777746575
+    Price: $55.99 USD
+  - [Pink Rose](https://tcou.net/products/35-pcs-mothers-day-gifts-for-mom-honey-almond-bath-body-gift-basket-for-women-face-skin-care-kit-home-spa-basket-gift-set-self-care-gift-kit-necklace-birthday-anniversary-wife?variant=42741553627223)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/81ngc1xS5DL.jpg?v=1777746576
+    Price: $59.99 USD
+  - [Red Rose](https://tcou.net/products/35-pcs-mothers-day-gifts-for-mom-honey-almond-bath-body-gift-basket-for-women-face-skin-care-kit-home-spa-basket-gift-set-self-care-gift-kit-necklace-birthday-anniversary-wife?variant=42741553659991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/81BkHJpTR4L.jpg?v=1777746575
+    Price: $55.99 USD
+  - [Orchid & Jasmin](https://tcou.net/products/35-pcs-mothers-day-gifts-for-mom-honey-almond-bath-body-gift-basket-for-women-face-skin-care-kit-home-spa-basket-gift-set-self-care-gift-kit-necklace-birthday-anniversary-wife?variant=42741553692759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/91JlNrjaoJL.jpg?v=1777746575
+    Price: $59.99 USD
+  - [Tea Tree](https://tcou.net/products/35-pcs-mothers-day-gifts-for-mom-honey-almond-bath-body-gift-basket-for-women-face-skin-care-kit-home-spa-basket-gift-set-self-care-gift-kit-necklace-birthday-anniversary-wife?variant=42741553725527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/81a33TIo8AL.jpg?v=1777746576
+    Price: $52.99 USD
+  - [Hoeny & Almond](https://tcou.net/products/35-pcs-mothers-day-gifts-for-mom-honey-almond-bath-body-gift-basket-for-women-face-skin-care-kit-home-spa-basket-gift-set-self-care-gift-kit-necklace-birthday-anniversary-wife?variant=42741553758295)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/91jC1CDkJhL.jpg?v=1777746576
+    Price: $59.99 USD
+  - [Lavender](https://tcou.net/products/35-pcs-mothers-day-gifts-for-mom-honey-almond-bath-body-gift-basket-for-women-face-skin-care-kit-home-spa-basket-gift-set-self-care-gift-kit-necklace-birthday-anniversary-wife?variant=42741553791063)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/81SWmyQ71qL.jpg?v=1777746575
+    Price: $59.99 USD
+  - [Coconut & Vanilla](https://tcou.net/products/35-pcs-mothers-day-gifts-for-mom-honey-almond-bath-body-gift-basket-for-women-face-skin-care-kit-home-spa-basket-gift-set-self-care-gift-kit-necklace-birthday-anniversary-wife?variant=42741553823831)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/81gPMhmOAHL.jpg?v=1777746575
+    Price: $59.99 USD
+  - [Eucalyptus](https://tcou.net/products/35-pcs-mothers-day-gifts-for-mom-honey-almond-bath-body-gift-basket-for-women-face-skin-care-kit-home-spa-basket-gift-set-self-care-gift-kit-necklace-birthday-anniversary-wife?variant=42741553856599)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/91Vyv8sTnZL.jpg?v=1777746575
+    Price: $55.99 USD
+- [Oval Moon & Stars Engraved Necklace — "I Love You to the Moon & Back" Teardrop Pendant](https://tcou.net/products/oval-moon-stars-engraved-necklace-i-love-you-to-the-moon-back-teardrop-pendant): A delicate ellipse pendant that carries quiet meaning. The glossy, full-color print shows a moon-faced illustration framed by tiny stars and soft script — it reads like a whispered note worn close to the heart. The white aluminum print surface keeps the artwork bright and clear, while the polished zinc-alloy setting and chain give the piece a subtle, silvery sheen. Lightweight and gently reflective, this necklace settles near the collarbone and becomes a small talisman you’ll reach for when you want to feel steady, seen, or connected to someone special.Product features- Bright, full-color printing on a white aluminum surface for crisp artwork- Glossy finish on one side of the ellipse pendant for luminous detail- Ellipse-shaped zinc-alloy pendant with matching chain for a sleek silhouette- Secure lobster clasp closure for easy on/off and reliable wear- Lightweight construction with a polished, reflective backCare instructions- Wipe the dust or any dirt off gently with a clean, dry cloth.
+  Updated: 2026-05-05T13:25:41Z
+  Vendor: Printify
+  Product Type: necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2779/2954/files/13001933850461727261_2048.jpg?v=1777987507
+  Price: $30.25 USD
+- ["Kindness Includes You, be kind" Self-Care, Unisex Graphic T-Shirt](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt): S M L XL 2XL 3XL Width, in 18.25 20.25 22.00 24.00 26.00 27.75 Length, in 26.62 28.00 29.37 30.75 31.62 32.50 Sleeve length from center back, in 16.25 17.75 19.00 20.50 21.75 23.25 This relaxed-fit Color Blast tee carries a warm, lived-in vibe that feels like a gentle reminder to slow down and be kind to yourself. The garment-dyed, marbled fabric gives every shirt a one-of-a-kind sunwashed look that pairs beautifully with the soft vintage-style lettering and comforting illustration. Front and back designs read like a small, wearable mantra—’Kindness includes you’ and ‘Be Kind.’—that lands softly during quiet mornings, neighborhood walks, or cozy at-home days. It’s breathable cotton with thoughtful construction: reinforced seams, necktape for comfort, and a sewn-in label so the fit stays easy and familiar wash after wash. Wear it when you want your outfit to speak calm, encouragement, and everyday warmth.Product features- 100% ring-spun cotton for a smooth, durable print surface- Garment-dyed Color Blast fabric — each shirt has a unique marbled effect- Medium-weight (6.1 oz) with a relaxed fit for comfortable wear- Double-needle stitching and necktape for long-lasting shape and comfort- Sewn-in twill label and stable construction for everyday useCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat- Do not dryclean
+  Updated: 2026-05-08T13:30:39Z
+  Vendor: Printify
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11531756009657986437_2048.jpg?v=1777987645
+  - [Amethyst / S](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744117526615)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/20260504135153-1f147c06-856a-6226-9bb6-ba04d71da9c2.png?v=1777904715
+    Price: $34.95 USD
+  - [Ocean / S](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744117559383)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/13845821278086539814_2048.jpg?v=1777987737
+    Price: $34.95 USD
+  - [Smoke / S](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744117592151)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/13169630987612261919_2048.jpg?v=1777987769
+    Price: $34.95 USD
+  - [Citrine / S](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744117624919)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/16982086448970168732_2048.jpg?v=1777987697
+    Price: $34.95 USD
+  - [Fern / S](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744117657687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11531756009657986437_2048.jpg?v=1777987645
+    Price: $34.95 USD
+  - [Amethyst / M](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744117690455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/20260504135153-1f147c06-856a-6226-9bb6-ba04d71da9c2.png?v=1777904715
+    Price: $34.95 USD
+  - [Ocean / M](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744117723223)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/13845821278086539814_2048.jpg?v=1777987737
+    Price: $34.95 USD
+  - [Smoke / M](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744117755991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/13169630987612261919_2048.jpg?v=1777987769
+    Price: $34.95 USD
+  - [Citrine / M](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744117788759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/16982086448970168732_2048.jpg?v=1777987697
+    Price: $34.95 USD
+  - [Fern / M](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744117821527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11531756009657986437_2048.jpg?v=1777987645
+    Price: $34.95 USD
+  - [Amethyst / L](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744117854295)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/20260504135153-1f147c06-856a-6226-9bb6-ba04d71da9c2.png?v=1777904715
+    Price: $34.95 USD
+  - [Ocean / L](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744117887063)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/13845821278086539814_2048.jpg?v=1777987737
+    Price: $34.95 USD
+  - [Smoke / L](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744117919831)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/13169630987612261919_2048.jpg?v=1777987769
+    Price: $34.95 USD
+  - [Citrine / L](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744117952599)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/16982086448970168732_2048.jpg?v=1777987697
+    Price: $34.95 USD
+  - [Fern / L](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744117985367)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11531756009657986437_2048.jpg?v=1777987645
+    Price: $34.95 USD
+  - [Amethyst / XL](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744118018135)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/20260504135153-1f147c06-856a-6226-9bb6-ba04d71da9c2.png?v=1777904715
+    Price: $34.95 USD
+  - [Ocean / XL](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744118050903)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/13845821278086539814_2048.jpg?v=1777987737
+    Price: $34.95 USD
+  - [Smoke / XL](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744118083671)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/13169630987612261919_2048.jpg?v=1777987769
+    Price: $34.95 USD
+  - [Citrine / XL](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744118116439)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/16982086448970168732_2048.jpg?v=1777987697
+    Price: $34.95 USD
+  - [Fern / XL](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744118149207)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11531756009657986437_2048.jpg?v=1777987645
+    Price: $34.95 USD
+  - [Amethyst / 2XL](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744118181975)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/20260504135153-1f147c06-856a-6226-9bb6-ba04d71da9c2.png?v=1777904715
+    Price: $39.95 USD
+  - [Ocean / 2XL](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744118214743)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/13845821278086539814_2048.jpg?v=1777987737
+    Price: $39.95 USD
+  - [Smoke / 2XL](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744118247511)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/13169630987612261919_2048.jpg?v=1777987769
+    Price: $39.95 USD
+  - [Citrine / 2XL](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744118280279)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/16982086448970168732_2048.jpg?v=1777987697
+    Price: $39.95 USD
+  - [Fern / 2XL](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744118313047)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11531756009657986437_2048.jpg?v=1777987645
+    Price: $39.95 USD
+  - [Amethyst / 3XL](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744118345815)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/20260504135153-1f147c06-856a-6226-9bb6-ba04d71da9c2.png?v=1777904715
+    Price: $42.95 USD
+  - [Ocean / 3XL](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744118378583)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/13845821278086539814_2048.jpg?v=1777987737
+    Price: $42.95 USD
+  - [Smoke / 3XL](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744118411351)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/13169630987612261919_2048.jpg?v=1777987769
+    Price: $42.95 USD
+  - [Citrine / 3XL](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744118444119)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/16982086448970168732_2048.jpg?v=1777987697
+    Price: $42.95 USD
+  - [Fern / 3XL](https://tcou.net/products/be-kind-tee-kindness-includes-you-self-care-graphic-t-shirt?variant=42744118476887)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11531756009657986437_2048.jpg?v=1777987645
+    Price: $42.95 USD
+- ["Silence Is Self-Care" Sassy Graphic Tee — Women’s Empowerment Self-Love Shirt](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt): This relaxed-fit tee feels like a quiet, wearable pause. The garment-dyed color blast gives each shirt a lived-in, sun-washed look, so no two are identical. The front artwork features a thoughtful, stylish woman with the phrase “Silence is Self-care,” a sassy yet soft reminder to protect your energy. The back continues the message with “Take Care of You First,” printed in a gentle script over the same subtle marbling. Lightweight but substantial, the 100% ring-spun cotton holds print detail, while the double-stitched seams and neck tape keep the fit feeling steady after repeated wear. Wear it on slow mornings, after a long commute, or layered for a low-key day of setting boundaries and recharging.Product features- 100% ring-spun cotton for a smooth, durable print surface- Garment-dyed color blast fabric — each shirt has a unique, marbled finish- Medium weight (6.1 oz/yd²) with a relaxed fit for easy layering- Double-needle stitching and neck tape for long-lasting structure- Sewn-in twill label; pigment dye yields one-of-a-kind variationsCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Iron, steam, or dry: low heat- Do not dry-clean
+  Updated: 2026-05-08T13:38:19Z
+  Vendor: Printify
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11062663162364816300_2048.jpg?v=1777988775
+  - [Amethyst / S](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744131747927)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11062663162364816300_2048.jpg?v=1777988775
+    Price: $34.95 USD
+  - [Clay / S](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744131780695)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/15007018281757106356_2048.jpg?v=1777989164
+    Price: $34.95 USD
+  - [Ocean / S](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744131813463)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/7518855497137606641_2048.jpg?v=1777904693
+    Price: $34.95 USD
+  - [Smoke / S](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744131846231)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/7955856243611469247_2048.jpg?v=1777904688
+    Price: $34.95 USD
+  - [Citrine / S](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744131878999)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/3953670357043167710_2048.jpg?v=1777989090
+    Price: $34.95 USD
+  - [Fern / S](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744131911767)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/7987424426606086767_2048.jpg?v=1777989197
+    Price: $34.95 USD
+  - [Amethyst / M](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744131944535)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11062663162364816300_2048.jpg?v=1777988775
+    Price: $34.95 USD
+  - [Clay / M](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744131977303)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/15007018281757106356_2048.jpg?v=1777989164
+    Price: $34.95 USD
+  - [Ocean / M](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744132010071)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/7518855497137606641_2048.jpg?v=1777904693
+    Price: $34.95 USD
+  - [Smoke / M](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744132042839)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/7955856243611469247_2048.jpg?v=1777904688
+    Price: $34.95 USD
+  - [Citrine / M](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744132075607)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/3953670357043167710_2048.jpg?v=1777989090
+    Price: $34.95 USD
+  - [Fern / M](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744132108375)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/7987424426606086767_2048.jpg?v=1777989197
+    Price: $34.95 USD
+  - [Amethyst / L](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744132141143)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11062663162364816300_2048.jpg?v=1777988775
+    Price: $34.95 USD
+  - [Clay / L](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744132173911)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/15007018281757106356_2048.jpg?v=1777989164
+    Price: $34.95 USD
+  - [Ocean / L](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744132206679)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/7518855497137606641_2048.jpg?v=1777904693
+    Price: $34.95 USD
+  - [Smoke / L](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744132239447)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/7955856243611469247_2048.jpg?v=1777904688
+    Price: $34.95 USD
+  - [Citrine / L](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744132272215)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/3953670357043167710_2048.jpg?v=1777989090
+    Price: $34.95 USD
+  - [Fern / L](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744132304983)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/7987424426606086767_2048.jpg?v=1777989197
+    Price: $34.95 USD
+  - [Amethyst / XL](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744132337751)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11062663162364816300_2048.jpg?v=1777988775
+    Price: $34.95 USD
+  - [Clay / XL](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744132370519)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/15007018281757106356_2048.jpg?v=1777989164
+    Price: $34.95 USD
+  - [Ocean / XL](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744132403287)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/7518855497137606641_2048.jpg?v=1777904693
+    Price: $34.95 USD
+  - [Smoke / XL](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744132436055)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/7955856243611469247_2048.jpg?v=1777904688
+    Price: $34.95 USD
+  - [Citrine / XL](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744132468823)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/3953670357043167710_2048.jpg?v=1777989090
+    Price: $34.95 USD
+  - [Fern / XL](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744132501591)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/7987424426606086767_2048.jpg?v=1777989197
+    Price: $34.95 USD
+  - [Amethyst / 2XL](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744132534359)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11062663162364816300_2048.jpg?v=1777988775
+    Price: $39.95 USD
+  - [Clay / 2XL](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744132567127)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/15007018281757106356_2048.jpg?v=1777989164
+    Price: $39.95 USD
+  - [Ocean / 2XL](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744132599895)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/7518855497137606641_2048.jpg?v=1777904693
+    Price: $39.95 USD
+  - [Smoke / 2XL](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744132632663)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/7955856243611469247_2048.jpg?v=1777904688
+    Price: $34.95 USD
+  - [Citrine / 2XL](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744132665431)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/3953670357043167710_2048.jpg?v=1777989090
+    Price: $39.95 USD
+  - [Fern / 2XL](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744132698199)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/7987424426606086767_2048.jpg?v=1777989197
+    Price: $39.95 USD
+  - [Amethyst / 3XL](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744132730967)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11062663162364816300_2048.jpg?v=1777988775
+    Price: $42.95 USD
+  - [Clay / 3XL](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744132763735)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/15007018281757106356_2048.jpg?v=1777989164
+    Price: $42.95 USD
+  - [Ocean / 3XL](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744132796503)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/7518855497137606641_2048.jpg?v=1777904693
+    Price: $42.95 USD
+  - [Smoke / 3XL](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744132829271)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/7955856243611469247_2048.jpg?v=1777904688
+    Price: $34.95 USD
+  - [Citrine / 3XL](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744132862039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/3953670357043167710_2048.jpg?v=1777989090
+    Price: $42.95 USD
+  - [Fern / 3XL](https://tcou.net/products/silence-is-self-care-graphic-tee-women-s-empowerment-self-love-shirt?variant=42744132894807)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/7987424426606086767_2048.jpg?v=1777989197
+    Price: $42.95 USD
+- ["Kindness Is A Choice" Raglan Shirt – Make It Every Day 3/4 Sleeve](https://tcou.net/products/kindness-is-a-choice-raglan-shirt-make-it-every-day-3-4-sleeve): Soft, lived-in comfort with a gentle message. This unisex three-quarter sleeve raglan pairs a relaxed silhouette with breathable, fine-knit cotton so the words on the front—"Kindness is a choice. Make it every day."—feel like a quiet promise you wear. The contrast sleeves and unhemmed bottom give it a casual, effortless look that layers well over tanks or under jackets. It’s the kind of shirt you reach for when you want comfort and a subtle reminder to move through the day with warmth and patience.Product features- 100% ring-spun cotton (solid colors) for smooth, print-ready fabric- Fine-knit 30s jersey (4.5 oz) for a soft, lightweight feel- Contrast raglan 3/4 sleeves with contoured seaming for a relaxed fit- Prewashed and reactive-dyed to resist shrinkage and keep colors vibrant- Tear-away tags and DTF inner neck labels for comfortable, low-profile wearCare instructions
+  Updated: 2026-05-05T14:08:04Z
+  Vendor: Printify
+  Product Type: 3/4 sleeve shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9352733127180224744_2048.jpg?v=1777989540
+  - [XS / White/Black](https://tcou.net/products/kindness-is-a-choice-raglan-shirt-make-it-every-day-3-4-sleeve?variant=42744151474263)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9352733127180224744_2048.jpg?v=1777989540
+    Price: $32.18 USD
+  - [XS / White/Red](https://tcou.net/products/kindness-is-a-choice-raglan-shirt-make-it-every-day-3-4-sleeve?variant=42744151507031)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/6233181827181258518_2048.jpg?v=1777989911
+    Price: $32.18 USD
+  - [S / White/Black](https://tcou.net/products/kindness-is-a-choice-raglan-shirt-make-it-every-day-3-4-sleeve?variant=42744151539799)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9352733127180224744_2048.jpg?v=1777989540
+    Price: $32.18 USD
+  - [S / White/Heather Charcoal](https://tcou.net/products/kindness-is-a-choice-raglan-shirt-make-it-every-day-3-4-sleeve?variant=42744151572567)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/13821748317100744466_2048.jpg?v=1777989652
+    Price: $32.18 USD
+  - [S / White/Navy](https://tcou.net/products/kindness-is-a-choice-raglan-shirt-make-it-every-day-3-4-sleeve?variant=42744151605335)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/10963557921906172799_2048.jpg?v=1777989995
+    Price: $32.18 USD
+  - [S / White/Red](https://tcou.net/products/kindness-is-a-choice-raglan-shirt-make-it-every-day-3-4-sleeve?variant=42744151638103)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/6233181827181258518_2048.jpg?v=1777989911
+    Price: $32.18 USD
+  - [M / White/Black](https://tcou.net/products/kindness-is-a-choice-raglan-shirt-make-it-every-day-3-4-sleeve?variant=42744151670871)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9352733127180224744_2048.jpg?v=1777989540
+    Price: $32.18 USD
+  - [M / White/Heather Charcoal](https://tcou.net/products/kindness-is-a-choice-raglan-shirt-make-it-every-day-3-4-sleeve?variant=42744151703639)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/13821748317100744466_2048.jpg?v=1777989652
+    Price: $32.18 USD
+  - [M / White/Navy](https://tcou.net/products/kindness-is-a-choice-raglan-shirt-make-it-every-day-3-4-sleeve?variant=42744151736407)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/10963557921906172799_2048.jpg?v=1777989995
+    Price: $32.18 USD
+  - [M / White/Red](https://tcou.net/products/kindness-is-a-choice-raglan-shirt-make-it-every-day-3-4-sleeve?variant=42744151769175)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/6233181827181258518_2048.jpg?v=1777989911
+    Price: $32.18 USD
+  - [L / White/Black](https://tcou.net/products/kindness-is-a-choice-raglan-shirt-make-it-every-day-3-4-sleeve?variant=42744151801943)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9352733127180224744_2048.jpg?v=1777989540
+    Price: $32.18 USD
+  - [L / White/Heather Charcoal](https://tcou.net/products/kindness-is-a-choice-raglan-shirt-make-it-every-day-3-4-sleeve?variant=42744151834711)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/13821748317100744466_2048.jpg?v=1777989652
+    Price: $32.18 USD
+  - [L / White/Navy](https://tcou.net/products/kindness-is-a-choice-raglan-shirt-make-it-every-day-3-4-sleeve?variant=42744151867479)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/10963557921906172799_2048.jpg?v=1777989995
+    Price: $32.18 USD
+  - [L / White/Red](https://tcou.net/products/kindness-is-a-choice-raglan-shirt-make-it-every-day-3-4-sleeve?variant=42744151900247)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/6233181827181258518_2048.jpg?v=1777989911
+    Price: $32.18 USD
+  - [XL / White/Black](https://tcou.net/products/kindness-is-a-choice-raglan-shirt-make-it-every-day-3-4-sleeve?variant=42744151933015)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9352733127180224744_2048.jpg?v=1777989540
+    Price: $32.18 USD
+  - [XL / White/Heather Charcoal](https://tcou.net/products/kindness-is-a-choice-raglan-shirt-make-it-every-day-3-4-sleeve?variant=42744151965783)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/13821748317100744466_2048.jpg?v=1777989652
+    Price: $32.18 USD
+  - [XL / White/Navy](https://tcou.net/products/kindness-is-a-choice-raglan-shirt-make-it-every-day-3-4-sleeve?variant=42744151998551)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/10963557921906172799_2048.jpg?v=1777989995
+    Price: $32.18 USD
+  - [XL / White/Red](https://tcou.net/products/kindness-is-a-choice-raglan-shirt-make-it-every-day-3-4-sleeve?variant=42744152031319)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/6233181827181258518_2048.jpg?v=1777989911
+    Price: $32.18 USD
+  - [2XL / White/Black](https://tcou.net/products/kindness-is-a-choice-raglan-shirt-make-it-every-day-3-4-sleeve?variant=42744152064087)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9352733127180224744_2048.jpg?v=1777989540
+    Price: $35.40 USD
+  - [2XL / White/Heather Charcoal](https://tcou.net/products/kindness-is-a-choice-raglan-shirt-make-it-every-day-3-4-sleeve?variant=42744152096855)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/13821748317100744466_2048.jpg?v=1777989652
+    Price: $35.40 USD
+  - [2XL / White/Navy](https://tcou.net/products/kindness-is-a-choice-raglan-shirt-make-it-every-day-3-4-sleeve?variant=42744152129623)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/10963557921906172799_2048.jpg?v=1777989995
+    Price: $35.40 USD
+  - [2XL / White/Red](https://tcou.net/products/kindness-is-a-choice-raglan-shirt-make-it-every-day-3-4-sleeve?variant=42744152162391)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/6233181827181258518_2048.jpg?v=1777989911
+    Price: $35.40 USD
+- ["You Are Enough" -- TCoU - Horizontal Name Bar Necklace in Silver, Gold or Rose Gold](https://tcou.net/products/you-are-enough-tcou-horizontal-name-bar-necklace-in-silver-gold-or-rose-gold): A slim, horizontal "TCoU" necklace with a quietly modern voice that states "You Are Enough". The slim 32 x 5 mm plate sits flat against the collarbone, its surface engraved with a clean, permanent etching that catches light without a shout. Crafted from 316L surgical-grade stainless steel (with PVD color options), it resists rust and wears gently over time. Lightweight and hypoallergenic, it’s made for everyday wear — layered with other chains or worn alone as a subtle statement piece. The minimalist silhouette and precise laser engraving give it a handcrafted, intimate feel that fits days filled with coffee runs, studio sessions, or evenings out with close friends.Product features- 316L surgical-grade stainless steel for durability and corrosion resistance- Permanent laser engraving that won’t fade or peel- Hypoallergenic finish, gentle on sensitive skin- Slim bar size: 1.26" x 0.20" (32 x 5 mm) — low-profile, collarbone-length- Available PVD coating options for silver, gold, and rose gold One Size Bar height, in 0.20 Bar width, in 1.26 Thickness, in 0.09 Necklace length, in 18.00 or warm rose tonesCare instructions- Wipe the dust or any dirt off gently with a clean, dry cloth.
+  Updated: 2026-05-05T03:44:57Z
+  Vendor: Printify
+  Product Type: Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2779/2954/files/20260504152615-1f147cd9-6e0d-6d8e-95e0-8eda00dcbb6c.png?v=1777909492
+  - [One Size / 18K Gold PVD coating](https://tcou.net/products/you-are-enough-tcou-horizontal-name-bar-necklace-in-silver-gold-or-rose-gold?variant=42744206491735)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/20260504152615-1f147cd9-6e0d-6d8e-95e0-8eda00dcbb6c.png?v=1777909492
+    Price: $40.99 USD
+  - [One Size / 18K Rose Gold PVD coating](https://tcou.net/products/you-are-enough-tcou-horizontal-name-bar-necklace-in-silver-gold-or-rose-gold?variant=42744206524503)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/7797945792745667550_2048.jpg?v=1777909500
+    Price: $40.99 USD
+  - [One Size / Stainless Steel (No coating)](https://tcou.net/products/you-are-enough-tcou-horizontal-name-bar-necklace-in-silver-gold-or-rose-gold?variant=42744206557271)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/20260504152850-1f147cdf-3bda-6424-9696-2e599b9c4fc5.png?v=1777909493
+    Price: $40.99 USD
+- [Autumn Patchwork Yoga Leggings High Elastics Pants For Women High Waist Hips Lifting Fitness Trousers Energy Fitness Sportswear](https://tcou.net/products/autumn-patchwork-yoga-leggings-high-elastics-pants-for-women-high-waist-hips-lifting-fitness-trousers-energy-fitness-sportswear): Autumn Patchwork Yoga Leggings High Elastics Pants For Women High Waist Hips Lifting Fitness Trousers Energy Fitness Sportswear Closure Type: Elastic WaistMaterial: NylonGender: WOMENFit: Fits true to size, take your normal sizeSport Type: YogaPant Length: Ankle-Length PantsFabric Type: BroadclothModel Number: D19037Item Type: Full Lengthwholesale: yesdrops shipping: yesstyle: casual, sexyoccasion: yoga, fitness, gym, push up,
+  Updated: 2026-05-05T17:39:35Z
+  Vendor: Vimost Shop
+  Product Type: n/a
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2779/2954/files/product-image-1503972542.jpg?v=1777959569
+  - [gray pants / M / United States](https://tcou.net/products/autumn-patchwork-yoga-leggings-high-elastics-pants-for-women-high-waist-hips-lifting-fitness-trousers-energy-fitness-sportswear?variant=42745354518615)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/product-image-1503972568.jpg?v=1777959571
+    Price: $80.91 USD
+  - [orange pants / M / United States](https://tcou.net/products/autumn-patchwork-yoga-leggings-high-elastics-pants-for-women-high-waist-hips-lifting-fitness-trousers-energy-fitness-sportswear?variant=42745354551383)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/product-image-1503972566.jpg?v=1777959571
+    Price: $80.91 USD
+  - [orange pants / S / United States](https://tcou.net/products/autumn-patchwork-yoga-leggings-high-elastics-pants-for-women-high-waist-hips-lifting-fitness-trousers-energy-fitness-sportswear?variant=42745354584151)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/product-image-1503972566.jpg?v=1777959571
+    Price: $80.91 USD
+  - [gray pants / S / United States](https://tcou.net/products/autumn-patchwork-yoga-leggings-high-elastics-pants-for-women-high-waist-hips-lifting-fitness-trousers-energy-fitness-sportswear?variant=42745354616919)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/product-image-1503972568.jpg?v=1777959571
+    Price: $80.91 USD
+  - [gray pants / XS / United States](https://tcou.net/products/autumn-patchwork-yoga-leggings-high-elastics-pants-for-women-high-waist-hips-lifting-fitness-trousers-energy-fitness-sportswear?variant=42745354649687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/product-image-1503972568.jpg?v=1777959571
+    Price: $80.91 USD
+  - [gray orange pants / S / United States](https://tcou.net/products/autumn-patchwork-yoga-leggings-high-elastics-pants-for-women-high-waist-hips-lifting-fitness-trousers-energy-fitness-sportswear?variant=42745354682455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/product-image-1503972544.jpg?v=1777959571
+    Price: $80.91 USD
+  - [gray orange pants / XS / United States](https://tcou.net/products/autumn-patchwork-yoga-leggings-high-elastics-pants-for-women-high-waist-hips-lifting-fitness-trousers-energy-fitness-sportswear?variant=42745354715223)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/product-image-1503972544.jpg?v=1777959571
+    Price: $80.91 USD
+  - [orange pants / XS / United States](https://tcou.net/products/autumn-patchwork-yoga-leggings-high-elastics-pants-for-women-high-waist-hips-lifting-fitness-trousers-energy-fitness-sportswear?variant=42745354747991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/product-image-1503972566.jpg?v=1777959571
+    Price: $80.91 USD
+  - [gray orange pants / M / United States](https://tcou.net/products/autumn-patchwork-yoga-leggings-high-elastics-pants-for-women-high-waist-hips-lifting-fitness-trousers-energy-fitness-sportswear?variant=42745354780759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/product-image-1503972544.jpg?v=1777959571
+    Price: $80.91 USD
+  - [green pants / XS / United States](https://tcou.net/products/autumn-patchwork-yoga-leggings-high-elastics-pants-for-women-high-waist-hips-lifting-fitness-trousers-energy-fitness-sportswear?variant=42745354813527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/product-image-1503972565.jpg?v=1777959572
+    Price: $80.91 USD
+  - [red pants / M / China](https://tcou.net/products/autumn-patchwork-yoga-leggings-high-elastics-pants-for-women-high-waist-hips-lifting-fitness-trousers-energy-fitness-sportswear?variant=42745354846295)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/product-image-1503972567.jpg?v=1777959569
+    Price: $80.91 USD
+  - [red pants / M / United States](https://tcou.net/products/autumn-patchwork-yoga-leggings-high-elastics-pants-for-women-high-waist-hips-lifting-fitness-trousers-energy-fitness-sportswear?variant=42745354879063)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/product-image-1503972567.jpg?v=1777959569
+    Price: $80.91 USD
+  - [green pants / M / China](https://tcou.net/products/autumn-patchwork-yoga-leggings-high-elastics-pants-for-women-high-waist-hips-lifting-fitness-trousers-energy-fitness-sportswear?variant=42745354911831)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/product-image-1503972565.jpg?v=1777959572
+    Price: $80.91 USD
+  - [green pants / M / United States](https://tcou.net/products/autumn-patchwork-yoga-leggings-high-elastics-pants-for-women-high-waist-hips-lifting-fitness-trousers-energy-fitness-sportswear?variant=42745354944599)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/product-image-1503972565.jpg?v=1777959572
+    Price: $80.91 USD
+  - [green pants / S / China](https://tcou.net/products/autumn-patchwork-yoga-leggings-high-elastics-pants-for-women-high-waist-hips-lifting-fitness-trousers-energy-fitness-sportswear?variant=42745354977367)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/product-image-1503972565.jpg?v=1777959572
+    Price: $80.91 USD
+  - [green pants / S / United States](https://tcou.net/products/autumn-patchwork-yoga-leggings-high-elastics-pants-for-women-high-waist-hips-lifting-fitness-trousers-energy-fitness-sportswear?variant=42745355010135)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/product-image-1503972565.jpg?v=1777959572
+    Price: $80.91 USD
+  - [red pants / S / China](https://tcou.net/products/autumn-patchwork-yoga-leggings-high-elastics-pants-for-women-high-waist-hips-lifting-fitness-trousers-energy-fitness-sportswear?variant=42745355042903)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/product-image-1503972567.jpg?v=1777959569
+    Price: $80.91 USD
+  - [red pants / S / United States](https://tcou.net/products/autumn-patchwork-yoga-leggings-high-elastics-pants-for-women-high-waist-hips-lifting-fitness-trousers-energy-fitness-sportswear?variant=42745355075671)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/product-image-1503972567.jpg?v=1777959569
+    Price: $80.91 USD
+  - [red pants / XS / China](https://tcou.net/products/autumn-patchwork-yoga-leggings-high-elastics-pants-for-women-high-waist-hips-lifting-fitness-trousers-energy-fitness-sportswear?variant=42745355108439)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/product-image-1503972567.jpg?v=1777959569
+    Price: $80.91 USD
+  - [red pants / XS / United States](https://tcou.net/products/autumn-patchwork-yoga-leggings-high-elastics-pants-for-women-high-waist-hips-lifting-fitness-trousers-energy-fitness-sportswear?variant=42745355141207)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/product-image-1503972567.jpg?v=1777959569
+    Price: $80.91 USD
+- [“Take Care of You First, YOU are enough!” --Self-Care T-Shirt — Short Sleeve Shirt](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt): This lightweight tee carries a quiet, steady message: "Take care of you first". The soft, breathable cotton feels like a gentle reminder against the skin. A subtle, curved chest print places the message where it can catch the eye without shouting. Small sleeve accents add personality while keeping the overall look calm and easy to wear. Wear it on slow mornings, during walks, or layered under a jacket when you need a visual nudge toward self-care. It looks simple, but it holds an intention — to prioritize yourself because "you are enough." XS S M L XL 2XL 3XL Width, in 16.50 18.00 20.00 22.00 24.00 26.00 28.00 Length, in 27.00 28.00 29.00 30.00 31.00 32.00 33.00 Sleeve length, in 8.60 8.90 9.20 9.50 9.70 10.00 10.40 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50 1.50 , one small choice at a time.Product features- 100% Airlume combed & ring-spun cotton (lightweight 4.2 oz/yd²) for breathability and soft hand-feel- Retail crew neck with ribbed knit collar and seam for a classic look and lasting shape- Side seams and shoulder twill tape for improved structure and fit retention- Tear-away label to reduce skin irritation; REACH  and responsibly produced- Prints produced with DTF or DTG, depending on the provider, for crisp, vibrant chest and sleeve graphicsCare instructions- Machine wash: cold (max 30C or 90F)- Non-chlorine: bleach as needed- Tumble dry: low heat- Iron, steam, or dry: medium heat- Do not dry-clean
+  Updated: 2026-05-09T03:08:43Z
+  Vendor: Printify
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2779/2954/files/10881642104442342295_2048.jpg?v=1778271569
+  - [Vintage White / XS](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975503843415)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/8940256331694456003_2048.jpg?v=1778271814
+    Price: $35.40 USD
+  - [Tan / XS](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975503876183)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/15634981159002606121_2048.jpg?v=1778271877
+    Price: $35.40 USD
+  - [Heather Prism Mint / XS](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975503908951)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11711567517250589856_2048.jpg?v=1778272001
+    Price: $35.40 USD
+  - [Sage / XS](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975503941719)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/1425476790329344728_2048.jpg?v=1778271972
+    Price: $35.40 USD
+  - [Berry / S](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975503974487)
+    Availability: Available
+    Price: $35.40 USD
+  - [Heather True Royal / S](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504007255)
+    Availability: Available
+    Price: $35.40 USD
+  - [Silver / S](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504040023)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/7984832013495555255_2048.jpg?v=1778271843
+    Price: $35.40 USD
+  - [Turquoise / S](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504072791)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/5895692369505537978_2048.jpg?v=1778272057
+    Price: $35.40 USD
+  - [Heather Ice Blue / S](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504105559)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9157648636667931469_2048.jpg?v=1778271735
+    Price: $35.40 USD
+  - [Vintage White / S](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504138327)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/8940256331694456003_2048.jpg?v=1778271814
+    Price: $35.40 USD
+  - [Lilac / S](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504171095)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/728158991217997708_2048.jpg?v=1778272132
+    Price: $35.40 USD
+  - [Tan / S](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504203863)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/15634981159002606121_2048.jpg?v=1778271877
+    Price: $35.40 USD
+  - [Heather Prism Mint / S](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504236631)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11711567517250589856_2048.jpg?v=1778272001
+    Price: $35.40 USD
+  - [Sage / S](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504269399)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/1425476790329344728_2048.jpg?v=1778271972
+    Price: $35.40 USD
+  - [Berry / M](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504302167)
+    Availability: Available
+    Price: $35.40 USD
+  - [Heather Orange / M](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504334935)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/7585929401875670908_2048.jpg?v=1778271785
+    Price: $35.40 USD
+  - [Heather True Royal / M](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504367703)
+    Availability: Available
+    Price: $35.40 USD
+  - [Silver / M](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504400471)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/7984832013495555255_2048.jpg?v=1778271843
+    Price: $35.40 USD
+  - [Turquoise / M](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504433239)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/5895692369505537978_2048.jpg?v=1778272057
+    Price: $35.40 USD
+  - [Heather Ice Blue / M](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504466007)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9157648636667931469_2048.jpg?v=1778271735
+    Price: $35.40 USD
+  - [Vintage White / M](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504498775)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/8940256331694456003_2048.jpg?v=1778271814
+    Price: $35.40 USD
+  - [Lilac / M](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504531543)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/728158991217997708_2048.jpg?v=1778272132
+    Price: $35.40 USD
+  - [Tan / M](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504564311)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/15634981159002606121_2048.jpg?v=1778271877
+    Price: $35.40 USD
+  - [Heather Prism Mint / M](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504597079)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11711567517250589856_2048.jpg?v=1778272001
+    Price: $35.40 USD
+  - [Sage / M](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504629847)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/1425476790329344728_2048.jpg?v=1778271972
+    Price: $35.40 USD
+  - [Berry / L](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504662615)
+    Availability: Available
+    Price: $35.40 USD
+  - [Heather Orange / L](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504695383)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/7585929401875670908_2048.jpg?v=1778271785
+    Price: $38.54 USD
+  - [Heather True Royal / L](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504728151)
+    Availability: Available
+    Price: $35.40 USD
+  - [Silver / L](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504760919)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/7984832013495555255_2048.jpg?v=1778271843
+    Price: $35.40 USD
+  - [Turquoise / L](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504793687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/5895692369505537978_2048.jpg?v=1778272057
+    Price: $35.40 USD
+  - [White / L](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504826455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/10881642104442342295_2048.jpg?v=1778271569
+    Price: $35.40 USD
+  - [Heather Ice Blue / L](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504859223)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9157648636667931469_2048.jpg?v=1778271735
+    Price: $35.40 USD
+  - [Vintage White / L](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504891991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/8940256331694456003_2048.jpg?v=1778271814
+    Price: $35.40 USD
+  - [Mustard / L](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504924759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/12791334798466342916_2048.jpg?v=1778271904
+    Price: $35.40 USD
+  - [Lilac / L](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504957527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/728158991217997708_2048.jpg?v=1778272132
+    Price: $35.40 USD
+  - [Tan / L](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975504990295)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/15634981159002606121_2048.jpg?v=1778271877
+    Price: $35.40 USD
+  - [Heather Prism Mint / L](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975505023063)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11711567517250589856_2048.jpg?v=1778272001
+    Price: $35.40 USD
+  - [Sage / L](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975505055831)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/1425476790329344728_2048.jpg?v=1778271972
+    Price: $35.40 USD
+  - [Berry / XL](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975505088599)
+    Availability: Available
+    Price: $35.40 USD
+  - [Heather Orange / XL](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975505121367)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/7585929401875670908_2048.jpg?v=1778271785
+    Price: $35.40 USD
+  - [Heather True Royal / XL](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975505154135)
+    Availability: Available
+    Price: $35.40 USD
+  - [Silver / XL](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975505186903)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/7984832013495555255_2048.jpg?v=1778271843
+    Price: $35.40 USD
+  - [Turquoise / XL](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975505219671)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/5895692369505537978_2048.jpg?v=1778272057
+    Price: $35.40 USD
+  - [Heather Ice Blue / XL](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975505252439)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9157648636667931469_2048.jpg?v=1778271735
+    Price: $35.40 USD
+  - [Vintage White / XL](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975505285207)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/8940256331694456003_2048.jpg?v=1778271814
+    Price: $35.40 USD
+  - [Mustard / XL](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975505317975)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/12791334798466342916_2048.jpg?v=1778271904
+    Price: $35.40 USD
+  - [Lilac / XL](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975505350743)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/728158991217997708_2048.jpg?v=1778272132
+    Price: $35.40 USD
+  - [Tan / XL](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975505383511)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/15634981159002606121_2048.jpg?v=1778271877
+    Price: $35.40 USD
+  - [Heather Prism Mint / XL](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975505416279)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/11711567517250589856_2048.jpg?v=1778272001
+    Price: $35.40 USD
+  - [Sage / XL](https://tcou.net/products/take-care-of-you-first-you-are-enough-self-care-t-shirt-short-sleeve-shirt?variant=42975505449047)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/1425476790329344728_2048.jpg?v=1778271972
+    Price: $35.40 USD
+- ["Saying Yes when you mean No..." Raglan Shirt – "Doesn't make you nice, it makes you exhausted"-- 3/4 Sleeve](https://tcou.net/products/saying-yes-when-you-mean-no-raglan-shirt-doesnt-make-you-nice-it-makes-you-exhausted-3-4-sleeve): Soft, lived-in comfort with a gentle message. This three-quarter sleeve raglan pairs a relaxed silhouette with breathable, fine-knit cotton so the words on the front—"Saying Yes when you mean No." "Doesn't make you nice, it makes you exhausted"—feels like a quiet promise you wear. The contrast sleeves and unhemmed bottom give it a casual, effortless look that layers well over tanks or under jackets. It’s the kind of shirt you reach for when you want comfort and a subtle reminder to move through the day with warmth and patience.Product features- 100% ring-spun cotton (solid colors) for smooth, print-ready fabric- Fine-knit 30s jersey (4.5 oz) for a soft, lightweight feel- Contrast raglan 3/4 sleeves with contoured seaming for a relaxed fit- Prewashed and reactive-dyed to resist shrinkage and keep colors vibrant- neck printed labels for comfortable, low-profile wear
+  Updated: 2026-05-09T03:20:31Z
+  Vendor: Printify
+  Product Type: Long-sleeve
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2779/2954/files/20260508151231-1f14af05-5b7d-6fee-8375-86773c42671e.png?v=1778253617
+  - [XS / White/Black](https://tcou.net/products/saying-yes-when-you-mean-no-raglan-shirt-doesnt-make-you-nice-it-makes-you-exhausted-3-4-sleeve?variant=42976509100119)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/20260508151231-1f14af05-5b7d-6fee-8375-86773c42671e.png?v=1778253617
+    Price: $32.18 USD
+  - [XS / White/Red](https://tcou.net/products/saying-yes-when-you-mean-no-raglan-shirt-doesnt-make-you-nice-it-makes-you-exhausted-3-4-sleeve?variant=42976509132887)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9183535647372556905_2048.jpg?v=1778253623
+    Price: $32.18 USD
+  - [S / White/Black](https://tcou.net/products/saying-yes-when-you-mean-no-raglan-shirt-doesnt-make-you-nice-it-makes-you-exhausted-3-4-sleeve?variant=42976509165655)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/20260508151231-1f14af05-5b7d-6fee-8375-86773c42671e.png?v=1778253617
+    Price: $32.18 USD
+  - [S / White/Heather Charcoal](https://tcou.net/products/saying-yes-when-you-mean-no-raglan-shirt-doesnt-make-you-nice-it-makes-you-exhausted-3-4-sleeve?variant=42976509198423)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/6004715356016247154_2048.jpg?v=1778253630
+    Price: $32.18 USD
+  - [S / White/Navy](https://tcou.net/products/saying-yes-when-you-mean-no-raglan-shirt-doesnt-make-you-nice-it-makes-you-exhausted-3-4-sleeve?variant=42976509231191)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/10650810073843548914_2048.jpg?v=1778253638
+    Price: $32.18 USD
+  - [S / White/Red](https://tcou.net/products/saying-yes-when-you-mean-no-raglan-shirt-doesnt-make-you-nice-it-makes-you-exhausted-3-4-sleeve?variant=42976509263959)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9183535647372556905_2048.jpg?v=1778253623
+    Price: $32.18 USD
+  - [M / White/Black](https://tcou.net/products/saying-yes-when-you-mean-no-raglan-shirt-doesnt-make-you-nice-it-makes-you-exhausted-3-4-sleeve?variant=42976509296727)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/20260508151231-1f14af05-5b7d-6fee-8375-86773c42671e.png?v=1778253617
+    Price: $32.18 USD
+  - [M / White/Heather Charcoal](https://tcou.net/products/saying-yes-when-you-mean-no-raglan-shirt-doesnt-make-you-nice-it-makes-you-exhausted-3-4-sleeve?variant=42976509329495)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/6004715356016247154_2048.jpg?v=1778253630
+    Price: $32.18 USD
+  - [M / White/Navy](https://tcou.net/products/saying-yes-when-you-mean-no-raglan-shirt-doesnt-make-you-nice-it-makes-you-exhausted-3-4-sleeve?variant=42976509362263)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/10650810073843548914_2048.jpg?v=1778253638
+    Price: $32.18 USD
+  - [M / White/Red](https://tcou.net/products/saying-yes-when-you-mean-no-raglan-shirt-doesnt-make-you-nice-it-makes-you-exhausted-3-4-sleeve?variant=42976509395031)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9183535647372556905_2048.jpg?v=1778253623
+    Price: $32.18 USD
+  - [L / White/Black](https://tcou.net/products/saying-yes-when-you-mean-no-raglan-shirt-doesnt-make-you-nice-it-makes-you-exhausted-3-4-sleeve?variant=42976509427799)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/20260508151231-1f14af05-5b7d-6fee-8375-86773c42671e.png?v=1778253617
+    Price: $32.18 USD
+  - [L / White/Heather Charcoal](https://tcou.net/products/saying-yes-when-you-mean-no-raglan-shirt-doesnt-make-you-nice-it-makes-you-exhausted-3-4-sleeve?variant=42976509460567)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/6004715356016247154_2048.jpg?v=1778253630
+    Price: $32.18 USD
+  - [L / White/Navy](https://tcou.net/products/saying-yes-when-you-mean-no-raglan-shirt-doesnt-make-you-nice-it-makes-you-exhausted-3-4-sleeve?variant=42976509493335)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/10650810073843548914_2048.jpg?v=1778253638
+    Price: $32.18 USD
+  - [L / White/Red](https://tcou.net/products/saying-yes-when-you-mean-no-raglan-shirt-doesnt-make-you-nice-it-makes-you-exhausted-3-4-sleeve?variant=42976509526103)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9183535647372556905_2048.jpg?v=1778253623
+    Price: $32.18 USD
+  - [XL / White/Black](https://tcou.net/products/saying-yes-when-you-mean-no-raglan-shirt-doesnt-make-you-nice-it-makes-you-exhausted-3-4-sleeve?variant=42976509558871)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/20260508151231-1f14af05-5b7d-6fee-8375-86773c42671e.png?v=1778253617
+    Price: $32.18 USD
+  - [XL / White/Heather Charcoal](https://tcou.net/products/saying-yes-when-you-mean-no-raglan-shirt-doesnt-make-you-nice-it-makes-you-exhausted-3-4-sleeve?variant=42976509591639)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/6004715356016247154_2048.jpg?v=1778253630
+    Price: $32.18 USD
+  - [XL / White/Navy](https://tcou.net/products/saying-yes-when-you-mean-no-raglan-shirt-doesnt-make-you-nice-it-makes-you-exhausted-3-4-sleeve?variant=42976509624407)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/10650810073843548914_2048.jpg?v=1778253638
+    Price: $32.18 USD
+  - [XL / White/Red](https://tcou.net/products/saying-yes-when-you-mean-no-raglan-shirt-doesnt-make-you-nice-it-makes-you-exhausted-3-4-sleeve?variant=42976509657175)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9183535647372556905_2048.jpg?v=1778253623
+    Price: $32.18 USD
+  - [2XL / White/Black](https://tcou.net/products/saying-yes-when-you-mean-no-raglan-shirt-doesnt-make-you-nice-it-makes-you-exhausted-3-4-sleeve?variant=42976509689943)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/20260508151231-1f14af05-5b7d-6fee-8375-86773c42671e.png?v=1778253617
+    Price: $35.40 USD
+  - [2XL / White/Heather Charcoal](https://tcou.net/products/saying-yes-when-you-mean-no-raglan-shirt-doesnt-make-you-nice-it-makes-you-exhausted-3-4-sleeve?variant=42976509722711)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/6004715356016247154_2048.jpg?v=1778253630
+    Price: $35.40 USD
+  - [2XL / White/Navy](https://tcou.net/products/saying-yes-when-you-mean-no-raglan-shirt-doesnt-make-you-nice-it-makes-you-exhausted-3-4-sleeve?variant=42976509755479)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/10650810073843548914_2048.jpg?v=1778253638
+    Price: $35.40 USD
+  - [2XL / White/Red](https://tcou.net/products/saying-yes-when-you-mean-no-raglan-shirt-doesnt-make-you-nice-it-makes-you-exhausted-3-4-sleeve?variant=42976509788247)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/9183535647372556905_2048.jpg?v=1778253623
+    Price: $35.40 USD
+- [Nice Isn't Always Kind / Be Kind T-Shirt](https://tcou.net/products/nice-isnt-always-kind-be-kind-t-shirt): Light, breathable tee with a thoughtful message that sits like a quiet reminder. The front reads “Nice isn’t always Kind,” in warm, contrasting scripts; the back continues with a gentle “Be Kind,” framed by soft botanical flourishes and a small heart. The shirt’s soft 60/40 combed ring-spun cotton/polyester blend drapes easily and keeps printed details crisp, while a classic fit and stretch-recover ribbed collar make it comfortable for everyday wear. It’s the kind of shirt you reach for when you want your outfit to reflect calm conviction—subtle, sincere, and slightly clever.Product features- 60% combed ring-spun cotton / 40% polyester blend — soft, smooth surface ideal for printing- Lightweight fabric (4.3 oz / 146 g/m²) for breathable, all-day comfort- 1x1 ribbed collar with stretch-recovery to keep a neat neckline- Self-fabric shoulder tape for clean lines and reduced stretching- Tear-away label and DTF inner neck label for a comfortable, low-irritation finishCare instructions- Machine wash: cold (max 30C or 90F)- Do not bleach- Tumble dry: low heat- Iron, steam or dry: low heat
+  Updated: 2026-05-09T03:38:10Z
+  Vendor: Printify
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2779/2954/files/16644918635898840236_2048.jpg?v=1778271404
+  - [CVC White / XS](https://tcou.net/products/nice-isnt-always-kind-be-kind-t-shirt?variant=42978019639383)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/16644918635898840236_2048.jpg?v=1778271404
+    Price: $31.48 USD
+  - [CVC White / S](https://tcou.net/products/nice-isnt-always-kind-be-kind-t-shirt?variant=42978019672151)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/16644918635898840236_2048.jpg?v=1778271404
+    Price: $31.48 USD
+  - [CVC White / M](https://tcou.net/products/nice-isnt-always-kind-be-kind-t-shirt?variant=42978019704919)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/16644918635898840236_2048.jpg?v=1778271404
+    Price: $31.48 USD
+  - [CVC White / L](https://tcou.net/products/nice-isnt-always-kind-be-kind-t-shirt?variant=42978019737687)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/16644918635898840236_2048.jpg?v=1778271404
+    Price: $31.48 USD
+  - [CVC White / XL](https://tcou.net/products/nice-isnt-always-kind-be-kind-t-shirt?variant=42978019770455)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/16644918635898840236_2048.jpg?v=1778271404
+    Price: $31.48 USD
+  - [CVC White / 2XL](https://tcou.net/products/nice-isnt-always-kind-be-kind-t-shirt?variant=42978019803223)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/16644918635898840236_2048.jpg?v=1778271404
+    Price: $34.42 USD
+  - [CVC White / 3XL](https://tcou.net/products/nice-isnt-always-kind-be-kind-t-shirt?variant=42978019835991)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/16644918635898840236_2048.jpg?v=1778271404
+    Price: $37.62 USD
+  - [CVC White / 4XL](https://tcou.net/products/nice-isnt-always-kind-be-kind-t-shirt?variant=42978019868759)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/16644918635898840236_2048.jpg?v=1778271404
+    Price: $46.18 USD
+  - [CVC White / 5XL](https://tcou.net/products/nice-isnt-always-kind-be-kind-t-shirt?variant=42978019901527)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/2779/2954/files/16644918635898840236_2048.jpg?v=1778271404
+    Price: $43.67 USD
+[List Continued](https://tcou.net/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NjQwODYzMDgwNTM1LCJsYXN0X3ZhbHVlIjoiNzY0MDg2MzA4MDUzNSJ9)
 
 ## Collections
 
@@ -8407,17 +9215,17 @@
   Updated: 2026-04-21T15:01:10Z
   Total Products: 8
 - [Jewelry & Accessories](https://tcou.net/collections/tcou-collection-to-take-care-of-you-fun-accessories): Jewelry, Bags, Shawls, Scarves, and Other Accessories Accessories for Teens, Women and Men Jewelry & Watches for Teens, Women and Men Bags and Luggage Belts and other fun accessories for personal use
-  Updated: 2026-04-23T20:55:12Z
-  Total Products: 26
+  Updated: 2026-05-04T15:44:49Z
+  Total Products: 28
 - [Fashionista--What to Wear](https://tcou.net/collections/tcou-take-care-of-you-company-fun-wearing-apparel): Wearing Apparel (Clothes, Coats, of all Types) for: LADIES, MEN and TEENS
-  Updated: 2026-05-01T23:38:07Z
-  Total Products: 74
+  Updated: 2026-05-08T15:37:54Z
+  Total Products: 79
 - [Personal, Beautifying, and Pampering Care](https://tcou.net/collections/tcou-take-care-of-you-fun-headwear): Special and Unique Artisan made Accessories such as Hats, Beanies, gloves and other types
-  Updated: 2026-04-17T13:38:43Z
-  Total Products: 16
+  Updated: 2026-05-02T18:56:57Z
+  Total Products: 18
 - [TCoU Recommendations from Amazon Products](https://tcou.net/collections/tcou-take-care-of-you-fun-kitchen-gadgets): Best Found TCoU Recommendations--Amazon's Products. Check them out!!
-  Updated: 2026-04-24T21:40:25Z
-  Total Products: 42
+  Updated: 2026-05-02T18:59:52Z
+  Total Products: 46
 - [Pet Things](https://tcou.net/collections/tcou-take-care-of-you-fun-things-for-pets): Toys, and other fun things for pets
   Updated: 2026-04-21T13:05:04Z
   Total Products: 3
@@ -8428,19 +9236,19 @@
   Updated: 2026-04-21T12:32:16Z
   Total Products: 11
 - [Let's Get Sassy!! Make Your Statement](https://tcou.net/collections/tcou-fun-specials-for-you): NEW, FUN AND FUNNY ITEMS LAUGHTER IS THE BEST  FOR THE SOUL!! BUY THESE FOR YOURSELF OR SHARE THEM WITH OTHERS, SHARE THE FUN!!
-  Updated: 2026-05-02T00:35:32Z
-  Total Products: 44
-- [TCoU Signature Products.](https://tcou.net/collections/tcou-products-unique-limited): TCoU Signature Products. Unique-Limited Quantities
-  Updated: 2026-05-01T23:38:07Z
-  Total Products: 31
+  Updated: 2026-05-08T15:30:15Z
+  Total Products: 48
+- [All-TCoU Signature Products-Self-Care and Wellness Gifts.](https://tcou.net/collections/tcou-products-unique-limited): TCoU Signature Products. Self-Care and Wellness Gifts for you or someone you care about.
+  Updated: 2026-05-08T15:37:54Z
+  Total Products: 28
 - [Home, Garden, & Entertainment Fun](https://tcou.net/collections/tcou-fun-home-decor-items): Fun Things for the Home.
-  Updated: 2026-04-21T15:01:10Z
-  Total Products: 4
+  Updated: 2026-05-02T18:59:52Z
+  Total Products: 8
 - [SNAP JEWELRY  --  Collect and Share the Fun — it’s a snap!!](https://tcou.net/collections/tcou-fun-snap-jewelry): GET YOUR FAVORITE SNAP JEWELRY AND THEN START YOUR SNAP BUTTON COLLECTION--MIX & MATCH FOR MORE FUN--MAKE A STATEMENT WITH YOUR SNAP BUTTONS EVERYDAY!!!
   Updated: 2026-01-29T18:13:58Z
   Total Products: 10
 - [Exploration & Travel Fun](https://tcou.net/collections/tcou-fun-meditation-yoga-inspirational-items): Items for traveling adventures!
-  Updated: 2026-04-21T12:32:16Z
+  Updated: 2026-05-10T19:08:52Z
   Total Products: 7
 - [Share A Heart](https://tcou.net/collections/tcou-help-campaigns): TCoU --SHARE A HEART -- items-to promote mental wellness, Anti-Stress, Anti-Anxiety, and Anti-Depression. Focused on cheering people up, letting them know they are loved or should have Self Love.
   Updated: 2026-04-22T14:36:21Z
@@ -8455,8 +9263,8 @@
   Updated: 2026-04-22T17:07:43Z
   Total Products: 11
 - [Fitness, Meditation, Sports & Yoga](https://tcou.net/collections/sports-and-fitness): ITEMS USED FOR SPORTS AND FITNESS.
-  Updated: 2026-04-30T09:04:50Z
-  Total Products: 18
+  Updated: 2026-05-10T19:11:23Z
+  Total Products: 21
 - [Collectibles](https://tcou.net/collections/dolls-figurines-fantasy-gnomes-fairies-gargoyles): Dolls, Figurines, Fantasy (Gnomes, Fairies, Gargoyles,) for all ages
   Updated: 2026-04-02T15:16:42Z
   Total Products: 6
@@ -8467,8 +9275,8 @@
   Updated: 2026-04-17T13:09:55Z
   Total Products: 1
 - [MONTHLY SPECIAL FINDS & UNIQUE GIFTS](https://tcou.net/collections/specials-and-new-products): Check out what is New and Special in our TCoU just for you!!
-  Updated: 2026-05-02T00:35:32Z
-  Total Products: 30
+  Updated: 2026-05-08T15:37:54Z
+  Total Products: 39
 
 ## Blogs
 
@@ -8508,6 +9316,26 @@
     Updated: 2026-04-24T17:35:28Z
     Author: Diana Hamilton
     Tags: kind, KINDNESS, nice, peace, self-care, self-love
+  - [Ultimate Guide to Self-Care Gifts and Wellness Gifts for Her](https://tcou.net/blogs/news/ultimate-guide-to-self-care-gifts-and-wellness-gifts-for-her): Ultimate Guide to Self-Care Gifts and Wellness Gifts for Her
+    Updated: 2026-05-05T03:01:32Z
+    Author: Diana H.
+  - [10 Thoughtful Self-Care Gifts to Boost Mental Wellness This Season](https://tcou.net/blogs/news/10-thoughtful-self-care-gifts-to-boost-mental-wellness-this-season): 10 Thoughtful Self-Care Gifts to Boost Mental Wellness This Season
+    Updated: 2026-05-04T06:03:37Z
+    Author: Diana H.
+  - [Hope and Healing Gifts: Explore Mindfulness Gifts for Friends](https://tcou.net/blogs/news/hope-and-healing-gifts-explore-mindfulness-gifts-for-friends): Hope and Healing Gifts: Explore Mindfulness Gifts for Friends
+    Updated: 2026-05-06T06:03:43Z
+    Author: Diana H.
+  - [Top 5 Mental Health Awareness Gifts That Spread Hope](https://tcou.net/blogs/news/top-5-mental-health-awareness-gifts-that-spread-hope): Top 5 Mental Health Awareness Gifts That Spread Hope
+    Updated: 2026-05-09T06:01:05Z
+    Author: Diana H.
+  - [Happy Mother's Day from TCoU](https://tcou.net/blogs/news/happy-mothers-day-from-tcou): <p><img src="https://cdn.shopify.com/s/files/1/2779/2954/files/ChatGPT_Image_May_10_2026_09_25_08_AM.png?v=1778430895" alt=""></p>
+    Updated: 2026-05-10T16:42:07Z
+    Author: Diana Hamilton
+  - ["Tag you are IT!! Kindness begins with each of us."](https://tcou.net/blogs/news/tag-you-are-it-kindness-begins-with-each-of-us): <p><span>"Tag you are IT!! Kindness begins with each of us." check out our t-shirts and other products designed with love and care. Wear it and show everyone it is good to Take Care of You First.</span></p>
+<p><span><a href="https://tcou.net/collections/tcou-products-unique-limited">All-TCoU Signature Products-Self-Care and Wellness Gifts. – TCoU - Take Care of You</a></span></p>
+<p> </p>
+    Updated: 2026-05-10T16:55:53Z
+    Author: Diana Hamilton
 - [TCoU Daily Affirmations](https://tcou.net/blogs/daily-reaffirmations)
   - [Hard times](https://tcou.net/blogs/daily-reaffirmations/hard-times-tcou-affirmation-for-today): <p><span style="font-size: 18.0pt; font-family: Aptos; mso-ascii-font-family: Aptos; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: +mn-cs; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-fareast; mso-bidi-theme-font: minor-bidi; color: #3b7d23; mso-color-index: 9; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: accent6; mso-style-textfill-fill-color: #3B7D23; mso-style-textfill-fill-alpha: 100.0%; mso-style-textfill-fill-colortransforms: lumm=75000;">“This moment will pass, and I am moving forward.”<strong>(Repeat this throughout the day)</strong></span></p>
     Updated: 2026-04-30T21:00:25Z
@@ -8521,11 +9349,58 @@
     Updated: 2026-04-30T21:08:06Z
     Author: Diana Hamilton
     Tags: Affirmations, courage, self-care, self-love, strong
+  - ["I look for lessons instead of losses."](https://tcou.net/blogs/daily-reaffirmations/tcou-daily-affirmations): <h1 dir="ltr" class="reader-article-header__title"><span data-scaffold-immersive-reader-title="">"There is something here for me to learn and grow from." <span>(Repeat this throughout the day)  </span></span></h1>
+    Updated: 2026-05-03T16:09:30Z
+    Author: Diana Hamilton
+    Tags: Affirmations, anxiety, burnout, gratitude, lessons, losses
+  - [Your mindset is a garden, what you plant matters."](https://tcou.net/blogs/daily-reaffirmations/your-mindset-is-a-garden-what-you-plant-matters): <p style="language: en-US; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left; direction: ltr; unicode-bidi: embed; mso-line-break-override: none; word-break: normal; punctuation-wrap: hanging;"><span style="font-size: 18pt; font-family: Aptos; color: black;">“I choose thoughts that help me grow.”<span> (Repeat this throughout the day)</span></span></p>
+<p style="language: en-US; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left; direction: ltr; unicode-bidi: embed; mso-line-break-override: none; word-break: normal; punctuation-wrap: hanging;"> </p>
+    Updated: 2026-05-03T16:17:05Z
+    Author: Diana Hamilton
+    Tags: anxiety, belief, believe, burnout, control, courage, gratitude, nurture, patience, peace, strong
+  - ["I give myself grace and permission to rest. Rest is not weakness, it's wisdom."](https://tcou.net/blogs/daily-reaffirmations/i-give-myself-grace-and-permission-to-rest): <p>"I give myself grace and permission to rest."<span>(Repeat this throughout the day)</span></p>
+    Updated: 2026-05-05T18:53:25Z
+    Author: Diana Hamilton
+    Tags: control, gratitude, nurture, peace, rest, self-care, self-love, wisdom
+  - ["I trust the timing of my life-one step at a time."](https://tcou.net/blogs/daily-reaffirmations/i-trust-the-timing-of-my-life-one-step-at-a-time): <p>"I trust the timing of my life, and all is unfolding as it should." <span>(Repeat this throughout the day)</span></p>
+    Updated: 2026-05-05T18:51:11Z
+    Author: Diana Hamilton
+    Tags: commitment, patience, persistence, purpose, trust
+  - [“I choose hope, even when it feels fragile.”](https://tcou.net/blogs/daily-reaffirmations/i-choose-hope-even-when-it-feels-fragile): <p style="language: en-US; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left; direction: ltr; unicode-bidi: embed; mso-line-break-override: none; word-break: normal; punctuation-wrap: hanging;"><span style="font-size: 18.0pt; font-family: Aptos; mso-ascii-font-family: Aptos; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: +mn-cs; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-fareast; mso-bidi-theme-font: minor-bidi; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;">“I </span><span style="font-size: 18.0pt; font-family: Aptos; mso-ascii-font-family: Aptos; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: +mn-cs; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-fareast; mso-bidi-theme-font: minor-bidi; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;">choose hope, again and again</span><span style="font-size: 18.0pt; font-family: Aptos; mso-ascii-font-family: Aptos; mso-fareast-font-family: +mn-ea; mso-bidi-font-family: +mn-cs; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-fareast; mso-bidi-theme-font: minor-bidi; color: black; mso-color-index: 1; mso-font-kerning: 12.0pt; language: en-US; font-weight: bold; mso-style-textfill-type: solid; mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-color: black; mso-style-textfill-fill-alpha: 100.0%;">.”</span><span>(Repeat this throughout the day)</span></p>
+    Updated: 2026-05-05T19:01:46Z
+    Author: Diana Hamilton
+    Tags: believe, faith, Hope, patience, self-care, self-love
+  - ["I choose Progress not perfection."](https://tcou.net/blogs/daily-reaffirmations/i-choose-progress-not-perfection): <p><span>Today's TCoU daily Affirmation is about celebrating the small wins and letting go of self-criticism. </span></p>
+<p><span>"I choose progress, not perfection."(Repeat this throughout the day)</span></p>
+    Updated: 2026-05-09T17:19:50Z
+    Author: Diana Hamilton
+  - ["I am my own safe place"](https://tcou.net/blogs/daily-reaffirmations/i-am-my-own-safe-place): <p>I can comfort myself, I am enough, I am strong.</p>
+<p>"I am my own safe place" <span>(Repeat this throughout the day)</span></p>
+    Updated: 2026-05-09T17:27:03Z
+    Author: Diana Hamilton
+  - ["I deserve the love I so freely give to others."](https://tcou.net/blogs/daily-reaffirmations/i-deserve-the-love-i-so-freely-give-to-others): <p><span>"I deserve love, especially from myself." (Repeat this throughout the day)</span></p>
+    Updated: 2026-05-10T19:31:58Z
+    Author: Diana Hamilton
+  - [I honor my need to rest. "Rest is productive too"](https://tcou.net/blogs/daily-reaffirmations/i-honor-my-need-to-rest-rest-is-productive-too): <p>Today's affirmation is about the need for rest and how important it is for us to function efficiently.  Rest is part of taking care of us.  Rest, Recharge, Reset, Repeat. </p>
+<p>I honor my need for rest without guilt.</p>
+<p>"Rest is productive too." <span>(Repeat this throughout the day)</span></p>
+    Updated: 2026-05-10T19:39:28Z
+    Author: Diana Hamilton
+  - ["I give myself Permission to grow."](https://tcou.net/blogs/daily-reaffirmations/i-give-myself-permission-to-grow): <p>I don't have to have it all figured out. I give myself grace as I learn, evolve, and become.</p>
+<p>"I give myself permission to grow." <span>(Repeat this throughout the day)</span></p>
+    Updated: 2026-05-10T19:55:15Z
+    Author: Diana Hamilton
+- [TCoU Storytelling](https://tcou.net/blogs/tcou-storytelling)
+  - [Third Quarter --Episode 1](https://tcou.net/blogs/tcou-storytelling/third-quarter-episode-1): <p class="MsoNormal"><b><span style="font-family: 'Arial',sans-serif;">TCoU Storytelling Series</span></b><span style="font-family: 'Arial',sans-serif;"> — are weekly episodes that dive into individuals' experiences in their work, school, or business environments, and the effects that daily challenges or dramas can have on other aspects of their lives, their relationships, and their psyche. These stories are raw, relatable, and meant to spark conversation. Come along for the journey and share your perspective in the comments.</span></p>
+    Updated: 2026-05-07T17:15:29Z
+    Author: Diana Hamilton
 
 ## Store Pages
 
-- [About Us - Our Mission to Spread Hope & Mental Wellness | TCoU](https://tcou.net/pages/our-story): Welcome to TCoU - Take Care of You Hi, I'm Diana Hamilton, and I'm so glad you're here. a { text-decoration: none; color: #464feb; } tr th, tr td {...
-  Updated: 2026-04-24T21:10:06Z
+- [About Us - TCoU-Take Care of You – Founder’s Update, Title: "How Starting a Mental Wellness Movement Helped Me Find Hope—and How It Can Help You Too."](https://tcou.net/pages/our-story): TCoU-Take Care of You – Founder’s Update Title: "How Starting a Mental Wellness Movement Helped Me Find Hope—and How It Can Help You Too." Over the...
+  Updated: 2026-05-02T20:11:26Z
+- [TCoU Storytelling](https://tcou.net/pages/tcou-storytelling): TCoU Storytelling – weekly episodes of compelling workplace drama that affect multiple individuals in different ways, because the pressure is not c...
+  Updated: 2026-05-07T16:28:20Z
 
 ## Policies
 
