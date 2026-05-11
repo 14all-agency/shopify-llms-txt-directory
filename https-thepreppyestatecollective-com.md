@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-12-05T19:37:22Z
 - Contact Email: care@thepreppyestatecollective.com
-- Updated At: 2026-04-29T00:00:22.670Z
+- Updated At: 2026-05-11T00:00:35.874Z
 
 ## Products
 
@@ -4764,53 +4764,56 @@
 ## Collections
 
 - [The Hydrangea House | Custom Gifts & Décor](https://thepreppyestatecollective.com/collections/home-page): Elevate your gifting with The Hydrangea House's personalized décor and wrapping paper. Perfect for any occasion, shop our collections!
-  Updated: 2026-04-25T17:07:20Z
+  Updated: 2026-05-08T11:29:12Z
   Total Products: 0
 - [The Hydrangea House Shop All: Monogrammed Items](https://thepreppyestatecollective.com/collections/shop-all): Browse all preppy gift wrap, garden flags, desk accessories, pillows, platters, and personalized home décor from The Hydrangea House in one place.
-  Updated: 2026-04-25T16:57:43Z
-  Total Products: 548
+  Updated: 2026-05-08T11:29:12Z
+  Total Products: 562
 - [Personalized Garden Flags for Your Home](https://thepreppyestatecollective.com/collections/garden-porch-flags): Shop personalized garden & porch flags with names, monograms, and house numbers. Classic preppy designs—perfect for gifting and curb appeal.
-  Updated: 2026-04-22T22:03:56Z
-  Total Products: 134
+  Updated: 2026-05-09T23:45:54Z
+  Total Products: 145
 - [The Hydrangea House Holiday Collection | Shop Now](https://thepreppyestatecollective.com/collections/holiday-seasonal): Adorn your home with The Hydrangea House Holiday Collection. Discover classic décor and thoughtful gifts ensuring a delightful seasonal atmosphere!
-  Updated: 2026-04-25T17:06:06Z
+  Updated: 2026-05-08T11:29:12Z
   Total Products: 181
 - [Best- Preppy Gifts & Home Décor](https://thepreppyestatecollective.com/collections/best--preppy-gifts-home-decor): Explore The Hydrangea House Best- personalized gifts and décor. Find your favorites that customers love to gift and reorder! 🎁
-  Updated: 2026-04-25T17:05:01Z
+  Updated: 2026-05-08T11:29:12Z
   Total Products: 11
 - [Spring Home Accent | Celebrate Spring in Style](https://thepreppyestatecollective.com/collections/shop-spring): Celebrate the season with personalized preppy décor for a beautifully welcoming home. Our Spring Collection features classic garden flags and hostess-ready favorites inspired by coastal and grandmillennial style.
-  Updated: 2026-04-25T16:31:47Z
-  Total Products: 259
+  Updated: 2026-05-09T23:45:54Z
+  Total Products: 275
 - [The Hydrangea House Entertaining Essentials](https://thepreppyestatecollective.com/collections/entertaining-hosting): Elevate your gatherings with The Hydrangea House Entertaining & Hosting collection. Discover personalized pieces for every occasion! 🎉
-  Updated: 2026-04-25T17:04:14Z
-  Total Products: 212
+  Updated: 2026-05-08T11:29:12Z
+  Total Products: 219
 - [Personalized Home Decor Gifts to Elevate Rooms](https://thepreppyestatecollective.com/collections/home-accents): Elevate everyday spaces with personalized home decor gifts. Each piece is crafted for timeless style and warmth. Shop now for something special! 🏡
-  Updated: 2026-04-22T21:59:47Z
-  Total Products: 233
+  Updated: 2026-05-09T23:45:54Z
+  Total Products: 246
 - [Custom Personalized Gifts | Meaningful & Thoughtful](https://thepreppyestatecollective.com/collections/gifts): Personalized preppy gifts for every occasion — timeless, thoughtful pieces inspired by coastal living and grandmillennial charm.
-  Updated: 2026-04-26T14:42:05Z
+  Updated: 2026-05-09T23:36:40Z
   Total Products: 97
 - [Personalized Housewarming Gifts to Make Home Special](https://thepreppyestatecollective.com/collections/housewarming-hostess): Shop our collection of personalized housewarming gifts to add warmth and style to any space. Make someone feel truly at home today!
-  Updated: 2026-04-22T22:07:17Z
+  Updated: 2026-05-09T23:36:40Z
   Total Products: 157
 - [Wedding Gifts: Timeless & Personalized Options](https://thepreppyestatecollective.com/collections/wedding-newlyweds): Explore our stunning Wedding Gifts that celebrate love and new beginnings. Perfect for weddings and showers. Find the ideal keepsake today! 🎁
-  Updated: 2026-04-25T16:55:20Z
+  Updated: 2026-05-08T11:29:12Z
   Total Products: 2
 - [The Hydrangea House Mother's Day Gifts Collection](https://thepreppyestatecollective.com/collections/mothers-day): Find the perfect Mother's Day gifts at The Hydrangea House. Thoughtful and beautifully made items to honor the special woman in your life.
-  Updated: 2026-04-25T16:58:48Z
+  Updated: 2026-05-08T11:29:12Z
   Total Products: 119
 - [The Hydrangea House Gifts for Pet Lovers | Shop](https://thepreppyestatecollective.com/collections/pet-lovers): Shop The Hydrangea House Gifts for Pet Lovers for personalized pieces celebrating furry family members. Perfect gifts for every pet lover!
-  Updated: 2026-04-25T16:59:58Z
+  Updated: 2026-05-08T11:29:12Z
   Total Products: 59
 - [Personalized Outdoor Decor: Lake House Styles](https://thepreppyestatecollective.com/collections/sports-outdoors): Transform your space with personalized outdoor decor inspired by sporting traditions. Ideal for families who enjoy the great outdoors!
-  Updated: 2026-04-22T22:10:56Z
+  Updated: 2026-05-08T11:29:12Z
   Total Products: 32
 - [Personalized Teacher Gifts for Lasting Impact](https://thepreppyestatecollective.com/collections/teachers): Discover heartfelt personalized teacher gifts designed to leave a lasting impression. Surprise your favorites today and brighten their day! 🌟
-  Updated: 2026-04-22T22:13:57Z
-  Total Products: 67
+  Updated: 2026-05-08T11:29:12Z
+  Total Products: 68
 - [Personalized Kid & Baby | Celebrate Milestones](https://thepreppyestatecollective.com/collections/kids-baby): Create lasting memories with our Personalized Kid & Baby collection. Delight in classic style and soft designs for every special occasion.
-  Updated: 2026-04-25T16:56:45Z
+  Updated: 2026-05-08T11:29:12Z
   Total Products: 66
+- [Realtor Closing Gift: Build Stronger Relationships](https://thepreppyestatecollective.com/collections/realtor-closing-gifts): Stand out as a realtor with custom closing gifts. Our personalized selections show clients you care, enhancing your service experience.
+  Updated: 2026-05-08T11:29:13Z
+  Total Products: 1
 
 ## Blogs
 
@@ -4874,15 +4877,15 @@
 ## Store Pages
 
 - [The Hydrangea House Privacy Policy](https://thepreppyestatecollective.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2026-04-25T16:47:40Z
+  Updated: 2026-05-08T11:29:12Z
 - [Hydrangea House About Us: Tradition Meets Timeless Style](https://thepreppyestatecollective.com/pages/about-us): Welcome to The Hydrangea House, a mother–daughter studio devoted to personalized home décor rooted in charm, tradition, and timeless style. From mo...
-  Updated: 2026-04-25T16:41:12Z
+  Updated: 2026-05-08T11:29:13Z
 - [Contact The Hydrangea House for Assistance Today](https://thepreppyestatecollective.com/pages/contact-us): Have a question about an order or a custom design? Use the form below or email us at care@thepreppyestatecollective.com .
-  Updated: 2026-04-25T16:44:10Z
+  Updated: 2026-05-08T11:29:13Z
 - [The Hydrangea House Shipping & Return Policies](https://thepreppyestatecollective.com/pages/shipping-returns): Shipping & Processing Where we ship We currently ship from the United States to most countries. Processing time Many of our items are made-to-order...
-  Updated: 2026-04-25T16:47:07Z
+  Updated: 2026-05-08T11:29:13Z
 - [The Hydrangea House FAQ | Orders, Shipping & Personalization](https://thepreppyestatecollective.com/pages/faq): Orders & Processing Q: How long will it take to make my order?A: Most items are made to order just for you. These items typically take 5–7 business...
-  Updated: 2026-04-25T16:45:42Z
+  Updated: 2026-05-08T11:29:13Z
 
 ## Policies
 
