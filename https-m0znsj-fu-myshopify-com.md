@@ -6,17 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2026-03-29T22:58:20Z
 - Contact Email: raphsandel993pro@gmail.com
-- Updated At: 2026-05-01T00:00:29.644Z
-
-## Products
-
-- [Gloss Hair Serum for Smooth, Shiny Hair | VOSIEN](https://m0znsj-fu.myshopify.com/products/gloss-hair-serum): Gloss hair serum for smooth, radiant hair. This best hair serum helps tame frizz, nourish dry strands, and boost shine in one lightweight leave-in.
-  Updated: 2026-04-26T04:04:35Z
-  Vendor: Vosien
-  Product Type: Haircare
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1006/8783/9561/files/1d9611e2-2be7-4097-8d08-165cc979849b_8f316cb7-5db5-4839-8c5a-811926a5eaf8.webp?v=1777133072
-  Price: £24.00 GBP
+- Updated At: 2026-05-11T00:00:35.487Z
 
 ## Collections
 
@@ -36,11 +26,11 @@
   Updated: 2026-04-12T23:38:54Z
   Total Products: 0
 - [tinyEinstein_best_selling - Vosien](https://m0znsj-fu.myshopify.com/collections/tinyeinstein_best_selling): - Vosien
-  Updated: 2026-04-25T17:15:29Z
-  Total Products: 1
+  Updated: 2026-05-05T19:52:49Z
+  Total Products: 0
 - [tinyEinstein_new_arrival - Vosien](https://m0znsj-fu.myshopify.com/collections/tinyeinstein_new_arrival): - Vosien
-  Updated: 2026-04-25T17:15:29Z
-  Total Products: 1
+  Updated: 2026-05-05T19:52:49Z
+  Total Products: 0
 
 ## Blogs
 
