@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2017-04-11T01:21:52Z
 - Contact Email: info@calisteam.com
-- Updated At: 2026-05-03T00:00:35.968Z
+- Updated At: 2026-05-11T00:00:37.392Z
 
 ## Products
 
 - [Mushroom Drink Mix | Lift Off](https://calisteam.com/products/lift-off-gummies): Our powder infused drink mix contains a real mushroom extract. Our proprietary full spectrum blend of magical mushrooms, vitamins and minerals are infused in our drink mix. Each tube is filled with 3.5grams of full spectrum mushroom extract. First water soluble mushroom extract on the market. Try today!
-  Updated: 2026-04-15T01:40:16Z
+  Updated: 2026-05-10T06:19:27Z
   Vendor: Lift Off
   Product Type: 
   Availability: Available
@@ -99,14 +99,14 @@
     Availability: Available
     Price: $32.00 USD
 - [Mushroom Gummies 24 Variety Pack](https://calisteam.com/products/mushroom-gummies-variety-pack): Lift Off Gummies Variety Pack includes 24 pouches of chewable botanical dietary supplements in three flavors. Each pouch contains 8 gummies with a mushroom extract plus vitamins and minerals in a convenient daily format.
-  Updated: 2026-04-01T19:34:45Z
+  Updated: 2026-05-06T14:54:12Z
   Vendor: Lift Off
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1916/4047/files/Gummy_Variety_Pack_-_Front.png?v=1719622725
   Price: $625.00 USD
 - [THCA Diamond Infused Flower](https://calisteam.com/products/thca-flower-infused): Explore Space Rocks THCA Diamond-Infused Flower: potent, flavorful, and pure. Elevate your  experience with top-tier THCA innovation. Shop now!
-  Updated: 2026-04-28T20:28:49Z
+  Updated: 2026-05-10T15:51:57Z
   Vendor: Space Rocks
   Product Type: 
   Availability: Available
@@ -310,7 +310,7 @@
     Availability: Available
     Price: $560.00 USD
 - [Lift Off Gummies - Wholesale](https://calisteam.com/products/lift-off-gummies-strawberry-kiwi): Lift Off Gummies by Cali Steam – mushroom-infused gummies in a colorful resealable pouch, designed to boost clarity, focus, and mood naturally.
-  Updated: 2026-04-01T19:34:45Z
+  Updated: 2026-05-08T02:14:11Z
   Vendor: Cali Steam LLC
   Product Type: 
   Availability: Available
@@ -595,7 +595,7 @@
     Image: https://cdn.shopify.com/s/files/1/1916/4047/files/1.png?v=1725823446
     Price: $190.00 USD
 - [THCA Live Liquid Diamond Vape](https://calisteam.com/products/thca-live-liquid-diamonds): Experience the pinnacle of vaping sophistication with Live Liquid Diamond  Vapes, a premium collection crafted to deliver bold flavor, rich aroma, and an ultra-smooth experience. Infused with high-grade live resin and meticulously refined diamond concentrates, each strain in this collection is designed to elevate every draw. Flavor Profiles GusherzA candy-like burst of tropical fruit with a creamy, sweet finish. Gusherz offers a smooth and flavorful experience that feels both indulgent and balanced. Watermelon CandyJuicy watermelon sweetness meets a nostalgic candy twist. Bright, smooth, and easy to enjoy from start to finish. Sour StomperSharp, tangy flavor with subtle sweetness underneath. Sour Stomper delivers a bold, punchy taste with a smooth vapor experience. Desert LimeA zesty burst of fresh lime with subtle earthy and herbal undertones. Crisp, refreshing, and vibrant on every inhale. Gas FaceDeep gassy notes layered with earthy richness and a bold finish. Gas Face brings a heavy-hitting flavor profile for those who prefer something loud and complex. Pineapple ExpressA tropical escape of juicy pineapple and bright citrus. Sweet, fresh, and uplifting with a clean, flavorful draw. Lemon MeringueTangy lemon flavor balanced by creamy sweetness and soft citrus zest. A smooth, dessert-inspired profile that stands out from the crowd. Watermelon DreamzSweet watermelon flavor with a mellow, candy-like finish. Light, smooth, and easygoing with a dreamy tropical character. Do-Si-DoRich dessert-like sweetness with earthy spice and subtle nutty undertones. A full-bodied flavor profile that feels smooth and satisfying. Strawberry CoughFresh strawberry flavor with a hint of herbal spice. A timeless strain profile with a sweet, bright finish. Why Choose Live Liquid Diamond Vapes? Pure PotencyMade with premium diamond concentrates and live resin for exceptional quality and flavor. Smooth ExperienceAdvanced hardware delivers consistent draws and rich, full-bodied vapor. Premium DesignSleek, leak-resistant vapes designed to fit seamlessly into your lifestyle. Lab-Tested QualityCrafted to meet high standards for purity, consistency, and performance. Elevate your vaping experience with Live Liquid Diamond  Vapes — crafted for connoisseurs, perfected for everyday enjoyment. Explore the collection, find your favorite strain, and enjoy a next-level vape experience.
-  Updated: 2026-05-01T02:13:27Z
+  Updated: 2026-05-05T13:42:46Z
   Vendor: Cali Steam LLC
   Product Type: 
   Availability: Available
@@ -756,7 +756,7 @@
     Image: https://cdn.shopify.com/s/files/1/1916/4047/files/IMG_7133.png?v=1775697987
     Price: $35.00 USD
 - [Nootropic Gummies by Amaris Collective](https://calisteam.com/products/nootropic-gummies-by-amaris-collective): Nootropic mushroom gummies by Amaris Collective. A 30 pack of watermelon flavored mushroom gummies each gummy containing 250mg per piece.
-  Updated: 2026-05-01T21:54:30Z
+  Updated: 2026-05-10T15:31:04Z
   Vendor: Cali Steam Distro | THCA Space Rocks | Mushroom Lift Off
   Product Type: 
   Availability: Available
@@ -930,28 +930,28 @@
   Image: https://cdn.shopify.com/s/files/1/1916/4047/files/HashAmericanBlonde.png?v=1769207633
   Price: $28.00 USD
 - [Mushroom Gummies | Lift Off | Grape](https://calisteam.com/products/mushroom-gummies-lift-off-grape): Grape functional mushroom gummies with vitamins and minerals formulated to support daily focus, emotional balance, and natural energy. Third-party tested dietary supplement.
-  Updated: 2026-05-02T03:32:07Z
+  Updated: 2026-05-08T20:07:16Z
   Vendor: Lift Off
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1916/4047/files/Lift_Off_Gummies_-_Grape.jpg?v=1771041213
   Price: $30.00 USD
 - [Mushroom Gummies | Lift Off | Sour Peach](https://calisteam.com/products/mushroom-gummies-lift-off-sour-peach): Refreshing sour peach functional mushroom gummies designed for daily wellness routines. Convenient, flavorful alternative to capsules with third-party tested quality.
-  Updated: 2026-05-01T21:54:26Z
+  Updated: 2026-05-07T00:57:26Z
   Vendor: Lift Off
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1916/4047/files/Lift_Off_Gummies_-_Sour_Peach.png?v=1777520195
   Price: $30.00 USD
 - [Mushroom Gummies | Lift Off | Strawberry Kiwi](https://calisteam.com/products/mushroom-gummies-lift-off-strawberry-kiwi): Great-tasting strawberry kiwi gummies formulated with functional mushrooms and nutrients to support focus, balance, and daytime productivity as part of a daily routine.
-  Updated: 2026-04-09T15:26:47Z
+  Updated: 2026-05-07T00:57:27Z
   Vendor: Lift Off
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1916/4047/files/Lift_Off_Gummies_-_Strawberry_Kiwi.jpg?v=1771041100
   Price: $30.00 USD
 - [Mushroom Gummies | Lift Off | Flavor Variety 3 - 8pc Packs](https://calisteam.com/products/mushroom-gummies-lift-off-flavor-variety-3-pack-bundle): Try all three Lift Off mushroom gummy flavors in one variety bundle. Includes Strawberry Kiwi, Grape & Sour Peach — save $15 total with the 3-pack while supporting focus, mood & natural energy.
-  Updated: 2026-04-28T21:01:16Z
+  Updated: 2026-05-10T15:31:06Z
   Vendor: Lift Off
   Product Type: 
   Availability: Available
@@ -1015,7 +1015,7 @@
   Image: https://cdn.shopify.com/s/files/1/1916/4047/files/Geek_Bar_Sour_Mango_Pineapple.png?v=1767130930
   Price: $20.00 USD
 - [Mushroom Gummies | Lift Off | Green Apple](https://calisteam.com/products/lift-off-gummies-green-apple): Lift Off Green Apple packs a bold, tangy flavor with 1,000mg per gummy of real functional mushroom extract, featuring cordyceps and chaga. With just 3 gummies per pouch, it’s a potent, convenient way to support focus, daily energy, and overall balance in a clean, enjoyable gummy.
-  Updated: 2026-04-15T01:40:17Z
+  Updated: 2026-05-08T20:07:18Z
   Vendor: Premium THCA Flower & Functional Mushroom Gummies | Lab-Tested | Cali Steam
   Product Type: 
   Availability: Available
@@ -1335,7 +1335,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Mushroom Gummies | Lift Off | 3 - 3 Packs](https://calisteam.com/products/mushroom-gummies-lift-off-variety-pack-of-3-packs): Daily Functional Mushroom Support for Focus & BalanceLift Off Gummies 3 Pack delivers a flavorful and convenient way to enjoy your daily functional mushroom routine, featuring three vibrant flavors — Strawberry Kiwi, Green Apple, and Sour Peach.
-  Updated: 2026-04-24T20:04:47Z
+  Updated: 2026-05-10T15:31:04Z
   Vendor: Lift Off
   Product Type: 
   Availability: Available
@@ -1355,6 +1355,27 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1916/4047/files/Lift_Off_Gummies_-_Sour_Peach.png?v=1777520195
   Price: $30.00 USD
+- [THCA Pineapple Express Vape](https://calisteam.com/products/thca-pineapple-express-vape): Sativa — Live Liquid Diamonds Pineapple Express Tropical. Effortlessly smooth. Transport yourself to somewhere warmer with every draw.
+  Updated: 2026-05-10T23:52:50Z
+  Vendor: Cali Steam LLC
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1916/4047/files/Pineapple_Express.png?v=1778455778
+  Price: $35.00 USD
+- [THCA Strawberry Cough Vape](https://calisteam.com/products/thca-strawberry-cough-vape): Sativa — Live Liquid Diamonds Strawberry Cough Sweet. Social. Endlessly satisfying. A true legend of the sativa world.
+  Updated: 2026-05-10T23:52:10Z
+  Vendor: Cali Steam LLC
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1916/4047/files/Strawberry_Cough.png?v=1778456314
+  Price: $35.00 USD
+- [THCA Do-si-do Vape](https://calisteam.com/products/thca-do-si-do-vape): Indica — Live Liquid Diamonds Do-Si-Do Rich. Relaxing. Dessert-forward bliss. When the day is done and it's time to truly unwind, Do-Si-Do is the strain you reach for.
+  Updated: 2026-05-10T23:51:31Z
+  Vendor: Cali Steam LLC
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1916/4047/files/Do-si-do.png?v=1778457000
+  Price: $35.00 USD
 
 ## Collections
 
@@ -1362,31 +1383,31 @@
   Updated: 2024-12-22T22:32:21Z
   Total Products: 0
 - [THCA Flower](https://calisteam.com/collections/thca-flower-space-rocks): Diamond-infused Space Rocks THCA flower for maximum potency and explosive flavor. Ultra-strong, terpene-rich buds crafted for heavy hitters ready for liftoff.
-  Updated: 2026-05-01T11:06:05Z
-  Total Products: 17
+  Updated: 2026-05-08T02:14:57Z
+  Total Products: 13
 - [Functional Mushroom Products](https://calisteam.com/collections/lift-off): 🌱 Functional Mushrooms for Mindful Energy & Balance At Cali Steam, we infuse our Lift Off Gummies and wellness drink mixes with a powerful blend of functional mushrooms—nature’s most intelligent adaptogens. These aren’t hallucinogenic varieties, but rather performance-driven species like Lion’s Mane, Cordyceps, Reishi, and Chaga, known to support focus, energy, mood, and immune balance. Each batch is crafted for smooth, sustained clarity—without the crash or jitters of caffeine. Our mushroom formulations work in harmony with the body’s natural rhythm to help you lift off your stress, sharpen your mind, and flow through the day with grounded energy. 🌌 The Science of Functional Fungi Functional mushrooms contain bioactive compounds such as beta-glucans, terpenes, and antioxidants that nourish the brain, support gut health, and promote calm resilience to stress. Modern studies have shown that Lion’s Mane may encourage cognitive function, while Reishi and Chaga help modulate the body’s stress response—making them ideal for those seeking natural focus and mood balance. Whether in gummy form or mixed into your daily drink, Cali Steam’s mushroom-powered formulas deliver earth-grown vitality with a cosmic twist—crafted for clarity, calm, and creativity in every dose.
-  Updated: 2026-05-02T11:08:12Z
+  Updated: 2026-05-10T11:07:33Z
   Total Products: 16
 - [Wholesale](https://calisteam.com/collections/wholesale-customer-portal): Welcome to our wholesale purchasing platform. Please ensure you are logged in to your account in order for the wholesale prices to appear. If you'd like to be part of our wholesale program please complete our wholesale inquiry form.
   Updated: 2026-04-01T19:34:43Z
   Total Products: 13
 - [THCA Concentrates](https://calisteam.com/collections/space-rocks-concentrates): Premium Space Rocks concentrates crafted for purity, potency, and rich terpene flavor. Live resin, sugar, and badder extracts designed for a smooth, powerful lift.
-  Updated: 2026-05-01T11:06:05Z
-  Total Products: 12
+  Updated: 2026-05-08T02:15:19Z
+  Total Products: 8
 - [Shop All Products](https://calisteam.com/collections/shop-all-products): At Cali Steam, we believe the foundation of health and vitality lies in the gifts of nature. Our mission is to harness the potency of nature’s finest fruits.
-  Updated: 2026-05-02T11:08:12Z
+  Updated: 2026-05-10T11:07:33Z
   Total Products: 21
 - [Productos Funcionales](https://calisteam.com/collections/productos-funcionales): 🚀 Bienvenido al Universo Cali SteamDescubre el poder de la naturaleza elevado al máximo con nuestros productos estrella:Space Rocks, flor premium infundida con diamantes de THCa, y Lift Off, gomitas funcionales con extracto vivo de hongos. Cada producto está cuidadosamente elaborado para ofrecer una experiencia única — ya sea que busques relajación profunda, claridad mental o un impulso de energía natural, en Cali Steam tenemos la fórmula perfecta para elevar tu día. 🌿 Productos naturales. Potencia real. Resultados cósmicos.
-  Updated: 2026-04-08T02:41:41Z
-  Total Products: 5
+  Updated: 2026-05-08T02:14:11Z
+  Total Products: 1
 - [Geek Bars](https://calisteam.com/collections/geek-bars): Get ready to be blown away by the Geek Bar Pulse X Meteor Edition, a next-generation disposable vape for vapers who demand power, flavor, and convenience.
   Updated: 2026-04-01T19:34:43Z
   Total Products: 1
 - [Space Rocks](https://calisteam.com/collections/space-rocks): Space Rocks™ by Cali Steam is a luxury THCA  brand engineered for elite potency, terpene richness, and next-level effects. Space Rocks delivers a powerful, smooth, and flavor-forward experience built for connoisseurs who demand more from their .
-  Updated: 2026-05-01T11:06:05Z
-  Total Products: 18
+  Updated: 2026-05-08T02:14:57Z
+  Total Products: 14
 - [Lift Off](https://calisteam.com/collections/lift-off-1): Lift Off™ is Cali Steam’s flagship functional mushroom brand crafted for natural energy, focus, mood balance, and cognitive support. Lift Off products harness a proprietary blend of performance-driven adaptogenic mushrooms — including Lion’s Mane, Cordyceps, Reishi, and Chaga.
-  Updated: 2026-05-02T11:08:12Z
+  Updated: 2026-05-10T11:07:33Z
   Total Products: 13
 - [Amaris](https://calisteam.com/collections/amaris): Amaris Collective™ is a nootropic mushroom brand featured on Cali Steam designed for enhanced cognitive flexibility, emotional agility, and sustained mental energy. Formulated at the intersection of neuroscience and holistic wellness, Amaris gummies use a proprietary AM-0X™ bio-intelligent microdose stack of genetically optimized functional mushrooms and bioactive compounds for concentrated mental support.
   Updated: 2026-05-02T11:08:12Z
@@ -1395,37 +1416,37 @@
   Updated: 2026-04-01T19:34:44Z
   Total Products: 3
 - [Microdose Gummies](https://calisteam.com/collections/microdose-gummies): Light-dose microdose mushroom gummies for mood, creativity, and cognitive support. Precise dosing, delicious flavors. Elevate your daily wellness — Lift Off.
-  Updated: 2026-05-02T11:08:12Z
+  Updated: 2026-05-10T11:07:33Z
   Total Products: 14
 - [Energy Gummies](https://calisteam.com/collections/energy-gummies): Functional mushroom energy gummies designed for sustained focus and motivation. Clean energy without jitters. Cordyceps + Lion’s Mane. Shop Lift Off Energy Gummies.
-  Updated: 2026-05-02T11:08:12Z
+  Updated: 2026-05-09T11:05:27Z
   Total Products: 8
 - [Lion's Mane Gummies](https://calisteam.com/collections/lions-mane-gummies): Premium Lion’s Mane mushroom gummies crafted for cognitive support, focus, and memory. Lab-tested, great-tasting, vegan-friendly — perfect for daily brain health.
-  Updated: 2026-05-02T11:08:12Z
+  Updated: 2026-05-09T11:05:27Z
   Total Products: 9
 - [High Potency THCA Flower | Space Rocks – Cali Steam](https://calisteam.com/collections/high-potency-thca): Shop Space Rocks high potency THCA flower testing 30%+ THCA. Indoor-grown, terpene-rich, and lab-tested for premium quality and bold effects.
-  Updated: 2026-05-01T11:06:05Z
-  Total Products: 5
-- [Euphoric THCA Flower | Space Rocks – Cali Steam](https://calisteam.com/collections/euphoric-thca-flower-space-rocks-collection): Browse euphoric THCA flower from Space Rocks. Lab-tested infused buds selected for uplifting effects, smooth flavor, and terpene-rich profiles.
-  Updated: 2026-05-01T11:06:05Z
+  Updated: 2026-05-08T02:14:57Z
   Total Products: 4
+- [Euphoric THCA Flower | Space Rocks – Cali Steam](https://calisteam.com/collections/euphoric-thca-flower-space-rocks-collection): Browse euphoric THCA flower from Space Rocks. Lab-tested infused buds selected for uplifting effects, smooth flavor, and terpene-rich profiles.
+  Updated: 2026-05-08T02:14:57Z
+  Total Products: 3
 - [Citrus Terpene THCA Flower | Space Rocks – Cali Steam](https://calisteam.com/collections/citrus-terpene-thca-flower-space-rocks-collection): Shop citrus terpene THCA flower from Space Rocks. Limonene-rich infused buds with bright citrus flavor, lab-tested potency, and premium quality.
-  Updated: 2026-05-01T11:06:05Z
-  Total Products: 8
+  Updated: 2026-05-08T02:14:57Z
+  Total Products: 4
 - [Festival Products](https://calisteam.com/collections/festival-products)
-  Updated: 2026-04-08T03:50:43Z
-  Total Products: 5
+  Updated: 2026-05-08T02:14:34Z
+  Total Products: 4
 - [Mushroom Gummies for Focus, Calm & Energy | Lift Off](https://calisteam.com/collections/mushroom-gummies-for-focus-calm-energy-lift-off): Shop mushroom gummies with lion’s mane, reishi, and cordyceps. Fruiting body extracts, lab tested, vegan-friendly formulas.
-  Updated: 2026-05-02T11:08:12Z
+  Updated: 2026-05-09T11:05:27Z
   Total Products: 10
 - [Mushroom Gummies | Lift Off](https://calisteam.com/collections/mushroom-gummies-lift-off): Shop Lift Off mushroom gummies and mushroom blend formulas for focus, calm, and energy. Explore functional mushroom gummies in convenient daily formats.
-  Updated: 2026-05-02T11:08:12Z
+  Updated: 2026-05-09T11:05:27Z
   Total Products: 9
 - [Vapes](https://calisteam.com/collections/-vapes): Premium  vapes. Pure oil, no additives — full-spectrum flavor and effects in every cartridge.
-  Updated: 2026-05-01T11:06:05Z
-  Total Products: 5
+  Updated: 2026-05-10T23:54:26Z
+  Total Products: 8
 - [THCP](https://calisteam.com/collections/thcp): Explore premium flower for rich inhalation, crystalline diamond concentrates for pure dabbing intensity, and convenient vapes for discreet, fast-onset sessions. Lab-tested for purity and federally compliant under 0.3% Delta-9 THC.
-  Updated: 2026-04-10T03:20:03Z
+  Updated: 2026-05-10T23:30:30Z
   Total Products: 3
 
 ## Blogs
@@ -1690,6 +1711,9 @@
   - [The Gummy That's Actually Worth the Hype](https://calisteam.com/blogs/alternative-product-news/the-gummy-thats-actually-worth-the-hype)
     Updated: 2026-04-30T02:45:00Z
     Author: Cali Steam Blogger
+  - [Functional Mushrooms for Busy Professionals: Simple Way to Incorporate Them](https://calisteam.com/blogs/alternative-product-news/functional-mushrooms-for-busy-professionals-simple-way-to-incorporate-them)
+    Updated: 2026-05-08T02:06:09Z
+    Author: Cali Steam Blogger
 
 ## Store Pages
 
@@ -1761,6 +1785,8 @@
   Updated: 2026-02-14T03:07:11Z
 - [April 2026 Event Popup](https://calisteam.com/pages/april-2026-event-popup)
   Updated: 2026-04-11T22:12:45Z
+- [Meeting Talk Track - Mr. Checkout](https://calisteam.com/pages/meeting-talk-track-mr-checkout): Mr. Checkout Meeting — Lift Off & Amaris :root { --bg: #ffffff; --surface: #f5f5f5; --surface2: #eeeeee; --border: #ddd; --gold: #7a5c1e; --gold-li...
+  Updated: 2026-05-10T01:03:42Z
 
 ## Policies
 
