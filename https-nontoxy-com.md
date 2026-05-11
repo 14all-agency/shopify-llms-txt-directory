@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-01-28T11:48:52Z
 - Contact Email: lauratoyos@gmail.com
-- Updated At: 2026-05-02T15:18:08.465Z
+- Updated At: 2026-05-11T00:00:32.877Z
 
 ## Products
 
@@ -477,8 +477,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1025/0341/6140/files/Whisk_9cf0cc067253b4f847b4b828fe92ab5adr.jpg?v=1769804256
   Price: $30.00 USD
-- [Uncoated Stainless Steel Frying Pan](https://nontoxy.com/products/304-stainless-steel-frying-pan-nonstick-pan-fried-steak-pot-uncoated-kitchen-cookware-for-gas-stove-and-induction-cooker): Cook healthier meals with this uncoated 304 stainless steel frying pan. Perfect for steaks, vegetables, and everyday cooking, this non-stick alternative offers superior performance without harmful chemical coatings. Key Features:• Made from 304 stainless steel - 100% non-toxic and uncoated• No harmful non-stick coatings or chemicals• 28cm diameter ideal for family meals• 3L capacity for versatile cooking• Suitable for gas stoves and induction cookers• Eco-friendly and sustainable choice• CIQ  for quality• Develops natural non-stick properties with proper seasoning• Professional-grade durability The Safe Alternative to Non-Stick:Unlike traditional non-stick pans with potentially harmful PTFE or PFOA coatings, this stainless steel pan is completely chemical-free. While it requires proper heat management and a small amount of oil, it delivers superior browning and never releases toxic fumes, even at high temperatures.
-  Updated: 2026-05-02T15:17:59Z
+- [Uncoated Stainless Steel Frying Pan](https://nontoxy.com/products/304-stainless-steel-frying-pan-nonstick-pan-fried-steak-pot-uncoated-kitchen-cookware-for-gas-stove-and-induction-cooker): Cook healthier meals with this uncoated 5-ply 304 stainless steel frying pan. Perfect for steaks, vegetables, and everyday cooking, this non-stick alternative offers superior performance without harmful chemical coatings. Key Features:• Made from 304 stainless steel - 100% non-toxic and uncoated • 5-ply • No harmful non-stick coatings or chemicals • 28cm diameter ideal for family meals • 3L capacity for versatile cooking • Suitable for gas stoves and induction cookers • Eco-friendly and sustainable choice • CIQ  for quality • Develops natural non-stick properties with proper seasoning • Professional-grade durability • Dishwasher safe The Safe Alternative to Non-Stick:Unlike traditional non-stick pans with potentially harmful PTFE or PFOA coatings, this stainless steel pan is completely chemical-free. While it requires proper heat management and a small amount of oil, it delivers superior browning and never releases toxic fumes, even at high temperatures.
+  Updated: 2026-05-09T14:11:32Z
   Vendor: Non toxy 
   Product Type: 
   Availability: Available
@@ -641,15 +641,37 @@
   Updated: 2026-01-31T14:02:04Z
 - [Your Privacy Choices](https://nontoxy.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-04-17T18:10:56Z
+- [GDPR Privacy Requests](https://nontoxy.com/pages/gdpr-privacy-requests): #form-gdpr-access-data-request, #form-gdpr-correct-info-request, #form-gdpr-delete-data-request { display: none; } #gdpr_page button { background-c...
+  Updated: 2026-05-05T19:20:52Z
+- [日本のプライバシー権利（APPI）](https://nontoxy.com/pages/日本のプライバシー権利-appi): #form-appi-access-data-request, #form-appi-correct-info-request, #form-appi-delete-data-request { display: none; } #appi_page button { background-c...
+  Updated: 2026-05-05T19:20:52Z
+- [Canadian Privacy Rights (PIPEDA & Quebec Law 25)](https://nontoxy.com/pages/canadian-privacy-rights-pipeda-quebec-law-25): #form-pipeda-access-data-request, #form-pipeda-correct-info-request, #form-pipeda-delete-data-request { display: none; } #pipeda_page button { back...
+  Updated: 2026-05-05T19:20:53Z
+- [US Privacy Requests](https://nontoxy.com/pages/us-privacy-requests): #form-us-access-data-request, #form-us-correct-info-request, #form-us-delete-data-request { display: none; } #us_page button { background-color: tr...
+  Updated: 2026-05-05T19:20:53Z
+- [Privacy Rights (Australia & New Zealand)](https://nontoxy.com/pages/privacy-rights-australia-new-zealand): #form-apanzpa-access-data-request, #form-apanzpa-correct-info-request, #form-apanzpa-delete-data-request { display: none; } #apanzpa_page button { ...
+  Updated: 2026-05-05T19:20:53Z
+- [PDPA Compliance](https://nontoxy.com/pages/pdpa-compliance): #form-pdpa-edit-account-request, #form-pdpa-requests-request, #form-pdpa-personal-information-request, #form-pdpa-orders-request, #form-pdpa-person...
+  Updated: 2026-05-05T19:20:53Z
+- [POPIA Compliance](https://nontoxy.com/pages/popia-compliance): #form-popia-edit-account-request, #form-popia-requests-request, #form-popia-personal-information-request, #form-popia-orders-request, #form-popia-p...
+  Updated: 2026-05-05T19:20:54Z
+- [Central de Privacidade (LGPD)](https://nontoxy.com/pages/central-de-privacidade-lgpd): #form-lgpd-access-data-request, #form-lgpd-correct-info-request, #form-lgpd-delete-data-request { display: none; } #lgpd_page button { background-c...
+  Updated: 2026-05-05T19:20:54Z
+- [Do Not  or Share My Personal Information](https://nontoxy.com/pages/do-not--or-share-my-personal-information): #donotsell_page button { position: relative; color: inherit; font-family: var(--font-body-family, inherit); font-size: var(--font-body-size, inheri...
+  Updated: 2026-05-05T19:20:54Z
+- [Personal Data Requests](https://nontoxy.com/pages/personal-data-requests): #form-row-access-data-request, #form-row-correct-info-request, #form-row-delete-data-request { display: none; } #row_page button { background-color...
+  Updated: 2026-05-05T19:20:55Z
 
 ## Policies
 
 - [Privacy Policy](https://nontoxy.com/policies/privacy-policy)
-  Updated: 2026-04-15T11:17:48-04:00
+  Updated: 2026-05-05T15:13:31-04:00
 - [Refund Policy](https://nontoxy.com/policies/refund-policy)
   Updated: 2026-04-15T11:19:49-04:00
 - [Terms of Service](https://nontoxy.com/policies/terms-of-service)
   Updated: 2026-04-15T11:22:36-04:00
+- [Contact Information](https://nontoxy.com/policies/contact-information)
+  Updated: 2026-05-05T14:39:22-04:00
 
 ## Optional
 
