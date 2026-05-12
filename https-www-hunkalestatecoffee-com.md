@@ -6,47 +6,47 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-08-01T09:50:36Z
 - Contact Email: talkcoffee@hunkalestatecoffee.com
-- Updated At: 2026-05-05T00:00:34.110Z
+- Updated At: 2026-05-12T00:00:35.796Z
 
 ## Products
 
 - [Aranya Gold Coffee Beans](https://www.hunkalestatecoffee.com/products/aranya-gold-coffee-beans): In the altitudes of the western ghats, the height of our coffee craftsmanship is Aranya Gold. This pure 100% Arabica is nurtured on the slopes that border the lush jungle and its abundant flora and vising fauna. It’s the culmination of seven generations of passion, expertise and the generosity of nature at our own Thogarihunkal Estate in Chikmagalur. Thogarihunkal Estate Sector Chandragiri Altitude 3800 ft Above Sea Level Blend Composition 100% Arabica Whole Beans Flavor Profile Aroma: An enchanting bouquet of floral and fruity, a prelude to the sensory journey that awaits.Taste: A harmonious blend of bright acidity and smooth, well-rounded flavors, each sip of Aranya Gold becomes a revelation. Notes of citrus, berries, and a gentle sweetness unpack on your palate.Finish: Clean and refreshing, with a lingering aftertaste that punctuates the coffee's complexity Roast Level Medium, to release the nuances and natural sweetness of our Arabica beans. Best Brewed In Espresso, Pour-over, French press, Drip coffee makers Value Cupper's notes "Pure, unadulterated luxury. Perfect for discerning coffee lovers who appreciate the artistry and craftsmanship of every bean."
-  Updated: 2026-05-04T16:46:07Z
+  Updated: 2026-05-11T18:32:37Z
   Vendor: Hunkal Coffee
   Product Type: Beans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0799/9812/4319/files/Aranya_Gold_Roasted_Beans_500gms_front_7de3a028-1ed7-4157-bf4e-1fb4690651ae.png?v=1755073924
   Price: ₹630.00 INR
 - [Tiger Reserve Coffee Beans](https://www.hunkalestatecoffee.com/products/tiger-reserve-coffee-beans): The untamed spirit of Chikmagalur is infused in Tiger Reserve Coffee, a premium blend of Arabica and Robusta beans, cultivated for seven generations at our Thogarihunkal Estate. Grown in a sector where tigers roam freely, this coffee is ripened by roars. It’s robust and rich flavour is more than just coffee - it’s an experience of our land and our deep respect for our unique ecosystem. Thogarihunkal Estate Sector Chandragiri & S274 Altitude 3500 TO 3800 ft Above Sea Level Blend Composition 80% Arabica Whole Beans20% Robusta Whole Beans Flavor Profile Aroma: Invigorating and earthy, with subtle notes of nuts and cocoa that reflect the wild beauty of the estate.Taste: A harmonious balance of mild acidity with hints of caramel and dark chocolate. A blend of the smoothness of Arabica with the depth and intensity of Robusta.Finish: Smooth and lingering, with a satisfying aftertaste Roast Level Medium, to accentuate the natural characteristics of both Arabica and Robusta beans Best Brewed In Espresso, Pour-over, French press, Drip coffee makers Value Cupper's notes "Each sip is a journey into the heart of our estate, reflecting the dedication and passion that nurtures every bean. For coffee enthusiasts seeking a rich, authentic taste that's striking."
-  Updated: 2026-05-04T14:27:07Z
+  Updated: 2026-05-11T17:05:47Z
   Vendor: Hunkal Coffee
   Product Type: Beans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0799/9812/4319/files/Tiger_Reserve_Roasted_Beans_500gms_front.png?v=1754977277
   Price: ₹580.00 INR
 - [Aranya Gold - Pure Ground Coffee (Prev. All Day Brew)](https://www.hunkalestatecoffee.com/products/aranya-gold-pure-ground-coffee): Start your day and keep it going with Aranya Gold, a 100% Arabica ground coffee , perfect for your daily coffee ritual. Grown and harvested at our exclusive Thogarihunkal Estate in Chikkamagalur, this estate coffee delivers a smooth, balanced, and refined experience, any time of day. Thogarihunkal Estate Sector Chandragiri Altitude 3800 ft Above Sea Level Blend Composition 100% Arabica Flavor Profile A bright but mild acidity, which contributes to a clean, crisp taste. With floral undertones along with hints of fruit, adding complexity to the flavor. Roast Level Medium, providing a balanced mouthfeel that’s neither too heavy nor too light. Best Brewed In South India Filter Set, Boiled water decoction, Stove top, Espresso, Pourover, Drip coffee makers Value
-  Updated: 2026-05-04T17:31:57Z
+  Updated: 2026-05-11T13:52:22Z
   Vendor: Hunkal Coffee
   Product Type: Ground Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0799/9812/4319/files/Aranya_Gold_Ground_Coffee_250gms_front.png?v=1755023380
   Price: ₹315.00 INR
 - [Tiger Reserve - Pure ground coffee (Prev. Morning Brew)](https://www.hunkalestatecoffee.com/products/tiger-reserve-pure-ground-coffee): Kickstart your mornings with Tiger Reserve ground coffee, a special blend of 80% Arabica and 20% Robusta from our exclusive Thogarihunkal Estate in Chikkamagalur. Grown and harvested in the sector that's frequented by Tigers, Estate Coffee delivers a vibrant and energizing experience, for a roaring morning routine. Thogarihunkal Estate Sector Chandragiri & S274 Altitude 3500 TO 3800 ft Above Sea Level Blend Composition 80% Arabica 20% Robusta Flavor Profile Well-balanced blend with mild acidity and deep, rich flavors. Roast Level Medium, to highlight the natural characteristics and balanced flavors of the Arabica and Robusta Best Brewed In South India Filter Set, Boiled water decoction, Stove top, Espresso, Pourover, Drip coffee makers Value
-  Updated: 2026-05-04T15:47:17Z
+  Updated: 2026-05-11T12:07:17Z
   Vendor: Hunkal Coffee
   Product Type: Ground Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0799/9812/4319/files/Tiger_Reserve_Ground_Coffee_250gms_front.png?v=1755028342
   Price: ₹290.00 INR
 - [French Press Coffee](https://www.hunkalestatecoffee.com/products/french-press-coffee): This 100% Arabica ground coffee is specially crafted for the French press from the finest beans in the forested slopes at our Thogarihunkal Estate. Hunkal Estate Coffee. Grown, harvested, processed and ground for over seven generations in the original coffee district of India, the rich full-bodied brew is a flavour of its origin. Thogarihunkal Estate Sector Chandragiri Altitude 3800FT ASL Blend Composition 100% Arabica Grind size: Coarsely ground Flavor Profile Perfect for French Press:Coarsely ground to ensure optimal extraction and flavor development in your French Press. Clean and refreshing flavour, with a lingering aftertaste that highlights the coffee's complexity and elegance. Roast Level Medium, to accentuate the natural characteristics of the Arabica beans. Best Brewed In Coarsely ground coffee for French Press Value Cupper's notes "A smooth, aromatic profile with complex flavors. A superior coffee experience."
-  Updated: 2026-05-04T15:47:17Z
+  Updated: 2026-05-11T13:52:18Z
   Vendor: Hunkal Coffee
   Product Type: Ground Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0799/9812/4319/files/1_2f81de09-ca29-4686-97d0-4a81d8914992.png?v=1737435736
   Price: ₹315.00 INR
 - [Filter Coffee Rich](https://www.hunkalestatecoffee.com/products/filter-coffee-rich): The luxurious taste of Hunkal Estate Coffee's RICH is an indulgence. An exquisite blend of 80% coffee and 20% chicory, this exceptional ground coffee is crafted with precision at our own Thogarihunkal Estate combining the finest high-altitude beans with the rich character of chicory for a decadent coffee experience. Blend Composition 80% Coffee 20% Chicory Flavor Profile Smooth and lingering, with a rich aftertaste that leaves a lasting impression. Roast Level Medium-dark, to bring out the full depth and richness of the coffee and chicory Best Brewed In South Indian Filter Set, Boiled water decoction, Stove top Value
-  Updated: 2026-05-04T16:37:27Z
+  Updated: 2026-05-11T03:47:37Z
   Vendor: Hunkal Coffee
   Product Type: Ground Coffee
   Availability: Available
@@ -60,7 +60,7 @@
     Image: https://cdn.shopify.com/s/files/1/0799/9812/4319/files/1_09a37130-a1d6-4735-9dc5-2a4f00f632a1.png?v=1749019249
     Price: ₹455.00 INR
 - [Filter Coffee Strong](https://www.hunkalestatecoffee.com/products/filter-coffee-strong): Feel the embrace of intense flavors of Hunkal Estate Coffee's STRONG, a masterful blend of 70% coffee and 30% chicory. Meticulously crafted at our own Thogarihunkal Estate in Chikmagalur, this filter coffee powder combines the rich, high-altitude beans with the robust character of chicory. The flavour is strong and satisfying. Blend Composition 70% Coffee 30% Chicory Flavor Profile Strong and lingering, with a satisfying aftertaste Roast Level Dark, to bring out the full depth and intensity of the coffee and chicory blend. Best Brewed In South India Filter Set, Boiled water decoction, Stove top Value
-  Updated: 2026-05-03T10:30:28Z
+  Updated: 2026-05-09T16:22:27Z
   Vendor: Hunkal Coffee
   Product Type: Ground Coffee
   Availability: Available
@@ -74,7 +74,7 @@
     Image: https://cdn.shopify.com/s/files/1/0799/9812/4319/files/1_af9a8a59-5dd0-4e40-aca3-4b4787bf2d14.png?v=1749019784
     Price: ₹435.00 INR
 - [Filter Coffee Bold](https://www.hunkalestatecoffee.com/products/filter-coffee-bold): Robust flavors are unleashed, with a distinctive blend of 65% coffee and 35% chicory of Hunkal Estate Coffee's BOLD Filter Coffee Powder. Crafted with care at our very own Thogarihunkal Estate in Chikmagalur, this ground coffee combines the rich essence of altitude-grown beans with the bold character of chicory. Every sip is a powerful and invigorating experience. Blend Composition 65% Coffee 35% Chicory Flavor Profile Bold and full-bodied blend with a perfect balance of rich coffee flavors and the earthy, slightly bitter notes of chicory. Roast Level Dark, to bring out the full depth and intensity of the coffee and chicory blend. Best Brewed In South India Filter Set, Boiled water decoction, Stove top Value
-  Updated: 2026-05-02T12:16:47Z
+  Updated: 2026-05-08T06:28:47Z
   Vendor: Hunkal Coffee
   Product Type: Ground Coffee
   Availability: Available
@@ -88,7 +88,7 @@
     Image: https://cdn.shopify.com/s/files/1/0799/9812/4319/files/1_26ac2b36-ea7e-4cf4-ba69-caa9798fa489.png?v=1737433539
     Price: ₹415.00 INR
 - [Filter Coffee Mild](https://www.hunkalestatecoffee.com/products/filter-coffee-mild): If there is a perfect balance of altitude and attitude it's Hunkal Estate Coffee's MILD, a unique blend of 90% coffee and 10% chicory. This exceptional ground coffee, crafted at our exclusive Thogarihunkal Estate in Chikmagalur, offers a subtle and flavorful experience that is is a delight to the senses. Blend Composition 90% Coffee 10% Chicory Flavor Profile Delicate and inviting Roast Level Medium, to highlight the natural characteristics of both coffee and chicory. Best Brewed In South India Filter Set, Boiled water decoction, Stove top Value
-  Updated: 2026-05-03T10:18:17Z
+  Updated: 2026-05-10T15:42:17Z
   Vendor: Hunkal Coffee
   Product Type: Ground Coffee
   Availability: Available
@@ -102,7 +102,7 @@
     Image: https://cdn.shopify.com/s/files/1/0799/9812/4319/files/1_955c211f-221c-48d6-bf3b-c390e9cc7cc8.png?v=1737434679
     Price: ₹475.00 INR
 - [Filter Coffee Dark](https://www.hunkalestatecoffee.com/products/filter-coffee-dark): Introducing Hunkal Estate Coffee's DARK, an intense filter coffee blend crafted for those who crave the quintessential strength of South Indian filter coffee. This 60% single-estate coffee and 40% chicory, grown, harvested, and ground at Thogarihunkal Estate in Chikmagalur, delivers a full-bodied cup of filter coffee with an extra punch. Blend Composition 60% Coffee 40% Chicory Flavor Profile Bold, full-bodied enhanced by the chicory's earthy, slightly bitter undertones. A smooth and intense cup with a lingering finish. Roast Level Dark & deep, enhancing the coffee’s inherent strength and richness Best Brewed In South India Filter Set, Boiled water decoction, Stove top Value
-  Updated: 2026-05-01T05:44:07Z
+  Updated: 2026-05-09T07:23:36Z
   Vendor: Hunkal Coffee
   Product Type: Ground Coffee
   Availability: Available
@@ -123,7 +123,7 @@
   Image: https://cdn.shopify.com/s/files/1/0799/9812/4319/files/Gift_Card_1080x1440_crop_center_1b7bf5f0-71e9-4c63-abe5-963e54ba866f.webp?v=1728320849
   Price: ₹500.00 INR
 - [Authentic South Indian Brass Davara Set](https://www.hunkalestatecoffee.com/products/authentic-south-indian-brass-davara-set): A traditional companion to filter coffee that reflects the heritage of South India’s finest coffee culture. Perfect for coffee mixing and cooling, the davara set not only maintains the temperature but also enhances the flavor, making each sip an indulgent experience. Whether you’re sipping on Estate Filter Coffee at home or gifting a coffee lover, this set adds a touch of timeless tradition. The warm golden hue of the brass ages beautifully over time, giving it a unique patina, reflecting authentic craftsmanship. Features: Material: 100% Brass (Food-safe) Usage: Ideal for serving South Indian Filter Coffee Hunkal Estate Coffee Recommends The davara set has been traditionally used by us to pour and aerate filter coffee, amplifying the flavors and aroma. Pair it with our South Indian Filter Coffee to enjoy an authentic experience at home.
-  Updated: 2026-04-26T05:23:56Z
+  Updated: 2026-05-07T07:42:21Z
   Vendor: Hunkal Estate Coffee
   Product Type: Davara Set
   Availability: Available
@@ -173,22 +173,22 @@
 ## Collections
 
 - [Coffee Beans](https://www.hunkalestatecoffee.com/collections/coffee-beans)
-  Updated: 2026-05-04T11:18:47Z
+  Updated: 2026-05-11T11:20:19Z
   Total Products: 3
 - [Ground Coffee](https://www.hunkalestatecoffee.com/collections/ground-coffee)
-  Updated: 2026-05-04T11:18:47Z
+  Updated: 2026-05-11T11:20:19Z
   Total Products: 11
 - [All Products](https://www.hunkalestatecoffee.com/collections/all)
-  Updated: 2026-05-04T11:18:47Z
+  Updated: 2026-05-11T11:20:19Z
   Total Products: 12
 - [Spices](https://www.hunkalestatecoffee.com/collections/spices)
   Updated: 2025-08-24T00:27:40Z
   Total Products: 0
 - [Our Products](https://www.hunkalestatecoffee.com/collections/our-products)
-  Updated: 2026-05-04T11:18:47Z
+  Updated: 2026-05-11T11:20:19Z
   Total Products: 11
 - [Featured Products](https://www.hunkalestatecoffee.com/collections/featured-products)
-  Updated: 2026-05-04T11:18:47Z
+  Updated: 2026-05-11T11:20:19Z
   Total Products: 5
 - [Brew To Go](https://www.hunkalestatecoffee.com/collections/brew-to-go): Brew To GoBrew To Go - GoldBrew To Go - AssortedBrew To Go - HoneyBrew To Go - Tiger
   Updated: 2025-08-24T00:27:40Z
@@ -203,7 +203,7 @@ Give him something that warms his hands. And his heart.
   Updated: 2026-04-24T11:21:45Z
   Total Products: 2
 - [Curated Coffee Combo Packs](https://www.hunkalestatecoffee.com/collections/curated-coffee-combo-packs)
-  Updated: 2026-04-22T10:25:51Z
+  Updated: 2026-05-06T22:04:19Z
   Total Products: 3
 
 ## Store Pages
