@@ -6,7 +6,7 @@
 - Timezone: America/Denver
 - Created At: 2024-02-21T11:48:38Z
 - Contact Email: support@kidsely.com
-- Updated At: 2026-05-03T14:17:54.611Z
+- Updated At: 2026-05-12T00:00:30.532Z
 
 ## Products
 
@@ -129,7 +129,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/imgi_75_H5780d1fa7d414991860c86e26bc00eccv.jpg?v=1765447290
     Price: $29.99 USD
 - [Knit Baby Overalls with Wooden Buttons - Vintage Style Romper (6-18M)](https://kidsely.com/products/knit-overalls): A cute and comfortable outfit set designed for 6-18 month olds. This sleeveless knit romper comes with a matching hat, offering a soft, breathable feel and a stylish neutral look—perfect for everyday wear or special moments. Key Points: Soft knit fabric, gentle on baby’s skin Sleeveless design for all-day comfort Neutral colors, suitable for both boys and girls Includes matching hat for a complete look Easy strap style for quick dressing Ideal for newborns, infants, and toddlers
-  Updated: 2026-04-30T04:06:56Z
+  Updated: 2026-05-10T04:04:56Z
   Vendor: kidsely
   Product Type: Baby Overalls
   Availability: Available
@@ -345,7 +345,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Hc733b437c0784c48893c76193a51511b9_62a447e9-e6a1-410f-b07d-783fe9af39f3.webp?v=1767472947
     Price: $59.99 USD
 - [Heirloom Knit Cotton Baby Blanket | Embroidered Bear & Lace Border](https://kidsely.com/products/heirloom-vintage-leaf-knit-baby-blanket): Elevate your nursery with our Heirloom Leaf Knit Blanket. Soft 100% cotton, breathable warmth, and timeless vine design. The perfect gift for newborns.
-  Updated: 2026-04-28T14:30:59Z
+  Updated: 2026-05-09T04:03:06Z
   Vendor: kidsely
   Product Type: Baby Blankets
   Availability: Available
@@ -359,7 +359,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/heirloom-vintage-leaf-knit-baby-blanket-blue.avif?v=1768010894
     Price: $36.99 USD
   - [Oatmeal](https://kidsely.com/products/heirloom-vintage-leaf-knit-baby-blanket?variant=51702839738687)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/heirloom-vintage-leaf-knit-baby-blanket-oatmeal.avif?v=1768010990
     Price: $36.99 USD
   - [Pink](https://kidsely.com/products/heirloom-vintage-leaf-knit-baby-blanket?variant=51702839771455)
@@ -375,7 +375,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/heirloom-vintage-leaf-knit-baby-blanket-green.avif?v=1768010934
     Price: $36.99 USD
 - [Soft Knit Baby Blanket with Scalloped Edge](https://kidsely.com/products/wrap-crib-soft-quilt-toddler): This newborn baby bedding blanket is made from soft knit cotton to keep your little one warm and comfortable. Designed for both baby boys and girls, it’s perfect for swaddling, stroller use, or cozy sleep at home. The classic solid design adds a cute, timeless look while being gentle on delicate skin. Key Points: Soft, breathable cotton Comfortable and safe for newborns & toddlers Ideal for swaddling, stroller, crib, or nap time Suitable for baby boys and girls Beautiful, modern colors Perfect everyday use Lightweight, warm, and easy to carry
-  Updated: 2026-04-30T04:07:16Z
+  Updated: 2026-05-09T04:03:12Z
   Vendor: kidsely
   Product Type: Baby Blankets
   Availability: Available
@@ -397,7 +397,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S1d741b581e0b494aba3077d375f3e9b4X.avif?v=1765880869
     Price: $49.99 USD
 - [Heirloom Bear Baby Blanket - 100% Cotton Knit & Lace Border](https://kidsely.com/products/heirloom-bear-baby-blanket-cotton-knit): Shop our heirloom 100% cotton knit baby blanket with a cute embroidered bear and lace border. The perfect newborn keepsake or christening gift. Breathable and soft.
-  Updated: 2026-04-28T14:30:58Z
+  Updated: 2026-05-10T17:31:32Z
   Vendor: kidsely
   Product Type: Baby Blankets
   Availability: Available
@@ -407,7 +407,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/heirloom-bear-baby-blanket-cotton-knit-dusty-purple.avif?v=1768164003
     Price: $48.99 USD
   - [White](https://kidsely.com/products/heirloom-bear-baby-blanket-cotton-knit?variant=51705568362815)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/heirloom-bear-baby-blanket-cotton-knit-white.avif?v=1768164785
     Price: $48.99 USD
   - [Dusty Rose](https://kidsely.com/products/heirloom-bear-baby-blanket-cotton-knit?variant=51705568395583)
@@ -435,7 +435,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/heirloom-bear-baby-blanket-cotton-knit-cream.png?v=1768164785
     Price: $48.99 USD
 - [Cotton Knit Baby Blanket - Breathable Goose Design Quilt](https://kidsely.com/products/cotton-knit-goose-baby-blanket-crib-quilt): Shop our breathable 100% cotton knit baby blanket. Featuring a cute goose design, this 90x70cm blanket is perfect for cribs, strollers, and sensitive newborn skin.
-  Updated: 2026-04-30T04:07:07Z
+  Updated: 2026-05-11T16:36:26Z
   Vendor: kidsely
   Product Type: Baby Blankets
   Availability: Available
@@ -1159,7 +1159,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/quilted-cotton-baby-romper-blue-bear-jumpsuit.webp?v=1767975280
     Price: $48.99 USD
 - [Teddy Bear Kimono Romper & Hat Set | Newborn Side-Snap Outfit](https://kidsely.com/products/teddy-bear-kimono-romper-hat-set): Adorable 2-piece baby kimono romper with matching teddy bear hat. Easy side-snap design in soft, durable polyester. Sizes 0-6M in Purple, Sage, Blue & Grey.
-  Updated: 2026-04-28T14:30:58Z
+  Updated: 2026-05-08T04:04:27Z
   Vendor: kidsely
   Product Type: Baby Sleepsuit
   Availability: Available
@@ -1201,7 +1201,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/teddy-bear-kimono-romper-hat-set-navy.jpg?v=1767991050
     Price: $36.99 USD
   - [Grey / 0-1M](https://kidsely.com/products/teddy-bear-kimono-romper-hat-set?variant=51701793390911)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Untitleddesign-2025-09-12T171558.931.jpg?v=1767990856
     Price: $36.99 USD
   - [Grey / 1-3M](https://kidsely.com/products/teddy-bear-kimono-romper-hat-set?variant=51701793227071)
@@ -1225,7 +1225,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/teddy-bear-kimono-romper-hat-set-sage-green.jpg?v=1767991103
     Price: $36.99 USD
 - [Ribbed Cotton Kimono Baby Romper & Hat Set | Newborn Bear Outfit](https://kidsely.com/products/ribbed-cotton-kimono-romper-hat-set): Wrap your little one in our soft Ribbed Cotton Kimono Romper & Hat Set. Features easy side-ties, breathable fabric, and a cute bear patch. Shop sizes 0-6M.
-  Updated: 2026-05-03T02:47:07Z
+  Updated: 2026-05-09T02:39:51Z
   Vendor: kidsely
   Product Type: Baby Sleepsuit
   Availability: Available
@@ -1339,7 +1339,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/imgi_27_Af284d1dfde41463db5bc8a1dbcdf4472D_jpg_220x220q75_jpg.jpg?v=1765446583
     Price: $44.90 USD
 - [360° Spin Bowl](https://kidsely.com/products/360-spin-bowl): Universal Gyro Bowl – 360° Rotary Spill-Proof Feeding & Balance Toy - Keep mealtime fun and mess-free! This innovative gyro bowl rotates 360° to prevent spills, making it perfect for toddlers and young children learning to eat independently. Beyond feeding, it doubles as a playful balance and coordination trainer, engaging your child’s motor skills. Key Features: 360° Rotating Design: Spins freely to reduce spills and messes. Spill-Proof Feeding: Ideal for toddlers learning self-feeding. Durable & Safe: Made with child-friendly, BPA-free materials. Balance & Motor Skill Training: Encourages coordination and dexterity. Easy to Clean: Smooth surface for quick washing.
-  Updated: 2026-05-03T03:27:47Z
+  Updated: 2026-05-11T04:01:25Z
   Vendor: kidsely
   Product Type: Baby Feeding Bowls
   Availability: Available
@@ -1401,7 +1401,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S2a680a8c8b7942c6b42d19bc2079f088P.webp?v=1756477428
     Price: $19.99 USD
 - [Tiny Nails Kit](https://kidsely.com/products/tiny-nails-kit): Tiny Nails Kit - Keep your little one’s nails neat and safe with this all-in-one baby manicure set. Key Features: Kid-Safe Design: Rounded edges on scissors and clippers prevent accidental cuts. Complete Care Set: Includes nail scissors, clippers, trimmer, file, and tweezers. Portable & Organized: Comes with a compact storage box for travel and home use. Easy & Comfortable: Ergonomic handles for gentle, precise nail care. Durable & Hygienic: High-quality materials ensure long-lasting use and easy cleaning.
-  Updated: 2026-04-30T04:07:26Z
+  Updated: 2026-05-11T04:01:16Z
   Vendor: kidsely
   Product Type: Baby Grooming Accessories
   Availability: Available
@@ -1468,7 +1468,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S9b2c3bc168d94aafa7d0853b04b0a26ds.webp?v=1756893795
     Price: $55.87 USD
 - [Gentle Nail Care](https://kidsely.com/products/gentle-nail-care): Gentle Nail Care - Keep your little one’s nails neat and safe with this Baby Care Multifunctional Electric Nail Trimmer Set. Designed especially for newborns and toddlers, it trims nails gently without sharp edges. Key Features: Safe and gentle trimming without hurting soft skin Multiple grinding heads for different ages Low noise motor – can be used even while baby sleeps Compact, lightweight, and easy to carry Perfect for fingernails and toenails.
-  Updated: 2026-04-28T04:11:16Z
+  Updated: 2026-05-10T04:05:21Z
   Vendor: kidsely
   Product Type: Baby Grooming Accessories
   Availability: Available
@@ -1482,7 +1482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Untitleddesign-2025-09-06T145424.863.jpg?v=1757151349
     Price: $36.98 USD
 - [Shower Cap Shield](https://kidsely.com/products/shower-cap-shield): Shower Cap Shield - Make bath time safe and fun with this Children’s Shower Shampoo Hat. Designed for comfort and protection, it keeps water, soap, and shampoo away from your child’s eyes and ears. Soft & Adjustable – Fits comfortably on different head sizes. Waterproof Design – Prevents water from dripping into eyes and ears. Safe Protection – Protects sensitive skin during hair washing. Lightweight & Comfortable – Easy for kids to wear without irritation. Fun & Practical – Turns bath time into an enjoyable experience. Perfect for babies and kids, this shampoo hat ensures a tear-free hair wash every time.
-  Updated: 2026-05-03T04:06:57Z
+  Updated: 2026-05-11T04:01:25Z
   Vendor: kidsely
   Product Type: Bath Accessories
   Availability: Available
@@ -1514,7 +1514,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sc8412864d2504ce7bafcdb152bbf7800P.webp?v=1757149738
     Price: $28.99 USD
 - [Baby Bath Cushion](https://kidsely.com/products/baby-bath-cushion): Baby Bath Cushion - Ensure safe and comfortable bath time for your newborn with this adjustable bath tub shower cushion. Designed for support and relaxation, it makes bathing easier for both babies and parents. Key Features: Adjustable & Supportive: Provides gentle support for newborns during bath time. Floating & Soft: Keeps your baby safe while floating comfortably in water. Portable & Foldable: Easy to carry and store, perfect for travel. Durable & Safe: Made with baby-friendly, water-resistant materials. Easy to Clean: Quick-dry design for hassle-free maintenance. This bath seat pad makes bath time safer, fun, and stress-free for your little one.
-  Updated: 2026-04-29T04:07:46Z
+  Updated: 2026-05-10T04:05:21Z
   Vendor: kidsely
   Product Type: Bath Accessories
   Availability: Available
@@ -1619,7 +1619,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/silicone-mini-training-cup-straw-yellow-cloud.webp?v=1767922311
     Price: $19.99 USD
 - [First Stage Silicone Bowl & Utensil Kit | Suction Bowl Set](https://kidsely.com/products/first-stage-silicone-bowl-utensil-kit): Compact 3-piece feeding set for beginners. Includes a small suction bowl and soft silicone fork and spoon. BPA-free and travel-friendly.
-  Updated: 2026-04-28T14:30:58Z
+  Updated: 2026-05-08T04:04:36Z
   Vendor: kidsely
   Product Type: Baby Feeding Sets
   Availability: Available
@@ -1762,7 +1762,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/H9c80dc12852541828fb83c78c0a68435H_620c1300-1059-4789-8f0c-7edf9e52b8c1.webp?v=1767998879
     Price: $13.99 USD
 - [Plush High-Cuff Knit Baby Booties |Soft Sole (0-12M)](https://kidsely.com/products/high-cuff-knit-bootie): Keep tiny toes toasty warm with our Plush High-Cuff Knit Baby Booties. Designed for infants aged 0–12 months.  Shop now!
-  Updated: 2026-05-01T04:13:26Z
+  Updated: 2026-05-11T16:46:01Z
   Vendor: kidsely
   Product Type: Baby Booties
   Availability: Available
@@ -1832,7 +1832,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S5a8bdbe2b1c54c489acf37a0944415bf7.webp?v=1767795864
     Price: $28.99 USD
 - [Sneaker Style Knit Baby Booties | Soft Sole (0-12M)](https://kidsely.com/products/sneaker-style-knit-booties): Give baby a sporty look with these sneaker-style knit booties. Featuring adjustable laces and soft anti-slip soles. Fits 0-12M. Shop now!
-  Updated: 2026-04-28T15:24:42Z
+  Updated: 2026-05-11T16:46:01Z
   Vendor: kidsely
   Product Type: Baby Booties
   Availability: Available
@@ -1886,7 +1886,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sde3d1cad8ac140ffbe12f36c101d9de32.webp?v=1767795811
     Price: $29.99 USD
 - [Soft-Knit Ruffled Baby Booties | Soft Sole (0-12M)](https://kidsely.com/products/ruffled-knit-baby-booties): Add a touch of sweetness to every outfit with our Soft-Knit Ruffled Baby Booties. Designed for infants aged 0–12 months.  Shop now!
-  Updated: 2026-04-28T14:30:58Z
+  Updated: 2026-05-11T16:46:01Z
   Vendor: kidsely
   Product Type: Baby Booties
   Availability: Available
@@ -1956,7 +1956,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sea116785796d4fbaa322c64f574236a50_5c5efd4e-553e-43f6-a139-2d34a7bad341.webp?v=1767795733
     Price: $24.99 USD
 - [Ribbon-Tie Knit Baby Booties | Soft Sole (0-12M)](https://kidsely.com/products/ribbon-tie-knit-booties): Combine the coziness of a favorite sock with the structure of a shoe in our Ribbon-Tie Knit Baby Booties. Designed for infants aged 0–12 months.  Shop now!
-  Updated: 2026-04-28T14:30:58Z
+  Updated: 2026-05-11T16:46:02Z
   Vendor: kidsely
   Product Type: Baby Booties
   Availability: Available
@@ -2074,7 +2074,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Se26346857f314c5c93d719f95f9c34f1x_0cd8b9df-4423-4174-bf66-1bddcb2e5f84.webp?v=1767795686
     Price: $31.99 USD
 - [Soft-Knit Solid Ruffled Baby Booties | Soft Sole (0-12M)](https://kidsely.com/products/solid-ruffled-knit-booties): Wrap your little one’s feet in timeless elegance with our Soft-Knit Solid Ruffled Knit Baby Booties. Designed for infants aged 0–12 months.  Shop now!
-  Updated: 2026-05-01T04:13:17Z
+  Updated: 2026-05-11T16:46:02Z
   Vendor: kidsely
   Product Type: Baby Booties
   Availability: Available
@@ -2144,7 +2144,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S971f4d073f354926a9e3d05a6e7e830aR_c735762a-08cc-4f6b-9904-61761c467b4a.webp?v=1767795636
     Price: $29.99 USD
 - [Textured Rib Knit Baby Booties | Soft Sole (0-12M)](https://kidsely.com/products/ribbed-knit-baby-booties): Add a timeless staple to your baby's wardrobe with our Textured Rib Knit Baby Booties. Designed for infants aged 0–12 months.  Shop now!
-  Updated: 2026-05-01T04:13:20Z
+  Updated: 2026-05-08T13:37:54Z
   Vendor: kidsely
   Product Type: Baby Booties
   Availability: Available
@@ -2294,7 +2294,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S67068a13afc9490b8cac40fb952c3015w_4e0b548e-3d3d-42cb-a321-f468d4e3196b.webp?v=1767795577
     Price: $32.99 USD
 - [Artisan Style Tie-Front Knit Baby Booties |Soft Sole (0-12M)](https://kidsely.com/products/tie-front-knit-baby-booties): Keep your little one’s feet snug and secure with our Artisan Style Tie-Front Knit Baby Booties. Designed for infants aged 0–12 months.  Shop now!
-  Updated: 2026-04-24T04:06:51Z
+  Updated: 2026-05-11T16:46:02Z
   Vendor: kidsely
   Product Type: Baby Booties
   Availability: Available
@@ -2396,7 +2396,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S220707908fa74af3bde206d327d30edaG_c111733f-1ac0-44ad-8af9-234786392d55.webp?v=1767795525
     Price: $32.99 USD
 - [Boutique Style Cuffed Knit Baby Booties | Soft Sole (0-12M)](https://kidsely.com/products/boutique-style-knit-baby-booties): Keep little feet warm with these boutique knit booties. Featuring a cozy cuff and safe anti-slip sole. Soft, breathable, and perfect for 0-12 months. Shop now!
-  Updated: 2026-04-30T13:59:47Z
+  Updated: 2026-05-11T16:46:02Z
   Vendor: kidsely
   Product Type: Baby Booties
   Availability: Available
@@ -2458,7 +2458,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Saead57366a6d4b03a759cb56ac65ad5er.webp?v=1767795432
     Price: $34.99 USD
   - [Coffee / 6-9M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512374079)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Saead57366a6d4b03a759cb56ac65ad5er.webp?v=1767795432
     Price: $34.99 USD
   - [Coffee / 9-12M](https://kidsely.com/products/boutique-style-knit-baby-booties?variant=51694512275775)
@@ -2530,7 +2530,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sb5f9e02448334a66932ef6509b42a335c.webp?v=1767795432
     Price: $34.99 USD
 - [Chunky Knit Lace-Up Knit Baby Booties (0-12M)| Soft Sole (0-12M)](https://kidsely.com/products/lace-up-knit-baby-booties): Keep your little one’s feet snug and secure with our Chunky Knit Lace-Up Knit Baby Booties. Designed for infants aged 0–12 months.  Shop now!
-  Updated: 2026-05-03T04:07:14Z
+  Updated: 2026-05-11T16:46:03Z
   Vendor: kidsely
   Product Type: Baby Booties
   Availability: Available
@@ -2648,7 +2648,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S57ae1038433f4974b4c22dff372833f6f_ffe3ff45-531f-4880-bff1-761f44e3e53c.webp?v=1767795346
     Price: $28.99 USD
 - [Vintage-Inspired Moccasin Knit Baby Booties | Soft Sole (0-12M)](https://kidsely.com/products/moccasin-knit-baby-booties): Add boho style with these vintage-inspired moccasin knit booties. Featuring secure ankle ties and safe anti-slip soles. Perfect for 0-12M. Shop now!
-  Updated: 2026-05-03T04:07:08Z
+  Updated: 2026-05-11T16:46:03Z
   Vendor: kidsely
   Product Type: Baby Booties
   Availability: Available
@@ -2702,13 +2702,13 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S70a7b16969d14ad0abb966fe7932e68cn_5462499b-0d57-45b5-9ad1-7a20eb48e553.webp?v=1767795163
     Price: $31.99 USD
 - [SoftStride Knit Walkers](https://kidsely.com/products/softstride-knit-walkers): SoftStride Knit Walkers - Keep your little one’s feet warm, comfortable, and stylish with these soft-bottom knitted baby shoes. Perfect for newborns and toddlers learning to walk, these boots are gentle, flexible, and safe for early steps. Key Features: Soft Knitted Material: Gentle and breathable for delicate baby feet. Non-Slip Soft Sole: Ensures safety while learning to walk. Unisex Design: Suitable for both boys and girls. Lightweight & Flexible: Comfortable for all-day wear. Easy to Wear: Stretchable design for quick on and off. Solid Color Style: Simple yet stylish for any outfit. Age Range 0-18m: Perfect for infants and toddlers.
-  Updated: 2026-05-03T04:07:01Z
+  Updated: 2026-05-11T16:46:03Z
   Vendor: kidsely
   Product Type: Baby Booties
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Untitleddesign-2025-09-13T175618.816.jpg?v=1757766479
   - [82W2294 / 12](https://kidsely.com/products/softstride-knit-walkers?variant=51381686436159)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Se9c7449b788140c9a00977362b4a77e1A.webp?v=1757766479
     Price: $32.48 USD
   - [82W2294 / 10](https://kidsely.com/products/softstride-knit-walkers?variant=51381686468927)
@@ -2720,7 +2720,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Se9c7449b788140c9a00977362b4a77e1A.webp?v=1757766479
     Price: $32.38 USD
   - [82W2294 1 / 12](https://kidsely.com/products/softstride-knit-walkers?variant=51381686534463)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Seb41848bd5ad48da8b4431e974f14a4dg.webp?v=1757766479
     Price: $32.48 USD
   - [82W2294 / 9](https://kidsely.com/products/softstride-knit-walkers?variant=51381686567231)
@@ -2752,7 +2752,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S98ae11744158457791c96e4ada08e5bd4.webp?v=1757766479
     Price: $32.38 USD
   - [82W2294 3 / 12](https://kidsely.com/products/softstride-knit-walkers?variant=51381686796607)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S51fb514e42fd4825b9480d1a5c92ec89W.webp?v=1757766479
     Price: $32.48 USD
   - [82W2294 2 / 9](https://kidsely.com/products/softstride-knit-walkers?variant=51381686829375)
@@ -2772,7 +2772,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S51fb514e42fd4825b9480d1a5c92ec89W.webp?v=1757766479
     Price: $32.18 USD
 - [Hand-Knit Baby Shoes](https://kidsely.com/products/hand-knit-baby-shoes): Hand-Knit Baby Shoes - Keep your little one cozy and safe with these soft, hand-knitted socks shoes, perfect for newborns and toddlers learning to walk. Lightweight, breathable, and comfortable, they are ideal for first steps at home or outdoors. Key Features: Hand-knitted with soft, breathable yarn Anti-slip sole for safe first steps Lightweight and flexible for comfort Ideal for newborns and 0-1Y toddlers Cute solid color design Soft-soled for gentle foot support Perfect for indoor and outdoor use
-  Updated: 2026-04-14T04:04:19Z
+  Updated: 2026-05-11T16:46:03Z
   Vendor: kidsely
   Product Type: Baby Booties
   Availability: Available
@@ -2890,7 +2890,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S13ae6c409def4330b41145fe9c0795667.webp?v=1757762984
     Price: $29.98 USD
 - [Heirloom Button Strap Knit Baby Booties | Soft Sole (0-12M)](https://kidsely.com/products/button-strap-knit-booties): Give baby a vintage look with these heirloom button strap knit booties. Featuring a secure strap, wooden button, and safe anti-slip sole. Fits 0-12M. Shop now!
-  Updated: 2026-04-29T20:10:36Z
+  Updated: 2026-05-11T16:46:04Z
   Vendor: kidsely
   Product Type: Baby Booties
   Availability: Available
@@ -3128,7 +3128,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/silicone-bear-suction-bowl-set-teal.webp?v=1767925943
     Price: $39.99 USD
 - [100% Cotton Knit Baby Blanket - Pretty Tulip Floral Design](https://kidsely.com/products/100-cotton-knit-baby-blanket-pretty-floral-design): This newborn baby blanket is made from 100% cotton knit, providing a soft and gentle touch perfect for delicate infant skin. Measuring 80x100 cm, it's ideal for use in cribs, strollers, or as a swaddle. The blanket features a beautiful tulip design, making it a cute and cozy addition to any nursery. Suitable for both boys and girls, this versatile bedding accessory ensures your little one stays warm and comfortable.
-  Updated: 2026-05-03T03:02:07Z
+  Updated: 2026-05-11T03:02:16Z
   Vendor: kidsely
   Product Type: Baby Blankets
   Availability: Available
@@ -3138,7 +3138,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sf6be6ec8003446ffbb5c9fe9970b1a2fY.webp?v=1769550416
     Price: $44.99 USD
   - [Green](https://kidsely.com/products/100-cotton-knit-baby-blanket-pretty-floral-design?variant=51694417510719)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sa40ae18b01164da18d785e93cc81f272w.webp?v=1769550416
     Price: $44.99 USD
   - [Coffee](https://kidsely.com/products/100-cotton-knit-baby-blanket-pretty-floral-design?variant=51694417445183)
@@ -3284,7 +3284,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/4-piece-silicone-crab-feeding-set-green.webp?v=1769546548
     Price: $51.99 USD
 - [Sleeveless 100% Cotton Baby Sleep Sack | Premium Wearable Blanket](https://kidsely.com/products/sleeveless-cotton-baby-sleep-sack): Keep baby safe and cozy in our Sleeveless 100% Premium Cotton Sleep Sack. Soft, breathable, and hip-healthy. Available in 16 adorable patterns. Sizes 0-18m.
-  Updated: 2026-05-02T18:45:37Z
+  Updated: 2026-05-11T04:02:09Z
   Vendor: kidsely
   Product Type: Baby Sleep Sacks
   Availability: Available
@@ -3482,7 +3482,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/sleeveless-cotton-sleep-sack-woodland-fox.png?v=1769543614
     Price: $34.99 USD
 - [100% Cotton Arms-Up Baby Sleep Sack & Swaddle Transition (0-9M)](https://kidsely.com/products/cotton-arms-up-baby-sleep-sack-swaddle-transition): Keep baby safe and cozy in our 100% cotton arms-up sleep sack. Features a 2-way zipper for easy diaper changes and a widened hem for hip health. Available in 8 patterns & 3 sizes.
-  Updated: 2026-05-03T04:07:19Z
+  Updated: 2026-05-11T12:07:17Z
   Vendor: kidsely
   Product Type: Baby Sleep Sacks
   Availability: Available
@@ -3584,7 +3584,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/neutral-beige-star-print-baby-sleep-sack.webp?v=1775828667
     Price: $34.99 USD
 - [Cotton Swaddle Sleep Sack | Silent Velcro & 2-Way Zipper](https://kidsely.com/products/cotton-swaddle-sleep-sack-silent-velcro): Help baby sleep longer with our 100% Cotton Swaddle Sleep Sack. Features Silent Velcro for quiet adjustments and a 2-Way Zipper for easy diaper changes. 0-6M.
-  Updated: 2026-04-28T14:31:06Z
+  Updated: 2026-05-11T04:01:55Z
   Vendor: kidsely
   Product Type: Baby Sleep Sacks
   Availability: Available
@@ -3670,7 +3670,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/rainbow-pattern-cotton-swaddle-sleep-sack-silent-velcro.webp?v=1769545115
     Price: $34.99 USD
 - [3-Pack Cotton Swaddle Sleep Sacks | Silent Velcro (0-6M)](https://kidsely.com/products/3-pack-cotton-swaddle-sleep-sack-bundle): Save with our 3-Pack Cotton Swaddle Bundle. Features whisper-quiet velcro & 2-way zippers for easy changes. Soft, safe & breathable for newborns.
-  Updated: 2026-05-03T04:07:28Z
+  Updated: 2026-05-11T04:01:55Z
   Vendor: kidsely
   Product Type: Baby Sleep Sacks
   Availability: Available
@@ -4020,7 +4020,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S8ad256cee655422fbc793c3ebf843c2f4.webp?v=1769543034
     Price: $79.99 USD
 - [Summer Baby Girl Floral Romper | 3D Embroidered Cotton Bodysuit](https://kidsely.com/products/summer-baby-girl-3d-floral-cotton-romper): Shop this adorable baby girl summer romper featuring textured 3D floral embroidery. Made from soft, breathable cotton with puff sleeves and easy snap closures.
-  Updated: 2026-05-02T04:10:08Z
+  Updated: 2026-05-11T18:37:16Z
   Vendor: kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -4064,7 +4064,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Baby-Girl-Pink-Muslin-Romper-Lace-Collar.png?v=1775073006
     Price: $35.99 USD
 - [Waffle Knit Baby Girl Romper & Bonnet Set | Lace Ruffle Jumpsuit](https://kidsely.com/products/waffle-knit-lace-baby-romper-bonnet-set): Adorable waffle knit baby romper with delicate lace trim and flutter sleeves. Includes matching bonnet. Breathable, vintage-style summer outfit for sizes 3-24M.
-  Updated: 2026-05-02T04:10:09Z
+  Updated: 2026-05-10T04:05:56Z
   Vendor: kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -4102,7 +4102,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sc8d234c09f344697a3f0f375a6eac488N.webp?v=1770247435
     Price: $39.99 USD
 - [Vintage Sepia Floral Muslin Set | Baby Girl Flutter Sleeve Top & Bloomers (3-24M)](https://kidsely.com/products/vintage-sepia-floral-muslin-set-baby-girl-flutter-sleeve-top-bloomers): Capture the sweetness of summer days with this effortlessly charming two-piece set. Crafted from a lightweight, textured cotton blend, this outfit offers the beautiful "crinkle" look of classic muslin with added durability for active little ones. The whimsical "Vintage Sepia" botanical print offers a timeless, heirloom aesthetic that moves away from standard neutrals into something truly special. Featuring delicate flutter sleeves and a flowy gathered waist, the top pairs perfectly with the matching bloomers for a complete look, or can be styled separately with her favorite leggings. Why You’ll Love It: Soft & Durable: Made from a soft cotton blend that holds its shape and stands up to playdates and wash days better than standard delicate gauze. Heirloom Details: Features a gathered neckline, dainty buttons on the back for easy dressing, and sweet flutter sleeve accents. Comfort First: The matching bloomers feature gentle elastic waistbands and leg openings designed to be snug but soft against baby's skin. Photo Ready: The textured fabric and vintage-inspired print add depth and warmth to photos without needing complex styling. Size Guide: We recommend choosing a size based on your child's current height and weight rather than age alone. 3-6 Months: Recommended Height: 24-27" (60-68cm) | Recommended Weight: 8-15 lbs (3.5-7kg) 6-12 Months: Recommended Height: 26-29.5" (66-75cm) | Recommended Weight: 15-22 lbs (7-10kg) 12-18 Months: Recommended Height: 29-33" (73-83cm) | Recommended Weight: 20-26.5 lbs (9-12kg) 18-24 Months: Recommended Height: 33-37.5" (83-95cm) | Recommended Weight: 24-31 lbs (11-14kg) Material & Care: Material: Cotton / Polyester Blend Care: Machine wash cold on a gentle cycle. Tumble dry low or hang to dry to maintain the texture.
-  Updated: 2026-04-30T04:07:57Z
+  Updated: 2026-05-11T14:55:37Z
   Vendor: kidsely
   Product Type: Baby Outfits
   Availability: Available
@@ -4116,15 +4116,15 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-floral-crinkle-muslin-top-bloomer-set.png?v=1768756770
     Price: $34.99 USD
   - [Vintage Sepia / 12-18M](https://kidsely.com/products/vintage-sepia-floral-muslin-set-baby-girl-flutter-sleeve-top-bloomers?variant=51706441040191)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-floral-crinkle-muslin-top-bloomer-set.png?v=1768756770
     Price: $34.99 USD
   - [Vintage Sepia / 18-24M](https://kidsely.com/products/vintage-sepia-floral-muslin-set-baby-girl-flutter-sleeve-top-bloomers?variant=51706441072959)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-floral-crinkle-muslin-top-bloomer-set.png?v=1768756770
     Price: $34.99 USD
 - [Hamptons Beige 2-Piece Overall Set | Baby Boy Summer Outfit (3-24M)](https://kidsely.com/products/products-baby-boy-2-piece-overall-set-hamptons-beige): Shop the Hamptons Beige Overall Set. This stylish 2-piece baby boy summer outfit features a soft striped tee, adjustable straps, and easy-snap closure.
-  Updated: 2026-04-28T14:31:07Z
+  Updated: 2026-05-11T04:02:07Z
   Vendor: kidsely
   Product Type: Baby Outfits
   Availability: Available
@@ -4146,7 +4146,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-boy-2-piece-overall-set-hamptons-beige-striped-tee-main-v2.png?v=1768773178
     Price: $59.99 USD
 - [Neutral Striped Baby Romper | Soft Cotton Long Sleeve Jumpsuit (3-18M)](https://kidsely.com/products/neutral-striped-cotton-baby-romper): Keep them cozy in our essential striped baby romper. Made from soft 95% cotton & spandex for the perfect stretch. Shop the new Oat & Onyx or Latte colors.
-  Updated: 2026-04-28T13:38:28Z
+  Updated: 2026-05-10T02:47:36Z
   Vendor: kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -4268,7 +4268,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sb9c7bede96244de29e23be74dd799192m.webp?v=1769697376
     Price: $41.99 USD
 - [Knitted Baby Romper & Hat Set | Soft Side-Button Jumpsuit (0-18M)](https://kidsely.com/products/knitted-baby-romper-hat-set): Wrap your little one in this cozy knitted baby romper and matching hat set. Features soft, itch-free fabric and easy side buttons. Sizes 0-18M. Shop now!
-  Updated: 2026-04-29T04:08:06Z
+  Updated: 2026-05-08T04:04:57Z
   Vendor: kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -4414,7 +4414,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sf07d0e297d874c0c81e63a86e2ddf9d1d.webp?v=1768677867
     Price: $54.99 USD
 - [Daisy Embroidered Baby Lounge Set - Neutral Cotton Toddler Tracksuit](https://kidsely.com/products/daisy-embroidered-baby-toddler-lounge-set): Shop this cozy Daisy Embroidered 2-Piece Set. Soft combed cotton pullover & jogger outfit for babies and toddlers (9M-4T). The perfect neutral winter staple.
-  Updated: 2026-05-03T03:04:57Z
+  Updated: 2026-05-08T03:05:03Z
   Vendor: kidsely
   Product Type: Baby Outfits
   Availability: Available
@@ -4424,7 +4424,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/cream-daisy-embroidered-baby-lounge-set.png?v=1775072488
     Price: $59.99 USD
   - [Cream / 12-18M](https://kidsely.com/products/daisy-embroidered-baby-toddler-lounge-set?variant=51723242766655)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/cream-daisy-embroidered-baby-lounge-set.png?v=1775072488
     Price: $59.99 USD
   - [Cream / 18-24M](https://kidsely.com/products/daisy-embroidered-baby-toddler-lounge-set?variant=51723242471743)
@@ -4486,7 +4486,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S1be02f76b6074f9cbd4f2c42382dc219J.webp?v=1768686589
     Price: $39.99 USD
 - [Baby Cotton Sweatshirt Romper - 3D Cloud & Flower Applique (1-18M)](https://kidsely.com/products/baby-cotton-sweatshirt-romper-3d-cloud-flower): Soft 98% cotton baby sweatshirt romper featuring cute 3D cloud or flower appliques. Oversized, comfortable fit for 1-18 months. Perfect for Spring & Autumn.
-  Updated: 2026-05-03T04:07:27Z
+  Updated: 2026-05-11T04:02:10Z
   Vendor: kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -4532,7 +4532,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Green-floral-daisy-romper-main.png?v=1771009270
     Price: $32.99 USD
 - [Toddler Heart Corduroy Overalls | Cute Valentine's Bib Pants (1-4Y)](https://kidsely.com/products/toddler-heart-corduroy-overalls): Shop adorable Toddler Heart Corduroy Overalls in soft cotton. Choose from a fuzzy chenille heart patch or sweet confetti print. The perfect Valentine's Day outfit! Sizes 9M-4Y.
-  Updated: 2026-04-29T04:08:16Z
+  Updated: 2026-05-04T06:58:56Z
   Vendor: kidsely
   Product Type: Baby Overalls
   Availability: Available
@@ -4664,7 +4664,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S1da24864adf242ac829416ec346799e12.webp?v=1768759061
     Price: $54.99 USD
 - [Mango Print Baby Sweatshirt Set | Soft Odile Fabric Winter Outfit](https://kidsely.com/products/baby-mango-sweatshirt-set): Keep baby cozy in this 2-piece Mango print set. Made from premium Odile fabric for soft stretch & winter warmth. Adorable & durable. Sizes 6M-3T.
-  Updated: 2026-04-30T04:07:57Z
+  Updated: 2026-05-06T04:07:26Z
   Vendor: Kidsely
   Product Type: Baby Outfits
   Availability: Available
@@ -4690,7 +4690,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sd1bbc42f49e043aab9b890bc227f9c6dq.webp?v=1769467349
     Price: $44.99 USD
 - [Baby Girl Ice Cream Outfit Set | Pink "Bon Appétit" Top & Striped Pants](https://kidsely.com/products/baby-girl-ice-cream-outfit-bon-appetit-set): Shop this adorable 2-piece baby girl outfit featuring a pink "Bon Appétit" ice cream sweatshirt and striped leggings. Soft Odile fabric. Sizes 6M-3T.
-  Updated: 2026-05-03T03:52:58Z
+  Updated: 2026-05-09T21:20:35Z
   Vendor: Kidsely
   Product Type: Baby Outfits
   Availability: Available
@@ -4742,7 +4742,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/toddler-blue-daisy-embroidered-overalls.png?v=1768791190
     Price: $34.99 USD
 - [Unisex Baby Ribbed Knit Set | Embroidered Rainbow & Sun Outfit (6M-3T)](https://kidsely.com/products/unisex-embroidered-ribbed-knit-baby-set): Shop cozy Unisex Embroidered Ribbed Knit Sets for babies & toddlers. Soft cotton-blend 2-piece outfits featuring Rainbow, Sun, & text designs. Sizes 6M-3T.
-  Updated: 2026-05-03T09:46:39Z
+  Updated: 2026-05-10T02:08:06Z
   Vendor: Kidsely
   Product Type: Baby Outfits
   Availability: Available
@@ -4828,7 +4828,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/mustard-ribbed-knit-toddler-outfit-set-with-sun-embroidery.png?v=1769532877
     Price: $41.99 USD
 - [Infant Rainbow Waffle Knit Romper Set | Biscuit Neutral Overalls](https://kidsely.com/products/infant-rainbow-waffle-romper-set-biscuit): Shop this adorable 2-piece waffle knit set in Biscuit. Features a textured rainbow appliqué, criss-cross back straps, and a soft ribbed tee. The perfect neutral baby outfit.
-  Updated: 2026-05-03T09:02:58Z
+  Updated: 2026-05-11T13:43:46Z
   Vendor: Kidsely
   Product Type: Baby Outfits
   Availability: Available
@@ -4854,7 +4854,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-boys-waffle-knit-rainbow-romper.png?v=1775482048
     Price: $33.99 USD
 - [Baby & Toddler Girls Floral Embroidered Corduroy Jumper Dress (6M-3Y)](https://kidsely.com/products/baby-girl-floral-corduroy-jumper-overall-dress): Shop this boutique floral embroidered corduroy jumper dress for baby and toddler girls. Soft 100% polyester knit with adjustable straps in Lavender and Beige. Sizes 6M-3Y.
-  Updated: 2026-05-03T11:54:38Z
+  Updated: 2026-05-08T20:18:05Z
   Vendor: Kidsely
   Product Type: Baby Dresses
   Availability: Available
@@ -4900,7 +4900,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S316bd7defa5b4daeb0fae5dc6f7d516bC.webp?v=1769635203
     Price: $29.99 USD
 - [Baby Girl Little Love Embroidered Bubble Romper - Mauve & Buttercream](https://kidsely.com/products/little-love-embroidered-baby-girl-bubble-romper-mauve): Shop our Mauve and Buttercream "Little Love" baby girl bubble romper. Crafted from premium, soft French Terry cotton with sweet embroidery. Perfect for spring outfits and baby shower gifts. Sizes 1-18M.
-  Updated: 2026-05-03T04:07:42Z
+  Updated: 2026-05-11T04:02:15Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -4926,7 +4926,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/little-love-embroidered-baby-girl-bubble-romper-mauve-upscaled.png?v=1770417099
     Price: $39.99 USD
 - [Baby Boy Neutral "Little Love" Embroidered Bubble Romper | Oat & Espresso](https://kidsely.com/products/little-love-neutral-baby-boy-bubble-romper-oat-espresso): Shop our minimalist Oat & Espresso baby boy bubble romper. Premium French Terry cotton with "Little Love" embroidery. A cozy, gender-neutral fall favorite. Sizes 1-18M.
-  Updated: 2026-05-03T04:07:41Z
+  Updated: 2026-05-08T04:05:11Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -4952,7 +4952,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/little-love-embroidered-baby-boy-bubble-romper-brown-and-beige-main-upscaled.png?v=1770417490
     Price: $39.99 USD
 - [Newborn Boy Cable Knit Sweater & Footed Pants Set | 100% Cotton](https://kidsely.com/products/products-newborn-boy-cable-knit-sweater-footed-pants-set): Shop our 2-piece infant boy cable knit outfit. Made from 100% soft cotton, this set features a collared sweater and footed leggings. Perfect for a winter coming home outfit. Sizes 0-9M.
-  Updated: 2026-04-28T04:12:02Z
+  Updated: 2026-05-09T04:04:06Z
   Vendor: Kidsely
   Product Type: Baby Outfits
   Availability: Available
@@ -4990,7 +4990,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S1e457e7d79d746d3a51675c42d152532a_d17d92e1-43e4-4271-ac1f-e0f31df4e6d6.webp?v=1771347083
     Price: $54.99 USD
 - [Baby Girl Floral Corduroy Overalls | Vintage Toddler Romper (6M-3Y)](https://kidsely.com/products/baby-girl-floral-corduroy-overalls-vintage-jumpsuit): Baby & Toddler Girl Floral Corduroy Overalls - Vintage Sleeveless Jumpsuit Elevate your little one’s seasonal wardrobe with our charming Floral Corduroy Overalls. Perfectly designed for Spring and Autumn wear, these sleeveless rompers combine a timeless vintage aesthetic with modern comfort. Featuring a delicate floral print on soft, ribbed fabric, this jumpsuit is an effortless choice for family outings, photoshoots, or everyday play. Product Highlights Vintage-Inspired Design: Features a classic floral pattern and a stylish square collar. Textured Comfort: Crafted from a soft knitted polyester with a beautiful corduroy-style rib. Easy Layering: The sleeveless, double-breasted strap design allows for easy pairing with long-sleeve tees or sweaters. Durable & Practical: Machine washable for easy care and built to keep up with active toddlers. Size Guide & Fit This jumpsuit is designed to fit True to Size. Please refer to the measurements below to ensure the perfect fit for your growing girl: Size Age Range Length Waist Hip 6-9M 6-9 Months 22.4" (57cm) 22.8" (58cm) 24.4" (62cm) 9-12M 9-12 Months 24.4" (62cm) 23.6" (60cm) 25.2" (64cm) 12-18M 12-18 Months 26.4" (67cm) 24.4" (62cm) 26.0" (66cm) 18-24M 18-24 Months 28.3" (72cm) 25.2" (64cm) 26.8" (68cm) 2-3T 2-3 Years 30.3" (77cm) 26.0" (66cm) 27.6" (70cm) Specifications Material: Premium Polyester / Knitted Craft Style: Cute / Casual Gender: Girls Closure: Double Breasted Buttons Maintenance: Machine washable; do not dry clean
-  Updated: 2026-04-21T08:00:10Z
+  Updated: 2026-05-08T15:04:47Z
   Vendor: Kidsely
   Product Type: Baby Overalls
   Availability: Available
@@ -5016,7 +5016,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-girl-floral-corduroy-overalls-front.png?v=1775071532
     Price: $54.99 USD
 - [Bon Appétit Cookie Embroidered Baby Set | Cream Ribbed 2-Piece Outfit (6M-3T)](https://kidsely.com/products/ibon-appetit-cookie-embroidered-2-piece-set): Serve up smiles with this soft "Bon Appétit" cookie outfit. Features a premium ribbed knit sweatshirt with boucle embroidery and stretchy striped leggings. Sizes 6M-3T.
-  Updated: 2026-04-28T13:38:28Z
+  Updated: 2026-05-09T02:45:36Z
   Vendor: Kidsely
   Product Type: Baby Outfits
   Availability: Available
@@ -5042,7 +5042,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Bon_Appetiti_Cookie_shirt_with_striped_leggings_gender_neutral_for_babies_and_toddlers_main_upscaled.png?v=1775071483
     Price: $42.99 USD
 - [Bon Appétit Croissant Baby Outfit Set | Soft Unisex Cotton Top & Pants](https://kidsely.com/products/bon-appetit-croissant-baby-outfit-set): Serve up style with our Bon Appétit Croissant Outfit. This buttery-soft, 2-piece baby set features 3D embroidery and stretchy striped pants. Shop sizes 6M-3T!
-  Updated: 2026-05-02T10:53:57Z
+  Updated: 2026-05-09T02:45:36Z
   Vendor: Kidsely
   Product Type: Baby Outfits
   Availability: Available
@@ -5120,7 +5120,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Yellow_Fleece_Bunny_Outfit_for_toddler_girlsmain.png?v=1769438223
     Price: $65.99 USD
 - [Newborn Swaddle Sleep Sack 0-6M - 100% Cotton 0.5 TOG Summer Wrap](https://kidsely.com/products/newborn-cotton-swaddle-sleep-sack-0-5-tog): Lightweight 0.5 TOG newborn swaddle made from 100% breathable cotton. Adjustable wings prevent startle reflex. Ideal for summer & warm rooms. Sizes 0-6M.
-  Updated: 2026-04-29T08:00:03Z
+  Updated: 2026-05-08T04:05:19Z
   Vendor: Kidsely
   Product Type: Baby Sleep Sacks
   Availability: Available
@@ -5208,7 +5208,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-boy-dinosaur-romper-sweatshirt-beige.png?v=1777471967
     Price: $34.99 USD
 - [Newborn Baby Girl Sky Blue Gingham Romper | Peter Pan Collar](https://kidsely.com/products/newborn-baby-girl-sky-blue-gingham-romper-peter-pan-collar): Shop our elegant sky blue gingham romper for baby girls. Features a classic Peter Pan collar, long sleeves, and soft cotton fabric. Sizes 0-12M. Order now!
-  Updated: 2026-05-02T08:00:04Z
+  Updated: 2026-05-11T02:57:15Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -5230,7 +5230,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-newborn-baby-girl-sky-blue-gingham-romper-peter-pan-collar-flat-lay-main-upscaled.png?v=1774916046
     Price: $34.99 USD
 - [Baby Girl Floral Long Sleeve Bodysuit - Sage Wildflower Cream Romper](https://kidsely.com/products/baby-girl-floral-long-sleeve-bodysuit-sage-wildflower): Shop our Korean-style baby girl floral long sleeve bodysuit. Made from 100% cotton with a vintage Peter Pan collar. Perfect for spring and autumn. Sizes 0-24M. Shop Now!
-  Updated: 2026-05-02T08:00:05Z
+  Updated: 2026-05-10T15:11:09Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -5277,34 +5277,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-boy-toddler-striped-2-piece-bear-outfit-flatlay-upscaled.webp?v=1769951184
     Price: $39.99 USD
-- [Baby Boy’s First Easter Bunny Corduroy Romper - Blue Overalls 0-18M](https://kidsely.com/products/baby-boy-first-easter-bunny-corduroy-romper-blue): Celebrate his milestone with the perfect baby’s first Easter outfit! This soft blue corduroy romper features adorable bunny embroidery. Shop sizes 0-18 months.
-  Updated: 2026-05-03T08:00:06Z
-  Vendor: Kidsely
-  Product Type: Baby Rompers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-boy-blue-first-easter-bunny-corduroy-romper-flatlay-main-upscaled.webp?v=1769983408
-  - [Baby Blue / 3M](https://kidsely.com/products/baby-boy-first-easter-bunny-corduroy-romper-blue?variant=52115885326655)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S1d0a2cb2ef814b189f48b0c48e499e55x.webp?v=1770390507
-    Price: $34.99 USD
-  - [Baby Blue / 6M](https://kidsely.com/products/baby-boy-first-easter-bunny-corduroy-romper-blue?variant=52115885359423)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S1d0a2cb2ef814b189f48b0c48e499e55x.webp?v=1770390507
-    Price: $34.99 USD
-  - [Baby Blue / 9M](https://kidsely.com/products/baby-boy-first-easter-bunny-corduroy-romper-blue?variant=52115885392191)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S1d0a2cb2ef814b189f48b0c48e499e55x.webp?v=1770390507
-    Price: $34.99 USD
-  - [Baby Blue / 12M](https://kidsely.com/products/baby-boy-first-easter-bunny-corduroy-romper-blue?variant=52115885424959)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S1d0a2cb2ef814b189f48b0c48e499e55x.webp?v=1770390507
-    Price: $34.99 USD
-  - [Baby Blue / 18M](https://kidsely.com/products/baby-boy-first-easter-bunny-corduroy-romper-blue?variant=52115885457727)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S1d0a2cb2ef814b189f48b0c48e499e55x.webp?v=1770390507
-    Price: $34.99 USD
 - [Baby Girl Floral Embroidery Summer Romper Dress | Cotton Bodysuit](https://kidsely.com/products/products-baby-girl-floral-embroidery-summer-romper-dress): Dress her in vintage charm with this floral embroidered baby romper dress. Breathable cotton, 3D blossoms & ruffle sleeves. Perfect for summer. Shop now!
-  Updated: 2026-04-27T13:01:24Z
+  Updated: 2026-05-04T08:00:29Z
   Vendor: Kidsely
   Product Type: Baby Dresses
   Availability: Available
@@ -5326,7 +5300,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-girl-floral-embroidery-summer-romper-dress-flatlay-main-upscaled.png?v=1770047561
     Price: $45.99 USD
 - [Baby Girl Mother's Day Tulip Romper Dress | Pink & Purple 0-24M](https://kidsely.com/products/products-baby-girl-iridescent-tulip-easter-romper-dress): Make Mother's Day memories in this iridescent tulip romper dress. Features soft cotton lining & easy snaps for quick changes. Sizes 0-24M. Shop the collection!
-  Updated: 2026-05-03T08:00:42Z
+  Updated: 2026-05-10T15:00:10Z
   Vendor: Kidsely
   Product Type: Baby Dresses
   Availability: Available
@@ -5364,7 +5338,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-iridescent-tulip-petal-romper-dress-easter-pink-mothers-day-gift.png?v=1774958973
     Price: $39.99 USD
 - [Toddler Girls Pink Floral Easter Dress - Cottagecore Princess Style](https://kidsely.com/products/toddler-girls-pink-floral-easter-cottagecore-princess-dress): Make her Easter Sunday magical with this vintage-inspired cottagecore dress. Featuring a soft knitted top and floral embroidered tutu skirt. Shop sizes 3M to 3T today!
-  Updated: 2026-05-03T04:07:47Z
+  Updated: 2026-05-11T13:34:36Z
   Vendor: Kidsely
   Product Type: Baby Dresses
   Availability: Available
@@ -5394,7 +5368,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-girl-toddler-pink-floral-princess-dress.png?v=1772125596
     Price: $34.99 USD
 - [Girls Mesh Tulle Princess Dress - Summer Strap Party Sun Dress (6M-3T)](https://kidsely.com/products/girls-mesh-tulle-cottagecore-fairy-princess-dress): Shop our whimsical Cottagecore-style toddler mesh dress. Featuring soft tiered tulle, 100% cotton lining, and adjustable straps. Perfect for 6M-3T. Shop now!
-  Updated: 2026-05-02T20:47:09Z
+  Updated: 2026-05-10T03:01:36Z
   Vendor: Kidsely
   Product Type: Baby Dresses
   Availability: Available
@@ -5431,30 +5405,30 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Scd325204c0d04a90b2ef3f1c65649dd4F.webp?v=1770145331
     Price: $44.99 USD
-- [Baby Girl Embroidered Floral Cotton Romper | Korean Style](https://kidsely.com/products/baby-girl-embroidered-floral-cotton-romper-korean-style): Shop our vintage-inspired baby girl floral romper. Made from 100% breathable cotton with Korean boutique bubble sleeves. Perfect for cottagecore summer style. Sizes 3-24M.
-  Updated: 2026-05-01T03:16:08Z
+- [Baby Girl Embroidered Floral Cotton Romper | Korean Style](https://kidsely.com/products/baby-girl-embroidered-floral-cotton-romper-korean-style): Shop our pink floral baby bubble romper. 100% cotton with boutique puff sleeves. Perfect for weddings, flower girls, and cottagecore summer style. 3-24M.
+  Updated: 2026-05-11T22:16:01Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-girl-pink-floral-embroidered-cotton-romper-korean-style-upscaled.png?v=1770153980
+  Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-pink-floral-embroidered-cotton-romper-korean-style-upscaled.png?v=1778535166
   - [Dusty Petal Pink / 3-6M](https://kidsely.com/products/baby-girl-embroidered-floral-cotton-romper-korean-style?variant=52213857026367)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-girl-pink-floral-embroidered-cotton-romper-korean-style-upscaled.png?v=1770153980
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-pink-floral-embroidered-cotton-romper-korean-style-upscaled.png?v=1778535166
     Price: $48.99 USD
   - [Dusty Petal Pink / 6-12M](https://kidsely.com/products/baby-girl-embroidered-floral-cotton-romper-korean-style?variant=52213857059135)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-girl-pink-floral-embroidered-cotton-romper-korean-style-upscaled.png?v=1770153980
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-pink-floral-embroidered-cotton-romper-korean-style-upscaled.png?v=1778535166
     Price: $48.99 USD
   - [Dusty Petal Pink / 12-18M](https://kidsely.com/products/baby-girl-embroidered-floral-cotton-romper-korean-style?variant=52213856960831)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-girl-pink-floral-embroidered-cotton-romper-korean-style-upscaled.png?v=1770153980
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-pink-floral-embroidered-cotton-romper-korean-style-upscaled.png?v=1778535166
     Price: $48.99 USD
   - [Dusty Petal Pink / 18-24M](https://kidsely.com/products/baby-girl-embroidered-floral-cotton-romper-korean-style?variant=52213856993599)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-girl-pink-floral-embroidered-cotton-romper-korean-style-upscaled.png?v=1770153980
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-pink-floral-embroidered-cotton-romper-korean-style-upscaled.png?v=1778535166
     Price: $48.99 USD
 - [Unisex Baby Bear Corduroy Overalls | Toddler Bib Romper (3-24M)](https://kidsely.com/products/baby-bear-corduroy-overalls-toddler-bib-romper): Shop our adorable unisex baby bear corduroy overalls. These soft, ribbed toddler bib pants feature a cute 3D bear patch. Perfect for layering in Spring and Autumn.
-  Updated: 2026-05-03T02:50:37Z
+  Updated: 2026-05-11T03:03:39Z
   Vendor: Kidsely
   Product Type: Baby Overalls
   Availability: Available
@@ -5500,29 +5474,29 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sac4489a8993444aca959d6e8346e3f42j.webp?v=1770226941
     Price: $34.99 USD
 - [Baby Girl Strawberry Embroidered Cotton Romper & Headband Set (0-12M)](https://kidsely.com/products/strawberry-embroidered-cotton-baby-romper-headband-set): Shop our pink strawberry baby girl romper set. Made from 100% cotton muslin with flutter sleeves & a matching bow headband. Sweet summer style for 0-12M.
-  Updated: 2026-05-03T04:07:57Z
+  Updated: 2026-05-11T04:02:25Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-strawberry-embroidered-cotton-romper-headband-set-upscaled.png?v=1777136936
   - [Strawberry Pink / 3-6M](https://kidsely.com/products/strawberry-embroidered-cotton-baby-romper-headband-set?variant=52217261130047)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-strawberry-embroidered-cotton-romper-headband-set-upscaled.png?v=1777136936
     Price: $32.99 USD
   - [Strawberry Pink / 6-9M](https://kidsely.com/products/strawberry-embroidered-cotton-baby-romper-headband-set?variant=52217261097279)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-strawberry-embroidered-cotton-romper-headband-set-upscaled.png?v=1777136936
     Price: $32.99 USD
   - [Strawberry Pink / 9-12M](https://kidsely.com/products/strawberry-embroidered-cotton-baby-romper-headband-set?variant=52217261064511)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-strawberry-embroidered-cotton-romper-headband-set-upscaled.png?v=1777136936
     Price: $32.99 USD
   - [Strawberry Pink / 12-24M](https://kidsely.com/products/strawberry-embroidered-cotton-baby-romper-headband-set?variant=52217261031743)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-strawberry-embroidered-cotton-romper-headband-set-upscaled.png?v=1777136936
     Price: $32.99 USD
 - [Vintage Baby Girl Lace Romper | Cottagecore Muslin Jumpsuit](https://kidsely.com/products/products-vintage-lace-baby-girl-muslin-romper-champagne): Shop our Champagne Cream baby girl lace romper. Made from breathable cotton muslin, this vintage-inspired cottagecore jumpsuit is perfect for summer & photos.
-  Updated: 2026-05-01T13:26:32Z
+  Updated: 2026-05-08T08:00:03Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -5544,7 +5518,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kisely-baby-girl-vintage-muslin-romper-with-lace-collar.png?v=1774908175
     Price: $34.99 USD
 - [Baby Girl Daisy Embroidery Outfit | Tulle Hem Top & Pant Set (6M-3T)](https://kidsely.com/products/baby-girl-daisy-embroidery-tulle-top-leggings-set): Shop this adorable 2-piece baby girl spring outfit. Features a "Nice Garden" daisy embroidered top with a tulle hem and sage green ribbed leggings. Sizes 6M-3T.
-  Updated: 2026-04-14T04:05:16Z
+  Updated: 2026-05-10T08:00:01Z
   Vendor: Kidsely
   Product Type: Baby Outfits
   Availability: Available
@@ -5570,7 +5544,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/girl-matching-set-nice-garden-main-2048x2048.png?v=1770578335
     Price: $49.99 USD
 - [Baby Girl Strawberry Outfit Set - 100% Cotton Pullover & Striped Pants](https://kidsely.com/products/baby-girl-strawberry-combed-cotton-pullover-striped-pants-set): Shop our 2-piece strawberry baby girl outfit. Made with 100% combed cotton, featuring 3D embroidery and striped leggings. Soft, stylish, and durable!
-  Updated: 2026-04-30T14:08:26Z
+  Updated: 2026-05-11T13:34:46Z
   Vendor: Kidsely
   Product Type: Baby Outfits
   Availability: Available
@@ -5596,7 +5570,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-and-toddler-girls-strawberry-matching-cllothing-set.png?v=1770581828
     Price: $44.99 USD
 - [Baby Girl Floral Mesh Romper | Blue Toile Summer Jumpsuit (3-18M)](https://kidsely.com/products/blue-toile-floral-mesh-baby-girl-romper): Shop our sweet baby girl floral romper featuring elegant blue toile print, lace mesh overlays, and flutter sleeves. Soft 100% cotton for summer comfort. Sizes 3M-18M.
-  Updated: 2026-04-22T04:06:38Z
+  Updated: 2026-05-06T21:19:53Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -5618,7 +5592,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-blue-vintage-floral-toile-baby-girls-lace-romper-main.png?v=1776781894
     Price: $32.99 USD
 - [Baby Girl Striped Sailor Romper Dress | Kidsely Summer Sun Dress](https://kidsely.com/products/baby-girl-striped-sailor-romper-dress): Shop this adorable sky blue striped baby girl romper dress. Features a white sailor collar, oversized bow, and snap bottom for easy changes. Sizes 0-18M.
-  Updated: 2026-04-25T13:06:19Z
+  Updated: 2026-05-10T15:05:04Z
   Vendor: Kidsely
   Product Type: Baby Dresses
   Availability: Available
@@ -5640,7 +5614,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-toddler-nautical-sailor-romper-dress-main.png?v=1774911842
     Price: $39.99 USD
 - [Baby Girl Cream Floral Cotton Dress | Long Sleeve Spring Party Dress](https://kidsely.com/products/baby-girl-cream-floral-cotton-dress): Shop our Baby Girl Cream Floral Cotton Dress (2-6Y). 100% cotton with wildflower embroidery & lace collar. Soft buttermilk cream tones perfect for spring.
-  Updated: 2026-04-05T18:22:53Z
+  Updated: 2026-05-11T16:46:04Z
   Vendor: Kidsely
   Product Type: Baby Dresses
   Availability: Available
@@ -5666,7 +5640,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/girls-toddler-cottagecore-vintage-cream-floral-dress-main.png?v=1770762605
     Price: $49.99 USD
 - [Baby Girl's First Easter Bunny Corduroy Romper - Pink Overalls 0-18M](https://kidsely.com/products/baby-girl-first-easter-bunny-corduroy-romper-pink): Celebrate his milestone with the perfect baby’s first Easter outfit! This soft pink corduroy romper features adorable bunny embroidery. Shop sizes 0-18 months.
-  Updated: 2026-04-05T18:22:53Z
+  Updated: 2026-05-07T04:04:20Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -5714,7 +5688,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/princess-tulle-dress-main.png?v=1770831955
     Price: $69.99 USD
 - [Baby Girl Embroidered Floral Romper & Bodysuit Set | 0-24M](https://kidsely.com/products/baby-girl-embroidered-floral-romper-set-white): Shop our 2-piece baby girl floral romper set. Featuring a white puff-sleeve pointelle bodysuit & embroidered linen-style overalls. Perfect for baby gifts!
-  Updated: 2026-04-30T19:29:28Z
+  Updated: 2026-05-10T15:01:33Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -5740,7 +5714,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/White-shirt-and-romper-set-main.png?v=1770844182
     Price: $34.99 USD
 - [Summer Baby Girl Floral Princess Dress with Matching Bag (9M-4T)](https://kidsely.com/products/baby-girl-pink-floral-princess-dress-with-bag): Shop our adorable pink floral summer dress for baby girls & toddlers. Features ruffly fly sleeves & a matching bow purse. 100% cotton comfort. Sizes 9M-4T. Shop now!
-  Updated: 2026-05-03T03:04:57Z
+  Updated: 2026-05-07T07:09:41Z
   Vendor: Kidsely
   Product Type: Baby Dresses
   Availability: Available
@@ -5788,7 +5762,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/bab-girl-easter-dress-with-bunny-ears-and-tail-main.png?v=1770911327
     Price: $34.99 USD
 - [Baby Girl Heart Print Muslin Dress & Hat Set | 0-9 Months](https://kidsely.com/products/baby-girl-white-heart-print-muslin-dress-hat-set): Shop our 2-piece newborn baby girl summer set. Featuring a breathable white heart print muslin cotton dress and matching dusty rose sun hat. Perfect for 0-9M.
-  Updated: 2026-05-01T13:26:38Z
+  Updated: 2026-05-11T13:34:36Z
   Vendor: Kidsely
   Product Type: Baby Dresses
   Availability: Available
@@ -5840,7 +5814,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Baby-girl-and-toddler-tweed-princess-dress-main.png?v=1771109179
     Price: $64.99 USD
 - [Baby Girl Floral Knit Sweater Dress | Long Sleeve Pink A-Line | 6M-3T](https://kidsely.com/products/baby-girl-floral-knit-sweater-dress-pink-long-sleeve): Shop our soft pink floral knit sweater dress for infant and toddler girls. Features long sleeves, an A-line skirt, and cute daisy patterns. Perfect for Autumn/Spring. Sizes 6M to 3T.
-  Updated: 2026-04-14T04:05:14Z
+  Updated: 2026-05-11T16:46:04Z
   Vendor: Kidsely
   Product Type: Baby Dresses
   Availability: Available
@@ -5865,38 +5839,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S943d210a07d34f74bf5feb429ac505daR.webp?v=1771447819
     Price: $57.99 USD
-- [Toddler & Baby Girls Sleeveless Blue Denim Dress - 100% Cotton A-Line Summer Tiered Dress with Bows (6M-5T)](https://kidsely.com/products/toddler-baby-girls-sleeveless-blue-denim-tiered-dress): Toddler & Baby Girls Sleeveless Blue Denim Dress Elevate your child's summer wardrobe with this boutique-inspired sleeveless blue denim dress. Perfectly balancing comfort and style, this tiered A-line dress is a versatile choice for everything from casual park days to formal family photos. Key Features & Benefits Breathable Fabric: Made from a soft cotton-polyester blend, ensuring maximum airflow and comfort for active toddlers in warm weather. Whimsical Design: Features three fixed white organza bows that provide a high-end, Japanese-inspired boutique aesthetic. Functional Fit: A tiered A-line "smock" silhouette offers a non-restrictive fit, allowing for easy movement and room to grow. Stress-Free Changes: Equipped with a classic back-button closure for quick and easy dressing. Timeless Style: A minimalist solid blue denim that pairs perfectly with sandals, sneakers, or leggings. Size Guide & Height Chart Choose the best fit based on your child's current height. If between sizes, we recommend sizing up for extended wear. US Size Recommended Height Dress Length 9M 28.7" – 31.5" (73-80 cm) 12.20" (31 cm) 12M 31.5" – 35.4" (80-90 cm) 12.60" (32 cm) 24M / 2T 35.4" – 39.4" (90-100 cm) 13.39" (34 cm) 3T 39.4" – 43.3" (100-110 cm) 14.17" (36 cm) 4T 43.3" – 47.2" (110-120 cm) 14.96" (38 cm) 5T 47.2"+ (120 cm+) 15.75" (40 cm) Frequently Asked Questions (FAQ) Is this denim dress made of real denim? Yes, it is a lightweight, breathable denim made from a cotton-poly blend. It provides the classic denim look while being soft enough for a baby’s sensitive skin. What size should I buy for a 3-year-old? For a typical 3-year-old, we recommend the 3T, which fits children between 39.4" and 43.3" tall. Please refer to our height chart for the most accurate fit. Are the white bows removable? The organza bows are securely fixed to the dress to ensure they stay in place during play and through multiple washes. How do I wash this dress without ruining the bows? To preserve the delicate organza bows, we recommend machine washing the dress on a cold, gentle cycle and hanging it to dry. If using a dryer, use the lowest heat setting. Care Instructions Wash: Machine wash cold, gentle cycle with like colors. Dry: Tumble dry low or air dry for longevity. Iron: Cool iron on the reverse side; avoid direct heat on organza bows.
-  Updated: 2026-04-09T02:31:22Z
-  Vendor: Kidsely
-  Product Type: Baby Dresses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-toddler-denim-dress-with-bows.png?v=1775656240
-  - [Denim Blue / 9M](https://kidsely.com/products/toddler-baby-girls-sleeveless-blue-denim-tiered-dress?variant=52708622631231)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-toddler-denim-dress-with-bows.png?v=1775656240
-    Price: $42.99 USD
-  - [Denim Blue / 12M](https://kidsely.com/products/toddler-baby-girls-sleeveless-blue-denim-tiered-dress?variant=52708622532927)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-toddler-denim-dress-with-bows.png?v=1775656240
-    Price: $42.99 USD
-  - [Denim Blue / 24M](https://kidsely.com/products/toddler-baby-girls-sleeveless-blue-denim-tiered-dress?variant=52708622500159)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-toddler-denim-dress-with-bows.png?v=1775656240
-    Price: $42.99 USD
-  - [Denim Blue / 3T](https://kidsely.com/products/toddler-baby-girls-sleeveless-blue-denim-tiered-dress?variant=52708622598463)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-toddler-denim-dress-with-bows.png?v=1775656240
-    Price: $42.99 USD
-  - [Denim Blue / 4T](https://kidsely.com/products/toddler-baby-girls-sleeveless-blue-denim-tiered-dress?variant=52708622565695)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-toddler-denim-dress-with-bows.png?v=1775656240
-    Price: $42.99 USD
-  - [Denim Blue / 5T](https://kidsely.com/products/toddler-baby-girls-sleeveless-blue-denim-tiered-dress?variant=52708622663999)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-toddler-denim-dress-with-bows.png?v=1775656240
-    Price: $42.99 USD
 - [Baby & Toddler Girls Cotton Tulip Romper with Sun Hat | 3-24M](https://kidsely.com/products/baby-toddler-girl-cotton-tulip-romper-hat-set): Shop our adorable baby & toddler girl cotton tulip print romper. Breathable muslin with matching sun hat. Perfect for summer! Sizes 0-24M. Free shipping.
-  Updated: 2026-05-02T12:55:08Z
+  Updated: 2026-05-10T22:34:29Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -6030,7 +5974,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S1a178d4b809e47aa9269a69754bc659de.webp?v=1771865502
     Price: $39.99 USD
 - [Boho Baby Girl Crochet Flower Romper – Soft Cotton Bodysuit](https://kidsely.com/products/boho-baby-girl-crochet-flower-romper): Dainty boho baby girl romper featuring a handcrafted crochet flower and chic fly sleeves. Made from soft, breathable cotton. Shop this summer essential now!
-  Updated: 2026-05-03T04:07:57Z
+  Updated: 2026-05-10T04:06:26Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -6074,7 +6018,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-girl-cream-bunny-romper-main.png?v=1772037104
     Price: $59.99 USD
 - [Boys' White Cotton Summer Suit | Easter & Wedding Outfit | Size 18M-7Y](https://kidsely.com/products/boys-white-cotton-summer-suit-striped-suspender-set): Shop our boys' 2-piece summer gentleman suit. Includes a white cotton short-sleeve shirt & striped suspender shorts. Perfect for Easter, church, or weddings.
-  Updated: 2026-04-26T04:11:07Z
+  Updated: 2026-05-09T04:04:36Z
   Vendor: Kidsely
   Product Type: set
   Availability: Available
@@ -6142,7 +6086,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sb45e95ef0bee400e97c02cc3786d32e6h.webp?v=1772471001
     Price: $69.99 USD
 - [Unisex Baby Striped T-Shirt & Denim Bear Romper Set (3M-3T)](https://kidsely.com/products/baby-striped-shirt-denim-bear-romper-set): Shop our 2pc baby summer outfit featuring a striped tee and bear denim romper. Soft, breathable cotton for toddlers 3M-3T. Perfect for daily play!
-  Updated: 2026-04-23T13:27:16Z
+  Updated: 2026-05-08T04:05:37Z
   Vendor: Kidsely
   Product Type: 
   Availability: Available
@@ -6206,7 +6150,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-girl-toddler-floral-long-sleeve-easter-dress.webp?v=1772289490
     Price: $74.99 USD
 - [Unisex Baby Corduroy Romper - Hand-Embroidered Nature Collection Bodysuit](https://kidsely.com/products/unisex-baby-corduroy-romper-nature-collection): Shop our Nature Collection: Premium unisex baby rompers in soft ribbed corduroy. Hand-embroidered, gender-neutral designs for ages 0-18M. Perfect for gifting.
-  Updated: 2026-05-02T04:10:37Z
+  Updated: 2026-05-07T04:04:38Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -6276,7 +6220,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S10d487998b6a46dcb987a2b7cd29885cU.webp?v=1772146252
     Price: $32.99 USD
 - [Baby & Toddler Easter Bunny Seersucker Romper - Sizes 3M to 3T](https://kidsely.com/products/baby-toddler-easter-bunny-seersucker-romper): Dress them in style with our sleeveless Easter bunny and carrot embroidered romper. Classic seersucker texture in Sage & Sky Blue. Perfect for 0-3T. Shop now!
-  Updated: 2026-04-20T04:03:55Z
+  Updated: 2026-05-05T04:07:36Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -6400,7 +6344,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S3c6862cf7ff44b9ca6385a89bb437dd9X.webp?v=1772207959
     Price: $32.99 USD
 - [Baby & Toddler Girl Butterfly Wing Princess Birthday Dress (9M-3T)](https://kidsely.com/products/baby-toddler-girl-butterfly-wing-princess-birthday-dress): Make memories in our Baby & Toddler Girl Princess Dress. Features 3D florals & butterfly wings. Perfect for Easter, birthdays & weddings. Shop sizes 9M-3T now!
-  Updated: 2026-04-28T15:24:42Z
+  Updated: 2026-05-05T21:17:08Z
   Vendor: Kidsely
   Product Type: Baby Dresses
   Availability: Available
@@ -6508,17 +6452,17 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S66caa923154a4f50a72bea8509728a63t.webp?v=1772549305
     Price: $39.99 USD
 - [Pink Floral Smocked Sister Matching Outfits | Baby & Toddler Spring Set](https://kidsely.com/products/pink-floral-smocked-sister-matching-outfits): Shop vintage pink floral sister matching outfits. Hand-smocked cotton dresses & rompers perfect for Easter & spring photos. Sizes 3M-6T. Order today!
-  Updated: 2026-04-05T18:21:22Z
+  Updated: 2026-05-04T04:09:56Z
   Vendor: Kidsely
   Product Type: Baby Dresses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-matching-sister-set-floral-romper-dress-baby-toddler-child.png?v=1774978653
   - [Romper / 3M](https://kidsely.com/products/pink-floral-smocked-sister-matching-outfits?variant=52357437456703)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/See0ec3de2d0e4a02a8ccec9daa127ca9w.webp?v=1773165243
     Price: $39.99 USD
   - [Romper / 6M](https://kidsely.com/products/pink-floral-smocked-sister-matching-outfits?variant=52357437423935)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/See0ec3de2d0e4a02a8ccec9daa127ca9w.webp?v=1773165243
     Price: $39.99 USD
   - [Romper / 12M](https://kidsely.com/products/pink-floral-smocked-sister-matching-outfits?variant=52357437391167)
@@ -6526,7 +6470,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/See0ec3de2d0e4a02a8ccec9daa127ca9w.webp?v=1773165243
     Price: $39.99 USD
   - [Romper / 24M](https://kidsely.com/products/pink-floral-smocked-sister-matching-outfits?variant=52357437358399)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/See0ec3de2d0e4a02a8ccec9daa127ca9w.webp?v=1773165243
     Price: $39.99 USD
   - [Dress / 24M](https://kidsely.com/products/pink-floral-smocked-sister-matching-outfits?variant=52357437522239)
@@ -6550,7 +6494,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sa5fdfe83a84a41829eb1c4f5d5caac4fj.webp?v=1773165243
     Price: $41.99 USD
 - [Mama's Boy 2-Piece Baby Boy Summer Set | Sage Green & White](https://kidsely.com/products/mamas-boy-baby-boy-summer-set-ribbed-shorts-sage-green): Shop this trendy 2-piece "Mama's Boy" baby boy summer set. Features a 3D patch t-shirt and ribbed sage green shorts. Perfect for sizes 6M to 3T. Order now!
-  Updated: 2026-05-02T03:01:55Z
+  Updated: 2026-05-09T02:58:36Z
   Vendor: Kidsely
   Product Type: Baby Outfits
   Availability: Available
@@ -6571,7 +6515,7 @@
     Availability: Available
     Price: $34.99 USD
 - [Toddler Baby Boy 2-Piece Summer Shorts Set - Sailboat Embroidered T-Shirt & Striped Nautical Shorts (6M-4T)](https://kidsely.com/products/toddler-baby-boy-2-piece-summer-shorts-set-sailboat-embroidered-t-shirt-striped-nautical-shorts-6m-4t): Toddler Baby Boy 2-Piece Summer Shorts Set - Sailboat Nautical Outfit Set sail for summer with this adorable and classic 2-piece outfit. Perfect for beach days, family photos, or casual summer outings, this set combines a breathable cotton-blend tee with stylish striped shorts for a look that is as comfortable as it is cute. Product Highlights Nautical Design: Features a high-quality embroidered sailboat applique on the chest with intricate stitching and multi-texture fabric. Comfort First: The white short-sleeve T-shirt is crafted from a soft cotton-elastane blend (95% Cotton, 5% Elastane) for a gentle stretch that moves with your toddler. Seersucker-Style Shorts: Lightweight 100% polyester shorts feature a classic navy and white vertical stripe with a comfortable elastic waistband for quick changes. Versatile Fit: Designed to be true-to-size with a relaxed fit perfect for active play in warm weather. Size Chart Note: Please understand there may be a 1–2 cm deviation. Due to lighting and monitor settings, there may be a slight difference between the image and the real item. Size Top Length Bust Shoulder Pants Length Waist 6-12M 12.99" (33 cm) 20.47" (52 cm) 8.66" (22 cm) 8.78" (22.3 cm) 14.96" (38 cm) 12-18M 13.78" (35 cm) 21.26" (54 cm) 9.06" (23 cm) 9.29" (23.6 cm) 15.75" (40 cm) 18-24M 14.57" (37 cm) 22.44" (57 cm) 9.65" (24.5 cm) 9.80" (24.9 cm) 16.54" (42 cm) 2-3T 15.35" (39 cm) 23.62" (60 cm) 10.24" (26 cm) 10.43" (26.5 cm) 17.32" (44 cm) 3-4T 16.14" (41 cm) 24.80" (63 cm) 10.83" (27.5 cm) 10.83" (27.5 cm) 18.11" (46 cm) Specifications Material: Top: 95% Cotton, 5% Elastane | Shorts: 100% Polyester Color: White T-Shirt / Navy & White Striped Shorts Pattern: Sailboat Embroidery / Vertical Stripes Package Includes: 1 x Short Sleeve Top + 1 x Elastic Waist Shorts Care: Machine washable; tumble dry low.
-  Updated: 2026-05-03T04:08:08Z
+  Updated: 2026-05-10T04:06:27Z
   Vendor: Kidsely
   Product Type: 
   Availability: Available
@@ -6597,7 +6541,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S834884fea91340988039d1e2b2c038b9x.webp?v=1772649283
     Price: $32.99 USD
 - [Baby Rooster Corduroy Romper - Beige Unisex Overalls](https://kidsely.com/products/baby-rooster-corduroy-romper-beige): Shop our unisex rooster embroidery corduroy romper. Soft, stylish beige overalls for baby boys and girls (0-12M). Perfect for play or gifts. Shop now!
-  Updated: 2026-05-03T03:07:33Z
+  Updated: 2026-05-11T03:07:07Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -6619,7 +6563,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-boys-farm-rooster-chicken-romper.png?v=1777243819
     Price: $29.99 USD
 - [Toddler & Baby Girl Floral Summer Dress - Rose Princess Sundress (9M-3T)](https://kidsely.com/products/toddler-baby-girl-floral-rose-summer-princess-dress): Shop this adorable Toddler & Baby Girl Floral Summer Dress. Features a sweet rose pattern, adjustable shoulder bows, and a puffy princess fit. Sizes 9M-3T.
-  Updated: 2026-04-28T15:24:43Z
+  Updated: 2026-05-06T14:22:58Z
   Vendor: Kidsely
   Product Type: Baby Dresses
   Availability: Available
@@ -6641,7 +6585,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-girl-toddler-rose-tie-strap-sundress-mother_s-day-gifts.png?v=1774960762
     Price: $34.99 USD
 - [Baby & Toddler Girl Floral Embroidery Summer Princess Dress (9M-3T)](https://kidsely.com/products/baby-toddler-floral-embroidery-summer-princess-dress-shoulder-bows): Shop our floral embroidered princess dress for babies & toddlers. Soft cotton-blend with elegant halter bows. Perfect for birthdays (9M-3T). Shop now!
-  Updated: 2026-04-29T14:49:19Z
+  Updated: 2026-05-11T04:02:36Z
   Vendor: Kidsely
   Product Type: Baby Dresses
   Availability: Available
@@ -6679,7 +6623,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sabd73580c7b045e8bf6641ede6daf91bt.webp?v=1773162822
     Price: $34.99 USD
 - [3D Floral Baby & Toddler Girl Princess Summer Dress (3M-3T)](https://kidsely.com/products/3d-floral-baby-toddler-girl-princess-summer-mesh-dress): Stunning 3D flower mesh tutu for baby and toddler girls. Elegant sleeveless princess gown for special occasions. Sizes 3M-3T.
-  Updated: 2026-05-03T02:46:50Z
+  Updated: 2026-05-11T19:51:26Z
   Vendor: Kidsely
   Product Type: 
   Availability: Available
@@ -6781,7 +6725,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S759a247aa03a404592285ff84147222fx.webp?v=1772822709
     Price: $34.99 USD
 - [Baby Girls Muslin Cotton Summer Dress | Boho Eyelet Sun Dress (3M-24M)](https://kidsely.com/products/baby-girls-muslin-cotton-eyelet-summer-dress): Shop our soft muslin cotton baby girl sun dress. Features a boho eyelet lace hem, and a breathable sleeveless design. Perfect for summer! Sizes 3M-24M
-  Updated: 2026-05-03T04:08:00Z
+  Updated: 2026-05-10T04:06:36Z
   Vendor: Kidsely
   Product Type: Baby Dresses
   Availability: Available
@@ -6875,7 +6819,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-girl-floral-embroidered-cotton-romper-dress-with-headband-front.png?v=1772911509
     Price: $39.99 USD
 - [Toddler & Girls’ Blue Cotton Eyelet Lace Summer Dress | Sizes 2T-6](https://kidsely.com/products/blue-cotton-eyelet-lace-toddler-girls-summer-dress-2t-6): Shop this elegant toddler & girls’ blue cotton eyelet dress. Featuring breathable floral lace, a ruffle collar, and a V-back bow. Perfect for parties & weddings.
-  Updated: 2026-05-03T04:08:07Z
+  Updated: 2026-05-03T23:01:17Z
   Vendor: Kidsely
   Product Type: Baby Dresses
   Availability: Available
@@ -6901,7 +6845,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-blue-toddler-girls-eyelet-lace-summer-dress-mother_s-day-gift.png?v=1774966346
     Price: $39.99 USD
 - [Embroidered Baby Girl Summer Dress | Floral Cotton Sundress (6M-4T)](https://kidsely.com/products/embroidered-floral-baby-girl-summer-dress-4t): Shop this cute floral embroidered baby girl dress. Breathable cotton blend, vintage A-line fit, & back-button closure. Sizes 6M-4T. Perfect for summer!
-  Updated: 2026-05-03T04:08:07Z
+  Updated: 2026-05-11T13:34:35Z
   Vendor: Kidsely
   Product Type: 
   Availability: Available
@@ -6923,7 +6867,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/embroidered-floral-baby-girl-summer-dress-white-cotton-4t.png?v=1773009987
     Price: $39.99 USD
   - [Beige / 2-3T](https://kidsely.com/products/embroidered-floral-baby-girl-summer-dress-4t?variant=52369299571007)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/embroidered-floral-baby-girl-summer-dress-white-cotton-4t.png?v=1773009987
     Price: $39.99 USD
   - [Beige / 4T](https://kidsely.com/products/embroidered-floral-baby-girl-summer-dress-4t?variant=52369299702079)
@@ -6931,7 +6875,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/embroidered-floral-baby-girl-summer-dress-white-cotton-4t.png?v=1773009987
     Price: $39.99 USD
 - [Mystic Sage Green Fairy Floral Easter & Mother's Day Dress | 6M-5T](https://kidsely.com/products/mystic-sage-green-fairy-floral-tulle-easter-dress): Make her holiday magical in our Mystic Sage Green fairy tulle dress. Perfect for Easter, Mother's Day, and spring parties, this cotton-lined gown fits sizes 6M-5T.
-  Updated: 2026-05-03T04:08:10Z
+  Updated: 2026-05-11T19:48:06Z
   Vendor: Kidsely
   Product Type: Baby Dresses
   Availability: Available
@@ -6957,13 +6901,13 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/mystic-sage-green-baby-toddler-girls-floral-embroidery-easter-fairy-tulle-dress-flat-lay.png?v=1773063425
     Price: $39.99 USD
 - [Baby Girl Princess Floral First Walker Shoes - Soft Sole Infant Crib Flats with Bow & Petal Detail, (3-12M)](https://kidsely.com/products/baby-girl-princess-floral-first-walker-shoes-soft-sole-infant-crib-flats-with-bow-petal-detail-3-12m): Baby Girl Princess Floral First Walker Shoes | Soft Sole Crib Flats (3-12M) Give your little one a graceful start with these Floral First Walker Shoes. Designed specifically for infants and pre-walkers, these adorable crib shoes combine a delicate boutique aesthetic with the practical comfort needed for those first milestones. Whether you call them baby booties, crib shoes, or her very first pair of princess flats, these are the perfect accessory for Sunday best, weddings, birthdays, or memorable photo shoots. Crafted from breathable cotton cloth, they feature intricate 3D petal detailing and a signature mesh bow for a high-end look. Product Highlights Soft & Supportive: The flexible cotton outsole is specifically designed for "First Walkers," protecting developing feet while allowing for natural movement. All-Day Comfort: Lightweight, breathable cotton construction ensures tiny feet stay cool and comfortable during indoor or outdoor play. Easy-On, Stays-On: Features a convenient Hook & Loop (Velcro-style) closure, making them easy for parents to put on while staying secure on wiggly feet. Anti-Slip Traction: The soft sole is embossed with a cute paw-print pattern to provide extra grip for babies who are starting to stand or cruise. Boutique Style: Adorned with layered floral petals and a charming tulle bow to elevate any infant outfit. Size Guide (US Infant Sizing) For the best fit, please measure your baby’s foot from heel to toe. We recommend choosing a size that provides 0.25" to 0.5" of wiggle room for growth. US Size Advised Age Insole Length (Inches) Insole Length (cm) Infant 2 3-6 Months 4.33 in (11 cm) Infant 3 6-9 Months 4.72 in (12 cm) Infant 4 9-12 Months 5.12 in (13 cm) Specifications Material: Premium Cotton Cloth & Tulle Available Colors: Petal Pink, Antique White Closure Type: Hook & Loop Gender: Baby Girl Occasion: Christening, Wedding, Party, Casual Care Instructions: Gentle hand wash cold; air dry away from direct sunlight.
-  Updated: 2026-05-02T20:47:09Z
+  Updated: 2026-05-11T16:46:04Z
   Vendor: Kidsely
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-girl-princess-floral-first-walker-shoes-white-bows-3-12M.png?v=1773155808
   - [Ivory / 3-6M](https://kidsely.com/products/baby-girl-princess-floral-first-walker-shoes-soft-sole-infant-crib-flats-with-bow-petal-detail-3-12m?variant=52370717966655)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S430f9937cf0e4e308cbd3ae50f9b2f6dR.webp?v=1773155808
     Price: $29.99 USD
   - [Petal Pink / 6-9M](https://kidsely.com/products/baby-girl-princess-floral-first-walker-shoes-soft-sole-infant-crib-flats-with-bow-petal-detail-3-12m?variant=52370717999423)
@@ -6987,7 +6931,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sef9424b1962a4b45a2e88abad8bb9702F.webp?v=1773155808
     Price: $29.99 USD
 - [Infant Girls Lace Mary Jane Shoes - Soft Sole First Walkers (0-18M)](https://kidsely.com/products/infant-girls-floral-lace-mary-jane-special-occasion-shoes): Elegant floral lace Mary Janes for infants. Features a non-slip soft sole for ages 0-18M. Perfect for weddings, baptisms & special events. Shop now!
-  Updated: 2026-04-25T19:08:37Z
+  Updated: 2026-05-11T16:46:05Z
   Vendor: Kidsely
   Product Type: 
   Availability: Available
@@ -7005,7 +6949,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-infant-girls-cream-floral-lace-mary-jane-shoes.webp?v=1777144116
     Price: $29.99 USD
 - [Baby Girl White Scalloped Mary Janes - Non-Slip Rubber Sole First Walkers](https://kidsely.com/products/baby-girl-white-scalloped-mary-janes-non-slip-rubber-sole-first-walkers): Elegant White Scalloped Baby Mary Janes – Non-Slip First Walkers Give your little one the perfect blend of style and stability. These White Scalloped Baby Mary Janes are designed for infant girls transitioning from crawling to their very first steps. With a timeless silhouette and modern laser-cut edges, they are a versatile staple for your daughter's wardrobe—whether she's the star of an Easter egg hunt, a flower girl at a spring wedding, or simply dressing up for a family brunch. 🌟 Key Product Features Safety-First Design: Equipped with a durable non-slip rubber sole to provide maximum grip on hardwood floors and tiles. Easy-On Fastening: The adjustable hook-and-loop (velcro) strap ensures a snug fit while making it effortless for parents to slip them on and off. Breathable Comfort: Crafted with premium, soft synthetic leather and a cushioned inner lining to prevent rubbing on delicate skin. Classic Aesthetic: The crisp white finish and "cloud" scalloped detailing make these the perfect princess shoes for any special occasion. 📏 Size & Fit Guide To ensure the best fit, please measure your baby’s foot from heel to toe. We recommend adding 0.2" (0.5 cm) to the foot measurement for growth room. Suggested Age Insole Length (Inches) Insole Length (CM) 0–6 Months 4.33" (11 cm) 6–12 Months 4.72" (12 cm) 12–18 Months 5.12" (13 cm) 💡 Care Instructions To keep these white Mary Janes looking brand new, simply wipe them down with a damp cloth and mild soap. Air dry away from direct sunlight. 🎁 Perfect For: Baby Shower Gifts Baptism & Christening Outfits Easter Sunday & Spring Occasions First Birthday Photoshoots
-  Updated: 2026-04-05T01:39:41Z
+  Updated: 2026-05-11T16:46:05Z
   Vendor: Kidsely
   Product Type: 
   Availability: Available
@@ -7023,9 +6967,9 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sebd67ce61a10492dbd17d42020e4434bU_8a551a5e-4dd4-43aa-bfc8-340572441c9b.webp?v=1773075892
     Price: $29.99 USD
 - [Baby Girl First Walker Sandals - Soft Rubber Sole Bowknot Shoes](https://kidsely.com/products/baby-girl-first-walker-sandals-soft-rubber-sole-bowknot): Shop our adorable baby girl sandals. Featuring a soft rubber anti-slip sole, cute bowknot design, and scalloped edges. Perfect first walkers for ages 0-18 months.
-  Updated: 2026-04-28T13:38:29Z
+  Updated: 2026-05-11T16:46:05Z
   Vendor: Kidsely
-  Product Type: 
+  Product Type: Baby Girl Sandals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-girl-first-walker-sandals-soft-rubber-sole-bowknot-multi-colorst-rubber-sole-bowknot-multi-colorsda6d0ecd4ee2ae221e6775984a6f5.webp?v=1773084430
   - [Pink / 0-6 months](https://kidsely.com/products/baby-girl-first-walker-sandals-soft-rubber-sole-bowknot?variant=52371091751231)
@@ -7077,9 +7021,9 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sfda90725b489429696ede45973c61cc9b.webp?v=1773082944
     Price: $24.99 USD
 - [Patent Baby Girl Butterfly Mary Janes: Non-Slip Pre-Walkers (0-18M)](https://kidsely.com/products/patent-butterfly-baby-girl-mary-janes-pre-walker-shoe): Shop shiny patent baby girl Mary Janes with a glitter butterfly bow. Soft rubber non-slip soles make these the perfect crib shoes & pre-walkers for 0-18 months.
-  Updated: 2026-04-28T12:48:31Z
+  Updated: 2026-05-11T16:46:05Z
   Vendor: Kidsely
-  Product Type: 
+  Product Type: Baby Girl > Shoes > Pre-Walkers > Mary Janes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-patent-butterfly-baby-girl-mary-janes-colors-pink-white-black.webp?v=1777380510
   - [White / 0-6 Months](https://kidsely.com/products/patent-butterfly-baby-girl-mary-janes-pre-walker-shoe?variant=52371342229823)
@@ -7119,9 +7063,9 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/black-patent-butterfly-baby-girl-mary-janes.webp?v=1773095045
     Price: $29.99 USD
 - [Baby Girl Mary Janes | Bowknot First Walker Shoes with Rubber Sole (0-18M)](https://kidsely.com/products/baby-girl-mary-janes-bowknot-first-walker-shoes): Shop elegant baby girl Mary Janes with bowknots and non-slip rubber soles. Perfect first walkers for weddings and parties. Comfortable fit for 0-18 months.
-  Updated: 2026-04-29T20:35:16Z
+  Updated: 2026-05-11T16:46:06Z
   Vendor: Kidsely
-  Product Type: 
+  Product Type: Baby Girl > Shoes > Pre-Walkers > Mary Janes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S38af83cbc21a468ea3068c05367a0a48v.webp?v=1773159542
   - [Pink / 0-6 months](https://kidsely.com/products/baby-girl-mary-janes-bowknot-first-walker-shoes?variant=52374831825215)
@@ -7199,7 +7143,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/toddler-girls-purple-tulip-skirt-and-top-set.png?v=1773326653
     Price: $34.99 USD
 - [Baby Boy Gentleman Romper - Cotton Bow Tie Jumpsuit (0-24M)](https://kidsely.com/products/baby-boy-gentleman-cotton-romper-bow-tie-jumpsuit): Shop our baby boy gentleman romper. Made from 100% breathable cotton with a plaid bow tie. Perfect for summer weddings, family photos, and Easter. Sizes 0-24M.
-  Updated: 2026-05-03T04:08:17Z
+  Updated: 2026-05-04T04:10:06Z
   Vendor: Kidsely
   Product Type: 
   Availability: Available
@@ -7275,7 +7219,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-girl-toddler-yellow-dress-with-bow-straps.webp?v=1775680173
     Price: $39.99 USD
 - [Girls White Lace Ruffle Summer Dress - Soft Cotton Occasion Wear (2T-7)](https://kidsely.com/products/girls-white-lace-ruffle-summer-dress-occasion-wear): Shop our girls white lace princess dress. Soft cotton-lined and ruffle-trimmed, it’s the perfect outfit for Easter, Mother’s Day, and flower girls. Sizes 2T-7.
-  Updated: 2026-05-03T04:08:17Z
+  Updated: 2026-05-11T04:02:46Z
   Vendor: Kidsely
   Product Type: 
   Availability: Available
@@ -7305,7 +7249,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S92d98a1fb99040f9a1b8ea26407d274bC.webp?v=1773336674
     Price: $39.99 USD
 - [Baby Girl Muslin Cotton Romper & Sun Hat Set | Summer Outfit 3-18M](https://kidsely.com/products/baby-girl-muslin-cotton-romper-sun-hat-set-floral): Shop our breathable muslin cotton baby girl romper & matching sun hat set. Features adjustable tie-straps & floral print. Perfect for summer in sizes 3-18M.
-  Updated: 2026-04-27T04:13:58Z
+  Updated: 2026-05-10T22:35:53Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -7375,7 +7319,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S21b39427a0a24c47853ba9447cc5722b0.webp?v=1773353064
     Price: $39.99 USD
 - [Textured Dot Knitted Baby Blanket - 100% Cotton - 28" x 35"](https://kidsely.com/products/100-cotton-dotted-knitted-baby-blanket): Shop our 100% cotton knitted baby blanket. Features a soft popcorn dot texture & breathable knit—perfect for strollers and cribs. Size: 28x35in. Buy now!
-  Updated: 2026-05-01T02:15:46Z
+  Updated: 2026-05-11T13:35:51Z
   Vendor: Kidsely
   Product Type: Baby Blankets
   Availability: Available
@@ -7397,7 +7341,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/textured-popcorn-knit-baby-receiving-blanket-petal-pink.webp?v=1773415183
     Price: $42.99 USD
 - [100% Cotton Knit Baby Blanket - Soft Pointelle Receiving Blanket](https://kidsely.com/products/100-cotton-knit-pointelle-baby-blanket): Shop our breathable 100% cotton knit baby blanket. Soft pointelle design, hypoallergenic, and perfect for strollers. All-season comfort in 5 colors.
-  Updated: 2026-05-01T04:14:36Z
+  Updated: 2026-05-10T04:06:47Z
   Vendor: Kidsely
   Product Type: 
   Availability: Available
@@ -7423,7 +7367,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/100-cotton-knit-baby-blanket-sky-blue.webp?v=1773433222
     Price: $36.99 USD
 - [100% Cotton Knitted Lamb Baby Blanket - 28" x 35"](https://kidsely.com/products/100-cotton-knitted-baby-blaknitted-cotton-lamb-baby-blanket-stroller-wrap): Shop our 100% cotton knitted baby blanket featuring a soft lamb pattern. Breathable, anti-pilling, and sized 28"x35" for strollers, cribs, and swaddling.
-  Updated: 2026-05-02T18:09:18Z
+  Updated: 2026-05-11T08:55:57Z
   Vendor: Kidsely
   Product Type: Baby Blankets
   Availability: Available
@@ -7467,7 +7411,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-girl-toddler-pink-cream-tan-boho-dress.png?v=1773759072
     Price: $39.99 USD
 - [Princess 1 Birthday Dress | Baby & Toddler Summer Knit Outfit](https://kidsely.com/products/baby-toddler-princess-1-birthday-knit-dress): Celebrate her first birthday in our Princess birthday dress. Made from a cotton knit, this sporty A-line outfit is perfect for summer parties. Sizes 6M to 3T.
-  Updated: 2026-04-29T13:57:36Z
+  Updated: 2026-05-11T00:06:46Z
   Vendor: Kidsely
   Product Type: Baby Dresses
   Availability: Available
@@ -7477,7 +7421,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-girl-first-birthday-princess-dress.png?v=1773763457
     Price: $39.99 USD
   - [White/Pink / 9-12M](https://kidsely.com/products/baby-toddler-princess-1-birthday-knit-dress?variant=52428942967103)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-girl-first-birthday-princess-dress.png?v=1773763457
     Price: $39.99 USD
   - [White/Pink / 12-18M](https://kidsely.com/products/baby-toddler-princess-1-birthday-knit-dress?variant=52428942999871)
@@ -7493,7 +7437,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-girl-first-birthday-princess-dress.png?v=1773763457
     Price: $39.99 USD
 - [Floral Embroidered Cotton Muslin Baby Bubble Romper - White (6-18M)](https://kidsely.com/products/floral-embroidered-cotton-muslin-baby-bubble-romper): Adorable white cotton muslin bubble romper with floral embroidery and ruffle sleeves. Breezy, soft, and perfect for summer. Easy-change snaps. Sizes 6M-18M.
-  Updated: 2026-04-27T12:30:15Z
+  Updated: 2026-05-09T04:04:56Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -7519,7 +7463,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-floral-muslin-cotton-romper.png?v=1774917082
     Price: $39.99 USD
 - [3-Pack Baby Girl Floral Nylon Headbands | Soft Cable Knit Hair Accessories](https://kidsely.com/products/3-pack-baby-girl-floral-nylon-headbands-cable-knit): Shop our 3-pack of soft floral nylon headbands for babies. Stretch cable knit design ensures a no-mark fit from newborn to toddler. Perfect for any outfit!
-  Updated: 2026-04-30T04:08:46Z
+  Updated: 2026-05-05T04:07:56Z
   Vendor: Kidsely
   Product Type: Baby Headbands
   Availability: Available
@@ -7541,7 +7485,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/3-pack-baby-headbands-cream-terracotta-tan.webp?v=1774190799
     Price: $19.99 USD
 - [3-Pack Baby Nylon Headbands - Soft Cable Knit Stretchy Bows for Infants & Toddlers (0-3T)](https://kidsely.com/products/3-pack-baby-nylon-headbands-soft-cable-knit-stretchy-bows-for-infants-toddlers-0-3t): 3-Pack Premium Nylon Baby Headbands – Ultra-Soft Cable Knit Bows Give your little one the perfect finishing touch with our Premium Nylon Baby Headband Set. Designed with both style and comfort in mind, these headbands feature a classic cable knit texture and a soft, oversized bow that complements any outfit—from everyday playwear to special occasion dresses. Why Parents Love Our Headbands: Grow-With-Me Elasticity: Made from high-quality, "good elastic" nylon, these bands are designed to fit comfortably from newborn to 3T without losing their shape. Butter-Soft Nylon: We know baby skin is delicate. Our nylon material is ultra-breathable and remarkably soft, ensuring no red marks or irritation on your baby’s head. Classic Cable Knit Design: Each headband features a sophisticated textured weave that adds a high-end, boutique feel to your baby’s wardrobe. Curated Color Sets: From earthy neutrals and soft pastels to trendy leopard and floral prints, there is a 3-pack to match every style. Product Specifications: Material: 100% Premium Soft Nylon (Highly Stretchable) Size Range: Fits Newborn up to 3T Dimensions: 16cm x 9cm (Unstretched) Bow Size: 11cm Quantity: 3 Headbands per set Care Instructions: To keep the bows looking their best, we recommend a gentle hand wash in cold water and laying them flat to dry. Our Promise: These headbands are designed to be "the ones they'll actually keep on." Lightweight, stretchy, and incredibly cute.
-  Updated: 2026-05-03T04:08:18Z
+  Updated: 2026-05-08T04:05:47Z
   Vendor: Kidsely
   Product Type: Baby Headbands
   Availability: Available
@@ -7614,7 +7558,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S02b8ff3f71c94f9e9025d55a37ceed379.webp?v=1774192807
     Price: $19.99 USD
 - [3-Pack Baby Girl Floral Headbands | Soft Nylon Elastic Hair Bows (3M-8Y)](https://kidsely.com/products/3-pack-baby-girl-floral-headbands-soft-nylon-3m-8y): Handmade 3-pack baby floral headbands with soft nylon elastic. Comfortable fit for 3M-8Y. Perfect for newborn photos & gifts. In Dusty Rose, Sage, and Cream.
-  Updated: 2026-05-01T14:32:29Z
+  Updated: 2026-05-10T12:54:26Z
   Vendor: Kidsely
   Product Type: Baby Headbands
   Availability: Available
@@ -7640,7 +7584,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S8bd17979d83e4c3cb7c4f8eaa9caa8f66.webp?v=1774203893
     Price: $19.99 USD
 - [10Pcs Girls Flower & Butterfly Hair Ties - Cute Toddler Hair Accessories](https://kidsely.com/products/10pcs-girls-flower-butterfly-hair-ties-set): Shop our 10-piece set of cute butterfly and flower hair ties for girls. Soft elastic bands perfect for toddlers and kids. Gentle and stylish!
-  Updated: 2026-05-03T04:08:18Z
+  Updated: 2026-05-11T04:02:56Z
   Vendor: Kidsely
   Product Type: 
   Availability: Available
@@ -7678,7 +7622,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sd9ff0ea1fcca4ca083f5371bb377bf1c5.webp?v=1774214962
     Price: $24.99 USD
 - [Baby Girl Ribbed Summer Tank & Shorts Set | 3D Floral 6M-3T](https://kidsely.com/products/baby-girl-ribbed-floral-tank-shorts-set): Shop our adorable 2-piece baby girl summer outfit. Featuring a ribbed knit sleeveless tank with 3D floral appliqués and matching shorts. Perfect for 6M-3T.
-  Updated: 2026-05-03T04:08:17Z
+  Updated: 2026-05-10T02:45:39Z
   Vendor: Kidsely
   Product Type: Baby Outfits
   Availability: Available
@@ -7688,7 +7632,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/pink-ribbed-baby-girl-shorts-set-3d-floral-applique.png?v=1774277772
     Price: $34.99 USD
   - [Dusty Rose / 9-12M](https://kidsely.com/products/baby-girl-ribbed-floral-tank-shorts-set?variant=52520614920511)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/pink-ribbed-baby-girl-shorts-set-3d-floral-applique.png?v=1774277772
     Price: $34.99 USD
   - [Dusty Rose / 12-18M](https://kidsely.com/products/baby-girl-ribbed-floral-tank-shorts-set?variant=52520614887743)
@@ -7716,7 +7660,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/white-ribbed-baby-girl-shorts-set-3d-floral-applique.png?v=1774277772
     Price: $34.99 USD
   - [Petal White / 18-24M](https://kidsely.com/products/baby-girl-ribbed-floral-tank-shorts-set?variant=52520614953279)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/white-ribbed-baby-girl-shorts-set-3d-floral-applique.png?v=1774277772
     Price: $34.99 USD
   - [Petal White / 2-3T](https://kidsely.com/products/baby-girl-ribbed-floral-tank-shorts-set?variant=52520615084351)
@@ -7724,7 +7668,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/white-ribbed-baby-girl-shorts-set-3d-floral-applique.png?v=1774277772
     Price: $34.99 USD
 - [Daisy Embroidered Baby Girl Overall Dress | Blue Summer Jumper (6M-3T)](https://kidsely.com/products/baby-girl-daisy-embroidered-blue-overall-dress-6m-3t): Shop our darling light blue daisy embroidered overall dress for baby girls & toddlers. Made from durable polyester with adjustable straps. Perfect for summer! Sizes 6M-3T.
-  Updated: 2026-05-03T08:26:47Z
+  Updated: 2026-05-11T16:46:06Z
   Vendor: Kidsely
   Product Type: Baby Dresses
   Availability: Available
@@ -7750,7 +7694,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-daisy-embroidered-blue-overall-dress-flat-lay.png?v=1774917158
     Price: $39.99 USD
 - [Baby & Toddler Girl Mushroom Cotton Set | Blue Ruffle 2-Piece Outfit](https://kidsely.com/products/baby-toddler-girl-mushroom-patch-cotton-set-blue): Shop this adorable blue cotton set for baby & toddler girls (9M-4T). Features 3D mushroom patches and a breezy ruffle cami. Perfect for cute summer adventures!
-  Updated: 2026-04-27T23:48:48Z
+  Updated: 2026-05-07T05:01:12Z
   Vendor: Kidsely
   Product Type: 
   Availability: Available
@@ -7776,7 +7720,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-toddler-girl-mushroom-patch-2pc-set-blue.png?v=1774366211
     Price: $34.99 USD
 - [Floral Baby Cotton Romper - Boho Sunsuit 0-3T](https://kidsely.com/products/floral-cotton-baby-romper-boho-sunsuit-0-3t): Shop our 100% cotton floral baby romper. This vintage-style boho sunsuit features wood buttons and easy snaps for ages 0-3T. Perfect for summer! Shop now.
-  Updated: 2026-05-01T04:14:36Z
+  Updated: 2026-05-05T16:32:17Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -7822,7 +7766,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/cream-meadow-floral-cotton-baby-sunsuit-flat-lay.webp?v=1774387344
     Price: $32.99 USD
 - [Neutral Ticking-Stripe Sleeveless Baby Romper with Sun Hat (0-24M)](https://kidsely.com/products/ticking-stripe-sleeveless-baby-romper-sun-hat-set): Shop our 100% cotton ticking-stripe baby romper. This curated 2-piece set features a breathable sleeveless bodysuit and matching sun hat. Ideal for 0-24M.
-  Updated: 2026-05-03T04:08:18Z
+  Updated: 2026-05-11T06:00:27Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -7836,7 +7780,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-neutral-ticking-stripe-baby-romper-sun-hat-set.png?v=1774913511
     Price: $39.99 USD
   - [Oatmeal / 12-18M](https://kidsely.com/products/ticking-stripe-sleeveless-baby-romper-sun-hat-set?variant=52525614563647)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-neutral-ticking-stripe-baby-romper-sun-hat-set.png?v=1774913511
     Price: $39.99 USD
   - [Oatmeal / 18-24M](https://kidsely.com/products/ticking-stripe-sleeveless-baby-romper-sun-hat-set?variant=52525614498111)
@@ -7844,7 +7788,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-neutral-ticking-stripe-baby-romper-sun-hat-set.png?v=1774913511
     Price: $39.99 USD
 - [Baby & Toddler Gingham One-Piece Swimsuit & Matching Hat Set (9M-8Y)](https://kidsely.com/products/vintage-gingham-one-piece-swimsuit-matching-swim-cap-set-for-baby-toddler-girls-9m-8ygirls-gingham-one-piece-swimsuit-matching-cap-set): Shop our heirloom-quality gingham swimsuit for girls. Features a ruffle backless design & matching swim bonnet. Quick-dry, premium fabric for sizes 9M to 8Y.
-  Updated: 2026-04-20T13:26:44Z
+  Updated: 2026-05-10T15:14:40Z
   Vendor: Kidsely
   Product Type: 
   Availability: Available
@@ -7994,7 +7938,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/girls-seafoam-mint-green-gingham-swimsuit-matching-cap.webp?v=1774458504
     Price: $49.99 USD
 - [Girls Ruffle Floral One-Piece Swimsuit & Matching Cap Set](https://kidsely.com/products/girls-floral-ruffle-swimsuit-matching-cap-set): Shop our Wildflower Cream ruffle one-piece swimsuit for girls. This soft, quick-dry 2-piece set includes a matching swim cap. Sizes 12M–7Y. Order today!
-  Updated: 2026-04-20T13:24:46Z
+  Updated: 2026-05-05T04:08:08Z
   Vendor: Kidsely
   Product Type: 
   Availability: Available
@@ -8106,7 +8050,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-girls-pink-heart-ruffle-one-piece-swimsuit-with-cap-main.png?v=1776259252
     Price: $52.99 USD
 - [Toddler Girl Linen Cotton Ruffle Apron Dress (6M-5T)](https://kidsely.com/products/toddler-girl-linen-cotton-ruffle-apron-dress): Shop our breathable linen cotton ruffle apron dress for toddler girls. Featuring a boho cross-back design in Sage & Dusty Rose. Sizes 6M-5T. Free Shipping!
-  Updated: 2026-04-29T13:49:23Z
+  Updated: 2026-05-09T04:04:56Z
   Vendor: Kidsely
   Product Type: 
   Availability: Available
@@ -8192,7 +8136,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/toddler-girl-linen-cotton-ruffle-apron-dress-beige-gingham.webp?v=1774624765
     Price: $41.99 USD
 - [Baby Girl Floral Embroidered Romper Dress - Soft Cotton Princess Summer Bodysuit (0-2T)](https://kidsely.com/products/baby-girl-floral-embroidered-romper-dress-soft-cotton-princess-summer-bodysuit-0-2t): Summer Princess Floral Embroidered Baby Romper Dress (0-2T) Give your little princess the royal  with our Summer Strap Floral Romper. Expertly crafted for elegance and ease, this piece combines the beauty of a classic sun dress with the practical comfort of a soft cotton bodysuit. Whether it’s for a first birthday, family photos, or a breezy afternoon, this romper is a timeless addition to her summer wardrobe. Why You’ll Love It: Premium Material: Crafted from a high-quality cotton blend that is incredibly soft and breathable against delicate skin. Artisan Details: Features exquisite floral embroidery and a tiered ruffled hem that adds a sophisticated, boutique feel. Versatile Sizing: Now available in a wide range from 0-6M up to 12M-2T, ensuring the perfect fit as she grows. Practical Luxury: Includes dainty straps and a convenient three-snap bottom for quick, effortless diaper changes. Size Guide (US Standard) Size Height Range (Inches & cm) 0-6M 19" – 26.5" (48cm – 67cm) 6-9M 26.5" – 28.5" (67cm – 73cm) 9-12M 28.5" – 31.5" (73cm – 80cm) 12M-2T 31.5" – 39.5" (80cm – 100cm) Product Specifications: Material: Premium Cotton & Soft Polyester Blend Color: Soft Blossom Pink Item Type: Romper / Bodysuit Dress Care: Machine wash cold on gentle cycle; hang to dry to preserve embroidery. Discover More From Kidsely Looking for more ways to style your little girl this season? Explore our most popular collections: Shop Complete Looks: Browse our full collection of Baby Girls Matching Sets. One-Piece Wonders: For effortless style, check out our Baby Girls Rompers and Tops. Special Occasions: Find the perfect silhouette in our Baby Girls Dresses collection.
-  Updated: 2026-05-01T16:54:48Z
+  Updated: 2026-05-08T04:05:57Z
   Vendor: Kidsely
   Product Type: 
   Availability: Available
@@ -8214,7 +8158,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-floral-embroidered-romper-dress-pink-0-2t.png?v=1774909569
     Price: $39.99 USD
 - [Baby Girl 1st Birthday Romper - Sage Green Floral Tutu Set (6-18M)](https://kidsely.com/products/baby-girl-1st-birthday-floral-tutu-romper-sage-green): Celebrate her milestone with our premium 1st birthday romper. Features soft sage green cotton, floral tulle, and "One" embroidery. Includes matching headband.
-  Updated: 2026-05-02T16:06:29Z
+  Updated: 2026-05-11T21:23:27Z
   Vendor: Kidsely
   Product Type: 
   Availability: Available
@@ -8228,9 +8172,9 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S9cb4582628924374900bb3945e20164e6.webp?v=1774635313
     Price: $39.99 USD
 - [3-Piece Infant Baby Girl Summer Swimsuit with Sun Hat (0-24M)](https://kidsely.com/products/baby-girl-3pc-ruffle-swimsuit-set): Shop our 3-piece baby girl swimsuit set! Includes a ruffle halter top, tutu shorts, and sun hat. Soft, quick-dry fabric in 4 colors. Sizes 0-24M. Perfect for summer!
-  Updated: 2026-05-02T18:54:22Z
+  Updated: 2026-05-08T02:07:34Z
   Vendor: Kidsely
-  Product Type: 
+  Product Type: Apparel & Accessories > Clothing > Swimwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/pink-baby-girl-ruffle-bikini-tutu-shorts-sun-hat.webp?v=1776259184
   - [Pastel Pink / 0-6 Months](https://kidsely.com/products/baby-girl-3pc-ruffle-swimsuit-set?variant=52540664611135)
@@ -8390,7 +8334,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-girl-muslin-cotton-ruffle-set-white.webp?v=1774721566
     Price: $39.99 USD
 - [Girls Cross-Back Ruffle Swimsuit & Sun Cap Set (9M-9Y)](https://kidsely.com/products/girls-cross-back-ruffle-swimsuit-sun-cap-set-boho): Shop our premium boho girls' one-piece swimsuit set. Features a ruffle skirt, secure cross-back straps, and matching sun cap. Fits infants to age 9. Shop now!
-  Updated: 2026-05-01T13:26:51Z
+  Updated: 2026-05-11T04:03:06Z
   Vendor: Kidsely
   Product Type: 
   Availability: Available
@@ -8592,7 +8536,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/Sde56dd97c3cc47138f3805d82bb573bfd.webp?v=1774792214
     Price: $39.99 USD
 - [Girls Coastal Blue Striped Sailor Bubble Dress (3T-7Y) – Nautical Style](https://kidsely.com/products/coastal-blue-striped-sailor-bubble-dress-girls): Dress her in classic nautical style with our Coastal Blue and white striped sailor bubble dress. Features a crisp sailor collar, front bow, and voluminous bubble hem. Sizes 3T-7Y.
-  Updated: 2026-05-03T13:01:49Z
+  Updated: 2026-05-09T04:04:56Z
   Vendor: Kidsely
   Product Type: 
   Availability: Available
@@ -8798,7 +8742,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-toddler-girl-rash-guard-isla-palm.webp?v=1774820079
     Price: $45.99 USD
 - [Infant Baby Girl Daisy Print Romper Dress - Cotton Floral (0-18M)](https://kidsely.com/products/infant-baby-girl-daisy-print-romper-dress-0-18m): Shop our baby girl daisy print romper dress. Soft 95% cotton sleeveless floral jumpsuit with a Peter Pan collar & easy-snap bottom. Sizes 0-18M.
-  Updated: 2026-05-03T04:08:27Z
+  Updated: 2026-05-11T04:02:46Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -8808,7 +8752,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S5326a07f673e485a9b32628de1c47030k.webp?v=1774876263
     Price: $32.99 USD
   - [Sunshine Yellow / 3-6M](https://kidsely.com/products/infant-baby-girl-daisy-print-romper-dress-0-18m?variant=52587831591231)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S5326a07f673e485a9b32628de1c47030k.webp?v=1774876263
     Price: $32.99 USD
   - [Sunshine Yellow / 6-9M](https://kidsely.com/products/infant-baby-girl-daisy-print-romper-dress-0-18m?variant=52587831558463)
@@ -8816,7 +8760,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S5326a07f673e485a9b32628de1c47030k.webp?v=1774876263
     Price: $32.99 USD
   - [Sunshine Yellow / 9-12M](https://kidsely.com/products/infant-baby-girl-daisy-print-romper-dress-0-18m?variant=52587831525695)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/S5326a07f673e485a9b32628de1c47030k.webp?v=1774876263
     Price: $32.99 USD
   - [Sunshine Yellow / 12-18M](https://kidsely.com/products/infant-baby-girl-daisy-print-romper-dress-0-18m?variant=52587831492927)
@@ -8844,7 +8788,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/infant-baby-girl-sage-green-daisy-print-romper-dress.webp?v=1774876948
     Price: $32.99 USD
   - [Petal Pink / 0-3M](https://kidsely.com/products/infant-baby-girl-daisy-print-romper-dress-0-18m?variant=52587831296319)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/infant-baby-girl-pink-daisy-print-romper-dress.webp?v=1774876980
     Price: $32.99 USD
   - [Petal Pink / 3-6M](https://kidsely.com/products/infant-baby-girl-daisy-print-romper-dress-0-18m?variant=52587831263551)
@@ -8864,7 +8808,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/infant-baby-girl-pink-daisy-print-romper-dress.webp?v=1774876980
     Price: $32.99 USD
 - [Toddler Girls Striped Ruffle Jumpsuit | Cute Summer Romper (12M-5T)](https://kidsely.com/products/toddler-girls-striped-ruffle-jumpsuit-bow-romper): Shop our adorable toddler girls striped jumpsuit. Featuring ruffle straps and a cute front bow, this breathable cotton romper is perfect for summer play. Sizes 12M-5T.
-  Updated: 2026-05-01T04:14:50Z
+  Updated: 2026-05-08T19:18:12Z
   Vendor: Kidsely
   Product Type: 
   Availability: Available
@@ -8942,7 +8886,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/toddler-girls-striped-ruffle-romper-dusty-blue.webp?v=1774879824
     Price: $32.99 USD
 - [Cherry Print Baby Girl Summer 2-Piece Outfit Set](https://kidsely.com/products/baby-girl-cherry-print-smocked-top-ruffle-shorts-set): Shop our adorable cherry print baby girl summer set. Features a smocked fly sleeve top & ruffle shorts in soft cotton. Sizes 3-24M. Perfect for summer fun!
-  Updated: 2026-05-03T13:00:19Z
+  Updated: 2026-05-05T20:11:00Z
   Vendor: Kidsely
   Product Type: Baby Girls Matching Sets
   Availability: Available
@@ -8980,7 +8924,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-girl-white-cherry-print-smocked-top-ruffle-shorts-set.webp?v=1774882859
     Price: $32.99 USD
 - [Baby Girl Daisy Print 2-Piece Set: Sage & Dusty Rose | Kidsely](https://kidsely.com/products/baby-girl-daisy-print-2-piece-flying-sleeve-set): Shop the Kidsely Baby Girl Daisy Print 2-Piece Set. This adorable summer outfit features flying ruffle sleeves & matching bloomers in Sage Green & Dusty Rose.
-  Updated: 2026-04-13T15:52:49Z
+  Updated: 2026-05-10T15:02:34Z
   Vendor: Kidsely
   Product Type: 
   Availability: Available
@@ -9034,7 +8978,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-daisy-print-outfit-muted-lavender-set.webp?v=1774885734
     Price: $34.99 USD
 - [Smocked Cotton Baby Girl Bubble Romper - Cottagecore Summer Style | Kidsely](https://kidsely.com/products/baby-girl-smocked-cotton-cottagecore-bubble-romper): Shop our Antique Cream & French Blue smocked cotton bubble romper. A vintage cottagecore style with breathable ruffles. Perfect for summer photos. Sizes 0-24M.
-  Updated: 2026-04-30T04:08:57Z
+  Updated: 2026-05-11T04:02:57Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -9072,7 +9016,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-antique-cream-smocked-cotton-baby-girl-bubble-romper-flat-lay.webp?v=1774903449
     Price: $32.99 USD
 - [Baby Girl Pearl Ivory Lace Romper Dress - Princess Bodysuit (3-24M)](https://kidsely.com/products/baby-girl-pearl-ivory-lace-embroidery-romper-dress): Shop our Pearl Ivory lace romper dress for baby girls. A soft cotton princess bodysuit with floral embroidery, perfect for 1st birthdays and Mother's Day.
-  Updated: 2026-04-26T12:23:37Z
+  Updated: 2026-05-10T04:06:56Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -9140,7 +9084,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-girls-candy-pink-checkered-pastoral-summer-dress.png?v=1774973985
     Price: $52.99 USD
 - [Baby Girl "Rainbow Hearts" Muslin Romper & Sun Hat Set (3-18M)](https://kidsely.com/products/baby-girl-rainbow-hearts-muslin-romper-hat-set): Shop our 2-piece "Rainbow Hearts" muslin cotton baby girl romper & sun hat set. Lightweight, breathable 100% cotton for summer. Easy diaper changes. 3-18M.
-  Updated: 2026-04-26T04:11:37Z
+  Updated: 2026-05-09T15:11:22Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -9161,44 +9105,44 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-muslin-rainbow-hearts-romper-sun-hat-set-white-flat-lay.webp?v=1775052217
     Price: $34.99 USD
-- [Infant Sailor Bubble Romper | Soft Muslin Cotton (3-24M)](https://kidsely.com/products/baby-sailor-muslin-bubble-romper): Shop our vintage-inspired Sailor Bubble Romper. Made from breathable Sea Salt & Deep Sea muslin cotton for a soft, nautical summer look. Perfect for 3-24M!
-  Updated: 2026-05-02T04:10:57Z
+- [Baby Boy Sailor Outfit - Muslin Cotton Bubble Romper (3-24M)](https://kidsely.com/products/baby-sailor-muslin-bubble-romper): The perfect Baby Boy Sailor Outfit for summer. Soft, breathable muslin cotton in Sea Salt & Deep Sea. Vintage bubble fit for photos & play. Shop sizes 3-24M!
+  Updated: 2026-05-09T04:18:50Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/infant-sailor-bubble-romper-muslin-deep-sea-navy-flat-lay.webp?v=1775138729
-  - [Deep Sea / 3-6M](https://kidsely.com/products/baby-sailor-muslin-bubble-romper?variant=52602061947199)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/infant-sailor-bubble-romper-muslin-deep-sea-navy-flat-lay.webp?v=1775138729
-    Price: $32.99 USD
-  - [Deep Sea / 6-12M](https://kidsely.com/products/baby-sailor-muslin-bubble-romper?variant=52602061914431)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/infant-sailor-bubble-romper-muslin-deep-sea-navy-flat-lay.webp?v=1775138729
-    Price: $32.99 USD
-  - [Deep Sea / 12-18M](https://kidsely.com/products/baby-sailor-muslin-bubble-romper?variant=52602061881663)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/infant-sailor-bubble-romper-muslin-deep-sea-navy-flat-lay.webp?v=1775138729
-    Price: $32.99 USD
-  - [Deep Sea / 18-24M](https://kidsely.com/products/baby-sailor-muslin-bubble-romper?variant=52602061848895)
+  Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-infant-sailor-bubble-romper-muslin-deep-sea-navy-flat-lay.webp?v=1778173687
+  - [Deep Sea / 3-6M](https://kidsely.com/products/baby-sailor-muslin-bubble-romper?variant=52947526779199)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/infant-sailor-bubble-romper-muslin-deep-sea-navy-flat-lay.webp?v=1775138729
-    Price: $32.99 USD
-  - [Sea Salt / 3-6M](https://kidsely.com/products/baby-sailor-muslin-bubble-romper?variant=52602062078271)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/infant-sailor-bubble-romper-muslin-sea-salt-off-white.webp?v=1775138681
-    Price: $32.99 USD
-  - [Sea Salt / 6-12M](https://kidsely.com/products/baby-sailor-muslin-bubble-romper?variant=52602062045503)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/infant-sailor-bubble-romper-muslin-sea-salt-off-white.webp?v=1775138681
-    Price: $32.99 USD
-  - [Sea Salt / 12-18M](https://kidsely.com/products/baby-sailor-muslin-bubble-romper?variant=52602062012735)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/infant-sailor-bubble-romper-muslin-sea-salt-off-white.webp?v=1775138681
-    Price: $32.99 USD
-  - [Sea Salt / 18-24M](https://kidsely.com/products/baby-sailor-muslin-bubble-romper?variant=52602061979967)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/infant-sailor-bubble-romper-muslin-sea-salt-off-white.webp?v=1775138681
-    Price: $32.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-infant-sailor-bubble-romper-muslin-deep-sea-navy-flat-lay.webp?v=1778173687
+    Price: $38.99 USD
+  - [Deep Sea / 6-9M](https://kidsely.com/products/baby-sailor-muslin-bubble-romper?variant=52947526746431)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-infant-sailor-bubble-romper-muslin-deep-sea-navy-flat-lay.webp?v=1778173687
+    Price: $38.99 USD
+  - [Deep Sea / 9-12M](https://kidsely.com/products/baby-sailor-muslin-bubble-romper?variant=52947526844735)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-infant-sailor-bubble-romper-muslin-deep-sea-navy-flat-lay.webp?v=1778173687
+    Price: $38.99 USD
+  - [Deep Sea / 12-24M](https://kidsely.com/products/baby-sailor-muslin-bubble-romper?variant=52947526811967)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-infant-sailor-bubble-romper-muslin-deep-sea-navy-flat-lay.webp?v=1778173687
+    Price: $38.99 USD
+  - [Sea Salt / 3-6M](https://kidsely.com/products/baby-sailor-muslin-bubble-romper?variant=52947526910271)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-infant-sailor-bubble-romper-muslin-sea-salt-off-white.webp?v=1778257487
+    Price: $38.99 USD
+  - [Sea Salt / 6-9M](https://kidsely.com/products/baby-sailor-muslin-bubble-romper?variant=52947526877503)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-infant-sailor-bubble-romper-muslin-sea-salt-off-white.webp?v=1778257487
+    Price: $38.99 USD
+  - [Sea Salt / 9-12M](https://kidsely.com/products/baby-sailor-muslin-bubble-romper?variant=52947526975807)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-infant-sailor-bubble-romper-muslin-sea-salt-off-white.webp?v=1778257487
+    Price: $38.99 USD
+  - [Sea Salt / 12-24M](https://kidsely.com/products/baby-sailor-muslin-bubble-romper?variant=52947526943039)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-infant-sailor-bubble-romper-muslin-sea-salt-off-white.webp?v=1778257487
+    Price: $38.99 USD
 - [Baby Boys' Cotton Ribbed Romper Set | 2-Pack Shortall Jumpsuits](https://kidsely.com/products/baby-boys-cotton-ribbed-romper-shortall-2-pack): Shop our 2-pack of baby boys' cotton ribbed rompers. Cute dinosaur, safari, and nautical prints in shortall styles. Perfect baby shower gift! Sizes 0-12M.
   Updated: 2026-04-13T15:37:38Z
   Vendor: Kidsely
@@ -9372,7 +9316,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/baby-girl-citron-orange-muslin-rose-floral-romper-set.webp?v=1775150097
     Price: $34.99 USD
 - [4-Piece Newborn Baby Boy Cotton Bodysuits - Animal Print Romper Set](https://kidsely.com/products/4-piece-newborn-baby-boy-cotton-bodysuit-set-0-12m): Shop our 4-piece newborn baby boy cotton bodysuit set. Featuring soft 100% cotton, easy-change snaps, and adorable lion & bear prints. Perfect for ages 0-12M.
-  Updated: 2026-05-03T13:01:49Z
+  Updated: 2026-05-11T04:03:06Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -9426,7 +9370,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-4-piece-baby-boy-bodysuit-set-little-lion-yellow.webp?v=1775257792
     Price: $36.99 USD
 - [4-Piece Newborn Baby Girl Cotton Bodysuits - Animal & Fruit Romper Set](https://kidsely.com/products/4-piece-newborn-baby-girl-cotton-bodysuits-short-sleeve-romper-set-0-12m): Shop our 4-piece newborn baby girl cotton bodysuit set. 100% soft cotton, easy-change snaps, and cute lion & apple prints. Perfect gift!
-  Updated: 2026-04-28T09:29:46Z
+  Updated: 2026-05-09T15:59:06Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -9463,30 +9407,30 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-4-pack-baby-girl-cotton-rompers-mamas-pick-pink-apple.webp?v=1775257744
     Price: $36.99 USD
-- [Ivory Floral Embroidered Baby Girl Bubble Romper (3-24 Months)](https://kidsely.com/products/ivory-floral-embroidered-baby-girl-cotton-bubble-romper): Shop our 100% cotton ivory bubble romper for baby girls. Featuring vintage black floral embroidery, a scalloped lapel collar, and easy-change snaps. Perfect for summer!
-  Updated: 2026-05-03T13:00:19Z
+- [Ivory Floral Embroidered Baby Girl Bubble Romper (3-24 Months)](https://kidsely.com/products/ivory-floral-embroidered-baby-girl-cotton-bubble-romper): Shop our 100% cotton ivory bubble romper for baby girls. Features vintage black floral embroidery, a scalloped lapel, and easy-change snaps.
+  Updated: 2026-05-11T02:56:40Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-white-navy-floral-embroidered-cotton-summer-bubble-romper.png?v=1775312917
-  - [Ivory / 3-6M](https://kidsely.com/products/ivory-floral-embroidered-baby-girl-cotton-bubble-romper?variant=52686059569471)
+  Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-white-black-floral-embroidered-cotton-summer-bubble-romper.png?v=1778254625
+  - [Ivory / Black / 3-6M](https://kidsely.com/products/ivory-floral-embroidered-baby-girl-cotton-bubble-romper?variant=52686059569471)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-white-navy-floral-embroidered-cotton-summer-bubble-romper.png?v=1775312917
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-white-black-floral-embroidered-cotton-summer-bubble-romper.png?v=1778254625
     Price: $36.99 USD
-  - [Ivory / 6-9M](https://kidsely.com/products/ivory-floral-embroidered-baby-girl-cotton-bubble-romper?variant=52686059536703)
+  - [Ivory / Black / 6-9M](https://kidsely.com/products/ivory-floral-embroidered-baby-girl-cotton-bubble-romper?variant=52686059536703)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-white-navy-floral-embroidered-cotton-summer-bubble-romper.png?v=1775312917
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-white-black-floral-embroidered-cotton-summer-bubble-romper.png?v=1778254625
     Price: $36.99 USD
-  - [Ivory / 9-12M](https://kidsely.com/products/ivory-floral-embroidered-baby-girl-cotton-bubble-romper?variant=52686059503935)
+  - [Ivory / Black / 9-12M](https://kidsely.com/products/ivory-floral-embroidered-baby-girl-cotton-bubble-romper?variant=52686059503935)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-white-navy-floral-embroidered-cotton-summer-bubble-romper.png?v=1775312917
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-white-black-floral-embroidered-cotton-summer-bubble-romper.png?v=1778254625
     Price: $36.99 USD
-  - [Ivory / 12-24M](https://kidsely.com/products/ivory-floral-embroidered-baby-girl-cotton-bubble-romper?variant=52686059471167)
+  - [Ivory / Black / 12-24M](https://kidsely.com/products/ivory-floral-embroidered-baby-girl-cotton-bubble-romper?variant=52686059471167)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-white-navy-floral-embroidered-cotton-summer-bubble-romper.png?v=1775312917
+    Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-white-black-floral-embroidered-cotton-summer-bubble-romper.png?v=1778254625
     Price: $36.99 USD
 - [Baby Girl Floral Cotton Romper & Matching Sun Hat Set (0-24M)](https://kidsely.com/products/baby-girl-floral-cotton-romper-matching-hat-set): Shop our 100% cotton baby girl floral romper set. Features ruffled sleeves, double bows, and a matching sun hat. Perfect for summer outings and special occasions.
-  Updated: 2026-05-03T13:01:39Z
+  Updated: 2026-05-11T04:03:07Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -9508,25 +9452,25 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-floral-cotton-romper-matching-hat-set.webp?v=1775312889
     Price: $36.99 USD
 - [Flower Embroidery Baby Girl Ribbed Romper - Summer Bodysuit | Kidsely](https://kidsely.com/products/products-baby-girl-flower-embroidery-ribbed-romper): Shop our sweet flower embroidery baby girl romper. This ribbed viscose bodysuit features soft 3D towel embroidery and easy-snap bottoms. Perfect for summer!
-  Updated: 2026-05-03T13:01:50Z
+  Updated: 2026-05-11T18:37:32Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girl-flower-embroidery-ribbed-romper-pink-white-variants.webp?v=1775328309
   - [Dusty Rose / 1-3M](https://kidsely.com/products/products-baby-girl-flower-embroidery-ribbed-romper?variant=52697944391999)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-pink-baby-girl-flower-embroidery-ribbed-romper-bodysuit.webp?v=1775328320
     Price: $29.99 USD
   - [Dusty Rose / 3-6M](https://kidsely.com/products/products-baby-girl-flower-embroidery-ribbed-romper?variant=52697944359231)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-pink-baby-girl-flower-embroidery-ribbed-romper-bodysuit.webp?v=1775328320
     Price: $29.99 USD
   - [Dusty Rose / 6-9M](https://kidsely.com/products/products-baby-girl-flower-embroidery-ribbed-romper?variant=52697944326463)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-pink-baby-girl-flower-embroidery-ribbed-romper-bodysuit.webp?v=1775328320
     Price: $29.99 USD
   - [Dusty Rose / 9-12M](https://kidsely.com/products/products-baby-girl-flower-embroidery-ribbed-romper?variant=52697944490303)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-pink-baby-girl-flower-embroidery-ribbed-romper-bodysuit.webp?v=1775328320
     Price: $29.99 USD
   - [Dusty Rose / 12-18M](https://kidsely.com/products/products-baby-girl-flower-embroidery-ribbed-romper?variant=52697944457535)
@@ -9576,7 +9520,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-baby-girls-wildflower-meadow-2pc-eyelet-camisole-floral-bloomer-set.png?v=1775336376
     Price: $45.99 USD
 - [Floral Embroidered Flutter Sleeve Baby Romper | White Eyelet (3M-24M)](https://kidsely.com/products/white-eyelet-floral-embroidered-flutter-sleeve-baby-romper): Shop our Garden Floral white eyelet baby romper. 100% breathable cotton with flutter sleeves & easy snaps. Perfect for spring photos. Sizes 3M to 24M.
-  Updated: 2026-05-03T04:08:37Z
+  Updated: 2026-05-08T04:06:07Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -9598,7 +9542,7 @@
     Image: https://cdn.shopify.com/s/files/1/0863/7294/2143/files/kidsely-garden-floral-white-eyelet-baby-romper-flat-lay.png?v=1775344471
     Price: $45.99 USD
 - [Premium Ribbed Cotton Baby Boy Romper | Summer Bodysuit (0-24M)](https://kidsely.com/products/premium-ribbed-cotton-baby-boy-romper-short-sleeve-bodysuit): Shop our curated Premium Ribbed Cotton Baby Boy Romper. Soft, breathable summer bodysuit in modern earth tones: Wild Sage, Dusty Indigo & Roasted Mocha. 0-24M.
-  Updated: 2026-05-03T13:01:57Z
+  Updated: 2026-05-10T02:57:15Z
   Vendor: Kidsely
   Product Type: Baby Rompers
   Availability: Available
@@ -9710,7 +9654,7 @@
   Updated: 2026-03-31T01:01:08Z
   Total Products: 12
 - [0-3T Apparel](https://kidsely.com/collections/apparel)
-  Updated: 2026-05-01T11:21:37Z
+  Updated: 2026-05-09T11:24:44Z
   Total Products: 58
 - [Feeding](https://kidsely.com/collections/feeding)
   Updated: 2026-05-01T11:21:37Z
@@ -9722,13 +9666,13 @@
   Updated: 2026-03-31T01:01:08Z
   Total Products: 26
 - [Handmade Knit Baby Booties | Soft Sole Pre-Walkers (0-12M) Collection](https://kidsely.com/collections/crib-shoes): Shop our collection of handmade knit baby booties for 0-12 months. Featuring soft anti-slip soles, ruffled details, and secure ties. The perfect cozy crib shoes.
-  Updated: 2026-05-03T11:26:00Z
-  Total Products: 32
+  Updated: 2026-05-11T19:52:48Z
+  Total Products: 36
 - [Accessories](https://kidsely.com/collections/accessories)
   Updated: 2026-04-29T11:20:49Z
   Total Products: 34
 - [Clothing](https://kidsely.com/collections/clothing)
-  Updated: 2026-05-01T11:21:37Z
+  Updated: 2026-05-09T11:24:44Z
   Total Products: 57
 - [Blankets](https://kidsely.com/collections/blankets)
   Updated: 2026-04-23T04:02:37Z
@@ -9746,29 +9690,29 @@
   Updated: 2026-03-31T01:01:09Z
   Total Products: 8
 - [Boys](https://kidsely.com/collections/boys)
-  Updated: 2026-05-03T11:26:00Z
-  Total Products: 67
+  Updated: 2026-05-08T16:55:48Z
+  Total Products: 70
 - [All Products](https://kidsely.com/collections/all-products)
-  Updated: 2026-05-03T11:26:00Z
-  Total Products: 321
+  Updated: 2026-05-11T19:52:48Z
+  Total Products: 336
 - [Spring 2026](https://kidsely.com/collections/spring-2026)
-  Updated: 2026-05-03T11:26:00Z
+  Updated: 2026-05-10T11:26:48Z
   Total Products: 119
 - [Baby Girl Dresses | Vintage, Boho & Cottagecore Styles | Kidsely](https://kidsely.com/collections/baby-girls-dresses): Shop our curated collection of baby girl dresses. From vintage smocked florals to boho lace and cottagecore styles, find the perfect dress for every special occasion.
-  Updated: 2026-05-03T11:26:00Z
-  Total Products: 65
+  Updated: 2026-05-11T11:20:47Z
+  Total Products: 67
 - [Baby Girl Rompers | Vintage & Boho Boutique Styles | Kidsely](https://kidsely.com/collections/baby-girls-rompers-and-tops): Shop our curated collection of baby girl rompers. From vintage-inspired lace to boho floral embroidery and soft cotton bubbles—find the perfect piece today.
-  Updated: 2026-05-02T11:23:16Z
-  Total Products: 62
+  Updated: 2026-05-10T11:26:48Z
+  Total Products: 68
 - [Baby Girl Matching Sets | Boutique Coordinated Outfits | Kidsely](https://kidsely.com/collections/baby-girl-matching-sets): Shop our curated baby girl matching sets. From vintage floral 2-piece outfits to boho linen bloomer sets, find the perfect gift-ready look for your little one.
-  Updated: 2026-05-01T11:21:37Z
-  Total Products: 42
+  Updated: 2026-05-09T22:57:55Z
+  Total Products: 46
 - [Baby Boys Matching Sets](https://kidsely.com/collections/baby-boys-matching-sets)
-  Updated: 2026-04-09T11:22:47Z
-  Total Products: 19
+  Updated: 2026-05-07T19:48:14Z
+  Total Products: 20
 - [Baby Boys Rompers & Tops](https://kidsely.com/collections/baby-boys-rompers-and-tops)
-  Updated: 2026-04-29T14:08:37Z
-  Total Products: 30
+  Updated: 2026-05-08T16:19:27Z
+  Total Products: 31
 - [Baby Girls Sleepwear](https://kidsely.com/collections/baby-girls-sleepwear)
   Updated: 2026-03-31T01:01:09Z
   Total Products: 20
@@ -9782,50 +9726,50 @@
   Updated: 2026-04-14T14:18:32Z
   Total Products: 10
 - [Baby Matching Sets](https://kidsely.com/collections/baby-matching-sets)
-  Updated: 2026-05-01T11:21:37Z
-  Total Products: 56
-- [Spring 2026](https://kidsely.com/collections/spring-2026-1)
-  Updated: 2026-05-03T11:26:00Z
-  Total Products: 104
-- [Baby Girls  (0-3T)](https://kidsely.com/collections/baby-girls-collection)
-  Updated: 2026-05-03T11:26:00Z
-  Total Products: 169
-- [Baby Boys (0-3T)](https://kidsely.com/collections/baby-boys-collection)
-  Updated: 2026-04-29T14:08:37Z
+  Updated: 2026-05-09T22:57:55Z
   Total Products: 61
+- [Spring 2026](https://kidsely.com/collections/spring-2026-1)
+  Updated: 2026-05-10T11:26:48Z
+  Total Products: 109
+- [Baby Girls  (0-3T)](https://kidsely.com/collections/baby-girls-collection)
+  Updated: 2026-05-11T11:20:47Z
+  Total Products: 178
+- [Baby Boys (0-3T)](https://kidsely.com/collections/baby-boys-collection)
+  Updated: 2026-05-08T16:19:27Z
+  Total Products: 63
 - [Butterfly Wing Baby Clothes | Whimsical Rompers & Dresses](https://kidsely.com/collections/butterfly-wing-baby-clothes): Give your little one wings with our whimsical butterfly baby apparel. Unique wing-back dresses and rompers for magical milestones. Shop the collection! Free Shipping!
-  Updated: 2026-05-02T11:23:16Z
-  Total Products: 5
+  Updated: 2026-05-10T11:26:48Z
+  Total Products: 16
 - [Girls Dresses](https://kidsely.com/collections/girls-dresses)
-  Updated: 2026-05-03T11:26:00Z
-  Total Products: 32
+  Updated: 2026-05-11T11:20:47Z
+  Total Products: 33
 - [Girls (3T+)](https://kidsely.com/collections/girls-3t)
-  Updated: 2026-05-03T11:26:00Z
-  Total Products: 35
+  Updated: 2026-05-11T11:20:47Z
+  Total Products: 36
 - [Girls Matching Sets](https://kidsely.com/collections/girls-matching-sets)
-  Updated: 2026-04-28T19:07:03Z
+  Updated: 2026-05-09T22:57:55Z
   Total Products: 5
 - [Girls Hair Accessories](https://kidsely.com/collections/girls-headbands)
-  Updated: 2026-05-02T11:23:16Z
+  Updated: 2026-05-04T11:23:12Z
   Total Products: 5
 - [Girls Swimwear](https://kidsely.com/collections/girls-swimwear)
-  Updated: 2026-05-03T11:26:00Z
+  Updated: 2026-05-08T11:24:09Z
   Total Products: 17
 - [Mother's Day Gifts](https://kidsely.com/collections/mothers-day-gifts): Mother’s Day Baby Apparel & Gift Collection (2026) Looking for the best first Mother’s Day baby outfit? The Kidsely 2026 collection features boutique-quality apparel, including our signature Tulip Petal Dress, designed for spring family photoshoots and garden brunches. Collection At-A-Glance Best For: First Mother's Day, Spring Photos, Baby Gifts Shipping Deadline: Order by April 26, 2026 for May 10 Delivery Sizes Available: 0-3 Months to 24 Months Trending: The Tulip Petal Baby Dress Our hero product for 2026 is the Tulip Petal Romper Dress. It features 3D fabric "petals" and adjustable straps, making it a unique keepsake for a new mom’s first celebration. This piece pairs perfectly with white knee-high socks or floral headbands. Common Questions What are the best colors for Mother's Day baby photos? For 2026, soft pastels like blush pink, sage green, and creamy whites are trending. Our Tulip dress incorporates these shades to complement most outdoor garden settings. How long does shipping take for Mother's Day outfits? Standard shipping typically takes 10–14 days. To ensure arrival by Mother's Day (May 10), please place your order no later than April 26.
-  Updated: 2026-05-02T11:23:16Z
+  Updated: 2026-05-09T11:24:44Z
   Total Products: 13
 - [Floral Baby Rompers](https://kidsely.com/collections/floral-baby-rompers)
-  Updated: 2026-05-03T11:26:00Z
+  Updated: 2026-05-04T11:23:12Z
   Total Products: 22
 - [Sweet Fruit Baby Rompers, Dresses & Swimsuits | Kidsely](https://kidsely.com/collections/the-fresh-picked-fruit-collection): Shop our sweet Strawberry, Cherry, and Watermelon baby collection. Soft, boutique-quality fruit rompers and swimsuits perfect for summer memories. Shop now!
-  Updated: 2026-05-03T14:08:21Z
-  Total Products: 15
+  Updated: 2026-05-11T11:20:47Z
+  Total Products: 19
 - [USA](https://kidsely.com/collections/usa)
-  Updated: 2026-04-29T00:02:51Z
-  Total Products: 2
-- [Boys Swimwear](https://kidsely.com/collections/boys-swimwear)
-  Updated: 2026-05-03T11:26:00Z
+  Updated: 2026-05-07T22:44:11Z
   Total Products: 6
+- [Boys Swimwear](https://kidsely.com/collections/boys-swimwear)
+  Updated: 2026-05-08T16:55:48Z
+  Total Products: 7
 
 ## Blogs
 
@@ -9834,6 +9778,30 @@
     Updated: 2026-05-03T14:11:22Z
     Author: Kidsely
     Tags: children's clothing, cottagecore, creative ways to style, fashion, strawbery dress, styling tips, vintage, vintage dress outfit
+  - [How to Style the Baby & Toddler Girl Floral Embroidery Bubble Dress for Any Special Occasion](https://kidsely.com/blogs/news/how-to-style-the-baby-toddler-girl-floral-embroidery-bubble-dress-for-any-special-occasion): How to Style the Baby & Toddler Girl Floral Embroidery Bubble Dress for Any Special Occasion
+    Updated: 2026-05-03T14:26:47Z
+    Author: Kidsely
+    Tags: baby girl outfit, bubble dress ideas, dress, embroidery fashion, floral, special occasion styling, style, toddler dresses
+  - [5 Reasons Why the Baby Girl Floral Lace Romper Is a Must-Have for Your Little One's Wardrobe](https://kidsely.com/blogs/news/5-reasons-why-the-baby-girl-floral-lace-romper-is-a-must-have-for-your-little-ones-wardrobe): 5 Reasons Why the Baby Girl Floral Lace Romper Is a Must-Have for Your Little One's Wardrobe
+    Updated: 2026-05-03T14:29:25Z
+    Author: Kidsely
+    Tags: baby clothes, floral, girl outfits, lace, must-have baby garment, romper, stylish baby romper, toddler fashion
+  - [Why the Cherry Print 2-Piece Summer Outfit is Perfect for Your Newborn Girl](https://kidsely.com/blogs/news/why-the-cherry-print-2-piece-summer-outfit-is-perfect-for-your-newborn-girl): Why the Cherry Print 2-Piece Summer Outfit is Perfect for Your Newborn Girl
+    Updated: 2026-05-04T06:04:01Z
+    Author: Kidsely
+    Tags: adorable cherry print clothes for infant, baby girl, cherry, fashion trends, newborn clothing, outfit, stylish summer outfit for girls, summer
+  - [Elevate Your Baby's Style with the Floral Lace Romper and Headband Set This Season](https://kidsely.com/blogs/news/elevate-your-babys-style-with-the-floral-lace-romper-and-headband-set-this-season): Elevate Your Baby's Style with the Floral Lace Romper and Headband Set This Season
+    Updated: 2026-05-05T08:05:47Z
+    Author: Kidsely
+    Tags: baby, baby fashion trends, baby outfits, cute baby clothing, floral, headband set, romper, seasonal styles
+  - [The Best Ways to Style the Waffle Knit Baby Girl Romper and Bonnet Set This Summer](https://kidsely.com/blogs/news/the-best-ways-to-style-the-waffle-knit-baby-girl-romper-and-bonnet-set-this-summer): The Best Ways to Style the Waffle Knit Baby Girl Romper and Bonnet Set This Summer
+    Updated: 2026-05-07T00:09:31Z
+    Author: Kidsely
+    Tags: baby, baby girl outfits, bonnet styling tips, knit, romper, summer fashion, toddler summer clothes, waffle knit romper
+  - [Charming and Adorable Styling Ideas for Your Baby in Cherry Printed Summer Outfits](https://kidsely.com/blogs/news/charming-and-adorable-styling-ideas-for-your-baby-in-cherry-printed-summer-outfits): Charming and Adorable Styling Ideas for Your Baby in Cherry Printed Summer Outfits
+    Updated: 2026-05-11T06:01:39Z
+    Author: Kidsely
+    Tags: adorable outfits, baby, cherry prints, cute baby clothes, fashion, styling ideas, summer, trendy summer styles
 
 ## Store Pages
 
