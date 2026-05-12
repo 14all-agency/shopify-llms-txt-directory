@@ -6,12 +6,12 @@
 - Timezone: Asia/Shanghai
 - Created At: 2025-05-20T11:59:09Z
 - Contact Email: 363305877@qq.com
-- Updated At: 2026-01-26T00:00:42.006Z
+- Updated At: 2026-05-12T00:00:25.915Z
 
 ## Products
 
 - [African Dresses For Women Summer Spring Africa Clothing Sleeveless Ruched Dress Sexy V-Neck Slim Dress Office Lady Party](https://aovica.top/products/african-dresses-for-women-summer-spring-africa-clothing-sleeveless-ruched-dress-sexy-v-neck-slim-dress-office-lady-party)
-  Updated: 2025-11-16T12:39:53Z
+  Updated: 2026-04-20T15:07:37Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -29,7 +29,7 @@
     Availability: Available
     Price: $46.00 USD
 - [New High Waist Sexy Swimsuit Women Summer Bathing Suit Bikini Set Long Sleeve Swimwear Women Beach Swimming Suit For Female](https://aovica.top/products/new-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-women-beach-swimming-suit-for-female)
-  Updated: 2025-11-17T23:46:21Z
+  Updated: 2026-04-28T12:24:09Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
@@ -75,7 +75,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/o34b871g_5eba9edd-80e0-4ca3-a0a5-2b6e09b0f6a7.png?v=1750158054
     Price: $40.00 USD
 - [African Dresses For Women Elegant Polyester 2025 New Muslim Fashion Abayas Dashiki Robe Kaftan Long Maxi Dress Turkish Africa](https://aovica.top/products/african-dresses-for-women-elegant-polyester-2025-new-muslim-fashion-abayas-dashiki-robe-kaftan-long-maxi-dress-turkish-africa)
-  Updated: 2025-12-02T07:59:46Z
+  Updated: 2026-04-20T15:07:37Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
@@ -93,7 +93,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/Se6963983653c42bfa182e263eda3e029P.webp?v=1753932517
     Price: $49.00 USD
 - [3 Pieces Set Sexy 2025 Summer Spring Fashion Women Set Female Stripe 3/4 Sleeve Shirt Tops And Shorts Suit Matching Outfit](https://aovica.top/products/3-pieces-set-sexy-2025-summer-spring-fashion-women-set-female-stripe-3-4-sleeve-shirt-tops-and-shorts-suit-matching-outfit)
-  Updated: 2025-10-17T07:15:43Z
+  Updated: 2026-04-20T15:07:37Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
@@ -159,7 +159,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S459e56afd97547bfa9baab14ff7634b5f_2421e787-668c-49e9-803a-fb142ef9bf90.jpg?v=1754037306
     Price: $44.00 USD
 - [2 Two Piece Set Stripe Print Long Sleeve Blouse Tops And Pant Suits Spring Autumn Women Set Sheath Matching Fashion Outfit](https://aovica.top/products/2-two-piece-set-stripe-print-long-sleeve-blouse-tops-and-pant-suits-spring-autumn-women-set-sheath-matching-fashion-outfit)
-  Updated: 2025-10-17T07:15:43Z
+  Updated: 2026-04-20T15:07:38Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
@@ -180,7 +180,7 @@
     Availability: Available
     Price: $51.00 USD
 - [2025 New High Waist Sexy Swimsuit Women Summer Bathing Suit Bikini Set Swimwear Women Beach Swimming Suit For Female](https://aovica.top/products/2025-new-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-swimwear-women-beach-swimming-suit-for-female)
-  Updated: 2025-10-17T07:15:43Z
+  Updated: 2026-04-20T15:07:38Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
@@ -206,7 +206,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S62302d1dbbcd4fb09169ea374e4e6e6c7.jpg?v=1754106167
     Price: $39.00 USD
 - [Solid Color Women Jumpsuits For Autumn Winter Long Sleeve Loose Fashi](https://aovica.top/products/solid-color-women-jumpsuits-for-autumn-winter-long-sleeve-loose-fashion-streetwear-overalls-wide-leg-pants-trousers-2025): Jeans-style women's one-piece pants
-  Updated: 2025-11-01T20:36:02Z
+  Updated: 2026-05-08T06:24:44Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
@@ -236,7 +236,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/Se1893311b85d4edb921f1f54fa29cdca1.webp?v=1761986159
     Price: $65.00 USD
 - [Solid Women Jumpsuits For Autumn Winter Long Sleeve V-Neck Loose Fashion Streetwear Overalls Wide Leg Pants Trousers 2025](https://aovica.top/products/solid-women-jumpsuits-for-autumn-winter-long-sleeve-v-neck-loose-fashion-streetwear-overalls-wide-leg-pants-trousers-2025): Solid Women Jumpsuits For Autumn Winter Long Sleeve V-Neck Loose Fashion Streetwear Overalls Wide Leg Pants Trousers 2025
-  Updated: 2025-11-03T20:53:58Z
+  Updated: 2026-04-20T15:07:38Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
@@ -266,7 +266,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S421bd8bd4257444683a80951cd88db57h.webp?v=1762160033
     Price: $49.50 USD
 - [2 Pieces Women's Sets Autumn Winter Long Sleeve Pearl Blazers Suit Tops And Pants Suits Two Piece Set Tracksuit Outfit 2025](https://aovica.top/products/2-pieces-womens-sets-autumn-winter-long-sleeve-pearl-blazers-suit-tops-and-pants-suits-two-piece-set-tracksuit-outfit-2025): 2 Pieces Women's Sets Autumn Winter Long Sleeve Pearl Blazers Suit Tops And Pants Suits Two Piece Set Tracksuit Outfit 2025
-  Updated: 2025-11-04T21:30:48Z
+  Updated: 2026-04-20T15:07:38Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
@@ -367,7 +367,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/5bf3db5876548f2cfbaa3aeab9cde79c.jpg?v=1762248754
     Price: $73.80 USD
 - [2 Piece Women Sets 2025 New Arrival Autumn Winter Matching Sets Two Pieces Sets Long Sleeve Top And Pants Suits Outfits Clothing](https://aovica.top/products/2-piece-women-sets-2025-new-arrival-autumn-winter-matching-sets-two-pieces-sets-long-sleeve-top-and-pants-suits-outfits-clothing): 2 Piece Women Sets 2025 New Arrival Autumn Winter Matching Sets Two Pieces Sets Long Sleeve Top And Pants Suits Outfits Clothing
-  Updated: 2025-11-07T15:06:43Z
+  Updated: 2026-04-20T15:07:39Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
@@ -428,7 +428,7 @@
     Availability: Available
     Price: $56.00 USD
 - [2 Piece Women Set Summer Autumn Short Sleeve Shirt Blouse Top And Pants Suits Outfits Fashion Office Lady Matching Sets Outfit](https://aovica.top/products/2-piece-women-set-summer-autumn-short-sleeve-shirt-blouse-top-and-pants-suits-outfits-fashion-office-lady-matching-sets-outfit): 2 Piece Women Set Summer Autumn Short Sleeve Shirt Blouse Top And Pants Suits Outfits Fashion Office Lady Matching Sets Outfit
-  Updated: 2025-11-06T13:27:18Z
+  Updated: 2026-04-20T15:07:39Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
@@ -484,7 +484,7 @@
     Availability: Available
     Price: $55.00 USD
 - [2 Piece Blazer And Sleeveless Dress Sets Plus Size Clothes Dresses For Women's Clothing 2025 Spring Autumn Big Size 3XL Oversize](https://aovica.top/products/k3398-欧美优雅弹力修身花朵珍珠烫钻包臀西服外套加内搭吊带两): 2 Piece Blazer And Sleeveless Dress Sets Plus Size Clothes Dresses For Women's Clothing 2025 Spring Autumn Big Size 3XL Oversize
-  Updated: 2026-01-20T01:19:57Z
+  Updated: 2026-04-29T06:47:46Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
@@ -537,7 +537,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01sycLRb1Bs320jKoJf__0-0-cib.jpg?v=1762400507
     Price: $82.00 USD
 - [African Dresses For Women Muslim Fashion Abayas Boubou Dashiki Ankara Outfits Evening Gown Dubai Kaftan Abaya Robe Marocaine](https://aovica.top/products/african-dresses-for-women-muslim-fashion-abayas-boubou-dashiki-ankara-outfits-evening-gown-dubai-kaftan-abaya-robe-marocaine): African Dresses For Women Muslim Fashion Abayas Boubou Dashiki Ankara Outfits Evening Gown Dubai Kaftan Abaya Robe Marocaine
-  Updated: 2025-11-07T10:44:30Z
+  Updated: 2026-04-20T15:07:39Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
@@ -638,7 +638,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01QRgBqi26UcvY0PYZN__4225457665-0-cib.jpg?v=1762418404
     Price: $62.00 USD
 - [African Dresses For Women Elegant Wedding Muslim Fashion Abayas Dashi](https://aovica.top/products/african-dresses-for-women-elegant-wedding-muslim-fashion-abayas-dashiki-robe-kaftan-long-maxi-dress-turkish-africa-2025-new): African Dresses For Women Elegant Wedding Muslim Fashion Abayas Dashiki Robe Kaftan Long Maxi Dress Turkish Africa 2025 New
-  Updated: 2025-11-07T16:34:06Z
+  Updated: 2026-04-20T15:07:39Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
@@ -689,7 +689,7 @@
     Availability: Available
     Price: $54.00 USD
 - [African Dresses For Women Elegant Polyester Muslim Fashion Abayas Dashiki Robe Kaftan Long Midi Dress Turkish Africa 2026 New](https://aovica.top/products/african-dresses-for-women-elegant-polyester-muslim-fashion-abayas-dashiki-robe-kaftan-long-midi-dress-turkish-africa-2026-new): Material: High-Quality PolyesternDesign and Style: Elegant African Dashiki Robe with Kaftan-inspired Midi LengthnUsage and Purpose: Ideal for Special Occasions and Traditional Cultural EventsnClosure Type: Convenient Pullover DesignnSize and Fit: Available in a Generous Midi Length to Flatter Every FigurenPerformance and Property: Durable Material with 105℃ Fade Resistancennn**Elegance and Comfort Blend**nEmbrace the fusion of tradition and modernity with our African Dresses for Women, crafted from premium polyester that promises durability and elegance. The dashiki-inspired design, paired with the kaftan's flowing silhouette, offers a contemporary take on traditional African fashion. The pullover closure ensures a comfortable fit, while the midi length flatters any body type, making it a versatile addition to your wardrobe.nn**Versatile and Stylish for Every Occasion**nWhether you're attending a cultural event or a social gathering, this African Dress for Women is the perfect choice.
-  Updated: 2025-11-08T08:31:59Z
+  Updated: 2026-04-20T15:07:39Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
@@ -775,7 +775,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/Sc102c5f025c44a4db78683362d5564c9U.webp?v=1762503400
     Price: $55.00 USD
 - [African Dresses For Women Elegant Wedding Muslim Fashion Abayas Dashiki Robe Kaftan Long Maxi Dress Turkish Africa 2026 New](https://aovica.top/products/sequin-plus-size-dress): African Dresses For Women Elegant Wedding Muslim Fashion Abayas Dashiki Robe Kaftan Long Maxi Dress Turkish Africa 2026 New，Sequin plus size dress
-  Updated: 2025-11-08T18:02:19Z
+  Updated: 2026-04-20T15:07:40Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
@@ -817,7 +817,7 @@
     Availability: Available
     Price: $70.00 USD
 - [Retro plaid dress Women Pin Up Lattice Print Casual Party Dress Summer 3/4 Sleeve Retro](https://aovica.top/products/women-pin-up-lattice-print-casual-party-dress-summer-3-4-sleeve-retro-robe-60s-50s-vintage-rockabilly-swing-dress-vestidos): Retro plaid dress Women Pin Up Lattice Print Casual Party Dress Summer 3/4 Sleeve Retro Robe 60s 50s Vintage Rockabilly Swing Dress Vestidos
-  Updated: 2025-11-08T15:54:42Z
+  Updated: 2026-04-20T15:07:40Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
@@ -878,7 +878,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S5a5567a752db459cb3057ce68a29b7d6M.webp?v=1762585145
     Price: $52.00 USD
 - [Elegant Long Sleeve Hollow Out Mesh Lace Shirt Sheer See Through Top Blouse Clothing Dashiki African Shirts For Women](https://aovica.top/products/2025-new-elegant-long-sleeve-hollow-out-mesh-lace-shirt-sheer-see-through-top-blouse-clothing-dashiki-african-shirts-for-women): Elegant Long Sleeve Hollow Out Mesh Lace Shirt Sheer See Through Top Blouse Clothing Dashiki African Shirts For Women
-  Updated: 2025-11-11T13:34:15Z
+  Updated: 2026-04-20T15:07:40Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
@@ -984,7 +984,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/H7906aeaa539743f4be10dc75463b9f80A.webp?v=1762827843
     Price: $46.50 USD
 - [Elegant Blazer Coat For Women Fashion Lapel Oversized Suit Jackets 2025 New Autumn Winter Office Lady Casual Loose Outerwear](https://aovica.top/products/elegant-blazer-coat-for-women-fashion-lapel-oversized-suit-jackets-2025-new-autumn-winter-office-lady-casual-loose-outerwear): Elegant Blazer Coat For Women Fashion Lapel Oversized Suit Jackets 2025 New Autumn Winter Office Lady Casual Loose Outerwear
-  Updated: 2025-11-11T21:46:07Z
+  Updated: 2026-04-20T15:07:40Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
@@ -1035,7 +1035,7 @@
     Availability: Available
     Price: $70.50 USD
 - [Women High Waist Wide Leg Pants Shiny Fuchsia Straight Pants Long Palazzo Casual Trendy Trousers 2026 Spring Autumn New](https://aovica.top/products/women-high-waist-wide-leg-pants-shiny-fuchsia-straight-pants-long-palazzo-casual-trendy-trousers-2026-spring-autumn-new): Women High Waist Wide Leg Pants Shiny Fuchsia Straight Pants Long Palazzo Casual Trendy Trousers 2026 Spring Autumn New
-  Updated: 2025-11-12T00:44:22Z
+  Updated: 2026-04-20T15:07:40Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
@@ -1141,7 +1141,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/Sf877c6b1822b49d9a5a4270179668d70n.webp?v=1762853381
     Price: $47.50 USD
 - [Women High Waist Wide Leg Pants Shiny Fuchsia Straight Pants Long Palazzo Casual Trendy Trousers 2026 Spring Autumn New](https://aovica.top/products/women-high-waist-wide-leg-pants-shiny-fuchsia-straight-pants-long-palazzo-casual-trendy-trousers-2026-spring-autumn-new-1): Women High Waist Wide Leg Pants Shiny Fuchsia Straight Pants Long Palazzo Casual Trendy Trousers 2026 Spring Autumn New
-  Updated: 2025-11-12T21:27:32Z
+  Updated: 2026-04-20T15:07:41Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
@@ -1247,7 +1247,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S4cf694806b5f4176906fcceaa2303751Z.webp?v=1762933913
     Price: $46.50 USD
 - [Women High Waist Wide Leg Pants Shiny Fuchsia Straight Pants Long Palazzo Casual Trendy Trousers 2026 Spring Autumn New](https://aovica.top/products/women-high-waist-wide-leg-pants-shiny-fuchsia-straight-pants-long-palazzo-casual-trendy-trousers-2026-spring-autumn-new-2): Women High Waist Wide Leg Pants Shiny Fuchsia Straight Pants Long Palazzo Casual Trendy Trousers 2026 Spring Autumn New
-  Updated: 2025-11-13T01:05:10Z
+  Updated: 2026-04-20T15:07:41Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
@@ -1328,7 +1328,7 @@
     Availability: Available
     Price: $49.00 USD
 - [3 Piece Women Sets 2026 New Arrival Sportswear Single Breasted Long Sleeve Jacket Bra And Yoga Leggings Suits Outfits Clothing](https://aovica.top/products/3-piece-women-sets-2026-new-arrival-sportswear-single-breasted-long-sleeve-jacket-bra-and-yoga-leggings-suits-outfits-clothing): Tracksuit set. The top is a long - sleeve bomber jacket with a button - up front, featuring white horizontal stripes on the cuffs and chest. The bottom is a pair of black leggings with white vertical stripes on the sides. The outfit is stylish and suitable for various occasions, such as casual outings or sports.
-  Updated: 2025-12-25T06:20:34Z
+  Updated: 2026-04-20T15:07:41Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
@@ -1374,7 +1374,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01LJG3eV1yhtTeaD4t5__2836346611-0-cib.jpg?v=1763026742
     Price: $72.00 USD
 - [2 Piece Women Sets New Arrival Striped Print Matching Sets Short Sleeve Zipper Top And Pants Suits Tracksuit Outfits Clothing](https://aovica.top/products/2-piece-women-sets-new-arrival-striped-print-matching-sets-short-sleeve-zipper-top-and-pants-suits-tracksuit-outfits-clothing): Modeling a stylish white tracksuit. She is wearing a white cropped jacket with a high collar and a front zipper, featuring black side panels that add a sporty contrast. Paired with the jacket are white flared pants, which also have black side stripes, echoing the design of the top. She completes the look with black sneakers that have white accents. The outfit exudes a modern, sporty aesthetic, blending comfort and fashion, and is likely suitable for casual wear, fitness activities, or everyday style.
-  Updated: 2025-12-25T06:20:35Z
+  Updated: 2026-04-20T15:07:41Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
@@ -1420,7 +1420,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01NtXcb31yhtTb31yLY__2836346611-0-cib.jpg?v=1763104024
     Price: $59.00 USD
 - [Spring Women's Tracksuit Pullover Hooded And Trousers Black Casual Two Piece Set Women Casual Pants Sports Suit With A Hood](https://aovica.top/products/spring-womens-tracksuit-pullover-hooded-and-trousers-black-casual-two-piece-set-women-casual-pants-sports-suit-with-a-hood): Spring Women's Tracksuit Pullover Hooded And Trousers Black Casual Two Piece Set Women Casual Pants Sports Suit With A Hood
-  Updated: 2025-11-15T00:39:55Z
+  Updated: 2026-04-20T15:07:41Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
@@ -1446,7 +1446,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/O1CN01omOAm01yhtTmj8KJo__2836346611-0-cib.jpg?v=1763121805
     Price: $57.00 USD
 - [2026 Autumn Winter Long Sleeve Elegant Mini Dress Women's Clothing Casual Party Work Evening Sheath Office Lady Dresses](https://aovica.top/products/2025-autumn-winter-long-sleeve-elegant-mini-dress-womens-clothing-casual-party-work-evening-sheath-office-lady-dresses): 2025 Autumn Winter Long Sleeve Elegant Mini Dress Women's Clothing Casual Party Work Evening Sheath Office Lady Dresses
-  Updated: 2026-01-16T16:01:00Z
+  Updated: 2026-04-20T15:07:42Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
@@ -1524,7 +1524,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/4bf03c6c1353b2430fdee64d48508e2b.jpg?v=1763176507
     Price: $52.50 USD
 - [https://detail.1688.com/offer/990649339376.html?spm=a21lca.1688_web_im.0.0](https://aovica.top/products/elegant-v-collar-dress-woman-sexy-embroidered-floral-slim-tassel-dress-vintage-suede-long-sleeve-spring-autumn-dress-2026): https://detail.1688.com/offer/990649339376.html?spm=a21lca.1688_web_im.0.0
-  Updated: 2025-11-21T04:01:46Z
+  Updated: 2026-04-20T15:07:42Z
   Vendor: Aovica Official Store
   Product Type: 
   Availability: Available
@@ -1589,19 +1589,208 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S46807465092b42ef8f27b69fcb9fd704f.webp?v=1763628207
     Price: $52.00 USD
+- [Elegant Women Beige Polka Dot Print Mini Dress Fashion Short Sleeve Dresses Evening Ladies Street Party Vestidos 2026 Summer](https://aovica.top/products/elegant-women-beige-polka-dot-print-mini-dress-fashion-short-sleeve-dresses-evening-ladies-street-party-vestidos-2026-summer): Elegant Women Beige Polka Dot Print Mini Dress Fashion Short Sleeve Dresses Evening Ladies Street Party Vestidos 2026 Summer
+  Updated: 2026-05-01T01:18:49Z
+  Vendor: Aovica Official Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S7860f3ee4c304ed4bfa06e3f5052c7fbZ.webp?v=1777555227
+  - [Picture color / S](https://aovica.top/products/elegant-women-beige-polka-dot-print-mini-dress-fashion-short-sleeve-dresses-evening-ladies-street-party-vestidos-2026-summer?variant=44892094136365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S5e0d2041d6ee4f42a69e74b0acfabf77p_f3728773-cbe1-45c8-972b-a19476b71084.webp?v=1777555227
+    Price: $48.00 USD
+  - [Picture color / M](https://aovica.top/products/elegant-women-beige-polka-dot-print-mini-dress-fashion-short-sleeve-dresses-evening-ladies-street-party-vestidos-2026-summer?variant=44892094169133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S5e0d2041d6ee4f42a69e74b0acfabf77p_f3728773-cbe1-45c8-972b-a19476b71084.webp?v=1777555227
+    Price: $48.00 USD
+  - [Picture color / L](https://aovica.top/products/elegant-women-beige-polka-dot-print-mini-dress-fashion-short-sleeve-dresses-evening-ladies-street-party-vestidos-2026-summer?variant=44892094201901)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S5e0d2041d6ee4f42a69e74b0acfabf77p_f3728773-cbe1-45c8-972b-a19476b71084.webp?v=1777555227
+    Price: $48.00 USD
+  - [Picture color / XL](https://aovica.top/products/elegant-women-beige-polka-dot-print-mini-dress-fashion-short-sleeve-dresses-evening-ladies-street-party-vestidos-2026-summer?variant=44892094234669)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S5e0d2041d6ee4f42a69e74b0acfabf77p_f3728773-cbe1-45c8-972b-a19476b71084.webp?v=1777555227
+    Price: $48.00 USD
+  - [Picture color / XXL](https://aovica.top/products/elegant-women-beige-polka-dot-print-mini-dress-fashion-short-sleeve-dresses-evening-ladies-street-party-vestidos-2026-summer?variant=44892094267437)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S5e0d2041d6ee4f42a69e74b0acfabf77p_f3728773-cbe1-45c8-972b-a19476b71084.webp?v=1777555227
+    Price: $48.00 USD
+  - [Picture color / XXXL](https://aovica.top/products/elegant-women-beige-polka-dot-print-mini-dress-fashion-short-sleeve-dresses-evening-ladies-street-party-vestidos-2026-summer?variant=44892094300205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S5e0d2041d6ee4f42a69e74b0acfabf77p_f3728773-cbe1-45c8-972b-a19476b71084.webp?v=1777555227
+    Price: $48.00 USD
+- [Mesh High Waist Sexy Swimsuit Women Summer Bathing Suit Bikini Set Long Sleeve Swimwear Beach Swimming Suit For Female Купальник](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit): Mesh High Waist Sexy Swimsuit Women Summer Bathing Suit Bikini Set Long Sleeve Swimwear Beach Swimming Suit For Female Купальник
+  Updated: 2026-05-09T21:43:49Z
+  Vendor: Aovica Official Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/Sb83522f5335240c688a659c63836922fQ.webp?v=1778229550
+  - [Style 3 / S](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924658647085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/Sa03ab52b2e56449e97ce4c3e076a928b8.webp?v=1778229550
+    Price: $45.00 USD
+  - [Style 3 / M](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924658679853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/Sa03ab52b2e56449e97ce4c3e076a928b8.webp?v=1778229550
+    Price: $45.00 USD
+  - [Style 3 / L](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924658712621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/Sa03ab52b2e56449e97ce4c3e076a928b8.webp?v=1778229550
+    Price: $45.00 USD
+  - [Style 3 / XL](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924658745389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/Sa03ab52b2e56449e97ce4c3e076a928b8.webp?v=1778229550
+    Price: $45.00 USD
+  - [Style 3 / XXL](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924658778157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/Sa03ab52b2e56449e97ce4c3e076a928b8.webp?v=1778229550
+    Price: $45.00 USD
+  - [Style 1 / S](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924658810925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S6167d8d28ea94d6e991f14f5fe75759ag.webp?v=1778229550
+    Price: $45.00 USD
+  - [Style 1 / M](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924658843693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S6167d8d28ea94d6e991f14f5fe75759ag.webp?v=1778229550
+    Price: $45.00 USD
+  - [Style 1 / L](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924658876461)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S6167d8d28ea94d6e991f14f5fe75759ag.webp?v=1778229550
+    Price: $45.00 USD
+  - [Style 1 / XL](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924658909229)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S6167d8d28ea94d6e991f14f5fe75759ag.webp?v=1778229550
+    Price: $45.00 USD
+  - [Style 1 / XXL](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924658941997)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S6167d8d28ea94d6e991f14f5fe75759ag.webp?v=1778229550
+    Price: $45.00 USD
+  - [Style 2 / S](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924658974765)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S82f57bd0f62048fc96a954811296dc15H.webp?v=1778229550
+    Price: $45.00 USD
+  - [Style 2 / M](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924659007533)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S82f57bd0f62048fc96a954811296dc15H.webp?v=1778229550
+    Price: $45.00 USD
+  - [Style 2 / L](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924659040301)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S82f57bd0f62048fc96a954811296dc15H.webp?v=1778229550
+    Price: $45.00 USD
+  - [Style 2 / XL](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924659073069)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S82f57bd0f62048fc96a954811296dc15H.webp?v=1778229550
+    Price: $45.00 USD
+  - [Style 2 / XXL](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924659105837)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S82f57bd0f62048fc96a954811296dc15H.webp?v=1778229550
+    Price: $45.00 USD
+  - [Style 4 / S](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924659138605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S85d6455c7dc44b42873ffee61e6fdbdfU.webp?v=1778229549
+    Price: $45.00 USD
+  - [Style 4 / M](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924659171373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S85d6455c7dc44b42873ffee61e6fdbdfU.webp?v=1778229549
+    Price: $45.00 USD
+  - [Style 4 / L](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924659204141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S85d6455c7dc44b42873ffee61e6fdbdfU.webp?v=1778229549
+    Price: $45.00 USD
+  - [Style 4 / XL](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924659236909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S85d6455c7dc44b42873ffee61e6fdbdfU.webp?v=1778229549
+    Price: $45.00 USD
+  - [Style 4 / XXL](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924659269677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S85d6455c7dc44b42873ffee61e6fdbdfU.webp?v=1778229549
+    Price: $45.00 USD
+  - [Style 5 / S](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924659302445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S0017dbe085004115810ac4c3ffa46dc9h.webp?v=1778229550
+    Price: $45.00 USD
+  - [Style 5 / M](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924659335213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S0017dbe085004115810ac4c3ffa46dc9h.webp?v=1778229550
+    Price: $45.00 USD
+  - [Style 5 / L](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924659367981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S0017dbe085004115810ac4c3ffa46dc9h.webp?v=1778229550
+    Price: $45.00 USD
+  - [Style 5 / XL](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924659400749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S0017dbe085004115810ac4c3ffa46dc9h.webp?v=1778229550
+    Price: $45.00 USD
+  - [Style 5 / XXL](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924659433517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S0017dbe085004115810ac4c3ffa46dc9h.webp?v=1778229550
+    Price: $45.00 USD
+  - [Style 6 / S](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924659466285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/Sa7ffbdc7173445b88b6a0400547e21bek.webp?v=1778229550
+    Price: $45.00 USD
+  - [Style 6 / M](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924659499053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/Sa7ffbdc7173445b88b6a0400547e21bek.webp?v=1778229550
+    Price: $45.00 USD
+  - [Style 6 / L](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924659531821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/Sa7ffbdc7173445b88b6a0400547e21bek.webp?v=1778229550
+    Price: $45.00 USD
+  - [Style 6 / XL](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924659564589)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/Sa7ffbdc7173445b88b6a0400547e21bek.webp?v=1778229550
+    Price: $45.00 USD
+  - [Style 6 / XXL](https://aovica.top/products/mesh-high-waist-sexy-swimsuit-women-summer-bathing-suit-bikini-set-long-sleeve-swimwear-beach-swimming-suit?variant=44924659597357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/Sa7ffbdc7173445b88b6a0400547e21bek.webp?v=1778229550
+    Price: $45.00 USD
+- [African Dresses For Women Elegant Short Sleeve Dashiki Maxi A-Line Dress Ladies Traditional African Clothing Fairy Dreaes](https://aovica.top/products/african-dresses-for-women-elegant-short-sleeve-dashiki-maxi-a-line-dress-ladies-traditional-african-clothing-fairy-dreaes): African Dresses For Women Elegant Short Sleeve Dashiki Maxi A-Line Dress Ladies Traditional African Clothing Fairy Dreaes
+  Updated: 2026-05-09T21:36:23Z
+  Vendor: Aovica Official Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S694f4d46d2904df0991e211ca37c6076e.webp?v=1778319377
+  - [green / S](https://aovica.top/products/african-dresses-for-women-elegant-short-sleeve-dashiki-maxi-a-line-dress-ladies-traditional-african-clothing-fairy-dreaes?variant=44933535367213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S426bdea4dff04d8492202b6aa43a098a2.webp?v=1778319377
+    Price: $65.00 USD
+  - [green / M](https://aovica.top/products/african-dresses-for-women-elegant-short-sleeve-dashiki-maxi-a-line-dress-ladies-traditional-african-clothing-fairy-dreaes?variant=44933535399981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S426bdea4dff04d8492202b6aa43a098a2.webp?v=1778319377
+    Price: $65.00 USD
+  - [green / L](https://aovica.top/products/african-dresses-for-women-elegant-short-sleeve-dashiki-maxi-a-line-dress-ladies-traditional-african-clothing-fairy-dreaes?variant=44933535432749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S426bdea4dff04d8492202b6aa43a098a2.webp?v=1778319377
+    Price: $65.00 USD
+  - [green / XL](https://aovica.top/products/african-dresses-for-women-elegant-short-sleeve-dashiki-maxi-a-line-dress-ladies-traditional-african-clothing-fairy-dreaes?variant=44933535465517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S426bdea4dff04d8492202b6aa43a098a2.webp?v=1778319377
+    Price: $65.00 USD
+  - [green / XXL](https://aovica.top/products/african-dresses-for-women-elegant-short-sleeve-dashiki-maxi-a-line-dress-ladies-traditional-african-clothing-fairy-dreaes?variant=44933535498285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0683/6728/6317/files/S426bdea4dff04d8492202b6aa43a098a2.webp?v=1778319377
+    Price: $65.00 USD
 
 ## Collections
 
-- [African Dresses For Women Summer Spring Africa Clothing](https://aovica.top/collections/african-dresses-for-women-summer-spring-africa-clothing)
-  Updated: 2025-10-17T07:15:42Z
-  Total Products: 1
+- [Aovica All Products](https://aovica.top/collections/african-dresses-for-women-summer-spring-africa-clothing)
+  Updated: 2026-04-30T13:27:04Z
+  Total Products: 28
+
+## Blogs
+
+- [Brand Story](https://aovica.top/blogs/brand-story)
+  - [Our Warehouse](https://aovica.top/blogs/brand-story/brand-story)
+    Updated: 2026-03-19T06:26:38Z
+    Author: 苏恒丽
 
 ## Store Pages
 
 - [Contact](https://aovica.top/pages/contact)
   Updated: 2025-05-20T11:59:12Z
 - [Your Privacy Choices](https://aovica.top/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-07-01T06:21:08Z
+  Updated: 2026-01-28T16:37:05Z
 - [Collabs](https://aovica.top/pages/collab)
   Updated: 2025-08-05T03:10:44Z
 - [-registration-page](https://aovica.top/pages/affiliate_registration_page)
@@ -1626,13 +1815,13 @@
 - [Privacy Policy](https://aovica.top/policies/privacy-policy)
   Updated: 2025-05-20T19:59:20+08:00
 - [Shipping Policy](https://aovica.top/policies/shipping-policy)
-  Updated: 2025-12-11T14:12:27+08:00
+  Updated: 2026-03-18T14:39:34+08:00
 - [Refund Policy](https://aovica.top/policies/refund-policy)
-  Updated: 2025-12-02T09:56:52+08:00
+  Updated: 2026-03-24T11:10:48+08:00
 - [Terms of Service](https://aovica.top/policies/terms-of-service)
   Updated: 2025-12-11T11:07:49+08:00
 - [Contact Information](https://aovica.top/policies/contact-information)
-  Updated: 2025-12-02T10:55:22+08:00
+  Updated: 2026-03-18T14:38:46+08:00
 
 ## Optional
 
