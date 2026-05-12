@@ -9,7 +9,7 @@
 - Created At: 2020-11-02T16:08:42Z
 - Contact Email: claudiamadaleno@sarahmaier.store
 - Contact Phone: +351913522163
-- Updated At: 2026-05-03T00:00:41.834Z
+- Updated At: 2026-05-12T00:00:43.168Z
 
 ## Products
 
@@ -1982,7 +1982,7 @@ They are a good investement because of comfort and elegance.
     Availability: Available
     Price: €350.00 EUR
 - [KATE GILDED - Gold Leather Mules with Square Toe | Sarah Maier](https://sarahmaier.store/products/kate-sandals): Handcrafted in Italy from shimmering gold leather, the Kate Gilded mules feature a modern square toe and a 60mm heel. We designed this elegant slide to be the perfect finishing touch for any look, from denim to dresses.
-  Updated: 2026-04-28T13:27:50Z
+  Updated: 2026-05-11T10:33:56Z
   Vendor: Sarah Maier
   Product Type: SANDALS
   Availability: Available
