@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2026-04-10T18:03:17Z
 - Contact Email: rawinstinctsupps@hotmail.com
-- Updated At: 2026-05-01T00:00:34.505Z
+- Updated At: 2026-05-12T00:00:36.944Z
 
 ## Collections
 
@@ -14,7 +14,7 @@
   Updated: 2026-04-15T17:50:03Z
   Total Products: 0
 - [Vitamins and Supplements example products](https://rawinstinct-supps.myshopify.com/collections/vitamins-and-supplements-example-products)
-  Updated: 2026-04-15T17:50:03Z
+  Updated: 2026-05-02T07:48:25Z
   Total Products: 0
 
 ## Blogs
@@ -58,6 +58,18 @@
     Updated: 2026-04-28T14:35:02Z
     Author: Lee Gales
     Tags: boxing, gym, phase 1, sampling, supplements, testing
+  - [Creatine Loading Phase: What It Is & Do You Need It? | RawInstinct](https://rawinstinct-supps.myshopify.com/blogs/news/creatine-loading-phase-what-it-is-how-it-works-do-you-need-it): Creatine Loading Phase: What It Is & Do You Need It? | RawInstinct
+    Updated: 2026-05-01T18:21:01Z
+    Author: Lee Gales
+    Tags: creatine, nutrition, performance, supplements, training
+  - [Why Electrolytes Are Essential for Recovery | RawInstinct Supps](https://rawinstinct-supps.myshopify.com/blogs/news/why-electrolytes-are-essential-for-recovery): Why Electrolytes Are Essential for Recovery | RawInstinct Supps
+    Updated: 2026-05-05T11:00:04Z
+    Author: Lee Gales
+    Tags: electrolytes, hydration, nutrition, performance, recovery
+  - [The Truth About Creatine Gummies & Creatine Degradation | RawInstinct Supps](https://rawinstinct-supps.myshopify.com/blogs/news/the-truth-about-creatine-gummies-and-why-were-doing-it-differently): The Truth About Creatine Gummies & Creatine Degradation | RawInstinct Supps
+    Updated: 2026-05-07T11:00:02Z
+    Author: Lee Gales
+    Tags: creatine, creatine gummies, formulation, quality, science, transparency
 
 ## Store Pages
 
