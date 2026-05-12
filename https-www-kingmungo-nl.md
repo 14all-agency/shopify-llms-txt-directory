@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2024-08-27T15:57:48Z
 - Contact Email: info@kingmungo.nl
-- Updated At: 2026-04-30T00:00:43.344Z
+- Updated At: 2026-05-12T00:00:46.190Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0853/4229/0262/files/drinkflesbidonlichtblauw1literwaterflessendrinkflessenvaatwasserbestendigkingmungo.webp?v=1773222971
   Price: € 23,00 EUR
 - [Drinkfles 1 Liter - Lekvrije Drinkbus - Mat Zwart - King Mungo](https://www.kingmungo.nl/products/drinkfles_1_liter_drinkbus_zwart): Drinkfles 1 liter en lekvrije drinkbus van mat zwart Tritan. Ideale waterfles voor sport of kantoor. Jarenlange kwaliteit en BPA vrij. Bestel bij King Mungo uit Someren.
-  Updated: 2026-04-28T09:02:30Z
+  Updated: 2026-05-07T13:44:46Z
   Vendor: King Mungo
   Product Type: KMDF017 1 Liter drinkfles
   Availability: Available
@@ -60,7 +60,7 @@
   Image: https://cdn.shopify.com/s/files/1/0853/4229/0262/files/zeer_felle_zaklamp_op_batterijen_energiezuinig_King_Mungo_-_KM-MG51_zoom.jpg?v=1773222976
   Price: € 31,00 EUR
 - [Hoofdlamp Oplaadbaar King Mungo KMHL014 | Met Bewegingssensor](https://www.kingmungo.nl/products/hoofdlamp-oplaadbaar-felle-led-king-mungo-kmhl014): Zoek je een hoofdlamp oplaadbaar van hoge kwaliteit? King Mungo KMHL014, de professionele oplaadbare hoofdlamp, felle LED-bundel, bewegingssensor, lange accuduur. Bestel online met Gratis verzending!
-  Updated: 2026-04-28T08:59:47Z
+  Updated: 2026-05-08T09:56:09Z
   Vendor: King Mungo
   Product Type: KMHL014 - Led hoofdlamp
   Availability: Available
@@ -130,22 +130,22 @@
   Updated: 2026-04-09T11:28:19Z
   Total Products: 6
 - [Hoofdlampen Led Oplaadbaar - Professioneel - King Mungo](https://www.kingmungo.nl/collections/led-hoofdlampen): LED Hoofdlampen oplaadbaar zeer fel. Als Hoge kwaliteit telt kies dan voor King Mungo, professionele hoofdlampen die jaren meegaan.
-  Updated: 2026-04-17T11:25:11Z
+  Updated: 2026-05-08T11:29:12Z
   Total Products: 4
 - [Zaklampen LED oplaadbaar van hoge kwaliteit - King Mungo](https://www.kingmungo.nl/collections/led-zaklampen): Hoge kwaliteit LED Zaklampen met gratis verzending! Oplaadbare robuuste zaklampen van hoge kwaliteit. King Mungo zaklampen gaan jaren mee.
   Updated: 2026-04-10T11:24:54Z
   Total Products: 2
 - [Drinkflessen 1 Liter - 100% Lekvrij & BPA-vrij | King Mungo](https://www.kingmungo.nl/collections/drinkflessen): Stop met die lekkende waterfles! De King Mungo 1 liter drinkflessen van Tritan, 100% lekvrij & BPA-vrij. Geniet van puur water zonder plastic smaak. Voor 15u besteld morgen in huis. Gratis verzending.
-  Updated: 2026-04-09T11:28:19Z
+  Updated: 2026-05-08T11:29:12Z
   Total Products: 12
 - [Houten Dienblad Kopen? Groot formaat 50, 60 & 70 cm | King Mungo](https://www.kingmungo.nl/collections/houten-dienblad): Maak je interieur af! Onze grote, decoratieve houten dienbladen (50-70 cm) creëren direct rust en sfeer op elke tafel. Gemaakt van kwalitatief hout. Voor 15u besteld, morgen in huis Gratis verzending.
   Updated: 2026-04-18T11:25:49Z
   Total Products: 2
 - [AVADA - Best Sellers](https://www.kingmungo.nl/collections/avada-best-sellers)
-  Updated: 2026-04-18T11:25:49Z
+  Updated: 2026-05-08T11:29:12Z
   Total Products: 21
 - [APPPlaza - Best Sellers](https://www.kingmungo.nl/collections/appplaza-best-sellers)
-  Updated: 2026-04-18T11:25:49Z
+  Updated: 2026-05-08T11:29:12Z
   Total Products: 21
 
 ## Blogs
@@ -634,6 +634,78 @@
   - [Drinkfles 1 liter auto: Past altijd in je bekerhouder](https://www.kingmungo.nl/blogs/news/drinkfles-1-liter-auto-bekerhouder): Drinkfles 1 liter auto: Past altijd in je bekerhouder
     Updated: 2026-04-16T09:16:01Z
     Author: Michiel K
+  - [Drinkfles 1 liter lekvrij kopen | De beste keuze van King Mungo](https://www.kingmungo.nl/blogs/news/drinkfles-1-liter-tritan-kwaliteit): Drinkfles 1 liter lekvrij kopen | De beste keuze van King Mungo
+    Updated: 2026-04-30T15:28:02Z
+    Author: Michiel K
+    Tags: BPA-vrije-fles, drinkfles-1-liter, hyrox-waterfles, king mungo drinkfles, king mungo drinkflessen, King-Mungo-kwaliteit, relatiegeschenk-bedrukken, sportfles-padel, Tritan-drinkfles, waterfles-lekvrij
+  - [Drinkfles 1 liter relatiegeschenk voor personeel - King Mungo](https://www.kingmungo.nl/blogs/news/drinkfles-1-liter-relatiegeschenk-hr): Drinkfles 1 liter relatiegeschenk voor personeel - King Mungo
+    Updated: 2026-05-01T06:33:01Z
+    Author: Michiel K
+    Tags: 1 Liter, 1 liter drinkfles, BPA vrij cadeau, drinkfles king mungo review, drinkfles met logo, drinkflessen king mungo, HR vitaliteit, king mungo, king mungo drinkfles, king mungo drinkflessen, king mungo ervaring, king mungo ervaringen, office supplies 2026, relatiegeschenk personeel, zakelijk geschenk duurzaam
+  - [Drinkfles 1 liter Tritan vergelijken met glas en staal](https://www.kingmungo.nl/blogs/news/drinkfles-1-liter-tritan-vergelijken): Drinkfles 1 liter Tritan vergelijken met glas en staal
+    Updated: 2026-05-01T14:45:04Z
+    Author: Michiel K
+    Tags: BPA vrij, king mungo, king mungo 1 liter drinkfles, king mungo drinkflessen, lekvrije dop, mat grijze fles, onverwoestbare waterfles, sportfles vergelijken, Tritan drinkfles, tritan drinkflessen getest
+  - [Groot rond dienblad hout 60cm zwart | King Mungo decoratie](https://www.kingmungo.nl/blogs/news/groot-rond-dienblad-hout-60cm): Groot rond dienblad hout 60cm zwart | King Mungo decoratie
+    Updated: 2026-04-30T16:13:39Z
+    Author: Michiel K
+    Tags: decoratief plateau zwart, dienblad voor hocker, dienbladen groot hout, dienbladen van king mungo, groot rond dienblad, houten plateau 60cm, interieur hout, king mungo, King Mungo dienblad, king mungo dienbladen, mat zwart dienblad, salontafel decoratie, XXL rond dienblad
+  - [Rond houten dienblad 50cm zwart | Luxe kantoor decoratie](https://www.kingmungo.nl/blogs/news/rond-houten-dienblad-50cm-zwart): Rond houten dienblad 50cm zwart | Luxe kantoor decoratie
+    Updated: 2026-05-02T06:21:02Z
+    Author: Michiel K
+    Tags: decoratie kantoor, dienbladen king mungo, grote afname decoratie, HR kantoorinrichting, kantoor accessoires, kantoor decoratie, kantoor dienblad, king mungo, King Mungo plateau, luxe houten dienblad, rond houten dienblad 50cm zwart, uniek decoratie, vergaderruimte inrichten, zakelijk dienblad
+  - [Drinkfles met logo bedrukken | Luxe relatiegeschenk King Mungo](https://www.kingmungo.nl/blogs/news/drinkfles-met-logo-bedrukken): Drinkfles met logo bedrukken | Luxe relatiegeschenk King Mungo
+    Updated: 2026-05-05T16:11:49Z
+    Author: Michiel K
+    Tags: b2b geschenk, b2b kado, bulk prijs drinkflessen, drinkfles met logo bedrukken, duurzaam relatiegeschenk, fles bedrukken 500 stuks, hr kado werknemers, kantoorcadeau, king mungo, King Mungo B2B, klantgeschek nuttig, nuttig kado personeel, relatiegeschenk personeel, Tritan fles logo, waterfles bedrijfskleur, zakelijke waterfles
+  - [Drinkfles 1 liter King Mungo | Ergonomie en absolute kwaliteit](https://www.kingmungo.nl/blogs/news/drinkfles-1-liter-king-mungo): Drinkfles 1 liter King Mungo | Ergonomie en absolute kwaliteit
+    Updated: 2026-05-06T06:19:02Z
+    Author: Michiel K
+    Tags: BPA vrij hydrateren, drinkfles 1 liter king mungo, duurzame waterfles, grote drinkbus auto, king mungo, king mungo 1 liter drinkfles, king mungo drinkfles, king mungo drinkflessen, king mungo faq, lekvrije dop mechanisme, Tritan sportfles, waterfles zonder microplastics
+  - [Waterfles bedrukken grote oplage | King Mungo B2B](https://www.kingmungo.nl/blogs/news/waterfles_bedrukken_grote_oplage_b2b): Waterfles bedrukken grote oplage | King Mungo B2B
+    Updated: 2026-05-07T07:26:01Z
+    Author: Michiel K
+    Tags: B2B waterflessen, duurzaam kerstpakket kantoor, king mungo, king mungo reviews, King Mungo waterfles, King Mungo zakelijk, personeelsgeschenk vitaliteit, premium drinkfles met logo, Tritan fles bedrukken, waterfles bedrukken grote oplage, zakelijk relatiegeschenk 500 stuks
+  - [Luxe drinkfles bedrukken zakelijk personeelscadeau | King Mungo](https://www.kingmungo.nl/blogs/news/luxe_drinkfles_bedrukken_zakelijk_personeelscadeau): Luxe drinkfles bedrukken zakelijk personeelscadeau | King Mungo
+    Updated: 2026-05-08T06:42:01Z
+    Author: Michiel K
+    Tags: B2B vitaliteit geschenk, BPA vrij relatiegeschenk, duurzaam kantoor cadeau, king mungo, king mungo 1 liter drinkfles, King Mungo B2B, king mungo reviews, King Mungo zakelijk bestellen, kleine oplage relatiegeschenk, luxe drinkfles bedrukken, relatiegeschenk ziekenhuispersoneel, waterfles met logo 500 stuks, zakelijk personeelscadeau
+  - [Oplaadbare LED zaklamp bedrukken | Zakelijk relatiegeschenk](https://www.kingmungo.nl/blogs/news/oplaadbare-led-zaklamp-bedrukken-b2b): Oplaadbare LED zaklamp bedrukken | Zakelijk relatiegeschenk
+    Updated: 2026-05-05T16:51:39Z
+    Author: Michiel K
+    Tags: b2b-outdoor-geschenk, king mungo, King-Mungo-5000-pro, oplaadbare-led-zaklamp-bedrukken, relatiegeschenk-personeel, USB-C-zaklamp, zakelijk-cadeau-veiligheid, zaklamp-bedrijfskleur, zaklamp-noodpakket
+  - [Technisch relatiegeschenk LED zaklamp | King Mungo B2B](https://www.kingmungo.nl/blogs/news/technisch_relatiegeschenk_led_zaklamp): Technisch relatiegeschenk LED zaklamp | King Mungo B2B
+    Updated: 2026-05-09T07:33:02Z
+    Author: Michiel K
+    Tags: functioneel_personeelsgeschenk, kerstpakket_techniek, king mungo, King_Mungo_5000_pro, oplaadbare_zaklamp_b2b, personeelscadeau_bouw, robuuste_zaklamp_usb-c, technisch_relatiegeschenk_led_zaklamp, zaklamp_bedrijfskleur_maatwerk, zaklamp_bedrukken_logistiek
+  - [Drinkfles 1 liter King Mungo | Ontdek de perfecte routine](https://www.kingmungo.nl/blogs/news/drinkfles_1_liter_king_mungo_routine): Drinkfles 1 liter King Mungo | Ontdek de perfecte routine
+    Updated: 2026-05-07T15:07:01Z
+    Author: Michiel K
+    Tags: BPA vrij water drinken, drinkfles 1 liter king mungo, gezonde routine opbouwen, grote waterfles bureau, hydratatie routine, lekvrije fles, Soft Touch drinkfles, Tritan drinkbus, waterfles kantoor
+  - [Drinkfles 1 liter zakelijk kopen | Premium B2B geschenken](https://www.kingmungo.nl/blogs/news/drinkfles_1_liter_zakelijk_kopen): Drinkfles 1 liter zakelijk kopen | Premium B2B geschenken
+    Updated: 2026-05-08T11:03:02Z
+    Author: Michiel K
+    Tags: drinkfles 1 liter zakelijk, duurzaam zakelijk geschenk, HR personeelscadeau, king mungo, King Mungo grote oplage, premium waterfles B2B, relatiegeschenk personeel, Tritan fles kantoor, vitaliteit werkvloer cadeau, waterfles bedrukken 500 stuks
+  - [Onboarding pakket nieuwe medewerker | King Mungo B2B](https://www.kingmungo.nl/blogs/news/onboarding-pakket-nieuwe-medewerker): Onboarding pakket nieuwe medewerker | King Mungo B2B
+    Updated: 2026-05-10T08:09:02Z
+    Author: Michiel K
+    Tags: drinkfles-met-logo, duurzaam-welkomstgeschenk, HR-relatiegeschenk, inwerktraject-cadeau, kantoor-cadeau, king mungo, King-Mungo-b2b, onboarding-pakket-nieuwe-medewerker, vitaliteit-werkvloer, welkomstpakket-personeel
+  - [Zomergeschenk personeel duurzaam | King Mungo drinkflessen](https://www.kingmungo.nl/blogs/news/zomergeschenk_personeel_duurzaam_king_mungo): Zomergeschenk personeel duurzaam | King Mungo drinkflessen
+    Updated: 2026-05-10T15:20:02Z
+    Author: Michiel K
+    Tags: 1 Liter, 1 liter drinkfles, 1 liter drinkflessen reviews, 1 liter fles, B2B_cadeau_vakantie, BPA_vrij_zomergeschenk, drinkfles_bedrukken_zomer, king mungo, King_Mungo_zakelijk_geschenk, origineel_zomer_cadeau_kantoor, vitaliteit_zomer_werkvloer, waterfles_met_ijsfilter, zomergeschenk_personeel_duurzaam, zomerpakket_medewerkers
+  - [Vitaliteitsbeleid personeel drinkfles | King Mungo B2B](https://www.kingmungo.nl/blogs/news/vitaliteitsbeleid_personeel_drinkfles): Vitaliteitsbeleid personeel drinkfles | King Mungo B2B
+    Updated: 2026-05-11T11:26:04Z
+    Author: Michiel K
+    Tags: duurzaam_personeelscadeau, gezonde_werkvloer_cadeau, HR_vitaliteit_kantoor, kantoor_hydratatie, King_Mungo_zakelijk, Tritan_fles_BPA_vrij, vitaliteitsbeleid_personeel_drinkfles, vitaliteitsbudget_besteden, waterfles_bedrukken_bedrijf
+  - [Drinkfles 1 Liter van King Mungo - BPA-vrij & Lekvrij](https://www.kingmungo.nl/blogs/news/drinkfles-1-liter-bpa-vrij-tritan-king-mungo): Drinkfles 1 Liter van King Mungo - BPA-vrij & Lekvrij
+    Updated: 2026-05-11T09:20:03Z
+    Author: Michiel K
+    Tags: 1000ml waterfles, beste drinkfles 2025, BPA vrije drinkfles, drinkbus 1 liter, drinkfles blauw transparant, drinkfles geen smaak, drinkfles kantoor, drinkfles met fruitfilter, drinkfles sport volwassenen, drinkfles vergrendelbare dop, drinkfles zonder BPA, herbruikbare waterfles 1 liter, lekvrije drinkfles, lekvrije waterfles, Tritan drinkfles, vaatwasserbestendige drinkfles, waterfles jarenlang mee
+  - [Drinkfles 1 Liter Mat Blauw – Lekvrij & BPA-vrij | King Mungo](https://www.kingmungo.nl/blogs/news/drinkfles-1-liter-mat-blauw-lekvrij-bpa-vrij-padel-hyrox): Drinkfles 1 Liter Mat Blauw – Lekvrij & BPA-vrij | King Mungo
+    Updated: 2026-05-09T07:38:19Z
+    Author: Michiel K
+    Tags: 1000ml waterfles sport, beste drinkfles 1 liter sport, BPA-vrije drinkfles, drinkfles 1 liter blauw, drinkfles 1 liter mat blauw, drinkfles geen bijsmaak, drinkfles Hyrox, drinkfles met fruitfilter, drinkfles met vergrendelbare dop, drinkfles Padel, drinkfles sport volwassenen, drinkfles Tritan vs RVS, Fast Flow drinkfles, herbruikbare waterfles 1 liter, King Mungo drinkfles mat blauw, lekvrije drinkfles 1 liter, soft-touch drinkfles, Tritan drinkfles 1 liter, vaatwasserbestendige drinkfles, waterfles 1 liter mat
 
 ## Store Pages
 
