@@ -6,103 +6,103 @@
 - Timezone: Europe/Paris
 - Created At: 2026-03-03T19:51:28Z
 - Contact Email: ouest.contact72@gmail.Com
-- Updated At: 2026-04-27T00:00:39.290Z
+- Updated At: 2026-05-13T00:00:44.743Z
 
 ## Products
 
 - [Gants Gaming Haute Précision – Lot de 2  Anti-Transpiration, Anti-Rayures & Confort Total](https://ouestsetup.com/products/gants-de-jeu-anti-rayures-pour-gamer-lot-de-2-pieces-accessoires-pour-smartphone-confortables-et-anti-transpiration): Gants de jeu haute précision – Lot de 2 | Accessoires premium pour gamers mobile Boostez instantanément vos performances sur smartphone grâce à ces gants de jeu conçus pour offrir confort, précision et fluidité. Leur matière respirante et anti-transpiration vous garantit des sessions intenses sans gêne, tandis que leur surface anti-rayures protège votre écran tout en améliorant votre contrôle. ✨ Pourquoi vous allez les adorer : Respirants et ultra-confortablesFabriqués en fibres conductrices fines et aérées, ils évacuent la chaleur et réduisent la transpiration pour un confort durable, même lors des parties les plus longues. Réactivité optimale sur tous les écrans tactilesCompatibles avec tous les smartphones, ils offrent une précision parfaite pour les jeux exigeants comme PUBG, Call of Duty Mobile, Free Fire et bien d’autres. Ajustement ergonomiqueLeur élasticité s’adapte naturellement à toutes les tailles de doigts, assurant une tenue stable sans glisser. Protection anti-rayuresPréservent votre écran des micro-rayures causées par les frottements répétés. Légers et faciles à emporterCompacts et discrets, ils se glissent dans n’importe quelle poche pour être prêts à l’emploi à tout moment. Ces gants sont l’allié indispensable des gamers mobiles qui veulent allier confort, précision et performance. Une petite amélioration… pour un grand avantage en jeu.
-  Updated: 2026-04-20T15:25:29Z
+  Updated: 2026-04-27T12:31:37Z
   Vendor: gestionprodiutagminng
   Product Type: Uncategorized
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/Designsanstitre-2025-05-23T003716.936.png?v=1772567590
   Price: 10,00 € EUR
 - [Mini console de jeux portable 64go écran 3.5" type game boy](https://ouestsetup.com/products/console-de-jeu-video-portable-retro-r36s-ecran-ips-de-3-5-pouces-lecteur-video-de-poche-portable-pour-enfants-64-go-plus-de-10-000-jeux-systeme-arkos): Console de jeu vidéo portable rétro R36S, écran IPS de 3.5 pouces, lecteur vidéo de poche portable pour enfants, 64 Go, plus de 10 000 jeux, système ArkOS Redécouvrez le plaisir du rétro gaming avec la console portable R36S, équipée d’un écran IPS de 3.5 pouces et préchargée avec plus de 10 000 jeux classiques. Idéale pour les enfants comme pour les nostalgiques, cette console au format de poche allie performance, divertissement et praticité. Dotée d’un système ArkOS fluide et d’un espace de stockage de 64 Go, elle vous permet d’accéder instantanément à une vaste bibliothèque de jeux emblématiques. Sa conception robuste et son autonomie généreuse en font le compagnon de voyage idéal pour des heures de plaisir, partout et à tout moment. ✔ Écran IPS 3.5 pouces : Affichage clair, lumineux et confortable pour les yeux.✔ Plus de 10 000 jeux intégrés : Un catalogue rétro inégalé pour tous les âges.✔ 64 Go de mémoire : Stockage généreux pour vos jeux et fichiers multimédias.✔ Système ArkOS : Interface fluide et intuitive pour une navigation simplifiée.✔ Format compact : Emmenez votre console partout, pour jouer en toute liberté.
-  Updated: 2026-04-20T15:25:29Z
+  Updated: 2026-04-27T12:31:37Z
   Vendor: gestionprodiutagminng
   Product Type: Uncategorized
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/Designsanstitre-2025-05-23T020040.734.png?v=1772567592
   Price: 59,99 € EUR
 - [Boîtier PC Gaming AOC CG391 – MATX Panoramique, 3 ARGB Inclus & Support Watercooling 240 mm](https://ouestsetup.com/products/aoc-cg391-boitier-pc-matx-gaming-coque-d-ordinateur-avec-vue-panoramique-compatible-refroidissement-liquide-240-mm-3-ventilateurs-argb-inclus): Boîtier PC Gaming AOC CG391 MATX – Vue Panoramique, 3 Ventilos ARGB, Support Watercooling 240 mm Donnez du caractère à votre setup avec le boîtier PC AOC CG391, pensé pour les configurations MATX puissantes et stylées. Son panneau latéral panoramique façon “fenêtre ouverte sur votre univers gaming” met en scène vos composants comme jamais, tout en garantissant une circulation d’air optimale. Conçu pour les performances extrêmes, il accueille un refroidissement liquide 240 mm et inclut trois ventilateurs ARGB pour un éclairage spectaculaire et entièrement personnalisable. Un choix parfait pour les gamers qui veulent un boîtier aussi performant qu’esthétique. ✨ Ce qui le rend incontournable : Support watercooling 240 mmParfait pour maintenir des températures basses même en pleine charge. 3 ventilateurs ARGB inclusUn flux d’air puissant accompagné d’effets lumineux dynamiques pour un setup qui attire tous les regards. Vue panoramique premiumPanneau latéral transparent offrant une vision complète de votre configuration, idéale pour mettre en valeur vos composants. Format MATX compact et optimiséUn espace intérieur bien pensé pour un montage propre et efficace. Design gaming affirméUn look moderne, lumineux et résolument orienté performance.
-  Updated: 2026-04-20T15:25:29Z
+  Updated: 2026-04-27T12:31:37Z
   Vendor: gestionprodiutagminng
   Product Type: Uncategorized
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/Designsanstitre-2025-05-23T150200.945.png?v=1772567596
   Price: 195,99 € EUR
 - [Redragon H858 – Casque Gaming Tri‑Mode (2.4GHz / Bluetooth / Filaire) – Gris Premium](https://ouestsetup.com/products/redragon-h858-casque-de-jeu-tri-mode-2-4ghz-bluetooth-filaire-coloris-gris): Redragon H858 – Casque Gaming Tri‑Mode 2.4GHz / Bluetooth / Filaire – Coloris Gris Premium Plongez au cœur de l’action avec le Redragon H858, un casque gaming pensé pour offrir une immersion sonore totale et une liberté d’utilisation incomparable. Grâce à sa triple connectivité — 2.4GHz ultra‑rapide, Bluetooth polyvalent et mode filaire — il s’adapte instantanément à votre setup, que vous jouiez sur PC, console, tablette ou smartphone. Son design gris moderne, ses coussinets doux et son micro détachable en font un casque aussi élégant que performant. Que ce soit pour le gaming intensif, les appels vocaux ou le streaming, il vous accompagne avec confort et précision. ✨ Pourquoi il va transformer votre expérience : Triple connectivité intelligentePassez du sans‑fil 2.4GHz au Bluetooth ou au filaire selon vos besoins, sans compromis sur la qualité. Son clair et immersifParfait pour repérer chaque détail en jeu, profiter de vos films ou écouter votre musique avec une belle profondeur. Confort longue duréeArceau réglable, coussinets moelleux et légèreté idéale pour les longues sessions. Micro détachableUne communication nette en jeu, ou une écoute plus libre quand vous n’en avez pas besoin. Style moderne et polyvalentFinition grise élégante qui s’intègre parfaitement à n’importe quel setup.
-  Updated: 2026-04-20T15:25:30Z
+  Updated: 2026-04-27T12:31:37Z
   Vendor: gestionprodiutagminng
   Product Type: Uncategorized
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/Designsanstitre-2025-05-23T151646.096.png?v=1772567598
   Price: 104,99 € EUR
 - [Souris de jeu style pistolet OrionTime L24, poignée verticale, périphérique filaire pour FPS, accessoires personnalisés pour joueur PC](https://ouestsetup.com/products/souris-de-jeu-style-pistolet-oriontime-l24-poignee-verticale-peripherique-filaire-pour-fps-accessoires-personnalises-pour-joueur-pc): Souris de jeu style pistolet OrionTime L24, poignée verticale, périphérique filaire pour FPS, accessoires personnalisés pour joueur PC Dominez vos parties de FPS avec la souris de jeu OrionTime L24, une souris filaire révolutionnaire au design inspiré d’un pistolet. Sa poignée verticale ergonomique offre une prise en main naturelle et confortable, idéale pour les longues sessions de tir et les jeux compétitifs. Conçue pour les gamers en quête de précision et de style, cette souris unique améliore le contrôle et la réactivité dans les jeux de tir à la première personne. Un véritable accessoire signature pour les joueurs passionnés à la recherche d’un périphérique hors du commun. ✔ Design innovant : Forme de pistolet pour une prise en main immersive et originale.✔ Poignée verticale : Réduit la fatigue et optimise le confort pendant les sessions prolongées.✔ Précision de tir : Parfaite pour les FPS, avec un contrôle amélioré et des clics rapides.✔ Connexion filaire : Réactivité maximale sans latence, pour une performance stable.✔ Accessoire de joueur : Idéal pour un setup gaming personnalisé et audacieux.
-  Updated: 2026-04-20T15:25:30Z
+  Updated: 2026-04-27T12:31:38Z
   Vendor: gestionprodiutagminng
   Product Type: Uncategorized
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/Designsanstitre-2025-05-23T152618.930.png?v=1772567600
   Price: 258,99 € EUR
 - [Ventilateur de refroidissement LED réglable pour Xbox Series S, 3 vitesses, 5V, graphite A, avec 7 modes d’éclairage RGB, accessoires de jeu](https://ouestsetup.com/products/ventilateur-de-refroidissement-led-reglable-pour-xbox-series-s-3-vitesses-5v-graphite-a-avec-7-modes-d-eclairage-rgb-accessoires-de-jeu): Ventilateur de refroidissement LED réglable pour Xbox Series S, 3 vitesses, 5V, graphite A, avec 7 modes d’éclairage RGB, accessoires de jeu Gardez votre Xbox Series S au frais même pendant les sessions de jeu les plus intenses grâce à ce ventilateur de refroidissement performant et stylé. Équipé de 3 vitesses réglables et alimenté en 5V via USB, il offre un refroidissement optimal tout en ajoutant une touche lumineuse personnalisée à votre setup grâce à ses 7 modes d’éclairage LED. Silencieux et facile à installer, ce ventilateur est conçu spécifiquement pour s’intégrer à l’arrière de la Xbox Series S, assurant une circulation d’air efficace sans compromettre le design de la console. ✔ Refroidissement efficace : 3 vitesses pour un flux d’air ajustable selon vos besoins.✔ 7 modes RGB : Éclairage LED personnalisable pour un look gamer dynamique.✔ Alimentation USB 5V : Facile à connecter sans alimentation externe.✔ Conception dédiée : Parfaitement adapté à la Xbox Series S pour un montage sûr.✔ Silencieux et fiable : Performance de refroidissement sans bruit gênant.
-  Updated: 2026-04-20T15:25:31Z
+  Updated: 2026-04-27T12:31:38Z
   Vendor: gestionprodiutagminng
   Product Type: Uncategorized
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/Designsanstitre-2025-05-23T153736.138.png?v=1772567602
   Price: 35,99 € EUR
 - [PXN V3II – Volant de course avec pédales, contrôleur de jeu à vibrations pour Xbox One, PC, PS3, PS4, Nintendo Switch](https://ouestsetup.com/products/pxn-v3ii-volant-de-course-avec-pedales-controleur-de-jeu-a-vibrations-pour-xbox-one-pc-ps3-ps4-nintendo-switch): PXN V3II – Volant de course avec pédales, contrôleur de jeu à vibrations pour Xbox One, PC, PS3, PS4, Nintendo Switch Plongez dans une expérience de conduite réaliste avec le volant de course PXN V3II, conçu pour les amateurs de simulation automobile. Compatible avec Xbox One, PS3, PS4, Nintendo Switch et PC, ce contrôleur à retour de vibration vous offre une immersion totale dans chaque virage, accélération et freinage. Équipé de pédales sensibles à la pression, d’un volant ergonomique avec rotation réaliste et de multiples boutons programmables, le PXN V3II vous permet de personnaliser votre style de conduite tout en profitant de sensations proches de la réalité. ✔ Compatibilité multi-plateforme : Fonctionne avec Xbox One, PS3, PS4, Switch et PC.✔ Retour de vibration : Ressentez chaque action pour une immersion maximale.✔ Ensemble complet : Volant + pédales pour une simulation de conduite complète.✔ Rotation réaliste : Volant avec amplitude précise pour un contrôle fluide.✔ Design ergonomique : Confort et stabilité pour les longues sessions de jeu.
-  Updated: 2026-04-20T15:25:31Z
+  Updated: 2026-04-27T12:31:38Z
   Vendor: gestionprodiutagminng
   Product Type: Uncategorized
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/Designsanstitre-2025-05-23T154529.901.png?v=1772567604
   Price: 175,99 € EUR
 - [Nouveau sac de transport portable pour PS5, mallette de voyage multifonction, sac à main, bandoulière et sac à dos pour console PlayStation 5 et accessoires](https://ouestsetup.com/products/nouveau-sac-de-transport-portable-pour-ps5-mallette-de-voyage-multifonction-sac-a-main-bandouliere-et-sac-a-dos-pour-console-playstation-5-et-accessoires): Nouveau sac de transport portable pour PS5, mallette de voyage multifonction, sac à main, bandoulière et sac à dos pour console PlayStation 5 et accessoires Transportez votre console PS5 en toute sécurité grâce à cette mallette de voyage polyvalente et élégante. Conçue pour s’adapter parfaitement à la PlayStation 5 et ses accessoires, elle peut être portée à la main, à l’épaule ou comme un sac à dos, selon vos préférences et vos déplacements. Doté d’un intérieur rembourré et de compartiments bien pensés, ce sac assure une protection optimale contre les chocs, la poussière et les rayures. Idéal pour les déplacements, les LANs ou simplement pour organiser votre espace de rangement à la maison. ✔ Compatibilité PS5 : Parfaitement adapté à la console, manettes et câbles.✔ 3 modes de port : Utilisable en sac à dos, bandoulière ou sac à main.✔ Intérieur renforcé : Compartiments rembourrés pour une protection optimale.✔ Pratique en voyage : Léger, robuste et conçu pour les déplacements fréquents.✔ Design moderne : Allie fonctionnalité et style pour les gamers en mouvement.
-  Updated: 2026-04-20T15:25:32Z
+  Updated: 2026-04-27T12:31:38Z
   Vendor: gestionprodiutagminng
   Product Type: Uncategorized
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/Designsanstitre-2025-05-23T155118.246.png?v=1772567606
   Price: 39,55 € EUR
 - [Support RGB Xbox Series X S Hub USB](https://ouestsetup.com/products/station-de-support-a-lumiere-rgb-pour-console-xbox-series-x-s-avec-hub-usb-a-3-ports-et-base-led-coloree-pour-accessoires-gaming): Optimisez votre setup avec ce support RGB Xbox Series X S hub USB : base LED colorée, hub USB 3 ports, idéal pour organiser vos accessoires gaming.
-  Updated: 2026-04-20T15:25:32Z
+  Updated: 2026-04-27T12:31:38Z
   Vendor: gestionprodiutagminng
   Product Type: Uncategorized
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/Designsanstitre-2025-05-23T160504.946.png?v=1772567608
   Price: 49,57 € EUR
 - [Clavier Mécanique Rétro Punk RGB 104 Touches](https://ouestsetup.com/products/clavier-mecanique-retro-punk-104-touches-interrupteurs-bleus-noirs-marrons-retroeclairage-rgb-usb-filaire-pour-pc-et-ordinateur-portable): Adoptez un clavier mécanique rétro punk RGB 104 touches:104 touches, switches bleus/noirs/marrons, RGB, USB filaire, idéal pour PC et portable avec style unique
-  Updated: 2026-04-20T15:25:32Z
+  Updated: 2026-04-27T12:31:39Z
   Vendor: gestionprodiutagminng
   Product Type: Uncategorized
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/Designsanstitre-2025-05-23T161149.691.png?v=1772567610
   Price: 88,99 € EUR
 - [Chaise Gaming Dowinx Ergonomique Cuir PU](https://ouestsetup.com/products/dowinx-chaise-de-gaming-ergonomique-en-cuir-pu-fauteuil-de-bureau-inclinable-avec-support-lombaire-energetique-ideale-pour-e-sport-et-ordinateur): chaise gaming Dowinx ergonomique cuir PU ergonomique, cuir PU, inclinable avec support lombaire, idéale pour e-sport, bureau et longues sessions confortables.
-  Updated: 2026-04-20T15:25:33Z
+  Updated: 2026-04-27T12:31:39Z
   Vendor: gestionprodiutagminng
   Product Type: Uncategorized
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/Designsanstitre-2025-05-23T161628.124.png?v=1772567612
   Price: 295,99 € EUR
 - [Enseigne Néon Gaming LED USB Décoration Murale](https://ouestsetup.com/products/enseigne-au-neon-avec-icone-de-jeu-decoration-murale-led-alimentee-par-usb-veilleuse-gaming-pour-salle-de-jeux-et-decoration-d-interieur): Ajoutez du style avec une enseigne néon gaming LED USB : décoration murale lumineuse, veilleuse moderne idéale pour salle de jeux et intérieur.
-  Updated: 2026-04-20T15:25:33Z
+  Updated: 2026-04-27T12:31:39Z
   Vendor: gestionprodiutagminng
   Product Type: Uncategorized
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/Designsanstitre-2025-05-23T162050.391.png?v=1772567614
   Price: 33,80 € EUR
 - [Écran LED Pixel Matrix RGB 64x64 Bluetooth](https://ouestsetup.com/products/ecran-intelligent-led-pixel-matrix-rgb-64x64-affichage-bluetooth-controle-par-application-panneau-lumineux-diy-pour-art-numerique-jeu-anime-et-deco-de-chambre): Créez avec l’écran LED écran LED Pixel Matrix RGB 64x64 Bluetooth: RGB, Bluetooth, contrôlé par app, idéal pour art numérique, gaming, anime et déco de chambre.
-  Updated: 2026-04-20T15:25:34Z
+  Updated: 2026-04-27T12:31:39Z
   Vendor: gestionprodiutagminng
   Product Type: Uncategorized
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/Designsanstitre-2025-05-23T162246.755.png?v=1772567616
   Price: 89,99 € EUR
 - [Tapis de Souris Gaming Étendu Antidérapant](https://ouestsetup.com/products/tapis-de-souris-de-jeu-en-caoutchouc-surface-etendue-pour-clavier-et-ordinateur-portable-base-antiderapante-bureau-gaming-ou-bureautique): Tapis de Souris Gaming Étendu Antidérapant : surface lisse, base antidérapante, idéal pour clavier et PC portable, précision et confort au quotidien.
-  Updated: 2026-04-20T15:25:35Z
+  Updated: 2026-04-27T12:31:39Z
   Vendor: gestionprodiutagminng
   Product Type: Uncategorized
   Availability: Available
@@ -769,14 +769,14 @@
   Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/S3d35c4c12b7d44d78d55accfbdf87d7aX.webp?v=1775657361
   Price: 97,17 € EUR
 - [PINGGO Gaming Chair – Fauteuil Ergonomique avec Repose‑Pieds, Massage Lombaire & PVC Leather | 150 kg](https://ouestsetup.com/products/pinggo-ergonomic-game-chair-with-footrest-massage-pvc-leather-office-chair-for-pc-gaming-weight-capacity-150kg): ⭐ PINGGO – Chaise Gaming Ergonomique avec Repose‑Pieds & Massage | Simili‑Cuir PVC | Charge 150 kg La PINGGO W3298P376258 est une chaise gaming et bureau pensée pour offrir un confort optimal, un soutien ergonomique complet et une durabilité exceptionnelle. Conçue en simili‑cuir PVC premium, équipée d’un repose‑pieds rétractable, d’un coussin lombaire massant et d’un dossier inclinable, elle s’adapte à toutes les situations : travail, jeu ou détente. 🧩 Caractéristiques Principales Marque : PINGGO Modèle : W3298P376258 Type : Chaise de bureau / Chaise gaming Matériau : Simili‑cuir PVC + structure métal Hauteur réglable : Oui Dossier inclinable : 90° / 105° / 135° Repose‑pieds : Rétractable Massage lombaire : Oui Accoudoirs : Inclus (système à liaison synchronisée) Rotation : 360° Roulette : Oui (silencieuses) Charge maximale : 150 kg Dimensions : 58.5 × 63 × 120.5 cm Montage : À assembler Origine : Chine continentale 🎮 Points Forts 🪑 1. Ergonomie complète – Soutien de la nuque à la taille Le design épouse la courbure naturelle de la colonne vertébrale : Appui‑tête ergonomique Coussin lombaire massant Soutien continu du cou, du dos et des lombaires Réduction de la fatigue lors des longues sessions de travail ou de jeu 🔧 2. Réglages polyvalents pour tous les usages Hauteur réglable jusqu’à 10 cm Dossier inclinable à 90° / 105° / 135° Repose‑pieds rétractable pour la détente Parfaite pour travailler, jouer, regarder des vidéos ou se reposer 🤝 3. Accoudoirs à liaison synchronisée Les accoudoirs s’ajustent automatiquement lorsque le dossier s’incline. Résultat : Soutien constant des bras Posture plus naturelle Confort amélioré en toutes positions 🛡️ 4. Stabilité & robustesse renforcées Cadre en acier haute résistance Base en fer robuste Roulettes silencieuses et durables Charge maximale : 150 kg Une chaise conçue pour durer, même en usage intensif. 📦 Contenu du colis 1 × Chaise gaming PINGGO 1 × Repose‑pieds intégré 1 × Coussin lombaire massant 1 × Appui‑tête 1 × Kit de montage 1 × Manuel d’installation 🏁 Résumé La PINGGO Ergonomic Game Chair combine confort, ergonomie et durabilité. Avec son massage lombaire, son repose‑pieds, son dossier inclinable et sa structure renforcée, elle offre une expérience premium pour le gaming comme pour le télétravail.
-  Updated: 2026-04-20T15:25:36Z
+  Updated: 2026-05-09T23:40:44Z
   Vendor: Ouest Setup
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/S45508b21fdd74cafb5b32c3b5b0ac5fde.webp?v=1775657362
   Price: 139,99 € EUR
 - [FIFINE D6 – Macro Pad 15 Touches | Custom Actions via App | Idéal OBS, Twitch, YouTube, VK](https://ouestsetup.com/products/fifine-d6-mini-keyboard-with-15-customizable-macro-buttons-trigger-actions-via-app-custom-macros-for-obs-twitch-youtube-vk): ⭐ FIFINE D6 – Mini Clavier 15 Touches LCD Programmables | Macro Pad USB | Raccourcis OBS / Twitch / YouTube Le FIFINE D6 est un mini‑clavier filaire conçu pour les créateurs, streamers et utilisateurs multitâches. Grâce à ses 15 touches LCD indépendantes, chaque fonction devient visuelle, intuitive et instantanément reconnaissable. Plus besoin de retenir des combinaisons complexes : un simple coup d’œil suffit pour déclencher vos actions. 🧩 Caractéristiques Principales Marque : FIFINE Modèle : D6 Type : Mini Keyboard / Macro Pad Touches : 15 touches LCD personnalisables Technologie : Membrane Interface : USB Connexion : Filaire Langue : Anglais Compatibilité : PC & Laptop Certification : CE, FCC, KC Batterie : Non (alimentation USB) Aucune substance nocive 🎮 Points Forts 🖥️ 1. 15 touches LCD – Contrôle visuel et intuitif Chaque touche possède son propre écran LCD, permettant d’afficher : Icônes personnalisées Logos d’applications Raccourcis visuels Fonctions OBS / Twitch / YouTube Un gain de temps énorme pour les créateurs et streamers. ⚙️ 2. Macros personnalisables via l’application Configure : Actions OBS (scènes, mute, transitions…) Commandes Twitch Raccourcis YouTube Copie / Coller / Capture d’écran Automatisations de workflow Raccourcis logiciels (Photoshop, Premiere, Excel…) 🎛️ 3. Contrôle polyvalent Idéal pour : Streaming Montage vidéo Productivité Gaming Gestion de playlists Automatisation de tâches répétitives 🔌 4. Plug‑and‑Play USB Aucune batterie, aucune configuration complexe. Branche, configure, utilise. 🧩 5. Format mini & ergonomique Compact, léger et facile à intégrer dans n’importe quel setup. 📦 Contenu du colis 1 × Mini clavier FIFINE D6 1 × Câble USB 1 × Manuel d’utilisation 🏁 Résumé Le FIFINE D6 est un outil puissant pour booster ta productivité et simplifier ton workflow. Avec ses 15 touches LCD, ses macros personnalisables et sa compatibilité streaming, il devient un indispensable pour les créateurs, streamers et professionnels. Personnalisez chaque touche en fonction de vos besoins : macros, raccourcis, actions système ou commandes d’applications. Parfait pour les créateurs de contenu, développeurs, joueurs, monteurs vidéo et professionnels, ce contrôleur transforme votre workflow en une expérience fluide, rapide et ultra‑optimisée. Icônes personnalisées – Un style qui vous ressemble Personnalisation en un clin d’œil – Drag, Drop, Done Grâce à une interface fluide et visuelle, il suffit de faire glisser vos icônes ou actions pour configurer chaque touche. Aucun logiciel complexe, aucune prise de tête : tout est pensé pour aller vite et bien. Profils personnalisés – Une transition parfaite entre chaque activité Configurez des profils adaptés à chaque usage : streaming, édition, bureautique, gaming… Basculez d’un environnement à l’autre en un clic et optimisez chaque seconde de votre workflow. Smart Folder System – Une organisation sans effort Classez vos actions par catégories pour garder un espace de travail propre et intuitif. Chaque dossier simplifie votre navigation et transforme votre workflow en une expérience parfaitement maîtrisée. RGB Dynamique – Faites vibrer votre setup L’anneau RGB ajoute une dimension visuelle unique : couleurs réactives, animations fluides, ambiance personnalisée. Associez vos effets lumineux à vos scènes OBS, à vos macros ou à votre mood du moment pour un contrôle aussi esthétique qu’efficace. Boostez votre efficacité – Travaillez plus vite, sans effort Dites adieu aux manipulations fastidieuses. Grâce aux commandes instantanées, vous gagnez du temps sur le streaming, l’édition et votre workflow quotidien. Un seul geste, et tout s’enchaîne. Compatibilité étendue – Intégrez‑le à votre univers Que vous streamiez sur OBS, gériez vos scènes Twitch ou automatisiez vos tâches YouTube, le D6 s’adapte à tous vos outils. Compatible Windows & macOS, il suffit d’installer le logiciel pour débloquer toute la puissance de la personnalisation. 📥 Liens de téléchargement du logiciel Windows : fifine.key123.vip/win Mac : fifine.key123.vip/mac c
-  Updated: 2026-04-20T15:25:36Z
+  Updated: 2026-05-11T12:42:01Z
   Vendor: Ouest Setup
   Product Type: 
   Availability: Available
@@ -784,13 +784,13 @@
   - [Black / China Mainland](https://ouestsetup.com/products/fifine-d6-mini-keyboard-with-15-customizable-macro-buttons-trigger-actions-via-app-custom-macros-for-obs-twitch-youtube-vk?variant=53151745048914)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/S52a34238aa0d47939a55dde111521b0aa.webp?v=1775657483
-    Price: 86,99 € EUR
+    Price: 125,00 € EUR
   - [White / China Mainland](https://ouestsetup.com/products/fifine-d6-mini-keyboard-with-15-customizable-macro-buttons-trigger-actions-via-app-custom-macros-for-obs-twitch-youtube-vk?variant=53151745081682)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/S6945c0d4ce8d445899a79c4216c44c2eF.webp?v=1775657484
-    Price: 92,99 € EUR
+    Price: 120,00 € EUR
 - [O3C SayoDevice – Rapid Trigger HE Keyboard | Magnetic Pink Switches | Knob & Screen | OSU / FPS / Gaming](https://ouestsetup.com/products/o3c-sayodevice-osu-o3c-rapid-trigger-hall-switches-magnetic-pink-switches-keyboard-with-knob-screen-copy-paste-shotcut): ⭐ SayoDevice O3C – Mini Clavier Hall Effect | Rapid Trigger 0.05 mm | Magnetic Pink Switches | Écran IPS + Molette | 8K Polling Le SayoDevice O3C est un mini‑clavier mécanique nouvelle génération conçu pour la vitesse, la précision et la personnalisation totale. Grâce à ses switchs magnétiques Hall Effect, son Rapid Trigger réglable, son écran IPS intégré et sa molette programmable, il devient un outil puissant pour le gaming (OSU, FPS), la création, la productivité et les raccourcis avancés. 🧩 Caractéristiques Principales Marque : SayoDevice Modèle : O3C Type : Mini clavier mécanique Technologie : Hall Effect (magnetic switches) Switches : OUTEMU Pink Magnetic Hot‑Swap : Oui (compatible axes magnétiques) Connexion : USB Type‑C → USB Polling Rate : 8000 Hz (8K) Rétroéclairage : Multicolore Écran : IPS 0,96" couleur Matériau des keycaps : ABS (gravure laser) Langue : Anglais Compatibilité : PC, Laptop, Tablette Batterie : Non (filaire) Aucune substance nocive 🎮 Points Forts ⚡ 1. Rapid Trigger personnalisable (jusqu’à 0,05 mm) Déclenchement ultra‑rapide Réinitialisation instantanée Idéal pour OSU, FPS, rhythm games et actions répétitives Ajustement précis du point d’activation et de relâchement 🧲 2. Switchs magnétiques Hall Effect Détection sans contact → durabilité accrue Sensation fluide et linéaire Compatible avec tous les axes magnétiques (calibration en un clic) 📺 3. Écran IPS 0,96" intégré Affiche : Distance d’activation en temps réel Compteur de frappes Informations système Texte personnalisé (ID, pseudo, message…) 🎛️ 4. Molette programmable Peut être assignée à n’importe quelle fonction Exemples : volume, scroll, changement de musique, navigation OSU, timeline vidéo… 🌈 5. Rétroéclairage multicolore Effets lumineux variés Personnalisation complète 🔌 6. Polling Rate 8K Temps de réponse extrêmement bas Fluidité maximale Optimisé pour les joueurs compétitifs 📦 Contenu du colis 1 × Clavier SayoDevice O3C 1 × Câble USB‑C (Pas d’emballage officiel selon la fiche) 🏁 Résumé Le SayoDevice O3C est un mini‑clavier hautes performances pensé pour la vitesse et la précision. Avec ses switchs magnétiques, son Rapid Trigger, son écran IPS, sa molette programmable et son polling 8K, il offre un contrôle total pour le gaming, la création et la productivité avancée. Black Pink
-  Updated: 2026-04-20T15:25:37Z
+  Updated: 2026-04-27T12:31:41Z
   Vendor: Ouest Setup
   Product Type: 
   Availability: Available
@@ -808,14 +808,14 @@
     Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/Sca5a499beb334a69867d78fb064280645.webp?v=1775657484
     Price: 44,99 € EUR
 - [One‑Handed Gaming Keyboard 35 Keys – Mini Clavier RGB Filaire | Ultra‑Fin pour PC, Laptop & Smartphone](https://ouestsetup.com/products/35keys-one-handedly-single-hand-mini-gaming-keyboard-usb-ultra-slim-wired-backlight-keyboard-for-laptop-desktop-pc-smartphone): ⭐ Mini Clavier TEUCER – Split Capacitif | Filaire USB | Compact & Ergonomique Le TEUCER Split Capacitif est un mini‑clavier filaire conçu pour offrir une frappe fluide, silencieuse et précise. Grâce à sa technologie capacitive et à son format compact, il s’adresse aux utilisateurs recherchant un clavier ergonomique, réactif et adapté aux environnements professionnels comme au gaming léger. 🧩 Caractéristiques Principales Marque : TEUCER Type : Mini clavier filaire Technologie de frappe : Capacitive (ultra‑réactive, silencieuse, durable) Interface : USB Style : Standard / Ergonomique / Split Fabricant de switches : Skyloong Langue : Anglais Clavier pleine taille : Non Support poignet : Non Batterie : Aucune (fonctionne en USB direct) Origine : Chine continentale Aucune substance nocive 🎮 Points Forts ⚡ 1. Technologie capacitive hautes performances Offre une frappe douce, rapide et silencieuse, idéale pour la saisie prolongée et les environnements professionnels. 🧠 2. Format split ergonomique Réduit la tension des poignets et améliore la posture, parfait pour les utilisateurs sensibles au confort. 🔌 3. Connexion USB stable et fiable Plug‑and‑play sur PC et ordinateur portable, sans configuration complexe. 🎯 4. Mini clavier polyvalent Convient pour : Bureautique Programmation Utilisation nomade Setups minimalistes Gaming léger 🛠️ 5. Switches Skyloong Qualité reconnue, sensation de frappe précise et durable. 📦 Contenu du colis 1 × Mini clavier TEUCER 1 × Câble USB 1 × Manuel d’utilisation 🏁 Résumé Le TEUCER Split Capacitif est un mini‑clavier ergonomique et performant, idéal pour les utilisateurs recherchant un outil compact, fiable et confortable. Sa technologie capacitive et son design split en font un excellent choix pour un usage quotidien, professionnel ou créatif.
-  Updated: 2026-04-20T15:25:37Z
+  Updated: 2026-05-11T12:42:01Z
   Vendor: Ouest Setup
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/Se3aa1ab7f5c246bab69229ebc6ca86aeD.webp?v=1775657485
   Price: 13,54 € EUR
 - [Ajazz AKP03E / 153E – Mini Console Programmable | Macro Pad USB | Idéal Gaming, Streaming & Création](https://ouestsetup.com/products/ajazz-akp03e-153e-desktop-helper-desk-console-panel-controller-programmable-macro-custom-button-mini-keyboard-multiple-scenario): ⭐ Ajazz AKP03E – Mini‑Clavier Multifonction Programmable | Console de Bureau | Assistant de Productivité Le Ajazz AKP03E est un mini‑clavier filaire conçu pour améliorer l’efficacité au bureau, en création ou en gaming. Compact, ergonomique et doté de boutons personnalisables, il s’adapte à de multiples scénarios : montage vidéo, streaming, bureautique, macros de jeu, raccourcis logiciels, etc. 🧩 Caractéristiques Principales Marque : Ajazz Modèle : AKP03E Type : Mini‑clavier / Console multifonction Connexion : USB (filaire) Mode de fonctionnement : Mécanique Hot‑Swap : Non Langue : Anglais Clavier pleine taille : Non Support poignet : Non Emballage : Oui Origine : Chine continentale Aucune substance nocive 🎮 Points Forts 🔧 1. Mini‑clavier programmable polyvalent Idéal pour : Raccourcis logiciels (Photoshop, Premiere, Excel…) Macros de jeu Commandes de streaming Automatisation de tâches répétitives Contrôle multimédia 🖥️ 2. Compatible PC, laptop et tablette Fonctionne en plug‑and‑play via USB, sans batterie ni configuration complexe. ⌨️ 3. Touches mécaniques réactives Offrent une sensation de frappe nette et précise, idéale pour les actions rapides. 🧠 4. Design compact & ergonomique Format minimaliste, facile à placer à côté d’un clavier principal ou d’une tablette graphique. 🎛️ 5. Multi‑scénarios Pensé pour les créateurs, développeurs, joueurs, monteurs vidéo, musiciens, streamers et utilisateurs multitâches. 📦 Contenu du colis 1 × Mini‑clavier Ajazz AKP03E 1 × Manuel d’utilisation 🏁 Résumé Le Ajazz AKP03E est un outil compact et puissant pour booster la productivité et simplifier les workflows. Que ce soit pour le gaming, la création ou la bureautique, il offre une solution pratique et personnalisable pour gagner du temps et travailler plus efficacement.
-  Updated: 2026-04-20T15:25:38Z
+  Updated: 2026-05-11T12:42:01Z
   Vendor: Ouest Setup
   Product Type: 
   Availability: Available
@@ -837,14 +837,14 @@
     Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/S5e78292f042f46b6b0e6a76be4818021D.webp?v=1775657485
     Price: 50,33 € EUR
 - [Wired RGB Keyboard – 68 Keys | Compact Gaming Keyboard for PC & Laptop | Membrane Haute Réactivité](https://ouestsetup.com/products/60-compact-wired-keyboard-68-keys-rgb-backlight-small-portable-office-computer-membrane-keyboard-for-windows-tablet-laptop-game): ⭐ Clavier Gaming HXSJ V200 – 68 Touches | RGB | Filaire USB | Membrane | Compact & Polyvalent Le HXSJ V200 est un clavier compact de 68 touches, pensé pour les joueurs et les utilisateurs en quête d’un clavier portable, ergonomique et riche en fonctionnalités. Grâce à son rétroéclairage RGB multieffets, ses touches multimédias et sa compatibilité étendue, il offre une expérience fluide aussi bien en jeu qu’en bureautique. ATTENTION CLAVIER QWERTY 🧩 Caractéristiques Principales Marque : HXSJ Type : Clavier filaire USB Technologie : Membrane Nombre de touches : 68 Rétroéclairage : RGB (20+ modes) Matériau des touches : ABS (moulage par injection) Langue : Anglais (US) Compatibilité : PC, ordinateur portable, tablette Systèmes supportés : Win98SE / Me / 2000 / XP / Vista / Win7 / Win10 / Win11 / iOS Durée de vie des touches : 10 millions de frappes Longueur du câble : 170 cm Dimensions : 31 × 10,1 × 3,5 cm Poids : 327 g Emballage : Inclus (clavier + manuel) Aucune substance nocive 🎮 Points Forts 🌈 1. Rétroéclairage RGB spectaculaire Plus de 20 modes lumineux pour personnaliser ton ambiance : effets streamer, couleurs fixes, transitions, luminosité réglable, vitesse ajustable. ⌨️ 2. Format compact 68 touches Idéal pour les setups minimalistes, les petits bureaux ou les déplacements. Support complet des combinaisons de touches pour le gaming et la bureautique. 🧠 3. Membrane durable & silencieuse Touches confortables, réactives et conçues pour durer 10 millions de pressions. 🔌 4. Câble détachable USB‑C → USB Connexion moderne, pratique et robuste. Caractères rétroéclairés pour une meilleure lisibilité. 💻 5. Compatibilité universelle Fonctionne en plug‑and‑play sur la plupart des systèmes Windows et iOS. 🎯 6. Raccourcis & fonctions avancées FN + R / T / Y : contrôle du volume FN + flèches : vitesse & luminosité RGB FN + {[ / ] / ]} : modes d’éclairage FN + W : permutation WASD ↔ flèches FN + Win : verrouillage de la touche Windows FN + chiffres : accès aux touches F1–F12 📦 Contenu du colis 1 × Clavier HXSJ V200 1 × Manuel d’utilisation (anglais)
-  Updated: 2026-04-20T15:25:38Z
+  Updated: 2026-05-11T12:42:01Z
   Vendor: Ouest Setup
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/S85e838495f6a47438cbb4c5a4be971abq.webp?v=1775657486
   Price: 19,10 € EUR
 - [Tapis de Souris XXL – Raccourcis Excel en Français | Grand Tapis de Bureau | Antidérapant & Lavable](https://ouestsetup.com/products/french-excel-shortcuts-pattern-large-mouse-pad-office-desk-mat-computer-keyboard-pad-starters-gift-for-office-workers-students): ⭐ Tapis de Souris XXL Raccourcis Excel FR – Antidérapant & Lavable | Idéal Bureau & Études Optimisez votre productivité avec ce tapis de souris XXL dédié aux raccourcis Excel en français. Conçu pour les étudiants, les débutants et les professionnels, il offre une surface confortable, une excellente stabilité et un guide visuel clair pour travailler plus vite et plus efficacement. 🧩 Caractéristiques Principales Marque : Hot Off Matériau : Caoutchouc naturel + surface textile Fonctions : Antidérapant, lavable, durable Origine : Chine continentale État : En stock Emballage : Inclus Aucune substance nocive 🎓 Parfait pour Apprendre & Travailler Plus Vite Guide visuel clair des raccourcis Excel en français Idéal pour les débutants, étudiants, comptables, assistants, analystes… Gain de temps immédiat dans les tâches quotidiennes 🖱️ Confort & Précision au Quotidien Surface lisse : glisse fluide et contrôle précis de la souris Base antidérapante : reste parfaitement en place sur le bureau Format large : espace suffisant pour clavier + souris 🧼 Durable, Lavable & Résistant Se nettoie facilement à l’eau Impression résistante grâce au procédé thermique Ne se décolore pas et conserve ses couleurs vives 🏡 Polyvalent & Pratique Convient pour : Bureau Télétravail Études Cadeau utile pour collègues, étudiants ou proches
-  Updated: 2026-04-20T15:25:39Z
+  Updated: 2026-05-11T12:42:01Z
   Vendor: Ouest Setup
   Product Type: 
   Availability: Available
@@ -862,7 +862,7 @@
     Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/S3fec88f788c0496a9c8a2866784f0e518.webp?v=1775657488
     Price: 32,99 € EUR
 - [Large Gaming Mouse Pad XXL 90×40 – Surface Lisse Haute Précision | Antidérapant | Bureau & PC Gamer](https://ouestsetup.com/products/large-gaming-mouse-pad-hot-computer-office-game-table-mats-xxl-90x40cm-rubber-anti-slip-laptop-keyboard-mousepads-long-desk-pads): ⭐ Tapis de Souris Gaming XXL 90×40 cm – Surface Lisse & Base Antidérapante | Mairuige Optimisez votre espace de jeu ou de travail avec le tapis de souris XXL Mairuige, conçu pour offrir une glisse parfaite, une stabilité maximale et un confort durable. Grâce à sa grande surface de 90 × 40 cm, il accueille facilement votre clavier et votre souris, tout en apportant une touche esthétique à votre bureau. 🧩 Caractéristiques Principales Marque : Mairuige Fonctions : Lavable, antidérapant, durable Matériau : Caoutchouc naturel + surface textile microfibre État : En stock Origine : Chine continentale Épaisseurs disponibles : 2 mm / 3 mm / 4 mm / 5 mm Style : Antidérapant, protection du bureau Tailles : Plusieurs formats disponibles Emballage : Inclus Support : Dropshipping, livraison rapide, vente en gros Aucune substance nocive 🎮 Pensé pour les Gamers & les Professionnels Surface lisse haute précision : glisse rapide, contrôle précis, idéale pour souris laser ou optique. Base en caoutchouc antidérapante : adhérence parfaite, même lors de mouvements rapides. Grande surface XXL : espace généreux pour clavier + souris, parfait pour gaming, bureautique ou télétravail. Matériau premium : caoutchouc naturel souple + tissu microfibre doux et résistant. 🧼 Lavable & Résistant à la Décoloration Se nettoie facilement à l’eau en cas de taches. Impression durable grâce au procédé de sublimation thermique : couleurs vives, motif inaltérable. Ne se déforme pas : se plie sans marquer et reprend sa forme naturellement. 📏 Tolérances & Informations Importantes Une légère variation de couleur peut apparaître selon les écrans et la technique d’impression. Une légère odeur de caoutchouc peut être présente à l’ouverture : elle disparaît après aération. Tolérance de 1 à 2 cm possible en raison de la couture des bords. Peut être légèrement déformé pendant le transport : laissez-le à plat 1–2 jours. 🖱️ Idéal Pour Gaming Bureaux professionnels Télétravail Setups esthétiques Cadeaux Sets de table ou tapis décoratifs
-  Updated: 2026-04-20T15:25:40Z
+  Updated: 2026-05-11T12:42:01Z
   Vendor: Ouest Setup
   Product Type: 
   Availability: Available
@@ -1328,7 +1328,7 @@
     Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/S652668af5ebf46f7acb3f0c2341c3c77g.webp?v=1775657491
     Price: 8,06 € EUR
 - [Tapis de souris gamer XXL antidérapant gamepad](https://ouestsetup.com/products/gamepad-pattern-mouse-pad-large-gaming-mousepad-xxl-gamer-keyboard-pads-office-laptop-desk-mats-non-slip-rubber-home-table-mat): Tapis de souris gamer XXL antidérapant gamepad avec surface large antidérapante, idéal pour clavier et souris et une meilleure précision de jeu.
-  Updated: 2026-04-20T15:25:40Z
+  Updated: 2026-05-11T12:42:01Z
   Vendor: Ouest Setup
   Product Type: 
   Availability: Available
@@ -1494,7 +1494,7 @@
     Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/Sbc01e704315d434f8c6688c0f9fada5bF.webp?v=1775657490
     Price: 33,99 € EUR
 - [ASUS ROG tapis de souris gamer antidérapant](https://ouestsetup.com/products/as-us-rog-game-player-square-mousepad-small-size-home-desk-protector-mat-washable-desktop-mouse-pad-anti-slip-rubber-table-mats): ASUS ROG tapis de souris gamer antidérapant et petit format lavable avec surface haute précision pour un contrôle optimal en jeu.
-  Updated: 2026-04-20T15:25:41Z
+  Updated: 2026-05-11T12:42:01Z
   Vendor: Ouest Setup
   Product Type: 
   Availability: Available
@@ -1660,7 +1660,7 @@
     Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/Se633825425f145a789d0f17a58d3ce94I.webp?v=1775657491
     Price: 4,99 € EUR
 - [IMICE GW-X7 souris gaming sans fil 3200 DPI RGB](https://ouestsetup.com/products/wireless-gaming-mouse-usb-imice-gw-x7-3200dpi-dual-mode-rechargeable-7-keys-2-4ghz-silent-mouse-bluetooth-7-color-breathing-led): IMICE GW-X7 souris gaming sans fil 3200 DPI RGB+ Bluetooth 3200 DPI avec 7 boutons silencieux et LED RGB 7 couleurs pour une expérience fluide.
-  Updated: 2026-04-20T15:25:41Z
+  Updated: 2026-05-11T12:42:01Z
   Vendor: Ouest Setup
   Product Type: 
   Availability: Available
@@ -1674,14 +1674,14 @@
     Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/S49e08c5e7d094e259260f73f62be426fE.webp?v=1775657490
     Price: 39,99 € EUR
 - [AK820 PRO clavier mécanique AZERTY FR RGB](https://ouestsetup.com/products/iso-fr-layout-epomaker-x-ajazz-ak820-pro-75-azerty-french-hot-swap-wired-bt-2-4ghz-wireless-mechanical-keyboard-for-win-mac-pc): AK820 PRO clavier mécanique AZERTY FR RGB hot-swap RGB avec connexion filaire, Bluetooth et 2.4GHz pour une expérience gaming et productivité.
-  Updated: 2026-04-20T15:25:42Z
+  Updated: 2026-04-27T12:31:43Z
   Vendor: Ouest Setup
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/Sfeb310c83aaf4fad9b93a99e23b81493R.webp?v=1775657491
   Price: 79,99 € EUR
 - [EPOMAKER EK21 numpad tri-mode gasket VIA](https://ouestsetup.com/products/epomaker-ek21-via-20-gasket-wired-bluetooth-2-4ghz-wireless-nkro-numpad-aluminum-alloy-knob-1000mah-battery-for-win-mac-gaming): EPOMAKER EK21 numpad tri-mode gasket VIA USB-C/BT/2.4G avec gasket mount, bouton en aluminium et compatibilité VIA pour une personnalisation avancée.
-  Updated: 2026-04-20T15:25:42Z
+  Updated: 2026-05-11T12:42:10Z
   Vendor: Ouest Setup
   Product Type: 
   Availability: Available
@@ -1703,7 +1703,7 @@
     Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/Sa5ae959cc12f49fda95bb43b2b06cffah.webp?v=1775657492
     Price: 45,99 € EUR
 - [FreeWolf M96 clavier gaming wireless écran](https://ouestsetup.com/products/freewolf-m96-wireless-keyboard-with-screen-gaming-keyboard-bluetooth-dual-mode-connection-multi-device-linking-ergonomic): FreeWolf M96 clavier gaming wireless écran avecintégré, double mode BT/2.4G et connexion multi-device pour une expérience fluide et moderne.
-  Updated: 2026-04-20T15:25:43Z
+  Updated: 2026-05-11T12:42:01Z
   Vendor: Ouest Setup
   Product Type: 
   Availability: Available
@@ -1757,7 +1757,7 @@
     Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/Sadd57bf9783247138f33f7b609e6f081G.webp?v=1775657493
     Price: 49,99 € EUR
 - [AJ139-V2-MC souris gaming tri-mode 12000 DPI](https://ouestsetup.com/products/aj139-v2-mc-tri-mode-wired-2-4ghz-bt-wireless-gaming-mouse-with-dock-paw3311-gaming-chipset-12000dpi-max): AJ139-V2-MC souris gaming tri-mode 12000 DPI avec capteur PAW3311, dock de charge et connexion sans fil pour performance et confort optimaux.
-  Updated: 2026-04-20T15:25:43Z
+  Updated: 2026-05-11T12:42:01Z
   Vendor: Ouest Setup
   Product Type: 
   Availability: Available
@@ -1771,21 +1771,21 @@
     Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/Sa8ee57844ef247fa90065b47672c9dd10.webp?v=1775657589
     Price: 45,99 € EUR
 - [COOLCOOLD cooling pad laptop 5 fans silencieux](https://ouestsetup.com/products/coolcoold-laptop-cooling-pad-for-12-17-inch-laptop-cooler-stand-5-quiet-fans-5-angle-adjustable-with-phone-holder): COOLCOOLD cooling pad laptop 5 fans silencieuxventilateurs ultra-silencieux, support réglable et porte téléphone pour un confort optimal.
-  Updated: 2026-04-20T15:25:44Z
+  Updated: 2026-05-11T12:42:01Z
   Vendor: Ouest Setup
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/S3e873271946744c496a445d5f04caba4e.webp?v=1775657592
   Price: 39,99 € EUR
 - [mini ventilateur USB laptop cooling pad portable](https://ouestsetup.com/products/usb-mini-laptop-fan-stand-notebook-foldable-folding-fan-cooler-notebook-cooling-pad-radiator-cooler-master-computer-accessories): Mini ventilateur USB laptop cooling pad portable avec support pliable, idéal pour refroidir votre PC et améliorer les performances en usage prolongé.
-  Updated: 2026-04-20T15:25:44Z
+  Updated: 2026-04-27T12:31:44Z
   Vendor: Ouest Setup
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/S373fda00328d4bb6b4e60d38b9f8361fd.webp?v=1775657590
   Price: 10,00 € EUR
 - [BDF tablette 10.1 pouces Android 4GB 64GB](https://ouestsetup.com/products/bdf-android-10-1-inch-tablet-pc-google-play-octa-core-dual-cameras-dual-sim-3g-phone-call-tablets-bluetooth-wifi-4gb-64gb-rom): BDF tablette 10.1 pouces Android 4GB 64GB avec Octa-Core, Dual SIM 3G, caméras et Google Play pour un usage polyvalent au quotidien.
-  Updated: 2026-04-20T15:25:45Z
+  Updated: 2026-05-11T12:42:01Z
   Vendor: Ouest Setup
   Product Type: 
   Availability: Available
@@ -1799,7 +1799,7 @@
     Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/Sc8cb05bacf364f8b97c1774277559958H.webp?v=1775657592
     Price: 79,99 € EUR
 - [tablette enfant 7 pouces éducative Android 4GB 64GB](https://ouestsetup.com/products/new-cartoon-pattern-kids-tablet-7-inch-quad-core-4gb-ram-64gb-rom-android-learning-education-games-tablets-childrens-gifts): Tablette enfant 7 pouces éducative Android 4GB 64GB avec jeux et apprentissage, coque cartoon robuste pour une utilisation ludique et sécurisée.
-  Updated: 2026-04-20T15:25:45Z
+  Updated: 2026-05-11T12:42:01Z
   Vendor: Ouest Setup
   Product Type: 
   Availability: Available
@@ -1821,7 +1821,7 @@
     Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/S03c69df2cd7642e6a5dc9301705d69e7K.webp?v=1775657593
     Price: 79,99 € EUR
 - [Samsung Galaxy Tab A9+ tablette 11 pouces 90Hz](https://ouestsetup.com/products/samsung-galaxy-tab-a9-tablet-wifi-4gb-64gb-2-2ghz-octa-core-11-tft-90-hz-lcd-display-8mp-rear-camera-7040-mah-battery-android): Samsung Galaxy Tab A9+ tablette 11 pouces 90Hz avec 4GB RAM et 64GB stockage, idéale pour le multimédia et un usage quotidien fluide.
-  Updated: 2026-04-20T15:25:46Z
+  Updated: 2026-04-27T12:31:45Z
   Vendor: Ouest Setup
   Product Type: 
   Availability: Available
@@ -1835,7 +1835,7 @@
     Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/A65a6be2340764ccf92dc99d1e8a8b5aeM.webp?v=1775657593
     Price: 189,99 € EUR
 - [KTC écran gaming 27 pouces 1440p IPS 100Hz](https://ouestsetup.com/products/ktc-h27t27-gaming-monitor-27-2560x1440-ips-screen-100hz-refresh-rate-hdr10-1ms-response-time-low-blue-light-flicker-free): KTC écran gaming 27 pouces 1440p IPS 100Hz avec 1ms et HDR10, offrant fluidité et images nettes pour une expérience immersive.
-  Updated: 2026-04-20T15:25:46Z
+  Updated: 2026-04-27T12:31:45Z
   Vendor: Ouest Setup
   Product Type: 
   Availability: Available
@@ -1853,7 +1853,7 @@
     Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/S81a7c9e60843442a8ff04e5a9c5de64fo.webp?v=1775657594
     Price: 125,99 € EUR
 - [écran portable 14 pouces 1610 gaming 400 nits](https://ouestsetup.com/products/14-inch-portable-touch-monitor-non-touch-optional-16-10-400cd-m2-gaming-computer-expand-display-for-xbox-ps4-5-switch-loptop): écran portable 14 pouces 1610 gaming 400 nits avec USB-C/HDMI, compatible PS5, Xbox et Switch pour jouer partout avec qualité.
-  Updated: 2026-04-20T15:25:46Z
+  Updated: 2026-05-11T12:42:01Z
   Vendor: Ouest Setup
   Product Type: 
   Availability: Available
@@ -1867,7 +1867,7 @@
     Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/S7d4c47d4548d4f25a0a575f6619a7024e.webp?v=1775657595
     Price: 88,99 € EUR
 - [Logitech G304 souris gamer sans fil 12000 DPI](https://ouestsetup.com/products/original-logitech-g304-ligthspeed-wireless-gaming-mouse-hero-12k-sensor-12000dpi-6-programmable-buttons-compatible-pc-macos): Logitech G304 souris gamer sans fil 12000 DPI avec 6 boutons programmables, capteur précis et connexion fiable pour une performance optimale.
-  Updated: 2026-04-20T15:25:47Z
+  Updated: 2026-04-27T12:31:45Z
   Vendor: Ouest Setup
   Product Type: 
   Availability: Available
@@ -1889,7 +1889,7 @@
     Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/Sf5b63956069e45eeb2e4a239658e6040H.webp?v=1775657595
     Price: 19,99 € EUR
 - [Logitech G502 HERO souris gaming 25K DPI](https://ouestsetup.com/products/logitech-g502-hero-cable-game-mouse-e-sports-eating-chicken-mechanical-mouse-rgb-light-can-be-balanced-to-eat-chicken-macro-prog): Logitech G502 HERO souris gaming 25K DPI avec capteur précis, RGB, poids ajustables et macros programmables pour FPS et performance.
-  Updated: 2026-04-20T15:25:47Z
+  Updated: 2026-05-11T12:42:01Z
   Vendor: Ouest Setup
   Product Type: 
   Availability: Available
@@ -1903,7 +1903,7 @@
     Image: https://cdn.shopify.com/s/files/1/1055/8446/0114/files/S4e055e93556544e8b590903e8b7e606cn.webp?v=1775657595
     Price: 55,99 € EUR
 - [TANCHJIM RITA casque Bluetooth LDAC ANC 6.0, ANC, 40 mm](https://ouestsetup.com/products/tanchjim-rita-hifi-bluetooth-headset-wireless-wired-ldac-anc-enc-40mm-dmt5-dynamic-driver-bluetooth-6-0-3-5mm-gaming-over-ear): Découvrez le TANCHJIM RITA casque Bluetooth LDAC ANC, réduction de bruit ANC et haut-parleurs 40 mm. Profitez d’un son haute résolution en sans .
-  Updated: 2026-04-20T15:25:48Z
+  Updated: 2026-05-11T12:42:01Z
   Vendor: Ouest Setup
   Product Type: 
   Availability: Available
@@ -1920,22 +1920,22 @@
 ## Collections
 
 - [Page d’accueil](https://ouestsetup.com/collections/frontpage)
-  Updated: 2026-04-20T15:12:13Z
+  Updated: 2026-04-27T12:31:37Z
   Total Products: 1
 - [Exemples de produits Électronique et accessoires](https://ouestsetup.com/collections/electronics-and-accessories-example-products)
-  Updated: 2026-04-20T15:12:13Z
+  Updated: 2026-04-27T12:31:37Z
   Total Products: 2
 - [Nos produits à ne pas manquer !](https://ouestsetup.com/collections/gaming-product)
-  Updated: 2026-04-20T15:12:13Z
+  Updated: 2026-04-27T12:31:37Z
   Total Products: 11
 - [Casques](https://ouestsetup.com/collections/gaming-headset)
-  Updated: 2026-04-20T15:12:13Z
+  Updated: 2026-04-27T12:31:37Z
   Total Products: 3
 
 ## Store Pages
 
-- [Contact](https://ouestsetup.com/pages/contact): 📞 Contact – Ouest Setup Pour toute question concernant une commande, un produit ou un renseignement, vous pouvez nous contacter : 📧 Email : ouest.c...
-  Updated: 2026-04-10T11:35:06Z
+- [Contact](https://ouestsetup.com/pages/contact): 📞 Contactez-nous – Ouest Setup Pour toute question concernant une commande, un produit ou un renseignement, vous pouvez nous contacter : 📧 Email : ...
+  Updated: 2026-04-27T11:12:53Z
 - [Conditions générales de vente](https://ouestsetup.com/pages/conditions-generales-vente-utilisation): 🟣 CONDITIONS GÉNÉRALES DE VENTE (CGV) Ouest Setup – Entreprise Individuelle (EI) Dernière mise à jour : 10/04/2026 1. Objet Les présentes Condition...
   Updated: 2026-04-10T13:25:38Z
 - [Mentions légales et Politique de confidentialité](https://ouestsetup.com/pages/mentions-legales-politique-confidentialite): ✅ MENTIONS LÉGALES 1. Éditeur du site Ouest Setup – Entreprise Individuelle (EI) Siège social : LOCAL COMMERCIAL, 10 RUE DE L'ÎLE, 72300 SABLE‑SUR‑...
