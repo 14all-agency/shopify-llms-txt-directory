@@ -9,7 +9,7 @@
 - Created At: 2021-04-29T12:50:47Z
 - Contact Email: info@zorro.lv
 - Contact Phone: +371 24 203 759
-- Updated At: 2026-05-05T00:00:45.398Z
+- Updated At: 2026-05-13T00:00:46.122Z
 
 Zorro.lv ir specializēts Latvijas veikals, kas piedāvā premium un super-premium klases barību suņiem un kaķiem. Uzņēmums izceļas tirgū ar uzsvaru uz bioloģiski piemērotu uzturu ar augstu gaļas saturu un hipoalerģiskām sastāvdaļām, nodrošinot, ka produkti nesatur bieži sastopamas pildvielas, piemēram, graudus, glutēnu, kukurūzu un soju. Rūpīgi atlasītajā klāstā ietilpst augstākās klases Eiropas zīmoli, tostarp Essential Foods, Naturea, Yora, McAdams un Leitwolf, kā arī dabīgi kārumi un kvalitatīvi aksesuāri, piemēram, organiskas kažokādas rotaļlietas.
 
@@ -63,8 +63,6 @@ Zorro.lv ir specializēts Latvijas veikals, kas piedāvā premium un super-premi
 - [Augstvērtīga barība kaķiem un kaķēniem ar 67% lasi, cāli,trusi un sardīnēm LANDS MIACIS](https://zorro.lv/products/lands-kakiem-un-kakeniem-trusis-calis-lasis-silke)
 - [Iemaukti suņiem K9 Sport - individuālie pasūtījumi](https://zorro.lv/products/iemaukti-darba-suniem-k9-sport)
 - [Iemaukti pilsētas suņiem THE DOG Comfort Walk Pro](https://zorro.lv/products/iemaukti-pilsetas-suniem-dog)
-- [ESSENTIAL Jēra gaļas mazās delikateses 100g](https://zorro.lv/products/essential-jera-galas-gardumi)
-- [ESSENTIAL Pīles gaļas mazās delikateses 100 gr](https://zorro.lv/products/essential-piles-galas-delikateses)
 - [Barības uzglabāšanas trauks FOOD BOX](https://zorro.lv/products/baribas-uzglabasanas-trauks-food-box-12-kg-maisiem)
 - [ESSENTIAL LIVING  3 dažādu garšu LIVING (ESTATE,SUPERIOR,HIGHLAND) barību komplekts mazo šķirņu suņiem](https://zorro.lv/products/essential-baribas-komplekts-ar-galu-suniem-ar-svaru-lidz-15kg)
 - [ESSENTIAL LIVING 3 dažādu veidu 2,5 kg iepakojumu LIVING (ESTATE,SUPERIOR,NAUTICAL) barību komplekts suņiem ar svaru līdz 15kg](https://zorro.lv/products/essential-3-dazadu-veidu-3kg-iepakojumu-living-baribu-komplekts)
@@ -86,6 +84,7 @@ Zorro.lv ir specializēts Latvijas veikals, kas piedāvā premium un super-premi
 - [YORA insektu ( kukaiņu ) super barība pieaugušiem visu šķirņu suņiem ALL BREEDS](https://zorro.lv/products/yora-insektu-bariba-visu-skirnu-suniem)
 - [YORA insektu ( kukaiņu ) super barība mazo šķirņu suņiem SMALL BREEDS COMPLETE](https://zorro.lv/products/yora-insektu-kukainu-super-bariba-mazo-skirnu-suniem)
 - [YORA insektu ( kukaiņu ) superbarība pieaugušiem lielo šķirņu suņiem LARGE BREEDS 12kg](https://zorro.lv/products/yora-insektu-kukainu-superbariba-pieaugusiem-lielo-skirnu-suniem)
+- [YORA insektu (kukaiņu) super barība pieaugušiem kaķiem un kaķēniem SUPERFOOD](https://zorro.lv/products/yora-insektu-kukainu-super-bariba-pieaugusiem-kakiem-complete-)
 - [YORA insektu (kukaiņu ) super barība kucēniem PUPPY](https://zorro.lv/products/yora-insektu-kukainu-super-bariba-kuceniem-puppy-complete)
 - [Antialerģisks, higēnisks, nekairinošs un neslīdošs paklājiņš- gulta](https://zorro.lv/products/antialergisks-higenisks-nekairinoss-un-neslidoss-paklajins-gulta)
 - [YORA motivācijas veselīgie kārumi REWARDS ar āboliem un burkāniem 100g](https://zorro.lv/products/motivacijas-veseligie-karumi-rewards)
@@ -123,6 +122,7 @@ Zorro.lv ir specializēts Latvijas veikals, kas piedāvā premium un super-premi
 - [LEITWOLF MONO FISH pilnvērtīga hipoalerģiska barība pieaugušiem suņiem ar zivi SELECTED OCEAN FISH ](https://zorro.lv/products/copy-of-leitwolf-pilnvertiga-bariba-pieaugusiem-suniem-ar-zirga-galu-selected-ocean-fish-)
 - [Pilnvērtīga sabalansēta ikdienas barība NATUREA ELEMENTS visu šķirņu pieaugušiem suņiem ar vistas gaļu](https://zorro.lv/products/naturea-elements-bariba-visu-skirnu-pieaugusiem-suniem-ar-vistas-galu)
 - [WOOLFSNACKS gardumu strēmeles ar lasi un burkāniem SALMON WITH CARROT STRIPS](https://zorro.lv/products/wolfsnacks-gardumu-stremeles-ar-lasi-un-burkaniem-salmon-with-carrot-strips)
+- [WOOLFSNACKS gardumi ar truša gaļu RABBIT CHUNKIES](https://zorro.lv/products/wolfsnacks-trusu-karumi-rabbit-chunkies)
 - [WOOLFSNACKS mīkstie gardumu kubiciņi ar ibērijas cūku SOFT CUBES IBERIAN PORK](https://zorro.lv/products/wolfsnacks-mikstie-gardumu-kubicini-ar-iberijas-cuku-soft-cubes-iberian-pork)
 - [WOOLFSNACKS gardums graužamnūjiņas ar truša gaļu EARTH NOOHIDE S STICK WITH RABBIT](https://zorro.lv/products/wolfsnacks-gardumu-nujas-ar-trusa-galu-earth-noohide-s-stick-with-rabbit)
 - [Augstvērtīga barība ar Ibērijas cūkas gaļu pieaugušiem suņiem un kucēniem Naturea MAGNUM all breed](https://zorro.lv/products/copy-of-augstvertiga-bariba-ar-iberijas-cukas-galu-pieaugusiem-visu-skirnu-suniem-naturea-magnum-all-breed)
@@ -151,6 +151,7 @@ Zorro.lv ir specializēts Latvijas veikals, kas piedāvā premium un super-premi
 - [McAdams krāsnī cepta barība ar 50% brīvo turēšanas apstākļu vistu gaļu kucēniem Chicken puppy](https://zorro.lv/products/mcadams-krasni-cepta-bariba-ar-50-brivo-turesanas-apstaklu-vistu-galu-kuceniem)
 - [McAdams gardumi svaigai elpai ar 50% brīvo turēšanas apstākļu tītaru gaļu FRESH BREATH 150 g](https://zorro.lv/products/mcadams-gardumi-svaigai-elpai-ar-50-brivo-turesanas-apstaklu-titaru-galu)
 - [McAdams nomierinošie gardumi suņiem ar 50% brīvo turēšanas apstākļu tītaru gaļu BEDTIME 150 g](https://zorro.lv/products/mcadams-nomierinosie-gardumi-suniem-ar-50-brivo-turesanas-apstaklu-titaru-galu)
+- [WOOLFSNACKS mīkstie gardumu kubiciņi ar brieža gaļu SOFT CUBES DEER](https://zorro.lv/products/woolfsnacks-mikstie-gardumu-kubicini-ar-brieza-galu-soft-cubes-deer)
 - [McAdams gardumi ar 50% tītara cepeti no brīvo turēšanas apstākļu tītara gaļu, dzērvenēm un salviju Cranberries&Sage 150g](https://zorro.lv/products/mcadams-gardumi-ar-50-titara-cepeti-no-brivo-turesanas-apstaklu-titara-galu-dzervenem-un-salviju)
 - [McAdams labas uzvedības apbalvošanas gardumi ar 50% tītara cepeti no brīvo turēšanas apstākļu tītara gaļu un ķirbi 150 g](https://zorro.lv/products/mcadams-gardumi-ar-50-titara-cepeti-no-brivo-turesanas-apstaklu-titara-galu-dzervenem-un-salviju-cranberries-sage-copy)
 - [WOOLFSNACKS gardumi ar pīles gaļu DUCK CHUNKIES](https://zorro.lv/products/woolfsnacks-gardumi-ar-trusa-galu-rabbit-chunkies-copy)
@@ -173,7 +174,6 @@ Zorro.lv ir specializēts Latvijas veikals, kas piedāvā premium un super-premi
 - [ESSENTIAL konservs suņiem ar tītara, pīles un cūkgaļas gabaliņiem 400g](https://zorro.lv/products/essential-ziemassvetku-konservs-suniem-400g)
 - [ESSENTIAL graužamnūjiņas ar kanēli,piparmētru un probiotiķiem 250 g](https://zorro.lv/products/essential-grauzamnujinas-tiriem-zobiem-ar-kaneli-piparmetru-un-probiotikiem-250-g)
 - [ESSENTIAL graužamnūjuņas ar kurkumu un kolagēnu 250g](https://zorro.lv/products/essential-grauzamnujunas-ar-kurkumu-un-kolagenu-250g)
-- [ESSENTIAL graužamnūjiņas ar kumelīti un salvija 250](https://zorro.lv/products/essential-grauzamnujinas-ar-kumeliti-un-salvia-250)
 - [McAdams liofilizēta freeze dried barība suņiem ar jutīgu gremošanu Sensitive Turkey](https://zorro.lv/products/🦃-mcadams-sensitive-freeze-dried-turkey-pilnvertiga-bariba-suniem-ar-jutigu-gremosanas-sistemu)
 - [McAdams liofilizēta freeze dried barība ar 85 % vistas gaļu](https://zorro.lv/products/mcadams-liofolizeta-bariba-ar-85-vistas-galu)
 - [Svaigi spiesta bezgraudu barība visu šķirņu suņiem ar Tītara gaļu Tribal Fresh pressed](https://zorro.lv/products/bezgraudu-svaigi-spiesta-hipoalergiska-bariba-ar-titara-galu-tribal-fresh-pressed)
@@ -194,7 +194,8 @@ Zorro.lv ir specializēts Latvijas veikals, kas piedāvā premium un super-premi
 - [Lieldienu izlase](https://zorro.lv/products/lieldienu-izlase)
 - [Lieldienu gardumu komplekts](https://zorro.lv/products/lieldienu-gardumu-komplekts)
 - [The DOG lēnēšanas risinājums – gudrāka ēšana, veselīgāks suns](https://zorro.lv/products/the-dog-lenesanas-risinajums)
-[List Continued](https://zorro.lv/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDgzOTc3MzM0ODE4MywibGFzdF92YWx1ZSI6IjEwODM5NzczMzQ4MTgzIn0=)
+- [Kronborg Food Bar - mazāk nekārtības, vairāk komforta](https://zorro.lv/products/mazak-nekartibas-vairak-komforta-kronborg-food-bar)
+[List Continued](https://zorro.lv/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDgzOTk0OTQxMDY0NywibGFzdF92YWx1ZSI6IjEwODM5OTQ5NDEwNjQ3In0=)
 
 ## Collections
 
