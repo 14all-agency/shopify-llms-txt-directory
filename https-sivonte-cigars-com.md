@@ -6,7 +6,7 @@
 - Timezone: America/Santo_Domingo
 - Created At: 2025-12-25T16:31:20Z
 - Contact Email: sandersilashamilton@gmail.com
-- Updated At: 2026-05-02T00:00:23.356Z
+- Updated At: 2026-05-13T00:00:34.721Z
 
 ## Products
 
@@ -68,6 +68,26 @@
 - [SIVONTE ALLURE COLLECTION](https://sivonte-cigars.com/collections/the-sivonte-allure-collection)
   Updated: 2026-04-28T06:49:56Z
   Total Products: 4
+
+## Blogs
+
+- [Journal](https://sivonte-cigars.com/blogs/journal)
+  - [Cuban Seed, Dominican Soil: Why Heritage Tobacco Differs](https://sivonte-cigars.com/blogs/journal/cuban-seed-dominican-soil): Cuban Seed, Dominican Soil: Why Heritage Tobacco Differs
+    Updated: 2026-05-04T18:34:19Z
+    Author: Sander Hamilton
+    Tags: cigar education, dominican tobacco, founder story, heritage
+  - [Hand-Checked Draw: Why 1 in 5 Sivonte Cigars Gets Rejected](https://sivonte-cigars.com/blogs/journal/hand-checked-draw-cigar-quality-control)
+    Updated: 2026-05-04T19:29:53Z
+    Author: Sander Hamilton
+    Tags: Craft, founder story, Quality Control
+  - [Reading a Cigar Wrapper: 7 Tells of a Well-Aged Stick](https://sivonte-cigars.com/blogs/journal/reading-a-cigar-wrapper-7-visual-tells): Reading a Cigar Wrapper: 7 Tells of a Well-Aged Stick
+    Updated: 2026-05-04T19:29:35Z
+    Author: Sander Hamilton
+    Tags: cigar education, Craft, dominican tobacco
+  - [Sandro Gerber: The Other Co-Founder of Sivonte | Caminovación](https://sivonte-cigars.com/blogs/journal/sandro-gerber-co-founder-caminovacion): Sandro Gerber: The Other Co-Founder of Sivonte | Caminovación
+    Updated: 2026-05-04T19:43:58Z
+    Author: Sander Hamilton
+    Tags: dominican tobacco, founder story, heritage
 
 ## Store Pages
 
