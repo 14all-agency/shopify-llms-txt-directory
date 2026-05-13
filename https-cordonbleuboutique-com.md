@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-02-10T12:42:35Z
 - Contact Email: info@blueribbon.biz
-- Updated At: 2026-05-04T00:00:39.925Z
+- Updated At: 2026-05-13T00:00:44.390Z
 
 ## Products
 
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/0907/2148/5187/files/76105048_gift_set_4.jpg?v=1749574810
   Price: €39.99 EUR
 - [SET OF A BISCUIT NOTEBOOK & A PENCIL CASE](https://cordonbleuboutique.com/products/stationery-gift-set-notebook-pencil-case)
-  Updated: 2026-04-22T12:41:02Z
+  Updated: 2026-05-12T10:58:55Z
   Vendor: Le Cordon Bleu Global Boutique
   Product Type: Goodies
   Availability: Available
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0907/2148/5187/files/20250501115.jpg?v=1746365740
   Price: €44.99 EUR
 - [Cooler Bag Gift Set - Blue & White Cooler Bags](https://cordonbleuboutique.com/products/cooler-bag-gift-set-blue-white): Keep your food and drinks cool with the Le Cordon Bleu Cooler Bag Gift Set. This versatile set includes a Blue Cooler Bag and a White Cooler Bag, making it ideal for picnics, beach trips, and outdoor adventures. Designed for convenience and durability, these bags ensure that your refreshments stay fresh and chilled wherever you go. Blue Cooler Bag Large - (35L X 30W X 38H CM) White Cooler Bag Small - (25L X 18.5 X 26.5H CM)
-  Updated: 2026-04-22T12:41:00Z
+  Updated: 2026-05-12T10:58:53Z
   Vendor: Le Cordon Bleu Global Boutique
   Product Type: Gift Sets
   Availability: Available
@@ -123,7 +123,7 @@
   Image: https://cdn.shopify.com/s/files/1/0907/2148/5187/files/BLUE_COOLER_BAG_BIG_9d903ff5-d30b-4de7-976b-fc8dc41e38f6.jpg?v=1740417220
   Price: €24.99 EUR
 - [Cooler Bags](https://cordonbleuboutique.com/products/cooler-bag): This compact white cooler bag, measuring 25 cm in length, 18.5 cm in width, and 26.5 cm in height, is ideal for keeping your items chilled on the go.
-  Updated: 2026-04-22T12:41:00Z
+  Updated: 2026-05-12T10:58:53Z
   Vendor: Le Cordon Bleu
   Product Type: Goodies
   Availability: Available
@@ -190,14 +190,14 @@
   Image: https://cdn.shopify.com/s/files/1/0907/2148/5187/files/76105045giftset1.jpg?v=1740838656
   Price: €44.99 EUR
 - [Anchovy, Artichoke & Sun-Dried Tomato Creams - Le Cordon Bleu](https://cordonbleuboutique.com/products/anchovy-artichoke-sun-dried-tomato-creams-le-cordon-bleu): This flavorful set includes Anchovy Cream, Artichoke Cream, and Sun-Dried Tomato Cream—crafted for food lovers who enjoy rich, bold flavors. Ideal for appetizers, dips, or gourmet gift sets.
-  Updated: 2026-04-22T12:41:01Z
+  Updated: 2026-05-12T10:58:54Z
   Vendor: Le Cordon Bleu Boutique EU
   Product Type: Foodie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0907/2148/5187/files/76105078jpg.jpg?v=1741183833
   Price: €23.99 EUR
 - [Tapenade, Red Pepper & Olive-Caper Cream Set - Le Cordon Bleu](https://cordonbleuboutique.com/products/tapenade-red-pepper-olive-caper-cream-set-le-cordon-bleu): Elevate appetizers with Le Cordon Bleu's Tapenade, Red Pepper & Olive Caper Cream Set. The perfect gourmet trio for entertaining. Order your set today!
-  Updated: 2026-04-22T12:41:01Z
+  Updated: 2026-05-12T10:58:54Z
   Vendor: Le Cordon Bleu Boutique EU
   Product Type: Gourmet
   Availability: Available
@@ -218,7 +218,7 @@
   Image: https://cdn.shopify.com/s/files/1/0907/2148/5187/files/20250501125.jpg?v=1746365941
   Price: €109.99 EUR
 - [Le Cordon Bleu Hoodie Blue](https://cordonbleuboutique.com/products/hoodie-cotton-380gsm-embroidered-logo-navy-blue-unisex-xl): Upgrade your wardrobe with the Le Cordon Bleu Navy Blue Unisex Hoodie. Premium 380gsm cotton featuring an embroidered logo. Shop yours in size today!
-  Updated: 2026-04-22T12:41:01Z
+  Updated: 2026-05-12T10:58:54Z
   Vendor: Le Cordon Bleu Global Boutique
   Product Type: Apparel
   Availability: Available
@@ -233,7 +233,7 @@
     Availability: Available
     Price: €58.99 EUR
   - [XL / Navy Blue](https://cordonbleuboutique.com/products/hoodie-cotton-380gsm-embroidered-logo-navy-blue-unisex-xl?variant=56238794408323)
-    Availability: Available
+    Availability: Not Available
     Price: €58.99 EUR
 - [Tote Bag With Gusset Blue Handles](https://cordonbleuboutique.com/products/tote-bag-gusset-blue-handles): Upgrade your daily carry with the official Le Cordon Bleu Gusset Tote Bag featuring chic blue handles. Durable, spacious, and stylish. Order yours today!
   Updated: 2026-03-26T11:49:58Z
@@ -250,7 +250,7 @@
   Image: https://cdn.shopify.com/s/files/1/0907/2148/5187/files/setof4magnets.jpg?v=1749572731
   Price: €15.99 EUR
 - [Le Cordon Bleu Chef Magnets - 3 Piece Set](https://cordonbleuboutique.com/products/le-cordon-bleu-chef-magnets-3-piece-set): Add a touch of culinary charm to your kitchen with the Le Cordon Bleu Chef Magnets 3-Piece Set. Perfect for your fridge or as a gift. Shop the set today!
-  Updated: 2026-03-26T11:49:59Z
+  Updated: 2026-05-04T20:21:26Z
   Vendor: Le Cordon Bleu
   Product Type: Goodies
   Availability: Available
@@ -299,21 +299,21 @@
   Image: https://cdn.shopify.com/s/files/1/0907/2148/5187/files/76105081setof3spicepots1.jpg?v=1754032135
   Price: €20.99 EUR
 - [Vinegar Pinot Grigio 375Ml + Wholegrain Mustard 200G](https://cordonbleuboutique.com/products/vinegar-pinot-grigio-375ml-wholegrain-mustard-200g): Refine your recipes with Le Cordon Bleu’s Pinot Grigio Vinegar (375ml) & Wholegrain Mustard (200g). An elegant gourmet duo—shop the set online today!
-  Updated: 2026-04-22T12:41:00Z
+  Updated: 2026-05-12T10:58:53Z
   Vendor: Le Cordon Bleu
   Product Type: Gourmet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0907/2148/5187/files/76105082.jpg?v=1739209641
   Price: €23.99 EUR
 - [Vinegar Piccante 375Ml And Mustard Provence Herbs 200G](https://cordonbleuboutique.com/products/vinegar-piccante-375ml-and-mustard-provence-herbs-200g): Add a spicy, herbal kick to your dishes with Le Cordon Bleu's Piccante Vinegar (375ml) & Provence Herbs Mustard (200g). Shop this gourmet duo today!
-  Updated: 2026-04-22T12:41:00Z
+  Updated: 2026-05-12T10:58:53Z
   Vendor: Le Cordon Bleu
   Product Type: Gourmet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0907/2148/5187/files/76105083.jpg?v=1739209707
   Price: €25.99 EUR
 - [Gran Cuvee 375Ml And Mustard Extra Strong Dijon 200G](https://cordonbleuboutique.com/products/gran-cuvee-375ml-and-mustard-extra-strong-dijon-200g): Elevate your meals with Le Cordon Bleu's Gran Cuvee (375ml) & Extra Strong Dijon Mustard (200g). The perfect gourmet duo for your kitchen—shop the set now!
-  Updated: 2026-04-22T12:41:00Z
+  Updated: 2026-05-12T10:58:53Z
   Vendor: Le Cordon Bleu
   Product Type: Gourmet
   Availability: Available
@@ -327,7 +327,7 @@
   Image: https://cdn.shopify.com/s/files/1/0907/2148/5187/files/20250806512.jpg?v=1755152237
   Price: €37.99 EUR
 - [My Culinary Adventure Graphic Novel](https://cordonbleuboutique.com/products/my-culinary-adventure-graphic-novel): Immerse yourself in the culinary world with the 'My Culinary Adventure' graphic novel by Le Cordon Bleu. Perfect for food lovers—order your copy today!
-  Updated: 2026-03-26T11:49:58Z
+  Updated: 2026-05-07T09:38:29Z
   Vendor: La Boutique Le Cordon Bleu
   Product Type: Gifts
   Availability: Available
@@ -348,7 +348,7 @@
   Image: https://cdn.shopify.com/s/files/1/0907/2148/5187/files/WOODEN_CORKSCREW_GB.jpg?v=1763131653
   Price: €53.99 EUR
 - [Petit Chef Blue Kid Hoodie](https://cordonbleuboutique.com/products/petit-chef-blue-kid-hoodie): Inspire your little one's culinary dreams with the Le Cordon Bleu Petit Chef Blue Kid Hoodie. Cozy, fun, and perfect for young cooks. Order today!
-  Updated: 2026-04-22T12:41:00Z
+  Updated: 2026-05-12T10:58:53Z
   Vendor: La Boutique Le Cordon Bleu
   Product Type: Apparel
   Availability: Available
@@ -366,7 +366,7 @@
     Availability: Available
     Price: €46.99 EUR
 - [Le Cordon Bleu Hoodie White](https://cordonbleuboutique.com/products/le-cordon-bleu-hoodie-white): Upgrade your wardrobe with the Le Cordon Bleu Navy Blue Unisex Hoodie. Premium 380gsm cotton featuring an embroidered logo. Shop yours in size today!
-  Updated: 2026-04-22T12:41:01Z
+  Updated: 2026-05-12T10:58:54Z
   Vendor: Le Cordon Bleu Global Boutique
   Product Type: Apparel
   Availability: Available
@@ -384,11 +384,17 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0907/2148/5187/files/Hoodie-White.jpg?v=1755258160
     Price: €58.99 EUR
+- [Le Cordon Bleu Hoodie Bleu](https://cordonbleuboutique.com/products/hoodie)
+  Updated: 2026-05-05T12:12:55Z
+  Vendor: La Boutique Le Cordon Bleu
+  Product Type: 
+  Availability: Available
+  Price: €0.00 EUR
 
 ## Collections
 
 - [Apparel](https://cordonbleuboutique.com/collections/apparels): Cook in style with official Le Cordon Bleu apparel. Shop premium hoodies, aprons, and polo shirts for adults and kids. Dress like a chef—order yours now!
-  Updated: 2026-04-21T11:19:30Z
+  Updated: 2026-05-05T12:24:13Z
   Total Products: 13
 - [Gourmet](https://cordonbleuboutique.com/collections/gourmet): Experience true French excellence with the Le Cordon Bleu Gourmet collection. High-quality ingredients and gift sets for the ultimate foodie. Shop now!
   Updated: 2026-04-01T10:16:01Z
@@ -400,10 +406,10 @@
   Updated: 2026-03-05T10:03:19Z
   Total Products: 2
 - [Catalogue](https://cordonbleuboutique.com/collections/catalogue): Explore the full Le Cordon Bleu collection. From professional knives and gourmet spices to exclusive gifts, find everything for your kitchen. Shop the range!
-  Updated: 2026-04-21T10:43:22Z
+  Updated: 2026-05-07T12:49:33Z
   Total Products: 90
 - [Gift Set](https://cordonbleuboutique.com/collections/goodies): Discover unique Le Cordon Bleu gifts, magnets, and accessories. Perfect for food lovers and aspiring chefs alike. Find your favorite culinary souvenir today!
-  Updated: 2026-04-17T12:11:09Z
+  Updated: 2026-05-05T12:24:13Z
   Total Products: 34
 - [Tax Override for Food](https://cordonbleuboutique.com/collections/tax-override-for-food): Discover the authentic taste of France with Le Cordon Bleu’s gourmet food selection. From artisanal pasta to savory spreads, shop our chef-curated range now
   Updated: 2026-03-21T11:51:30Z
@@ -412,16 +418,16 @@
   Updated: 2026-03-05T10:03:19Z
   Total Products: 5
 - [Masterlist](https://cordonbleuboutique.com/collections/masterlist): Browse the complete Le Cordon Bleu Boutique catalog. From professional chef tools to gourmet treats, find everything you need in one place. Shop the list!
-  Updated: 2026-04-21T11:19:30Z
+  Updated: 2026-05-05T12:24:13Z
   Total Products: 32
 - [Kitchen](https://cordonbleuboutique.com/collections/kitchen): Cook like a pro with official Le Cordon Bleu kitchenware. Shop professional knives, silicone utensils, and premium accessories. Upgrade your kitchen today!
   Updated: 2026-04-17T12:11:09Z
   Total Products: 13
 - [Books](https://cordonbleuboutique.com/collections/books)
-  Updated: 2026-04-01T10:16:12Z
+  Updated: 2026-05-07T12:49:33Z
   Total Products: 2
 - [New Arrivals](https://cordonbleuboutique.com/collections/new-arrivals)
-  Updated: 2026-04-21T11:19:30Z
+  Updated: 2026-05-07T12:49:33Z
   Total Products: 140
 
 ## Store Pages
