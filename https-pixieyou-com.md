@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-05-06T17:25:19Z
 - Contact Email: hello@pixieyou.com
-- Updated At: 2026-05-06T00:00:33.927Z
+- Updated At: 2026-05-13T00:00:35.967Z
 
 # PixieYou
 
@@ -54,10 +54,10 @@ Products include shampoo, conditioner, leave-in conditioner, and detangler spray
   Updated: 2026-04-29T10:47:04Z
   Total Products: 0
 - [The essentials (Home Page)](https://pixieyou.com/collections/the-essentials-home-page)
-  Updated: 2026-04-29T10:46:35Z
+  Updated: 2026-05-08T08:06:21Z
   Total Products: 8
 - [The Essentials 2](https://pixieyou.com/collections/the-essentials-2)
-  Updated: 2026-04-29T05:34:23Z
+  Updated: 2026-05-08T08:06:21Z
   Total Products: 4
 
 ## Blogs
