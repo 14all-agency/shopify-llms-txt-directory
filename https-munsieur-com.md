@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-02-10T20:10:07Z
 - Contact Email: munsieurclothing@gmail.com
-- Updated At: 2026-05-06T00:00:48.456Z
+- Updated At: 2026-05-13T00:00:49.506Z
 
 ## Products
 
@@ -9460,52 +9460,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/aa3224f2-79cb-45b0-8469-0ed5d0e7c64e-Min.jpg?v=1739824030
     Price: $24.99 USD
-- [Flower Applique Mesh Patchwork Spaghetti Strap Dress | Go...](https://munsieur.com/products/flower-applique-mesh-patchwork-spaghetti-strap-dress): Flower Applique Mesh Patchwork Spaghetti Strap Dress embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:55:42Z
-  Vendor: Munsieur
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e0472956-345d-4fee-ae36-c1b357e8eae0-Min.jpg?v=1739824142
-  - [Blush Pink / XS](https://munsieur.com/products/flower-applique-mesh-patchwork-spaghetti-strap-dress?variant=50162868158680)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e0472956-345d-4fee-ae36-c1b357e8eae0-Min.jpg?v=1739824142
-    Price: $49.95 USD
-  - [Blush Pink / S](https://munsieur.com/products/flower-applique-mesh-patchwork-spaghetti-strap-dress?variant=50162868191448)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e0472956-345d-4fee-ae36-c1b357e8eae0-Min.jpg?v=1739824142
-    Price: $49.95 USD
-  - [Blush Pink / M](https://munsieur.com/products/flower-applique-mesh-patchwork-spaghetti-strap-dress?variant=50162868224216)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e0472956-345d-4fee-ae36-c1b357e8eae0-Min.jpg?v=1739824142
-    Price: $49.95 USD
-  - [Blush Pink / L](https://munsieur.com/products/flower-applique-mesh-patchwork-spaghetti-strap-dress?variant=50162868256984)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/e0472956-345d-4fee-ae36-c1b357e8eae0-Min.jpg?v=1739824142
-    Price: $49.95 USD
-- [Slit Sequin Off-Shoulder Mini Dress | Gothic Ceremonial |...](https://munsieur.com/products/slit-sequin-off-shoulder-mini-dress): Slit Sequin Off-Shoulder Mini Dress embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:55:41Z
-  Vendor: Munsieur
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ba584e2a-0f0d-44ff-aa32-3c8c4f41412f-Min.jpg?v=1739824173
-  - [Blush Pink / XS](https://munsieur.com/products/slit-sequin-off-shoulder-mini-dress?variant=50162871337176)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ba584e2a-0f0d-44ff-aa32-3c8c4f41412f-Min.jpg?v=1739824173
-    Price: $52.99 USD
-  - [Blush Pink / S](https://munsieur.com/products/slit-sequin-off-shoulder-mini-dress?variant=50162871369944)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ba584e2a-0f0d-44ff-aa32-3c8c4f41412f-Min.jpg?v=1739824173
-    Price: $52.99 USD
-  - [Blush Pink / M](https://munsieur.com/products/slit-sequin-off-shoulder-mini-dress?variant=50162871402712)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ba584e2a-0f0d-44ff-aa32-3c8c4f41412f-Min.jpg?v=1739824173
-    Price: $52.99 USD
-  - [Blush Pink / L](https://munsieur.com/products/slit-sequin-off-shoulder-mini-dress?variant=50162871435480)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ba584e2a-0f0d-44ff-aa32-3c8c4f41412f-Min.jpg?v=1739824173
-    Price: $52.99 USD
 - [MUNSIEUR Textured Sleeveless Romper - Luxury Designer Jum...](https://munsieur.com/products/double-take-full-size-texture-sleeveless-romper): MUNSIEUR Textured Sleeveless Romper - Luxury Designer Jumpsuit for Women embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. M...
-  Updated: 2026-05-05T15:56:27Z
+  Updated: 2026-05-12T21:30:26Z
   Vendor: Munsieur
   Product Type: Dresses
   Availability: Available
@@ -9631,7 +9587,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/da4613a6-b36e-461c-9abf-6459731450a1-Min.jpg?v=1739824863
     Price: $51.99 USD
 - [Double Take Full Size Printed Tie Back Wide Leg Jumpsuit ...](https://munsieur.com/products/double-take-full-size-printed-tie-back-wide-leg-jumpsuit): Double Take Full Size Printed Tie Back Wide Leg Jumpsuit embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned ...
-  Updated: 2026-05-04T12:48:57Z
+  Updated: 2026-05-10T17:42:41Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -9763,7 +9719,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/341d298e-7052-4df8-a3ee-085c191bbb78-Min.jpg?v=1739824919
     Price: $44.99 USD
 - [Double Take Full Size V-Neck Sleeveless Jumpsuit with Poc...](https://munsieur.com/products/double-take-full-size-v-neck-sleeveless-jumpsuit-with-pockets): Double Take Full Size V-Neck Sleeveless Jumpsuit with Pockets embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR cro...
-  Updated: 2026-05-05T17:15:27Z
+  Updated: 2026-05-11T09:45:30Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -9969,21 +9925,21 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/ce886420-a78c-4d90-9e61-69f90493f4a2-Min.jpg?v=1739824960
     Price: $82.99 USD
 - [Smocked Printed Wide Strap Jumpsuit | Gothic Ceremonial |...](https://munsieur.com/products/smocked-printed-wide-strap-jumpsuit): Smocked Printed Wide Strap Jumpsuit embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-05-05T02:41:31Z
+  Updated: 2026-05-12T23:50:50Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d32013b4-a0d0-4ebc-90e6-4f30be0353bb-Min.jpg?v=1739825042
   - [Dark Blue / S](https://munsieur.com/products/smocked-printed-wide-strap-jumpsuit?variant=50162962596056)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d32013b4-a0d0-4ebc-90e6-4f30be0353bb-Min.jpg?v=1739825042
     Price: $107.99 USD
   - [Dark Blue / M](https://munsieur.com/products/smocked-printed-wide-strap-jumpsuit?variant=50162962628824)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d32013b4-a0d0-4ebc-90e6-4f30be0353bb-Min.jpg?v=1739825042
     Price: $107.99 USD
   - [Dark Blue / L](https://munsieur.com/products/smocked-printed-wide-strap-jumpsuit?variant=50162962661592)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d32013b4-a0d0-4ebc-90e6-4f30be0353bb-Min.jpg?v=1739825042
     Price: $107.99 USD
   - [Dark Blue / XL](https://munsieur.com/products/smocked-printed-wide-strap-jumpsuit?variant=50162962694360)
@@ -10249,7 +10205,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/21b86514-1906-4d0d-9054-cbf3f6e76979-Min.jpg?v=1739825337
     Price: $58.99 USD
 - [Striped Half Sleeve Tie Waist Romper | Gothic Ceremonial ...](https://munsieur.com/products/striped-half-sleeve-tie-waist-romper): Striped Half Sleeve Tie Waist Romper embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-27T01:40:47Z
+  Updated: 2026-05-08T00:50:57Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -10599,7 +10555,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7484e996-ad7f-4815-ac25-5f37061c13d6-Min.jpg?v=1739825539
     Price: $59.99 USD
 - [Women's Striped Romper summer outfit | Gothic Ceremonial ...](https://munsieur.com/products/perfee-striped-v-neck-tie-waist-romper): Women's Striped Romper summer outfit embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-05-05T11:41:08Z
+  Updated: 2026-05-12T12:41:21Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -10637,7 +10593,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4d86f652-dc86-4323-95ae-98e6c6f5195e-Min.jpg?v=1739825550
     Price: $53.99 USD
   - [Beige / S](https://munsieur.com/products/perfee-striped-v-neck-tie-waist-romper?variant=50163028230360)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/468f18c6-3a0e-4043-8c2a-ddc5a7d9dc54-Min.jpg?v=1739825550
     Price: $53.99 USD
   - [Beige / M](https://munsieur.com/products/perfee-striped-v-neck-tie-waist-romper?variant=50163028263128)
@@ -10681,7 +10637,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/33f109d2-b738-4412-9744-73b92cdf847f-Min.jpg?v=1739825550
     Price: $53.99 USD
   - [Gray / XL](https://munsieur.com/products/perfee-striped-v-neck-tie-waist-romper?variant=50163028590808)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/33f109d2-b738-4412-9744-73b92cdf847f-Min.jpg?v=1739825550
     Price: $53.99 USD
   - [Stripe / M](https://munsieur.com/products/perfee-striped-v-neck-tie-waist-romper?variant=50163028623576)
@@ -10693,11 +10649,11 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/865967b7-c956-48c0-8c96-dc28ba64e88d-Min.jpg?v=1739825550
     Price: $53.99 USD
   - [Blue / M](https://munsieur.com/products/perfee-striped-v-neck-tie-waist-romper?variant=50163028689112)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/865967b7-c956-48c0-8c96-dc28ba64e88d-Min.jpg?v=1739825550
     Price: $53.99 USD
   - [Blue / L](https://munsieur.com/products/perfee-striped-v-neck-tie-waist-romper?variant=50163028721880)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/865967b7-c956-48c0-8c96-dc28ba64e88d-Min.jpg?v=1739825550
     Price: $53.99 USD
   - [Blue / XL](https://munsieur.com/products/perfee-striped-v-neck-tie-waist-romper?variant=50163028754648)
@@ -10717,7 +10673,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d7e1283a-29e9-4e84-8ec3-b57e9bf31c88-Min.jpg?v=1739825550
     Price: $53.99 USD
   - [Pink / M](https://munsieur.com/products/perfee-striped-v-neck-tie-waist-romper?variant=50163028885720)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/d7e1283a-29e9-4e84-8ec3-b57e9bf31c88-Min.jpg?v=1739825550
     Price: $53.99 USD
   - [Pink / L](https://munsieur.com/products/perfee-striped-v-neck-tie-waist-romper?variant=50163028918488)
@@ -10733,7 +10689,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1723f287-c222-412c-8899-3f5f215303a6-Min.jpg?v=1739825550
     Price: $53.99 USD
 - [Bow Striped Kimono Sleeve Romper | Gothic Ceremonial | MU...](https://munsieur.com/products/bow-striped-kimono-sleeve-romper): Bow Striped Kimono Sleeve Romper embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-05-05T04:00:50Z
+  Updated: 2026-05-08T10:20:56Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -10951,7 +10907,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/4f619de3-0318-4a67-a6bc-a61646945f77-Min.jpg?v=1739826024
     Price: $32.99 USD
 - [Women's Front Button Slit Maxi Denim Skirt | Gothic Cerem...](https://munsieur.com/products/front-button-slit-midi-denim-skirt): Women's Front Button Slit Maxi Denim Skirt embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:55:21Z
+  Updated: 2026-05-11T23:32:32Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -11102,28 +11058,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/8e2f2f05-2c54-4b2f-8ca0-1144b0fd44be-Min.jpg?v=1772232490
     Price: $52.50 USD
-- [MUNSIEUR Frill Maxi Skirt - Luxury Designer Skirt with Po...](https://munsieur.com/products/frill-midi-skirt-with-pockets): MUNSIEUR Frill Maxi Skirt - Luxury Designer Skirt with Pockets for Women embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. M...
-  Updated: 2026-05-04T19:40:38Z
-  Vendor: Munsieur
-  Product Type: Bottoms
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f069c589-a496-440e-ad0d-9b037271af39-Min.jpg?v=1739826990
-  - [Light Blue / S](https://munsieur.com/products/frill-midi-skirt-with-pockets?variant=50163127419096)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f069c589-a496-440e-ad0d-9b037271af39-Min.jpg?v=1739826990
-    Price: $36.99 USD
-  - [Light Blue / M](https://munsieur.com/products/frill-midi-skirt-with-pockets?variant=50163127451864)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f069c589-a496-440e-ad0d-9b037271af39-Min.jpg?v=1739826990
-    Price: $36.99 USD
-  - [Light Blue / L](https://munsieur.com/products/frill-midi-skirt-with-pockets?variant=50163127484632)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f069c589-a496-440e-ad0d-9b037271af39-Min.jpg?v=1739826990
-    Price: $36.99 USD
-  - [Light Blue / XL](https://munsieur.com/products/frill-midi-skirt-with-pockets?variant=50163127517400)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/f069c589-a496-440e-ad0d-9b037271af39-Min.jpg?v=1739826990
-    Price: $36.99 USD
 - [MUNSIEUR Lace Tiered Midi Skirt - Luxury Designer Skirt f...](https://munsieur.com/products/lace-tiered-midi-skirt): MUNSIEUR Lace Tiered Midi Skirt - Luxury Designer Skirt for Women embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR...
   Updated: 2026-05-05T20:31:04Z
   Vendor: Munsieur
@@ -15045,7 +14979,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/0fa4ecb8-21d8-488a-8f0e-152315b1b06c-Min.jpg?v=1739828670
     Price: $24.99 USD
 - [WILD DIVA Faux-Fur Platform Slip On Booties | Gothic Cere...](https://munsieur.com/products/wild-diva-faux-fur-platform-slip-on-booties-1): WILD DIVA Faux-Fur Platform Slip On Booties embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-14T03:24:35Z
+  Updated: 2026-05-07T21:38:28Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -15083,7 +15017,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/0c01d8d1-0841-4910-8f3d-e221b868ab96-Min.jpg?v=1739828922
     Price: $22.99 USD
 - [PU Leather Leopard Point Toe Pumps | Gothic Ceremonial | ...](https://munsieur.com/products/pu-leather-leopard-point-toe-pumps): PU Leather Leopard Point Toe Pumps embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-08T12:00:19Z
+  Updated: 2026-05-10T23:10:27Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -16411,7 +16345,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/1a8ed442-c560-4be9-aed5-22ec4b02f444-Min.jpg?v=1739831184
     Price: $30.00 USD
 - [Weeboo Chunky Heel Rhinestone Western Cowboy Boots | Goth...](https://munsieur.com/products/weeboo-chunky-heel-rhinestone-western-cowboy-boots): Weeboo Chunky Heel Rhinestone Western Cowboy Boots embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-05-05T17:45:19Z
+  Updated: 2026-05-09T00:46:11Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -16421,7 +16355,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b73a9762-8d2b-4932-82cc-557605f6a456-Min.jpg?v=1739831212
     Price: $58.99 USD
   - [Black / 7](https://munsieur.com/products/weeboo-chunky-heel-rhinestone-western-cowboy-boots?variant=50163343917272)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/b73a9762-8d2b-4932-82cc-557605f6a456-Min.jpg?v=1739831212
     Price: $58.99 USD
   - [Black / 7.5](https://munsieur.com/products/weeboo-chunky-heel-rhinestone-western-cowboy-boots?variant=50163343950040)
@@ -17221,7 +17155,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3003bfbe-da8b-41df-af09-1b2644c702b7-Min.jpg?v=1739831611
     Price: $29.95 USD
 - [Fringe Leopard Open Toe Sandals | Gothic Ceremonial | MUN...](https://munsieur.com/products/fringe-leopard-open-toe-sandals): Fringe Leopard Open Toe Sandals embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-05-05T14:59:14Z
+  Updated: 2026-05-07T14:15:19Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -17290,120 +17224,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/cdbc712b-38de-423d-a958-fd5bb69316f6-Min.jpg?v=1739831686
     Price: $41.99 USD
-- [PU Leather Crisscross Wedge Sandals | Gothic Ceremonial |...](https://munsieur.com/products/pu-leather-crisscross-wedge-sandals): PU Leather Crisscross Wedge Sandals embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-05-05T04:09:41Z
-  Vendor: Munsieur
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/10b4343a-504c-4e07-97f0-f9f88dc2d2cd-Min.jpg?v=1739831736
-  - [White / 35(US4)](https://munsieur.com/products/pu-leather-crisscross-wedge-sandals?variant=50163400147160)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/276289a1-0ebe-43df-b44f-5ebc4e683511-Min.jpg?v=1739831736
-    Price: $50.99 USD
-  - [White / 36(US5)](https://munsieur.com/products/pu-leather-crisscross-wedge-sandals?variant=50163400179928)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/276289a1-0ebe-43df-b44f-5ebc4e683511-Min.jpg?v=1739831736
-    Price: $50.99 USD
-  - [White / 37(US6)](https://munsieur.com/products/pu-leather-crisscross-wedge-sandals?variant=50163400212696)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/276289a1-0ebe-43df-b44f-5ebc4e683511-Min.jpg?v=1739831736
-    Price: $50.99 USD
-  - [White / 38(US7)](https://munsieur.com/products/pu-leather-crisscross-wedge-sandals?variant=50163400245464)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/276289a1-0ebe-43df-b44f-5ebc4e683511-Min.jpg?v=1739831736
-    Price: $50.99 USD
-  - [White / 39(US8)](https://munsieur.com/products/pu-leather-crisscross-wedge-sandals?variant=50163400278232)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/276289a1-0ebe-43df-b44f-5ebc4e683511-Min.jpg?v=1739831736
-    Price: $50.99 USD
-  - [Brown / 35(US4)](https://munsieur.com/products/pu-leather-crisscross-wedge-sandals?variant=50163400311000)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/10b4343a-504c-4e07-97f0-f9f88dc2d2cd-Min.jpg?v=1739831736
-    Price: $50.99 USD
-  - [White / 40(US9)](https://munsieur.com/products/pu-leather-crisscross-wedge-sandals?variant=50163400343768)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/276289a1-0ebe-43df-b44f-5ebc4e683511-Min.jpg?v=1739831736
-    Price: $50.99 USD
-  - [White / 41(US10)](https://munsieur.com/products/pu-leather-crisscross-wedge-sandals?variant=50163400376536)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/276289a1-0ebe-43df-b44f-5ebc4e683511-Min.jpg?v=1739831736
-    Price: $50.99 USD
-  - [White / 42(US10.5)](https://munsieur.com/products/pu-leather-crisscross-wedge-sandals?variant=50163400409304)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/276289a1-0ebe-43df-b44f-5ebc4e683511-Min.jpg?v=1739831736
-    Price: $50.99 USD
-  - [White / 43(US11)](https://munsieur.com/products/pu-leather-crisscross-wedge-sandals?variant=50163400442072)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/276289a1-0ebe-43df-b44f-5ebc4e683511-Min.jpg?v=1739831736
-    Price: $50.99 USD
-  - [Black / 35(US4)](https://munsieur.com/products/pu-leather-crisscross-wedge-sandals?variant=50163400474840)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5f4f82bf-9a14-4f64-bce1-9409eacc29f1-Min.jpg?v=1739831736
-    Price: $50.99 USD
-  - [Black / 36(US5)](https://munsieur.com/products/pu-leather-crisscross-wedge-sandals?variant=50163400507608)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5f4f82bf-9a14-4f64-bce1-9409eacc29f1-Min.jpg?v=1739831736
-    Price: $50.99 USD
-  - [Black / 37(US6)](https://munsieur.com/products/pu-leather-crisscross-wedge-sandals?variant=50163400540376)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5f4f82bf-9a14-4f64-bce1-9409eacc29f1-Min.jpg?v=1739831736
-    Price: $50.99 USD
-  - [Black / 38(US7)](https://munsieur.com/products/pu-leather-crisscross-wedge-sandals?variant=50163400573144)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5f4f82bf-9a14-4f64-bce1-9409eacc29f1-Min.jpg?v=1739831736
-    Price: $50.99 USD
-  - [Black / 39(US8)](https://munsieur.com/products/pu-leather-crisscross-wedge-sandals?variant=50163400605912)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5f4f82bf-9a14-4f64-bce1-9409eacc29f1-Min.jpg?v=1739831736
-    Price: $50.99 USD
-  - [Black / 40(US9)](https://munsieur.com/products/pu-leather-crisscross-wedge-sandals?variant=50163400638680)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5f4f82bf-9a14-4f64-bce1-9409eacc29f1-Min.jpg?v=1739831736
-    Price: $50.99 USD
-  - [Black / 41(US10)](https://munsieur.com/products/pu-leather-crisscross-wedge-sandals?variant=50163400671448)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5f4f82bf-9a14-4f64-bce1-9409eacc29f1-Min.jpg?v=1739831736
-    Price: $50.99 USD
-  - [Black / 42(US10.5)](https://munsieur.com/products/pu-leather-crisscross-wedge-sandals?variant=50163400704216)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5f4f82bf-9a14-4f64-bce1-9409eacc29f1-Min.jpg?v=1739831736
-    Price: $50.99 USD
-  - [Black / 43(US11)](https://munsieur.com/products/pu-leather-crisscross-wedge-sandals?variant=50163400736984)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/5f4f82bf-9a14-4f64-bce1-9409eacc29f1-Min.jpg?v=1739831736
-    Price: $50.99 USD
-  - [Brown / 36(US5)](https://munsieur.com/products/pu-leather-crisscross-wedge-sandals?variant=50163400769752)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/10b4343a-504c-4e07-97f0-f9f88dc2d2cd-Min.jpg?v=1739831736
-    Price: $50.99 USD
-  - [Brown / 37(US6)](https://munsieur.com/products/pu-leather-crisscross-wedge-sandals?variant=50163400802520)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/10b4343a-504c-4e07-97f0-f9f88dc2d2cd-Min.jpg?v=1739831736
-    Price: $50.99 USD
-  - [Brown / 38(US7)](https://munsieur.com/products/pu-leather-crisscross-wedge-sandals?variant=50163400835288)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/10b4343a-504c-4e07-97f0-f9f88dc2d2cd-Min.jpg?v=1739831736
-    Price: $50.99 USD
-  - [Brown / 39(US8)](https://munsieur.com/products/pu-leather-crisscross-wedge-sandals?variant=50163400868056)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/10b4343a-504c-4e07-97f0-f9f88dc2d2cd-Min.jpg?v=1739831736
-    Price: $50.99 USD
-  - [Brown / 40(US9)](https://munsieur.com/products/pu-leather-crisscross-wedge-sandals?variant=50163400900824)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/10b4343a-504c-4e07-97f0-f9f88dc2d2cd-Min.jpg?v=1739831736
-    Price: $50.99 USD
-  - [Brown / 41(US10)](https://munsieur.com/products/pu-leather-crisscross-wedge-sandals?variant=50163400933592)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/10b4343a-504c-4e07-97f0-f9f88dc2d2cd-Min.jpg?v=1739831736
-    Price: $50.99 USD
-  - [Brown / 42(US10.5)](https://munsieur.com/products/pu-leather-crisscross-wedge-sandals?variant=50163400966360)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/10b4343a-504c-4e07-97f0-f9f88dc2d2cd-Min.jpg?v=1739831736
-    Price: $50.99 USD
-  - [Brown / 43(US11)](https://munsieur.com/products/pu-leather-crisscross-wedge-sandals?variant=50163400999128)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/10b4343a-504c-4e07-97f0-f9f88dc2d2cd-Min.jpg?v=1739831736
-    Price: $50.99 USD
 - [Bow Leopard Kitten Heels | Gothic Ceremonial | MUNSIEUR](https://munsieur.com/products/bow-leopard-kitten-heel-sandals): Bow Leopard Kitten Heels embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
   Updated: 2026-04-03T13:53:57Z
   Vendor: Munsieur
@@ -18019,7 +17839,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/bc2edd645b334e559952a65b157422bb-Min.jpg?v=1739832896
     Price: $649.00 USD
 - [925 Sterling Silver 1 Carat Moissanite 4-Prong Stud Earri...](https://munsieur.com/products/925-sterling-silver-1-carat-moissanite-4-prong-stud-earrings): 925 Sterling Silver 1 Carat Moissanite 4-Prong Stud Earrings embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crow...
-  Updated: 2026-04-10T16:46:09Z
+  Updated: 2026-05-08T22:13:56Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -18172,7 +17992,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/a218cbf2-8ccd-47aa-bbac-99f708ab6b80-Min.jpg?v=1739833078
     Price: $249.00 USD
 - [Teardrop Shape Natural Stone Dangle Earrings | Gothic Cer...](https://munsieur.com/products/teardrop-shape-natural-stone-dangle-earrings): Teardrop Shape Natural Stone Dangle Earrings embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-11T00:40:19Z
+  Updated: 2026-05-07T21:37:57Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -18365,7 +18185,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/7208abcc-8c8e-466b-b2be-5f72fba955cb-Min.jpg?v=1739833829
     Price: $9.99 USD
 - [Turquoise Alloy Flower Ring | Gothic Ceremonial | MUNSIEUR](https://munsieur.com/products/artificial-turquoise-alloy-flower-ring): Turquoise Alloy Flower Ring embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-03T13:53:27Z
+  Updated: 2026-05-07T04:17:57Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -18589,7 +18409,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/3f8b9529-88bc-48c1-adde-42957cc5db6b-Min.jpg?v=1739834677
     Price: $12.00 USD
 - [Polycarbonate Frame Cat-Eye Sunglasses | Gothic Ceremonia...](https://munsieur.com/products/polycarbonate-frame-cat-eye-sunglasses): Polycarbonate Frame Cat-Eye Sunglasses embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-04-21T17:38:57Z
+  Updated: 2026-05-09T18:34:41Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -18641,7 +18461,7 @@
     Image: https://cdn.shopify.com/s/files/1/0735/1454/9464/files/337c8f83c71c47dfbb74927ceac9af79-Min.jpg?v=1739834853
     Price: $10.00 USD
 - [Polycarbonate Frame Square Sunglasses | Gothic Ceremonial...](https://munsieur.com/products/polycarbonate-frame-square-sunglasses-1): Polycarbonate Frame Square Sunglasses embodies restrained gothic luxury. Ceremonial discipline engineered not decorated. MUNSIEUR crowned motif.
-  Updated: 2026-05-04T02:15:16Z
+  Updated: 2026-05-07T21:36:36Z
   Vendor: Munsieur
   Product Type: 
   Availability: Available
@@ -18826,7 +18646,7 @@
   Updated: 2026-04-24T20:13:41Z
   Total Products: 110
 - [Women's Urban Fashion Sweatshirts for : Bold Styles Await - Munsieur](https://munsieur.com/collections/urban-fashion-sweatshirts-for-): Shop Munsieur's women's urban fashion sweatshirts. Bold styles, premium comfort, luxury streetwear. Elevate your casual wardrobe.
-  Updated: 2026-04-29T01:55:49Z
+  Updated: 2026-05-06T01:53:35Z
   Total Products: 188
 - [Premium Graphic Tees for Men: Urban Elegance Unleashed - Munsieur](https://munsieur.com/collections/premium-graphic-tees-for-men): Shop Munsieur's premium graphic tees for men. Bold designs, luxury cotton, superior craftsmanship. Urban streetwear that makes a statement.
   Updated: 2026-04-24T20:13:41Z
@@ -18835,19 +18655,19 @@
   Updated: 2026-05-01T16:40:00Z
   Total Products: 226
 - [Designer Streetwear Jackets for Women: Urban Luxury Style - Munsieur](https://munsieur.com/collections/designer-streetwear-jackets-for-women): - Munsieur
-  Updated: 2026-05-03T15:28:20Z
+  Updated: 2026-05-11T01:46:43Z
   Total Products: 111
 - [Men's Premium Streetwear Coats | Munsieur Luxury Outerwear](https://munsieur.com/collections/premium-mens-streetwear-coats): Shop Munsieur men's premium streetwear coats. Heavy outerwear, ceremonial design & dark-luxury aesthetic. Gothic luxury fashion for the discerning few.
-  Updated: 2026-04-30T02:08:30Z
+  Updated: 2026-05-11T01:46:43Z
   Total Products: 63
 - [Munsieur: Bold Style Fashion Hats for Urban Elegance - Munsieur](https://munsieur.com/collections/bold-style-fashion-hats): - Munsieur
   Updated: 2026-04-27T11:13:41Z
   Total Products: 75
 - [Women's Premium Streetwear Rompers, Jumpsuits, and Lounge suits: Elevate Your Urban Style - Munsieur](https://munsieur.com/collections/premium-streetwear-rompers-suits): - Munsieur
-  Updated: 2026-05-03T15:50:00Z
+  Updated: 2026-05-09T12:32:14Z
   Total Products: 356
 - [Trendy Picks: Buy Women's Streetwear-Inspired Swimwear - Munsieur](https://munsieur.com/collections/buy-womens-streetwear-inspired-swimwear): - Munsieur
-  Updated: 2026-05-01T16:45:00Z
+  Updated: 2026-05-06T01:54:14Z
   Total Products: 109
 - [Men's Premium Streetwear Joggers | Munsieur Luxury Fleece](https://munsieur.com/collections/premium-streetwear-joggers-mens): Shop Munsieur men's premium streetwear joggers. Heavy fleece, tapered fit & refined details. Luxury gothic streetwear joggers built to last. Shop now.
   Updated: 2026-04-27T11:05:25Z
@@ -18871,8 +18691,8 @@
   Updated: 2026-05-03T16:05:13Z
   Total Products: 86
 - [Urban Fashion New Arrivals: Luxury Streetwear Essentials - Munsieur](https://munsieur.com/collections/urban-fashion-new-arrivals): Shop Munsieur's latest luxury streetwear arrivals. Fresh designs, premium quality, bold graphics. Discover the newest additions to our collection.
-  Updated: 2026-05-03T15:38:50Z
-  Total Products: 95
+  Updated: 2026-05-11T01:46:43Z
+  Total Products: 1617
 - [Buy Stylish Men's Shoes Online: Elevate Your Urban Look - Munsieur](https://munsieur.com/collections/buy-stylish-mens-shoes-online): Shop Munsieur's stylish men's shoes collection. Elevate your urban look with premium footwear, bold designs, superior comfort and quality.
   Updated: 2026-04-27T11:14:07Z
   Total Products: 50
@@ -18895,13 +18715,13 @@
   Updated: 2026-03-31T23:01:34Z
   Total Products: 22
 - [Buy Stylish Women's High Heels: Elevate Your Urban Look - Munsieur](https://munsieur.com/collections/buy-stylish-womens-high-heels): Shop Munsieur's stylish women's high heels. Elevate your urban look with premium footwear, bold designs, superior comfort and style.
-  Updated: 2026-04-29T01:56:50Z
+  Updated: 2026-05-07T01:47:07Z
   Total Products: 88
 - [Luxury Women's Dresses: Effortless Elegance for Every Occasion - Munsieur](https://munsieur.com/collections/luxury-womens-dresses-skirts): Discover Munsieur's luxury women's dresses. Effortless elegance, premium fabrics, bold designs. Streetwear-inspired dresses for every occasion.
-  Updated: 2026-05-03T16:05:46Z
+  Updated: 2026-05-08T11:35:20Z
   Total Products: 345
 - [Buy High-Quality Jeans for Women Online - Munsieur](https://munsieur.com/collections/high-quality-jeans-for-women-online): Shop Munsieur's premium women's jeans collection. High-quality denim, bold designs, superior fit. Luxury streetwear jeans built to last.
-  Updated: 2026-04-17T20:42:43Z
+  Updated: 2026-05-07T08:59:58Z
   Total Products: 102
 - [Munsieur Collection: Designer Jeans for Men - Munsieur](https://munsieur.com/collections/designer-jeans-for-men-munsieur): Shop Munsieur's designer jeans for men. Premium denim, bold designs, superior fit. Luxury streetwear jeans built to last.
   Updated: 2026-04-19T16:17:35Z
@@ -18925,7 +18745,7 @@
   Updated: 2026-03-31T23:01:35Z
   Total Products: 0
 - [Women's Blouses Flowy for Her Munsieur Crowned Design - Munsieur](https://munsieur.com/collections/womens-blouses-flowy-for-her-munsieur-crowned-design): Women's Blouses for all occasions. Flowy and Comfortable with many different styles. - Munsieur
-  Updated: 2026-04-29T01:57:52Z
+  Updated: 2026-05-06T01:53:58Z
   Total Products: 204
 - [Shop The Look Featured Collection - Munsieur](https://munsieur.com/collections/shop-the-look-featured-collection): - Munsieur
   Updated: 2026-04-18T01:04:16Z
@@ -18949,7 +18769,7 @@
   Updated: 2026-04-05T03:38:06Z
   Total Products: 12
 - [Valentine's Day Streetwear Collection | Premium Tees & Leggings - Munsieur](https://munsieur.com/collections/munsieur-valentines-day-collection): Shop Munsieur's exclusive Valentine's Day luxury streetwear collection. Bold graphics, premium quality tees, leggings & dresses. Limited edition designs.
-  Updated: 2026-05-01T16:45:00Z
+  Updated: 2026-05-07T01:50:53Z
   Total Products: 62
 - [Munsieur Thanksgiving Day Collection - Munsieur](https://munsieur.com/collections/munsieur-thanksgiving-day-collection): Shop Munsieur's Thanksgiving luxury streetwear collection. Festive designs, premium quality apparel. Limited edition pieces for the holiday season.
   Updated: 2026-03-31T23:01:35Z
@@ -18997,22 +18817,22 @@
   Updated: 2026-03-31T23:01:36Z
   Total Products: 0
 - [New! Shopify performance sharing is now turned on - Munsieur](https://munsieur.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel. - Munsieur
-  Updated: 2026-05-03T16:05:46Z
+  Updated: 2026-05-11T01:46:43Z
   Total Products: 3969
 - [Buy Skirts for Women Exclusively at MUNSIEUR - Munsieur](https://munsieur.com/collections/buy-skirts-for-women-exclusively-at-munsieur): ... - Munsieur
-  Updated: 2026-05-03T16:04:05Z
+  Updated: 2026-05-07T01:50:47Z
   Total Products: 189
 - [Luxury Gothic Outerwear — Structured Coats & Embroidered Jackets | Munsieur](https://munsieur.com/collections/outerwear): Premium gothic outerwear in wool blends and heavyweight cotton. Architectural silhouettes, hand-finished details. Limited to 50–100 pieces per design.
-  Updated: 2026-05-03T15:28:20Z
+  Updated: 2026-05-11T01:46:43Z
   Total Products: 457
 - [Luxury Gothic Tops — Embroidered Heavyweight Streetwear Tops | Munsieur](https://munsieur.com/collections/tops): Premium gothic tops in heavyweight cotton and silk blends. Embroidered motifs, oversized fits. Limited to 150–300 pieces per style. No restock planned.
-  Updated: 2026-05-01T16:40:00Z
+  Updated: 2026-05-06T01:53:58Z
   Total Products: 638
 - [Gothic Luxury Dresses — Embroidered Structured Dresses & Skirts | Munsieur](https://munsieur.com/collections/dresses): Premium gothic dresses and skirts in structured cotton and jersey. Embroidered motifs, clean lines. Limited seasonal runs. Designed for singular presence.
-  Updated: 2026-05-03T16:05:46Z
+  Updated: 2026-05-08T11:35:20Z
   Total Products: 525
 - [Gothic Luxury Bottoms — Structured Trousers & Embroidered Denim | Munsieur](https://munsieur.com/collections/bottoms): Premium gothic bottoms in denim and cotton twill. Structured silhouettes, gothic embroidery. Limited seasonal runs. No restock planned.
-  Updated: 2026-04-28T02:29:50Z
+  Updated: 2026-05-07T08:59:58Z
   Total Products: 711
 - [Gothic Statement Pieces — Oversized Embroidered Luxury Streetwear | Munsieur](https://munsieur.com/collections/statement-pieces): Limited-run gothic statement pieces with hand-finished embroidery. 100–200 per design. Premium cotton blends. Designed to anchor and define your wardrobe.
   Updated: 2026-05-03T15:23:40Z
@@ -19030,13 +18850,13 @@
   Updated: 2026-05-03T15:18:00Z
   Total Products: 87
 - [Velour Obscura Pajamas and Sleepwear at MUNSIEUR - Munsieur](https://munsieur.com/collections/velour-obscura-pajamas-and-sleepwear-at-munsieur): - Munsieur
-  Updated: 2026-05-03T15:52:10Z
+  Updated: 2026-05-07T01:50:53Z
   Total Products: 85
 - [Nocturne Veil Bodysuits for Women at MUNSIEUR - Munsieur](https://munsieur.com/collections/nocturne-veil-bodysuits-for-women-at-munsieur): - Munsieur
   Updated: 2026-04-23T02:41:55Z
   Total Products: 24
 - [ELEGANT ATELIER LOUNGEWEAR SLEEPWEAR AT MUNSIEUR - Munsieur](https://munsieur.com/collections/elegant-atelier-loungewear-sleepwear-at-munsieur): - Munsieur
-  Updated: 2026-05-03T15:52:10Z
+  Updated: 2026-05-07T01:50:53Z
   Total Products: 81
 
 ## Blogs
