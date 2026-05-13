@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2010-04-30T15:23:34Z
 - Contact Email: sales@maiden-art.com
-- Updated At: 2026-04-26T00:00:27.025Z
+- Updated At: 2026-05-13T13:13:28.867Z
 
 ## Products
 
@@ -141,28 +141,28 @@
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/01_mockup_ebook_maidenart.jpg?v=1726645968
   Price: €24.87 EUR
 - [Mindful Fashion Everyday Happiness Ebook + Workbook - Maiden-Art](https://www.maiden-art.com/products/mindful-fashion-everyday-happiness-ebook): Everyday Happiness with Mindful Fashion Everyday Happiness Ebook + Workbook: UNLOCK THE HAPPINESS  - Maiden-Art
-  Updated: 2026-04-20T20:13:00Z
+  Updated: 2026-05-05T12:22:03Z
   Vendor: MAIDEN-ART
   Product Type: ebook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/02_mockup_ebook_maidenart.jpg?v=1726645971
   Price: €34.87 EUR
 - [Limiting Beliefs Ebook + Workbook | Mindful Fashion - Maiden-Art](https://www.maiden-art.com/products/mindful-fashion-limiting-beliefs-ebook-workbook): Mindful Fashion Limiting Beliefs Ebook + Workbook. Ebook of 79 pages, immediate digital download in  - Maiden-Art
-  Updated: 2026-04-20T20:13:00Z
+  Updated: 2026-05-05T12:22:03Z
   Vendor: MAIDEN-ART
   Product Type: ebook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/03_mockup_ebook_maidenart.jpg?v=1726645974
   Price: €24.87 EUR
 - [Mindful Fashion Financial Freedom with Maiden-Art Ebook - Maiden-Art](https://www.maiden-art.com/products/mindful-fashion-financial-freedom-with-maiden-art-ebook): Achieve Financial Freedom with Mindful Fashion Mindful Fashion Financial Freedom with Maiden-Art  - Maiden-Art
-  Updated: 2026-04-20T20:13:01Z
+  Updated: 2026-05-05T12:22:02Z
   Vendor: MAIDEN-ART
   Product Type: ebook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/04_mockup_ebook_maidenart.jpg?v=1726645977
   Price: €24.87 EUR
 - [Mindful Fashion LOVE MYSELF 4 Ebooks Bundle - Maiden-Art](https://www.maiden-art.com/products/mindful-fashion-4-ebooks-bundle): Mindful Fashion LOVE MYSELF 4 Ebooks Bundle Mindful Fashion LOVE MYSELF 4 Ebooks Bundle. Elevate  - Maiden-Art
-  Updated: 2026-02-04T06:18:05Z
+  Updated: 2026-05-05T12:17:13Z
   Vendor: Maiden-Art
   Product Type: ebook
   Availability: Available
@@ -361,14 +361,14 @@
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/yoga-mat-white-front-65b4de7117c22.jpg?v=1706352251
   Price: €97.00 EUR
 - [Elevate Your Style in 10 Days - A Wardrobe Challenge for a Fashion](https://www.maiden-art.com/products/elevate-your-style-in-10-days-a-wardrobe-challenge-for-a-fashion-revolution-ebook-personal-style-guide): Personal Style Guide  a Fashion Revolution Elevate Your Style in 10 Days - A Wardrobe Challenge  - Maiden-Art
-  Updated: 2026-04-20T20:13:06Z
+  Updated: 2026-05-05T12:22:01Z
   Vendor: MAIDEN-ART
   Product Type: ebook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/best-1.jpg?v=1726646059
   Price: €24.87 EUR
 - [Mindfulness eBook + Workbook: Your Path to Inner Peace -](https://www.maiden-art.com/products/maiden-art-mindfulness-ebook-workbook-your-path-to-inner-peace): Mindfulness eBook: Your Path to Inner Peace Mindfulness ebook: 🌿 Maiden-Art Mindfulness eBook +  - Maiden-Art
-  Updated: 2026-04-20T20:13:07Z
+  Updated: 2026-05-05T12:22:00Z
   Vendor: MAIDEN-ART
   Product Type: e-book
   Availability: Available
@@ -747,14 +747,14 @@
     Availability: Available
     Price: €79.00 EUR
 - [Serenity Spice: A Vanilla Infusion - Candle for Mindfulness &](https://www.maiden-art.com/products/serenity-spice-a-vanilla-infusion-candle-aromatherapy-candle): Experience Serenity with Our Premium Aromatherapy Candle Available in the following scents: Vanilla  - Maiden-Art
-  Updated: 2026-04-24T20:40:56Z
+  Updated: 2026-05-05T12:58:41Z
   Vendor: Candle Builders
   Product Type: Candle
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0048/5172/products/f1e140da32cb5d727243bbed53f9df81.png?v=1726563269
+  Image: https://cdn.shopify.com/s/files/1/0048/5172/files/1777985863534-Vanilla-Bean_1_mockup_1_image.png?v=1777985907
   Price: €49.00 EUR
 - [Serenity Sea: Mindful Citrus Breeze - Candle for Mindfulness &](https://www.maiden-art.com/products/serenity-sea-mindful-citrus-breeze-candle): Serenity  Candle: Mindful Citrus Breeze for Meditation Candle: Available in the following scents:  - Maiden-Art
-  Updated: 2026-04-20T20:13:18Z
+  Updated: 2026-05-04T20:53:45Z
   Vendor: Candle Builders
   Product Type: Candle
   Availability: Available
@@ -789,14 +789,14 @@
   Image: https://cdn.shopify.com/s/files/1/0048/5172/products/e34541b49ed70299a28412dc8a62c13a.png?v=1726563288
   Price: €49.00 EUR
 - [Meditation Candle - Eucalyptus Lavender Tranquility - Candle for](https://www.maiden-art.com/products/eucalyptus-lavender-tranquility-candle-for-mindfulness-meditation-candle): Meditation Candle - Eucalyptus Lavender Tranquility Meditation Candle: Available in the following  - Maiden-Art
-  Updated: 2026-04-20T20:13:21Z
+  Updated: 2026-05-04T20:56:26Z
   Vendor: Candle Builders
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/products/8b52528f19d088ea706ec6faf2aeb62d.png?v=1726563291
   Price: €49.00 EUR
 - [Citrus Glow Elixir - Vitamin C Serum - Maiden-Art](https://www.maiden-art.com/products/citrus-glow-elixir-mindful-vitamin-c-serum): Experience Radiance with Our Vitamin C  Vitamin C : Citrus Glow Elixir Mindful Vitamin C  - Maiden-Art
-  Updated: 2026-04-20T20:13:21Z
+  Updated: 2026-05-05T12:21:58Z
   Vendor: Selfnamed
   Product Type: vitamin c serum
   Availability: Available
@@ -908,7 +908,7 @@
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Y-vdfQbboy5XSz_-2zQNxufs2wRonXln.jpg?v=1726646814
   Price: €49.00 EUR
 - [Sensitive skin cleanser - Gentle Harmony - Sensitive Skin Face & Body](https://www.maiden-art.com/products/sensitive-skin-cleanser-gentle-harmony-sensitive-skin-face-body-cleanser): Sensitive Skin Cleanser - Gentle Harmony Sensitive skin cleanser : Gentle Harmony: Sensitive Skin  - Maiden-Art
-  Updated: 2026-04-20T20:13:30Z
+  Updated: 2026-05-05T12:21:08Z
   Vendor: Selfnamed
   Product Type: Sensitive Skin Face & Body Cleanser
   Availability: Available
@@ -1265,7 +1265,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-denim-t-shirt-denim-blue-front-6608218b0b5a5.jpg?v=1726646962
     Price: €69.00 EUR
 - [F*CK NORMAL I WANT MAGIC Unisex Premium Sweatshirt - Maiden-Art](https://www.maiden-art.com/products/f-ck-normal-i-want-magic-unisex-premium-sweatshirt): Premium Sweatshirt - F*CK NORMAL I WANT MAGIC Unisex Premium Sweatshirt: Rock a classic sweatshirt  - Maiden-Art
-  Updated: 2026-04-20T20:13:35Z
+  Updated: 2026-05-05T12:21:56Z
   Vendor: Maiden-Art
   Product Type: Unisex Premium Sweatshirt
   Availability: Available
@@ -1295,7 +1295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-premium-sweatshirt-dusty-rose-front-661015012bdc4.jpg?v=1726491171
     Price: €139.00 EUR
 - [F*CK NORMAL I WANT MAGIC Unisex Premium Sweatshirt - Maiden-Art](https://www.maiden-art.com/products/f-ck-normal-i-want-magic-unisex-premium-sweatshirt-1): Experience the Magic with Our Premium Sweatshirt Premium Sweatshirt: Rock a classic sweatshirt  - Maiden-Art
-  Updated: 2026-04-20T20:13:36Z
+  Updated: 2026-05-05T12:21:55Z
   Vendor: Maiden-Art
   Product Type: Unisex Premium Sweatshirt
   Availability: Available
@@ -1427,7 +1427,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-crew-neck-sweatshirt-white-front-66101cf4e0988.jpg?v=1726647028
     Price: €139.00 EUR
 - [Premium Sweatshirt F*CK NORMAL I WANT MAGIC - Maiden-Art](https://www.maiden-art.com/products/premium-sweatshirt-f-ck-normal-i-want-magic-1): Premium Sweatshirt - F*CK NORMAL I WANT MAGIC Premium Sweatshirt: Rock a classic sweatshirt  - Maiden-Art
-  Updated: 2026-04-20T20:13:37Z
+  Updated: 2026-05-05T12:21:54Z
   Vendor: Maiden-Art
   Product Type: Unisex Premium Sweatshirt
   Availability: Available
@@ -1481,7 +1481,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-premium-sweatshirt-white-front-66114b6d809f1.jpg?v=1726491214
     Price: €139.00 EUR
 - [Premium Sweatshirt F*CK NORMAL I WANT MAGIC Unisex - Maiden-Art](https://www.maiden-art.com/products/premium-sweatshirt-f-ck-normal-i-want-magic): Unisex Premium Sweatshirt - F*CK NORMAL I WANT MAGIC Premium Sweatshirt: Rock a classic sweatshirt  - Maiden-Art
-  Updated: 2026-04-20T20:13:38Z
+  Updated: 2026-05-05T12:21:53Z
   Vendor: Maiden-Art
   Product Type: Unisex Premium Sweatshirt
   Availability: Available
@@ -2005,7 +2005,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/womens-relaxed-t-shirt-dark-grey-heather-front-66155e522ff6d.jpg?v=1726647211
     Price: €69.00 EUR
 - [Women's tshirt F*CK NORMAL I WANT MAGIC Women’s highwaisted tshirt](https://www.maiden-art.com/products/womens-t-shirt-f-ck-normal-i-want-magic-women-s-high-waisted-t-shirt): Stylish and Bold Women's T-Shirt Women's : Made of 100% combed and ring-spun cotton, this  - Maiden-Art
-  Updated: 2026-04-20T20:13:44Z
+  Updated: 2026-05-05T12:21:50Z
   Vendor: Maiden-Art
   Product Type: Women’s high-waisted t-shirt
   Availability: Available
@@ -2027,7 +2027,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/womens-high-waisted-tee-red-sorbet-front-66156085036d3.jpg?v=1726647225
     Price: €69.00 EUR
 - [women's tshirt F*CK NORMAL I WANT MAGIC Women’s highwaisted tshirt](https://www.maiden-art.com/products/womens-t-shirt-f-ck-normal-i-want-magic-women-s-high-waisted-t-shirt-1): Women's T-Shirt - F*CK NORMAL I WANT MAGIC High-Waisted Women's t-shirt: Made of 100% combed and  - Maiden-Art
-  Updated: 2026-04-20T20:13:45Z
+  Updated: 2026-05-05T12:21:48Z
   Vendor: Maiden-Art
   Product Type: Women’s high-waisted t-shirt
   Availability: Available
@@ -2173,7 +2173,7 @@
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/RgGUO4kxibbdt_betQJtmRA7ckfpgdWx.jpg?v=1726647652
   Price: €39.00 EUR
 - [Self-Love Journal - Maiden-Art](https://www.maiden-art.com/products/mindful-fashion-self-love-workbook-copy): Discover the Power of Self-Love with Our Journal Empower Your Journey: Unlock Self-Love &amp; Inner  - Maiden-Art
-  Updated: 2026-04-20T20:13:53Z
+  Updated: 2026-05-05T12:21:44Z
   Vendor: MAIDEN-ART
   Product Type: ebook
   Availability: Available
@@ -2278,7 +2278,7 @@
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/empty-jewelry-box-top-view_zuc7jr_89b7db00-6091-4a51-bc15-8bb3696d665c.jpg?v=1726647830
   Price: €69.00 EUR
 - [Cotton Sweatshirt - Self Love Sweatshirt – Eco-Friendly](https://www.maiden-art.com/products/organic-cotton-sweatshirt-self-love-sweatshirt): Embrace Yourself with the Organic Cotton Sweatshirt  Self Love Sweatshirt Organic Cotton Sweatshirt  - Maiden-Art
-  Updated: 2026-04-20T20:14:02Z
+  Updated: 2026-05-11T14:28:08Z
   Vendor: Maiden-Art
   Product Type: Unisex Premium Sweatshirt
   Availability: Available
@@ -2288,7 +2288,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-organic-sweatshirt-french-navy-front-66e97c1c1e40f.jpg?v=1726577892
     Price: €139.00 EUR
   - [French Navy / M](https://www.maiden-art.com/products/organic-cotton-sweatshirt-self-love-sweatshirt?variant=49135867003223)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-organic-sweatshirt-french-navy-front-66e97c1c1e40f.jpg?v=1726577892
     Price: €139.00 EUR
   - [French Navy / L](https://www.maiden-art.com/products/organic-cotton-sweatshirt-self-love-sweatshirt?variant=49135867035991)
@@ -2344,13 +2344,13 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-organic-sweatshirt-royal-blue-front-66e97c1c15a99.jpg?v=1726577727
     Price: €139.00 EUR
 - [Cotton Sweatshirt - Self Love Sweatshirt – Eco-Friendly](https://www.maiden-art.com/products/organic-cotton-sweatshirt-self-love-sweatshirt-2): Embrace Yourself with Our Organic Cotton Sweatshirt  Self Love Sweatshirt Organic Cotton Sweatshirt  - Maiden-Art
-  Updated: 2026-04-20T20:14:02Z
+  Updated: 2026-05-11T14:28:11Z
   Vendor: Maiden-Art
   Product Type: Unisex Premium Sweatshirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-organic-sweatshirt-black-front-66e980c3ddcd5.jpg?v=1726578903
   - [Black / S](https://www.maiden-art.com/products/organic-cotton-sweatshirt-self-love-sweatshirt-2?variant=49135901049175)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-organic-sweatshirt-black-front-66e980c3ddcd5.jpg?v=1726578903
     Price: €139.00 EUR
   - [Black / M](https://www.maiden-art.com/products/organic-cotton-sweatshirt-self-love-sweatshirt-2?variant=49135901081943)
@@ -2430,7 +2430,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-organic-sweatshirt-grey-melange-front-66e980c3e7ddb.jpg?v=1726578928
     Price: €139.00 EUR
   - [White / S](https://www.maiden-art.com/products/organic-cotton-sweatshirt-self-love-sweatshirt-2?variant=49135901704535)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-organic-sweatshirt-white-front-66e980c3eaed0.jpg?v=1726579064
     Price: €139.00 EUR
   - [White / M](https://www.maiden-art.com/products/organic-cotton-sweatshirt-self-love-sweatshirt-2?variant=49135901737303)
@@ -2954,7 +2954,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-long-sleeve-tee-gold-back-670551cba6dff.jpg?v=1728402097
     Price: €89.00 EUR
 - [Self Love Premium pique polo shirt with Old Gold Embroidery -](https://www.maiden-art.com/products/self-love-premium-pique-polo-shirt): Elevate Your Wardrobe with a Premium Pique Polo Shirt This polo is made from thick, soft fabric and  - Maiden-Art
-  Updated: 2026-04-20T20:14:12Z
+  Updated: 2026-05-06T20:07:26Z
   Vendor: Maiden-Art
   Product Type: polos t-shirt
   Availability: Available
@@ -3000,7 +3000,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-premium-pique-polo-shirt-navy-front-6706882dd924d.jpg?v=1728481438
     Price: €69.00 EUR
   - [Navy / L](https://www.maiden-art.com/products/self-love-premium-pique-polo-shirt?variant=49258459890007)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-premium-pique-polo-shirt-navy-front-6706882dd924d.jpg?v=1728481438
     Price: €69.00 EUR
   - [Navy / XL](https://www.maiden-art.com/products/self-love-premium-pique-polo-shirt?variant=49258459922775)
@@ -3044,7 +3044,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-premium-pique-polo-shirt-mouse-grey-front-6706882dd9852.jpg?v=1728481443
     Price: €69.00 EUR
 - [Self Love Premium pique polo shirt with Old Gold Embroidery -](https://www.maiden-art.com/products/self-love-premium-pique-polo-shirt-with-old-gold-embroidery): Self Love Premium Pique Polo Shirt with Old Gold Embroidery Pique polo shirt: this polo is made from  - Maiden-Art
-  Updated: 2026-04-20T20:14:12Z
+  Updated: 2026-05-11T14:28:28Z
   Vendor: Maiden-Art
   Product Type: polos t-shirt
   Availability: Available
@@ -3086,7 +3086,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-premium-pique-polo-shirt-grey-melange-front-670687df53134.jpg?v=1728481414
     Price: €69.00 EUR
   - [Grey Melange / 2XL](https://www.maiden-art.com/products/self-love-premium-pique-polo-shirt-with-old-gold-embroidery?variant=49258501341527)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-premium-pique-polo-shirt-grey-melange-front-670687df53134.jpg?v=1728481414
     Price: €69.00 EUR
   - [Sand / S](https://www.maiden-art.com/products/self-love-premium-pique-polo-shirt-with-old-gold-embroidery?variant=49258501374295)
@@ -3098,15 +3098,15 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-premium-pique-polo-shirt-sand-front-670687df53a50.jpg?v=1728481421
     Price: €69.00 EUR
   - [Sand / L](https://www.maiden-art.com/products/self-love-premium-pique-polo-shirt-with-old-gold-embroidery?variant=49258501439831)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-premium-pique-polo-shirt-sand-front-670687df53a50.jpg?v=1728481421
     Price: €69.00 EUR
   - [Sand / XL](https://www.maiden-art.com/products/self-love-premium-pique-polo-shirt-with-old-gold-embroidery?variant=49258501472599)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-premium-pique-polo-shirt-sand-front-670687df53a50.jpg?v=1728481421
     Price: €69.00 EUR
   - [Sand / 2XL](https://www.maiden-art.com/products/self-love-premium-pique-polo-shirt-with-old-gold-embroidery?variant=49258501505367)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/unisex-premium-pique-polo-shirt-sand-front-670687df53a50.jpg?v=1728481421
     Price: €69.00 EUR
   - [White / S](https://www.maiden-art.com/products/self-love-premium-pique-polo-shirt-with-old-gold-embroidery?variant=49258501538135)
@@ -5858,7 +5858,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/all-over-print-recycled-string-bikini-white-front-6835e34a08866.jpg?v=1748362074
     Price: €89.00 EUR
 - [Ice Roller Massager Facial Ice Head Roller Massage](https://www.maiden-art.com/products/ice-roller-massager-facial-ice-head-roller-massage): Product information: Makeup tools classification: other makeup/beauty tools Size: 20cm Color classification: Pink integrated, light pink, light blue, light purple, green, pink integrated packaging box, light pink packaging box, light blue packaging box, green packaging box, pink integrated packaging box scrap board, light pink packaging box scrap board, light blue packing box scrap board, green packing box scrap board Packing list: 1*massage device Product Image:
-  Updated: 2026-04-20T21:25:26Z
+  Updated: 2026-05-13T02:16:33Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
@@ -6451,7 +6451,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S00d14b629535446e93ab71f1fb8c585f0_b30501fd-1b76-4984-99e0-0428374b5d43.webp?v=1759317165
     Price: €27.00 EUR
 - [3Pcs/set Metal Chunky No Piercing Clip Earrings Geometric Ear Cuff Earrings for Women Ladies Party Girls Y2K Jewelry 2024 Trendy](https://www.maiden-art.com/products/3pcs-set-metal-chunky-no-piercing-clip-earrings-geometric-ear-cuff-earrings-for-women-ladies-party-girls-y2k-jewelry-2024-trendy): Item Type : EARRINGSStyle : punk, Gothic, hip hop/Classic/Vintagefeature : Ear Clips, EarringsEar Clips : Punk Fashion Ear Clip Earrings For WomenNon Pierced Earrings : Goth Hip Hop Small Charm Earcuff Jewelry Party AccessoriesJewelry : Fake No Cartilage PunctureFit : Women Ladies Girls Female Children
-  Updated: 2026-04-20T21:25:32Z
+  Updated: 2026-05-12T20:10:28Z
   Vendor: MAIDEN-ART
   Product Type: earrings
   Availability: Available
@@ -6621,7 +6621,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/Sb8a088ac5bc245c9a364511234c7f230o.webp?v=1759317283
     Price: €24.90 EUR
 - [7/10/12Pcs Adjustable Toe Rings for Women Foot Ring Gold/Silver Color Metal Round Jewelry for Girl Summer Beach Barefeet Fashion](https://www.maiden-art.com/products/7-10-12pcs-adjustable-toe-rings-for-women-foot-ring-gold-silver-color-metal-round-jewelry-for-girl-summer-beach-barefeet-fashion): Item Specification: Features: Different Style: You will get 12pcs different style toe rings in one order. Arrow toe ring, flower toe ring, wave ring, simple band ring, feather toe ring and leaf toe ring included. Adjustable Size: Convenient open design, adjustable size, fits most of toes and fingers sizes, suits for girls, young ladies and women. Occasion: These toe rings are perfect summer jewelry for any occasion, casual to formal. They will make you charming and fashion on beach party, dancing, wedding, poolside, summer cocktail party and other occasions. Perfect Gift: This toe rings set is a perfect gift for women girls on birthday, anniversary, Mother's Day or other important days. After-sales Service: If you have any questions after receiving the product, please feel free to contact us and we will provide you with a satisfactory answer. Specifications: Material: Alloy Size: Adjustable Notes: 1. Due to the lighting effects and shooting angles, there is a color difference in the product, please understand. 2. Due to manual measurement, there is a tolerance in the product size. Package Includes: 12pcs*Toe Rings
-  Updated: 2026-04-20T21:25:35Z
+  Updated: 2026-05-05T12:21:34Z
   Vendor: Maiden-Art
   Product Type: Toe rings
   Availability: Available
@@ -8110,7 +8110,7 @@
   Image: https://cdn.shopify.com/s/files/1/0048/5172/files/S058b85571f23473385318e2be1abd19c3.webp?v=1759318512
   Price: €457.00 EUR
 - [1.83'' Waterproof Smart Watch with Message Answer Call Sleep Monitoring Sports Pedometer Information Alerts For iPhone Android](https://www.maiden-art.com/products/1-83-waterproof-smart-watch-with-message-answer-call-sleep-monitoring-sports-pedometer-information-alerts-for-iphone-android)
-  Updated: 2026-04-20T21:25:48Z
+  Updated: 2026-05-01T12:22:36Z
   Vendor: MAIDEN-ART
   Product Type: watch
   Availability: Available
@@ -8290,7 +8290,7 @@
     Image: https://cdn.shopify.com/s/files/1/0048/5172/files/f56ad039-e593-44e0-992a-d99bc0f962db_1a4869dc-96a6-4081-89f7-9a1e7bc5c406.jpg?v=1759586920
     Price: €17.00 EUR
 - [Vanilla Perfume](https://www.maiden-art.com/products/vanilla-perfume): Product information: Ingredients: water, denatured ethanol, PEG-40 hydrogenated castor oil, vanilla extract, musk extract, caramel. Size Information: Size: 4x4x8.2cm Packing list: Perfume *1
-  Updated: 2026-04-20T21:25:50Z
+  Updated: 2026-05-13T11:26:25Z
   Vendor: Maiden-Art
   Product Type: 7
   Availability: Available
@@ -9098,76 +9098,76 @@
 ## Collections
 
 - [All Fashion Products - Maiden-Art](https://www.maiden-art.com/collections/fashion-products): All Fashion Products Maiden-Art style described by VOGUE ITALIA  Fashion Products: "Her creations  - Maiden-Art
-  Updated: 2026-04-20T20:11:59Z
-  Total Products: 488
+  Updated: 2026-05-13T11:00:21Z
+  Total Products: 489
 - [Online gift cards - Maiden-Art](https://www.maiden-art.com/collections/online-gift-cards): Why Choose Online Gift Cards? Shopping for someone else but not sure what to give m? Give m  - Maiden-Art
-  Updated: 2026-04-20T20:12:00Z
+  Updated: 2026-05-07T10:30:55Z
   Total Products: 2
 - [New Arrivals - Maiden-Art](https://www.maiden-art.com/collections/new-arrivals): Discover Our New Arrivals You will find the latest releases from Maiden Art here. We specialise in  - Maiden-Art
-  Updated: 2026-04-20T20:12:00Z
-  Total Products: 452
+  Updated: 2026-05-13T11:00:21Z
+  Total Products: 453
 - [Spently - Recommended Products - Maiden-Art](https://www.maiden-art.com/collections/recommended-products): Recommended Products at Spently Recommended products This collection is used by the Spently app, to  - Maiden-Art
-  Updated: 2026-04-20T12:31:26Z
-  Total Products: 476
+  Updated: 2026-05-13T11:00:21Z
+  Total Products: 477
 - [Mindful Chic Sustainable Fashion - Maiden-Art](https://www.maiden-art.com/collections/mindful-chic-sustainable-fashion): Mindful Chic Sustainable Fashion Mindful Chic Sustainable Fashion. Indulge  senses and elevate  - Maiden-Art
-  Updated: 2026-04-20T20:12:00Z
-  Total Products: 443
+  Updated: 2026-05-13T11:00:21Z
+  Total Products: 444
 - [Jewelry - Maiden-Art](https://www.maiden-art.com/collections/personalized-jewelry-self-love-confidence): Jewelry Collections Discover the perfect jewelry to celebrate self-love and boost confidence. Our  - Maiden-Art
-  Updated: 2026-04-20T20:12:00Z
-  Total Products: 116
+  Updated: 2026-05-13T11:00:21Z
+  Total Products: 117
 - [Natural Skincare - Maiden-Art](https://www.maiden-art.com/collections/natural-skincare-self-love-skincare-collection-luxury-care): Embrace the Benefits of Natural Skincare Discover Maiden-Art's Self Love Skincare Collection, a  - Maiden-Art
-  Updated: 2026-04-20T20:12:00Z
+  Updated: 2026-05-13T11:00:21Z
   Total Products: 39
 - [Scented Candles - Maiden-Art](https://www.maiden-art.com/collections/scented-candles-mindfulness-meditation-candle-collection): Explore Our Scented Candles Collection Scented Candles: Immerse yourself in tranquility with  - Maiden-Art
-  Updated: 2026-04-20T20:12:00Z
+  Updated: 2026-05-07T10:30:55Z
   Total Products: 8
 - [Vitamins Supplements - Maiden-Art](https://www.maiden-art.com/collections/mindfulness-meditation-vitamins-supplements-collection): Boost Your Health with Vitamins  Elevate your well-being with Maiden-Art's Vitamins &amp;  - Maiden-Art
   Updated: 2025-12-29T10:33:36Z
   Total Products: 22
 - [Ebooks - Maiden-Art](https://www.maiden-art.com/collections/self-love-mindfulness-ebooks-collection): Understanding  and Their Impact on Reading  : Dive into self-discovery with Maiden-Art's  - Maiden-Art
-  Updated: 2026-04-20T20:12:01Z
+  Updated: 2026-05-07T10:30:55Z
   Total Products: 9
 - [Apparel - Maiden-Art](https://www.maiden-art.com/collections/apparel-self-love-mindfulness-clothes-accessories-collection): Explore Our Premium Apparel Collection Elevate your style and spirit with Maiden-Art's Clothes &amp;  - Maiden-Art
-  Updated: 2026-04-20T20:12:01Z
+  Updated: 2026-05-07T10:30:55Z
   Total Products: 171
 - [UpOrder - Recommended Products - Maiden-Art](https://www.maiden-art.com/collections/spently_products-recommended-products): Recommended Products This collection is used by the UpOrder app, to make product recommendations in  - Maiden-Art
-  Updated: 2026-04-20T12:31:26Z
-  Total Products: 476
+  Updated: 2026-05-13T11:00:21Z
+  Total Products: 477
 - [Natural Makeup - Maiden-Art](https://www.maiden-art.com/collections/natural-makeup-for-mindful-fashionistas-clean-beauty-for-confidence-self-love): Natural Makeup Discover our collection of natural makeup for mindful fashionistas at Maiden-Art.  - Maiden-Art
-  Updated: 2026-04-20T20:12:01Z
+  Updated: 2026-05-13T11:00:21Z
   Total Products: 36
 - [Home & Living - Maiden-Art](https://www.maiden-art.com/collections/home-living-for-mindful-fashionistas-eco-friendly-decor-self-love-essentials): Explore Our Home &amp; Living Collection Transform your space with our eco-friendly home &amp;  - Maiden-Art
-  Updated: 2026-04-20T20:12:01Z
+  Updated: 2026-05-07T10:30:55Z
   Total Products: 41
 - [Fashion Accessories - Maiden-Art](https://www.maiden-art.com/collections/fashion-accessories): Discover the Best Fashion Accessories Complete your look with our collection of accessories for  - Maiden-Art
-  Updated: 2026-04-20T20:12:01Z
+  Updated: 2026-05-07T10:30:56Z
   Total Products: 46
 - [UpOrder Products - Recommended Products - Maiden-Art](https://www.maiden-art.com/collections/spently_products-uporder-products): UpOrder Products Explore the Best UpOrder Products This collection is used by the UpOrder app, to  - Maiden-Art
-  Updated: 2026-04-20T12:31:26Z
-  Total Products: 476
+  Updated: 2026-05-13T11:00:21Z
+  Total Products: 477
 - [Holiday Gift Guide - holiday gift ideas - Maiden-Art](https://www.maiden-art.com/collections/holiday-gift-guide-holiday-gift-ideas): Best Holiday Gift Ideas Explore Maiden-Art's Holiday Gift Guide 2024 for one-of-a-kind clothes,  - Maiden-Art
-  Updated: 2026-04-20T20:12:02Z
+  Updated: 2026-05-07T10:30:56Z
   Total Products: 46
 - [Catalog - online catalog - Maiden-Art](https://www.maiden-art.com/collections/all-online-catalog): Explore Our Online Catalog for a Seamless Shopping Experience What is an Online Catalog? An online  - Maiden-Art
-  Updated: 2026-04-20T20:12:02Z
-  Total Products: 568
+  Updated: 2026-05-13T11:00:21Z
+  Total Products: 569
 - [UpOrder - Recommended Products - Maiden-Art](https://www.maiden-art.com/collections/spently_products): This collection is used by the UpOrder app, to make product recommendations in your Shopify  - Maiden-Art
-  Updated: 2026-04-20T12:31:26Z
-  Total Products: 476
+  Updated: 2026-05-13T11:00:21Z
+  Total Products: 477
 - [Valentine's Day Collection - Maiden-Art](https://www.maiden-art.com/collections/valentine-s-day-collection): Discover Our Valentine's Day Collection Discover Maiden-Art’s Valentine's Day Collection:  - Maiden-Art
-  Updated: 2026-04-20T20:12:02Z
+  Updated: 2026-05-07T10:30:56Z
   Total Products: 26
 - [Beach Collection](https://www.maiden-art.com/collections/self-love-beach-collection-bold-unique-swimwear-for-rebel-hearts-maiden-art): Discover the Self Love Beach Collection at Maiden-Art — bold bikinis and one-piece swimsuits designed for rebel hearts who love themselves loudly. Embrace summer with empowering prints, ethical handmade quality, and vibrant self-love vibes. Shop now and shine like the summer sun!
-  Updated: 2026-04-20T20:12:02Z
+  Updated: 2026-05-07T10:30:56Z
   Total Products: 34
 - [Faire Smart Collection (Do Not Edit)](https://www.maiden-art.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire to support product performance reporting on Shopify. Please do not modify or delete this collection, as it is used for analytics and sales insights.
-  Updated: 2026-04-20T12:31:26Z
-  Total Products: 568
+  Updated: 2026-05-13T11:00:21Z
+  Total Products: 569
 - [Secret Toys - Luxury Design](https://www.maiden-art.com/collections/secret-toys-luxury-design): Secret Toys – Where Desire Meets Elegance Step into the world of Secret Toys, where luxury and intimacy intertwine. Our curated collection of high-end  toys transforms personal pleasure into an art form, blending exquisite design with premium materials. Each piece is crafted to elevate your sensual experiences, offering sophistication, discretion, and indulgence in equal measure. From elegantly minimalist vibrators to intricately designed couples’ toys, Secret Toys is where your private desires meet unparalleled quality and refinement. Indulge in your fantasies with confidence—because luxury isn’t just seen; it’s felt.
-  Updated: 2026-04-20T20:12:02Z
+  Updated: 2026-05-07T10:30:56Z
   Total Products: 6
 - [Self-Love Fashion](https://www.maiden-art.com/collections/self-love-fashion)
-  Updated: 2026-04-20T20:12:02Z
+  Updated: 2026-05-07T10:30:56Z
   Total Products: 0
 
 ## Blogs
@@ -9213,6 +9213,10 @@
     Updated: 2025-01-09T11:12:25Z
     Author: Maristella Colombo
     Tags: bracelets for her, cozy winter accessories, ho, holiday gift ideas, jewelry gifts, last-minute holiday gifts, Maiden-Art gift ideas, makeup gift ideas, necklaces for her, personalized jewelry, rings for gifts, scented candles for gifts, skincare gift sets
+  - [Crafting Meaning: Your Ultimate Guide to Personalized Stainless Steel Necklaces](https://www.maiden-art.com/blogs/italian-jewelry-fashion-jewelry-and-style-tips/crafting-meaning-your-ultimate-guide-to-personalized-stainless-steel-necklaces): Discover how to create personalized stainless steel necklaces that tell your unique story. Perfect for gifts or self-expression!
+    Updated: 2026-05-13T13:04:27Z
+    Author: Staff
+    Tags: Gift Ideas, Personalized Jewelry, Stainless Steel Necklaces
 - [News](https://www.maiden-art.com/blogs/news)
   - [Unlocking Your Potential: Self-Love Practices That Fuel Growth](https://www.maiden-art.com/blogs/news/unlocking-your-potential-self-love-practices): Unlocking Your Potential: Self-Love Practices That Fuel Growth
     Updated: 2025-02-12T18:54:51Z
@@ -9273,6 +9277,22 @@
     Updated: 2026-04-24T07:02:56Z
     Author: Maristella Colombo
     Tags: aab-auto, ai-auto-blog
+  - [Celebrate Yourself with Jewelry That Inspires Self Love](https://www.maiden-art.com/blogs/news/celebrate-yourself-with-jewelry-that-inspires-self-love)
+    Updated: 2026-04-30T07:02:38Z
+    Author: Maristella Colombo
+    Tags: aab-auto, ai-auto-blog
+  - [Unique Personalized Self Love Jewelry to Inspire Confidence](https://www.maiden-art.com/blogs/news/unique-personalized-self-love-jewelry-to-inspire-confidence)
+    Updated: 2026-05-03T07:02:22Z
+    Author: Maristella Colombo
+    Tags: aab-auto, ai-auto-blog
+  - [Embrace Your Power with Personalized Self Love Jewelry](https://www.maiden-art.com/blogs/news/embrace-your-power-with-personalized-self-love-jewelry)
+    Updated: 2026-05-06T07:02:30Z
+    Author: Maristella Colombo
+    Tags: aab-auto, ai-auto-blog
+  - [Unlock Your Inner Glow with Personalized Self Love Jewelry](https://www.maiden-art.com/blogs/news/unlock-your-inner-glow-with-personalized-self-love-jewelry)
+    Updated: 2026-05-09T07:02:22Z
+    Author: Maristella Colombo
+    Tags: aab-auto, ai-auto-blog
 
 ## Store Pages
 
@@ -9328,8 +9348,8 @@
   Updated: 2025-03-03T15:52:16Z
 - [html sitemap Effective HTML Sitemap for SEO Success](https://www.maiden-art.com/pages/html-sitemap): Products GIFT CARD - Online Gift Card Jewelry Styling and Image Cons... LOVE Myself Embroidered patche... LOVE Myself Embroidered patche... LOVE My...
   Updated: 2025-03-03T15:52:18Z
-- [Partner links Boost Your Website with Partner Links](https://www.maiden-art.com/pages/partner-links): Partner links Augusta Jewellery Luxus Moissanite Jewelry EricSaloDesign US Sexy Fashion Daisie Hominus Denim Tangma DEKOFLIX Ophra Studio Beauty Pr...
-  Updated: 2026-02-26T14:57:37Z
+- [Partner links Boost Your Website with Partner Links](https://www.maiden-art.com/pages/partner-links): Partner links Augusta Jewellery Luxus Moissanite Jewelry EricSaloDesign US Sexy Fashion Beesmoove Daisie Hominus Denim Tangma DEKOFLIX Ophra Studio...
+  Updated: 2026-05-08T03:21:58Z
 - [Customize Your Experience with Customizer](https://www.maiden-art.com/pages/customizer): Discover the Power of Customizer What is Customizer? Customizer is a powerful tool that allows you to personalize your digital experience. It enabl...
   Updated: 2025-01-09T09:21:59Z
 - [Professional Designer Services - Create Your Vision](https://www.maiden-art.com/pages/designer): Why Choosing the Right Designer Matters The Role of a Designer in Your Project A designer plays a crucial role in bringing your ideas to life. Desi...
@@ -9340,6 +9360,8 @@
   Updated: 2025-02-12T15:12:28Z
 - [Search Results](https://www.maiden-art.com/pages/search-results-page): (function(window, undefined) { var snize_search_results_page = '/pages/search-results-page'; if ( window.location.pathname.indexOf(snize_search_res...
   Updated: 2026-01-29T11:03:51Z
+- [Accessibility Statement](https://www.maiden-art.com/pages/accessibility-statement): Accessibility Commitment At Maiden-Art, we are committed to ensuring accessibility for all our customers, including those with disabilities. We str...
+  Updated: 2026-05-13T12:55:47Z
 
 ## Policies
 
