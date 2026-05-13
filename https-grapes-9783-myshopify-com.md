@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-21T11:23:50Z
 - Contact Email: haolee1990@qq.com
-- Updated At: 2026-01-16T00:00:39.286Z
+- Updated At: 2026-05-13T00:00:25.364Z
 
 ## Products
 
@@ -466,8 +466,8 @@
 
 - [Contact](https://grapes-9783.myshopify.com/pages/contact)
   Updated: 2025-10-21T11:23:53Z
-- [Your privacy choices](https://grapes-9783.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2025-10-21T11:24:00Z
+- [Your Privacy Choices](https://grapes-9783.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+  Updated: 2026-01-28T17:38:13Z
 
 ## Policies
 
