@@ -6,13 +6,13 @@
 - Timezone: America/New_York
 - Created At: 2026-01-08T15:14:34Z
 - Contact Email: yoav@40rty.ai
-- Updated At: 2026-05-04T00:00:36.751Z
+- Updated At: 2026-05-13T00:00:39.680Z
 
 ## Products
 
-- [Gift Card](https://yoav-test-store-2.myshopify.com/products/gift-card): This is a gift card for the store
-  Updated: 2026-04-11T15:21:38Z
-  Vendor: Snowboard Vendor
+- [Gift Card](https://yoav-test-store-2.myshopify.com/products/gift-card): Yoav Test Store gift card. Redeemable on any product, any size. The safe gift for riders who know what they want.
+  Updated: 2026-05-09T18:58:00Z
+  Vendor: Hydrogen
   Product Type: giftcard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/gift_card.png?v=1767885307
@@ -28,13 +28,27 @@
   - [$100](https://yoav-test-store-2.myshopify.com/products/gift-card?variant=47687719223513)
     Availability: Available
     Price: $100.00 USD
-- [The Minimal Snowboard](https://yoav-test-store-2.myshopify.com/products/the-minimal-snowboard): The Minimal Snowboard is designed to help you carve through fresh powder with ease and precision, its streamlined shape and lightweight construction making it perfect for riders who value speed and agility. By stripping away unnecessary features, we've created a board that's incredibly responsive and fun to ride, allowing you to focus on the thrill of the mountain. Whether you're a seasoned pro or just starting out, this board will help you take your skills to the next level.With its sleek design and expertly crafted build, The Minimal Snowboard is the perfect choice for anyone looking to simplify their snowboarding experience without sacrificing performance. It's ideal for riders who want to connect with the natural rhythm of the mountain, without being weighed down by bulky equipment or unnecessary tech. By keeping things simple, we've created a board that lets you focus on what really matters - the rush of the ride and the beauty of the winter landscape.
-  Updated: 2026-04-12T03:21:39Z
-  Vendor: Yoav test store
-  Product Type: Snowboard
+- [The Minimal Snowboard](https://yoav-test-store-2.myshopify.com/products/the-minimal-snowboard): A stripped-down all-mountain board for riders who want speed, agility, and a clean line through anything the day throws at them. Camber underfoot, sintered base, no wasted weight.
+  Updated: 2026-05-09T18:47:38Z
+  Vendor: Hydrogen
+  Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/481445-20_1608793005y_wm.jpg?v=1773917587
-  Price: $885.95 USD
+  - [154](https://yoav-test-store-2.myshopify.com/products/the-minimal-snowboard?variant=47687719059673)
+    Availability: Available
+    Price: $885.95 USD
+  - [150](https://yoav-test-store-2.myshopify.com/products/the-minimal-snowboard?variant=48672283721945)
+    Availability: Available
+    Price: $885.95 USD
+  - [152](https://yoav-test-store-2.myshopify.com/products/the-minimal-snowboard?variant=48672283754713)
+    Availability: Available
+    Price: $885.95 USD
+  - [156](https://yoav-test-store-2.myshopify.com/products/the-minimal-snowboard?variant=48672283787481)
+    Availability: Available
+    Price: $885.95 USD
+  - [158](https://yoav-test-store-2.myshopify.com/products/the-minimal-snowboard?variant=48672283820249)
+    Availability: Available
+    Price: $885.95 USD
 - [The Draft Snowboard](https://yoav-test-store-2.myshopify.com/products/the-draft-snowboard): The Draft Snowboard is designed to deliver a smooth, responsive ride on any terrain, whether you're carving through fresh powder or navigating icy slopes. Its carefully crafted shape and flex pattern work together to provide a stable, predictable feel that inspires confidence and lets you push your limits. With the Draft, you'll be able to tackle even the toughest trails with ease and precision.Whether you're a seasoned pro or just starting to explore the mountain, the Draft Snowboard is the perfect companion for your next adventure. It's built to withstand the rigors of frequent use, with a durable construction that will keep it performing at its best ride after ride. By combining exceptional performance, versatility, and value, the Draft makes it easy to take your snowboarding to the next level and enjoy every moment on the mountain.
   Updated: 2026-04-12T03:21:36Z
   Vendor: Snowboard Vendor
@@ -42,23 +56,51 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/Main_5127218a-8f6c-498f-b489-09242c0fab0a.jpg?v=1767885307
   Price: $2,629.95 USD
-- [The Videographer Snowboard](https://yoav-test-store-2.myshopify.com/products/the-videographer-snowboard): Capture the thrill of the mountain with a board that's designed to help you film your adventures in stunning clarity. The Videographer Snowboard is built with a unique shape and flex that makes it easy to maneuver and stable at high speeds, allowing you to focus on getting the perfect shot. Whether you're a seasoned pro or an aspiring filmmaker, this board is the perfect tool to help you tell your story.With its responsive edge hold and smooth turning capabilities, you'll be able to carve through powder and cruise down groomers with ease, all while keeping your camera steady and your footage smooth. The Videographer Snowboard is perfect for anyone who wants to take their snowboarding videos to the next level, and its durable construction ensures it will withstand the rigors of frequent use. By combining performance and stability, this board helps you create captivating content that will leave your audience breathless.
-  Updated: 2026-04-12T03:37:34Z
-  Vendor: Yoav test store
+- [The Videographer Snowboard](https://yoav-test-store-2.myshopify.com/products/the-videographer-snowboard): Built for the rider with a camera. Stable at speed, smooth in transition, predictable when you need both hands free for the shot. The shape rewards both the line and the take.
+  Updated: 2026-05-09T18:47:55Z
+  Vendor: Hydrogen
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/Main.jpg?v=1767885307
-  Price: $885.95 USD
-- [The Collection Snowboard: Hydrogen](https://yoav-test-store-2.myshopify.com/products/the-collection-snowboard-hydrogen): The Collection Snowboard: Hydrogen is designed to deliver exceptional performance on the slopes, with a focus on speed, agility, and control. Its unique shape and construction allow for effortless turns and a smooth ride, making it perfect for experienced riders who crave a challenge. Whether you're carving through fresh powder or navigating icy terrain, this snowboard has got you covered.With its advanced technology and premium materials, The Collection Snowboard: Hydrogen provides a responsive and forgiving ride that will take your snowboarding to the next level. The board's hydrogen-powered construction gives it a lightweight yet durable feel, allowing you to push your limits without worrying about the board holding you back. By combining style, substance, and a passion for the sport, this snowboard is the ultimate accessory for winter sports enthusiasts.
-  Updated: 2026-04-12T03:37:34Z
-  Vendor: Hydrogen Vendor
+  - [154](https://yoav-test-store-2.myshopify.com/products/the-videographer-snowboard?variant=47687719256281)
+    Availability: Available
+    Price: $885.95 USD
+  - [150](https://yoav-test-store-2.myshopify.com/products/the-videographer-snowboard?variant=48672283590873)
+    Availability: Available
+    Price: $885.95 USD
+  - [152](https://yoav-test-store-2.myshopify.com/products/the-videographer-snowboard?variant=48672283623641)
+    Availability: Available
+    Price: $885.95 USD
+  - [156](https://yoav-test-store-2.myshopify.com/products/the-videographer-snowboard?variant=48672283656409)
+    Availability: Available
+    Price: $885.95 USD
+  - [158](https://yoav-test-store-2.myshopify.com/products/the-videographer-snowboard?variant=48672283689177)
+    Availability: Available
+    Price: $885.95 USD
+- [The Collection Snowboard: Hydrogen](https://yoav-test-store-2.myshopify.com/products/the-collection-snowboard-hydrogen): Hydrogen-spec construction — light, responsive, fast. A directional all-mountain shape that holds an edge on hardpack and floats through fresh. For experienced riders who push the line.
+  Updated: 2026-05-09T18:48:05Z
+  Vendor: Hydrogen
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/Main_0a40b01b-5021-48c1-80d1-aa8ab4876d3d.jpg?v=1767885306
-  Price: $600.00 USD
-- [ Plans Ski Wax](https://yoav-test-store-2.myshopify.com/products/-plans-ski-wax): Get ready to carve through the slopes with ease and speed, thanks to our specially formulated  Plans Ski Wax. This high-performance wax is designed to reduce friction and increase glide, allowing you to tackle even the toughest terrain with confidence. By keeping your skis in top condition, you'll be able to focus on what really matters - the thrill of the ride.Whether you're a seasoned pro or just starting out, our  Plans Ski Wax is the perfect addition to your winter sports kit. It's easy to apply and provides long-lasting protection against ice and snow, so you can enjoy a full day on the mountain without worrying about your gear. With our wax, you'll be able to ski faster, turn sharper, and have more fun, making every trip to the slopes an unforgettable experience.
-  Updated: 2026-04-12T03:37:37Z
-  Vendor: Yoav test store
+  - [154](https://yoav-test-store-2.myshopify.com/products/the-collection-snowboard-hydrogen?variant=47687719092441)
+    Availability: Available
+    Price: $600.00 USD
+  - [150](https://yoav-test-store-2.myshopify.com/products/the-collection-snowboard-hydrogen?variant=48672283853017)
+    Availability: Available
+    Price: $600.00 USD
+  - [152](https://yoav-test-store-2.myshopify.com/products/the-collection-snowboard-hydrogen?variant=48672283885785)
+    Availability: Available
+    Price: $600.00 USD
+  - [156](https://yoav-test-store-2.myshopify.com/products/the-collection-snowboard-hydrogen?variant=48672283918553)
+    Availability: Available
+    Price: $600.00 USD
+  - [158](https://yoav-test-store-2.myshopify.com/products/the-collection-snowboard-hydrogen?variant=48672283951321)
+    Availability: Available
+    Price: $600.00 USD
+- [ Plans Ski Wax](https://yoav-test-store-2.myshopify.com/products/-plans-ski-wax): Performance ski/snowboard wax. Reduces friction, increases glide, preserves your base. Apply between sessions for fastest runs.
+  Updated: 2026-05-09T18:57:58Z
+  Vendor: Hydrogen
   Product Type: accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/snowboard_wax.png?v=1767885307
@@ -72,8 +114,8 @@
     Availability: Available
     Price: $9.95 USD
 - [Complete Snowboard](https://yoav-test-store-2.myshopify.com/products/the-complete-snowboard): snowboard winter sport snowboarding
-  Updated: 2026-04-09T00:27:43Z
-  Vendor: Snowboard Vendor
+  Updated: 2026-05-09T18:48:10Z
+  Vendor: Hydrogen
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg?v=1767885307
@@ -128,14 +170,25 @@
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/Main_b13ad453-477c-4ed1-9b43-81f3345adfd6.jpg?v=1767885309
   Price: $749.95 USD
 - [Mia Brookes Pro Snowboard](https://yoav-test-store-2.myshopify.com/products/mia-brookes-pro-snowboard): Mia Brookes Pro Snowboard is a high-performance snowboard built for riders who demand quality and durability.
-  Updated: 2026-04-12T03:21:25Z
+  Updated: 2026-05-09T18:55:48Z
   Vendor: CAPiTA
   Product Type: Snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/Mia_Pro_Sidecut.jpg?v=1773917579
-  Price: $629.95 USD
+  - [155](https://yoav-test-store-2.myshopify.com/products/mia-brookes-pro-snowboard?variant=47687923171545)
+    Availability: Available
+    Price: $629.95 USD
+  - [152](https://yoav-test-store-2.myshopify.com/products/mia-brookes-pro-snowboard?variant=48672738967769)
+    Availability: Available
+    Price: $749.95 USD
+  - [156](https://yoav-test-store-2.myshopify.com/products/mia-brookes-pro-snowboard?variant=48672739000537)
+    Availability: Available
+    Price: $749.95 USD
+  - [158](https://yoav-test-store-2.myshopify.com/products/mia-brookes-pro-snowboard?variant=48672739033305)
+    Availability: Available
+    Price: $749.95 USD
 - [Mega Death Snowboard](https://yoav-test-store-2.myshopify.com/products/mega-death-snowboard): Mega Death Snowboard is a high-performance snowboard built for riders who demand quality and durability.
-  Updated: 2026-04-11T15:21:16Z
+  Updated: 2026-05-09T18:55:26Z
   Vendor: CAPiTA
   Product Type: Snowboard
   Availability: Available
@@ -144,135 +197,284 @@
     Availability: Available
     Price: $1,099.95 USD
   - [158](https://yoav-test-store-2.myshopify.com/products/mega-death-snowboard?variant=48445813162201)
-    Availability: Not Available
+    Availability: Available
     Price: $1,099.95 USD
   - [162](https://yoav-test-store-2.myshopify.com/products/mega-death-snowboard?variant=48445813194969)
-    Availability: Not Available
+    Availability: Available
     Price: $1,099.95 USD
   - [164W](https://yoav-test-store-2.myshopify.com/products/mega-death-snowboard?variant=48445813227737)
-    Availability: Not Available
+    Availability: Available
     Price: $1,099.95 USD
 - [D.O.A. Snowboard](https://yoav-test-store-2.myshopify.com/products/doa-snowboard): D.O.A. Snowboard is a high-performance snowboard built for riders who demand quality and durability.
-  Updated: 2026-04-12T03:21:21Z
+  Updated: 2026-05-09T18:55:29Z
   Vendor: CAPiTA
   Product Type: Snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/CapitaD.O.A.2024Snowboard-148.png?v=1773917578
-  Price: $579.95 USD
+  - [155](https://yoav-test-store-2.myshopify.com/products/doa-snowboard?variant=47687923237081)
+    Availability: Available
+    Price: $579.95 USD
+  - [152](https://yoav-test-store-2.myshopify.com/products/doa-snowboard?variant=48672305873113)
+    Availability: Available
+    Price: $579.95 USD
+  - [156](https://yoav-test-store-2.myshopify.com/products/doa-snowboard?variant=48672305905881)
+    Availability: Available
+    Price: $579.95 USD
+  - [158](https://yoav-test-store-2.myshopify.com/products/doa-snowboard?variant=48672305938649)
+    Availability: Available
+    Price: $579.95 USD
 - [Mega Merc Snowboard](https://yoav-test-store-2.myshopify.com/products/mega-merc-snowboard): Mega Merc Snowboard is a high-performance snowboard built for riders who demand quality and durability.
-  Updated: 2026-04-12T03:21:20Z
+  Updated: 2026-05-09T18:55:37Z
   Vendor: CAPiTA
   Product Type: Snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/Capita_Mega_Merc_Snowboard_2025_-_Men_s_2.jpg?v=1773917577
-  Price: $949.95 USD
+  - [155](https://yoav-test-store-2.myshopify.com/products/mega-merc-snowboard?variant=47687923269849)
+    Availability: Available
+    Price: $949.95 USD
+  - [152](https://yoav-test-store-2.myshopify.com/products/mega-merc-snowboard?variant=48672741753049)
+    Availability: Not Available
+    Price: $499.95 USD
+  - [158](https://yoav-test-store-2.myshopify.com/products/mega-merc-snowboard?variant=48672741785817)
+    Availability: Not Available
+    Price: $499.95 USD
+  - [162](https://yoav-test-store-2.myshopify.com/products/mega-merc-snowboard?variant=48672741818585)
+    Availability: Not Available
+    Price: $519.95 USD
 - [Mercury Snowboard](https://yoav-test-store-2.myshopify.com/products/mercury-snowboard): Mercury Snowboard is a high-performance snowboard built for riders who demand quality and durability.
-  Updated: 2026-04-12T12:20:01Z
+  Updated: 2026-05-09T18:55:36Z
   Vendor: CAPiTA
   Product Type: Snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/Capita_Mercury_Snowboard_2025_-_Men_s_5.jpg?v=1773917576
-  Price: $679.95 USD
+  - [155](https://yoav-test-store-2.myshopify.com/products/mercury-snowboard?variant=47687923302617)
+    Availability: Available
+    Price: $679.95 USD
+  - [152](https://yoav-test-store-2.myshopify.com/products/mercury-snowboard?variant=48672743194841)
+    Availability: Available
+    Price: $499.95 USD
+  - [158](https://yoav-test-store-2.myshopify.com/products/mercury-snowboard?variant=48672743227609)
+    Availability: Available
+    Price: $499.95 USD
+  - [162](https://yoav-test-store-2.myshopify.com/products/mercury-snowboard?variant=48672743260377)
+    Availability: Available
+    Price: $519.95 USD
 - [Super D.O.A. Snowboard](https://yoav-test-store-2.myshopify.com/products/super-doa-snowboard): Super D.O.A. Snowboard is a high-performance snowboard built for riders who demand quality and durability.
-  Updated: 2026-04-12T03:21:18Z
+  Updated: 2026-05-09T08:19:18Z
   Vendor: CAPiTA
   Product Type: Snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/2526_SUPER_DOA_TOP_3000x4500_12747ede-2916-45d2-a409-6521c896ba2d.jpg?v=1773917577
-  Price: $799.95 USD
+  - [155](https://yoav-test-store-2.myshopify.com/products/super-doa-snowboard?variant=47687923368153)
+    Availability: Available
+    Price: $799.95 USD
+  - [152](https://yoav-test-store-2.myshopify.com/products/super-doa-snowboard?variant=48672743915737)
+    Availability: Not Available
+    Price: $499.95 USD
+  - [158](https://yoav-test-store-2.myshopify.com/products/super-doa-snowboard?variant=48672743948505)
+    Availability: Not Available
+    Price: $499.95 USD
+  - [162](https://yoav-test-store-2.myshopify.com/products/super-doa-snowboard?variant=48672743981273)
+    Availability: Not Available
+    Price: $519.95 USD
 - [Birds of a Feather Snowboard](https://yoav-test-store-2.myshopify.com/products/birds-of-a-feather-snowboard): Birds of a Feather Snowboard is a high-performance snowboard built for riders who demand quality and durability.
-  Updated: 2026-04-12T03:21:14Z
+  Updated: 2026-05-09T18:51:08Z
   Vendor: CAPiTA
-  Product Type: Snowboard
+  Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/Early-Release-Boards-04-white.jpg?v=1773917575
-  Price: $579.95 USD
+  - [155](https://yoav-test-store-2.myshopify.com/products/birds-of-a-feather-snowboard?variant=47687923433689)
+    Availability: Available
+    Price: $579.95 USD
+  - [152](https://yoav-test-store-2.myshopify.com/products/birds-of-a-feather-snowboard?variant=48672305742041)
+    Availability: Available
+    Price: $579.95 USD
+  - [157](https://yoav-test-store-2.myshopify.com/products/birds-of-a-feather-snowboard?variant=48672305774809)
+    Availability: Available
+    Price: $579.95 USD
+  - [159](https://yoav-test-store-2.myshopify.com/products/birds-of-a-feather-snowboard?variant=48672305807577)
+    Availability: Available
+    Price: $579.95 USD
 - [Dark Horse Snowboard](https://yoav-test-store-2.myshopify.com/products/dark-horse-snowboard): Dark Horse Snowboard is a high-performance snowboard built for riders who demand quality and durability.
-  Updated: 2026-04-12T03:21:15Z
+  Updated: 2026-05-10T21:32:09Z
   Vendor: CAPiTA
   Product Type: Snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/2526_DARK_HORSE_DETAIL_1.jpg?v=1773917574
-  Price: $499.95 USD
+  - [155](https://yoav-test-store-2.myshopify.com/products/dark-horse-snowboard?variant=47687923466457)
+    Availability: Available
+    Price: $499.95 USD
+  - [152](https://yoav-test-store-2.myshopify.com/products/dark-horse-snowboard?variant=48672745750745)
+    Availability: Available
+    Price: $549.95 USD
+  - [158](https://yoav-test-store-2.myshopify.com/products/dark-horse-snowboard?variant=48672745783513)
+    Availability: Available
+    Price: $549.95 USD
 - [The Black Snowboard of Death](https://yoav-test-store-2.myshopify.com/products/the-black-snowboard-of-death): The Black Snowboard of Death is a high-performance snowboard built for riders who demand quality and durability.
-  Updated: 2026-04-12T03:21:14Z
+  Updated: 2026-05-09T08:21:08Z
   Vendor: CAPiTA
   Product Type: Snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/0000_the-black-snowboard-of-death.jpg?v=1773917574
-  Price: $749.95 USD
+  - [155](https://yoav-test-store-2.myshopify.com/products/the-black-snowboard-of-death?variant=47687923499225)
+    Availability: Available
+    Price: $749.95 USD
+  - [152](https://yoav-test-store-2.myshopify.com/products/the-black-snowboard-of-death?variant=48672746930393)
+    Availability: Not Available
+    Price: $599.95 USD
+  - [158](https://yoav-test-store-2.myshopify.com/products/the-black-snowboard-of-death?variant=48672746963161)
+    Availability: Not Available
+    Price: $599.95 USD
 - [Outerspace Living Snowboard](https://yoav-test-store-2.myshopify.com/products/outerspace-living-snowboard): Outerspace Living Snowboard is a high-performance snowboard built for riders who demand quality and durability.
-  Updated: 2026-04-11T15:21:03Z
+  Updated: 2026-05-09T18:55:56Z
   Vendor: CAPiTA
   Product Type: Snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/capita-mens-outerspace-living-snowboard-2026.webp?v=1773917573
-  Price: $529.95 USD
+  - [155](https://yoav-test-store-2.myshopify.com/products/outerspace-living-snowboard?variant=47687923531993)
+    Availability: Available
+    Price: $529.95 USD
+  - [152](https://yoav-test-store-2.myshopify.com/products/outerspace-living-snowboard?variant=48672747389145)
+    Availability: Not Available
+    Price: $499.95 USD
+  - [158](https://yoav-test-store-2.myshopify.com/products/outerspace-living-snowboard?variant=48672747421913)
+    Availability: Not Available
+    Price: $499.95 USD
 - [Indoor Survival Snowboard](https://yoav-test-store-2.myshopify.com/products/indoor-survival-snowboard): Indoor Survival Snowboard is a high-performance snowboard built for riders who demand quality and durability.
-  Updated: 2026-04-12T03:21:13Z
+  Updated: 2026-05-09T18:55:35Z
   Vendor: CAPiTA
   Product Type: Snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/capita-indoor-survival-snowboard-2026.webp?v=1773917572
-  Price: $619.95 USD
+  - [155](https://yoav-test-store-2.myshopify.com/products/indoor-survival-snowboard?variant=47687923597529)
+    Availability: Available
+    Price: $619.95 USD
+  - [152](https://yoav-test-store-2.myshopify.com/products/indoor-survival-snowboard?variant=48672749781209)
+    Availability: Available
+    Price: $479.95 USD
+  - [158](https://yoav-test-store-2.myshopify.com/products/indoor-survival-snowboard?variant=48672749813977)
+    Availability: Available
+    Price: $479.95 USD
 - [Aeronaut Snowboard](https://yoav-test-store-2.myshopify.com/products/aeronaut-snowboard): Aeronaut Snowboard is a high-performance snowboard built for riders who demand quality and durability.
-  Updated: 2026-04-12T03:21:06Z
+  Updated: 2026-05-09T18:51:07Z
   Vendor: CAPiTA
-  Product Type: Snowboard
+  Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/2526_AERONAUT_DETAIL_3.jpg?v=1773917571
-  Price: $699.95 USD
+  - [155](https://yoav-test-store-2.myshopify.com/products/aeronaut-snowboard?variant=47687923630297)
+    Availability: Available
+    Price: $699.95 USD
+  - [152](https://yoav-test-store-2.myshopify.com/products/aeronaut-snowboard?variant=48672305610969)
+    Availability: Available
+    Price: $699.95 USD
+  - [157](https://yoav-test-store-2.myshopify.com/products/aeronaut-snowboard?variant=48672305643737)
+    Availability: Available
+    Price: $699.95 USD
+  - [159](https://yoav-test-store-2.myshopify.com/products/aeronaut-snowboard?variant=48672305676505)
+    Availability: Available
+    Price: $699.95 USD
 - [Paradise Snowboard](https://yoav-test-store-2.myshopify.com/products/paradise-snowboard): Paradise Snowboard is a high-performance snowboard built for riders who demand quality and durability.
-  Updated: 2026-04-30T22:32:59Z
+  Updated: 2026-05-09T18:53:39Z
   Vendor: CAPiTA
   Product Type: Snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/capita-capita-paradise-snowboard-2025.jpg?v=1773917571
-  Price: $529.95 USD
+  - [155](https://yoav-test-store-2.myshopify.com/products/paradise-snowboard?variant=47687923663065)
+    Availability: Available
+    Price: $529.95 USD
+  - [152](https://yoav-test-store-2.myshopify.com/products/paradise-snowboard?variant=48672750502105)
+    Availability: Not Available
+    Price: $459.95 USD
+  - [158](https://yoav-test-store-2.myshopify.com/products/paradise-snowboard?variant=48672750534873)
+    Availability: Not Available
+    Price: $459.95 USD
 - [SB Stairmaster Snowboard](https://yoav-test-store-2.myshopify.com/products/sb-stairmaster-snowboard): SB Stairmaster Snowboard is a high-performance snowboard built for riders who demand quality and durability.
-  Updated: 2026-04-12T03:21:03Z
+  Updated: 2026-05-09T18:55:48Z
   Vendor: CAPiTA
   Product Type: Snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/capita-sb-stairmaster-snowboard-2026.png?v=1773917571
-  Price: $479.95 USD
+  - [155](https://yoav-test-store-2.myshopify.com/products/sb-stairmaster-snowboard?variant=47687923695833)
+    Availability: Available
+    Price: $479.95 USD
+  - [152](https://yoav-test-store-2.myshopify.com/products/sb-stairmaster-snowboard?variant=48672750895321)
+    Availability: Not Available
+    Price: $489.95 USD
+  - [158](https://yoav-test-store-2.myshopify.com/products/sb-stairmaster-snowboard?variant=48672750928089)
+    Availability: Not Available
+    Price: $489.95 USD
 - [SB Resort Twin Snowboard](https://yoav-test-store-2.myshopify.com/products/sb-resort-twin-snowboard): SB Resort Twin Snowboard is a high-performance snowboard built for riders who demand quality and durability.
-  Updated: 2026-04-12T03:21:03Z
+  Updated: 2026-05-09T18:55:48Z
   Vendor: CAPiTA
   Product Type: Snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/Early-Release-Boards-01-white.jpg?v=1773917570
-  Price: $599.95 USD
+  - [155](https://yoav-test-store-2.myshopify.com/products/sb-resort-twin-snowboard?variant=47687923728601)
+    Availability: Available
+    Price: $599.95 USD
+  - [152](https://yoav-test-store-2.myshopify.com/products/sb-resort-twin-snowboard?variant=48672751648985)
+    Availability: Not Available
+    Price: $459.95 USD
+  - [158](https://yoav-test-store-2.myshopify.com/products/sb-resort-twin-snowboard?variant=48672751681753)
+    Availability: Not Available
+    Price: $459.95 USD
 - [Ultrafear Snowboard](https://yoav-test-store-2.myshopify.com/products/ultrafear-snowboard): Ultrafear Snowboard is a high-performance snowboard built for riders who demand quality and durability.
-  Updated: 2026-04-12T03:21:02Z
+  Updated: 2026-05-09T08:20:37Z
   Vendor: CAPiTA
   Product Type: Snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/capita-2023-capita-ultrafear-snowboard.jpg?v=1773917569
-  Price: $549.95 USD
+  - [155](https://yoav-test-store-2.myshopify.com/products/ultrafear-snowboard?variant=47687923761369)
+    Availability: Available
+    Price: $549.95 USD
+  - [152](https://yoav-test-store-2.myshopify.com/products/ultrafear-snowboard?variant=48672753221849)
+    Availability: Not Available
+    Price: $479.95 USD
+  - [158](https://yoav-test-store-2.myshopify.com/products/ultrafear-snowboard?variant=48672753254617)
+    Availability: Not Available
+    Price: $479.95 USD
 - [Pathfinder Snowboard](https://yoav-test-store-2.myshopify.com/products/pathfinder-snowboard): Pathfinder Snowboard is a high-performance snowboard built for riders who demand quality and durability.
-  Updated: 2026-04-12T03:21:00Z
+  Updated: 2026-05-09T18:55:48Z
   Vendor: CAPiTA
   Product Type: Snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/525615_source_1756233669.jpg?v=1773917568
-  Price: $449.95 USD
+  - [155](https://yoav-test-store-2.myshopify.com/products/pathfinder-snowboard?variant=47687923794137)
+    Availability: Available
+    Price: $449.95 USD
+  - [152](https://yoav-test-store-2.myshopify.com/products/pathfinder-snowboard?variant=48672306200793)
+    Availability: Available
+    Price: $449.95 USD
+  - [157](https://yoav-test-store-2.myshopify.com/products/pathfinder-snowboard?variant=48672306233561)
+    Availability: Available
+    Price: $449.95 USD
+  - [159](https://yoav-test-store-2.myshopify.com/products/pathfinder-snowboard?variant=48672306266329)
+    Availability: Available
+    Price: $449.95 USD
 - [The Equalizer by Jess Kimura Snowboard](https://yoav-test-store-2.myshopify.com/products/the-equalizer-by-jess-kimura-snowboard): The Equalizer by Jess Kimura Snowboard is a high-performance snowboard built for riders who demand quality and durability.
-  Updated: 2026-04-12T03:20:58Z
+  Updated: 2026-05-09T08:20:37Z
   Vendor: CAPiTA
   Product Type: Snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/FRD07_EQUALIZER_146_04615a6b-087b-4de5-afc0-3f608fdc68fc.png?v=1773917568
-  Price: $599.95 USD
+  - [155](https://yoav-test-store-2.myshopify.com/products/the-equalizer-by-jess-kimura-snowboard?variant=47687923826905)
+    Availability: Available
+    Price: $599.95 USD
+  - [152](https://yoav-test-store-2.myshopify.com/products/the-equalizer-by-jess-kimura-snowboard?variant=48672754270425)
+    Availability: Not Available
+    Price: $499.95 USD
+  - [158](https://yoav-test-store-2.myshopify.com/products/the-equalizer-by-jess-kimura-snowboard?variant=48672754303193)
+    Availability: Not Available
+    Price: $499.95 USD
 - [Space Metal Fantasy Snowboard](https://yoav-test-store-2.myshopify.com/products/space-metal-fantasy-snowboard): Space Metal Fantasy Snowboard is a high-performance snowboard built for riders who demand quality and durability.
-  Updated: 2026-04-30T19:22:55Z
+  Updated: 2026-05-09T18:53:41Z
   Vendor: CAPiTA
   Product Type: Snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/capita-womens-space-metal-fantasy-snowboard-2024.webp?v=1773917567
   Price: $449.95 USD
 - [SB Slush Slashers Snowboard](https://yoav-test-store-2.myshopify.com/products/sb-slush-slashers-snowboard): SB Slush Slashers Snowboard is a high-performance snowboard built for riders who demand quality and durability.
-  Updated: 2026-04-12T03:20:54Z
+  Updated: 2026-05-09T18:55:58Z
   Vendor: CAPiTA
   Product Type: Snowboard
   Availability: Available
@@ -300,168 +502,168 @@
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/2526_SB_POWDER_GLIDER_DETAIL_2.jpg?v=1773917566
   Price: $799.95 USD
 - [Darkhorse Austin Vizz LTD Snowboard](https://yoav-test-store-2.myshopify.com/products/darkhorse-austin-vizz-ltd-snowboard): Darkhorse Austin Vizz LTD Snowboard is a high-performance snowboard built for riders who demand quality and durability.
-  Updated: 2026-04-12T02:37:03Z
+  Updated: 2026-05-09T18:55:49Z
   Vendor: CAPiTA
   Product Type: Snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/FLO2PRO-VIZZ-DARKHORSE-154.png?v=1773917565
   Price: $499.95 USD
 - [D.O.A. Benny Milam LTD Snowboard](https://yoav-test-store-2.myshopify.com/products/doa-benny-milam-ltd-snowboard): D.O.A. Benny Milam LTD Snowboard is a high-performance snowboard built for riders who demand quality and durability.
-  Updated: 2026-04-12T02:35:54Z
+  Updated: 2026-05-09T18:53:56Z
   Vendor: CAPiTA
   Product Type: Snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/BENNY-PRO-BASE.png?v=1773917565
   Price: $579.95 USD
 - [Burton Highshot X Step On Snowboard Boots](https://yoav-test-store-2.myshopify.com/products/burton-highshot-x-step-on-snowboard-boots): Burton Highshot X Step On Snowboard Boots provide reliable support and warmth for winter riding.
-  Updated: 2026-04-12T03:20:45Z
+  Updated: 2026-05-09T18:56:09Z
   Vendor: Burton
   Product Type: Snowboard Boot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/burton-highshot-x-step-on-snowboard-boot-orange-cream-multi-2026-mens-boots-1174269425_cd0765f6-4860-4d18-b718-8918ec42e591.jpg?v=1773917563
   Price: $499.95 USD
 - [Burton Highshot Step On Snowboard Boots](https://yoav-test-store-2.myshopify.com/products/burton-highshot-step-on-snowboard-boots): Burton Highshot Step On Snowboard Boots provide reliable support and warmth for winter riding.
-  Updated: 2026-04-12T03:20:43Z
+  Updated: 2026-05-09T18:56:09Z
   Vendor: Burton
   Product Type: Snowboard Boot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/burton-highshot-x-step-on-snowboard-boot-orange-cream-multi-2026-mens-boots-1174269425.jpg?v=1773917562
   Price: $379.95 USD
 - [Burton Highshot X Pro Step On Set Up Boots](https://yoav-test-store-2.myshopify.com/products/burton-highshot-x-pro-step-on-set-up-boots): Burton Highshot X Pro Step On Set Up Boots provide reliable support and warmth for winter riding.
-  Updated: 2026-04-12T03:20:42Z
+  Updated: 2026-05-09T18:56:17Z
   Vendor: Burton
   Product Type: Snowboard Boot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/BLA.jpg?v=1773917562
   Price: $729.95 USD
 - [Burton Waverange Step On Beginner Set Up Boots](https://yoav-test-store-2.myshopify.com/products/burton-waverange-step-on-beginner-set-up-boots): Burton Waverange Step On Beginner Set Up Boots provide reliable support and warmth for winter riding.
-  Updated: 2026-04-12T03:20:42Z
+  Updated: 2026-05-09T18:56:33Z
   Vendor: Burton
   Product Type: Snowboard Boot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/BURT02564_01_202508060440.jpg?v=1773917562
   Price: $379.95 USD
 - [Burton Waverange X Step On Snowboard Boots](https://yoav-test-store-2.myshopify.com/products/burton-waverange-x-step-on-snowboard-boots): Burton Waverange X Step On Snowboard Boots provide reliable support and warmth for winter riding.
-  Updated: 2026-04-12T03:20:41Z
+  Updated: 2026-05-09T18:56:33Z
   Vendor: Burton
   Product Type: Snowboard Boot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/210000104563210000104559BurtonMen_sWaverangeXProStepOnSnowboardBoots2026White1_96ca6173-1e3b-4313-8424-7ddc9dbf0874.png?v=1773917561
   Price: $499.95 USD
 - [Burton Ion Step On Snowboard Boots](https://yoav-test-store-2.myshopify.com/products/burton-ion-step-on-snowboard-boots): Burton Ion Step On Snowboard Boots provide reliable support and warmth for winter riding.
-  Updated: 2026-04-12T03:20:38Z
+  Updated: 2026-05-09T18:56:19Z
   Vendor: Burton
   Product Type: Snowboard Boot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/203191xSHARKSKINBLACKxAlt1_79833853.jpg?v=1773917561
   Price: $619.95 USD
 - [Burton Photon Step On Snowboard Boots](https://yoav-test-store-2.myshopify.com/products/burton-photon-step-on-snowboard-boots): Burton Photon Step On Snowboard Boots provide reliable support and warmth for winter riding.
-  Updated: 2026-04-12T03:20:37Z
+  Updated: 2026-05-09T18:56:31Z
   Vendor: Burton
   Product Type: Snowboard Boot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/img_C-72458-2024-GRY1_00.jpg?v=1773917561
   Price: $499.95 USD
 - [Burton Ruler BOA Snowboard Boots](https://yoav-test-store-2.myshopify.com/products/burton-ruler-boa-snowboard-boots): Burton Ruler BOA Snowboard Boots provide reliable support and warmth for winter riding.
-  Updated: 2026-04-12T03:20:35Z
+  Updated: 2026-05-09T18:56:31Z
   Vendor: Burton
   Product Type: Snowboard Boot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/210000104519BurtonMen_sRulerBOASnowboardBoots2026BlackSummitTaupe_1200x1200_3eb28d7a-822a-47e9-b7cd-3ffbb65ea1f7.png?v=1773917560
   Price: $359.95 USD
 - [Burton Moto BOA Snowboard Boots](https://yoav-test-store-2.myshopify.com/products/burton-moto-boa-snowboard-boots): Burton Moto BOA Snowboard Boots provide reliable support and warmth for winter riding.
-  Updated: 2026-04-12T03:20:33Z
+  Updated: 2026-05-09T18:56:09Z
   Vendor: Burton
   Product Type: Snowboard Boot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/burton-moto-boa-snowboard-boots-2025-the-snowboard-shop-1286265.jpg?v=1773917560
   Price: $279.95 USD
 - [Burton Moto Snowboard Boots](https://yoav-test-store-2.myshopify.com/products/burton-moto-snowboard-boots): Burton Moto Snowboard Boots provide reliable support and warmth for winter riding.
-  Updated: 2026-04-12T03:20:36Z
+  Updated: 2026-05-09T18:56:10Z
   Vendor: Burton
   Product Type: Snowboard Boot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/Burton_Moto_BOA_Boa_Snowboard_Boots_Black_C-67566-2024-BLK-2.jpg?v=1773917559
   Price: $249.95 USD
 - [Burton Driver X Snowboard Boots](https://yoav-test-store-2.myshopify.com/products/burton-driver-x-snowboard-boots): Burton Driver X Snowboard Boots provide reliable support and warmth for winter riding.
-  Updated: 2026-04-12T03:20:31Z
+  Updated: 2026-05-09T18:56:11Z
   Vendor: Burton
   Product Type: Snowboard Boot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/burton-driver-x-snowboard-boots-2024.jpg?v=1773917558
   Price: $549.95 USD
 - [Burton Tourist Snowboard Boots](https://yoav-test-store-2.myshopify.com/products/burton-tourist-snowboard-boots): Burton Tourist Snowboard Boots provide reliable support and warmth for winter riding.
-  Updated: 2026-04-12T03:20:31Z
+  Updated: 2026-05-09T18:56:31Z
   Vendor: Burton
   Product Type: Snowboard Boot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/BK_D5.jpg?v=1773917558
   Price: $599.95 USD
 - [Burton Swath BOA Snowboard Boots](https://yoav-test-store-2.myshopify.com/products/burton-swath-boa-snowboard-boots): Burton Swath BOA Snowboard Boots provide reliable support and warmth for winter riding.
-  Updated: 2026-04-12T19:57:33Z
+  Updated: 2026-05-09T18:57:15Z
   Vendor: Burton
   Product Type: Snowboard Boot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/BurtonSwathBoa2024-Men_sSnowboardBoots_1024x_99c005a6-a360-4928-8f47-2d846b478763.png?v=1773917558
   Price: $429.95 USD
 - [Burton Ion BOA Snowboard Boots](https://yoav-test-store-2.myshopify.com/products/burton-ion-boa-snowboard-boots): Burton Ion BOA Snowboard Boots provide reliable support and warmth for winter riding.
-  Updated: 2026-04-12T19:47:44Z
+  Updated: 2026-05-09T18:50:23Z
   Vendor: Burton
   Product Type: Snowboard Boot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/Burton_MenS_Ion_Boa_Snowboard_Boots_Boa_Snowboard_Boots_Stout_White___Black_515359-2_5e212c2d-0c4b-4362-90f4-82e36a3e80cd.jpg?v=1773917557
   Price: $689.95 USD
 - [Burton SLX Snowboard Boots](https://yoav-test-store-2.myshopify.com/products/burton-slx-snowboard-boots): Burton SLX Snowboard Boots provide reliable support and warmth for winter riding.
-  Updated: 2026-04-12T03:20:25Z
+  Updated: 2026-05-09T18:56:32Z
   Vendor: Burton
   Product Type: Snowboard Boot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/burton-2026-burton-slx-snowboard-boots.jpg?v=1773917557
   Price: $749.95 USD
 - [Burton Photon BOA Snowboard Boots](https://yoav-test-store-2.myshopify.com/products/burton-photon-boa-snowboard-boots): Burton Photon BOA Snowboard Boots provide reliable support and warmth for winter riding.
-  Updated: 2026-04-12T03:20:23Z
+  Updated: 2026-05-09T18:56:31Z
   Vendor: Burton
   Product Type: Snowboard Boot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/burton-photon-forest-2.jpg?v=1773917559
   Price: $479.95 USD
 - [Burton Highshot Step On Set Up Boots](https://yoav-test-store-2.myshopify.com/products/burton-highshot-step-on-set-up-boots): Burton Highshot Step On Set Up Boots provide reliable support and warmth for winter riding.
-  Updated: 2026-04-11T15:20:15Z
+  Updated: 2026-05-09T18:56:16Z
   Vendor: Burton
   Product Type: Snowboard Boot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/HIGHSHOT6_ca2d044c-a068-4c82-94b0-8e9b4c9ff102.png?v=1773917555
   Price: $729.95 USD
 - [Burton Waverange X Pro Step On Boots](https://yoav-test-store-2.myshopify.com/products/burton-waverange-x-pro-step-on-boots): Burton Waverange X Pro Step On Boots provide reliable support and warmth for winter riding.
-  Updated: 2026-04-12T03:20:23Z
+  Updated: 2026-05-09T18:56:33Z
   Vendor: Burton
   Product Type: Snowboard Boot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/210000104563210000104559BurtonMen_sWaverangeXProStepOnSnowboardBoots2026White1_d857c062-2e85-4ac9-a8fb-d560c2b8bff6.png?v=1773917555
   Price: $729.95 USD
 - [Ride Lasso Pro Snowboard Boots](https://yoav-test-store-2.myshopify.com/products/ride-lasso-pro-snowboard-boots): Ride Lasso Pro Snowboard Boots provide reliable support and warmth for winter riding.
-  Updated: 2026-04-12T03:20:20Z
+  Updated: 2026-05-09T18:57:15Z
   Vendor: Ride
   Product Type: Snowboard Boot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/ride-lasso-pro-snowboard-boots-grey_e15d6c3e-68c7-4c3f-831b-0c6d89ce3cc0.jpg?v=1773917554
   Price: $459.95 USD
 - [Ride Lasso Snowboard Boots](https://yoav-test-store-2.myshopify.com/products/ride-lasso-snowboard-boots): Ride Lasso Snowboard Boots provide reliable support and warmth for winter riding.
-  Updated: 2026-04-12T03:20:16Z
+  Updated: 2026-05-09T18:57:14Z
   Vendor: Ride
   Product Type: Snowboard Boot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/ride-lasso-pro-snowboard-boots-grey.jpg?v=1773917554
   Price: $349.95 USD
 - [K2 Maysis Snowboard Boots](https://yoav-test-store-2.myshopify.com/products/k2-maysis-snowboard-boots): K2 Maysis Snowboard Boots provide reliable support and warmth for winter riding.
-  Updated: 2026-04-12T03:20:15Z
+  Updated: 2026-05-09T18:57:13Z
   Vendor: K2
   Product Type: Snowboard Boot
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/F23_K2_MAYSIS_WORKWEAR_B230300604_1__64565.1693236932.jpg?v=1773917554
   Price: $369.95 USD
 - [Salomon Dialogue Snowboard Boots](https://yoav-test-store-2.myshopify.com/products/salomon-dialogue-snowboard-boots): Salomon Dialogue Snowboard Boots provide reliable support and warmth for winter riding.
-  Updated: 2026-04-12T19:46:55Z
+  Updated: 2026-05-09T18:57:16Z
   Vendor: Salomon
   Product Type: Snowboard Boot
   Availability: Available
@@ -482,77 +684,77 @@
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/G1352507_CNB_GH-F.jpg?v=1773917546
   Price: $150.00 USD
 - [Quiksilver Mission GORE-TEX Snow Jacket](https://yoav-test-store-2.myshopify.com/products/quiksilver-mission-gore-tex-snow-jacket): Quiksilver Mission GORE-TEX Snow Jacket offers premium protection and comfort for snowy conditions.
-  Updated: 2026-04-12T06:23:53Z
+  Updated: 2026-05-09T18:57:35Z
   Vendor: Quiksilver
   Product Type: Jacket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/eqytj03322_quiksilver_kvj0_frt1_1.jpg?v=1773917543
   Price: $299.95 USD
 - [Quiksilver High Altitude Soft Shell Snow Jacket](https://yoav-test-store-2.myshopify.com/products/quiksilver-high-altitude-soft-shell-snow-jacket): Quiksilver High Altitude Soft Shell Snow Jacket offers premium protection and comfort for snowy conditions.
-  Updated: 2026-04-12T06:23:55Z
+  Updated: 2026-05-09T18:57:34Z
   Vendor: Quiksilver
   Product Type: Jacket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/QSM35FT056_FNR_OM-6.jpg?v=1773917542
   Price: $139.95 USD
 - [Quiksilver Forever Stretch GORE-TEX Snow Jacket](https://yoav-test-store-2.myshopify.com/products/quiksilver-forever-stretch-gore-tex-snow-jacket): Quiksilver Forever Stretch GORE-TEX Snow Jacket offers premium protection and comfort for snowy conditions.
-  Updated: 2026-04-11T18:23:47Z
+  Updated: 2026-05-09T18:57:33Z
   Vendor: Quiksilver
   Product Type: Jacket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/Quiksilver_Forever_Stretch_Gore-Tex_Men_s_Jacket_2025_in_Flint_Stone_b063774d-c860-464f-be4b-91a278c395a3.jpg?v=1773917542
   Price: $399.95 USD
 - [Quiksilver High Altitude GORE-TEX Snow Jacket](https://yoav-test-store-2.myshopify.com/products/quiksilver-high-altitude-gore-tex-snow-jacket): Quiksilver High Altitude GORE-TEX Snow Jacket offers premium protection and comfort for snowy conditions.
-  Updated: 2026-04-12T06:23:55Z
+  Updated: 2026-05-09T18:57:40Z
   Vendor: Quiksilver
   Product Type: Jacket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/eqytj03467_quiksilver_wdw0_frt1.jpg?v=1773917540
   Price: $365.95 USD
 - [Quiksilver High Altitude Snow Pant](https://yoav-test-store-2.myshopify.com/products/quiksilver-high-altitude-snow-pant): Quiksilver High Altitude Snow Pant offers premium protection and comfort for snowy conditions.
-  Updated: 2026-04-12T17:18:50Z
+  Updated: 2026-05-09T18:57:33Z
   Vendor: Quiksilver
   Product Type: Pants
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/eqytp03239_quiksilver_kvj0_bck1.jpg?v=1773917539
   Price: $265.95 USD
 - [Quiksilver Utility Snow Bib](https://yoav-test-store-2.myshopify.com/products/quiksilver-utility-snow-bib): Quiksilver Utility Snow Bib offers premium protection and comfort for snowy conditions.
-  Updated: 2026-04-11T15:19:49Z
+  Updated: 2026-05-09T18:57:57Z
   Vendor: Quiksilver
   Product Type: Bib
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/eqytp03200_quiksilver_tgw0_frt1.jpg?v=1773917539
   Price: $249.95 USD
 - [Quiksilver Porter Snow Pant](https://yoav-test-store-2.myshopify.com/products/quiksilver-porter-snow-pant): Quiksilver Porter Snow Pant offers premium protection and comfort for snowy conditions.
-  Updated: 2026-04-12T06:11:21Z
+  Updated: 2026-05-09T18:57:59Z
   Vendor: Quiksilver
   Product Type: Pants
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/quiksilver-porter-iron-34_1024x_123f5853-8f9b-4266-a1f3-36cf2e823242.jpg?v=1773917538
   Price: $159.95 USD
 - [Burton Reserve GORE-TEX 2L Jacket](https://yoav-test-store-2.myshopify.com/products/burton-reserve-gore-tex-2l-jacket): Burton Reserve GORE-TEX 2L Jacket offers premium protection and comfort for snowy conditions.
-  Updated: 2026-04-12T06:23:53Z
+  Updated: 2026-05-09T18:50:48Z
   Vendor: Burton
   Product Type: Jacket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/burton-reserve-gore-tex-2l-jacket-fiesta-red-2026-mens-snowboard-coat-1133101130.jpg?v=1773917538
   Price: $419.95 USD
 - [Burton [ak] Swash GORE-TEX 2L Pants](https://yoav-test-store-2.myshopify.com/products/burton-ak-swash-gore-tex-2l-pants): Burton [ak] Swash GORE-TEX 2L Pants offers premium protection and comfort for snowy conditions.
-  Updated: 2026-04-12T06:11:24Z
+  Updated: 2026-05-09T18:50:56Z
   Vendor: Burton
   Product Type: Pants
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/burton-mens-ak-swash-gore-tex-2l-pants.jpg?v=1773917537
   Price: $479.95 USD
 - [evo Midweight Base Layer Pants](https://yoav-test-store-2.myshopify.com/products/evo-midweight-base-layer-pants): evo Midweight Base Layer Pants offers premium protection and comfort for snowy conditions.
-  Updated: 2026-04-11T18:41:25Z
+  Updated: 2026-05-09T18:57:33Z
   Vendor: evo
   Product Type: Pants
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/evo-midweight-base-layer-pants-men-s-s.jpg?v=1773917536
   Price: $59.95 USD
 - [evo Midweight Base Layer Crew Top](https://yoav-test-store-2.myshopify.com/products/evo-midweight-base-layer-crew-top): evo Midweight Base Layer Crew Top offers premium protection and comfort for snowy conditions.
-  Updated: 2026-04-13T22:14:02Z
+  Updated: 2026-05-09T18:57:41Z
   Vendor: evo
   Product Type: Top
   Availability: Available
@@ -566,98 +768,98 @@
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/UN25_ATLAS_WHITE_ORANGE_FULL_PAIR_REAR_1024x_4699942a-0100-4c04-97a1-090703737a88.jpg?v=1773917535
   Price: $399.95 USD
 - [Burton Lexa X EST Bindings](https://yoav-test-store-2.myshopify.com/products/burton-lexa-x-est-bindings): Burton Lexa X EST Bindings enhances your snowboarding setup with durable construction.
-  Updated: 2026-04-05T17:29:44Z
+  Updated: 2026-05-09T18:50:14Z
   Vendor: Burton
   Product Type: Bindings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/0004_womens-lexa-x-est-binding-black.jpg?v=1773917535
   Price: $329.95 USD
 - [Burton Step On Genesis EST Bindings](https://yoav-test-store-2.myshopify.com/products/burton-step-on-genesis-est-bindings): Burton Step On Genesis EST Bindings enhances your snowboarding setup with durable construction.
-  Updated: 2026-04-12T19:45:41Z
+  Updated: 2026-05-09T18:50:40Z
   Vendor: Burton
   Product Type: Bindings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/Burton_Step_On_Genesis_Est_Binding_Step_On_Bindings_Hydro_Multi_501545-1_copy.jpg?v=1773917534
   Price: $399.95 USD
 - [Burton Step On Cartel X EST Bindings](https://yoav-test-store-2.myshopify.com/products/burton-step-on-cartel-x-est-bindings): Burton Step On Cartel X EST Bindings enhances your snowboarding setup with durable construction.
-  Updated: 2026-04-12T19:44:38Z
+  Updated: 2026-05-09T18:50:30Z
   Vendor: Burton
   Product Type: Bindings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/Burton_Step_On_Cartel_X_Est_Step_On_Bindings_Black_523892-1.jpg?v=1773917533
   Price: $349.95 USD
 - [Burton Step On ReFlex Bindings](https://yoav-test-store-2.myshopify.com/products/burton-step-on-reflex-bindings): Burton Step On ReFlex Bindings enhances your snowboarding setup with durable construction.
-  Updated: 2026-04-12T03:34:19Z
+  Updated: 2026-05-09T18:56:54Z
   Vendor: Burton
   Product Type: Bindings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/Burton_Step_On_ReFlex_Step_On_Bindings_Floral_Blur_524229-1.jpg?v=1773917533
   Price: $319.95 USD
 - [Burton Freestyle ReFlex Bindings](https://yoav-test-store-2.myshopify.com/products/burton-freestyle-reflex-bindings): Burton Freestyle ReFlex Bindings enhances your snowboarding setup with durable construction.
-  Updated: 2026-04-05T20:05:56Z
+  Updated: 2026-05-09T18:49:54Z
   Vendor: Burton
   Product Type: Bindings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/img_C-47594-2024-BLK2_00.jpg?v=1773917533
   Price: $189.95 USD
 - [Burton Genesis ReFlex Bindings](https://yoav-test-store-2.myshopify.com/products/burton-genesis-reflex-bindings): Burton Genesis ReFlex Bindings enhances your snowboarding setup with durable construction.
-  Updated: 2026-04-12T03:34:18Z
+  Updated: 2026-05-09T18:56:58Z
   Vendor: Burton
   Product Type: Bindings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/burton-genesis-snowboard-bindings-2023-1-1.jpg?v=1773917533
   Price: $399.95 USD
 - [Burton Cartel EST Bindings](https://yoav-test-store-2.myshopify.com/products/burton-cartel-est-bindings): Burton Cartel EST Bindings enhances your snowboarding setup with durable construction.
-  Updated: 2026-04-12T03:34:17Z
+  Updated: 2026-05-09T18:56:51Z
   Vendor: Burton
   Product Type: Bindings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/Burton_Cartel_X_Est_Binding_Traditional_Snowboard_Bindings_Nightfall_502676-1_copy_f244971f-dae7-4e56-a5dc-5f395cc5014d.jpg?v=1773917532
   Price: $299.95 USD
 - [Burton Step On Splitboard Bindings](https://yoav-test-store-2.myshopify.com/products/burton-step-on-splitboard-bindings): Burton Step On Splitboard Bindings enhances your snowboarding setup with durable construction.
-  Updated: 2026-04-11T18:42:29Z
+  Updated: 2026-05-09T18:57:15Z
   Vendor: Burton
   Product Type: Bindings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/239151-001-Primary-High-Res_2048x_80b43cff-47bb-4ce9-bdeb-539e425195a8.jpg?v=1773917532
   Price: $549.95 USD
 - [Burton Cartel X ReFlex Bindings](https://yoav-test-store-2.myshopify.com/products/burton-cartel-x-reflex-bindings): Burton Cartel X ReFlex Bindings enhances your snowboarding setup with durable construction.
-  Updated: 2026-04-12T03:34:17Z
+  Updated: 2026-05-09T18:56:53Z
   Vendor: Burton
   Product Type: Bindings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/Burton_Cartel_X_ReFlex_Traditional_Snowboard_Bindings_Black___Red_524225-1_a2335a8b-04af-4ee4-b8e9-2753ed088d5b.jpg?v=1773917531
   Price: $349.95 USD
 - [Burton Cartel ReFlex Bindings](https://yoav-test-store-2.myshopify.com/products/burton-cartel-reflex-bindings): Burton Cartel ReFlex Bindings enhances your snowboarding setup with durable construction.
-  Updated: 2026-04-12T03:34:18Z
+  Updated: 2026-05-09T18:56:53Z
   Vendor: Burton
   Product Type: Bindings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/Burton_Cartel_X_ReFlex_Traditional_Snowboard_Bindings_Black___Red_524225-1.jpg?v=1773917531
   Price: $299.95 USD
 - [Burton Mission ReFlex Bindings](https://yoav-test-store-2.myshopify.com/products/burton-mission-reflex-bindings): Burton Mission ReFlex Bindings enhances your snowboarding setup with durable construction.
-  Updated: 2026-04-12T20:15:03Z
+  Updated: 2026-05-09T18:49:50Z
   Vendor: Burton
   Product Type: Bindings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/Burton_Mission_ReFlex_Traditional_Snowboard_Bindings_Jake_Blue_524228-2.jpg?v=1773917530
   Price: $249.95 USD
 - [Burton X EST Bindings](https://yoav-test-store-2.myshopify.com/products/burton-x-est-bindings): Burton X EST Bindings enhances your snowboarding setup with durable construction.
-  Updated: 2026-04-12T03:34:17Z
+  Updated: 2026-05-09T06:56:46Z
   Vendor: Burton
   Product Type: Bindings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/Burton_Cartel_X_Est_Binding_Traditional_Snowboard_Bindings_Nightfall_502676-1_copy.jpg?v=1773917530
   Price: $579.95 USD
 - [Burton Fragment Step On Genesis EST Bindings](https://yoav-test-store-2.myshopify.com/products/burton-fragment-step-on-genesis-est-bindings): Burton Fragment Step On Genesis EST Bindings enhances your snowboarding setup with durable construction.
-  Updated: 2026-04-12T03:34:19Z
+  Updated: 2026-05-09T18:56:51Z
   Vendor: Burton
   Product Type: Bindings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/Burton_Step_On_Genesis_Est_Binding_Step_On_Bindings_Black_501544-1_copy.jpg?v=1773917530
   Price: $419.95 USD
 - [Burton Genesis EST Bindings](https://yoav-test-store-2.myshopify.com/products/burton-genesis-est-bindings): Burton Genesis EST Bindings enhances your snowboarding setup with durable construction.
-  Updated: 2026-04-12T03:34:17Z
+  Updated: 2026-05-09T18:57:04Z
   Vendor: Burton
   Product Type: Bindings
   Availability: Available
@@ -671,35 +873,35 @@
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/UN25_STRATA_BLACK_1024x_59d3bea9-41ef-4ad2-a453-a9017f13ec9c.jpg?v=1773917527
   Price: $279.95 USD
 - [Jones Meteorite Bindings](https://yoav-test-store-2.myshopify.com/products/jones-meteorite-bindings): Jones Meteorite Bindings enhances your snowboarding setup with durable construction.
-  Updated: 2026-04-12T20:14:35Z
+  Updated: 2026-05-09T18:54:29Z
   Vendor: Jones
   Product Type: Bindings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/jones-meteorite-snowboard-binding-arctic-shadow-blue-2026-mens-bindings-1142901836.jpg?v=1773917527
   Price: $299.95 USD
 - [Jones Orion Bindings](https://yoav-test-store-2.myshopify.com/products/jones-orion-bindings): Jones Orion Bindings enhances your snowboarding setup with durable construction.
-  Updated: 2026-04-12T03:34:16Z
+  Updated: 2026-05-09T18:57:52Z
   Vendor: Jones
   Product Type: Bindings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/Jones_24-25_Bindings_Orion_J.25.BNM_.ORI-2.jpg?v=1773917528
   Price: $329.95 USD
 - [Salomon Highlander Bindings](https://yoav-test-store-2.myshopify.com/products/salomon-highlander-bindings): Salomon Highlander Bindings enhances your snowboarding setup with durable construction.
-  Updated: 2026-04-12T03:34:17Z
+  Updated: 2026-05-09T18:57:18Z
   Vendor: Salomon
   Product Type: Bindings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/2026-salomon-highlander-bindings__80806.1755115090.jpg?v=1773917527
   Price: $329.95 USD
 - [Nitro Team Bindings](https://yoav-test-store-2.myshopify.com/products/nitro-team-bindings): Nitro Team Bindings enhances your snowboarding setup with durable construction.
-  Updated: 2026-04-30T21:06:03Z
+  Updated: 2026-05-09T18:54:00Z
   Vendor: Nitro
   Product Type: Bindings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/836512-006_Team-Pro_Nitro-X-Marcus-Kleveland_Product-2.jpg?v=1773917526
   Price: $259.95 USD
 - [Flow NX2-TM Bindings](https://yoav-test-store-2.myshopify.com/products/flow-nx2-tm-bindings): Flow NX2-TM Bindings enhances your snowboarding setup with durable construction.
-  Updated: 2026-04-12T19:23:57Z
+  Updated: 2026-05-09T18:54:19Z
   Vendor: Flow
   Product Type: Bindings
   Availability: Available
@@ -713,14 +915,14 @@
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/spark-r-d-surge-st-pro-splitboard-bindings-2026-1_900x_b41746e9-7a01-4a48-906a-e2bbf9b93474.jpg?v=1773917525
   Price: $419.95 USD
 - [Men's Burton Step On Genesis ReFlex Bindings](https://yoav-test-store-2.myshopify.com/products/men-s-burton-step-on-genesis-reflex-bindings): These Step On Genesis ReFlex bindings from Burton provide pro-caliber performance with the convenience of Step On technology.
-  Updated: 2026-04-23T15:26:12Z
+  Updated: 2026-05-09T18:54:44Z
   Vendor: Burton
   Product Type: Bindings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/1765767612_71lekHxjWsL._AC_SL1500_.jpg-768x875.jpg?v=1773917525
   Price: $399.95 USD
 - [Men's Burton Mission EST Bindings](https://yoav-test-store-2.myshopify.com/products/men-s-burton-mission-est-bindings): The Burton Mission EST bindings offer a smooth flex and unmatched board feel with EST mounting for use with The Channel boards.
-  Updated: 2026-04-12T03:34:16Z
+  Updated: 2026-05-09T18:57:15Z
   Vendor: Burton
   Product Type: Bindings
   Availability: Available
@@ -741,28 +943,28 @@
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/Smith-Squad-Mag-Goggle-AC-Elena-Hight-ChromaPop-Everyday-Rose-Gold-Mirror-Bonus.jpg?v=1773917523
   Price: $200.00 USD
 - [Oakley Flight Deck M Goggles](https://yoav-test-store-2.myshopify.com/products/oakley-flight-deck-m-goggles): Wide view goggles with a frameless design and Prizm lens technology.
-  Updated: 2026-04-30T21:56:26Z
+  Updated: 2026-05-09T18:54:16Z
   Vendor: Oakley
   Product Type: Goggles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/0OO7139__713901_030A.png?v=1773917523
   Price: $216.00 USD
 - [Oakley Line Miner Goggles](https://yoav-test-store-2.myshopify.com/products/oakley-line-miner-goggles): Low-profile goggles with cylindrical lenses and optimized peripheral vision.
-  Updated: 2026-04-14T00:08:32Z
+  Updated: 2026-05-09T18:57:59Z
   Vendor: Oakley
   Product Type: Goggles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/0OO7070__7070G8_030A.png?v=1773917522
   Price: $151.00 USD
 - [Anon M4 Toric Goggles](https://yoav-test-store-2.myshopify.com/products/anon-m4-toric-goggles): High-end toric-lens goggles with magnetic lens swapping and MFI face mask integration.
-  Updated: 2026-04-12T19:48:41Z
+  Updated: 2026-05-09T18:49:31Z
   Vendor: Anon
   Product Type: Goggles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/anon-m4-toric-preceive-polarized-ski-goggles.webp?v=1773917521
   Price: $320.00 USD
 - [Anon Insight Goggles](https://yoav-test-store-2.myshopify.com/products/anon-insight-goggles): Simplistic goggles with sleek design and anti-fog  for clear visibility.
-  Updated: 2026-04-12T19:49:05Z
+  Updated: 2026-05-09T18:49:28Z
   Vendor: Anon
   Product Type: Goggles
   Availability: Available
@@ -872,7 +1074,7 @@
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/169_3f3b1f70e3-pc10103-1002-1.jpg?v=1773917512
   Price: $149.95 USD
 - [Anon MFI Hood Clava](https://yoav-test-store-2.myshopify.com/products/anon-mfi-hood-clava): Versatile hooded face mask featuring magnetic integration with compatible goggles.
-  Updated: 2026-04-12T19:56:07Z
+  Updated: 2026-05-09T18:49:50Z
   Vendor: Anon
   Product Type: Face Mask
   Availability: Available
@@ -886,29 +1088,29 @@
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/download.webp?v=1773848291
   Price: $34.95 USD
 - [Airhole Facemask](https://yoav-test-store-2.myshopify.com/products/airhole-facemask): Breathable facemask with a signature airhole for easy breathing on cold days.
-  Updated: 2026-04-27T19:13:27Z
+  Updated: 2026-05-09T18:49:13Z
   Vendor: Airhole
   Product Type: Face Mask
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/airhole-facemask_df4348c9-9d0e-4d92-802c-26733bd9bdd9.jpg?v=1773848228
   Price: $29.95 USD
 - [Burton Neck Warmer](https://yoav-test-store-2.myshopify.com/products/burton-neck-warmer): Soft fleece neck gaiter that protects from wind and cold while remaining comfortable.
-  Updated: 2026-04-12T02:14:41Z
+  Updated: 2026-05-09T18:50:13Z
   Vendor: Burton
   Product Type: Neck Gaiter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/burton-merino-wool-neck-warmer_2.webp?v=1773848146
   Price: $24.95 USD
 - [Oakley Neck Gaiter](https://yoav-test-store-2.myshopify.com/products/oakley-neck-gaiter): Stretchy, moisture-wicking neck gaiter designed for versatility and warmth.
-  Updated: 2026-04-12T02:13:38Z
+  Updated: 2026-05-09T18:54:46Z
   Vendor: Oakley
   Product Type: Neck Gaiter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/oakley-911959-balaclava.webp?v=1773848091
   Price: $35.00 USD
-- [Glade runner - snowboard 2.0](https://yoav-test-store-2.myshopify.com/products/the-tree-line-drifter-agentic): { "product": { "title": "Apex Strider | All-Mountain Quiver-Killer Snowboard", "handle": "apex-strider-all-mountain-snowboard", "vendor": "YourBrandName", "product_type": "Snowboard", "status": "active", "tags": [ "snowboard", "all-mountain", "quiver-killer", "freeride", "freestyle", "carving", "powder", "volume-shifted", "hybrid-camber" ], "body_html": "Morning corduroy. Afternoon powder. Backcountry side-hits. Why choose?Finding a single snowboard that genuinely handles it all usually means a bag of compromises. The Apex Strider shatters that expectation. We engineered this board for the rider who wants to lay down aggressive, trench-digging carves on icy morning hardpack, yet still float effortlessly through untouched off-piste bowls when the afternoon storms roll in.Built around a volume-shifted, subtly tapered directional twin shape, the Strider gives you the unsinkable surface area of a dedicated powder board in a shorter, incredibly nimble footprint. The wider waist eliminates toe drag on your deepest Eurocarves, while the balanced swing weight allows you to confidently ride switch and stomp backcountry freestyle drops. When the resort gets tracked out, the mid-stiff, vibration-dampening core plows right through heavy, wet chunder without washing out.Why It Dominates the Whole MountainHybrid Camber Profile: Early-rise rocker nose for float, positive camber underfoot for pop and edge hold.Volume-Shifted Agility: Sized short and wide to prevent toe drag on deep carves while maintaining quick edge-to-edge transitions.Traction-Bite Edges: Serrated edge tech slices through icy hardpack without feeling catchy.Dampening Core & Sintered Base: Mid-stiff flex absorbs chunder; ultra-durable base withstands rocky, shallow off-piste terrain.", "options": [ { "name": "Size" } ], "variants": [ { "option1": "150cm (Wide/Volume-Shifted)", "price": "599.00", "sku": "APX-STR-150W", "inventory_management": "shopify" }, { "option1": "154cm (Wide/Volume-Shifted)", "price": "599.00", "sku": "APX-STR-154W", "inventory_management": "shopify" }, { "option1": "158cm (Wide/Volume-Shifted)", "price": "599.00", "sku": "APX-STR-158W", "inventory_management": "shopify" } ], "metafields": [ { "namespace": "technical_specs", "key": "riding_style", "value": "All-Mountain / Quiver-Killer / Freeride / Freestyle", "type": "single_line_text_field" }, { "namespace": "technical_specs", "key": "camber_profile", "value": "Hybrid (Rocker Nose + Camber Underfoot)", "type": "single_line_text_field" }, { "namespace": "technical_specs", "key": "shape", "value": "Directional Twin / Volume-Shifted", "type": "single_line_text_field" }, { "namespace": "technical_specs", "key": "flex_rating", "value": "Mid-Stiff (7/10) - Dampens Chunder", "type": "single_line_text_field" }, { "namespace": "technical_specs", "key": "edge_technology", "value": "Serrated Traction (Excels on Ice/Hardpack)", "type": "single_line_text_field" }, { "namespace": "technical_specs", "key": "base_material", "value": "High-Density Sintered (High Durability)", "type": "single_line_text_field" }, { "namespace": "technical_specs", "key": "waist_width", "value": "Wide (Eliminates Toe Drag)", "type": "single_line_text_field" } ], "seo": { "title": "Apex Strider All-Mountain Snowboard | Carve, Powder & Freestyle", "description": "The ultimate quiver-killer snowboard. Featuring a volume-shifted hybrid camber profile to float in powder, carve without toe drag, and grip icy hardpack." } }}
-  Updated: 2026-04-11T18:25:55Z
-  Vendor: Yoav test store
+- [Glade runner - snowboard 2.0](https://yoav-test-store-2.myshopify.com/products/the-tree-line-drifter-agentic): An updated take on the original Glade Runner. All-mountain shape with hybrid camber — pop underfoot, float at the nose, holds an edge through trees and chop.
+  Updated: 2026-05-09T18:53:48Z
+  Vendor: Hydrogen
   Product Type: snowboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/Main_b9e0da7f-db89-4d41-83f0-7f417b02831d.jpg?v=1767885308
@@ -928,7 +1130,7 @@
   Image: https://cdn.shopify.com/s/files/1/0791/6434/2489/files/Main_b9e0da7f-db89-4d41-83f0-7f417b02831d.jpg?v=1767885308
   Price: $629.95 USD
 - [evo Midweight Base Layer Crew Top](https://yoav-test-store-2.myshopify.com/products/midweight-base-layer-crew-top): evo Midweight Base Layer Crew Top offers premium protection and comfort for snowy conditions.
-  Updated: 2026-04-12T20:09:11Z
+  Updated: 2026-05-09T18:57:33Z
   Vendor: evo
   Product Type: Top
   Availability: Available
@@ -949,8 +1151,8 @@
   Updated: 2026-03-18T12:07:32Z
   Total Products: 1
 - [Automated Collection](https://yoav-test-store-2.myshopify.com/collections/automated-collection)
-  Updated: 2026-04-30T12:55:15Z
-  Total Products: 104
+  Updated: 2026-05-09T08:20:32Z
+  Total Products: 105
 - [Hydrogen](https://yoav-test-store-2.myshopify.com/collections/hydrogen)
   Updated: 2026-03-18T12:07:32Z
   Total Products: 3
@@ -958,7 +1160,7 @@
   Updated: 2026-04-12T06:23:23Z
   Total Products: 23
 - [Snowboards](https://yoav-test-store-2.myshopify.com/collections/snowboards)
-  Updated: 2026-04-30T12:55:15Z
+  Updated: 2026-05-09T08:20:32Z
   Total Products: 39
 - [Snowboard bindings](https://yoav-test-store-2.myshopify.com/collections/snowboard-bindings)
   Updated: 2026-04-13T11:46:05Z
