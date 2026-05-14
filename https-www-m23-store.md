@@ -46,12 +46,12 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-07-27T14:25:30Z
 - Contact Email: info@m23.store
-- Updated At: 2026-05-07T00:00:40.491Z
+- Updated At: 2026-05-14T00:00:46.014Z
 
 ## Products
 
 - [Damen Leggings "Lina" | Bio-Baumwolle | Berlin & Polen](https://www.m23.store/products/lina): Modell "Lina" vom Berliner Label M23 – Yoga-Leggings aus recyceltem Nylon, in Berlin produziert. Second-skin Gefühl plus hoher Bund für sicheren Halt.
-  Updated: 2026-05-06T09:25:30Z
+  Updated: 2026-05-13T05:54:00Z
   Vendor: M23
   Product Type: 
   Availability: Available
@@ -101,7 +101,7 @@
     Image: https://cdn.shopify.com/s/files/1/0885/6358/1253/files/M23_Lina_Leggings_aus_Bio-Baumwolle_in_Salute-Marineblau_Vorderansicht_von_links_mit_geraden_Beinen.jpg?v=1760740840
     Price: 69,90 € EUR
 - [Herren Shorts "Zane" | Bio-Baumwolle | Berlin & Polen](https://www.m23.store/products/zane): Modell "Zane" vom Berliner Label M23 – Herren-Shorts aus Bio-Baumwolle & Recycling-Netzstoff in den Taschen. Superkomfortabel drinnen wie draußen tragbar.
-  Updated: 2026-05-04T07:56:55Z
+  Updated: 2026-05-12T18:02:08Z
   Vendor: M23
   Product Type: 
   Availability: Available
@@ -219,7 +219,7 @@
     Image: https://cdn.shopify.com/s/files/1/0885/6358/1253/files/M23_Zane_Shorts_aus_Bio-Baumwolle_in_Schwarz_Komplette_Linke_Seitenansicht.jpg?v=1759141456
     Price: 59,90 € EUR
 - [Herren Tank Top "Kobe" | Bio-Baumwolle | Berlin & Polen](https://www.m23.store/products/kobe): Modell "Kobe" vom Berliner Label M23 – elastisches Herren-Tank-Top aus Bio-Baumwolle mit maskulinem Schnitt & weichem Griff. Für Sport & lange Nächte.
-  Updated: 2026-05-06T09:25:22Z
+  Updated: 2026-05-13T05:53:53Z
   Vendor: M23
   Product Type: variable
   Availability: Available
@@ -281,11 +281,11 @@
     Image: https://cdn.shopify.com/s/files/1/0885/6358/1253/files/M23_Kobe_Tanktop_Anthrazit_Rueckansicht_Nachhaltiges_Herren-Shirt_aus_Bio-Baumwolle.jpg?v=1753102731
     Price: 32,90 € EUR
   - [Anthracite / L](https://www.m23.store/products/kobe?variant=53808404496709)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0885/6358/1253/files/M23_Kobe_Tanktop_Anthrazit_Vorderansicht_Nachhaltiges_Herren-Shirt_aus_Bio-Baumwolle.jpg?v=1753102555
     Price: 32,90 € EUR
 - [Herren Jogger "Clint" | Bio-Baumwolle | Berlin & Polen](https://www.m23.store/products/clint): Modell "Clint" vom Berliner Label M23 – Herren-Jogger aus Bio-Baumwolle & recyceltem Netzstoff, in Polen gefertigt. Lässig, funktional & sehr komfortabel.
-  Updated: 2026-05-06T09:25:23Z
+  Updated: 2026-05-13T05:53:54Z
   Vendor: M23
   Product Type: variable
   Availability: Available
@@ -474,7 +474,7 @@
     Availability: Not Available
     Price: 29,90 € EUR
 - [Damen Biker Shorts "Sue" | Bio-Baumwolle | Berlin & Polen](https://www.m23.store/products/sue): Modell "Sue" vom Berliner Label M23 – blickdichte Yoga-Biker-Shorts aus recyceltem Nylon mit hohem Bund. Weich, elastisch & zuverlässig bei jeder Bewegung.
-  Updated: 2026-05-06T09:25:24Z
+  Updated: 2026-05-13T05:53:55Z
   Vendor: M23
   Product Type: variable
   Availability: Available
@@ -540,7 +540,7 @@
     Image: https://cdn.shopify.com/s/files/1/0885/6358/1253/files/M23_Sue_Biker-Shorts_aus_Bio-Baumwolle_Petrol_Blau_Nachhaltige_Strandbekleidung.jpg?v=1753095583
     Price: 49,90 € EUR
 - [Damen T-Shirt "Lola" | Bio-Baumwolle | Berlin & Polen](https://www.m23.store/products/lola): Modell "Lola" vom Berliner Label M23 – Damen-T-Shirt aus elastischer Bio-Baumwolle, in Portugal gefertigt. Weich, formstabil & perfekt für Sport & Alltag.
-  Updated: 2026-05-06T09:25:25Z
+  Updated: 2026-05-13T05:53:56Z
   Vendor: M23
   Product Type: variable
   Availability: Available
@@ -594,7 +594,7 @@
     Image: https://cdn.shopify.com/s/files/1/0885/6358/1253/files/M23_Lola_T-Shirt_in_Gedecktem_Blau_Nachhaltiges_T-Shirt_aus_Bio-Baumwolle.jpg?v=1753094512
     Price: 29,90 € EUR
 - [Herren Pullover "Phil" | Bio-Baumwolle | Berlin & Polen](https://www.m23.store/products/phil): Modell "Phil" vom Berliner Label M23 – sportlich-cleaner Herren-Pullover aus robuster Bio-Baumwolle, in Polen gefertigt. Stylisch & funktional im Alltag.
-  Updated: 2026-05-06T09:25:26Z
+  Updated: 2026-05-13T05:53:57Z
   Vendor: M23
   Product Type: variable
   Availability: Available
@@ -712,7 +712,7 @@
     Image: https://cdn.shopify.com/s/files/1/0885/6358/1253/files/M23_Sweatshirt_Phil_Bordeauxrot_Nachhaltige_Mode_aus_Bio-Baumwolle.jpg?v=1758273547
     Price: 59,90 € EUR
 - [Damen Jogginghose "Emma" | Bio-Baumwolle | Berlin & Polen](https://www.m23.store/products/emma): Modell "Emma" vom Berliner Label M23 – Damen-Jogginghose aus weicher Bio-Baumwolle mit Netzfutter-Taschen, in Polen gefertigt. Für Sport & Entspannung.
-  Updated: 2026-05-06T09:25:27Z
+  Updated: 2026-05-13T05:53:58Z
   Vendor: M23
   Product Type: variable
   Availability: Available
@@ -830,7 +830,7 @@
     Image: https://cdn.shopify.com/s/files/1/0885/6358/1253/files/Emma_Jogginghose_aus_Bio-Baumwolle_in_Bordeauxrot_Nachhaltige_Damenmode.jpg?v=1760740715
     Price: 69,90 € EUR
 - [Kinder Sweater "Charlie" | Bio-Baumwolle | Berlin & Polen](https://www.m23.store/products/kids-sweater-charlie): Modell "Charlie" vom Berliner Label M23 – Unisex-Kinderpullover aus weicher Bio-Baumwolle, in Europa gefertigt. Supergemütlich für die kleinen Abenteurer!
-  Updated: 2026-05-06T09:25:28Z
+  Updated: 2026-05-13T05:53:59Z
   Vendor: M23
   Product Type: variable
   Availability: Available
@@ -896,7 +896,7 @@
     Image: https://cdn.shopify.com/s/files/1/0885/6358/1253/files/Charlie_Kinder-Sweatshirt_aus_Bio-Baumwolle_in_Bordeaux_von_M23.jpg?v=1752750304
     Price: 24,90 € EUR
 - [Kinder Jogger "Luke" | Bio-Baumwolle | Berlin & Polen](https://www.m23.store/products/kids-pants-luke): Modell "Luke" vom Berliner Label M23 – Unisex-Jogginghose für Kinder aus weicher Bio-Baumwolle, in Europa gefertigt. Gemütlich & für Bewegung gemacht.
-  Updated: 2026-05-06T09:25:29Z
+  Updated: 2026-05-13T05:53:59Z
   Vendor: M23
   Product Type: variable
   Availability: Available
@@ -962,7 +962,7 @@
     Image: https://cdn.shopify.com/s/files/1/0885/6358/1253/files/Luke_Kinder-Jogginghose_aus_Bio-Baumwolle_in_Bordeauxrot_Rueckansicht.jpg?v=1752749676
     Price: 24,90 € EUR
 - [Damen Tank Top "Clara" | Bio-Baumwolle | Berlin & Polen](https://www.m23.store/products/clara): Modell "Clara" vom Berliner Label M23 – superweiches Yoga-Tanktop aus Bio-Baumwolle, in Portugal gefertigt. Für das Studio, den Alltag & heiße Sommer.
-  Updated: 2026-05-04T20:02:36Z
+  Updated: 2026-05-08T18:08:19Z
   Vendor: M23
   Product Type: variable
   Availability: Available
@@ -1004,7 +1004,7 @@
     Image: https://cdn.shopify.com/s/files/1/0885/6358/1253/files/Clara_Tanktop_aus_Bio-Baumwolle_in_Rot_Nahaufnahme_Vorderansicht.jpg?v=1752748260
     Price: 39,90 € EUR
 - [Damen Shorts "Chloé" | Bio-Baumwolle | Berlin & Polen](https://www.m23.store/products/chloe): Modell "Chloé" vom Berliner Label M23 – leichte Damen-Shorts aus Bio-Baumwolle, in Portugal & Polen gefertigt. Ideal für Yoga, Sport, Sommer & Alltag.
-  Updated: 2026-05-04T19:46:25Z
+  Updated: 2026-05-09T07:17:21Z
   Vendor: M23
   Product Type: 
   Availability: Available
@@ -1022,7 +1022,7 @@
     Image: https://cdn.shopify.com/s/files/1/0885/6358/1253/files/M23_Lola_Bio-T-Shirt_Chloe_Shorts_Seitenansicht.jpg?v=1760740688
     Price: 49,90 € EUR
   - [Navy / S](https://www.m23.store/products/chloe?variant=54613286486341)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0885/6358/1253/files/Chloe_Lounge-Shorts_aus_Bio-Baumwolle_in_Marineblau_VorderansichtChloe_Lounge-Shorts_aus_Bio-Baumwolle_in_Marineblau_Vorderansicht.jpg?v=1760740688
     Price: 49,90 € EUR
   - [Navy / M](https://www.m23.store/products/chloe?variant=54613286519109)
@@ -1311,6 +1311,34 @@
     Updated: 2026-05-06T03:30:37Z
     Author: M23
     Tags: en, urban professionals eco fashion
+  - [Debunking sustainable fashion myths: What you need to know](https://www.m23.store/blogs/news/debunking-sustainable-fashion-myths-what-you-need-to-know): Uncover the truth behind sustainable fashion myths. Explore evidence-based insights to shop confidently and make eco-friendly choices.
+    Updated: 2026-05-07T04:30:06Z
+    Author: M23
+    Tags: en, sustainable fashion myths
+  - [Top 6 Yekeke Berlin Alternatives 2026](https://www.m23.store/blogs/news/yekekeberlin-myshopify-com-alternatives-6): Discover 6 key yekekeberlin.myshopify.com alternatives and compare sustainable fashion brands for eco-conscious consumers.
+    Updated: 2026-05-08T01:29:53Z
+    Author: M23
+    Tags: en, yekekeberlin.myshopify.com alternatives
+  - [How parent choices shape sustainable kidswear in Europe](https://www.m23.store/blogs/news/how-parent-choices-shape-sustainable-kidswear-in-europe): Discover the role of parent choices in sustainable fashion. Learn how your decisions can transform kidswear in Europe and reduce waste.
+    Updated: 2026-05-09T03:30:07Z
+    Author: M23
+    Tags: en, role of parent choices in sustainable fashion
+  - [Top 10 323.rocks Alternatives 2026](https://www.m23.store/blogs/news/323-rocks-alternatives-10): Discover 10 best 323.rocks alternatives for sustainable fashion and ethical production. Compare options that prioritize eco-friendly apparel.
+    Updated: 2026-05-10T00:32:53Z
+    Author: M23
+    Tags: 323.rocks alternatives, en
+  - [Top 5 espartofashion.de alternatives 2026](https://www.m23.store/blogs/news/espartofashion-de-alternatives-5): Discover 5 espartofashion.de alternatives for sustainable fashion options focusing on ethical production and environmental responsibility.
+    Updated: 2026-05-11T02:36:39Z
+    Author: M23
+    Tags: en, espartofashion.de alternatives
+  - [Why recycled materials matter in fashion: real benefits explained](https://www.m23.store/blogs/news/recycled-materials-fashion-benefits): Discover why recycled materials matter in fashion and how they transform sustainability. Understand their real benefits for a better wardrobe choice!
+    Updated: 2026-05-12T04:00:13Z
+    Author: M23
+    Tags: en, why recycled materials matter
+  - [Eco-friendly packaging: Smart choices for sustainable fashion](https://www.m23.store/blogs/news/eco-friendly-packaging-smart-choices-for-sustainable-fashion): Discover what is eco-friendly packaging and learn to make smarter choices for sustainable fashion. Transform your shopping habits today!
+    Updated: 2026-05-13T03:30:16Z
+    Author: M23
+    Tags: en, what is eco-friendly packaging
 
 ## Store Pages
 
