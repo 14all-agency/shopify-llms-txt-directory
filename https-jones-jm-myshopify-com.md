@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Updated At: 2026-05-07T04:00:27.718Z
+- Updated At: 2026-05-14T04:00:28.618Z
 
 ## Products
 
@@ -909,6 +909,12 @@
   - [How Snow is Formed: A Detailed Explanation](https://jones-jm.myshopify.com/blogs/news/how-snow-is-formed-a-detailed-explanation): How Snow is Formed: A Detailed Explanation
     Updated: 2026-04-28T22:28:46Z
     Author: User
+  - [10 Must-Have Fashion Items for Every Wardrobe](https://jones-jm.myshopify.com/blogs/news/10-must-have-fashion-items-for-every-wardrobe): 10 Must-Have Fashion Items for Every Wardrobe
+    Updated: 2026-05-10T23:01:09Z
+    Author: User
+  - [The Ultimate Guide to Creating a Sustainable Wardrobe](https://jones-jm.myshopify.com/blogs/news/the-ultimate-guide-to-creating-a-sustainable-wardrobe): The Ultimate Guide to Creating a Sustainable Wardrobe
+    Updated: 2026-05-11T02:32:21Z
+    Author: User
 
 ## Store Pages
 
@@ -918,6 +924,14 @@
   Updated: 2026-01-28T15:58:11Z
 - [llms.txt](https://jones-jm.myshopify.com/pages/llms-txt): This page displays AI-readable information about our store with real-time data.
   Updated: 2025-07-25T01:02:18Z
+- [Store Locator](https://jones-jm.myshopify.com/pages/store-locator): Autocomplete Radius 100 Tags Countries List Map
+  Updated: 2026-05-10T08:15:00Z
+- [Store Locator](https://jones-jm.myshopify.com/pages/store-locator-1): #progus-store-locator{width: 90vw !important;margin-left: calc(50% - 45vw) !important;margin-right: calc(50% - 45vw) !important;box-sizing: border-...
+  Updated: 2026-05-10T08:46:25Z
+- [Test](https://jones-jm.myshopify.com/pages/test)
+  Updated: 2026-05-11T21:19:39Z
+- [Stockists](https://jones-jm.myshopify.com/pages/stockists-map)
+  Updated: 2026-05-12T06:48:17Z
 
 ## Policies
 
@@ -934,9 +948,9 @@
 
 ## Alternate Currencies & Languages
 
-- [International (en / NZD)](https://jones-jm.myshopify.com/llms.txt?market=international)
-- [Mexico (es / MXN)](https://jones-jm.myshopify.com/es-mx/llms.txt?market=mexico)
-- [New Zealand (en / NZD)](https://jones-jm.myshopify.com/llms.txt?market=nz)
+- [International (en / NZD)](https://jones-jm.myshopify.com/a/llms-agent/llms.txt?shop=jones-jm.myshopify.com&market=international)
+- [Mexico (es / MXN)](https://jones-jm.myshopify.com/es-mx/a/llms-agent/llms.txt?shop=jones-jm.myshopify.com&market=mexico)
+- [New Zealand (en / NZD)](https://jones-jm.myshopify.com/a/llms-agent/llms.txt?shop=jones-jm.myshopify.com&market=nz)
 
 ## Optional
 
