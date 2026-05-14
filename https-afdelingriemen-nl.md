@@ -6,12 +6,12 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2024-01-18T10:32:09Z
 - Contact Email: info@afdelingriemen.nl
-- Updated At: 2026-04-26T00:00:39.429Z
+- Updated At: 2026-05-14T00:00:44.252Z
 
 ## Products
 
 - [Dames riem zwart lak](https://afdelingriemen.nl/products/dames-riem-zwart-lak): Zwart lederen lak-riem met een gesp in vlindervorm die ingelegd is met olie strass-stenen. De riem is rond gesneden waardoor deze mooi op de heupen valt. Riem is ook als een afhang-ceintuur te dragen. De gesp is nikkelvrij en is op zijn breedst 11cm. en 7cm. op zijn hoogst.
-  Updated: 2026-04-14T18:25:24Z
+  Updated: 2026-05-12T16:07:24Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
@@ -23,7 +23,7 @@
     Availability: Available
     Price: € 29,95 EUR
 - [Dames lak riem zwart](https://afdelingriemen.nl/products/dames-lak-riem-zwart): Zwarte leren lak-riem met een gesp in de vorm van een ster, die ingelegd is met olie strass-stenen. De riem is 5cm. breed, is rond gesneden waardoor deze mooi op de heupen valt. Riem is ook als een afhang-ceintuur te dragen. Deze riem is ook leverbaar in 4cm.  breedte. Een mooie riem voor op al je feestelijke kleding!
-  Updated: 2026-04-14T18:25:26Z
+  Updated: 2026-05-12T16:07:25Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
@@ -35,7 +35,7 @@
     Availability: Available
     Price: € 29,95 EUR
 - [Zwarte lak dames riem](https://afdelingriemen.nl/products/zwarte-lak-dames-riem): Mooie zwart leren lak riem 4cm. breed met een mooie rechthoekige gesp. De gesp is ingelegd met echte strass steentjes. De lengte van de gesp is 8cm. en de breedte is 4cm. De riem is rond gesneden waardoor deze mooi op de heupen valt. Een mooie riem voor al je feestelijke kleding die je outfit zeker afmaakt!
-  Updated: 2026-04-21T18:03:05Z
+  Updated: 2026-05-12T16:07:27Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
@@ -101,7 +101,7 @@
     Availability: Available
     Price: € 29,95 EUR
 - [Rode leren jeansriem](https://afdelingriemen.nl/products/rode-leren-jeansriem): Rode leren jeansriem sportief. De riem is 4cm. breed. Deze rode leren riem is van glad, soepel leer gemaakt en kan ook gedragen worden als dames riem. Als jeansriem heel goed,maar zeker ook mooi te dragen op een vrijetijdsbroek of chino en zelfs op een zomerjurkje.
-  Updated: 2026-04-22T15:33:54Z
+  Updated: 2026-05-12T16:07:29Z
   Vendor: JV Belts
   Product Type: 
   Availability: Available
@@ -165,30 +165,6 @@
     Price: € 39,95 EUR
   - [95](https://afdelingriemen.nl/products/blauwe-sportieve-riem?variant=43491764994118)
     Availability: Available
-    Price: € 39,95 EUR
-- [Bruine suede heren riem](https://afdelingriemen.nl/products/bruine-suede-heren-riem): Bruine suede heren riem 4cm. breed. Afgewerkt met oranje stiksel. De riemen van het merk Bellido Sport hebben een mooie uitstraling. Het fraaie en softe suede en de verdere materialen zijn van hoogwaardige kwaliteit. Deze riem staat vooral mooi in een jeans of chino.
-  Updated: 2026-04-22T15:33:57Z
-  Vendor: Miguel Bellido Sport
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0585/3813/1526/files/575-br-ornaje.jpg?v=1751290955
-  - [90](https://afdelingriemen.nl/products/bruine-suede-heren-riem?variant=43491765026886)
-    Availability: Available
-    Price: € 39,95 EUR
-  - [95](https://afdelingriemen.nl/products/bruine-suede-heren-riem?variant=43491765059654)
-    Availability: Available
-    Price: € 39,95 EUR
-  - [100](https://afdelingriemen.nl/products/bruine-suede-heren-riem?variant=43491765092422)
-    Availability: Available
-    Price: € 39,95 EUR
-  - [105](https://afdelingriemen.nl/products/bruine-suede-heren-riem?variant=43491765125190)
-    Availability: Not Available
-    Price: € 39,95 EUR
-  - [110](https://afdelingriemen.nl/products/bruine-suede-heren-riem?variant=43491765157958)
-    Availability: Not Available
-    Price: € 39,95 EUR
-  - [115](https://afdelingriemen.nl/products/bruine-suede-heren-riem?variant=43491765190726)
-    Availability: Not Available
     Price: € 39,95 EUR
 - [Bruine suede jeans riem](https://afdelingriemen.nl/products/bruine-suede-jeans-riem): Bruine suede jeansriem 4cm. breed. Afgewerkt met een lichtblauwe stiknaad.De riemen van het merk Bellido Sport zijn riemen met een stijlvolle uitstraling. Het fraaie en softe suede is van hoogwaardige kwaliteit. Deze riem staat vooral mooi in een jeans of chino maar kan ook gedragen worden in een pantalon.
   Updated: 2026-04-22T15:33:58Z
@@ -281,7 +257,7 @@
     Availability: Available
     Price: € 39,95 EUR
 - [Rode heren jeans riem - 4 cm breed](https://afdelingriemen.nl/products/rode-jeans-riem): Rode jeans riem 4cm. breed met fantasieprint. Afgewerkt met blauwe kanten. Deze stoere en sportieve riem is in Spanje met de hand gemaakt en is van het bekende merk Miguel Bellido. Het fraaie en soepele leer is voorzien van een fantasieprint. Deze riem staat vooral uitstekend in een jeans of chino. Zowel voor een dame
-  Updated: 2026-04-23T07:10:53Z
+  Updated: 2026-05-08T11:05:09Z
   Vendor: Miguel Bellido Sport
   Product Type: 
   Availability: Available
@@ -302,10 +278,10 @@
     Availability: Available
     Price: € 39,95 EUR
   - [115](https://afdelingriemen.nl/products/rode-jeans-riem?variant=43491766665286)
-    Availability: Not Available
+    Availability: Available
     Price: € 39,95 EUR
 - [Jeans riem camel](https://afdelingriemen.nl/products/jeans-riem-camel): Camelkleurige jeans riem 4cm. breed. Deze sportieve riem heeft een mooie vierkante gesp. De riem is van duurzaam soepel leer en heeft fraai afgewerkte randen.Vooral mooi op jeans of in een andere stoere broek.
-  Updated: 2026-04-21T19:35:37Z
+  Updated: 2026-05-12T16:07:31Z
   Vendor: JV Belts
   Product Type: 
   Availability: Available
@@ -332,7 +308,7 @@
     Availability: Available
     Price: € 29,95 EUR
 - [dames riem donkerbruin](https://afdelingriemen.nl/products/dames-riem-donkerbruin): Donkerbruine dames riem 4cm. breed. Deze casual dames riem heeft een mooie zilverkleurige en nikkelvrije gesp en is van soepel leer. Een goede sierriem voor in een pantalon of bij een kostuum.
-  Updated: 2026-04-21T19:35:39Z
+  Updated: 2026-05-12T16:07:32Z
   Vendor: JV Belts
   Product Type: 
   Availability: Available
@@ -359,7 +335,7 @@
     Availability: Available
     Price: € 29,95 EUR
 - [dames riem cognac](https://afdelingriemen.nl/products/dames-riem-cognac): Cognackleurige dames riem 4cm. breed. Deze casual riem is van soepel leer en heeft een mooie zilverkleurige en nikkelvrije gesp. Een mooie riem voor in een pantalon of bij een kostuum.
-  Updated: 2026-04-21T19:35:40Z
+  Updated: 2026-05-12T16:07:34Z
   Vendor: JV Belts
   Product Type: 
   Availability: Available
@@ -386,7 +362,7 @@
     Availability: Not Available
     Price: € 29,95 EUR
 - [Dames riem zwart](https://afdelingriemen.nl/products/dames-riem-zwart): Zwarte dames riem 4cm. breed. Deze casual dames riem is van soepel leer en heeft een mooie zilverkleurige en nikkelvrije gesp. Een mooie riem voor in een pantalon of in een spijkerbroek.
-  Updated: 2026-04-21T19:35:42Z
+  Updated: 2026-05-12T16:07:36Z
   Vendor: JV Belts
   Product Type: 
   Availability: Available
@@ -410,7 +386,7 @@
     Availability: Available
     Price: € 29,95 EUR
   - [120](https://afdelingriemen.nl/products/dames-riem-zwart?variant=43491768696902)
-    Availability: Available
+    Availability: Not Available
     Price: € 29,95 EUR
 - [Zwarte fantasie vlecht riem heren](https://afdelingriemen.nl/products/zwarte-fantasie-vlecht-riem-heren): Zwarte fantasie vlecht riem heren 3,5 cm breed. Deze aparte heren vlecht riem is van soepel leer en heeft een mooie zilverkleurige en nikkelvrije gesp.Een fijne riem voor in een pantalon of in jeans of chino.
   Updated: 2026-04-21T19:35:43Z
@@ -563,14 +539,14 @@
     Availability: Not Available
     Price: € 29,95 EUR
 - [Echt lerenriem cognac](https://afdelingriemen.nl/products/echt-lerenriem-cognac): Echt lerenriem 3,5cm. cognac. Deze mooie riem met sleufjes past altijd. Mooi op een broek of jeans en zowel voor een vrouw als een man te dragen.
-  Updated: 2026-04-21T19:35:50Z
+  Updated: 2026-05-12T16:07:37Z
   Vendor: JV Belts
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/3813/1526/files/img-0434.jpg?v=1751290918
   Price: € 29,95 EUR
 - [Heren-dames riem bruin nubuck leer](https://afdelingriemen.nl/products/heren-dames-riem-bruin-nubuck-leer): Heren-dames riem bruin nubuck leer 3,5cm. Dit is een sportieve riem van hoogwaardige kwaliteit en die heel soepel in het dragen is. De gesp is van matzilver materiaal en nikkelvrij.Een mooie riem op een pantalon of kostuum, maar ook in jeans of chino.
-  Updated: 2026-04-21T19:35:51Z
+  Updated: 2026-05-12T16:07:39Z
   Vendor: JV Belts
   Product Type: 
   Availability: Available
@@ -645,7 +621,7 @@
     Availability: Available
     Price: € 29,95 EUR
 - [Jeans riem tabakbruin met studs](https://afdelingriemen.nl/products/jeans-riem-tabakbruin-met-studs): Jeans riem 4cm. tabakbruin met studs en donkerbruine tussenstukjes. De riem is gemaakt van glad stevig leer en is van het merk Gilmart uit Spanje. Deze riem kan gedragen worden zowel door een vrouw als een man. Stoer in een jeans of chino of andere vrijetijdsbroek.
-  Updated: 2026-04-22T15:34:08Z
+  Updated: 2026-05-12T16:07:41Z
   Vendor: Gilmart
   Product Type: 
   Availability: Available
@@ -1052,7 +1028,7 @@
     Availability: Available
     Price: € 39,95 EUR
 - [Jeans riem vintage bruin](https://afdelingriemen.nl/products/jeans-riem-vintage-bruin): Vintage bruine jeans riem 4cm. breed. Deze vintage bruine riem heeft een stoere uitstraling en is van soepel leer. De vierkante matte platte gesp met dikke doorn past hier perfect bij. Vooral geschikt voor in een pantalon of op jeans of chino.
-  Updated: 2026-04-21T19:36:23Z
+  Updated: 2026-05-12T16:07:42Z
   Vendor: JV Belts
   Product Type: 
   Availability: Available
@@ -1073,7 +1049,7 @@
     Availability: Available
     Price: € 29,95 EUR
 - [Donkere taupe heren riem](https://afdelingriemen.nl/products/donkere-taupe-heren-riem): Donkere taupe heren riem. Deze riem is 4cm breed en heeft een silver satinato kleurige gesp. Gratis verzending!
-  Updated: 2026-04-22T15:34:17Z
+  Updated: 2026-05-04T10:32:37Z
   Vendor: JV Belts
   Product Type: 
   Availability: Available
@@ -1091,7 +1067,7 @@
     Availability: Available
     Price: € 29,95 EUR
   - [110](https://afdelingriemen.nl/products/donkere-taupe-heren-riem?variant=43491775709254)
-    Availability: Available
+    Availability: Not Available
     Price: € 29,95 EUR
 - [Mooie bruine pantalonriem](https://afdelingriemen.nl/products/mooie-bruine-pantalonriem): Mooie donkerbruine pantalon riem 3,5cm. breed. Deze riem is gebolleerd en heeft aan beide zijde een stiknaad. Het fraaie en soepele leer en de verdere materialen zijn van hoogwaardige en duurzame kwaliteit en met nikkelvrije gespen. Deze riem staat vooral mooi op een pantalon of op een kostuum.
   Updated: 2026-04-22T15:34:19Z
@@ -1148,7 +1124,7 @@
     Availability: Available
     Price: € 29,95 EUR
 - [Stoere jeans riem bruin](https://afdelingriemen.nl/products/stoere-jeans-riem-bruin): Stoere jeansriem bruin 3,5cm. breed. Mooie eenvoudige jeansriem van hoogwaardig en stevig leder. Staat goed op een sportieve broek of jeans.
-  Updated: 2026-04-21T19:36:27Z
+  Updated: 2026-05-12T16:07:44Z
   Vendor: JV Belts
   Product Type: 
   Availability: Available
@@ -1202,7 +1178,7 @@
     Availability: Available
     Price: € 24,95 EUR
 - [Mooie klassieke midden bruine dames ceintuur](https://afdelingriemen.nl/products/mooie-klassieke-midden-bruine-dames-ceintuur): Klassieke midden bruine gebolleerde dames ceintuur die aan beide zijden doorgestikt is met een mooie witte stiknaad. De ceintuur is 2,5cm. breed. Een leuk riempje om te combineren met een rokje en jurkje of pantalon en zowel te dragen op de kleding als erin.
-  Updated: 2026-04-14T18:31:42Z
+  Updated: 2026-05-12T16:07:46Z
   Vendor: JV Belts
   Product Type: 
   Availability: Available
@@ -1319,7 +1295,7 @@
     Availability: Available
     Price: € 39,95 EUR
 - [Unisex riem bruin/groen](https://afdelingriemen.nl/products/unisex-riem-bruin-groen): Unisex riem bruin/groen 3,5breed. Deze riem met army look print is een stoere vrijetijdsriem. Mooie kwaliteit leer en met een mooie zilverkleurige gesp die nikkelvrij is. Dit is een riem die uitstekend past bij een jeans of chino en andere vrijetijdskleding.
-  Updated: 2026-04-14T18:32:13Z
+  Updated: 2026-05-12T16:07:47Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
@@ -1331,7 +1307,7 @@
     Availability: Available
     Price: € 29,95 EUR
 - [Unisex riem army look](https://afdelingriemen.nl/products/unisex-riem-army-look): Unisex riem army look 3,5cm. breed. Deze riem met 3-kleurige print is een stoere vrijetijdsriem. Mooie kwaliteit leer en met een mooie zilverkleurige gesp die nikkelvrij is. Dit is een riem die uitstekend past bij een jeans of chino en andere vrijetijdskleding.
-  Updated: 2026-04-21T18:03:15Z
+  Updated: 2026-05-12T16:07:49Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
@@ -1370,7 +1346,7 @@
     Availability: Not Available
     Price: € 29,95 EUR
 - [Dames  ceintuur lichtgrijs](https://afdelingriemen.nl/products/dames-ceintuur-lichtgrijs): Dames ceintuur lichtgrijs 4 cm.
-  Updated: 2026-04-21T19:36:34Z
+  Updated: 2026-05-12T16:07:50Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
@@ -1408,42 +1384,20 @@
   - [120](https://afdelingriemen.nl/products/reversibel-riem-rood-zwart?variant=43491781115974)
     Availability: Not Available
     Price: € 29,95 EUR
-- [Dames riem geel nubuck](https://afdelingriemen.nl/products/dames-riem-geel-nubuck): Gele nubuck dames ceintuur 2,5 cm. Chique eigentijdse dames ceintuur van nubuck leer met aan beide zijden een mooie stiknaad. Het mooie vierkante gespje is van hoogwaardig materiaal en zilverkleurig en nikkelvrij. _x000D_
-Uitstekend te dragen op een pantalon of bij andere casual kleding zoals een jurk.
-  Updated: 2026-04-21T22:00:31Z
-  Vendor: JV Belts
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0585/3813/1526/files/img-0154.jpg?v=1751290826
-  - [85](https://afdelingriemen.nl/products/dames-riem-geel-nubuck?variant=43491781148742)
-    Availability: Available
-    Price: € 29,95 EUR
-  - [90](https://afdelingriemen.nl/products/dames-riem-geel-nubuck?variant=43491781181510)
-    Availability: Available
-    Price: € 29,95 EUR
-  - [95](https://afdelingriemen.nl/products/dames-riem-geel-nubuck?variant=43491781214278)
-    Availability: Available
-    Price: € 29,95 EUR
-  - [100](https://afdelingriemen.nl/products/dames-riem-geel-nubuck?variant=43491781247046)
-    Availability: Available
-    Price: € 29,95 EUR
-  - [105](https://afdelingriemen.nl/products/dames-riem-geel-nubuck?variant=43491781279814)
-    Availability: Not Available
-    Price: € 29,95 EUR
 - [Taupe nubuck dames riem](https://afdelingriemen.nl/products/taupe-nubuck-dames-riem): Taupekleurige nubuck dames ceintuur 2,5 cm. Chique eigentijdse dames ceintuur van nubuck leer met aan beide zijden een mooie stiknaad. Uitstekend te dragen op een pantalon of bij andere casual kleding zoals een jurk.
-  Updated: 2026-04-21T22:00:32Z
+  Updated: 2026-05-12T16:07:54Z
   Vendor: JV Belts
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/3813/1526/files/520-taupe.jpg?v=1751290824
   - [85](https://afdelingriemen.nl/products/taupe-nubuck-dames-riem?variant=43491781476422)
-    Availability: Available
+    Availability: Not Available
     Price: € 29,95 EUR
   - [90](https://afdelingriemen.nl/products/taupe-nubuck-dames-riem?variant=43491781509190)
-    Availability: Available
+    Availability: Not Available
     Price: € 29,95 EUR
   - [95](https://afdelingriemen.nl/products/taupe-nubuck-dames-riem?variant=43491781541958)
-    Availability: Available
+    Availability: Not Available
     Price: € 29,95 EUR
   - [100](https://afdelingriemen.nl/products/taupe-nubuck-dames-riem?variant=43491781574726)
     Availability: Available
@@ -1454,7 +1408,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding zoals een jurk
 - [Heren riem bruin 3cm breed - kroko print](https://afdelingriemen.nl/products/heren-riem-bruin): Bruine heren riem  3cm. breed. Prachtige heren riem vervaardigd uit hoogwaardig en duurzaam leder._x000D_
 Deze riem is in Spanje gemaakt.  Voorzien van een mooie stiknaad. De gesp is zilverkleurig en nikkelvrij._x000D_
 Een geweldige riem op een kostuum of in een pantalon.
-  Updated: 2026-04-23T06:40:13Z
+  Updated: 2026-04-29T11:56:45Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
@@ -1496,7 +1450,7 @@ Een geweldige riem op een kostuum of in een pantalon.
     Availability: Available
     Price: € 39,95 EUR
 - [Camel kleurige nubuck dames ceintuur](https://afdelingriemen.nl/products/camel-kleurige-nubuck-dames-ceintuur): Camel kleurige nubuck dames ceintuur 2,5cm. Chique, elegant en eigentijdse dames ceintuur van nubuck leer met aan beide zijden een mooie stiknaad. Uitstekend te dragen op een pantalon of bij andere casual kleding zoals een jurk.
-  Updated: 2026-04-21T22:00:33Z
+  Updated: 2026-05-12T16:07:55Z
   Vendor: JV Belts
   Product Type: 
   Availability: Available
@@ -1517,7 +1471,7 @@ Een geweldige riem op een kostuum of in een pantalon.
     Availability: Not Available
     Price: € 29,95 EUR
 - [Damesceintuur bruin met spikkels](https://afdelingriemen.nl/products/damesceintuur-bruin-met-spikkels): Damesceintuur bruin met spikkels 3,5 cm.
-  Updated: 2026-04-14T18:33:22Z
+  Updated: 2026-05-12T16:07:57Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
@@ -1529,7 +1483,7 @@ Een geweldige riem op een kostuum of in een pantalon.
     Availability: Available
     Price: € 29,95 EUR
 - [Damesceintuur zwart met spikkels](https://afdelingriemen.nl/products/damesceintuur-zwart-met-spikkels): Damesceintuur zwart met spikkels 3,5cm. Toffe eigentijdse damesceintuur van zwart leer. Op het leer zitten allemaal kleine spikkels. De mooie ronde gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij. Uitstekend te dragen op een pantalon of bij al je favoriete kleding.
-  Updated: 2026-04-14T18:33:24Z
+  Updated: 2026-05-12T16:07:59Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
@@ -1541,7 +1495,7 @@ Een geweldige riem op een kostuum of in een pantalon.
     Availability: Available
     Price: € 29,95 EUR
 - [Damesceintuur pewter](https://afdelingriemen.nl/products/damesceintuur-pewter): Damesceintuur pewter 4 cm.
-  Updated: 2026-04-21T19:36:46Z
+  Updated: 2026-05-12T16:08:00Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
@@ -1556,7 +1510,7 @@ Een geweldige riem op een kostuum of in een pantalon.
     Availability: Available
     Price: € 29,95 EUR
 - [Damesceintuur geprent zwart](https://afdelingriemen.nl/products/damesceintuur-geprent-zwart): Damesceintuur geprent zwart 4cm. Toffe eigentijdse damesceintuur met een relief structuur. De mooie ronde gesp is van hoogwaardig materiaal en is zilverkleurig en nikkelvrij. Uitstekend te dragen op een pantalon of bij andere casual kleding.
-  Updated: 2026-04-21T19:36:47Z
+  Updated: 2026-05-12T16:08:02Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
@@ -1570,7 +1524,7 @@ Een geweldige riem op een kostuum of in een pantalon.
 - [Damesceintuur donker blauw](https://afdelingriemen.nl/products/damesceintuur-donker-blauw): Damesceintuur geprent donker blauw. Toffe eigentijdse damesceintuur donker blauw met allemaal geprente kleine bloempjes.
 De mooie ronde gesp is van hoogwaardig materiaal en zilverkleurig en nikkel.
 Uitstekend te dragen op een pantalon of bij andere casual kleding.
-  Updated: 2026-04-21T19:45:46Z
+  Updated: 2026-05-12T16:08:04Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
@@ -1588,7 +1542,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
 Toffe eigentijdse damesceintuur donker blauw met een dikke doorngesp.
 De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij.
 Uitstekend te dragen op een pantalon of bij andere casual kleding.
-  Updated: 2026-04-21T18:03:20Z
+  Updated: 2026-05-12T16:08:05Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
@@ -1603,7 +1557,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Damesceintuur zwart](https://afdelingriemen.nl/products/damesceintuur-zwart): Nette zwarte dames ceintuur. De ceintuur is 2cm. breed en heeft een mooi rond gespje dat nikkelvrij is. Een leuk riempje om te combineren met een rokje en jurkje of pantalon en zowel te dragen op de kleding als erin. Een riempje om vaak te dragen!
-  Updated: 2026-04-21T18:03:22Z
+  Updated: 2026-05-12T16:08:07Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
@@ -1615,7 +1569,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 19,95 EUR
 - [Damesceintuur zwart crackle](https://afdelingriemen.nl/products/damesceintuur-zwart-crackle): Damesceintuur zwart crackle leder. Toffe eigentijdse damesceintuur 2cm. breed zwart. Het leer heeft een vintage look. De vierkante gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij. Uitstekend te dragen op een pantalon of bij andere casual kleding.
-  Updated: 2026-04-21T22:00:36Z
+  Updated: 2026-05-12T16:08:09Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
@@ -1627,7 +1581,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 19,95 EUR
 - [Damesceintuur zwart met dubbele doorn](https://afdelingriemen.nl/products/damesceintuur-zwart-met-dubbele-doorn): Damesceintuur zwart 5cm breed met dubbele doorn gesp. Het leer heeft een wafel patroon en is recht gesneden. Uitstekend te dragen op een jeans of bij andere casual kleding.
-  Updated: 2026-04-21T18:03:23Z
+  Updated: 2026-05-12T16:08:11Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
@@ -1642,7 +1596,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Damesceintuur bruin met dubbele doorn](https://afdelingriemen.nl/products/damesceintuur-bruin-met-dubbele-doorn): Damesceintuur bruin 5cm. breed met dubbele doorn gesp. Het leer heeft een wafel patroon en is recht gesneden. De gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij. Uitstekend te dragen op een jeans of bij andere casual kleding.
-  Updated: 2026-04-14T18:33:50Z
+  Updated: 2026-05-12T16:08:12Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
@@ -1654,7 +1608,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Stoere jeansriem zwart](https://afdelingriemen.nl/products/stoere-jeansriem-zwart): Stoere jeansriem 5cm. breed. Mooi soepel glad leer en de zijkanten zijn afgewerkt met een zg. half cross steek. Een mooie riem op een jeans of bij andere casual kleding. De gesp heeft een vintage look en is nikkelvrij.
-  Updated: 2026-04-21T18:03:24Z
+  Updated: 2026-05-12T16:08:14Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
@@ -1666,14 +1620,14 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 29,95 EUR
 - [Damesceintuur zwart](https://afdelingriemen.nl/products/damesceintuur-zwart-1): Zwarte dames riem 5cm. breed. Deze stoere dames riem is van hoogwaardig soepel leer met mooi afgewerkte randen. Vooral geschikt op jeans of een andere sportieve broek. Van deze jeansriem zul je jarenlang plezier hebben!
-  Updated: 2026-04-21T18:03:26Z
+  Updated: 2026-05-12T16:08:15Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/3813/1526/files/img-0437.jpg?v=1751290784
   Price: € 29,95 EUR
 - [Jeansriem bruin](https://afdelingriemen.nl/products/jeansriem-bruin): Bruine jeansriem 4cm. breed. Deze stoere jeansriem is van hoogwaardig soepel leer met mooi afgewerkte randen. Vooral geschikt op jeans of een andere sportieve broek. Van deze jeansriem zul je jarenlang plezier hebben!
-  Updated: 2026-04-21T19:36:50Z
+  Updated: 2026-05-12T16:08:17Z
   Vendor: JV Belts
   Product Type: 
   Availability: Available
@@ -1860,7 +1814,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 39,95 EUR
 - [Dames riem zwart](https://afdelingriemen.nl/products/dames-riem-zwart-1): Zwarte dames ceintuur 4cm. met een dubbele (grote) gesp. De mooie gesp met ronde hoeken is van hoogwaardig materiaal en zilverkleurig en nikkelvrij. Mooi te dragen op een pantalon of bij je andere favoriete kleding.
-  Updated: 2026-04-21T19:37:03Z
+  Updated: 2026-05-12T16:08:19Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
@@ -1872,7 +1826,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Damesceintuur cognac](https://afdelingriemen.nl/products/damesceintuur-cognac-1): Damesceintuur cognac met een dikke doorngesp. Toffe eigentijdse damesceintuur van 3,5cm. breed. De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij. Uitstekend te dragen op een pantalon of bij andere casual kleding.
-  Updated: 2026-04-21T18:03:31Z
+  Updated: 2026-05-12T16:08:21Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
@@ -1884,7 +1838,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 29,95 EUR
 - [dames riem leer fuchsia roze](https://afdelingriemen.nl/products/dames-riem-leer-fuchsia-roze): Leren fuchsia roze dames riem. De dames riem heeft een eigentijds gevarieerd patroon . De riem is 3cm. breed en is afgewerkt met een rechthoekige gesp. De gesp is gemaakt van hoogwaardig materiaal en is zilverkleurig. Ook deze gesp is nikkelvrij. Je kunt deze dames riem dragen door je jeans of broek, maar staat tevens
-  Updated: 2026-04-21T18:03:32Z
+  Updated: 2026-05-12T16:08:24Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -1905,7 +1859,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 29,95 EUR
 - [Dames riem bruin/ brons met slangenprint](https://afdelingriemen.nl/products/dames-riem-bruin-brons-met-slangenprint): Mooie leren bruin/bronzen dames riem met slangenprint. Deze dames riem heeft glitter details en is gemaakt van hoogwaardig leer. De riem is 4cm. breed. De gevormde gesp is van hoogwaardig materiaal en goudkleurig. Ook deze gesp is nikkelvrij. Je kunt deze dames riem zowel dragen over als in je kleding.
-  Updated: 2026-04-22T15:34:37Z
+  Updated: 2026-05-12T16:08:26Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -1926,7 +1880,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 29,95 EUR
 - [Leren bruin/bronzen dames riem met slangenprint](https://afdelingriemen.nl/products/leren-bruin-bronzen-dames-riem-met-slangenprint): Leren bruin/bronzen dames riem met slangenprint. Deze dames riem heeft glitter details en is gemaakt van hoogwaardig leer. Deze dames riem is 3cm. breed. De gevormde gesp is van hoogwaardig materiaal en mat goudkleurig. Ook deze gesp is nikkelvrij. Je kunt deze dames riem zowel dragen over als in je kleding.
-  Updated: 2026-04-22T15:34:38Z
+  Updated: 2026-05-12T16:08:27Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -1944,7 +1898,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 29,95 EUR
 - [Leren witte dames riem met slangenprint](https://afdelingriemen.nl/products/leren-witte-dames-riem-met-slangenprint): Leren witte dames riem met slangenprint. Deze dames riem heeft glitter details en is gemaakt van hoogwaardig leer. Deze dames riem is 3cm. breed. De gevormde gesp is van hoogwaardig materiaal en mat goudkleurig. Ook deze gesp is nikkelvrij. Je kunt deze dames riem zowel dragen over als in je kleding.
-  Updated: 2026-04-22T15:34:40Z
+  Updated: 2026-05-12T16:08:29Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -1962,7 +1916,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 29,95 EUR
 - [Dames riem wit met slangenprint](https://afdelingriemen.nl/products/dames-riem-wit-met-slangenprint): Leren witte dames riem met slangenprint. Deze dames riem heeft zilveren details en is gemaakt van hoogwaardig leer. Deze dames riem is 3cm. breed.De gevormde gesp is van hoogwaardig materiaal en zilverkleurig. Ook deze gesp is nikkelvrij. Je kunt deze dames riem zowel dragen over als in je kleding.
-  Updated: 2026-04-22T15:34:41Z
+  Updated: 2026-05-12T16:08:31Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -1980,7 +1934,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 29,95 EUR
 - [Gouden dames riem met slangenprint](https://afdelingriemen.nl/products/gouden-dames-riem-met-slangenprint): Leren gouden dames riem met slangenprint. Deze dames riem heeft glitter details en is gemaakt van hoogwaardig leer. Deze dames riem is 3cm. breed. De riem heeft een nikkelvrije gesp en is geborsteld voor een vintage look. Je kunt deze dames riem zowel dragen op als in je kleding.
-  Updated: 2026-04-22T15:34:42Z
+  Updated: 2026-05-12T16:08:33Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2001,7 +1955,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 29,95 EUR
 - [Blauwe dames riem met slangenprint](https://afdelingriemen.nl/products/blauwe-dames-riem-met-slangenprint): Blauwe dames riem met slangenprint. Deze dames riem heeft glitter details en is gemaakt van hoogwaardig leer. Deze dames riem is 3cm. breed. De riem heeft een nikkelvrije gesp en is gevormd voor een unieke look. Je kunt deze dames riem zowel dragen op als in je kleding.
-  Updated: 2026-04-22T15:34:43Z
+  Updated: 2026-05-12T16:08:35Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2019,7 +1973,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 29,95 EUR
 - [Witte jeans riem met gleufjes](https://afdelingriemen.nl/products/witte-jeans-riem-met-gleufjes): Witte jeans riem met gleufjes. Deze gleufjes zitten over de hele lengte van de riem en daarom past deze stoere riem altijd. De breedte van de riem is 4cm. Deze riem heeft een stoere vintage gesp in een geborstelde zilveren kleur. Uitstekend te dragen bij je casual kleding.
-  Updated: 2026-04-21T19:37:13Z
+  Updated: 2026-05-12T16:08:36Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2028,13 +1982,13 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
   - [95](https://afdelingriemen.nl/products/witte-jeans-riem-met-gleufjes?variant=43491790323782)
-    Availability: Available
+    Availability: Not Available
     Price: € 29,95 EUR
   - [105](https://afdelingriemen.nl/products/witte-jeans-riem-met-gleufjes?variant=43491790356550)
     Availability: Not Available
     Price: € 29,95 EUR
 - [Bruine jeans riem met gleufjes](https://afdelingriemen.nl/products/bruine-jeans-riem-met-gleufjes): Bruine jeansriem met gleufjes. Deze gleufjes zitten over de hele lengte van de riem en daarom past deze stoere riem altijd. De breedte van de riem is 4cm. Deze riem heeft een stoere vintage gesp in een geborstelde zilveren kleur. Uitstekend te dragen bij je casual kleding.
-  Updated: 2026-04-21T19:37:15Z
+  Updated: 2026-05-12T16:08:38Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2049,7 +2003,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 29,95 EUR
 - [Broekriem blauw met gleufjes](https://afdelingriemen.nl/products/broekriem-blauw-met-gleufjes): Blauwe broek riem met gleufjes. Deze gleufjes zitten over de hele lengte van de riem en daarom past deze stoere jeansriem altijd. De breedte van de riem is 4cm. Deze riem heeft een stoere vintage gesp in een geborstelde zilveren kleur. Uitstekend te dragen bij je casual kleding.
-  Updated: 2026-04-21T19:37:16Z
+  Updated: 2026-05-12T16:08:39Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2064,7 +2018,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Cognac broekriem met gleufjes](https://afdelingriemen.nl/products/cognac-broekriem-met-gleufjes): Cognac jeansriem met gleufjes. Deze gleufjes zitten over de hele lengte van de riem en daarom past deze stoere jeansriem altijd. De breedte van de riem is 4cm. Deze riem heeft een stoere vintage gesp in een geborstelde zilveren kleur. Uitstekend te dragen bij je casual kleding.
-  Updated: 2026-04-21T19:37:18Z
+  Updated: 2026-05-12T16:08:41Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2079,7 +2033,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 29,95 EUR
 - [Donker grijze broekriem met gleufjes](https://afdelingriemen.nl/products/donker-grijze-broekriem-met-gleufjes): Donker grijze jeansriem met gleufjes. Deze gleufjes zitten over de hele lengte van de riem en daarom past deze stoere jeansriem altijd. De breedte van de riem is 4cm. Deze riem heeft een stoere vintage gesp in een geborstelde zilveren kleur. Uitstekend te dragen bij je casual kleding.
-  Updated: 2026-04-21T19:37:19Z
+  Updated: 2026-05-12T16:08:43Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2094,7 +2048,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 29,95 EUR
 - [Zalmroze broekriem met gleufjes](https://afdelingriemen.nl/products/zalmroze-broekriem-met-gleufjes): Zalmroze jeansriem met gleufjes. Deze gleufjes zitten over de hele lengte van de riem en daarom past deze stoere jeansriem altijd. De breedte van de riem is 4cm. Deze riem heeft een stoere vintage gesp in een geborstelde zilveren kleur. Uitstekend te dragen bij je casual kleding.
-  Updated: 2026-04-21T19:37:20Z
+  Updated: 2026-05-12T16:08:44Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2109,14 +2063,14 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Dames riem goud met slangenprint](https://afdelingriemen.nl/products/dames-riem-goud-met-slangenprint): Dames ceintuur goud met glitters. Toffe eigentijdse dames riem 3cm. breed. Uitstekend te dragen op een pantalon of bij andere casual kleding.
-  Updated: 2026-04-22T15:34:45Z
+  Updated: 2026-05-12T16:08:46Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/3813/1526/files/28.jpg?v=1751290735
   - [85](https://afdelingriemen.nl/products/dames-riem-goud-met-slangenprint?variant=43491791568966)
     Availability: Available
-    Price: € 36,95 EUR
+    Price: € 29,95 EUR
   - [90](https://afdelingriemen.nl/products/dames-riem-goud-met-slangenprint?variant=43491791601734)
     Availability: Not Available
     Price: € 29,95 EUR
@@ -2127,7 +2081,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 29,95 EUR
 - [Dames ceintuur zwart met slangenprint](https://afdelingriemen.nl/products/dames-ceintuur-zwart-met-slangenprint): Mooie dames ceintuur zwart met slangenprint. Leuke eigentijdse dames ceintuur 3cm. breed. Uitstekend te dragen op een pantalon of andere chiquere kleding.
-  Updated: 2026-04-22T15:34:46Z
+  Updated: 2026-05-12T16:08:48Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2145,7 +2099,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Dames ceintuur rood tweed](https://afdelingriemen.nl/products/dames-ceintuur-rood-tweed): Dames ceintuur rood met tweedmotief. Toffe eigentijdse dames ceintuur 3cm. breed. De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij. Uitstekend te dragen op een pantalon of bij andere casual kleding.
-  Updated: 2026-04-22T15:34:47Z
+  Updated: 2026-05-12T16:08:50Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2163,7 +2117,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Dames ceintuur blauw tweed](https://afdelingriemen.nl/products/dames-ceintuur-blauw-tweed): Dames ceintuur blauw tweed. Toffe eigentijdse dames ceintuur 3cm. breed. De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij. Uitstekend te dragen op een pantalon of bij andere casual kleding.
-  Updated: 2026-04-22T15:34:49Z
+  Updated: 2026-05-12T16:08:52Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2181,7 +2135,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Dames ceintuur roze tweed](https://afdelingriemen.nl/products/dames-ceintuur-roze-tweed): Dames ceintuur roze met tweedmotief. Toffe eigentijdse dames ceintuur 3cm. breed. De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij. Uitstekend te dragen op een pantalon of bij andere casual kleding.
-  Updated: 2026-04-22T15:34:50Z
+  Updated: 2026-05-12T16:08:53Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2196,7 +2150,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Dames ceintuur zwart tweed](https://afdelingriemen.nl/products/dames-ceintuur-zwart-tweed): Dames ceintuur zwart met tweed motief. Toffe eigentijdse dames ceintuur 3cm. breed. De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij. Uitstekend te dragen op een pantalon of bij andere casual kleding.
-  Updated: 2026-04-22T15:34:51Z
+  Updated: 2026-05-12T16:08:55Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2214,7 +2168,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Dames riem blauw tweed](https://afdelingriemen.nl/products/dames-riem-blauw-tweed): Leuke dames ceintuur blauw met tweed motief. De riem is 4cm. breed. Deze dames riem is uitstekend te dragen op een jeans, maar ook heel leuk op een jurkje of rok. De rechthoekige gesp is van hoogwaardig materiaal en is zilverkleurig en nikkelvrij.
-  Updated: 2026-04-22T15:34:53Z
+  Updated: 2026-05-12T16:08:56Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2235,7 +2189,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 29,95 EUR
 - [Dames riem rood tweed](https://afdelingriemen.nl/products/dames-riem-rood-tweed): Toffe dames ceintuur rood met tweed motief. De riem is 4cm. breed. Deze dames riem is uitstekend te dragen op een jeans of andere pantalon, maar is ook heel leuk op een jurkje of rok. De rechthoekige gesp is van hoogwaardig materiaal en is zilverkleurig en nikkelvrij.
-  Updated: 2026-04-22T15:34:54Z
+  Updated: 2026-05-12T16:08:58Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2256,7 +2210,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Dames ceintuur groen leopard](https://afdelingriemen.nl/products/dames-ceintuur-groen-leopard): Dames ceintuur groen met leopard print. Toffe eigentijdse dames ceintuur 3cm. breed. De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij. Uitstekend te dragen op een pantalon of bij andere casual kleding.
-  Updated: 2026-04-14T18:36:43Z
+  Updated: 2026-05-12T16:09:00Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2271,7 +2225,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 29,95 EUR
 - [Dames ceintuur brique leopard](https://afdelingriemen.nl/products/dames-ceintuur-brique-leopard): Dames ceintuur brique leopard. Toffe eigentijdse damesceintuur 3cm. breed. De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij. Uitstekend te dragen op een pantalon of bij andere casual kleding.
-  Updated: 2026-04-14T18:36:48Z
+  Updated: 2026-05-12T16:09:02Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2286,7 +2240,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Dames riem zwart/wit zebra](https://afdelingriemen.nl/products/dames-riem-zwart-wit-zebra): Damesceintuur zwart/wit met zebra motief. De riem is 3cm. breed. Deze zwart/wit damesceintuur is mooi draagbaar in een pantalon of jeans of andere casual kleding. De gesp is van hoogwaardig zilverkleurig materiaal en is nikkelvrij.
-  Updated: 2026-04-14T18:36:53Z
+  Updated: 2026-05-12T16:09:03Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2304,7 +2258,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Dames riem beige zebra](https://afdelingriemen.nl/products/dames-ceintuur-beige-geribbeld): Mooie damesceintuur beige geribbeld. Deze ceintuur is 3,5cm. breed. De riem is uitstekend te dragen op een pantalon of andere casual kleding. De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij.
-  Updated: 2026-04-14T18:36:58Z
+  Updated: 2026-05-12T16:09:05Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2313,16 +2267,16 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
   - [90](https://afdelingriemen.nl/products/dames-ceintuur-beige-geribbeld?variant=43491793371206)
-    Availability: Available
+    Availability: Not Available
     Price: € 29,95 EUR
   - [95](https://afdelingriemen.nl/products/dames-ceintuur-beige-geribbeld?variant=43491793403974)
     Availability: Available
     Price: € 29,95 EUR
   - [100](https://afdelingriemen.nl/products/dames-ceintuur-beige-geribbeld?variant=43491793436742)
-    Availability: Available
+    Availability: Not Available
     Price: € 29,95 EUR
 - [Dames ceintuur zwart zebra](https://afdelingriemen.nl/products/dames-ceintuur-zwart-zebra): Damesceintuur zwart met zebraprint. Toffe eigentijdse damesceintuur 3cm. breed. De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij. Uitstekend te dragen op een pantalon of bij andere casual kleding.
-  Updated: 2026-04-14T18:37:02Z
+  Updated: 2026-05-12T16:09:07Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2337,16 +2291,16 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Dames ceintuur groen lakleer](https://afdelingriemen.nl/products/dames-ceintuur-groen-lakleer): Eigentijdse dames riem groen lakleer. Deze damesceintuur is 2cm. breed. Prachtig te dragen op een pantalon, maar ook mooi op een jurkje of rok. De ronde gesp is van hoogwaardig materiaal en is zilverkleurig en nikkelvrij evenals de passanten.
-  Updated: 2026-04-14T18:37:08Z
+  Updated: 2026-05-12T16:09:08Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/3813/1526/files/198-groen.jpg?v=1751290716
   - [85](https://afdelingriemen.nl/products/dames-ceintuur-groen-lakleer?variant=43491793567814)
-    Availability: Available
+    Availability: Not Available
     Price: € 29,95 EUR
   - [90](https://afdelingriemen.nl/products/dames-ceintuur-groen-lakleer?variant=43491793600582)
-    Availability: Available
+    Availability: Not Available
     Price: € 29,95 EUR
   - [95](https://afdelingriemen.nl/products/dames-ceintuur-groen-lakleer?variant=43491793633350)
     Availability: Not Available
@@ -2358,7 +2312,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 29,95 EUR
 - [Smalle dames riem groen met print](https://afdelingriemen.nl/products/dames-riem-multicolor): Leuke damesceintuur multicolor. Eigentijdse damesceintuur 2cm. breed. Een leuke riem om te dragen in jeans of op een pantalon, maar ook leuk op een jurkje. De ovale gesp is van hoogwaardig materiaal en is zilverkleurig en nikkelvrij.
-  Updated: 2026-04-14T18:37:13Z
+  Updated: 2026-05-12T16:09:10Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2376,7 +2330,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Smalle dames riem roze/zilver met ovale gesp](https://afdelingriemen.nl/products/dames-riem-roze-zilver): Moderne dames ceintuur roze/zilver. Deze eigentijdse dames riem is 2cm. breed. Leuk te dragen op een jeans of pantalon en ook op andere casual kleding. De ovale gesp is van hoogwaardig materiaal en is zilverkleurig en nikkelvrij.
-  Updated: 2026-04-14T18:37:17Z
+  Updated: 2026-05-12T16:09:12Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2391,7 +2345,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Dames ceintuur wit met zilveren gesp](https://afdelingriemen.nl/products/dames-ceintuur-wit): Leuke witte damesceintuur. Deze eigentijdse dames riem is 2cm. breed. Aan deze riem zit een mooie dubbele ronde gesp die van zilverkleurig materiaal is en nikkelvrij is. Een hele leuke ceintuur die mooi te dragen is op een pantalon maar zeker ook heel goed zal staan op een jurkje of rok. Een riem die je outfit helemaal
-  Updated: 2026-04-22T15:34:55Z
+  Updated: 2026-05-12T16:09:13Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2406,7 +2360,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 29,95 EUR
 - [Dames riem bruin python 3 cm breed](https://afdelingriemen.nl/products/dames-riem-bruin-python): Elegante damesceintuur bruin met slangenprint motief. Deze dames riem is 3cm. breed. Uitstekend te dragen op een pantalon of dames broekpak maar ook heel mooi in een jeans of andere casual kleding. De beide gespen zijn goudkleurig en van hoogwaardig materiaal en nikkelvrij.
-  Updated: 2026-04-22T15:34:57Z
+  Updated: 2026-05-12T16:09:15Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2418,7 +2372,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Dames riem zwart met kleurmotieven](https://afdelingriemen.nl/products/dames-riem-zwart-met-kleurmotieven): Mooie zwarte dames riem met blauw en groene kleurmotieven.De riem is 4cm. breed. Uitstekend te dragen op een jeans maar kan ook mooi zijn op een jurkje.
-  Updated: 2026-04-22T15:34:58Z
+  Updated: 2026-05-12T16:09:17Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2436,7 +2390,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 29,95 EUR
 - [Dames ceintuur bruin metallic](https://afdelingriemen.nl/products/dames-ceintuur-bruin-metallic): Toffe dames riem bruin metallic in vintage look. Deze vintage damesceintuur is 4cm. breed. Uitstekend te dragen op een pantalon of bij andere basic kleding zoals een jeans of chino. De rechthoekige gesp is van hoogwaardig materiaal en is zilverkleurig en nikkelvrij.
-  Updated: 2026-04-22T15:34:59Z
+  Updated: 2026-05-12T16:09:18Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2448,7 +2402,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Dames riem blauw/grijs](https://afdelingriemen.nl/products/dames-riem-blauw-grijs): Mooie dames ceintuur in blauw/grijze tint. Deze dames riem is 4cm. breed. Uitstekend te dragen op een jeans of pantalon maar ook leuk bij andere basic kleding. Deze riem heeft een platte gesp die mooi bewerkt is en een oud-zilveren kleur heeft.
-  Updated: 2026-04-21T19:37:38Z
+  Updated: 2026-05-12T16:09:20Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2466,7 +2420,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 39,95 EUR
 - [Dames riem groenachtig](https://afdelingriemen.nl/products/dames-riem-groenachtig): Mooie dames ceintuur in groenachtige tint met kleur schakeringen. Deze dames riem is 4cm. breed. Uitstekend te dragen op een jeans of pantalon maar ook leuk bij andere basic kleding. Deze riem heeft een platte gesp die mooi bewerkt is en een oud-zilveren kleur heeft.
-  Updated: 2026-04-21T19:37:39Z
+  Updated: 2026-05-12T16:09:22Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2484,7 +2438,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 39,95 EUR
 - [Dames ceintuur roodachtig](https://afdelingriemen.nl/products/dames-ceintuur-roodachtig): Mooie dames ceintuur mettalic in roodachtige tint met kleur schakeringen. Deze dames riem is 4cm. breed. Uitstekend te dragen op een jeans of pantalon maar ook leuk bij andere basic kleding. Deze riem heeft een platte gesp die mooi bewerkt is en een oud-zilveren kleur heeft.
-  Updated: 2026-04-21T19:49:41Z
+  Updated: 2026-05-12T16:09:23Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2502,7 +2456,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 39,95 EUR
 - [Dames ceintuur beige](https://afdelingriemen.nl/products/dames-ceintuur-beige): Sportieve dames riem met bronskleurige motieven. Deze leuke dames ceintuur is 4cm. breed. Uitstekend te dragen op een jeans of pantalon en bij andere casual kleding en ook heel leuk op een jurkje. De rechthoekige gesp is brons-kleurig en heeft een bewerking.
-  Updated: 2026-04-22T15:35:01Z
+  Updated: 2026-05-12T16:09:25Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2523,7 +2477,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Dames riem zwart/rood](https://afdelingriemen.nl/products/dames-riem-zwart-rood): Sportieve dames riem zwart met rood stiksel en met rood afgewerkte randen. Toffe eigentijdse damesceintuur 3cm. breed. De rechthoekige gesp is van hoogwaardig materiaal en is zilverkleurig en nikkelvrij. Uitstekend te dragen op een jeans of chino maar ook op andere casual kleding.
-  Updated: 2026-04-22T15:35:02Z
+  Updated: 2026-05-12T16:09:27Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2541,7 +2495,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Dames ceintuur geel python](https://afdelingriemen.nl/products/dames-ceintuur-geel-python): Fraaie damesceintuur geel met python print. Deze dames riem is 3cm. breed. De ceintuur heeft een dubbele goudkleurige gesp die deze ceintuur een mooie uitstraling geeft en die van hoogwaardig materiaal gemaakt is. Uitstekend te dragen op een pantalon of bij andere casual/chique kleding.
-  Updated: 2026-04-22T15:35:03Z
+  Updated: 2026-05-12T16:09:28Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2553,7 +2507,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Dames ceintuur zwart/wit leopard](https://afdelingriemen.nl/products/dames-ceintuur-zwart-wit-leopard): Fraaie damesceintuur met zwart/wit leopard print. Deze dames riem is 3cm. breed. De ceintuur heeft een dubbele zilverkleurige gesp die deze ceintuur een mooie uitstraling geeft en die van hoogwaardig materiaal gemaakt is. Uitstekend te dragen op een pantalon of bij andere casual/chique kleding.
-  Updated: 2026-04-22T15:35:05Z
+  Updated: 2026-05-12T16:09:30Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2565,7 +2519,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Dames ceintuur wit python motief](https://afdelingriemen.nl/products/dames-ceintuur-wit-python-motief): Damesceintuur wit met phyton motief. Toffe eigentijdse damesceintuur 3cm. breed. De mooie dubbele gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij. Uitstekend te dragen op een pantalon of bij andere casual kleding.
-  Updated: 2026-04-22T15:35:06Z
+  Updated: 2026-05-12T16:09:32Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2583,7 +2537,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 29,95 EUR
 - [Dames riem zilver/brons (pewter)](https://afdelingriemen.nl/products/dames-riem-zilver-brons-pewter): Leren smalle dames riem zilver/brons (pewter) met een croco print. De riem is 2cm. breed. Een leuke riem op al je feestkleding of gewoon in je pantalon of jeans en natuurlijk ook mooi op een rokje of jurkje. Het maakt je outfit af!
-  Updated: 2026-04-21T19:12:16Z
+  Updated: 2026-05-12T16:09:33Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2601,7 +2555,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 24,95 EUR
 - [Dames buckle riem bruin/groen](https://afdelingriemen.nl/products/dames-buckle-riem-bruin-groen): Eigentijdse dames riem bruin/groen met buckle met ster van het merk A-Zone. Een mooie damesriem 4cm. breed vervaardigd van vol nerf leder. Een mooie riem op een jeans of je andere favoriete kleding!
-  Updated: 2026-04-21T19:37:49Z
+  Updated: 2026-05-12T16:09:35Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2619,7 +2573,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 39,95 EUR
 - [Buckle riem naturel](https://afdelingriemen.nl/products/buckle-riem-naturel): Eigentijdse dames ceintuur naturel met buckle met ster van het merk A-Zone. Een mooie damesceintuur 4cm. breed vervaardigd van vol nerf leder. Een mooie riem in je jeans of je andere favoriete kleding!
-  Updated: 2026-04-21T19:37:50Z
+  Updated: 2026-05-12T16:09:37Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2637,7 +2591,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 39,95 EUR
 - [Buckle riem zwart](https://afdelingriemen.nl/products/buckle-riem-zwart): Eigentijdse dames ceintuur zwart met buckle met ster van het merk A-Zone. Een mooie stoere damesceintuur 4cm. breed vervaardigd van vol nerf leder. De rechthoekige gesp is van hoogwaardig materiaal, zilverkleurig en nikkelvrij. Een mooie riem op een jeans of je andere favoriete kleding!
-  Updated: 2026-04-21T19:37:52Z
+  Updated: 2026-05-12T16:09:39Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2682,14 +2636,14 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 39,95 EUR
 - [Dames ceintuur zebra wit](https://afdelingriemen.nl/products/dames-ceintuur-zebra-wit): Mooie dames ceintuur zebra in de kleur wit/donker bruin. Deze leuke eigentijdse riem is 3cm. breed en heeft een rechthoekige zilveren gesp. De gesp is van hoogwaardig materiaal en nikkelvrij. Comfortabel te dragen op al je favoriete kleding.
-  Updated: 2026-04-22T15:35:08Z
+  Updated: 2026-05-12T16:09:40Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/3813/1526/files/233-1-1.jpg?v=1751290684
   Price: € 29,95 EUR
 - [Dames ceintuur zebra beige](https://afdelingriemen.nl/products/dames-ceintuur-zebra-beige): Elegante dames ceintuur zebra in de kleur beige/donker bruin. Deze leuke eigentijdse riem is 3cm. breed en heeft een rechthoekige zilveren gesp. De gesp is van hoogwaardig materiaal en nikkelvrij. Elegant te dragen in of over je favoriete kleding. Staat ook leuk over een jasje!
-  Updated: 2026-04-22T15:35:10Z
+  Updated: 2026-05-12T16:09:42Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2707,7 +2661,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 29,95 EUR
 - [Dames riem zebra bruin](https://afdelingriemen.nl/products/dames-riem-zebra-bruin): Moderne dames ceintuur zebra in de kleur bruin/donkerbruin. Deze toffe eigentijdse riem is 3cm. breed en heeft een zilveren gesp. De rechthoekige gesp is van hoogwaardig materiaal en nikkelvrij. Staat leuk op een pantalon of bij andere casual kleding.
-  Updated: 2026-04-22T15:35:11Z
+  Updated: 2026-05-12T16:09:43Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2719,7 +2673,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Leren dames riem zwart](https://afdelingriemen.nl/products/leren-dames-riem-zwart): Leren dames ceintuur zwart. Deze toffe eigentijdse riem is 3cm. breed en is een mooie- en sportieve riem uit hoogwaardig en soepel leer van het merk A-zone. Deze riem kun je bijna overal op dragen en staat uitstekend op een pantalon of jeans of bij andere casual kleding.
-  Updated: 2026-04-21T19:37:58Z
+  Updated: 2026-05-12T16:09:45Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2737,7 +2691,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 24,95 EUR
 - [Dames riem grijs suede](https://afdelingriemen.nl/products/dames-riem-grijs-suede): Dames ceintuur grijs met zilveren spikkels. Van het merk A-Zone. Deze toffe eigentijdse dames riem is 3cm. breed. Een leuke ceintuur op een pantalon of bij andere casual kleding.
-  Updated: 2026-04-22T15:35:12Z
+  Updated: 2026-05-12T16:09:47Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2749,7 +2703,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Stoere jeans riem cognac met studs](https://afdelingriemen.nl/products/stoere-jeans-riem-cognac-met-studs): Toffe stoere cognac riem met verschillende studs. De riem is gemaakt van volnerf glad leer en is 5cm. breed. Op een jeans of chino zal deze riem tof staan. Een riem voor een stoere chick!
-  Updated: 2026-04-22T15:35:13Z
+  Updated: 2026-05-12T16:09:49Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2767,7 +2721,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 39,95 EUR
 - [Leren smalle dames riem goud](https://afdelingriemen.nl/products/leren-smalle-dames-riem-goud): Leren smalle dames riem goudkleurig met een croco print. De riem is 2cm. breed. Een leuke riem op al je feestkleding of gewoon in je pantalon of jeans en natuurlijk ook mooi op een rokje of jurkje. Het maakt je outfit af!
-  Updated: 2026-04-21T19:12:23Z
+  Updated: 2026-05-12T16:09:50Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -2828,7 +2782,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 39,95 EUR
 - [Zwarte smalle nubuck dames riem](https://afdelingriemen.nl/products/zwarte-smalle-nubuck-dames-riem): Zwart smalle nubuck dames ceintuur 2,5cm. Chique eigentijdse dames ceintuur van nubuck leer met aan beide zijden een mooie witte stiknaad. Het mooie vierkante gespje is van hoogwaardig materiaal en zilverkleurig en nikkelvrij. Uitstekend te dragen op een pantalon of bij andere casual kleding zoals een jurk.
-  Updated: 2026-04-21T22:00:43Z
+  Updated: 2026-05-12T16:09:52Z
   Vendor: JV Belts
   Product Type: 
   Availability: Available
@@ -3062,7 +3016,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 39,95 EUR
 - [Dames riem wit](https://afdelingriemen.nl/products/dames-riem-wit-1): Toffe witte dames ceintuur 4cm. breed met een dubbele (grote) gesp. De mooie gesp met ronde hoeken is van hoogwaardig materiaal en zilverkleurig en nikkelvrij. Kek te dragen in een jeans of pantalon of op al je favorites.
-  Updated: 2026-04-21T19:38:19Z
+  Updated: 2026-05-12T16:09:54Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
@@ -3131,7 +3085,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 39,95 EUR
 - [Nette bruine heren riem](https://afdelingriemen.nl/products/nette-bruine-heren-riem): Mooie nette heren riem bruin van het merk Gilmart. De riem is gemaakt van mooi glad leer en heeft aan beide zijden een fijne en een grovere stiknaad en is 3,5cm. breed. Heeft een zilverkleurige gesp die nikkelvrij is. Een fraaie riem op een kostuum of op een pantalon. Een riem waar men jarenlang plezier aan heeft.
-  Updated: 2026-04-21T19:38:25Z
+  Updated: 2026-04-28T22:00:23Z
   Vendor: Gilmart
   Product Type: 
   Availability: Available
@@ -3212,7 +3166,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 39,95 EUR
 - [Dames riem donker blauw](https://afdelingriemen.nl/products/dames-riem-donker-blauw): Donkerblauwe dames riem 4cm. breed. De riem heeft 2 lusjes en is licht gebolleerd. Deze casual dames riem is van soepel leer en heeft een mooie zilverkleurige en nikkelvrije gesp. Een mooie sier riem in een pantalon of andere vrijetijdsbroek.
-  Updated: 2026-04-21T19:38:31Z
+  Updated: 2026-05-12T16:09:55Z
   Vendor: JV Belts
   Product Type: 
   Availability: Available
@@ -3254,7 +3208,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 39,95 EUR
 - [Afhang riem met leopard riempje](https://afdelingriemen.nl/products/afhang-riem-met-leopard-riempje): Leuke heupriem 4cm. breed. De riem bestaat uit een ring met daaraan 2 zwarte riempjes die overgaan in een riempje met leopardpatroon. De riem sluit je door het leopard riempje door de ring te halen. Alles gemaakt van echt leder en ring en gesp zijn nikkelvrij.
-  Updated: 2026-04-22T15:35:31Z
+  Updated: 2026-05-12T16:09:57Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -3296,7 +3250,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Dames riem zwart/beige leopard](https://afdelingriemen.nl/products/dames-riem-zwart-beige-leopard): Fraaie damesceintuur met zwart/beige leopard print. Deze dames riem 3cm. breed is van zacht en soepel leer. De ceintuur heeft een bronzen gesp die deze ceintuur een mooie uitstraling geeft en die van hoogwaardig materiaal gemaakt is. Uitstekend te dragen op een pantalon of bij andere casual/chique kleding.
-  Updated: 2026-04-21T19:38:37Z
+  Updated: 2026-05-12T16:09:59Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -3317,7 +3271,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 29,95 EUR
 - [Dames riem zwart/bruin met fantasieprint](https://afdelingriemen.nl/products/dames-riem-zwart-bruin-met-fantasieprint): Mooie zwarte dames riem met bruine en zilveren fantasieprint. De riem is 4cm. breed en van het merk A-Zone. Uitstekend te dragen op een jeans maar kan ook mooi zijn op een jurkje.
-  Updated: 2026-04-23T18:32:07Z
+  Updated: 2026-05-12T16:10:00Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -3338,7 +3292,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 29,95 EUR
 - [Dames riem zwart met fantasieprint](https://afdelingriemen.nl/products/dames-riem-zwart-met-fantasieprint): Mooie zwarte dames riem met fantasieprint. Deze leuke riem is 4cm. breed en van het merk A-Zone. Uitstekend te dragen op een jeans maar kan ook mooi zijn op een jurkje maar ook over het jurkjel
-  Updated: 2026-04-22T15:35:34Z
+  Updated: 2026-05-12T16:10:02Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -3356,7 +3310,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 29,95 EUR
 - [Dames riem schotse ruit rood](https://afdelingriemen.nl/products/dames-riem-schotse-ruit-rood): Mooie rode dames riem met schotse ruit print. De riem is 3cm. breed en van het merk A-Zone. Uitstekend te dragen op een jeans maar kan ook mooi zijn op een jurkje of rokje.
-  Updated: 2026-04-21T19:53:50Z
+  Updated: 2026-05-12T16:10:04Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -3368,7 +3322,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Dames riem schotse ruit grijs](https://afdelingriemen.nl/products/dames-riem-schotse-ruit-grijs): Mooie grijze dames riem met schotse ruit print. De riem is 3cm. breed. Uitstekend te dragen op een jeans maar kan ook mooi zijn op een jurkje.
-  Updated: 2026-04-21T19:54:34Z
+  Updated: 2026-05-12T16:10:06Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -3383,7 +3337,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Dames riem leger look print](https://afdelingriemen.nl/products/dames-riem-leger-look-print): Dames ceintuur met een bijzondere leger look print van het merk A-Zone. Toffe eigentijdse  damesceintuur 3cm. breed. De riem is gemaakt van vol-nerf leder.  Uitstekend te dragen op een pantalon of jeans of bij andere casual kleding.
-  Updated: 2026-04-14T18:42:05Z
+  Updated: 2026-05-12T16:10:07Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -3398,7 +3352,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Dames riem pied-de-poule grijs](https://afdelingriemen.nl/products/dames-riem-pied-de-poule-grijs): Chique dames ceintuur pied-de-poule grijs. Deze eigentijdse damesceintuur is 3cm. breed en van het merk A-Zone. De bronzen rechthoekige gesp is van hoogwaardig materiaal en nikkelvrij. Uitstekend te dragen op een pantalon of bij andere casual kleding.
-  Updated: 2026-04-22T15:35:35Z
+  Updated: 2026-05-12T16:10:09Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -3413,7 +3367,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Dames riem pied-de-poule groen](https://afdelingriemen.nl/products/dames-riem-pied-de-poule-groen): Chique dames ceintuur pied-de-poule groen. Deze eigentijdse damesceintuur is 3cm. breed en van het merk A-Zone. De bronzen rechthoekige gesp is van hoogwaardig materiaal en nikkelvrij. Uitstekend te dragen op een pantalon of bij andere casual kleding.
-  Updated: 2026-04-21T19:38:45Z
+  Updated: 2026-05-12T16:10:11Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -3425,7 +3379,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Dames riem pied-de-poule bruin](https://afdelingriemen.nl/products/dames-riem-pied-de-poule-bruin): Chique dames ceintuur pied-de-poule bruin. Deze eigentijdse damesceintuur is 4cm. breed en van het merk A-Zone. De bronzen rechthoekige gesp is van hoogwaardig materiaal en nikkelvrij. Uitstekend te dragen op een pantalon of bij andere casual kleding.
-  Updated: 2026-04-22T15:35:36Z
+  Updated: 2026-05-12T16:10:12Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -3437,7 +3391,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Zwarte lak riem](https://afdelingriemen.nl/products/zwarte-lak-riem): Mooie 4cm. brede zwarte lak dames riem met vierkante gesp ingelegd met strass steentjes. De riem is rond gesneden waardoor deze mooi op de heupen valt. Riem is ook als een afhang-ceintuur te dragen. Staat fraai op al je feestkleding maar kan natuurlijk ook goed op al je andere favoriete kleding
-  Updated: 2026-04-14T18:42:16Z
+  Updated: 2026-05-12T16:10:14Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
@@ -3449,7 +3403,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Bruine dames jeans riem met studs](https://afdelingriemen.nl/products/jeans-riem-met-studs): Stoere jeans riem bruin 4cm. breed met studs. Op de riem zitten om de +/- 15cm. 2 rijen studs. De riem  heeft een silver black dubbele gesp en is nikkelvrij. Gaaf in je jeans of chino!
-  Updated: 2026-04-21T19:38:47Z
+  Updated: 2026-05-12T16:10:16Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
@@ -3461,7 +3415,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
   - [95](https://afdelingriemen.nl/products/jeans-riem-met-studs?variant=43491813392454)
-    Availability: Available
+    Availability: Not Available
     Price: € 29,95 EUR
   - [100](https://afdelingriemen.nl/products/jeans-riem-met-studs?variant=43491813425222)
     Availability: Not Available
@@ -3470,7 +3424,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 29,95 EUR
 - [Kettingceintuur brons](https://afdelingriemen.nl/products/kettingceintuur-brons): Ketting ceintuur brons. De ketting is in totaal 110cm. lang en is makkelijk in te korten d.m.v het verwijderen van de vierkante plaatjes of bij de ketting zelf. De plaatjes met de ingedrukte bloem zijn 4cm. x 4,5cm. groot. De ketting (de plaatjes) wordt ook veel gekocht voor het decoreren van tassen etc. Bij afname van
-  Updated: 2026-04-21T19:12:30Z
+  Updated: 2026-05-12T16:10:18Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
@@ -3504,7 +3458,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Donkere taupe heup riem](https://afdelingriemen.nl/products/donkere-taupe-heup-riem): Mooie 4,5cm. brede taupekleurige dames ceintuur. De riem is rond gesneden waardoor deze mooi op de heupen valt. De riem is van 100% echt leder en staat uitstekend op een pantalon met lange trui of op een gebreide jurk maar natuurlijk ook op al jouw favoriete kleding. De riem heeft een zilveren beklede gesp die nikkelvr
-  Updated: 2026-04-22T15:35:37Z
+  Updated: 2026-05-12T16:10:20Z
   Vendor: JV Belts
   Product Type: 
   Availability: Available
@@ -3543,7 +3497,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Available
     Price: € 29,95 EUR
 - [Brede heupriem cognac](https://afdelingriemen.nl/products/brede-heupriem-cognac): Soepele cognac kleurige 6cm. brede heupriem. De riem is gemaakt van 100% echt leder en is rond gesneden waardoor deze mooi op de heupen valt. Over de gehele lengte van de riem in het midden een dubbelgestikte baan wat de riem een leuk uiterlijk geeft.
-  Updated: 2026-04-21T19:38:53Z
+  Updated: 2026-05-12T21:01:27Z
   Vendor: JV Belts
   Product Type: 
   Availability: Available
@@ -3561,7 +3515,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
     Availability: Not Available
     Price: € 39,95 EUR
 - [Dames riem schotse ruit grijs](https://afdelingriemen.nl/products/dames-riem-schotse-ruit-grijs-1): Mooie grijze dames riem met schotse ruit print.De riem is 4 cm breed. Uitstekend te dragen op een jeans maar kan ook mooi zijn op een jurkje.Gratis verzending!
-  Updated: 2026-04-22T15:35:40Z
+  Updated: 2026-05-12T16:10:23Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -3578,7 +3532,7 @@ Uitstekend te dragen op een pantalon of bij andere casual kleding.
 - [Dames ceintuur roze zebra look](https://afdelingriemen.nl/products/dames-ceintuur-roze-zebra-look): Mooie damesceintuur roze met zebra look. De ceintuur is 3cm. breed.
 Uitstekend te dragen op een pantalon of andere casual kleding
 De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij.
-  Updated: 2026-04-21T19:12:32Z
+  Updated: 2026-05-12T16:10:24Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -3590,7 +3544,7 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
     Availability: Not Available
     Price: € 29,95 EUR
 - [Dames ceintuur rood zebra look](https://afdelingriemen.nl/products/dames-ceintuur-rood-zebra-look): Mooie damesceintuur rood met zebra look van het bekende merk A-Zone. Deze ceintuur is 3cm. breed. De riem is uitstekend te dragen op een pantalon of andere casual kleding zoals b.v. een jurkje. Een leuke vrolijke riem met een mooi rechthoekig gespje dat zilverkleurig is en nikkelvrij.
-  Updated: 2026-04-21T19:12:34Z
+  Updated: 2026-05-12T16:10:26Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -3602,24 +3556,6 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
     Availability: Available
     Price: € 29,95 EUR
   - [100](https://afdelingriemen.nl/products/dames-ceintuur-rood-zebra-look?variant=43491815063622)
-    Availability: Not Available
-    Price: € 29,95 EUR
-- [Dames riem bruin leopard](https://afdelingriemen.nl/products/dames-riem-bruin-leopard): Fraaie dames riem met zwart/bruin leopard print. Deze dames riem is 3cm. breed. De riem heeft een dubbele gouden gesp die deze riem een mooie uitstraling geeft en die van hoogwaardig materiaal gemaakt is. Ook deze gesp is nikkelvrij. Uitstekend te dragen op een pantalon of bij andere casual/chique kleding.
-  Updated: 2026-04-22T15:35:41Z
-  Vendor: A-Zone
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0585/3813/1526/files/img-0971.jpg?v=1751290583
-  - [90](https://afdelingriemen.nl/products/dames-riem-bruin-leopard?variant=43491815227462)
-    Availability: Not Available
-    Price: € 29,95 EUR
-  - [95](https://afdelingriemen.nl/products/dames-riem-bruin-leopard?variant=43491815260230)
-    Availability: Not Available
-    Price: € 29,95 EUR
-  - [100](https://afdelingriemen.nl/products/dames-riem-bruin-leopard?variant=43491815292998)
-    Availability: Available
-    Price: € 29,95 EUR
-  - [105](https://afdelingriemen.nl/products/dames-riem-bruin-leopard?variant=43491815325766)
     Availability: Not Available
     Price: € 29,95 EUR
 - [Stoere jeans riem tabakbruin](https://afdelingriemen.nl/products/stoere-jeans-riem-tabakbruin): Toffe tabakbruine jeansriem met dubbele doorn. De riem is 4cm. breed en heeft een mooie silberblack gesp. Gemaakt van soepel en zacht leer. Staat geweldig op een jeans of chino.
@@ -3662,7 +3598,7 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
     Availability: Not Available
     Price: € 29,95 EUR
 - [Dames riem pied de poule groen](https://afdelingriemen.nl/products/dames-riem-pied-de-poule-groen-1): Dames ceintuur 4 cm breed pied de poule print groen. De gesp is brons kleurig en nikkelvrij. Gratis verzending!
-  Updated: 2026-04-22T15:35:45Z
+  Updated: 2026-05-12T16:10:30Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -3674,7 +3610,7 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
     Availability: Available
     Price: € 29,95 EUR
 - [Dames riem zwart](https://afdelingriemen.nl/products/dames-riem-zwart-2): Zwarte dames ceintuur 4 cm breed. De riem is over de gehele lengte met kleine gaatjes geperforeerd. De gesp is silver black en nikkelvrij. Gratis verzending!
-  Updated: 2026-04-22T15:35:47Z
+  Updated: 2026-05-12T16:10:31Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -3686,7 +3622,7 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
     Availability: Available
     Price: € 29,95 EUR
 - [Dames heupriem rood bruin](https://afdelingriemen.nl/products/dames-heupriem-rood-bruin): Chique roodbruine 5cm. brede heupriem. De riem is gemaakt van 100% echt leder en is rond gesneden waardoor deze mooi op de heupen valt. Een fraaie riem op een pantalon met lange trui, gebreide jurk of op al je favoriete kleding. Een riem die je outfit compleet maakt!
-  Updated: 2026-04-22T15:35:48Z
+  Updated: 2026-05-12T16:10:33Z
   Vendor: JV Belts
   Product Type: 
   Availability: Available
@@ -3701,7 +3637,7 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
     Availability: Available
     Price: € 29,95 EUR
 - [Dames heupriem rood bruin](https://afdelingriemen.nl/products/dames-heupriem-rood-bruin-1): Mooie rood bruine 4,5cm. brede heupriem. De riem is gemaakt van 100% echt leder en is rond gesneden waardoor deze mooi op de heupen valt. Een mooie riem op een pantalon met lange trui of gebreid jurkje eentje die je outfit compleet maakt. De gesp is silver satinato en nikkelvrij.
-  Updated: 2026-04-22T15:35:49Z
+  Updated: 2026-05-12T16:10:35Z
   Vendor: JV Belts
   Product Type: 
   Availability: Available
@@ -3713,7 +3649,7 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
     Availability: Available
     Price: € 29,95 EUR
 - [Dames riem pied de poule bruin](https://afdelingriemen.nl/products/dames-riem-pied-de-poule-bruin-1): Dames ceintuur 3 cm breed pied de poule print bruin. De gesp is brons kleurig en nikkelvrij.
-  Updated: 2026-04-21T19:39:05Z
+  Updated: 2026-05-12T16:10:36Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -3725,7 +3661,7 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
     Availability: Available
     Price: € 29,95 EUR
 - [Nette bruine jeans riem](https://afdelingriemen.nl/products/nette-bruine-jeans-riem): Nette bruine jeans riem 3.5cm. breed. Een veelzijdige riem gemaakt van glad en soepel leer. De riem kenmerkt zich door een mooie stiknaad aan beide zijden van de lus en de bronzen gesp die deze riem allure geeft. Mooi in een pantalon of op een jeans.
-  Updated: 2026-04-21T19:39:06Z
+  Updated: 2026-05-12T16:10:38Z
   Vendor: JV Belts
   Product Type: 
   Availability: Available
@@ -4059,7 +3995,7 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
     Availability: Available
     Price: € 29,95 EUR
 - [Zwart lak dames riem](https://afdelingriemen.nl/products/zwart-lak-dames-riem-2): Nette 4cm. brede zwart lak dames ceintuur. De riem is rond gesneden waardoor deze mooi op de heupen valt. Mooie riem op al je favoriete feestkleding speciaal voor de feestdagen.
-  Updated: 2026-04-21T19:12:43Z
+  Updated: 2026-05-12T16:10:40Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
@@ -4122,14 +4058,14 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
     Availability: Not Available
     Price: € 29,95 EUR
 - [Dames riem zwart 6 cm breed](https://afdelingriemen.nl/products/dames-riem-zwart-4): Aparte zwarte damesceintuur. De riem is 6cm. breed en heeft een grote zilverkleurige gesp. Een leuke riem op een pantalon, ook goed op een jurkje of rok.
-  Updated: 2026-04-21T19:39:29Z
+  Updated: 2026-05-12T16:10:41Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0585/3813/1526/files/img-1157.jpg?v=1751290515
   Price: € 24,95 EUR
 - [Dames riem kroko blauw](https://afdelingriemen.nl/products/dames-riem-kroko-blauw): Aparte blauwe damesceintuur met croco look. De riem is 2cm. breed en heeft een langwerpige gesp met een zgn. blinde sluiting. Mooi in een pantalon maar ook uitstekend te dragen op een jurkje of rok.
-  Updated: 2026-04-21T19:39:30Z
+  Updated: 2026-05-12T16:10:43Z
   Vendor: JV Belts
   Product Type: 
   Availability: Available
@@ -4147,7 +4083,7 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
     Availability: Not Available
     Price: € 24,95 EUR
 - [Dames riem kroko rood](https://afdelingriemen.nl/products/dames-riem-kroko-rood): Aparte rode damesceintuur met croco look. De riem is 2cm. breed en heeft een langwerpige gesp met een zgn. blinde sluiting. Mooi in een pantalon maar ook uitstekend te dragen op een jurkje of rok.
-  Updated: 2026-04-21T19:39:32Z
+  Updated: 2026-05-12T16:10:45Z
   Vendor: JV Belts
   Product Type: 
   Availability: Available
@@ -4165,7 +4101,7 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
     Availability: Not Available
     Price: € 24,95 EUR
 - [Stoere bruine dames/heren riem](https://afdelingriemen.nl/products/stoere-bruine-dames-heren-riem): Stevige lederen bruine dames/heren riem 5cm. breed. Deze riem is gemaakt van mooi glad en stevig leder. De riem wordt alleen maar mooier door hem veel te dragen. De gesp met ronde hoeken is silver black en heeft een vintage uitstraling en deze is nikkelvrij. Dit is een riem voor al je favoriete kleding!
-  Updated: 2026-04-21T19:16:38Z
+  Updated: 2026-05-12T16:10:46Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
@@ -4177,7 +4113,7 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
     Availability: Not Available
     Price: € 29,95 EUR
 - [Dames riem bruin](https://afdelingriemen.nl/products/dames-riem-bruin): Stevige lederen bruine unisex riem 4cm. breed. Deze riem is gemaakt van mooi stevig leder. De riem wordt alleen maar mooier door het dragen. Een mooie riem op je jeans of andere vrijetijdsbroek.
-  Updated: 2026-04-21T19:39:33Z
+  Updated: 2026-05-12T16:10:48Z
   Vendor: Thimbly Belts
   Product Type: 
   Availability: Available
@@ -4213,7 +4149,7 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
     Availability: Available
     Price: € 29,95 EUR
 - [Dames riem cognac gelaserd](https://afdelingriemen.nl/products/dames-riem-cognac-gelaserd): Mooie 4 cm brede soepele lederen riem met laser print. Deze riem heeft over de hele lengte gelaserde kruisjes. 100% echt leder.
-  Updated: 2026-04-22T15:35:58Z
+  Updated: 2026-05-12T16:10:50Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -4234,7 +4170,7 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
     Availability: Available
     Price: € 29,95 EUR
 - [Dames ceintuur zwart](https://afdelingriemen.nl/products/dames-ceintuur-zwart): Sportieve dames riem met bronskleurige motieven. Deze leuke dames ceintuur is 4cm. breed. Uitstekend te dragen op een jeans of pantalon en bij andere casual kleding en ook heel leuk op een jurkje. De rechthoekige gesp is brons-kleurig en heeft een bewerking.
-  Updated: 2026-04-22T15:36:00Z
+  Updated: 2026-05-12T16:10:51Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -4255,7 +4191,7 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
     Availability: Not Available
     Price: € 29,95 EUR
 - [Damesceintuur bruin met ornamenten](https://afdelingriemen.nl/products/damesceintuur-bruin-met-ornamenten): Damesceintuur bruin met ornamenten 5 cm. breed. Op het brede gedeelte van de riem  zitten 7 ornamenten.  Gratis verzending!
-  Updated: 2026-04-22T15:36:01Z
+  Updated: 2026-05-12T16:10:53Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -4273,7 +4209,7 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
     Availability: Not Available
     Price: € 29,95 EUR
 - [Damesceintuur bruin met ornamenten](https://afdelingriemen.nl/products/damesceintuur-bruin-met-ornamenten-1): Damesceintuur bruin met ornamenten 6 cm.  breed De riem is gemaakt van bruin crackle leder en heeft 5 plaatjes op de riem. De gesp is silver black van kleur.
-  Updated: 2026-04-22T15:36:02Z
+  Updated: 2026-05-12T16:10:55Z
   Vendor: A-Zone
   Product Type: 
   Availability: Available
@@ -4531,7 +4467,7 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
     Availability: Not Available
     Price: € 24,95 EUR
 - [Dames riem bruin](https://afdelingriemen.nl/products/dames-riem-bruin-1): Mooie bruine lederen dames riem riem 4cm. breed. Deze riem is gemaakt van mooi soepel leder. De dubbele gesp is glimmend en zilverkleurig . Een mooie riem op je jeans of andere vrijetijdsbroek.
-  Updated: 2026-04-21T19:40:02Z
+  Updated: 2026-05-12T16:10:56Z
   Vendor: JV Belts
   Product Type: 
   Availability: Available
@@ -4552,7 +4488,7 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
     Availability: Available
     Price: € 29,95 EUR
 - [Dames riem rood](https://afdelingriemen.nl/products/dames-riem-rood): Mooie rode lederen dames riem riem 4cm. breed. Deze riem is gemaakt van mooi soepel leder. De dubbele gesp is glimmend en zilverkleurig . Een mooie riem op je jeans of andere vrijetijdsbroek.
-  Updated: 2026-04-21T19:40:04Z
+  Updated: 2026-05-12T16:10:58Z
   Vendor: JV Belts
   Product Type: 
   Availability: Available
@@ -4577,97 +4513,97 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
 ## Collections
 
 - [Heren riemen kopen? Gratis verzonden en 300+ modellen op voorraad!](https://afdelingriemen.nl/collections/heren-riemen): Heren riemen kopen? Ontdek leren riemen in zwart, bruin en cognac. Van nette pantalon riemen tot casual jeans riemen.
-  Updated: 2026-04-22T19:13:23Z
-  Total Products: 336
+  Updated: 2026-05-11T11:19:25Z
+  Total Products: 341
 - [Dames riemen kopen | Voor elke outfit hebben we een riem](https://afdelingriemen.nl/collections/dames-riemen): Ontdek onze dames riemen van smal tot breed in talloze kleuren. Perfect voor jurken, jeans en elke outfit. Gratis verzonden.
-  Updated: 2026-04-25T11:22:18Z
-  Total Products: 891
+  Updated: 2026-05-13T16:11:50Z
+  Total Products: 906
 - [Heren jeans riemen | Mooie leren riemen](https://afdelingriemen.nl/collections/heren-jeans-riemen): Heren jeans riemen kopen? Ontdek mooie leren riemen die perfect voor je jeans en casual outfits zijn.
-  Updated: 2026-04-22T19:15:44Z
-  Total Products: 163
+  Updated: 2026-05-11T14:11:19Z
+  Total Products: 164
 - [Brede dames riemen kopen | Perfect voor jurken & taille](https://afdelingriemen.nl/collections/dames-brede-riemen): Brede dames riemen kopen? Ideaal voor jurken en taille. Ontdek leren riemen in zwart, bruin en cognac in diverse stijlen en maten.
-  Updated: 2026-04-25T11:22:18Z
-  Total Products: 221
+  Updated: 2026-05-13T14:11:44Z
+  Total Products: 222
 - [Jeans riemen dames | Stoer & casual in alle kleuren en stijlen](https://afdelingriemen.nl/collections/dames-jeans-riemen): Dames jeans riemen kopen? Ontdek stoere leren riemen met prints en opvallende gespen. Perfect voor een casual outfit.
-  Updated: 2026-04-24T12:46:26Z
-  Total Products: 418
+  Updated: 2026-05-13T16:11:50Z
+  Total Products: 426
 - [Smalle dames riemen | Perfect voor jurken & taille](https://afdelingriemen.nl/collections/smalle-dames-riemen): Smalle dames riemen kopen? Ontdek stijlvolle riemen in zwart, cognac en meer kleuren. Perfect voor jurken en een subtiel accent.
-  Updated: 2026-04-22T15:39:34Z
-  Total Products: 89
+  Updated: 2026-05-13T11:20:01Z
+  Total Products: 91
 - [Nappa dames riemen kopen | Comfortabele zachte leren riemen](https://afdelingriemen.nl/collections/nappa-dames-riemen): Nappa dames riemen kopen? Ontdek soepele leren riemen met hoog draagcomfort. Perfect voor jurken en dagelijks gebruik.
-  Updated: 2026-04-22T15:40:32Z
+  Updated: 2026-05-09T11:20:41Z
   Total Products: 16
 - [Dames lak riemen](https://afdelingriemen.nl/collections/dames-lak-riemen): Een lak riem voor dames is een feestelijk item, zeker met de feestdagen in het vooruitzicht. Maar eigenlijk zijn deze riemen het hele jaar door een elegante blikvanger. Bij ons ben je op het juiste adres. We hebben smalle en brede zwarte lak riemen voor d
-  Updated: 2026-04-22T15:37:04Z
+  Updated: 2026-05-13T12:46:41Z
   Total Products: 20
 - [Dames riemen zonder gesp](https://afdelingriemen.nl/collections/dames-riemen-zonder-gesp): Leren dames riemen zonder gesp Je zoekt een leren riem maar dan zonder gesp? We got you covered! Want afdelingriemen.nl zou niet compleet zijn zonder deze bijzondere riemen. Dus ook de gesploze riem voor dames bestel je bij ons online. Een leren riem zonder gesp Een riem zónder gesp? Ja! Het is niet meteen waar je aan denkt bij riemen – want ja, ze bestaan eigenlijk altijd uit een lange strook (imitatie)leer én een gesp. Toch hebben wij ze: riemen die gesploos zijn. Je maakt er heel makkelijk een gewone variant van. Want een leren gesploze riem heeft dan wel geen gesp, maar is daarentegen wel voorzien van drie zilverkleurige drukkers. Je klikt deze drukkers los en schuift er vervolgens een losse gesp aan. Belangrijk hierbij is dat de gesp dezelfde breedte heeft als het leer. Daarna klik je de drukkers weer dicht en is hij klaar om te dragen: jouw custom riem. Een losse gesp hergebruiken met een gesploze riem Een gesploze riem heeft een aantal voordelen. Zo is dit een duurzame oplossing wanneer je nog een goede gesp hebt liggen. Want wie kent het probleem niet: je favoriete riem ziet er niet meer mooi uit. Negen van de tien keer ligt het dan aan het (imitatie)leer. Riemen draag je toch vaak op dezelfde manier: met de gesp elke keer in hetzelfde gaatje. Daardoor zal het materiaal op die plek gaan oprekken. Een riem die is gemaakt van imitatieleer kan zelfs gaan scheuren. Maar dat deze ceinturen er dan niet meer mooi uitziet, ligt niet aan de gesp. Die is vaak nog hartstikke goed. De oplossing is dus simpel: een gesploze riem eraan bevestigen en de gesp kan weer een ronde mee. Oneindig wisselen van looks Maar ook wanneer je er gewoon van houdt om bij elke outfit een andere riem te dragen, is de gesploze damesriem een uitkomst. Want dankzij de drukknopen kun je oneindig wisselen: je bevestigt simpelweg een andere riem aan dezelfde gesp – en je hebt weer een hele andere look gecreëerd. Ook wanneer je een bijzondere gesp hebt en eigenlijk helemaal geen nieuwe riem wilt uitzoeken, is de gesploze riem een uitgelezen optie. Dames riemen zonder gesp bestellen bij afdelingriemen.nl Ben jij op zoek naar een gesploze vrouwen riem? Bij afdelingriemen.nl zit je goed. In onze online shop vind je verschillende opties en kun je enkel topkwaliteit kopen. We hebben riemen in een effen kleur of met een print. Kies bijvoorbeeld voor een croco of leopard print. Deze riemen zonder gesp zien er bijzonder uit en zijn gemaakt van volnerf leer. Echt topkwaliteit, dus! In de prints zitten meerdere kleurtinten verwerkt. Daardoor combineer je ze ook nog een gemakkelijk met verschillende outfits. En naast de riemen met prints en de effen riemen, hebben we ook gesploze riemen met een harige structuur. Die maken je outfit net weer een tikje specialer. Op welke jij je keuze ook laat vallen, bij ons geldt: voor 16.00 uur bestellen is morgen in huis. Ook verzenden we je bestelling altijd gratis. Wil je meer weten over een product? Via onze klantenservice helpen we je graag. De service van Afdelingriemen.nl Als u uw bestelling voor 16.00 uur besteld, dan ontvangt u deze de volgende werkdag gratis in huis! Is de riem toch niet wat u verwacht had? Dan kunt de deze retourneren en krijgt u uw geld terug of kunt u omruilen voor een andere! Bij ons heeft u namelijk een 14 dagen retourrecht. Heeft u nog vragen? Kijk dan eens bij onze veelgestelde vragen. Veel plezier met uw riem voor welke gelegenheid dan ook! B2B Riemen Heeft u een winkel, online shop of bijvoorbeeld een boutique en bent u op zoek naar een leverancier van riemen? Neem dan contact met onze klantenservice op. Wij leveren grotere aantallen direct uit voorraad en tegen zeer scherpe prijzen.
-  Updated: 2026-04-21T19:45:21Z
+  Updated: 2026-05-06T11:26:54Z
   Total Products: 31
 - [Dames ketting riemen](https://afdelingriemen.nl/collections/dames-ketting-riemen): Stijlvolle en trendy dames kettingriemen. Maak je outfit compleet! Vandaag besteld voor 16.00 is dezelfde dag nog gratis verzonden.
-  Updated: 2026-04-21T19:44:14Z
+  Updated: 2026-05-05T07:24:38Z
   Total Products: 7
 - [Basic dames riemen | Altijd goed & makkelijk te combineren](https://afdelingriemen.nl/collections/basic-dames-riemen): Basic dames riemen kopen? Tijdloze riemen in zwart, bruin en meer kleuren. Perfect voor dagelijks gebruik en elke outfit.
-  Updated: 2026-04-22T15:41:21Z
-  Total Products: 32
+  Updated: 2026-05-08T07:58:44Z
+  Total Products: 35
 - [Zwarte leren dames riemen | In alle maten & stijlen](https://afdelingriemen.nl/collections/zwarte-dames-riemen): Zwarte dames riemen kopen? Ontdek onze collectie in diverse stijlen en maten. Gratis verzending binnen NL en voor 16:00 besteld, vandaag verzonden.
-  Updated: 2026-04-25T11:22:18Z
+  Updated: 2026-05-09T11:20:41Z
   Total Products: 167
 - [Bruine dames riemen](https://afdelingriemen.nl/collections/bruine-dames-riemen): Met een bruine leren dames riem leg je een prachtig accent! Bekijk ons uitgebreide aanbod. Voor 16.00 betseld is dezelfde dag GRATIS verzonden!
-  Updated: 2026-04-22T15:41:31Z
+  Updated: 2026-05-13T11:20:01Z
   Total Products: 113
 - [Gevlochten dames riemen](https://afdelingriemen.nl/collections/gevlochten-dames-riemen): Gevlochten dames riemen; Een onmisbaar accessoire Gevlochten damesriemen zijn al jarenlang een onmisbaar accessoire in de garderobe van de modebewuste vrouw. Dankzij hun veelzijdigheid en tijdloze uitstraling vormen ze de perfecte balans tussen functionaliteit en stijl. De karakteristieke vlechtstructuur, meestal gemaakt van leer, zorgt niet alleen voor een elegante look, maar ook voor extra flexibiliteit: de gesp kan namelijk door elke spleet van de vlecht worden gestoken, waardoor je de riem eenvoudig en nauwkeurig kunt verstellen zonder gebruik te hoeven maken van voorgestanste gaatjes. Van smal en subtiel naar bredere statementmodellen Er bestaan verschillende varianten gevlochten riemen, van smalle, subtiele exemplaren die net dat beetje extra chic aan een zomerjurkje geven, tot bredere, statementmodellen die je taille accentueren bij een blouse en pantalon. Ze combineren ze moeiteloos met zakelijke outfits; in suède of gevlochten stof zijn ze juist perfect voor een bohemian of casual look. Populaire kleuren zoals cognac, zwart en donkerbruin blijven klassiek, maar ook pastel- en metallictinten winnen aan terrein voor vrouwen die durven opvallen. Stylingtips: Draag een brede, gevlochten riem over een oversized trui of blazer om je silhouet te benadrukken. Kies voor een smalle variant bij een maxi- of midi-jurk voor een subtiel accent. Combineer een leren vlechtriem met een paar gevlochte leren sandalen voor een gecoördineerde zomerse outfit. Experimenteer met kleuren: een olijfgroene of bordeauxrode riem kan een neutrale jeans-look helemaal opfrissen. Kortom, damesvlechtriemen zijn dankzij hun flexibiliteit, variatie in breedte en kleur én hun stijlvolle uitstraling een must-have voor elke modebewuste vrouw. Of je nu op zoek bent naar een subtiel detail of een krachtig mode-item: met een gevlochten riem geef je je outfit direct een stijlvolle upgrade. Nog veel meer kleuren en modellen naast gevlochten dames riemen Gevlochten dames riemen; Een onmisbaar accessoire Gevlochten damesriemen zijn al jarenlang een onmisbaar accessoire in de garderobe van de modebewuste vrouw. Dankzij hun veelzijdigheid en tijdloze uitstraling vormen ze de perfecte balans tussen functionaliteit en stijl. De karakteristieke vlechtstructuur, meestal gemaakt van leer, zorgt niet alleen voor een elegante look, maar ook voor extra flexibiliteit: de gesp kan namelijk door elke spleet van de vlecht worden gestoken, waardoor je de riem eenvoudig en nauwkeurig kunt verstellen zonder gebruik te hoeven maken van voorgestanste gaatjes. Van smal en subtiel naar bredere statementmodellen Er bestaan verschillende varianten gevlochten riemen, van smalle, subtiele exemplaren die net dat beetje extra chic aan een zomerjurkje geven, tot bredere, statementmodellen die je taille accentueren bij een blouse en pantalon. Ze combineren ze moeiteloos met zakelijke outfits; in suède of gevlochten stof zijn ze juist perfect voor een bohemian of casual look. Populaire kleuren zoals cognac, zwart en donkerbruin blijven klassiek, maar ook pastel- en metallictinten winnen aan terrein voor vrouwen die durven opvallen. Stylingtips: Draag een brede, gevlochten riem over een oversized trui of blazer om je silhouet te benadrukken. Kies voor een smalle variant bij een maxi- of midi-jurk voor een subtiel accent. Combineer een leren vlechtriem met een paar gevlochte leren sandalen voor een gecoördineerde zomerse outfit. Experimenteer met kleuren: een olijfgroene of bordeauxrode riem kan een neutrale jeans-look helemaal opfrissen. Kortom, damesvlechtriemen zijn dankzij hun flexibiliteit, variatie in breedte en kleur én hun stijlvolle uitstraling een must-have voor elke modebewuste vrouw. Of je nu op zoek bent naar een subtiel detail of een krachtig mode-item: met een gevlochten riem geef je je outfit direct een stijlvolle upgrade. Nog veel meer kleuren en modellen naast gevlochten dames riemen een jeansriem, die er vaak stoer uitziet en wat breder is; een basic riem, die vaak glad is afgewerkt en past op een (nette) broek of rok; een heupriem of brede riem, die wat lager op de heupen valt en goed past bij een strak jurkje; een smalle riem met bijvoorbeeld perforaties, die functioneert als blikvanger van je outfit; riemen met slangen-, luipaard- of krokoprint voor een trendy uitstraling; riemen van lakleer, glad leer of suède. De service van Afdelingriemen.nl Als u uw bestelling voor 16.00 uur besteld, dan ontvangt u deze de volgende werkdag gratis in huis! Is de riem toch niet wat u verwacht had? Dan kunt de deze retourneren en krijgt u uw geld terug of kunt u omruilen voor een andere! Bij ons heeft u namelijk 14 dagen retourrecht. Heeft u nog vragen? Kijk dan eens bij onze veelgestelde vragen. Veel plezier met uw riem voor welke gelegenheid dan ook! B2B Riemen Heeft u een winkel, online shop of bijvoorbeeld een boutique en bent u op zoek naar een leverancier van riemen? Neem dan contact met onze klantenservice op. Wij leveren grotere aantallen direct uit voorraad en tegen zeer scherpe prijzen.
-  Updated: 2026-04-21T19:47:40Z
+  Updated: 2026-05-05T07:27:27Z
   Total Products: 20
 - [Dames knoop riemen](https://afdelingriemen.nl/collections/dames-knoop-riemen)
   Updated: 2026-03-21T13:42:48Z
   Total Products: 1
 - [Cognac dames riemen kopen | Warm, stijlvol & makkelijk te combineren](https://afdelingriemen.nl/collections/cognac-dames-riemen): Cognac dames riemen kopen? Ontdek stijlvolle leren riemen in warme tinten. Perfect te combineren met elke outfit. ✓ Voor 16.00 besteld = dezelfde dag verzonden.
-  Updated: 2026-04-22T15:41:27Z
-  Total Products: 83
+  Updated: 2026-05-13T16:11:51Z
+  Total Products: 84
 - [Witte dames riemen kopen | Licht, zomers & makkelijk te combineren](https://afdelingriemen.nl/collections/witte-dames-riemen): Witte dames riemen kopen? Ontdek frisse en stijlvolle riemen die perfect passen bij je outfits. ✓ Voor 16:00 besteld, morgen in huis
-  Updated: 2026-04-22T15:40:19Z
+  Updated: 2026-05-07T11:22:25Z
   Total Products: 37
 - [Rode dames riemen](https://afdelingriemen.nl/collections/rode-dames-riemen): Een rode dames riem maakt elke outfit af Met een rode dames riem kies je voor een stijlvol accessoire dat je outfit op een vurige manier afwerkt. Bij Afdelingriemen.nl heb je de keuze uit een ruim assortiment aan rode riemen. Of je nu op zoek bent naar een opvallend model of een subtiele riem met een trendy design; bij ons vind je het allemaal! Het unieke karakter van een rode dames riem Waar riemen vroeger eerder een praktische functie hadden, zijn ze tegenwoordig uitgegroeid tot een onmisbaar accessoire voor vrouwen dat stijl en klasse uitstraalt. Met een modieuze rode dames riem kies je bovendien voor een echte eyecatcher. Deze passionele kleur trekt alle aandacht naar zich toe en geeft een uniek karakter aan je outfit.Rood is sexy en spannend. Met een riem in het rood voor vrouwen til je je broeken en je jurken naar een ander niveau. Vind je een jeansbroek saai of wil je leven aan je zwarte jurkjes geven? Rood is altijd een juiste keuze. Deze vurige kleur geeft een enorme boost aan je garderobe en tovert zelfs de saaiste outfit om tot een modieuze en elegante uitrusting! Rode dames riemen in alle mogelijke uitvoeringen Bij Afdelingriemen.nl willen we voor elke outfit een gepaste oplossing aanbieden. We hebben daarom een zeer ruim en gevarieerd assortiment samengesteld. Eerst en vooral hebben we ervoor gezorgd dat we rode riemen in diverse tinten hebben. Zo vind je in onze collectie zowel sensuele felrode ontwerpen als elegante bordeauxrode en natuurlijke rood-roze modellen terug.Verder hebben we ook rode riemen in alle mogelijke uitvoeringen in ons aanbod opgenomen. We beschikken over smalle ontwerpen voor broeken en bredere modellen die mooi op jurkjes passen. Onze gevlochten riemen stralen fashion en comfort uit, terwijl de modellen met een zilveren gesp voor elegantie staan.In ons assortiment vind je naast de standaard leren riem ook suède modellen terug. De luxueuze riemen van leer zijn stevig en duurzaam. Suede riemen voelen iets zachter aan, maar hebben wel meer onderhoud nodig. Met welke outfit kan je rood combineren? Het effect van rood op een outfit is uniek. Je kan er zowel een speelse als een sensuele of een elegante look mee creëren. Een elegante rode riem past mooi bij een zwarte stijlvolle jurk of een modieuze donkere broek. Voor een jeansbroek kies je eerder voor een dun riempje of een gevlochten model. Rood kan ook bij opvallende kleuren gedragen worden. Een rood ontwerp in combinatie met een groene of blauwe uitrusting doorbreekt het geheel en geeft er zo een speels karakter aan.Het is altijd leuk als je ook nog andere rode accessoires draagt. Zo kan je bijvoorbeeld kiezen voor bijpassende schoenen of oorbellen. Ook als er rood in je outfit verwerkt is, is een riem met rood een prachtige keuze! Een rode riem bestellen doe je bij Afdelingriemen.nl Rode riemen kopen doe je bij Afdelingriemen.nl. We beschikken namelijk een online winkel met een zeer ruim assortiment. Kwaliteit staat centraal bij ons. Al onze riemen worden uit leer van de beste kwaliteit vervaardigd en zijn handgemaakt. Bovendien bestaat ons aanbod uit diverse stijlen, uitvoeringen en lengtes.Onze webshop staat niet alleen bekend om de uitstekende kwaliteit, maar ook om de optimale dienstverlening. We verwerken elke bestelling meteen en we leveren ontzettend snel. Orders die we voor 16:00 ontvangen, versturen we dezelfde dag nog. Bij ons betaal je ook helemaal geen verzendkosten. Alle bestelling worden volledig gratis geleverd.Heb je een leuk rood model voor vrouwen in onze collectie gevonden? Aarzel dan niet langer! Plaats je bestelling vandaag nog online, zodat je morgen al met je nieuwe riem kan pronken! De service van Afdelingriemen.nl Als u uw bestelling voor 16.00 uur besteld, dan ontvangt u deze de volgende werkdag gratis in huis! Is de riem toch niet wat u verwacht had? Dan kunt de deze retourneren en krijgt u uw geld terug of kunt u omruilen voor een andere! Bij ons heeft u namelijk een 14 dagen retourrecht. Heeft u nog vragen? Kijk dan eens bij onze veelgestelde vragen. Veel plezier met uw riem voor welke gelegenheid dan ook! B2B Riemen Hebt u een winkel, online shop of bijvoorbeeld een boutique en bent u op zoek naar een leverancier van riemen? Neem dan contact met onze klantenservice op. Wij leveren grotere aantallen direct uit voorraad en tegen zeer scherpe prijzen.
-  Updated: 2026-04-22T15:39:33Z
-  Total Products: 30
+  Updated: 2026-05-08T08:05:38Z
+  Total Products: 31
 - [Grijze dames riemen](https://afdelingriemen.nl/collections/grijze-dames-riemen): Leren dames riemen in de kleur grijs Een grijze damesriem van stevig, soepel leer nodig? Wij hebben mooie damesriemen die met de hand zijn gemaakt van echt leer. Grijs is een veelzijdige kleur, waarmee je een stijlvolle en elegante look creëert. De kleur past echter ook goed bij een casual of stoere outfit. Leren riemen in diverse tinten grijs zijn bovendien het hele jaar door te dragen. Wij hebben exemplaren die goed passen bij je zakelijke kleding of feestkleding, maar ook modellen voor bij je jeans of pastelkleurige zomerjurk met bloemen. Zoek een riem uit om je outfit compleet te maken! Grijze leren dames riemen voor elke look Onze riemen hebben uiteenlopende grijstinten, van lichtgrijs tot antracietgrijs. Ook riemen met een print, zoals een slangenprint of een Schotse ruit, zijn echte blikvangers. Met merken als Thimbly Belts, JV Belts en A-Zone ben je verzekerd van een hoge kwaliteit. Wil je graag je taille accentueren, kies dan een brede riem uit. Ook bij een jeans staat een brede jeansriem erg mooi. Een smalle riem zorgt voor een subtiel effect en past goed bij een elegante pantalon, een jurkje of blazer.Weet je al welk merk je nodig hebt? Selecteer dan het merk van je keuze in ons menu. Zo heeft A-Zone veel fashionable damesriemen en exemplaren met een bijzondere print. Bij JV Belts vind je prachtige grijze heupriemen, die goed staan op een lange trui, gebreide jurk of rok. Op zoek naar glitter en glamour voor een feestelijke gelegenheid? Een heupriem van nappaleer of een ceintuur met glanzende accenten van Thimbly Belts zorgen voor een glamourous effect. Collectie riemen voor dames in diverse stijlen Wij hebben grijze riemen in alle soorten en maten met moderne en klassieke gespen, die meestal zilverkleurig zijn. Je kan bij ons terecht voor een wisselend assortiment, waaraan vaak nieuwe damesriemen worden toegevoegd. Maak je keuze uit de volgende soorten riemen: riem van glad leer, nubuck of suède donkergrijze en lichtgrijze riemen brede damesriemen smalle damesriemen heupriemen riem met stras (imitatiediamantjes), ruitjes, krokoprint of luipaardprint damesriem met een metaal-look of met perforaties Makkelijk en snel een riem kopen via het menu Of je nu houdt van een opvallende of ingetogen stijl, onze riemen zijn gemaakt voor vrouwen die het leuk vinden om met accessoires de finishing touch aan te brengen. Hiervoor kan je in ons assortiment kiezen uit damesriemen met een breedte tussen de 2 cm en 6 cm. De lengte van onze broek- en rokriemen ligt tussen de 75 cm en 125 cm. Maak gebruik van ons vragenlijstje, dat vanzelf verschijnt als je een product aanklikt. Hiermee bepaal je snel de maat die je nodig hebt. Vink in ons menu de kleur, breedtemaat en lengtemaat aan, dan zie je een selectie van de items die bij je passen. Het is ook de moeite waard om een kijkje te nemen bij onze andere kleuren. Denk bijvoorbeeld aan damesriemen in de kleur taupe. Grijze dames riem online uitzoeken bij Afdelingriemen.nl Onze riemen zijn er in uiteenlopende uitvoeringen. Zo kan je bij ons terecht voor een basic model in zachtgrijs, maar ook voor een toffe afhangceintuur met een ringsluiting. Wat onze producten gemeen hebben, is dat ze een goede prijs-kwaliteitverhouding hebben. Hierdoor heb je er lang plezier van. Bestellen gaat bij ons snel en simpel, zodat je het item van je keuze vaak binnen één of twee werkdagen al kan verwachten. Geef een mooie twist aan je favoriete outfit met een grijze leren riem! De service van Afdelingriemen.nl Als u uw bestelling voor 16.00 uur besteld, dan ontvangt u deze de volgende werkdag gratis in huis! Is de riem toch niet wat u verwacht had? Dan kunt de deze retourneren en krijgt u uw geld terug of kunt u omruilen voor een andere! Bij ons heeft u namelijk een 14 dagen retourrecht. Heeft u nog vragen? Kijk dan eens bij onze veelgestelde vragen. Veel plezier met uw riem voor welke gelegenheid dan ook! B2B Riemen Heeft u een winkel, online shop of bijvoorbeeld een boutique en bent u op zoek naar een leverancier van riemen? Neem dan contact met onze klantenservice op. Wij leveren grotere aantallen direct uit voorraad en tegen zeer scherpe prijzen.
-  Updated: 2026-04-22T15:39:34Z
+  Updated: 2026-05-05T07:28:58Z
   Total Products: 30
 - [Beige dames riemen](https://afdelingriemen.nl/collections/beige-dames-riemen): Bekijk ons uitgebreide aanbod van beige riemen voor elke gelegenheid! Voor 16.00 besteld is dezelfde dag nog GRATIS verzonden!
-  Updated: 2026-04-24T12:46:26Z
-  Total Products: 22
+  Updated: 2026-05-13T15:11:18Z
+  Total Products: 26
 - [Blauwe dames riemen | Lichtblauw tot donkerblauw](https://afdelingriemen.nl/collections/blauwe-dames-riemen): Blauwe dames riemen kopen? Ontdek lichtblauwe en donkerblauwe leren riemen in verschillende stijlen. Perfect voor elke outfit.
-  Updated: 2026-04-22T15:38:25Z
+  Updated: 2026-05-09T11:20:41Z
   Total Products: 28
 - [Zilveren dames riemen](https://afdelingriemen.nl/collections/zilveren-dames-riemen): Zilveren dames riemen: een vleugje glamour en moderniteit Zilveren dames riemen zijn dé manier om direct een dosis glamour en een moderne touch aan je outfit toe te voegen. De koele, glanzende uitstraling van zilver maakt het een echte eyecatcher die zowel subtiel als opvallend kan zijn, afhankelijk van het ontwerp. Een zilveren riem is niet zomaar een accessoire; het is een statement piece dat licht vangt en reflecteert, waardoor het een dynamisch element aan je look toevoegt. Perfect voor feestelijke gelegenheden, een avondje uit, maar ook verrassend stijlvol om een alledaagse outfit net dat beetje extra flair te geven. Denk aan een slanke zilveren riem die je taille accentueert in een 'little black dress', of een stoerdere metallic riem die je jeans een upgrade geeft. Zilver straalt luxe en een futuristische elegantie uit die nooit onopgemerkt blijft. Diverse stijlen en materialen De wereld van zilveren damesriemen is verrassend divers. Je vindt ze in allerlei breedtes, van flinterdunne, delicate riempjes die perfect zijn om een taille te accentueren in een jurk of over een blouse, tot brede statement riemen die een stoere jeans of een eenvoudige tuniek transformeren. Ook kettingriemen in zilverkleur zijn populair, variërend van fijne schakels tot robuuste designs die laag op de heupen worden gedragen. Qua materiaal kun je denken aan leer met een metallic zilveren finish, synthetische materialen met een zilveren coating, of zelfs volledig metalen riemen. De gespen variëren eveneens sterk: van minimalistisch en strak tot opvallend groot, versierd met strass-steentjes, gravures of unieke vormen. Er is dus altijd een zilveren riem die past bij jouw persoonlijke stijl en de gelegenheid. Veelzijdig combineren met zilveren accenten Hoewel zilver een opvallende kleur is, zijn zilveren dames riemen verrassend veelzijdig. Ze vormen een prachtig contrast met donkere kleuren zoals zwart, marineblauw of dieppaars, waardoor de riem echt naar voren springt. Ook bij lichtere tinten zoals wit, grijs of pastels kan een zilveren riem een frisse, sprankelende touch geven. Metallic zilver werkt uitstekend als accentkleur en kan gemakkelijk worden gecombineerd met andere zilveren sieraden of details in je outfit, zoals knopen of ritsen, voor een samenhangend geheel. Of je nu gaat voor een ton-sur-ton look met grijstinten of juist een kleurrijk ensemble wilt voorzien van een modern accent, een zilveren riem biedt talloze stylingmogelijkheden. Naast zilveren riemen nog veel meer uitvoeringen! Een riem is uiteraard een functioneel accessoire, dat de taak heeft om je spijkerbroek of pantalon aan te snoeren. Daarnaast is een riem ideaal om te dragen op een jurk die breed valt. Met een ceintuur of brede damesriem accentueer je toch je taille en zorg je voor een slank silhouet. Wij hebben diverse soorten damesriemen in allerlei kleuren en stijlen: Een jeansriem, die er vaak stoer uitziet en wat breder is; Een pantalonriem, die vaak glad is afgewerkt en past op een nette broek of rok; Een heupriem, die wat lager op de heupen valt en goed past bij een strak jurkje of tuniek; Een vlechtriem van gevlochten leer of ander materiaal; Een riem met perforaties, studs of andere details die functioneert als blikvanger; Riemen met slangen-, luipaard- of krokoprint voor een trendy uitstraling; Riemen van glad leer, suède of textiel. De service van Afdelingriemen.nl Als u uw bestelling voor 16.00 uur besteld, dan ontvangt u deze de volgende werkdag gratis in huis! Is de riem toch niet wat u verwacht had? Dan kunt de deze retourneren en krijgt u uw geld terug of kunt u omruilen voor een andere! Bij ons heeft u namelijk 14 dagen retourrecht. Heeft u nog vragen? Kijk dan eens bij onze veelgestelde vragen. Veel plezier met uw riem voor welke gelegenheid dan ook! B2B Riemen Heeft u een winkel, online shop of bijvoorbeeld een boutique en bent u op zoek naar een leverancier van riemen? Neem dan contact met onze klantenservice op. Wij leveren grotere aantallen direct uit voorraad en tegen zeer scherpe prijzen.
-  Updated: 2026-04-22T15:41:32Z
-  Total Products: 19
+  Updated: 2026-05-10T11:23:41Z
+  Total Products: 21
 - [Gouden dames riemen](https://afdelingriemen.nl/collections/gouden-dames-riemen): Gouden dames riemen: een symbool van luxe en warmte Gouden dames riemen zijn de ultieme keuze om direct een gevoel van luxe en warme elegantie aan je outfit toe te voegen. De rijke, stralende glans van goud maakt het een tijdloze favoriet die zowel klassiek als modieus is. Een gouden riem is meer dan een functioneel item; het is een accessoire dat weelde en verfijning uitstraalt. Het vangt het licht op een warme manier, wat een vleugje glamour toevoegt aan zowel eenvoudige als uitbundige looks. Ideaal voor speciale gelegenheden, bruiloften of feestdagen, maar net zo effectief om een zakelijke outfit of zelfs een casual ensemble een chique upgrade te geven. Denk aan een subtiele gouden riem die je taille benadrukt in een elegante jurk, of een opvallende gouden kettingriem die een statement maakt op een simpele jumpsuit. Goud straalt een klassieke, onmiskenbare luxe uit. Diverse stijlen en materialen De variatie in gouden damesriemen is groot, waardoor er voor elke smaak en gelegenheid wel een passende optie is. Je vindt ze in diverse breedtes: van smalle, verfijnde riempjes die perfect zijn voor over een blouse of jurk, tot brede, opvallende riemen die een krachtig accent geven aan een broek of rok. Gouden kettingriemen zijn ook een populaire keuze, beschikbaar in fijne, delicate schakels of juist robuuste, trendy ontwerpen. Qua materiaal kun je denken aan leer met een prachtige goudkleurige metallic finish, hoogwaardige synthetische materialen met een gouden glans, of riemen met echt vergulde of goudkleurige metalen onderdelen. De gespen lopen uiteen van minimalistisch en strak tot sierlijk en gedecoreerd, soms ingelegd met steentjes of voorzien van unieke vormen die de luxe uitstraling versterken. Stijlvol combineren met gouden accenten Gouden dames riemen zijn verrassend goed te combineren en voegen een warme gloed toe aan vele outfits. Ze staan prachtig bij klassieke kleuren zoals zwart, wit en crème, waar ze een luxueus contrast vormen. Ook met diepe juweeltinten zoals smaragdgroen, robijnrood of saffierblauw creëert goud een rijke en koninklijke uitstraling. Daarnaast passen gouden riemen uitstekend bij aardetinten zoals bruin, beige en olijfgroen. Een gouden riem kan perfect gecombineerd worden met andere gouden sieraden – zoals oorbellen, een ketting of armband – voor een harmonieus en gepolijst geheel. Gebruik een gouden riem om de taille te accentueren, een outfit op te waarderen of simpelweg als een stralend focuspunt. Naast gouden riemen nog veel meer uitvoeringen! Een riem is uiteraard een functioneel accessoire, dat de taak heeft om je spijkerbroek of pantalon aan te snoeren. Daarnaast is een riem ideaal om te dragen op een jurk die breed valt. Met een ceintuur of brede damesriem accentueer je toch je taille en zorg je voor een slank silhouet. Wij hebben diverse soorten damesriemen in allerlei kleuren en stijlen: een jeansriem, die er vaak stoer uitziet en wat breder is; een basic riem, die vaak glad is afgewerkt en past op een (nette) broek of rok; een heupriem of brede riem, die wat lager op de heupen valt en goed past bij een strak jurkje; een smalle riem met bijvoorbeeld perforaties, die functioneert als blikvanger van je outfit; riemen met slangen-, luipaard- of krokoprint voor een trendy uitstraling; riemen van glad leer. De service van Afdelingriemen.nl Als u uw bestelling voor 16.00 uur besteld, dan ontvangt u deze de volgende werkdag gratis in huis! Is de riem toch niet wat u verwacht had? Dan kunt de deze retourneren en krijgt u uw geld terug of kunt u omruilen voor een andere! Bij ons heeft u namelijk 14 dagen retourrecht. Heeft u nog vragen? Kijk dan eens bij onze veelgestelde vragen. Veel plezier met uw riem voor welke gelegenheid dan ook! B2B Riemen Heeft u een winkel, online shop of bijvoorbeeld een boutique en bent u op zoek naar een leverancier van riemen? Neem dan contact met onze klantenservice op. Wij leveren grotere aantallen direct uit voorraad en tegen zeer scherpe prijzen.
-  Updated: 2026-04-22T15:37:01Z
-  Total Products: 18
+  Updated: 2026-05-13T15:11:19Z
+  Total Products: 20
 - [Taupe dames riemen kopen?](https://afdelingriemen.nl/collections/taupe-dames-riemen): Taupe dames riemen in verschillende soorten, prints, maten en breedtes. Gratis verzending Voor 16.00 besteld dezelfde dag GRATIS verzonden!
-  Updated: 2026-04-22T15:41:22Z
-  Total Products: 13
+  Updated: 2026-05-13T12:47:45Z
+  Total Products: 14
 - [Groene dames riemen kopen | Frisse & stijlvolle groen tinten](https://afdelingriemen.nl/collections/groene-dames-riemen): Groene dames riemen kopen? Ontdek stijlvolle riemen in groen tinten. Perfect voor een frisse en modieuze look. ✓ Voor 16:00 besteld, morgen in huis.
-  Updated: 2026-04-22T15:41:26Z
-  Total Products: 34
+  Updated: 2026-05-13T15:11:19Z
+  Total Products: 36
 - [Dames riemen 85 cm](https://afdelingriemen.nl/collections/dames-riemen-85-cm): Dames riem 85 cm: welke kledingmaten passen hier bij? Een dames riem van 85 cm kan bij diverse kledingmaten passen. Over het algemeen komt deze maat overeen met de volgende maten: Maat 34 Maat 36 Maat 38 Het is goed om te weten dat je riemmaat vaak overeenkomt met je tailleomtrek in centimeters. Zit je precies tussen twee maten in, dan hangt de keuze af van je persoonlijke voorkeur. De één draagt een riem liever wat strakker, terwijl de ander juist kiest voor iets meer overslag. Bekijk je liever eerst het volledige aanbod? Ga dan naar onze collectie dames riemen. Hoe meet je jouw ideale riemmaat? Het bepalen van de juiste riemmaat is eenvoudig. Volg een van deze methoden: Optie 1: Een goed passende oude riem opmeten Leg je huidige, goed passende riem plat op een tafel. Meet de afstand vanaf het begin van het leer bij de gesp (de gesp zelf meet je dus niet mee) tot aan het gaatje dat je het meest gebruikt. Het aantal centimeters dat je meet, is jouw ideale riemmaat. Riemen worden standaard geleverd met vijf gaatjes, waarbij het middelste gaatje de aangegeven maat van de riem is. Dit geeft je dus nog twee gaatjes speling naar beide kanten. Optie 2: Je tailleomtrek meten Draag een broek die je vaak met een riem zou dragen. Haal een meetlint door de lussen van je broek, op de hoogte waar je normaal je riem draagt. Trek het meetlint niet te strak aan, maar zorg dat het comfortabel aansluit. Het aantal centimeters dat je meet, is je riemmaat. Kom je uit rond de 85 cm, dan is maat 85 in de meeste gevallen de juiste keuze. Optie 3: Je jeansmaat checken in onderstaande tabel Jeansmaat 24-25 = 75 Jeansmaat 26-27 = 80 Jeansmaat 28-29 = 85 Jeansmaat 29-30 = 90 Jeansmaat 31 = 95 Jeansmaat 32 = 100 Jeansmaat 33 = 105 Jeansmaat 34-35 = 110 Jeansmaat 36 = 115 Deze optie is wat lastiger omdat veel verschillende jeansmerken anders rekenen. Over het algemeen kloppen deze maten. Welke soorten dames riemen zijn er in maat 85 cm? In maat 85 cm vind je verschillende soorten riemen. Denk bijvoorbeeld aan basic dames riemen, dames jeans riemen, smalle dames riemen en brede dames riemen. Ook qua kleur is er genoeg keuze. Bekijk bijvoorbeeld onze zwarte dames riemen, bruine dames riemen, cognac dames riemen, blauwe dames riemen of groene dames riemen. Twijfel je over de maat? Twijfel je tussen verschillende maten? Bekijk dan ook onze collecties dames riemen 75 cm, dames riemen 85 cm en dames riemen 95 cm. Zo kun je eenvoudig vergelijken welke maat het beste bij jou past. Klaar om te bestellen? Heb je de perfecte maat gevonden? Bekijk hier onze collectie dames riemen in maat 85 cm. Als je nog steeds twijfelt, neem dan contact op met onze klantenservice.
-  Updated: 2026-04-25T11:22:18Z
+  Updated: 2026-05-13T14:11:45Z
   Total Products: 422
 - [Dames riemen 95 cm](https://afdelingriemen.nl/collections/dames-riemen-95-cm): Dames riem 95 cm: welke kledingmaten passen hier bij? Een dames riem van 95 cm kan bij diverse kledingmaten passen. Over het algemeen komt deze maat overeen met de volgende maten: Maat 38 Maat 40 Maat 42 Het is goed om te weten dat je riemmaat vaak overeenkomt met je tailleomtrek in centimeters. Zit je precies tussen twee maten in, dan hangt de keuze af van je persoonlijke voorkeur. De één draagt een riem liever wat strakker, terwijl de ander juist kiest voor iets meer overslag. Bekijk je liever eerst het volledige aanbod? Ga dan naar onze collectie dames riemen. Hoe meet je jouw ideale riemmaat? Het bepalen van de juiste riemmaat is eenvoudig. Volg een van deze methoden: Optie 1: Een goed passende oude riem opmeten Leg je huidige, goed passende riem plat op een tafel. Meet de afstand vanaf het begin van het leer bij de gesp (de gesp zelf meet je dus niet mee) tot aan het gaatje dat je het meest gebruikt. Het aantal centimeters dat je meet, is jouw ideale riemmaat. Riemen worden standaard geleverd met vijf gaatjes, waarbij het middelste gaatje de aangegeven maat van de riem is. Dit geeft je dus nog twee gaatjes speling naar beide kanten. Optie 2: Je tailleomtrek meten Draag een broek die je vaak met een riem zou dragen. Haal een meetlint door de lussen van je broek, op de hoogte waar je normaal je riem draagt. Trek het meetlint niet te strak aan, maar zorg dat het comfortabel aansluit. Het aantal centimeters dat je meet, is je riemmaat. Kom je uit rond de 95 cm, dan is maat 95 in de meeste gevallen de juiste keuze. Optie 3: Je jeansmaat checken in onderstaande tabel Jeansmaat 24-25 = 75 Jeansmaat 26-27 = 80 Jeansmaat 28-29 = 85 Jeansmaat 29-30 = 90 Jeansmaat 31 = 95 Jeansmaat 32 = 100 Jeansmaat 33 = 105 Jeansmaat 34-35 = 110 Jeansmaat 36 = 115 Deze optie is wat lastiger omdat veel verschillende jeansmerken anders rekenen. Over het algemeen kloppen deze maten. Welke soorten dames riemen zijn er in maat 95 cm? In maat 95 cm vind je verschillende soorten riemen. Denk bijvoorbeeld aan basic dames riemen, dames jeans riemen, smalle dames riemen en brede dames riemen. Ook qua kleur is er genoeg keuze. Bekijk bijvoorbeeld onze zwarte dames riemen, bruine dames riemen, cognac dames riemen, blauwe dames riemen of groene dames riemen. Twijfel je over de maat? Twijfel je tussen verschillende maten? Bekijk dan ook onze collecties dames riemen 85 cm, dames riemen 95 cm en dames riemen 105 cm. Zo kun je eenvoudig vergelijken welke maat het beste bij jou past. Klaar om te bestellen? Heb je de perfecte maat gevonden? Bekijk hier onze collectie dames riemen in maat 95 cm. Als je nog steeds twijfelt, neem dan contact op met onze klantenservice.
-  Updated: 2026-04-25T11:22:18Z
-  Total Products: 612
+  Updated: 2026-05-13T16:11:51Z
+  Total Products: 622
 - [Dames riemen 105 cm](https://afdelingriemen.nl/collections/dames-riemen-105-cm): Dames riem 105 cm: welke kledingmaten passen hier bij? Een dames riem van 105 cm kan bij diverse kledingmaten passen. Over het algemeen komt deze maat overeen met de volgende maten: Maat 42 Maat 44 Maat 46 Het is goed om te weten dat je riemmaat vaak overeenkomt met je tailleomtrek in centimeters. Zit je precies tussen twee maten in, dan hangt de keuze af van je persoonlijke voorkeur. De één draagt een riem liever wat strakker, terwijl de ander juist kiest voor iets meer overslag. Bekijk je liever eerst het volledige aanbod? Ga dan naar onze collectie dames riemen. Hoe meet je jouw ideale riemmaat? Het bepalen van de juiste riemmaat is eenvoudig. Volg een van deze methoden: Optie 1: Een goed passende oude riem opmeten Leg je huidige, goed passende riem plat op een tafel. Meet de afstand vanaf het begin van het leer bij de gesp (de gesp zelf meet je dus niet mee) tot aan het gaatje dat je het meest gebruikt. Het aantal centimeters dat je meet, is jouw ideale riemmaat. Riemen worden standaard geleverd met vijf gaatjes, waarbij het middelste gaatje de aangegeven maat van de riem is. Dit geeft je dus nog twee gaatjes speling naar beide kanten. Optie 2: Je tailleomtrek meten Draag een broek die je vaak met een riem zou dragen. Haal een meetlint door de lussen van je broek, op de hoogte waar je normaal je riem draagt. Trek het meetlint niet te strak aan, maar zorg dat het comfortabel aansluit. Het aantal centimeters dat je meet, is je riemmaat. Kom je uit rond de 105 cm, dan is maat 105 in de meeste gevallen de juiste keuze. Optie 3: Je jeansmaat checken in onderstaande tabel Jeansmaat 24-25 = 75 Jeansmaat 26-27 = 80 Jeansmaat 28-29 = 85 Jeansmaat 29-30 = 90 Jeansmaat 31 = 95 Jeansmaat 32 = 100 Jeansmaat 33 = 105 Jeansmaat 34-35 = 110 Jeansmaat 36 = 115 Deze optie is wat lastiger omdat veel verschillende jeansmerken anders rekenen. Over het algemeen kloppen deze maten. Welke soorten dames riemen zijn er in maat 105 cm? In maat 105 cm vind je verschillende soorten riemen. Denk bijvoorbeeld aan basic dames riemen, dames jeans riemen, smalle dames riemen en brede dames riemen. Ook qua kleur is er genoeg keuze. Bekijk bijvoorbeeld onze zwarte dames riemen, bruine dames riemen, cognac dames riemen, blauwe dames riemen of groene dames riemen. Twijfel je over de maat? Twijfel je tussen verschillende maten? Bekijk dan ook onze collecties dames riemen 85 cm, dames riemen 95 cm en dames riemen 115 cm. Zo kun je eenvoudig vergelijken welke maat het beste bij jou past. Klaar om te bestellen? Heb je de perfecte maat gevonden? Bekijk hier onze collectie dames riemen in maat 105 cm. Als je nog steeds twijfelt, neem dan contact op met onze klantenservice.
-  Updated: 2026-04-25T11:22:18Z
-  Total Products: 383
+  Updated: 2026-05-13T14:11:46Z
+  Total Products: 388
 - [Dames riemen 75 cm](https://afdelingriemen.nl/collections/dames-riemen-75-cm): Dames riem 75 cm: Welke kledingmaten passen hier bij? Een dames riem van 75 cm kan bij diverse kledingmaten passen. Over het algemeen komt deze maat overeen met de volgende maten: Maat 30 Maat 32 Maat 34 Het is goed om te weten dat je riemmaat vaak overeenkomt met je tailleomtrek in centimeters. Als je tailleomtrek bijvoorbeeld dichter bij 70 cm ligt dan bij 75 cm, zou je ook kunnen overwegen om een riem van 70 cm te nemen. De riem zal dan een iets kortere overslag hebben. Vice versa geldt dit uiteraard wanneer je dichter bij 80 cm zit. In dat geval kun je kiezen om een maat 80 te nemen. Dit is een persoonlijke voorkeur; sommigen vinden een kortere overslag mooier, terwijl anderen de voorkeur geven aan een langere. Hoe meet je jouw ideale riemmaat? Het bepalen van de juiste riemmaat is eenvoudig. Volg een van deze methoden: Optie 1: Een goed passende oude riem opmeten Leg je huidige, goed passende riem plat op een tafel. Meet de afstand vanaf het begin van het leer bij de gesp (de gesp zelf meet je dus niet mee) tot aan het gaatje dat je het meest gebruikt. Het aantal centimeters dat je meet, is jouw ideale riemmaat. Riemen worden standaard geleverd met vijf gaatjes, waarbij het middelste gaatje de aangegeven maat van de riem is. Dit geeft je dus nog twee gaatjes speling naar beide kanten. Optie 2: Je tailleomtrek meten Draag een broek die je vaak met een riem zou dragen. Haal een meetlint door de lussen van je broek, op de hoogte waar je normaal je riem draagt. Trek het meetlint niet te strak aan, maar zorg dat het comfortabel aansluit. Het aantal centimeters dat je meet, is je riemmaat. Als je bijvoorbeeld 77 cm meet, kun je het beste een riem van 75 cm bestellen. Als je 78 cm meet, is een riem van 80 cm waarschijnlijk een betere keuze, afhankelijk van of je liever een strakkere of lossere pasvorm hebt en hoeveel overslag je wenst. Als je twijfelt of de riem is niet beschikbaar in maat 80, dan kies je maat 75. Optie 3: Je jeansmaat checken in onderstaande tabel Jeansmaat 24-25 = 75 Jeansmaat 26-27 = 80 Jeansmaat 28-29 = 85 Jeansmaat 29-30 = 90 Jeansmaat 31 = 95 Jeansmaat 32 = 100 Jeansmaat 33 = 105 Jeansmaat 34-35 = 110 Jeansmaat 36 = 115 Deze optie is wat lastiger omdat veel verschillende jeans merken anders rekenen. Over het algemeen kloppen deze maten. Klaar om te bestellen? Heb je de perfecte maat gevonden? We hebben het gemakkelijk gemaakt om snel al onze rimen te bekijken die in jouw maat beschikbaar zijn. Bekijk hier onze collectie dames riemen in maat 75 cm. Als je nog steeds twijfelt neem dan contact met onze klantenservice op!
   Updated: 2026-03-21T13:42:49Z
   Total Products: 0
 - [Basic heren riemen kopen | Tijdloos & veelzijdig](https://afdelingriemen.nl/collections/basic-heren-riemen): Basic heren riemen kopen? Ontdek tijdloze leren riemen in zwart, bruin en cognac. Perfect voor dagelijks gebruik en elke outfit.
-  Updated: 2026-04-22T15:40:02Z
+  Updated: 2026-05-07T15:25:13Z
   Total Products: 27
 - [Dames riemen 115 cm](https://afdelingriemen.nl/collections/dames-riemen-115-cm): Dames riem 115 cm: welke kledingmaten passen hier bij? Een dames riem van 115 cm is geschikt voor grotere maten en biedt voldoende ruimte voor een comfortabele pasvorm. Over het algemeen komt deze maat overeen met de volgende kledingmaten: Maat 44 Maat 46 Maat 48 Het is goed om te weten dat je riemmaat vaak overeenkomt met je tailleomtrek in centimeters. Zit je tussen twee maten in, dan hangt de keuze af van je persoonlijke voorkeur. Sommige klanten kiezen voor een iets strakkere pasvorm, terwijl anderen juist wat meer overslag prettig vinden. Bekijk je liever eerst het volledige aanbod? Ga dan naar onze collectie dames riemen. Hoe meet je jouw ideale riemmaat? Het bepalen van de juiste riemmaat is eenvoudig. Volg een van deze methoden: Optie 1: Een goed passende oude riem opmeten Leg je huidige, goed passende riem plat op een tafel. Meet de afstand vanaf het begin van het leer bij de gesp (de gesp zelf meet je dus niet mee) tot aan het gaatje dat je het meest gebruikt. Het aantal centimeters dat je meet, is jouw ideale riemmaat. Riemen worden standaard geleverd met vijf gaatjes, waarbij het middelste gaatje de aangegeven maat van de riem is. Dit geeft je dus nog twee gaatjes speling naar beide kanten. Optie 2: Je tailleomtrek meten Draag een broek die je vaak met een riem zou dragen. Haal een meetlint door de lussen van je broek, op de hoogte waar je normaal je riem draagt. Trek het meetlint niet te strak aan, maar zorg dat het comfortabel aansluit. Het aantal centimeters dat je meet, is je riemmaat. Kom je uit rond de 115 cm, dan is maat 115 in de meeste gevallen de juiste keuze. Optie 3: Je jeansmaat checken in onderstaande tabel Jeansmaat 24-25 = 75 Jeansmaat 26-27 = 80 Jeansmaat 28-29 = 85 Jeansmaat 29-30 = 90 Jeansmaat 31 = 95 Jeansmaat 32 = 100 Jeansmaat 33 = 105 Jeansmaat 34-35 = 110 Jeansmaat 36 = 115 Deze optie is wat lastiger omdat veel verschillende jeansmerken anders rekenen. Over het algemeen kloppen deze maten. Welke soorten dames riemen zijn er in maat 115 cm? In maat 115 cm vind je verschillende soorten riemen. Denk bijvoorbeeld aan basic dames riemen, dames jeans riemen, smalle dames riemen en brede dames riemen. Ook qua kleur is er genoeg keuze. Bekijk bijvoorbeeld onze zwarte dames riemen, bruine dames riemen, cognac dames riemen, blauwe dames riemen of groene dames riemen. Twijfel je over de maat? Twijfel je tussen verschillende maten? Bekijk dan ook onze collecties dames riemen 95 cm, dames riemen 105 cm en dames riemen 115 cm. Zo kun je eenvoudig vergelijken welke maat het beste bij jou past. Klaar om te bestellen? Heb je de perfecte maat gevonden? Bekijk hier onze collectie dames riemen in maat 115 cm. Als je nog steeds twijfelt, neem dan contact op met onze klantenservice.
-  Updated: 2026-04-22T15:40:47Z
+  Updated: 2026-05-08T07:58:44Z
   Total Products: 48
 - [Elastische heren riemen, praktisch en mooi](https://afdelingriemen.nl/collections/elastische-heren-riemen): Comfort en geschikt voor alle maten. We hebben een uitgebreid aanbod van kleuren en modellen elastische riemen van echt leer. GRATIS verzonden!
   Updated: 2026-04-22T15:40:52Z
@@ -4679,8 +4615,8 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
   Updated: 2026-04-22T15:39:08Z
   Total Products: 11
 - [Heren pantalon riemen kopen | Nette leren riemen](https://afdelingriemen.nl/collections/heren-pantalon-riemen): Heren pantalon riemen kopen? Ontdek nette leren riemen voor pak en chino. Stijlvol, smal en perfect voor zakelijke outfits.
-  Updated: 2026-04-22T20:12:47Z
-  Total Products: 58
+  Updated: 2026-05-11T09:45:28Z
+  Total Products: 57
 - [Draaibare heren riemen | Dubbelzijdige toppers](https://afdelingriemen.nl/collections/draaibare-heren-riemen): Draaibare riemen voor mannen Wie wil dat nou niet, 2 riemen voor de prijs van 1! Gratis verzonden  en voor 16.00 besteld is de volgende dag in huis!
   Updated: 2026-04-22T15:35:24Z
   Total Products: 21
@@ -4691,22 +4627,22 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
   Updated: 2026-04-22T15:41:33Z
   Total Products: 49
 - [Bruine heren riemen kopen | In alle bruin tinten & maten](https://afdelingriemen.nl/collections/bruine-heren-riemen): Bruine heren riemen kopen? Bekijk stijlvolle leren riemen in diverse bruine tinten en maten. Voor 16:00 besteld, vandaag gratis verzonden.
-  Updated: 2026-04-22T18:41:41Z
-  Total Products: 95
+  Updated: 2026-05-08T13:33:16Z
+  Total Products: 96
 - [Cognac heren riemen | Stijlvol leer & suède](https://afdelingriemen.nl/collections/cognac-heren-riemen): Cognac heren riemen kopen? Ontdek stijlvolle riemen in leer en suède, perfect voor casual en zakelijke outfits. In diverse maten en stijlen.
-  Updated: 2026-04-22T15:41:17Z
-  Total Products: 53
+  Updated: 2026-05-11T14:11:19Z
+  Total Products: 52
 - [Blauwe heren riemen kopen | Navy, lichtblauw & meer](https://afdelingriemen.nl/collections/blauwe-heren-riemen): Blauwe heren riemen kopen? Mooie riemen in blauw tinten. Perfect voor pak, jeans en casual outfits. ✓ Voor 16.00 besteld = vandaag verzonden.
-  Updated: 2026-04-22T15:41:13Z
+  Updated: 2026-05-05T07:28:23Z
   Total Products: 18
 - [Witte heren riemen nodig?](https://afdelingriemen.nl/collections/witte-heren-riemen): Witte heren riemen in verschillende soorten, prints, maten en breedtes. ✅ Gratis verzending ✅ Voor 16.00 besteld dezelfde dag verzonden!
-  Updated: 2026-04-22T15:39:55Z
+  Updated: 2026-05-05T07:21:10Z
   Total Products: 3
 - [Grijze heren riemen | Subtiel alternatief voor zwart](https://afdelingriemen.nl/collections/grijze-heren-riemen): Grijze heren riemen kopen? Ontdek stijlvolle riemen in licht- en donkergrijs. Perfect voor casual en moderne outfits. ✓ Voor 16.00 besteld morgen in huis!
-  Updated: 2026-04-22T15:40:50Z
+  Updated: 2026-05-06T11:26:54Z
   Total Products: 6
 - [Rode heren riemen nodig? | Opvallend en stijlvol accent](https://afdelingriemen.nl/collections/rode-heren-riemen): Rode heren riemen kopen? Ontdek stijlvolle riemen van donkerrood tot felrood. Perfect als opvallend accent in je outfit. ✓ Voor 16.00 besteld morgen in huis!
-  Updated: 2026-04-22T19:10:54Z
+  Updated: 2026-05-11T11:19:25Z
   Total Products: 10
 - [Camel heren riemen nodig? Tussen bruin en cognac in](https://afdelingriemen.nl/collections/camel-heren-riemen): Camel heren riemen kopen? De perfecte middenkleur tussen bruin en cognac. Stijlvol, warm en makkelijk te combineren. ✓ Voor 16.00 besteld morgen in huis!
   Updated: 2026-04-22T15:40:35Z
@@ -4716,37 +4652,37 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
   Total Products: 3
 - [Heren riem 85 cm nodig?](https://afdelingriemen.nl/collections/heren-riemen-85-cm): Ruim aanbod van topkwaliteit heren riemen in verschillende soorten, prints en breedtes. 
 ✓ Gratis verzending ✓ Voor 16.00 besteld morgen in huis!
-  Updated: 2026-04-22T15:40:50Z
+  Updated: 2026-05-09T11:20:41Z
   Total Products: 51
 - [Heren riem 95 cm nodig?](https://afdelingriemen.nl/collections/heren-riemen-95-cm): Ruim aanbod van topkwaliteit heren riemen in verschillende soorten, prints en breedtes. 
 ✓ Gratis verzending ✓ Voor 16.00 besteld morgen in huis!
-  Updated: 2026-04-22T19:13:25Z
+  Updated: 2026-05-11T14:11:20Z
   Total Products: 260
 - [Heren riem 105 cm nodig?](https://afdelingriemen.nl/collections/heren-riemen-105-cm): Ruim aanbod van topkwaliteit heren riemen in verschillende soorten, prints en breedtes. 
 ✓ Gratis verzending ✓ Voor 16.00 besteld morgen in huis!
-  Updated: 2026-04-22T19:13:26Z
+  Updated: 2026-05-11T14:11:20Z
   Total Products: 215
 - [Heren riem 115 cm nodig?](https://afdelingriemen.nl/collections/heren-riemen-115-cm): Ruim aanbod van topkwaliteit heren riemen in verschillende soorten, prints en breedtes. 
 ✓ Gratis verzending ✓ Voor 16.00 besteld morgen in huis!
-  Updated: 2026-04-22T19:13:26Z
+  Updated: 2026-05-11T14:11:21Z
   Total Products: 164
 - [Leren schoudertassen | Klein, 1 of a kind en superhandig](https://afdelingriemen.nl/collections/leren-tassen): Ontdek leren tassen voor dames, van klein schoudertasje tot crossbody tas. ✓Duurzaam leer ✓Bijpassende riem sets ✓Snelle levering
-  Updated: 2026-04-25T18:12:30Z
+  Updated: 2026-05-07T11:22:25Z
   Total Products: 15
 - [Kinderriemen | Leren riemen voor jongens & meisjes](https://afdelingriemen.nl/collections/kinderriemen): Ontdek kinderriemen in verschillende kleuren en maten. ✓Leren riemen ✓Voor jongens en meisjes ✓Gratis verzending
   Updated: 2026-04-21T19:47:54Z
   Total Products: 24
 - [Dames riemen met studs kopen | Stoere leren riemen](https://afdelingriemen.nl/collections/dames-riemen-met-studs): Dames riemen met studs kopen? Ontdek stoere leren riemen met studs in zwart, bruin en meer stijlen. Perfect voor een edgy look.
-  Updated: 2026-04-22T15:41:30Z
+  Updated: 2026-05-09T11:20:41Z
   Total Products: 18
 - [A-Zone](https://afdelingriemen.nl/collections/a-zone)
-  Updated: 2026-04-25T18:12:31Z
-  Total Products: 422
+  Updated: 2026-05-13T15:11:21Z
+  Total Products: 435
 - [Gilmart](https://afdelingriemen.nl/collections/gilmart)
-  Updated: 2026-04-22T15:40:39Z
+  Updated: 2026-05-07T15:33:13Z
   Total Products: 47
 - [JV Belts](https://afdelingriemen.nl/collections/jv-belts)
-  Updated: 2026-04-22T15:41:13Z
+  Updated: 2026-05-13T12:11:04Z
   Total Products: 213
 - [Miguel Bellido Classic](https://afdelingriemen.nl/collections/miguel-bellido-classic)
   Updated: 2026-04-22T15:40:45Z
@@ -4755,26 +4691,26 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
   Updated: 2026-04-22T15:39:11Z
   Total Products: 2
 - [Miguel Bellido Sport](https://afdelingriemen.nl/collections/miguel-bellido-sport)
-  Updated: 2026-04-22T19:10:58Z
+  Updated: 2026-05-11T10:12:09Z
   Total Products: 24
 - [Possum](https://afdelingriemen.nl/collections/possum)
   Updated: 2026-04-21T19:45:08Z
   Total Products: 5
 - [Thimbly Belts](https://afdelingriemen.nl/collections/thimbly-belts)
-  Updated: 2026-04-25T11:22:18Z
-  Total Products: 520
+  Updated: 2026-05-13T14:11:47Z
+  Total Products: 519
 - [Puma](https://afdelingriemen.nl/collections/puma)
-  Updated: 2026-04-22T15:38:13Z
+  Updated: 2026-05-05T07:23:52Z
   Total Products: 1
 - [Afdelingriemen.nl](https://afdelingriemen.nl/collections/afdelingriemen-nl)
-  Updated: 2026-04-22T15:41:36Z
-  Total Products: 164
+  Updated: 2026-05-13T16:11:52Z
+  Total Products: 152
 - [Esprit](https://afdelingriemen.nl/collections/esprit)
   Updated: 2026-03-21T13:42:50Z
   Total Products: 0
 - [Suède dames riemen](https://afdelingriemen.nl/collections/dames-suede-riemen)
-  Updated: 2026-04-22T15:40:54Z
-  Total Products: 11
+  Updated: 2026-05-05T14:31:36Z
+  Total Products: 12
 - [Nubuck heren riemen](https://afdelingriemen.nl/collections/nubuck-heren-riemen)
   Updated: 2026-04-15T10:05:42Z
   Total Products: 0
@@ -4803,20 +4739,29 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
   Updated: 2026-03-21T13:42:51Z
   Total Products: 0
 - [Dames riemen  | Stijlvolle riemen met korting](https://afdelingriemen.nl/collections/-dames-riemen): Dames riemen met korting kopen? Ontdek leren en casual riemen in onze . Snelle levering en ruime keuze in stijlen en maten.
-  Updated: 2026-04-23T11:11:31Z
+  Updated: 2026-05-13T11:20:01Z
   Total Products: 333
 - [Heren riemen  | Stijlvolle leren riemen met korting](https://afdelingriemen.nl/collections/-heren-riemen): Heren riemen met ? Ontdek leren en casual riemen in onze . Geschikt voor zowel nette als casual outfits. In diverse maten en stijlen. Snelle verzending.
-  Updated: 2026-04-22T15:41:33Z
+  Updated: 2026-05-05T07:28:23Z
   Total Products: 57
 - [ kinderriemen](https://afdelingriemen.nl/collections/-kinderriemen)
   Updated: 2026-04-21T19:47:54Z
   Total Products: 12
 - [Riemen in de  | Stijlvolle riemen met korting](https://afdelingriemen.nl/collections/-riemen): Riemen  kopen? Bekijk riemen voor dames, heren en kinderen met minimaal 15% korting. Voor 16:00 besteld, vandaag verzonden.
-  Updated: 2026-04-23T11:11:32Z
-  Total Products: 428
+  Updated: 2026-05-13T11:20:01Z
+  Total Products: 427
 - [Zwarte brede dames riemen kopen | Perfect voor jurken](https://afdelingriemen.nl/collections/zwarte-brede-dames-riemen): Zwarte brede dames riemen kopen? Ideaal voor jurken en langere tops. Ontdek stijlvolle brede riemen in zwart leer. Snelle levering en gratis verzonden in NL.
-  Updated: 2026-04-25T11:22:18Z
+  Updated: 2026-05-09T11:20:41Z
   Total Products: 63
+- [Nieuw](https://afdelingriemen.nl/collections/nieuw)
+  Updated: 2026-05-13T15:03:00Z
+  Total Products: 19
+- [Nieuwe dames riemen](https://afdelingriemen.nl/collections/nieuwe-dames-riemen)
+  Updated: 2026-05-13T15:03:00Z
+  Total Products: 18
+- [Nieuwe heren riemen](https://afdelingriemen.nl/collections/nieuwe-heren-riemen)
+  Updated: 2026-05-08T13:33:49Z
+  Total Products: 1
 
 ## Blogs
 
@@ -4833,6 +4778,9 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
     Updated: 2026-03-20T12:56:53Z
     Author: Afdelingriemen.nl
     Tags: Blog
+  - [Heren riem combineren met schoenen? Zo doe je dat goed](https://afdelingriemen.nl/blogs/blog/heren-riem-combineren-met-schoenen): Heren riem combineren met schoenen? Zo doe je dat goed
+    Updated: 2026-04-27T05:00:05Z
+    Author: Jaap Vermoolen
   - [Welke riem draag je bij een pak? | Tips & stijladvies](https://afdelingriemen.nl/blogs/blog/welke-riem-draag-je-bij-een-pak): Welke riem draag je bij een pak? | Tips & stijladvies
     Updated: 2026-04-13T05:00:03Z
     Author: Jaap Vermoolen
@@ -4853,9 +4801,9 @@ De rechthoekige gesp is van hoogwaardig materiaal en zilverkleurig en nikkelvrij
 - [Betaalmethoden](https://afdelingriemen.nl/pages/payment-methods): U betaalt bij ons op een 100% veilige manier. Al uw gegevens worden veilig en betrouwbaar door ons verwerkt. Wij gebruiken Mollie als betaalprovide...
   Updated: 2024-07-17T11:11:27Z
 - [Over ons](https://afdelingriemen.nl/pages/about): Bij Afdeling Riemen vind je een uitgebreid aanbod van zowel dames riemen als heren riemen. Al onze riemen hebben een uitstekende prijs kwaliteit ve...
-  Updated: 2024-07-17T11:11:30Z
-- [Riemen leverancier](https://afdelingriemen.nl/pages/zakelijk-bestellen): 
-  Updated: 2026-03-17T08:39:42Z
+  Updated: 2026-05-08T08:52:04Z
+- [Riemen groothandel & leverancier van leren heren- en damesriemen](https://afdelingriemen.nl/pages/zakelijk-bestellen): Op zoek naar een betrouwbare riemen groothandel voor heren riemen en dames riemen van hoge kwaliteit? Wij leveren al meer dan 50 jaar leren riemen ...
+  Updated: 2026-05-08T08:53:52Z
 - [Help en contact](https://afdelingriemen.nl/pages/veelgestelde-vragen): Vind snel een antwoord op je vraag! Kom je er niet uit dan kun je contact opnemen via onderstaande opties.
   Updated: 2026-03-17T08:55:28Z
 - [Garantie en reparatie](https://afdelingriemen.nl/pages/garantie-en-reparatie): Bij Afdelingriemen.nl staan we voor de kwaliteit van onze producten. Een riem is een dagelijks accessoire en moet betrouwbaar en duurzaam zijn. Moc...
