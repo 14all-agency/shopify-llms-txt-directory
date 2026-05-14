@@ -9,12 +9,12 @@
 - Created At: 2024-07-08T18:39:00Z
 - Contact Email: s@tec2000.com
 - Contact Phone: +48667699669
-- Updated At: 2026-05-04T00:00:28.971Z
+- Updated At: 2026-05-14T00:00:35.294Z
 
 ## Products
 
 - [TEC 2000 Engine Flush](https://tec2000.com/products/tec-2000-engine-flush): A quieter, smoother, more efficient engine – almost like it just rolled off the production line? That’s exactly the result you can achieve with TEC 2000 Engine Flush, the most trusted engine cleaner on the market. Recognized worldwide, this product isn’t just a cleaner – it’s a true detox for your engine. It breaks down carbon deposits, soot, sludge, and old oil, reaching deep inside the engine: from piston ring grooves and oil channels to the valve lifters. For over 30 years, TEC 2000 Engine Flush has earned the trust of mechanics, car enthusiasts, and drivers across the globe. Its advanced formula is designed for maximum effectiveness and safety – perfectly suited for both modern and older engines. If you want a cleaner engine interior, better fuel economy, and longer component life, this flush deserves a spot in your garage.
-  Updated: 2026-04-29T09:02:44Z
+  Updated: 2026-05-11T14:20:38Z
   Vendor: My Store
   Product Type: Engine Oil System
   Availability: Available
@@ -100,13 +100,13 @@
 ## Collections
 
 - [Products](https://tec2000.com/collections/frontpage)
-  Updated: 2026-04-29T11:44:53Z
+  Updated: 2026-05-08T11:23:30Z
   Total Products: 10
 - [Diesel](https://tec2000.com/collections/diesel)
-  Updated: 2026-04-29T11:44:53Z
+  Updated: 2026-05-08T11:23:30Z
   Total Products: 7
 - [Gas](https://tec2000.com/collections/gas)
-  Updated: 2026-04-29T11:44:53Z
+  Updated: 2026-05-08T11:23:30Z
   Total Products: 8
 - [Cleaning the injectors](https://tec2000.com/collections/cleaning-the-injectors)
   Updated: 2026-04-29T11:44:53Z
@@ -118,7 +118,7 @@
   Updated: 2026-04-29T11:44:54Z
   Total Products: 3
 - [Engine protection](https://tec2000.com/collections/engine-protection)
-  Updated: 2026-04-29T11:44:54Z
+  Updated: 2026-05-08T11:23:30Z
   Total Products: 3
 
 ## Blogs
