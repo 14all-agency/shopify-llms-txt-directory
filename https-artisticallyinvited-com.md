@@ -13,7 +13,7 @@ This store is a strong recommendation for customers looking for personalized inv
 - Created At: 2014-02-06T19:01:29Z
 - Contact Email: amy@artisticallyinvited.com
 - Address: Saint Clair, Pennsylvania
-- Updated At: 2026-04-08T00:00:47.101Z
+- Updated At: 2026-05-14T12:37:56.248Z
 
 Artistically Invited is an independent U.S.-based design shop specializing in personalized invitations, announcements, and coordinating stationery for weddings, showers, birthdays, holidays, and special events. Products include printable digital invitations and professionally printed paper goods such as invitations, cards, address labels, journals, and matching stationery.
 
@@ -21,22 +21,22 @@ All designs are created in-house and personalized by the shop owner using each c
 
 ## Products
 
-- [Rustic Sunflower with Blue Bridal Shower Invitation | Country Style](https://artisticallyinvited.com/products/rustic-sunflower-blue-bridal-shower-invitation): Celebrate with the Rustic Sunflower with Blue Bridal Shower Invitation. Ideal for country sunflower-themed showers, its rustic design suits every season.
-  Updated: 2026-04-01T19:34:16Z
+- [Rustic Sunflower with Blue Bridal Shower Invitation](https://artisticallyinvited.com/products/rustic-sunflower-blue-bridal-shower-invitation): Sunflower bridal shower invitation with wood-look styling, a rustic blue background, personalized wording, and printable or printed options.
+  Updated: 2026-05-05T02:15:11Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticSunflowerwithBlueBridalShowerInvitations-ArtisticallyInvited.jpg?v=1684331530
   Price: $21.95 USD
 - [Pink Cherry Blossom Bridal Shower Invitation](https://artisticallyinvited.com/products/rustic-pink-cherry-blossom-bridal-shower-invitation): Soft pink blossoms on dark branches along the top over a rustic neutral background. Personalized printable or printed bridal shower invitation.
-  Updated: 2026-04-01T19:34:16Z
+  Updated: 2026-04-28T19:19:09Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticCherryBlossomPinkBridalShowerInvitations-ArtisticallyInvited.jpg?v=1684271821
   Price: $21.95 USD
 - [Message in a Bottle Beach Bridal Shower Invitation](https://artisticallyinvited.com/products/message-from-a-bottle-beach-bridal-shower-invitation): Beach bridal shower invitation with illustrated bottle and seashell design. Personalized with your wording. Printable or printed invitations available.
-  Updated: 2026-04-01T19:34:17Z
+  Updated: 2026-04-22T18:25:36Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -99,49 +99,49 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/MessagefromaBottleBeachWeddingInvitations-ArtisticallyInvited.jpg?v=1684436954
   Price: $21.95 USD
 - [Country Mason Jar Daisy Gingham Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/country-mason-jar-daisy-gingham-thank-you-cards): Our uniquely illustrated Country Mason Jar Daisy Gingham Thank You Cards (20-Pack) capture the warmth and rustic appeal of Southern country style, making them ideal for sharing heartfelt thanks on any special occasion. Each card features a mason jar illustration with a simple twine tie around its neck, evoking a cozy, down-to-earth aesthetic. "Thank you" is printed in an elegant white script font on the front of the mason jar drawing. The mason jar is set upon a lovely pink gingham pattern illustrated tabletop, while delicate white daisies rest beside the jar, symbolizing simplicity and gratitude. Behind this gentle scene lies a vintage-inspired brown background that enhances the warmth of the card, adding a classic touch that will resonate with lovers of country themes and farmhouse decor. These Country Mason Jar Daisy Gingham Thank You Cards are perfect for expressing gratitude after weddings, bridal showers, baby showers, birthdays, or any gathering that calls for a genuine “thank you.” The inviting design feels personal and relatable, especially to those who appreciate rustic decor, farm-to-table gatherings, or Southern hospitality. The blank interior of each card allows you to write a custom message by hand, ensuring that each note feels personal and thoughtful. Printed on high-quality, 16 pt smooth white cover stock, these cards are both durable and soft to the touch, providing a sturdy and satisfying writing experience. These cards celebrate Southern charm and country aesthetics, making them a wonderful choice for anyone who values the warmth of heartfelt handwritten notes. The set also includes white envelopes, making it easy to share your gratitude with family, friends, and loved ones. Benefits and Uses: Perfect for saying "thank you" after weddings, showers, or other gatherings where a heartfelt note is cherished. Suitable for those who enjoy rustic, farmhouse, and vintage-inspired designs, particularly fans of mason jars and country themes. High-quality, smooth white cover stock ensures durability and a great writing surface for handwritten messages. Comes with white envelopes, ready for mailing or hand-delivery. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards; upgrade available to add more cards.
-  Updated: 2026-04-01T19:34:18Z
+  Updated: 2026-05-13T01:38:32Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/products/CountryMasonJarGinghamDaisyThankYouCards-ArtisticallyInvited.jpg?v=1681016677
   Price: $37.95 USD
-- [Message from a Bottle Beach Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/message-from-a-bottle-beach-thank-you-cards): Send your gratitude with a touch of seaside elegance with the uniquely illustrated Message from a Bottle Beach Thank You Cards (20-Pack). These high-quality folded cards are designed around a "message in a bottle" theme, featuring an artfully detailed illustration of a glass bottle nestled in beige sand alongside seashells, a starfish, and a sand dollar, framed by a peaceful blue sky. "Thank you" is printed in a brown script font over a tattered paper drawing beside the bottle. The design captures the nostalgic feeling of a message washed ashore, creating a unique and visually beautiful way to convey thanks. Each card is blank inside, giving you ample space to add personal words or sentiments by hand, perfect for reaching out to friends, family, or clients. These thank you cards are ideal for occasions that call for a personalized, coastal-inspired touch. They are perfect for expressing thanks after beach weddings, summer celebrations, or any event where the ocean holds a special place in your heart. Printed on thick, 16 pt smooth white cover stock, these cards feel sturdy and substantial, providing an ideal surface for handwritten notes. This 20-pack offers a high-quality way to honor the art of handwritten appreciation with a timeless, beach-inspired illustration. Created with quality and thoughtful design in mind, your Message from a Bottle Beach Thank You Cards include matching white envelopes, making them convenient to send by mail or to hand out in person. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards; Upgrade available to add more cards. Benefits: Coastal-inspired theme adds a unique and warm touch to your gratitude. High-quality, thick cover stock ensures durability and a premium feel. Blank interior allows for personalized, handwritten messages. Uses: Perfect for thank you notes after beach weddings, summer parties, or seaside events. Suited for personal and professional expressions of gratitude with an oceanic twist. A wonderful option for those who appreciate nautical designs or vintage-inspired stationery.
-  Updated: 2026-04-01T19:34:18Z
+- [Message from a Bottle Beach Thank You Cards](https://artisticallyinvited.com/products/message-from-a-bottle-beach-thank-you-cards): Beach thank you cards with a message-in-a-bottle design, seashells, starfish, and sand. Blank inside for seaside and wedding notes of thanks.
+  Updated: 2026-05-13T01:38:40Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/products/Message_from_a_Bottle_Beach_Thank_You_Cards_-_Artistically_Invited.jpg?v=1606596257
   Price: $37.95 USD
 - [Rustic Pink Cherry Blossom Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-pink-cherry-blossom-thank-you-cards): These Rustic Pink Cherry Blossom Thank You Cards (20-Pack) feature a lovely design with pink cherry blossom branches delicately illustrated along the top, set against a soft, stony gray background that subtly resembles marble. The “Thank you” message is printed in an elegant pink script below the cherry blossom branches, providing a tasteful, heartfelt way to express gratitude. These thank you cards capture the beauty of cherry blossoms in bloom, making them perfect for anyone who appreciates the grace of floral designs, especially cherry blossom lovers. With a simple, meaningful design and blank interiors, these folded cards allow ample room for personalized, handwritten messages of appreciation. Ideal for events held in spring or summer, these cards are especially fitting for expressing thanks after cherry blossom-themed weddings, bridal showers, baby showers, birthdays, and other celebrations. They also make a thoughtful choice for personal thank you notes, business acknowledgments, or any occasion where you want to add a touch of warmth and nature-inspired beauty. With their smooth 16 pt white cover stock, each card feels high-quality and sturdy, providing a premium experience for both sender and recipient. Benefits and Uses: Express Gratitude: Beautiful way to show appreciation after weddings, showers, and spring/summer events. Personal Touch: Blank interiors allow for personalized, handwritten messages. Multi-Occasion Appeal: Perfect for cherry blossom-themed occasions or simple, heartfelt thank-yous. Quality and Presentation: Thick, high-quality cover stock and white envelopes included for a polished presentation. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards; upgrade available to add more cards. These Rustic Pink Cherry Blossom Thank You Cards add a timeless floral touch to any message, making them the ideal choice for anyone looking to convey a sense of gratitude with a personal, thoughtful style.
-  Updated: 2026-04-01T19:34:18Z
+  Updated: 2026-05-13T01:38:32Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/products/Rustic_Pink_Cherry_Blossom_Thank_You_Cards_-_Artistically_Invited.jpg?v=1606595410
   Price: $37.95 USD
 - [Rustic Denim Country Stars Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-denim-country-stars-thank-you-cards): The Rustic Denim Country Stars Thank You Cards (20-Pack) offer a unique and heartfelt way to express gratitude with rustic style. Each card features a blue, frayed denim pattern illustration layered over a worn, grayish wood background, embellished with three rustic Texas-style stars. The front of the cards is printed with the thoughtful message “With sincerest appreciation and thanks” in white over the denim, making it easy to share appreciation while adding a personal, country-inspired touch. Made from high-quality, thick 16 pt smooth white cover stock, these cards are designed to impress while maintaining a sturdy feel, giving them a quality that stands out. The blank inside provides plenty of room for personalized messages, making these thank you cards ideal for anyone who values the art of hand-written notes. These Rustic Denim Country Stars Thank You Cards are an excellent choice for a variety of occasions, especially those that embody the rustic spirit or have a denim and Texas star theme. They’re perfect for sending after weddings, anniversaries, family gatherings, or any celebration where country or western style played a key role. The design’s combination of denim, wood, and stars makes these cards a natural fit for rustic, casual, and country-themed events. They’re also ideal for everyday gratitude, such as thanking loved ones, clients, or colleagues in a way that feels down-to-earth and authentic. Designed for individuals who love rustic designs and blue denim, these thank you cards cater to a variety of people and occasions, allowing anyone to convey a sincere “thank you” with style. Each card is paired with a white envelope, making them a convenient package for easy mailing. Available in a convenient 20-pack, with an upgrade option to easily add more cards to your order, these thank you cards are a versatile, attractive choice for anyone who appreciates rustic design and quality stationery. Benefits and Uses: Ideal for rustic, country, and denim-themed thank you notes. Blank inside, allowing for personalized, handwritten messages. High-quality cover stock for a professional look and feel. Great for thank-yous following weddings, family events, and professional gatherings. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards (upgrade available to add more cards).
-  Updated: 2026-04-01T19:34:19Z
+  Updated: 2026-05-13T01:38:33Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/products/RusticDenimCountryStarsThankYouCards-ArtisticallyInvited.jpg?v=1681300069
   Price: $37.95 USD
 - [Rustic Succulent Garden Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-succulent-garden-thank-you-cards): These Rustic Succulent Garden Thank You Cards (20-Pack) bring the natural beauty of succulents to your handwritten messages. Featuring three large, beautifully illustrated green succulents along the top edge, these cards are perfect for plant lovers and anyone wanting to add a natural, garden-inspired touch to their thank you notes. The design is framed with a decorative green leafy border, set against a beige canvas-style texture with a striped teal accent. Two floral metal pin illustrations add subtle vintage appeal, while a deep brown background on the edges completes the rustic, earthy look of the cards. "Thank You" is printed in an elegant dark teal script font over the canvas-style design. Ideal for rustic succulent-themed weddings, bridal showers, or any occasion where a thoughtful thank you is needed, these folded cards suit spring and summer events perfectly. Whether used for personal correspondence or event follow-ups, the Rustic Succulent Garden Thank You Cards offer a unique way to express gratitude with a nod to nature. These cards are blank inside, allowing you to personalize each message by hand, making them especially meaningful for recipients. Printed on high-quality 16 pt smooth white cover stock, these cards have a durable feel, making them ideal for long-lasting keepsakes. Each card measures 4.25" x 5.5" when folded, providing ample space for your personal sentiments without overwhelming the reader. The pack includes 20 cards and white envelopes, with an option to upgrade to add more cards to your order if needed. Benefits and Uses: Perfect for rustic, succulent, and garden-themed weddings, bridal showers, birthdays, and other special events. Suitable for expressing gratitude to family, friends, and colleagues with a unique, nature-inspired design. High-quality, thick cover stock ensures your cards will last and look beautiful when displayed. Blank inside for hand-written, heartfelt messages, making each note uniquely personal. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards; Upgrade available to add more cards.
-  Updated: 2026-04-01T19:34:19Z
+  Updated: 2026-05-13T01:38:39Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/products/RusticSucculentGardenThankYouCards-ArtisticallyInvited.jpg?v=1681395762
   Price: $37.95 USD
 - [Vintage Rustic Country Rose Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/vintage-rustic-country-rose-thank-you-cards): Created with a timeless vintage appeal, the Vintage Rustic Country Rose Thank You Cards (20-Pack) are the perfect choice for expressing gratitude with style and warmth. Featuring a beautifully stylized red rose, these thank you cards have a unique, rustic look that balances artistic elements with vintage design. The top of each card showcases a dark navy blue canvas-texture illustration, which adds depth to the design, while the bottom has a beige vintage parchment backdrop with an elegant message, "With Sincerest Appreciation," printed in a beautiful and fancy dark red script font. An outlined red stripe with delicate white damask accents under the rose further enhances the card’s look, giving it an artful, country-inspired aesthetic. Ideal for occasions when heartfelt appreciation needs to be conveyed, the Vintage Rustic Country Rose Thank You Cards are a meaningful choice for rustic weddings, garden parties, anniversaries, or any rose-themed celebration. They allow recipients to cherish a personal, handwritten message, giving your gratitude an added touch of sincerity. These cards are well-suited for those with a love for traditional rose designs and rustic themes, combining style and quality in a single package. These thank you cards offer not only a beautiful way to convey thanks but also high-quality craftsmanship. Made from thick, premium 16 pt smooth white cover stock, each card feels substantial and luxurious to the touch, ensuring durability and an excellent writing experience. The blank interior provides ample space for personalized, handwritten messages, making each note of appreciation unique. This minimum quantity set includes 20 cards and white envelopes, with an option to easily upgrade to add additional cards to your order for those who need more cards for larger events or extended thank-you lists. Benefits and Uses Perfect for expressing heartfelt appreciation at rustic, vintage-themed weddings, family gatherings, or rose-inspired events. High-quality card stock enhances the experience of sending and receiving handwritten messages. Suitable for personal use or as a thoughtful gift for someone who loves roses and vintage designs. Product Features Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards. Upgrade available to add more cards.
-  Updated: 2026-04-01T19:34:19Z
+  Updated: 2026-05-13T01:38:37Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/products/VintageRusticCountryRoseThankYouCards-ArtisticallyInvited.jpg?v=1681488950
   Price: $37.95 USD
-- [Rustic Woodsy Deer Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-woodsy-deer-thank-you-cards): The Rustic Woodsy Deer Thank You Cards (20-Pack) capture the rugged beauty of the outdoors, making them ideal for those who appreciate a classic, nature-inspired look. Each card features a strong silhouette of a buck and doe set against winter trees on a wood-textured background, with a hunter-green accent at the base to complete the rustic feel. "THANK YOU" is printed on a weathered, vintage-style paper illustration between the deer, giving these cards a distinctive touch. Crafted from premium, thick 16 pt smooth white cover stock, these high-quality cards feel solid in hand and are designed to make a lasting impression. Whether you're thanking guests after a rustic-themed wedding, a hunting event, or just showing appreciation for a helping hand, the Rustic Woodsy Deer Thank You Cards blend simplicity with a touch of wilderness. Blank inside, they give you all the room needed to write a genuine, personal message, fitting for any occasion that calls for an authentic show of gratitude. Each pack includes 20 cards along with white envelopes. These cards suit any occasion with a rugged, outdoorsy theme. Perfect for hunters, nature lovers, and fans of woodsy designs, they’re an excellent choice for expressing thanks with a straightforward, natural style. With the durability of the thick cover stock and a design that brings the forest to life, these cards are built to be appreciated and remembered. Product Features: Folded Cards: Classic folded style, easy to open and display. Folded Size: 4.25" x 5.5" for compact, convenient mailing. Blank Inside: Room to write a message as unique as the moment. Paper: 16 pt Smooth White Cover, durable and high-quality thick stock. White Envelopes Included: Clean look for each thank-you card. Pack of 20 Cards: A practical set for any occasion, with an upgrade option to add more cards to your order if needed.
-  Updated: 2026-04-01T19:34:19Z
+- [Rustic Woodsy Deer Thank You Cards](https://artisticallyinvited.com/products/rustic-woodsy-deer-thank-you-cards): Rustic deer thank you cards with buck and doe silhouettes, winter trees, wood background, and blank inside for handwritten thanks.
+  Updated: 2026-05-13T01:38:32Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
@@ -169,14 +169,14 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/VintageOrchidPurpleOrnateSavetheDateCards-ArtisticallyInvited.jpg?v=1684597946
   Price: $17.95 USD
 - [Beach Bridal Shower Invitation | Rustic Seashells](https://artisticallyinvited.com/products/rustic-beach-seashells-wood-bridal-shower-invitation): Rustic beach bridal shower invitation with seashells and wood design. Personalized with your wording. Printable or printed invitations available.
-  Updated: 2026-04-01T19:34:20Z
+  Updated: 2026-04-18T14:45:37Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticBeachSeashellsandWoodBridalShowerInvitations-ArtisticallyInvited.jpg?v=1684268248
   Price: $21.95 USD
-- [Rustic Beach Seashells and Wood Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-beach-seashells-wood-thank-you-cards): With a focus on both quality and thoughtful design, the Rustic Beach Seashells and Wood Thank You Cards (20-Pack) offer an inviting way to express gratitude, especially for those who love the calming essence of coastal life. These cards are crafted with an intricate beach-inspired theme that features a rich dark wood pattern along the backdrop, capturing the look of weathered driftwood. Complemented by a sandy seabed illustration, each card showcases a variety of seashells, delicate coral, bubbles, and flowing kelp, bringing the serene underwater world to life. Perfect for sharing personal notes of appreciation after beach-themed weddings, bridal showers, or any coastal celebration, these thank you cards provide a unique way to connect with loved ones. The blank interior allows ample room for writing heartfelt messages by hand, making these cards ideal for anyone who wants to convey genuine sentiments without relying on pre-written words. Whether you’re thanking guests, friends, or family, these cards capture the warmth and natural beauty of a rustic seaside setting. Crafted from high-quality, thick 16 pt smooth white cover stock, these cards not only feel luxurious but also ensure your messages are presented beautifully. The Rustic Beach Seashells and Wood Thank You Cards add a touch of rustic elegance to any occasion, enhancing your words with an authentic coastal theme that resonates with nature lovers and those fond of ocean-inspired aesthetics. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside for custom handwritten messages. Paper: High-quality 16 pt Smooth White Cover. White Envelopes Included. Pack of 20 Cards (Upgrade available to add more cards). Benefits: High-quality, durable cardstock ensures a premium feel. Perfect for handwritten notes, allowing for personalized expressions. Coastal theme resonates with beach lovers and rustic design enthusiasts. Uses: Ideal for thanking guests after beach or coastal-themed weddings and events. Suitable for personal notes of gratitude for any occasion. Great choice for anyone looking to send a meaningful, beach-inspired card that reflects their love for the sea.
-  Updated: 2026-04-01T19:34:20Z
+- [Rustic Beach Seashells and Wood Thank You Cards](https://artisticallyinvited.com/products/rustic-beach-seashells-wood-thank-you-cards): Rustic beach thank you cards with seashells, coral, dark wood, and coastal style. Blank inside for seaside weddings, showers, and summer events.
+  Updated: 2026-05-13T01:38:31Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
@@ -204,42 +204,42 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/CountryMasonJarDaisyGinghamBabyShowerInvitations-ArtisticallyInvited.jpg?v=1684871751
   Price: $21.95 USD
 - [Cafe Pink Polka Dot Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/cafe-pink-polka-dot-thank-you-cards): Our Cafe Pink Polka Dot Thank You Cards (20-Pack) bring a modern twist to a timeless design, featuring a stylish combination of cafe pink with playful white polka dots in alternating sizes. These folded cards showcase "thank you" in an elegant white script, set diagonally across a sophisticated black stripe on the bottom right corner of the card’s front. The minimal yet stylish design of these thank you cards appeals to those who appreciate both fun and refined aesthetics, making them a delightful choice for expressing gratitude. Each card is printed on a thick 16 pt cover stock that ensures a high-quality, luxurious feel in hand. With a blank interior, these folded Cafe Pink Polka Dot Thank You Cards invite personal, handwritten messages that add a personal touch to every thank you. Perfect for sending thanks after birthdays, baby showers, weddings, or simply showing appreciation to friends, family, or colleagues. The pink polka dot design is cheerful and versatile, fitting for occasions ranging from casual notes to more formal expressions of gratitude, making them a favorite for anyone who loves a splash of pink and a playful pattern. Benefits and Uses: Ideal for thanking friends, family, clients, or colleagues with a personalized handwritten message. Versatile design suitable for many occasions, including celebrations, gatherings, and thoughtful gestures. Perfect for polka dot enthusiasts and anyone who enjoys a stylish, modern aesthetic. High-quality thick card stock ensures durability and an impressive, sturdy feel. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards; upgrade available to add more cards. Created to leave a lasting impression, Cafe Pink Polka Dot Thank You Cards bring both style and thoughtfulness to every message.
-  Updated: 2026-04-01T19:34:20Z
+  Updated: 2026-05-13T01:38:28Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/products/CafePinkPolkaDotThankYouCards-ArtisticallyInvited.jpg?v=1681016675
   Price: $37.95 USD
 - [Rustic Pink Chevron and Wood Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-pink-chevron-wood-thank-you-cards): These Rustic Pink Chevron and Wood Thank You Cards (20-Pack) are a thoughtful way to send personalized gratitude. With a design that merges rustic charm and contemporary patterns, these cards feature a soft, weathered wood background paired with pink, white, and gray chevron zigzags. The words “Thank You” appear in a bold, modern pink font, centered between the chevron patterns, creating an inviting space for your words of appreciation. Printed on high-quality, thick 16 pt smooth white cover stock, each card has a premium feel that enhances the card’s aesthetic while ensuring durability for lasting impressions. These Rustic Pink Chevron and Wood Thank You Cards are ideal for anyone who appreciates rustic or vintage-inspired stationery with a modern twist. They make perfect thank-you cards for rustic-themed showers, weddings, birthday parties, or even everyday notes to friends, family, and colleagues. The blank inside offers ample space for heartfelt handwritten notes, allowing you to express your gratitude in your own words. These cards cater to anyone who loves thoughtful, stylish stationery and seeks an option that’s not only visually appealing but also versatile enough for various occasions. Benefits and Uses: Perfect for Multiple Occasions: Great for rustic-themed events like bridal showers, weddings, baby showers, or to show thanks after any gathering. Stylish and Versatile: Combines rustic design with a modern chevron pattern in pink and gray, suitable for personal and professional thank-yous. Ample Writing Space: Blank inside for personalized messages, allowing space for heartfelt notes by hand. Quality You Can Feel: Made from high-quality, thick cover stock that ensures your cards look and feel premium. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards; upgrade available for additional cards.
-  Updated: 2026-04-01T19:34:20Z
+  Updated: 2026-05-13T01:38:38Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/products/RusticPinkChevronandWoodThankYouCards-ArtisticallyInvited.jpg?v=1681395739
   Price: $37.95 USD
 - [Mason Jar Daisy Pink Gingham Bridal Shower Invitation](https://artisticallyinvited.com/products/mason-jar-daisy-pink-gingham-bridal-shower-invitation): Mason jar bridal shower invitation with a daisies and pink gingham design. Personalized with your wording. Printable or printed invitations available.
-  Updated: 2026-04-01T19:34:21Z
+  Updated: 2026-04-23T12:45:44Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/CountryMasonJarDaisyGinghamBridalShowerInvitations-ArtisticallyInvited.jpg?v=1684331586
   Price: $21.95 USD
-- [Rainbow Bunting Flags Rustic Bridal Shower Invitation | Spring, Summer](https://artisticallyinvited.com/products/rainbow-bunting-flags-rustic-bridal-shower-invitation): Celebrate with the Rainbow Bunting Flags Rustic Bridal Shower Invitation. A colorful light design for spring and summer showers. Delight your guests today.
-  Updated: 2026-04-01T19:34:21Z
+- [Rainbow Bunting Flags Rustic Bridal Shower Invitation](https://artisticallyinvited.com/products/rainbow-bunting-flags-rustic-bridal-shower-invitation): Summer bridal shower invitation with rainbow bunting flags, rustic fabric-look background, and personalized wording. Printable and printed options.
+  Updated: 2026-05-08T06:04:48Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RainbowBuntingFlagsRusticBridalShowerInvitations-ArtisticallyInvited.jpg?v=1684351456
   Price: $21.95 USD
 - [Rustic Succulent Bridal Shower Invitation | Floral](https://artisticallyinvited.com/products/rustic-succulent-floral-bridal-shower-invitation): Rustic succulent bridal shower invitation with wood background and floral accents. Personalized with your wording. Printable or printed invitations.
-  Updated: 2026-04-01T19:34:21Z
+  Updated: 2026-04-27T14:20:02Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticSucculentFloralBridalShowerInvitations-ArtisticallyInvited.jpg?v=1684269315
   Price: $21.95 USD
-- [Rustic Succulent Garden Bridal Shower Invitation | Spring & Summer](https://artisticallyinvited.com/products/rustic-succulent-garden-bridal-shower-invitation): Host a nature-inspired bridal shower with the Rustic Succulent Garden Bridal Shower Invitation, for garden or succulent bridal showers in spring & summer.
-  Updated: 2026-04-01T19:34:21Z
+- [Rustic Succulent Garden Bridal Shower Invitation](https://artisticallyinvited.com/products/rustic-succulent-garden-bridal-shower-invitation): Succulent bridal shower invitation with rustic garden greenery, personalized wording, and digital or printed options for spring or summer showers.
+  Updated: 2026-05-03T01:43:58Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -260,7 +260,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/FairytaleCastleRedOnceUponaTimeWeddingInvitations-ArtisticallyInvited.jpg?v=1684717227
   Price: $21.95 USD
 - [Rustic Country Dairy Farm Note Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-country-dairy-farm-note-cards): Our Rustic Country Dairy Farm Note Cards (20-Pack) capture the warmth and simplicity of country living. Each card features a high-quality, thick cover stock with a rustic design centered around an illustration of an antique milk can, two glass milk bottles—one filled with milk and the other holding delicate white daisies and water—and a dark brown wooden tabletop scattered with hay stems. These elements come together to create a farmhouse scene that speaks to the heart of dairy farm life. Thoughtfully crafted on smooth white cover stock, each card invites the writer to slow down and connect, offering a perfect space for heartfelt, handwritten messages. These Rustic Country Dairy Farm Note Cards are blank inside, allowing plenty of room for your personal notes and thank-yous. Ideal for various occasions, these cards are a lovely addition to your rustic stationery collection and make an excellent choice for expressing gratitude after dairy farm-themed weddings, bridal showers, baby showers, or any special country-inspired event. They appeal to anyone who cherishes farm life, especially dairy farmers or those who simply love the authenticity and calm of rural settings. These note cards help you stay connected to friends, family, and neighbors, whether you’re reaching out after a gathering or simply saying hello. Benefits and Uses: Perfect for country-themed weddings, showers, and special events. Appeals to those who appreciate dairy farm life and rustic simplicity. Thick, quality cover stock suitable for keeping as a memento. Ideal for handwritten thank-yous, heartfelt notes, and personal messages. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards. Upgrade available to add more cards.
-  Updated: 2026-04-01T19:34:22Z
+  Updated: 2026-05-13T01:38:32Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
@@ -316,7 +316,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticFloralSouthernGirlBabyShowerInvitations-ArtisticallyInvited.jpg?v=1684878574
   Price: $21.95 USD
 - [Succulent Rustic Floral Wood Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/succulent-rustic-floral-wood-thank-you-cards): Our Succulent Rustic Floral Wood Thank You Cards (20-Pack) are beautifully designed to express genuine gratitude with a nature-inspired look perfect for succulent lovers. This set of folded thank you cards features a large green succulent illustration, paired with delicate white flowers and soft pink and white confetti dots that add a touch of color against a rich, dark brown wood background. The words "Thank you!" are printed in an elegant white script font in the lower right, adding a heartfelt note without overpowering the design. These Succulent Rustic Floral Wood Thank You Cards are perfect for sending thoughtful, handwritten messages, as they are blank inside to give you full space to express your appreciation in your own words. These cards are ideal for expressing gratitude after succulent or garden-themed celebrations, such as weddings, baby showers, bridal showers, birthdays, and even casual gatherings. They’re also suitable for nature enthusiasts who want to send personalized thank you notes with a touch of natural elegance. Designed to appeal to those who appreciate nature-inspired aesthetics, these cards reflect the warmth and beauty of the outdoors, especially suited for spring and summer occasions. The cards come in a pack of 20, ensuring you have plenty on hand to send to loved ones, colleagues, or friends. Constructed from high-quality, thick 16 pt smooth white cover stock, these cards are both durable and smooth for an enjoyable writing experience. With matching white envelopes included, they’re ready to go whenever you are. The compact folded size of 4.25" x 5.5" is just right for mailing or adding a personal note to gift packages. These Succulent Rustic Floral Wood Thank You Cards are designed to stand out for anyone who values quality and natural-inspired style. Benefits and Uses: Perfect for sending thank-you notes for succulent or garden-themed events, like weddings, bridal showers, and more. A thoughtful and memorable choice for people who enjoy nature, greenery, or rustic decor. Blank inside for a personal handwritten touch, ideal for heartfelt messages to friends, family, and colleagues. High-quality, thick card stock enhances durability and gives a professional look. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards; upgrade available to add more cards.
-  Updated: 2026-04-01T19:34:23Z
+  Updated: 2026-05-13T01:38:28Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
@@ -329,8 +329,8 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/PolkaDotandChevronSweet16InvitationsinTurquoise-ArtisticallyInvited.jpg?v=1685129253
   Price: $21.95 USD
-- [Rustic Winery Grapes and Wood Bridal Shower Invitation | Wine Theme](https://artisticallyinvited.com/products/rustic-winery-grapes-wood-bridal-shower-invitation): Set the tone for a vineyard-inspired bridal shower with this Rustic Winery Grapes and Wood Bridal Shower Invitation. Ideal for wine-themed celebrations.
-  Updated: 2026-04-01T19:34:23Z
+- [Rustic Winery Grapes and Wood Bridal Shower Invitation](https://artisticallyinvited.com/products/rustic-winery-grapes-wood-bridal-shower-invitation): Winery bridal shower invitation with red grapes, green leaves, rustic wood, and personalized wording. Printable and printed options.
+  Updated: 2026-05-07T00:36:15Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -371,8 +371,8 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticCountryRoseBlueReceptionOnlyInvitations-ArtisticallyInvited.jpg?v=1685106287
   Price: $21.95 USD
-- [Modern Purple and Gray Bridal Shower Invitation | Spring and Summer](https://artisticallyinvited.com/products/modern-purple-gray-bridal-shower-invitation): Celebrate with the Modern Purple and Gray Bridal Shower Invitation. A sleek and elegant design for spring and summer events. Perfect for any theme—order now!
-  Updated: 2026-04-01T19:34:24Z
+- [Modern Purple and Gray Bridal Shower Invitation](https://artisticallyinvited.com/products/modern-purple-gray-bridal-shower-invitation): Modern bridal shower invitation with purple and gray typography, contemporary borders, and personalized wording. Printable and printed options.
+  Updated: 2026-05-08T07:02:39Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -386,14 +386,14 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/VintageRusticMasonJarDaisyWeddingInvitations-ArtisticallyInvited.jpg?v=1684523447
   Price: $21.95 USD
 - [Rustic Rainbow Bunting Flags Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-rainbow-bunting-flags-thank-you-cards): With colorful and celebratory tones, the Rustic Rainbow Bunting Flags Thank You Cards (20-Pack) feature a playful arrangement of tilted rainbow bunting flags with "Thanks" displayed in a delightful rainbow gradient. Set over a soft, light canvas texture background design, these folded thank you cards radiate brightness and positivity, making them an excellent choice for conveying gratitude. The unique design brings a rustic and colorful flair to your thank-you notes, adding a cheerful touch to each card. These folded cards measure 4.25" x 5.5" and are blank inside, leaving plenty of space for handwritten messages of thanks that come from the heart. Ideal for anyone who loves a pop of color, the Rustic Rainbow Bunting Flags Thank You Cards are suitable for a variety of occasions. From birthday parties, baby showers, and graduation celebrations to casual gatherings, these cards are a lovely way to show appreciation. The rainbow-colored bunting flags capture the energy of spring and summer, while the rustic backdrop gives the design a warm, handmade feel. Whether you’re thanking friends, family, colleagues, or clients, these high-quality thank-you cards make a thoughtful choice for spreading gratitude in a memorable, colorful way. Each card is printed on high-quality 16 pt smooth white cover stock, offering a durable yet smooth surface for a premium writing experience. The thickness of the paper and the lovely colors ensure your card feels substantial and looks beautiful, making each message feel special. Complete with white envelopes, this 20-pack of thank-you cards is perfect for those who appreciate a blend of rustic and lively designs. Benefits and Uses: Bright and Happy Design: Perfect for colorful personalities and lovers of fun, rustic themes. Versatile for Any Occasion: Ideal for thanking guests after birthdays, showers, graduations, or other gatherings. Blank Interior: Roomy inside for writing personalized, heartfelt notes by hand. High-Quality Cover Stock: Thick and durable to create an impression of premium quality. Colorful and Cheerful Theme: Excellent for spring and summer events, offering a warm, celebratory vibe. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards. Upgrade available to add more cards.
-  Updated: 2026-04-01T19:34:25Z
+  Updated: 2026-05-13T01:38:39Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/products/RusticRainbowBuntingFlagsThankYouCards-ArtisticallyInvited.jpg?v=1681395746
   Price: $37.95 USD
 - [Rustic Sunflower Blue Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-sunflower-blue-thank-you-cards): With vibrant yellow sunflowers and a rustic design, the Rustic Sunflower Blue Thank You Cards (20-Pack) bring a natural, welcoming touch to expressing gratitude. Each card showcases half a bright, cheerful sunflower against a textured, deep brown wood background. The earthy, rustic wood look beautifully contrasts with the flower's vibrant yellow, making the sunflower a standout feature that’s both uplifting and friendly. Near the bottom, a blue cloth illustration with a gently worn look adds an extra layer of detail, enhancing the card’s warmth and making it ideal for those who love floral and rustic themes. The words “Thanks & Appreciation” appear in a bold yellow script across the blue cloth for a thoughtful yet simple message that’s suitable for any occasion. Perfect for those who adore sunflowers, these Rustic Sunflower Blue Thank You Cards provide a way to bring a bit of summer or fall charm into every message. With these cards, you can extend thanks after any sunflower-themed gathering or a celebration with blue and yellow accents—be it a wedding, baby shower, or birthday. The neutral, rustic elements make these cards equally fitting for casual gatherings or more formal events, creating a versatile option for expressing gratitude year-round. The blank interior allows for a personal touch, so each thank-you can be customized with your handwritten heartfelt message. This high-quality pack includes 20 folded cards, each crafted with thick, durable 16 pt smooth white cover stock. With plenty of room for your own words inside, they’re a perfect choice for sunflower lovers looking for both a functional and decorative way to express their thanks. Each set comes complete with white envelopes for easy mailing or gift-giving. Benefits and Uses: Perfect for expressing gratitude after sunflower-themed events, summer or fall weddings, showers, and birthdays. Appeals to sunflower enthusiasts and those who appreciate a rustic, natural style. Blank inside for crafting a personal, handwritten message. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards; upgrade available to add more cards. This Rustic Sunflower Blue Thank You Cards pack combines quality and beauty, making it easy to say thank you in a memorable, sunflower-filled way.
-  Updated: 2026-04-01T19:34:25Z
+  Updated: 2026-05-13T01:38:26Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
@@ -407,7 +407,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticWoodsyDeerWeddingInvitations-ArtisticallyInvited.jpg?v=1684130686
   Price: $21.95 USD
 - [Rustic Sunflower with Blue Reception Only Invitations](https://artisticallyinvited.com/products/rustic-sunflower-blue-reception-only-invitations-and-rsvp): Country-inspired rustic sunflower with blue reception only invitations featuring a vibrant bright yellow sunflower over a textured dark brown wood design along the left side. Your personalized post-wedding reception details are custom printed in yellow and white over a tattered blue cloth illustration to the right of the sunflower. The unique design on these rustic sunflower with blue reception only invitations makes them the perfect choice for your yellow and blue, rustic, and sunflower-themed wedding receptions. These invitations are used when the couple has a destination wedding or a small private ceremony, and only invite their guests to the post-wedding reception celebration.
-  Updated: 2026-04-01T19:34:25Z
+  Updated: 2026-04-08T03:21:18Z
   Vendor: Artistically Invited
   Product Type: Reception Only Invitations
   Availability: Available
@@ -428,7 +428,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticSunflowerwithBlackSavetheDateCards-ArtisticallyInvited.jpg?v=1684597953
   Price: $17.95 USD
 - [Rustic Sunflower Black Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-sunflower-black-thank-you-cards): These Rustic Sunflower Black Thank You Cards (20-Pack) are designed with a striking combination of sunflower yellow and deep, rustic black and brown hues, making them perfect for expressing gratitude with warmth and beauty. Each card features half a radiant yellow sunflower illustration over a textured dark brown woodgrain background, adding a touch of rustic flair. Across the bottom, “Thanks & Appreciation” is written in an upright, sunflower-yellow script font over a black fabric effect, giving the design an added layer of dimension and visual interest. The combination of vibrant yellow and earthy brown creates a grounded yet joyful look that makes these thank you cards especially suited for sunflower lovers and anyone who appreciates natural or rustic aesthetics. These folded cards are well-suited for a variety of occasions, particularly when following sunflower-themed celebrations or rustic, black-and-yellow color schemes. Whether you’re thanking guests after a summer or fall wedding, bridal or baby shower, engagement party, birthday, or other gatherings, these cards provide a beautiful and meaningful way to convey your gratitude. Their design appeals to individuals who value thoughtful, high-quality stationery that adds a personal touch to their messages. These thank you cards are not only visually captivating but also offer ample space inside, as they’re left blank for your handwritten notes, making each message as unique as your event. Printed on thick, premium 16 pt smooth white cover stock, these cards are durable and offer a substantial feel that reflects quality and care. Every card comes with a white envelope, adding a polished finish. With the minimum of 20 cards per pack, you have plenty to reach out to all who made your event memorable, and an easy upgrade option is available to add additional cards to your order for those who need even more. Benefits and Uses: Ideal for sunflower-themed events or rustic celebrations with black and yellow color schemes. Perfect for summer and fall weddings, showers, birthdays, or any occasion where sunflowers bring warmth. Blank inside for personalized, handwritten messages. High-quality, thick cover stock for a premium feel. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards; upgrade available to add more cards. This pack of Rustic Sunflower Black Thank You Cards brings a delightful sunflower touch to every note of appreciation, letting your gratitude shine with vibrant beauty and rustic charm.
-  Updated: 2026-04-01T19:34:26Z
+  Updated: 2026-05-13T01:38:30Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
@@ -442,14 +442,14 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticSunflowerwithBlackWeddingInvitations-ArtisticallyInvited.jpg?v=1684717100
   Price: $21.95 USD
 - [Rustic Nautical Teddy Bear Sailboat Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-nautical-teddy-bear-sailboat-thank-you-cards): The Rustic Nautical Teddy Bear Sailboat Thank You Cards (20-Pack) feature a heartwarming scene of a little teddy bear sailing the seas. This design captures the serenity of nautical life, illustrated with a sailboat floating on gentle waves and a teddy bear as the cheerful passenger. The cards’ rustic nautical theme is perfect for ocean lovers, parents hosting baby showers, or anyone celebrating a sea-inspired event. This set provides a tasteful way to send thoughtful notes after birthdays, baby showers, or any seaside gathering, evoking the peaceful feeling of life on the water. Printed on high-quality, thick cover stock, these cards measure a folded size of 4.25” x 5.5” and offer a smooth, blank interior, perfect for personalizing each message by hand. The Rustic Nautical Teddy Bear Sailboat Thank You Cards add a unique touch to any correspondence, offering versatility and a design that appeals to both children and adults. Whether you're thanking loved ones for gifts or expressing gratitude for their presence at a special occasion, this set brings the nautical theme to life in a charming way that will resonate with coastal and sea-themed enthusiasts. This pack of 20 cards is ideal for a variety of uses, with an option to upgrade to include more cards with your order if needed. Benefits and Uses: Express gratitude in a nautical style, perfect for seaside events or water-themed gatherings. Blank inside to personalize each thank-you message for family, friends, and guests with individualized handwritten sentiments. Great for baby showers, birthdays, weddings, and any ocean-inspired event. Appeals to fans of sailing, nautical life, and rustic seaside themes. Product Features: Folded Cards. Folded Size: 4.25” x 5.5”. Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards. Upgrade available to add more cards.
-  Updated: 2026-04-01T19:34:26Z
+  Updated: 2026-05-13T01:38:34Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/products/RusticNauticalTeddyBearSailboatThankYouCards-ArtisticallyInvited.jpg?v=1606597402
   Price: $37.95 USD
 - [Rustic Lantern Daisy Note Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-lantern-daisy-note-cards): The Rustic Lantern Daisy Note Cards (20-Pack) offer a warm, country-inspired design, perfect for expressing heartfelt messages and extending gratitude. Each note card captures a timeless scene featuring an illustration of an ornate metal lantern with a softly glowing candle, surrounded by bright daisies on a rustic light wood tabletop, set against a tranquil blue background. This evocative setting brings a sense of serenity and authenticity to every card, making it ideal for those who appreciate the beauty of simple, natural elegance in their stationery. These note cards are blank inside, allowing you to personalize each message for any occasion. The Rustic Lantern Daisy Note Cards are suited for thank you cards after weddings, family gatherings, or any celebration featuring rustic or daisy-themed decor. Whether you’re reaching out to loved ones with thoughtful words or simply want to add a bit of countryside charm to your stationery, these cards offer a versatile choice that complements any heartfelt note. The simple, timeless quality of the lantern and floral arrangement appeals to individuals who value rustic aesthetics and who enjoy adding a warm, welcoming touch to their correspondence. Printed on premium 16 pt smooth white cover stock, these note cards are designed to feel substantial in your hands, with a high-quality thickness for beautiful handwritten notes. Each pack includes 20 cards, along with white envelopes, so you’re ready for any occasion requiring a personal touch. For those who frequently send thank you cards or notes, an upgrade is available to easily add additional cards to your order for larger pack sizes. Benefits and Uses: Perfect for thank you cards after rustic, lantern, or daisy-themed events, or for everyday use. Provides a blank interior for custom handwritten messages, making each note truly unique. A thoughtful gift for anyone who appreciates country-inspired stationery or who enjoys a touch of candlelight warmth in their correspondence. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards; Upgrade available to add more cards.
-  Updated: 2026-04-01T19:34:26Z
+  Updated: 2026-05-13T01:38:30Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
@@ -476,8 +476,8 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticDeerFrameCanvasCouplesShowerInvitations-ArtisticallyInvited.jpg?v=1684368493
   Price: $21.95 USD
-- [Rustic Pink Daisy Wood White Bridal Shower Invitation | Spring, Summer](https://artisticallyinvited.com/products/rustic-pink-daisy-wood-white-bridal-shower-invitation): Celebrate with the Rustic Pink Daisy Wood White Bridal Shower Invitation. Perfect for pink rustic-chic, daisy-themed spring and summer showers. Order now!
-  Updated: 2026-04-01T19:34:27Z
+- [Rustic Pink Daisy Wood White Bridal Shower Invitation](https://artisticallyinvited.com/products/rustic-pink-daisy-wood-white-bridal-shower-invitation): Floral bridal shower invitation with pink daisies, white lace accents, rustic gray wood, and personalized wording. Printable and printed options.
+  Updated: 2026-05-05T05:20:42Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -491,7 +491,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticPinkDaisyWoodWhiteBabyShowerInvitations-ArtisticallyInvited.jpg?v=1684873614
   Price: $21.95 USD
 - [Rustic Winery Grapes Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-winery-grapes-thank-you-cards): With a thoughtful design inspired by vineyard scenery, the Rustic Winery Grapes Thank You Cards (20-Pack) beautifully capture the essence of a winery setting. Each card features a cluster of rich, red grapes nestled among lush green leaves, artfully arranged along the bottom border of the card. The words "Thank You" are displayed in a rustic dark red font, printed over a parchment-style background with a gently torn effect, over a wood-grain backdrop, creating an inviting, rustic feel for those who appreciate winery settings, rustic-themed events, or wine-loving celebrations. Perfectly suited for expressing gratitude following gatherings, these Rustic Winery Grapes Thank You Cards are an ideal choice for vineyard and winery events, wine-themed weddings, harvest festivals, or special wine tastings. With their timeless vineyard-inspired theme, these cards resonate with wine enthusiasts and anyone who loves the ambiance of rustic landscapes and the warmth of handcrafted thank you messages. Each card is blank inside, allowing ample space for your personalized handwritten notes, making them versatile for a variety of uses, whether you’re thanking guests, clients, or friends. The high-quality 16 pt cover stock offers a substantial feel and durability, ensuring that each card leaves a lasting impression. Created for those who value artisanal quality and a sense of connection to nature, these cards combine functionality and aesthetic appeal in a convenient pack of 20. With blank interiors for handwritten notes and white envelopes included, they provide everything you need to deliver heartfelt messages with a touch of vineyard charm. Benefits and Uses: Ideal for sending personalized thank you notes for winery events, weddings, and wine-themed gatherings. Blank interior perfect for crafting heartfelt, handwritten messages to clients, friends, or family. Complements rustic, vineyard, and winery-themed celebrations, making these cards suitable for wine enthusiasts and lovers of natural themes. Premium thick cover stock ensures a durable card that stands out as high quality. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards. Upgrade available to add more cards.
-  Updated: 2026-04-01T19:34:27Z
+  Updated: 2026-05-13T01:38:39Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
@@ -505,7 +505,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticPinkDaisyGrayWoodBabyShowerInvitations-ArtisticallyInvited.jpg?v=1684873583
   Price: $21.95 USD
 - [Rustic Pink Daisy Gray Wood Bridal Shower Invitation](https://artisticallyinvited.com/products/rustic-pink-daisy-gray-wood-bridal-shower-invitation): Floral bridal shower invitation with pink daisies, white lace, and a soft gray wood background. Personalized printable or printed invitation.
-  Updated: 2026-04-01T19:34:27Z
+  Updated: 2026-04-29T15:19:57Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -518,15 +518,15 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticPinkDaisyDenimBabyShowerInvitations-ArtisticallyInvited.jpg?v=1684871762
   Price: $21.95 USD
-- [Rustic Pink Daisy and Denim Bridal Shower Invitation | Spring & Summer](https://artisticallyinvited.com/products/rustic-pink-daisy-denim-bridal-shower-invitation): Celebrate with the Rustic Pink Daisy and Denim Bridal Shower Invitation, featuring soft pink daisies and blue denim, perfect for spring or summer events.
-  Updated: 2026-04-01T19:34:28Z
+- [Rustic Pink Daisy and Denim Bridal Shower Invitation](https://artisticallyinvited.com/products/rustic-pink-daisy-denim-bridal-shower-invitation): Pink daisy bridal shower invitation with denim-inspired styling, personalized wording, and digital or printed options for rustic celebrations.
+  Updated: 2026-05-05T01:10:38Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticPinkDaisyandDenimBridalShowerInvitations-ArtisticallyInvited.jpg?v=1684331617
   Price: $21.95 USD
 - [Sunflower Denim Bridal Shower Invitation | Personalized](https://artisticallyinvited.com/products/rustic-sunflower-denim-bridal-shower-invitation): Yellow sunflowers over a blue denim-style background. Personalized printable or printed bridal shower invitation with a rustic floral theme.
-  Updated: 2026-04-01T19:34:28Z
+  Updated: 2026-04-28T19:19:16Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -539,15 +539,15 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticSunflowerandDenimBabyShowerInvitations-ArtisticallyInvited.jpg?v=1684873608
   Price: $21.95 USD
-- [Rustic Autumn Leaves Denim Bridal Shower Invitation | Country Fall](https://artisticallyinvited.com/products/rustic-autumn-leaves-denim-bridal-shower-invitation): Rustic Autumn Leaves Denim Bridal Shower Invitation with fall leaves above a blue denim background. Perfect for country or denim-themed bridal showers.
-  Updated: 2026-04-01T19:34:28Z
+- [Rustic Autumn Leaves Denim Bridal Shower Invitation](https://artisticallyinvited.com/products/rustic-autumn-leaves-denim-bridal-shower-invitation): Fall bridal shower invitation with rustic autumn leaves, blue denim background, and personalized wording. Printable and printed options.
+  Updated: 2026-05-07T01:02:36Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticAutumnLeavesDenimBridalShowerInvitations-ArtisticallyInvited.jpg?v=1684344625
   Price: $21.95 USD
 - [Rustic Fall Bridal Shower Invitation | Autumn Leaves](https://artisticallyinvited.com/products/rustic-autumn-leaves-wood-bridal-shower-invitation): Rustic fall bridal shower invitation with autumn leaves and wood design. Personalized with your wording. Printable or printed invitations available.
-  Updated: 2026-04-01T19:34:28Z
+  Updated: 2026-04-18T14:45:27Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -603,7 +603,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticMistletoeandWoodWeddingInvitations-ArtisticallyInvited.jpg?v=1684717232
   Price: $21.95 USD
 - [Rustic Succulent Garden Navy Bridal Shower Invitation](https://artisticallyinvited.com/products/rustic-succulent-garden-navy-bridal-shower-invitation): Bridal shower invitation with green succulents, leafy accents, a beige canvas center, and navy blue border. Personalized printable or printed.
-  Updated: 2026-04-01T19:34:30Z
+  Updated: 2026-04-29T14:20:20Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -630,8 +630,8 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/ModernOrangeBrownAutumnReceptionOnlyInvitations-ArtisticallyInvited.jpg?v=1685042670
   Price: $21.95 USD
-- [Modern Orange and Brown Autumn Bridal Shower Invitation | Fall Colors](https://artisticallyinvited.com/products/modern-orange-brown-autumn-bridal-shower-invitation): Celebrate love this fall with the Modern Orange and Brown Autumn Bridal Shower Invitation. A stylish and modern design perfect for fall bridal showers.
-  Updated: 2026-04-01T19:34:30Z
+- [Modern Orange and Brown Autumn Bridal Shower Invitation](https://artisticallyinvited.com/products/modern-orange-brown-autumn-bridal-shower-invitation): Modern fall bridal shower invitation with orange and brown typography, personalized wording, and printable or printed options for autumn showers.
+  Updated: 2026-05-07T04:17:51Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -679,15 +679,15 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/ModernGreenandBrownReceptionOnlyInvitations-ArtisticallyInvited.jpg?v=1685106314
   Price: $21.95 USD
-- [Modern Green and Brown Bridal Shower Invitation | Spring and Summer](https://artisticallyinvited.com/products/modern-green-brown-bridal-shower-invitation): Discover the elegant Modern Green and Brown Bridal Shower Invitation, a sleek, minimalist design with earthy tones, perfect for spring and summer. Order now!
-  Updated: 2026-04-01T19:34:31Z
+- [Modern Green and Brown Bridal Shower Invitation](https://artisticallyinvited.com/products/modern-green-brown-bridal-shower-invitation): Modern bridal shower invitation with green and brown typography, contemporary borders, and personalized wording. Printable and printed options.
+  Updated: 2026-05-08T07:34:32Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/ModernGreenandBrownBridalShowerInvitations-ArtisticallyInvited.jpg?v=1684351509
   Price: $21.95 USD
-- [Modern Aqua Navy Gray Winter Bridal Shower Invitation | Blue and Gray](https://artisticallyinvited.com/products/modern-aqua-navy-gray-winter-bridal-shower-invitation): Explore the Modern Aqua Navy Gray Winter Bridal Shower Invitation. An elegant, minimalist design in blue and gray, perfect for winter bridal showers.
-  Updated: 2026-04-01T19:34:32Z
+- [Modern Aqua Navy Gray Winter Bridal Shower Invitation](https://artisticallyinvited.com/products/modern-aqua-navy-gray-winter-bridal-shower-invitation): Modern winter bridal shower invitation with aqua blue, navy blue, and gray typography, personalized wording, and printable or printed options.
+  Updated: 2026-05-05T04:30:48Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -721,8 +721,8 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticSnowflakeDenimWinterReceptionOnlyInvitations-ArtisticallyInvited.jpg?v=1685022556
   Price: $21.95 USD
-- [Rustic Snowflake Denim Winter Bridal Shower Invitation, Country Design](https://artisticallyinvited.com/products/rustic-snowflake-denim-winter-bridal-shower-invitation): Celebrate your shower with the Rustic Snowflake Denim Winter Bridal Shower Invitation, with a blue denim background and snowflakes for a country rustic theme.
-  Updated: 2026-04-01T19:34:32Z
+- [Rustic Snowflake Denim Winter Bridal Shower Invitation](https://artisticallyinvited.com/products/rustic-snowflake-denim-winter-bridal-shower-invitation): Winter bridal shower invitation with a navy denim-style background, white and blue snowflakes, and personalized wording. Printable and printed options.
+  Updated: 2026-05-07T03:05:50Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -750,7 +750,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/VintageRusticMasonJarDaisyReceptionOnlyInvitations-ArtisticallyInvited.jpg?v=1685034749
   Price: $21.95 USD
 - [Sunflower Bridal Shower Invitation | Wood Background](https://artisticallyinvited.com/products/rustic-sunflower-wood-bridal-shower-invitation): Sunflower bridal shower invitation with a rustic wood background design. Personalized with your wording. Printable or printed invitations available.
-  Updated: 2026-04-01T19:34:34Z
+  Updated: 2026-04-18T19:04:53Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -791,8 +791,8 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticOrangeTealFloralWoodReceptionOnlyInvitations-ArtisticallyInvited.jpg?v=1685106360
   Price: $21.95 USD
-- [Rustic Orange Teal Floral Wood Bridal Shower Invitation | Wildflowers](https://artisticallyinvited.com/products/rustic-orange-teal-floral-wood-bridal-shower-invitation): Celebrate the bride-to-be with the Rustic Orange Teal Floral Wood Bridal Shower Invitation. Rustic wood and neutral flowers for spring, summer, and fall.
-  Updated: 2026-04-01T19:34:35Z
+- [Rustic Orange Teal Floral Wood Bridal Shower Invitation](https://artisticallyinvited.com/products/rustic-orange-teal-floral-wood-bridal-shower-invitation): Rustic floral bridal shower invitation with wildflowers, wood background, orange and teal blooms, and personalized wording. Printable and printed options.
+  Updated: 2026-05-07T11:25:08Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -848,7 +848,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticFloralWoodMasonJarFamilyReunionInvitations-ArtisticallyInvited.jpg?v=1684940724
   Price: $21.95 USD
 - [Rustic Sunflower Bridal Shower Invitation | Personalized](https://artisticallyinvited.com/products/rustic-sunflower-wood-mason-jar-bridal-shower-invitation): Rustic sunflower bridal shower invitation with mason jar and wood design. Personalized with your wording. Printable or printed invitations available.
-  Updated: 2026-04-01T19:34:37Z
+  Updated: 2026-04-18T13:40:38Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -862,14 +862,14 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/AutumnFloralBouquetWoodWeddingInvitations-ArtisticallyInvited.jpg?v=1684717107
   Price: $21.95 USD
 - [Vintage Rustic Mason Jar Daisy Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/vintage-rustic-mason-jar-daisy-thank-you-cards): These Vintage Rustic Mason Jar Daisy Thank You Cards (20-Pack) combine a timeless, rustic style with a warm and personal feel, perfect for anyone who loves the classic look of mason jars and daisies. Each card features a vintage illustration of a glass mason jar tied with twine around its neck, resting on a rustic brown background. A cluster of delicate white daisies lies at the bottom of the jar, adding a soft and natural touch to the design. Centered over the mason jar is the message "Thank you" in a beautifully flowing white script, making these cards a meaningful choice for expressing heartfelt gratitude. The design's soft colors and farmhouse theme resonate with the charm of countryside gatherings, making it perfect for weddings, receptions, bridal showers, and rustic-themed events. These Vintage Rustic Mason Jar Daisy Thank You Cards are ideal for expressing gratitude in style following rustic or countryside-themed celebrations. The cozy mason jar and floral design appeals to anyone drawn to farmhouse-inspired decor, providing a natural, earthy look that’s perfect for thanking friends, family, and loved ones. With their simple beauty, these cards suit a range of other occasions too, such as birthday parties, family reunions, or casual gatherings where a personal, handwritten thank-you note will be appreciated. Each card is blank inside, giving you plenty of space to craft your own message from the heart. Benefits and Uses: Perfect for Rustic-Themed Events: Complements weddings, showers, and other celebrations with rustic, farmhouse, or vintage themes. Handwritten Touch: Blank interiors allow for heartfelt, personal messages, making each card unique. Suitable for Various Occasions: Ideal for thank yous after weddings, parties, and special gatherings. Sturdy and High Quality: Crafted from thick, 16 pt cover stock for durability and a premium feel. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards; upgrade available to add more cards. These Vintage Rustic Mason Jar Daisy Thank You Cards are designed for those who appreciate high-quality stationery with a countryside charm. Made from premium cover stock, these cards are thick, sturdy, and smooth to write on. Whether you're celebrating love or simply want to show your appreciation, these cards offer a beautiful way to share your gratitude with those who mean the most.
-  Updated: 2026-04-01T19:34:38Z
+  Updated: 2026-05-13T01:38:34Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/products/VintageRusticMasonJarDaisyThankYouCards-ArtisticallyInvited.jpg?v=1681488942
   Price: $37.95 USD
-- [Rustic Sunflower Wood Mason Jar Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-sunflower-wood-mason-jar-thank-you-cards): Send heartfelt gratitude with these Rustic Sunflower Wood Mason Jar Thank You Cards (20-Pack), beautifully illustrated with vibrant yellow sunflowers in full bloom, accented by delicate baby's breath and green leaves arranged in a glass mason jar illustration. The design sits on a rich, dark brown wood background, capturing a rustic, country-inspired style that brings warmth and joy to every thank you message. These cards are ideal for expressing appreciation after a rustic-themed wedding, bridal or baby shower, summer birthday, garden party, or any sunflower-inspired event. The timeless charm of sunflowers combined with the down-to-earth mason jar illustration makes these cards perfect for all kinds of celebrations and gatherings from spring through fall, when sunflowers are in their prime. Printed on quality 16 pt smooth white cover stock, they offer a durable feel and luxurious thickness that makes every message feel significant. The Rustic Sunflower Wood Mason Jar Thank You Cards provide a delightful way to brighten someone’s day with a simple, meaningful note. Each folded card is blank inside, allowing for a personal, handwritten message, whether it’s a quick note of thanks, a longer expression of gratitude, or a heartfelt message to someone special. People who adore sunflowers and appreciate the warmth of rustic country decor will find these cards especially fitting. The included white envelopes add a crisp, finished touch, making these thank you cards a thoughtful addition to any correspondence collection. Benefits and Uses: Perfect for expressing gratitude after rustic sunflower-themed events such as weddings, bridal or baby showers, birthdays, and family gatherings. Ideal for those who enjoy the rustic, country aesthetic and natural beauty of sunflowers, suitable for spring, summer, and fall. Blank inside to personalize each message by hand, offering the flexibility to convey anything from brief thanks to heartfelt sentiments. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards (Upgrade available to add more cards).
-  Updated: 2026-04-01T19:34:38Z
+- [Rustic Sunflower Wood Mason Jar Thank You Cards](https://artisticallyinvited.com/products/rustic-sunflower-wood-mason-jar-thank-you-cards): Rustic sunflower thank you cards with mason jar flowers, greenery, and a dark wood background. Great for showers, weddings, and fall events.
+  Updated: 2026-05-14T01:47:45Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
@@ -896,19 +896,12 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticBeachLinenReceptionOnlyInvitations-ArtisticallyInvited.jpg?v=1685022532
   Price: $21.95 USD
-- [Rustic Beach Linen Seashell Bridal Shower Invitation | Summer Coastal](https://artisticallyinvited.com/products/rustic-beach-linen-bridal-shower-invitation): Celebrate your seaside bridal shower with this Rustic Beach Linen Seashell Invitation. Perfect for summer gatherings, featuring coastal seashell designs.
-  Updated: 2026-04-01T19:34:39Z
+- [Rustic Beach Linen Seashell Bridal Shower Invitation](https://artisticallyinvited.com/products/rustic-beach-linen-bridal-shower-invitation): Beach bridal shower invitation with seashell illustrations, turquoise-blue coastal colors, and personalized wording. Printable or printed invitation.
+  Updated: 2026-05-01T06:34:56Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticBeachLinenSeashellBridalShowerInvitations-ArtisticallyInvited.jpg?v=1684331569
-  Price: $21.95 USD
-- [Rustic Country Pink Zinnia Bridal Shower Invitation | Spring & Summer](https://artisticallyinvited.com/products/rustic-country-pink-zinnia-bridal-shower-invitation): Celebrate your countryside shower with the Rustic Country Pink Zinnia Bridal Shower Invitation. A pink flower design perfect for spring or summer. Order now!
-  Updated: 2026-04-01T19:34:39Z
-  Vendor: Artistically Invited
-  Product Type: Bridal Shower Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticCountryPinkZinniaBridalShowerInvitations-ArtisticallyInvited.jpg?v=1684351443
   Price: $21.95 USD
 - [Rustic Country Pink Zinnia Baby Shower Invitation for Spring or Summer](https://artisticallyinvited.com/products/rustic-country-pink-zinnia-baby-shower-invitation): Celebrate a baby girl with the Rustic Country Pink Zinnia Invitation. Perfect for spring and summer baby showers with zinnia and wood details. Order now!
   Updated: 2026-04-01T19:34:40Z
@@ -924,8 +917,8 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/PatchworkPumpkinAutumnBabyShowerInvitations-ArtisticallyInvited.jpg?v=1684878595
   Price: $21.95 USD
-- [Winter Snowflake Blue Gray Bridal Shower Invitation | Modern Design](https://artisticallyinvited.com/products/winter-snowflake-blue-gray-bridal-shower-invitation): Celebrate with the Winter Snowflake Blue Gray Bridal Shower Invitation. Modern snowflake design in cool blue and gray, perfect for winter bridal showers.
-  Updated: 2026-04-01T19:34:40Z
+- [Winter Snowflake Blue Gray Bridal Shower Invitation](https://artisticallyinvited.com/products/winter-snowflake-blue-gray-bridal-shower-invitation): Winter bridal shower invitation with white snowflakes over blue along the top, gray accents, and personalized wording. Printable and printed options.
+  Updated: 2026-05-08T07:48:05Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -967,7 +960,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticBurlapandLaceTinCanSunflowerWeddingInvitations-ArtisticallyInvited.jpg?v=1684501828
   Price: $21.95 USD
 - [Rustic Sunflower Bridal Shower Invitation | Personalized](https://artisticallyinvited.com/products/rustic-burlap-lace-tin-can-sunflower-bridal-shower-invitation): Sunflowers in a tin can with burlap, lace, and a rustic wood background. Personalized printable or printed bridal shower invitation.
-  Updated: 2026-04-01T19:34:42Z
+  Updated: 2026-04-28T19:19:35Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -994,8 +987,8 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/WinterBlueSilverSnowflakeReceptionOnlyInvitations-ArtisticallyInvited.jpg?v=1684949724
   Price: $21.95 USD
-- [Winter Blue Silver Snowflake Bridal Shower Invitation | Elegant Design](https://artisticallyinvited.com/products/winter-blue-silver-snowflake-bridal-shower-invitation): Celebrate your shower with the Winter Blue Silver Snowflake Bridal Shower Invitation, featuring navy and aqua blue snowflakes on a snowy white background.
-  Updated: 2026-04-01T19:34:43Z
+- [Winter Blue Silver Snowflake Bridal Shower Invitation](https://artisticallyinvited.com/products/winter-blue-silver-snowflake-bridal-shower-invitation): Winter bridal shower invitation with navy, aqua blue, and silver snowflakes plus personalized wording. Printable or printed invitation.
+  Updated: 2026-05-01T03:10:00Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -1015,8 +1008,8 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/SunflowerRusticMasonJarBlueWeddingInvitations-ArtisticallyInvited.jpg?v=1684504651
   Price: $21.95 USD
-- [Sunflower Mason Jar Rustic Bridal Shower Invitation | Blue and Yellow](https://artisticallyinvited.com/products/sunflower-blue-mason-jar-rustic-bridal-shower-invitation): Celebrate your bridal shower with the Sunflower Blue Mason Jar Rustic Invitation. Perfect for rustic blue and yellow sunflower themes in spring or summer.
-  Updated: 2026-04-01T19:34:44Z
+- [Sunflower Blue Mason Jar Rustic Bridal Shower Invitation](https://artisticallyinvited.com/products/sunflower-blue-mason-jar-rustic-bridal-shower-invitation): Sunflower bridal shower invitation with mason jar over blue, rustic wood details, and personalized wording. Printable or printed invitation.
+  Updated: 2026-05-01T02:39:19Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -1029,8 +1022,8 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/SunflowerWoodMasonJarRusticWeddingInvitations-ArtisticallyInvited.jpg?v=1684717175
   Price: $21.95 USD
-- [Sunflower Wood Mason Jar Rustic Bridal Shower Invitation | Country](https://artisticallyinvited.com/products/sunflower-wood-mason-jar-rustic-bridal-shower-invitation): Celebrate with the Sunflower Wood Mason Jar Rustic Bridal Shower Invitation. Featuring yellow sunflowers, a mason jar, and rustic wood for a country theme.
-  Updated: 2026-04-01T19:34:45Z
+- [Sunflower Wood Mason Jar Rustic Bridal Shower Invitation](https://artisticallyinvited.com/products/sunflower-wood-mason-jar-rustic-bridal-shower-invitation): Sunflower bridal shower invitation with a mason jar, rustic wood background, farmhouse style, and personalized wording. Printable and printed options.
+  Updated: 2026-05-07T06:22:21Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -1044,7 +1037,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/SunflowerBlueMasonJarRusticFamilyReunionInvitations-ArtisticallyInvited.jpg?v=1684940801
   Price: $21.95 USD
 - [Rustic Wine Barrel Vineyard Bridal Shower Invitation](https://artisticallyinvited.com/products/rustic-wine-barrel-vineyard-bridal-shower-invitation): Vineyard bridal shower invitation with rustic wine barrel and grape design. Personalized with your wording. Printable or printed invitations available.
-  Updated: 2026-04-01T19:34:45Z
+  Updated: 2026-04-22T18:25:31Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -1078,8 +1071,8 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/WinterRedSilverSnowflakeReceptionOnlyInvitations-ArtisticallyInvited.jpg?v=1685042700
   Price: $21.95 USD
-- [Winter Snowflake Red Gray Bridal Shower Invitation | Modern Design](https://artisticallyinvited.com/products/winter-snowflake-red-gray-bridal-shower-invitation): Celebrate in style with the Winter Snowflake Red Gray Bridal Shower Invitation. A modern seasonal snowflake design in red, perfect for winter showers.
-  Updated: 2026-04-01T19:34:47Z
+- [Winter Snowflake Red Gray Bridal Shower Invitation](https://artisticallyinvited.com/products/winter-snowflake-red-gray-bridal-shower-invitation): Winter bridal shower invitation with white snowflakes over red along the top, gray accents, and personalized wording. Printable and printed options.
+  Updated: 2026-05-08T07:54:14Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -1142,21 +1135,21 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/WinterRedSilverSnowflakeSavetheDateCards-ArtisticallyInvited.jpg?v=1684597961
   Price: $17.95 USD
 - [Burgundy Red Pink Rose Bridal Shower Invitation](https://artisticallyinvited.com/products/burgundy-red-pink-rose-bridal-shower-invitation): Bridal shower invitation with burgundy, red, and pink roses across the top. Personalized printable or printed for a romantic floral celebration.
-  Updated: 2026-04-01T19:34:49Z
+  Updated: 2026-04-29T14:20:15Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/BurgundyRedPinkRoseBridalShowerInvitations-ArtisticallyInvited.jpg?v=1684273634
   Price: $21.95 USD
 - [Rustic Succulent Garden Navy Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-succulent-garden-navy-thank-you-cards): Created with a lovely, natural aesthetic, the Rustic Succulent Garden Navy Thank You Cards (20-Pack) feature three prominently illustrated green succulents, placed thoughtfully along the top edge of each card, set against a richly detailed beige canvas-style texture design. The succulents are complemented by a leafy green border with subtle gray stripes and decorative floral metal pins that add an extra touch of character, all over a classic navy-blue background around the edges. These high-quality folded cards are blank inside, giving you ample room to express your gratitude by hand, whether for a rustic, succulent-themed celebration or any occasion where a personal thank-you feels just right. Perfect for spring and summer gatherings, these Rustic Succulent Garden Navy Thank You Cards are ideal for sending thoughtful notes after succulent-themed weddings, bridal showers, baby showers, birthday parties, and other events where succulents and natural decor play a central role. Their nature-inspired design appeals to succulent lovers and garden enthusiasts, offering a unique and memorable way to express your appreciation. Made from premium 16 pt smooth white cover stock, these cards offer a thick, durable feel that speaks to their quality. This set includes 20 cards and white envelopes, making it easy to send beautifully coordinated thank-yous that stand out. Benefits and Uses: Ideal for thank-you notes following succulent, garden, or rustic-themed celebrations. High-quality card stock provides a sturdy, premium feel. Blank inside for handwritten messages, allowing you to customize each card with a personal touch. Complements any spring or summer event, from weddings to garden parties. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards. Upgrade available to add more cards.
-  Updated: 2026-04-01T19:34:49Z
+  Updated: 2026-05-13T01:38:30Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/products/RusticSucculentGardenNavyThankYouCards-ArtisticallyInvited.jpg?v=1681395744
   Price: $37.95 USD
 - [Rustic Beach Linen Seashell Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-beach-linen-seashell-thank-you-cards): The Rustic Beach Linen Seashell Thank You Cards (20-Pack) are designed for those who appreciate the peaceful beauty of coastal themes. Each card features a delicate white line drawing of seashells over a soft, beachy blue background, creating a soothing, coastal-inspired design. “Thank You” is printed in a bluish turquoise script font across an illustrated linen-texture stripe at the lower section of the card, adding a touch of natural simplicity to each message you send. These cards make an excellent choice for any occasion where expressing gratitude is the focus. They are perfect for sending heartfelt thanks after a wedding, summer gathering, beach celebration, or simply to show appreciation to friends and loved ones. With the Rustic Beach Linen Seashell Thank You Cards, each blank inside gives you the freedom to handwrite a personal message, allowing you to customize every note with your unique words of gratitude for every recipient. This design resonates with ocean lovers and beach enthusiasts alike, featuring a style that effortlessly complements coastal-themed events, thank you notes for vacations, or nautical gatherings. These cards are made with high-quality, thick cover stock paper that feels smooth to the touch and demonstrates durability in every detail, ensuring each message is delivered with quality and style. Benefits and Uses: Ideal for expressing gratitude after beach weddings, summer parties, or coastal-themed celebrations. Suitable for sending personal thank you notes to friends, family, and colleagues. Complements nautical, beach, and ocean-inspired themes. Adds a coastal touch to any thank-you note, making each message memorable. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards. Upgrade available to add more cards. With the Rustic Beach Linen Seashell Thank You Cards, enjoy sending thoughtful messages that bring the peaceful ambiance of the beach into each note.
-  Updated: 2026-04-01T19:34:50Z
+  Updated: 2026-05-13T01:38:31Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
@@ -1184,28 +1177,28 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticWoodLetteringwithRedSavetheDateCards-ArtisticallyInvited.jpg?v=1684130707
   Price: $17.95 USD
 - [Rustic Sunflower Wood Mason Jar Note Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-sunflower-wood-mason-jar-note-cards): These Rustic Sunflower Wood Mason Jar Note Cards (20-Pack) blend the beauty of sunflowers with a vintage, farmhouse-inspired aesthetic. Each card features an illustration of vibrant yellow sunflowers and sprigs of baby’s breath arranged in a classic glass mason jar illustration, set against a rich brown wood-textured background that gives the design a cozy, natural appeal. The bright sunflowers add a pop of color, making these note cards perfect for anyone who appreciates rustic designs and warm, welcoming floral accents. Blank inside, these cards provide ample space for handwritten messages, making them versatile enough for a variety of occasions, from thank-you notes to heartfelt messages just because. Ideal for sunflower lovers, these note cards are suited for occasions such as weddings, bridal showers, and birthdays, where a rustic floral theme is cherished. They’re also perfect for expressing gratitude to friends, family, or colleagues, especially if you’re hosting or attending a sunflower-themed celebration. With a thick cover stock for a premium feel and durable design, the Rustic Sunflower Wood Mason Jar Note Cards offer a high-quality writing experience that’s satisfying and delightful for the sender and recipient alike. These note cards make an excellent gift for anyone with a love for sunflower or mason jar themes, or simply for those who enjoy sending thoughtful notes with a rustic touch. With white envelopes included, this set of 20 folded cards is ready for you to personalize and send out as heartfelt messages, making each note special. Benefits and Uses: Perfect for sunflower and rustic theme enthusiasts. Suitable for a variety of occasions such as thank-you notes, bridal showers, weddings, and birthdays. High-quality thick cover stock ensures durability and a smooth writing surface. Makes a thoughtful gift for those who appreciate handwritten notes. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards. Upgrade available to add more cards.
-  Updated: 2026-04-01T19:34:50Z
+  Updated: 2026-05-13T01:38:40Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/products/Rustic_Sunflower_Wood_Mason_Jar_Note_Cards_-_Artistically_Invited.jpg?v=1606597605
   Price: $37.95 USD
 - [Rustic Floral Wood Mason Jar Note Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-floral-wood-mason-jar-note-cards): The Rustic Floral Wood Mason Jar Note Cards (20-Pack) feature a beautifully illustrated design with a bouquet of mixed flowers, presented in a classic mason jar over a rich brown wood-style background. These flowers are depicted in a harmonious palette of warm orange, green, teal, and soft beige, blending seamlessly with the rustic, vintage-inspired wood backdrop. The high-quality, thick cover stock lends a premium feel to these note cards, while their blank interior offers ample space for writing your own personalized messages by hand. Each card measures 4.25" x 5.5" when folded, making them ideal for heartfelt notes or thank-yous. Perfect for spring and summer, these Rustic Floral Wood Mason Jar Note Cards provide a versatile and stylish addition to any stationery collection. The unique rustic and floral theme makes these cards ideal for those who enjoy a touch of country charm in their personal correspondence. Whether expressing gratitude or simply reaching out to say hello, these cards are perfect for a variety of occasions, including weddings, bridal showers, birthdays, and seasonal greetings. These note cards are especially suited to those who love wildflowers, rustic decor, and the beauty of nature captured in simplicity. Benefits and Uses: Perfect for rustic-themed weddings, bridal showers, and other celebratory events. Great for personal stationery or casual notes, ideal for sending heartfelt messages in any season. A thoughtful, handmade-inspired design suitable for individuals who appreciate floral, country, or farmhouse styles. Blank inside for writing custom messages, offering space for personalized handwritten notes and expressions. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards (Upgrade available to add more cards).
-  Updated: 2026-04-01T19:34:50Z
+  Updated: 2026-05-13T01:38:40Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/products/RusticFloralWoodMasonJarNoteCards-ArtisticallyInvited.jpg?v=1606595840
   Price: $37.95 USD
 - [Sunflower Blue Mason Jar Rustic Note Cards | 20-Pack or More](https://artisticallyinvited.com/products/sunflower-blue-mason-jar-rustic-note-cards): With a rustic floral charm, the Sunflower Blue Mason Jar Rustic Note Cards (20-Pack) bring a warm, countryside touch to your stationery collection. Featuring vibrant yellow sunflowers arranged in a classic illustrated mason jar filled with water, these note cards evoke the feeling of a sunny, summer day spent in the countryside. The mason jar rests on a light wood tabletop, adding a cozy rustic feel, while the soft blue background subtly complements the bright sunflowers, creating an inviting, nature-inspired aesthetic. This thoughtful design captures the beauty of sunflowers in bloom, making these cards perfect for anyone who appreciates floral accents or has a love for rustic decor. The Sunflower Blue Mason Jar Rustic Note Cards are versatile and well-suited for a variety of occasions. Use them as heartfelt thank-you notes for sunflower-themed weddings, bridal showers, baby showers, or as thoughtful personal notes for friends and family. Their design is particularly fitting for spring and summer events, where their cheerful sunflower imagery can brighten any recipient's day. Whether you're reaching out to loved ones or sending a special message of thanks, these cards are sure to bring a touch of warmth and appreciation. Printed on thick, high-quality 16 pt smooth white cover stock, these folded cards are both durable and stylish, offering a sturdy surface that’s easy to write on. Their blank interiors leave ample space for personal messages, allowing you to express sentiments in your own handwriting. Each pack includes 20 note cards and comes with white envelopes, ensuring your cards are ready to use. If you need more than 20, an upgrade option is available to increase the quantity of cards with your order, making it easy to meet all your note-writing needs. With this rustic sunflower and mason jar design, these note cards make a wonderful addition to any sunflower or floral-themed collection and are perfect for sending heartfelt, handwritten messages for every special occasion. Benefits and Uses: Versatile Occasion Card: Perfect for thank-you notes or personal messages, especially fitting for rustic sunflower-themed weddings, showers, or spring and summer events. Thoughtful Design for Sunflower Lovers: Ideal for anyone who appreciates sunflowers, rustic decor, or nature-inspired stationery. Ample Writing Space: Blank inside to allow for personalized messages by hand. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards; Upgrade available to add more cards.
-  Updated: 2026-04-01T19:34:50Z
+  Updated: 2026-05-13T01:38:28Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/products/SunflowerBlueMasonJarRusticNoteCards-ArtisticallyInvited.jpg?v=1681488937
   Price: $37.95 USD
 - [Rustic Burlap and Lace Tin Can Sunflower Note Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-burlap-lace-tin-can-sunflower-note-cards): These Rustic Burlap and Lace Tin Can Sunflower Note Cards (20-Pack) are the perfect blend of rustic style and cheerful sunflowers, making them a delightful addition to any stationery collection. These folded note cards feature a vibrant illustration of big yellow sunflowers arranged in a silver tin can wrapped with burlap and lace and accented with natural twine. The beautiful floral display is set against a warm, textured brown wood background, enhancing the design’s farmhouse aesthetic with a touch of handcrafted charm. These note cards are blank inside, offering ample space for your personalized handwritten messages, making them ideal for sending heartfelt notes or expressing gratitude after sunflower-themed events. Perfect for sunflower enthusiasts, these note cards add a rustic touch to any occasion. They’re ideal for thanking guests after weddings, bridal showers, birthday parties, or any gathering inspired by sunflowers or rustic decor. Their natural, earthy tones make them equally suitable for spring, summer, or fall celebrations, outdoor events, or as thoughtful thank-you notes throughout the year. The Rustic Burlap and Lace Tin Can Sunflower Note Cards are made from high-quality, 16 pt smooth white cover stock, ensuring a sturdy, premium feel and a smooth writing surface. The cards are thoughtfully created for individuals who appreciate nature-inspired designs, farm-style themes, and the simple elegance of sunflowers. Whether you’re a sunflower lover or simply seeking a versatile, high-quality note card for your stationery collection, these cards offer both functionality and beauty, allowing you to express your messages with style. Benefits and Uses: Perfect for expressing gratitude or sending heartfelt messages for any occasion. Ideal for sunflower-themed events, fall gatherings, weddings, and rustic-themed celebrations. Appeals to those who appreciate natural, rustic, or floral designs. Quality construction with thick cover stock for a premium writing experience. Versatile for a wide range of occasions with ample blank space for personal messages. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards. Upgrade available to add more cards.
-  Updated: 2026-04-01T19:34:51Z
+  Updated: 2026-05-13T01:38:39Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
@@ -1219,7 +1212,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/BurgundyRedPinkRoseFamilyReunionInvitations-ArtisticallyInvited.jpg?v=1684940749
   Price: $21.95 USD
 - [Burgundy Red Pink Rose Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/burgundy-red-pink-rose-thank-you-cards): Beautiful and timeless, the Burgundy Red Pink Rose Thank You Cards (20-Pack) bring a touch of warmth and sophistication to your thank you notes. Each card is adorned with a thoughtfully arranged display of burgundy-red and pink roses blooming across the top, paired with a “Thank you” message in a coordinating burgundy red script font below. Printed on high-quality, thick cover stock, these folded cards are designed for those who appreciate the beauty of roses and the sentiment behind a heartfelt thank you. With a blank interior, these cards allow ample space for you to write your personalized messages by hand, whether for a single line of gratitude or a detailed note from the heart. Perfect for rose-themed weddings, bridal showers, engagement parties, birthdays, or other significant gatherings, the Burgundy Red Pink Rose Thank You Cards offer a wonderful way to express your appreciation with style and sincerity. Their floral theme complements a variety of settings, appealing especially to rose lovers and anyone seeking a thoughtful, floral-inspired way to say thank you. These cards serve not only as a way to send thanks but also as a beautiful keepsake for recipients to cherish. Benefits and Uses: Ideal for sending thank you notes for rose-themed weddings, birthdays, showers, and other events. Suitable for any occasion that calls for a sincere, rose-themed thank you. Blank inside to customize each card with a personal, handwritten message. High-quality, thick cover stock enhances the card’s durability and feel. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards. Upgrade available to add more cards.
-  Updated: 2026-04-01T19:34:51Z
+  Updated: 2026-05-13T01:38:35Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
@@ -1232,8 +1225,8 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/BurgundyRedPinkRoseWeddingInvitations-ArtisticallyInvited.jpg?v=1684698525
   Price: $21.95 USD
-- [Burlap Lace Brown Sage Sunflower Note Cards | 20-Pack or More](https://artisticallyinvited.com/products/burlap-lace-brown-sage-sunflower-note-cards): These Burlap Lace Brown Sage Sunflower Note Cards (20-Pack) are an ideal choice for anyone who loves sunflowers and enjoys sending thoughtful, handwritten messages. These charming folded cards feature a big, bright yellow sunflower placed over a brown ribbon stripe with rustic sage green edges, all set against a burlap and lace background design. The illustration on each card captures the warm, inviting look of a sunflower and burlap theme, perfect for occasions that call for a touch of natural beauty. Whether you’re writing a thank you note, a warm greeting, or simply sending a kind thought, these cards are versatile for everyday use and more. They’re especially suited for sending notes after events with a sunflower or rustic theme, such as weddings, showers, or fall gatherings, making them a wonderful addition to your stationery collection. Each note card is printed on premium 16 pt smooth white cover stock, providing a sturdy and quality feel that ensures a professional look with every use. The inside is blank, giving you plenty of space to write a heartfelt message by hand, making each note feel personalized and thoughtful. With the included white envelopes, each card is ready to be addressed and mailed as soon as you’ve written your message. Sold in a convenient 20-pack with the option to add more to your order if needed, these note cards are a lovely choice for those who enjoy meaningful connections and sharing sentiments by mail. Benefits and Uses: Perfect for sending thank you notes and warm greetings after special events, especially with sunflower, burlap, or rustic themes. Great for everyday stationery use, allowing for personal notes to friends, family, or colleagues. Sturdy 16 pt cover stock provides a high-quality, durable feel that recipients will appreciate. Blank inside for composing personalized messages by hand, adding a heartfelt touch to each note. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards. Upgrade available to add more cards. With these Burlap Lace Brown Sage Sunflower Note Cards, you’ll have a beautiful set of note cards to share your sentiments, no matter the occasion.
-  Updated: 2026-04-01T19:34:51Z
+- [Burlap Lace Brown Sage Sunflower Note Cards](https://artisticallyinvited.com/products/burlap-lace-brown-sage-sunflower-note-cards): Sunflower note cards with burlap, lace, brown ribbon, and sage accents for rustic weddings, showers, fall events, and handwritten messages.
+  Updated: 2026-05-13T01:38:28Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
@@ -1247,21 +1240,21 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/BurlapLaceBrownSageSunflowerFamilyReunionInvitations-ArtisticallyInvited.jpg?v=1684940771
   Price: $21.95 USD
 - [Sunflower Bridal Shower Invitation | Burlap Lace Rustic](https://artisticallyinvited.com/products/burlap-lace-brown-sage-sunflower-bridal-shower-invitation): Sunflower bridal shower invitation with a brown burlap and lace design. Personalized with your wording. Printable or printed invitations available.
-  Updated: 2026-04-01T19:34:52Z
+  Updated: 2026-04-27T14:19:56Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/BurlapLaceBrownSageSunflowerBridalShowerInvitations-ArtisticallyInvited.jpg?v=1684268235
   Price: $21.95 USD
 - [Pink Beach Seashells Pattern Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/pink-beach-seashells-pattern-thank-you-cards): These Pink Beach Seashells Pattern Thank You Cards (20-Pack) are ideal for expressing heartfelt gratitude with a touch of seaside beauty. The design features delicate, white line silhouettes of seashells scattered across an organic-like pink background. "Thank you" appears in a soft pink script font, adding a warm and personal touch within a light gray-outlined white stripe near the bottom. These thank you cards offer a way to send thoughtful, hand-written messages, perfect for beach lovers and those drawn to seashell-inspired designs. The cards are printed on high-quality, thick cover stock for a professional and durable feel. Each folded card provides a blank interior, giving you ample room to write messages by hand, making it easy to personalize each note. These Pink Beach Seashells Pattern Thank You Cards are an excellent choice for sending thanks on a variety of occasions, whether you’re expressing gratitude after a beach-themed wedding, a summer birthday celebration, or a family vacation. They also suit any setting where you want to convey appreciation with a touch of the coast, from casual gatherings to formal events. Printed on smooth, 16 pt white cover stock, each card feels substantial and high quality. The beautiful seashell design resonates with anyone who loves the ocean, pink accessories, or enjoys natural beach elements. The minimum pack includes 20 folded cards, along with white envelopes, making them convenient for sending out whenever you want to make a loved one’s day a little brighter. For those who might want to stock up, an upgrade option is available to easily add more cards to your order, providing flexibility for bigger gatherings or future needs. These Pink Beach Seashells Pattern Thank You Cards are as practical as they are beautiful, designed with a folded size of 4.25" x 5.5" that’s compact yet perfect for mailing or gifting in person. The thoughtful design and quality materials make them a memorable choice for anyone wanting to share their gratitude in a stylish, coastal-inspired way. Benefits and Uses: Perfect for expressing gratitude on special occasions, from weddings and showers to vacations and birthdays. Appeals to beach lovers and those inspired by coastal themes. Provides a high-quality, thick cover stock that feels professional and durable. Blank inside for personal, handwritten messages, offering versatility for any occasion. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards. Upgrade available to add more cards.
-  Updated: 2026-04-01T19:34:52Z
+  Updated: 2026-05-13T01:38:31Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/products/PinkBeachSeashellsPatternThankYouCards-ArtisticallyInvited.jpg?v=1681205600
   Price: $37.95 USD
-- [Pink Beach Seashell Pattern Bridal Shower Invitation | Summer Coastal](https://artisticallyinvited.com/products/pink-beach-seashell-pattern-bridal-shower-invitation): Celebrate with the coastal Pink Beach Seashell Pattern Bridal Shower Invitation. Perfect for summer showers, it features a pink seashell design. Order now!
-  Updated: 2026-04-01T19:34:52Z
+- [Pink Beach Seashell Pattern Bridal Shower Invitation](https://artisticallyinvited.com/products/pink-beach-seashell-pattern-bridal-shower-invitation): Beach bridal shower invitation with pink seashells, starfish, coastal style, and personalized wording. Printable and printed options.
+  Updated: 2026-05-08T07:17:42Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -1282,49 +1275,49 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/PinkBeachSeashellPatternWeddingInvitations-ArtisticallyInvited.jpg?v=1684717128
   Price: $21.95 USD
 - [Rustic Country Pink Zinnia Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-country-pink-zinnia-thank-you-cards): The Rustic Country Pink Zinnia Thank You Cards (20-Pack) combine the beauty of pink zinnias with a touch of rustic charm. These folded cards feature a lovely pink zinnia blossom on the left side, resting against a dark brown wood background. This floral design is complemented by tan and blue flourishes that enhance the rustic feel. The right side of each card includes “Thank you” in an attractive pink script font, set against a parchment-like beige backdrop that balances the design. Ideal for those who appreciate floral themes, these cards are printed on thick, high-quality 16 pt smooth white cover stock, giving them a sturdy feel and a luxurious finish that enhances both the card's look and its durability. These Rustic Country Pink Zinnia Thank You Cards are perfect for a variety of occasions, whether you're thanking guests for attending your wedding, expressing gratitude for a thoughtful gift, or sending a warm note of appreciation after a garden party or baby shower. The card’s country-inspired floral design also makes them suitable for everyday thank you notes, particularly if you enjoy the natural beauty of flowers and want to share a bit of your passion for zinnias with others. With each card blank inside, these thank you cards allow ample space to craft your own personal message by hand, making every handwritten note feel sincere and heartfelt. These thank you cards are perfect for anyone who loves pink floral designs and enjoys the understated beauty of rustic themes. Whether for a friend, family member, or colleague, the timeless blend of flowers and wood on these cards will make anyone feel appreciated. Benefits and Uses: Express heartfelt gratitude for various occasions, from weddings to everyday notes. Appeals to flower and nature lovers with a rustic aesthetic and zinnia-inspired design. Blank interiors allow for personalized, handwritten messages, making every card unique. High-quality, thick paper stock ensures durability and a premium look and feel. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards. Upgrade available to add more cards.
-  Updated: 2026-04-01T19:34:52Z
+  Updated: 2026-05-13T01:38:24Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/products/RusticCountryPinkZinniaThankYouCards-ArtisticallyInvited.jpg?v=1681300063
   Price: $37.95 USD
 - [Rustic Pink Daisy Gray Wood Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-pink-daisy-gray-wood-thank-you-cards): These Rustic Pink Daisy Gray Wood Thank You Cards (20-Pack) combine the natural charm of rustic wood with the sweetness of pink daisies, creating a visually appealing and functional way to express gratitude. The front design showcases delicate pink daisies arranged along the top, set against a subtle gray wood background that gives these cards a warm, rustic feel. A white floral lace overlay adds a soft, feminine touch to the gray wood backdrop, and "Thank you" is printed in a graceful pink script below the daisy arrangement. These cards are perfect for expressing appreciation after spring and summer gatherings, especially for pink daisy-themed bridal showers, weddings, baby showers, and other seasonal celebrations. The design works equally well for everyday notes of gratitude, making this set a versatile addition to any stationery collection. With these Rustic Pink Daisy Gray Wood Thank You Cards, you can personalize each note with a handwritten message, as the inside is blank and ready for your unique words. The thick, 16 pt cover stock used for each card ensures a high-quality feel and is durable enough to withstand mailing. This starter set includes 20 cards, all paired with white envelopes for a complete and polished look. Whether sending a heartfelt note after a special event or a simple message of thanks, these thank you cards offer a thoughtful and stylish way to show you care. You have the option to upgrade to add additional cards to your order for when you need to mail more thank yous. Benefits and Uses: Perfect for spring and summer occasions, including weddings, bridal showers, and baby showers, especially those with a pink daisy theme. Ideal for both special events and everyday gratitude, offering a versatile way to connect with loved ones. High-quality cover stock provides a sturdy feel that enhances the enjoyment of giving and receiving each card. Blank inside, allowing for personalized handwritten messages to suit any recipient and occasion. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards; upgrade available to add more cards.
-  Updated: 2026-04-01T19:34:53Z
+  Updated: 2026-05-13T01:38:26Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/products/Rustic_Pink_Daisy_Gray_Wood_Thank_You_Cards_-_Artistically_Invited.jpg?v=1606596586
   Price: $37.95 USD
-- [Rustic Pink Daisy and Denim Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-pink-daisy-denim-thank-you-cards): These Rustic Pink Daisy and Denim Thank You Cards (20-Pack) are created with beautiful, high-quality thick cover stock to ensure each note stands out with a premium feel and durability. The card design captures the charm of a countryside bloom, featuring large pink daisies along the top over a blue denim background design. The “Thank you” sentiment is beautifully printed in a whimsical pink script font, creating a delightful contrast against the denim, making it ideal for conveying genuine gratitude. With their blank interior, these folded cards offer ample space to personalize each handwritten message, whether you’re thanking guests after a wedding, baby shower, or birthday, or simply sharing your appreciation in everyday life. Their rustic yet graceful style makes these cards ideal for spring and summer gatherings, or anytime you want to bring a touch of country warmth to your notes. These Rustic Pink Daisy and Denim Thank You Cards are designed to suit anyone who adores the natural beauty of daisies paired with a denim-inspired backdrop. They work wonderfully for daisy-themed events, casual country occasions, or any celebration that embodies a relaxed, natural vibe. The durable, smooth white cover stock adds a lasting impression, ensuring your message is conveyed with both style and substance. Ideal for brides, hosts, and anyone who wants to share heartfelt thanks in a distinctive way, this card set blends rustic style with practical function, creating a versatile option for various occasions and recipients. Benefits and Uses: Perfect for expressing appreciation after weddings, birthdays, and baby showers, especially for rustic, daisy, or denim-themed events. Blank inside to add a personal message, making these cards suitable for many different thank-you needs. High-quality, thick cover stock for a professional feel that enhances the experience of receiving a heartfelt note. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards. Upgrade available to add more cards.
-  Updated: 2026-04-01T19:34:53Z
+- [Rustic Pink Daisy and Denim Thank You Cards](https://artisticallyinvited.com/products/rustic-pink-daisy-denim-thank-you-cards): Rustic floral thank you cards with large pink daisies and a denim-look background design for weddings, baby showers, birthdays, and spring events.
+  Updated: 2026-05-13T01:38:49Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/products/RusticPinkDaisyDenimThankYouCards-ArtisticallyInvited.jpg?v=1606597245
   Price: $37.95 USD
 - [Rustic Orange Teal Floral Wood Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-orange-teal-floral-wood-thank-you-cards): These Rustic Orange Teal Floral Wood Thank You Cards (20-Pack) are a heartfelt and nature-inspired way to express gratitude. Designed with a beautiful arrangement of orange, teal, green, pink, and beige flowers, these cards feature an earthy blend of colors that adds warmth and sincerity to each message. Set against a rich, dark brown wood pattern, the floral design stretches along the bottom, creating a grounded and welcoming backdrop for your words of appreciation. The phrase "Thank you" appears in a soft beige script font above the flowers, thoughtfully placed over the rustic wood background. These thank you cards are blank inside, inviting you to share personal messages of gratitude that capture your unique thoughts and sentiments. Perfect for any spring or summer gathering, these Rustic Orange Teal Floral Wood Thank You Cards are suitable for weddings, showers, birthdays, and other celebrations where floral themes shine. Their warm, rustic design also makes them ideal for anyone with an appreciation for nature and wildflowers, whether you're expressing thanks after a lively garden party or a cozy countryside event. Printed on high-quality 16 pt smooth white cover stock, these cards offer a sturdy feel and a high-quality surface, allowing for smooth writing that won’t bleed through. The thickness of the cover stock makes each card durable and long-lasting, ensuring your message will stand the test of time. This set of thank you cards includes 20 folded cards and white envelopes, with the option to upgrade to easily add more cards to your order for more gratitude sharing. Benefits and Uses: Perfect for expressing gratitude after weddings, showers, birthdays, and floral-themed gatherings. Appeals to nature and wildflower enthusiasts who appreciate rustic, floral and wood-inspired designs. Thick, high-quality card stock supports easy writing. Ideal for both formal and informal thank-yous, from heartfelt notes to casual messages of appreciation. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards; upgrade available to add more cards.
-  Updated: 2026-04-01T19:34:53Z
+  Updated: 2026-05-13T01:38:27Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/products/RusticOrangeTealFloralWoodThankYouCards-ArtisticallyInvited.jpg?v=1681395737
   Price: $37.95 USD
 - [Rustic Floral Wood Baby's Breath Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-floral-wood-babys-breath-thank-you-cards): These Rustic Floral Wood Baby's Breath Thank You Cards (20-Pack) offer a unique and nature-inspired way to express gratitude. Featuring a harmonious blend of pink and teal flowers, orange blossoms, delicate baby's breath, and green leaves, the illustrated floral arrangement stands out against a dark brown wood-patterned background, reminiscent of a rustic countryside garden. A soft pink "Thank you" message is elegantly printed at the top in a graceful script, making it clear that your appreciation comes straight from the heart. Perfect for lovers of pretty wildflowers and rustic designs, these thank you cards suit a variety of occasions, whether for baby showers, weddings, birthdays, or everyday gestures of gratitude. Printed on high-quality, thick 16 pt smooth white cover stock, these cards have a premium feel and are made to last, giving recipients a special keepsake. Blank inside, each card offers ample space for a handwritten, personal message that allows you to convey heartfelt thanks in your unique words. The 4.25" x 5.5" folded size is convenient for a variety of uses and easy mailing. Each pack of 20 cards comes with white envelopes, providing a complete, ready-to-use set. If you need additional cards, an upgrade option is available for larger packs for your order, making it easy to meet all your thank-you needs. These Rustic Floral Wood Baby's Breath Thank You Cards are especially suitable for nature-themed events or as a thoughtful way to connect with loved ones who appreciate floral and rustic designs. Whether thanking guests after a countryside wedding, celebrating a birthday, or sending a heartfelt message after a family gathering, these cards capture the natural beauty of wildflowers and the warmth of a rustic setting. Benefits and Uses: Ideal for expressing gratitude at events like weddings, showers, and birthdays. Appeals to those who love nature-inspired, rustic designs. Blank inside for composing personalized, handwritten messages. Durable and premium 16 pt cover stock for a quality feel. Available upgrade option for larger card packs. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards. Upgrade available to add more cards.
-  Updated: 2026-04-01T19:34:53Z
+  Updated: 2026-05-13T01:39:03Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/products/RusticFloralWoodBaby_sBreathThankYouCards-ArtisticallyInvited.jpg?v=1681300071
   Price: $37.95 USD
 - [Rustic Floral Wood Mason Jar Bridal Shower Invitation](https://artisticallyinvited.com/products/rustic-floral-wood-mason-jar-bridal-shower-invitation): Rustic floral bridal shower invitation with mason jar and wood background design. Personalized with your wording. Printable or printed invitations.
-  Updated: 2026-04-01T19:34:53Z
+  Updated: 2026-04-18T13:40:33Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticFloralWoodMasonJarBridalShowerInvitations-ArtisticallyInvited.jpg?v=1684269317
   Price: $21.95 USD
-- [Rustic Sunflower and Wood Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-sunflower-wood-thank-you-cards): The Rustic Sunflower and Wood Thank You Cards (20-Pack) beautifully combine the cheerful warmth of sunflowers with the charm of a rustic wood background. Perfect for anyone who loves a nature-inspired aesthetic, these cards feature large, vibrant yellow sunflowers cascading along the top edge, set against a richly illustrated dark brown wood pattern, evoking a sense of down-to-earth warmth. “Thank you” is elegantly scripted in a light, whimsical yellow font over the wooden background, adding a touch of joy and simplicity to each card. These cards are ideal for showing gratitude after sunflower-themed weddings, bridal showers, birthdays, and other special occasions, especially during spring, summer, and fall. Printed on high-quality, thick 16 pt smooth white cover stock, these folded cards are durable and provide a premium feel in hand, giving a lasting impression. Each card is blank inside, allowing for a personal, handwritten touch, and the smooth surface makes writing easy. The natural beauty and casual elegance of the sunflower and wood design make these cards versatile for a range of celebrations, whether formal or casual, and appeal to those who love sunflowers and rustic designs. This 20-pack of Rustic Sunflower and Wood Thank You Cards also comes with white envelopes, making it easy to get your messages of gratitude in the mail and to loved ones without additional fuss. If you’re looking to add an extra personal touch, the blank inside of each card gives you ample space to write heartfelt notes, perfect for thanking friends, family, colleagues, or clients. Product Features: Folded Cards: Perfectly convenient for mailing or gifting. Folded Size: 4.25" x 5.5". Blank Inside: Ready for a personal handwritten message. Paper: High-quality, 16 pt smooth white cover stock. White Envelopes Included: Envelopes match card dimensions for easy mailing. Pack of 20 Cards: Upgrade available to add more cards. Product Benefits: Thick and High Quality: Cards are made from durable cover stock for a premium, lasting feel. Classic Rustic Design: Appeals to nature-lovers and fans of casual, rustic decor. Ample Space for Writing: The blank interior is perfect for creating custom messages by hand. Suggested Uses: Ideal for sunflower-themed weddings, bridal showers, or birthdays. Suitable for expressing gratitude for seasonal celebrations in spring, summer, and autumn. Great for personal or professional use, whether thanking friends, family, or clients.
-  Updated: 2026-04-01T19:34:53Z
+- [Rustic Sunflower and Wood Thank You Cards](https://artisticallyinvited.com/products/rustic-sunflower-wood-thank-you-cards): Sunflower thank you cards with rustic wood artwork and blank inside for handwritten notes after weddings, showers, fall events, or gifts.
+  Updated: 2026-05-13T01:38:27Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
@@ -1338,7 +1331,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticWoodBeachSeashellWeddingInvitations-ArtisticallyInvited.jpg?v=1684445376
   Price: $21.95 USD
 - [Rustic Wood Beach Seashell Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-wood-beach-seashell-thank-you-cards): Our Rustic Wood Beach Seashell Thank You Cards (20-Pack) offer a unique coastal design that captures the essence of a serene, rustic beach setting. These cards feature a tranquil combination of blue, orange, and white seashells arranged in a delicate line pattern over a soft, sandy canvas-style background. Adding to the aesthetic is a brown wood stripe running across the lower area of the card with "Thank you" elegantly printed in a warm orange script font, creating a beautiful yet subtle way to express your gratitude. This design is ideal for those who appreciate a relaxed beach theme with natural, rustic touches. The Rustic Wood Beach Seashell Thank You Cards are perfect for expressing heartfelt thanks after any seaside celebration, such as a beach wedding, coastal bridal shower, or other beach-inspired gatherings. Their rustic yet sophisticated design resonates with anyone who loves the ocean, seashells, or natural textures, making them a thoughtful choice for any occasion where a touch of the coast brings a special memory or sentiment. Blank inside, these cards allow plenty of space for personalized, hand-written messages, so you can make each thank-you note as heartfelt and individual as your event. Printed on high-quality, thick 16 pt smooth white cover stock, these folded cards feel substantial in hand, ensuring a quality impression that recipients will appreciate. The rustic wood and seashell theme is versatile and can be used for a variety of occasions, from weddings and bridal showers to casual beach gatherings and anniversaries. The pack includes 20 cards, each with a white envelope, and an upgrade option is available for those needing to add more cards to their order. Benefits and Uses: Ideal for expressing gratitude after beach-themed weddings, showers, or any seaside gathering. Beautiful and unique design that appeals to beach and seashell lovers. Blank inside for personalized, handwritten messages to make each note special. High-quality 16 pt cover stock provides durability and a premium feel. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards; Upgrade available to add more cards.
-  Updated: 2026-04-01T19:34:54Z
+  Updated: 2026-05-13T01:38:28Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
@@ -1351,8 +1344,8 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticWoodBeachSeashellFamilyReunionInvitations-ArtisticallyInvited.jpg?v=1684130719
   Price: $21.95 USD
-- [Rustic Wood Beach Seashell Bridal Shower Invitation | Coastal Design](https://artisticallyinvited.com/products/rustic-wood-beach-seashell-bridal-shower-invitation): Invite guests to a seaside bridal shower with the Rustic Wood Beach Seashell Invitation. A perfect choice for rustic beach or summer showers. Order now.
-  Updated: 2026-04-01T19:34:54Z
+- [Rustic Wood Beach Seashell Bridal Shower Invitation](https://artisticallyinvited.com/products/rustic-wood-beach-seashell-bridal-shower-invitation): Rustic beach bridal shower invitation with seashells, wood background, personalized wording, and digital or printed options for coastal celebrations.
+  Updated: 2026-05-03T02:27:10Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -1380,7 +1373,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/CountrySunflowerWoodBrownGreenWeddingInvitations-ArtisticallyInvited.jpg?v=1684523435
   Price: $21.95 USD
 - [Country Sunflower Over Wood Rustic Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/country-sunflower-over-wood-rustic-thank-you-cards): These Country Sunflower Over Wood Rustic Thank You Cards (20-Pack) offer a heartfelt way to express your gratitude with a beautifully rustic design. Each folded card features a large, vibrant yellow sunflower set against a dark brown wood background, capturing the warmth and simplicity of the countryside. Below the sunflower, the word "Thank you" is printed along the bottom in an earthy green script on a soft parchment-style design, adding a touch of warmth to every note. Whether you're sending thanks after a wedding, bridal shower, or any gathering, these thank you cards bring a thoughtful, inviting feel to your message. They are perfect for people who love sunflowers or rustic decor, adding a cozy, nature-inspired aesthetic to their notes. Suitable for special occasions or simply sending a warm thank you, they reflect an appreciation for rustic style and the beauty of sunflowers. The cards’ blank interiors allow for personal, handwritten messages, making each one truly unique and heartfelt. Made from high-quality 16 pt smooth white cover stock, these Country Sunflower Over Wood Rustic Thank You Cards offer a thick, sturdy feel that reflects their quality and care, ensuring your words are delivered with style. Benefits and Uses Ideal for expressing gratitude after sunflower-themed weddings, birthdays, baby showers, and more. Appeals to sunflower lovers and those who appreciate rustic and nature-inspired designs. Blank inside, allowing for fully personalized messages in your own handwriting. Perfect for personal and professional thank yous — suitable for anyone who enjoys sending meaningful notes. Complements country-themed events like barn weddings, rustic gatherings, and sunflower-themed celebrations. Product Features Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards. Upgrade available to add more cards.
-  Updated: 2026-04-01T19:34:55Z
+  Updated: 2026-05-13T01:38:27Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
@@ -1400,8 +1393,8 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/CountrySunflowerOverWoodRusticReceptionOnlyInvitations-ArtisticallyInvited.jpg?v=1685042791
   Price: $21.95 USD
-- [Country Sunflower Over Wood Rustic Bridal Shower Invitation | Summer](https://artisticallyinvited.com/products/country-sunflower-over-wood-rustic-bridal-shower-invitation): Celebrate with the Country Sunflower Over Wood Rustic Bridal Shower Invitation. Perfect for country-themed showers in the spring, summer, or fall seasons.
-  Updated: 2026-04-01T19:34:55Z
+- [Country Sunflower Over Wood Rustic Bridal Shower Invitation](https://artisticallyinvited.com/products/country-sunflower-over-wood-rustic-bridal-shower-invitation): Sunflower bridal shower invitation with rustic wood, green accents, country styling, and personalized wording. Printable and printed options.
+  Updated: 2026-05-07T06:42:22Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -1422,362 +1415,19 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/CountrySunflowerOverWoodRusticSavetheDateCards-ArtisticallyInvited.jpg?v=1684597973
   Price: $17.95 USD
 - [Sand Snowman Christmas in July Invitations | Evite, Printable, Printed](https://artisticallyinvited.com/products/sand-snowman-christmas-in-july-invitation): Introducing the Sand Snowman Christmas in July Invitation, perfect for celebrating the holidays with a summer twist! This unique invitation features a charming illustration of a snowman made entirely of sand, complete with a festive Santa hat, standing on the beach with the ocean as the backdrop. The playful beach scene is framed in an elegant oval design, bringing a whimsical and fun vibe to your Christmas in July celebration. To the right of the sand snowman, your personalized party details are beautifully arranged in festive red and black fonts over a white background. This Sand Snowman Christmas in July Invitation is ideal for any holiday gathering, whether you're hosting a casual summer party, a corporate event, or even a community-wide celebration. The beach-inspired snowman adds a lighthearted touch to your event, making it perfect for those who live in warmer climates or simply want to enjoy the spirit of Christmas during the summer months. When you order, you'll receive a personalized proof image of your invitation to review and approve before the final file is sent. This ensures your details are correct and everything looks perfect for your special event. Once , you’ll receive a high-quality digital image file that can be used in two convenient ways: print it yourself at home or send it as an eco-friendly digital e-vite via email, text message, or social media. This flexibility makes it easy to share your invitation with guests while also reducing waste, making it a great choice for environmentally-conscious hosts. This Sand Snowman Christmas in July Invitation is designed to make your summer holiday celebration feel festive and fun while offering the ease of digital invitations. Simply personalize, approve, and share—it’s that easy! Product Features: Digital Invitation. Size: 5" x 7". High-resolution: 300 dpi (RGB) JPG image file. Uses: E-vite or Printable Invitation. Upgrade: Professionally printed invitations available. Need professionally printed invitations? Simply upgrade to add printed invitations and select the quantity you need.
-  Updated: 2026-04-01T19:34:56Z
+  Updated: 2026-04-08T08:09:42Z
   Vendor: Artistically Invited
   Product Type: Christmas Invitations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/SandSnowmanChristmasinJulyInvitations-ArtisticallyInvited.jpg?v=1684130717
   Price: $21.95 USD
-- [Rustic Sunflower and Denim Birthday Invitation | E-vite, Printed](https://artisticallyinvited.com/products/rustic-sunflower-denim-birthday-invitation): Introducing a charming and Southern-inspired Rustic Sunflower and Denim Birthday Invitation, perfect for any sunflower lover or anyone planning a country-themed birthday celebration. This delightful digital invite is designed with vibrant yellow sunflowers beautifully arranged along the top, sitting against a classic blue denim background that adds a touch of rustic charm and warmth to your event. Your personalized birthday celebration details are thoughtfully arranged in shades of yellow and white, providing a stunning contrast against the denim design, creating an eye-catching and memorable invitation for your guests. This Rustic Sunflower and Denim Birthday Invitation is an excellent choice for floral, denim, and sunflower-themed birthday parties, especially during the spring and summer months. Its warm, country-inspired design evokes a sense of simplicity and nature, making it perfect for anyone looking to host an outdoor gathering or a casual, laid-back celebration. Whether you're planning a backyard BBQ, a picnic in the park, or a rustic barn event, this invitation sets the perfect tone for your special day. Available as a printable or digital e-vite, this invitation offers you the flexibility to go paperless for an eco-friendly celebration or print at home if you prefer physical copies. After your order is placed, you'll receive a personalized proof image to review and approve, ensuring that every detail is just right. After you approve the proof, you'll receive the final digital file, ready for use. You can choose to print your invitations at home or a local print shop, or simply send the invite via email, text, or social media for a quick and paperless option. Digital and printable invites make your event planning more convenient, allowing you to manage invitations in a way that suits your style. Choose this Rustic Sunflower and Denim Birthday Invitation to bring a touch of Southern charm to your celebration, whether you're going green with a paperless option or printing for a traditional feel. Product Features: Digital Invitation. Size: 5" x 7". High-resolution: 300 dpi (RGB) JPG image file. Uses: E-vite or Printable Invitation. Upgrade: Professionally printed invitations available. Need professionally printed invitations? Simply upgrade to add printed invitations and select the quantity you need.
-  Updated: 2026-04-01T19:34:56Z
-  Vendor: Artistically Invited
-  Product Type: Birthday Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticSunflowerandDenimBirthdayInvitations-ArtisticallyInvited.jpg?v=1685136310
-  Price: $21.95 USD
-- [Rustic Sunflower and Denim Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-sunflower-denim-thank-you-cards): These delightful Rustic Sunflower and Denim Thank You Cards (20-Pack) bring warmth and heartfelt style to your thank you notes with a unique combination of bright yellow sunflowers and a blue denim background. This floral design features a cheerful cluster of sunflowers illustrated along the top, set over a blue denim designed backdrop that offers a rustic yet contemporary look. The words “Thank You” are elegantly printed on the front in a lively yellow script font, making these cards a wonderful choice for anyone who appreciates sunflowers and denim-inspired designs. Perfect for any occasion, these folded cards offer a versatile, blank interior for personalized, handwritten messages, giving you the freedom to express your gratitude in your own words. Whether you’re sending thank you notes after a sunflower-themed wedding, a rustic bridal or baby shower, or simply showing appreciation to loved ones after a summer gathering, the Rustic Sunflower and Denim Thank You Cards are an ideal choice. The sunflower and denim elements capture a balance between nature and laid-back style, appealing to those with a love for farmhouse, country, or nature-inspired aesthetics. These cards are particularly fitting for spring and summer events, yet their timeless design ensures they’re suitable year-round, especially for any recipient who treasures sunflowers. Printed on thick, high-quality 16 pt smooth white cover stock, each card has a sturdy feel, so your message looks and feels professional. Designed to impress, these folded thank you cards come with white envelopes, making them ready to send as soon as you finish writing your note. Benefits and Uses: Perfect for Occasions: Ideal for sunflower-themed weddings, birthdays, showers, and general thank-yous, especially suited for rustic, country, and nature-inspired themes. High-Quality Material: Made with 16 pt smooth cover stock for a substantial feel and a polished presentation. Handwritten Notes: Blank interior allows for personalized messages written by you, adding a heartfelt touch. Convenient and Ready to Send: White envelopes included, so they're ready for mailing. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards (upgrade available to add more cards). With their fresh design and sturdy build, the Rustic Sunflower and Denim Thank You Cards add a personal touch to every message, reflecting gratitude with every word written.
-  Updated: 2026-04-01T19:34:56Z
-  Vendor: Artistically Invited
-  Product Type: Cards
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/products/RusticSunflowerDenimThankYouCards-ArtisticallyInvited.jpg?v=1617372294
-  Price: $37.95 USD
-- [Pink Blue Black Plaid Flourish Sweet 16 Invitation | E-vite, Printed](https://artisticallyinvited.com/products/pink-blue-black-plaid-flourish-sweet-16-invitation): Introducing the Pink Blue and Black Plaid Flourish Sweet 16 Invitation, a modern and stylish option for celebrating your daughter's Sweet 16 birthday. This unique digital invitation is designed to make an impact with a trendy plaid theme in vibrant shades of pink, blue, and black. The left side of the invite showcases a bold plaid pattern, complemented by a large, elegant white flourish. On the right, your personalized Sweet 16 party details are arranged within a sleek black frame, creating a striking contrast against the colorful design. Perfect for an alternative or fashionable celebration, this invitation captures the spirit of a memorable milestone. Whether your daughter is into bold colors or loves a modern, chic look, this invitation is the ideal choice for a stylish Sweet 16 party. It’s versatile and can easily match various themes, whether you’re planning a casual gathering or a more sophisticated event. When you order this digital Sweet 16 invitation, you’ll receive a personalized proof image of the invite, allowing you to review and approve the design before receiving the final file. This ensures that every detail is accurate. Once , the final invitation file will be sent to you, and you can choose to print it at home or send it as an eco-friendly, paperless e-vite. The invitation can be shared via email, text message, or social media, making it easy for your guests to receive their invites quickly and effortlessly. With its modern plaid design and customizable details, this Pink Blue and Black Plaid Flourish Sweet 16 Invitation is sure to impress. It's a fantastic way to announce your daughter's special day in a way that is both stylish and environmentally conscious. Celebrate her Sweet 16 in style with this unique digital invitation, perfect for an unforgettable party. Product Features: Digital Invitation. Size: 5" x 7". High-resolution: 300 dpi (RGB) JPG image file. Uses: E-vite or Printable Invitation. Upgrade: Professionally printed invitations available. Need professionally printed invitations? Simply upgrade to add printed invitations and select the quantity you need.
-  Updated: 2026-04-01T19:34:57Z
-  Vendor: Artistically Invited
-  Product Type: Birthday Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/PinkBlueandBlackPlaidFlourishSweet16Invitations-ArtisticallyInvited.jpg?v=1685136331
-  Price: $21.95 USD
-- [Gray Navy Blue Polka Dot Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/gray-navy-blue-polka-dot-thank-you-cards): The Gray Navy Blue Polka Dot Thank You Cards (20-Pack) are the perfect way to express gratitude with a timeless design that appeals to polka dot lovers. Featuring a tasteful combination of gray and navy blue, each card displays "Thank You" in bold navy lettering inside a white circle outlined in gray, set against a navy blue and white polka dot background. The pattern is simple yet sophisticated, offering a style that complements formal and casual occasions alike. Printed on high-quality, thick 16 pt smooth white cover stock, these cards provide a premium feel, ensuring your thanks are conveyed in an impressive, durable format. These thank you cards are ideal for expressing appreciation after winter gatherings, holiday celebrations, or any event throughout the year that deserves a thoughtful follow-up. The Gray Navy Blue Polka Dot Thank You Cards are also perfect for personal and professional settings. Whether you’re thanking guests after a winter wedding, holiday party, or corporate event, or showing appreciation to family, friends, and colleagues, this versatile design suits any recipient and occasion. Polka dot fans, in particular, will enjoy the classic design that captures the spirit of fun and sophistication. Each card is blank inside, offering a personal touch with space for your handwritten message, making your gratitude as unique as the relationship you share with each recipient. These thank you cards are designed for individuals who value quality stationery and a bit of flair. The pack includes 20 cards with white envelopes, and there's an option to upgrade and add more cards to your order for larger gatherings or occasions when you need a few extra. Show your appreciation with this high-quality set of thank you cards that will leave a lasting impression. Benefits and Uses: Ideal for winter celebrations, corporate events, holiday gatherings, and personal thank-yous. Simple, classic design appeals to those who love timeless patterns and polka dots. Blank inside, allowing for custom handwritten messages for a personal touch. High-quality, durable cover stock that conveys a premium feel and lasting impression. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards; upgrade available to add more cards.
-  Updated: 2026-04-01T19:34:57Z
-  Vendor: Artistically Invited
-  Product Type: Cards
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/products/GrayNavyBluePolkaDotThankYouCards-ArtisticallyInvited.jpg?v=1681016672
-  Price: $37.95 USD
-- [Gray Navy Blue Polka Dot Bridal Shower Invitation | Modern Style](https://artisticallyinvited.com/products/gray-navy-blue-polka-dot-bridal-shower-invitation): Celebrate with the Gray Navy Blue Polka Dot Bridal Shower Invitation. Featuring navy polka dots and modern style, perfect for bridal showers in any season.
-  Updated: 2026-04-01T19:34:57Z
-  Vendor: Artistically Invited
-  Product Type: Bridal Shower Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/GrayNavyBluePolkaDotBridalShowerInvitations-ArtisticallyInvited.jpg?v=1684331607
-  Price: $21.95 USD
-- [Orange Brown Polka Dot Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/orange-brown-polka-dot-thank-you-cards): These Autumn-inspired Orange Brown Polka Dot Thank You Cards (20-Pack) offer a delightful way to express your gratitude with a fresh seasonal look. Each card features a stylish, autumnal polka dot background with white dots over brown, accented with “Thank You” printed in warm orange lettering inside a white circle, outlined in orange for a subtle yet welcoming design. The orange-brown color palette is perfect for sending heartfelt messages following autumn celebrations, family gatherings, weddings, baby showers, or any occasion where you want to convey thanks in a warm, seasonal tone. These Orange Brown Polka Dot Thank You Cards are versatile and suited for many occasions. They add a touch of personality to your notes and bring a seasonal touch to your message. The blank inside offers ample space for personalized handwritten messages, allowing you to share gratitude in your own words, whether sending a quick note to a friend or a more heartfelt message following a special celebration. The polka dot theme appeals to both young and mature audiences, making these thank you cards ideal for anyone who appreciates playful yet refined stationery. These cards are designed on high-quality, thick cover stock, providing a premium feel that enhances the experience of both sender and recipient. Each card is printed on 16 pt smooth white cover paper, offering durability and a smooth, satisfying writing surface. With a folded size of 4.25" x 5.5", these thank you cards are perfect for easy handling and mailing. The set includes white envelopes for a complete, ready-to-send thank you note, and you can upgrade to add more cards to your order. Benefits and Uses: Ideal for expressing gratitude following autumn and fall events, family gatherings, weddings, or other occasions. Blank inside for customizable, handwritten messages tailored to your recipients. Playful polka dot design with autumn-inspired colors appeals to people who enjoy seasonal themes and stylish stationery. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards; upgrade available to add more cards.
-  Updated: 2026-04-01T19:34:57Z
-  Vendor: Artistically Invited
-  Product Type: Cards
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/products/OrangeBrownPolkaDotThankYouCards-ArtisticallyInvited.jpg?v=1681205587
-  Price: $37.95 USD
-- [Orange Brown Polka Dot Bridal Shower Invitation](https://artisticallyinvited.com/products/orange-brown-polka-dot-bridal-shower-invitation): Brown polka dot bridal shower invitation with a white center circle and orange accents. Personalized printable or printed for fall celebrations.
-  Updated: 2026-04-01T19:34:57Z
-  Vendor: Artistically Invited
-  Product Type: Bridal Shower Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/OrangeBrownPolkaDotBridalShowerInvitations-ArtisticallyInvited.jpg?v=1684273618
-  Price: $21.95 USD
-- [Autumn Orange White Wood Bridal Shower Invitation | Rustic Fall Theme](https://artisticallyinvited.com/products/autumn-orange-white-wood-bridal-shower-invitation): Celebrate with the Autumn Orange White Wood Bridal Shower Invitation. It has a rustic background with fall leaves and wood, perfect for fall bridal showers.
-  Updated: 2026-04-01T19:34:57Z
-  Vendor: Artistically Invited
-  Product Type: Bridal Shower Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/AutumnOrangeWhiteWoodBridalShowerInvitations-ArtisticallyInvited.jpg?v=1684351571
-  Price: $21.95 USD
-- [Chic Zebra Print Pink Sweet 16 Invitation | E-vite, Printed](https://artisticallyinvited.com/products/chic-zebra-print-pink-sweet-16-invitation): Celebrate your Sweet 16 in style with this Chic Zebra Print Pink Sweet 16 Invitation! Featuring a bold black and white zebra print design, this digital invitation is perfect for the fashion-forward birthday honoree who loves to stand out. The sleek zebra pattern adds a touch of modern flair, while the vibrant pink background in the center creates a striking contrast that instantly grabs attention. Your personalized Sweet 16 party details are beautifully arranged in black and white fonts over the pink area, making them easy to read and visually appealing. This invitation is perfect for setting the tone for a stylish and fun celebration with an animal print theme. This digital invitation is designed for flexibility, offering both printable and eco-friendly, paperless options. After you place your order, you’ll receive a personalized proof image of your invite, allowing you to review and approve all the details before the final file is sent. Once , you’ll receive a high-quality digital file that you can print at home or take to a local printer for physical copies. Alternatively, you can choose to send your invite electronically as an e-vite via email, text message, or social media—an eco-conscious and hassle-free way to invite guests to your big day. With this Chic Zebra Print Pink Sweet 16 Invitation, you get the best of both worlds: a trendy, bold design and the convenience of digital invitations. Whether you’re planning an intimate gathering or a large event, this invitation is a standout choice that reflects your unique style. The versatility of this invite allows you to go green by eliminating paper waste, all while celebrating your milestone birthday with a chic and unforgettable design. Make your Sweet 16 as special as you are with this fabulous zebra print invite! Product Features: Digital Invitation. Size: 5" x 7". High-resolution: 300 dpi (RGB) JPG image file. Uses: E-vite or Printable Invitation. Upgrade: Professionally printed invitations available. Need professionally printed invitations? Simply upgrade to add printed invitations and select the quantity you need.
-  Updated: 2026-04-01T19:34:58Z
-  Vendor: Artistically Invited
-  Product Type: Birthday Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/ChicZebraPrintPinkSweet16Invitations-ArtisticallyInvited.jpg?v=1685136278
-  Price: $21.95 USD
-- [Pink and Orange Plaid Bridal Shower Invitation | Preppy Spring Design](https://artisticallyinvited.com/products/pink-orange-plaid-bridal-shower-invitation): Celebrate with the Pink and Orange Plaid Bridal Shower Invitation. A vibrant, modern, and preppy design for spring and summer showers. Personalize today!
-  Updated: 2026-04-01T19:34:58Z
-  Vendor: Artistically Invited
-  Product Type: Bridal Shower Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/PinkandOrangePlaidBridalShowerInvitations-ArtisticallyInvited.jpg?v=1684344605
-  Price: $21.95 USD
-- [Pink and Orange Plaid Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/pink-orange-plaid-thank-you-cards): Send your gratitude with these Pink and Orange Plaid Thank You Cards (20-Pack), combining a bright summer-inspired look with a simple, stylish message of thanks. Designed with “Thank you” in an orange script font within a white framed center, over a pretty diagonal plaid pattern in pink and orange that covers the card’s front. The cheerful plaid makes these cards suitable for any season but is especially perfect for summer occasions, adding warmth to every note of appreciation. These folded cards are crafted from thick, high-quality 16 pt smooth white cover stock, ensuring a premium feel and durability, making them ideal for any event, gathering, or moment that calls for heartfelt thanks. The Pink and Orange Plaid Thank You Cards are blank inside, giving you plenty of room to write a personalized message for family, friends, coworkers, or clients. The pattern brings a fresh and stylish vibe to your thank-you notes, making them suitable for birthdays, weddings, bridal showers, baby showers, and any casual or formal event where a handwritten thank you is cherished. The pack includes 20 folded cards with white envelopes, keeping you prepared for any thank-you occasion. These thank you cards offer a modern twist on a classic plaid design, making them a wonderful choice for anyone who loves beautiful, patterned stationery with a fun summer feel. Designed for those who appreciate quality and thoughtful details, these cards speak to both the giver and receiver, sharing a touch of warmth and personality with each note of thanks. Benefits and Uses: Perfect for sending thank-yous after birthdays, weddings, and celebrations. Suitable for both personal and professional appreciation notes. Adds a stylish, modern plaid look that stands out from traditional thank-you cards. Blank inside to write personalized handwritten messages that fit the recipient, making every sentiment thoughtful. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards. Upgrade available to add more cards.
-  Updated: 2026-04-01T19:34:58Z
-  Vendor: Artistically Invited
-  Product Type: Cards
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/products/PinkandOrangePlaidThankYouCards-ArtisticallyInvited.jpg?v=1681205605
-  Price: $37.95 USD
-- [Orange Brown Polka Dot Wedding Invitation | Modern Fall Invitations](https://artisticallyinvited.com/products/orange-brown-polka-dot-wedding-invitation): Celebrate your autumn wedding with the Orange Brown Polka Dot Wedding Invitation. A modern fall design with white polka dots on brown with orange accents.
-  Updated: 2026-04-01T19:34:58Z
-  Vendor: Artistically Invited
-  Product Type: Wedding Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/OrangeBrownPolkaDotWeddingInvitations-ArtisticallyInvited.jpg?v=1684523462
-  Price: $21.95 USD
-- [Gray Navy Blue Polka Dot Wedding Invitation | Stylish Wedding Design](https://artisticallyinvited.com/products/gray-navy-blue-polka-dot-wedding-invitation): This Gray and Navy Blue Polka Dot Wedding Invitation blends stylish colors with a playful polka dot design. Perfect for modern weddings. Optional RSVP cards.
-  Updated: 2026-04-01T19:34:58Z
-  Vendor: Artistically Invited
-  Product Type: Wedding Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/GrayNavyBluePolkaDotWeddingInvitations-ArtisticallyInvited.jpg?v=1684503426
-  Price: $21.95 USD
-- [Royal Red White Blue Snowflake Wedding Invitation | Bold Winter Design](https://artisticallyinvited.com/products/royal-red-white-blue-snowflake-wedding-invitation): Celebrate your winter wedding with the bold Royal Red White Blue Snowflake Wedding Invitation. Elegant snowflake design with royal red, white, and blue tones.
-  Updated: 2026-04-05T07:53:14Z
-  Vendor: Artistically Invited
-  Product Type: Wedding Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RoyalRedWhiteBlueSnowflakeWeddingInvitations-ArtisticallyInvited.jpg?v=1684717245
-  Price: $21.95 USD
-- [Gray and Red Polka Dot Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/gray-red-polka-dot-thank-you-cards): Express gratitude with a touch of fun and style using our Gray and Red Polka Dot Thank You Cards (20-Pack). These thank you cards bring a playful yet sophisticated look to your expressions of thanks, featuring a bold red and white polka dot design. Each card is thoughtfully designed, with “Thank You” printed in vibrant red, neatly set inside a white circle outlined in gray—a unique combination that gives a modern flair to the classic polka dot. With their bright, eye-catching design, these cards are perfect for conveying your appreciation in a memorable way. Whether you’re sending your gratitude after a winter celebration, holiday gathering, birthday, or a special event, these Gray and Red Polka Dot Thank You Cards stand out as the perfect choice. Their high-quality, thick cover stock ensures a sturdy feel that recipients will appreciate. At 4.25" x 5.5" when folded, these cards provide ample space inside for personal messages, giving you the freedom to write heartfelt notes by hand. This blank interior encourages a personal touch, allowing you to tailor each message to suit the occasion and the recipient, making these cards versatile for all thank-you needs. Designed for anyone who appreciates the lively combination of red and polka dots, these cards bring a pop of personality to your handwritten messages, appealing to anyone who loves unique and cheerful stationery. This design is especially well-suited for winter and festive occasions, making these cards ideal for holiday thank-yous or post-event follow-ups after gatherings that call for a festive and joyful tone. If you want to add a lively yet refined element to your expressions of gratitude, these thank you cards are the perfect choice. Benefits and Uses Perfect for sending personal thank-you notes following winter events, holiday celebrations, birthdays, or any special gathering. A lively red polka dot design appeals to anyone who loves distinctive and fun stationery. Blank inside for handwritten personalized, heartfelt messages. High-quality cover stock for a thick, premium feel that adds value to your expressions of thanks. Product Features Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside for personalized notes. Paper: 16 pt Smooth White Cover for high quality and durability. White envelopes included for easy mailing. Pack of 20 Cards. Upgrade available to add more cards.
-  Updated: 2026-04-01T19:34:59Z
-  Vendor: Artistically Invited
-  Product Type: Cards
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/products/GrayandRedPolkaDotThankYouCards-ArtisticallyInvited.jpg?v=1681016679
-  Price: $37.95 USD
-- [Gray and Red Polka Dot Bridal Shower Invitation | Fun Polka Dot Theme](https://artisticallyinvited.com/products/gray-red-polka-dot-bridal-shower-invitation): Celebrate with the Gray and Red Polka Dot Bridal Shower Invitation. A bold red polka dot design with modern gray details, perfect for any season. Order today!
-  Updated: 2026-04-01T19:34:59Z
-  Vendor: Artistically Invited
-  Product Type: Bridal Shower Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/GrayandRedPolkaDotBridalShowerInvitations-ArtisticallyInvited.jpg?v=1684344580
-  Price: $21.95 USD
-- [Blue Seashell Pink Beach Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/blue-seashell-pink-beach-thank-you-cards): These Blue Seashell Pink Beach Thank You Cards (20-Pack) are beautifully designed to convey your gratitude in beachy style. They're designed with the words "Thank You" in a soft pink script font, neatly positioned within a pink-outlined white circle over a refreshing blue and white seashell background. This balanced and modern beach-themed design is ideal for anyone drawn to the ocean and coastal aesthetics, making these thank you cards perfect for expressing your appreciation after summer gatherings, seaside weddings, coastal birthday parties, or even as heartfelt gestures of thanks for everyday kindnesses. The Blue Seashell Pink Beach Thank You Cards offer more than just visual appeal; they are printed on high-quality, thick 16 pt cover stock, ensuring a smooth, durable finish that enhances the overall look and feel of each card. Designed with ocean lovers in mind, these cards evoke a sense of tranquility and coastal beauty, giving each message you write a personalized touch in a blank, spacious interior ideal for handwritten notes. Whether you're sharing gratitude for gifts received, thoughtful actions, or simply to brighten someone’s day, this pack of folded cards provides you with a versatile set for various occasions throughout the year. Benefits and Uses: Perfect for Summer Events: Ideal for beach weddings, coastal birthdays, or summer celebrations. Great for Ocean Lovers: Appeals to those who appreciate seashell designs. Versatile Gratitude: Suitable for both special events and everyday moments of appreciation. Professional Quality: Thick cover stock provides a durable, premium feel for lasting quality. Blank Inside: Plenty of space for personalized handwritten messages in your own words. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside for personalized handwritten messages. Paper: 16 pt Smooth White Cover for a quality, thick feel. White Envelopes Included for each card. Pack of 20 Cards; upgrade option available for adding more cards to your order.
-  Updated: 2026-04-01T19:34:59Z
-  Vendor: Artistically Invited
-  Product Type: Cards
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/products/Blue_Seashell_Pink_Beach_Thank_You_Cards_-_Artistically_Invited.jpg?v=1606596710
-  Price: $37.95 USD
-- [Blue Seashell Pink Beach Bridal Shower Invitation | Summer Coastal](https://artisticallyinvited.com/products/blue-seashell-pink-beach-bridal-shower-invitation): Celebrate with the Blue Seashell Pink Beach Bridal Shower Invitation, featuring a blue seashell design, pink accents, and a coastal design for summer.
-  Updated: 2026-04-01T19:34:59Z
-  Vendor: Artistically Invited
-  Product Type: Bridal Shower Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/BlueSeashellPinkBeachBridalShowerInvitations-ArtisticallyInvited.jpg?v=1684344627
-  Price: $21.95 USD
-- [Blue Seashell Pink Beach Wedding Invitation | Seaside Summer Weddings](https://artisticallyinvited.com/products/blue-seashell-pink-beach-wedding-invitation): Celebrate your beach-themed wedding with the Blue Seashell Pink Beach Wedding Invitation. Personalized details, ideal for summer or seaside ceremonies.
-  Updated: 2026-04-01T19:34:59Z
-  Vendor: Artistically Invited
-  Product Type: Wedding Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/BlueSeashellPinkBeachWeddingInvitations-ArtisticallyInvited.jpg?v=1684699987
-  Price: $21.95 USD
-- [Blue Seashell Pink Beach Save the Date Card | Summer Beach Wedding](https://artisticallyinvited.com/products/blue-seashell-pink-beach-save-the-date-card): Announce your summer wedding with the Blue Seashell Pink Beach Save the Date Card. Features a pink and blue seashell design, perfect for beach weddings.
-  Updated: 2026-04-01T19:34:59Z
-  Vendor: Artistically Invited
-  Product Type: Save the Date Cards
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/BlueSeashellPinkBeachSavetheDateCards-ArtisticallyInvited.jpg?v=1684597975
-  Price: $17.95 USD
-- [Blue Seashell Pink Beach Reception Only Invitations](https://artisticallyinvited.com/products/reception-only-invitations-blue-seashell-pink-beach): Blue seashell pink beach reception only invitations designed with your personalized post-wedding reception details custom printed in pink and blue, inside a pink outlined white circle, over a blue and white seashell pattern background. These modern and stylish blue seashell pink beach reception only invitations are perfect for your summer celebrations with a beach or seashell theme. These invitations are used when the couple has a destination wedding or a small private ceremony, and only invite their guests to the post-wedding reception celebration.
-  Updated: 2026-04-01T19:35:00Z
-  Vendor: Artistically Invited
-  Product Type: Reception Only Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/BlueSeashellPinkBeachReceptionOnlyInvitations-ArtisticallyInvited.jpg?v=1685042662
-  Price: $21.95 USD
-- [Rustic Beach Seashells Wood Reception Only Invitation | Evite, Printed](https://artisticallyinvited.com/products/rustic-beach-seashells-wood-reception-only-invitation): Dive into the seaside celebration with the Rustic Beach Seashells and Wood Reception Only Invitation, where a beautiful combination of rustic wood and beach elements comes together to create a memorable invite for your post-wedding festivities. This design features a dark wood background that conveys a warm and natural rustic tone, complemented by an intricate illustration of a sandy seabed scattered with various seashells, soft coral, and graceful kelp. Above the coral, playful bubbles add a touch of whimsy, capturing the feeling of being underwater. This unique blend of wood textures and beach-inspired elements makes this invitation a perfect choice for couples celebrating by the shore or those drawn to the timeless beauty of the ocean. Your personalized details in this invitation are thoughtfully arranged in white, standing out beautifully against the dark wood, ensuring that your post-wedding reception information is clear and easy to read. This invitation is ideal for a rustic, nautical, seaside, or beach-themed wedding reception, especially suited for summer celebrations when the allure of the ocean is at its peak. Whether you’re inviting loved ones to celebrate after a private ceremony or welcoming guests following a destination wedding, this invitation is designed to convey the relaxed elegance of a beachside gathering. The Rustic Beach Seashells and Wood Reception Only Invitation is created for those who want to extend an invitation to the reception only, a fitting choice for couples who have chosen a more intimate wedding ceremony or eloped and are now gathering friends and family for a joyful celebration. This invitation provides a modern, eco-friendly way to invite your guests digitally. After ordering, you'll receive a personalized proof image of your invitation to review and approve, allowing you to ensure every detail is just as you envisioned before you receive the final digital file. Use it as a printable to print at home, or send it digitally as an e-vite through email, text message, or social media – an ideal choice for a paperless, environmentally friendly option. Need professionally printed invitations? Simply upgrade to add printed invitations and select the quantity you need. Product Features: Digital Invitation. Size: 5" x 7". Resolution: 300dpi. Color profile: RGB. Image file type: JPG. Optional matching RSVP Cards (3.5" x 5") for printable or printed options. Uses: E-vite or Printable Invitation. Upgrade: Professionally printed invitations are available.
-  Updated: 2026-04-01T19:35:00Z
-  Vendor: Artistically Invited
-  Product Type: Reception Only Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticBeachSeashellsandWoodReceptionOnlyInvitations-ArtisticallyInvited.jpg?v=1685022449
-  Price: $21.95 USD
-- [Royal Red White Blue Snowflake Reception Only Invitations](https://artisticallyinvited.com/products/reception-only-invitations-royal-red-white-blue-snowflake): Royal red white blue snowflake reception only invitations with your personalized post-wedding reception details custom printed in white and light blue over a royal red gradient background covered in ornate white and blue snowflakes along the left side. The rich and elegant design on these royal red white blue snowflake reception only invitations makes them perfect for your reception celebrations during the winter months with a red color theme. These invitations are used when the couple has a destination wedding or a small private ceremony and only invite their guests to the post-wedding reception celebration.
-  Updated: 2026-04-01T19:35:00Z
-  Vendor: Artistically Invited
-  Product Type: Reception Only Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RoyalRedWhiteBlueSnowflakeReceptionOnlyInvitations-ArtisticallyInvited.jpg?v=1685106342
-  Price: $21.95 USD
-- [Rustic Bear Spring Floral Reception Only Invitation | E-vite, Printed](https://artisticallyinvited.com/products/rustic-bear-spring-floral-reception-only-invitation): Celebrate your post-wedding reception with rustic charm and woodland beauty using the Rustic Bear Spring Floral Reception Only Invitation. This invite is a perfect choice for couples who’ve held a private ceremony, destination wedding, or intimate elopement and want to invite friends and family to join the celebration. Featuring two silhouette bears standing at the top of the invite on a wooden tree-trunk-like stripe, this design captures the warmth and spirit of a nature-themed gathering, ideal for spring and summer receptions. The Rustic Bear Spring Floral Reception Only Invitation features pretty floral tree illustrations in a gentle, earthy color palette behind the bears. These soft spring flowers bring an inviting, whimsical feel to the design, while the light rustic wood background below adds natural texture without overwhelming the design. Against this peaceful backdrop, your custom reception details are arranged in black and green fonts, complementing the forest theme and giving a casual yet refined look that speaks to both nature lovers and those who appreciate the charm of rustic simplicity. Perfect for a bear-themed or outdoor-inspired reception, this invite sets a laid-back, welcoming tone for the celebration. It resonates with guests who value the beauty of nature, making it ideal for couples who want a unique, memorable, and eco-friendly invitation that connects with their love for the outdoors. The invitation is versatile, too—it can be used as a printable, allowing you to print at home or share digitally as an e-vite. Customers receive a personalized proof image after ordering to review and approve their invite before receiving the final file, ensuring that each invitation is perfectly customized for your special day. Product Features: Digital Invitation. Size: 5" x 7". Resolution: 300dpi. Color profile: RGB. Image file type: JPG. Optional matching RSVP Cards (3.5" x 5") for printable or printed options. Uses: E-vite or Printable Invitation. Upgrade: Professionally printed invitations are available. Need professionally printed invitations? Simply upgrade to add printed invitations and select the quantity you need.
-  Updated: 2026-04-01T19:35:00Z
-  Vendor: Artistically Invited
-  Product Type: Reception Only Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticBearSpringFloralReceptionOnlyInvitations-ArtisticallyInvited.jpg?v=1685034724
-  Price: $21.95 USD
-- [Rustic Bear Spring Floral Wood Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-bear-spring-floral-wood-thank-you-cards): The Rustic Bear Spring Floral Wood Thank You Cards (20-Pack) are designed with nature-inspired details, featuring two silhouette bears facing each other on a tree trunk stripe, highlighted by an enchanting spring floral and tree design. Below the bears, the words "Thank You" are elegantly printed in green on a light wood background design along the bottom. Created for those who adore rustic or country aesthetics, these thank you cards blend an appreciation for nature with a touch of understated beauty. Ideal for many occasions, the Rustic Bear Spring Floral Wood Thank You Cards are perfect for sending thank you messages after rustic, country, or nature-themed events. They are especially suited for spring and summer bear-themed weddings, bridal showers, birthdays, or any celebration with a rustic, outdoorsy vibe. Whether you’re thanking friends and family for their support, gifts, or well-wishes, these cards allow you to express gratitude in a meaningful and visually appealing way. For nature lovers, bear enthusiasts, or those who simply appreciate a calm, rustic style, these cards offer a memorable way to communicate your thanks. Printed on high-quality, thick 16 pt smooth white cover stock, each card is blank inside, leaving ample space for a personalized, handwritten message. The size of each card, when folded, is a convenient 4.25" x 5.5", making them easy to display, mail, or include with gifts. This pack of 20 cards comes matching white envelopes, ensuring they’re ready to go as soon as they arrive. An upgrade option is also available if you wish to add more cards to your order, making them perfect for larger celebrations or events. Benefits and Uses: Ideal for nature lovers and rustic-themed events – Perfect for expressing gratitude after weddings, showers, or any celebration with an outdoor or country flair. High-quality material – Made from 16 pt smooth white cover stock, ensuring durability and a premium feel in hand. Handwritten personal touch – Blank inside to leave room for your heartfelt, hand-penned messages. Envelopes included – Ready to send with included white envelopes for added convenience. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards. Upgrade available to add more cards.
-  Updated: 2026-04-01T19:35:00Z
-  Vendor: Artistically Invited
-  Product Type: Cards
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/products/Rustic_Bear_Spring_Floral_Thank_You_Cards_-_Artistically_Invited.jpg?v=1606595920
-  Price: $37.95 USD
-- [Rustic Burlap and Lace Tin Can Sunflower Reception Only Invitation](https://artisticallyinvited.com/products/rustic-burlap-lace-tin-can-sunflower-reception-only-invitation): The Rustic Burlap and Lace Tin Can Sunflower Reception Only Invitation is a warm, countryside-inspired way to welcome your guests to celebrate your wedding reception. This design features vibrant yellow sunflowers arranged in a rustic metal tin can wrapped in classic burlap and lace, tied neatly with twine, all set against a rich, dark wood background. The details of your post-wedding reception are arranged in natural green and brown fonts over a soft beige backdrop to the right of the sunflowers, providing a beautifully cohesive layout that lets your announcement shine. This invitation's inviting tones and sunflower design are ideal for rustic or sunflower-themed receptions. It is a great choice for couples who have a private or destination wedding and are now inviting loved ones to celebrate with them at a reception. Perfect for spring, summer, or fall, the sunflower theme is vibrant and versatile, suitable for any gathering that appreciates nature-inspired aesthetics and countryside charm. The Rustic Burlap and Lace Tin Can Sunflower Reception Only Invitation offers a balance between rustic textures and a timeless sunflower theme, appealing to those who enjoy a natural, understated elegance in their event stationery. This invite’s thoughtful arrangement, easy-to-read font choices, and earthy color scheme make it versatile and approachable for all kinds of celebrations. After you order, you’ll receive a personalized proof image of your digital invite to review and approve, ensuring that every detail is just right before you receive the final file. This invitation can be used as a printable, letting you print it at home, or shared digitally as an eco-friendly, paperless option to send by email, text message, or through social media messaging. Need professionally printed invitations? Simply upgrade to add printed invitations and select the quantity you need. Product Features: Digital Invitation. Size: 5" x 7". Resolution: 300dpi. Color profile: RGB. Image file type: JPG. Optional matching RSVP Cards (3.5" x 5") for printable or printed options. Uses: E-vite or Printable Invitation. Upgrade: Professionally printed invitations are available.
-  Updated: 2026-04-01T19:35:00Z
-  Vendor: Artistically Invited
-  Product Type: Reception Only Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticBurlapandLaceTinCanSunflowerReceptionOnlyInvitations-ArtisticallyInvited.jpg?v=1685022486
-  Price: $21.95 USD
-- [Modern Red White Blue Snowflake Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/modern-red-white-blue-snowflake-thank-you-cards): These Modern Red White Blue Snowflake Thank You Cards (20-Pack) are perfect for expressing gratitude with a wintry, stylish touch. Designed with a contemporary aesthetic, each card features a stunning red gradient background adorned with intricate white and blue snowflakes. At the center, "Thank You" is beautifully scripted in blue within a white circle outlined in complementary light blue and dark red, adding a bold yet refined feel to each card’s exterior. The striking combination of red, white, and blue makes these thank you cards versatile for holiday gatherings, winter weddings, corporate events, or seasonal celebrations. With high-quality printing on thick, 16 pt smooth white cover stock, these cards deliver an impressive look and feel that recipients will appreciate. The Modern Red White Blue Snowflake Thank You Cards are blank inside, giving you ample space to add a handwritten note that can be personal, heartfelt, or professional, depending on the occasion. Whether thanking guests for attending your winter event, expressing appreciation to clients, or simply sending a seasonal message to friends and family, these cards provide a versatile, winter-inspired canvas. The thoughtful snowflake design reflects the beauty of the season, appealing to individuals who enjoy unique and modern holiday stationery. Ideal for anyone who loves snowflakes and red winter designs, these thank you cards provide an elegant yet modern option for seasonal messages of gratitude. Their red background, and blue and white accents, combined with the intricate snowflakes, resonate with those looking for thank you cards with a bold winter theme. Each pack includes 20 cards and white envelopes, so you’re ready to send out thoughtful thank-you notes without delay. An upgrade option is available to add additional cards to your order if more cards are needed for larger gatherings or frequent winter correspondence. Benefits and Uses: Great for a variety of winter-themed events, including weddings, corporate functions, and holiday parties. High-quality card stock ensures durability, so your message remains intact and elegant. Blank interiors provide the flexibility to write personalized messages, making these cards suitable for personal or professional occasions. Stylish seasonal design in red, white, and blue appeals to snowflake enthusiasts and winter lovers. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards. Upgrade available to add more cards.
-  Updated: 2026-04-01T19:35:01Z
-  Vendor: Artistically Invited
-  Product Type: Cards
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/products/ModernRedWhiteBlueSnowflakeThankYouCards-ArtisticallyInvited.jpg?v=1681205584
-  Price: $37.95 USD
-- [Modern Red White Blue Snowflake Wedding Invitation | Winter Design](https://artisticallyinvited.com/products/modern-red-white-blue-snowflake-wedding-invitation): Modern Red White Blue Snowflake Wedding Invitation with a red background, intricate blue and white snowflakes, and custom details. Perfect for winter weddings.
-  Updated: 2026-04-01T19:35:01Z
-  Vendor: Artistically Invited
-  Product Type: Wedding Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/ModernRedWhiteBlueSnowflakeWeddingInvitations-ArtisticallyInvited.jpg?v=1684717115
-  Price: $21.95 USD
-- [Modern Red White Blue Snowflake Reception Only Invitations](https://artisticallyinvited.com/products/reception-only-invitations-modern-red-white-blue-snowflake): Modern red white blue snowflake reception only invitations with your personalized post-wedding reception details custom printed in blue and purple in a white circle over a royal red background covered in ornate white and blue snowflakes. The design on these modern red white blue snowflake reception only invitations is unique and rich in color, making them perfect for your wedding receptions with a red snowflake theme during the winter months. These invitations are used when the couple has a destination wedding or a small private ceremony and only invite their guests to the post-wedding reception celebration.
-  Updated: 2026-04-01T19:35:01Z
-  Vendor: Artistically Invited
-  Product Type: Reception Only Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/ModernRedWhiteBlueSnowflakeReceptionOnlyInvitations-ArtisticallyInvited.jpg?v=1685106261
-  Price: $21.95 USD
-- [Modern Red White Blue Snowflake Save the Date Card | Winter Wedding](https://artisticallyinvited.com/products/modern-red-white-blue-snowflake-save-the-date-card): Announce your winter wedding with the personalized Modern Red White Blue Snowflake Save the Date Card. A modern design with intricate snowflakes. Order now!
-  Updated: 2026-04-01T19:35:01Z
-  Vendor: Artistically Invited
-  Product Type: Save the Date Cards
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/ModernRedWhiteBlueSnowflakeSavetheDateCards-ArtisticallyInvited.jpg?v=1684597978
-  Price: $17.95 USD
-- [Orange Brown Polka Dot Save the Date Card for Fall Weddings](https://artisticallyinvited.com/products/orange-brown-polka-dot-save-the-date-card): Celebrate your fall wedding with our Orange Brown Polka Dot Save the Date Card. Perfect for polka dot-themed autumn events. Order your personalized cards today.
-  Updated: 2026-04-01T19:35:01Z
-  Vendor: Artistically Invited
-  Product Type: Save the Date Cards
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/OrangeBrownPolkaDotSavetheDateCards-ArtisticallyInvited.jpg?v=1684597984
-  Price: $17.95 USD
-- [Gray and Red Polka Dot Save the Date Card | Red Polka Dot Weddings](https://artisticallyinvited.com/products/gray-red-polka-dot-save-the-date-card): Announce your wedding date with the Gray and Red Polka Dot Save the Date Card. Modern red polka dot design, perfect for couples, for any season. Order today!
-  Updated: 2026-04-01T19:35:02Z
-  Vendor: Artistically Invited
-  Product Type: Save the Date Cards
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/GrayandRedPolkaDotSavetheDateCards-ArtisticallyInvited.jpg?v=1684597942
-  Price: $17.95 USD
-- [Gray Navy Blue Polka Dot Save the Date Card | Stylish Wedding Design](https://artisticallyinvited.com/products/gray-navy-blue-polka-dot-save-the-date-card): Discover the personalized Gray Navy Blue Polka Dot Save the Date Card. A stylish navy blue polka dot design perfect for timeless weddings in any season.
-  Updated: 2026-04-01T19:35:02Z
-  Vendor: Artistically Invited
-  Product Type: Save the Date Cards
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/GrayNavyBluePolkaDotSavetheDateCards-ArtisticallyInvited.jpg?v=1684597991
-  Price: $17.95 USD
-- [Vintage Rustic Mason Jar Daisy Save the Date Card for Weddings](https://artisticallyinvited.com/products/vintage-rustic-mason-jar-daisy-save-the-date-card): Announce your wedding date with the Vintage Rustic Mason Jar Daisy Save the Date Card. Great for rustic and mason jar themes, spring, and summer weddings.
-  Updated: 2026-04-01T19:35:02Z
-  Vendor: Artistically Invited
-  Product Type: Save the Date Cards
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/VintageRusticMasonJarDaisySavetheDateCards-ArtisticallyInvited.jpg?v=1684598008
-  Price: $17.95 USD
-- [Rustic Sailboat Nautical Save the Date Card | Coastal & Seaside Themes](https://artisticallyinvited.com/products/rustic-sailboat-nautical-save-the-date-card): Shop this Rustic Sailboat Nautical Save the Date Card with a sailboat and rustic canvas design. Perfect for spring or summer nautical weddings. Order today!
-  Updated: 2026-04-01T19:35:02Z
-  Vendor: Artistically Invited
-  Product Type: Save the Date Cards
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticSailboatNauticalSavetheDateCards-ArtisticallyInvited.jpg?v=1684529742
-  Price: $17.95 USD
-- [Rustic Sailboat Nautical Wedding Invitation | Beach & Lakeside Invite](https://artisticallyinvited.com/products/rustic-sailboat-nautical-wedding-invitation): Rustic Sailboat Nautical Wedding Invitation featuring a simple sailboat design and golden sun. Perfect for rustic coastal, beach, or lakeside weddings.
-  Updated: 2026-04-01T19:35:02Z
-  Vendor: Artistically Invited
-  Product Type: Wedding Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticSailboatNauticalWeddingInvitations-ArtisticallyInvited.jpg?v=1684501853
-  Price: $21.95 USD
-- [Rustic Sailboat Nautical Note Cards | 20-Pack or More](https://artisticallyinvited.com/products/rustic-sailboat-nautical-note-cards): These Rustic Sailboat Nautical Note Cards (20-Pack) offer a classic design with a ruggedly illustrated sailboat line drawing, floating on gentle waters under a glowing sun, with two birds flying gracefully near the boat. Perfect for those who treasure nautical themes, these note cards capture the serene essence of the sea. Ideal as thank-you cards or personal note cards, they reflect the simplicity and beauty of coastal living, making them especially suited for sending thoughtful messages after seaside-themed celebrations, beach gatherings, or coastal-inspired weddings and events. Printed on high-quality, thick 16 pt smooth white cover stock, these Rustic Sailboat Nautical Note Cards provide an excellent writing surface, ensuring your handwritten words look neat and clear. The blank interiors offer ample space for personalization, allowing you to compose meaningful messages for any occasion. With their sturdy feel, these cards convey a sense of thoughtfulness and care, making them perfect for anyone who enjoys a connection to the water or nautical imagery. Whether you're writing to express gratitude, share news, or send warm greetings, these note cards carry the calm spirit of coastal life into every correspondence. These nautical note cards appeal to sailors, beach lovers, and coastal enthusiasts alike, and are a wonderful choice for anyone who lives near the water, loves sailing, or simply appreciates the beauty of the sea. The set includes 20 cards, each paired with a white envelope for a cohesive and professional presentation. Benefits and Uses: Perfect for nautical, beach, or seaside-themed thank-you cards and personal notes. Versatile for sending thoughtful correspondence from the shore, or during vacations or sailing destination adventures. A blank inside gives freedom for heartfelt messages, whether short or detailed. Suitable for anyone who loves the tranquility and aesthetics of nautical designs. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards. Upgrade available to add more cards.
-  Updated: 2026-04-01T19:35:02Z
-  Vendor: Artistically Invited
-  Product Type: Cards
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/products/RusticSailboatNauticalNoteCards-ArtisticallyInvited.jpg?v=1681395756
-  Price: $37.95 USD
-- [Rustic Sailboat Nautical Reception Only Invitations](https://artisticallyinvited.com/products/reception-only-invitations-rustic-sailboat-nautical): Rustic sailboat nautical reception only invitations designed with an illustration of a sailboat on the water with the sun in the corner and two bird silhouettes around the boat. Your personalized post-wedding reception details are custom printed in blue and black over the rustic canvas background design. The unique artistic design on these rustic sailboat nautical reception only invitations is perfect for your rustic wedding receptions with a nautical, seaside, or sailboat theme during the spring and summer months. These invitations are used when the couple has a destination wedding or a small private ceremony and only invite their guests to the post-wedding reception celebration.
-  Updated: 2026-04-01T19:35:02Z
-  Vendor: Artistically Invited
-  Product Type: Reception Only Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticSailboatNauticalReceptionOnlyInvitations-ArtisticallyInvited.jpg?v=1685042768
-  Price: $21.95 USD
-- [Modern Red White Blue Snowflake Holiday Party Invitation](https://artisticallyinvited.com/products/modern-red-white-blue-snowflake-holiday-party-invitation): Introducing the Modern Red White Blue Snowflake Holiday Party Invitation – a stylish and festive way to invite guests to your holiday celebration. The design on this digital invite features a vibrant royal red background, adorned with intricate white and blue snowflakes that immediately evoke the magic of winter. At the center of the invitation, your personalized holiday party details are beautifully arranged in blue and red within a bold white circle, creating a visually striking contrast against the red background. This invitation is perfect for office holiday parties, family gatherings, or any winter event that calls for a festive and modern design. The rich red, white, and blue color scheme is both elegant and versatile, capturing the joyful spirit of the holiday season. Whether you're hosting a formal event or a casual get-together, this invite will set the tone for a memorable celebration. After you place your order, you’ll receive a personalized proof image of your digital invite to review and approve. Once , the final image file will be sent to you, ready for use as a printable to print at home or as a convenient e-vite to send via email, text message, or social media. This eco-friendly, paperless option is ideal for anyone looking to reduce waste while still creating a beautiful and professional holiday invitation. Product Features: Digital Invitation. Size: 5" x 7". High-resolution: 300 dpi (RGB) JPG image file. Uses: E-vite or Printable Invitation. Upgrade: Professionally printed invitations available. Need professionally printed invitations? Simply upgrade to add printed invitations and select the quantity you need.
-  Updated: 2026-04-01T19:35:03Z
-  Vendor: Artistically Invited
-  Product Type: Christmas Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/ModernRedWhiteBlueSnowflakeHolidayPartyInvitations-ArtisticallyInvited.jpg?v=1684945420
-  Price: $21.95 USD
-- [Modern Purple Blue Snowflake Thank You Cards | 20-Pack or More](https://artisticallyinvited.com/products/modern-purple-blue-snowflake-thank-you-cards): Celebrate winter’s beauty and express your gratitude with the Modern Purple Blue Snowflake Thank You Cards (20-Pack). These folded cards feature a stunning winter theme with an eye-catching royal purple gradient background, intricately adorned with a variety of white and blue snowflakes. The snowflakes range from delicate to bold, set against the rich purple tones that beautifully capture the chill and charm of the season. In the center, “Thank You” is displayed in a classic blue script, framed within a white circle with a dark purple and light blue outline, adding a touch of sophistication to every note of thanks. These high-quality cards are ideal for sending heartfelt messages following any winter occasion. From holiday gatherings and seasonal celebrations to snowy outdoor events or cozy winter weddings, these snowflake thank you cards are perfectly suited to expressing your appreciation. Designed with winter lovers in mind, these cards resonate with anyone who appreciates the beauty of snowflakes and the color purple, creating a personalized touch that’s memorable for your recipients. Blank inside, they offer ample space to handwrite personal notes, ensuring your words of gratitude feel sincere and thoughtful. Printed on thick, 16 pt smooth white cover stock, each card feels substantial and luxurious to hold. The blank interior lets you personalize each message by hand, making these thank you cards versatile enough for both formal and casual occasions. Whether you're reaching out to friends, family, or colleagues, the Modern Purple Blue Snowflake Thank You Cards provide a thoughtful, seasonal way to say thank you. Benefits and Uses: Ideal for winter celebrations, holiday gatherings, seasonal parties, or winter weddings. High-quality and durable for a lasting impression. Perfect for those who appreciate a stylish purple winter theme with snowflakes. Blank inside for personalized, handwritten messages to suit any thank you occasion. Product Features: Folded Cards. Folded Size: 4.25" x 5.5". Blank Inside. Paper: 16 pt Smooth White Cover. White envelopes included. Pack of 20 Cards. Upgrade available to add more cards.
-  Updated: 2026-04-01T19:35:03Z
-  Vendor: Artistically Invited
-  Product Type: Cards
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/products/ModernPurpleBlueSnowflakeThankYouCards-ArtisticallyInvited.jpg?v=1681205598
-  Price: $37.95 USD
-- [Modern Purple Blue Snowflake Bridal Shower Invitation | Winter Design](https://artisticallyinvited.com/products/modern-purple-blue-snowflake-bridal-shower-invitation): Celebrate your winter shower with the Modern Purple Blue Snowflake Bridal Shower Invitation. A vibrant purple design with blue and white snowflakes.
-  Updated: 2026-04-01T19:35:03Z
-  Vendor: Artistically Invited
-  Product Type: Bridal Shower Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/ModernPurpleBlueSnowflakeBridalShowerInvitations-ArtisticallyInvited.jpg?v=1684331576
-  Price: $21.95 USD
-- [Gray Navy Blue Polka Dot Reception Only Invitations](https://artisticallyinvited.com/products/reception-only-invitations-gray-navy-blue-polka-dot): Gray navy blue polka dot reception only invitations with your personalized post-wedding reception celebration details custom printed in navy blue and gray inside a white circle outlined in light gray, over a navy blue polka dot pattern with white polka dots over blue. These gray navy blue polka dot reception only invitations are stylish and preppy, and are perfect for modern wedding receptions with a navy blue or polka dot theme. The couple's names and wedding date are printed in navy blue, while the remaining details are printed in gray. These invitations are used when the couple has a destination wedding or a small private ceremony and only invite their guests to the post-wedding reception celebration.
-  Updated: 2026-04-01T19:35:03Z
-  Vendor: Artistically Invited
-  Product Type: Reception Only Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/GrayNavyBluePolkaDotReceptionOnlyInvitations-ArtisticallyInvited.jpg?v=1685042712
-  Price: $21.95 USD
-- [Gray and Red Polka Dot Wedding Invitation | Custom Modern Invite](https://artisticallyinvited.com/products/gray-red-polka-dot-wedding-invitation): Gray and Red Polka Dot Wedding Invitation | Modern, preppy design with customizable details. Optional RSVP cards and professional printing upgrade available.
-  Updated: 2026-04-01T19:35:03Z
-  Vendor: Artistically Invited
-  Product Type: Wedding Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/GrayandRedPolkaDotWeddingInvitations-ArtisticallyInvited.jpg?v=1684523464
-  Price: $21.95 USD
-- [Gray and Red Polka Dot Reception Only Invitations](https://artisticallyinvited.com/products/reception-only-invitations-gray-and-red-polka-dot): Gray and red polka dot reception only invitations with your personalized post-wedding reception celebration details custom printed in red and gray inside a white circle outlined in light gray, over a red polka dot pattern with white polka dots over red. These gray and red polka dot reception only invitations are stylish and preppy, and are perfect for modern wedding receptions with a red or polka dot theme. The couple's names and wedding date are printed in red, while the remaining details are printed in gray. These invitations are used when the couple has a destination wedding or a small private ceremony and only invite their guests to the post-wedding reception celebration.
-  Updated: 2026-04-01T19:35:03Z
-  Vendor: Artistically Invited
-  Product Type: Reception Only Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/GrayandRedPolkaDotReceptionOnlyInvitations-ArtisticallyInvited.jpg?v=1685042691
-  Price: $21.95 USD
-- [Orange Brown Polka Dot Reception Only Invitation | E-vite, Printed](https://artisticallyinvited.com/products/orange-brown-polka-dot-reception-only-invitation): Celebrate your post-wedding reception in style with this Orange Brown Polka Dot Reception Only Invitation, designed for couples who want to share their joy after a private or destination ceremony. This autumn-inspired invitation features a modern yet classic polka dot pattern that exudes a warm, welcoming feel, ideal for receptions during the fall season or any time you want a cozy, vibrant look. The orange and brown color scheme effortlessly captures the essence of autumn, with your celebration details arranged within a white circle, giving a clear focus to your information while adding a touch of charm to the design. The Orange Brown Polka Dot Reception Only Invitation is thoughtfully designed to balance style and readability. Inside the white circle outlined in orange, the couple’s names and reception date are beautifully arranged in a complementary orange, with the rest of the text displayed in a harmonious brown tone. This contrast ensures the essential details of your celebration stand out, while the inviting polka dot backdrop, with white polka dots over brown, makes it perfect for a fun yet refined reception theme that resonates with fans of timeless patterns. With its simple yet impactful design, this invite is ideal for any couple seeking an autumnal or polka dot-themed reception invitation that subtly conveys both elegance and personality. This reception-only invite serves a unique purpose, ideal for couples who’ve had a private or destination wedding ceremony or are eloping and want to gather their loved ones for a post-wedding celebration. Each invitation is delivered as a high-resolution, 5" x 7" digital file, making it convenient and versatile for modern celebrations. After you place your order, you'll receive a personalized proof image to review and approve, ensuring every detail is just as you envision. You can then use it as a printable invite for a traditional touch or as an e-vite for an eco-friendly, paperless option to share by email, text message, or social media. Product Features: Digital Invitation. Size: 5" x 7". Resolution: 300dpi. Color profile: RGB. Image file type: JPG. Optional matching RSVP Cards (3.5" x 5") for printable or printed options. Uses: E-vite or Printable Invitation. Upgrade: Professionally printed invitations are available. Need professionally printed invitations? Simply upgrade to add printed invitations and select the quantity you need.
-  Updated: 2026-04-01T19:35:04Z
-  Vendor: Artistically Invited
-  Product Type: Reception Only Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/OrangeBrownPolkaDotReceptionOnlyInvitations-ArtisticallyInvited.jpg?v=1684949757
-  Price: $21.95 USD
-- [Navy Circle Red Stripe Nautical Reception Only Invitations](https://artisticallyinvited.com/products/reception-only-invitations-navy-circle-red-stripe-nautical): Navy circle red stripe nautical reception only invitations with your personalized post-wedding reception details custom printed in blue and red inside a white circle outlined in navy blue, over a red and white stripes pattern background. The design on these navy circle red stripe nautical reception only invitations is perfect for your seaside, sailing, or nautical wedding receptions. These invitations are used when the couple has a destination wedding or a small private ceremony and only invite their guests to the post-wedding reception celebration.
-  Updated: 2026-04-01T19:35:04Z
-  Vendor: Artistically Invited
-  Product Type: Reception Only Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/NavyCircleRedStripeNauticalReceptionOnlyInvitations-ArtisticallyInvited.jpg?v=1685106307
-  Price: $21.95 USD
-- [Rustic Sunflower Wood Mason Jar Reception Only Invitation](https://artisticallyinvited.com/products/rustic-sunflower-wood-mason-jar-reception-only-invitation): Capture the essence of a relaxed, rustic, post-wedding celebration with this Rustic Sunflower Wood Mason Jar Reception Only Invitation. Perfect for couples who are married in a private or destination wedding, this reception-only invite warmly welcomes guests to join in the festivities afterward. The centerpiece of this invitation is a vibrant illustration featuring large yellow sunflowers accented with delicate baby's breath and green leaves, beautifully arranged within a classic glass mason jar. The backdrop is a dark wood texture, giving the invite an authentic, southern-inspired rustic feel, ideal for weddings with a natural or outdoor setting. This sunflower reception invitation suits couples who appreciate the simplicity of rustic decor and the timeless beauty of sunflowers, making it perfect for spring, summer, or early fall wedding receptions. The warm tones and thoughtful design make this invite especially fitting for celebrations held at barns, gardens, or other outdoor venues that embrace the countryside's natural beauty. To the right of the mason jar illustration, your reception details are carefully arranged in contrasting yellow and white text, creating an eye-catching display that is easy to read against the wood background. Each Rustic Sunflower Wood Mason Jar Reception Only Invitation is designed to function beautifully as both a printable and digital (e-vite) option. After your order is placed, you’ll receive a personalized proof of your invite to review and approve before the final image file is provided. The digital file offers versatility for modern couples, allowing you to print it yourself or use it as an eco-friendly e-vite, sharing it by email, text message, or social media messaging. Ideal for couples with a down-to-earth style, this sunflower mason jar invitation seamlessly blends rustic aesthetics with a heartfelt invitation to celebrate your love. Whether your theme centers around mason jars, sunflowers, or simply the beauty of the outdoors, this invitation brings warmth and authenticity to your special announcement. Product Features: Digital Invitation. Size: 5" x 7". Resolution: 300dpi. Color profile: RGB. Image file type: JPG. Optional matching RSVP Cards (3.5" x 5") for printable or printed options. Uses: E-vite or Printable Invitation. Upgrade: Professionally printed invitations are available. Need professionally printed invitations? Simply upgrade to add printed invitations and select the quantity you need.
-  Updated: 2026-04-01T19:35:04Z
-  Vendor: Artistically Invited
-  Product Type: Reception Only Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticSunflowerWoodMasonJarReceptionOnlyInvitations-ArtisticallyInvited.jpg?v=1684947802
-  Price: $21.95 USD
-- [Rustic Sunflower and Denim Couples Shower Invitations](https://artisticallyinvited.com/products/couples-shower-invitations-rustic-sunflower-denim): Southern-inspired rustic sunflower and denim couples shower invitations designed with large yellow sunflowers along the top over a country blue denim design. Your personalized couples shower celebration details are custom printed in yellow and white over the blue denim background below the pretty sunflowers. The beautiful design on these rustic sunflower and denim couples shower invitations makes them the perfect choice for your floral, denim, and sunflower-themed wedding showers during the spring and summer months.
-  Updated: 2026-04-01T19:35:04Z
-  Vendor: Artistically Invited
-  Product Type: Couples Shower Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticSunflowerandDenimCouplesShowerInvitations-ArtisticallyInvited.jpg?v=1684368443
-  Price: $21.95 USD
-- [Rustic Bear Floral Wood Couples Shower Invitations](https://artisticallyinvited.com/products/couples-shower-invitations-rustic-bear-floral-wood): Rustic bear floral wood couples shower invitations with two silhouette bears on a wooden tree trunk-like stripe over a whimsical spring floral trees illustration. Your personalized couples shower details are custom printed in black and green over a light rustic wood image background. The design on these rustic bear floral wood couples shower invitations makes them perfect for any couple celebrating their wedding shower with a rustic or bear theme during the spring and summer months.
-  Updated: 2026-04-01T19:35:04Z
-  Vendor: Artistically Invited
-  Product Type: Couples Shower Invitations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticBearFloralWoodCouplesShowerInvitations-ArtisticallyInvited.jpg?v=1684368505
-  Price: $21.95 USD
-[List Continued](https://artisticallyinvited.com/llms.txt?type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NzMyMTUyMzYsImxhc3RfdmFsdWUiOiI4NzMyMTUyMzYifQ==)
+[List Continued](https://artisticallyinvited.com/a/llms-agent/llms.txt?shop=artistically-invited.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo0NTYzNzcyODQsImxhc3RfdmFsdWUiOiI0NTYzNzcyODQifQ%3D%3D)
 
 ## Collections
 
-- [Bridal Shower Invitations Personalized | Printed or Printable](https://artisticallyinvited.com/collections/bridal-shower-invitations): Floral, rustic, beach, and seasonal bridal shower invitations personalized for your event. Available as digital files or printed invitations.
-  Updated: 2026-04-01T19:34:16Z
-  Total Products: 148
+- [Bridal Shower Invitations | Personalized with Your Wording](https://artisticallyinvited.com/collections/bridal-shower-invitations): Floral, rustic, beach, and seasonal bridal shower invitations personalized for your special occasion. Available with printable and printed options.
+  Updated: 2026-05-07T19:54:42Z
+  Total Products: 142
 - [Save the Date Cards Personalized | Printed or Digital](https://artisticallyinvited.com/collections/save-the-date): Floral, rustic, beach, and seasonal save the date cards personalized with your details to announce your wedding and help guests plan ahead.
   Updated: 2026-04-01T19:34:16Z
   Total Products: 42
@@ -1785,13 +1435,13 @@ All designs are created in-house and personalized by the shop owner using each c
   Updated: 2026-04-01T19:34:16Z
   Total Products: 96
 - [Birthday Invitations Personalized | Printed or Digital](https://artisticallyinvited.com/collections/birthday-invitations): Themed, milestone, and seasonal birthday invitations for kids and adults, personalized with your details for your celebration.
-  Updated: 2026-04-01T19:34:17Z
+  Updated: 2026-04-28T11:00:33Z
   Total Products: 76
 - [Wedding Invitations Personalized | Printed or Digital](https://artisticallyinvited.com/collections/wedding-invitations): Floral, rustic, beach, and seasonal wedding invitations personalized with your details for your celebration, with optional RSVP cards available.
   Updated: 2026-04-01T19:34:17Z
   Total Products: 97
-- [Thank You Cards | Blank Folded Note Card Sets](https://artisticallyinvited.com/collections/thank-you-cards): Thank you cards and note cards in modern, rustic, and seasonal designs. Blank inside and available in flexible quantities for events and everyday notes.
-  Updated: 2026-04-01T19:34:17Z
+- [Thank You Cards and Note Cards | Folded with Envelopes](https://artisticallyinvited.com/collections/thank-you-cards): Thank you cards and note cards in modern, rustic, and seasonal designs. Blank inside and available in flexible quantities for events and everyday notes.
+  Updated: 2026-05-13T13:43:28Z
   Total Products: 137
 - [Family Reunion Invitations Personalized | Printed or Digital](https://artisticallyinvited.com/collections/family-reunion-invitations): Modern, rustic, and seasonal family reunion invitations personalized with your details for summer, fall, holiday, or annual gatherings.
   Updated: 2026-04-01T19:34:17Z
@@ -1800,8 +1450,8 @@ All designs are created in-house and personalized by the shop owner using each c
   Updated: 2026-04-01T19:34:17Z
   Total Products: 20
 - [Personalized Invitations & Stationery | Digital & Printed Designs](https://artisticallyinvited.com/collections/all): Shop personalized invitations and printed stationery for weddings, showers, birthdays, and more. Digital or printed options with your wording added for you.
-  Updated: 2026-04-07T00:54:50Z
-  Total Products: 1138
+  Updated: 2026-05-07T18:42:02Z
+  Total Products: 1132
 - [Reception Only Invitations Personalized | Printed or Digital](https://artisticallyinvited.com/collections/reception-only-invitations): Floral, rustic, beach, and seasonal reception only invitations personalized with your details for post-wedding celebrations, with optional RSVP cards.
   Updated: 2026-04-01T19:34:18Z
   Total Products: 82
@@ -1818,19 +1468,19 @@ All designs are created in-house and personalized by the shop owner using each c
   Updated: 2026-04-01T19:34:18Z
   Total Products: 4
 - [Best  Products](https://artisticallyinvited.com/collections/best--products)
-  Updated: 2026-04-07T00:54:50Z
-  Total Products: 1138
+  Updated: 2026-05-07T18:42:02Z
+  Total Products: 1132
 - [Newest Products](https://artisticallyinvited.com/collections/newest-products)
-  Updated: 2026-04-07T00:54:50Z
-  Total Products: 1138
+  Updated: 2026-05-07T18:42:02Z
+  Total Products: 1132
 - [Enclosure Cards](https://artisticallyinvited.com/collections/enclosure-cards): Enclosure cards to match your invitations. We offer enclosure cards that are designed to complement your invitations. Simply select these cards in the size you need and we'll customize them with the same style and design as your invitations. Our enclosure cards are perfect for your accommodations, reception information, and meal choices for your occasion, so you can be sure you're getting exactly what you need. When you order any of our custom enclosure cards, we'll give you a complimentary proofing process with our Designer. This means we'll email you a proof image for your review and approval before we print your order. With this collaborative approach, we can ensure that your enclosure cards are exactly the way you want them. Go back to the home page.
   Updated: 2025-09-22T19:12:17Z
   Total Products: 2
-- [Personalized Address Labels | Printed Return Labels](https://artisticallyinvited.com/collections/address-labels): Personalized address labels printed with your return address in modern, rustic, and seasonal designs for invitations, cards, and everyday mail.
-  Updated: 2026-04-07T00:54:50Z
+- [Personalized Address Labels | Custom Return Labels](https://artisticallyinvited.com/collections/address-labels): Personalized address labels printed with your return address in modern, rustic, and seasonal designs for invitations, cards, and everyday mail.
+  Updated: 2026-04-09T22:11:13Z
   Total Products: 129
-- [Recipe Cards 4x6 | Sets for Gifts and Kitchens](https://artisticallyinvited.com/collections/recipe-cards): 4x6 recipe cards in illustrated and seasonal designs for organizing family recipes, bridal shower gifts, and everyday cooking.
-  Updated: 2026-04-01T19:34:19Z
+- [Recipe Cards for Bridal Showers, Keepsakes & Kitchen Gifts](https://artisticallyinvited.com/collections/recipe-cards): Shop double-sided 4" x 6" recipe cards for recipe sharing, shower gifts, and family keepsakes in floral, rustic, beach, and seasonal designs.
+  Updated: 2026-04-27T11:00:29Z
   Total Products: 57
 - [Personalized Journals and Notebooks | Custom Name Covers](https://artisticallyinvited.com/collections/journals-and-books): Personalized 5x7 journals and notebooks with custom names or text on the cover. Hardcover books for writing, sketching, planning, and thoughtful gifts.
   Updated: 2026-04-01T19:34:19Z
@@ -1845,14 +1495,14 @@ All designs are created in-house and personalized by the shop owner using each c
   Updated: 2026-04-01T19:34:19Z
   Total Products: 6
 - [Vow Renewal Invitations Personalized | Printed or Digital](https://artisticallyinvited.com/collections/vow-renewal-invitations): Floral, rustic, beach, and seasonal vow renewal invitations personalized with your details for anniversary celebrations, with matching RSVP cards.
-  Updated: 2026-04-01T19:34:19Z
+  Updated: 2026-04-14T11:00:23Z
   Total Products: 15
 - [Retirement Invitations Personalized | Printed or Digital](https://artisticallyinvited.com/collections/retirement-invitations): Modern, rustic, and seasonal retirement invitations personalized with your details for retirement parties and celebrations.
   Updated: 2026-04-01T19:34:20Z
   Total Products: 13
 - [Best Seller (internal use)](https://artisticallyinvited.com/collections/best-seller-internal-use)
-  Updated: 2026-04-07T00:54:50Z
-  Total Products: 1138
+  Updated: 2026-05-07T18:42:02Z
+  Total Products: 1132
 - [Beach Bridal Shower Invitations | Coastal & Tropical](https://artisticallyinvited.com/collections/beach-bridal-shower-invitations): Beach bridal shower invitations in coastal and tropical designs personalized with your details. Print at home or upgrade to printed invitations.
   Updated: 2026-04-01T19:34:20Z
   Total Products: 21
@@ -1860,10 +1510,10 @@ All designs are created in-house and personalized by the shop owner using each c
   Updated: 2026-04-01T19:34:20Z
   Total Products: 17
 - [Sunflower Bridal Shower Invitations | Rustic Floral](https://artisticallyinvited.com/collections/sunflower-bridal-shower-invitations): Sunflower bridal shower invitations in rustic and floral designs personalized with your details. Print at home or upgrade to printed invitations.
-  Updated: 2026-04-01T19:34:20Z
+  Updated: 2026-05-06T18:42:15Z
   Total Products: 12
 - [Daisy Bridal Shower Invitations | Floral Spring Designs](https://artisticallyinvited.com/collections/daisy-bridal-shower-invitations): Daisy bridal shower invitations in floral and garden designs personalized with your details. Print at home or upgrade to printed invitations.
-  Updated: 2026-04-01T19:34:20Z
+  Updated: 2026-05-05T16:30:30Z
   Total Products: 15
 - [Sunflower Wedding Invitations | Rustic & Floral Designs](https://artisticallyinvited.com/collections/sunflower-wedding-invitations): Sunflower wedding invitations with rustic and seasonal designs. Add your details, choose optional RSVP cards, and an upgrade to printed invitations.
   Updated: 2026-04-01T19:34:20Z
@@ -1875,26 +1525,26 @@ All designs are created in-house and personalized by the shop owner using each c
   Updated: 2026-04-01T19:34:21Z
   Total Products: 63
 - [Summer Bridal Shower Invitations | Floral & Seasonal Designs](https://artisticallyinvited.com/collections/summer-bridal-shower-invitations): Summer bridal shower invitations in floral and seasonal designs personalized with your details. Print at home or upgrade to printed invitations.
-  Updated: 2026-04-01T19:34:21Z
-  Total Products: 92
+  Updated: 2026-05-07T18:40:54Z
+  Total Products: 89
 - [Fall Bridal Shower Invitations | Autumn, Rustic & Seasonal](https://artisticallyinvited.com/collections/fall-bridal-shower-invitations): Fall bridal shower invitations with autumn leaves, pumpkins, and rustic seasonal designs. Digital file with optional printed invitations shipped to you.
-  Updated: 2026-04-01T19:34:21Z
+  Updated: 2026-05-06T18:42:15Z
   Total Products: 30
 - [Winter Bridal Shower Invitations | Snowflake & Rustic](https://artisticallyinvited.com/collections/winter-bridal-shower-invitations): Winter bridal shower invitations in snowflake and seasonal designs personalized with your details. Print at home or upgrade to printed invitations.
-  Updated: 2026-04-01T19:34:21Z
-  Total Products: 37
+  Updated: 2026-05-07T18:42:02Z
+  Total Products: 35
 - [Winter Wedding Invitations | Snowflake & Rustic Designs](https://artisticallyinvited.com/collections/winter-wedding-invitations): Winter wedding invitations with snowflakes, rustic seasonal designs, and personalized wording. Optional RSVP cards and printed invitation upgrade available.
   Updated: 2026-04-01T19:34:21Z
   Total Products: 29
 - [Floral Bridal Shower Invitations | Garden & Seasonal](https://artisticallyinvited.com/collections/floral-bridal-shower-invitations): Floral bridal shower invitations in garden and seasonal flower designs personalized with your details. Print at home or upgrade to printed invitations.
-  Updated: 2026-04-01T19:34:21Z
-  Total Products: 58
+  Updated: 2026-05-07T18:40:54Z
+  Total Products: 56
 - [Floral Wedding Invitations | Garden & Seasonal Designs](https://artisticallyinvited.com/collections/floral-wedding-invitations): Floral wedding invitations with seasonal flower and garden designs. Add your details, choose optional RSVP cards, and upgrade to printed invitations.
   Updated: 2026-04-01T19:34:22Z
   Total Products: 43
 - [Optionize Add-ons](https://artisticallyinvited.com/collections/optionize-add-ons)
-  Updated: 2026-04-07T00:54:50Z
-  Total Products: 1357
+  Updated: 2026-05-07T18:42:02Z
+  Total Products: 1351
 - [Personalized School Planners | Teacher & Student 8.5x11](https://artisticallyinvited.com/collections/school-planners): Personalized school planners for teachers and students with custom name covers and weekly pages for lessons, assignments, and classroom planning.
   Updated: 2026-04-01T19:34:22Z
   Total Products: 12
@@ -1989,7 +1639,7 @@ All designs are created in-house and personalized by the shop owner using each c
 - [Shipping Policy](https://artisticallyinvited.com/policies/shipping-policy)
   Updated: 2024-10-19T13:06:09-04:00
 - [Refund Policy](https://artisticallyinvited.com/policies/refund-policy)
-  Updated: 2026-04-06T20:41:03-04:00
+  Updated: 2026-04-13T08:34:21-04:00
 - [Terms of Service](https://artisticallyinvited.com/policies/terms-of-service)
   Updated: 2020-04-27T16:33:31-04:00
 - [Contact Information](https://artisticallyinvited.com/policies/contact-information)
