@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-05-09T11:07:06Z
 - Contact Email: info@farmmedix.com
-- Updated At: 2026-05-07T00:00:41.186Z
+- Updated At: 2026-05-14T00:00:44.359Z
 
 Farm Medix is New Zealand's leading provider of mastitis diagnostics and lameness management solutions for dairy farmers. Farm Medix helps farmers improve milk quality, reduce antibiotic use, and boost herd performance. We offer expert 7-day support to help you get the best results.
 
@@ -31,7 +31,7 @@ Farm Medix is New Zealand's leading provider of mastitis diagnostics and lamenes
     Image: https://cdn.shopify.com/s/files/1/0701/0425/2635/files/Stride-On-equine-leg-band-6.jpg?v=1774318757
     Price: $399.00 NZD
 - [Stride-On Bovine Lameness Leg Band | Farm Medix](https://www.farmmedix.nz/products/stride-on-bovine-lameness-leg-band): Stride-On™ is an easy-to-use leg band for cows that supports healthy hooves and helps prevent lameness with advanced CopperFlow™ technology.
-  Updated: 2026-04-27T21:47:46Z
+  Updated: 2026-05-12T22:28:37Z
   Vendor: Farm Medix
   Product Type: Stride-On for Bovine
   Availability: Available
@@ -41,10 +41,10 @@ Farm Medix is New Zealand's leading provider of mastitis diagnostics and lamenes
 ## Collections
 
 - [Best  Products](https://www.farmmedix.nz/collections/best--products)
-  Updated: 2026-04-28T11:23:39Z
+  Updated: 2026-05-13T11:24:05Z
   Total Products: 3
 - [Newest Products](https://www.farmmedix.nz/collections/newest-products)
-  Updated: 2026-04-28T11:23:39Z
+  Updated: 2026-05-13T11:24:05Z
   Total Products: 3
 - [Farm Medix | Dermashield® Antimicrobial Bovine & Equine Leg Band](https://www.farmmedix.nz/collections/dermashield®): Dermashield® is a revolutionary antimicrobial product to support your cows' & horses hooves heath. Say goodbye to footbaths, Dermashield® is your put-it-on & forget-it footbath solution for 24/7 antimicrobial action. Support prevention & recovery from any bacterial or fungal infections from exposed tissues like Thrush.
   Updated: 2026-02-11T03:47:24Z
@@ -53,7 +53,7 @@ Farm Medix is New Zealand's leading provider of mastitis diagnostics and lamenes
   Updated: 2026-01-14T22:51:51Z
   Total Products: 0
 - [APPPlaza - Best Sellers](https://www.farmmedix.nz/collections/appplaza-best-sellers)
-  Updated: 2026-04-28T11:23:39Z
+  Updated: 2026-05-13T11:24:05Z
   Total Products: 3
 
 ## Blogs
@@ -128,6 +128,9 @@ Farm Medix is New Zealand's leading provider of mastitis diagnostics and lamenes
   - [Todd’s Mastitis Management at Kakahu Downs | Farmer Success Story](https://www.farmmedix.nz/blogs/dairy-farmers/how-todd-manages-mastitis-confidently-at-kakahu-downs): Todd’s Mastitis Management at Kakahu Downs | Farmer Success Story
     Updated: 2026-04-17T02:52:36Z
     Author: Farm Medix
+  - [How Colm O'Kane Manages Mastitis at 1,140 Cows in Culverden](https://www.farmmedix.nz/blogs/dairy-farmers/how-colm-okane-manages-mastitis-at-1-140-cows-in-culverden): <p><meta charset="utf-8"><meta charset="utf-8">Third season with Farm Medix. Around the 10th lowest farm for antibiotic use at his North Canterbury vet clinic. Colm O'Kane shares his approach and why working with Farm Medix has been one of the best decisions for his farm.</p>
+    Updated: 2026-05-12T03:39:00Z
+    Author: Farm Medix
 - [Stride-On Bovine](https://www.farmmedix.nz/blogs/stride-on-bovine)
   - [Mark Spooner's Success with Stride-On™ Bovine Leg band](https://www.farmmedix.nz/blogs/stride-on-bovine/mark-spooner): Mark Spooner's Success with Stride-On™ Bovine Leg band
     Updated: 2025-12-08T22:56:50Z
@@ -146,7 +149,7 @@ Farm Medix is New Zealand's leading provider of mastitis diagnostics and lamenes
     Updated: 2026-02-16T20:34:12Z
     Author: Farm Medix
   - [NZ Dairy Expo 2026 | Farm Medix](https://www.farmmedix.nz/blogs/news/nz-dairy-expo-2026): NZ Dairy Expo 2026 | Farm Medix
-    Updated: 2026-02-20T02:29:01Z
+    Updated: 2026-05-08T05:03:09Z
     Author: Farm Medix
 - [Stride-On Equine](https://www.farmmedix.nz/blogs/stride-on-equine)
   - [Lucy Laxon’s Mud Fever Success with Stride-On Equine](https://www.farmmedix.nz/blogs/stride-on-equine/mud-fever-lucy-laxon): <p><meta charset="utf-8"><meta charset="utf-8">Winters in Waikato made mud fever a constant struggle for Lucy Laxon — until she found Stride-On. Within weeks, her mares’ legs healed completely. The bands made care effortless, safe, and stress-free.<br></p>
@@ -242,6 +245,8 @@ Farm Medix is New Zealand's leading provider of mastitis diagnostics and lamenes
   Updated: 2026-04-15T01:40:24Z
 - [Dry-Off Preparation for NZ Dairy Farms | Farm Medix](https://www.farmmedix.nz/pages/herd-dry-off-preparation): Walk into dry-off prepared. Farm Medix mastitis diagnostics help NZ dairy farmers and vets plan selective dry cow therapy with confidence. Since 2010.
   Updated: 2026-04-14T23:43:18Z
+- [Our Customers | Dairy Farmers, Horse Owners, & Vets](https://www.farmmedix.nz/pages/68f9a588825fc27fdf011596)
+  Updated: 2026-05-08T05:36:56Z
 
 ## Policies
 
