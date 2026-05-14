@@ -10,7 +10,7 @@
 - Contact Email: Home4u@home4u.is
 - Contact Phone: +354 7656999
 - Address: Miðhraun 22, Garðabær, Iceland
-- Updated At: 2026-05-02T00:00:46.839Z
+- Updated At: 2026-05-14T00:00:47.865Z
 
 Home4u is a leading Icelandic e-commerce store specializing in premium bathroom, kitchen, and home improvement products. We offer a curated selection of high-quality European brands, focusing on modern Scandinavian design, durability, and functionality.
 
@@ -423,12 +423,12 @@ We serve homeowners, contractors, designers, and developers looking for reliable
   Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/d70dd0e658e93a859a99bb63ea16.jpg?v=1716565810
   Price: kr 99,900.00 ISK
 - [Ottawa Comfort-Hvítt Matt - Skál og hæglokandi seta 54x36,5](https://home4u.is/products/ottawa-hvitt-matt-skal-og-haeglokandi-seta): Einstaklega vönduð og falleg hönnunHvít mött áferð Hæglokandi seta fylgir með Festing | 18cm Teikningar skál hér OTTAWACMWBM Comfort Afhendingartími ef vara er ekki til á lager hjá okkur Ef varan er ekki til: 4-6 vikur er venjulegi afgreiðslutíminn okkar á sérpöntunum. Við bjóðum einnig uppá hraðsendingu gegn auka gjaldi. Endilega hafðu samband við okkur fyrir nánari upplýsingar. Sími: 765 6999 Netfang: home4u@home4u.is
-  Updated: 2026-02-17T13:31:25Z
+  Updated: 2026-05-06T13:53:07Z
   Vendor: Omnires
   Product Type: salerni
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/d9126ac10e10b9d5a73c1cf0d3e8_1.jpg?v=1716566143
-  Price: kr 129,900.00 ISK
+  Price: kr 139,900.00 ISK
 - [Chrome - Y Collection- Hæð 16,2](https://home4u.is/products/chrome-y-collection): Stutt handlaugatæki Glæsileg og falleg hönnun frá Omnires.Lengd frá tæki að bunu 12 cmHæð í bunu 8 cmHæð 16,2 cm Tæknilegar upplýsingar hér Y1210CR Afhendingartími ef vara er ekki til á lager hjá okkur Ef varan er ekki til: 4-6 vikur er venjulegi afgreiðslutíminn okkar á sérpöntunum. Við bjóðum einnig uppá hraðsendingu gegn auka gjaldi. Endilega hafðu samband við okkur fyrir nánari upplýsingar. Sími: 765 6999 Netfang: home4u@home4u.is
   Updated: 2025-08-14T14:31:28Z
   Vendor: Omnires
@@ -479,14 +479,14 @@ We serve homeowners, contractors, designers, and developers looking for reliable
   Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/3fa23ffc21a23615a79c7c211637.jpg?v=1716630276
   Price: kr 89,900.00 ISK
 - [Black - Y collection - Hæð 30.5](https://home4u.is/products/black-y-collection-haed-30-5): Glæsileg og falleg hönnun frá Omnires.Lengd frá tæki að bunu 17 cmHæð í bunu 22.5 cmHæð 30.5 cm Y1212BL Tæknilegar upplýsingar hér Afhendingartími ef vara er ekki til á lager hjá okkur Ef varan er ekki til: 4-6 vikur er venjulegi afgreiðslutíminn okkar á sérpöntunum. Við bjóðum einnig uppá hraðsendingu gegn auka gjaldi. Endilega hafðu samband við okkur fyrir nánari upplýsingar. Sími: 765 6999 Netfang: home4u@home4u.is
-  Updated: 2026-04-17T20:20:08Z
+  Updated: 2026-05-11T15:50:37Z
   Vendor: Omnires
   Product Type: blöndunartæki
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/79728e4f0426da7f56390626800e.jpg?v=1716630369
   Price: kr 79,000.00 ISK
 - [Graphite - Y collection - Hæð 30.5](https://home4u.is/products/graphite-y-collection-haed-30-5): Glæsileg og falleg hönnun frá Omnires.Lengd frá tæki að bunu 17 cmHæð í bunu 22.5 cmHæð 30.5 cm Tæknilegar upplýsingar hér Afhendingartími ef vara er ekki til á lager hjá okkur Ef varan er ekki til: 4-6 vikur er venjulegi afgreiðslutíminn okkar á sérpöntunum. Við bjóðum einnig uppá hraðsendingu gegn auka gjaldi. Endilega hafðu samband við okkur fyrir nánari upplýsingar. Sími: 765 6999 Netfang: home4u@home4u.is
-  Updated: 2026-04-17T20:24:17Z
+  Updated: 2026-05-05T13:23:39Z
   Vendor: Omnires
   Product Type: blöndunartæki
   Availability: Available
@@ -569,13 +569,6 @@ We serve homeowners, contractors, designers, and developers looking for reliable
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/426477f536bd4bf37de1e0938b18.jpg?v=1716825401
   Price: kr 253,900.00 ISK
-- [Graphite Thermo Sturtusett - Y Collection](https://home4u.is/products/graphite-thermo-sturtusett-y-collection): Glæsileg og falleg hönnun frá Omnires.Thermo kerfiSturtu haus 25x25 cmHæð er stillanleg 93cm - 156 cm Tæknilegar upplýsingar hér Afhendingartími ef vara er ekki til á lager hjá okkur Ef varan er ekki til: 4-6 vikur er venjulegi afgreiðslutíminn okkar á sérpöntunum. Við bjóðum einnig uppá hraðsendingu gegn auka gjaldi. Endilega hafðu samband við okkur fyrir nánari upplýsingar. Sími: 765 6999 Netfang: home4u@home4u.is
-  Updated: 2026-04-17T21:46:15Z
-  Vendor: Omnires
-  Product Type: sturtutæki
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/5c274a04d80b8584c20b0819e418.jpg?v=1716825466
-  Price: kr 302,900.00 ISK
 - [Brushed Gold Thermo Sturtusett - Y Collection](https://home4u.is/products/brushed-gold-thermo-sturtusett-y-collection): Glæsileg og falleg hönnun frá Omnires.Thermo kerfiSturtu haus 25x25 cmHæð er stillanleg 93cm - 156 cm Y1244SUGLB Tæknilegar upplýsingar hér Afhendingartími ef vara er ekki til á lager hjá okkur Ef varan er ekki til: 4-6 vikur er venjulegi afgreiðslutíminn okkar á sérpöntunum. Við bjóðum einnig uppá hraðsendingu gegn auka gjaldi. Endilega hafðu samband við okkur fyrir nánari upplýsingar. Sími: 765 6999 Netfang: home4u@home4u.is
   Updated: 2026-01-31T11:59:07Z
   Vendor: Omnires
@@ -696,19 +689,19 @@ We serve homeowners, contractors, designers, and developers looking for reliable
   Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/PP001_127.0369.281.jpg?v=1716897555
   Price: kr 124,900.00 ISK
 - [Onyx SID 110-50](https://home4u.is/products/onyx-sid-110-50): Við ætlumst til mikis af eldhúsinu okkar og eldhúsið sjálft ætlast til að fá öflugan vask!​ Tectonite vaskarnir frá FRANKE hafa slegið í gegn, ótrúleg ending, þægilegir í þrifum og þrusu sterkir. Stærð:Lengd: 525mmBreidd: 440mm Opið sjálft:Lengd: 50mmBreidd: 410mmDýpt: 200mm Efni:Sirius SID er búinn til úr Tectonite. Tectonite þolir allt að 300° gráðu hita, er mjög létt og virkilega sterkt yfirborð. Einstaklega öfflug UV vörn sem kemur í veg fyrir að liturinn dofnar. Borðplatan/einingin má ekki vera minni en 60cm ​ Afhendingartími ef vara er ekki til á lager hjá okkur Ef varan er ekki til: 4-6 vikur er venjulegi afgreiðslutíminn okkar á sérpöntunum. Við bjóðum einnig uppá hraðsendingu gegn auka gjaldi. Endilega hafðu samband við okkur fyrir nánari upplýsingar. Sími: 765 6999 Netfang: home4u@home4u.is
-  Updated: 2026-03-01T01:33:49Z
+  Updated: 2026-05-08T14:33:27Z
   Vendor: Franke
   Product Type: Eldhúsvaskur
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/PP001_125.0331.034.jpg?v=1716902929
-  Price: kr 128,900.00 ISK
+  Price: kr 118,900.00 ISK
 - [Nut SID 110-50](https://home4u.is/products/nut-sid-110-50): Við ætlumst til mikis af eldhúsinu okkar og eldhúsið sjálft ætlast til að fá öflugan vask! Tectonite vaskarnir frá FRANKE hafa slegið í gegn, ótrúleg ending, þægilegir í þrifum og þrusu sterkir. Stærð:Lengd: 525mmBreidd: 440mm Opið sjálft:Lengd: 50mmBreidd: 410mmDýpt: 200mm Efni:Sirius SID er búinn til úr Tectonite. Tectonite þolir allt að 300° gráðu hita, er mjög létt og virkilega sterkt yfirborð. Einstaklega öfflug UV vörn sem kemur í veg fyrir að liturinn dofnar. Borðplatan/einingin má ekki vera minni en 60cm ​ Afhendingartími ef vara er ekki til á lager hjá okkur Ef varan er ekki til: 4-6 vikur er venjulegi afgreiðslutíminn okkar á sérpöntunum. Við bjóðum einnig uppá hraðsendingu gegn auka gjaldi. Endilega hafðu samband við okkur fyrir nánari upplýsingar. Sími: 765 6999 Netfang: home4u@home4u.is
-  Updated: 2025-07-30T22:50:49Z
+  Updated: 2026-05-08T14:32:57Z
   Vendor: Franke
   Product Type: Eldhúsvaskur
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0874/4425/9137/files/PP001_144.0671.694.jpg?v=1716903241
-  Price: kr 129,900.00 ISK
+  Price: kr 118,900.00 ISK
 - [Black Orion 651](https://home4u.is/products/black-orion-651): Við ætlumst til mikis af eldhúsinu okkar og eldhúsið sjálft ætlast til að fá öflugan vask! ​ Tectonite vaskarnir frá FRANKE hafa slegið í gegn, ótrúleg ending, þægilegir í þrifum og þrusu sterkir. Stærð:Lengd: 1000mmBreidd: 510mm Stóra opið:Lengd: 340mmBreidd: 440mmDýpt: 190mm ​ Litla opið:Lengd: 160mmBreidd: 370mmDýpt: 140mm ​ Efni: Orion 651 er búinn til úr Tectonite. Tectonite þolir allt að 300° gráðu hita, er mjög létt og virkilega sterkt yfirborð. Einstaklega öfflug UV vörn sem kemur í veg fyrir að liturinn dofnar. Þrif: Þennann vask ein einstaklega auðvelt að þrífa, má nota hvaða hreinsiefni sem er. Borðplatan/einingin má ekki vera minni en 60cm​ ​ Afhendingartími ef vara er ekki til á lager hjá okkur Ef varan er ekki til: 4-6 vikur er venjulegi afgreiðslutíminn okkar á sérpöntunum. Við bjóðum einnig uppá hraðsendingu gegn auka gjaldi. Endilega hafðu samband við okkur fyrir nánari upplýsingar. Sími: 765 6999 Netfang: home4u@home4u.is
   Updated: 2026-04-17T20:16:46Z
   Vendor: Franke
@@ -785,16 +778,16 @@ We serve homeowners, contractors, designers, and developers looking for reliable
   Updated: 2024-10-21T16:19:32Z
   Total Products: 1
 - [Handlaugatæki](https://home4u.is/collections/handlaugataeki)
-  Updated: 2026-04-25T11:23:07Z
+  Updated: 2026-05-12T11:25:42Z
   Total Products: 37
 - [Baðtæki](https://home4u.is/collections/badtaekin)
   Updated: 2026-04-30T11:20:46Z
   Total Products: 59
 - [Sturtusett](https://home4u.is/collections/sturtusett)
-  Updated: 2026-04-25T11:23:07Z
+  Updated: 2026-05-06T11:24:44Z
   Total Products: 39
 - [Baðkör Frístandandi og veggfest](https://home4u.is/collections/fristandandi-badkor): Glæsileg Úrval af Frístandandi Baðkörum
-  Updated: 2026-04-30T11:20:46Z
+  Updated: 2026-05-08T11:23:54Z
   Total Products: 24
 - [Baðþil](https://home4u.is/collections/badthil)
   Updated: 2026-04-26T11:22:54Z
@@ -815,16 +808,16 @@ We serve homeowners, contractors, designers, and developers looking for reliable
   Updated: 2026-04-25T11:23:07Z
   Total Products: 12
 - [Salerni](https://home4u.is/collections/salerni)
-  Updated: 2026-04-28T11:22:17Z
+  Updated: 2026-05-08T11:23:54Z
   Total Products: 25
 - [Blöndunartæki Baðherbergi](https://home4u.is/collections/blondunartaeki)
-  Updated: 2026-04-30T11:20:46Z
+  Updated: 2026-05-12T11:25:42Z
   Total Products: 113
 - [Baðherbergið](https://home4u.is/collections/badherbergid)
-  Updated: 2026-04-30T11:20:46Z
+  Updated: 2026-05-12T11:25:42Z
   Total Products: 275
 - [Y Collection Omnires](https://home4u.is/collections/y-collection-omnires)
-  Updated: 2026-04-30T11:20:46Z
+  Updated: 2026-05-12T11:25:42Z
   Total Products: 102
 - [Contour Collection Omnires](https://home4u.is/collections/contour-collection-omnires)
   Updated: 2026-03-28T11:22:04Z
@@ -833,10 +826,10 @@ We serve homeowners, contractors, designers, and developers looking for reliable
   Updated: 2026-04-25T11:23:07Z
   Total Products: 26
 - [Eldhúsvaskar](https://home4u.is/collections/eldhusvaskar)
-  Updated: 2026-04-22T11:20:20Z
+  Updated: 2026-05-08T14:33:28Z
   Total Products: 18
 - [Franke Eldhúsvaskar](https://home4u.is/collections/franke-eldhusvaskar): Einstaklega vönduð & sterk hönnun frá Franke ​BXX kemur í nokkrum stærðum og hentar vel fyrir þá sem vilja yfir eða undirlímdan vask
-  Updated: 2026-04-22T11:20:20Z
+  Updated: 2026-05-08T14:33:28Z
   Total Products: 12
 - [Teka Eldhúsvaskar](https://home4u.is/collections/teka-eldhusvaskar): TEKA eru einfaldlega magnaðir eldhúsvaskar. Silentsmart tækni, PVD coating. Hægt að undyrlíma, setja ofan á og fræsa í plötuna.
   Updated: 2024-10-21T16:19:33Z
@@ -845,25 +838,25 @@ We serve homeowners, contractors, designers, and developers looking for reliable
   Updated: 2026-01-23T12:18:55Z
   Total Products: 16
 - [Eldhúsið](https://home4u.is/collections/eldhusid)
-  Updated: 2026-04-22T11:20:20Z
+  Updated: 2026-05-08T14:33:28Z
   Total Products: 34
 - [Speglar](https://home4u.is/collections/speglar): Einstaklega vönduð hönnun. Led lýsing og hitari í speglinum til að koma í veg fyrir móðu.
   Updated: 2026-04-28T11:22:17Z
   Total Products: 8
 - [Aukahlutir fyrir baðherbergið](https://home4u.is/collections/aukahlutir-fyrir-badherbergid)
-  Updated: 2026-04-01T11:23:23Z
+  Updated: 2026-05-08T11:23:54Z
   Total Products: 64
 - [Tappar og Vatnslásar](https://home4u.is/collections/tappar-og-vatnslasar)
-  Updated: 2026-04-29T11:22:26Z
+  Updated: 2026-05-12T11:25:42Z
   Total Products: 15
 - [SOME Baðkör](https://home4u.is/collections/some-badkor)
-  Updated: 2026-04-30T11:20:46Z
+  Updated: 2026-05-08T11:23:54Z
   Total Products: 9
 - [ÚTSÖLU VÖRUR !](https://home4u.is/collections/utsolu-vorur): Allt að 70% afsláttur !! Af vörur sem eru hættar í sölu hjá okkur í Home4u.
   Updated: 2025-10-03T15:54:51Z
   Total Products: 4
 - [SOME](https://home4u.is/collections/some): Glæsilegar vöru frá SOME.
-  Updated: 2026-04-30T11:20:46Z
+  Updated: 2026-05-08T11:23:54Z
   Total Products: 29
 - [SOME speglar](https://home4u.is/collections/some-speglar)
   Updated: 2026-04-28T11:22:17Z
