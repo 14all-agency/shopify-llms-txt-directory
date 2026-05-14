@@ -18,7 +18,7 @@ Join us on your journey to radiant, confident skin
 - Contact Email: gherbiselyan@gmail.com
 - Contact Phone: +33616834922
 - Address: China
-- Updated At: 2026-04-30T00:00:29.157Z
+- Updated At: 2026-05-14T00:00:37.041Z
 
 Welcome to M.B.M.S – My Beauty Mask Store 
 
@@ -50,12 +50,12 @@ Explore our collection to discover effective skincare solutions focused on beaut
   Image: https://cdn.shopify.com/s/files/1/1022/9782/9713/files/Capture_d_ecran_2026-02-24_a_23.46.55_1.png?v=1772023371
   Price: 29,99 € EUR
 - [Hanami Skincare](https://m-b-m-s.myshopify.com/products/-example-product-4): Prendre soin de sa peau, c'est un rituel. Hanami, c'est les 5 étapes qu'il vous faut.Cleanser pour purifier. Toner pour préparer. Essence Cream pour hydrater. Sérum pour repulper. Eye Cream pour illuminer le regard.Une routine complète au collagène, inspirée des soins japonais. Pour une peau plus ferme, plus lumineuse, plus vous.90€ → 54,99€
-  Updated: 2026-04-28T18:57:01Z
+  Updated: 2026-04-30T10:16:59Z
   Vendor: M.B.M.S
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/9782/9713/files/Sdc1e39506cf647c8abe9c995323695ect.avif?v=1771943308
-  Price: 54,99 € EUR
+  Price: 59,99 € EUR
 
 ## Collections
 
@@ -66,10 +66,10 @@ Explore our collection to discover effective skincare solutions focused on beaut
   Updated: 2026-04-28T08:46:36Z
   Total Products: 1
 - [Routine parfaite à la japonaise](https://m-b-m-s.myshopify.com/collections/routine-parfaite-a-la-japonaise): Adoptez les secrets de beauté japonais pour une peau lumineuse et équilibrée. Notre sélection de produits inspirés de la routine skincare japonaise vous guide vers un teint parfait, étape par étape.
-  Updated: 2026-04-28T08:46:36Z
+  Updated: 2026-04-30T10:15:45Z
   Total Products: 1
 - [tout](https://m-b-m-s.myshopify.com/collections/tout): tout
-  Updated: 2026-04-28T08:46:36Z
+  Updated: 2026-04-30T10:15:45Z
   Total Products: 4
 
 ## Store Pages
