@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2021-01-04T18:53:53Z
 - Contact Email: vintageparisjewelry@gmail.com
-- Updated At: 2026-05-06T00:00:48.956Z
+- Updated At: 2026-05-14T00:00:52.106Z
 
 ## Products
 
@@ -557,72 +557,72 @@
 ## Collections
 
 - [Home page](https://vintageparisjewelry.com/collections/frontpage)
-  Updated: 2026-05-05T10:15:13Z
+  Updated: 2026-05-13T10:15:45Z
   Total Products: 17
 - [Vintage Earrings | Vintage Paris Jewelry](https://vintageparisjewelry.com/collections/vintage-earrings): Our vintage earrings and antique earrings are made of various materials such as yellow gold, white gold, gold-filled, and silver sterling earrings, and are sourced from various eras, including Victorian, Art Deco, Art Nouveau, Mid-Century, the 1980s, and 1990s.
-  Updated: 2026-05-05T20:57:37Z
-  Total Products: 2504
+  Updated: 2026-05-13T10:17:09Z
+  Total Products: 2509
 - [Vintage Necklaces and Pendants | Vintage Paris Jewelry](https://vintageparisjewelry.com/collections/vintage-necklaces-pendants): Our collection includes styles from a variety of eras including, the 1980s-1990s, 1970s, Mid Century, 1940s, Art Deco, Art Nouveau, and Victorian times. 
 H1 Tag: Vintage Necklaces and Pendants
-  Updated: 2026-05-05T18:27:35Z
-  Total Products: 2296
+  Updated: 2026-05-13T10:16:08Z
+  Total Products: 2300
 - [Vintage and Antique Rings | Vintage Paris Jewelry](https://vintageparisjewelry.com/collections/vintage-antique-rings): Vintage rings, antique rings, gold rings for women, and gold wedding bands from a variety of eras including Victorian, Art Nouveau, Art Deco, Mid Century, the 1980s, and 1990s.
-  Updated: 2026-05-05T13:07:34Z
-  Total Products: 1283
+  Updated: 2026-05-13T11:14:33Z
+  Total Products: 1284
 - [Handmade Jewelry | Vintage Paris Jewelry](https://vintageparisjewelry.com/collections/handmade-jewelry): A wide selection of both vintage and antique pieces. This also included a handmade artisan collection of jewelry that are typically one of a kind (sometimes a few) and feature semi-precious and precious gemstones, vintage components, and rare hand-blown glass beads.
-  Updated: 2026-05-05T10:15:29Z
-  Total Products: 546
+  Updated: 2026-05-13T10:16:05Z
+  Total Products: 548
 - [Glass Fruit and Berry Style Earrings](https://vintageparisjewelry.com/collections/glass-fruit-earrings): Whimsical glass fruit and berry earrings and pendants with gold-filled findings.
-  Updated: 2026-05-05T10:15:30Z
+  Updated: 2026-05-13T10:15:59Z
   Total Products: 134
 - [Vintage Locket Necklace | Vintage Paris Jewelry](https://vintageparisjewelry.com/collections/vintage-antique-lockets): Vintage and antique lockets from the 1800s through the 1990s made from materials including various carats of gold, gold-filled, rose gold-filled and sterling silver.
-  Updated: 2026-05-05T18:27:43Z
-  Total Products: 801
+  Updated: 2026-05-13T19:42:31Z
+  Total Products: 805
 - [Vintage Bracelets | Vintage Paris Jewelry](https://vintageparisjewelry.com/collections/vintage-bracelets): Vintage bracelets and vintage bangles made of a variety of materials from carat gold to sterling silver, sources from circa the 1800s to 1990s.
-  Updated: 2026-05-05T10:15:33Z
+  Updated: 2026-05-13T10:16:02Z
   Total Products: 118
 - [Vintage/Antique Brooches](https://vintageparisjewelry.com/collections/vintage-antique-brooches): Women’s Vintage and Antique Brooches from a variety of eras including Victorian, Art Nouveau, Art Deco, Mid Century, 1970s and 1980s-1990s.
-  Updated: 2026-05-05T10:15:34Z
+  Updated: 2026-05-13T10:16:03Z
   Total Products: 38
 - [Vintage/Antique Gold Bands](https://vintageparisjewelry.com/collections/gold-bands): Antique and vintage gold bands in 9-22K gold from a variety of eras, including Victorian, Nouveau, Mid-Century, and Modern.
-  Updated: 2026-05-05T13:07:41Z
+  Updated: 2026-05-13T11:14:33Z
   Total Products: 404
 - [Mid-Autumn Festival Collection](https://vintageparisjewelry.com/collections/mid-autumn-festival-collection): Influenced by the Mid-Autumn Festival this tiny capsule collection includes earrings that are inspired by Mooncakes and Lanterns. All semi-precious stones and gold filled metals.
-  Updated: 2026-05-05T10:15:43Z
+  Updated: 2026-05-13T10:16:05Z
   Total Products: 8
 - [Gold and Silver Hoop Vintage Earrings](https://vintageparisjewelry.com/collections/vintage-antique-gold-hoops): Vintage hoop earrings and antique hoop earrings effortlessly elevate any outfit. Whether you choose a simple delicate gold hoop or a statement ornate silver hoop earring you are making an  in jewelry that will be a staple in your wardrobe. Our collection includes hoop earrings in 9k, 10k, 14k, 18k, 22k gold as well as sterling silver.
-  Updated: 2026-05-05T11:17:34Z
-  Total Products: 1076
+  Updated: 2026-05-13T19:48:44Z
+  Total Products: 1078
 - [Celestial Finds](https://vintageparisjewelry.com/collections/celestial-finds): Discover our enchanted Celestial collection which includes jewelry that is moon, sun, and star themed. Our collection includes vintage and antique celestial-themed jewelry in sterling silver and carat gold. We also have a lot of astrological and zodiac pieces to indulge your mystical side. Our moon jewelry and star jewelry seem to be the most popular with collectors!
-  Updated: 2026-05-05T11:17:34Z
-  Total Products: 588
+  Updated: 2026-05-13T19:48:44Z
+  Total Products: 591
 - [New Arrivals](https://vintageparisjewelry.com/collections/new-arrivals)
-  Updated: 2026-05-05T20:57:44Z
-  Total Products: 3314
+  Updated: 2026-05-13T19:49:58Z
+  Total Products: 3333
 - [Recommended products (Seguno)](https://vintageparisjewelry.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
-  Updated: 2026-05-05T20:55:13Z
-  Total Products: 2113
+  Updated: 2026-05-13T19:48:45Z
+  Total Products: 2111
 - [Vintage Jewelry Products | Vintage Paris Jewelry](https://vintageparisjewelry.com/collections/vintage-antique-handmade-all-products): Our vintage jewelry and antique jewelry are unique and affordable. These vintage jewelry pieces that date back over 50 years, are carefully curated to offer various selections. The collection shows off classic vintage jewelry that ranges from Vintage earrings, yellow gold earrings, vintage rings, birthstone rings, and much more.
-  Updated: 2026-05-05T20:55:13Z
-  Total Products: 2089
+  Updated: 2026-05-13T19:48:45Z
+  Total Products: 2087
 - [Sterling Silver - Vintage](https://vintageparisjewelry.com/collections/sterling-silver-vintage): We feature vintage sterling silver rings, bracelets, necklaces, brooches, and earrings from a wide variety of eras (Victorian, Art Nouveau, Art Deco, Mid Century, the 1970s-1990s).  Sterling silver jewelry is a classic wardrobe staple that can be worn for day or evening looks.  We also love pairing sterling pieces with gold and other metals to create a very modern mixed-metal look.  You can't go wrong by adding a beautiful piece of sterling silver jewelry to your jewelry collection.
-  Updated: 2026-05-05T11:17:34Z
-  Total Products: 1875
+  Updated: 2026-05-13T10:16:32Z
+  Total Products: 1883
 - [Lockets, Necklaces & Pendants](https://vintageparisjewelry.com/collections/mothers-day-): Vintage/Antique Lockets, Necklaces & Pendants
-  Updated: 2026-05-05T18:27:35Z
-  Total Products: 2496
+  Updated: 2026-05-13T19:42:31Z
+  Total Products: 2506
 - [Turquoise](https://vintageparisjewelry.com/collections/turquoise)
-  Updated: 2026-05-05T10:15:56Z
+  Updated: 2026-05-13T10:16:24Z
   Total Products: 360
 - [Hair Accessories](https://vintageparisjewelry.com/collections/hair-accessories): Handmade hair accessories made from vintage and natural components.
-  Updated: 2026-05-05T10:15:45Z
+  Updated: 2026-05-13T10:16:14Z
   Total Products: 1
 - [Trinket Dishes](https://vintageparisjewelry.com/collections/trinket-dishes): Vintage and collectable jewelry trinket dishes to display your personal treasures. Collection includes some modern pieces from different countries and some that just have whimsical appeal.
-  Updated: 2026-05-05T10:15:47Z
+  Updated: 2026-05-13T10:16:15Z
   Total Products: 28
 - [Vintage/Antique Chains](https://vintageparisjewelry.com/collections/vintage-chains): Enjoy our collection of vintage sterling, gold-filled and carat gold chains circa 1800s-1990s.
-  Updated: 2026-05-03T18:22:13Z
-  Total Products: 59
+  Updated: 2026-05-12T11:16:10Z
+  Total Products: 61
 
 ## Store Pages
 
