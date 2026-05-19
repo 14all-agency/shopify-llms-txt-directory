@@ -1,24 +1,30 @@
 # Footnote Accessories Co. (https://footnoteaccessories.co)
 
+> Canadian tech-lifestyle boutique brand designing small-batch, award-winning accessories for modern Apple device users — including MagSafe-compatible wireless chargers, Apple Find My key finders, USB-C power adapters, and curated partner goods (wallets, 3D-printed toys). Products are "designed hand-first" — if an object doesn't feel right to hold, it doesn't ship.
+ 
+Footnote Accessories Co. is a small, independent brand based in Canada with 2,000+ customers worldwide. The ZenStand won Silver at the New York Product Design Awards (2025). The brand publishes a deliberately short catalog, releases slowly, and handles all customer support through real humans — no chatbots, no scripted tickets. Orders ship in 1–2 business days with 5–10 day delivery. Free shipping on orders over $40. EU/UK taxes and duties are included at checkout. All items are backed by a 1-year limited warranty and a 30-day return policy on unused items in original packaging.
+ 
+The storefront is available at two mirrored domains: footnoteaccessories.co (primary Shopify storefront) and footnoteaccessories.com (brand, blog, and support pages). Parent company customer service email: Service@FuturaGear.com.
+
 - Domain: https://footnoteaccessories.co
 - Locale: en
 - Currency: CAD
 - Timezone: America/New_York
 - Created At: 2025-01-03T03:41:48Z
 - Contact Email: Service@futuragear.com
-- Updated At: 2026-04-24T02:12:30.122Z
+- Updated At: 2026-05-19T00:00:36.926Z
 
 ## Products
 
 - [FlashFinder Key Finder - Compatible with Apple Find My](https://footnoteaccessories.co/products/flashfinder-key-finder): Discover FlashFinder, a reliable key finder compatible with Apple Find My for easy tracking of your valuables anytime.
-  Updated: 2026-04-24T01:05:44Z
+  Updated: 2026-05-15T21:22:37Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0916/5226/0138/files/FTNT001_Amazon_Key_Cards_Hero_Badge.png?v=1770676703
   Price: $29.99 CAD
 - [Quick-assemble Four-leaf Clover | 3D Printed Toy - Footnote](https://footnoteaccessories.co/products/quick-assemble-four-leaf-clover-3d-printed-toy-made-by-handstand-park): + In case of "emergency", follow the 4-step instructions to assemble a lucky four-leaf clover (Good  - Footnote Accessories Co.
-  Updated: 2026-04-22T17:04:02Z
+  Updated: 2026-05-12T14:21:33Z
   Vendor: Footnote Accessories Co.
   Product Type: 
   Availability: Available
@@ -53,14 +59,14 @@
     Image: https://cdn.shopify.com/s/files/1/0916/5226/0138/files/copy_1e571da0-f45f-4b8f-ad13-958b9430c2be.jpg?v=1770676760
     Price: $19.99 CAD
 - [OneSnap Magnetic Wireless Charger - Fast & Portable](https://footnoteaccessories.co/products/onesnap-3-in-1-wireless-charger): Experience seamless power with the OneSnap magnetic wireless charger, designed for MagSafe-compatible devices.
-  Updated: 2026-04-24T01:01:38Z
+  Updated: 2026-05-16T22:43:25Z
   Vendor: Footnote Accessories Co.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0916/5226/0138/files/FTNTWC01_Amazon_Hero.png?v=1770676762
   Price: $29.99 CAD
 - [ZenStand Wireless Charger - 3-in-1 Genuine Wood](https://footnoteaccessories.co/products/zenstand): Discover the ZenStand wireless charger: a stylish 3-in-1 genuine wood charger compatible with MagSafe for effortless device charging.
-  Updated: 2026-04-24T01:01:38Z
+  Updated: 2026-05-18T13:14:57Z
   Vendor: Footnote Accessories Co.
   Product Type: 
   Availability: Available
@@ -81,72 +87,65 @@
   Image: https://cdn.shopify.com/s/files/1/0916/5226/0138/files/FTNTTC01Amazonlifestyle.png?v=1774546701
   Price: $19.99 CAD
 - [ZenStand 3-in-1 Wood MagSafe Charger with 30W Power Adapter](https://footnoteaccessories.co/products/zenstand-3-in-1-wood-magsafe-charger-30w-gan-adapter): Discover the ZenStand 3-in-1 Wood MagSafe charger, combining style and fast charging with a 30W GaN power adapter for all your Apple devices.
-  Updated: 2026-04-24T01:01:38Z
+  Updated: 2026-05-17T15:43:25Z
   Vendor: Footnote Accessories Co.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0916/5226/0138/files/FTNTWC02_Amazon_Bundle.png?v=1774546727
   Price: $99.99 CAD
 - [Durable Cordura Tri-Fold Wallet | Multi-Card Nylon Pouch](https://footnoteaccessories.co/products/cordura-tri-fold-wallet-multi-card-nylon-id-document-pouch-by-roughcloud): Discover the Cordura tri-fold wallet by ROUGHCLOUD, a durable nylon pouch with multi-card slots for secure storage of IDs and documents.
-  Updated: 2026-04-24T01:31:22Z
+  Updated: 2026-04-24T13:31:29Z
   Vendor: Footnote Accessories Co.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0916/5226/0138/files/O1CN01mwDVzR1jPMwUxU0vj__2212591934540_jpg.heic?v=1774546626
   Price: $29.99 CAD
 - [Black Vegan Leather Card Holder – Slim Multi-Slot Wallet](https://footnoteaccessories.co/products/black-vegan-leather-card-holder-multi-slot-slim-wallet-for-bank-transit-cards-by-roughcloud): Discover the sleek black vegan leather card holder with multiple slots designed for bank and transit cards. Stylish, slim, and durable.
-  Updated: 2026-04-24T01:30:42Z
+  Updated: 2026-04-24T13:30:49Z
   Vendor: Footnote Accessories Co.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0916/5226/0138/files/O1CN01C1BGRP1jPN2lyhuBZ__2212591934540_jpg.heic?v=1774546650
   Price: $24.99 CAD
-- [Vegan Leather Card Wallet - Black Bi-Folded Multi-Slot Holder](https://footnoteaccessories.co/products/black-bi-folded-vegan-leather-card-wallet-multi-slot-holder-for-bank-transit-cards-by-roughcloud): Discover the durable vegan leather card wallet by ROUGHCLOUD with multiple slots for bank and transit cards, sleek black bi-fold design.
-  Updated: 2026-04-22T17:04:04Z
-  Vendor: Footnote Accessories Co.
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0916/5226/0138/files/O1CN01LTTtj91jPN2o75xLK__2212591934540_jpg.heic?v=1774546658
-  Price: $29.99 CAD
 
 ## Collections
 
 - [Home page - Your Gateway to Comprehensive Collections](https://footnoteaccessories.co/collections/frontpage): Explore the Home page for diverse collections, featuring easy navigation, rich content, and seamless user experience.
-  Updated: 2026-04-23T11:27:37Z
+  Updated: 2026-05-16T11:30:37Z
   Total Products: 1
 - [Innovative 3D Printed Toys by Handstand Park](https://footnoteaccessories.co/collections/3d-print-toys): Discover unique 3D printed toys crafted by Handstand Park that blend creativity, technology, and playfulness for all ages.
-  Updated: 2026-04-24T00:18:02Z
+  Updated: 2026-05-12T11:32:39Z
   Total Products: 3
 - [Apple Find My: Locate Your Accessories Easily](https://footnoteaccessories.co/collections/apple-find-my-accessory): Discover how Apple Find My helps you locate and protect your accessories quickly and securely with smart tracking features.
-  Updated: 2026-04-23T11:27:37Z
+  Updated: 2026-05-16T11:30:37Z
   Total Products: 1
 - [Top Phone Accessories to Enhance Your Device](https://footnoteaccessories.co/collections/gadgets): Discover the best phone accessories to protect, personalize, and improve your smartphone experience. Explore cases, chargers, and more.
-  Updated: 2026-04-23T11:27:37Z
+  Updated: 2026-05-17T11:30:16Z
   Total Products: 5
 - [Discover Cool Gadgets from Our Trusted Partners](https://footnoteaccessories.co/collections/cool-gadgets-from-our-partners): Explore the coolest gadgets from our partners offering innovative, fun, and practical devices to enhance your daily life.
   Updated: 2026-04-22T17:04:02Z
   Total Products: 0
 - [Travel Charger: Essential Guide for Every Traveler](https://footnoteaccessories.co/collections/travel-charger): Discover the best travel charger options to keep your devices powered on the go. Tips and features for choosing the ideal travel charger.
-  Updated: 2026-04-23T11:27:37Z
+  Updated: 2026-05-17T11:30:16Z
   Total Products: 1
 - [Artisan Wireless Charger - 3-in-1 Fast Charging Station](https://footnoteaccessories.co/collections/artisan-3-in-1-wireless-charger): Discover the Artisan wireless charger with 3-in-1 functionality for seamless, fast charging of your devices in one elegant station.
-  Updated: 2026-04-22T17:04:02Z
+  Updated: 2026-05-17T11:30:16Z
   Total Products: 2
 - [Stylish Wallets by ROUGHCLOUD | Durable Card Holders](https://footnoteaccessories.co/collections/wallets-card-holders-by-roughcloud): Discover premium wallets by ROUGHCLOUD. Stylish, durable wallets and card holders designed for everyday use. Shop quality wallets now.
-  Updated: 2026-04-24T00:18:01Z
+  Updated: 2026-05-13T11:28:44Z
   Total Products: 4
 - [Electronics And Accessories example products - Footnote Accessories](https://footnoteaccessories.co/collections/electronics-and-accessories-example-products): - Footnote Accessories Co.
   Updated: 2026-04-22T17:04:03Z
   Total Products: 0
 - [New! Shopify performance sharing is now turned on - Footnote](https://footnoteaccessories.co/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature  - Footnote Accessories Co.
-  Updated: 2026-04-23T11:27:37Z
+  Updated: 2026-05-17T11:30:16Z
   Total Products: 13
 
 ## Blogs
 
 - [News](https://footnoteaccessories.co/blogs/news)
   - [The Tech Behind FlashFinder: How the Apple Find My Network Works for](https://footnoteaccessories.co/blogs/news/the-tech-behind-flashfinder-how-the-apple-find-my-network-works-for-you): The Tech Behind FlashFinder: How the Apple Find My Network Works for
-    Updated: 2026-04-24T00:56:28Z
+    Updated: 2026-05-02T06:54:15Z
     Author: Xianshuai Chen
 
 ## Store Pages
@@ -187,3 +186,15 @@
 
 - [robots.txt](https://footnoteaccessories.co/robots.txt)
 - [sitemap.xml](https://footnoteaccessories.co/sitemap.xml)
+
+## Partnerships
+ 
+- [Wholesale Inquiries](mailto:business@futuragear.com): For retailers and resellers.
+- [Influencer & Collab](https://footnoteaccessories.co/pages/collab): Creator partnerships and collaborations.
+ 
+## Social
+ 
+- [Instagram](https://www.instagram.com/footnoteaccessoriesco/)
+- [YouTube](https://www.youtube.com/channel/UCcWNUpnoKvkJ7vSxHQWMZQQ)
+- [TikTok](https://www.tiktok.com/@footnoteacc)
+- [Twitter / X](https://x.com/FootnoteAccCo)
