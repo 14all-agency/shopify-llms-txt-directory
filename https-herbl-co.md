@@ -1,124 +1,15 @@
 # herbl (https://herbl.co)
 
-> # Brand DNA
+> Herbl is a functional herbal tea brand offering USDA Organic herbal teas made with whole premium herbs and biodegradable pyramid tea bags. Herbl creates clean herbal wellness products for daily routines, including liver and kidney support, hormonal balance, calm, sleep, natural energy, cognitive support, and respiratory wellness.
 
----
+## Brand Differentiators
 
-## What herbl Is
-
-herbl is a functional herbal wellness brand built on a simple belief: nature already gave us what we need to feel good. We make organic herbal teas and liquid drops that support real health goals — liver detox, kidney cleansing, cognitive clarity, hormonal balance, restful sleep — using whole, premium herbs and nothing else. No synthetic ingredients, no profit-driven formulas, no shortcuts. Just plants, purpose, and integrity.
-
----
-
-## Mission
-
-To make ancient herbal wisdom accessible, trustworthy, and part of everyday life — one intentional cup at a time.
-
----
-
-## Brand Promise
-
-Every herbl product will always be exactly what it says it is — organic, purposeful, and pure. No hidden ingredients, no misleading claims, no compromises on quality. What's on the label is what's in the bag. Nothing more, nothing less.
-
----
-
-## Core Values
-
-**1. Nature First**
-The earth has already given us what we need to thrive. We look to the natural world — not labs — for answers. Herbs aren't a wellness trend. They've been healing humans for thousands of years.
-*In practice: We never add synthetic ingredients, artificial flavoring, or chemical shortcuts to any product — ever.*
-
-**2. Ancestral Wisdom**
-We don't invent. We rediscover. Cultures around the world have used herbal  for centuries to treat fatigue, inflammation, hormonal imbalance, brain fog, and more. We honor that knowledge and make it easier to access.
-*In practice: Every formula is rooted in herbs with documented traditional use — not ingredients chosen for trend or margin.*
-
-**3. Pure Ingredients, Powerful Results**
-Organic, whole, high-quality herbs — nothing more, nothing less. No fillers, no artificial flavoring, no hidden additives, no sweeteners, no oils. Pure plant power, carefully combined to support real health goals.
-*In practice: If it doesn't belong in nature, it doesn't belong in a herbl product.*
-
-**4. Simplicity Over Complexity**
-Wellness shouldn't be complicated. It should feel natural, intentional, and part of your daily rhythm — not another bottle on a crowded shelf. A warm cup of tea can be a ritual, a pause, a reset.
-*In practice: We don't pad formulas to look impressive. 10 herbs with a clear purpose beats 30 herbs with none.*
-
-**5. Wellness With Integrity**
-We're not chasing trends. We're building trust. Everything we do — from sourcing herbs to the words on our labels — is rooted in transparency, honesty, and respect for the body. We offer support, consistency, and quality you can feel with every sip.
-
-*In practice: We don't make disease claims on product pages or brand content. In ads and UGC, this rule does not apply — bold claims, directness, urgency, and aggressive language are expected and on-brand.*
-
----
-
-## What We Are / What We're Not
-
-| We Are | We're Not |
-| --- | --- |
-| Grounded and trustworthy | Hyped or trend-chasing |
-| Nature-forward AND science-backed | Pharmaceutical or synthetic |
-| Purposeful and specific | Vague or generic |
-| Premium but accessible | Elitist or intimidating |
-| Simple and intentional | Overcomplicated |
-| Rooted in tradition | Nostalgic or old-fashioned |
-
----
-
-## Brand Voice & Tone
-
-**The core voice of herbl is:** Knowledgeable, trustworthy, and direct. We respect the customer's intelligence, we back everything with real science and real ingredients, and we never fill space with words that mean nothing.
-
-**herbl is not a soft wellness brand.** We are nature-forward AND science-backed. The USDA certification, the expert formulation, the ingredient specificity — these are clinical-level  and we own them. We don't choose between warm and credible. We're both.
-
----
-
-### Tone By Context
-
-**Product pages & brand content**
-Warm, grounded, honest. Confident without arrogance. This is where the brand story and values come through. Respectful of the tradition behind the herbs. Clear about what the product does without overclaiming.
-
-**Ads & UGC scripts**
-Aggressive, direct, and conversion-focused. Fear-based hooks are fair game. Superlatives are fair game. Urgency is fair game. The goal is to stop the scroll and drive action. This is where you say "Your liver is overloaded and you don't even know it" or "The best detox tea I've ever tried."
-
-**Ingredient & formula copy**
-Clinical and specific. Name the herb, state its function, cite the tradition or science behind it. This is where herbl sounds like it knows more than the competition — because it does.
-
----
-
-### Words We Use Freely
-
-- Detox, detoxify, cleanse — core to what we do, use without hesitation
-- Boost, heal, purify — effective and clear, no issue
-- Chemical-free — valid claim, use it
-- Simply, easy, just — helpful for accessibility, no issue
-- Science-backed, clinically formulated, expert-crafted — own these
-
-### Words We Avoid
-
-- Nourish, nurture, harmonize — vague wellness filler
-- Groundbreaking, revolutionary, miracle — empty hype with no substance behind it
-- Superfood — overused and meaningless
-- "Inside out", "from within", "holistic journey" — says nothing, sounds like every other wellness brand
-
----
-
-### The One Rule That Never Changes Across Any Context
-
-**Never be vague.** Whether we're writing a soft brand story or an aggressive ad hook — every claim should point to something real. A specific herb. A specific organ. A specific feeling. Vague wellness copy is the only thing that is always off-brand for herbl.
-
----
-
-## The Customer Relationship
-
-herbl treats its customer like an intelligent  who is trying to take better care of themselves. Not a patient who needs a . Not a consumer to be sold to. A person who deserves honest information, clean products, and something that actually works. We meet them where they are — whether they're deep into wellness or just starting to pay attention to their body — and we never talk down to them or mislead them.
-
----
-
-## Category POV
-
-The herbal wellness category is full of noise. Brands using "organic" as a buzzword without certification. Detox teas that are really just laxatives in a pretty bag. 30-ingredient formulas that sound impressive but deliver nothing because every herb is underdosed. Plastic tea bags marketed as premium. Cheap herbs ground into dust and sold at a markup.
-
-herbl exists because most of what's out there doesn't respect the herbs, the customer, or the tradition. We think that's worth fixing — one honest, purposeful product at a time.
-
----
-
-*This page is the source of truth for herbl's brand.*
+- USDA Organic herbal tea blends
+- Whole premium herbs, not herbal dust
+- Biodegradable pyramid tea bags
+- Caffeine-free options
+- No artificial flavors, sweeteners, or synthetic fillers
+- Functional herbal formulas designed for daily wellness routines
 
 - Domain: https://herbl.co
 - Locale: en
@@ -126,40 +17,40 @@ herbl exists because most of what's out there doesn't respect the herbs, the cus
 - Timezone: America/New_York
 - Created At: 2024-08-11T12:10:51Z
 - Contact Email: support@herbl.co
-- Updated At: 2026-05-12T16:29:45.340Z
+- Updated At: 2026-05-20T00:00:29.854Z
 
 ## Products
 
 - [Liver & Kidney Detox Tea](https://herbl.co/products/liver-and-kidney-detox-tea): Sip with Intention. Taste the Tradition. An organic herbal detox tea inspired by centuries of traditional use, featuring dandelion root, milk thistle, nettle, and goji berry. Crafted with care, this blend offers an earthy, soothing taste that has been cherished for generations. Each cup is a moment to pause, recharge, and enjoy the natural goodness of real plants. At herbl, we believe wellness starts simple: 100% organic herbs, blended just as nature intended.
-  Updated: 2026-05-12T15:33:59Z
+  Updated: 2026-05-19T23:58:56Z
   Vendor: herbl
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0717/0090/6202/files/mainshopify_3383a253-f0f5-47ef-954b-58056b2b6abf.png?v=1775944893
+  Image: https://cdn.shopify.com/s/files/1/0717/0090/6202/files/Newmain2_e99a8827-6d20-4a2c-a480-8c9b51cf81df.png?v=1778796500
   Price: $19.97 USD
 - [Hormone Balance Herbal Tea](https://herbl.co/products/hormone-balance-pms-cycle-support-herbal-tea): Feel Balanced, Every Day of the Month Our Hormone Balance Tea brings together 10 organic herbs, including raspberry leaf, tulsi, black cohosh, and fenugreek. These plants have been used for centuries in women’s wellness traditions. Enjoy it as a calming daily ritual to reconnect with yourself and your natural rhythm.
-  Updated: 2026-05-12T15:58:06Z
+  Updated: 2026-05-19T23:57:57Z
   Vendor: herbl
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/0090/6202/files/1MAIN_compact_f82e2e42-23df-4568-b106-89ff87e5cf9f.png?v=1757648363
   Price: $19.97 USD
 - [Yerba Mate Energy Herbal Tea](https://herbl.co/products/yerba-mate-energy-herbal-tea)
-  Updated: 2026-05-12T13:34:48Z
+  Updated: 2026-05-19T17:02:09Z
   Vendor: herbl
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/0090/6202/files/Shopifymain_89a84e80-d72f-4aaa-bb0a-421dd819c28c.png?v=1772120279
   Price: $19.97 USD
 - [Mullein Lung Detox Herbal Tea](https://herbl.co/products/mullein-lung-detox-herbal-tea)
-  Updated: 2026-05-12T15:53:11Z
+  Updated: 2026-05-19T21:58:17Z
   Vendor: herbl
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/0090/6202/files/Mainimageshopify.png?v=1772120987
   Price: $19.97 USD
 - [Lemon Balm Calming Herbal Tea](https://herbl.co/products/lemon-balm-calming-herbal-tea)
-  Updated: 2026-05-12T11:57:49Z
+  Updated: 2026-05-19T23:11:09Z
   Vendor: herbl
   Product Type: 
   Availability: Available
@@ -168,14 +59,11 @@ herbl exists because most of what's out there doesn't respect the herbs, the cus
 
 ## Collections
 
-- [ devices](https://herbl.co/collections/frontpage)
-  Updated: 2026-05-08T22:09:01Z
-  Total Products: 0
 - [Herbal Tea](https://herbl.co/collections/herbal-teas)
-  Updated: 2026-05-08T22:09:01Z
+  Updated: 2026-05-14T20:33:01Z
   Total Products: 7
 - [New! Shopify performance sharing is now turned on](https://herbl.co/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-05-08T11:33:51Z
+  Updated: 2026-05-14T20:33:01Z
   Total Products: 7
 
 ## Blogs
@@ -193,6 +81,27 @@ herbl exists because most of what's out there doesn't respect the herbs, the cus
   - [The Power of Plants: Our Philosophy on Healing](https://herbl.co/blogs/news/the-power-of-plants-our-philosophy-on-healing)
     Updated: 2025-04-10T18:26:55Z
     Author: Bluesteam LLC
+- [Liver & Kidney Detox Guide](https://herbl.co/blogs/liver-kidney-detox-guide)
+  - [Best Liver Detox Tea: What to Look For in a Liver & Kidney Support Tea](https://herbl.co/blogs/liver-kidney-detox-guide/best-liver-detox-tea)
+    Updated: 2026-05-12T21:04:00Z
+    Author: Bluesteam LLC
+    Tags: Caffeine-Free Tea, Dandelion Root, Detox Tea, Kidney Detox Tea, Liver & Kidney Detox, Liver Detox Tea, Milk Thistle, Organic Herbal Tea
+  - [Dandelion Root and Milk Thistle Tea Benefits: Why These Herbs Are Used for Liver Support](https://herbl.co/blogs/liver-kidney-detox-guide/dandelion-root-and-milk-thistle-tea-benefits)
+    Updated: 2026-05-12T22:09:30Z
+    Author: Bluesteam LLC
+    Tags: Caffeine-Free Tea, Dandelion Root, Detox Tea, Kidney Detox Tea, Liver & Kidney Detox
+  - [Liver Detox Tea vs Kidney Detox Tea: What’s the Difference?](https://herbl.co/blogs/liver-kidney-detox-guide/liver-detox-tea-vs-kidney-detox-tea)
+    Updated: 2026-05-12T22:11:08Z
+    Author: Bluesteam LLC
+    Tags: Caffeine-Free Tea, Dandelion Root, Detox Tea, Kidney Detox Tea, Liver & Kidney Detox
+  - [Is Liver Detox Tea Caffeine Free? What to Know Before You Drink It](https://herbl.co/blogs/liver-kidney-detox-guide/is-liver-detox-tea-caffeine-free)
+    Updated: 2026-05-12T20:52:58Z
+    Author: Bluesteam LLC
+    Tags: Caffeine-Free Tea, Dandelion Root, Detox Tea, Kidney Detox Tea, Liver & Kidney Detox
+  - [Herbl Liver & Kidney Detox Tea Ingredients Explained](https://herbl.co/blogs/liver-kidney-detox-guide/herbl-liver-kidney-detox-tea-ingredients)
+    Updated: 2026-05-12T20:59:57Z
+    Author: Bluesteam LLC
+    Tags: Caffeine-Free Tea, Dandelion Root, Detox Tea, Kidney Detox Tea, Liver & Kidney Detox
 
 ## Store Pages
 
@@ -202,8 +111,8 @@ herbl exists because most of what's out there doesn't respect the herbs, the cus
   Updated: 2026-01-28T15:28:59Z
 - [Track Your Order](https://herbl.co/pages/track-your-order): Enter your tracking number here to track your order. //
   Updated: 2024-08-11T13:13:26Z
-- [LVK Ingredients](https://herbl.co/pages/test)
-  Updated: 2025-05-09T16:53:49Z
+- [Liver & Kidney Detox Tea Ingredients](https://herbl.co/pages/test): The ingredients in Herbl’s Liver & Kidney Detox Tea are third-party tested before production for microbials, pathogens, and heavy metals, including...
+  Updated: 2026-05-15T14:17:37Z
 - [WHB Ingredients](https://herbl.co/pages/whb-ingredients)
   Updated: 2025-05-07T01:25:07Z
 - [MBB Ingredients](https://herbl.co/pages/mbb-ingredients)
@@ -218,11 +127,11 @@ herbl exists because most of what's out there doesn't respect the herbs, the cus
 - [Privacy Policy](https://herbl.co/policies/privacy-policy)
   Updated: 2024-08-11T08:11:00-04:00
 - [Shipping Policy](https://herbl.co/policies/shipping-policy)
-  Updated: 2025-02-20T11:01:07-05:00
+  Updated: 2026-05-15T10:38:08-04:00
 - [Refund Policy](https://herbl.co/policies/refund-policy)
-  Updated: 2024-08-12T16:09:29-04:00
+  Updated: 2026-05-15T10:32:26-04:00
 - [Terms of Service](https://herbl.co/policies/terms-of-service)
-  Updated: 2025-02-20T11:00:29-05:00
+  Updated: 2026-05-15T10:31:07-04:00
 
 ## Optional
 
