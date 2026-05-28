@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2026-05-21T16:00:31.117Z
+- Updated At: 2026-05-28T20:00:31.537Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -1160,19 +1160,19 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
 ## Collections
 
 - [Frontpage](https://printableplanning.com/collections/frontpage)
-  Updated: 2026-05-21T11:01:22Z
+  Updated: 2026-05-24T11:01:21Z
   Total Products: 407
 - [Digital Goods VAT Tax](https://printableplanning.com/collections/digital-goods-vat-tax)
   Updated: 2026-05-09T11:01:44Z
   Total Products: 238
 - [Printable Downloads | Checklists, Planners, Forms, and Trackers](https://printableplanning.com/collections/all): Shop printable downloads for caregiver forms, daily planning, home organization, school helpers, and financial tracking, made to be easy to use.
-  Updated: 2026-05-21T11:01:22Z
+  Updated: 2026-05-24T11:01:21Z
   Total Products: 407
 - [Organization Printables | Lists, Logs, and Helpers](https://printableplanning.com/collections/miscellaneous-organization-pages): Everyday organization printables like  lists, call logs, trackers, and simple helpers for keeping daily details in one place.
   Updated: 2026-05-03T11:03:34Z
   Total Products: 13
 - [Caregiver Forms | Health Logs and Housekeeping](https://printableplanning.com/collections/caregivers-health-housekeeping): Printable caregiver forms and logs for families and pet care, plus health info sheets and housekeeping checklists to keep routines organized.
-  Updated: 2026-05-19T11:01:24Z
+  Updated: 2026-05-24T11:01:21Z
   Total Products: 42
 - [Printable Financial Sheets | Budget, Bills, Savings, and Debt](https://printableplanning.com/collections/financial-sheets): Printable financial sheets to track budgeting, bills, tithing, savings, and debt payoff. Simple pages for monthly planning and everyday money routines.
   Updated: 2026-05-17T11:02:04Z
