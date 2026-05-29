@@ -6,12 +6,12 @@
 - Timezone: Asia/Phnom_Penh
 - Created At: 2025-12-30T03:37:42Z
 - Contact Email: franceajluxe@gmail.com
-- Updated At: 2026-05-21T04:12:05.844Z
+- Updated At: 2026-05-29T00:00:27.327Z
 
 ## Products
 
 - [Layered Crystal Chain Anklet — 2 or 4 Layer Gold & Silver Women's | AJ Euro](https://ajeuro.com/products/layered-crystal-chain-anklet-2-4-layer-gold-silver-womens): Layered crystal chain anklet in 2-layer or 4-layer styles. Available in gold and silver alloy. Lightweight women's ankle jewellery. Ships to France and the UK.
-  Updated: 2026-05-19T21:56:53Z
+  Updated: 2026-05-22T04:14:36Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -33,7 +33,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/cdaeaf90-f1ec-471a-aac4-b4eb0ce24a2f.jpg?v=1771988512
     Price: £14.90 GBP
 - [USB Mini Humidifier with Projection Night Light — 200ml 5Hr 40ml/h | AJ Euro](https://ajeuro.com/products/usb-mini-humidifier-projection-night-light-200ml-5hr-ultrasonic): Ultrasonic USB humidifier with projection night light, 200ml tank, 5hr runtime, 40ml/h mist and under 30dB operation. 4 colours. Ships to France and the UK.
-  Updated: 2026-05-20T08:28:38Z
+  Updated: 2026-05-24T06:26:56Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -63,7 +63,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1464471534447.jpg?v=1771988814
     Price: £36.00 GBP
 - [Waterproof Outdoor Bluetooth Speaker 10W — Subwoofer Stereo 333g | AJ Euro](https://ajeuro.com/products/waterproof-outdoor-bluetooth-speaker-10w-subwoofer-stereo-333g): 10W waterproof outdoor Bluetooth speaker with subwoofer stereo, 333g and 152mm compact body. Built-in rechargeable battery. Ships to France and the UK.
-  Updated: 2026-05-19T21:41:18Z
+  Updated: 2026-05-22T04:14:37Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -89,7 +89,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1717335575568.jpg?v=1772250517
     Price: £45.99 GBP
 - [DX09 Clip-On Open-Ear Headphones — Waterproof Bluetooth 5.3 Sports | AJ Euro](https://ajeuro.com/products/dx09-clip-on-open-ear-headphones-waterproof-bluetooth-5-3-sports): DX09 ear clip open-ear Bluetooth 5.3 headphones with waterproof build, breathing light, voice control and 4hr battery. Sports use. Ships to France and the UK.
-  Updated: 2026-05-20T07:28:52Z
+  Updated: 2026-05-27T10:27:17Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -111,7 +111,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3f664fe7-2392-48e3-89a2-18fc00e82d3f.jpg?v=1772262776
     Price: £15.29 GBP
 - [LED Faucet Water Thermometer — Real-Time Digital Bath Display 5–85°C | AJ Euro](https://ajeuro.com/products/led-faucet-water-thermometer-real-time-digital-bath-display-5-85c): LED faucet water thermometer — real-time 5–85°C display, ±0.5°C accuracy, water-powered. Ideal for baby baths and daily use. Ships to France and the UK.
-  Updated: 2026-05-19T21:39:00Z
+  Updated: 2026-05-22T04:14:37Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -125,14 +125,14 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1618540839515.jpg?v=1772422852
     Price: £22.99 GBP
 - [Anti-Snoring Earpiece with Sleep Tracker — Bone Conduction Sleeplus | AJ Euro](https://ajeuro.com/products/anti-snoring-earpiece-sleep-tracker-bone-conduction-sleeplus-app): Anti-snoring earpiece with bone conduction detection, adaptive vibration response and Sleeplus App sleep tracking. Rechargeable. Ships to France and the UK.
-  Updated: 2026-05-19T20:32:03Z
+  Updated: 2026-05-22T04:14:37Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/ca5fcdac-7531-4a60-9fb2-91350ce7e815.jpg?v=1772433864
   Price: £107.18 GBP
 - [Bone Conduction Bluetooth 5.0 Headphones — Titanium Hook Open-Ear | AJ Euro](https://ajeuro.com/products/bone-conduction-bluetooth-5-0-headphones-titanium-hook-open-ear): Bone conduction Bluetooth 5.0 headphones — open-ear titanium hook, 230mAh USB-C, waterproof. Glasses-friendly. Ships to France and the UK.
-  Updated: 2026-05-19T21:38:20Z
+  Updated: 2026-05-22T04:14:37Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -146,7 +146,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e4d21b0b-4f89-4e33-a9de-b376842de016.jpg?v=1772503802
     Price: £49.99 GBP
 - [USB Mini Humidifier — 7-Colour LED Night Light Aromatherapy Diffuser | AJ Euro](https://ajeuro.com/products/usb-mini-humidifier-7-colour-led-night-light-aromatherapy-diffuser): USB humidifier with 7-colour LED, 9hr runtime, 50ml/h mist and essential oil compatibility. 3W quiet operation. Black or white. Ships to France and the UK.
-  Updated: 2026-05-19T20:30:42Z
+  Updated: 2026-05-22T04:14:37Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -160,7 +160,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/745514388201.jpg?v=1772505125
     Price: £33.99 GBP
 - [Digital Electronic Measuring Wheel — 99m LCD USB-C 35g 8 Functions | AJ Euro](https://ajeuro.com/products/digital-electronic-measuring-wheel-99m-lcd-usb-c-35g): Digital measuring wheel — 99m range, 0.5% accuracy, 1.8" LCD and 200-day USB-C battery. 35g aluminium body. Ships to France and the UK.
-  Updated: 2026-05-20T17:27:06Z
+  Updated: 2026-05-22T21:31:29Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -182,7 +182,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/62f06a16-7a7b-468d-bb05-d153d189ab85.jpg?v=1772505943
     Price: £80.99 GBP
 - [Floating Waterproof Phone Bag — PVC Dry Bag Beach & Water Sports | AJ Euro](https://ajeuro.com/products/floating-waterproof-phone-bag-pvc-dry-bag-beach-water-sports): Floating waterproof PVC phone bag for 99% of smartphones. Touchscreen usable, watertight seal. 9 colours. Ships to France and the UK.
-  Updated: 2026-05-19T20:29:22Z
+  Updated: 2026-05-22T04:14:38Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -260,7 +260,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/ef339a30-8d62-4fda-9f30-f8d1cbfb6054.jpg?v=1772507450
     Price: £9.66 GBP
 - [Washable Pet Bed for Cats & Dogs — All-Season Warm Kennel S/M/L | AJ Euro](https://ajeuro.com/products/washable-pet-bed-cats-dogs-all-season-warm-kennel-s-m-l): Machine-washable pet bed for cats and dogs in 3 sizes — S 49×35cm, M 57×40cm, L 73×50cm. Warm all-season fabric. Ships to France and the UK.
-  Updated: 2026-05-19T20:28:42Z
+  Updated: 2026-05-22T04:14:38Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -290,7 +290,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1616402993914.jpg?v=1772507960
     Price: £58.10 GBP
 - [Cat & Dog Slow Feeder Bowl — Anti-Gulp Bloat Stop PP Safe 3 Colours | AJ Euro](https://ajeuro.com/products/cat-dog-slow-feeder-bowl-anti-gulp-bloat-stop-pp-safe-3-colours): Slow feeder bowl for cats and dogs with raised maze pattern to reduce gulping, bloating and choking. Food-safe PP, 3 colours. Ships to France and the UK.
-  Updated: 2026-05-19T20:27:42Z
+  Updated: 2026-05-22T04:14:38Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -316,7 +316,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/afbbfb2a-2ded-4970-b2bc-a204d1c3372c.jpg?v=1772508197
     Price: £20.19 GBP
 - [Silicone Pet Shampoo Brush — 2-in-1 Soap Dispenser & Grooming Scrubber | AJ Euro](https://ajeuro.com/products/silicone-pet-shampoo-brush-2-in-1-soap-dispenser-grooming-scrubber): 2-in-1 silicone pet shampoo brush with soap dispenser and massage bristles. Gentle for cats and dogs. Ships to France and the UK.
-  Updated: 2026-05-19T20:27:55Z
+  Updated: 2026-05-22T04:14:38Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -334,7 +334,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1858785247785914368.jpg?v=1772508368
     Price: £9.79 GBP
 - [2-in-1 USB Misting Fan & Humidifier — 3 Speed Desk Spray Fan | AJ Euro](https://ajeuro.com/products/2-in-1-usb-misting-fan-humidifier-3-speed-desk-spray-cooling): 2-in-1 USB misting fan and humidifier with 3 speed modes, brushless motor and adjustable tilt. USB powered. Ships to France and the UK.
-  Updated: 2026-05-19T20:26:34Z
+  Updated: 2026-05-22T04:14:38Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -348,7 +348,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/83ed6d7f-8983-48a3-8e2b-d1e7c6892897.jpg?v=1772521742
     Price: £28.65 GBP
 - [Portable USB Blender 600ml — Borosilicate Glass Juicer Cup 3 Colours | AJ Euro](https://ajeuro.com/products/portable-usb-blender-600ml-borosilicate-glass-juicer-cup): Portable USB blender with borosilicate glass liner, 600–800ml capacity, wide mouth and dual safety protection. 3 colours. Ships to France and the UK.
-  Updated: 2026-05-19T20:26:09Z
+  Updated: 2026-05-22T04:14:38Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -366,7 +366,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/760ed57d-ccd2-42f4-9407-47290cd72575.jpg?v=1772521947
     Price: £32.42 GBP
 - [Fish Scale Scraper with Cover — Food-Grade Kitchen Scaler 3 Colours | AJ Euro](https://ajeuro.com/products/fish-scale-scraper-cover-food-grade-kitchen-scaler-3-colours): Fish scale scraper with built-in cover to contain scales while scraping. Food-grade AS/ABS, 58g, 16.5cm. White, green or blue. Ships to France and the UK.
-  Updated: 2026-05-19T20:23:16Z
+  Updated: 2026-05-22T04:14:39Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -392,7 +392,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/aac13b4b-3528-43e6-9e57-7a4315946067.jpg?v=1772522208
     Price: £14.51 GBP
 - [3D Sports Knee Pad — Nylon Lycra Compression Brace S–XXL 4 Colours | AJ Euro](https://ajeuro.com/products/3d-sports-knee-pad-nylon-lycra-compression-brace-s-xxl): 3D weave sports knee pad with double beam pressure belt and high-elasticity Nylon Lycra Latex construction. Sizes S–XXL, 4 colours. Ships to France and the UK.
-  Updated: 2026-05-19T07:31:24Z
+  Updated: 2026-05-22T04:14:39Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -598,7 +598,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1748901533928.jpg?v=1772593611
     Price: £15.99 GBP
 - [Double Wall Insulated Sports Water Bottle 500ml — Stainless Steel | AJ Euro](https://ajeuro.com/products/double-wall-insulated-sports-water-bottle-500ml-stainless-steel): 500ml double-wall stainless steel insulated sports water bottle. Hot and cold retention, fits bicycle cages and cup holders. Ships to France and the UK.
-  Updated: 2026-05-19T20:10:07Z
+  Updated: 2026-05-22T04:14:39Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -620,7 +620,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1462004103559.jpg?v=1772594111
     Price: £19.99 GBP
 - [Cordless 2-in-1 Hair Straightener & Curler Comb — 35W 45Min LCD | AJ Euro](https://ajeuro.com/products/cordless-2-in-1-hair-straightener-curler-comb-35w-usb-c-wireless): Cordless 2-in-1 hair straightener and curler comb with 35W heating, 160–200°C, 45min battery and LCD display. USB-C charging. Ships to France and the UK.
-  Updated: 2026-05-20T11:32:56Z
+  Updated: 2026-05-28T16:27:27Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -754,7 +754,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a168e6d0-506c-4469-93d9-c2c5e96c33aa.jpg?v=1772595388
     Price: £28.99 GBP
 - [Infrared Heated Knee & Joint Massager Wrap — Vibration 3-Speed 12W | AJ Euro](https://ajeuro.com/products/infrared-heated-knee-joint-massager-wrap-vibration-3-speed): Infrared heated knee and joint massager wrap — vibration, jade beads, 45–60°C heat and 3 timer settings. Rechargeable. Ships to France and the UK.
-  Updated: 2026-05-19T20:06:48Z
+  Updated: 2026-05-22T04:14:39Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -816,7 +816,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/6862c3cf-a159-4f0f-a50d-25eb4cceb529.jpg?v=1772596419
     Price: £73.99 GBP
 - [Self-Cleaning Hairbrush with 3D Air Cushion — Scalp Massage Detangling | AJ Euro](https://ajeuro.com/products/self-cleaning-hairbrush-3d-air-cushion-scalp-massage-detangling): Self-cleaning hairbrush with one-key hair release, 3D air cushion base, scalp massage and anti-static bristles. For all hair types. Ships to France and the UK.
-  Updated: 2026-05-19T14:17:40Z
+  Updated: 2026-05-22T04:14:39Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -1022,7 +1022,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/ccdc24d3-b8f1-45d9-a372-280728913e2d.jpg?v=1772597980
     Price: £69.00 GBP
 - [Crystal Hair Eraser — Nano-Glass Painless Hair Removal & Exfoliating | AJ Euro](https://ajeuro.com/products/crystal-hair-eraser-nano-glass-painless-hair-removal-exfoliating): Nano-glass crystal hair eraser — painless hair removal and exfoliation on legs and arms. Reusable, chemical-free. Ships to France and the UK.
-  Updated: 2026-05-19T14:08:03Z
+  Updated: 2026-05-22T04:14:39Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -1076,7 +1076,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d7eca69e-579c-4bf0-80a7-6188fab2ba20.jpg?v=1772598865
     Price: £34.99 GBP
 - [Portable Wireless Electric Juicer Cup — USB Rechargeable Mini Blender | AJ Euro](https://ajeuro.com/products/portable-wireless-electric-juicer-cup-usb-rechargeable-mini-blender): Portable wireless electric juicer cup in food-safe PP, USB rechargeable, 447g. White or green. For home, office, gym and travel. Ships to France and the UK.
-  Updated: 2026-05-19T14:06:31Z
+  Updated: 2026-05-22T04:14:40Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -1090,7 +1090,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/6a0546f8-db0e-4f5e-bcc3-43223186c552.jpg?v=1772599229
     Price: £32.99 GBP
 - [4-Layer Automatic Egg Roller Tray — 30-Egg Fridge Organiser | AJ Euro](https://ajeuro.com/products/4-layer-automatic-egg-roller-tray-30-egg-fridge-organiser): 4-layer automatic egg roller tray for 30 eggs. Individual slots prevent breakage, gravity-fed rolling design. 4 colours. Ships to France and the UK.
-  Updated: 2026-05-19T14:03:24Z
+  Updated: 2026-05-22T04:14:40Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -1120,7 +1120,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7c647dff-d6f8-4038-addb-cd3d9727603b.jpg?v=1772599917
     Price: £72.99 GBP
 - [3-in-1 USB Mosquito Killer Fan & Night Light — Rechargeable 8000mAh | AJ Euro](https://ajeuro.com/products/3-in-1-usb-mosquito-killer-fan-night-light-rechargeable): 3-in-1 USB rechargeable mosquito killer, bladeless desk fan and night light. Available in 2400–8000mAh battery options. Ships to France and the UK.
-  Updated: 2026-05-19T14:01:51Z
+  Updated: 2026-05-22T04:14:40Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -1142,7 +1142,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c2c88d64-f7be-4331-aa21-77ea1a461736_trans.jpg?v=1772604234
     Price: £50.00 GBP
 - [Women's Loose Long Sleeve Button-Up Shirt — Pleated Lapel S–5XL | AJ Euro](https://ajeuro.com/products/womens-loose-long-sleeve-button-up-shirt-pleated-lapel-s-5xl): Women's loose long sleeve button-up shirt with pleated lapel collar. Solid colour, 65cm medium length, sizes S to 5XL. Ships to France and the United Kingdom.
-  Updated: 2026-05-20T22:27:17Z
+  Updated: 2026-05-28T19:28:39Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -1348,7 +1348,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/46de0f95-6e15-4791-ae8c-e6686be609e3.jpg?v=1772676363
     Price: £26.49 GBP
 - [40oz Insulated Stainless Steel Tumbler with Handle & Straw | AJ Euro](https://ajeuro.com/products/40oz-insulated-stainless-steel-tumbler-handle-straw-hot-cold): 40oz double-wall vacuum insulated stainless steel tumbler with handle, straw and leak-proof lid. Hot 12hr, cold 24hr. Ships to France and the UK.
-  Updated: 2026-05-19T13:57:32Z
+  Updated: 2026-05-28T14:28:36Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -1550,7 +1550,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/05e85101-ae3e-4b27-976e-09eccfa2ead9.jpg?v=1772677666
     Price: £42.99 GBP
 - [TWS T5 Bluetooth 5.0 Earbuds — IPX5 3500mAh Power Bank Case 140Hr | AJ Euro](https://ajeuro.com/products/tws-t5-bluetooth-5-0-earbuds-ipx5-3500mah-power-bank-case-140hr): TWS T5 Bluetooth 5.0 earbuds with IPX5, 3500mAh power bank case, 140hr standby and 4hr playback. Ships to France and the United Kingdom.
-  Updated: 2026-05-18T21:57:51Z
+  Updated: 2026-05-22T04:14:40Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -1580,7 +1580,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/5e950601-8f06-4a4d-b944-96012ea1cb04.jpg?v=1772678088
     Price: £57.99 GBP
 - [Foldable Bluetooth 5.0 Over-Ear Headphones — CVC6.0 LED 8Hr | AJ Euro](https://ajeuro.com/products/foldable-bluetooth-5-0-over-ear-headphones-cvc6-led-8hr-360hr-standby): Bluetooth 5.0 over-ear headphones with CVC6.0 noise reduction, 8hr playback, 360hr standby, breathing LED and 3.5mm wired mode. Ships to France and the UK.
-  Updated: 2026-05-18T21:55:53Z
+  Updated: 2026-05-22T04:14:40Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -1602,7 +1602,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0c64e31f-347e-4f95-9a7f-89e41d84b94d.jpg?v=1772678823
     Price: £22.64 GBP
 - [Foldable Bluetooth 5.0 Headphones — Wireless & Wired with TV Adaptor | AJ Euro](https://ajeuro.com/products/foldable-bluetooth-5-0-headphones-wireless-wired-tv-adaptor): Foldable Bluetooth 5.0 headphones with 40mm drivers, wired mode, TV adaptor option and 4–8hr wireless battery. 5 colours. Ships to France and the UK.
-  Updated: 2026-05-18T21:53:16Z
+  Updated: 2026-05-22T04:14:41Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -1628,14 +1628,14 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/70678c0e-94bf-4841-ba00-d5d6da02bce1.jpg?v=1772678927
     Price: £14.77 GBP
 - [Gaming Bluetooth 5.1 Earbuds — Zero Latency NFC 120Hr Multipoint | AJ Euro](https://ajeuro.com/products/gaming-bluetooth-5-1-earbuds-zero-latency-nfc-120hr-multipoint): Gaming Bluetooth 5.1 earbuds with zero latency, NFC pairing, multipoint connection and 120hr battery. 15m range, bilateral stereo. Ships to France and the UK.
-  Updated: 2026-05-18T21:51:29Z
+  Updated: 2026-05-22T04:14:41Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2ec3240d-37ba-48b9-bf4b-409263e43be8.jpg?v=1772679092
   Price: £18.00 GBP
 - [Bluetooth Music Headband — Wireless Sleep & Sports Headband Speakers | AJ Euro](https://ajeuro.com/products/bluetooth-music-headband-wireless-sleep-sports-speakers): Bluetooth music headband with 32mm speakers, washable fabric and 3–6hr playback. For sleep, sport and daily wear. Ships to France and the UK.
-  Updated: 2026-05-18T21:50:15Z
+  Updated: 2026-05-22T04:14:41Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -1661,7 +1661,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/781017a3-2886-4577-bdfc-a51cf8058938.jpg?v=1772679949
     Price: £20.19 GBP
 - [R180 TWS Bluetooth 5.0 Earbuds — 20m Range Bilateral Stereo | AJ Euro](https://ajeuro.com/products/r180-tws-bluetooth-5-0-earbuds-20m-range-bilateral-stereo): R180 TWS Bluetooth 5.0 earbuds with 20m extended range and bilateral stereo. Compatible with iOS and Android. 3 colour options. Ships to France and the UK.
-  Updated: 2026-05-18T21:48:51Z
+  Updated: 2026-05-22T04:14:41Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -1683,7 +1683,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/442533556648_014125e7-189b-47c4-b31b-1d4a34807767.jpg?v=1772680366
     Price: £45.29 GBP
 - [Ear Clip Open-Ear Bluetooth 5.2 Headphones — 36Hr HIFI Dual Drive | AJ Euro](https://ajeuro.com/products/ear-clip-open-ear-bluetooth-5-2-headphones-36hr-hifi-dual-drive): Bluetooth 5.2 ear clip headphones with dual-drive HIFI sound, 36hr battery and 350mAh USB-C charging case. Ships to France and the UK.
-  Updated: 2026-05-18T21:47:38Z
+  Updated: 2026-05-22T04:14:41Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -1701,7 +1701,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f937822c-a54f-490c-9097-33641c2ed508.jpg?v=1772680717
     Price: £36.05 GBP
 - [HY300 Android Smart Mini Projector 720p — 120 ANSI Lumens Home | AJ Euro](https://ajeuro.com/products/hy300-android-smart-mini-projector-720p-120-ansi-lumens): HY300 Android smart mini projector with 720p resolution and 120 ANSI lumens. Built-in Android OS, remote control, EU and US plug. Ships to France and the UK.
-  Updated: 2026-05-18T21:45:58Z
+  Updated: 2026-05-22T04:14:41Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -1715,7 +1715,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d1db7ffa-5b6c-440b-be0b-f4a9aaa58abc.jpg?v=1772681164
     Price: £110.47 GBP
 - [Wired USB Gaming Headset — 50mm 110dB with Mic 3m Braided Cable | AJ Euro](https://ajeuro.com/products/wired-usb-gaming-headset-50mm-110db-mic-3m-braided-cable): Wired USB gaming headset with 50mm moving coil drivers, 110dB sensitivity, built-in mic and 3m braided cable. 4 colours. Ships to France and the UK.
-  Updated: 2026-05-18T21:43:11Z
+  Updated: 2026-05-22T04:14:41Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -1737,7 +1737,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/743f41ac-4cb8-4120-b86f-93d727529e7e.jpg?v=1772681449
     Price: £35.93 GBP
 - [Portable Bluetooth Speaker 20W — Waterproof FM Radio TF Card 8Hr | AJ Euro](https://ajeuro.com/products/portable-bluetooth-speaker-20w-waterproof-fm-radio-tf-card-8hr): 20W waterproof Bluetooth speaker with dual drivers, FM radio, TF card playback, 8hr battery and CE certification. Ships to France and the United Kingdom.
-  Updated: 2026-05-18T21:42:01Z
+  Updated: 2026-05-22T04:14:42Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -1771,21 +1771,21 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/cd7f4ccf-56b5-4d51-a12f-0f33eb7b4faa.jpg?v=1772681964
     Price: £28.25 GBP
 - [TWS Bluetooth 5.1 Earbuds — Copper Ring Speaker Digital Display | AJ Euro](https://ajeuro.com/products/tws-bluetooth-5-1-earbuds-copper-ring-speaker-digital-display): Bluetooth 5.1 TWS earbuds with true copper ring speaker, digital battery display and 200mAh charging case for 3 recharges. Ships to France and the UK.
-  Updated: 2026-05-18T21:40:18Z
+  Updated: 2026-05-22T04:14:42Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/37817d84-dc0e-4dcd-ba06-70977be81475.jpg?v=1772682285
   Price: £18.00 GBP
 - [IPX7 Waterproof TWS Earbuds — Bluetooth 5.1 LED Display Touch Control | AJ Euro](https://ajeuro.com/products/ipx7-waterproof-tws-earbuds-bluetooth-5-1-led-display-touch-control): IPX7 waterproof TWS earbuds with Bluetooth 5.1, LED battery display, touch controls and Hi-Fi stereo. Auto-pairing. Ships to France and the United Kingdom.
-  Updated: 2026-05-18T21:30:39Z
+  Updated: 2026-05-22T04:14:42Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/259c0891-c261-493f-b6bc-660a663ef60c.jpg?v=1772682627
   Price: £35.99 GBP
 - [Bluetooth 5.0 Semi-In-Ear Wireless Earbuds — HD Stereo Bilateral | AJ Euro](https://ajeuro.com/products/bluetooth-5-0-semi-in-ear-wireless-earbuds-hd-stereo-bilateral): Bluetooth 5.0 semi-in-ear earbuds with bilateral stereo, HD voice and English prompts. 10–15m range. Ships to France and the UK.
-  Updated: 2026-05-18T21:29:51Z
+  Updated: 2026-05-22T04:14:42Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -1803,14 +1803,14 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1802047212405.jpg?v=1772682916
     Price: £35.00 GBP
 - [Magnetic Resonance Induction Speaker 3W — No Bluetooth Needed | AJ Euro](https://ajeuro.com/products/magnetic-resonance-induction-speaker-3w-no-bluetooth-phone): Magnetic resonance induction speaker — place your phone on it and it plays instantly. No Bluetooth, no cables. 3W, 60Hz–15kHz. Ships to France and the UK.
-  Updated: 2026-05-18T21:14:00Z
+  Updated: 2026-05-22T04:14:42Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1601322728280.png?v=1772683287
   Price: £35.64 GBP
 - [Mini Waterproof Bluetooth Speaker 3W — 5Hr Battery Hands-Free | AJ Euro](https://ajeuro.com/products/mini-waterproof-bluetooth-speaker-3w-5hr-battery-led-hands-free): Mini waterproof Bluetooth speaker with 3W output, 5hr battery, hands-free mic and 10m range. 85mm compact disc design. Ships to France and the United Kingdom.
-  Updated: 2026-05-18T21:12:41Z
+  Updated: 2026-05-22T04:14:42Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -1840,7 +1840,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1790191358.jpg?v=1772684388
     Price: £15.66 GBP
 - [AUSDOM BASS ONE Over-Ear Headphones — 50Hr Bass Boost Qualcomm BT5.0 | AJ Euro](https://ajeuro.com/products/ausdom-bass-one-over-ear-headphones-50hr-bass-boost-qualcomm-bt5): AUSDOM BASS ONE headphones — 40mm drivers, ANC, 50hr battery and 2000mAh case for 220hr total playback. USB-C fast charge. Ships to France and the UK.
-  Updated: 2026-05-18T21:11:17Z
+  Updated: 2026-05-22T04:14:42Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -1854,7 +1854,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3188178699614.jpg?v=1772685139
     Price: £25.22 GBP
 - [Magcubic HY300 Mini Projector — 720p WiFi Bluetooth 5.0 Auto Keystone | AJ Euro](https://ajeuro.com/products/magcubic-hy300-mini-projector-720p-wifi-bluetooth-5-auto-keystone): Magcubic HY300 mini projector with 720p, dual-band WiFi, Bluetooth 5.0, auto keystone and 130-inch projection. 120 ANSI lumens. Ships to France and the UK.
-  Updated: 2026-05-18T21:08:39Z
+  Updated: 2026-05-22T04:14:43Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -1904,7 +1904,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/cce9a9e6-15a3-4153-b67d-3643f493a4a9_1a6bf1bb-12cd-4ba3-8c70-be2b196b69c2.jpg?v=1772686038
     Price: £89.99 GBP
 - [YD03 TWS Wireless Earbuds — Bluetooth 5.3 LED Display Breathing Light | AJ Euro](https://ajeuro.com/products/yd03-tws-wireless-earbuds-bluetooth-5-3-led-display-breathing-light): YD03 Bluetooth 5.3 earbuds with LED battery display, graphene diaphragm and noise-cancelling mic. 4–5hr battery. Ships to France and the UK.
-  Updated: 2026-05-18T14:57:04Z
+  Updated: 2026-05-22T04:14:43Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -1926,7 +1926,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3078165f-845c-47ab-962f-a76255f5ba70.jpg?v=1772686265
     Price: £5.00 GBP
 - [Reusable Pet Hair Remover Brush — Self-Cleaning Lint Roller | AJ Euro](https://ajeuro.com/products/reusable-pet-hair-remover-brush-self-cleaning-lint-roller): Reusable electrostatic pet hair remover with built-in dustbin and self-cleaning brush head. No refills needed. White, green or pink. Ships to France and the UK.
-  Updated: 2026-05-18T14:55:45Z
+  Updated: 2026-05-25T16:28:27Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2004,7 +2004,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/42a036c6-36b4-4f08-8986-0a6812822073.jpg?v=1772690984
     Price: £44.32 GBP
 - [3-in-1 Electric Steam Pet Brush — USB Rechargeable Cat & Dog Grooming | AJ Euro](https://ajeuro.com/products/3-in-1-electric-steam-pet-brush-usb-rechargeable-grooming-comb): 3-in-1 electric steam pet brush with steam spray, silicone bristles and USB charging. Suits all coat types. Ships to France and the United Kingdom.
-  Updated: 2026-05-18T14:53:58Z
+  Updated: 2026-05-27T20:28:37Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2042,11 +2042,11 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7165df38-bfc9-42c1-99a3-6d2e4d645b25.jpg?v=1772763756
     Price: £32.00 GBP
   - [White 2pcs / USB](https://ajeuro.com/products/3-in-1-electric-steam-pet-brush-usb-rechargeable-grooming-comb?variant=47613574643904)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f015378b-94d4-49af-9a65-16642d82bde6.jpg?v=1772763755
     Price: £25.70 GBP
 - [Galaxy Star Projector with Bluetooth Speaker — 8 Colours Remote | AJ Euro](https://ajeuro.com/products/galaxy-star-projector-bluetooth-speaker-8-colours-remote-timer): Galaxy star projector with 8 colour effects, 3W Bluetooth 5.0 speaker, remote control and 2/4hr auto-off timer. Covers 60m². Ships to France and the UK.
-  Updated: 2026-05-15T21:20:50Z
+  Updated: 2026-05-22T04:14:43Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2060,7 +2060,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2308173597902.jpg?v=1772765000
     Price: £38.00 GBP
 - [Self-Stirring Coffee Mug 400ml — Electric Auto-Mix Stainless Steel | AJ Euro](https://ajeuro.com/products/self-stirring-coffee-mug-400ml-electric-auto-mix-stainless-steel): Electric self-stirring coffee mug with handle, 400ml stainless steel, auto-mix at the press of a button. 8 colour options. Ships to France and the UK.
-  Updated: 2026-05-15T09:18:08Z
+  Updated: 2026-05-22T04:14:43Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2098,7 +2098,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4ab29705-cd8a-4f87-a60a-32c8453f3f1e.jpg?v=1772765771
     Price: £19.99 GBP
 - [Wireless Bluetooth 4.1 Headset — 180° Rotating Single-Ear | AJ Euro](https://ajeuro.com/products/wireless-bluetooth-4-1-headset-180-rotating-single-ear-business): Bluetooth 4.1 single-ear headset with 180° rotation, multipoint pairing and voice prompts. 170mAh battery. Ships to France and the UK.
-  Updated: 2026-05-15T09:14:30Z
+  Updated: 2026-05-22T04:14:44Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2116,7 +2116,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/32591334481.jpg?v=1772766130
     Price: £21.55 GBP
 - [M3 Smart Fitness Bracelet — IP68 Heart Rate Blood Pressure Monitor | AJ Euro](https://ajeuro.com/products/m3-smart-fitness-bracelet-ip68-heart-rate-blood-pressure-monitor): M3 smart bracelet with heart rate, blood pressure, sleep monitoring and IP68 waterproof rating. Multi-sport modes. Ships to France and the UK.
-  Updated: 2026-05-15T21:02:48Z
+  Updated: 2026-05-22T04:14:44Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2138,7 +2138,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1397463538469.jpg?v=1772766315
     Price: £10.00 GBP
 - [Y5S Mini Bluetooth Projector — HD Portable Home Theatre Projector | AJ Euro](https://ajeuro.com/products/y5s-mini-bluetooth-projector-hd-portable-home-theatre): Y5S mini Bluetooth projector with HD projection and auto keystone correction. Portable home theatre and outdoor use. Ships to France and the UK.
-  Updated: 2026-05-15T21:00:54Z
+  Updated: 2026-05-22T04:14:44Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2152,7 +2152,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/66924b52-36bb-44ac-92ef-af38b57fedb9.jpg?v=1772767703
     Price: £62.23 GBP
 - [V10 Action Camera 16MP Waterproof — 0.96" Screen Sports Cam | AJ Euro](https://ajeuro.com/products/v10-action-camera-16mp-waterproof-0-96-screen-sports-cam): V10 action camera — 16MP, 0.96" screen, waterproof shell and 90min battery. TF card storage. For outdoor sports and travel. Ships to France and the UK.
-  Updated: 2026-05-15T20:59:47Z
+  Updated: 2026-05-22T04:14:44Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2186,7 +2186,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a69533f9-875c-438e-a590-dd850d9b67d6_trans.jpg?v=1772768043
     Price: £62.34 GBP
 - [3-in-1 Wireless Power Bank 10000mAh — Qi Wireless USB Charging | AJ Euro](https://ajeuro.com/products/3-in-1-wireless-power-bank-10000mah-qi-wireless-usb-charging): 10000mAh 3-in-1 power bank with Qi wireless output, USB output and wireless input. 135×73×19mm, 220g slim design. Ships to France and the UK.
-  Updated: 2026-05-15T18:26:28Z
+  Updated: 2026-05-22T04:14:44Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2204,7 +2204,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1827694293480.jpg?v=1772768482
     Price: £18.54 GBP
 - [Galaxy Star Projector Night Light — Colour Discs & Bluetooth Bedroom | AJ Euro](https://ajeuro.com/products/galaxy-star-projector-night-light-colour-discs-bluetooth): Galaxy star projector with adjustable focus, interchangeable colour discs and 7 configurations including Bluetooth and music modes. Ships to France and the UK.
-  Updated: 2026-05-15T05:04:00Z
+  Updated: 2026-05-22T04:14:44Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2238,7 +2238,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/7b27bd25-9e6d-42bf-9eda-f354075179d3.jpg?v=1772769020
     Price: £50.99 GBP
 - [Robot Vacuum Cleaner 3-in-1 Sweep Mop & Suction — Smart Home | AJ Euro](https://ajeuro.com/products/robot-vacuum-cleaner-3-in-1-sweep-mop-suction-smart-home): 3-in-1 robot vacuum with automatic sweep, mop and suction for 150m². Slim 6cm profile, fits under furniture. Ships to France and the UK.
-  Updated: 2026-05-15T04:56:16Z
+  Updated: 2026-05-22T04:14:44Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2252,7 +2252,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1622351486029.jpg?v=1772770403
     Price: £45.00 GBP
 - [60W Multi-Function Charging Cable with Storage Box — USB-C Lightning | AJ Euro](https://ajeuro.com/products/60w-multi-function-charging-cable-storage-box-usb-c-lightning): 60W 3-in-1 charging cable with USB-C, Lightning and Micro-USB in a storage box with SIM pin. White or blue. Ships to France and the UK.
-  Updated: 2026-05-15T04:48:57Z
+  Updated: 2026-05-22T04:14:45Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2270,7 +2270,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e5b2b116-9681-447a-b243-8ce5b47295dd.jpg?v=1772770723
     Price: £10.51 GBP
 - [2-in-1 Fast Charging Cable with Phone Stand — 240W USB-C Braided | AJ Euro](https://ajeuro.com/products/2-in-1-fast-charging-cable-phone-stand-240w-usb-c-braided): 240W USB-C braided fast charging cable with built-in 360° adjustable phone stand. 90° elbow connector, up to 2m length. Ships to France and the UK.
-  Updated: 2026-05-20T10:28:47Z
+  Updated: 2026-05-28T11:27:05Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2324,7 +2324,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/38df8304-4b0d-4908-aa06-69ae7f31a23b.jpg?v=1772770922
     Price: £9.00 GBP
 - [A9 Mini WiFi Security Camera 1080P — Night Vision 70min Battery | AJ Euro](https://ajeuro.com/products/a9-mini-wifi-security-camera-1080p-night-vision-70min): A9 mini WiFi security camera with 1080P HD, infrared night vision, 70min battery and TF card storage. Rotating bracket included. Ships to France and the UK.
-  Updated: 2026-05-15T04:43:41Z
+  Updated: 2026-05-22T04:14:45Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2358,7 +2358,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1430841752085.jpg?v=1772771819
     Price: £7.81 GBP
 - [2-in-1 Electric Mosquito Swatter & LED Trap — 1200mAh Rechargeable | AJ Euro](https://ajeuro.com/products/2-in-1-electric-mosquito-swatter-led-trap-1200mah-rechargeable): 2-in-1 electric mosquito swatter and LED trap with 1200mAh battery and 21-day standby. Covers 150m². No chemicals needed. Ships to France and the UK.
-  Updated: 2026-05-15T04:42:12Z
+  Updated: 2026-05-22T04:14:45Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2376,7 +2376,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/600a53af-ee2c-480d-b85d-83f31bc67ed6_63b3565c-aec7-48bd-884f-972aafa7d3df.jpg?v=1772772145
     Price: £22.22 GBP
 - [Bluetooth Sports Sunglasses — Open-Ear Wireless Audio 6-8Hr | AJ Euro](https://ajeuro.com/products/bluetooth-sports-sunglasses-open-ear-wireless-audio-6-8hr): Bluetooth 5.0 sports sunglasses with open-ear audio, hands-free calls and 6–8hr battery. Waterproof, ultralight 16.6g. Ships to France and the UK.
-  Updated: 2026-05-15T04:40:53Z
+  Updated: 2026-05-22T04:14:45Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2418,7 +2418,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1977cb0b-37e8-47b9-b64a-f55d96a2798d.jpg?v=1772772541
     Price: £24.67 GBP
 - [Pet Deshedding Massage Comb — Stainless Steel Cat & Dog Brush | AJ Euro](https://ajeuro.com/products/pet-deshedding-massage-comb-stainless-steel-cats-dogs): Stainless steel pet deshedding comb for cats and dogs. Removes loose hair, prevents matting and promotes coat health. Ships to France and the UK.
-  Updated: 2026-05-15T04:39:03Z
+  Updated: 2026-05-22T04:14:45Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2436,7 +2436,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/0a081df1-e3c0-40c2-99c2-954a36f2b124.jpg?v=1772777936
     Price: £36.99 GBP
 - [Bamboo Wireless Keyboard & Mouse Set — Eco-Friendly USB Combo | AJ Euro](https://ajeuro.com/products/bamboo-wireless-keyboard-mouse-set-eco-friendly-usb): Natural bamboo wireless keyboard and mouse set with 10m range, 1600 DPI mouse and waterproof membrane. Plug-and-play USB. Ships to France and the UK.
-  Updated: 2026-05-13T21:45:38Z
+  Updated: 2026-05-22T04:14:45Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2450,7 +2450,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2739499406325_05ea72cc-7471-4c10-9a9a-0625d5f8db40.jpg?v=1772847629
     Price: £50.99 GBP
 - [IPL Hair Removal Device — 500,000 Flashes 5-Speed Home Use | AJ Euro](https://ajeuro.com/products/ipl-hair-removal-device-500000-flashes-5-speed-home-use): Home IPL hair removal device — 5 energy levels, 500,000 flashes and 430–1200nm wavelength. UK and EU plug compatible. Ships to France and the UK.
-  Updated: 2026-05-13T21:42:20Z
+  Updated: 2026-05-22T04:14:46Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2480,14 +2480,14 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f3f10e5f-8a08-40a6-a4e6-4099d467f9c1.jpg?v=1772848191
     Price: £38.55 GBP
 - [Electronic Mosquito Bite Relief Pen — Chemical-Free Itch Relief | AJ Euro](https://ajeuro.com/products/electronic-mosquito-bite-relief-pen-antipruritic-itch-relief): Electronic bite relief pen — chemical-free itch relief in 3–5 seconds. Safe for children over 2 and pregnant women. Ships to France and the UK.
-  Updated: 2026-05-13T21:38:26Z
+  Updated: 2026-05-22T04:14:46Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e4c1319e-a2cc-4942-a729-10afcb18c5be.jpg?v=1772849366
   Price: £20.72 GBP
 - [Alarm Clock Bluetooth Speaker 3W — FM Radio TF Card Display | AJ Euro](https://ajeuro.com/products/alarm-clock-bluetooth-speaker-3w-fm-radio-tf-card-display): 4-in-1 alarm clock Bluetooth speaker with FM radio, TF card, digital display and 4hr battery. 3W stereo, Bluetooth 4.1. Ships to France and the UK.
-  Updated: 2026-05-13T21:36:32Z
+  Updated: 2026-05-22T04:14:46Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2525,7 +2525,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/93d0123a-17de-4b99-85cb-427efd9f8490.jpg?v=1772849918
     Price: £17.32 GBP
 - [Portable Neck Fan with Lanyard — 1800mAh USB Rechargeable 3-Speed | AJ Euro](https://ajeuro.com/products/portable-neck-fan-lanyard-1800mah-usb-rechargeable-3-speed): Portable neck fan with lanyard — 1800mAh battery, 3 speeds, 2–6hr runtime and silent motor. USB rechargeable. Ships to France and the UK.
-  Updated: 2026-05-13T21:34:57Z
+  Updated: 2026-05-22T04:14:46Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2551,7 +2551,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1336611467638.jpg?v=1772850354
     Price: £32.99 GBP
 - [Foot Warmer Slippers — Unisex Cosy Home Slippers 4 Colours | AJ Euro](https://ajeuro.com/products/foot-warmer-slippers-unisex-cosy-4-colours): Cosy unisex foot warmer slippers with PU upper. One size, 4 colours — stellar blue, glacier blue, amber orange and yellow. Ships to France and the UK.
-  Updated: 2026-05-13T21:33:32Z
+  Updated: 2026-05-22T04:14:46Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2573,14 +2573,14 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/6a9ae947-006b-491b-a4ce-b9defd617528.jpg?v=1772850697
     Price: £38.66 GBP
 - [Condenser Microphone with Tripod Stand — 3.5mm iPhone & PC | AJ Euro](https://ajeuro.com/products/condenser-microphone-tripod-stand-3-5mm-home-studio-iphone-pc): Condenser microphone with tripod, 3.5mm jack, compatible with iPhone and PC. Omnidirectional, home studio ready. Ships to France and the UK.
-  Updated: 2026-05-13T21:32:09Z
+  Updated: 2026-05-22T04:14:46Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/108c4876-5c0a-40f3-b078-d13c995788cd.jpg?v=1772851097
   Price: £38.80 GBP
 - [S5 Mini Bluetooth Subwoofer Speaker — TF Card Portable 8 Colours | AJ Euro](https://ajeuro.com/products/s5-mini-bluetooth-subwoofer-speaker-tf-card-portable-8-colours): S5 mini Bluetooth subwoofer speaker with 32GB TF card and 10m range. 8 colour options including ocean blue and army green. Ships to France and the UK.
-  Updated: 2026-05-13T21:24:26Z
+  Updated: 2026-05-22T04:14:46Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2618,7 +2618,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1622092868062.jpg?v=1772851507
     Price: £22.78 GBP
 - [Wireless Lavalier Microphone — Dual Core Noise Cancelling USB-C & Lightning](https://ajeuro.com/products/wireless-lavalier-microphone-dual-core-noise-cancelling-usb-c-lightning): Wireless lavalier mic with dual-core noise cancellation, 95dB SNR and 12hr battery. USB-C and Lightning, single and dual configs. Ships to France and the UK.
-  Updated: 2026-05-13T21:06:50Z
+  Updated: 2026-05-22T04:14:46Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2640,7 +2640,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/fd5d1d62-1f7f-4ba1-bd67-e535a2e3034b.jpg?v=1773022725
     Price: £64.55 GBP
 - [10W Wireless Charging Pad — Qi Fast Charger Samsung Capacitor | AJ Euro](https://ajeuro.com/products/10w-wireless-charging-pad-qi-fast-charger-samsung-capacitor): 10W Qi wireless charging pad with Nuvoton chip and Samsung capacitor. 5W and 10W modes, ABS silicone non-slip surface, 138mm. Ships to France and the UK.
-  Updated: 2026-05-13T21:01:32Z
+  Updated: 2026-05-22T04:14:47Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2654,7 +2654,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1458191160591.jpg?v=1773023337
     Price: £13.00 GBP
 - [Water Bottle Bluetooth Speaker 2×5W — 800mAh 4Hr Wireless | AJ Euro](https://ajeuro.com/products/water-bottle-bluetooth-speaker-2x5w-800mah-4hr-wireless): Water bottle Bluetooth 4.1 speaker with 2×5W stereo output, 800mAh battery and 4hr playback. 15m range. Ships to France and the United Kingdom.
-  Updated: 2026-05-13T20:57:24Z
+  Updated: 2026-05-22T04:14:47Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2676,7 +2676,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/252347630163.jpg?v=1773023492
     Price: £20.12 GBP
 - [Universal Travel Adapter with Dual USB — 6-in-1 1500W 100-240V | AJ Euro](https://ajeuro.com/products/universal-travel-adapter-dual-usb-6-in-1-1500w-100-240v): 6-in-1 universal travel adapter with dual USB 2400mA charging, 1500W load and 100–240V compatibility. Flame-retardant PC housing. Ships to France and the UK.
-  Updated: 2026-05-13T20:56:03Z
+  Updated: 2026-05-22T04:14:47Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2702,7 +2702,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/894264322776.jpg?v=1773023850
     Price: £20.52 GBP
 - [Floating Waterproof Bluetooth Speaker — IP6 Pool & Bath Speaker | AJ Euro](https://ajeuro.com/products/floating-waterproof-bluetooth-speaker-ip6-pool-bath): IP6 floating waterproof Bluetooth speaker with TWS, 5W dual drivers and glow logo. 4hr battery. Pool and bath use. Ships to France and the UK.
-  Updated: 2026-05-13T20:54:50Z
+  Updated: 2026-05-22T04:14:47Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2720,7 +2720,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1619144619766.jpg?v=1773024160
     Price: £33.55 GBP
 - [Smoke-Filtering Ashtray Air Purifier — Negative Ion Odour Removal | AJ Euro](https://ajeuro.com/products/smoke-filtering-ashtray-air-purifier-negative-ion-odour-removal): Ashtray with negative ion air purifier for smoke and odour removal. 3600 RPM, silent under 36dB, covers 20m². Ships to France and the UK.
-  Updated: 2026-05-13T20:30:54Z
+  Updated: 2026-05-25T05:26:56Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2826,7 +2826,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e42f20aa-9ddb-4dfa-96c7-559b28e20ade.jpg?v=1773025138
     Price: £26.00 GBP
 - [Self-Stirring Magnetic Travel Mug — 304 Stainless Steel USB | AJ Euro](https://ajeuro.com/products/self-stirring-magnetic-travel-mug-304-stainless-steel-usb): Self-stirring magnetic mug with 304 stainless steel liner, USB charging and one-button operation. 301–400ml, white or brown. Ships to France and the UK.
-  Updated: 2026-05-13T20:13:24Z
+  Updated: 2026-05-22T04:14:47Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2856,7 +2856,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/dad6d0ef-1d2d-4291-9668-57110b744416.jpg?v=1773025636
     Price: £15.20 GBP
 - [Double Wall Glass Tea Bottle with Infuser — 400ml/450ml Borosilicate | AJ Euro](https://ajeuro.com/products/double-wall-glass-tea-bottle-with-infuser-400ml-450ml): Double wall borosilicate glass tea bottle with stainless steel infuser and leak-proof seal. 400ml or 450ml, 8 colours. Ships to France and the UK.
-  Updated: 2026-05-13T20:08:20Z
+  Updated: 2026-05-25T06:28:47Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -2918,7 +2918,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/f866be43-4f99-4405-8661-c9133a148fda.jpg?v=1773026162
     Price: £27.50 GBP
 - [Diamond Tungsten Pull-Through Knife Sharpener — Kitchen Tool | AJ Euro](https://ajeuro.com/products/diamond-tungsten-pull-through-knife-sharpener-kitchen-tool): Diamond and tungsten pull-through knife sharpener with disassembly design for easy cleaning. Sharpen in 3–4 strokes. Ships to France and the United Kingdom.
-  Updated: 2026-05-18T02:31:07Z
+  Updated: 2026-05-25T15:27:17Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -3004,7 +3004,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2b887c27-98c2-43af-bc72-f9a9307d3dc7.jpg?v=1773026653
     Price: £22.50 GBP
 - [6-Blade Portable USB Blender 140W — 400ml Smoothie Cup 22000 RPM | AJ Euro](https://ajeuro.com/products/6blade-portable-blender-mini-juicer-cup-extractor-smoothie-usb-charging-fruit-squeezer-blender-food-mixer-ice-crusher-portable-juicer-machine): 140W 6-blade portable USB blender at 22,000 RPM. Crushes ice, blends frozen fruit and makes smoothies in a 400ml travel cup. Ships to France and the UK.
-  Updated: 2026-05-13T20:05:03Z
+  Updated: 2026-05-22T04:14:48Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -3034,7 +3034,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/b26667b1-dc24-44a4-acf2-4250f5736e02.jpg?v=1773028975
     Price: £18.70 GBP
 - [Mini PTC Ceramic Fan Heater — 15–32°C Adjustable 12Hr Timer | AJ Euro](https://ajeuro.com/products/mini-ptc-ceramic-fan-heater-adjustable-12hr-timer-hot-cool): Mini PTC ceramic fan heater — 15–32°C adjustable, 12hr timer, hot and cool air modes. Compact EU plug. Ships to France and the UK.
-  Updated: 2026-05-13T20:03:35Z
+  Updated: 2026-05-22T04:14:48Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -3072,7 +3072,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d043cb98-20f9-4a85-83e0-82038975fc55_917dfa30-ea70-40ac-918f-3a9fad7a0b1d.jpg?v=1773029499
     Price: £25.96 GBP
 - [Compression Ankle Support Sleeve — Unisex Sports & Daily Wear | AJ Euro](https://ajeuro.com/products/compression-ankle-support-sleeve-unisex-sports-daily-wear): Unisex compression ankle support sleeve for gym, running and daily wear. One size, 3 colour options. Ships to France and the United Kingdom.
-  Updated: 2026-05-18T13:28:39Z
+  Updated: 2026-05-22T04:14:48Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -3114,7 +3114,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/54b4fa86-47f6-4127-a904-7580efeb193c.jpg?v=1773029998
     Price: £25.77 GBP
 - [Portable Bluetooth Subwoofer Speaker 5W — 6Hr Battery TF Card | AJ Euro](https://ajeuro.com/products/portable-bluetooth-subwoofer-speaker-5w-6hr-battery-tf-card): 5W portable Bluetooth subwoofer speaker with 95dB SNR, 6hr battery, 1200mAh and 32GB TF card support. Dual channel stereo. Ships to France and the UK.
-  Updated: 2026-05-13T19:59:01Z
+  Updated: 2026-05-22T04:14:48Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -3144,7 +3144,7 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/2297220107320.jpg?v=1773030647
     Price: £19.55 GBP
 - [H60 Portable Bluetooth Speaker 30W Waterproof — FM Radio | AJ Euro](https://ajeuro.com/products/h60-portable-bluetooth-speaker-30w-waterproof-fm-radio-tf-card): H60 30W waterproof Bluetooth speaker with dual 66mm drivers, 3000mAh battery, FM radio, TF card and AUX input. Built for outdoor use. Ships to France and the UK.
-  Updated: 2026-05-13T19:57:14Z
+  Updated: 2026-05-22T04:14:49Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -3174,34 +3174,34 @@
 ## Collections
 
 - [Home page](https://ajeuro.com/collections/frontpage): Welcome to AJ Euro, your one-stop European online store for quality products across every area of your life. From consumer electronics and audio equipment to pet supplies, home essentials, kitchen tools, beauty products, sports gear, and fashion accessories — everything you need is here in one place. We serve customers across France and the United Kingdom, with all prices displayed in Euros and straightforward delivery to your door. Our catalogue of over 300 products is updated regularly with new arrivals across all categories, so there's always something new to discover. At AJ Euro, we believe everyday products should be reliable, affordable, and easy to find. Every purchase comes with a 30-day return policy and clear shipping information upfront — because shopping online should be simple and stress-free. Browse our featured products below or explore our collections to find exactly what you're looking for.
-  Updated: 2026-05-19T08:38:13Z
-  Total Products: 13
+  Updated: 2026-05-26T06:47:35Z
+  Total Products: 23
 - [Electronics — Projectors, Chargers, Cameras & More | AJ Euro](https://ajeuro.com/collections/electronics): Shop electronics at AJ Euro — mini projectors, wireless chargers, security cameras, bamboo keyboards and more. Ships to France and the UK. EUR pricing.
-  Updated: 2026-05-19T08:41:07Z
+  Updated: 2026-05-22T04:14:36Z
   Total Products: 77
 - [Audio — Bluetooth Speakers, Earbuds & Headphones | AJ Euro](https://ajeuro.com/collections/audio): Shop Bluetooth speakers, TWS earbuds, over-ear headphones, bone conduction headsets and microphones at AJ Euro. Ships to France and the UK.
-  Updated: 2026-05-19T08:42:07Z
+  Updated: 2026-05-22T04:14:36Z
   Total Products: 54
 - [Home & Living — Gadgets, Humidifiers & Home Essentials | AJ Euro](https://ajeuro.com/collections/home-living): Shop home gadgets at AJ Euro — humidifiers, galaxy projectors, robot vacuums, mosquito killers, fans and more. Ships to France and the UK. EUR pricing.
-  Updated: 2026-05-19T08:42:45Z
+  Updated: 2026-05-22T04:14:36Z
   Total Products: 51
 - [Kitchen — Blenders, Mugs, Tumblers & Kitchen Gadgets | AJ Euro](https://ajeuro.com/collections/kitchen): Shop kitchen gadgets at AJ Euro — portable blenders, self-stirring mugs, insulated tumblers, glass tea bottles and storage tools. Ships to France and the UK.
-  Updated: 2026-05-19T08:43:36Z
+  Updated: 2026-05-22T04:14:36Z
   Total Products: 22
 - [Beauty & Care — Hair Tools, IPL & Wellness Devices | AJ Euro](https://ajeuro.com/collections/beauty-care): Shop beauty tools at AJ Euro — cordless hair straighteners, ionic dryers, IPL hair removal, scalp massagers and wellness devices. Ships to France and the UK.
-  Updated: 2026-05-19T08:44:19Z
+  Updated: 2026-05-22T04:14:36Z
   Total Products: 18
 - [Pet Supplies — Feeders, Grooming & Pet Accessories | AJ Euro](https://ajeuro.com/collections/pet-supplies): Shop pet supplies at AJ Euro — automatic feeders, slow feeder bowls, grooming brushes, pet beds and lint rollers for cats and dogs. Ships to France and the UK.
-  Updated: 2026-05-19T08:44:40Z
+  Updated: 2026-05-22T04:14:36Z
   Total Products: 12
 - [Sports — Padel, Pickleball, Knee Supports & Active Wear | AJ Euro](https://ajeuro.com/collections/sports): Shop sports at AJ Euro — padel rackets, pickleball paddles, knee supports, ankle braces and cycling accessories. Ships to France and the UK.
-  Updated: 2026-05-19T08:45:03Z
+  Updated: 2026-05-22T04:14:36Z
   Total Products: 16
 - [Fashion — Clothing, Jewellery & Accessories | AJ Euro](https://ajeuro.com/collections/fashion): Shop fashion at AJ Euro — layered anklets, women's shirts, Bluetooth headbands and cosy slippers. Everyday style for France and the UK. EUR pricing.
-  Updated: 2026-05-19T08:45:38Z
+  Updated: 2026-05-22T04:14:36Z
   Total Products: 6
 - [](https://ajeuro.com/collections/): At AJ Euro, we believe great products should be accessible to everyone. Our Deals collection brings together the best current offers across all our categories — electronics, pet supplies, home goods, beauty, sports, and fashion — all in one place, updated regularly so you never miss a saving. Whether you're hunting for a discounted Bluetooth speaker, a reduced-price pet accessory, or a fashion essential at a lower cost, our deals page is the first place to look. All prices are displayed in Euros, with delivery available to France and the United Kingdom. Deals are updated frequently and stock is limited, so we recommend checking back often. Every discounted product still comes with AJ Euro's standard 30-day return policy and the same quality assurance as our full-price range. Browse all current deals below and grab your favourites before they  out.
-  Updated: 2026-05-12T08:13:13Z
+  Updated: 2026-05-22T04:14:37Z
   Total Products: 0
 
 ## Store Pages
