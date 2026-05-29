@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2021-12-17T16:53:59Z
 - Contact Email: solarvision.shop@gmail.com
-- Updated At: 2026-05-21T00:26:10.135Z
+- Updated At: 2026-05-29T00:00:25.307Z
 
 ## Products
 
@@ -1859,7 +1859,7 @@ Plongez dans l'avenir de la mode avec la collection spatiale Solar Vision
   Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/Screenshot_2025-04-01-03-51-23-29_57e717c094f371a1dada6567a1123b99.png?v=1772927846
   Price: 29,99 € EUR
 - [Kit de nettoyage](https://solarvision.fr/products/kit-de-nettoyage): Kit nettoyage lunettes Novacel : spray + chiffon microfibre pour verres propres sans traces. Idéal pour lunettes de soleil et de vue
-  Updated: 2026-05-02T16:40:47Z
+  Updated: 2026-05-26T06:16:12Z
   Vendor: Solar Vision
   Product Type: 
   Availability: Available
@@ -2148,7 +2148,7 @@ Plongez dans l'avenir de la mode avec la collection spatiale Solar Vision
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_824a70d8-4830-40ff-b842-7b4dc9c3bff1.jpg?v=1768398544
     Price: 160,00 € EUR
 - [Munich](https://solarvision.fr/products/munich): Découvrez les lunettes de soleil en acétate Solar Vision : un parfait mélange de style et de confort. Ajoutez une touche chic à votre look dès maintenant !
-  Updated: 2026-03-07T23:57:44Z
+  Updated: 2026-05-27T03:15:07Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -2168,6 +2168,10 @@ Plongez dans l'avenir de la mode avec la collection spatiale Solar Vision
   - [Brun](https://solarvision.fr/products/munich?variant=52369638424904)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_e9d74f8e-5669-446f-b8b4-b717caa5453f.jpg?v=1772927735
+    Price: 150,00 € EUR
+  - [Bordeaux](https://solarvision.fr/products/munich?variant=53185389658440)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_3f260c3f-b5f8-4a86-8d85-8a4cffbcac8b.jpg?v=1779851680
     Price: 150,00 € EUR
 - [Florence](https://solarvision.fr/products/florence): Découvrez les lunettes de soleil en acier inoxydable Solar Vision : un parfait mélange de style et de confort. Ajoutez une touche chic à votre look dès maintenant !
   Updated: 2026-03-29T00:15:48Z
@@ -2345,13 +2349,35 @@ Plongez dans l'avenir de la mode avec la collection spatiale Solar Vision
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_bff97de7-0d41-492e-945e-c7fbeeef3bbd.jpg?v=1777228282
     Price: 130,00 € EUR
-[List Continued](https://solarvision.fr/a/llms-agent/llms.txt?shop=solarvision-fr.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDAzMDQ1MDYwNjQwOCwibGFzdF92YWx1ZSI6IjEwMDMwNDUwNjA2NDA4In0%3D)
+- [Nice - Solar Vision](https://solarvision.fr/products/nice): Lunettes de Soleil Solar Vision en Acier Inoxydable - Style, Confort et Protection UV Découvrez les lunettes de soleil Solar Vision en acier inoxydable, alliant style moderne, confort et protection. Nos collections, de l'Essentiel au Luxe, répondent à tous les goûts et occasions. Matériaux Premium Acier inoxydable robuste : Pour une durabilité et une touche contemporaine. Protection UV Avancée Nos verres offrent une protection optimale contre les rayons UVA et UVB, garantissant votre sécurité au soleil. Confort Inégalé Montures ajustables : Assurent un ajustement parfait pour chaque visage. Explorez la collection Solar Vision et transformez chaque sortie en une déclaration de style avec nos lunettes de soleil en acier inoxydable. Idéales pour toutes les aventures ensoleillées, elles offrent un look sophistiqué et une protection maximale. Achetez vos lunettes de soleil Solar Vision maintenant et profitez d'une expérience visuelle exceptionnelle. - Solar Vision
+  Updated: 2026-05-27T23:37:05Z
+  Vendor: Solar Vision
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_8f8add95-ca44-4316-a9ff-cf256727475d.jpg?v=1779854803
+  - [Noir](https://solarvision.fr/products/nice?variant=53185420394824)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_1163c397-a418-45b9-9547-35bd9ab0fe99.jpg?v=1779854825
+    Price: 120,00 € EUR
+  - [Brun](https://solarvision.fr/products/nice?variant=53185420427592)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_9c9899fb-7989-48da-a4bd-b58aa397e607.jpg?v=1779854823
+    Price: 120,00 € EUR
+  - [Bleu](https://solarvision.fr/products/nice?variant=53185420460360)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_cbe04f32-27a4-42b0-b513-81685cd8bbc4.jpg?v=1779854821
+    Price: 120,00 € EUR
+  - [Gris](https://solarvision.fr/products/nice?variant=53185420493128)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_8f8add95-ca44-4316-a9ff-cf256727475d.jpg?v=1779854803
+    Price: 120,00 € EUR
+[List Continued](https://solarvision.fr/a/llms-agent/llms.txt?shop=solarvision-fr.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDA3NzMzMzI5MTMzNiwibGFzdF92YWx1ZSI6IjEwMDc3MzMzMjkxMzM2In0%3D)
 
 ## Collections
 
 - [GAMME ESSENTIELLE - Solar Vision](https://solarvision.fr/collections/gamme-essentielle): Explorez l'Élégance Quotidienne avec la Gamme Essentielle de Solar Vision. La Gamme Essentielle incarne la simplicité , conçues pour ceux qui apprécient l'élégance au quotidien. Les lignes épurées et les détails soigneusement travaillés pour ceux qui recherchent un style intemporel. - Solar Vision
-  Updated: 2026-05-13T12:27:58Z
-  Total Products: 31
+  Updated: 2026-05-27T04:07:49Z
+  Total Products: 32
 - [GAMME LUXE - Solar Vision](https://solarvision.fr/collections/gamme-luxe): Élevez votre Style avec la Gamme Luxe de Solar Vision. La Gamme Luxe représente le summum de l'élégance, chaque paire est une œuvre d'art, fusionnant design contemporain et détails luxueux. Les lunettes de la Gamme Luxe sont bien plus qu'un accessoire, elles sont une déclaration de style affirmée pour les connaisseurs exigeants. - Solar Vision
   Updated: 2026-05-13T12:27:59Z
   Total Products: 30
@@ -2359,14 +2385,14 @@ Plongez dans l'avenir de la mode avec la collection spatiale Solar Vision
   Updated: 2026-05-13T12:28:00Z
   Total Products: 8
 - [Femme - Solar Vision](https://solarvision.fr/collections/femme): Révélez votre élégance grâce à nos modèles raffinés, fusionnant glamour et tendances. Choisissez parmi nos incontournables pour un style captivant. Explorez la collection et faites resplendir votre look. - Solar Vision
-  Updated: 2026-05-13T12:28:00Z
-  Total Products: 59
+  Updated: 2026-05-27T04:08:14Z
+  Total Products: 60
 - [Homme - Solar Vision](https://solarvision.fr/collections/homme): Découvrez l'essence du style masculin, des designs alliant élégance et performance. Choisissez parmi nos favoris pour une allure distinctive. Adoptez le look qui vous distingue. - Solar Vision
-  Updated: 2026-05-13T12:28:01Z
-  Total Products: 74
+  Updated: 2026-05-27T04:08:14Z
+  Total Products: 75
 - [Nouveautés - Solar Vision](https://solarvision.fr/collections/nouveautes): Découvrez nos dernières collections, alliant designs modernes et confort exceptionnel. Restez à la pointe de la mode avec nos modèles innovants. Explorez nos nouveautés dès maintenant ! - Solar Vision
-  Updated: 2026-05-13T12:28:01Z
-  Total Products: 35
+  Updated: 2026-05-27T04:07:49Z
+  Total Products: 36
 - [GAMME SPATIALE - Solar Vision](https://solarvision.fr/collections/gamme-spatiale): Découvrez l'Avenir avec la Gamme Spatiale de Solar Vision. Inspirée par l'innovation et la technologie de pointe, chaque paire offre une esthétique futuriste, parfaite pour ceux qui veulent être à la pointe de la mode. - Solar Vision
   Updated: 2026-05-13T12:28:02Z
   Total Products: 9
@@ -2380,13 +2406,13 @@ Plongez dans l'avenir de la mode avec la collection spatiale Solar Vision
   Updated: 2026-05-13T12:28:03Z
   Total Products: 3
 - [Best  Products - Solar Vision](https://solarvision.fr/collections/best--products): - Solar Vision
-  Updated: 2026-05-13T12:28:04Z
-  Total Products: 143
+  Updated: 2026-05-27T04:07:49Z
+  Total Products: 144
 - [Newest Products - Solar Vision](https://solarvision.fr/collections/newest-products): - Solar Vision
-  Updated: 2026-05-13T12:28:04Z
-  Total Products: 143
+  Updated: 2026-05-27T04:07:49Z
+  Total Products: 144
 - [Accessoires - Solar Vision](https://solarvision.fr/collections/accessoires): - Solar Vision
-  Updated: 2026-05-13T12:28:05Z
+  Updated: 2026-05-26T11:09:24Z
   Total Products: 4
 - [VISION GENESIS - Solar Vision](https://solarvision.fr/collections/lunettes-connectees): - Solar Vision
   Updated: 2026-05-13T12:28:05Z
