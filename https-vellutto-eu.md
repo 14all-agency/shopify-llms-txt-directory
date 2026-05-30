@@ -10,12 +10,12 @@
 - Contact Email: info@vellutto.eu
 - Contact Phone: +31631221023
 - Address: Torenlaan 5B, 1402 AT, Bussum
-- Updated At: 2026-05-20T06:39:21.896Z
+- Updated At: 2026-05-30T00:00:34.394Z
 
 ## Products
 
 - [Wendougee DATA S Espresso Machine, Pressure Profiling, Double Boiler](https://vellutto.eu/products/wendougee-data-s-espresso-machine): Wendougee DATA S — 2-5 days delivery in the EU/EEA, dual boiler espresso machine with gear-pump pressure & flow profiling, 2-yr warranty | Vellutto.
-  Updated: 2026-05-17T12:46:36Z
+  Updated: 2026-05-28T14:06:37Z
   Vendor: Wendougee
   Product Type: Espresso Machine
   Availability: Available
@@ -33,7 +33,7 @@
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/gray-Wendougee-Data-S-High-End-Home-Espresso-Machine-for-Caf-Quality-Brewing_Vellutto.png?v=1777636745
     Price: €3,695.00 EUR
 - [Wendougee MILO Play | 64mm Single-Dose Espresso Grinder](https://vellutto.eu/products/wendougee-milo-play): Wendougee MILO Play single-dose grinder — 64mm burrs, 400W brushless motor, variable 200–1000 RPM, micron-precise. E-Bar app. EU/EEA shipping, Vellutto.
-  Updated: 2026-05-11T12:15:38Z
+  Updated: 2026-05-23T20:27:56Z
   Vendor: Wendougee
   Product Type: Coffee Grinder
   Availability: Available
@@ -47,19 +47,12 @@
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/WendougeeMILOPlayWhiteSide_vellutto.webp?v=1777019813
     Price: €999.00 EUR
 - [WPM Primus Espresso Machine | Pressure Profiling, Gear Pump](https://vellutto.eu/products/wpm-primus-espresso-machine-with-gear-pump-pressure-profiling): WPM Primus prosumer espresso machine. 2-5 days delivery, Gear pump, pressure and flow profiling 1 to 12 bar, triple hybrid heating. shipping EU/EEA | Vellutto
-  Updated: 2026-05-19T23:07:32Z
+  Updated: 2026-05-28T14:06:16Z
   Vendor: WPM
   Product Type: Espresso Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/WPM_PRIMUS_Black_Vellutto.eu.webp?v=1777717305
-  Price: €1,979.00 EUR
-- [WPM KONOS Single Dose Conical Grinder | Conical Burrs](https://vellutto.eu/products/wpm-konos): The WPM KONOS is a 71mm single dose conical Burr grinder with adjustable RPM, anti-static tech and ultra-low retention. We ship to EU/EEA | Vellutto.
-  Updated: 2026-05-11T12:15:39Z
-  Vendor: WPM
-  Product Type: Coffee Grinder
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/WPMKONOS_Vellutto14.webp?v=1777276895
-  Price: €1,349.00 EUR
+  Price: €1,880.00 EUR
 - [Wendougee ARES 90B Commercial Grinder | EU | Vellutto](https://vellutto.eu/products/wendougee-ares-ares-90b-dc): Wendougee ARES commercial grinder with 90mm titanium burrs, grind-by-weight to ±0.2g and 5-inch IoT touchscreen. Insured shipping to EU/EEA
   Updated: 2026-05-12T19:39:05Z
   Vendor: Wendougee
@@ -74,15 +67,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/Wendougee-ARES-White_Vellutto.eu.webp?v=1777714423
     Price: €1,649.00 EUR
-- [Victoria Arduino E1 Prima EXP Espresso Machine | Vellutto](https://vellutto.eu/products/victoria-arduino-e1-prima-exp): Victoria Arduino E1 Prima EXP combines pro espresso brewing with Pure Brew filter coffee in one compact machine. Free EU shipping. Order today.
-  Updated: 2026-05-12T18:51:35Z
-  Vendor: Victoria Arduino
-  Product Type: Espressomachine
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/075d6eadc173e404e111b98e8caf4a71.avif?v=1778331511
-  Price: €6,220.00 EUR
 - [LeBrew 64mm Series Flat Burrs](https://vellutto.eu/products/lebrew-64mm-series-flat-burrs-espresso-lebrew-sweet-filter): Professional-grade 64 mm flat burrs engineered for clarity, sweetness, and consistency. DC53 tool steel, TiAlN coating, 60–62 HRC hardness, and precision 5-axis grinding deliver long life (up to 1,500–2,000 kg) and reliably uniform particle distributions—optimized in three profiles: Espresso, LeBrew Sweet, and Filter.Why upgrade to LeBrew 64mm Premium materials & heat : DC53 (Cr8Mo2SiV) tool steel, hardened to 60–62 HRC, tempered 3× after heating to ≈1040 °C for dimensional stability and wear resistance. Reinforced TiAlN coating: ~3 µm conductive coating, ≈3000 HV microhardness, stable to ≈800 °C—extends sharpness and resists heat, corrosion, and fatigue. Long service life: Rated for ~1,500–2,000 kg of coffee. Precision manufacturing: Full-grind machining with imported 5-axis equipment; parallelism and dimensional checks; CAMSIZER X2 particle analysis to validate size & shape distribution. Dialed-in flavor options: Three geometries tuned for brew method and taste—Espresso (body/structure), LeBrew Sweet (rounded sweetness, finish), Filter (clarity/clean cup).
-  Updated: 2026-05-14T05:04:14Z
+  Updated: 2026-05-22T08:37:06Z
   Vendor: LeBrew
   Product Type: Burrs
   Availability: Available
@@ -103,44 +89,44 @@
 ## Collections
 
 - [Espresso Machines with Flow Control & Pressure Profiling | Vellutto](https://vellutto.eu/collections/espresso-machines): Shop high-end espresso machines built for pressure profiling and flow control. Wendougee, WPM, ACS & more — shipped across the EU from Vellutto.
-  Updated: 2026-05-19T23:07:33Z
+  Updated: 2026-05-29T11:59:14Z
   Total Products: 10
 - [Coffee GrinderCoffee Grinders | Espresso & Filter Grinder | Vellutto](https://vellutto.eu/collections/coffee-grinder): Shop precision espresso and filter coffee grinders from WPM and Wendougee. Single-dose, low-retention, flat & conical burrs. EU & EEA shipping.
-  Updated: 2026-05-11T12:15:38Z
+  Updated: 2026-05-24T11:24:52Z
   Total Products: 5
 - [Coffee Roasting Machines | Sample, Home & Shop Roasters — Vellutto](https://vellutto.eu/collections/roasting-machines): Shop precision coffee roasting machines for home, sample, and small-shop use. Drum and hybrid roasters with profile control. EU & EEA shipping.
-  Updated: 2026-05-11T12:15:38Z
+  Updated: 2026-05-21T19:12:58Z
   Total Products: 0
-- [Accessories & Tools](https://vellutto.eu/collections/accessories-tools)
-  Updated: 2026-05-11T12:15:38Z
-  Total Products: 0
-- [All Products](https://vellutto.eu/collections/all-products)
-  Updated: 2026-05-15T09:29:58Z
-  Total Products: 2
+- [Espresso accessories & barista tools | Vellutto.eu](https://vellutto.eu/collections/accessories-tools): Shop espresso accessories and barista tools at Vellutto.eu, from tampers and milk pitchers to cleaning supplies, with fast, fully insured shipping across Europe
+  Updated: 2026-05-23T10:08:54Z
+  Total Products: 1
+- [All Products | espresso machines, grinders, accessories  | Vellutto.eu](https://vellutto.eu/collections/all-products): Browse all products at Vellutto, premium Wendougee espresso machines to WPM grinders and El Rocio equipment and more, fully insured shipping across Europe.
+  Updated: 2026-05-29T11:59:14Z
+  Total Products: 15
 - [Wendougee | pressure and flow control espresso machine](https://vellutto.eu/collections/wendougee): Shop Wendougee espresso machines — dual boiler, gear pump, pressure profiling flow control & app control. DATA S, LITA, Sdragon. EU/EEA shipping | Vellutto
-  Updated: 2026-05-19T18:32:20Z
+  Updated: 2026-05-26T11:31:12Z
   Total Products: 8
-- [Brands](https://vellutto.eu/collections/brands-1)
-  Updated: 2026-05-12T18:52:52Z
+- [Brands | Wendougee, WPM, ACS & More | Vellutto.eu](https://vellutto.eu/collections/brands): Discover all the brands we  at Vellutto.eu, including Wendougee, WPM, ACS and more, shipping EU‑EEA wide for serious home baristas.
+  Updated: 2026-05-23T09:39:19Z
   Total Products: 0
 - [WPM Pressure Profiling Espresso Machines & coffee Grinders](https://vellutto.eu/collections/wpm): WPM espresso machines and single-dose grinders — gear pump pressure profiling, hybrid heating, and iF Design Award-winning engineering. EU shipping | Vellutto
-  Updated: 2026-05-19T23:07:33Z
+  Updated: 2026-05-25T19:37:37Z
   Total Products: 3
-- [El Rocio](https://vellutto.eu/collections/el-rocio)
-  Updated: 2026-05-19T16:05:25Z
+- [El Rocio | espresso machines from Korea | Vellutto.eu](https://vellutto.eu/collections/el-rocio): Discover El Rocio espresso machines from Hwaseong, South Korea, with 4H heating, DGH group technology and hand-built stainless construction for cafés and serious home baristas in Europe.
+  Updated: 2026-05-23T18:19:54Z
   Total Products: 1
 - [Victoria Arduino](https://vellutto.eu/collections/victoria-arduino)
-  Updated: 2026-05-12T18:52:37Z
+  Updated: 2026-05-23T10:12:53Z
   Total Products: 1
-- [ACS](https://vellutto.eu/collections/acs)
-  Updated: 2026-05-12T18:52:28Z
+- [ACS | espresso machines from Naples | Vellutto.eu](https://vellutto.eu/collections/acs): Discover ACS (Advanced Coffee Solution) espresso machines from Naples: dual boiler, lever and pressure-profiling technology for serious home baristas and small cafés across Europe.
+  Updated: 2026-05-23T09:56:06Z
   Total Products: 0
 
 ## Blogs
 
 - [Blog](https://vellutto.eu/blogs/news)
-  - [How to Steam Milk with Microfoam for Latte Art (2026 Guide): Step-by-Step + Science Explained](https://vellutto.eu/blogs/news/how-to-steam-milk-with-microfoam-for-latte-art-2026-guide-step-by-step-science-explained): <p><meta charset="utf-8">Great latte art starts with the milk, not the pour. Master micro-foam in five moves: start cold, stretch with a hiss, spin a whirlpool, stop at 60°C, then tap and swirl. The science is simple — proteins wrap around air bubbles when heated just right. Get it dialed, and espresso becomes art.</p>
-    Updated: 2026-05-12T19:39:05Z
+  - [How to Steam Milk with Microfoam for Latte Art](https://vellutto.eu/blogs/news/how-to-steam-milk-with-microfoam-for-latte-art-2026-guide-step-by-step-science-explained): <p><meta charset="utf-8">Great latte art starts with the milk, not the pour. Master micro-foam in five moves: start cold, stretch with a hiss, spin a whirlpool, stop at 60°C, then tap and swirl. The science is simple — proteins wrap around air bubbles when heated just right. Get it dialed, and espresso becomes art.</p>
+    Updated: 2026-05-21T10:41:13Z
     Author: Amro Albadich
     Tags: Steam Milk
 
