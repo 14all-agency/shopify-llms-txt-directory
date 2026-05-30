@@ -43,7 +43,7 @@ The website includes an interactive jewelry builder that helps customers preview
 - Contact Email: emeloul@aol.com
 - Contact Phone: (800)709-9445
 - Address: Central Diamond Center, 818 South Central Expressway, Suite 1 Richardson, Texas 75080, USA
-- Updated At: 2026-05-20T06:39:25.468Z
+- Updated At: 2026-05-30T00:00:36.647Z
 
 # Mama’s Ring
 
@@ -472,8 +472,8 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-05-08T22:11:19Z
   Price: $59.00 USD
 - [Couples Heart Pendant with 2 Simulated Birthstones & 22" Box Chain](https://mamasring.com/products/couples-2-stone-heart-pendant-w-simulated-birthstones-includes-0-8mm-22-adj-box-chain): Romantic 2-stone heart pendant with simulated birthstones and 22" adjustable box chain — perfect for couples.
-  Updated: 2026-05-08T22:11:19Z
-  Price: $79.95 USD
+  Updated: 2026-05-23T13:31:45Z
+  Price: $99.95 USD
 - [Halo Earring & Necklace Set in Sterling Silver with Zirconia Stones](https://mamasring.com/products/nana-jewels-halo-earring-necklace-set-solid-sterling-silver-w-pure-brilliance-zirconia-hypoallergenic): Elegant halo earring & necklace set in solid sterling silver with Pure Brilliance Zirconia. Hypoallergenic, perfect for daily wear or gifting.
   Updated: 2026-05-08T22:11:19Z
   Price: $109.95 USD — $116.95 USD
@@ -567,9 +567,6 @@ The website includes interactive customization tools that allow customers to pre
 - [Infinity Mother & Child Birthstone Necklace – 1 to 12 Stones](https://mamasring.com/products/yours-infinity-mother-child-birthstone-necklace-w-1-to-12-stones-in-silver-10k-or-14k-gold): Celebrate family love with our infinity necklace. Custom birthstones (1–12) in Silver, 10K or 14K Gold.
   Updated: 2026-05-08T22:11:28Z
   Price: $134.95 USD
-- [Ultimate Heart of Hearts Mother’s Locket Necklace in Sterling Silver](https://mamasring.com/products/nana-jewels-ultimate-heart-of-hearts-mothers-locket-necklace-pendant-in-sterling-silver-mother-of-pearl): Elegant sterling silver locket with mother of pearl and Heart of Hearts design — a perfect keepsake for moms.
-  Updated: 2026-05-08T22:11:29Z
-  Price: $109.95 USD
 - [Halo Tower Mothers Necklace with 3–6 Birthstones in Silver or Gold](https://mamasring.com/products/nana-jewels-halo-tower-mothers-necklace-w-3-to-6-simulated-birthstones-in-silver-10k-or-14k-gold): Celebrate motherhood with a Halo Tower necklace featuring 3–6 simulated birthstones in silver or gold.
   Updated: 2026-05-08T22:11:29Z
   Price: $99.95 USD
@@ -830,8 +827,8 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-05-08T22:07:47Z
   Total Products: 7
 - [All Products New](https://mamasring.com/collections/all-products-new)
-  Updated: 2026-05-14T01:02:02Z
-  Total Products: 5766
+  Updated: 2026-05-25T11:32:01Z
+  Total Products: 5919
 - [Necklace](https://mamasring.com/collections/necklace)
   Updated: 2026-05-08T22:07:47Z
   Total Products: 67
@@ -887,7 +884,7 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-05-08T22:07:48Z
   Total Products: 11
 - [Couples Birthstones Necklace](https://mamasring.com/collections/couples-birthstones-necklace)
-  Updated: 2026-05-08T22:07:49Z
+  Updated: 2026-05-23T13:31:46Z
   Total Products: 3
 - [Birthstone Necklaces](https://mamasring.com/collections/birthstone-necklaces)
   Updated: 2026-05-08T22:07:49Z
@@ -926,19 +923,19 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-05-08T22:07:50Z
   Total Products: 1
 - [Mothers Day ](https://mamasring.com/collections/mothers-day-)
-  Updated: 2026-05-08T22:07:50Z
+  Updated: 2026-05-23T13:56:14Z
   Total Products: 451
 - [All Products](https://mamasring.com/collections/all-products)
-  Updated: 2026-05-14T01:02:02Z
+  Updated: 2026-05-23T13:31:46Z
   Total Products: 207
 - [No Returns](https://mamasring.com/collections/no-returns)
-  Updated: 2026-05-08T22:07:50Z
-  Total Products: 4021
+  Updated: 2026-05-25T11:32:01Z
+  Total Products: 4174
 - [Personalized Family Jewelry](https://mamasring.com/collections/personalized-family-jewelry)
   Updated: 2026-05-08T22:07:50Z
   Total Products: 20
 - [New Christmas ](https://mamasring.com/collections/new-christmas-)
-  Updated: 2026-05-08T22:07:50Z
+  Updated: 2026-05-23T13:56:14Z
   Total Products: 205
 - [Birthstone Products](https://mamasring.com/collections/birthstone-products)
   Updated: 2026-05-08T22:07:50Z
@@ -965,7 +962,7 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-05-09T11:25:14Z
   Total Products: 18
 - [$10 Off  Collection](https://mamasring.com/collections/mothers-day--2026)
-  Updated: 2026-05-08T22:07:51Z
+  Updated: 2026-05-23T13:31:46Z
   Total Products: 63
 - [20% Off  Collection](https://mamasring.com/collections/20-off-collection)
   Updated: 2026-05-08T22:07:51Z
@@ -999,8 +996,8 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-04-23T04:49:37Z
 - [ Your Jewelry](https://mamasring.com/pages/-your-jewelry)
   Updated: 2026-05-19T10:33:26Z
-- [Gold Buying Page](https://mamasring.com/pages/gold-buying-page)
-  Updated: 2026-05-20T05:08:40Z
+- [Gold Buying Page](https://mamasring.com/pages/gold-buying-page): /* ========================================================= SHOPIFY FIXES ========================================================= */ html, body,...
+  Updated: 2026-05-20T07:31:27Z
 
 ## Policies
 
@@ -1039,11 +1036,6 @@ The website includes interactive customization tools that allow customers to pre
 
 - [robots.txt](https://mamasring.com/robots.txt)
 - [sitemap.xml](https://mamasring.com/sitemap.xml)
-
-Mama’s Ring is operated by Central Diamond Center with decades of jewelry craftsmanship experience. The brand focuses on personalized gifting, emotional storytelling, and premium-quality custom jewelry for special occasions including Mother’s Day, anniversaries, birthdays, weddings, and family celebrations.
-
-Official Website:
-https://mamasring.com/
 
 # Agent Instructions
 
@@ -1121,3 +1113,8 @@ your agent can transact everywhere.
 - Shopify developer platform: https://shopify.dev
 - UCP specification: https://ucp.dev
 - Shop skill (recommended for personal shopping agents): https://shop.app/SKILL.md
+
+Mama’s Ring is operated by Central Diamond Center with decades of jewelry craftsmanship experience. The brand focuses on personalized gifting, emotional storytelling, and premium-quality custom jewelry for special occasions including Mother’s Day, anniversaries, birthdays, weddings, and family celebrations.
+
+Official Website:
+https://mamasring.com/
