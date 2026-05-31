@@ -10,7 +10,7 @@
 - Contact Email: ekaacouture@gmail.com
 - Contact Phone: 5713150058
 - Address: 3065 C Centreville Road Herndon VA 20171
-- Updated At: 2026-05-20T12:51:01.998Z
+- Updated At: 2026-05-31T00:00:48.858Z
 
 ## Products
 
@@ -2615,11 +2615,11 @@
   Updated: 2026-04-01T19:08:00Z
   Total Products: 17
 - [Boutique women's clothing in USA | MOHAR](https://www.moharbyec.com/collections/women): Discover your perfect style at MOHAR, the top boutique for women's clothing in the USA. Explore a curated collection of trendy and timeless fashion pieces, designed to elevate your wardrobe. Shop now to experience premium quality and impeccable style.
-  Updated: 2026-05-17T22:07:06Z
-  Total Products: 1196
+  Updated: 2026-05-30T17:15:27Z
+  Total Products: 1209
 - [Indian Lehenga Choli in USA | MOHAR](https://www.moharbyec.com/collections/lehenga): Elevate your style with MOHAR's exquisite collection of Indian Lehenga Choli in the USA. Discover a fusion of tradition and contemporary trends, handcrafted to perfection. Step into the spotlight with our enchanting designs and make heads turn at every event. Shop now!
-  Updated: 2026-05-14T09:23:18Z
-  Total Products: 706
+  Updated: 2026-05-30T17:15:27Z
+  Total Products: 719
 - [Indian Traditional Saree in USA | MOHAR](https://www.moharbyec.com/collections/saree): Experience the grace and beauty of Indian Traditional Sarees at MOHAR - your ultimate destination for ethnic wear in the USA. Browse our handpicked collection of exquisite sarees, each a masterpiece of craftsmanship. Step into the world of elegance and shop now!
   Updated: 2026-04-01T19:08:02Z
   Total Products: 58
@@ -2645,11 +2645,11 @@
   Updated: 2026-01-29T22:41:22Z
   Total Products: 4
 - [Ready to Ship Indian boutique jewelry in USA | MOHAR](https://www.moharbyec.com/collections/ready-to-ship): Adorn yourself with the brilliance of Ready-to-Ship Indian Boutique Jewelry from MOHAR in the USA. Explore our curated collection, featuring exquisite designs handcrafted to perfection. Shop now and experience express delivery.
-  Updated: 2026-05-17T22:07:06Z
-  Total Products: 750
+  Updated: 2026-05-30T17:15:27Z
+  Total Products: 763
 - [Indian boutique Lehenga in USA | MOHAR](https://www.moharbyec.com/collections/lehenga-2): Step into a world of elegance with MOHAR's Indian Boutique Lehenga collection in the USA. Discover exquisite designs and timeless craftsmanship, tailored to perfection. Elevate your style with our stunning lehengas, perfect for weddings and special occasions. Shop now!
-  Updated: 2026-05-14T09:23:18Z
-  Total Products: 676
+  Updated: 2026-05-30T17:15:27Z
+  Total Products: 689
 - [Diwali Diya](https://www.moharbyec.com/collections/diwali-diya): We bring designer diyas for Diwali. Use these with wax tea lights or battery operated lights. Bring the festive celebration to your house!
   Updated: 2026-04-01T19:08:03Z
   Total Products: 5
@@ -2666,8 +2666,8 @@
   Updated: 2026-01-29T22:41:22Z
   Total Products: 0
 - [Lehenga Ready to Ship | Indian dresses in USA | MOHAR](https://www.moharbyec.com/collections/lehenga-ready-to-ship): At MOHAR, find your dream Lehenga Ready to Ship! Explore our stunning collection of Indian dresses in the USA, crafted to perfection. Get ready to dazzle in traditional elegance with a modern twist. Don't wait – shop now and experience express delivery for your special occasions.
-  Updated: 2026-05-14T09:14:27Z
-  Total Products: 134
+  Updated: 2026-05-30T17:15:27Z
+  Total Products: 143
 - [Sherwani Ready to Ship](https://www.moharbyec.com/collections/sherwani-ready-to-ship)
   Updated: 2026-05-15T19:14:38Z
   Total Products: 63
@@ -2714,8 +2714,8 @@
   Updated: 2026-04-01T19:08:08Z
   Total Products: 0
 - [Products](https://www.moharbyec.com/collections/all)
-  Updated: 2026-05-17T22:07:06Z
-  Total Products: 1614
+  Updated: 2026-05-30T17:15:27Z
+  Total Products: 1627
 - [Co-ord Sets](https://www.moharbyec.com/collections/co-ord-sets)
   Updated: 2026-04-01T19:08:08Z
   Total Products: 0
@@ -2726,8 +2726,8 @@
   Updated: 2026-04-01T19:08:08Z
   Total Products: 0
 - [New Arrivals](https://www.moharbyec.com/collections/new-arrivals)
-  Updated: 2026-05-17T22:07:07Z
-  Total Products: 317
+  Updated: 2026-05-30T17:15:27Z
+  Total Products: 325
 - [bridal lehenga](https://www.moharbyec.com/collections/bridal-lehenga)
   Updated: 2026-04-15T11:07:46Z
   Total Products: 9
@@ -2777,8 +2777,8 @@
   Updated: 2026-05-17T22:06:37Z
   Total Products: 51
 - [Ceremony - Ladies](https://www.moharbyec.com/collections/ceremony-ladies)
-  Updated: 2026-05-15T02:16:29Z
-  Total Products: 136
+  Updated: 2026-05-30T17:15:27Z
+  Total Products: 149
 - [Reception- Ladies](https://www.moharbyec.com/collections/reception-ladies)
   Updated: 2026-05-15T02:20:34Z
   Total Products: 189
