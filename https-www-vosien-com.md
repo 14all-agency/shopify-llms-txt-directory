@@ -6,26 +6,26 @@
 - Timezone: Europe/Zurich
 - Created At: 2026-04-25T15:45:49Z
 - Contact Email: support@vosien.com
-- Updated At: 2026-05-24T00:00:38.792Z
+- Updated At: 2026-05-31T00:00:39.939Z
 
 ## Products
 
 - [Argan Gloss Anti-Frizz Hair Serum for Smooth Shine](https://www.vosien.com/products/moroccan-hair-oil-for-anti-frizz-hair-serum): Discover the Argan Gloss anti-frizz hair serum that tames frizz and adds instant shine for beautifully smooth hair all day.
-  Updated: 2026-05-14T11:48:38Z
+  Updated: 2026-05-27T03:09:14Z
   Vendor: Vosien
   Product Type: Hair serum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/0604/4793/files/ChatGPT_Image_7_mai_2026_17_14_03.png?v=1778167306
   Price: £24.00 GBP
 - [Smooth Hair Cream for Silky, Frizz-Free Hair](https://www.vosien.com/products/smooth-hair-cream): Discover our smooth hair cream that tames frizz and adds lasting shine for all hair types. Perfect for sleek, manageable hair every day.
-  Updated: 2026-05-14T11:48:38Z
+  Updated: 2026-05-27T03:09:14Z
   Vendor: Vosien
   Product Type: Hair serum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/0604/4793/files/88059e77-abd0-440f-9708-0d1e28fdc101.webp?v=1777664525
   Price: £29.00 GBP
 - [GoldenDrop Self-Tan Concentrate](https://www.vosien.com/products/goldendrop-self-tan-concentrate): Buildable, foolproof colour for every skin tone. Pharmaceutical-grade DHA in a moisturising micro-emulsion — add 2–4 drops to your moisturiser and wake up to a natural, even glow. 30ml bottle — approximately 90 nights of glow Vegan, cruelty-free, paraben & sulphate free Works on all skin tones — you control the depth
-  Updated: 2026-05-20T09:06:50Z
+  Updated: 2026-05-27T03:09:15Z
   Vendor: GoldenDrop
   Product Type: Self-Tanner
   Availability: Available
@@ -40,14 +40,14 @@
     Availability: Available
     Price: £75.00 GBP
 - [GoldenDrop Self-Tanning Lotion](https://www.vosien.com/products/goldendrop-self-tanning-lotion): All-over face & body lotion that hydrates, tightens, and locks in a lasting glow. The perfect daily companion to your Self-Tan Drops.
-  Updated: 2026-05-20T09:06:50Z
+  Updated: 2026-05-27T03:09:15Z
   Vendor: GoldenDrop
   Product Type: Self-Tanner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/0604/4793/files/mitt-1.jpg?v=1778761733
   Price: £15.00 GBP
 - [Natural Carrot Tanning Accelerator Gel](https://www.vosien.com/products/natural-carrot-tanning-accelerator-gel): Carrot-extract accelerator gel that nourishes skin while building a natural sunless bronze. Long-lasting hydration for face and body — use daily for a buildable, long-lasting glow. Long-lasting natural bronze Carrot-extract nourishment Face & body daily skincare
-  Updated: 2026-05-20T21:06:15Z
+  Updated: 2026-05-27T03:09:15Z
   Vendor: GoldenDrop
   Product Type: Tanning Accelerator
   Availability: Available
@@ -57,10 +57,10 @@
 ## Collections
 
 - [Home page - Vosien](https://www.vosien.com/collections/frontpage): - Vosien
-  Updated: 2026-05-14T22:48:01Z
+  Updated: 2026-05-26T23:00:30Z
   Total Products: 1
 - [Glass Hair Ritual - Vosien](https://www.vosien.com/collections/personal-care): - Vosien
-  Updated: 2026-05-14T22:48:01Z
+  Updated: 2026-05-26T23:00:31Z
   Total Products: 2
 
 ## Store Pages
