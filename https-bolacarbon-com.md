@@ -8,7 +8,7 @@
 - Contact Email: info@bola-bicycle.com
 - Contact Phone: +8618059256592
 - Address: Xiamen,Fujian,China
-- Updated At: 2026-05-25T03:20:32.774Z
+- Updated At: 2026-06-01T03:53:59.239Z
 
 Bola Carbon Wheelset,Bola Carbon Bike Rim,Bola carbon rim OEM
 
@@ -470,1032 +470,354 @@ Bola Carbon Wheelset,Bola Carbon Bike Rim,Bola carbon rim OEM
   - [Marble Glossy / Compy 10s / Customized](https://bolacarbon.com/products/29er-carbon-mtb-wheelset-dt350-30mm-internal-tubeless?variant=48131758391550)
     Availability: Available
     Price: $830.00 USD
-- [38mm Carbon Tubeless Rim Brake Wheelset 700C | 1477g](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake): 38mm carbon tubeless 700C road wheelset, 1,477g. 25mm wide, rim brake, EN 14781 tested, 100kg rider max. Optimized for endurance and climbing.
-  Updated: 2026-05-12T01:29:59Z
+- [Bola ST 40C 40mm Carbon Rim Brake Wheelset | 1330g Tubeless DT350S](https://bolacarbon.com/products/bola-st-40c-dt-swiss-350s-carbon-road-wheelset-40mm-rim-brake-tubeless-25mm-28mm-wide-1330g): Lightweight 40mm carbon tubeless rim brake wheelset—EN 14781 , 1330g, DT Swiss 350S hubs, 25/28mm widths. Endurance, climbing, daily cycling.
+  Updated: 2026-05-26T19:05:56Z
   Vendor: Carbon Fiber Sporting Goods
-  Product Type: Road Bike Carbon Wheelsets
+  Product Type: Carbon Road Bike Wheelsets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/white_bola_38mm_rim_brake_wheelset.png?v=1778486518
-  - [UD Matt / Shimano 11s / Black Bola](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647572381950)
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/blackboladt350rimbrakewheelset.png?v=1779779019
+  - [17/25 mm / Shimano HG / Black Bola](https://bolacarbon.com/products/bola-st-40c-dt-swiss-350s-carbon-road-wheelset-40mm-rim-brake-tubeless-25mm-28mm-wide-1330g?variant=42647572381950)
     Availability: Available
-    Price: $490.00 USD
-  - [UD Matt / Shimano 11s / White Bola](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647572414718)
-    Availability: Available
-    Price: $490.00 USD
-  - [UD Matt / Shimano 11s / Customized](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647572447486)
-    Availability: Available
-    Price: $490.00 USD
-  - [UD Matt / Sram 11s / Black Bola](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647572513022)
-    Availability: Available
-    Price: $490.00 USD
-  - [UD Matt / Sram 11s / White Bola](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647572545790)
-    Availability: Available
-    Price: $490.00 USD
-  - [UD Matt / Sram 11s / Customized](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647572578558)
-    Availability: Available
-    Price: $490.00 USD
-  - [UD Matt / Compy 10s / Black Bola](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647572644094)
-    Availability: Available
-    Price: $490.00 USD
-  - [UD Matt / Compy 10s / White Bola](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647572676862)
-    Availability: Available
-    Price: $490.00 USD
-  - [UD Matt / Compy 10s / Customized](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647572709630)
-    Availability: Available
-    Price: $490.00 USD
-  - [UD Glossy / Shimano 11s / Black Bola](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647572775166)
-    Availability: Available
-    Price: $490.00 USD
-  - [UD Glossy / Shimano 11s / White Bola](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647572807934)
-    Availability: Available
-    Price: $490.00 USD
-  - [UD Glossy / Shimano 11s / Customized](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647572840702)
-    Availability: Available
-    Price: $490.00 USD
-  - [UD Glossy / Sram 11s / Black Bola](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647572906238)
-    Availability: Available
-    Price: $490.00 USD
-  - [UD Glossy / Sram 11s / White Bola](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647572939006)
-    Availability: Available
-    Price: $490.00 USD
-  - [UD Glossy / Sram 11s / Customized](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647572971774)
-    Availability: Available
-    Price: $490.00 USD
-  - [UD Glossy / Compy 10s / Black Bola](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647573037310)
-    Availability: Available
-    Price: $490.00 USD
-  - [UD Glossy / Compy 10s / White Bola](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647573070078)
-    Availability: Available
-    Price: $490.00 USD
-  - [UD Glossy / Compy 10s / Customized](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647573102846)
-    Availability: Available
-    Price: $490.00 USD
-  - [3K Matt / Shimano 11s / Black Bola](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647617437950)
-    Availability: Available
-    Price: $490.00 USD
-  - [3K Matt / Shimano 11s / White Bola](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647617470718)
-    Availability: Available
-    Price: $490.00 USD
-  - [3K Matt / Shimano 11s / Customized](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647617503486)
-    Availability: Available
-    Price: $490.00 USD
-  - [3K Matt / Sram 11s / Black Bola](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647617569022)
-    Availability: Available
-    Price: $490.00 USD
-  - [3K Matt / Sram 11s / White Bola](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647617601790)
-    Availability: Available
-    Price: $490.00 USD
-  - [3K Matt / Sram 11s / Customized](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647617634558)
-    Availability: Available
-    Price: $490.00 USD
-  - [3K Matt / Compy 10s / Black Bola](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647617700094)
-    Availability: Available
-    Price: $490.00 USD
-  - [3K Matt / Compy 10s / White Bola](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647617732862)
-    Availability: Available
-    Price: $490.00 USD
-  - [3K Matt / Compy 10s / Customized](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647617765630)
-    Availability: Available
-    Price: $490.00 USD
-  - [3K Glossy / Shimano 11s / Black Bola](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647617831166)
-    Availability: Available
-    Price: $490.00 USD
-  - [3K Glossy / Shimano 11s / White Bola](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647617863934)
-    Availability: Available
-    Price: $490.00 USD
-  - [3K Glossy / Shimano 11s / Customized](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647617896702)
-    Availability: Available
-    Price: $490.00 USD
-  - [3K Glossy / Sram 11s / Black Bola](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647617962238)
-    Availability: Available
-    Price: $490.00 USD
-  - [3K Glossy / Sram 11s / White Bola](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647617995006)
-    Availability: Available
-    Price: $490.00 USD
-  - [3K Glossy / Sram 11s / Customized](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647618027774)
-    Availability: Available
-    Price: $490.00 USD
-  - [3K Glossy / Compy 10s / Black Bola](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647618093310)
-    Availability: Available
-    Price: $490.00 USD
-  - [3K Glossy / Compy 10s / White Bola](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647618126078)
-    Availability: Available
-    Price: $490.00 USD
-  - [3K Glossy / Compy 10s / Customized](https://bolacarbon.com/products/bola-38mm-carbon-tubeless-road-wheelset-700c-25mm-outer-wide-rim-brake?variant=42647618158846)
-    Availability: Available
-    Price: $490.00 USD
-- [700C 38mm Carbon Rim Brake Wheelset DT350 Tubeless 25mm](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready): 38mm deep 700C carbon rim brake wheelset, 25mm external width, tubeless ready, DT350 hubs, Sapim CX-Ray spokes, EN 14781 , 1465g/pair, max 100kg rider.
-  Updated: 2026-05-22T19:02:23Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Road Bike Wheelsets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/bola_38mm_carbon_rim_brake_wheelset_dt350_1e7a1bda-5250-4bf9-a047-f8bda68699bb.png?v=1778485740
-  - [UD Matt / Shimano HG / Black Bola](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647643619582)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Matt / Shimano HG / White Bola](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647643652350)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Matt / Shimano HG / Customized](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647643685118)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Matt / Sram  XDR / Black Bola](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647643750654)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Matt / Sram  XDR / White Bola](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647643783422)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Matt / Sram  XDR / Customized](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647643816190)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Matt / Compy / Black Bola](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647643881726)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Matt / Compy / White Bola](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647643914494)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Matt / Compy / Customized](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647643947262)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Glossy / Shimano HG / Black Bola](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647644012798)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Glossy / Shimano HG / White Bola](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647644045566)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Glossy / Shimano HG / Customized](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647644078334)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Glossy / Sram  XDR / Black Bola](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647644143870)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Glossy / Sram  XDR / White Bola](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647644176638)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Glossy / Sram  XDR / Customized](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647644209406)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Glossy / Compy / Black Bola](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647644274942)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Glossy / Compy / White Bola](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647644307710)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Glossy / Compy / Customized](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647644340478)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Matt / Shimano HG / Black Bola](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647644406014)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Matt / Shimano HG / White Bola](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647644438782)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Matt / Shimano HG / Customized](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647644471550)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Matt / Sram  XDR / Black Bola](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647644537086)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Matt / Sram  XDR / White Bola](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647644569854)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Matt / Sram  XDR / Customized](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647644602622)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Matt / Compy / Black Bola](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647644668158)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Matt / Compy / White Bola](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647644700926)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Matt / Compy / Customized](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647644733694)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Glossy / Shimano HG / Black Bola](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647644799230)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Glossy / Shimano HG / White Bola](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647644831998)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Glossy / Shimano HG / Customized](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647644864766)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Glossy / Sram  XDR / Black Bola](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647644930302)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Glossy / Sram  XDR / White Bola](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647644963070)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Glossy / Sram  XDR / Customized](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647644995838)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Glossy / Compy / Black Bola](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647645094142)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Glossy / Compy / White Bola](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647645126910)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Glossy / Compy / Customized](https://bolacarbon.com/products/700c-38mm-carbon-climbing-rim-brake-wheelset-25mm-outer-wide-dt350-tubeless-ready?variant=42647645159678)
-    Availability: Available
-    Price: $860.00 USD
-- [700C Carbon Tubeless Disc Brake Wheelset 38mm–28mm Wide,Ratchet 54T](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull): 700C carbon tubeless wheelset, 38mm deep, 28mm internal, 1480g. Disc brake  central lock, Ratchet 54T hub, 25–45c tire compatibility.
-  Updated: 2026-05-12T01:24:11Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Cycling > Wheels & Wheelsets > Road & Gravel Carbon Wheelsets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/products/35.jpg?v=1649410887
-  - [UD Matt / Shimano 11s / Black Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647717085438)
-    Availability: Available
-    Price: $630.00 USD
-  - [UD Matt / Shimano 11s / White Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647717118206)
-    Availability: Available
-    Price: $630.00 USD
-  - [UD Matt / Shimano 11s / Customized](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647717150974)
-    Availability: Available
-    Price: $630.00 USD
-  - [UD Matt / Sram 11s / Black Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647717216510)
-    Availability: Available
-    Price: $630.00 USD
-  - [UD Matt / Sram 11s / White Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647717249278)
-    Availability: Available
-    Price: $630.00 USD
-  - [UD Matt / Sram 11s / Customized](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647717282046)
-    Availability: Available
-    Price: $630.00 USD
-  - [UD Matt / Compy 10s / Black Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647717347582)
-    Availability: Available
-    Price: $630.00 USD
-  - [UD Matt / Compy 10s / White Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647717380350)
-    Availability: Available
-    Price: $630.00 USD
-  - [UD Matt / Compy 10s / Customized](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647717413118)
-    Availability: Available
-    Price: $630.00 USD
-  - [UD Glossy / Shimano 11s / Black Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647717478654)
-    Availability: Available
-    Price: $630.00 USD
-  - [UD Glossy / Shimano 11s / White Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647717511422)
-    Availability: Available
-    Price: $630.00 USD
-  - [UD Glossy / Shimano 11s / Customized](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647717544190)
-    Availability: Available
-    Price: $630.00 USD
-  - [UD Glossy / Sram 11s / Black Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647717609726)
-    Availability: Available
-    Price: $630.00 USD
-  - [UD Glossy / Sram 11s / White Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647717642494)
-    Availability: Available
-    Price: $630.00 USD
-  - [UD Glossy / Sram 11s / Customized](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647717675262)
-    Availability: Available
-    Price: $630.00 USD
-  - [UD Glossy / Compy 10s / Black Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647717740798)
-    Availability: Available
-    Price: $630.00 USD
-  - [UD Glossy / Compy 10s / White Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647717773566)
-    Availability: Available
-    Price: $630.00 USD
-  - [UD Glossy / Compy 10s / Customized](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647717806334)
-    Availability: Available
-    Price: $630.00 USD
-  - [Marble Matt / Shimano 11s / Black Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647717871870)
-    Availability: Available
-    Price: $630.00 USD
-  - [Marble Matt / Shimano 11s / White Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647717904638)
-    Availability: Available
-    Price: $630.00 USD
-  - [Marble Matt / Shimano 11s / Customized](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647717937406)
-    Availability: Available
-    Price: $630.00 USD
-  - [Marble Matt / Sram 11s / Black Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647718002942)
-    Availability: Available
-    Price: $630.00 USD
-  - [Marble Matt / Sram 11s / White Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647718035710)
-    Availability: Available
-    Price: $630.00 USD
-  - [Marble Matt / Sram 11s / Customized](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647718068478)
-    Availability: Available
-    Price: $630.00 USD
-  - [Marble Matt / Compy 10s / Black Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647718134014)
-    Availability: Available
-    Price: $630.00 USD
-  - [Marble Matt / Compy 10s / White Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647718166782)
-    Availability: Available
-    Price: $630.00 USD
-  - [Marble Matt / Compy 10s / Customized](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647718199550)
-    Availability: Available
-    Price: $630.00 USD
-  - [Marble Glossy / Shimano 11s / Black Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647718265086)
-    Availability: Available
-    Price: $630.00 USD
-  - [Marble Glossy / Shimano 11s / White Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647718297854)
-    Availability: Available
-    Price: $630.00 USD
-  - [Marble Glossy / Shimano 11s / Customized](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647718330622)
-    Availability: Available
-    Price: $630.00 USD
-  - [Marble Glossy / Sram 11s / Black Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647718396158)
-    Availability: Available
-    Price: $630.00 USD
-  - [Marble Glossy / Sram 11s / White Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647718428926)
-    Availability: Available
-    Price: $630.00 USD
-  - [Marble Glossy / Sram 11s / Customized](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647718461694)
-    Availability: Available
-    Price: $630.00 USD
-  - [Marble Glossy / Compy 10s / Black Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647718527230)
-    Availability: Available
-    Price: $630.00 USD
-  - [Marble Glossy / Compy 10s / White Bola](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647718559998)
-    Availability: Available
-    Price: $630.00 USD
-  - [Marble Glossy / Compy 10s / Customized](https://bolacarbon.com/products/700c-carbon-tubeless-disc-wheelset-38mm-28mm-wide-ratchet-straight-pull?variant=42647718592766)
-    Availability: Available
-    Price: $630.00 USD
-- [50mm Carbon Rim Brake Road Wheelset, DT350 Hubs, Tubeless](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide): 50mm carbon rim brake road wheelset with 25mm wide Toray T700 carbon rim, DT Swiss 350 hub, Sapim CX-Ray spokes. Tubeless ready, 1,550g per set, max 120kg rider, for racing, endurance, and training.
-  Updated: 2026-05-22T18:59:21Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Road Bike Carbon Wheelsets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/bola_dt350_carbon_rim_brake_wheelset.png?v=1779429110
-  - [UD Matt / Shimano HG / Black Bola](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658140061950)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Matt / Shimano HG / White Bola](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658140127486)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Matt / Shimano HG / Customized](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658140160254)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Matt / Sram  XDR / Black Bola](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658140193022)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Matt / Sram  XDR / White Bola](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658140258558)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Matt / Sram  XDR / Customized](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658140291326)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Matt / Compy / Black Bola](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658140324094)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Matt / Compy / White Bola](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658140389630)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Matt / Compy / Customized](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658140455166)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Glossy / Shimano HG / Black Bola](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658140487934)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Glossy / Shimano HG / White Bola](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658140553470)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Glossy / Shimano HG / Customized](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658140586238)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Glossy / Sram  XDR / Black Bola](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658140619006)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Glossy / Sram  XDR / White Bola](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658140684542)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Glossy / Sram  XDR / Customized](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658140717310)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Glossy / Compy / Black Bola](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658140750078)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Glossy / Compy / White Bola](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658140815614)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Glossy / Compy / Customized](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658140848382)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Matt / Shimano HG / Black Bola](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658140881150)
-    Availability: Available
     Price: $860.00 USD
-  - [3K Matt / Shimano HG / White Bola](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658140946686)
+  - [17/25 mm / Shimano HG / White Bola](https://bolacarbon.com/products/bola-st-40c-dt-swiss-350s-carbon-road-wheelset-40mm-rim-brake-tubeless-25mm-28mm-wide-1330g?variant=42647572414718)
     Availability: Available
     Price: $860.00 USD
-  - [3K Matt / Shimano HG / Customized](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658140979454)
+  - [17/25 mm / Shimano HG / Customized](https://bolacarbon.com/products/bola-st-40c-dt-swiss-350s-carbon-road-wheelset-40mm-rim-brake-tubeless-25mm-28mm-wide-1330g?variant=42647572447486)
     Availability: Available
     Price: $860.00 USD
-  - [3K Matt / Sram  XDR / Black Bola](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658141012222)
+  - [17/25 mm / Sram XDR / Black Bola](https://bolacarbon.com/products/bola-st-40c-dt-swiss-350s-carbon-road-wheelset-40mm-rim-brake-tubeless-25mm-28mm-wide-1330g?variant=42647572513022)
     Availability: Available
     Price: $860.00 USD
-  - [3K Matt / Sram  XDR / White Bola](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658141077758)
+  - [17/25 mm / Sram XDR / White Bola](https://bolacarbon.com/products/bola-st-40c-dt-swiss-350s-carbon-road-wheelset-40mm-rim-brake-tubeless-25mm-28mm-wide-1330g?variant=42647572545790)
     Availability: Available
     Price: $860.00 USD
-  - [3K Matt / Sram  XDR / Customized](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658141110526)
+  - [17/25 mm / Sram XDR / Customized](https://bolacarbon.com/products/bola-st-40c-dt-swiss-350s-carbon-road-wheelset-40mm-rim-brake-tubeless-25mm-28mm-wide-1330g?variant=42647572578558)
     Availability: Available
     Price: $860.00 USD
-  - [3K Matt / Compy / Black Bola](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658141143294)
+  - [17/25 mm / Compy / Black Bola](https://bolacarbon.com/products/bola-st-40c-dt-swiss-350s-carbon-road-wheelset-40mm-rim-brake-tubeless-25mm-28mm-wide-1330g?variant=42647572644094)
     Availability: Available
     Price: $860.00 USD
-  - [3K Matt / Compy / White Bola](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658141208830)
+  - [17/25 mm / Compy / White Bola](https://bolacarbon.com/products/bola-st-40c-dt-swiss-350s-carbon-road-wheelset-40mm-rim-brake-tubeless-25mm-28mm-wide-1330g?variant=42647572676862)
     Availability: Available
     Price: $860.00 USD
-  - [3K Matt / Compy / Customized](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658141241598)
+  - [17/25 mm / Compy / Customized](https://bolacarbon.com/products/bola-st-40c-dt-swiss-350s-carbon-road-wheelset-40mm-rim-brake-tubeless-25mm-28mm-wide-1330g?variant=42647572709630)
     Availability: Available
     Price: $860.00 USD
-  - [3K Glossy / Shimano HG / Black Bola](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658141307134)
+  - [21/28 mm / Shimano HG / Black Bola](https://bolacarbon.com/products/bola-st-40c-dt-swiss-350s-carbon-road-wheelset-40mm-rim-brake-tubeless-25mm-28mm-wide-1330g?variant=42647572775166)
     Availability: Available
     Price: $860.00 USD
-  - [3K Glossy / Shimano HG / White Bola](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658141372670)
+  - [21/28 mm / Shimano HG / White Bola](https://bolacarbon.com/products/bola-st-40c-dt-swiss-350s-carbon-road-wheelset-40mm-rim-brake-tubeless-25mm-28mm-wide-1330g?variant=42647572807934)
     Availability: Available
     Price: $860.00 USD
-  - [3K Glossy / Shimano HG / Customized](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658141405438)
+  - [21/28 mm / Shimano HG / Customized](https://bolacarbon.com/products/bola-st-40c-dt-swiss-350s-carbon-road-wheelset-40mm-rim-brake-tubeless-25mm-28mm-wide-1330g?variant=42647572840702)
     Availability: Available
     Price: $860.00 USD
-  - [3K Glossy / Sram  XDR / Black Bola](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658141438206)
+  - [21/28 mm / Sram XDR / Black Bola](https://bolacarbon.com/products/bola-st-40c-dt-swiss-350s-carbon-road-wheelset-40mm-rim-brake-tubeless-25mm-28mm-wide-1330g?variant=42647572906238)
     Availability: Available
     Price: $860.00 USD
-  - [3K Glossy / Sram  XDR / White Bola](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658141503742)
+  - [21/28 mm / Sram XDR / White Bola](https://bolacarbon.com/products/bola-st-40c-dt-swiss-350s-carbon-road-wheelset-40mm-rim-brake-tubeless-25mm-28mm-wide-1330g?variant=42647572939006)
     Availability: Available
     Price: $860.00 USD
-  - [3K Glossy / Sram  XDR / Customized](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658141536510)
+  - [21/28 mm / Sram XDR / Customized](https://bolacarbon.com/products/bola-st-40c-dt-swiss-350s-carbon-road-wheelset-40mm-rim-brake-tubeless-25mm-28mm-wide-1330g?variant=42647572971774)
     Availability: Available
     Price: $860.00 USD
-  - [3K Glossy / Compy / Black Bola](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658141569278)
+  - [21/28 mm / Compy / Black Bola](https://bolacarbon.com/products/bola-st-40c-dt-swiss-350s-carbon-road-wheelset-40mm-rim-brake-tubeless-25mm-28mm-wide-1330g?variant=42647573037310)
     Availability: Available
     Price: $860.00 USD
-  - [3K Glossy / Compy / White Bola](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658141634814)
+  - [21/28 mm / Compy / White Bola](https://bolacarbon.com/products/bola-st-40c-dt-swiss-350s-carbon-road-wheelset-40mm-rim-brake-tubeless-25mm-28mm-wide-1330g?variant=42647573070078)
     Availability: Available
     Price: $860.00 USD
-  - [3K Glossy / Compy / Customized](https://bolacarbon.com/products/50mm-carbon-rim-brake-road-wheelset-dt350-hubs-tubeless-700c-25mm-wide?variant=42658141667582)
+  - [21/28 mm / Compy / Customized](https://bolacarbon.com/products/bola-st-40c-dt-swiss-350s-carbon-road-wheelset-40mm-rim-brake-tubeless-25mm-28mm-wide-1330g?variant=42647573102846)
     Availability: Available
     Price: $860.00 USD
-- [38mm Carbon Tubular Wheelset – DT Swiss 350, CX-Ray, 700C, 1,255g](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake): 38mm carbon tubular wheelset for road, with DT Swiss 350 hubs and CX-Ray spokes. 700C, 1,255g, 25mm width, rim brake, EN14781, ISO 4210, and UCI race legal.
-  Updated: 2026-05-12T01:30:10Z
+- [Bola SL 38RB Carbon Tubular Road Wheelset–DT Swiss 350,38mm Rim Brake](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake): Super light Bola 38RB carbon tubular wheelset for road, with DT Swiss 350 hubs and CX-Ray spokes. 700C, 1,190g, 25mm width,rim brake
+  Updated: 2026-05-27T12:56:14Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: High-Performance Carbon Road Wheelsets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/bola_38mm_carbon_rim_brake_wheelset_dt350.png?v=1778484022
-  - [UD Matt / Shimano 11s / Black Bola](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658162278654)
+  - [UD Matt / Shimano HG / Black Bola](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658162278654)
     Availability: Available
     Price: $860.00 USD
-  - [UD Matt / Shimano 11s / White Bola](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658162344190)
+  - [UD Matt / Shimano HG / White Bola](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658162344190)
     Availability: Available
     Price: $860.00 USD
-  - [UD Matt / Shimano 11s / Customized](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658162376958)
+  - [UD Matt / Shimano HG / Customized](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658162376958)
     Availability: Available
     Price: $860.00 USD
-  - [UD Matt / Sram 11s / Black Bola](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658162409726)
+  - [UD Matt / Sram XDR / Black Bola](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658162409726)
     Availability: Available
     Price: $860.00 USD
-  - [UD Matt / Sram 11s / White Bola](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658162475262)
+  - [UD Matt / Sram XDR / White Bola](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658162475262)
     Availability: Available
     Price: $860.00 USD
-  - [UD Matt / Sram 11s / Customized](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658162508030)
+  - [UD Matt / Sram XDR / Customized](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658162508030)
     Availability: Available
     Price: $860.00 USD
-  - [UD Matt / Compy 10s / Black Bola](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658162540798)
+  - [UD Matt / Compy / Black Bola](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658162540798)
     Availability: Available
     Price: $860.00 USD
-  - [UD Matt / Compy 10s / White Bola](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658162606334)
+  - [UD Matt / Compy / White Bola](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658162606334)
     Availability: Available
     Price: $860.00 USD
-  - [UD Matt / Compy 10s / Customized](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658162639102)
+  - [UD Matt / Compy / Customized](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658162639102)
     Availability: Available
     Price: $860.00 USD
-  - [UD Glossy / Shimano 11s / Black Bola](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658162671870)
+  - [UD Glossy / Shimano HG / Black Bola](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658162671870)
     Availability: Available
     Price: $860.00 USD
-  - [UD Glossy / Shimano 11s / White Bola](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658162737406)
+  - [UD Glossy / Shimano HG / White Bola](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658162737406)
     Availability: Available
     Price: $860.00 USD
-  - [UD Glossy / Shimano 11s / Customized](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658162770174)
+  - [UD Glossy / Shimano HG / Customized](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658162770174)
     Availability: Available
     Price: $860.00 USD
-  - [UD Glossy / Sram 11s / Black Bola](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658162802942)
+  - [UD Glossy / Sram XDR / Black Bola](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658162802942)
     Availability: Available
     Price: $860.00 USD
-  - [UD Glossy / Sram 11s / White Bola](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658162868478)
+  - [UD Glossy / Sram XDR / White Bola](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658162868478)
     Availability: Available
     Price: $860.00 USD
-  - [UD Glossy / Sram 11s / Customized](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658162901246)
+  - [UD Glossy / Sram XDR / Customized](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658162901246)
     Availability: Available
     Price: $860.00 USD
-  - [UD Glossy / Compy 10s / Black Bola](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658162934014)
+  - [UD Glossy / Compy / Black Bola](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658162934014)
     Availability: Available
     Price: $860.00 USD
-  - [UD Glossy / Compy 10s / White Bola](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658162999550)
+  - [UD Glossy / Compy / White Bola](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658162999550)
     Availability: Available
     Price: $860.00 USD
-  - [UD Glossy / Compy 10s / Customized](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658163032318)
+  - [UD Glossy / Compy / Customized](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658163032318)
     Availability: Available
     Price: $860.00 USD
-  - [3K Matt / Shimano 11s / Black Bola](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658163065086)
+  - [3K Matt / Shimano HG / Black Bola](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658163065086)
     Availability: Available
     Price: $860.00 USD
-  - [3K Matt / Shimano 11s / White Bola](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658163130622)
+  - [3K Matt / Shimano HG / White Bola](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658163130622)
     Availability: Available
     Price: $860.00 USD
-  - [3K Matt / Shimano 11s / Customized](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658163163390)
+  - [3K Matt / Shimano HG / Customized](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658163163390)
     Availability: Available
     Price: $860.00 USD
-  - [3K Matt / Sram 11s / Black Bola](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658163196158)
+  - [3K Matt / Sram XDR / Black Bola](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658163196158)
     Availability: Available
     Price: $860.00 USD
-  - [3K Matt / Sram 11s / White Bola](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658163261694)
+  - [3K Matt / Sram XDR / White Bola](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658163261694)
     Availability: Available
     Price: $860.00 USD
-  - [3K Matt / Sram 11s / Customized](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658163294462)
+  - [3K Matt / Sram XDR / Customized](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658163294462)
     Availability: Available
     Price: $860.00 USD
-  - [3K Matt / Compy 10s / Black Bola](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658163327230)
+  - [3K Matt / Compy / Black Bola](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658163327230)
     Availability: Available
     Price: $860.00 USD
-  - [3K Matt / Compy 10s / White Bola](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658163392766)
+  - [3K Matt / Compy / White Bola](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658163392766)
     Availability: Available
     Price: $860.00 USD
-  - [3K Matt / Compy 10s / Customized](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658163425534)
+  - [3K Matt / Compy / Customized](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658163425534)
     Availability: Available
     Price: $860.00 USD
-  - [3K Glossy / Shimano 11s / Black Bola](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658163458302)
+  - [3K Glossy / Shimano HG / Black Bola](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658163458302)
     Availability: Available
     Price: $860.00 USD
-  - [3K Glossy / Shimano 11s / White Bola](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658163523838)
+  - [3K Glossy / Shimano HG / White Bola](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658163523838)
     Availability: Available
     Price: $860.00 USD
-  - [3K Glossy / Shimano 11s / Customized](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658163556606)
+  - [3K Glossy / Shimano HG / Customized](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658163556606)
     Availability: Available
     Price: $860.00 USD
-  - [3K Glossy / Sram 11s / Black Bola](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658163589374)
+  - [3K Glossy / Sram XDR / Black Bola](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658163589374)
     Availability: Available
     Price: $860.00 USD
-  - [3K Glossy / Sram 11s / White Bola](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658163654910)
+  - [3K Glossy / Sram XDR / White Bola](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658163654910)
     Availability: Available
     Price: $860.00 USD
-  - [3K Glossy / Sram 11s / Customized](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658163687678)
+  - [3K Glossy / Sram XDR / Customized](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658163687678)
     Availability: Available
     Price: $860.00 USD
-  - [3K Glossy / Compy 10s / Black Bola](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658163720446)
+  - [3K Glossy / Compy / Black Bola](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658163720446)
     Availability: Available
     Price: $860.00 USD
-  - [3K Glossy / Compy 10s / White Bola](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658163785982)
+  - [3K Glossy / Compy / White Bola](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658163785982)
     Availability: Available
     Price: $860.00 USD
-  - [3K Glossy / Compy 10s / Customized](https://bolacarbon.com/products/38mm-carbon-tubular-road-wheelset-dt-swiss-350-sapim-cx-ray-700c-25mm-wide-rim-brake?variant=42658163818750)
+  - [3K Glossy / Compy / Customized](https://bolacarbon.com/products/bola-sl-38rb-carbon-tubular-road-wheelset-dt-swiss-350-cx-ray-700c-38mm-25mm-rim-brake?variant=42658163818750)
     Availability: Available
     Price: $860.00 USD
-- [700C 50mm Carbon Tubular Wheelset, DT350 Hubs, CX-Ray, Rim Brake, UCI ](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake): 50mm 700C carbon tubular road wheelset. DT Swiss 350 hubs, Sapim CX-Ray spokes. UCI and EN14781 . 1290g ±30g. Supports riders up to 100kg. Ideal for competitive and endurance cycling on rim brake bikes.
-  Updated: 2026-05-22T18:56:41Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Performance Road Bike Wheelset
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/bola_black_dt350_rim_brake_wheelset.png?v=1779429137
-  - [UD Matt / Shimano HG / Black Bola](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658167750910)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Matt / Shimano HG / White Bola](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658167849214)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Matt / Shimano HG / Customized](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658167881982)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Matt / Sram XDR / Black Bola](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658167914750)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Matt / Sram XDR / White Bola](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658167980286)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Matt / Sram XDR / Customized](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658168013054)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Matt / Compy / Black Bola](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658168045822)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Matt / Compy / White Bola](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658168111358)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Matt / Compy / Customized](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658168144126)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Glossy / Shimano HG / Black Bola](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658168176894)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Glossy / Shimano HG / White Bola](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658168242430)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Glossy / Shimano HG / Customized](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658168275198)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Glossy / Sram XDR / Black Bola](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658168307966)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Glossy / Sram XDR / White Bola](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658168373502)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Glossy / Sram XDR / Customized](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658168406270)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Glossy / Compy / Black Bola](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658168439038)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Glossy / Compy / White Bola](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658168504574)
-    Availability: Available
-    Price: $860.00 USD
-  - [UD Glossy / Compy / Customized](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658168537342)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Matt / Shimano HG / Black Bola](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658168570110)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Matt / Shimano HG / White Bola](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658168635646)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Matt / Shimano HG / Customized](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658168668414)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Matt / Sram XDR / Black Bola](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658168701182)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Matt / Sram XDR / White Bola](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658168766718)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Matt / Sram XDR / Customized](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658168799486)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Matt / Compy / Black Bola](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658168832254)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Matt / Compy / White Bola](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658168897790)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Matt / Compy / Customized](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658168930558)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Glossy / Shimano HG / Black Bola](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658168963326)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Glossy / Shimano HG / White Bola](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658169028862)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Glossy / Shimano HG / Customized](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658169061630)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Glossy / Sram XDR / Black Bola](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658169094398)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Glossy / Sram XDR / White Bola](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658169159934)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Glossy / Sram XDR / Customized](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658169192702)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Glossy / Compy / Black Bola](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658169225470)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Glossy / Compy / White Bola](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658169291006)
-    Availability: Available
-    Price: $860.00 USD
-  - [3K Glossy / Compy / Customized](https://bolacarbon.com/products/700c-carbon-tubular-wheelset-50mm-dt350-cx-ray-rim-brake?variant=42658169323774)
-    Availability: Available
-    Price: $860.00 USD
-- [700C 50mm Carbon Road Wheelset Tubeless Rim Brake 1600g](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g): Aerodynamic 50mm 700C carbon rim brake wheelset, 25mm wide, tubeless-ready, 1,600g per pair. EN14781  for quality, with 2-year warranty.
-  Updated: 2026-05-12T01:30:13Z
+- [Bola RB50 Rim Brake Carbon Road Wheelset 50mm Tubeless – 25mm Wide](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight): Bola RB50 aerodynamic 50mm 700C carbon rim brake wheelset, 25mm wide, tubeless-ready, 1,550g per pair. EN14781  for quality, with 2-year warranty.
+  Updated: 2026-05-27T12:49:43Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Road Bike Wheelsets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/bola_rim_brake_wheelset.png?v=1778482402
-  - [UD Matt / Shimano 11s / Black Bola](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=42658241773822)
+  - [UD Matt / Shimano HG / Black Bola](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=42658241773822)
     Availability: Available
     Price: $490.00 USD
-  - [UD Matt / Shimano 11s / White Bola](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=42658241839358)
+  - [UD Matt / Shimano HG / White Bola](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=42658241839358)
     Availability: Available
     Price: $490.00 USD
-  - [UD Matt / Shimano 11s / Customized](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=42658241872126)
+  - [UD Matt / Shimano HG / Customized](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=42658241872126)
     Availability: Available
     Price: $490.00 USD
-  - [UD Matt / Sram 11s / Black Bola](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=42658241904894)
+  - [UD Matt / Sram XDR / Black Bola](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=42658241904894)
     Availability: Available
     Price: $490.00 USD
-  - [UD Matt / Sram 11s / White Bola](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=42658241970430)
+  - [UD Matt / Sram XDR / White Bola](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=42658241970430)
     Availability: Available
     Price: $490.00 USD
-  - [UD Matt / Sram 11s / Customized](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=42658242003198)
+  - [UD Matt / Sram XDR / Customized](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=42658242003198)
     Availability: Available
     Price: $490.00 USD
-  - [UD Matt / Compy 10s / Black Bola](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=42658242035966)
+  - [UD Matt / Compy / Black Bola](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=42658242035966)
     Availability: Available
     Price: $490.00 USD
-  - [UD Matt / Compy 10s / White Bola](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=42658242101502)
+  - [UD Matt / Compy / White Bola](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=42658242101502)
     Availability: Available
     Price: $490.00 USD
-  - [UD Matt / Compy 10s / Customized](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=42658242134270)
+  - [UD Matt / Compy / Customized](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=42658242134270)
     Availability: Available
     Price: $490.00 USD
-  - [UD Glossy / Shimano 11s / Black Bola](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=42658242167038)
+  - [UD Glossy / Shimano HG / Black Bola](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=42658242167038)
     Availability: Available
     Price: $490.00 USD
-  - [UD Glossy / Shimano 11s / White Bola](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=42658242232574)
+  - [UD Glossy / Shimano HG / White Bola](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=42658242232574)
     Availability: Available
     Price: $490.00 USD
-  - [UD Glossy / Shimano 11s / Customized](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=42658242265342)
+  - [UD Glossy / Shimano HG / Customized](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=42658242265342)
     Availability: Available
     Price: $490.00 USD
-  - [UD Glossy / Sram 11s / Black Bola](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=42658242298110)
+  - [UD Glossy / Sram XDR / Black Bola](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=42658242298110)
     Availability: Available
     Price: $490.00 USD
-  - [UD Glossy / Sram 11s / White Bola](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=42658242363646)
+  - [UD Glossy / Sram XDR / White Bola](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=42658242363646)
     Availability: Available
     Price: $490.00 USD
-  - [UD Glossy / Sram 11s / Customized](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=42658242396414)
+  - [UD Glossy / Sram XDR / Customized](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=42658242396414)
     Availability: Available
     Price: $490.00 USD
-  - [UD Glossy / Compy 10s / Black Bola](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=42658242429182)
+  - [UD Glossy / Compy / Black Bola](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=42658242429182)
     Availability: Available
     Price: $490.00 USD
-  - [UD Glossy / Compy 10s / White Bola](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=42658242494718)
+  - [UD Glossy / Compy / White Bola](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=42658242494718)
     Availability: Available
     Price: $490.00 USD
-  - [UD Glossy / Compy 10s / Customized](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=42658242527486)
+  - [UD Glossy / Compy / Customized](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=42658242527486)
     Availability: Available
     Price: $490.00 USD
-  - [Marble Mat / Shimano 11s / Black Bola](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=48169271591166)
+  - [Marble Mat / Shimano HG / Black Bola](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=48169271591166)
     Availability: Available
     Price: $490.00 USD
-  - [Marble Mat / Shimano 11s / White Bola](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=48169271623934)
+  - [Marble Mat / Shimano HG / White Bola](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=48169271623934)
     Availability: Available
     Price: $490.00 USD
-  - [Marble Mat / Shimano 11s / Customized](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=48169271656702)
+  - [Marble Mat / Shimano HG / Customized](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=48169271656702)
     Availability: Available
     Price: $490.00 USD
-  - [Marble Mat / Sram 11s / Black Bola](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=48169271689470)
+  - [Marble Mat / Sram XDR / Black Bola](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=48169271689470)
     Availability: Available
     Price: $490.00 USD
-  - [Marble Mat / Sram 11s / White Bola](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=48169271722238)
+  - [Marble Mat / Sram XDR / White Bola](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=48169271722238)
     Availability: Available
     Price: $490.00 USD
-  - [Marble Mat / Sram 11s / Customized](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=48169271755006)
+  - [Marble Mat / Sram XDR / Customized](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=48169271755006)
     Availability: Available
     Price: $490.00 USD
-  - [Marble Mat / Compy 10s / Black Bola](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=48169271787774)
+  - [Marble Mat / Compy / Black Bola](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=48169271787774)
     Availability: Available
     Price: $490.00 USD
-  - [Marble Mat / Compy 10s / White Bola](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=48169271820542)
+  - [Marble Mat / Compy / White Bola](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=48169271820542)
     Availability: Available
     Price: $490.00 USD
-  - [Marble Mat / Compy 10s / Customized](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=48169271853310)
+  - [Marble Mat / Compy / Customized](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=48169271853310)
     Availability: Available
     Price: $490.00 USD
-  - [Marble Gloss / Shimano 11s / Black Bola](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=48169271886078)
+  - [Marble Gloss / Shimano HG / Black Bola](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=48169271886078)
     Availability: Available
     Price: $490.00 USD
-  - [Marble Gloss / Shimano 11s / White Bola](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=48169271918846)
+  - [Marble Gloss / Shimano HG / White Bola](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=48169271918846)
     Availability: Available
     Price: $490.00 USD
-  - [Marble Gloss / Shimano 11s / Customized](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=48169271951614)
+  - [Marble Gloss / Shimano HG / Customized](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=48169271951614)
     Availability: Available
     Price: $490.00 USD
-  - [Marble Gloss / Sram 11s / Black Bola](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=48169271984382)
+  - [Marble Gloss / Sram XDR / Black Bola](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=48169271984382)
     Availability: Available
     Price: $490.00 USD
-  - [Marble Gloss / Sram 11s / White Bola](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=48169272017150)
+  - [Marble Gloss / Sram XDR / White Bola](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=48169272017150)
     Availability: Available
     Price: $490.00 USD
-  - [Marble Gloss / Sram 11s / Customized](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=48169272049918)
+  - [Marble Gloss / Sram XDR / Customized](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=48169272049918)
     Availability: Available
     Price: $490.00 USD
-  - [Marble Gloss / Compy 10s / Black Bola](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=48169272082686)
+  - [Marble Gloss / Compy / Black Bola](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=48169272082686)
     Availability: Available
     Price: $490.00 USD
-  - [Marble Gloss / Compy 10s / White Bola](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=48169272115454)
+  - [Marble Gloss / Compy / White Bola](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=48169272115454)
     Availability: Available
     Price: $490.00 USD
-  - [Marble Gloss / Compy 10s / Customized](https://bolacarbon.com/products/700c-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-outer-wide-1600g?variant=48169272148222)
+  - [Marble Gloss / Compy / Customized](https://bolacarbon.com/products/bola-rb50-carbon-road-wheelset-50mm-tubeless-rim-brake-25mm-wide-1550g-lightweight?variant=48169272148222)
     Availability: Available
     Price: $490.00 USD
-- [Bola 700C Carbon Disc Wheelset 45mm Tubeless Ready  54T– 28mm wide](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide): 700C carbon wheelset for disc brake bikes. 45mm deep,28mm wide,g. Tubeless ready. 54T Ratchet hub, Pillar 1420 spokes, ISO4210 .
-  Updated: 2026-05-12T01:24:18Z
+- [Bola CLA 40R Carbon 700C Disc Wheelset 40mm Tubeless](https://bolacarbon.com/products/bola-cla-40r-carbon-disc-brake-wheelset-700c-40mm-tubeless-1400g): ISO4210- 40mm carbon disc wheelset by Bola: 1400g, tubeless-ready for road and gravel cycling. Lightweight, durable, and easy-to-service.
+  Updated: 2026-05-27T13:21:20Z
   Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Road Bike Wheelset
+  Product Type: Carbon Disc Brake Wheelset
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/products/55.jpg?v=1649662906
-  - [UD Matt / Shimano 11s / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658291351806)
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/40dbwhite.png?v=1779844686
+  - [28/21 mm / Shimano HG / Black Bola](https://bolacarbon.com/products/bola-cla-40r-carbon-disc-brake-wheelset-700c-40mm-tubeless-1400g?variant=42658291351806)
     Availability: Available
-    Price: $680.00 USD
-  - [UD Matt / Shimano 11s / White Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658291384574)
+    Price: $468.00 USD
+  - [28/21 mm / Shimano HG / White Bola](https://bolacarbon.com/products/bola-cla-40r-carbon-disc-brake-wheelset-700c-40mm-tubeless-1400g?variant=42658291384574)
     Availability: Available
-    Price: $680.00 USD
-  - [UD Matt / Shimano 11s / Customized](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658291417342)
+    Price: $468.00 USD
+  - [28/21 mm / Shimano HG / Customized](https://bolacarbon.com/products/bola-cla-40r-carbon-disc-brake-wheelset-700c-40mm-tubeless-1400g?variant=42658291417342)
     Availability: Available
-    Price: $680.00 USD
-  - [UD Matt / Sram 11s / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658291482878)
+    Price: $468.00 USD
+  - [28/21 mm / Sram  XDR / Black Bola](https://bolacarbon.com/products/bola-cla-40r-carbon-disc-brake-wheelset-700c-40mm-tubeless-1400g?variant=42658291482878)
     Availability: Available
-    Price: $680.00 USD
-  - [UD Matt / Sram 11s / White Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658291548414)
+    Price: $468.00 USD
+  - [28/21 mm / Sram  XDR / White Bola](https://bolacarbon.com/products/bola-cla-40r-carbon-disc-brake-wheelset-700c-40mm-tubeless-1400g?variant=42658291548414)
     Availability: Available
-    Price: $680.00 USD
-  - [UD Matt / Sram 11s / Customized](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658291581182)
+    Price: $468.00 USD
+  - [28/21 mm / Sram  XDR / Customized](https://bolacarbon.com/products/bola-cla-40r-carbon-disc-brake-wheelset-700c-40mm-tubeless-1400g?variant=42658291581182)
     Availability: Available
-    Price: $680.00 USD
-  - [UD Matt / Compy 10s / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658291646718)
+    Price: $468.00 USD
+  - [28/21 mm / Compy / Black Bola](https://bolacarbon.com/products/bola-cla-40r-carbon-disc-brake-wheelset-700c-40mm-tubeless-1400g?variant=42658291646718)
     Availability: Available
-    Price: $680.00 USD
-  - [UD Matt / Compy 10s / White Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658291679486)
+    Price: $468.00 USD
+  - [28/21 mm / Compy / White Bola](https://bolacarbon.com/products/bola-cla-40r-carbon-disc-brake-wheelset-700c-40mm-tubeless-1400g?variant=42658291679486)
     Availability: Available
-    Price: $680.00 USD
-  - [UD Matt / Compy 10s / Customized](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658291712254)
+    Price: $468.00 USD
+  - [28/21 mm / Compy / Customized](https://bolacarbon.com/products/bola-cla-40r-carbon-disc-brake-wheelset-700c-40mm-tubeless-1400g?variant=42658291712254)
     Availability: Available
-    Price: $680.00 USD
-  - [UD Glossy / Shimano 11s / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658291777790)
+    Price: $468.00 USD
+  - [30/24 mm / Shimano HG / Black Bola](https://bolacarbon.com/products/bola-cla-40r-carbon-disc-brake-wheelset-700c-40mm-tubeless-1400g?variant=42658291777790)
     Availability: Available
-    Price: $680.00 USD
-  - [UD Glossy / Shimano 11s / White Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658291810558)
+    Price: $468.00 USD
+  - [30/24 mm / Shimano HG / White Bola](https://bolacarbon.com/products/bola-cla-40r-carbon-disc-brake-wheelset-700c-40mm-tubeless-1400g?variant=42658291810558)
     Availability: Available
-    Price: $680.00 USD
-  - [UD Glossy / Shimano 11s / Customized](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658291843326)
+    Price: $468.00 USD
+  - [30/24 mm / Shimano HG / Customized](https://bolacarbon.com/products/bola-cla-40r-carbon-disc-brake-wheelset-700c-40mm-tubeless-1400g?variant=42658291843326)
     Availability: Available
-    Price: $680.00 USD
-  - [UD Glossy / Sram 11s / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658291908862)
+    Price: $468.00 USD
+  - [30/24 mm / Sram  XDR / Black Bola](https://bolacarbon.com/products/bola-cla-40r-carbon-disc-brake-wheelset-700c-40mm-tubeless-1400g?variant=42658291908862)
     Availability: Available
-    Price: $680.00 USD
-  - [UD Glossy / Sram 11s / White Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658291941630)
+    Price: $468.00 USD
+  - [30/24 mm / Sram  XDR / White Bola](https://bolacarbon.com/products/bola-cla-40r-carbon-disc-brake-wheelset-700c-40mm-tubeless-1400g?variant=42658291941630)
     Availability: Available
-    Price: $680.00 USD
-  - [UD Glossy / Sram 11s / Customized](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658291974398)
+    Price: $468.00 USD
+  - [30/24 mm / Sram  XDR / Customized](https://bolacarbon.com/products/bola-cla-40r-carbon-disc-brake-wheelset-700c-40mm-tubeless-1400g?variant=42658291974398)
     Availability: Available
-    Price: $680.00 USD
-  - [UD Glossy / Compy 10s / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658292039934)
+    Price: $468.00 USD
+  - [30/24 mm / Compy / Black Bola](https://bolacarbon.com/products/bola-cla-40r-carbon-disc-brake-wheelset-700c-40mm-tubeless-1400g?variant=42658292039934)
     Availability: Available
-    Price: $680.00 USD
-  - [UD Glossy / Compy 10s / White Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658292072702)
+    Price: $468.00 USD
+  - [30/24 mm / Compy / White Bola](https://bolacarbon.com/products/bola-cla-40r-carbon-disc-brake-wheelset-700c-40mm-tubeless-1400g?variant=42658292072702)
     Availability: Available
-    Price: $680.00 USD
-  - [UD Glossy / Compy 10s / Customized](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658292105470)
+    Price: $468.00 USD
+  - [30/24 mm / Compy / Customized](https://bolacarbon.com/products/bola-cla-40r-carbon-disc-brake-wheelset-700c-40mm-tubeless-1400g?variant=42658292105470)
     Availability: Available
-    Price: $680.00 USD
-  - [Marble Matt / Shimano 11s / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658292171006)
-    Availability: Available
-    Price: $680.00 USD
-  - [Marble Matt / Shimano 11s / White Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658292203774)
-    Availability: Available
-    Price: $680.00 USD
-  - [Marble Matt / Shimano 11s / Customized](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658292236542)
-    Availability: Available
-    Price: $680.00 USD
-  - [Marble Matt / Sram 11s / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658292302078)
-    Availability: Available
-    Price: $680.00 USD
-  - [Marble Matt / Sram 11s / White Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658292334846)
-    Availability: Available
-    Price: $680.00 USD
-  - [Marble Matt / Sram 11s / Customized](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658292367614)
-    Availability: Available
-    Price: $680.00 USD
-  - [Marble Matt / Compy 10s / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658292433150)
-    Availability: Available
-    Price: $680.00 USD
-  - [Marble Matt / Compy 10s / White Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658292465918)
-    Availability: Available
-    Price: $680.00 USD
-  - [Marble Matt / Compy 10s / Customized](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658292498686)
-    Availability: Available
-    Price: $680.00 USD
-  - [Marble Glossy / Shimano 11s / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658292564222)
-    Availability: Available
-    Price: $680.00 USD
-  - [Marble Glossy / Shimano 11s / White Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658292596990)
-    Availability: Available
-    Price: $680.00 USD
-  - [Marble Glossy / Shimano 11s / Customized](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658292629758)
-    Availability: Available
-    Price: $680.00 USD
-  - [Marble Glossy / Sram 11s / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658292728062)
-    Availability: Available
-    Price: $680.00 USD
-  - [Marble Glossy / Sram 11s / White Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658292760830)
-    Availability: Available
-    Price: $680.00 USD
-  - [Marble Glossy / Sram 11s / Customized](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658292793598)
-    Availability: Available
-    Price: $680.00 USD
-  - [Marble Glossy / Compy 10s / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658292859134)
-    Availability: Available
-    Price: $680.00 USD
-  - [Marble Glossy / Compy 10s / White Bola](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658292891902)
-    Availability: Available
-    Price: $680.00 USD
-  - [Marble Glossy / Compy 10s / Customized](https://bolacarbon.com/products/bola-700c-carbon-disc-wheelset-45mm-tubeless-ready-54t-28mm-wide?variant=42658292924670)
-    Availability: Available
-    Price: $680.00 USD
-- [Bola 700C Carbon Rim Brake Wheelset – 38mm | 25mm Wide | DT240 Hubs | Tubeless](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless): 700C carbonrim brake wheelset: 38mm rim, 25mm wide, DT240 hubs, Sapim CX-Ray spokes. Tubeless ready, 1,400g/pair.
-  Updated: 2026-05-22T18:42:47Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Bicycle Wheelsets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/dt240rimbrakewheelset_white.png?v=1779431689
-  - [UD Matt / Shimano HG / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902698131710)
-    Availability: Available
-    Price: $999.00 USD
-  - [UD Matt / Shimano HG / White Bola](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902698164478)
-    Availability: Available
-    Price: $999.00 USD
-  - [UD Matt / Shimano HG / Customized](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902698197246)
-    Availability: Available
-    Price: $999.00 USD
-  - [UD Matt / Sram XDR / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902698262782)
-    Availability: Available
-    Price: $999.00 USD
-  - [UD Matt / Sram XDR / White Bola](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902698295550)
-    Availability: Available
-    Price: $999.00 USD
-  - [UD Matt / Sram XDR / Customized](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902698328318)
-    Availability: Available
-    Price: $999.00 USD
-  - [UD Matt / Compy / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902698393854)
-    Availability: Available
-    Price: $999.00 USD
-  - [UD Matt / Compy / White Bola](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902698426622)
-    Availability: Available
-    Price: $999.00 USD
-  - [UD Matt / Compy / Customized](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902698459390)
-    Availability: Available
-    Price: $999.00 USD
-  - [UD Glossy / Shimano HG / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902698524926)
-    Availability: Available
-    Price: $999.00 USD
-  - [UD Glossy / Shimano HG / White Bola](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902698557694)
-    Availability: Available
-    Price: $999.00 USD
-  - [UD Glossy / Shimano HG / Customized](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902698590462)
-    Availability: Available
-    Price: $999.00 USD
-  - [UD Glossy / Sram XDR / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902698655998)
-    Availability: Available
-    Price: $999.00 USD
-  - [UD Glossy / Sram XDR / White Bola](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902698688766)
-    Availability: Available
-    Price: $999.00 USD
-  - [UD Glossy / Sram XDR / Customized](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902698721534)
-    Availability: Available
-    Price: $999.00 USD
-  - [UD Glossy / Compy / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902698787070)
-    Availability: Available
-    Price: $999.00 USD
-  - [UD Glossy / Compy / White Bola](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902698819838)
-    Availability: Available
-    Price: $999.00 USD
-  - [UD Glossy / Compy / Customized](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902698852606)
-    Availability: Available
-    Price: $999.00 USD
-  - [Marble Matt / Shimano HG / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902698918142)
-    Availability: Available
-    Price: $999.00 USD
-  - [Marble Matt / Shimano HG / White Bola](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902698950910)
-    Availability: Available
-    Price: $999.00 USD
-  - [Marble Matt / Shimano HG / Customized](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902698983678)
-    Availability: Available
-    Price: $999.00 USD
-  - [Marble Matt / Sram XDR / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902699049214)
-    Availability: Available
-    Price: $999.00 USD
-  - [Marble Matt / Sram XDR / White Bola](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902699081982)
-    Availability: Available
-    Price: $999.00 USD
-  - [Marble Matt / Sram XDR / Customized](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902699114750)
-    Availability: Available
-    Price: $999.00 USD
-  - [Marble Matt / Compy / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902699180286)
-    Availability: Available
-    Price: $999.00 USD
-  - [Marble Matt / Compy / White Bola](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902699213054)
-    Availability: Available
-    Price: $999.00 USD
-  - [Marble Matt / Compy / Customized](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902699245822)
-    Availability: Available
-    Price: $999.00 USD
-  - [Marble Glossy / Shimano HG / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902699311358)
-    Availability: Available
-    Price: $999.00 USD
-  - [Marble Glossy / Shimano HG / White Bola](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902699344126)
-    Availability: Available
-    Price: $999.00 USD
-  - [Marble Glossy / Shimano HG / Customized](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902699376894)
-    Availability: Available
-    Price: $999.00 USD
-  - [Marble Glossy / Sram XDR / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902699442430)
-    Availability: Available
-    Price: $999.00 USD
-  - [Marble Glossy / Sram XDR / White Bola](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902699475198)
-    Availability: Available
-    Price: $999.00 USD
-  - [Marble Glossy / Sram XDR / Customized](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902699507966)
-    Availability: Available
-    Price: $999.00 USD
-  - [Marble Glossy / Compy / Black Bola](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902699573502)
-    Availability: Available
-    Price: $999.00 USD
-  - [Marble Glossy / Compy / White Bola](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902699606270)
-    Availability: Available
-    Price: $999.00 USD
-  - [Marble Glossy / Compy / Customized](https://bolacarbon.com/products/bola-700c-carbon-rim-brake-wheelset-38mm-25mm-wide-dt240-hubs-tubeless?variant=42902699639038)
-    Availability: Available
-    Price: $999.00 USD
+    Price: $468.00 USD
 - [Carbon Bike Handlebars & Seatposts | Bola Carbon](https://bolacarbon.com/products/carbon-bicycle-components-handlebars-seatposts-upgrade-parts): Lightweight carbon handlebars and seatposts for road and MTB. Save 30–50% weight vs. aluminum. Contact us for specs and availability.
   Updated: 2026-05-12T01:24:22Z
   Vendor: Bola Carbon Sporting Goods
@@ -1510,20 +832,13 @@ Bola Carbon Wheelset,Bola Carbon Bike Rim,Bola carbon rim OEM
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/cc2.png?v=1703146227
   Price: $60.00 USD
-- [700C Carbon Tubular Bike Rim | OEM/ODM | U-Shape](https://bolacarbon.com/products/700c-carbon-tubular-bike-rim-oem-odm-u-shape): 700C carbon fiber tubular bike rim with U-shape profile and 5-bearing rear hub. OEM/ODM available. 17-day lead time. Ideal for road racing and cycling brands.
-  Updated: 2026-05-12T01:30:58Z
+- [700C Carbon Tubular Rim U-Shape | OEM/ODM Road](https://bolacarbon.com/products/700c-carbon-tubular-bike-rim-oem-odm-u-shape): U-Shape 700C carbon fiber tubular rim for competitive cycling. OEM/ODM, bulk orders, lightweight design, 15-day lead, ISO4210-7 tested.
+  Updated: 2026-05-29T21:22:28Z
   Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Fiber Bicycle Rim
+  Product Type: Carbon Fiber Bicycle Rims
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/OEMcarbonbikerims_79bc63fa-38b2-4912-9ecb-0f4a82cd43e0.jpg?v=1713769802
-  Price: $200.00 USD
-- [20 Inch Carbon Fiber Bike Rim – U Shape](https://bolacarbon.com/products/20-inch-carbon-fiber-bike-rim-u-shape): Lightweight 20 inch U-shaped carbon fiber bike rim. Aerodynamically tested, OEM options, ideal for pro cycling and urban riders.
-  Updated: 2026-05-12T01:25:21Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Fiber Bike Rim
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/OEMcarbonbikerims_48eacddb-d484-40b9-8f46-8b94557a84c1.jpg?v=1714104183
-  Price: $180.00 USD
+  Price: $100.00 USD
 - [29er Carbon MTB Rim 30mm Inner | Enduro, All-Mountain, Hookless](https://bolacarbon.com/products/29er-carbon-mtb-rim-30mm-inner-hookless-enduro-all-mountain): 29er carbon mountain bike rim, 30mm inner width, 385–455g. Tubeless hookless, enduro-ready, customizable branding, 3-year warranty.
   Updated: 2026-05-21T06:56:43Z
   Vendor: Carbon Fiber Sporting Goods
@@ -1531,34 +846,6 @@ Bola Carbon Wheelset,Bola Carbon Bike Rim,Bola carbon rim OEM
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/bola_ultralight_carbon_bike_rims.png?v=1777446870
   Price: $310.00 USD
-- [12-Inch Carbon Hookless Rim | 90g Kids Bike Tubeless 25x21mm](https://bolacarbon.com/products/12-inch-carbon-hookless-tubeless-rim-for-childrens-balance-training-bikes): 12-inch carbon hookless tubeless rim, 90g. 25mm profile, 21mm inner width. For kids balance/training bikes. EN/ISO tested, custom OEM options.
-  Updated: 2026-05-12T01:25:53Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Bicycle Rim
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/R25C-25-203.jpg?v=1714289538
-  Price: $120.00 USD
-- [18" Carbon Clincher Rim – 40mm Aero Profile, 18mm Inner Width](https://bolacarbon.com/products/18-carbon-clincher-rim-40mm-aero-profile-18mm-inner-width): 18-inch U-shape carbon clincher rim, 40mm profile, 18mm inner. Ideal for low rider or custom small-wheel bikes. OEM, tested >300kg.
-  Updated: 2026-05-12T01:25:53Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Bicycle Wheel Rim
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/R40C-25-355.jpg?v=1714289958
-  Price: $160.00 USD
-- [20" Tubeless Carbon Rim 35mm Asymmetric U-Shape | 380g Junior/Youth](https://bolacarbon.com/products/20-tubeless-carbon-rim-35mm-asymmetric-u-shape-380g-junior-youth): 20-inch asymmetric tubeless carbon rim, 35mm depth, 380g superlight, 16mm inner width. OEM customizable. 3-year warranty. EN14781 tested.
-  Updated: 2026-05-12T01:25:53Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Bicycle Rims
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/R35C-23-349.jpg?v=1714292101
-  Price: $230.00 USD
-- [20" Carbon BMX Rim 30mm, 23mm Inner, 315g Ultralight](https://bolacarbon.com/products/20-carbon-bmx-rim-30mm-23mm-inner-315g-ultralight): 20" carbon BMX rim, 30mm height, 23mm inner width. Ultralight at 315g. ISO4210 tested. 3-year warranty. Custom options available.
-  Updated: 2026-05-12T01:25:56Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Bicycle Rim
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/TR30C-30-406.jpg?v=1714292521
-  Price: $240.00 USD
 - [700c Carbon Disc Rear Wheel, 28mm – Tubeless/Tubular, Triathlon & TT](https://bolacarbon.com/products/700c-carbon-rear-disc-wheel-28mm-triathlon-time-trial-tubeless-tubular-center-lock): 28mm wide 700c carbon rear disc wheel, ISO 4210 tested for triathlon & time trial. Tubeless (1,350 ± 30g) or tubular (1,260 ± 30g). Center Lock. 2-year warranty.
   Updated: 2026-05-18T18:50:46Z
   Vendor: Carbon Fiber Sporting Goods
@@ -1736,13 +1023,6 @@ Bola Carbon Wheelset,Bola Carbon Bike Rim,Bola carbon rim OEM
   - [Marble Glossy / Clincher / Track](https://bolacarbon.com/products/700c-28mm-carbon-three-spoke-front-wheel-triathlon-tt-track-tubeless-clincher-tubular?variant=48093822386430)
     Availability: Not Available
     Price: $530.00 USD
-- [22 Inch Carbon Fiber Bike Rims – U Shape, OEM Options](https://bolacarbon.com/products/22-inch-carbon-fiber-bike-rims-u-shape-oem-options): Premium 22 inch carbon fiber bike rims. Lightweight, U shape, OEM customizable. Designed for road cycling, racing, and urban mobility.
-  Updated: 2026-05-12T01:26:03Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Fiber Bike Rim
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/OEMcarbonbikerims_c6aedcc1-4f09-461c-ab8e-0d9165cfbbb8.jpg?v=1714360259
-  Price: $180.00 USD
 - [700C Carbon Four Spoke Wheelset – Tubeless or Tubular](https://bolacarbon.com/products/700c-carbon-four-spoke-wheelset-tubeless-ready-tubular-for-road-track-triathlon): Precision-engineered 700C high-modulus carbon four spoke wheelset for road, track, or triathlon. Available tubeless or tubular. ISO 4210  for quality.
   Updated: 2026-05-18T18:47:07Z
   Vendor: Carbon Fiber Sporting Goods
@@ -2055,132 +1335,162 @@ Bola Carbon Wheelset,Bola Carbon Bike Rim,Bola carbon rim OEM
   - [Marble Glossy / Microspline / Bola Ratchet 54T](https://bolacarbon.com/products/27-5-carbon-mtb-wheelset-30mm-hookless-6-spoke-xc-am?variant=48093250224382)
     Availability: Available
     Price: $990.00 USD
-- [24 Inch Carbon Fiber  Bike Rim – 25/28/30mm Width](https://bolacarbon.com/products/24-inch-bike-rim): Lightweight 24 inch full carbon fiber  bike rim for road, gravel, and CX. 25/28/30mm widths, 120psi max, EN , 3-year warranty.
-  Updated: 2026-05-12T01:32:08Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Fiber Bike Rim
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/OEMcarbonbikerims_74e36589-c85d-4ab7-b085-6cb57c471859.jpg?v=1714441755
-  Price: $180.00 USD
-- [26 Inch Carbon Fiber Lowrider Bike Rims –  EN ](https://bolacarbon.com/products/26-inch-lowrider-bike-rims): EN- 26 inch full carbon fiber  bike rims. Max 125 kg, 120psi. Ideal for road, gravel, and CX. 3-year warranty.
-  Updated: 2026-05-12T01:26:12Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Bicycle Rim
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/OEMcarbonbikerims_076f0981-a19d-43e7-9fdc-363821b03808.jpg?v=1715650148
-  Price: $180.00 USD
-- [26 Inch Carbon hookless MTB Rim | EN ](https://bolacarbon.com/products/26-inch-mountain-bike-rim): Full carbon 26-inch hookless MTB rim, 25/28/30mm wide, 120psi rated, 125kg limit. EN Standard . OEM & custom options available.
-  Updated: 2026-05-12T01:32:12Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon MTB Rim
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/OEMcarbonbikerims_142b082d-5e23-49b8-b922-2bd971fba4f4.jpg?v=1715735470
-  Price: $180.00 USD
-- [26 Inch Carbon Bike Rim | Road, Gravel & CX](https://bolacarbon.com/products/26inch-bike-rim): Rim outer wide 25/28/30 mm Applicable Bicycle Road/Gravel/CX Bicycles maximum tire pressure 120psi maximum rider weight 125kg Warranty 3 Years EN Standard
-  Updated: 2026-05-12T01:32:15Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Bicycle Rim
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/OEMcarbonbikerims_fcd855ea-10ba-4d8e-ade1-f8123cfe0149.jpg?v=1716878537
-  Price: $180.00 USD
-- [27 inch bike rims](https://bolacarbon.com/products/27-inch-bike-rims): Product name 27 inch bike rims Size 700C Rim shape U shape MOQ no Quantity (pairs) 25 Lead time (days) 15
-  Updated: 2026-05-12T01:32:21Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Fiber Bicycle Rims
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/OEMcarbonbikerims_865bf94a-f10a-4ecd-818c-0b9ce50a9574.jpg?v=1717033199
-  Price: $100.00 USD
-- [28 inch bike rims](https://bolacarbon.com/products/28-inch-bike-rims): Product name 28 inch bike rims Size 700C Rim shape U shape MOQ no Quantity (pairs) 25 Lead time (days) 15
-  Updated: 2026-05-12T01:32:42Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Bicycle Rims
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/OEMcarbonbikerims_8a674a7e-cfa6-439b-ad13-09fa8444a57f.jpg?v=1715217246
-  Price: $95.00 USD
-- [29 inch bike rims](https://bolacarbon.com/products/29-inch-bike-rims): Product name 29 inch bike rims Size 700C Rim shape U shape
-  Updated: 2026-05-12T01:32:21Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Fiber Bicycle Rims
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/OEMcarbonbikerims_865bf94a-f10a-4ecd-818c-0b9ce50a9574.jpg?v=1717033199
-  Price: $180.00 USD
-- [650b carbon bicycle rim](https://bolacarbon.com/products/650b-carbon-bicycle-rim): 650b carbon bicycle rim. Rated 120psi & 125kg. EN . Ideal for road, gravel & CX. OEM customization available.
-  Updated: 2026-05-12T01:32:42Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Bicycle Rim
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/OEMcarbonbikerims_8a674a7e-cfa6-439b-ad13-09fa8444a57f.jpg?v=1715217246
-  Price: $200.00 USD
-- [700c bike rim](https://bolacarbon.com/products/700c-bike-rim): Rim outer wide 25/28/30 mm Size 700C Rim shape U shape ERD Flatness <0.15mm Min/Max Tire Presure 100/125psi
-  Updated: 2026-05-12T01:32:42Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Bicycle Rim
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/OEMcarbonbikerims_8a674a7e-cfa6-439b-ad13-09fa8444a57f.jpg?v=1715217246
-  Price: $200.00 USD
-- [aero bike rims](https://bolacarbon.com/products/aero-bike-rims): aero bike rims Thru Axle model 100*15mm/Front, 142*12mm/Rear Quick Release model 100*9mm/Front, 135*10mm/Rear MOQ no Quantity (pairs) 25 Lead time (days) 15.
-  Updated: 2026-05-12T01:32:42Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Bicycle Rims
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/OEMcarbonbikerims_8a674a7e-cfa6-439b-ad13-09fa8444a57f.jpg?v=1715217246
-  Price: $100.00 USD
-- [best bike rims](https://bolacarbon.com/products/best-bike-rims): best bike rims for road racing & OEM builds. Thru axle (100×15/142×12mm) & QR (100×9/135×10mm). 15-day lead time. Contact Bola for custom specs.
-  Updated: 2026-05-12T01:32:42Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Bicycle Rims
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/OEMcarbonbikerims_8a674a7e-cfa6-439b-ad13-09fa8444a57f.jpg?v=1715217246
-  Price: $100.00 USD
-- [best mountain bike rims](https://bolacarbon.com/products/best-mountain-bike-rims): best mountain bike rims in 25, 28 & 30mm widths for mtb gravel & CX. EN-, 125kg rated, OEM/ODM supply. Request a quote from Bola.
-  Updated: 2026-05-12T01:32:42Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Fiber Bicycle Rim
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/OEMcarbonbikerims_8a674a7e-cfa6-439b-ad13-09fa8444a57f.jpg?v=1715217246
-  Price: $200.00 USD
-- [best rims for road bike](https://bolacarbon.com/products/best-rims-for-road-bike): best rims for road bike,outer wide 25/28/30 mm Size 700C Rim shape U shape.Flatness <0.15mm Min/Max Tire Presure 100/125psi
-  Updated: 2026-05-12T01:32:49Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Bicycle Rims
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/OEMcarbonbikerims_590bc7ad-b4f5-4ddd-ba95-16956ba6b774.jpg?v=1714360013
-  Price: $200.00 USD
-- [Full Carbon Tubular Road Bike Rims 25/28/30mm Wide – EN , 120psi, 125kg Rated](https://bolacarbon.com/products/full-carbon-tubular-road-bike-rims-25-28-30mm-wide-en-): Full carbon tubular rims for road, gravel & CX bikes. 25/28/30mm wide, 120psi rated, 125kg max load. EN . OEM available. 1-year warranty.
-  Updated: 2026-05-12T01:32:49Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Bicycle Rims
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/OEMcarbonbikerims_590bc7ad-b4f5-4ddd-ba95-16956ba6b774.jpg?v=1714360013
-  Price: $190.00 USD
-- [700C Carbon Tubular Front Rim–U-Shape Profile for Road Race Endurance](https://bolacarbon.com/products/700c-carbon-tubular-front-rim-u-shape-profile-for-road-race-endurance): 700C carbon tubular front rim, 408g, U-shape, 25–30mm wide, ERD 487mm. OEM-ready. Factory direct from Bola Sporting Goods.
-  Updated: 2026-05-12T01:32:49Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Bicycle Rim
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/OEMcarbonbikerims_18815b83-2449-4fec-ba64-7a20b2109efb.jpg?v=1715045859
-  Price: $90.00 USD
-- [29" Full Carbon Tubeless hookless Rim –AM& CX](https://bolacarbon.com/products/29-inch-full-carbon-tubeless-hookless-bike-rim-mtb-gravel-cx-25-28-30mm-wide): Full carbon tubeless 29-inch rim, 25/28/30mm wide, 120psi rated, EN . Engineered for mtb, AM& CX. OEM custom branding available.
-  Updated: 2026-05-12T01:32:52Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Bicycle Rim
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/OEMcarbonbikerims_d1296ddd-11ff-4a38-9397-deaf56491129.jpg?v=1714441594
-  Price: $200.00 USD
-- [Carbon 700C Bike Rim | OEM Road Gravel Racing](https://bolacarbon.com/products/carbon-fiber-700c-bike-rim-oem-road-gravel-racing-rim): Full carbon fiber 700C tubular and tubeless bike rims for road racing and OEM wheelset builds.no MOQ, 20-day lead time. Factory-direct from Bola Sporting Goods Co. Limited — supplying cycling brands across Europe and North America for over a decade.
-  Updated: 2026-05-12T01:32:53Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Fiber Bicycle Rim
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/OEMcarbonbikerims_f7c5873e-5261-4072-9558-bc66c4fb2485.jpg?v=1713837927
-  Price: $200.00 USD
 - [700C Carbon Tubeless Bike Rims – OEM Wholesale](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim): 700C carbon fiber tubeless bike rims for OEM and wholesale.15-day lead time for small batch. Custom branding available.
-  Updated: 2026-05-20T06:57:15Z
+  Updated: 2026-05-30T06:03:12Z
   Vendor: Carbon Fiber Sporting Goods
   Product Type: Carbon Fiber Bicycle Rims
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/OEMcarbonbikerims_37b49678-d5ea-407a-a7c7-e822ecdb0cb2.jpg?v=1714014719
-  Price: $200.00 USD
+  - [700C / UD Matt / Spoke Direction](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292242850046)
+    Availability: Available
+    Price: $100.00 USD
+  - [700C / UD Matt / Spoke Hole](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292242882814)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / UD Matt / Different weigh](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292242915582)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / UD Matt / T1000](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292242948350)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / UD Matt / T800](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292242981118)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / UD Matt / T700/800](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243013886)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / UD Matt / Decal](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243046654)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / UD Matt / Decoration](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243079422)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / UD Glossy / Spoke Direction](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243112190)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / UD Glossy / Spoke Hole](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243144958)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / UD Glossy / Different weigh](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243177726)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / UD Glossy / T1000](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243210494)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / UD Glossy / T800](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243243262)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / UD Glossy / T700/800](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243276030)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / UD Glossy / Decal](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243308798)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / UD Glossy / Decoration](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243341566)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / 3KMatt / Spoke Direction](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243374334)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / 3KMatt / Spoke Hole](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243407102)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / 3KMatt / Different weigh](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243439870)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / 3KMatt / T1000](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243472638)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / 3KMatt / T800](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243505406)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / 3KMatt / T700/800](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243538174)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / 3KMatt / Decal](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243570942)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / 3KMatt / Decoration](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243603710)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / 3K Glossy / Spoke Direction](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243636478)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / 3K Glossy / Spoke Hole](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243669246)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / 3K Glossy / Different weigh](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243702014)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / 3K Glossy / T1000](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243734782)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / 3K Glossy / T800](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243767550)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / 3K Glossy / T700/800](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243800318)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / 3K Glossy / Decal](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243833086)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / 3K Glossy / Decoration](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243865854)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / Marble UD / Spoke Direction](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243898622)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / Marble UD / Spoke Hole](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243931390)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / Marble UD / Different weigh](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243964158)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / Marble UD / T1000](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292243996926)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / Marble UD / T800](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292244029694)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / Marble UD / T700/800](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292244062462)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / Marble UD / Decal](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292244095230)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / Marble UD / Decoration](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292244127998)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / Marble Glossy / Spoke Direction](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292244160766)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / Marble Glossy / Spoke Hole](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292244193534)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / Marble Glossy / Different weigh](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292244226302)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / Marble Glossy / T1000](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292244259070)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / Marble Glossy / T800](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292244291838)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / Marble Glossy / T700/800](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292244324606)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / Marble Glossy / Decal](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292244357374)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / Marble Glossy / Decoration](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292244390142)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / Twill / Spoke Direction](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292244422910)
+    Availability: Not Available
+    Price: $100.00 USD
+  - [700C / Twill / Spoke Hole](https://bolacarbon.com/products/700c-carbon-fiber-tubelss-bike-rims-oem-wholesale-road-racing-rim?variant=48292244455678)
+    Availability: Not Available
+    Price: $100.00 USD
 - [700c OEM Carbon Bike Rim | T700–T1000 | Tubeless | 28–36mm](https://bolacarbon.com/products/carbon-bike-rim-oem-factory-for-700c-carbon-rim-of-28mm-30mm-34mm-36mm-uv-shape-wave-ultra-and-extreme-light-t700-t800-t1000-ud-3k-12k-twill-marble-paintless-etc-new-mold-half--bola-three-years-warranty): 700c OEM Carbon Bike Rim - Tubeless-ready with custom depths and weaves for road racing and endurance. Backed by a 3-year manufacturer warranty. Shop now!
   Updated: 2026-05-12T01:27:01Z
   Vendor: Carbon Fiber Sporting Goods
@@ -2188,20 +1498,6 @@ Bola Carbon Wheelset,Bola Carbon Bike Rim,Bola carbon rim OEM
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/products/tubeless_2d236823-c069-4581-9a8b-1fc9dd7a0b4b.jpg?v=1713256464
   Price: $100.00 USD
-- [Bola 700C Carbon Disc Brake Wheelset 45mm 50mmWave 28mm](https://bolacarbon.com/products/bola-700c-classic-carbon-bike-wheelset-disc-brake-45mm-and-50mm-wave-profile): Bola 700C carbon disc brake wheelset — 45mm & 50mm wave profile, 28mm wide, 1,470g/pair. Pillar 1423 spokes, NBK sealed-bearing hubs, 120kg max load. 3-year warranty. Multiple axle standards supported.
-  Updated: 2026-05-12T01:33:08Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Wheelset
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/4550set.png?v=1732607883
-  Price: $330.00 USD
-- [Bola 40mm Carbon Disc Wheelset 700C | Road & Gravel](https://bolacarbon.com/products/uci-level-bola-700c-elite-paintless-wider-carbon-bike-wheels-disc-brake-40mm-high-30mm-wide-for-road-and-gravel-amateur-riding): Bola 700C 40mm carbon disc wheelset, 30mm wide rim, 1460g/pair, 24mm inner width. Fits road & gravel, 120kg max. 3-year warranty. Multiple axle standards.
-  Updated: 2026-05-12T01:33:14Z
-  Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Wheelset
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/30mmwheelset.png?v=1732609153
-  Price: $390.00 USD
 - [3-Spoke Carbon 700c 28mm Tubeless Front Wheel | Triathlon, TT, Track](https://bolacarbon.com/products/3-spoke-carbon-700c-28mm-tubeless-front-wheel-for-triathlon-tt-track): UCI-compliant 3-spoke carbon 700c tubeless front wheel for triathlon, TT & track; 28mm width, ISO 4210-7 , 36T ratchet hub.
   Updated: 2026-05-18T18:45:24Z
   Vendor: Carbon Fiber Sporting Goods
@@ -2232,382 +1528,634 @@ Bola Carbon Wheelset,Bola Carbon Bike Rim,Bola carbon rim OEM
   - [Marble Glossy / DT Swiss 350](https://bolacarbon.com/products/3-spoke-carbon-700c-28mm-tubeless-front-wheel-for-triathlon-tt-track?variant=48093568565502)
     Availability: Available
     Price: $890.00 USD
-- [Carbon Wheelset Disc Brake 40/50/60mm – Ceramic Bearing 54T Ratchet Hub, Blade Carbon Spokes, T800 Ultralight](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight): Carbon Wheelset Disc Brake 40/50/60mm – Ultralight T800 carbon fiber with ceramic bearing hubs for low rolling resistance. Features 54T ratchet hub and blade carbon spokes. Shop now!
-  Updated: 2026-05-12T01:33:26Z
+- [Bola 700c Carbon Rear Disc Wheel 30mm Tubeless TT Triathlon](https://bolacarbon.com/products/bola-700c-carbon-rear-disc-wheel-30mm-tubeless-asymmetric-center-lock-triathlon-tt): ISO 4210- Bola 700c 30mm carbon rear disc. Asymmetric, tubeless, Center Lock for triathlon & TT. Optimized aerodynamics & 12x142mm compatibility.
+  Updated: 2026-05-20T15:08:16Z
   Vendor: Carbon Fiber Sporting Goods
-  Product Type: Carbon Wheelset
+  Product Type: Carbon Bicycle Disc Rear Wheels
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/b493b75a71e4f7c09e2211c5b0e967cf.png?v=1766557888
-  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641217073406)
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/30mmdiscrearwheel.png?v=1779095178
+  - [UD Matt / Disc / Shinamno HG](https://bolacarbon.com/products/bola-700c-carbon-rear-disc-wheel-30mm-tubeless-asymmetric-center-lock-triathlon-tt?variant=48217733300478)
     Availability: Available
-    Price: $650.00 USD
-  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641217106174)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / UD Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641217138942)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641217171710)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641217204478)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / UD Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641217237246)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / UD Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641217270014)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / UD Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641217302782)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641217368318)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641217401086)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / UD Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641217433854)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641217466622)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641217499390)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / UD Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641217532158)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / UD Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641217564926)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / UD Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641217597694)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641217663230)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641217695998)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / 3K Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641217728766)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641217761534)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641217794302)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / 3K Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641217827070)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / 3K Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641217859838)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / 3K Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641217892606)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641217958142)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641217990910)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / 3K Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641218023678)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641218056446)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641218089214)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / 3K Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641218121982)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / 3K Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641218154750)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / 3K Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641218187518)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641218253054)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641218285822)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / Marble Matt / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641218318590)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641218351358)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641218384126)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / Marble Matt / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641218416894)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / Marble Matt / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641218449662)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / Marble Matt / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641218482430)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641218547966)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641218580734)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / Marble Glossy / 36mm/30mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641218613502)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641218646270)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641218679038)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / Marble Glossy / 36mm/30mm Out/Int wide 50mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641218711806)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / Marble Glossy / 28mm/21mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641218744574)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Sram XDR / Marble Glossy / 30mm/23mm Out/Int wide 60mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641218777342)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Shimano HG / UD Matt / 28mm/21mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641218842878)
-    Availability: Not Available
-    Price: $650.00 USD
-  - [Shimano HG / UD Matt / 30mm/23mm Out/Int wide 40mm high](https://bolacarbon.com/products/carbon-wheelset-disc-brake-40-50-60mm-ceramic-bearing-54t-ratchet-hub-blade-carbon-spokes-t800-ultralight?variant=47641218875646)
-    Availability: Not Available
-    Price: $650.00 USD
-- [Carbon Wheelset Disc Brake 35/40/45/50/55mm | T800 Tubeless Ratchet 54T Hub 700c Climbing Road & Gravel](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel): T800 carbon 700c wheelset in 35/40/45/50/55mm depths. Disc brake, tubeless-ready, 54-tooth ratchet hub (6.67° engagement). 2-year warranty. Built for climbing and gravel.
-  Updated: 2026-05-12T01:33:37Z
+    Price: $790.00 USD
+  - [UD Matt / Disc / Sram XDR](https://bolacarbon.com/products/bola-700c-carbon-rear-disc-wheel-30mm-tubeless-asymmetric-center-lock-triathlon-tt?variant=48217733333246)
+    Availability: Available
+    Price: $790.00 USD
+  - [UD Matt / Disc / Misc](https://bolacarbon.com/products/bola-700c-carbon-rear-disc-wheel-30mm-tubeless-asymmetric-center-lock-triathlon-tt?variant=48217733366014)
+    Availability: Available
+    Price: $790.00 USD
+  - [UD Matt / Rim Basalt / Shinamno HG](https://bolacarbon.com/products/bola-700c-carbon-rear-disc-wheel-30mm-tubeless-asymmetric-center-lock-triathlon-tt?variant=48217733398782)
+    Availability: Available
+    Price: $790.00 USD
+  - [UD Matt / Rim Basalt / Sram XDR](https://bolacarbon.com/products/bola-700c-carbon-rear-disc-wheel-30mm-tubeless-asymmetric-center-lock-triathlon-tt?variant=48217733431550)
+    Availability: Available
+    Price: $790.00 USD
+  - [UD Matt / Rim Basalt / Misc](https://bolacarbon.com/products/bola-700c-carbon-rear-disc-wheel-30mm-tubeless-asymmetric-center-lock-triathlon-tt?variant=48217733464318)
+    Availability: Available
+    Price: $790.00 USD
+  - [UD Glossy / Disc / Shinamno HG](https://bolacarbon.com/products/bola-700c-carbon-rear-disc-wheel-30mm-tubeless-asymmetric-center-lock-triathlon-tt?variant=48217733497086)
+    Availability: Available
+    Price: $790.00 USD
+  - [UD Glossy / Disc / Sram XDR](https://bolacarbon.com/products/bola-700c-carbon-rear-disc-wheel-30mm-tubeless-asymmetric-center-lock-triathlon-tt?variant=48217733529854)
+    Availability: Available
+    Price: $790.00 USD
+  - [UD Glossy / Disc / Misc](https://bolacarbon.com/products/bola-700c-carbon-rear-disc-wheel-30mm-tubeless-asymmetric-center-lock-triathlon-tt?variant=48217733562622)
+    Availability: Available
+    Price: $790.00 USD
+  - [UD Glossy / Rim Basalt / Shinamno HG](https://bolacarbon.com/products/bola-700c-carbon-rear-disc-wheel-30mm-tubeless-asymmetric-center-lock-triathlon-tt?variant=48217733595390)
+    Availability: Available
+    Price: $790.00 USD
+  - [UD Glossy / Rim Basalt / Sram XDR](https://bolacarbon.com/products/bola-700c-carbon-rear-disc-wheel-30mm-tubeless-asymmetric-center-lock-triathlon-tt?variant=48217733628158)
+    Availability: Available
+    Price: $790.00 USD
+  - [UD Glossy / Rim Basalt / Misc](https://bolacarbon.com/products/bola-700c-carbon-rear-disc-wheel-30mm-tubeless-asymmetric-center-lock-triathlon-tt?variant=48217733660926)
+    Availability: Available
+    Price: $790.00 USD
+  - [Marble Matt / Disc / Shinamno HG](https://bolacarbon.com/products/bola-700c-carbon-rear-disc-wheel-30mm-tubeless-asymmetric-center-lock-triathlon-tt?variant=48217733693694)
+    Availability: Available
+    Price: $790.00 USD
+  - [Marble Matt / Disc / Sram XDR](https://bolacarbon.com/products/bola-700c-carbon-rear-disc-wheel-30mm-tubeless-asymmetric-center-lock-triathlon-tt?variant=48217733726462)
+    Availability: Available
+    Price: $790.00 USD
+  - [Marble Matt / Disc / Misc](https://bolacarbon.com/products/bola-700c-carbon-rear-disc-wheel-30mm-tubeless-asymmetric-center-lock-triathlon-tt?variant=48217733759230)
+    Availability: Available
+    Price: $790.00 USD
+  - [Marble Matt / Rim Basalt / Shinamno HG](https://bolacarbon.com/products/bola-700c-carbon-rear-disc-wheel-30mm-tubeless-asymmetric-center-lock-triathlon-tt?variant=48217733791998)
+    Availability: Available
+    Price: $790.00 USD
+  - [Marble Matt / Rim Basalt / Sram XDR](https://bolacarbon.com/products/bola-700c-carbon-rear-disc-wheel-30mm-tubeless-asymmetric-center-lock-triathlon-tt?variant=48217733824766)
+    Availability: Available
+    Price: $790.00 USD
+  - [Marble Matt / Rim Basalt / Misc](https://bolacarbon.com/products/bola-700c-carbon-rear-disc-wheel-30mm-tubeless-asymmetric-center-lock-triathlon-tt?variant=48217733857534)
+    Availability: Available
+    Price: $790.00 USD
+  - [Marble Glossy / Disc / Shinamno HG](https://bolacarbon.com/products/bola-700c-carbon-rear-disc-wheel-30mm-tubeless-asymmetric-center-lock-triathlon-tt?variant=48217733890302)
+    Availability: Available
+    Price: $790.00 USD
+  - [Marble Glossy / Disc / Sram XDR](https://bolacarbon.com/products/bola-700c-carbon-rear-disc-wheel-30mm-tubeless-asymmetric-center-lock-triathlon-tt?variant=48217733923070)
+    Availability: Available
+    Price: $790.00 USD
+  - [Marble Glossy / Disc / Misc](https://bolacarbon.com/products/bola-700c-carbon-rear-disc-wheel-30mm-tubeless-asymmetric-center-lock-triathlon-tt?variant=48217733955838)
+    Availability: Available
+    Price: $790.00 USD
+  - [Marble Glossy / Rim Basalt / Shinamno HG](https://bolacarbon.com/products/bola-700c-carbon-rear-disc-wheel-30mm-tubeless-asymmetric-center-lock-triathlon-tt?variant=48217733988606)
+    Availability: Available
+    Price: $790.00 USD
+  - [Marble Glossy / Rim Basalt / Sram XDR](https://bolacarbon.com/products/bola-700c-carbon-rear-disc-wheel-30mm-tubeless-asymmetric-center-lock-triathlon-tt?variant=48217734021374)
+    Availability: Available
+    Price: $790.00 USD
+  - [Marble Glossy / Rim Basalt / Misc](https://bolacarbon.com/products/bola-700c-carbon-rear-disc-wheel-30mm-tubeless-asymmetric-center-lock-triathlon-tt?variant=48217734054142)
+    Availability: Available
+    Price: $790.00 USD
+- [Bola Carbon 700c 3-Spoke 180mm Tubeless Front Wheel – Triathlon TT](https://bolacarbon.com/products/700c-28mm-tubeless-3-spoke-carbon-180mm-deep-wheel-for-triathlon-tt-track): UCI- 700c 3-spoke 180mm tubeless carbon front wheel for triathlon, TT, and track. 30mm wide rim, 36T hub, ISO 4210-7 . 25–35mm tire fit.
+  Updated: 2026-05-20T13:44:43Z
   Vendor: Carbon Fiber Sporting Goods
-  Product Type: Bicycle Wheelset
+  Product Type: Carbon Aero Bicycle Wheel
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/142_0.png?v=1766559581
-  - [Sram XDR / 28mm/21mm Out/Int wide 35mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641382584574)
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/180mm3spoke.png?v=1779096196
+  - [Tubeless / UD Matt / Bola Ratchet Front](https://bolacarbon.com/products/700c-28mm-tubeless-3-spoke-carbon-180mm-deep-wheel-for-triathlon-tt-track?variant=48220492103934)
     Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / 28mm/21mm Out/Int wide 35mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641382846718)
+  - [Tubeless / UD Matt / DT Swiss 350 Front](https://bolacarbon.com/products/700c-28mm-tubeless-3-spoke-carbon-180mm-deep-wheel-for-triathlon-tt-track?variant=48220492136702)
+    Availability: Available
+    Price: $590.00 USD
+  - [Tubeless / UD Matt / Bola 36T Rear HG](https://bolacarbon.com/products/700c-28mm-tubeless-3-spoke-carbon-180mm-deep-wheel-for-triathlon-tt-track?variant=48228494278910)
+    Availability: Available
+    Price: $550.00 USD
+  - [Tubeless / UD Matt / DT Swiss 350 Rear HG](https://bolacarbon.com/products/700c-28mm-tubeless-3-spoke-carbon-180mm-deep-wheel-for-triathlon-tt-track?variant=48228494311678)
+    Availability: Available
+    Price: $650.00 USD
+  - [Tubeless / UD Matt / Bola 36T Rear XDR](https://bolacarbon.com/products/700c-28mm-tubeless-3-spoke-carbon-180mm-deep-wheel-for-triathlon-tt-track?variant=48228494344446)
+    Availability: Available
+    Price: $550.00 USD
+  - [Tubeless / UD Matt / DT Swiss 350 Rear XDR](https://bolacarbon.com/products/700c-28mm-tubeless-3-spoke-carbon-180mm-deep-wheel-for-triathlon-tt-track?variant=48228494377214)
+    Availability: Available
+    Price: $650.00 USD
+  - [Tubeless / UD Glossy / Bola Ratchet Front](https://bolacarbon.com/products/700c-28mm-tubeless-3-spoke-carbon-180mm-deep-wheel-for-triathlon-tt-track?variant=48220492169470)
     Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / 28mm/21mm Out/Int wide 35mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641383108862)
+  - [Tubeless / UD Glossy / DT Swiss 350 Front](https://bolacarbon.com/products/700c-28mm-tubeless-3-spoke-carbon-180mm-deep-wheel-for-triathlon-tt-track?variant=48220492202238)
+    Availability: Available
+    Price: $590.00 USD
+  - [Tubeless / UD Glossy / Bola 36T Rear HG](https://bolacarbon.com/products/700c-28mm-tubeless-3-spoke-carbon-180mm-deep-wheel-for-triathlon-tt-track?variant=48228494409982)
+    Availability: Available
+    Price: $550.00 USD
+  - [Tubeless / UD Glossy / DT Swiss 350 Rear HG](https://bolacarbon.com/products/700c-28mm-tubeless-3-spoke-carbon-180mm-deep-wheel-for-triathlon-tt-track?variant=48228494442750)
+    Availability: Available
+    Price: $650.00 USD
+  - [Tubeless / UD Glossy / Bola 36T Rear XDR](https://bolacarbon.com/products/700c-28mm-tubeless-3-spoke-carbon-180mm-deep-wheel-for-triathlon-tt-track?variant=48228494475518)
+    Availability: Available
+    Price: $550.00 USD
+  - [Tubeless / UD Glossy / DT Swiss 350 Rear XDR](https://bolacarbon.com/products/700c-28mm-tubeless-3-spoke-carbon-180mm-deep-wheel-for-triathlon-tt-track?variant=48228494508286)
+    Availability: Available
+    Price: $650.00 USD
+  - [Tubular / UD Matt / Bola Ratchet Front](https://bolacarbon.com/products/700c-28mm-tubeless-3-spoke-carbon-180mm-deep-wheel-for-triathlon-tt-track?variant=48228494541054)
     Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / 30mm/24mm Out/Int wide 35mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641382617342)
+  - [Tubular / UD Matt / DT Swiss 350 Front](https://bolacarbon.com/products/700c-28mm-tubeless-3-spoke-carbon-180mm-deep-wheel-for-triathlon-tt-track?variant=48228494573822)
+    Availability: Available
+    Price: $590.00 USD
+  - [Tubular / UD Matt / Bola 36T Rear HG](https://bolacarbon.com/products/700c-28mm-tubeless-3-spoke-carbon-180mm-deep-wheel-for-triathlon-tt-track?variant=48228494606590)
+    Availability: Available
+    Price: $550.00 USD
+  - [Tubular / UD Matt / DT Swiss 350 Rear HG](https://bolacarbon.com/products/700c-28mm-tubeless-3-spoke-carbon-180mm-deep-wheel-for-triathlon-tt-track?variant=48228494639358)
+    Availability: Available
+    Price: $650.00 USD
+  - [Tubular / UD Matt / Bola 36T Rear XDR](https://bolacarbon.com/products/700c-28mm-tubeless-3-spoke-carbon-180mm-deep-wheel-for-triathlon-tt-track?variant=48228494672126)
+    Availability: Available
+    Price: $550.00 USD
+  - [Tubular / UD Matt / DT Swiss 350 Rear XDR](https://bolacarbon.com/products/700c-28mm-tubeless-3-spoke-carbon-180mm-deep-wheel-for-triathlon-tt-track?variant=48228494704894)
+    Availability: Available
+    Price: $650.00 USD
+  - [Tubular / UD Glossy / Bola Ratchet Front](https://bolacarbon.com/products/700c-28mm-tubeless-3-spoke-carbon-180mm-deep-wheel-for-triathlon-tt-track?variant=48228494737662)
     Availability: Available
     Price: $490.00 USD
-  - [Sram XDR / 30mm/24mm Out/Int wide 35mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641382879486)
+  - [Tubular / UD Glossy / DT Swiss 350 Front](https://bolacarbon.com/products/700c-28mm-tubeless-3-spoke-carbon-180mm-deep-wheel-for-triathlon-tt-track?variant=48228494770430)
     Availability: Available
-    Price: $490.00 USD
-  - [Sram XDR / 30mm/24mm Out/Int wide 35mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641383141630)
+    Price: $590.00 USD
+  - [Tubular / UD Glossy / Bola 36T Rear HG](https://bolacarbon.com/products/700c-28mm-tubeless-3-spoke-carbon-180mm-deep-wheel-for-triathlon-tt-track?variant=48228494803198)
     Availability: Available
-    Price: $490.00 USD
-  - [Sram XDR / 28mm/21mm Out/Int wide 40mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641382682878)
+    Price: $550.00 USD
+  - [Tubular / UD Glossy / DT Swiss 350 Rear HG](https://bolacarbon.com/products/700c-28mm-tubeless-3-spoke-carbon-180mm-deep-wheel-for-triathlon-tt-track?variant=48228494835966)
     Availability: Available
-    Price: $490.00 USD
-  - [Sram XDR / 28mm/21mm Out/Int wide 40mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641382945022)
+    Price: $650.00 USD
+  - [Tubular / UD Glossy / Bola 36T Rear XDR](https://bolacarbon.com/products/700c-28mm-tubeless-3-spoke-carbon-180mm-deep-wheel-for-triathlon-tt-track?variant=48228494868734)
     Availability: Available
-    Price: $490.00 USD
-  - [Sram XDR / 28mm/21mm Out/Int wide 40mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641383207166)
+    Price: $550.00 USD
+  - [Tubular / UD Glossy / DT Swiss 350 Rear XDR](https://bolacarbon.com/products/700c-28mm-tubeless-3-spoke-carbon-180mm-deep-wheel-for-triathlon-tt-track?variant=48228494901502)
     Availability: Available
-    Price: $490.00 USD
-  - [Sram XDR / 30mm/24mm Out/Int wide 40mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641382715646)
+    Price: $650.00 USD
+- [BOLA 120mm Aero Carbon Rim 700C | Deep Section Tubeless TT Triathlon](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon): BOLA 120mm deep aero carbon rim with 28mm width, ETRTO tubeless, 655g, for 700C TT and triathlon. Supports 25–28mm tires, max 125kg rider.
+  Updated: 2026-05-20T13:34:45Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Carbon Road Bicycle Rim
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/120tr28.png?v=1779097155
+  - [UD Matt / 24 / Standard](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220857106686)
     Availability: Available
-    Price: $490.00 USD
-  - [Sram XDR / 30mm/24mm Out/Int wide 40mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641382977790)
+    Price: $300.00 USD
+  - [UD Glossy / 24 / Standard](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220857139454)
     Availability: Available
-    Price: $490.00 USD
-  - [Sram XDR / 30mm/24mm Out/Int wide 40mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641383239934)
+    Price: $300.00 USD
+  - [3K Matt / 24 / Standard](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220857172222)
     Availability: Available
-    Price: $490.00 USD
-  - [Sram XDR / 28mm/21mm Out/Int wide 45mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641382781182)
+    Price: $300.00 USD
+  - [3K Glossy / 24 / Standard](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220857204990)
     Availability: Available
-    Price: $490.00 USD
-  - [Sram XDR / 28mm/21mm Out/Int wide 45mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641383043326)
+    Price: $300.00 USD
+  - [Marble  Matt / 24 / Standard](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220857237758)
     Availability: Available
-    Price: $490.00 USD
-  - [Sram XDR / 28mm/21mm Out/Int wide 45mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641383305470)
+    Price: $300.00 USD
+  - [Marble Glossy / 24 / Standard](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220857270526)
     Availability: Available
-    Price: $490.00 USD
-  - [Sram XDR / 30mm/24mm Out/Int wide 45mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641382813950)
+    Price: $300.00 USD
+  - [UD Matt / 24 / Super Light](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220857303294)
     Availability: Available
-    Price: $490.00 USD
-  - [Sram XDR / 30mm/24mm Out/Int wide 45mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641383076094)
+    Price: $310.00 USD
+  - [UD Matt / 28 / Standard](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220857336062)
     Availability: Available
-    Price: $490.00 USD
-  - [Sram XDR / 30mm/24mm Out/Int wide 45mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641383338238)
+    Price: $300.00 USD
+  - [UD Matt / 28 / Super Light](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220857368830)
     Availability: Available
-    Price: $490.00 USD
-  - [Sram XDR / 28mm/21mm Out/Int wide 50mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641409257726)
+    Price: $310.00 USD
+  - [UD Matt / Customized / Standard](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220857401598)
     Availability: Available
-    Price: $490.00 USD
-  - [Sram XDR / 28mm/21mm Out/Int wide 50mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641409323262)
+    Price: $300.00 USD
+  - [UD Matt / Customized / Super Light](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220857434366)
     Availability: Available
-    Price: $490.00 USD
-  - [Sram XDR / 28mm/21mm Out/Int wide 50mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641409388798)
+    Price: $310.00 USD
+  - [UD Glossy / 24 / Super Light](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220857467134)
     Availability: Available
-    Price: $490.00 USD
-  - [Sram XDR / 30mm/24mm Out/Int wide 50mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641409290494)
+    Price: $310.00 USD
+  - [UD Glossy / 28 / Standard](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220857499902)
     Availability: Available
-    Price: $490.00 USD
-  - [Sram XDR / 30mm/24mm Out/Int wide 50mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641409356030)
+    Price: $300.00 USD
+  - [UD Glossy / 28 / Super Light](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220857532670)
     Availability: Available
-    Price: $490.00 USD
-  - [Sram XDR / 30mm/24mm Out/Int wide 50mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641409421566)
+    Price: $310.00 USD
+  - [UD Glossy / Customized / Standard](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220857565438)
     Availability: Available
-    Price: $490.00 USD
-  - [Sram XDR / 28mm/21mm Out/Int wide 55mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=48157479108862)
+    Price: $300.00 USD
+  - [UD Glossy / Customized / Super Light](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220857598206)
     Availability: Available
-    Price: $490.00 USD
-  - [Sram XDR / 28mm/21mm Out/Int wide 55mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=48157479141630)
+    Price: $300.00 USD
+  - [3K Matt / 24 / Super Light](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220857630974)
     Availability: Available
-    Price: $490.00 USD
-  - [Sram XDR / 28mm/21mm Out/Int wide 55mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=48157479174398)
+    Price: $300.00 USD
+  - [3K Matt / 28 / Standard](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220857663742)
     Availability: Available
-    Price: $490.00 USD
-  - [Sram XDR / 30mm/24mm Out/Int wide 55mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=48157479207166)
+    Price: $300.00 USD
+  - [3K Matt / 28 / Super Light](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220857696510)
     Availability: Available
-    Price: $490.00 USD
-  - [Sram XDR / 30mm/24mm Out/Int wide 55mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=48157479239934)
+    Price: $300.00 USD
+  - [3K Matt / Customized / Standard](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220857729278)
     Availability: Available
-    Price: $490.00 USD
-  - [Sram XDR / 30mm/24mm Out/Int wide 55mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=48157479272702)
+    Price: $300.00 USD
+  - [3K Matt / Customized / Super Light](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220857762046)
     Availability: Available
-    Price: $490.00 USD
-  - [Shimano HG / 28mm/21mm Out/Int wide 35mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384157438)
+    Price: $300.00 USD
+  - [3K Glossy / 24 / Super Light](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220857794814)
     Availability: Available
-    Price: $490.00 USD
-  - [Shimano HG / 28mm/21mm Out/Int wide 35mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384419582)
+    Price: $300.00 USD
+  - [3K Glossy / 28 / Standard](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220857827582)
     Availability: Available
-    Price: $490.00 USD
-  - [Shimano HG / 28mm/21mm Out/Int wide 35mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384681726)
+    Price: $300.00 USD
+  - [3K Glossy / 28 / Super Light](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220857860350)
     Availability: Available
-    Price: $490.00 USD
-  - [Shimano HG / 30mm/24mm Out/Int wide 35mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384190206)
+    Price: $300.00 USD
+  - [3K Glossy / Customized / Standard](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220857893118)
     Availability: Available
-    Price: $490.00 USD
-  - [Shimano HG / 30mm/24mm Out/Int wide 35mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384452350)
+    Price: $300.00 USD
+  - [3K Glossy / Customized / Super Light](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220857925886)
     Availability: Available
-    Price: $490.00 USD
-  - [Shimano HG / 30mm/24mm Out/Int wide 35mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384714494)
+    Price: $300.00 USD
+  - [Marble  Matt / 24 / Super Light](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220857958654)
     Availability: Available
-    Price: $490.00 USD
-  - [Shimano HG / 28mm/21mm Out/Int wide 40mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384255742)
+    Price: $300.00 USD
+  - [Marble  Matt / 28 / Standard](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220857991422)
     Availability: Available
-    Price: $490.00 USD
-  - [Shimano HG / 28mm/21mm Out/Int wide 40mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384517886)
+    Price: $300.00 USD
+  - [Marble  Matt / 28 / Super Light](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220858024190)
     Availability: Available
-    Price: $490.00 USD
-  - [Shimano HG / 28mm/21mm Out/Int wide 40mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384780030)
+    Price: $300.00 USD
+  - [Marble  Matt / Customized / Standard](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220858056958)
     Availability: Available
-    Price: $490.00 USD
-  - [Shimano HG / 30mm/24mm Out/Int wide 40mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384288510)
+    Price: $300.00 USD
+  - [Marble  Matt / Customized / Super Light](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220858089726)
     Availability: Available
-    Price: $490.00 USD
-  - [Shimano HG / 30mm/24mm Out/Int wide 40mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384550654)
+    Price: $300.00 USD
+  - [Marble Glossy / 24 / Super Light](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220858122494)
     Availability: Available
-    Price: $490.00 USD
-  - [Shimano HG / 30mm/24mm Out/Int wide 40mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384812798)
+    Price: $300.00 USD
+  - [Marble Glossy / 28 / Standard](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220858155262)
     Availability: Available
-    Price: $490.00 USD
-  - [Shimano HG / 28mm/21mm Out/Int wide 45mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384354046)
+    Price: $300.00 USD
+  - [Marble Glossy / 28 / Super Light](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220858188030)
     Availability: Available
-    Price: $490.00 USD
-  - [Shimano HG / 28mm/21mm Out/Int wide 45mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384616190)
+    Price: $300.00 USD
+  - [Marble Glossy / Customized / Standard](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220858220798)
     Availability: Available
-    Price: $490.00 USD
-  - [Shimano HG / 28mm/21mm Out/Int wide 45mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384878334)
+    Price: $300.00 USD
+  - [Marble Glossy / Customized / Super Light](https://bolacarbon.com/products/bola-120mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48220858253566)
     Availability: Available
-    Price: $490.00 USD
-  - [Shimano HG / 30mm/24mm Out/Int wide 45mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384386814)
+    Price: $300.00 USD
+- [BOLA 180mm Deep Aero Carbon Rim 700C – Tubeless, TT & Triathlon](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon): BOLA 180mm aero carbon rim, 700C, 28mm wide, 21.5mm inner. ETRTO hooked tubeless for TT & triathlon, 815g, 100–125 psi, 125kg max rider.
+  Updated: 2026-05-20T13:31:14Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Carbon Road Bicycle Rim
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/180tr28.png?v=1779097280
+  - [UD Matt / 24 / Standard](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221021405438)
     Availability: Available
-    Price: $490.00 USD
-  - [Shimano HG / 30mm/24mm Out/Int wide 45mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384648958)
+    Price: $320.00 USD
+  - [UD Glossy / 24 / Standard](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221021438206)
     Availability: Available
-    Price: $490.00 USD
-  - [Shimano HG / 30mm/24mm Out/Int wide 45mm high / Customs](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641384911102)
+    Price: $320.00 USD
+  - [3K Matt / 24 / Standard](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221021470974)
     Availability: Available
-    Price: $490.00 USD
-  - [Shimano HG / 28mm/21mm Out/Int wide 50mm high / Black Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641409650942)
+    Price: $320.00 USD
+  - [3K Glossy / 24 / Standard](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221021503742)
     Availability: Available
-    Price: $490.00 USD
-  - [Shimano HG / 28mm/21mm Out/Int wide 50mm high / White Bola](https://bolacarbon.com/products/carbon-wheelset-disc-brake-35-40-45-50-55mm-t800-tubeless-ratchet-54t-hub-700c-climbing-road-gravel?variant=47641409716478)
+    Price: $320.00 USD
+  - [Marble  Matt / 24 / Standard](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221021536510)
     Availability: Available
-    Price: $490.00 USD
-[List Continued](https://bolacarbon.com/a/llms-agent/llms.txt?shop=boligey.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDk5MTgzNDg5Mjc4LCJsYXN0X3ZhbHVlIjoiOTA5OTE4MzQ4OTI3OCJ9)
+    Price: $320.00 USD
+  - [Marble Glossy / 24 / Standard](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221021569278)
+    Availability: Available
+    Price: $320.00 USD
+  - [UD Matt / 24 / Super Light](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221021602046)
+    Availability: Available
+    Price: $350.00 USD
+  - [UD Matt / 28 / Standard](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221021634814)
+    Availability: Available
+    Price: $320.00 USD
+  - [UD Matt / 28 / Super Light](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221021667582)
+    Availability: Available
+    Price: $350.00 USD
+  - [UD Matt / Customized / Standard](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221021700350)
+    Availability: Available
+    Price: $320.00 USD
+  - [UD Matt / Customized / Super Light](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221021733118)
+    Availability: Available
+    Price: $350.00 USD
+  - [UD Glossy / 24 / Super Light](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221021765886)
+    Availability: Available
+    Price: $350.00 USD
+  - [UD Glossy / 28 / Standard](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221021798654)
+    Availability: Available
+    Price: $320.00 USD
+  - [UD Glossy / 28 / Super Light](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221021831422)
+    Availability: Available
+    Price: $350.00 USD
+  - [UD Glossy / Customized / Standard](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221021864190)
+    Availability: Available
+    Price: $320.00 USD
+  - [UD Glossy / Customized / Super Light](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221021896958)
+    Availability: Available
+    Price: $350.00 USD
+  - [3K Matt / 24 / Super Light](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221021929726)
+    Availability: Available
+    Price: $350.00 USD
+  - [3K Matt / 28 / Standard](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221021962494)
+    Availability: Available
+    Price: $320.00 USD
+  - [3K Matt / 28 / Super Light](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221021995262)
+    Availability: Available
+    Price: $350.00 USD
+  - [3K Matt / Customized / Standard](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221022028030)
+    Availability: Available
+    Price: $320.00 USD
+  - [3K Matt / Customized / Super Light](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221022060798)
+    Availability: Available
+    Price: $350.00 USD
+  - [3K Glossy / 24 / Super Light](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221022093566)
+    Availability: Available
+    Price: $350.00 USD
+  - [3K Glossy / 28 / Standard](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221022126334)
+    Availability: Available
+    Price: $320.00 USD
+  - [3K Glossy / 28 / Super Light](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221022159102)
+    Availability: Available
+    Price: $350.00 USD
+  - [3K Glossy / Customized / Standard](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221022191870)
+    Availability: Available
+    Price: $320.00 USD
+  - [3K Glossy / Customized / Super Light](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221022224638)
+    Availability: Available
+    Price: $350.00 USD
+  - [Marble  Matt / 24 / Super Light](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221022257406)
+    Availability: Available
+    Price: $350.00 USD
+  - [Marble  Matt / 28 / Standard](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221022290174)
+    Availability: Available
+    Price: $320.00 USD
+  - [Marble  Matt / 28 / Super Light](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221022322942)
+    Availability: Available
+    Price: $350.00 USD
+  - [Marble  Matt / Customized / Standard](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221022355710)
+    Availability: Available
+    Price: $320.00 USD
+  - [Marble  Matt / Customized / Super Light](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221022388478)
+    Availability: Available
+    Price: $350.00 USD
+  - [Marble Glossy / 24 / Super Light](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221022421246)
+    Availability: Available
+    Price: $350.00 USD
+  - [Marble Glossy / 28 / Standard](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221022454014)
+    Availability: Available
+    Price: $320.00 USD
+  - [Marble Glossy / 28 / Super Light](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221022486782)
+    Availability: Available
+    Price: $350.00 USD
+  - [Marble Glossy / Customized / Standard](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221022519550)
+    Availability: Available
+    Price: $320.00 USD
+  - [Marble Glossy / Customized / Super Light](https://bolacarbon.com/products/bola-180mm-aero-carbon-rim-700c-hooked-tubeless-28mm-21mm-tt-triathlon?variant=48221022552318)
+    Availability: Available
+    Price: $350.00 USD
+- [Bola ST 40T DT Swiss 350S Carbon Road Wheelset – 40mm Tubular, Rim Brake, 25/28mm, 1200g - Bola Carbon Sporting Goods](https://bolacarbon.com/products/bola-st-40t-dt-swiss-350s-carbon-road-wheelset-40mm-tubular-rim-brake-25-28mm-1200g): The Bola ST 40T DT Swiss 350S carbon road wheelset offers a balanced 40mm rim depth and ultra-light 1200g weight, providing efficient aerodynamics and responsive handling for both climbing and endurance road cycling.  to EN 14781 and rated for riders up to 100kg, this rim brake tubular wheelset delivers dependable braking and proven durability for competitive athletes and daily riders. Key Features Rim Matrtial:T700/T800,UD Matt Rim Depth: 40mm—optimizes aerodynamic drag and crosswind stability for club, sport, and race settings. Rim Widths: Available in 25mm or 28mm to support 25c–30c road tires; choose based on ride comfort or aero needs. Weight: 1200g ±20g per set (without accessories). Lightweight profile with measurable climbing advantage. Brake Type: Rim brake, machined carbon surface for consistent, predictable stopping power. Hubset: DT Swiss 350S—proven for long-term reliability and high mileage. Standard 20/24 spoke count (straight-pull). Spokes: Sapim CX Ray; front 20 (radial), rear 24 (2 cross)—high strength-to-weight and aerodynamics. Certification: EN 14781 test standard, 100kg rider weight rating for  performance and safety. Tubular Construction: For competitive riders prioritizing the lowest rolling mass and precise road feel. Performance Comparison Bola ST 40T DT350S Aluminum Road Wheels Weight (set) 1200g ±20g 1550–1700g Rim Depth 40mm 20–25mm Rim Width 25mm / 28mm 17–19mm Tire Compatibility 25c–30c Tubular 23c–28c Clincher Real-World Use Cases Competitive road racing: Suitable for sustained efforts and sprints on flat, rolling, or hilly terrain. Climbing stages: Low overall mass for improved uphill acceleration. Endurance events: Fatigue-reducing weight and crosswind-stable 40mm profile. Upgrades: Significant aero and rotational mass reduction over most aluminum wheelsets. Known Tradeoffs Tubular setup: Requires glue/tape and specific tires; preferred by racers for lowest rotating mass. Rim brake only: Not compatible with disc brake bikes. Frequently Asked Questions Are 40mm carbon wheelsets good for both climbing and flat road cycling? Yes. The 40mm depth balances aerodynamic efficiency on flats with manageable weight for climbing, making it versatile for various road profiles and weather. What are the benefits of a 1,200g tubular rim brake wheelset for endurance rides? A 1,200g tubular set minimizes rotational mass, reducing fatigue and improving acceleration. Tubular construction supports higher pressure, grip, and a refined road feel preferred by endurance cyclists. How does a 25mm vs 28mm wide carbon road wheelset affect performance? 25mm width offers optimal aerodynamics and compatibility for 25–28c tires, maximizing rolling speed. 28mm supports greater air volume (comfort) and tire stability at lower pressures, which can improve grip and endurance ride quality. Is a 40mm rim brake carbon wheelset a good upgrade from aluminum wheels? Switching reduces weight by 300–500g and increases aerodynamic efficiency, especially at higher speeds. Carbon rims also enhance stiffness and ride feel if installed professionally. Which lightweight road wheelset is best for riders up to 100kg? This wheelset is tested and  (EN 14781) for riders up to 100kg, combining reliability and performance with a focus on durability for heavier or high-power cyclists. { "@context": "https://schema.org/", "@type": "Product", "name": "Bola ST 40T DT Swiss 350S Carbon Road Wheelset – 40mm Tubular, Rim Brake, 25/28mm, 1200g", "description": "The Bola ST 40T DT Swiss 350S carbon road wheelset offers a balanced 40mm rim depth and ultra-light 1200g weight, providing efficient aerodynamics and responsive handling for both climbing and endurance road cycling.  to EN 14781 and rated for riders up to 100kg, this rim brake tubular wheelset delivers dependable braking and proven durability for competitive athletes and daily riders. Key Features Rim Depth: 40mm—optimizes aerodynamic drag and crosswind stability for club, sport, and race settings. Rim Widths: Available in 25mm or 28mm to support 25c–30c road tires; choose based on ride comfort or aero needs. Weight: 1200g ±20g per set (without accessories). Lightweight profile with measurable climbing advantage. Brake Type: Rim brake, machined carbon surface for consistent, predictable stopping power. Hubset: DT Swiss 350S—proven for long-term reliability and high mileage. Standard 24/24 spoke count (straight-pull). Certification: EN 14781 test standard, 100kg rider weight rating for  performance and safety. Tubular Construction: For competitive riders prioritizing the lowest rolling mass and precise road feel. Performance Comparison Bola ST 40T DT350S Aluminum Road Wheels Weight (set) 1200g ±20g 1550–1700g Rim Depth 40mm 20–25mm Rim Width 25mm / 28mm 17–19mm Tire Compatibility 25c–30c Tubular 23c–28c Clincher Real-World Use Cases Competitive road racing: Suitable for sustained efforts and sprints on flat, rolling, or hilly terrain. Climbing stages: Low overall mass for improved uphill acceleration. Endurance events: Fatigue-reducing weight and crosswind-stable 40mm profile. Upgrades: Significant aero and rotational mass reduction over most aluminum wheelsets. Known Tradeoffs Tubular setup: Requires glue/tape and specific tires; preferred by racers for lowest rotating mass. Rim brake only: Not compatible with disc brake bikes. Frequently Asked Questions Are 40mm carbon wheelsets good for both climbing and flat road cycling? Yes. The 40mm depth balances aerodynamic efficiency on flats with manageable weight for climbing, making it versatile for various road profiles and weather. What are the benefits of a 1,200g tubular rim brake wheelset for endurance rides? A 1,200g tubular set minimizes rotational mass, reducing fatigue and improving acceleration. Tubular construction supports higher pressure, grip, and a refined road feel preferred by endurance cyclists. How does a 25mm vs 28mm wide carbon road wheelset affect performance? 25mm width offers optimal aerodynamics and compatibility for 25–28c tires, maximizing rolling speed. 28mm supports greater air volume (comfort) and tire stability at lower pressures, which can improve grip and endurance ride quality. Is a 40mm rim brake carbon wheelset a good upgrade from aluminum wheels? Switching reduces weight by 300–500g and increases aerodynamic efficiency, especially at higher speeds. Carbon rims also enhance stiffness and ride feel if installed professionally. Which lightweight road wheelset is best for riders up to 100kg? This wheelset is tested and  (EN 14781) for riders up to 100kg, combining reliability and performance with a focus on durability for heavier or high-power cyclists.", "brand": { "@type": "Brand", "name": "Carbon Fiber Sporting Goods" }, "category": "Carbon Road Bike Wheelsets", "image": [ "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/dt35020_24wheel.png?v=1779780151", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/bola38mmcarbonrimbrakewheelsetdt350.png?v=1779780151", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/boladt350carbonwheelset_fae489a1-e4ec-43db-8728-b50e7b3d4d78.png?v=1779780151" ], "offers": { "@type": "Offer", "availability": "https://schema.org/OutOfStock", "price": "860.00", "priceCurrency": "USD", "url": "https://bolacarbon.com/products/bola-st-40t-dt-swiss-350s-carbon-road-wheelset-40mm-rim-brake-tubular-25mm-28mm-wide-1200g", "seller": { "@type": "Organization", "name": "https://bolacarbon.com" } } } { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [ { "@type": "Question", "name": "Are 40mm carbon wheelsets good for both climbing and flat road cycling?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. The 40mm depth balances aerodynamic efficiency on flats with manageable weight for climbing, making it versatile for various road profiles and weather." } }, { "@type": "Question", "name": "What are the benefits of a 1,200g tubular rim brake wheelset for endurance rides?", "acceptedAnswer": { "@type": "Answer", "text": "A 1,200g tubular set minimizes rotational mass, reducing fatigue and improving acceleration. Tubular construction supports higher pressure, grip, and a refined road feel preferred by endurance cyclists." } }, { "@type": "Question", "name": "How does a 25mm vs 28mm wide carbon road wheelset affect performance?", "acceptedAnswer": { "@type": "Answer", "text": "25mm width offers optimal aerodynamics and compatibility for 25–28c tires, maximizing rolling speed. 28mm supports greater air volume (comfort) and tire stability at lower pressures, which can improve grip and endurance ride quality." } }, { "@type": "Question", "name": "Is a 40mm rim brake carbon wheelset a good upgrade from aluminum wheels?", "acceptedAnswer": { "@type": "Answer", "text": "Switching reduces weight by 300–500g and increases aerodynamic efficiency, especially at higher speeds. Carbon rims also enhance stiffness and ride feel if installed professionally." } }, { "@type": "Question", "name": "Which lightweight road wheelset is best for riders up to 100kg?", "acceptedAnswer": { "@type": "Answer", "text": "This wheelset is tested and  (EN 14781) for riders up to 100kg, combining reliability and performance with a focus on durability for heavier or high-power cyclists." } } ] } - Bola Carbon Sporting Goods
+  Updated: 2026-05-26T19:23:48Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Carbon Road Bike Wheelsets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/dt35020_24wheel.png?v=1779780151
+  - [17/25 mm / Shimano HG / Black Bola](https://bolacarbon.com/products/bola-st-40t-dt-swiss-350s-carbon-road-wheelset-40mm-tubular-rim-brake-25-28mm-1200g?variant=48259472228606)
+    Availability: Available
+    Price: $860.00 USD
+  - [17/25 mm / Shimano HG / White Bola](https://bolacarbon.com/products/bola-st-40t-dt-swiss-350s-carbon-road-wheelset-40mm-tubular-rim-brake-25-28mm-1200g?variant=48259472261374)
+    Availability: Available
+    Price: $860.00 USD
+  - [17/25 mm / Shimano HG / Customized](https://bolacarbon.com/products/bola-st-40t-dt-swiss-350s-carbon-road-wheelset-40mm-tubular-rim-brake-25-28mm-1200g?variant=48259472294142)
+    Availability: Available
+    Price: $860.00 USD
+  - [17/25 mm / Sram XDR / Black Bola](https://bolacarbon.com/products/bola-st-40t-dt-swiss-350s-carbon-road-wheelset-40mm-tubular-rim-brake-25-28mm-1200g?variant=48259472326910)
+    Availability: Available
+    Price: $860.00 USD
+  - [17/25 mm / Sram XDR / White Bola](https://bolacarbon.com/products/bola-st-40t-dt-swiss-350s-carbon-road-wheelset-40mm-tubular-rim-brake-25-28mm-1200g?variant=48259472359678)
+    Availability: Available
+    Price: $860.00 USD
+  - [17/25 mm / Sram XDR / Customized](https://bolacarbon.com/products/bola-st-40t-dt-swiss-350s-carbon-road-wheelset-40mm-tubular-rim-brake-25-28mm-1200g?variant=48259472392446)
+    Availability: Available
+    Price: $860.00 USD
+  - [17/25 mm / Compy / Black Bola](https://bolacarbon.com/products/bola-st-40t-dt-swiss-350s-carbon-road-wheelset-40mm-tubular-rim-brake-25-28mm-1200g?variant=48259472425214)
+    Availability: Available
+    Price: $860.00 USD
+  - [17/25 mm / Compy / White Bola](https://bolacarbon.com/products/bola-st-40t-dt-swiss-350s-carbon-road-wheelset-40mm-tubular-rim-brake-25-28mm-1200g?variant=48259472457982)
+    Availability: Available
+    Price: $860.00 USD
+  - [17/25 mm / Compy / Customized](https://bolacarbon.com/products/bola-st-40t-dt-swiss-350s-carbon-road-wheelset-40mm-tubular-rim-brake-25-28mm-1200g?variant=48259472490750)
+    Availability: Available
+    Price: $860.00 USD
+  - [21/28 mm / Shimano HG / Black Bola](https://bolacarbon.com/products/bola-st-40t-dt-swiss-350s-carbon-road-wheelset-40mm-tubular-rim-brake-25-28mm-1200g?variant=48259472523518)
+    Availability: Available
+    Price: $860.00 USD
+  - [21/28 mm / Shimano HG / White Bola](https://bolacarbon.com/products/bola-st-40t-dt-swiss-350s-carbon-road-wheelset-40mm-tubular-rim-brake-25-28mm-1200g?variant=48259472556286)
+    Availability: Available
+    Price: $860.00 USD
+  - [21/28 mm / Shimano HG / Customized](https://bolacarbon.com/products/bola-st-40t-dt-swiss-350s-carbon-road-wheelset-40mm-tubular-rim-brake-25-28mm-1200g?variant=48259472589054)
+    Availability: Available
+    Price: $860.00 USD
+  - [21/28 mm / Sram XDR / Black Bola](https://bolacarbon.com/products/bola-st-40t-dt-swiss-350s-carbon-road-wheelset-40mm-tubular-rim-brake-25-28mm-1200g?variant=48259472621822)
+    Availability: Available
+    Price: $860.00 USD
+  - [21/28 mm / Sram XDR / White Bola](https://bolacarbon.com/products/bola-st-40t-dt-swiss-350s-carbon-road-wheelset-40mm-tubular-rim-brake-25-28mm-1200g?variant=48259472654590)
+    Availability: Available
+    Price: $860.00 USD
+  - [21/28 mm / Sram XDR / Customized](https://bolacarbon.com/products/bola-st-40t-dt-swiss-350s-carbon-road-wheelset-40mm-tubular-rim-brake-25-28mm-1200g?variant=48259472687358)
+    Availability: Available
+    Price: $860.00 USD
+  - [21/28 mm / Compy / Black Bola](https://bolacarbon.com/products/bola-st-40t-dt-swiss-350s-carbon-road-wheelset-40mm-tubular-rim-brake-25-28mm-1200g?variant=48259472720126)
+    Availability: Available
+    Price: $860.00 USD
+  - [21/28 mm / Compy / White Bola](https://bolacarbon.com/products/bola-st-40t-dt-swiss-350s-carbon-road-wheelset-40mm-tubular-rim-brake-25-28mm-1200g?variant=48259472752894)
+    Availability: Available
+    Price: $860.00 USD
+  - [21/28 mm / Compy / Customized](https://bolacarbon.com/products/bola-st-40t-dt-swiss-350s-carbon-road-wheelset-40mm-tubular-rim-brake-25-28mm-1200g?variant=48259472785662)
+    Availability: Available
+    Price: $860.00 USD
+- [Bola ST 50C Carbon Wheelset, DT350S Hubs, Rim Brake, 50mm, Tubeless, 25/28mm, 1410g - Bola Carbon Sporting Goods](https://bolacarbon.com/products/bola-st-50c-carbon-wheelset-dt350s-hubs-rim-brake-50mm-tubeless-25-28mm-1410g): This Bola ST 50C DT Swiss 350S carbon wheelset is engineered for versatility—offering a 50mm aerodynamic rim depth, lightweight 1,410g construction, and proven durability, making it a dependable choice for high-performance road cycling, competitive racing, and endurance rides on rim brake bikes. Key Features & Specifications Rim Matrtial:T700/T800,UD Matt Rim Depth: 50mm aero profile—optimizes speed on flat rides and sprints while maintaining stability in moderate crosswinds. Rim Width: 25mm or 28mm external; 17/21mm internal—fits 25c–30c tires for enhanced traction and comfort; supports modern tubeless setups. Weight: 1,410g ±20g (tubeless ready, no accessories)—comparable to other lightweight performance wheelsets; allows quick accelerations and efficient climbing. Brake Interface: Machined high modulus carbon for consistent rim braking, suitable for technical descents and endurance rides. Hubs: DT Swiss 350S—recognized for durability and low drag; upgradeable axle compatibility. Spokes: Sapim CX Ray (Front: 20 radial, Rear: 24 two-cross)—aero and high tensile strength for reliability under load. Certification: EN 14781, tested to 125kg rider weight. Axle Standard: Front O.L.D 100mm rim brake—classic road compatibility. Performance Comparison Feature Bola ST 50C Typical Lightweight 45-50mm Rim Depth 50mm 45-50mm Rim Width 25/28mm external, 17/21mm internal 26-28mm ext, 17-21mm int Weight 1,410g ±20g 1,370-1,500g Brake Type Rim (high modulus carbon) Rim or Disc Certification EN 14781 Varies Spokes/Hubs DT350S, Sapim CX Ray DT240/350, Sapim/CX Situational Use-Case Alignment Sprint or Flat Roads: 50mm profile balances aero gains and crosswind handling. Endurance/Climbing: 1,410g weight allows confident climbing and all-day reliability; not the lightest, but offers increased stability and durability. Versatile Tire Fit: 25–30c compatibility with tubeless setup supports wide range of road conditions. Frequently Asked Questions Is a 50mm carbon rim brake wheelset good for both sprint and flat road rides? Yes. The 50mm rim depth offers an optimal balance of aero benefits for fast flats and sprints, with enough stability for windy conditions. Is 28mm wide rim good for rim brake carbon bike wheels? 28mm external width improves tire support, increasing cornering grip and comfort for 25–30c tires, and works effectively with rim brakes featuring appropriately sized pads and clearances. How does a 1,410g wheelset compare to other lightweight tubeless options? At 1,410g, this wheelset is competitive with leading tubeless-ready models in the 45–50mm depth range, providing a solid mix of acceleration and durability. Are carbon rim brake wheels reliable for long endurance rides and descents? The EN 14781- carbon rim and machined brake surface ensure consistent braking and heat resistance for extended descents. Regular inspection and proper pad use are recommended. What’s the best tubeless road wheelset for 25c to 30c tires with rim brakes? The Bola ST 50C offers modern tire fit, proven hub reliability, and certification—making it ideal for this segment. { "@context": "https://schema.org/", "@type": "Product", "name": "Bola ST 50C DT350S Carbon Rim Brake Wheelset, 50mm Tubeless, 25mm/28mm Wide,1410g", "description": "This Bola ST 50C DT Swiss 350S carbon wheelset is engineered for versatility—offering a 50mm aerodynamic rim depth, lightweight 1,410g construction, and proven durability, making it a dependable choice for high-performance road cycling, competitive racing, and endurance rides on rim brake bikes. Key Features & Specifications Rim Depth: 50mm aero profile—optimizes speed on flat rides and sprints while maintaining stability in moderate crosswinds. Rim Width: 25mm or 28mm external; 17/21mm internal—fits 25c–30c tires for enhanced traction and comfort; supports modern tubeless setups. Weight: 1,410g ±20g (tubeless ready, no accessories)—comparable to other lightweight performance wheelsets; allows quick accelerations and efficient climbing. Brake Interface: Machined high modulus carbon for consistent rim braking, suitable for technical descents and endurance rides. Hubs: DT Swiss 350S—recognized for durability and low drag; upgradeable axle compatibility. Spokes: Sapim CX Ray (Front: 20 radial, Rear: 24 two-cross)—aero and high tensile strength for reliability under load. Certification: EN 14781, tested to 125kg rider weight. Axle Standard: Front O.L.D 100mm rim brake—classic road compatibility. Performance Comparison Feature Bola ST 50C Typical Lightweight 45-50mm Rim Depth 50mm 45-50mm Rim Width 25/28mm external, 17/21mm internal 26-28mm ext, 17-21mm int Weight 1,410g ±20g 1,370-1,500g Brake Type Rim (high modulus carbon) Rim or Disc Certification EN 14781 Varies Spokes/Hubs DT350S, Sapim CX Ray DT240/350, Sapim/CX Situational Use-Case Alignment Sprint or Flat Roads: 50mm profile balances aero gains and crosswind handling. Endurance/Climbing: 1,410g weight allows confident climbing and all-day reliability; not the lightest, but offers increased stability and durability. Versatile Tire Fit: 25–30c compatibility with tubeless setup supports wide range of road conditions. Frequently Asked Questions Is a 50mm carbon rim brake wheelset good for both sprint and flat road rides? Yes. The 50mm rim depth offers an optimal balance of aero benefits for fast flats and sprints, with enough stability for windy conditions. Is 28mm wide rim good for rim brake carbon bike wheels? 28mm external width improves tire support, increasing cornering grip and comfort for 25–30c tires, and works effectively with rim brakes featuring appropriately sized pads and clearances. How does a 1,410g wheelset compare to other lightweight tubeless options? At 1,410g, this wheelset is competitive with leading tubeless-ready models in the 45–50mm depth range, providing a solid mix of acceleration and durability. Are carbon rim brake wheels reliable for long endurance rides and descents? The EN 14781- carbon rim and machined brake surface ensure consistent braking and heat resistance for extended descents. Regular inspection and proper pad use are recommended. What’s the best tubeless road wheelset for 25c to 30c tires with rim brakes? The Bola ST 50C offers modern tire fit, proven hub reliability, and certification—making it ideal for this segment.", "brand": { "@type": "Brand", "name": "Carbon Fiber Sporting Goods" }, "category": "Carbon Road Bike Wheelsets", "image": [ "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/blackboladt350rimbrakewheelset_d510491b-c813-4749-9c49-36f1130df9b5.png?v=1779784219", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/boladt350carbonwheelset_915736ae-69ca-47f6-a7e9-ba8504ffd1e1.png?v=1779784219", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/bola50mmcarbonbikewheelrimbrakedt350.png?v=1779784219" ], "offers": { "@type": "Offer", "availability": "https://schema.org/OutOfStock", "price": "860.00", "priceCurrency": "USD", "url": "https://bolacarbon.com/products/bola-st-50c-dt350s-carbon-rim-brake-wheelset-50mm-tubeless-25mm-28mm-wide-1410g", "seller": { "@type": "Organization", "name": "https://bolacarbon.com" } } } { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [ { "@type": "Question", "name": "Is a 50mm carbon rim brake wheelset good for both sprint and flat road rides?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. The 50mm rim depth offers an optimal balance of aero benefits for fast flats and sprints, with enough stability for windy conditions." } }, { "@type": "Question", "name": "Is 28mm wide rim good for rim brake carbon bike wheels?", "acceptedAnswer": { "@type": "Answer", "text": "28mm external width improves tire support, increasing cornering grip and comfort for 25–30c tires, and works effectively with rim brakes featuring appropriately sized pads and clearances." } }, { "@type": "Question", "name": "How does a 1,410g wheelset compare to other lightweight tubeless options?", "acceptedAnswer": { "@type": "Answer", "text": "At 1,410g, this wheelset is competitive with leading tubeless-ready models in the 45–50mm depth range, providing a solid mix of acceleration and durability." } }, { "@type": "Question", "name": "Are carbon rim brake wheels reliable for long endurance rides and descents?", "acceptedAnswer": { "@type": "Answer", "text": "The EN 14781- carbon rim and machined brake surface ensure consistent braking and heat resistance for extended descents. Regular inspection and proper pad use are recommended." } }, { "@type": "Question", "name": "What’s the best tubeless road wheelset for 25c to 30c tires with rim brakes?", "acceptedAnswer": { "@type": "Answer", "text": "The Bola ST 50C offers modern tire fit, proven hub reliability, and certification—making it ideal for this segment." } } ] } - Bola Carbon Sporting Goods
+  Updated: 2026-05-26T20:30:36Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Carbon Road Bike Wheelset
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/blackboladt350rimbrakewheelset_d510491b-c813-4749-9c49-36f1130df9b5.png?v=1779784219
+  - [17/25 mm / Shimano HG / Black Bola](https://bolacarbon.com/products/bola-st-50c-carbon-wheelset-dt350s-hubs-rim-brake-50mm-tubeless-25-28mm-1410g?variant=48259582263550)
+    Availability: Available
+    Price: $860.00 USD
+  - [17/25 mm / Shimano HG / White Bola](https://bolacarbon.com/products/bola-st-50c-carbon-wheelset-dt350s-hubs-rim-brake-50mm-tubeless-25-28mm-1410g?variant=48259582296318)
+    Availability: Available
+    Price: $860.00 USD
+  - [17/25 mm / Shimano HG / Customized](https://bolacarbon.com/products/bola-st-50c-carbon-wheelset-dt350s-hubs-rim-brake-50mm-tubeless-25-28mm-1410g?variant=48259582329086)
+    Availability: Available
+    Price: $860.00 USD
+  - [17/25 mm / Sram XDR / Black Bola](https://bolacarbon.com/products/bola-st-50c-carbon-wheelset-dt350s-hubs-rim-brake-50mm-tubeless-25-28mm-1410g?variant=48259582361854)
+    Availability: Available
+    Price: $860.00 USD
+  - [17/25 mm / Sram XDR / White Bola](https://bolacarbon.com/products/bola-st-50c-carbon-wheelset-dt350s-hubs-rim-brake-50mm-tubeless-25-28mm-1410g?variant=48259582394622)
+    Availability: Available
+    Price: $860.00 USD
+  - [17/25 mm / Sram XDR / Customized](https://bolacarbon.com/products/bola-st-50c-carbon-wheelset-dt350s-hubs-rim-brake-50mm-tubeless-25-28mm-1410g?variant=48259582427390)
+    Availability: Available
+    Price: $860.00 USD
+  - [17/25 mm / Compy / Black Bola](https://bolacarbon.com/products/bola-st-50c-carbon-wheelset-dt350s-hubs-rim-brake-50mm-tubeless-25-28mm-1410g?variant=48259582460158)
+    Availability: Available
+    Price: $860.00 USD
+  - [17/25 mm / Compy / White Bola](https://bolacarbon.com/products/bola-st-50c-carbon-wheelset-dt350s-hubs-rim-brake-50mm-tubeless-25-28mm-1410g?variant=48259582492926)
+    Availability: Available
+    Price: $860.00 USD
+  - [17/25 mm / Compy / Customized](https://bolacarbon.com/products/bola-st-50c-carbon-wheelset-dt350s-hubs-rim-brake-50mm-tubeless-25-28mm-1410g?variant=48259582525694)
+    Availability: Available
+    Price: $860.00 USD
+  - [21/28 mm / Shimano HG / Black Bola](https://bolacarbon.com/products/bola-st-50c-carbon-wheelset-dt350s-hubs-rim-brake-50mm-tubeless-25-28mm-1410g?variant=48259582558462)
+    Availability: Available
+    Price: $860.00 USD
+  - [21/28 mm / Shimano HG / White Bola](https://bolacarbon.com/products/bola-st-50c-carbon-wheelset-dt350s-hubs-rim-brake-50mm-tubeless-25-28mm-1410g?variant=48259582591230)
+    Availability: Available
+    Price: $860.00 USD
+  - [21/28 mm / Shimano HG / Customized](https://bolacarbon.com/products/bola-st-50c-carbon-wheelset-dt350s-hubs-rim-brake-50mm-tubeless-25-28mm-1410g?variant=48259582623998)
+    Availability: Available
+    Price: $860.00 USD
+  - [21/28 mm / Sram XDR / Black Bola](https://bolacarbon.com/products/bola-st-50c-carbon-wheelset-dt350s-hubs-rim-brake-50mm-tubeless-25-28mm-1410g?variant=48259582656766)
+    Availability: Available
+    Price: $860.00 USD
+  - [21/28 mm / Sram XDR / White Bola](https://bolacarbon.com/products/bola-st-50c-carbon-wheelset-dt350s-hubs-rim-brake-50mm-tubeless-25-28mm-1410g?variant=48259582689534)
+    Availability: Available
+    Price: $860.00 USD
+  - [21/28 mm / Sram XDR / Customized](https://bolacarbon.com/products/bola-st-50c-carbon-wheelset-dt350s-hubs-rim-brake-50mm-tubeless-25-28mm-1410g?variant=48259582722302)
+    Availability: Available
+    Price: $860.00 USD
+  - [21/28 mm / Compy / Black Bola](https://bolacarbon.com/products/bola-st-50c-carbon-wheelset-dt350s-hubs-rim-brake-50mm-tubeless-25-28mm-1410g?variant=48259582755070)
+    Availability: Available
+    Price: $860.00 USD
+  - [21/28 mm / Compy / White Bola](https://bolacarbon.com/products/bola-st-50c-carbon-wheelset-dt350s-hubs-rim-brake-50mm-tubeless-25-28mm-1410g?variant=48259582787838)
+    Availability: Available
+    Price: $860.00 USD
+  - [21/28 mm / Compy / Customized](https://bolacarbon.com/products/bola-st-50c-carbon-wheelset-dt350s-hubs-rim-brake-50mm-tubeless-25-28mm-1410g?variant=48259582820606)
+    Availability: Available
+    Price: $860.00 USD
+- [Bola ST 50T 50mm Carbon Road Wheelset, DT Swiss 350S, CX-Ray, Tubular, Rim Brake, 25/28mm - Bola Carbon Sporting Goods](https://bolacarbon.com/products/bola-st-50t-50mm-carbon-road-wheelset-dt-350s-hub-cx-ray-spoke-tubular-rim-brake-25-28mm-1270g): Engineered for competitive road racing and endurance cycling, the Bola ST 50T 50mm carbon road wheelset leverages DT Swiss 350S hubs and Sapim CX-Ray spokes for optimal power transfer and consistent braking on demanding terrain. Choose between 25mm or 28mm tubular rims to fine-tune aerodynamics and handling for your riding style. Basalt carbon braking surfaces and a  EN 14781 tubular construction ensure durability and heat resistance for long descents while maximizing acceleration with a 1270g ±20g total weight. Key Specifications Rim Matrtial:T700/T800,UD Matt Rim Depth: 50mm Rim Width: 25mm or 28mm (external) Weight: 1270g ±20g (per set, without accessories) Brake Type: Rim brake, basalt carbon braking surface Spokes: Sapim CX-Ray, 20 front (radial), 24 rear (2 cross) Hubset: DT Swiss 350S Axle Standards: Standard quick-release Certification: EN 14781 Max Rider Weight: 100kg Warranty: 2 years Performance & Use Cases Designed for road racing, competitive stage events, and long-distance endurance riding. Tubular construction supports higher tire pressures (25–30c suitable), improving grip and road feedback in high-speed and technical segments. The 1270g overall set weight reduces rotational inertia, resulting in noticeable gains in acceleration and climbing efficiency compared to typical wheelsets (1400–1600g). Basalt carbon braking surface mitigates fade on alpine descents, sustaining reliable braking under repeated high-heat loads. Riders are advised to use carbon-specific brake pads and monitor rim heat on sustained descents. Choice of 25mm or 28mm width: 25mm is typically favored for hilly and mixed terrain for agility and lighter weight, 28mm offers a broader tire bed for stability at speed and better support for modern wide tubular tires. Comparison Table: Bola ST 50T vs Popular Competitors Model Rim Depth Rim Width Weight (pair) Brake Construction Bola ST 50T 50mm 25/28mm 1270g Rim High modulus carbon, tubular DT50S (comp) 50mm 25mm 720-820g (rim only) Disc Toray T700/T800 carbon HUNT 50 Carbon 50mm 22mm internal ~1468g Disc Tubeless-ready, carbon 5.0 Carbon Tubular 50mm 25mm NA Rim High modulus carbon, tubular Known Trade-offs Tubular tires require more labor to install and repair versus clinchers, but reduce rolling weight and allow higher pressures/preferred road feel by many racers. Rim brake configuration delivers lighter weight but may require cautious descent management on very long or hot alpine passes. While disc brake models offer broader compatibility and weather performance, the rim brake Bola ST 50T prioritizes minimal mass and classic road build standards. Frequently Asked Questions Are 50mm deep carbon tubular wheels good for road racing? Yes, 50mm deep carbon tubular wheels are optimized for road racing as they provide aerodynamic advantages, low rotational mass for rapid acceleration, and high responsiveness. The Bola ST 50T model supports endurance and sprint events where these characteristics enhance racing performance, in line with preferences of experienced competitors and teams. How does a 1270g carbon wheelset with DT 350 hubs compare to other lightweight wheelsets? At 1270g per pair and with proven DT Swiss 350S hubs, the Bola ST 50T ranks among the lighter wheelsets available for tubular/rim brake setups, facilitating sharper climbs and reduced fatigue over distance. Competitor clincher/tubeless disc models frequently exceed 1400g. What's better for hilly terrain, 25mm or 28mm wide tubular carbon rims? 25mm rims are typically preferred for hilly routes due to reduced weight and improved agility, while 28mm offers additional stability and tire support at higher speeds or rough surfaces. Match width to your typical tire size and terrain needs. Can these rim brake carbon wheels handle long descents without overheating? The Bola ST 50T's basalt carbon brake track improves heat tolerance and maintains braking power over long descents. To minimize overheating risk, use carbon-specific brake pads and periodically check rim temperature on very long or steep alpine descents. Is this wheelset a good upgrade for improving acceleration and speed on my road bike? Reducing total wheelset weight to 1270g results in faster acceleration and higher sustained speeds, especially noticeable in sprints, climbing, and repeated accelerations common in racing scenarios. { "@context": "https://schema.org/", "@type": "Product", "name": "Bola ST 50T 50mm Carbon Road Wheelset – DT 350s hub CX Ray spoke Tubular Rim Brake, 25/28mm, 1270g", "description": "Engineered for competitive road racing and endurance cycling, the Bola ST 50T 50mm carbon road wheelset leverages DT Swiss 350S hubs and Sapim CX-Ray spokes for optimal power transfer and consistent braking on demanding terrain. Choose between 25mm or 28mm tubular rims to fine-tune aerodynamics and handling for your riding style. Basalt carbon braking surfaces and a  EN 14781 tubular construction ensure durability and heat resistance for long descents while maximizing acceleration with a 1270g ±20g total weight. Key Specifications Rim Depth: 50mm Rim Width: 25mm or 28mm (external) Weight: 1270g ±20g (per set, without accessories) Brake Type: Rim brake, basalt carbon braking surface Spokes: Sapim CX-Ray, 20 front (radial), 24 rear (2 cross) Hubset: DT Swiss 350S Axle Standards: Standard quick-release Certification: EN 14781 Max Rider Weight: 100kg Warranty: 2 years Performance & Use Cases Designed for road racing, competitive stage events, and long-distance endurance riding. Tubular construction supports higher tire pressures (25–30c suitable), improving grip and road feedback in high-speed and technical segments. The 1270g overall set weight reduces rotational inertia, resulting in noticeable gains in acceleration and climbing efficiency compared to typical wheelsets (1400–1600g). Basalt carbon braking surface mitigates fade on alpine descents, sustaining reliable braking under repeated high-heat loads. Riders are advised to use carbon-specific brake pads and monitor rim heat on sustained descents. Choice of 25mm or 28mm width: 25mm is typically favored for hilly and mixed terrain for agility and lighter weight, 28mm offers a broader tire bed for stability at speed and better support for modern wide tubular tires. Comparison Table: Bola ST 50T vs Popular Competitors Model Rim Depth Rim Width Weight (pair) Brake Construction Bola ST 50T 50mm 25/28mm 1270g Rim High modulus carbon, tubular DT50S (comp) 50mm 25mm 720-820g (rim only) Disc Toray T700/T800 carbon HUNT 50 Carbon 50mm 22mm internal ~1468g Disc Tubeless-ready, carbon 5.0 Carbon Tubular 50mm 25mm NA Rim High modulus carbon, tubular Known Trade-offs Tubular tires require more labor to install and repair versus clinchers, but reduce rolling weight and allow higher pressures/preferred road feel by many racers. Rim brake configuration delivers lighter weight but may require cautious descent management on very long or hot alpine passes. While disc brake models offer broader compatibility and weather performance, the rim brake Bola ST 50T prioritizes minimal mass and classic road build standards. Frequently Asked Questions Are 50mm deep carbon tubular wheels good for road racing? Yes, 50mm deep carbon tubular wheels are optimized for road racing as they provide aerodynamic advantages, low rotational mass for rapid acceleration, and high responsiveness. The Bola ST 50T model supports endurance and sprint events where these characteristics enhance racing performance, in line with preferences of experienced competitors and teams. How does a 1270g carbon wheelset with DT 350 hubs compare to other lightweight wheelsets? At 1270g per pair and with proven DT Swiss 350S hubs, the Bola ST 50T ranks among the lighter wheelsets available for tubular/rim brake setups, facilitating sharper climbs and reduced fatigue over distance. Competitor clincher/tubeless disc models frequently exceed 1400g. What's better for hilly terrain, 25mm or 28mm wide tubular carbon rims? 25mm rims are typically preferred for hilly routes due to reduced weight and improved agility, while 28mm offers additional stability and tire support at higher speeds or rough surfaces. Match width to your typical tire size and terrain needs. Can these rim brake carbon wheels handle long descents without overheating? The Bola ST 50T's basalt carbon brake track improves heat tolerance and maintains braking power over long descents. To minimize overheating risk, use carbon-specific brake pads and periodically check rim temperature on very long or steep alpine descents. Is this wheelset a good upgrade for improving acceleration and speed on my road bike? Reducing total wheelset weight to 1270g results in faster acceleration and higher sustained speeds, especially noticeable in sprints, climbing, and repeated accelerations common in racing scenarios.", "brand": { "@type": "Brand", "name": "Carbon Fiber Sporting Goods" }, "category": "Carbon Road Bike Wheelsets", "image": [ "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/bola_rim_brake_wheelset_8c62e281-7755-4a0f-9e91-3553844b3ebe.png?v=1779785564", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/boladt350carbonwheelset_ac04c30b-201c-4ce7-9ca0-f838a72b049a.png?v=1779785255", "https://cdn.shopify.com/s/files/1/0634/8492/0062/files/bola38mmcarbonrimbrakewheelsetdt350_f48fadf3-4cad-4fd4-9e83-61eb6c1d5894.png?v=1779785255" ], "offers": { "@type": "Offer", "availability": "https://schema.org/OutOfStock", "price": "860.00", "priceCurrency": "USD", "url": "https://bolacarbon.com/products/bola-st-50t-50mm-carbon-road-wheelset-dt-350s-hub-cx-ray-spoke-tubular-rim-brake-25-28mm-1270g", "seller": { "@type": "Organization", "name": "https://bolacarbon.com" } } } { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [ { "@type": "Question", "name": "Are 50mm deep carbon tubular wheels good for road racing?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, 50mm deep carbon tubular wheels are optimized for road racing as they provide aerodynamic advantages, low rotational mass for rapid acceleration, and high responsiveness. The Bola ST 50T model supports endurance and sprint events where these characteristics enhance racing performance, in line with preferences of experienced competitors and teams." } }, { "@type": "Question", "name": "How does a 1270g carbon wheelset with DT 350 hubs compare to other lightweight wheelsets?", "acceptedAnswer": { "@type": "Answer", "text": "At 1270g per pair and with proven DT Swiss 350S hubs, the Bola ST 50T ranks among the lighter wheelsets available for tubular/rim brake setups, facilitating sharper climbs and reduced fatigue over distance. Competitor clincher/tubeless disc models frequently exceed 1400g." } }, { "@type": "Question", "name": "What's better for hilly terrain, 25mm or 28mm wide tubular carbon rims?", "acceptedAnswer": { "@type": "Answer", "text": "25mm rims are typically preferred for hilly routes due to reduced weight and improved agility, while 28mm offers additional stability and tire support at higher speeds or rough surfaces. Match width to your typical tire size and terrain needs." } }, { "@type": "Question", "name": "Can these rim brake carbon wheels handle long descents without overheating?", "acceptedAnswer": { "@type": "Answer", "text": "The Bola ST 50T's basalt carbon brake track improves heat tolerance and maintains braking power over long descents. To minimize overheating risk, use carbon-specific brake pads and periodically check rim temperature on very long or steep alpine descents." } }, { "@type": "Question", "name": "Is this wheelset a good upgrade for improving acceleration and speed on my road bike?", "acceptedAnswer": { "@type": "Answer", "text": "Reducing total wheelset weight to 1270g results in faster acceleration and higher sustained speeds, especially noticeable in sprints, climbing, and repeated accelerations common in racing scenarios." } } ] } - Bola Carbon Sporting Goods
+  Updated: 2026-05-26T20:53:17Z
+  Vendor: Carbon Fiber Sporting Goods
+  Product Type: Carbon Road Bike Wheelsets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0634/8492/0062/files/bola_rim_brake_wheelset_8c62e281-7755-4a0f-9e91-3553844b3ebe.png?v=1779804242
+  - [17/25 mm / Shimano HG / Black Bola](https://bolacarbon.com/products/bola-st-50t-50mm-carbon-road-wheelset-dt-350s-hub-cx-ray-spoke-tubular-rim-brake-25-28mm-1270g?variant=48259616702718)
+    Availability: Available
+    Price: $860.00 USD
+  - [17/25 mm / Shimano HG / White Bola](https://bolacarbon.com/products/bola-st-50t-50mm-carbon-road-wheelset-dt-350s-hub-cx-ray-spoke-tubular-rim-brake-25-28mm-1270g?variant=48259616735486)
+    Availability: Available
+    Price: $860.00 USD
+  - [17/25 mm / Shimano HG / Customized](https://bolacarbon.com/products/bola-st-50t-50mm-carbon-road-wheelset-dt-350s-hub-cx-ray-spoke-tubular-rim-brake-25-28mm-1270g?variant=48259616768254)
+    Availability: Available
+    Price: $860.00 USD
+  - [17/25 mm / Sram XDR / Black Bola](https://bolacarbon.com/products/bola-st-50t-50mm-carbon-road-wheelset-dt-350s-hub-cx-ray-spoke-tubular-rim-brake-25-28mm-1270g?variant=48259616801022)
+    Availability: Available
+    Price: $860.00 USD
+  - [17/25 mm / Sram XDR / White Bola](https://bolacarbon.com/products/bola-st-50t-50mm-carbon-road-wheelset-dt-350s-hub-cx-ray-spoke-tubular-rim-brake-25-28mm-1270g?variant=48259616833790)
+    Availability: Available
+    Price: $860.00 USD
+  - [17/25 mm / Sram XDR / Customized](https://bolacarbon.com/products/bola-st-50t-50mm-carbon-road-wheelset-dt-350s-hub-cx-ray-spoke-tubular-rim-brake-25-28mm-1270g?variant=48259616866558)
+    Availability: Available
+    Price: $860.00 USD
+  - [17/25 mm / Compy / Black Bola](https://bolacarbon.com/products/bola-st-50t-50mm-carbon-road-wheelset-dt-350s-hub-cx-ray-spoke-tubular-rim-brake-25-28mm-1270g?variant=48259616899326)
+    Availability: Available
+    Price: $860.00 USD
+  - [17/25 mm / Compy / White Bola](https://bolacarbon.com/products/bola-st-50t-50mm-carbon-road-wheelset-dt-350s-hub-cx-ray-spoke-tubular-rim-brake-25-28mm-1270g?variant=48259616932094)
+    Availability: Available
+    Price: $860.00 USD
+  - [17/25 mm / Compy / Customized](https://bolacarbon.com/products/bola-st-50t-50mm-carbon-road-wheelset-dt-350s-hub-cx-ray-spoke-tubular-rim-brake-25-28mm-1270g?variant=48259616964862)
+    Availability: Available
+    Price: $860.00 USD
+  - [21/28 mm / Shimano HG / Black Bola](https://bolacarbon.com/products/bola-st-50t-50mm-carbon-road-wheelset-dt-350s-hub-cx-ray-spoke-tubular-rim-brake-25-28mm-1270g?variant=48259616997630)
+    Availability: Available
+    Price: $860.00 USD
+  - [21/28 mm / Shimano HG / White Bola](https://bolacarbon.com/products/bola-st-50t-50mm-carbon-road-wheelset-dt-350s-hub-cx-ray-spoke-tubular-rim-brake-25-28mm-1270g?variant=48259617030398)
+    Availability: Available
+    Price: $860.00 USD
+  - [21/28 mm / Shimano HG / Customized](https://bolacarbon.com/products/bola-st-50t-50mm-carbon-road-wheelset-dt-350s-hub-cx-ray-spoke-tubular-rim-brake-25-28mm-1270g?variant=48259617063166)
+    Availability: Available
+    Price: $860.00 USD
+  - [21/28 mm / Sram XDR / Black Bola](https://bolacarbon.com/products/bola-st-50t-50mm-carbon-road-wheelset-dt-350s-hub-cx-ray-spoke-tubular-rim-brake-25-28mm-1270g?variant=48259617095934)
+    Availability: Available
+    Price: $860.00 USD
+  - [21/28 mm / Sram XDR / White Bola](https://bolacarbon.com/products/bola-st-50t-50mm-carbon-road-wheelset-dt-350s-hub-cx-ray-spoke-tubular-rim-brake-25-28mm-1270g?variant=48259617128702)
+    Availability: Available
+    Price: $860.00 USD
+  - [21/28 mm / Sram XDR / Customized](https://bolacarbon.com/products/bola-st-50t-50mm-carbon-road-wheelset-dt-350s-hub-cx-ray-spoke-tubular-rim-brake-25-28mm-1270g?variant=48259617161470)
+    Availability: Available
+    Price: $860.00 USD
+  - [21/28 mm / Compy / Black Bola](https://bolacarbon.com/products/bola-st-50t-50mm-carbon-road-wheelset-dt-350s-hub-cx-ray-spoke-tubular-rim-brake-25-28mm-1270g?variant=48259617194238)
+    Availability: Available
+    Price: $860.00 USD
+  - [21/28 mm / Compy / White Bola](https://bolacarbon.com/products/bola-st-50t-50mm-carbon-road-wheelset-dt-350s-hub-cx-ray-spoke-tubular-rim-brake-25-28mm-1270g?variant=48259617227006)
+    Availability: Available
+    Price: $860.00 USD
+  - [21/28 mm / Compy / Customized](https://bolacarbon.com/products/bola-st-50t-50mm-carbon-road-wheelset-dt-350s-hub-cx-ray-spoke-tubular-rim-brake-25-28mm-1270g?variant=48259617259774)
+    Availability: Available
+    Price: $860.00 USD
+[List Continued](https://bolacarbon.com/a/llms-agent/llms.txt?shop=boligey.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MjM5MDI2OTkxMzU4LCJsYXN0X3ZhbHVlIjoiOTIzOTAyNjk5MTM1OCJ9)
 
 ## Collections
 
 - [700C 28mm - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/700c-28mm-carbon-bike-rim): 700C size carbon rim,most for disc brake rim brake optional,apply for road,grave,time trial etc 28mm outer wide,21mm inner wide is compatible tire size from 25C to 43C Toray T700 with stable resin,complete hand made product,100% quality check by auto machine for the stable quality.More models and weave option etc for your OEM projects - Bola Carbon Sporting Goods
-  Updated: 2026-05-25T02:18:26Z
-  Total Products: 22
+  Updated: 2026-05-28T06:43:52Z
+  Total Products: 5
 - [700C 25mm - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/700c-carbon-rim-25mm): We are a bike rim manufacturer in China With rich experience in Carbon bike rim and Carbon wheelset, with Competitive price and top quality. - Bola Carbon Sporting Goods
-  Updated: 2026-05-25T02:25:49Z
-  Total Products: 17
+  Updated: 2026-05-28T06:43:52Z
+  Total Products: 6
 - [MTB - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/mtb-carbon-bicycle-rim): We are a bike rim manufacturer in China With rich experience in Carbon bike rim and Carbon wheelset, with Competitive price and top quality. - Bola Carbon Sporting Goods
-  Updated: 2026-05-22T06:57:38Z
-  Total Products: 30
+  Updated: 2026-05-28T06:43:52Z
+  Total Products: 25
 - [Carbon Bike Rim - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/carbon-bike-rim): High-quality carbon bike rims for durable performance. Handmade with Toray T700 and T800, 100% quality checked for stability. Explore options and order today!
-  Updated: 2026-05-25T02:37:05Z
-  Total Products: 124
+  Updated: 2026-05-30T06:15:03Z
+  Total Products: 67
 - [MTB Wheel - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/mtb-carbon-wheelset): We are a bike rim manufacturer in China With rich experience in Carbon bike rim and Carbon wheelset, with Competitive price and top quality. - Bola Carbon Sporting Goods
-  Updated: 2026-05-11T10:03:15Z
+  Updated: 2026-05-28T06:43:52Z
   Total Products: 6
 - [700C Rim Brake - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/700c-rim-brake-carbon-wheelset): We are a bike rim manufacturer in China With rich experience in Carbon bike rim and Carbon wheelset, with Competitive price and top quality. - Bola Carbon Sporting Goods
-  Updated: 2026-05-22T07:15:55Z
-  Total Products: 8
+  Updated: 2026-05-28T06:43:52Z
+  Total Products: 10
 - [700C Disc Brake - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/700c-disc-brake-carbon-bike-wheel): High-performance wheels for serious cyclists. Top quality carbon bike rims and wheelsets with competitive prices. Explore and upgrade your ride today!
-  Updated: 2026-05-25T03:13:55Z
+  Updated: 2026-06-01T03:43:19Z
   Total Products: 16
 - [Carbon wheelset - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/carbon-wheelset): We are a bike rim manufacturer in China With rich experience in Carbon bike rim and Carbon wheelset, with Competitive price and top quality. - Bola Carbon Sporting Goods
-  Updated: 2026-05-25T03:12:01Z
-  Total Products: 42
+  Updated: 2026-06-01T03:49:18Z
+  Total Products: 61
 - [All products - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/all-products): We are a bike rim manufacturer in China With rich experience in Carbon bike rim and Carbon wheelset, with Competitive price and top quality. - Bola Carbon Sporting Goods
-  Updated: 2026-05-25T03:19:20Z
-  Total Products: 210
+  Updated: 2026-06-01T03:49:18Z
+  Total Products: 138
 - [Carbon Component - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/carbon-component): Handmade customized carbon fiber product for cycling,sport,outdoor etc projects. - Bola Carbon Sporting Goods
-  Updated: 2026-05-13T01:52:18Z
+  Updated: 2026-05-28T06:43:52Z
   Total Products: 2
 - [700C 30mm - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/700c-carbon-bike-rim-30mm): High-performance carbon rims for road and time trial riders. Handcrafted 700C size with stable Toray T700 resin for quality and durability. Explore and buy now!
-  Updated: 2026-05-25T02:37:05Z
-  Total Products: 10
+  Updated: 2026-05-28T06:43:52Z
+  Total Products: 7
 - [Tri-TT-Track-Wheel - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/tri-tt-track-wheel): three,four,five and six spoke wheel and disc wheel for triathlon or Ironman - Bola Carbon Sporting Goods
-  Updated: 2026-05-20T03:08:11Z
-  Total Products: 11
+  Updated: 2026-05-29T09:16:33Z
+  Total Products: 12
 - [700C 34mm - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/700c-34mm-carbon-bike-rim): Durable and high-performance bike rims for cycling enthusiasts. Experience premium quality and competitive prices from a trusted manufacturer. Shop now and elevate your ride!
-  Updated: 2026-05-20T01:57:39Z
+  Updated: 2026-05-28T06:43:53Z
   Total Products: 9
 - [Small Size - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/small-size-carbon-bike-rim): 16inch,18inch,20inch,26inch bike rims - Bola Carbon Sporting Goods
-  Updated: 2026-04-20T20:09:18Z
-  Total Products: 8
+  Updated: 2026-05-28T06:43:53Z
+  Total Products: 3
 - [Customs Buidling - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/customs-buidling): We are a bike rim manufacturer in China With rich experience in Carbon bike rim and Carbon wheelset, with Competitive price and top quality. - Bola Carbon Sporting Goods
-  Updated: 2026-04-20T20:09:19Z
+  Updated: 2026-05-28T06:43:53Z
   Total Products: 0
 - [OEM upgrade - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/oem-upgrade): Discover our OEM upgrade. Expertly crafted carbon bike rim OEM factory designed to enhance your ride quality and performance. Ready to elevate your cycling experience?
-  Updated: 2026-05-07T02:07:09Z
-  Total Products: 21
+  Updated: 2026-05-30T06:02:16Z
+  Total Products: 2
 - [700C 36mm - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/700c-36mm-carbon-bike-rim): 700C 36mm outer and 30mm inner wide,profile from 30mm to 50mm,four schemes:normal,super,ultra and extreme light,three years warranty - Bola Carbon Sporting Goods
-  Updated: 2026-05-20T01:49:51Z
+  Updated: 2026-05-28T06:43:53Z
   Total Products: 5
 - [700C 38mm - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/700c-38mm-carbon-rims): This rim is the definitive choice for the Gravel and All-Road movement. For the Gravel Explorer: With a 32mm internal width, you can confidently run 40c+ tires. Conquer muddy trails, sandy tracks, and rocky descents with the stability of a mountain bike and the speed of a road bike. For the Road Enthusiast: Pair it with a 28c-32c road tire for an incredibly fast and comfortable setup. The wide rim profile provides superior crosswind stability, making high-speed descents safer and more controlled. - Bola Carbon Sporting Goods
-  Updated: 2026-05-19T06:40:18Z
+  Updated: 2026-05-28T06:43:53Z
   Total Products: 2
 - [32 inch - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/32-inch): Discover our 32 inch collection. Road, Gravel, and MTB all available designed to enhance your ride with 32 inch big size options. Ready to upgrade your gear?
-  Updated: 2026-04-20T20:09:19Z
-  Total Products: 0
+  Updated: 2026-05-30T06:15:29Z
+  Total Products: 3
 - [Carbon Spokes Wheelset - Bola Carbon Sporting Goods](https://bolacarbon.com/collections/700c-carbon-spokes-wheelset): High-performance wheels for serious cyclists. Top quality carbon bike spokes and hubs with competitive prices. Explore and upgrade your ride today!
-  Updated: 2026-05-22T01:30:55Z
-  Total Products: 0
+  Updated: 2026-06-01T03:49:18Z
+  Total Products: 15
 
 ## Blogs
 
@@ -3050,27 +2598,48 @@ Bola Carbon Wheelset,Bola Carbon Bike Rim,Bola carbon rim OEM
   - [Essential Considerations for Selecting the Perfect 700C Tubular Carbon Rim for Cyclists](https://bolacarbon.com/blogs/faq/essential-considerations-for-selecting-the-perfect-700c-tubular-carbon-rim-for-cyclists): Essential Considerations for Selecting the Perfect 700C Tubular Carbon Rim for Cyclists
     Updated: 2026-04-27T08:01:58Z
     Author: bola
+  - [Is carbon spoke better than steel spoke on the carbon wheelset?](https://bolacarbon.com/blogs/faq/is-carbon-spoke-better-than-steel-spoke-on-the-carbon-wheelset)
+    Updated: 2026-05-30T04:55:20Z
+    Author: 张汉桂
   - [How is carbon spoke on the carbon bike wheel?](https://bolacarbon.com/blogs/faq/how-is-carbon-spoke-on-the-carbon-bike-wheel)
     Updated: 2026-04-22T07:31:01Z
     Author: 张汉桂
   - [Exploring Why 26-inch Bike Rims Are Becoming a Must-Have for Mountain Biking Enthusiasts](https://bolacarbon.com/blogs/faq/exploring-why-26-inch-bike-rims-are-becoming-a-must-have-for-mountain-biking-enthusiasts): Exploring Why 26-inch Bike Rims Are Becoming a Must-Have for Mountain Biking Enthusiasts
     Updated: 2026-04-23T14:01:01Z
     Author: AI Blog Agent
+  - [Bike Rim Technology Benefits | Faster, Safer Rides](https://bolacarbon.com/blogs/faq/bike-rim-technology-explained-for-faster-safer-rides): Bike Rim Technology Benefits | Faster, Safer Rides
+    Updated: 2026-05-30T04:55:04Z
+    Author: 汉桂 张
   - [Why Full Carbon Tubular Rims Are the Game Changer in Road and Gravel Cycling](https://bolacarbon.com/blogs/faq/why-full-carbon-tubular-rims-are-the-game-changer-in-road-and-gravel-cycling): Why Full Carbon Tubular Rims Are the Game Changer in Road and Gravel Cycling
     Updated: 2026-04-24T14:03:31Z
     Author: AI Blog Agent
+  - [Durable Carbon Bike Rims | Durability Guide | Bola Carbon Sporting Goods](https://bolacarbon.com/blogs/faq/durable-carbon-bike-rims-how-to-choose-the-right-pair): Durable Carbon Bike Rims | Durability Guide | Bola Carbon Sporting Goods
+    Updated: 2026-05-30T04:54:28Z
+    Author: 汉桂 张
+  - [Carbon Gravel Rims Buying Mistakes to Avoid | Bola Carbon Sporting Goods](https://bolacarbon.com/blogs/faq/carbon-gravel-rims-avoid-these-costly-buying-mistakes): Carbon Gravel Rims Buying Mistakes to Avoid | Bola Carbon Sporting Goods
+    Updated: 2026-05-30T04:53:30Z
+    Author: 汉桂 张
   - [Why the 38mm Carbon Tubeless Road Wheelset is a Game-Changer for Road Cyclists](https://bolacarbon.com/blogs/faq/why-the-38mm-carbon-tubeless-road-wheelset-is-a-game-changer-for-road-cyclists): Why the 38mm Carbon Tubeless Road Wheelset is a Game-Changer for Road Cyclists
     Updated: 2026-04-28T14:01:15Z
     Author: AI Blog Agent
+  - [Deep vs Shallow 700c Rims: Which Is Better? | Bola Carbon Sporting Goods](https://bolacarbon.com/blogs/faq/which-is-better-deep-or-shallow-700c-rims): Deep vs Shallow 700c Rims: Which Is Better? | Bola Carbon Sporting Goods
+    Updated: 2026-05-30T04:52:22Z
+    Author: Author
   - [Revolutionize Your Ride with the 20-Inch 406 Carbon Three-Spoke Wheelset for BMX and Polo](https://bolacarbon.com/blogs/faq/revolutionize-your-ride-with-the-20-inch-406-carbon-three-spoke-wheelset-for-bmx-and-polo): Revolutionize Your Ride with the 20-Inch 406 Carbon Three-Spoke Wheelset for BMX and Polo
     Updated: 2026-04-30T14:01:04Z
     Author: AI Blog Agent
   - [Unleashing the Performance of Bola’s 700C Carbon Rim Optimal for Racing and Touring](https://bolacarbon.com/blogs/faq/unleashing-the-performance-of-bola-s-700c-carbon-rim-optimal-for-racing-and-touring): Unleashing the Performance of Bola’s 700C Carbon Rim Optimal for Racing and Touring
     Updated: 2026-05-01T14:02:56Z
     Author: AI Blog Agent
+  - [Carbon Rim Designs: Tubular vs Clincher Guide | Bola Carbon](https://bolacarbon.com/blogs/faq/carbon-rim-designs-tubular-vs-clincher): Carbon Rim Designs: Tubular vs Clincher Guide | Bola Carbon
+    Updated: 2026-05-27T09:32:48Z
+    Author: Author
   - [Ride Faster and Smoother with the Perfect 700C Carbon Disc Brake Rim](https://bolacarbon.com/blogs/faq/ride-faster-and-smoother-with-the-perfect-700c-carbon-disc-brake-rim): Ride Faster and Smoother with the Perfect 700C Carbon Disc Brake Rim
     Updated: 2026-05-05T14:01:23Z
     Author: AI Blog Agent
+  - [Advanced Rim Engineering Value: Performance & Control | Bola Carbon Sporting Goods](https://bolacarbon.com/blogs/faq/advanced-rim-engineering-key-design-principles): Advanced Rim Engineering Value: Performance & Control | Bola Carbon Sporting Goods
+    Updated: 2026-05-29T01:19:49Z
+    Author: 汉桂 张
   - [Revolutionizing Road Cycling: Unpacking the Lightweight Excellence of Bola Carbon's 38mm and 50mm Wheelsets Under $500](https://bolacarbon.com/blogs/faq/revolutionizing-road-cycling-unpacking-the-lightweight-excellence-of-bola-carbons-38mm-and-50mm-wheelsets-under-500)
     Updated: 2026-05-06T06:40:04Z
     Author: Bola Carbon Sporting Goods
@@ -3129,14 +2698,26 @@ Bola Carbon Wheelset,Bola Carbon Bike Rim,Bola carbon rim OEM
   - [Unlocking the Full Potential of Your Trail Adventures with an Asymmetric 29er Carbon MTB Rim 29mm Inner Width Tubeless Setup](https://bolacarbon.com/blogs/faq/unlocking-the-full-potential-of-your-trail-adventures-with-an-asymmetric-29er-carbon-mtb-rim-29mm-inner-width-tubeless-setup): Unlocking the Full Potential of Your Trail Adventures with an Asymmetric 29er Carbon MTB Rim 29mm Inner Width Tubeless Setup
     Updated: 2026-05-15T14:03:22Z
     Author: AI Blog Agent
+  - [700c Aerodynamic Rim Value | Faster Handling | Bola Carbon Wheelset](https://bolacarbon.com/blogs/faq/700c-aerodynamic-rim-speed-gains-without-guesswork): 700c Aerodynamic Rim Value | Faster Handling | Bola Carbon Wheelset
+    Updated: 2026-05-27T09:32:58Z
+    Author: Bola Carbon Wheelset
   - [How the Bola 700c Carbon Road Rim Enhances Speed and Control for Cyclists](https://bolacarbon.com/blogs/faq/how-the-bola-700c-carbon-road-rim-enhances-speed-and-control-for-cyclists): How the Bola 700c Carbon Road Rim Enhances Speed and Control for Cyclists
     Updated: 2026-05-19T14:01:25Z
     Author: AI Blog Agent
+  - [Tubeless Carbon Rim Setup Value | Smoother, Faster Rides](https://bolacarbon.com/blogs/faq/tubeless-carbon-rim-setup-guide-for-faster-smoother-rides): Tubeless Carbon Rim Setup Value | Smoother, Faster Rides
+    Updated: 2026-05-27T00:22:08Z
+    Author: Bola Carbon Wheelset
   - [Mastering Climbing: The Game-Changing Design of Bola Carbon's 700C 38mm Rim Brake Wheelset for Optimal Performance](https://bolacarbon.com/blogs/faq/mastering-climbing-the-game-changing-design-of-bola-carbons-700c-38mm-rim-brake-wheelset-for-optimal-performance)
     Updated: 2026-05-20T07:47:47Z
     Author: Bola Carbon Wheelset 
+  - [Rethinking Wheel Design: How Hookless and Asymmetric Features in Bola Carbon's New Lineup Will Transform High-Performance Cycling](https://bolacarbon.com/blogs/faq/rethinking-wheel-design-how-hookless-and-asymmetric-features-in-bola-carbons-new-lineup-will-transform-high-performance-cycling)
+    Updated: 2026-05-28T00:45:59Z
+    Author: Bola Carbon Wheelset 
   - [Engineering Excellence: How Bola Carbon's Durability Testing Sets a New Standard for 700c Carbon Tubeless Rims](https://bolacarbon.com/blogs/faq/engineering-excellence-how-bola-carbons-durability-testing-sets-a-new-standard-for-700c-carbon-tubeless-rims)
     Updated: 2026-05-25T01:19:31Z
+    Author: Bola Carbon Wheelset 
+  - [Evaluating the Safety and Performance of Unbranded Chinese Carbon Rims in 2026: A Closer Look at Bola 700c Carbon Tubeless Road Rims](https://bolacarbon.com/blogs/faq/evaluating-the-safety-and-performance-of-unbranded-chinese-carbon-rims-in-2026-a-closer-look-at-bola-700c-carbon-tubeless-road-rims)
+    Updated: 2026-05-25T08:10:29Z
     Author: Bola Carbon Wheelset 
   - [Exploring the Top Hookless Carbon Rims for 30mm Tubeless Road Tires in 2026: A Comprehensive Review of Bola's Premium Offerings](https://bolacarbon.com/blogs/faq/exploring-the-top-hookless-carbon-rims-for-30mm-tubeless-road-tires-in-2026-a-comprehensive-review-of-bolas-premium-offerings)
     Updated: 2026-05-21T03:14:37Z
@@ -3154,13 +2735,54 @@ Bola Carbon Wheelset,Bola Carbon Bike Rim,Bola carbon rim OEM
     Updated: 2026-05-22T14:03:31Z
     Author: AI Blog Agent
   - [Wider Carbon Rim Benefits | More Stability and Comfort](https://bolacarbon.com/blogs/faq/why-a-wider-carbon-rim-improves-stability-and-comfort): Wider Carbon Rim Benefits | More Stability and Comfort
-    Updated: 2026-05-22T19:00:04Z
+    Updated: 2026-05-27T03:32:05Z
     Author: Bola Carbon Wheelset
   - [Aerodynamic Wheels for Speed Gains | Bola Carbon Wheelset](https://bolacarbon.com/blogs/faq/aerodynamic-cycling-wheels-speed-benefits-explained): Aerodynamic Wheels for Speed Gains | Bola Carbon Wheelset
-    Updated: 2026-05-23T19:00:05Z
+    Updated: 2026-05-27T03:31:41Z
     Author: Bola Carbon Wheelset
   - [Disc Brake Wheelset: Smart Setup for Control | Bola Carbon Wheelset](https://bolacarbon.com/blogs/faq/disc-brake-wheelset-guide-fit-setup-and-riding-tips): Disc Brake Wheelset: Smart Setup for Control | Bola Carbon Wheelset
-    Updated: 2026-05-24T19:00:10Z
+    Updated: 2026-05-27T03:31:11Z
+    Author: Bola Carbon Wheelset
+  - [Carbon Gravel Rim Benefits | Smoother Ride and Speed](https://bolacarbon.com/blogs/faq/carbon-gravel-rim-benefits-faster-smoother-handling): Carbon Gravel Rim Benefits | Smoother Ride and Speed
+    Updated: 2026-05-26T00:29:37Z
+    Author: Bola Carbon Wheelset
+  - [Evaluating the Safety of Hookless Carbon Rims for Rough Gravel Racing: A Deep Dive into Bola and 700c Innovations](https://bolacarbon.com/blogs/faq/evaluating-the-safety-of-hookless-carbon-rims-for-rough-gravel-racing-a-deep-dive-into-bola-and-700c-innovations)
+    Updated: 2026-05-26T02:42:05Z
+    Author: Bola Carbon Wheelset 
+  - [Boost Your Cycling Efficiency with BOLA's 60mm UCI  Carbon Tubeless Rims](https://bolacarbon.com/blogs/faq/boost-your-cycling-efficiency-with-bolas-60mm-uci--carbon-tubeless-rims): Boost Your Cycling Efficiency with BOLA's 60mm UCI  Carbon Tubeless Rims
+    Updated: 2026-05-26T14:01:47Z
+    Author: AI Blog Agent
+  - [Road Cycling Wheelset for Smooth Speed | Bola Carbon Wheelset](https://bolacarbon.com/blogs/faq/road-cycling-wheelset-buying-guide-for-smooth-speed): Road Cycling Wheelset for Smooth Speed | Bola Carbon Wheelset
+    Updated: 2026-05-27T03:29:42Z
+    Author: Bola Carbon Wheelset
+  - [Custom Carbon Wheel Building | Performance Fit & Finish | Bola Carbon Wheelset](https://bolacarbon.com/blogs/faq/custom-carbon-wheel-building-fit-feel-finish): Custom Carbon Wheel Building | Performance Fit & Finish | Bola Carbon Wheelset
+    Updated: 2026-05-28T00:45:22Z
+    Author: Bola Carbon Wheelset
+  - [Upgrade Your Ride with the Performance and Efficiency of 700C 60mm Tubular Carbon Rims by Bola](https://bolacarbon.com/blogs/faq/upgrade-your-ride-with-the-performance-and-efficiency-of-700c-60mm-tubular-carbon-rims-by-bola): Upgrade Your Ride with the Performance and Efficiency of 700C 60mm Tubular Carbon Rims by Bola
+    Updated: 2026-05-28T14:00:57Z
+    Author: AI Blog Agent
+  - [700c Tubeless Rim Benefits | Smooth Ride Upgrade](https://bolacarbon.com/blogs/faq/choosing-a-700c-tubeless-rim-for-smooth-reliable-rides): 700c Tubeless Rim Benefits | Smooth Ride Upgrade
+    Updated: 2026-05-29T01:18:03Z
+    Author: Bola Carbon Wheelset
+  - [Why the 700c Asymmetric 30mm Carbon Gravel Rim is Your Ultimate Gravel Riding Partner](https://bolacarbon.com/blogs/faq/why-the-700c-asymmetric-30mm-carbon-gravel-rim-is-your-ultimate-gravel-riding-partner): Why the 700c Asymmetric 30mm Carbon Gravel Rim is Your Ultimate Gravel Riding Partner
+    Updated: 2026-05-30T04:53:05Z
+    Author: AI Blog Agent
+  - [High Performance Carbon Wheels Value Guide | Bola Carbon Wheelset](https://bolacarbon.com/blogs/faq/how-to-choose-high-performance-carbon-wheels): High Performance Carbon Wheels Value Guide | Bola Carbon Wheelset
+    Updated: 2026-05-30T04:52:47Z
+    Author: Bola Carbon Wheelset
+  - [How to Choose the Right Carbon Bike Rim for Your Ride](https://bolacarbon.com/blogs/faq/how-to-choose-the-right-carbon-bike-rim-for-your-ride): How to Choose the Right Carbon Bike Rim for Your Ride
+    Updated: 2026-05-30T16:20:31Z
+    Author: Weekend agent
+    Tags: best carbon bike rims, bike, carbon, carbon rims, choosing bike wheelset, cycling wheels, performance wheels, wheelset
+  - [Carbon Bike Rim Tech Benefits | Wheel Performance Guide](https://bolacarbon.com/blogs/faq/carbon-bike-rim-technology-what-makes-rims-faster): Carbon Bike Rim Tech Benefits | Wheel Performance Guide
+    Updated: 2026-05-30T19:00:05Z
+    Author: Bola Carbon Wheelset
+  - [Tips for Building a Custom Carbon Spoke Wheelset](https://bolacarbon.com/blogs/faq/tips-for-building-a-custom-carbon-spoke-wheelset): Tips for Building a Custom Carbon Spoke Wheelset
+    Updated: 2026-05-31T16:00:58Z
+    Author: Weekend agent
+    Tags: benefits of carbon rims, bike wheel building tips, carbon, carbon wheelset, custom rims, rim, spoke wheel, wheel
+  - [Road Bike Wheels Guide: Pick Faster, Ride Smoother | Bola Carbon Wheelset](https://bolacarbon.com/blogs/faq/road-bike-wheels-guide-choose-the-right-pair-fast): Road Bike Wheels Guide: Pick Faster, Ride Smoother | Bola Carbon Wheelset
+    Updated: 2026-05-31T19:00:12Z
     Author: Bola Carbon Wheelset
 
 ## Store Pages
@@ -3193,6 +2815,12 @@ Bola Carbon Wheelset,Bola Carbon Bike Rim,Bola carbon rim OEM
   Updated: 2026-03-25T06:56:02Z
 - [HTML Sitemap](https://bolacarbon.com/pages/html-sitemap): Products 700c asymmetric tubeless ready carbon velo rims 38mm low profile 25mm wide for cyclisme,hook or hookless optional Tubular carbon rims 50mm...
   Updated: 2026-03-30T02:58:32Z
+- [Review Submission](https://bolacarbon.com/pages/review-submission)
+  Updated: 2026-05-28T01:04:43Z
+- [Frequently Asked Questions](https://bolacarbon.com/pages/avada-faqs): .main-page-title.page-title { display: none !important; } .avada-loading { display: none; text-align: center; padding: 40px; font-size: 16px; color...
+  Updated: 2026-05-28T01:09:43Z
+- [Frequently Asked Questions](https://bolacarbon.com/pages/https-bolacarbon-com): .main-page-title.page-title { display: none !important; } .avada-loading { display: none; text-align: center; padding: 40px; font-size: 16px; color...
+  Updated: 2026-05-29T02:07:06Z
 
 ## Policies
 
