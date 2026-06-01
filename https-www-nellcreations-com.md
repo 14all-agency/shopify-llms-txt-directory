@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-04-21T12:46:29Z
 - Contact Email: annienellcreations@gmail.com
-- Updated At: 2026-05-24T14:41:56.858Z
+- Updated At: 2026-06-01T00:00:31.066Z
 
 ## Products
 
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/gommage-visage-avril-tube-vert-menthe-550.webp?v=1779119799
   Price: 3,20 € EUR
 - [Gel nettoyant visage Avril bio cosmétique peau douce](https://www.nellcreations.com/products/gel-nettoyant-visage-100ml-certifie-bio): Ce gel nettoyant visage Avril certifié bio élimine les impuretés de l'épiderme. Sa formule pour peaux sèches ou grasses contient un parfum naturel d'agrumes.
-  Updated: 2026-05-18T15:57:05Z
+  Updated: 2026-05-28T18:22:15Z
   Vendor: Nellcréations
   Product Type: Gel nettoyant
   Availability: Available
@@ -53,19 +53,19 @@
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/soin-contour-des-yeux-et-levres-avril-tube-souple-couleur-lavande-pale-899.webp?v=1779119872
   Price: 9,00 € EUR
 - [Crème jour et nuit Avril bio hydratation visage](https://www.nellcreations.com/products/creme-jour-et-nuit-50-ml-certifiee-bio): La crème jour et nuit certifiée bio Avril contient de l'aloe vera et du beurre de karité. Ce soin hydrate les peaux normales, sèches, grasses, mixtes ou matures.
-  Updated: 2026-05-18T15:58:17Z
+  Updated: 2026-05-31T09:12:06Z
   Vendor: Nellcréations
   Product Type: crème visage jour et nuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/creme-jour-et-nuit-avril-visage-tube-couleur-peche-462.webp?v=1779119890
   Price: 8,00 € EUR
 - [Sérum purifiant Avril bio régulateur de sébum](https://www.nellcreations.com/products/serum-purifiant-30ml-certifie-bio): Le sérum purifiant Avril contient des huiles végétales et essentielles bio pour réguler le sébum. Ce soin resserre les pores et affine le grain de peau.
-  Updated: 2026-05-18T15:58:36Z
+  Updated: 2026-05-28T18:38:40Z
   Vendor: Nellcréations
   Product Type: sérum purifiant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/serum-purifiant-avril-bouteille-verre-transparent-bouchon-compte-593.webp?v=1779119911
-  Price: 3,60 € EUR
+  Price: 9,00 € EUR
 - [Sérum unifiant Avril bio éclat anti taches](https://www.nellcreations.com/products/serum-unifiant-30ml-certifie-bio): Le sérum unifiant certifié bio Avril contient de l'algue rouge et de la fleur de lys blanc. Sa formule réduit les taches pour un teint uniforme et éclatant.
   Updated: 2026-05-18T15:58:53Z
   Vendor: Nellcréations
@@ -73,6 +73,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/serum-unifiant-avril-visage-bouteille-verre-transparente-etiquette-922.webp?v=1779119927
   Price: 3,60 € EUR
+- [Sérum désaltérant Avril hydratant bio acide hyaluronique](https://www.nellcreations.com/products/serum-desalterant-30ml-certifie-bio): Ce sérum désaltérant Avril contient de l acide hyaluronique végétal et de l aloe vera bio. Sa texture légère hydrate la peau sans laisser de film gras.
+  Updated: 2026-05-28T18:22:36Z
+  Vendor: Nellcréations
+  Product Type: sérum visage désaltérant
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/serum-desalterant-avril-visage-elegante-bouteille-verre-transparente-554.webp?v=1779119945
+  Price: 9,00 € EUR
 - [Sérum lissant Avril bio aux ingrédients naturels](https://www.nellcreations.com/products/serum-lissant-30ml-certifie-bio): Le sérum lissant Avril certifié bio contient des actifs naturels pour le visage. Ce soin atténue les cernes et les poches tout en lissant les traits de la peau.
   Updated: 2026-05-18T15:59:28Z
   Vendor: Nellcréations
@@ -149,7 +156,7 @@
     Availability: Available
     Price: 2,00 € EUR
 - [Base teint matifiante Avril bio lisse pores visage](https://www.nellcreations.com/products/base-de-teint-matifiante-30-ml-certifiee-bio): La base de teint matifiante Avril certifiée bio lisse la peau et réduit les pores. Sa formule non grasse unifie le teint et prépare le visage au maquillage.
-  Updated: 2026-05-18T16:04:04Z
+  Updated: 2026-05-31T09:10:12Z
   Vendor: Nellcréations
   Product Type: Base de teint matifiante
   Availability: Available
@@ -233,7 +240,7 @@
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/lait-hydratant-fleur-de-coton-nellcreations-soin-corps-bouteille-230.webp?v=1779120456
   Price: 11,00 € EUR
 - [Bouquet parfumé nuage de coton diffuseur fleur](https://www.nellcreations.com/products/bouquet-parfume-nuage-de-coton): Ce diffuseur de parfum Nellcréations imprègne des tiges de rotin pour libérer une senteur de fleur de coton. Ce flacon assure une diffusion constante et durable.
-  Updated: 2026-05-18T16:08:00Z
+  Updated: 2026-05-27T12:56:09Z
   Vendor: Nellcréations
   Product Type: Diffuseur de parfum
   Availability: Available
@@ -344,10 +351,10 @@
   Updated: 2026-05-18T15:52:24Z
   Total Products: 2
 - [Cosmétiques bio Avril gamme française engagée](https://www.nellcreations.com/collections/soin-visage-avril): Nellcréations propose la gamme Avril cosmétiques incluant des soins du visage, du corps et du maquillage bio comme la BB crème, le sérum lissant ou le gommage.
-  Updated: 2026-05-18T16:10:06Z
+  Updated: 2026-05-28T18:22:57Z
   Total Products: 27
 - [Bougies et sprays naturels fabriqués en France](https://www.nellcreations.com/collections/nellcreations-gamme-ambiance): La collection ambiance Nellcréations propose des bouquets parfumés, bougies et parfums pour la maison au parfum nuage de coton pour créer une atmosphère douce.
-  Updated: 2026-05-18T16:10:18Z
+  Updated: 2026-05-28T11:22:21Z
   Total Products: 3
 - [Soins corps et minceur naturels fabriqués en France](https://www.nellcreations.com/collections/nellcreations-gamme-minceur-et-corps): La collection Nellcréations propose un draineur au thé pêche, un lait à la fleur de coton, des gels amincissants et un pack minceur pour le soin du corps complet.
   Updated: 2026-05-18T16:10:21Z
@@ -356,10 +363,10 @@
   Updated: 2026-05-18T15:54:04Z
   Total Products: 10
 - [Cosmétiques naturels et parfums ambiance de France](https://www.nellcreations.com/collections/nellcreations): Nellcréations propose une gamme de soins incluant lait hydratant, gels amincissants et packs minceur ainsi que des bougies et parfums d'ambiance au nuage de coton.
-  Updated: 2026-05-18T16:10:29Z
+  Updated: 2026-05-28T11:22:21Z
   Total Products: 9
 - [Meilleures ventes soins Avril et produits fermeté](https://www.nellcreations.com/collections/meilleurs-ventes): La collection Meilleurs ventes de Nellcréations propose des soins Avril comme le gel nettoyant et des produits exclusifs tels que le draineur ou le gel fermeté.
-  Updated: 2026-05-18T16:10:33Z
+  Updated: 2026-05-28T11:22:21Z
   Total Products: 7
 
 ## Blogs
@@ -377,32 +384,32 @@
     Author: Annie Grégoire
     Tags: bien-être
   - [Retrouver une silhouette affinée sans chirurgie](https://www.nellcreations.com/blogs/conseils-beaute-et-bien-etre/votre-programme-minceur-sur-mesure-avec-nellcreations): Retrouver une silhouette affinée sans chirurgie
-    Updated: 2026-05-18T15:55:53Z
+    Updated: 2026-05-27T00:40:29Z
     Author: Annie Grégoire
     Tags: bien-être, cavitation, compléments alimentaires, minceur, silhouette, soins corps
-  - [Laser vs Lumière Pulsée Pro : Quelle Méthode pour une Épilation Définitive Efficace ?](https://www.nellcreations.com/blogs/conseils-beaute-et-bien-etre/laser-vs-lumiere-pulsee-professionnelle-epilation-definitive): Laser vs Lumière Pulsée Pro : Quelle Méthode pour une Épilation Définitive Efficace ?
-    Updated: 2026-04-16T16:32:21Z
+  - [Laser ou Lumière Pulsée Pro Différences Épilation](https://www.nellcreations.com/blogs/conseils-beaute-et-bien-etre/laser-vs-lumiere-pulsee-professionnelle-epilation-definitive): Laser ou Lumière Pulsée Pro Différences Épilation
+    Updated: 2026-05-27T00:40:56Z
     Author: Annie Grégoire
     Tags: beauté professionnelle, épilation définitive, IPL pro, laser, lumière pulsée
-  - [Soins visage après 40 ans : routine anti-âge naturelle et soins professionnels](https://www.nellcreations.com/blogs/conseils-beaute-et-bien-etre/soins-visage-apres-40-ans-les-essentiels-pour-une-peau-lumineuse-et-repulpee): Soins visage après 40 ans : routine anti-âge naturelle et soins professionnels
-    Updated: 2026-05-22T15:06:58Z
+  - [Soins visage 40 ans peau lumineuse repulpée essentiels](https://www.nellcreations.com/blogs/conseils-beaute-et-bien-etre/soins-visage-apres-40-ans-les-essentiels-pour-une-peau-lumineuse-et-repulpee): Soins visage 40 ans peau lumineuse repulpée essentiels
+    Updated: 2026-05-27T00:41:24Z
     Author: Annie Grégoire
     Tags: anti-âge, lumière pulsée, peau mature, radiofréquence, routine beauté, soin visage
-  - [Cortisol et prise de poids : solutions naturelles pour rééquilibrer votre corps](https://www.nellcreations.com/blogs/conseils-beaute-et-bien-etre/cortisol-et-prise-de-poids-comment-reequilibrer-votre-corps-naturellement): Cortisol et prise de poids : solutions naturelles pour rééquilibrer votre corps
-    Updated: 2026-05-23T12:34:15Z
+  - [Cortisol et poids équilibrez votre corps naturellement](https://www.nellcreations.com/blogs/conseils-beaute-et-bien-etre/cortisol-et-prise-de-poids-comment-reequilibrer-votre-corps-naturellement): Cortisol et poids équilibrez votre corps naturellement
+    Updated: 2026-05-27T00:42:01Z
     Author: Annie Grégoire
     Tags: bien-être, compléments naturels, cortisol, minceur, perte de poids, soins naturels, soins visage, stress
-  - [Préménopause : symptômes et solutions naturelles pour mieux vivre cette transition](https://www.nellcreations.com/blogs/conseils-beaute-et-bien-etre/premenopause-symptomes-duree-et-solutions-naturelles-pour-mieux-vivre-cette-transition): Préménopause : symptômes et solutions naturelles pour mieux vivre cette transition
-    Updated: 2026-05-24T12:54:30Z
+  - [Symptômes préménopause et solutions naturelles](https://www.nellcreations.com/blogs/conseils-beaute-et-bien-etre/premenopause-symptomes-duree-et-solutions-naturelles-pour-mieux-vivre-cette-transition): Symptômes préménopause et solutions naturelles
+    Updated: 2026-05-27T00:42:39Z
     Author: Annie Grégoire
     Tags: bien-être femme, bouffées de chaleur, hormones, ménopause, minceur, préménopause, soins naturels
-  - [Traitement hormonal ménopause (THM) : pour ou contre ? Ce que vous devez savoir](https://www.nellcreations.com/blogs/conseils-beaute-et-bien-etre/traitement-hormonal-de-la-menopause-thm-pour-ou-contre-ce-que-vous-devez-savoir): Traitement hormonal ménopause (THM) : pour ou contre ? Ce que vous devez savoir
-    Updated: 2026-05-24T13:55:55Z
+  - [Tout savoir sur le traitement hormonal ménopause](https://www.nellcreations.com/blogs/conseils-beaute-et-bien-etre/traitement-hormonal-de-la-menopause-thm-pour-ou-contre-ce-que-vous-devez-savoir): Tout savoir sur le traitement hormonal ménopause
+    Updated: 2026-05-27T00:43:15Z
     Author: Annie Grégoire
     Tags: alternatives naturelles, bien-être femme, bouffées de chaleur, ménopause, THM, traitement hormonal
 - [Bijoux et créations](https://www.nellcreations.com/blogs/bijoux-et-creations)
   - [Bijoux résine fleurs séchées artisanaux uniques](https://www.nellcreations.com/blogs/bijoux-et-creations/bijoux-fantaisies-resine-uv-fleurs-sechees): Bijoux résine fleurs séchées artisanaux uniques
-    Updated: 2026-05-18T15:55:21Z
+    Updated: 2026-05-27T00:39:57Z
     Author: Annie Grégoire
     Tags: artisanat, bijoux, cadeau, fait main, fleurs séchées, résine UV
 
@@ -419,7 +426,7 @@
 - [Soins esthétiques à Saint-Sauveur-Sur-École](https://www.nellcreations.com/pages/soins-esthetiques-a-saint-sauveur-sur-ecole): Offrez à votre peau une pause douce, dans un lieu où le temps ralentit Les soins esthétiques au salon de beauté Nellcréations sont pensés comme une...
   Updated: 2026-02-21T17:01:07Z
 - [Bijoux fantaisies en résine et fleurs séchées](https://www.nellcreations.com/pages/bijoux-fantaisies-faits-main-en-resine-uv-et-fleurs-sechees): Laissez une émotion prendre forme dans un bijou unique Vous imaginez un bijou qui ne ressemble à aucun autre… une création délicate, façonnée à la ...
-  Updated: 2026-05-18T15:56:07Z
+  Updated: 2026-05-27T00:43:43Z
 
 ## Policies
 
