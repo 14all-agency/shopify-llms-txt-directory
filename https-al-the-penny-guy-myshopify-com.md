@@ -6,117 +6,117 @@
 - Timezone: America/New_York
 - Created At: 2026-05-12T21:12:24Z
 - Contact Email: mrgandwife@gmail.com
-- Updated At: 2026-05-24T00:00:31.843Z
+- Updated At: 2026-06-01T00:00:35.748Z
 
 ## Products
 
 - [Buy Wheat Penny Rolls - Unsearched Collectible Coins](https://al-the-penny-guy.myshopify.com/products/roll-of-unsearched-wheat-pennies): Buy wheat penny rolls of unsearched coins perfect for collectors and enthusiasts seeking rare finds and vintage value.
-  Updated: 2026-05-15T04:11:34Z
+  Updated: 2026-05-26T16:32:02Z
   Vendor: Al the Penny Guy
   Product Type: coins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/6793/9401/files/wheats_7215c5c5-fd0b-49c3-9eda-548f064c6c80.jpg?v=1778773546
   Price: $15.00 USD
 - [Roll of Wheat Pennies with Indian Ends - Unsearched Coin Roll](https://al-the-penny-guy.myshopify.com/products/roll-of-wheat-pennies-with-indian-ends): Discover a roll of wheat pennies with Indian ends, an unsearched coin roll perfect for collectors seeking rare finds.
-  Updated: 2026-05-15T04:12:40Z
+  Updated: 2026-05-26T16:32:02Z
   Vendor: Al the Penny Guy
   Product Type: coins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/6793/9401/files/wheats_dfb30384-611d-47b1-a4f5-84e05f088702.jpg?v=1778773549
   Price: $25.00 USD
 - [Sports Stress Relief Balls - Football Themed Three Pack](https://al-the-penny-guy.myshopify.com/products/football-themed-stress-balls-three-pack): Relieve tension with our football themed sports stress relief balls. Perfect sensory toys in a convenient three pack for all ages.
-  Updated: 2026-05-15T04:10:26Z
+  Updated: 2026-05-26T16:32:02Z
   Vendor: Al the Penny Guy
   Product Type: stress balls and fidget toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/6793/9401/files/20260104_181724.jpg?v=1778773560
   Price: $5.00 USD
 - [Andrew Johnson Dollar Coin | Al the Penny Guy](https://al-the-penny-guy.myshopify.com/products/andrew-johnson-dollar-coin): Shop the Andrew Johnson Presidential Dollar Coin at Al the Penny Guy. Collectible US dollar coin in great condition. Only $1.50 — add it to your collection today!
-  Updated: 2026-05-14T15:46:08Z
+  Updated: 2026-05-26T16:32:02Z
   Vendor: Al the Penny Guy
   Product Type: coins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/6793/9401/files/IMG_20260513_113830497.jpg?v=1778773561
   Price: $1.50 USD
 - [Rutherford B Hayes Dollar Coin - Collectible U.S. Coin](https://al-the-penny-guy.myshopify.com/products/rutherford-hayes-dollar-coin): Discover the Rutherford B Hayes dollar coin, a unique collectible honoring the 19th U.S. president with rich history and exceptional craftsmanship.
-  Updated: 2026-05-15T04:11:12Z
+  Updated: 2026-05-26T16:32:03Z
   Vendor: Al the Penny Guy
   Product Type: coins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/6793/9401/files/IMG_20260513_115905629.jpg?v=1778773561
   Price: $2.00 USD
 - [Ronald Reagan Dollar Coin | Al the Penny Guy](https://al-the-penny-guy.myshopify.com/products/ronald-reagan-dollar-coin): Shop the Ronald Reagan Presidential Dollar Coin at Al the Penny Guy. Collectible US dollar coin honoring the 40th President. Only $2.25 — add it to your collection!
-  Updated: 2026-05-14T15:46:03Z
+  Updated: 2026-05-26T16:32:03Z
   Vendor: Al the Penny Guy
   Product Type: coins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/6793/9401/files/IMG_20260513_121507276.jpg?v=1778773563
   Price: $2.25 USD
 - [2000D Sacagawea Dollar | Al the Penny Guy](https://al-the-penny-guy.myshopify.com/products/2000d-sacagawea-dollar): Shop the 2000D Sacagawea Dollar — a beautiful golden dollar coin from the first year of the Sacagawea series. A must-have for any coin collector at Al the Penny Guy.
-  Updated: 2026-05-14T15:46:10Z
+  Updated: 2026-05-26T16:32:03Z
   Vendor: Al the Penny Guy
   Product Type: coins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/6793/9401/files/IMG_20260513_174315983.jpg?v=1778773570
   Price: $1.50 USD
 - [James Monroe Dollar Coin - Collectible US Coin](https://al-the-penny-guy.myshopify.com/products/james-monroe-dollar-coin): Explore the James Monroe dollar coin, a rare collectible US coin honoring the 5th President. Perfect addition for any coin collection.
-  Updated: 2026-05-16T00:27:42Z
+  Updated: 2026-05-26T16:32:03Z
   Vendor: Al the Penny Guy
   Product Type: coins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/6793/9401/files/IMG_20260514_110859934.jpg?v=1778847576
   Price: $1.25 USD
 - [Andrew Jackson Dollar Coin - Collectible US Coin](https://al-the-penny-guy.myshopify.com/products/andrew-jackson-dollar-coin): Discover the authentic Andrew Jackson Dollar Coin, a prized collectible US coin perfect for collectors and history enthusiasts.
-  Updated: 2026-05-16T00:29:00Z
+  Updated: 2026-05-26T16:32:03Z
   Vendor: Al the Penny Guy
   Product Type: coins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/6793/9401/files/IMG_20260514_111612023.jpg?v=1778847578
   Price: $1.50 USD
 - [William Henry Harrison Dollar Coin - Collectible US Coin](https://al-the-penny-guy.myshopify.com/products/william-henry-harrison-dollar-coin): Discover the William Henry Harrison dollar coin, a rare collectible US coin honoring the 9th president. Perfect addition for coin collectors.
-  Updated: 2026-05-16T00:28:17Z
+  Updated: 2026-05-26T16:32:03Z
   Vendor: Al the Penny Guy
   Product Type: coins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/6793/9401/files/IMG_20260514_111714043.jpg?v=1778847582
   Price: $1.75 USD
 - [James Madison Dollar Coin – Presidential Series | Al the Penny Guy](https://al-the-penny-guy.myshopify.com/products/james-madison-dollar-coin): Shop the James Madison Presidential Dollar Coin (2007–2011). Golden-hued, edge-lettered collectible. Perfect for numismatists and history enthusiasts.
-  Updated: 2026-05-15T12:19:43Z
+  Updated: 2026-05-26T16:32:04Z
   Vendor: Al the Penny Guy
   Product Type: coins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/6793/9401/files/IMG_20260514_151557588.jpg?v=1778847583
   Price: $2.25 USD
 - [John Quincy Adams Dollar Coin – Presidential $1 Coin | Al the Penny Guy](https://al-the-penny-guy.myshopify.com/products/john-quincy-adams-dollar-coin): Shop the John Quincy Adams Presidential Dollar Coin. A must-have for collectors of the U.S. Presidential Dollar series. Check condition and mint mark details.
-  Updated: 2026-05-15T12:19:46Z
+  Updated: 2026-05-26T16:32:04Z
   Vendor: Al the Penny Guy
   Product Type: coins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/6793/9401/files/IMG_20260514_174402666.jpg?v=1778847583
   Price: $1.75 USD
 - [Abraham Lincoln Dollar Coin – Presidential $1 Coin | Al the Penny Guy](https://al-the-penny-guy.myshopify.com/products/abraham-lincoln-dollar-coin): Shop the Abraham Lincoln Presidential Dollar Coin. A must-have for U.S. coin collectors and history enthusiasts. Check condition and mint mark details.
-  Updated: 2026-05-15T12:19:49Z
+  Updated: 2026-05-26T16:32:04Z
   Vendor: Al the Penny Guy
   Product Type: coins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/6793/9401/files/IMG_20260514_174620561.jpg?v=1778847585
   Price: $2.00 USD
 - [Zachary Taylor Dollar Coin – Presidential Gold Dollar | Al the Penny Guy](https://al-the-penny-guy.myshopify.com/products/zachary-taylor-dollar-coin): Shop the Zachary Taylor Presidential Dollar Coin in uncirculated condition. Golden-hued collectible honoring the 12th US President. Free shipping available.
-  Updated: 2026-05-15T23:23:05Z
+  Updated: 2026-05-26T16:32:04Z
   Vendor: Al the Penny Guy
   Product Type: coins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/6793/9401/files/IMG_20260515_070728866.jpg?v=1778847590
   Price: $1.75 USD
 - [George Washington Dollar Coin – Presidential Series | Al the Penny Guy](https://al-the-penny-guy.myshopify.com/products/george-washington-dollar-coin): Shop the George Washington Presidential Dollar Coin. First in the series, honoring America's 1st president. A must-have for coin collectors and history lovers.
-  Updated: 2026-05-15T23:32:07Z
+  Updated: 2026-05-26T16:32:04Z
   Vendor: Al the Penny Guy
   Product Type: coins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/6793/9401/files/IMG_20260515_070938072.jpg?v=1778847590
   Price: $1.50 USD
 - [1977 Kennedy Half Dollar – JFK Collectible Coin | Al the Penny Guy](https://al-the-penny-guy.myshopify.com/products/1977-kennedy-half-dollar): Shop the 1977 Kennedy Half Dollar. Classic JFK profile coin, ideal for Kennedy series collectors and US history enthusiasts. A meaningful gift or display piece.
-  Updated: 2026-05-15T23:42:06Z
+  Updated: 2026-05-26T16:32:04Z
   Vendor: Al the Penny Guy
   Product Type: coins
   Availability: Available
@@ -126,16 +126,16 @@
 ## Collections
 
 - [Wheat Pennies & Indian Head Penny Rolls for  — Al the Penny Guy](https://al-the-penny-guy.myshopify.com/collections/pennies): Shop unsearched rolls of wheat pennies and Indian end penny rolls. Classic Lincoln cents & rare finds for collectors — Al the Penny Guy.
-  Updated: 2026-05-15T12:57:27Z
+  Updated: 2026-05-26T16:31:52Z
   Total Products: 2
 - [Stress Balls & Fidget Sensory Toys for All Ages — Al the Penny Guy](https://al-the-penny-guy.myshopify.com/collections/stress-balls-and-fidget-toys): Shop fun stress balls and fidget sensory toys at Al the Penny Guy. Perfect for stress relief, focus, and gifting. Great for kids and adults alike.
-  Updated: 2026-05-15T12:51:58Z
+  Updated: 2026-05-26T16:31:52Z
   Total Products: 1
 - [Dollar Coins for Collectors – Presidential, Sacagawea & Eisenhower | Al the Penny Guy](https://al-the-penny-guy.myshopify.com/collections/dollar-coins): Shop Presidential, Sacagawea, and Eisenhower Dollar Coins. Authentic US collectibles for every collector and history lover. Ships fast from Al the Penny Guy.
-  Updated: 2026-05-15T12:49:37Z
+  Updated: 2026-05-26T16:31:52Z
   Total Products: 12
 - [half dollars](https://al-the-penny-guy.myshopify.com/collections/half-dollars)
-  Updated: 2026-05-15T11:44:35Z
+  Updated: 2026-05-26T16:31:52Z
   Total Products: 1
 
 ## Blogs
