@@ -10,12 +10,12 @@
 - Contact Email: info@powerinmotion.ca
 - Contact Phone: 403-233-8841
 - Address: Unit 101 4405 9st SE, T2G 3C8, Calgary AB
-- Updated At: 2026-05-25T00:00:47.853Z
+- Updated At: 2026-06-01T00:00:48.384Z
 
 ## Products
 
 - [Folding Bikes | Montague Paratrooper Pro Best 26" Compact Mountain Bike](https://powerinmotion.ca/products/montague-paratrooper-pro_folding-bikes_canada-wide-shipping-pim): The Montague Paratrooper Pro is an Awesome  Mountain Folding Bike At an even more Unbelievable price, with 27 speeds, a suspension fork, and a lightweight! With Discounted / Free Shipping Rates from PIM to  Ontario | Quebec | British Columbia | Alberta | New Brunswick | Nova Scotia |Prince Edward | Manitoba Saskatchewan | Newfoundland & Labrador
-  Updated: 2026-05-21T18:24:57Z
+  Updated: 2026-05-26T17:05:17Z
   Vendor: Montague
   Product Type: Folding Bike
   Availability: Available
@@ -30,7 +30,7 @@
     Availability: Available
     Price: $1,955.00 CAD
 - [Folding Bikes | Montague Navigator 700c Compact Road Bike](https://powerinmotion.ca/products/montague-navigator_folding-bikes_canada-wide-shipping-pim): The Montague Navigator is an Incredible  Pavement / City / Road Folding Bike At an even more spectacular price, with 27 speeds, and lightweight! With Discounted / Free Shipping Rates from PIM to Ontario | Quebec | British Columbia | Alberta | New Brunswick | Nova Scotia |Prince Edward | Manitoba Saskatchewan | Newfoundland & Labrador
-  Updated: 2026-04-25T21:33:07Z
+  Updated: 2026-05-26T17:05:17Z
   Vendor: Montague
   Product Type: Folding Bike
   Availability: Available
@@ -45,7 +45,7 @@
     Availability: Not Available
     Price: $1,695.00 CAD
 - [Surface604 - Twist](https://powerinmotion.ca/products/surface-604-twist): Introducing the 2022 Surface 604 Werk—a versatile step-thru commuter eBike designed to meet all your urban transportation needs with efficiency, comfort, and style. Powerful 500W Motor The Werk is equipped with a purpose-built 500W 48V Bafang electric motor, delivering quiet and consistent power distribution at higher speeds without vibration. Paired with an industry-leading 12mosfet 25A controller, the Werk offers unmatched torque and speed, enabling you to tackle steep hills and navigate city streets effortlessly. Long-Range Battery Options Choose between two high-capacity Samsung lithium-ion battery options: 48V 20Ah (960Wh): Provides an extended range of up to 65 miles (105 km) per charge. Both batteries include a USB plug for on-the-go device charging and a capacity indicator button for convenience. Whisper-Smooth Torque Sensing Pedal Assist The Werk features an advanced torque sensing pedal assist system, delivering precision performance by sampling at 1,000 times per second. This technology intuitively matches your pedaling effort with proportional power, offering a natural and responsive riding experience. Redesigned Cockpit The bike boasts a large fixed-color LED display with a USB jack, providing easy access to ride metrics and settings. The display is designed for user-friendly interaction, enhancing your overall riding experience. Comfort and Convenience The Werk is designed with a step-thru frame for easy mounting and dismounting, making it accessible for riders of various heights. The bike comes fully equipped with front and rear fenders, a welded rear rack, and a front rack, making it ideal for carrying groceries, delivering items, or transporting your belongings to and from the office. Key Specifications Tires: 27.5" x 2.6" custom Surface 604 Panaracer tires with puncture protection and reflective sidewalls for enhanced visibility and stability. Brakes: Tektro Auriga hydraulic disc brakes with motor inhibitors and 180mm rotors, ensuring reliable stopping power. Drivetrain: Shimano Alivio 9-speed groupset for smooth and precise gear shifts. Saddle: Selle Royal "Essenza Plus" gel saddle with elastomer, adjustable up to 9 degrees, providing superior flexibility and shock absorption for city and touring use. Lighting: Fully integrated, bright Büchel LED front light and brake lights for enhanced visibility during night rides. The 2022 Surface 604 Werk combines thoughtful design with advanced technology, offering a comfortable and efficient e-bike experience for urban commuters and recreational riders alike.
-  Updated: 2026-05-23T16:53:56Z
+  Updated: 2026-05-26T17:05:18Z
   Vendor: Surface604Bikes
   Product Type: Electric Fat Bike
   Availability: Available
@@ -62,36 +62,29 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/surface604-electric-folding-fat-bike-black-48v-14ah-20-surface604-twist-28810206675044.png?v=1709687055
     Price: $2,500.00 CAD
-- [Electric Bikes | iGo Aspire Camillien Lightweight Road Ebike](https://powerinmotion.ca/products/igo-camillien-electric-bike): The Aspire Camillien can be ridden almost anywhere and will elevate your riding experience while keeping you stable and confident thanks to advanced High-quality components. Click here to learn more about the Aspire Camillien! Now for  with shipping all across Canada at Power In Motion! Calgary | Alberta
-  Updated: 2026-04-14T19:51:46Z
-  Vendor: iGo
-  Product Type: Electric Road Bike
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/igo-electric-bike-19-700c-36v-10-5ah-igo-aspire-camillien-2023-28787550617700.jpg?v=1687030546
-  Price: $1,485.00 CAD
 - [Tern - Market Basket](https://powerinmotion.ca/products/tern-market-basket): The Tern Market Basket is big, beautiful, and easy to convert from a handbasket to a bike basket. It’s large enough to hold a backpack or a weekend’s worth of groceries, and it’s built to last. Designed around the KLICKfix™ TopKlip mounting system, for a secure and easy on/off connection under light or heavy loads 23 L capacity, for backpacks, weekend grocery runs, and even furry friends When unclipped from the bike, functions as a big and durable grocery basket Compatible with most Tern and BioLogic rear racks
-  Updated: 2026-03-31T21:51:57Z
+  Updated: 2026-05-26T17:05:18Z
   Vendor: Tern
   Product Type: Bike Basket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/tern-bike-basket-default-title-tern-market-basket-31100306882660.jpg?v=1709687151
   Price: $129.99 CAD
 - [Tern - Luggage Truss G2 - Classic](https://powerinmotion.ca/products/tern-luggage-truss): Almost every Tern bike* is built with a hidden Easter egg. Pop off the head-badge (gently!) to find two screw holes. Attach a Luggage Truss, and mount cargo conveniently on the front of your frame. With your cargo mounted on the frame instead of the fork, the steering is nimble and responsive. By keeping your backpack, groceries, and essentials up front, they’re accessible when you need them. Enjoy the smart (and secret) way to carry your gear. Head tube mounted design keeps weight on your frame, instead of your fork, for improved steering stability KLICKfix™ quick-release connector lets you attach and detach bags and baskets at the push of a button Low profile design doesn’t affect bike folded size Integrated lock keeps your bags and baskets secure Compatible with KLICKfix™ bags, racks, and baskets
-  Updated: 2026-05-21T22:13:50Z
+  Updated: 2026-05-26T17:05:19Z
   Vendor: Tern
   Product Type: Front Rack
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/tern-front-rack-classic-tern-luggage-truss-28624820437092.jpg?v=1709687161
   Price: $99.00 CAD
 - [Tern - Sidekick™ Seat Pad](https://powerinmotion.ca/products/tern-sidekick-seat-pad): The GSD lets you bring up to two older kids* or  passengers along for the ride. The Sidekick Seat Pad lets that passenger ride in comfort. With a KLICKfix rack mount, the Sidekick Seat Pad clips on and off in seconds. Pair it with the rest of the Sidekick kit for extra comfort and convenience. The Sidekick Seat Pad is a seating component of the Passenger System. Other accessories are required in order to safely carry passengers. LEARN MORE Adds a comfortable rack-top cushion to the GSD Attaches with a KLICKfix Rackpack mount, for installation and removal in seconds Designed to fit two Sidekick Seat Pads on a single GSD rack, or one Sidekick Seat Pad and one Thule Maxi seat, for carrying young and old children together Water-resistant design for all-weather riding Includes reflective accents for night-time visibility *Recommended age: 10 or above. Recommended height: 140 cm or above. Check the Passenger System page for more information.
-  Updated: 2026-04-14T23:55:25Z
+  Updated: 2026-05-26T17:05:19Z
   Vendor: Tern
   Product Type: Front Rack
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/tern-front-rack-default-title-tern-sidekick-seat-pad-28624858513508.jpg?v=1709687174
   Price: $95.00 CAD
 - [Selle Royal - Respiro - Moderate](https://powerinmotion.ca/products/selle-royal-respiro-moderate): An anatomically designed saddle with RoyalgelTM Technology and equipped with a ventilation channel that reduces pressure in the perineal area while improving respiration. These features combine with one of the most advanced products of the Selle Royal range to ensure comfort and relief even after prolonged use. ROYALGEL Thanks to its unique tridimensional gel structure, Royalgel™ guarantees the highest level of comfort, reducing pressure peaks by 40% compared to standard padding materials. VENTILATION CHANNEL This is a unique feature, specific to the Respiro line, guaranteeing high respiration while relieving pressure on the perineal area. COOL COVER Our extraordinary cover is up to 25°C cooler than a standard black saddle due to its special material composition which reflects sunlight. WATER-RESISTANT Royal Vacuum Light is a patented Selle Royal technology that allows the saddle to be 100% sealed and therefore water-resistant. Saddles made with this production method are furthermore 20% lighter than ordinary ones of the same category. ELASTOMERS Absorbing even the most severe and unexpected shocks, elastomers work both vertically and horizontally for safe, silent, and permanently non-deformable performance. INTEGRATED CLIP SYSTEM A patented clip system is positioned at the rear of the saddle for easy attachment of a Selle Royal saddle bag or other accessories.
-  Updated: 2026-05-23T23:47:31Z
+  Updated: 2026-05-26T17:05:19Z
   Vendor: Selle Royal
   Product Type: Bike Seat
   Availability: Available
@@ -109,7 +102,7 @@
     Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/selle-royal-bike-seat-unisex-selle-royal-respiro-moderate-28629511864420.jpg?v=1687030813
     Price: $95.00 CAD
 - [Folding Bikes | Montague Urban Affordable Compact Road Bike](https://powerinmotion.ca/products/montague-urban_folding-bikes_canada-wide-shipping-pim): The Montague Navigator is a magnificent  Pavement / City / Road Folding Bike At an even more spectacular low price, with 21 speeds, and lightweight! With Discounted / Free Shipping Rates from PIM to Ontario | Quebec | British Columbia | Alberta | New Brunswick | Nova Scotia |Prince Edward | Manitoba Saskatchewan | Newfoundland & Labrador
-  Updated: 2026-03-31T21:51:58Z
+  Updated: 2026-05-26T17:05:20Z
   Vendor: Montague
   Product Type: Folding Bike
   Availability: Available
@@ -124,14 +117,14 @@
     Availability: Available
     Price: $1,495.00 CAD
 - [TERN - Stow Bag (Gen 2) - Padded storage bag for folded bikes 20"and 24" bikes](https://powerinmotion.ca/products/tern-stow-bag-gen-2-folding-bike-carry-bag): The Stow Bag is portable storage for a folded Tern bicycle. Internal zip pockets can hold a pair of detachable pedals or a set of tools. Padded lining protects bike and surroundings Made from durable nylon fabric Heavy-duty metal zippers and buckles Internal pockets for pedal or tool storage
-  Updated: 2026-03-31T21:52:04Z
+  Updated: 2026-05-26T17:05:20Z
   Vendor: Tern
   Product Type: Bike Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/tern-bike-bag-default-title-tern-stow-bag-gen-2-folding-bike-carry-bag-28704605372516.jpg?v=1686867885
   Price: $248.00 CAD
 - [TERN - Cargo Hold 37 Panniers](https://powerinmotion.ca/products/tern-cargo-hold-37-panniers): The Stow Bag is portable storage for a folded Tern bicycle. Internal zip pockets can hold a pair of detachable pedals or a set of tools. Padded lining protects bike and surroundings Made from durable nylon fabric Heavy-duty metal zippers and buckles Internal pockets for pedal or tool storage Expands to hold cargo up to 74L per pair, Fidlock magnetic buckle with adjustable strap, roll-top, waterproof liner, sold as pair
-  Updated: 2026-03-31T21:52:04Z
+  Updated: 2026-05-26T17:05:20Z
   Vendor: Tern
   Product Type: Pannier Bag
   Availability: Available
@@ -184,7 +177,7 @@
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/thule-bike-basket-default-title-thule-pack-n-pedal-bike-basket-28704936624228.jpg?v=1686867458
   Price: $140.00 CAD
 - [Schwalbe - Marathon Tires](https://powerinmotion.ca/products/schwalbe-marathon-tires): MARATHON PLUS TIRE: The most puncture-resistant pneumatic tire there is. The patented, 5 mm thick SmartGuard layer has a significant advantage in rolling resistance. Also in the SmartGuard, we use a proportion of recycled rubber from old latex products. It now lasts much longer before developing unsightly cracks when subjected to use with insufficient air pressure. Due to its great properties, Marathon Plus is the best choice for E-Bikes (E-25).
-  Updated: 2026-03-31T21:52:10Z
+  Updated: 2026-05-26T17:05:21Z
   Vendor: Live To Play
   Product Type: Bicycle Tires
   Availability: Available
@@ -199,35 +192,35 @@
     Availability: Not Available
     Price: $67.00 CAD
 - [Schwalbe - Marathon E-Plus](https://powerinmotion.ca/products/schwalbe-marathon-e-plus): Flat-less especially for E-Bikes. Maximum riding safety at high speeds and on long tours. Highest Marathon quality tires refined for the special demands of an E-Bike. Safety: Schwalbe puncture protection level 7. The patented SmartGuard protection layer is additionally supported by two layers of RaceGuard fabric. This “Smart-DualGuard” protects even better against sharp objects. Control: The ADDIX-E compound, specially developed for the use on E-Bikes, provides outstanding grip even at high speeds and also maximum durability. Riding pleasure: Marathon E-Plus rolls surprisingly well thanks to high-tech materials. The “antiaging” sidewall prevents for much longer the unsightly cracks caused by use with low air pressure. The new carcass construction reinforces the sidewalls with a further layer of fabric and thus stabilizes the tire for even more load capacity. Design: The tread profile of the Marathon E-Plus is modern and dynamic. The E-Plus’s tread depth makes is extremely versatile for touring and trekking. E-Bike: Of course, ECE-R75 certification makes the tires ready for E-Bikes of all classes. The available sizes are consistently geared to the requirements of modern E-Bikes.
-  Updated: 2026-05-19T23:19:03Z
+  Updated: 2026-05-26T17:05:21Z
   Vendor: Live To Play
   Product Type: Bicycle Tires
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/live-to-play-bicycle-tires-schwalbe-marathon-e-plus-29-x-2-00-schwalbe-marathon-e-plus-31100298526820.jpg?v=1686947814
   Price: $105.00 CAD
 - [Aqua Marina - Paddle Bag](https://powerinmotion.ca/products/aqua-marina-paddle-bag): DESCRIPTION The Aqua Marina paddle bag comes with a shoulder strap for easy transport and protects your paddle.
-  Updated: 2026-03-31T21:52:16Z
+  Updated: 2026-05-26T17:05:22Z
   Vendor: Aqua Marina
   Product Type: Paddle Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/aqua-marina-paddle-bag-default-title-aqua-marina-paddle-bag-31214980726884.jpg?v=1711646404
   Price: $64.99 CAD
 - [Aqua Marina - Dry Bag 20L](https://powerinmotion.ca/products/aqua-marina-dry-bag-20l): Volume: 20L Dimensions: 9.4” x 23.6“ (24 x 60cm) Color: Dark Blue, Red, Light Blue Extra light reinforced PVC fabric Waterproof, folding lock system Two shoulder straps included Rubber carry handle design
-  Updated: 2026-03-31T21:52:16Z
+  Updated: 2026-05-26T17:05:22Z
   Vendor: Aqua Marina
   Product Type: Dry Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/aqua-marina-dry-bag-default-title-aqua-marina-dry-bag-20l-28787771670628.jpg?v=1687040115
   Price: $16.99 CAD
 - [Aqua Marina - 12V Electric Pump - 20 PSI](https://powerinmotion.ca/products/aqua-marina-12v-electric-pump-20-psi): Inflates Virtually anything - i.e SUP's, Boats, Kayaks, and Air Platforms LCD screen Cigarette lighter or Battery Attachable 12V - up to 20 PSI, 110W Inflation/Deflation Time: Inflate:1PSI/min Deflate: 4PSI/min
-  Updated: 2026-03-31T21:52:17Z
+  Updated: 2026-05-26T17:05:22Z
   Vendor: Aqua Marina
   Product Type: Watercraft Fuel Pumps & Parts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/aqua-marina-watercraft-fuel-pumps-parts-default-title-aqua-marina-12v-electric-pump-20-psi-31109479465060.jpg?v=1687040120
   Price: $110.00 CAD
 - [Surface604 - Lithium Ion Battery 48V (2020+)](https://powerinmotion.ca/products/surface604-lithium-ion-battery-48v-2020-1): Lithium-Ion battery, short base, for the entire line up 2020+ (except for 2021 Twist). Works on 2018-2019 Shred and Boar as well. 48V 14ah Battery - Samsung Battery - 21700 cells, 5000Amh. Made in Korea. 48V 20ah Battery - Samsung Battery - 21700 cells, 5000Amh. Made in Korea.
-  Updated: 2026-03-31T21:52:17Z
+  Updated: 2026-05-26T17:05:22Z
   Vendor: Surface604
   Product Type: 
   Availability: Available
@@ -241,77 +234,77 @@
     Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/surface604-48v-14ah-surface604-lithium-ion-battery-48v-2020-31109483298916.png?v=1709686925
     Price: $1,400.00 CAD
 - [Mirrycle - Bar End Mirror](https://powerinmotion.ca/products/mirrycle-bar-end-mirror): Made of resin Compatible with any ATB, hybrid, or commuter handlebar, Cr-Mo, or aluminum Two inner adaptors are included to fit wider-diameter handlebars Foldable for added protection when not in use
-  Updated: 2026-03-31T21:52:17Z
+  Updated: 2026-05-29T20:01:38Z
   Vendor: HLC
   Product Type: Bicycle Mirrors
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/power-in-motion-bicycle-mirrors-default-title-mirrycle-bar-end-mirror-31106102984804.jpg?v=1687031048
   Price: $34.00 CAD
 - [TERN - Cargo Rack](https://powerinmotion.ca/products/tern-cargo-rack): The Cargo Rack is a robust rear rack for Tern bikes. Constructed of thick-gauge aluminum tubing with an ultra-rigid DoubleTruss™ 3D design, the rack supports it all—full-sized panniers on upper or lower rails and KLICKfix™ Rackpack compatible baskets and trunk bags on the upper deck. With 25 kg (55 lb) load capacity—and our unique SideStrap™ anti-roll anchoring system to keep cargo tied down securely—the Cargo Rack is our strongest and most versatile rack ever. Rigid DoubleTruss™ 3D design KLICKfix™ Rackpack compatible Mount trunk bags or baskets to the top deck, and panniers on lower rails Lower rails keep panniers further back for greater heel  Anchor points keep pannier bags from sliding Built-in light/reflector mount with internal cable routing for powered rear light Adjustable height 
-  Updated: 2026-03-31T21:52:20Z
+  Updated: 2026-05-26T17:05:23Z
   Vendor: Tern
   Product Type: Bicycle Front & Rear Racks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/tern-bicycle-front-rear-racks-default-title-tern-cargo-rack-28846877737060.jpg?v=1709686986
   Price: $138.00 CAD
 - [Bixpy - Flip and Lock Adapter (J-1 or J-2 Motors)](https://powerinmotion.ca/products/bixpy-flip-and-lock-adapter-j-1-or-j-2-motors): PRODUCT DESCRIPTION If your paddleboard or kayak has a Flip & Lock Fin Box, this Adapter will allow you to attach the Bixpy J-2 Motor onto your paddle board or kayak within minutes. If you already own a Bixpy J-1 Motor and standard attachment and would like to get a Flip & Lock fin, this is what you’ll need. INCLUDES Flip & Lock Fin Adapter Locking tab and leash
-  Updated: 2026-03-31T21:52:20Z
+  Updated: 2026-05-26T17:05:23Z
   Vendor: Bixpy
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/bixpy-default-title-bixpy-flip-and-lock-adapter-j-1-or-j-2-motors-31110967656548.png?v=1711646448
   Price: $49.99 CAD
 - [Bixpy - Slide & Lock Fin (K-1 & J-2 Motors)](https://powerinmotion.ca/products/bixpy-slide-lock-fin-k-1-j-2-motors): PRODUCT DESCRIPTION If your paddleboard or kayak has a Slide & Lock (sometimes called a Standard Fin Plate), this Adapter will allow you to attach the Bixpy J-2 Motor onto your Paddle Board or Kayak within minutes. If you already own a Bixpy J-1 Motor and standard attachment and would like to get a Slide & Lock fin, this is what you’ll need. INCLUDES Flip & Lock Fin Adapter Locking tab and leash
-  Updated: 2026-03-31T21:52:20Z
+  Updated: 2026-05-26T17:05:23Z
   Vendor: Bixpy
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/bixpy-default-title-bixpy-slide-lock-fin-j-1-and-j-2-motors-28868682547300.png?v=1686867324
   Price: $49.99 CAD
 - [Bixpy - US Fin Adapter (K-1 & J-2 Motors)](https://powerinmotion.ca/products/bixpy-us-fin-adapter-k-1-j-2-motors): PRODUCT DESCRIPTION If your paddleboard or kayak has a US Fin Box, this Adapter will allow you to attach the Bixpy J-2 Motor onto your Paddle Board or Kayak within minutes. If you already own a Bixpy J-1 Motor and standard attachment and would like to get a new US SUP fin, this is what you’ll need. INCLUDES Bixpy US SUP Fin All stainless steel hardware is required to attach the fin to your fin box
-  Updated: 2026-03-31T21:52:21Z
+  Updated: 2026-05-26T17:05:24Z
   Vendor: Bixpy
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/bixpy-default-title-bixpy-us-fin-adapter-j-1-and-j-2-motors-31100292694116.png?v=1686947656
   Price: $49.99 CAD
 - [Bixpy - Transom Adapter (K1 Motors)](https://powerinmotion.ca/products/bixpy-transom-adapter-k-1-j-2-motors): PRODUCT DESCRIPTION With the Transom Adapter, you can attach your Bixpy Motor to virtually any watercraft with a flat vertical mounting surface in seconds. This includes most dinghies, some kayaks, personal pontoons, and a variety of other watercraft. The aluminum pipe will adjust to accommodate virtually any depth to meet your needs. This kit also includes a complete steering mechanism that will allow you to steer the motor for full control of your kayak. FEATURES Fits virtually any transom plate Adjustable depth Quick release disassembly Adjustable trim Super sturdy construction INCLUDES Transom WillFit™ Adapter All hardware required to attach to dinghies, kayaks, personal pontoons and a variety of other watercraft Tiller Steering Handle (2 sizes - 12" and 24" included) One Rubber grip for tiller handle
-  Updated: 2026-03-31T21:52:21Z
+  Updated: 2026-05-26T17:05:24Z
   Vendor: Bixpy
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/bixpy-default-title-bixpy-transom-adapter-j-2-motors-31100292431972.png?v=1686947831
   Price: $364.99 CAD
 - [SR Suntour - NCX Suspension Seatpost 27.2mm](https://powerinmotion.ca/products/suntour-ncx-suspension-seatpost): The NCX seat post has been engineered and built for years of comfort and performance. The unique and patented parallelogram design allows for smooth small bump compliance with a total of 50mm travel to make for a smooth ride. Comfort, low maintenance, and long-term durability are what this post is all about. The SR SUNTOUR NCX seat post is best in class for performance and value. This is a must-have accessory for any cyclist looking for the ultimate in comfort. Alleviate back pain and saddle soreness. SPECIFICATIONS Latest version 50mm of travel Stainless steel bushings 25mm offset saddle clamp Patented parallelogram suspension design Preload adjustable Internal coil spring for the ultimate in comfort The side clamp has a radial detent with a wide tilt adjustment range Weight 765g Requires 110mm of exposed seat post to the saddle rails for installation Maximum extension of 300mm height for 350mm length Maximum extension of 350mm height for 400mm length Stock standard spring is rated for riders of 140-180lbs +/- Optional hard and soft springs sold separately Optional cover sold separately 7mm rail saddle rail clamp diameter SP12 models are 27.2 and 31.6mm sizes SP17 models are 30.9mm size 2-year manufacturers warranty included Made in Taiwan
-  Updated: 2026-05-23T23:47:35Z
+  Updated: 2026-05-26T17:05:24Z
   Vendor: Suntour
   Product Type: Bicycle Seatposts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/suntour-bicycle-seatposts-default-title-suntour-ncx-suspension-seatpost-31106125594724.jpg?v=1687032132
   Price: $150.00 CAD
 - [Montague Carrying Case | Folding Bikes | Canada Wide Shipping PIM](https://powerinmotion.ca/products/montague-carrying-case): Montague’s soft-sided bicycle carrying case, made of 420 Denier nylon, provides great protection at an affordable price. The carrying case features an inner pocket for the front wheel, a direct mount shoulder strap, two side handles, double-layered nylon bottom, and the heaviest YKK zipper available. Ontario | Quebec | British Columbia | Alberta | New Brunswick | Nova Scotia |Prince Edward | Manitoba Saskatchewan | Newfoundland & Labrador
-  Updated: 2026-03-31T21:52:21Z
+  Updated: 2026-05-26T17:05:25Z
   Vendor: Montague
   Product Type: Bike Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/montague-bike-bag-default-title-montague-carrying-case-28884132790372.png?v=1709686826
   Price: $195.00 CAD
 - [49n - Alloy Stay Mount Kickstand](https://powerinmotion.ca/products/49n-alloy-stay-mount-kickstand): • Lightweight adjustable alloy kickstand• Chainstay-mount, compatible with disc-brake equipped bikes
-  Updated: 2026-05-23T19:48:47Z
+  Updated: 2026-05-26T17:05:25Z
   Vendor: Live To Play
   Product Type: Bicycle Kickstands
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/49n-bicycle-kickstands-default-title-49n-alloy-stay-mount-kickstand-31106119139428.jpg?v=1687031145
   Price: $45.00 CAD
 - [49n - Classic Bar](https://powerinmotion.ca/products/49n-classic-bar): • Offers a comfortable riding position for urban and city bikes• Lightweight and a durable alloy construction• 70mm rise with a 50 degrees sweep• 580mm width
-  Updated: 2026-03-31T21:52:25Z
+  Updated: 2026-05-26T17:05:25Z
   Vendor: 49N
   Product Type: Bicycle Handlebars
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/49n-bicycle-handlebars-default-title-49n-classic-bar-31109485396068.jpg?v=1687054953
   Price: $28.99 CAD
 - [Topeak - D-Flash Fenders](https://powerinmotion.ca/products/topeak-d-flash-fenders): • MATERIAL: Polypropylene• ADDED FEATURES: 3M™ reflective printing• SIZE:- 31 cm / 12.2” (on fork)- 35 cm / 13.8” (on downtube)- 31.7 cm / 12.5” (on saddle)- 57.5 cm / 22.6” (on seat tube)• WEIGHT:- 47 g / 1.66 oz (FS, on fork)- 68 g / 2.40 oz (DT, on downtube)- 42 g / 1.48 oz (S, on saddle)- 75 g / 2.65 oz (ST, on the seat tube)
-  Updated: 2026-03-31T21:52:25Z
+  Updated: 2026-05-26T17:05:25Z
   Vendor: Topeak
   Product Type: Bicycle Fenders
   Availability: Available
@@ -329,14 +322,14 @@
     Availability: Available
     Price: $13.99 CAD
 - [Topeak - Joeblow Max II](https://powerinmotion.ca/products/topeak-joeblow-max-ii-1): An entry-level leader with features normally found on more expensive pumpsHEAD: TwinHead™BARREL: Painted SteelGUAGE: Base mount analogHOSE: X-LongHANDLE: Oversize paddedCAPACITY: 120 psi / 8 barBASE: CompositeADDED FEATURES: Ball/bladder heads/hose dockSIZE (L x W x H): 12.7 x 24 x 67.5 cm / 5.0" x 9.4" x 26.6"WEIGHT: 1.6 kg / 3.53 lb
-  Updated: 2026-03-31T21:52:25Z
+  Updated: 2026-05-26T17:05:26Z
   Vendor: Topeak
   Product Type: Utility Pumps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/topeak-utility-pumps-default-title-topeak-joeblow-max-ii-31106142535780.jpg?v=1687031150
   Price: $110.00 CAD
 - [BBS02 BBSHD - Motor Kit Only | Power In Motion | Calgary | Canada](https://powerinmotion.ca/products/bafang-bbs02-bbshd-motor-kit-only): Conversion Kit ComponentWhat is a Mid-Drive Motor? A Mid-Drive motor is the second type of electric bike motor located under the crank of the bike. The motor works with your gears, so you can get more power when going up hills and more speed on flat roads than with a hub motor of the same wattage. That’s why many high-quality electric bikes opt to use a Mid-Drive over a hub wheel. Our conversion kit batteries have a second advantage, they boast a higher wattage than the industry standard 250w and 500w motors making bikes with our conversion kits on them some of the strongest out there. There are 3 Ways to Ride! Regular – Ride the bike without any power. Pedal Assist – As you pedal the motor will give you the power and assist with your ride. There are 9 levels of pedal assistance from which to choose, and each can have the acceleration or speed programmed to suit your riding needs. Throttle – Press and go! The throttle will activate the motor without the need to pedal. Your speed in this mode can be set to act according to what pedal-assist mode you’re in. Or it can have its own settings based on what the user wants. The conversion kit also comes with a display that allows you to see your speed, battery level, and pedal assist level. Choose Your Settings! Our Bafang Mid-Drive kits come with various different settings for you to choose from. For those looking for a more peaceful commute, we can give you a slower accelerating bike without sacrificing its overall power. While for those who want a thrill, we can raise the acceleration and speed giving you a bike that can go head to head with some of the fastest factory electric bikes! We do not  or ship our conversion kits for home installation, The installation must be done on-site by our staff.
-  Updated: 2026-03-31T21:52:25Z
+  Updated: 2026-05-26T17:05:26Z
   Vendor: Bafang
   Product Type: Conversion Kit Component
   Availability: Available
@@ -358,35 +351,35 @@
     Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/BBSHDMotor.png?v=1715724148
     Price: $1,429.99 CAD
 - [Roswheel Tour Pannier](https://powerinmotion.ca/products/roswheel-tour-pannier): For long-distance touring in all weather conditions, these bags are convenient, lightweight, and versatile.- Quick-tighten closure that's convenient, yet highly protective.- Large reflective on all outward-facing aspects.- Fully welded construction.- Lightweight TPU- / PU-Coated 420D Ripstop material.- Durable base panel with integrated foam protection.- Roswheel mount system with 'lock-on' and position-adjustable hooks.- External weatherproof zip pocket.
-  Updated: 2026-03-31T21:52:29Z
+  Updated: 2026-05-26T17:05:26Z
   Vendor: Roswheel
   Product Type: Bike Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/roswheel-bike-bag-default-title-roswheel-tour-pannier-29042621972580.jpg?v=1686867150
   Price: $224.00 CAD
 - [Bixpy - Hobie® Mirage, Vibe X-Drive, Pelican HD, Lightning](https://powerinmotion.ca/products/bixpy-hobie-mirage-vibe-x-drive-pelican-hd-lightning): PRODUCT DESCRIPTION No Drilling. No Hassle. This Pedal Drive Adapter clicks into the foot pedal drive of most fin pedal kayaks to replace your pedals with a mighty motor. This simple swap allows you to take your kayaking to the next level with clean electric power. Make sure that you are getting the right Bixpy adapter for your watercraft on www.bixpy.info FEATURES Now fits more kayaks including all roto-molded Hobie® kayaks, Inflatable Hobie® kayaks, Vibe Kayaks, Pelican Kayaks, and Lightning Kayaks. Please note that this adapter does not fit the new Hobie® MirageDrive 360. INCLUDES Pedal Drive Adapter Bixpy Propeller Housing with reduced width for a better fit (required for most kayaks) ADDITIONAL INFORMATION Cable length from motor connector end to battery connector end (including blue pipe): 6 feet (1.85 m) Thruster draft: 15" (30.5 cm) from the bottom of the kayak to the bottom of the motor Protection: Water-proof, dirt-proof, and corrosion-resistant housing and components Water use: Marine grade stainless steel components for salt water or fresh water use INSTALLATION GUIDES Click here for installation guides and videos NOTES: This adapter will not fit Hobie 360 Kayaks. * Motors shown in pictures are not included in Adapter Kits.
-  Updated: 2026-03-31T21:52:29Z
+  Updated: 2026-05-26T17:05:26Z
   Vendor: Bixpy
   Product Type: Kayak Adapter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/bixpy-kayak-adapter-default-title-bixpy-hobie-mirage-vibe-x-drive-pelican-hd-lightning-29223127318628.jpg?v=1686946750
   Price: $225.00 CAD
 - [Universal Rudder Adapter (K-1 Motors)](https://powerinmotion.ca/products/universal-rudder-adapter-k-1-or-j-2-motors): PRODUCT DESCRIPTION The Vibe Bixpy-Ready Gravity Rudder is the first rudder in the market specifically designed to accept a motor as an option. The bottom portion of the rudder unscrews in seconds to allow you to attach your Bixpy J-2 Motor directly onto the rudder. The Vibe Bixpy-Ready Gravity Rudder offers a molded 10mm stainless steel pin that offers easy installation and not only fits all Vibe kayaks but can replace most other manufacturer rudders in seconds! It also offers a robust double-hinged, 90° Slide & Stow mechanism that gets the rudder completely out of the water in a heartbeat!The Vibe Bixpy-Ready Gravity Rudder also features a gravity-driven locking mechanism that allows the rudder to lock into place when motorized in forward or reverse. However, since the locking only occurs with gravity, the rudder easily “unlocks” and pops up to protect your motor and rudder in shallow water. Steering your rudder can be done using your existing rudder steering system if you have one and if not, you can choose from a variety of options in our Steering Options. FEATURES Mounts into any standard rudder 10mm pinhole Gravity deployment system 90° quick Slide & Stow feature Gravity "Lock-down" mechanism for reverse speeds 18in. x 4in. rudder blade Kick up feature for shallow water and hazards Removable cap for mounting Bixpy Jet Motor INCLUDES Vibe Bixpy-Ready Gravity Rudder Bixpy Clam Cleat Pull up rope ADDITIONAL INFORMATION The top of the pin to the top of the motor measures 12.25 inches or 305 mm. The pin length is 85 mm. The gap from the pin to the blade is 38 mm. To work effectively, the Bixpy motor needs to be about 2" to 3" below the waterline. INSTALLATION GUIDES Click here for installation guides and videos. * Motors shown in pictures are not included in adapter kits.
-  Updated: 2026-03-31T21:52:29Z
+  Updated: 2026-05-26T17:05:27Z
   Vendor: Bixpy
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/bixpy-default-title-universal-rudder-adapter-j-2-motors-31109552865380.jpg?v=1687076729
   Price: $274.00 CAD
 - [Pannier Drybag DX 25L](https://powerinmotion.ca/products/pannier-drybag-dx): • 25 Litre pannier bag features 420 Denier and 840 Denier Nylon Waterproof Fabric• Tough, waterproof material is sonically welded and seam-sealed for durable, waterproof protection• DryBag roll-top closure is watertight and expandable for different size loads• Quick-release Hook and Lock mounting system is faster and more secure than Velcro or bungee attachments• Sliding side hooks adjust fore and aft for easy load balancing• Carrying handle for off-bike use• Reflective printing for increased nighttime visibility• Hook and Lock System fits racks ø 8/10/12 mm• Sold separately• 1400g
-  Updated: 2026-03-31T21:52:29Z
+  Updated: 2026-05-26T17:05:27Z
   Vendor: Live To Play
   Product Type: Pannier Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/topeak-pannier-bag-default-title-pannier-drybag-dx-31109486608484.jpg?v=1687054875
   Price: $170.00 CAD
 - [Power Pole Adapter (K-1 & J-2Motors)](https://powerinmotion.ca/products/power-pole-adapter-k-1-j-2motors): The Power-Pole WillFit™ Adapter allows you to quickly and easily add a Bixpy Motor to your kayak using your standard Micro Power-Pole adapter slot. If your kayak accommodates a Micro Anchor Power Pole, you can simply screw this adapter onto your Power-Pole in seconds - no tools required!If your kayak is Power Pole ready but requires a special mounting plate (i.e. some Hobie® Pro Anglers, Wilderness Atak, Native Propel, etc.) you will need that mounting plate from your kayak manufacturer to make installation easier. If your kayak does not have a power pole mount, this is still an excellent, stable option for mounting a Bixpy Motor to your kayak as long as you have a fairly flat area in the rear of your kayak to accommodate the adapter’s footprint. If you’re not sure, you can download the adapter’s outline by clicking here and trying it on your kayak. Make sure that you are getting the right Bixpy adapter for your watercraft on www.bixpy.info NOTE: Pole Steering as shown in some of the pictures is NOT included in this adapter kit and can be purchased separately.
-  Updated: 2026-03-31T21:52:33Z
+  Updated: 2026-05-26T17:05:27Z
   Vendor: Bixpy
   Product Type: Kayak Adapter
   Availability: Available
@@ -400,14 +393,14 @@
     Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/bixpy-kayak-adapter-power-pole-power-pole-adapter-k-1-j-2motors-31110967787620.jpg?v=1711646593
     Price: $414.99 CAD
 - [Universal Kayak Adapter (K-1 & J-2 Motors)](https://powerinmotion.ca/products/universal-kayak-adapter-k-1-j-2-motors): DESCRIPTION With the Universal Kayak Adapter, you can attach your Bixpy J-2 Motor to virtually any kayak, canoe, or small watercraft. The aluminum pipes will adjust to accommodate virtually any length and configuration, and the mechanism includes an ingenious adjustment arm to accommodate a wide variety of slopes in the back of various watercraft. As every kayak is slightly different in shape and configuration, you will have to do a little bit of installation with this adapter, but rest assured, this adapter ships complete with all the nuts and bolts you’ll need to get the job done. This is a more complex adapter, requiring higher levels of DIY ability, so it's only recommended if none of our other Adapters fit your kayak and you're comfortable taking on the task of installation or have access to a professional installer. Make sure that you are getting the right Bixpy adapter for your watercraft on www.bixpy.info INCLUDES Adapter: Attaches to virtually any kayak or canoe with adjustable hardware Protection: Water-proof, dirt-proof, and corrosion-resistant housing and components Water use: Marine grade stainless steel components for salt water or fresh water use
-  Updated: 2026-03-31T21:52:33Z
+  Updated: 2026-05-26T17:05:28Z
   Vendor: Bixpy
   Product Type: Kayak Adapter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/bixpy-kayak-adapter-default-title-universal-kayak-adapter-j-2-motors-29179309981796.jpg?v=1686867572
   Price: $284.99 CAD
 - [Hub Motor Kit | Includes Wheel & Motor Kit](https://powerinmotion.ca/products/hub-motor-kit-includes-wheel-motor-kit-2): What are my Motor Options? Front Hub – Motor that is installed on the front wheel of your bike Rear Hub – Motor that is installed on the Rear Wheel of your bike Rear Fat Bike Hub - Motor that is installed on the Rear Wheel of your fat bike (4” wheel width) Which Power Option is best for me? 250W 350W 500W Lighter & Cheaper, while providing lower power. Provides more power than a 250w motor. While not as heavy as a 500w motor. Has enough power to boost you up a majority of inclines with little effort. But also the heaviest hub motor we provide. What is the “Wheel Build + Essentials” option? The Wheel Build price includes the cost of the Rim, Spokes, and Nipples along with the labor involved with spoking the motor to your wheel. The Essentials option includes the price of all items needed to run/install your motor, except for the battery. NO BATTERY INCLUDED WITH THIS KIT
-  Updated: 2026-03-31T21:52:33Z
+  Updated: 2026-05-26T17:05:28Z
   Vendor: Power in Motion
   Product Type: Electric Bicycle Conversion Kits
   Availability: Available
@@ -453,27 +446,27 @@
     Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/thule-bike-bag-13l-pair-thule-shield-pannier-31106163834980.jpg?v=1687031284
     Price: $199.99 CAD
 - [PIM RB304 Rear Key Switch Bag](https://powerinmotion.ca/products/pim-rb304-rear-key-switch-bag): Rear Key Switch Bag is a premium electric bike battery bag designed with an integrated on and off key switch for enhanced safety. Constructed with quality materials, it securely holds 36v or 48v blue wrap batteries, making it an ideal choice for riders looking for a safe, reliable, and powerful solution.
-  Updated: 2026-03-31T21:52:36Z
+  Updated: 2026-05-26T17:05:28Z
   Vendor: Power in Motion
   Product Type: Conversion Kit Battery Holders
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/power-in-motion-battery-holders-default-title-pim-rb304-rear-key-switch-bag-29390984216676.jpg?v=1686867102
   Price: $54.99 CAD
 - [Ultra 410](https://powerinmotion.ca/products/ultra-410): 12 mm round shackle Hardened lock body Double-bolt locking Carrier SH 34 (for 24-35 mm tubes) Sold Secure Silver approval Attributes Primary Color Green Internal Lock Size Imperial 11.8x4.3" Lock Type Key Bracket USH 34 Thickness In mm 12mm Internal Lock Size Metric 300x110mm
-  Updated: 2026-03-31T21:52:36Z
+  Updated: 2026-05-26T17:05:29Z
   Vendor: Abus
   Product Type: U-Locks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/810230-02_1.jpg?v=1726147235
   Price: $79.99 CAD
 - [770A SmartX](https://powerinmotion.ca/products/770a-smartx): Enjoy the benefits of the innovative SmartX cylinder and make your iOS or Android smartphone your individualised key. 13 mm hardened square shaft parabolic shackle SmartX locking system with Bluetooth – high-quality, keyless locking offers user-friendly operation Alarm function with at least 100 dB for 15 seconds followed by automatic reactivation 3D Position Detection – detects vibrations and the smallest movement in all three dimensions and triggers the alarm Smart alarm – the lock only emits a small warning beep in the event of minor and brief vibrations, e.g. if a football bounces nearby USB-C port for charging the unit Location storage of the bike's last parking location via the app ABUS power cell technology offers the highest level of protection against impacts and attempts to break open the lock The shackle, the housing and the locking mechanism’s load-bearing parts are manufactured from specially hardened steel Attributes Lock Type Smart Thickness In mm 13mm Internal Lock Size Imperial 6.3''x9'' Primary Color Black Internal Lock Size Metric 160x230mm Bracket USH
-  Updated: 2026-03-31T21:52:37Z
+  Updated: 2026-05-26T17:05:29Z
   Vendor: Abus
   Product Type: U-Locks
   Availability: Available
   Price: $399.99 CAD
 - [Flipshot](https://powerinmotion.ca/products/flipshot): FitRite™ easy fit retention system 16 Vents Detachable Visor Small/Medium (51 - 58cm) Large/XL (56 - 61cm)PLEASE NOTE MISPRINT ON PACKAGING LISTING SM AS 51-55CM Attributes Certification CPSC e-Bike  No Visor Yes Core No Integrated Light No Misc Black Primary Color Black
-  Updated: 2026-03-31T21:52:37Z
+  Updated: 2026-05-26T17:05:30Z
   Vendor: Evo
   Product Type: Mountain Bike Helmets
   Availability: Available
@@ -485,50 +478,57 @@
   - [L/XL](https://powerinmotion.ca/products/flipshot?variant=40291480109156)
     Availability: Available
     Price: $79.99 CAD
+- [Tern Clubhouse™ Mini](https://powerinmotion.ca/products/tern-clubhouse-mini): The Clubhouse Mini—a little sibling to the Clubhouse+—makes your bike as versatile and functional as a hatchback car. Use it to carry one kid, in or out of a child seat. When no passenger is on board, the Clubhouse Mini offers 400 x 400 mm of interior space—more than enough for your grocery haul. The Clubhouse Mini fits on the HSD and GSD. The Clubhouse Mini is part of the Passenger System and should be paired with other accessories to safely carry passengers.LEARN MORE Fits one child in a child seat OR one big kid* on the Clubhouse MadPad Extended side rails provide added protection for little hands Converts in seconds to a heavy-duty grocery hauler with 400 x 400 mm of interior space Supports vertical parking Includes four bottle mounts for water bottles, coffee mugs, and locks Compatible with the HSD and the GSD Lets you install the Storm Box Mini, Storm Shield Mini, Soft Crate Mini, and other handy accessories *A "big kid" is approximately 18+ kg (40+ lb), or 5+ years old. All kids are different though, so check with your pediatrician. Specifications COLOR Black MAX DIMENSIONS (PER UNIT) 502 × 532 × 243 mm (19.8 × 20.9 × 9.6 in) RECOMMENDED PRODUCTS Cargo Hold™ 37 Panniers Tern Bottle Cage Storm Box™ Mini Storm Shield™ Mini Clubhouse MadPad™ MATERIAL Aluminum WEIGHT (PER SET) 1.8 kg (4 lb)
+  Updated: 2026-05-30T17:21:17Z
+  Vendor: Tern
+  Product Type: Bike Child Seat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/tern-bike-child-seat-default-title-tern-clubhouse-mini-29544290943076.jpg?v=1686866998
+  Price: $270.00 CAD
 - [Tern Captain's Chair (Gen 1)](https://powerinmotion.ca/products/tern-captains-chair-gen-1-1): The Captain’s Chair lets big kids and adults ride on the back of a GSD or HSD in comfort and style. Pair with the Sidekick Joyride Bars to create a complete passenger’s cabin for your favorite backseat driver. Use the same setup to carry crates and boxes—just remove the seat cushion. The Captain’s Chair is a seating component of the Passenger System. Other accessories are required in order to safely carry passengers.GSD HSD Designed to fit one big kid* on the HSD when paired with the Sidekick Joyride Bars Designed to fit one older kid** or one  passenger on the GSD when paired with the Sidekick Joyride Bars or the Sidekick Bars Extra-thick seat cushion and reclined backrest for a comfortable ride Extended side rails for hand protection Offers space for crates and boxes, when paired with the Sidekick Joyride Bars Two bottle mounts for water bottles, coffee mugs, and locks Allows vertical parking of bikes while installed *Recommended age: 8 or above. Recommended height: 130 cm or above. The HSD’s rear rack load limit still applies. Check the Passenger System page for more information.**Recommended age: 10 or above. Recommended height: 140 cm or above. Check the Passenger System page for more information. Specification COLOR Black MAX DIMENSIONS (PER UNIT) 533 × 565 × 257 mm (21 × 22.2 × 10.1 in) RECOMMENDED PRODUCTS Sidekick™ Lower Deck Sidekick™ Wide Decks Sidekick™ Wheel Guard, L Sidekick™ Wheel Guard, M Sidekick™ Joyride Bars Sidekick™ Foot Pegs Sidekick™ Footrests Sidekick™ Bars MATERIAL Aluminum WEIGHT (PER SET) 2.3 kg (5.1 lb)
-  Updated: 2026-03-31T21:52:40Z
+  Updated: 2026-05-26T17:05:30Z
   Vendor: Tern
   Product Type: Bike Child Seat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/tern-bike-child-seat-default-title-tern-captain-s-chair-29544314470500.jpg?v=1686866997
   Price: $339.99 CAD
 - [Tern Dry Goods™ Bag](https://powerinmotion.ca/products/tern-dry-goods-bag): The Dry Goods Bag is built for comfortable all-weather commuting. With KLICKfix mounts, it clips effortlessly on any rear Tern rack, and because all the mounting hardware is tucked away under the bag, it’s a pleasure to carry when you’re off the bike too. It’s sonically welded, 100% waterproof, and holds up to 11.2 L (683.5 cu in) of gear and groceries. 100% waterproof roll-top design sporting sonically welded seams Securely locks onto all Tern and KLICKfix-compatible rear racks Excels as a standalone bag, thanks to its comfortable messenger strap and soft sidewalls Easy-access waterproof outer pocket for phone, keys, or wallet Expandable outer mesh pocket for quick storage Holds up to 11.2 L (683.5 cu in) of gear and groceries Specifications COLOR Black MAX DIMENSIONS (PER UNIT) 200 × 340 × 300 mm (7.9 × 13.4 × 11.8 in) LOAD CAPACITY 10 kg (22 lb) RECOMMENDED PRODUCTS Cargo Rack™ Loader™ Rack MATERIAL 1000D Nylon WEIGHT (PER SET) 0.855 kg (1.9 lb) VOLUME CAPACITY 11.2 l (683.5 in³)
-  Updated: 2026-03-31T21:52:40Z
+  Updated: 2026-05-26T17:05:30Z
   Vendor: Tern
   Product Type: Bike Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/tern-bike-bag-default-title-tern-dry-goods-bag-29544342585444.jpg?v=1686866996
   Price: $221.00 CAD
 - [Tern HQ™ Bag](https://powerinmotion.ca/products/tern-hq-bag): The HQ Bag is a slim office bag designed to fit all your daily essentials and to work brilliantly on or off the bike. The recessed KLICKfix® adapter makes carrying the bag a lot more comfortable since there are no protruding parts. The HQ Bag mounts to the Tern Luggage Truss™ in a click, and includes a rain cover and an adjustable shoulder strap so you can bring it anywhere. Padded, zippered compartments for a 13” laptop AND a tablet Front pockets and internal compartments keep your tech and daily needs organized Designed with a recessed KlickFix® adapter for carrying comfort Made of durable, weather-resistant, ripstop fabric Includes a high-visibility rain cover Reflective strips for nighttime visibility Requires the Tern Luggage Truss to mount to bicycle frame Specifications COLOR Black MAX DIMENSIONS (PER UNIT) 340 × 280 × 95 mm (13.4 × 11 × 3.7 in) LOAD CAPACITY 6 kg (13.2 lb) RECOMMENDED PRODUCTS Luggage Truss™ CMT Luggage Truss™ MATERIAL Nylon Ripstop WEIGHT (PER SET) 1.18 kg (2.6 lb) VOLUME CAPACITY 10 l (610.2 in³)
-  Updated: 2026-03-31T21:52:40Z
+  Updated: 2026-05-26T17:05:30Z
   Vendor: Tern
   Product Type: Bike Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/tern-bike-bag-default-title-tern-hq-bag-29544372797540.jpg?v=1686946942
   Price: $214.00 CAD
 - [TERN - Dog Roof Mini - Convertible cover for the Soft Crate Mini, requires the Clubhouse Mini and Soft Crate Mini](https://powerinmotion.ca/products/tern-dog-roof-mini): The Dog Roof Mini is a convertible cover for the Soft Crate Mini that lets your dog ride in safety and style. Open the roof to let your dog enjoy an open-air riding experience or zip the roof closed to keep the rain out (and your dog in). Pup-friendly mesh side panels keep the fresh air flowing so your dog stays happy and healthy on your ride. Part of the Doghouse Mini—a soft pet crate for carrying a small or mid-sized dog* up to 13.5 kg (30 lb) Convertible roof features two windows that can be zipped open, rolled up, and tucked away for open-air riding Built with durable fabric and mesh panels, designed for easy spray cleaning Designed for use with the Soft Crate Mini Requires the Clubhouse Mini for installation * The Doghouse Mini was designed for trained small/mid-sized dogs. If you have a different pet or aren't sure your dog would be comfortable in the Doghouse Mini, we recommend consulting with your veterinarian for guidance. Specifications MAX DIMENSIONS (PER UNIT) 482 × 506 × 183 mm (19 × 19.9 × 7.2 in) RECOMMENDED PRODUCTS Dog Roof Mini Soft Crate Mini MATERIAL Nylon WEIGHT (PER SET) 0.525 kg (1.2 lb)
-  Updated: 2026-03-31T21:52:40Z
+  Updated: 2026-05-30T18:03:36Z
   Vendor: Tern
   Product Type: Bike Dog / Cat Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/tern-bike-dog-cat-bag-default-title-tern-dog-roof-mini-29544444854372.jpg?v=1687055654
-  Price: $130.00 CAD
+  Price: $140.00 CAD
 - [Tern Cargo Tray](https://powerinmotion.ca/products/tern-cargo-tray): The Cargo Tray creates a strong, generously sized cargo platform atop your bike's rear rack. The L-shape makes it perfect for hauling XXL stuff that won't fit in a crate or basket—like a cooler full of cold drinks, a stack of jumbo pizza boxes, or the new microwave you just bought. The Cargo Tray can carry up to 30 kg (66 lb) of cargo and has passed ISO's safety and performance standard for bicycle luggage carriers. A hefty L-shaped tray turns your bike into a flatbed pickup truck. Learn more about how to Carry Cargo on the HSD. The roomy platform lets you haul bulky items that won’t fit in a basket or four-sided tray 30 kg (66 lb) capacity Tested for safety and performance—ISO-11243  Won't interfere with vertical parking Made from oversized aluminum tubing for lightweight durability Easily mounts to any Tern bike featuring the Upper Deck System Specifications COLOR Black MAX DIMENSIONS (PER UNIT) 458 × 396 × 172.5 mm (18 × 15.6 × 6.8 in) LOAD CAPACITY 30 kg (66.1 lb) RECOMMENDED PRODUCTS Batten™ Straps MATERIAL Aluminum WEIGHT (PER SET) 1.06 kg (2.3 lb)
-  Updated: 2026-03-31T21:52:40Z
+  Updated: 2026-05-26T17:05:31Z
   Vendor: Tern
   Product Type: Bicycle Front & Rear Racks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/tern-bicycle-front-rear-racks-default-title-tern-cargo-tray-31109493260388.jpg?v=1687039890
   Price: $145.00 CAD
 - [Tern Batten™ Straps](https://powerinmotion.ca/products/tern-batten-straps): Use the Batten Straps to secure any and all cargo to your bike. Daisy-chained or individually, the two 3-meter long straps are an essential tool to quickly fasten crates, some extra luggage, or just about any odd-shaped bulky item. Easily secure heavy crates, boxes, or odd-shaped items Load limit of up to 100 kg (220 lb) for all your cargo-carrying needs Plastic-coated buckle prevents scratches on your cargo Integrated velcro tie helps secure excess strap Includes two 3-meter (9.8 ft), 1” wide straps UV and weather-resistant
-  Updated: 2026-03-31T21:52:40Z
+  Updated: 2026-05-26T17:05:31Z
   Vendor: Tern
   Product Type: Vehicle Bicycle Rack Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/tern-vehicle-bicycle-rack-accessories-default-title-tern-batten-straps-31106002387044.jpg?v=1686947624
   Price: $30.00 CAD
 - [Spokes](https://powerinmotion.ca/products/spokes)
-  Updated: 2026-03-31T21:52:44Z
+  Updated: 2026-05-26T17:05:32Z
   Vendor: Power in Motion
   Product Type: Mechanic Service
   Availability: Available
@@ -546,35 +546,35 @@
     Availability: Available
     Price: $1.75 CAD
 - [Electric Bikes | iGo Yorkville LS Mid Drive Commuter Ebike](https://powerinmotion.ca/products/igo-discovery-yorkville-ls): Unlock a new level of cycling performance with the Yorkville LS. Designed for the urban cyclist who wants to push their limits, this mid-drive equipped hybrid eBike is perfect for daily commutes, leisure rides, and even light trail riding. With its natural pedal feel, the Yorkville LS enhances your riding experience with a familiar and comfortable ride quality. Whether you're looking to go further, ride more, or tackle steep inclines with ease, the Yorkville LS is equipped to help you achieve your goals. A TRUE EMBODIMENT OF THE “STRONG TYPE” THE IGO LS MOTOR Revolutionize your ride with the iGO LS Motor! This sleek, city-tuned motor is smooth, responsive, and specifically designed to tackle the demands of city riding. Need a quick boost of power? No problem, just give the throttle a push! And with a powerful 48V and 100Nm of torque, you'll have all the energy you need for a fully customizable ride experience. Easy and safe to remove 720wh battery Commuting to work, running errands, or exploring the city, you'll have the power you need to keep going. With a 720Wh capacity, you'll experience less "range anxiety" and more freedom to roam. The integrated design ensures better security from theft, while also providing optimized weight distribution for a more stable and smoother ride. With less frequent charging required, you'll have more time to focus on the ride and less time tethered to a power outlet. Specifications FRAMESET FRAME Hydroformed Alloy, 27.5 Hybrid frame, internal cable routing head tube ported, removable down tube battery with security lock, accessory ready rear cargo rack COLOR Platinum FORK RST BLAZE-27.5TNL-15, 80mm travel, lockout, Thru Axle DRIVETRAIN SHIFTERS SHIMANO ALIVIO 9-speed Rapidfire Plus CHAINRINGS 42T with Narrow Wide teeth CHAIN KMC E9-S REAR DERAILLEUR SHIMANO ALIVIO 9-speed CASSETTE SHIMANO ALIVIO 9-speed 11-34T COMPONENTS HANDLEBAR 640mm, 45mm rise, 31.8mm dia. GRIPS VELO, Ergonomic, 135mm STEM 80mm with 7 degree rise SEAT POST 31.6mm (350mm) SADDLE SELLE ROYAL Rio BRAKE LEVERS TEKTRO HDE350 with power cut off switch BRAKE CALIPERS TEKTRO HDE350 Hydraulic Disc ROTORS 180mm WHEELS TIRES WTB GROOV-E 27.5”x2.4”, 60tpi RIMS 27.5”, Dual Wall Alloy, black ELECTRIC TECHNOLOGY BLUETOOTH NEW iGO Mobile App (Android and iOS). Customizable profile and performance settings with full diagnostic monitoring and alerts. DISPLAY UNIT 2” HD High Brightness IPS Color LCD Display, Ergonomically Designed Buttons, IP65 Waterproof,  Protected Power On Option, USB Charging Port, Light Auto On/Off Option (Ambient Light Detector), Interface Color Coded Display Reference (for Quick Glance Safety), Main Power/PAS Control/Ride, Stats and Settings Toggle, PAS Level/Battery/Power/Clock, Speedometer/Max Speed/Avg Speed, Trip Distance, Battery Voltage/Capacity Percentage/Range/Accumulated Charging Cycles, Motor Power Output Average/Maximum, Ride Analysis Statistics, Diagnostic and Warning Information, Walk Assist MOTOR iGO DRIVE LS 350W Mid-Motor, 48V TORQUE up to 100Nm BATTERY 5000mAh SAMSUNG cell, removable with security lock (48V | 15Ah | 720Wh) RANGE 110km (69mi) * PEDAL ASSIST SYSTEM Eco/Tour/Sport/Turbo/Boost color coded per PAS level THROTTLE On-Demand, Removable SENSOR Internal Torque, Cadence, Speed CLASS Class2 / Class1 optional / Class3 capable where permitted ** OTHER ACCESSORIES (INCLUDED) Front LED light XC-259A (powered by main battery), Rear LED SPANNINGA LED Commuter Glow XE with brake light Integrated into rear rack (powered by main battery), Front & Rear Fenders, Rear Cargo Rack Accessory ready, Integrated Chainring Guard, Water Bottle Bosses on Seat Tube, Kickstand, Wellgo Pedals, Bell, Tool Kit, Battery Charger BIKE WEIGHT (without battery) 25.5kg (56.2 lbs) WEIGHT CAPACITY 125kg (275 lbs) BATTERY WEIGHT 3.5kg (7.7 lbs)
-  Updated: 2026-03-31T21:52:44Z
+  Updated: 2026-05-26T17:05:32Z
   Vendor: iGo
   Product Type: Electric Bike
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Yorkville-LS.jpg?v=1677716151
   Price: $1,815.00 CAD
 - [TERN - Sidekick Footrests](https://powerinmotion.ca/products/tern-sidekick-footrests): The Sidekick Footrests provide comfortable support for your passenger’s feet. These non-retractible flat footplates offer solid, non-slip support, and are compatible with most rear-rack accessories. Designed for the HSD, and compatible with other bikes Helps your passenger ride in comfort and style Durable aluminum deck for sturdy foot support 3M non-slip paper prevents feet from slipping and sliding in the rain Compatible with most rear-rack accessories, including panniers and the Kontti Basket
-  Updated: 2026-03-31T21:52:47Z
+  Updated: 2026-05-26T17:05:32Z
   Vendor: TERN
   Product Type: Foot Rest
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/tern-foot-rest-default-title-sidekick-footrests-31109491294308.jpg?v=1687039615
   Price: $70.00 CAD
 - [440A Alarm](https://powerinmotion.ca/products/440a-alarm): We protect our most valuable possessions with an alarm system, so why not our bike? Hardened 12 mm round shackle The shackle, the body and the load-bearing parts of the locking mechanism are manufactured using specially hardened steel Special, modern design of the lock body casing allows for optimum handling High-quality locking cylinder for high protection against manipulation, e.g., picking Alarm at a volume of at least 100 dB for 15 seconds, followed by automatic reactivation 3D Position Detection – detects vibrations and the smallest of movements in all three dimensions and triggers an alarm CR2 batteries included Attributes Lock Type Key Bracket USH Primary Color Black Thickness In mm 12mm Internal Lock Size Imperial 6.3"x3.3" Internal Lock Size Metric 160x85mm
-  Updated: 2026-03-31T21:52:47Z
+  Updated: 2026-05-26T17:05:32Z
   Vendor: Abus
   Product Type: U-Locks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/810478-01_1.jpg?v=1722074831
   Price: $149.99 CAD
 - [Cargo Stretch Net](https://powerinmotion.ca/products/cargo-stretch-net): Stretch web secures those hard to hold items Now with 4 molded nylon hooks Great for any rack
-  Updated: 2026-03-31T21:52:47Z
+  Updated: 2026-05-26T17:05:32Z
   Vendor: Delta
   Product Type: Rack Parts and Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/730225-01_1.jpg?v=1718791720
   Price: $16.99 CAD
 - [Steel-O-Chain 5805K](https://powerinmotion.ca/products/steel-o-chain-5805k): 5 mm square chain with fabric sleeve to prevent damage to bicycle's paintwork The chain is made of special hardened steel, unique to Abus, providing an optimal strength Two keys are supplied with the lock ABUS quality automatic cylinder with user-friendly reversible key Attributes Primary Color Black Bracket No Internal Lock Size Metric 110cm Internal Lock Size Imperial 3.6' Lock Type Key Thickness In mm 5mm
-  Updated: 2026-03-31T21:52:48Z
+  Updated: 2026-05-26T17:05:33Z
   Vendor: Abus
   Product Type: Chain Locks
   Availability: Available
@@ -588,14 +588,14 @@
     Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/810398-02_1.jpg?v=1726152847
     Price: $64.99 CAD
 - [Riese & Muller Load 75 Touring](https://powerinmotion.ca/products/riese-muller-load-75-touring): The Load 75 touring in detail Frame colour: coal grey matt*; white*Suspension fork: SR Suntour Mobie A32, 20", 50mmRear shock: X-Fusion GlydeHeadset: Acros AZX-221, block lock; TH No. 9, semi-integratedSeatpost: JD/Riese & Müller, Alu, 34,9 x 430mmSeatclamp: TranzX, 40,0 mm, QRTires: Schwalbe Big Ben Plus 55-406 Reflex; Schwalbe Big Ben Plus 55-559 Reflex; Schwalbe Smart Sam Plus 57-559 Reflex*; Schwalbe Smart Sam Plus 60-406 Reflex*Tubes: Schwalbe AV13; Schwalbe AV7Rims: Alex MD30 26"; Alex MD30, 20"Front hub: Novatec Disc 32HRear hub: Novatec Boost, QR, 36HBattery: Bosch PowerPack 500 Performance, 36 V, 13,4 Ah/500Wh ( 2x )Motor: Cargo Line Cruise (Gen4)Display: Bosch Intuvia; Bosch Nyon*; Bosch SmartphoneHub*Crankset: FSA/Riese & Müller, 170 mmChain ring: 48TChain guard: Chain guardChain: KMC X11 ( 127x )Cassette: Shimano CUES CS-LG700-11,11-50Saddle: Selle Royal New Lookin Evo R&MPedals: VP R&M CustomShifting system: Shimano XT 11-S LinkglideShifter: Shimano XT 11-S LinkglideHandlebar: FSA V-Drive, 31,8 mm, AluStem: Riese & Müller, adjustable height and angleGrips: Ergon ergonomicBrakes: Tektro TRP C 2.3 disc brakeFront light: Supernova M99 Mini Pro-25Tail light: Supernova M99, integrated brake lightMudguards: SKS A65RLuggage rack: Riese & Müller*Rubber: Bibia*Bell: BillyKickstand: Kickstand Riese & MüllerLock: ABUS Shield X+*RX Hardware: RX Chip (für RX Services)*The specification table indicates all available components for this model – not just the basic equipment. Some of the options listed are only available for a surcharge. For more information, see the Configurator. Riese & Müller reserves the right to make technical modifications as well as changes to the shape, colour and/or weight within reasonable limits.* May differ depending on the availability in your country, design or configuration of the model.
-  Updated: 2026-03-31T21:52:48Z
+  Updated: 2026-05-26T17:05:33Z
   Vendor: Riese & Muller
   Product Type: Electric Bike
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/riese-muller-electric-bike-default-title-riese-muller-load-75-touring-31100288368740.png?v=1686947766
   Price: $11,629.00 CAD
-- [Tern Short Haul D8](https://powerinmotion.ca/products/tern-short-haul-d8-1): Compact cargo bike that carries up to 50 kg on the rear rack, plus an additional 20 kg with optional front rack Create your ideal setup with different accessory options to carry your kid, your stuff, or even your dog Proven safe and reliable: frame and fork are EFBE-tested up to the 140 kg (308 lb) Maximum Gross Vehicle Weight Fits riders of different heights from 147 - 190 cm (4’10” - 6’3”), weighing up to 120 kg (264 lb) Low standover height (49 cm or 19”) makes (dis)mounting and waiting at stops easier 1x8-speed Shimano Altus derailleur with trigger shifter Hydraulic disc brakes for great stopping power, even when carrying heavy loads Specifications SPEEDS: 1 x 8WEIGHT: 16.1 kg (35.5 lb)GEAR INCHES: 31" - 95" (2.45 - 7.57 m)FRAME SIZES: One sizeDISTANCE: SEATPOST TO HANDLEBAR: 60 - 64 cm (23.6 - 25.2 in)DISTANCE: SADDLE TO PEDAL: 62 - 110 cm (24.4 - 43.3 in)SUGGESTED RIDER HEIGHT: 147 - 190 cm (57.9 - 74.8 in)MAX GROSS VEHICLE WEIGHT: 140 kg (308.6 lb)MAX RIDER WEIGHT: 120 kg (264.6 lb) FRAME: Tern Short Haul, Patented Design, 6061-AL, EFBE Tri-Test : 140 kgFORK: Steel, EFBE : 140 kg STEM: Forged, 31.8HEADSET: TH, cartridge bearingsHANDLEBAR: Low riser, 31.8, 6061-ALGRIPS/BAR TAPE: Velo ergonomic, lock-onSADDLE: Velo ComfortSEATPOST: 31.6 mm, 6061-AL, micro-adjust clampSEATPOST CLAMP: Tern Collar FRONT BRAKE: Hydraulic discREAR BRAKE: Hydraulic discBRAKE LEVERS: Hydraulic discBRAKE CABLE & HOUSING: Hydraulic disc FRONT HUB: Disc, aluminumREAR HUB: 8 spd, disc, aluminumSPOKES AND NIPPLES: Stainless steelRIMS: Doublewall, for discTIRES: Schwalbe Big Apple, 55-406, puncture protection, Reflex SHIFTER(S): 1 x 8 spd, triggerREAR DERAILLEUR: Shimano AltusCRANKSET: Forged 6061-AL crankarmCASSETTE/FREEWHEEL: 11-34T, 8 spdBOTTOM BRACKET: FSA, Cartridge, sealed bearingsCHAIN: KMC, 8 spdPEDALS: Urban with a non-slip surfaceSHIFTER CABLE & HOUSING: SP BELL: AluminumCHAINGUARD: SKS ChainbladeKICKSTAND: Pletscher design, rear mountLUGGAGE SOCKET: Combo MountFENDERS: SplashGuard, stainless hardwareRACK(S): Atlas Q Rack, 6-point mounting, Vertical Parking, 50 kg capacity
-  Updated: 2026-04-08T22:01:37Z
+- [Tern Short Haul D8](https://powerinmotion.ca/products/tern-short-haul-d8-1): Tern Short Haul D8 — Compact Cargo Bike *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; } :root { --black: #111110; --white: #fafaf8; --gray-100: #f5f5f3; --gray-200: #e8e8e5; --gray-400: #a8a8a4; --gray-600: #6b6b67; --accent: #d95f2b; --accent-light: #f5e8e0; --font-sans: 'DM Sans', sans-serif; --font-mono: 'DM Mono', monospace; } body { font-family: var(--font-sans); background: var(--white); color: var(--black); min-height: 100vh; padding: 0; } .page { max-width: 760px; margin: 0 auto; padding: 3rem 2rem 5rem; } .breadcrumb { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--gray-400); font-family: var(--font-mono); margin-bottom: 2.5rem; letter-spacing: 0.02em; flex-wrap: wrap; } .breadcrumb span { color: var(--gray-200); } .product-header { margin-bottom: 2rem; } .badge-row { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 0.75rem; } .badge { display: inline-block; font-size: 10px; font-family: var(--font-mono); letter-spacing: 0.1em; text-transform: uppercase; background: var(--accent-light); color: var(--accent); border: 1px solid #e8c4ae; border-radius: 3px; padding: 3px 8px; } .badge-alt { display: inline-block; font-size: 10px; font-family: var(--font-mono); letter-spacing: 0.1em; text-transform: uppercase; background: var(--gray-100); color: var(--gray-600); border: 1px solid var(--gray-200); border-radius: 3px; padding: 3px 8px; } h1 { font-size: 34px; font-weight: 600; line-height: 1.15; color: var(--black); margin-bottom: 0.35rem; letter-spacing: -0.025em; } .subtitle { font-size: 13px; font-family: var(--font-mono); color: var(--gray-400); letter-spacing: 0.04em; margin-bottom: 0.5rem; } .tagline { font-size: 16px; color: var(--gray-600); line-height: 1.5; } .price-hero { display: flex; align-items: baseline; gap: 10px; margin-top: 1rem; } .price-hero .price { font-size: 32px; font-weight: 600; letter-spacing: -0.02em; color: var(--black); } .price-hero .price-note { font-size: 12px; color: var(--gray-400); font-family: var(--font-mono); } .divider { border: none; border-top: 1px solid var(--gray-200); margin: 2rem 0; } .description { font-size: 15px; line-height: 1.75; color: #333332; margin-bottom: 2rem; } .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; background: var(--gray-200); border: 1px solid var(--gray-200); border-radius: 8px; overflow: hidden; margin-bottom: 2rem; } .stat { background: var(--white); padding: 1.1rem 0.75rem; text-align: center; } .stat-value { font-size: 17px; font-weight: 600; color: var(--black); letter-spacing: -0.02em; display: block; } .stat-label { font-size: 10px; color: var(--gray-400); font-family: var(--font-mono); margin-top: 4px; display: block; } .section-label { font-size: 13px; font-family: var(--font-sans); font-weight: 600; letter-spacing: -0.01em; text-transform: none; color: var(--black); margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid var(--accent); display: inline-block; } .features { display: flex; flex-direction: column; border: 1px solid var(--gray-200); border-radius: 8px; overflow: hidden; margin-bottom: 2rem; } .feature { display: grid; grid-template-columns: 3px 1fr; border-bottom: 1px solid var(--gray-200); transition: background 0.15s; } .feature:last-child { border-bottom: none; } .feature:hover { background: var(--gray-100); } .feature-accent { background: transparent; transition: background 0.15s; } .feature:hover .feature-accent { background: var(--accent); } .feature-content { padding: 1.1rem 1.25rem; } .feature-title { font-size: 14px; font-weight: 600; color: var(--black); margin-bottom: 3px; } .feature-desc { font-size: 13px; color: var(--gray-600); line-height: 1.5; } .spec-group { margin-bottom: 1.75rem; } .specs-table { width: 100%; border-collapse: collapse; border: 1px solid var(--gray-200); border-radius: 8px; overflow: hidden; font-size: 13px; } .specs-table tr { border-bottom: 1px solid var(--gray-200); } .specs-table tr:last-child { border-bottom: none; } .specs-table tr:hover td { background: var(--gray-100); } .specs-table td { padding: 9px 14px; background: var(--white); transition: background 0.1s; vertical-align: top; } .specs-table td:first-child { color: var(--gray-600); font-family: var(--font-mono); font-size: 11px; width: 42%; letter-spacing: 0.01em; } .specs-table td:last-child { color: var(--black); font-weight: 500; } .colours { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 2rem; } .colour-chip { display: flex; align-items: center; gap: 8px; font-size: 13px; font-family: var(--font-mono); padding: 6px 14px 6px 10px; border: 1px solid var(--gray-200); border-radius: 4px; color: var(--black); background: var(--white); } .colour-swatch { width: 14px; height: 14px; border-radius: 50%; border: 1px solid rgba(0,0,0,0.1); flex-shrink: 0; } .price-row { display: flex; align-items: baseline; gap: 12px; margin-bottom: 0.4rem; } .price { font-size: 28px; font-weight: 600; letter-spacing: -0.02em; color: var(--black); } .price-note { font-size: 12px; color: var(--gray-400); font-family: var(--font-mono); } .sku { font-size: 11px; color: var(--gray-400); font-family: var(--font-mono); letter-spacing: 0.04em; margin-bottom: 2rem; } .footer-line { border-top: 1px solid var(--gray-200); padding-top: 1.5rem; font-size: 12px; color: var(--gray-400); font-family: var(--font-mono); display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px; } @media (max-width: 560px) { h1 { font-size: 26px; } .stats { grid-template-columns: repeat(2, 1fr); } .page { padding: 2rem 1.25rem 4rem; } } bikes / cargo bikes / Short Haul D8 Tern Non-Electric Cargo Bike Gen 1 EFBE  Short Haul D8 · Gen 1 · 1×8 · Non-Electric Short Haul D8 Tern's most affordable cargo bike — no motor, no battery, just a strong, light, capable platform for hauling kids, groceries, and gear on human power. $1,499 CAD 16.1 kg weight 140 kg max GVW 50 kg rear rack capacity The Short Haul D8 proves you don't need a motor to haul seriously. At 16.1 kg it's the lightest bike in the Tern lineup by a wide margin — and at $1,499, the most affordable. The EFBE Tri-Test  6061-AL frame carries up to 140 kg gross vehicle weight, the Atlas Q rear rack handles 50 kg with optional vertical parking, and hydraulic disc brakes stop it reliably whether you're loaded or light. Shimano Altus 1×8 shifting, Schwalbe Big Apple tires, and a wide fit range round out a bike that does real cargo work without the complexity or cost of an e-bike. Highlights 16.1 kg — the lightest Tern we carry No motor, no battery means a genuinely light bike. At 16.1 kg (35.5 lb) the Short Haul D8 is dramatically lighter than any e-cargo bike — easier to lift, carry up stairs, load into a vehicle, or just push around when you need to. 140 kg GVW — EFBE Tri-Test  Frame and steel fork EFBE Tri-Test  to 140 kg (308 lb) gross vehicle weight. The same rigorous independent safety testing as Tern's e-cargo bikes — just without the motor. Carries passengers, children, and full cargo loads with confidence. 50 kg Atlas Q rear rack + optional 20 kg front rack 6-point mounting Atlas Q Rack rated to 50 kg (110 lb) with UpperDeck Mount System and vertical parking. Add an optional front rack for up to 20 kg more carrying capacity. Compatible with the full Short Haul accessory range — child seats, panniers, cargo bags. Hydraulic disc brakes Front and rear hydraulic disc brakes deliver consistent, powerful stopping regardless of weather or load — a meaningful spec upgrade at this price point that puts it ahead of most cargo bikes in this range. Shimano Altus 1×8 — 31"–95" gear range Shimano Altus rear derailleur with 11–34T cassette and trigger shifter. Wide 31"–95" gear range handles loaded urban riding and gentle hills without needing a motor to get up them. Ultra-low 49 cm standover At 49 cm (19"), the step-over height is low enough to mount and dismount easily at traffic stops — even with a fully loaded rack or child seat behind you. Wide rider fit — 147–190 cm Adjustable stem and seatpost fit riders from 4'10" to 6'3" across a wide saddle-to-pedal range of 62–110 cm. One frame, shared easily across most adults. Vertical parking The Atlas Q Rack supports vertical parking — stand the bike upright on its rear wheel for tight storage in hallways, storage rooms, or small garages. Available colours Burnt Orange Black Drivetrain Shifter 1×8-speed, trigger Rear derailleur Shimano Altus Cassette 11–34T, 8-speed Crankset Forged 6061-AL crankarm Bottom bracket FSA, cartridge, sealed bearings Chain KMC, 8-speed Gear range 31"–95" (2.45–7.57 m) Pedals Urban, non-slip surface Brakes Front brake Hydraulic disc Rear brake Hydraulic disc Levers Hydraulic disc Wheels & Tires Front hub Disc, aluminium Rear hub 8-speed, disc, aluminium Rims Doublewall, for disc Tires Schwalbe Big Apple, 55-406, puncture protection, Reflex Spokes Stainless steel Frame & Cockpit Frame Tern Short Haul, patented design, 6061-AL, EFBE Tri-Test : 140 kg Fork Steel, EFBE : 140 kg Stem Forged, 31.8mm Handlebar Low riser, 31.8mm, 6061-AL Headset TH, cartridge bearings Saddle Velo Comfort Seatpost 31.6mm, 6061-AL, micro-adjust clamp Grips Velo ergonomic, lock-on Load & Capacity Max GVW 140 kg (308 lb) Max rider weight 120 kg (265 lb) Rear rack capacity 50 kg (110 lb) Front rack capacity 20 kg (44 lb) — optional rack Rack Atlas Q Rack — 6-point mounting, UpperDeck Mount System, vertical parking Kickstand Pletscher design, rear mount Standover height 49 cm (19.3 in) Rider height range 147–190 cm (4'10"–6'3") Frame sizes One size Dimensions Weight 16.1 kg (35.5 lb) Folding Does not fold Extras Fenders SplashGuard, stainless hardware Chainguard SKS Chainblade Luggage socket Combo Mount Bell Aluminium $1,499 CAD Tern Short Haul D8 · Gen 1 · One Size · Burnt Orange / Black Tern Bicycles © 2026 Short Haul D8 Gen 1
+  Updated: 2026-05-31T11:21:55Z
   Vendor: Tern
   Product Type: Cargo Bike
   Availability: Available
@@ -603,62 +603,62 @@
   - [Satin Black](https://powerinmotion.ca/products/tern-short-haul-d8-1?variant=41454394507364)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/tern-cargo-bike-20-wheels-satin-black-tern-short-haul-d8-30594938667108.jpg?v=1686867197
-    Price: $1,500.00 CAD
+    Price: $1,499.00 CAD
   - [Burnt Orange](https://powerinmotion.ca/products/tern-short-haul-d8-1?variant=41454394540132)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/tern-cargo-bike-20-wheels-satin-black-tern-short-haul-d8-31109491687524.jpg?v=1687039703
-    Price: $1,500.00 CAD
+    Price: $1,499.00 CAD
 - [Riese & Muller Load 75 Vario](https://powerinmotion.ca/products/riese-muller-load-75-vario): The Load 75 vario in detail Frame colour: coal grey matt*; white*Suspension fork: SR Suntour Mobie A32, 20", 50mmRear shock: X-Fusion GlydeHeadset: Acros AZX-221, block lock; TH No. 9, semi-integratedSeatpost: JD/Riese & Müller, Alu, 34,9 x 430mmSeatclamp: TranzX, 40,0 mm, QRTires: Schwalbe Big Ben Plus 55-406 Reflex; Schwalbe Big Ben Plus 55-559 Reflex; Schwalbe Smart Sam Plus 57-559 Reflex*; Schwalbe Smart Sam Plus 60-406 Reflex*Tubes: Schwalbe AV13; Schwalbe AV7Rims: Alex MD30 26"; Alex MD30, 20"Front hub: Novatec Disc 32HRear hub: Enviolo 380, 36HBattery: Bosch PowerPack 500 Performance, 36 V, 13,4 Ah/500Wh ( 2x )Motor: Cargo Line Cruise (Gen4)Display: Bosch Intuvia; Bosch Nyon*; Bosch SmartphoneHub*Crankset: FSA/Riese & Müller, 170 mmChain ring: 55T, for Gates drive belt CDXChain guard: Belt guardChain: Gates drive belt CDXPinion: 22T, for Gates drive belt CDXSaddle: Selle Royal New Lookin Evo R&MPedals: VP R&M CustomShifter: Enviolo grip shift Twist Display Pure, continuousHandlebar: FSA V-Drive, 31,8 mm, AluStem: Riese & Müller, adjustable height and angleGrips: Ergon ergonomicBrakes: Tektro TRP C 2.3 disc brakeFront light: Supernova M99 Mini Pro-25Tail light: Supernova M99, integrated brake lightMudguards: SKS A65RLuggage rack: Riese & Müller*Rubber: Bibia*Bell: BillyKickstand: Kickstand Riese & MüllerLock: ABUS Shield X+*RX Hardware: RX Chip (für RX Services)* The specification table indicates all available components for this model – not just the basic equipment. Some of the options listed are only available for a surcharge. For more information, see the Configurator. Riese & Müller reserves the right to make technical modifications as well as changes to the shape, colour and/or weight within reasonable limits. * May differ depending on the availability in your country, design or configuration of the model.
-  Updated: 2026-03-31T21:52:51Z
+  Updated: 2026-05-26T17:05:33Z
   Vendor: Riese & Muller
   Product Type: Electric Bike
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Rieseundmuller-Load-75-F00757_b8cdc51d-62a6-4dcf-b2c9-2fe5fbbaab3e.png?v=1675801747
   Price: $12,129.00 CAD
 - [Riese & Muller Load 75 Rohlof](https://powerinmotion.ca/products/riese-muller-load-75-rohlof): The Load 75 rohloff in detail Frame colour: coal grey matt*; white*Suspension fork: SR Suntour Mobie A32, 20", 50mmRear shock: X-Fusion GlydeHeadset: Acros AZX-221, block lock; TH No. 9, semi-integratedSeatpost: JD/Riese & Müller, Alu, 34,9 x 430mmSeatclamp: TranzX, 40,0 mm, QRTires: Schwalbe Big Ben Plus 55-406 Reflex; Schwalbe Big Ben Plus 55-559 Reflex; Schwalbe Smart Sam Plus 57-559 Reflex*; Schwalbe Smart Sam Plus 60-406 Reflex*Tubes: Schwalbe AV13; Schwalbe AV7Rims: Alex MD30 26"; Alex MD30, 20"Front hub: Novatec Disc 32HRear hub: Rohloff Speedhub E14, 14-speed, 36HBattery: Bosch PowerPack 500 Performance, 36 V, 13,4 Ah/500Wh ( 2x )Motor: Cargo Line Cruise (Gen4)Display: Bosch Intuvia; Bosch Nyon*Crankset: FSA/Riese & Müller, 170 mmChain ring: 55T, for Gates drive belt CDXChain guard: RiemenschutzringChain: Gates drive belt CDXPinion: 19T, for Gates drive belt CDXSaddle: Selle Royal New Lookin Evo R&MPedals: VP R&M CustomShifter: Rohloff E14 electronic shifterHandlebar: FSA V-Drive, 31,8 mm, AluStem: Riese & Müller, adjustable height and angleGrips: Ergon ergonomicBrakes: Tektro TRP C 2.3 disc brakeFront light: Supernova M99 Mini Pro-25Tail light: Supernova M99, integrated brake lightMudguards: SKS A65RLuggage rack: Riese & Müller*Rubber: Bibia*Bell: BillyKickstand: Kickstand Riese & MüllerLock: ABUS Shield X+*RX Hardware: RX Chip (für RX Services)* The specification table indicates all available components for this model – not just the basic equipment. Some of the options listed are only available for a surcharge. For more information, see the Configurator. Riese & Müller reserves the right to make technical modifications as well as changes to the shape, colour and/or weight within reasonable limits.* May differ depending on the availability in your country, design or configuration of the model.
-  Updated: 2026-03-31T21:52:51Z
+  Updated: 2026-05-26T17:05:34Z
   Vendor: Riese & Muller
   Product Type: Electric Bike
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Rieseundmuller-Load-75-F00757_df21cca8-2239-470d-891c-95d8c94798d9.png?v=1675809470
   Price: $14,149.00 CAD
 - [Riese & Muller Superdelite Touring](https://powerinmotion.ca/products/riese-muller-superdelite-touring): The Superdelite GT touring in detail Frame colour: tundra grey matt*; warm silver matt* Suspension fork: Marzocchi Bomber Z2, Air, tapered, 100mm; Fox Float 34 Performance Boost, Air, 120mm*; Fox Float Rhythm, Air, 140mm, Boost*; SR Suntour Aion 35, Air, tapered, 140mm, Boost*; SR Suntour Mobie 34, Air, tapered, 100mm* Rear shock: Suntour RS-19 190x40; Fox Float DPS Performance 210x50*; Suntour RS-19 210x50* Headset: Acros IntegrationX, block lock Seatpost: Satori Trident; Dropper Post X-Fusion Manic 100* Tires: Schwalbe Super Moto-X 62-584 Reflex; Schwalbe Johnny Watts 60-584* Tubes: Schwalbe AV21 Rims: Rodi Tryp35 27,5" Front hub: Novatec Boost, QR, 32H; Novatec Disc 32H* Rear hub: Novatec Boost, QR, 36H Battery: Bosch PowerTube 500 Vertical, 36 V, 13,4 Ah/500Wh; Bosch PowerTube 625 Vertical, 36 V, 16,7 Ah/625Wh Motor: Performance Line CX (Gen4) Display: Bosch Intuvia; Bosch Kiox*; Bosch Nyon*; Bosch SmartphoneHub* Crankset: FSA/Riese & Müller, 170 mm Chain ring: 42T Chain guard: Chain guard Chain: KMC X11 ( 129x ) Cassette: Shimano CUES CS-LG700-11,11-50 Saddle: Selle Royal New Lookin Evo R&M; FIZIK Monte MG*; Selle Royal New Lookin Female Evo R&M* Pedals: VP R&M Custom Shifting system: Shimano XT 11-S Linkglide Shifter: Shimano XT 11-S Linkglide Handlebar: Humpert ergotec Ergo XXL, 31,8 mm*; Humpert ergotec Trekking, 31,8 mm, Alu*; Satori R&M Custom Komfort, 25,4 mm, Alu*; Satori R&M Custom, 25,4mm, Alu* Stem: Humpert ergotec Barracuda Evo, 90 mm, 20°; Satori R&M Custom, cable integration, adjustable angle, Alu* Grips: Ergon ergonomic Brakes: Magura MT4, disc brake; Magura MT5, disc brake; Magura CMe ABS, disc brake* Front light: Supernova M99 Mini Pro-25 Tail light: Supernova M99, integrated brake light Mudguards: SKS A69R; SKS A65R* Luggage rack: Riese & Müller; pannier holder Riese & Müller* Rubber: Bibia Bell: Billy Kickstand: Pletscher Comp 40 Flex Lock: Abus Bordo X+ 6000/90cm black Pump: Beto air suspension fork pump RX Hardware: RX Chip (für RX Services)* Frame size [cm]: 47 cm*; 51 cm*; 56 cm* The specification table indicates all available components for this model – not just the basic equipment. Some of the options listed are only available for a surcharge. For more information, see the Configurator. Riese & Müller reserves the right to make technical modifications as well as changes to the shape, colour and/or weight within reasonable limits.* May differ depending on the availability in your country, design or configuration of the model.
-  Updated: 2026-03-31T21:52:55Z
+  Updated: 2026-05-26T17:05:34Z
   Vendor: Riese & Muller
   Product Type: Electric Bike
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Superdelite_Grey_abd54d8e-69ca-450c-bc12-c2b25045cddc.jpg?v=1675883213
   Price: $11,569.00 CAD
 - [Riese & Muller Superdelite Vario](https://powerinmotion.ca/products/riese-muller-superdelite-vario): The Superdelite GT vario in detail Frame colour: tundra grey matt*; warm silver matt* Suspension fork: Marzocchi Bomber Z2, Air, tapered, 100mm; Fox Float 34 Performance Boost, Air, 120mm*; Fox Float Rhythm, Air, 140mm, Boost*; SR Suntour Aion 35, Air, tapered, 140mm, Boost*; SR Suntour Mobie 34, Air, tapered, 100mm* Rear shock: Suntour RS-19 190x40; Fox Float DPS Performance 210x50*; Suntour RS-19 210x50* Headset: Acros IntegrationX, block lock Seatpost: Satori Trident; Dropper Post X-Fusion Manic 100* Tires: Schwalbe Super Moto-X 62-584 Reflex; Schwalbe Johnny Watts 60-584* Tubes: Schwalbe AV21 Rims: Rodi Tryp35 27,5" Front hub: Novatec Boost, QR, 32H; Novatec Disc 32H* Rear hub: Enviolo 380, 36H Battery: Bosch PowerTube 500 Vertical, 36 V, 13,4 Ah/500Wh; Bosch PowerTube 625 Vertical, 36 V, 16,7 Ah/625Wh Motor: Performance Line CX (Gen4) Display: Bosch Intuvia; Bosch Kiox*; Bosch Nyon*; Bosch SmartphoneHub* Crankset: FSA/Riese & Müller, 170 mm Chain ring: 55T, for Gates drive belt CDX Chain guard: Belt guard Chain: Gates drive belt CDX Pinion: 24T, for Gates drive belt CDX Saddle: Selle Royal New Lookin Evo R&M; FIZIK Monte MG*; Selle Royal New Lookin Female Evo R&M* Pedals: VP R&M Custom Shifter: Enviolo grip shift Twist Display Pure, continuous Handlebar: Humpert ergotec Ergo XXL, 31,8 mm*; Humpert ergotec Trekking, 31,8 mm, Alu*; Satori R&M Custom Komfort, 25,4 mm, Alu*; Satori R&M Custom, 25,4mm, Alu* Stem: Humpert ergotec Barracuda Evo, 90 mm, 20°; Satori R&M Custom, cable integration, adjustable angle, Alu* Grips: Ergon ergonomic Brakes: Magura MT4, disc brake; Magura MT5, disc brake; Magura CMe ABS, disc brake* Front light: Supernova M99 Mini Pro-25 Tail light: Supernova M99, integrated brake light Mudguards: SKS A69R; SKS A65R* Luggage rack: Riese & Müller; pannier holder Riese & Müller* Rubber: Bibia Bell: Billy Kickstand: Pletscher Comp 40 Flex Lock: Abus Bordo X+ 6000/90cm black Pump: Beto air suspension fork pump RX Hardware: RX Chip (für RX Services)* Frame size [cm]: 47 cm*; 51 cm*; 56 cm* The specification table indicates all available components for this model – not just the basic equipment. Some of the options listed are only available for a surcharge. For more information, see the Configurator. Riese & Müller reserves the right to make technical modifications as well as changes to the shape, colour and/or weight within reasonable limits. * May differ depending on the availability in your country, design or configuration of the model.
-  Updated: 2026-03-31T21:52:55Z
+  Updated: 2026-05-26T17:05:34Z
   Vendor: Riese & Muller
   Product Type: Electric Bike
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Superdelite_Vario_Grey.jpg?v=1675884175
   Price: $12,069.00 CAD
 - [Riese & Muller Superdelite Rohloff](https://powerinmotion.ca/products/riese-muller-superdelite-rohloff): The Superdelite GT rohloff in detail Frame colour: tundra grey matt*; warm silver matt* Suspension fork: Marzocchi Bomber Z2, Air, tapered, 100mm; Fox Float 34 Performance Boost, Air, 120mm*; Fox Float Rhythm, Air, 140mm, Boost*; SR Suntour Aion 35, Air, tapered, 140mm, Boost* Rear shock: Suntour RS-19 190x40; Fox Float DPS Performance 210x50*; Suntour RS-19 210x50* Headset: Acros IntegrationX, block lock Seatpost: Satori Trident; Dropper Post X-Fusion Manic 100* Tires: Schwalbe Super Moto-X 62-584 Reflex; Schwalbe Johnny Watts 60-584* Tubes: Schwalbe AV21 Rims: Rodi Tryp35 27,5" Front hub: Novatec Boost, QR, 32H Rear hub: Rohloff Speedhub E14, 14-speed, 36H Battery: Bosch PowerTube 500 Vertical, 36 V, 13,4 Ah/500Wh; Bosch PowerTube 625 Vertical, 36 V, 16,7 Ah/625Wh Motor: Performance Line CX (Gen4) Display: Bosch Intuvia; Bosch Kiox*; Bosch Nyon* Crankset: FSA/Riese & Müller, 170 mm Chain ring: 60T, for Gates drive belt CDX Chain guard: Riemenschutzring Chain: Gates drive belt CDX Pinion: 19T, for Gates drive belt CDX Saddle: Selle Royal New Lookin Evo R&M; FIZIK Monte MG*; Selle Royal New Lookin Female Evo R&M* Pedals: VP R&M Custom Shifter: Rohloff E14 electronic shifter Handlebar: Humpert ergotec Ergo XXL, 31,8 mm*; Humpert ergotec Trekking, 31,8 mm, Alu*; Satori R&M Custom Komfort, 25,4 mm, Alu*; Satori R&M Custom, 25,4mm, Alu* Stem: Humpert ergotec Barracuda Evo, 90 mm, 20°; Satori R&M Custom, cable integration, adjustable angle, Alu* Grips: Ergon ergonomic Brakes: Magura MT4, disc brake; Magura MT5, disc brake Front light: Supernova M99 Mini Pro-25 Tail light: Supernova M99, integrated brake light Mudguards: SKS A69R; SKS A65R* Luggage rack: Riese & Müller; pannier holder Riese & Müller* Rubber: Bibia Bell: Billy Kickstand: Pletscher Comp 40 Flex Lock: Abus Bordo X+ 6000/90cm black Pump: Beto air suspension fork pump RX Hardware: RX Chip (für RX Services)* Frame size [cm]: 47 cm*; 51 cm*; 56 cm* The specification table indicates all available components for this model – not just the basic equipment. Some of the options listed are only available for a surcharge. For more information, see the Configurator. Riese & Müller reserves the right to make technical modifications as well as changes to the shape, colour and/or weight within reasonable limits. * May differ depending on the availability in your country, design or configuration of the model.
-  Updated: 2026-03-31T21:52:55Z
+  Updated: 2026-05-26T17:05:34Z
   Vendor: Riese & Muller
   Product Type: Electric Bike
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Superdelite_Rohloff_Grey.jpg?v=1675884199
   Price: $14,109.00 CAD
 - [Riese & Muller Superdelite Mountain Touring](https://powerinmotion.ca/products/riese-muller-superdelite-mountain-touring): The Superdelite mountain touring in detail Frame colour: tundra grey matt*; warm silver matt* Suspension fork: Fox Float 36 Performance, Air, 150mm, Boost Rear shock: Fox Float DPS Performance 210x50 Headset: Acros IntegrationX, block lock Seatpost: Dropper Post X-Fusion Manic 100 Tires: Schwalbe Nobby Nic Evo 65-584; Schwalbe Nobby Nic Evo 70-584 Tubes: Schwalbe AV21 Rims: Rodi Tryp35 27,5" Front hub: Novatec Boost, QR, 32H Rear hub: Novatec Boost, QR, 36H Battery: Bosch PowerTube 500 Vertical, 36 V, 13,4 Ah/500Wh; Bosch PowerTube 625 Vertical, 36 V, 16,7 Ah/625Wh Motor: Performance Line CX (Gen4) Display: Bosch Kiox; Bosch Nyon*; Bosch SmartphoneHub* Crankset: FSA/Riese & Müller, 170 mm Chain ring: 38T Chain guard: Kettenschutzring Chain: KMC X12 ( 125x ) Cassette: Sunrace 12-speed, 11-51 Saddle: FIZIK Monte MG Pedals: VP-531 Flat Pedal, Alu Shifting system: Shimano XT, 12-speed Shifter: Shimano SLX, 12-speed Handlebar: Ergotec Lowriser, 31,8 mm Stem: FSA Afterburner, 6°, 60mm Grips: Ergon GA20 black Brakes: Magura MT4, disc brake; Magura MT5, disc brake Front light: Supernova M99 Mini Pro-25 Tail light: Supernova E3 E-Bike; Supernova E3 E-Bike Tail Light 2 Luggage rack: Riese & Müller* Rubber: Bibia* Bell: Billy Lock: Abus Bordo X+ 6000/90cm black* Pump: Beto air suspension fork pump RX Hardware: RX Chip (für RX Services)* Frame size [cm]: 47 cm*; 51 cm*; 56 cm* The specification table indicates all available components for this model – not just the basic equipment. Some of the options listed are only available for a surcharge. For more information, see the Configurator. Riese & Müller reserves the right to make technical modifications as well as changes to the shape, colour and/or weight within reasonable limits. * May differ depending on the availability in your country, design or configuration of the model.
-  Updated: 2026-03-31T21:52:55Z
+  Updated: 2026-05-26T17:05:34Z
   Vendor: Riese & Muller
   Product Type: Electric Bike
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Superdelite-Mountian-Silver.jpg?v=1675888353
   Price: $12,339.00 CAD
 - [Riese & Muller Superdelite Mountain Rohloff](https://powerinmotion.ca/products/riese-muller-superdelite-mountain-rohloff): The Superdelite mountain rohloff in detail Frame colour: tundra grey matt*; warm silver matt* Suspension fork: Fox Float 36 Performance, Air, 150mm, Boost Rear shock: Fox Float DPS Performance 210x50 Headset: Acros IntegrationX, block lock Seatpost: Dropper Post X-Fusion Manic 100 Tires: Schwalbe Nobby Nic Evo 70-584 Tubes: Schwalbe AV21 Rims: Rodi Tryp35 27,5" Front hub: Novatec Boost, QR, 32H Rear hub: Rohloff Speedhub E14, 14-speed, 36H Battery: Bosch PowerTube 500 Vertical, 36 V, 13,4 Ah/500Wh; Bosch PowerTube 625 Vertical, 36 V, 16,7 Ah/625Wh Motor: Performance Line CX (Gen4) Display: Bosch Kiox; Bosch Nyon* Crankset: FSA/Riese & Müller, 170 mm Chain ring: 50T, for Gates drive belt CDX Chain guard: Riemenschutzring Chain: Gates drive belt CDX Pinion: 20T, for Gates drive belt CDX Saddle: FIZIK Monte MG Pedals: VP-531 Flat Pedal, Alu Shifter: Rohloff E14 electronic shifter Handlebar: Ergotec Lowriser, 31,8 mm Stem: FSA Afterburner, 6°, 60mm Grips: Ergon GA20 black Brakes: Magura MT4, disc brake; Magura MT5, disc brake Front light: Supernova M99 Mini Pro-25 Tail light: Supernova E3 E-Bike; Supernova E3 E-Bike Tail Light 2 Luggage rack: Riese & Müller* Rubber: Bibia* Bell: Billy Lock: Abus Bordo X+ 6000/90cm black* Pump: Beto air suspension fork pump RX Hardware: RX Chip (für RX Services)* Frame size [cm]: 47 cm*; 51 cm*; 56 cm* The specification table indicates all available components for this model – not just the basic equipment. Some of the options listed are only available for a surcharge. For more information, see the Configurator. Riese & Müller reserves the right to make technical modifications as well as changes to the shape, colour and/or weight within reasonable limits. * May differ depending on the availability in your country, design or configuration of the model.
-  Updated: 2026-03-31T21:52:55Z
+  Updated: 2026-05-26T17:05:35Z
   Vendor: Riese & Muller
   Product Type: Electric Bike
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Superdelite-Mountian-Tundra-Rohloff.jpg?v=1675894500
   Price: $14,949.00 CAD
 - [Bixpy Low Profile - Thruhull™ Pedal Drive Adapters](https://powerinmotion.ca/products/bixpy-low-profile-thruhull-pedal-drive-adapters): No Drilling. No Hassle. This Pedal Drive Adapter clicks into the foot pedal drive of most fin pedal kayaks to replace your pedals with a mighty motor. This simple swap allows you to take your kayaking to the next level with clean electric power. * Motors shown in the pictures above are not included in the adapter kit Make sure that you are getting the right Bixpy adapter for your watercraft on www.bixpy.info. This adapter will not fit Hobie 360 kayaks. Now fits more kayaks including: All roto-molded Hobie® kayaks with Mirage Drive (excluding Hobie 360 Kayaks) Hobie Lynx with Mirage Drive Inflatable Hobie® kayaks with Mirage Drive Vibe Kayaks with X-Drive Pelican Kayaks with HD Drive Specifications The sleek design allows this adapter to fit into any pedal drive with this style of molding The design includes a front bumper that protects the motor in case of impact Cable length from motor connector end to battery connector end: 6 feet (1.85 m) Thruster draft: 9" (23 cm) from the bottom of the kayak to the bottom of the motor Protection: Water-proof, dirt-proof, and corrosion-resistant housing and components Water use: Waterproof Starboard Material
-  Updated: 2026-03-31T21:52:55Z
+  Updated: 2026-05-26T17:05:35Z
   Vendor: Bixpy
   Product Type: 
   Availability: Available
@@ -672,7 +672,7 @@
     Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/low-profile-thruhull-pedal-drive-adapter-j-2-motors__48724.jpg?v=1707955392
     Price: $234.99 CAD
 - [Service - Tune Ups](https://powerinmotion.ca/products/service-tune-ups): Keep your wheels turning smoothly with our Basic Bike Tune-Up. This comprehensive service includes wheel truing, bearing surface adjustments, gear and brake calibrations, a complete safety check, and tire inspection. Ride confidently, knowing you have optimal performance and security on every outing. Listed price does not include the cost of parts. Service Tiers Safety Check Bolt Check Tire Inflation Component Inspection Brake Inspection Shifter Inspection Basic Tune-Up Everything in Safety Check Drivetrain Tuning Brake Adjustment and Tune Wheel Truing Tire Check / Inflation Drivetrain Lubrication Firmware Update Test Ride Bike Inspection (Assessment on all components on the bike) Bike Wipe Down Standard Tune Everything in Basic Tune-Up Tubeless Sealant Refresh Brake Bleed Includes 3 Spoke Replacements If Needed Pro Tune Everything in Standard Tune Full Bike Deep Clean and Re-Grease
-  Updated: 2026-05-23T20:28:56Z
+  Updated: 2026-05-30T23:08:56Z
   Vendor: Power in Motion
   Product Type: Mechanic Service
   Availability: Available
@@ -690,7 +690,7 @@
     Availability: Available
     Price: $350.00 CAD
 - [Service - Drivetrain Services](https://powerinmotion.ca/products/service-drivetrain-services-1): These exclusive drivetrain services will ensure your bike runs smoothly and efficiently without breaking the bank. *listed price does not include parts cost*
-  Updated: 2026-05-16T20:50:06Z
+  Updated: 2026-05-30T17:39:09Z
   Vendor: Power in Motion
   Product Type: Mechanic Service
   Availability: Available
@@ -711,7 +711,7 @@
     Availability: Not Available
     Price: $55.00 CAD
 - [Service - Wheel, Spoke, services](https://powerinmotion.ca/products/service-wheel-ebike-motor-services): Experience the luxury of having your wheels professionally serviced - from spoke cutting to wheel builds. Our highly skilled technicians are available for an exclusive, rare service, providing competent and cost-effective solutions to your wheel needs. *For Spoke cutting appointment services; Spoke machine set up Spoke and Nipple costs are added to the costs*
-  Updated: 2026-05-23T18:31:56Z
+  Updated: 2026-05-30T22:43:16Z
   Vendor: Power in Motion
   Product Type: Mechanic Service
   Availability: Available
@@ -738,7 +738,7 @@
     Availability: Available
     Price: $45.00 CAD
 - [Service - Brake Services](https://powerinmotion.ca/products/service-brake-services-1): Stay safe with our brake services. Our technicians will take care of all your bike's brake needs, with brake pad replacement, brake adjustment, or a hydraulic brake bleed. Enjoy the luxury of a safe ride, catered to your specific needs. *listed price does not include parts cost*
-  Updated: 2026-05-19T18:32:27Z
+  Updated: 2026-05-26T17:05:36Z
   Vendor: Power in Motion
   Product Type: Mechanic Service
   Availability: Available
@@ -759,7 +759,7 @@
     Availability: Available
     Price: $30.00 CAD
 - [Service - Complete Bike Builds](https://powerinmotion.ca/products/service-complete-bike-builds-1): Featuring a build straight out of the box and a detailed tune-up so that you can hit the trails with maximum performance and efficiency.
-  Updated: 2026-03-31T21:52:58Z
+  Updated: 2026-05-26T17:05:36Z
   Vendor: Power in Motion
   Product Type: Mechanic Service
   Availability: Available
@@ -771,7 +771,7 @@
     Availability: Available
     Price: $299.99 CAD
 - [MotionHeat | Heated Gloves Complete Set](https://powerinmotion.ca/products/heated-glove-liner-complete-set): Powerful Heated Gloves, with runtimes & temperatures surpassing the competition. Our Heated gloves provide the benefits of a tight comfortable fit. And Adaptability with every type of glove. MotionHeat Heated Gloves are without a doubt the best on the market with limitless options. Shipping Internationally.
-  Updated: 2026-03-31T21:53:03Z
+  Updated: 2026-05-26T17:05:37Z
   Vendor: Motion Heat
   Product Type: Gloves & Mittens
   Availability: Available
@@ -897,7 +897,7 @@
     Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Untitleddesign.png?v=1707334220
     Price: $570.00 CAD
 - [Heated Glover Liner & Mitten Bundles](https://powerinmotion.ca/products/heated-glover-liner-mitten-bundles): Features: 🕐 Long Lasting: 3 hours (high) / 9 hours (low) with 12v 3.2Ah batteries 🔥ULTRAHOT 12V and 16V batteries getting up to 60°C / 140°F ✋ Full Hand Heating: Even warmth across the back of your hand, fingers, and thumb 🏔️ Portable Design: Compact & Easy-to-use 🔋 Safe Battery: Quality LG cells with a BMS (battery management system) 📱 Touchscreen Compatible: Fingertips usable with touchscreens Each Complete Kit Includes: One pair of heated glove liners One pair of Flip Open Mittens 2 batteries [Extended sets include 4 batteries] One charger [Standard (1ah, 2 batteries) or Fast (4ah, 4 batteries), based on package] One stickman wire Owners Manual (Chart above is for Standard 12V 3.2ah Battery) Click HERE for the entire run-time chart, and HERE for the sizing chart.
-  Updated: 2026-03-31T21:53:03Z
+  Updated: 2026-05-26T17:05:38Z
   Vendor: Motion Heat
   Product Type: Gloves & Mittens
   Availability: Available
@@ -1103,7 +1103,7 @@
     Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/19_67cf27c2-466f-4ebb-be9e-25eee6375d30.png?v=1707334825
     Price: $305.00 CAD
 - [Split Mitten - Insulated Shell](https://powerinmotion.ca/products/split-mitten-insulated-shell): Features: 🖐️ Isolated Index and Middle Finger for tactility 🔥 High insulation Primaloft 💨Windproof 💦 Water-resistant 🏔️ Portable & Easy-to-use 🔋 Save battery life by running the liner at a lower temperature Includes: One pair of regular mittens Wrist Straps
-  Updated: 2026-03-31T21:53:03Z
+  Updated: 2026-05-26T17:05:38Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -1124,7 +1124,7 @@
     Availability: Available
     Price: $95.00 CAD
 - [Heated Glove Liner - Left Hand or Right Hand Glove Liner](https://powerinmotion.ca/products/heated-glove-liner-left-hand-or-right-hand-glove-liner): *requires a battery to be used (sold separately) Features: 🔥12V and 16V batteries getting up to 60°C / 140°F ✋ Full heating on the back of the hand and on every finger 🏔️ Portable & Easy-to-use 🔋 Perfect outdoors accessory 📱 Touch screen compatible fingertips Includes: A singular glove
-  Updated: 2026-03-31T21:53:03Z
+  Updated: 2026-05-26T17:05:38Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -1160,7 +1160,7 @@
     Availability: Available
     Price: $75.00 CAD
 - [Trigger Mitten - Insulated Shell](https://powerinmotion.ca/products/trigger-mitten-insulated-shell): Features: 🖐️ Isolated Index Finger for tactility 🔥 High insulation Primaloft 💨Windproof 💦 Water-resistant 🏔️ Portable & Easy-to-use 🔋 Save battery life by running liner at a lower temperature Includes: One pair of regular mittens Wrist Straps
-  Updated: 2026-05-12T17:15:10Z
+  Updated: 2026-05-26T17:05:38Z
   Vendor: Motion Heat
   Product Type: Gloves & Mittens
   Availability: Available
@@ -1181,7 +1181,7 @@
     Availability: Available
     Price: $95.00 CAD
 - [Heated Wear Essentials Kit](https://powerinmotion.ca/products/heated-wear-essentials-kit): Conquer the Cold with MotionHeat Features: 🕐 3 hours on high / 8 hours on low 🔥12V and 16V batteries getting up to 60°C / 140°F ✋ Full heating on the back of the hand and on every finger 🧥 Heating on the upper torso and lower back 🧦 Base heating from the ball of the foot to tips of toes 🏔️ Portable & easy-to-use 🔋 Centralized Battery System 🔌 Completely Compatible System 📱 Touch screen compatible fingertips Description: Our Heated Wear Essentials Kit has been years in the making. With a completely integrated system operate your headwear. MotionHeat products are designed to be worn as base layers for closer heating element contact and heat transference. Our powerful 12 and 16-volt batteries are designed to keep you warmer than any other product. The Heated Glove Liners started it all with their versatility and unparalleled warmth they can be worn on their own or with a shell on top. Whether you are doing outdoor recreation or working on the job site the liners are adaptable to any application. Core warmth is critical for more frigid conditions. The Motion Heat Heated Vest has four separate heating elements to ensure you are toasty in even the coldest wind chill. With adjustable straps and a shorter cut, it ensures that the vest fits snuggly without bunching up when bending and moving. Constructed with a softshell material it helps block out the cold and insolate the heat. Forget the days of cold toes with MotionHeat Heated Insoles as they offer great heating on the base of the foot from the ball up to the tips of the toes. Easily connected and operated from the heated vest it is plug and play. For the DIY Kit turn any orthotic or specialty insole into a heated one with a little bit of installation. Never fear the cold again with our Heated Wear Essentials Kit. With hands, core and feet covered focus on enjoying what you want to do even in the most frigid conditions. Heated Wear Essentials Combo Kit Includes: One Pair of Glove Liners One Vest One Pair of Insoles or DIY Kit Four Batteries One Fast Charger One Pair of Glove Extension Wires One Pair of Insole Extension Wires Owners Manual
-  Updated: 2026-03-31T21:53:03Z
+  Updated: 2026-05-26T17:05:38Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -1315,7 +1315,7 @@
     Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/PairofInsolesALT.png?v=1709686859
     Price: $1,030.00 CAD
 - [Heated Insoles - Complete Set](https://powerinmotion.ca/products/heated-insoles-complete-set): Features: 🕐 3 hours on high / 9 hours on low 🔥12V Easily Heats up to 50°C / 122°F ✋ Full heating on the base of toes 🏔️ Portable & Easy-to-use 🔋 Perfect outdoors accessory Complete Kit Includes: One pair of heated insoles or DIY Kit Two batteries Two leg straps to house the batteries One charger Pair of Extension Cables Owners Manual
-  Updated: 2026-03-31T21:53:08Z
+  Updated: 2026-05-26T17:05:39Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -1385,7 +1385,7 @@
     Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/InsoleCompleteset12v3.2ah.png?v=1707334936
     Price: $325.00 CAD
 - [Cables and Accessories](https://powerinmotion.ca/products/cables-and-accessories): Features: 🔌We have many different accessory cables to suit your heating needs *Please select the option of an adaptor and/or charger Includes: One cable of your choice
-  Updated: 2026-03-31T21:53:08Z
+  Updated: 2026-05-26T17:05:39Z
   Vendor: Motion Heat
   Product Type: Electronics Component Connectors
   Availability: Available
@@ -1438,7 +1438,7 @@
     Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/ExtensionCablePairWeb.png?v=1707334968
     Price: $30.00 CAD
 - [Chargers](https://powerinmotion.ca/products/chargers): Features: 🔌We have many different accessory chargers to suit your heating needs *Please select the option of a charger Includes: One charger of your choice
-  Updated: 2026-03-31T21:53:08Z
+  Updated: 2026-05-26T17:05:39Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -1468,21 +1468,21 @@
     Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/CarCharger_686baa1d-5743-494c-9395-c2b39f5c0824.jpg?v=1707334979
     Price: $20.00 CAD
 - [Heated Belt - Back Warmer Only](https://powerinmotion.ca/products/heated-belt-back-warmer-only): Features: 🔥12V and 16V batteries getting up to 60°C / 140°F ✋ Full heating to your back 🏔️ Portable & Easy-to-use 🔋 Perfect outdoors accessory Includes: One Heated Belt / Back Warmer Pair of 130cm extension Cables
-  Updated: 2026-03-31T21:53:08Z
+  Updated: 2026-05-26T17:05:39Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/MotionHeatBackWarmer.jpg?v=1707334984
   Price: $100.00 CAD
 - [Heated Insole - Leg Straps](https://powerinmotion.ca/products/heated-insole-leg-straps): * Does not Include Batteries or Insoles (Sold Separately) Features: 🔥12V and 16V batteries getting up to 60°C 🏔️ lightweight, low profile design 🔋 Perfect outdoors accessory Includes: One pair of insole Leg Straps Click HERE for the full run time chart
-  Updated: 2026-03-31T21:53:08Z
+  Updated: 2026-05-26T17:05:39Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/LegStrap_efba42e2-4eb6-492a-9faa-8ce01e53e9b1.png?v=1707334993
   Price: $85.00 CAD
 - [Batteries](https://powerinmotion.ca/products/batteries): Features: 🔋 We  12V and 16V batteries, which means our gear gets HOT. Most other heated gloves use either 5v or 7v, which simply does not get hot enough, or have a long enough run time. Combo Kit Includes: 2 batteries of your choice 1 charger Single Battery Kit Includes: 1 Battery of your choice
-  Updated: 2026-05-12T17:15:08Z
+  Updated: 2026-05-26T17:05:40Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -1536,7 +1536,7 @@
     Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/14.png?v=1707335022
     Price: $340.00 CAD
 - [Heated Glove Liner - Liners Only](https://powerinmotion.ca/products/heated-glove-liner-liners-only): *requires a battery to be used (sold separately) Features: 🔥ULTRAHOT 12V and 16V batteries getting up to 60°C / 140°F ✋ Full heating on the back of the hand and on every finger 🏔️ Portable & Easy-to-use 🔋 Perfect outdoor accessory 📱 Touch screen-compatible fingertips Includes: One pair of glove liners One owners manual
-  Updated: 2026-04-24T22:53:36Z
+  Updated: 2026-05-26T17:05:40Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -1557,7 +1557,7 @@
     Availability: Available
     Price: $130.00 CAD
 - [Flip-Open Mitten - Insulated Shell](https://powerinmotion.ca/products/flip-open-mitten-insulated-shell): Features: 🖐️ Fold over fingers for quick access 🔥 High insulation Primaloft 💨Windproof 💦 Water-resistant 🏔️ Portable & Easy-to-use 🔋 Save battery life by running the liner at a lower temperature Includes: One pair of regular mittens Please Note: These are not electronically heated and are only used as a shell for insulation.
-  Updated: 2026-03-31T21:53:08Z
+  Updated: 2026-05-26T17:05:40Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -1578,14 +1578,14 @@
     Availability: Available
     Price: $95.00 CAD
 - [Insole Do It Yourself Kit Only](https://powerinmotion.ca/products/insole-do-it-yourself-kit-only): Features: 🔥12V and 16V batteries getting up to 50°C / 122°F ✋ Heating element on toes 🏔️ Create your perfect heated insoles specific to your boot or shoe 🔋 Perfect outdoor accessory * must have heated vest or leg strap to use heated insoles Complete Kit Includes: Two heating elements Two bottom adhesive fabric Two top adhesive fabric Two 100cm extension wire cables for connection to heated vest Owners Manual Click HERE for the full run-time chart
-  Updated: 2026-03-31T21:53:08Z
+  Updated: 2026-05-26T17:05:40Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/DIYKitWEB.jpg?v=1707335059
   Price: $55.00 CAD
 - [Heated Insoles - Insoles Only](https://powerinmotion.ca/products/heated-insoles-insoles-only): *requires a battery to be used (sold separately) Features: 🔥12V and 16V batteries getting up to 50°C / 122°F ✋ Heating element on toes 🏔️ Flat, lightweight, low-profile design 🔋 Perfect outdoors accessory * must have heated vest or leg strap to use heated insoles Complete Kit Includes: One pair of insoles Two flat-wire cables Owners Manual Click HERE for the full run time chart
-  Updated: 2026-03-31T21:53:09Z
+  Updated: 2026-05-26T17:05:40Z
   Vendor: Motion Heat
   Product Type: 
   Availability: Available
@@ -1618,492 +1618,375 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/InsoleOnly.png?v=1707335079
     Price: $75.00 CAD
-- [Heated Vest](https://powerinmotion.ca/products/heated-vest): Features: 🏃 Thin lightweight base layer 🌡️12V and 16V batteries getting up to 60°C / 140°F 🔥 4 heating elements on the chest and back 🔋 4 battery pockets 👞 Acts as a hub for liners and insoles 📱 3 heating levels Includes: Heated vest Cables to connect heated liners Click HERE for the full run time chart
-  Updated: 2026-03-31T21:53:13Z
-  Vendor: Motion Heat
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/HeatedVestFrontAndBackFlat.jpg?v=1707335123
-  - [Small / Medium / None / None](https://powerinmotion.ca/products/heated-vest?variant=42879606227044)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/VestOnly.png?v=1707335123
-    Price: $195.00 CAD
-  - [Small / Medium / Standard (12V 3.2Ah) / Single Battery](https://powerinmotion.ca/products/heated-vest?variant=42879606259812)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Vestwith112v3.2ahBatteries.png?v=1707335123
-    Price: $275.00 CAD
-  - [Small / Medium / Standard (12V 3.2Ah) / Double Battery](https://powerinmotion.ca/products/heated-vest?variant=42879606292580)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Vestwith212v3.2ahBatteries.png?v=1707335123
-    Price: $335.00 CAD
-  - [Small / Medium / Standard (12V 3.2Ah) / Quad Battery + Fast Charger](https://powerinmotion.ca/products/heated-vest?variant=42879606325348)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Vestwith412v3.2ahBatteries.png?v=1707335124
-    Price: $495.00 CAD
-  - [Small / Medium / Extended Run Time (12V 5Ah) / Single Battery](https://powerinmotion.ca/products/heated-vest?variant=42879606390884)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Vestwith112v5.0ahBatteries.png?v=1707335124
-    Price: $315.00 CAD
-  - [Small / Medium / Extended Run Time (12V 5Ah) / Double Battery](https://powerinmotion.ca/products/heated-vest?variant=42879606423652)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Vestwith212v5.0ahBatteries.png?v=1707335124
-    Price: $455.00 CAD
-  - [Small / Medium / Extended Run Time (12V 5Ah) / Quad Battery + Fast Charger](https://powerinmotion.ca/products/heated-vest?variant=42879606456420)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Vestwith412v5.0ahBatteries.png?v=1707335124
-    Price: $655.00 CAD
-  - [Small / Medium / Standard - Extra Heat (16V 3.2Ah) / Single Battery](https://powerinmotion.ca/products/heated-vest?variant=42879606489188)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Vestwith116v3.2ahBatteries.png?v=1707335124
-    Price: $290.00 CAD
-  - [Small / Medium / Standard - Extra Heat (16V 3.2Ah) / Double Battery](https://powerinmotion.ca/products/heated-vest?variant=42879606521956)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Vestwith216v3.2ahBatteries.png?v=1707335124
-    Price: $370.00 CAD
-  - [Small / Medium / Standard - Extra Heat (16V 3.2Ah) / Quad Battery + Fast Charger](https://powerinmotion.ca/products/heated-vest?variant=42879606554724)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Vestwith416v3.2ahBatteries.png?v=1707335124
-    Price: $590.00 CAD
-  - [Small / Medium / Extended Run Time - Extra Heat (16V 5Ah) / Single Battery](https://powerinmotion.ca/products/heated-vest?variant=42879606587492)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Vestwith116v5.0ahBatteries.png?v=1707335124
-    Price: $345.00 CAD
-  - [Small / Medium / Extended Run Time - Extra Heat (16V 5Ah) / Double Battery](https://powerinmotion.ca/products/heated-vest?variant=42879606620260)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Vestwith216v5.0ahBatteries.png?v=1707335124
-    Price: $455.00 CAD
-  - [Small / Medium / Extended Run Time - Extra Heat (16V 5Ah) / Quad Battery + Fast Charger](https://powerinmotion.ca/products/heated-vest?variant=42879606653028)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Vestwith416v5.0ahBatteries.png?v=1707335124
-    Price: $800.00 CAD
-  - [Medium / Large / None / None](https://powerinmotion.ca/products/heated-vest?variant=42879606685796)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/VestOnly.png?v=1707335123
-    Price: $195.00 CAD
-  - [Medium / Large / Standard (12V 3.2Ah) / Single Battery](https://powerinmotion.ca/products/heated-vest?variant=42879606718564)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Vestwith112v3.2ahBatteries.png?v=1707335123
-    Price: $275.00 CAD
-  - [Medium / Large / Standard (12V 3.2Ah) / Double Battery](https://powerinmotion.ca/products/heated-vest?variant=42879606751332)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Vestwith212v3.2ahBatteries.png?v=1707335123
-    Price: $335.00 CAD
-  - [Medium / Large / Standard (12V 3.2Ah) / Quad Battery + Fast Charger](https://powerinmotion.ca/products/heated-vest?variant=42879606784100)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Vestwith412v3.2ahBatteries.png?v=1707335124
-    Price: $495.00 CAD
-  - [Medium / Large / Extended Run Time (12V 5Ah) / Single Battery](https://powerinmotion.ca/products/heated-vest?variant=42879606816868)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Vestwith112v5.0ahBatteries.png?v=1707335124
-    Price: $315.00 CAD
-  - [Medium / Large / Extended Run Time (12V 5Ah) / Double Battery](https://powerinmotion.ca/products/heated-vest?variant=42879606849636)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Vestwith212v5.0ahBatteries.png?v=1707335124
-    Price: $455.00 CAD
-  - [Medium / Large / Extended Run Time (12V 5Ah) / Quad Battery + Fast Charger](https://powerinmotion.ca/products/heated-vest?variant=42879606882404)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Vestwith412v5.0ahBatteries.png?v=1707335124
-    Price: $655.00 CAD
-  - [Medium / Large / Standard - Extra Heat (16V 3.2Ah) / Single Battery](https://powerinmotion.ca/products/heated-vest?variant=42879606915172)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Vestwith116v3.2ahBatteries.png?v=1707335124
-    Price: $290.00 CAD
-  - [Medium / Large / Standard - Extra Heat (16V 3.2Ah) / Double Battery](https://powerinmotion.ca/products/heated-vest?variant=42879606947940)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Vestwith216v3.2ahBatteries.png?v=1707335124
-    Price: $370.00 CAD
-  - [Medium / Large / Standard - Extra Heat (16V 3.2Ah) / Quad Battery + Fast Charger](https://powerinmotion.ca/products/heated-vest?variant=42879606980708)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Vestwith416v3.2ahBatteries.png?v=1707335124
-    Price: $590.00 CAD
-  - [Medium / Large / Extended Run Time - Extra Heat (16V 5Ah) / Single Battery](https://powerinmotion.ca/products/heated-vest?variant=42879607013476)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Vestwith116v5.0ahBatteries.png?v=1707335124
-    Price: $345.00 CAD
-  - [Medium / Large / Extended Run Time - Extra Heat (16V 5Ah) / Double Battery](https://powerinmotion.ca/products/heated-vest?variant=42879607046244)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Vestwith216v5.0ahBatteries.png?v=1707335124
-    Price: $455.00 CAD
-  - [Medium / Large / Extended Run Time - Extra Heat (16V 5Ah) / Quad Battery + Fast Charger](https://powerinmotion.ca/products/heated-vest?variant=42879607079012)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/products/Vestwith416v5.0ahBatteries.png?v=1707335124
-    Price: $800.00 CAD
-- [Electric Bikes | Riese and Muller Load4 75 For  Calgary](https://powerinmotion.ca/products/riese-and-muller-load4-75-touring): With its low centre of gravity, Riese & Müller Control Technology and a large loading surface, the Load4 75 combines riding dynamics and load options, like no other cargo bike. The strong Bosch Cargo Line motor delivers hitherto unknown power. And the Load4 75 is also extremely reliable, thanks to its high-grade components. The big one for the little ones. Up to three children age 7 or younger can be carried comfortably and safely – well protected from the sun and rain under a practical cover. One of the children faces the rider while other two sit facing the direction of travel. The extra spacious footwell prevents your passengers from getting in each other’s way,  to contribute to a relaxed shared riding experience. Loading surface  for up to max. 70 kg. Please observe national regulations for the transport of children on bikes before using. Fun and safety are not mutually exclusive. Admittedly, not everyone immediately thinks of fun on two wheels when you hear the words “Cargo Bike”. But this changes when you sit on a Load with Control Technology. The optimised chassis and the finely tuned full suspension ensure optimum comfort, safe riding even at higher speeds, excellent road holding and thus top-of-the-range riding dynamics. Vibrations and hard impacts, such as from cobblestones or kerbs, are significantly reduced and you are in control. Maximum freedom of transport. Carry whatever cargo you need to on a loading surface 75 cm long and with a maximum width of 54 cm: camping equipment, the weekly shop, young children or a delivery to your business customers (loading surface  for up to max. 70 kg). Nothing disrupts your safe and agile riding experience, as the Cargo Bike can handle almost all needs, thanks to its low centre of gravity, its many individual equipment options and refined Control Technology. For greater freedom and flexibility – whatever your plans. Safely to your destination. It’s all about riding stability and visibility in traffic. You’ll remain safely on the saddle with the optional Bosch eBike ABS 2.0 with Magura CT brake and Suntour Mobie 34 fork. The daytime running light of the Supernova M99 Mini Pro headlight with main-beam function offers excellent lighting conditions at night and also increases your visibility during the day. And if you need to stop quickly, the Supernova M99 Tail Light ensures your safety while the standard Tektro cargo brake packs quite a punch. Change riders with ease. Thanks to the angle- and height-adjustable stem and the adjustable saddle height, the seat position can be altered to accommodate body sizes of from 1.50 m to 2.00 m, and adapted from sporty to comfortable. The overall geometry of the bike can be perfectly adjusted to the rider in just a few easy steps. This flexibility makes the Load ideal for shared use, for example within a family. Specifications Frame colour Coal Grey Matt*; Peanut Matt* Suspension fork Suntour Mobie 34 CGO Boost, 20", 80mm Rear shock X-Fusion Glyde Headset Acros AZX-221, Block Lock; TH No. 9, Semi-Integrated Seatpost JD/Riese & Müller, Alu, 34,9 x 430mm Seatclamp TranzX, 40,0 mm, QR Tires Schwalbe Big Ben Plus 55-406 Reflex; Schwalbe Big Ben Plus 55-559 Reflex; Schwalbe 20" Smart Sam Plus 60-406 ECE-R75*; Schwalbe Smart Sam Plus 57-559 Reflex* Tubes Schwalbe AV13; Schwalbe AV7 Rims Mach1 Trucky30 20" CNC; Mach1 Trucky30 26" CNC Spokes Sapim Leader 2,0 mm, Inox, Black (16x); Sapim Leader 2,0 mm, Inox, Black (18x) Front hub Novatec Boost Cargo Disc 32H Rear hub Novatec Boost, QR, 36H Battery Akku Bosch PowerPack Frame 725; Akku Bosch PowerPack Frame 725 (2x)* Motor Bosch Cargo Line (Smart System) Display Bosch Purion 200; Bosch Kiox 300*; Bosch Kiox 500* Crankset Riese & Müller, 170mm Chain ring 48T Chain guard Chain guard Chain KMC X11 (125x) Cassette Shimano CUES CS-LG400-11,11-50T Saddle Selle Royal New Lookin Male Eco Pedals VP R&M Custom Shifting system Shimano XT 11-S Linkglide Shifter Shimano XT 11-S Linkglide Handlebar FSA V-Drive, 31,8 mm, Alu Stem Riese & Müller, Adjustable Height and Angle Grips Ergon Ergonomic Brakes Tektro TRP C 2.3 Disc Brake; Magura MT C ABS* Front light Supernova M99 Mini Pro-25 Tail light Supernova M99, Integrated Brake Light Mudguards SKS A65R; SKS A69R Luggage rack Riese & Müller* Rubber Bibia* Bell Billy Kickstand Kickstand Riese & Müller Lock ABUS Shield X+ RX Hardware RX Chip (für RX Services)* Frame size [cm] Universal* Note: Options marked with an asterisk () may differ depending on availability, country, design, or configuration of the model. The specification table includes all available components, some of which may require an additional surcharge. For more details, refer to the Configurator. Riese & Müller reserves the right to make technical modifications, shape, color, and/or weight changes within reasonable limits.*
-  Updated: 2026-03-31T21:53:13Z
-  Vendor: Riese & Muller
-  Product Type: Electric Bike
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/24_f01237_load4_75_roh_peanutmtt_kiox300_abs_sdwallhi_persenning_dualbatt_2090_argb.jpg__930x620_q100_subject_location-930_620_subsampling-2_upscale.jpg?v=1707946476
-  Price: $13,089.00 CAD
-[List Continued](https://powerinmotion.ca/a/llms-agent/llms.txt?shop=powerinmotion.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NDA5NjAxNjc1MzY0LCJsYXN0X3ZhbHVlIjoiNzQwOTYwMTY3NTM2NCJ9)
+[List Continued](https://powerinmotion.ca/a/llms-agent/llms.txt?shop=powerinmotion.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NDAzMTIwNDI3MTA4LCJsYXN0X3ZhbHVlIjoiNzQwMzEyMDQyNzEwOCJ9)
 
 ## Collections
 
 - [Power in Motion Calgary Featured Products  | Canada Wide Shipping PIM](https://powerinmotion.ca/collections/featured-products): Power In Motion's most popular products! iGo Electric bikes | Surface 604 electric bikes | Segway Ninebot electric scooters | Aqua Marina Paddleboards | Bixpy Watercraft Motors | Thule Child Seats Hitch Racks Chariots and bike accessories | Montague & Tern Folding Bikes  | Ontario | Quebec | British Columbia | Alberta | New Brunswick | Nova Scotia |Prince Edward | Manitoba Saskatchewan | Newfoundland & Labrador
-  Updated: 2026-05-24T11:03:13Z
+  Updated: 2026-05-26T16:40:48Z
   Total Products: 23
 - [Top Electric Bikes in Calgary | iGo, Tern, R&M E-Bikes](https://powerinmotion.ca/collections/electric-bikes): Explore the best electric bikes for  in Calgary, Alberta. Find top brands like iGo, Tern, and Riese & Müller. Whether you need commuter, mountain, folding, or cargo e-bikes, we offer quality and performance. Shop now with expert support and nationwide shipping across Canada. Get the perfect electric bike today!
-  Updated: 2026-05-24T11:03:13Z
-  Total Products: 41
+  Updated: 2026-05-31T11:02:57Z
+  Total Products: 43
 - [Best Electric Bike Conversion Kits For  in Canada](https://powerinmotion.ca/collections/electric-bike-conversion-kits): Explore the best electric bike conversion kits in Canada, including Bafang and mid-drive options. Convert your bike with our top-rated kits, including your choice of 36v, 48v & 52v batteries. Learn how to install and discover if electric bike conversion kits are worth it. Shop now at Power In Motion.ca!
-  Updated: 2026-05-17T11:04:24Z
+  Updated: 2026-05-26T16:40:48Z
   Total Products: 9
 - [Fat Tire](https://powerinmotion.ca/collections/fat-bikes): Fat Bikes are ideal for the all-season rider, whether you’re looking for a winter adventure in the mountains or trying to make it to work in 15cm of fresh snow.  The wide tire provides increased traction and grips the road in slushy and slippery conditions.  Fat Bikes can also be equipped with studded tires for the ultimate winter riding experience!
-  Updated: 2026-05-24T11:03:13Z
+  Updated: 2026-05-26T16:40:48Z
   Total Products: 3
 - [Standard Bikes](https://powerinmotion.ca/collections/standard-bikes)
-  Updated: 2025-02-23T00:05:11Z
+  Updated: 2026-05-26T16:40:48Z
   Total Products: 0
 - [Bike Accessories | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/all-parts-accessories): Accessories from Rocklock, Suntour Selle Royal, 49N, Ergon Thule, Tern, Montague, and more. From break pads, tubes, seat posts, seats, helmets, locks, water bottle holders and more. Check out Power in Motion and personalize your bike today! Disocunted / Free Shipping Rates from Power In Motion to | Ontario | Quebec | British Columbia | Alberta | New Brunswick | Nova Scotia |Prince Edward | Manitoba Saskatchewan | Newfoundland & Labrador | Compact Folding Bike | Pavement / City / Road Folding Bike | Pavement / City / Road Folding Electric Bike | Dahon | Tern | Montague | Link D8 | Link A7 | Paratrooper | Boston | Urban | Paratrooper Pro | Electric Bike | Ebike | iGO | IGO | igo | Surface 604 | Smartmotion | Paddleboard | Kayak | Conoe | Raft | Inflatable | Aqua Marina | Conversion | Hub Motor | Mid Drive Moter | 500w | 750w | 1000w | 250w | Power In Motion | Calgary | Ottawa, Canada | St. John's, Newfoundland and Labrador | Halifax, Nova Scotia | Fredericton, New Brunswick | Charlottetown, Prince Edward Island | Québec, Quebec | Toronto, Ontario | Winnipeg, Manitoba | Regina, Saskatchewan | Edmonton, Alberta | Victoria, British Columbia | Iqaluit, Nunavut | Yellowknife, Northwest Territories | Whitehorse, Yukon
-  Updated: 2026-05-24T11:03:13Z
+  Updated: 2026-05-30T18:00:05Z
   Total Products: 137
 - [Sales &  Items | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/sales--items): Looking for a ? Or in the mood to save some money. Check out Power In Motion's  section to get a  on everything from E-bikes to speakers. These deals won't stay long so don't wait! Come visit Power In Motion today!
-  Updated: 2026-05-21T11:04:33Z
+  Updated: 2026-05-31T11:02:57Z
   Total Products: 18
 - [All Products | Power In Motion | Calgary | Alberta | Canada](https://powerinmotion.ca/collections/all-products): Electric Bikes, Folding Bikes, Electric Skateboards, Electric Scooters, Bike Accessories, Electric bike conversions and more! At Power In Motion you are  to find a product that will suit your needs with a reasonable price, and high quality from your favorite brands all from all around the biking world. Check out Power In Motion and revolutionize your ride today! Power In Motion | Calgary | Canada | Surface 604 | Tern | Montague | iGO | Electric Bikes | Ebikes | Electric Skateboards | Electric Scooters | Folding Bikes | Segway | Ninebot | Segway Ninebot | Michael Blast | T4B | Topeak |Shirmano | Dahon | Easymotion | Schwalbe | Thule | Selle Royal | Conversion Kit | Bafang | Hub Motor Conversion Kit | Mid-Drive Conversion Kit | Helmet | Bike Helmet | Bike Fenders | City | Urban | Old |
-  Updated: 2026-05-24T11:03:13Z
-  Total Products: 879
+  Updated: 2026-05-31T11:02:57Z
+  Total Products: 895
 - [iGO Electric Bikes | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/igo-bikes): Power In Motion | PIM | iGo | Berri | Bonaventure | Atwater | Outland Royal | Oka | Laurentian  | Vendome | Extreme 3.0 | Camillien | Electric Bikes | Folding Bikes | Folding Electric Bike | Electric Mountain Bike | Toronto, Ontario | Winnipeg, Manitoba | Regina, Saskatchewan | Edmonton, Alberta | Victoria, British Columbia
-  Updated: 2026-05-21T11:04:33Z
+  Updated: 2026-05-27T11:03:12Z
   Total Products: 8
 - [Surface 604 Bikes | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/surface-604-bikes): Surface 604 electric bikes are high quality entry level bikes. With a smooth natural acceleration in combination with powerful hub motors. Surface 604 bikes make every ride easy and fun no matter if your located in the city, or in a more rural town. Their bikes all come with high quality breaks, snifters, front suspension, seats and more. Come learn more about Surface 604 at Power In Motion Today! Surface 604 | Rook | Colt | Shred | Boar Hunter | City electric bikes | For  | Calgary | Canada | Shipping | Canada Wide Shipping | Bikes | electric bikes | Commuter | Safest |
-  Updated: 2026-05-24T11:03:13Z
+  Updated: 2026-05-27T11:03:12Z
   Total Products: 12
 - [Tern Folding Bikes for  Canada | Compact & Electric Options](https://powerinmotion.ca/collections/tern-folding-bikes-canada): Discover Tern folding bikes in Canada, including the Tern GSD, HSD, Quick Haul, Vektron, Link, Verge and more models. Explore our selection of foldable electric bikes, perfect for commuting and travel. Shop compact, portable, and lightweight folding bikes for adults at Power In Motion. Get your Tern ebike fold up today
-  Updated: 2026-05-15T11:07:51Z
-  Total Products: 32
+  Updated: 2026-05-31T11:02:57Z
+  Total Products: 34
 - [Montague Folding Bikes in Canada | Foldable Mountain & Road Bicycles](https://powerinmotion.ca/collections/montague-folding-bikes-canada): Discover premium Montague folding bikes in Calgary, Canada. Shop our range of foldable mountain and road bikes, including electric bicycles. Explore lightweight, compact designs perfect for adults. Find the best folding e-bikes, racing bikes, and more at Power In Motion. Buy now for unbeatable prices.
-  Updated: 2026-05-22T11:03:31Z
+  Updated: 2026-05-26T16:40:48Z
   Total Products: 12
 - [All Bikes | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/all-bikes): Folding Bikes, Mountain Bikes, Fat Bikes , City Bikes , Cruiser Bikes, Electric Bikes, and more. From popular brands like Surface 604, Tern, iGO, Montague, Michael Blast, Del Sol, Evo, and more. With prices ranging from cheap, to expensive to cover any budget. At Power in Motion Calgary your bound to find a bike perfect for you! Ontario | Quebec | British Columbia | Alberta | New Brunswick | Nova Scotia |Prince Edward | Manitoba Saskatchewan | Newfoundland & Labrador
-  Updated: 2026-05-24T11:03:13Z
-  Total Products: 48
+  Updated: 2026-05-31T11:02:57Z
+  Total Products: 50
 - [Best Segway Escooters in Calgary | Top Electric Scooters in Canada](https://powerinmotion.ca/collections/segway-escooters-calgary-canada): Discover the best Segway escooters in Calgary, available for purchase in Canada. Whether you're looking for an electric scooter for daily commutes or searching for the best escooter near you, find top-rated options at competitive prices. Learn where to buy and how much escooters cost.
-  Updated: 2026-02-06T12:04:01Z
+  Updated: 2026-05-28T18:40:01Z
   Total Products: 14
 - [Electric Bike Trailers | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/electric-bike-trailers): One of the most popular accessories for a bike when hunting is a Fat-Tire Bike Trailer. We have 3 different trailers for hunters that are designed for an easy hookup and smooth movement, that work with the majority of bike models. Each trailer is engineered to serve a different purpose, according to how an individual hunts, the gear you carry, or the locations you may hunt. You may find that one trailer meets your needs more than the others because of that. Choosing the right trailer for you does not have to be confusing. For more information on the trailers, read the following descriptions and specifications for the 3 trailers we offer.
-  Updated: 2025-01-20T01:16:25Z
+  Updated: 2026-05-26T16:40:48Z
   Total Products: 40
 - [Bafang Conversion Kit Throttles](https://powerinmotion.ca/collections/bafang-conversion-kit-throttles)
-  Updated: 2024-03-11T23:20:42Z
+  Updated: 2026-05-26T16:40:48Z
   Total Products: 0
 - [Bafang Conversion Kit Displays](https://powerinmotion.ca/collections/bafang-conversion-kit-displays)
-  Updated: 2024-03-11T23:20:43Z
+  Updated: 2026-05-26T16:40:49Z
   Total Products: 0
 - [Bafang Motor Kits](https://powerinmotion.ca/collections/bafang-motor-kits)
-  Updated: 2026-05-17T11:04:24Z
+  Updated: 2026-05-26T16:40:49Z
   Total Products: 5
 - [Electric Bike Batteries](https://powerinmotion.ca/collections/electric-bike-batteries)
-  Updated: 2026-05-20T11:04:38Z
+  Updated: 2026-05-26T16:40:49Z
   Total Products: 18
 - [Del Sol Cruiser Bikes | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/del-sol-standard-bikes)
-  Updated: 2024-10-06T01:01:50Z
+  Updated: 2026-05-26T16:40:49Z
   Total Products: 1
 - [Aqua Marina Paddleboards | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/stand-up-paddleboards): Remove the hassle of traveling with a paddleboard, while maintaining the fun! The Aqua Marina line of products is the perfect companion to any family's lake, or beachside vacation. It includes inflatable Kayaks, Canoees and of course paddle boards. Disocunted / Free Shipping Rates from Power In Motion to | Ontario | Quebec | British Columbia | Alberta | New Brunswick | Nova Scotia |Prince Edward | Manitoba Saskatchewan | Newfoundland & Labrador | Compact Folding Bike | Pavement / City / Road Folding Bike | Pavement / City / Road Folding Electric Bike | Dahon | Tern | Montague | Link D8 | Link A7 | Paratrooper | Boston | Urban | Paratrooper Pro | Electric Bike | Ebike | iGO | IGO | igo | Surface 604 | Smartmotion | Paddleboard | Kayak | Conoe | Raft | Inflatable | Aqua Marina | Conversion | Hub Motor | Mid Drive Moter | 500w | 750w | 1000w | 250w | Power In Motion | Calgary | Ottawa, Canada | St. John's, Newfoundland and Labrador | Halifax, Nova Scotia | Fredericton, New Brunswick | Charlottetown, Prince Edward Island | Québec, Quebec | Toronto, Ontario | Winnipeg, Manitoba | Regina, Saskatchewan | Edmonton, Alberta | Victoria, British Columbia | Iqaluit, Nunavut | Yellowknife, Northwest Territories | Whitehorse, Yukon
-  Updated: 2024-10-07T06:51:49Z
+  Updated: 2026-05-26T16:40:49Z
   Total Products: 7
 - [Car Hitch Racks & Storage | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/car-hitch-racks-storage): Find easy and affordable methods of transporting your bikes, and more as you travel. With products from trusted brands such as Thule and Yakima, your garuenteed quality! Everything from Bike Hitch racks, to storage hitch racks, even racks with adjustable components to suit your needs. Now with shipping all across Canada!
   Updated: 2025-02-23T00:14:33Z
   Total Products: 6
 - [Comfort Electric Bikes](https://powerinmotion.ca/collections/comfort-electric-bikes)
-  Updated: 2026-05-24T11:03:13Z
+  Updated: 2026-05-31T11:02:57Z
   Total Products: 12
 - [Mountain Electric Bikes](https://powerinmotion.ca/collections/mountain-electric-bikes)
-  Updated: 2026-04-15T22:33:06Z
+  Updated: 2026-05-26T16:40:49Z
   Total Products: 1
 - [Road Electric Bikes](https://powerinmotion.ca/collections/road-electric-bikes)
-  Updated: 2026-04-13T11:04:27Z
+  Updated: 2026-05-27T11:03:12Z
   Total Products: 1
 - [Folding Electric Bikes](https://powerinmotion.ca/collections/folding-electric-bikes): Small, yet powerful. The perfect inner-city commuters for those looking for a compact folding bike, with the speed and power of an electric bike. Fly through the inner streets of Calgary, or take it with you on transit in Victoria. Worry less about theft, by keeping the bike by your side! Now shipping to all of Canada!
-  Updated: 2026-05-24T11:03:13Z
+  Updated: 2026-05-30T22:26:53Z
   Total Products: 6
 - [Electric Fat Bikes | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/fat-bike-electric): A powerful all-terrain vehicle in the form of a bike. Ride through every obstacle and power up hills. Not even the Alberta backroads will be able to challenge you on one of the electric fat bikes sold in our Calgary location. We ship all across Canada! Ontario | Edmonton | Electric Bike | Electric Fat bike | Fat Bike | AB
-  Updated: 2026-05-24T11:03:13Z
+  Updated: 2026-05-26T16:40:49Z
   Total Products: 6
 - [Top Electric Cargo Bikes in Canada | Tern & Riese and Muller](https://powerinmotion.ca/collections/electric-cargo-bikes-canada): Explore top electric cargo bikes for  in Canada, including Tern and Riese and Muller models. Discover versatile options like the Tern HSD S00, Quick Haul, and Riese and Muller Load 75. Shop the best electric bikes for cargo transport at Power In Motion. Find your perfect e-bike today with shipping all across Canada
-  Updated: 2026-05-10T11:04:07Z
+  Updated: 2026-05-31T11:02:57Z
   Total Products: 27
 - [20”, 26”, & 700c Folding Bikes for  in Calgary](https://powerinmotion.ca/collections/folding-bikes): Explore the best folding bikes in Calgary, including Tern and Montague models. Whether you need a compact, foldable bike for commuting or a lightweight foldable bicycle for travel, find the perfect fold up bike for adults and beginners at Power In Motion. With shipping all across Canada!
-  Updated: 2026-05-22T11:03:31Z
+  Updated: 2026-05-30T23:42:04Z
   Total Products: 16
 - [Comfort - Non Electric](https://powerinmotion.ca/collections/comfort-non-electric)
   Updated: 2024-03-11T23:20:45Z
   Total Products: 0
 - [All Products - For Setting Tax Level](https://powerinmotion.ca/collections/all-products-for-setting-tax-level)
-  Updated: 2026-05-24T11:03:13Z
-  Total Products: 140
+  Updated: 2026-05-31T11:02:57Z
+  Total Products: 145
 - [Bixpy Watercraft Motor](https://powerinmotion.ca/collections/bixpy-watercraft-motor): Transform your family trip with Bixpy's watercraft motor! With its fantastic fin adapter, you can use the Bixpy on paddleboards, boats, Kayaks, canoes, and more! As the first dealers in Canada, we at Power In Motion Calgary are incredibly pleased with the options Bixpy's J-2 outbound motor kit and the various accessories such as Kayak adapters, Transarm adapters, Fin adapters, Solar Panels, and more interact with the Bixpy system. in Bixpy's own words; Since the shipment of Bixpy's first motors and batteries in late 2017, we have motorized thousands of kayaks, paddleboards, divers, snorkelers, and other water enthusiasts as we have created an industry of motorizing personal watercraft. There are now thousands of videos and pictures online of people using our products to enjoy their local waterways in a way not possible before. It gives us great joy to know we are part of this story. And we’re just getting started!
-  Updated: 2025-10-16T11:03:20Z
+  Updated: 2026-05-26T16:40:49Z
   Total Products: 24
 - [Thule](https://powerinmotion.ca/collections/thule)
-  Updated: 2026-05-20T11:04:38Z
+  Updated: 2026-05-26T16:40:49Z
   Total Products: 149
 - [Smartmotion](https://powerinmotion.ca/collections/smartmotion)
-  Updated: 2024-10-06T01:02:44Z
+  Updated: 2026-05-26T16:40:50Z
   Total Products: 1
 - [Bike Bags](https://powerinmotion.ca/collections/bike-bags)
-  Updated: 2025-11-23T12:02:35Z
+  Updated: 2026-05-30T18:00:05Z
   Total Products: 20
 - [Yakima](https://powerinmotion.ca/collections/yakima)
-  Updated: 2024-10-17T23:15:34Z
+  Updated: 2026-05-26T16:40:50Z
   Total Products: 4
 - [Standard Commuter, Road, & Mountain Bikes | Power In Motion | Calgary](https://powerinmotion.ca/collections/bikes): Ottawa, Canada | St. John's, Newfoundland and Labrador | Halifax, Nova Scotia | Fredericton, New Brunswick | Charlottetown, Prince Edward Island | Québec, Quebec | Toronto, Ontario | Winnipeg, Manitoba | Regina, Saskatchewan | Edmonton, Alberta | Victoria, British Columbia | Iqaluit, Nunavut | Yellowknife, Northwest Territories | Whitehorse, Yukon |Power In Motion | PIM | iGo | Berri | Bonaventure | Atwater | Outland Royal | Oka | Laurentian  | Vendome | Extreme 3.0 | Camillien | Electric Bikes| Folding Bikes | Folding Electric Bike | Electric Mountain Bike | Surface 604 Electric Bikes | Rook | Colt | Quad | Explorer | Boar Explorer | Tern Folding Bikes | Folding Bikes | Tern Link A7 | Tern Link C8 | Tern Link D8 | Tern Link S8i | Tern Verge D9 | Tern Node D8 | Tern Verge S8i | Tern Node D7i | Tern Eclipse D16 | Tern Vektron Q9 | Tern HSD P9 | Tern HSD S8i | Tern GSD S10 | Tern GSD S00 | Tern GSD r14 | Montague Full Size Mountain, Road Folding Bikes | Montague Paratrooper Folding Bike | Montageue Paratrooper Pro Mountain Bike | Montague Urban Road Bike | Montague Navigator Folding Road Bike |
-  Updated: 2026-05-22T11:03:31Z
+  Updated: 2026-05-30T23:42:04Z
   Total Products: 28
 - [Kayaks & Rafts | Power In Motion | Calgary, Canada](https://powerinmotion.ca/collections/kayaks-rafts): Kayaks | Inflatable Kayaks | Rafts | Inflatable Rafts | Boats | Inflatable Boats | Calgary | Edmonton | Red Deer | Canmore | Banff | Alberta | Canada | British Columbia | Canoes | Affordable | Lightweight | Compact | Inexpensive | high quality | Kayak Paddles | Tolling Motor | Bixpy Kayak | Bixpy Boat |
-  Updated: 2024-10-06T03:49:23Z
+  Updated: 2026-05-26T16:40:50Z
   Total Products: 3
 - [Biggest Blowout ! | Power in Motion | E-Bikes, iSUPS and More!](https://powerinmotion.ca/collections/biggest-blowout--power-in-motion-e-bikes-isups-and-more): Our Biggest  Ever! We Are Pricing to , As It Is The Last Call on Most of These Bikes With Up To $700 in Savings! This Is A Event You Do Not Want To Miss! Shop In-Store Or Online for these Killer Deals!
-  Updated: 2024-10-07T01:33:58Z
+  Updated: 2026-05-26T16:40:50Z
   Total Products: 1
 - [Trikes](https://powerinmotion.ca/collections/trikes)
-  Updated: 2026-03-25T03:11:36Z
+  Updated: 2026-05-26T16:40:50Z
   Total Products: 3
 - [Bike Mechanic Services](https://powerinmotion.ca/collections/bike-mechanic-services)
-  Updated: 2024-10-17T23:35:15Z
+  Updated: 2026-05-26T16:40:50Z
   Total Products: 0
 - [Converted Bikes](https://powerinmotion.ca/collections/converted-bikes)
-  Updated: 2026-05-15T11:07:51Z
+  Updated: 2026-05-26T16:40:50Z
   Total Products: 7
 - [Riese & Muller Bikes](https://powerinmotion.ca/collections/riese-muller-bikes): Discover the world of Riese & Müller bikes at Powerinmotion Calgary! These bikes have revolutionized the industry time and time again, constantly pushing the boundaries of innovation. Whether you're an athlete, commuter, family rider, bike tourist, or tradesperson, Riese & Müller has an E-Bike that's perfect for you. Can't find the specific model you're looking for? Don't worry! We have the ability to order any bike from Riese & Müller's impressive lineup. Just visit Riese & Müller's website (https://www.r-m.de/en-ca/) to explore the full range of options and find your dream bike. But wait, there's more! If you're in Calgary, don't miss the chance to visit our storefront and experience the extraordinary Load4 75 Envilo, Delite4 Rohloff, and Packster 70 Envilo in person. We offer test rides and demos for interested buyers, so you can feel the thrill and quality of these exceptional bikes firsthand. Join the Riese & Müller revolution and elevate your cycling experience like never before!
-  Updated: 2026-04-24T20:43:26Z
+  Updated: 2026-05-31T11:02:57Z
   Total Products: 26
 - [EVO](https://powerinmotion.ca/collections/evo)
-  Updated: 2025-09-04T11:03:17Z
+  Updated: 2026-05-26T16:40:50Z
   Total Products: 11
 - [Riese & Muller Upgrades](https://powerinmotion.ca/collections/riese-muller-upgrades)
-  Updated: 2025-01-22T21:18:13Z
+  Updated: 2026-05-26T16:40:50Z
   Total Products: 0
 - [New products](https://powerinmotion.ca/collections/new-products)
-  Updated: 2026-05-24T11:03:13Z
-  Total Products: 909
+  Updated: 2026-05-31T11:02:57Z
+  Total Products: 925
 - [Best  products](https://powerinmotion.ca/collections/best--products)
-  Updated: 2026-05-24T11:03:13Z
-  Total Products: 909
+  Updated: 2026-05-31T11:02:57Z
+  Total Products: 925
 - [Special Order](https://powerinmotion.ca/collections/special-order): These items are available for special order and are not stocked at our store fronts
-  Updated: 2026-03-23T17:19:24Z
+  Updated: 2026-05-26T16:40:51Z
   Total Products: 167
 - [Pre Order](https://powerinmotion.ca/collections/pre-order): These products can be put on pre-order if out of stock currently
-  Updated: 2026-05-24T11:03:13Z
+  Updated: 2026-05-30T18:00:05Z
   Total Products: 97
 - [Mechanic Services](https://powerinmotion.ca/collections/mechanic-services): Welcome to Power In Motion, your go-to destination for top-notch bike mechanic services! We take pride in offering a comprehensive range of professional bike services to keep your two-wheeled companion in peak condition. Our highly skilled and experienced bike mechanics are here to ensure that your cycling experience is smooth, safe, and enjoyable. Whether you're a casual rider, a passionate cyclist, or a competitive athlete, we've got you covered with our specialized services.
-  Updated: 2026-05-24T11:03:13Z
+  Updated: 2026-05-31T11:02:57Z
   Total Products: 7
 - [Tires](https://powerinmotion.ca/collections/tires)
-  Updated: 2025-02-23T00:19:26Z
+  Updated: 2026-05-26T16:40:51Z
   Total Products: 1
 - [Trainers and Indoor Training](https://powerinmotion.ca/collections/trainers-and-indoor-training)
-  Updated: 2025-02-23T00:19:21Z
+  Updated: 2026-05-26T16:40:51Z
   Total Products: 0
 - [Tubes and Accessories](https://powerinmotion.ca/collections/tubes-and-accessories)
-  Updated: 2025-02-23T00:19:19Z
+  Updated: 2026-05-26T16:40:51Z
   Total Products: 0
 - [Tubeless Accessories](https://powerinmotion.ca/collections/tubeless-accessories)
-  Updated: 2025-02-23T00:18:57Z
+  Updated: 2026-05-26T16:40:51Z
   Total Products: 0
 - [Spokes and Nipples](https://powerinmotion.ca/collections/spokes-and-nipples)
-  Updated: 2025-02-23T00:13:12Z
+  Updated: 2026-05-26T16:40:51Z
   Total Products: 0
 - [Wheels](https://powerinmotion.ca/collections/wheels)
-  Updated: 2025-02-23T00:19:18Z
+  Updated: 2026-05-26T16:40:51Z
   Total Products: 0
 - [Hubs](https://powerinmotion.ca/collections/hubs)
-  Updated: 2025-02-23T00:19:17Z
+  Updated: 2026-05-26T16:40:51Z
   Total Products: 0
 - [Brakes](https://powerinmotion.ca/collections/brakes)
-  Updated: 2025-02-23T00:19:10Z
+  Updated: 2026-05-26T16:40:51Z
   Total Products: 0
 - [Bearings](https://powerinmotion.ca/collections/bearings)
-  Updated: 2025-02-23T00:19:05Z
+  Updated: 2026-05-26T16:40:51Z
   Total Products: 0
 - [Cassettes and Freewheels](https://powerinmotion.ca/collections/cassettes-and-freewheels)
-  Updated: 2025-02-23T00:19:16Z
+  Updated: 2026-05-26T16:40:51Z
   Total Products: 0
 - [Rear Suspension](https://powerinmotion.ca/collections/rear-suspension)
-  Updated: 2025-02-23T00:19:07Z
+  Updated: 2026-05-26T16:40:51Z
   Total Products: 0
 - [Headsets](https://powerinmotion.ca/collections/headsets)
-  Updated: 2025-02-23T00:19:13Z
+  Updated: 2026-05-26T16:40:52Z
   Total Products: 0
 - [Fenders](https://powerinmotion.ca/collections/fenders)
-  Updated: 2025-02-23T00:17:49Z
+  Updated: 2026-05-26T16:40:52Z
   Total Products: 0
 - [Pumps and CO2](https://powerinmotion.ca/collections/pumps-and-co2)
-  Updated: 2025-02-23T00:14:34Z
+  Updated: 2026-05-26T16:40:52Z
   Total Products: 0
 - [Stems](https://powerinmotion.ca/collections/stems)
-  Updated: 2025-02-23T00:18:52Z
+  Updated: 2026-05-26T16:40:52Z
   Total Products: 0
 - [Handlebars](https://powerinmotion.ca/collections/handlebars)
-  Updated: 2025-02-23T00:19:06Z
+  Updated: 2026-05-26T16:40:52Z
   Total Products: 0
 - [Brake Levers](https://powerinmotion.ca/collections/brake-levers)
-  Updated: 2025-02-23T00:18:59Z
+  Updated: 2026-05-26T16:40:52Z
   Total Products: 0
 - [Rims](https://powerinmotion.ca/collections/rims)
-  Updated: 2025-02-23T00:02:17Z
+  Updated: 2026-05-26T16:40:52Z
   Total Products: 0
 - [Brake Pads](https://powerinmotion.ca/collections/brake-pads)
-  Updated: 2025-02-23T00:18:48Z
+  Updated: 2026-05-26T16:40:52Z
   Total Products: 0
 - [Cables and Housing](https://powerinmotion.ca/collections/cables-and-housing)
-  Updated: 2025-02-23T00:18:27Z
+  Updated: 2026-05-26T16:40:52Z
   Total Products: 0
 - [Grips and Handlebar Tape](https://powerinmotion.ca/collections/grips-and-handlebar-tape)
-  Updated: 2025-02-23T00:14:05Z
+  Updated: 2026-05-26T16:40:52Z
   Total Products: 0
 - [Shifters](https://powerinmotion.ca/collections/shifters)
-  Updated: 2025-02-23T00:18:43Z
+  Updated: 2026-05-26T16:40:52Z
   Total Products: 1
 - [Derailleurs](https://powerinmotion.ca/collections/derailleurs)
-  Updated: 2025-02-23T00:18:29Z
+  Updated: 2026-05-26T16:40:52Z
   Total Products: 0
 - [Bottom Brackets](https://powerinmotion.ca/collections/bottom-brackets)
-  Updated: 2025-02-23T00:18:17Z
+  Updated: 2026-05-26T16:40:52Z
   Total Products: 0
 - [Cranksets](https://powerinmotion.ca/collections/cranksets)
-  Updated: 2025-02-23T00:18:23Z
+  Updated: 2026-05-26T16:40:52Z
   Total Products: 0
 - [Chainrings](https://powerinmotion.ca/collections/chainrings)
-  Updated: 2025-02-23T00:18:26Z
+  Updated: 2026-05-26T16:40:52Z
   Total Products: 0
 - [Pedals](https://powerinmotion.ca/collections/pedals)
-  Updated: 2025-02-23T00:17:04Z
+  Updated: 2026-05-26T16:40:53Z
   Total Products: 0
 - [Mirrors](https://powerinmotion.ca/collections/mirrors)
-  Updated: 2025-02-23T00:16:48Z
+  Updated: 2026-05-26T16:40:53Z
   Total Products: 0
 - [Chains](https://powerinmotion.ca/collections/chains): Shop bike chains in Calgary - shipping Canada wide
-  Updated: 2026-04-29T11:04:06Z
+  Updated: 2026-05-26T16:40:53Z
   Total Products: 7
 - [Lights](https://powerinmotion.ca/collections/lights)
-  Updated: 2025-02-23T00:10:41Z
+  Updated: 2026-05-26T16:40:53Z
   Total Products: 0
 - [Computers and Watches](https://powerinmotion.ca/collections/computers-and-watches)
-  Updated: 2025-02-23T00:12:27Z
+  Updated: 2026-05-26T16:40:53Z
   Total Products: 0
 - [Racks Bike Mounted](https://powerinmotion.ca/collections/racks-bike-mounted)
-  Updated: 2025-02-23T00:17:02Z
+  Updated: 2026-05-26T16:40:53Z
   Total Products: 0
 - [Water Bottles and Cages](https://powerinmotion.ca/collections/water-bottles-and-cages)
-  Updated: 2025-02-23T00:17:01Z
+  Updated: 2026-05-26T16:40:53Z
   Total Products: 0
 - [Seatposts](https://powerinmotion.ca/collections/seatposts)
-  Updated: 2025-02-23T00:18:11Z
+  Updated: 2026-05-26T16:40:53Z
   Total Products: 0
 - [Bags](https://powerinmotion.ca/collections/bags)
-  Updated: 2025-02-23T00:15:46Z
+  Updated: 2026-05-26T16:40:53Z
   Total Products: 0
 - [Kickstands](https://powerinmotion.ca/collections/kickstands)
-  Updated: 2025-02-23T00:16:56Z
+  Updated: 2026-05-26T16:40:53Z
   Total Products: 0
 - [Baskets](https://powerinmotion.ca/collections/baskets)
-  Updated: 2025-02-23T00:17:16Z
+  Updated: 2026-05-26T16:40:53Z
   Total Products: 0
 - [Training Wheels](https://powerinmotion.ca/collections/training-wheels)
-  Updated: 2025-02-22T22:36:06Z
+  Updated: 2026-05-26T16:40:53Z
   Total Products: 0
 - [Tools](https://powerinmotion.ca/collections/tools)
-  Updated: 2025-02-23T00:14:21Z
+  Updated: 2026-05-26T16:40:53Z
   Total Products: 0
 - [Bells and Horns](https://powerinmotion.ca/collections/bells-and-horns)
-  Updated: 2025-02-23T00:11:47Z
+  Updated: 2026-05-26T16:40:53Z
   Total Products: 0
 - [Safety Items](https://powerinmotion.ca/collections/safety-items)
-  Updated: 2025-02-23T00:11:14Z
+  Updated: 2026-05-26T16:40:53Z
   Total Products: 0
 - [Chain Devices](https://powerinmotion.ca/collections/chain-devices)
-  Updated: 2025-02-23T00:03:36Z
+  Updated: 2026-05-26T16:40:54Z
   Total Products: 0
 - [Car Racks](https://powerinmotion.ca/collections/car-racks)
-  Updated: 2025-02-23T00:18:39Z
+  Updated: 2026-05-26T16:40:54Z
   Total Products: 82
 - [Forks](https://powerinmotion.ca/collections/forks)
-  Updated: 2025-02-23T00:18:40Z
+  Updated: 2026-05-26T16:40:54Z
   Total Products: 0
 - [Lubes and Cleaners](https://powerinmotion.ca/collections/lubes-and-cleaners)
-  Updated: 2025-02-23T00:14:08Z
+  Updated: 2026-05-26T16:40:54Z
   Total Products: 0
 - [Saddles and Seat Covers](https://powerinmotion.ca/collections/saddles-and-seat-covers)
-  Updated: 2025-02-23T00:18:41Z
+  Updated: 2026-05-26T16:40:54Z
   Total Products: 0
 - [Top-Rated Bike Locks at Power in Motion | Secure Your Ride Today](https://powerinmotion.ca/collections/top-rated-bike-locks-at-power-in-motion-secure-your-ride-today): Shop the best bike locks at Power in Motion, synced with HLC's stock for real-time availability. Protect your bike with our top-quality locks—order now!
-  Updated: 2025-02-23T00:14:36Z
+  Updated: 2026-05-26T16:40:54Z
   Total Products: 0
 - [Body Care Items](https://powerinmotion.ca/collections/body-care-items)
-  Updated: 2025-02-22T21:10:39Z
+  Updated: 2026-05-26T16:40:54Z
   Total Products: 0
 - [Novelties and Gifts](https://powerinmotion.ca/collections/novelties-and-gifts)
-  Updated: 2025-02-22T23:48:17Z
+  Updated: 2026-05-26T16:40:54Z
   Total Products: 0
 - [Nutrition](https://powerinmotion.ca/collections/nutrition)
-  Updated: 2025-02-22T23:50:33Z
+  Updated: 2026-05-26T16:40:54Z
   Total Products: 0
 - [Apparel](https://powerinmotion.ca/collections/apparel)
-  Updated: 2025-02-23T00:11:35Z
+  Updated: 2026-05-26T16:40:54Z
   Total Products: 0
 - [Frame Protection](https://powerinmotion.ca/collections/frame-protection)
-  Updated: 2025-02-23T00:10:58Z
+  Updated: 2026-05-26T16:40:54Z
   Total Products: 0
 - [Baby Seats](https://powerinmotion.ca/collections/baby-seats)
-  Updated: 2026-05-03T11:04:01Z
+  Updated: 2026-05-30T17:21:18Z
   Total Products: 62
 - [Helmets and Accessories](https://powerinmotion.ca/collections/helmets-and-accessories)
-  Updated: 2025-06-04T20:10:34Z
+  Updated: 2026-05-26T16:40:54Z
   Total Products: 2
 - [Storage Solutions](https://powerinmotion.ca/collections/storage-solutions)
-  Updated: 2025-02-23T00:13:43Z
+  Updated: 2026-05-26T16:40:54Z
   Total Products: 0
 - [Merchandising](https://powerinmotion.ca/collections/merchandising)
-  Updated: 2025-02-22T23:50:11Z
+  Updated: 2026-05-26T16:40:55Z
   Total Products: 0
 - [Trailers and Strollers](https://powerinmotion.ca/collections/trailers-and-strollers)
-  Updated: 2025-02-22T23:50:04Z
+  Updated: 2026-05-26T16:40:55Z
   Total Products: 0
 - [Gloves](https://powerinmotion.ca/collections/gloves)
-  Updated: 2025-02-23T00:13:39Z
+  Updated: 2026-05-26T16:40:55Z
   Total Products: 0
 - [Video Cameras](https://powerinmotion.ca/collections/video-cameras)
-  Updated: 2025-02-22T21:04:19Z
+  Updated: 2026-05-26T16:40:55Z
   Total Products: 0
 - [Electric Assist Systems](https://powerinmotion.ca/collections/electric-assist-systems)
-  Updated: 2025-02-22T23:55:10Z
+  Updated: 2026-05-26T16:40:55Z
   Total Products: 0
 - [Bicycles](https://powerinmotion.ca/collections/bicycles)
-  Updated: 2025-02-23T00:05:11Z
+  Updated: 2026-05-26T16:40:55Z
   Total Products: 0
 - [Groups and Build Kits](https://powerinmotion.ca/collections/groups-and-build-kits)
-  Updated: 2025-02-23T00:04:17Z
+  Updated: 2026-05-26T16:40:55Z
   Total Products: 0
 - [Protective Gear](https://powerinmotion.ca/collections/protective-gear)
-  Updated: 2025-02-22T23:58:14Z
+  Updated: 2026-05-26T16:40:55Z
   Total Products: 0
 - [Bike Fitting](https://powerinmotion.ca/collections/bike-fitting)
-  Updated: 2024-03-11T23:20:44Z
+  Updated: 2026-05-26T16:40:55Z
   Total Products: 0
 - [Frames](https://powerinmotion.ca/collections/frames)
-  Updated: 2025-02-22T23:43:39Z
+  Updated: 2026-05-26T16:40:55Z
   Total Products: 0
 - [Tern Accessories](https://powerinmotion.ca/collections/tern-accessories)
-  Updated: 2026-05-24T11:03:13Z
+  Updated: 2026-05-31T11:02:57Z
   Total Products: 102
 - [HLC ONLINE ONLY](https://powerinmotion.ca/collections/hlc-online-only)
-  Updated: 2024-03-11T23:20:48Z
+  Updated: 2026-05-26T16:40:55Z
   Total Products: 0
 - [Motion Heat - Heated Clothing](https://powerinmotion.ca/collections/motion-heat-heated-clothing): MOTION Heat Rechargeable Heated Glove Liners were designed in Calgary, Canada. They were originally designed for cyclists to extend their riding season into the cold months. Canadian winters are no joke, and cycling in winter is typically only for the bold. But over the last several years, the reach of MOTIONHeat had spread far beyond our expectations. They have been widely adopted by outdoor workers ranging from police officers to construction workers to those who work in the tough oil fields. These heated gloves have also found its way into the  sector providing comfort and relief to those suffering from pain in the hands caused by diseases like Raynaud's and arthritis. Our heated glove liners have proven useful in battling the cold of the Canadian winters throughout various environments, yet they can provide the soft comforting warmth to those with poor circulation in their hands. If you are looking for a source of heat to keep your fingers flexible and warm MOTIONHeat has proven quality and performance for any situation. And with a one-year warranty, they are simply the best heated glove available. Learn More at Motionheat.ca
-  Updated: 2026-05-13T11:04:44Z
+  Updated: 2026-05-26T16:40:55Z
   Total Products: 17
 - [Batteries](https://powerinmotion.ca/collections/batteries)
-  Updated: 2025-02-22T20:46:55Z
+  Updated: 2026-05-26T16:40:55Z
   Total Products: 0
 - [Packing Material](https://powerinmotion.ca/collections/packing-material)
-  Updated: 2025-02-22T23:41:34Z
+  Updated: 2026-05-26T16:40:55Z
   Total Products: 0
 - [Conversion Kit Components](https://powerinmotion.ca/collections/conversion-kit-components)
-  Updated: 2025-08-01T11:01:50Z
+  Updated: 2026-05-26T16:40:56Z
   Total Products: 2
 - [Locks](https://powerinmotion.ca/collections/locks)
-  Updated: 2025-02-23T00:14:36Z
+  Updated: 2026-05-26T16:40:56Z
   Total Products: 0
 - [Hybrid Tires](https://powerinmotion.ca/collections/hybrid-tires): Hybrid Tires
   Updated: 2025-02-22T23:29:35Z
@@ -2409,67 +2292,67 @@
   Updated: 2025-02-07T23:34:34Z
   Total Products: 0
 - [AddMotor](https://powerinmotion.ca/collections/addmotor): 🚴♂️ Addmotor Electric Trikes — Stability Meets Power & Comfort Discover the full lineup of Addmotor electric trikes, engineered for riders who want a perfect blend of confidence, comfort, and electric performance. Whether you’re cruising through city streets, running daily errands, or exploring neighbourhood paths, Addmotor trikes deliver a stable three-wheel ride, strong motor support, and smart features for everyday life. Each trike in this collection is designed with: Powerful motors for strong starts and smooth hill climbs Long-range batteries built for real-world distances Comfort-first geometry that’s easy on and easy off Integrated lights and displays for safer, more visible rides Cargo-friendly designs perfect for shopping, gear, or fun outings From compact folding options like the Citytri series to rugged, cargo-ready builds like the Grandtan M-340, Addmotor electric trikes bring three-wheel confidence to every rider — whether you’re new to e-mobility or a seasoned commuter. Ride with balance. Ride with power. Ride Addmotor.
-  Updated: 2026-05-23T11:02:58Z
+  Updated: 2026-05-26T16:40:57Z
   Total Products: 4
 - [CYC MOTOR LTD.](https://powerinmotion.ca/collections/cyc-motor-ltd): ⚡ CYC Motor LTD — Electrifying the Ride, Redefining Possibilities Welcome to CYC Motor LTD, where passion meets performance and innovation fuels every revolution. Born from a deep love of electric mobility and engineered for riders who demand power, precision, and reliability, our products represent the cutting edge of electric transportation technology. At CYC Motor LTD, we don’t just build products — we elevate experiences. From high-performance electric bicycle hubs and torque-sensor systems to modular motor kits that transform ordinary bikes into exhilarating electric machines, every component is crafted with purpose. We serve everyone from commuters seeking effortless urban travel to adventure riders chasing limitless terrain. 🔥 What Makes CYC Legendary? 🚀 Unmatched Performance: Industry-leading torque sensors, robust motors, and high-efficiency components designed to deliver power when you need it — without compromise. 🛠️ Precision Engineering: Every part is built with meticulous attention to detail, blending durability with intelligent design so you ride with confidence. ⚙️ Customizable & Modular: Whether you’re upgrading a daily commuter or building a bespoke electric beast, CYC’s systems are engineered for flexibility and seamless integration. 🌍 Designed for Real Riders: Tested against real-world use — from city streets to off-road trails — so your ride feels intuitive and unstoppable. 🔩 Our Products — Built to Transform ⚡ Electric Conversion KitsTurn any compatible bike into an electrifying ride. Easy to install, powerful to ride — embracing the future of motion has never been easier. 🔧 Motors & SensorsHigh-torque drive systems and precision sensors that unlock smooth acceleration, responsive control, and maximum efficiency with every pedal. 🧰 Accessories & Add-OnsFrom screens and controllers to compatible batteries and wiring harnesses — every part supports a unified, superior riding experience. 🛣️ More Than Products — A Movement CYC Motor LTD isn’t just a brand — it’s a community of innovators, commuters, DIY builders, and trailblazers. Everything we build is meant to inspire freedom — to transform your ride, empower your adventure, and push the boundaries of what’s possible on two wheels. Whether you’re upgrading a daily ride, shaping a performance machine, or pioneering your next project, you're riding with the best in modern electric mobility. ⚡ Ride Further. Ride Smarter. Ride CYC. Join the revolution.
-  Updated: 2026-05-17T11:04:24Z
+  Updated: 2026-05-26T16:40:57Z
   Total Products: 7
 - [Electric Trikes](https://powerinmotion.ca/collections/electric-trike)
-  Updated: 2026-05-23T11:02:58Z
+  Updated: 2026-05-26T16:40:57Z
   Total Products: 4
 - [Electric Comfort Bikes](https://powerinmotion.ca/collections/electric-comfort-bikes)
-  Updated: 2026-05-14T16:07:23Z
+  Updated: 2026-05-31T11:02:57Z
   Total Products: 7
 - [Electric Road Bikes](https://powerinmotion.ca/collections/electric-road-bikes)
-  Updated: 2026-04-13T11:04:27Z
+  Updated: 2026-05-27T11:03:12Z
   Total Products: 1
 - [Electric Mountian Bikes](https://powerinmotion.ca/collections/electric-mountian-bikes)
-  Updated: 2026-05-09T23:29:07Z
+  Updated: 2026-05-26T16:40:57Z
   Total Products: 2
 - [Electric Folding Bikes](https://powerinmotion.ca/collections/electric-folding-bikes)
-  Updated: 2026-04-08T18:32:10Z
-  Total Products: 3
+  Updated: 2026-05-30T22:26:53Z
+  Total Products: 5
 - [Electric Fat Bikes](https://powerinmotion.ca/collections/electric-fat-bikes)
-  Updated: 2026-05-24T11:03:13Z
+  Updated: 2026-05-26T16:40:57Z
   Total Products: 8
 - [Electric Cargo Bikes](https://powerinmotion.ca/collections/electric-cargo-bikes)
-  Updated: 2026-05-10T11:04:07Z
+  Updated: 2026-05-31T11:02:57Z
   Total Products: 32
 - [Comfort Bikes](https://powerinmotion.ca/collections/comfort-bikes)
-  Updated: 2026-05-03T11:04:01Z
+  Updated: 2026-05-26T16:40:58Z
   Total Products: 6
 - [Fat Bikes](https://powerinmotion.ca/collections/fat-bikes-1)
-  Updated: 2026-04-08T18:37:21Z
+  Updated: 2026-05-26T16:40:58Z
   Total Products: 1
 - [Folding Bikes](https://powerinmotion.ca/collections/folding-bikes-1)
-  Updated: 2026-05-22T11:03:31Z
+  Updated: 2026-05-30T23:42:04Z
   Total Products: 23
 - [Cargo Bikes](https://powerinmotion.ca/collections/cargo-bikes)
-  Updated: 2026-04-08T22:00:51Z
+  Updated: 2026-05-30T23:23:55Z
   Total Products: 1
 - [Road Bikes](https://powerinmotion.ca/collections/road-bikes)
-  Updated: 2026-05-15T11:07:51Z
+  Updated: 2026-05-30T23:42:04Z
   Total Products: 7
 - [Mountian Bike](https://powerinmotion.ca/collections/mountian-bike)
-  Updated: 2026-04-08T18:44:06Z
+  Updated: 2026-05-26T16:40:58Z
   Total Products: 0
 - [Trike](https://powerinmotion.ca/collections/trike)
-  Updated: 2026-04-08T18:44:35Z
+  Updated: 2026-05-26T16:40:58Z
   Total Products: 3
 - [CYC Motors](https://powerinmotion.ca/collections/cyc-motors)
-  Updated: 2026-04-17T21:01:22Z
+  Updated: 2026-05-26T16:40:58Z
   Total Products: 2
 - [CYC Batteries](https://powerinmotion.ca/collections/cyc-batteries)
-  Updated: 2026-04-24T20:54:37Z
+  Updated: 2026-05-26T16:40:58Z
   Total Products: 2
 - [CYC Conversion Kit](https://powerinmotion.ca/collections/cyc-conversion-kit)
-  Updated: 2026-05-17T11:04:24Z
+  Updated: 2026-05-26T16:40:58Z
   Total Products: 3
 - [TERN Accessory / Front Rack](https://powerinmotion.ca/collections/tern-accessory-front-rack)
-  Updated: 2026-05-21T22:42:29Z
+  Updated: 2026-05-26T16:40:58Z
   Total Products: 3
 - [TERN Accessory / Storage & Transport](https://powerinmotion.ca/collections/tern-accessory-storage-transport)
-  Updated: 2026-05-24T11:03:13Z
+  Updated: 2026-05-26T16:40:58Z
   Total Products: 1
 
 ## Blogs
@@ -2535,8 +2418,8 @@
   Updated: 2020-08-13T23:45:33Z
 - [FAQ's](https://powerinmotion.ca/pages/faqs)
   Updated: 2021-12-10T21:00:26Z
-- [FAQs](https://powerinmotion.ca/pages/faqs-1)
-  Updated: 2023-02-01T17:41:33Z
+- [FAQs](https://powerinmotion.ca/pages/faqs-1): BRANDS WE CARRY What brands do you ?We carry a carefully selected range of brands across e-bikes, folding bikes, cargo bikes, accessories, and ...
+  Updated: 2026-05-25T00:22:46Z
 - [Heated Clothing | Power In Motion Gloves, Vests and Insoles](https://powerinmotion.ca/pages/heated-clothing): Simply The Hottest Frigid Cold? No problem with our powerful 12 and 16 volt batteries our heated glove liners are the hottest on the market. Heatin...
   Updated: 2024-08-03T19:19:06Z
 - [How to Choose a Conversion](https://powerinmotion.ca/pages/how-to-choose-a-conversion): 1. Choose the Motor you want. Consider what you would use your converted bike for / what you value most. If you are riding more casually or aiming ...
@@ -2577,7 +2460,7 @@
 - [Privacy Policy](https://powerinmotion.ca/policies/privacy-policy)
   Updated: 2024-02-20T13:39:31-07:00
 - [Shipping Policy](https://powerinmotion.ca/policies/shipping-policy)
-  Updated: 2025-07-26T15:35:31-06:00
+  Updated: 2026-05-27T12:00:55-06:00
 - [Refund Policy](https://powerinmotion.ca/policies/refund-policy)
   Updated: 2024-08-22T11:27:45-06:00
 - [Terms of Service](https://powerinmotion.ca/policies/terms-of-service)
