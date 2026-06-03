@@ -6,7 +6,7 @@
 - Timezone: Europe/Malta
 - Created At: 2021-06-23T15:38:54Z
 - Contact Email: info@katana-sword.com
-- Updated At: 2026-05-27T13:01:20.189Z
+- Updated At: 2026-06-03T16:00:31.079Z
 
 ## Products
 
@@ -47,7 +47,7 @@
     Availability: Available
     Price: $950.00 USD
 - [Fuyu Katana 冬 | Katana Sword](https://katana-sword.com/products/katana-fuyu): Experience the Katana Fuyu, a serene winter-inspired blade, crafted with impeccable balance and attention to detail, embodying tranquility and precision.
-  Updated: 2026-05-27T05:09:26Z
+  Updated: 2026-05-31T02:33:46Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -389,7 +389,7 @@
     Availability: Available
     Price: $350.00 USD
 - [Ōku Katana オーク | Katana Sword](https://katana-sword.com/products/katana-oku): This entry-level Katana is made of refined 608 steel and a lacquered solid wood sheath. Its details like the Tsuba, Kashira or Habaki are made of carved brass. It is perfect to learn how to cut without risking breaking the blade or to decorate an interior with an Edo style. SPECIFICATIONS Blade color Grey Material 608 Steel Guard (Tsuba 鍔) Finely carved brass Scabbard (Saya 鞘) Solid lacquered wood Handle (tsuka 柄) Shagreen Leather DIMENSIONS Length with scabbard 40.5(in) Length of the blade 29.5(in) Blade thickness 0.30(in) Length of the handle 10.2(in) Width of the blade 1.2(in)
-  Updated: 2026-05-27T05:29:45Z
+  Updated: 2026-05-30T16:56:07Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -1026,7 +1026,7 @@
     Availability: Available
     Price: $510.00 USD
 - [Akai Oni Samurai Armor | Katana Sword](https://katana-sword.com/products/akai-oni-samurai-armor): Explore the Akai Oni Samurai Armor, a masterpiece of Japanese craftsmanship. Perfect for collectors or display, featuring traditional design and superior quality.
-  Updated: 2026-05-26T22:11:37Z
+  Updated: 2026-06-03T08:23:35Z
   Vendor: Katana Sword
   Product Type: Samurai Armor
   Availability: Available
@@ -1061,7 +1061,7 @@
   Image: https://cdn.shopify.com/s/files/1/0578/4567/8248/products/armure-samourai-kogane-no-o_2.png?v=1654507671
   Price: $3,500.00 USD
 - [Emerarudo Katana エメラルド | Katana Sword](https://katana-sword.com/products/katana-emerarudo): Own the Katana Emerarudo, a dazzling sword with emerald-inspired designs, blending beauty and Japanese craftsmanship into a collector's masterpiece.
-  Updated: 2026-05-27T05:51:21Z
+  Updated: 2026-05-29T20:11:26Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -1079,7 +1079,7 @@
     Availability: Available
     Price: $410.00 USD
 - [Nami Katana 波 | Katana Sword](https://katana-sword.com/products/katana-nami): Nami Ninjato – Admire the Wave Blade, a sleek sword inspired by ocean waves, blending beauty and strength for enthusiasts.
-  Updated: 2026-05-27T05:10:16Z
+  Updated: 2026-05-31T22:26:46Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -1097,7 +1097,7 @@
     Availability: Available
     Price: $300.00 USD
 - [Kamon Katana 家紋 | Katana Sword](https://katana-sword.com/products/katana-kamon): Admire the Katana Kamon, a sword featuring intricate family crest designs, blending cultural heritage with expert craftsmanship.
-  Updated: 2026-05-27T05:13:52Z
+  Updated: 2026-06-01T00:12:26Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -1133,7 +1133,7 @@
     Availability: Available
     Price: $240.00 USD
 - [Toyotomi Katana 豊臣氏 | Katana Sword](https://katana-sword.com/products/katana-toyotomi): Discover the Katana Toyotomi, a sword paying tribute to the legacy of Toyotomi, crafted with precision and steeped in tradition.
-  Updated: 2026-05-27T05:46:02Z
+  Updated: 2026-05-30T23:38:56Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -1241,7 +1241,7 @@
     Availability: Available
     Price: $460.00 USD
 - [Custom-Made Katana | Katana Sword](https://katana-sword.com/products/custom-katana): Create your own Custom Katana, tailored to your preferences with traditional craftsmanship, perfect for enthusiasts and collectors.
-  Updated: 2026-05-27T05:09:37Z
+  Updated: 2026-06-01T22:32:06Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -1397,7 +1397,7 @@
     Availability: Available
     Price: $770.00 USD
 - [Razor Sharpening - Made by a Master | Katana Sword](https://katana-sword.com/products/razor-sharpening-made-by-a-master): Experience masterful razor sharpening by skilled experts, ensuring your blade achieves the sharpest and most precise edge.
-  Updated: 2026-05-27T01:50:06Z
+  Updated: 2026-06-03T03:06:05Z
   Vendor: Katana Sword
   Product Type: 
   Availability: Available
@@ -1530,7 +1530,7 @@
     Availability: Available
     Price: $290.00 USD
 - [Tanjiro Katana | Katana Sword](https://katana-sword.com/products/tanjiro-katana): This Katana is a replica of Tanjro sword from Demon Slayer, it was created by our smiths from the anime and faithfully represents his legendary Katana. It has been handcrafted in quality materials for the most passionate who wish to treat themselves to a real collector's item. SPECIFICATIONS Blade 1060 Carbon Steel Guard (Tsuba 鍔) Sculpted Iron Scabbard (Saya 鞘) Lacquered wood Handle (tsuka 柄) Imitation stingray leatherIron Menuki Kit2 Bamboo Mekugi DIMENSIONS Length with scabbard 40.5(in) Length of the blade 29.5(in) Blade thickness 0.30(in) Length of the handle 10.2(in) Width of the blade 1.2(in)
-  Updated: 2026-05-27T05:20:31Z
+  Updated: 2026-05-31T21:36:57Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -1548,7 +1548,7 @@
     Availability: Available
     Price: $229.00 USD
 - [Rengoku Katana | Katana Sword](https://katana-sword.com/products/rengoku-katana): Admire the Rengoku Katana, inspired by the Flame Pillar from Demon Slayer, a must-have for anime and sword fans alike.
-  Updated: 2026-05-27T05:12:06Z
+  Updated: 2026-05-31T05:01:47Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -1566,7 +1566,7 @@
     Availability: Available
     Price: $229.00 USD
 - [Zenitsu Katana | Katana Sword](https://katana-sword.com/products/zenitsu-katana): Admire the Zenitsu Katana, a blade inspired by the Thunder Hashira from Demon Slayer, crafted with finesse.
-  Updated: 2026-05-27T05:15:37Z
+  Updated: 2026-06-03T14:36:06Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -1638,7 +1638,7 @@
     Availability: Available
     Price: $229.00 USD
 - [Tanjiro V2 Katana | Katana Sword](https://katana-sword.com/products/tanjiro-v2-katana): Own the upgraded Tanjiro V2 Katana, inspired by Demon Slayer, featuring refined craftsmanship and intricate detail.
-  Updated: 2026-05-27T05:10:40Z
+  Updated: 2026-06-01T12:02:48Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -1656,7 +1656,7 @@
     Availability: Available
     Price: $229.00 USD
 - [Enma Katana | Katana Sword](https://katana-sword.com/products/enma-katana): Discover the Enma Katana, a legendary sword known for its demon-slaying power, crafted with precision and steeped in tradition.
-  Updated: 2026-05-27T05:09:55Z
+  Updated: 2026-05-31T01:43:00Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -1674,7 +1674,7 @@
     Availability: Available
     Price: $229.00 USD
 - [Yubashiri Zoro Katana | Katana Sword](https://katana-sword.com/products/yubashiri-zoro-katana): Discover the Yubashiri Zoro Katana, one of Zoro’s iconic swords from One Piece, a stunning replica crafted for fans and collectors.
-  Updated: 2026-05-27T05:21:33Z
+  Updated: 2026-05-31T07:22:06Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -1710,7 +1710,7 @@
     Availability: Available
     Price: $229.00 USD
 - [Zoro Katana | Katana Sword](https://katana-sword.com/products/zoro-katana): Experience the Zoro Katana, a sword inspired by the legendary swordsman from One Piece, blending power and artistry.
-  Updated: 2026-05-27T05:14:12Z
+  Updated: 2026-05-27T22:33:16Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -1728,7 +1728,7 @@
     Availability: Available
     Price: $229.00 USD
 - [Sasuke Katana | Katana Sword](https://katana-sword.com/products/sasuke-katana): Experience the Sasuke Katana, a legendary sword inspired by the iconic ninja, designed for fans and collectors of Japanese lore.
-  Updated: 2026-05-27T05:11:00Z
+  Updated: 2026-06-01T01:40:35Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -1836,7 +1836,7 @@
     Availability: Available
     Price: $630.00 USD
 - [Chie Katana 知恵 | Katana Sword](https://katana-sword.com/products/chie-katana): Admire the Chie Katana, a sword symbolizing wisdom and precision, crafted with impeccable attention to detail for all enthusiasts.
-  Updated: 2026-05-27T05:22:14Z
+  Updated: 2026-06-03T06:44:25Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -1988,7 +1988,7 @@
     Availability: Available
     Price: $380.00 USD
 - [Ame no Habakiri Katana | Katana Sword](https://katana-sword.com/products/ame-no-habakiri-katana): Own the iconic Ame no Habakiri Katana, a stunning replica inspired by Japanese legends. Perfect for collectors, cosplay, or as a display piece.
-  Updated: 2026-05-27T05:17:49Z
+  Updated: 2026-05-29T03:08:55Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -2006,7 +2006,7 @@
     Availability: Available
     Price: $229.00 USD
 - [Giyu Tomioka Katana V2 | Katana Sword](https://katana-sword.com/products/giyu-tomioka-katana-1): Explore this authentic Giyu Tomioka Katana, meticulously crafted for fans of Demon Slayer and Japanese sword culture, a collector's item that blends tradition and fantasy.
-  Updated: 2026-05-27T05:11:21Z
+  Updated: 2026-06-02T00:18:56Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -2042,7 +2042,7 @@
     Availability: Available
     Price: $229.00 USD
 - [Wado Ichimonji Katana | Katana Sword](https://katana-sword.com/products/wado-ichimonji-katana): Own the Wado Ichimonji Katana, an iconic sword from One Piece, valued for its elegance, power, and historical allure.
-  Updated: 2026-05-27T05:13:08Z
+  Updated: 2026-06-02T23:22:05Z
   Vendor: Katana Sword
   Product Type: 
   Availability: Available
@@ -2060,7 +2060,7 @@
     Availability: Available
     Price: $229.00 USD
 - [Yoriichi Tsugikuni Katana | Katana Sword](https://katana-sword.com/products/yoriichi-tsugikuni-katana): Experience the Yoriichi Tsugikuni Katana, inspired by the legendary swordsman from Demon Slayer, crafted with precision for collectors.
-  Updated: 2026-05-27T05:13:28Z
+  Updated: 2026-05-31T00:41:13Z
   Vendor: Katana Sword
   Product Type: 
   Availability: Available
@@ -2078,7 +2078,7 @@
     Availability: Available
     Price: $229.00 USD
 - [Tsuyuri Kanao Katana | Katana Sword](https://katana-sword.com/products/tsuyuri-kanao-katana): Admire the Tsuyuri Kanao Katana, a delicate and precise blade inspired by the Butterfly Hashira from Demon Slayer.
-  Updated: 2026-05-27T05:27:25Z
+  Updated: 2026-05-30T15:50:12Z
   Vendor: Katana Sword
   Product Type: 
   Availability: Available
@@ -2096,13 +2096,13 @@
     Availability: Available
     Price: $229.00 USD
 - [Sword Stand | Katana Sword](https://katana-sword.com/products/sword-stand): Range of Katana holders for one, two or three swords.It is not possible to order a stand alone without a sword.
-  Updated: 2026-05-27T02:30:06Z
+  Updated: 2026-06-03T14:36:12Z
   Vendor: Katana Sword
   Product Type: Katana Stand
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0578/4567/8248/products/iOS.jpg?v=1676190563
   - [1 Tier](https://katana-sword.com/products/sword-stand?variant=43200905871528)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0578/4567/8248/products/iOS.jpg?v=1676190563
     Price: $12.90 USD
   - [2 Tier](https://katana-sword.com/products/sword-stand?variant=43200905937064)
@@ -2204,7 +2204,7 @@
     Availability: Available
     Price: $290.00 USD
 - [Elden Ring Moonveil Katana | Katana Sword](https://katana-sword.com/products/elden-ring-moonveil-katana): Experience the Elden Ring Moonveil Katana, a stunning replica crafted for fans of the game and collectors of unique Japanese swords.
-  Updated: 2026-05-27T12:33:19Z
+  Updated: 2026-06-02T08:29:57Z
   Vendor: Katana Sword
   Product Type: 
   Availability: Available
@@ -2222,7 +2222,7 @@
     Availability: Available
     Price: $410.00 USD
 - [Ghost of Tsushima Swords Kit - Katana & Tanto | Katana Sword](https://katana-sword.com/products/ghost-of-tsushima-swords-kit-katana-tanto): Get the Ghost of Tsushima Sword Kit featuring Katana and Tanto, a must-have for fans of the iconic game and traditional Japanese swords, a perfect collector’s set.
-  Updated: 2026-05-27T05:12:48Z
+  Updated: 2026-06-03T07:50:36Z
   Vendor: Katana Sword
   Product Type: 
   Availability: Available
@@ -2669,7 +2669,7 @@
     Availability: Available
     Price: $229.00 USD
 - [Bleach Ichigo Bankai Katana | Katana Sword](https://katana-sword.com/products/katana-bleach-ichigo-bankai): Own the Ichigo Bankai Katana, a faithful replica from the Bleach anime, perfect for collectors and fans seeking a piece of Japanese sword-making artistry and fantasy.
-  Updated: 2026-05-27T05:14:30Z
+  Updated: 2026-05-27T20:48:16Z
   Vendor: Katana Sword
   Product Type: Katana
   Availability: Available
@@ -2789,86 +2789,55 @@
   - [With Engraving +$30](https://katana-sword.com/products/kinryu-katana?variant=49754753990989)
     Availability: Available
     Price: $310.00 USD
-- [Yozora Katana 夜空 | Katana Sword](https://katana-sword.com/products/katana-yozora): Admire the Katana Yozora, a sword inspired by the beauty of the starlit sky, blending artistry and traditional Japanese design.
-  Updated: 2026-05-27T05:35:40Z
-  Vendor: Katana Sword
-  Product Type: Katana
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0578/4567/8248/files/katanayozora2.jpg?v=1720343209
-  - [Without Engraving](https://katana-sword.com/products/katana-yozora?variant=49754760937805)
-    Availability: Available
-    Price: $250.00 USD
-  - [With Engraving +$30](https://katana-sword.com/products/katana-yozora?variant=49754760970573)
-    Availability: Available
-    Price: $280.00 USD
-- [Bleach Kyoka Suigetsu Katana | Katana Sword](https://katana-sword.com/products/katana-bleach-kyoka-suigetsu): Acquire the Kyoka Suigetsu Katana, an iconic sword from the Bleach anime series, crafted with intricate detail and precision, ideal for collectors and fans of the series.
-  Updated: 2026-05-27T05:20:11Z
-  Vendor: Katana Sword
-  Product Type: Katana
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0578/4567/8248/files/12_9f3da3c7-1234-430b-9657-674e14a28b1d.png?v=1763561919
-  Price: $199.00 USD
-- [Kogane Ryu Katana 黄金龍 | Katana Sword](https://katana-sword.com/products/kogane-ryu-katana): Experience the Kogane Ryu Katana, a magnificent sword inspired by the mythical golden dragon, blending artistry with unmatched precision.
-  Updated: 2026-05-27T06:02:49Z
-  Vendor: Katana Sword
-  Product Type: Katana
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0578/4567/8248/files/DSC_4404.jpg?v=1761754698
-  - [Without Engraving](https://katana-sword.com/products/kogane-ryu-katana?variant=50009299616077)
-    Availability: Available
-    Price: $650.00 USD
-  - [With Engraving +$30](https://katana-sword.com/products/kogane-ryu-katana?variant=50009299648845)
-    Availability: Available
-    Price: $680.00 USD
-[List Continued](https://katana-sword.com/a/llms-agent/llms.txt?shop=sword-katana.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5Njk0NTY4MDIyMzQ5LCJsYXN0X3ZhbHVlIjoiOTY5NDU2ODAyMjM0OSJ9)
+[List Continued](https://katana-sword.com/a/llms-agent/llms.txt?shop=sword-katana.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5NjM5NzIwMDkxOTgxLCJsYXN0X3ZhbHVlIjoiOTYzOTcyMDA5MTk4MSJ9)
 
 ## Collections
 
 - [Hand Forged Katanas | Katana Sword](https://katana-sword.com/collections/katana-for-): Discover our collection of hand-forged Japanese Katanas. +150 unique Katanas in different steels and forges. Brand #1 on Katanas.
-  Updated: 2026-05-27T11:06:44Z
-  Total Products: 195
+  Updated: 2026-06-03T11:07:51Z
+  Total Products: 198
 - [Tanto | Hand-Forged Tantos](https://katana-sword.com/collections/tanto): Looking for authentic tanto? Browse our collection of traditional Japanese Tanto. Ideal for collectors and martial arts enthusiasts.
-  Updated: 2026-05-26T11:07:09Z
+  Updated: 2026-06-03T11:07:51Z
   Total Products: 8
 - [Wakizashi | Hand-Forged Wakizashis](https://katana-sword.com/collections/wakizashi): Looking for an authentic wakizashi? Discover our premium selection of the best Japanese short blades. Quality and history at your fingertips.
   Updated: 2026-05-19T11:09:07Z
   Total Products: 7
 - [Samurai Armor | Hand Made Real Armors](https://katana-sword.com/collections/samurai-armor): Discover our exceptional samurai armor! Wear the history and majesty of legendary warriors. Premium selections for enthusiasts. Limited offers
-  Updated: 2026-05-08T22:52:50Z
+  Updated: 2026-06-03T11:07:51Z
   Total Products: 6
 - [Anime Katana | Katana Sword](https://katana-sword.com/collections/anime-katana)
   Updated: 2026-05-27T11:06:44Z
   Total Products: 5
 - [Entry Range Katana | Katana Sword](https://katana-sword.com/collections/entry-range-katana)
-  Updated: 2026-05-27T11:06:44Z
-  Total Products: 83
+  Updated: 2026-06-03T11:07:51Z
+  Total Products: 85
 - [Mid-Range Katana | Katana Sword](https://katana-sword.com/collections/mid-range-katana)
-  Updated: 2026-05-26T11:07:09Z
+  Updated: 2026-06-03T11:07:51Z
   Total Products: 71
 - [High End Katana | Katana Sword](https://katana-sword.com/collections/high-end-katana)
-  Updated: 2026-05-25T11:06:02Z
-  Total Products: 135
+  Updated: 2026-06-02T15:50:01Z
+  Total Products: 136
 - [New Pieces | Katana Sword](https://katana-sword.com/collections/new-pieces)
-  Updated: 2026-05-27T11:06:44Z
-  Total Products: 23
+  Updated: 2026-06-03T11:07:51Z
+  Total Products: 32
 - [Manga Katana | Katana Sword](https://katana-sword.com/collections/manga-katana): Dive into the world of manga katanas! Discover the legendary swords from your favorite series and the story behind each blade. Discover now!
-  Updated: 2026-05-27T11:06:44Z
+  Updated: 2026-06-03T11:07:51Z
   Total Products: 23
 - [Demon Slayer Katana | Katana Sword](https://katana-sword.com/collections/demon-slayer-katana): Explore the katanas of Demon Slayer! Swords inspired by Tanjiro, Rengoku and more. Discover their power and meaning. Find out now!
-  Updated: 2026-05-27T11:06:44Z
+  Updated: 2026-06-02T11:08:01Z
   Total Products: 12
 - [One Piece Katana | Katana Sword](https://katana-sword.com/collections/one-piece-katana): Discover the katanas of Zoro, One Piece's master swordsman! Immerse yourself in the history of his legendary blades and their meaning. Get a handmade replica.
-  Updated: 2026-05-25T11:06:02Z
+  Updated: 2026-06-03T11:07:51Z
   Total Products: 7
 - [Naruto Katana | Katana Sword](https://katana-sword.com/collections/naruto-katana): Immerse yourself in the Naruto universe with our exclusive katanas! From Seven Ninja Swordsmen to Sasuke, quality . Join the world of ninjas
   Updated: 2026-05-26T11:07:09Z
   Total Products: 1
 - [Bleach Katana | Katana Sword](https://katana-sword.com/collections/bleach-katana): Bleach fan? Find the katana of your favorite heroes! Exclusive offers on authentic Zanpakuto. Embody the Shinigami force.
-  Updated: 2026-05-25T11:06:02Z
+  Updated: 2026-06-01T11:07:02Z
   Total Products: 3
 - [Best Sellers](https://katana-sword.com/collections/best-sellers)
-  Updated: 2026-05-27T11:06:44Z
-  Total Products: 272
+  Updated: 2026-06-03T11:07:51Z
+  Total Products: 275
 - [Get a Handmade Ninjato | Katana Sword](https://katana-sword.com/collections/ninjato-sword): Looking for the perfect ninjato? Explore our range of ninja swords. Combine discretion and power. Exclusive offers to discover.
   Updated: 2026-05-16T11:09:44Z
   Total Products: 4
@@ -2903,31 +2872,31 @@
   Updated: 2026-05-08T22:52:53Z
   Total Products: 0
 - [Mini Katana | Katana Sword](https://katana-sword.com/collections/mini-katana)
-  Updated: 2026-05-27T11:06:44Z
+  Updated: 2026-06-03T11:07:51Z
   Total Products: 19
 - [test](https://katana-sword.com/collections/test)
-  Updated: 2026-05-27T11:06:44Z
-  Total Products: 295
+  Updated: 2026-06-03T11:07:51Z
+  Total Products: 304
 - [Black Friday 2024](https://katana-sword.com/collections/black-friday-2024)
-  Updated: 2026-05-27T11:06:44Z
-  Total Products: 300
+  Updated: 2026-06-03T11:07:51Z
+  Total Products: 309
 - [FLASH SALES](https://katana-sword.com/collections/flash-sales)
-  Updated: 2026-05-26T11:07:09Z
+  Updated: 2026-06-03T11:07:51Z
   Total Products: 15
 - [Katana Stands | Katana Sword](https://katana-sword.com/collections/katana-stands)
-  Updated: 2026-05-27T11:06:44Z
+  Updated: 2026-06-03T11:07:51Z
   Total Products: 9
 - [Odachi Sword | Katana Sword](https://katana-sword.com/collections/odachi-sword): Odachi Sword Collection – Hand-Forged Japanese Great Swords (Ōdachi / Nodachi) Discover the awe-inspiring Odachi sword (also written Ōdachi or Nodachi) – the legendary “great sword” of feudal Japan. With blades exceeding 90 cm (35 in) in length, these long katana were the samurai’s answer to open-field combat during the Nanboku-chō (1336-1392) and early Sengoku periods. Their imposing reach cut through pikes, cavalry and armour, earning a fearsome battlefield reputation. What Makes an Odachi Unique? Extreme Size & Reach – Historic examples like the Norimitsu Ōdachi measure 3.77 m / 12.4 ft and weigh 14.5 kg, illustrating the ultimate expression of the form. Battlefield Specialist – Wielded two-handed on foot for sweeping cuts that broke enemy lines. Some were also offered to Shintō shrines as symbols of martial devotion. Swordsmith Mastery – Forging, differential hardening and polishing a blade of this length requires rare skill; every piece in our range is full-tang, clay-tempered high-carbon or folded steel. Hand-Forged Excellence by Katana-Sword.com Each Odachi in our collection is crafted by seasoned smiths who marry shinogi-zukuri geometry with modern heat- to deliver optimum balance and bite. Choose from: 1095 / T10 tool-steel or 15-fold Damascus billets Genuine samegawa (ray-skin) & tight tsuka-maki Iron, brass or copper tsuba in dragon, wave, or mon motifs Lacquered magnolia saya with buffalo-horn fittings Optional personal engraving for a one-of-a-kind heirloom Historical Timeline at a Glance Period Role of the Odachi Nanboku-chō (1336-1392) Infantry great-sword for anti-cavalry strikes Muromachi (1336-1573) Continued field use; ceremonial offerings emerge Edo (1603-1868) Primarily display pieces demonstrating smith prowess Modern Era Collectors, martial artists & shrine dedications Who Buys an Odachi Today? Whether you’re a collector seeking a centre-piece, an iaido / kenjutsu practitioner building grip strength, or a history enthusiast captivated by samurai warfare, our Odachi range delivers impeccable presence and performance. Leading competitors like TrueKatana and Swords-for- feature similar swords, but we back ours with a 30-day money-back guarantee and fast worldwide shipping. Complete Your Samurai Arsenal Strengthen your training set and internal site architecture by pairing an Odachi with our Katana, or wakizashi. This semantic interlinking helps Google recognise Katana-Sword.com as an authority on Japanese blades. Order With Confidence Secure checkout & multiple currencies Free, tracked global delivery 30-day satisfaction guarantee – love it or send it back Claim your piece of samurai history now – add an Odachi to your cart and feel the power of Japan’s greatest sword. { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [ { "@type": "Question", "name": "What is an Odachi sword?", "acceptedAnswer": { "@type": "Answer", "text": "An Odachi (also called Ōdachi or Nodachi) is an exceptionally long Japanese great sword with a blade typically over 90 cm. It was designed for sweeping battlefield strikes during the 14th–16th centuries." } }, { "@type": "Question", "name": "How long is a traditional Odachi?", "acceptedAnswer": { "@type": "Answer", "text": "Historic blades vary, but many Odachi range from 120 cm to over 200 cm overall. The famous Norimitsu Ōdachi measures an extraordinary 377 cm (148 in)." } }, { "@type": "Question", "name": "Are Odachi swords legal to own?", "acceptedAnswer": { "@type": "Answer", "text": "Ownership is legal in most countries, but local regulations on blade length or edged weapons may apply. Always check the laws in your area before ordering." } }, { "@type": "Question", "name": "Can I use an Odachi for martial arts practice?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Our hand-forged Odachi are full-tang, tempered and balanced for controlled cutting or solo forms, though their size suits experienced practitioners." } } ] }
-  Updated: 2026-05-08T22:52:54Z
+  Updated: 2026-06-01T11:07:02Z
   Total Products: 2
 - [Manganese](https://katana-sword.com/collections/manganese)
-  Updated: 2026-05-24T11:08:33Z
+  Updated: 2026-06-03T11:07:51Z
   Total Products: 26
 - [SANMAI](https://katana-sword.com/collections/sanmai)
   Updated: 2026-05-08T22:52:54Z
   Total Products: 8
 - [T10](https://katana-sword.com/collections/t10)
-  Updated: 2026-05-26T11:07:09Z
+  Updated: 2026-06-03T11:07:51Z
   Total Products: 52
 - [Kobuse](https://katana-sword.com/collections/kobuse)
   Updated: 2026-05-14T17:49:36Z
@@ -2939,29 +2908,29 @@
   Updated: 2026-05-24T11:08:33Z
   Total Products: 40
 - [1060](https://katana-sword.com/collections/1060)
-  Updated: 2026-05-27T11:06:44Z
+  Updated: 2026-06-03T11:07:51Z
   Total Products: 21
 - [1095](https://katana-sword.com/collections/1095)
   Updated: 2026-05-15T11:09:04Z
   Total Products: 4
 - [Handmade Medieval Swords | European Sword](https://katana-sword.com/collections/medieval-sword): Discover our Medieval Swords Collection: authentic longswords, bastard swords, claymores, Viking swords, arming swords, greatswords, falchions, messers, estocs and more. Perfect for collectors, HEMA practitioners, and history enthusiasts.
-  Updated: 2026-05-26T11:07:09Z
-  Total Products: 13
+  Updated: 2026-06-03T11:07:51Z
+  Total Products: 14
 - [Japanese Handmade Swords](https://katana-sword.com/collections/japanese-handmade-swords)
-  Updated: 2026-05-27T11:06:44Z
-  Total Products: 253
+  Updated: 2026-06-03T11:07:51Z
+  Total Products: 261
 - [Limited Edition Pieces | Katana Sword](https://katana-sword.com/collections/limited-edition-pieces)
-  Updated: 2026-05-27T11:06:44Z
+  Updated: 2026-06-03T11:07:51Z
   Total Products: 19
 - [Naginata Swords | Katana Sword](https://katana-sword.com/collections/naginata-swords)
   Updated: 2026-05-08T22:52:56Z
   Total Products: 1
 - [Tactical Kydex Swords | Katana Sword](https://katana-sword.com/collections/tactical-kydex-swords)
-  Updated: 2026-05-27T11:06:44Z
+  Updated: 2026-06-03T11:07:51Z
   Total Products: 13
 - [Tactical Swords | Handmade Sharp Tactical Swords](https://katana-sword.com/collections/tactical-swords)
-  Updated: 2026-05-27T11:06:44Z
-  Total Products: 22
+  Updated: 2026-06-03T11:07:51Z
+  Total Products: 27
 
 ## Blogs
 
@@ -3363,13 +3332,31 @@
     Updated: 2026-02-27T22:34:16Z
     Author: Sarah Reyes
     Tags: can katana cut steel, can katanas cut through steel, katana
+  - [Is a $200 Katana Worth It? Honest Answer for First-Time Buyers](https://katana-sword.com/blogs/katana-blog/is-a-200-katana-worth-it): A $200 katana is worth buying — if you know what you're getting. We break down exactly what $200 buys in steel grade, construction, and fittings, what it doesn't include, and when to stretch to $290 for T10 steel.
+    Updated: 2026-05-27T20:31:45Z
+    Author: Katana-Sword.com Team
+  - [Katana vs Longsword: Which Should You Buy in 2026?](https://katana-sword.com/blogs/katana-blog/katana-vs-longsword-2026): Katana or longsword — a practical buying comparison. Decision tree by use case: display, martial arts, cutting practice, and budget.
+    Updated: 2026-05-27T20:22:29Z
+    Author: Katana-Sword.com Team
+  - [Best Katana for Beginners Under $300: What Reddit Actually Recommends — 2026](https://katana-sword.com/blogs/katana-blog/best-katana-for-beginners): Reddit's consensus on the best beginner katana under $300 — synthesized into a structured guide. Full-tang rule, steel grades explained, 5 picks with real specs.
+    Updated: 2026-05-27T20:31:10Z
+    Author: Katana-Sword.com Team
+  - [Anime Katana: Are Demon Slayer, One Piece & Bleach Swords Real? (2026 Buyer's Guide)](https://katana-sword.com/blogs/katana-blog/anime-katana-real-swords-demon-slayer-one-piece)
+    Updated: 2026-05-30T07:20:30Z
+    Author: Katana-Sword.com Team
+  - [T10 vs 1095 vs 1060 vs Damascus: Which Katana Steel Should You Actually Buy? (2026)](https://katana-sword.com/blogs/katana-blog/katana-steel-comparison-t10-1095-1060-damascus)
+    Updated: 2026-05-30T07:18:34Z
+    Author: Katana-Sword.com Team
+  - [How to Display and Care for a Katana: Stands, Oiling & Mistakes to Avoid (2026)](https://katana-sword.com/blogs/katana-blog/how-to-display-and-care-for-a-katana)
+    Updated: 2026-05-30T07:19:32Z
+    Author: Katana-Sword.com Team
 
 ## Store Pages
 
-- [Easy Katana Guide](https://katana-sword.com/pages/easy-katana-guide): Katana is very often misunderstood and brings a lot of confusion. There are many things to know and it is not easy to find your way around, especia...
-  Updated: 2021-09-12T08:51:33Z
-- [Choosing the Steel of your Katana | Katana Sword](https://katana-sword.com/pages/steel-katana): There are several types of steel and forges for a Katana. This is one of the parameters that most influences the price of your Katana, as the blade...
-  Updated: 2022-04-27T11:22:44Z
+- [Easy Katana Guide](https://katana-sword.com/pages/easy-katana-guide): { "@context": "https://schema.org", "@type": "Article", "headline": "Katana Buyer's Guide: Everything You Need to Know Before Buying — 2026", "desc...
+  Updated: 2026-05-27T19:17:35Z
+- [Choosing the Steel of your Katana | Katana Sword](https://katana-sword.com/pages/steel-katana): { "@context": "https://schema.org", "@type": "Article", "@id": "https://katana-sword.com/pages/choosing-the-steel-of-your-katana#article", "headlin...
+  Updated: 2026-05-27T19:17:35Z
 - [Legal Notice](https://katana-sword.com/pages/legal-notice): Please read carefully the various terms of use of this site before browsing its pages. By accessing this site, you accept these terms and condition...
   Updated: 2024-06-25T04:36:13Z
 - [Shipping](https://katana-sword.com/pages/shipping): Indicative Deadlines Since our products are handmade and shipped from different countries, the delivery times vary depending on the product you pur...
@@ -3382,8 +3369,8 @@
   Updated: 2024-01-27T18:31:51Z
 - [FREQUENTLY ASKED QUESTIONS ABOUT THE KATANA](https://katana-sword.com/pages/frequently-asked-questions-about-the-katana): How long is the Katana ? The average total length of a Katana is 41 inches (3,5 Shaku). The blade has to be over 2 Shaku (23,6"). The handle (Tsuka...
   Updated: 2021-10-07T06:16:48Z
-- [Katana Parts - The complete Guide | Katana Sword](https://katana-sword.com/pages/katana-parts): In the world of the Katana it is important to know the vocabulary of this one, because it is only Japanese words that are used! But don't worry, th...
-  Updated: 2023-02-28T12:48:34Z
+- [Katana Parts - The complete Guide | Katana Sword](https://katana-sword.com/pages/katana-parts): { "@context": "https://schema.org", "@type": "Article", "@id": "https://katana-sword.com/pages/katana-parts#article", "headline": "Katana Parts and...
+  Updated: 2026-05-27T19:25:36Z
 - [Habaki Katana - Blade Collar Functionality](https://katana-sword.com/pages/habaki-katana): The Habaki is the collar of the Katana, and plays a major role in its nomenclature. The first goal is for the Habaki to fit perfectly to the Koiguc...
   Updated: 2025-02-12T12:37:08Z
 - [Yokote Katana - Blade Tip Design](https://katana-sword.com/pages/yokote-katana): The Yokote is the separation between the Kissaki (the tip) and the rest of the blade. It is the line of separation. Most Katanas have this Yokote, ...
@@ -3448,8 +3435,8 @@
   Updated: 2023-01-21T05:01:15Z
 - [Our Brand | Katana Sword](https://katana-sword.com/pages/our-brand): Katana Sword™ was created out of a passion for the art of the Katana with the aim of making this special object accessible through a varied catalog...
   Updated: 2023-04-15T10:27:04Z
-- [Maintenance and rules of the Japanese Sword | Katana Sword](https://katana-sword.com/pages/maintenance-and-rules-of-the-japanese-sword): Japanese swords are rightly famous for their formidable cutting power, but they are also easily damaged. The fine polish of the sword, in particula...
-  Updated: 2023-01-21T05:19:15Z
+- [Maintenance and rules of the Japanese Sword | Katana Sword](https://katana-sword.com/pages/maintenance-and-rules-of-the-japanese-sword): { "@context": "https://schema.org", "@type": "Article", "headline": "How to Maintain a Katana: Complete Cleaning, Oiling, and Care Guide — 2026", "...
+  Updated: 2026-05-27T16:59:53Z
 - [Japanese Sword Glossary | Katana Sword](https://katana-sword.com/pages/japanese-sword-glossary): AIKUCHI - a tanto without tsuba (guard)AOI - hollyhock, commonly used as MonARA-NIE - coarse or broad nioiASHI - legs (streaks of nioi pointing dow...
   Updated: 2023-01-21T05:23:04Z
 - [Tsukuri-Komi, types of blade construction | Katana Sword](https://katana-sword.com/pages/tsukuri-komi-types-of-blade-construction): Tsukuri-komi is a Japanese term that refers to the shape of the blade of a Japanese sword. It describes how the blade is forged and shaped to creat...
