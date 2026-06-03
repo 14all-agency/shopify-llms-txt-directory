@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-12-08T07:33:19Z
 - Contact Email: post@zentrale-autoglas.de
-- Updated At: 2026-05-26T09:23:29.983Z
+- Updated At: 2026-06-03T00:00:26.357Z
 
 ## Collections
 
@@ -85,17 +85,17 @@
 ## Store Pages
 
 - [Wenn Busglas, dann vom Busglas-Profi](https://www.zentrale-autoglas.de/pages/busglas-busscheibe): 
-  Updated: 2026-05-20T15:44:25Z
+  Updated: 2026-06-01T07:56:24Z
 - [Autoglas-Reparatur PKW-Scheiben](https://www.zentrale-autoglas.de/pages/autoglas-reparatur-in-der-naehe): 
-  Updated: 2026-05-20T15:45:32Z
+  Updated: 2026-06-01T07:55:51Z
 - [Keine Sorge bei Schäden im Oldtimer-Glas](https://www.zentrale-autoglas.de/pages/oldtimer-glas-autoscheiben-sonderanfertigung): 
-  Updated: 2026-05-20T15:47:33Z
+  Updated: 2026-06-01T07:50:56Z
 - [Ihre beschädigte LKW-Scheibe professionell reparieren oder tauschen](https://www.zentrale-autoglas.de/pages/lkw-scheibe-lkw-glas): 
-  Updated: 2026-05-20T15:48:49Z
+  Updated: 2026-06-01T07:50:17Z
 - [Kabinenscheiben für Traktoren und andere Landmaschinen](https://www.zentrale-autoglas.de/pages/kabinenscheiben-traktoren-scheiben-nach-mass): 
-  Updated: 2026-05-20T15:49:37Z
+  Updated: 2026-06-01T07:49:29Z
 - [Baumaschinenglas reparieren und austauschen](https://www.zentrale-autoglas.de/pages/baumaschinen-glas-bagger-scheiben): 
-  Updated: 2026-05-20T15:50:12Z
+  Updated: 2026-06-01T07:48:32Z
 - [Über uns](https://www.zentrale-autoglas.de/pages/ueber-uns)
   Updated: 2026-02-27T13:30:30Z
 - [Leistungen](https://www.zentrale-autoglas.de/pages/leistungen)
@@ -103,7 +103,7 @@
 - [Unternehmen](https://www.zentrale-autoglas.de/pages/unternehmen)
   Updated: 2024-05-24T08:31:32Z
 - [Fit für die Reise: Wohnmobil-Scheiben vom Profi](https://www.zentrale-autoglas.de/pages/wohnmobil-scheiben-reparieren): 
-  Updated: 2026-05-20T15:46:23Z
+  Updated: 2026-06-02T12:11:03Z
 - [Datenschutz](https://www.zentrale-autoglas.de/pages/datenschutz)
   Updated: 2026-03-30T16:54:56Z
 - [Impressum](https://www.zentrale-autoglas.de/pages/impressum)
@@ -115,7 +115,7 @@
 - [Datenschutzinformationen für Bewerber](https://www.zentrale-autoglas.de/pages/datenschutzinformation_fuer_bewerber)
   Updated: 2025-04-23T07:14:01Z
 - [Liteglas](https://www.zentrale-autoglas.de/pages/liteglas)
-  Updated: 2026-05-20T14:51:40Z
+  Updated: 2026-06-01T07:57:45Z
 - [Stellenausschreibungen](https://www.zentrale-autoglas.de/pages/stellenausschreibungen)
   Updated: 2026-05-20T14:42:10Z
 - [Test](https://www.zentrale-autoglas.de/pages/test)
@@ -131,12 +131,7 @@
 - [Barrierefreiheits-Erklärung](https://www.zentrale-autoglas.de/pages/barrierefreiheits-erklaerung)
   Updated: 2026-02-18T15:04:29Z
 - [Kontakt](https://www.zentrale-autoglas.de/pages/kontakt)
-  Updated: 2026-03-31T09:40:50Z
-
-## Optional
-
-- [robots.txt](https://www.zentrale-autoglas.de/robots.txt)
-- [sitemap.xml](https://www.zentrale-autoglas.de/sitemap.xml)
+  Updated: 2026-06-01T08:03:56Z
 
 # Agent Instructions
 
