@@ -6,7 +6,7 @@
 - Timezone: Australia/Perth
 - Created At: 2026-05-19T06:39:09Z
 - Contact Email: hello@nexsorahome.com
-- Updated At: 2026-05-26T06:06:50.479Z
+- Updated At: 2026-06-03T00:00:23.976Z
 
 Nexsora Home is an Australian online store specialising in home organisation, 
 storage solutions, and lifestyle tech products. We offer a curated range of 
@@ -21,7 +21,7 @@ delivery. Shop at nexsorahome.com.
 ## Products
 
 - [GlowSpin 360 Rotating Makeup Organiser | Nexora Home](https://nexsorahome.com/products/makeuphub): Keep your beauty essentials perfectly organized with the GlowSpin 360 Organizer — a sleek rotating storage solution designed to bring style and convenience to your vanity. Featuring a smooth 360° rotating design and multiple spacious compartments, it keeps your makeup brushes, skincare products, lipsticks, and everyday essentials neatly arranged and easy to reach. Crafted from durable, lightweight PP plastic, this multi-functional organizer blends practicality with modern elegance. Its compact yet spacious design helps save counter space while adding a clean, luxurious touch to any bathroom, vanity, or dressing table setup.
-  Updated: 2026-05-25T06:56:18Z
+  Updated: 2026-05-31T12:05:39Z
   Vendor: Nexora Home
   Product Type: Makeup Organiser
   Availability: Available
@@ -43,21 +43,14 @@ delivery. Shop at nexsorahome.com.
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sf0051f114b4e4a71afc4456b0b25bea8t.webp?v=1779185681
     Price: $15.95 AUD
 - [ThermoCup USB Cup Warmer — Keep Drinks Hot | Nexora Home](https://nexsorahome.com/products/1pc-thermostatic-heating-coaster-usb-home-heating-coaster-3-speed-adjustment-heating-55-degrees-constant-temperature): Keep coffee & tea at the perfect temp with the ThermoCup USB Warmer. 3 heat settings, compact design. Shop Nexora Home — fast AU shipping.
-  Updated: 2026-05-25T06:56:54Z
+  Updated: 2026-06-02T04:43:03Z
   Vendor: Nexora Home
   Product Type: Kitchen & Dining
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S0d0b42c8f645427eaa0c4976d049e476Z.webp?v=1779237943
-  - [WHITE](https://nexsorahome.com/products/1pc-thermostatic-heating-coaster-usb-home-heating-coaster-3-speed-adjustment-heating-55-degrees-constant-temperature?variant=42951405731938)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sc3fde2dcc7bf403594946648bf2407f4m.webp?v=1779237943
-    Price: $12.95 AUD
-  - [green](https://nexsorahome.com/products/1pc-thermostatic-heating-coaster-usb-home-heating-coaster-3-speed-adjustment-heating-55-degrees-constant-temperature?variant=42951405797474)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S1d4cbbb1527143d6a0ff3227c9622290A.webp?v=1779237943
-    Price: $12.95 AUD
+  Price: $12.95 AUD
 - [All-in-One Remote Caddy & Desk Organiser | Nexora Home](https://nexsorahome.com/products/all-in-one-remote-caddy): Keep remotes, pens & essentials tidy with the All-in-One Remote Caddy. 4 colour options, modern design. Shop Nexora Home — fast AU shipping.
-  Updated: 2026-05-24T05:32:25Z
+  Updated: 2026-06-02T07:11:33Z
   Vendor: Nexora Home
   Product Type: Home Organisation
   Availability: Available
@@ -65,21 +58,21 @@ delivery. Shop at nexsorahome.com.
   - [WHITE](https://nexsorahome.com/products/all-in-one-remote-caddy?variant=42951444496482)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S3cd64004b8b64bffadc47904f10b6d110.webp?v=1779240679
-    Price: $14.95 AUD
+    Price: $13.95 AUD
   - [Orange](https://nexsorahome.com/products/all-in-one-remote-caddy?variant=42951444529250)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S844937ebc3764b578f30f80b1bb27998a.webp?v=1779240680
-    Price: $16.95 AUD
+    Price: $15.95 AUD
   - [Coffee](https://nexsorahome.com/products/all-in-one-remote-caddy?variant=42951444562018)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sc83ff2f808684874aa9558334ca0d8b3E.webp?v=1779240680
-    Price: $16.95 AUD
+    Price: $15.95 AUD
   - [black](https://nexsorahome.com/products/all-in-one-remote-caddy?variant=42951444594786)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S2351047beb874c3790d43e908c5c6b76f.webp?v=1779240679
-    Price: $16.95 AUD
+    Price: $15.95 AUD
 - [USB Water Bottle Pump One-Touch Dispenser | Nexora Home](https://nexsorahome.com/products/usb-water-bottle-pump-one-touch-automatic-dispenser): Effortless hydration with our USB rechargeable water bottle pump. One-touch dispensing, fills a glass in 3 seconds. Shop Nexora Home.
-  Updated: 2026-05-25T06:56:17Z
+  Updated: 2026-06-02T07:11:43Z
   Vendor: Nexora Home
   Product Type: Kitchen & Dining
   Availability: Available
@@ -87,15 +80,15 @@ delivery. Shop at nexsorahome.com.
   - [2 pcs White](https://nexsorahome.com/products/usb-water-bottle-pump-one-touch-automatic-dispenser?variant=42951448166498)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S49f4e46289f94041bb5ec0f9c574b9b0Y.webp?v=1779241783
-    Price: $26.95 AUD
+    Price: $25.95 AUD
   - [2 pcs Black](https://nexsorahome.com/products/usb-water-bottle-pump-one-touch-automatic-dispenser?variant=42951448199266)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S8f978c6ef3f84be9bfd9abb4058df9d9F.webp?v=1779241783
-    Price: $26.95 AUD
+    Price: $25.95 AUD
   - [2 pcs White-Black](https://nexsorahome.com/products/usb-water-bottle-pump-one-touch-automatic-dispenser?variant=42951448232034)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sc4873639868943b2b2b74b71c51a0561n.webp?v=1779241783
-    Price: $26.95 AUD
+    Price: $25.95 AUD
   - [white](https://nexsorahome.com/products/usb-water-bottle-pump-one-touch-automatic-dispenser?variant=42951448264802)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S125338d233994d0786f9b17aa03af71e5.webp?v=1779241783
@@ -103,13 +96,13 @@ delivery. Shop at nexsorahome.com.
   - [black](https://nexsorahome.com/products/usb-water-bottle-pump-one-touch-automatic-dispenser?variant=42951448297570)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S1df77ad105b24128bc0dc1fc1e8e1cdcE.webp?v=1779241783
-    Price: $17.95 AUD
+    Price: $16.95 AUD
   - [New Style](https://nexsorahome.com/products/usb-water-bottle-pump-one-touch-automatic-dispenser?variant=42951448330338)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/e9814821-62c2-4f54-8ec8-b1eb320108e2673215.png?v=1779241783
-    Price: $21.95 AUD
+    Price: $20.95 AUD
 - [5-Layer Makeup Storage Drawer Organiser | Nexora Home](https://nexsorahome.com/products/5-layer-makeup-storage-drawer-organizer): Organise your makeup, jewellery & skincare with our 5-layer drawer organiser. Sleek, spacious & stylish. Shop Nexora Home — fast AU shipping.
-  Updated: 2026-05-26T04:38:57Z
+  Updated: 2026-06-02T07:11:39Z
   Vendor: Nexora Home
   Product Type: Makeup & Beauty Storage
   Availability: Available
@@ -117,13 +110,13 @@ delivery. Shop at nexsorahome.com.
   - [White-B](https://nexsorahome.com/products/5-layer-makeup-storage-drawer-organizer?variant=42951449804898)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S1c8cbe6d8a8b407fafe1246cace0ec1bN.webp?v=1779242307
-    Price: $53.95 AUD
+    Price: $51.95 AUD
   - [White](https://nexsorahome.com/products/5-layer-makeup-storage-drawer-organizer?variant=42951449837666)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S1c8cbe6d8a8b407fafe1246cace0ec1bN.webp?v=1779242307
-    Price: $49.95 AUD
+    Price: $46.95 AUD
 - [3-in-1 UV Toothbrush Holder & Dispenser | Nexora Home](https://nexsorahome.com/products/3-in-1-uv-toothbrush-holder-dispenser): Sterilise, dispense & organise with our 3-in-1 UV Toothbrush Holder. CE , premium finish. Shop Nexora Home — fast AU shipping.
-  Updated: 2026-05-24T05:32:21Z
+  Updated: 2026-06-02T07:11:35Z
   Vendor: Nexora Home
   Product Type: Bathroom Accessories
   Availability: Available
@@ -131,24 +124,24 @@ delivery. Shop at nexsorahome.com.
   - [Grey](https://nexsorahome.com/products/3-in-1-uv-toothbrush-holder-dispenser?variant=42951470645346)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S56a3e4ee718b403390a07c123317bd05t.webp?v=1779242749
-    Price: $29.95 AUD
+    Price: $27.95 AUD
   - [Black gold](https://nexsorahome.com/products/3-in-1-uv-toothbrush-holder-dispenser?variant=42951470678114)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S0a72763a14784bfcb8cfbf9725cfa645H.webp?v=1779242748
-    Price: $29.95 AUD
+    Price: $28.95 AUD
   - [Black](https://nexsorahome.com/products/3-in-1-uv-toothbrush-holder-dispenser?variant=42951470710882)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S3bd9b925792b48419c9411b3f26dd663k.webp?v=1779242748
-    Price: $29.95 AUD
+    Price: $27.95 AUD
 - [Solar UV Toothbrush Holder & Sterilizer | Nexora Home](https://nexsorahome.com/products/solar-uv-toothbrush-holder-sterilizer): Keep toothbrushes germ-free with our solar-powered UV sterilizer. Kills 99.9% of bacteria automatically. Shop at Nexora Home — fast Australian shipping.
-  Updated: 2026-05-25T06:56:22Z
+  Updated: 2026-05-27T04:41:12Z
   Vendor: Nexora Home
   Product Type: Bathroom Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sfbc6cceaf9db484b8c1f241888fb1686Q.webp?v=1779242837
   Price: $20.95 AUD
 - [360° Makeup Carousel Rotating Vanity Organiser | Nexora Home](https://nexsorahome.com/products/360-makeup-carousel): Organise your makeup, skincare & perfumes with our 360° rotating vanity carousel. Premium acrylic, large capacity. Shop Nexora Home.
-  Updated: 2026-05-26T00:19:54Z
+  Updated: 2026-06-02T07:11:45Z
   Vendor: Nexora Home
   Product Type: Makeup & Beauty Storage
   Availability: Available
@@ -156,17 +149,17 @@ delivery. Shop at nexsorahome.com.
   - [White](https://nexsorahome.com/products/360-makeup-carousel?variant=42952588361826)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S7a28bdce9128483987a33335d5c8ba6cM.webp?v=1779281703
-    Price: $24.95 AUD
+    Price: $23.95 AUD
   - [Cream](https://nexsorahome.com/products/360-makeup-carousel?variant=42952588394594)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S77bdf589601f4890a348ac6f71e54d4aY.webp?v=1779281703
-    Price: $24.95 AUD
+    Price: $23.95 AUD
   - [Pink](https://nexsorahome.com/products/360-makeup-carousel?variant=42952588427362)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S9ef6c2828ca44ed1876c7e165959665f9.webp?v=1779281688
-    Price: $23.95 AUD
+    Price: $22.95 AUD
 - [Micro Measure Spoon Scale 0.1-500g Digital Kitchen Scale | Nexora Home](https://nexsorahome.com/products/micro-measure-spoon-scale): Measure coffee, flour & spices with precision using our Micro Measure Spoon Scale. LCD display, 0.1-500g range. Shop Nexora Home.
-  Updated: 2026-05-24T05:32:28Z
+  Updated: 2026-05-30T15:50:14Z
   Vendor: Nexora Home
   Product Type: Kitchen Scales
   Availability: Available
@@ -174,53 +167,53 @@ delivery. Shop at nexsorahome.com.
   - [2PCS Light green / 1Kg](https://nexsorahome.com/products/micro-measure-spoon-scale?variant=42952699510882)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S52281875aee042d0ad2c0a123cbf9282k.webp?v=1779283557
-    Price: $33.95 AUD
+    Price: $22.95 AUD
   - [2PCS Pink / 1Kg](https://nexsorahome.com/products/micro-measure-spoon-scale?variant=42952699543650)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S0c85c0d18def4c00b0ba7bb49eb271cb5.webp?v=1779283551
-    Price: $33.95 AUD
+    Price: $22.95 AUD
   - [2PCS Emerald green / 1Kg](https://nexsorahome.com/products/micro-measure-spoon-scale?variant=42952699576418)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S21ebaaa14a4b41c182b8b8a4f65de9c38.webp?v=1779283556
-    Price: $33.95 AUD
+    Price: $22.95 AUD
   - [2PCS Red / 1Kg](https://nexsorahome.com/products/micro-measure-spoon-scale?variant=42952699609186)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S58da50e6cb034f4cbb221473dcb187f00.webp?v=1779283556
-    Price: $33.95 AUD
+    Price: $22.95 AUD
   - [2PCS White / 1Kg](https://nexsorahome.com/products/micro-measure-spoon-scale?variant=42952699641954)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sf0360f5d573842e9873425914a15d425Z.webp?v=1779283551
-    Price: $33.95 AUD
+    Price: $22.95 AUD
   - [2PCS Black / 1Kg](https://nexsorahome.com/products/micro-measure-spoon-scale?variant=42952699674722)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S2352e17b42384dde9e0d09283717c011G.webp?v=1779283551
-    Price: $33.95 AUD
+    Price: $22.95 AUD
   - [Light green / 1Kg](https://nexsorahome.com/products/micro-measure-spoon-scale?variant=42952699707490)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S0e5afd45eed2410b8ce0757dbd9d8894D.webp?v=1779283556
-    Price: $17.95 AUD
+    Price: $11.95 AUD
   - [Pink / 1Kg](https://nexsorahome.com/products/micro-measure-spoon-scale?variant=42952699740258)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S9b5bf53d0fac438faf264943850ed937o.webp?v=1779283552
-    Price: $19.95 AUD
+    Price: $12.95 AUD
   - [Emerald green / 1Kg](https://nexsorahome.com/products/micro-measure-spoon-scale?variant=42952699773026)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S65e9a014b793460d9906e884d9de48abg.webp?v=1779283556
-    Price: $19.95 AUD
+    Price: $12.95 AUD
   - [Red / 1Kg](https://nexsorahome.com/products/micro-measure-spoon-scale?variant=42952699805794)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S4b760b59dd3e42d0af3c8192eb33c55c3.webp?v=1779283556
-    Price: $17.95 AUD
+    Price: $11.95 AUD
   - [White / 1Kg](https://nexsorahome.com/products/micro-measure-spoon-scale?variant=42952699838562)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sac13001333d04ffca7e8efe415f791a21.webp?v=1779283556
-    Price: $19.95 AUD
+    Price: $12.95 AUD
   - [Black / 1Kg](https://nexsorahome.com/products/micro-measure-spoon-scale?variant=42952699871330)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S3386f0e388fd42468fcbd65516509ac33.webp?v=1779283551
-    Price: $17.95 AUD
+    Price: $11.95 AUD
 - [50-Cube Ice Maker with Easy Press](https://nexsorahome.com/products/50-cube-ice-maker-with-easy-press): SPECIFICATIONS Brand Name: NONE Choice: yes High-concerned chemical: None Ice Cream Tools Type: Ice Cream Sandwich Makers Origin: Mainland China Type: Ice Cream Tools Brand new and high qualityName: Ice Cube Machine Material: PlasticColor: White, GreenSize: 15*15*9.5CM(5.91*5.91*3.74in)Package include: 1 * Ice Cube Machine Note:1.Due to the light and monitors effect, colors may have lightly difference.2.Please allow slightly size errors due to manual measurement. Thank you for your understand!
-  Updated: 2026-05-25T06:56:36Z
+  Updated: 2026-06-01T16:16:43Z
   Vendor: Nexora Home
   Product Type: Kitchen & Dining
   Availability: Available
@@ -228,34 +221,27 @@ delivery. Shop at nexsorahome.com.
   - [Red](https://nexsorahome.com/products/50-cube-ice-maker-with-easy-press?variant=42953777512546)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sc985445f50484ffba562e606b3770d1eR.webp?v=1779334028
-    Price: $21.95 AUD
+    Price: $20.95 AUD
   - [White](https://nexsorahome.com/products/50-cube-ice-maker-with-easy-press?variant=42953777545314)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S5e69ed5dc2ac49bba15fd6a0e36329a4r.webp?v=1779334029
-    Price: $21.95 AUD
+    Price: $19.95 AUD
 - [5-Tier Kitchen Trolley | Rolling Storage Cart – Nexora Home](https://nexsorahome.com/products/5-tier-kitchen-trolley): Transform your kitchen with our 5-Tier Rolling Kitchen Trolley. Easy assembly, smooth-glide wheels & sleek design. Perfect for small spaces. Shop now!
-  Updated: 2026-05-26T00:19:56Z
+  Updated: 2026-06-01T04:42:17Z
   Vendor: Nexora Home
   Product Type: Kitchen Storage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sffdd6348e3cd460f9e5d5a3f4eaadd3cE.webp?v=1779336953
-  - [Black-1](https://nexsorahome.com/products/5-tier-kitchen-trolley?variant=42953829515362)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sb72dc1c5aa8e4714b9af198da82962c9I.webp?v=1779336953
-    Price: $16.95 AUD
-  - [White-1](https://nexsorahome.com/products/5-tier-kitchen-trolley?variant=42953829548130)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S2cd358ca3c55458c98e374ea9af3e6bbE.webp?v=1779336953
-    Price: $16.95 AUD
+  Price: $16.95 AUD
 - [24-Egg Fridge Organiser | Stackable Egg Storage Container](https://nexsorahome.com/products/24-egg-fridge-organiser): Keep your fridge tidy with our 24-Egg Fridge Organiser. Holds 28–30 eggs, food-grade plastic, reusable & easy to clean. Available in White & Creamy.
-  Updated: 2026-05-25T06:56:47Z
+  Updated: 2026-06-02T07:11:37Z
   Vendor: Nexora Home
   Product Type: Kitchen Storage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S883c3b68d89c4bfa91681192107f5a788.webp?v=1779337621
-  Price: $20.95 AUD
+  Price: $19.95 AUD
 - [WiFi Video Doorbell Pro](https://nexsorahome.com/products/wifi-video-doorbell-pro): Never Miss a Visitor AgainMeet the WiFi Video Doorbell Pro — your home's smartest first line of defence. Whether you're at work, on holiday, or just in the backyard, stay connected to your front door from anywhere in the world.Key Features HD Video & Two-Way Audio — See and speak with visitors in real time via your smartphone app, shareable with up to 10 family members simultaneously. Night Vision — 850nm infrared LEDs with automatic day/night switching keep your entrance monitored around the clock. Instant Motion Alerts — Get push notifications the moment someone approaches, with adjustable sensitivity so you're only alerted when it matters. Cloud Storage — Visitor snapshots are automatically saved to the cloud with 3-day rolling storage, so you never lose a record. 365-Day Battery Life — Built-in high-capacity lithium-ion battery means no constant recharging. Just set it and forget it. Easy Installation — No wiring needed. Use the included 3M adhesive backing or screw mount — your choice. 2.4GHz WiFi Connected — Simple Bluetooth setup gets you online in minutes. Specifications Resolution: VGA 640×480 @ 20fps Infrared Range: Up to 50mA drive Charging: DC 5V Operating Temp: -10°C to 45°C Humidity: ≤95% Encryption: AES video transmission What's in the Box 1 × WiFi Video Doorbell 1 × Indoor Chime Unit 1 × User Manual
-  Updated: 2026-05-25T06:56:31Z
+  Updated: 2026-05-30T10:23:14Z
   Vendor: Nexora Home
   Product Type: Smart Home Security
   Availability: Available
@@ -269,7 +255,7 @@ delivery. Shop at nexsorahome.com.
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S29429bb772864f0a85721222e0258c846.webp?v=1779338021
     Price: $37.95 AUD
 - [SmartTrace Tag – Bluetooth Key Finder & Anti-Loss Tracker](https://nexsorahome.com/products/smarttrace-tag): Never lose your keys, wallet or pet again. SmartTrace Tag is a compact Bluetooth tracker with 10-month battery life, compatible with iOS & Android.
-  Updated: 2026-05-26T04:29:31Z
+  Updated: 2026-05-30T10:23:23Z
   Vendor: Nexsora Home
   Product Type: Bluetooth Tracker
   Availability: Available
@@ -315,14 +301,14 @@ delivery. Shop at nexsorahome.com.
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S78e33fd714374945adaeb601a0901fd5X.webp?v=1779362845
     Price: $7.95 AUD
 - [Travel Steam Iron Pro – 1000W Handheld Garment Steamer](https://nexsorahome.com/products/travel-steam-iron-pro): Powerful 1000W handheld garment steamer with 130ml tank, 40-second heat-up, and foldable design. Perfect for home and travel. Universal voltage 110-240V.
-  Updated: 2026-05-25T06:56:07Z
+  Updated: 2026-06-02T07:11:41Z
   Vendor: Nexsora Home
   Product Type: Garment Steamer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S54cf7e8ad7674ed284ade2a8f8af70f85.webp?v=1779420332
-  Price: $66.95 AUD
+  Price: $63.95 AUD
 - [SteamFold Pro – AI Smart Handheld Garment Steamer 1300W](https://nexsorahome.com/products/ai-control-handheld-garment-steamer-home-electric-steam-cleaner-portable-foldable-mite-removal-travel-flat-ironing-machine): AI-powered 1300W handheld garment steamer with touch screen, 6 fabric modes, mite removal & 160ml tank. Ready in 20 seconds. Perfect for home & travel.
-  Updated: 2026-05-25T06:56:43Z
+  Updated: 2026-06-02T07:11:47Z
   Vendor: Nexsora Home
   Product Type: Garment Steamer
   Availability: Available
@@ -330,56 +316,56 @@ delivery. Shop at nexsorahome.com.
   - [AI Smart / EU](https://nexsorahome.com/products/ai-control-handheld-garment-steamer-home-electric-steam-cleaner-portable-foldable-mite-removal-travel-flat-ironing-machine?variant=42955919458402)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sfdbd25866fd440ef917f532f3f080f21y.webp?v=1779421397
-    Price: $105.95 AUD
+    Price: $98.95 AUD
   - [AI Smart / US](https://nexsorahome.com/products/ai-control-handheld-garment-steamer-home-electric-steam-cleaner-portable-foldable-mite-removal-travel-flat-ironing-machine?variant=42955919491170)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sfdbd25866fd440ef917f532f3f080f21y.webp?v=1779421397
-    Price: $101.95 AUD
+    Price: $95.95 AUD
   - [AI Smart / UK](https://nexsorahome.com/products/ai-control-handheld-garment-steamer-home-electric-steam-cleaner-portable-foldable-mite-removal-travel-flat-ironing-machine?variant=42955919556706)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sfdbd25866fd440ef917f532f3f080f21y.webp?v=1779421397
-    Price: $108.95 AUD
+    Price: $101.95 AUD
   - [STD Green / EU](https://nexsorahome.com/products/ai-control-handheld-garment-steamer-home-electric-steam-cleaner-portable-foldable-mite-removal-travel-flat-ironing-machine?variant=42955919589474)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sa8834a0e9cc8493981e637f1901a81f7d.webp?v=1779421397
-    Price: $35.95 AUD
+    Price: $33.95 AUD
   - [STD Green / US](https://nexsorahome.com/products/ai-control-handheld-garment-steamer-home-electric-steam-cleaner-portable-foldable-mite-removal-travel-flat-ironing-machine?variant=42955919622242)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sa8834a0e9cc8493981e637f1901a81f7d.webp?v=1779421397
-    Price: $35.95 AUD
+    Price: $33.95 AUD
   - [STD Green / AU](https://nexsorahome.com/products/ai-control-handheld-garment-steamer-home-electric-steam-cleaner-portable-foldable-mite-removal-travel-flat-ironing-machine?variant=42955919655010)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sa8834a0e9cc8493981e637f1901a81f7d.webp?v=1779421397
-    Price: $36.95 AUD
+    Price: $34.95 AUD
   - [STD Green / UK](https://nexsorahome.com/products/ai-control-handheld-garment-steamer-home-electric-steam-cleaner-portable-foldable-mite-removal-travel-flat-ironing-machine?variant=42955919687778)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sa8834a0e9cc8493981e637f1901a81f7d.webp?v=1779421397
-    Price: $37.95 AUD
+    Price: $34.95 AUD
   - [STD White / EU](https://nexsorahome.com/products/ai-control-handheld-garment-steamer-home-electric-steam-cleaner-portable-foldable-mite-removal-travel-flat-ironing-machine?variant=42955919720546)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S853f423328d14767a5e9942e1d50950fW.webp?v=1779421397
-    Price: $35.95 AUD
+    Price: $33.95 AUD
   - [STD White / US](https://nexsorahome.com/products/ai-control-handheld-garment-steamer-home-electric-steam-cleaner-portable-foldable-mite-removal-travel-flat-ironing-machine?variant=42955919753314)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S853f423328d14767a5e9942e1d50950fW.webp?v=1779421397
-    Price: $36.95 AUD
+    Price: $34.95 AUD
   - [STD White / AU](https://nexsorahome.com/products/ai-control-handheld-garment-steamer-home-electric-steam-cleaner-portable-foldable-mite-removal-travel-flat-ironing-machine?variant=42955919786082)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S853f423328d14767a5e9942e1d50950fW.webp?v=1779421397
-    Price: $36.95 AUD
+    Price: $34.95 AUD
   - [STD White / UK](https://nexsorahome.com/products/ai-control-handheld-garment-steamer-home-electric-steam-cleaner-portable-foldable-mite-removal-travel-flat-ironing-machine?variant=42955919818850)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S853f423328d14767a5e9942e1d50950fW.webp?v=1779421397
-    Price: $37.95 AUD
+    Price: $34.95 AUD
 - [WiFi Auto Pet Feeder 4.5L – Smart Timer Dispenser for Cats & Dogs](https://nexsorahome.com/products/4-5l-wifi-app-automatic-pet-feeder-dry-food-dispenser-voice-recorder-timer-feeding-vending-for-large-cats-dogs-smart-pet-bowl): 4.5L WiFi smart pet feeder with app control, voice recorder, timer & LCD display. Auto dry food dispenser for cats & dogs. Free AU shipping.
-  Updated: 2026-05-25T06:56:15Z
+  Updated: 2026-06-01T06:51:07Z
   Vendor: Nexsora Home
   Product Type: Pet Supplies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S75c74c842a8d4842b0b3f06d0b1e846dm.webp?v=1779438928
-  Price: $162.95 AUD
+  Price: $181.95 AUD
 - [Tipping Bucket Shoe Cabinet – Large Capacity Storage | Nexsora Home](https://nexsorahome.com/products/tipping-bucket-shoe-cabinet-outer-entry-shoe-rack-balcony-entrance-cabinet-living-room-large-capacity-storage-cabinet): Large-capacity tipping bucket shoe cabinet for entryways, balconies & living rooms. Stylish enclosed design for families. Shop Nexsora Home.
-  Updated: 2026-05-25T06:56:38Z
+  Updated: 2026-06-02T07:11:57Z
   Vendor: Nexsora Home
   Product Type: Shoe Cabinet
   Availability: Available
@@ -387,77 +373,77 @@ delivery. Shop at nexsorahome.com.
   - [50cmC](https://nexsorahome.com/products/tipping-bucket-shoe-cabinet-outer-entry-shoe-rack-balcony-entrance-cabinet-living-room-large-capacity-storage-cabinet?variant=42958136377442)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sf8c1e1fb77cc4b7794e6cb5a8f6004fcZ.webp?v=1779498559
-    Price: $174.95 AUD
+    Price: $156.95 AUD
   - [50cmB](https://nexsorahome.com/products/tipping-bucket-shoe-cabinet-outer-entry-shoe-rack-balcony-entrance-cabinet-living-room-large-capacity-storage-cabinet?variant=42958136410210)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Se6b7fd7c37594089af2067eb83eda8bdj.webp?v=1779498559
-    Price: $154.95 AUD
+    Price: $139.95 AUD
   - [50cmA](https://nexsorahome.com/products/tipping-bucket-shoe-cabinet-outer-entry-shoe-rack-balcony-entrance-cabinet-living-room-large-capacity-storage-cabinet?variant=42958136442978)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S547f0345665d4db599b3a328c869785dW.webp?v=1779498559
-    Price: $161.95 AUD
+    Price: $145.95 AUD
   - [80cmC](https://nexsorahome.com/products/tipping-bucket-shoe-cabinet-outer-entry-shoe-rack-balcony-entrance-cabinet-living-room-large-capacity-storage-cabinet?variant=42958136475746)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S341498ecd68a49559bc13dc919965f47X.webp?v=1779498559
-    Price: $208.95 AUD
+    Price: $191.95 AUD
   - [80cmB](https://nexsorahome.com/products/tipping-bucket-shoe-cabinet-outer-entry-shoe-rack-balcony-entrance-cabinet-living-room-large-capacity-storage-cabinet?variant=42958136508514)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S72a04a971c4841d18e3985e4c9ea4d60O.webp?v=1779498558
-    Price: $188.95 AUD
+    Price: $169.95 AUD
   - [80cmA](https://nexsorahome.com/products/tipping-bucket-shoe-cabinet-outer-entry-shoe-rack-balcony-entrance-cabinet-living-room-large-capacity-storage-cabinet?variant=42958136541282)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S07aa210b3a184aedaa3d95a7fe511293t.webp?v=1779498559
-    Price: $158.95 AUD
+    Price: $145.95 AUD
   - [50cmD](https://nexsorahome.com/products/tipping-bucket-shoe-cabinet-outer-entry-shoe-rack-balcony-entrance-cabinet-living-room-large-capacity-storage-cabinet?variant=42958136574050)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S2332435e386b461eae23c2a06bcf4786C.webp?v=1779498559
-    Price: $177.95 AUD
+    Price: $159.95 AUD
   - [100cmC](https://nexsorahome.com/products/tipping-bucket-shoe-cabinet-outer-entry-shoe-rack-balcony-entrance-cabinet-living-room-large-capacity-storage-cabinet?variant=42958136606818)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sbba865f5bc084ebb8d2e28f01c1cabb94.webp?v=1779498559
-    Price: $223.95 AUD
+    Price: $205.95 AUD
   - [100cmB](https://nexsorahome.com/products/tipping-bucket-shoe-cabinet-outer-entry-shoe-rack-balcony-entrance-cabinet-living-room-large-capacity-storage-cabinet?variant=42958136639586)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S246022968f82427aaedac5afc4fbb71fZ.webp?v=1779498559
-    Price: $208.95 AUD
+    Price: $191.95 AUD
   - [100cmA](https://nexsorahome.com/products/tipping-bucket-shoe-cabinet-outer-entry-shoe-rack-balcony-entrance-cabinet-living-room-large-capacity-storage-cabinet?variant=42958136672354)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S06e3e82eb1a248c48a8f2c7ca68649ffl.webp?v=1779498559
-    Price: $211.95 AUD
+    Price: $194.95 AUD
   - [80cmD](https://nexsorahome.com/products/tipping-bucket-shoe-cabinet-outer-entry-shoe-rack-balcony-entrance-cabinet-living-room-large-capacity-storage-cabinet?variant=42958136705122)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S46b7dd425905454aab2f30c26c267049O.webp?v=1779498559
-    Price: $208.95 AUD
+    Price: $191.95 AUD
   - [80cmE](https://nexsorahome.com/products/tipping-bucket-shoe-cabinet-outer-entry-shoe-rack-balcony-entrance-cabinet-living-room-large-capacity-storage-cabinet?variant=42958136737890)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S72c27915e107405cb588aeca77e5c9a4C.webp?v=1779498559
-    Price: $239.95 AUD
+    Price: $220.95 AUD
   - [50cmF](https://nexsorahome.com/products/tipping-bucket-shoe-cabinet-outer-entry-shoe-rack-balcony-entrance-cabinet-living-room-large-capacity-storage-cabinet?variant=42958136770658)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S0fbfd81520364141a5e3ad549e848a61W.webp?v=1779498559
-    Price: $209.95 AUD
+    Price: $188.95 AUD
   - [50cmE](https://nexsorahome.com/products/tipping-bucket-shoe-cabinet-outer-entry-shoe-rack-balcony-entrance-cabinet-living-room-large-capacity-storage-cabinet?variant=42958136803426)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sfeff591de224470696f0d0f4e7e0696cB.webp?v=1779498559
-    Price: $188.95 AUD
+    Price: $169.95 AUD
   - [100cmD](https://nexsorahome.com/products/tipping-bucket-shoe-cabinet-outer-entry-shoe-rack-balcony-entrance-cabinet-living-room-large-capacity-storage-cabinet?variant=42958136836194)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sb5104ea9bd3948d3861740da9ea28c96t.webp?v=1779498559
-    Price: $223.95 AUD
+    Price: $205.95 AUD
   - [100cmF](https://nexsorahome.com/products/tipping-bucket-shoe-cabinet-outer-entry-shoe-rack-balcony-entrance-cabinet-living-room-large-capacity-storage-cabinet?variant=42958136868962)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S40b5b4a21c244696b935cdb3216dd38eu.webp?v=1779498559
-    Price: $295.95 AUD
+    Price: $271.95 AUD
   - [100cmE](https://nexsorahome.com/products/tipping-bucket-shoe-cabinet-outer-entry-shoe-rack-balcony-entrance-cabinet-living-room-large-capacity-storage-cabinet?variant=42958136901730)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Scaca807e2e4f4f44b6bc2369c910c440S.webp?v=1779498559
-    Price: $263.95 AUD
+    Price: $242.95 AUD
   - [80cmF](https://nexsorahome.com/products/tipping-bucket-shoe-cabinet-outer-entry-shoe-rack-balcony-entrance-cabinet-living-room-large-capacity-storage-cabinet?variant=42958136934498)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S15fdb1d7e09e4235b55fb9b75f69eaed1.webp?v=1779498559
-    Price: $259.95 AUD
+    Price: $239.95 AUD
 - [Ultra-Thin Flip Shoe Cabinet – Steel Entrance Stand | Nexsora Home](https://nexsorahome.com/products/15-12-10cm-ultra-thin-flip-bucket-shoe-cabinet-household-steel-door-extremely-narrow-integrated-shoe-rack-entrance-shoe-stand): Ultra-narrow 10–15cm flip shoe cabinet in steel. Fits beside any door. Space-saving entryway shoe storage for apartments & small homes. Shop Nexsora Home.
-  Updated: 2026-05-25T06:56:33Z
+  Updated: 2026-06-02T07:11:49Z
   Vendor: Nexsora Home
   Product Type: Shoe Cabinet
   Availability: Available
@@ -465,101 +451,101 @@ delivery. Shop at nexsorahome.com.
   - [Blue / L](https://nexsorahome.com/products/15-12-10cm-ultra-thin-flip-bucket-shoe-cabinet-household-steel-door-extremely-narrow-integrated-shoe-rack-entrance-shoe-stand?variant=42958137000034)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S95322bd6216f4502928fe8a85e4b4f68b.webp?v=1779498581
-    Price: $114.95 AUD
+    Price: $99.95 AUD
   - [green / L](https://nexsorahome.com/products/15-12-10cm-ultra-thin-flip-bucket-shoe-cabinet-household-steel-door-extremely-narrow-integrated-shoe-rack-entrance-shoe-stand?variant=42958137032802)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S3f0856755022473d9a3c89d17bdbe7b2O.webp?v=1779498581
-    Price: $117.95 AUD
+    Price: $102.95 AUD
   - [black / L](https://nexsorahome.com/products/15-12-10cm-ultra-thin-flip-bucket-shoe-cabinet-household-steel-door-extremely-narrow-integrated-shoe-rack-entrance-shoe-stand?variant=42958137065570)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Se00da3ae95a8447c9a2d2d3e9a0ff198O.webp?v=1779498581
-    Price: $125.95 AUD
+    Price: $108.95 AUD
   - [YELLOW / L](https://nexsorahome.com/products/15-12-10cm-ultra-thin-flip-bucket-shoe-cabinet-household-steel-door-extremely-narrow-integrated-shoe-rack-entrance-shoe-stand?variant=42958137098338)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S4e420c5ac6e54637ba45ba00e9caaf2dl.webp?v=1779498581
-    Price: $103.95 AUD
+    Price: $89.95 AUD
   - [WHITE / L](https://nexsorahome.com/products/15-12-10cm-ultra-thin-flip-bucket-shoe-cabinet-household-steel-door-extremely-narrow-integrated-shoe-rack-entrance-shoe-stand?variant=42958137131106)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sd07f73c037af490da649f8d754728b75G.webp?v=1779498581
-    Price: $92.95 AUD
+    Price: $80.95 AUD
   - [CORAL RED / L](https://nexsorahome.com/products/15-12-10cm-ultra-thin-flip-bucket-shoe-cabinet-household-steel-door-extremely-narrow-integrated-shoe-rack-entrance-shoe-stand?variant=42958137163874)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S884f518545fa454d8006a77e894933e6R.webp?v=1779498581
-    Price: $117.95 AUD
+    Price: $102.95 AUD
   - [Mint / L](https://nexsorahome.com/products/15-12-10cm-ultra-thin-flip-bucket-shoe-cabinet-household-steel-door-extremely-narrow-integrated-shoe-rack-entrance-shoe-stand?variant=42958137196642)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S24cef99fd7fd4f4b91cd0614a5d0e512Q.webp?v=1779498581
-    Price: $121.95 AUD
+    Price: $105.95 AUD
   - [Deep Green / L](https://nexsorahome.com/products/15-12-10cm-ultra-thin-flip-bucket-shoe-cabinet-household-steel-door-extremely-narrow-integrated-shoe-rack-entrance-shoe-stand?variant=42958137229410)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S4ac8450704614436b64e3cab85e1d9feo.webp?v=1779498581
-    Price: $126.95 AUD
+    Price: $109.95 AUD
   - [Lake Blue / L](https://nexsorahome.com/products/15-12-10cm-ultra-thin-flip-bucket-shoe-cabinet-household-steel-door-extremely-narrow-integrated-shoe-rack-entrance-shoe-stand?variant=42958137262178)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Scf63755254974de99cdb0ba0d02821fb8.webp?v=1779498581
-    Price: $116.95 AUD
+    Price: $100.95 AUD
   - [Rose Red / L](https://nexsorahome.com/products/15-12-10cm-ultra-thin-flip-bucket-shoe-cabinet-household-steel-door-extremely-narrow-integrated-shoe-rack-entrance-shoe-stand?variant=42958137294946)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S3d4fe1c48be1430caa43f83a1198e24a1.webp?v=1779498581
-    Price: $119.95 AUD
+    Price: $103.95 AUD
   - [Fuchsia / L](https://nexsorahome.com/products/15-12-10cm-ultra-thin-flip-bucket-shoe-cabinet-household-steel-door-extremely-narrow-integrated-shoe-rack-entrance-shoe-stand?variant=42958137327714)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sb01cda6a294447f3b2ffde107afff259q.webp?v=1779498581
-    Price: $125.95 AUD
+    Price: $108.95 AUD
   - [Turquoise / L](https://nexsorahome.com/products/15-12-10cm-ultra-thin-flip-bucket-shoe-cabinet-household-steel-door-extremely-narrow-integrated-shoe-rack-entrance-shoe-stand?variant=42958137360482)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S5a19dd2766f646aa8e4c0b4acaf5924c2.webp?v=1779498581
-    Price: $105.95 AUD
+    Price: $91.95 AUD
   - [Other / L](https://nexsorahome.com/products/15-12-10cm-ultra-thin-flip-bucket-shoe-cabinet-household-steel-door-extremely-narrow-integrated-shoe-rack-entrance-shoe-stand?variant=42958137393250)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S6c5e37b8e94a4b7c9d3e9b974da196a0v.webp?v=1779498580
-    Price: $114.95 AUD
+    Price: $99.95 AUD
   - [Grey / L](https://nexsorahome.com/products/15-12-10cm-ultra-thin-flip-bucket-shoe-cabinet-household-steel-door-extremely-narrow-integrated-shoe-rack-entrance-shoe-stand?variant=42958137426018)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S22d955bfb1194cbf87327a96ab44a9f7X.webp?v=1779498581
-    Price: $117.95 AUD
+    Price: $102.95 AUD
   - [ROYAL BLUE / L](https://nexsorahome.com/products/15-12-10cm-ultra-thin-flip-bucket-shoe-cabinet-household-steel-door-extremely-narrow-integrated-shoe-rack-entrance-shoe-stand?variant=42958137458786)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S79ed70c31e584e24b9d4a7b209c6b3e3v.webp?v=1779498580
-    Price: $125.95 AUD
+    Price: $108.95 AUD
   - [Khaki / L](https://nexsorahome.com/products/15-12-10cm-ultra-thin-flip-bucket-shoe-cabinet-household-steel-door-extremely-narrow-integrated-shoe-rack-entrance-shoe-stand?variant=42958137491554)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sbb87fd955ac64d258cfada6eeabea6245.webp?v=1779498581
-    Price: $103.95 AUD
+    Price: $89.95 AUD
   - [Burgundy / L](https://nexsorahome.com/products/15-12-10cm-ultra-thin-flip-bucket-shoe-cabinet-household-steel-door-extremely-narrow-integrated-shoe-rack-entrance-shoe-stand?variant=42958137524322)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sb68fe0743225443890e88dc37a18afa5R.webp?v=1779498581
-    Price: $117.95 AUD
+    Price: $102.95 AUD
   - [VIOLET/紫罗兰 / L](https://nexsorahome.com/products/15-12-10cm-ultra-thin-flip-bucket-shoe-cabinet-household-steel-door-extremely-narrow-integrated-shoe-rack-entrance-shoe-stand?variant=42958137557090)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S81958b281f454ba78823dd1ec8d8ad5an.webp?v=1779498581
-    Price: $121.95 AUD
+    Price: $105.95 AUD
   - [Light Yellow / L](https://nexsorahome.com/products/15-12-10cm-ultra-thin-flip-bucket-shoe-cabinet-household-steel-door-extremely-narrow-integrated-shoe-rack-entrance-shoe-stand?variant=42958137589858)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S8fd5c651a146416295c9ef0437e12187a.webp?v=1779498581
-    Price: $126.95 AUD
+    Price: $109.95 AUD
   - [Transparent / L](https://nexsorahome.com/products/15-12-10cm-ultra-thin-flip-bucket-shoe-cabinet-household-steel-door-extremely-narrow-integrated-shoe-rack-entrance-shoe-stand?variant=42958137622626)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sfc4659257b964f26b19dea45f55be072Y.webp?v=1779498580
-    Price: $92.95 AUD
+    Price: $80.95 AUD
   - [PURPLE / L](https://nexsorahome.com/products/15-12-10cm-ultra-thin-flip-bucket-shoe-cabinet-household-steel-door-extremely-narrow-integrated-shoe-rack-entrance-shoe-stand?variant=42958137655394)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S88d42f2b431640d4a5d3d4e732f9c0ddb.webp?v=1779498581
-    Price: $116.95 AUD
+    Price: $100.95 AUD
   - [Brown / L](https://nexsorahome.com/products/15-12-10cm-ultra-thin-flip-bucket-shoe-cabinet-household-steel-door-extremely-narrow-integrated-shoe-rack-entrance-shoe-stand?variant=42958137688162)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sa7752d924a0c4998b79b40a98b2a51efK.webp?v=1779498581
-    Price: $119.95 AUD
+    Price: $103.95 AUD
   - [MULTI / L](https://nexsorahome.com/products/15-12-10cm-ultra-thin-flip-bucket-shoe-cabinet-household-steel-door-extremely-narrow-integrated-shoe-rack-entrance-shoe-stand?variant=42958137720930)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sd6991c8e0b90433d927633a6529c4f41w.webp?v=1779498581
-    Price: $125.95 AUD
+    Price: $108.95 AUD
   - [Clear / L](https://nexsorahome.com/products/15-12-10cm-ultra-thin-flip-bucket-shoe-cabinet-household-steel-door-extremely-narrow-integrated-shoe-rack-entrance-shoe-stand?variant=42958137753698)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S8df92022b9a344b08739229919a0438dq.webp?v=1779498581
-    Price: $105.95 AUD
+    Price: $91.95 AUD
 - [9-Tier Vertical Shoe Rack – Tall Narrow Organizer | Nexsora Home](https://nexsorahome.com/products/9-tier-vertical-shoe-rack-space-saving-tall-narrow-design-for-entranceways-easy-to-assemble-home-organization-storage): 9-tier tall narrow shoe rack perfect for entryways & small spaces. Easy assembly, holds 9 pairs. Space-saving home storage. Shop Nexsora Home.
-  Updated: 2026-05-25T06:56:20Z
+  Updated: 2026-06-02T07:11:54Z
   Vendor: Nexsora Home
   Product Type: Shoe Rack
   Availability: Available
@@ -571,7 +557,7 @@ delivery. Shop at nexsorahome.com.
   - [5th floor / orange-1pc](https://nexsorahome.com/products/9-tier-vertical-shoe-rack-space-saving-tall-narrow-design-for-entranceways-easy-to-assemble-home-organization-storage?variant=42958145421410)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sc12096a4bb7f4f9eaa008f66bb0fa64bz.webp?v=1779498601
-    Price: $70.95 AUD
+    Price: $71.95 AUD
   - [6th floor / blue-1pc](https://nexsorahome.com/products/9-tier-vertical-shoe-rack-space-saving-tall-narrow-design-for-entranceways-easy-to-assemble-home-organization-storage?variant=42958145454178)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S1d1508407897460393234020f3bdd94cs.webp?v=1779498601
@@ -579,7 +565,7 @@ delivery. Shop at nexsorahome.com.
   - [9th floor. / green-1pc](https://nexsorahome.com/products/9-tier-vertical-shoe-rack-space-saving-tall-narrow-design-for-entranceways-easy-to-assemble-home-organization-storage?variant=42958145486946)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S3910f73096734740978ebc0f518f50ffX.webp?v=1779498601
-    Price: $104.95 AUD
+    Price: $100.95 AUD
   - [4th floor / blue-1pc](https://nexsorahome.com/products/9-tier-vertical-shoe-rack-space-saving-tall-narrow-design-for-entranceways-easy-to-assemble-home-organization-storage?variant=42958145519714)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S1d1508407897460393234020f3bdd94cs.webp?v=1779498601
@@ -591,11 +577,11 @@ delivery. Shop at nexsorahome.com.
   - [7th floor / green-1pc](https://nexsorahome.com/products/9-tier-vertical-shoe-rack-space-saving-tall-narrow-design-for-entranceways-easy-to-assemble-home-organization-storage?variant=42958145585250)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S3910f73096734740978ebc0f518f50ffX.webp?v=1779498601
-    Price: $86.95 AUD
+    Price: $87.95 AUD
   - [8th floor / green-1pc](https://nexsorahome.com/products/9-tier-vertical-shoe-rack-space-saving-tall-narrow-design-for-entranceways-easy-to-assemble-home-organization-storage?variant=42958145618018)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S3910f73096734740978ebc0f518f50ffX.webp?v=1779498601
-    Price: $97.95 AUD
+    Price: $98.95 AUD
   - [5th floor / green-1pc](https://nexsorahome.com/products/9-tier-vertical-shoe-rack-space-saving-tall-narrow-design-for-entranceways-easy-to-assemble-home-organization-storage?variant=42958145650786)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S3910f73096734740978ebc0f518f50ffX.webp?v=1779498601
@@ -635,9 +621,9 @@ delivery. Shop at nexsorahome.com.
   - [7th floor / orange-1pc](https://nexsorahome.com/products/9-tier-vertical-shoe-rack-space-saving-tall-narrow-design-for-entranceways-easy-to-assemble-home-organization-storage?variant=42958145945698)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sc12096a4bb7f4f9eaa008f66bb0fa64bz.webp?v=1779498601
-    Price: $57.95 AUD
+    Price: $58.95 AUD
 - [Portable Folding Shoe Rack – Multi-Tier Organizer | Nexsora Home](https://nexsorahome.com/products/portable-folding-shoe-rack-required-space-saving-shoe-shelf-for-dormitory-apartment-rental-multi-tier-shoe-organizer-storage): Foldable multi-tier shoe rack perfect for dorms, apartments & rentals. Space-saving, portable & easy to set up. Shop Nexsora Home.
-  Updated: 2026-05-25T06:56:34Z
+  Updated: 2026-06-02T07:11:53Z
   Vendor: Nexsora Home
   Product Type: Shoe Rack
   Availability: Available
@@ -645,37 +631,37 @@ delivery. Shop at nexsorahome.com.
   - [A Six layers 70cm](https://nexsorahome.com/products/portable-folding-shoe-rack-required-space-saving-shoe-shelf-for-dormitory-apartment-rental-multi-tier-shoe-organizer-storage?variant=42958146404450)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S12898cf3ba3e48b394b55d9a5da40a52l.webp?v=1779498679
-    Price: $74.95 AUD
+    Price: $80.95 AUD
   - [B four layers 70cm](https://nexsorahome.com/products/portable-folding-shoe-rack-required-space-saving-shoe-shelf-for-dormitory-apartment-rental-multi-tier-shoe-organizer-storage?variant=42958146437218)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S45ec675de9e4431697fe5da11449b754e.webp?v=1779498680
-    Price: $59.95 AUD
+    Price: $62.95 AUD
   - [B five layers 70cm](https://nexsorahome.com/products/portable-folding-shoe-rack-required-space-saving-shoe-shelf-for-dormitory-apartment-rental-multi-tier-shoe-organizer-storage?variant=42958146469986)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S6aca95cf80b941c3a82a03b5f8087cfbZ.webp?v=1779498679
-    Price: $67.95 AUD
+    Price: $72.95 AUD
   - [B three layers 70cm](https://nexsorahome.com/products/portable-folding-shoe-rack-required-space-saving-shoe-shelf-for-dormitory-apartment-rental-multi-tier-shoe-organizer-storage?variant=42958146502754)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S39cfa1c14d6e4c7aa5625a60b24d23413.webp?v=1779498680
-    Price: $46.95 AUD
+    Price: $48.95 AUD
   - [A four layers 70cm](https://nexsorahome.com/products/portable-folding-shoe-rack-required-space-saving-shoe-shelf-for-dormitory-apartment-rental-multi-tier-shoe-organizer-storage?variant=42958146535522)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S5524a3c2ddde49069d76d3f41e1991c0s.webp?v=1779498679
-    Price: $55.95 AUD
+    Price: $59.95 AUD
   - [A five layers 70cm](https://nexsorahome.com/products/portable-folding-shoe-rack-required-space-saving-shoe-shelf-for-dormitory-apartment-rental-multi-tier-shoe-organizer-storage?variant=42958146568290)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sbd67b3131cdb41348875139437b4081cf.webp?v=1779498679
-    Price: $67.95 AUD
+    Price: $72.95 AUD
   - [B Six layers 70cm](https://nexsorahome.com/products/portable-folding-shoe-rack-required-space-saving-shoe-shelf-for-dormitory-apartment-rental-multi-tier-shoe-organizer-storage?variant=42958146601058)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sca74e7179a694bc38915e98c13cd10c4K.webp?v=1779498680
-    Price: $74.95 AUD
+    Price: $80.95 AUD
   - [A three layers 70cm](https://nexsorahome.com/products/portable-folding-shoe-rack-required-space-saving-shoe-shelf-for-dormitory-apartment-rental-multi-tier-shoe-organizer-storage?variant=42958146633826)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S9714c85f2c354d22873c18c33949d09ay.webp?v=1779498684
-    Price: $49.95 AUD
+    Price: $52.95 AUD
 - [Corner Shoe Rack Organizer – 4 to 8 Tier | Nexsora Home](https://nexsorahome.com/products/corner-shoe-rack-4-to-8-tier-space-saving-organizer-for-entryway-dorm-home-natural-adjustable-shoe-storage-1): Shop the adjustable 4–8 tier corner shoe rack. Space-saving natural design perfect for entryways, dorms & bedrooms. Holds 32+ pairs. Easy assembly.
-  Updated: 2026-05-25T06:56:24Z
+  Updated: 2026-06-02T07:11:51Z
   Vendor: Nexsora Home
   Product Type: Shoe Rack
   Availability: Available
@@ -683,21 +669,21 @@ delivery. Shop at nexsorahome.com.
   - [D](https://nexsorahome.com/products/corner-shoe-rack-4-to-8-tier-space-saving-organizer-for-entryway-dorm-home-natural-adjustable-shoe-storage-1?variant=42958146863202)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sf14b031cf0ab4c299a6f061983f1ad77k_bedf1705-8f3b-4ad9-b677-55660c4d3151.webp?v=1779498722
-    Price: $88.95 AUD
+    Price: $82.95 AUD
   - [B](https://nexsorahome.com/products/corner-shoe-rack-4-to-8-tier-space-saving-organizer-for-entryway-dorm-home-natural-adjustable-shoe-storage-1?variant=42958146895970)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S821b9f91a1a44ffda8d3433082e7e667W_8dc76b93-3ce5-486f-983b-a156da4ffc33.webp?v=1779498722
-    Price: $78.95 AUD
+    Price: $74.95 AUD
   - [C](https://nexsorahome.com/products/corner-shoe-rack-4-to-8-tier-space-saving-organizer-for-entryway-dorm-home-natural-adjustable-shoe-storage-1?variant=42958146928738)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S3f380541b2374357b9a3819a5bef4ae46_c085df10-06a7-4cbf-b5c8-48bc21acf4f5.webp?v=1779498722
-    Price: $79.95 AUD
+    Price: $73.95 AUD
   - [A](https://nexsorahome.com/products/corner-shoe-rack-4-to-8-tier-space-saving-organizer-for-entryway-dorm-home-natural-adjustable-shoe-storage-1?variant=42958146961506)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sb5ebcad600be4cf6b8687cf7c696a037N_c3ffae40-50c3-48ce-99e6-bfa06fc88e18.webp?v=1779498721
-    Price: $71.95 AUD
+    Price: $67.95 AUD
 - [Over-the-Sink Dish Rack with Utensil Holder | Nexsora Home](https://nexsorahome.com/products/over-the-sink-dish-rack-with-utensil-holder-dustproof-carbon-steel-organizer-for-plates-bowls-cutting-boards-space-kitchen): Dustproof carbon steel over-the-sink dish rack with utensil holder. Organises plates, bowls & cutting boards. Saves bench space. Shop Nexsora Home.
-  Updated: 2026-05-25T06:56:27Z
+  Updated: 2026-06-02T07:11:52Z
   Vendor: Nexsora Home
   Product Type: Dish Rack
   Availability: Available
@@ -705,45 +691,45 @@ delivery. Shop at nexsorahome.com.
   - [black / 85CM](https://nexsorahome.com/products/over-the-sink-dish-rack-with-utensil-holder-dustproof-carbon-steel-organizer-for-plates-bowls-cutting-boards-space-kitchen?variant=42958147092578)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sd479e5d067a74499b8f3c53d711eb1bfp.webp?v=1779498744
-    Price: $123.95 AUD
+    Price: $116.95 AUD
   - [black / 75CM](https://nexsorahome.com/products/over-the-sink-dish-rack-with-utensil-holder-dustproof-carbon-steel-organizer-for-plates-bowls-cutting-boards-space-kitchen?variant=42958147125346)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sd479e5d067a74499b8f3c53d711eb1bfp.webp?v=1779498744
-    Price: $115.95 AUD
+    Price: $108.95 AUD
   - [black / 65CM](https://nexsorahome.com/products/over-the-sink-dish-rack-with-utensil-holder-dustproof-carbon-steel-organizer-for-plates-bowls-cutting-boards-space-kitchen?variant=42958147158114)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sd479e5d067a74499b8f3c53d711eb1bfp.webp?v=1779498744
-    Price: $114.95 AUD
+    Price: $107.95 AUD
   - [Ivory / 75CM](https://nexsorahome.com/products/over-the-sink-dish-rack-with-utensil-holder-dustproof-carbon-steel-organizer-for-plates-bowls-cutting-boards-space-kitchen?variant=42958147190882)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S37659171c1954c93a959c2f8e699dcc1A.webp?v=1779498744
-    Price: $115.95 AUD
+    Price: $108.95 AUD
   - [Ivory / 65CM](https://nexsorahome.com/products/over-the-sink-dish-rack-with-utensil-holder-dustproof-carbon-steel-organizer-for-plates-bowls-cutting-boards-space-kitchen?variant=42958147223650)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S37659171c1954c93a959c2f8e699dcc1A.webp?v=1779498744
-    Price: $114.95 AUD
+    Price: $107.95 AUD
   - [black / 105cm](https://nexsorahome.com/products/over-the-sink-dish-rack-with-utensil-holder-dustproof-carbon-steel-organizer-for-plates-bowls-cutting-boards-space-kitchen?variant=42958147256418)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sd479e5d067a74499b8f3c53d711eb1bfp.webp?v=1779498744
-    Price: $133.95 AUD
+    Price: $125.95 AUD
   - [black / 95CM](https://nexsorahome.com/products/over-the-sink-dish-rack-with-utensil-holder-dustproof-carbon-steel-organizer-for-plates-bowls-cutting-boards-space-kitchen?variant=42958147289186)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sd479e5d067a74499b8f3c53d711eb1bfp.webp?v=1779498744
-    Price: $129.95 AUD
+    Price: $121.95 AUD
   - [Ivory / 105cm](https://nexsorahome.com/products/over-the-sink-dish-rack-with-utensil-holder-dustproof-carbon-steel-organizer-for-plates-bowls-cutting-boards-space-kitchen?variant=42958147321954)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S37659171c1954c93a959c2f8e699dcc1A.webp?v=1779498744
-    Price: $133.95 AUD
+    Price: $125.95 AUD
   - [Ivory / 95CM](https://nexsorahome.com/products/over-the-sink-dish-rack-with-utensil-holder-dustproof-carbon-steel-organizer-for-plates-bowls-cutting-boards-space-kitchen?variant=42958147354722)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S37659171c1954c93a959c2f8e699dcc1A.webp?v=1779498744
-    Price: $129.95 AUD
+    Price: $121.95 AUD
   - [Ivory / 85CM](https://nexsorahome.com/products/over-the-sink-dish-rack-with-utensil-holder-dustproof-carbon-steel-organizer-for-plates-bowls-cutting-boards-space-kitchen?variant=42958147387490)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S37659171c1954c93a959c2f8e699dcc1A.webp?v=1779498744
-    Price: $210.95 AUD
+    Price: $198.95 AUD
 - [Automatic Gravity-Fed Cat Water Dispenser & Feeder | Nexsora Home](https://nexsorahome.com/products/1-pack-automatic-gravity-fed-cat-water-dispenser-feeder-spill-proof-large-capacity-one-piece-design): Spill-proof gravity-fed cat water dispenser & feeder. Large capacity, one-piece design, no power needed. Easy pet care. Shop Nexsora Home.
-  Updated: 2026-05-26T05:18:57Z
+  Updated: 2026-06-02T06:08:38Z
   Vendor: Nexsora Home
   Product Type: Pet Feeder
   Availability: Available
@@ -755,7 +741,7 @@ delivery. Shop at nexsorahome.com.
   - [Blue](https://nexsorahome.com/products/1-pack-automatic-gravity-fed-cat-water-dispenser-feeder-spill-proof-large-capacity-one-piece-design?variant=42958227144802)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S9d2ddc2425934462abc975798d49c2569.webp?v=1779502474
-    Price: $38.95 AUD
+    Price: $39.95 AUD
   - [Gray](https://nexsorahome.com/products/1-pack-automatic-gravity-fed-cat-water-dispenser-feeder-spill-proof-large-capacity-one-piece-design?variant=42958227177570)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S45339a72dec54e41899ee9579c2c8e89w.webp?v=1779502474
@@ -763,11 +749,11 @@ delivery. Shop at nexsorahome.com.
   - [Pink](https://nexsorahome.com/products/1-pack-automatic-gravity-fed-cat-water-dispenser-feeder-spill-proof-large-capacity-one-piece-design?variant=42958227210338)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Se8a068ff31dd4ddf9e9200319f0c389bJ.webp?v=1779502474
-    Price: $30.95 AUD
+    Price: $31.95 AUD
   - [Yellow](https://nexsorahome.com/products/1-pack-automatic-gravity-fed-cat-water-dispenser-feeder-spill-proof-large-capacity-one-piece-design?variant=42958227243106)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sb4c042e4ca0d4ad0a32ebbe0db833866j.webp?v=1779502473
-    Price: $43.95 AUD
+    Price: $44.95 AUD
   - [Pink 1](https://nexsorahome.com/products/1-pack-automatic-gravity-fed-cat-water-dispenser-feeder-spill-proof-large-capacity-one-piece-design?variant=42958227275874)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S81a48209fae0494a963173773992ad1ev.webp?v=1779502473
@@ -775,21 +761,21 @@ delivery. Shop at nexsorahome.com.
   - [Gray 1](https://nexsorahome.com/products/1-pack-automatic-gravity-fed-cat-water-dispenser-feeder-spill-proof-large-capacity-one-piece-design?variant=42958227308642)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S05655c2f4982415e932715954f02ec47O.webp?v=1779502473
-    Price: $34.95 AUD
+    Price: $35.95 AUD
   - [Blue 1](https://nexsorahome.com/products/1-pack-automatic-gravity-fed-cat-water-dispenser-feeder-spill-proof-large-capacity-one-piece-design?variant=42958227341410)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S5e4da92443ff4ec081d6adae8a9bd62bw.webp?v=1779502473
-    Price: $27.95 AUD
+    Price: $28.95 AUD
   - [Blue 2](https://nexsorahome.com/products/1-pack-automatic-gravity-fed-cat-water-dispenser-feeder-spill-proof-large-capacity-one-piece-design?variant=42958227374178)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S0d66ecf23ceb419f91d04a74f6bb9ee5M.webp?v=1779502474
-    Price: $43.95 AUD
+    Price: $44.95 AUD
   - [Gray 2](https://nexsorahome.com/products/1-pack-automatic-gravity-fed-cat-water-dispenser-feeder-spill-proof-large-capacity-one-piece-design?variant=42958227406946)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S0c1f635a29f042c98cc302c7270995a3R.webp?v=1779502473
     Price: $27.95 AUD
 - [4.5L Smart Auto Pet Feeder & Water Fountain – TuYa App | Nexsora Home](https://nexsorahome.com/products/4-5l-tuya-app-automatic-pet-water-fountain-feeder-button-version-auto-cat-drink-smart-dispenser-for-cats-dog-dry-food-bowl): 4.5L TuYa app-controlled automatic pet feeder & water fountain for cats & dogs. Schedule meals, dispense remotely. Shop Nexsora Home.
-  Updated: 2026-05-26T00:19:54Z
+  Updated: 2026-06-02T07:12:02Z
   Vendor: Nexsora Home
   Product Type: Pet Feeder
   Availability: Available
@@ -801,37 +787,37 @@ delivery. Shop at nexsorahome.com.
   - [4.5L WiFi Feeder A](https://nexsorahome.com/products/4-5l-tuya-app-automatic-pet-water-fountain-feeder-button-version-auto-cat-drink-smart-dispenser-for-cats-dog-dry-food-bowl?variant=42958227636322)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S5bf4db3422274bc5956e3ab5bbb91cc4K.webp?v=1779502530
-    Price: $170.95 AUD
+    Price: $167.95 AUD
   - [4.5L Button Black B](https://nexsorahome.com/products/4-5l-tuya-app-automatic-pet-water-fountain-feeder-button-version-auto-cat-drink-smart-dispenser-for-cats-dog-dry-food-bowl?variant=42958227669090)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S9a1b4bd93e4249f28bde1f54adbd6b04q.webp?v=1779502530
-    Price: $151.95 AUD
+    Price: $149.95 AUD
   - [4.5L WiFi Black B](https://nexsorahome.com/products/4-5l-tuya-app-automatic-pet-water-fountain-feeder-button-version-auto-cat-drink-smart-dispenser-for-cats-dog-dry-food-bowl?variant=42958227701858)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S698211a277c14dac838d68f38f813bd1R.webp?v=1779502530
-    Price: $166.95 AUD
+    Price: $163.95 AUD
   - [4.5L Button White B](https://nexsorahome.com/products/4-5l-tuya-app-automatic-pet-water-fountain-feeder-button-version-auto-cat-drink-smart-dispenser-for-cats-dog-dry-food-bowl?variant=42958227734626)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sbf1b2cc7ac4742919de5c8b60f8e278fE.webp?v=1779502530
-    Price: $154.95 AUD
+    Price: $151.95 AUD
   - [4.5L WiFi White B](https://nexsorahome.com/products/4-5l-tuya-app-automatic-pet-water-fountain-feeder-button-version-auto-cat-drink-smart-dispenser-for-cats-dog-dry-food-bowl?variant=42958227767394)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S857401b0625345a4b5ae9615541793d5W.webp?v=1779502530
-    Price: $166.95 AUD
+    Price: $163.95 AUD
   - [Only Pet Water](https://nexsorahome.com/products/4-5l-tuya-app-automatic-pet-water-fountain-feeder-button-version-auto-cat-drink-smart-dispenser-for-cats-dog-dry-food-bowl?variant=42958227800162)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S0df2502a9dd34a5ab612cf87f586dc6fO.webp?v=1779502531
-    Price: $67.95 AUD
+    Price: $66.95 AUD
   - [Pet Water 4chip](https://nexsorahome.com/products/4-5l-tuya-app-automatic-pet-water-fountain-feeder-button-version-auto-cat-drink-smart-dispenser-for-cats-dog-dry-food-bowl?variant=42958227832930)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S27bab201a62b4021965b58eef0301ee5h.webp?v=1779502531
-    Price: $71.95 AUD
+    Price: $69.95 AUD
   - [4chip Sensor](https://nexsorahome.com/products/4-5l-tuya-app-automatic-pet-water-fountain-feeder-button-version-auto-cat-drink-smart-dispenser-for-cats-dog-dry-food-bowl?variant=42958227865698)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S6df3b65969da45b881092e91cdf604e7O.webp?v=1779502530
     Price: $77.95 AUD
 - [Pet Drying Box – Portable Blow Dry Bag for Cats & Dogs | Nexsora Home](https://nexsorahome.com/products/pet-drying-box-cat-bath-blow-anti-escape-artifact-for-puppies-and-dogs-blow-drying-bag-household-water-dryer-portable-cat-cage): Portable pet drying box for cats & dogs. Anti-escape design, hands-free blow drying at home. Stress-free grooming made easy. Shop Nexsora Home.
-  Updated: 2026-05-25T06:56:35Z
+  Updated: 2026-06-02T07:12:00Z
   Vendor: Nexsora Home
   Product Type: Pet Grooming
   Availability: Available
@@ -839,25 +825,25 @@ delivery. Shop at nexsorahome.com.
   - [Dryer](https://nexsorahome.com/products/pet-drying-box-cat-bath-blow-anti-escape-artifact-for-puppies-and-dogs-blow-drying-bag-household-water-dryer-portable-cat-cage?variant=42958228029538)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S9cc09aed523440a09bd721cd23967025s.webp?v=1779502569
-    Price: $59.95 AUD
+    Price: $57.95 AUD
   - [blue](https://nexsorahome.com/products/pet-drying-box-cat-bath-blow-anti-escape-artifact-for-puppies-and-dogs-blow-drying-bag-household-water-dryer-portable-cat-cage?variant=42958228062306)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S5f5c158a69bb4a9a91fbe7088cf257deg.webp?v=1779502569
-    Price: $61.95 AUD
+    Price: $59.95 AUD
   - [purple](https://nexsorahome.com/products/pet-drying-box-cat-bath-blow-anti-escape-artifact-for-puppies-and-dogs-blow-drying-bag-household-water-dryer-portable-cat-cage?variant=42958228095074)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S112049c1a9224504a98c31c7349359f4B.webp?v=1779502569
-    Price: $49.95 AUD
+    Price: $47.95 AUD
   - [Blue suit](https://nexsorahome.com/products/pet-drying-box-cat-bath-blow-anti-escape-artifact-for-puppies-and-dogs-blow-drying-bag-household-water-dryer-portable-cat-cage?variant=42958228127842)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sc42ec9db0d74420fa2b43b0ed2215a36V.webp?v=1779502569
-    Price: $133.95 AUD
+    Price: $128.95 AUD
   - [Purple suit](https://nexsorahome.com/products/pet-drying-box-cat-bath-blow-anti-escape-artifact-for-puppies-and-dogs-blow-drying-bag-household-water-dryer-portable-cat-cage?variant=42958228160610)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S45f90ab537ed4c5694f081474f6ccb76Y.webp?v=1779502569
-    Price: $88.95 AUD
+    Price: $85.95 AUD
 - [WiFi Smart Pet Feeder & Water Fountain Set with Camera | Nexsora Home](https://nexsorahome.com/products/wifi-smart-cat-feeder-water-fountain-set-with-camera-auto-pet-feeder-remote-control-voice-interaction-for-cats-dogs-fedder-set): Auto WiFi pet feeder & water fountain set with camera, voice interaction & remote control. Perfect for cats & dogs. Shop Nexsora Home.
-  Updated: 2026-05-25T06:56:30Z
+  Updated: 2026-06-02T07:12:04Z
   Vendor: Nexsora Home
   Product Type: Pet Feeder
   Availability: Available
@@ -869,29 +855,29 @@ delivery. Shop at nexsorahome.com.
   - [Video set](https://nexsorahome.com/products/wifi-smart-cat-feeder-water-fountain-set-with-camera-auto-pet-feeder-remote-control-voice-interaction-for-cats-dogs-fedder-set?variant=42958228258914)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S5cc9629ea0de409b8e9fd6cc00316ee2R.webp?v=1779502594
-    Price: $222.95 AUD
+    Price: $205.95 AUD
   - [WIFI set](https://nexsorahome.com/products/wifi-smart-cat-feeder-water-fountain-set-with-camera-auto-pet-feeder-remote-control-voice-interaction-for-cats-dogs-fedder-set?variant=42958228291682)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sfb82043f98cc4aa780c3a21accc9c5d5m.webp?v=1779502595
-    Price: $198.95 AUD
+    Price: $183.95 AUD
   - [Button set](https://nexsorahome.com/products/wifi-smart-cat-feeder-water-fountain-set-with-camera-auto-pet-feeder-remote-control-voice-interaction-for-cats-dogs-fedder-set?variant=42958228324450)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sc55cba81ee8043cd83065e04577103794.webp?v=1779502595
-    Price: $183.95 AUD
+    Price: $173.95 AUD
   - [video model](https://nexsorahome.com/products/wifi-smart-cat-feeder-water-fountain-set-with-camera-auto-pet-feeder-remote-control-voice-interaction-for-cats-dogs-fedder-set?variant=42958228357218)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S2a5d74a86f444f5d87e63806344a47c2k.webp?v=1779502594
-    Price: $184.95 AUD
+    Price: $170.95 AUD
   - [WIFI model](https://nexsorahome.com/products/wifi-smart-cat-feeder-water-fountain-set-with-camera-auto-pet-feeder-remote-control-voice-interaction-for-cats-dogs-fedder-set?variant=42958228389986)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S9f0769e5fa264262875bbcb4dc8a7b79V.webp?v=1779502595
-    Price: $155.95 AUD
+    Price: $146.95 AUD
   - [button model](https://nexsorahome.com/products/wifi-smart-cat-feeder-water-fountain-set-with-camera-auto-pet-feeder-remote-control-voice-interaction-for-cats-dogs-fedder-set?variant=42958228422754)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sa44d1bd9aae24c3dbf8fb4ef1c2d4bafb.webp?v=1779502594
-    Price: $140.95 AUD
+    Price: $132.95 AUD
 - [2-3 Tier Adjustable Metal Spice Rack & Knife Storage | Nexsora Home](https://nexsorahome.com/products/2-3-tier-adjustable-metal-spice-rack-storage-box-freestanding-multifunctional-kitchen-storage-rack-with-spice-protection-and-fixing-device-kitchen-organizer-and-storage-sturdy-rack-hook-structure-knife-storage-rack-comp): Adjustable 2-3 tier freestanding metal spice rack with knife storage, hooks & spice guards. Multifunctional kitchen organizer. Shop Nexsora Home.
-  Updated: 2026-05-25T06:57:02Z
+  Updated: 2026-06-02T07:11:59Z
   Vendor: Nexsora Home
   Product Type: Kitchen Organizer
   Availability: Available
@@ -899,37 +885,37 @@ delivery. Shop at nexsorahome.com.
   - [Black 2 50cm Simple](https://nexsorahome.com/products/2-3-tier-adjustable-metal-spice-rack-storage-box-freestanding-multifunctional-kitchen-storage-rack-with-spice-protection-and-fixing-device-kitchen-organizer-and-storage-sturdy-rack-hook-structure-knife-storage-rack-comp?variant=42958313357410)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Se316dcbf42e54854acc538d0a3ac0a66C.webp?v=1779506049
-    Price: $42.95 AUD
+    Price: $39.95 AUD
   - [Black 3 40cm Complex](https://nexsorahome.com/products/2-3-tier-adjustable-metal-spice-rack-storage-box-freestanding-multifunctional-kitchen-storage-rack-with-spice-protection-and-fixing-device-kitchen-organizer-and-storage-sturdy-rack-hook-structure-knife-storage-rack-comp?variant=42958313390178)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sf4f2e5de127645daadafaaf16ab10b14Y.webp?v=1779506049
-    Price: $46.95 AUD
+    Price: $43.95 AUD
   - [Black 2 40cm Complex](https://nexsorahome.com/products/2-3-tier-adjustable-metal-spice-rack-storage-box-freestanding-multifunctional-kitchen-storage-rack-with-spice-protection-and-fixing-device-kitchen-organizer-and-storage-sturdy-rack-hook-structure-knife-storage-rack-comp?variant=42958313422946)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S883fae16d47c419980c314b3e73a1113R.webp?v=1779506049
-    Price: $39.95 AUD
+    Price: $37.95 AUD
   - [Black 3 40cm Simple](https://nexsorahome.com/products/2-3-tier-adjustable-metal-spice-rack-storage-box-freestanding-multifunctional-kitchen-storage-rack-with-spice-protection-and-fixing-device-kitchen-organizer-and-storage-sturdy-rack-hook-structure-knife-storage-rack-comp?variant=42958313455714)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sed540f5bcf814c029db39977290a7dfdc.webp?v=1779506049
-    Price: $44.95 AUD
+    Price: $41.95 AUD
   - [Black 3 50cm Complex](https://nexsorahome.com/products/2-3-tier-adjustable-metal-spice-rack-storage-box-freestanding-multifunctional-kitchen-storage-rack-with-spice-protection-and-fixing-device-kitchen-organizer-and-storage-sturdy-rack-hook-structure-knife-storage-rack-comp?variant=42958313488482)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S2e0c26475e7b4637904ad7225413520cd.webp?v=1779506050
-    Price: $48.95 AUD
+    Price: $47.95 AUD
   - [Black 2 50cm Complex](https://nexsorahome.com/products/2-3-tier-adjustable-metal-spice-rack-storage-box-freestanding-multifunctional-kitchen-storage-rack-with-spice-protection-and-fixing-device-kitchen-organizer-and-storage-sturdy-rack-hook-structure-knife-storage-rack-comp?variant=42958313521250)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S908f1a5ee3d64f14af1f25a5c85a6f50G.webp?v=1779506050
-    Price: $43.95 AUD
+    Price: $41.95 AUD
   - [Black 3 50cm Simple](https://nexsorahome.com/products/2-3-tier-adjustable-metal-spice-rack-storage-box-freestanding-multifunctional-kitchen-storage-rack-with-spice-protection-and-fixing-device-kitchen-organizer-and-storage-sturdy-rack-hook-structure-knife-storage-rack-comp?variant=42958313554018)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S6f1835491de54dc49d89b0fff4d2d3d18.webp?v=1779506049
-    Price: $45.95 AUD
+    Price: $42.95 AUD
   - [Black 2 40cm Simple](https://nexsorahome.com/products/2-3-tier-adjustable-metal-spice-rack-storage-box-freestanding-multifunctional-kitchen-storage-rack-with-spice-protection-and-fixing-device-kitchen-organizer-and-storage-sturdy-rack-hook-structure-knife-storage-rack-comp?variant=42958313586786)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sc216c3daf86d4f02b7c17d5a183f8dabn.webp?v=1779506049
-    Price: $41.95 AUD
+    Price: $35.95 AUD
 - [Hole-Free Wall Mounted Knife & Cutlery Organizer | Nexsora Home](https://nexsorahome.com/products/hole-free-kitchen-storage-wall-mounted-multifunctional-knife-holder-tableware-drainboard-cutlery-organizer-organization-home): No-drill wall mounted knife holder & cutlery organizer with drainboard. Multifunctional kitchen storage for renters & small kitchens. Shop Nexsora Home.
-  Updated: 2026-05-25T06:56:44Z
+  Updated: 2026-06-02T07:11:56Z
   Vendor: Nexsora Home
   Product Type: Kitchen Organizer
   Availability: Available
@@ -941,7 +927,7 @@ delivery. Shop at nexsorahome.com.
   - [40cm](https://nexsorahome.com/products/hole-free-kitchen-storage-wall-mounted-multifunctional-knife-holder-tableware-drainboard-cutlery-organizer-organization-home?variant=42958313685090)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S3e7fa22c27cf4e7491d114a9e9785b3dX.webp?v=1779506080
-    Price: $31.95 AUD
+    Price: $30.95 AUD
   - [50cm](https://nexsorahome.com/products/hole-free-kitchen-storage-wall-mounted-multifunctional-knife-holder-tableware-drainboard-cutlery-organizer-organization-home?variant=42958313717858)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sc13716716e674376a359e84a2eae60819.webp?v=1779506080
@@ -949,9 +935,9 @@ delivery. Shop at nexsorahome.com.
   - [60cm](https://nexsorahome.com/products/hole-free-kitchen-storage-wall-mounted-multifunctional-knife-holder-tableware-drainboard-cutlery-organizer-organization-home?variant=42958313750626)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S1f348d70f37b4d7a8a71e9450dc93f836.webp?v=1779506080
-    Price: $54.95 AUD
+    Price: $53.95 AUD
 - [2-Layer Dish Drain Rack with Knife & Cup Holder | Nexsora Home](https://nexsorahome.com/products/2-layer-dish-drain-rack-is-suitable-for-kitchen-countertop-metal-dish-drain-rack-with-knife-cup-tableware-rack-with-drain-glass): 2-tier metal dish drain rack with knife block, cup holder & utensil rack. Integrated drain tray for kitchen countertops. Shop Nexsora Home.
-  Updated: 2026-05-25T06:56:50Z
+  Updated: 2026-06-02T07:12:08Z
   Vendor: Nexsora Home
   Product Type: Dish Rack
   Availability: Available
@@ -959,13 +945,13 @@ delivery. Shop at nexsorahome.com.
   - [D2 / 2-tier](https://nexsorahome.com/products/2-layer-dish-drain-rack-is-suitable-for-kitchen-countertop-metal-dish-drain-rack-with-knife-cup-tableware-rack-with-drain-glass?variant=42958317977698)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sa2b61298c1a4403a87683721e86fe567a.webp?v=1779506163
-    Price: $53.95 AUD
+    Price: $52.95 AUD
   - [Fully equipped / 2-tier](https://nexsorahome.com/products/2-layer-dish-drain-rack-is-suitable-for-kitchen-countertop-metal-dish-drain-rack-with-knife-cup-tableware-rack-with-drain-glass?variant=42958318010466)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sd4aec58967be413fbebc7a504ea7e856Y.webp?v=1779506163
-    Price: $56.95 AUD
+    Price: $55.95 AUD
 - [Electric Salt & Pepper Grinder Set – Rechargeable | Nexsora Home](https://nexsorahome.com/products/electric-salt-and-pepper-grinder-automatic-rechargeable-pepper-mill-shakers-adjustable-coarseness-kitchen-appliances): Rechargeable electric salt & pepper grinder set with adjustable coarseness. One-handed automatic grinding for home & dining. Shop Nexsora Home.
-  Updated: 2026-05-25T06:56:41Z
+  Updated: 2026-06-02T14:53:27Z
   Vendor: Nexsora Home
   Product Type: Kitchen Appliance
   Availability: Available
@@ -979,14 +965,14 @@ delivery. Shop at nexsorahome.com.
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sa7c52b00de7c4c76931e53719be74214M.webp?v=1779506238
     Price: $29.95 AUD
 - [Smart Automatic Toothpick Dispenser with Sensor | Nexsora Home](https://nexsorahome.com/products/smart-automatic-toothpick-dispenser-with-induction-sensor-for-home-hotel-restaurant-kitchen-office): Touchless automatic toothpick dispenser with induction sensor. Hygienic, sleek design for home, restaurant, hotel & office. Shop Nexsora Home.
-  Updated: 2026-05-25T06:56:26Z
+  Updated: 2026-06-02T07:12:05Z
   Vendor: Nexsora Home
   Product Type: Kitchen Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S4e2955f29e544635bd1ee99f562d8346z.webp?v=1779506281
-  Price: $57.95 AUD
+  Price: $58.95 AUD
 - [Portable 3-in-1 Espresso Machine | Capsule, Pod & Ground Coffee Maker | Nexsora Home](https://nexsorahome.com/products/wireless-electric-portable-espresso-coffee-machine-for-car-home-camping-coffee-maker-3-in-1-capsule-powder-travel-coffee-maker): Brew café-quality espresso anywhere with this 3-in-1 portable machine. Compatible with capsules, pods & ground coffee. 20-bar pressure, USB-C charging, 72W.
-  Updated: 2026-05-26T03:26:25Z
+  Updated: 2026-05-30T15:50:56Z
   Vendor: Nexsora Home
   Product Type: Coffee Maker
   Availability: Available
@@ -1010,13 +996,13 @@ delivery. Shop at nexsorahome.com.
   - [black 2.0](https://nexsorahome.com/products/wireless-electric-portable-espresso-coffee-machine-for-car-home-camping-coffee-maker-3-in-1-capsule-powder-travel-coffee-maker?variant=42960509796450)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sfbf505e00cff4adc9a731759c966199d9.webp?v=1779620350
-    Price: $116.95 AUD
+    Price: $115.95 AUD
   - [black 2.0 bag](https://nexsorahome.com/products/wireless-electric-portable-espresso-coffee-machine-for-car-home-camping-coffee-maker-3-in-1-capsule-powder-travel-coffee-maker?variant=42960509829218)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S668e602ba6d445b7957f4942d17697342.webp?v=1779620350
     Price: $119.95 AUD
 - [Wall-Mounted Spice Rack | Stainless Steel Kitchen Storage | Nexsora Home](https://nexsorahome.com/products/home-household-multi-functional-wall-mounted-spice-rack-stainless-steel-kitchen-storage-for-jars-bottles-organizador-de-cocina): Keep your kitchen tidy with this wall-mounted stainless steel spice rack. Holds jars, bottles & seasonings. Multiple sizes available. Shop Nexsora Home.
-  Updated: 2026-05-25T17:04:54Z
+  Updated: 2026-06-02T07:12:10Z
   Vendor: Nexsora Home
   Product Type: Kitchen Storage
   Availability: Available
@@ -1024,7 +1010,7 @@ delivery. Shop at nexsorahome.com.
   - [black6 / 5](https://nexsorahome.com/products/home-household-multi-functional-wall-mounted-spice-rack-stainless-steel-kitchen-storage-for-jars-bottles-organizador-de-cocina?variant=42962197020770)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Scfc65898b0154a2cac38adaec188f49f6.webp?v=1779685484
-    Price: $171.95 AUD
+    Price: $91.95 AUD
   - [black7 / 5](https://nexsorahome.com/products/home-household-multi-functional-wall-mounted-spice-rack-stainless-steel-kitchen-storage-for-jars-bottles-organizador-de-cocina?variant=42962197053538)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Scfc65898b0154a2cac38adaec188f49f6.webp?v=1779685484
@@ -1032,7 +1018,7 @@ delivery. Shop at nexsorahome.com.
   - [black4 / 5](https://nexsorahome.com/products/home-household-multi-functional-wall-mounted-spice-rack-stainless-steel-kitchen-storage-for-jars-bottles-organizador-de-cocina?variant=42962197086306)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Scfc65898b0154a2cac38adaec188f49f6.webp?v=1779685484
-    Price: $93.95 AUD
+    Price: $91.95 AUD
   - [black5 / 5](https://nexsorahome.com/products/home-household-multi-functional-wall-mounted-spice-rack-stainless-steel-kitchen-storage-for-jars-bottles-organizador-de-cocina?variant=42962197119074)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Scfc65898b0154a2cac38adaec188f49f6.webp?v=1779685484
@@ -1040,11 +1026,11 @@ delivery. Shop at nexsorahome.com.
   - [black0 / 5](https://nexsorahome.com/products/home-household-multi-functional-wall-mounted-spice-rack-stainless-steel-kitchen-storage-for-jars-bottles-organizador-de-cocina?variant=42962197151842)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Scfc65898b0154a2cac38adaec188f49f6.webp?v=1779685484
-    Price: $171.95 AUD
+    Price: $90.95 AUD
   - [black8 / 5](https://nexsorahome.com/products/home-household-multi-functional-wall-mounted-spice-rack-stainless-steel-kitchen-storage-for-jars-bottles-organizador-de-cocina?variant=42962197184610)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Scfc65898b0154a2cac38adaec188f49f6.webp?v=1779685484
-    Price: $63.95 AUD
+    Price: $62.95 AUD
   - [black9 / 5](https://nexsorahome.com/products/home-household-multi-functional-wall-mounted-spice-rack-stainless-steel-kitchen-storage-for-jars-bottles-organizador-de-cocina?variant=42962197217378)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Scfc65898b0154a2cac38adaec188f49f6.webp?v=1779685484
@@ -1088,7 +1074,7 @@ delivery. Shop at nexsorahome.com.
   - [black1 / 4](https://nexsorahome.com/products/home-household-multi-functional-wall-mounted-spice-rack-stainless-steel-kitchen-storage-for-jars-bottles-organizador-de-cocina?variant=42962197545058)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Scfc65898b0154a2cac38adaec188f49f6.webp?v=1779685484
-    Price: $171.95 AUD
+    Price: $91.95 AUD
   - [black8 / 3](https://nexsorahome.com/products/home-household-multi-functional-wall-mounted-spice-rack-stainless-steel-kitchen-storage-for-jars-bottles-organizador-de-cocina?variant=42962197577826)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Scfc65898b0154a2cac38adaec188f49f6.webp?v=1779685484
@@ -1096,7 +1082,7 @@ delivery. Shop at nexsorahome.com.
   - [black9 / 3](https://nexsorahome.com/products/home-household-multi-functional-wall-mounted-spice-rack-stainless-steel-kitchen-storage-for-jars-bottles-organizador-de-cocina?variant=42962197610594)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Scfc65898b0154a2cac38adaec188f49f6.webp?v=1779685484
-    Price: $44.95 AUD
+    Price: $43.95 AUD
   - [black4 / 4](https://nexsorahome.com/products/home-household-multi-functional-wall-mounted-spice-rack-stainless-steel-kitchen-storage-for-jars-bottles-organizador-de-cocina?variant=42962197643362)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Scfc65898b0154a2cac38adaec188f49f6.webp?v=1779685484
@@ -1222,25 +1208,14 @@ delivery. Shop at nexsorahome.com.
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Scfc65898b0154a2cac38adaec188f49f6.webp?v=1779685484
     Price: $171.95 AUD
 - [URAO Android 15 Tablet 10.1" 20GB RAM 64GB – Keyboard, Case, Mouse & More](https://nexsorahome.com/products/urao-android-15-tablet-10-1-inch-20gb-ram-64gb-rom-5-core-dual-camera-tablets-pc-set-keyboard-case-mouse-stylus-headphone): URAO 10.1-inch Android 15 tablet with 20GB RAM, 64GB ROM, 5-core processor, dual cameras, and full accessory bundle including keyboard, case, mouse, stylus & headphones.
-  Updated: 2026-05-25T22:11:27Z
+  Updated: 2026-06-02T04:43:24Z
   Vendor: Nexsora Home
   Product Type: Tablet Computers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S3665b58b3dda4044b9034efbe47c176f9.webp?v=1779703879
-  - [black tablet / EU](https://nexsorahome.com/products/urao-android-15-tablet-10-1-inch-20gb-ram-64gb-rom-5-core-dual-camera-tablets-pc-set-keyboard-case-mouse-stylus-headphone?variant=42962746572898)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sff9bf142275042ee8452ce1f230bd3fc3.webp?v=1779703879
-    Price: $187.95 AUD
-  - [WH Add Case N KB / EU](https://nexsorahome.com/products/urao-android-15-tablet-10-1-inch-20gb-ram-64gb-rom-5-core-dual-camera-tablets-pc-set-keyboard-case-mouse-stylus-headphone?variant=42962746605666)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S56c43823e8d948fcb5a9accd92c1aeaaz.webp?v=1779703880
-    Price: $222.95 AUD
-  - [BK Add Case N KB / EU](https://nexsorahome.com/products/urao-android-15-tablet-10-1-inch-20gb-ram-64gb-rom-5-core-dual-camera-tablets-pc-set-keyboard-case-mouse-stylus-headphone?variant=42962746638434)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sf3acf3c0245c4ad386c9f6e450a7bb9eC.webp?v=1779703880
-    Price: $225.95 AUD
+  Price: $223.95 AUD
 - [10.1" V9 Tablet PC | Android 9.0 | 2GB RAM 32GB ROM | Quad-Core | IPS Screen](https://nexsorahome.com/products/10-1-inch-2gb-ram-32gb-rom-v9-tablet-pc-mt8167-cpu-android-9-0-quad-core-supports-wifi-1280-x-800-ips-screen-dual-camera): Shop the V9 10.1-inch Android 9.0 tablet with MT8167 quad-core CPU, 2GB RAM, 32GB ROM, 1280x800 IPS display, dual camera, and WiFi. Great value everyday tablet.
-  Updated: 2026-05-26T00:19:54Z
+  Updated: 2026-06-02T07:12:11Z
   Vendor: Nexsora Home
   Product Type: Tablet Computers
   Availability: Available
@@ -1248,21 +1223,21 @@ delivery. Shop at nexsorahome.com.
   - [Add Sleeve case / Black](https://nexsorahome.com/products/10-1-inch-2gb-ram-32gb-rom-v9-tablet-pc-mt8167-cpu-android-9-0-quad-core-supports-wifi-1280-x-800-ips-screen-dual-camera?variant=42962792218722)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sba00ff3baf8b4bd298e9f9328dcf275bo.webp?v=1779705314
-    Price: $147.95 AUD
+    Price: $136.95 AUD
   - [Tablet Standard / Black](https://nexsorahome.com/products/10-1-inch-2gb-ram-32gb-rom-v9-tablet-pc-mt8167-cpu-android-9-0-quad-core-supports-wifi-1280-x-800-ips-screen-dual-camera?variant=42962792251490)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sba00ff3baf8b4bd298e9f9328dcf275bo.webp?v=1779705314
-    Price: $140.95 AUD
+    Price: $130.95 AUD
   - [Add 32G TF Card / Black](https://nexsorahome.com/products/10-1-inch-2gb-ram-32gb-rom-v9-tablet-pc-mt8167-cpu-android-9-0-quad-core-supports-wifi-1280-x-800-ips-screen-dual-camera?variant=42962792284258)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sba00ff3baf8b4bd298e9f9328dcf275bo.webp?v=1779705314
-    Price: $162.95 AUD
+    Price: $148.95 AUD
   - [Add  Keyboard / Black](https://nexsorahome.com/products/10-1-inch-2gb-ram-32gb-rom-v9-tablet-pc-mt8167-cpu-android-9-0-quad-core-supports-wifi-1280-x-800-ips-screen-dual-camera?variant=42962792317026)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sba00ff3baf8b4bd298e9f9328dcf275bo.webp?v=1779705314
-    Price: $188.95 AUD
+    Price: $174.95 AUD
 - [Electric Portable Coffee Maker – K-Cup & Ground Coffee | Single Cup Brewer](https://nexsorahome.com/products/electric-portable-coffee-maker-capsule-grind-and-brew-compatible-with-ground-coffee-k-cup-pods-single-cup-coffee-maker): Brew the perfect single cup with this portable electric coffee maker. Compatible with K-Cup pods and ground coffee. Compact, fast, and easy to use.
-  Updated: 2026-05-25T23:26:41Z
+  Updated: 2026-06-02T07:12:07Z
   Vendor: Nexsora Home
   Product Type: Coffee Maker
   Availability: Available
@@ -1270,13 +1245,13 @@ delivery. Shop at nexsorahome.com.
   - [only the stent](https://nexsorahome.com/products/electric-portable-coffee-maker-capsule-grind-and-brew-compatible-with-ground-coffee-k-cup-pods-single-cup-coffee-maker?variant=42962866503778)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sba380478488c42d79025ce191e33cfd5P.webp?v=1779708396
-    Price: $32.95 AUD
+    Price: $30.95 AUD
   - [black](https://nexsorahome.com/products/electric-portable-coffee-maker-capsule-grind-and-brew-compatible-with-ground-coffee-k-cup-pods-single-cup-coffee-maker?variant=42962866536546)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sb0494fdea7e24e2ab4d19c722035729fc.webp?v=1779708396
-    Price: $83.95 AUD
+    Price: $78.95 AUD
 - [Kids Learning Tablet 7 Inch – 4GB RAM 64GB ROM | Android | Children's Gift](https://nexsorahome.com/products/new-cartoon-pattern-kids-tablet-7-inch-quad-core-4gb-ram-64gb-rom-android-learning-education-games-tablets-childrens-gifts): Shop our 7" kids Android tablet with 4GB RAM, 64GB ROM, quad-core CPU, cartoon design, and educational games. The perfect gift for children.
-  Updated: 2026-05-25T23:34:14Z
+  Updated: 2026-06-02T07:12:16Z
   Vendor: Nexsora Home
   Product Type: Tablet
   Availability: Available
@@ -1284,28 +1259,28 @@ delivery. Shop at nexsorahome.com.
   - [Blue / Standard Version / China Mainland](https://nexsorahome.com/products/new-cartoon-pattern-kids-tablet-7-inch-quad-core-4gb-ram-64gb-rom-android-learning-education-games-tablets-childrens-gifts?variant=42962871779426)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sd744b875619241f4887bdebc22fd4597g.webp?v=1779709064
-    Price: $115.95 AUD
+    Price: $105.95 AUD
   - [Pink / Standard Version / China Mainland](https://nexsorahome.com/products/new-cartoon-pattern-kids-tablet-7-inch-quad-core-4gb-ram-64gb-rom-android-learning-education-games-tablets-childrens-gifts?variant=42962871812194)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S15a9cade301e4722a073425c41c796f3q.webp?v=1779709067
-    Price: $109.95 AUD
+    Price: $100.95 AUD
   - [Green / Standard Version / China Mainland](https://nexsorahome.com/products/new-cartoon-pattern-kids-tablet-7-inch-quad-core-4gb-ram-64gb-rom-android-learning-education-games-tablets-childrens-gifts?variant=42962871844962)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S293b3aa5c8114195b46dac5b53ad1184b.webp?v=1779709066
-    Price: $116.95 AUD
+    Price: $106.95 AUD
   - [Orange / Standard Version / China Mainland](https://nexsorahome.com/products/new-cartoon-pattern-kids-tablet-7-inch-quad-core-4gb-ram-64gb-rom-android-learning-education-games-tablets-childrens-gifts?variant=42962871877730)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S03c69df2cd7642e6a5dc9301705d69e7K.webp?v=1779709066
-    Price: $116.95 AUD
+    Price: $106.95 AUD
 - [2-Tier Carbon Steel Spice & Utensil Rack | Kitchen Countertop Organiser](https://nexsorahome.com/products/versatile-2-tier-carbon-steel-spice-utensil-rack-must-have-countertop-storage-for-kitchen-desk-organization): Keep your kitchen tidy with this durable 2-tier carbon steel spice and utensil rack. No-fuss setup, multi-purpose use. Shop now at Nexsora Home.
-  Updated: 2026-05-26T04:39:02Z
+  Updated: 2026-05-31T12:06:12Z
   Vendor: Nexsora Home
   Product Type: Kitchen Storage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S3ded57d9f4374a5a8e6fa91aa79f13eeQ.webp?v=1779759514
-  Price: $22.95 AUD
+  Price: $74.95 AUD
 - [Silent Wireless RGB Gaming Mouse | Rechargeable Bluetooth & 2.4GHz Dual Mode](https://nexsorahome.com/products/silent-mice-ultra-thin-rechargeable-colorful-bt-2-4ghz-daul-mold-optical-computer-wireless-rgb-gaming-mouse): Ultra-silent, rechargeable RGB gaming mouse with Bluetooth & 2.4GHz dual mode. Slim design, universal compatibility. Shop Nexsora Home.
-  Updated: 2026-05-26T05:05:31Z
+  Updated: 2026-05-30T10:23:50Z
   Vendor: Nexsora Home
   Product Type: Computer Accessories
   Availability: Available
@@ -1313,10 +1288,6 @@ delivery. Shop at nexsorahome.com.
   - [Gold](https://nexsorahome.com/products/silent-mice-ultra-thin-rechargeable-colorful-bt-2-4ghz-daul-mold-optical-computer-wireless-rgb-gaming-mouse?variant=42963759956066)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S9ca6d90ee59f40d28050191be67af990M.webp?v=1779771461
-    Price: $11.95 AUD
-  - [Pink](https://nexsorahome.com/products/silent-mice-ultra-thin-rechargeable-colorful-bt-2-4ghz-daul-mold-optical-computer-wireless-rgb-gaming-mouse?variant=42963759988834)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sdfc014e7707941caa96ff20d5ce7e017G.webp?v=1779771461
     Price: $11.95 AUD
   - [black](https://nexsorahome.com/products/silent-mice-ultra-thin-rechargeable-colorful-bt-2-4ghz-daul-mold-optical-computer-wireless-rgb-gaming-mouse?variant=42963760021602)
     Availability: Available
@@ -1326,31 +1297,23 @@ delivery. Shop at nexsorahome.com.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S7f1b779b758241949652a5c0828d45625.webp?v=1779771461
     Price: $13.95 AUD
-  - [Silver](https://nexsorahome.com/products/silent-mice-ultra-thin-rechargeable-colorful-bt-2-4ghz-daul-mold-optical-computer-wireless-rgb-gaming-mouse?variant=42963760087138)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S3815bcb0b80d4c1980d53a93f30e85990.webp?v=1779771461
-    Price: $11.95 AUD
 - [Rotatable Long Arm Phone & Tablet Stand | Flexible Holder for Bed & Desk](https://nexsorahome.com/products/phone-stand-rotatable-long-arm-tablet-holder-for-5-to-13-inch-tablet-smartphone-bed-desktop-lazy-holder-bracket-for-ipad-support): Hands-free viewing at any angle. Universal 5–13 inch phone & tablet stand with flexible long arm. Perfect for bed, desk & sofa. Shop Nexsora Home.
-  Updated: 2026-05-26T05:03:54Z
+  Updated: 2026-06-02T07:12:21Z
   Vendor: Nexsora Home
   Product Type: Phone & Tablet Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S4fba9fd11d424d6a85e8c55c1baa77f6t.webp?v=1779771641
-  Price: $83.95 AUD
+  Price: $82.95 AUD
 - [Inphic M8 Silent Wireless Mouse | Ergonomic Rechargeable Office Mouse](https://nexsorahome.com/products/inphic-m8-rechargeable-wireless-mouse-ergonomics-office-mute-mouse-for-laptops-and-desktop-computer-mouse): The Inphic M8 ergonomic wireless mouse features silent clicks, rechargeable battery & 2.4GHz connectivity. Perfect for office & home desk use. Shop Nexsora Home.
-  Updated: 2026-05-26T05:07:36Z
+  Updated: 2026-06-02T07:12:13Z
   Vendor: Nexsora Home
   Product Type: Computer Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S75e5ece156fa44acaaa264e38b66344b7.webp?v=1779771682
-  - [Wireless BT DR8](https://nexsorahome.com/products/inphic-m8-rechargeable-wireless-mouse-ergonomics-office-mute-mouse-for-laptops-and-desktop-computer-mouse?variant=42963760545890)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Se90131c777c34150bbd54a08124f5a881.webp?v=1779771682
-    Price: $39.95 AUD
   - [DR8 V3](https://nexsorahome.com/products/inphic-m8-rechargeable-wireless-mouse-ergonomics-office-mute-mouse-for-laptops-and-desktop-computer-mouse?variant=42963760578658)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sf86abbf2d2b0446a88dbcc53c8805155E.webp?v=1779771682
-    Price: $58.95 AUD
+    Price: $57.95 AUD
   - [Wireless M8](https://nexsorahome.com/products/inphic-m8-rechargeable-wireless-mouse-ergonomics-office-mute-mouse-for-laptops-and-desktop-computer-mouse?variant=42963760611426)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sbca606d3f024496a8ae523f02e363976N.webp?v=1779771683
@@ -1358,41 +1321,13 @@ delivery. Shop at nexsorahome.com.
   - [Wireless M8P](https://nexsorahome.com/products/inphic-m8-rechargeable-wireless-mouse-ergonomics-office-mute-mouse-for-laptops-and-desktop-computer-mouse?variant=42963760644194)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S9904d51312ff495992a3a57f488355dbp.webp?v=1779771683
-    Price: $26.95 AUD
+    Price: $25.95 AUD
 - [Smart Health Ring 2026 | Heart Rate, Sleep & Motion Tracking | IP68 Waterproof](https://nexsorahome.com/products/2026-new-smart-ring-heart-rate-blood-pressure-sleep-monitoring-motion-tracking-ip68-waterproof-men-women-smart-ring-holiday-gift): Track heart rate, blood pressure, sleep & activity with the 2026 Nexsora Smart Ring. IP68 waterproof, unisex design. A perfect health gift. Shop now.
-  Updated: 2026-05-26T05:26:08Z
+  Updated: 2026-06-01T06:51:45Z
   Vendor: Nexsora Home
   Product Type: Wearable Technology
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S143b2876723249bba04e9b48a4a222e27.webp?v=1779772628
-  - [Black / 11](https://nexsorahome.com/products/2026-new-smart-ring-heart-rate-blood-pressure-sleep-monitoring-motion-tracking-ip68-waterproof-men-women-smart-ring-holiday-gift?variant=42963767525474)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S4fd713c712cd40d59bee87e71a8b3b87I.webp?v=1779772628
-    Price: $10.95 AUD
-  - [Black / 13](https://nexsorahome.com/products/2026-new-smart-ring-heart-rate-blood-pressure-sleep-monitoring-motion-tracking-ip68-waterproof-men-women-smart-ring-holiday-gift?variant=42963767558242)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S4fd713c712cd40d59bee87e71a8b3b87I.webp?v=1779772628
-    Price: $10.95 AUD
-  - [Black / 8](https://nexsorahome.com/products/2026-new-smart-ring-heart-rate-blood-pressure-sleep-monitoring-motion-tracking-ip68-waterproof-men-women-smart-ring-holiday-gift?variant=42963767591010)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S4fd713c712cd40d59bee87e71a8b3b87I.webp?v=1779772628
-    Price: $10.95 AUD
-  - [Black / 10](https://nexsorahome.com/products/2026-new-smart-ring-heart-rate-blood-pressure-sleep-monitoring-motion-tracking-ip68-waterproof-men-women-smart-ring-holiday-gift?variant=42963767623778)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S4fd713c712cd40d59bee87e71a8b3b87I.webp?v=1779772628
-    Price: $10.95 AUD
-  - [Black / 12](https://nexsorahome.com/products/2026-new-smart-ring-heart-rate-blood-pressure-sleep-monitoring-motion-tracking-ip68-waterproof-men-women-smart-ring-holiday-gift?variant=42963767656546)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S4fd713c712cd40d59bee87e71a8b3b87I.webp?v=1779772628
-    Price: $10.95 AUD
-  - [Black / 7](https://nexsorahome.com/products/2026-new-smart-ring-heart-rate-blood-pressure-sleep-monitoring-motion-tracking-ip68-waterproof-men-women-smart-ring-holiday-gift?variant=42963767689314)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S4fd713c712cd40d59bee87e71a8b3b87I.webp?v=1779772628
-    Price: $10.95 AUD
-  - [Black / 9](https://nexsorahome.com/products/2026-new-smart-ring-heart-rate-blood-pressure-sleep-monitoring-motion-tracking-ip68-waterproof-men-women-smart-ring-holiday-gift?variant=42963767722082)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S4fd713c712cd40d59bee87e71a8b3b87I.webp?v=1779772628
-    Price: $10.95 AUD
   - [Silver PRO / 11](https://nexsorahome.com/products/2026-new-smart-ring-heart-rate-blood-pressure-sleep-monitoring-motion-tracking-ip68-waterproof-men-women-smart-ring-holiday-gift?variant=42963767754850)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sda3c928ad23c431cb8d0f66840f25e22i.webp?v=1779772629
@@ -1436,7 +1371,7 @@ delivery. Shop at nexsorahome.com.
   - [Gold PRO / 12](https://nexsorahome.com/products/2026-new-smart-ring-heart-rate-blood-pressure-sleep-monitoring-motion-tracking-ip68-waterproof-men-women-smart-ring-holiday-gift?variant=42963768082530)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S8ce386c336a14ad7ba63ae9d4ccd016cm.webp?v=1779772629
-    Price: $40.95 AUD
+    Price: $41.95 AUD
   - [Gold PRO / 7](https://nexsorahome.com/products/2026-new-smart-ring-heart-rate-blood-pressure-sleep-monitoring-motion-tracking-ip68-waterproof-men-women-smart-ring-holiday-gift?variant=42963768115298)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S8ce386c336a14ad7ba63ae9d4ccd016cm.webp?v=1779772629
@@ -1492,7 +1427,7 @@ delivery. Shop at nexsorahome.com.
   - [Black 1 / 8](https://nexsorahome.com/products/2026-new-smart-ring-heart-rate-blood-pressure-sleep-monitoring-motion-tracking-ip68-waterproof-men-women-smart-ring-holiday-gift?variant=42963768541282)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Scd3df67e63d3404aaed2d167160a514fP.webp?v=1779772628
-    Price: $34.95 AUD
+    Price: $35.95 AUD
   - [Black 1 / 10](https://nexsorahome.com/products/2026-new-smart-ring-heart-rate-blood-pressure-sleep-monitoring-motion-tracking-ip68-waterproof-men-women-smart-ring-holiday-gift?variant=42963768574050)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Scd3df67e63d3404aaed2d167160a514fP.webp?v=1779772628
@@ -1532,7 +1467,7 @@ delivery. Shop at nexsorahome.com.
   - [Silver / 9](https://nexsorahome.com/products/2026-new-smart-ring-heart-rate-blood-pressure-sleep-monitoring-motion-tracking-ip68-waterproof-men-women-smart-ring-holiday-gift?variant=42963768868962)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S00bc2d8044c6455e99533594018cf96ca.webp?v=1779772628
-    Price: $34.95 AUD
+    Price: $35.95 AUD
   - [Silver / 11](https://nexsorahome.com/products/2026-new-smart-ring-heart-rate-blood-pressure-sleep-monitoring-motion-tracking-ip68-waterproof-men-women-smart-ring-holiday-gift?variant=42963768901730)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S00bc2d8044c6455e99533594018cf96ca.webp?v=1779772628
@@ -1560,28 +1495,114 @@ delivery. Shop at nexsorahome.com.
   - [Gold / 13](https://nexsorahome.com/products/2026-new-smart-ring-heart-rate-blood-pressure-sleep-monitoring-motion-tracking-ip68-waterproof-men-women-smart-ring-holiday-gift?variant=42963769098338)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S2067f4e8bb7b4c2abc49c26499dd5cc1Q.webp?v=1779772628
-    Price: $34.95 AUD
+    Price: $35.95 AUD
+- [AI Smart Glasses 800W Camera Bluetooth – GUHUAVMI W630](https://nexsorahome.com/products/2026new-800w-pixel-camera-smart-glasses-men-video-recording-ai-photo-recognition-bluetooth-call-voice-translation-sunglasses-man): GUHUAVMI W630 AI Smart Glasses with 800W dual-lens 4K camera, Bluetooth 5.3 calls, AI photo recognition, voice translation & UV protection for men.
+  Updated: 2026-06-02T07:12:18Z
+  Vendor: Nexsora Home
+  Product Type: Smart Glasses
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sabe3f0e6154c4cb79bec88f4cde4c8b3b.webp?v=1779851012
+  - [Black sunglasses](https://nexsorahome.com/products/2026new-800w-pixel-camera-smart-glasses-men-video-recording-ai-photo-recognition-bluetooth-call-voice-translation-sunglasses-man?variant=42967090790498)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S6b78e8e0af7744da9f2bb5cb0af04a14o.webp?v=1779851012
+    Price: $181.95 AUD
+  - [Change color](https://nexsorahome.com/products/2026new-800w-pixel-camera-smart-glasses-men-video-recording-ai-photo-recognition-bluetooth-call-voice-translation-sunglasses-man?variant=42967090823266)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sb142af8d246c46f59c73b2931a8bbd6aE.webp?v=1779851011
+    Price: $181.95 AUD
+  - [Blue light](https://nexsorahome.com/products/2026new-800w-pixel-camera-smart-glasses-men-video-recording-ai-photo-recognition-bluetooth-call-voice-translation-sunglasses-man?variant=42967090888802)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S16e7af12c9f54c4dab2bdc3d3a1dff5aM.webp?v=1779851012
+    Price: $181.95 AUD
+- [Military GPS Smart Watch Men – Flashlight, Bluetooth, 3ATM Waterproof](https://nexsorahome.com/products/2026-new-military-outdoor-smart-watch-mens-gps-flashlight-bluetooth-call-2-01-amoled-screen-3atm-waterproof-sports-smartwatch): Rugged military smartwatch for men with GPS, 2.01" AMOLED, flashlight, Bluetooth calling, heart rate & 3ATM waterproofing. 7–10 day battery life.
+  Updated: 2026-06-02T07:12:20Z
+  Vendor: Nexsora Home
+  Product Type: Smart Watch
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sef22801a82014f3db88512608006280ek.webp?v=1779851045
+  - [Q11-Brown](https://nexsorahome.com/products/2026-new-military-outdoor-smart-watch-mens-gps-flashlight-bluetooth-call-2-01-amoled-screen-3atm-waterproof-sports-smartwatch?variant=42967091249250)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S160e2ed7a35f4db48fb53ab47f83468bi.webp?v=1779851045
+    Price: $21.95 AUD
+  - [Q11-Black](https://nexsorahome.com/products/2026-new-military-outdoor-smart-watch-mens-gps-flashlight-bluetooth-call-2-01-amoled-screen-3atm-waterproof-sports-smartwatch?variant=42967091282018)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S310768b3cdc444729a81fccfbdf6c526g.webp?v=1779851045
+    Price: $21.95 AUD
+  - [NEW-Brownish](https://nexsorahome.com/products/2026-new-military-outdoor-smart-watch-mens-gps-flashlight-bluetooth-call-2-01-amoled-screen-3atm-waterproof-sports-smartwatch?variant=42967091314786)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S4fa203d9d3ec43ccab7285b9cf687e17U.webp?v=1779851045
+    Price: $27.95 AUD
+  - [NEW-Green](https://nexsorahome.com/products/2026-new-military-outdoor-smart-watch-mens-gps-flashlight-bluetooth-call-2-01-amoled-screen-3atm-waterproof-sports-smartwatch?variant=42967091347554)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sad683a053d7247e8be5eec7f934c2678B.webp?v=1779851045
+    Price: $27.95 AUD
+  - [NEW-Black](https://nexsorahome.com/products/2026-new-military-outdoor-smart-watch-mens-gps-flashlight-bluetooth-call-2-01-amoled-screen-3atm-waterproof-sports-smartwatch?variant=42967091380322)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S1a140040de184503bfd7034406a614f77.webp?v=1779851045
+    Price: $27.95 AUD
+  - [Q11-Silver](https://nexsorahome.com/products/2026-new-military-outdoor-smart-watch-mens-gps-flashlight-bluetooth-call-2-01-amoled-screen-3atm-waterproof-sports-smartwatch?variant=42967091413090)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S131ba797d9874a19b33d3cf29c09f4e6N.webp?v=1779851045
+    Price: $21.95 AUD
+  - [NEW-Bk22Szstrap](https://nexsorahome.com/products/2026-new-military-outdoor-smart-watch-mens-gps-flashlight-bluetooth-call-2-01-amoled-screen-3atm-waterproof-sports-smartwatch?variant=42967091445858)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sb7b182ac6c3f452ca86505180dbc02678.webp?v=1779851045
+    Price: $43.95 AUD
+  - [NEW-Br22BkMilan](https://nexsorahome.com/products/2026-new-military-outdoor-smart-watch-mens-gps-flashlight-bluetooth-call-2-01-amoled-screen-3atm-waterproof-sports-smartwatch?variant=42967091478626)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S32cd62ddd87a420282c8858d44e96a25Q.webp?v=1779851045
+    Price: $40.95 AUD
+  - [NEW-Gr22WhMilan](https://nexsorahome.com/products/2026-new-military-outdoor-smart-watch-mens-gps-flashlight-bluetooth-call-2-01-amoled-screen-3atm-waterproof-sports-smartwatch?variant=42967091511394)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S3f64ab2fafc2459fa84fbc7fab52657fo.webp?v=1779851046
+    Price: $40.95 AUD
+  - [NEW-Bk22Milan](https://nexsorahome.com/products/2026-new-military-outdoor-smart-watch-mens-gps-flashlight-bluetooth-call-2-01-amoled-screen-3atm-waterproof-sports-smartwatch?variant=42967091544162)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Seec4079698c4440c9c223d74066f8cf03.webp?v=1779851045
+    Price: $40.95 AUD
+  - [NEW-Br22BkSzstrap](https://nexsorahome.com/products/2026-new-military-outdoor-smart-watch-mens-gps-flashlight-bluetooth-call-2-01-amoled-screen-3atm-waterproof-sports-smartwatch?variant=42967091642466)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S4f991212e80f433f831dccdfdbdfa257Q.webp?v=1779851045
+    Price: $43.95 AUD
+  - [NEW-Gr22WhSzstrap](https://nexsorahome.com/products/2026-new-military-outdoor-smart-watch-mens-gps-flashlight-bluetooth-call-2-01-amoled-screen-3atm-waterproof-sports-smartwatch?variant=42967091675234)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sf92fd4d98a4140f49c71d4640fe2f8820.webp?v=1779851045
+    Price: $43.95 AUD
+- [P15T Mini Selfie Stick Bluetooth Remote Zoom – Phone Tripod Stand](https://nexsorahome.com/products/new-latest-upgrade-p15-mini-portable-phone-holder-selfie-stick-p15t-mini-adds-bluetooth-remote-control-zoom-function-phone-stand): SAMULING P15T mini selfie stick with Bluetooth remote & zoom control. Compact phone tripod stand, universal fit. Perfect for photos & content creation.
+  Updated: 2026-06-02T07:12:22Z
+  Vendor: Nexsora Home
+  Product Type: Selfie Stick
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S75e67e205bbc4143b44d3af8696573acs.webp?v=1779851069
+  - [Black](https://nexsorahome.com/products/new-latest-upgrade-p15-mini-portable-phone-holder-selfie-stick-p15t-mini-adds-bluetooth-remote-control-zoom-function-phone-stand?variant=42967091773538)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/S9d88228aaa4041d586df3766fa0dffbe4.webp?v=1779851069
+    Price: $35.95 AUD
+  - [White](https://nexsorahome.com/products/new-latest-upgrade-p15-mini-portable-phone-holder-selfie-stick-p15t-mini-adds-bluetooth-remote-control-zoom-function-phone-stand?variant=42967091806306)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0676/8476/1698/files/Sb6391eba38a645e68e63ace3d32d87a6k.webp?v=1779851069
+    Price: $37.95 AUD
 
 ## Collections
 
 - [Bathroom Accessories for Modern Homes | Nexora Home](https://nexsorahome.com/collections/bathroom-accessories): Shop stylish bathroom accessories at Nexora Home. UV sterilizers, organisers & more. Fast Australian shipping.
-  Updated: 2026-05-26T04:38:53Z
+  Updated: 2026-06-02T07:11:46Z
   Total Products: 5
 - [Kitchen & Dining Accessories for the Home | Nexora Home](https://nexsorahome.com/collections/kitchen-dining): Shop kitchen and dining accessories at Nexora Home. Cup warmers, desk essentials & more. Fast Australian shipping.
-  Updated: 2026-05-26T01:41:24Z
+  Updated: 2026-06-02T07:12:16Z
   Total Products: 15
 - [Home Organisation Products & Storage Solutions | Nexora Home](https://nexsorahome.com/collections/home-organisation): Shop smart home organisation accessories at Nexora Home. Remote caddies, storage solutions & more. Fast Australian shipping.
-  Updated: 2026-05-25T06:56:44Z
+  Updated: 2026-06-02T07:11:58Z
   Total Products: 10
 - [Gadgets & Accessories – Smart Tech Essentials | Nexsora Home](https://nexsorahome.com/collections/gadgets-accessories): Shop smart gadgets and accessories at Nexsora Home. Find Bluetooth trackers, key finders, and more tech essentials for everyday life.
-  Updated: 2026-05-25T04:54:33Z
+  Updated: 2026-05-26T17:13:20Z
   Total Products: 1
 - [Pet Essentials – Smart Feeders & Care for Cats & Dogs – Nexsora Home](https://nexsorahome.com/collections/pet-essentials): Shop smart pet feeders, dispensers & accessories for cats and dogs. Premium pet essentials at Nexsora Home. Free AU shipping.
-  Updated: 2026-05-25T06:56:41Z
+  Updated: 2026-06-02T07:12:03Z
   Total Products: 5
 - [Tech & Electronics – Tablets & Gadgets | Nexsora Home](https://nexsorahome.com/collections/tech-and-electronics): Shop tablets, gadgets, and electronics at Nexsora Home. Quality tech for work, study, and everyday use. Fast AU shipping.
-  Updated: 2026-05-26T05:26:09Z
-  Total Products: 7
+  Updated: 2026-06-02T07:12:23Z
+  Total Products: 10
 
 ## Blogs
 
@@ -1590,6 +1611,15 @@ delivery. Shop at nexsorahome.com.
     Updated: 2026-05-25T11:05:30Z
     Author: My Store Admin
     Tags: buying guide, declutter, home decor, home organisation, storage tips
+  - [The Future of Smart Homes and Their Impact on Everyday Life](https://nexsorahome.com/blogs/news/the-future-of-smart-homes-and-their-impact-on-everyday-life): The Future of Smart Homes and Their Impact on Everyday Life
+    Updated: 2026-05-26T06:25:21Z
+    Author: User
+  - [Revolutionize Your Space with These Top 10 Smart Home Gadgets](https://nexsorahome.com/blogs/news/revolutionize-your-space-with-these-top-10-smart-home-gadgets): Revolutionize Your Space with These Top 10 Smart Home Gadgets
+    Updated: 2026-05-30T10:06:53Z
+    Author: User
+  - [Understanding Smart Home Technology Challenges and Solutions](https://nexsorahome.com/blogs/news/understanding-smart-home-technology-challenges-and-solutions): Understanding Smart Home Technology Challenges and Solutions
+    Updated: 2026-06-02T10:02:42Z
+    Author: User
 
 ## Store Pages
 
@@ -1613,25 +1643,13 @@ delivery. Shop at nexsorahome.com.
 - [Contact Information](https://nexsorahome.com/policies/contact-information)
   Updated: 2026-05-19T21:23:03+08:00
 
-## Store Pages
-- Home: https://nexsorahome.com
-- All Products: https://nexsorahome.com/collections/all
-- Contact Us: https://nexsorahome.com/pages/contact
-- About Us: https://nexsorahome.com/pages/about
-- Blog: https://nexsorahome.com/blogs/news
-
-## Policies
-- Refund & Returns: https://nexsorahome.com/policies/refund-policy
-- Privacy Policy: https://nexsorahome.com/policies/privacy-policy
-- Shipping Policy: https://nexsorahome.com/policies/shipping-policy
-- Terms of Service: https://nexsorahome.com/policies/terms-of-service
-
 ## Shop by Category
-- Kitchen Storage: https://nexsorahome.com/collections/kitchen-storage
-- Bathroom Accessories: https://nexsorahome.com/collections/bathroom
-- Desk & Workspace: https://nexsorahome.com/collections/desk-workspace
-- Wearable Tech: https://nexsorahome.com/collections/wearable-tech
-- Home Tech: https://nexsorahome.com/collections/home-tech
+- Home Organisation: https://nexsorahome.com/collections/home-organisation
+- Kitchen & Dining: https://nexsorahome.com/collections/kitchen-dining
+- Bathroom Accessories: https://nexsorahome.com/collections/bathroom-accessories
+- Gadgets & Accessories: https://nexsorahome.com/collections/gadgets-accessories
+- Tech & Electronics: https://nexsorahome.com/collections/tech-and-electronics
+- Pet Essentials: https://nexsorahome.com/collections/pet-essentials
 
 
 ## Optional
