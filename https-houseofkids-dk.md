@@ -6,12 +6,12 @@
 - Timezone: Europe/Copenhagen
 - Created At: 2025-05-16T10:42:53Z
 - Contact Email: mail@houseofkids.dk
-- Updated At: 2026-05-26T10:33:15.622Z
+- Updated At: 2026-06-03T00:00:28.832Z
 
 ## Products
 
 - [Calvin Klein jeans i blå stretch denim til børn](https://houseofkids.dk/products/calvin-klein-jeans-mid-blue-soft-stretch-blue): Calvin Klein jeans til børn i blå denim med stretch, regular fit og lommer foran og bagpå. Til hverdage, hvor bukserne skal være rare at have på.
-  Updated: 2026-05-21T19:14:10Z
+  Updated: 2026-05-27T08:57:06Z
   Vendor: Calvin klein
   Product Type: jeans
   Availability: Available
@@ -32,7 +32,7 @@
     Availability: Available
     Price: 239,98 kr. DKK
 - [Hummel hmlPROUD shorts i lilla til varme dage](https://houseofkids.dk/products/hummel-hmlproud-shorts-lilas): Hummel hmlPROUD shorts i lilla til børn. En kort og enkel model til varme dage, sommerbrug og dage, hvor tøjet gerne må være ukompliceret.
-  Updated: 2026-05-21T19:14:13Z
+  Updated: 2026-05-27T08:57:06Z
   Vendor: Hummel
   Product Type: shorts
   Availability: Available
@@ -50,7 +50,7 @@
     Availability: Not Available
     Price: 71,98 kr. DKK
 - [Calvin Klein nederdel med mini monogram - sort](https://houseofkids.dk/products/calvin-klein-nederdel-mini-monogram-aop-ck-black): Calvin Klein nederdel til piger i sort/hvidt mini monogram-print med elastik i taljen, let foer og stretch. Fin til hverdag og pænere brug.
-  Updated: 2026-05-21T19:14:18Z
+  Updated: 2026-05-27T08:57:06Z
   Vendor: Calvin klein
   Product Type: nederdele
   Availability: Available
@@ -110,13 +110,13 @@
     Availability: Not Available
     Price: 429,95 kr. DKK
 - [Birkenstock Birki børnesko i Eggshell EVA med spænde](https://houseofkids.dk/products/birkenstock-birki-sko-eggshell): Birkenstock Birki børnesko i cremefarvet Eggshell, lavet i 100% EVA med EVA-for. Almindelig bredde og justerbart hælspænde til hverdagsbrug for børn.
-  Updated: 2026-05-22T01:33:21Z
+  Updated: 2026-06-01T07:44:02Z
   Vendor: Birkenstock
   Product Type: sko og sneakers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0913/5747/9291/files/685bcc4960eb71032230_copy.webp?v=1766441625
   - [24](https://houseofkids.dk/products/birkenstock-birki-sko-eggshell?variant=55680839975291)
-    Availability: Available
+    Availability: Not Available
     Price: 239,97 kr. DKK
   - [25](https://houseofkids.dk/products/birkenstock-birki-sko-eggshell?variant=55680840008059)
     Availability: Available
@@ -164,14 +164,14 @@
     Availability: Not Available
     Price: 137,97 kr. DKK
 - [Liewood Binnie bamse i Pale Tuscany - blød plys](https://houseofkids.dk/products/liewood-binnie-bamse-pale-tuscany): Blød Binnie bamse fra Liewood i lyserød Pale Tuscany. Fremstillet i 100% genanvendt polyester til puttetid, leg og små gaver.
-  Updated: 2026-05-26T09:44:41Z
+  Updated: 2026-06-01T08:13:54Z
   Vendor: Liewood
   Product Type: bamser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0913/5747/9291/files/689b29872dca1Binnie_Rabbit_Small_Teddy_LW19534_9470_Pale_tuscany_1.webp?v=1771923893
   Price: 113,97 kr. DKK
 - [CeLaVi fleecejakke i Brick Dust - 100% polyester](https://houseofkids.dk/products/celavi-fleecejakke-brick-dust): CeLaVi fleecejakke i Brick Dust i 100% polyesterfleece. Brug den som et blødt, lunt lag til børn på kølige dage. OEKO-TEX-certificeret.
-  Updated: 2026-05-22T01:33:30Z
+  Updated: 2026-06-02T20:41:57Z
   Vendor: Celavi
   Product Type: fleece
   Availability: Available
@@ -180,7 +180,7 @@
     Availability: Available
     Price: 215,97 kr. DKK
   - [110 cm](https://houseofkids.dk/products/celavi-fleecejakke-brick-dust?variant=55756360057211)
-    Availability: Available
+    Availability: Not Available
     Price: 215,97 kr. DKK
   - [120 cm](https://houseofkids.dk/products/celavi-fleecejakke-brick-dust?variant=55756360089979)
     Availability: Available
@@ -273,7 +273,7 @@
     Availability: Not Available
     Price: 209,97 kr. DKK
 - [Bisgaard Neel vinterstøvle i cognac med lammeskind](https://houseofkids.dk/products/bisgaard-neel-vinterstoevle-cognac): Bisgaard Neel vinterstøvle i cognacfarvet skind med varmt lammeskindsfoer og elastisk åbning. Håndlavet i Portugal i åndbart læder til kolde dage.
-  Updated: 2026-05-22T01:33:43Z
+  Updated: 2026-05-27T08:57:06Z
   Vendor: Bisgaard
   Product Type: vinterstøvle
   Availability: Available
@@ -300,7 +300,7 @@
     Availability: Available
     Price: 549,98 kr. DKK
 - [Bisgaard Pacson vinterstøvle i terracotta med uldfoer](https://houseofkids.dk/products/bisgaard-pacson-vinterstoevle-terracotta): Bisgaard Pacson vinterstøvle i terracotta med uldfoer, velcrolukning og fleksibel TPR-sål til kolde dage, glatte underlag og vintervejr.
-  Updated: 2026-05-22T01:33:41Z
+  Updated: 2026-05-27T08:57:08Z
   Vendor: Bisgaard
   Product Type: vinterstøvle
   Availability: Available
@@ -345,7 +345,7 @@
     Availability: Not Available
     Price: 249,98 kr. DKK
 - [Bisgaard Evon tex vinterstøvle i rose patent](https://houseofkids.dk/products/bisgaard-evon-tex-vinterstoevle-rose-patent): Vandtæt Evon tex vinterstøvle fra Bisgaard i rosa læder med uldfoer, velcrolukning og forstærket gummisnude til kolde, våde dage.
-  Updated: 2026-05-22T01:33:44Z
+  Updated: 2026-05-27T08:57:07Z
   Vendor: Bisgaard
   Product Type: vinterstøvle
   Availability: Available
@@ -372,7 +372,7 @@
     Availability: Not Available
     Price: 374,98 kr. DKK
 - [Bisgaard Elke tex vinterstøvle i galaxy læder](https://houseofkids.dk/products/bisgaard-elke-tex-vinterstoevle-galaxy): Bisgaard Elke tex vinterstøvle i vegetabilsk garvet læder med varmt rulamsfoer, rågummisål og lynlås i siden. Til kolde dage og pænt brug om vinteren.
-  Updated: 2026-05-22T01:33:44Z
+  Updated: 2026-05-27T08:57:08Z
   Vendor: Bisgaard
   Product Type: vinterstøvle
   Availability: Available
@@ -399,7 +399,7 @@
     Availability: Not Available
     Price: 574,98 kr. DKK
 - [Bisgaard Storm tex vinterstøvle med uldfoer - nude flower](https://houseofkids.dk/products/bisgaard-storm-tex-vinterstoevle-nude-flower): Bisgaard Storm tex vinterstøvle i nude flower med uldfoer, fast hælkappe og velcro. Håndlavet i vegetabilsk garvet læder til kolde vinterdage.
-  Updated: 2026-05-22T01:33:45Z
+  Updated: 2026-05-27T08:57:07Z
   Vendor: Bisgaard
   Product Type: vinterstøvle
   Availability: Available
@@ -426,7 +426,7 @@
     Availability: Available
     Price: 449,98 kr. DKK
 - [Bisgaard Marius tex vinterstøvle i guld med TEX](https://houseofkids.dk/products/bisgaard-marius-tex-vinterstoevle-gold): Bisgaard Marius tex vinterstøvle i guld/glimmer med vandtæt TEX-membran, varmt foer, velcrolukning og skridsikker letvægtsål til kolde, våde dage.
-  Updated: 2026-05-22T01:33:47Z
+  Updated: 2026-05-27T08:57:07Z
   Vendor: Bisgaard
   Product Type: vinterstøvle
   Availability: Available
@@ -453,7 +453,7 @@
     Availability: Not Available
     Price: 449,98 kr. DKK
 - [Bisgaard Edon Tex vinterstøvle i navy med velcro](https://houseofkids.dk/products/bisgaard-edon-tex-vinterstoevle-navy): Bisgaard Edon Tex vinterstøvle i navy med vandtæt TEX-membran, varmt Thinsulate-foer, velcrolukning og skridsikker sål til kolde, våde dage.
-  Updated: 2026-05-22T01:33:54Z
+  Updated: 2026-05-27T08:57:07Z
   Vendor: Bisgaard
   Product Type: vinterstøvle
   Availability: Available
@@ -485,24 +485,6 @@
   - [35](https://houseofkids.dk/products/bisgaard-edon-tex-vinterstoevle-navy?variant=55756368019835)
     Availability: Available
     Price: 449,98 kr. DKK
-- [Fliink DUNA bukser i hunter green - 100% bomuld](https://houseofkids.dk/products/fliink-duna-bukser-hunter-green): Fliink DUNA bukser i hunter green til børn. Syet i 100% bomuld med bomuldsfoer, regular fit samt side- og baglommer i denimkvalitet til hverdagsbrug.
-  Updated: 2026-05-22T01:33:52Z
-  Vendor: Fliink
-  Product Type: bukser
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0913/5747/9291/files/68662ea432e97F1843_-_Main.webp?v=1768592876
-  - [18 mdr / 86 cm](https://houseofkids.dk/products/fliink-duna-bukser-hunter-green?variant=55756370608507)
-    Availability: Not Available
-    Price: 179,97 kr. DKK
-  - [2 år / 92 cm](https://houseofkids.dk/products/fliink-duna-bukser-hunter-green?variant=55756370641275)
-    Availability: Not Available
-    Price: 179,97 kr. DKK
-  - [3 år / 98 cm](https://houseofkids.dk/products/fliink-duna-bukser-hunter-green?variant=55756370674043)
-    Availability: Available
-    Price: 179,97 kr. DKK
-  - [4 år / 104 cm](https://houseofkids.dk/products/fliink-duna-bukser-hunter-green?variant=55756370706811)
-    Availability: Not Available
-    Price: 179,97 kr. DKK
 - [Fliink Bowie bukser i grøn bomuld med sløjfeprint](https://houseofkids.dk/products/fliink-bowie-bukser-hunter-green-bow-aop): Bowie bukser fra Fliink i 100% bomuld med elastik i taljen og grønt all-over sløjfeprint. Rar pasform til hverdagsbrug for børn med fokus på komfort.
   Updated: 2026-05-22T01:33:51Z
   Vendor: Fliink
@@ -799,7 +781,7 @@
     Availability: Available
     Price: 329,97 kr. DKK
 - [adidas Originals vinterstøvle i sort med snøre](https://houseofkids.dk/products/adidas-originals-vinterstoevle-black): Sort vinterstøvle fra adidas Originals med snørelukning, tekstilfoer og almindelig bredde. Til kølige dage, hvor skoene skal sidde godt på foden.
-  Updated: 2026-05-22T01:34:21Z
+  Updated: 2026-05-27T08:57:16Z
   Vendor: Adidas originals
   Product Type: vinterstøvle
   Availability: Available
@@ -898,7 +880,7 @@
     Availability: Not Available
     Price: 107,97 kr. DKK
 - [Bisgaard Neo vinterstøvle i sort læder med lammeskind](https://houseofkids.dk/products/bisgaard-neo-vinterstoevle-black): Bisgaard Neo vinterstøvle i sort læder med varmt lammeskindsfoer og elastisk åbning. Til kolde dage, hvor fødderne skal holdes varme og tørre.
-  Updated: 2026-05-22T01:34:25Z
+  Updated: 2026-05-27T08:57:15Z
   Vendor: Bisgaard
   Product Type: vinterstøvle
   Availability: Available
@@ -937,7 +919,7 @@
     Availability: Available
     Price: 107,97 kr. DKK
 - [Bisgaard Pixie vinterstøvle i khaki skind med velcro](https://houseofkids.dk/products/bisgaard-pixie-vinterstoevle-khaki): Bisgaard Pixie vinterstøvle i khaki skind med velcro, udtagelig indlægssål og skridsikker sål til børn på kolde dage og i skiftende vintervejr.
-  Updated: 2026-05-22T01:34:32Z
+  Updated: 2026-05-27T08:57:15Z
   Vendor: Bisgaard
   Product Type: vinterstøvle
   Availability: Available
@@ -997,7 +979,7 @@
     Availability: Not Available
     Price: 329,97 kr. DKK
 - [CeLaVi fleeceforede regnbukser - Oceania](https://houseofkids.dk/products/celavi-regnbukser-oceania): CeLaVi regnbukser med fleecefoer, justerbare støvlestropper og vandsøjletryk på 10.000 mm til regnvejr og udeleg.
-  Updated: 2026-05-22T01:34:42Z
+  Updated: 2026-05-28T07:43:32Z
   Vendor: Celavi
   Product Type: regntøj
   Availability: Available
@@ -1006,13 +988,13 @@
     Availability: Available
     Price: 167,97 kr. DKK
   - [90 cm](https://houseofkids.dk/products/celavi-regnbukser-oceania?variant=55756388794747)
-    Availability: Available
+    Availability: Not Available
     Price: 167,97 kr. DKK
   - [100 cm](https://houseofkids.dk/products/celavi-regnbukser-oceania?variant=55756388827515)
     Availability: Available
     Price: 167,97 kr. DKK
 - [Bisgaard Elke tex vinterstøvle - zebra glitter](https://houseofkids.dk/products/bisgaard-elke-tex-vinterstoevle-zebra-glitter): Bisgaard Elke tex vinterstøvle i zebra glitter med vegetabilsk garvet læder, 100% rulamsfoer, rågummisål og lynlås i siden til kolde dage.
-  Updated: 2026-05-22T01:34:34Z
+  Updated: 2026-05-27T08:57:12Z
   Vendor: Bisgaard
   Product Type: vinterstøvle
   Availability: Available
@@ -1072,7 +1054,7 @@
     Availability: Available
     Price: 287,97 kr. DKK
 - [Bisgaard Siggi vinterstøvle i zebra glitter med lammeskind](https://houseofkids.dk/products/bisgaard-siggi-vinterstoevle-zebra-glitter): Bisgaard Siggi vinterstøvle i LWG-certificeret læder med varmt lammeskindsfoer, udtagelig indersål og hælkappe til små børnefødder om vinteren.
-  Updated: 2026-05-22T01:34:38Z
+  Updated: 2026-05-27T08:57:12Z
   Vendor: Bisgaard
   Product Type: vinterstøvle
   Availability: Available
@@ -1093,7 +1075,7 @@
     Availability: Available
     Price: 424,98 kr. DKK
 - [Bisgaard Storm tex vinterstøvle cognac med uldfoer](https://houseofkids.dk/products/bisgaard-storm-tex-vinterstoevle-cognac-2): Bisgaard Storm tex vinterstøvle i cognac læder med varmt rulamsfoer, fast hælkappe og to velcrolukninger. Til kolde dage, i almindelig bredde.
-  Updated: 2026-05-22T01:34:45Z
+  Updated: 2026-05-27T08:57:12Z
   Vendor: Bisgaard
   Product Type: vinterstøvle
   Availability: Available
@@ -1144,7 +1126,7 @@
     Availability: Not Available
     Price: 287,97 kr. DKK
 - [Bisgaard Pacson vinterstøvle i navy med uldfoer](https://houseofkids.dk/products/bisgaard-pacson-vinterstoevle-navy): Bisgaard Pacson vinterstøvle i navy med uldfoer, velcrolukning og fleksibel TPR-sål. Til kolde dage med varm komfort og nem af- og påtagning.
-  Updated: 2026-05-26T07:45:27Z
+  Updated: 2026-05-27T08:57:13Z
   Vendor: Bisgaard
   Product Type: vinterstøvle
   Availability: Available
@@ -1216,7 +1198,7 @@
     Availability: Not Available
     Price: 131,97 kr. DKK
 - [Bisgaard Eddie TEX vinterstøvle i bordeaux med velcro](https://houseofkids.dk/products/bisgaard-eddie-tex-vinterstoevle-burgundy): Bisgaard Eddie vinterstøvle i bordeaux med vandtæt TEX-membran, varmt foer, velcrolukning og skridsikker letvægtsål til kolde, våde dage om vinteren.
-  Updated: 2026-05-22T01:36:27Z
+  Updated: 2026-05-27T08:57:14Z
   Vendor: Bisgaard
   Product Type: vinterstøvle
   Availability: Available
@@ -1276,7 +1258,7 @@
     Availability: Not Available
     Price: 137,97 kr. DKK
 - [Bisgaard Bruce TEX vinterstøvle i navy læder](https://houseofkids.dk/products/bisgaard-bruce-tex-vinterstoevle-navy): Bisgaard Bruce TEX vinterstøvle i navy med vandtæt membran, LWG-certificeret læder, tekstilfoer og justerbar lukning til kolde dage.
-  Updated: 2026-05-22T01:36:30Z
+  Updated: 2026-05-27T08:57:14Z
   Vendor: Bisgaard
   Product Type: vinterstøvle
   Availability: Available
@@ -1312,7 +1294,7 @@
     Availability: Not Available
     Price: 424,98 kr. DKK
 - [Bisgaard Edon TEX vinterstøvle i pink med velcro](https://houseofkids.dk/products/bisgaard-edon-tex-vinterstoevle-pink): Bisgaard Edon TEX vinterstøvle i pink med vandtæt membran, varmt 3M™ Thinsulate™-foer, velcro og fodformet indersål til kolde og våde vinterdage.
-  Updated: 2026-05-22T01:36:35Z
+  Updated: 2026-05-27T08:57:14Z
   Vendor: Bisgaard
   Product Type: vinterstøvle
   Availability: Available
@@ -1345,7 +1327,7 @@
     Availability: Not Available
     Price: 449,98 kr. DKK
 - [Bisgaard Evon TEX vinterstøvle i mocha med uldfoer](https://houseofkids.dk/products/bisgaard-evon-tex-vinterstoevle-mocha): Bisgaard Evon TEX vinterstøvle i mocha med vandtæt TEX membran, temperaturregulerende uldfoer og forstærket gummisnude til vinterbrug på kolde dage.
-  Updated: 2026-05-22T01:36:39Z
+  Updated: 2026-05-27T08:57:14Z
   Vendor: Bisgaard
   Product Type: vinterstøvle
   Availability: Available
@@ -1372,7 +1354,7 @@
     Availability: Available
     Price: 374,98 kr. DKK
 - [Bisgaard Ellis tex vinterstøvle i whiskey med uldfoer](https://houseofkids.dk/products/bisgaard-ellis-tex-vinterstoevle-whiskey): Bisgaard Ellis tex vinterstøvle i whiskey med TEX membran, uldfoer og velcrolukning. Til kolde, våde dage hvor små fødder skal holdes tørre.
-  Updated: 2026-05-22T01:36:35Z
+  Updated: 2026-05-27T08:57:15Z
   Vendor: Bisgaard
   Product Type: vinterstøvle
   Availability: Available
@@ -1411,7 +1393,7 @@
     Availability: Available
     Price: 77,97 kr. DKK
 - [Bisgaard Neel Tex vinterstøvle i sort læder](https://houseofkids.dk/products/bisgaard-neel-tex-vinterstoevle-black): Bisgaard Neel Tex vinterstøvle i sort læder med vandtæt funktion og varmt uldfoer til kolde, våde dage. Almindelig bredde og slidstærk sål.
-  Updated: 2026-05-22T01:36:39Z
+  Updated: 2026-05-27T08:57:15Z
   Vendor: Bisgaard
   Product Type: vinterstøvle
   Availability: Available
@@ -1438,7 +1420,7 @@
     Availability: Not Available
     Price: 549,98 kr. DKK
 - [CeLaVi overtræksfutter i Oceania - 10.000 mm](https://houseofkids.dk/products/celavi-overtraeksfutter-oceania): CeLaVi overtræksfutter i navy med vandsøjletryk på 10.000 mm, velcrolukning og reflekser til våde dage, hvor fødderne skal holdes tørre.
-  Updated: 2026-05-22T01:37:03Z
+  Updated: 2026-05-28T09:15:18Z
   Vendor: Celavi
   Product Type: overtræksfutter
   Availability: Available
@@ -1450,7 +1432,7 @@
     Availability: Available
     Price: 107,97 kr. DKK
 - [Lil' Atelier NMFSARAN cardigan i creme bomuldsstrik](https://houseofkids.dk/products/lil-atelier-nmfsaran-cardigan-turtledove-sepia-tint): Lil' Atelier NMFSARAN cardigan i strikket bomuldskvalitet med økologisk og genanvendt bomuld. I creme/rosa toner til lag over kjole eller bluse.
-  Updated: 2026-05-22T01:36:45Z
+  Updated: 2026-06-01T10:11:51Z
   Vendor: Lil' atelier
   Product Type: cardigans
   Availability: Available
@@ -1483,7 +1465,7 @@
     Availability: Available
     Price: 107,97 kr. DKK
 - [Bisgaard Spencer TEX vinterstøvle i navy med velcro](https://houseofkids.dk/products/bisgaard-spencer-tex-vinterstoevle-navy): Bisgaard Spencer vinterstøvle i navy med vandtæt TEX-membran, varm 3M™ Thinsulate™-foring, velcro og skridsikker letvægtsål til vinterdage.
-  Updated: 2026-05-22T01:36:50Z
+  Updated: 2026-05-27T08:57:10Z
   Vendor: Bisgaard
   Product Type: vinterstøvle
   Availability: Available
@@ -1636,7 +1618,7 @@
     Availability: Not Available
     Price: 119,97 kr. DKK
 - [Bisgaard Phillip vinterstøvle i cognac læder](https://houseofkids.dk/products/bisgaard-phillip-vinterstoevle-cognac): Bisgaard Phillip vinterstøvle i cognac læder med varmt lammeskindsfoer, udtagelig indersål og almindelig pasform til kolde dage og de første skridt ude.
-  Updated: 2026-05-22T01:37:04Z
+  Updated: 2026-05-27T08:57:08Z
   Vendor: Bisgaard
   Product Type: vinterstøvle
   Availability: Available
@@ -1670,7 +1652,7 @@
   Image: https://cdn.shopify.com/s/files/1/0913/5747/9291/files/68b18f1098e4cLil_-Atelier_Autumnwinter_4883460_13244188.webp?v=1768599743
   Price: 41,97 kr. DKK
 - [Bisgaard Pacson vinterstøvle i galaxy med uldfoer](https://houseofkids.dk/products/bisgaard-pacson-vinterstoevle-galaxy): Bisgaard Pacson vinterstøvle i galaxy med uldfoer, velcroremme og fleksibel TPR-sål til kolde dage. Almindelig bredde og nem at få på for barnet.
-  Updated: 2026-05-22T01:37:06Z
+  Updated: 2026-05-29T10:43:09Z
   Vendor: Bisgaard
   Product Type: vinterstøvle
   Availability: Available
@@ -1742,7 +1724,7 @@
     Availability: Available
     Price: 399,95 kr. DKK
 - [Bisgaard Pixie vinterstøvle i rosa læder med velcro](https://houseofkids.dk/products/bisgaard-pixie-vinterstoevle-rose): Bisgaard Pixie vinterstøvle i rosa LWG-læder med varmt foer, udtagelig indlægssål og fleksibel, skridsikker ydersål til kolde dage og skiftende vejr.
-  Updated: 2026-05-22T01:37:09Z
+  Updated: 2026-05-27T08:57:10Z
   Vendor: Bisgaard
   Product Type: vinterstøvle
   Availability: Available
@@ -1787,7 +1769,7 @@
     Availability: Available
     Price: 299,98 kr. DKK
 - [Bisgaard Evon tex vinterstøvle i khaki med TEX](https://houseofkids.dk/products/bisgaard-evon-tex-vinterstoevle-khaki): Bisgaard Evon tex vinterstøvle i khaki med vandtæt TEX membran, uldfoer, velcrolukning og forstærket gummisnude til aktiv brug.
-  Updated: 2026-05-22T01:37:12Z
+  Updated: 2026-05-27T08:57:10Z
   Vendor: Bisgaard
   Product Type: vinterstøvle
   Availability: Available
@@ -1832,7 +1814,7 @@
     Availability: Not Available
     Price: 197,97 kr. DKK
 - [Bisgaard Ellis tex vinterstøvle - rose patent](https://houseofkids.dk/products/bisgaard-ellis-tex-vinterstoevle-rose-patent): Bisgaard Ellis tex vinterstøvle i rose patent med tex-membran, uldfoer og velcrolukning. Til kolde, våde vinterdage med varme og tørre fødder.
-  Updated: 2026-05-22T01:37:14Z
+  Updated: 2026-05-27T08:57:10Z
   Vendor: Bisgaard
   Product Type: vinterstøvle
   Availability: Available
@@ -1883,7 +1865,7 @@
     Availability: Not Available
     Price: 239,97 kr. DKK
 - [Bisgaard Maia tex vinterstøvle i sort med snørebånd](https://houseofkids.dk/products/bisgaard-maia-tex-vinterstoevle-black): Sort Maia tex vinterstøvle fra Bisgaard med tekstilfoer, snørebånd og almindelig bredde. Til kolde dage, hvor støvlen skal sidde godt på foden.
-  Updated: 2026-05-22T01:37:21Z
+  Updated: 2026-05-28T06:43:39Z
   Vendor: Bisgaard
   Product Type: vinterstøvle
   Availability: Available
@@ -1907,7 +1889,7 @@
     Availability: Available
     Price: 549,98 kr. DKK
   - [38](https://houseofkids.dk/products/bisgaard-maia-tex-vinterstoevle-black?variant=55756401639803)
-    Availability: Available
+    Availability: Not Available
     Price: 549,98 kr. DKK
 - [Fliink BENNA kjole i navy strikket viskosemix](https://houseofkids.dk/products/fliink-benna-kjole-insignia-blue): BENNA kjole fra Fliink i navy strikkvalitet med eco-viskose, nylon og polyester. Almindelig pasform til både pænere dage og almindelig hverdagsbrug.
   Updated: 2026-05-22T01:37:26Z
@@ -1934,7 +1916,7 @@
     Availability: Not Available
     Price: 215,97 kr. DKK
 - [Bisgaard Eddie tex vinterstøvle i antracitgrå](https://houseofkids.dk/products/bisgaard-eddie-tex-vinterstoevle-dark-grey): Bisgaard Eddie tex vinterstøvle med vandtæt TEX-membran, varmt foer og velcrolukning. Til kolde, våde dage med brug for godt greb i vintervejret.
-  Updated: 2026-05-22T01:37:25Z
+  Updated: 2026-05-27T08:57:11Z
   Vendor: Bisgaard
   Product Type: vinterstøvle
   Availability: Available
@@ -2393,7 +2375,7 @@
     Availability: Not Available
     Price: 179,97 kr. DKK
 - [Hust & Claire HCGarry fløjlsbukser - Brown stone](https://houseofkids.dk/products/hust-claire-hcgarry-bukser-brown-stone): Hust & Claire HCGarry bukser i Brown stone fløjlskvalitet med regular fit, sidelommer og stretch i materialet. Til børn der skal kunne bevæge sig.
-  Updated: 2026-05-22T01:40:18Z
+  Updated: 2026-05-28T09:15:20Z
   Vendor: Hust & claire
   Product Type: bukser
   Availability: Available
@@ -2525,7 +2507,7 @@
     Availability: Available
     Price: 197,97 kr. DKK
 - [Hust & Claire HCBertil bodyskjorte i bomuld - Kit](https://houseofkids.dk/products/hust-claire-hcbertil-bodyskjorte-kit): Hust & Claire HCBertil bodyskjorte i 100% bomuld med lange ærmer. Kitfarvet babybody til babyens hverdag, under strik eller alene på milde dage.
-  Updated: 2026-05-22T01:40:22Z
+  Updated: 2026-06-01T08:13:52Z
   Vendor: Hust & claire
   Product Type: bodystocking
   Availability: Available
@@ -2540,7 +2522,7 @@
     Availability: Not Available
     Price: 149,97 kr. DKK
   - [2 år / 92 cm](https://houseofkids.dk/products/hust-claire-hcbertil-bodyskjorte-kit?variant=55756412813691)
-    Availability: Available
+    Availability: Not Available
     Price: 149,97 kr. DKK
 - [Hust & Claire HCKis velourkjole i More navy](https://houseofkids.dk/products/hust-claire-hckis-kjole-more-navy): HCKis kjole fra Hust & Claire i navy velourkvalitet med foer og knaplukning. En fin kjole til dage, hvor tøjet gerne må være lidt pænere på.
   Updated: 2026-05-22T01:40:25Z
@@ -2678,7 +2660,7 @@
     Availability: Available
     Price: 95,97 kr. DKK
 - [Superfit Mars vinterstøvle med wirelukning - grøn/sort](https://houseofkids.dk/products/superfit-mars-vinterstoevle-green-black): Superfit Mars vinterstøvle i grøn/sort med tekstilfoer, almindelig bredde og praktisk wirelukning til kolde dage og nem tilpasning omkring foden.
-  Updated: 2026-05-22T01:40:26Z
+  Updated: 2026-05-27T08:57:11Z
   Vendor: Superfit
   Product Type: vinterstøvle
   Availability: Available
@@ -2854,87 +2836,102 @@
   - [13-14 år](https://houseofkids.dk/products/the-new-tnthe-top-ski-patrol?variant=55756417532283)
     Availability: Not Available
     Price: 89,97 kr. DKK
-[List Continued](https://houseofkids.dk/a/llms-agent/llms.txt?shop=houseofkids-danmark.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTIzOTgxODgzODM5NSwibGFzdF92YWx1ZSI6IjE1MjM5ODE4ODM4Mzk1In0%3D)
+- [HCPilou bluse - Ivy Melange, økologisk bomuld](https://houseofkids.dk/products/hust-claire-hcpilou-bluse-ivy-melange): Hust & Claire HCPilou bluse i Ivy Melange, strikket i 100% økologisk bomuld. GOTS-certificeret kvalitet, der er rar at have på til hverdagsbrug.
+  Updated: 2026-05-22T18:34:51Z
+  Vendor: Hust & claire
+  Product Type: bluser
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0913/5747/9291/files/680a0e4e5f4f3355-00193-31211-4461_copy.webp?v=1768584828
+  - [12 mdr / 80 cm](https://houseofkids.dk/products/hust-claire-hcpilou-bluse-ivy-melange?variant=55756417663355)
+    Availability: Not Available
+    Price: 167,97 kr. DKK
+  - [18 mdr / 86 cm](https://houseofkids.dk/products/hust-claire-hcpilou-bluse-ivy-melange?variant=55756417696123)
+    Availability: Not Available
+    Price: 167,97 kr. DKK
+  - [2 år / 92 cm](https://houseofkids.dk/products/hust-claire-hcpilou-bluse-ivy-melange?variant=55756417728891)
+    Availability: Available
+    Price: 167,97 kr. DKK
+[List Continued](https://houseofkids.dk/a/llms-agent/llms.txt?shop=houseofkids-danmark.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTIzOTgxODkwMzkzMSwibGFzdF92YWx1ZSI6IjE1MjM5ODE4OTAzOTMxIn0%3D)
 
 ## Collections
 
 - [Cardigans til børn og baby | Bløde valgmuligheder i uld og bomuld](https://houseofkids.dk/collections/cardigans): Find cardigans til baby og børn i uld eller bomuld – ideelle til lag-på-lag i hverdagen. Udvalgt for komfort og holdbarhed. Nem retur og hurtig levering.
-  Updated: 2026-05-26T09:14:59Z
+  Updated: 2026-06-02T11:43:45Z
   Total Products: 417
 - [Nederdele til børn – komfort og stil i hverdagen](https://houseofkids.dk/collections/nederdele): Se vores udvalg af nederdele til børn i bløde materialer. Perfekte til leg, skole og fest – altid med fokus på komfort og god pasform.
-  Updated: 2026-05-25T11:35:35Z
+  Updated: 2026-06-02T20:12:05Z
   Total Products: 367
 - [Kjoler til børn og baby | Komfort og kvalitet](https://houseofkids.dk/collections/kjoler): Find kjoler til baby og børn i bløde materialer, fine prints og rolige farver. Udvalgt til hverdag, leg og særlige dage med komfort i fokus.
-  Updated: 2026-05-26T10:00:05Z
+  Updated: 2026-06-02T13:31:49Z
   Total Products: 1523
 - [Sweatshirts til børn og baby | Blød komfort til hverdagen](https://houseofkids.dk/collections/sweatshirts): Find bløde og slidstærke sweatshirts til både drenge og piger. Perfekte til leg, institution og hygge – altid udvalgt med fokus på kvalitet og komfort.
-  Updated: 2026-05-24T22:51:33Z
-  Total Products: 533
+  Updated: 2026-06-02T10:28:07Z
+  Total Products: 546
 - [Sweatpants til børn | Joggingbukser til hverdagen](https://houseofkids.dk/collections/sweatpants): Find sweatpants og joggingbukser til baby og børn. Bløde, praktiske styles til leg, institution og afslappede dage med hurtig levering.
-  Updated: 2026-05-26T08:13:40Z
+  Updated: 2026-06-02T11:50:55Z
   Total Products: 532
 - [Hårpynt til baby og børn | Hårbånd & elastikker](https://houseofkids.dk/collections/harpynt): Find hårpynt til baby og børn – fra bløde hårbånd og elastikker til fine spænder. Kurateret udvalg til hverdag, leg og særlige dage.
-  Updated: 2026-05-25T11:35:35Z
+  Updated: 2026-06-02T20:51:03Z
   Total Products: 150
 - [Hjemmesko til børn | Bløde sko til indeleg](https://houseofkids.dk/collections/hjemmesko): Find hjemmesko til børn i bløde, praktiske modeller til institution, skole og rolige dage hjemme. Udvalg med fokus på komfort og pasform.
-  Updated: 2026-05-24T22:51:33Z
+  Updated: 2026-06-01T10:34:19Z
   Total Products: 217
 - [Ballerinasko til børn | Pæne sko til fest og hverdag](https://houseofkids.dk/collections/ballerinasko): Find ballerinasko til børn i enkle og fine styles til hverdag, fest og indendørs brug. Udvalgt med fokus på god pasform og komfort.
-  Updated: 2026-05-20T08:09:31Z
+  Updated: 2026-05-28T11:43:04Z
   Total Products: 11
 - [Badesandaler til børn | Til strand, pool og ferie](https://houseofkids.dk/collections/badesandaler): Find badesandaler til børn til strand, pool og ferie. Vælg lette, praktiske modeller, der er nemme at tage med til badning og leg ved vandet.
-  Updated: 2026-05-25T23:03:09Z
+  Updated: 2026-06-01T11:42:32Z
   Total Products: 134
 - [Støvletter til børn | Korte støvler til hverdag](https://houseofkids.dk/collections/stovletter): Find støvletter til børn i korte, praktiske modeller til institution, skole og pænere brug. Kurateret med fokus på komfort og god pasform.
   Updated: 2026-05-07T01:34:53Z
   Total Products: 0
 - [Gummistøvler til børn | Til regn og vandpytter](https://houseofkids.dk/collections/gummistovler): Se et kurateret udvalg af gummistøvler til børn, der holder fødderne tørre på våde dage – til institution, skole og leg i vandpytter.
-  Updated: 2026-05-24T22:51:36Z
+  Updated: 2026-06-02T12:23:41Z
   Total Products: 240
 - [Overdele til børn og baby | Til hverdag og lag-på-lag](https://houseofkids.dk/collections/overdele): Find overdele til børn og baby: bluser, t-shirts, sweatshirts og strik til hverdag, leg og lag-på-lag. Kurateret med fokus på komfort.
-  Updated: 2026-05-26T10:28:32Z
-  Total Products: 4752
+  Updated: 2026-06-02T20:41:59Z
+  Total Products: 4769
 - [Sandaler til baby og børn | God pasform til sommer](https://houseofkids.dk/collections/sandaler): Find sandaler til baby og børn med god pasform til varme dage, institution og ferie. Vælg mellem åbne og lukkede modeller i holdbar kvalitet.
-  Updated: 2026-05-26T08:48:16Z
+  Updated: 2026-06-02T20:30:39Z
   Total Products: 618
 - [Støvler til børn | Komfort til hverdag og overgang](https://houseofkids.dk/collections/stovler): Find støvler til børn i holdbare materialer og gode pasformer. Til institution, skole og skiftende vejr – kurateret udvalg fra kendte børneskomærker.
-  Updated: 2026-05-24T22:51:36Z
-  Total Products: 720
+  Updated: 2026-06-02T12:23:41Z
+  Total Products: 726
 - [Caps og kasketter til børn | Til sol og hverdag](https://houseofkids.dk/collections/caps): Find caps og kasketter til børn i lette, praktiske designs. Gode til solrige dage, leg og hverdagsbrug – til både små og større børn.
-  Updated: 2026-05-26T01:02:10Z
+  Updated: 2026-06-02T12:18:04Z
   Total Products: 97
 - [Solhatte og sommerhatte til børn | Skygge i solen](https://houseofkids.dk/collections/sommerhatte): Find solhatte og sommerhatte til baby og børn – gode til strand, ferie og leg i haven, når små hoveder har brug for skygge i solen.
-  Updated: 2026-05-26T08:50:55Z
+  Updated: 2026-06-02T18:41:52Z
   Total Products: 147
 - [Puslepuder til baby | Bløde valg til puslebordet](https://houseofkids.dk/collections/puslepuder): Find puslepuder til baby fra bl.a. Cam Cam og Liewood. Bløde, praktiske designs til puslebordet, der gør bleskift trygt i hverdagen.
   Updated: 2026-05-26T01:02:18Z
   Total Products: 12
 - [Smække til baby og børn | Til måltider og savl](https://houseofkids.dk/collections/smaekke): Find smække til baby og børn – fra praktiske spisesmække til bløde hagesmække, der beskytter tøjet ved måltider, savl og hverdagens små uheld.
-  Updated: 2026-05-24T22:51:40Z
+  Updated: 2026-06-02T11:43:45Z
   Total Products: 49
 - [Stofbleer og svøb til baby | Blødt til hverdagen](https://houseofkids.dk/collections/stofbleer-svob): Find bløde stofbleer og svøb til baby. Praktiske ved pusling, amning og rolige stunder – udvalgt med fokus på komfort og kvalitet.
   Updated: 2026-05-24T22:51:35Z
   Total Products: 53
 - [Rygsække til børn | Til hverdag, skole og tur](https://houseofkids.dk/collections/rygsaekke): Find rygsække til børn til børnehave, skole og små ture. Praktiske modeller med plads til madpakke, drikkedunk og hverdagens småting.
-  Updated: 2026-05-24T22:51:33Z
+  Updated: 2026-06-02T12:23:41Z
   Total Products: 113
 - [Suttesnore til baby | Hold styr på sutten](https://houseofkids.dk/collections/suttesnorer): Find suttesnore til baby, der holder sutten tæt på i barnevogn, pusletaske og hverdag. Praktiske designs fra et kurateret udvalg.
-  Updated: 2026-05-20T08:09:25Z
+  Updated: 2026-06-01T07:44:04Z
   Total Products: 34
 - [Termostøvler til børn | Varme fødder i regn og sjap](https://houseofkids.dk/collections/termostoevler): Find termostøvler til børn, der holder små fødder varme på kolde, våde dage. Gode til institution, legeplads, regn og sjap.
-  Updated: 2026-05-21T13:38:52Z
-  Total Products: 133
+  Updated: 2026-05-28T12:20:52Z
+  Total Products: 135
 - [Sommerdragter til baby og børn | Til varme dage](https://houseofkids.dk/collections/sommerdragter): Find lette sommerdragter til baby og børn i bløde kvaliteter. Gode til varme dage, ferie og leg – med tryg online shopping hos House of Kids.
-  Updated: 2026-05-26T10:20:26Z
-  Total Products: 1608
+  Updated: 2026-06-02T20:41:59Z
+  Total Products: 1609
 - [Drikkedunke til børn | Til skole, tur og institution](https://houseofkids.dk/collections/drikkedunke): Find praktiske drikkedunke til børn til skole, børnehave og ture. Vælg mellem fine designs, termoflasker og lette flasker til hverdagen.
-  Updated: 2026-05-26T01:02:18Z
+  Updated: 2026-06-02T12:23:41Z
   Total Products: 137
 - [Toilettasker til børn og familie | Til rejse og hverdag](https://houseofkids.dk/collections/toilettasker): Find toilettasker til børn og familien med plads til toiletgrej, pleje og småting. Praktiske til weekendture, ferie og hverdagens rutiner.
   Updated: 2026-05-22T01:02:32Z
   Total Products: 14
 - [Bamser og tøjdyr til baby og børn | Bløde krammevenner](https://houseofkids.dk/collections/bamser-og-toejdyr): Find bløde bamser og tøjdyr til puttetid, leg og tryghed. Søde krammedyr og gaveidéer fra udvalgte brands hos House of Kids.
-  Updated: 2026-05-26T01:02:11Z
+  Updated: 2026-06-02T11:31:41Z
   Total Products: 185
 - [Lagner til baby og børn | Blød komfort til sengen](https://houseofkids.dk/collections/lagner): Find bløde lagner til baby- og børnesenge, vugge og juniorseng. Udvalgt med fokus på komfort, pasform og tryg sovetid.
   Updated: 2026-05-18T13:29:51Z
@@ -2943,59 +2940,59 @@
   Updated: 2026-05-24T22:51:43Z
   Total Products: 23
 - [Tasker til børn | Til småting, tur og hverdag](https://houseofkids.dk/collections/tasker): Se kuraterede tasker til børn: bæltetasker, skuldertasker og net til småting, ture og hverdage på farten. Hurtig levering.
-  Updated: 2026-05-26T01:02:19Z
+  Updated: 2026-06-02T20:41:59Z
   Total Products: 171
 - [Tegne- og maleudstyr til børn | Kreative stunder](https://houseofkids.dk/collections/tegne-og-male): Find farveblyanter, tusser og vandfarver til børn. Gør plads til kreative stunder derhjemme, på farten eller som en tryg gaveidé.
-  Updated: 2026-05-21T11:52:31Z
+  Updated: 2026-06-02T12:33:27Z
   Total Products: 51
 - [Dukker og tilbehør til børn | Rolleleg og omsorg](https://houseofkids.dk/collections/dukker-og-tilbehor): Find dukker, dukkevogne og tilbehør til børns rolleleg. Gode som gave og til hverdagsleg – kurateret med fokus på kvalitet og holdbarhed.
-  Updated: 2026-05-26T01:02:24Z
+  Updated: 2026-06-02T21:40:30Z
   Total Products: 303
 - [Puslespil og spil til børn | Fordybelse og leg](https://houseofkids.dk/collections/puslespil-og-spil): Find puslespil og spil til børn, der inviterer til ro, læring og hyggelig familietid. Kurateret udvalg med gode gaveidéer til små og større børn.
-  Updated: 2026-05-20T09:02:08Z
+  Updated: 2026-06-02T23:40:37Z
   Total Products: 17
 - [Bøger til børn og baby | Højtlæsning og læring](https://houseofkids.dk/collections/boger): Find børnebøger, billedbøger og stofbøger til baby og børn. Gode til højtlæsning, nysgerrighed og rolige stunder – med nem online shopping.
   Updated: 2026-05-18T13:29:35Z
   Total Products: 10
 - [Udendørs leg til børn | Legetøj til haven og turen](https://houseofkids.dk/collections/udendors-leg): Find udendørs legetøj til børn, der gør haven, parken og ferien sjovere. Kurateret udvalg til aktiv leg, frisk luft og små eventyr.
-  Updated: 2026-05-25T14:40:39Z
+  Updated: 2026-06-02T09:11:58Z
   Total Products: 146
 - [Badekåber til baby og børn | Blød komfort efter bad](https://houseofkids.dk/collections/badekaber): Find bløde badekåber til baby og børn i behagelige materialer. Praktiske efter bad, strand og svømning – kurateret udvalg hos House of Kids.
   Updated: 2026-05-24T22:51:42Z
   Total Products: 34
 - [Adidas Originals til børn | Sporty tøj og sko](https://houseofkids.dk/collections/adidas-originals): Find Adidas Originals til børn med sneakers, sweatshirts og bukser i sporty design. Kurateret udvalg til skole, fritid og aktive hverdage.
-  Updated: 2026-05-24T11:34:11Z
+  Updated: 2026-06-02T11:43:45Z
   Total Products: 81
 - [FUB børnetøj | Økologisk uld & bomuld til børn](https://houseofkids.dk/collections/fub): Find FUB børnetøj i blød uld og økologisk bomuld. Se strik, bodyer, bluser og leggings til baby og børn med tidløst, skandinavisk udtryk.
   Updated: 2026-05-20T17:43:00Z
   Total Products: 125
 - [Angulus til børn | Dansk skodesign med god pasform](https://houseofkids.dk/collections/angulus): Gå på opdagelse i Angulus til børn med sandaler, støvler og hjemmesko i kvalitetsmaterialer, skabt til god pasform og hverdagskomfort.
-  Updated: 2026-05-26T08:48:41Z
-  Total Products: 75
+  Updated: 2026-06-02T11:43:46Z
+  Total Products: 70
 - [BIBS babyudstyr | Sutter, suttesnore og smække](https://houseofkids.dk/collections/bibs): Find BIBS til baby: sutter, suttesnore, stofbleer og smække i dansk design. Kurateret udvalg til små behov i hverdagen.
-  Updated: 2026-05-23T11:34:17Z
-  Total Products: 103
+  Updated: 2026-06-02T21:11:41Z
+  Total Products: 102
 - [Birkenstock til børn | Klassisk komfort til små fødder](https://houseofkids.dk/collections/birkenstock): Se Birkenstock til børn med fokus på støtte, komfort og holdbare materialer. Klassiske modeller til sommer, ferie og hverdag.
-  Updated: 2026-05-25T23:03:17Z
+  Updated: 2026-05-29T11:41:00Z
   Total Products: 31
 - [Bisgaard til børn | Dansk design og god pasform](https://houseofkids.dk/collections/bisgaard): Find Bisgaard til børn med fokus på komfort, pasform og holdbarhed. Se sandaler, hjemmesko, gummistøvler og støvler til hverdagen.
-  Updated: 2026-05-26T08:31:18Z
+  Updated: 2026-06-02T11:43:46Z
   Total Products: 275
 - [Bon Dep til børn | accessories i fine designs](https://houseofkids.dk/collections/bon-dep): Find Bon Dep til børn: fine accessories som hårspænder, sløjfer og elastikker i søde designs. Udvalgt med fokus på enkle, dekorative detaljer.
-  Updated: 2026-05-19T02:32:56Z
-  Total Products: 31
+  Updated: 2026-06-02T20:51:28Z
+  Total Products: 27
 - [Cam Cam Copenhagen | Babyudstyr & børneværelse](https://houseofkids.dk/collections/cam-cam): Find Cam Cam til baby og børneværelse: pusletasker, stofbleer og fin pynt i roligt skandinavisk design. Kurateret udvalg hos House of Kids.
-  Updated: 2026-05-20T10:01:42Z
+  Updated: 2026-05-29T09:02:07Z
   Total Products: 14
 - [CeLaVi til børn | tøj og overtøj til udeleg](https://houseofkids.dk/collections/celavi): Find CeLaVi til børn: regntøj, termotøj, gummistøvler og luffer til institution, udeleg og skiftende vejr. Kurateret udvalg hos House of Kids.
-  Updated: 2026-05-25T11:35:35Z
-  Total Products: 99
+  Updated: 2026-06-01T11:42:32Z
+  Total Products: 100
 - [Cocoon Company til baby og børn | Økologisk sovetid](https://houseofkids.dk/collections/cocoon): Se Cocoon Company til børneværelset med dyner, hovedpuder og lagner i økologiske naturmaterialer. Til en blød og tryg sovetid.
   Updated: 2026-05-21T12:04:56Z
   Total Products: 28
 - [En Fant til børn | Tøj, sko og overtøj til hverdag](https://houseofkids.dk/collections/en-fant): Gå på opdagelse i En Fant til børn med kurateret tøj, sko og overtøj til hverdag, leg og skiftende vejr. Kvalitet og komfort i fokus.
-  Updated: 2026-05-25T23:03:15Z
-  Total Products: 230
+  Updated: 2026-06-02T11:43:45Z
+  Total Products: 228
 - [Fabelab legetøj & økologiske tekstiler | House of Kids](https://houseofkids.dk/collections/fabelab): Gå på opdagelse i Fabelabs bløde univers med økologiske tekstiler, legetøj, sengetøj og interiør til baby og børn.
   Updated: 2026-05-22T11:37:21Z
   Total Products: 24
@@ -3003,97 +3000,97 @@
   Updated: 2026-05-24T11:34:11Z
   Total Products: 23
 - [House of Kids eget mærke ♥ | Lækkert basistøj i høj kvalitet](https://houseofkids.dk/collections/house-of-kids): Forskellige styles, farver og print til drenge og piger. Lækker kvalitet og gode priser! ✓Fri fragt over 599 kr. ✓Dag-til-dag levering ✓30 dages retur
-  Updated: 2026-05-25T11:35:35Z
+  Updated: 2026-06-02T11:43:46Z
   Total Products: 190
 - [Hummel til børn | Tøj og sko til aktiv hverdag](https://houseofkids.dk/collections/hummel): Find Hummel til børn med tøj, sko og overtøj til leg, skole og institution. Komfortable styles i sporty design og nem online shopping.
-  Updated: 2026-05-25T23:03:20Z
-  Total Products: 353
+  Updated: 2026-06-02T09:02:12Z
+  Total Products: 350
 - [Hust & Claire børnetøj | Blød kvalitet til hverdagen](https://houseofkids.dk/collections/hust-claire): Se udvalget fra Hust & Claire med børnetøj og babytøj i bløde materialer. Find bodyer, bukser, kjoler og praktiske styles til hverdagen.
-  Updated: 2026-05-24T11:34:11Z
-  Total Products: 432
+  Updated: 2026-06-02T19:41:07Z
+  Total Products: 430
 - [Huttelihut til baby og børn | Tøj og tilbehør](https://houseofkids.dk/collections/huttelihut): Se udvalget fra Huttelihut med tøj og tilbehør til baby og børn. Bløde materialer, god komfort og styles til både hverdag og sæson.
-  Updated: 2026-05-25T13:20:57Z
+  Updated: 2026-06-02T11:43:46Z
   Total Products: 207
 - [Joha til baby og børn | Uld og bløde basisstyles](https://houseofkids.dk/collections/joha): Find Joha til baby og børn: uldbodyer, leggings, undertøj og bløde styles i uld/silke til lag-på-lag, hverdag og kolde dage.
-  Updated: 2026-05-24T17:43:48Z
-  Total Products: 320
+  Updated: 2026-06-02T18:41:52Z
+  Total Products: 319
 - [Levi's Kids børnetøj | Denim og styles til hverdagen](https://houseofkids.dk/collections/levi-s-kids): Find Levi's Kids til børn og teenagere – fra denim og bukser til t-shirts og sweatshirts med klassisk logo. Kurateret udvalg til hverdagen.
-  Updated: 2026-05-25T11:35:35Z
+  Updated: 2026-05-31T11:41:28Z
   Total Products: 142
 - [Liewood til børn | Tøj og udstyr i nordisk design](https://houseofkids.dk/collections/liewood): Find Liewood til baby og børn – fra tøj og badetøj til madkasser, drikkedunke og børneservice i praktisk, skandinavisk design.
-  Updated: 2026-05-25T23:03:20Z
-  Total Products: 495
+  Updated: 2026-06-02T13:31:52Z
+  Total Products: 575
 - [Maileg legetøj & interiør | Eventyrligt univers](https://houseofkids.dk/collections/maileg): Gå på opdagelse i Maileg med mus, kaniner, bamser og fint tilbehør til leg og børneværelse. Kurateret udvalg fra dansk webshop.
-  Updated: 2026-05-24T19:21:16Z
-  Total Products: 221
+  Updated: 2026-06-02T14:01:46Z
+  Total Products: 211
 - [MarMar Copenhagen til baby og børn | Blød kvalitet](https://houseofkids.dk/collections/marmar): Find MarMar Copenhagen til baby og børn – fra bløde ribstyles og basis til kjoler, bukser og overtøj. Kurateret udvalg hos House of Kids.
-  Updated: 2026-05-25T11:35:35Z
-  Total Products: 496
+  Updated: 2026-06-02T19:42:00Z
+  Total Products: 491
 - [Melton til børn | Strømper, strømpebukser & hjemmesko](https://houseofkids.dk/collections/melton): Find Melton til børn: bløde strømper, strømpebukser og hjemmesko med god komfort til hverdag, leg og små fødder. Kurateret dansk webshop.
-  Updated: 2026-05-22T11:37:21Z
-  Total Products: 134
+  Updated: 2026-05-31T11:41:28Z
+  Total Products: 132
 - [Mikk-line til børn | Praktisk tøj til udeliv](https://houseofkids.dk/collections/mikk-line): Find Mikk-line til børn – fra regntøj og termotøj til flyverdragter og luffer. Praktiske valg til leg ude i skiftende vejr hos House of Kids.
-  Updated: 2026-05-23T11:34:17Z
-  Total Products: 135
+  Updated: 2026-05-31T11:41:30Z
+  Total Products: 136
 - [Mini A Ture til børn | Overtøj til alt slags vejr](https://houseofkids.dk/collections/mini-a-ture): Find Mini A Ture til børn med jakker, flyverdragter, regntøj og tilbehør. Funktionelt overtøj til institution, udeleg og skiftende vejr.
-  Updated: 2026-05-22T11:37:21Z
-  Total Products: 292
+  Updated: 2026-06-02T17:01:59Z
+  Total Products: 289
 - [Mini Rodini børnetøj | Legende prints til børn](https://houseofkids.dk/collections/mini-rodini): Se Mini Rodini børnetøj med legende prints, bløde kvaliteter og skandinavisk kant – kurateret til børn, der leger og bruger tøjet i hverdagen.
-  Updated: 2026-05-21T12:02:29Z
-  Total Products: 52
+  Updated: 2026-06-02T12:11:35Z
+  Total Products: 48
 - [Minimalisma tøj til baby og børn | Uld & silke](https://houseofkids.dk/collections/minimalisma): Find Minimalisma til baby og børn i bløde naturmaterialer som uld, silke og økologisk bomuld. Kurateret udvalg til hverdagskomfort.
   Updated: 2026-05-24T20:21:27Z
   Total Products: 18
 - [Molo børnetøj | Farverigt tøj til baby og børn](https://houseofkids.dk/collections/molo): Find Molo børnetøj med farverige prints og praktiske styles til hverdagen – fra kjoler og bluser til overtøj og badetøj til børn.
-  Updated: 2026-05-24T11:34:11Z
-  Total Products: 564
+  Updated: 2026-06-02T10:28:09Z
+  Total Products: 586
 - [MP Denmark til baby og børn | Blød dansk kvalitet](https://houseofkids.dk/collections/mp-denmark): Se MP Denmark til baby og børn: strømper, strømpebukser, huer og bløde basics i uld, bomuld og rib til hverdag og sæson.
-  Updated: 2026-05-24T11:34:11Z
-  Total Products: 344
+  Updated: 2026-06-02T11:43:46Z
+  Total Products: 346
 - [Müsli by Green Cotton | Økologisk tøj til baby og børn](https://houseofkids.dk/collections/musli-by-green-cotton): Find Müsli by Green Cotton hos House of Kids: bløde bodyer, heldragter og leggings i økologisk bomuld til baby og børn – til en behagelig hverdag.
-  Updated: 2026-05-24T20:21:30Z
-  Total Products: 330
+  Updated: 2026-06-02T11:43:46Z
+  Total Products: 325
 - [OYOY til børneværelset | Interiør og legetøj](https://houseofkids.dk/collections/oyoy): Find OYOY til børneværelset: tæpper, bamser og fin pynt i legende skandinavisk design. Kurateret udvalg med hurtig levering.
   Updated: 2026-05-21T12:02:37Z
   Total Products: 37
 - [Petit Crabe UV-badetøj til børn | UPF 50+](https://houseofkids.dk/collections/petit-crabe): Find Petit Crabe UV-badetøj til baby og børn. Let, åndbart og hurtigtørrende badetøj med UPF 50+ til strand, pool og solrige dage.
-  Updated: 2026-05-23T04:26:07Z
-  Total Products: 12
+  Updated: 2026-05-31T20:41:26Z
+  Total Products: 11
 - [Pom Pom børnesko | Blød komfort til små fødder](https://houseofkids.dk/collections/pom-pom): Find børnesko fra Pom Pom til små fødder – fra hjemmesko og sandaler til gummistøvler. Udvalgt med fokus på pasform, komfort og hverdagsbrug.
-  Updated: 2026-05-25T06:46:48Z
-  Total Products: 44
+  Updated: 2026-06-02T20:31:17Z
+  Total Products: 43
 - [PUMA sko til børn | sporty komfort til hverdagen](https://houseofkids.dk/collections/puma): Se PUMA sko til børn i sporty designs til skole, leg og fritid. Vælg mellem lette, komfortable modeller fra et trygt dansk børneunivers.
-  Updated: 2026-05-21T12:02:40Z
+  Updated: 2026-05-31T11:41:30Z
   Total Products: 14
 - [Schleich figurer til børn | Fantasifulde legeuniverser](https://houseofkids.dk/collections/schleich): Find Schleich figurer og legeuniverser med dyr, heste og dinosaurer. Realistiske detaljer gør dem gode til fantasifuld leg og gaveidéer.
   Updated: 2026-05-25T18:17:37Z
   Total Products: 73
 - [The New børnetøj til børn | Farver, print og glimmer](https://houseofkids.dk/collections/the-new): Find børnetøj fra The New med kjoler, bluser, bukser og t-shirts i farver, print og glimmer. Til hverdage, skole og fest – med nem retur.
-  Updated: 2026-05-23T12:31:06Z
-  Total Products: 291
+  Updated: 2026-06-02T09:02:20Z
+  Total Products: 284
 - [Wheat børnetøj og babytøj | Nordisk hverdagskvalitet](https://houseofkids.dk/collections/wheat): Gå på opdagelse i Wheat til baby og børn: bluser, bukser, bodyer og overtøj i bløde materialer, skabt til leg, komfort og hverdagsbrug.
-  Updated: 2026-05-26T09:30:49Z
+  Updated: 2026-06-02T20:51:03Z
   Total Products: 1795
 - [Petit Piao børnetøj og babytøj | Økologisk bomuld](https://houseofkids.dk/collections/petit-piao): Find Petit Piao til baby og børn i blød økologisk bomuld. Se bluser, leggings, bodystockings og undertøj i roligt skandinavisk design til hverdagen.
-  Updated: 2026-05-22T11:37:20Z
+  Updated: 2026-06-02T09:02:28Z
   Total Products: 193
 - [Lil' Atelier børnetøj | Naturlige styles til børn](https://houseofkids.dk/collections/lil-atelier): Find Lil' Atelier til baby og børn: bløde hverdagsstyles i rolige farver, fine prints og behagelige materialer. Kurateret hos House of Kids.
-  Updated: 2026-05-26T09:14:59Z
-  Total Products: 700
+  Updated: 2026-06-02T18:41:53Z
+  Total Products: 728
 - [Engel børnetøj i uld og silke til baby og børn](https://houseofkids.dk/collections/engel): Find Engel til baby og børn i blød uld, uld/silke og økologiske materialer. Naturlig komfort til både basislag og kølige dage.
-  Updated: 2026-05-22T02:56:17Z
+  Updated: 2026-05-27T07:32:44Z
   Total Products: 26
 - [Lil' Boo Copenhagen til børn | Cool accessories](https://houseofkids.dk/collections/lil-boo-copenhagen): Find Lil' Boo Copenhagen til børn med caps, huer og afslappede accessories i cool, skandinavisk stil. Kurateret udvalg til hverdagen.
-  Updated: 2026-05-21T12:02:49Z
+  Updated: 2026-05-26T11:35:59Z
   Total Products: 41
 - [That's Mine til baby og børn | Tøj, udstyr & interiør](https://houseofkids.dk/collections/that-s-mine): Find udvalgte styles fra That's Mine: blødt babytøj, praktisk udstyr og fint interiør til børneværelset. Kurateret udvalg hos House of Kids.
-  Updated: 2026-05-24T23:02:08Z
-  Total Products: 122
+  Updated: 2026-06-02T09:01:46Z
+  Total Products: 121
 - [Name It børnetøj | Komfort til baby og børn](https://houseofkids.dk/collections/name-it): Find Name It børnetøj til baby og børn – fra bløde basisstyles til praktisk hverdagstøj, der holder til leg. Kurateret udvalg og hurtig levering.
-  Updated: 2026-05-26T09:11:36Z
-  Total Products: 1602
+  Updated: 2026-06-02T20:39:27Z
+  Total Products: 1605
 - [Organic Zoo tøj til baby og børn | Økologisk bomuld](https://houseofkids.dk/collections/organic-zoo): Se Organic Zoo baby- og børnetøj i blød økologisk bomuld. Vælg unisex bodyer, leggings og heldragter til en rolig hverdag.
-  Updated: 2026-05-25T10:02:11Z
+  Updated: 2026-06-01T09:11:26Z
   Total Products: 11
 - [Silly Silas til baby og børn | seler og komfort](https://houseofkids.dk/collections/silly-silas): Find Silly Silas med de karakteristiske seler, bløde leggings og strømpebukser til baby og små børn. Kurateret udvalg til leg og hverdag.
   Updated: 2026-05-21T12:02:54Z
@@ -3102,35 +3099,35 @@
   Updated: 2026-05-21T12:02:55Z
   Total Products: 17
 - [Bobo Choses børnetøj | Legende prints til børn](https://houseofkids.dk/collections/bobo-choses): Find Bobo Choses børnetøj til piger og drenge med legende prints, bløde kvaliteter og farver til hverdag og leg. Kurateret hos House of Kids.
-  Updated: 2026-05-25T21:01:56Z
-  Total Products: 74
+  Updated: 2026-06-02T02:23:46Z
+  Total Products: 76
 - [Køredragter til baby og små børn | barnevogn](https://houseofkids.dk/collections/koredragter): Find lune køredragter til baby og små børn – ideelle til barnevogn, klapvogn og lure på tur, med fokus på komfort, pasform og bløde materialer.
   Updated: 2026-05-26T01:02:25Z
   Total Products: 120
 - [Minipop til baby og børn | Bløde accessories](https://houseofkids.dk/collections/minipop): Find Minipop til baby og børn – bløde strømper og små accessories, der er nemme at bruge i hverdagen. Kurateret dansk webshop.
-  Updated: 2026-05-21T12:02:59Z
-  Total Products: 25
+  Updated: 2026-06-02T11:43:46Z
+  Total Products: 24
 - [The New Siblings babytøj | Blød økologisk bomuld](https://houseofkids.dk/collections/the-new-siblings): Find The New Siblings babytøj i blød økologisk bomuld – fra bodystockings og bukser til bluser og kjoler til baby og småbørn.
-  Updated: 2026-05-24T08:01:57Z
+  Updated: 2026-06-01T11:42:32Z
   Total Products: 185
 - [SunnyLife til børn | Strandleg og badeudstyr](https://houseofkids.dk/collections/sunnylife): Gå på opdagelse i SunnyLife til børn med svømmeveste, badedyr og strandudstyr til pool og strand. Farverige valg til sommerens vandleg.
-  Updated: 2026-05-25T10:10:57Z
-  Total Products: 48
+  Updated: 2026-06-01T14:31:18Z
+  Total Products: 40
 - [Sticky Lemon til børn | Farverige tasker og tilbehør](https://houseofkids.dk/collections/sticky-lemon): Gå på opdagelse i Sticky Lemon hos House of Kids: farverige rygsække, solhatte og scrunchies til børn med legende design og praktisk funktion.
-  Updated: 2026-05-21T12:03:02Z
-  Total Products: 23
+  Updated: 2026-06-02T19:21:08Z
+  Total Products: 22
 - [A Little Lovely Company | madkasser, tasker & leg](https://houseofkids.dk/collections/a-little-lovely-company): Se A Little Lovely Company til børn med madkasser, drikkedunke, rygsække og kreative sager til institution, skole og små hverdagseventyr.
-  Updated: 2026-05-21T12:03:03Z
+  Updated: 2026-05-28T11:43:08Z
   Total Products: 76
 - [Flöss til baby og børn | Økologisk børnetøj](https://houseofkids.dk/collections/floss): Gå på opdagelse i Flöss til baby og børn – fra bodyer og kjoler til bukser og strik i bløde, økologiske materialer og rolige farver.
-  Updated: 2026-05-26T08:51:31Z
-  Total Products: 118
+  Updated: 2026-06-02T11:43:45Z
+  Total Products: 119
 - [Gray Label til baby og børn | Økologisk basistøj](https://houseofkids.dk/collections/gray-label): Gå på opdagelse i Gray Label til baby og børn – bløde basisstyles i økologisk bomuld, rolige farver og enkel pasform til hverdagen.
   Updated: 2026-05-21T12:03:06Z
   Total Products: 131
 - [Minymo børnetøj til baby og børn | Leg og hverdag](https://houseofkids.dk/collections/minymo): Find Minymo børnetøj til baby og børn: bluser, bukser, kjoler og bløde basisstyles med god komfort til institution, leg og hverdag.
-  Updated: 2026-05-25T13:02:27Z
-  Total Products: 239
+  Updated: 2026-05-29T11:41:02Z
+  Total Products: 235
 - [Wheat termodragt til børn | Til overgangsvejr](https://houseofkids.dk/collections/wheat-termodragter): Find Wheat termodragter til børn – lette, praktiske dragter til overgangsvejr, institution og leg udenfor. Kurateret udvalg hos House of Kids.
   Updated: 2026-05-21T12:03:09Z
   Total Products: 0
@@ -3141,17 +3138,17 @@
   Updated: 2026-05-21T12:03:11Z
   Total Products: 6
 - [Joha ulddragter til baby og børn | Blød uld](https://houseofkids.dk/collections/joha-ulddragter): Find Joha ulddragter i blød uld til baby og børn. Gode som varmt lag på kolde dage, til lur, barnevogn og rolig hverdagskomfort.
-  Updated: 2026-05-21T13:38:50Z
+  Updated: 2026-06-01T12:41:54Z
   Total Products: 21
 - [Joha futter i uld til baby | Blød varme til små fødder](https://houseofkids.dk/collections/joha-futter): Find Joha futter i blød uld til baby. Holder små fødder varme i barnevogn, autostol og hjemmet – med hurtig levering og nem retur.
   Updated: 2026-05-21T13:40:27Z
   Total Products: 6
 - [Maileg mus i æsker | små figurer til leg og gaver](https://houseofkids.dk/collections/maileg-mus): Find Maileg mus som storesøster, prinsesse og superhelt. Fine figurer i æsker med tøj og tilbehør – gode til leg, samling og gaver hos House of Kids.
-  Updated: 2026-05-22T11:41:07Z
+  Updated: 2026-05-27T07:32:28Z
   Total Products: 17
 - [Huttelihut huer til baby og børn | Uld & bomuld](https://houseofkids.dk/collections/huttelihut-huer): Find Huttelihut huer til baby og børn i blød uld og bomuld. Vælg babyhuer og huer med ører eller kvaste til kolde dage og hverdagsbrug.
-  Updated: 2026-05-22T11:37:20Z
-  Total Products: 75
+  Updated: 2026-05-29T12:02:37Z
+  Total Products: 76
 - [Huttelihut elefanthuer i uld og bomuld til børn](https://houseofkids.dk/collections/huttelihut-elefanthuer): Find bløde Huttelihut elefanthuer i uld og bomuld til baby og børn. Med god pasform til kolde dage, barnevognen og hverdagen i institution.
   Updated: 2026-05-21T12:03:16Z
   Total Products: 3
@@ -3171,8 +3168,8 @@
   Updated: 2026-05-21T12:04:26Z
   Total Products: 4
 - [VEJA til børn | komfort med omtanke](https://houseofkids.dk/collections/veja): Find VEJA til børn hos House of Kids – kuraterede børnesko med god komfort, enkelt design og materialer valgt med omtanke til hverdag og leg.
-  Updated: 2026-05-25T23:03:09Z
-  Total Products: 21
+  Updated: 2026-06-02T11:43:46Z
+  Total Products: 20
 - [Maileg nisser til jul | Pixy, stofnisser og Noel](https://houseofkids.dk/collections/maileg-nisser): Find Maileg nisser til jul – fra Pixy nisser med magnet til stofnisser og Petit/Grand Noel. Skønne figurer til pynt, leg og gaver.
   Updated: 2026-05-21T12:04:27Z
   Total Products: 3
@@ -3180,11 +3177,11 @@
   Updated: 2026-05-21T12:04:29Z
   Total Products: 0
 - [Copenhagen Colors til baby og børn | Blød hverdagsstil](https://houseofkids.dk/collections/copenhagen-colors): Se Copenhagen Colors tøj til baby og børn: bodyer, bluser, bukser og bløde basisstyles i fine farver, udvalgt til hverdag, leg og institution.
-  Updated: 2026-05-25T11:35:35Z
-  Total Products: 163
+  Updated: 2026-06-02T11:43:46Z
+  Total Products: 162
 - [Maileg jul – nisser, julepynt og julefigurer](https://houseofkids.dk/collections/maileg-jul): Find Maileg jul med nisser, julepynt og små figurer til hyggelige decembertraditioner hos House of Kids. Kurateret udvalg og tryg online shopping.
-  Updated: 2026-05-21T12:04:31Z
-  Total Products: 12
+  Updated: 2026-06-02T14:01:46Z
+  Total Products: 8
 - [Cocoon hovedpuder | Allergivenlig komfort til søvn](https://houseofkids.dk/collections/cocoon-hovedpuder): Find Cocoon hovedpuder til baby, børn og voksne. Allergivenlige puder med blød komfort til et roligt sovemiljø – med nem retur.
   Updated: 2026-05-21T12:04:56Z
   Total Products: 14
@@ -3192,7 +3189,7 @@
   Updated: 2026-05-21T12:04:33Z
   Total Products: 7
 - [Fliink børnetøj | Bløde materialer og dæmpede farver](https://houseofkids.dk/collections/fliink): Find Fliink børnetøj i bløde materialer, rolige farver og fine prints. Se bluser, bukser, kjoler og flere styles til hverdag og leg.
-  Updated: 2026-05-22T11:44:18Z
+  Updated: 2026-06-02T11:43:45Z
   Total Products: 140
 - [Cocoon dyner til baby, børn og voksne | Allergivenlig komfort](https://houseofkids.dk/collections/cocoon-dyner): Find Cocoon dyner til baby, junior og voksen. Allergivenlige dyner med blød komfort, der støtter et roligt og trygt sovemiljø.
   Updated: 2026-05-21T12:04:56Z
@@ -3201,49 +3198,49 @@
   Updated: 2026-05-21T12:04:36Z
   Total Products: 3
 - [Mini A Ture fleece til børn | Bløde lag til udeliv](https://houseofkids.dk/collections/mini-a-ture-fleece): Find Mini A Ture fleece til børn – fleecejakker og dragter, der fungerer som bløde mellemlag til institution, udeleg og skiftende vejr.
-  Updated: 2026-05-21T12:04:38Z
-  Total Products: 32
+  Updated: 2026-05-28T13:31:06Z
+  Total Products: 31
 - [Mini A Ture softshells til børn | Overgangsvejr](https://houseofkids.dk/collections/mini-a-ture-softshells): Se Mini A Ture softshells til børn og baby – jakker og dragter til skiftende vejr med blød komfort, vandafvisende funktion og nem retur.
-  Updated: 2026-05-22T11:37:21Z
-  Total Products: 292
+  Updated: 2026-06-02T17:01:59Z
+  Total Products: 289
 - [Drenge vinterstøvler til kulde, sne og sjap](https://houseofkids.dk/collections/drenge-vinterstovler): Se vinterstøvler til drenge med varmt foer, god støtte og praktiske detaljer til skole, børnehave og kolde dage udenfor.
-  Updated: 2026-05-21T13:40:21Z
-  Total Products: 72
+  Updated: 2026-06-01T11:42:32Z
+  Total Products: 71
 - [Pige vinterstøvler til kolde dage | House of Kids](https://houseofkids.dk/collections/pige-vinterstovler): Se kuraterede vinterstøvler til piger med varmt for, god pasform og praktiske såler – til institution, skole og leg på kolde dage.
-  Updated: 2026-05-21T13:39:53Z
-  Total Products: 110
+  Updated: 2026-06-01T11:42:32Z
+  Total Products: 108
 - [UV badetøj til børn og baby | Til sol og vand](https://houseofkids.dk/collections/uv-badetoj): Find UV badetøj til børn og baby med god dækning til strand, pool og ferie. Kurateret udvalg af badeheldragter, badebluser og UV-sæt.
-  Updated: 2026-05-24T22:51:47Z
+  Updated: 2026-06-01T10:34:37Z
   Total Products: 102
 - [Svømmeveste til børn | Til strand, pool og vandleg](https://houseofkids.dk/collections/svommevest): Find svømmeveste til børn med god pasform og ekstra støtte til vandleg ved pool, strand og ferie. Kurateret udvalg og nem retur hos House of Kids.
-  Updated: 2026-05-24T22:51:48Z
+  Updated: 2026-05-27T11:37:48Z
   Total Products: 26
 - [Pigeflyverdragter til vinterleg | Varme modeller](https://houseofkids.dk/collections/pigeflyverdragter): Find pigeflyverdragter til kolde dage, institution og udeleg. Vælg varme, praktiske modeller fra udvalgte børnebrands med god komfort.
-  Updated: 2026-05-21T12:04:44Z
-  Total Products: 57
+  Updated: 2026-06-01T11:42:32Z
+  Total Products: 56
 - [Overtræksbukser til børn | Udeleg i skiftende vejr](https://houseofkids.dk/collections/overtraeksbukser): Find overtræksbukser til børn til udeleg, institution og skiftende vejr. Praktiske styles, der trækkes over tøjet og beskytter i hverdagen.
-  Updated: 2026-05-24T11:34:11Z
+  Updated: 2026-05-28T12:02:31Z
   Total Products: 110
 - [Jakker til børn | Til leg og skiftende vejr](https://houseofkids.dk/collections/jakker): Find jakker til børn i et kurateret udvalg til institution, skole og fritid. Praktiske valg til lag-på-lag, leg ude og skiftende vejr.
-  Updated: 2026-05-26T01:02:10Z
-  Total Products: 1502
+  Updated: 2026-06-02T18:11:34Z
+  Total Products: 1577
 - [Strikhuer til børn | Varme huer til kolde dage](https://houseofkids.dk/collections/strikhuer): Find strikhuer til børn i bløde, varme kvaliteter. Gode til efterår, vinter og kolde dage i institution, skole og fritid.
-  Updated: 2026-05-24T22:51:46Z
-  Total Products: 481
+  Updated: 2026-06-01T10:34:38Z
+  Total Products: 480
 - [Elefanthuer til baby og børn | Varme til kolde dage](https://houseofkids.dk/collections/elefanthuer): Find elefanthuer til baby og børn, der luner om hoved, ører og hals. Bløde modeller til institution, barnevogn og kolde dage.
-  Updated: 2026-05-26T01:02:11Z
-  Total Products: 500
+  Updated: 2026-06-02T11:13:00Z
+  Total Products: 508
 - [Pandebånd til børn | Blød varme til ørerne](https://houseofkids.dk/collections/pandeband): Find bløde pandebånd til børn, der varmer ørerne uden at fylde som en hue. Gode til overgangsvejr, udeleg og lag-på-lag.
-  Updated: 2026-05-21T12:04:49Z
+  Updated: 2026-05-29T14:12:02Z
   Total Products: 39
 - [Overalls til baby og børn | Praktiske smækbukser](https://houseofkids.dk/collections/overalls): Find overalls og smækbukser til baby og børn, der er nemme at bruge over body, bluse eller strik – gode til leg, hverdag og skiftende sæsoner.
-  Updated: 2026-05-26T10:00:04Z
-  Total Products: 29
+  Updated: 2026-06-02T10:43:18Z
+  Total Products: 30
 - [Julekjoler til børn | Til juleaften og julefrokost](https://houseofkids.dk/collections/julekjoler): Find julekjoler til børn i festlige styles til juleaften, julefrokost og decemberens hyggelige anledninger. Kurateret udvalg med hurtig levering.
-  Updated: 2026-05-22T06:34:50Z
+  Updated: 2026-06-02T01:02:09Z
   Total Products: 164
 - [Hårspænder til børn | Fine clips til hverdag og fest](https://houseofkids.dk/collections/harspaender): Find hårspænder til børn i fine farver og former. Gode til at holde håret på plads og give en sød detalje til hverdag, fest og institution.
-  Updated: 2026-05-25T11:35:35Z
+  Updated: 2026-06-02T20:51:03Z
   Total Products: 65
 - [Hårbøjler til børn | Fine valg til hverdag og fest](https://houseofkids.dk/collections/harbojler): Find hårbøjler til børn i fine farver og enkle designs. Gode til både hverdag, fest og små frisurer – med nem retur hos House of Kids.
   Updated: 2026-05-22T01:02:29Z
@@ -3252,91 +3249,91 @@
   Updated: 2026-05-21T12:04:54Z
   Total Products: 0
 - [Drengejakker til skole, leg og skiftende vejr](https://houseofkids.dk/collections/drengejakker): Find drengejakker til hverdagen – fra lette jakker til overgang og forede styles til kølige dage. Praktiske valg til skole, leg og fritid.
-  Updated: 2026-05-24T22:51:35Z
+  Updated: 2026-06-02T17:01:59Z
   Total Products: 248
 - [Pigejakker til hverdag og skiftende vejr | House of Kids](https://houseofkids.dk/collections/pigejakker): Find pigejakker til leg, skole og institution. Se praktiske jakker til skiftende vejr fra kendte børnebrands – med fokus på komfort.
-  Updated: 2026-05-24T22:51:47Z
-  Total Products: 314
+  Updated: 2026-06-02T18:11:34Z
+  Total Products: 319
 - [Glimmerkjoler til børn | Festkjoler med glimt](https://houseofkids.dk/collections/glimmerkjoler): Find glimmerkjoler til børn med fine detaljer og behagelig pasform. Gode til fødselsdag, fest og særlige dage – fra udvalgte børnebrands.
   Updated: 2026-05-21T12:05:02Z
   Total Products: 0
 - [Regnbukser til børn | Til vådt vejr og udeleg](https://houseofkids.dk/collections/regnbukser): Find regnbukser til børn i vandtætte, slidstærke materialer – gode til institution, skole og leg i regnvejr. Kurateret udvalg online.
-  Updated: 2026-05-21T13:39:15Z
-  Total Products: 66
+  Updated: 2026-05-28T12:20:41Z
+  Total Products: 67
 - [Regnjakker til børn | Praktiske jakker til regnvejr](https://houseofkids.dk/collections/regnjakke): Find regnjakker til børn til våde dage, institution og udeleg. Praktiske styles, der er nemme at bruge alene eller med regnbukser.
-  Updated: 2026-05-21T12:55:58Z
+  Updated: 2026-05-27T11:40:38Z
   Total Products: 39
 - [Pige T-shirts til hverdag og leg | House of Kids](https://houseofkids.dk/collections/pige-t-shirts): Se kuraterede T-shirts til piger i bløde materialer, fine farver og gode pasformer – til skole, leg og lag-på-lag i hverdagen.
-  Updated: 2026-05-26T10:00:04Z
-  Total Products: 420
+  Updated: 2026-06-02T11:43:45Z
+  Total Products: 410
 - [Pigesneakers med god komfort til leg og hverdag](https://houseofkids.dk/collections/pigesneakers): Find pigesneakers i lette og komfortable modeller til skole, institution og fritid. Kurateret udvalg med fokus på pasform og kvalitet.
-  Updated: 2026-05-25T11:35:35Z
-  Total Products: 191
+  Updated: 2026-06-01T10:34:19Z
+  Total Products: 190
 - [Glimmer sko til børn | Fine sko til fest og hverdag](https://houseofkids.dk/collections/glimmer-sko): Find glimmer sko til børn i fine, komfortable styles fra udvalgte mærker. Gode til fest, fødselsdag og hverdage med lidt ekstra glans.
   Updated: 2026-05-21T12:05:06Z
   Total Products: 0
 - [Underbukser til børn | Trusser og boxershorts](https://houseofkids.dk/collections/underbukser): Find underbukser til piger og drenge i bløde materialer – fra trusser til boxershorts. Gode basisvalg til skole, institution og hverdag.
-  Updated: 2026-05-24T20:20:51Z
+  Updated: 2026-06-02T11:43:46Z
   Total Products: 124
 - [Undertrøjer til børn | Bløde basislag til hverdagen](https://houseofkids.dk/collections/undertrojer): Find undertrøjer til børn i bløde materialer og gode pasformer. Praktiske som inderste lag til hverdag, institution og skiftende vejr.
-  Updated: 2026-05-22T18:57:21Z
+  Updated: 2026-06-02T20:39:01Z
   Total Products: 121
 - [T-shirts til drenge | Kvalitet til hverdag og leg](https://houseofkids.dk/collections/drenge-t-shirts): Find t-shirts til drenge i bløde materialer, print og enkle designs. Gode til skole, fritid og lag-på-lag – med hurtig levering fra dansk webshop.
-  Updated: 2026-05-26T10:00:04Z
-  Total Products: 404
+  Updated: 2026-06-01T12:02:09Z
+  Total Products: 395
 - [Solbriller til børn | UV-beskyttelse i solen](https://houseofkids.dk/collections/solbriller): Find solbriller til børn med UV-beskyttelse og behagelig pasform. Gode til ferie, strandture og udendørs leg på solrige dage.
-  Updated: 2026-05-24T22:51:41Z
+  Updated: 2026-05-30T01:01:53Z
   Total Products: 16
 - [Wheat Footwear til børn | Sko, støvler og sandaler](https://houseofkids.dk/collections/wheat-footwear): Se det samlede udvalg af Wheat Footwear til børn med sko, sandaler og støvler i roligt skandinavisk design til leg, institution og hverdag.
-  Updated: 2026-05-25T21:52:06Z
-  Total Products: 79
+  Updated: 2026-06-01T11:42:32Z
+  Total Products: 76
 - [Bikinier til børn | Til strand, pool og ferie](https://houseofkids.dk/collections/bikinier): Find bikinier til børn i behagelige pasformer til sommer, ferie og svømning. Se kuraterede styles fra populære børnebrands.
-  Updated: 2026-05-24T22:51:35Z
+  Updated: 2026-05-28T11:43:08Z
   Total Products: 61
 - [Kortærmede kjoler til piger | Sommer & hverdag](https://houseofkids.dk/collections/kortaermede-kjoler): Find kortærmede kjoler til piger i bløde materialer og fine snit. Gode til varme dage, ferie og hverdagsbrug – kurateret med omtanke.
   Updated: 2026-05-21T12:05:14Z
   Total Products: 0
 - [Badedragter til børn | Til pool, strand og ferie](https://houseofkids.dk/collections/badedragter): Find badedragter til børn til strand, pool og ferie. Vælg fine styles med god pasform fra populære børnebrands – nemt og trygt online.
-  Updated: 2026-05-25T09:11:47Z
+  Updated: 2026-05-31T11:41:30Z
   Total Products: 141
 - [Langærmede bodys til baby | Basis til kølige dage](https://houseofkids.dk/collections/langaermede-bodys): Find langærmede bodys og bodystockings til baby i bløde materialer. Gode som inderste lag, til lur og hverdagsbrug med god komfort og nemme skift.
-  Updated: 2026-05-26T10:00:03Z
-  Total Products: 611
+  Updated: 2026-06-02T19:41:07Z
+  Total Products: 621
 - [Badehatte til børn og baby | UV-beskyttelse i vand](https://houseofkids.dk/collections/badehatte): Se badehatte og UV-badehætter til baby og børn. Gode til strand, pool og ferie, når hovedet skal skærmes under leg i vand.
-  Updated: 2026-05-24T22:51:47Z
+  Updated: 2026-06-01T10:34:32Z
   Total Products: 28
 - [Badebukser til baby og børn | Strand og svømning](https://houseofkids.dk/collections/badebukser): Find badebukser til baby og børn – fra blebadebukser til klassiske modeller. Gode til strand, pool og ferie i et kurateret udvalg.
-  Updated: 2026-05-24T23:02:30Z
+  Updated: 2026-05-31T20:40:51Z
   Total Products: 110
 - [Glimmerstrømper til børn | Til hverdag og fest](https://houseofkids.dk/collections/glimmerstromper): Find glimmerstrømper til børn i fine farver og bløde kvaliteter. Små glimt til kjoler, nederdele og hverdagsoutfits – med hurtig levering.
   Updated: 2026-05-21T12:14:23Z
   Total Products: 0
 - [Kortærmede bodys til baby | Blød basis til lune dage](https://houseofkids.dk/collections/kortaermede-bodys): Find kortærmede bodys og bodystockings til baby i bløde materialer. Praktiske under tøjet, til lune dage og nemme skift i hverdagen.
-  Updated: 2026-05-26T10:00:03Z
-  Total Products: 245
+  Updated: 2026-06-02T19:41:07Z
+  Total Products: 244
 - [Natdragter til baby og børn | Blød komfort til natten](https://houseofkids.dk/collections/natdragter): Find natdragter til baby og børn i bløde materialer fra udvalgte brands. Gode til rolige nætter, sovetid og praktisk nattøj i hverdagen.
-  Updated: 2026-05-26T08:20:39Z
+  Updated: 2026-06-01T09:31:50Z
   Total Products: 35
 - [Natkjoler til piger | Blød komfort til sovetid](https://houseofkids.dk/collections/natkjoler): Find bløde natkjoler til børn i behagelige materialer og fine snit. Til rolige aftener, sovetid og hyggelige morgener. Se udvalget hos House of Kids.
-  Updated: 2026-05-24T11:34:11Z
+  Updated: 2026-05-27T11:37:48Z
   Total Products: 14
 - [Polo T-shirts til børn | Pæn overdel med krave](https://houseofkids.dk/collections/polo-t-shirts): Find polo T-shirts til børn med klassisk krave og god komfort. Et pænt valg til skole, familiebesøg og hverdag – med hurtig levering.
   Updated: 2026-05-21T12:14:26Z
   Total Products: 0
 - [Regntøjssæt til børn | Jakke og bukser til regnvejr](https://houseofkids.dk/collections/regntojssaet): Se regntøjssæt til børn med matchende regnjakke og regnbukser – praktiske sæt til institution, skole og leg i vådt vejr.
-  Updated: 2026-05-25T11:35:35Z
-  Total Products: 79
+  Updated: 2026-06-02T12:22:44Z
+  Total Products: 81
 - [Skridsikre strømper til baby og børn | Til sikre skridt](https://houseofkids.dk/collections/skridsikre-stromper): Find skridsikre strømper til baby og børn med godt greb under foden. Praktiske til første skridt, leg indendørs og glatte gulve.
   Updated: 2026-05-22T11:37:20Z
   Total Products: 32
 - [Uldundertøj til børn | Blødt lag til kolde dage](https://houseofkids.dk/collections/uldundertoej): Find uldundertøj til børn i bløde, åndbare kvaliteter. Ideelt som inderste lag til kolde dage, institution og nætter med skiftende temperatur.
-  Updated: 2026-05-21T12:14:31Z
+  Updated: 2026-06-02T09:02:19Z
   Total Products: 7
 - [Uldstrømper til baby og børn | Varme fødder](https://houseofkids.dk/collections/uldstromper): Find bløde uldstrømper til baby og børn – gode til kolde dage, institution og støvler, når små fødder skal holdes varme og komfortable.
-  Updated: 2026-05-24T11:34:11Z
+  Updated: 2026-06-02T07:57:48Z
   Total Products: 93
 - [T-shirts til baby og børn | Bløde hverdagsvalg](https://houseofkids.dk/collections/t-shirts1): Find t-shirts til baby og børn i bløde materialer og rolige designs. Gode til leg, institution og lag-på-lag i en praktisk garderobe.
-  Updated: 2026-05-26T10:00:04Z
+  Updated: 2026-06-02T12:21:01Z
   Total Products: 1517
 - [Hust & Claire uld til baby og børn | Bløde basislag](https://houseofkids.dk/collections/hust-claire-uld): Find Hust & Claire uld til baby og børn: bløde bodyer, leggings og bluser i uld, der hjælper med at holde barnet varmt og komfortabelt i hverdagen.
   Updated: 2026-05-21T13:40:37Z
@@ -3345,8 +3342,8 @@
   Updated: 2026-05-21T12:14:35Z
   Total Products: 1
 - [Konges Sløjd til baby og børn | Tøj, legetøj & udstyr](https://houseofkids.dk/collections/konges-slojd): Find Konges Sløjd til baby og børn: tøj, legetøj og udstyr i bløde materialer, rolige farver og fantasifulde prints – kurateret hos House of Kids.
-  Updated: 2026-05-26T08:51:28Z
-  Total Products: 766
+  Updated: 2026-06-02T23:41:16Z
+  Total Products: 757
 - [Color Kids til børn | Funktionelt udetøj til leg](https://houseofkids.dk/collections/color-kids): Find Color Kids til børn med jakker, regntøj og praktiske styles til skiftende vejr. Farverigt og funktionelt tøj til leg ude.
   Updated: 2026-05-21T13:39:17Z
   Total Products: 57
@@ -3354,88 +3351,88 @@
   Updated: 2026-05-21T12:14:38Z
   Total Products: 5
 - [Konges Sløjd strik til baby og børn | Lag på lag](https://houseofkids.dk/collections/konges-slojd-strik): Find Konges Sløjd strik til baby og børn – fra cardigans og bluser til bløde bodyer. Gode til lag på lag, kølige dage og hverdagskomfort.
-  Updated: 2026-05-26T08:51:28Z
-  Total Products: 766
+  Updated: 2026-05-30T11:44:21Z
+  Total Products: 4
 - [Konges Sløjd Cherry-print | Ikonisk kirsebærdesign](https://houseofkids.dk/collections/konges-slojd-cherry): Find Konges Sløjd Cherry med kirsebærprint på børnetøj, sengetøj og udvalgt legetøj. Kuraterede favoritter til baby og børn.
-  Updated: 2026-05-25T20:51:17Z
+  Updated: 2026-06-02T11:43:46Z
   Total Products: 16
 - [1 + In The Family babytøj | Bløde neutrale styles](https://houseofkids.dk/collections/1-in-the-family): Gå på opdagelse i 1 + In The Family babytøj i bløde materialer og rolige farver. Behagelige styles til babyens hverdag.
-  Updated: 2026-05-22T17:51:17Z
+  Updated: 2026-05-30T19:01:57Z
   Total Products: 102
 - [Petit by Basics børnetøj | Blød merinould til børn](https://houseofkids.dk/collections/petit-by-basics): Find Petit by Basics børnetøj i blød merinould og rolige farver. Tidløse basisstyles med komfort til baby og børn i hverdagen.
-  Updated: 2026-05-21T12:14:42Z
-  Total Products: 21
+  Updated: 2026-06-02T02:23:47Z
+  Total Products: 22
 - [AYA&IDA til mad og drikke på farten | House of Kids](https://houseofkids.dk/collections/aya-ida): Find AYA&IDA drikkeflasker, termokopper og madkasser i holdbart rustfrit stål – praktiske valg til skole, tur og hverdag.
-  Updated: 2026-05-21T12:14:43Z
+  Updated: 2026-06-01T11:42:32Z
   Total Products: 26
 - [Made Crate foldekasser | Farverig opbevaring](https://houseofkids.dk/collections/made-crate): Find Made Crate foldekasser i fine farver. Praktiske, stabelbare kasser til legetøj, tøj og småting på børneværelset eller i hjemmet.
   Updated: 2026-05-22T15:51:17Z
   Total Products: 33
 - [Nissehuer til børn og baby | Jul og nisseleg](https://houseofkids.dk/collections/nissehuer): Find nissehuer til børn og baby til december, julehygge og nisseleg. Vælg bløde styles, der gør julens outfit nemt og festligt.
-  Updated: 2026-05-21T12:14:46Z
+  Updated: 2026-06-02T01:02:09Z
   Total Products: 30
 - [Sissel Edelbo børnetøj | upcyclede tekstiler og print](https://houseofkids.dk/collections/sissel-edelbo): Find Sissel Edelbo børnetøj med farverige print og upcyclede sarier. Unikke, håndlavede styles til børn - kurateret af House of Kids.
-  Updated: 2026-05-21T12:14:45Z
-  Total Products: 14
+  Updated: 2026-06-01T18:14:47Z
+  Total Products: 13
 - [Kreafunk til børn | Lyd, lys og dansk design](https://houseofkids.dk/collections/kreafunk): Gå på opdagelse i Kreafunk til børn med høretelefoner, højtalere, høreværn og lamper i rolige farver – udvalgt til hverdag og børneværelse.
   Updated: 2026-05-22T14:20:42Z
   Total Products: 28
 - [Køletasker til børn | Madpakker og udflugter](https://houseofkids.dk/collections/koletasker): Se praktiske køletasker til børn og familie, der holder madpakker, snacks og drikke friske til skole, institution, picnic og små ture.
-  Updated: 2026-05-21T12:14:50Z
+  Updated: 2026-06-02T12:22:20Z
   Total Products: 3
 - [Favorite People børnetøj | Farverig komfort til børn](https://houseofkids.dk/collections/favorite-people): Find Favorite People børnetøj til børn med bløde materialer, god komfort og farverige styles til hverdagen. Kurateret hos House of Kids.
   Updated: 2026-05-21T12:14:53Z
   Total Products: 21
 - [Cozmo børnetøj | Blødt tøj til hverdag og leg](https://houseofkids.dk/collections/cozmo): Find Cozmo børnetøj hos House of Kids – bluser, bukser, leggings og kjoler til børn i bløde kvaliteter, der passer til hverdag og leg.
-  Updated: 2026-05-26T07:51:08Z
-  Total Products: 88
+  Updated: 2026-06-02T02:23:46Z
+  Total Products: 89
 - [Baby Bello til baby | bløde valg og barselsgaver](https://houseofkids.dk/collections/baby-bello): Find Baby Bello til baby: bløde, trygge valg til leg, ro og nærvær. Et fint brandunivers til hverdagen, barsel og små gaver hos House of Kids.
   Updated: 2026-05-23T11:34:17Z
   Total Products: 25
 - [Fanga Fontana til baby og børn | Bløde basisstyles](https://houseofkids.dk/collections/fanga): Find Fanga Fontana til baby og børn i bløde, enkle styles til hverdagen. Kurateret udvalg med fokus på komfort, pasform og rolige farver.
-  Updated: 2026-05-22T11:37:21Z
+  Updated: 2026-06-02T11:13:08Z
   Total Products: 60
 - [Jelly Mallow børnetøj | Legende styles til børn](https://houseofkids.dk/collections/jelly-mallow): Find Jelly Mallow børnetøj til børn med farver, komfort og legende detaljer. Et kurateret udvalg til hverdag, leg og personlig stil.
-  Updated: 2026-05-22T08:51:17Z
+  Updated: 2026-05-26T11:35:59Z
   Total Products: 56
 - [Superfit sko til børn | Komfort til hverdagen](https://houseofkids.dk/collections/superfit): Find Superfit sko til børn med fokus på komfort, støtte og god pasform. Se sneakers, sandaler og støvler til leg, skole og hverdag.
-  Updated: 2026-05-21T13:40:21Z
+  Updated: 2026-05-31T11:41:28Z
   Total Products: 46
 - [Yuki Kidswear til børn | Farverigt børnetøj](https://houseofkids.dk/collections/yuki-kidswear): Find børnetøj fra Yuki Kidswear til børn med farverige styles til leg, skole og rolige dage – udvalgt med fokus på komfort og trygge valg.
   Updated: 2026-05-21T12:14:58Z
   Total Products: 21
 - [Tinycottons børnetøj | legende styles til hverdagen](https://houseofkids.dk/collections/tinycottons): Find Tinycottons børnetøj med bløde kvaliteter, farverige prints og legende design til børn. Kurateret til komfort i hverdagen hos House of Kids.
-  Updated: 2026-05-21T12:14:59Z
-  Total Products: 55
+  Updated: 2026-06-02T11:51:27Z
+  Total Products: 54
 - [Badeudstyr til børn | Strand, pool og svømning](https://houseofkids.dk/collections/badeudstyr): Find praktisk badeudstyr til børn som svømmeveste, baderinge og håndklæder – gode valg til strand, pool og sommerens vandleg.
-  Updated: 2026-05-25T14:40:39Z
+  Updated: 2026-06-01T14:30:55Z
   Total Products: 124
 - [Bodyer og sommerdragter til baby | let sommertøj](https://houseofkids.dk/collections/bodyer-og-sommerdragter): Find bodyer og sommerdragter til baby i bløde, lette materialer. Praktiske styles til varme dage, lur og nemme skift i hverdagen.
-  Updated: 2026-05-26T10:20:26Z
-  Total Products: 1606
+  Updated: 2026-06-02T20:41:59Z
+  Total Products: 1607
 - [Flyverdragter til drenge | Vinter og udeleg](https://houseofkids.dk/collections/drengeflyverdragter): Find flyverdragter til drenge, der holder til vinter, institution og leg ude. Kurateret udvalg med fokus på varme, komfort og bevægelse.
-  Updated: 2026-05-21T13:40:02Z
-  Total Products: 41
+  Updated: 2026-06-01T14:40:08Z
+  Total Products: 38
 - [Huer og vanter til børn | Til kolde dage ude](https://houseofkids.dk/collections/huer-og-vanter): Find huer og vanter til børn, der holder hoved og hænder lune på kolde dage. Vælg bløde, praktiske styles til sæson og hverdag.
-  Updated: 2026-05-26T01:02:21Z
-  Total Products: 1430
+  Updated: 2026-06-02T11:13:31Z
+  Total Products: 1475
 - [Knæstrømper til børn | Ekstra længde til hverdagen](https://houseofkids.dk/collections/knaestromper): Find knæstrømper til børn i bløde kvaliteter og fine farver. Gode til kjoler, nederdele og som et lunt lag på kølige hverdage.
   Updated: 2026-05-22T11:37:21Z
   Total Products: 39
 - [Sengetøj til baby og børn | Blød sovekomfort](https://houseofkids.dk/collections/sengetoj): Find blødt sengetøj til baby og børn i rolige farver, fine prints og behagelige materialer. Gør sovetid tryg og rar med udvalgte favoritter.
-  Updated: 2026-05-24T22:51:41Z
+  Updated: 2026-06-01T11:12:02Z
   Total Products: 109
 - [Strømpebukser til børn | Blød komfort og pasform](https://houseofkids.dk/collections/strompebukser): Find strømpebukser til baby og børn i bløde materialer og gode pasformer – ideelle under kjoler, nederdele og til ekstra varme i hverdagen.
-  Updated: 2026-05-22T11:37:21Z
+  Updated: 2026-06-02T11:43:46Z
   Total Products: 396
 - [Strømper til baby og børn | Blød komfort hver dag](https://houseofkids.dk/collections/stromper-strompebukser): Find strømper til baby og børn i bløde kvaliteter med god pasform. Praktiske valg til institution, skole og leg – nemme at matche i hverdagen.
-  Updated: 2026-05-26T01:02:23Z
+  Updated: 2026-06-02T19:20:43Z
   Total Products: 1484
 - [Sweatsæt til børn | Matchende sæt til hverdagen](https://houseofkids.dk/collections/sweatsaet): Find sweatsæt til børn med matchende sweatshirt og bukser. Bløde, praktiske sæt til leg, afslapning og hverdage i skole og institution.
   Updated: 2026-05-21T12:15:09Z
   Total Products: 0
 - [Tasker & opbevaring til børn | orden i hverdagen](https://houseofkids.dk/collections/tasker-opbevaring): Find tasker, kasser og praktisk opbevaring til børn. Gør hverdagen nemmere på børneværelset, i institutionen og på tur.
-  Updated: 2026-05-26T01:02:19Z
+  Updated: 2026-06-02T20:41:59Z
   Total Products: 290
 - [Termoregntøj til børn | Lunt regntøj til overgangsvejr](https://houseofkids.dk/collections/termoregntoj): Find termoregntøj til børn med let varme og beskyttelse mod regn. Ideelt til institution, udeleg og skiftende vejr i forår og efterår.
   Updated: 2026-05-21T12:15:10Z
@@ -3444,10 +3441,10 @@
   Updated: 2026-05-21T12:15:11Z
   Total Products: 0
 - [Højtider & begivenheder til børn | Samlet overblik](https://houseofkids.dk/collections/hojtider-begivenheder): Find kuraterede favoritter til børns højtider og begivenheder – fra jul og påske til fødselsdag, udklædning og små sæsonøjeblikke.
-  Updated: 2026-05-22T06:34:50Z
+  Updated: 2026-06-02T01:02:09Z
   Total Products: 180
 - [Sneakers til børn | Komfort til hverdag og leg](https://houseofkids.dk/collections/sneakers): Find sneakers til børn i praktiske og komfortable styles til skole, institution og fritid. Kurateret udvalg med fokus på pasform og holdbarhed.
-  Updated: 2026-05-26T01:02:22Z
+  Updated: 2026-06-02T11:43:46Z
   Total Products: 375
 - [Paraplyer til børn | Søde motiver til regnvejret](https://houseofkids.dk/collections/paraplyer): Find paraplyer til børn med fine farver og søde motiver. Gode til gåturen, skolevejen og regnfulde dage – kurateret hos House of Kids.
   Updated: 2026-05-21T12:15:15Z
@@ -3459,155 +3456,155 @@
   Updated: 2026-05-21T12:15:16Z
   Total Products: 0
 - [Nyheder til børn | Nyt børnetøj, sko og udstyr](https://houseofkids.dk/collections/nyheder): Se de nyeste varer til baby og børn – fra børnetøj og sko til udstyr og legetøj. Kurateret med fokus på kvalitet, funktion og hverdagsbrug.
-  Updated: 2026-05-26T10:29:05Z
-  Total Products: 724
+  Updated: 2026-06-02T13:31:52Z
+  Total Products: 766
 - [Udsalg til baby og børn | Børnetøj, sko og udstyr](https://houseofkids.dk/collections/udsalg): Find udsalg til baby og børn med børnetøj, sko og udstyr fra kuraterede brands. Gode valg til hverdagen, sæsonskift og garderoben samlet ét sted.
-  Updated: 2026-05-26T08:51:28Z
-  Total Products: 9478
+  Updated: 2026-06-02T23:41:17Z
+  Total Products: 9587
 - [Alle produkter på lager | Tøj, sko og udstyr til børn](https://houseofkids.dk/collections/alle-produkter-pa-lager): Se alle varer på lager hos House of Kids – fra børnetøj og sko til babyudstyr, legetøj og interiør, samlet ét sted for nemt overblik.
-  Updated: 2026-05-26T10:28:32Z
-  Total Products: 14691
+  Updated: 2026-06-02T23:41:17Z
+  Total Products: 14715
 - [Pom d'Api børnesko | fransk kvalitet til børn](https://houseofkids.dk/collections/pom-d-api): Find Pom d'Api børnesko med god pasform, bløde materialer og fransk design. Vælg sæsonens styles til hverdag og pæne anledninger.
-  Updated: 2026-05-25T23:03:18Z
+  Updated: 2026-06-02T11:43:46Z
   Total Products: 21
 - [Hunter gummistøvler til børn | Til regnfulde dage](https://houseofkids.dk/collections/hunter): Find Hunter til børn med klassiske gummistøvler til regn, institution og udeleg. Kurateret udvalg med fokus på komfort og holdbarhed.
   Updated: 2026-05-21T13:40:07Z
   Total Products: 6
 - [Alle produkter på tilbud | Tøj, sko og udstyr til børn](https://houseofkids.dk/collections/alle-produkter-pa-tilbud): Find aktuelle tilbud på børnetøj, sko, legetøj og udstyr samlet ét sted. Et roligt overblik, når du vil vælge efter behov, størrelse og sæson.
-  Updated: 2026-05-26T08:51:28Z
-  Total Products: 9478
+  Updated: 2026-06-02T23:41:17Z
+  Total Products: 9587
 - [Produkter uden pris på lager | Admin](https://houseofkids.dk/collections/produkter-uden-pris): Intern adminoversigt over lagerførte varer uden registreret pris, så produkter kan kontrolleres, før de vises korrekt i webshoppen.
   Updated: 2026-05-22T01:02:52Z
   Total Products: 12
 - [Okker Gokker børnetøj | Blød basis til baby og børn](https://houseofkids.dk/collections/okker-gokker): Find Okker Gokker til baby og børn: bodyer, bluser, bukser og heldragter i bløde kvaliteter, udvalgt til hverdage med komfort og leg.
-  Updated: 2026-05-26T10:28:32Z
-  Total Products: 28
+  Updated: 2026-05-29T10:11:24Z
+  Total Products: 31
 - [Hanevild børnetøj | Legende styles til hverdagen](https://houseofkids.dk/collections/hanevild): Find Hanevild til børn med bløde materialer, fine farver og praktiske pasformer til hverdag, leg og rolige dage hjemme.
-  Updated: 2026-05-21T12:24:31Z
+  Updated: 2026-06-02T11:43:45Z
   Total Products: 35
 - [Børnetøj på udsalg til baby og børn | 0-16 år](https://houseofkids.dk/collections/udsalg-bornetoj): Find børnetøj på udsalg til baby og børn fra udvalgte brands. Se bluser, bukser, kjoler og basis til hverdag, institution og leg året rundt.
-  Updated: 2026-05-26T08:41:09Z
-  Total Products: 4076
+  Updated: 2026-06-02T23:41:17Z
+  Total Products: 4174
 - [Overtøj på udsalg til børn | Jakker og flyverdragter](https://houseofkids.dk/collections/udsalg-overtoj-1): Find overtøj på udsalg til børn – fx jakker, flyverdragter og termotøj til skiftende vejr. Kurateret udvalg med fokus på funktion og kvalitet.
-  Updated: 2026-05-25T11:35:35Z
-  Total Products: 893
+  Updated: 2026-06-02T18:11:34Z
+  Total Products: 885
 - [Sko på udsalg til børn | Kvalitet til små fødder](https://houseofkids.dk/collections/udsalg-sko): Find børnesko på udsalg til hverdag og sæson – fra sneakers og sandaler til støvler. Kurateret udvalg med fokus på komfort og holdbarhed.
-  Updated: 2026-05-26T08:48:41Z
-  Total Products: 555
+  Updated: 2026-06-02T20:31:17Z
+  Total Products: 540
 - [Accessories på udsalg til børn | Hverdagens tilbehør](https://houseofkids.dk/collections/udsalg-accessories): Find accessories på udsalg til børn fra udvalgte brands – fx huer, hårpynt og luffer til hverdag, årstid og små praktiske behov.
-  Updated: 2026-05-25T22:31:17Z
-  Total Products: 677
+  Updated: 2026-06-02T20:51:28Z
+  Total Products: 678
 - [House of Kids Outlet | Nedsatte styles til børn](https://houseofkids.dk/collections/house-of-kids-outlet): Find nedsatte styles fra House of Kids til baby og børn – fra basis til sæsonfavoritter. Udvalget skifter løbende med gode fund.
-  Updated: 2026-05-22T11:37:20Z
-  Total Products: 181
+  Updated: 2026-06-02T20:12:05Z
+  Total Products: 177
 - [ADMIN Produkter uden billeder - Helle](https://houseofkids.dk/collections/produkter-uden-billeder-helle)
   Updated: 2026-05-20T14:03:28Z
   Total Products: 17
 - [Udstyr på udsalg til baby og børn | Til hverdagen](https://houseofkids.dk/collections/udsalg-udstyr): Find udstyr på udsalg til baby og børn – praktiske produkter til pusletid, ture og hverdagen, udvalgt med fokus på funktion og kvalitet.
-  Updated: 2026-05-25T18:41:11Z
-  Total Products: 215
+  Updated: 2026-06-02T21:11:41Z
+  Total Products: 237
 - [Børneværelset på udsalg | Til leg, ro og rutiner](https://houseofkids.dk/collections/udsalg-bornevaerelset): Find udvalgte ting til børneværelset på udsalg – fra lamper og opbevaring til bløde tekstiler, der skaber ro, leg og praktiske rutiner.
-  Updated: 2026-05-25T10:10:57Z
-  Total Products: 179
+  Updated: 2026-06-02T23:41:17Z
+  Total Products: 184
 - [Overdele på udsalg til børn | Bluser, T-shirts & strik](https://houseofkids.dk/collections/overdele-udsalg): Find overdele på udsalg til børn – fx bluser, T-shirts og cardigans. Udvalgt med fokus på komfort, kvalitet og nemme valg til hverdagen.
-  Updated: 2026-05-26T07:51:08Z
-  Total Products: 3762
+  Updated: 2026-06-02T20:41:59Z
+  Total Products: 3819
 - [Underdele på udsalg til baby og børn | Bukser & leggings](https://houseofkids.dk/collections/underdele-udsalg): Find underdele på udsalg til baby og børn – bukser, leggings, shorts og sweatpants til hverdag, leg og institution med fokus på komfort.
-  Updated: 2026-05-26T08:51:28Z
-  Total Products: 2316
+  Updated: 2026-06-02T20:51:29Z
+  Total Products: 2348
 - [Overtøj på udsalg til børn | Jakker & termotøj](https://houseofkids.dk/collections/udsalg-overtoj): Find overtøj på udsalg til baby og børn: jakker, flyverdragter og termotøj til skiftende vejr. Udvalgt med fokus på komfort og kvalitet.
-  Updated: 2026-05-25T11:35:35Z
-  Total Products: 893
+  Updated: 2026-06-02T18:11:34Z
+  Total Products: 885
 - [Nattøj & undertøj på udsalg til børn | Komfort](https://houseofkids.dk/collections/udsalg-nattoj-undertoj): Find børnenattøj og undertøj på udsalg – fx nattøjssæt, natdragter og bløde basisstyles til rolige nætter og hverdagsbrug.
-  Updated: 2026-05-24T22:52:05Z
-  Total Products: 139
+  Updated: 2026-06-02T20:39:28Z
+  Total Products: 141
 - [Badetøj på udsalg til børn | Strand, pool og ferie](https://houseofkids.dk/collections/udsalg-badetoj): Find badetøj på udsalg til børn – fx badebukser, badedragter og bikinier til strand, pool og ferie. Kurateret udvalg fra House of Kids.
-  Updated: 2026-05-25T11:35:35Z
-  Total Products: 83
+  Updated: 2026-06-02T02:23:46Z
+  Total Products: 85
 - [Name It udsalg | Børnetøj til hverdag og leg](https://houseofkids.dk/collections/name-it-udsalg): Find udvalgte Name It styles på udsalg til baby og børn – fra bluser og bukser til kjoler, overtøj og basis til en praktisk hverdag.
-  Updated: 2026-05-25T11:35:35Z
-  Total Products: 1214
+  Updated: 2026-06-02T20:39:28Z
+  Total Products: 1190
 - [Sneakers på udsalg til børn | Leg og hverdag](https://houseofkids.dk/collections/sneakers-udsalg): Find sneakers på udsalg til børn – lette og behagelige sko til skole, institution og fritid. Kurateret udvalg fra kendte kvalitetsbrands.
-  Updated: 2026-05-25T23:03:34Z
-  Total Products: 104
+  Updated: 2026-06-01T11:42:32Z
+  Total Products: 99
 - [Sandaler på udsalg til børn | Komfort til sommer](https://houseofkids.dk/collections/sandaler-udsalg): Find børnesandaler på udsalg til varme dage, ferie og leg. Vælg blandt komfortable modeller fra kvalitetsbrands i et kurateret udvalg.
-  Updated: 2026-05-26T08:48:41Z
-  Total Products: 117
+  Updated: 2026-06-02T20:31:17Z
+  Total Products: 113
 - [Støvler på udsalg til børn | Komfort til hverdagen](https://houseofkids.dk/collections/stovler-udsalg): Find støvler på udsalg til børn – fra lune vinterstøvler til praktiske støvletter. Udvalgt med fokus på komfort, pasform og hverdagsbrug.
-  Updated: 2026-05-24T22:52:06Z
-  Total Products: 218
+  Updated: 2026-06-01T11:42:32Z
+  Total Products: 211
 - [Hjemmesko på udsalg til børn | Komfort til indebrug](https://houseofkids.dk/collections/hjemmesko-udsalg): Find nedsatte hjemmesko til baby og børn. Bløde og praktiske par til institution, hjemmebrug og små fødder, der skal have tryg komfort inde.
-  Updated: 2026-05-24T22:52:03Z
-  Total Products: 116
+  Updated: 2026-06-01T10:34:48Z
+  Total Products: 117
 - [Sovetid på udsalg | Nattøj og sengetøj til børn](https://houseofkids.dk/collections/sovetid-udsalg): Find sovetid på udsalg til baby og børn med nattøj, sengetøj, lagner og bløde sovefavoritter til rolige aftener og tryg komfort.
-  Updated: 2026-05-24T22:52:02Z
+  Updated: 2026-05-26T11:35:59Z
   Total Products: 21
 - [Babysager på udsalg | Udstyr og tekstiler til baby](https://houseofkids.dk/collections/udsalg-babysager): Find nedsatte babysager til hverdagen med baby – fx smække, svøb, stofbleer og praktisk udstyr. Kurateret udvalg, der skifter løbende.
-  Updated: 2026-05-24T22:52:04Z
-  Total Products: 70
+  Updated: 2026-06-02T21:11:41Z
+  Total Products: 69
 - [Spisetid på udsalg | Madkasser, smække & service](https://houseofkids.dk/collections/spisetid-udsalg): Find spisetid på udsalg til børn – fx madkasser, drikkedunke, smække og børneservice til hverdagens måltider. Kurateret udvalg.
-  Updated: 2026-05-25T18:41:11Z
-  Total Products: 82
+  Updated: 2026-06-02T11:43:45Z
+  Total Products: 95
 - [Badetid på udsalg | Håndklæder og badekåber](https://houseofkids.dk/collections/badetid-udsalg): Find udsalg til badetid med håndklæder, badekåber og vaskeklude til baby og børn. Praktiske valg til bad, svømning og hverdag.
   Updated: 2026-05-24T22:52:05Z
   Total Products: 4
 - [Tasker og opbevaring på udsalg til børn | House of Kids](https://houseofkids.dk/collections/tasker-og-opbevaring-udsalg): Find tasker og opbevaring på udsalg til børn. Rygsække, toilettasker og praktisk opbevaring til hverdag, institution og ture.
-  Updated: 2026-05-24T22:52:03Z
-  Total Products: 33
+  Updated: 2026-06-02T20:41:59Z
+  Total Products: 42
 - [Interiør på udsalg til børneværelset | House of Kids](https://houseofkids.dk/collections/interior-udsalg): Find udvalgt interiør på udsalg til børneværelset – fx lamper, vægdekoration og fine detaljer, der giver ro, hygge og funktion.
-  Updated: 2026-05-24T22:52:05Z
-  Total Products: 51
+  Updated: 2026-05-26T11:31:32Z
+  Total Products: 49
 - [Legetøj på udsalg til børn | Kvalitet til leg](https://houseofkids.dk/collections/legetoj-udsalg): Find legetøj på udsalg til børn – fra bamser og dukker til puslespil og kreativ leg. Kurateret udvalg med fokus på kvalitet og gode legeoplevelser.
-  Updated: 2026-05-24T23:03:00Z
-  Total Products: 82
+  Updated: 2026-06-02T23:41:17Z
+  Total Products: 105
 - [Udendørs leg på udsalg | Leg til haven og turen](https://houseofkids.dk/collections/udendors-leg-udsalg): Find udendørs leg på udsalg til børn – fx vandleg, legetøj til haven og aktive dage ude. Udvalgt med fokus på kvalitet og funktion.
-  Updated: 2026-05-25T10:10:57Z
-  Total Products: 51
+  Updated: 2026-06-01T14:31:18Z
+  Total Products: 42
 - [Højtider og temaer på udsalg til børn | Jul & påske](https://houseofkids.dk/collections/hojtider-og-temaer-udsalg): Find udvalgte varer til højtider og temaer på udsalg – fx juletøj, nissehuer og fine ting til påske, fødselsdag og børnenes små fejringer.
-  Updated: 2026-05-21T12:25:00Z
-  Total Products: 39
+  Updated: 2026-06-02T14:01:47Z
+  Total Products: 32
 - [Konges Sløjd udsalg til baby og børn | House of Kids](https://houseofkids.dk/collections/konges-slojd-udsalg): Find udvalgte Konges Sløjd varer på udsalg til baby og børn – fx tøj, accessories og udstyr med kvalitet og skandinavisk design.
-  Updated: 2026-05-26T08:51:28Z
-  Total Products: 274
+  Updated: 2026-06-02T23:41:17Z
+  Total Products: 497
 - [Lil' Atelier på udsalg | Tøj til baby og børn](https://houseofkids.dk/collections/lil-atelier-udsalg): Gå på opdagelse i Lil' Atelier på udsalg til baby og børn. Find bløde bodyer, bluser, bukser og kjoler med nordisk hverdagsro.
-  Updated: 2026-05-25T11:35:35Z
-  Total Products: 475
+  Updated: 2026-06-02T11:43:46Z
+  Total Products: 474
 - [Mini A Ture udsalg | Overtøj til børn på tilbud](https://houseofkids.dk/collections/mini-a-ture-udsalg): Find Mini A Ture på udsalg til børn – fx jakker, flyverdragter og praktisk tilbehør i skandinavisk kvalitet. Størrelser og farver varierer.
-  Updated: 2026-05-22T11:37:21Z
-  Total Products: 190
+  Updated: 2026-06-02T17:01:59Z
+  Total Products: 187
 - [Bisgaard på udsalg | sko, støvler og sandaler](https://houseofkids.dk/collections/bisgaard-udsalg): Find udvalgte Bisgaard-varer på udsalg til børn – fra sandaler og støvler til hjemmesko med god pasform, komfort og kvalitet til hverdagen.
-  Updated: 2026-05-25T23:03:38Z
-  Total Products: 90
+  Updated: 2026-06-02T02:23:47Z
+  Total Products: 91
 - [Wheat på udsalg | Børnetøj til baby og børn](https://houseofkids.dk/collections/wheat-udsalg): Find Wheat på udsalg til baby og børn – fra bluser og bukser til kjoler og overtøj. Skandinavisk design, god komfort og tryg online shopping.
-  Updated: 2026-05-26T07:51:13Z
-  Total Products: 564
+  Updated: 2026-06-02T20:51:29Z
+  Total Products: 550
 - [Molo på udsalg | Farverige styles til børn og tweens](https://houseofkids.dk/collections/molo-udsalg): Find udvalgt Molo børnetøj på udsalg til børn – fra bluser og kjoler til overtøj og badetøj med farver, print og god hverdagskomfort.
-  Updated: 2026-05-23T04:26:07Z
-  Total Products: 395
+  Updated: 2026-06-02T09:02:22Z
+  Total Products: 389
 - [Jelly Mallow udsalg til børn | Farverige styles](https://houseofkids.dk/collections/jelly-mallow-udsalg): Se udvalgte Jelly Mallow styles på udsalg til børn. Farverigt børnetøj med blød komfort og legende design til hverdag, legeaftaler og rolige dage.
-  Updated: 2026-05-22T08:51:18Z
+  Updated: 2026-05-26T11:35:59Z
   Total Products: 56
 - [Tinycottons på udsalg til børn | Legende børnetøj](https://houseofkids.dk/collections/tinycottons-udsalg): Find Tinycottons på udsalg til børn – fx T-shirts, sweatshirts og bløde hverdagsstyles med farver og print. Udvalget varierer i størrelse.
-  Updated: 2026-05-21T12:25:08Z
-  Total Products: 19
+  Updated: 2026-06-02T11:51:27Z
+  Total Products: 18
 - [Mini Rodini på udsalg | Nedsatte styles til børn](https://houseofkids.dk/collections/udsalg-mini-rodini): Find nedsatte Mini Rodini styles til børn med legende print, blød komfort og kvalitet til hverdagen. Udvalget skifter løbende.
-  Updated: 2026-05-21T12:25:09Z
-  Total Products: 43
+  Updated: 2026-06-01T11:42:32Z
+  Total Products: 40
 - [Bobo Choses på udsalg | Børnetøj med legende print](https://houseofkids.dk/collections/bobo-choses-udsalg): Find Bobo Choses på udsalg til børn – t-shirts, sweatshirts, leggings og strømper med legende print, komfort og kvalitet til hverdagen.
-  Updated: 2026-05-25T21:01:56Z
-  Total Products: 28
+  Updated: 2026-06-02T02:23:47Z
+  Total Products: 29
 - [Soft Gallery børnetøj på udsalg | 60% rabat](https://houseofkids.dk/collections/udsalg-60-soft-gallery): Find udvalgt Soft Gallery børnetøj på udsalg med 60% rabat. Se fx bluser, kjoler og leggings til børn – bløde styles til hverdagen.
-  Updated: 2026-05-21T12:25:10Z
+  Updated: 2026-06-02T19:42:00Z
   Total Products: 93
 - [Calvin Klein børnetøj på udsalg | 50% rabat](https://houseofkids.dk/collections/udsalg-50-calvin-klein): Find Calvin Klein børnetøj på udsalg med 50% rabat – fx t-shirts, sweatshirts og kjoler til børn. Kurateret udvalg fra dansk webshop.
-  Updated: 2026-05-21T12:25:12Z
-  Total Products: 71
+  Updated: 2026-05-30T11:37:06Z
+  Total Products: 70
 - [Gro Company udsalg | 50% på udvalgt børnetøj](https://houseofkids.dk/collections/udsalg-50-gro-company): Se udvalgte Gro Company styles på udsalg med 50%. Find blødt børnetøj til hverdag, leg og rolige dage – valgt med fokus på komfort og kvalitet.
   Updated: 2026-05-21T12:25:13Z
   Total Products: 69
 - [Fleecejakker & uldjakker på udsalg til børn](https://houseofkids.dk/collections/fleecejakker-uldjakker-udsalg): Find fleecejakker og uldjakker til børn på udsalg. Bløde, varme lag til institution, skole og udeleg – med fokus på komfort og funktion.
-  Updated: 2026-05-24T22:52:04Z
-  Total Products: 59
+  Updated: 2026-06-01T10:34:55Z
+  Total Products: 64
 
 ## Store Pages
 
@@ -3628,7 +3625,7 @@
 - [FAQ](https://houseofkids.dk/pages/faq)
   Updated: 2025-06-23T19:13:22Z
 - [Størrelsesguide](https://houseofkids.dk/pages/storrelsesguide): Find den rigtige størrelse til dit barn Brug guiden herunder til hurtigt at vælge den rigtige størrelse. Tabellen viser typisk højde og alder pr. s...
-  Updated: 2026-01-21T06:09:09Z
+  Updated: 2026-06-02T11:19:48Z
 - [Mærker](https://houseofkids.dk/pages/brands)
   Updated: 2026-03-03T04:06:02Z
 - [](https://houseofkids.dk/pages/)
