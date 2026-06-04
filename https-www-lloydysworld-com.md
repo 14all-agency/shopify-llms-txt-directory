@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2026-01-10T16:02:05Z
 - Contact Email: Contact@lloydysworld.co.uk
-- Updated At: 2026-05-25T00:00:27.918Z
+- Updated At: 2026-06-04T00:00:36.284Z
 
 ## Products
 
@@ -38,13 +38,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/Copilot_20260426_172639.png?v=1777221483
   Price: £6.99 GBP
-- [Jack & Jones Glenn Slim Taper Jeans Dark Blue W38 L32](https://www.lloydysworld.com/products/jack-jones-mens-slim-taper-glenn-jeans-w38-l32-dark-blue-denim): Shop these preloved Jack & Jones Glenn slim taper jeans in dark blue. Premium stretch denim for comfort and style. Upgrade your wardrobe today. Buy now!
-  Updated: 2026-05-18T18:57:34Z
-  Vendor: Jack & Jones
-  Product Type: Men's Jeans
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_6cc95478-6eb6-490e-b444-af000ec694a0.jpg?v=1773348621
-  Price: £8.00 GBP
 - [Astraka Vintage Faux Fur Longline Coat - Dark Brown UK M](https://www.lloydysworld.com/products/women-s-vintage-faux-fur-coat-dark-brown-longline-thick-soft-elegant-winter): Stay warm in this Astraka vintage faux fur longline coat. A cruelty-free, dark brown winter essential in excellent condition. Shop this classic style today!
   Updated: 2026-05-18T20:34:36Z
   Vendor: Astraka
@@ -115,13 +108,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_ef502a49-5539-4452-819d-3be7f29ed3b8.jpg?v=1773308190
   Price: £5.99 GBP
-- [Next Leopard Print Midi Dress A-Line Women's UK 18 Brown](https://www.lloydysworld.com/products/next-women-s-leopard-print-a-line-midi-dress-brown-long-sleeve-size-18-casual): Shop this excellent preloved Next leopard print midi dress. Features a flattering A-line silhouette, long sleeves, and button closure. Perfect for any occasion.
-  Updated: 2026-05-19T07:45:50Z
-  Vendor: Next
-  Product Type: Women's Dresses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_f89384b5-7637-4b68-be7d-12971b302cba.jpg?v=1773308511
-  Price: £7.99 GBP
 - [Cotton Traders Floral Blouse Women's Black Short Sleeve UK 14](https://www.lloydysworld.com/products/cotton-traders-women-s-floral-short-sleeve-top-black-multicolour-size-14-blouse): Shop this preloved Cotton Traders floral blouse in UK 14. Features a lightweight black multicolour design, perfect for versatile styling. Buy this staple today!
   Updated: 2026-05-19T07:45:50Z
   Vendor: Cotton Traders
@@ -185,13 +171,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/20260512_213421.jpg?v=1778623801
   Price: £7.99 GBP
-- [Lacoste Men's Cactus Logo Polo Shirt - Black Cotton Jersey M](https://www.lloydysworld.com/products/mens-lacoste-polo-shirt-black-cactus-logo-short-sleeve-casual-top-m-excellent): Shop this premium Lacoste men's polo shirt in black cotton jersey. Features a unique cactus logo and regular fit. Elevate your smart-casual style today. Buy now!
-  Updated: 2026-05-18T20:31:55Z
-  Vendor: Lacoste
-  Product Type: Men's Polo Shirts
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/20260512_214851.jpg?v=1778624307
-  Price: £7.99 GBP
 - [Adidas Women's Trefoil Logo T-Shirt - Grey Cotton Sportswear](https://www.lloydysworld.com/products/adidas-mans-grey-trefoil-logo-t-shirt-white-trim-casual-sportswear-size-s): Shop this authentic Adidas Women's Trefoil Logo T-Shirt in grey. Crafted from breathable cotton jersey for a regular fit. Upgrade your sportswear collection today.
   Updated: 2026-05-18T21:04:28Z
   Vendor: Adidas
@@ -206,13 +185,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_be1f68d0-bdc8-460b-90ef-5b4bda1a183e.jpg?v=1773309819
   Price: £8.99 GBP
-- [FatFace Navy Cargo Chino Shorts Women's UK 10 Mid Rise Cotton](https://www.lloydysworld.com/products/fatface-women-s-cotton-shorts-navy-size-10): Shop these preloved FatFace navy cargo chino shorts. Featuring a comfortable mid-rise fit and breathable cotton, they are perfect for smart-casual summer style.
-  Updated: 2026-05-18T22:35:19Z
-  Vendor: FatFace
-  Product Type: Women's Shorts
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_7b5ccfe5-f216-40a8-ad4a-479e379062b5.jpg?v=1773586744
-  Price: £5.99 GBP
 - [Levi's Men's Black Big Logo Graphic T-Shirt | Regular Fit UK S](https://www.lloydysworld.com/products/levis-black-t-shirt-big-logo-regular-short-sleeve-mens-small): Shop this preloved Levi's men's black t-shirt featuring an iconic big logo graphic. Crafted from breathable cotton in a regular fit. Buy this classic tee today!
   Updated: 2026-05-18T20:31:55Z
   Vendor: Levi's
@@ -241,26 +213,19 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/57_62cd7296-c45f-4e1d-83c7-13823d34d9f6.png?v=1774176988
   Price: £8.99 GBP
+- [Polo Ralph Lauren Mens Green Logo Crew Neck T-Shirt UK 2XL Preloved](https://www.lloydysworld.com/products/polo-ralph-lauren-mens-green-logo-crew-neck-t-shirt-uk-2xl-preloved): Polo Ralph Lauren men's green cotton logo crew neck t-shirt, UK 2XL. Regular fit, short sleeve, excellent preloved condition, quality checked by LloydysWorld.
+  Updated: 2026-05-27T15:46:00Z
+  Vendor: Polo Ralph Lauren
+  Product Type: Men's T-Shirts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/57_4f34d83d-0377-4dcf-b418-a3cb83c4eae1.png?v=1773854379
+  Price: £6.99 GBP
 - [Oh Polly Black Ruched Satin Bodycon Mini Dress | UK Size 4](https://www.lloydysworld.com/products/women-oh-polly-black-satin-ruched-slip-dress-size-4-spaghetti-strap-bodycon-mini): Shop this stunning Oh Polly black ruched satin bodycon mini dress. Features a flattering off-the-shoulder fit. Perfect for evening events. Buy yours today!
   Updated: 2026-05-19T07:45:48Z
   Vendor: Oh Polly
   Product Type: Women's Dresses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/57_5ccac846-c908-492a-9778-fc47f72caf14.png?v=1773854383
-  Price: £10.99 GBP
-- [Under Armour Women's Plus Size Sports Bra - Grey & Black](https://www.lloydysworld.com/products/womens-under-armour-sports-bra-2x-grey-black-criss-cross-strap-armour-logo): Shop this preloved Under Armour women's medium-support sports bra. Features a secure criss-cross strap design for gym workouts. Get your perfect fit today!
-  Updated: 2026-05-19T07:45:48Z
-  Vendor: Under armour
-  Product Type: Women's Activewear
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/57_d1a6ef5a-588a-4206-87a5-13a89ac30a42.jpg?v=1773854386
-  Price: £7.99 GBP
-- [Mantaray Men's Pink Cargo Shorts | Cotton Utility UK 34](https://www.lloydysworld.com/products/mens-mantaray-cargo-shorts-pink-size-34-l29-multi-pocket-casual): Shop these Mantaray men's pink cargo shorts in UK size 34. Featuring durable cotton, utility pockets, and a comfortable mid-rise fit. Buy these shorts today!
-  Updated: 2026-05-18T22:35:18Z
-  Vendor: Mantaray
-  Product Type: Men's Shorts
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/20260512_174031.jpg?v=1778605730
   Price: £10.99 GBP
 - [Simon Clark Men's Green Cargo Shorts - Relaxed Fit UK Large](https://www.lloydysworld.com/products/mens-simon-clark-cargo-shorts-green-size-l-multi-pocket-drawstring-waist-27cm-l): Shop Simon Clark men's green cargo shorts in UK size L. Features durable cotton, adjustable drawstring waist, and secure pockets. Perfect for outdoor comfort.
   Updated: 2026-05-18T22:35:18Z
@@ -290,13 +255,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/57_5e5142bc-c5b7-4628-9a3a-c45412b8fe83.png?v=1773854425
   Price: £6.99 GBP
-- [Lauren Ralph Lauren Womens Cream Cotton  V-Neck Blouse UK M Preloved](https://www.lloydysworld.com/products/lauren-ralph-lauren-womens-cream-cotton-satin-blouse-uk-m): Shop this preloved Lauren Ralph Lauren cream cotton satin V-neck blouse in UK M. Excellent condition, long sleeve, regular fit. Sustainable fashion UK.
-  Updated: 2026-05-24T05:37:33Z
-  Vendor: Lauren Ralph Lauren
-  Product Type: Women's Blouses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/57_2138a0ce-fa27-4225-b7f7-e0584b38c285.png?v=1773854432
-  Price: £10.99 GBP
 - [Honor Gold Pink Lace Ball Gown | Formal Cut-Out Dress UK 12-14](https://www.lloydysworld.com/products/honor-gold-london-mariamax-pink-lace-cut-out-occasion-dress-black-waist-12-14): Shop this stunning Honor Gold pink lace ball gown. Features elegant cut-out details and a flattering waist. Perfect for weddings and formal events. Buy now!
   Updated: 2026-05-19T07:45:47Z
   Vendor: Honor Gold
@@ -360,13 +318,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/57_27452690-482c-46cb-9546-228acbd6e63a.jpg?v=1773855338
   Price: £7.99 GBP
-- [Calvin Klein Mens Denim Cargo Shorts Light Wash Blue Cotton UK 34](https://www.lloydysworld.com/products/calvin-klein-denim-shorts-size-34-blue-regular-fit-zip-button): Shop these Calvin Klein men's denim cargo shorts in light wash blue. Size UK 34, regular fit, and 100% cotton. Perfect preloved holiday-wear. Buy yours today!
-  Updated: 2026-05-18T22:35:16Z
-  Vendor: Calvin Klein
-  Product Type: Men's Shorts
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/20260512_174158.jpg?v=1778605801
-  Price: £9.99 GBP
 - [Emreco Beige Corduroy Trousers - Women's Straight Leg UK 16](https://www.lloydysworld.com/products/emreco-womens-beige-trousers-size-16-straight-leg-casual-fit-excellent-condition): Shop these preloved Emreco beige corduroy trousers. Featuring a flattering straight leg, stretch cotton blend, and UK 16 fit. Perfect for smart-casual style.
   Updated: 2026-05-18T22:35:16Z
   Vendor: Emreco
@@ -402,20 +353,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/57_d7d0f782-3495-4b5a-bf86-36979c393520.png?v=1775822041
   Price: £9.99 GBP
-- [Blue Vanilla Zigzag Midi Dress | Black & Beige UK 14](https://www.lloydysworld.com/products/blue-vanilla-womens-dress-zigzag-print-uk14-black-beige-short-sleeve): Shop this stylish Blue Vanilla zigzag print midi dress in black and beige. Features a flattering V-neck and cap sleeves. Perfect for any occasion. Buy now!
-  Updated: 2026-05-19T07:45:44Z
-  Vendor: Blue Vanilla
-  Product Type: Women's Dresses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/57_60d3e085-18db-4616-b9de-9f1eadcf62fb.png?v=1774548228
-  Price: £7.99 GBP
-- [Monsoon Floral Midi Dress | Navy V-Neck Fit & Flare UK 16](https://www.lloydysworld.com/products/monsoon-floral-midi-dress-uk16-navy-v-neck-fit-flare-occasion-wear): Shop this elegant Monsoon floral midi dress in navy. Featuring a flattering V-neck fit and flare silhouette, it is perfect for weddings. Buy yours online today!
-  Updated: 2026-05-19T07:45:44Z
-  Vendor: Monsoon
-  Product Type: Women's Dresses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/57_c9e110de-00d9-4f0b-a6ec-d54585229b38.png?v=1774548234
-  Price: £18.00 GBP
 - [Papaya Grey Heart Pattern Cotton Jumper - Women's UK 14](https://www.lloydysworld.com/products/papaya-jumper-grey-heart-pattern-size-14-women-s-soft-knit-pullover): Shop this preloved Papaya grey heart pattern jumper. Crafted from 100% soft cotton, this regular-fit knit offers sustainable style. Discover your new favorite.
   Updated: 2026-05-19T07:45:44Z
   Vendor: Papaya
@@ -438,37 +375,30 @@
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/rn-image_picker_lib_temp_7e98cb99-003e-4693-b1b6-3c83c66d1f21.jpg?v=1779204076
   Price: £7.99 GBP
 - [Next Men's Dark Blue V-Neck Polo Shirt | Cotton Casual Top 2XL](https://www.lloydysworld.com/products/next-mens-polo-shirt-dark-blue-2xl-cotton-v-neck-casual-top): Shop this preloved Next men's dark blue V-neck polo shirt. Crafted from breathable cotton jersey in a regular fit, it's the perfect smart-casual staple. Buy now!
-  Updated: 2026-05-18T20:31:56Z
+  Updated: 2026-05-27T02:37:01Z
   Vendor: NEXT
-  Product Type: Men's T-Shirts
+  Product Type: Men's Polo Shirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/57_98dcb5b4-f4e7-44a5-bd23-b9cb88aac4b6.png?v=1774548253
   Price: £7.99 GBP
-- [Lacoste Men's Grey Cotton Crew Neck T-Shirt - UK Size Large](https://www.lloydysworld.com/products/lacoste-mens-t-shirt-grey-l-classic-fit-crew-neck-logo-casual-tee): Shop this preloved Lacoste men's grey cotton crew neck t-shirt. A versatile, regular-fit staple for your wardrobe. Durable, breathable, and ready to wear today.
-  Updated: 2026-05-18T20:31:55Z
-  Vendor: Lacoste
-  Product Type: Men's T-Shirts
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/20260512_220132.jpg?v=1778651799
-  Price: £8.99 GBP
 - [Slazenger Men's White Grid Check Polo Shirt - UK XL Size](https://www.lloydysworld.com/products/slazenger-t-shirt-grid-check-logo-xl-white-casual-fit-short-sleeve): Shop this preloved Slazenger men's white polo shirt in UK XL. Features a breathable cotton jersey grid check design. Upgrade your casual wardrobe today. Buy now!
-  Updated: 2026-05-18T20:31:57Z
+  Updated: 2026-05-27T02:37:02Z
   Vendor: Slazenger
-  Product Type: Men's Polo Shirt
+  Product Type: Men's Polo Shirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/20260512_210735.jpg?v=1778622437
   Price: £7.99 GBP
 - [Slazenger Men's Grey Cotton Crew Neck Polo Shirt - UK XL](https://www.lloydysworld.com/products/slazenger-mens-t-shirt-uk-xl-green-crew-neck-casual-tee): Shop this preloved Slazenger men's grey polo shirt. Crafted from breathable cotton jersey for a comfortable, regular fit. Upgrade your casual wardrobe today.
-  Updated: 2026-05-18T20:31:57Z
+  Updated: 2026-05-27T02:37:01Z
   Vendor: Slazenger
-  Product Type: Men's T-Shirts
+  Product Type: Men's Polo Shirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/20260512_211356.jpg?v=1778622615
   Price: £7.99 GBP
 - [Slazenger Men's Striped Polo Shirt - White Cotton UK XL](https://www.lloydysworld.com/products/slazenger-mens-t-shirt-white-xl-polo-style-lightweight-sportswear-top): Shop this Slazenger men's striped polo shirt in white. Crafted from breathable 100% cotton jersey for a regular fit. Perfect for sportswear or casual wear. Buy now!
-  Updated: 2026-05-18T20:31:57Z
+  Updated: 2026-05-27T02:36:59Z
   Vendor: Slazenger
-  Product Type: Men's T-Shirts
+  Product Type: Men's Polo Shirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/20260512_211601.jpg?v=1778622782
   Price: £7.99 GBP
@@ -591,13 +521,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/20260425_144545_439846918.jpg?v=1777452980
   Price: £6.00 GBP
-- [H&M Angel Theme Denim Hot Pants | Blue Striped Shorts UK 6](https://www.lloydysworld.com/products/h-m-women-hot-pants-denim-striped-angel-theme-blue-uk6): Shop these preloved H&M Angel Theme denim hot pants. Features a flattering low-rise fit, stretch denim, and unique striped detail. Get yours today at our shop!
-  Updated: 2026-05-18T22:35:12Z
-  Vendor: H&M
-  Product Type: Women's Shorts
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/57_db2bf0dc-c41d-4aee-adfc-0233442230d8.jpg?v=1775236369
-  Price: £4.99 GBP
 - [F&F Black Tapered Trousers UK 12 - Button Hem Crepe Pants](https://www.lloydysworld.com/products/f-f-womens-trousers-crepe-tapered-pull-on-button-hem-black-uk-12): Shop F&F black tapered trousers in UK 12. Lightweight crepe pull-on pants with a stylish button hem. Perfect for smart casual wear. Get yours today!
   Updated: 2026-05-18T22:35:12Z
   Vendor: F&F
@@ -676,7 +599,7 @@
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/57_05b9b8c8-ce3c-43ff-b7b4-b21e26daf0de.png?v=1775735096
   Price: £7.99 GBP
 - [Jack & Jones Red Logo T-Shirt | Men's Cotton Regular Fit XL](https://www.lloydysworld.com/products/jack-jones-mens-t-shirt-cotton-logo-red-uk-xl): Shop this preloved Jack & Jones red logo T-shirt in UK size XL. Crafted from soft cotton jersey with a classic regular fit. Upgrade your casual style today!
-  Updated: 2026-05-18T20:31:55Z
+  Updated: 2026-06-03T11:41:56Z
   Vendor: JACK & JONES
   Product Type: Men's T-Shirts
   Availability: Available
@@ -704,9 +627,9 @@
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/57_de6e0157-13a3-4d87-aac1-82680852a8a7.jpg?v=1775735122
   Price: £5.99 GBP
 - [Mountfield Navy Blue Collared T-Shirt | Men's Cotton UK 2XL](https://www.lloydysworld.com/products/mountfield-mens-t-shirt-cotton-jersey-navy-blue-uk-2xl-gildan-casual-top): Shop this preloved Mountfield navy blue collared t-shirt in UK 2XL. Crafted from breathable cotton jersey for a smart, relaxed fit. Upgrade your wardrobe today!
-  Updated: 2026-05-18T20:33:09Z
+  Updated: 2026-06-01T07:43:04Z
   Vendor: Gildan
-  Product Type: Men's T-Shirts
+  Product Type: Men's Polo Shirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/20260512_210505.jpg?v=1778622175
   Price: £7.00 GBP
@@ -802,19 +725,12 @@
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/20260425_135333_164402623_cc9589b5-ca00-4b13-b50f-48fe00da44e2.jpg?v=1777299409
   Price: £8.00 GBP
 - [Lee Mens Jeans Regular Fit Straight Leg Brown W36 L29](https://www.lloydysworld.com/products/lee-mens-jeans-regular-fit-brown-uk-w36-l29): Shop these Lee men’s straight leg jeans in brown, size W36 L29. Durable cotton denim with classic 5‑pocket styling. Excellent preloved condition.
-  Updated: 2026-05-18T22:35:07Z
+  Updated: 2026-05-26T18:58:03Z
   Vendor: Lee
   Product Type: Men's Jeans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/20260505_152229.jpg?v=1777995407
   Price: £12.99 GBP
-- [Lacoste Men's Green Cotton Crew Neck T-Shirt | Size UK M](https://www.lloydysworld.com/products/lacoste-mens-t-shirt-green-uk-m): Shop this authentic Lacoste men's green crew neck shirt. Crafted from breathable cotton jersey with signature logo. Durable, stylish, and perfect for layering.
-  Updated: 2026-05-19T21:42:07Z
-  Vendor: Lacoste
-  Product Type: Men's Polo Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/20260512_214625.jpg?v=1778624116
-  Price: £12.00 GBP
 - [F&F Floral Print Smocked Hem Blouse - Pink & Cream UK 6](https://www.lloydysworld.com/products/f-f-womens-top-sleeveless-floral-pink-viscose-pullover-uk-7): Shop this preloved F&F floral print blouse in pink and cream. Features a flattering smocked hem and breathable viscose fabric. Perfect for your summer wardrobe.
   Updated: 2026-05-19T07:45:41Z
   Vendor: F&F
@@ -864,9 +780,9 @@ Why It’s a Great Choice
 Reliable, versatile wardrobe staple
 Great value with plenty of wear left
 Clean, pre‑owned condition ready for its next owner
-  Updated: 2026-05-18T22:30:38Z
+  Updated: 2026-05-27T02:23:18Z
   Vendor: Yves Saint Laurent
-  Product Type: Men's T-Shirts
+  Product Type: Men's Polo Shirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/20260513_073847.jpg?v=1778654530
   Price: £11.43 GBP
@@ -892,9 +808,9 @@ Clean, pre‑owned condition ready for its next owner
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/20260507_194244.jpg?v=1778510272
   Price: £25.99 GBP
 - [Dunlop Sport Mens Blue Polo Shirt UK L Lightweight Activewear Preloved](https://www.lloydysworld.com/products/products-dunlop-sport-mens-blue-polo-shirt-l): Dunlop Sport men's blue 100% polyester polo shirt, UK L, moisture-wicking, lightweight activewear. Very good preloved condition. Shop lloydysworld.
-  Updated: 2026-05-21T07:20:49Z
+  Updated: 2026-05-27T01:44:53Z
   Vendor: Dunlop
-  Product Type: Men's Polo Shirt
+  Product Type: Men's Polo Shirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/20260512_215017.jpg?v=1778707909
   Price: £10.00 GBP
@@ -940,17 +856,10 @@ Clean, pre‑owned condition ready for its next owner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/20260515_105322_3d3a02d3-7135-49d9-a288-38f73626bf24.jpg?v=1778857111
   Price: £8.00 GBP
-- [Red Herring Womens Red Shorts UK 12 W32 Cotton Mix Preloved](https://www.lloydysworld.com/products/red-herring-womens-red-shorts-uk12-w32-cotton): Red Herring women's red cotton mix shorts, UK 12, W32 waist, low rise, stretch. Excellent preloved condition. Shop lloydysworld.
-  Updated: 2026-05-21T06:45:20Z
-  Vendor: Red Herring
-  Product Type: Shorts
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/20260515_111541_93bd160b-ea98-4acd-8b92-5913645ea5fe.jpg?v=1779037714
-  Price: £8.00 GBP
 - [Unbranded Womens Brown Denim Shorts UK 12 W30 Cotton Preloved](https://www.lloydysworld.com/products/unbranded-womens-brown-denim-shorts-uk12-w30-cotton): Unbranded women's brown cotton denim shorts, UK 12, W30 waist, approx 3in inside leg, low rise. Excellent preloved condition. Shop lloydysworld.
-  Updated: 2026-05-21T06:43:06Z
+  Updated: 2026-06-03T11:29:30Z
   Vendor: Unbranded
-  Product Type: Shorts
+  Product Type: Women's Shorts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/20260515_103433_dc1468c6-2a25-436c-b817-d16cbb2c9ede.jpg?v=1779063684
   Price: £7.00 GBP
@@ -997,224 +906,337 @@ Clean, pre‑owned condition ready for its next owner
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_56fa738b-8067-4db5-9699-8a04a2c0a537.jpg?v=1779288737
   Price: £6.15 GBP
 - [Next Womens Checked Trousers UK 12R W30 L26 Preloved](https://www.lloydysworld.com/products/next-womens-checked-trousers-uk-12r-w30-l26-preloved): Next women's checked high rise stretch polyester trousers, size UK 12R, W30 L26. Pre-owned excellent condition — no marks, stains or damage. Fast UK dispatch.
-  Updated: 2026-05-24T18:43:30Z
+  Updated: 2026-06-03T10:26:36Z
   Vendor: NEXT
   Product Type: Women's Trousers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_6bb465c2-2e9b-4c5e-9194-cd3dcfdab569.jpg?v=1779605008
   Price: £11.90 GBP
 - [topshop Womens t shirt yellow uk 12](https://www.lloydysworld.com/products/topshop-womens-t-shirt-yellow-uk-12): Topshop women's yellow crew neck short sleeve cotton t-shirt, UK size 12. Regular fit, solid pattern. Excellent preloved condition, quality checked by LloydysWorld CIC.
-  Updated: 2026-05-24T18:43:00Z
+  Updated: 2026-06-03T10:26:32Z
   Vendor: TU
   Product Type: Women's T-Shirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_164c6ab1-fdb7-4bf9-9256-a357abb1fbb0.jpg?v=1779604977
   Price: £7.00 GBP
 - [Wallis Womens Top Blouse Jersey Black UK 14](https://www.lloydysworld.com/products/wallis-womens-top-blouse-jersey-black-uk-14): Wallis women's black sleeveless jersey top, UK size 14. Regular fit, solid pattern, polyester. Excellent preloved condition, quality checked by LloydysWorld CIC.
-  Updated: 2026-05-24T06:42:25Z
+  Updated: 2026-06-03T10:26:42Z
   Vendor: Wallis
   Product Type: Women's Blouses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_27c8f2c4-08ab-4793-a659-96bbb17e6a62.jpg?v=1779604945
   Price: £8.40 GBP
 - [TU Womens Floral Top Blouse Pink Short Sleeve UK 10](https://www.lloydysworld.com/products/tu-womens-floral-top-blouse-pink-short-sleeve-uk-10): TU women's pink floral short sleeve viscose blouse, UK size 10. Regular fit, casual occasion, machine washable. Excellent preloved condition, checked by LloydysWorld CIC.
-  Updated: 2026-05-24T18:41:55Z
+  Updated: 2026-06-03T10:26:37Z
   Vendor: TU
   Product Type: Women's Tops
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_09569314-34c1-4c21-92eb-146694018a64.jpg?v=1779604907
   Price: £7.00 GBP
-- [Warehouse Womens Trousers Orange Polyester UK 8 L22](https://www.lloydysworld.com/products/warehouse-womens-trousers-orange-polyester-uk-8-l22): Pattern No Pattern Closure Zip Occasion Casual Waist Size 34 in Size 8 Garment Care Machine Washable Front Type Flat Front Material Polyester Fabric Type Jersey Vintage No Colour Orange Fit Regular Brand Warehouse Size Type Regular Type Trousers Department Women Leg Style Straight Inside Leg 30 in Style Jump Suit Season Autumn, Spring, Summer, Winter Country of Origin China Handmade No Personalise No Warehouse Womens All In One Jumpsuit Orange Polyester UK 8 L22 Stylish womens all in one jumpsuit from Warehouse in a bold orange shade. Made from polyester with a smooth lightweight feel. Easy to wear and perfect for casual or smart outfits. Preloved and quality checked by LloydysWorld. Item Details Brand Warehouse Colour Orange Style Jumpsuit Fabric Type Woven Polyester Material Polyester UK 8 Inside Leg L22 Country of Origin China Condition Preloved and quality checked Why Buy From LloydysWorld Trusted UK seller Fast dispatch Quality checked preloved clothing Supporting community impact through sustainable fashion Shipping All orders are packed securely and dispatched quickly. Combined postage available. Returns 30 day returns accepted. Shop with confidence. Buy from LloydysWorld and Save .item-specifics, .item-description {font-family: Arial, sans-serif; font-size: 14px; margin-top: 16px;} .title {font-size: 16px; font-weight: bold; margin: 0 0 8px 0;} .specs-grid {display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px 24px;} .spec-pair {display: grid; grid-template-columns: 120px 1fr; gap: 8px;} .spec-name {font-weight: bold; color: #111;} .spec-value {color: #333;} .description-text {margin-top: 8px; line-height: 1.4; color: #333;}
-  Updated: 2026-05-24T18:36:08Z
-  Vendor: lloydysworld
-  Product Type: 
+- [Warehouse Womens Orange Jumpsuit Polyester UK 8 L22 Preloved](https://www.lloydysworld.com/products/warehouse-womens-trousers-orange-polyester-uk-8-l22): Warehouse women's orange woven polyester jumpsuit, UK size 8, inside leg L22. Bold casual style. Excellent preloved condition, quality checked by LloydysWorld.
+  Updated: 2026-06-03T10:26:32Z
+  Vendor: Warehouse
+  Product Type: Women's One Piece
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_eb306c34-d3e9-42cc-9021-e97d57f50901.jpg?v=1779604559
   Price: £6.00 GBP
-- [New Look Womens Dress Maroon Leopard Print Polyester UK 12](https://www.lloydysworld.com/products/new-look-womens-dress-maroon-leopard-print-polyester-uk-12): Pattern Animal Print Sleeve Length Short Sleeve Neckline Round Neck Occasion Casual Size 12 Garment Care Machine Washable Material Polyester Fabric Type Woven Colour Red Dress Length Knee Length Vintage No Brand New Look Size Type Regular Department Women Style Shift Theme Leopard Season Summer Country of Origin Turkmenistan Handmade No Personalise No New Look Womens Dress Maroon Leopard Print Polyester UK 12 Stylish womens dress from New Look in a maroon leopard print design. Made from polyester with a soft lightweight feel. Perfect for casual or smart wear. Preloved and quality checked by LloydysWorld. Item Details Brand New Look Colour Maroon Leopard Print Style Dress Fabric Type Woven Polyester Material Polyester UK 12 Country of Origin Turkey Condition Preloved and quality checked Why Buy From LloydysWorld Trusted UK seller Fast dispatch Quality checked preloved clothing Supporting community impact through sustainable fashion Shipping All orders are packed securely and dispatched quickly. Combined postage available. Returns 30 day returns accepted. Shop with confidence. Buy from LloydysWorld and Save .item-specifics, .item-description {font-family: Arial, sans-serif; font-size: 14px; margin-top: 16px;} .title {font-size: 16px; font-weight: bold; margin: 0 0 8px 0;} .specs-grid {display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px 24px;} .spec-pair {display: grid; grid-template-columns: 120px 1fr; gap: 8px;} .spec-name {font-weight: bold; color: #111;} .spec-value {color: #333;} .description-text {margin-top: 8px; line-height: 1.4; color: #333;}
-  Updated: 2026-05-24T18:36:27Z
-  Vendor: lloydysworld
-  Product Type: 
+- [New Look Womens Maroon Leopard Print Shift Dress UK 12 Preloved](https://www.lloydysworld.com/products/new-look-womens-dress-maroon-leopard-print-polyester-uk-12): New Look women's maroon leopard print shift dress, size UK 12. Polyester woven, short sleeve, round neck, knee length. Preloved and quality checked by LloydysWorld.
+  Updated: 2026-06-03T10:28:45Z
+  Vendor: New Look
+  Product Type: Women's Dresses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_e3e93ce9-4948-4e09-bd63-065a02f7cf77.jpg?v=1779604583
-  Price: £6.00 GBP
-- [Shein Womens A Line Dress Green 100 Percent Polyester UK 8](https://www.lloydysworld.com/products/shein-womens-a-line-dress-green-100-percent-polyester-uk-8): Pattern Floral Sleeve Length Sleeveless Closure Pullover Neckline Off the Shoulder Occasion Casual Size 8 Garment Care Machine Washable Sleeve Type Strappy Sleeve Material Polyester Fabric Type Chiffon Vintage No Dress Length Knee Length Colour Green Brand SheIn Size Type Regular Department Women Style A-Line Season Summer Country of Origin China Handmade No Personalise No Shein Womens A Line Dress Green 100 Percent Polyester UK 8 Lovely womens A line dress from Shein in a fresh green shade. Made from 100 percent polyester with a lightweight chiffon feel. Easy to wear and perfect for casual or smart outfits. Preloved and quality checked by LloydysWorld. Item Details Brand Shein Colour Green Style A Line Dress Fabric Type Chiffon Material 100 Percent Polyester UK 8 Country of Origin China Condition Preloved and quality checked Why Buy From LloydysWorld Trusted UK seller Fast dispatch Quality checked preloved clothing Supporting community impact through sustainable fashion Shipping All orders are packed securely and dispatched quickly. Combined postage available. Returns 30 day returns accepted. Shop with confidence. Buy from LloydysWorld and Save .item-specifics, .item-description {font-family: Arial, sans-serif; font-size: 14px; margin-top: 16px;} .title {font-size: 16px; font-weight: bold; margin: 0 0 8px 0;} .specs-grid {display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px 24px;} .spec-pair {display: grid; grid-template-columns: 120px 1fr; gap: 8px;} .spec-name {font-weight: bold; color: #111;} .spec-value {color: #333;} .description-text {margin-top: 8px; line-height: 1.4; color: #333;}
-  Updated: 2026-05-24T18:37:04Z
-  Vendor: lloydysworld
-  Product Type: 
+  Price: £5.00 GBP
+- [Shein Womens Green Floral A-Line Dress Sleeveless UK 8 Preloved](https://www.lloydysworld.com/products/shein-womens-a-line-dress-green-100-percent-polyester-uk-8): Shein women's green floral A-line dress, size UK 8. Chiffon polyester, sleeveless, off the shoulder, knee length. Preloved and quality checked by LloydysWorld.
+  Updated: 2026-06-03T10:28:48Z
+  Vendor: Shein
+  Product Type: Women's Dresses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_ff2ce8d2-3f4c-4de8-a473-168c0e020b19.jpg?v=1779604616
-  Price: £5.00 GBP
-- [Papaya Womens Sleeveless Top Pink 100 Percent Polyester UK 12](https://www.lloydysworld.com/products/papaya-womens-sleeveless-top-pink-100-percent-polyester-uk-12): Pattern Solid Sleeve Length Sleeveless Strap Type Spaghetti Closure Pullover Neckline Off the Shoulder Occasion Casual Size 12 Garment Care Machine Washable Sleeve Type Sleeveless Material Polyester Fabric Type Woven Vintage No Colour Pink Fit Regular Brand Papaya Size Type Regular Type Top Department Women Style Camisole Season Summer Country of Origin Sri Lanka Handmade No Personalise No Papaya Womens Sleeveless Top Pink 100 Percent Polyester UK 12 Lovely womens sleeveless top from Papaya in a soft pink shade. Made from 100 percent polyester for a lightweight easy to wear feel. Preloved and quality checked by LloydysWorld. Item Details Brand Papaya Colour Pink Style Sleeveless Top Fabric Type Chiffon Material 100 Percent Polyester UK 12 Country of Origin Sri Lanka Condition Preloved and quality checked Why Buy From LloydysWorld Trusted UK seller Fast dispatch Quality checked preloved clothing Supporting community impact through sustainable fashion Shipping All orders are packed securely and dispatched quickly. Combined postage available. Returns 30 day returns accepted. Shop with confidence. Buy from LloydysWorld and Save .item-specifics, .item-description {font-family: Arial, sans-serif; font-size: 14px; margin-top: 16px;} .title {font-size: 16px; font-weight: bold; margin: 0 0 8px 0;} .specs-grid {display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px 24px;} .spec-pair {display: grid; grid-template-columns: 120px 1fr; gap: 8px;} .spec-name {font-weight: bold; color: #111;} .spec-value {color: #333;} .description-text {margin-top: 8px; line-height: 1.4; color: #333;}
-  Updated: 2026-05-24T18:37:27Z
-  Vendor: lloydysworld
-  Product Type: 
+  Price: £8.00 GBP
+- [Papaya Womens Pink Camisole Top Sleeveless UK 12 Preloved](https://www.lloydysworld.com/products/papaya-womens-sleeveless-top-pink-100-percent-polyester-uk-12): Papaya women's pink camisole top, size UK 12. Polyester chiffon, sleeveless, off the shoulder neckline. Made in Sri Lanka. Preloved and quality checked by LloydysWorld.
+  Updated: 2026-06-03T10:28:43Z
+  Vendor: Papaya
+  Product Type: Women's Tops
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_9c65c223-2482-40da-94f4-1406704f4446.jpg?v=1779604643
-  Price: £4.00 GBP
-- [DKNYC Womens Dress White Lined Polyester UK 6](https://www.lloydysworld.com/products/dknyc-womens-dress-white-lined-polyester-uk-6): Pattern Floral Sleeve Length Sleeveless Closure Pullover Neckline V-Neck Occasion Casual Garment Care Machine Washable Size 6 Sleeve Type Sleeveless Material Polyester Fabric Type Chiffon Colour White Brand dknyc Size Type Regular Type dress Department Women Style Basic Features Lined Season Autumn, Spring, Summer Handmade No Country of Origin China Personalise No DKNYC Womens Dress White Lined Polyester UK 6 Elegant womens dress from DKNYC in classic white. Made from polyester with a smooth fully lined finish for comfort and structure. Ideal for smart casual wear work or special occasions. Preloved and quality checked by LloydysWorld. Item Details Brand DKNYC Colour White Style Dress Fabric Type Woven Polyester Material Polyester Lining Polyester UK 6 Country of Origin China Condition Preloved and quality checked Why Buy From LloydysWorld Trusted UK seller Fast dispatch Quality checked preloved clothing Supporting community impact through sustainable fashion Shipping All orders are packed securely and dispatched quickly. Combined postage available. Returns 30 day returns accepted. Shop with confidence. Buy from LloydysWorld and Save .item-specifics, .item-description {font-family: Arial, sans-serif; font-size: 14px; margin-top: 16px;} .title {font-size: 16px; font-weight: bold; margin: 0 0 8px 0;} .specs-grid {display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px 24px;} .spec-pair {display: grid; grid-template-columns: 120px 1fr; gap: 8px;} .spec-name {font-weight: bold; color: #111;} .spec-value {color: #333;} .description-text {margin-top: 8px; line-height: 1.4; color: #333;}
-  Updated: 2026-05-24T18:37:52Z
-  Vendor: lloydysworld
-  Product Type: 
+  Price: £6.00 GBP
+- [DKNYC Womens White Floral Lined Dress Sleeveless UK 6 Preloved](https://www.lloydysworld.com/products/dknyc-womens-dress-white-lined-polyester-uk-6): DKNYC women's white floral lined dress, size UK 6. Chiffon polyester, sleeveless, V-neck, pullover closure. Made in China. Preloved and quality checked by LloydysWorld.
+  Updated: 2026-06-03T10:28:48Z
+  Vendor: DKNYC
+  Product Type: Women's Dresses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_9fbd0400-9a5e-4987-a6e2-249ef318e5d7.jpg?v=1779604664
-  Price: £10.00 GBP
-- [New Look Womens Skirt Blue 100 Percent Cotton UK 26](https://www.lloydysworld.com/products/new-look-womens-skirt-blue-100-percent-cotton-uk-26): Pattern No Pattern Closure Zip Occasion Casual Garment Care Machine Washable Size 26 Material Cotton Fabric Type woven Rise High Vintage No Colour Blue Brand New Look Size Type Regular Department Women Type Skirt Skirt Length Long Style A-Line Features Lightweight Season Summer Country of Origin Turkmenistan Handmade No Personalise No New Look Womens Skirt Blue 100 Percent Cotton UK 26 Lovely womens skirt from New Look in a classic blue shade. Made from 100 percent cotton for comfort and breathability. Preloved and quality checked by LloydysWorld. Item Details Brand New Look Colour Blue Style Skirt Fabric Type Denim Material 100 Percent Cotton UK 26 Condition Preloved and quality checked Why Buy From LloydysWorld Trusted UK seller Fast dispatch Quality checked preloved clothing Supporting community impact through sustainable fashion Shipping All orders are packed securely and dispatched quickly. Combined postage available. Returns 30 day returns accepted. Shop with confidence. Buy from LloydysWorld and Save .item-specifics, .item-description {font-family: Arial, sans-serif; font-size: 14px; margin-top: 16px;} .title {font-size: 16px; font-weight: bold; margin: 0 0 8px 0;} .specs-grid {display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px 24px;} .spec-pair {display: grid; grid-template-columns: 120px 1fr; gap: 8px;} .spec-name {font-weight: bold; color: #111;} .spec-value {color: #333;} .description-text {margin-top: 8px; line-height: 1.4; color: #333;}
-  Updated: 2026-05-24T18:38:13Z
-  Vendor: lloydysworld
-  Product Type: 
+  Price: £9.00 GBP
+- [New Look Womens Blue A-Line Skirt High Rise UK 26 Preloved](https://www.lloydysworld.com/products/new-look-womens-skirt-blue-100-percent-cotton-uk-26): New Look women's blue A-line skirt, size UK 26. 100% cotton woven, high rise, zip closure, long length. Preloved and quality checked by LloydysWorld.
+  Updated: 2026-06-03T22:17:20Z
+  Vendor: New Look
+  Product Type: Women's Skirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_f9d7ddd7-3e0a-43ff-9fd3-7e1d61d135b2.jpg?v=1779604689
   Price: £6.00 GBP
-- [Shein Womens Blouse Black 100 Percent Polyester UK S](https://www.lloydysworld.com/products/shein-womens-blouse-black-100-percent-polyester-uk-s): Pattern Solid Sleeve Length Sleeveless Neckline Off the Shoulder Occasion Casual Size S Garment Care Machine Washable Sleeve Type Kimono Sleeve Material Polyester Fabric Type Chiffon Vintage No Colour Black Brand SheIn Fit Regular Size Type Regular Department Women Type Blouse Style Basic Features All Seasons Season Summer Country of Origin China Handmade No Personalise No Shein Womens Blouse Black 100 Percent Polyester UK S Lightweight womens blouse from Shein in classic black. Made from 100 percent polyester with a soft easy to wear feel. Preloved and quality checked by LloydysWorld. Item Details Brand Shein Colour Black Style Blouse Fabric Type Chiffon Material 100 Percent Polyester UK S Country of Origin China Condition Preloved and quality checked Why Buy From LloydysWorld Trusted UK seller Fast dispatch Quality checked preloved clothing Supporting community impact through sustainable fashion Shipping All orders are packed securely and dispatched quickly. Combined postage available. Returns 30 day returns accepted. Shop with confidence. Buy from LloydysWorld and Save .item-specifics, .item-description {font-family: Arial, sans-serif; font-size: 14px; margin-top: 16px;} .title {font-size: 16px; font-weight: bold; margin: 0 0 8px 0;} .specs-grid {display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px 24px;} .spec-pair {display: grid; grid-template-columns: 120px 1fr; gap: 8px;} .spec-name {font-weight: bold; color: #111;} .spec-value {color: #333;} .description-text {margin-top: 8px; line-height: 1.4; color: #333;}
-  Updated: 2026-05-24T18:38:52Z
-  Vendor: lloydysworld
-  Product Type: 
+- [Shein Womens Black Sleeveless Blouse Off Shoulder UK S Preloved](https://www.lloydysworld.com/products/shein-womens-blouse-black-100-percent-polyester-uk-s): Shein women's black sleeveless blouse, size UK S. Chiffon polyester, off the shoulder, kimono sleeve style. Made in China. Preloved and quality checked by LloydysWorld.
+  Updated: 2026-06-03T22:33:19Z
+  Vendor: Shein
+  Product Type: Women's Tops
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_930e198d-b829-443d-992b-aec0a9bb4358.jpg?v=1779604721
-  Price: £4.00 GBP
-- [Mountfield Mens Polo T Shirt Brown UK 2XL](https://www.lloydysworld.com/products/mountfield-mens-polo-t-shirt-brown-uk-2xl): Pattern Solid Sleeve Length Short Sleeve Neckline Collared Garment Care Machine Washable Size 2XL Year Manufactured 2020-2029 Material Cotton Fabric Type Woven Vintage No Colour Brown Fit Regular Brand mountfield Size Type Regular Type T-Shirt Department Men Unit Type Unit Features Collared Season Autumn, Spring, Summer, Winter Country of Origin Pakistan Handmade No Personalise No Mountfield Mens Polo T Shirt Brown UK 2XL Classic mens polo T shirt from Mountfield in a rich brown shade. Comfortable easy to wear and ideal for casual everyday outfits. Preloved and quality checked by LloydysWorld. Item Details Brand Mountfield Colour Brown Style Polo T Shirt Fabric Type Cotton Blend UK 2XL Condition Preloved and quality checked Why Buy From LloydysWorld Trusted UK seller Fast dispatch Quality checked preloved clothing Supporting community impact through sustainable fashion Shipping All orders are packed securely and dispatched quickly. Combined postage available. Returns 30 day returns accepted. Shop with confidence. Buy from LloydysWorld and Save .item-specifics, .item-description {font-family: Arial, sans-serif; font-size: 14px; margin-top: 16px;} .title {font-size: 16px; font-weight: bold; margin: 0 0 8px 0;} .specs-grid {display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px 24px;} .spec-pair {display: grid; grid-template-columns: 120px 1fr; gap: 8px;} .spec-name {font-weight: bold; color: #111;} .spec-value {color: #333;} .description-text {margin-top: 8px; line-height: 1.4; color: #333;}
-  Updated: 2026-05-24T18:40:03Z
-  Vendor: lloydysworld
-  Product Type: 
+  Price: £6.00 GBP
+- [Mountfield Mens Brown Polo T Shirt UK 2XL Preloved](https://www.lloydysworld.com/products/mountfield-mens-brown-polo-shirt-uk-2xl-preloved): Mountfield men's brown polo shirt, UK size 2XL. Classic polo collar, relaxed fit, excellent preloved condition, quality checked by LloydysWorld. Fast UK dispatch.
+  Updated: 2026-06-03T10:28:44Z
+  Vendor: Mountfield
+  Product Type: Men's Polo Shirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_bf462b23-8996-4498-9261-16d5241607d2.jpg?v=1779604799
   Price: £5.00 GBP
-- [Topman Mens T Shirt Black UK S](https://www.lloydysworld.com/products/topman-mens-t-shirt-black-uk-s): Sleeve Length Short Sleeve Neckline Round Neck Size S Garment Care Machine Washable Year Manufactured 2020-2029 Material Cotton Fabric Type Jersey Accents Logo Vintage No Colour Black Fit Regular Brand Topman Size Type Regular Type T-Shirt Department Men Features Uninsulated Season Summer Country of Origin Mauritius Handmade No Personalise No Topman Mens T Shirt Black UK S Classic black mens T shirt from Topman. Easy to wear comfortable and ideal for everyday casual outfits. Preloved and quality checked by LloydysWorld. Item Details Brand Topman Colour Black Style T Shirt Fabric Type Cotton Blend UK S Condition Preloved and quality checked Why Buy From LloydysWorld Trusted UK seller Fast dispatch Quality checked preloved clothing Supporting community impact through sustainable fashion Shipping All orders are packed securely and dispatched quickly. Combined postage available. Returns 30 day returns accepted. Shop with confidence. Buy from LloydysWorld and Save .item-specifics, .item-description {font-family: Arial, sans-serif; font-size: 14px; margin-top: 16px;} .title {font-size: 16px; font-weight: bold; margin: 0 0 8px 0;} .specs-grid {display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px 24px;} .spec-pair {display: grid; grid-template-columns: 120px 1fr; gap: 8px;} .spec-name {font-weight: bold; color: #111;} .spec-value {color: #333;} .description-text {margin-top: 8px; line-height: 1.4; color: #333;}
-  Updated: 2026-05-24T18:40:29Z
-  Vendor: lloydysworld
-  Product Type: 
+- [Topman Mens Black Crew Neck T-Shirt UK S Preloved](https://www.lloydysworld.com/products/topman-mens-t-shirt-black-uk-s): Topman men's black crew neck cotton blend t-shirt, UK size S. Classic fit, everyday casual style. Excellent preloved condition, quality checked by LloydysWorld.
+  Updated: 2026-06-03T10:28:47Z
+  Vendor: Topman
+  Product Type: Men's T-Shirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_71d8d8b7-7015-4966-bd52-32f1fde32f0d.jpg?v=1779604824
-  Price: £5.00 GBP
-- [Divided Womens Blouse Shirt Lightweight Black UK 10](https://www.lloydysworld.com/products/divided-womens-blouse-shirt-lightweight-black-uk-10): Neckline Collared Closure Button Occasion Casual Size 10 Fabric Type Chiffon Accents Button Vintage No Colour Black Department Women Style Basic Features Lightweight, Collared Season Summer Handmade No Pattern Solid Sleeve Length Long Sleeve Strap Type Strapless Garment Care Machine Washable Sleeve Type Long Sleeve Material 100% polyester, Polyester Fit Regular Brand Divided Size Type Regular Type Blouse Country of Origin China Personalise No Divided Womens Blouse Shirt Lightweight Black UK 10 Lovely lightweight black blouse from Divided. Perfect for everyday wear and easy to style. Preloved and quality checked by LloydysWorld. Item Details Brand: Divided Colour: Black Style: Blouse Shirt Fabric Type: Chiffon UK 10 Condition: Preloved and quality checked Why Buy From LloydysWorld Trusted UK seller Fast dispatch Quality checked preloved clothing Supporting community impact through sustainable fashion Shipping All orders are packed securely and dispatched quickly. Combined postage available. Returns 30 day returns accepted. Shop with confidence. Buy from LloydysWorld and Save .item-specifics, .item-description {font-family: Arial, sans-serif; font-size: 14px; margin-top: 16px;} .title {font-size: 16px; font-weight: bold; margin: 0 0 8px 0;} .specs-grid {display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px 24px;} .spec-pair {display: grid; grid-template-columns: 120px 1fr; gap: 8px;} .spec-name {font-weight: bold; color: #111;} .spec-value {color: #333;} .description-text {margin-top: 8px; line-height: 1.4; color: #333;}
-  Updated: 2026-05-24T18:40:53Z
-  Vendor: lloydysworld
-  Product Type: 
+  Price: £4.00 GBP
+- [Divided Womens Black Lightweight Blouse Shirt UK 10 Preloved](https://www.lloydysworld.com/products/divided-womens-black-lightweight-blouse-shirt-uk-10-preloved): Divided by H&M women's black lightweight blouse shirt, UK size 10. Smart casual style, excellent preloved condition, quality checked by LloydysWorld. Fast UK dispatch.
+  Updated: 2026-06-03T10:28:48Z
+  Vendor: Divided
+  Product Type: Women's Blouses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_2a6d2e65-00cc-4e60-9265-027b17d135af.jpg?v=1779604849
-  Price: £5.00 GBP
-- [Unbranded Mens T‑Shirt Black | Casual Basic Tee | Preloved Quality | UK Seller](https://www.lloydysworld.com/products/unbranded-mens-t-shirt-black-casual-basic-tee-preloved-quality-uk-seller): Sleeve Length Short Sleeve Neckline Round Neck Size L Garment Care Machine Washable Year Manufactured 2020-2029 Material Cotton Fabric Type Woven Accents Logo Vintage No Colour Black Fit Regular Brand Unbranded Size Type Regular Type T-Shirt Department Men Features All Seasons, Uninsulated Season Autumn, Spring, Summer, Winter Handmade No Country of Origin Nicaragua Personalise No Preloved Clothing With Purpose This item has been carefully checked, cleaned and prepared by LloydysWorld — a Southsea-based Community Interest Company (CIC) supporting vulnerable adults through reuse and upcycling. Item Details Brand: Unbranded Type: Men's T‑Shirt Colour: Black Condition: Preloved, quality checked Size: As shown in photos Why Shop With Us? Every purchase supports our community projects We rescue quality clothing from landfill Fast dispatch from Southsea, UK Trusted small business — clothing with a purpose Thank you for supporting LloydysWorld — together we’re building something from the ground up. .item-specifics, .item-description {font-family: Arial, sans-serif; font-size: 14px; margin-top: 16px;} .title {font-size: 16px; font-weight: bold; margin: 0 0 8px 0;} .specs-grid {display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px 24px;} .spec-pair {display: grid; grid-template-columns: 120px 1fr; gap: 8px;} .spec-name {font-weight: bold; color: #111;} .spec-value {color: #333;} .description-text {margin-top: 8px; line-height: 1.4; color: #333;}
-  Updated: 2026-05-24T18:41:18Z
-  Vendor: lloydysworld
-  Product Type: 
+  Price: £4.00 GBP
+- [Unbranded Mens Black T-Shirt UK L Casual Basic Tee Preloved](https://www.lloydysworld.com/products/unbranded-mens-t-shirt-black-casual-basic-tee-preloved-quality-uk-seller): Unbranded mens black casual basic t-shirt, UK size L. Quality checked preloved condition. Fast dispatch from Portsmouth. 30 day returns.
+  Updated: 2026-06-03T10:28:44Z
+  Vendor: Unbranded
+  Product Type: Men's T-Shirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_c6a15807-f4f4-4b6f-aada-80b6b12b25f7.jpg?v=1779604874
-  Price: £7.00 GBP
+  Price: £6.00 GBP
 - [Marble Womens Grey Sleeveless Knit Jumper UK M Preloved](https://www.lloydysworld.com/products/marble-womens-grey-sleeveless-knit-jumper-uk-m): Shop this preloved Marble grey sleeveless knit jumper in UK M. Excellent condition, soft feel, perfect for layering. Sustainable fashion UK.
-  Updated: 2026-05-24T18:44:26Z
+  Updated: 2026-06-03T10:28:45Z
   Vendor: Marble
   Product Type: Women's Jumpers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_63e86f3b-cb7a-47b0-b441-7791be77bbef.jpg?v=1779605063
   Price: £8.00 GBP
-- [Next Mens Black Viscose Shirt UK M Short Sleeve Chest 39 41in Morocco](https://www.lloydysworld.com/products/next-mens-black-viscose-shirt-uk-m-short-sleeve-chest-39-41in-morocco): Pattern Paisley Sleeve Length Short Sleeve Closure Button Neckline Collared Chest Size 41 in Occasion Casual Size M Garment Care Machine Washable Material Cotton Fabric Type Woven Accents Button Vintage No Colour Black Fit Regular Brand NEXT Size Type Regular Type Button-Up Department Men Collar Style Cutaway Features All Seasons, Uninsulated Season Autumn, Spring, Summer, Winter Country of Origin Morocco Handmade No Personalise No Next Mens Black Viscose Shirt UK M Short Sleeve Chest 39 41in Morocco Condition: Pre owned Excellent Freshly checked cleaned and ready to wear No marks stains holes or damage Item Details: • Brand Next • Colour Black • Size M • Fit Regular • Style Short Sleeve Shirt • Fabric Woven Viscose • Features Chest 39 41in Button Front Lightweight Made in Morocco Why Buy From LloydysWorld: • Trusted UK seller • Fast dispatch from Portsmouth • All items quality checked • Preloved clothing supporting community projects • 30 day returns for peace of mind • Buy from LloydysWorld and save Shipping: • Royal Mail delivery • Secure eco friendly packaging Returns: • 30 day return policy • Hassle free process .item-specifics, .item-description {font-family: Arial, sans-serif; font-size: 14px; margin-top: 16px;} .title {font-size: 16px; font-weight: bold; margin: 0 0 8px 0;} .specs-grid {display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px 24px;} .spec-pair {display: grid; grid-template-columns: 120px 1fr; gap: 8px;} .spec-name {font-weight: bold; color: #111;} .spec-value {color: #333;} .description-text {margin-top: 8px; line-height: 1.4; color: #333;}
-  Updated: 2026-05-24T21:07:45Z
-  Vendor: lloydysworld
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_2dfff1fb-6350-4d70-b606-b87ed5fb565d.jpg?v=1779656865
-  Price: £6.00 GBP
-- [Topman Mens Grey Slim Fit Shirt UK M Short Sleeve Chest 38 40in Casual](https://www.lloydysworld.com/products/topman-mens-grey-slim-fit-shirt-uk-m-short-sleeve-chest-38-40in-casual): Pattern Paisley Sleeve Length Short Sleeve Closure Button Neckline Collared Chest Size 40 in Occasion Casual, Party/Cocktail Garment Care Machine Washable Size M Material Cotton Fabric Type Woven Accents Button Vintage No Colour Grey Brand Topman Fit Regular Size Type Regular Type Button-Up Department Men Collar Style Cutaway Features Slimming, Uninsulated Season Autumn, Spring, Summer, Winter Country of Origin India Handmade No Personalise No Topman Mens Grey Slim Fit Shirt UK M Short Sleeve Chest 38 40in Casual Condition: Pre owned Excellent Freshly checked cleaned and ready to wear No marks stains holes or damage Item Details: • Brand Topman • Colour Grey • Size M • Fit Slim Fit • Style Short Sleeve Shirt • Fabric Woven Cotton • Features Chest 38 40in Button Front Casual Made in India Why Buy From LloydysWorld: • Trusted UK seller • Fast dispatch from Portsmouth • All items quality checked • Preloved clothing supporting community projects • 30 day returns for peace of mind • Buy from LloydysWorld and save Shipping: • Royal Mail delivery • Secure eco friendly packaging Returns: • 30 day return policy • Hassle free process .item-specifics, .item-description {font-family: Arial, sans-serif; font-size: 14px; margin-top: 16px;} .title {font-size: 16px; font-weight: bold; margin: 0 0 8px 0;} .specs-grid {display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px 24px;} .spec-pair {display: grid; grid-template-columns: 120px 1fr; gap: 8px;} .spec-name {font-weight: bold; color: #111;} .spec-value {color: #333;} .description-text {margin-top: 8px; line-height: 1.4; color: #333;}
-  Updated: 2026-05-24T21:08:22Z
-  Vendor: lloydysworld
-  Product Type: 
+- [Topman Mens Grey Slim Fit Short Sleeve Shirt UK M Preloved](https://www.lloydysworld.com/products/topman-mens-grey-slim-fit-shirt-uk-m-short-sleeve-chest-38-40in-casual): Topman mens grey slim fit short sleeve shirt, woven cotton, button front, chest 38-40in, UK M. Made in India. Excellent preloved condition. Fast UK dispatch.
+  Updated: 2026-06-03T10:28:48Z
+  Vendor: Topman
+  Product Type: Men's Shirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_b1f86bf5-fafd-4c8b-ad73-1e5ab10cf75b.jpg?v=1779656901
   Price: £6.00 GBP
-- [Unbranded Womens Blouse Top Black Floral UK 14](https://www.lloydysworld.com/products/unbranded-womens-blouse-top-black-floral-uk-14): Pattern Floral Sleeve Length Short Sleeve Closure Pullover Neckline V-Neck Occasion Casual Size 14 Garment Care Machine Washable Sleeve Type Cap Sleeve Material Polyester Dress Length Short Vintage No Colour Black Brand Unbranded Size Type Regular Department Women Style Shirt Dress Season Summer Handmade No Personalise No Unbranded Womens Blouse Top Black Floral UK 14 Pretty womens blouse top in black with a floral pattern. Lightweight comfortable and easy to wear for casual or smart outfits. Preloved and quality checked by LloydysWorld. Item Details Brand Unbranded Colour Black Floral Style Blouse Top Fabric Type Woven Polyester Material Polyester UK 14 Condition Preloved and quality checked Why Buy From LloydysWorld Trusted UK seller Fast dispatch Quality checked preloved clothing Supporting community impact through sustainable fashion Shipping All orders are packed securely and dispatched quickly. Combined postage available. Returns 30 day returns accepted. Shop with confidence. Buy from LloydysWorld and Save .item-specifics, .item-description {font-family: Arial, sans-serif; font-size: 14px; margin-top: 16px;} .title {font-size: 16px; font-weight: bold; margin: 0 0 8px 0;} .specs-grid {display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px 24px;} .spec-pair {display: grid; grid-template-columns: 120px 1fr; gap: 8px;} .spec-name {font-weight: bold; color: #111;} .spec-value {color: #333;} .description-text {margin-top: 8px; line-height: 1.4; color: #333;}
-  Updated: 2026-05-24T21:08:47Z
-  Vendor: lloydysworld
-  Product Type: 
+- [Unbranded Womens Black Floral Blouse Top UK 14 Preloved](https://www.lloydysworld.com/products/unbranded-womens-blouse-top-black-floral-uk-14): Unbranded womens black floral blouse top, woven polyester, lightweight, UK size 14. Smart casual wear. Excellent preloved condition. Fast UK dispatch, 30 day returns.
+  Updated: 2026-06-03T10:28:47Z
+  Vendor: Unbranded
+  Product Type: Women's Dresses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_51894143-aa7e-4e0e-addd-4f93269eaf22.jpg?v=1779656926
-  Price: £4.00 GBP
-- [Only Womens Skinny Stretch Jeans Blue Grey Zip W28 L30](https://www.lloydysworld.com/products/only-womens-skinny-stretch-jeans-blue-grey-zip-w28-l30): Pattern No Pattern Closure Zip Fabric Wash Dark Waist Size 28 in Size 28 Garment Care Machine Washable Material Cotton Fabric Type Denim Accents Zip Rise Low (6.5-8.5 in) Colour Grey Vintage No Fit Slim Brand Only Size Type Regular Type Jeans Department Women Pocket Type 5-Pocket Design Inside Leg 30 in Style Skinny Features Ankle Zip, Slimming, Stretch Season Spring Handmade No Personalise No Only Womens Skinny Jeans Blue Grey Zip W28 L30 Stylish womens skinny jeans from Only in a blue grey wash with zip detailing. Comfortable stretch fit ideal for everyday wear. Preloved and quality checked by LloydysWorld. Item Details Brand Only Colour Blue Grey Style Skinny Jeans Fabric Type Stretch Denim Material Cotton Blend Waist W28 Inside Leg L30 Features Zip Detail Condition Preloved and quality checked Why Buy From LloydysWorld Trusted UK seller Fast dispatch Quality checked preloved clothing Supporting community impact through sustainable fashion Shipping All orders are packed securely and dispatched quickly. Combined postage available. Returns 30 day returns accepted. Shop with confidence. Buy from LloydysWorld and Save .item-specifics, .item-description {font-family: Arial, sans-serif; font-size: 14px; margin-top: 16px;} .title {font-size: 16px; font-weight: bold; margin: 0 0 8px 0;} .specs-grid {display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px 24px;} .spec-pair {display: grid; grid-template-columns: 120px 1fr; gap: 8px;} .spec-name {font-weight: bold; color: #111;} .spec-value {color: #333;} .description-text {margin-top: 8px; line-height: 1.4; color: #333;}
-  Updated: 2026-05-24T21:09:10Z
-  Vendor: lloydysworld
-  Product Type: 
+  Price: £5.00 GBP
+- [Only Womens Blue Grey Skinny Stretch Jeans W28 L30 Preloved](https://www.lloydysworld.com/products/only-womens-skinny-stretch-jeans-blue-grey-zip-w28-l30): Only womens skinny stretch jeans in blue grey wash with zip detail. Cotton blend denim, W28 L30. Excellent preloved condition. Fast UK dispatch, 30 day returns.
+  Updated: 2026-06-03T10:28:44Z
+  Vendor: Only
+  Product Type: Women's Jeans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_9ab35fa9-cfbe-48b0-910f-24a7ffed4739.jpg?v=1779656949
-  Price: £6.00 GBP
-- [unbranded Black Polyester Shift Dress uk 22-24 Woven Sleeveless Party  Plus size](https://www.lloydysworld.com/products/unbranded-black-polyester-shift-dress-uk-22-24-woven-sleeveless-party-plus-size): Pattern No Pattern Sleeve Length Sleeveless Neckline Round Neck Closure Pullover Character Belle Occasion Casual Size 24 Garment Care Machine Washable Sleeve Type Strapless Material Cotton, Polyester Fabric Type Woven Dress Length Long Vintage No Colour Black Brand Unbranded Size Type Plus Department Women Style Shirt Dress Season Summer Handmade No Personalise No Black Polyester Shift Dress Size 24 Woven Sleeveless Party Cocktail Plus Size Condition: Pre owned Excellent Freshly checked cleaned and ready to wear No marks stains holes or damage Item Details: • Brand: Unbranded • Colour: Black • Size: 24 • Fit: Plus Size Regular • Style: Shift Dress • Fabric: Woven Polyester • Features: Sleeveless Round Neck Party Cocktail Lightweight Why Buy From LloydysWorld: • Trusted UK seller • Fast dispatch from Portsmouth • All items quality checked • Preloved clothing supporting community projects • 30 day returns for peace of mind • Buy from LloydysWorld and save Shipping: • Royal Mail delivery • Secure eco friendly packaging Returns: • 30 day return policy • Hassle free process .item-specifics, .item-description {font-family: Arial, sans-serif; font-size: 14px; margin-top: 16px;} .title {font-size: 16px; font-weight: bold; margin: 0 0 8px 0;} .specs-grid {display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px 24px;} .spec-pair {display: grid; grid-template-columns: 120px 1fr; gap: 8px;} .spec-name {font-weight: bold; color: #111;} .spec-value {color: #333;} .description-text {margin-top: 8px; line-height: 1.4; color: #333;}
-  Updated: 2026-05-24T21:09:38Z
-  Vendor: lloydysworld
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_3c3ece00-a5f8-4124-9979-0fd341aec5b2.jpg?v=1779656974
-  Price: £4.00 GBP
-- [NEXT Pink Floral Viscose Fit and Flare Dress UK 12 Woven Summer Lightweight](https://www.lloydysworld.com/products/next-pink-floral-viscose-fit-and-flare-dress-uk-12-woven-summer-lightweight): Pattern Floral Sleeve Length Sleeveless Closure Button Neckline V-Neck Occasion Casual Size 12 Garment Care Machine Washable Sleeve Type Cold Shoulder Sleeve Material Viscose Fabric Type Woven Accents Button Dress Length Knee Length Vintage No Colour Pink Brand NEXT Size Type Regular Department Women Style Fit & Flare Season Summer Country of Origin Bangladesh Handmade No Personalise No NEXT Pink Floral Viscose Fit and Flare Dress UK 12 Woven Summer Lightweight Condition: Pre owned Excellent Freshly checked cleaned and ready to wear No marks stains holes or damage Item Details: • Brand: NEXT • Colour: Pink Floral • Size: 12 • Fit: Regular Fit and Flare • Style: Fit and Flare Dress • Fabric: Woven Viscose • Features: Floral Lightweight Short Sleeve Knee Length Why Buy From LloydysWorld: • Trusted UK seller • Fast dispatch from Portsmouth • All items quality checked • Preloved clothing supporting community projects • 30 day returns for peace of mind • Buy from LloydysWorld and save Shipping: • Royal Mail delivery • Secure eco friendly packaging Returns: • 30 day return policy • Hassle free process .item-specifics, .item-description {font-family: Arial, sans-serif; font-size: 14px; margin-top: 16px;} .title {font-size: 16px; font-weight: bold; margin: 0 0 8px 0;} .specs-grid {display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px 24px;} .spec-pair {display: grid; grid-template-columns: 120px 1fr; gap: 8px;} .spec-name {font-weight: bold; color: #111;} .spec-value {color: #333;} .description-text {margin-top: 8px; line-height: 1.4; color: #333;}
-  Updated: 2026-05-24T21:10:05Z
-  Vendor: lloydysworld
-  Product Type: 
+  Price: £5.00 GBP
+- [Next Womens Pink Floral Viscose Fit and Flare Dress UK 12 Preloved](https://www.lloydysworld.com/products/next-pink-floral-viscose-fit-and-flare-dress-uk-12-woven-summer-lightweight): Next womens pink floral fit and flare dress, woven viscose, short sleeve, knee length, lightweight, UK size 12. Excellent preloved condition. Fast UK dispatch.
+  Updated: 2026-06-03T10:28:43Z
+  Vendor: NEXT
+  Product Type: Women's Dresses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_3b3b17fa-8639-4d16-80fb-b1704d0a0d92.jpg?v=1779657004
-  Price: £6.00 GBP
-- [ASOS Curve Pink Floral Jersey Fit and Flare Dress UK 30 Viscose Elastane](https://www.lloydysworld.com/products/asos-curve-pink-floral-jersey-fit-and-flare-dress-uk-30-viscose-elastane): Pattern Floral Sleeve Length Long Sleeve Closure Pullover Neckline V-Neck Occasion Casual Size 30 Garment Care Machine Washable Sleeve Type Balloon Sleeve Material Viscose, Elastane Fabric Type Jersey Dress Length Knee Length Vintage No Colour Pink Brand ASOS Size Type Regular Department Women Unit Type Unit Style Fit & Flare Season Spring Country of Origin Romania Handmade No Personalise No ASOS Curve Pink Floral Jersey Fit and Flare Dress UK 30 Viscose Elastane Condition: Pre owned Excellent Freshly checked cleaned and ready to wear No marks stains holes or damage Item Details: • Brand: ASOS Curve • Colour: Pink Floral • Size: 30 • Fit: Curve Fit and Flare • Style: Fit and Flare Dress • Fabric: Jersey Viscose Elastane • Features: Stretch Floral Short Sleeve Knee Length Why Buy From LloydysWorld: • Trusted UK seller • Fast dispatch from Portsmouth • All items quality checked • Preloved clothing supporting community projects • 30 day returns for peace of mind • Buy from LloydysWorld and save Shipping: • Royal Mail delivery • Secure eco friendly packaging Returns: • 30 day return policy • Hassle free process .item-specifics, .item-description {font-family: Arial, sans-serif; font-size: 14px; margin-top: 16px;} .title {font-size: 16px; font-weight: bold; margin: 0 0 8px 0;} .specs-grid {display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px 24px;} .spec-pair {display: grid; grid-template-columns: 120px 1fr; gap: 8px;} .spec-name {font-weight: bold; color: #111;} .spec-value {color: #333;} .description-text {margin-top: 8px; line-height: 1.4; color: #333;}
-  Updated: 2026-05-24T21:10:35Z
-  Vendor: lloydysworld
-  Product Type: 
+  Price: £5.00 GBP
+- [ASOS Curve Womens Pink Floral Fit and Flare Dress UK 30 Preloved](https://www.lloydysworld.com/products/asos-curve-pink-floral-jersey-fit-and-flare-dress-uk-30-viscose-elastane): ASOS Curve pink floral fit and flare dress, jersey viscose elastane, short sleeve, knee length, UK size 30. Excellent preloved condition. Fast UK dispatch.
+  Updated: 2026-06-03T10:28:49Z
+  Vendor: ASOS
+  Product Type: Women's Dresses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_4939d467-7d08-413a-a89a-c55f242e4266.jpg?v=1779657030
-  Price: £6.00 GBP
-- [NEXT Black Sleeveless Viscose Shift Dress UK 14 Knee Length Summer](https://www.lloydysworld.com/products/next-black-sleeveless-viscose-shift-dress-uk-14-knee-length-summer): Pattern leaf Sleeve Length Sleeveless Closure Pullover Neckline Off the Shoulder Occasion Casual Size 14 Garment Care Machine Washable Sleeve Type Strappy Sleeve Material Viscose Fabric Type Woven Dress Length Knee Length Vintage No Colour Black Brand NEXT Size Type Regular Department Women Unit Type Unit Style Shirt Dress Season Summer Country of Origin India Handmade No Personalise No NEXT Black Sleeveless Viscose Shift Dress UK 14 Knee Length Summer Condition: Pre‑owned – Excellent Freshly checked cleaned and ready to wear. No marks stains holes or damage. Item Details: • Brand: NEXT • Colour: Black • Size: 14 • Fit: Regular • Style: Shift Dress • Fabric: Viscose Woven • Features: Sleeveless Knee Length Zip Back Why Buy From LloydysWorld: • Trusted UK seller • Fast dispatch from Portsmouth • All items quality‑checked • Preloved clothing supporting community projects • 30‑day returns for peace of mind • Buy from LloydysWorld and save Shipping: • Royal Mail delivery • Secure eco‑friendly packaging Returns: • 30‑day return policy • Hassle‑free process .item-specifics, .item-description {font-family: Arial, sans-serif; font-size: 14px; margin-top: 16px;} .title {font-size: 16px; font-weight: bold; margin: 0 0 8px 0;} .specs-grid {display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px 24px;} .spec-pair {display: grid; grid-template-columns: 120px 1fr; gap: 8px;} .spec-name {font-weight: bold; color: #111;} .spec-value {color: #333;} .description-text {margin-top: 8px; line-height: 1.4; color: #333;}
-  Updated: 2026-05-24T21:10:57Z
-  Vendor: lloydysworld
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_c8ad6d09-f555-4840-bbd7-d5b398412709.jpg?v=1779657054
-  Price: £6.00 GBP
+  Price: £5.00 GBP
 - [Nine West Womens Red Leopard Print A Line Dress UK M Preloved](https://www.lloydysworld.com/products/nine-west-womens-a-line-dress-red-leopard-print-polyester-uk-m): Nine West womens A line dress in bold red leopard print. Woven polyester, short sleeve, round neck, knee length. UK size M. Made in Vietnam. Preloved and quality checked by LloydysWorld. Fast UK dispatch, 30 day returns.
-  Updated: 2026-05-24T21:19:43Z
+  Updated: 2026-06-03T10:28:48Z
   Vendor: Nine
   Product Type: Women's Dresses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_90242dfd-e85d-4704-9058-dc13ce324ff8.jpg?v=1779657088
   Price: £19.99 GBP
-[List Continued](https://www.lloydysworld.com/a/llms-agent/llms.txt?shop=a1fdky-yn.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDg4NTA4NDA4NjYxNSwibGFzdF92YWx1ZSI6IjEwODg1MDg0MDg2NjE1In0%3D)
+- [Marks & Spencer Womens Yellow T-Shirt Bra 42B Preloved](https://www.lloydysworld.com/products/marks-spencer-womens-bra-yellow-uk-20-100-polyester-t-shirt-bra): M&S women's yellow polyester T-shirt bra, size 42B. Adjustable straps, lightweight and supportive. Excellent preloved condition, quality checked by LloydysWorld.
+  Updated: 2026-05-27T17:54:47Z
+  Vendor: Marks & Spencer
+  Product Type: Women's Bra
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_8341e139-a75f-40ef-9c8c-d04e9643412c.jpg?v=1779861281
+  Price: £5.00 GBP
+- [Marks & Spencer Womens Black Padded Underwired Bra 32A Preloved](https://www.lloydysworld.com/products/marks-spencer-womens-bra-black-padded-underwired-microfibre-uk-32a): M&S women's black padded underwired microfibre bra, UK 32A. Smooth moulded cups, normal straps, polyamide mix. Excellent preloved condition, checked by LloydysWorld.
+  Updated: 2026-05-28T19:51:12Z
+  Vendor: Marks & Spencer
+  Product Type: Women's Bra
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_f2497b81-b774-4267-bf77-156c00978065.jpg?v=1779896523
+  Price: £5.28 GBP
+- [Next Womens Black Padded Non-Wired T-Shirt Bra 38C Preloved](https://www.lloydysworld.com/products/next-womens-bra-black-padded-non-wired-polyester-t-shirt-style-uk-38c): Next women's black padded non-wired polyester T-shirt bra, UK 38C. Smooth moulded cups, normal straps. Excellent preloved condition, checked by LloydysWorld.
+  Updated: 2026-05-28T19:52:32Z
+  Vendor: Next
+  Product Type: Women's Bra
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_5828870b-23fd-491f-acdd-70871ddb42f3.jpg?v=1779896655
+  Price: £5.19 GBP
+- [Secret Possessions Womens Black Padded Wired Bra UK 36E Preloved | LloydysWorld](https://www.lloydysworld.com/products/secret-possessions-womens-bra-black-wired-padded-t-shirt-style-uk-36e): Preloved Secret Possessions black padded wired T-shirt bra, UK 36E. Microfibre, normal straps. Excellent condition, quality checked. Fast dispatch Portsmouth.
+  Updated: 2026-06-01T22:34:40Z
+  Vendor: Secret Possessions
+  Product Type: Women's Bra
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_b11f0c04-fc76-49f0-a829-74cfcf5f7bd5.jpg?v=1779897726
+  Price: £4.80 GBP
+- [M&S Womens Black Padded Swimwear Top UK 12 Preloved | LloydysWorld](https://www.lloydysworld.com/products/marks-and-spencer-womens-swim-wear-top-black-padded-uk-12): Preloved Marks & Spencer womens black padded swimwear top, UK 12. Non-wired, polyester/elastane. Excellent condition, quality checked. Fast dispatch Portsmouth.
+  Updated: 2026-06-01T22:41:36Z
+  Vendor: Marks & Spencer
+  Product Type: Women's Swimwear
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_c73e1745-889e-4f36-bf6f-2452c6ea892e.jpg?v=1779897770
+  Price: £4.80 GBP
+- [Diva Womens Dress White Long Sleeve 100 Percent Polyester UK 12](https://www.lloydysworld.com/products/diva-womens-dress-white-long-sleeve-100-percent-polyester-uk-12): Item Description Diva womens white long sleeve dress in size UK 12. Made from soft 100 percent polyester with a clean simple style suitable for casual or smart wear. Item Specifics Brand: Diva Colour: White Size: UK 12 Style: Dress Sleeve Length: Long Sleeve Fabric Type: Polyester Material: Polyester Country of Manufacture: Not Specified Buy from LloydysWorld and Save All items are quality checked and preloved. Fast dispatch from Southsea UK.
+  Updated: 2026-05-28T04:03:21Z
+  Vendor: lloydysworld
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_ca7825a3-a9a5-4430-9ac0-7174e4a65a5a.jpg?v=1779897796
+  Price: £5.19 GBP
+- [Cedarwood Mens Swim Shorts Brown Camouflage W32 UK M](https://www.lloydysworld.com/products/cedarwood-mens-swim-shorts-brown-camouflage-w32-uk-m): Item Description Cedarwood mens swim shorts in brown camouflage pattern. Size W32 UK M. Lightweight quick drying design with elasticated waist and drawstring. Ideal for swimming holidays and beachwear. Item Specifics Brand: Cedarwood Colour: Brown Camouflage Size: W32 UK M Style: Swim Shorts Pattern: Camouflage Fabric Type: Polyester Material: Polyester Country of Manufacture: Myanmar Buy from LloydysWorld and Save All items are quality checked and preloved. Fast dispatch from Southsea UK.
+  Updated: 2026-05-28T04:04:16Z
+  Vendor: lloydysworld
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_10720a76-ecdd-4b36-bf74-ef9eac1aca8d.jpg?v=1779897851
+  Price: £4.00 GBP
+- [Unbranded Mens Swim Shorts Brown W36 UK L](https://www.lloydysworld.com/products/unbranded-mens-swim-shorts-brown-w36-uk-l): Item Description Unbranded mens swim shorts in brown. Size W36 UK L. Lightweight quick drying design with elasticated waist and drawstring. Ideal for swimming holidays and beachwear. Item Specifics Brand: Unbranded Colour: Brown Size: W36 UK L Style: Swim Shorts Pattern: Solid Fabric Type: Polyester Material: Polyester Country of Manufacture: Not Specified Buy from LloydysWorld and Save All items are quality checked and preloved. Fast dispatch from Southsea UK.
+  Updated: 2026-05-28T05:30:55Z
+  Vendor: lloydysworld
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_81781694-812f-4438-a240-0685bddcb69e.jpg?v=1779903046
+  Price: £3.20 GBP
+- [Marks & Spencer Womens Bra Black Padded Underwired Microfibre UK 32A Sri Lanka](https://www.lloydysworld.com/products/marks-spencer-womens-bra-black-padded-underwired-microfibre-uk-32a-sri-lanka): Item Description Marks and Spencer womens black padded underwired microfibre bra in size UK 32A. Smooth moulded cups and normal straps. Comfortable everyday T Shirt style. Item Specifics Brand: Marks and Spencer Colour: Black Size: UK 32A Style: T Shirt Bra Strap Type: Normal Strap Cup Type: Padded Underwire: Underwired Fabric Type: Microfibre Material: Polyamide Elastane Cotton Lycra Country of Manufacture: Sri Lanka Buy from LloydysWorld and Save All items are quality checked and preloved. Fast dispatch from Southsea UK.
+  Updated: 2026-05-28T05:31:47Z
+  Vendor: lloydysworld
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_096f1934-6ed0-4926-b005-017ce509254f.jpg?v=1779903102
+  Price: £4.80 GBP
+- [Marks and Spencer Womens Bra Pink Wired UK 36B T Shirt](https://www.lloydysworld.com/products/marks-and-spencer-womens-bra-pink-wired-uk-36b-t-shirt): Item Description Marks and Spencer womens bra in pink. Size UK 36B. Underwired design offering everyday support and comfort. Smooth finish suitable for daily wear. Item Specifics Brand: Marks and Spencer Colour: Pink Size: UK 36B Type: Bra Style: T Shirt Bra Underwire Type: Underwired Padding: Not Padded Fabric Type: Microfibre Material: Polyester Elastane Blend Strap Type: Normal Strap Closure: Hook and Eye Pattern: No Pattern Opacity: Opaque Country of Manufacture: China Condition Excellent preloved condition with no noticeable marks stains or damage. Clean and well cared for. Buy from LloydysWorld and Save All items are quality checked and preloved. Fast dispatch from Southsea UK.
+  Updated: 2026-05-28T05:32:54Z
+  Vendor: lloydysworld
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_ffca8d3c-19e7-47de-bf9b-cb2a748fde07.jpg?v=1779903168
+  Price: £6.40 GBP
+- [Henri Lloyd Mens T Shirt Blue White Stripe 100 Percent Cotton UK M Short Sleeve](https://www.lloydysworld.com/products/henri-lloyd-mens-t-shirt-blue-white-stripe-100-percent-cotton-uk-m-short-sleeve): Item Description Henri Lloyd mens T shirt in blue and white stripe. Size UK M. Made from 100 percent cotton for soft breathable comfort. Classic casual style suitable for everyday wear. Item Specifics Brand: Henri Lloyd Colour: Blue White Stripe Size: UK M Style: T Shirt Fit: Regular Fabric Type: Cotton Material: 100 Percent Cotton Pattern: Stripe Neckline: Crew Neck Sleeve Length: Short Sleeve Country of Manufacture: China Condition Good preloved condition with no major marks stains or damage. Clean and ready to wear. Buy from LloydysWorld and Save All items are quality checked and preloved. Fast dispatch from Southsea UK.
+  Updated: 2026-05-28T05:33:28Z
+  Vendor: lloydysworld
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_58af1e62-ccc9-453b-bb85-5749c5c27ec5.jpg?v=1779903202
+  Price: £7.20 GBP
+- [Anbor Boys T Shirt Black Star Wars Cotton UK 12 14 Bangladesh](https://www.lloydysworld.com/products/anbor-boys-t-shirt-black-star-wars-cotton-uk-12-14-bangladesh): Item Description Anbor boys T shirt in black with Star Wars design. Size UK 12 14. Made from soft cotton for comfortable everyday wear. Item Specifics Brand: Anbor Colour: Black Size: UK 12 14 Style: T Shirt Character: Star Wars Fabric Type: Cotton Material: Cotton Pattern: Graphic Print Neckline: Crew Neck Sleeve Length: Short Sleeve Country of Manufacture: Bangladesh Condition Excellent preloved condition with no noticeable marks stains or damage. Clean and ready to wear. Buy from LloydysWorld and Save All items are quality checked and preloved. Fast dispatch from Southsea UK.
+  Updated: 2026-06-03T11:54:49Z
+  Vendor: lloydysworld
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_46df1cd0-b568-4164-b737-2c0784538732.jpg?v=1779903255
+  Price: £3.20 GBP
+- [F&F Womens Cream Polka Dot Blouse UK 22 Preloved | LloydysWorld](https://www.lloydysworld.com/products/f-f-womens-blouse-top-cream-brown-dots-uk-22-india-100-polyester): Preloved F&F womens cream & brown polka dot blouse, size UK 22. 100% polyester, regular fit. Excellent condition, quality checked. Fast dispatch Portsmouth.
+  Updated: 2026-06-01T22:09:17Z
+  Vendor: F&F
+  Product Type: Women's Tops
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_acc11c9b-a784-4baa-b711-3722e42db080.jpg?v=1779903297
+  Price: £4.80 GBP
+- [Unbranded Womens Black Tunic Blouse UK 14 16 Preloved | LloydysWorld](https://www.lloydysworld.com/products/unbranded-womens-blouse-top-black-tunic-uk-14-16): Preloved unbranded black tunic blouse, size UK 14-16. Relaxed fit polyester. Excellent condition, quality checked. Fast dispatch from Portsmouth.
+  Updated: 2026-06-01T21:46:55Z
+  Vendor: Unbranded
+  Product Type: Women's Tops
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_c1f2cbe6-1bcb-4b87-8901-0ed93d93350c.jpg?v=1779903380
+  Price: £6.00 GBP
+- [Joe Browns Womens Black Sleeveless Blouse V-Neck UK 22 Preloved](https://www.lloydysworld.com/products/joe-browns-womens-blouse-black-uk-22-polyester-india): Joe Browns women's black sleeveless blouse, size UK 22. Polyester woven, V-neck, spaghetti strap, pullover. Made in India. Preloved and quality checked by LloydysWorld.
+  Updated: 2026-06-03T06:19:14Z
+  Vendor: Joe Browns
+  Product Type: Women's Tops
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/1.jpg?v=1779981034
+  Price: £6.00 GBP
+- [Girls Tutu Pettiskirt One Size Elastic Waist Ballet Dance Fancy Dress Preloved](https://www.lloydysworld.com/products/girls-tutu-skirt-one-size-w26in-elastic-waste-ballet-dance-fancy-dress): Girls tutu pettiskirt, one size (W26in elastic waist). Ballet dance and party fancy dress. Unbranded, made in China. Preloved and quality checked by LloydysWorld.
+  Updated: 2026-06-03T22:44:21Z
+  Vendor: Unbranded
+  Product Type: Girls Skirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/57_60b05b26-2fd7-45c2-a791-d3d1bdc00780.jpg?v=1780338580
+  - [Orange](https://www.lloydysworld.com/products/girls-tutu-skirt-one-size-w26in-elastic-waste-ballet-dance-fancy-dress?variant=53685069873495)
+    Availability: Available
+    Price: £30.00 GBP
+  - [Red](https://www.lloydysworld.com/products/girls-tutu-skirt-one-size-w26in-elastic-waste-ballet-dance-fancy-dress?variant=53685069906263)
+    Availability: Available
+    Price: £30.00 GBP
+  - [Purple](https://www.lloydysworld.com/products/girls-tutu-skirt-one-size-w26in-elastic-waste-ballet-dance-fancy-dress?variant=53685069939031)
+    Availability: Available
+    Price: £30.00 GBP
+- [Marks Spencer Limited Edition Womens Green Military Jacket UK 6 Preloved](https://www.lloydysworld.com/products/marks-and-spencer-limited-edition-womens-green-military-jacket-uk-6-co): M&S Limited Edition women's green military jacket, size UK 6. Cotton twill, long sleeve, button closure, camouflage pattern. Preloved and quality checked by LloydysWorld.
+  Updated: 2026-06-02T06:30:13Z
+  Vendor: Marks & Spencer
+  Product Type: Women's Jackets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/1_9a8f3413-46ed-4d90-babe-446c849df3de.jpg?v=1780338592
+  Price: £18.00 GBP
+- [Unbranded Womens Red Tartan Pleated Kilt Skirt UK 30 Preloved](https://www.lloydysworld.com/products/unbranded-womens-red-tartan-pleated-kilt-skirt-uk-30-twill-acrylic): Unbranded women's red tartan pleated kilt skirt, size UK 30. Twill acrylic fabric, buckle closure, mini length, regular fit. Made in Pakistan. Preloved and quality checked by LloydysWorld.
+  Updated: 2026-06-02T06:30:16Z
+  Vendor: Unbranded
+  Product Type: Women's Skirts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/1_06640546-6a37-4ab8-b3af-3d5426bce284.jpg?v=1780338601
+  Price: £10.00 GBP
+[List Continued](https://www.lloydysworld.com/a/llms-agent/llms.txt?shop=a1fdky-yn.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDkwNDQ4MDk0MDM3NSwibGFzdF92YWx1ZSI6IjEwOTA0NDgwOTQwMzc1In0%3D)
 
 ## Collections
 
-- [Preloved Men’s Trousers | Second Hand Chinos & Dress Trousers | lloydysworld](https://www.lloydysworld.com/collections/mens-trousers): Shop preloved men's trousers at lloydysworld. Casual chinos, dress trousers and smart styles. UK sourced, inspected and affordably priced.
-  Updated: 2026-05-21T17:50:47Z
+- [Preloved Men's Trousers UK | Second Hand Chinos & Dress Trousers | LloydysWorld](https://www.lloydysworld.com/collections/mens-trousers): Shop preloved men's trousers at lloydysworld. Casual chinos, dress trousers and smart styles. UK sourced, inspected and affordably priced.
+  Updated: 2026-05-28T19:42:36Z
   Total Products: 3
-- [Preloved Men’s Jeans | Preloved Denim & Straight Leg Jeans | lloydysworld](https://www.lloydysworld.com/collections/mens-jeans): Shop preloved men’s jeans at lloydysworld. Quality second‑hand denim, straight leg, slim fit and relaxed fit jeans. Sustainably sourced, inspected and affordably priced.
-  Updated: 2026-05-18T11:20:33Z
+- [Preloved Men's Jeans UK | Second Hand Denim & Slim Fit Jeans | LloydysWorld](https://www.lloydysworld.com/collections/mens-jeans): Shop preloved men’s jeans at lloydysworld. Quality second‑hand denim, straight leg, slim fit and relaxed fit jeans. Sustainably sourced, inspected and affordably priced.
+  Updated: 2026-05-28T19:43:26Z
   Total Products: 6
-- [Preloved Men’s Shorts | Casual, Cargo & Summer Shorts | lloydysworld](https://www.lloydysworld.com/collections/mens-shorts): Shop preloved men’s shorts at lloydysworld. Quality cargo shorts, casual shorts and summer styles. Sustainably sourced, inspected and affordably priced.
-  Updated: 2026-05-24T15:32:24Z
-  Total Products: 7
-- [Preloved Men's T-Shirts | Casual, Graphic & Logo Tees | lloydysworld](https://www.lloydysworld.com/collections/mens-t-shirts): Shop preloved men's t-shirts at lloydysworld. Casual, graphic and logo tees from top brands. UK sourced, inspected and affordably priced.
-  Updated: 2026-05-24T19:29:07Z
-  Total Products: 18
-- [Preloved Men’s Shirts | Casual, Formal & Smart Shirts | lloydysworld](https://www.lloydysworld.com/collections/mens-shirts): Shop preloved men’s shirts at lloydysworld. Quality casual shirts, formal shirts and smart styles. Sustainably sourced, inspected and affordably priced.
-  Updated: 2026-05-18T11:24:42Z
-  Total Products: 3
-- [Preloved Men’s Hoodies & Sweatshirts Casual & Sportswear  lloydysworld](https://www.lloydysworld.com/collections/mens-hoodies-sweatshirts): Shop preloved men’s hoodies and sweatshirts at lloydysworld. Quality casual hoodies pullovers and sportswear. UK sourced, inspected and affordably priced.
-  Updated: 2026-05-18T11:29:30Z
+- [Preloved Men's Shorts UK | Second Hand Casual, Cargo & Summer Shorts | LloydysWorld](https://www.lloydysworld.com/collections/mens-shorts): Shop preloved men’s shorts at lloydysworld. Quality cargo shorts, casual shorts and summer styles. Sustainably sourced, inspected and affordably priced.
+  Updated: 2026-06-03T00:36:46Z
+  Total Products: 6
+- [Preloved Men's T-Shirts UK | Second Hand Casual, Graphic & Logo Tees | LloydysWorld](https://www.lloydysworld.com/collections/mens-t-shirts): Shop preloved men's t-shirts at lloydysworld. Casual, graphic and logo tees from top brands. UK sourced, inspected and affordably priced.
+  Updated: 2026-06-03T00:16:52Z
+  Total Products: 15
+- [Preloved Men's Shirts UK | Second Hand Casual, Formal & Smart Shirts | LloydysWorld](https://www.lloydysworld.com/collections/mens-shirts): Shop preloved men’s shirts at lloydysworld. Quality casual shirts, formal shirts and smart styles. Sustainably sourced, inspected and affordably priced.
+  Updated: 2026-06-01T09:18:43Z
+  Total Products: 5
+- [Preloved Men's Hoodies & Sweatshirts UK | Second Hand Casual & Sportswear | LloydysWorld](https://www.lloydysworld.com/collections/mens-hoodies-sweatshirts): Shop preloved men’s hoodies and sweatshirts at lloydysworld. Quality casual hoodies pullovers and sportswear. UK sourced, inspected and affordably priced.
+  Updated: 2026-05-28T19:46:21Z
   Total Products: 2
-- [Preloved Men’s Coats & Jackets Casual, Smart & Everyday Outerwear lloydysworld](https://www.lloydysworld.com/collections/mens-coats-jackets): Shop preloved men’s coats and jackets at lloydysworld. Casual, smart and everyday outerwear. UK sourced, inspected and affordably priced.
-  Updated: 2026-05-18T11:53:47Z
+- [Preloved Men's Coats & Jackets UK | Second Hand Casual, Smart & Outerwear | LloydysWorld](https://www.lloydysworld.com/collections/mens-coats-jackets): Shop preloved men’s coats and jackets at lloydysworld. Casual, smart and everyday outerwear. UK sourced, inspected and affordably priced.
+  Updated: 2026-05-28T19:47:13Z
   Total Products: 0
-- [Preloved Men’s Activewear Gym, Sports & Training Clothing lloydysworld](https://www.lloydysworld.com/collections/mens-activewear): Shop preloved men’s activewear at lloydysworld. Quality gym tops, sportswear and training clothing. UK sourced, inspected and affordably priced.
-  Updated: 2026-05-24T15:53:33Z
+- [Preloved Men's Activewear UK | Second Hand Gym, Sports & Training Clothing | LloydysWorld](https://www.lloydysworld.com/collections/mens-activewear): Shop preloved men’s activewear at lloydysworld. Quality gym tops, sportswear and training clothing. UK sourced, inspected and affordably priced.
+  Updated: 2026-05-28T19:47:37Z
   Total Products: 1
-- [Preloved Men’s Swimwear Swim Shorts & Beachwear lloydysworld](https://www.lloydysworld.com/collections/mens-swimwear): Shop preloved men’s swimwear at lloydysworld. Quality swim shorts and beachwear. UK sourced, inspected and affordably priced.
-  Updated: 2026-05-18T11:32:54Z
+- [Preloved Men's Swimwear UK | Second Hand Swim Shorts & Beachwear | LloydysWorld](https://www.lloydysworld.com/collections/mens-swimwear): Shop preloved men’s swimwear at lloydysworld. Quality swim shorts and beachwear. UK sourced, inspected and affordably priced.
+  Updated: 2026-05-28T19:48:31Z
   Total Products: 2
-- [Preloved Men’s Waistcoats & Vests Smart & Casual Styles lloydysworld](https://www.lloydysworld.com/collections/mens-waistcoats-vests): Shop preloved men’s waistcoats and vests at lloydysworld. Smart, casual and formal styles. UK sourced, inspected and affordably priced.
-  Updated: 2026-05-18T11:34:31Z
+- [Preloved Men's Waistcoats & Vests UK | Second Hand Smart & Casual Styles | LloydysWorld](https://www.lloydysworld.com/collections/mens-waistcoats-vests): Shop preloved men’s waistcoats and vests at lloydysworld. Smart, casual and formal styles. UK sourced, inspected and affordably priced.
+  Updated: 2026-05-28T19:49:51Z
   Total Products: 0
-- [Preloved Women’s Trousers Casual, Smart & Everyday Styles lloydysworld](https://www.lloydysworld.com/collections/womens-trousers): Shop preloved women’s trousers at lloydysworld. Casual, smart and everyday styles. UK sourced, inspected and affordably priced.
-  Updated: 2026-05-24T06:43:25Z
+- [Preloved Women's Trousers UK | Second Hand Casual, Smart & Everyday Styles | LloydysWorld](https://www.lloydysworld.com/collections/womens-trousers): Shop preloved women’s trousers at lloydysworld. Casual, smart and everyday styles. UK sourced, inspected and affordably priced.
+  Updated: 2026-06-01T09:29:40Z
   Total Products: 10
-- [Preloved Women’s Jeans Straight, Slim & Everyday Denim  lloydysworld](https://www.lloydysworld.com/collections/womens-jeans): Shop preloved women’s jeans at lloydysworld. Straight leg, slim fit and everyday denim. UK sourced, inspected and affordably priced.
-  Updated: 2026-05-20T22:35:22Z
-  Total Products: 4
-- [Preloved Women’s Shorts Casual, Summer & Everyday Styles  lloydysworld](https://www.lloydysworld.com/collections/womens-shorts): Shop preloved women’s shorts at lloydysworld. Casual, summer and everyday styles. UK sourced, inspected and affordably priced.
-  Updated: 2026-05-24T15:31:17Z
-  Total Products: 4
-- [Preloved Women’s Skirts Midi, Mini & Casual Styles lloydysworld](https://www.lloydysworld.com/collections/womens-skirts): Overview  
+- [Preloved Women's Jeans UK | Second Hand Straight, Slim & Everyday Denim | LloydysWorld](https://www.lloydysworld.com/collections/womens-jeans): Shop preloved women’s jeans at lloydysworld. Straight leg, slim fit and everyday denim. UK sourced, inspected and affordably priced.
+  Updated: 2026-05-28T19:51:41Z
+  Total Products: 5
+- [Preloved Women's Shorts UK | Second Hand Casual, Summer & Everyday Styles | LloydysWorld](https://www.lloydysworld.com/collections/womens-shorts): Shop preloved women’s shorts at lloydysworld. Casual, summer and everyday styles. UK sourced, inspected and affordably priced.
+  Updated: 2026-06-02T23:29:56Z
+  Total Products: 5
+- [Preloved Women's Skirts UK | Second Hand Midi, Mini & Casual Styles | LloydysWorld](https://www.lloydysworld.com/collections/womens-skirts): Overview  
 Explore quality preloved women’s skirts including midi, mini and casual everyday styles. All items are UK sourced, inspected, measured and ready to wear.
 
 Key Features
@@ -1231,176 +1253,188 @@ Updated regularly with new arrivals
 
 Why It’s a Great Choice  
 Choosing UK sourced preloved skirts reduces waste, saves money and supports sustainable fashion without compromising on quality.
-  Updated: 2026-05-24T15:52:16Z
-  Total Products: 9
-- [Preloved Women’s Blouses & Tops Casual, Smart & Everyday Styles lloydysworld](https://www.lloydysworld.com/collections/womens-blouses-tops): Shop preloved women’s blouses and tops at lloydysworld. Casual, smart and everyday styles. UK sourced, inspected and affordably priced.
-  Updated: 2026-05-24T06:41:45Z
+  Updated: 2026-06-03T10:17:44Z
   Total Products: 11
-- [Preloved Women’s T‑Shirts Casual, Graphic & Everyday Tops lloydysworld](https://www.lloydysworld.com/collections/womens-t-shirts): Shop preloved women’s T‑shirts at lloydysworld. Casual, graphic and everyday tops. UK sourced, inspected and affordably priced.
-  Updated: 2026-05-24T11:27:54Z
+- [Preloved Women's Blouses & Tops UK | Second Hand Casual, Smart & Everyday Styles | LloydysWorld](https://www.lloydysworld.com/collections/womens-blouses-tops): Shop preloved women’s blouses and tops at lloydysworld. Casual, smart and everyday styles. UK sourced, inspected and affordably priced.
+  Updated: 2026-06-03T13:05:38Z
+  Total Products: 16
+- [Preloved Women's T-Shirts UK | Second Hand Casual, Graphic & Everyday Tops | LloydysWorld](https://www.lloydysworld.com/collections/womens-t-shirts): Shop preloved women’s T‑shirts at lloydysworld. Casual, graphic and everyday tops. UK sourced, inspected and affordably priced.
+  Updated: 2026-06-02T23:15:23Z
   Total Products: 14
-- [Preloved Women’s Hoodies & Sweatshirts Casual & Cosy Layers lloydysworld](https://www.lloydysworld.com/collections/womens-hoodies-sweatshirts): Shop preloved women’s hoodies and sweatshirts at lloydysworld. Casual and cosy layers. UK sourced, inspected and affordably priced.
-  Updated: 2026-05-18T22:21:03Z
+- [Preloved Women's Hoodies & Sweatshirts UK | Second Hand Casual & Cosy Layers | LloydysWorld](https://www.lloydysworld.com/collections/womens-hoodies-sweatshirts): Shop preloved women’s hoodies and sweatshirts at lloydysworld. Casual and cosy layers. UK sourced, inspected and affordably priced.
+  Updated: 2026-05-28T19:58:00Z
   Total Products: 2
-- [Preloved Women’s Coats & Jackets | Casual, Smart & Everyday Outerwear | lloydysworld](https://www.lloydysworld.com/collections/womens-coats-jackets): Shop preloved women’s coats and jackets at lloydysworld. Casual, smart and everyday outerwear. UK sourced, inspected and affordably priced.
-  Updated: 2026-05-18T11:52:23Z
+- [Preloved Women's Coats & Jackets UK | Second Hand Casual, Smart & Outerwear | LloydysWorld](https://www.lloydysworld.com/collections/womens-coats-jackets): Shop preloved women’s coats and jackets at lloydysworld. Casual, smart and everyday outerwear. UK sourced, inspected and affordably priced.
+  Updated: 2026-05-28T19:58:54Z
   Total Products: 1
-- [Preloved Women's Activewear — Second Hand Gym & Sports Clothing for Women | lloydysworld](https://www.lloydysworld.com/collections/womens-activewear): Shop preloved women's activewear at lloydysworld. Quality second-hand gym and sports clothing sustainably sourced.
-  Updated: 2026-05-17T20:49:26Z
+- [Preloved Women's Activewear UK | Second Hand Gym, Sports & Training Clothing | LloydysWorld](https://www.lloydysworld.com/collections/womens-activewear): Shop preloved women's activewear at lloydysworld. Quality second-hand gym and sports clothing sustainably sourced.
+  Updated: 2026-05-28T19:59:44Z
   Total Products: 1
-- [Preloved Women's Swimwear UK | LloydysWorld](https://www.lloydysworld.com/collections/womens-swimwear): Browse preloved women's swimwear at LloydysWorld. Sustainable fashion UK — quality second hand swimwear at honest prices.
-  Updated: 2026-05-20T06:04:38Z
+- [Preloved Women's Swimwear UK | Second Hand Bikinis, Swimsuits & Beachwear | LloydysWorld](https://www.lloydysworld.com/collections/womens-swimwear): Browse preloved women's swimwear at LloydysWorld. Sustainable fashion UK — quality second hand swimwear at honest prices.
+  Updated: 2026-06-01T10:41:56Z
+  Total Products: 1
+- [Preloved Women's Waistcoats & Vests UK | Second Hand Smart & Casual Styles | LloydysWorld](https://www.lloydysworld.com/collections/womens-waistcoats-vests): Shop preloved women's waistcoats and vests at LloydysWorld. Sustainable UK fashion — quality second hand styles at fair prices.
+  Updated: 2026-05-28T20:03:12Z
   Total Products: 0
-- [Preloved Waistcoats & Vests UK | LloydysWorld](https://www.lloydysworld.com/collections/womens-waistcoats-vests): Shop preloved women's waistcoats and vests at LloydysWorld. Sustainable UK fashion — quality second hand styles at fair prices.
-  Updated: 2026-05-20T06:04:15Z
-  Total Products: 0
-- [Preloved Men's Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/all-mens): Shop preloved men's clothing at LloydysWorld. Sustainable fashion for men — quality second hand brands at fair prices.
-  Updated: 2026-05-24T19:29:07Z
-  Total Products: 54
-- [Preloved Women's Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/all-womens): Browse preloved women's clothing at LloydysWorld. Sustainable fashion UK — designer and high street brands given a second life.
-  Updated: 2026-05-24T21:19:20Z
-  Total Products: 95
-- [Preloved Kids Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/all-kids): Shop preloved kids clothing at LloydysWorld. Affordable, sustainable children's fashion — quality brands at honest prices.
-  Updated: 2026-05-20T06:03:14Z
+- [Preloved Men's Clothing UK | All Second Hand Styles & Brands | LloydysWorld](https://www.lloydysworld.com/collections/all-mens): Shop preloved men's clothing at LloydysWorld. Sustainable fashion for men — quality second hand brands at fair prices.
+  Updated: 2026-06-02T23:41:53Z
+  Total Products: 58
+- [Preloved Women's Clothing UK | All Second Hand Styles & Brands | LloydysWorld](https://www.lloydysworld.com/collections/all-womens): Browse preloved women's clothing at LloydysWorld. Sustainable fashion UK — designer and high street brands given a second life.
+  Updated: 2026-06-03T10:33:43Z
+  Total Products: 119
+- [Preloved Kids Clothing UK | Second Hand All Ages & Styles | LloydysWorld](https://www.lloydysworld.com/collections/all-kids): Shop preloved kids clothing at LloydysWorld. Affordable, sustainable children's fashion — quality brands at honest prices.
+  Updated: 2026-05-28T20:04:47Z
   Total Products: 5
-- [Preloved Clothing from £1 | LloydysWorld](https://www.lloydysworld.com/collections/1-pound-items): Grab a bargain at LloydysWorld. Preloved clothing from just £1 — sustainable fashion UK supporting our local community.
-  Updated: 2026-05-20T06:06:06Z
+- [£1 Preloved Clothing UK | Bargain Second Hand Fashion Deals | LloydysWorld](https://www.lloydysworld.com/collections/1-pound-items): Grab a bargain at LloydysWorld. Preloved clothing from just £1 — sustainable fashion UK supporting our local community.
+  Updated: 2026-05-28T20:29:52Z
   Total Products: 0
-- [Bundle & Save 10% on Preloved Clothing | LloydysWorld](https://www.lloydysworld.com/collections/bundle-and-save): Buy more and save more at LloydysWorld. Bundle preloved clothing and save 10% — sustainable fashion UK at even better value.
-  Updated: 2026-05-24T19:29:07Z
-  Total Products: 26
-- [Preloved Women's Dresses UK | LloydysWorld](https://www.lloydysworld.com/collections/womens-dresses): Discover preloved women's dresses at LloydysWorld. Sustainable fashion UK — designer and high street dresses at fair prices.
-  Updated: 2026-05-24T21:19:20Z
-  Total Products: 27
-- [Preloved Nike Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/nike): Shop preloved Nike clothing at LloydysWorld. Authentic preloved Nike pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T06:11:55Z
+- [Preloved Clothing Bundles UK | Bundle & Save on Second Hand Fashion | LloydysWorld](https://www.lloydysworld.com/collections/bundle-and-save): Buy more and save more at LloydysWorld. Bundle preloved clothing and save 10% — sustainable fashion UK at even better value.
+  Updated: 2026-06-02T23:41:53Z
+  Total Products: 30
+- [Preloved Dresses UK | Second Hand Women's Dresses | LloydysWorld](https://www.lloydysworld.com/collections/womens-dresses): Discover preloved women's dresses at LloydysWorld. Sustainable fashion UK — designer and high street dresses at fair prices.
+  Updated: 2026-06-02T18:15:57Z
+  Total Products: 35
+- [Preloved Nike Clothing UK | Second Hand Sportswear & Trainers | LloydysWorld](https://www.lloydysworld.com/collections/nike): Shop preloved Nike clothing at LloydysWorld. Authentic preloved Nike pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:09:35Z
   Total Products: 1
-- [Preloved Adidas Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/adidas): Shop preloved Adidas clothing at LloydysWorld. Authentic preloved Adidas pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T06:16:44Z
+- [Preloved Adidas Clothing UK | Second Hand Sportswear & Casual Wear | LloydysWorld](https://www.lloydysworld.com/collections/adidas): Shop preloved Adidas clothing at LloydysWorld. Authentic preloved Adidas pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:10:37Z
   Total Products: 2
-- [Preloved Levi's Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/levis): Shop preloved Levi's clothing at LloydysWorld. Authentic preloved Levi's pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T06:19:22Z
+- [Preloved Levi's Clothing UK | Second Hand Denim & Jeans | LloydysWorld](https://www.lloydysworld.com/collections/levis): Shop preloved Levi's clothing at LloydysWorld. Authentic preloved Levi's pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:11:00Z
   Total Products: 1
-- [Preloved Gap Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/gap): Shop preloved Gap clothing at LloydysWorld. Authentic preloved Gap pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T06:22:08Z
+- [Preloved Gap Clothing UK | Second Hand Casual Wear & Basics | LloydysWorld](https://www.lloydysworld.com/collections/gap): Shop preloved Gap clothing at LloydysWorld. Authentic preloved Gap pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:11:24Z
   Total Products: 1
-- [Preloved Zara Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/zara): Shop preloved Zara clothing at LloydysWorld. Authentic preloved Zara pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-21T17:50:47Z
+- [Preloved Zara Clothing UK | Second Hand High Street Fashion | LloydysWorld](https://www.lloydysworld.com/collections/zara): Shop preloved Zara clothing at LloydysWorld. Authentic preloved Zara pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:11:52Z
   Total Products: 3
-- [Preloved H&M Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/h-and-m): Shop preloved H&M clothing at LloydysWorld. Authentic preloved H&M pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T06:25:02Z
+- [Preloved H&M Clothing UK | Second Hand High Street Fashion | LloydysWorld](https://www.lloydysworld.com/collections/h-and-m): Shop preloved H&M clothing at LloydysWorld. Authentic preloved H&M pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-06-01T09:27:31Z
   Total Products: 4
-- [Preloved Next Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/next): Shop preloved Next clothing at LloydysWorld. Authentic preloved Next pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-24T06:43:25Z
-  Total Products: 10
-- [Preloved Tommy Hilfiger Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/tommy-hilfiger): Shop preloved Tommy Hilfiger at LloydysWorld. Authentic preloved Tommy Hilfiger pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T06:29:06Z
+- [Preloved Next Clothing UK | Second Hand Everyday Fashion | LloydysWorld](https://www.lloydysworld.com/collections/next): Shop preloved Next clothing at LloydysWorld. Authentic preloved Next pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-06-01T09:30:29Z
+  Total Products: 14
+- [Preloved Tommy Hilfiger Clothing UK | Second Hand Designer Fashion | LloydysWorld](https://www.lloydysworld.com/collections/tommy-hilfiger): Shop preloved Tommy Hilfiger at LloydysWorld. Authentic preloved Tommy Hilfiger pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:13:00Z
   Total Products: 1
-- [Preloved Lacoste Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/lacoste): Shop preloved Lacoste clothing at LloydysWorld. Authentic preloved Lacoste pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T06:42:36Z
+- [Preloved Lacoste Clothing UK | Second Hand Designer Polo & Sportswear | LloydysWorld](https://www.lloydysworld.com/collections/lacoste): Shop preloved Lacoste clothing at LloydysWorld. Authentic preloved Lacoste pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-06-01T08:50:29Z
   Total Products: 4
-- [Preloved Ralph Lauren Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/ralph-lauren): Shop preloved Ralph Lauren at LloydysWorld. Authentic preloved Ralph Lauren pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-23T17:37:46Z
+- [Preloved Ralph Lauren Clothing UK | Second Hand Designer Fashion | LloydysWorld](https://www.lloydysworld.com/collections/ralph-lauren): Shop preloved Ralph Lauren at LloydysWorld. Authentic preloved Ralph Lauren pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-06-01T09:20:46Z
   Total Products: 3
-- [Preloved Calvin Klein Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/calvin-klein): Shop preloved Calvin Klein at LloydysWorld. Authentic preloved Calvin Klein pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T07:13:55Z
+- [Preloved Calvin Klein Clothing UK | Second Hand Designer Fashion | LloydysWorld](https://www.lloydysworld.com/collections/calvin-klein): Shop preloved Calvin Klein at LloydysWorld. Authentic preloved Calvin Klein pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T22:01:38Z
   Total Products: 1
-- [Preloved UNIQLO Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/uniqlo): Shop preloved UNIQLO clothing at LloydysWorld. Authentic preloved UNIQLO pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T09:16:51Z
+- [Preloved UNIQLO Clothing UK | Second Hand Everyday Basics & Essentials | LloydysWorld](https://www.lloydysworld.com/collections/uniqlo): Shop preloved UNIQLO clothing at LloydysWorld. Authentic preloved UNIQLO pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:14:34Z
   Total Products: 1
-- [Preloved Diesel Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/diesel): Shop preloved Diesel clothing at LloydysWorld. Authentic preloved Diesel pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T09:43:56Z
+- [Preloved Diesel Clothing UK | Second Hand Denim & Designer Fashion | LloydysWorld](https://www.lloydysworld.com/collections/diesel): Shop preloved Diesel clothing at LloydysWorld. Authentic preloved Diesel pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:14:55Z
   Total Products: 1
-- [Preloved Reiss Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/reiss): Shop preloved Reiss clothing at LloydysWorld. Authentic preloved Reiss pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T09:44:20Z
+- [Preloved Reiss Clothing UK | Second Hand Smart & Designer Wear | LloydysWorld](https://www.lloydysworld.com/collections/reiss): Shop preloved Reiss clothing at LloydysWorld. Authentic preloved Reiss pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:15:16Z
   Total Products: 1
-- [Preloved River Island Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/river-island): Shop preloved River Island at LloydysWorld. Authentic preloved River Island pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T09:44:38Z
+- [Preloved River Island Clothing UK | Second Hand High Street Fashion | LloydysWorld](https://www.lloydysworld.com/collections/river-island): Shop preloved River Island at LloydysWorld. Authentic preloved River Island pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:15:42Z
   Total Products: 1
-- [Preloved Boohoo Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/boohoo): Shop preloved Boohoo clothing at LloydysWorld. Authentic preloved Boohoo pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T09:44:56Z
+- [Preloved Boohoo Clothing UK | Second Hand Women's Fashion | LloydysWorld](https://www.lloydysworld.com/collections/boohoo): Shop preloved Boohoo clothing at LloydysWorld. Authentic preloved Boohoo pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:16:01Z
   Total Products: 1
-- [Preloved Primark Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/primark): Shop preloved Primark clothing at LloydysWorld. Affordable preloved Primark pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T09:46:47Z
+- [Preloved Primark Clothing UK | Second Hand Everyday Fashion | LloydysWorld](https://www.lloydysworld.com/collections/primark): Shop preloved Primark clothing at LloydysWorld. Affordable preloved Primark pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:16:21Z
   Total Products: 1
-- [Preloved New Look Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/new-look): Shop preloved New Look clothing at LloydysWorld. Authentic preloved New Look pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T09:57:57Z
+- [Preloved ASOS Clothing UK | Second Hand Online Fashion | LloydysWorld](https://www.lloydysworld.com/collections/new-look): Shop preloved New Look clothing at LloydysWorld. Authentic preloved New Look pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:16:42Z
   Total Products: 2
-- [Preloved Superdry Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/superdry): Shop preloved Superdry clothing at LloydysWorld. Authentic preloved Superdry pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T11:41:15Z
+- [Preloved Marks & Spencer Clothing UK | Second Hand M&S Fashion | LloydysWorld](https://www.lloydysworld.com/collections/superdry): Shop preloved Superdry clothing at LloydysWorld. Authentic preloved Superdry pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:17:14Z
   Total Products: 2
-- [Preloved Hollister Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/hollister): Shop preloved Hollister clothing at LloydysWorld. Authentic preloved Hollister pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T11:41:38Z
+- [Preloved Hollister Clothing UK | Second Hand Casual & Surf Style Fashion | LloydysWorld](https://www.lloydysworld.com/collections/hollister): Shop preloved Hollister clothing at LloydysWorld. Authentic preloved Hollister pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:17:46Z
   Total Products: 2
-- [Preloved Monsoon Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/monsoon): Shop preloved Monsoon clothing at LloydysWorld. Authentic preloved Monsoon pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T11:41:57Z
+- [Preloved Monsoon Clothing UK | Second Hand Women's Fashion & Occasionwear | LloydysWorld](https://www.lloydysworld.com/collections/monsoon): Shop preloved Monsoon clothing at LloydysWorld. Authentic preloved Monsoon pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:18:10Z
   Total Products: 1
-- [Preloved White Stuff Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/white-stuff): Shop preloved White Stuff at LloydysWorld. Authentic preloved White Stuff pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T11:42:25Z
+- [Preloved White Stuff Clothing UK | Second Hand Casual & Country Style Fashion | LloydysWorld](https://www.lloydysworld.com/collections/white-stuff): Shop preloved White Stuff at LloydysWorld. Authentic preloved White Stuff pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:18:38Z
   Total Products: 2
-- [Preloved FatFace Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/fatface): Shop preloved FatFace clothing at LloydysWorld. Authentic preloved FatFace pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T18:52:12Z
+- [Preloved FatFace Clothing UK | Second Hand Casual & Outdoor Fashion | LloydysWorld](https://www.lloydysworld.com/collections/fatface): Shop preloved FatFace clothing at LloydysWorld. Authentic preloved FatFace pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-06-01T09:37:44Z
   Total Products: 2
-- [Preloved M&S Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/marks-and-spencer): Shop preloved Marks & Spencer clothing at LloydysWorld. Authentic preloved M&S pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T11:43:06Z
+- [Preloved Marks & Spencer Clothing UK | Second Hand M&S Quality Fashion | LloydysWorld](https://www.lloydysworld.com/collections/marks-and-spencer): Shop preloved Marks & Spencer clothing at LloydysWorld. Authentic preloved M&S pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:19:14Z
   Total Products: 3
-- [Preloved French Connection UK | LloydysWorld](https://www.lloydysworld.com/collections/french-connection): Shop preloved French Connection at LloydysWorld. Authentic preloved French Connection pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T11:44:30Z
+- [Preloved French Connection Clothing UK | Second Hand Designer Fashion | LloydysWorld](https://www.lloydysworld.com/collections/french-connection): Shop preloved French Connection at LloydysWorld. Authentic preloved French Connection pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:19:44Z
   Total Products: 1
-- [Preloved Coast Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/coast): Shop preloved Coast clothing at LloydysWorld. Authentic preloved Coast pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T11:47:09Z
+- [Preloved Coast Clothing UK | Second Hand Occasionwear & Dresses | LloydysWorld](https://www.lloydysworld.com/collections/coast): Shop preloved Coast clothing at LloydysWorld. Authentic preloved Coast pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:20:05Z
   Total Products: 1
-- [Preloved Wallis Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/wallis): Shop preloved Wallis clothing at LloydysWorld. Authentic preloved Wallis pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-24T06:42:23Z
+- [Preloved Wallis Clothing UK | Second Hand Women's Smart & Casual Fashion | LloydysWorld](https://www.lloydysworld.com/collections/wallis): Shop preloved Wallis clothing at LloydysWorld. Authentic preloved Wallis pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:20:34Z
   Total Products: 2
-- [Preloved BHS Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/bhs): Shop preloved BHS clothing at LloydysWorld. Affordable preloved BHS pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T18:49:15Z
+- [Preloved BHS Clothing UK | Second Hand Classic British Fashion | LloydysWorld](https://www.lloydysworld.com/collections/bhs): Shop preloved BHS clothing at LloydysWorld. Affordable preloved BHS pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:20:49Z
   Total Products: 1
-- [Preloved Reebok Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/reebok): Shop preloved Reebok clothing at LloydysWorld. Authentic preloved Reebok pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T12:36:23Z
+- [Preloved Reebok Clothing UK | Second Hand Sportswear & Trainers | LloydysWorld](https://www.lloydysworld.com/collections/reebok): Shop preloved Reebok clothing at LloydysWorld. Authentic preloved Reebok pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:21:20Z
   Total Products: 1
-- [Preloved Timberland Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/timberland): Shop preloved Timberland at LloydysWorld. Authentic preloved Timberland pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T12:37:46Z
+- [Preloved Timberland Clothing UK | Second Hand Outdoor & Casual Fashion | LloydysWorld](https://www.lloydysworld.com/collections/timberland): Shop preloved Timberland at LloydysWorld. Authentic preloved Timberland pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:21:45Z
   Total Products: 1
-- [Preloved Under Armour Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/under-armour): Shop preloved Under Armour at LloydysWorld. Authentic preloved Under Armour pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T12:40:05Z
+- [Preloved Under Armour Clothing UK | Second Hand Performance Sportswear | LloydysWorld](https://www.lloydysworld.com/collections/under-armour): Shop preloved Under Armour at LloydysWorld. Authentic preloved Under Armour pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:22:05Z
   Total Products: 2
-- [Preloved New Balance Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/new-balance): Shop preloved New Balance at LloydysWorld. Authentic preloved New Balance pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T12:40:30Z
+- [Preloved New Balance Clothing UK | Second Hand Sportswear & Trainers | LloydysWorld](https://www.lloydysworld.com/collections/new-balance): Shop preloved New Balance at LloydysWorld. Authentic preloved New Balance pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:22:30Z
   Total Products: 1
-- [Preloved Umbro Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/umbro): Shop preloved Umbro clothing at LloydysWorld. Authentic preloved Umbro pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T12:40:56Z
+- [Preloved Umbro Clothing UK | Second Hand Football & Sportswear | LloydysWorld](https://www.lloydysworld.com/collections/umbro): Shop preloved Umbro clothing at LloydysWorld. Authentic preloved Umbro pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:22:47Z
   Total Products: 1
-- [Preloved Slazenger Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/slazenger): Shop preloved Slazenger clothing at LloydysWorld. Authentic preloved Slazenger pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T12:41:21Z
+- [Preloved Slazenger Clothing UK | Second Hand Sports & Leisurewear | LloydysWorld](https://www.lloydysworld.com/collections/slazenger): Shop preloved Slazenger clothing at LloydysWorld. Authentic preloved Slazenger pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:23:07Z
   Total Products: 3
-- [Preloved Donnay Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/donnay): Shop preloved Donnay clothing at LloydysWorld. Affordable preloved Donnay pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T12:41:58Z
+- [Preloved Donnay Clothing UK | Second Hand Sports & Leisurewear | LloydysWorld](https://www.lloydysworld.com/collections/donnay): Shop preloved Donnay clothing at LloydysWorld. Affordable preloved Donnay pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:23:24Z
   Total Products: 1
-- [Preloved Jack & Jones Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/jack-and-jones): Shop preloved Jack & Jones at LloydysWorld. Authentic preloved Jack & Jones pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T12:43:16Z
+- [Preloved Jack & Jones Clothing UK | Second Hand Men's Casual Fashion | LloydysWorld](https://www.lloydysworld.com/collections/jack-and-jones): Shop preloved Jack & Jones at LloydysWorld. Authentic preloved Jack & Jones pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-06-02T23:41:53Z
   Total Products: 5
-- [Preloved Weird Fish Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/weird-fish): Shop preloved Weird Fish clothing at LloydysWorld. Authentic preloved Weird Fish pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T12:43:49Z
+- [Preloved Weird Fish Clothing UK | Second Hand Casual & Outdoor Fashion | LloydysWorld](https://www.lloydysworld.com/collections/weird-fish): Shop preloved Weird Fish clothing at LloydysWorld. Authentic preloved Weird Fish pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:24:06Z
   Total Products: 1
-- [Preloved Cotton Traders Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/cotton-traders): Shop preloved Cotton Traders at LloydysWorld. Authentic preloved Cotton Traders pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T17:30:25Z
+- [Preloved Cotton Traders Clothing UK | Second Hand Classic Casual Fashion | LloydysWorld](https://www.lloydysworld.com/collections/cotton-traders): Shop preloved Cotton Traders at LloydysWorld. Authentic preloved Cotton Traders pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:24:30Z
   Total Products: 2
-- [Preloved Mountain Warehouse Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/mountain-warehouse): Shop preloved Mountain Warehouse at LloydysWorld. Authentic preloved outdoor clothing — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T17:34:12Z
+- [Preloved Mountain Warehouse Clothing UK | Second Hand Outdoor & Walking Gear | LloydysWorld](https://www.lloydysworld.com/collections/mountain-warehouse): Shop preloved Mountain Warehouse at LloydysWorld. Authentic preloved outdoor clothing — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:24:48Z
   Total Products: 1
-- [Preloved Champion Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/champion): Shop preloved Champion clothing at LloydysWorld. Authentic preloved Champion pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T17:55:37Z
+- [Preloved Champion Clothing UK | Second Hand Sportswear & Streetwear | LloydysWorld](https://www.lloydysworld.com/collections/champion): Shop preloved Champion clothing at LloydysWorld. Authentic preloved Champion pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:25:05Z
   Total Products: 1
-- [Preloved EA7 Emporio Armani UK | LloydysWorld](https://www.lloydysworld.com/collections/ea7-emporio-armani): Shop preloved EA7 Emporio Armani at LloydysWorld. Authentic preloved EA7 pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T17:56:26Z
+- [Preloved EA7 Emporio Armani Clothing UK | Second Hand Designer Sportswear | LloydysWorld](https://www.lloydysworld.com/collections/ea7-emporio-armani): Shop preloved EA7 Emporio Armani at LloydysWorld. Authentic preloved EA7 pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:25:23Z
   Total Products: 1
-- [Preloved DKNY Clothing UK | LloydysWorld](https://www.lloydysworld.com/collections/dkny): Shop preloved DKNY clothing at LloydysWorld. Authentic preloved DKNY pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-05-20T17:57:31Z
+- [Preloved DKNY Clothing UK | Second Hand Designer Fashion | LloydysWorld](https://www.lloydysworld.com/collections/dkny): Shop preloved DKNY clothing at LloydysWorld. Authentic preloved DKNY pieces — sustainable fashion UK at fair prices.
+  Updated: 2026-05-28T20:25:39Z
   Total Products: 1
-- [Preloved TU Clothing for Women - LloydysWorld](https://www.lloydysworld.com/collections/tu-clothing): Shop preloved TU women's clothing at LloydysWorld CIC. Quality-checked tops, blouses and more. Sustainable fashion at great prices.
-  Updated: 2026-05-24T06:42:55Z
+- [Preloved TU Clothing UK | Second Hand Sainsbury's Fashion | LloydysWorld](https://www.lloydysworld.com/collections/tu-clothing): Shop preloved TU women's clothing at LloydysWorld CIC. Quality-checked tops, blouses and more. Sustainable fashion at great prices.
+  Updated: 2026-06-01T09:29:40Z
   Total Products: 7
+- [Preloved T-Shirts UK | Second Hand Men's & Women's Tees | LloydysWorld](https://www.lloydysworld.com/collections/buy-2-get-one-free-on-t-shirts): Shop our Buy 2 Get 1 Free preloved T-shirts at lloydysworld. Mix and match quality secondhand tees. Add 3 and save — sustainable fashion at its best.
+  Updated: 2026-06-02T23:41:53Z
+  Total Products: 27
+- [Preloved Men's Polo Shirts UK | Second Hand Smart Casual Tops | LloydysWorld](https://www.lloydysworld.com/collections/mens-polo-shirts): Shop our curated range of preloved men's polo shirts. Quality checked and fast dispatched by LloydysWorld.
+  Updated: 2026-06-01T08:50:29Z
+  Total Products: 11
+- [Preloved Women's Bras Swimwear & Bikinis UK | Second Hand Ladies Swimwear | LloydysWorld](https://www.lloydysworld.com/collections/womens-bra-swimwear-bikini): Shop preloved women's bras, swimwear and bikinis at LloydysWorld. Quality-checked, affordable sustainable fashion. Fast UK dispatch.
+  Updated: 2026-06-02T23:26:06Z
+  Total Products: 4
+- [Preloved One Piece Swimwear UK | Second Hand Women's Swimsuits | LloydysWorld](https://www.lloydysworld.com/collections/preloved-one-piece-jumpsuits-playsuits): Shop preloved one-piece jumpsuits, playsuits & dungarees at LloydysWorld. Quality checked, fast dispatch, 30-day returns. Sustainable UK fashion.
+  Updated: 2026-05-28T20:27:28Z
+  Total Products: 1
 
 ## Blogs
 
@@ -1434,6 +1468,18 @@ Choosing UK sourced preloved skirts reduces waste, saves money and supports sust
   - [Why Clothing Parcels Make a Difference: Lloydys World's Journey](https://www.lloydysworld.com/blogs/news/why-clothing-parcels-make-a-difference-lloydys-worlds-journey): Why Clothing Parcels Make a Difference: Lloydys World's Journey
     Updated: 2026-05-23T09:09:15Z
     Author: lloydysworld
+  - [Five Ways Lloydys World Promotes Reuse and It Can Help You Too](https://www.lloydysworld.com/blogs/news/five-ways-lloydys-world-promotes-reuse-and-it-can-help-you-too): Five Ways Lloydys World Promotes Reuse and It Can Help You Too
+    Updated: 2026-05-26T09:05:22Z
+    Author: lloydysworld
+  - [FAQ: Everything You Need to Know About Lloydys World's Clothing Donations](https://www.lloydysworld.com/blogs/news/faq-everything-you-need-to-know-about-lloydys-worlds-clothing-donations): FAQ: Everything You Need to Know About Lloydys World's Clothing Donations
+    Updated: 2026-05-28T09:07:41Z
+    Author: lloydysworld
+  - [Giving Back Through Cloth: How Lloydys World Creates a Supportive Community](https://www.lloydysworld.com/blogs/news/giving-back-through-cloth-how-lloydys-world-creates-a-supportive-community): Giving Back Through Cloth: How Lloydys World Creates a Supportive Community
+    Updated: 2026-05-30T09:33:02Z
+    Author: lloydysworld
+  - [The Environmental Impact of Preloved Clothes: Lloydys World’s Sustainable Goals](https://www.lloydysworld.com/blogs/news/the-environmental-impact-of-preloved-clothes-lloydys-world-s-sustainable-goals): The Environmental Impact of Preloved Clothes: Lloydys World’s Sustainable Goals
+    Updated: 2026-06-02T09:06:58Z
+    Author: lloydysworld
 
 ## Store Pages
 
@@ -1444,7 +1490,7 @@ Choosing UK sourced preloved skirts reduces waste, saves money and supports sust
 - [Support Our Mission — Sustainable Fashion & Community Impact | LloydysWorld](https://www.lloydysworld.com/pages/support-our-mission): Thank you for your generous donation. Because of you, we can continue offering practical support to people who need it most — from clothing parcels...
   Updated: 2026-05-18T06:43:05Z
 - [Request a Free Prepaid Donation Bag — Donate Clothes | LloydysWorld](https://www.lloydysworld.com/pages/redeem-postage-label): Got clothes you no longer wear? Don't let them go to waste. Request a free prepaid donation bag from LloydysWorld and give your unwanted clothing a...
-  Updated: 2026-05-24T07:55:40Z
+  Updated: 2026-05-27T12:35:12Z
 - [Preloved Men's Clothing — All Collections | LloydysWorld Portsmouth](https://www.lloydysworld.com/pages/all-mens-collections): All Men's Preloved cloths
   Updated: 2026-05-18T06:44:28Z
 - [Preloved Women's Clothing — All Collections | LloydysWorld Portsmouth](https://www.lloydysworld.com/pages/all-womens-collections): All Preloved Women's Cloths
@@ -1452,11 +1498,11 @@ Choosing UK sourced preloved skirts reduces waste, saves money and supports sust
 - [Bundle Up & Save 10% on Preloved Clothing | LloydysWorld](https://www.lloydysworld.com/pages/bundle-up-and-save): At LloydysWorld, we believe sustainable fashion should be affordable for everyone. That's why we offer 10% off when you bundle your preloved purcha...
   Updated: 2026-05-24T07:58:58Z
 - [Our Community | LloydysWorld Sustainable Fashion UK](https://www.lloydysworld.com/pages/our-community): LloydysWorld is more than a preloved clothing store — it's a community of people who believe fashion can be a force for good. Whether you're here f...
-  Updated: 2026-05-24T07:54:27Z
+  Updated: 2026-05-29T07:06:04Z
 - [Referral Form – Clothing Support](https://www.lloydysworld.com/pages/referrals): Referrals is a way of getting the correct people the help they need with second hand preloved clothes
   Updated: 2026-05-22T05:01:34Z
-- [About LloydysWorld | Preloved Designer Clothing UK](https://www.lloydysworld.com/pages/about-lloydysworld): LloydysWorld isn’t just a shop — it’s a fresh start. Built from rebuilding my own life, this space is about giving quality preloved items a new hom...
-  Updated: 2026-05-24T07:30:42Z
+- [About LloydysWorld | Preloved Designer Clothing UK](https://www.lloydysworld.com/pages/about-lloydysworld): LloydysWorld isn't just a shop — it's a fresh start. Based in Portsmouth, UK, and built from rebuilding my own life, this space is about giving qua...
+  Updated: 2026-05-29T05:26:38Z
 - [What Is Circular Fashion? | LloydysWorld](https://www.lloydysworld.com/pages/what-is-circular-fashion): Circular fashion is a model of clothing production, consumption and reuse designed to eliminate waste and keep garments in use for as long as possi...
   Updated: 2026-05-24T07:31:10Z
 - [Why Reuse Matters | Sustainable Fashion UK | LloydysWorld](https://www.lloydysworld.com/pages/why-reuse-matters): Reuse is one of the simplest and most powerful actions we can take to reduce our environmental footprint. When it comes to clothing, reuse means ch...
@@ -1464,11 +1510,15 @@ Choosing UK sourced preloved skirts reduces waste, saves money and supports sust
 - [How LloydysWorld Works | Preloved Fashion UK](https://www.lloydysworld.com/pages/how-lloydysworld-works): LloydysWorld is a circular fashion platform based in Portsmouth, UK. We make it easy to shop quality preloved clothing while supporting a mission t...
   Updated: 2026-05-24T07:28:54Z
 - [Environmental Impact of Textile Waste | LloydysWorld](https://www.lloydysworld.com/pages/environmental-impact-of-textile-waste): Textile waste is one of the most urgent and underreported environmental crises of our time. The clothing industry generates more carbon emissions t...
-  Updated: 2026-05-24T07:50:50Z
+  Updated: 2026-05-29T05:18:29Z
 - [Benefits of Buying Preloved Clothing | LloydysWorld UK](https://www.lloydysworld.com/pages/benefits-of-buying-preloved-clothing): Buying preloved clothing is one of the smartest decisions you can make — for your wardrobe, your wallet and the planet. Here's why more and more pe...
   Updated: 2026-05-24T07:52:27Z
 - [Our Community Impact | LloydysWorld Clothing Redistribution UK](https://www.lloydysworld.com/pages/our-community-impact): LloydysWorld was built on a belief that clothing can do more than cover bodies — it can restore dignity, provide warmth and support communities in ...
-  Updated: 2026-05-24T07:52:45Z
+  Updated: 2026-05-29T06:42:13Z
+- [Preloved Fashion Brands We Stock - lloydysworld](https://www.lloydysworld.com/pages/all-brands): At lloydysworld, we believe great fashion shouldn't cost the earth — literally. Browse our ever-growing collection of preloved clothing from some o...
+  Updated: 2026-05-26T00:58:14Z
+- [Impact Chart](https://www.lloydysworld.com/pages/impact-chart): Community Impact Dashboard At LloydysWorld, every order makes a measurable difference. This page shows the combined impact created by our community...
+  Updated: 2026-05-29T04:53:42Z
 
 ## Policies
 
