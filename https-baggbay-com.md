@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-08-24T08:00:09Z
 - Contact Email: sales@baggbay.com
-- Updated At: 2026-05-28T00:00:40.107Z
+- Updated At: 2026-06-04T00:00:41.788Z
 
 ## Products
 
@@ -281,11 +281,11 @@
     Availability: Available
     Price: ₹3,499.00 INR
 - [Custom Fridge Magnets | 2x2 Square Photo Magnets | Baggbay Gifts](https://baggbay.com/products/2x2-square-custom-photo-magnets): Turn memories into tangible treasures with our 2x2 Square Custom Photo Magnets. High-quality sublimation ensures vibrant colors that won’t fade. Shop Baggbay!
-  Updated: 2026-05-26T17:12:07Z
+  Updated: 2026-06-02T17:09:40Z
   Vendor: Baggbay
   Product Type: Magnet
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0957/7981/5746/files/003fc359-d7c7-40e8-a389-c83346c8cc19.jpg?v=1777889096
+  Image: https://cdn.shopify.com/s/files/1/0957/7981/5746/files/ChatGPT_Image_May_20_2026_10_16_41_AM.png?v=1780376949
   - [2 Pieces](https://baggbay.com/products/2x2-square-custom-photo-magnets?variant=53209985646914)
     Availability: Available
     Price: ₹299.00 INR
@@ -297,10 +297,10 @@
     Price: ₹599.00 INR
   - [9 Pieces](https://baggbay.com/products/2x2-square-custom-photo-magnets?variant=52951606788418)
     Availability: Available
-    Price: ₹899.00 INR
+    Price: ₹799.00 INR
   - [12 Pieces](https://baggbay.com/products/2x2-square-custom-photo-magnets?variant=52951606821186)
     Availability: Available
-    Price: ₹1,199.00 INR
+    Price: ₹999.00 INR
 - [The Light Within | Healing & Hope Magnet Set](https://baggbay.com/products/the-ultimate-badge-magnet-creator-canva-design-template): Handcrafted motivational magnets for healing and recovery. Inspired by universal wisdom and the Bhagavad Gita. The perfect "get well soon" gift to lift spirits and provide daily motivation.
   Updated: 2026-05-26T17:12:08Z
   Vendor: baggbay
@@ -383,7 +383,7 @@
     Availability: Available
     Price: ₹5,499.00 INR
 - [Handmade Fabric Wristlet Keychain | Stylish Key Strap | Baggbay](https://baggbay.com/products/happy-mothers-day-personalized-keychain-44mm): Shop our premium handmade fabric wristlets. Comfortable, durable, and stylish key straps for hands-free convenience. Perfect for keys and small bags!
-  Updated: 2026-05-26T17:12:09Z
+  Updated: 2026-05-29T23:32:16Z
   Vendor: Baggbay
   Product Type: Keychain
   Availability: Available
@@ -661,6 +661,15 @@
     Author: Avni
   - [Custom Corporate Gifts: Elevate Your Brand with Personalized Business Merchandise and Baggbay Customized Keychains](https://baggbay.com/blogs/news/custom-corporate-gifts-elevate-your-brand-with-personalized-business-merchandise-and-baggbay-customized-keychains): Custom Corporate Gifts: Elevate Your Brand with Personalized Business Merchandise and Baggbay Customized Keychains
     Updated: 2026-05-27T00:31:10Z
+    Author: Avni
+  - [Personalized Photo & Logo Bottle Openers: Elevating Corporate Gifting with Unique  and Decorative Magnets](https://baggbay.com/blogs/news/personalized-photo-logo-bottle-openers-elevating-corporate-gifting-with-unique--and-decorative-magnets): Personalized Photo & Logo Bottle Openers: Elevating Corporate Gifting with Unique  and Decorative Magnets
+    Updated: 2026-05-29T00:43:15Z
+    Author: Avni
+  - [Custom Corporate Gifts Reinvented: How Motivational Quote Magnets Transform Personalized Business Merchandise in Bulk  Products](https://baggbay.com/blogs/news/custom-corporate-gifts-reinvented-how-motivational-quote-magnets-transform-personalized-business-merchandise-in-bulk--products): Custom Corporate Gifts Reinvented: How Motivational Quote Magnets Transform Personalized Business Merchandise in Bulk  Products
+    Updated: 2026-05-31T00:40:16Z
+    Author: Avni
+  - [Personalized Wedding Accessories: How Custom Badges Elevate Corporate Gifting Solutions with Customized Brand Swag](https://baggbay.com/blogs/news/personalized-wedding-accessories-how-custom-badges-elevate-corporate-gifting-solutions-with-customized-brand-swag): Personalized Wedding Accessories: How Custom Badges Elevate Corporate Gifting Solutions with Customized Brand Swag
+    Updated: 2026-06-03T00:44:02Z
     Author: Avni
 
 ## Store Pages
