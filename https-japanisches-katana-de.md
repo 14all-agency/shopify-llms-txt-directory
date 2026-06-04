@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-01-03T07:27:50Z
 - Contact Email: info@japanisches-katana.de
-- Updated At: 2026-05-27T13:45:48.659Z
+- Updated At: 2026-06-04T00:00:27.060Z
 
 ## Products
 
@@ -1251,14 +1251,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/2408/6290/products/armure-samourai-uesugi-kenshin_2.webp?v=1672786161
   Price: 2.700,00 € EUR
-- [Aka Samurai-Rüstung](https://japanisches-katana.de/products/rustung-samourai-aka): Jede Rüstung wird bereits für eine Person mit einer Körpergröße zwischen 1,60 und 1,85 m und einem durchschnittlichen Körperbau ausgestattet geliefert. Die Rüstung kann leicht angepasst werden. Vollständige und voll funktionsfähige Rüstung, Größe: 180×76×76 cm. Die Rüstung in Standardgröße ist für Personen mit einer Körpergröße zwischen 160 cm und 185 cm und einem durchschnittlichen Körperbau geeignet. Bemalung, Farben aus hochwertiger Odoshi-Baumwolle und traditionelle Merkmale. 100% handgefertigt von einem erfahrenen Rüstungsschmied. Kopfhörer (Kabuto 兜) Kabuto Helm aus rotem Metall mit Haaren68.5 cm Länge Menpo-Maske (面頬) Roter Menpo aus Metall mit Schnurrbart17 cm lang Schulterblätter (Sode 袖) Rote Metallplatten mit weißem Tau geschnürt Cuirrass (Do 胴) Rot / Weiß / Gold | Metall Brustpanzer Schienbeinschützer (Sunaete 臑当) Breite des oberen Teils: 10 cm, Breite des mittleren Teils: 13 cm, Breite des unteren Teils: 10 cm. Gürtel (Obi 帯) Rot2 m Länge Jacke Baumwolle und Fasern Brust 107 cm Größe 100 cm Maße der Rüstung und Verpackung Abmessungen 180 x 76 x 76 cm Gewicht 20 Kg Größe der Verpackung 63.5 x 76 x 55 cm Gewicht mit Verpackung 25 Kg
-  Updated: 2026-05-26T19:08:50Z
-  Vendor: Japanisches Katana
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0698/2408/6290/products/armure-samourai-aka_2.webp?v=1672786196
-  Price: 2.900,00 € EUR
-[List Continued](https://japanisches-katana.de/a/llms-agent/llms.txt?shop=japanisches-katana.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MDc5NDA5MTg1MDQyLCJsYXN0X3ZhbHVlIjoiODA3OTQwOTE4NTA0MiJ9)
+[List Continued](https://japanisches-katana.de/a/llms-agent/llms.txt?shop=japanisches-katana.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MDc5NDA4ODI0NTk0LCJsYXN0X3ZhbHVlIjoiODA3OTQwODgyNDU5NCJ9)
 
 ## Collections
 
@@ -1266,8 +1259,8 @@
   Updated: 2026-05-26T16:51:52Z
   Total Products: 1
 - [Katana Kaufen | Japanisches Katana](https://japanisches-katana.de/collections/katana-kaufen): Entdecken Sie unser Angebot an Katanas, die von unseren Meisterschmieden handgeschmiedet werden. Wir bieten eine große Auswahl an Schwertern, deren Preise bei 200 € beginnen. Sie finden verschiedene Schmiedearten, Stähle und Stücklisten in allen Bereichen. Jedes Katana ist ein absolutes Unikat, da es von unseren Handwerkern handgefertigt wird.
-  Updated: 2026-05-26T16:51:52Z
-  Total Products: 154
+  Updated: 2026-06-02T21:57:39Z
+  Total Products: 157
 - [Ninjato | Japanisches Katana](https://japanisches-katana.de/collections/ninjato): Das berühmte Ninjato: Das Ninja-Schwert Das Ninjato ist ein japanisches Schwert mit einer geraden Klinge von etwa 50 cm Länge. Es wurde von Ninjas (Shinobi) in Japan verwendet. Man glaubt, dass das Ninjato entwickelt wurde, um es den Ninjas zu erleichtern, sich zu bewegen und im Nahkampf zu kämpfen, da das Katana für ihre Bedürfnisse zu lang und unhandlich war. Das Ninjato entwickelte sich auf eine völlig andere Weise als das Katana – in seiner Form, der Art seiner Schmiedung und sogar in der Art und Weise, wie es von seinen Benutzern betrachtet wurde. Während Samurai tiefen Respekt und spirituellen Wert für ihre Katanas hegten, sahen Ninjas ihre Waffen eher als praktische Werkzeuge denn als heilige Objekte. Das Ninjato kann an mehreren Merkmalen erkannt werden: Eine gerade Klinge mit einer sehr geometrischen Spitze. Ein Handschutz (Tsuba), der oft quadratisch ist. Manchmal hat das Schwert überhaupt keinen Handschutz. Eine Scheide (Saya) mit einem spitzen Ende, die es ermöglicht, sie bei Bedarf in den Boden zu stecken. Ein langer Griff (Tsuka) für bessere Balance – und manchmal um kleine Objekte darin zu verstecken. Hast du dich jemals gefragt, ob diese heimlichen, verstohlen schwertführenden Ninjas Katanas wie legendäre Samurai benutzten? Es stellt sich heraus, dass ihre bevorzugte Waffe – das Ninjato-Schwert (treffend benannt) – dem Katana auffallend ähnlich ist (außer einer kürzeren, geraderen Klinge). Leider belegen historische Dokumente solche Klingen nicht. Dennoch sind diese Schwerter sammelnswert! Schließlich ist kein Schwert so geheimnisvoll und legendär wie ein japanisches Ninjato-Schwert. Geschichte in Geheimnis gehüllt wie der legendäre Shinobi Im Gegensatz zu den Samurai und ihrem Katana belegen nur wenige historische Dokumente die Existenz von Ninjas und Ninjato-Schwertern. Das bedeutet nicht, dass es nicht real ist. Einige Experten sagen, dieser Mangel an Beweisen könnte auf die Natur der Arbeit eines Ninjato (oder genauer gesagt, eines Shinobi) zurückzuführen sein, die Spionage, Aufklärung, Hinterhalt, Belagerung und Infiltration, Attentat und Täuschungsmanöver umfasst. Das Schlüsselwort "Attentäter" bringt unwillkürlich Yamato Takeru (den Sohn des 12. Kaisers Japans, Kaiser Keiko) in den Sinn. Legenden besagen, dass Takeru sich als Jungfrau verkleidete, um im 2. Jahrhundert Kumaso-Häuptlinge zu ermorden. Allerdings erwähnte die Literatur weder "Shinobi" noch beschrieb sie die bei dem Attentat verwendete Waffe. Ob antike japanische Attentäter also bereits ein "Ninjato" verwendeten oder noch das Chokuto (das dem Tachi vorausging), die Ursprünge des Ninjato bleiben unbekannt. (Es ist möglich, dass der Shinobi immer noch ein Katana benutzte.) Der erste "Beweis" eines Ninjato-Schwerts kam 1956 in dem 26-seitigen Büchlein "Ninjutsu" von Heischichiro Okuse. Bis 1964 entstand ein Museum, das Ninjas und ihren Waffen gewidmet war (das Ninja Museum of Igaryu) in der Präfektur Mie. Das popularisierte Ninjas und ihre "mythische" Waffe, einschließlich des Ninjato, wobei der erste Hollywood-Film, der die Klinge zeigt, der Film "Enter the Ninja" von 1981 war. Entmystifizierung des Ninjato: Design und Charakteristiken Da seine historische Genauigkeit etwas fragwürdig ist (es fehlen verifizierbare Belege aus historischen Aufzeichnungen vor dem 20. Jahrhundert), fragen sich viele: "Ist das Ninjato ein echtes Schwert?" Eine Möglichkeit, dies zu beantworten, besteht darin, seine Merkmale zu betrachten. Ob das Ninjato ein Produkt der ungezügelten Faszination der Menschheit für legendäre japanische Ninjato-Schwerter ist oder ob seine Shinobi-Meister die Kunst der Verheimlichung so perfektioniert haben, dass keine Aufzeichnung des mittelalterlichen Schwerts existiert, können wir immer noch argumentieren, dass das Ninjato ein schönes Schwert ist (und auch tödlich!). Wie sieht also das Ninjato aus? Klinge Beginnen wir mit der Ninjato-Schwertlänge. Laut dem selbsternannten Ninja-Experten und amerikanischen Kampfkünstler Stephen K. Hayes ist das Ninjato kurz, nicht länger als 60 Zentimeter. Die Ninjato-Schwertform ist auch gerade, anders als die gebogenen Tachi, Katana und Wakizashi. Daher ähnelt es dem alten Chokuto stark. Handschutz (Tsuba) Im Gegensatz zum Katana mit einem verzierten, kreisförmigen (manchmal ovalen) Tsuba verfügt das Ninjato über einen einfachen, aber übergroßen quadratischen oder rechteckigen Handschutz. Einige glauben, dass der größere Tsuba es Ninjas ermöglichte, ihre normale vertikale Reichweite zu erweitern, indem sie auf den Handschutz traten, wobei das Schwert gegen eine Wand gelehnt war (wie eine Leitersprosse). Konstruktion Hayes und andere "Ninjato"-Experten sagen, dass Shinobis ihre Schwerter selbst herstellten (im Gegensatz zu den Samurai, die einen lizenzierten Katana-kaji oder Schwertschmied beauftragten, ihre Schwerter zu kreieren). Das hilft zu erklären, warum Ninjato-Schwerter gerade, kurze Klingen haben. (Einige glauben, dass Ninjas einen anderen Schwertschmiedeprozess beobachteten, wobei leicht verfügbare Materialien verwendet wurden, um die einzigartigen Eigenschaften des Ninjato hervorzubringen.) Andere Merkmale Einige sagen, die Scheide des Ninjato oder Saya sei ungewöhnlich länger als die Klinge, was Ninjas ermöglichte, Gifte, Geheimdokumente und andere heimliche Handelsgegenstände in dem Raum zwischen der Ninjato-Spitze und dem Saya-Rand zu verbergen. Das Ninjato im Kampf Während das Ninjato bei Schneidangriffen nützlich ist, hat es noch andere Verwendungszwecke, die oft mit der inhärenten "Stellenbeschreibung" des Ninja zusammenhängen. Heimliche Angriffe – Seine kleine Größe macht das Ninjato leicht zu verbergen, was Shinobi ermöglicht, Gegner aus dem Hinterhalt anzugreifen. Nahkampf – Ein Katana in engen Räumen zu führen ist herausfordernd (deshalb benutzen Samurai-Krieger in solchen Situationen das Wakizashi). Die kurze und gerade Klinge des Ninjato ermöglicht außergewöhnliche Manövrierfähigkeit im Nahkampf. Täuschung und Ablenkung – Die kurze Klinge des Ninjato kann für ein zerbrochenes Katana gehalten werden, was Ninjas ermöglicht, die Täuschung auszunutzen und einen tödlichen Schlag zu versetzen. Verteidigungstechniken – Die Saya und der quadratische Tsuba sind perfekt zum Blockieren von Schwertschlägen oder sogar zum Stolpernlassen eines Gegners. Wie das Ninjato im Vergleich zum Katana abschneidet Jede Diskussion über ein japanisches Schwert, historisch oder nicht, verdient oft einen Vergleich mit Japans ikonischster Klinge – dem Katana! Was ist also der Unterschied zwischen Katana und Ninjato? Schauen wir uns das an. Merkmal Ninjato Katana Ursprungszeitraum Unbekannt, obwohl im 20. Jahrhundert popularisiert Kamakura-Periode (1185-1333) Design-Inspiration Chokuto oder Wakizashi Tachi Klingenform Gerade Gebogen Klingenlänge Nicht länger als 60 cm 60 bis 73 cm Grifflänge Kurz (für einhändigen Gebrauch) oder vielseitig (für zweihändigen Gebrauch) Lang, für zweihändigen Gebrauch Tsuba Einfach, oft quadratisch oder rechteckig Verziert, oval oder kreisförmig Historische Genauigkeit Nicht historisch belegt, in der Fiktion populär gemacht Echt, historisch von Samurai benutzt Hauptverwendung Vermutlich besser für Nahkampf und schnelle Angriffe Schneid- und Schwungbewegungen Hauptbenutzer Ninjas oder Shinobis Samurai Das Ninjato-Schwert ist immer ein faszinierendes (manchmal polarisierendes) Thema. Wie andere japanische Schwerter verbindet es Geschichte, Mythos und Popkultur. Es spielt keine Rolle, ob das Ninjato ein historisch korrektes japanisches Schwert ist. Was zählt ist, dass diese Klinge weiterhin die Fantasie von Kampfkünstlern und Fans der japanischen Geschichte fesselt. Unsere authentische Ninjato-Schwertsammlung sollte deine Sehnsüchte nach diesem sagenhaften Schwert befriedigen.
   Updated: 2026-05-26T16:51:52Z
   Total Products: 4
@@ -1293,20 +1286,20 @@
   Updated: 2026-05-26T16:51:53Z
   Total Products: 5
 - [Hochwertige Katanas](https://japanisches-katana.de/collections/hochwertige-katanas)
-  Updated: 2026-05-26T16:51:54Z
-  Total Products: 103
+  Updated: 2026-06-02T21:57:37Z
+  Total Products: 104
 - [Katanas Mittelklasse](https://japanisches-katana.de/collections/katanas-mittelklasse)
   Updated: 2026-05-26T16:51:54Z
   Total Products: 75
 - [Katanas Einstiegsklasse](https://japanisches-katana.de/collections/katana-einstiegsklasse)
-  Updated: 2026-05-26T16:51:54Z
-  Total Products: 65
+  Updated: 2026-06-02T21:57:39Z
+  Total Products: 67
 - [COMING SOON | Japanisches Katana](https://japanisches-katana.de/collections/coming-soon)
   Updated: 2026-05-26T16:51:54Z
   Total Products: 0
 - [Neue Münzen](https://japanisches-katana.de/collections/neue-munzen)
-  Updated: 2026-05-26T16:51:54Z
-  Total Products: 13
+  Updated: 2026-06-02T21:58:49Z
+  Total Products: 9
 - [Antike japanische Schwerter (Nihonto) | Japanisches Katana](https://japanisches-katana.de/collections/antike-japanische-schwerter-nihonto): Entdecken Sie unsere Sammlung authentischer Nihonto-Schwerter, die von japanischen Meistern geschmiedet wurden. Von Katanas bis zu Tantos, jedes Stück zeugt vom Erbe der aufgehenden Sonne. Finden Sie Ihr Meisterstück
   Updated: 2026-05-26T16:51:54Z
   Total Products: 59
@@ -1317,14 +1310,14 @@
   Updated: 2026-05-26T16:51:55Z
   Total Products: 2
 - [Mittelalterliches Schwert | Europäisches Schwert](https://japanisches-katana.de/collections/mittelalterliches-schwert): Mittelalterliche Schwerter repräsentieren das Herz der europäischen Kriegsgeschichte und entwickelten sich über Jahrhunderte hinweg auf Schlachtfeldern, Turnieren und in Duellen. Von der frühen Wikingerzeit bis zur Renaissance wurde jeder Schwerttyp an die Anforderungen seiner Epoche angepasst – sei es, um Rüstungen zu durchdringen, schnelle Stiche auszuführen oder durch schiere Präsenz auf dem Schlachtfeld zu dominieren. Unsere Sammlung vereint historisch inspirierte Schwerter, die für Sammler, HEMA-Praktiker, Reenactors und Liebhaber mittelalterlicher Kultur entworfen wurden – eine Kombination aus traditionellem Handwerk und moderner Haltbarkeit. Warum ein mittelalterliches Schwert wählen? Anders als viele andere Waffen zeichnen sich mittelalterliche Schwerter durch ihr Gleichgewicht und ihre Vielseitigkeit aus. Sie waren nicht nur Werkzeuge des Krieges, sondern auch kulturelle Symbole für Status, Ehre und Kampfkunst. Ihre Konstruktion legte besonderen Wert auf die Gewichtsverteilung, den Hohlschliff für Stärke und Flexibilität sowie Parierstangen und Knäufe, die die Hand des Trägers schützten und gleichzeitig die Kontrolle verbesserten. Ein mittelalterliches Schwert zu wählen bedeutet, ein Stück lebendige Geschichte zu besitzen – eines, das sowohl Kunstfertigkeit als auch Praktikabilität verkörpert. Ob du dich von der Eleganz eines Ritterlichen Schwertes oder der rohen Kraft eines Zweihänders angezogen fühlst – diese Klingen verbinden dich direkt mit den Traditionen des mittelalterlichen Europas. Haupttypen mittelalterlicher Schwerter Die Vielfalt mittelalterlicher Schwerter spiegelt die sich wandelnden Anforderungen von Kampf und Kultur wider. Jeder Schwerttyp besaß einzigartige Eigenschaften, die ihn für unterschiedliche Kontexte geeignet machten – von Duellen über Schlachtformationen bis hin zu Begegnungen mit schwer gepanzerten Gegnern. Hier sind die bekanntesten Kategorien: Ritterliches Schwert (Arming Sword) – Einhändiges, zweischneidiges Schwert, das an der Seite des Ritters getragen wurde. Zwischen dem 11. und 15. Jahrhundert das typische Ritterwaffe, ideal in Kombination mit Schild oder Buckler. Langschwert – Mit seiner „Anderthalbhänder“-Griffart wurde das Langschwert im 14.–16. Jahrhundert populär. Es verband Reichweite, Kraft und Präzision und war sowohl auf dem Schlachtfeld als auch in Gerichtskämpfen beliebt. Heute ist es ein Grundpfeiler im HEMA-Training. Bastardschwert – Eine Mischung aus Ritterlichem Schwert und Langschwert, flexibel einsetzbar: leicht genug für einhändigen Gebrauch, aber auch stark mit zwei Händen geführt. Großschwert / Zweihänder – Gewaltige zweihändige Schwerter, die in Spätmittelalter und Renaissance eingesetzt wurden. Hervorragend geeignet, um Pikeniere zu durchbrechen und Gegner allein durch ihre Größe einzuschüchtern. Claymore – Das ikonische schottische Zweihandschwert mit nach vorn geneigten oder vierlappigen Parierstangen. Diese Schwerter verkörperten Clan-Stolz und waren im offenen Kampf gefürchtet. Wikingerschwert – Erkennbar an breiten Klingen, kurzen Parierstangen und gelappten Knäufen. Diese Schwerter der Frühzeit waren für wuchtige Hiebe in Schildformationen bestimmt und zählen zu den bekanntesten Waffen des „Dunklen Zeitalters“. Falkion – Eine einschneidige Klinge, die an ein großes Messer oder eine Machete erinnert, bekannt für ihre verheerende Schnittkraft. Besonders unter Infanteristen geschätzt wegen Einfachheit und Effektivität. Messer – In Deutschland populär, vereinte dieses einschneidige Schwert Eigenschaften von Messer und Langschwert. Praktisch, günstig und tödlich im Nahkampf. Estoc – Ein Stoßschwert mit starrer, oft schneidloser Klinge, das speziell zum Durchdringen von Ketten- und Plattenrüstungen entwickelt wurde. Hieb- und Stichschwert – Ein Hybrid der frühen Renaissance mit scharfen Kanten zum Schneiden und starren Spitzen zum Stechen, oft mit komplexeren Griffkonstruktionen zum Schutz der Hand. Ausgewählte Schwerter unserer Sammlung Unsere kuratierte Auswahl umfasst sowohl ikonische historische Designs als auch moderne Neuinterpretationen. Jede Klinge wird mit Blick auf Details, Haltbarkeit und Ästhetik gefertigt – ideal für Ausstellung, Training oder Reenactment. Entdecke unsere Highlights: Crimson Valor Wikingerschwert – Eine kühne Frühmittelalter-Waffe, geschaffen für kraftvolle Hiebe. Mit breiter Klinge und gelapptem Knauf erinnert sie an den Mut der Wikingerkrieger und ihre legendären Raubzüge. Shadowfang Langschwert – Ausbalanciert für historisches Fechten und Präsentation, verbindet dieses Langschwert Eleganz mit tödlicher Präzision. Sein Design spiegelt die vielseitigen „Anderthalbhänder“ wider, die Ritter des Spätmittelalters bevorzugten. Iron Oath Zweihänder – Mit gewaltiger Präsenz gebaut, verkörpert dieses massive Zweihandschwert pure Autorität. Ideal für Reenactment und Sammler, symbolisiert es die rohe Kraft mittelalterlicher Infanterie und Söldner. Blackthorn Bastardschwert – Ein vielseitiges Hybrid-Schwert, das sowohl ein- als auch zweihändig geführt werden kann. Mit klaren Linien und solider Balance passt es sich nahtlos verschiedenen Kampfstilen an. Wie wählt man das richtige mittelalterliche Schwert? Vor dem Kauf eines mittelalterlichen Schwertes ist es wichtig, den geplanten Einsatzzweck zu berücksichtigen. Nicht alle Schwerter sind für denselben Gebrauch gedacht – die richtige Wahl sorgt für Sicherheit und Zufriedenheit: Dekoration & Sammeln: Wähle Schwerter mit historischer Genauigkeit und dekorativem Reiz. Achte auf traditionelle Beschläge, pommels aus der Epoche und Oberflächen, die den mittelalterlichen Stil widerspiegeln. HEMA & Training: Für das Fechten steht die Handhabung im Vordergrund. Achte auf das passende Gewicht, ausgewogene Balance und stabile, flexible Klingen für sicheres Sparring und wiederholte Nutzung. Reenactment: Reenactors benötigen robuste Schwerter, die häufigem Einsatz standhalten. Achte auf stabile Beschläge, verstärkte Schneiden und sichere Griffe, die der historischen Authentizität treu bleiben. Materialien & Handwerkskunst mittelalterlicher Schwerter Die Haltbarkeit und Leistung eines mittelalterlichen Schwertes hängen stark von seiner Verarbeitung ab. Unsere Kollektion setzt auf Klingen aus Federstahl und Kohlenstoffstählen, die für ihre Widerstandsfähigkeit und Schärfeerhaltung bekannt sind. Parierstangen und Knäufe bestehen häufig aus 304 Edelstahl oder Schmiedestahl und garantieren Festigkeit und historische Korrektheit. Griffe haben einen Holzkern, der mit Leder, Kordeln oder Rindsleder umwickelt ist – für Komfort und Authentizität. Hohlkehlen, die entlang der Klinge verlaufen, reduzieren Gewicht bei gleichzeitiger Stabilität. Jede Klinge wird sorgfältig wärmebehandelt, um die perfekte Balance zwischen Flexibilität und Härte zu erreichen. Kulturelle & historische Bedeutung mittelalterlicher Schwerter Mittelalterliche Schwerter spiegeln Jahrhunderte der Innovation wider, angepasst an Entwicklungen in Rüstung, Taktik und Gesellschaft. Frühe Wikingerschwerter verkörperten den Geist der Krieger und Seefahrer, während Ritterliche Schwerter für Ritterlichkeit und feudale Pflicht standen. Mit dem Fortschritt der Rüstungen entstanden Langschwerter und Estocs, um Plattenpanzer zu überwinden. In Schottland wurden Claymores zu Symbolen der Clantradition, während in Deutschland Messer und Zweihänder sowohl in Städten als auch auf Schlachtfeldern beliebt wurden. Der Besitz eines solchen Schwertes bedeutet, Teil dieser reichen Kampftradition Europas zu sein – ein Stück Geschichte, das ganze Zivilisationen geprägt hat. Pflege deines mittelalterlichen Schwertes Die richtige Pflege stellt sicher, dass dein mittelalterliches Schwert über Jahre hinweg zuverlässig und schön bleibt. Halte die Klinge leicht eingeölt, um Rost und Korrosion zu verhindern. Pflege Ledergriffe und Scheiden gelegentlich, damit sie flexibel und ansehnlich bleiben. Bewahre dein Schwert stets trocken auf, fern von Feuchtigkeit und extremen Temperaturen. Wenn du dein Schwert für HEMA oder Reenactment nutzt, überprüfe regelmäßig die Befestigungen von Parierstange, Griff und Knauf, um Sicherheit und Stabilität zu gewährleisten. So behält dein Schwert sowohl seine ästhetische Wirkung als auch seine funktionale Integrität.
-  Updated: 2026-05-26T16:51:55Z
-  Total Products: 11
+  Updated: 2026-06-03T11:15:16Z
+  Total Products: 12
 - [Japanese Handmade Swords](https://japanisches-katana.de/collections/japanese-handmade-swords)
-  Updated: 2026-05-26T16:51:55Z
-  Total Products: 274
+  Updated: 2026-06-03T11:15:16Z
+  Total Products: 283
 - [Taktische Schwerter](https://japanisches-katana.de/collections/taktische-schwerter)
-  Updated: 2026-05-26T16:51:55Z
-  Total Products: 15
+  Updated: 2026-06-02T21:57:43Z
+  Total Products: 20
 
 ## Blogs
 
@@ -1731,6 +1724,24 @@
   - [Breitschwert VS Katana: Kampf der Klingen (Wo der Osten den Westen trifft)](https://japanisches-katana.de/blogs/blog-katana/breitschwert-vs-katana-kampf-der-klingen-wo-der-osten-den-westen-trifft)
     Updated: 2026-03-15T05:39:01Z
     Author: Japanisches Katana
+  - [Anime-Katana: Sind die Schwerter aus Demon Slayer, One Piece & Bleach echt? (Kaufratgeber 2026)](https://japanisches-katana.de/blogs/blog-katana/anime-katana-echte-schwerter-demon-slayer-one-piece)
+    Updated: 2026-05-31T13:52:12Z
+    Author: Japanisches-Katana.de Team
+  - [Wie du ein Katana präsentierst und pflegst: Ständer, Ölen & zu vermeidende Fehler (2026)](https://japanisches-katana.de/blogs/blog-katana/katana-ausstellen-und-pflegen)
+    Updated: 2026-05-31T13:52:12Z
+    Author: Japanisches-Katana.de Team
+  - [T10 vs. 1095 vs. 1060 vs. Damast: Welchen Katana-Stahl solltest du wirklich kaufen? (2026)](https://japanisches-katana.de/blogs/blog-katana/katana-stahl-vergleich-t10-1095-1060-damast)
+    Updated: 2026-05-31T13:52:12Z
+    Author: Japanisches-Katana.de Team
+  - [Ist ein 200-€-Katana es wert? Ehrliche Antwort für Erstkäufer](https://japanisches-katana.de/blogs/blog-katana/ist-ein-200-euro-katana-es-wert)
+    Updated: 2026-05-31T13:52:12Z
+    Author: Japanisches-Katana.de Team
+  - [Bestes Katana für Anfänger unter 300 €: Was Reddit wirklich empfiehlt — 2026](https://japanisches-katana.de/blogs/blog-katana/bestes-katana-fur-anfanger)
+    Updated: 2026-05-31T13:52:12Z
+    Author: Japanisches-Katana.de Team
+  - [Katana vs. Langschwert: Welches solltest du 2026 kaufen?](https://japanisches-katana.de/blogs/blog-katana/katana-vs-langschwert-2026)
+    Updated: 2026-05-31T13:52:12Z
+    Author: Japanisches-Katana.de Team
 
 ## Store Pages
 
@@ -1738,14 +1749,14 @@
   Updated: 2023-01-03T07:27:54Z
 - [Glossar des Japanischen Schwertes | Japanisches Katana](https://japanisches-katana.de/pages/glossar-des-japanischen-schwertes): AOI - Stockrose, häufig verwendet als MonARA-NIE - grobes oder breites NieASHI – „Füßchen“ (Nioi-Streifen, Einkerbungen in der Härtelinie)ATOBORI -...
   Updated: 2023-06-05T15:54:21Z
-- [Pflege und Regeln des Japanischen Schwertes | Japanisches Katana](https://japanisches-katana.de/pages/pflege-und-regeln-des-japanischen-schwertes): Pflege und Regeln des Japanischen Schwertes Japanische Schwerter sind zu Recht für ihre enorme Schneidkraft berühmt, aber sie können auch leicht be...
-  Updated: 2023-06-05T15:55:33Z
-- [Einfache Anleitung zum Katana | Japanisches Katana](https://japanisches-katana.de/pages/einfache-anleitung-zum-katana): Das Katana wird sehr oft missverstanden und bringt viel Verwirrung mit sich. Es gibt sehr viele Dinge, die man wissen muss, und man findet sich nic...
-  Updated: 2023-06-05T15:53:53Z
-- [Den Stahl für Ihr Katana auswählen | Japanisches Katana](https://japanisches-katana.de/pages/den-stahl-fur-ihr-katana-auswahlen): Es gibt verschiedene Arten von Stahl und Schmiedemethoden für ein Katana. Dies ist übrigens einer der Parameter, die den Preis deines Katanas am me...
-  Updated: 2026-03-15T05:17:58Z
-- [Nomenklatur des Katana | Japanisches Katana](https://japanisches-katana.de/pages/nomenklatur-des-katana): In der Welt der Katanas ist es wichtig, das Vokabular zu kennen, denn es werden nur japanische Wörter verwendet! Aber mach dir keine Sorgen, diese ...
-  Updated: 2023-06-05T15:59:46Z
+- [Pflege und Regeln des Japanischen Schwertes | Japanisches Katana](https://japanisches-katana.de/pages/pflege-und-regeln-des-japanischen-schwertes): { "@context": "https://schema.org", "@type": "Article", "headline": "Wie pflegst du ein Katana: Vollständige Anleitung zu Reinigung, Ölung und Pfle...
+  Updated: 2026-05-31T13:13:56Z
+- [Einfache Anleitung zum Katana | Japanisches Katana](https://japanisches-katana.de/pages/einfache-anleitung-zum-katana): { "@context": "https://schema.org", "@type": "Article", "headline": "Katana-Kaufratgeber: Alles, was du vor dem Kauf wissen musst — 2026", "descrip...
+  Updated: 2026-05-31T13:13:54Z
+- [Den Stahl für Ihr Katana auswählen | Japanisches Katana](https://japanisches-katana.de/pages/den-stahl-fur-ihr-katana-auswahlen): { "@context": "https://schema.org", "@type": "Article", "@id": "https://katana-sword.com/pages/choosing-the-steel-of-your-katana#article", "headlin...
+  Updated: 2026-05-31T13:13:55Z
+- [Nomenklatur des Katana | Japanisches Katana](https://japanisches-katana.de/pages/nomenklatur-des-katana): { "@context": "https://schema.org", "@type": "Article", "@id": "https://katana-sword.com/pages/katana-parts#article", "headline": "Teile und Anatom...
+  Updated: 2026-05-31T13:13:55Z
 - [Kashira | Japanisches Katana](https://japanisches-katana.de/pages/kashira-katana): Kashira ist der Knauf des Katana, der unterhalb des Griffs angebracht ist. Welchen Nutzen hat es?Dieses Stück der Nomenklatur dient dazu, den Ito a...
   Updated: 2026-03-15T05:23:35Z
 - [Tsuba | Japanisches Katana](https://japanisches-katana.de/pages/tsuba-katana): Die Tsuba ist der Schutz des Katana. Sie schützt vor Schlägen und verhindert, dass die Hand des Benutzers abrutscht, wenn er das Katana benutzt. Di...
@@ -1816,6 +1827,10 @@
   Updated: 2026-03-15T05:18:24Z
 - [zufriedener Kunde](https://japanisches-katana.de/pages/zufriedener-kunde)
   Updated: 2023-07-02T14:23:22Z
+- [Warum ein Katana bei Japanisches-Katana kaufen?](https://japanisches-katana.de/pages/warum-japanisches-katana): Bist du ein Fan japanischer Schwerter und suchst, wo du ein hochwertiges Katana kaufen kannst? Wir haben die Antwort auf deine Frage! Unser Onlines...
+  Updated: 2026-05-31T13:13:57Z
+- [Häufig gestellte Fragen](https://japanisches-katana.de/pages/haufig-gestellte-fragen): Hier findest du die Antworten auf die häufigsten Fragen rund um unsere Katana, den verwendeten Stahl, die Schmiedetechniken, das Schärfen und die i...
+  Updated: 2026-05-31T13:13:57Z
 
 ## Policies
 
