@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Updated At: 2026-05-28T08:00:28.084Z
+- Updated At: 2026-06-04T08:00:27.539Z
 
 ## Products
 
@@ -149,13 +149,13 @@
   Updated: 2025-06-17T21:09:28Z
   Total Products: 1
 - [Premium Snowboards](https://jones-jm.myshopify.com/collections/snowboards): Purchase snowboards designed for performance
-  Updated: 2025-08-09T07:09:41Z
+  Updated: 2026-06-02T03:06:42Z
   Total Products: 8
 - [Hydrogen](https://jones-jm.myshopify.com/collections/hydrogen)
   Updated: 2025-06-17T21:09:28Z
   Total Products: 3
 - [Test Collection](https://jones-jm.myshopify.com/collections/test-collection)
-  Updated: 2025-06-17T21:09:28Z
+  Updated: 2026-06-02T03:28:17Z
   Total Products: 1
 
 ## Blogs
@@ -935,6 +935,9 @@
     Author: User
   - [Overcoming Common Snowboarding Injuries and How to Prevent Them](https://jones-jm.myshopify.com/blogs/news/overcoming-common-snowboarding-injuries-and-how-to-prevent-them): Overcoming Common Snowboarding Injuries and How to Prevent Them
     Updated: 2026-05-27T01:36:55Z
+    Author: User
+  - [A Complete Guide to Snowboarding Techniques for Beginners](https://jones-jm.myshopify.com/blogs/news/a-complete-guide-to-snowboarding-techniques-for-beginners): A Complete Guide to Snowboarding Techniques for Beginners
+    Updated: 2026-06-01T00:26:15Z
     Author: User
 
 ## Store Pages
