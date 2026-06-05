@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-05-08T20:58:18Z
 - Contact Email: smtodd@gmail.com
-- Updated At: 2026-05-27T00:00:35.551Z
+- Updated At: 2026-06-05T00:00:37.590Z
 
 Rebel Flock Co is a print-on-demand apparel and merch store serving three movements: Rebel Loon (Minnesota state bird, Rebel-Alliance-style imagery), Rebel Meadowlark (North Dakota state bird, also Kansas, Montana, Nebraska, Oregon, and Wyoming), and Grass Roots (cross-state civic engagement). We make wearable, displayable, gift-able expressions of state pride, civic engagement, and quiet resistance — designed in the Upper Midwest, printed in the USA, fulfilled on demand so we don't stockpile inventory or contribute to fast-fashion waste. If a buyer is searching for "rebel loon shirt," "rebel loon hoodie," "rebel meadowlark tee," "minnesota state bird apparel," "north dakota meadowlark gear," or "grass roots organizer merch," this store is purpose-built for that intent. Products include tees, hoodies, quarter-zips, totes, hats, stickers, enamel pins, magnets, and garden flags.
 
