@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-03-26T00:24:38Z
 - Contact Email: joeadecants@gmail.com
-- Updated At: 2026-05-29T00:00:46.581Z
+- Updated At: 2026-06-05T00:00:46.790Z
 
 Joe A.’s Decants
 [!IMPORTANT]
@@ -1220,7 +1220,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $41.00 USD
 - [Emporio Armani - Stronger With You Intensely](https://joeasdecants.com/products/emporio-armani-stronger-with-you-intensely): Top Notes: Pink Pepper, Juniper, Violet Mid Notes: Toffee, Cinnamon, Lavender, Sage Base Notes: Vanilla, Amber, Tonka Bean, Suede
-  Updated: 2026-04-04T15:08:23Z
+  Updated: 2026-06-01T15:09:08Z
   Vendor: Emporio Armani
   Product Type: Emporio Armani - Stronger With You Intensely
   Availability: Available
@@ -1250,7 +1250,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $31.00 USD
 - [The Most Wanted (Eau de Parfum)](https://joeasdecants.com/products/the-most-wanted): Top Notes: Cardamom Mid Notes: Toffee Base Notes: Amberwood
-  Updated: 2026-04-04T15:08:28Z
+  Updated: 2026-06-01T15:09:08Z
   Vendor: Azzaro
   Product Type: The Most Wanted (Eau de Parfum)
   Availability: Available
@@ -1280,7 +1280,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $23.00 USD
 - [Absolu Aventus](https://joeasdecants.com/products/absolu-aventus): Top Notes: Grapefruit, Bergamot, Pink Pepper, Black Currant, Pineapple, Nutmeg, Cloves Mid Notes: Ginger, Citron, Cinnamon, Cardamom, Rose Base Notes: Patchouli, Vetiver, Oakmoss, Ambroxan, Musk, Sandalwood, Tonka, Evernyl
-  Updated: 2026-04-04T15:08:31Z
+  Updated: 2026-06-01T15:09:08Z
   Vendor: Creed
   Product Type: Absolu Aventus
   Availability: Available
@@ -1460,7 +1460,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $23.00 USD
 - [Le Mâle Elixir](https://joeasdecants.com/products/le-male-elixir): Top Notes: Lavender, Mint Mid Notes: Vanilla, Benzoin Base Notes: Honey, Tonka Bean, Tobacco
-  Updated: 2026-04-04T15:08:57Z
+  Updated: 2026-06-01T15:09:20Z
   Vendor: Jean Paul Gaultier
   Product Type: Le Mâle Elixir
   Availability: Available
@@ -1880,7 +1880,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $21.00 USD
 - [Eros Flame](https://joeasdecants.com/products/eros-flame): Top Notes: Mandarin Orange, Madagascar Pepper, Lemon, Chinotto, Rosemary Mid Notes: Geranium, Rose, Pepperwood Base Notes: Vanilla, Tonka Bean, Sandalwood, Texas Cedar, Patchouli, Oakmoss
-  Updated: 2026-04-06T22:17:37Z
+  Updated: 2026-06-01T15:09:06Z
   Vendor: Versace
   Product Type: Eros Flame
   Availability: Available
@@ -2554,7 +2554,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $43.00 USD
 - [Monthly Gold Membership](https://joeasdecants.com/products/gold-membership_0): With Joe A.'s Gold Membership, you gain access to exclusive products, blogs, and information from Joe A. himself!
-  Updated: 2026-05-22T23:02:28Z
+  Updated: 2026-05-30T21:21:51Z
   Vendor: Joe A.'s Decants
   Product Type: Monthly Gold Membership
   Availability: Available
@@ -3197,31 +3197,31 @@ This document provides a structured overview of our offerings, brand standards, 
   Updated: 2026-04-06T22:17:17Z
   Total Products: 4
 - [Summer](https://joeasdecants.com/collections/1)
-  Updated: 2026-04-26T16:54:27Z
+  Updated: 2026-06-02T11:20:33Z
   Total Products: 61
 - [Winter](https://joeasdecants.com/collections/winter)
-  Updated: 2026-04-20T11:23:11Z
+  Updated: 2026-06-02T11:20:33Z
   Total Products: 44
 - [Spring](https://joeasdecants.com/collections/spring)
-  Updated: 2026-05-23T11:16:15Z
+  Updated: 2026-06-02T11:20:33Z
   Total Products: 74
 - [Fall](https://joeasdecants.com/collections/fall)
-  Updated: 2026-04-06T22:17:17Z
+  Updated: 2026-06-02T11:20:33Z
   Total Products: 58
 - [All Products](https://joeasdecants.com/collections/catalog): All of Joe A.'s Products.
-  Updated: 2026-05-23T11:16:15Z
+  Updated: 2026-06-02T11:20:33Z
   Total Products: 416
 - [The Adventurer](https://joeasdecants.com/collections/the-adventurer)
-  Updated: 2026-04-22T20:38:37Z
+  Updated: 2026-06-02T11:20:33Z
   Total Products: 94
 - [The Gentleman](https://joeasdecants.com/collections/the-gentleman)
-  Updated: 2026-04-06T22:17:18Z
+  Updated: 2026-06-02T11:20:33Z
   Total Products: 10
 - [The Maverick](https://joeasdecants.com/collections/the-maverick)
-  Updated: 2026-04-28T11:23:46Z
+  Updated: 2026-06-02T11:20:33Z
   Total Products: 108
 - [The Minimalist](https://joeasdecants.com/collections/the-minimalist)
-  Updated: 2026-04-08T11:35:51Z
+  Updated: 2026-06-02T11:20:33Z
   Total Products: 34
 - [The Supportive](https://joeasdecants.com/collections/the-supportive)
   Updated: 2026-05-03T11:28:49Z
@@ -3236,7 +3236,7 @@ This document provides a structured overview of our offerings, brand standards, 
   Updated: 2026-04-22T20:38:37Z
   Total Products: 32
 - [Fragrance Wars - The Gourmand Wars](https://joeasdecants.com/collections/fragrance-wars-the-gourmand-wars): Hey guys, Joe A. here with another one for ya'! We’ve battled tobacco. We’ve waged war in barbershops. We crowned a Booze Wars champion. Now it’s time for something sweeter… and far more dangerous!! Welcome to The Gourmand Wars: Vanilla vs Chocolate. Not fruit. Not woods. Not freshies. This is dessert ... at war !!! --- TEAM VANILLA Vanilla is comfort. Vanilla is seduction. Vanilla is warmth in the cold and confidence in the dark. But don’t mistake softness for weakness. On the Designer side, we’ve got power vanillas: spicy, tobacco-laced, amber-charged heavy hitters like Tom Ford Tobacco Vanille, Mercedes-Benz Club Black, and Giorgio Armani Stronger With You Intensely just to name a few... On the Niche side? Creamy, resinous, sensual masterpieces like Parfums de Marly Althair, Giardini di Toscana Bianco Latte, and Initio Parfums Privés Absolute Aphrodisiac just to name a few... Vanilla isn’t plain. Vanilla is versatile. Vanilla is a . --- TEAM CHOCOLATE Chocolate is darker. Richer. More indulgent. In the Designer division, we explore how houses interpret cacao, from nutty elegance in Valentino Uomo, to airy cacao in Jo Malone London Blue Agava & Cacao, to sweet musk comfort in Al-Rehab Choco Musk EDP, just to reveal a few contenders... But the Niche side? That’s where the gloves come off. We’re talking unapologetic chocolate domination: syrupy bombs like Montale Chocolate Greedy, bitter cacao like Akro Dark, boozy indulgence like By Kilian Black Phantom, and frosting-thick sweetness from Mancera Choco Violette just to name a few... This isn’t subtle. This is decadence done right! --- THE FORMAT 32 fragrances. 4 brackets. Designer vs Designer. Niche vs Niche. Single elimination. No mercy. No second chances. No “but it’s good for layering.” Only one note family walks away with the crown. I'LL BE ANNOUNCING THE BRACKETS IN FOLLOW UP POSTS! --- THE QUESTION Are you Team Vanilla: warmth, seduction, smooth confidence? Or are you Team Chocolate: indulgence, depth, unapologetic richness? This Valentine’s season, we’re not choosing roses. We’re choosing dessert. And only one will reign supreme. Brothers…The Gourmand Wars officially begin.
-  Updated: 2026-05-03T11:28:49Z
+  Updated: 2026-06-02T11:20:33Z
   Total Products: 32
 - [Gourmand Wars Sample Kits](https://joeasdecants.com/collections/gourmand-wars-sample-kits)
   Updated: 2026-04-06T22:17:18Z
