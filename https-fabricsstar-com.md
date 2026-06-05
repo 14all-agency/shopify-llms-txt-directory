@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-19T18:27:19Z
 - Contact Email: info@thetableclothstore.com
-- Updated At: 2026-05-25T00:00:40.596Z
+- Updated At: 2026-06-05T00:00:41.173Z
 
 ## Products
 
@@ -79,7 +79,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/NEVELY-GOLD-NAVY.jpg?v=1757518389
     Price: $1.00 USD
 - [ALLEY Mesh Sequin Fabric, 54 Inch. in Width](https://fabricsstar.com/products/alley)
-  Updated: 2026-04-01T09:24:47Z
+  Updated: 2026-06-04T14:56:17Z
   Vendor: Fabrics Star
   Product Type: Sequin Mesh Fabric
   Availability: Available
@@ -93,7 +93,7 @@
     Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/ALLEY-GREY.jpg?v=1757518637
     Price: $1.00 USD
 - [19TH CENTURY Lace Fabric, 58 Inch. in Width](https://fabricsstar.com/products/19th-century)
-  Updated: 2026-05-18T18:49:37Z
+  Updated: 2026-06-04T14:56:13Z
   Vendor: Fabrics Star
   Product Type: Mesh Fabric
   Availability: Available
@@ -1731,7 +1731,7 @@
     Availability: Available
     Price: $1.00 USD
 - [Taupe Abstract Crushed Velvet Fabric - 118 Inch](https://fabricsstar.com/products/taupe-abstract-crushed-velvet-fabric-118-inch): Shop premium taupe abstract crushed velvet fabric by the yard. 118 Inch wide, ideal for upholstery & home decor. Order swatches available.
-  Updated: 2026-05-05T20:32:29Z
+  Updated: 2026-06-04T23:13:07Z
   Vendor: Fabrics Star
   Product Type: Crushed Velvet Fabric
   Availability: Available
@@ -3026,19 +3026,7 @@
   - [Sample 3x3 Inch](https://fabricsstar.com/products/pink-white-selectra-waves-stretch-velvet-sequin-fabric-48-inch?variant=52349978181913)
     Availability: Available
     Price: $1.00 USD
-- [Red/Silver Selectra Waves Stretch Velvet Sequin Fabric - 48 Inch](https://fabricsstar.com/products/red-silver-selectra-waves-stretch-velvet-sequin-fabric-48-inch): Shop premium red/silver selectra waves stretch velvet sequin fabric by the yard. 48 Inch wide, ideal for evening wear & home decor. Order swatches available.
-  Updated: 2026-05-05T20:40:44Z
-  Vendor: Fabrics Star
-  Product Type: Velvet Sequin Fabric
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0794/9238/3001/files/SELECTRA-WAVES-RED-SILVER.jpg?v=1757517403
-  - [Cut by the Yard](https://fabricsstar.com/products/red-silver-selectra-waves-stretch-velvet-sequin-fabric-48-inch?variant=52349979492633)
-    Availability: Available
-    Price: $24.20 USD
-  - [Sample 3x3 Inch](https://fabricsstar.com/products/red-silver-selectra-waves-stretch-velvet-sequin-fabric-48-inch?variant=52349979525401)
-    Availability: Available
-    Price: $1.00 USD
-[List Continued](https://fabricsstar.com/a/llms-agent/llms.txt?shop=1d3898-2.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDYxMjIxMjQ2NTk0NSwibGFzdF92YWx1ZSI6IjEwNjEyMjEyNDY1OTQ1In0%3D)
+[List Continued](https://fabricsstar.com/a/llms-agent/llms.txt?shop=1d3898-2.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDYxMjIxMTc0NTA0OSwibGFzdF92YWx1ZSI6IjEwNjEyMjExNzQ1MDQ5In0%3D)
 
 ## Collections
 
@@ -3046,37 +3034,37 @@
   Updated: 2026-05-07T21:59:36Z
   Total Products: 1
 - [Buy Sequin Fabric Online | Sequins By The Yard - Fabrics Star](https://fabricsstar.com/collections/sequin-fabrics): Shop sequin fabrics online at Fabrics Star. Find dazzling & elegant sequins by the yard for your next project, offering sparkle and style in every design.
-  Updated: 2026-05-23T11:13:55Z
+  Updated: 2026-06-04T11:13:08Z
   Total Products: 123
 - [Buy Luxury Velvet Fabrics Online | Premium Velvet Fabric](https://fabricsstar.com/collections/velvet-fabrics): Explore luxury velvet fabrics at Fabrics Star. Buy premium velvet fabric online for stunning designs and unmatched quality. Perfect for any project.
-  Updated: 2026-05-24T11:12:59Z
+  Updated: 2026-06-04T11:13:08Z
   Total Products: 245
 - [Embroidered Lace Fabric Online | Buy Luxury Lace Fabrics](https://fabricsstar.com/collections/lace-fabrics): Shop exquisite lace fabrics online at Fabrics Star. Explore beautiful embroidered lace fabric for your creative projects, offering elegance and style!
   Updated: 2026-05-19T11:17:31Z
   Total Products: 120
 - [Jacquard Print Fabric | Printed Jacquard Fabric By The Yard](https://fabricsstar.com/collections/jacquards-fabrics): Explore premium jacquard fabrics at Fabrics Star. Buy jacquard fabric online for exquisite designs and top-notch quality, perfect for your next project!
-  Updated: 2026-05-24T11:12:59Z
+  Updated: 2026-05-29T11:13:14Z
   Total Products: 580
 - [Digital Print Fabric by the Yard | Digital Fabric Printing - Fabrics Star](https://fabricsstar.com/collections/digital-print-fabric): Discover stunning digital print fabric at Fabrics Star. Shop high-quality materials with vibrant designs, perfect for your creative projects and digital fabric printing.
-  Updated: 2026-05-19T11:17:31Z
+  Updated: 2026-05-29T11:13:14Z
   Total Products: 119
 - [Jacquard Print Fabric | Printed Jacquard Fabric By The Yard - Fabrics Star](https://fabricsstar.com/collections/jacquard-print-fabric): Shop elegant jacquard print fabric at Fabrics Star. Discover unique designs and premium-quality jacquard print materials for your creative projects!
   Updated: 2026-05-07T23:01:20Z
   Total Products: 46
 - [Our Full line of Fabrics](https://fabricsstar.com/collections/our-full-line-of-fabrics)
-  Updated: 2026-05-24T11:12:59Z
+  Updated: 2026-06-04T11:13:08Z
   Total Products: 1782
 - [New! Shopify performance sharing is now turned on](https://fabricsstar.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-05-24T11:12:59Z
+  Updated: 2026-06-04T11:13:08Z
   Total Products: 1782
 - [110](https://fabricsstar.com/collections/110)
-  Updated: 2026-05-24T11:12:59Z
+  Updated: 2026-05-29T11:13:14Z
   Total Products: 873
 - [72](https://fabricsstar.com/collections/72)
-  Updated: 2026-05-24T11:12:59Z
+  Updated: 2026-06-04T11:13:08Z
   Total Products: 140
 - [APPPlaza - Best Sellers](https://fabricsstar.com/collections/appplaza-best-sellers)
-  Updated: 2026-05-24T11:12:59Z
+  Updated: 2026-06-04T11:13:08Z
   Total Products: 1782
 - [Vails Collection](https://fabricsstar.com/collections/vails-collection): Embossed brocade velvet from the Vails Collection — 72" wide, medium-weight 100% polyester. Sold by the yard with $1 sample swatches. Available in 12 colors: Black, Red, Blush, Champagne, Forest, Gold, Ice Blue, Ivory, Navy, Burgundy, Olive, and White.
   Updated: 2026-05-08T01:39:37Z
@@ -3157,10 +3145,10 @@
   Updated: 2026-05-08T01:39:43Z
   Total Products: 9
 - [Newport 72 Collection](https://fabricsstar.com/collections/newport-72-tablecloths)
-  Updated: 2026-05-09T11:22:21Z
+  Updated: 2026-05-27T11:12:54Z
   Total Products: 7
 - [Newport Beach Collection](https://fabricsstar.com/collections/newport-beach-tablecloths)
-  Updated: 2026-05-24T11:12:59Z
+  Updated: 2026-06-01T11:13:01Z
   Total Products: 8
 - [Newport118 Collection](https://fabricsstar.com/collections/newport118-tablecloths)
   Updated: 2026-05-05T22:40:34Z
@@ -3220,7 +3208,7 @@
   Updated: 2026-05-08T01:39:46Z
   Total Products: 15
 - [Tropical Collection](https://fabricsstar.com/collections/tropical-tablecloths)
-  Updated: 2026-05-08T01:39:47Z
+  Updated: 2026-05-29T11:13:14Z
   Total Products: 8
 - [VELUXE Collection](https://fabricsstar.com/collections/veluxe-tablecloths)
   Updated: 2026-05-08T01:40:00Z
@@ -3238,19 +3226,19 @@
   Updated: 2026-05-19T11:17:31Z
   Total Products: 4
 - [Velvet Fabrics](https://fabricsstar.com/collections/velvet-fabrics-1): Premium velvet fabric by the yard — soft, plush, and rich. Perfect for upholstery, drapery, tablecloths, and luxury home decor. Includes brocade velvet, crushed velvet, chenille, and stretch velvet.
-  Updated: 2026-05-24T11:12:59Z
+  Updated: 2026-06-04T11:13:08Z
   Total Products: 368
 - [Jacquard Fabrics](https://fabricsstar.com/collections/jacquard-fabrics): Jacquard fabric by the yard — woven patterns, textured feel, ideal for upholstery, drapery, and statement home decor.
-  Updated: 2026-05-24T11:12:59Z
+  Updated: 2026-05-29T11:13:14Z
   Total Products: 626
 - [Lace &amp; Mesh Fabrics](https://fabricsstar.com/collections/lace-amp-mesh-fabrics): Embroidered lace, mesh, and sheer fabrics by the yard. Perfect for veils, gowns, table overlays, and decorative accents.
   Updated: 2026-05-19T11:17:31Z
   Total Products: 185
 - [Sequin Fabrics](https://fabricsstar.com/collections/sequin-fabrics-1): Sequin fabric by the yard — sparkling sequin mesh, reversible sequins, and stretch sequin. Perfect for stage costumes, evening wear, and decorative arts.
-  Updated: 2026-05-23T11:13:55Z
+  Updated: 2026-06-04T11:13:08Z
   Total Products: 72
 - [Digital Print Fabrics](https://fabricsstar.com/collections/digital-print-fabrics): Digital print fabric by the yard — floral, abstract, and pattern prints with a cotton hand. Ideal for home decor, drapery, and craft projects.
-  Updated: 2026-05-19T11:17:31Z
+  Updated: 2026-05-29T11:13:14Z
   Total Products: 119
 - [Brocade Velvet Fabrics](https://fabricsstar.com/collections/brocade-velvet-fabrics): Embossed brocade velvet by the yard — heavyweight, soft, and rich. Available in 12+ colors per family. Perfect for upholstery, drapery, and luxury home decor.
   Updated: 2026-05-08T01:40:17Z
@@ -3262,7 +3250,7 @@
   Updated: 2026-05-19T11:17:31Z
   Total Products: 63
 - [Ivory Fabrics](https://fabricsstar.com/collections/ivory-fabrics): All ivory and cream fabrics by the yard. Cut to order with $1 sample swatches.
-  Updated: 2026-05-19T11:17:31Z
+  Updated: 2026-05-25T11:10:23Z
   Total Products: 75
 - [Red Fabrics](https://fabricsstar.com/collections/red-fabrics): All red fabrics by the yard. Cut to order with $1 sample swatches.
   Updated: 2026-05-08T01:40:15Z
@@ -3277,7 +3265,7 @@
   Updated: 2026-05-19T11:17:31Z
   Total Products: 59
 - [Pink Fabrics](https://fabricsstar.com/collections/pink-fabrics): All pink and blush fabrics by the yard — rose, blush, salmon, dusty pink and more. Cut to order with $1 sample swatches.
-  Updated: 2026-05-19T11:17:31Z
+  Updated: 2026-05-25T11:10:23Z
   Total Products: 71
 
 ## Blogs
@@ -3612,6 +3600,21 @@
     Author: User
   - [Popular Patterns in Modern Upholstery Fabrics Explained](https://fabricsstar.com/blogs/news/popular-patterns-in-modern-upholstery-fabrics-explained): Popular Patterns in Modern Upholstery Fabrics Explained
     Updated: 2026-05-24T00:08:25Z
+    Author: User
+  - [Understanding Fabric Drape Insiders Tips for Savvy Buyers](https://fabricsstar.com/blogs/news/understanding-fabric-drape-insiders-tips-for-savvy-buyers): Understanding Fabric Drape Insiders Tips for Savvy Buyers
+    Updated: 2026-05-25T02:07:24Z
+    Author: User
+  - [10 Must-Have Fabrics for Your DIY Projects](https://fabricsstar.com/blogs/news/10-must-have-fabrics-for-your-diy-projects): 10 Must-Have Fabrics for Your DIY Projects
+    Updated: 2026-05-27T02:09:59Z
+    Author: User
+  - [Troubleshooting Common Problems with Fabrics and Their Solutions](https://fabricsstar.com/blogs/news/troubleshooting-common-problems-with-fabrics-and-their-solutions): Troubleshooting Common Problems with Fabrics and Their Solutions
+    Updated: 2026-05-31T00:07:59Z
+    Author: User
+  - [A Beginner's Guide to Understanding Fabric Properties](https://fabricsstar.com/blogs/news/a-beginners-guide-to-understanding-fabric-properties): A Beginner's Guide to Understanding Fabric Properties
+    Updated: 2026-06-01T02:06:10Z
+    Author: User
+  - [Step-by-Step Guide to Care for Specialty Fabrics](https://fabricsstar.com/blogs/news/step-by-step-guide-to-care-for-specialty-fabrics): Step-by-Step Guide to Care for Specialty Fabrics
+    Updated: 2026-06-03T02:11:03Z
     Author: User
 
 ## Store Pages
