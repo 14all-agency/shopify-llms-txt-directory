@@ -6,107 +6,107 @@
 - Timezone: Asia/Karachi
 - Created At: 2026-03-10T09:59:04Z
 - Contact Email: artbotano@gmail.com
-- Updated At: 2026-05-29T00:00:21.941Z
+- Updated At: 2026-06-05T00:00:31.608Z
 
 ## Products
 
 - [Urban Edge – Woody Aromatic Eau de Parfum for Men](https://botanoart.com/products/urban-edge): Urban Edge is a refined woody-aromatic fragrance — grapefruit, mint, ginger, nutmeg, vetiver, cedar, and patchouli. 35% EDP. Versatile and timeless. Lasts up to 9 hours.
-  Updated: 2026-05-20T16:56:20Z
+  Updated: 2026-06-04T07:26:20Z
   Vendor: BotanoArt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0809/7441/4038/files/botano-art-urban-edge-perfume-bottle.webp?v=1773333700
-  Price: Rs 1,850.00 PKR
+  Price: Rs 2,299.00 PKR
 - [Light Sky – Premium Unisex Eau de Parfum](https://botanoart.com/products/light-sky): Light Sky captures the essence of freedom and refinement — bergamot, pineapple, Moroccan jasmine, birch, vanilla, and ambergris. 35% EDP. Lasts up to 10 hours. Not just a perfume — it's a vibe.
-  Updated: 2026-03-14T17:42:38Z
+  Updated: 2026-06-04T07:26:11Z
   Vendor: BotanoArt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0809/7441/4038/files/botano-art-light-sky-perfume-bottle.webp?v=1773334703
-  Price: Rs 2,699.00 PKR
+  Price: Rs 2,999.00 PKR
 - [Titanium Rush – Amber Floral Eau de Parfum for Men](https://botanoart.com/products/titanium-rush): Titanium Rush is an exquisite amber floral fragrance — saffron, ambergris, amberwood, cedar, and fir resin. A mesmerizing fusion of sweetness and intensity. 30% EDP. Lasts up to 8 hours.
-  Updated: 2026-05-20T16:55:19Z
+  Updated: 2026-06-04T07:25:51Z
   Vendor: BotanoArt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0809/7441/4038/files/botano-art-titanium-rush-perfume-bottle.webp?v=1773334895
-  Price: Rs 2,150.00 PKR
+  Price: Rs 2,550.00 PKR
 - [Floral Edge – A Timeless Floral Fragrance for Women](https://botanoart.com/products/floral-edge): Floral Edge is the epitome of femininity and elegance — pear, mandarin orange, osmanthus, peony, patchouli, and cedarwood. 35% EDP. Lasts up to 8 hours.
-  Updated: 2026-05-20T16:54:59Z
+  Updated: 2026-06-04T07:25:38Z
   Vendor: BotanoArt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0809/7441/4038/files/botano-art-floral-edge-perfume-bottle.webp?v=1773360583
-  Price: Rs 2,150.00 PKR
+  Price: Rs 2,450.00 PKR
 - [Essence Veil – Vibrant Floral Eau de Parfum for Women](https://botanoart.com/products/essence-veil): Essence Veil is a vibrant and sophisticated fragrance with bergamot, pink pepper, green apple, peony, vetiver, and amber. 35% EDP concentration. Perfect balance of fresh, floral, and woody.
-  Updated: 2026-05-20T16:53:50Z
+  Updated: 2026-06-04T07:25:10Z
   Vendor: BotanoArt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0809/7441/4038/files/botano-art-essence-veil-perfume-bottle.webp?v=1773360677
-  Price: Rs 1,850.00 PKR
+  Price: Rs 2,299.00 PKR
 - [Stormveil – A Floral Fruity Delight for Women](https://botanoart.com/products/stormveil): Stormveil is a mesmerizing floral fruity fragrance — grapefruit, passionfruit, pineapple, peony, and oakmoss. Pure joy in a bottle. 35% EDP. Lasts up to 7 hours.
-  Updated: 2026-05-20T16:40:35Z
+  Updated: 2026-06-04T07:24:59Z
   Vendor: BotanoArt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0809/7441/4038/files/botano-art-stormveil-perfume-bottle.webp?v=1773361022
-  Price: Rs 1,850.00 PKR
+  Price: Rs 2,300.00 PKR
 - [Dream Horizon – a tribute to boldness, creativity, and the power to turn dreams into reality.](https://botanoart.com/products/dream-horizon): Dream Horizon — a tribute to boldness and creativity. Built around Ambrox (perfumery's "white gold"), with Calabrian bergamot, Chinese black tea, Ceylon cinnamon, and frankincense. 30% EDP. Lasts up to 9 hours.
-  Updated: 2026-05-20T16:52:47Z
+  Updated: 2026-06-04T07:24:48Z
   Vendor: BotanoArt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0809/7441/4038/files/botano-art-dream-horizon-perfume-bottle.webp?v=1773362147
-  Price: Rs 2,299.00 PKR
+  Price: Rs 2,699.00 PKR
 - [Friday – Oriental Woody Eau de Parfum for Men](https://botanoart.com/products/friday): Friday is a bold Oriental Woody and Amber Spicy fragrance — cloves, cinnamon, saffron, rose, oud, leather, and sandalwood. 30% EDP. Confidence in a bottle. Lasts up to 12 hours.
-  Updated: 2026-05-20T16:52:00Z
+  Updated: 2026-06-04T07:24:37Z
   Vendor: BotanoArt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0809/7441/4038/files/botano-art-friday-perfume-bottle.webp?v=1773362309
-  Price: Rs 2,550.00 PKR
+  Price: Rs 2,898.00 PKR
 - [Crimson Sky – Premium Eau de Parfum for Men](https://botanoart.com/products/crimson-sky): Crimson Sky captures the spirit of adventure — a floral fruity fragrance blending hibiscus, bitter orange, rose damascena, vanilla, leather, and cinnamon. 30% EDP concentration. Lasts up to 10 hours.
-  Updated: 2026-05-20T16:50:41Z
+  Updated: 2026-06-04T07:24:20Z
   Vendor: BotanoArt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0809/7441/4038/files/botano-art-crimson-sky-perfume-bottle.webp?v=1773362559
-  Price: Rs 2,330.00 PKR
+  Price: Rs 2,698.00 PKR
 - [Galactic Rush – Modern Unisex Eau de Parfum](https://botanoart.com/products/galactic-rush): Galactic Rush is a modern niche fragrance with mandarin, saffron, osmanthus, immortelle, and mineral leather. 30% EDP. Mysterious, fresh, and unforgettable. Lasts up to 8 hours.
-  Updated: 2026-05-20T16:49:54Z
+  Updated: 2026-06-04T07:24:08Z
   Vendor: BotanoArt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0809/7441/4038/files/botano-art-galactic-rush-perfume-bottle.webp?v=1773362867
-  Price: Rs 2,100.00 PKR
+  Price: Rs 2,598.00 PKR
 - [Executive Edge – Bold Woody Spicy Eau de Parfum for Men](https://botanoart.com/products/executive-edge): Executive Edge is a bold and refined Woody Spicy fragrance for all occasions. Opens with Ambroxan and Bergamot, settles into musk, patchouli, and cedarwood. 30% EDP. Lasts up to 7 hours.
-  Updated: 2026-05-20T17:24:20Z
+  Updated: 2026-06-04T07:23:45Z
   Vendor: BotanoArt
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0809/7441/4038/files/botano-art-executive-edge-perfume-bottle.webp?v=1773363266
-  Price: Rs 2,099.00 PKR
+  Price: Rs 2,600.00 PKR
 
 ## Collections
 
 - [Women's Luxury Perfumes – Floral, Elegant & Bold Fragrances](https://botanoart.com/collections/womens-perfumes): Explore BotanoArt's curated collection of luxury perfumes for women. From the romantic allure of Essence Veil to the tropical drama of Stormveil and the bold sophistication of Floral Edge — discover fragrances crafted for the modern woman.
-  Updated: 2026-05-20T16:55:00Z
+  Updated: 2026-06-04T11:20:33Z
   Total Products: 3
 - [Men's Luxury Perfumes – Bold, Woody & Powerful Fragrances](https://botanoart.com/collections/mens-perfumes): Discover BotanoArt's premium collection of men's perfumes. From the commanding presence of Executive Edge to the sacred depth of Friday — five bold fragrances engineered for confidence, power, and unforgettable impact.
-  Updated: 2026-05-20T17:24:21Z
+  Updated: 2026-06-04T07:26:21Z
   Total Products: 5
 - [Unisex Luxury Perfumes – Timeless Fragrances for Everyone](https://botanoart.com/collections/unisex-perfumes): Experience BotanoArt's unisex perfume collection — three timeless fragrances that transcend gender. From the cosmic depth of Galactic Rush to the ethereal calm of Light Sky and the meditative warmth of Dream Horizon.
-  Updated: 2026-05-20T16:52:48Z
+  Updated: 2026-06-04T07:26:12Z
   Total Products: 3
 - [Discover New Luxury Perfumes for Men, Women & Unisex - Just Arrived!](https://botanoart.com/collections/new-arrivals): Be the first to experience the latest long-lasting Eau de Parfums at BotanoArt. From fresh aquatic to bold oriental woody scents, explore our newest arrivals crafted with up to 30-35% fragrance concentration. Shop now for unique scents.
-  Updated: 2026-05-20T16:55:00Z
+  Updated: 2026-06-04T11:20:33Z
   Total Products: 3
 - [Featured Luxury Fragrances: Handpicked Premium Scents](https://botanoart.com/collections/featured-products): Elevate your everyday with our signature collection of featured perfumes. Experience a world of contrast with scents like the romantic Essence Veil, the powerful Titanium Rush, or the gender-neutral Light Sky. Discover our curated selection.
-  Updated: 2026-05-20T16:55:00Z
+  Updated: 2026-06-04T11:20:33Z
   Total Products: 3
 - [BotanoArt's Best- Perfumes: Customer Favorites & Long-Lasting Scents](https://botanoart.com/collections/best-sellers): Experience the power of scent with our best- luxury perfumes. These fragrances are loved for their exceptional wear and captivating notes. Discover your new signature scent and shop BotanoArt's most popular creations today.
-  Updated: 2026-05-20T17:24:21Z
+  Updated: 2026-06-04T11:20:33Z
   Total Products: 3
 
 ## Store Pages
