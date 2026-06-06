@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-05-06T09:46:31Z
 - Contact Email: admin@kingdom-creations-llc.com
-- Updated At: 2026-05-22T00:00:32.794Z
+- Updated At: 2026-06-06T00:00:37.664Z
 
 ## Products
 
@@ -1847,21 +1847,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0771/3770/7196/files/asset_7111_transformation_26860_bd938a6f-329b-4d80-b5eb-94d98b8dedc5.jpg?v=1778073989
     Price: $89.99 USD
-- [Happy Anniversary Last Everything – Bracelet](https://blessedbiz.biz/products/happy-anniversary-last-everything-bracelet-shop-232945-4915): Are you looking for a gift as special as the man in your life? Then this Men's "Love You Forever" Bracelet is perfect! Engraved with a heartfelt message, this gift is great for birthdays, anniversaries, or just a thoughtful way to say "I love you". It's not just an accessory; it's a daily reminder of your love and appreciation. Whether it's your son, husband, or any deserving guy, this bracelet will have them grinning from ear to ear while rocking some serious style. Composed of stainless steel and vegan leather, this handsome bracelet features a strong magnetic clasp, making your sentimental gift last a lifetime! Your piece is packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight. Product specifications: Total length: 8.3" (21 cm) Engraved “love you forever” sentiment Braided vegan leather band Stainless steel decorative beads Stainless steel magnetic clasp with black finish Each order is lovingly packaged and shipped with care!
-  Updated: 2026-05-18T23:46:44Z
-  Vendor: ShineOn Fulfillment
-  Product Type: Jewelry
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0771/3770/7196/files/asset_5117_transformation_17960_49042bc6-4792-485c-bb65-27e381dafc8d.jpg?v=1778073926
-  - [Two Tone Box](https://blessedbiz.biz/products/happy-anniversary-last-everything-bracelet-shop-232945-4915?variant=46608902389948)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0771/3770/7196/files/asset_5117_transformation_17216_393064d5-21e2-4c24-b76c-cc29c014573d.jpg?v=1778073931
-    Price: $44.95 USD
-  - [Luxury Box w/LED](https://blessedbiz.biz/products/happy-anniversary-last-everything-bracelet-shop-232945-4915?variant=46608902422716)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0771/3770/7196/files/asset_5118_transformation_17210_302471ac-9f43-4489-b87e-49e20046f62f.jpg?v=1778073936
-    Price: $64.95 USD
-[List Continued](https://blessedbiz.biz/a/llms-agent/llms.txt?shop=0aw10i-ez.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MzQwOTczNzExNTQ4LCJsYXN0X3ZhbHVlIjoiOTM0MDk3MzcxMTU0OCJ9)
+[List Continued](https://blessedbiz.biz/a/llms-agent/llms.txt?shop=0aw10i-ez.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MzQwOTczNjQ2MDEyLCJsYXN0X3ZhbHVlIjoiOTM0MDk3MzY0NjAxMiJ9)
 
 ## Collections
 
@@ -1950,11 +1936,14 @@
   Updated: 2026-05-19T00:06:05Z
   Total Products: 7
 - [AVADA - Best Sellers](https://blessedbiz.biz/collections/avada-best-sellers)
-  Updated: 2026-05-19T00:03:22Z
-  Total Products: 203
-- [All Products (ChatGPT-AI Product Description)](https://blessedbiz.biz/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
-  Updated: 2026-05-19T00:03:15Z
+  Updated: 2026-06-02T08:04:06Z
   Total Products: 204
+- [All Products (ChatGPT-AI Product Description)](https://blessedbiz.biz/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
+  Updated: 2026-06-02T08:04:09Z
+  Total Products: 205
+- [Father's Day](https://blessedbiz.biz/collections/fathers-day)
+  Updated: 2026-05-30T15:26:57Z
+  Total Products: 7
 
 ## Store Pages
 
@@ -1962,6 +1951,8 @@
   Updated: 2026-05-19T00:06:15Z
 - [Your Privacy Choices](https://blessedbiz.biz/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-05-19T00:06:29Z
+- [About Us](https://blessedbiz.biz/pages/about-us): About BlessedBiz Our Story BlessedBiz was born from a simple yet powerful vision: to provide meaningful, quality gift ideas that celebrate life's m...
+  Updated: 2026-05-27T17:46:29Z
 
 ## Policies
 
