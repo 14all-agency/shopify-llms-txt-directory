@@ -6,7 +6,7 @@
 - Timezone: Asia/Karachi
 - Created At: 2026-01-12T16:35:39Z
 - Contact Email: duazanofficial@gmail.com
-- Updated At: 2026-05-29T17:40:55.615Z
+- Updated At: 2026-06-06T00:00:24.511Z
 
 ## Products
 
