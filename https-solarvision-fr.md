@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2021-12-17T16:53:59Z
 - Contact Email: solarvision.shop@gmail.com
-- Updated At: 2026-05-29T00:00:25.307Z
+- Updated At: 2026-06-06T16:45:11.889Z
 
 ## Products
 
@@ -41,7 +41,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_73752dda-6690-4f2d-9a48-207c81ef26c5.jpg?v=1772926993
     Price: 170,00 € EUR
 - [Maldives - Solar Vision](https://solarvision.fr/products/maldives): Découvrez les lunettes de soleil Solar Vision en acier inoxydable, alliant style moderne, confort et protection. Nos collections, de l'Essentiel au Luxe, répondent à tous les goûts et occasions. Matériaux Premium Acier inoxydable robuste : Pour une durabilité et une touche contemporaine. Protection UV Avancée Nos verres offrent une protection optimale contre les rayons UVA et UVB, garantissant votre sécurité au soleil. Confort Inégalé Montures ajustables : Assurent un ajustement parfait pour chaque visage. Explorez la collection Solar Vision et transformez chaque sortie en une déclaration de style avec nos lunettes de soleil en acier inoxydable. Idéales pour toutes les aventures ensoleillées, elles offrent un look sophistiqué et une protection maximale. Achetez vos lunettes de soleil Solar Vision maintenant et profitez d'une expérience visuelle exceptionnelle. - Solar Vision
-  Updated: 2026-05-13T12:28:03Z
+  Updated: 2026-06-03T20:49:56Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -49,33 +49,33 @@
   - [Noir](https://solarvision.fr/products/maldives?variant=42201789792468)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/Maldives-Solar-Vision-22815798.jpg?v=1769269169
-    Price: 130,00 € EUR
+    Price: 100,00 € EUR
   - [Brun](https://solarvision.fr/products/maldives?variant=42201789923540)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/Maldives-Solar-Vision-22815882.jpg?v=1769269168
-    Price: 130,00 € EUR
+    Price: 100,00 € EUR
   - [Rose](https://solarvision.fr/products/maldives?variant=42201789825236)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/Maldives-Solar-Vision-22815548.jpg?v=1769269168
-    Price: 130,00 € EUR
+    Price: 100,00 € EUR
   - [Orange](https://solarvision.fr/products/maldives?variant=42201789890772)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/Maldives-Solar-Vision-22815674.jpg?v=1769269169
-    Price: 130,00 € EUR
+    Price: 100,00 € EUR
   - [Rose / Bleu](https://solarvision.fr/products/maldives?variant=46810501873992)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/Maldives-Solar-Vision-22816164.jpg?v=1769269168
-    Price: 130,00 € EUR
+    Price: 100,00 € EUR
   - [Vert / Or](https://solarvision.fr/products/maldives?variant=46810501906760)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/Maldives-Solar-Vision-22815954-22815949.jpg?v=1769269167
-    Price: 130,00 € EUR
+    Price: 100,00 € EUR
   - [Bleu / Or](https://solarvision.fr/products/maldives?variant=46810501939528)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/Maldives-Solar-Vision-22816081.jpg?v=1769269169
-    Price: 130,00 € EUR
+    Price: 100,00 € EUR
 - [Abu Dhabi - Solar Vision](https://solarvision.fr/products/abu-dhabi): Lunettes de Soleil Solar Vision en Acier Inoxydable - Style, Confort et Protection UV Découvrez les lunettes de soleil Solar Vision en acier inoxydable, alliant style moderne, confort et protection. Nos collections, de l'Essentiel au Luxe, répondent à tous les goûts et occasions. Matériaux Premium Acier inoxydable robuste : Pour une durabilité et une touche contemporaine. Protection UV Avancée Nos verres offrent une protection optimale contre les rayons UVA et UVB, garantissant votre sécurité au soleil. Confort Inégalé Montures ajustables : Assurent un ajustement parfait pour chaque visage. Explorez la collection Solar Vision et transformez chaque sortie en une déclaration de style avec nos lunettes de soleil en acier inoxydable. Idéales pour toutes les aventures ensoleillées, elles offrent un look sophistiqué et une protection maximale. Achetez vos lunettes de soleil Solar Vision maintenant et profitez d'une expérience visuelle exceptionnelle. - Solar Vision
-  Updated: 2026-05-13T12:28:07Z
+  Updated: 2026-06-03T22:46:05Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -83,19 +83,19 @@
   - [Noir](https://solarvision.fr/products/abu-dhabi?variant=42202219970772)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/Abu-Dhabi-Solar-Vision-22823484.jpg?v=1736342727
-    Price: 130,00 € EUR
+    Price: 80,00 € EUR
   - [Brun](https://solarvision.fr/products/abu-dhabi?variant=46810494370120)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/Abu-Dhabi-Solar-Vision-22823383.jpg?v=1736342734
-    Price: 130,00 € EUR
+    Price: 80,00 € EUR
   - [Rouge](https://solarvision.fr/products/abu-dhabi?variant=46810494435656)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/Abu-Dhabi-Solar-Vision-22823239.jpg?v=1736342731
-    Price: 130,00 € EUR
+    Price: 80,00 € EUR
   - [Vert / Or](https://solarvision.fr/products/abu-dhabi?variant=46810494402888)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/Abu-Dhabi-Solar-Vision-22823527.jpg?v=1736342724
-    Price: 130,00 € EUR
+    Price: 80,00 € EUR
 - [Mexico - Solar Vision](https://solarvision.fr/products/mexico): Lunettes de Soleil Solar Vision - Découvrez le Monde avec Éclat et Élégance Plongez dans l'expérience Solar Vision, où chaque paire de lunettes de soleil est une fusion parfaite de style, de confort et de protection. Notre collection diversifiée, allant de la Gamme Essentiel à la Gamme Luxe, offre des options qui s'adaptent à tous les goûts et toutes les occasions. Matériaux de Haute Qualité : Nos lunettes de soleil sont conçues avec un engagement envers la qualité. Explorez le toucher luxueux de l'acétate, offrant légèreté et durabilité, ou optez pour la robustesse de l'acier inoxydable pour une touche moderne et contemporaine. Style Personnalisé : Choisissez parmi une palette de couleurs éblouissantes, des teintes classiques aux nuances vibrantes. Que vous préfériez l'audace du rouge, la sophistication du noir, ou l'élégance intemporelle du écaille de tortue, nos lunettes de soleil Solar Vision vous permettent de personnaliser votre style avec une variété de choix de couleurs. Protection UV Avancée : Peu importe le modèle que vous choisissez, soyez assuré que nos verres offrent une protection optimale contre les rayons UVA et UVB. Profitez du soleil en toute confiance, sachant que vos yeux sont protégés avec notre technologie de pointe. Confort Inégalé : Les montures ajustables, qu'elles soient en acétate ou en acier inoxydable, assurent un ajustement parfait pour chaque visage. Légèreté, durabilité et style se rencontrent pour créer des lunettes de soleil qui ne compromettent jamais le confort. Découvrez la collection Solar Vision dès aujourd'hui et transformez chaque instant en une déclaration de style. Des rues animées aux plages ensoleillées, nos lunettes de soleil sont votre compagnon idéal pour un voyage inoubliable à travers la vie. - Solar Vision
   Updated: 2026-05-13T12:28:11Z
   Vendor: Solar Vision
@@ -330,7 +330,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_557c0417-5cad-4e67-b3ef-526cc64309a5.jpg?v=1772927113
     Price: 100,00 € EUR
 - [Nairobi](https://solarvision.fr/products/nairobi): Découvrez les lunettes de soleil Solar Vision : un parfait mélange de style et de confort. Ajoutez une touche chic à votre look dès maintenant !
-  Updated: 2026-01-24T15:41:49Z
+  Updated: 2026-06-03T22:00:49Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -389,7 +389,7 @@ Commandez dès aujourd'hui pour une expérience solaire d'excellence
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/Moscou-Solar-Vision-22840866.jpg?v=1769269508
     Price: 70,00 € EUR
 - [Madras](https://solarvision.fr/products/madras): Découvrez les lunettes de soleil Solar Vision : un parfait mélange de style et de confort. Ajoutez une touche chic à votre look dès maintenant !
-  Updated: 2026-04-12T21:29:24Z
+  Updated: 2026-06-04T01:47:55Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -397,15 +397,15 @@ Commandez dès aujourd'hui pour une expérience solaire d'excellence
   - [Noir](https://solarvision.fr/products/madras?variant=52403825181000)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_3172c6bc-142e-431d-84b9-0c074f429113.jpg?v=1772927128
-    Price: 100,00 € EUR
+    Price: 120,00 € EUR
   - [Havane](https://solarvision.fr/products/madras?variant=52403825213768)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_7014368d-d456-4033-8f28-a25afd1d8e91.jpg?v=1772927129
-    Price: 100,00 € EUR
+    Price: 120,00 € EUR
   - [Gris](https://solarvision.fr/products/madras?variant=52403825246536)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_ed421423-cd39-4c51-9f38-fdf60c3ca280.jpg?v=1772927130
-    Price: 100,00 € EUR
+    Price: 120,00 € EUR
 - [Otaru](https://solarvision.fr/products/otaru): Découvrez les lunettes de soleil Solar Vision : un parfait mélange de style et de confort. Ajoutez une touche chic à votre look dès maintenant !
   Updated: 2026-01-24T15:34:10Z
   Vendor: Solar Vision
@@ -753,7 +753,7 @@ Commandez dès aujourd'hui pour une expérience solaire d'excellence
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/Brasiliacrystalrose_170.jpg?v=1769266805
     Price: 150,00 € EUR
 - [Brooklyn](https://solarvision.fr/products/brooklyn): Découvrez les lunettes de soleil Solar Vision : un parfait mélange de style et de confort. Ajoutez une touche chic à votre look dès maintenant !
-  Updated: 2026-02-01T20:30:52Z
+  Updated: 2026-06-03T22:01:07Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -779,7 +779,7 @@ Commandez dès aujourd'hui pour une expérience solaire d'excellence
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/Brooklyncrystalgris_170.jpg?v=1769269328
     Price: 50,00 € EUR
 - [Cancún](https://solarvision.fr/products/cancun): Découvrez les lunettes de soleil en acétate Solar Vision : un parfait mélange de style et de confort. Ajoutez une touche chic à votre look dès maintenant !
-  Updated: 2026-01-24T14:02:32Z
+  Updated: 2026-06-03T22:00:09Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -787,39 +787,39 @@ Commandez dès aujourd'hui pour une expérience solaire d'excellence
   - [Bleu nuit / Noir](https://solarvision.fr/products/cancun?variant=46810482901320)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/Adobe_Express_-_file_7.jpg?v=1769263341
-    Price: 120,00 € EUR
+    Price: 100,00 € EUR
   - [Bleu nuit / Crystal](https://solarvision.fr/products/cancun?variant=50064560980296)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/Adobe_Express_-_file_13.jpg?v=1769263340
-    Price: 120,00 € EUR
+    Price: 100,00 € EUR
   - [Bleu / Noir](https://solarvision.fr/products/cancun?variant=46810482934088)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/Adobe_Express_-_file_8.jpg?v=1769263340
-    Price: 120,00 € EUR
+    Price: 100,00 € EUR
   - [Bleu / Crystal Gris](https://solarvision.fr/products/cancun?variant=50064561013064)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/Adobe_Express_-_file_9.jpg?v=1769263341
-    Price: 120,00 € EUR
+    Price: 100,00 € EUR
   - [Bleu / Crystal](https://solarvision.fr/products/cancun?variant=50064561045832)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/Adobe_Express_-_file_17.jpg?v=1769263341
-    Price: 120,00 € EUR
+    Price: 100,00 € EUR
   - [Violet / Crystal](https://solarvision.fr/products/cancun?variant=50064561209672)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/Adobe_Express_-_file_11.jpg?v=1769263340
-    Price: 120,00 € EUR
+    Price: 100,00 € EUR
   - [Turquoise / Crystal](https://solarvision.fr/products/cancun?variant=50064561111368)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/Adobe_Express_-_file_16.jpg?v=1769263340
-    Price: 120,00 € EUR
+    Price: 100,00 € EUR
   - [Noir / Crystal Gris](https://solarvision.fr/products/cancun?variant=50064560914760)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/Adobe_Express_-_file_12.jpg?v=1769263340
-    Price: 120,00 € EUR
+    Price: 100,00 € EUR
   - [Noir / Crystal](https://solarvision.fr/products/cancun?variant=50064560947528)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/Adobe_Express_-_file_10.jpg?v=1769263340
-    Price: 120,00 € EUR
+    Price: 100,00 € EUR
 - [Dallas](https://solarvision.fr/products/dallas): Lunettes de Soleil Solar Vision en Acier Inoxydable - Style, Confort et Protection UV Découvrez les lunettes de soleil Solar Vision en acier inoxydable, alliant style moderne, confort et protection. Nos collections, de l'Essentiel au Luxe, répondent à tous les goûts et occasions. Matériaux Premium Acier inoxydable robuste : Pour une durabilité et une touche contemporaine. Protection UV Avancée Nos verres offrent une protection optimale contre les rayons UVA et UVB, garantissant votre sécurité au soleil. Confort Inégalé Montures ajustables : Assurent un ajustement parfait pour chaque visage. Explorez la collection Solar Vision et transformez chaque sortie en une déclaration de style avec nos lunettes de soleil en acier inoxydable. Idéales pour toutes les aventures ensoleillées, elles offrent un look sophistiqué et une protection maximale. Achetez vos lunettes de soleil Solar Vision maintenant et profitez d'une expérience visuelle exceptionnelle.
   Updated: 2026-03-26T07:50:27Z
   Vendor: Solar Vision
@@ -1266,17 +1266,17 @@ Plongez dans l'avenir de la mode avec la collection spatiale Solar Vision, où l
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_e60cb5f0-8380-4dfe-a663-052f21afc629.jpg?v=1772927483
     Price: 130,00 € EUR
 - [Manaus](https://solarvision.fr/products/manaus): Lunette de soleil Solar Vision Manaus en acier inoxydable alliant style moderne, confort durable et protection UV. Collections Essentiel à Luxe.
-  Updated: 2026-01-10T20:42:00Z
+  Updated: 2026-06-03T20:42:10Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_73231c0a-5180-48f7-91fe-853cfaa4075a.jpg?v=1768077718
   - [Noir](https://solarvision.fr/products/manaus?variant=48470581084488)
     Availability: Available
-    Price: 200,00 € EUR
+    Price: 150,00 € EUR
   - [Crystal](https://solarvision.fr/products/manaus?variant=48470581117256)
     Availability: Available
-    Price: 200,00 € EUR
+    Price: 150,00 € EUR
 - [Pluton](https://solarvision.fr/products/pluton): Collection Spatiale Solar Vision - Explorez l'Univers avec Style et Innovation
 Plongez dans l'avenir de la mode avec la collection spatiale Solar Vision, où le style
   Updated: 2026-02-10T01:25:17Z
@@ -1794,19 +1794,23 @@ Plongez dans l'avenir de la mode avec la collection spatiale Solar Vision
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_78e41a26-0b79-4567-8318-75b9e6a8f88b.jpg?v=1744510611
     Price: 50,00 € EUR
 - [Kyoto](https://solarvision.fr/products/kyoto): Découvrez les lunettes de soleil Solar Vision en acier inoxydable, alliant style moderne, confort et protection. Nos collections, de l'Essentiel au Luxe, répondent à tous les goûts et occasions. Matériaux Premium Acier inoxydable robuste : Pour une durabilité et une touche contemporaine. Protection UV Avancée Nos verres offrent une protection optimale contre les rayons UVA et UVB, garantissant votre sécurité au soleil. Confort Inégalé Montures ajustables : Assurent un ajustement parfait pour chaque visage. Explorez la collection Solar Vision et transformez chaque sortie en une déclaration de style avec nos lunettes de soleil en acier inoxydable. Idéales pour toutes les aventures ensoleillées, elles offrent un look sophistiqué et une protection maximale. Achetez vos lunettes de soleil Solar Vision maintenant et profitez d'une expérience visuelle exceptionnelle.
-  Updated: 2026-03-07T23:53:49Z
+  Updated: 2026-06-06T16:43:34Z
   Vendor: Solar Vision
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_7ecb4fc7-cfb6-42ea-8eca-0b7928de94e3.jpg?v=1772927628
-  - [Noir - Gris](https://solarvision.fr/products/kyoto?variant=50096584851784)
+  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_bd15692a-8f44-4773-8062-54afca498c45.jpg?v=1780536000
+  - [Noir](https://solarvision.fr/products/kyoto?variant=53229663912264)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_c61e259e-e14e-4dc5-a785-9321e1fbcf85.jpg?v=1772927626
-    Price: 50,00 € EUR
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_bd15692a-8f44-4773-8062-54afca498c45.jpg?v=1780536000
+    Price: 80,00 € EUR
   - [Brun](https://solarvision.fr/products/kyoto?variant=50096584884552)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_7ecb4fc7-cfb6-42ea-8eca-0b7928de94e3.jpg?v=1772927628
-    Price: 50,00 € EUR
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_74d4056d-8323-4e99-9e76-7bb2144cd65b.jpg?v=1780536010
+    Price: 80,00 € EUR
+  - [Gris](https://solarvision.fr/products/kyoto?variant=53229663945032)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_9caf4bfb-07d7-4b23-8a8a-c1e00af06fa4.jpg?v=1780536013
+    Price: 80,00 € EUR
 - [Toronto](https://solarvision.fr/products/toronto): Découvrez les lunettes de soleil en acétate Solar Vision : un parfait mélange de style et de confort. Ajoutez une touche chic à votre look dès maintenant !
   Updated: 2026-01-24T23:00:39Z
   Vendor: Solar Vision
@@ -1830,7 +1834,7 @@ Plongez dans l'avenir de la mode avec la collection spatiale Solar Vision
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_cc6385e4-0733-4222-92dd-ec6173f56857.jpg?v=1769295610
     Price: 180,00 € EUR
 - [Matara](https://solarvision.fr/products/matara): Lunette de soleil Solar Vision Matara en acier inoxydable alliant style moderne, confort durable et protection UV. Collections Essentiel à Luxe.
-  Updated: 2026-01-10T20:37:29Z
+  Updated: 2026-06-03T20:38:41Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1838,19 +1842,19 @@ Plongez dans l'avenir de la mode avec la collection spatiale Solar Vision
   - [Noir - Or](https://solarvision.fr/products/matara?variant=52290409234760)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_1b28dcc5-8b4b-428d-90ec-aca58e3d6663.jpg?v=1768077445
-    Price: 100,00 € EUR
+    Price: 120,00 € EUR
   - [Gris](https://solarvision.fr/products/matara?variant=52290409267528)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_c2c23f85-01b3-4499-97a2-e5040b7efe9e.jpg?v=1768077446
-    Price: 100,00 € EUR
+    Price: 120,00 € EUR
   - [Bleu](https://solarvision.fr/products/matara?variant=50096786080072)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_6b9c7284-5d5b-4ade-99c3-0e8931352873.jpg?v=1768077448
-    Price: 100,00 € EUR
+    Price: 120,00 € EUR
   - [Orange](https://solarvision.fr/products/matara?variant=52290409300296)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_86c4d0ce-f61f-4c30-9728-768d2ede6d9c.jpg?v=1768077445
-    Price: 100,00 € EUR
+    Price: 120,00 € EUR
 - [Boite de transport](https://solarvision.fr/products/boite-de-transport): Boîte de transport rigide 5 compartiments pour lunettes. Idéale pour protéger et organiser vos lunettes de soleil ou de vue en voyage.
   Updated: 2026-03-07T23:57:28Z
   Vendor: Solar Vision
@@ -1913,7 +1917,7 @@ Plongez dans l'avenir de la mode avec la collection spatiale Solar Vision
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_6fa30bfe-e247-485a-b897-4f21ae9a3c7d.jpg?v=1769978221
     Price: 130,00 € EUR
 - [Orlando](https://solarvision.fr/products/orlando): Découvrez les lunettes de soleil Solar Vision en acier inoxydable, alliant style moderne, confort et protection. Nos collections, de l'Essentiel au Luxe, répondent à tous les goûts et occasions. Matériaux Premium Acier inoxydable robuste : Pour une durabilité et une touche contemporaine. Protection UV Avancée Nos verres offrent une protection optimale contre les rayons UVA et UVB, garantissant votre sécurité au soleil. Confort Inégalé Montures ajustables : Assurent un ajustement parfait pour chaque visage. Explorez la collection Solar Vision et transformez chaque sortie en une déclaration de style avec nos lunettes de soleil en acier inoxydable. Idéales pour toutes les aventures ensoleillées, elles offrent un look sophistiqué et une protection maximale. Achetez vos lunettes de soleil Solar Vision maintenant et profitez d'une expérience visuelle exceptionnelle.
-  Updated: 2026-03-07T23:54:55Z
+  Updated: 2026-06-03T22:52:44Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1921,41 +1925,41 @@ Plongez dans l'avenir de la mode avec la collection spatiale Solar Vision
   - [Noir - Gris](https://solarvision.fr/products/orlando?variant=50142475354440)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_fc7b74fe-05e3-4b7f-adad-a3bf2979dd3b.jpg?v=1743586512
-    Price: 70,00 € EUR
+    Price: 80,00 € EUR
   - [Brun](https://solarvision.fr/products/orlando?variant=50142475387208)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_6c6a7372-1fcb-4f98-8f72-dc71b46258d7.jpg?v=1743586380
-    Price: 70,00 € EUR
+    Price: 80,00 € EUR
   - [Bleu](https://solarvision.fr/products/orlando?variant=50142475419976)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_b5a3c778-f520-4d4e-8f0c-840041b74c4c.jpg?v=1772927694
-    Price: 70,00 € EUR
+    Price: 80,00 € EUR
 - [Chennai](https://solarvision.fr/products/chennai): Découvrez les lunettes de soleil Solar Vision en acier inoxydable, alliant style moderne, confort et protection. Nos collections, de l'Essentiel au Luxe, répondent à tous les goûts et occasions. Matériaux Premium Acier inoxydable robuste : Pour une durabilité et une touche contemporaine. Protection UV Avancée Nos verres offrent une protection optimale contre les rayons UVA et UVB, garantissant votre sécurité au soleil. Confort Inégalé Montures ajustables : Assurent un ajustement parfait pour chaque visage. Explorez la collection Solar Vision et transformez chaque sortie en une déclaration de style avec nos lunettes de soleil en acier inoxydable. Idéales pour toutes les aventures ensoleillées, elles offrent un look sophistiqué et une protection maximale. Achetez vos lunettes de soleil Solar Vision maintenant et profitez d'une expérience visuelle exceptionnelle.
-  Updated: 2026-03-07T23:55:03Z
+  Updated: 2026-06-03T20:38:20Z
   Vendor: Solar Vision
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_462ec2cc-4751-4188-84ef-d3fdf63bac68.jpg?v=1772927695
   - [Noir - Gris](https://solarvision.fr/products/chennai?variant=50142953013576)
     Availability: Available
-    Price: 170,00 € EUR
+    Price: 140,00 € EUR
   - [Gris](https://solarvision.fr/products/chennai?variant=50142953177416)
     Availability: Available
-    Price: 170,00 € EUR
+    Price: 140,00 € EUR
   - [Vert](https://solarvision.fr/products/chennai?variant=52218076070216)
     Availability: Available
-    Price: 170,00 € EUR
+    Price: 140,00 € EUR
   - [Bleu](https://solarvision.fr/products/chennai?variant=50142953046344)
     Availability: Available
-    Price: 170,00 € EUR
+    Price: 140,00 € EUR
   - [Orange](https://solarvision.fr/products/chennai?variant=50142953079112)
     Availability: Available
-    Price: 170,00 € EUR
+    Price: 140,00 € EUR
   - [Rose](https://solarvision.fr/products/chennai?variant=50142953144648)
     Availability: Available
-    Price: 170,00 € EUR
+    Price: 140,00 € EUR
 - [Mumbai](https://solarvision.fr/products/mumbai): Découvrez les lunettes de soleil Solar Vision en acier inoxydable, alliant style moderne, confort et protection. Nos collections, de l'Essentiel au Luxe, répondent à tous les goûts et occasions. Matériaux Premium Acier inoxydable robuste : Pour une durabilité et une touche contemporaine. Protection UV Avancée Nos verres offrent une protection optimale contre les rayons UVA et UVB, garantissant votre sécurité au soleil. Confort Inégalé Montures ajustables : Assurent un ajustement parfait pour chaque visage. Explorez la collection Solar Vision et transformez chaque sortie en une déclaration de style avec nos lunettes de soleil en acier inoxydable. Idéales pour toutes les aventures ensoleillées, elles offrent un look sophistiqué et une protection maximale. Achetez vos lunettes de soleil Solar Vision maintenant et profitez d'une expérience visuelle exceptionnelle.
-  Updated: 2026-03-08T11:47:36Z
+  Updated: 2026-06-03T20:38:09Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1963,27 +1967,27 @@ Plongez dans l'avenir de la mode avec la collection spatiale Solar Vision
   - [Gris](https://solarvision.fr/products/mumbai?variant=52374283354440)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_c971035b-2522-46be-96e0-8547d227dcda.jpg?v=1772923141
-    Price: 170,00 € EUR
+    Price: 140,00 € EUR
   - [Rose](https://solarvision.fr/products/mumbai?variant=50146117026120)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_c1e4ad0e-4218-43d9-a3a2-7cd6ff3d93ac.jpg?v=1772923141
-    Price: 170,00 € EUR
+    Price: 140,00 € EUR
   - [Bleu](https://solarvision.fr/products/mumbai?variant=50146116239688)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_511d504b-337d-4b0b-9a84-4ecd22c81cc7.jpg?v=1772923141
-    Price: 170,00 € EUR
+    Price: 140,00 € EUR
   - [Crystal Vert](https://solarvision.fr/products/mumbai?variant=50146116272456)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_d42fd76f-dd5a-4646-b8be-70179a6f245e.jpg?v=1772923141
-    Price: 170,00 € EUR
+    Price: 140,00 € EUR
   - [Orange](https://solarvision.fr/products/mumbai?variant=50146119876936)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_317d2720-0c1a-4b6f-8933-e717980b202e.jpg?v=1772923141
-    Price: 170,00 € EUR
+    Price: 140,00 € EUR
   - [Noir](https://solarvision.fr/products/mumbai?variant=52374283387208)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_682dd343-7148-4108-93ac-5a5e2e8ad7d0.jpg?v=1772923141
-    Price: 170,00 € EUR
+    Price: 140,00 € EUR
 - [Turin](https://solarvision.fr/products/turin): Découvrez les lunettes de soleil Solar Vision en acier inoxydable, alliant style moderne, confort et protection. Nos collections, de l'Essentiel au Luxe, répondent à
   Updated: 2026-03-07T23:58:00Z
   Vendor: Solar Vision
@@ -2068,7 +2072,7 @@ Plongez dans l'avenir de la mode avec la collection spatiale Solar Vision
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_85f16888-31b5-4deb-a8d0-ffb0c60af21b.jpg?v=1772927713
     Price: 150,00 € EUR
 - [Séoul](https://solarvision.fr/products/seoul): Découvrez les lunettes de soleil Solar Vision : un parfait mélange de style et de confort. Ajoutez une touche chic à votre look dès maintenant !
-  Updated: 2026-03-07T23:55:19Z
+  Updated: 2026-06-03T20:36:54Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -2076,17 +2080,17 @@ Plongez dans l'avenir de la mode avec la collection spatiale Solar Vision
   - [Noir](https://solarvision.fr/products/seoul?variant=52289863188808)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_ccd8609d-e9c4-4cce-80b4-4256e6b21269.jpg?v=1769887193
-    Price: 130,00 € EUR
+    Price: 160,00 € EUR
   - [Gris](https://solarvision.fr/products/seoul?variant=52289863221576)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_8b32e798-4e96-42d6-914d-42e4d19884a8.jpg?v=1769887193
-    Price: 130,00 € EUR
+    Price: 160,00 € EUR
   - [Rose](https://solarvision.fr/products/seoul?variant=52289863254344)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_5a930c4d-c74f-4e7d-bb46-ed7f84e259d8.jpg?v=1772927718
-    Price: 130,00 € EUR
+    Price: 160,00 € EUR
 - [Incheon](https://solarvision.fr/products/incheon): Découvrez les lunettes de soleil Solar Vision : un parfait mélange de style et de confort. Ajoutez une touche chic à votre look dès maintenant !
-  Updated: 2026-03-07T23:55:24Z
+  Updated: 2026-06-03T20:37:03Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -2094,19 +2098,19 @@ Plongez dans l'avenir de la mode avec la collection spatiale Solar Vision
   - [Gris](https://solarvision.fr/products/incheon?variant=52289870496072)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_36e34928-b632-4a85-9829-ea519e55eab4.jpg?v=1772927719
-    Price: 140,00 € EUR
+    Price: 160,00 € EUR
   - [Bleu](https://solarvision.fr/products/incheon?variant=52289870659912)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_18cd5437-2ce4-45b0-b9b9-6e3f6b373896.jpg?v=1772927721
-    Price: 140,00 € EUR
+    Price: 160,00 € EUR
   - [Orange](https://solarvision.fr/products/incheon?variant=52289870692680)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_e3dcc035-9b06-492d-9bad-5246799896d8.jpg?v=1772927722
-    Price: 140,00 € EUR
+    Price: 160,00 € EUR
   - [Noir](https://solarvision.fr/products/incheon?variant=52289871413576)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_4677d27a-9331-449e-8573-b849b5e28940.jpg?v=1772927723
-    Price: 140,00 € EUR
+    Price: 160,00 € EUR
 - [Lyon](https://solarvision.fr/products/lyon): Découvrez les lunettes de soleil Solar Vision : un parfait mélange de style et de confort. Ajoutez une touche chic à votre look dès maintenant !
   Updated: 2026-03-07T23:55:29Z
   Vendor: Solar Vision
@@ -2284,7 +2288,7 @@ Plongez dans l'avenir de la mode avec la collection spatiale Solar Vision
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_520fa83c-e47c-4441-aeef-9af62f3ec8c5.jpg?v=1773879414
     Price: 150,00 € EUR
 - [Buenos Aires](https://solarvision.fr/products/buenos-aires): Découvrez les lunettes de soleil en acétate Solar Vision : un parfait mélange de style et de confort. Ajoutez une touche chic à votre look dès maintenant !
-  Updated: 2026-03-29T12:06:31Z
+  Updated: 2026-06-03T20:36:07Z
   Vendor: Solar Vision
   Product Type: 
   Availability: Available
@@ -2292,19 +2296,19 @@ Plongez dans l'avenir de la mode avec la collection spatiale Solar Vision
   - [Noir](https://solarvision.fr/products/buenos-aires?variant=52707424764232)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_831f6e31-b3aa-4d52-b2d3-a1d18f7f589c.jpg?v=1773890082
-    Price: 150,00 € EUR
+    Price: 120,00 € EUR
   - [Bordeaux](https://solarvision.fr/products/buenos-aires?variant=52707424797000)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_9003b6b7-6f1c-4fb1-b5aa-9a4057991840.jpg?v=1773890094
-    Price: 150,00 € EUR
+    Price: 120,00 € EUR
   - [Brun](https://solarvision.fr/products/buenos-aires?variant=52707424829768)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_aaa17a69-dc1f-49d3-87f2-9e3adbd5c0ee.jpg?v=1773890120
-    Price: 150,00 € EUR
+    Price: 120,00 € EUR
   - [Gris](https://solarvision.fr/products/buenos-aires?variant=52707424862536)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_58b0c7b3-7e5c-40a2-8e2e-2fa41bf9a65f.jpg?v=1773890121
-    Price: 150,00 € EUR
+    Price: 120,00 € EUR
 - [Prague](https://solarvision.fr/products/prague): Découvrez les lunettes de soleil en acétate Solar Vision : un parfait mélange de style et de confort. Ajoutez une touche chic à votre look dès maintenant !
   Updated: 2026-03-29T11:55:40Z
   Vendor: Solar Vision
@@ -2350,7 +2354,7 @@ Plongez dans l'avenir de la mode avec la collection spatiale Solar Vision
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_bff97de7-0d41-492e-945e-c7fbeeef3bbd.jpg?v=1777228282
     Price: 130,00 € EUR
 - [Nice - Solar Vision](https://solarvision.fr/products/nice): Lunettes de Soleil Solar Vision en Acier Inoxydable - Style, Confort et Protection UV Découvrez les lunettes de soleil Solar Vision en acier inoxydable, alliant style moderne, confort et protection. Nos collections, de l'Essentiel au Luxe, répondent à tous les goûts et occasions. Matériaux Premium Acier inoxydable robuste : Pour une durabilité et une touche contemporaine. Protection UV Avancée Nos verres offrent une protection optimale contre les rayons UVA et UVB, garantissant votre sécurité au soleil. Confort Inégalé Montures ajustables : Assurent un ajustement parfait pour chaque visage. Explorez la collection Solar Vision et transformez chaque sortie en une déclaration de style avec nos lunettes de soleil en acier inoxydable. Idéales pour toutes les aventures ensoleillées, elles offrent un look sophistiqué et une protection maximale. Achetez vos lunettes de soleil Solar Vision maintenant et profitez d'une expérience visuelle exceptionnelle. - Solar Vision
-  Updated: 2026-05-27T23:37:05Z
+  Updated: 2026-06-03T20:36:20Z
   Vendor: Solar Vision
   Product Type: 
   Availability: Available
@@ -2358,64 +2362,94 @@ Plongez dans l'avenir de la mode avec la collection spatiale Solar Vision
   - [Noir](https://solarvision.fr/products/nice?variant=53185420394824)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_1163c397-a418-45b9-9547-35bd9ab0fe99.jpg?v=1779854825
-    Price: 120,00 € EUR
+    Price: 100,00 € EUR
   - [Brun](https://solarvision.fr/products/nice?variant=53185420427592)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_9c9899fb-7989-48da-a4bd-b58aa397e607.jpg?v=1779854823
-    Price: 120,00 € EUR
+    Price: 100,00 € EUR
   - [Bleu](https://solarvision.fr/products/nice?variant=53185420460360)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_cbe04f32-27a4-42b0-b513-81685cd8bbc4.jpg?v=1779854821
-    Price: 120,00 € EUR
+    Price: 100,00 € EUR
   - [Gris](https://solarvision.fr/products/nice?variant=53185420493128)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_8f8add95-ca44-4316-a9ff-cf256727475d.jpg?v=1779854803
-    Price: 120,00 € EUR
-[List Continued](https://solarvision.fr/a/llms-agent/llms.txt?shop=solarvision-fr.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDA3NzMzMzI5MTMzNiwibGFzdF92YWx1ZSI6IjEwMDc3MzMzMjkxMzM2In0%3D)
+    Price: 100,00 € EUR
+- [Cannes - Solar Vision](https://solarvision.fr/products/cannes): Découvrez les lunettes de soleil Solar Vision en acétate, où style, confort et protection se rencontrent parfaitement. Nos collections, de l'Essentiel au Luxe, sont conçues pour répondre à tous les goûts et occasions. Matériaux Premium Acétate léger et durable : Pour un toucher luxueux et un confort supérieur. Protection UV Avancée Nos verres offrent une protection optimale contre les rayons UVA et UVB, assurant votre sécurité au soleil. Confort Inégalé Montures ajustables : S'adaptent parfaitement à chaque visage. Explorez la collection Solar Vision et faites de chaque sortie une déclaration de style avec nos lunettes de soleil en acétate. Parfaites pour toutes les aventures ensoleillées, elles offrent un look impeccable et une protection maximale. Achetez vos lunettes de soleil Solar Vision maintenant et profitez d'une expérience visuelle exceptionnelle. - Solar Vision
+  Updated: 2026-06-04T11:36:45Z
+  Vendor: Solar Vision
+  Product Type: Lunettes de soleil
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_f2091b43-bf80-4b6b-8893-d362b583ec16.jpg?v=1780518556
+  - [Noir](https://solarvision.fr/products/cannes?variant=53229066912072)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_f2091b43-bf80-4b6b-8893-d362b583ec16.jpg?v=1780518556
+    Price: 140,00 € EUR
+  - [Brun](https://solarvision.fr/products/cannes?variant=53229066944840)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_068e58bc-4c12-4e50-a10d-03852fec0b7b.jpg?v=1780518640
+    Price: 140,00 € EUR
+  - [Gris](https://solarvision.fr/products/cannes?variant=53229076021576)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_23fae138-a5fa-4abf-967a-5d254d285a19.jpg?v=1780518642
+    Price: 140,00 € EUR
+  - [Crystal Vert](https://solarvision.fr/products/cannes?variant=53229066977608)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_e5259604-a476-41cd-a497-60af54eeddb1.jpg?v=1780518644
+    Price: 140,00 € EUR
+  - [Bleu](https://solarvision.fr/products/cannes?variant=53229067010376)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_16aaeffa-43d3-4b86-88fc-c21dbe0e66e5.jpg?v=1780518646
+    Price: 140,00 € EUR
+  - [Crystal](https://solarvision.fr/products/cannes?variant=53229067043144)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_bcb474fa-ac70-4b20-ad55-52fb81e3bb60.jpg?v=1780518648
+    Price: 140,00 € EUR
+[List Continued](https://solarvision.fr/a/llms-agent/llms.txt?shop=solarvision-fr.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDA4NjE5NzU1OTYyNCwibGFzdF92YWx1ZSI6IjEwMDg2MTk3NTU5NjI0In0%3D)
 
 ## Collections
 
 - [GAMME ESSENTIELLE - Solar Vision](https://solarvision.fr/collections/gamme-essentielle): Explorez l'Élégance Quotidienne avec la Gamme Essentielle de Solar Vision. La Gamme Essentielle incarne la simplicité , conçues pour ceux qui apprécient l'élégance au quotidien. Les lignes épurées et les détails soigneusement travaillés pour ceux qui recherchent un style intemporel. - Solar Vision
-  Updated: 2026-05-27T04:07:49Z
+  Updated: 2026-06-04T01:15:40Z
   Total Products: 32
 - [GAMME LUXE - Solar Vision](https://solarvision.fr/collections/gamme-luxe): Élevez votre Style avec la Gamme Luxe de Solar Vision. La Gamme Luxe représente le summum de l'élégance, chaque paire est une œuvre d'art, fusionnant design contemporain et détails luxueux. Les lunettes de la Gamme Luxe sont bien plus qu'un accessoire, elles sont une déclaration de style affirmée pour les connaisseurs exigeants. - Solar Vision
-  Updated: 2026-05-13T12:27:59Z
-  Total Products: 30
+  Updated: 2026-06-04T20:27:56Z
+  Total Products: 31
 - [Meilleures Ventes - Solar Vision](https://solarvision.fr/collections/meilleures-ventes): Découvrez nos modèles incontournables ! Plongez dans notre sélection de lunettes de soleil les plus prisée, adoptez les tendances qui subliment chaque look ! - Solar Vision
-  Updated: 2026-05-13T12:28:00Z
+  Updated: 2026-06-02T00:57:21Z
   Total Products: 8
 - [Femme - Solar Vision](https://solarvision.fr/collections/femme): Révélez votre élégance grâce à nos modèles raffinés, fusionnant glamour et tendances. Choisissez parmi nos incontournables pour un style captivant. Explorez la collection et faites resplendir votre look. - Solar Vision
-  Updated: 2026-05-27T04:08:14Z
+  Updated: 2026-06-04T20:27:56Z
   Total Products: 60
 - [Homme - Solar Vision](https://solarvision.fr/collections/homme): Découvrez l'essence du style masculin, des designs alliant élégance et performance. Choisissez parmi nos favoris pour une allure distinctive. Adoptez le look qui vous distingue. - Solar Vision
-  Updated: 2026-05-27T04:08:14Z
-  Total Products: 75
+  Updated: 2026-06-04T20:27:56Z
+  Total Products: 76
 - [Nouveautés - Solar Vision](https://solarvision.fr/collections/nouveautes): Découvrez nos dernières collections, alliant designs modernes et confort exceptionnel. Restez à la pointe de la mode avec nos modèles innovants. Explorez nos nouveautés dès maintenant ! - Solar Vision
-  Updated: 2026-05-27T04:07:49Z
-  Total Products: 36
+  Updated: 2026-06-03T20:38:43Z
+  Total Products: 37
 - [GAMME SPATIALE - Solar Vision](https://solarvision.fr/collections/gamme-spatiale): Découvrez l'Avenir avec la Gamme Spatiale de Solar Vision. Inspirée par l'innovation et la technologie de pointe, chaque paire offre une esthétique futuriste, parfaite pour ceux qui veulent être à la pointe de la mode. - Solar Vision
   Updated: 2026-05-13T12:28:02Z
   Total Products: 9
 - [GAMME VINTAGE - Solar Vision](https://solarvision.fr/collections/gamme-vintage): Revivez le Charme du Passé avec la Gamme Vintage de Solar Vision. La nostalgie rencontre le style , chaque paire est un hommage aux époques iconiques du passé, avec des designs rétro revisités pour s'adapter aux tendances contemporaines. - Solar Vision
-  Updated: 2026-05-13T12:28:02Z
+  Updated: 2026-06-03T22:52:45Z
   Total Products: 41
 - [ - Solar Vision](https://solarvision.fr/collections/): Découvrez l'élégance avec nos Collections en , parfaits pour ajouter une touche de sophistication à votre style. Ne manquez pas ces offres exclusives ! - Solar Vision
-  Updated: 2026-05-13T12:28:03Z
-  Total Products: 23
+  Updated: 2026-06-06T16:43:34Z
+  Total Products: 25
 - [GAMME SPORT - Solar Vision](https://solarvision.fr/collections/gamme-sport): Surpassez vous avec la Gamme Sport de Solar Vision Lancez vous dans une aventure sportive , chaque paire incarne la dynamique et la performance. Une fusion parfaite entre fonctionnalité et style, vous permettant de repousser vos limites ! - Solar Vision
-  Updated: 2026-05-13T12:28:03Z
+  Updated: 2026-06-02T05:21:21Z
   Total Products: 3
 - [Best  Products - Solar Vision](https://solarvision.fr/collections/best--products): - Solar Vision
-  Updated: 2026-05-27T04:07:49Z
-  Total Products: 144
+  Updated: 2026-06-04T20:27:56Z
+  Total Products: 145
 - [Newest Products - Solar Vision](https://solarvision.fr/collections/newest-products): - Solar Vision
-  Updated: 2026-05-27T04:07:49Z
-  Total Products: 144
+  Updated: 2026-06-04T20:27:56Z
+  Total Products: 145
 - [Accessoires - Solar Vision](https://solarvision.fr/collections/accessoires): - Solar Vision
   Updated: 2026-05-26T11:09:24Z
   Total Products: 4
 - [VISION GENESIS - Solar Vision](https://solarvision.fr/collections/lunettes-connectees): - Solar Vision
-  Updated: 2026-05-13T12:28:05Z
+  Updated: 2026-06-02T13:58:47Z
   Total Products: 3
 - [VISION QY Pro - Solar Vision](https://solarvision.fr/collections/lunettes-de-sport-qy-pro): - Solar Vision
   Updated: 2026-05-13T12:28:06Z
