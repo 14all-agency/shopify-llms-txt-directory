@@ -10,12 +10,12 @@
 - Contact Email: info@vellutto.eu
 - Contact Phone: +31631221023
 - Address: Torenlaan 5B, 1402 AT, Bussum
-- Updated At: 2026-05-30T00:00:34.394Z
+- Updated At: 2026-06-06T00:00:36.639Z
 
 ## Products
 
 - [Wendougee DATA S Espresso Machine, Pressure Profiling, Double Boiler](https://vellutto.eu/products/wendougee-data-s-espresso-machine): Wendougee DATA S — 2-5 days delivery in the EU/EEA, dual boiler espresso machine with gear-pump pressure & flow profiling, 2-yr warranty | Vellutto.
-  Updated: 2026-05-28T14:06:37Z
+  Updated: 2026-06-05T13:14:46Z
   Vendor: Wendougee
   Product Type: Espresso Machine
   Availability: Available
@@ -32,8 +32,22 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/gray-Wendougee-Data-S-High-End-Home-Espresso-Machine-for-Caf-Quality-Brewing_Vellutto.png?v=1777636745
     Price: €3,695.00 EUR
+- [Wendougee LITA BA | Espresso Machine, Pressure Profiling, dual boiler](https://vellutto.eu/products/wendougee-lita-ba-espresso-machine): Wendougee LITA BA — 2-5 days delivery in the EU/EEA, dual boiler espresso machine with dual-pumps, pressure & flow profiling, 2-yr warranty | Vellutto.
+  Updated: 2026-06-03T20:29:46Z
+  Vendor: Wendougee
+  Product Type: Espresso Machine
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/a04992_90b7e41196f148af91d69489f872d00e_mv2.avif?v=1775678902
+  - [Black](https://vellutto.eu/products/wendougee-lita-ba-espresso-machine?variant=61552384147786)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/Vellutto.nl_Wendougee_LITA_2.webp?v=1776277131
+    Price: €2,299.00 EUR
+  - [White](https://vellutto.eu/products/wendougee-lita-ba-espresso-machine?variant=61552384180554)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/a04992_90b7e41196f148af91d69489f872d00e_mv2.avif?v=1775678902
+    Price: €2,299.00 EUR
 - [Wendougee MILO Play | 64mm Single-Dose Espresso Grinder](https://vellutto.eu/products/wendougee-milo-play): Wendougee MILO Play single-dose grinder — 64mm burrs, 400W brushless motor, variable 200–1000 RPM, micron-precise. E-Bar app. EU/EEA shipping, Vellutto.
-  Updated: 2026-05-23T20:27:56Z
+  Updated: 2026-05-31T13:35:37Z
   Vendor: Wendougee
   Product Type: Coffee Grinder
   Availability: Available
@@ -67,6 +81,20 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/Wendougee-ARES-White_Vellutto.eu.webp?v=1777714423
     Price: €1,649.00 EUR
+- [Wendougee LITA LA | Espresso Machine, Pressure Profiling, dual boiler](https://vellutto.eu/products/wendougee-lita-la-espresso-machine): Wendougee LITA LA — 2-5 days delivery in the EU/EEA, dual boiler espresso machine with dual-pumps, pressure & flow profiling, 2-yr warranty | Vellutto.
+  Updated: 2026-06-05T13:30:01Z
+  Vendor: Wendougee
+  Product Type: Espresso Machine
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/Wendouge_LITA_LA_Black.webp?v=1778248642
+  - [Black](https://vellutto.eu/products/wendougee-lita-la-espresso-machine?variant=61758314611018)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/Vellutto.nl_Wendougee_LITA_2.webp?v=1776277131
+    Price: €2,499.00 EUR
+  - [White](https://vellutto.eu/products/wendougee-lita-la-espresso-machine?variant=61758314643786)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/a04992_90b7e41196f148af91d69489f872d00e_mv2.avif?v=1775678902
+    Price: €2,499.00 EUR
 - [LeBrew 64mm Series Flat Burrs](https://vellutto.eu/products/lebrew-64mm-series-flat-burrs-espresso-lebrew-sweet-filter): Professional-grade 64 mm flat burrs engineered for clarity, sweetness, and consistency. DC53 tool steel, TiAlN coating, 60–62 HRC hardness, and precision 5-axis grinding deliver long life (up to 1,500–2,000 kg) and reliably uniform particle distributions—optimized in three profiles: Espresso, LeBrew Sweet, and Filter.Why upgrade to LeBrew 64mm Premium materials & heat : DC53 (Cr8Mo2SiV) tool steel, hardened to 60–62 HRC, tempered 3× after heating to ≈1040 °C for dimensional stability and wear resistance. Reinforced TiAlN coating: ~3 µm conductive coating, ≈3000 HV microhardness, stable to ≈800 °C—extends sharpness and resists heat, corrosion, and fatigue. Long service life: Rated for ~1,500–2,000 kg of coffee. Precision manufacturing: Full-grind machining with imported 5-axis equipment; parallelism and dimensional checks; CAMSIZER X2 particle analysis to validate size & shape distribution. Dialed-in flavor options: Three geometries tuned for brew method and taste—Espresso (body/structure), LeBrew Sweet (rounded sweetness, finish), Filter (clarity/clean cup).
   Updated: 2026-05-22T08:37:06Z
   Vendor: LeBrew
@@ -85,11 +113,18 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/74f5bdd2504f3e6562fa11307a538c4f.avif?v=1778413524
     Price: €149.00 EUR
+- [RoastSee Fusion – All‑in‑One Coffee Analyzer for Roasters](https://vellutto.eu/products/roastsee-fusion-coffee-analyzer): RoastSee Fusion measures Agtron roast color, moisture, density and water activity, green and roasted coffee. A complete, data‑driven analyzer for pro roasters.
+  Updated: 2026-06-02T23:08:18Z
+  Vendor: LEBREW
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/Fusion-1.png?v=1780398495
+  Price: €899.00 EUR
 
 ## Collections
 
 - [Espresso Machines with Flow Control & Pressure Profiling | Vellutto](https://vellutto.eu/collections/espresso-machines): Shop high-end espresso machines built for pressure profiling and flow control. Wendougee, WPM, ACS & more — shipped across the EU from Vellutto.
-  Updated: 2026-05-29T11:59:14Z
+  Updated: 2026-06-04T11:40:59Z
   Total Products: 10
 - [Coffee GrinderCoffee Grinders | Espresso & Filter Grinder | Vellutto](https://vellutto.eu/collections/coffee-grinder): Shop precision espresso and filter coffee grinders from WPM and Wendougee. Single-dose, low-retention, flat & conical burrs. EU & EEA shipping.
   Updated: 2026-05-24T11:24:52Z
@@ -98,13 +133,13 @@
   Updated: 2026-05-21T19:12:58Z
   Total Products: 0
 - [Espresso accessories & barista tools | Vellutto.eu](https://vellutto.eu/collections/accessories-tools): Shop espresso accessories and barista tools at Vellutto.eu, from tampers and milk pitchers to cleaning supplies, with fast, fully insured shipping across Europe
-  Updated: 2026-05-23T10:08:54Z
-  Total Products: 1
+  Updated: 2026-06-02T14:04:07Z
+  Total Products: 2
 - [All Products | espresso machines, grinders, accessories  | Vellutto.eu](https://vellutto.eu/collections/all-products): Browse all products at Vellutto, premium Wendougee espresso machines to WPM grinders and El Rocio equipment and more, fully insured shipping across Europe.
-  Updated: 2026-05-29T11:59:14Z
+  Updated: 2026-06-04T11:40:59Z
   Total Products: 15
 - [Wendougee | pressure and flow control espresso machine](https://vellutto.eu/collections/wendougee): Shop Wendougee espresso machines — dual boiler, gear pump, pressure profiling flow control & app control. DATA S, LITA, Sdragon. EU/EEA shipping | Vellutto
-  Updated: 2026-05-26T11:31:12Z
+  Updated: 2026-06-05T00:23:55Z
   Total Products: 8
 - [Brands | Wendougee, WPM, ACS & More | Vellutto.eu](https://vellutto.eu/collections/brands): Discover all the brands we  at Vellutto.eu, including Wendougee, WPM, ACS and more, shipping EU‑EEA wide for serious home baristas.
   Updated: 2026-05-23T09:39:19Z
@@ -121,14 +156,25 @@
 - [ACS | espresso machines from Naples | Vellutto.eu](https://vellutto.eu/collections/acs): Discover ACS (Advanced Coffee Solution) espresso machines from Naples: dual boiler, lever and pressure-profiling technology for serious home baristas and small cafés across Europe.
   Updated: 2026-05-23T09:56:06Z
   Total Products: 0
+- [LeBrew – Intelligent Coffee Measurement & Quality Tools](https://vellutto.eu/collections/lebrew): LeBrew makes smart coffee detection tools for roasters and coffee professionals, helping improve precision, quality control, and brewing consistency
+  Updated: 2026-06-02T14:04:07Z
+  Total Products: 2
 
 ## Blogs
 
 - [Blog](https://vellutto.eu/blogs/news)
-  - [How to Steam Milk with Microfoam for Latte Art](https://vellutto.eu/blogs/news/how-to-steam-milk-with-microfoam-for-latte-art-2026-guide-step-by-step-science-explained): <p><meta charset="utf-8">Great latte art starts with the milk, not the pour. Master micro-foam in five moves: start cold, stretch with a hiss, spin a whirlpool, stop at 60°C, then tap and swirl. The science is simple — proteins wrap around air bubbles when heated just right. Get it dialed, and espresso becomes art.</p>
-    Updated: 2026-05-21T10:41:13Z
+  - [latte art for beginners How to Steam Milk with Microfoam](https://vellutto.eu/blogs/news/how-to-steam-milk-with-microfoam-for-latte-art-2026-guide-step-by-step-science-explained): latte art for beginners How to Steam Milk with Microfoam
+    Updated: 2026-05-30T15:21:48Z
     Author: Amro Albadich
     Tags: Steam Milk
+  - [Pressure and flow profiling explained the science espresso](https://vellutto.eu/blogs/news/the-science-behind-pressure-profiling-and-flow-profiling): Pressure and flow profiling explained the science espresso
+    Updated: 2026-05-30T15:18:22Z
+    Author: Amro Albadich
+    Tags: Pressure and Flow Control Effect on Espresso
+  - [Fellow Series 1 vs WPM Primus: The Espresso Machine To Buy?](https://vellutto.eu/blogs/news/fellow-series-1-vs-wpm-primus-which-espresso-machine-should-you-buy): Fellow Series 1 vs WPM Primus: The Espresso Machine To Buy?
+    Updated: 2026-06-05T11:25:20Z
+    Author: Amro Albadich
+    Tags: Fellow Series 1 vs WPM Primus
 
 ## Store Pages
 
@@ -136,8 +182,8 @@
   Updated: 2026-05-12T19:39:06Z
 - [WPM Coffee: Crafting Quality Coffee Equipment | Vellutto](https://vellutto.eu/pages/wpm-welhome-pro): WPM — also known as Welhome Pro — is one of Asia's most established espresso equipment makers. The brand was created in 1994 by Hong Kong industria...
   Updated: 2026-05-12T19:39:06Z
-- [Wendougee| A Journey from Café to Global Brand](https://vellutto.eu/pages/wendougee): Who Is Wendougee? The Story of "温豆季 (Wēn Dòu Jì)" Wendougee — "温豆季 (Wēn Dòu Jì)" in Chinese, which is translated to Warm Bean Session — is a specia...
-  Updated: 2026-05-15T09:52:38Z
+- [Wendougee | Wendougee Espresso Machines & Grinders | Vellutto.eu](https://vellutto.eu/pages/wendougee): Who Is Wendougee? The Story of "温豆季 (Wēn Dòu Jì)" Wendougee — "温豆季 (Wēn Dòu Jì)" in Chinese, which is translated to Warm Bean Session — is a specia...
+  Updated: 2026-06-05T13:17:15Z
 - [Vellutto FAQ: Espresso Machine Shipping, Warranty & Setup](https://vellutto.eu/pages/faq): Vellutto is a specialty coffee equipment retailer based in Netherlands. We ship prosumer and commercial espresso machines and grinders across the E...
   Updated: 2026-05-12T19:39:06Z
 - [ACS](https://vellutto.eu/pages/acs)
