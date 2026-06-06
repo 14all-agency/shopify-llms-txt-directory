@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-01-30T21:19:15Z
 - Contact Email: info@drinkandreina.com
-- Updated At: 2026-05-26T00:00:26.211Z
+- Updated At: 2026-06-06T00:00:34.574Z
 
 ## Products
 
@@ -27,7 +27,7 @@
   Updated: 2026-05-20T11:30:30Z
   Total Products: 1
 - [New! Shopify performance sharing is now turned on](https://drinkandreina.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-05-20T11:30:30Z
+  Updated: 2026-06-02T18:53:08Z
   Total Products: 1
 
 ## Store Pages
