@@ -6,7 +6,7 @@
 - Timezone: America/Denver
 - Created At: 2026-04-17T23:45:10Z
 - Contact Email: hello@foreverlovegifts.com
-- Updated At: 2026-05-29T00:00:38.673Z
+- Updated At: 2026-06-07T00:00:42.233Z
 
 ## Products
 
@@ -1995,6 +1995,18 @@
     Author: User
   - [Why Giving Gifts Feels So Good](https://foreverlovegifts.com/blogs/news/why-giving-gifts-feels-so-good): Why Giving Gifts Feels So Good
     Updated: 2026-05-27T00:33:12Z
+    Author: User
+  - [Find the Perfect Gift to Make Them Smile](https://foreverlovegifts.com/blogs/news/find-the-perfect-gift-to-make-them-smile): Find the Perfect Gift to Make Them Smile
+    Updated: 2026-05-30T00:20:40Z
+    Author: User
+  - [How to Choose a Gift That Says You Care](https://foreverlovegifts.com/blogs/news/how-to-choose-a-gift-that-says-you-care): How to Choose a Gift That Says You Care
+    Updated: 2026-05-31T00:31:53Z
+    Author: User
+  - [Understanding Gifts That Speak from the Heart](https://foreverlovegifts.com/blogs/news/understanding-gifts-that-speak-from-the-heart): Understanding Gifts That Speak from the Heart
+    Updated: 2026-06-03T00:43:50Z
+    Author: User
+  - [The History of Giving and Why It Matters](https://foreverlovegifts.com/blogs/news/the-history-of-giving-and-why-it-matters): The History of Giving and Why It Matters
+    Updated: 2026-06-06T00:21:05Z
     Author: User
 
 ## Store Pages
