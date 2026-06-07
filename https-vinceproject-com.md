@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-12-18T18:28:53Z
 - Contact Email: vitrax1992@gmail.com
-- Updated At: 2026-05-30T00:00:38.933Z
+- Updated At: 2026-06-07T00:01:00.693Z
 
 ## Products
 
@@ -102,19 +102,19 @@
   Image: https://cdn.shopify.com/s/files/1/0882/0378/8636/files/DCA2549.jpg?v=1778746966
   Price: £55.05 GBP
 - [vivo iQOO Neo10 Pro - 16GB RAM, 256GB Storage, 6.78 inch Android 15](https://vinceproject.com/products/vivo-iqoo-neo10-pro-16gb-256gb-face-id-screen-fingerprint-identification-6-78-inch-android-15-originos-5-dimensity-9400-octa-core-otg-nfc-network-5g-support-google-play-black): Discover the vivo iQOO Neo10 Pro featuring 16GB RAM, 256GB storage, Face ID, Screen Fingerprint, and powerful Dimensity 9400 Octa Core. Explore now!
-  Updated: 2026-05-14T08:24:09Z
+  Updated: 2026-06-04T05:42:53Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0882/0378/8636/files/MPH2693B.jpg?v=1750965150
-  Price: £918.51 GBP
+  Price: £942.05 GBP
 - [vivo iQOO Neo10 Pro - 12GB RAM, 512GB Storage, 6.78 inch AMOLED](https://vinceproject.com/products/vivo-iqoo-neo10-pro-12gb-512gb-face-id-screen-fingerprint-identification-6-78-inch-android-15-originos-5-dimensity-9400-octa-core-otg-nfc-network-5g-support-google-play-white): Discover the vivo iQOO Neo10 Pro featuring 12GB RAM, 512GB storage, Face ID, Screen Fingerprint, and a 6.78 inch AMOLED display with Android 15.5.
-  Updated: 2026-05-14T08:23:08Z
+  Updated: 2026-06-06T05:42:54Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0882/0378/8636/files/MPH2692W.jpg?v=1750965141
-  Price: £946.53 GBP
+  Price: £975.71 GBP
 - [ProsKit DP-366A 38cm-Hg Tin Suction Machine Anti-static Desoldering Pump](https://vinceproject.com/products/proskit-dp-366a-38cm-hg-tin-suction-machine-anti-static-desoldering-pump): Discover the ProsKit DP-366A with 38cm-Hg suction force, perfect for desoldering in factories, maintenance, and schools. Easy to operate with replaceable head.
   Updated: 2026-05-14T08:23:34Z
   Vendor: My Store
@@ -165,12 +165,12 @@
   Image: https://cdn.shopify.com/s/files/1/0882/0378/8636/files/TBD06055862.jpg?v=1778747033
   Price: £17.93 GBP
 - [Motorola Moto G15 Screen Protector - 10pcs ENKAY Tempered Glass Film](https://vinceproject.com/products/for-motorola-moto-g15-10pcs-enkay-9h-big-arc-edge-high-aluminum-silicon-tempered-glass-film): Enhance your Motorola Moto G15 with this 10pcs ENKAY high aluminum-silicon tempered glass film. Enjoy HD clarity, case-friendly design, and effortless application.
-  Updated: 2026-05-14T08:24:31Z
+  Updated: 2026-05-30T05:40:50Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0882/0378/8636/files/SYA002627024.jpg?v=1778747058
-  Price: £20.47 GBP
+  Price: £20.99 GBP
 - [Motorola Moto G54 ENKAY Tempered Glass Screen Protector - High Aluminum-Silicon Edge, HD Clarity](https://vinceproject.com/products/for-motorola-moto-g54-enkay-9h-big-arc-edge-high-aluminum-silicon-tempered-glass-film): Protect your Motorola Moto G54 with the ENKAY 9H Big Arc Edge Tempered Glass Film featuring HD clarity, case-friendliness, and easy bubble-free application. Shop now!
   Updated: 2026-05-14T08:23:34Z
   Vendor: My Store
@@ -214,12 +214,12 @@
   Image: https://cdn.shopify.com/s/files/1/0882/0378/8636/files/EDA007476117B.jpg?v=1778747035
   Price: £16.33 GBP
 - [Motorola Moto G54 Tempered Glass Screen Protector - Enkay 10pcs](https://vinceproject.com/products/for-motorola-moto-g54-10pcs-enkay-9h-big-arc-edge-high-aluminum-silicon-tempered-glass-film): Buy the best Motorola Moto G54 tempered glass protector. Enkay 10pcs with 9H hardness, edge arc, HD clarity, and case-friendly design. Shop now!
-  Updated: 2026-05-14T08:24:33Z
+  Updated: 2026-05-30T05:40:52Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0882/0378/8636/files/SYA002627023.jpg?v=1750965192
-  Price: £20.47 GBP
+  Price: £20.99 GBP
 - [iPhone 14 Plus Alligator Texture PU Phone Case - Stylish & Protective](https://vinceproject.com/products/for-iphone-14-plus-vietao-alligator-texture-pu-phone-casebrown): Shop the iPhone 14 Plus VIETAO Alligator Texture PU Phone Case, offering luxury crocodile design, solid protection, and anti-fingerprint surface for daily use.
   Updated: 2026-05-14T08:24:49Z
   Vendor: My Store
@@ -333,12 +333,12 @@
   Image: https://cdn.shopify.com/s/files/1/0882/0378/8636/files/MPH2694E.jpg?v=1750965333
   Price: £1,037.83 GBP
 - [vivo iQOO Neo10 Pro, 16GB+256GB, 5G, Face ID & Fingerprint](https://vinceproject.com/products/vivo-iqoo-neo10-pro-16gb-256gb-face-id-screen-fingerprint-identification-6-78-inch-android-15-originos-5-dimensity-9400-octa-core-otg-nfc-network-5g-support-google-play-orange): Explore the vivo iQOO Neo10 Pro featuring Dimensity 9400, Android 15, 6.78-inch AMOLED display, 16GB RAM, 256GB storage, 5G connectivity, and more.
-  Updated: 2026-05-14T08:22:52Z
+  Updated: 2026-06-04T05:42:57Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0882/0378/8636/files/MPH2693E.jpg?v=1750965357
-  Price: £918.51 GBP
+  Price: £942.05 GBP
 - [Redmi Note 14 5G Tempered Glass ENKAY Hat-Prince 10pcs](https://vinceproject.com/products/for-redmi-note-14-5g-10pcs-enkay-hat-prince-full-glue-high-aluminum-silicon-tempered-glass-film): Protect your Redmi Note 14 5G with ENKAY Hat-Prince tempered glass. Offers high hardness, ultra-thin design, and excellent adhesion for lasting phone safety.
   Updated: 2026-05-14T08:22:52Z
   Vendor: My Store
@@ -452,26 +452,26 @@
   Image: https://cdn.shopify.com/s/files/1/0882/0378/8636/files/SYA002479110A.jpg?v=1734632007
   Price: £15.65 GBP
 - [vivo iQOO Neo10 Pro, 16GB+256GB, Face ID / Screen Fingerprint Identification, 6.78 inch Android 15 OriginOS 5 Dimensity 9400 Octa Core, OTG, NFC, Network: 5G, Support Google Play (White)](https://vinceproject.com/products/vivo-iqoo-neo10-pro-16gb-256gb-face-id-screen-fingerprint-identification-6-78-inch-android-15-originos-5-dimensity-9400-octa-core-otg-nfc-network-5g-support-google-play-white): Specifications: 1. CPU: Dimensity 9400, octa-core, 64 bit, 3nm, 3.626GHz x 1 + 3.3GHz x 3+2.4GHz x 4 2. GPU: Immortalis-G925 3. SIM: Dual SIM (Nano-SIM, dual standby) 4. Memory: 16GB LPDDR5X Ultra + 256GB UFS 4.1 5. Operating System: Android 15, OriginOS 5 6. Battery: 6100mAh, non-removable 7. Charging: 120W, support 20V/6A, compatible with 20V/5A, 20V/3A, 11V/5A, 11V/4A, 11V/3A, 9V/2A or 5V/2A 8. Unlock Method: Facial recognition, ultrasonic 3D fingerprint 9. Sensors: Gravity sensor, light sensor, proximity sensor, gyroscope, electronic compass, front color temperature sensor, ultrasonic 3D fingerprint sensor, infrared remote control, flicker sensor, X-axis linear motor 10. Language: Arabic, Bengali, Burmese, Dutch, English, French, Filipino, German, Hindi, Indonesian, Italian, Japanese, Khmer, Malay, Portuguese, Russian, Romanian, Spanish, Thai, Vietnamese, Nepali, Urdu, Sinhalese, Laotian, Kor., Tibetan, Uyghur 11. Size: 162.92 x 75.40 x 7.99-8.10mm 12. Weight: About 199-206g Screen: 1. Type: AMOLED, 144Hz refresh rate, 2. Size: 6.78 inch (screen-to-body ratio 94.17%) 3. Resolution: 2800 x 1260 pixels, 20:9 4. Sampling Rate: Normal mode 130Hz, game mode 300Hz Camera: 1. Rear Camera: 50MP IMX921 main f1.88 + 50MP wide f2.0 2. Front camera: 16MP (f2.45) Network: 1. 5G: N1/N3/N5/N8/N28A/N38/N40/N41/N77/N78 2. 4G FDD-LTE: B1/B3/B4/B5/B7/B8/B18/B19/B26/B28A 3. 4G TD-LTE: B34/B38/B39/B40/B41 4. 3G WCDMA: B1/B4/B5/B6/B8/B19 5. 2G GSM: 850/900/1800MHz Connection And Transmission: 1. Wi-Fi: Support WLAN 2.4G, 5.1G, 5.8G; Wi-Fi Display; 2 x 2 MIMO, MU-MIMO; Wi-Fi 6, Wi-Fi 7; 2.4G & 5G dual-channel concurrent 2. NFC: Support 3. Navigation: GPS: L1+L5, Beidou: B1C+B1I+B2a+B2b, GLONASS: G1, Galileo: E1+E5a+E5b, QZSS: L1+L5, NavIC: L1+L5 4. BT: BT 5.4 5. Headphone & USB Interface: Type-C 6. OTG: Support Package List 1. Phone x 1 2. US Plug Charger x 1 3. Type-C Data Cable x 1 4. Protective Case x 1 5. Original Film(pre-applied) x 1 6. Card Ejector x 1 7. Packing Box x 1Specification: Package Weight One Package Weight 0.62kgs / 1.37lb One Package Size 21cm * 21cm * 7cm / 8.27inch * 8.27inch * 2.76inch Qty per Carton 20 Carton Weight 13.00kgs / 28.66lb Carton Size 42cm * 45cm * 35cm / 16.54inch * 17.72inch * 13.78inch Loading Container 20GP: 403 cartons * 20 pcs = 8060 pcs 40HQ: 935 cartons * 20 pcs = 18700 pcs
-  Updated: 2026-05-11T09:08:08Z
+  Updated: 2026-06-04T05:43:00Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0882/0378/8636/files/MPH2693W.jpg?v=1734632034
-  Price: £918.51 GBP
+  Price: £942.05 GBP
 - [vivo iQOO Neo10 Pro, 12GB+512GB, Face ID / Screen Fingerprint Identification, 6.78 inch Android 15 OriginOS 5 Dimensity 9400 Octa Core, OTG, NFC, Network: 5G, Support Google Play (Orange)](https://vinceproject.com/products/vivo-iqoo-neo10-pro-12gb-512gb-face-id-screen-fingerprint-identification-6-78-inch-android-15-originos-5-dimensity-9400-octa-core-otg-nfc-network-5g-support-google-play-orange): Specifications: 1. CPU: Dimensity 9400, octa-core, 64 bit, 3nm, 3.626GHz x 1 + 3.3GHz x 3+2.4GHz x 4 2. GPU: Immortalis-G925 3. SIM: Dual SIM (Nano-SIM, dual standby) 4. Memory: 12GB LPDDR5X Ultra + 512GB UFS 4.1 5. Operating System: Android 15, OriginOS 5 6. Battery: 6100mAh, non-removable 7. Charging: 120W, support 20V/6A, compatible with 20V/5A, 20V/3A, 11V/5A, 11V/4A, 11V/3A, 9V/2A or 5V/2A 8. Unlock Method: Facial recognition, ultrasonic 3D fingerprint 9. Sensors: Gravity sensor, light sensor, proximity sensor, gyroscope, electronic compass, front color temperature sensor, ultrasonic 3D fingerprint sensor, infrared remote control, flicker sensor, X-axis linear motor 10. Language: Arabic, Bengali, Burmese, Dutch, English, French, Filipino, German, Hindi, Indonesian, Italian, Japanese, Khmer, Malay, Portuguese, Russian, Romanian, Spanish, Thai, Vietnamese, Nepali, Urdu, Sinhalese, Laotian, Kor., Tibetan, Uyghur 11. Size: 162.92 x 75.40 x 7.99-8.10mm 12. Weight: About 199-206g Screen: 1. Type: AMOLED, 144Hz refresh rate, 2. Size: 6.78 inch (screen-to-body ratio 94.17%) 3. Resolution: 2800 x 1260 pixels, 20:9 4. Sampling Rate: Normal mode 130Hz, game mode 300Hz Camera: 1. Rear Camera: 50MP IMX921 main f1.88 + 50MP wide f2.0 2. Front camera: 16MP (f2.45) Network: 1. 5G: N1/N3/N5/N8/N28A/N38/N40/N41/N77/N78 2. 4G FDD-LTE: B1/B3/B4/B5/B7/B8/B18/B19/B26/B28A 3. 4G TD-LTE: B34/B38/B39/B40/B41 4. 3G WCDMA: B1/B4/B5/B6/B8/B19 5. 2G GSM: 850/900/1800MHz Connection And Transmission: 1. Wi-Fi: Support WLAN 2.4G, 5.1G, 5.8G; Wi-Fi Display; 2 x 2 MIMO, MU-MIMO; Wi-Fi 6, Wi-Fi 7; 2.4G & 5G dual-channel concurrent 2. NFC: Support 3. Navigation: GPS: L1+L5, Beidou: B1C+B1I+B2a+B2b, GLONASS: G1, Galileo: E1+E5a+E5b, QZSS: L1+L5, NavIC: L1+L5 4. BT: BT 5.4 5. Headphone & USB Interface: Type-C 6. OTG: Support Package List 1. Phone x 1 2. US Plug Charger x 1 3. Type-C Data Cable x 1 4. Protective Case x 1 5. Original Film(pre-applied) x 1 6. Card Ejector x 1 7. Packing Box x 1Specification: Package Weight One Package Weight 0.62kgs / 1.37lb One Package Size 21cm * 21cm * 7cm / 8.27inch * 8.27inch * 2.76inch Qty per Carton 20 Carton Weight 13.00kgs / 28.66lb Carton Size 42cm * 45cm * 35cm / 16.54inch * 17.72inch * 13.78inch Loading Container 20GP: 403 cartons * 20 pcs = 8060 pcs 40HQ: 935 cartons * 20 pcs = 18700 pcs
-  Updated: 2026-05-11T09:08:13Z
+  Updated: 2026-06-06T05:42:59Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0882/0378/8636/files/MPH2692E.jpg?v=1734632062
-  Price: £946.53 GBP
+  Price: £975.71 GBP
 - [vivo iQOO Neo10 Pro, 12GB+512GB, Face ID / Screen Fingerprint Identification, 6.78 inch Android 15 OriginOS 5 Dimensity 9400 Octa Core, OTG, NFC, Network: 5G, Support Google Play (Black)](https://vinceproject.com/products/vivo-iqoo-neo10-pro-12gb-512gb-face-id-screen-fingerprint-identification-6-78-inch-android-15-originos-5-dimensity-9400-octa-core-otg-nfc-network-5g-support-google-play-black): Specifications: 1. CPU: Dimensity 9400, octa-core, 64 bit, 3nm, 3.626GHz x 1 + 3.3GHz x 3+2.4GHz x 4 2. GPU: Immortalis-G925 3. SIM: Dual SIM (Nano-SIM, dual standby) 4. Memory: 12GB LPDDR5X Ultra + 512GB UFS 4.1 5. Operating System: Android 15, OriginOS 5 6. Battery: 6100mAh, non-removable 7. Charging: 120W, support 20V/6A, compatible with 20V/5A, 20V/3A, 11V/5A, 11V/4A, 11V/3A, 9V/2A or 5V/2A 8. Unlock Method: Facial recognition, ultrasonic 3D fingerprint 9. Sensors: Gravity sensor, light sensor, proximity sensor, gyroscope, electronic compass, front color temperature sensor, ultrasonic 3D fingerprint sensor, infrared remote control, flicker sensor, X-axis linear motor 10. Language: Arabic, Bengali, Burmese, Dutch, English, French, Filipino, German, Hindi, Indonesian, Italian, Japanese, Khmer, Malay, Portuguese, Russian, Romanian, Spanish, Thai, Vietnamese, Nepali, Urdu, Sinhalese, Laotian, Kor., Tibetan, Uyghur 11. Size: 162.92 x 75.40 x 7.99-8.10mm 12. Weight: About 199-206g Screen: 1. Type: AMOLED, 144Hz refresh rate, 2. Size: 6.78 inch (screen-to-body ratio 94.17%) 3. Resolution: 2800 x 1260 pixels, 20:9 4. Sampling Rate: Normal mode 130Hz, game mode 300Hz Camera: 1. Rear Camera: 50MP IMX921 main f1.88 + 50MP wide f2.0 2. Front camera: 16MP (f2.45) Network: 1. 5G: N1/N3/N5/N8/N28A/N38/N40/N41/N77/N78 2. 4G FDD-LTE: B1/B3/B4/B5/B7/B8/B18/B19/B26/B28A 3. 4G TD-LTE: B34/B38/B39/B40/B41 4. 3G WCDMA: B1/B4/B5/B6/B8/B19 5. 2G GSM: 850/900/1800MHz Connection And Transmission: 1. Wi-Fi: Support WLAN 2.4G, 5.1G, 5.8G; Wi-Fi Display; 2 x 2 MIMO, MU-MIMO; Wi-Fi 6, Wi-Fi 7; 2.4G & 5G dual-channel concurrent 2. NFC: Support 3. Navigation: GPS: L1+L5, Beidou: B1C+B1I+B2a+B2b, GLONASS: G1, Galileo: E1+E5a+E5b, QZSS: L1+L5, NavIC: L1+L5 4. BT: BT 5.4 5. Headphone & USB Interface: Type-C 6. OTG: Support Package List 1. Phone x 1 2. US Plug Charger x 1 3. Type-C Data Cable x 1 4. Protective Case x 1 5. Original Film(pre-applied) x 1 6. Card Ejector x 1 7. Packing Box x 1Specification: Package Weight One Package Weight 0.62kgs / 1.37lb One Package Size 21cm * 21cm * 7cm / 8.27inch * 8.27inch * 2.76inch Qty per Carton 20 Carton Weight 13.00kgs / 28.66lb Carton Size 42cm * 45cm * 35cm / 16.54inch * 17.72inch * 13.78inch Loading Container 20GP: 403 cartons * 20 pcs = 8060 pcs 40HQ: 935 cartons * 20 pcs = 18700 pcs
-  Updated: 2026-05-11T09:08:09Z
+  Updated: 2026-06-06T05:43:00Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0882/0378/8636/files/MPH2692B.jpg?v=1734632088
-  Price: £946.53 GBP
+  Price: £975.71 GBP
 - [BANGE BG-2956 Expandable Hard Shell Computer Bag Men Business Backpack(Black)](https://vinceproject.com/products/bange-bg-2956-expandable-hard-shell-computer-bag-men-business-backpackblack): 1. Large capacity, 10cm expansion, can hold a 15.6 inch laptop computer2.  lock design, better protection of the contents of the bag3. External USB charging port, connecting the charging battery (not included) inside the bag can be convenient for charging mobile phones and other mobile devices when travelling4. Hard shell design protects the contents of the bag from any impact and makes it lighter to carry5. Convenient luggage strap design for attaching the bag to a trolley case6. Water-resistant material effectively prevents rainwater from wetting the contents of the bag, keeping it dry and comfortable7. Comfortable shoulder strap, length can be adjusted freely8. Material: PC9. Size: about 48 x 32 x 12cm10. Weight: about 1.6kg11. Note: only the bag, not include othersSpecification: Package Weight One Package Weight 1.65kgs / 3.65lb One Package Size 50cm * 34cm * 14cm / 19.69inch * 13.39inch * 5.51inch Qty per Carton 10 Carton Weight 18.00kgs / 39.68lb Carton Size 76cm * 58cm * 54cm / 29.92inch * 22.83inch * 21.26inch Loading Container 20GP: 112 cartons * 10 pcs = 1120 pcs 40HQ: 260 cartons * 10 pcs = 2600 pcs
   Updated: 2026-05-15T05:37:53Z
   Vendor: My Store
@@ -837,12 +837,12 @@
   Image: https://cdn.shopify.com/s/files/1/0882/0378/8636/files/TBD0605579101.jpg?v=1734633563
   Price: £14.27 GBP
 - [EDUP EH-WD9905C 1080P Type-C Wireless HDMI Display Device](https://vinceproject.com/products/edup-eh-wd9905c-1080p-type-c-wireless-hdmi-display-device): 1. Voltage: 5V/1A2. Function: Screen mirroring/extension3. Network: WIFI5GHz 1T1R4. Resolution: 1920x1080/60P, 1280x720/60P5. Support system: Android/Windows/MacOS/iOS system6. Interface: Hard disk7. Transmitter interface: Type-C transmitter8. Provides reliable wireless connection up to 80 meters, ideal for users who want to mirror the screen or extend the video signal9. Provides fast and stable connection, minimizes latency and ensures a seamless viewing experienceSpecification: Package Weight One Package Weight 0.50kgs / 1.11lb One Package Size 11cm * 11cm * 8cm / 4.33inch * 4.33inch * 3.15inch Qty per Carton 60 Carton Weight 31.00kgs / 68.34lb Carton Size 46cm * 42cm * 35cm / 18.11inch * 16.54inch * 13.78inch Loading Container 20GP: 394 cartons * 60 pcs = 23640 pcs 40HQ: 915 cartons * 60 pcs = 54900 pcs
-  Updated: 2026-05-11T09:08:11Z
+  Updated: 2026-06-04T05:43:07Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0882/0378/8636/files/EDA0074694.jpg?v=1734633582
-  Price: £71.59 GBP
+  Price: £73.71 GBP
 - [HOPESTAR PARTY130 Outdoor Dual Mic Long Endurance Bluetooth Speaker(Grey)](https://vinceproject.com/products/hopestar-party130-outdoor-dual-mic-long-endurance-bluetooth-speakergrey): 1. Wireless standard: 5.02. Transmission distance: 10 meters3. Output power: 120W4. Playing time: 6-10 hours5. Frequency effect:40hz~20khz6. Speaker:135mm 4 omega 80W*1 / 66mm 4 omega 20W*27. Input power: 9V 2A8. Maximum current consumption: 1A9. Battery type: 18650 lithium-ion battery 22000mah10. Audio signal input interface: standard 3.5mm headphone jack (stereo)11. Ipx5 waterproof12. Equipped with dual microphones for easier useSpecification: Package Weight One Package Weight 6.70kgs / 14.78lb One Package Size 30cm * 30cm * 45cm / 11.81inch * 11.81inch * 17.72inch Qty per Carton 1 Carton Weight 6.70kgs / 14.77lb Carton Size 30cm * 30cm * 45cm / 11.81inch * 11.81inch * 17.72inch Loading Container 20GP: 658 cartons * 1 pcs = 658 pcs 40HQ: 1528 cartons * 1 pcs = 1528 pcs
   Updated: 2026-05-11T09:08:38Z
   Vendor: My Store
@@ -865,12 +865,12 @@
   Image: https://cdn.shopify.com/s/files/1/0882/0378/8636/files/EDA0074689.jpg?v=1734633632
   Price: £146.45 GBP
 - [EDUP EP-WD9910 1080P Wireless HDMI Display Device Audio Extender](https://vinceproject.com/products/edup-ep-wd9910-1080p-wireless-hdmi-display-device-audio-extender): 1. Power consumption: 5W2. Function: Screen mirroring/extension3. Interface: Hard disk4. Resolution: 1920x10805. Network: IEEE 802.11n 5GHz 1T1R6. Signal distance: 50 meters indoors without walls7. Provides reliable wireless connection up to 150 meters, allowing seamless screen mirroring and extension8. Ensures a clear and sharp video experience, ideal for users who want to mirror the screen or extend the video signal9. Provides fast and stable connection, minimizes latency and ensures a seamless viewing experience10. Low power consumption, energy saving and environmental protection, easy to connect and useSpecification: Package Weight One Package Weight 0.06kgs / 0.14lb One Package Size 11cm * 11cm * 8cm / 4.33inch * 4.33inch * 3.15inch Qty per Carton 100 Carton Weight 7.00kgs / 15.43lb Carton Size 57cm * 46cm * 42cm / 22.44inch * 18.11inch * 16.54inch Loading Container 20GP: 242 cartons * 100 pcs = 24200 pcs 40HQ: 562 cartons * 100 pcs = 56200 pcs
-  Updated: 2026-05-11T09:08:13Z
+  Updated: 2026-06-04T05:43:09Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0882/0378/8636/files/EDA0074681.jpg?v=1734633649
-  Price: £120.61 GBP
+  Price: £123.91 GBP
 - [E-SMARTER SD-14 4 Holes Outdoor Portable Torch Metal Pen Clip Light Lightweight Mini Pocket Rechargeable Emergency Flashlight](https://vinceproject.com/products/e-smarter-sd-14-4-holes-outdoor-portable-torch-metal-pen-clip-light-lightweight-mini-pocket-rechargeable-emergency-flashlight): 1. Material: ABS2. Beads: 3 holes: 3 x LED; 4 holes: 4 x LED3. Light mode: strong-weak-flash4. Battery capacity: 400mAh lithium battery5. Charging port: Type-C6. Size: 3 holes: about 9.9 x 3.18cm; 4 holes: about 11 x 3.7cmFeatures:1. With metal pen clip, can be clipped into a pocket or fixed on the brim of the cap, easy to carry around2. Type-C smart fast charging, compatible with a variety of charging methods, convenient and fast3. Built-in 14500 lithium battery, no pressure on battery life4. Strong light burst bright wide range of lighting5. Mini and compact, easy to carrySpecification: Package Weight One Package Weight 0.06kgs / 0.14lb One Package Size 13cm * 5cm * 5cm / 5.12inch * 1.97inch * 1.97inch Qty per Carton 280 Carton Weight 17.80kgs / 39.24lb Carton Size 50cm * 38cm * 34cm / 19.69inch * 14.96inch * 13.39inch Loading Container 20GP: 412 cartons * 280 pcs = 115360 pcs 40HQ: 958 cartons * 280 pcs = 268240 pcs
   Updated: 2026-05-11T09:08:18Z
   Vendor: My Store
@@ -1156,38 +1156,38 @@
 ## Collections
 
 - [Home page - Vitrax](https://vinceproject.com/collections/frontpage): Welcome to Vitrax - Your one-stop shop for all your essential needs! Explore a wide range of products and find exactly what you're looking for at our store. Shop now! - Vitrax
-  Updated: 2026-05-29T08:20:04Z
-  Total Products: 46689
+  Updated: 2026-06-06T16:31:52Z
+  Total Products: 46672
 - [Mobile phone accessories - Vitrax](https://vinceproject.com/collections/mobile-phone-accessories): Looking to upgrade your mobile phone with some cool accessories? Our collection of mobile phone accessories has got you covered! From stylish phone cases to durable screen protectors, we have everything you need to keep your device looking and functioning its best. - Vitrax
-  Updated: 2026-05-29T07:58:41Z
+  Updated: 2026-06-06T07:40:52Z
   Total Products: 2593
 - [Apple accessories - Vitrax](https://vinceproject.com/collections/apple-accessories): Explore our collection of Apple accessories and take your device to the next level. With innovative designs and reliable performance, our accessories are the perfect addition to your Apple setup. From headphones to cables, we have everything you need to make the most of your device. - Vitrax
-  Updated: 2026-05-29T07:47:49Z
+  Updated: 2026-06-06T07:46:21Z
   Total Products: 5451
 - [Samsung Accessories - Vitrax](https://vinceproject.com/collections/samsung-accessories): Make the most out of your Samsung gadget with our selection of must-have accessories. Whether you're looking for a durable charger, a convenient phone stand, or a comfortable headset, we have everything you need to enhance your device experience. Stay connected and protected with our reliable products. - Vitrax
-  Updated: 2026-05-29T07:50:15Z
-  Total Products: 1294
+  Updated: 2026-06-06T07:33:20Z
+  Total Products: 1293
 - [Consumer Electronics - Vitrax](https://vinceproject.com/collections/consumer-electronics): Looking for top-quality consumer electronics? Explore Vitrax's wide range of cutting-edge products for all your tech needs. Shop now for the best deals! - Vitrax
-  Updated: 2026-05-29T08:01:01Z
-  Total Products: 2425
+  Updated: 2026-06-06T16:29:44Z
+  Total Products: 2426
 - [Clothing and Beauty - Vitrax](https://vinceproject.com/collections/clothing-and-beauty): Discover the latest trends in clothing and beauty at Vitrax! Elevate your style with our curated collection of fashion and beauty products. Shop now for a trendy makeover! - Vitrax
-  Updated: 2026-05-29T11:24:40Z
+  Updated: 2026-06-06T07:16:40Z
   Total Products: 516
 - [In Car - Vitrax](https://vinceproject.com/collections/in-car): Say goodbye to boring car accessories and hello to Vitrax! Shake up your in car products with our stylish and practical range of products. Whether you're looking for a sleek dashboard camera or a convenient car organizer, we've got you covered. Upgrade your ride today! - Vitrax
-  Updated: 2026-05-29T07:26:11Z
+  Updated: 2026-06-06T07:29:14Z
   Total Products: 1853
 - [Home & Garden - Vitrax](https://vinceproject.com/collections/home-garden): Welcome to Kitchen ware - your one-stop shop for high-quality home products! Discover a wide range of stylish and functional kitchen ware to elevate your cooking experience. Shop now! - Vitrax
-  Updated: 2026-05-29T07:59:21Z
-  Total Products: 4806
+  Updated: 2026-06-06T07:42:34Z
+  Total Products: 4804
 - [Earbuds - Vitrax](https://vinceproject.com/collections/earbuds): Discover superior sound quality and unmatched comfort with our latest collection of earbuds. Elevate your music listening experience today! - Vitrax
-  Updated: 2026-05-26T07:08:32Z
+  Updated: 2026-06-06T07:20:01Z
   Total Products: 59
 - [Mobile phones - Vitrax](https://vinceproject.com/collections/mobile-phones): Looking for the perfect mobile phone? Discover the latest models and deals at Vitrax. Stay connected with top-notch features and unbeatable prices. - Vitrax
-  Updated: 2026-05-29T07:50:58Z
+  Updated: 2026-06-06T07:24:39Z
   Total Products: 1746
 - [Outdoor & Sports - Vitrax](https://vinceproject.com/collections/outdoor-sport): Explore our extensive range of outdoor and sports gear! From hiking essentials to fitness equipment, find everything you need for your next adventure. - Vitrax
-  Updated: 2026-05-29T08:07:59Z
-  Total Products: 4454
+  Updated: 2026-06-06T07:51:01Z
+  Total Products: 4449
 
 ## Blogs
 
@@ -1341,6 +1341,18 @@
     Author: Admin
   - [Tempered Glass Screen Protector Review](https://vinceproject.com/blogs/news/tempered-glass-screen-protector-review): Tempered Glass Screen Protector Review
     Updated: 2026-05-28T02:18:26Z
+    Author: Admin
+  - [Affordable iPad Accessories UK: Best Buys](https://vinceproject.com/blogs/news/affordable-ipad-accessories-uk-best-buys): Affordable iPad Accessories UK: Best Buys
+    Updated: 2026-05-30T01:45:23Z
+    Author: Admin
+  - [8 Screen Protector Installation Mistakes](https://vinceproject.com/blogs/news/screen-protector-installation-mistakes): 8 Screen Protector Installation Mistakes
+    Updated: 2026-06-01T01:48:25Z
+    Author: Admin
+  - [Earbuds or Wired Earphones: Which to Buy?](https://vinceproject.com/blogs/news/earbuds-or-wired-earphones-which-to-buy): Earbuds or Wired Earphones: Which to Buy?
+    Updated: 2026-06-03T01:48:53Z
+    Author: Admin
+  - [How to Protect iPad Screen the Right Way](https://vinceproject.com/blogs/news/how-to-protect-ipad-screen): How to Protect iPad Screen the Right Way
+    Updated: 2026-06-05T02:03:12Z
     Author: Admin
 
 ## Store Pages
