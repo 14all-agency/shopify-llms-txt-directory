@@ -24,7 +24,7 @@ Come explore, I think you’ll find something you love 👀👠💗
 - Contact Email: support@carrielachance.com
 - Contact Phone: 1-601-207-0532
 - Address: 2701 Little Elm Pkwy, STE 100-478 Little Elm, TX 75068
-- Updated At: 2026-05-31T00:00:51.535Z
+- Updated At: 2026-06-07T00:00:51.826Z
 
 This site is the official online home of Carrie LaChance, model, creator, and entrepreneur with over 20 years of experience in glamour, pin-up, and high heel photography. Everything you see here is created, curated, and owned by Carrie, featuring exclusive content that cannot be found anywhere else.
 
@@ -2843,107 +2843,49 @@ File Size: 312 MB
   Product Type: Video Downloads
   Availability: Available
   Price: $15.00 USD
-- [Pumping Gas Photo Set](https://www.carrielachance.com/products/pumping-gas-photo-set-download): What happened to the days when a woman could just pull up to a gas station and the gas would just start flowing? I suppose if that were still the days I would have no reason to do this Pumping Gas Carrie cam now would I. Fill ‘er up anyone?
-
-Carrie Cam - Gallery 4
-Total Images: 37 Photos
-Year: 2016
-File Size: 16 MB
-  Updated: 2026-04-26T20:05:46Z
-  Vendor: Carrie LaChance
-  Product Type: Photo Downloads
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Carrie_Cam_Pumping_Gas_Photo_Set.jpg?v=1774915202
-  Price: $35.00 USD
-- [Pumping Gas Video](https://www.carrielachance.com/products/pumping-gas-video-download): What happened to the days when a woman could just pull up to a gas station and the gas would just start flowing? I suppose if that were still the days I would have no reason to do this Pumping Gas Carrie cam now would I. Fill ‘er up anyone? This video is from Carrie Cam - Gallery 4
-
-Pumping Gas Video
-Run Time: 2 min
-Year: 2016
-File Size: 130 MB
-  Updated: 2026-05-26T04:30:26Z
-  Vendor: Carrie LaChance
-  Product Type: Video Downloads
-  Availability: Available
-  Price: $10.00 USD
-- [Satin Corset Photo Set](https://www.carrielachance.com/products/satin-corset-photo-set-download): In this set, Carrie is wearing a satin corset, bra, panties, and Jimmy Choo high heel pumps which really show off the arch on her sexy feet. The corset accentuates Carrie’s small waist and busty chest giving her the perfect hourglass figure. Her eyes are smoldering and the bright red lipstick she’s wearing is super sexy. It’s like this blonde hottie is just begging for a kiss. If anybody can make love to the camera, it’s Carrie LaChance.
-
-Carrie LaChance – Gallery #176 🔞
-Total Images: 32 Photos
-Year: 2015
-File Size: 21 MB
-  Updated: 2026-04-26T20:05:47Z
-  Vendor: Carrie LaChance
-  Product Type: Photo Downloads
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Satin_Corset_Photo_Set.jpg?v=1744584158
-  Price: $60.00 USD
-- [Satin Corset Video](https://www.carrielachance.com/products/satin-corset-video-download): In this set, Carrie is wearing a satin corset, bra, panties, and Jimmy Choo high heel pumps which really show off the arch on her sexy feet. The corset accentuates Carrie’s small waist and busty chest giving her the perfect hourglass figure. Her eyes are smoldering and the bright red lipstick she’s wearing is super sexy. It’s like this blonde hottie is just begging for a kiss. If anybody can make love to the camera, it’s Carrie LaChance. This video is from Carrie LaChance – Gallery #176
-
-Satin Corset Video
-Run Time: 6 min
-Year: 2015
-File Size: 168 MB
-  Updated: 2026-04-26T20:05:47Z
-  Vendor: Carrie LaChance
-  Product Type: Video Downloads
-  Availability: Available
-  Price: $50.00 USD
-- [Bedroom Dreams Photo Set](https://www.carrielachance.com/products/bedroom-dreams-photo-set-download): I would love to walk into my bedroom and see Carrie LaChance wearing sexy lingerie, bra, panties, fishnet thigh highs, and Dolce Vita slingback heels but that’s likely not going to happen so I have to settle for this extremely hot set of photos, not a bad consolation prize. Carrie’s legs look amazing in those fishnet thigh highs and like usual her heels are super sexy. Seriously, is there anybody who pulls off bedroom outfits better than Carrie?
-
-Carrie LaChance – Gallery #177 🔞
-Total Images: 71 Photos
-Year: 2015
-File Size: 16 MB
-  Updated: 2026-04-26T20:05:47Z
-  Vendor: Carrie LaChance
-  Product Type: Photo Downloads
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Bedroom_Dreams_Photo_Set.jpg?v=1744584038
-  Price: $80.00 USD
-[List Continued](https://www.carrielachance.com/a/llms-agent/llms.txt?shop=carrie-lachance-shop.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo1NTcyNzIwMzYxNjM5LCJsYXN0X3ZhbHVlIjoiNTU3MjcyMDM2MTYzOSJ9)
+[List Continued](https://www.carrielachance.com/a/llms-agent/llms.txt?shop=carrie-lachance-shop.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo1NTY3NDMxNjcxOTc1LCJsYXN0X3ZhbHVlIjoiNTU2NzQzMTY3MTk3NSJ9)
 
 ## Collections
 
 - [Print Collection](https://www.carrielachance.com/collections/autographed-photos): Autographed Photos Carrie LaChance 8x10 photos are featured in bikinis, skirt, high heels, cosplay, nude and come with a one of a kind embossed stamp of authenticity
-  Updated: 2026-05-29T18:21:14Z
-  Total Products: 64
+  Updated: 2026-06-06T11:10:38Z
+  Total Products: 66
 - [Calendars](https://www.carrielachance.com/collections/calendars): Carrie LaChance calendars feature 12 months of high heel pin-up style photography in bikinis, short skirts, leather, lingerie, topless, nude and high heels.
-  Updated: 2026-05-29T18:21:14Z
+  Updated: 2026-06-01T23:10:54Z
   Total Products: 5
 - [Carries Closet Collection](https://www.carrielachance.com/collections/carries-closet): Carrie LaChance Memorabilia autographed from my personal own wardrobe, pantyhose, skirts, tops, high heels, boots, panties and autographed photos.
-  Updated: 2026-04-26T20:17:44Z
+  Updated: 2026-06-01T23:25:46Z
   Total Products: 31
 - [Photo Collection](https://www.carrielachance.com/collections/photos): Step into my Photo Shoot Collection, featuring over 20 years of my most iconic shoots. From lingerie and glossy pantyhose to classic risqué pinup looks, it’s all about heels, confidence, and glamour. Every set is bundled with all photos included, just as it was captured.
-  Updated: 2026-05-29T18:21:14Z
+  Updated: 2026-06-03T11:09:50Z
   Total Products: 331
 - [Video Collection](https://www.carrielachance.com/collections/videos): Explore my Video Collection, featuring over 20 years of professionally shot content. From high heel glamour and lingerie to glossy pantyhose and classic risqué moments, these videos capture my signature style in motion. Each one is a polished, cinematic look at some of my most unforgettable shoots.
-  Updated: 2026-05-29T18:21:14Z
+  Updated: 2026-06-01T23:36:03Z
   Total Products: 195
 - [Carrie Cam Collection](https://www.carrielachance.com/collections/carrie-cam): Step into my Carrie Cam Collection, where you get a glimpse into my real, everyday life. From grabbing lunch and driving around to little moments at home, these photos and videos are candid, unfiltered, and personal, giving you a closer look at me beyond the shoots.
-  Updated: 2026-05-26T11:09:58Z
+  Updated: 2026-06-02T08:28:40Z
   Total Products: 40
 - [Cosplay Collection](https://www.carrielachance.com/collections/cosplay): Step into my Cosplay Collection, filled with all my favorite character-inspired shoots and playful costumes. From flirty and fun to bold and daring, each look lets me step into a different fantasy while still keeping my signature heels and style front and center.
-  Updated: 2026-05-29T18:21:14Z
+  Updated: 2026-06-02T08:31:39Z
   Total Products: 80
 - [Latex Collection](https://www.carrielachance.com/collections/latex): Explore my Latex Collection, where every shoot is all about that ultra-shiny, second-skin look I love. From bold outfits to high-gloss finishes, these sets are sleek, edgy, and full of energy. If you love that striking latex shine paired with my signature heels and attitude, this collection is for you.
-  Updated: 2026-05-29T18:21:14Z
+  Updated: 2026-06-02T08:31:40Z
   Total Products: 158
 - [Lingerie Collection](https://www.carrielachance.com/collections/lingerie): Step into my Lingerie Collection, featuring all of my favorite shoots in stunning, sexy sets. From delicate and flirty to bold and seductive, every look highlights my love for heels, confidence, and timeless glamour.
-  Updated: 2026-05-29T18:21:14Z
+  Updated: 2026-06-03T11:09:50Z
   Total Products: 167
 - [Pantyhose Collection](https://www.carrielachance.com/collections/pantyhose): Step into my Pantyhose Collection, featuring all of my favorite shoots in silky, sheer pantyhose. From glossy, ultra-smooth finishes to timeless styling, every look highlights my love for legs, heels, and that signature shine that makes each set so irresistible.
-  Updated: 2026-05-29T18:21:14Z
+  Updated: 2026-06-02T08:31:51Z
   Total Products: 107
 - [Nude Collection](https://www.carrielachance.com/collections/nude): Step into my Artistic Nudes Collection, featuring some of my most revealing and tastefully risqué shoots. These images celebrate confidence, form, and elegance, blending sensuality with a more refined, artistic edge.
-  Updated: 2026-05-29T18:21:14Z
+  Updated: 2026-06-02T08:31:42Z
   Total Products: 256
 - [Leather Collection](https://www.carrielachance.com/collections/leather): Step into my Leather Collection, featuring all of my shoots in bold, edgy leather looks. From sleek and fitted styles to daring statement pieces, every set brings out a powerful, confident side of me with my signature heels and attitude leading the way.
-  Updated: 2026-05-29T18:21:14Z
+  Updated: 2026-06-02T08:31:42Z
   Total Products: 38
 - [Public Collection](https://www.carrielachance.com/collections/public): Step into my Public Collection, featuring some of my most daring shoots captured out in real-world settings. From spontaneous moments to bold, eye-catching looks, these sets bring my signature heels, confidence, and style beyond the studio and into the spotlight.
-  Updated: 2026-05-29T18:21:14Z
-  Total Products: 264
+  Updated: 2026-06-06T11:10:38Z
+  Total Products: 266
 
 ## Blogs
 
@@ -3272,6 +3214,33 @@ File Size: 16 MB
     Updated: 2026-05-30T00:01:45Z
     Author: Carrie LaChance
     Tags: fashion tips for nylons, glossy legs, high heels, legs, nylons, pantyhose, seductive fashion, shiny leg wear
+  - [The Enchanted Fragrance of Temptation: Unveiling My  Diary](https://www.carrielachance.com/blogs/carrie-lachance/the-enchanted-fragrance-of-temptation-unveiling-my--diary): The Enchanted Fragrance of Temptation: Unveiling My  Diary
+    Updated: 2026-05-31T00:03:48Z
+    Author: Carrie LaChance
+    Tags: allure, captivating narratives, desire, enchanting temptation tales,  diary,  storytelling, glamour diaries, glamour stories, intimate experiences guide, seduction, seductive stories
+  - [Red Hot Allure A Behind-the-Scenes Look at My Life as a Pinup Model](https://www.carrielachance.com/blogs/carrie-lachance/red-hot-allure-a-behind-the-scenes-look-at-my-life-as-a-pinup-model): Red Hot Allure A Behind-the-Scenes Look at My Life as a Pinup Model
+    Updated: 2026-06-01T08:00:41Z
+    Author: Carrie LaChance
+    Tags: allure, behind the scense, behind-the-scenes, carrie lachance, fashion inspiration, glamour model, heels, high heels, latex model, life of a model, lifestyle blog, model, modeling career advice, outfit of the day, pantyhose, pinup, pinup model, sexy model, stilettos, vintage photography tips
+  - [The Art of Lighting: Transforming Selfies into Glamour Model-Caliber Shots](https://www.carrielachance.com/blogs/carrie-lachance/the-art-of-lighting-transforming-selfies-into-glamour-model-caliber-shots): The Art of Lighting: Transforming Selfies into Glamour Model-Caliber Shots
+    Updated: 2026-06-02T00:04:20Z
+    Author: Carrie LaChance
+    Tags: enhance your selfies, glamour model, glamour photography, high heels, how to be a model, how to be a model online, how to get into modeling, how to pose for photo shoot, lighting, model photography techniques, modeling, modeling tips, photo tips, photography, photoshoot, portrait lighting, posing tips, selfies, social media model, taking good selfies
+  - [7 Strategies to Monetize Content with Confidence](https://www.carrielachance.com/blogs/carrie-lachance/7-strategies-to-monetize-content-with-confidence): 7 Strategies to Monetize Content with Confidence
+    Updated: 2026-06-03T10:01:08Z
+    Author: Carrie LaChance
+  - [Confidence On Display: The Emotional Magnetism of Wearing Glossy Pantyhose](https://www.carrielachance.com/blogs/carrie-lachance/confidence-on-display-the-emotional-magnetism-of-wearing-glossy-pantyhose): Confidence On Display: The Emotional Magnetism of Wearing Glossy Pantyhose
+    Updated: 2026-06-04T00:01:41Z
+    Author: Carrie LaChance
+    Tags: attraction, confidence, emotional magnetism, high heels, pantyhose fashion, psychological effects, psychology of high heels, wearing heels impact, why men love women in heels, women’s fashion psychology
+  - [Essential Dating Advice from Carrie: Stand Out with Simple Charm and Genuine Masculinity](https://www.carrielachance.com/blogs/carrie-lachance/essential-dating-advice-from-carrie-stand-out-with-simple-charm-and-genuine-masculinity): Essential Dating Advice from Carrie: Stand Out with Simple Charm and Genuine Masculinity
+    Updated: 2026-06-05T00:02:08Z
+    Author: Carrie LaChance
+    Tags: advice, charm, dating, dating advice, dating tips, essential dating advice for men, how to find a high heel girl, how to find right girl, masculine energy, relationship guidance, stand out in dating
+  - [Personal Glamour How Pantyhose Transformed My Modeling Journey](https://www.carrielachance.com/blogs/carrie-lachance/personal-glamour-how-pantyhose-transformed-my-modeling-journey): Personal Glamour How Pantyhose Transformed My Modeling Journey
+    Updated: 2026-06-06T00:01:02Z
+    Author: Carrie LaChance
+    Tags: glossy legs, how to wear pantyhose, leg fashion, modeling, nylons, pantyhose, personal style, tips for modeling with nylons
 
 ## Store Pages
 
