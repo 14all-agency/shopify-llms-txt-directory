@@ -1,53 +1,582 @@
 # Silynx (https://silynx-2.myshopify.com)
 
+> Silynx communications (NYSE American: SYNX) makes tactical communications headsets, in-ear hearing protection, and PTT systems trusted by military, special forces, and law enforcement worldwide. 
+
 - Domain: https://silynx-2.myshopify.com
 - Locale: en
 - Currency: USD
 - Timezone: America/Los_Angeles
 - Created At: 2026-04-06T10:15:38Z
-- Contact Email: roei@s-o-s.co.il
-- Updated At: 2026-06-01T08:46:12.154Z
+- Contact Email: info@silynxcom.com
+- Contact Phone: +1 571-748-7152
+- Updated At: 2026-06-08T10:10:32.716Z
+
+## Products
+
+- [Silynx CLARUS I — Single/Dual Radio Tactical Headset System](https://silynx-2.myshopify.com/products/clarus): The Silynx CLARUS I controls up to 2 tactical radios with in-ear hearing protection, Hear-Thru, and Talking from the Ear voice mic. MIL-STD, IP68 ruggedized.
+  Updated: 2026-06-07T21:27:40Z
+  Vendor: Silynx
+  Product Type: Sound Protection Radio Controllers
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/ClarusIXbatteryside_DSC0253_1.jpg?v=1779001955
+  - [Black](https://silynx-2.myshopify.com/products/clarus?variant=42330374897767)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/ClarusIXbatteryside_DSC0253_1.jpg?v=1779001955
+  - [Tan](https://silynx-2.myshopify.com/products/clarus?variant=43282395922535)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/Clarusdeserttan_femaleconnectorQDC_DSC0794.jpg?v=1779002100
+- [Silynx MWPTT — Wireless Push-to-Talk for Tactical Radios](https://silynx-2.myshopify.com/products/mwptt): Silynx MWPTT wireless push-to-talk — -mountable via Picatinny rail, IP68 to 10m dive depth, 2-year battery life. Pairs instantly with any Silynx control box for hands-free comms.
+  Updated: 2026-06-08T08:49:44Z
+  Vendor: Silynx
+  Product Type: Wired & wireless PTT
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/MWPTT-_DSC0846.jpg?v=1779954045
+  - [Tan](https://silynx-2.myshopify.com/products/mwptt?variant=42330375487591)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/MWPTT-_DSC0846.jpg?v=1779954045
+  - [Black](https://silynx-2.myshopify.com/products/mwptt?variant=43854534869095)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/MWPTT-Balck_DSC4035.jpg?v=1780905024
+- [6-Pin MBITR/PRC117/152 Cable Adaptor | Silynx Communications](https://silynx-2.myshopify.com/products/6-pin-mbitr-prc117-152-cable-adaptor): Silynx 6-pin MBITR/PRC117/152 cable adaptor for CLARUS control box. Available in Black (CA0128-07) and Tan (CA0128-09).
+  Updated: 2026-06-02T10:27:53Z
+  Vendor: Silynx
+  Product Type: Cable Adaptors
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/6pinarmyplug710MBITRPRC117152CableAdaptor_DSC0431.jpg?v=1780207065
+  - [Black](https://silynx-2.myshopify.com/products/6-pin-mbitr-prc117-152-cable-adaptor?variant=42330379518055)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/6pinarmyplug710MBITRPRC117152CableAdaptor_DSC0431.jpg?v=1780207065
+  - [Tan](https://silynx-2.myshopify.com/products/6-pin-mbitr-prc117-152-cable-adaptor?variant=43282645188711)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/6pinarmyplug710MBITRPRC117152CableAdaptor_DSC0431.jpg?v=1780207065
+- [Smartphone Cable | Silynx Communications](https://silynx-2.myshopify.com/products/smartphone-cable): Silynx smartphone cable adaptor 3.5mm jack for CLARUS control box. Compatible with most smartphones. Black (CA0095-02) and Tan.
+  Updated: 2026-06-02T01:15:13Z
+  Vendor: Silynx
+  Product Type: Cable Adaptors
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/Black3.5MMStereoplug_DSC2835.png?v=1779948769
+- [20M Submersible 10-Pin Cable Adaptor | Silynx Communications](https://silynx-2.myshopify.com/products/20m-submersible-10-pin-cable-adaptor): Silynx 20M submersible 10-pin cable adaptor for CLARUS/CLARUS XPR to MBITR/PRC117/152 radios. Black (CA0035-03) and Tan (CA0035-04).
+  Updated: 2026-06-02T01:06:18Z
+  Vendor: Silynx
+  Product Type: Cable Adaptors
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/20MSubmersible10-PinCableAdaptorHarrisMBITRMKS-310-CCP_DSC3655.jpg?v=1780207722
+  - [Black](https://silynx-2.myshopify.com/products/20m-submersible-10-pin-cable-adaptor?variant=42330379681895)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/20MSubmersible10-PinCableAdaptorHarrisMBITRMKS-310-CCP_DSC3655.jpg?v=1780207722
+  - [Tan](https://silynx-2.myshopify.com/products/20m-submersible-10-pin-cable-adaptor?variant=43282648334439)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/20MSubmersible10-PinCableAdaptorHarrisMBITRMKS-310-CCP_DSC3655.jpg?v=1780207722
+- [Gas Mask Adaptor Cable | Silynx Communications](https://silynx-2.myshopify.com/products/gas-mask-adaptor-cable): Silynx gas mask adaptor cable connects Clarus headset to gas mask, SCBA, CRBN systems. Available in Black only. SKU: CA0196-00.
+  Updated: 2026-06-02T13:37:14Z
+  Vendor: Silynx
+  Product Type: Cable Adaptors
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/CA0196-00_Avon-Cable.png?v=1780407332
+- [Harris XG-75 / Jaguar P-Series Cable Adaptor | Silynx](https://silynx-2.myshopify.com/products/harris-xg-75-radio-cable-adaptor): Silynx cable adaptor — connects CLARUS or CLARUS XPR to Harris XG-75 and Jaguar P5300/P5400/P5500/P7300 portable radios. Black or Tan.
+  Updated: 2026-06-02T11:24:53Z
+  Vendor: Silynx
+  Product Type: Cable Adaptors
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/HarrisXG-75RadioCableAdaptor_DSC3892.jpg?v=1780399314
+  - [Black](https://silynx-2.myshopify.com/products/harris-xg-75-radio-cable-adaptor?variant=42330379911271)
+    Availability: Not Available
+  - [Tan](https://silynx-2.myshopify.com/products/harris-xg-75-radio-cable-adaptor?variant=43282648989799)
+    Availability: Not Available
+- [Baofeng / Kenwood 2-Pin Cable Adaptor | Silynx Communications](https://silynx-2.myshopify.com/products/baofeng-kenwood-2-pin-cable-adaptor): Silynx Baofeng/Kenwood 2-pin cable adaptor for CLARUS. Kenwood SKU: CA0211-00, Baofeng SKU: CA0211-02. Not compatible with C4OPS.
+  Updated: 2026-06-02T00:57:25Z
+  Vendor: Silynx
+  Product Type: Cable Adaptors
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/BaofenfKenwood2pinconnector_DSC2847-2.jpg?v=1779878714
+  - [Black / Baofeng](https://silynx-2.myshopify.com/products/baofeng-kenwood-2-pin-cable-adaptor?variant=43809573961831)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/BaofenfKenwood2pinconnector_DSC2847-2.jpg?v=1779878714
+  - [Black / Kenwood](https://silynx-2.myshopify.com/products/baofeng-kenwood-2-pin-cable-adaptor?variant=43836283289703)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/BaofenfKenwood2pinconnector_DSC2847-2.jpg?v=1779878714
+- [Hirose 6-Pin Quick Disconnect Connector Cable | Silynx Communications](https://silynx-2.myshopify.com/products/hirose-6-pin-quick-disconnect-connector-cable): Silynx Hirose 6-pin quick disconnect cable adaptor for CLARUS. Black (CA0137-B-00) and Tan (CA0137-T-00). Requires quick detach radio adaptor.
+  Updated: 2026-06-02T13:42:08Z
+  Vendor: Silynx
+  Product Type: Cable Adaptors
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/Hirose6-PinQuickDisconnectConnectorCable-CA0137-07-Copy.jpg?v=1780407695
+  - [Black](https://silynx-2.myshopify.com/products/hirose-6-pin-quick-disconnect-connector-cable?variant=42330380173415)
+    Availability: Not Available
+  - [Tan](https://silynx-2.myshopify.com/products/hirose-6-pin-quick-disconnect-connector-cable?variant=43282649710695)
+    Availability: Not Available
+- [Kenwood Multi-Pin Cable Adaptor — TK & NexEdge | Silynx](https://silynx-2.myshopify.com/products/kenwood-multi-pin-cable-adaptor): Silynx Kenwood Multi-Pin Cable Adaptor — connects CLARUS to Kenwood TK, NX, and NexEdge radios. Comprehensive compatibility list. Black or Tan.
+  Updated: 2026-06-02T00:46:54Z
+  Vendor: Silynx
+  Product Type: Cable Adaptors
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/KenwoodMulti-PinCableAdaptor_DSC3853.jpg?v=1780319101
+  - [Black](https://silynx-2.myshopify.com/products/kenwood-multi-pin-cable-adaptor?variant=42330380238951)
+    Availability: Not Available
+  - [Tan](https://silynx-2.myshopify.com/products/kenwood-multi-pin-cable-adaptor?variant=43282651676775)
+    Availability: Not Available
+- [L3/Harris PRC-163 19-Pin Cable Adaptor | Silynx Communications](https://silynx-2.myshopify.com/products/l3-harris-prc-163-19-pin-cable-adaptor): Silynx L3/Harris PRC-163 19-pin cable adaptor for CLARUS. Available with or without EUD. Black and Tan versions available.
+  Updated: 2026-06-02T00:40:46Z
+  Vendor: Silynx
+  Product Type: Cable Adaptors
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/19pinnemesisplugconnectorharrisprc163_DSC2099_1.jpg?v=1779877357
+  - [Black / With EUD](https://silynx-2.myshopify.com/products/l3-harris-prc-163-19-pin-cable-adaptor?variant=42330380304487)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/L3HarrisPRC-16319-pincableadaptorwithEUDBlack.jpg?v=1779877816
+  - [Black / Without EUD](https://silynx-2.myshopify.com/products/l3-harris-prc-163-19-pin-cable-adaptor?variant=43836272541799)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/L3HarrisPRC-16319-pincableadaptorwithEUDBlack.jpg?v=1779877816
+  - [Tan / With EUD](https://silynx-2.myshopify.com/products/l3-harris-prc-163-19-pin-cable-adaptor?variant=43282651906151)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/L3HarrisPRC-16319-pincableadaptorwithEUD.jpg?v=1779877804
+  - [Tan / Without EUD](https://silynx-2.myshopify.com/products/l3-harris-prc-163-19-pin-cable-adaptor?variant=43836272574567)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/L3HarrisPRC-16319-pincableadaptorwithEUD.jpg?v=1779877804
+- [Hytera PD7 Series Cable Adaptor | Silynx Communications](https://silynx-2.myshopify.com/products/hytera-pd7-series-cable-adaptor): Silynx Hytera PD7 series cable adaptor for CLARUS. Compatible with PT-580, PD-982, PD982i, PD985. Black only. SKU: CA0370-B-00.
+  Updated: 2026-06-01T12:32:16Z
+  Vendor: Silynx
+  Product Type: Cable Adaptors
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/HyteraPD7seriescableadaptor_DSC3860.jpg?v=1780316631
+- [Helicopter Intercom System Adaptor Cable | Silynx Communications](https://silynx-2.myshopify.com/products/helicopter-intercom-system-adaptor-cable): Silynx helicopter intercom system adaptor cable for CLARUS. Black (CA0006-09) and Tan (CA0006-12). Connects to most military HELO ICS.
+  Updated: 2026-06-02T05:48:29Z
+  Vendor: Silynx
+  Product Type: Cable Adaptors
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/Nexusconnector_DSC0619.jpg?v=1780379267
+  - [Black](https://silynx-2.myshopify.com/products/helicopter-intercom-system-adaptor-cable?variant=42330380501095)
+    Availability: Not Available
+  - [Tan](https://silynx-2.myshopify.com/products/helicopter-intercom-system-adaptor-cable?variant=43282788614247)
+    Availability: Not Available
+- [Hazmat Chest PTT Cable | Silynx Communications](https://silynx-2.myshopify.com/products/hazmat-chest-ptt-cable): Silynx Hazmat Chest PTT Cable for industrial and CBRNE operators. Multiple connector options including Motorola APX, Kenwood 2-pin and NX300.
+  Updated: 2026-06-02T14:07:25Z
+  Vendor: Silynx
+  Product Type: Cable Adaptors
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/FlatChestPTTHazmat_14e868c5-1833-49f1-bccd-b8773f66d35b.jpg?v=1780409078
+  - [Motorola APX](https://silynx-2.myshopify.com/products/hazmat-chest-ptt-cable?variant=42330384302183)
+    Availability: Not Available
+  - [Kenwood 2-pin](https://silynx-2.myshopify.com/products/hazmat-chest-ptt-cable?variant=43282998394983)
+    Availability: Not Available
+  - [Kenwood NX300 / TK5210](https://silynx-2.myshopify.com/products/hazmat-chest-ptt-cable?variant=43282998427751)
+    Availability: Not Available
+- [Vehicle Intercom System-5 (VIC-5) Cable Adaptor | Silynx Communications](https://silynx-2.myshopify.com/products/vehicle-intercom-system-5-vic-5-cable-adaptor): Silynx VIC-5 cable adaptor connects CLARUS control box to VIC-5 vehicle intercom system. SKU: CA0326-00.
+  Updated: 2026-06-02T00:26:00Z
+  Vendor: Silynx
+  Product Type: Cable Adaptors
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/VIC-5-450x450.jpg?v=1775480340
+- [Peltor / Sordin Headset Adaptor for C4OPS | Silynx](https://silynx-2.myshopify.com/products/peltor-sordin-adaptor): Silynx Peltor/Sordin Headset Adaptor — connects Peltor or Sordin OTE headsets to the Silynx C4OPS PTT. Multiple variants. Tan only. Export controlled.
+  Updated: 2026-06-01T23:29:22Z
+  Vendor: Silynx
+  Product Type: Cable Adaptors
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/CA0015-01-450x450.jpg?v=1775480341
+- [C4OPS 5-Pin Cable Adaptor — MBITR/PRC117/152 | Silynx](https://silynx-2.myshopify.com/products/c4ops-5-pin-cable-adaptor): Silynx C4OPS 5-Pin Cable Adaptor — connects C4OPS tactical headset system to 5-pin MBITR/PRC117/152 radios (19.7"). Black only. Export controlled.
+  Updated: 2026-06-01T13:07:03Z
+  Vendor: Silynx
+  Product Type: Cable Adaptors
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/6pinarmyplug710MBITRPRC117152CableAdaptor_DSC0431.jpg?v=1780207065
+- [Silicone Earplugs (Tan) 100 Pairs S/M/L | Silynx Communications](https://silynx-2.myshopify.com/products/silicone-earplugs-tan-100-pairs): Silynx silicone earplugs in Tan, 100 pairs per pack in S/M/L sizes. Compatible with Silynx in-ear headsets. SKU: AC0001-06.
+  Updated: 2026-06-01T23:22:25Z
+  Vendor: Silynx
+  Product Type: Accessories
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/Silicone-Earplugs-Tan-450x450.webp?v=1775480342
+- [Wind Guard Retainers Kit | Silynx Communications](https://silynx-2.myshopify.com/products/wind-guard-retainers-kit): Silynx Wind Guard Retainers Kit for in-ear headsets. Keeps earbuds secure in high-wind environments. SKU: KIT000170.
+  Updated: 2026-06-03T23:36:43Z
+  Vendor: Silynx
+  Product Type: Accessories
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/InternalEarretainersChatGPTImageJan22_2026_12_46_50PM.jpg?v=1779952358
+- [Waterproof Radio Bag | Silynx Communications](https://silynx-2.myshopify.com/products/waterproof-radio-bag): Silynx waterproof radio bag for protecting tactical radios in dive and maritime operations. SKU: CA0365-B-03.
+  Updated: 2026-06-03T17:54:52Z
+  Vendor: Silynx
+  Product Type: Accessories
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/OysterMotodivingbagwithheadsetandexternalantennaradiooutside1.jpg?v=1779971077
+- [Peltor/Sordin ARC Helmet Adaptor | Silynx Communications](https://silynx-2.myshopify.com/products/peltor-sordin-arc-helmet-adaptor): Silynx Peltor/Sordin ARC helmet adaptor for mounting OTE headsets to ARC rail helmets. SKU: KIT000121.
+  Updated: 2026-06-03T18:06:17Z
+  Vendor: Silynx
+  Product Type: Accessories
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/PeltorHelmetAdaptor.jpg?v=1779971362
+- [BA5590 Battery Cable to Power Dual Radios | Silynx Communications](https://silynx-2.myshopify.com/products/ba5590-battery-cable-dual-radios): Silynx BA5590 battery cable to power dual radios simultaneously. SKU: BATAD5590-03.
+  Updated: 2026-06-03T18:06:58Z
+  Vendor: Silynx
+  Product Type: Accessories
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/BA5590-Manpackbatterychargertohandheldbattery3-ChatGPTImageJun1_2026_01_41_15PM.png?v=1780310570
+- [Tactical Radio Battery Dual Splitter Cable | Silynx Communications](https://silynx-2.myshopify.com/products/tactical-radio-battery-dual-splitter-cable): Silynx tactical radio battery dual splitter cable. Powers two radios from one battery. SKU: BAT-003.
+  Updated: 2026-06-03T19:00:00Z
+  Vendor: Silynx
+  Product Type: Accessories
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/MBITRBatteryDualsplitterwithradio.png?v=1779873719
+- [Silynx to Peltor/Sordin Headset Adaptor | Silynx Communications](https://silynx-2.myshopify.com/products/silynx-to-peltor-sordin-headset-adaptor): Silynx to Peltor/Sordin headset adaptor with NATO wiring. Available in Tan (CA0015-N-D-03) and Black. SKU: CA0015-N-B-00.
+  Updated: 2026-06-02T10:27:21Z
+  Vendor: Silynx
+  Product Type: Accessories
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/PeltorAdaptorforClarus_DSC0981.jpg?v=1779869934
+  - [Black](https://silynx-2.myshopify.com/products/silynx-to-peltor-sordin-headset-adaptor?variant=42330386235495)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/NexusQDCadaptorBlack_DSC0981.jpg?v=1779874755
+  - [Tan](https://silynx-2.myshopify.com/products/silynx-to-peltor-sordin-headset-adaptor?variant=43283377094759)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/PeltorAdaptorforClarus_DSC0981.jpg?v=1779869934
+- [Silynx PROTEGO PRO Boom Mic — External Mic Accessory](https://silynx-2.myshopify.com/products/protego-pro-headset-boom-mic): Silynx PROTEGO PRO Boom Mic — optional external boom microphone for PROTEGO PRO and MLD headsets. Connects via AUX jack for vest- or helmet-mounted use.
+  Updated: 2026-06-03T20:10:55Z
+  Vendor: Silynx
+  Product Type: Accessories
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/ProtegoProBoommicheadsetparts1.jpg?v=1779715123
+- [Foam Earplugs (Long) 100 Pairs S/M/L | Silynx](https://silynx-2.myshopify.com/products/foam-earplugs-long-100-pairs): Silynx Foam Earplugs — 100 pairs in S/M/L sizes. Replacement foam ear tips for PROTEGO, Clarus Pro X, and other Silynx in-ear systems. SKU EP-100-S-M-L.
+  Updated: 2026-06-03T23:08:11Z
+  Vendor: Silynx
+  Product Type: Accessories
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/FoamEarplugs20250422_103238.jpg?v=1779865311
+- [Tactical Radio Battery Splitter Cable | Silynx Communications](https://silynx-2.myshopify.com/products/tactical-radio-battery-splitter-cable): Silynx tactical radio battery splitter cable. Powers two radios from one battery. Compact and ruggedized. SKU: BAT-201.
+  Updated: 2026-06-03T22:45:47Z
+  Vendor: Silynx
+  Product Type: Accessories
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/MBITRBatterysplitterwithradio.jpg?v=1779792674
+- [Radio Battery USB Charger | Silynx Communications](https://silynx-2.myshopify.com/products/radio-battery-usb-charger): Silynx radio battery USB charger. Charges tactical radio batteries via USB power source. SKU: BA0007-03.
+  Updated: 2026-06-03T19:20:52Z
+  Vendor: Silynx
+  Product Type: Accessories
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/USBCCharger_DSC0200.jpg?v=1779790650
+- [Clarus System Pouch | Silynx Communications](https://silynx-2.myshopify.com/products/clarus-system-pouch): Silynx Clarus system pouch — large carrying case for the complete Clarus headset system. SKU: TXT000052.
+  Updated: 2026-06-03T19:33:33Z
+  Vendor: Silynx
+  Product Type: Accessories
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/SilynxPouch.jpg?v=1779785975
+- [In-Ear Headset Pouch | Silynx Communications](https://silynx-2.myshopify.com/products/in-ear-headset-pouch): Silynx in-ear headset pouch for Protego and compatible models. Protective carrying case. SKU: TXT000052.
+  Updated: 2026-06-03T22:13:05Z
+  Vendor: Silynx
+  Product Type: Accessories
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/InEarPouchClosed_DSC2168.jpg?v=1779784506
+- [Silynx CLARUS II — Dual/Triple Radio Tactical Headset System](https://silynx-2.myshopify.com/products/clarus-ii-system): Silynx CLARUS II — controls up to 3 tactical radios + ICS through one PTT box. In-ear hearing protection, MIL-STD, IP68. Built for command and signals roles.
+  Updated: 2026-06-07T21:28:18Z
+  Vendor: Silynx
+  Product Type: Sound Protection Radio Controllers
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/Clarus_II_control_box.jpg?v=1779881616
+  - [Black](https://silynx-2.myshopify.com/products/clarus-ii-system?variant=42330387415143)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/Clarus_II_control_box.jpg?v=1779881616
+  - [Tan](https://silynx-2.myshopify.com/products/clarus-ii-system?variant=43282454184039)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/ClarusTanRight_DSC2082.png?v=1779179025
+  - [Green](https://silynx-2.myshopify.com/products/clarus-ii-system?variant=43777971454055)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/ClarusIIGreen_DSC3601.jpg?v=1779179045
+- [PROTEGO PRO — In-Ear Tactical Hearing Protection NRR 31 | Silynx](https://silynx-2.myshopify.com/products/protego-pro): Silynx PROTEGO PRO — in-ear tactical hearing protection. NRR 31 dB, IP68 waterproof, Hear-Thru ambient sound, in-ear voice mic. For military, LE, and shooters.
+  Updated: 2026-05-28T13:41:27Z
+  Vendor: Silynx
+  Product Type: In-Ear sound protection Headsets
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/In-Ear-Protego-Pro-1536x1536.webp?v=1777894056
+  - [Black](https://silynx-2.myshopify.com/products/protego-pro?variant=42330387546215)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/Eartip_earbud_black.jpg?v=1778765515
+  - [Tan](https://silynx-2.myshopify.com/products/protego-pro?variant=43282569166951)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/Eartip_earbud_tan_3c8ba890-0c5c-43d2-9634-b9924db4c656.jpg?v=1778765538
+- [Baofeng UV Cable Adaptor | Silynx Communications](https://silynx-2.myshopify.com/products/baofeng-uv-cable-adaptor): Silynx Baofeng UV cable adaptor for CLARUS. Compatible with UV-9R Pro and UV-9R SR. Black only. SKU: CA0389-B-00.
+  Updated: 2026-06-01T23:11:31Z
+  Vendor: Silynx
+  Product Type: Cable Adaptors
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/CA0389-B-00-connector-600x536-1-450x450.webp?v=1775480353
+- [HSI Tactical Headset | Silynx Communications](https://silynx-2.myshopify.com/products/hsi-over-the-ear-headset): HSI Tactical Headset — rugged single-sided infantry headset for Clarus/Fortis. Available in 2M and 10M immersion versions. MIL-STD-810G.
+  Updated: 2026-06-02T22:40:03Z
+  Vendor: Silynx
+  Product Type: Single Side Tactical Headsets
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/HSI-Infantry-tactical-headset-DSC_0057-1536x1536.webp?v=1777894650
+- [Clarus BT Dongle | Silynx Communications](https://silynx-2.myshopify.com/products/clarus-bt-bluetooth-adapter): Silynx Clarus BT Dongle — Bluetooth connectivity for Clarus headsets. Encrypted, AAA powered. Available in Black. SKU: CA0382-B-03.
+  Updated: 2026-06-01T11:10:21Z
+  Vendor: Silynx
+  Product Type: Accessories
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/BluetoothdonglewithCLarus.jpg?v=1779773547
+- [Silynx Clarus Speaker Microphone — Patrol Boom Mic](https://silynx-2.myshopify.com/products/clarus-speaker-microphone): Silynx Clarus Speaker Mic with multi-directional boom — patrol-grade comms with natural head position. Multiple radio connector options available.
+  Updated: 2026-06-01T11:09:46Z
+  Vendor: Silynx
+  Product Type: Wired & wireless PTT
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/SpeakerMicOpenSilynx_DSC0120.jpg?v=1779947719
+- [PT21 SILYNX U94 PTT | Silynx Communications](https://silynx-2.myshopify.com/products/pt21-u94-ptt): Silynx PT21 U94 PTT — dual button, ambidextrous, NEXUS connectivity, IP67, MIL-STD-810G. SKU: PT0021-B-00.
+  Updated: 2026-06-02T11:47:21Z
+  Vendor: Silynx
+  Product Type: Wired & wireless PTT
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/PT21PTT_DSC0310.jpg?v=1779599356
+  - [Black](https://silynx-2.myshopify.com/products/pt21-u94-ptt?variant=42330389905511)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/PT21PTT_DSC0310.jpg?v=1779599356
+  - [Tan](https://silynx-2.myshopify.com/products/pt21-u94-ptt?variant=43285397831783)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/PT21_control_box_tan_DSC0310.jpg?v=1780400829
+- [Covert Keyfob PTT | Silynx Communications](https://silynx-2.myshopify.com/products/covert-keyfob-ptt): Silynx Covert Keyfob PTT — wireless, disguised as car key fob, 20m dive proof, 2 year battery. For covert operations. SKU: PT0008-00.
+  Updated: 2026-06-01T11:07:00Z
+  Vendor: Silynx
+  Product Type: Wired & wireless PTT
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/WirelessKeyFob.jpg?v=1779601065
+- [Silynx MWPTT WR — Wireless + Wired Hybrid PTT](https://silynx-2.myshopify.com/products/mwptt-wr): The Silynx MWPTT WR pairs wireless -mounted PTT with a 1.2m wired finger PTT — for sniping, off-road, parachuting, and multi-position operations.
+  Updated: 2026-06-07T21:33:28Z
+  Vendor: Silynx
+  Product Type: Wired & wireless PTT
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/MWPTT_DSC0844.jpg?v=1779279597
+- [HAZMAT GAS MASK PTT | Silynx Communications](https://silynx-2.myshopify.com/products/hazmat-gas-mask-ptt): Silynx Hazmat Gas Mask PTT — enables comms from under gas mask. NEXUS connectivity, IP67, MIL-STD-810G. SKU: CA0365-B-04.
+  Updated: 2026-06-01T23:06:07Z
+  Vendor: Silynx
+  Product Type: Wired & wireless PTT
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/ChestPTThazmat_DSC0751.jpg?v=1779605740
+- [Silynx U94 FINGER/PALM PTT — Auxiliary Tactical PTT](https://silynx-2.myshopify.com/products/finger-palm-ptt): Silynx U94 FINGER/PALM PTT — single-com U94 PTT with 1.2m wire extension and finger/palm transmit button. Parallel operation with main on-board PTT.
+  Updated: 2026-06-02T10:54:39Z
+  Vendor: Silynx
+  Product Type: Wired & wireless PTT
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/Finger_PTT.jpg?v=1779687963
+  - [FINGER PTT](https://silynx-2.myshopify.com/products/finger-palm-ptt?variant=43838626594919)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/Finger_PTT.jpg?v=1779687963
+  - [PALM PTT](https://silynx-2.myshopify.com/products/finger-palm-ptt?variant=43838626627687)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/MWPTT_wireless_PTT_with_finger_wired_PTTconnectedpalmstrapattaced2.jpg?v=1779689135
+- [Silynx Standard Single U94 PTT — US & NATO Tactical PTT](https://silynx-2.myshopify.com/products/standard-single-u94-ptt): Silynx Standard Single U94 PTT — rugged single-com push-to-talk in US and NATO standards. NEXUS headset compatible, U329 6-pin radio connector standard.
+  Updated: 2026-06-01T11:02:42Z
+  Vendor: Silynx
+  Product Type: Wired & wireless PTT
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/SingleU94PTT_8e605030-9f21-4f41-bd41-28d2fee0e5a0.jpg?v=1779609532
+- [Silynx FORTIS Quad PTT — 4-Network Tactical Headset System](https://silynx-2.myshopify.com/products/fortis-quad-ptt-set-1): FORTIS Quad PTT — 4-network tactical headset system from Silynx. In-ear hearing protection, MIL-STD-810G, IP68. Built for commanders and signals officers.
+  Updated: 2026-06-07T21:28:50Z
+  Vendor: Silynx
+  Product Type: Sound Protection Radio Controllers
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/DSC0330.jpg?v=1779187235
+  - [Black](https://silynx-2.myshopify.com/products/fortis-quad-ptt-set-1?variant=43274916429927)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/FortisQDConCableleftbuttons_DSC0335.jpg?v=1779187244
+  - [Tan](https://silynx-2.myshopify.com/products/fortis-quad-ptt-set-1?variant=43282511626343)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/FortisCableTan_DSC1292.jpg?v=1779798949
+- [PROTEGO STD — In-Ear Tactical Hearing Protection NRR 31 | Silynx](https://silynx-2.myshopify.com/products/protego-std): Silynx PROTEGO STD — in-ear hearing protection NRR 31 dB. Hear-Thru, in-ear voice mic, IP68 waterproof. Standard tactical in-ear sound protection headset.
+  Updated: 2026-05-28T13:46:36Z
+  Vendor: Silynx
+  Product Type: In-Ear sound protection Headsets
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/Protego-STD-DSC_0122-1536x1536.webp?v=1777894032
+  - [Black](https://silynx-2.myshopify.com/products/protego-std?variant=43274982424679)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/Eartip_earbud_black.jpg?v=1778765515
+  - [Tan](https://silynx-2.myshopify.com/products/protego-std?variant=43282626543719)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/Eartip_earbud_tan_3c8ba890-0c5c-43d2-9634-b9924db4c656.jpg?v=1778765538
+- [PROTEGO SNG — Single-Side In-Ear Tactical Headset NRR 30 | Silynx](https://silynx-2.myshopify.com/products/protego-sng): Silynx PROTEGO SNG — single-sided in-ear tactical headset for snipers and spotters. NRR 30 dB hearing protection in one ear, ambient awareness in the other.
+  Updated: 2026-05-28T13:46:36Z
+  Vendor: Silynx
+  Product Type: In-Ear sound protection Headsets
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/Protego-SNG-DSC_0108_1-1536x1536_8f938028-65fa-40d8-90d1-59055dc4ce36.webp?v=1777894006
+  - [Black](https://silynx-2.myshopify.com/products/protego-sng?variant=43275009556583)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/Eartip_earbud_black.jpg?v=1778765515
+  - [Tan](https://silynx-2.myshopify.com/products/protego-sng?variant=43282635063399)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/Eartip_earbud_tan_3c8ba890-0c5c-43d2-9634-b9924db4c656.jpg?v=1778765538
+- [PROTEGO MLD — Custom-Molded Tactical In-Ear Headset | Silynx](https://silynx-2.myshopify.com/products/protego-mld): Silynx PROTEGO MLD — custom-molded in-ear tactical headset with otoplastic earplugs. The personalized PROTEGO PRO for long-duration tactical missions.
+  Updated: 2026-06-02T10:25:35Z
+  Vendor: Silynx
+  Product Type: In-Ear sound protection Headsets
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/Earmold-DSC_0129-1536x1536.webp?v=1777893966
+- [Protego SDR — Sordin Over-the-Ear Tactical Headset | Silynx](https://silynx-2.myshopify.com/products/protego-sdr): Silynx PROTEGO SDR — over-the-ear tactical headset jointly developed with Sordin. Powered by radio, modular configurations, no battery monitoring.
+  Updated: 2026-06-02T10:48:03Z
+  Vendor: Silynx
+  Product Type: Over The Ear Sound Protection Headset
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/Protego-SDR-DSC_0264-1536x1536.webp?v=1777894521
+  - [Headband](https://silynx-2.myshopify.com/products/protego-sdr?variant=43836383854695)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/Protego-SDR-DSC_0264-1536x1536.webp?v=1777894521
+  - [Neckband](https://silynx-2.myshopify.com/products/protego-sdr?variant=43836383887463)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/DSC1262.jpg?v=1779946977
+- [EAGLE MARITIME Tactical Headset | Silynx Communications](https://silynx-2.myshopify.com/products/eagle-maritime-tactical-headset): Silynx EAGLE MARITIME tactical headset — single-sided, 20m dive-proof, for divers and maritime operators. Compatible with CLARUS/FORTIS.
+  Updated: 2026-06-02T10:49:44Z
+  Vendor: Silynx
+  Product Type: Single Side Tactical Headsets
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/EAGLE-no-BKG-DSC_186-1536x1536.webp?v=1777894692
+- [FALCON Tactical Headset | Silynx Communications](https://silynx-2.myshopify.com/products/falcon): Silynx FALCON tactical headset — single-sided infantry headset, IP68, Clarus/Fortis compatible. Dynamic or differential mic options.
+  Updated: 2026-06-02T10:49:47Z
+  Vendor: Silynx
+  Product Type: Single Side Tactical Headsets
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/Falcon-Side-DSC_0167-HDR-1536x1536.webp?v=1777894623
+- [Silynx Clarus Pro X — Electronic In-Ear Ear Protection for Shooting](https://silynx-2.myshopify.com/products/silynx-clarus-pro-x): Silynx Clarus Pro X — military-grade electronic in-ear hearing protection for shooting, hunting, and tactical use. NRR 31 dB, Hear-Thru, IP68, 72-hour battery.
+  Updated: 2026-06-02T10:49:47Z
+  Vendor: Silynx
+  Product Type: Sound Protection Plugs
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/ClarusProXDSC_0109.jpg?v=1779271848
+  - [Black](https://silynx-2.myshopify.com/products/silynx-clarus-pro-x?variant=43800914067559)
+    Availability: Not Available
+  - [Tan](https://silynx-2.myshopify.com/products/silynx-clarus-pro-x?variant=43800914100327)
+    Availability: Not Available
+- [Silynx SALVUS OTE — Active Electronic Earmuffs](https://silynx-2.myshopify.com/products/salvus-ote): Silynx SALVUS OTE — active electronic earmuffs with Hear-Thru. 72-hour AAA battery. For civilian use or as a layer over Silynx in-ear hearing protection.
+  Updated: 2026-05-28T13:48:03Z
+  Vendor: Silynx
+  Product Type: Sound Protection Plugs
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/Salvusovertheeartanonheadfromeside_4885211a-d2a9-4261-b36f-5178e6b80150.jpg?v=1779884865
+- [PROTEGO PLT Converted Peltor Headset | Silynx Communications](https://silynx-2.myshopify.com/products/protego-plt): Silynx PROTEGO PLT — Peltor ComTac converted OTE headset. SNR 39dB, IP68, QDC powered. Compatible with ComTac XPI, V, VIII. SKU: HSPLT-CLR-HB-B-00.
+  Updated: 2026-06-02T10:49:47Z
+  Vendor: Silynx
+  Product Type: Over The Ear Sound Protection Headset
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/Protego-PLT-headset-black-1536x1536.webp?v=1777894584
+- [Motorola XTS/MTS Cable Adaptor — Astro PX502A | Silynx](https://silynx-2.myshopify.com/products/motorola-xts-mts-cable-adaptor): Silynx Motorola XTS/MTS Cable Adaptor — connects CLARUS control box to Motorola XTS, MTS, and Astro radios with PX502A connector. Black or Tan.
+  Updated: 2026-06-01T22:59:40Z
+  Vendor: Silynx
+  Product Type: Cable Adaptors
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/MotorolaXTSMTSConnector_DSC3825.jpg?v=1780320323
+  - [Black](https://silynx-2.myshopify.com/products/motorola-xts-mts-cable-adaptor?variant=43275309154407)
+    Availability: Not Available
+  - [Tan](https://silynx-2.myshopify.com/products/motorola-xts-mts-cable-adaptor?variant=43283565609063)
+    Availability: Not Available
+- [Vehicle Intercom System (VIS) Cable Adaptor | Silynx Communications](https://silynx-2.myshopify.com/products/vehicle-intercom-system-vis-cable-adaptor): Silynx VIS cable adaptor connects CLARUS to military vehicle intercom systems. PTT or open mic switch. Black and Tan. SKU: CA0008-10/11.
+  Updated: 2026-06-01T22:55:05Z
+  Vendor: Silynx
+  Product Type: Cable Adaptors
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/VehicleIntercomSystem_VIS_CableAdaptor.jpg?v=1779622642
+  - [Black](https://silynx-2.myshopify.com/products/vehicle-intercom-system-vis-cable-adaptor?variant=43800955584615)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/VehicleIntercomSystem_VIS_CableAdaptor_1c09ae86-dec6-42dd-b8c8-b4de19b7e374.jpg?v=1780212087
+  - [Tan](https://silynx-2.myshopify.com/products/vehicle-intercom-system-vis-cable-adaptor?variant=43800955617383)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/VehicleIntercomSystem_VIS_CableAdaptor.jpg?v=1779622642
+- [Motorola MTP750 / GP360 / HT1250 Cable Adaptor | Silynx Communications](https://silynx-2.myshopify.com/products/motorola-mtp750-gp360-ht1250-cable-adaptor): Silynx Motorola MTP750/GP360/HT1250 cable adaptor for CLARUS. QDC connector. Black (CA0148-01) and Tan (CA0148-02).
+  Updated: 2026-06-02T10:54:18Z
+  Vendor: Silynx
+  Product Type: Cable Adaptors
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/MotorolaMTP750GP360HT1250CableAdaptorGPconnector_DSC3842-2.jpg?v=1780397631
+  - [Black](https://silynx-2.myshopify.com/products/motorola-mtp750-gp360-ht1250-cable-adaptor?variant=43800954273895)
+    Availability: Not Available
+  - [Tan](https://silynx-2.myshopify.com/products/motorola-mtp750-gp360-ht1250-cable-adaptor?variant=43800954306663)
+    Availability: Not Available
+- [Dual Comms Splitter | Silynx Communications](https://silynx-2.myshopify.com/products/dual-comms-splitter): Silynx Dual Comms Splitter for CLARUS — enables dual radio use. Black (CA0139-31) and Tan (CA0139-30). Radio cables sold separately.
+  Updated: 2026-06-01T22:13:18Z
+  Vendor: Silynx
+  Product Type: Cable Adaptors
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/BlackYClarusSplitter-Square.jpg?v=1780211404
+  - [Tan](https://silynx-2.myshopify.com/products/dual-comms-splitter?variant=43800913641575)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/BlackYClarusSplitter-Square.jpg?v=1780211404
+  - [Black](https://silynx-2.myshopify.com/products/dual-comms-splitter?variant=43800913674343)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/TanYClarusSplitter.jpg?v=1780211406
+- [Civilian Headset Adaptor | Silynx Communications](https://silynx-2.myshopify.com/products/civilian-headset-adaptor): Silynx civilian headset adaptor — connects civilian earbuds to CLARUS PTT. Ideal for covert operations. Black only. SKU: CA0197-00.
+  Updated: 2026-06-02T12:26:52Z
+  Vendor: Silynx
+  Product Type: Cable Adaptors
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/3.5mmstereofemalecivilianheadset__DSC3983.jpg?v=1780403180
+- [Motorola APX Series Radio Adaptor | Silynx Communications](https://silynx-2.myshopify.com/products/motorola-apx-series-radio-adaptor): Silynx Motorola APX series cable adaptor for CLARUS. Connects to APX, XPR7550, MTP6550, SRX2200. Black (CA0117-03) and Tan (CA0117-05).
+  Updated: 2026-06-01T22:14:25Z
+  Vendor: Silynx
+  Product Type: Cable Adaptors
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/MotorolaAPXConnectror_DSC0398.jpg?v=1779972492
+  - [Black](https://silynx-2.myshopify.com/products/motorola-apx-series-radio-adaptor?variant=43800939069543)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/MotorolaAPXConnectror_DSC0398.jpg?v=1779972492
+  - [Tan](https://silynx-2.myshopify.com/products/motorola-apx-series-radio-adaptor?variant=43800939102311)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/MotorolaAPXConnectror_DSC0398.jpg?v=1779972492
+- [CLARUS VIP COVERT Tactical Headset | Silynx Communications](https://silynx-2.myshopify.com/products/clarus-vip-covert): Silynx CLARUS VIP COVERT — discreet in-ear tactical headset for covert ops. Mimics civilian earpiece. Waterproof, Talking from the Ear. SKU: HSW0001-B-20.
+  Updated: 2026-06-02T10:49:47Z
+  Vendor: Silynx
+  Product Type: In-Ear sound protection Headsets
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/inearnoretainersProtegoin-earheadsetwornandsecuredatneckfromfront1eggcovertheadsethead.jpg?v=1779701667
+- [Silynx C4OPS Tactical Headset System | Military PTT Comms](https://silynx-2.myshopify.com/products/c4ops): The Silynx C4OPS — rugged tactical headset system for special forces. In-ear hearing protection, modular PTT control, MIL-STD durability for combat ops.
+  Updated: 2026-06-01T11:38:24Z
+  Vendor: Silynx
+  Product Type: Sound Protection Radio Controllers
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/product_9bfcd50f-a0d2-11ef-aeb5-00155df2f401.jpg?v=1777649210
+- [Peltor / Sordin Headset Adaptor for Clarus | Silynx](https://silynx-2.myshopify.com/products/clarus-peltor-sordin-adaptor): Silynx Peltor/Sordin Headset Adaptor — connects Peltor or Sordin OTE headsets to the Silynx Clarus PTT. Tan only. Export controlled.
+  Updated: 2026-06-01T23:49:04Z
+  Vendor: Silynx
+  Product Type: Cable Adaptors
+  Availability: Not Available
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/PeltorClarusnexusfemaleAdaptor_DSC0821_2e006232-737c-4533-a7b6-278de5fede28.jpg?v=1780315605
+  - [NATO / Tan](https://silynx-2.myshopify.com/products/clarus-peltor-sordin-adaptor?variant=43836225421415)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/PeltorClarusnexusfemaleAdaptor_DSC0821_6049630d-2131-449b-8f36-7a28e8e617a1.jpg?v=1780314967
+  - [NATO / Black](https://silynx-2.myshopify.com/products/clarus-peltor-sordin-adaptor?variant=43836241870951)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/NexusQDCadaptorBlack_DSC0981_f0526c70-bc91-4236-a22f-350de1dbb853.jpg?v=1780314961
 
 ## Collections
 
 - [In-Ear Sound Protection Headsets | Tactical Hearing Protection — Silynx](https://silynx-2.myshopify.com/collections/in-ear-sound-protection-headsets): Silynx in-ear active sound protection headsets — NRR 25-31 dB, IP68 waterproof, Hear-Thru situational awareness. PROTEGO PRO, STD, SNG, MLD, and VIP Covert for military, law enforcement, and shooters.
-  Updated: 2026-05-31T11:33:29Z
+  Updated: 2026-06-04T00:51:44Z
   Total Products: 5
 - [Tactical Radio Cable Adaptors — MIL-STD Headset Cables | Silynx](https://silynx-2.myshopify.com/collections/cable-adaptors): Silynx tactical radio cable adaptors — MIL-STD CCS conductors, LSZH, IP68 to 10m. Connect any Silynx control box to MBITR, Motorola, Kenwood, Harris, Hytera, and more.
-  Updated: 2026-05-31T11:32:55Z
-  Total Products: 24
+  Updated: 2026-06-07T21:26:19Z
+  Total Products: 25
 - [Over-The-Ear Sound Protection Headsets | Tactical OTE — Silynx](https://silynx-2.myshopify.com/collections/over-the-ear-sound-protection-headset): Silynx over-the-ear tactical sound protection headsets — PORTEGO SDR and PORTEGO CANINE. Modular, Sordin-based, MIL-STD rated hearing protection for military and law enforcement.
-  Updated: 2026-05-31T11:30:47Z
+  Updated: 2026-06-08T07:33:35Z
   Total Products: 3
 - [Single Side Tactical Headsets | Infantry & Maritime — Silynx](https://silynx-2.myshopify.com/collections/single-side-tactical-headsets): Silynx single-sided tactical headset systems for infantry, maritime, and special operations. HSI, FALCON, and EAGLE — rugged, lightweight, boom-mic equipped, MIL-STD rated.
-  Updated: 2026-05-31T11:32:28Z
+  Updated: 2026-06-04T00:51:44Z
   Total Products: 3
 - [Active Sound Protection Plugs | Electronic Ear Plugs — Silynx](https://silynx-2.myshopify.com/collections/sound-protection-plugs): Silynx active sound protection plugs — electronic in-ear hearing protection with Hear-Thru ambient sound enhancement. Compact, comfortable, and built for tactical and shooting use.
-  Updated: 2026-05-31T11:32:04Z
+  Updated: 2026-06-04T00:51:53Z
   Total Products: 2
 - [Sound Protection Radio Controllers | Tactical PTT Control Boxes — Silynx](https://silynx-2.myshopify.com/collections/sound-protection-radio-controllers): Silynx tactical radio controllers — CLARUS I, CLARUS II, FORTIS Quad PTT, and C4OPS. In-ear hearing protection with multi-radio PTT control, MIL-STD-810, IP68 waterproof.
-  Updated: 2026-05-31T11:31:44Z
+  Updated: 2026-06-04T00:51:44Z
   Total Products: 4
 - [Wired & Wireless PTT | Tactical Push-To-Talk Accessories — Silynx](https://silynx-2.myshopify.com/collections/wired-wireless-ptt): Silynx wired and wireless push-to-talk accessories — MWPTT, U94, Finger/Palm PTT, Keyfob PTT, Gas Mask PTT, and Speaker Microphone. MIL-STD, IP68, compatible with all Silynx control boxes.
-  Updated: 2026-05-31T11:31:27Z
+  Updated: 2026-06-04T00:51:54Z
   Total Products: 8
 - [Tactical Headset Accessories & Replacement Parts | Silynx](https://silynx-2.myshopify.com/collections/accessories-replacement-parts): Silynx tactical headset accessories and replacement parts — pouches, ear tips, batteries, helmet adapters, and more. Spare parts for the full Silynx ecosystem.
-  Updated: 2026-05-31T11:31:12Z
+  Updated: 2026-06-04T01:03:18Z
   Total Products: 14
 - [All Products | Tactical Headsets, PTT & Cable Adaptors — Silynx](https://silynx-2.myshopify.com/collections/all-products): Browse the complete Silynx product catalog — in-ear headsets, radio controllers, PTT accessories, cable adaptors, and tactical accessories for military, law enforcement, and industrial use.
-  Updated: 2026-05-28T08:14:19Z
-  Total Products: 63
+  Updated: 2026-06-08T07:33:35Z
+  Total Products: 64
 
 ## Blogs
 
-- [News](https://silynx-2.myshopify.com/blogs/news)
-  - [Why Silynx TRUE VOICE Technology Outperforms Bone Conduction Microphones: Crystal-Clear Audio From the First Word](https://silynx-2.myshopify.com/blogs/news/why-silynx-true-voice-technology-outperforms-bone-conduction-microphones-crystal-clear-audio-from-the-first-word): <p><meta charset="utf-8">Discover why Silynx TRUE VOICE technology delivers superior voice clarity compared to bone conduction microphones—with zero latency and 100+ hour battery life.</p>
-    Updated: 2026-04-14T19:10:23Z
-    Author: Roei Klein
+- [Tactical Headset News & Insights | Silynx Communications](https://silynx-2.myshopify.com/blogs/news): tay current on tactical communication and hearing protection. Silynx covers in-ear headset technology, industry trends, and field-tested innovations.
+  - [Why Silynx TRUE VOICE Technology Outperforms Bone Conduction Microphones: Crystal-Clear Audio From the First Word](https://silynx-2.myshopify.com/blogs/news/why-silynx-true-voice-technology-outperforms-bone-conduction-microphones-crystal-clear-audio-from-the-first-word): <p>Discover why Silynx TRUE VOICE technology delivers superior voice clarity compared to bone conduction microphones—with zero latency and up to 72 hours of battery life (over 140 hours with a second AAA battery).</p>
+    Updated: 2026-06-02T11:00:30Z
+    Author: Silynx Communications
     Tags: bone conduction vs in-ear microphone, crystal clear audio, in-ear microphone, low latency audio, microphone, military communication, Silynx, Silynx CLARUS, Silynx microphone, tactical headset, TRUE VOICE, TRUE VOICE technology
   - [The Hidden Crisis: Why Hearing Protection is the Most Important  for Military, Law Enforcement, and Industrial Professionals](https://silynx-2.myshopify.com/blogs/news/the-hidden-crisis-why-hearing-protection-is-the-most-important--for-military-law-enforcement-and-industrial-professionals): <p><meta charset="utf-8">Tinnitus is the #1 VA disability claim. Over 3.2 million veterans receive compensation for hearing damage. Learn why Silynx hearing protection with Hear-Thru™ technology is essential for military, law enforcement, and industrial professionals.</p>
-    Updated: 2026-04-14T19:08:26Z
-    Author: Roei Klein
+    Updated: 2026-06-01T15:45:12Z
+    Author: Silynx Communications
     Tags: hearing defense, hearing protection, military hearing loss, NRR 25, OSHA hearing protection, Silynx hearing protection, situational awareness, tactical hearing protection, tinnitus, veteran hearing loss
 - [Press Releases | Silynxcom Ltd. (NYSE: SYNX) Investor Relations](https://silynx-2.myshopify.com/blogs/press-releases): SEC press releases and investor relations updates from Silynxcom Ltd. (NYSE American: SYNX). Regulatory filings, financial results, contract announcements, and material disclosures.
   - [Press Release: Silynxcom Announces Full Year 2025 Financial Results: Strong Balance Sheet Maintained and Strong Start to 2026, Demonstrating Significant Momentum](https://silynx-2.myshopify.com/blogs/press-releases/silynxcom-announces-full-year-2025-financial-results-strong-balance-sheet-maintained-and-strong-start-to-2026-demonstrating-significant-momentum): Press Release: Silynxcom Announces Full Year 2025 Financial Results: Strong Balance Sheet Maintained and Strong Start to 2026, Demonstrating Significant Momentum
@@ -338,23 +867,23 @@
 ## Store Pages
 
 - [Contact Silynx | Sales, Support & T&E Program Requests](https://silynx-2.myshopify.com/pages/contact): Whether you're looking to purchase Silynx tactical headset systems, request a Test & Evaluation (T&E) unit for your team, explore dealer or distrib...
-  Updated: 2026-05-27T14:17:34Z
+  Updated: 2026-06-01T13:52:04Z
 - [Who We Serve — Military, LE, Shooting and more | Silynx Communications](https://silynx-2.myshopify.com/pages/who-we-serve): Silynx designs and builds best-in-class, ruggedized headset systems that seamlessly integrate with professional radios and personal protective gear...
-  Updated: 2026-05-27T13:27:05Z
+  Updated: 2026-06-01T13:52:04Z
 - [Military Headsets, Hearing Protection & PTT — Silynx communications](https://silynx-2.myshopify.com/pages/military): Field-tested and combat-proven for nearly a decade, Silynx headsets are used by elite US and international warfighters, all levels of law enforceme...
-  Updated: 2026-05-27T13:18:27Z
+  Updated: 2026-06-01T13:52:04Z
 - [SWAT Headsets, Police Comms & Tactical PTT — Silynx communications](https://silynx-2.myshopify.com/pages/law-enforcement): Silynx makes SWAT headsets, police communication systems, and covert push-to-talk (PTT) controllers used by tactical entry teams, hostage rescue un...
-  Updated: 2026-05-27T13:19:54Z
-- [Electronic In Ear Protection for Shooting | Silynx communications](https://silynx-2.myshopify.com/pages/shooting-sport): Silynx makes in-ear electronic ear protection for shooting, hunting, and competition — engineered to military standards, designed for shooters. Our...
-  Updated: 2026-05-27T13:23:41Z
+  Updated: 2026-06-01T13:52:04Z
+- [Electronic In Ear Protection for Shooting | Silynx communications](https://silynx-2.myshopify.com/pages/shooting-sport): Silynx makes in-ear electronic ear protection for shooting, hunting, and competition - engineered to military standards, designed for shooters. Our...
+  Updated: 2026-06-01T13:52:04Z
 - [Electronic Ear Protection for Industrial | In-Ear Hearing Protection — Silynx](https://silynx-2.myshopify.com/pages/industrial): Industrial operations don’t stop for noise. Whether you’re on a construction site, inside a manufacturing plant, managing an energy facility, or wo...
-  Updated: 2026-05-10T15:38:41Z
+  Updated: 2026-06-01T13:52:04Z
 - [Investor Relations | Silynx Communications (NYSE: SYNX)](https://silynx-2.myshopify.com/pages/investor-relations): 
   Updated: 2026-05-27T12:17:54Z
 - [Resources — Videos, Brochures & Manuals | Silynx Communications](https://silynx-2.myshopify.com/pages/silynxcom-info): 
   Updated: 2026-05-27T12:18:42Z
-- [Silynx Technology | In-Ear Hearing Protection & TRUE VOICE Comms](https://silynx-2.myshopify.com/pages/silynx-technology): Silynx builds the world's smallest and lightest tactical headset systems — combining hearing protection, situational awareness, and crystal-clear c...
-  Updated: 2026-05-27T12:20:11Z
+- [Silynx Technology | In-Ear Hearing Protection & TRUE VOICE Comms](https://silynx-2.myshopify.com/pages/silynx-technology): Silynx builds the world's smallest and lightest tactical headset systems - combining hearing protection, situational awareness, and crystal-clear c...
+  Updated: 2026-06-01T13:52:04Z
 - [Quote history](https://silynx-2.myshopify.com/pages/quotes-history)
   Updated: 2026-04-12T07:12:56Z
 - [History Quote](https://silynx-2.myshopify.com/pages/history-quotes)
@@ -375,33 +904,40 @@
   Updated: 2026-05-27T14:32:42Z
 - [Product Brochures — CLARUS, FORTIS, MWPTT & More | Silynx Communications](https://silynx-2.myshopify.com/pages/product-brochures): Download detailed product brochures for the full Silynx tactical headset and accessories lineup. Each brochure includes specifications, configurati...
   Updated: 2026-05-27T14:28:16Z
-- [Tactical Headset Videos — Product Demos & Reviews | Silynx Communications](https://silynx-2.myshopify.com/pages/videos): Watch Silynx tactical headset systems in action — from product overviews and feature walkthroughs to independent field reviews and real-world opera...
-  Updated: 2026-05-27T14:22:31Z
+- [Tactical Headset Videos — Product Demos & Reviews | Silynx Communications](https://silynx-2.myshopify.com/pages/videos): Watch Silynx tactical headset systems in action - from product overviews and feature walkthroughs to independent field reviews and real-world opera...
+  Updated: 2026-06-01T13:52:04Z
 - [CLARUS I Headset System — Dual-Radio PTT Controller | Silynx Communications](https://silynx-2.myshopify.com/pages/clarus-i-system): 
   Updated: 2026-05-27T12:23:44Z
 - [CLARUS II Headset System — Triple-Radio PTT Controller | Silynx Communications](https://silynx-2.myshopify.com/pages/clarus-ii-headset-system): 
   Updated: 2026-05-27T12:24:00Z
-- [FORTIS Quad PTT System — 4-Network Tactical Controller | Silynx Communications](https://silynx-2.myshopify.com/pages/fortis-headset-system): The Fortis is Silynx’s most advanced tactical communication system—engineered for operators who require control of up to three radios or devices an...
-  Updated: 2026-05-27T12:24:16Z
+- [FORTIS Quad PTT System — 4-Network Tactical Controller | Silynx Communications](https://silynx-2.myshopify.com/pages/fortis-headset-system): The Fortis is Silynx’s most advanced tactical communication system - engineered for operators who require control of up to three radios or devices ...
+  Updated: 2026-06-01T13:52:04Z
 - [Tactical Headset Systems — CLARUS, FORTIS | Silynx Communications](https://silynx-2.myshopify.com/pages/silynx-headsets-systems): Silynx headset systems deliver mission-proven communication, advanced hearing protection, and unmatched situational awareness for today’s professio...
-  Updated: 2026-05-27T13:42:51Z
-- [Riot Control Communication Systems | In-Ear Headsets — Silynx](https://silynx-2.myshopify.com/pages/riot-control): Riot control operations expose officers to extreme noise, prolonged deployments, and demanding protective gear requirements — including riot helmet...
-  Updated: 2026-05-27T13:25:20Z
+  Updated: 2026-06-01T13:52:04Z
+- [Riot Control Communication Systems | In-Ear Headsets — Silynx](https://silynx-2.myshopify.com/pages/riot-control): Riot control operations expose officers to extreme noise, prolonged deployments, and demanding protective gear requirements - including riot helmet...
+  Updated: 2026-06-01T13:52:04Z
 - [About Silynx Communications | Tactical Headset Manufacturer | NYSE: SYNX](https://silynx-2.myshopify.com/pages/about-us): 
   Updated: 2026-05-13T07:50:18Z
 
 ## Policies
 
 - [Privacy Policy](https://silynx-2.myshopify.com/policies/privacy-policy)
-  Updated: 2026-05-28T04:20:40-07:00
+  Updated: 2026-06-02T03:45:19-07:00
 - [Shipping Policy](https://silynx-2.myshopify.com/policies/shipping-policy)
   Updated: 2026-05-28T04:23:17-07:00
 - [Refund Policy](https://silynx-2.myshopify.com/policies/refund-policy)
   Updated: 2026-05-28T04:21:03-07:00
 - [Terms of Service](https://silynx-2.myshopify.com/policies/terms-of-service)
-  Updated: 2026-05-28T04:21:24-07:00
+  Updated: 2026-06-02T04:33:10-07:00
 - [Contact Information](https://silynx-2.myshopify.com/policies/contact-information)
   Updated: 2026-05-28T06:28:15-07:00
+
+## social meta
+https://www.facebook.com/silynx
+https://www.instagram.com/silynxcom
+https://www.youtube.com/@silynxcommunications
+https://x.com/silynxcomm/
+https://www.linkedin.com/company/silynx-communications-inc-
 
 ## Optional
 
