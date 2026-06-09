@@ -12,7 +12,7 @@ The storefront is available at two mirrored domains: footnoteaccessories.co (pri
 - Timezone: America/New_York
 - Created At: 2025-01-03T03:41:48Z
 - Contact Email: Service@futuragear.com
-- Updated At: 2026-06-02T00:00:40.527Z
+- Updated At: 2026-06-09T00:00:45.940Z
 
 ## Products
 
@@ -59,14 +59,14 @@ The storefront is available at two mirrored domains: footnoteaccessories.co (pri
     Image: https://cdn.shopify.com/s/files/1/0916/5226/0138/files/copy_1e571da0-f45f-4b8f-ad13-958b9430c2be.jpg?v=1770676760
     Price: $19.99 CAD
 - [OneSnap Magnetic Wireless Charger - Fast & Portable](https://footnoteaccessories.co/products/onesnap-3-in-1-wireless-charger): Experience seamless power with the OneSnap magnetic wireless charger, designed for MagSafe-compatible devices.
-  Updated: 2026-06-01T16:42:11Z
+  Updated: 2026-06-03T20:43:32Z
   Vendor: Footnote Accessories Co.
   Product Type: wireless charger
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0916/5226/0138/files/FTNTWC01_Amazon_Hero.png?v=1770676762
   Price: $29.99 CAD
 - [ZenStand Wireless Charger - 3-in-1 Genuine Wood](https://footnoteaccessories.co/products/zenstand): Discover the ZenStand wireless charger: a stylish 3-in-1 genuine wood charger compatible with MagSafe for effortless device charging.
-  Updated: 2026-06-01T16:43:00Z
+  Updated: 2026-06-04T15:35:06Z
   Vendor: Footnote Accessories Co.
   Product Type: wireless charger
   Availability: Available
@@ -87,7 +87,7 @@ The storefront is available at two mirrored domains: footnoteaccessories.co (pri
   Image: https://cdn.shopify.com/s/files/1/0916/5226/0138/files/FTNTTC01Amazonlifestyle.png?v=1774546701
   Price: $19.99 CAD
 - [ZenStand 3-in-1 Wood MagSafe Charger with 30W Power Adapter](https://footnoteaccessories.co/products/zenstand-3-in-1-wood-magsafe-charger-30w-gan-adapter): Discover the ZenStand 3-in-1 Wood MagSafe charger, combining style and fast charging with a 30W GaN power adapter for all your Apple devices.
-  Updated: 2026-06-01T16:44:38Z
+  Updated: 2026-06-05T14:23:31Z
   Vendor: Footnote Accessories Co.
   Product Type: wireless charger
   Availability: Available
@@ -120,16 +120,16 @@ The storefront is available at two mirrored domains: footnoteaccessories.co (pri
   Updated: 2026-05-27T14:45:47Z
   Total Products: 1
 - [Top Phone Accessories to Enhance Your Device](https://footnoteaccessories.co/collections/gadgets): Discover the best phone accessories to protect, personalize, and improve your smartphone experience. Explore cases, chargers, and more.
-  Updated: 2026-06-01T16:44:39Z
+  Updated: 2026-06-04T11:21:37Z
   Total Products: 5
 - [Discover Cool Gadgets from Our Trusted Partners](https://footnoteaccessories.co/collections/cool-gadgets-from-our-partners): Explore the coolest gadgets from our partners offering innovative, fun, and practical devices to enhance your daily life.
   Updated: 2026-04-22T17:04:02Z
   Total Products: 0
 - [Travel Charger: Essential Guide for Every Traveler](https://footnoteaccessories.co/collections/travel-charger): Discover the best travel charger options to keep your devices powered on the go. Tips and features for choosing the ideal travel charger.
-  Updated: 2026-06-01T16:41:59Z
+  Updated: 2026-06-03T11:21:30Z
   Total Products: 1
 - [Artisan Wireless Charger - 3-in-1 Fast Charging Station](https://footnoteaccessories.co/collections/artisan-3-in-1-wireless-charger): Discover the Artisan wireless charger with 3-in-1 functionality for seamless, fast charging of your devices in one elegant station.
-  Updated: 2026-06-01T16:44:39Z
+  Updated: 2026-06-04T11:21:37Z
   Total Products: 2
 - [Stylish Wallets by ROUGHCLOUD | Durable Card Holders](https://footnoteaccessories.co/collections/wallets-card-holders-by-roughcloud): Discover premium wallets by ROUGHCLOUD. Stylish, durable wallets and card holders designed for everyday use. Shop quality wallets now.
   Updated: 2026-06-01T18:52:35Z
@@ -138,7 +138,7 @@ The storefront is available at two mirrored domains: footnoteaccessories.co (pri
   Updated: 2026-04-22T17:04:03Z
   Total Products: 0
 - [New! Shopify performance sharing is now turned on - Footnote](https://footnoteaccessories.co/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature  - Footnote Accessories Co.
-  Updated: 2026-06-01T16:44:39Z
+  Updated: 2026-06-04T12:40:56Z
   Total Products: 13
 
 ## Blogs
@@ -215,6 +215,9 @@ The storefront is available at two mirrored domains: footnoteaccessories.co (pri
     Author: Xianshuai Chen
   - [Beyond Abstract: How to Turn Your Favorite Travel Memory into a](https://footnoteaccessories.co/blogs/news/beyond-abstract-how-to-turn-your-favorite-travel-memory-into-a-minimalist-wallpaper): Beyond Abstract: How to Turn Your Favorite Travel Memory into a
     Updated: 2026-06-01T18:52:49Z
+    Author: Xianshuai Chen
+  - [The Ultimate Father’s Day Gift Guide for the Dad Who Wants "Nothing"](https://footnoteaccessories.co/blogs/news/cracking-the-code-the-ultimate-father-s-day-gift-guide-for-the-dad-who-wants-nothing): When dad says he doesn't want anything, that's your cue to get creative. Discover our curated Father's Day gift guide — matched to his lifestyle, whether he's an outdoor adventurer or a frequent traveler.
+    Updated: 2026-06-04T15:28:04Z
     Author: Xianshuai Chen
 - [How to](https://footnoteaccessories.co/blogs/how-to)
   - [How to Choose a Wood Wireless Charger: Materials, Performance, Features & Best Options (4-Part Series) - Part 1 Materials](https://footnoteaccessories.co/blogs/how-to/how-to-choose-a-wood-wireless-charger-materials-performance-features-best-options-4-part-series-part-1-materials): Part 1 of a 4-part series on choosing the right wood wireless charger. This post focuses on materials — walnut vs. oak vs. maple, what finish to look for, and how to tell real wood from plastic imitations. A practical guide so your charger looks premium and lasts.
