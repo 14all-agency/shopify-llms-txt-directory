@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-09-08T08:53:04Z
 - Contact Email: charline@makeyourown.fr
-- Updated At: 2026-06-01T11:55:44.604Z
+- Updated At: 2026-06-09T00:00:27.863Z
 
 ## Products
 
@@ -172,8 +172,8 @@
   Image: https://cdn.shopify.com/s/files/1/0941/6586/0736/files/bouillotte-cherry-01_6b5810f1-0c79-4dd2-b2fb-e0c13878369a.jpg?v=1771424291
   Price: 3,90 € EUR
 - [Offrir un moment couture](https://laboutique.makeyourown.fr/products/bon-cadeau): À l'occasion d'un anniversaire, d'une future naissance, de Noël, ou juste pour faire plaisir, un moment couture c'est plus qu'une activité créative. C'est une expérience sur mesure qui montre une attention particulière aux intérêts et au bien-être du destinataire. C’est un cadeau qui a un impact personnel profond, qui va au-delà de l’instant. La couture offre une parenthèse hors du tumulte quotidien. Offrir un moment de couture, c’est offrir un moment pour souffler, se recentrer, et retrouver un calme intérieur. Chaque geste, chaque choix de tissu ou de couleur devient un miroir de sa personnalité.Offrir cette expérience, c’est inviter à un moment de création qui révèle une part de soi. C'est un cadeau qui ne prend pas la poussière sur une étagère : il reste gravé dans la mémoire. Chaque point cousu devient un souvenir, chaque création une fierté.Un moment qui marque, qui touche, et qui s’emporte avec soi. Offrir une carte, un cours ou un atelier, c’est bien plus qu’un simple geste. C’est semer une graine de confiance, de créativité et de plaisir durable. C’est permettre à quelqu’un de s’accorder un moment à soi, d’apprendre à son rythme, et de repartir avec quelque chose qu’il a fait de ses mains. Certains ateliers sont fournitures incluses et d'autres sans les fournitures, merci de vérifier sur la fiche correspondante En journée du mardi au vendredi et le samedi sur demande MYO Café Couture à Neuville-sur-Saône Valable 1 an Aucun produit physique ne sera envoyé. Je vous enverrai sous trois jours par e-mail le bon cadeau sous format PDF à imprimer. Il comportera le nom et le prénom de la personne ainsi que votre message personnalisé. Découvrez le Café Couture
-  Updated: 2026-05-25T12:46:57Z
-  Vendor: MYO COUTURE | La Boutique
+  Updated: 2026-06-03T19:49:11Z
+  Vendor: MYO COUTURE | La boutique
   Product Type: bon cadeau
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0941/6586/0736/files/bon_cadeau_offrir.png?v=1771418932
@@ -249,11 +249,11 @@
   - [ATELIER NAISSANCE : cape de bain](https://laboutique.makeyourown.fr/products/bon-cadeau?variant=57368052040064)
     Availability: Available
     Price: 40,00 € EUR
-  - [ATELIER Découverte Cozy Coloriage](https://laboutique.makeyourown.fr/products/bon-cadeau?variant=58136478941568)
+  - [Atelier découverte Cozy Coloriage](https://laboutique.makeyourown.fr/products/bon-cadeau?variant=58198426845568)
     Availability: Available
     Price: 25,00 € EUR
-- [stage été couture 8 - 11 ans matin du 20 au 24 juillet 2026](https://laboutique.makeyourown.fr/products/stage-8-11-ans-ete): Stage d'été couture enfant semaine 30. Au programme : bouillotte Cherry (à chaud ou à froid), panier et ses lingettes, tote bag et housse de coussin . Pour les 8 – 11 ans MYO Café Couture à Neuville-sur-Saône Du lundi 20 au vendredi 24 juillet L'après-midi de 14h à 17h 6 places Pour que votre enfant profite d’une expérience la plus personnelle possible, il devra apporter ses propres fournitures pour réaliser ses créations.Suite à votre inscription, vous recevrez la liste des fournitures. Désistement et annulation.Toute annulation effectuée moins de quinze jours avant l’activité ou durant l’activité ne donne lieu à aucune forme de remboursement.
-  Updated: 2026-05-19T22:34:04Z
+- [stage été couture 8 - 11 ans après-midi du 20 au 24 juillet 2026](https://laboutique.makeyourown.fr/products/stage-8-11-ans-ete): Stage d'été couture enfant semaine 30. Au programme : bouillotte Cherry (à chaud ou à froid), panier et ses lingettes, tote bag et housse de coussin. Pour les 8 – 11 ans MYO Café Couture à Neuville-sur-Saône Du lundi 20 au vendredi 24 juillet L'après-midi de 14h à 17h 6 places Pour que votre enfant profite d’une expérience la plus personnelle possible, il devra apporter ses propres fournitures pour réaliser ses créations.Suite à votre inscription, vous recevrez la liste des fournitures. Désistement et annulation.Toute annulation effectuée moins de quinze jours avant l’activité ou durant l’activité ne donne lieu à aucune forme de remboursement.
+  Updated: 2026-06-08T13:23:35Z
   Vendor: MYO COUTURE | La Boutique
   Product Type: 
   Availability: Available
@@ -294,15 +294,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0941/6586/0736/files/pochon-a-coulisse-01.jpg?v=1771424251
   Price: 3,90 € EUR
-- [stage de pré-rentrée couture 8 - 11 ans matin du 24 au 28 aôut 2026](https://laboutique.makeyourown.fr/products/stage-de-pre-rentree-couture-8-11-ans-matin-du-24-au-28-aout-2026): Stage d'été couture enfant semaine 35. Programme à venir d'ici le 15 juin. Pour les 8 – 11 ans MYO Café Couture à Neuville-sur-Saône Du lundi 20 au vendredi 24 juillet Le matin de 9h à 12h 6 places Pour que votre enfant profite d’une expérience la plus personnelle possible, il devra apporter ses propres fournitures pour réaliser ses créations.Suite à votre inscription, vous recevrez la liste des fournitures. Désistement et annulation.Toute annulation effectuée moins de quinze jours avant l’activité ou durant l’activité ne donne lieu à aucune forme de remboursement.
-  Updated: 2026-05-20T00:51:35Z
+- [stage de pré-rentrée couture 8 - 11 ans matin du 24 au 28 aôut 2026](https://laboutique.makeyourown.fr/products/stage-de-pre-rentree-couture-8-11-ans-matin-du-24-au-28-aout-2026): Stage d'été couture enfant semaine 35. Au programme : bouillotte Cherry (à chaud ou à froid), trousse plate et portier Georges. Pour les 8 – 11 ans MYO Café Couture à Neuville-sur-Saône Du lundi 20 au vendredi 24 juillet Le matin de 9h à 12h 6 places Pour que votre enfant profite d’une expérience la plus personnelle possible, il devra apporter ses propres fournitures pour réaliser ses créations.Suite à votre inscription, vous recevrez la liste des fournitures. Désistement et annulation.Toute annulation effectuée moins de quinze jours avant l’activité ou durant l’activité ne donne lieu à aucune forme de remboursement.
+  Updated: 2026-06-08T13:23:35Z
   Vendor: MYO COUTURE | La Boutique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0941/6586/0736/files/stage_prerentree_enfants_8_11_ANS.jpg?v=1779194959
   Price: 125,00 € EUR
 - [Atelier découverte Cozy Coloriage](https://laboutique.makeyourown.fr/products/atelier-decouverte-cozy-coloriage): Cozy coloriage : une tendance bien-être accessible à tous Le cozy coloriage est une tendance de loisirs créatifs centrée sur des illustrations simples, douces et réconfortantes. On y retrouve des scènes du quotidien, des animaux ou des univers chaleureux, pensés pour créer une ambiance apaisante. Cette activité ne vise pas la performance artistique, mais le plaisir de colorier et de ralentir. Elle s’inscrit dans une logique de pause mentale, où l’on se concentre sur un geste simple et répétitif, loin des écrans et du stress quotidien. Le résultat compte moins que le moment en lui-même : c’est une activité accessible, sans niveau requis, qui permet de se détendre, se recentrer et profiter d’un instant calme. Au programme : • Explication des bases (roue des couleurs, choix de la palette, les effets) • Entraînement et exercices sur feuille test • Choix du coloriage et mise en pratiqueAucun niveau requis, ambiance cozy, un instant de détente à partager. Enfants et adultes MYO Café Couture à Neuville-sur-Saône Sur réservation du mardi au samedi 2h30 4 à 6 participants par session Les sessions de cosy coloriage sont organisées à partir de 4 participants inscrits.
-  Updated: 2026-05-23T01:27:25Z
+  Updated: 2026-06-03T20:20:46Z
   Vendor: MYO COUTURE | La Boutique
   Product Type: Service
   Availability: Available
@@ -318,7 +318,7 @@
   Updated: 2026-04-20T16:30:33Z
   Total Products: 0
 - [coudre au Café Couture](https://laboutique.makeyourown.fr/collections/coudre-au-cafe-couture): Le Café Couture à Neuville-sur-Saône est un lieu convivial où la couture devient un moment de partage et de créativité. Vous y trouverez des cours de couture et ateliers de couture adaptés à tous les niveaux, ainsi que des sessions de couture libre pour travailler à votre rythme avec les machines et outils mis à disposition. C'est un atelier qui s’adresse à toutes celles et ceux qui souhaitent prendre un moment pour eux, expérimenter, apprendre et créer dans un espace chaleureux.Vous souhaitez offrir un moment de couture pour un anniversaire, une naissance ou Noël ? Découvrez nos cartes cadeau !
-  Updated: 2026-05-26T11:50:08Z
+  Updated: 2026-06-03T07:54:11Z
   Total Products: 1
 - [patrons de couture](https://laboutique.makeyourown.fr/collections/patrons-de-couture): Découvrez des patrons de couture conçus pour vous accompagner dans toutes vos créations textiles. Ils sont disponibles en téléchargement PDF, prêts à utiliser à la maison ou à l’atelier. Ces patrons vous offrent la liberté de créer des projets uniques, adaptés à votre style et à vos envies. Que vous soyez passionné·e de DIY ou simplement curieux·se de découvrir le monde de la couture, pas besoin d’être expert·e pour vous lancer : chaque patron est pensé pour être clair, détaillé et progressif, avec toutes les instructions nécessaires pour réussir vos projets du début à la fin. Il s'agit de fichiers numériques. Aucun produit physique ne vous sera envoyé. La boutique en ligne a ouvert ses portes au printemps 2026. Des patrons de couture seront ajoutés régulièrement. MYO COUTURE, c’est aussi une chaîne YouTube @MYOCOUTURE, où vous retrouverez des explications vidéo pour chaque patron. Les tutoriels vidéo seront ajoutés progressivement.
   Updated: 2026-04-20T16:30:34Z
@@ -339,16 +339,16 @@
   Updated: 2026-04-20T16:30:35Z
   Total Products: 1
 - [ateliers de couture enfants](https://laboutique.makeyourown.fr/collections/ateliers-de-couture-enfants): Les ateliers enfants du Café Couture sont pensés pour éveiller la créativité de votre enfant tout en lui faisant découvrir les bases de la couture. Chaque session est centrée sur un projet amusant et concret, que votre enfant pourra terminer et emporter. Adaptés aux différents âges et niveaux, ces ateliers permettent à votre enfant de progresser à son rythme, avec un accompagnement bienveillant et ludique. Des ateliers spéciaux sont proposés selon les saisons et les fêtes pour varier les projets et surprendre votre enfant. Découvrez le Café Couture
-  Updated: 2026-05-30T11:38:51Z
+  Updated: 2026-06-02T11:49:28Z
   Total Products: 6
 - [ateliers de couture naissance](https://laboutique.makeyourown.fr/collections/ateliers-de-couture-naissance): Les ateliers de couture naissance permettent à chacun de créer un cadeau unique pour bébé, qu’on soit parent, ami, grand-parent ou cousin. Parce qu’il est souvent difficile de trouver un cadeau qui sorte vraiment de l’ordinaire, ces ateliers offrent la possibilité de fabriquer soi-même des indispensables uniques. Découvrez le Café Couture
   Updated: 2026-04-20T16:30:35Z
   Total Products: 2
 - [stages vacances scolaires](https://laboutique.makeyourown.fr/collections/stages-vacances-scolaires): Les vacances scolaires sont un temps précieux pour le développement personnel des enfants. Au delà du loisir créatif, la couture développe la concentration, la précision, la coordination, mais surtout la confiance. Je vous propose des stages créatifs sur une semaine en demie journée. En petit groupe de 6 maximum, votre enfant entre dans un véritable atelier de création. Il ne s’agit pas simplement de coudre. Il s’agit d’apprendre à suivre un projet, à manipuler des outils, à faire preuve de patience, à transformer une idée en une pièce confectionnée et rapportée fièrement à la maison.
-  Updated: 2026-05-19T12:52:55Z
+  Updated: 2026-06-02T11:50:15Z
   Total Products: 7
 - [Sélection du moment](https://laboutique.makeyourown.fr/collections/selection-du-moment)
-  Updated: 2026-05-26T11:50:08Z
+  Updated: 2026-06-03T07:54:11Z
   Total Products: 9
 
 ## Blogs
@@ -377,6 +377,13 @@
   Updated: 2026-02-01T19:00:34+01:00
 - [Contact Information](https://laboutique.makeyourown.fr/policies/contact-information)
   Updated: 2026-02-27T13:44:52+01:00
+
+## social media
+Instagram https://www.instagram.com/makeyourowncouture/
+Facebook https://www.facebook.com/MYOcouture/
+Youtube https://www.youtube.com/@MYOCouture
+Pinterest https://fr.pinterest.com/MYOcouture/
+
 
 ## Optional
 
