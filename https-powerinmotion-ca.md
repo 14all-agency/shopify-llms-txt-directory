@@ -10,7 +10,7 @@
 - Contact Email: info@powerinmotion.ca
 - Contact Phone: 403-233-8841
 - Address: Unit 101 4405 9st SE, T2G 3C8, Calgary AB
-- Updated At: 2026-06-01T00:00:48.384Z
+- Updated At: 2026-06-09T00:00:49.570Z
 
 ## Products
 
@@ -84,13 +84,13 @@
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/tern-front-rack-default-title-tern-sidekick-seat-pad-28624858513508.jpg?v=1709687174
   Price: $95.00 CAD
 - [Selle Royal - Respiro - Moderate](https://powerinmotion.ca/products/selle-royal-respiro-moderate): An anatomically designed saddle with RoyalgelTM Technology and equipped with a ventilation channel that reduces pressure in the perineal area while improving respiration. These features combine with one of the most advanced products of the Selle Royal range to ensure comfort and relief even after prolonged use. ROYALGEL Thanks to its unique tridimensional gel structure, Royalgel™ guarantees the highest level of comfort, reducing pressure peaks by 40% compared to standard padding materials. VENTILATION CHANNEL This is a unique feature, specific to the Respiro line, guaranteeing high respiration while relieving pressure on the perineal area. COOL COVER Our extraordinary cover is up to 25°C cooler than a standard black saddle due to its special material composition which reflects sunlight. WATER-RESISTANT Royal Vacuum Light is a patented Selle Royal technology that allows the saddle to be 100% sealed and therefore water-resistant. Saddles made with this production method are furthermore 20% lighter than ordinary ones of the same category. ELASTOMERS Absorbing even the most severe and unexpected shocks, elastomers work both vertically and horizontally for safe, silent, and permanently non-deformable performance. INTEGRATED CLIP SYSTEM A patented clip system is positioned at the rear of the saddle for easy attachment of a Selle Royal saddle bag or other accessories.
-  Updated: 2026-05-26T17:05:19Z
+  Updated: 2026-06-06T23:54:31Z
   Vendor: Selle Royal
   Product Type: Bike Seat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/selle-royal-bike-seat-unisex-selle-royal-respiro-moderate-28629511929956.jpg?v=1686946697
   - [Unisex](https://powerinmotion.ca/products/selle-royal-respiro-moderate?variant=39588589076580)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/selle-royal-bike-seat-unisex-selle-royal-respiro-moderate-28629511929956.jpg?v=1686946697
     Price: $95.00 CAD
   - [Men's](https://powerinmotion.ca/products/selle-royal-respiro-moderate?variant=39588589109348)
@@ -213,7 +213,7 @@
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/aqua-marina-dry-bag-default-title-aqua-marina-dry-bag-20l-28787771670628.jpg?v=1687040115
   Price: $16.99 CAD
 - [Aqua Marina - 12V Electric Pump - 20 PSI](https://powerinmotion.ca/products/aqua-marina-12v-electric-pump-20-psi): Inflates Virtually anything - i.e SUP's, Boats, Kayaks, and Air Platforms LCD screen Cigarette lighter or Battery Attachable 12V - up to 20 PSI, 110W Inflation/Deflation Time: Inflate:1PSI/min Deflate: 4PSI/min
-  Updated: 2026-05-26T17:05:22Z
+  Updated: 2026-06-07T21:09:36Z
   Vendor: Aqua Marina
   Product Type: Watercraft Fuel Pumps & Parts
   Availability: Available
@@ -282,15 +282,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/suntour-bicycle-seatposts-default-title-suntour-ncx-suspension-seatpost-31106125594724.jpg?v=1687032132
   Price: $150.00 CAD
-- [Montague Carrying Case | Folding Bikes | Canada Wide Shipping PIM](https://powerinmotion.ca/products/montague-carrying-case): Montague’s soft-sided bicycle carrying case, made of 420 Denier nylon, provides great protection at an affordable price. The carrying case features an inner pocket for the front wheel, a direct mount shoulder strap, two side handles, double-layered nylon bottom, and the heaviest YKK zipper available. Ontario | Quebec | British Columbia | Alberta | New Brunswick | Nova Scotia |Prince Edward | Manitoba Saskatchewan | Newfoundland & Labrador
-  Updated: 2026-05-26T17:05:25Z
-  Vendor: Montague
-  Product Type: Bike Bag
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/montague-bike-bag-default-title-montague-carrying-case-28884132790372.png?v=1709686826
-  Price: $195.00 CAD
 - [49n - Alloy Stay Mount Kickstand](https://powerinmotion.ca/products/49n-alloy-stay-mount-kickstand): • Lightweight adjustable alloy kickstand• Chainstay-mount, compatible with disc-brake equipped bikes
-  Updated: 2026-05-26T17:05:25Z
+  Updated: 2026-06-04T21:46:08Z
   Vendor: Live To Play
   Product Type: Bicycle Kickstands
   Availability: Available
@@ -527,8 +520,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/tern-vehicle-bicycle-rack-accessories-default-title-tern-batten-straps-31106002387044.jpg?v=1686947624
   Price: $30.00 CAD
+- [SunSeeker - Eco-Delta SX - Recumbent Trike](https://powerinmotion.ca/products/sunseeker-eco-delta-sx-recumbent-trike): The Eco Delta SX is the newest edition to the Sun Seeker delta trike family. This is our most affordable trike, but just because its affordable doesn’t mean that it is not full of features. It has a fully adjustable mesh-back saddle with a padded bottom that keeps you cool and comfortable on long outings. There are spare bottle mounts on the handlebar and seat frame to let you carry plenty of hydration for the long hauls. Specifications WHEEL BASE 42 1/2 – 63″ (126-160cm) OVERALL LENGTH 68 3/4″-82 1/4″ (125-209cm) WIDTH 30 1/2″ (77.5cm) SEAT HEIGHT 20 1/2″ -22 3/4″ (52-58cm) B.B. HEIGHT 20″ (51cm) FRAME High Tensile Tig Welded Steel FORK High Tensile Steel BB Loose Ball 68mm CRANK Single Alloy 170mm 38t F. DERAILLEUR N/A R. DERAILLEUR Sunrace SHIFTER Sunrace FREEWHEEL 13-32 7 Speed GEAR INCH RANGE 22-55 PEDALS Alloy Cage BRAKE FRONT Promax Alloy Linear Pull BRAKE REAR Promax Mechanical Disc BRAKE LEVERS Promax Locking Linear Pull HEADSET 1 1/8″ Steel HANDLEBAR Steel w/2 Bottle Braze-ons STEM Alloy 240mm Recumbent 2pc HUB FRONT B/O HUB REAR Sealed Bearing Trike RIM FRONT 20×1.50 36h Alloy RIM REAR 20×1.50 36h Alloy SPOKES 14g. Stainless Steel TIRE FRONT 20×1.50 Kenda Kwest TIRE REAR 20×1.50 Kenda Kwest SADDLE Steel Frame 1pc – Padded/Mesh w/ Bottle Braze-ons SEAT SLIDE Rans Style WEIGHT 57 lbs. WEIGHT LIMIT 300 lbs. X-SEAM 31″-53″ (31-79cm)
+  Updated: 2026-06-08T22:41:22Z
+  Vendor: Sunseeker
+  Product Type: Tricycles
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/Sun-Seeker-Eco-Delta-Black-Blue-670113.jpg?v=1780901765
+  Price: $1,145.00 CAD
 - [Spokes](https://powerinmotion.ca/products/spokes)
-  Updated: 2026-05-26T17:05:32Z
+  Updated: 2026-06-03T18:46:17Z
   Vendor: Power in Motion
   Product Type: Mechanic Service
   Availability: Available
@@ -595,7 +595,7 @@
   Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/riese-muller-electric-bike-default-title-riese-muller-load-75-touring-31100288368740.png?v=1686947766
   Price: $11,629.00 CAD
 - [Tern Short Haul D8](https://powerinmotion.ca/products/tern-short-haul-d8-1): Tern Short Haul D8 — Compact Cargo Bike *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; } :root { --black: #111110; --white: #fafaf8; --gray-100: #f5f5f3; --gray-200: #e8e8e5; --gray-400: #a8a8a4; --gray-600: #6b6b67; --accent: #d95f2b; --accent-light: #f5e8e0; --font-sans: 'DM Sans', sans-serif; --font-mono: 'DM Mono', monospace; } body { font-family: var(--font-sans); background: var(--white); color: var(--black); min-height: 100vh; padding: 0; } .page { max-width: 760px; margin: 0 auto; padding: 3rem 2rem 5rem; } .breadcrumb { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--gray-400); font-family: var(--font-mono); margin-bottom: 2.5rem; letter-spacing: 0.02em; flex-wrap: wrap; } .breadcrumb span { color: var(--gray-200); } .product-header { margin-bottom: 2rem; } .badge-row { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 0.75rem; } .badge { display: inline-block; font-size: 10px; font-family: var(--font-mono); letter-spacing: 0.1em; text-transform: uppercase; background: var(--accent-light); color: var(--accent); border: 1px solid #e8c4ae; border-radius: 3px; padding: 3px 8px; } .badge-alt { display: inline-block; font-size: 10px; font-family: var(--font-mono); letter-spacing: 0.1em; text-transform: uppercase; background: var(--gray-100); color: var(--gray-600); border: 1px solid var(--gray-200); border-radius: 3px; padding: 3px 8px; } h1 { font-size: 34px; font-weight: 600; line-height: 1.15; color: var(--black); margin-bottom: 0.35rem; letter-spacing: -0.025em; } .subtitle { font-size: 13px; font-family: var(--font-mono); color: var(--gray-400); letter-spacing: 0.04em; margin-bottom: 0.5rem; } .tagline { font-size: 16px; color: var(--gray-600); line-height: 1.5; } .price-hero { display: flex; align-items: baseline; gap: 10px; margin-top: 1rem; } .price-hero .price { font-size: 32px; font-weight: 600; letter-spacing: -0.02em; color: var(--black); } .price-hero .price-note { font-size: 12px; color: var(--gray-400); font-family: var(--font-mono); } .divider { border: none; border-top: 1px solid var(--gray-200); margin: 2rem 0; } .description { font-size: 15px; line-height: 1.75; color: #333332; margin-bottom: 2rem; } .stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; background: var(--gray-200); border: 1px solid var(--gray-200); border-radius: 8px; overflow: hidden; margin-bottom: 2rem; } .stat { background: var(--white); padding: 1.1rem 0.75rem; text-align: center; } .stat-value { font-size: 17px; font-weight: 600; color: var(--black); letter-spacing: -0.02em; display: block; } .stat-label { font-size: 10px; color: var(--gray-400); font-family: var(--font-mono); margin-top: 4px; display: block; } .section-label { font-size: 13px; font-family: var(--font-sans); font-weight: 600; letter-spacing: -0.01em; text-transform: none; color: var(--black); margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid var(--accent); display: inline-block; } .features { display: flex; flex-direction: column; border: 1px solid var(--gray-200); border-radius: 8px; overflow: hidden; margin-bottom: 2rem; } .feature { display: grid; grid-template-columns: 3px 1fr; border-bottom: 1px solid var(--gray-200); transition: background 0.15s; } .feature:last-child { border-bottom: none; } .feature:hover { background: var(--gray-100); } .feature-accent { background: transparent; transition: background 0.15s; } .feature:hover .feature-accent { background: var(--accent); } .feature-content { padding: 1.1rem 1.25rem; } .feature-title { font-size: 14px; font-weight: 600; color: var(--black); margin-bottom: 3px; } .feature-desc { font-size: 13px; color: var(--gray-600); line-height: 1.5; } .spec-group { margin-bottom: 1.75rem; } .specs-table { width: 100%; border-collapse: collapse; border: 1px solid var(--gray-200); border-radius: 8px; overflow: hidden; font-size: 13px; } .specs-table tr { border-bottom: 1px solid var(--gray-200); } .specs-table tr:last-child { border-bottom: none; } .specs-table tr:hover td { background: var(--gray-100); } .specs-table td { padding: 9px 14px; background: var(--white); transition: background 0.1s; vertical-align: top; } .specs-table td:first-child { color: var(--gray-600); font-family: var(--font-mono); font-size: 11px; width: 42%; letter-spacing: 0.01em; } .specs-table td:last-child { color: var(--black); font-weight: 500; } .colours { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 2rem; } .colour-chip { display: flex; align-items: center; gap: 8px; font-size: 13px; font-family: var(--font-mono); padding: 6px 14px 6px 10px; border: 1px solid var(--gray-200); border-radius: 4px; color: var(--black); background: var(--white); } .colour-swatch { width: 14px; height: 14px; border-radius: 50%; border: 1px solid rgba(0,0,0,0.1); flex-shrink: 0; } .price-row { display: flex; align-items: baseline; gap: 12px; margin-bottom: 0.4rem; } .price { font-size: 28px; font-weight: 600; letter-spacing: -0.02em; color: var(--black); } .price-note { font-size: 12px; color: var(--gray-400); font-family: var(--font-mono); } .sku { font-size: 11px; color: var(--gray-400); font-family: var(--font-mono); letter-spacing: 0.04em; margin-bottom: 2rem; } .footer-line { border-top: 1px solid var(--gray-200); padding-top: 1.5rem; font-size: 12px; color: var(--gray-400); font-family: var(--font-mono); display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px; } @media (max-width: 560px) { h1 { font-size: 26px; } .stats { grid-template-columns: repeat(2, 1fr); } .page { padding: 2rem 1.25rem 4rem; } } bikes / cargo bikes / Short Haul D8 Tern Non-Electric Cargo Bike Gen 1 EFBE  Short Haul D8 · Gen 1 · 1×8 · Non-Electric Short Haul D8 Tern's most affordable cargo bike — no motor, no battery, just a strong, light, capable platform for hauling kids, groceries, and gear on human power. $1,499 CAD 16.1 kg weight 140 kg max GVW 50 kg rear rack capacity The Short Haul D8 proves you don't need a motor to haul seriously. At 16.1 kg it's the lightest bike in the Tern lineup by a wide margin — and at $1,499, the most affordable. The EFBE Tri-Test  6061-AL frame carries up to 140 kg gross vehicle weight, the Atlas Q rear rack handles 50 kg with optional vertical parking, and hydraulic disc brakes stop it reliably whether you're loaded or light. Shimano Altus 1×8 shifting, Schwalbe Big Apple tires, and a wide fit range round out a bike that does real cargo work without the complexity or cost of an e-bike. Highlights 16.1 kg — the lightest Tern we carry No motor, no battery means a genuinely light bike. At 16.1 kg (35.5 lb) the Short Haul D8 is dramatically lighter than any e-cargo bike — easier to lift, carry up stairs, load into a vehicle, or just push around when you need to. 140 kg GVW — EFBE Tri-Test  Frame and steel fork EFBE Tri-Test  to 140 kg (308 lb) gross vehicle weight. The same rigorous independent safety testing as Tern's e-cargo bikes — just without the motor. Carries passengers, children, and full cargo loads with confidence. 50 kg Atlas Q rear rack + optional 20 kg front rack 6-point mounting Atlas Q Rack rated to 50 kg (110 lb) with UpperDeck Mount System and vertical parking. Add an optional front rack for up to 20 kg more carrying capacity. Compatible with the full Short Haul accessory range — child seats, panniers, cargo bags. Hydraulic disc brakes Front and rear hydraulic disc brakes deliver consistent, powerful stopping regardless of weather or load — a meaningful spec upgrade at this price point that puts it ahead of most cargo bikes in this range. Shimano Altus 1×8 — 31"–95" gear range Shimano Altus rear derailleur with 11–34T cassette and trigger shifter. Wide 31"–95" gear range handles loaded urban riding and gentle hills without needing a motor to get up them. Ultra-low 49 cm standover At 49 cm (19"), the step-over height is low enough to mount and dismount easily at traffic stops — even with a fully loaded rack or child seat behind you. Wide rider fit — 147–190 cm Adjustable stem and seatpost fit riders from 4'10" to 6'3" across a wide saddle-to-pedal range of 62–110 cm. One frame, shared easily across most adults. Vertical parking The Atlas Q Rack supports vertical parking — stand the bike upright on its rear wheel for tight storage in hallways, storage rooms, or small garages. Available colours Burnt Orange Black Drivetrain Shifter 1×8-speed, trigger Rear derailleur Shimano Altus Cassette 11–34T, 8-speed Crankset Forged 6061-AL crankarm Bottom bracket FSA, cartridge, sealed bearings Chain KMC, 8-speed Gear range 31"–95" (2.45–7.57 m) Pedals Urban, non-slip surface Brakes Front brake Hydraulic disc Rear brake Hydraulic disc Levers Hydraulic disc Wheels & Tires Front hub Disc, aluminium Rear hub 8-speed, disc, aluminium Rims Doublewall, for disc Tires Schwalbe Big Apple, 55-406, puncture protection, Reflex Spokes Stainless steel Frame & Cockpit Frame Tern Short Haul, patented design, 6061-AL, EFBE Tri-Test : 140 kg Fork Steel, EFBE : 140 kg Stem Forged, 31.8mm Handlebar Low riser, 31.8mm, 6061-AL Headset TH, cartridge bearings Saddle Velo Comfort Seatpost 31.6mm, 6061-AL, micro-adjust clamp Grips Velo ergonomic, lock-on Load & Capacity Max GVW 140 kg (308 lb) Max rider weight 120 kg (265 lb) Rear rack capacity 50 kg (110 lb) Front rack capacity 20 kg (44 lb) — optional rack Rack Atlas Q Rack — 6-point mounting, UpperDeck Mount System, vertical parking Kickstand Pletscher design, rear mount Standover height 49 cm (19.3 in) Rider height range 147–190 cm (4'10"–6'3") Frame sizes One size Dimensions Weight 16.1 kg (35.5 lb) Folding Does not fold Extras Fenders SplashGuard, stainless hardware Chainguard SKS Chainblade Luggage socket Combo Mount Bell Aluminium $1,499 CAD Tern Short Haul D8 · Gen 1 · One Size · Burnt Orange / Black Tern Bicycles © 2026 Short Haul D8 Gen 1
-  Updated: 2026-05-31T11:21:55Z
+  Updated: 2026-06-08T21:12:07Z
   Vendor: Tern
   Product Type: Cargo Bike
   Availability: Available
@@ -672,7 +672,7 @@
     Image: https://cdn.shopify.com/s/files/1/0264/2421/3557/files/low-profile-thruhull-pedal-drive-adapter-j-2-motors__48724.jpg?v=1707955392
     Price: $234.99 CAD
 - [Service - Tune Ups](https://powerinmotion.ca/products/service-tune-ups): Keep your wheels turning smoothly with our Basic Bike Tune-Up. This comprehensive service includes wheel truing, bearing surface adjustments, gear and brake calibrations, a complete safety check, and tire inspection. Ride confidently, knowing you have optimal performance and security on every outing. Listed price does not include the cost of parts. Service Tiers Safety Check Bolt Check Tire Inflation Component Inspection Brake Inspection Shifter Inspection Basic Tune-Up Everything in Safety Check Drivetrain Tuning Brake Adjustment and Tune Wheel Truing Tire Check / Inflation Drivetrain Lubrication Firmware Update Test Ride Bike Inspection (Assessment on all components on the bike) Bike Wipe Down Standard Tune Everything in Basic Tune-Up Tubeless Sealant Refresh Brake Bleed Includes 3 Spoke Replacements If Needed Pro Tune Everything in Standard Tune Full Bike Deep Clean and Re-Grease
-  Updated: 2026-05-30T23:08:56Z
+  Updated: 2026-06-05T16:37:48Z
   Vendor: Power in Motion
   Product Type: Mechanic Service
   Availability: Available
@@ -711,7 +711,7 @@
     Availability: Not Available
     Price: $55.00 CAD
 - [Service - Wheel, Spoke, services](https://powerinmotion.ca/products/service-wheel-ebike-motor-services): Experience the luxury of having your wheels professionally serviced - from spoke cutting to wheel builds. Our highly skilled technicians are available for an exclusive, rare service, providing competent and cost-effective solutions to your wheel needs. *For Spoke cutting appointment services; Spoke machine set up Spoke and Nipple costs are added to the costs*
-  Updated: 2026-05-30T22:43:16Z
+  Updated: 2026-06-03T18:46:17Z
   Vendor: Power in Motion
   Product Type: Mechanic Service
   Availability: Available
@@ -738,7 +738,7 @@
     Availability: Available
     Price: $45.00 CAD
 - [Service - Brake Services](https://powerinmotion.ca/products/service-brake-services-1): Stay safe with our brake services. Our technicians will take care of all your bike's brake needs, with brake pad replacement, brake adjustment, or a hydraulic brake bleed. Enjoy the luxury of a safe ride, catered to your specific needs. *listed price does not include parts cost*
-  Updated: 2026-05-26T17:05:36Z
+  Updated: 2026-06-05T19:19:47Z
   Vendor: Power in Motion
   Product Type: Mechanic Service
   Availability: Available
@@ -759,7 +759,7 @@
     Availability: Available
     Price: $30.00 CAD
 - [Service - Complete Bike Builds](https://powerinmotion.ca/products/service-complete-bike-builds-1): Featuring a build straight out of the box and a detailed tune-up so that you can hit the trails with maximum performance and efficiency.
-  Updated: 2026-05-26T17:05:36Z
+  Updated: 2026-06-03T22:42:27Z
   Vendor: Power in Motion
   Product Type: Mechanic Service
   Availability: Available
@@ -1626,46 +1626,46 @@
   Updated: 2026-05-26T16:40:48Z
   Total Products: 23
 - [Top Electric Bikes in Calgary | iGo, Tern, R&M E-Bikes](https://powerinmotion.ca/collections/electric-bikes): Explore the best electric bikes for  in Calgary, Alberta. Find top brands like iGo, Tern, and Riese & Müller. Whether you need commuter, mountain, folding, or cargo e-bikes, we offer quality and performance. Shop now with expert support and nationwide shipping across Canada. Get the perfect electric bike today!
-  Updated: 2026-05-31T11:02:57Z
+  Updated: 2026-06-03T18:29:20Z
   Total Products: 43
 - [Best Electric Bike Conversion Kits For  in Canada](https://powerinmotion.ca/collections/electric-bike-conversion-kits): Explore the best electric bike conversion kits in Canada, including Bafang and mid-drive options. Convert your bike with our top-rated kits, including your choice of 36v, 48v & 52v batteries. Learn how to install and discover if electric bike conversion kits are worth it. Shop now at Power In Motion.ca!
-  Updated: 2026-05-26T16:40:48Z
+  Updated: 2026-06-07T11:02:57Z
   Total Products: 9
 - [Fat Tire](https://powerinmotion.ca/collections/fat-bikes): Fat Bikes are ideal for the all-season rider, whether you’re looking for a winter adventure in the mountains or trying to make it to work in 15cm of fresh snow.  The wide tire provides increased traction and grips the road in slushy and slippery conditions.  Fat Bikes can also be equipped with studded tires for the ultimate winter riding experience!
-  Updated: 2026-05-26T16:40:48Z
+  Updated: 2026-06-03T18:29:33Z
   Total Products: 3
 - [Standard Bikes](https://powerinmotion.ca/collections/standard-bikes)
   Updated: 2026-05-26T16:40:48Z
   Total Products: 0
 - [Bike Accessories | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/all-parts-accessories): Accessories from Rocklock, Suntour Selle Royal, 49N, Ergon Thule, Tern, Montague, and more. From break pads, tubes, seat posts, seats, helmets, locks, water bottle holders and more. Check out Power in Motion and personalize your bike today! Disocunted / Free Shipping Rates from Power In Motion to | Ontario | Quebec | British Columbia | Alberta | New Brunswick | Nova Scotia |Prince Edward | Manitoba Saskatchewan | Newfoundland & Labrador | Compact Folding Bike | Pavement / City / Road Folding Bike | Pavement / City / Road Folding Electric Bike | Dahon | Tern | Montague | Link D8 | Link A7 | Paratrooper | Boston | Urban | Paratrooper Pro | Electric Bike | Ebike | iGO | IGO | igo | Surface 604 | Smartmotion | Paddleboard | Kayak | Conoe | Raft | Inflatable | Aqua Marina | Conversion | Hub Motor | Mid Drive Moter | 500w | 750w | 1000w | 250w | Power In Motion | Calgary | Ottawa, Canada | St. John's, Newfoundland and Labrador | Halifax, Nova Scotia | Fredericton, New Brunswick | Charlottetown, Prince Edward Island | Québec, Quebec | Toronto, Ontario | Winnipeg, Manitoba | Regina, Saskatchewan | Edmonton, Alberta | Victoria, British Columbia | Iqaluit, Nunavut | Yellowknife, Northwest Territories | Whitehorse, Yukon
-  Updated: 2026-05-30T18:00:05Z
+  Updated: 2026-06-08T11:03:11Z
   Total Products: 137
 - [Sales &  Items | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/sales--items): Looking for a ? Or in the mood to save some money. Check out Power In Motion's  section to get a  on everything from E-bikes to speakers. These deals won't stay long so don't wait! Come visit Power In Motion today!
-  Updated: 2026-05-31T11:02:57Z
-  Total Products: 18
+  Updated: 2026-06-08T22:41:23Z
+  Total Products: 19
 - [All Products | Power In Motion | Calgary | Alberta | Canada](https://powerinmotion.ca/collections/all-products): Electric Bikes, Folding Bikes, Electric Skateboards, Electric Scooters, Bike Accessories, Electric bike conversions and more! At Power In Motion you are  to find a product that will suit your needs with a reasonable price, and high quality from your favorite brands all from all around the biking world. Check out Power In Motion and revolutionize your ride today! Power In Motion | Calgary | Canada | Surface 604 | Tern | Montague | iGO | Electric Bikes | Ebikes | Electric Skateboards | Electric Scooters | Folding Bikes | Segway | Ninebot | Segway Ninebot | Michael Blast | T4B | Topeak |Shirmano | Dahon | Easymotion | Schwalbe | Thule | Selle Royal | Conversion Kit | Bafang | Hub Motor Conversion Kit | Mid-Drive Conversion Kit | Helmet | Bike Helmet | Bike Fenders | City | Urban | Old |
-  Updated: 2026-05-31T11:02:57Z
-  Total Products: 895
+  Updated: 2026-06-08T22:41:23Z
+  Total Products: 912
 - [iGO Electric Bikes | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/igo-bikes): Power In Motion | PIM | iGo | Berri | Bonaventure | Atwater | Outland Royal | Oka | Laurentian  | Vendome | Extreme 3.0 | Camillien | Electric Bikes | Folding Bikes | Folding Electric Bike | Electric Mountain Bike | Toronto, Ontario | Winnipeg, Manitoba | Regina, Saskatchewan | Edmonton, Alberta | Victoria, British Columbia
-  Updated: 2026-05-27T11:03:12Z
+  Updated: 2026-06-08T06:59:45Z
   Total Products: 8
 - [Surface 604 Bikes | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/surface-604-bikes): Surface 604 electric bikes are high quality entry level bikes. With a smooth natural acceleration in combination with powerful hub motors. Surface 604 bikes make every ride easy and fun no matter if your located in the city, or in a more rural town. Their bikes all come with high quality breaks, snifters, front suspension, seats and more. Come learn more about Surface 604 at Power In Motion Today! Surface 604 | Rook | Colt | Shred | Boar Hunter | City electric bikes | For  | Calgary | Canada | Shipping | Canada Wide Shipping | Bikes | electric bikes | Commuter | Safest |
-  Updated: 2026-05-27T11:03:12Z
+  Updated: 2026-06-08T00:19:24Z
   Total Products: 12
 - [Tern Folding Bikes for  Canada | Compact & Electric Options](https://powerinmotion.ca/collections/tern-folding-bikes-canada): Discover Tern folding bikes in Canada, including the Tern GSD, HSD, Quick Haul, Vektron, Link, Verge and more models. Explore our selection of foldable electric bikes, perfect for commuting and travel. Shop compact, portable, and lightweight folding bikes for adults at Power In Motion. Get your Tern ebike fold up today
-  Updated: 2026-05-31T11:02:57Z
+  Updated: 2026-06-05T11:03:07Z
   Total Products: 34
 - [Montague Folding Bikes in Canada | Foldable Mountain & Road Bicycles](https://powerinmotion.ca/collections/montague-folding-bikes-canada): Discover premium Montague folding bikes in Calgary, Canada. Shop our range of foldable mountain and road bikes, including electric bicycles. Explore lightweight, compact designs perfect for adults. Find the best folding e-bikes, racing bikes, and more at Power In Motion. Buy now for unbeatable prices.
-  Updated: 2026-05-26T16:40:48Z
+  Updated: 2026-06-06T11:03:14Z
   Total Products: 12
 - [All Bikes | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/all-bikes): Folding Bikes, Mountain Bikes, Fat Bikes , City Bikes , Cruiser Bikes, Electric Bikes, and more. From popular brands like Surface 604, Tern, iGO, Montague, Michael Blast, Del Sol, Evo, and more. With prices ranging from cheap, to expensive to cover any budget. At Power in Motion Calgary your bound to find a bike perfect for you! Ontario | Quebec | British Columbia | Alberta | New Brunswick | Nova Scotia |Prince Edward | Manitoba Saskatchewan | Newfoundland & Labrador
-  Updated: 2026-05-31T11:02:57Z
+  Updated: 2026-06-05T11:03:07Z
   Total Products: 50
 - [Best Segway Escooters in Calgary | Top Electric Scooters in Canada](https://powerinmotion.ca/collections/segway-escooters-calgary-canada): Discover the best Segway escooters in Calgary, available for purchase in Canada. Whether you're looking for an electric scooter for daily commutes or searching for the best escooter near you, find top-rated options at competitive prices. Learn where to buy and how much escooters cost.
-  Updated: 2026-05-28T18:40:01Z
+  Updated: 2026-06-03T19:41:38Z
   Total Products: 14
 - [Electric Bike Trailers | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/electric-bike-trailers): One of the most popular accessories for a bike when hunting is a Fat-Tire Bike Trailer. We have 3 different trailers for hunters that are designed for an easy hookup and smooth movement, that work with the majority of bike models. Each trailer is engineered to serve a different purpose, according to how an individual hunts, the gear you carry, or the locations you may hunt. You may find that one trailer meets your needs more than the others because of that. Choosing the right trailer for you does not have to be confusing. For more information on the trailers, read the following descriptions and specifications for the 3 trailers we offer.
-  Updated: 2026-05-26T16:40:48Z
+  Updated: 2026-06-03T19:41:44Z
   Total Products: 40
 - [Bafang Conversion Kit Throttles](https://powerinmotion.ca/collections/bafang-conversion-kit-throttles)
   Updated: 2026-05-26T16:40:48Z
@@ -1674,22 +1674,22 @@
   Updated: 2026-05-26T16:40:49Z
   Total Products: 0
 - [Bafang Motor Kits](https://powerinmotion.ca/collections/bafang-motor-kits)
-  Updated: 2026-05-26T16:40:49Z
+  Updated: 2026-06-03T19:41:45Z
   Total Products: 5
 - [Electric Bike Batteries](https://powerinmotion.ca/collections/electric-bike-batteries)
-  Updated: 2026-05-26T16:40:49Z
-  Total Products: 18
+  Updated: 2026-06-07T11:02:57Z
+  Total Products: 19
 - [Del Sol Cruiser Bikes | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/del-sol-standard-bikes)
-  Updated: 2026-05-26T16:40:49Z
+  Updated: 2026-06-03T19:41:52Z
   Total Products: 1
 - [Aqua Marina Paddleboards | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/stand-up-paddleboards): Remove the hassle of traveling with a paddleboard, while maintaining the fun! The Aqua Marina line of products is the perfect companion to any family's lake, or beachside vacation. It includes inflatable Kayaks, Canoees and of course paddle boards. Disocunted / Free Shipping Rates from Power In Motion to | Ontario | Quebec | British Columbia | Alberta | New Brunswick | Nova Scotia |Prince Edward | Manitoba Saskatchewan | Newfoundland & Labrador | Compact Folding Bike | Pavement / City / Road Folding Bike | Pavement / City / Road Folding Electric Bike | Dahon | Tern | Montague | Link D8 | Link A7 | Paratrooper | Boston | Urban | Paratrooper Pro | Electric Bike | Ebike | iGO | IGO | igo | Surface 604 | Smartmotion | Paddleboard | Kayak | Conoe | Raft | Inflatable | Aqua Marina | Conversion | Hub Motor | Mid Drive Moter | 500w | 750w | 1000w | 250w | Power In Motion | Calgary | Ottawa, Canada | St. John's, Newfoundland and Labrador | Halifax, Nova Scotia | Fredericton, New Brunswick | Charlottetown, Prince Edward Island | Québec, Quebec | Toronto, Ontario | Winnipeg, Manitoba | Regina, Saskatchewan | Edmonton, Alberta | Victoria, British Columbia | Iqaluit, Nunavut | Yellowknife, Northwest Territories | Whitehorse, Yukon
-  Updated: 2026-05-26T16:40:49Z
+  Updated: 2026-06-03T20:01:43Z
   Total Products: 7
 - [Car Hitch Racks & Storage | Power In Motion | Calgary | Canada](https://powerinmotion.ca/collections/car-hitch-racks-storage): Find easy and affordable methods of transporting your bikes, and more as you travel. With products from trusted brands such as Thule and Yakima, your garuenteed quality! Everything from Bike Hitch racks, to storage hitch racks, even racks with adjustable components to suit your needs. Now with shipping all across Canada!
-  Updated: 2025-02-23T00:14:33Z
+  Updated: 2026-06-03T20:02:47Z
   Total Products: 6
 - [Comfort Electric Bikes](https://powerinmotion.ca/collections/comfort-electric-bikes)
-  Updated: 2026-05-31T11:02:57Z
+  Updated: 2026-06-08T00:19:24Z
   Total Products: 12
 - [Mountain Electric Bikes](https://powerinmotion.ca/collections/mountain-electric-bikes)
   Updated: 2026-05-26T16:40:49Z
@@ -1704,76 +1704,76 @@
   Updated: 2026-05-26T16:40:49Z
   Total Products: 6
 - [Top Electric Cargo Bikes in Canada | Tern & Riese and Muller](https://powerinmotion.ca/collections/electric-cargo-bikes-canada): Explore top electric cargo bikes for  in Canada, including Tern and Riese and Muller models. Discover versatile options like the Tern HSD S00, Quick Haul, and Riese and Muller Load 75. Shop the best electric bikes for cargo transport at Power In Motion. Find your perfect e-bike today with shipping all across Canada
-  Updated: 2026-05-31T11:02:57Z
+  Updated: 2026-06-02T23:25:04Z
   Total Products: 27
 - [20”, 26”, & 700c Folding Bikes for  in Calgary](https://powerinmotion.ca/collections/folding-bikes): Explore the best folding bikes in Calgary, including Tern and Montague models. Whether you need a compact, foldable bike for commuting or a lightweight foldable bicycle for travel, find the perfect fold up bike for adults and beginners at Power In Motion. With shipping all across Canada!
-  Updated: 2026-05-30T23:42:04Z
+  Updated: 2026-06-05T11:03:07Z
   Total Products: 16
 - [Comfort - Non Electric](https://powerinmotion.ca/collections/comfort-non-electric)
   Updated: 2024-03-11T23:20:45Z
   Total Products: 0
 - [All Products - For Setting Tax Level](https://powerinmotion.ca/collections/all-products-for-setting-tax-level)
-  Updated: 2026-05-31T11:02:57Z
+  Updated: 2026-06-08T11:03:11Z
   Total Products: 145
 - [Bixpy Watercraft Motor](https://powerinmotion.ca/collections/bixpy-watercraft-motor): Transform your family trip with Bixpy's watercraft motor! With its fantastic fin adapter, you can use the Bixpy on paddleboards, boats, Kayaks, canoes, and more! As the first dealers in Canada, we at Power In Motion Calgary are incredibly pleased with the options Bixpy's J-2 outbound motor kit and the various accessories such as Kayak adapters, Transarm adapters, Fin adapters, Solar Panels, and more interact with the Bixpy system. in Bixpy's own words; Since the shipment of Bixpy's first motors and batteries in late 2017, we have motorized thousands of kayaks, paddleboards, divers, snorkelers, and other water enthusiasts as we have created an industry of motorizing personal watercraft. There are now thousands of videos and pictures online of people using our products to enjoy their local waterways in a way not possible before. It gives us great joy to know we are part of this story. And we’re just getting started!
-  Updated: 2026-05-26T16:40:49Z
+  Updated: 2026-06-03T20:07:46Z
   Total Products: 24
 - [Thule](https://powerinmotion.ca/collections/thule)
-  Updated: 2026-05-26T16:40:49Z
+  Updated: 2026-06-03T20:13:24Z
   Total Products: 149
 - [Smartmotion](https://powerinmotion.ca/collections/smartmotion)
-  Updated: 2026-05-26T16:40:50Z
+  Updated: 2026-06-03T20:14:09Z
   Total Products: 1
 - [Bike Bags](https://powerinmotion.ca/collections/bike-bags)
-  Updated: 2026-05-30T18:00:05Z
+  Updated: 2026-06-06T11:03:14Z
   Total Products: 20
 - [Yakima](https://powerinmotion.ca/collections/yakima)
-  Updated: 2026-05-26T16:40:50Z
+  Updated: 2026-06-03T20:16:59Z
   Total Products: 4
 - [Standard Commuter, Road, & Mountain Bikes | Power In Motion | Calgary](https://powerinmotion.ca/collections/bikes): Ottawa, Canada | St. John's, Newfoundland and Labrador | Halifax, Nova Scotia | Fredericton, New Brunswick | Charlottetown, Prince Edward Island | Québec, Quebec | Toronto, Ontario | Winnipeg, Manitoba | Regina, Saskatchewan | Edmonton, Alberta | Victoria, British Columbia | Iqaluit, Nunavut | Yellowknife, Northwest Territories | Whitehorse, Yukon |Power In Motion | PIM | iGo | Berri | Bonaventure | Atwater | Outland Royal | Oka | Laurentian  | Vendome | Extreme 3.0 | Camillien | Electric Bikes| Folding Bikes | Folding Electric Bike | Electric Mountain Bike | Surface 604 Electric Bikes | Rook | Colt | Quad | Explorer | Boar Explorer | Tern Folding Bikes | Folding Bikes | Tern Link A7 | Tern Link C8 | Tern Link D8 | Tern Link S8i | Tern Verge D9 | Tern Node D8 | Tern Verge S8i | Tern Node D7i | Tern Eclipse D16 | Tern Vektron Q9 | Tern HSD P9 | Tern HSD S8i | Tern GSD S10 | Tern GSD S00 | Tern GSD r14 | Montague Full Size Mountain, Road Folding Bikes | Montague Paratrooper Folding Bike | Montageue Paratrooper Pro Mountain Bike | Montague Urban Road Bike | Montague Navigator Folding Road Bike |
-  Updated: 2026-05-30T23:42:04Z
+  Updated: 2026-06-05T11:03:07Z
   Total Products: 28
 - [Kayaks & Rafts | Power In Motion | Calgary, Canada](https://powerinmotion.ca/collections/kayaks-rafts): Kayaks | Inflatable Kayaks | Rafts | Inflatable Rafts | Boats | Inflatable Boats | Calgary | Edmonton | Red Deer | Canmore | Banff | Alberta | Canada | British Columbia | Canoes | Affordable | Lightweight | Compact | Inexpensive | high quality | Kayak Paddles | Tolling Motor | Bixpy Kayak | Bixpy Boat |
-  Updated: 2026-05-26T16:40:50Z
+  Updated: 2026-06-03T20:24:47Z
   Total Products: 3
 - [Biggest Blowout ! | Power in Motion | E-Bikes, iSUPS and More!](https://powerinmotion.ca/collections/biggest-blowout--power-in-motion-e-bikes-isups-and-more): Our Biggest  Ever! We Are Pricing to , As It Is The Last Call on Most of These Bikes With Up To $700 in Savings! This Is A Event You Do Not Want To Miss! Shop In-Store Or Online for these Killer Deals!
   Updated: 2026-05-26T16:40:50Z
   Total Products: 1
 - [Trikes](https://powerinmotion.ca/collections/trikes)
-  Updated: 2026-05-26T16:40:50Z
+  Updated: 2026-06-08T22:41:23Z
   Total Products: 3
 - [Bike Mechanic Services](https://powerinmotion.ca/collections/bike-mechanic-services)
   Updated: 2026-05-26T16:40:50Z
   Total Products: 0
 - [Converted Bikes](https://powerinmotion.ca/collections/converted-bikes)
-  Updated: 2026-05-26T16:40:50Z
+  Updated: 2026-06-07T11:02:57Z
   Total Products: 7
 - [Riese & Muller Bikes](https://powerinmotion.ca/collections/riese-muller-bikes): Discover the world of Riese & Müller bikes at Powerinmotion Calgary! These bikes have revolutionized the industry time and time again, constantly pushing the boundaries of innovation. Whether you're an athlete, commuter, family rider, bike tourist, or tradesperson, Riese & Müller has an E-Bike that's perfect for you. Can't find the specific model you're looking for? Don't worry! We have the ability to order any bike from Riese & Müller's impressive lineup. Just visit Riese & Müller's website (https://www.r-m.de/en-ca/) to explore the full range of options and find your dream bike. But wait, there's more! If you're in Calgary, don't miss the chance to visit our storefront and experience the extraordinary Load4 75 Envilo, Delite4 Rohloff, and Packster 70 Envilo in person. We offer test rides and demos for interested buyers, so you can feel the thrill and quality of these exceptional bikes firsthand. Join the Riese & Müller revolution and elevate your cycling experience like never before!
-  Updated: 2026-05-31T11:02:57Z
+  Updated: 2026-06-03T20:52:24Z
   Total Products: 26
 - [EVO](https://powerinmotion.ca/collections/evo)
-  Updated: 2026-05-26T16:40:50Z
+  Updated: 2026-06-03T20:52:52Z
   Total Products: 11
 - [Riese & Muller Upgrades](https://powerinmotion.ca/collections/riese-muller-upgrades)
   Updated: 2026-05-26T16:40:50Z
   Total Products: 0
 - [New products](https://powerinmotion.ca/collections/new-products)
-  Updated: 2026-05-31T11:02:57Z
-  Total Products: 925
+  Updated: 2026-06-08T22:41:23Z
+  Total Products: 942
 - [Best  products](https://powerinmotion.ca/collections/best--products)
-  Updated: 2026-05-31T11:02:57Z
-  Total Products: 925
+  Updated: 2026-06-08T22:41:23Z
+  Total Products: 942
 - [Special Order](https://powerinmotion.ca/collections/special-order): These items are available for special order and are not stocked at our store fronts
-  Updated: 2026-05-26T16:40:51Z
+  Updated: 2026-06-04T11:03:07Z
   Total Products: 167
 - [Pre Order](https://powerinmotion.ca/collections/pre-order): These products can be put on pre-order if out of stock currently
-  Updated: 2026-05-30T18:00:05Z
-  Total Products: 97
+  Updated: 2026-06-08T07:01:53Z
+  Total Products: 96
 - [Mechanic Services](https://powerinmotion.ca/collections/mechanic-services): Welcome to Power In Motion, your go-to destination for top-notch bike mechanic services! We take pride in offering a comprehensive range of professional bike services to keep your two-wheeled companion in peak condition. Our highly skilled and experienced bike mechanics are here to ensure that your cycling experience is smooth, safe, and enjoyable. Whether you're a casual rider, a passionate cyclist, or a competitive athlete, we've got you covered with our specialized services.
-  Updated: 2026-05-31T11:02:57Z
+  Updated: 2026-06-06T11:03:14Z
   Total Products: 7
 - [Tires](https://powerinmotion.ca/collections/tires)
-  Updated: 2026-05-26T16:40:51Z
+  Updated: 2026-06-03T21:36:41Z
   Total Products: 1
 - [Trainers and Indoor Training](https://powerinmotion.ca/collections/trainers-and-indoor-training)
   Updated: 2026-05-26T16:40:51Z
@@ -1836,7 +1836,7 @@
   Updated: 2026-05-26T16:40:52Z
   Total Products: 0
 - [Shifters](https://powerinmotion.ca/collections/shifters)
-  Updated: 2026-05-26T16:40:52Z
+  Updated: 2026-06-03T21:36:54Z
   Total Products: 1
 - [Derailleurs](https://powerinmotion.ca/collections/derailleurs)
   Updated: 2026-05-26T16:40:52Z
@@ -1857,7 +1857,7 @@
   Updated: 2026-05-26T16:40:53Z
   Total Products: 0
 - [Chains](https://powerinmotion.ca/collections/chains): Shop bike chains in Calgary - shipping Canada wide
-  Updated: 2026-05-26T16:40:53Z
+  Updated: 2026-06-03T21:36:56Z
   Total Products: 7
 - [Lights](https://powerinmotion.ca/collections/lights)
   Updated: 2026-05-26T16:40:53Z
@@ -1899,7 +1899,7 @@
   Updated: 2026-05-26T16:40:54Z
   Total Products: 0
 - [Car Racks](https://powerinmotion.ca/collections/car-racks)
-  Updated: 2026-05-26T16:40:54Z
+  Updated: 2026-06-03T21:36:45Z
   Total Products: 82
 - [Forks](https://powerinmotion.ca/collections/forks)
   Updated: 2026-05-26T16:40:54Z
@@ -1929,10 +1929,10 @@
   Updated: 2026-05-26T16:40:54Z
   Total Products: 0
 - [Baby Seats](https://powerinmotion.ca/collections/baby-seats)
-  Updated: 2026-05-30T17:21:18Z
+  Updated: 2026-06-03T21:37:00Z
   Total Products: 62
 - [Helmets and Accessories](https://powerinmotion.ca/collections/helmets-and-accessories)
-  Updated: 2026-05-26T16:40:54Z
+  Updated: 2026-06-03T21:36:47Z
   Total Products: 2
 - [Storage Solutions](https://powerinmotion.ca/collections/storage-solutions)
   Updated: 2026-05-26T16:40:54Z
@@ -1968,13 +1968,13 @@
   Updated: 2026-05-26T16:40:55Z
   Total Products: 0
 - [Tern Accessories](https://powerinmotion.ca/collections/tern-accessories)
-  Updated: 2026-05-31T11:02:57Z
+  Updated: 2026-06-03T21:47:30Z
   Total Products: 102
 - [HLC ONLINE ONLY](https://powerinmotion.ca/collections/hlc-online-only)
   Updated: 2026-05-26T16:40:55Z
   Total Products: 0
 - [Motion Heat - Heated Clothing](https://powerinmotion.ca/collections/motion-heat-heated-clothing): MOTION Heat Rechargeable Heated Glove Liners were designed in Calgary, Canada. They were originally designed for cyclists to extend their riding season into the cold months. Canadian winters are no joke, and cycling in winter is typically only for the bold. But over the last several years, the reach of MOTIONHeat had spread far beyond our expectations. They have been widely adopted by outdoor workers ranging from police officers to construction workers to those who work in the tough oil fields. These heated gloves have also found its way into the  sector providing comfort and relief to those suffering from pain in the hands caused by diseases like Raynaud's and arthritis. Our heated glove liners have proven useful in battling the cold of the Canadian winters throughout various environments, yet they can provide the soft comforting warmth to those with poor circulation in their hands. If you are looking for a source of heat to keep your fingers flexible and warm MOTIONHeat has proven quality and performance for any situation. And with a one-year warranty, they are simply the best heated glove available. Learn More at Motionheat.ca
-  Updated: 2026-05-26T16:40:55Z
+  Updated: 2026-06-03T22:10:51Z
   Total Products: 17
 - [Batteries](https://powerinmotion.ca/collections/batteries)
   Updated: 2026-05-26T16:40:55Z
@@ -1983,7 +1983,7 @@
   Updated: 2026-05-26T16:40:55Z
   Total Products: 0
 - [Conversion Kit Components](https://powerinmotion.ca/collections/conversion-kit-components)
-  Updated: 2026-05-26T16:40:56Z
+  Updated: 2026-06-03T22:21:52Z
   Total Products: 2
 - [Locks](https://powerinmotion.ca/collections/locks)
   Updated: 2026-05-26T16:40:56Z
@@ -2292,61 +2292,61 @@
   Updated: 2025-02-07T23:34:34Z
   Total Products: 0
 - [AddMotor](https://powerinmotion.ca/collections/addmotor): 🚴♂️ Addmotor Electric Trikes — Stability Meets Power & Comfort Discover the full lineup of Addmotor electric trikes, engineered for riders who want a perfect blend of confidence, comfort, and electric performance. Whether you’re cruising through city streets, running daily errands, or exploring neighbourhood paths, Addmotor trikes deliver a stable three-wheel ride, strong motor support, and smart features for everyday life. Each trike in this collection is designed with: Powerful motors for strong starts and smooth hill climbs Long-range batteries built for real-world distances Comfort-first geometry that’s easy on and easy off Integrated lights and displays for safer, more visible rides Cargo-friendly designs perfect for shopping, gear, or fun outings From compact folding options like the Citytri series to rugged, cargo-ready builds like the Grandtan M-340, Addmotor electric trikes bring three-wheel confidence to every rider — whether you’re new to e-mobility or a seasoned commuter. Ride with balance. Ride with power. Ride Addmotor.
-  Updated: 2026-05-26T16:40:57Z
+  Updated: 2026-06-04T04:05:26Z
   Total Products: 4
 - [CYC MOTOR LTD.](https://powerinmotion.ca/collections/cyc-motor-ltd): ⚡ CYC Motor LTD — Electrifying the Ride, Redefining Possibilities Welcome to CYC Motor LTD, where passion meets performance and innovation fuels every revolution. Born from a deep love of electric mobility and engineered for riders who demand power, precision, and reliability, our products represent the cutting edge of electric transportation technology. At CYC Motor LTD, we don’t just build products — we elevate experiences. From high-performance electric bicycle hubs and torque-sensor systems to modular motor kits that transform ordinary bikes into exhilarating electric machines, every component is crafted with purpose. We serve everyone from commuters seeking effortless urban travel to adventure riders chasing limitless terrain. 🔥 What Makes CYC Legendary? 🚀 Unmatched Performance: Industry-leading torque sensors, robust motors, and high-efficiency components designed to deliver power when you need it — without compromise. 🛠️ Precision Engineering: Every part is built with meticulous attention to detail, blending durability with intelligent design so you ride with confidence. ⚙️ Customizable & Modular: Whether you’re upgrading a daily commuter or building a bespoke electric beast, CYC’s systems are engineered for flexibility and seamless integration. 🌍 Designed for Real Riders: Tested against real-world use — from city streets to off-road trails — so your ride feels intuitive and unstoppable. 🔩 Our Products — Built to Transform ⚡ Electric Conversion KitsTurn any compatible bike into an electrifying ride. Easy to install, powerful to ride — embracing the future of motion has never been easier. 🔧 Motors & SensorsHigh-torque drive systems and precision sensors that unlock smooth acceleration, responsive control, and maximum efficiency with every pedal. 🧰 Accessories & Add-OnsFrom screens and controllers to compatible batteries and wiring harnesses — every part supports a unified, superior riding experience. 🛣️ More Than Products — A Movement CYC Motor LTD isn’t just a brand — it’s a community of innovators, commuters, DIY builders, and trailblazers. Everything we build is meant to inspire freedom — to transform your ride, empower your adventure, and push the boundaries of what’s possible on two wheels. Whether you’re upgrading a daily ride, shaping a performance machine, or pioneering your next project, you're riding with the best in modern electric mobility. ⚡ Ride Further. Ride Smarter. Ride CYC. Join the revolution.
-  Updated: 2026-05-26T16:40:57Z
+  Updated: 2026-06-07T11:02:57Z
   Total Products: 7
 - [Electric Trikes](https://powerinmotion.ca/collections/electric-trike)
-  Updated: 2026-05-26T16:40:57Z
+  Updated: 2026-06-04T04:35:56Z
   Total Products: 4
 - [Electric Comfort Bikes](https://powerinmotion.ca/collections/electric-comfort-bikes)
-  Updated: 2026-05-31T11:02:57Z
+  Updated: 2026-06-04T04:36:03Z
   Total Products: 7
 - [Electric Road Bikes](https://powerinmotion.ca/collections/electric-road-bikes)
-  Updated: 2026-05-27T11:03:12Z
+  Updated: 2026-06-04T04:35:56Z
   Total Products: 1
 - [Electric Mountian Bikes](https://powerinmotion.ca/collections/electric-mountian-bikes)
-  Updated: 2026-05-26T16:40:57Z
+  Updated: 2026-06-04T04:35:57Z
   Total Products: 2
 - [Electric Folding Bikes](https://powerinmotion.ca/collections/electric-folding-bikes)
-  Updated: 2026-05-30T22:26:53Z
+  Updated: 2026-06-04T04:36:06Z
   Total Products: 5
 - [Electric Fat Bikes](https://powerinmotion.ca/collections/electric-fat-bikes)
-  Updated: 2026-05-26T16:40:57Z
+  Updated: 2026-06-04T04:35:57Z
   Total Products: 8
 - [Electric Cargo Bikes](https://powerinmotion.ca/collections/electric-cargo-bikes)
-  Updated: 2026-05-31T11:02:57Z
+  Updated: 2026-06-04T04:35:57Z
   Total Products: 32
 - [Comfort Bikes](https://powerinmotion.ca/collections/comfort-bikes)
-  Updated: 2026-05-26T16:40:58Z
+  Updated: 2026-06-05T11:03:07Z
   Total Products: 6
 - [Fat Bikes](https://powerinmotion.ca/collections/fat-bikes-1)
-  Updated: 2026-05-26T16:40:58Z
+  Updated: 2026-06-04T04:38:37Z
   Total Products: 1
 - [Folding Bikes](https://powerinmotion.ca/collections/folding-bikes-1)
-  Updated: 2026-05-30T23:42:04Z
+  Updated: 2026-06-05T11:03:07Z
   Total Products: 23
 - [Cargo Bikes](https://powerinmotion.ca/collections/cargo-bikes)
-  Updated: 2026-05-30T23:23:55Z
+  Updated: 2026-06-04T04:38:29Z
   Total Products: 1
 - [Road Bikes](https://powerinmotion.ca/collections/road-bikes)
-  Updated: 2026-05-30T23:42:04Z
+  Updated: 2026-06-04T04:38:39Z
   Total Products: 7
 - [Mountian Bike](https://powerinmotion.ca/collections/mountian-bike)
   Updated: 2026-05-26T16:40:58Z
   Total Products: 0
 - [Trike](https://powerinmotion.ca/collections/trike)
-  Updated: 2026-05-26T16:40:58Z
+  Updated: 2026-06-04T04:38:30Z
   Total Products: 3
 - [CYC Motors](https://powerinmotion.ca/collections/cyc-motors)
-  Updated: 2026-05-26T16:40:58Z
+  Updated: 2026-06-04T04:42:59Z
   Total Products: 2
 - [CYC Batteries](https://powerinmotion.ca/collections/cyc-batteries)
-  Updated: 2026-05-26T16:40:58Z
+  Updated: 2026-06-04T04:46:48Z
   Total Products: 2
 - [CYC Conversion Kit](https://powerinmotion.ca/collections/cyc-conversion-kit)
-  Updated: 2026-05-26T16:40:58Z
+  Updated: 2026-06-07T11:02:57Z
   Total Products: 3
 - [TERN Accessory / Front Rack](https://powerinmotion.ca/collections/tern-accessory-front-rack)
   Updated: 2026-05-26T16:40:58Z
