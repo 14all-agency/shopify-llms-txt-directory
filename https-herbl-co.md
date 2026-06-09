@@ -17,54 +17,54 @@
 - Timezone: America/New_York
 - Created At: 2024-08-11T12:10:51Z
 - Contact Email: support@herbl.co
-- Updated At: 2026-06-02T00:00:35.203Z
+- Updated At: 2026-06-09T00:00:37.509Z
 
 ## Products
 
 - [Liver & Kidney Detox Tea](https://herbl.co/products/liver-and-kidney-detox-tea): Sip with Intention. Taste the Tradition. An organic herbal detox tea inspired by centuries of traditional use, featuring dandelion root, milk thistle, nettle, and goji berry. Crafted with care, this blend offers an earthy, soothing taste that has been cherished for generations. Each cup is a moment to pause, recharge, and enjoy the natural goodness of real plants. At herbl, we believe wellness starts simple: 100% organic herbs, blended just as nature intended.
-  Updated: 2026-06-01T23:58:16Z
+  Updated: 2026-06-09T00:00:31Z
   Vendor: herbl
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0717/0090/6202/files/Newmain2_e99a8827-6d20-4a2c-a480-8c9b51cf81df.png?v=1778796500
+  Image: https://cdn.shopify.com/s/files/1/0717/0090/6202/files/Newmain3_Updatedtag.png?v=1780417871
   Price: $19.97 USD
 - [Hormone Balance Herbal Tea](https://herbl.co/products/hormone-balance-pms-cycle-support-herbal-tea): Feel Balanced, Every Day of the Month Our Hormone Balance Tea brings together 10 organic herbs, including raspberry leaf, tulsi, black cohosh, and fenugreek. These plants have been used for centuries in women’s wellness traditions. Enjoy it as a calming daily ritual to reconnect with yourself and your natural rhythm.
-  Updated: 2026-06-01T19:06:27Z
+  Updated: 2026-06-08T23:51:08Z
   Vendor: herbl
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/0090/6202/files/1MAIN_compact_f82e2e42-23df-4568-b106-89ff87e5cf9f.png?v=1757648363
   Price: $19.97 USD
 - [Brain Boost Mushroom Tea](https://herbl.co/products/brain-boost-focus-memory-clarity-mushroom-tea): Clear Focus. Calm Energy. No Crash. Tired of brain fog and coffee crashes? Our Brain Boost Mushroom Tea is your new daily ritual for mental clarity, focus, and calm productivity — without the jitters. Made with 10 organic herbs and adaptogens, including Lion’s Mane, Ashwagandha, Chaga, Gotu Kola, and Ginkgo Biloba, this earthy, nature-powered blend supports: - Sharper focus & mental clarity - Sustained energy without caffeine - Lower stress & better mood - Long-term brain & immune support Whether you're studying, working, or just need to get in the zone, this tea helps you show up clear, calm, and focused — naturally. No fillers. No flavorings. Just real, organic herbs.
-  Updated: 2026-06-01T23:55:16Z
+  Updated: 2026-06-08T23:21:08Z
   Vendor: herbl
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/0090/6202/files/1Main_MushroomFocused_f1430f1b-18dc-4e04-811e-d8f182bdb68b.png?v=1757648243
   Price: $21.97 USD
 - [Relax & Sleep Herbal Tea](https://herbl.co/products/relax-sleep-herbal-tea)
-  Updated: 2026-06-01T22:55:06Z
+  Updated: 2026-06-08T22:58:17Z
   Vendor: herbl
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/0090/6202/files/Shopifymain.png?v=1772118631
   Price: $19.97 USD
 - [Yerba Mate Energy Herbal Tea](https://herbl.co/products/yerba-mate-energy-herbal-tea)
-  Updated: 2026-06-01T22:26:28Z
+  Updated: 2026-06-08T22:59:08Z
   Vendor: herbl
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/0090/6202/files/Shopifymain_89a84e80-d72f-4aaa-bb0a-421dd819c28c.png?v=1772120279
   Price: $19.97 USD
 - [Mullein Lung Detox Herbal Tea](https://herbl.co/products/mullein-lung-detox-herbal-tea)
-  Updated: 2026-06-01T23:24:16Z
+  Updated: 2026-06-08T23:59:37Z
   Vendor: herbl
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/0090/6202/files/Mainimageshopify.png?v=1772120987
   Price: $19.97 USD
 - [Lemon Balm Calming Herbal Tea](https://herbl.co/products/lemon-balm-calming-herbal-tea)
-  Updated: 2026-06-01T23:53:52Z
+  Updated: 2026-06-08T13:59:27Z
   Vendor: herbl
   Product Type: 
   Availability: Available
@@ -74,10 +74,10 @@
 ## Collections
 
 - [Herbal Tea](https://herbl.co/collections/herbal-teas)
-  Updated: 2026-06-01T11:19:33Z
+  Updated: 2026-06-08T11:20:27Z
   Total Products: 7
 - [New! Shopify performance sharing is now turned on](https://herbl.co/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-06-01T11:19:33Z
+  Updated: 2026-06-08T11:20:27Z
   Total Products: 7
 
 ## Blogs
