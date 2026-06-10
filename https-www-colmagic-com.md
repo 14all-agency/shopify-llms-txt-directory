@@ -6,146 +6,153 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-03-08T12:51:31Z
 - Contact Email: colmagicoffical@gmail.com
-- Updated At: 2026-06-01T07:51:04.652Z
+- Updated At: 2026-06-10T00:00:30.600Z
 
 ## Products
 
-- [10-18mm Eyelash Extensions Kit | ColMagic DIY Mixed Lashes](https://www.colmagic.com/products/colmagic-diy-mixed-eyelashes-kit-10-1colmagic-diy-eyelash-kit-300-clusters-10-18mm-natural-volume-lashes-waterproof): Enhance your look with ColMagic 10-18mm eyelash extensions kit. Waterproof, natural volume lashes with 300 clusters for DIY stunning results.
-  Updated: 2026-06-01T02:05:34Z
+- [Synthetic Lash Extension Kit | ColMagic DIY Mixed Eyelashes](https://www.colmagic.com/products/colmagic-diy-mixed-eyelashes-kit-10-1colmagic-diy-eyelash-kit-300-clusters-10-18mm-natural-volume-lashes-waterproofsynthetic-lash-extension): Achieve stunning natural volume with ColMagic DIY synthetic lash extension kit featuring 300 waterproof clusters from 10-18mm.
+  Updated: 2026-06-02T17:57:15Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/1.jpg?v=1778074229
   Price: $29.99 USD
-- [DIY Eyelash Extension Kit | ColMagic Mixed Length Lashes](https://www.colmagic.com/products/colmagic-diy-lash-mixed-length-set-5-18mm-features-anti-allergy-and-waterproof-properties-delivering-a-voluminous-and-lightweight-look-it-includes-long-lasting-lash-adhesive-sealant-tweezers-and-makeup-remover-making-it-ideal-for-beginner-girls): Get perfect lashes at home with ColMagic DIY eyelash extension kit. Waterproof, gentle, and mixed length 8-16mm for natural volume and style.
-  Updated: 2026-06-01T03:45:05Z
+- [DIY Eyelash Extension Kit | ColMagic Mixed Length Lashes](https://www.colmagic.com/products/colmagic-diy-lashes-extension-kit-mixed-length-5-18mm-waterproof-gentle): Get perfect lashes at home with ColMagic DIY eyelash extension kit. Waterproof, gentle, and mixed length 8-16mm for natural volume and style.
+  Updated: 2026-06-05T19:18:16Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/1_4666d854-ff66-483d-bda7-b4a80012c984.jpg?v=1778074323
-  Price: $39.99 USD
-- [DIY Lash Extension Kit 8–16 mm – Waterproof & Gentle - COLMAGIC](https://www.colmagic.com/products/colmagic-diy-lash-extension-kit-8-16mm-mixed-cluster-lashes-waterproof-eyelash-kit-with-bond-seal-tools-for-beginners): DIY lash extension kit with 8–16 mm mixed lengths, hypoallergenic material and waterproof hold for natural to glam looks at home. Try it today.
-  Updated: 2026-06-01T02:05:34Z
+  - [Pink](https://www.colmagic.com/products/colmagic-diy-lashes-extension-kit-mixed-length-5-18mm-waterproof-gentle?variant=50071224058093)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/1_4666d854-ff66-483d-bda7-b4a80012c984.jpg?v=1778074323
+    Price: $39.99 USD
+  - [Black](https://www.colmagic.com/products/colmagic-diy-lashes-extension-kit-mixed-length-5-18mm-waterproof-gentle?variant=50071224090861)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/black_lashes_tool.jpg?v=1780644160
+    Price: $39.99 USD
+- [COLMAGIC Lash Cluster Kit for Fluffy, Spiky Lashes](https://www.colmagic.com/products/colmagic-diy-lash-extension-kit-8-16mm-mixed-cluster-lashes-waterproof-eyelash-kit-with-bond-seal-tools-for-beginners): Discover the COLMAGIC lash cluster kit with 8-14mm fluffy spiky lashes, waterproof formula, and easy application for a long-lasting anime eye effect.
+  Updated: 2026-06-05T01:29:53Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/1_24788066-ac62-4038-aa16-ba114c9f7de8.jpg?v=1778074361
   Price: $39.99 USD
-- [Matte Lip Liner Pencil for Full, Defined Plump Lips - COLMAGIC](https://www.colmagic.com/products/lip-liner-pencil-for-plump-lips-matte-finish-lipstick-pencil-for-contouring-creating-a-three-dimensional-full-lip-shape-oily-photo-shoot): Matte lip liner pencil for full, defined plump lips. Contour for a three-dimensional shape and a smooth, polished finish for everyday or photo-ready looks.
-  Updated: 2026-06-01T02:05:34Z
+- [lip liner for double lip line](https://www.colmagic.com/products/lip-liner-for-double-lip-line): Achieve flawless lips with our matte lip liner for double lip line, designed for full, defined, and plump lips all day.
+  Updated: 2026-06-02T17:39:53Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/5e954740_4ff0f5df-6ad8-43b3-bace-5351db09f476.jpg?v=1778074394
-  - [BN7660-01 Tease U Later / Default](https://www.colmagic.com/products/lip-liner-pencil-for-plump-lips-matte-finish-lipstick-pencil-for-contouring-creating-a-three-dimensional-full-lip-shape-oily-photo-shoot?variant=49485113426157)
+  - [BN7660-01 Tease U Later / Default](https://www.colmagic.com/products/lip-liner-for-double-lip-line?variant=49485113426157)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/543bd3dd_75f214e8-4d5d-41f9-ba4f-abb793997b39.jpg?v=1778074418
     Price: $19.99 USD
-  - [BN7660-02 Naughty Nude / Default](https://www.colmagic.com/products/lip-liner-pencil-for-plump-lips-matte-finish-lipstick-pencil-for-contouring-creating-a-three-dimensional-full-lip-shape-oily-photo-shoot?variant=49485129351405)
+  - [BN7660-02 Naughty Nude / Default](https://www.colmagic.com/products/lip-liner-for-double-lip-line?variant=49485129351405)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/f5f1f93b_60f1d6fc-6117-4014-8037-7a8ec473b4b4.jpg?v=1778074423
     Price: $19.99 USD
-  - [BN7660-03 Barely There / Default](https://www.colmagic.com/products/lip-liner-pencil-for-plump-lips-matte-finish-lipstick-pencil-for-contouring-creating-a-three-dimensional-full-lip-shape-oily-photo-shoot?variant=49485129384173)
+  - [BN7660-03 Barely There / Default](https://www.colmagic.com/products/lip-liner-for-double-lip-line?variant=49485129384173)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/3a92808e_772e5fa1-936e-412a-816b-32f8cb32556f.jpg?v=1778074425
     Price: $19.99 USD
-  - [BN7660-04 Steamy Spice / Default](https://www.colmagic.com/products/lip-liner-pencil-for-plump-lips-matte-finish-lipstick-pencil-for-contouring-creating-a-three-dimensional-full-lip-shape-oily-photo-shoot?variant=49485129416941)
+  - [BN7660-04 Steamy Spice / Default](https://www.colmagic.com/products/lip-liner-for-double-lip-line?variant=49485129416941)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/c8184933_d59910bc-d677-4565-89ad-420ad183c380.jpg?v=1778074428
     Price: $19.99 USD
-  - [BN7660-05 Lip Lock / Default](https://www.colmagic.com/products/lip-liner-pencil-for-plump-lips-matte-finish-lipstick-pencil-for-contouring-creating-a-three-dimensional-full-lip-shape-oily-photo-shoot?variant=49485129449709)
+  - [BN7660-05 Lip Lock / Default](https://www.colmagic.com/products/lip-liner-for-double-lip-line?variant=49485129449709)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/051ce6c7_8602888a-a7d6-49c7-834d-ba84308df267.jpg?v=1778074431
     Price: $19.99 USD
-  - [BN7660-06 Up To No Good / Default](https://www.colmagic.com/products/lip-liner-pencil-for-plump-lips-matte-finish-lipstick-pencil-for-contouring-creating-a-three-dimensional-full-lip-shape-oily-photo-shoot?variant=49485129482477)
+  - [BN7660-06 Up To No Good / Default](https://www.colmagic.com/products/lip-liner-for-double-lip-line?variant=49485129482477)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/3e44bdc5_3fc18494-0533-4792-b3bd-f8b3f169bad3.jpg?v=1778074434
     Price: $19.99 USD
-  - [BN7660-07 Cuff Me / Default](https://www.colmagic.com/products/lip-liner-pencil-for-plump-lips-matte-finish-lipstick-pencil-for-contouring-creating-a-three-dimensional-full-lip-shape-oily-photo-shoot?variant=49485129515245)
+  - [BN7660-07 Cuff Me / Default](https://www.colmagic.com/products/lip-liner-for-double-lip-line?variant=49485129515245)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/f3b92a4a_04f20d7c-2f81-43af-bc94-1b9b812db812.jpg?v=1778074438
     Price: $19.99 USD
-  - [BN7660-08 After Hours / Default](https://www.colmagic.com/products/lip-liner-pencil-for-plump-lips-matte-finish-lipstick-pencil-for-contouring-creating-a-three-dimensional-full-lip-shape-oily-photo-shoot?variant=49485129548013)
+  - [BN7660-08 After Hours / Default](https://www.colmagic.com/products/lip-liner-for-double-lip-line?variant=49485129548013)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/71eff3ef_6ea0877c-62c0-4d32-b5d9-10cdfbfb886b.jpg?v=1778074440
     Price: $19.99 USD
-  - [BN7660-09 Send Nudes / Default](https://www.colmagic.com/products/lip-liner-pencil-for-plump-lips-matte-finish-lipstick-pencil-for-contouring-creating-a-three-dimensional-full-lip-shape-oily-photo-shoot?variant=49485129580781)
+  - [BN7660-09 Send Nudes / Default](https://www.colmagic.com/products/lip-liner-for-double-lip-line?variant=49485129580781)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/54dcd50b_63ad89f2-0aa6-46e1-8a9c-b90af6b5b8f8.jpg?v=1778074444
     Price: $19.99 USD
-  - [BN7660-10 Up All Night / Default](https://www.colmagic.com/products/lip-liner-pencil-for-plump-lips-matte-finish-lipstick-pencil-for-contouring-creating-a-three-dimensional-full-lip-shape-oily-photo-shoot?variant=49485129613549)
+  - [BN7660-10 Up All Night / Default](https://www.colmagic.com/products/lip-liner-for-double-lip-line?variant=49485129613549)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/d07abb35_f277947b-847c-423b-bde0-791475cb0b42.jpg?v=1778074447
     Price: $19.99 USD
-  - [BN7660-11 Hot And Heavy / Default](https://www.colmagic.com/products/lip-liner-pencil-for-plump-lips-matte-finish-lipstick-pencil-for-contouring-creating-a-three-dimensional-full-lip-shape-oily-photo-shoot?variant=49485129646317)
+  - [BN7660-11 Hot And Heavy / Default](https://www.colmagic.com/products/lip-liner-for-double-lip-line?variant=49485129646317)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/fd30e439_23d60e8f-7a51-45ea-8992-69489c81b7f8.jpg?v=1778074450
     Price: $19.99 USD
-  - [BN7660-12 Wild Side / Default](https://www.colmagic.com/products/lip-liner-pencil-for-plump-lips-matte-finish-lipstick-pencil-for-contouring-creating-a-three-dimensional-full-lip-shape-oily-photo-shoot?variant=49485129679085)
+  - [BN7660-12 Wild Side / Default](https://www.colmagic.com/products/lip-liner-for-double-lip-line?variant=49485129679085)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/8b29afd1_8ca97772-952e-4600-b76d-6c0d2cd88009.jpg?v=1778074453
     Price: $19.99 USD
-- [Clear Lip Plumping Oil Gloss – Moisturizing, Sleek Tube - COLMAGIC](https://www.colmagic.com/products/plump-lab-lip-plumper-lip-oil-plumping-essence-lip-gloss-clear-moisturizing-softening-sleek-silver-tube): Clear lip plumping oil gloss that helps lips look fuller while keeping them soft and moisturized in a sleek silver tube. Ideal for everyday shiny wear.
-  Updated: 2026-06-01T02:05:35Z
+- [Best Lip Plumping Gloss – Clear Moisturizing Oil Gloss](https://www.colmagic.com/products/plump-lab-lip-plumper-lip-oil-plumping-essence-lip-gloss-clear-moisturizing-softening-sleek-silver-tube): Discover the best lip plumping gloss that hydrates and adds shine with a sleek tube design for easy application and long-lasting moisture.
+  Updated: 2026-06-02T15:31:32Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/dbdc82ba_89b5b9b0-bc73-41d1-9b8b-5d6730e8bb77.jpg?v=1778203328
   Price: $19.99 USD
-- [Brightening Whitening Toothpaste – Gentle Daily Oral Care - COLMAGIC](https://www.colmagic.com/products/oralhoe-brightening-toothpaste-gentle-daily-care-toothpaste-for-removing-stains-brightening-and-refreshing-and-reducing-odors): Brightening whitening toothpaste for gentle daily oral care that helps reduce stains, freshen breath, and support sensitive gums. Add to your routine today.
-  Updated: 2026-06-01T02:05:35Z
+- [Best Toothpaste for Whitening – Brightening Daily Care](https://www.colmagic.com/products/oralhoe-brightening-toothpaste-gentle-daily-care-toothpaste-for-removing-stains-brightening-and-refreshing-and-reducing-odors): Discover the best toothpaste for whitening that gently brightens your smile with daily oral care. Safe, effective, and perfect for sensitive teeth.
+  Updated: 2026-06-02T15:27:33Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/dde6f40b_46fdee69-7b77-4714-9298-bfbb017e35ec.png?v=1778203348
   Price: $9.99 USD
-- [Pearl Essence Face Cream – Hydrating Brightening Care - COLMAGIC](https://www.colmagic.com/products/boquanya-pearl-essence-cream): Pearl essence face cream that helps hydrate and refine the complexion for softer, more luminous skin. Use daily as the last step in your skincare routine.
-  Updated: 2026-06-01T02:05:35Z
+- [Pearl Cream for Face – Hydrating & Brightening Care](https://www.colmagic.com/products/boquanya-pearl-essence-cream-pearl-cream-for-face): Discover the pearl cream for face that hydrates deeply and brightens skin for a radiant glow. Perfect for daily skincare routines.
+  Updated: 2026-06-02T15:24:52Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/bd791e28_0107c8de-4001-45aa-b9cf-d5a2f8d7c7ae.jpg?v=1778203372
-  - [Cream 50g](https://www.colmagic.com/products/boquanya-pearl-essence-cream?variant=49485325402349)
+  - [Cream 50g](https://www.colmagic.com/products/boquanya-pearl-essence-cream-pearl-cream-for-face?variant=49485325402349)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/7ed2e7e0_f5910e5b-fa2b-471d-869f-1368368b536d.jpg?v=1778203378
     Price: $9.99 USD
-  - [Facial cleanser 150ml](https://www.colmagic.com/products/boquanya-pearl-essence-cream?variant=49485341262061)
+  - [Facial cleanser 150ml](https://www.colmagic.com/products/boquanya-pearl-essence-cream-pearl-cream-for-face?variant=49485341262061)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/179dfcef_4b5b5f98-80e6-4139-a707-f4afa45bb286.jpg?v=1778203380
     Price: $9.99 USD
-  - [Essence 30ml](https://www.colmagic.com/products/boquanya-pearl-essence-cream?variant=49485341294829)
+  - [Essence 30ml](https://www.colmagic.com/products/boquanya-pearl-essence-cream-pearl-cream-for-face?variant=49485341294829)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/199f91c1_55978ce8-042e-4708-a2f4-4e2887c84ca9.jpg?v=1778203381
     Price: $9.99 USD
-  - [Eye Cream 30G](https://www.colmagic.com/products/boquanya-pearl-essence-cream?variant=49485341327597)
+  - [Eye Cream 30G](https://www.colmagic.com/products/boquanya-pearl-essence-cream-pearl-cream-for-face?variant=49485341327597)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/65c26916_a9df2248-2b6b-45ae-8316-7ceea107a682.jpg?v=1778203382
     Price: $9.99 USD
-  - [Lotion 120ml](https://www.colmagic.com/products/boquanya-pearl-essence-cream?variant=49485341360365)
+  - [Lotion 120ml](https://www.colmagic.com/products/boquanya-pearl-essence-cream-pearl-cream-for-face?variant=49485341360365)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/7318ba0a_b8c1dcc9-70e4-4fce-ab44-c2b0908c7642.jpg?v=1778203382
     Price: $9.99 USD
-  - [Emulsion 120Ml](https://www.colmagic.com/products/boquanya-pearl-essence-cream?variant=49485341393133)
+  - [Emulsion 120Ml](https://www.colmagic.com/products/boquanya-pearl-essence-cream-pearl-cream-for-face?variant=49485341393133)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/a8de8dff_2623f036-ff9e-4036-ae80-db5ded8e5335.jpg?v=1778203384
     Price: $9.99 USD
-  - [Facial Cleanser 100G](https://www.colmagic.com/products/boquanya-pearl-essence-cream?variant=49485341425901)
+  - [Facial Cleanser 100G](https://www.colmagic.com/products/boquanya-pearl-essence-cream-pearl-cream-for-face?variant=49485341425901)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/5d000439_8704574c-c90f-480a-a6ac-e2bf0925c659.jpg?v=1778203386
     Price: $9.99 USD
-  - [Bead Eye Cream 20G](https://www.colmagic.com/products/boquanya-pearl-essence-cream?variant=49485341458669)
+  - [Bead Eye Cream 20G](https://www.colmagic.com/products/boquanya-pearl-essence-cream-pearl-cream-for-face?variant=49485341458669)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/c2e61a03_63a92c6a-a2d0-480f-bee9-ad6ed49b65ae.jpg?v=1778203389
     Price: $9.99 USD
-- [UV Protection  Waterproof Sweatproof Refreshing Non-Greasy](https://www.colmagic.com/products/uv-protection-sunscreen-waterproof-sweatproof-refreshing-non-greasy-sunscreen-cream): - COLMAGIC
-  Updated: 2026-06-01T02:05:35Z
+- [Waterproof Sunscreen Cream for UV Protection | Sweatproof & Non-Greasy](https://www.colmagic.com/products/uv-protection-sunscreen-waterproof-sweatproof-refreshing-non-greasy-sunscreen-cream): Discover our waterproof sunscreen cream that offers superior UV protection, is sweatproof, and provides a refreshing non-greasy feel for all-day comfort.
+  Updated: 2026-06-02T15:23:49Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/53a1ccb7_3d8c4034-f4a3-4e05-ad43-90e23848a2c0.jpg?v=1778203471
   Price: $9.99 USD
-- [Lymphatic Contour Face Brush for Jawline & Chin Sculpting, Dry](https://www.colmagic.com/products/lymphatic-contour-face-brush-for-jawline-chin-sculpting-dry-brushing-massager-for-lymphatic-drainage-facial-fatigue-relief-ergonomically-designed-to-fit-the-skin-precisely-gift-for-women-valentines-day-gift): 🌟Lymphatic Contour Face Brush for Jawline &amp; Chin Sculpting🌟 Ergonomic Design: This colmagic Dry Brushing Massager is ergonomically designed to fit  - COLMAGIC
-  Updated: 2026-06-01T02:05:36Z
+- [Facial Lymphatic Drainage Brush for Jawline Sculpting](https://www.colmagic.com/products/lymphatic-contour-face-brush-for-jawline-chin-sculpting-dry-brushing-massager-for-lymphatic-drainage-facial-fatigue-relief-ergonomically-designed-to-fit-the-skin-precisely-gift-for-women-valentines-day-gift): Boost your skin health with our facial lymphatic drainage brush, designed for jawline sculpting and facial fatigue relief. Perfect gift for women.
+  Updated: 2026-06-02T15:22:52Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
@@ -172,8 +179,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/5ea7670e_2f3949c8-3262-4951-b697-ac8bbc5372d3.jpg?v=1778203710
     Price: $34.99 USD
-- [2-in-1 Double-Ended Matte Lipstick and Lip Gloss - COLMAGIC](https://www.colmagic.com/products/teayason-2-in-1-double-ended-lipstick-lip-gloss-long-lasting-waterproof-matte-lipstick-multi-use-lip-tint-for-lips-cheeks-eyes-12-colors): 2-in-1 double-ended matte lipstick and lip gloss offers rich color, waterproof wear and multi-use tint for lips, cheeks and eyes. Add to your makeup bag today.
-  Updated: 2026-06-01T02:05:36Z
+- [Multi-Use Lip Tint - 2-in-1 Matte Lipstick & Gloss](https://www.colmagic.com/products/teayason-2-in-1-double-ended-lipstick-lip-gloss-long-lasting-waterproof-matte-lipstick-multi-use-lip-tint-for-lips-cheeks-eyes-12-colors): Discover the perfect multi-use lip tint with our 2-in-1 matte lipstick and lip gloss for versatile, long-lasting lip color.
+  Updated: 2026-06-02T15:20:23Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
@@ -226,8 +233,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/77037959_e0b17729-81a9-4878-bd8b-fdb2467a306f.jpg?v=1778203607
     Price: $18.67 USD
-- [Instant Firming Eye Tightener Cream – Temporary Lift - COLMAGIC](https://www.colmagic.com/products/instant-firmx-easy-wear-temporary-eye-tightener-instant-eye-cream): Instant firming eye tightener cream for a temporary lifted look, smoothing fine lines and under-eye bags in minutes. Perfect for daily use or events.
-  Updated: 2026-06-01T02:05:36Z
+- [Instant Eye Firming Cream for a Temporary Lift](https://www.colmagic.com/products/instant-firmx-easy-wear-temporary-eye-tightener-instant-eye-cream): Experience rejuvenated eyes with our instant eye firming cream that provides a quick, temporary lift and reduces fine lines effectively.
+  Updated: 2026-06-02T15:18:36Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
@@ -240,8 +247,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/4d5e8962_673fd5cd-c3ce-408d-9105-05da1de4f3fc.jpg?v=1778203692
     Price: $21.56 USD
-- [Whitening Tooth Care Toothpaste, Daily Gingiva Care Gently Cleans](https://www.colmagic.com/products/whitening-tooth-care-toothpaste-daily-gingiva-care-gently-cleans-stains-and-tartar-freshen-breath): Whitening Tooth Care Toothpaste, Daily Gingiva Care Gently Cleans Stains And Tartar Freshen Breath
-  Updated: 2026-06-01T02:05:37Z
+- [Effective Toothpaste for Stain Removal | Oralhoe Whitening Care](https://www.colmagic.com/products/whitening-tooth-care-toothpaste-daily-gingiva-care-gently-cleans-stains-and-tartar-freshen-breath): Discover Oralhoe whitening toothpaste for stain removal that gently cleans, cares for gingiva, and freshens breath daily.
+  Updated: 2026-06-02T15:16:46Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
@@ -261,45 +268,36 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/b380f5cf_d7e802f6-cc0a-4664-946c-c1bc2bd3981a.jpg?v=1778203759
     Price: $10.96 USD
-- [30s Fast MCH Ceramic Heating HairStraighteningBrush Anti Scald Feature](https://www.colmagic.com/products/30s-fast-mch-ceramic-heating-hair-straightening-brush-with-anti-scald-feature-auto-off-dual-voltage-portable-frizz-free-silky-electric-straightening-comb-straightener-heated-curler-adjustable-gift-lightweight-smooth-storage-comfort): professional hair straightening brushQuick Heat-Up Time: Within 30 seconds, the hair straightener gets the job done, helping you reach the perfect hairdo faster and saving you precious time.High-Density Teeth: The hair straightener features high-density teeth that effectively straighten hair without damaging it.
-  Updated: 2026-06-01T03:36:19Z
+- [Portable Hair Straightener Brush - Fast, Lightweight & Dual Voltage](https://www.colmagic.com/products/30s-fast-mch-ceramic-heating-hair-straightening-brush-with-anti-scald-feature-auto-off-dual-voltage-portable-frizz-free-silky-electric-straightening-comb-straightener-heated-curler-portable-hair-straightener-brush): Discover the portable hair straightener brush with fast heating, anti-scald design, auto-off, and dual voltage for silky, frizz-free hair anytime, anywhere.
+  Updated: 2026-06-02T15:02:52Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/a62d8ba0_1b326be8-948d-4781-a952-9d1ae0b4be53.jpg?v=1778233223
   Price: $39.99 USD
-- [Shower Mirror Fogless for Shaving with Squeegee to Keep Clean](https://www.colmagic.com/products/cosmirror-shower-mirror-fogless-for-shaving-with-squeegee-to-keep-clean-or-remove-foggy-mess-lighted-fogless-mirror-for-shower-two-mounting-solution-dimmable-lighting-3-color-setting): Product Overview- Fog-Free Design: Equipped with an anti-fog coating, this mirror ensures a clear view during shaving.- Included Squeegee: Comes with a handy squeegee for easy cleaning and fog removal.- Dual Anti-Fog Design: Features an easy-to-squeegee surface for effective waterdrop removal.
-  Updated: 2026-06-01T03:36:18Z
+- [Shower Mirror with Squeegee - COSMIRROR Fogless & Lighted](https://www.colmagic.com/products/cosmirror-shower-mirror-fogless-for-shaving-with-squeegee-to-keep-clean-or-remove-foggy-mess-lighted-fogless-mirror-for-shower-two-mounting-solution-dimmable-lighting-3-color-setting): Discover the COSMIRROR shower mirror with squeegee. Fogless, lighted, and easy to clean for a perfect shaving experience every time.
+  Updated: 2026-06-02T15:04:53Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/d071ef41_f863b827-5022-4ff8-aac6-56bd1cd3ac9c.jpg?v=1778314389
   Price: $39.99 USD
-- [Electric Dental Plaque Remover Ultrasonic Cleaner Portable](https://www.colmagic.com/products/sonic-electric-dental-plaque-remover-ultrasonic-cleaner-portable-oral-care-device-for-stone-removal-ipx7-waterproof-cordless-water-flosser): Excellent teeth cleaning effect.2.Effective removal of plaque/ tartar / coffee stains, etc.3.Maintain oral health and fresh breath every day.4.Made of  alloy steel and food-grade silicone, safe to use.5.It takes less money and time than cleaning your teeth in a dental clinic.6.IPX7 waterproof, easy to clean.
-  Updated: 2026-06-01T03:36:17Z
+- [Waterproof Cordless Water Flosser - Portable Ultrasonic Cleaner](https://www.colmagic.com/products/sonic-electric-dental-plaque-remover-ultrasonic-cleaner-portable-oral-care-device-for-stone-removal-ipx7-waterproof-cordless-water-flosser): Discover the waterproof cordless water flosser that removes plaque and dental stones effortlessly. Portable, ultrasonic, and IPX7 rated.
+  Updated: 2026-06-02T15:05:49Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/0806403b_585c0efc-6adb-44aa-8a1d-1754a4585a56.jpg?v=1778314510
   Price: $19.99 USD
-- [Shower Mirror Fogless for Shaving, LED Heated Rechargeable Fogless Mirror for Shower with Razor Holder &10X Magnification, 3 Color Lighting, Dimmable Touch Screen, Anti-Fog Shaving Mirror for Shower](https://www.colmagic.com/products/shower-mirror-fogless-for-shaving-led-heated-rechargeable-fogless-mirror-for-shower-with-razor-holder-10x-magnification-3-color-lighting-dimmable-touch-screen-anti-fog-shaving-mirror-for-shower): Product details
-Package Dimensions‏ :‎ 10.59 x 8.35 x 3.07 inches; 1.6 Pounds
-Item model number‏ :‎ SM484
-Manufacturer‏ :‎ Dajue Home Mirror
-ASIN‏ :‎ B0F527NN5R
-Best Sellers Rank:#126,752 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care)#82 in Shower Mirrors
-Customer Reviews:4.34.3 out of 5 stars(42)
-  Updated: 2026-06-01T03:36:18Z
+- [Shower Mirror Fogless for Shaving - LED Heated & Rechargeable](https://www.colmagic.com/products/shower-mirror-fogless-for-shaving-led-heated-rechargeable-fogless-mirror-for-shower-with-razor-holder-10x-magnification-3-color-lighting-dimmable-touch-screen-anti-fog-shaving-mirror-for-shower): Discover the best shower mirror fogless for shaving with LED heating, 10X magnification, and dimmable lighting for a perfect, fog-free shave every time.
+  Updated: 2026-06-02T15:12:07Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/cd6605f9_9c44035c-77bb-43f1-9023-11f6af530caf.jpg?v=1778315397
   Price: $49.99 USD
-- [Trifold Vanity Mirror with 21 LED Lights, Makeup Mirror with Lighting](https://www.colmagic.com/products/fascinate-trifold-vanity-mirror-with-21-led-lights-2x-3x-magnification-touch-dimming-180-rotation-dual-power-makeup-mirror-with-lighting): Built-in LED Lights: 21 pcs LED lights for high definition visibility.
-Magnification: 1x reflection in the middle and on the right, 2x and 3x magnification on the left side.
-Lighting Options: Choose from bright day lights to soft lights for makeup application.
-Touch Control
-  Updated: 2026-06-01T03:36:18Z
+- [Travel Makeup Mirror with Lights | FASCINATE Trifold Vanity Mirror](https://www.colmagic.com/products/fascinate-trifold-vanity-mirror-with-21-led-lights-2x-3x-magnification-touch-dimming-180-rotation-dual-power-makeup-mirror-with-lighting): Discover the perfect travel makeup mirror with lights featuring 21 LEDs, dual magnification, touch dimming, and 180° rotation for flawless looks anywhere.
+  Updated: 2026-06-02T15:13:08Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
@@ -312,55 +310,50 @@ Touch Control
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/d6f05fba_167e09bc-e20b-431f-88c3-d2d290a43ee1.jpg?v=1778315402
     Price: $36.99 USD
-- [Car Sun Visor Mirror Car Makeup Mirror Car Interior Decoration Mirror HD Foldable Universal car sun visor vanity mirror](https://www.colmagic.com/products/car-sun-visor-mirror-car-makeup-mirror-car-interior-decoration-mirror-hd-foldable-universal-car-sun-visor-vanity-mirror): [Product Color]: Black, White
-[Product weight]: 260g without packaging, 325g with packaging
-[Product Size]: 304*141*10mm
-[Product material]: Main body ABS, glass
-[Product Packaging]: Double Bubble Wrap Packaging
-This product can be freely hung on the sun visor with excellent visibility effect and bright decorative effect, adding style to your car and easily solving your driving troubles. It provides you with more thoughtful design and service, making your driving journey feel like home
-  Updated: 2026-06-01T03:36:17Z
+- [HD Foldable Mirror for Car Sun Visor – Universal Makeup Mirror](https://www.colmagic.com/products/car-sun-visor-mirror-car-makeup-mirror-car-interior-decoration-mirror-hd-foldable-universal-car-sun-visor-vanity-foldable-mirror): Discover the perfect foldable mirror for your car sun visor. HD clarity, universal fit, and sleek design for on-the-go makeup and interior decoration.
+  Updated: 2026-06-02T15:14:31Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/824cf09a_fe9ff815-2c47-4e31-a116-6591a9c7acef.jpg?v=1778315453
-  - [black](https://www.colmagic.com/products/car-sun-visor-mirror-car-makeup-mirror-car-interior-decoration-mirror-hd-foldable-universal-car-sun-visor-vanity-mirror?variant=49945022071021)
+  - [black](https://www.colmagic.com/products/car-sun-visor-mirror-car-makeup-mirror-car-interior-decoration-mirror-hd-foldable-universal-car-sun-visor-vanity-foldable-mirror?variant=49945022071021)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/e505267f_1fe24ee6-06b3-4eff-8274-9120f23c1962.jpg?v=1778315453
     Price: $29.99 USD
-  - [White](https://www.colmagic.com/products/car-sun-visor-mirror-car-makeup-mirror-car-interior-decoration-mirror-hd-foldable-universal-car-sun-visor-vanity-mirror?variant=49945022202093)
+  - [White](https://www.colmagic.com/products/car-sun-visor-mirror-car-makeup-mirror-car-interior-decoration-mirror-hd-foldable-universal-car-sun-visor-vanity-foldable-mirror?variant=49945022202093)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/42beedbe_825c7b59-b392-48f5-842a-eed064a51dba.jpg?v=1778315454
     Price: $29.99 USD
-- [Lash Clusters Kit with Lash Bond and Seal Glue, 5-18mm Natural & Wispy](https://www.colmagic.com/products/lash-clusters-kit-with-lash-bond-and-seal-glue-5-18mm-natural-wispy-eyelashes-for-lashes-cluster-includes-lash-tweezers-with-bond-seal-remover-applicator-diy-lash-extension-kitblack-148-pcs): No more guesswork regarding length, and no more scrambling to find a separate adhesive. COLMAGIC offers a complete range of lash clusters—covering every option from delicate 5mm lengths for the inner corners to dramatic 18mm styles Diy Lashes Lash for the outer corners. Thoughtfully paired with a Bond & Seal Cluster
-  Updated: 2026-06-01T03:36:16Z
+- [DIY Lash Extension Kit - Lash Clusters with Glue & Tweezers](https://www.colmagic.com/products/lash-clusters-kit-with-lash-bond-and-seal-glue-5-18mm-natural-wispy-eyelashes-for-lashes-cluster-includes-lash-tweezers-with-bond-seal-remover-applicator-diy-lash-extension-kitblack-148-pcs): Discover the ultimate DIY lash extension kit with natural 5-18mm clusters, lash bond & seal glue, tweezers, and remover applicator for professional results.
+  Updated: 2026-06-05T07:22:50Z
   Vendor: COLMAGIC
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/6ec5a0cc_6012803b-f823-4968-a714-cd62505d0f69.jpg?v=1780215951
+  Image: https://cdn.shopify.com/s/files/1/0802/5128/9837/files/black_lashes_tool.jpg?v=1780644160
   Price: $29.99 USD
 
 ## Collections
 
-- [DIY Lash Kits - Easy Everyday Beauty with ColMagic](https://www.colmagic.com/collections/colmagic-diy-lash-kits): Discover Colmagic Lashes Kits for easy, everyday beauty. TikTok's viral DIY lash kits will make you obsessed with stunning lashes!
-  Updated: 2026-06-01T02:05:34Z
+- [ColMagic diy lash cluster kits for Stunning Lashes](https://www.colmagic.com/collections/diy-lash-cluster-kits): Discover ColMagic diy lash cluster kits for easy, professional-looking lashes at home. Perfect for beauty lovers seeking convenience and style.
+  Updated: 2026-06-02T09:43:49Z
   Total Products: 1
-- [Eye Lashes & Eye Care](https://www.colmagic.com/collections/colmagic-eye-lashes)
-  Updated: 2026-06-01T04:02:35Z
-  Total Products: 6
-- [Lip Care](https://www.colmagic.com/collections/lip-care)
-  Updated: 2026-06-01T02:05:34Z
+- [Eye and Eyelashes Care Tips for Healthy Lashes](https://www.colmagic.com/collections/colmagic-eye-and-eyelashes): Discover essential eye and eyelashes care tips to keep your eyes healthy and lashes strong. Learn expert advice for optimal eye health.
+  Updated: 2026-06-05T07:18:11Z
+  Total Products: 7
+- [Natural Lip Care Products for Soft, Healthy Lips](https://www.colmagic.com/collections/lip-care-natural-lip-care-products): Discover the best natural lip care products to keep your lips soft, hydrated, and protected with simple, effective ingredients.
+  Updated: 2026-06-02T09:36:00Z
   Total Products: 3
-- [Personal Care](https://www.colmagic.com/collections/personal-care)
-  Updated: 2026-06-01T02:05:34Z
+- [Personal Care - COLMAGIC](https://www.colmagic.com/collections/personal-care): - COLMAGIC
+  Updated: 2026-06-02T07:15:48Z
   Total Products: 5
-- [Women's Beauty & Personal Care Essential](https://www.colmagic.com/collections/womens-beauty-personal-care-essential)
-  Updated: 2026-06-01T03:45:06Z
+- [Women's Beauty & Personal Care Essential - COLMAGIC](https://www.colmagic.com/collections/womens-beauty-personal-care-essential): - COLMAGIC
+  Updated: 2026-06-05T07:18:11Z
   Total Products: 14
-- [Makeup mirror](https://www.colmagic.com/collections/makeup-mirror)
-  Updated: 2026-06-01T03:38:10Z
+- [Makeup Mirror Guide: Best Mirrors for Flawless Makeup](https://www.colmagic.com/collections/makeup-mirror): Discover the best makeup mirror tips, types, and features to enhance your beauty routine with our comprehensive makeup mirror guide.
+  Updated: 2026-06-02T09:45:56Z
   Total Products: 5
-- [Colmagic All items](https://www.colmagic.com/collections/colmagic-all-items)
-  Updated: 2026-06-01T07:28:05Z
+- [Colmagic All items - COLMAGIC](https://www.colmagic.com/collections/colmagic-all-items): - COLMAGIC
+  Updated: 2026-06-05T07:18:11Z
   Total Products: 23
 
 ## Blogs
@@ -371,6 +364,42 @@ This product can be freely hung on the sun visor with excellent visibility effec
     Author: Colmagic
   - [7 Amazing Benefits of Using a DIY Lash Extension Kit & Lash Cluster Kit](https://www.colmagic.com/blogs/colmagic-daily-blog/7-amazing-benefits-of-using-a-diy-lash-extension-kit-lash-cluster-kit): 7 Amazing Benefits of Using a DIY Lash Extension Kit & Lash Cluster Kit
     Updated: 2026-06-01T07:44:12Z
+    Author: Colmagic
+  - [The Ultimate Guide to DIY Lash Extension Kits: Everything Beginners Need to Know](https://www.colmagic.com/blogs/colmagic-daily-blog/the-ultimate-guide-to-diy-lash-extension-kits-everything-beginners-need-to-know): The Ultimate Guide to DIY Lash Extension Kits: Everything Beginners Need to Know
+    Updated: 2026-06-02T01:30:46Z
+    Author: Colmagic
+  - [10-18mm Eyelash Extensions & Hydrated Skin: 2026 Beauty Trends](https://www.colmagic.com/blogs/colmagic-daily-blog/colmagic-diy-mixed-eyelashes-kit-10-1colmagic-diy-eyelash-kit-300-clusters-10-18mm-natural-volume-lashes-waterproof-hydration-for-beauty): 10-18mm Eyelash Extensions & Hydrated Skin: 2026 Beauty Trends
+    Updated: 2026-06-02T08:10:17Z
+    Author: Colmagic
+  - [How much does eyelash extensions cost](https://www.colmagic.com/blogs/colmagic-daily-blog/how-much-does-eyelash-extensions-cost): How much does eyelash extensions cost
+    Updated: 2026-06-03T01:29:39Z
+    Author: Colmagic
+  - [DIY Lash Extension Kit: Master the 2026 Quick Beauty Routine](https://www.colmagic.com/blogs/colmagic-daily-blog/lash-clusters-kit-with-lash-bond-and-seal-glue-5-18mm-natural-wispy-eyelashes-for-lashes-cluster-includes-lash-tweezers-with-bond-seal-remover-applicator-diy-lash-extension-kitblack-148-pcs-beauty-from-the-inside-out): DIY Lash Extension Kit: Master the 2026 Quick Beauty Routine
+    Updated: 2026-06-03T08:10:23Z
+    Author: Colmagic
+  - [How remove eyelash extensions](https://www.colmagic.com/blogs/colmagic-daily-blog/how-remove-eyelash-extensions): How remove eyelash extensions
+    Updated: 2026-06-04T01:21:02Z
+    Author: Colmagic
+  - [How long do eyelash extensions last](https://www.colmagic.com/blogs/colmagic-daily-blog/how-long-do-eyelash-extensions-last): How long do eyelash extensions last
+    Updated: 2026-06-05T01:21:25Z
+    Author: Colmagic
+  - [Discover How Long Do the Eyelash Extensions Last with a DIY Kit Tips for a Lasting Look](https://www.colmagic.com/blogs/colmagic-daily-blog/discover-how-long-do-the-eyelash-extensions-last-with-a-diy-kit-tips-for-a-lasting-look): Discover How Long Do the Eyelash Extensions Last with a DIY Kit Tips for a Lasting Look
+    Updated: 2026-06-06T01:22:19Z
+    Author: Colmagic
+  - [Comparative Analysis: Eyelash Extensions in Chicago Versus DIY Lash Kits](https://www.colmagic.com/blogs/colmagic-daily-blog/comparative-analysis-eyelash-extensions-in-chicago-versus-diy-lash-kits): Comparative Analysis: Eyelash Extensions in Chicago Versus DIY Lash Kits
+    Updated: 2026-06-07T01:08:06Z
+    Author: Colmagic
+  - [The Secret to Achieving a Natural Look Eyelash Extensions At Home](https://www.colmagic.com/blogs/colmagic-daily-blog/the-secret-to-achieving-a-natural-look-eyelash-extensions-at-home): The Secret to Achieving a Natural Look Eyelash Extensions At Home
+    Updated: 2026-06-08T01:06:05Z
+    Author: Colmagic
+  - [HD Car Sun Visor Mirror: 2026 Age-Positive Beauty Routine](https://www.colmagic.com/blogs/colmagic-daily-blog/car-sun-visor-mirror-car-makeup-mirror-car-interior-decoration-mirror-hd-foldable-universal-car-sun-visor-vanity-foldable-mirror-age-positive-beauty-tips): HD Car Sun Visor Mirror: 2026 Age-Positive Beauty Routine
+    Updated: 2026-06-08T08:30:09Z
+    Author: Colmagic
+  - [FAQ: All You Need to Know About Eyelash Extensions Volume Using a DIY Kit](https://www.colmagic.com/blogs/colmagic-daily-blog/faq-all-you-need-to-know-about-eyelash-extensions-volume-using-a-diy-kit): FAQ: All You Need to Know About Eyelash Extensions Volume Using a DIY Kit
+    Updated: 2026-06-09T01:13:00Z
+    Author: Colmagic
+  - [LED Makeup Mirror: The 2026 Pro DIY Beauty & Lash Game-Changer](https://www.colmagic.com/blogs/colmagic-daily-blog/fascinate-trifold-vanity-mirror-with-21-led-lights-2x-3x-magnification-touch-dimming-180-rotation-dual-power-makeup-mirror-with-lighting-beauty-confidence-boosters): LED Makeup Mirror: The 2026 Pro DIY Beauty & Lash Game-Changer
+    Updated: 2026-06-09T08:40:03Z
     Author: Colmagic
 
 ## Store Pages
