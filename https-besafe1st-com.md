@@ -10,21 +10,21 @@
 - Contact Email: info@besafe1st.com
 - Contact Phone: (307) 201-0706
 - Address: 30 North Gould St Ste R, Sheridan, WY 82801
-- Updated At: 2026-06-01T00:00:40.998Z
+- Updated At: 2026-06-10T00:00:44.244Z
 
 Besafe1st® | Marine Safety, Life Jackets, Fishing & Outdoor Gear
 
 ## Products
 
 - [ACR Survival Res-Q Whistle w/Lanyard [2228] - Besafe1st](https://besafe1st.com/products/6961464017075): ACR Survival Res-Q Whistle w/Lanyard [2228]The ACR Survival Res-Q Whistle w/Lanyard [2228] is an essential tool for anyone adventuring in the great outdoors. Whether you're hiking, camping, or boating, having a reliable signaling device is crucial. This whistle, designed with the survivalist in mind, can help alert rescuers to your location in emergency situations. Made from durable materials, it is lightweight and highly portable.The following features make the ACR Survival Res-Q Whistle a must-have: • High Sound Output: The whistle produces a loud, piercing sound that can be heard from a great distance, ensuring you can get attention when needed. • Lightweight Design: Weighing only a few grams, this whistle won't add unnecessary bulk to your gear. • Durable Construction: Made with high-quality materials, the whistle is designed to withstand rugged outdoor conditions. • Includes Lanyard: The whistle comes with a convenient lanyard, making it easy to attach to your gear or wear around your neck. Perfect for hiking, camping, fishing, or boating, the ACR Survival Res-Q Whistle w/Lanyard [2228] not only meets your safety needs but also provides peace of mind. Keep it in your emergency kit or attach it to your backpack for access when you need it most. The whistle's quality sound output ensures that your calls for help will be heard, which is critical in survival situations. Don't underestimate the importance of a signaling device; make the ACR Survival Res-Q Whistle w/Lanyard [2228] part of your outdoor essentials today!In addition to its primary use as a signaling device, this whistle can also serve various other purposes. Use it to communicate with your group while out in nature, or as a safety signal for wildlife encounters. Its bright color makes it easy to find in any terrain, reducing the chances of losing it when you need it most. The ACR Survival Res-Q Whistle is also an excellent gift for outdoor enthusiasts, ensuring that they are always prepared for any situation. - Besafe1st
-  Updated: 2026-05-27T16:25:19Z
+  Updated: 2026-06-07T14:25:16Z
   Vendor: ACR Electronics
   Product Type: Safety
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/ACR-Survival-Res-Q-Whistle-w-18--Lanyard-_2228_-ACR-Electronics-1655414652.jpg?v=1777616041
   Price: $11.95 USD
 - [ACR 55W Replacement Bulb f/RCL-100 Searchlight - 12V [6001] - Besafe1st](https://besafe1st.com/products/6961464115379): 55W Replacement Bulb for RCL-100 Searchlight - 12V High intensity 55W Halogen Bulb - 12V. Compatible With:RCL-100, RCL-100A, RCL-100B, RCL-100C and RCl-100D searchlights*Sold as an Individual WARNING: This product can expose you to chemicals which are known to the State of California to cause cancer, birth defects or other reproductive harm. For more information go to P65Warnings.ca.gov.This product may not be returned to the original point of purchase. Please contact the manufacturer directly with any issues or concerns. Specifications: Voltage - Input Range (Volts): 12 Box Dimensions: 1"H x 1"W x 4"L WT: 0.1 lbs UPC: 791659060018 - Besafe1st
-  Updated: 2026-05-20T17:16:04Z
+  Updated: 2026-06-05T19:25:17Z
   Vendor: ACR Electronics
   Product Type: Bulbs
   Availability: Available
@@ -38,14 +38,14 @@ Besafe1st® | Marine Safety, Life Jackets, Fishing & Outdoor Gear
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/10024XL.jpg?v=1777616043
   Price: $166.95 USD
 - [ACR URP-102 Point Pad f/ACR Searchlights [1928.3] - Besafe1st](https://besafe1st.com/products/6961464541363): URP-102 Point Pad™ for ACR Searchlights Control an ACR spotlight from any place on a vessel with fingertip control and accuracy This controller can be surface or flush mounted.In the Box: Point Pad™ URP-102 remote Flush and surface mount case Gaskets (surface and Flush) Mounting hardware Instruction manual *Sold as an Individual WARNING: This product can expose you to chemicals including BISPHENOL A (BPA) which is known to the State of California to cause birth defects or other reproductive harm. For more information go to P65Warnings.ca.gov.WARNING: This product can expose you to chemicals which are known to the State of California to cause cancer, birth defects or other reproductive harm. For more information go to P65Warnings.ca.gov. Specifications: Type: Parts Box Dimensions: 4"H x 7"W x 9"L WT: 1 lbs UPC: 791659192832 - Besafe1st
-  Updated: 2026-05-21T15:25:12Z
+  Updated: 2026-06-04T19:25:17Z
   Vendor: ACR Electronics
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/10025XL-_1.jpg?v=1777616045
   Price: $296.95 USD
 - [ACR URC-102 Master Controller f/RCL-50  RCL-100 Searchlight [1927.3] - Besafe1st](https://besafe1st.com/products/6961464770739): URC-102 Master Controller for RCL-50 and RCL-100 Searchlight Replacement controller which controls On/Off, rotation speed and the XRCiZ feature of the RCL-50 and RCL-100 searchlights.Compatible With:RCL-50 and RCL-100 searchights *Not compatible with RCL 100-LEDIn the Box: URC-102 Controller Connectors *Sold as an Individual WARNING: This product can expose you to chemicals including di(2-ethylhexyl)phthalate (dehp) which is known to the State of California to cause cancer, birth defects or other reproductive harm. For more information go to P65Warnings.ca.gov.WARNING: This product can expose you to chemicals which are known to the State of California to cause cancer, birth defects or other reproductive harm. For more information go to P65Warnings.ca.gov. Specifications: Type: Parts Box Dimensions: 4"H x 7"W x 8"L WT: 1 lbs UPC: 791659192733 - Besafe1st
-  Updated: 2026-05-20T17:16:07Z
+  Updated: 2026-06-02T22:25:16Z
   Vendor: ACR Electronics
   Product Type: Accessories
   Availability: Available
@@ -59,26 +59,19 @@ Besafe1st® | Marine Safety, Life Jackets, Fishing & Outdoor Gear
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/10030XL-_1.jpg?v=1777616045
   Price: $790.95 USD
 - [Standard Horizon 5" Round Hailer/PA Horn - White [220SW] - Besafe1st](https://besafe1st.com/products/standard-horizon-4-5-round-hailer-pa-horn-white-220sw): 5" Round Hailer/PA Horn - WhiteSpecifications: 5" Round PA/Hailing horn 30 Watt horn 4 Ohm Compatible with: GX2200S GX3000S GX5000S GX5500S VLH-3000 Specifications: Power - Output (Watts): 30w Shape: Round Impedance: 4 OHM Box Dimensions: 6"H x 6"W x 7"L WT: 1.4 lbs UPC: 788026113279 - Besafe1st
-  Updated: 2026-05-28T20:25:20Z
+  Updated: 2026-06-09T01:25:20Z
   Vendor: Standard Horizon
   Product Type: Hailer Horns
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/10391XL.jpg?v=1777616045
   Price: $60.00 USD
 - [Standard Horizon Flush Mount Kit [MMB-84] - Besafe1st](https://besafe1st.com/products/standard-horizon-flush-mount-kit-mmb-84): Flush Mount KitMMB-84Rear-mounted flush mount kit for fixed-mount radios. Fits many current and older models. Specifications: Type: Mounting Brackets Box Dimensions: 2"H x 4"W x 5"L WT: 0.2 lbs UPC: 788026089949 - Besafe1st
-  Updated: 2026-05-30T03:25:18Z
+  Updated: 2026-06-09T19:25:17Z
   Vendor: Standard Horizon
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/10394XL.jpg?v=1777616046
   Price: $20.00 USD
-- [Ritchie X-11Y SportAbout Handheld Compass - Besafe1st](https://besafe1st.com/products/ritchie-x-11y-sportabout-handheld-compass): port About Hand Bearing Compass Features: Easy to Read 2″ (51 mm) Direct-Reading DiSteel Pivot and Sapphire Jewel Movement. Free shipping pver $100 at besafe1st
-  Updated: 2026-05-31T03:25:17Z
-  Vendor: Ritchie
-  Product Type: Compasses - Magnetic
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/10532XL.jpg?v=1777616047
-  Price: $59.99 USD
 - [Garmin 12V Adapter Cable f/Cigarette Lighter [010-10085-00] - Besafe1st](https://besafe1st.com/products/garmin-12v-adapter-cable-f-cigarette-lighter): Save a battery's life - buy an adapter! Plugs into any standard cigarette lighter receptacle to power your GPS.WARNING: This product can expose you to chemicals which are known to the State of California to cause cancer, birth defects or other reproductive harm. For more information go to P65Warnings.ca.gov. - Besafe1st
   Updated: 2026-05-20T17:16:13Z
   Vendor: Garmin
@@ -87,14 +80,14 @@ Besafe1st® | Marine Safety, Life Jackets, Fishing & Outdoor Gear
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/10563XL.jpg?v=1777616047
   Price: $29.99 USD
 - [Garmin Power/Data Cable for Fishfinder 320C & GPSMAP Series](https://besafe1st.com/products/garmin-power-data-cable-bare-wires-f-fishfinder-320c-gps-series): Upgrade your fishing setup with the Garmin Power/Data Cable for Fishfinder 320C and GPS Series. Durable, reliable, and designed for optimal performance. Perfect for your marine adventures!
-  Updated: 2026-05-29T14:25:17Z
+  Updated: 2026-06-08T21:25:20Z
   Vendor: Garmin
   Product Type: GPS - Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/10578XL.jpg?v=1777616047
   Price: $29.99 USD
 - [Shakespeare 396-1 5' VHF Antenna [396-1] - Besafe1st](https://besafe1st.com/products/shakespeare-396-1-5-vhf-antenna-396-1): Style 396-1 VHF 3dBCenter-fed 1/2-wave coaxial sleeveOutstanding, basic 3dB antenna designed to reduce signal fading in rough seas. This is probably the most widely used antenna on Coast Guard vessels. Brass and copper elements Chrome-plated brass ferrule with standard 1-14 thread Includes 15' RG-58 cable and a PL-259 connector Suggested mount: Style 4187 Ratchet Mount One section Technical Specifications: Frequency: VHF Marine band Bandwidth: (within 2.0:1 SWR): 5 MHz SWR: 1.5:1 at 156.8 MHz Impedance (Ohms): 50 Gain: 3 dB Max Input (Watts): 50 DC Ground: NO Termination: 15' RG-58 cable Height (feet): 5 Polarization: Vertical Radiation pattern: Omni-directional Specifications: Antenna Band: VHF Color: White Construction: Fiberglass Ferrule Type: Chrome Plated Length (Inches): 60" Box Dimensions: 3"H x 3"W x 63"L WT: 2.9 lbs UPC: 719441100018 Quick Guide (pdf) - Besafe1st
-  Updated: 2026-05-20T17:16:19Z
+  Updated: 2026-06-02T18:25:06Z
   Vendor: Shakespeare
   Product Type: Antennas
   Availability: Available
@@ -115,14 +108,14 @@ Besafe1st® | Marine Safety, Life Jackets, Fishing & Outdoor Gear
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/10609XL.jpg?v=1777616052
   Price: $129.99 USD
 - [Shakespeare 5206-N 8' VHF Antenna [5206-N] - Besafe1st](https://besafe1st.com/products/shakespeare-5206-n-8-vhf-antenna-5206-n): Shakespeare Style 5206-N VHF Marine - Reduced Length Version8' LENGTH 6dBEND-FED WITH MATCHING STUBSame as the Style 5206-C, but the 5206-N has a nylon ferrule.An economical and lightweight, self-supporting antenna for good communications where range is not the predominant factor. Quality copper cable elements for good range and efficiency Nylon ferrule with standard 1"-14 thread Includes 15' RG-58 cable and a PL-259 connector Suggested mount: Shakespeare Style 495 Lift-n-Lay Mount or Style 4186 Ratchet Mount Twin to: Shakespeare Styles 5205 and 5207 CB Marine antennas One section Shakespeare Limited Warranty: 2 years Technical Specifications: Frequency: VHF Marine band Bandwidth: 3 MHz SWR: 1.5:1 @156.8 MHz Impedance: (Ohms): 50 Gain: 6 dB Max Input (Watts): 50 DC Ground: NO - the antenna will read "open circuit" when checked with an ohm meter or continuity tester. Termination: RG-58 Height (feet): 8 Polarization: Vertical Radiation pattern: Omni-directional Specifications: Antenna Band: VHF Color: White Construction: Fiberglass Ferrule Type: Nylon Length (Inches): 96" Box Dimensions: 3"H x 3"W x 95"L WT: 2.4 lbs UPC: 719441100186 Quick Guide (pdf).embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } - Besafe1st
-  Updated: 2026-05-31T13:25:27Z
+  Updated: 2026-06-09T21:25:17Z
   Vendor: Shakespeare
   Product Type: Antennas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/10627XL.jpg?v=1777616052
   Price: $99.99 USD
 - [Shakespeare 5215 3' Stainless Steel Whip Antenna [5215] - Besafe1st](https://besafe1st.com/products/shakespeare-5215-3-stainless-steel-whip-antenna-5215): Shakespeare Style 5215 SQUATTY BODY® VHF Marine36" LENGTH, 3dBEND-FED 1/2-WAVE STAINLESS STEEL WHIPA favorite with Sailboat owners, this lightweight, low profile, stainless steel antenna is specially designed for masthead mounting. Hermetically sealed, tin-plated copper wire coil Stainless steel body and whip SO-239 connector - cable sold separately Mount: Stainless steel "L" bracket supplied, for mast mounting One section Shakespeare Limited Warranty: 2 years technical Specifications: Frequency: VHF Marine band Bandwidth: 7 MHz SWR: 1.5:1 @ 156.8 MHz Impedance: (Ohms): 50 Gain: 3 dB Max Input (Watts): 50 DC Ground: NO Termination: SO-239 connector Height (feet): 3 Polarization: Vertical Radiation pattern: Omni-directional Specifications: Antenna Band: VHF Color: Stainless Construction: Stainless Steel Length (Inches): 36" Box Dimensions: 3"H x 3"W x 40"L WT: 1.5 lbs UPC: 719441100148 Quick Guide (pdf).embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } - Besafe1st
-  Updated: 2026-05-31T01:25:18Z
+  Updated: 2026-06-09T19:25:17Z
   Vendor: Shakespeare
   Product Type: Antennas
   Availability: Available
@@ -136,70 +129,63 @@ Besafe1st® | Marine Safety, Life Jackets, Fishing & Outdoor Gear
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/10632XL.jpg?v=1777616053
   Price: $179.99 USD
 - [Shakespeare Galaxy 5225-XT 8' VHF Antenna - 6dB Gain - Reduced Length [5225-XT] - Besafe1st](https://besafe1st.com/products/shakespeare-5225-xt-8-vhf-galaxy-antenna-6db): Galaxy 5225-XT 8' VHF Antenna - 6dB Gain - Reduced LengthEXTRA TOUGH!Shakespeare's best 8', 6dB Gain antenna. Its Galaxy® design maximizes range and quality in a great looking antenna. The 5225-XT is Shakespeare's classic Style 5225 in a new, stronger, sturdier, stiffer radome for extra duty. It's extra tough for use on hard tops, T-tops, radar arches, or wherever its extra resistance to high winds and high speeds is welcome.Features: Collinear-phased 5/8 wave elements Brass and copper elements for maximum range and efficiency Stainless steel ferrule with standard 1"-14 thread 20' RG-8/X low-loss cable plus a PL-259 connector Suggested mount: Shakespeare Style 4187 Ratchet Mount One section Shakespeare Limited Warranty: 5 years Includes FME cables Technical Specifications: Gain: 6dB Frequency: VHF Marine Band Bandwidth: 3 MHz within 2.0:1 VSWR SWR: Nominally 1.5:1 at 156.8 MHz Impedance: 50 ohms Max Input (Watts): 100 watts DC Ground: YES Polarization: Vertical Specifications: Antenna Band: VHF Color: White Construction: Fiberglass Ferrule Type: Stainless Steel Length (Inches): 96" Box Dimensions: 2"H x 2"W x 95"L WT: 4.75 lbs UPC: 719441200220 Quick Guide (pdf) - Besafe1st
-  Updated: 2026-05-31T23:25:17Z
+  Updated: 2026-06-09T21:25:19Z
   Vendor: Shakespeare
   Product Type: Antennas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/10636XL.jpg?v=1777616055
   Price: $249.99 USD
 - [Shakespeare Galaxy 5226-XT 8' Black VHF Antenna - 6dB Gain [5226-XT] - Besafe1st](https://besafe1st.com/products/shakespeare-5226-xt-8-black-vhf-antenna): Galaxy 5226-XT 8' Black VHF Antenna - 6dB GainEXTRA TOUGH!This antenna is the same as Style 5225-XT( Reduced length version) but with the exclusive Galaxy gloss black finish. It's Shakespeares best maximum range and quality in a great looking Galaxy antenna. The new 5225-XT is Shakespeares classic Style 5225 in a new, stronger, stiffer radome. Its extra tough for use on hard tops, T-tops, radar arches, or wherever its extra resistance to high winds and high speeds is welcome.Features: Collinear-phased 5/8 wave elements Brass and copper elements for maximum range and efficiency Stainless steel ferrule with standard 1"-14 thread 20' RG-8/X low-loss cable plus a PL-259 connector Suggested mount: Shakespeare Style 4187 Ratchet Mount One section Shakespeare Limited Warranty: 5 years Technical Specifications: Frequency: VHF Marine Band Bandwidth: 3 MHz within 2.0:1 VSWR SWR: Mominally 1.5:1 at 156.8 MHz Impedance: 50 ohms Gain: 6 dB Max Input (Watts): 100 watts DC Ground: YES Height (feet): 8 Polarization: Vertical Specifications: Antenna Band: VHF Color: Black Construction: Fiberglass Ferrule Type: Stainless Steel Length (Inches): 96" Box Dimensions: 2"H x 2"W x 95"L WT: 2.4 lbs UPC: 719441200237 Quick Guide (pdf) - Besafe1st
-  Updated: 2026-05-29T14:25:18Z
+  Updated: 2026-06-09T23:25:23Z
   Vendor: Shakespeare
   Product Type: Antennas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/10637XL.jpg?v=1777616056
   Price: $249.99 USD
 - [Shakespeare Galaxy 5230 14' VHF Antenna - 8dB Gain [5230] - Besafe1st](https://besafe1st.com/products/shakespeare-5230-14-vhf-antenna-5230): Galaxy 5230 14' VHF Antenna - 8dB GainThe ultra-performer, Shakespeares Style 5230 is the most effective 8dB antenna system available anywhere, thanks to its increased signal capture area.Features: 5/8 wave over 1/2 wave dipole Brass and copper elements for maximum range and efficiency Stainless steel ferrule with standard 1"-14 thread Includes 20 feet of RG-8/X cable and a PL-259 connector Suggested mount: Shakespeare Style 409-R or 410-R Mounting Kit Two sections: Base 94", Tip 74" - Shakespeare Limited Warranty: 5 years Technical Specifications: Frequency: VHF Marine Band Bandwidth: 3 MHz within 2.0:1 VSWR SWR: Nominally 1.5:1 at 156.8 MHz Impedance: 50 ohms Gain: 8 dB Max Input (Watts): 200 watts DC Ground: YES Height (feet): 14 Polarization: Vertical Specifications: Antenna Band: VHF Color: White Construction: Fiberglass Ferrule Type: Stainless Steel Length (Inches): 168" Box Dimensions: 3"H x 3"W x 95"L WT: 11 lbs UPC: 719441200084 Quick Guide (pdf) - Besafe1st
-  Updated: 2026-05-29T14:25:18Z
+  Updated: 2026-06-07T14:25:16Z
   Vendor: Shakespeare
   Product Type: Antennas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/10640XL.jpg?v=1777616056
   Price: $659.99 USD
+- [Shakespeare 5911 10" VHF Antenna [5911] - Besafe1st](https://besafe1st.com/products/shakespeare-5911-10-vhf-antenna-5911): Shakespeare Style 5911 THE STOWAWAY Emergency VHF Flex Antenna Unity GainLOADED 1/4 WAVE WHIPComes packed in a 12 weather-resistant, plastic tube which can stow away in an easy-to-reach location for instant emergency capability if your main antenna becomes broken or disabled. Complete with 12' cable, connector, and rubber suction cup for fast, easy mounting to any smooth horizontal surface. Flexible vinyl outer covering 10 overall length Velcro strips for storage included Technical Specifications: Frequency: VHF Marine band Bandwidth: N/A SWR: Adequate across Marine Band. Precise SWR depends on antenna location Impedance: (Ohms): 50 Gain: Unity Max Input (Watts): 25 DC Ground: YES Termination: 12' RG-58 cable Height (feet): 10" Polarization: Vertical Radiation pattern: Omini-directional WARNING: This product can expose you to chemicals including LEAD which is known to the State of California to cause cancer, birth defects or other reproductive harm. For more information go to P65Warnings.ca.gov. Specifications: Antenna Band: VHF Color: White Construction: Vinyl Rubber Ferrule Type: Suction Cup Length (Inches): 10" Box Dimensions: 3"H x 3"W x 11"L WT: 0.9 lbs UPC: 719441300012 - Besafe1st
+  Updated: 2026-06-09T21:25:16Z
+  Vendor: Shakespeare
+  Product Type: Antennas
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/10648XL.jpg?v=1777616057
+  Price: $109.99 USD
 - [Shakespeare 408-R Stand-Off Bracket [408-R] - Besafe1st](https://besafe1st.com/products/shakespeare-408-r-stand-off-bracket-408-r): Shakespeare Style 408-RUPPER BRACKET WHITE MOLDED PLASTICInsulated stand-off bracket of white molded plastic. Corrosion resistant. Easy-open for quick laydown. For use with Styles 81-S and 407 Swivel Mounts and antennas of 1" (using insert provided) or1-1/2" diameter. Now includes a new 1-1/8" insert! Specifications: Type: Mounting Brackets Box Dimensions: 1"H x 6"W x 6"L WT: 0.6 lbs UPC: 719441110796 Quick Guide (pdf) - Besafe1st
-  Updated: 2026-05-29T16:25:14Z
+  Updated: 2026-06-04T19:25:17Z
   Vendor: Shakespeare
   Product Type: Antenna Mounts & Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/10658XL.jpg?v=1777616059
   Price: $31.99 USD
 - [Shakespeare 410-R Mounting Kit [410-R] - Besafe1st](https://besafe1st.com/products/shakespeare-410-r-mounting-kit-410-r): Shakespeare Style 410-R Mounting KitCombines the Style 91 Swivel Mount with the Shakespeare Style 408-R Insulated Stand-off Bracket. The molded upper bracket features an insert to accept 1" or 1-1/2; diameter antennas or extension masts. Includes an 1-1/8" insert. The swivel mount is stainless steel construction. Specifications: Type: Mounting Brackets Box Dimensions: 4"H x 6"W x 6"L WT: 2 lbs UPC: 719441110819 Quick Guide (pdf) - Besafe1st
-  Updated: 2026-05-20T17:16:40Z
+  Updated: 2026-06-01T16:25:16Z
   Vendor: Shakespeare
   Product Type: Antenna Mounts & Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/10660XL.jpg?v=1777616059
   Price: $129.99 USD
 - [Shakespeare 4186BP/L206B Nylon Ratchet Mount [4186-BP] - Besafe1st](https://besafe1st.com/products/shakespeare-4186bp-l206b-nylon-ratchet-mount-4186-bp): Shakespeare Style 4186RATCHET MOUNT SOLID NYLONFour-way ratchet design with handle, for deck or side mounting. Not for use with antennas longer than 8' in self-supporting mode, as this nullifies all warranties. Standard 1"-14 thread. Bolt holes: 5/16" dia., 3" x 1-1/2 on center Specifications: Type: Mounting Brackets Box Dimensions: 3"H x 4"W x 5"L WT: 0.6 lbs UPC: 719441110581 - Besafe1st
-  Updated: 2026-05-29T06:25:16Z
+  Updated: 2026-06-06T06:25:17Z
   Vendor: Shakespeare
   Product Type: Antenna Mounts & Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/10661XL.jpg?v=1777616060
   Price: $16.99 USD
 - [Shakespeare 4186U Nylon Ratchet Mount - Unassembled [4186-U] - Besafe1st](https://besafe1st.com/products/shakespeare-4186u-nylon-ratchet-mount-unassembled-4186-u): Style 4186Ratchet MountFour-way ratchet design with handle, for deck or side mounting. Not for use with antennas longer than 8ft in self-supporting mode, as this nullifies all warranties. Specifications: Type: Mounting Brackets Box Dimensions: 3"H x 4"W x 6"L WT: 0.7 lbs UPC: 719441110215 - Besafe1st
-  Updated: 2026-05-30T17:25:17Z
+  Updated: 2026-06-01T16:25:16Z
   Vendor: Shakespeare
   Product Type: Antenna Mounts & Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/10662XL.jpg?v=1777616060
   Price: $16.99 USD
-- [Shakespeare 4187 Stainless Steel Ratchet Mount [4187] - Besafe1st](https://besafe1st.com/products/stainless-steel-ratchet-mount-4187): 4187 Stainless Steel Ratchet Mount Versatile four-way ratchet design for deck or side mounting. Quick-action handle makes operation easy. Standard 1"-14 thread.Features: 9/32" hole for cable feed-through Bolt holes: 5/16" dia., 3" x 1-1/2" on center This item is boxed not in retail clamshell Specifications: Type: Mounting Brackets Box Dimensions: 2"H x 6"W x 7"L WT: 4 lbs Quick Guide (pdf) - Besafe1st
-  Updated: 2026-05-28T22:25:09Z
-  Vendor: Shakespeare
-  Product Type: Antenna Mounts & Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/stainless-steel-ratchet-mount-metal-adjustable-lever.jpg?v=1777616061
-  Price: $74.99 USD
-- [Shakespeare 4352 10' AM / FM Extension Cable [4352] - Besafe1st](https://besafe1st.com/products/shakespeare-4352-10-am-fm-extension-cable-4352): Shakespeare Style 4352AM/FM STEREO 10' EXTENSION CABLE KITThis handy kit includes 93-ohm RG-62 cable with male and female Motorola connectors installed. Specifications: Type: Extension Box Dimensions: 1"H x 6"W x 8"L WT: 0.38 lbs UPC: 719441400064 - Besafe1st
-  Updated: 2026-05-29T08:25:16Z
-  Vendor: Shakespeare
-  Product Type: Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/10668XL.jpg?v=1777616061
-  Price: $64.99 USD
 - [Shakespeare 4365 Straight Mount [4365] - Besafe1st](https://besafe1st.com/products/shakespeare-4365-straight-mount-4365): Shakespeare Style 4365 Straight MountShakespeare flange mounts can be used to attach marine antennas to deck or bulkhead. The mounts do not adjust for slanted surfaces, and do not allow lowering the antenna for fishing, passage under overhangs, or for boat storage or towing. They are usually used for small antennas, GPS and radar devices, and marine TV antennas atop radar arches and the like. 4" High Stainless Steel construction Standard 1&quot - 14 male threads Excellent for Marine TV antennas May be used with Style 4364 Extension Mast (1') Specifications: Type: Mounting Brackets Box Dimensions: 3"H x 3"W x 5"L WT: 0.7 lbs UPC: 719441140113 .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } - Besafe1st
-  Updated: 2026-05-29T16:25:18Z
+  Updated: 2026-06-08T23:25:20Z
   Vendor: Shakespeare
   Product Type: Antenna Mounts & Accessories
   Availability: Available
@@ -213,14 +199,21 @@ Besafe1st® | Marine Safety, Life Jackets, Fishing & Outdoor Gear
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/10679XL.jpg?v=1777616061
   Price: $289.99 USD
 - [Shakespeare 5228-4 4' Heavy - Duty Extension Mast [5228-4] - Besafe1st](https://besafe1st.com/products/shakespeare-5228-4-4-heavy-duty-extension-mast-5228-4): Shakespeare Galaxy® Style 5228-4 4' Heavy-duty Extension MastLike the 5228, but 4' length (nominal). Constructed of high-quality Shakespeare white fiberglass, and finished to match Galaxy antennas. This 1 1/2" d"iameter extension mast can be used to increase height of an antenna and thus improve effective range, or to boost placement of an antenna above on-board obstructions.IMPORTANT! If the combined length of your antenna and all extensions is more than 8 feet. you MUST use an upper support bracket Stainless steel upper and lower ferrules with standard 1" - 14 thread Suggested mount: Shakespeare Style 409-R or 410-R Mounting Kit One section, actual length 44" Shakespeare Limited Warranty: 5-Years Specifications: Type: Extension Box Dimensions: 3"H x 3"W x 55"L WT: 2.8 lbs UPC: 719441200077 Quick Guide (pdf) - Besafe1st
-  Updated: 2026-05-29T14:25:18Z
+  Updated: 2026-06-06T20:25:13Z
   Vendor: Shakespeare
   Product Type: Antenna Mounts & Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/10680XL.jpg?v=1777616063
   Price: $219.99 USD
+- [Shakespeare 81-S Stainless Steel Swivel Mount [81-S] - Besafe1st](https://besafe1st.com/products/shakespeare-81-s-stainless-steel-swivel-mount-81-s): Shakespeare Style 81-S Stainless Steel Swivel MountShakespeare's Style 81-S Swivel Mount is a dual-joint, free-pivoting base mount for use with an appropriate Shakespeare upper bracket in deck or side mounting large or small antennas. The mount's versatile action fits almost any mounting location, and permits easy lowering of the antenna for clearing overhead obstruction. It requires a stand-off upper bracket.The Style 81-S Swivel Mount is included in the Style 410-R Mounting Kit. Stainless steel construction Standard 1" - 14 threads Specifications: Type: Mounting Brackets Box Dimensions: 4"H x 4"W x 4"L WT: 1.4 lbs UPC: 719441110529 Quick Guide (pdf) - Besafe1st
+  Updated: 2026-06-01T16:25:16Z
+  Vendor: Shakespeare
+  Product Type: Antenna Mounts & Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/10682XL.jpg?v=1777616065
+  Price: $99.99 USD
 - [Xantrex Heart FDM-12-25 Remote Panel, Battery Status  Freedom Inverter/Charger Remote Control [84-2056-01] - Besafe1st](https://besafe1st.com/products/6961471127731): Heart FDM-12-25 Remote Panel, Battery Status & Freedom Inverter/Charger Remote ControlProvides Valuable Inverter/Charger System Monitoring and ControlThe Freedom Remote Control Panel (part#84-2056-01) allows you to control your Freedom Combi, Freedom 458, and Freedom Marine Series Inverter/Charger system from any convenient location. It is easy to read, operate, and install, and all controls can be accessed directly from the front panel.Note: Not for Freedom HF or Freedom SW Series.Features: Independent invert and charge on/off controls Push button control of power sharing, equalizing, and battery set-up Multi-colored LED displays battery state of charge, fault conditions, AC input, DC voltage, and DC amperage LED warning indicators for low battery and overload warning Splash-resistant design Incoming AC breaker selection allows programmable power sharing Easy to install 25' Cable One-year warranty Note: The 24-volt models of Freedom Combi inverter/chargers require a different Freedom Remote the Freedom Remote - 24V SKU 82-0101-04WARNING: This product can expose you to chemicals including Diisononyl Phthalate (DINP) which is known to the State of California to cause cancer, and Di-isodecyl Phthalate (DIDP) which is known to the State of California to cause reproductive harm. For more information go to P65Warnings.ca.gov. Quick Guide (pdf)Owner's Manual (pdf)Brochure (pdf) - Besafe1st
-  Updated: 2026-05-31T03:25:17Z
+  Updated: 2026-06-09T21:25:17Z
   Vendor: Xantrex
   Product Type: Inverters
   Availability: Available
@@ -241,28 +234,28 @@ Besafe1st® | Marine Safety, Life Jackets, Fishing & Outdoor Gear
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/11197XL.jpg?v=1777616066
   Price: $25.00 USD
 - [Poly-Planar MA-905 400 Watt Platinum Panel Speaker - White [MA905W] - Besafe1st](https://besafe1st.com/products/poly-planar-platinum-panel-speaker-pair-white-ma905w): MA-905 400 Watt Platinum Panel Speaker - WhiteBig Sound from Small Speakers! The MA-905 panel speakers feature a shallow 1" mounting depth for those tight places. These two-way panel speakers have a 5" long throw woofer and a 1" mylar tweeter. Features: Shallow 1" mounting depth Ultra-low magnetic field speaker Stainless steel mounting hardware included Specifications: Type - 2-way Coaxial Cone Size - 5" (127mm) Peak Power - 400 watts Continuous Power - 100 watts Speaker Impedance - 4 ohm Weight - 3.15 lbs per speaker Mounting Depth - 1" (25mm) Outside Grill - 9-1/16" x 6" (229mm x 152mm) Cutout dimension - 4-5/16" (109mm) *Sold as a PairThis product may not be returned to the original point of purchase. Please contact the manufacturer directly with any issues or concerns. Specifications: Watts RMS: 100w Watts Max: 400w Mounting Style: Flush Size: 5" QTY: Pair LED Lighting: No Cutout Size: 4-5/16" Box Dimensions: 7"H x 7"W x 10"L WT: 7.4 lbs UPC: 731128090504 Quick Guide (pdf) - Besafe1st
-  Updated: 2026-05-31T15:25:18Z
+  Updated: 2026-06-05T11:25:28Z
   Vendor: Poly-Planar
   Product Type: Speakers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/11234XL.jpg?v=1777616067
   Price: $55.99 USD
 - [Poly-Planar MB-21 8 Watt VHF Extension Speaker - Black [MB21B] - Besafe1st](https://besafe1st.com/products/poly-planar-vhf-extension-speaker-8w-surface-mount-single-black-mb21b): MB-21 8 Watt VHF Extension Speaker - BlackThis compact marine communications speaker includes a stainless steel mounting bracket and stainless steel grill. These waterproof communication speakers can be mounted where you can hear your VHF radio.Features: Completely waterproof and corrosion-proof Features stainless steel grills, sturdy plastic frames, polypropylene speaker cones and Teflon-coated wires 10' Lead wire w/mini-plug and RCA adapter Specifications: Peak Power Handling - 8 watts Continuous Power - 4 watts Speaker Impedance - 4 ohm Weight - 0.35 lbs per speaker Overall Dimensions - 2-15/16" x 2-3/4" x 1-5/16" (74mm x 69mm x 33mm) *Sold as a SingleThis product may not be returned to the original point of purchase. Please contact the manufacturer directly with any issues or concerns. Specifications: Type: Speakers Box Dimensions: 2"H x 5"W x 8"L WT: 0.5 lbs UPC: 731128002118 Quick Guide (pdf) - Besafe1st
-  Updated: 2026-05-31T19:25:22Z
+  Updated: 2026-06-08T00:25:17Z
   Vendor: Poly-Planar
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/11236XL.jpg?v=1777616068
   Price: $21.99 USD
 - [Poly-Planar Radio Splash Panel Mount Cover [WC-3] - Besafe1st](https://besafe1st.com/products/6961473978547): Radio Splash CoverThe gasket-sealed lid on this splash cover prevents water entry into virtually any marine or spa stereo on the market. Accommodates any dual post, removable and DIN-style stereos. Contemporary styling makes it an attractive addition to the dashboard or wall. The lid lifts easily and stays open in multiple positions to maintain partial splash protection while allowing access to radio controls. Features: Designed for permanent outdoor mounting Waterproof design Stainless steel mounting hardware included Specifications:Overall Dimensions: 9 1/16" x 4 3/16" x 1 15/16" (230mm x 106mm x 49mm)*Sold as an IndividualThis product may not be returned to the original point of purchase. Please contact the manufacturer directly with any issues or concerns. Specifications: Type: Covers Cut/Uncut: Uncut Mounting Style: Surface Box Dimensions: 4"H x 6"W x 12"L WT: 0.7 lbs UPC: 731128000305 Quick Guide (pdf) - Besafe1st
-  Updated: 2026-05-31T19:25:16Z
+  Updated: 2026-06-09T19:25:27Z
   Vendor: Poly-Planar
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/11241XL.jpg?v=1777616068
   Price: $9.99 USD
 - [Shakespeare 5241 3' VHF Antenna [5241-R] - Besafe1st](https://besafe1st.com/products/shakespeare-5241-3-vhf-antenna-5241-r): Shakespeare Style 5241-R VHF Marine36" LENGTH 3dBLOW PROFILE END-FED 1/2-WAVE WITH HEAVY-DUTY WHIPThe perfect choice for bass boats, center console fishing boats, or any vessel where compact size is most important. Comes with a heavy-duty stainless steel whip for extra stability at high speeds. Chrome plated brass canister minimizes de-tuning. Sealed, tin-plated copper wire coil Requires mount with center hole for passage of the supplied 15' RG-58 cable. PL-259 connector included Stainless steel whip (36") Suggested mount: Shakespeare Styles 4187, 4188-S, or 4190 Ratchet Mounts Shakespeare Limited Warranty: 2 years Technical Specifications: Frequency: VHF Marine Band Bandwidth: 7 MHz SWR: 1.5:1 at 156.8 MHz Radiation pattern: Omni-directional Gain: 3 dB Max Input (Watts): 50 watts DC Ground: YES Height (feet): 3 Polarization: Vertical Specifications: Antenna Band: VHF Color: Stainless Construction: Stainless Steel Length (Inches): 36" Box Dimensions: 3"H x 3"W x 40"L WT: 2.5 lbs UPC: 719441100452 Quick Guide (pdf).embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } - Besafe1st
-  Updated: 2026-05-26T17:25:16Z
+  Updated: 2026-06-02T22:25:18Z
   Vendor: Shakespeare
   Product Type: Antennas
   Availability: Available
@@ -304,14 +297,14 @@ Besafe1st® | Marine Safety, Life Jackets, Fishing & Outdoor Gear
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/13174XL.jpg?v=1777616072
   Price: $94.56 USD
 - [Shakespeare 5101 8 Classic VHF Antenna w/15' RG-58 Cable - White [5101] - Besafe1st](https://besafe1st.com/products/shakespeare-5101-8-classic-vhf-antenna-w-15-cable-5101): 5101 8’ Classic VHF Antenna with 15' RG-58 Cable - White - Reduced Length VersionEND-FED WITH MATCHING STUBA standard of excellence in an economical antenna! Shakespeare brings you the best of the high-end features in an 8' antenna with a brass element and a smooth, high-gloss, polyurethane finish that won't turn yellow in the sun. This antenna delivers not only performance, but superb value.Features: Brass and copper elements Chrome-plated brass ferrule with standard 1"-14 thread Includes 15' RG-58 cable and a PL-259 connector Suggested mount: Shakespeare Style 4187 Ratchet Mount, or use a Shakespeare Style 410-R Mounting Kit plus a Style 4008 Extension Mast to form a 16' antenna system One section Shakespeare Limited Warranty: 2 years Technical Specifications: Frequency: VHF Marine Band Bandwidth: (within 2.01 SWR): 5 MHz SWR: 1.5:1 at 156.8 MHz Impedance: (Ohms): 50 Gain: 6 dB Max. Input (Watts): 50 DC Ground: YES - however, the antenna will read "open circuit" when tested with an ohmmeter. Termination: 15' RG-58 cable Height (feet): 8' Polarization: Vertical Radiation pattern: Omni-directional Specifications: Antenna Band: VHF Color: White Construction: Fiberglass Ferrule Type: Chrome Plated Length (Inches): 96" Box Dimensions: 2"H x 2"W x 95"L WT: 3.65 lbs UPC: 719441100490 Quick Guide (pdf).embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } - Besafe1st
-  Updated: 2026-05-31T23:25:18Z
+  Updated: 2026-06-09T23:25:24Z
   Vendor: Shakespeare
   Product Type: Antennas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/13267XL.jpg?v=1777616073
   Price: $119.99 USD
 - [Xantrex Statpower Prosine 1800 GFCI [806-1800] - Besafe1st](https://besafe1st.com/products/xantrex-statpower-prosine-1800-gfci-806-1800): Provides 1800 watts of sine wave AC power from a DC sourceOffering superior quality true sine wave output, the Prosine 1800 stand-alone inverter is ideally suited for electrical systems that already have a quality multistage battery charger. Designed for recreational and industrial applications, their 120-volt, 60 Hz AC power output is capable of handling both heavy duty and smaller, multiple AC loads. Prosine inverters include a backlit LCD display panel, which can be mounted remotely.Product Features 1800 watt inverters (2900 watt surge capability) True sine wave AC output (crystal controlled) Removable LCD display can be mounted remotely for control and monitoring Unique DC terminals offer 180-degree connections for easy installation in tight places Powersave mode draws only 1.5 watts under no load Two year warranty Protection Features Over temperature shutdown and automatic overload protection Over voltage and under voltage protection Short circuit and AC backfeed protection With less than 3% total harmonic distortion, Prosine 1000 and 1800 inverters deliver true sine wave output that is identical to AC power supplied by your utility. This clean output makes Prosine inverters ideal for handling sensitive loads and improves AC equipment performance. Expect trouble-free true sine wave electricity for televisions, audio systems, variable speed tools, and more.Light and compactProsine inverters are lighter and more compact than other inverters with similar power ratings because they use high-frequency switching technology in the power conversion process.WARNING: This product can expose you to chemicals including Diisononyl Phthalate (DINP) which is known to the State of California to cause cancer, and Di-isodecyl Phthalate (DIDP) which is known to the State of California to cause reproductive harm. For more information go to P65Warnings.ca.gov.This product may not be returned to the original point of purchase. Please contact the manufacturer directly with any issues or concerns. Specifications: DC Connection Type: Hardwire GFCI: Yes Outlet Qty: 1 Duplex GFCI Inverter Surge Rating: 2000w Waveform: True Sine Wave Inverter Input Voltage: 12v Inverter Output Voltage: 120v AC Connection Type: Hardwire Inverter Cont. Output Wattage: 1800w Box Dimensions: 8"H x 14"W x 19"L WT: 19.4 lbs UPC: 715535618001 Owner's Manual (pdf)Brochure (pdf) - Besafe1st
-  Updated: 2026-05-22T15:25:16Z
+  Updated: 2026-06-02T22:25:16Z
   Vendor: Xantrex
   Product Type: Inverters
   Availability: Available
@@ -325,49 +318,49 @@ Besafe1st® | Marine Safety, Life Jackets, Fishing & Outdoor Gear
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/13646XL-_1.jpg?v=1777616074
   Price: $320.95 USD
 - [Shakespeare 4187HD Stainless Steel Heavy Duty Ratchet Mount [4187HD] - Besafe1st](https://besafe1st.com/products/6961477943475): Shakespeare Style 4187-HDEXTRA HEAVY-DUTY RATCHET MOUNT STAINLESS STEELVersatile four-way ratchet design for deck or side mounting. Quick-action handle makes operation easy. Standard 1"-14 thread. The Style 4187-HD adds extra strength and rigidity.Use wherever its extra heavy-duty construction is needed. Standard 1"-14 thread.9/32" hole for cable feed-throughBolt holes: 5/16" dia., 3" x 1-1/2" on center Specifications: Type: Mounting Brackets Box Dimensions: 3"H x 7"W x 9"L WT: 2.2 lbs UPC: 719441110239 Quick Guide (pdf).embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } - Besafe1st
-  Updated: 2026-05-29T18:25:18Z
+  Updated: 2026-06-09T21:25:17Z
   Vendor: Shakespeare
   Product Type: Antenna Mounts & Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/13724XL.jpg?v=1777616076
   Price: $89.99 USD
 - [Shakespeare 5120 8' AM / FM Antenna [5120] - Besafe1st](https://besafe1st.com/products/shakespeare-5120-8-am-fm-antenna-5120): Shakespeare CENTENNIAL Style 5120 - Reduced Length Version8' LENGTH, AM/FM Marine8' LENGTH, AM/FM ANTENNA INCLUDES CABLE AND CONNECTORContinuing the tradition, Shakespeare's Centennial 5120 AM/FM antenna puts high-end features where high-end does the most good. When you're far from your favorite stations, this antenna helps bring them in loud and clear, without depleting your net worth. Chrome-plated brass ferrule with standard 1"-14 thread Includes 15' RG-62 cable and Motorola connector Suggested mount: Shakespeare Style 4187 Ratchet Mount One section Shakespeare Limited Warranty: 2 years Technical Specifications: Frequency: 550-1600 KHz, 88-108 MHz Impedance: (Ohms): 93 Termination: 15' RG-62 cable, Motorola Plug Polarization: Vertical Specifications: Antenna Band: AM/FM Color: White Construction: Fiberglass Length (Inches): 96" Box Dimensions: 2"H x 2"W x 95"L WT: 4.1 lbs UPC: 719441100599 Quick Guide (pdf).embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } - Besafe1st
-  Updated: 2026-05-31T03:25:12Z
+  Updated: 2026-06-09T15:25:12Z
   Vendor: Shakespeare
   Product Type: Antennas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/13726XL.jpg?v=1777616076
   Price: $139.99 USD
 - [Shakespeare 4357-S Base-Loaded AM / FM / VHF Separator [4357-S] - Besafe1st](https://besafe1st.com/products/shakespeare-4357-s-base-loaded-am-fm-vhf-separator-4357-s): Shakespeare Style 4357-SAM/FM/VHF MARINE BAND SEPARATOREliminate the need for separate AM/FM antennas and operate AM/FM and VHF radios at the same time without interfering with VHF radio performance.Complete with 10' RG-62 AM/FM cable, 3' RG-58 VHF cable, and connector installed. Works with all types of marine VHF antennas. Specifications: Type: Misc Box Dimensions: 1"H x 6"W x 8"L WT: 0.65 lbs UPC: 719441400095 Quick Guide (pdf).embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } - Besafe1st
-  Updated: 2026-05-29T20:25:18Z
+  Updated: 2026-06-09T07:25:18Z
   Vendor: Shakespeare
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/13759XL.jpg?v=1777616077
   Price: $129.99 USD
 - [Maxwell Remote Up/ Down Control [P102938] - Besafe1st](https://besafe1st.com/products/maxwell-remote-up-down-control-p102938): REMOTE UP/DOWN CONTROLEasy to use panel-mounted Up/Down switch for remote windlass operation from the helm, flying bridge or cockpit. Available for use with dual-directional solenoids. Manufactured from marine-grade materials. Splash proof. Suitable for use with DC 12V or 24V dual-directional solenoids. Quick Guide (pdf)Brochure (pdf) - Besafe1st
-  Updated: 2026-05-29T08:25:16Z
+  Updated: 2026-06-05T23:25:17Z
   Vendor: Maxwell
   Product Type: Windlass Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/13856XL.jpg?v=1777616077
   Price: $73.85 USD
 - [Shakespeare 5400-XT Galaxy 4' VHF Antenna - 3dB Gain [5400-XT] - Besafe1st](https://besafe1st.com/products/shakespeare-5400-xt-galaxy-4-vhf-antenna-5400-xt): 5400-XT Galaxy 4' VHF Antenna - 3dB GainThe compact Galaxy® 5400-XT is an outstanding, general purpose 4' antenna of heavy duty construction for general purpose communications. Its at home on T-tops, hard-tops, and other positions aloft, where its small size can deliver maximum range.Features: Center-fed 1/2 wave coaxial sleeve Brass and copper elements for maximum range Stainless steel ferrule with standard 1"-14 thread Includes 20' RG-8/X cable and a PL-259 connector Suggested mount: Shakespeare Style 4187 Ratchet Mount One section Shakespeare Limited Warranty: 5 years Includes FME Cables Technical Specifications: Frequency: VHF Marine Band Bandwidth: 5 MHz within 2.0:1 VSWR SWR: Nominally 1.5:1 at 156.8 MHz Gain: 3 dB Max Input (Watts): 50 watts Height (feet): 4 Specifications: Antenna Band: VHF Color: White Construction: Fiberglass Ferrule Type: Stainless Steel Length (Inches): 48" Box Dimensions: 3"H x 3"W x 52"L WT: 2.5 lbs UPC: 719441100605 Quick Guide (pdf) - Besafe1st
-  Updated: 2026-05-28T22:25:18Z
+  Updated: 2026-06-09T21:25:17Z
   Vendor: Shakespeare
   Product Type: Antennas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/14037XL.jpg?v=1777616077
   Price: $239.99 USD
 - [Shakespeare 5401-XT Galaxy 4' Antenna - 3dB Gain [5401-XT] - Besafe1st](https://besafe1st.com/products/shakespeare-5401-xt-galaxy-4-antenna-5401-xt): 5401-XT Galaxy 4' Antenna - 3dB GainThis antenna is the same as the Style 5400-XT, but in an exclusive black Galaxy finish. It's an outstanding, 4' antenna of heavy-duty construction for general purpose communications. Its at home on T-tops, hard-tops and other positions aloft, where its small size can deliver maximum range.Features: Center-fed 1/2 wave coaxial sleeve Brass and copper elements for maximum range Stainless steel ferrule with standard 1"-14 thread Includes 20' RG-8/X cable and a PL-259 connector Suggested mount: Shakespeare Style 4187 Ratchet Mount One section Shakespeare Limited Warranty: 5 years Includes FME Cables Technical Specifications: Frequency: VHF Marine Band Bandwidth: 5 MHz within 2.0:1 VSWR SWR: Nominally 1.5:1 at 156.8 MHz Gain: 3 dB Max Input (Watts): 50 watts Height (feet): 4 Specifications: Antenna Band: VHF Color: Black Construction: Fiberglass Ferrule Type: Stainless Steel Length (Inches): 48" Box Dimensions: 3"H x 3"W x 55"L WT: 3.1 lbs UPC: 719441100612 Quick Guide (pdf) - Besafe1st
-  Updated: 2026-05-27T18:25:18Z
+  Updated: 2026-06-03T23:25:15Z
   Vendor: Shakespeare
   Product Type: Antennas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/14038XL.jpg?v=1777616078
   Price: $239.99 USD
 - [Shakespeare Galaxy 5420-XT 4' AM/FM Antenna [5420-XT] - Besafe1st](https://besafe1st.com/products/shakespeare-5420-xt-4-am-fm-antenna-5420-xt): Galaxy 5420-XT 4' AM/FM Antenna4' AM/FM Entertainment BandBring in those stations! This Little Giant is in charge of the entertainment. Its sturdy construction and outstanding performance make it an excellent choice for T-tops, Hard-tops and other elevated mounting positions. Extra rigid, extra tough.Features: Copper elements Stainless steel ferrule with standard 1"-14 thread Includes 12' RG-62 cable with Motorola type plug installed Suggested mount: Shakespeare Style 4187 Ratchet Mount One section Shakespeare Limited Warranty: 5 years Specifications:Antenna Length: 4ft. Specifications: Antenna Band: AM/FM Color: White Construction: Fiberglass Ferrule Type: Stainless Steel Length (Inches): 48" Box Dimensions: 3"H x 3"W x 55"L WT: 2.4 lbs UPC: 719441400132 Quick Guide (pdf) - Besafe1st
-  Updated: 2026-05-27T03:25:16Z
+  Updated: 2026-06-09T19:25:19Z
   Vendor: Shakespeare
   Product Type: Antennas
   Availability: Available
@@ -381,7 +374,7 @@ Besafe1st® | Marine Safety, Life Jackets, Fishing & Outdoor Gear
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/14043XL.jpg?v=1777616080
   Price: $189.99 USD
 - [Digital Antenna 528-VW 4 VHF Antenna w/15 Cable - White [528-VW] - Besafe1st](https://besafe1st.com/products/digital-antenna-528-vw-4-vhf-antenna-w-15-cable-white-528-vw): 528-VW 4' VHF Antenna with 15' Cable - WhiteVoted the best 4' VHF antenna by PowerBoat Reports, Digital Antennas 4' VHF antennas are ideal for use on T-tops, speedboats and sailboats. With 4.5dB gain and award-winning quality construction, these powerful and compact antennas deliver high performance that will last for years.Customers and installers love the 500 GOLD Series easy installation connector system. The gold factory-attached mini-UHF female connector with PL-259 (UHF) adapter makes connecting to the radio easy, eliminating the need to solder connectors.All of Digital's antennas are made in the USA, assembled, tested and tuned by hand for maximum performance, quality and durability.Features: Powerful brass radiators Soldered connections Power directing ferrite choke bead High gloss urethane finish 316 stainless steel ferrule 4.5dB gain 500 GOLD Series: Mount: Standard 1"14 threaded base Connector: Gold factory-attached mini-UHF female with mini-UHF male to UHF male (PL259) adapter Cable: Includes 15' of Digital's low-loss, tinned braid, foil shielded, UV stable RG-8X marine cable This product may not be returned to the original point of purchase. Please contact the manufacturer directly with any issues or concerns. Specifications: Antenna Band: VHF Color: White Construction: Fiberglass Ferrule Type: Stainless Steel Length (Inches): 48" Box Dimensions: 3"H x 3"W x 50"L WT: 3.1 lbs UPC: 839494000568 Quick Guide (pdf) - Besafe1st
-  Updated: 2026-05-26T13:25:19Z
+  Updated: 2026-06-07T08:25:17Z
   Vendor: Digital Antenna
   Product Type: Antennas
   Availability: Available
@@ -395,49 +388,49 @@ Besafe1st® | Marine Safety, Life Jackets, Fishing & Outdoor Gear
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/14106XL.jpg?v=1777616082
   Price: $367.91 USD
 - [Garmin Carrying Case (Deluxe) [010-10231-01] - Besafe1st](https://besafe1st.com/products/garmin-carrying-case-deluxe): Protect your GPS navigator from scratches and scrapes with this attractive deluxe carrying case. Equipped with enough space to hold a GPS, mounting bracket, cables, batteries, and data cards, the case makes a valuable companion for travelers and GPS hobbyists alike. The case- which is designed for Garmin StreetPilot and GPSMap 176 GPS sytems- also includes a storage area for extra data cartridges.WARNING: This product can expose you to chemicals which are known to the State of California to cause cancer, birth defects or other reproductive harm. For more information go to P65Warnings.ca.gov. - Besafe1st
-  Updated: 2026-05-29T18:25:18Z
+  Updated: 2026-06-09T23:25:22Z
   Vendor: Garmin
   Product Type: GPS - Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/14497XL.jpg?v=1777616082
   Price: $32.00 USD
 - [Shakespeare 4700 6" Stainless Steel Extension [4700] - Besafe1st](https://besafe1st.com/products/shakespeare-4700-6-stainless-steel-extension-4700): Shakespeare Style 4700 6" Extension MastShakespeare extension masts can be used to extend the reach of smaller marine antennas by increasing their height above the water, or by helping them clear obstructions that would otherwise interfere with proper radiation. Shorter masts are useful for mounting marine TV antennas, GPS receivers, marine satellite TV dishes and the like. 6" long Stainless steel construction Standard 1" - 14 threads, male upper, female lower One inch diameter Durable and attractive Specifications: Type: Extension Box Dimensions: 2"H x 2"W x 8"L WT: 0.5 lbs UPC: 719441110611 - Besafe1st
-  Updated: 2026-05-26T05:25:17Z
+  Updated: 2026-06-08T23:25:20Z
   Vendor: Shakespeare
   Product Type: Antenna Mounts & Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/14525XL.jpg?v=1777616082
   Price: $41.99 USD
 - [Shakespeare 4700-1 12" Stainless Steel Extension [4700-1] - Besafe1st](https://besafe1st.com/products/shakespeare-4700-1-12-stainless-steel-extension-4700-1): Shakespeare Style 4700-1 Extension MastShakespeare extension masts can be used to extend the reach of smaller marine antennas by increasing their height above the water, or by helping them clear obstructions that would otherwise interfere with proper radiation. Shorter masts are useful for mounting marine TV antennas, GPS receivers, marine satellite TV dishes and the like. 1' long Stainless steel construction Standard 1" - 14 threads, male upper, female lower One inch diameter Durable and attractive Specifications: Type: Extension Box Dimensions: 2"H x 2"W x 14"L WT: 1.1 lbs UPC: 719441110628 - Besafe1st
-  Updated: 2026-05-29T14:25:18Z
+  Updated: 2026-06-09T23:25:23Z
   Vendor: Shakespeare
   Product Type: Antenna Mounts & Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/14526XL.jpg?v=1777616085
   Price: $59.99 USD
 - [Shakespeare 4700-2 24" Stainless Steel Extension [4700-2] - Besafe1st](https://besafe1st.com/products/shakespeare-4700-2-24-stainless-steel-extension-4700-2): Shakespeare Style 4700-2 24" Extension MastShakespeare extension masts can be used to extend the reach of smaller marine antennas by increasing their height above the water, or by helping them clear obstructions that would otherwise interfere with proper radiation. Shorter masts are useful for mounting marine TV antennas, GPS receivers, marine satellite TV dishes and the like. 2' long Stainless steel construction Standard 1" - 14 threads, male upper, female lower One inch diameter Durable and attractive Specifications: Type: Extension Box Dimensions: 2"H x 2"W x 26"L WT: 2.2 lbs UPC: 719441110635 - Besafe1st
-  Updated: 2026-05-20T17:39:47Z
+  Updated: 2026-06-03T19:25:23Z
   Vendor: Shakespeare
   Product Type: Antenna Mounts & Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/14527XL.jpg?v=1777616085
   Price: $79.99 USD
 - [Shakespeare 4190 Stainless Steel Rail Mount [4190] - Besafe1st](https://besafe1st.com/products/shakespeare-4190-stainless-steel-rail-mount-4190): 4190 Rail MountRatchet action, designed for quick and easy installation on 7/8 and 1 in. vertical or horizontal rails. Handles antennas up to 8 ft Special cable slot eliminates removal of most factory-installed connectors Standard 1in.-14 thread (male) Construction: Stainless steel Mount type: Rail Cable pass through: Special Cable Slot Specifications: Type: Mounting Brackets Box Dimensions: 3"H x 3"W x 5"L WT: 1.3 lbs UPC: 719441110253 Quick Guide (pdf) - Besafe1st
-  Updated: 2026-05-20T17:39:47Z
+  Updated: 2026-06-08T21:25:19Z
   Vendor: Shakespeare
   Product Type: Antenna Mounts & Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/14533XL.jpg?v=1777616085
   Price: $79.99 USD
 - [Shakespeare 4710 Flange Mount [4710] - Besafe1st](https://besafe1st.com/products/shakespeare-4710-flange-mount-4710): Shakespeare Style 4710 Flange MountShakespeare flange mounts can be used to attach marine antennas to deck or bulkhead. The mounts do not adjust for slanted surfaces, and do not allow lowering the antenna for fishing, passage under overhangs, or for boat storage or towing. They are usually used for small antennas, GPS and radar devices, and marine TV antennas atop radar arches and the like. Low profile 1-1/2" high Stainless steel construction Standard 1" - 14 male threads Great for GPS, Marine TV, and shorter antennas Specifications: Type: Mounting Brackets Box Dimensions: 2"H x 5"W x 6"L WT: 0.4 lbs UPC: 719441110659 - Besafe1st
-  Updated: 2026-05-31T17:25:17Z
+  Updated: 2026-06-09T17:25:23Z
   Vendor: Shakespeare
   Product Type: Antenna Mounts & Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/14538XL.jpg?v=1777616086
   Price: $29.99 USD
 - [Shakespeare 4720 Economy Rail Antenna Mount [4720] - Besafe1st](https://besafe1st.com/products/shakespeare-4720-economy-rail-antenna-mount-4720): Shakespeare Style 4720 Economy Rail Antenna MountShakespeare's Style 4720 Economy Rail Mount is designed for quick and easy installation on vertical or horizontal, straight or angled rails. Its simple design makes installation a snap. The vice section grips the rail, and the flat section supports the antenna. The flat section can also be bolted to a flat surface, instead of to the rail grip. Standard 1" - 14 thread Nylon adapters included for 7/8", 1", and 1-1/4" vertical or horizontal rails Stainless steel construction Specifications: Type: Mounting Brackets Box Dimensions: 2"H x 5"W x 6"L WT: 0.4 lbs UPC: 719441110680 - Besafe1st
-  Updated: 2026-05-26T05:25:17Z
+  Updated: 2026-06-09T21:25:16Z
   Vendor: Shakespeare
   Product Type: Antenna Mounts & Accessories
   Availability: Available
@@ -451,7 +444,7 @@ Besafe1st® | Marine Safety, Life Jackets, Fishing & Outdoor Gear
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/14673XL.jpg?v=1777616087
   Price: $42.99 USD
 - [Shakespeare AM/FM 8 5235-XT Galaxy [5235-XT] - Besafe1st](https://besafe1st.com/products/shakespeare-am-fm-8-5235-xt-galaxy-5235-xt): AM/FM 8' 5235-XT GalaxyThis antenna reaches out to pick up those AM/FM signals from afar. Its 8ft length offers the extra reach, while matching Shakespeare's other Galaxy 8ft antennas.Features: 8ft AM/FM Entertainment Band Copper elements for maximum range Stainless steel ferrule with standard 1in-14 thread Includes 20ft RG-62 cable with Motorola type plug installed One section Specifications: Antenna Length: 8ft. Suggested mount: Shakespeare Style 4187 or Style 5187 Ratchet Mount (each sold separately) Frequency: AM, FM, and FM-stereo Twin to: Galaxy 8ft antennas Band: AM-FM Ferrule: Stainless steel Coax Supplied: 20 ft of RG-62 Connector Supplied: Motorola type, installed Color/finish: Galaxy White Polarity: Vertical Impedance: 93 Ohms Includes: FME Cables Specifications: Length (Inches): 96" Ferrule Type: Stainless Steel Construction: Fiberglass Color: White Antenna Band: AM/FM Box Dimensions: 2"H x 2"W x 95"L WT: 4.1 lbs UPC: 719441400156 Quick Guide (pdf).embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } - Besafe1st
-  Updated: 2026-05-28T20:25:19Z
+  Updated: 2026-06-09T21:25:16Z
   Vendor: Shakespeare
   Product Type: Antennas
   Availability: Available
@@ -464,71 +457,78 @@ Besafe1st® | Marine Safety, Life Jackets, Fishing & Outdoor Gear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/14908XL.jpg?v=1777616124
   Price: $39.99 USD
+- [Shakespeare Style 414 Shim Kit for Ratchet Mounts [414] - Besafe1st](https://besafe1st.com/products/shakespeare-style-414-shim-kit-for-ratchet-mounts-414): Shakespeare Style 414SHIM KIT FOR RATCHET MOUNTSHEAVY DUTY RUBBERKit of four shims, two each with front/back and side/ side slope. Each shim adds a half-notch (5 degrees) tilt. Stack them for extra height or for compound angles. Specifications: Type: Mounting Brackets Box Dimensions: 1"H x 4"W x 7"L WT: 0.2 lbs UPC: 719441110710 - Besafe1st
+  Updated: 2026-06-09T21:25:16Z
+  Vendor: Shakespeare
+  Product Type: Antenna Mounts & Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/14909XL.jpg?v=1777616124
+  Price: $13.99 USD
 - [Shakespeare 4188-SL Rail Mount Ratchet Mount for 1" to 1.5" Rails [4188-SL] - Besafe1st](https://besafe1st.com/products/shakespeare-4188-sl-rail-mount-ratchet-mount-for-1-to-1-5-rails-4188-sl): Shakespeare Style 4188-SLRATCHET RAIL MOUNT STAINLESS STEELRatchet action, fast release design for quick and easy laydown. Mounts easily on 1" to 1-1/2" vertical or horizontal rails. Standard 1"-14 thread.9/32" hole for cable feed-through Handles antennas up to 8' Standard 1" - 14 Thread Stainless Steel, heavy duty construction Heavy duty construction Specifications: Type: Mounting Brackets Box Dimensions: 3"H x 4"W x 6"L WT: 3.2 lbs UPC: 719441110703 Quick Guide (pdf) - Besafe1st
-  Updated: 2026-05-25T19:25:22Z
+  Updated: 2026-06-08T17:25:18Z
   Vendor: Shakespeare
   Product Type: Antenna Mounts & Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/14911XL.jpg?v=1777616124
   Price: $109.99 USD
-- [Maxwell ANCHORMAX Windlass [ANCHORMAX] - Besafe1st](https://besafe1st.com/products/maxwell-anchormax-windlass-anchormax): ANCHORMAX™ WindlassFeatures: Has an extremely high power to weight ratio ompact, fully sealed gearbox is driven by a vertically mounted, permanent magnet motor Intrusion below decks is minimised making the design ideal for boats from 5m (16ft) to 10m (32ft) Fitting to the boat is simplicity itself as no dismantling of the winch is required Gear housings are marine-grade alloy and the drum is stainless steel Supplied as a single direction (clockwise) unit, complete with deck switch, fastenings, template and fitting instructions Not recommended for use to haul halyards Not recommended for use to haul chain Note: Each winch is supplied as a single direction (clockwise) fully tested unit complete with fitting instructions, deck switch, templates and fastenings. STANDARD EQUIPMENTFootswitch SPECIFICATIONS Maximum Line Pull 386kg (850lb) Speed @ nominal working load 24m/min (76ft per min) (80 amps with 100kg/220lb load) Voltage 12v Power 600w Weight 8kg(17.6lb) Maximum Boat Load 10m (33ft) Max. Boat Weight 4 Tons This product may not be returned to the original point of purchase. Please contact the manufacturer directly with any issues or concerns. Quick Guide (pdf)Brochure (pdf) - Besafe1st
-  Updated: 2026-05-20T19:25:16Z
-  Vendor: Maxwell
-  Product Type: Windlasses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/14941XL.jpg?v=1777616127
-  Price: $1,537.39 USD
 - [Standard Horizon CMP460 Submersible Noise-Cancelling Speaker Microphone [CMP460] - Besafe1st](https://besafe1st.com/products/standard-horizon-cmp460-submersible-noise-cancelling-speaker-microphone-cmp460): CMP460 Submersible Noise-Cancelling Speaker MicIP57 specification for dust protection and water submersion: 3' for 30 minutes.Features: Push to talk Speaker Microphone Noise Cancelling Intrinsically-Safe  (when matched with IS Radio) Specifications: Type: Microphones Box Dimensions: 3"H x 4"W x 8"L WT: 0.4 lbs UPC: 788026075928 - Besafe1st
-  Updated: 2026-05-29T06:25:16Z
+  Updated: 2026-06-09T21:25:16Z
   Vendor: Standard Horizon
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/14960XL.jpg?v=1777616127
   Price: $99.99 USD
 - [Marinco 5" SS Spotlight / Floodlight Kit [22040A] - Besafe1st](https://besafe1st.com/products/guest-22040a-5-spotlight-floodlight-kit-22040a): 5" Stainless Steel Spotlight / Floodlight KitPart No. 22040ADescriptionSpot Power: 72,000CPFlood Power: 30,000CPAmp Draw: 7 AmpsOperation: 12 Volt IncandescentBulb: Replaceable IncandescentLamp Dimensions: 9-1/2"H x 4-1/2"W x 7-1/2"LBase Dimensions: 5-1/2"L x 3-1/2"WWeight: 6 Lbs.Product FeaturesJoystick requires 2-3/4" installation holesRemote control, joystick operationOne year warrantyDual station option availableLight can be directed manually without damaging motor316 Stainless steel baseWARNING: This product can expose you to chemicals including di(2-ethylhexyl)phthalate (dehp) which is known to the State of California to cause cancer, birth defects or other reproductive harm. For more information go to P65Warnings.ca.gov. Specifications: Wireless: No Voltage - Input Range (Volts): 12v Box Dimensions: 8"H x 12"W x 13"L WT: 7.5 lbs UPC: 046904220403 Quick Guide (pdf) - Besafe1st
-  Updated: 2026-05-27T20:25:22Z
+  Updated: 2026-06-01T20:25:22Z
   Vendor: Marinco
   Product Type: Search Lights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/14968XL.jpg?v=1777616128
   Price: $1,051.99 USD
+- [Quick HRC1002 2 Button Remote Control [FPHRC1002000C00] - Besafe1st](https://besafe1st.com/products/quick-hrc1002-2-button-remote-control-fphrc1002000c00): HRC1002Multipurpose watertight hand held remote control 2 Button.HRC is the new Quick range of multipurpose hand-held remote controls, designed to for remote operation of various on-board electrically operated equipment such as cranes, gangways, windlasses, sea ladders etc. HRC is constructed with rubber inserts to ensure high strength, long durability, perfect watertightness, and a secure grip. HRC remote controls are supplied complete with a connecting cable extensible up to 4.2 metres, a watertight deck plug and socket, and a support bracket for stowing after use. This product may not be returned to the original point of purchase. Please contact the manufacturer directly with any issues or concerns. - Besafe1st
+  Updated: 2026-06-09T19:25:17Z
+  Vendor: Quick
+  Product Type: Windlass Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/15198XL.jpg?v=1777616131
+  Price: $212.81 USD
 - [Shakespeare 4079 1M RG58 w/PL259 Connector [4079] - Besafe1st](https://besafe1st.com/products/shakespeare-4079-1m-rg58-w-pl259-connector-4079): This cable has PL-259 connectors factory installed on each end. It's great for connecting meters and switches (sold separately) like Shakespeare's ART-2, ART-3, CS-2, and AS-21 meter lengthShakespeare white Specifications: Type: Misc Box Dimensions: 0"H x 6"W x 6"L WT: 0.15 lbs UPC: 719441150563 - Besafe1st
-  Updated: 2026-05-28T16:25:24Z
+  Updated: 2026-06-09T21:25:18Z
   Vendor: Shakespeare
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/15273XL.jpg?v=1777616131
   Price: $19.99 USD
 - [Shakespeare 4184 Cable Outlet [4184] - Besafe1st](https://besafe1st.com/products/shakespeare-4184-cable-outlet-4184): Shakespeare Style 4184 Cable OutletUse this attractive, chromed brass, cable outlet to neatly pass cables through bulkheads. Its rubber internal grommet grips the cable and keeps water out. For RG-8/AU, 8X, 58, 59, 213 and Shakespeare Lo-Max® coax cables. Specifications: Type: Misc Box Dimensions: 1"H x 3"W x 6"L WT: 0.2 lbs UPC: 719441111083 - Besafe1st
-  Updated: 2026-05-31T15:25:19Z
+  Updated: 2026-06-09T23:25:23Z
   Vendor: Shakespeare
   Product Type: Antenna Mounts & Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/15274XL.jpg?v=1777616131
   Price: $10.99 USD
 - [Shakespeare PL-258-G Barrel Connector [PL-258-G] - Besafe1st](https://besafe1st.com/products/shakespeare-pl-258-g-barrel-connector-pl-258-g): Shakespeare's gold-plated Style PL-258-G is useful for joining two PL-259-ended cables together. Joins two PL-259-ended cables together Gold-Plated WARNING: This product can expose you to chemicals including LEAD which is known to the State of California to cause cancer, birth defects or other reproductive harm. For more information go to P65Warnings.ca.gov. Specifications: Type: Misc Box Dimensions: 1"H x 3"W x 3"L WT: 0.1 lbs UPC: 719441110895 - Besafe1st
-  Updated: 2026-05-20T21:25:13Z
+  Updated: 2026-06-09T23:25:22Z
   Vendor: Shakespeare
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/15307XL.jpg?v=1777616133
   Price: $14.99 USD
 - [Shakespeare PL-259-58-G Gold Solder-Type Connector w/UG175 Adapter & DooDad Cable Strain Relief f/RG-58 [PL-259-58-G] - Besafe1st](https://besafe1st.com/products/shakespeare-pl-259-58-g-gold-solder-type-connector-w-ug175-adapter-doodad-cable): Shakespeare PL-259-58-G ConnectorShakespeare offers an extensive line of marine grade connectors and adapters for antenna installations. Our new connectors are gold-plated brass to better withstand the elements and to minimize traditional connector-borne signal loss.PL-259-58-G is a solder-type PL-259 connector with UG175 adapter and a DooDad® Cable Strain Relief for RG-58 coax.WARNING: This product can expose you to chemicals including LEAD which is known to the State of California to cause cancer, birth defects or other reproductive harm. For more information go to P65Warnings.ca.gov. Specifications: Type: Misc Box Dimensions: 1"H x 3"W x 3"L WT: 0.1 lbs UPC: 719441110871 Quick Guide (pdf) - Besafe1st
-  Updated: 2026-05-29T16:25:20Z
+  Updated: 2026-06-06T18:25:24Z
   Vendor: Shakespeare
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/15309XL.jpg?v=1777616133
   Price: $14.99 USD
 - [Shakespeare PL-258-CP-G Gold Splice Connector For RG-8X or RG-58/AU Coax. [PL-258-CP-G] - Besafe1st](https://besafe1st.com/products/shakespeare-pl-258-cp-g-gold-splice-connector-for-rg-8x-or-r58-au-coax): Shakespeare Centerpin® PL-258-CP-G ConnectorShakespeare offers an extensive line of marine grade connectors and adapters for antenna installations. Our new connectors are gold-plated brass to better withstand the elements and to minimize traditional connector-borne signal loss. SHAKESPEARE CENTERPIN® REVOLUTIONIZES THE PL-259 AND PL-258The perfect solution to the troublesome task of installing a PL-259 connector or splicing RG-58 A/U, RG-8/X or Lo-Max® coaxial cables. Shakespeares revolutionaryCenterpin® connectors are solderless, fret-less, and botchless. They go on without a hitch, without soldering skills. No measuring, no critical stripping of coaxinsulation, no fussing with the coaxs braid, and no "tinning."PL-258-CP-G is a Centerpin® PL-258 splice connector for RG-8X or RG-58/AU coax.WARNING: This product can expose you to chemicals including LEAD which is known to the State of California to cause cancer, birth defects or other reproductive harm. For more information go to P65Warnings.ca.gov. Specifications: Type: Misc Box Dimensions: 1"H x 3"W x 3"L WT: 0.1 lbs UPC: 719441110857 Quick Guide (pdf) - Besafe1st
-  Updated: 2026-05-29T16:25:19Z
+  Updated: 2026-06-09T21:25:16Z
   Vendor: Shakespeare
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/15317XL.jpg?v=1777616134
   Price: $24.99 USD
 - [Shakespeare PL-259-8X-G Solder-Type Connector w/UG176 Adapter & DooDad&reg Cable Strain Relief f/RG-8X Coax [PL-259-8X-G] - Besafe1st](https://besafe1st.com/products/shakespeare-pl-259-8x-g-solder-type-connector-w-ug176-adapter-doodad): Shakespeare PL-259-8x-G ConnectorShakespeare offers an extensive line of marine grade connectors and adapters for antenna installations. Our new connectors are gold-plated brass to better withstand the elements and to minimize traditional connector-borne signal loss.PL-259-8x-G is a solder-type PL-259 connector with UG176 adapter and a DooDad® Cable Strain Relief for RG-8x coax.WARNING: This product can expose you to chemicals including LEAD which is known to the State of California to cause cancer, birth defects or other reproductive harm. For more information go to P65Warnings.ca.gov. Specifications: Type: Misc Box Dimensions: 1"H x 3"W x 3"L WT: 0.1 lbs UPC: 719441110888 Quick Guide (pdf) - Besafe1st
-  Updated: 2026-05-28T16:25:17Z
+  Updated: 2026-06-03T00:25:29Z
   Vendor: Shakespeare
   Product Type: Accessories
   Availability: Available
@@ -542,40 +542,47 @@ Besafe1st® | Marine Safety, Life Jackets, Fishing & Outdoor Gear
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/15512XL.jpg?v=1777616137
   Price: $69.99 USD
 - [Shakespeare 50 SRC-50 Extension Cable [SRC-50] - Besafe1st](https://besafe1st.com/products/shakespeare-src-50-50-rg-58-cable-kit-for-sra-12-sra-30-src-50): 50' SRC-50 Extension CableFor longer cables runs, pick the appropriate length Shakespeare SRC Series cable kit for your installation. These cable kits must be run as a single piece and cannot be joined together.Features: Cable length - 50' Pre-installed SMB and RNC connectors Cable material - RG-58 Compatible with: SRA-25 antenna SRA-40 antenna SRA-50 antenna *Sold as an Individual Specifications: Type: Cables Box Dimensions: 2"H x 10"W x 10"L WT: 1.5 lbs UPC: 719441170165 - Besafe1st
-  Updated: 2026-05-20T17:40:50Z
+  Updated: 2026-06-05T21:25:17Z
   Vendor: Shakespeare
   Product Type: Antenna Mounts & Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/15513XL.jpg?v=1777616136
   Price: $94.99 USD
 - [Boss Audio 6"x 9" MR690 Oval Speakers - White - 350W [MR690] - Besafe1st](https://besafe1st.com/products/6961486954675): 6"x 9" MR690 Oval Speakers - White - 350WA great sound makes these and designed to withstand the harsh conditions of the marine environment. All frame and grill sections are made of a polymer composite that is completely waterproof with a coating to protect against damage from UV rays. Cloth surrounds the body and polypropylene cones to complete the waterproof package. The tinsel leads are coated to prevent corrosion. Features: Weatherproof construction Polypropylene woofer cone and treated cloth surround 1" Tweeter dome Technical Specifications: Speaker Impedance - 4 ohms Cone Material - Water-Resistant IMPP Sensitivity - 92dB Frequency Response - 60HZ - 20KHZ Max Power - 350W 175 Watts RMS Cut-out Dimensions - 8.66" Mounting Depth - 3.38" In the Box: Two (2) - 2 way speakers Mounting hardware Instruction manual *Sold as a PairWARNING: This product can expose you to chemicals which are known to the State of California to cause cancer, birth defects or other reproductive harm. For more information go to P65Warnings.ca.gov. Specifications: Watts RMS: 175w Mounting Style: Flush Watts Max: 350w Size: 6" x 9" QTY: Pair LED Lighting: No Cutout Size: 8.66" Box Dimensions: 9"H x 10"W x 11"L WT: 8.5 lbs UPC: 791489240055 - Besafe1st
-  Updated: 2026-05-22T13:25:16Z
+  Updated: 2026-06-09T19:25:17Z
   Vendor: Boss Audio
   Product Type: Speakers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/15556XL.jpg?v=1777616137
   Price: $161.99 USD
 - [Davis WeatherLink f/Vantage Pro2 & Vantage Vue [6510USB] - Besafe1st](https://besafe1st.com/products/davis-weatherlink-f-vantage-pro2-vantage-vue-6510usb): WeatherLink for Vantage Pro2™ & Vantage Vue®For the ultimate in weather monitoring, add WeatherLink to your Vantage Pro2™ or Vantage Vue®. The data logger fits neatly into the weather station console or Weather Envoy, storing weather data even when its not connected to your PC. Later, download the data and use the software to create graphs, generate summaries, and more.Expanded Reporting: See current conditions at a glance on the instant weather bulletin. Graph data on a daily, weekly, or yearly basis. Or view multiple weather variables at the same time to see their relationships. Create Weather Watcher Reports in NOAA National Climatic Data Center Format View special reports on heating degree days, cooling degree days, and fuel-oil demand. With optional sensors, see reports on evapotranspiration, leaf wetness, soil moisture, soil temperature, sunburn risk for each skin type, and solar energy. Sharing Your Weather Data Help the National Weather Service develop improved weather prediction models by submitting your data to the Citizen Weather Observer Program via APRS or the Internet. Create your own weather website or post weather conditions to a LAN using our included HTML templates. Upload other files (such as images from a webcam) along with your weather data. Participate in The GLOBE Program, an international weather-related science program for students from elementary through high school, supported by NASA and NSF. Owner's Manual (pdf) - Besafe1st
-  Updated: 2026-05-28T20:25:19Z
+  Updated: 2026-06-04T19:25:17Z
   Vendor: Davis Instruments
   Product Type: Weather Instruments
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/15665XL.jpg?v=1777616139
   Price: $211.50 USD
 - [Standard Horizon CT-100 23' Extension Cable f/Ram Mic [CT-100] - Besafe1st](https://besafe1st.com/products/standard-horizon-ct-100-23-extension-cable-f-ram-mic-ct-100): 23' extension cable for use with RAM MICS* Black Works with CMP25, CMP30, CMP31, SSM-70H mics *This cable is an extension only, and does not include the dash connector Specifications: Type: Cables Box Dimensions: 2"H x 6"W x 9"L WT: 0.8 lbs UPC: 788026089758 - Besafe1st
-  Updated: 2026-05-21T05:19:05Z
+  Updated: 2026-06-02T20:25:15Z
   Vendor: Standard Horizon
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/16024XL.jpg?v=1777616141
   Price: $27.00 USD
 - [Standard Horizon 240SW 5 x 8 Hailer/PA Horn - White [240SW] - Besafe1st](https://besafe1st.com/products/standard-horizon-240sw-5-x-8-hailer-pa-horn-white-240sw): 240SW 5 x 8 Hailer/PA Horn - WhiteFeatures: 5 x 8" Rectangular 4 OHM PA/Hailing horn Compatible w/GX2000/GX2200/GX6000S and VLH-3000A 4 ohm 40 watt horn Specifications: Power - Output (Watts): 30w Shape: Rectangular Impedance: 4 OHM Box Dimensions: 8"H x 9"W x 9"L WT: 3 lbs UPC: 788026128594 - Besafe1st
-  Updated: 2026-05-30T17:25:17Z
+  Updated: 2026-06-09T21:25:18Z
   Vendor: Standard Horizon
   Product Type: Hailer Horns
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/16152XL.jpg?v=1777616140
   Price: $80.00 USD
+- [Quick 900 Anchor Down Foot Switch, Black [FP900DB00000A00] - Besafe1st](https://besafe1st.com/products/quick-900-anchor-down-foot-switch-black-fp900db00000a00): FootswitchSafety cover prevents accidental operation. - Besafe1st
+  Updated: 2026-06-09T05:25:16Z
+  Vendor: Quick
+  Product Type: Windlass Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/16210XL.jpg?v=1777616141
+  Price: $41.73 USD
 - [Digital Antenna DA645 Mini-UHF Adapter [DA645G] - Besafe1st](https://besafe1st.com/products/digital-antenna-da645-mini-uhf-adapter-da645g): DA645 Mini-UHF male to UHF male Nickel finish Specifications: Type: Misc Box Dimensions: 1"H x 2"W x 3"L WT: 0.3 lbs UPC: 839494002135 - Besafe1st
   Updated: 2026-05-21T05:19:09Z
   Vendor: Digital Antenna
@@ -584,14 +591,14 @@ Besafe1st® | Marine Safety, Life Jackets, Fishing & Outdoor Gear
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/16211XL.jpg?v=1777616140
   Price: $35.16 USD
 - [Shakespeare 396-1-AIS Broadband VHF for AIS System [396-1-AIS] - Besafe1st](https://besafe1st.com/products/shakespeare-396-1-ais-broadband-vhf-for-ais-system-396-1-ais): Shakespeare Style 396-1-AIS VHF Marine AIS4' LENGTH 3dB4' MAST MOUNT AIS ANTENNAThe 396-1-AIS has been specially designed to meet the broader bandwidth requirements of all popular AIS transceivers. Commercial-grade construction with a mast mounting sleeve. Brass and copper elements SO-239 connector at the base Suggested Mount: U-Bolts included. Can be strapped to a larger mast using steel banding (not supplied) One section Coax cable sold separately Shakespeare Limited Warranty: 2 years Technical Specifications: Frequency: VHF Marine Band Bandwidth within 2.0:1 SWR: 6.0 MHz SWR: 1.5:1 at 156.8 MHz Gain: 3dB Impedance (Ohms): 50 Gain: 3dB Max. Input (Watts): 100 DC Ground: no (will read open-circuit with ohmeter test) Termination: SO-239 at bottom of antenna Height (feet): 4 Polarization: Vertical Radiation pattern: Omni-directional Specifications: Antenna Band: VHF Color: White Construction: Fiberglass Length (Inches): 48" Box Dimensions: 3"H x 3"W x 55"L WT: 3 lbs UPC: 719441170585 Quick Guide (pdf).embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } - Besafe1st
-  Updated: 2026-05-20T17:41:06Z
+  Updated: 2026-06-09T23:25:22Z
   Vendor: Shakespeare
   Product Type: Antennas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/16286XL.jpg?v=1777616142
   Price: $239.99 USD
 - [Garmin Belt Clip f/Astro, eTrex Series, Geko Series, GPSMAP Series, Rino Series & GHP 10 [010-10380-00] - Besafe1st](https://besafe1st.com/products/garmin-belt-clip-f-astro-etrex-series-geko-series-gpsmap-series): Belt ClipSecure your device and keep it in easy reach with this belt clip.Compatible Devices: Astro® eTrex® Series Geko Series GHC™ 10 Remote GHP™ 10 & 10V Autopilot System GPS 60™ GPSMAP® Series Rino® Series WARNING: This product can expose you to chemicals which are known to the State of California to cause cancer, birth defects or other reproductive harm. For more information go to P65Warnings.ca.gov. - Besafe1st
-  Updated: 2026-05-31T05:25:17Z
+  Updated: 2026-06-08T19:25:18Z
   Vendor: Garmin
   Product Type: Pet Accessories
   Availability: Available
@@ -605,7 +612,7 @@ Besafe1st® | Marine Safety, Life Jackets, Fishing & Outdoor Gear
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/16523XL.jpg?v=1777616143
   Price: $278.49 USD
 - [Powerwinch Class 46' Automatic Helm-Operated Free-Fall Windlass [P77746] - Besafe1st](https://besafe1st.com/products/powerwinch-class-46-automatic-helm-operated-free-fall-windlass-p77746): Class 46'Automatic Helm-Operated Free-Fall WindlassThe Safest Way to Anchor! Free-Fall System anchors up to 300'/min - Up to four times faster than powering down Exclusive stainless steel rope & chain guidance system - Durable materials stand up to years of use Ultra smooth motor uses less amps - Free-fall does not need battery power so it preserves your battery Built with durable stainless steel fasteners - Resists corrosion for easy removal Watertight seals - For additional protection against corrosion One piece motor plate - For smooth power transmission & improved gear life Heat treated oil-impregnated gear systems -Smoother operation, resists corrosion, lasts longer Stainless steel drive shafts - For years of smooth, reliable performance Replaceable Rode-Glide - Smoothly channels rope and chain below deck Use tapered back splice - For smooth rope-to-chain transition Specifications: Freefall: Yes Rope Diameter (Inches): 5/8" Vertical/Horizontal: Horizontal Box Dimensions: 9"H x 11"W x 15"L WT: 23.1 lbs UPC: 033936777463 Owner's Manual (pdf) - Besafe1st
-  Updated: 2026-05-26T15:25:16Z
+  Updated: 2026-06-07T06:25:19Z
   Vendor: Powerwinch
   Product Type: Windlasses
   Availability: Available
@@ -619,63 +626,70 @@ Besafe1st® | Marine Safety, Life Jackets, Fishing & Outdoor Gear
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/16601XL.jpg?v=1777616145
   Price: $1,282.42 USD
 - [Powerwinch Sport Fish 450, Free-Fall Anchor Windlass [P77727] - Besafe1st](https://besafe1st.com/products/powerwinch-sport-fish-450-free-fall-anchor-windlass-p77727): Free-Fall Anchor WindlassPart #: P777727Automatic Helm-Operated Free-Fall Windlass For The Safest Way To Anchor!Benefits of Free-Fall over Power-Down: Free-Fall System anchors up to 300'/min - Up to four times faster than powering down Exclusive stainless steel rope & chain guidance system - Durable materials stand up to years of use Ultra smooth motor uses less amps - Free-fall does not need battery power so it preserves your battery Built with durable stainless steel fasteners - Resists corrosion for easy removal Watertight seals - For additional protection against corrosion One piece motor plate - For smooth power transmission & improved gear life Heat treated oil-impregnated gear systems -Smoother operation, resists corrosion, lasts longer Stainless steel drive shafts - For years of smooth, reliable performance Replaceable Rode-Glide - Smoothly channels rope and chain below deck Use tapered back splice - For smooth rope-to-chain transition Specifications: Rope Diameter (Inches): 1/2" Vertical/Horizontal: Horizontal Freefall: Yes Box Dimensions: 9"H x 11"W x 16"L WT: 19.5 lbs UPC: 810123840151 Owner's Manual (pdf) - Besafe1st
-  Updated: 2026-05-22T18:25:20Z
+  Updated: 2026-06-07T00:25:17Z
   Vendor: Powerwinch
   Product Type: Windlasses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/16604XL.jpg?v=1777616145
   Price: $1,040.18 USD
+- [Powerwinch Capstan 300 [P77726] - Besafe1st](https://besafe1st.com/products/powerwinch-capstan-300-p77726): Capstan 300Part #: P77726Versatile rope winch for anchoring, sailing & fishingThe Capstan 300 is a smaller power assisted rope capstan for a variety of uses. It has a maximum pull of 300 lbs with a retrieval speed of 85 feet per minute. Whether anchoring, sailing, or fishing, let the Capstan 300 help spare your back, speed up your retrieval process, and make your boating more pleasurable. Features: Strong pulling power of 300 lbs Quick retrieval speed of 85 ft/minute Deck mounted design - saves space for rope locker Easy to operate footswitch (included) Handles unlimited rope lengths All aluminum housing with a durable polyester paint finish Stainless steel internal shafts, fasteners, & hardware Specifications: Freefall: No Rope Diameter (Inches): 5/8" Vertical/Horizontal: Horizontal Box Dimensions: 9"H x 11"W x 16"L WT: 19.8 lbs UPC: 000000166102 - Besafe1st
+  Updated: 2026-06-09T19:25:18Z
+  Vendor: Powerwinch
+  Product Type: Windlasses
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/16610XL.jpg?v=1777616145
+  Price: $967.52 USD
 - [Boss Audio 5.25" MR50B Speakers - Black - 150W [MR50B] - Besafe1st](https://besafe1st.com/products/6961488658611): 5.25" MR50B Speakers - Black - 150WA great sound makes these and designed to withstand the harsh conditions of the marine environment. All frame and grill sections are made of a polymer composite that is completely waterproof with a coating to protect against damage from UV rays. Rubber surrounds the body and polypropylene cones to complete the waterproof package. The tinsel leads are coated to prevent corrosion. Features: Weatherproof construction Polypropylene woofer cone and treated cloth surround 1" Mylar tweeter dome Technical Specifications: Speaker Impedance - 4 ohms Cone Material - Water-Resistant IMPP Sensitivity - 89dB Frequency Response - 80HZ - 20KHZ Max Power - 150W 75 Watts RMS Cut-out Dimensions - 4.94" Mounting Depth - 2.2" In the Box: Two (2) - 2 way speakers Mounting hardware Instruction manual *Sold as a PairWARNING: This product can expose you to chemicals which are known to the State of California to cause cancer, birth defects or other reproductive harm. For more information go to P65Warnings.ca.gov. Specifications: Watts Max: 150w Mounting Style: Flush Size: 5.25" QTY: Pair LED Lighting: No Watts RMS: 75w Cutout Size: 4.94" Box Dimensions: 7"H x 7"W x 8"L WT: 3.4 lbs UPC: 791489250108 - Besafe1st
-  Updated: 2026-05-20T17:41:34Z
+  Updated: 2026-06-08T15:25:21Z
   Vendor: Boss Audio
   Product Type: Speakers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/16710XL.jpg?v=1777616146
   Price: $64.99 USD
 - [Powerwinch Capstan 1000 Winch [P77099] - Besafe1st](https://besafe1st.com/products/powerwinch-capstan-1000-winch-p77099): CapstansWhy Capstans?Rather than using the hand-over-hand method of retrieving lines, the capstan offers a mechanical advantage that is both faster and safer. The capstan does the heavy lifting with only a small amount of effort. The maximum speed of the line retrieval depends on the rotational speed of the drum. The benefit is that the retrieval speed can be adjusted by decreasing the tension on the retrieved line, maintaining control over a very heavy load with little effort.This useful device, which has been around since the early days of sailing, is still used today. Recreational fishermen, like commercial fishermen, use these for hauling crab and lobster pots and there are many other uses aboard boats. The few mechanical parts and ease of use have made this a favorite of fisherman worldwide. While chains should NEVER be wrapped around a drum, the majority of lines can be handled on a capstan.A capstan, typically operated by an easy to use footswitch (R001459), allows the boater to control lines with ease without having additional crew members. Powerwinch has a model to fit your needs. All Powerwinch capstans come with a foot control switch that allows for hands-free operation.Capstan 1000Multi-purpose rope winch for anchoring, sailing & Fishing1000 pounds of pulling power!Our largest capstan, the Capstan 1000, is a power assisted rope capstan for larger applications with 1000 pound pull power and 40 ft/minute retrieval speed. A great tool for quick retrieval lobster, prawn and crab pots. The Capstan 100 also provides power assist for limited crew sailboats and power assisted anchor retrieval. Uses up to 3/4" diameter rope. Fast 40'/min retrieval speed 1000 lb max pulling power Handles unlimited rope lengths Easy to operate footswitch (included) All aluminum housing with a durable polyester finish Thermal automatic resetting circuit breaker One piece, heat-treated and oil-impregnated gears Stainless steel internal shafts, fasteners, and hardware Two year limited warranty Specifications: Rope Diameter (Inches): 3/4" Vertical/Horizontal: Horizontal Freefall: No Box Dimensions: 9"H x 11"W x 15"L WT: 20.9 lbs UPC: 033936770990 Owner's Manual (pdf) - Besafe1st
-  Updated: 2026-05-29T02:25:18Z
+  Updated: 2026-06-08T17:25:17Z
   Vendor: Powerwinch
   Product Type: Windlasses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/16755XL.jpg?v=1777616149
   Price: $1,367.55 USD
 - [Garmin Marine Network Cable Connector RJ45 - 2-Pack [010-10603-00] - Besafe1st](https://besafe1st.com/products/garmin-marine-network-cable-connector-rj45-2-pack-010-10603-00): Marine network cable connector RJ45, 2-PackWARNING: This product can expose you to chemicals which are known to the State of California to cause cancer, birth defects or other reproductive harm. For more information go to P65Warnings.ca.gov. Owner's Manual (pdf) - Besafe1st
-  Updated: 2026-05-29T23:25:22Z
+  Updated: 2026-06-09T19:25:23Z
   Vendor: Garmin
   Product Type: GPS - Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/17064XL.jpg?v=1777616151
   Price: $19.99 USD
 - [Uniden FMB-321 Flush Mount Kit - UM525/625/415/380 [FMB321] - Besafe1st](https://besafe1st.com/products/uniden-fmb-321-flush-mount-kit-um525-625-415-380-fmb321): This mounting kit is used to flush mount the Uniden Oceanus, UM525, UM415, UM415 and UM625 VHF Radios in your console. Specifications: Type: Mounting Brackets Box Dimensions: 1"H x 4"W x 6"L WT: 0.3 lbs UPC: 050633500316 Quick Guide (pdf) - Besafe1st
-  Updated: 2026-05-29T18:25:18Z
+  Updated: 2026-06-09T21:25:17Z
   Vendor: Uniden
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/17067XL.jpg?v=1777616149
   Price: $12.99 USD
 - [SI-TEX GPK-11 GPS Antenna [GPK-11] - Besafe1st](https://besafe1st.com/products/si-tex-gpk-11-gps-antenna-gpk-11): GPK-11GPS WAAS ReceiverTrue 16-Channel GPS WAAS ReceiverThe new GPk-11 receiver adds unprecedented positioning accuracy to your existing electronics by utilizing advanced WAAS technology and best of all, it can be mounted virtually next to most other onboard electronics without signal interference. Will put your boat within 3 meters of your waypoint in most situations great for revisiting fishing hotspots. Interfaces seamlessly with charting systems, track plotters, autopilots and other NMEA-0183 systems. Corrections are uplinked to satellites for complete U.S. coverage and out to 200 miles offshore. All components housed in a single compact unit for convenient installation. Rugged, weatherproof construction. Quick Guide (pdf)Owner's Manual (pdf) - Besafe1st
-  Updated: 2026-05-20T17:41:44Z
+  Updated: 2026-06-03T19:25:18Z
   Vendor: SI-TEX
   Product Type: Antennas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/25142XL.jpg?v=1777616150
   Price: $279.00 USD
 - [Standard Horizon FNB-83 1400 mAh Ni-MH Replacement Battery - HX370S [FNB-83] - Besafe1st](https://besafe1st.com/products/standard-horizon-fnb-83-1400-mah-ni-mh-replacement-battery-hx370s-fnb-83): 1400 mAh Ni-MH replacement battery for HX370S. Specifications: Type: Batteries Box Dimensions: 1"H x 3"W x 5"L WT: 0.4 lbs UPC: 788026103560 - Besafe1st
-  Updated: 2026-05-25T19:25:16Z
+  Updated: 2026-06-05T23:25:17Z
   Vendor: Standard Horizon
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/25241XL.jpg?v=1777616151
   Price: $53.99 USD
 - [Standard Horizon Rubber Duck Antenna [CAT460] - Besafe1st](https://besafe1st.com/products/standard-horizon-rubber-duck-antenna-cat460): Rubber duck antenna fits most handhelds except HX470/471.Compatible with:Current Models:HX300 HX280S HX290 HX370S HX400 HX751 HX851Previous Models:HX270S HX460 HX500S HX600S HX750S HX760S HX850S Specifications: Type: Antennas Box Dimensions: 1"H x 3"W x 8"L WT: 0.06 lbs UPC: 4909959174762 - Besafe1st
-  Updated: 2026-05-31T19:25:15Z
+  Updated: 2026-06-08T00:25:17Z
   Vendor: Standard Horizon
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/25307XL.jpg?v=1777616151
   Price: $20.00 USD
 - [Garmin USB Cable (Replacement) [010-10723-01] - Besafe1st](https://besafe1st.com/products/garmin-usb-cable-replacement): This cable allows you to make a powerful connection between your GPS and your PC. Create routes and waypoints on your PC and easily transfer them to your GPS unit. Also allows you to download map detail from Mapsource CD-ROMs to compatible units. Cable features a USB connector. Does not provide wiring for external power.WARNING: This product can expose you to chemicals which are known to the State of California to cause cancer, birth defects or other reproductive harm. For more information go to P65Warnings.ca.gov. - Besafe1st
-  Updated: 2026-05-20T17:41:48Z
+  Updated: 2026-06-05T23:25:17Z
   Vendor: Garmin
   Product Type: GPS - Accessories
   Availability: Available
@@ -689,14 +703,14 @@ Besafe1st® | Marine Safety, Life Jackets, Fishing & Outdoor Gear
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/25449XL.jpg?v=1777616152
   Price: $349.99 USD
 - [KVH Rooftop Mount f/A7 & A9 Vehicles w/o Roof Racks [72-0151-01] - Besafe1st](https://besafe1st.com/products/kvh-rooftop-mount-f-a7-a9-vehicles-w-o-roof-racks-72-0151-01): Rooftop MountingFour rugged, watertight mounting pads secure the TracVision A7 or A9 to the roof for a streamlined installation. A single cable connects the antenna to the receiver below. - Besafe1st
-  Updated: 2026-05-21T05:19:14Z
+  Updated: 2026-06-01T20:25:18Z
   Vendor: KVH
   Product Type: Satellite TV Antennas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/26258XL.jpg?v=1777616152
   Price: $162.00 USD
 - [Fortress FX-11 Anchor - 7LB [FX-11] - Besafe1st](https://besafe1st.com/products/fortress-fx-11-7lb-anchor-f-28-32-boats-fx-11): FX-11 Anchor - 7lbFor over three decades, the much lighter Fortress Anchor has out-performed substantially heavier steel anchors in holding power tests conducted all around the world. In the US Navy tests, not only did the Fortress out-perform heavier steel anchors, they were also able to withstand pull loads that averaged over 200x their own weight. Fortress Anchors are constructed using a high-tensile, corrosion-resistant, aluminum magnesium alloy. This results in a lighter, easy to handle anchor with superior holding power.The anchors have been designed to be easily disassembled for compact storage, or as a spare and/or a storm anchor. All Fortress Anchors are precision-machined for sharpness and quick penetration into common sea bottoms, which ensures faster setting-performance.Fortress Marine Anchors offers a 100% Hassle-Free Lifetime Parts Replacement Warranty.*Made in the U.S.A.Features: Award Winning Design Highest rating in tests worldwide Hardened high-tech aluminum magnesium alloy Adjustable fluke angles: 32° for common bottoms, 45° for soft mud Easily disassembled for easy storage Easy to manage weight Tough anodized finish Technical Specifications: Size of Boat - 28' to 32' (8 to 10 M) Style - Fluke Material - Aluminum magnesium alloy Working Load - 900lbs (408kg) Shank Length - 27" (686mm) Fluke Length - 16" (406mm) Stock Length - 22" (559mm) Weight - 7lbs (3.2kg) *Sold as an Individual Specifications: Weight (lbs): 7 Construction: Aluminum Alloy Color: Aluminum Box Dimensions: 3"H x 6"W x 29"L WT: 8 lbs UPC: 647124120117 Quick Guide (pdf)Brochure (pdf).embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } - Besafe1st
-  Updated: 2026-05-31T23:25:17Z
+  Updated: 2026-06-08T17:25:17Z
   Vendor: Fortress Marine Anchors
   Product Type: Anchors
   Availability: Available
@@ -723,151 +737,130 @@ Besafe1st® | Marine Safety, Life Jackets, Fishing & Outdoor Gear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/26268XL.jpg?v=1777616155
   Price: $949.99 USD
-- [Fortress FX-55 Anchor - 32LB [FX-55] - Besafe1st](https://besafe1st.com/products/fortress-fx-55-32lb-anchor-f-52-58-boats-fx-55): FX-55 Anchor - 32lb For over three decades, the much lighter Fortress Anchor has out-performed substantially heavier steel anchors in holding power tests conducted all around the world. In the US Navy tests, not only did the Fortress out-perform heavier steel anchors, they were also able to withstand pull loads that averaged over 200x their own weight. Fortress Anchors are constructed using a high-tensile, corrosion-resistant, aluminum magnesium alloy. This results in a lighter, easy to handle anchor with superior holding power.The anchors have been designed to be easily disassembled for compact storage, or as a spare and/or a storm anchor. All Fortress Anchors are precision-machined for sharpness and quick penetration into common sea bottoms, which ensures faster setting-performance.Fortress Marine Anchors offers a 100% Hassle-Free Lifetime Parts Replacement Warranty.*Made in the U.S.A.Features: Award Winning Design Highest rating in tests worldwide Hardened high-tech aluminum magnesium alloy Adjustable fluke angles: 32° for common bottoms, 45° for soft mud Easily disassembled for easy storage Easy to manage weight Tough anodized finish Technical Specifications: Size of Boat - 52' to 58' (16 to 18 M) Style - Fluke Material - Aluminum magnesium alloy Working Load - 4,000lb (1,814kg) Shank Length - 46" (1,168mm) Fluke Length - 27" (686mm) Stock Length - 37" (940mm) Weight - 32lbs (14.5kg) *Sold as an Individual Specifications: Weight (lbs): 32 Construction: Aluminum Alloy Color: Aluminum Box Dimensions: 5"H x 10"W x 48"L WT: 37.9 lbs UPC: 647124120551 Quick Guide (pdf)Brochure (pdf).embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } - Besafe1st
-  Updated: 2026-05-26T21:25:17Z
-  Vendor: Fortress Marine Anchors
-  Product Type: Anchors
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/26269XL.jpg?v=1777616155
-  Price: $1,549.99 USD
-- [Fortress SFX-7 Stowaway Bag f/FX-7 Anchor [SFX-7] - Besafe1st](https://besafe1st.com/products/fortress-sfx-7-stowaway-bag-f-fx-7-sfx-7): SFX-7 Stowaway Bag for the FX-7 AnchorThe Fortress Stowaway Anchor Bag holds everything you need to deploy your Fortress anchor quickly. No more searching for wrenches, shackles or chain. With the Stowaway system, it's "in the bag."The Stowaway bags are built to last in the rugged marine environment. The bag closure as well as the straps (which serve as convenient carrying handles) are high strength, extra wide Velcro™. Inside each bag are pouches to hold the correct size wrenches (included) and even a spare fluke clip, bolt and nut (also included). Easy to understand diagrams are sewn into the bag to take you through anchor assembly and bag-packing procedures.*Anchor not included.Features: Custom designed for all Fortress anchors Made from top quality, rugged ballistic Cordura™ Securely holds everything - Anchor, chain, shackles and wrenches In the Box: Stowaway Bag Wrenches x 2 - 3/8" (10mm) Spare Clip/Bolt/Nut *Sold as an Individual .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } - Besafe1st
-  Updated: 2026-05-20T17:41:58Z
-  Vendor: Fortress Marine Anchors
-  Product Type: Anchoring Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/26272XL.jpg?v=1777616155
-  Price: $108.99 USD
-- [Fortress SFX-11 Stowaway Bag f/FX-11 Anchor [SFX-11] - Besafe1st](https://besafe1st.com/products/fortress-sfx-11-stowaway-bag-f-fx-11-sfx-11): SFX-11 Stowaway Bag for the FX-11 AnchorThe Fortress Stowaway Anchor Bag holds everything you need to deploy your Fortress anchor quickly. No more searching for wrenches, shackles or chain. With the Stowaway system, it's "in the bag."The Stowaway bags are built to last in the rugged marine environment. The bag closure as well as the straps (which serve as convenient carrying handles) are high strength, extra wide Velcro™. Inside each bag are pouches to hold the correct size wrenches (included) and even a spare fluke clip, bolt and nut (also included). Easy to understand diagrams are sewn into the bag to take you through anchor assembly and bag-packing procedures.*Anchor not included.Features: Custom designed for all Fortress anchors Made from top quality, rugged ballistic Cordura™ Securely holds everything - Anchor, chain, shackles and wrenches In the Box: Stowaway Bag Wrenches x 2 - 7/16" (11mm) Spare Clip/Bolt/Nut *Sold as an Individual .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; } - Besafe1st
-  Updated: 2026-05-26T21:25:17Z
-  Vendor: Fortress Marine Anchors
-  Product Type: Anchoring Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0594/4872/1587/products/26273XL.jpg?v=1777616157
-  Price: $123.99 USD
-[List Continued](https://besafe1st.com/a/llms-agent/llms.txt?shop=besafe1st.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2OTYxNDkxMzc4MzU1LCJsYXN0X3ZhbHVlIjoiNjk2MTQ5MTM3ODM1NSJ9)
+[List Continued](https://besafe1st.com/a/llms-agent/llms.txt?shop=besafe1st.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2OTYxNDkxMTQ4OTc5LCJsYXN0X3ZhbHVlIjoiNjk2MTQ5MTE0ODk3OSJ9)
 
 ## Collections
 
 - [Lighting for marine and outdoor - Besafe1st.](https://besafe1st.com/collections/lighting): Lighting: Here, we bring together a diverse selection of lighting solutions that are not only budget-friendly but also enhance the ambiance. - Besafe1st
-  Updated: 2026-05-31T23:27:27Z
-  Total Products: 982
+  Updated: 2026-06-09T23:29:29Z
+  Total Products: 973
 - [Paddleboards and accessories - Besafe1st](https://besafe1st.com/collections/paddleboards): Paddleboard adventures extend accessible opportunities for water enthusiasts seeking to enjoy fun. Free shipping over $100 at Besafe1st.
-  Updated: 2026-05-31T19:25:55Z
-  Total Products: 295
-- [Marine Safety | Besafe1st](https://besafe1st.com/collections/marine-safety): Marine safety gear for adventurers should be the cornerstone of any seafarer's preparation, whether you're sailing across the vast ocean. - Besafe1st
-  Updated: 2026-05-31T03:32:07Z
-  Total Products: 443
-- [Communication Systems | Besafe1st](https://besafe1st.com/collections/communication): Marine Communication Systems: Gear for Boating Safety are crucial for ensuring a secure and enjoyable experience on the water. - Besafe1st
-  Updated: 2026-05-29T20:47:29Z
-  Total Products: 349
-- [RV Accessories & Supplies for Every Trip | Besafe1st](https://besafe1st.com/collections/rv-accessories): Shop top-rated RV accessories and supplies at Besafe1st. Find everything you need for your RV trip, including lighting and safety gear. Fast USA shipping.
-  Updated: 2026-05-31T19:29:17Z
-  Total Products: 746
-- [Outdoor Gear Equipment | Besafe1st](https://besafe1st.com/collections/outdoor-gear): Outdoor gear and equipment are essential for safety, crucial for anyone who loves recreational exploration when embarking on any outdoor adventure. | Besafe1st
-  Updated: 2026-05-31T19:29:17Z
+  Updated: 2026-06-09T23:29:58Z
   Total Products: 292
+- [Marine Safety | Besafe1st](https://besafe1st.com/collections/marine-safety): Marine safety gear for adventurers should be the cornerstone of any seafarer's preparation, whether you're sailing across the vast ocean. - Besafe1st
+  Updated: 2026-06-09T23:26:08Z
+  Total Products: 438
+- [Communication Systems | Besafe1st](https://besafe1st.com/collections/communication): Marine Communication Systems: Gear for Boating Safety are crucial for ensuring a secure and enjoyable experience on the water. - Besafe1st
+  Updated: 2026-06-09T21:27:47Z
+  Total Products: 352
+- [RV Accessories & Supplies for Every Trip | Besafe1st](https://besafe1st.com/collections/rv-accessories): Shop top-rated RV accessories and supplies at Besafe1st. Find everything you need for your RV trip, including lighting and safety gear. Fast USA shipping.
+  Updated: 2026-06-09T21:27:47Z
+  Total Products: 824
+- [Outdoor Gear Equipment | Besafe1st](https://besafe1st.com/collections/outdoor-gear): Outdoor gear and equipment are essential for safety, crucial for anyone who loves recreational exploration when embarking on any outdoor adventure. | Besafe1st
+  Updated: 2026-06-09T21:26:07Z
+  Total Products: 268
 - [Marine Audio System Deals - Besafe1st](https://besafe1st.com/collections/marine-audio): Marine audio systems are designed to elevate your on-water experience with exceptional sound quality and reliability. Free shipping over $100 at Besafe1st.
-  Updated: 2026-05-31T21:27:34Z
-  Total Products: 233
-- [Anchoring and Docking for Boaters - Besafe1st](https://besafe1st.com/collections/anchoring-docking): Anchoring for Docking: Yacht Anchoring Systems for Safe, Secure Docking are essential to ensure your vessel is securely moored. Free shipping over $100 at Besafe1st.
-  Updated: 2026-05-31T23:28:47Z
-  Total Products: 620
-- [Camping Gear Deals - Besafe1st](https://besafe1st.com/collections/camping): Camping Equipment is your go-to guide for exploring the great outdoors with top-notch gear that makes camping great. Free shipping over $100 at Besafe1st.
-  Updated: 2026-05-31T19:29:17Z
-  Total Products: 107
-- [Hunting & Fishing Gear Deals - Besafe1st](https://besafe1st.com/collections/hunting-fishing): Hunting and fishing products are essential for enjoying the outdoors, whether you're fishing by the river or hunting. Free shipping over $100 at Besafe1st.
-  Updated: 2026-05-31T21:27:30Z
-  Total Products: 1018
+  Updated: 2026-06-09T19:30:39Z
+  Total Products: 237
+- [Boat Anchors & Anchoring Gear | Besafe1st](https://besafe1st.com/collections/anchoring-docking): Shop boat anchors, anchor lines, and anchoring kits for every vessel. Free shipping over $100. Trusted gear for safe, confident anchoring on any water.
+  Updated: 2026-06-09T23:29:43Z
+  Total Products: 612
+- [Camping Gear for RVers & Campers | Besafe1st](https://besafe1st.com/collections/camping): Shop premium camping gear and outdoor safety equipment for RVers and campers. Free shipping over $100. Stay safe and prepared on every adventure
+  Updated: 2026-06-09T18:42:37Z
+  Total Products: 100
+- [Offshore Fishing Gear & Safety Equipment | Besafe1st](https://besafe1st.com/collections/hunting-fishing): Shop offshore fishing safety gear at Besafe1st. USCG- life jackets, EPIRBs, flares & more. Free shipping over $100. Built for serious anglers.
+  Updated: 2026-06-09T23:30:31Z
+  Total Products: 1020
 - [Cartography Maps | Besafe1st](https://besafe1st.com/collections/cartography): Cartography and navigation maps for safe water adventures are essential tools for ensuring safety during aquatic excursions. - Besafe1st
-  Updated: 2026-05-29T20:27:43Z
-  Total Products: 42
+  Updated: 2026-06-09T21:26:06Z
+  Total Products: 59
 - [Watersports Gear products. - Besafe1st](https://besafe1st.com/collections/watersports): Watersports Gear Comfort & Safety Essentials are crucial for anyone looking to enjoy water sports without compromising safety or comfort. - Besafe1st
-  Updated: 2026-05-30T19:27:34Z
-  Total Products: 32
-- [Cleaning -  Products - Besafe1st](https://besafe1st.com/collections/cleaning-): Yacht cleaning and  products are essential for anyone who wants to maintain elegance and integrity. Free shipping over $100 at Besafe1st.
-  Updated: 2026-05-30T05:49:44Z
-  Total Products: 406
+  Updated: 2026-06-09T17:30:17Z
+  Total Products: 26
+- [Marine Boat Cleaning Supplies & Products | Besafe1st](https://besafe1st.com/collections/cleaning-): Keep your vessel spotless with marine-grade boat cleaning supplies. Shop hull cleaners, teak care & more. Free shipping over $100 at Besafe1st.
+  Updated: 2026-06-09T21:27:41Z
+  Total Products: 469
 - [Jacket and Helmet Set for Safety - Besafe1st](https://besafe1st.com/collections/jacket-helmet): Jacket and Helmet Set for Safety The High Quality Jacket and Helmet Set for Safety is designed to provide unparalleled protection and comfort. | Besafe1st
-  Updated: 2026-05-26T17:29:28Z
-  Total Products: 30
-- [Life jackets for Ultimate Safety and Comfort | Besafe1st](https://besafe1st.com/collections/life-jackets): Swimmer life jackets for ultimate safety and comfort are essential for anyone engaging in water rescue operations. Free shipping over $100 at Besafe1st.
-  Updated: 2026-05-31T03:32:07Z
-  Total Products: 111
+  Updated: 2026-06-08T21:29:27Z
+  Total Products: 32
+- [Life Jackets & PFDs for Boating | Besafe1st](https://besafe1st.com/collections/life-jackets-pfds): Shop USCG- life jackets & PFDs for recreational boating. Top brands, all sizes. Free shipping over $100. Stay safe on the water with Besafe1st
+  Updated: 2026-06-09T17:28:01Z
+  Total Products: 103
 - [Freshwater Purification Systems - Besafe1st](https://besafe1st.com/collections/freshwater-purification): Freshwater purification systems utilize advanced technologies to eliminate impurities and provide water that meets health standards. - Besafe1st
-  Updated: 2026-05-28T06:29:47Z
-  Total Products: 20
-- [Top Marine Electronics | Besafe1st](https://besafe1st.com/collections/top-marine-electronics): Top marine electronics deals that can elevate your tech experience without straining your budget. Free shipping over $100 at Besafe1st.
-  Updated: 2026-05-30T18:04:31Z
-  Total Products: 7756
+  Updated: 2026-06-07T04:55:52Z
+  Total Products: 21
+- [Marine Electronics for Boaters | Besafe1st](https://besafe1st.com/collections/top-marine-electronics): Shop marine electronics for recreational boaters — GPS chartplotters, VHF radios, fish finders & more. Free shipping over $100. Trusted gear at Besafe1st
+  Updated: 2026-06-09T18:42:37Z
+  Total Products: 7748
 - [Engine Service Parts | Besafe1st](https://besafe1st.com/collections/engine-service): Engine Service Parts When you decide to Buy Engine Service Parts for Ultimate Performance, you're embarking on a journey towards enhancing the efficiency and reliability of your engine. - Besafe1st
-  Updated: 2026-05-31T21:30:47Z
-  Total Products: 482
+  Updated: 2026-06-09T23:30:32Z
+  Total Products: 480
 - [Yacht Engine Accessories | Besafe1st](https://besafe1st.com/collections/yacht-engine): Quality Parts & Service Deals. We specialize in providing high-quality accessories that keep your yacht running smoothly and efficiently. - Besafe1st
-  Updated: 2026-05-31T21:30:47Z
-  Total Products: 111
+  Updated: 2026-06-09T23:30:08Z
+  Total Products: 110
 - [Engine Sensor Replacements - Besafe1st](https://besafe1st.com/collections/engine-sensor): Parts for Enhanced Performance are essential for maintaining the efficiency and longevity of your vehicle. -  Free Shipping over $100 at Besafe1st
-  Updated: 2026-05-31T23:28:47Z
-  Total Products: 5155
+  Updated: 2026-06-09T23:30:32Z
+  Total Products: 5221
 - [Distributor Caps for Boats - Besafe1st](https://besafe1st.com/collections/distributor-caps): Distributor caps are specifically engineered for marine applications. These critical engine components are designed to ensure optimal reliability. | Besafe1st
-  Updated: 2026-05-27T23:34:23Z
+  Updated: 2026-06-06T14:50:37Z
   Total Products: 10
 - [Engine Ignition Coils - Besafe1st](https://besafe1st.com/collections/engine-ignition-coils): Boat engine ignition coils At Besafe1st, we offer a wide range of high-quality ignition coils designed for reliable performance. - Besafe1st
-  Updated: 2026-05-16T18:53:02Z
+  Updated: 2026-06-06T14:50:38Z
   Total Products: 23
 - [Engine Tune Up Kits - Besafe1st](https://besafe1st.com/collections/engine-tune-up-kits): These kits are carefully curated to ensure that you have everything needed for a complete engine tune-up.  Free shipping over $100 at Besafe1st
-  Updated: 2026-05-16T18:53:02Z
+  Updated: 2026-06-06T14:50:28Z
   Total Products: 13
 - [Marine Fuel Tanks Quality. - Besafe1st](https://besafe1st.com/collections/marine-fuel-tanks-quality): Marine fuel tanks Provides quality options for every need. Designed for efficiency and durability, these tanks ensure that you spend more time enjoying the water and less time worrying about fuel storage. - Besafe1st
-  Updated: 2026-05-16T18:53:02Z
+  Updated: 2026-06-06T14:50:44Z
   Total Products: 13
 - [Fuel Stabilizer for Boats | Besafe1st](https://besafe1st.com/collections/fuel-stabilizer): Fuel Stabilizer for Yachts: Essential Storage Solutions are crucial for any boat owner who values their . Free shipping over $100 at Besafe1st.
-  Updated: 2026-05-29T20:47:20Z
-  Total Products: 37
+  Updated: 2026-06-09T21:30:03Z
+  Total Products: 39
 - [Engine parts for Yachts](https://besafe1st.com/collections/engine-parts): Engine Parts for Yachts: Fuel Hoses & Fittings for ensuring optimal performance. High-quality fuel hoses and fittings play a critical role | Besafe1st
-  Updated: 2026-05-29T16:31:08Z
-  Total Products: 51
+  Updated: 2026-06-08T17:29:38Z
+  Total Products: 55
 - [Fuel Pumps for Optimal Vehicle - Besafe1st](https://besafe1st.com/collections/fuel-pumps): High-performance fuel pumps play a crucial role in any vehicle's performance. The right pump can enhance your engine's capability and longevity.
-  Updated: 2026-05-16T18:53:02Z
+  Updated: 2026-06-06T14:50:44Z
   Total Products: 7
 - [Marine Alternators for Boats - Besafe1st](https://besafe1st.com/collections/marine-alternators): High-Performance Marine Alternators for Boats are essential components for ensuring reliable power generation while out on the water. - Besafe1st
-  Updated: 2026-05-29T04:30:56Z
-  Total Products: 108
+  Updated: 2026-06-08T23:29:58Z
+  Total Products: 104
 - [Marine Starter Engines for Boats - Besafe1st](https://besafe1st.com/collections/marine-starter-engines): Marine starter engines for boats. These engines are the backbone of your marine experience, combining reliability with high performance. - Besafe1st
-  Updated: 2026-05-29T14:28:48Z
-  Total Products: 35
+  Updated: 2026-06-06T14:51:29Z
+  Total Products: 37
 - [Solenoids for Yachts - Besafe1st](https://besafe1st.com/collections/solenoids): Solenoids are specifically designed for yachts. You are investing in the reliability of your vessel's engine performance. - Besafe1st
-  Updated: 2026-05-18T18:29:27Z
+  Updated: 2026-06-06T14:51:36Z
   Total Products: 11
 - [Marine Exhaust Hose for Yacht - Besafe1st](https://besafe1st.com/collections/marine-exhaust-hose): Marine exhaust hose. At Besafe1st, we understand that the right equipment is essential for safe and enjoyable boating experiences. - Besafe1st
-  Updated: 2026-05-29T18:29:58Z
-  Total Products: 40
+  Updated: 2026-06-09T01:30:39Z
+  Total Products: 36
 - [Binoculars Water-Resistant - Besafe1st](https://besafe1st.com/collections/binoculars): Water-Resistant Binoculars. Explore the world around you with our exceptional water-resistant binoculars collection. | Besafe1st
-  Updated: 2026-05-16T18:53:02Z
+  Updated: 2026-06-06T15:13:24Z
   Total Products: 15
 - [12V Marine Fans for Yachts - Besafe1st](https://besafe1st.com/collections/12v-marine-fans): Essential for maintaining comfort while sailing, the unique environment of being at sea can often lead to stifling heat. Free shipping over $100 at Besafe1st
-  Updated: 2026-05-30T05:20:11Z
-  Total Products: 25
+  Updated: 2026-06-06T15:42:44Z
+  Total Products: 24
 - [Recreational Products  - Besafe1st](https://besafe1st.com/collections/recreational-products): Recreational Products : Save on our Safety Gear collection! Whether you're gearing up for outdoor adventures or everyday activities. | Besafe1st
-  Updated: 2026-05-30T05:20:11Z
-  Total Products: 109
+  Updated: 2026-06-06T16:02:55Z
+  Total Products: 114
 - [Join Our  Program - Besafe1st](https://besafe1st.com/collections/join-our--program): Join our  program and unlock a world of opportunities. Earn commissions with our legit products. The benefits of our  program! - Besafe1st
   Updated: 2026-05-30T18:04:31Z
   Total Products: 23
 - [Tilt Trim Motors for Boats - Besafe1st](https://besafe1st.com/collections/tilt-trim-motors): When it comes to maintaining your boat, having reliable components is key. Our collection of tilt trim motors for boats is designed. - Besafe1st
-  Updated: 2026-05-31T05:30:48Z
-  Total Products: 23
+  Updated: 2026-06-06T16:55:34Z
+  Total Products: 24
 - [Marine Engine Flush Kits for Boating  - Besafe1st](https://besafe1st.com/collections/marine-engine-flush-kits): Our collection of marine engine flush kits is designed to help boaters maintain their engines efficiently. These kits are essential for removing salt, dirt, and debris that can accumulate in marine engines. - Besafe1st
-  Updated: 2026-05-26T17:30:03Z
-  Total Products: 28
+  Updated: 2026-06-09T23:30:32Z
+  Total Products: 27
 - [RCA Cables for Home system - Besafe1st](https://besafe1st.com/collections/rca-cable): High-quality audio and video experiences. We offer a selection of premium RCA cables designed to enhance your entertainment setup. - Besafe1st
-  Updated: 2026-05-29T18:27:39Z
+  Updated: 2026-06-09T15:27:38Z
   Total Products: 27
 - [Radio Scanners for RV and Safety - Besafe1st](https://besafe1st.com/collections/radio-scanners): High-performance radio scanners are indispensable instruments for individuals who frequently travel, particularly those operating recreational vehicles (RVs).
-  Updated: 2026-05-29T20:30:57Z
-  Total Products: 10
+  Updated: 2026-06-08T21:30:36Z
+  Total Products: 12
 - [RV Battery Chargers - Besafe1st](https://besafe1st.com/collections/rv-battery-chargers): Our range of RV battery chargers is specially designed to ensure your adventures on the road are smooth and hassle-free. Free shipping over $100 at Besafe1st
-  Updated: 2026-05-28T00:29:43Z
-  Total Products: 15
+  Updated: 2026-06-09T17:29:48Z
+  Total Products: 17
 
 ## Blogs
 
@@ -1629,6 +1622,25 @@ Besafe1st® | Marine Safety, Life Jackets, Fishing & Outdoor Gear
     Updated: 2026-05-29T00:28:52Z
     Author: Besafe1st
     Tags: besafe1st, best life jacket for offshore sailing, boat communication, choosing a marine radio, emergency equipment, enhancing boat safety, how to choose a marine vhf radio, marine, preparedness, safety, uscg required safety equipment for boats, vhf radio
+  - [Besafe1st Fundamentals: Ensuring You Have All USCG Required Safety Equipment for Boats](https://besafe1st.com/blogs/news/besafe1st-fundamentals-ensuring-you-have-all-uscg-required-safety-equipment-for-boats): Besafe1st Fundamentals: Ensuring You Have All USCG Required Safety Equipment for Boats
+    Updated: 2026-06-02T00:20:43Z
+    Author: Besafe1st
+    Tags: besafe1st, best life jacket for offshore sailing, boat safety, emergency gear, equipment, essential boating safety tips, how to choose a marine vhf radio, preparedness, safety, safety gear checklist, uscg required safety equipment for boats, uscg requirements
+  - [Empower Your Safety: Essential Learnings from The 35 Anti-Crime Report Tips for Safety on the Street and At Home](https://besafe1st.com/blogs/news/empower-your-safety-essential-learnings-from-the-35-anti-crime-report-tips-for-safety-on-the-street-and-at-home): Empower Your Safety: Essential Learnings from The 35 Anti-Crime Report Tips for Safety on the Street and At Home
+    Updated: 2026-06-04T00:00:27Z
+    Author: Besafe1st
+  - [Best Practices for Selecting Life Jackets for Offshore Sailing: A Besafe1st Approach](https://besafe1st.com/blogs/news/best-practices-for-selecting-life-jackets-for-offshore-sailing-a-besafe1st-approach): Best Practices for Selecting Life Jackets for Offshore Sailing: A Besafe1st Approach
+    Updated: 2026-06-05T00:28:32Z
+    Author: Besafe1st
+    Tags: besafe1st, best life jacket for offshore sailing, best practices, choosing life jackets, how to choose a marine vhf radio, life jackets, offshore sailing, preparedness, safety, sailing, sailing safety tips, uscg required safety equipment for boats
+  - [Stay Connected on the Water: How to Choose a Marine VHF Radio with Besafe1st](https://besafe1st.com/blogs/news/stay-connected-on-the-water-how-to-choose-a-marine-vhf-radio-with-besafe1st): Stay Connected on the Water: How to Choose a Marine VHF Radio with Besafe1st
+    Updated: 2026-06-09T00:13:20Z
+    Author: Besafe1st
+    Tags: besafe1st, best life jacket for offshore sailing, best marine radios, boating safety, choose vhf radio, emergency preparedness, how to choose a marine vhf radio, marine communication, preparedness, radio, uscg required safety equipment for boats, vhf
+  - [Best-waterproof-flashlight-boating](https://besafe1st.com/blogs/news/best-waterproof-flashlight-boating)
+    Updated: 2026-06-09T18:18:57Z
+    Author: Besafe1st .
+    Tags: boating-gear, flashlight, marine-safety
 
 ## Store Pages
 
@@ -1668,6 +1680,8 @@ Besafe1st® | Marine Safety, Life Jackets, Fishing & Outdoor Gear
   Updated: 2026-05-09T03:06:32Z
 - [Besafe1st Sitemap](https://besafe1st.com/pages/html-sitemap): Products ACR Survival Res-Q Whistle w/Lanyard [2228] ACR 55W Replacement Bulb f/RCL-100 Searchlight - 12V [6001] ACR 55W Replacement Bulb f/RCL-100...
   Updated: 2026-05-29T17:31:13Z
+- [What are the best life jackets for boating?](https://besafe1st.com/pages/what-are-the-best-life-jackets-for-boating): What features should I look for? When selecting a life jacket for boating, the most critical feature is USCG approval. This certification ensures t...
+  Updated: 2026-06-07T23:15:04Z
 
 ## Policies
 
