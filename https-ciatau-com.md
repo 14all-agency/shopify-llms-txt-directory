@@ -6,19 +6,19 @@
 - Timezone: Europe/Vilnius
 - Created At: 2024-10-31T17:49:19Z
 - Contact Email: hello@ciatau.com
-- Updated At: 2026-06-01T19:26:54.913Z
+- Updated At: 2026-06-10T00:00:27.771Z
 
 ## Products
 
 - [Large Cream Silk Scarf](https://ciatau.com/products/large-cream-silk-scarf): Crafted from 100% pure silk, CIATAU’s large scarf (90cm x 90cm) features an exclusive Baltic folk pattern. Hypoallergenic, breathable, and stylish, this luxurious scarf can be worn as a shawl, headscarf, or styled around your bag. The elegant gold-plated pendant on one corner adds a unique touch. Luxurious Size: 35.5 x 35.5 in (90cm x 90cm) for versatile styling Hand-Hemmed Edges: Exquisite craftsmanship Gold-Plated Pendant: Added elegance Eco-Friendly Dyeing: Safe, vibrant colors Gift-Ready Packaging: Perfect for special occasions
-  Updated: 2026-06-01T14:58:47Z
+  Updated: 2026-06-07T18:21:57Z
   Vendor: CIATAU
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0861/1440/2569/files/Large_Cream_Silk_Scarf_Folded_CIATAU.jpg?v=1733249235
   Price: €80.00 EUR
 - [Blue Folk Pattern Silk Twilly Scarf](https://ciatau.com/products/blue-folk-pattern-silk-twilly-scarf): Folk-inspired twilly scarf bring a modern take on traditional Baltic patterns. Made from 100% pure silk, each 85cm x 5cm it can be styled around the neck, as a headband, or as a bag accent. Size: 33,4 x 2 in (85 x 5 cm) Luxurious Silk: Soft, breathable, hypoallergenic Gold-Plated Pendant: Versatile styling Eco-Friendly Dyeing: Safe, vibrant, non-toxic colors Gift-Ready: Ready for special occasions
-  Updated: 2026-06-01T15:01:02Z
+  Updated: 2026-06-02T16:47:05Z
   Vendor: CIATAU
   Product Type: 
   Availability: Available
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0861/1440/2569/files/Pink_Watercolor_Design_Twilly_Scarf_CIATAU.jpg?v=1733251090
   Price: €35.00 EUR
 - [Large Purple Silk Scarf](https://ciatau.com/products/large-purple-silk-scarf): Crafted from 100% pure silk, CIATAU’s large scarf (90cm x 90cm) features an exclusive Baltic folk pattern. Hypoallergenic, breathable, and stylish, this luxurious scarf can be worn as a shawl, headscarf, or styled around your bag. The elegant gold-plated pendant on one corner adds a unique touch. Luxurious Size: 35.5 x 35.5 in (90cm x 90cm) for versatile styling Hand-Hemmed Edges: Exquisite craftsmanship Gold-Plated Pendant: Added elegance Eco-Friendly Dyeing: Safe, vibrant colors Gift-Ready Packaging: Perfect for special occasions
-  Updated: 2026-06-01T14:58:56Z
+  Updated: 2026-06-02T16:46:46Z
   Vendor: CIATAU
   Product Type: 
   Availability: Available
@@ -108,7 +108,7 @@
   Updated: 2026-05-22T11:20:04Z
   Total Products: 3
 - [Large Silk Scarf - Cream, Pink, Purple](https://ciatau.com/collections/large-silk-scarves): Crafted from 100% pure silk, CIATAU’s large scarves (90cm x 90cm) feature an exclusive Baltic folk pattern. Hypoallergenic, breathable, and stylish, this luxurious scarf can be worn as a shawl, headscarf, or styled around your bag. The elegant gold-plated pendant on one corner adds a unique touch.
-  Updated: 2026-05-19T11:27:37Z
+  Updated: 2026-06-08T11:22:29Z
   Total Products: 3
 - [Lithuanian Sashes Pattern Silk Twilly Scarf - Brown, Pink](https://ciatau.com/collections/lithuanian-sashes-pattern-silk-twilly-scarves): Inspired by traditional Baltic sashes, these silk twilly scarves (85cm x 5cm) merge heritage with contemporary style. Each twilly scarf is designed for versatile styling, from a headscarf to a chic bag accessory.
   Updated: 2026-04-20T20:27:17Z
