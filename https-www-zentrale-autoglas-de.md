@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-12-08T07:33:19Z
 - Contact Email: post@zentrale-autoglas.de
-- Updated At: 2026-06-03T00:00:26.357Z
+- Updated At: 2026-06-11T00:00:32.948Z
 
 ## Collections
 
@@ -117,7 +117,7 @@
 - [Liteglas](https://www.zentrale-autoglas.de/pages/liteglas)
   Updated: 2026-06-01T07:57:45Z
 - [Stellenausschreibungen](https://www.zentrale-autoglas.de/pages/stellenausschreibungen)
-  Updated: 2026-05-20T14:42:10Z
+  Updated: 2026-06-08T04:59:38Z
 - [Test](https://www.zentrale-autoglas.de/pages/test)
   Updated: 2025-01-09T11:18:49Z
 - [AGB](https://www.zentrale-autoglas.de/pages/agb)
