@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2025-11-10T10:11:19Z
 - Contact Email: support@jellyaora.com
-- Updated At: 2026-06-03T03:02:06.293Z
+- Updated At: 2026-06-11T00:00:30.159Z
 
 ## Products
 
@@ -43,7 +43,7 @@
     Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/classic-grey-fleece-bk-bag-798-inch-8083482.png?v=1778914331
     Price: $85.99 USD
 - [Classic Fleece Kelly Bag 8.6-inch](https://www.jellyaora.com/products/classic-praline-fluff-clarette-bag-medium): Indulge in plush elegance with the Classic Praline Fluff Kelly Clarette Bag — warm tones, soft texture, and limited handmade charm. ✨ Free shipping $50+, code TOYBOX!
-  Updated: 2026-05-24T09:22:46Z
+  Updated: 2026-06-06T04:05:56Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
@@ -69,7 +69,7 @@
     Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/classic-fleece-kelly-bag-86-inch-5460470.jpg?v=1778914335
     Price: $115.99 USD
 - [Classic Brown Fleece Jelly Bag 7/9.8-inch](https://www.jellyaora.com/products/classic-brown-fluff-bk-bag-medium): This isn’t just a bag — it’s a plush buddy! The Classic Brown Fluff Clarette Bag brings cozy fun and cartoon cuteness to your look. 💕 Free shipping $50+.
-  Updated: 2026-05-30T00:00:16Z
+  Updated: 2026-06-05T11:23:04Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
@@ -82,7 +82,7 @@
     Availability: Available
     Price: $85.99 USD
 - [Classic Denim Fleece BK Bag 7/9.8-inch](https://www.jellyaora.com/products/classic-denim-fluff-bk-bag-medium): Denim meets plush! 🩵 The Classic Denim Fluff BK Bag is a limited-edition collectible made for cute bag lovers. 🎁 Free shipping over $50!
-  Updated: 2026-05-31T02:48:07Z
+  Updated: 2026-06-04T20:24:16Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
@@ -95,7 +95,7 @@
     Availability: Available
     Price: $115.99 USD
 - [Beach Straw BK Bag 9.8-inch](https://www.jellyaora.com/products/classic-woven-bk-bag-medium): My straw Birkin is ready for sun & fun! The Beach Woven BK Bag - Medium blends cute Straw  textures with plush charm. ✨ Free worldwide shipping $80+,
-  Updated: 2026-06-02T23:57:28Z
+  Updated: 2026-06-09T11:41:45Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
@@ -168,7 +168,7 @@
   Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/classic-cloud-blue-fleece-jelly-bag-98-inch-6260020.png?v=1778914328
   Price: $135.99 USD
 - [Classic Amethyst Fleece Jelly Bag 7/9.8-inch](https://www.jellyaora.com/products/classic-amethyst-fleece-bk-bag-medium): Not just a bag — it’s plush perfection! 💫 The Classic Amethyst Fleece BK Bag - Medium is cozy, charming, and limited edition. Free shipping $50+.
-  Updated: 2026-06-02T19:48:07Z
+  Updated: 2026-06-04T02:28:29Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
@@ -292,7 +292,7 @@
   Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/classic-grid-kelly-bag-86-inch-1120607.jpg?v=1778914275
   Price: $155.99 USD
 - [Classic Khaki Denim Kelly Bag 8.6-inch](https://www.jellyaora.com/products/classic-khaki-denim-kelly-bag): Jellyaora Classic Khaki Denim Kelly Jelly Bag 9.8-inch,The cutest bag of the year.
-  Updated: 2026-06-01T02:39:27Z
+  Updated: 2026-06-08T01:29:26Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
@@ -453,7 +453,7 @@
     Availability: Available
     Price: $158.99 USD
 - [Endless Summer Beach Straw Totes](https://www.jellyaora.com/products/endless-summer-straw-tote): Capture the endless summer vibe with this smiley straw tote. Featuring a woven texture, top handles, and playful dangling details, it’s the perfect beach bag for vacations and sunny days.
-  Updated: 2026-06-03T02:58:58Z
+  Updated: 2026-06-08T01:42:16Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
@@ -477,14 +477,14 @@
     Availability: Available
     Price: $158.99 USD
 - [Starry Sky Denim Mini Lindy Bag 7.5-inch](https://www.jellyaora.com/products/starry-sky-denim-mini-lindy-bag-7-5-inch): Starry Sky Denim Mini Lindy Bag 7.5-inch — dreamy denim style with soft charm and playful starry vibes.
-  Updated: 2026-06-02T22:46:27Z
+  Updated: 2026-06-06T18:11:01Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/starry-sky-denim-mini-lindy-bag-75-inch-3573139.jpg?v=1778914270
   Price: $195.99 USD
 - [Pink Plaid Tweed Hobo Bag](https://www.jellyaora.com/products/pink-plaid-hobo-bag): Pink Plaid Hobo Bag — soft plaid charm with playful details. Cute, cozy, and perfect for everyday style.
-  Updated: 2026-05-27T04:24:02Z
+  Updated: 2026-06-06T18:11:01Z
   Vendor: Jellyaora
   Product Type: Hobo Bag
   Availability: Available
@@ -496,7 +496,7 @@
     Availability: Available
     Price: $228.99 USD
 - [Red Roses Tweed Hobo Bag](https://www.jellyaora.com/products/red-roses-hobo-bag): Red Roses Hobo Bag — cozy tweed texture with playful charm. Cute, stylish, and perfect for everyday outfits.
-  Updated: 2026-05-27T04:24:02Z
+  Updated: 2026-06-06T18:11:01Z
   Vendor: Jellyaora
   Product Type: Hobo Bag
   Availability: Available
@@ -520,7 +520,7 @@
     Availability: Available
     Price: $228.99 USD
 - [Cherry Purple Tweed Hobo Bag](https://www.jellyaora.com/products/cherry-tweed-hobo-bag): Cherry Purple Tweed Hobo Bag — cozy tweed texture with playful charm. Cute, stylish, and perfect for daily looks.
-  Updated: 2026-05-27T04:24:00Z
+  Updated: 2026-06-06T18:11:02Z
   Vendor: Jellyaora
   Product Type: Hobo Bag
   Availability: Available
@@ -532,7 +532,7 @@
     Availability: Not Available
     Price: $228.99 USD
 - [Khaki Hobo Bag](https://www.jellyaora.com/products/khaki-hobo-bag): Khaki Hobo Bag — soft quilted texture with playful charm. Cozy, cute, and perfect for daily outfits.
-  Updated: 2026-05-30T08:24:45Z
+  Updated: 2026-06-06T18:11:02Z
   Vendor: Jellyaora
   Product Type: Hobo Bag
   Availability: Available
@@ -569,41 +569,55 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/pink-hawaiian-straw-garden-totes-9-inch-5184235.jpg?v=1780333464
   Price: $205.99 USD
+- [Pink Hawaiian Straw Kelly Bag 8.6-inch](https://www.jellyaora.com/products/pink-hawaiian-straw-kelly-bag-8-6-inch): Pink Hawaiian Straw Kelly Bag 8.6-inch — tropical straw charm with a sweet smile. Cute, playful, and perfect for summer.
+  Updated: 2026-06-05T04:06:28Z
+  Vendor: Jellyaora
+  Product Type: Kelly Bag
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/pink-hawaiian-straw-kelly-bag-86-inch-9437203.jpg?v=1780499168
+  Price: $205.99 USD
+- [Navy Blue Denim Mini Lindy Bag 7.5-inch](https://www.jellyaora.com/products/navy-blue-denim-mini-lindy-bag-7-5-inch): Navy Blue Denim Mini Lindy Bag 7.5-inch — classic denim charm with a playful twist. Cute, stylish, and easy to carry.30-Day No-Questions-Asked Returns
+  Updated: 2026-06-05T13:11:28Z
+  Vendor: Jellyaora
+  Product Type: Lindy
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/navy-blue-denim-mini-lindy-bag-75-inch-8658851.jpg?v=1780665080
+  Price: $195.99 USD
 
 ## Collections
 
 - [BAGS](https://www.jellyaora.com/collections/bags): Shop JellyBirkin Bags — the world's first plush collectible handbags. Soft faux-fur exterior, smiley face design, and structured silhouette. Free shipping on orders over $80.
-  Updated: 2026-06-02T11:26:58Z
+  Updated: 2026-06-08T11:24:27Z
   Total Products: 49
 - [AVADA - Best Sellers](https://www.jellyaora.com/collections/avada-best-sellers)
-  Updated: 2026-06-02T11:26:58Z
-  Total Products: 61
+  Updated: 2026-06-08T11:24:27Z
+  Total Products: 63
 - [Best Sellers](https://www.jellyaora.com/collections/best-sellers): Discover Jellyaora’s best  plush bags loved by customers worldwide. Shop our cutest fluffy luxury-inspired handbags before they  out.
-  Updated: 2026-06-02T11:26:58Z
+  Updated: 2026-06-08T11:24:27Z
   Total Products: 9
 - [BK Jelly Bags](https://www.jellyaora.com/collections/bk-plush-bags): Shop Jellyaora BK plush bags – soft fluffy handbags inspired by iconic luxury styles. Cute, stylish and perfect for everyday outfits.
-  Updated: 2026-06-02T11:26:58Z
+  Updated: 2026-06-05T11:23:47Z
   Total Products: 23
 - [Kelly Bags](https://www.jellyaora.com/collections/kelly-plush-bags): Explore Jellyaora Kelly plush bags – soft, fluffy handbags inspired by classic luxury silhouettes. Lightweight, stylish and perfect for daily wear.
-  Updated: 2026-06-01T11:21:48Z
-  Total Products: 6
-- [Lindy Bags](https://www.jellyaora.com/collections/lindy-plush-bags): Shop Jellyaora Lindy plush bags – adorable fluffy handbags designed for everyday style. Lightweight, soft and loved by fashion lovers.
-  Updated: 2026-05-25T10:13:08Z
+  Updated: 2026-06-08T11:24:27Z
   Total Products: 7
+- [Lindy Bags](https://www.jellyaora.com/collections/lindy-plush-bags): Shop Jellyaora Lindy plush bags – adorable fluffy handbags designed for everyday style. Lightweight, soft and loved by fashion lovers.
+  Updated: 2026-06-05T05:09:54Z
+  Total Products: 8
 - [Cute Special Bags](https://www.jellyaora.com/collections/cute-special-bags): Discover Jellyaora’s cute special plush bags featuring unique playful designs. Soft, fluffy and perfect for adding fun to your everyday outfits.
-  Updated: 2026-06-02T11:26:58Z
+  Updated: 2026-06-03T15:04:11Z
   Total Products: 10
 - [New Arrivals](https://www.jellyaora.com/collections/new-arrivals): Shop the newest Jellyaora plush bags. Discover our latest fluffy handbag designs inspired by luxury styles and loved by fashion lovers.
-  Updated: 2026-06-01T05:29:34Z
-  Total Products: 22
+  Updated: 2026-06-05T05:09:54Z
+  Total Products: 24
 - [Garden Tote Bags](https://www.jellyaora.com/collections/garden-tote-bags): Garden Plush Bags – Cute Fluffy Tote Bags | Jellyaora
-  Updated: 2026-06-01T05:29:13Z
+  Updated: 2026-06-03T15:04:14Z
   Total Products: 9
 - [Summer Best Seller](https://www.jellyaora.com/collections/summer-best-seller): Our Classic Woven BK Bag is  fast this summer – don’t miss out.
-  Updated: 2026-06-02T11:26:58Z
+  Updated: 2026-06-08T11:24:27Z
   Total Products: 9
 - [Hobo Bags](https://www.jellyaora.com/collections/hobo-bags)
-  Updated: 2026-05-30T11:24:37Z
+  Updated: 2026-06-03T15:04:16Z
   Total Products: 6
 
 ## Blogs
@@ -618,6 +632,9 @@
     Author: lileo
   - [JellyBirkin vs Jellycat vs Labubu: What's the Difference? | Jellyaora](https://www.jellyaora.com/blogs/the-jellyaora-journal/jellybirkin-vs-jellycat-vs-labubu-whats-the-difference-jellyaora)
     Updated: 2026-06-02T16:03:08Z
+    Author: lileo
+  - [How to Style a Jelly Birkin Bag: 5 Outfit Ideas](https://www.jellyaora.com/blogs/the-jellyaora-journal/how-to-style-a-jelly-birkin-bag-5-outfit-ideas-jellyaora): How to Style a Jelly Birkin Bag: 5 Outfit Ideas
+    Updated: 2026-06-09T09:10:09Z
     Author: lileo
 
 ## Store Pages
