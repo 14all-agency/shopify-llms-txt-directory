@@ -6,54 +6,57 @@
 - Timezone: America/Chicago
 - Created At: 2025-02-24T16:47:37Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-06-04T00:00:31.310Z
+- Updated At: 2026-06-11T00:00:34.832Z
 
 ## Products
 
+- [Mei Mei the Bunny | Official Online Store](https://shop.meimeithebunny.com/products/mei-mei-the-bunny): Little bunny, big heart. Limit 2 per customer. Materials Mei Mei measures 10" tall. She is crafted using polyester fiber, her sweater is knitted with acrylic and she is cocooned in a linen cotton bag, designed to keep her safe from the elements. Impact $1 from every Mei Mei the Bunny plushie sold will benefit The Laufey Foundation's mission to expand access to youth music and orchestral programs with grants, instrument donations, and educational resources to foster the next generation of musicians Safety Mei Mei is non-toxic and CPSIA-compliant. Mei Mei was rigorously tested to ensure she is safe to be in your home. Mei Mei is intended as a collectible novelty item and is not intended as a toy. Please follow Mei Mei care instructions. Care Mei Mei will be a bit tired after a long journey to you! Make sure you give her a little fluff and some hugs to make her feel at home. Give her a tour of her new space – Mei Mei loves to explore new places! Please don't put Mei Mei in the washing machine. Hand-washing in cool water and air-drying is the way to go if you happen to spill on her or drop her in a puddle!
+  Updated: 2026-06-10T21:44:17Z
+  Price: $45.00 USD
 - [Mei Mei the Bunny | Official Online Store](https://shop.meimeithebunny.com/products/mei-mei-the-bunny-bag-charm): Littler bunny, same big heart. Materials The Mei Mei bag charm measures 5" tall. She is crafted using polyester fiber and her sweater is knitted with acrylic. A silver charm featuring Mei Mei's pet Beethoven is attached to the keychain hardware. Impact $1 from every Mei Mei the Bunny bag charm sold will benefit The Laufey Foundation's mission to expand access to youth music and orchestral programs with grants, instrument donations, and educational resources to foster the next generation of musicians
-  Updated: 2026-06-03T17:28:26Z
+  Updated: 2026-06-10T14:57:28Z
   Price: $35.00 USD
 - [Mei Mei the Bunny | Official Online Store](https://shop.meimeithebunny.com/products/mei-mei-cardigan-grey): I've loved you from the start 💙 Match your Mei Mei! Please note, this cardigan is bunny-sized! Mei Mei the Bunny sold separately! Materials This Mei Mei cardigan is made of acrylic and comes in grey.
-  Updated: 2026-05-26T21:36:38Z
+  Updated: 2026-06-07T17:41:27Z
   Price: $20.00 USD
 - [Mei Mei the Bunny | Official Online Store](https://shop.meimeithebunny.com/products/mei-mei-the-bunny-bag-charm-grey-cardigan): Littler bunny, same big heart. Limit 2 per customer. Materials The Mei Mei bag charm measures 5" tall. She is crafted using polyester fiber and her sweater is knitted with acrylic. A silver charm featuring Mei Mei's pet Beethoven is attached to the keychain hardware. Impact $1 from every Mei Mei the Bunny bag charm sold will benefit The Laufey Foundation's mission to expand access to youth music and orchestral programs with grants, instrument donations, and educational resources to foster the next generation of musicians
-  Updated: 2026-06-03T13:42:15Z
+  Updated: 2026-06-10T05:19:15Z
   Price: $35.00 USD
 - [Mei Mei the Bunny | Official Online Store](https://shop.meimeithebunny.com/products/the-conducktor-bag-charm): In perfect harmony 🎼 Meet the Conducktor, one of the featured players in Mei Mei the Bunny! Limit 2 per customer. Materials The Conducktor bag charm measures 5" tall. She is crafted using polyester fiber and her bowtie is made with felt. A silver charm featuring Mei Mei is attached to the keychain hardware. Impact $1 from every Conducktor bag charm sold will benefit The Laufey Foundation's mission to expand access to youth music and orchestral programs with grants, instrument donations, and educational resources to foster the next generation of musicians
-  Updated: 2026-06-03T22:07:07Z
+  Updated: 2026-06-10T16:47:32Z
   Price: $35.00 USD
 - [The Conducktor + Mei Mei Bag Charm Bundle](https://shop.meimeithebunny.com/products/the-conducktor-mei-mei-bag-charm-bundle): Bonded pair, do not separate! Get both buddies in one bundle 🐰🐣 Materials The Mei Mei bag charm measures 5" tall. She is crafted using polyester fiber and her sweater is knitted with acrylic. A silver charm featuring Mei Mei's pet Beethoven is attached to the keychain hardware. The Conducktor bag charm measures 5" tall. She is crafted using polyester fiber and her bowtie is made with felt. A silver charm featuring Mei Mei is attached to the keychain hardware. Impact $1 from every bag charm sold will benefit The Laufey Foundation's mission to expand access to youth music and orchestral programs with grants, instrument donations, and educational resources to foster the next generation of musicians
-  Updated: 2026-06-03T19:51:37Z
+  Updated: 2026-06-10T16:47:38Z
   Price: $65.00 USD
 
 ## Collections
 
 - [Home page](https://shop.meimeithebunny.com/collections/frontpage)
-  Updated: 2026-06-03T11:25:47Z
+  Updated: 2026-06-10T11:26:30Z
   Total Products: 15
 - [Recommended products (Seguno)](https://shop.meimeithebunny.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
-  Updated: 2026-06-03T18:03:01Z
-  Total Products: 10
+  Updated: 2026-06-10T11:26:30Z
+  Total Products: 11
 - [Mei Mei Bundles](https://shop.meimeithebunny.com/collections/mei-mei-bundles)
   Updated: 2026-05-15T12:21:42Z
   Total Products: 5
 - [Lauver Girl Season](https://shop.meimeithebunny.com/collections/lauver-girl-season)
-  Updated: 2026-06-03T11:25:47Z
+  Updated: 2026-06-10T11:26:30Z
   Total Products: 7
 - [Bag Charms | Mei Mei the Bunny Official Store](https://shop.meimeithebunny.com/collections/bag-charms): Mei Mei bag charms available in navy and gray sweaters. Perfect accessory for any bag to tote around and bring your Mei Mei anywhere.
-  Updated: 2026-06-03T11:25:47Z
+  Updated: 2026-06-10T11:26:30Z
   Total Products: 5
 - [Apparel | Mei Mei the Bunny Official Store](https://shop.meimeithebunny.com/collections/apparel): Dress your Mei Mei to match you and the season with the perfect sized tees and sweaters!
-  Updated: 2026-05-27T11:23:56Z
+  Updated: 2026-06-08T11:24:19Z
   Total Products: 5
 - [EG All Products - DO NOT EDIT](https://shop.meimeithebunny.com/collections/eg-all-products-do-not-edit): Please do not edit this collection, as the  logic requires this to be configured as EG creates it. Veuillez ne pas modifier cette collection, car la logique de remise exige qu’elle soit configurée telle que créée par EG. Bitte bearbeiten Sie diese Kollektion nicht, da die Rabattlogik erfordert, dass sie so konfiguriert bleibt, wie sie von EG erstellt wurde. No edite esta colección, ya que la lógica de descuento requiere que esté configurada tal como la crea EG. Non modificare questa collezione, perché la logica dello sconto richiede che rimanga configurata così come viene creata da EG. Não edite esta coleção, pois a lógica de desconto exige que ela seja configurada exatamente como criada pela EG. Bewerk deze collectie niet, omdat de kortingslogica vereist dat deze zo blijft zoals EG deze aanmaakt. このコレクションは編集しないでください。割引ロジックの都合上、EG が作成した状態のままにしておく必要があります。 请不要编辑此系列，因为折扣逻辑要求其保持由 EG 创建时的配置。 請不要編輯此系列，因為折扣邏輯要求其保持 EG 建立時的設定。 이 컬렉션은 EG가 생성한 구성 그대로 유지해야 하므로 수정하지 마십시오.
-  Updated: 2026-06-03T11:25:47Z
+  Updated: 2026-06-10T11:26:30Z
   Total Products: 19
 - [Mei Mei The Bunny Book](https://shop.meimeithebunny.com/collections/mei-mei-the-bunny-book)
   Updated: 2026-05-28T11:25:29Z
   Total Products: 2
 - [The Conducktor](https://shop.meimeithebunny.com/collections/the-conducktor)
-  Updated: 2026-06-03T11:25:47Z
+  Updated: 2026-06-10T11:26:30Z
   Total Products: 2
 
 ## Store Pages
