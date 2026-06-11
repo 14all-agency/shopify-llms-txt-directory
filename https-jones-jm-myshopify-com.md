@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Updated At: 2026-06-04T08:00:27.539Z
+- Updated At: 2026-06-11T12:00:27.922Z
 
 ## Products
 
@@ -938,6 +938,15 @@
     Author: User
   - [A Complete Guide to Snowboarding Techniques for Beginners](https://jones-jm.myshopify.com/blogs/news/a-complete-guide-to-snowboarding-techniques-for-beginners): A Complete Guide to Snowboarding Techniques for Beginners
     Updated: 2026-06-01T00:26:15Z
+    Author: User
+  - [Top 10 Snow Gear Essentials to Prevent Hypothermia](https://jones-jm.myshopify.com/blogs/news/top-10-snow-gear-essentials-to-prevent-hypothermia): Top 10 Snow Gear Essentials to Prevent Hypothermia
+    Updated: 2026-06-05T22:48:52Z
+    Author: User
+  - [How to Master Snowboarding Tricks Quickly and Safely](https://jones-jm.myshopify.com/blogs/news/how-to-master-snowboarding-tricks-quickly-and-safely): How to Master Snowboarding Tricks Quickly and Safely
+    Updated: 2026-06-08T00:23:11Z
+    Author: User
+  - [Top 10 Snowboarding Destinations You Need to Visit This Winter](https://jones-jm.myshopify.com/blogs/news/top-10-snowboarding-destinations-you-need-to-visit-this-winter): Top 10 Snowboarding Destinations You Need to Visit This Winter
+    Updated: 2026-06-08T21:40:34Z
     Author: User
 
 ## Store Pages
