@@ -6,12 +6,12 @@
 - Timezone: America/Toronto
 - Created At: 2026-04-17T09:37:28Z
 - Contact Email: hello@discountgear.site
-- Updated At: 2026-06-04T23:29:06.410Z
+- Updated At: 2026-06-12T00:00:29.206Z
 
 ## Products
 
 - [USB Portable Juice Blender – Personal Smoothie Maker - FocusForge](https://discountgear.site/products/usb-juice-blender): Blend Fresh, AnywhereMeet your new on-the-go companion — the USB Portable Juice Blender. Whether you're at the gym, office, or traveling, enjoy fresh smoothies and juices in seconds. 🔋 USB Rechargeable — charge via any USB port, no outlet needed 🧃 Powerful Motor — blends fruits, veggies & ice with ease 🧼 Easy to Clean — self-cleaning mode with just water ✅ BPA-Free — food-safe materials for peace of mind 💼 Compact & Portable — fits in your bag, cup holder, or desk Perfect for smoothies, protein shakes, baby food, and more. A must-have kitchen gadget for healthy living. - FocusForge
-  Updated: 2026-06-01T22:28:12Z
+  Updated: 2026-06-10T04:51:48Z
   Vendor: FocusForge
   Product Type: Kitchen Appliances
   Availability: Available
@@ -29,7 +29,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/bcfef4db4586878b1b00f71bf92d.png?v=1780269256
     Price: $80.49 CAD
 - [Post-Ear Bluetooth Earphones – Open-Ear Wireless Headset - FocusForge](https://discountgear.site/products/post-ear-bluetooth-earphones): Hear Your World — Without Missing a BeatThe Post-Ear Bluetooth Earphones deliver premium wireless audio while keeping you aware of your surroundings. Ideal for commuting, workouts, and everyday use. 🎧 Open-Ear Design — ambient awareness for safer listening 📶 Bluetooth 5.0 — stable, low-latency wireless connection 🔋 Long Battery Life — hours of playback on a single charge 🎤 Built-in Mic — hands-free calls with clear voice pickup 💪 Secure Fit — stays in place during exercise and movement Lightweight, comfortable, and versatile — the perfect everyday wireless earphone. - FocusForge
-  Updated: 2026-06-01T22:28:49Z
+  Updated: 2026-06-10T04:51:48Z
   Vendor: FocusForge
   Product Type: Headphones & Earphones
   Availability: Available
@@ -47,7 +47,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/841a6733480a85c2bad4038442fc.jpg?v=1780269522
     Price: $41.10 CAD
 - [Bluetooth Over-Ear Headphones – Wireless Noise-Cancelling - FocusForge](https://discountgear.site/products/bluetooth-over-ear-headphones): Immersive Sound. All-Day Comfort.Elevate your listening experience with the Bluetooth Over-Ear Headphones. Designed for audiophiles and casual listeners alike, these headphones deliver rich, deep sound with the freedom of wireless connectivity. 🎧 Hi-Fi Stereo Sound — deep bass, crisp mids, and clear highs 🔇 Noise Cancellation — block out distractions and focus on your music 📶 Bluetooth 5.0 — seamless pairing with all your devices 🔋 40+ Hour Battery — enjoy music all day without recharging 🙌 Foldable & Lightweight — easy to carry and store 🎤 Built-in Microphone — crystal-clear hands-free calls Whether you're working, commuting, or relaxing, these headphones are your perfect audio companion. - FocusForge
-  Updated: 2026-06-01T22:28:46Z
+  Updated: 2026-06-10T04:51:48Z
   Vendor: FocusForge
   Product Type: Headphones & Earphones
   Availability: Available
@@ -65,7 +65,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/c531a93d481f9675e58a0e00166f.png?v=1778550673
     Price: $54.80 CAD
 - [Electric Fat Burning Body Massager - FocusForge](https://discountgear.site/products/fat-burning-massager-electric-massager): Sculpt & Tone From HomeThe Electric Fat Burning Body Massager uses advanced vibration technology to target stubborn fat areas, improve circulation, and help you achieve a more toned, sculpted physique — all from the comfort of home. ⚡ High-Frequency Vibration — stimulates muscles and breaks down fat cells 💪 Multi-Zone Targeting — effective on abdomen, thighs, arms & back 🔧 Multiple Speed Settings — customize intensity to your comfort level 🧘 Improves Circulation — reduces soreness and promotes recovery 🔋 Rechargeable — cordless and convenient for home or travel use Pair with a healthy lifestyle for best results. A smart addition to any wellness routine. - FocusForge
-  Updated: 2026-06-01T22:28:47Z
+  Updated: 2026-06-10T04:51:48Z
   Vendor: FocusForge
   Product Type: Health & Wellness Devices
   Availability: Available
@@ -119,7 +119,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/4b9af39a4678a2639ca21fb8ce0f_2ec14dc5-d000-469f-bb62-08c96ff1c2df.png?v=1780270233
     Price: $164.40 CAD
 - [Multi-Functional Kitchen Sink Storage & Drainage Rack - FocusForge](https://discountgear.site/products/multi-functional-kitchen-sink-storage-drainage-rack): Declutter Your Sink, Simplify Your KitchenThe Multi-Functional Kitchen Sink Storage & Drainage Rack is the ultimate organizer for your sink area. Keep sponges, soap, brushes, and dishcloths neatly stored and draining properly. 💧 Built-in Drainage — water drains away to keep surfaces dry 🧹 Multi-Compartment Design — holds sponges, soap dispensers, brushes & more 🔧 Easy to Install — no tools required, fits most standard sinks 🪥 Durable Materials — rust-resistant and easy to wipe clean 🏠 Space-Saving — maximizes counter space without clutter A simple upgrade that makes a big difference in your daily kitchen routine. - FocusForge
-  Updated: 2026-06-01T20:14:24Z
+  Updated: 2026-06-10T04:51:49Z
   Vendor: FocusForge
   Product Type: Kitchen Storage & Organization
   Availability: Available
@@ -165,7 +165,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/d33876b347899eaf63af6180467b.webp?v=1780270582
     Price: $41.10 CAD
 - [Acupressure Mat & Pillow Set – Back Pain & Stress Relief - FocusForge](https://discountgear.site/products/acupressure-mat-pillow-set): Natural Relief for Back Pain & StressThe Acupressure Mat & Pillow Set harnesses the ancient principles of acupressure to help relieve muscle tension, reduce stress, and promote deep relaxation — no appointment needed. 🌿 Thousands of Pressure Points — stimulates circulation and releases tension 💪 Back & Neck Relief — targets common pain areas effectively 😴 Promotes Better Sleep — use before bed for deeper, more restful sleep 🧘 Stress Reduction — triggers natural endorphin release 🧵 Eco-Friendly Materials — non-toxic foam and cotton cover 🎡 Includes Mat + Pillow — full-body and neck coverage in one set Used by millions worldwide as a -free alternative for pain management and relaxation. - FocusForge
-  Updated: 2026-06-01T20:14:26Z
+  Updated: 2026-06-10T04:51:49Z
   Vendor: FocusForge
   Product Type: Health & Wellness Devices
   Availability: Available
@@ -283,7 +283,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/ddd478fb467f9ab01bbc60fe50f4.png?v=1780271923
     Price: $54.80 CAD
 - [Wireless Bluetooth Sleep Eye Mask with Built-in Speakers - FocusForge](https://discountgear.site/products/wireless-bluetooth-eye-mask): Sleep Better. Listen Smarter.The Wireless Bluetooth Sleep Eye Mask combines total light-blocking comfort with built-in Bluetooth speakers — so you can drift off to your favourite music, podcasts, or sleep meditations without disturbing anyone. 🎧 Built-in Bluetooth Speakers — wirelessly stream audio from your phone 🌑 Total Blackout Design — blocks 100% of light for deeper sleep 🛌 Ultra-Soft & Breathable — gentle on skin, comfortable all night 🔋 Rechargeable Battery — long playback time on a single charge ✈️ Travel-Friendly — perfect for flights, hotels & napping on the go The ultimate sleep upgrade for light sleepers, travellers, and anyone who loves falling asleep to audio. - FocusForge
-  Updated: 2026-06-01T20:14:29Z
+  Updated: 2026-06-10T04:51:49Z
   Vendor: FocusForge
   Product Type: Sleep & Relaxation
   Availability: Available
@@ -309,14 +309,14 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/47592d7349c9a2fccd773afd49f8.jpg?v=1780272761
     Price: $46.58 CAD
 - [Vegetable & Onion Hand Chopper – Slicer, Dicer & Peeler - FocusForge](https://discountgear.site/products/vegetable-fruit-salad-onion-garlic-food-hand-chopper-cutter-slicer-peeler-dicer): Chop Smarter, Cook FasterSay goodbye to tedious chopping and hello to the Vegetable & Onion Hand Chopper. This all-in-one manual food prep tool slices, dices, and peels in seconds — no electricity needed. 🧕 Multi-Function — chops, slices, dices & peels in one tool 😭 No More Onion Tears — sealed design keeps fumes contained 🪥 Sharp Stainless Steel Blades — cuts through vegetables effortlessly 🧼 Easy to Clean — dishwasher-safe components 🏠 Space-Saving Design — compact and easy to store Perfect for salads, stir-fries, soups, and more. A must-have for every home kitchen. - FocusForge
-  Updated: 2026-06-01T20:14:30Z
+  Updated: 2026-06-10T04:51:49Z
   Vendor: FocusForge
   Product Type: Kitchen Appliances
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/09f743e5469397eb4651f1973bf7.jpg?v=1780272844
   Price: $41.10 CAD
 - [Mini Electric Garlic & Vegetable Chopper - FocusForge](https://discountgear.site/products/mini-electric-garlic-and-vegetable-chopper): Mince in Seconds — No Effort RequiredThe Mini Electric Garlic & Vegetable Chopper makes food prep effortless. With one touch, it finely minces garlic, onions, herbs, and small vegetables in seconds. ⚡ One-Touch Operation — powerful motor does the work for you 🧕 Versatile Use — chops garlic, ginger, herbs, nuts & more 🧼 Easy to Clean — detachable bowl is dishwasher-safe 💼 Compact Size — fits neatly in any kitchen drawer 🔋 USB or Battery Powered — use anywhere, no outlet needed Save time and effort in the kitchen — a best-seller for a reason! - FocusForge
-  Updated: 2026-06-01T22:28:51Z
+  Updated: 2026-06-10T04:51:49Z
   Vendor: FocusForge
   Product Type: Kitchen Appliances
   Availability: Available
@@ -358,7 +358,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/be376f7a4c44a28008b414e4de80.png?v=1780273778
     Price: $45.21 CAD
 - [Ripped Jeans - FocusForge](https://discountgear.site/products/ripped-jeans): The MudFade jeans are the perfect blend of style, comfort, and rugged design. Featuring a loose straight-leg and wide-leg fit, these jeans offer a relaxed and trendy look for men who value both fashion and freedom of movement. The mud-dyed finish gives them a unique, earthy tone, while the strategically placed rips add a touch of rebellious flair. Crafted for durability and style, these jeans are versatile enough to pair with casual or streetwear outfits, making them an essential addition to any wardrobe. - FocusForge
-  Updated: 2026-06-01T20:14:32Z
+  Updated: 2026-06-10T04:51:58Z
   Vendor: FocusForge
   Product Type: Jeans
   Availability: Available
@@ -380,7 +380,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/b31c0ea145f09922cd9625543742.png?v=1778604027
     Price: $72.61 CAD
 - [Wide Leg Jeans - FocusForge](https://discountgear.site/products/wide-leg-jeans): ### Product Description: Wide Leg Jeans Women's High Waist Baggy Straight Trousers#### OverviewElevate your style with our Wide Leg Jeans for Women, featuring a high waist and a baggy straight fit. These jeans combine comfort and fashion, making them a must-have addition to your wardrobe for any season.#### Features- **High Waist Design**: The flattering high waist provides support and enhances your silhouette, creating a chic and trendy look.- **Wide Leg Fit**: Offers a relaxed and comfortable fit, allowing for easy movement while making a bold fashion statement.- **Versatile Style**: Perfect for dressing up or down, these jeans can be paired with everything from casual tees to elegant blouses.- **Quality Denim Fabric**: Made from durable, soft denim that holds its shape and ensures long-lasting wear.- **Classic Color Options**: Available in a variety of classic and trendy washes, perfect for any outfit.#### Specifications- **Material**: High-quality cotton blend with a touch of stretch for comfort- **Sizes Available**: [Insert size range]- **Color Options**: Available in [Insert color options, e.g., light blue, dark indigo, black]- **Inseam Length**: [Insert inseam length]#### Benefits- **Comfortable All-Day Wear**: The relaxed fit and breathable fabric make these jeans ideal for all-day wear, from work to weekends.- **Timeless Style**: The wide leg and high waist trend offer a timeless look that can be easily styled for various occasions.- **Easy to Style**: Versatile enough to pair with sneakers, heels, or boots, making them suitable for any season or event.#### Ideal For- Casual outings, brunches, or day trips- Everyday wear or dressing up for special occasions- Adding a fashionable touch to your seasonal wardrobeStep out in style with our Wide Leg Jeans Women's High Waist Baggy Straight Trousers—a perfect blend of comfort and chic fashion for the modern woman! - FocusForge
-  Updated: 2026-06-01T20:14:33Z
+  Updated: 2026-06-10T04:51:49Z
   Vendor: FocusForge
   Product Type: Jeans
   Availability: Available
@@ -466,7 +466,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/9bffca864df8ab2d8bba2320a140.jpg?v=1780274877
     Price: $68.50 CAD
 - [Men's Jeans Collection - FocusForge](https://discountgear.site/products/mens-jeans-collection): Introducing our stylish Men's Jeans, crafted from high-quality cotton for ultimate comfort and durability. With a main fabric composition of 75% cotton, these jeans are designed to provide a soft feel against your skin while ensuring breathability on warm days. Perfect for leisure activities, these jeans effortlessly combine fashion and function, making them a versatile addition to your wardrobe. Available in a range of sizes from 28 to 42, and in a chic light blue and white color combination, there’s a perfect fit for everyone. Whether you're dressing up for a casual outing or keeping it laid-back at home, these jeans are your go-to choice. Embrace comfort and style with our Men's Jeans – your new favorite pair is just a click away! - FocusForge
-  Updated: 2026-06-01T20:14:35Z
+  Updated: 2026-06-10T04:51:50Z
   Vendor: FocusForge
   Product Type: Jeans
   Availability: Available
@@ -516,7 +516,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/08d320b64308b15db3203a1e1102.jpg?v=1780275034
     Price: $68.50 CAD
 - [Shredded Embroidery Jeans - FocusForge](https://discountgear.site/products/shredded-embroidery-jeans): Step up your fashion game with our stunning Shredded Embroidery Jeans. Crafted from high-quality cotton, these jeans combine comfort with style, making them the perfect choice for your leisure activities.With a main fabric composition of 73% cotton, these jeans are soft, breathable, and durable, ensuring you look great while feeling comfortable all day long. The unique shredded embroidery design adds a trendy touch, making these jeans a standout piece in your wardrobe.Available in a variety of sizes ranging from 29 to 38, our jeans cater to different body types, ensuring a flattering fit for everyone. Whether you prefer classic white or bold black, you can choose the color that best suits your style.Whether you're out for a casual day with friends or just running errands, the Shredded Embroidery Jeans are your go-to option. Pair them with your favorite top and sneakers for a laid-back yet stylish look.Don’t miss out on adding these stylish jeans to your collection. Embrace comfort and fashion with our Shredded Embroidery Jeans today! - FocusForge
-  Updated: 2026-06-01T20:14:38Z
+  Updated: 2026-06-10T04:51:50Z
   Vendor: FocusForge
   Product Type: Jeans
   Availability: Available
@@ -570,7 +570,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/d9fd7c764c6d8772ce11a66dc0ab.jpg?v=1780275472
     Price: $68.50 CAD
 - [Smart Automatic Pet Feeder - FocusForge](https://discountgear.site/products/smart-automatic-pet-feeder): Intelligent pet feeder with remote control, timing, and quantitative meal settings to ensure your pet gets the right portion at the right time. Features a user-friendly design with a large food storage capacity, ensuring convenience for busy pet owners. Perfect for cats and dogs.Product information:Color: No adapter, American Standard, Chinese standard, European standard, British Standard, Australian standard, South Korea standard, Japanese standardMaterial: complete set of automatic feeding tablewareApplicable object: CatSpecifications: White button, black button, white WiFi, black WiFiCategory: Pet tablewarePower Source DetailsThis automatic pet feeder supports a dual power mode and can operate using batteries or a USB connection. All variants in our catalog are battery powered by default, and versions marked without an adapter can still be used by connecting a standard USB cable.Each one supports dual power mode for flexible and reliable use. The batteries are not included in the package. - FocusForge
-  Updated: 2026-06-01T22:28:50Z
+  Updated: 2026-06-10T04:51:50Z
   Vendor: FocusForge
   Product Type: Pet Supplies
   Availability: Available
@@ -700,7 +700,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/6a01e9584ceb9e1d4e560fcc4583.png?v=1780276854
     Price: $95.90 CAD
 - [Men's Pure Cotton Sleeveless Fitness Casual Trendy Tank Top - FocusForge](https://discountgear.site/products/mens-pure-cotton-sleeveless-fitness-casual-trendy-tank-top): Stay cool and comfortable with our Men's Pure Cotton Sleeveless Fitness Tank Top — the perfect everyday gym and casual wear. Material: 100% Cotton — soft, breathable & sweat-absorbent Fit: Slim Fit Colours: Gray, Black, White, Army Green, Sky Blue, Dark Brown, Khaki, Navy Blue, Light Green, Pink, Violet Sizes: S, M, L, XL, XXL, XXXL, XXXXL Features: Mosquito-proof, wear-resistant, sweat-absorbent, soft & comfortable Occasion: Casual, Gym, Fitness Note: Asian sizes run 1–2 sizes smaller than European/American sizes. Please refer to the size chart before ordering. - FocusForge
-  Updated: 2026-06-01T11:51:18Z
+  Updated: 2026-06-10T04:51:50Z
   Vendor: FocusForge
   Product Type: Men's Clothing
   Availability: Available
@@ -906,7 +906,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/8ce67520-8356-4717-8496-77d579325c1d.jpg?v=1780277169
     Price: $25.00 CAD
 - [Men's Summer Casual Sports All-matching Slim Fit Short-sleeved Polo Shirt Shorts - FocusForge](https://discountgear.site/products/mens-summer-casual-sports-all-matching-slim-fit-short-sleeved-polo-shirt-shorts): Beat the heat in style with our Men's Summer Casual Sports Polo Shirt & Shorts Set — a perfectly matched two-piece for leisure and light sport. Material: Breathable Mesh Polyester Style: Polo Shirt + Shorts (matching set) Colours: Black, Dark Gray, Army Green, White, Light Blue, Dark Blue, Light Gray, Orange, Red Sizes: S, M, L, XL, XXL, XXXL Sleeve: Short Sleeve | Pants: Shorts Occasion: Leisure, Sports, Summer Note: Asian sizes run 1–2 sizes smaller than European/American sizes. Please refer to the size chart before ordering. - FocusForge
-  Updated: 2026-06-01T01:32:03Z
+  Updated: 2026-06-10T04:51:50Z
   Vendor: FocusForge
   Product Type: Men's Clothing
   Availability: Available
@@ -1112,7 +1112,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/58e08cad-bd25-4d60-8f75-2efd9d163457.jpg?v=1780277521
     Price: $40.00 CAD
 - [Men's Hemp Long Sleeve Loose-Fit Solid Color Shirt Plus Size Cotton Hemp Shirt Sweatshirt For Men Casual Everyday Wear - FocusForge](https://discountgear.site/products/mens-hemp-long-sleeve-loose-fit-solid-color-shirt-plus-size-cotton-hemp-shirt-sweatshirt-for-men-casual-everyday-wear): Elevate your casual wardrobe with our Men's Hemp Long Sleeve Loose-Fit Solid Colour Shirt — stylish, breathable and perfect for everyday wear. Material: Polyester blend with hemp-style finish Style: Pullover, Loose Fit Colours: Gray, Black, Khaki, Light Green, Sky Blue Sizes: S, M, L, XL, XXL, XXXL Occasion: Casual, Everyday Note: Asian sizes run 1–2 sizes smaller than European/American sizes. Please refer to the size chart before ordering. - FocusForge
-  Updated: 2026-06-01T01:35:44Z
+  Updated: 2026-06-10T04:52:04Z
   Vendor: FocusForge
   Product Type: Men's Clothing
   Availability: Available
@@ -1286,7 +1286,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/0c60dac0-deaa-4a0b-a14a-6126ce71d9d6.jpg?v=1780277743
     Price: $50.00 CAD
 - [Pets Spray Hair Comb Pet Hair Remover Cleaning Brush Cats Grooming Dog Accessories Tools Dematting Water Mist Humidifier Comb Pet Supplies - FocusForge](https://discountgear.site/products/pets-spray-hair-comb-pet-hair-remover-cleaning-brush-cats-grooming-dog-accessories-tools-dematting-water-mist-humidifier-comb-pet-supplies): Make grooming easy with our Pet Spray Hair Comb & Grooming Brush — a 2-in-1 mist humidifier comb that detangles and conditions your pet's coat in one step. Material: Plastic Colours: White, Green, Pink Suitable for: Dogs & Cats Features: Built-in water mist spray, dematting teeth, hair remover & cleaning brush Function: Grooming, detangling, moisturising coat - FocusForge
-  Updated: 2026-06-01T01:42:33Z
+  Updated: 2026-06-10T04:51:51Z
   Vendor: FocusForge
   Product Type: Pet Accessories
   Availability: Available
@@ -1332,7 +1332,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/c75b8940-2bbc-48f0-a931-5dc9485072c8.jpg?v=1780278151
     Price: $40.00 CAD
 - [Moisturizing Correcting CC Cream Waterproof Anti-sweat Makeup Before Concealer Lasting Women Makeup Protect Skin Erborian Make - FocusForge](https://discountgear.site/products/moisturizing-correcting-cc-cream-waterproof-anti-sweat-makeup-before-concealer-lasting-women-makeup-protect-skin-erborian-make): Get a flawless, natural finish with our Moisturizing Correcting CC Cream — a multi-tasking colour corrector powered by Centella Asiatica. Key Ingredient: Centella Asiatica — soothes, hydrates & awakens skin's natural radiance Finish: Light, buildable coverage with a soft, transparent look Shades: #1 Dark, #2 Light Skin Type: Mixed/Combination Features: Waterproof, anti-sweat, colour-correcting, moisturising How to use: Apply a thin layer with fingers after skincare as the last step. Watch the formula warm to your skin tone for a seamless finish. - FocusForge
-  Updated: 2026-06-01T22:28:09Z
+  Updated: 2026-06-10T04:51:51Z
   Vendor: FocusForge
   Product Type: Beauty & Makeup
   Availability: Available
@@ -1366,7 +1366,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/42b07907-0b80-4c31-92a8-f8c64f0efd60.jpg?v=1780278521
     Price: $25.00 CAD
 - [Large Capacity Travel Duffle Bag Women's Handbag Folding Suit Bag Waterproof Clothes Totes - FocusForge](https://discountgear.site/products/large-capacity-travel-duffle-bag-womens-handbag-folding-suit-bag-waterproof-clothes-totes): Pack everything you need with our Large Capacity Travel Duffle Bag — stylish, waterproof and built for women on the go. Material: PU with Polyester lining Colours: Pink, Sapphire Blue Stripes, Black Stripes, Sky Blue Gender: Women Features: Waterproof, breathable, ultra-light, antibacterial, wear-resistant, dry/wet separation Style: Travel / Sports / Outdoor Pattern: Solid colour with contrast stitching & macaron colour accents - FocusForge
-  Updated: 2026-06-01T02:09:38Z
+  Updated: 2026-06-10T04:51:51Z
   Vendor: FocusForge
   Product Type: Travelling bad
   Availability: Available
@@ -1568,7 +1568,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/6be77a4b-e835-45da-9c24-f3c4b50f2960.jpg?v=1778612562
     Price: $80.00 CAD
 - [Air Conditioner Air Cooler Fan Water Cooling Fan Air Conditioning For Room Office Portable Air Conditioner Cars - FocusForge](https://discountgear.site/products/air-conditioner-air-cooler-fan-water-cooling-fan-air-conditioning-for-room-office-portable-air-conditioner-cars): Beat the heat with our Portable Air Cooler Fan — a compact USB-powered mini air conditioner that uses atomization technology to deliver cool, refreshing air without drying out your skin. Power: USB, 25W Colour: Ivory White Dimensions: 167 × 225 × 120mm Operation: Touchscreen controls Modes: 2 fan speeds + atomization modes Battery: 1800mAh | Charge time: 2.5–3 hours | Run time: 1–6 hours Features: Add ice cubes or essential oils for enhanced cooling Ideal for: Bedroom, office, desk, car, travel - FocusForge
-  Updated: 2026-06-01T22:28:37Z
+  Updated: 2026-06-10T04:51:51Z
   Vendor: FocusForge
   Product Type: Air Conditioner
   Availability: Available
@@ -1582,7 +1582,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/b08e3a55-0f55-442b-8355-85b43df714d4.jpg?v=1778616764
     Price: $60.00 CAD
 - [Portable High Pressure Washing Water Gun Car Wash Nozzle Adjustable Nipple Type Direct Spray Home Garden Shower Watering Hose - FocusForge](https://discountgear.site/products/portable-high-pressure-washing-water-gun-car-wash-nozzle-adjustable-nipple-type-direct-spray-home-garden-shower-watering-hose): Tackle any cleaning job with our Portable High Pressure Water Gun Nozzle — a versatile, easy-to-attach spray nozzle with multiple water modes for every task. Material: Polypropylene Dimensions: 16 × 2.5cm Rotation: 360° adjustable spray patterns Options: Straight-stream nozzle only, or with 1–2 stainless steel hose clamps Use cases: Car washing, garden watering, patio, gutters, deck & home cleaning Features: High performance, lightweight, easy to install — no tools needed - FocusForge
-  Updated: 2026-05-31T21:45:02Z
+  Updated: 2026-06-10T04:51:51Z
   Vendor: FocusForge
   Product Type: Pressure Water gun
   Availability: Available
@@ -1628,7 +1628,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/7fcf625f-2b1d-4a9f-8d73-bee7cb5c4f44.jpg?v=1778616894
     Price: $35.00 CAD
 - [Two-piece V-Neck Sleeveless Vest And Wide Leg Pants For Women Summer Solid-Colored Sleeveless Casual Linen Tank Top And Pants Set - FocusForge](https://discountgear.site/products/two-piece-v-neck-sleeveless-vest-and-wide-leg-pants-for-women-summer-solid-colored-sleeveless-casual-linen-tank-top-and-pants-set): Look and feel amazing this summer with our Women's Two-Piece V-Neck Sleeveless Vest & Wide Leg Pants Set — a breezy linen co-ord perfect for casual outings, beach days and more. Material: Linen blend (Polyester) Style: Sleeveless vest + wide leg full-length pants Colours: White, Black, Apricot, Blue, Dark Brown, Navy Blue Sizes: S, M, L, XL, 2XL, 3XL Gender: Women Occasion: Casual, Summer, Beach, Everyday Note: Asian sizes run 1–2 sizes smaller than European/American sizes. Please refer to the size chart before ordering. - FocusForge
-  Updated: 2026-05-31T21:45:07Z
+  Updated: 2026-06-10T04:51:52Z
   Vendor: FocusForge
   Product Type: Women's Clothing
   Availability: Available
@@ -1778,21 +1778,21 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/a3edfb57-afa3-43c6-a755-0c679c5e0240.jpg?v=1778617035
     Price: $50.00 CAD
 - [Dust Collector - FocusForge](https://discountgear.site/products/dust-collector): Keep your space clean and dust-free with our Portable Dust Collector — a compact and lightweight vacuum designed for quick, effortless clean-ups. Material: Plastic Design: Compact & lightweight for easy handling Ideal for: Home, desk, car, and small spaces - FocusForge
-  Updated: 2026-05-31T21:45:10Z
+  Updated: 2026-06-10T04:51:52Z
   Vendor: FocusForge
   Product Type: Dust collector
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/b6eecf7a-fba5-4314-8748-9dfb091650b3.jpg?v=1778617236
   Price: $50.00 CAD
 - [Personalized Name Heart Locket Necklace Zirconia Paved Custom Engraved Pendant Christmas Gifts For Mother Grandma - FocusForge](https://discountgear.site/products/personalized-name-heart-locket-necklace-zirconia-paved-custom-engraved-pendant-christmas-gifts-for-mother-grandma): Give the gift of love with our Personalized Name Heart Locket Necklace — a stunning custom-engraved pendant that makes the perfect gift for mothers, grandmothers and loved ones. Material: Titanium Steel with real gold plating Stone: Zirconia paved diamonds Style: Heart locket with side chain Colour: Gold Customization: Personalized name engraving available Occasion: Christmas, Mother's Day, Birthday, Anniversary - FocusForge
-  Updated: 2026-05-31T21:45:13Z
+  Updated: 2026-06-10T04:51:52Z
   Vendor: FocusForge
   Product Type: Jewellery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/73a784ab-9ac6-46e4-8f7b-1b7c02b1dd25.jpg?v=1778617623
   Price: $30.00 CAD
 - [Rechargeable Automatic Hair Curler — Cordless Ceramic Styling Tool - FocusForge](https://discountgear.site/products/rechargeable-automatic-hair-curler-women-portable-hair-curling-iron-lcd-display-ceramic-curly-rotating-curling-wave-styer): Salon-Perfect Curls. Zero Effort. Anywhere.Imagine waking up, grabbing your curler, and having bouncy, gorgeous curls in under 10 minutes — no cords, no fuss, no heat damage. That's the magic of our Automatic Hair Curler.✨ Key Features Fully cordless & rechargeable — 60 minutes of cord-free styling on a single charge Tourmaline ceramic barrel (21–30mm) — gentle, even heat that protects your hair 3 heat settings — customize for fine, normal, or thick hair Auto-rotating barrel — curls left, right, or alternating for natural-looking waves Anti-tangle protection — no snags, no stress LCD display — see your heat setting at a glance Styles in 5–10 minutes — perfect for busy mornings 🧳 Perfect ForHome use, travel, and on-the-go touch-ups. Works best on dry hair.Power: 25W–39W | Run Time: Up to 60 min | Barrel: 21–30mm ceramic - FocusForge
-  Updated: 2026-06-01T22:28:45Z
+  Updated: 2026-06-10T04:51:52Z
   Vendor: FocusForge
   Product Type: Hair Styling Tools
   Availability: Available
@@ -1814,7 +1814,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/2216497574802.jpg?v=1778617906
     Price: $50.00 CAD
 - [13Pcs Makeup Brush Set Make Up Concealer Brush Blush Powder Brush Eye Shadow Highlighter Foundation Brush Cosmetic Beauty Tools - FocusForge](https://discountgear.site/products/13pcs-makeup-brush-set-make-up-concealer-brush-blush-powder-brush-eye-shadow-highlighter-foundation-brush-cosmetic-beauty-tools): Achieve a flawless, professional makeup look with our 13-Piece Professional Makeup Brush Set — the complete kit you need for foundation through lips, all in one compact bundle. Includes: Foundation, powder, blush, highlighter, eyeshadow, concealer, lip, eyebrow & blending brushes (13 total) Bristles: Soft synthetic fibers that lift product smoothly, feel gentle on skin, and are easy to clean Handle & Ferrule: Plastic long rod handle with an aluminum ferrule for durable, precise control Size: 17 cm total length; brush wool about 4.5 cm for balanced grip and versatile application Packaging options: Green OPP bag, Green cloth bag, Pink cloth bag, Yellow cloth bag, Green box, Pink box Ideal for beginners and makeup enthusiasts alike, this set covers every step of your routine—from even foundation application to soft, seamless eyeshadow blending. The compact size and variety of packaging options also make it a thoughtful gift or travel-ready kit. - FocusForge
-  Updated: 2026-06-02T14:00:08Z
+  Updated: 2026-06-10T04:51:52Z
   Vendor: FocusForge
   Product Type: Skin and beauty
   Availability: Available
@@ -1856,7 +1856,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/39041221-8598-46cf-a7eb-6afacdf3be60.jpg?v=1778618235
     Price: $25.00 CAD
 - [New Tube Lip Rich Lip Color Slightly Spicy Lip Honey Lip Glass Mirror Face Lip Mirror Liquid Lipstick - FocusForge](https://discountgear.site/products/new-tube-lip-rich-lip-color-slightly-spicy-lip-honey-lip-glass-mirror-face-lip-mirror-liquid-lipstick): Achieve shiny, sexy lips with our Mirror Liquid Lipstick & Lip Gloss — a lightweight, highly pigmented formula that glides on smoothly for a stunning finish. Shades: 6 colours (#1, #2, #3, #4, #5, #6) Net Content: 5ml Finish: High-shine mirror gloss Formula: Moisturizing, lightweight & comfortable to wear Features: Very pigmented, easy to apply & remove, smooth & silky texture Skin Type: Universal - FocusForge
-  Updated: 2026-05-31T21:45:45Z
+  Updated: 2026-06-10T04:51:52Z
   Vendor: FocusForge
   Product Type: Beauty & Makeup
   Availability: Available
@@ -2018,7 +2018,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/c8368c11-87fa-4e97-92ec-500ee45dff70.jpg?v=1778618350
     Price: $25.00 CAD
 - [250th Anniversary Commemorative Mug Coffee Cup - FocusForge](https://discountgear.site/products/250th-anniversary-commemorative-mug-coffee-cup): 250th Anniversary Commemorative Mug — a ceramic coffee cup that honors a milestone and becomes a lasting keepsake for collectors and everyday use. Choose your look with two distinct designs: Style 1 and Style 2. Material: Ceramic Capacity: 301–400 ml Styles: Style 1, Style 2 Use: Suitable for coffee, tea, and other hot drinks Occasion: Anniversary, collectible, gift Perfect for commemorating a 250-year milestone, this mug blends everyday utility with meaningful distinction—an ideal, thoughtful gift for history enthusiasts and collectors alike. - FocusForge
-  Updated: 2026-06-02T14:00:08Z
+  Updated: 2026-06-10T04:51:52Z
   Vendor: FocusForge
   Product Type: Home appliances
   Availability: Available
@@ -2032,7 +2032,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/738bc7c1-01c8-4f35-977a-298d7f9a6b2b.jpg?v=1778618525
     Price: $30.00 CAD
 - [Electric Hair Removal Instrument Laser Hair Removal Shaver - FocusForge](https://discountgear.site/products/electric-hair-removal-instrument-laser-hair-removal-shaver): Say goodbye to unwanted hair with our Electric Laser Hair Removal Instrument — a pain-free, instant hair remover that's gentle on even the most sensitive skin. Technology: Micro-oscillation Sensa-Light — sweeps away hair in one step, no pain or irritation Suitable for: Face, bikini, belly, arms, underarms & legs Skin Types: Safe for all skin types and colours Weight: 185g Power: Rechargeable via USB Features: Auto-sleep mode, LED ready indicator, no nicks or cuts Includes: Hair remover, USB charger, plug, trimmer head, foil head, cleaning brush & instruction manual How to use: Switch to ON, wait for LED flash, press against skin and glide. Unit auto-deactivates 6 seconds after lifting from skin. - FocusForge
-  Updated: 2026-06-01T22:28:24Z
+  Updated: 2026-06-10T04:51:53Z
   Vendor: FocusForge
   Product Type: Beauty & Makeup
   Availability: Available
@@ -2186,7 +2186,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/a6486a8f-88d6-4e1c-8ac7-b729eede058b.jpg?v=1778623931
     Price: $30.00 CAD
 - [Bluetooth Headset Waterproof Digital Display Noise Reduction - FocusForge](https://discountgear.site/products/bluetooth-headset-waterproof-digital-display-noise-reduction): Experience premium wireless audio with our Waterproof Bluetooth Headset with Digital Display & ENC Noise Reduction — built for calls, music, gaming and everyday use. Colours: White screen, Black screen, White light display, Black light display (all with ENC noise reduction) Transmission Range: Up to 10 metres Battery Life: 4–8 hours Type: In-ear wireless earbuds Features: Waterproof, ENC noise reduction, digital display, voice control, sleep mode, e-sports low latency Functions: Music, calls, ultra-long battery Material: Plastic Includes: Earbuds + colour box + charging cable + data cable + manual - FocusForge
-  Updated: 2026-06-01T22:28:23Z
+  Updated: 2026-06-10T04:51:53Z
   Vendor: FocusForge
   Product Type: Headphones
   Availability: Available
@@ -2208,7 +2208,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/e14555aa-e485-4e59-b5a0-31a379b82cb4.jpg?v=1778631965
     Price: $30.00 CAD
 - [Baby Boys And Girls Pocket Hooded Knitted Jumpsuit Romper - FocusForge](https://discountgear.site/products/baby-boys-and-girls-pocket-hooded-knitted-jumpsuit-romper): Adorable Hooded Knitted Jumpsuit for BabiesKeep your little one cozy and stylish with this soft knitted hooded jumpsuit romper. Designed for both boys and girls, it features a convenient pocket and a snug hood to keep baby warm during cooler days. Soft, breathable knitted fabric Hooded design for extra warmth Front pocket for a fun, practical touch Easy snap or zip closure for quick diaper changes Available in multiple sizes for newborns to toddlers Perfect for everyday wear, playdates, or gifting — a must-have addition to any baby wardrobe. - FocusForge
-  Updated: 2026-05-31T21:45:59Z
+  Updated: 2026-06-10T04:51:53Z
   Vendor: FocusForge
   Product Type: Clothing Accessories
   Availability: Available
@@ -2246,7 +2246,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/ad532c63-488d-4243-af71-95e9e4fbcd88.jpg?v=1778668669
     Price: $25.00 CAD
 - [Men Linen Beach Shorts - FocusForge](https://discountgear.site/products/men-linen-beach-shorts): Lightweight Linen Beach Shorts for MenStay cool and comfortable all summer long with these breathable linen beach shorts. Crafted from premium linen fabric, they offer a relaxed fit perfect for the beach, poolside, or casual outings. 100% breathable linen fabric Relaxed, comfortable fit Elastic waistband with drawstring for adjustable fit Side pockets for everyday convenience Available in multiple colors and sizes Your go-to summer essential — pair with a casual tee or wear open over a swimsuit for effortless beach style. - FocusForge
-  Updated: 2026-05-31T21:46:02Z
+  Updated: 2026-06-10T04:51:53Z
   Vendor: FocusForge
   Product Type: Clothing Accessories
   Availability: Available
@@ -2352,7 +2352,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/1216023741171.jpg?v=1778668857
     Price: $25.00 CAD
 - [Summer Beach Pants Shorts For Men - FocusForge](https://discountgear.site/products/summer-beach-pants-shorts-for-men): Men's Summer Beach Pants & ShortsVersatile and stylish, these summer beach pants are designed for the man on the go. Whether you're hitting the sand, exploring the boardwalk, or lounging by the pool, these shorts deliver comfort and a laid-back look. Lightweight, quick-dry fabric ideal for warm weather Relaxed fit with elastic waistband and drawstring Deep side pockets for essentials Versatile style — beach-ready or casual street wear Available in multiple sizes and colors Upgrade your summer wardrobe with a pair that goes from beach to bar without missing a beat. - FocusForge
-  Updated: 2026-05-31T21:46:11Z
+  Updated: 2026-06-10T04:51:54Z
   Vendor: FocusForge
   Product Type: Clothing Accessories
   Availability: Available
@@ -2558,7 +2558,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/592d3da5-9b78-4563-a924-c9ba753a7dab.jpg?v=1778669000
     Price: $25.00 CAD
 - [Kids Thickened Fleece Cotton Shoes – Boys & Girls - FocusForge](https://discountgear.site/products/girls-plus-fleece-two-cotton-shoes-thickened-boys): Warm & Cozy Thickened Fleece Cotton Shoes for KidsKeep little feet warm and comfortable with these thickened fleece-lined cotton shoes. Designed for both boys and girls, they provide extra insulation and a soft feel perfect for cooler weather. Thickened fleece lining for superior warmth Soft cotton outer shell — gentle on little feet Non-slip sole for safe indoor and outdoor wear Easy slip-on design for quick dressing Available in multiple sizes for toddlers and kids A cozy essential for fall and winter — your kids will love the warmth and comfort all day long. - FocusForge
-  Updated: 2026-05-31T21:46:14Z
+  Updated: 2026-06-10T04:51:54Z
   Vendor: FocusForge
   Product Type: Shoe accessories
   Availability: Available
@@ -2628,7 +2628,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/e40a17e8-bb5b-41ed-84fb-a683933f28db.jpg?v=1778669174
     Price: $50.00 CAD
 - [Women's Corset Bodysuit Shapewear – Postpartum Slimming Body Shaper - FocusForge](https://discountgear.site/products/bodysuit-women-corset-shapewear-postpartum-abdomen-hips-waist-cincher-slimming-body-shaper-underwear-hot-shapers): Postpartum Slimming Bodysuit & Corset Shapewear for WomenReclaim your confidence with this all-in-one corset bodysuit designed to slim and support your abdomen, hips, and waist. Ideal for postpartum recovery or everyday shaping, it delivers a smooth, sculpted silhouette under any outfit. Targets abdomen, hips, and waist for full-torso shaping Firm compression for postpartum support and recovery Breathable, stretchy fabric for all-day comfort Seamless design — invisible under clothing Available in multiple sizes including plus sizes Look and feel your best every day — whether you're postpartum or simply want a sleek, confident silhouette. - FocusForge
-  Updated: 2026-05-31T21:46:16Z
+  Updated: 2026-06-10T04:51:54Z
   Vendor: FocusForge
   Product Type: Clothing Accessories
   Availability: Available
@@ -2658,7 +2658,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/1574686390002_537a74bf-2acb-4aef-babf-3d06f7345614.jpg?v=1778669284
     Price: $20.00 CAD
 - [Women's Slimming Suspender Dress – Tummy Control Shapewear Skirt - FocusForge](https://discountgear.site/products/tight-suspender-dress-for-shapewear-slimming-bottoming-skirt-support-tummy-corset-womens-clothing): Slimming Suspender Dress with Tummy ControlThis elegant suspender dress doubles as powerful shapewear, smoothing your tummy and supporting your figure while keeping you looking chic. A perfect bottoming piece that works under dresses, skirts, or on its own. Built-in tummy corset for firm, flattering support Suspender straps for a secure, comfortable fit Smooth, stretchy fabric that hugs your curves Seamless design — invisible under outerwear Versatile — wear as a slip dress or shapewear layer The ultimate 2-in-1 — look stunning and feel supported from morning to night. - FocusForge
-  Updated: 2026-05-31T21:46:20Z
+  Updated: 2026-06-10T04:51:54Z
   Vendor: FocusForge
   Product Type: Clothing Accessories
   Availability: Available
@@ -2744,7 +2744,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1278/0889/files/14671c32-ad8d-4ef0-a35a-41116bc51eb8.jpg?v=1778669385
     Price: $20.00 CAD
 - [Women's Waist Trainer Corset – Slimming Body Belt & Modeling Strap - FocusForge](https://discountgear.site/products/waist-trainer-women-shapers-corset-shapewear-slimming-suits-body-belt-modeling-strap): Waist Trainer Corset & Slimming Body Belt for WomenSculpt and define your waistline with this powerful waist trainer corset. Designed to cinch your midsection and support your posture, it's the go-to shaping solution for workouts, daily wear, or postpartum recovery. Strong compression modeling strap for instant waist definition Supports posture and back during workouts or daily activities Breathable, sweat-enhancing fabric to maximize results Adjustable hook-and-eye closure for a customized fit Available in multiple sizes including plus sizes Train smarter, look slimmer — wear it to the gym or under your everyday outfit for all-day shaping. - FocusForge
-  Updated: 2026-05-31T21:46:25Z
+  Updated: 2026-06-10T04:51:54Z
   Vendor: FocusForge
   Product Type: Clothing Accessories
   Availability: Available
@@ -2826,83 +2826,86 @@
 ## Collections
 
 - [Home page - FocusForge](https://discountgear.site/collections/frontpage): - FocusForge
-  Updated: 2026-06-02T22:27:15Z
-  Total Products: 25
+  Updated: 2026-06-10T04:51:47Z
+  Total Products: 26
 - [Best Sellers - FocusForge](https://discountgear.site/collections/best-sellers): Collection - FocusForge
-  Updated: 2026-06-04T02:51:32Z
-  Total Products: 18
+  Updated: 2026-06-10T04:51:47Z
+  Total Products: 20
 - [Trending Deals - FocusForge](https://discountgear.site/collections/trending-deals): Shop our hottest trending deals — top-rated products flying off the shelves. - FocusForge
-  Updated: 2026-06-04T02:51:39Z
-  Total Products: 22
+  Updated: 2026-06-10T04:51:48Z
+  Total Products: 24
 - [Health & Beauty - FocusForge](https://discountgear.site/collections/health-beauty): Collection - FocusForge
-  Updated: 2026-06-04T02:51:32Z
+  Updated: 2026-06-10T04:51:48Z
   Total Products: 2
 - [Jewelry - FocusForge](https://discountgear.site/collections/jewelry): Discover our curated jewelry collection — elegant, personalized pieces perfect for gifting or treating yourself. - FocusForge
-  Updated: 2026-06-04T02:51:32Z
+  Updated: 2026-06-10T04:51:48Z
   Total Products: 2
 - [Health Care - FocusForge](https://discountgear.site/collections/health-care): Shop our Health Care collection — massagers, wellness tools, beauty devices, and personal care essentials to help you look and feel your best. Pain relief & massage tools Skincare & beauty devices Wellness & stress relief Personal care essentials - FocusForge
-  Updated: 2026-06-04T02:51:45Z
+  Updated: 2026-06-10T04:51:48Z
   Total Products: 7
 - [Household Supplies - FocusForge](https://discountgear.site/collections/household-supplies): Collection - FocusForge
-  Updated: 2026-06-04T02:51:33Z
+  Updated: 2026-06-10T04:51:48Z
   Total Products: 1
 - [Electronics - FocusForge](https://discountgear.site/collections/electronics): Collection - FocusForge
-  Updated: 2026-06-04T02:51:43Z
-  Total Products: 10
+  Updated: 2026-06-10T04:51:48Z
+  Total Products: 11
 - [Toys - FocusForge](https://discountgear.site/collections/toys): Shop our Toys & Kids collection — fun, comfortable, and practical items for babies and children. Baby rompers & jumpsuits Kids shoes & footwear Children's clothing & accessories - FocusForge
-  Updated: 2026-06-04T02:51:33Z
+  Updated: 2026-06-10T04:51:48Z
   Total Products: 2
 - [Clothing - FocusForge](https://discountgear.site/collections/clothing): Shop our Clothing collection — stylish apparel and accessories for men, women, and kids. - FocusForge
-  Updated: 2026-06-04T02:51:33Z
-  Total Products: 24
+  Updated: 2026-06-10T04:51:48Z
+  Total Products: 25
 - [Clothing Accessories - FocusForge](https://discountgear.site/collections/clothing-accessories): - FocusForge
-  Updated: 2026-06-03T03:14:59Z
+  Updated: 2026-06-10T04:51:48Z
   Total Products: 25
 - [Home & Garden - FocusForge](https://discountgear.site/collections/home-garden): - FocusForge
-  Updated: 2026-06-03T03:16:37Z
+  Updated: 2026-06-10T04:51:48Z
   Total Products: 7
 - [Cosmetic & Toiletry Bags - FocusForge](https://discountgear.site/collections/cosmetic-toiletry-bags): - FocusForge
-  Updated: 2026-05-31T21:40:31Z
+  Updated: 2026-06-10T04:51:48Z
   Total Products: 3
 - [Personal Care - FocusForge](https://discountgear.site/collections/personal-care-1): - FocusForge
-  Updated: 2026-05-31T21:40:31Z
+  Updated: 2026-06-10T04:51:48Z
   Total Products: 8
 - [Electronics Accessories - FocusForge](https://discountgear.site/collections/electronics-accessories): - FocusForge
-  Updated: 2026-06-02T22:25:01Z
-  Total Products: 9
+  Updated: 2026-06-10T04:51:48Z
+  Total Products: 10
 - [Audio - FocusForge](https://discountgear.site/collections/audio): - FocusForge
-  Updated: 2026-05-31T21:40:32Z
+  Updated: 2026-06-10T04:51:48Z
   Total Products: 1
 - [Household Appliances - FocusForge](https://discountgear.site/collections/household-appliances): - FocusForge
-  Updated: 2026-05-31T21:40:32Z
+  Updated: 2026-06-10T04:51:49Z
   Total Products: 4
 - [Vehicles - FocusForge](https://discountgear.site/collections/vehicles): - FocusForge
-  Updated: 2026-05-31T21:40:32Z
+  Updated: 2026-06-10T04:51:49Z
   Total Products: 2
 - [Household Appliance Accessories - FocusForge](https://discountgear.site/collections/household-appliance-accessories): - FocusForge
-  Updated: 2026-05-31T21:40:33Z
+  Updated: 2026-06-10T04:51:49Z
   Total Products: 1
 - [Trends - FocusForge](https://discountgear.site/collections/trends): - FocusForge
-  Updated: 2026-06-02T22:22:50Z
-  Total Products: 11
+  Updated: 2026-06-10T04:51:49Z
+  Total Products: 12
 - [Clothing - FocusForge](https://discountgear.site/collections/clothing-1): - FocusForge
-  Updated: 2026-05-31T21:40:33Z
-  Total Products: 11
+  Updated: 2026-06-10T04:51:49Z
+  Total Products: 22
 - [Kitchen & Dining - FocusForge](https://discountgear.site/collections/kitchen-dining): - FocusForge
-  Updated: 2026-05-31T21:40:34Z
+  Updated: 2026-06-10T04:51:49Z
   Total Products: 3
 - [Apparel & Accessories - FocusForge](https://discountgear.site/collections/apparel-accessories): - FocusForge
-  Updated: 2026-05-31T21:40:34Z
+  Updated: 2026-06-10T04:51:49Z
   Total Products: 3
 - [Beds & Accessories - FocusForge](https://discountgear.site/collections/beds-accessories): - FocusForge
-  Updated: 2026-05-31T21:40:34Z
+  Updated: 2026-06-10T04:51:49Z
   Total Products: 1
 - [Animals & Pet Supplies - FocusForge](https://discountgear.site/collections/animals-pet-supplies): - FocusForge
-  Updated: 2026-05-31T21:40:35Z
+  Updated: 2026-06-10T04:51:49Z
   Total Products: 1
 - [All Products (ChatGPT-AI Product Description) - FocusForge](https://discountgear.site/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront. - FocusForge
-  Updated: 2026-06-04T03:04:38Z
-  Total Products: 73
+  Updated: 2026-06-10T04:46:48Z
+  Total Products: 74
+- [ Featured Picks - FocusForge](https://discountgear.site/collections/-featured-picks): Hand-picked bestsellers and trending styles featured on our . - FocusForge
+  Updated: 2026-06-10T04:51:49Z
+  Total Products: 5
 
 ## Blogs
 
