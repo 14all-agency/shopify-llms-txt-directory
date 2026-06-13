@@ -6,7 +6,7 @@
 - Timezone: America/Argentina/Buenos_Aires
 - Created At: 2026-05-27T16:59:44Z
 - Contact Email: ea6222178@gmail.com
-- Updated At: 2026-06-05T14:04:12.195Z
+- Updated At: 2026-06-13T00:00:35.330Z
 
 ## Products
 
@@ -2946,7 +2946,7 @@
   Updated: 2026-06-02T12:50:46Z
   Total Products: 0
 - [Mascarillas Faciales - Cuidado de la Piel | KINA](https://cddpu0-8i.myshopify.com/collections/mascarilla-facial): Explorá nuestra colección de mascarillas faciales. Productos de belleza y cuidado de la piel de alta calidad en KINA.
-  Updated: 2026-06-02T12:59:45Z
+  Updated: 2026-06-08T19:46:55Z
   Total Products: 1
 
 ## Store Pages
@@ -2964,6 +2964,10 @@
 
 - [Privacy Policy](https://cddpu0-8i.myshopify.com/policies/privacy-policy)
   Updated: 2026-05-27T13:59:47-03:00
+- [Shipping Policy](https://cddpu0-8i.myshopify.com/policies/shipping-policy)
+  Updated: 2026-06-05T11:36:05-03:00
+- [Contact Information](https://cddpu0-8i.myshopify.com/policies/contact-information)
+  Updated: 2026-06-05T11:36:43-03:00
 
 ## Optional
 
