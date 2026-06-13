@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2026-01-30T21:19:15Z
 - Contact Email: info@drinkandreina.com
-- Updated At: 2026-06-06T00:00:34.574Z
+- Updated At: 2026-06-13T00:00:36.300Z
 
 ## Products
 
 - [Andreina Tuscan Red  <0.5% ABV | Premium Non-Alcoholic Wine from Cortona](https://drinkandreina.com/products/tuscan-red-non-alcoholic-wine): Experience authentic Tuscan winemaking without alcohol. Andreina Syrah from Cortona preserves 99% of wine aromas. 15 calories, <0.5% ABV. Perfect for gatherings. Ships to 43 states.
-  Updated: 2026-05-19T21:17:28Z
+  Updated: 2026-06-11T21:21:21Z
   Vendor: Andreina
   Product Type: Non-Alcoholic Wine
   Availability: Available
@@ -24,10 +24,10 @@
   Updated: 2026-04-14T17:41:10Z
   Total Products: 0
 - [NA Wines](https://drinkandreina.com/collections/na_wines): Experience authentic Tuscan winemaking without alcohol. Andreina Tuscan Red from Cortona preserves wine aromas. 15 calories, <0.5% ABV. Perfect for gatherings
-  Updated: 2026-05-20T11:30:30Z
+  Updated: 2026-06-12T11:34:03Z
   Total Products: 1
 - [New! Shopify performance sharing is now turned on](https://drinkandreina.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-06-02T18:53:08Z
+  Updated: 2026-06-12T11:34:03Z
   Total Products: 1
 
 ## Store Pages
