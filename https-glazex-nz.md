@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2026-04-23T22:56:05Z
 - Contact Email: glazexnz@gmail.com
-- Updated At: 2026-06-05T12:05:09.762Z
+- Updated At: 2026-06-13T00:00:28.254Z
 
 ## Products
 
@@ -28,8 +28,8 @@
 ## Collections
 
 - [Car Care Kits for Windscreen Clarity – Glazex™](https://glazex.nz/collections/car-care-kits): Shop Glazex™ car care kits for crystal-clear windscreen visibility. Premium cleaning solutions with microfiber towels and applicator pads.
-  Updated: 2026-06-05T11:51:05Z
-  Total Products: 4
+  Updated: 2026-06-06T20:19:24Z
+  Total Products: 2
 
 ## Store Pages
 
