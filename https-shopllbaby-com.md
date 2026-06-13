@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-04-21T01:02:05Z
 - Contact Email: littleloungersoffice@gmail.com
-- Updated At: 2026-06-03T00:00:42.898Z
+- Updated At: 2026-06-13T00:00:45.084Z
 
 # LL Baby
 
@@ -114,7 +114,7 @@ https://shopllbaby.com
   Image: https://cdn.shopify.com/s/files/1/1000/0007/1959/files/IMG_0720.jpg?v=1778452514
   Price: $48.00 USD
 - [Velvette Luxury Color Block Nightgown | Peruvian Cotton](https://shopllbaby.com/products/velvette-long-sleeve-mid-calf-length-color-block-robe-with-detail-embellishment-for-women): Shop the Velvette Long Sleeve Color Block Nightgown at Little Loungers — butter-soft luxury sleepwear designed for maternity comfort, postpartum recovery, and elegant everyday lounging.
-  Updated: 2026-05-27T18:03:24Z
+  Updated: 2026-06-06T06:11:50Z
   Vendor: Velvette
   Product Type: Luxury Childrenswear
   Availability: Available
@@ -2255,7 +2255,7 @@ https://shopllbaby.com
   Image: https://cdn.shopify.com/s/files/1/1000/0007/1959/files/PB.jpg?v=1780090849
   Price: $39.99 USD
 - [Little Girls Bow All-In-One Dress | White](https://shopllbaby.com/products/tiny-tribe-bow-all-in-one-dress-white): Shop the premium Tiny Tribe Bow All-In-One Dress in White. An immaculate, ultra-soft baby romper dress featuring a statement bow for effortless boutique styling.
-  Updated: 2026-06-01T10:10:00Z
+  Updated: 2026-06-06T06:11:51Z
   Vendor: Tiny Tribe
   Product Type: Dress
   Availability: Available
@@ -2270,7 +2270,7 @@ https://shopllbaby.com
     Availability: Available
     Price: $48.99 USD
 - [Petit Bateau Baby Girl LS Corduroy Dress | Little Loungers](https://shopllbaby.com/products/petit-bateau-raspberry-girls-dress): Discover the Petit Bateau Baby Girl long sleeve corduroy dress in raspberry. A classic French-style piece curated by Little Loungers for premium gifting.
-  Updated: 2026-06-02T21:09:21Z
+  Updated: 2026-06-03T09:09:22Z
   Vendor: Petit Bateau
   Product Type: Dresses
   Availability: Available
@@ -2285,7 +2285,7 @@ https://shopllbaby.com
     Availability: Available
     Price: $99.99 USD
 - [Petit Bateau 5 Baby Bodysuits with Printed Text | Little Loungers](https://shopllbaby.com/products/petit-bateau-5-baby-bodysuits-printed-text-quotes): Shop the iconic Petit Bateau 5-pack baby wrap bodysuits locally in NYC, each with a sweet French printed phrase and tiny red heart. A timeless newborn essential for gifting, layette, and everyday comfort
-  Updated: 2026-06-02T21:50:36Z
+  Updated: 2026-06-06T06:11:51Z
   Vendor: Petit Bateau
   Product Type: Bodysuits
   Availability: Available
@@ -2300,7 +2300,7 @@ https://shopllbaby.com
     Availability: Available
     Price: $79.99 USD
 - [Petit Bateau Baby Girl Corduroy Blouse Cream Red | Little Loungers](https://shopllbaby.com/products/petit-bateau-baby-girl-corduroy-blouse-bow-embroidery-cream-red): Shop the Petit Bateau baby girl long sleeve corduroy blouse in cream with red bow embroidery. A soft, elegant designer blouse for baby girls, perfect for dressy outfits and everyday charm.
-  Updated: 2026-06-02T21:35:14Z
+  Updated: 2026-06-06T06:11:51Z
   Vendor: Petit Bateau
   Product Type: Blouses
   Availability: Available
@@ -2318,7 +2318,7 @@ https://shopllbaby.com
     Availability: Available
     Price: $81.99 USD
 - [Petit Bateau Girl Stripe Jumper - Red Pink | Little Loungers](https://shopllbaby.com/products/petit-bateau-stripe-jumper-red-pink): Buy the Petit Bateau Girl Stripe Jumper in New York at Little Loungers . Impeccable French heritage tailoring meets exquisite luxury comfort. Local Delivery by Doordash
-  Updated: 2026-06-02T21:53:29Z
+  Updated: 2026-06-03T09:53:07Z
   Vendor: Petit Bateau
   Product Type: Jumpers
   Availability: Available
@@ -2346,22 +2346,22 @@ https://shopllbaby.com
   Updated: 2026-05-26T16:43:09Z
   Total Products: 0
 - [Alimrose](https://shopllbaby.com/collections/alimrose): Founded in Australia, Alimrose has become a global favorite for luxury baby gifting and nursery styling. Known for their signature linen dolls, plush companions, and delicate detailing, Alimrose pieces are designed to be both visually refined and emotionally lasting. Unlike mass-market toys, every item reflects a quiet luxury aesthetic—soft, calming, and intentionally designed for modern nurseries.
-  Updated: 2026-05-27T23:37:38Z
+  Updated: 2026-06-04T13:59:41Z
   Total Products: 21
 - [ACCESSORIES & TOYS](https://shopllbaby.com/collections/accessories-toys): A Keepsake for Tiny Hands Elevate playtime with this exquisitely crafted hand-knit rattle. Designed for sensory discovery, this piece combines the charm of old-world craftsmanship with the safety standards of modern pediatric care.
-  Updated: 2026-05-27T23:37:38Z
+  Updated: 2026-06-04T13:59:51Z
   Total Products: 19
 - [Petit Bateau](https://shopllbaby.com/collections/petit-bateau): Petit Bateau Newborn Essentials – Curated by Little Loungers Shop Petit Bateau newborn essentials curated by Little Loungers—luxury cotton footies, bodysuits & take-home outfits. Perfect for baby gifts and first wardrobes.
-  Updated: 2026-06-02T21:53:30Z
+  Updated: 2026-06-04T13:59:59Z
   Total Products: 31
 - [Baby Shower](https://shopllbaby.com/collections/baby-shower): Baby shower floral design exclusive at Little Loungers in Boro Park—discover soft, elegant newborn outfits and gift sets in delicate prints, curated for timeless gifting.
-  Updated: 2026-05-26T20:14:01Z
+  Updated: 2026-06-04T14:00:17Z
   Total Products: 5
 - [Little Parni](https://shopllbaby.com/collections/little-parni): Looking for Little Parni outfits? Shop designer infant to teen clothing—modern styles, elevated basics, and statement pieces at Little Loungers.
   Updated: 2026-05-26T16:43:10Z
   Total Products: 0
 - [Peluche](https://shopllbaby.com/collections/peluche): Shop luxury peluche plush blankets—soft, cuddly companions for newborns and babies. Perfect for baby gifts, nursery décor, and first keepsakes.
-  Updated: 2026-05-31T05:35:31Z
+  Updated: 2026-06-04T14:01:52Z
   Total Products: 5
 - [n21](https://shopllbaby.com/collections/n21): Discover N21—refined Italian fashion for girls and teens. Statement silhouettes, elevated basics, and effortless luxury for every occasion.
   Updated: 2026-05-26T16:43:10Z
@@ -2370,28 +2370,28 @@ https://shopllbaby.com
   Updated: 2026-05-26T16:43:10Z
   Total Products: 0
 - [Tartine et Chocolat Luxury Baby Clothing & Gifts - LL Baby](https://shopllbaby.com/collections/tartine-et-chocolat): Shop Tartine et Chocolat at LL Baby — French luxury baby pyjamas, newborn gift sets, shoes & more. Timeless style for your little one.
-  Updated: 2026-05-26T20:14:03Z
+  Updated: 2026-06-04T15:23:03Z
   Total Products: 25
 - [Kipp Baby](https://shopllbaby.com/collections/kipp-baby): Luxury fashion for the littlest ones. KIPP™ Baby combines comfortable cuts with sophisticated silhouettes, using premium soft-touch fabrics to ensure your baby stays stylish and cozy from day one.
   Updated: 2026-05-26T16:43:11Z
   Total Products: 0
 - [](https://shopllbaby.com/collections/): Final : Shop the Collection Discover the best deals on our high-quality baby outfits, clothing sets, and essentials. These are our last-remaining pieces from the season, offered at exclusive prices to make room for new arrivals. Whether you’re looking for a cozy gift or stocking up on everyday favorites, this collection features the same premium comfort you love from LL Baby at a fraction of the cost. Please Note: * Availability: Quantities are strictly limited and will not be restocked. Final  Policy: All items in this collection are Final . They are not eligible for returns, exchanges, or store credit. Condition: All items are brand new and meet our high quality standards.
-  Updated: 2026-05-26T20:14:00Z
+  Updated: 2026-06-04T15:29:26Z
   Total Products: 1
 - [OUR EUROPEAN EDIT](https://shopllbaby.com/collections/our-european-edit-1): The European Edit | Seasonal Curated for the modern nursery, our European Edit features a hand-picked selection of premium labels known for sustainable fabrics, thoughtful silhouettes, and timeless design. This collection highlights the best of continental craftsmanship—including favorites like 1+ in the Family—now available at exceptional  pricing. From buttery-soft knits to avant-garde organic cottons, these pieces represent the pinnacle of baby and toddler fashion. Collection Details: The Curation: Includes Spanish and European-designed knitwear, dresses, and layering essentials. Quality Guarantee: All items are brand new, authentic, and held to our strict quality standards. Inventory: Extremely limited quantities. Once a size is sold out, it will not be restocked. Terms of : To offer these exclusive prices, all items in the European Edit are Final . No returns, exchanges, or store credits will be issued.
-  Updated: 2026-05-26T20:14:01Z
+  Updated: 2026-06-04T15:29:27Z
   Total Products: 2
 - [Ely’s & Co](https://shopllbaby.com/collections/ely-s-co): Pure Comfort, Thoughtfully Designed Discover the latest SS26 collection from Elys & Co—where safety, quality, and effortless style come together. Each piece is crafted using the purest materials and designed with the highest safety standards, ensuring your little one stays comfortable, cozy, and cared for. From everyday essentials to beautifully styled outfits, this collection blends softness with modern design—perfect for the season ahead. Why Parents Love It Designed with strict safety standards in mind Made from the purest, baby-friendly materials Crafted for all-day comfort and ease Elevated, modern styles for everyday wear
-  Updated: 2026-05-31T05:35:33Z
+  Updated: 2026-06-04T15:29:32Z
   Total Products: 78
 - [MarMar Copenhagen](https://shopllbaby.com/collections/marmar-copenhagen): MarMar Copenhagen at Little Loungers — Scandinavian luxury for newborns and children. Known for ultra-soft fabrics, minimalist design, and timeless silhouettes, MarMar pieces are perfect for everyday wear, newborn outfits, and elevated gifting. Discover footies, sets, and essentials curated for comfort, quality, and effortless European style.
-  Updated: 2026-05-29T21:40:14Z
+  Updated: 2026-06-04T15:34:53Z
   Total Products: 1
 - [Baby and Toddler example products](https://shopllbaby.com/collections/baby-and-toddler-example-products)
   Updated: 2026-05-26T16:43:11Z
   Total Products: 0
 - [VELVETTE — Butter Soft Luxury Sleepwear for Moms & Moms-to-Be](https://shopllbaby.com/collections/velvette-butter-soft-luxury-sleepwear-for-moms-moms-to-be-1): Wrap yourself in comfort that feels as beautiful as motherhood itself.The VELVETTE collection is crafted from exceptionally soft Peruvian Pima cotton and premium modal blends designed for restful nights, peaceful mornings, and cherished newborn moments. From elegant wrap robes for hospital bags to timeless nightgowns and refined loungewear, every piece is created with comfort, softness, and sophistication in mind. Whether you’re preparing for baby’s arrival, recovering postpartum, or searching for the perfect luxury gift, VELVETTE offers elevated essentials that feel gentle against sensitive skin while maintaining a polished, feminine silhouette. Why Moms Love VELVETTE • Butter-soft Peruvian Pima cotton• Breathable luxury fabrics for year-round comfort• Elegant hospital bag essentials• Timeless silhouettes for maternity & postpartum• Perfect for matching newborn moments• Luxury gifting for baby showers & new moms• Designed for comfort without compromising style At Little Loungers, we believe motherhood deserves softness, beauty, and comfort in every detail. Good things come in Little Loungers packages.
-  Updated: 2026-05-27T23:39:23Z
+  Updated: 2026-06-04T15:52:46Z
   Total Products: 16
 - [Luxury Babywear](https://shopllbaby.com/collections/luxury-babywear): Welcome to Luxury Babywear at Little Loungers — a curated destination for elevated newborn essentials, heirloom layette, butter-soft footies, refined knitwear, and timeless baby gifting. For over 30 years, Little Loungers has specialized in luxury baby clothing thoughtfully selected for modern families seeking softness, sophistication, and exceptional craftsmanship. Inspired by the understated elegance of European childrenswear and quiet luxury aesthetics, this collection brings together premium newborn and infant styles designed for life’s earliest moments. Discover: Luxury layette & take-home outfits Butter-soft footies & matching bonnets Premium Peruvian Pima cotton essentials Elegant knitwear & coordinated sets Heirloom-quality blankets & swaddles Elevated baby shower gifts Scandinavian & European-inspired baby fashion Featuring coveted luxury baby brands including MarMar Copenhagen, Tartine et Chocolat, Cadeau, Jamie Kay, Little Parni, and more, our collection is curated for comfort, timeless dressing, and memorable gifting moments. Perfect for: Hospital homecoming Baby shower gifting First family photos Newborn essentials Luxury nursery wardrobes Gender-neutral baby gifting Good things come in Little Loungers packages.
   Updated: 2026-05-26T16:43:12Z
@@ -2400,22 +2400,22 @@ https://shopllbaby.com
   Updated: 2026-05-26T16:43:12Z
   Total Products: 0
 - [Cadeau Baby Layette at Little Loungers](https://shopllbaby.com/collections/cadeau-baby-layette-at-little-loungers-1): Shop Cadeau Baby Layette at Little Loungers NYC — soft newborn footies, button-look sets, take-me-home outfits, baby blankets, and gift-ready layette essentials for boys and girls.
-  Updated: 2026-05-27T23:40:21Z
+  Updated: 2026-06-04T15:53:05Z
   Total Products: 11
 - [The First Heirloom Collection | Luxury Layette & Newborn Essentials](https://shopllbaby.com/collections/the-first-heirloom-collection-luxury-layette-newborn-essentials): Welcome to The First Heirloom Collection at Little Loungers — an editorial curation of luxury layette, butter-soft footies, newborn essentials, knit sets, blankets, bonnets, and elevated gifting pieces designed for baby’s earliest moments. Inspired by the refined softness and minimalist elegance of modern European babywear, this collection brings together timeless silhouettes, delicate detailing, and heirloom-quality fabrics curated for sophisticated newborn wardrobes. Discover: Luxury newborn layette sets Butter-soft footies & matching bonnets Elegant take-me-home outfits Coordinated blankets & swaddles Premium knitwear & cardigans Elevated newborn gifting essentials Thoughtfully selected for modern parents seeking quiet luxury, comfort, and timeless style, The First Heirloom Collection reflects Little Loungers’ 30 years of expertise in luxury babywear and newborn gifting. Perfect for: hospital homecoming baby shower gifts newborn photography first family moments heirloom gifting Good things come in Little Loungers packages.
   Updated: 2026-05-26T20:14:01Z
   Total Products: 4
 - [Baby Bibs](https://shopllbaby.com/collections/baby-bibs): Celebrate life’s most precious early milestones with our collection of elegant heirloom baby bibs. Crafted with a deep appreciation for timeless design and exquisite craftsmanship, these bibs are more than just a mealtime accessory—they are beautiful keepsakes designed to be passed down through generations. Made from premium, ultra-soft fabrics like organic linen, delicate lace, and fine pima cotton, each piece features intricate detailing, from hand-embroidered motifs to vintage-inspired scalloped edges. Perfect for baby registries, luxury gifting, or special occasions, our bibs ensure your little one looks picture-perfect while staying beautifully protected. The Anatomy of an Heirloom Keepsake: Exquisite Craftsmanship: Featuring delicate embroidery, timeless lace trims, and classic monogram-ready canvases that exude vintage charm. Premium, Gentle Fabrics: Meticulously selected high-grade linens and breathable cottons that are exceptionally soft against a newborn’s sensitive skin. Special Occasion Ready: The ideal finishing touch for dedication ceremonies, christenings, holiday gatherings, and milestone family photoshoots.
-  Updated: 2026-05-29T21:41:13Z
+  Updated: 2026-06-04T16:10:51Z
   Total Products: 20
 - [ESCADA](https://shopllbaby.com/collections/escada): Escada Baby & Kids at Little Loungers Discover the world of Escada Kids at Little Loungers — a curated collection of luxury designer babywear and elevated childrenswear crafted with timeless European sophistication. From elegant newborn layette essentials to refined girls outerwear, Escada blends premium comfort with polished luxury styling designed for modern families who appreciate understated elegance and heirloom-quality craftsmanship. Luxury Newborn Essentials Shop luxury newborn footies, designer baby hats, soft blankets, newborn headbands, and elevated homecoming outfits curated for baby’s earliest moments. The Escada newborn collection is ideal for: Hospital homecoming outfits Luxury baby shower gifts Designer layette wardrobes First family photos Heirloom newborn gifting Quiet luxury baby style European Designer Childrenswear Known worldwide for refined tailoring and timeless silhouettes, Escada Kids delivers luxury girlswear and babywear with elevated fabrics, elegant color palettes, and sophisticated detailing inspired by classic European fashion houses. Why Families Choose Little Loungers For over 30 years, Little Loungers has specialized in luxury baby clothing and premium childrenswear curated for discerning families seeking softness, craftsmanship, and timeless style. Our Escada collection features carefully selected designer baby essentials, luxury outerwear, and elevated gift-worthy pieces designed to become treasured wardrobe favorites. Popular Escada Categories Escada newborn footies Designer baby blankets Luxury newborn gift sets Girls designer outerwear European childrenswear Luxury baby accessories Then set these:
-  Updated: 2026-05-27T22:54:21Z
+  Updated: 2026-06-04T16:11:04Z
   Total Products: 6
 - [Tiny Tribe](https://shopllbaby.com/collections/tiny-tribe): Little Loungers has traveled the globe to bring the best for moms to be
   Updated: 2026-05-31T22:36:33Z
   Total Products: 9
 - [Cera una Volta](https://shopllbaby.com/collections/cera-una-volta)
-  Updated: 2026-05-31T05:08:59Z
+  Updated: 2026-06-04T16:16:09Z
   Total Products: 2
 - [Mini Label](https://shopllbaby.com/collections/mini-label)
   Updated: 2026-05-31T05:35:33Z
