@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2026-03-24T11:13:03Z
 - Contact Email: annb2601mx@gmail.com
-- Updated At: 2026-06-06T00:00:38.034Z
+- Updated At: 2026-06-13T00:00:40.665Z
 
 ## Products
 
 - [Graduation Memory Necklace - Personalized Class of 2026 Unisex Gift](https://jennsjewelrybox.com/products/the-graduation-memory-personalized-necklace-class-of-2026-shop-231720-4186): Celebrate success with the Graduation Memory Necklace, a personalized keepsake for the Class of 2026. Perfect for any graduate’s special day and future memories.
-  Updated: 2026-06-05T13:39:24Z
+  Updated: 2026-06-06T14:51:25Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -33,7 +33,7 @@
     Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_8624_transformation_31042.jpg?v=1779939585
     Price: $89.00 USD
 - [Package Protection - Safeguard Against Loss, Theft & Damage](https://jennsjewelrybox.com/products/package-protection-shop-231720-8994): Secure your deliveries with Package Protection. Protect against loss, theft, and damage for peace of mind. Choose Package Protection today!
-  Updated: 2026-06-05T13:38:46Z
+  Updated: 2026-06-10T21:36:50Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -56,14 +56,14 @@
     Availability: Available
     Price: $7.98 USD
 - [Gift Wrap with Personalized Message - Handcrafted & Customizable](https://jennsjewelrybox.com/products/gift-wrap-with-personalized-message-shop-231720-5050): Get our Gift Wrap with personalized message option. Perfect for special occasions, hand-wrapped with care, and includes your custom note!
-  Updated: 2026-06-05T13:38:25Z
+  Updated: 2026-06-10T21:34:39Z
   Vendor: ShineOn Fulfillment
   Product Type: Gift Wrap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_4428_transformation_12676.png?v=1779917888
   Price: $7.95 USD
 - [Unbreakable Bond Necklace - Perfect Gift for Mom | Elegant Interlocking Hearts](https://jennsjewelrybox.com/products/the-unbreakable-bond-necklace-a-gift-for-mom-shop-231720-3294): Discover the Unbreakable Bond Necklace, a stunning gift for mom featuring interlocking hearts with CZ crystals, high-quality finishes, and adjustable length options.
-  Updated: 2026-06-05T13:40:20Z
+  Updated: 2026-06-06T14:51:26Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -85,7 +85,7 @@
     Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_4489_transformation_13608.jpg?v=1779917356
     Price: $89.00 USD
 - [Asteria Birthstone Pendant - Personalized Name Necklace Gift](https://jennsjewelrybox.com/products/the-asteria-birthstone-pendant-a-personalized-memory-shop-231720-9558): Discover the Asteria Birthstone Pendant, a personalized birthstone pendant necklace with custom name options and 12 dazzling birthstone colors. Perfect for any special occasion!
-  Updated: 2026-06-05T13:37:00Z
+  Updated: 2026-06-06T14:51:26Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -104,7 +104,7 @@
     Availability: Available
     Price: $89.00 USD
 - [Multiple Name Necklace - Personalized Keepsake for Your Loved Ones](https://jennsjewelrybox.com/products/a-beautiful-legacy-to-keep-close-to-your-heart-hand-scripted-with-the-names-of-those-who-mean-the-most-shop-231720-4586-multiple-name-necklace): Discover the beauty of our Multiple Name Necklace, a perfect personalized jewelry piece to keep your loved ones close and cherish your family bond.
-  Updated: 2026-06-05T13:36:11Z
+  Updated: 2026-06-06T14:51:26Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -141,7 +141,7 @@
     Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_10658_transformation_33412.jpg?v=1779938777
     Price: $109.00 USD
 - [Valor Cuban Link Chain - A Symbol of Strength in Stainless or Gold](https://jennsjewelrybox.com/products/the-valor-cuban-link-chain-a-symbol-of-strength-shop-231720-2977): Shop the Valor Cuban Link Chain, a perfect symbol of strength for him. Available in stainless steel or 14K gold, adjustable, stylish, and great for any occasion.
-  Updated: 2026-06-04T23:47:33Z
+  Updated: 2026-06-11T09:17:16Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -149,26 +149,26 @@
   - [Polished Stainless Steel / Standard Box](https://jennsjewelrybox.com/products/the-valor-cuban-link-chain-a-symbol-of-strength-shop-231720-2977?variant=44713113976947)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_4496_transformation_13649.jpg?v=1779917889
-    Price: $59.95 USD
+    Price: $59.00 USD
   - [Polished Stainless Steel / Luxury Box](https://jennsjewelrybox.com/products/the-valor-cuban-link-chain-a-symbol-of-strength-shop-231720-2977?variant=44713114009715)
     Availability: Available
-    Price: $79.95 USD
+    Price: $69.00 USD
   - [18k Yellow Gold  Finish / Standard Box](https://jennsjewelrybox.com/products/the-valor-cuban-link-chain-a-symbol-of-strength-shop-231720-2977?variant=44713114042483)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_4497_transformation_13651.jpg?v=1779917341
-    Price: $74.95 USD
+    Price: $79.00 USD
   - [18k Yellow Gold  Finish / Luxury Box](https://jennsjewelrybox.com/products/the-valor-cuban-link-chain-a-symbol-of-strength-shop-231720-2977?variant=44713114075251)
     Availability: Available
-    Price: $89.95 USD
+    Price: $89.00 USD
 - [Men’s Openwork Watch - Give the Perfect Graduation & Gift for Son](https://jennsjewelrybox.com/products/tutlw-later-shop-231720-8149): Discover the Men’s Openwork Watch, a perfect gift for milestones, birthdays, or just because. Elegant, durable, and loaded with symbolic craftsmanship.
-  Updated: 2026-06-04T22:48:11Z
+  Updated: 2026-06-06T14:51:26Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_4321_transformation_11933.png?v=1779917892
   Price: $129.00 USD
 - [Custom Graduation Portrait Necklace | Elegant Dog Tag for Him [50-70]](https://jennsjewelrybox.com/products/custom-graduation-portrait-necklace-14k-gold-dog-tag-for-him-shop-231720-1627): Discover the perfect Custom Graduation Portrait Necklace for him. Celebrate achievement with a personalized engraved dog tag on a durable, elegant chain.
-  Updated: 2026-06-05T13:35:35Z
+  Updated: 2026-06-06T14:51:27Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -190,7 +190,7 @@
     Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_753_transformation_15472.png?v=1779918625
     Price: $69.00 USD
 - [Magnetic Hearts Clover Necklace – Crystal Four-Heart Pendant in White Gold Finish](https://jennsjewelrybox.com/products/magnetic-hearts-necklace-shop-231720-2999): Discover the elegant Magnetic Hearts Clover Necklace featuring four crystal hearts in a lucky clover design, perfect for everyday wear or a meaningful gift.
-  Updated: 2026-06-04T17:33:49Z
+  Updated: 2026-06-06T14:51:27Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -204,7 +204,7 @@
     Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_10370_transformation_32143.jpg?v=1779918632
     Price: $59.00 USD
 - [Love Knot Necklace - Symbol of Unbreakable Bond in 14k White Gold Finish](https://jennsjewelrybox.com/products/love-knot-necklace-shop-231720-3004): Discover the Love Knot Necklace, a timeless symbol of unbreakable bonds, crafted in 14k white gold with sparkling crystals. Perfect gift for special moments.
-  Updated: 2026-06-04T17:32:05Z
+  Updated: 2026-06-10T20:04:08Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -212,28 +212,28 @@
   - [14K White Gold Finish / Standard Box](https://jennsjewelrybox.com/products/love-knot-necklace-shop-231720-3004?variant=44796334080115)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_4379_transformation_12044.png?v=1779918566
-    Price: $44.00 USD
+    Price: $59.00 USD
   - [14K White Gold Finish / Luxury Box](https://jennsjewelrybox.com/products/love-knot-necklace-shop-231720-3004?variant=44796334112883)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_4381_transformation_12061.png?v=1779918564
-    Price: $54.00 USD
+    Price: $79.00 USD
   - [18K Yellow Gold Finish / Standard Box](https://jennsjewelrybox.com/products/love-knot-necklace-shop-231720-3004?variant=44796334145651)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_4378_transformation_12018.png?v=1779918561
-    Price: $64.00 USD
+    Price: $89.00 USD
   - [18K Yellow Gold Finish / Luxury Box](https://jennsjewelrybox.com/products/love-knot-necklace-shop-231720-3004?variant=44796334178419)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_4380_transformation_12024.png?v=1779918561
-    Price: $84.00 USD
+    Price: $109.00 USD
 - [Love Knot Stud Earrings – Timeless 14k White Gold Finish Jewelry](https://jennsjewelrybox.com/products/love-knot-stud-earrings-shop-231720-7483): Explore the elegance of Love Knot Stud Earrings, featuring a cubic zirconia stone in 14k white gold finish. Perfect for any occasion and everyday wear.
-  Updated: 2026-06-04T17:30:56Z
+  Updated: 2026-06-10T20:05:34Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_3460_transformation_8690.jpg?v=1779918547
-  Price: $29.00 USD
+  Price: $29.95 USD
 - [Forever Love Necklace in 14k White Gold or 18k Yellow Gold Finish](https://jennsjewelrybox.com/products/forever-love-necklace-shop-231720-8579): Shop the Forever Love Necklace with a sparkling cubic zirconia and a polished heart pendant, perfect for lasting love. Available in white or yellow gold finishes.
-  Updated: 2026-06-05T05:24:53Z
+  Updated: 2026-06-06T14:51:27Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -255,7 +255,7 @@
     Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_1583_transformation_9217.jpg?v=1779940362
     Price: $109.00 USD
 - [Cross Leather Bracelet - Men's Black Leather and Steel Accessory](https://jennsjewelrybox.com/products/mens-cross-bracelet-shop-231720-3199-mens-cross-leather-bracelet): Shop the Cross Leather Bracelet for men, featuring a stainless steel cross on genuine black leather, perfect for everyday wear and meaningful gifts. Buy now!
-  Updated: 2026-06-04T17:16:07Z
+  Updated: 2026-06-10T19:52:35Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -269,7 +269,7 @@
     Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_6821_transformation_19502.png?v=1779939677
     Price: $60.00 USD
 - [Custom Vertical Flower Name Necklace – Personalized Birth Flower Jewelry](https://jennsjewelrybox.com/products/vertical-flower-name-necklace-shop-231720-5481-custom-vertical-flower-name-necklace): Create a meaningful gift with our Custom Vertical Flower Name Necklace. Personalized with a name and birth flower, crafted with high-quality materials. Perfect for any occasion!
-  Updated: 2026-06-04T16:49:15Z
+  Updated: 2026-06-06T14:51:28Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -431,7 +431,7 @@
     Availability: Available
     Price: $69.00 USD
 - [Personalized Vertical Name Necklace - Custom Name Pendant in USA](https://jennsjewelrybox.com/products/vertical-name-necklace-shop-231720-3486-personalized-vertical-name-necklace): Shop the Personalized Vertical Name Necklace, a custom name pendant made in the USA, with high-quality materials and adjustable chain for a perfect fit.
-  Updated: 2026-06-05T04:46:44Z
+  Updated: 2026-06-06T14:51:28Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -453,7 +453,7 @@
     Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_4647_transformation_16045.png?v=1779939837
     Price: $84.00 USD
 - [Custom Heart Name Necklace - Personalized Jewelry for Women](https://jennsjewelrybox.com/products/heart-name-necklace-shop-231720-9425-custom-heart-name-necklace): Discover the beauty of a Custom Heart Name Necklace. Perfect personalized jewelry for women, ideal for gifting on special occasions with elegant design and meaning.
-  Updated: 2026-06-05T04:54:35Z
+  Updated: 2026-06-06T14:51:28Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -474,7 +474,7 @@
     Availability: Available
     Price: $69.00 USD
 - [Personalized Pet Name Necklace for Dog & Cat Lovers | Jenn's Jewelry Box](https://jennsjewelrybox.com/products/pet-name-necklace-shop-231720-2870): Celebrate your pet with our Personalized Pet Name Necklace, customizable in elegant script, available in stainless steel or gold, perfect for pet lovers.
-  Updated: 2026-06-05T04:30:41Z
+  Updated: 2026-06-06T14:51:28Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -496,7 +496,7 @@
     Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_4736_transformation_16499.png?v=1779938880
     Price: $79.00 USD
 - [LED Light Up Acrylic Heart Keepsake - Mother’s Day Gift with Wooden Base](https://jennsjewelrybox.com/products/md-heart-plaque-shop-231720-9323-led-light-up-acrylic-heart-keepsake): Celebrate Mom with this LED Light Up Acrylic Heart Keepsake featuring floral design and heartfelt message, beautifully illuminated for a special touch. Perfect Mother’s Day gift!
-  Updated: 2026-06-04T17:13:53Z
+  Updated: 2026-06-06T14:51:28Z
   Vendor: ShineOn Fulfillment
   Product Type: Decorative Plaques
   Availability: Available
@@ -510,7 +510,7 @@
     Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_8198_transformation_23711.png?v=1779940169
     Price: $39.95 USD
 - [Graduate Glow Acrylic Keepsake - LED Light-Up Graduation Photo Display](https://jennsjewelrybox.com/products/graduate-glow-acrylic-keepsake-led-light-up-photo-with-wood-base-shop-231720-3585): Discover the Graduate Glow Acrylic Keepsake, a stunning LED light-up photo with wood base, perfect for celebrating graduation milestones with elegance and sentiment.
-  Updated: 2026-06-04T16:37:39Z
+  Updated: 2026-06-06T14:51:28Z
   Vendor: ShineOn Fulfillment
   Product Type: Decorative Plaques
   Availability: Available
@@ -524,7 +524,7 @@
     Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_8202_transformation_23683.png?v=1779940328
     Price: $39.00 USD
 - [Graphic Dog Tag Keychain - Personalized Gift for Him](https://jennsjewelrybox.com/products/graphic-dog-tag-keychain-shop-231720-8652): Discover the perfect personalized Graphic Dog Tag Keychain for him, available in stainless steel or 18K gold over stainless steel, ideal for any occasion.
-  Updated: 2026-06-05T04:18:24Z
+  Updated: 2026-06-06T14:51:29Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -546,7 +546,7 @@
     Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_1015_transformation_16202.jpg?v=1780590400
     Price: $79.00 USD
 - ["Dad" Memorial Necklace](https://jennsjewelrybox.com/products/dad-memorial-necklace-shop-231720-8028): Carry your cherished memories of Dad with you always with our heartfelt Dad Memorial Necklace. Thoughtfully designed as a beautiful tribute, the word "Dad" is elegantly engraved on a delicately hand-polished coin and accented with black enamel for a striking contrast. Paired with a polished Angel Wing tag, this meaningful piece creates a stylish and comforting reminder of the love, guidance, and presence that will always remain close to your heart. Whether worn as a personal keepsake or given as a sympathy gift, this necklace offers a lasting way to honor his memory every day. Product specifications: • Polished Stainless Steel or 18k Yellow Gold over Stainless Steel • Pendant dimensions: Circle 0.5" (13mm), Wing 0.625" (10mm) • Adjustable 18"-22" cable chain • Lobster clasp closure Each order is lovingly packaged and ready to be cherished for a lifetime!
-  Updated: 2026-06-05T13:41:10Z
+  Updated: 2026-06-06T14:51:29Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -568,7 +568,7 @@
     Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_1604_transformation_8625.png?v=1780602698
     Price: $69.00 USD
 - [Memorial Necklace for Mom](https://jennsjewelrybox.com/products/memorial-necklace-for-mom-shop-231720-9638): Carry your cherished memories of Mom with you always with our heartfelt Mom Memorial Necklace. Thoughtfully designed as a beautiful tribute, the word "Mom" is elegantly engraved on a delicately hand-polished coin and accented with black enamel for a striking contrast. Paired with a polished Angel Wing tag, this meaningful piece creates a stylish and comforting reminder of the love, guidance, and presence that will always remain close to your heart. Whether worn as a personal keepsake or given as a sympathy gift, this necklace offers a lasting way to honor her memory every day. Product specifications: • Polished Stainless Steel or 18k Yellow Gold over Stainless Steel • Pendant dimensions: Circle 0.5" (13mm), Wing 0.625" (10mm) • Adjustable 18"-22" cable chain • Lobster clasp closure Each order is lovingly packaged and ready to be cherished for a lifetime!
-  Updated: 2026-06-05T08:17:38Z
+  Updated: 2026-06-06T14:51:29Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -590,9 +590,9 @@
     Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_1597_transformation_8643.jpg?v=1780604044
     Price: $64.00 USD
 - [Paw Print Acrylic Keepsake with wooden LED base](https://jennsjewelrybox.com/products/paw-print-acrylic-keepsake-with-wooden-led-base-shop-231720-3183): Keep the memory of a beloved pet close with this heartfelt Paw Print Acrylic Keepsake. Thoughtfully designed to honor the love and companionship you shared, this meaningful piece offers comfort while serving as a beautiful tribute to a pet who left paw prints on your heart forever. Perfect for displaying in your home or gifting to someone grieving the loss of a cherished dog or cat, this acrylic keepsake is a lasting reminder that their love and memory will always remain. Product Specifications: Premium acrylic with UV printed design Acrylic Depth: 0.1" (5mm) Corded Wooden Base LED Features: Full product size: 6.5" (16.5cm) height x 5.9" (15cm) width x 1.8" (4.5cm) depth USB power cord (59.5" length) with attached controller to power on / off and to customize multiple lighting and color options First Class Energy Efficient (Electric current: 0.012A Power: 1 W) Battery Powered LED Base Features Full product size: 7" (17.8cm) height x 5.9" (15cm) width x 1.8" (4.5cm) depth Battery Powered LED Base uses a single button to customize light options with an On / Off switch located on the bottom of base First Class Energy Efficient (Electric current: 0.012A Power: 1 W)
-  Updated: 2026-06-05T13:46:08Z
+  Updated: 2026-06-12T05:40:15Z
   Vendor: ShineOn Fulfillment
-  Product Type: Jewelry
+  Product Type: Decorative Plaques
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_5659_transformation_18716.png?v=1780609222
   - [Corded LED Base](https://jennsjewelrybox.com/products/paw-print-acrylic-keepsake-with-wooden-led-base-shop-231720-3183?variant=45069926367347)
@@ -604,7 +604,7 @@
     Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_8200_transformation_23824.png?v=1780609239
     Price: $39.00 USD
 - [Artisan Cross Necklace - Cuban or Snake chain](https://jennsjewelrybox.com/products/artisan-cross-necklace-cuban-or-snake-chain-shop-231720-7371): The Artisan Cross Necklace is a timeless expression of faith, strength, and personal style. Available on a Cuban or Snake chain, this bold yet meaningful piece is designed for the man who appreciates a classic look with deeper significance. Whether given as a gift for a son, grandson, boyfriend, husband, dad, or friend, this necklace serves as a lasting reminder of love, encouragement, and the strength to carry forward with confidence. Thoughtfully designed for everyday wear, it is a meaningful keepsake he can treasure for years to come. Product specifications: 18k yellow gold finish or polished stainless steel Pendant height: 1.3" (33.5mm) Pendant width: 0.8" (19mm) Adjustable Cuban link chain (18”-22”) 9mm lobster clasp
-  Updated: 2026-06-05T11:46:27Z
+  Updated: 2026-06-12T05:38:43Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -625,50 +625,63 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_9506_transformation_27858.jpg?v=1780616593
     Price: $89.00 USD
+- [Black Chronograph Watch | Copper Dial | Stainless Steel | Gift Box Included](https://jennsjewelrybox.com/products/black-chronograph-watch-shop-231720-5336): Give the gift of time with this bold and sophisticated Black Chronograph Watch. Whether you're celebrating a wedding, anniversary, Father's Day, or simply want to show a special man in your life that he's appreciated, this versatile timepiece delivers lasting style and everyday durability. Featuring a striking copper dial with a classic three-dial chronograph face and calendar function, this watch is as functional as it is handsome. Built from premium 316L stainless steel with a scratch-proof, water-resistant finish, it's crafted to keep up with life's moments — big and small. Powered by reliable quartz movement, so it's always ready to wear right out of the box. Your watch arrives beautifully packaged in a gift box, ready to give — no wrapping required. Product Details: Stainless Steel (316L) Luxury Copper Dial Quartz Movement Water Resistance: 3ATM (30m/100ft) Face Diameter: 1.5″ (38.1mm) Watch Strap: 7″ (177.8mm) Adjustable Clasp: 3″ (76.2mm)
+  Updated: 2026-06-12T04:33:51Z
+  Vendor: ShineOn Fulfillment
+  Product Type: Jewelry
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0700/1302/6419/files/asset_4398_transformation_12008.jpg?v=1781197855
+  Price: $89.00 USD
+- [Openwork Skeleton Watch | Automatic Movement | Leather Band | Luxury Gift Box](https://jennsjewelrybox.com/products/openwork-watch-shop-231720-6551): Give the gift of luxury with this handsome and daring timepiece. The Openwork Watch is the perfect blend of classic design and modern styling, making it an essential accessory for your remarkable style. This watch sports a genuine leather strap, is splash resistant, and has increased durability thanks to hardened mineral glass. Our unique skeleton dial feature allows you to peer directly into the inner workings of your watch. Beautifully crafted to be automatic, this watch requires motion instead of batteries. You will keep precise time simply by wearing it, no winding necessary. This magnificent piece makes the perfect gift for yourself or any man in your life looking to add a tasteful element into his wardrobe. Your watch is lovingly packaged in our mahogany style luxury box for easy gifting. Product Specifications: Genuine Black Leather Band Hardened Mineral Crystal Glass 3 ATM Water Resistant Movement: Automatic Band length: 200 mm (approximately 7.9") Adjustment length: 168 mm - 216 mm (6.6" - 8.5")
+  Updated: 2026-06-12T03:09:06Z
+  Vendor: ShineOn Fulfillment
+  Product Type: Jewelry
+  Availability: Available
+  Price: $125.00 USD
 
 ## Collections
 
 - [Home page Collection | Discover Our Best Products for Your Home](https://jennsjewelrybox.com/collections/frontpage): Explore our Home page collection for top-quality products to enhance your living space. Shop now and experience the best in home essentials and decor.
-  Updated: 2026-06-05T13:39:23Z
-  Total Products: 5
+  Updated: 2026-06-11T17:10:47Z
+  Total Products: 6
 - [Milestones Collection - Celebrate Your Achievements with Unique Keepsakes](https://jennsjewelrybox.com/collections/milestones): Discover our Milestones collection, perfect for commemorating special achievements and life moments. Shop now for meaningful keepsakes to cherish forever.
-  Updated: 2026-06-05T13:54:25Z
-  Total Products: 7
+  Updated: 2026-06-11T17:37:56Z
+  Total Products: 9
 - [Personalized Gifts Collection | Unique Custom Gift Ideas for Every Occasion](https://jennsjewelrybox.com/collections/personalized-gifts): Discover the perfect Personalized Gifts for any celebration. Our collection offers unique, custom gifts that will make your loved ones feel special. Shop now for personalized gifts they will cherish.
-  Updated: 2026-06-05T13:39:23Z
-  Total Products: 10
+  Updated: 2026-06-11T17:37:56Z
+  Total Products: 12
 - [Discover Stylish Collections for Her | Perfect Gifts & Fashion for Her](https://jennsjewelrybox.com/collections/gifts-for-her): Explore our exclusive collection for her, featuring trendy fashion, accessories, and gift ideas to celebrate and style her perfectly. Shop now for her.
-  Updated: 2026-06-05T13:39:23Z
+  Updated: 2026-06-10T20:05:35Z
   Total Products: 16
 - [For Him Collection | Stylish and Unique Gifts for Him](https://jennsjewelrybox.com/collections/gifts-for-him): Discover the perfect gifts in our 'For Him' collection. Unique, stylish, and thoughtful options to impress and delight the special man in your life.
-  Updated: 2026-06-05T13:35:34Z
-  Total Products: 7
+  Updated: 2026-06-11T17:37:56Z
+  Total Products: 9
 - [Graduation Gifts | Unique and Memorable Presents for Graduates](https://jennsjewelrybox.com/collections/graduation-gifts): Discover the perfect graduation gifts for celebrating achievements. Shop our wide selection of thoughtful and memorable graduation gifts today.
-  Updated: 2026-06-05T13:39:23Z
-  Total Products: 11
+  Updated: 2026-06-11T17:37:56Z
+  Total Products: 13
 - [Elegant Wedding Collection | Perfect Attire & Accessories for Your Special Day](https://jennsjewelrybox.com/collections/wedding): Discover our stunning Wedding collection featuring elegant attire and accessories to make your special day unforgettable. Shop the best Wedding items now.
-  Updated: 2026-06-05T13:56:48Z
+  Updated: 2026-06-10T20:05:35Z
   Total Products: 6
 - [In Memoriam Collection | Honoring Loved Ones with Respect & Dignity](https://jennsjewelrybox.com/collections/in-memoriam): Explore our In Memoriam collection to find meaningful tributes and memorial items. Celebrate the lives of loved ones with dignity and heartfelt remembrance.
-  Updated: 2026-06-05T13:46:08Z
+  Updated: 2026-06-11T17:40:11Z
   Total Products: 4
 - [All Jewelry Products – Shop Every Style | Jenn's Jewelry Box](https://jennsjewelrybox.com/collections/all-products): Browse every piece in our collection at Jenn's Jewelry Box — necklaces, bracelets, rings, and more.
-  Updated: 2026-06-05T13:39:23Z
-  Total Products: 25
+  Updated: 2026-06-11T17:40:11Z
+  Total Products: 27
 - [Gifts for Mom/Mama/StepMom/Bonus Mom](https://jennsjewelrybox.com/collections/gifts-for-mom-mama-stepmom-bonus-mom): Celebrate the love of a mother, mama, stepmom, or bonus mom with meaningful jewelry and heartfelt keepsakes she’ll treasure for years to come.
-  Updated: 2026-06-05T13:54:25Z
+  Updated: 2026-06-10T20:05:35Z
   Total Products: 8
 - [Featured Gifts](https://jennsjewelrybox.com/collections/featured-gifts-for-every-meaningful-moment): Explore a curated collection of heartfelt jewelry gifts, including timeless necklaces, elegant earrings, and a classic men’s bracelet, thoughtfully chosen to celebrate love, connection, and special moments.
-  Updated: 2026-06-05T13:39:22Z
-  Total Products: 6
+  Updated: 2026-06-11T17:37:56Z
+  Total Products: 7
 - [Meaningful Gifts for Your Daughter/StepDaughter](https://jennsjewelrybox.com/collections/meaningful-gifts-for-your-daughter): Celebrate the special bond you share with meaningful jewelry and heartfelt keepsakes designed to remind your daughter how deeply she is loved.
-  Updated: 2026-06-05T13:36:10Z
+  Updated: 2026-06-10T20:05:35Z
   Total Products: 5
 - [Father’s Day Gifts for Dad/StepDad/Bonus Dad/GrandPa](https://jennsjewelrybox.com/collections/meaningful-father-s-day-gifts-for-dad-stepdad-bonus-dad-grandpa): Celebrate Dad with meaningful gifts designed to honor his strength, love, and the special role he holds in your life.
-  Updated: 2026-06-05T13:35:34Z
-  Total Products: 6
+  Updated: 2026-06-11T17:37:56Z
+  Total Products: 8
 - [Heartfelt Birthday Gifts to Treasure](https://jennsjewelrybox.com/collections/heartfelt-birthday-gifts-to-treasure): Celebrate their special day with thoughtful jewelry and cherished keepsakes designed to make their birthday even more unforgettable.
-  Updated: 2026-06-05T13:37:56Z
+  Updated: 2026-06-10T20:05:35Z
   Total Products: 9
 
 ## Store Pages
