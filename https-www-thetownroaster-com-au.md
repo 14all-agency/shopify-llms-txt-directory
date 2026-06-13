@@ -8,12 +8,12 @@
 - Timezone: Australia/Melbourne
 - Created At: 2021-03-17T00:53:52Z
 - Contact Email: contact@thetownroaster.com.au
-- Updated At: 2026-06-06T00:00:35.450Z
+- Updated At: 2026-06-13T00:00:38.147Z
 
 ## Products
 
 - [Big Easy Espresso Blend coffee beans at The Town Roaster](https://www.thetownroaster.com.au/products/big-easy-espresso-blend): Buy our most popular coffee, Big Easy Espresso Blend coffee beans from The Town Roaster. A rich coffee with a sweet chocolate finish. Free Delivery for orders over $30.
-  Updated: 2026-06-05T21:54:51Z
+  Updated: 2026-06-12T02:21:18Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -73,7 +73,7 @@
     Availability: Available
     Price: $68.00 AUD
 - [Coffee Espresso Blend Subscription at The Town Roaster](https://www.thetownroaster.com.au/products/espresso-blend-subscription): Never run out of coffee again with Espresso Blend Subscription coffee beans from The Town Roaster. With Free Delivery for all subscriptions.
-  Updated: 2026-06-05T11:00:57Z
+  Updated: 2026-06-09T22:02:07Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -133,7 +133,7 @@
     Availability: Available
     Price: $62.00 AUD
 - [Coffee Single Origin Espresso Subscription at The Town Roaster](https://www.thetownroaster.com.au/products/single-origin-espresso-subscription): Never run out of coffee again with Single Origin Espresso Roast Subscription coffee beans from The Town Roaster. With Free Delivery for all subscriptions.
-  Updated: 2026-06-05T00:47:16Z
+  Updated: 2026-06-10T03:17:03Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -214,7 +214,7 @@
   Image: https://cdn.shopify.com/s/files/1/0554/8756/1911/files/Aeropress_Filters.png?v=1774053346
   Price: $16.50 AUD
 - [Colombia Popayan Decaf coffee beans at The Town Roaster](https://www.thetownroaster.com.au/products/colombia-decaf): Buy Colombia Popayan Decaf coffee beans from The Town Roaster. This coffee is nicely balanced with a chocolate sweetness. With Free Delivery for orders over $30.
-  Updated: 2026-06-05T00:48:27Z
+  Updated: 2026-06-10T22:48:57Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -366,7 +366,7 @@
     Availability: Available
     Price: $45.00 AUD
 - [Winter Seasonal Blend](https://www.thetownroaster.com.au/products/winter-blend): Winter Seasonal Espresso Blend coffee beans. A full-bodied, rich coffee tasting of toffee apple. Delicious with milk or black. Free shipping for orders over $30.
-  Updated: 2026-06-05T21:54:48Z
+  Updated: 2026-06-09T22:23:18Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -598,7 +598,7 @@
     Availability: Available
     Price: $73.00 AUD
 - [Colombia El Indio](https://www.thetownroaster.com.au/products/colombia-el-indio): Buy Single Origin Colombia El Indio coffee beans from The Town Roaster. Free Shipping for orders over $30.
-  Updated: 2026-06-02T02:56:04Z
+  Updated: 2026-06-12T01:36:01Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -658,7 +658,7 @@
     Availability: Available
     Price: $83.00 AUD
 - [Organic Espresso Blend coffee beans at The Town Roaster](https://www.thetownroaster.com.au/products/organic-blend): Buy Organic Espresso Blend coffee beans from The Town Roaster. Sourced from Fair-Trade & Organic coffee producers. With Free Delivery for orders over $30.
-  Updated: 2026-06-05T12:30:39Z
+  Updated: 2026-06-09T21:56:36Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -756,7 +756,7 @@
     Availability: Available
     Price: $41.00 AUD
 - [Coffee beans Ethiopia Guji Guribea Organic at The Town Roaster](https://www.thetownroaster.com.au/products/ethiopia-guribea): Buy Single Origin Ethiopia Guji Guribea Organic coffee beans from The Town Roaster. Coffee is organically grown and harvested. With Free Delivery for orders over $30.
-  Updated: 2026-06-03T00:06:17Z
+  Updated: 2026-06-09T23:57:27Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -875,8 +875,50 @@
   - [Ground Stovetop / 1kg](https://www.thetownroaster.com.au/products/ethiopia-chelchele?variant=45363061489847)
     Availability: Available
     Price: $87.00 AUD
+- [Coffee beans Guatemala Chicoj at The Town Roaster](https://www.thetownroaster.com.au/products/guatemala-chicoj): Buy Guatemala Chicoj Single Origin coffee beans from The Town Roaster. The co-op has 7 certifications, including Organic Fairtrade. With Free Delivery for orders over $30.
+  Updated: 2026-06-09T22:23:22Z
+  Vendor: The Town Roaster
+  Product Type: Coffee
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0554/8756/1911/files/Guata_Chicoj_bag_614f197e-e28c-4bb1-a430-2058be467082.jpg?v=1778212938
+  - [Whole / 250g](https://www.thetownroaster.com.au/products/guatemala-chicoj?variant=47194701889719)
+    Availability: Available
+    Price: $30.00 AUD
+  - [Ground Espresso / 250g](https://www.thetownroaster.com.au/products/guatemala-chicoj?variant=47194701922487)
+    Availability: Available
+    Price: $30.00 AUD
+  - [Ground Aeropress / 250g](https://www.thetownroaster.com.au/products/guatemala-chicoj?variant=47194701955255)
+    Availability: Available
+    Price: $30.00 AUD
+  - [Ground Pour-over / 250g](https://www.thetownroaster.com.au/products/guatemala-chicoj?variant=47194701988023)
+    Availability: Available
+    Price: $30.00 AUD
+  - [Ground Plunger / 250g](https://www.thetownroaster.com.au/products/guatemala-chicoj?variant=47194702020791)
+    Availability: Available
+    Price: $30.00 AUD
+  - [Ground Stovetop / 250g](https://www.thetownroaster.com.au/products/guatemala-chicoj?variant=47194702053559)
+    Availability: Available
+    Price: $30.00 AUD
+  - [Whole / 500g](https://www.thetownroaster.com.au/products/guatemala-chicoj?variant=47194702086327)
+    Availability: Available
+    Price: $58.00 AUD
+  - [Ground Espresso / 500g](https://www.thetownroaster.com.au/products/guatemala-chicoj?variant=47194702119095)
+    Availability: Available
+    Price: $58.00 AUD
+  - [Ground Aeropress / 500g](https://www.thetownroaster.com.au/products/guatemala-chicoj?variant=47194702151863)
+    Availability: Available
+    Price: $58.00 AUD
+  - [Ground Pour-over / 500g](https://www.thetownroaster.com.au/products/guatemala-chicoj?variant=47194702184631)
+    Availability: Available
+    Price: $58.00 AUD
+  - [Ground Plunger / 500g](https://www.thetownroaster.com.au/products/guatemala-chicoj?variant=47194702217399)
+    Availability: Available
+    Price: $58.00 AUD
+  - [Ground Stovetop / 500g](https://www.thetownroaster.com.au/products/guatemala-chicoj?variant=47194702250167)
+    Availability: Available
+    Price: $58.00 AUD
 - [Single Origin Coffee El Salvador Finca Talquesalar at The Town Roaster](https://www.thetownroaster.com.au/products/el-salvador-finca-talquesalar): Buy Single Origin El Salvador Finca Talquesalar Filter Roast coffee beans from The Town Roaster. With Free Delivery for orders over $30.
-  Updated: 2026-06-02T05:20:08Z
+  Updated: 2026-06-09T22:23:18Z
   Vendor: The Town Roaster
   Product Type: Coffee
   Availability: Available
@@ -939,16 +981,16 @@
 ## Collections
 
 - [Coffee Beans available to buy online](https://www.thetownroaster.com.au/collections/products): Buy coffee beans online from The Town Roaster. Espresso blends, Single Origins and Filter Roast coffee beans available.
-  Updated: 2026-06-05T11:10:46Z
+  Updated: 2026-06-12T11:12:06Z
   Total Products: 29
 - [Coffee Subscriptions](https://www.thetownroaster.com.au/collections/subscriptions): Buy The Town Roaster Coffee Subscription and never run out of coffee
-  Updated: 2026-06-05T11:10:46Z
+  Updated: 2026-06-12T11:12:06Z
   Total Products: 7
 - [Coffee Making Equipment](https://www.thetownroaster.com.au/collections/equipment): Filter papers and reuasble cups for your coffee making needs.
   Updated: 2026-06-01T11:11:50Z
   Total Products: 15
 - [Gifts](https://www.thetownroaster.com.au/collections/gifts): The Town Roaster gift ideas for the coffee lovers in your life
-  Updated: 2026-06-03T11:10:50Z
+  Updated: 2026-06-11T11:12:04Z
   Total Products: 13
 
 ## Blogs
