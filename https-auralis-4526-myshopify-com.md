@@ -6,17 +6,10 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-05-16T04:53:46Z
 - Contact Email: sainshsood19@gmail.com
-- Updated At: 2026-05-30T00:00:24.689Z
+- Updated At: 2026-06-13T00:00:34.932Z
 
 ## Products
 
-- [8 in 1 Portable Rechargeable Torch LED Flashlight](https://auralis-4526.myshopify.com/products/8-in-1-portable-rechargeable-torch-led-flashlight-cujlnhh62lb9j7s46nc0): 8 in 1 Portable Rechargeable Torch LED Flashlight
-  Updated: 2026-05-24T08:10:27Z
-  Vendor: 18052
-  Product Type: Torches
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1001/0489/6805/files/1739021453274-3.jpg?v=1778939760
-  Price: ₹299.00 INR
 - [Multifunctional Shoe Polishing Brush](https://auralis-4526.myshopify.com/products/multifunctional-shoe-polishing-brush-d65dob50dshc7386rmdg): Multifunctional Shoe Polishing Brush
   Updated: 2026-05-24T08:10:27Z
   Vendor: 19357
