@@ -6,395 +6,395 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-07-20T07:27:11Z
 - Contact Email: garimas.store@gmail.com
-- Updated At: 2026-06-05T15:28:17.128Z
+- Updated At: 2026-06-13T00:00:29.985Z
 
 ## Products
 
 - [Purple Beads Necklace and Bracelet Set for Girls](https://garimas.com/products/purple-beads-necklace-and-bracelet-set-for-girls): This Purple Pink Glass Beads Necklace and Bracelet Set is perfect for young girls who love colorful accessories. Crafted with vibrant glass beads, it adds a playful touch to any outfit while being lightweight and comfortable to wear. Ideal for everyday fun or special occasions, this set encourages creativity and self-expression in your child’s style.
-  Updated: 2026-06-05T15:12:37Z
+  Updated: 2026-06-05T15:55:29Z
   Vendor: GARIMAS
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/20250622_203653_294a3488-202a-4da0-9252-33d80d9efef6.jpg?v=1780672349
   Price: ₹199.00 INR
 - [Baby Pink Pearl Beaded Unicorn Necklace and Bracelet Set for Girls](https://garimas.com/products/baby-pink-pearl-beaded-unicorn-necklace-and-bracelet-set-for-girls): This Purple Pink Glass Beads Necklace and Bracelet Set is perfect for young girls who love colorful accessories. Crafted with vibrant glass beads, it adds a playful touch to any outfit while being lightweight and comfortable to wear. Ideal for everyday fun or special occasions, this set encourages creativity and self-expression in your child’s style.
-  Updated: 2026-06-05T15:13:08Z
+  Updated: 2026-06-05T15:55:30Z
   Vendor: GARIMAS
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/background-editor_output_47c06109-f453-4eeb-9d99-4ebb8ed88a56.png?v=1780672358
   Price: ₹199.00 INR
 - [Pink Pearl Beaded Unicorn Necklace and Bracelet Set for Girls](https://garimas.com/products/pink-pearl-beaded-unicorn-necklace-and-bracelet-set-for-girls): This Purple Pink Glass Beads Necklace and Bracelet Set is perfect for young girls who love colorful accessories. Crafted with vibrant glass beads, it adds a playful touch to any outfit while being lightweight and comfortable to wear. Ideal for everyday fun or special occasions, this set encourages creativity and self-expression in your child’s style.
-  Updated: 2026-06-05T15:13:09Z
+  Updated: 2026-06-05T15:55:30Z
   Vendor: GARIMAS
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/20250622_201454_499c0417-9729-48d2-a49e-951c5f9f66ea.png?v=1780672376
   Price: ₹199.00 INR
 - [Green and Pink Beads Necklace and Bracelet Set for Girls](https://garimas.com/products/green-and-pink-beads-necklace-and-bracelet-set-for-girls): This Purple Pink Glass Beads Necklace and Bracelet Set is perfect for young girls who love colorful accessories. Crafted with vibrant glass beads, it adds a playful touch to any outfit while being lightweight and comfortable to wear. Ideal for everyday fun or special occasions, this set encourages creativity and self-expression in your child’s style.
-  Updated: 2026-06-05T15:13:29Z
+  Updated: 2026-06-05T15:55:30Z
   Vendor: GARIMAS
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/background-editor_output_3a88f3d3-014c-421f-b6a8-b9d882eb48f2.png?v=1780672385
   Price: ₹199.00 INR
 - [Purple and Pink Glass Beads Necklace and Bracelet Set for Girls](https://garimas.com/products/purple-and-pink-pearl-beads-necklace-and-bracelet-set-for-girls): This Purple Pink Glass Beads Necklace and Bracelet Set is perfect for young girls who love colorful accessories. Crafted with vibrant glass beads, it adds a playful touch to any outfit while being lightweight and comfortable to wear. Ideal for everyday fun or special occasions, this set encourages creativity and self-expression in your child’s style.
-  Updated: 2026-06-05T15:14:29Z
+  Updated: 2026-06-05T15:55:30Z
   Vendor: GARIMAS
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/20250617_175958.jpg?v=1780672404
   Price: ₹199.00 INR
 - [Pink Pearl Beads Necklace and Bracelet Set for Girls](https://garimas.com/products/pink-pearl-beads-necklace-and-bracelet-set-for-girls): This Purple Pink Glass Beads Necklace and Bracelet Set is perfect for young girls who love colorful accessories. Crafted with vibrant glass beads, it adds a playful touch to any outfit while being lightweight and comfortable to wear. Ideal for everyday fun or special occasions, this set encourages creativity and self-expression in your child’s style.
-  Updated: 2026-06-05T15:14:48Z
+  Updated: 2026-06-05T15:55:30Z
   Vendor: GARIMAS
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/20250617_180146.jpg?v=1780672479
   Price: ₹199.00 INR
 - [Pink Glass Beads Necklace and Bracelet Set for Girls](https://garimas.com/products/pink-glass-beads-necklace-and-bracelet-set-for-girls): This Purple Pink Glass Beads Necklace and Bracelet Set is perfect for young girls who love colorful accessories. Crafted with vibrant glass beads, it adds a playful touch to any outfit while being lightweight and comfortable to wear. Ideal for everyday fun or special occasions, this set encourages creativity and self-expression in your child’s style.
-  Updated: 2026-06-05T15:15:16Z
+  Updated: 2026-06-06T14:10:39Z
   Vendor: GARIMAS
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/background-editor_output_6926e901-49ec-46ff-9378-f6b8f7ed6fb5.png?v=1780672493
   Price: ₹199.00 INR
 - [Girls Pink and Purple Necklace and Bracelet Combo](https://garimas.com/products/girls-pink-and-purple-necklace-and-bracelet-combo)
-  Updated: 2026-06-05T15:16:15Z
+  Updated: 2026-06-06T14:10:59Z
   Vendor: GARIMAS
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/rn-image_picker_lib_temp_d0063bc1-e17e-45a8-a2bc-a3b82c283788.jpg?v=1780672557
   Price: ₹199.00 INR
 - [Girls Multicolor beaded Necklace with Bracelet](https://garimas.com/products/girls-multicolor-beaded-necklace-with-bracelet)
-  Updated: 2026-06-05T15:17:44Z
+  Updated: 2026-06-06T14:11:11Z
   Vendor: GARIMAS
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/rn-image_picker_lib_temp_7055339f-7cb0-4e55-81c9-18b36d3fd7cc.jpg?v=1780672579
   Price: ₹199.00 INR
 - [Pendant Set Smoky Yellow and CZ studded with Earrings and silver Plated chain](https://garimas.com/products/pendant-set-smoky-yellow-and-cz-studded-with-earrings-and-silver-plated-chain): Elevate your style with this exquisite Pendant Set featuring a stunning Smoky Yellow centerpiece adorned with sparkling CZ stones. The set includes matching earrings and a premium silver-plated chain, creating a harmonious look that transitions effortlessly from day to evening wear. This versatile jewelry set adds a touch of elegance to any outfit.
-  Updated: 2025-11-10T11:22:59Z
+  Updated: 2026-06-05T15:55:31Z
   Vendor: Garimas Lifestyle
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/20250521_125539.jpg?v=1752997103
   Price: ₹999.00 INR
 - [Aqua Blue Pendant Set CZ Studeed with silver Plated chain](https://garimas.com/products/aqua-blue-pendant-set-cz-studeed-with-silver-plated-chain): This exquisite Aqua Blue Pendant Set features brilliant CZ studs that catch the light beautifully, paired with a durable silver-plated chain. The vibrant aqua blue centerpiece creates a refreshing pop of color that complements both casual and formal attire. We've designed this versatile piece to help you express your unique style while ensuring comfort for all-day wear. A perfect addition to your jewelry collection or a thoughtful gift for someone special.
-  Updated: 2025-11-10T11:23:00Z
+  Updated: 2026-06-05T15:55:32Z
   Vendor: Garimas Lifestyle
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/background-editor_output_4ffdeb53-a1eb-4139-b07b-f86d242d58ee.png?v=1752997126
   Price: ₹799.00 INR
 - [Pendant Set  CZ Studded and silver Plated chain Aqua yellow](https://garimas.com/products/pendant-set-cz-studded-and-silver-plated-chain-aqua-yellow): This exquisite Aqua Yellow Pendant Set combines sparkling CZ studded details with an elegant silver-plated chain for a truly eye-catching accessory. The vibrant aqua yellow color brings a fresh, cheerful element to your jewelry collection, making it perfect for brightening up any outfit. We've carefully crafted this pendant set to ensure both beauty and durability, so you can enjoy its radiance for years to come.
-  Updated: 2026-06-05T15:18:55Z
+  Updated: 2026-06-06T14:11:21Z
   Vendor: Garimas Lifestyle
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/background-editor_output_36fc95c9-46fc-49b7-a725-f8be30d900cf.png?v=1752997140
   Price: ₹799.00 INR
 - [Elegant Silver Plated American Diamond Necklace Set](https://garimas.com/products/silver-plated-american-diamond-necklace-sets-with-white-stone-1): Shop our stunning silver plated American diamond necklace set with white stones, perfect for any occasion.
-  Updated: 2026-06-05T15:19:35Z
+  Updated: 2026-06-06T14:11:52Z
   Vendor: Garimas Lifestyle
   Product Type: Necklace Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/background-editor_output_ae2270bd-b10e-400f-a981-3a204e3f8326.png?v=1780672776
   Price: ₹1,428.00 INR
 - [Silver Plated Aqua Yellow American Diamond Necklace](https://garimas.com/products/silver-plated-aqua-yellow-stone-american-diamond-necklace-sets): Shop Silver Plated Aqua Yellow Stone American Diamond Necklace Sets at Garimas. Elevate your style with exquisite fashion jewelry.
-  Updated: 2026-06-05T15:19:55Z
+  Updated: 2026-06-05T15:55:33Z
   Vendor: Garimas Lifestyle
   Product Type: Necklace Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/20250515_131144.jpg?v=1780672795
   Price: ₹1,440.00 INR
 - [Silver Plated Aqua Purple Stone Necklace Set](https://garimas.com/products/silver-plated-aqua-pink-stone-american-diamond-necklace-sets-1): Shop Garimas American Diamond Necklace Sets with stunning aqua pink stones. Elevate your style today!
-  Updated: 2026-06-05T15:20:15Z
+  Updated: 2026-06-06T14:12:06Z
   Vendor: Garimas Lifestyle
   Product Type: Necklace Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/background-editor_output_c6a0d5fd-9874-4d8f-a3d0-491f01f0c4b1.png?v=1780672802
   Price: ₹1,440.00 INR
 - [Black Rose Gold Plated American Diamond Necklace](https://garimas.com/products/black-rose-gold-plated-american-diamond-necklace-sets-with-white-stone): Shop stunning Black Rose Gold Plated American Diamond Necklace Sets with elegant white stones. Perfect for any occasion!
-  Updated: 2026-06-05T15:20:39Z
+  Updated: 2026-06-06T14:13:38Z
   Vendor: Garimas Lifestyle
   Product Type: Necklace Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/background-editor_output_97dbcb88-8a35-4f3b-a17f-22fe767ea8b9.png?v=1780672826
   Price: ₹1,320.00 INR
 - [Rose Gold Plated Diamond Necklace Set with White Stone](https://garimas.com/products/rose-gold-plated-american-diamond-necklace-sets-with-white-stone): Shop our elegant Rose Gold Plated American Diamond Necklace Sets featuring stunning white stones. Perfect for any occasion!
-  Updated: 2026-06-05T15:20:54Z
+  Updated: 2026-06-06T14:13:58Z
   Vendor: Garimas Lifestyle
   Product Type: Necklace Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/background-editor_output_13aafc45-c3f3-4896-92c2-c99a7537467c.png?v=1780672842
   Price: ₹1,596.00 INR
 - [Silver Plated American Diamond Necklace Set](https://garimas.com/products/silver-plated-american-diamond-necklace-sets-with-pink-stone-1): Elevate your style with Garimas' American diamond necklace set featuring a stunning pink stone. Shop elegance today!
-  Updated: 2026-06-05T15:21:28Z
+  Updated: 2026-06-05T15:55:35Z
   Vendor: Garimas Lifestyle
   Product Type: Necklace Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/20250515_125358.jpg?v=1780672889
   Price: ₹1,188.00 INR
 - [Stunning Silver Plated Diamond Necklace Set with Pink Stone](https://garimas.com/products/silver-plated-american-diamond-necklace-sets-with-pink-stone): Upgrade your style with our elegant silver plated American diamond necklace set featuring a beautiful pink stone.
-  Updated: 2026-06-05T15:23:22Z
+  Updated: 2026-06-05T15:55:35Z
   Vendor: Garimas Lifestyle
   Product Type: Necklace Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/20250515_125035.jpg?v=1780673002
   Price: ₹984.00 INR
 - [Elegance with Silver Plated American Diamond Necklace](https://garimas.com/products/silver-plated-american-diamond-necklace-sets-with-aqua-green-stone): Elevate your style with our Silver Plated Necklace Set featuring a stunning Aqua Green Stone. Perfect for any occasion!
-  Updated: 2026-06-05T15:23:51Z
+  Updated: 2026-06-05T15:55:36Z
   Vendor: Garimas Lifestyle
   Product Type: Necklace Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/20250515_125948.jpg?v=1780673030
   Price: ₹999.00 INR
 - [Gold Plated Blue Stone Earrings with American Diamonds](https://garimas.com/products/gold-plated-blue-stone-with-american-diamond-earring-1): Shop stunning gold plated earrings featuring blue stones and American diamonds. Elevate your style with this exquisite jewelry piece today!
-  Updated: 2026-06-05T15:24:30Z
+  Updated: 2026-06-06T14:14:49Z
   Vendor: Garimas Lifestyle
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/rn-image_picker_lib_temp_49694b68-6c5c-43bd-9c89-14d41952f96f.jpg?v=1780673065
   Price: ₹300.00 INR
 - [Green Stone with American Diamond Drop Earring](https://garimas.com/products/green-stone-with-american-diamond-drop-earring-1): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2026-06-05T15:24:32Z
+  Updated: 2026-06-05T15:55:36Z
   Vendor: Garimas Lifestyle
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/rn-image_picker_lib_temp_1b69c395-c2af-4361-a0de-963693f1ba3a.jpg?v=1780673071
   Price: ₹288.00 INR
 - [CZ Stone with American Diamond Drop Earring](https://garimas.com/products/cz-stone-with-american-diamond-drop-earring-1): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2025-11-10T11:23:03Z
+  Updated: 2026-06-05T15:55:36Z
   Vendor: Garimas Lifestyle
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/100932059050_cee55d2cd7df11efafe58584d6140a20_output_0.jpg?v=1752997345
   Price: ₹312.00 INR
 - [Gold Plated Green Stone with American Diamond Earring](https://garimas.com/products/gold-plated-green-stone-with-american-diamond-earring): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2025-11-10T11:23:03Z
+  Updated: 2026-06-05T15:55:37Z
   Vendor: Garimas Lifestyle
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/Screenshot_2025-01-21_151011.png?v=1752997353
   Price: ₹312.00 INR
 - [Gold Plated Blue Stone with American Diamond Earring](https://garimas.com/products/gold-plated-blue-stone-with-american-diamond-earring): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2025-11-10T11:23:03Z
+  Updated: 2026-06-05T15:55:37Z
   Vendor: Garimas Lifestyle
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/100021965883_8703cf1cd7de11ef9e4dd52c6a9efbde_output_0.jpg?v=1752997359
   Price: ₹312.00 INR
 - [Purple Stone American Diamond Brass Drops](https://garimas.com/products/purple-stone-american-diamond-brass-drops): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2026-06-05T15:26:39Z
+  Updated: 2026-06-06T14:14:58Z
   Vendor: Garimas Lifestyle
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/background-editor_output_20e6f93a-a185-4890-98b1-b8201fc57fb4.png?v=1780673184
   Price: ₹468.00 INR
 - [Aqua Blue Stone American Diamond Brass Drops](https://garimas.com/products/aqua-blue-american-diamond-drops): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2025-11-10T11:23:03Z
+  Updated: 2026-06-05T15:55:37Z
   Vendor: Garimas Lifestyle
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/20250108_172001.jpg?v=1752997376
   Price: ₹468.00 INR
 - [Aqua Green Stone American Diamond Brass Drops](https://garimas.com/products/aqua-green-stone-american-diamond-brass-drops): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2026-06-05T15:26:47Z
+  Updated: 2026-06-06T14:15:01Z
   Vendor: Garimas Lifestyle
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/background-editor_output_73821ecd-6446-4aaf-9a1a-a9df2e023ceb.png?v=1780673207
   Price: ₹468.00 INR
 - [CZ Stone with American Diamond Drop Earring](https://garimas.com/products/cz-stone-with-american-diamond-drop-earring): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2026-06-05T15:27:00Z
+  Updated: 2026-06-06T14:15:07Z
   Vendor: Garimas Lifestyle
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/rn-image_picker_lib_temp_3eb90dbe-178f-41d7-9332-c07ed43b0e7c.jpg?v=1780673215
   Price: ₹348.00 INR
 - [Purple Stone with American Diamond Drop Earring](https://garimas.com/products/purple-stone-with-american-diamond-drop-earring): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2026-06-05T15:27:02Z
+  Updated: 2026-06-06T14:06:44Z
   Vendor: Garimas Lifestyle
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/20250214-181149.jpg?v=1780673221
   Price: ₹348.00 INR
 - [Blue Stone with American Diamond Drop Earring](https://garimas.com/products/blue-stone-with-american-diamond-drop-earring): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2025-11-10T11:23:04Z
+  Updated: 2026-06-05T15:55:38Z
   Vendor: Garimas Lifestyle
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/101512105082_99944646d7e011ef9e4dd52c6a9efbde_output_0.jpg?v=1752997399
   Price: ₹348.00 INR
 - [Green Stone with American Diamond Drop Earring](https://garimas.com/products/green-stone-with-american-diamond-drop-earring): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2025-11-10T11:23:04Z
+  Updated: 2026-06-05T15:55:38Z
   Vendor: Garimas Lifestyle
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/101401528040_6f831292d7e011efafe58584d6140a20_output_0.jpg?v=1752997406
   Price: ₹348.00 INR
 - [Aqua Pink Stone with American Diamond Earring](https://garimas.com/products/aqua-pink-stone-with-american-diamond-earring): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2025-11-14T06:49:05Z
+  Updated: 2026-06-06T14:15:21Z
   Vendor: Garimas Lifestyle
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/Screenshot_2025-01-21_151928.png?v=1752997440
   Price: ₹564.00 INR
 - [Purple Stone with American Diamond Earring](https://garimas.com/products/purple-stone-with-american-diamond-earring): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2025-11-10T11:23:05Z
+  Updated: 2026-06-05T15:55:39Z
   Vendor: Garimas Lifestyle
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/100821280495_a4b569acd7df11efafe58584d6140a20_output_0.jpg?v=1752997452
   Price: ₹564.00 INR
 - [Pink American Diamond Studded Crystal Brass Drops & Danglers](https://garimas.com/products/pink-american-diamond-studded-crystal-brass-drops-danglers-1): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2025-11-14T06:49:10Z
+  Updated: 2026-06-06T14:15:47Z
   Vendor: Garimas Lifestyle
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/Screenshot_2025-01-20_220252.png?v=1752997499
   Price: ₹1,032.00 INR
 - [Aqua Green American Diamond Crystal Brass Drops & Danglers](https://garimas.com/products/aqua-green-american-diamond-studded-crystal-brass-drops-danglers): Awesome Latest Trendy Original American Diamond Studded Earrings at Garimas Lifestyle Store
-  Updated: 2025-11-14T06:49:11Z
+  Updated: 2026-06-06T14:08:47Z
   Vendor: Garimas Lifestyle
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/171541119159_2cd490e4d75211efafe58584d6140a20_output_0.jpg?v=1752997508
   Price: ₹1,380.00 INR
 - [Pink American Diamond Crystal Brass Drops & Danglers](https://garimas.com/products/pink-american-diamond-studded-crystal-brass-drops-danglers): Elevate your style with dazzling pink American diamond earrings. Perfect for special occasions, these glamorous drops will make a statement.
-  Updated: 2025-11-14T06:49:12Z
+  Updated: 2026-06-06T14:15:50Z
   Vendor: Garimas Lifestyle
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/163910613727_132ff5acd74d11ef9e4dd52c6a9efbde_output_0.jpg?v=1753284506
   Price: ₹1,500.00 INR
 - [Free Gift Wrapping on Orders Over 999](https://garimas.com/products/gift-wrapping): Enjoy complimentary gift wrapping when you spend over 999. Perfect for adding a special touch to your presents, hassle-free!
-  Updated: 2025-11-10T11:23:06Z
+  Updated: 2026-06-05T15:55:41Z
   Vendor: Garimas Lifestyle
   Product Type: GIft
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/background-editor_output_9de95862-1b37-491b-8dfa-798c2f1082bd.png?v=1752997533
   Price: ₹49.00 INR
 - [Pink Stone with American Diamond Drop Earring](https://garimas.com/products/pink-stone-with-american-diamond-drop-earring-1): Awesome Latest Trendy Original American Diamond  Studded Earrings at Garimas Lifestyle Store
-  Updated: 2025-11-14T06:49:17Z
+  Updated: 2026-06-06T14:15:58Z
   Vendor: Garimas Lifestyle
   Product Type: Earrings
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/20250405_125643.png?v=1752997571
+  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/20250405_125643.png?v=1780673625
   Price: ₹348.00 INR
 - [Silver-Plated Cubic Zirconia Studded Contemporary Drop Earrings](https://garimas.com/products/silver-plated-cubic-zirconia-studded-contemporary-drop-earrings): Elevate your style with our stunning Silver-Plated Cubic Zirconia Studded Contemporary Drop Earrings. These elegant earrings are expertly crafted with silver plating and dazzling cubic zirconia stones that will add a touch of sophistication to any outfit. Perfect for a night out or to add a touch of glamour to your everyday look.
-  Updated: 2025-11-14T06:49:18Z
+  Updated: 2026-06-06T14:15:59Z
   Vendor: Garimas
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/background-editor_output_694cf01b-9e85-452d-bf00-2f9e90d74c0c.png?v=1752997575
+  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/background-editor_output_694cf01b-9e85-452d-bf00-2f9e90d74c0c.png?v=1780673633
   Price: ₹0.00 INR
 - [Purple and Pink Beads Necklace and Bracelet Set for Girls](https://garimas.com/products/purple-and-pink-beads-necklace-and-bracelet-set-for-girls): This Purple Pink Beads Necklace and Bracelet Set is perfect for young girls who love colorful accessories. Crafted with vibrant glass beads, it adds a playful touch to any outfit while being lightweight and comfortable to wear. Ideal for everyday fun or special occasions, this set encourages creativity and self-expression in your child’s style.
-  Updated: 2025-11-14T06:49:55Z
+  Updated: 2026-06-06T14:16:22Z
   Vendor: GARIMAS
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/UntitledProject_1.png?v=1755689797
+  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/UntitledProject_1.png?v=1780673798
   Price: ₹199.00 INR
 - [Pink and Blue Beads Necklace and Bracelet Set for Girls](https://garimas.com/products/pink-and-blue-beads-necklace-and-bracelet-set-for-girls): This Pink and Blue Beads Necklace and Bracelet Set offers a charming accessory duo designed especially for young girls. Crafted with colorful beads in soft pink and blue hues, the set adds a playful yet stylish touch to any outfit. Lightweight and comfortable, it is perfect for everyday wear or special occasions, encouraging creativity and self-expression through fun jewelry. Durable and easy to wear, this set makes an ideal gift that combines fashion with child-friendly design.
-  Updated: 2025-11-14T06:49:57Z
+  Updated: 2026-06-06T14:09:59Z
   Vendor: GARIMAS
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/UntitledProject.png?v=1755690183
   Price: ₹199.00 INR
 - [Pink and Blue Glass Beads Necklace and Bracelet Set for Girls](https://garimas.com/products/pink-and-blue-glass-beads-necklace-and-bracelet-set-for-girls-copy): This Pink and Blue Beads Necklace and Bracelet Set offers a charming accessory duo designed especially for young girls. Crafted with colorful beads in soft pink and blue hues, the set adds a playful yet stylish touch to any outfit. Lightweight and comfortable, it is perfect for everyday wear or special occasions, encouraging creativity and self-expression through fun jewelry. Durable and easy to wear, this set makes an ideal gift that combines fashion with child-friendly design.
-  Updated: 2025-11-14T06:49:58Z
+  Updated: 2026-06-06T14:16:28Z
   Vendor: GARIMAS
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/UntitledProject_2.png?v=1755690660
+  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/UntitledProject_2.png?v=1780673805
   Price: ₹199.00 INR
 - [White and Pink  Beads Necklace and Bracelet Set for Girls](https://garimas.com/products/whiteand-pink-beads-necklace-and-bracelet-set-for-girl): This elegant white and pink beads necklace and bracelet set is designed specifically for girls, combining delicate colors that complement any outfit. Crafted with attention to detail, the lightweight beads ensure comfortable wear throughout the day. Perfect for adding a subtle touch of charm to casual or festive occasions, this set offers both style and versatility in one coordinated accessory pair.
-  Updated: 2025-11-15T08:52:42Z
+  Updated: 2026-06-06T14:16:34Z
   Vendor: GARIMAS
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/UntitledProject_3_fe230b49-5401-4bc8-987c-40619d377db6.png?v=1755796752
+  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/UntitledProject_3_fe230b49-5401-4bc8-987c-40619d377db6.png?v=1780673813
   Price: ₹199.00 INR
 - [Multicolor Necklace and Bracelet Set for Baby Girls](https://garimas.com/products/multicolor-necklace-and-bracelet-set-for-baby-girls): Bring vibrant fun to your baby girl’s wardrobe with this multicolor necklace and bracelet set for baby girls.
-  Updated: 2026-01-01T10:17:41Z
+  Updated: 2026-06-06T14:16:45Z
   Vendor: GARIMAS
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/rn-image_picker_lib_temp_965662be-56f2-42b6-b0e1-97a6f7962401.png?v=1758713298
+  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/rn-image_picker_lib_temp_965662be-56f2-42b6-b0e1-97a6f7962401.png?v=1780673828
   Price: ₹499.00 INR
 - [Sparkle Glass Beads Tassel Bracelet With Cute Enamel Butterfly Charm](https://garimas.com/products/sparkle-glass-beads-tassel-bracelet-with-cute-enamel-butterfly-charm): Elevate your everyday style with this enchanting bracelet that combines the best of delicate design and playful charm. Featuring shimmering glass beads that catch the light beautifully, paired with a graceful tassel and an adorable enamel butterfly charm, this piece brings a touch of whimsy to your wrist. Perfect for layering or wearing solo, it's an ideal accessory for those who appreciate thoughtful details and want to express their unique personality through jewelry.
-  Updated: 2025-11-15T08:52:17Z
+  Updated: 2026-06-06T14:16:48Z
   Vendor: Garimas
   Product Type: Bracelets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/81lS372dwdL._SY695.jpg?v=1762862107
+  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/81lS372dwdL._SY695.jpg?v=1780673830
   Price: ₹499.00 INR
 - [Purple Pink Acrylic Beads Necklace and Bracelet Set for Baby Girls](https://garimas.com/products/purple-pink-acrylic-beads-necklace-and-bracelet-set-for-baby-girls): Bring vibrant fun to your baby girl’s wardrobe with this Multicolor Necklace and Bracelet Set. Soft, safe, and bursting with cheerful colors, this playful set is perfect for everyday wear and special moments. Let her little personality shine bright with every giggle and wiggle!
-  Updated: 2025-11-15T08:52:17Z
+  Updated: 2026-06-06T14:16:50Z
   Vendor: GARIMAS
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/Gemini_Generated_Image_u9xxxuu9xxxuu9xx.png?v=1763195654
+  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/Gemini_Generated_Image_u9xxxuu9xxxuu9xx.png?v=1780673851
   Price: ₹499.00 INR
 - [Multicolor Acrylic Beads Necklace and Bracelet Set for Baby Girls](https://garimas.com/products/multicolor-acrylic-beads-necklace-and-bracelet-set-for-baby-girls): Introduce your little one to playful style with this charming Pink Acrylic Beads Necklace and Bracelet Set. Crafted from lightweight acrylic beads in soft pink tones, this coordinated duo is designed specifically for baby girls with safety and comfort in mind. The smooth, rounded beads are gentle against delicate skin, while the set's cheerful color makes it perfect for special occasions, celebrations, or everyday wear. Each piece is carefully sized for young wearers, ensuring a secure and comfortable fit. A delightful way to add a touch of sparkle to your baby girl's wardrobe while supporting her confidence and self-expression from an early age. Bring vibrant fun to your baby girl’s wardrobe with this Multicolor Necklace and Bracelet Set. Soft, safe, and bursting with cheerful colors, this playful set is perfect for everyday wear and special moments. Let her little personality shine bright with every giggle and wiggle!
-  Updated: 2025-11-15T08:50:57Z
+  Updated: 2026-06-05T15:55:45Z
   Vendor: GARIMAS
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/Screenshot2025-11-10at10.54.31AM.png?v=1763196053
   Price: ₹299.00 INR
 - [Evil Eye Black and White Glass Beads Bracelet , Stretchable Nazariya Charms  2 Pieces](https://garimas.com/products/evil-eye-black-and-white-glass-beads-bracelet-stretchable-nazariya-charms-2-pieces): Elevate your everyday style with this enchanting bracelet that combines the best of delicate design and playful charm. Featuring shimmering glass beads that catch the light beautifully, paired with a graceful tassel and an adorable enamel butterfly charm, this piece brings a touch of whimsy to your wrist. Perfect for layering or wearing solo, it's an ideal accessory for those who appreciate thoughtful details and want to express their unique personality through jewelry.
-  Updated: 2025-11-15T20:59:40Z
+  Updated: 2026-06-06T14:10:29Z
   Vendor: Garimas
   Product Type: Bracelets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/20251103_085744_5cdcd6ac-3288-498e-86b5-caf8337abee9.jpg?v=1763197016
+  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/20251103_085744_5cdcd6ac-3288-498e-86b5-caf8337abee9.jpg?v=1780673855
   Price: ₹199.00 INR
-- [Necklace and Bracelet Set for Girls](https://garimas.com/products/necklace-and-bracelet-set-for-girls): Bring vibrant fun to your baby girl’s wardrobe with this multicolor necklace and bracelet set for baby girls.
-  Updated: 2026-06-04T07:33:37Z
+- [Multicolor Necklace and Bracelet Set for Baby Girls](https://garimas.com/products/necklace-and-bracelet-set-for-girls): Discover the multicolor necklace and bracelet set for baby girls, designed with pastel beads that add sparkle to any outfit for playful occasions.
+  Updated: 2026-06-11T15:41:25Z
   Vendor: GARIMAS
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/rn-image_picker_lib_temp_6af9843e-da82-4b9e-ab91-89f9b5164cb1.png?v=1780534026
+  Image: https://cdn.shopify.com/s/files/1/0714/4433/2734/files/rn-image_picker_lib_temp_6af9843e-da82-4b9e-ab91-89f9b5164cb1.png?v=1780673858
   Price: ₹299.00 INR
 
 ## Collections
 
 - [Garimas Lifestyle | Home page](https://garimas.com/collections/frontpage)
-  Updated: 2026-06-03T20:18:29Z
+  Updated: 2026-06-05T15:55:29Z
   Total Products: 0
-- [Garimas Lifestyle | Kids Fashion Accessories](https://garimas.com/collections/kids-fashion-accessories)
-  Updated: 2026-06-05T15:12:40Z
+- [Trendy Kids Fashion Jewelry For Stylish Youngsters](https://garimas.com/collections/kids-fashion-accessories): Discover beautiful kids fashion jewelry that combines fun and style. Perfect accessories to brighten up any child's outfit.
+  Updated: 2026-06-06T14:06:41Z
   Total Products: 19
-- [Garimas Lifestyle | Necklace Sets](https://garimas.com/collections/necklace-sets): Explore our stunning collection of American Diamonds Necklace Sets, perfect for any occasion. Shop now to elevate your style!
-  Updated: 2026-06-05T15:12:39Z
+- [Fashion Necklace Sets For  - Stylish & Affordable Jewelry](https://garimas.com/collections/necklace-sets): Discover beautiful fashion necklace sets for . Stylish designs perfect for every occasion. Shop now for the best deals on necklace sets.
+  Updated: 2026-06-06T14:06:43Z
   Total Products: 17
-- [Garimas Lifestyle | Pendants](https://garimas.com/collections/pendants)
-  Updated: 2026-06-05T15:12:43Z
+- [Elegant Pendant Collection for Every Style](https://garimas.com/collections/pendants): Discover our exquisite pendant collection featuring unique designs perfect for any occasion and style.
+  Updated: 2026-06-08T06:44:28Z
   Total Products: 5
-- [Garimas Lifestyle | Earrings](https://garimas.com/collections/earrings)
-  Updated: 2026-06-05T15:12:39Z
+- [Elegant Gold Stud Earrings for Every Occasion](https://garimas.com/collections/earrings): Discover stunning gold stud earrings that combine timeless style with comfort. Perfect for daily wear or special events.
+  Updated: 2026-06-06T14:06:39Z
   Total Products: 27
 - [Garimas Lifestyle | Best Seller](https://garimas.com/collections/best-seller)
-  Updated: 2026-06-04T11:20:56Z
+  Updated: 2026-06-05T15:55:29Z
   Total Products: 30
 - [Garimas Lifestyle | New Arrivals](https://garimas.com/collections/new-arrivals)
-  Updated: 2026-06-04T01:33:10Z
+  Updated: 2026-06-05T15:55:29Z
   Total Products: 18
-- [Bracelates](https://garimas.com/collections/bracelates)
-  Updated: 2026-06-05T15:12:34Z
+- [Beaded Bracelets Collection - Stylish & Unique Designs](https://garimas.com/collections/bracelates): Discover our stunning beaded bracelets collection crafted for style and versatility. Perfect accessories to elevate any outfit effortlessly.
+  Updated: 2026-06-06T14:06:49Z
   Total Products: 2
 - [Phone Charms](https://garimas.com/collections/phone-charms)
-  Updated: 2026-06-05T15:12:46Z
+  Updated: 2026-06-08T06:43:09Z
   Total Products: 0
 - [Deals](https://garimas.com/collections/deals)
-  Updated: 2025-11-10T11:22:58Z
+  Updated: 2026-06-05T15:55:30Z
   Total Products: 0
 - [Amazon](https://garimas.com/collections/amazon)
-  Updated: 2026-06-04T11:20:56Z
+  Updated: 2026-06-05T15:55:30Z
   Total Products: 7
 
 ## Blogs
