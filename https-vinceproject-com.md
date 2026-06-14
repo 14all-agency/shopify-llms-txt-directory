@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-12-18T18:28:53Z
 - Contact Email: vitrax1992@gmail.com
-- Updated At: 2026-06-07T00:01:00.693Z
+- Updated At: 2026-06-14T00:01:01.750Z
 
 ## Products
 
@@ -158,12 +158,12 @@
   Image: https://cdn.shopify.com/s/files/1/0882/0378/8636/files/EDA007476102A.jpg?v=1778747061
   Price: £16.33 GBP
 - [Stainless Steel Anti-magnetic Tweezer - ProsKit 1PK-105T Precision Tweezers](https://vinceproject.com/products/proskit-1pk-105t-stainless-steel-anti-magnetic-tweezer-precision-straight-pointed-pincette-140mm): Buy the stainless steel anti-magnetic tweezer ProsKit 1PK-105T for precision electronics, jewelry, and watch industries. Non-magnetic, corrosion-resistant, 140mm.
-  Updated: 2026-05-14T08:24:01Z
+  Updated: 2026-06-08T05:42:53Z
   Vendor: My Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0882/0378/8636/files/TBD06055862.jpg?v=1778747033
-  Price: £17.93 GBP
+  Price: £18.39 GBP
 - [Motorola Moto G15 Screen Protector - 10pcs ENKAY Tempered Glass Film](https://vinceproject.com/products/for-motorola-moto-g15-10pcs-enkay-9h-big-arc-edge-high-aluminum-silicon-tempered-glass-film): Enhance your Motorola Moto G15 with this 10pcs ENKAY high aluminum-silicon tempered glass film. Enjoy HD clarity, case-friendly design, and effortless application.
   Updated: 2026-05-30T05:40:50Z
   Vendor: My Store
@@ -1144,50 +1144,43 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0882/0378/8636/files/TBD0605573401A.jpg?v=1734634609
   Price: £21.79 GBP
-- [For AirPods Pro 2 AhaStyle PT119 Wireless Earphone Split Electroplated Protective Case(Purple)](https://vinceproject.com/products/for-airpods-pro-2-ahastyle-pt119-wireless-earphone-split-electroplated-protective-casepurple): 1. Multi-coloured loose powder, shiny and unique, smooth surface, comfortable to touch2. Real machine moulding, seamless fit, does not affect normal use3. Full-square protection, anti-shock and anti-drop4. Separate design, easy to open and install5. With beaded bracelet hand strap, easy to carry6. Material: TPU7. Attention: only the protective case, not include othersSpecification: General Compatible with Apple: AirPods Pro 2 Package Weight One Package Weight 0.08kgs / 0.19lb One Package Size 12cm * 12cm * 5cm / 4.72inch * 4.72inch * 1.97inch Qty per Carton 96 Carton Weight 8.00kgs / 17.64lb Carton Size 45cm * 33cm * 30cm / 17.72inch * 12.99inch * 11.81inch Loading Container 20GP: 598 cartons * 96 pcs = 57408 pcs 40HQ: 1389 cartons * 96 pcs = 133344 pcs
-  Updated: 2026-05-27T05:43:18Z
-  Vendor: My Store
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0882/0378/8636/files/TBD0605573401B.jpg?v=1734634628
-  Price: £21.79 GBP
-[List Continued](https://vinceproject.com/a/llms-agent/llms.txt?shop=8hbfpz-x4.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDgxNDcyMDk1MDYyMCwibGFzdF92YWx1ZSI6IjE0ODE0NzIwOTUwNjIwIn0%3D)
+[List Continued](https://vinceproject.com/a/llms-agent/llms.txt?shop=8hbfpz-x4.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDgxNDcyMDM5MzU2NCwibGFzdF92YWx1ZSI6IjE0ODE0NzIwMzkzNTY0In0%3D)
 
 ## Collections
 
 - [Home page - Vitrax](https://vinceproject.com/collections/frontpage): Welcome to Vitrax - Your one-stop shop for all your essential needs! Explore a wide range of products and find exactly what you're looking for at our store. Shop now! - Vitrax
-  Updated: 2026-06-06T16:31:52Z
-  Total Products: 46672
+  Updated: 2026-06-13T07:06:05Z
+  Total Products: 46651
 - [Mobile phone accessories - Vitrax](https://vinceproject.com/collections/mobile-phone-accessories): Looking to upgrade your mobile phone with some cool accessories? Our collection of mobile phone accessories has got you covered! From stylish phone cases to durable screen protectors, we have everything you need to keep your device looking and functioning its best. - Vitrax
-  Updated: 2026-06-06T07:40:52Z
+  Updated: 2026-06-13T07:32:33Z
   Total Products: 2593
 - [Apple accessories - Vitrax](https://vinceproject.com/collections/apple-accessories): Explore our collection of Apple accessories and take your device to the next level. With innovative designs and reliable performance, our accessories are the perfect addition to your Apple setup. From headphones to cables, we have everything you need to make the most of your device. - Vitrax
-  Updated: 2026-06-06T07:46:21Z
+  Updated: 2026-06-12T07:10:08Z
   Total Products: 5451
 - [Samsung Accessories - Vitrax](https://vinceproject.com/collections/samsung-accessories): Make the most out of your Samsung gadget with our selection of must-have accessories. Whether you're looking for a durable charger, a convenient phone stand, or a comfortable headset, we have everything you need to enhance your device experience. Stay connected and protected with our reliable products. - Vitrax
-  Updated: 2026-06-06T07:33:20Z
+  Updated: 2026-06-09T07:58:41Z
   Total Products: 1293
 - [Consumer Electronics - Vitrax](https://vinceproject.com/collections/consumer-electronics): Looking for top-quality consumer electronics? Explore Vitrax's wide range of cutting-edge products for all your tech needs. Shop now for the best deals! - Vitrax
-  Updated: 2026-06-06T16:29:44Z
+  Updated: 2026-06-13T07:28:21Z
   Total Products: 2426
 - [Clothing and Beauty - Vitrax](https://vinceproject.com/collections/clothing-and-beauty): Discover the latest trends in clothing and beauty at Vitrax! Elevate your style with our curated collection of fashion and beauty products. Shop now for a trendy makeover! - Vitrax
-  Updated: 2026-06-06T07:16:40Z
-  Total Products: 516
+  Updated: 2026-06-13T19:36:51Z
+  Total Products: 1504
 - [In Car - Vitrax](https://vinceproject.com/collections/in-car): Say goodbye to boring car accessories and hello to Vitrax! Shake up your in car products with our stylish and practical range of products. Whether you're looking for a sleek dashboard camera or a convenient car organizer, we've got you covered. Upgrade your ride today! - Vitrax
-  Updated: 2026-06-06T07:29:14Z
+  Updated: 2026-06-13T07:06:54Z
   Total Products: 1853
 - [Home & Garden - Vitrax](https://vinceproject.com/collections/home-garden): Welcome to Kitchen ware - your one-stop shop for high-quality home products! Discover a wide range of stylish and functional kitchen ware to elevate your cooking experience. Shop now! - Vitrax
-  Updated: 2026-06-06T07:42:34Z
-  Total Products: 4804
+  Updated: 2026-06-13T07:31:56Z
+  Total Products: 4802
 - [Earbuds - Vitrax](https://vinceproject.com/collections/earbuds): Discover superior sound quality and unmatched comfort with our latest collection of earbuds. Elevate your music listening experience today! - Vitrax
-  Updated: 2026-06-06T07:20:01Z
+  Updated: 2026-06-11T07:03:57Z
   Total Products: 59
 - [Mobile phones - Vitrax](https://vinceproject.com/collections/mobile-phones): Looking for the perfect mobile phone? Discover the latest models and deals at Vitrax. Stay connected with top-notch features and unbeatable prices. - Vitrax
-  Updated: 2026-06-06T07:24:39Z
-  Total Products: 1746
+  Updated: 2026-06-13T07:17:17Z
+  Total Products: 1734
 - [Outdoor & Sports - Vitrax](https://vinceproject.com/collections/outdoor-sport): Explore our extensive range of outdoor and sports gear! From hiking essentials to fitness equipment, find everything you need for your next adventure. - Vitrax
-  Updated: 2026-06-06T07:51:01Z
-  Total Products: 4449
+  Updated: 2026-06-13T10:33:08Z
+  Total Products: 4448
 
 ## Blogs
 
@@ -1353,6 +1346,18 @@
     Author: Admin
   - [How to Protect iPad Screen the Right Way](https://vinceproject.com/blogs/news/how-to-protect-ipad-screen): How to Protect iPad Screen the Right Way
     Updated: 2026-06-05T02:03:12Z
+    Author: Admin
+  - [Privacy Screen Protector Benefits Explained](https://vinceproject.com/blogs/news/privacy-screen-protector-benefits): Privacy Screen Protector Benefits Explained
+    Updated: 2026-06-07T01:48:11Z
+    Author: Admin
+  - [How to Choose Privacy Film for Your Phone](https://vinceproject.com/blogs/news/how-to-choose-privacy-film-for-your-phone): How to Choose Privacy Film for Your Phone
+    Updated: 2026-06-09T01:45:24Z
+    Author: Admin
+  - [Do Screen Protectors Reduce Sensitivity?](https://vinceproject.com/blogs/news/do-screen-protectors-reduce-sensitivity): Do Screen Protectors Reduce Sensitivity?
+    Updated: 2026-06-11T01:48:58Z
+    Author: Admin
+  - [Bluetooth Speakers for Everyday Listening](https://vinceproject.com/blogs/news/bluetooth-speakers-for-everyday-listening): Bluetooth Speakers for Everyday Listening
+    Updated: 2026-06-13T01:51:50Z
     Author: Admin
 
 ## Store Pages
