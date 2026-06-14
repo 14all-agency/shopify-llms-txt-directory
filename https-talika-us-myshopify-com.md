@@ -6,19 +6,55 @@
 - Timezone: America/New_York
 - Created At: 2020-09-29T11:31:34Z
 - Contact Email: support@talikacosmetics.com
-- Updated At: 2026-06-03T00:00:21.270Z
+- Updated At: 2026-06-14T00:00:34.259Z
 
 ## Products
 
+- [Bio Enzymes Mask Neck](https://talika-us.myshopify.com/products/bio-enzymes-mask-neck): Talika’s best anti-aging neck sheet mask for reducing wrinkles, firming & tightening the skin. Boosted with collagen for ultimate rejuvenation.
+  Updated: 2026-06-03T16:19:17Z
+  Vendor: TALIKA11509
+  Product Type: Skin Care Masks & Peels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0497/0980/9826/products/anti-ageing_neck_mask01_bd2276cd-0954-4203-82ce-f2287b713afc.jpg?v=1674554968
+  - [1 Mask](https://talika-us.myshopify.com/products/bio-enzymes-mask-neck?variant=42982565806306)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0497/0980/9826/products/anti-ageing_neck_mask01_bd2276cd-0954-4203-82ce-f2287b713afc.jpg?v=1674554968
+    Price: $15.00 USD
+  - [2 Masks](https://talika-us.myshopify.com/products/bio-enzymes-mask-neck?variant=42982565839074)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0497/0980/9826/products/Talika-masks-2-anti-age.jpg?v=1674554966
+    Price: $27.00 USD
+  - [3 Masks](https://talika-us.myshopify.com/products/bio-enzymes-mask-neck?variant=42982565871842)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0497/0980/9826/products/Talika-masks-3-anti-age.jpg?v=1674554966
+    Price: $38.00 USD
+- [Bio-Enzymes Mask Neckline](https://talika-us.myshopify.com/products/bio-enzymes-mask-neckline): Tighten and contour the decolletage with this neckline sheet mask for anti-aging and natural rejuvenation through moisturization.
+  Updated: 2026-06-03T16:19:17Z
+  Vendor: TALIKA11510
+  Product Type: Skin Care Masks & Peels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0497/0980/9826/products/anti-ageing_neckline_mask01_7f5d6c71-2904-463f-96f1-66bfe5c086f3.jpg?v=1674555098
+  - [1 Mask](https://talika-us.myshopify.com/products/bio-enzymes-mask-neckline?variant=42982577471714)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0497/0980/9826/products/anti-ageing_neckline_mask01_7f5d6c71-2904-463f-96f1-66bfe5c086f3.jpg?v=1674555098
+    Price: $15.00 USD
+  - [2 Masks](https://talika-us.myshopify.com/products/bio-enzymes-mask-neckline?variant=42982577504482)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0497/0980/9826/products/Talika-masks-2-de_ucollete_u.jpg?v=1674555100
+    Price: $27.00 USD
+  - [3 Masks](https://talika-us.myshopify.com/products/bio-enzymes-mask-neckline?variant=42982577537250)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0497/0980/9826/products/Talika-masks-3-de_ucollete_u.jpg?v=1674555098
+    Price: $38.00 USD
 - [Shipping insurance](https://talika-us.myshopify.com/products/shipping-insurance)
-  Updated: 2026-06-01T23:15:46Z
+  Updated: 2026-06-13T08:32:09Z
   Vendor: ShopWill
   Product Type: ShopWill
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0497/0980/9826/files/protection.jpg?v=1724942586
   Price: $6.00 USD
 - [Upgrade to Priority Processing](https://talika-us.myshopify.com/products/upgrade-to-priority-processing): With Priority Processing, your order is fast-tracked through our warehouse and dispatched ahead of all standard orders. This optional upgrade ensures your package is picked, packed, and handed off to the carrier as quickly as possible.
-  Updated: 2026-06-02T13:28:47Z
+  Updated: 2026-06-10T18:14:08Z
   Vendor: Talikacosmetics
   Product Type: 
   Availability: Available
@@ -31,13 +67,13 @@
   Updated: 2026-06-01T11:08:20Z
   Total Products: 25
 - [ALL PRODUCTS](https://talika-us.myshopify.com/collections/all-products)
-  Updated: 2026-06-02T11:10:28Z
+  Updated: 2026-06-13T11:10:14Z
   Total Products: 72
 - [EYE](https://talika-us.myshopify.com/collections/eye)
-  Updated: 2026-06-02T11:10:28Z
+  Updated: 2026-06-13T11:10:14Z
   Total Products: 28
 - [FACE](https://talika-us.myshopify.com/collections/face)
-  Updated: 2026-06-02T11:10:28Z
+  Updated: 2026-06-06T03:39:16Z
   Total Products: 20
 - [BIO ENZYMES](https://talika-us.myshopify.com/collections/bio-enzymes)
   Updated: 2026-06-01T11:08:20Z
@@ -70,7 +106,7 @@
   Updated: 2026-05-26T19:56:01Z
   Total Products: 2
 - [BEST SELLERS](https://talika-us.myshopify.com/collections/best-sellers)
-  Updated: 2026-06-02T11:10:28Z
+  Updated: 2026-06-13T11:10:14Z
   Total Products: 34
 - [Popup upselling products](https://talika-us.myshopify.com/collections/popup-upselling-products)
   Updated: 2026-06-02T11:10:28Z
@@ -79,13 +115,13 @@
   Updated: 2026-05-26T19:56:01Z
   Total Products: 6
 - [Gifts Under $15](https://talika-us.myshopify.com/collections/gifts-under-15)
-  Updated: 2026-06-01T11:08:20Z
+  Updated: 2026-06-06T04:52:02Z
   Total Products: 15
 - [Gifts Under $35](https://talika-us.myshopify.com/collections/gifts-under-35)
-  Updated: 2026-05-26T19:56:01Z
+  Updated: 2026-06-06T04:52:02Z
   Total Products: 4
 - [Gifts Under $60](https://talika-us.myshopify.com/collections/gifts-under-60)
-  Updated: 2026-06-02T11:10:28Z
+  Updated: 2026-06-06T04:52:03Z
   Total Products: 22
 - [Stocking Stuffers](https://talika-us.myshopify.com/collections/stocking-stuffers)
   Updated: 2026-06-01T11:08:20Z
@@ -109,13 +145,13 @@
   Updated: 2026-06-02T11:10:28Z
   Total Products: 39
 - [Faire](https://talika-us.myshopify.com/collections/faire)
-  Updated: 2026-06-02T11:10:28Z
+  Updated: 2026-06-13T11:10:14Z
   Total Products: 49
 - [EYE CARE](https://talika-us.myshopify.com/collections/eye-care)
-  Updated: 2026-06-02T11:10:28Z
+  Updated: 2026-06-13T11:10:14Z
   Total Products: 16
 - [LASHES](https://talika-us.myshopify.com/collections/lashes)
-  Updated: 2026-06-02T11:10:28Z
+  Updated: 2026-06-13T11:10:14Z
   Total Products: 19
 - [BROWS](https://talika-us.myshopify.com/collections/brows)
   Updated: 2026-05-31T11:08:45Z
@@ -127,7 +163,7 @@
   Updated: 2026-05-26T19:56:02Z
   Total Products: 10
 - [ALL CONCERNS](https://talika-us.myshopify.com/collections/all-concern): @media (min-width:800px) { .mobile-image img{ display: none; } .desktop-image{ display:block; width: 100%; } } @media (max-width:800px){ .desktop-image img{ display: none; } .mobile-image{ display:block; width: 100%; margin-bottom:20px; } }
-  Updated: 2026-06-02T11:10:28Z
+  Updated: 2026-06-13T11:10:14Z
   Total Products: 45
 - [SETS](https://talika-us.myshopify.com/collections/bundles): Get more for less with our specially curated collection of product sets. Save money on your favorite products and discover new favorites too when you purchase one of our bestselling sets.
   Updated: 2026-05-31T11:08:45Z
@@ -148,22 +184,22 @@
   Updated: 2026-06-02T11:10:28Z
   Total Products: 6
 - [All](https://talika-us.myshopify.com/collections/all)
-  Updated: 2026-06-02T11:10:28Z
+  Updated: 2026-06-13T11:10:14Z
   Total Products: 167
 - [](https://talika-us.myshopify.com/collections/): Save 40% in the Talika ! For a limited time only - all at discounted prices.
   Updated: 2026-05-26T19:56:02Z
   Total Products: 7
 - [all](https://talika-us.myshopify.com/collections/all-1)
-  Updated: 2026-06-02T11:10:28Z
+  Updated: 2026-06-13T11:10:14Z
   Total Products: 182
 - [SH](https://talika-us.myshopify.com/collections/sh)
-  Updated: 2026-06-02T11:10:28Z
+  Updated: 2026-06-13T11:10:14Z
   Total Products: 52
 - [HAIR](https://talika-us.myshopify.com/collections/hair)
   Updated: 2026-05-26T19:56:02Z
   Total Products: 1
 - [EasyGift All Products](https://talika-us.myshopify.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-06-02T11:10:28Z
+  Updated: 2026-06-13T11:10:14Z
   Total Products: 162
 - [Pigment Patches](https://talika-us.myshopify.com/collections/pigment-patches)
   Updated: 2026-05-26T19:56:02Z
@@ -172,7 +208,7 @@
   Updated: 2026-05-26T19:56:03Z
   Total Products: 5
 - [New! Shopify performance sharing is now turned on](https://talika-us.myshopify.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-06-02T11:10:28Z
+  Updated: 2026-06-13T11:10:14Z
   Total Products: 183
 
 ## Blogs
