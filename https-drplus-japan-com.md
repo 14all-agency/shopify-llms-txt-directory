@@ -6,7 +6,7 @@
 - Timezone: Asia/Tokyo
 - Created At: 2022-09-30T02:43:56Z
 - Contact Email: help@drplus-usa.com
-- Updated At: 2026-06-05T00:00:34.361Z
+- Updated At: 2026-06-14T00:00:37.645Z
 
 ## Products
 
@@ -101,16 +101,16 @@
   Updated: 2026-02-20T19:09:47Z
   Total Products: 2
 - [全ての商品](https://drplus-japan.com/collections/all)
-  Updated: 2026-02-20T19:09:47Z
+  Updated: 2026-06-06T06:12:29Z
   Total Products: 15
 - [商品の形状](https://drplus-japan.com/collections/material)
   Updated: 2025-04-21T18:12:20Z
   Total Products: 0
 - [グミ](https://drplus-japan.com/collections/gumi)
-  Updated: 2026-02-20T19:05:15Z
+  Updated: 2026-06-06T06:13:10Z
   Total Products: 4
 - [カプセル](https://drplus-japan.com/collections/capsule)
-  Updated: 2026-02-20T19:09:47Z
+  Updated: 2026-06-06T06:13:24Z
   Total Products: 5
 - [セラム](https://drplus-japan.com/collections/serum)
   Updated: 2025-04-21T18:12:20Z
@@ -119,25 +119,25 @@
   Updated: 2025-04-21T18:12:20Z
   Total Products: 0
 - [ビタミンC](https://drplus-japan.com/collections/ビタミンc)
-  Updated: 2025-04-28T17:45:10Z
+  Updated: 2026-06-06T06:13:11Z
   Total Products: 2
 - [亜鉛](https://drplus-japan.com/collections/zinc)
-  Updated: 2026-02-20T19:09:47Z
+  Updated: 2026-06-06T06:13:11Z
   Total Products: 5
 - [ビオチン](https://drplus-japan.com/collections/biotin)
   Updated: 2025-04-21T18:12:20Z
   Total Products: 0
 - [エルダーベリー](https://drplus-japan.com/collections/black-elderberry)
-  Updated: 2026-02-20T19:09:47Z
+  Updated: 2026-06-06T06:13:12Z
   Total Products: 2
 - [アップルサイダービネガー](https://drplus-japan.com/collections/apple-cider-vinegar)
-  Updated: 2026-02-20T19:05:15Z
+  Updated: 2026-06-06T06:13:12Z
   Total Products: 1
 - [ターメリック](https://drplus-japan.com/collections/turmeric)
-  Updated: 2026-02-20T19:05:15Z
+  Updated: 2026-06-06T06:13:25Z
   Total Products: 2
 - [クルクミン](https://drplus-japan.com/collections/curcumin)
-  Updated: 2025-10-09T17:16:25Z
+  Updated: 2026-06-06T06:13:12Z
   Total Products: 1
 - [亜鉛](https://drplus-japan.com/collections/vitamin-d)
   Updated: 2025-04-21T18:12:21Z
@@ -146,31 +146,31 @@
   Updated: 2025-04-21T18:12:21Z
   Total Products: 0
 - [肌のくすみ](https://drplus-japan.com/collections/dull-skin)
-  Updated: 2025-10-09T17:16:25Z
+  Updated: 2026-06-06T06:13:51Z
   Total Products: 3
 - [肌のハリ](https://drplus-japan.com/collections/firmness)
-  Updated: 2026-02-20T19:09:47Z
+  Updated: 2026-06-06T06:14:01Z
   Total Products: 3
 - [髪の毛のハリ](https://drplus-japan.com/collections/firmness-hair)
-  Updated: 2026-02-20T19:05:15Z
+  Updated: 2026-06-06T06:13:52Z
   Total Products: 1
 - [眠れない](https://drplus-japan.com/collections/sleep)
-  Updated: 2025-04-28T17:50:03Z
+  Updated: 2026-06-06T06:13:52Z
   Total Products: 1
 - [液状](https://drplus-japan.com/collections/液体)
-  Updated: 2025-12-15T02:47:01Z
+  Updated: 2026-06-06T06:36:29Z
   Total Products: 6
 - [ビタミンD3](https://drplus-japan.com/collections/ビタミンd3)
-  Updated: 2025-10-09T17:16:57Z
+  Updated: 2026-06-06T06:36:31Z
   Total Products: 1
 - [腸内環境の改善](https://drplus-japan.com/collections/腸内環境の改善)
-  Updated: 2026-02-20T19:05:15Z
+  Updated: 2026-06-06T06:53:02Z
   Total Products: 2
 - [免疫力の向上](https://drplus-japan.com/collections/免疫力の向上)
-  Updated: 2026-02-20T19:09:47Z
+  Updated: 2026-06-06T06:53:11Z
   Total Products: 4
 - [リポソーム ビタミンC](https://drplus-japan.com/collections/liposomal-vitamin-c-1500mg): @charset "UTF-8"; *{margin:0;padding:0;border:0;} html{font-size:62.5%;}/* -> 10px; */ img{vertical-align: top;} @import url(https://fonts.googleapis.com/css?family=Lato:400,700); @import url(//fonts.googleapis.com/earlyaccess/notosansjp.css); body{ overflow-x: hidden; font-family: "メイリオ",Meiryo,"游ゴシック",YuGothic,"ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","ＭＳ Ｐゴシック","MS PGothic",sans-serif; background: #ffffff; } @media all and (-ms-high-contrast:none) { body { font-family: "メイリオ",Meiryo,"游ゴシック",YuGothic,"ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","ＭＳ Ｐゴシック","MS PGothic",sans-serif; } } @media screen and (min-device-width: 641px){ #contents{ font-size: 18px; margin: 0 calc((100% - 960px) / 2); line-height: 1.7em; } .img-point{ cursor: default!important; } .touka-img :hover{ filter: opacity(100%); } .mv-txt{ margin-top:20px; } .cursor{ cursor: default!important; } .cursor:hover{ filter: opacity(100%); } } @media screen and (max-device-width: 640px) { #contents{ margin: 0 calc((100% - 320px) / 2); font-size: 18px; line-height: 1.7em; } .mv-txt{ margin-top:20px; } } 今までのビタミンCサプリは古い！ビタミンCを封入した最新技術を駆使したサプリメント。 ビタミンCは体内に蓄積できず、熱で壊れてしまったり、尿中に排泄されるため、こまめに摂取しないと効果が実感出来にくかったビタミンCですが、 脂で「リポソーム」化することで、消化器官内での消化、排泄を妨ぎ、ビタミンCの最強効果を閉じ込め、逃したり壊したりすることなく、体内に届けるので、今までのビタミンCよりも、吸収力が圧倒的に違います。
-  Updated: 2025-04-28T17:45:10Z
+  Updated: 2026-06-06T07:06:18Z
   Total Products: 2
 - [アルロース](https://drplus-japan.com/collections/alllrose): オリゴ糖・食物繊維などの混合物一切なしの100％のアルロースです。アルロースは砂糖やはちみつの代替品としてご使用いただけるカロリーゼロの天然の甘味料。自然界にわずかしか存在しない約50種類の希少糖。
   Updated: 2026-05-14T17:49:52Z
@@ -186,9 +186,8 @@
     Updated: 2024-04-26T05:44:00Z
     Author: OR
     Tags: アルロース, カロリーゼロ, ダイエット, 脂肪燃焼, 血糖値低下
-- [ニュース](https://drplus-japan.com/blogs/ニュース)
-  - [リポソームビタミンCとは？高濃度1500mgで毎日の美容・健康習慣に](https://drplus-japan.com/blogs/ニュース/リポソームビタミンcとは-高濃度ビタミンcを毎日の健康習慣に取り入れる理由): リポソームビタミンCとは？高濃度1500mgで毎日の美容・健康習慣に
-    Updated: 2026-05-14T17:36:43Z
+  - [リポソームビタミンCとは？高濃度1500mgで毎日の美容・健康習慣に](https://drplus-japan.com/blogs/ブログ/リポソームビタミンcとは-高濃度ビタミンcを毎日の健康習慣に取り入れる理由): リポソームビタミンCとは？高濃度1500mgで毎日の美容・健康習慣に
+    Updated: 2026-06-12T21:43:02Z
     Author: Reiko Yamada
     Tags: Dr.Plus Formula, カプセルサプリ, ビタミンC, ビタミンCサプリ, リポソームビタミンC, 健康習慣, 免疫サポート, 美容サプリ, 高濃度ビタミンC
 
