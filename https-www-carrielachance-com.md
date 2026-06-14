@@ -24,7 +24,7 @@ Come explore, I think you’ll find something you love 👀👠💗
 - Contact Email: support@carrielachance.com
 - Contact Phone: 1-601-207-0532
 - Address: 2701 Little Elm Pkwy, STE 100-478 Little Elm, TX 75068
-- Updated At: 2026-06-07T00:00:51.826Z
+- Updated At: 2026-06-14T04:00:33.859Z
 
 This site is the official online home of Carrie LaChance, model, creator, and entrepreneur with over 20 years of experience in glamour, pin-up, and high heel photography. Everything you see here is created, curated, and owned by Carrie, featuring exclusive content that cannot be found anywhere else.
 
@@ -2786,64 +2786,7 @@ File Size: 7 MB
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Rubber_Doll_Photo_Set.jpg?v=1744584462
   Price: $60.00 USD
-- [Rubber Doll Video](https://www.carrielachance.com/products/rubber-doll-video-download): Carrie manages to look sexy and cute at the same time in this set and before we get to her outfit her smokin’ body needs to be mentioned, do you guys see those abs? Carrie is wearing a latex tank top, denim short shorts, a denim jacket, and my Christian Louboutin Lady Peep Slingback heels. This is a total good girl next door gone bad look and Carrie is absolutely killing it. Carrie looks good in any and everything but she’s really pulling off this look. This video is from Carrie LaChance – Gallery #174
-
-Denim Shorts Video 🔞
-Run Time: 4 min
-Year: 2015
-File Size: 144 MB
-  Updated: 2026-04-26T20:05:45Z
-  Vendor: Carrie LaChance
-  Product Type: Video Downloads
-  Availability: Available
-  Price: $60.00 USD
-- [Denim Shorts Photo Set](https://www.carrielachance.com/products/denim-shorts-photo-set-download): Carrie manages to look sexy and cute at the same time in this set and before we get to her outfit her smokin’ body needs to be mentioned, do you guys see those abs? Carrie is wearing a latex tank top from Latex &amp; Lovers, denim short shorts, a denim jacket, and my Christian Louboutin Lady Peep Slingback heels. This is a total good girl next door gone bad look and Carrie is absolutely killing it. Carrie looks good in any and everything but she’s really pulling off this look.
-
-Carrie LaChance – Gallery #175 🔞
-Total Images: 51 Photos
-Year: 2015
-File Size: 28 MB
-  Updated: 2026-04-26T20:05:45Z
-  Vendor: Carrie LaChance
-  Product Type: Photo Downloads
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Denim_Shorts_Photo_Set.jpg?v=1744584327
-  Price: $70.00 USD
-- [Denim Shorts Video](https://www.carrielachance.com/products/denim-shorts-video-download): Carrie manages to look sexy and cute at the same time in this set and before we get to her outfit her smokin’ body needs to be mentioned, do you guys see those abs? Carrie is wearing a latex tank top, denim short shorts, a denim jacket, and my Christian Louboutin Lady Peep Slingback heels. This is a total good girl next door gone bad look and Carrie is absolutely killing it. Carrie looks good in any and everything but she’s really pulling off this look. This video is from Carrie LaChance – Gallery #175
-
-Resolution: HD 1920x1080
-Run Time: 4 min
-Year: 2015
-File Size: 144 MB
-  Updated: 2026-04-26T20:05:46Z
-  Vendor: Carrie LaChance
-  Product Type: Video Downloads
-  Availability: Available
-  Price: $50.00 USD
-- [Grocery Shopping Photo Set](https://www.carrielachance.com/products/grocery-shopping-photo-set-download): So next time you're out shopping for groceries, count how many women you see shopping in high heels, dresses, and mini skirts. Then post your findings in the comment section on this page. In my 13 years of modeling, I could fit the number of people I’ve seen on one hand, and have some fingers left over.
-
-Carrie Cam - Gallery 3
-Total Images: 25 Photos
-Year: 2016
-File Size: 312 MB
-  Updated: 2026-04-26T20:05:46Z
-  Vendor: Carrie LaChance
-  Product Type: Photo Downloads
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0268/0684/5514/products/Carrie_Cam_Grocery_Shopping_Photo_Set.jpg?v=1774915181
-  Price: $25.00 USD
-- [Grocery Shopping Video](https://www.carrielachance.com/products/grocery-shopping-video-download): So next time you're out shopping for groceries, count how many women you see shopping in high heels, dresses, and mini skirts. Then post your findings in the comment section on this page. In my 13 years of modeling, I could fit the number of people I’ve seen on one hand, and have some fingers left over. This video is from Carrie Cam - Gallery 3
-
-Grocery Shopping Video
-Run Time: 7 min
-Year: 2016
-File Size: 312 MB
-  Updated: 2026-04-26T20:05:46Z
-  Vendor: Carrie LaChance
-  Product Type: Video Downloads
-  Availability: Available
-  Price: $15.00 USD
-[List Continued](https://www.carrielachance.com/a/llms-agent/llms.txt?shop=carrie-lachance-shop.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo1NTY3NDMxNjcxOTc1LCJsYXN0X3ZhbHVlIjoiNTU2NzQzMTY3MTk3NSJ9)
+[List Continued](https://www.carrielachance.com/a/llms-agent/llms.txt?shop=carrie-lachance-shop.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo1NTY2OTk0ODA4OTk5LCJsYXN0X3ZhbHVlIjoiNTU2Njk5NDgwODk5OSJ9)
 
 ## Collections
 
@@ -2857,28 +2800,28 @@ File Size: 312 MB
   Updated: 2026-06-01T23:25:46Z
   Total Products: 31
 - [Photo Collection](https://www.carrielachance.com/collections/photos): Step into my Photo Shoot Collection, featuring over 20 years of my most iconic shoots. From lingerie and glossy pantyhose to classic risqué pinup looks, it’s all about heels, confidence, and glamour. Every set is bundled with all photos included, just as it was captured.
-  Updated: 2026-06-03T11:09:50Z
+  Updated: 2026-06-07T11:08:50Z
   Total Products: 331
 - [Video Collection](https://www.carrielachance.com/collections/videos): Explore my Video Collection, featuring over 20 years of professionally shot content. From high heel glamour and lingerie to glossy pantyhose and classic risqué moments, these videos capture my signature style in motion. Each one is a polished, cinematic look at some of my most unforgettable shoots.
-  Updated: 2026-06-01T23:36:03Z
+  Updated: 2026-06-07T11:08:50Z
   Total Products: 195
 - [Carrie Cam Collection](https://www.carrielachance.com/collections/carrie-cam): Step into my Carrie Cam Collection, where you get a glimpse into my real, everyday life. From grabbing lunch and driving around to little moments at home, these photos and videos are candid, unfiltered, and personal, giving you a closer look at me beyond the shoots.
   Updated: 2026-06-02T08:28:40Z
   Total Products: 40
 - [Cosplay Collection](https://www.carrielachance.com/collections/cosplay): Step into my Cosplay Collection, filled with all my favorite character-inspired shoots and playful costumes. From flirty and fun to bold and daring, each look lets me step into a different fantasy while still keeping my signature heels and style front and center.
-  Updated: 2026-06-02T08:31:39Z
+  Updated: 2026-06-07T11:08:50Z
   Total Products: 80
 - [Latex Collection](https://www.carrielachance.com/collections/latex): Explore my Latex Collection, where every shoot is all about that ultra-shiny, second-skin look I love. From bold outfits to high-gloss finishes, these sets are sleek, edgy, and full of energy. If you love that striking latex shine paired with my signature heels and attitude, this collection is for you.
   Updated: 2026-06-02T08:31:40Z
   Total Products: 158
 - [Lingerie Collection](https://www.carrielachance.com/collections/lingerie): Step into my Lingerie Collection, featuring all of my favorite shoots in stunning, sexy sets. From delicate and flirty to bold and seductive, every look highlights my love for heels, confidence, and timeless glamour.
-  Updated: 2026-06-03T11:09:50Z
+  Updated: 2026-06-07T11:08:50Z
   Total Products: 167
 - [Pantyhose Collection](https://www.carrielachance.com/collections/pantyhose): Step into my Pantyhose Collection, featuring all of my favorite shoots in silky, sheer pantyhose. From glossy, ultra-smooth finishes to timeless styling, every look highlights my love for legs, heels, and that signature shine that makes each set so irresistible.
   Updated: 2026-06-02T08:31:51Z
   Total Products: 107
 - [Nude Collection](https://www.carrielachance.com/collections/nude): Step into my Artistic Nudes Collection, featuring some of my most revealing and tastefully risqué shoots. These images celebrate confidence, form, and elegance, blending sensuality with a more refined, artistic edge.
-  Updated: 2026-06-02T08:31:42Z
+  Updated: 2026-06-07T11:08:50Z
   Total Products: 256
 - [Leather Collection](https://www.carrielachance.com/collections/leather): Step into my Leather Collection, featuring all of my shoots in bold, edgy leather looks. From sleek and fitted styles to daring statement pieces, every set brings out a powerful, confident side of me with my signature heels and attitude leading the way.
   Updated: 2026-06-02T08:31:42Z
@@ -3241,6 +3184,37 @@ File Size: 312 MB
     Updated: 2026-06-06T00:01:02Z
     Author: Carrie LaChance
     Tags: glossy legs, how to wear pantyhose, leg fashion, modeling, nylons, pantyhose, personal style, tips for modeling with nylons
+  - [Mesmerizing Heels and Sensuous Nights: A Flirtatious Glamour Diary](https://www.carrielachance.com/blogs/carrie-lachance/mesmerizing-heels-and-sensuous-nights-a-flirtatious-glamour-diary): Mesmerizing Heels and Sensuous Nights: A Flirtatious Glamour Diary
+    Updated: 2026-06-07T00:04:07Z
+    Author: Carrie LaChance
+    Tags: alluring experiences, captivating love tales,  diaries,  diary, fantasy, flirtatious nights, glamour, glamour stories, seduction, seductive stories, sensual storytelling
+  - [Stepping into My Dungeon A Behind-the-Scenes Glimpse at Glamor and Edge](https://www.carrielachance.com/blogs/carrie-lachance/stepping-into-my-dungeon-a-behind-the-scenes-glimpse-at-glamor-and-edge): Stepping into My Dungeon A Behind-the-Scenes Glimpse at Glamor and Edge
+    Updated: 2026-06-08T08:00:52Z
+    Author: Carrie LaChance
+    Tags: behind the scense, behind-the-scenes, carrie lachance, creative expression in art, dungeon, edge, exploring alternative communities, fashion trends, glamor, glamour model, heels, high heels, latex model, life of a model, lifestyle blog, outfit of the day, pantyhose, pinup model, sexy model, stilettos
+  - [Capturing Elegance On Camera: Stylish Wardrobe and Posing Tips](https://www.carrielachance.com/blogs/carrie-lachance/capturing-elegance-on-camera-stylish-wardrobe-and-posing-tips): Capturing Elegance On Camera: Stylish Wardrobe and Posing Tips
+    Updated: 2026-06-09T00:02:48Z
+    Author: Carrie LaChance
+    Tags: fashion tips, glamour model, high heels, how to be a model, how to be a model online, how to get into modeling, how to pose for photo shoot, how to pose for photos, modeling, modeling tips, photography, photoshoot, posing techniques, posing tips, social media model, stylish outfit ideas, taking good selfies, tips, wardrobe essentials
+  - [Secrets of Successful Content Creators for Financial Freedom](https://www.carrielachance.com/blogs/carrie-lachance/secrets-of-successful-content-creators-for-financial-freedom): Secrets of Successful Content Creators for Financial Freedom
+    Updated: 2026-06-10T10:00:53Z
+    Author: Carrie LaChance
+  - [Why Men Adore Women in Stilettos: A Psychological Exploration](https://www.carrielachance.com/blogs/carrie-lachance/why-men-adore-women-in-stilettos-a-psychological-exploration): Why Men Adore Women in Stilettos: A Psychological Exploration
+    Updated: 2026-06-11T00:02:12Z
+    Author: Carrie LaChance
+    Tags: attraction, fashion psychology, female allure, heels, high heels, men’s preferences for footwear, psychological effects of stilettos, psychology, psychology of high heels, why men love women in heels
+  - [Romance Unlocked: How to Make Emotional Connections Beyond the First Date](https://www.carrielachance.com/blogs/carrie-lachance/romance-unlocked-how-to-make-emotional-connections-beyond-the-first-date): Romance Unlocked: How to Make Emotional Connections Beyond the First Date
+    Updated: 2026-06-12T00:02:06Z
+    Author: Carrie LaChance
+    Tags: connection, dating, dating advice, emotional connection, first date tips, how to find a high heel girl, how to find right girl, making meaningful relationships, relationship building techniques, romance
+  - [Embrace Femininity The Unfiltered Joy of Wearing Pantyhose](https://www.carrielachance.com/blogs/carrie-lachance/embrace-femininity-the-unfiltered-joy-of-wearing-pantyhose): Embrace Femininity The Unfiltered Joy of Wearing Pantyhose
+    Updated: 2026-06-13T00:01:20Z
+    Author: Carrie LaChance
+    Tags: benefits of pantyhose, glossy tights, hosiery styles, leg fashion, legs, nylons, pantyhose, wearing pantyhose tips
+  - [The High Heel Affair: Inside My Emotionally Charged Seductive Diary](https://www.carrielachance.com/blogs/carrie-lachance/the-high-heel-affair-inside-my-emotionally-charged-seductive-diary): The High Heel Affair: Inside My Emotionally Charged Seductive Diary
+    Updated: 2026-06-14T00:03:47Z
+    Author: Carrie LaChance
+    Tags: emotional journey, empowering intimate tales,  diaries,  diary, glamour, glamour stories, high heel affair blog, romance, seduction, seductive stories, seductive storytelling
 
 ## Store Pages
 
