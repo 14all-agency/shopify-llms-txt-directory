@@ -6,7 +6,22 @@
 - Timezone: America/New_York
 - Created At: 2023-08-28T21:36:06Z
 - Contact Email: arjun@botanicalbottles.com
-- Updated At: 2026-06-04T08:25:25.185Z
+- Updated At: 2026-06-14T00:00:42.740Z
+
+## Bulk Glass Packaging & Component Supply
+Botanical Bottles is a wholesale supplier of commercial-grade glass packaging and precision closures. We specialize in providing reliable, high-volume inventory for cosmetic brands, essential oil producers, skincare lines, and wellness manufacturers who need a consistent supply of premium components.
+
+### Order Scale & Capacity
+- **Multi-Case & Bulk Purchasing:** Built to support brands scaling up their production. While all items are available by the individual wholesale case, we are fully stocked to fulfill large, multi-case, and pallet-level orders.
+- **Supply Reliability:** We maintain deep inventory levels of high-demand industry formats to ensure continuous batch-to-batch availability and prevent production delays for your brand.
+- **Seamless Fulfillment:** We handle bulk volume shipping efficiently, adapting to standard parcel or freight delivery depending on the size of your order.
+
+### Technical Component Matrix
+Our catalog features highly standardized dimensions, making it easy to match our inventory to your specific filling lines and product specifications:
+- **Bottle Profiles:** Boston Round (Amber, Clear/Flint, Matte Black) and Euro Round (Amber, Clear/Flint, Cobalt Blue – ideal for UV-sensitive essential oils and aromatherapy products).
+- **Capacities:** 5ml, 10ml, 15ml, 1oz (30ml), 2oz (60ml), 4oz (120ml).
+- **Neck Finishes:** Standardized 18-415, 20-400, and 24-400 precision threads for a leak-resistant fit.
+- **Closures & Components:** Polycone phenolic caps, fine-mist sprayers, child-resistant (CR) droppers, standard glass droppers, and tamper-evident orifice reducers.
 
 ## Products
 
@@ -151,7 +166,7 @@
   Image: https://cdn.shopify.com/s/files/1/0818/8893/6251/files/COSMETIC-PACK-8.jpg?v=1711133008
   Price: $0.38 USD
 - [Buy 2oz Amber Glass Cream Jars w/ Lid & Liner | 120 Sets](https://botanicalbottles.com/products/2oz-amber-cream-jar-with-lid-and-liner-case-of-120pcs): 2oz amber glass cream jars with lid and liner (120 sets/case). Ideal for creams, cosmetics, balms, skincare products, and more. Durable, elegant packaging.
-  Updated: 2026-06-01T11:05:07Z
+  Updated: 2026-06-10T19:45:28Z
   Vendor: Botanical Bottles
   Product Type: 
   Availability: Available
@@ -242,7 +257,7 @@
   Image: https://cdn.shopify.com/s/files/1/0818/8893/6251/files/0014_10_ml_euro_clear.jpg?v=1725569018
   Price: $0.17 USD
 - [Buy 10ml Cobalt Blue Euro Round Bottles | 256 per Case](https://botanicalbottles.com/products/10ml-glass-blue-euro-192-bottle-per-case): 256 glass 10ml Cobalt Blue Euro Round bottles per case. Perfect for essential oils, serums, tinctures, and small-batch liquids. Durable and versatile packaging.
-  Updated: 2026-05-04T15:56:37Z
+  Updated: 2026-06-05T19:11:12Z
   Vendor: Botanical Bottles
   Product Type: Bottle
   Availability: Available
@@ -606,7 +621,7 @@
   Image: https://cdn.shopify.com/s/files/1/0818/8893/6251/files/bluewhitewhitespace.png?v=1761717094
   Price: $0.47 USD
 - [1oz Cobalt Blue Boston Round | Black Dropper | Buy Online](https://botanicalbottles.com/products/1oz-30ml-glass-cobalt-blue-boston-round-black-dropper-360-bottles-per-case): Buy 1oz/30ml Cobalt Blue Boston Round bottles with black 3.5" dropper. 360 sets per case, ideal for essential oils, tinctures, and small-batch liquids.
-  Updated: 2026-05-01T06:56:37Z
+  Updated: 2026-06-05T18:55:57Z
   Vendor: Botanical Bottles
   Product Type: Bottle
   Availability: Available
@@ -662,7 +677,7 @@
   Image: https://cdn.shopify.com/s/files/1/0818/8893/6251/files/2ozAmberBoston_GraduatedDropperblack.jpg?v=1773436299
   Price: $0.44 USD
 - [Buy 4oz Amber Boston Round | Black Dropper | 128 Sets](https://botanicalbottles.com/products/4oz-glass-amber-boston-round-black-dropper): 128-piece 4oz amber Boston Round bottles with black droppers, perfect for essential oils, tinctures, and liquid formulations requiring precise dispensing.
-  Updated: 2026-05-28T02:51:29Z
+  Updated: 2026-06-09T21:36:35Z
   Vendor: Botanical Bottles
   Product Type: Bottle
   Availability: Available
@@ -847,10 +862,10 @@
   Updated: 2026-06-02T02:15:21Z
   Total Products: 26
 - [Shop Boston Round Bottles Collection | Glass Bottles Bulk](https://botanicalbottles.com/collections/boston-rounds): Browse Boston round glass bottles in amber, clear, matte black, and more. Perfect for essential oils, serums, tinctures, and small‑batch liquids.
-  Updated: 2026-06-04T04:10:45Z
+  Updated: 2026-06-10T11:28:13Z
   Total Products: 32
 - [Shop Euro Round Bottles | 18‑415 Glass Bottles Bulk Cases](https://botanicalbottles.com/collections/euro-rounds): Shop Euro round glass bottles in amber, clear, cobalt blue and more. Ideal for oils, aprayers , serums, tinctures, cosmetics, and liquid products.
-  Updated: 2026-06-04T04:10:27Z
+  Updated: 2026-06-06T11:10:46Z
   Total Products: 30
 - [Shop Bottle & Closure Sets | Complete Packaging Solutions](https://botanicalbottles.com/collections/sets): Discover bottle sets with matching closures droppers, caps and sprayers included. Great for ready‑to‑fill products and packaging efficiency.
   Updated: 2026-06-02T11:12:55Z
@@ -862,13 +877,13 @@
   Updated: 2026-04-10T12:36:35Z
   Total Products: 4
 - [Shop Glass Bottles & Packaging | Bulk & Wholesale Cases](https://botanicalbottles.com/collections/all): Browse all glass bottles, droppers, sprayers, and closures. Boston and Euro rounds in amber, clear, and cobalt blue for DIY oils, serums, and tinctures.
-  Updated: 2026-06-02T11:12:55Z
+  Updated: 2026-06-10T11:28:13Z
   Total Products: 127
 - [Smart Products Filter Index - Do not delete](https://botanicalbottles.com/collections/globofilter-best--products-index)
-  Updated: 2026-06-02T11:12:55Z
+  Updated: 2026-06-10T11:28:13Z
   Total Products: 137
 - [Shop Cobalt Blue Glass Bottles | Euro & Boston Rounds Bulk](https://botanicalbottles.com/collections/cobalt-blue): Cobalt blue glass bottles for essential oils, tinctures, serums, and DIY cosmetics. Available as Boston rounds, Euro rounds, and full bottle sets.
-  Updated: 2026-05-17T11:15:07Z
+  Updated: 2026-06-06T11:10:46Z
   Total Products: 16
 - [Shop Amber Glass Bottles | Bulk Boston & Euro Rounds](https://botanicalbottles.com/collections/amber): Amber glass bottles in Boston and Euro round styles. Ideal for oils, serums, tinctures, and DIY cosmetics. Available individually or in bulk sets.
   Updated: 2026-06-02T11:12:55Z
