@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2022-11-08T17:25:30Z
 - Contact Email: info@spectra-energy.in
-- Updated At: 2026-06-03T00:00:33.456Z
+- Updated At: 2026-06-14T00:00:37.527Z
 
 ## Products
 
@@ -828,181 +828,181 @@
 ## Collections
 
 - [GL ETC Solar Water Heater Non Pressurized Model - Click Here](https://solar-world.in/collections/solar-water-heater): Evacuated Tube Collector (ETC) water heaters harness the power of the sun to provide you with reliable hot water. it reducing your dependence on conventional energy sources. the glass-lines, solar panels, and tubes are perfectly positioned to give an appealing look on top of the terrace. Solar Water Heaters are eco-friendly, low on maintenance, easy to install, durable for a lifetime, and are extremely energy-efficient, the solar water heaters save over 70% of the electricity bills. solar water heaters and its associated technologies are the only option available to secure the future. #ETCSolarWaterHeater #SolarWaterHeaterIndia #EcoFriendlyHotWater #BeatTheEnergyBills #MNREIndia #EvacuatedTubeCollector #ISImarked #SustainableLiving #GovernmentSubsidy, MNRE  Supreme Solar water Heater, ETC Solar Water Heater, Solar Water Heater India, ETC solar water heater price India, Best ETC solar water heater brand India, ETC solar water heater capacity India, Evacuated tube collector solar heater India, Solar water heater for home India, Government subsidy for solar water heater India, ISI mark solar water heater India, ETC solar water heater reviews India
-  Updated: 2026-03-04T11:56:23Z
+  Updated: 2026-06-08T05:44:01Z
   Total Products: 13
 - [HPL Solar DC Wire](https://solar-world.in/collections/solar-cable): HPL Solar DC Wire emerges as a trusted choice, offering high-quality DC wires specifically designed for the demanding requirements of solar power systems. India's growing solar sector demands reliable and safe solutions for connecting solar panels and inverters. HPL solar DC wires undergo rigorous testing to comply with stringent safety standards, ensuring protection against fire hazards and electrical risks. HPL wires feature low conductor resistance, minimizing power losses and ensuring optimal energy transfer within your solar system. #HPLSolarCable #SolarDCWireIndia #SolarInstallation #SafeSolar #HPL6sqmm #SolarWireSizeGuide #MakeInIndia #LongLifeCable #ReliableConnection HPL Solar Cable, Solar DC Wire India, HPL solar DC wire price India, HPL solar cable for home India, best solar DC cable brand India, HPL 4,s mm, 6 sq mm and 10 sq mm solar cable, solar DC wire size guide India
-  Updated: 2026-05-20T08:34:26Z
+  Updated: 2026-06-08T05:44:27Z
   Total Products: 5
 - [UTL Solar Panel](https://solar-world.in/collections/solar-panel): UTL solar panels are a dependable and sustainable solution for powering your home or business in India. With their cutting-edge technology, proven reliability, and robust warranties, UTL empowers you to save money, reduce your environmental impact, and embrace a clean energy future. India's energy demands are rising, and solar power offers a promising solution. UTL, a reputable Indian solar panel manufacturer, empowers you to tap into this clean and abundant energy source with their innovative solar panel technology. #UTLSolar #SolarPanelsIndia #SustainableFuture #SolarPowerForHome #UTLMonocrystalline #UTLPolycrystalline #MakeInIndia #BeatElectricityBills #UTLWarranty UTL Solar Panels, Solar Panels India, UTL solar panel price India, UTL solar panel for home India, are UTL solar panels good, warranty on UTL solar panels India, UTL solar panels India
-  Updated: 2026-02-26T11:17:23Z
+  Updated: 2026-06-08T05:44:02Z
   Total Products: 12
 - [Microtek Solar Offgrid Inverter - Click Here](https://solar-world.in/collections/solar-inverter)
-  Updated: 2025-11-27T00:24:52Z
+  Updated: 2026-06-08T05:44:15Z
   Total Products: 3
 - [Solar Street Light](https://solar-world.in/collections/solar-street-light): We offer All in one, Two in one and Normal Solar street light. Our solar light comes with LED Lights, Polycrystalline Solar panel and lithium ion battery. Also inbuilt dusk on / off features is available. Lighting Enclosures is with IP 65 Rated for outdoor use, Complete assembly covers 2 years warranty.
-  Updated: 2026-03-03T06:54:06Z
+  Updated: 2026-06-08T05:44:02Z
   Total Products: 4
 - [MC4 Connector - Click Here](https://solar-world.in/collections/mc4-connector): MC4 connectors are single-contact electrical connectors commonly used for connecting solar panels. We offer Tinned Copper Connector, which is rated for 30 A and 1000 VDC Tested. Also it is IP66 Weather Proof and Dust Proof which will last for 25 Years.
-  Updated: 2025-11-27T00:24:52Z
+  Updated: 2026-06-08T05:44:02Z
   Total Products: 4
 - [Solar Panel Stand](https://solar-world.in/collections/solar-panel-stand): We offer Galvanized Steel and Aluminium mounting stand which will last for 20-25 years life span. Our panel stands comes with holes which can be adjusted according to angles, thus giving the desired output. Our stand has universal design which means that they can be used with any solar panel brand
-  Updated: 2025-11-27T00:24:52Z
+  Updated: 2026-06-08T05:44:02Z
   Total Products: 2
 - [DCDB BOX](https://solar-world.in/collections/dcdb): We offer DCDB with Surge Protection Device, DC MCB, MC4 with lock nut, Terminals. Our DCDB available in 1 in 1 out, 2 in 1 Out, 4 in 4 out and 6 in 6 out modules. The Material of Enclosure is Polycarbonate with IP 67 weather Proof inbuilt MC4 Connector.
-  Updated: 2026-03-03T07:27:18Z
+  Updated: 2026-06-08T05:44:02Z
   Total Products: 8
 - [UTL Lithium ion Battery](https://solar-world.in/collections/lithium-ion-battery): UTL offers a wide range of lithium-ion batteries for home inverters, solar inverters, E-Rikshaws, solar PCUs, and other energy storage systems. With advanced technology, exciting features, and an aesthetic look, the UTL Li-ion battery provides a dependable power backup. Lithium-ion batteries for solar inverters have twice the lifecycle of tubular batteries, allowing them to endure more charging and discharging cycles over their lifetime. Lithium-ion batteries have a lower self-discharge rate compared to tubular batteries, meaning they retain their charge for longer periods without degrading, which contributes to their extended lifespan.
-  Updated: 2026-05-28T15:49:26Z
+  Updated: 2026-06-08T05:44:11Z
   Total Products: 6
 - [Electric Cycle](https://solar-world.in/collections/e-cycle): Nexzu Electric Cycles offer a perfect blend of style, performance, and affordability, making them a popular choice for riders across the country. Electric cycles offer significant cost savings compared to petrol-powered vehicles. With rising fuel prices, electric cycles present a compelling economic advantage. Buy Nexzu Electric Cycle, We offer different range of E-cycle, All models come equipped with Advanced BLDC 250 Watts motors which is governed by our intelligent controller with the latest sensor technology. And E-Cycle is Equipped with Lithium-Ion Battery’s. The Electronics comes covered with a 1-year pan India warranty. #NexzuElectricCycle #ElectricCycleIndia #EcoFriendlyCommute #BeatTheTraffic #NexzuEbike #PedelecCycle #MadeInIndia #LowMaintenance #SustainableLifestyle Nexzu Electric Cycle, Electric Cycle India, Nexzu electric cycle price India, Nexzu electric cycle for men India, Nexzu electric cycle for women India, best electric cycle India, electric cycle with long range India, low maintenance electric cycle India
-  Updated: 2025-11-27T00:24:53Z
+  Updated: 2026-06-08T05:44:03Z
   Total Products: 5
 - [Solar Charge Controller](https://solar-world.in/collections/solar-charge-controller): Solar Charge Controller emerges as the heart of your solar power system, ensuring optimal battery charging, maximizing efficiency, and protecting your valuable components. Solar panels generate fluctuating voltage. A charge controller regulates this voltage, preventing overcharging and extending battery life. We offer PWM and MPPT Charge Controller. MPPT charge controller is more efficient than a PWM charge controller. This controller manages the power going into the battery bank from the solar array. It ensures that the deep cycle batteries are not overcharged during the day and protects the panel from reverse current. #SolarChargeControllerIndia #SolarPowerSystem #MPPTController #PWMSolar #UTLChargeController #LuminousChargeController #EcoFriendlyLiving #MadeInIndia #OptimizeSolarEnergy Solar Charge Controller, Solar Controller India, Solar Charge Controller Price India, Best Solar Charge Controller for Home India, MPPT vs PWM Solar Charge Controller India, Solar Charge Controller for 12V Battery India, Solar Charge Controller with LCD Display India, How to Choose Solar Charge Controller India.
-  Updated: 2026-05-28T14:50:27Z
+  Updated: 2026-06-08T05:44:03Z
   Total Products: 6
 - [UTL Solar C10 Battery](https://solar-world.in/collections/solar-c10-battery): UTL Solar C10 Battery, a powerful and long-lasting battery specifically designed to seamlessly integrate with your solar power system. Embrace clean energy and experience the benefits of solar power generation with the dependable UTL C10 battery. Designed with Deep Cycle technology, the UTL C10 battery excels in the repetitive charge and discharge cycles typical of solar power systems, ensuring optimal performance and extended lifespan. #UTLSolarBattery #C10BatteryIndia #SolarPowerForHome #SustainableLiving #UTLInverter #NetMeteringReady #LongLifePerformance #MadeInIndia #DeepCycleTechnology UTL Solar Battery, C10 Solar Battery India, UTL C10 150ah battery price India, UTL solar battery warranty India, best 150ah solar battery for home India, UTL tubular solar battery India, solar battery for net metering India, UTL C10 battery capacity
-  Updated: 2026-03-04T10:33:57Z
+  Updated: 2026-06-08T05:44:03Z
   Total Products: 8
 - [OffGrid Solar System Combo - Click Here](https://solar-world.in/collections/offgrid-solar-system-combo): Off-Grid Solar System functions independently. Offgrid solar system consists of solar panels (which absorb sunlight), inverter(which converts DC into AC), mounting structure (that hold the panels in place), batteries (to store the extra power generated), grid box and balance of systems (wires, nuts etc.). A solar system comes in various sizes like 1 kWh, 2 kWh 3kW, 5kW, and 7.5 kW. #OffGridSolarIndia #SolarPowerForHome #EnergyIndependence #BeatTheBlackouts #SustainableLiving #MNREIndia #RemoteAreas #GovernmentSubsidy #DIYOffGridSolar Off-Grid Solar System India, Solar Power System for Home India, Off-grid solar system price India, Off-grid solar system for home in rural India, Off-grid solar system benefits India, Off-grid solar system with inverter battery India, Is off-grid solar system good for me India.
-  Updated: 2025-11-27T00:24:53Z
+  Updated: 2026-06-08T05:44:04Z
   Total Products: 12
 - [Luminous Inverter](https://solar-world.in/collections/home-ups): Luminous Home UPS & Inverters emerge as the perfect solution, offering a comprehensive backup system that combines a reliable UPS with a powerful inverter. Experience seamless power flow during grid cuts, ensuring your essential appliances and lights function flawlessly. We offer wide range of Home UPS / Inverter. We have UPS capacity from 400 VA to 10 KVA. Inverter warranty covers 2 years for all Inverters and pan india service is also available for all Inverters. #LuminousHomeUPS #HomeUPSInverterIndia #CompleteBackupPower #BeatTheBlackouts #LuminousPower #ReliableBackup #SilentOperation #MadeInIndia #SolarReady Luminous UPS Inverter, Home UPS Inverter India, Luminous home UPS inverter price India, Luminous inverter UPS for home India, best home UPS inverter combo India, Luminous sine wave inverter India, Luminous solar compatible UPS inverter India, Luminous UPS inverter capacity
-  Updated: 2026-05-22T12:40:26Z
+  Updated: 2026-06-08T05:44:13Z
   Total Products: 41
 - [ACDB BOX](https://solar-world.in/collections/acdb-1): We offer ACDB for Solar Applications, Which is suitable for Domestic and Industrial use. We offer 3 Phase ACDB from 3 kW to 12 KW Solar System, with inbuilt 3Ph Breaker, surge protection devices internal wiring, cable gland and terminal blocks. indication lamp shall be provide based on customer reques.
-  Updated: 2026-03-03T07:24:35Z
+  Updated: 2026-06-08T05:44:04Z
   Total Products: 7
 - [LED Flood Light](https://solar-world.in/collections/led-light): Sturlite is leading provider of lighting and electrical solutions, offers a wide range of products for commercial, industrial, and residential applications. We offer High Bay Lights and Flood Lights from 50 watts to 400 watts with 2 years Warranty. LED will give output of 110Lu/watts, also integrated with high surge protection and over voltage device. Lighting Enclosures are IP 66 Rated and die cast body.
-  Updated: 2026-03-03T06:53:11Z
+  Updated: 2026-06-08T05:45:47Z
   Total Products: 10
 - [Exide Car Battery](https://solar-world.in/collections/exide-automobile-battery): Exide Car Batteries emerge as your dependable companion, offering exceptional performance, long-lasting durability, and minimal maintenance to keep you cruising smoothly on every journey. Experience effortless engine starts, even on cold mornings. Exide batteries deliver exceptional cranking power to ensure a smooth and reliable ignition, no matter the Indian climate. Exide utilizes cutting-edge technologies like AGM (Absorbent Glass Mat) and VRLA (Valve Regulated Lead Acid) to offer spill-proof designs, low maintenance requirements, and extended battery life in select models. #ExideCarBattery #CarBatteryIndia #ReliablePower #BeatTheBreakdowns #ExideProRider #LongLifeBattery #MadeInIndia #MaintenanceFree #HassleFreeDrives Exide Car Battery, Car Battery India, Exide car battery price India, Exide car battery for Maruti Suzuki Swift Dzire India, best car battery brand India, Exide lithium ion car battery India, Exide vs Amaron car battery India, Exide car battery warranty India
-  Updated: 2025-11-27T00:24:53Z
+  Updated: 2026-06-08T07:47:42Z
   Total Products: 33
 - [Amaron Car Battery - Click Here](https://solar-world.in/collections/amaron-automotive-battery): Our wide range of high-quality car batteries ensures an uninterrupted and smooth drive. Our name is synonymous with trust, and Amaron car batteries epitomize the pinnacle of performance, offering the assurance every traveller seeks. Explore Amaron automotive batteries in our website including car batteries, bike batteries, auto rickshaw batteries, heavy-duty vehicle batteries, and genset batteries.
-  Updated: 2025-11-27T00:24:53Z
+  Updated: 2026-06-08T13:12:38Z
   Total Products: 36
 - [UTL Solar Ongrid Inverter](https://solar-world.in/collections/solar-ongrid-inverter-1): UTL On-Grid Inverters emerge as a frontrunner, seamlessly converting solar energy into usable electricity for your home and feeding excess power back to the grid under net metering schemes. Experience reduced electricity bills, contribute to a sustainable future, and enjoy the benefits of clean energy with UTL's innovative inverter technology. UTL inverters utilize advanced Maximum Power Point Tracking (MPPT) technology to extract the maximum energy from your solar panels, ensuring optimal power generation. We offer a wide range of on-grid systems from 1 kW to 125 kW. #UTLInverter #OnGridSolarIndia #SolarPowerForHome #SeamlessIntegration #UTLGridTie #MadeInIndia #BeatTheBills #CleanEnergyFuture #EfficientConversion UTL Inverter, On-Grid Inverter India, UTL on-grid inverter price India, UTL solar inverter for home India, UTL inverter for net metering India, UTL inverter capacity, how to choose on-grid inverter India
-  Updated: 2026-05-28T14:28:47Z
+  Updated: 2026-06-11T12:00:21Z
   Total Products: 17
 - [Cable Tie](https://solar-world.in/collections/cable-tie-1)
-  Updated: 2025-11-27T00:24:53Z
+  Updated: 2026-06-08T13:13:18Z
   Total Products: 4
 - [Geyser & Electric Heater](https://solar-world.in/collections/geyser-electric-heater-1): Geyser is ideal for families or frequent hot water use. for low water pressure areas, instant geysers are generally more suitable. Enameled heating element provides better protection and longer life. Enameled coated glass lined inner tank that gives corrosion resistance, high pressure withstanding capacity and high energy efficiency. #GeyserIndia #WaterHeaterIndia #InstantHotWater #BeatTheWinter #ISImarkedGeyser #StorageGeyser #InstantGeyser #GasGeyser #ElectricGeyser #MadeInIndia Geyser, Water Heater India, Instant water heater price India, Storage water heater India, Best geyser brand India, Geyser for hard water India, Geyser for bathroom India, Gas geyser vs electric geyser India, 15 litre geyser India, Geyser with ISI mark India
-  Updated: 2025-11-27T00:24:53Z
+  Updated: 2026-06-08T13:13:18Z
   Total Products: 1
 - [Hikvision CCTV Camera & Accessories](https://solar-world.in/collections/cctv-1): Hikvision CCTV stands as a global leader in video surveillance, offering a vast array of cutting-edge cameras, recorders, and intelligent solutions designed to protect your home, business, and assets with unparalleled clarity and reliability. Hikvision offers a comprehensive portfolio to suit every security need and budget. This includes IP Cameras, Network cameras (bullet, dome, turret, PTZ), Turbo HD (HD-TVI) Cameras, NVRs (Network Video Recorders), DVRs (Digital Video Recorders), Video Intercoms, Access Control, and Alarm Systems: #Hikvision #CCTV #SecurityCamera #Surveillance #IPCamera #HomeSecurity #BusinessSecurity #VideoSurveillance #SmartCCTV #HikConnect #4KCCTV #AcuSense #ColorVu #NVR #DVR #SecuritySolutions #IndonesiaSecurity #BatamCCTV Hikvision CCTV, CCTV Camera, Security Camera, IP Camera, NVR, DVR, Surveillance System, Home CCTV, Business CCTV, Hikvision Price.
-  Updated: 2026-03-04T04:32:02Z
+  Updated: 2026-06-08T13:13:29Z
   Total Products: 25
 - [Exide Inverter Batteries](https://solar-world.in/collections/home-ups-and-inverter-batteries-1): Exide inverter batteries have been powering the nation, every day for over seventy years. Switching on little joys of life to empowering big dreams, its wide range of inverter batteries and inverters are lighting up millions of lives across the country. As a progressive brand fuelled by its innate spirit of innovation and driven by years of best-in-class technology, today Exide takes pride in being the No.1 inverter battery brand of India.
-  Updated: 2026-03-20T05:47:12Z
+  Updated: 2026-06-08T13:15:36Z
   Total Products: 20
 - [Amaron Bike Battery - Click Here](https://solar-world.in/collections/two-wheeler-battery): Amaron batteries deliver exceptional cranking power, ensuring effortless engine starts, even on cold mornings. VRLA (Valve Regulated Lead Acid) technology provides spill-proof design, low maintenance, and extended battery life. Amaron batteries are constructed with robust materials and undergo rigorous quality checks, guaranteeing durability in demanding Indian conditions. Amaron Bike Batteries are hassle-free solution for powering your motorcycle adventures in India. With their exceptional cranking power, long life, and minimal maintenance. #AmaronBikeBattery #MotorcycleBatteryIndia #ReliablePower #BeatTheBreakdowns #AmaronProBikeRider #LongLifeBattery #MadeInIndia #MaintenanceFree #HassleFreeRides Amaron Bike Battery, Motorcycle Battery India, Amaron bike battery price India, Amaron bike battery for Activa, best bike battery brand India, Amaron lithium ion bike battery India, Amaron vs Exide bike battery India
-  Updated: 2025-11-27T00:24:53Z
+  Updated: 2026-06-08T13:16:01Z
   Total Products: 8
 - [FPC Solar Water Heater Pressuriesed - Flat Plate Model - Click Here](https://solar-world.in/collections/solar-water-heater-pressuriesed-flat-plate-model)
-  Updated: 2026-03-05T06:41:03Z
+  Updated: 2026-06-08T13:23:05Z
   Total Products: 12
 - [Exide Inverter](https://solar-world.in/collections/exide-home-inverter): Exide offers a wide range of inverter systems to keep your appliances, electrical gadgets and units like lights, fans, air conditioners etc. functioning smoothly during power failures. Every Exide Inverter is designed for domestic use and is 100% reliable. They are manufactured with the latest technology and can be customized according to your requirement and budget.
-  Updated: 2026-03-03T10:49:45Z
+  Updated: 2026-06-08T13:23:07Z
   Total Products: 25
 - [Microtek Home Inverter - Click Here](https://solar-world.in/collections/luminous-home-inverter)
-  Updated: 2025-11-27T00:24:54Z
+  Updated: 2026-06-08T13:23:07Z
   Total Products: 25
 - [UTL Solar Offgrid Inverter](https://solar-world.in/collections/utl-home-inverter): UTL Off-Grid Inverters empower you to take charge of your energy needs. These innovative inverters convert solar power into usable electricity, making you self-sufficient and enabling you to live a sustainable life. UTL inverters keep your essential appliances and lights functioning seamlessly, ensuring a comfortable living environment. UTL utilizes Maximum Power Point Tracking (MPPT) technology to optimize energy production from your solar panels, maximizing your solar power generation. #UTLInverter #OffGridSolarIndia #SolarPowerForHome #EnergyIndependence #UTLFreedom #SustainableLiving #BeatTheGrid #MadeInIndia #ReliableOffGrid UTL Solar Inverter, Off-Grid Inverter India, UTL Off-Grid Inverter Price India, UTL solar inverter for home India, Best Off-Grid Inverter for home India, UTL inverter capacity, how to Choose Off-Grid Inverter India
-  Updated: 2026-05-28T14:47:02Z
+  Updated: 2026-06-08T13:23:08Z
   Total Products: 14
 - [Livfast Inverter](https://solar-world.in/collections/livfast-home-inverter): Livfast inverters seamlessly convert DC battery power into AC electricity, ensuring your essential appliances continue to function during grid outages, keeping your home illuminated and operational. Choose Livfast inverters with pure sine wave technology, ideal for sensitive electronics like computers and televisions, safeguarding them from damage caused by irregular power fluctuations. #LivfastInverter #BackupPowerIndia #BeatTheBlackouts #PureSineWave #SolarReadyInverter #LongWarranty #MadeInIndia #LivfastHomeAppliance #SupportIndianBrand Livfast Inverter, Inverter for Home India, Livfast inverter price India, Best inverter for home India, Livfast inverter for 12v appliances India, Pure sine wave inverter Livfast India, Livfast inverter warranty India, High capacity Livfast inverter India, Solar compatible Livfast inverter India, 1kva Livfast inverter India
-  Updated: 2025-11-27T00:24:54Z
+  Updated: 2026-06-08T13:23:08Z
   Total Products: 15
 - [Exide Bike Battery - Click Here](https://solar-world.in/collections/exide-bike-battery): Exide Bike Batteries emerge as your trusted companion, offering reliable power, long life, and minimal maintenance to keep you riding smoothly, mile after mile. Exide batteries deliver exceptional cranking power, ensuring effortless engine starts, even on cold mornings. Exide bike batteries utilize VRLA (Valve Regulated Lead Acid) technology, providing spill-proof design, low maintenance, and extended battery life. #ExideBikeBattery #MotorcycleBatteryIndia #ReliablePower #BeatTheBreakdowns #ExideRider #LongLifeBattery #MadeInIndia #MaintenanceFree #HassleFreeRides Exide Bike Battery, Motorcycle Battery India, Exide bike battery price India, Exide battery for Activa, best motorcycle battery brand India, Exide lithium ion bike battery India, Exide vs Amaron bike battery India
-  Updated: 2025-11-27T00:24:54Z
+  Updated: 2026-06-08T13:23:13Z
   Total Products: 13
 - [Luminous Inverter Battery](https://solar-world.in/collections/luminous-home-battery): Luminous Inverter Batteries emerge as a trusted choice, offering a diverse range of batteries to perfectly complement your Luminous inverter and power your needs. Luminous batteries are specifically engineered to work seamlessly with Luminous inverters, ensuring optimal performance and efficiency. #LuminousBattery #InverterBatteryIndia #HomeUPSBackup #ReliablePower #LongLifeBatteries #MadeInIndia #SafeOperation #DiverseOptions #SustainableLiving Luminous Inverter Battery, Inverter Battery India, Luminous inverter battery price India, Luminous battery for home UPS India, best inverter battery for home India, Luminous battery types India, Luminous inverter battery warranty India, how to choose inverter battery India
-  Updated: 2026-03-04T11:04:23Z
+  Updated: 2026-06-08T13:23:16Z
   Total Products: 16
 - [Okaya Home Battery](https://solar-world.in/collections/okaya-home-battery)
-  Updated: 2025-11-27T00:24:54Z
+  Updated: 2026-06-08T13:23:16Z
   Total Products: 15
 - [Livfast Inverter Battery](https://solar-world.in/collections/livfast-home-battery): Livfast Inverter Battery are seamlessly integrate with your inverter system, ensuring consistent power supply during outages, keeping your appliances running and your life uninterrupted. Built with robust materials and undergoing rigorous quality checks, Livfast batteries offer extended lifespan, providing reliable backup for years to come. Livfast batteries deliver exceptional performance, ensuring your inverter system efficiently powers your essential appliances during blackouts. #LivfastInverterBattery #ReliableBackupPower #BeatTheBlackouts #MadeInIndia #LivfastTallTubular #LowMaintenance #LongLifeBattery #SustainableLiving #SupportIndianBrand Livfast Inverter Battery, Inverter Battery India, Livfast inverter battery price India, Best Livfast inverter battery for home India, Livfast inverter battery warranty India, Livfast tall tubular battery India, 150ah Livfast inverter battery India, Low maintenance inverter battery India, Made in India inverter battery
-  Updated: 2025-11-27T00:24:54Z
+  Updated: 2026-06-08T13:23:16Z
   Total Products: 24
 - [Exide Solar Hybrid Inverter](https://solar-world.in/collections/exide-solar-hybrid-inverter): Exide Solar Off-Grid Inverters empower you to take control of your energy needs. These innovative inverters convert solar power into usable electricity, making you self-sufficient and contributing to a greener future. Exide inverters ensure a consistent flow of electricity, even during grid outages, keeping your home appliances and lights functioning seamlessly. Maximum Power Point Tracking (MPPT) technology optimizes energy production from your solar panels, maximizing your solar power generation. #ExideSolarInverter #OffGridSolarIndia #SolarPowerForHome #EnergyIndependence #ExideOffGrid #SustainableLiving #BeatTheGrid #MadeInIndia #ReliablePower Exide Solar Inverter, Off-Grid Inverter India, Exide solar off-grid inverter price India, Exide solar inverter for home India, best off-grid inverter for home India, Exide solar inverter capacity, how to choose off-grid inverter India
-  Updated: 2025-11-27T00:24:54Z
+  Updated: 2026-06-08T13:23:17Z
   Total Products: 2
 - [Exide Commercial Vehicle Battery - Click Here](https://solar-world.in/collections/tractors-battery)
-  Updated: 2025-11-27T00:24:54Z
+  Updated: 2026-06-08T13:51:12Z
   Total Products: 16
 - [Growatt Ongrid Solar Inverter](https://solar-world.in/collections/growatt-ongrid-solar-inverter): Growatt On-Grid Inverters emerge as a frontrunner, seamlessly converting the power of the sun into usable electricity for your home. Experience reduced electricity bills, contribute to a sustainable future, and enjoy the benefits of clean energy with Growatt's innovative inverter technology. Growatt inverters utilize advanced Maximum Power Point Tracking (MPPT) technology to extract the maximum energy from your solar panels, ensuring optimal power output. Growatt On-Grid Inverters are a efficient solution for harnessing solar power in your Indian home. With their advanced features, focus on clean energy generation, and robust design, Growatt empowers you to experience the benefits of solar power and contribute to a sustainable future. #GrowattInverter #OnGridSolarIndia #SolarPowerForHome #SeamlessSolar #GrowattOnGrid #MadeInIndia #BeatTheBills #CleanEnergyFuture #ReliableConversion Growatt Inverter, On-Grid Inverter India, Growatt on-grid inverter price India, Growatt solar inverter for home India, best on-grid inverter brand India, Growatt inverter capacity, how to choose on-grid inverter India
-  Updated: 2025-11-27T00:24:54Z
+  Updated: 2026-06-08T13:56:52Z
   Total Products: 23
 - [Solis Solar Ongrid Inverter - Click Here](https://solar-world.in/collections/solis-solar-ongrid-inverter): Solis On-Grid Inverters emerge as a reliable, efficient solution for those looking to embrace solar energy. With a focus on performance, durability, and user-friendly features, Solis empowers individuals and businesses to harness the full potential of solar power while contributing to a sustainable future.
   Updated: 2025-11-27T00:24:54Z
   Total Products: 0
 - [Luminous Solar C10 Battery](https://solar-world.in/collections/luminous-solar-battery-1): Luminous Solar C10 Battery offers exceptional performance, deep discharge capabilities, and low maintenance. The C10 designation indicates the battery's suitability for deep discharge cycles, ideal for solar power backup systems. Choose from various capacities (including Luminous C10 150ah) to meet the backup power requirements of your home. #LuminousBattery #SolarBatteryIndia #HomeUPSBackup #ReliablePower #MadeInIndia #LongLifeBattery #DeepCycle #LowMaintenance #SustainableLiving Luminous Battery, Solar Battery India, Luminous C10 battery price India, Luminous solar battery for home India, best solar battery for home UPS India, Luminous battery warranty India, Luminous vs Amaron solar battery India, Luminous C10 battery 150ah
-  Updated: 2026-03-04T10:42:30Z
+  Updated: 2026-06-08T14:00:25Z
   Total Products: 9
 - [Exide Solar C10 Battery](https://solar-world.in/collections/exide-solar-battery-1): Exide's C10 tubular battery technology is built to withstand demanding Indian conditions, ensuring extended life and reliable performance. Designed for solar applications, the Exide C10 battery efficiently handles deep discharges and frequent cycling, making it ideal for solar power backup systems. The Exide C10 battery requires minimal maintenance, minimizing your long-term ownership costs. Choose from various capacities to suit your specific power backup needs and appliance load. #ExideSolarBattery #SolarBatteryIndia #HomeUPS #BeatPowerCuts #ExideC10 #TubularSolarBattery #LongLifeBattery #ReliableBackup #MadeInIndia Exide Solar Battery, Solar Battery India, Exide Solar C10 battery price India, Exide Solar C10 battery 150ah, best solar battery for home India, Exide C10 battery warranty India, tubular solar battery vs flat plate solar battery India
-  Updated: 2026-03-04T10:26:36Z
+  Updated: 2026-06-08T14:00:27Z
   Total Products: 6
 - [Luminous Solar Offgrid Inverter](https://solar-world.in/collections/luminous-solar-offgrid-inverter): Luminous Solar Off-Grid Inverters empower you to take control of your energy needs. These innovative inverters convert the power of the sun into usable electricity, making you self-sufficient and contributing to a greener future. Maximum Power Point Tracking (MPPT) technology optimizes energy production from your solar panels, maximizing your solar power generation. #LuminousInverter #OffGridSolarIndia #SolarPowerForHome #EnergyIndependence #LuminousOffGrid #SustainableLiving #BeatTheGrid #MadeInIndia #ReliablePower Luminous Inverter, Off-Grid Inverter India, Luminous solar off-grid inverter price India, Luminous solar inverter for home India, best off-grid inverter for home India, Luminous inverter capacity, how to choose off-grid inverter India
-  Updated: 2026-03-03T04:51:49Z
+  Updated: 2026-06-08T14:00:28Z
   Total Products: 16
 - [Loom Solar Panel](https://solar-world.in/collections/loom-solar-panels): Loom solar panels are a dependable and sustainable solution for powering your home or business in India. With their exceptional performance, unwavering reliability, and robust warranties, Loom empowers you to save money, reduce your environmental impact, and  in a brighter, cleaner energy future. India's energy demands are rising, and solar power offers a promising solution. UTL, a reputable Indian solar panel manufacturer, empowers you to tap into this clean and abundant energy source with their innovative solar panel technology. #LoomSolar #SolarPanelsIndia #SustainableLiving #SolarPowerForHome #LoomMonocrystalline #LoomPolycrystalline #MakeInIndia #InvestInSolar #LoomWarranty Loom Solar Panels, Solar Panels India, Loom solar panel price India, Loom solar panel for home India, are Loom solar panels good, warranty on Loom solar panels India, Loom vs UTL solar panels India
-  Updated: 2026-02-26T06:13:39Z
+  Updated: 2026-06-08T14:01:26Z
   Total Products: 5
 - [Waaree Solar Panel](https://solar-world.in/collections/waaree-solar-panels): Waaree solar panels are a dependable and sustainable solution for powering your home or business in India. With their high efficiency, bankable performance, and robust warranties, Waaree empowers you to save money, reduce your environmental impact, and embrace a clean energy future. India, a land blessed with abundant sunshine, holds immense potential for solar energy. Waaree, a leading Indian solar panel manufacturer, empowers you to harness this clean and sustainable energy source with their high-performance solar panels. #WaareeSolar #SolarPanelsIndia #SolarEnergyIndia #GoSolar #SustainableLiving #WaareeMonocrystalline #WaareePolycrystalline #SolarPowerForHome #BeatTheElectricityBill #Coimbatore #Solarworld Waaree Solar Panels, Solar Panels India, Waaree solar panel price in India, Waaree solar panel for home India, best solar panel brand India, monocrystalline vs polycrystalline Waaree solar panels, solar panel installation cost India with Waaree
-  Updated: 2025-11-27T00:24:54Z
+  Updated: 2026-06-08T14:01:40Z
   Total Products: 3
 - [Amaron Quanta SMF VRLA Battery](https://solar-world.in/collections/amaron-quanta-smf-vrla-battery): Quanta batteries eliminate the need for topping up with water, reducing maintenance hassles and ensuring safety. Battery technology ensures efficient operation, spill-proof design, and longer lifespan. The sealed design of Quanta batteries minimizes the risk of leakage or acid spills, ensuring a safe environment. Choose from a diverse range of capacities to meet the power backup requirements of your home or business. Quanta empowers you to experience peace of mind and seamless operation during power fluctuations and outages. #QuantaBattery #VRLA BatteryIndia #AmaronQuanta #HomeUPS #SMFBattery #LongLifeBattery #MaintenanceFree #ReliableBackup #MadeInIndia Quanta Battery, VRLA Battery India, Quanta SMF battery price India, Quanta 12v 150ah battery India, best VRLA battery for home UPS India, Quanta battery warranty India, Amaron Quanta vs Livfast VRLA battery
-  Updated: 2026-02-26T10:58:43Z
+  Updated: 2026-06-08T14:01:28Z
   Total Products: 16
 - [SF Sonic Bike Battery - Click Here](https://solar-world.in/collections/sf-sonic-battery-1)
-  Updated: 2025-11-27T00:24:55Z
+  Updated: 2026-06-08T14:02:30Z
   Total Products: 14
 - [SF Sonic Car Battery - Click Here](https://solar-world.in/collections/sf-sonic-car-battery): SF Sonic batteries deliver exceptional performance, ensuring effortless starts every time you turn the key. SF Sonic car batteries are built to provide extended service life, keeping you on the road longer. #SFSonicCarBattery #ReliableCarStarts #BeatTheHeat #MaintenanceFreeBattery #MadeInIndia #IndianWeatherReady #HighCCABattery #MarutiSuzukiBattery #InnovaCrystaBattery SF Sonic Car Battery, Car Battery India, SF Sonic car battery price India, Best car battery for Indian weather India, SF Sonic car battery warranty India, SF Sonic maintenance free car battery India, SF Sonic car battery for Maruti Suzuki India, High CCA car battery India, SF Sonic car battery for Innova Crysta India, Amaron vs SF Sonic car battery India
-  Updated: 2025-11-27T00:24:55Z
+  Updated: 2026-06-08T14:02:30Z
   Total Products: 24
 - [SF Sonic Inverter Battery - Click Here](https://solar-world.in/collections/sf-sonic-inverter-battery): SF Sonic batteries seamlessly integrate with your inverter system, providing reliable DC power to keep your appliances running smoothly during outages, ensuring a seamless transition and uninterrupted comfort. Choose from various capacities (Ah) and types of SF Sonic inverter batteries, like tubular designs, to perfectly match your inverter's power requirements and your household's needs. #SFSonicBattery #ReliableBackupPower #BeatTheBlackouts #SFSonicTubularBattery #LowMaintenanceBattery #LongLifeBattery #SolarReadyBattery #SupportIndianBrand #MadeInIndia SF Sonic Inverter Battery, Inverter Battery India, SF Sonic inverter battery price India, Best SF Sonic battery for home UPS India, SF Sonic inverter battery warranty India, SF Sonic tubular battery India, 150AH SF Sonic battery India, Low maintenance inverter battery India, SF Sonic solar compatible battery India
-  Updated: 2025-11-27T00:24:55Z
+  Updated: 2026-06-08T14:02:30Z
   Total Products: 13
 - [Solar Pump Controller - Click Here](https://solar-world.in/collections/solar-pump-controller): Solar Pump System includes Photovoltaic Panel, Electronic Device and AC Motor. Electronic Device is a combination of Inverter, MPPT and VFD. It uses the generated power from PV and converts in required form for AC Motor. Solar energy which is abundant on earth can be harnessed for this purpose
   Updated: 2025-11-27T00:24:55Z
   Total Products: 0
 - [Servo Voltage Stabilizer](https://solar-world.in/collections/servo-voltage-stabilizer)
-  Updated: 2025-11-27T00:24:55Z
+  Updated: 2026-06-08T14:05:20Z
   Total Products: 2
 - [EV Charging  Station - Click Here](https://solar-world.in/collections/ev-charging-station)
   Updated: 2025-11-27T00:24:55Z
   Total Products: 0
 - [Honda Portable Generator](https://solar-world.in/collections/honda-portable-generator): Power outages can disrupt daily life and business operations. When reliable electricity is paramount, a Honda Portable Generator stands as the industry benchmark for dependable, clean, and quiet power. Renowned for their legendary reliability and cutting-edge technology, Honda generators provide the perfect solution for home backup, outdoor adventures, job sites, and essential commercial applications #HondaGenerator #PortableGenerator #PowerBackup #EmergencyPower #HondaPower #InverterGenerator #SilentGenerator #HomeBackup #OffGridPower #Power #ReliablePower #GensetHonda #OutdoorPower #EnergySolutions #NoMoreBlackouts Honda Generator, Portable Generator, Genset Honda, Inverter Generator, Silent Generator, Emergency Generator, Power Generator, Honda Power, Best Generator.
-  Updated: 2025-11-27T00:24:55Z
+  Updated: 2026-06-08T14:05:22Z
   Total Products: 6
 - [On-Grid Solar System Combo - Click Here](https://solar-world.in/collections/on-grid-solar-system-combo-1): On-grid solar systems offer a compelling solution for powering your home sustainably in India. With reduced electricity bills, government incentives, and a positive environmental impact, on-grid solar is an  in your future and the planet's well-being. As India strives for energy independence, on-grid solar systems are emerging as a powerful solution. These systems allow you to generate clean electricity from sunlight and export through net meter. you can reduce your dependence on the grid, and potentially save money through ongrid system. #OnGridSolar #SolarPowerIndia #SustainableLiving #BeatTheBills #NetMeteringIndia #SolarEnergyForHome #SubsidyForSolar #MakeInIndia #CleanEnergyFuture On-Grid Solar System, Solar Power for Home India, on-grid solar system price india, on-grid solar system installation india, subsidy for on-grid solar system india, benefits of on-grid solar system india, best on-grid solar system for home india
-  Updated: 2025-11-27T00:24:55Z
+  Updated: 2026-06-08T14:06:47Z
   Total Products: 10
 - [AC Cable - Click Here](https://solar-world.in/collections/ac-cable)
-  Updated: 2025-11-27T00:24:55Z
+  Updated: 2026-06-08T14:09:04Z
   Total Products: 9
 - [Luminous Inverter & Battery Combo - Click Here](https://solar-world.in/collections/home-ups-inverter-battery-combo): Luminous inverter and battery combos are a perfect solution for Indian homes and businesses seeking reliable power backup. With their advanced features, robust build quality, and long-lasting batteries, Luminous ensures peace of mind during power cuts. Indian summers are notorious for power cuts, disrupting daily life and businesses. To combat these disruptions, a reliable inverter and battery combo is essential. Luminous, a trusted name in power solutions, offers a comprehensive range of inverter and battery combos specifically designed for the Indian market. #LuminousInverter #InverterBatteryCombo #PowerBackupIndia #HomeUPS #BeatPowerCuts #LuminousIndia #TubularBattery #SolarInverter #Coimbatore #Solarworld Luminous Inverter, Inverter Battery Combo India, Luminous inverter for home India, best inverter battery combo for home India, Luminous pure sine wave inverter price, Luminous tubular battery price India, solar compatible inverter battery combo India
-  Updated: 2026-03-10T12:26:08Z
+  Updated: 2026-06-08T14:12:35Z
   Total Products: 28
 - [Hikvision CCTV Package - Click Here](https://solar-world.in/collections/hikvision-cctv-package-1): Hikvision, a world-leading security solutions provider, offers a comprehensive range of CCTV cameras and systems to meet your specific needs. Whether you're looking to secure your home, business, or any other property, Hikvision has the perfect solution to deliver peace of mind. Hikvision CCTV systems are a reliable and effective way to enhance the security of your home or business. With their advanced features, superior image quality, and user-friendly design, Hikvision cameras offer exceptional value for your . #HikvisionCCTV #SecurityCameras #CCTV #Surveillance #HomeSecurity #BusinessSecurity #NightVision #WirelessCCTV #HikvisionIndia #Coimbatore #Solarworld Hikvision CCTV, Security Cameras, best Hikvision CCTV cameras for home, Hikvision CCTV price in Indonesia, Hikvision bullet camera with night vision, Hikvision wireless CCTV system, Hikvision CCTV for business
-  Updated: 2025-11-27T00:24:55Z
+  Updated: 2026-06-08T14:12:42Z
   Total Products: 4
 - [Special Offer 2025](https://solar-world.in/collections/special-offer-2025)
-  Updated: 2026-05-20T08:34:26Z
+  Updated: 2026-06-08T14:15:07Z
   Total Products: 34
 - [Exide Inverter Battery Combo - Click Here](https://solar-world.in/collections/exide-inverter-battery-combo): Exide Inverter Battery Combo provides a dependable solution for keeping your home appliances and electronics running during power outages. This comprehensive guide explores the benefits of Exide's inverter battery combos, explores different options available, and helps you choose the perfect fit for your needs. Exide offers a wide range of inverter battery combos to cater to diverse household needs. #ExideInverter #ExideBattery #InverterBatteryCombo #PowerBackup #HomeAppliancePower #ReliablePower #ExideIndia #Coimbatore #Solarworld Best inverter battery combo for home, Exide inverter for appliances, Exide battery for inverter system, how to choose an inverter battery combo, Exide inverter buying guide, inverter battery combo, Exide inverter, Exide battery
-  Updated: 2026-03-11T11:05:40Z
+  Updated: 2026-06-08T14:17:13Z
   Total Products: 14
 - [Goodwe Solar Ongrid Inverter](https://solar-world.in/collections/goodwe-solar-ongrid-inverter-1): GoodWe is a leading solar inverter manufacturer specializing in residential and commercial solar inverters ranging from 0.7kW to 250kW. GoodWe offer wide range of single- and three-phase grid-tied inverters are provided to meet household needs for reliable and sustainable power generation. Being light-weight, highly-efficient and low-cost, GoodWe residential grid-tied solar inverters are designed to be simple to install, operate, and maintain, so as to ensure a quick return on  (ROI).
-  Updated: 2026-05-16T06:47:51Z
+  Updated: 2026-06-08T18:47:00Z
   Total Products: 24
 - [Secureye Solar CCTV](https://solar-world.in/collections/secureye-solar-cctv): #SecureEyeCCTV #SolarCCTV #WirelessSecurity #Security Secure Eye Solar CCTV, Solar CCTV, 4G CCTV, Wireless CCTV, Solar Camera, Camera, Secure Eye Camera, CCTV.
-  Updated: 2026-02-23T11:57:54Z
+  Updated: 2026-06-08T19:00:57Z
   Total Products: 1
 - [Sofar Solar Ongrid  Inverter](https://solar-world.in/collections/sofar-solar-ongrid-inverter-click-here): SOFAR supports the transition to renewable energy through a comprehensive portfolio including PV inverters ranging from 1 kW to 350 kW. Sofar Ongrid Inverters Designed for rooftop and backyard PV power stations, the system supports modes including full grid connection, excess power grid connection, and self-consumption.
-  Updated: 2025-11-27T00:24:56Z
+  Updated: 2026-06-08T19:14:55Z
   Total Products: 22
 - [ABB Circuit Breakers](https://solar-world.in/collections/circuit-breakers): We are your sourcing partner for all solar and industrial product needs. Please send us your enquiry to info.spectraenergy@gmail.com / info@spectra-energy.in.
   Updated: 2025-11-29T10:50:52Z
@@ -1215,82 +1215,82 @@
   Updated: 2025-11-27T00:25:00Z
   Total Products: 0
 - [Lightning Arrester & Earthing Kit](https://solar-world.in/collections/lightning-arrester-earthing-kit): Lightning strikes are a significant and unpredictable threat to homes, businesses, and critical infrastructure. A direct lightning strike or even an indirect surge can wreak havoc on electrical systems, damage expensive equipment, and pose a severe risk to life. That's why investing in robust Lightning Arrester & Earthing Kits from a trusted provider like Excel Earthings (as seen on excelearthings.com) is not just a recommendation, but a crucial necessity for safety and peace of mind. #LightningArrester #EarthingKit #ExcelEarthings #LightningProtection #ElectricalSafety #SurgeProtection #GroundingSystem #BatamSafety #PowerProtection #SafeElectricals #CopperBondedRod #EarthEnhancingCompound #ProtectYourHome #IndustrialSafety #IEC62305 Lightning Arrester, Earthing Kit, Grounding Rod, Surge Protector, Earth Rod, Excel Earthings, Lightning Protection, Electrical Earthing, Batam Lightning.
-  Updated: 2025-11-27T00:25:00Z
+  Updated: 2026-06-08T21:42:04Z
   Total Products: 23
 - [Enphase Solar Microinverter](https://solar-world.in/collections/enphase-solar-microinverter): The Enphase IQ Microinverter design is the safest choice for solar. Unlike systems with a central inverter, Enphase Solar never contains high-voltage direct current (DC) power, eliminating the risk of DC arc fault fires. Enphase micro inverter uses plug-and-play technology to make your installations faster and easier.
-  Updated: 2026-03-14T08:33:40Z
+  Updated: 2026-06-08T22:05:45Z
   Total Products: 2
 - [Polycab Wire & Cables](https://solar-world.in/collections/polycab-wire-cables): Polycab wires are flame retardant, and hydrolysis resistant. Polycab wires are made using superior-grade materials and are manufactured to the highest industry standards. Our range includes cables from the renowned brand Polycab, known for its superior quality and performance in the electrical industry.
-  Updated: 2025-11-27T00:25:00Z
+  Updated: 2026-06-08T22:05:56Z
   Total Products: 4
 - [UTL Tubular Battery](https://solar-world.in/collections/utl-tubular-battery): UTL Tall Tubular Inverter batteries provide a steady performance withaffordable cost to the customer. Environmental friendly aqua trap vent plugs ensuring low acidic fumes. Highly reliable compared to normal flat plate batteries. Perform consistently under any conditions hence suitable for sensitive and heavy applications. Faster charging is one the notable feature in Tubular batteries. Low maintenance-very low water topping up required. #UTLBattery #InverterBattery #PowerBattery #TubularBattery #SolarBattery #BatteryBackup #HomePower #EnergyStorage #DeepCycleBattery #LongLastingBattery #ReliableBattery #UTLSolarBattery #NoPowerCut #BatteryForInverter #PowerSolutions UTL Battery, Inverter Battery, Tubular Battery, Solar Battery, Battery Price, Best Battery, 150Ah Battery, 200Ah Battery, Home Battery, Power Battery.
-  Updated: 2025-11-27T00:25:00Z
+  Updated: 2026-06-08T23:37:26Z
   Total Products: 4
 - [Luminous Solar Panel](https://solar-world.in/collections/luminous-solar-panel): Luminous Solar Panels offer a trusted solution for your energy needs, whether for residential, commercial, or industrial applications. As a well-established brand, Luminous provides a range of high-quality monocrystalline and polycrystalline solar modules, known for their durability and performance, even in low-light conditions. #LuminousSolar #SolarPanels #RenewableEnergy #SolarPower #CleanEnergy #SustainableLiving #MonocrystallineSolar #PolycrystallineSolar #SolarSolutions #EnergyEfficiency #GoSolar Luminous Solar, solar panels, renewable energy, solar power, high efficiency, monocrystalline, polycrystalline, Mono PERC, TOPCon, solar solutions, energy independence. Luminous solar panel price in Batam, best Luminous solar panels for home, Luminous solar panel warranty, Luminous solar panel reviews, install Luminous solar panels in Batam, Luminous solar panel dealer near me, Luminous 550W solar panel, Luminous mono PERC solar panel.
-  Updated: 2025-11-27T00:25:00Z
+  Updated: 2026-06-08T23:37:38Z
   Total Products: 11
 - [Vikram Solar Panel](https://solar-world.in/collections/vikram-solar-panel): Power your future with Vikram Solar Panels! As a leading Tier 1 manufacturer, Vikram Solar offers high-efficiency, reliable, and durable solar solutions for homes, businesses, and large-scale projects across India and globally. Choose from their cutting-edge Mono PERC, N-type TOPCon, and Bifacial solar modules for maximum energy generation and long-term savings. #VikramSolar #SolarPanels #RenewableEnergy #SolarIndia #GreenEnergy #SolarPower #MadeInIndia #HighEfficiencySolar #ResidentialSolar #CommercialSolar #SolarSolutions #CleanEnergy Vikram Solar, solar panels, India, renewable energy, solar power, high efficiency, monocrystalline, bifacial, N-type, rooftop solar, solar solutions. Vikram solar panel price in India, best Vikram solar panels for home, high efficiency Vikram solar modules, Vikram solar panel warranty, install Vikram solar panels, Vikram solar panel reviews, commercial solar panel solutions India, N-type solar panels India, residential solar power system, top solar panel manufacturers India.
-  Updated: 2025-11-27T00:25:00Z
+  Updated: 2026-06-08T23:37:26Z
   Total Products: 2
 - [Panasonic Solar Panel](https://solar-world.in/collections/panasonic-solar-panel)
   Updated: 2025-11-27T00:25:00Z
   Total Products: 0
 - [Luminous Solar Ongrid Inverter](https://solar-world.in/collections/luminous-solar-ongrid-inverter): Luminous offers a range of high-efficiency on-grid inverters, including the popular NXi series, known for their robust performance and reliability. Featuring MPPT (Maximum Power Point Tracking) technology, these inverters ensure you extract the maximum possible power from your solar panels, even under varying weather conditions. #LuminousSolar #OnGridInverter #SolarInverter #GridTiedInverter #RenewableEnergy #SolarPower #Solar #CleanEnergy #EnergySavings #SmartSolar #MPPTInverter Luminous Solar, on-grid inverter, grid-tied inverter, solar inverter, renewable energy, solar power, NXi inverter, MPPT technology, high-efficiency inverter, energy savings. Luminous solar on-grid inverter price, buy Luminous NXi inverter, benefits of Luminous grid-tied inverter for home, Luminous solar inverter installation, Luminous NXi 2kW inverter, Luminous NXi 3kW inverter, Luminous 5kW on-grid inverter review, best on-grid inverter.
-  Updated: 2026-03-03T04:45:09Z
+  Updated: 2026-06-08T23:37:27Z
   Total Products: 10
 - [Anchor Solar Ongrid  Inverter](https://solar-world.in/collections/anchor-solar-ongrid-inverter): Anchor Solar On-Grid Inverter, powered by Panasonic, offers a reliable and efficient solution for homes and businesses looking to leverage solar energy. Key features include high MPPT (Maximum Power Point Tracking) efficiencies (up to 99.9%), and superior protection against dust and water, making them ideal for outdoor installations. Designed for "plug and play" ease of use, Anchor inverters are lightweight, compact, and come with a 10-year warranty. #SolarInverter #OnGridInverter #AnchorSolar #PanasonicSolar #RenewableEnergy #CleanEnergy #SolarPower #NetMetering #EnergyEfficiency #SustainableLiving #HomeSolar #CommercialSolar #GridTieInverter #SolarSolutions #GreenEnergy #ReduceElectricityBills #MPPTTechnology #SolarEnergySystem #SmartInverter #PhotovoltaicSystem
-  Updated: 2025-11-27T00:25:00Z
+  Updated: 2026-06-08T23:37:27Z
   Total Products: 9
 - [UTL Inverter & Lithium Ion  Battery Combo](https://solar-world.in/collections/utl-inverter-lithium-ion-battery-combo): The UTL Inverter & Lithium Ion Battery Combo offers a cutting-edge power backup and solar energy storage solution for homes and businesses. This integrated system combines UTL's advanced inverters, often featuring MPPT (Maximum Power Point Tracking) technology for optimized solar energy harvesting, with high-performance, maintenance-free Lithium-Ion (LiFePO4/LFP) batteries. These combos are designed for superior efficiency, longer lifespan (up to 3x that of lead-acid batteries), faster charging, and a compact, lightweight footprint, making them an ideal choice for reliable and sustainable power, especially in areas with frequent power cuts or for maximizing solar self-consumption. #UTLSolar #LithiumIonBattery #SolarInverter #PowerBackup #RenewableEnergy #HomeEnergy #SustainableLiving #EnergyStorage #OffGridSolar #HybridSolar
-  Updated: 2026-03-13T06:46:50Z
+  Updated: 2026-06-08T23:37:27Z
   Total Products: 7
 - [Energy Meter and Digital Meters](https://solar-world.in/collections/energy-meter-and-digital-meters): Techno Energy Meter offers the accuracy and insight you need. Techno Meters & Electronics, a trusted manufacturer, provides a range of reliable and innovative energy metering solutions designed to empower you with real-time data and help you optimize your power consumption. Techno Single-Phase Multi-Purpose Energy Meter: A popular choice for residential and small commercial applications, offering accuracy and multiple parameter displays. Techno 3 Phase Multifunctional Energy Meter: Designed for industrial and larger commercial use, capable of handling higher currents and providing detailed three-phase measurements. #TechnoEnergyMeter #EnergyMeter #SmartMeter #ElectricityMeter #EnergyManagement #PowerConsumption #BatamEnergy #EnergyEfficiency #DigitalMeter #SinglePhaseMeter #ThreePhaseMeter #ReduceBills #HomeEnergy #IndustrialEnergy #EnergySaving Techno Energy Meter, Energy Meter, Digital Meter, Single Phase Meter, Three Phase Meter, Power Meter, KWH Meter, Electricity Meter, Techno Meter.
-  Updated: 2025-11-27T00:25:00Z
+  Updated: 2026-06-08T23:37:27Z
   Total Products: 2
 - [Waaree Lithium ion Battery](https://solar-world.in/collections/waaree-lithium-ion-battery)
-  Updated: 2025-11-27T00:25:01Z
+  Updated: 2026-06-08T23:41:28Z
   Total Products: 17
 - [UTL Home Inverter](https://solar-world.in/collections/utl-home-inverter-1): Introducing the Smart Inverter—your home’s ultimate power companion. The pure sine wave inverter features smart LCD display, and safety protections like overload, reverse battery polarity, and short-circuit. The inverter automatically switches on during power cuts and includes a fast-charging mode for instant backup power. It supports a wide range of batteries including flat plate, Tubular, and VRLA(SMF). #UTLInverter #HomeInverter #PowerBackup #UninterruptedPower #SineWaveInverter #SolarInverter #PowerSolutions #EnergyEfficiency #HomePower #InverterBattery #IndianHomes #NoMorePowerCuts #SmartInverter #ReliablePower #UTLSolar UTL Inverter, Home Inverter, Power Backup, Sine Wave Inverter, Solar Inverter, UPS for Home, Best Inverter, Inverter Price, Battery Inverter, UTL UPS.
-  Updated: 2026-03-03T06:35:53Z
+  Updated: 2026-06-08T23:43:07Z
   Total Products: 9
 - [Supreme ETC Solar Water Heater Non Pressurized Model](https://solar-world.in/collections/supreme-etc-solar-water-heater-non-pressurized-model)
-  Updated: 2025-11-27T00:25:01Z
+  Updated: 2026-06-08T23:47:30Z
   Total Products: 13
 - [Anchor Solar Panel](https://solar-world.in/collections/anchor-solar-panel): Mono PERC Half Cut to Bifacial and TopCon, our range reflects a commitment to Japanese quality standards, ensuring that you receive nothing short of the best. We offer high-quality solar products, including modules, inverters, and streetlights, complemented by reliable turnkey services for Solar EPC projects and O&M. With expertise spanning residential, commercial, and industrial segments,
   Updated: 2025-11-27T00:25:01Z
   Total Products: 0
 - [Heating Coil](https://solar-world.in/collections/heating-coil): Solar water heater Electric coil Element is a good way to keep getting hot water on cloudy days or when there isn’t enough sunlight. However, it can take away some of the green benefits of solar power since it uses electricity, which might bump up your electricity bill and cut down on your overall energy savings. Reliable hot water supply: Even when the sun isn’t shining, the electric coil makes sure you always have hot water. Flexibility: You can use the electric coil whenever you need it, turning it on only when necessary. Backup for bad weather: During long stretches of cloudy days, the electric coil can still give you enough hot water.
-  Updated: 2025-12-18T12:06:26Z
+  Updated: 2026-06-08T23:50:13Z
   Total Products: 6
 - [RR Kable Wires & Cables](https://solar-world.in/collections/rr-kable-wires-cables): RR Kabel offers an extensive range of wires and cables engineered for superior performance, unmatched safety, and long-term reliability for residential, commercial, and industrial applications right here in India. RR Kabel prioritizes safety above all else. Their wires and cables are manufactured using advanced flame-retardant (FR), flame-retardant low smoke (FRLS), and halogen-free flame-retardant (HFFR) compounds. This significantly reduces the risk of electrical fires and ensures minimal smoke and toxic gas emission in case of an unfortunate incident, providing precious time for evacuation. They are rigorously tested to withstand extreme conditions, giving you peace of mind. #RRKabel #WiresAndCables #ElectricalSafety #Electrical #QualityWires #FireRetardant #EnergyEfficient #ElectricalSolutions #HomeWiring #IndustrialCables #BuildingMaterials #SafeWiring #TrustworthyCables #SmartWiring #PowerDistribution RR Kabel, Wires, Cables, Electrical Wire, House Wire, Power Cable, Fire Retardant Wire, Copper Wire, Electrical Cable.
-  Updated: 2026-03-04T05:20:37Z
+  Updated: 2026-06-08T23:51:20Z
   Total Products: 14
 - [V Guard ETC Solar Water Heater](https://solar-world.in/collections/v-guard-etc-solar-water-heater): V-Guard Solar Water Heater. A premium solar water heater with a titanium-infused glass-lined inner tank suitable for any kind of water and advanced evacuated tubes for maximum heat absorption, giving consistent and steaming hot water. V-Guard solar water heaters are designed for optimal performance, durability, and a greener lifestyle. #VGuardSolarWaterHeater #SolarWaterHeater #GreenEnergy #HotWaterSolutions #EnergySavings #EcoFriendlyHome #RenewableEnergy #SolarEnergy #VGuardIndia #SustainableLiving #HomeImprovement #BatamHomes #WaterHeater #GoSolar #CleanEnergy V-Guard Solar Heater, Solar Water Heater, V-Guard Heater, Hot Water Solar, Solar Geyser, Energy Saving Heater, Rooftop Heater.
-  Updated: 2026-03-04T05:34:21Z
+  Updated: 2026-06-08T23:54:23Z
   Total Products: 5
 - [UTL Solar Hybrid Inverter](https://solar-world.in/collections/utl-solar-hybrid-inverter): Experience uninterrupted power, smarter energy savings, and complete control with our next-generation Hybrid Inverter series. It offers uninterrupted power by smartly switching between solar, battery, and grid. Whether you’re setting up a new system or upgrading an old one, it works seamlessly—saving you money, reducing downtime, and keeping your essentials running without hassle. Smart Features at a Glance Smart Load FunctionRuns only essential appliances during power cuts, ensuring longer backup and uninterrupted comfort. 3-in-1 Operation ModesOn-Grid, Off-Grid & UPS—choose the mode that fits your needs best. Smart MPPT Charging (3-Stage)Maximizes solar panel efficiency while protecting your battery’s health. User-Controlled Power PriorityDecide whether to use battery first, grid later—or the other way around. Built-in Export LimitationStay compliant with net-metering caps and limit feed-in to the grid. Retrofit Compatible (AC-Coupled)Easily upgrade existing solar setups without replacing everything. Parallel Inverter & Battery SupportScale your system with growing power needs—up to 10 inverters in parallel. 50A Charging/Discharging CapacityHandles high loads for larger homes and commercial setups with ease. Advanced ProtectionComplete defense against overload, overheating, and short circuits. Supports High Voltage BatteriesImproves overall efficiency and performance in demanding setups.
-  Updated: 2026-03-17T11:13:00Z
+  Updated: 2026-06-08T23:58:09Z
   Total Products: 9
 - [Kent Water Purifiers](https://solar-world.in/collections/kent-water-purifiers): Kent RO Systems offers a wide range of water purifiers. Their products, including the popular Mineral RO™ technology purifiers, ensure 100% pure water while retaining essential minerals. Explore their selection of air purifiers, vacuum cleaners, and smart kitchen appliances designed for a healthier home. As a leading brand in India, Kent is committed to quality and trusted by millions.
-  Updated: 2025-11-27T00:25:01Z
+  Updated: 2026-06-09T00:17:04Z
   Total Products: 15
 - [LED Street Light](https://solar-world.in/collections/led-street-light): Step into the future of urban and rural illumination with LED Street Lights. These cutting-edge lighting solutions are rapidly replacing traditional streetlights, offering a powerful combination of superior performance, remarkable energy efficiency, and significant long-term savings. From enhanced public safety to reduced environmental impact, LED street lights are transforming our communities after dark. #LEDStreetLights #SmartCity #EnergyEfficientLighting #SustainableLighting #PublicSafety #StreetLighting #GreenTechnology #UrbanLighting #LEDLighting #SmartStreetlights #EcoFriendlyLighting #CostSavings #FutureOfLighting #OutdoorLighting #SmartInfrastructure LED Street Light, Street Light, LED Lighting, Outdoor LED, Smart Street Light, Energy Saving Light, Public Lighting, Road Lighting, Urban Lighting.
-  Updated: 2026-03-03T07:15:38Z
+  Updated: 2026-06-09T01:30:25Z
   Total Products: 17
 - [offer](https://solar-world.in/collections/offer)
   Updated: 2025-11-27T00:25:01Z
   Total Products: 2
 - [UTL Sigma Solar Hybrid Inverter Single Phase](https://solar-world.in/collections/utl-sigma-solar-hybrid-inverter-single-phase): The UTL Sigma Hybrid Inverter is engineered with state-of-the-art technology, prioritizing solar energy and ensuring power continuity. True Hybrid Functionality (Grid-Tie + Backup): It operates in both Stand-Alone (Off-Grid) and Grid-Interactive (On-Grid/Net Metering) modes. You can export surplus solar power to the grid to earn credits and store solar energy in batteries for backup during power outages. rMPPT Charge Controller: Equipped with an rMPPT (Rapid Maximum Power Point Tracking) charge controller, the Sigma+ ensures up to 30% higher efficiency than standard inverters, maximizing the yield from your solar panels. DSP-Based Pure Sine Wave Output: The Digital Signal Processor (DSP)-based design provides a stable, pure sine wave output, which is essential for running sensitive and expensive home appliances like air conditioners, refrigerators, and computers safely. Priority-Based Working Modes: The inverter features user-friendly, switchable operating modes (Smart/PCU/Hybrid) allowing you to dictate the power preference (e.g., solar, battery, grid) based on your needs and local utility policies. Lithium and Lead-Acid Compatible: The UTL Sigma Pro models support both traditional lead-acid and modern, high-performance lithium-ion (LiFePO4) batteries, offering flexibility for your energy storage choice. Remote Monitoring: Standard or optional Wi-Fi/GSM modules allow you to monitor all AC and DC parameters, generation, and consumption remotely via a dedicated app, giving you real-time control over your system. UTL Sigma inverter, Hybrid solar PCU, Single-phase hybrid inverter, UTL Solar inverter, Grid export inverter, UTL Sigma 5kVA single-phase hybrid price, Best single-phase hybrid solar inverter in India, UTL Sigma+ rMPPT PCU features, Hybrid solar inverter with net metering and backup, Install UTL Sigma Pro 3kVA inverter for home, UTL Sigma hybrid inverter battery compatibility #UTLSolar #SigmaHybridPCU #HybridInverter #SolarForHome #NetMetering #SolarBackup #GoSolar #RenewableEnergy #SinglePhaseInverter #SolarInIndia
-  Updated: 2026-05-28T16:03:12Z
+  Updated: 2026-06-09T01:49:58Z
   Total Products: 10
 - [UTL Zeta Solar Hybrid Inverter Three Phase](https://solar-world.in/collections/utl-zeta-solar-hybrid-inverter-three-phase): The UTL Zeta is built to manage the complex demands of a three-phase system, offering superior performance through its core technology: True Three-Phase Hybrid Operation: It offers the dual benefits of net metering (exporting surplus solar to the grid) and essential battery backup for critical loads during blackouts. This eliminates the trade-off between grid savings and power security. High-Efficiency MPPT Technology: Featuring a built-in Maximum Power Point Tracking (MPPT) charge controller, the Zeta PCU ensures the solar panels operate at their peak power point, yielding a higher power harvest and efficiency (often up to (95%) compared to PWM controllers. DSP-Based Pure Sine Wave Output: With a Digital Signal Processor (DSP)-based design, the inverter delivers a stable, pure sine wave, three-phase output. This is vital for running heavy, sensitive machinery and appliances without the risk of damage or performance issues. Industrial-Grade Robustness: The use of IGBT (Insulated Gate Bipolar Transistor) switching elements ensures the inverter is robust, highly reliable, and designed for a long product life, often specified for up to 20 years. Advanced Monitoring and Configurability: The inverter includes advanced monitoring features (such as USB/RS485 based monitoring with data storage and optional Wi-Fi). Users can configure key parameters like grid charging and operating modes (Smart/PCU/Hybrid) via the integrated LCD, giving total control over energy usage priority. Scalable Capacity: The Zeta series is available in large capacities, typically starting from 7.5 kVA and 10 kVA up to 50 kVA and beyond, perfectly suiting small factories, offices, hospitals, and large apartment complexes. UTL Zeta inverter, three-phase hybrid solar, 10kVA hybrid PCU15, industrial solar inverter, UTL MPPT three-phase, long-tail keywords (specific, high intent), UTL Zeta 10kVA 3-phase hybrid inverter price, best three-phase solar inverter with battery backup, high-capacity UTL Zeta PCU for commercial use, DSP-based three-phase hybrid solar inverter features, UTL Zeta PCU net metering functionality, and 7.5kVA 3-phase hybrid solar PCU for industry. #UTLZeta #ThreePhaseSolar #HybridInverter #SolarPCU #CommercialSolar #SolarEnergy #NetMetering #PowerBackup #MPPTController #IGBTEchnology
-  Updated: 2026-05-28T16:11:07Z
+  Updated: 2026-06-09T01:50:12Z
   Total Products: 7
 - [Deye Solar Hybrid Inverter](https://solar-world.in/collections/deye-solar-hybrid-inverter): Ye has cemented its reputation by packing high performance and versatility into a single, compact unit. This makes them a favorite for installers and end-users worldwide. Integrated Storage & Grid-Tie: Deye hybrid inverters are the foundation of a grid-tied with battery backup system. They efficiently convert DC power from your panels into AC power for your home, while also acting as a battery charger and managing the export of excess energy to the grid (net metering). Seamless Backup (UPS Functionality): When the grid fails, the inverter automatically switches to Uninterrupted Power Supply (UPS) mode within milliseconds, drawing stored power from your batteries to run essential loads. This ensures your lights, Wi-Fi, and critical appliances stay on. High DC/AC Ratio: Many Deye models support a high DC input to AC output ratio (e.g., up to 1.3 DC/AC), allowing you to oversize your solar array to maximize generation, especially during off-peak hours or lower light conditions. Wide Compatibility: Deye inverters are compatible with both low voltage (LV) 48V and high voltage (HV) battery solutions (including lead-acid and lithium iron phosphate/LiFePO₄ batteries with BMS communication), offering flexibility for current and future system designs. Parallel Stacking & Scalability: For large residential or commercial systems, many Deye hybrid models support parallel operation (up to 10 units or more). This allows you to easily expand your system's power and storage capacity over time. Smart Remote Monitoring: Every Deye hybrid inverter typically includes a built-in Wi-Fi or GPRS module for easy connection to the Deye Cloud. 10 This provides you with remote, real-time data on production, consumption, battery state, and grid interaction via a user-friendly app. Deye Hybrid Inverter, Solar Storage Inverter, Battery Backup Inverter, Deye 5kW Hybrid, All-in-One Solar Inverter, Deye Single-Phase Hybrid Inverter Price, Install Deye 8kW Hybrid Inverter with Battery, Best Hybrid Solar Inverter for Home Backup, Deye Three-Phase Hybrid Inverter Models, SUN-5K-SG04LP1-EU Deye Features, Hybrid Inverter with Net Metering and UPS. #DeyeInverter #HybridSolar #EnergyStorage #BatteryBackup #OffGridReady #NetMetering #SolarForHome #EnergyIndependence #SmartEnergy #DeyeSG04LP1
-  Updated: 2026-05-28T13:09:28Z
+  Updated: 2026-06-09T01:50:05Z
   Total Products: 11
 - [Deye Solar Ongrid Inverter](https://solar-world.in/collections/deye-solar-ongrid-inverter): Deye's on-grid (or grid-tie) inverters are designed to efficiently convert the DC power generated by your solar panels into AC power that can be used by your home or business and feed surplus power back into the utility grid. Exceptional Efficiency: Deye inverters boast impressive maximum efficiency ratings, often reaching up to {98.6% or higher. This means more of the sun's energy is converted into usable electricity, leading to greater savings on your energy bills. Low Start-up Voltage: Many Deye single-phase models feature a low start-up voltage (as low as 80V). This allows the inverter to begin generating power earlier in the morning and continue later in the evening, extending your system's daily energy production. Intelligent Monitoring (Standard Wi-Fi): Every Deye on-grid inverter is typically equipped with a free Wi-Fi monitoring module. This smart feature allows you to monitor your system's performance remotely via an intuitive app, track your daily energy generation, and even allow your installer to perform remote service and . Safety and Reliability: Built with high-quality components, Deye inverters include multiple protection systems against overloads, short circuits, and overheating, ensuring long-term, stable operation. They also come with an excellent warranty, often an {8-year} standard warranty with options for extension. Zero Export Functionality: For homeowners or businesses required to limit or prevent the export of excess solar power to the utility grid, Deye inverters offer a zero export application function (with an external CT clamp). Deye inverter On-grid inverter Solar inverter, grid-tie inverter Deye solar Best Deye on-grid inverter for home, Deye 5kW grid-tie inverter price in India, install Deye single-phase solar inverter, Deye inverter Wi-Fi monitoring setup, how to compare Deye on-grid models, Deye inverter warranty and reviews, high efficiency Deye solar inverter. #DeyeInverter #SolarPower #OnGridSolar #GridTie #RenewableEnergy #SolarEnergy #PVSystem #SolarInverter #EnergyEfficiency #GoSolar
-  Updated: 2026-05-28T12:37:20Z
+  Updated: 2026-06-09T01:50:11Z
   Total Products: 22
 - [ABB Products](https://solar-world.in/collections/abb-products): ABB LV Motors ABB VFD Drives ABB Contactors ABB Circuit Breakers ABB Miniature Circuit Breakers (MCBs) We are your sourcing partner for all solar and industrial product needs. Please send us your enquiry to info.spectraenergy@gmail.com / info@spectra-energy.in.
   Updated: 2025-11-30T06:49:47Z
@@ -1305,8 +1305,8 @@
   Updated: 2025-11-30T06:48:37Z
   Total Products: 0
 - [R STAHL Products](https://solar-world.in/collections/rockwell-products): R STAHL Ex Lighting Fixtures R STAHL Ex Flood Lights R STAHL EX Sockets & Plugs R STAHL Ex Local Control Station R STAHL Ex Cable Glands R STAHL Ex Distribution Board R STAHL Ex Junction Box Chat with our Ai Technical assistant for R. STAHL hazardous-area product selection and guidance.
-  Updated: 2026-06-02T15:01:32Z
-  Total Products: 10
+  Updated: 2026-06-04T11:03:54Z
+  Total Products: 19
 - [Rockwell Products](https://solar-world.in/collections/rockwell-products-1): Rockwell VFD Drive Rockwell Distribution Board Rockwell Control Panel Rockwell Relays Rockwell Circuit Breakers We are your sourcing partner for all solar and industrial product needs. Please send us your enquiry to info.spectraenergy@gmail.com / info@spectra-energy.in.
   Updated: 2025-11-30T06:53:21Z
   Total Products: 0
@@ -1337,9 +1337,9 @@
 - [Raychem Heat Tracing Solutions](https://solar-world.in/collections/raychem-heat-tracing-solutions): Heat Tracing (HT) Cables HT Components and Accessories HT Control And Monitoring HT Splice Kits And Termination Units HT Tank Insulation We are your sourcing partner for all solar and industrial product needs. Please send us your enquiry to info.spectraenergy@gmail.com / info@spectra-energy.in.
   Updated: 2025-11-30T10:07:03Z
   Total Products: 0
-- [Hawke Transit System](https://solar-world.in/collections/hawke-transit-system): MCT Modules Sealing Modules Frames & Sleeve Components and Accessories Installation Tools & Accessories We are your sourcing partner for all solar and industrial product needs. Please send us your enquiry to info.spectraenergy@gmail.com / info@spectra-energy.in.
-  Updated: 2025-12-05T12:53:26Z
-  Total Products: 0
+- [Hawke Transit System](https://solar-world.in/collections/hawke-transit-system): MCT Modules Sealing Modules Frames & Sleeve Components and Accessories Installation Tools & Accessories We are your sourcing partner for all solar and industrial product needs. Please send us your enquiry to info.spectraenergy@gmail.com / info@spectra-energy.in. Chat with our Hawke AI Technical assistant for Hawke MCT product selection and guidance.
+  Updated: 2026-06-08T05:31:07Z
+  Total Products: 21
 - [Thermo Cables](https://solar-world.in/collections/thermo-cables): Instrumentation Cables LV Power & Control Cables Marine / Shipboard Cables Renewable Energy Cables (Wind & Solar) High Temperature Cables We are your sourcing partner for all solar and industrial product needs. Please send us your enquiry to info.spectraenergy@gmail.com / info@spectra-energy.in.
   Updated: 2025-12-05T13:08:45Z
   Total Products: 0
@@ -1353,8 +1353,8 @@
   Updated: 2025-12-06T14:09:43Z
   Total Products: 0
 - [LPI Lightning Arrester](https://solar-world.in/collections/lpi-lightning-arrester): ESE Lightning Arresters Surge Arrester Lightning Arrester Surge Protection Device Earthing Electrode We are your sourcing partner for all solar and industrial product needs. Please send us your enquiry to info.spectraenergy@gmail.com / info@spectra-energy.in.
-  Updated: 2025-12-09T11:59:47Z
-  Total Products: 0
+  Updated: 2026-06-09T12:45:08Z
+  Total Products: 11
 - [SUMIP FRP Cable Tray and Accessories](https://solar-world.in/collections/sumip-frp-cable-tray-and-accessories): GRP Fiberglass Cable Trays GRP Fiberglass Ladders GRP Supports GRP Canopy GRP Moulded Gratings We are your sourcing partner for all solar and industrial product needs. Please send us your enquiry to info.spectraenergy@gmail.com / info@spectra-energy.in.
   Updated: 2025-12-09T12:12:24Z
   Total Products: 0
@@ -1362,7 +1362,7 @@
   Updated: 2025-12-09T12:36:49Z
   Total Products: 0
 - [V-Guard Heat Pump Water Heater](https://solar-world.in/collections/v-guard-heat-pump-water-heater): Domestic Heat Pump Water Heaters is designed to give you and your family hot water round the clock, throughout the year in an energy efficient and affordable way. Running hot water, in recent times has become a necessity more than a luxury. With V-Guard, every household can now have readily available hot water anytime. They are energy efficient and save on fuel cost as the heat is absorbed from the atmosphere. Like every other product from V-Guard, the smallest detail has been looked at to make sure that only the best product reaches our valuable customer. V-Guard Heat Pump Water Heaters are usually said to be “fit and forget” units. If you have bought a V-Guard heat pump water heater, rest assured, you have bought the best product in its category with best-in-class features in safety, efficiency, power saving and environment protection. So, if you want to spend lesser than what you pay currently for using warmer water, heat pump water heater is the thing which you would not want to miss out on. SALIENT FEATURES The enamel glass line-coated tank helps in corrosion resistance and trouble-free performance. V-Guard Domestic Hear Pump uses an environment-friendly R410A refrigerant. The glass-lined storage tank of the V-Guard Domestic Hear Pump is suitable for all kinds of water. V-Guard Domestic Heat Pump comes with a 5-year warranty for the tank and compressor and a 3-year warranty for the heat pump. The V-Guard Domestic Heat Pump has a silent operation; therefore, you won't be disturbed by the rumbling noise.Condition: Note * Heating Capacity at Air 20°C/15°C, Water Temperature from 15°C to 55°C Easy to install and assures hassle-free services The low-maintenance feature helps you save money and time. The electric backup heater provides faster heating by enabling a temperature rise of up to 75 degrees Celsius. Automatic defrost assures that maintenance and cleaning intervals do not come too often.
-  Updated: 2025-12-10T10:49:12Z
+  Updated: 2026-06-09T02:01:45Z
   Total Products: 4
 - [Metal Mech Gland](https://solar-world.in/collections/metal-mech-gland)
   Updated: 2026-01-02T15:39:00Z
@@ -1377,22 +1377,22 @@
   Updated: 2026-01-02T17:25:19Z
   Total Products: 0
 - [Eastman Hybrid Inverter](https://solar-world.in/collections/eastman-solar-hybrid-inverter)
-  Updated: 2026-04-05T03:24:13Z
+  Updated: 2026-06-09T03:33:07Z
   Total Products: 3
 - [Eastman Lithium Battery](https://solar-world.in/collections/eastman-lithium-battery)
-  Updated: 2026-05-26T04:33:54Z
+  Updated: 2026-06-11T12:48:59Z
   Total Products: 3
 - [Deye Lithium Battery ESS Solution](https://solar-world.in/collections/deye-lithium-battery-ess-solution)
-  Updated: 2026-05-28T11:22:37Z
+  Updated: 2026-06-09T03:33:52Z
   Total Products: 3
 - [Eastman Grid Tie Inverter](https://solar-world.in/collections/eastman-grid-tie-inverter)
-  Updated: 2026-05-28T13:47:23Z
+  Updated: 2026-06-11T12:24:38Z
   Total Products: 16
 - [Eastman Tubular Battery](https://solar-world.in/collections/eastman-tubular-battery)
-  Updated: 2026-03-23T14:44:32Z
+  Updated: 2026-06-09T03:35:06Z
   Total Products: 18
 - [Eastman Home Inverter](https://solar-world.in/collections/eastman-home-inverter)
-  Updated: 2026-03-23T14:43:21Z
+  Updated: 2026-06-09T03:35:08Z
   Total Products: 12
 
 ## Blogs
