@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-09-05T17:17:19Z
 - Contact Email: infohelixlabz@gmail.com
-- Updated At: 2026-06-06T10:06:54.216Z
+- Updated At: 2026-06-14T00:00:29.191Z
 
 ## Products
 
@@ -42,7 +42,7 @@
   Image: https://cdn.shopify.com/s/files/1/0893/0194/2565/files/WhatsApp_Image_2025-02-26_at_6.05.15_PM.jpg?v=1740573342
   Price: ₹349.00 INR
 - [Helix Labz Gym Bag (Black)](https://helixlabz.com/products/helix-labz-gym-bag-black): Helix Labz Duffel Bag is sleek, durable, and designed to keep you organized—whether heading to the gym or off on a weekend getaway! 🔹 Versatile Gym and Travel Bag—Your perfect companion for workouts, travel, or daily commutes! With multiple compartments, it keeps all your essentials neatly stored and easily accessible. 🔹 Durable & Reliable – Crafted with strong stitching and sturdy zippers, ensuring long-lasting performance. 🔹 Ventilated Shoe Compartment – Keep your shoes separate from your clean clothes with a breathable shoe compartment—no more unwanted odors! 🔹 Comfortable & Adjustable Strap – Designed for a secure grip and easy carrying, even when packed with heavy gear. Stay organized and travel with ease with the *Helix Labz Duffel Bag! 💪🎒
-  Updated: 2026-05-01T17:54:39Z
+  Updated: 2026-06-13T13:19:21Z
   Vendor: Helix Labz
   Product Type: 
   Availability: Available
@@ -64,7 +64,7 @@
     Availability: Available
     Price: ₹699.00 INR
 - [Helix Labz Rider Pre-Workout (43 Servings) | Free Shaker](https://helixlabz.com/products/helix-labz-rider-pre-workout-43-servings-get-free-plastic-shaker): Buy Helix Labz Rider Pre-Workout (43 Servings). Packed with Beta-Alanine, Arginine HCL & L-Citrulline for massive pumps & faster recovery. Order Now!
-  Updated: 2026-05-11T04:03:51Z
+  Updated: 2026-06-13T13:26:10Z
   Vendor: Helix Labz
   Product Type: 
   Availability: Available
@@ -79,7 +79,7 @@
     Availability: Available
     Price: ₹899.00 INR
 - [Helix Labz High Protein Oats – Dark Chocolate | 750g](https://helixlabz.com/products/helix-labz-high-protein-oats-dark-chocolate-750gm): Shop Helix High Protein Oats – 750g Dark Chocolate flavor with 23g protein per serving. Gluten-free, fiber-rich, and enriched with jaggery & superfoods. Quick, tasty, and nutritious.
-  Updated: 2026-06-05T11:41:17Z
+  Updated: 2026-06-11T05:21:39Z
   Vendor: Helix Labz
   Product Type: 
   Availability: Available
@@ -113,42 +113,26 @@
   - [Pack of 3 / Berry Punch](https://helixlabz.com/products/helix-labz-high-quality-protein-bar-20g-protein?variant=52030251303205)
     Availability: Available
     Price: ₹349.00 INR
-- [Helix Labz Kraken Pre Workout Powder ( Powered by US Patent Nitrosigine )](https://helixlabz.com/products/helix-labz-kraken-pre-workout): Boost your workout performance with Helix Labz Kraken Pre-Workout. Packed with powerful ingredients for increased energy, focus, and endurance, Kraken helps you crush your fitness goals.
-  Updated: 2026-06-06T05:35:58Z
+- [Kraken Pre Workout](https://helixlabz.com/products/helix-labz-kraken-pre-workout): Boost your workout performance with Helix Labz Kraken Pre-Workout. Packed with powerful ingredients for increased energy, focus, and endurance, Kraken helps you crush your fitness goals.
+  Updated: 2026-06-13T13:20:37Z
   Vendor: Helix Labz
   Product Type: Powder
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0893/0194/2565/files/WhatsAppImage2025-10-10at3.35.48PM.jpg?v=1760091919
-  - [Fruits Fury / Creatine 250g](https://helixlabz.com/products/helix-labz-kraken-pre-workout?variant=51354048561445)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0893/0194/2565/files/WhatsAppImage2025-10-10at3.35.48PM.jpg?v=1760091919
-    Price: ₹2,099.00 INR
-  - [Fruits Fury / Plastic Shaker](https://helixlabz.com/products/helix-labz-kraken-pre-workout?variant=52393949888805)
+  Image: https://cdn.shopify.com/s/files/1/0893/0194/2565/files/fruits-fury-white-kraken.jpg?v=1781171140
+  - [Fruits Fury](https://helixlabz.com/products/helix-labz-kraken-pre-workout?variant=51354048561445)
     Availability: Available
     Price: ₹1,899.00 INR
-  - [Berry Storm / Creatine 250g](https://helixlabz.com/products/helix-labz-kraken-pre-workout?variant=51354048594213)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0893/0194/2565/files/WhatsAppImage2025-10-10at3.35.52PM.jpg?v=1761235783
-    Price: ₹2,099.00 INR
-  - [Berry Storm / Plastic Shaker](https://helixlabz.com/products/helix-labz-kraken-pre-workout?variant=52393949921573)
+  - [Berry Storm](https://helixlabz.com/products/helix-labz-kraken-pre-workout?variant=51354048594213)
     Availability: Available
     Price: ₹1,899.00 INR
-  - [Orange Rush / Creatine 250g](https://helixlabz.com/products/helix-labz-kraken-pre-workout?variant=51354048626981)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0893/0194/2565/files/WhatsAppImage2025-10-10at3.36.04PM.jpg?v=1761235783
-    Price: ₹2,099.00 INR
-  - [Orange Rush / Plastic Shaker](https://helixlabz.com/products/helix-labz-kraken-pre-workout?variant=52393949954341)
+  - [Orange Rush](https://helixlabz.com/products/helix-labz-kraken-pre-workout?variant=51354048626981)
     Availability: Not Available
     Price: ₹1,899.00 INR
-  - [Mango / Creatine 250g](https://helixlabz.com/products/helix-labz-kraken-pre-workout?variant=52336048636197)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0893/0194/2565/files/kraken_2_mockup_mango_1.png?v=1778246767
-    Price: ₹2,099.00 INR
-  - [Mango / Plastic Shaker](https://helixlabz.com/products/helix-labz-kraken-pre-workout?variant=52393949987109)
+  - [Mango](https://helixlabz.com/products/helix-labz-kraken-pre-workout?variant=52336048636197)
     Availability: Available
     Price: ₹1,899.00 INR
-- [HelixLabz Active Whey Protein | Informed Sport  - 900Gm (2Lbs), 25 Servings](https://helixlabz.com/products/helixlabz-active-whey-protein-informed-sport--900gm): HelixLabz Active Whey Protein delivers premium muscle-building nutrition in every scoop. This Informed Sport  formula ensures you're getting a clean, tested product free from banned substances—perfect for serious athletes and fitness enthusiasts. With 25 servings per 900g pack, you get consistent quality to support your training goals. Each serving provides the protein your body needs to recover stronger and build lean muscle mass. Whether you're hitting the gym or recovering post-workout, Active Whey Protein is your reliable partner in achieving peak performance.
-  Updated: 2026-06-03T12:27:23Z
+- [Active Whey Protein | Informed Sport  - 900Gm (2Lbs), 25 Servings](https://helixlabz.com/products/helixlabz-active-whey-protein-informed-sport--900gm): HelixLabz Active Whey Protein delivers premium muscle-building nutrition in every scoop. This Informed Sport  formula ensures you're getting a clean, tested product free from banned substances—perfect for serious athletes and fitness enthusiasts. With 25 servings per 900g pack, you get consistent quality to support your training goals. Each serving provides the protein your body needs to recover stronger and build lean muscle mass. Whether you're hitting the gym or recovering post-workout, Active Whey Protein is your reliable partner in achieving peak performance.
+  Updated: 2026-06-12T00:35:44Z
   Vendor: Helix Labz
   Product Type: 
   Availability: Available
@@ -241,7 +225,7 @@
     Image: https://cdn.shopify.com/s/files/1/0893/0194/2565/files/keserpista1.png?v=1772094058
     Price: ₹4,199.00 INR
 - [Helix Labz L-Carnitine Liquid 3500mg, 30 Servings](https://helixlabz.com/products/helix-labz-l-carnitine-liquid-3500mg-450ml-30-servings): Shop Helix Labz L-Carnitine Liquid 3500mg (450ml). Supports fat metabolism, boosts energy, and aids workout recovery. Convenient liquid format with 30 servings.
-  Updated: 2026-06-03T13:07:05Z
+  Updated: 2026-06-09T12:17:28Z
   Vendor: Helix Labz
   Product Type: 
   Availability: Available
@@ -300,7 +284,7 @@
     Image: https://cdn.shopify.com/s/files/1/0893/0194/2565/files/lean-mass-gainer.jpg?v=1772448427
     Price: ₹2,349.00 INR
 - [HelixLabz Nitra Whey Protein | Ultimate Muscle Building Formula - 2.2kg(4.91Lbs)](https://helixlabz.com/products/helixlabz-nitra-whey-protein-ultimate-muscle-building-formula-2-2kg4-91lbs): HelixLabz Nitra Whey Protein – Ultimate Muscle Building Formula (2.2kg) is a premium whey protein designed to support muscle growth, faster recovery, and improved strength. Each serving delivers 28g high-quality protein, 3g creatine, and 6.6g BCAAs to help fuel workouts and enhance muscle performance. The fast-absorbing formula helps repair muscles after intense training sessions while supporting daily protein intake. With zero added sugar and a smooth Blueberry Muffin flavor, it is an ideal choice for athletes, bodybuilders, and fitness enthusiasts looking for effective nutrition to support their fitness goals. Key Highlights ✔ 28g High-Quality Protein per ServingSupports lean muscle growth and helps maintain muscle mass. ✔ 3g Creatine for Strength & PerformanceEnhances workout power, endurance, and muscle performance. ✔ 6.6g BCAA ComplexHelps reduce muscle breakdown and speeds up recovery. ✔ Zero Added SugarClean nutrition without unnecessary sugars. ✔ Fast Absorption FormulaDesigned for quick digestion and rapid protein delivery. ✔ Supports Muscle Building & RecoveryHelps repair muscle tissue after intense training sessions. Why Choose HelixLabz Nitra Whey? • Platinum-grade protein nutrition• Balanced carbohydrates for energy support• Advanced muscle recovery matrix• Enhanced strength and endurance support• Ideal for gym training, strength athletes, and bodybuilders Who Should Use This Product? ✔ Gym beginners and athletes✔ Bodybuilders and strength trainers✔ Anyone looking to increase daily protein intake✔ Individuals aiming for lean muscle development How To Use Recommended Usage 1 Scoop (approx. 39g) with 200–250ml chilled water or milk. Best Time to Consume • Post workout for recovery• Morning for protein intake• Anytime during the day to meet daily protein needs Recommended 1–2 servings per day or as advised by your dietitian.
-  Updated: 2026-05-05T07:23:41Z
+  Updated: 2026-06-10T07:36:19Z
   Vendor: Helix Labz
   Product Type: Powder
   Availability: Available
@@ -308,24 +292,24 @@
   - [Blueberry Muffin](https://helixlabz.com/products/helixlabz-nitra-whey-protein-ultimate-muscle-building-formula-2-2kg4-91lbs?variant=52076597674277)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0893/0194/2565/files/blueberrymuffin1.png?v=1773493333
-    Price: ₹5,399.00 INR
+    Price: ₹5,999.00 INR
   - [Double Rich Chocolate](https://helixlabz.com/products/helixlabz-nitra-whey-protein-ultimate-muscle-building-formula-2-2kg4-91lbs?variant=52076597707045)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0893/0194/2565/files/doublerichchocolate1.png?v=1773493869
-    Price: ₹5,399.00 INR
+    Price: ₹5,999.00 INR
   - [Muffin De Vainilla](https://helixlabz.com/products/helixlabz-nitra-whey-protein-ultimate-muscle-building-formula-2-2kg4-91lbs?variant=52076597739813)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0893/0194/2565/files/muffindavanilla1.png?v=1773493869
-    Price: ₹5,399.00 INR
+    Price: ₹5,999.00 INR
 - [HelixLabz Gallon Gym Bottle 2.46 litre for Gym workout, gallon for adults, water bottle 2+ litres, Leakproof BPA Free](https://helixlabz.com/products/helixlabz-gallon-gym-bottle-2-46-litre-for-gym-workout-gallon-for-adults-water-bottle-2-litres-leakproof-bpa-free): Stay hydrated during intense workouts with the HelixLabz Gallon Gym Bottle. This 2.46-litre capacity ensures you have enough water to power through your entire training session without frequent refills. Designed for serious gym enthusiasts, the leakproof construction keeps your gym bag dry while the BPA-free material guarantees safe, clean hydration. The large gallon size is perfect for tracking daily water intake and maintaining peak performance. Durable, reliable, and built for the demands of your fitness journey.
-  Updated: 2026-05-29T18:44:50Z
+  Updated: 2026-06-13T13:19:48Z
   Vendor: Helix Labz
   Product Type: shaker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0893/0194/2565/files/WhatsAppImage2026-02-28at7.39.49PM_1.jpg?v=1774443846
   Price: ₹999.00 INR
 - [HelixLabz New Platinum Series Performance Whey Protein 2.2kg (4.89Lbs)](https://helixlabz.com/products/helixlabz-new-platinum-series-performance-whey-protein-2-2kg-4-89lbs): HelixLabz New Platinum Series Performance Whey Protein 2.2kg (4.89 lbs) – Dutch Chocolate Premium Whey Protein for Muscle Growth, Recovery & Strength Take your fitness journey to the next level with HelixLabz New Platinum Series Performance Whey Protein, a high-quality protein supplement crafted to support lean muscle growth, faster recovery, and improved workout performance. Packed with 24g of premium protein per serving, this advanced formula is ideal for gym-goers, athletes, and fitness enthusiasts looking for clean and effective nutrition. 🔍 Why Choose HelixLabz Performance Whey Protein? HelixLabz Performance Whey is engineered using a fast-absorbing whey protein blend, helping your muscles recover quickly after intense workouts. Enriched with BCAAs and L-Glutamine, it supports muscle repair, reduces fatigue, and enhances endurance. Whether your goal is muscle building, fat loss, or strength training, this whey protein delivers consistent results without unnecessary fillers. 💪 Key Benefits Supports lean muscle growth and recovery Enhances strength, stamina, and endurance Promotes fast muscle repair post-workout Helps maintain optimal protein intake Ideal for gym beginners and professional athletes 🧪 Nutritional Value (Per Serving – 37g) Protein: 24g Energy: 130 kcal Carbohydrates: 4g Fat: 2g Sugar: 0g Advanced Muscle Recovery Blend L-Arginine: 1500 mg L-Glutamine: 1000 mg BCAA Profile Leucine: 2.75g Isoleucine: 1.38g Valine: 1.38g ⚡ High-Performance Formula Fast Absorption: Quickly delivers protein to muscles Zero Added Sugar: Clean and lean nutrition Easy Mixing: Smooth texture with no lumps Great Taste: Rich Dutch Chocolate flavor 🥤 How to Use Mix 1 scoop (37g) with 200–250 ml water or milk.Consume post-workout or anytime to meet your daily protein requirements. 🎯 Who Should Use It? Bodybuilders & gym enthusiasts Athletes & sports professionals Beginners looking for muscle gain Anyone needing a high-quality daily protein supplement ⚠️ Important Information Store in a cool and dry place Not for medicinal use Keep out of reach of children Consult a  professional before use if needed 🏆 Conclusion If you're looking for a reliable, high-quality whey protein in India, HelixLabz Performance Whey Protein is the perfect choice to help you build muscle, recover faster, and perform better every day.
-  Updated: 2026-06-01T13:29:48Z
+  Updated: 2026-06-10T07:31:25Z
   Vendor: Helix Labz
   Product Type: 
   Availability: Available
@@ -333,15 +317,15 @@
   - [Dutch Chocolate](https://helixlabz.com/products/helixlabz-new-platinum-series-performance-whey-protein-2-2kg-4-89lbs?variant=52157769416997)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0893/0194/2565/files/dutchcocolate.png?v=1774517427
-    Price: ₹6,499.00 INR
+    Price: ₹7,199.00 INR
   - [Lotus Biscoff](https://helixlabz.com/products/helixlabz-new-platinum-series-performance-whey-protein-2-2kg-4-89lbs?variant=52157769449765)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0893/0194/2565/files/lotusbiscoff1.png?v=1774517427
-    Price: ₹6,499.00 INR
+    Price: ₹7,199.00 INR
   - [Vanilla Icecream](https://helixlabz.com/products/helixlabz-new-platinum-series-performance-whey-protein-2-2kg-4-89lbs?variant=52157769482533)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0893/0194/2565/files/vanillaicecream1.png?v=1774517427
-    Price: ₹6,499.00 INR
+    Price: ₹7,199.00 INR
 - [HelixLabz Gallon Gym Bottle 1.8 litre for Gym workout, gallon for adults, Leakproof BPA Free](https://helixlabz.com/products/helixlabz-gallon-gym-bottle-1-8-litre-for-gym-workout-gallon-for-adults-leakproof-bpa-free): Stay hydrated during intense workouts with the HelixLabz Gallon Gym Bottle. This 1.8 litre capacity ensures you have enough water to power through your entire training session without frequent refills. Designed for serious gym enthusiasts, the leakproof construction keeps your gym bag dry while the BPA-free material guarantees safe, clean hydration. The large gallon size is perfect for tracking daily water intake and maintaining peak performance. Durable, reliable, and built for the demands of your fitness journey.
   Updated: 2026-05-20T12:04:46Z
   Vendor: Helix Labz
@@ -356,26 +340,26 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0893/0194/2565/files/1g.png?v=1777976679
   Price: ₹1,199.00 INR
-- [HelixLabz ManFuel+ Shilajit + Ashwagandha Capsules | Vitality & Stamina Booster for Men | Advanced Ayurvedic Blend | 90 Capsules](https://helixlabz.com/products/helixlabz-manfuel-shilajit-ashwagandha-capsules-vitality-stamina-booster-for-men-advanced-ayurvedic-blend-90-capsules): Product Description: Upgrade your daily performance with HelixLabz ManFuel+, a powerful Ayurvedic formulation designed to support male vitality, stamina, and overall well-being. Infused with a potent combination of Shilajit, Ashwagandha, Safed Musli, Mucuna Pruriens, Akarakarabha, and Bhasmas, this advanced blend helps boost energy levels, reduce stress, and enhance natural performance. Crafted using traditional ingredients refined for modern lifestyles, ManFuel+ works to improve endurance, promote strength, and support hormonal balance—making it ideal for active individuals looking to perform at their peak. Key Benefits: Boosts stamina, strength & daily energy Supports natural vitality & vigor Helps reduce stress and improve mood Enhances overall male performance Made with premium Ayurvedic ingredients Product Highlights: Advanced Ayurvedic Formula 90 Easy-to-consume Capsules Manufactured in GMP & ISO  Facility Ideal for  men Directions for Use:Take as directed by a  professional. Safety Information: Not for medicinal use Do not exceed recommended dosage Keep out of reach of children Consult a  professional if you have any  condition Experience the perfect blend of tradition and science with HelixLabz ManFuel+—your daily partner for strength, stamina, and confidence.
-  Updated: 2026-06-06T06:08:05Z
+- [ManFuel+ Capsules | Shilajit + Ashwagandha | 90 Capsules](https://helixlabz.com/products/helixlabz-manfuel-shilajit-ashwagandha-capsules-vitality-stamina-booster-for-men-advanced-ayurvedic-blend-90-capsules): Product Description: Upgrade your daily performance with HelixLabz ManFuel+, a powerful Ayurvedic formulation designed to support male vitality, stamina, and overall well-being. Infused with a potent combination of Shilajit, Ashwagandha, Safed Musli, Mucuna Pruriens, Akarakarabha, and Bhasmas, this advanced blend helps boost energy levels, reduce stress, and enhance natural performance. Crafted using traditional ingredients refined for modern lifestyles, ManFuel+ works to improve endurance, promote strength, and support hormonal balance—making it ideal for active individuals looking to perform at their peak. Key Benefits: Boosts stamina, strength & daily energy Supports natural vitality & vigor Helps reduce stress and improve mood Enhances overall male performance Made with premium Ayurvedic ingredients Product Highlights: Advanced Ayurvedic Formula 90 Easy-to-consume Capsules Manufactured in GMP & ISO  Facility Ideal for  men Directions for Use:Take as directed by a  professional. Safety Information: Not for medicinal use Do not exceed recommended dosage Keep out of reach of children Consult a  professional if you have any  condition Experience the perfect blend of tradition and science with HelixLabz ManFuel+—your daily partner for strength, stamina, and confidence.
+  Updated: 2026-06-13T03:39:18Z
   Vendor: Helix Labz
   Product Type: capsules
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0893/0194/2565/files/1m.png?v=1778049505
+  Image: https://cdn.shopify.com/s/files/1/0893/0194/2565/files/manfuel-1.jpg?v=1781279149
   Price: ₹1,499.00 INR
-- [Helixlabz Burn Queen Slimming Capsules for Women – Metabolism Booster & Appetite Control Formula (90 Veg Capsules)](https://helixlabz.com/products/helixlabz-burn-queen-slimming-capsules-for-women-metabolism-booster-appetite-control-formula-90-veg-capsules): Description: Take charge of your wellness journey with Helixlabz Burn Queen Slimming Capsules, a thoughtfully crafted nutraceutical designed to support women’s weight management goals. Powered by a blend of natural ingredients like Garcinia Cambogia, Moringa, Spirulina, Green Tea Extract, and Green Coffee Bean, this formula works to boost metabolism, help control appetite, and support fat-burning processes. Each serving delivers a potent combination of plant-based extracts known for their role in promoting energy, enhancing metabolic activity, and supporting overall vitality. With 100% vegetarian capsules and no fillers or common allergens, it’s a clean and convenient addition to your daily routine. Key Benefits: Supports healthy metabolism Helps manage appetite and cravings Aids in fat-burning support Made with natural, plant-based extracts Vegetarian-friendly and easy to consume Usage: Take 3 capsules daily, preferably 30 minutes before meals with water, or as advised by your  professional. Note: This product is a dietary supplement and should not replace a balanced diet or healthy lifestyle.
-  Updated: 2026-06-06T06:11:11Z
+- [Burn Queen Slimming Capsules for Women (90 Veg Capsules)](https://helixlabz.com/products/helixlabz-burn-queen-slimming-capsules-for-women-metabolism-booster-appetite-control-formula-90-veg-capsules): Description: Take charge of your wellness journey with Helixlabz Burn Queen Slimming Capsules, a thoughtfully crafted nutraceutical designed to support women’s weight management goals. Powered by a blend of natural ingredients like Garcinia Cambogia, Moringa, Spirulina, Green Tea Extract, and Green Coffee Bean, this formula works to boost metabolism, help control appetite, and support fat-burning processes. Each serving delivers a potent combination of plant-based extracts known for their role in promoting energy, enhancing metabolic activity, and supporting overall vitality. With 100% vegetarian capsules and no fillers or common allergens, it’s a clean and convenient addition to your daily routine. Key Benefits: Supports healthy metabolism Helps manage appetite and cravings Aids in fat-burning support Made with natural, plant-based extracts Vegetarian-friendly and easy to consume Usage: Take 3 capsules daily, preferably 30 minutes before meals with water, or as advised by your  professional. Note: This product is a dietary supplement and should not replace a balanced diet or healthy lifestyle.
+  Updated: 2026-06-13T04:21:08Z
   Vendor: Helix Labz
   Product Type: capsules
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0893/0194/2565/files/1_dd46ee12-a814-4599-97f7-c4716eed26bd.png?v=1778054950
   Price: ₹1,249.00 INR
 - [Helixlabz Sleep 2 Win Tablets – Melatonin 10 mg + Tagar 250 mg with L-Theanine, Chamomile & Vitamin B6 (60 Tablets)](https://helixlabz.com/products/helixlabz-sleep-2-win-tablets-melatonin-10-mg-tagar-250-mg-with-l-theanine-chamomile-vitamin-b6-60-tablets): Description: Experience restful nights and refreshed mornings with Helixlabz Sleep 2 Win Tablets, an advanced sleep support formula designed to promote relaxation and improve sleep quality. Powered by 10 mg Melatonin and 250 mg Tagar (Valeriana wallichii), this blend helps regulate your sleep cycle and supports faster sleep onset. Enriched with calming ingredients like L-Theanine and Chamomile Extract, along with Vitamin B6 for added wellness support, this formula helps reduce stress, calm the mind, and encourage deep, uninterrupted rest. Key Benefits: Supports faster sleep onset Promotes deep and restful sleep Helps calm the mind and reduce stress Formulated with Melatonin, Tagar, L-Theanine & Chamomile Enriched with Vitamin B6 for overall wellness Usage: Take 1 tablet daily, preferably 30 minutes before bedtime, or as advised by your  professional. Note: This product is a nutraceutical supplement and not intended to diagnose, treat, , or prevent any disease.
-  Updated: 2026-05-06T09:33:10Z
+  Updated: 2026-06-13T16:30:53Z
   Vendor: Helix Labz
   Product Type: tablets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0893/0194/2565/files/1s.png?v=1778059570
+  Image: https://cdn.shopify.com/s/files/1/0893/0194/2565/files/main.png?v=1781367094
   Price: ₹949.00 INR
 - [HelixLabz Plastic Gym Bottle 2 litre for Gym workout](https://helixlabz.com/products/helixlabz-plastic-gym-bottle-2-litre-for-gym-workout): Stay hydrated during intense workouts with the HelixLabz Plastic Gym Bottle. This 1.8 litre capacity ensures you have enough water to power through your entire training session without frequent refills. Designed for serious gym enthusiasts, the leakproof construction keeps your gym bag dry while the BPA-free material guarantees safe, clean hydration. The large gallon size is perfect for tracking daily water intake and maintaining peak performance. Durable, reliable, and built for the demands of your fitness journey.
   Updated: 2026-05-20T12:04:46Z
@@ -388,10 +372,10 @@
 ## Collections
 
 - [Best Fat Burners Tablets online in India - Helix Labz](https://helixlabz.com/collections/fat-burner): Shop Helix Labz Fat Burner Capsules online, designed to support metabolism and daily energy needs. Ideal for fitness enthusiasts focusing on weight management and active living.
-  Updated: 2026-06-04T11:17:51Z
-  Total Products: 1
+  Updated: 2026-06-12T18:35:38Z
+  Total Products: 2
 - [Buy Pre-Workout Supplements Online | Helix Labz](https://helixlabz.com/collections/pre-workout): Buy premium & powerful pre-workout supplements online from Helix Labz at best prices in India. Explore energy-boosting pre-workout drinks & amino acids.
-  Updated: 2026-06-05T11:18:09Z
+  Updated: 2026-06-12T18:34:34Z
   Total Products: 3
 - [Helix Labz Peanut Butter – High Protein, Jaggery Sweetened, Gluten-Free](https://helixlabz.com/collections/peanut-butter): Shop Helix Labz Peanut Butter in exciting flavors like Chocolate, Mango, Cookies & Vanilla. High-protein, naturally sweetened with jaggery, gluten-free & freshly made for athletes & healthy snacking.
   Updated: 2026-05-21T08:13:25Z
@@ -400,14 +384,14 @@
   Updated: 2026-05-21T08:13:24Z
   Total Products: 2
 - [Protein Powder](https://helixlabz.com/collections/protein-powder)
-  Updated: 2026-06-03T08:06:39Z
+  Updated: 2026-06-11T12:32:50Z
   Total Products: 5
 - [Buy Amino Acid Supplements Online - Helix Labz](https://helixlabz.com/collections/amino-acids): Shop Helix Labz EAA supplements online. All 9 essential amino acids + electrolytes for hydration & recovery. Order your now!
   Updated: 2026-05-07T11:40:39Z
   Total Products: 2
 - [Helix Labz Whey Protein Online | Premium Quality Protein Powders](https://helixlabz.com/collections/whey-protein-1): Shop premium quality Helix Labz Whey Protein online. Choose 100% Whey Protein blends crafted for superior mixability and taste. Get authentic products delivered with exclusive offers.
-  Updated: 2026-06-03T08:06:39Z
-  Total Products: 6
+  Updated: 2026-06-12T18:29:33Z
+  Total Products: 4
 - [Buy Essential Amino Acids (EAAs) Supplements Online | Helix Labz](https://helixlabz.com/collections/best-range-of-eaas): Shop premium Essential Amino Acid (EAA) supplements online. Packed with all 9 essential amino acids, electrolytes, and refreshing flavors to fuel workouts.
   Updated: 2026-05-07T11:40:39Z
   Total Products: 1
@@ -421,44 +405,50 @@
   Updated: 2026-05-28T11:19:14Z
   Total Products: 2
 - [PRE-WORKOUT/FAT BURNER](https://helixlabz.com/collections/gainers-pre-workout)
-  Updated: 2026-06-05T11:18:09Z
-  Total Products: 4
+  Updated: 2026-06-12T11:22:02Z
+  Total Products: 5
 - [NEW ARRIVAL](https://helixlabz.com/collections/new-arrival)
-  Updated: 2026-06-04T11:17:51Z
+  Updated: 2026-06-12T16:21:01Z
   Total Products: 17
 - [Apparel & Accessories](https://helixlabz.com/collections/apparel-accessories)
   Updated: 2026-05-30T11:19:36Z
   Total Products: 7
 - [Protein](https://helixlabz.com/collections/protein)
-  Updated: 2026-06-03T08:06:39Z
+  Updated: 2026-06-11T12:32:50Z
   Total Products: 7
 - [Helix Labz Protein Bars - High Protein & Low Sugar](https://helixlabz.com/collections/protein-bar): Shop Helix Labz Protein Bars online. Enjoy high-protein, delicious bars made with natural ingredients like jaggery & roasted peanuts. Perfect for fitness, weight management & daily snacking.
   Updated: 2026-05-27T11:19:14Z
   Total Products: 1
 - [Best Sellers](https://helixlabz.com/collections/best-sellers)
-  Updated: 2026-06-05T11:18:09Z
-  Total Products: 12
+  Updated: 2026-06-12T11:22:02Z
+  Total Products: 13
 - [Shop](https://helixlabz.com/collections/shop)
-  Updated: 2026-06-05T11:18:09Z
-  Total Products: 44
+  Updated: 2026-06-12T16:21:01Z
+  Total Products: 45
 - [Buy Helix Labz Rice Cakes – Healthy Snacks for Fitness Lovers](https://helixlabz.com/collections/rice-cake): Explore Helix Labz Rice Cakes – low-calorie, high-fiber snacks made for fitness and flavor. Ideal for weight management, clean snacking & energy.
   Updated: 2026-05-21T11:27:48Z
   Total Products: 1
 - [Oats](https://helixlabz.com/collections/oats): A Complete Overview of Helix Labz Protein Oats Helix Labz Protein Oats is a convenient and nutritious way to fuel your active lifestyle. These high-protein oats are formulated to support your fitness goals by delivering a balanced blend of complex carbohydrates, quality protein, and dietary fiber. Whether you're an athlete, a fitness enthusiast, or someone looking for a wholesome breakfast or snack option, Helix Labz Protein Oats offers a delicious solution to stay energized and nourished throughout the day. Packed with essential nutrients and available in mouth-watering flavors, these protein oats help bridge the gap between your protein intake and daily energy needs. It’s a perfect on-the-go meal option for busy mornings, post-workout recovery, or even as a healthy mid-meal snack Benefits of Helix Labz Protein Oats High Protein ContentEach serving provides a generous amount of protein that contributes to your daily protein intake, essential for maintaining muscle mass and supporting an active lifestyle. Rich in Dietary FiberHelps in promoting satiety, supporting digestive wellness, and keeping you feeling fuller for longer, making it a smart addition to your daily diet. Slow-Release EnergyThe complex carbohydrates in oats provide sustained energy release, which helps you power through your workouts or busy day without quick energy crashes. Convenient & Ready-to-Mix FormulaJust add water or milk, stir, and enjoy a quick, nutritious meal without the hassle of extensive preparation. Available in Delicious FlavoursComes in rich, indulgent flavors that make healthy eating enjoyable without compromising on taste. When To Consume Helix Labz Protein Oats Breakfast: Start your day with a high-protein, fiber-rich breakfast that keeps you energized. Pre-Workout Meal: Consume 1-2 hours before a workout for sustained energy. Post-Workout Recovery: Ideal to refuel your body with protein and carbs after exercise. Healthy Snacking: Can be taken as a mid-meal snack to curb hunger pangs. Evening Meal Replacement: Works as a light and nutritious meal option in the evenings. Precautions To Take While Consuming Helix Labz Protein Oats Check Portion Size: Stick to the recommended serving size mentioned on the packaging to maintain a balanced diet. Monitor Allergies: If you are allergic to oats, dairy, or specific flavoring agents, consult your  provider before use. Stay Hydrated: Ensure adequate water intake throughout the day when consuming high-fiber foods. Dietary Balance: Do not replace all your meals with protein oats. Maintain a balanced diet with a variety of nutrients. Why Choose Helix Labz Protein Oats? Quality Ingredients: Made with premium-quality oats and protein sources to ensure optimal nutrition. Balanced Nutrition Profile: Provides a perfect blend of proteins, carbs, and fiber, supporting an active and healthy lifestyle. No Added Sugar: Helps you stay aligned with your clean eating goals. Convenient for Busy Schedules: Quick preparation makes it ideal for professionals, students, or anyone with a hectic routine. Trusted by Fitness Enthusiasts: A preferred choice for those who value taste, quality, and nutrition in one package. Frequently Asked Questions (FAQs) Q1. What are the key health benefits of Helix Labz Protein Oats?Helix Labz Protein Oats offers high protein content for muscle maintenance, dietary fiber for digestive health, and slow-digesting carbohydrates for sustained energy. It's a convenient meal option that aligns with a balanced, active lifestyle. Q2. When should I consume Helix Labz Protein Oats products?You can enjoy Helix Labz Protein Oats as a nutritious breakfast, pre-workout fuel, post-workout recovery meal, or even as a healthy mid-day snack. It’s versatile and fits perfectly into various meal times. Q3. What precautions should I take when using Helix Labz Protein Oats?Stick to the recommended serving size, monitor for any potential allergens, ensure sufficient water intake, and incorporate the oats into a balanced diet plan alongside other essential nutrients. Q4. Why choose Helix Labz Protein Oats for my fitness journey?Helix Labz Protein Oats combines superior-quality ingredients, delicious taste, and balanced nutrition, making it an excellent choice for individuals aiming for convenience, taste, and reliable nutrition in their fitness routine.
-  Updated: 2026-06-04T11:17:51Z
+  Updated: 2026-06-11T11:19:24Z
   Total Products: 1
 - [Foods](https://helixlabz.com/collections/foods)
-  Updated: 2026-06-04T11:17:51Z
+  Updated: 2026-06-11T11:19:24Z
   Total Products: 11
 - [Superfoods](https://helixlabz.com/collections/superfoods)
-  Updated: 2026-06-04T11:17:51Z
+  Updated: 2026-06-11T11:19:24Z
   Total Products: 11
 - [Gainer+Amino](https://helixlabz.com/collections/gainer-amino)
   Updated: 2026-05-28T11:19:14Z
   Total Products: 4
 - [Wellness Series](https://helixlabz.com/collections/wellness-series)
-  Updated: 2026-05-16T11:28:49Z
+  Updated: 2026-06-12T18:33:55Z
   Total Products: 11
+- [Gut Sheild](https://helixlabz.com/collections/gut-sheild)
+  Updated: 2026-06-13T12:48:14Z
+  Total Products: 1
+- [Sleep To Win](https://helixlabz.com/collections/sleep-to-win)
+  Updated: 2026-06-13T12:48:57Z
+  Total Products: 1
 
 ## Blogs
 
