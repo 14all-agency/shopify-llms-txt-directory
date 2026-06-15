@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2021-12-17T16:53:59Z
 - Contact Email: solarvision.shop@gmail.com
-- Updated At: 2026-06-06T16:45:11.889Z
+- Updated At: 2026-06-15T00:00:39.609Z
 
 ## Products
 
@@ -1483,7 +1483,7 @@ Plongez dans l'avenir de la mode avec la collection spatiale Solar Vision
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_08ff880e-60f9-460a-a5d2-e2947fa29929.png?v=1769303125
     Price: 140,00 € EUR
 - [Kiruna](https://solarvision.fr/products/kiruna): Découvrez les lunettes de soleil en acétate Solar Vision : un parfait mélange de style et de confort. Ajoutez une touche chic à votre look dès maintenant !
-  Updated: 2026-03-07T23:53:01Z
+  Updated: 2026-06-06T22:33:44Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1499,6 +1499,14 @@ Plongez dans l'avenir de la mode avec la collection spatiale Solar Vision
   - [Brun](https://solarvision.fr/products/kiruna?variant=48519304610120)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_f3161718-b32a-479e-8e7e-7ba3601e2271.jpg?v=1772927578
+    Price: 130,00 € EUR
+  - [Crystal rose](https://solarvision.fr/products/kiruna?variant=53241002983752)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_05ade7ef-647c-4556-ac91-b327169c4331.jpg?v=1780785220
+    Price: 130,00 € EUR
+  - [Crystal Vert](https://solarvision.fr/products/kiruna?variant=53241003016520)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_1145a631-a85d-422f-b046-966852b4547a.jpg?v=1780785223
     Price: 130,00 € EUR
 - [Karachi](https://solarvision.fr/products/karachi): Découvrez les lunettes de soleil en acétate Solar Vision : un parfait mélange de style et de confort. Ajoutez une touche chic à votre look dès maintenant !
   Updated: 2026-01-25T01:25:42Z
@@ -2405,7 +2413,61 @@ Plongez dans l'avenir de la mode avec la collection spatiale Solar Vision
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_bcb474fa-ac70-4b20-ad55-52fb81e3bb60.jpg?v=1780518648
     Price: 140,00 € EUR
-[List Continued](https://solarvision.fr/a/llms-agent/llms.txt?shop=solarvision-fr.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDA4NjE5NzU1OTYyNCwibGFzdF92YWx1ZSI6IjEwMDg2MTk3NTU5NjI0In0%3D)
+- [Cyan Vision X1 - Solar Vision](https://solarvision.fr/products/cyan-vision-x1): VISION CYAN X1 Les lunettes intelligentes qui comprennent votre monde. Découvrez Vision Cyan X1 , une nouvelle génération de lunettes connectées conçues pour capturer, traduire et interagir avec votre environnement grâce à l'intelligence artificielle. Associées à l'application HeyCyan®, elles deviennent bien plus qu'une paire de lunettes : un véritable assistant personnel intelligent accessible à tout moment. Que vous soyez en voyage, au travail ou en déplacement, Vision Cyan X1 vous permet de rester connecté, informé et productif sans avoir besoin de sortir votre smartphone. --- 🤖 Intelligence artificielle intégrée avec HeyCyan® Grâce à l'application mobile HeyCyan®, profitez d'une expérience intelligente et intuitive directement depuis vos lunettes. Avec HeyCyan®, vous pouvez : ✔ Activer l'assistant vocal par commande vocale « Hey Cyan » ✔ Poser des questions et obtenir des réponses instantanées ✔ Consulter la météo en temps réel ✔ Rechercher des informations rapidement ✔ Utiliser la traduction IA en temps réel ✔ Reconnaître certains objets et obtenir des informations contextuelles ✔ Personnaliser les paramètres de vos lunettes ✔ Synchroniser et gérer vos photos et vidéos ✔ Recevoir les dernières mises à jour logicielles Compatible avec iOS et Android. --- 📷 Capturez chaque instant en haute définition Équipées d'une caméra Sony HD 8MP avec stabilisation d'image, les Vision Cyan X1 permettent de capturer vos souvenirs naturellement depuis votre propre perspective. Avantages : ✔ Photos haute résolution ✔ Vidéos fluides avec stabilisation ✔ Enregistrement en vue subjective (POV) ✔ Partage instantané via Wi-Fi --- 🌍 Traduction IA instantanée Communiquez sans frontières grâce à la traduction intelligente intégrée. Les Vision Cyan X1 facilitent les échanges lors de vos voyages, rendez-vous professionnels ou conversations internationales. Fonctionnalités : ✔ Traduction vocale en temps réel ✔ Support de nombreuses langues ✔ Conversations plus fluides et naturelles --- 📞 Appels Bluetooth & audio immersif Profitez d'une qualité sonore claire grâce à la technologie ENC à double microphone. Inclus : ✔ Appels mains libres ✔ Réduction avancée des bruits ambiants ✔ Lecture de musique Bluetooth ✔ Contrôle tactile intuitif --- ⚡ Conçues pour le quotidien Pensées pour être portées toute la journée, les Vision Cyan X1 allient légèreté, autonomie et résistance. Caractéristiques : ✔ Ultra légères : seulement 35 g ✔ Résistance à l'eau et à la poussière IP66 ✔ Jusqu'à 12 heures d'écoute musicale ✔ Plus de 7 jours en veille ✔ Recharge magnétique rapide ✔ Verres personnalisables (solaires, anti-lumière bleue, photochromiques ou correcteurs) --- 🎯 Pourquoi choisir Cyan Vision AI™ ? ✔ Assistant vocal intelligent HeyCyan® ✔ Caméra Sony HD 8MP ✔ Traduction IA en temps réel ✔ Wi-Fi & Bluetooth intégrés ✔ Appels mains libres ✔ Contrôle tactile et vocal ✔ Design élégant et discret ✔ Compatible iPhone et Android ✔ Confort optimal toute la journée --- 📦 Contenu de la boîte • Lunettes intelligentes Vision Cyan X1 • Étui de protection premium • Câble de charge magnétique • Guide d'utilisation --- Mots-clés SEO intégrés lunettes intelligentes IA, lunettes connectées caméra, smart glasses AI, assistant vocal HeyCyan, lunettes traduction instantanée, lunettes Bluetooth, caméra intégrée 8MP, lunettes connectées WiFi, lunettes IA homme femme, smart glasses France - Solar Vision
+  Updated: 2026-06-07T07:24:54Z
+  Vendor: Solar Vision
+  Product Type: Lunettes Connectée
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_bd84f076-17b1-4a63-990e-a26a9abfe84c.jpg?v=1780784533
+  - [Anti lumière bleue](https://solarvision.fr/products/cyan-vision-x1?variant=53240637555016)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_660a0c56-a435-4245-88ba-58cd79548aff.jpg?v=1780784426
+    Price: 349,00 € EUR
+  - [Transition](https://solarvision.fr/products/cyan-vision-x1?variant=53240637587784)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_5ff2d736-d56a-423d-858c-1c7b8e7a1075.jpg?v=1780784459
+    Price: 349,00 € EUR
+  - [Polarisé](https://solarvision.fr/products/cyan-vision-x1?variant=53240637620552)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_7eacb9cb-5371-49c8-8722-1aa7c3993843.jpg?v=1780784488
+    Price: 349,00 € EUR
+- [Bucarest - Solar Vision](https://solarvision.fr/products/bucarest): - Solar Vision
+  Updated: 2026-06-07T13:08:21Z
+  Vendor: Solar Vision
+  Product Type: Lunettes de soleil
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_55fc0676-355a-4040-89ac-f79152bea0a2.jpg?v=1780794620
+  - [Noir](https://solarvision.fr/products/bucarest?variant=53241145852232)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_55fc0676-355a-4040-89ac-f79152bea0a2.jpg?v=1780794620
+    Price: 130,00 € EUR
+  - [Brun](https://solarvision.fr/products/bucarest?variant=53241145885000)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_6bd2e025-54a6-4a04-b36a-1d55aa0207ad.jpg?v=1780794688
+    Price: 130,00 € EUR
+  - [Havane](https://solarvision.fr/products/bucarest?variant=53241145917768)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_c9063318-eb10-4616-b59d-6cac2baca69e.jpg?v=1780794691
+    Price: 130,00 € EUR
+  - [Crystal Vert](https://solarvision.fr/products/bucarest?variant=53241145950536)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_2226ebb9-4f60-4106-918c-a755ce979839.jpg?v=1780794754
+    Price: 130,00 € EUR
+- [Busan - Solar Vision](https://solarvision.fr/products/busan): - Solar Vision
+  Updated: 2026-06-09T12:44:34Z
+  Vendor: Solar Vision
+  Product Type: Lunettes de soleil
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_a28b340b-ec5a-4af3-82c1-cebe6a98aa6b.jpg?v=1780966038
+  - [Or](https://solarvision.fr/products/busan?variant=53252197613896)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_a28b340b-ec5a-4af3-82c1-cebe6a98aa6b.jpg?v=1780966038
+    Price: 160,00 € EUR
+  - [Argent](https://solarvision.fr/products/busan?variant=53252197646664)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rn-image_picker_lib_temp_d50d365b-21d2-4a9d-aeed-a0391545e8f2.jpg?v=1780966039
+    Price: 160,00 € EUR
+[List Continued](https://solarvision.fr/a/llms-agent/llms.txt?shop=solarvision-fr.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDA5MTI5NDgxODYzMiwibGFzdF92YWx1ZSI6IjEwMDkxMjk0ODE4NjMyIn0%3D)
 
 ## Collections
 
@@ -2413,20 +2475,20 @@ Plongez dans l'avenir de la mode avec la collection spatiale Solar Vision
   Updated: 2026-06-04T01:15:40Z
   Total Products: 32
 - [GAMME LUXE - Solar Vision](https://solarvision.fr/collections/gamme-luxe): Élevez votre Style avec la Gamme Luxe de Solar Vision. La Gamme Luxe représente le summum de l'élégance, chaque paire est une œuvre d'art, fusionnant design contemporain et détails luxueux. Les lunettes de la Gamme Luxe sont bien plus qu'un accessoire, elles sont une déclaration de style affirmée pour les connaisseurs exigeants. - Solar Vision
-  Updated: 2026-06-04T20:27:56Z
+  Updated: 2026-06-07T20:03:41Z
   Total Products: 31
 - [Meilleures Ventes - Solar Vision](https://solarvision.fr/collections/meilleures-ventes): Découvrez nos modèles incontournables ! Plongez dans notre sélection de lunettes de soleil les plus prisée, adoptez les tendances qui subliment chaque look ! - Solar Vision
   Updated: 2026-06-02T00:57:21Z
   Total Products: 8
 - [Femme - Solar Vision](https://solarvision.fr/collections/femme): Révélez votre élégance grâce à nos modèles raffinés, fusionnant glamour et tendances. Choisissez parmi nos incontournables pour un style captivant. Explorez la collection et faites resplendir votre look. - Solar Vision
-  Updated: 2026-06-04T20:27:56Z
+  Updated: 2026-06-07T20:03:41Z
   Total Products: 60
 - [Homme - Solar Vision](https://solarvision.fr/collections/homme): Découvrez l'essence du style masculin, des designs alliant élégance et performance. Choisissez parmi nos favoris pour une allure distinctive. Adoptez le look qui vous distingue. - Solar Vision
   Updated: 2026-06-04T20:27:56Z
   Total Products: 76
 - [Nouveautés - Solar Vision](https://solarvision.fr/collections/nouveautes): Découvrez nos dernières collections, alliant designs modernes et confort exceptionnel. Restez à la pointe de la mode avec nos modèles innovants. Explorez nos nouveautés dès maintenant ! - Solar Vision
-  Updated: 2026-06-03T20:38:43Z
-  Total Products: 37
+  Updated: 2026-06-09T00:48:20Z
+  Total Products: 38
 - [GAMME SPATIALE - Solar Vision](https://solarvision.fr/collections/gamme-spatiale): Découvrez l'Avenir avec la Gamme Spatiale de Solar Vision. Inspirée par l'innovation et la technologie de pointe, chaque paire offre une esthétique futuriste, parfaite pour ceux qui veulent être à la pointe de la mode. - Solar Vision
   Updated: 2026-05-13T12:28:02Z
   Total Products: 9
@@ -2439,12 +2501,6 @@ Plongez dans l'avenir de la mode avec la collection spatiale Solar Vision
 - [GAMME SPORT - Solar Vision](https://solarvision.fr/collections/gamme-sport): Surpassez vous avec la Gamme Sport de Solar Vision Lancez vous dans une aventure sportive , chaque paire incarne la dynamique et la performance. Une fusion parfaite entre fonctionnalité et style, vous permettant de repousser vos limites ! - Solar Vision
   Updated: 2026-06-02T05:21:21Z
   Total Products: 3
-- [Best  Products - Solar Vision](https://solarvision.fr/collections/best--products): - Solar Vision
-  Updated: 2026-06-04T20:27:56Z
-  Total Products: 145
-- [Newest Products - Solar Vision](https://solarvision.fr/collections/newest-products): - Solar Vision
-  Updated: 2026-06-04T20:27:56Z
-  Total Products: 145
 - [Accessoires - Solar Vision](https://solarvision.fr/collections/accessoires): - Solar Vision
   Updated: 2026-05-26T11:09:24Z
   Total Products: 4
@@ -2454,6 +2510,9 @@ Plongez dans l'avenir de la mode avec la collection spatiale Solar Vision
 - [VISION QY Pro - Solar Vision](https://solarvision.fr/collections/lunettes-de-sport-qy-pro): - Solar Vision
   Updated: 2026-05-13T12:28:06Z
   Total Products: 2
+- [VISION QY Pro (Copie) - Solar Vision](https://solarvision.fr/collections/vision-qy-pro-copie): - Solar Vision
+  Updated: 2026-06-06T19:59:40Z
+  Total Products: 1
 
 ## Blogs
 
