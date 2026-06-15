@@ -6,16 +6,16 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-05-30T08:15:58Z
 - Contact Email: support@cherrypop.in
-- Updated At: 2026-06-07T05:00:26.385Z
+- Updated At: 2026-06-15T00:00:31.078Z
 
 ## Products
 
 - [White Ladybug Beaded Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/white-ladybug-beaded-rib-tank-top-women): Shop CherryPop's white ribbed tank top featuring a handcrafted ladybug beaded motif. Soft cotton fabric, flattering fit, and perfect for everyday summer style.
-  Updated: 2026-06-06T02:56:41Z
+  Updated: 2026-06-12T04:01:40Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/1_c0dceb15-4643-416c-a158-60833b0a70bc.png?v=1780129442
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/1_c0dceb15-4643-416c-a158-60833b0a70bc.png?v=1781178599
   - [xl](https://cherrypop.in/products/white-ladybug-beaded-rib-tank-top-women?variant=47726280835302)
     Availability: Available
     Price: ₹999.00 INR
@@ -29,11 +29,11 @@
     Availability: Available
     Price: ₹999.00 INR
 - [White Jellyfish Beaded Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/white-jellyfish-beaded-rib-tank-top-women): Shop CherryPop's white jellyfish hand-beaded rib tank top for women. Crafted from soft cotton rib fabric with unique ocean-inspired artwork and a flattering fit.
-  Updated: 2026-06-06T02:56:42Z
+  Updated: 2026-06-12T04:01:40Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/1_c0092f0e-80ff-4f4f-830b-3d98c0cc1e49.png?v=1780129443
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/1_c0092f0e-80ff-4f4f-830b-3d98c0cc1e49.png?v=1781178603
   - [xl](https://cherrypop.in/products/white-jellyfish-beaded-rib-tank-top-women?variant=47726280999142)
     Availability: Available
     Price: ₹999.00 INR
@@ -47,11 +47,11 @@
     Availability: Available
     Price: ₹999.00 INR
 - [White Cupcake Beaded Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/white-cupcake-beaded-rib-tank-top-women): Shop CherryPop's white cupcake hand-beaded rib tank top for women. Made from soft cotton rib fabric with playful dessert-inspired artwork and a flattering fit.
-  Updated: 2026-06-06T02:56:42Z
+  Updated: 2026-06-12T04:01:40Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/1_9915cd1b-7440-4050-bb82-2bc407e0c540.png?v=1780129446
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/1_9915cd1b-7440-4050-bb82-2bc407e0c540.png?v=1781178612
   - [xl](https://cherrypop.in/products/white-cupcake-beaded-rib-tank-top-women?variant=47726281130214)
     Availability: Available
     Price: ₹999.00 INR
@@ -65,11 +65,11 @@
     Availability: Available
     Price: ₹999.00 INR
 - [Black Ladybug Beaded Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/black-ladybug-beaded-rib-tank-top-women): Shop CherryPop's black ribbed tank top featuring a handcrafted ladybug beaded motif. Soft cotton fabric, flattering fit, and perfect for everyday styling.
-  Updated: 2026-06-06T02:56:42Z
+  Updated: 2026-06-12T04:01:40Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/1_24b68815-0b1f-41ec-aaf0-237467ce9bd4.png?v=1780129447
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/1_24b68815-0b1f-41ec-aaf0-237467ce9bd4.png?v=1781178619
   - [xl](https://cherrypop.in/products/black-ladybug-beaded-rib-tank-top-women?variant=47726281294054)
     Availability: Available
     Price: ₹999.00 INR
@@ -83,11 +83,11 @@
     Availability: Available
     Price: ₹999.00 INR
 - [Black Jellyfish Beaded Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/black-jellyfish-beaded-rib-tank-top-women): Shop CherryPop's black jellyfish hand-beaded rib tank top for women. Crafted from soft cotton rib fabric with ocean-inspired artwork and a flattering fit.
-  Updated: 2026-06-06T02:56:42Z
+  Updated: 2026-06-12T04:01:41Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/1_52df7e6f-5971-4714-a582-a390e29d981a.png?v=1780129448
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/1_52df7e6f-5971-4714-a582-a390e29d981a.png?v=1781178625
   - [xl](https://cherrypop.in/products/black-jellyfish-beaded-rib-tank-top-women?variant=47726281457894)
     Availability: Available
     Price: ₹999.00 INR
@@ -101,11 +101,11 @@
     Availability: Available
     Price: ₹999.00 INR
 - [Black Cupcake Beaded Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/black-cupcake-beaded-rib-tank-top-women): Shop CherryPop's black cupcake hand-beaded rib tank top for women. Made from soft cotton rib fabric with playful dessert-inspired artwork and a flattering fit.
-  Updated: 2026-06-06T02:56:42Z
+  Updated: 2026-06-12T04:01:41Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/1.png?v=1780129452
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/1.png?v=1781178633
   - [xl](https://cherrypop.in/products/black-cupcake-beaded-rib-tank-top-women?variant=47726281588966)
     Availability: Available
     Price: ₹999.00 INR
@@ -119,11 +119,11 @@
     Availability: Available
     Price: ₹999.00 INR
 - [In My Mom Era Beaded Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/in-my-mom-era-beaded-rib-tank-top-women): Shop CherryPop's In My Mom Era hand-beaded rib tank top for women. Soft cotton fabric, flattering fit, and a stylish statement design for modern moms.
-  Updated: 2026-06-06T02:56:42Z
+  Updated: 2026-06-12T04:01:41Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/3bxt1RdIhtuRCoS._SL1920_QL80_FMwebp.webp?v=1780129451
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/3bxt1RdIhtuRCoS._SL1920_QL80_FMwebp.webp?v=1781178633
   - [xl](https://cherrypop.in/products/in-my-mom-era-beaded-rib-tank-top-women?variant=47726281752806)
     Availability: Available
     Price: ₹2,399.00 INR
@@ -137,11 +137,11 @@
     Availability: Available
     Price: ₹2,399.00 INR
 - [Avocado Bliss Beaded Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/avocado-bliss-beaded-rib-tank-top-women): Shop CherryPop's Avocado Bliss hand-beaded rib tank top for women. Crafted from soft cotton rib fabric with playful avocado artwork and a flattering fit.
-  Updated: 2026-06-06T02:56:42Z
+  Updated: 2026-06-12T04:01:41Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/4bxt1xquS-7wmog._SL1920_QL80_FMwebp.webp?v=1780129452
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/4bxt1xquS-7wmog._SL1920_QL80_FMwebp.webp?v=1781178640
   - [xl](https://cherrypop.in/products/avocado-bliss-beaded-rib-tank-top-women?variant=47726281916646)
     Availability: Available
     Price: ₹999.00 INR
@@ -155,11 +155,11 @@
     Availability: Available
     Price: ₹999.00 INR
 - [Sunflower Heart Beaded Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/sunflower-heart-beaded-rib-tank-top-women): Shop CherryPop's white cotton rib tank top featuring a handcrafted sunflower heart beaded motif. Soft, breathable, and perfect for everyday summer styling.
-  Updated: 2026-06-06T02:56:43Z
+  Updated: 2026-06-12T04:01:41Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/Nbxt1B1qRLNxubH._SL1920_QL80_FMwebp.webp?v=1780129454
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/Nbxt1B1qRLNxubH._SL1920_QL80_FMwebp.webp?v=1781178645
   - [s](https://cherrypop.in/products/sunflower-heart-beaded-rib-tank-top-women?variant=47726282080486)
     Availability: Available
     Price: ₹999.00 INR
@@ -173,11 +173,11 @@
     Availability: Available
     Price: ₹999.00 INR
 - [White Noodle Bowl Beaded Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/white-noodle-bowl-beaded-rib-tank-top-women): Shop CherryPop's white cotton rib tank top featuring a handcrafted noodle bowl beaded motif. Soft, breathable, and perfect for casual everyday styling.
-  Updated: 2026-06-06T02:56:43Z
+  Updated: 2026-06-12T04:01:41Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/tbxt1RDDh80aU5m._SL1920_QL80_FMwebp.webp?v=1780129455
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/tbxt1RDDh80aU5m._SL1920_QL80_FMwebp.webp?v=1781178649
   - [s](https://cherrypop.in/products/white-noodle-bowl-beaded-rib-tank-top-women?variant=47726282211558)
     Availability: Available
     Price: ₹1,299.00 INR
@@ -191,11 +191,11 @@
     Availability: Available
     Price: ₹1,299.00 INR
 - [Star Beaded White Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/star-beaded-white-rib-tank-top-women): Shop CherryPop's white cotton rib tank top featuring a handcrafted star beaded motif. Soft, breathable, and perfect for everyday casual and summer styling.
-  Updated: 2026-06-06T02:56:43Z
+  Updated: 2026-06-12T04:01:42Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/dbxt1hjfB0QACFk._SL1920_QL80_FMwebp.webp?v=1780129456
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/dbxt1hjfB0QACFk._SL1920_QL80_FMwebp.webp?v=1781178654
   - [xl](https://cherrypop.in/products/star-beaded-white-rib-tank-top-women?variant=47726282375398)
     Availability: Available
     Price: ₹1,099.00 INR
@@ -209,11 +209,11 @@
     Availability: Available
     Price: ₹1,099.00 INR
 - [White Pomegranate Beaded Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/white-pomegranate-beaded-rib-tank-top-women): Shop CherryPop's white cotton rib tank top featuring a handcrafted pomegranate beaded motif. Soft, breathable, and perfect for casual everyday styling.
-  Updated: 2026-06-06T02:56:43Z
+  Updated: 2026-06-12T04:01:42Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/Cbxt1xmLdGStpWR._SL1920_QL80_FMwebp.webp?v=1780129458
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/Cbxt1xmLdGStpWR._SL1920_QL80_FMwebp.webp?v=1781178656
   - [s](https://cherrypop.in/products/white-pomegranate-beaded-rib-tank-top-women?variant=47726282539238)
     Availability: Available
     Price: ₹999.00 INR
@@ -227,11 +227,11 @@
     Availability: Available
     Price: ₹999.00 INR
 - [White Beer Mug Beaded Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/white-beer-mug-beaded-rib-tank-top-women): Shop CherryPop's white cotton rib tank top featuring a handcrafted beer mug beaded motif. Soft, breathable, and perfect for casual everyday styling.
-  Updated: 2026-06-06T02:56:43Z
+  Updated: 2026-06-12T04:01:42Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/Hbxt1RmePB9_Ld._SL1920_QL80_FMwebp.webp?v=1780129459
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/Hbxt1RmePB9_Ld._SL1920_QL80_FMwebp.webp?v=1781178663
   - [xl](https://cherrypop.in/products/white-beer-mug-beaded-rib-tank-top-women?variant=47726282670310)
     Availability: Available
     Price: ₹999.00 INR
@@ -245,11 +245,11 @@
     Availability: Available
     Price: ₹999.00 INR
 - [White Red Apple Beaded Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/white-red-apple-beaded-rib-tank-top-women): Shop CherryPop's white cotton rib tank top featuring a handcrafted red apple beaded motif. Soft, breathable, and perfect for casual everyday and summer styling.
-  Updated: 2026-06-06T02:56:44Z
+  Updated: 2026-06-12T04:01:42Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/dbxt1hifFA9AQ-T._SL1920_QL80_FMwebp.webp?v=1780129460
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/dbxt1hifFA9AQ-T._SL1920_QL80_FMwebp.webp?v=1781178670
   - [s](https://cherrypop.in/products/white-red-apple-beaded-rib-tank-top-women?variant=47726282834150)
     Availability: Available
     Price: ₹999.00 INR
@@ -263,11 +263,11 @@
     Availability: Available
     Price: ₹999.00 INR
 - [White Strawberry Beaded Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/white-strawberry-beaded-rib-tank-top-women): Shop CherryPop's white cotton rib tank top featuring a handcrafted strawberry beaded motif. Soft, breathable, and perfect for summer outfits and everyday wear.
-  Updated: 2026-06-06T02:56:44Z
+  Updated: 2026-06-12T04:01:42Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/Ybxt1Bh-MfkULPl._SL1920_QL80_FMwebp.webp?v=1780129462
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/Ybxt1Bh-MfkULPl._SL1920_QL80_FMwebp.webp?v=1781178677
   - [xl](https://cherrypop.in/products/white-strawberry-beaded-rib-tank-top-women?variant=47726282997990)
     Availability: Available
     Price: ₹899.00 INR
@@ -281,7 +281,7 @@
     Availability: Available
     Price: ₹899.00 INR
 - [Main Character Energy Beaded Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/main-character-energy-beaded-rib-tank-top-women): Shop CherryPop's Main Character Energy hand-beaded rib tank top for women. Made from soft white cotton rib fabric with a trendy statement design and flattering fit.
-  Updated: 2026-06-06T02:56:44Z
+  Updated: 2026-06-12T04:01:42Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
@@ -299,11 +299,11 @@
     Availability: Available
     Price: ₹2,199.00 INR
 - [Black Fox Beaded Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/black-fox-beaded-rib-tank-top-women): Shop CherryPop's black cotton rib tank top featuring a handcrafted fox beaded motif. Soft, breathable, and perfect for casual everyday and summer styling.
-  Updated: 2026-06-06T02:56:44Z
+  Updated: 2026-06-12T04:01:43Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/Sbxt1xzgd4G13hf._SL1920_QL80_FMwebp.webp?v=1780129465
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/Sbxt1xzgd4G13hf._SL1920_QL80_FMwebp.webp?v=1781178682
   - [xl](https://cherrypop.in/products/black-fox-beaded-rib-tank-top-women?variant=47726283325670)
     Availability: Available
     Price: ₹999.00 INR
@@ -317,7 +317,7 @@
     Availability: Available
     Price: ₹999.00 INR
 - [Drink Drank Drunk Beaded Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/drink-drank-drunk-beaded-rib-tank-top-women): Shop CherryPop's Drink Drank Drunk hand-beaded rib tank top for women. Made from soft black cotton rib fabric with a trendy statement graphic and flattering fit.
-  Updated: 2026-06-06T02:56:44Z
+  Updated: 2026-06-12T04:47:57Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
@@ -335,7 +335,7 @@
     Availability: Available
     Price: ₹1,799.00 INR
 - [CherryPop Cherry Beaded Black Rib Tank Top for Women](https://cherrypop.in/products/cherrypop-cherry-beaded-black-rib-tank-top-women): Shop CherryPop's signature black cotton rib tank top featuring a handcrafted cherry beaded motif. Soft, stylish, and perfect for everyday wear.
-  Updated: 2026-06-06T02:56:45Z
+  Updated: 2026-06-12T04:01:43Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
@@ -353,11 +353,11 @@
     Availability: Available
     Price: ₹899.00 INR
 - [Black Hand-Beaded Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/black-hand-beaded-rib-tank-top-women): Shop CherryPop's black cotton rib tank top featuring intricate handmade beadwork. Soft, breathable, stylish, and perfect for everyday wear.
-  Updated: 2026-06-06T02:56:45Z
+  Updated: 2026-06-12T04:01:43Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/mbxt1RCCSWvyVnu._SL1920_QL80_FMwebp.webp?v=1780129469
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/mbxt1RCCSWvyVnu._SL1920_QL80_FMwebp.webp?v=1781178702
   - [xl](https://cherrypop.in/products/black-hand-beaded-rib-tank-top-women?variant=47726283784422)
     Availability: Available
     Price: ₹999.00 INR
@@ -371,11 +371,11 @@
     Availability: Available
     Price: ₹999.00 INR
 - [Celestial Star Beaded Black Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/celestial-star-beaded-black-rib-tank-top-women): Shop CherryPop's black cotton rib tank top featuring a handcrafted celestial star beaded motif. Soft, stylish, and perfect for everyday and summer wear.
-  Updated: 2026-06-06T02:56:45Z
+  Updated: 2026-06-12T04:01:43Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/vbxt1RXgJD-p0zx._SL1920_QL80_FMwebp.webp?v=1780129470
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/vbxt1RXgJD-p0zx._SL1920_QL80_FMwebp.webp?v=1781178707
   - [s](https://cherrypop.in/products/celestial-star-beaded-black-rib-tank-top-women?variant=47726283948262)
     Availability: Available
     Price: ₹999.00 INR
@@ -389,11 +389,11 @@
     Availability: Available
     Price: ₹999.00 INR
 - [Red Chili Beaded Black Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/red-chili-beaded-black-rib-tank-top-women): Shop CherryPop's black cotton rib tank top featuring a handcrafted red chili beaded motif. Soft, breathable, and perfect for casual everyday styling.
-  Updated: 2026-06-06T02:56:45Z
+  Updated: 2026-06-12T04:01:43Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/fbxt1xIQ-TdRsXO._SL1920_QL80_FMwebp.webp?v=1780129472
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/fbxt1xIQ-TdRsXO._SL1920_QL80_FMwebp.webp?v=1781178712
   - [s](https://cherrypop.in/products/red-chili-beaded-black-rib-tank-top-women?variant=47726284079334)
     Availability: Available
     Price: ₹899.00 INR
@@ -407,11 +407,11 @@
     Availability: Available
     Price: ₹899.00 INR
 - [Beer Mug Beaded Black Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/beer-mug-beaded-black-rib-tank-top-women): Shop CherryPop's black cotton rib tank top featuring a handcrafted beer mug beaded motif. Soft, breathable, and perfect for casual everyday styling.
-  Updated: 2026-06-06T02:56:45Z
+  Updated: 2026-06-12T04:38:12Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/Obxt1xxbQWd6ypD._SL1920_QL80_FMwebp.webp?v=1780129473
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/Obxt1xxbQWd6ypD._SL1920_QL80_FMwebp.webp?v=1781178717
   - [xl](https://cherrypop.in/products/beer-mug-beaded-black-rib-tank-top-women?variant=47726284243174)
     Availability: Available
     Price: ₹999.00 INR
@@ -425,11 +425,11 @@
     Availability: Available
     Price: ₹999.00 INR
 - [Strawberry Beaded Black Rib Tank Top for Women](https://cherrypop.in/products/strawberry-beaded-black-rib-tank-top-women): Shop CherryPop's black cotton rib tank top featuring a handcrafted strawberry beaded motif. Soft, breathable, and perfect for summer outfits and everyday wear.
-  Updated: 2026-06-06T02:56:45Z
+  Updated: 2026-06-12T04:01:44Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/Ybxt1Rd6rDeTV-g._SL1920_QL80_FMwebp_bb4c7ab6-c01a-4e8d-9a7a-5e98a23f1c1c.webp?v=1780129474
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/Ybxt1Rd6rDeTV-g._SL1920_QL80_FMwebp_bb4c7ab6-c01a-4e8d-9a7a-5e98a23f1c1c.webp?v=1781178721
   - [xl](https://cherrypop.in/products/strawberry-beaded-black-rib-tank-top-women?variant=47726284407014)
     Availability: Available
     Price: ₹999.00 INR
@@ -443,11 +443,11 @@
     Availability: Available
     Price: ₹999.00 INR
 - [Ivory Muse Beaded White Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/ivory-muse-beaded-white-rib-tank-top-women): Shop CherryPop's Ivory Muse hand-beaded white rib tank top for women. Crafted from soft cotton rib fabric with elegant beadwork and a flattering fit.
-  Updated: 2026-06-06T02:56:46Z
+  Updated: 2026-06-12T04:01:44Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/Tbxt1xstB3kd3ND._SL1920_QL80_FMwebp_59ac3cd8-13e4-48ae-a98b-c2959dd9caad.webp?v=1780129476
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/Tbxt1xstB3kd3ND._SL1920_QL80_FMwebp_59ac3cd8-13e4-48ae-a98b-c2959dd9caad.webp?v=1781178726
   - [xl](https://cherrypop.in/products/ivory-muse-beaded-white-rib-tank-top-women?variant=47726284570854)
     Availability: Available
     Price: ₹999.00 INR
@@ -461,11 +461,11 @@
     Availability: Available
     Price: ₹999.00 INR
 - [Black Cotton Beaded Crab Sleeveless Ribbed Party Tank Top For Women](https://cherrypop.in/products/black-cotton-beaded-crab-sleeveless-ribbed-party-tank-top-for-women): Turn heads with this statement ribbed tank, featuring a uniquely hand-beaded crab motif. Designed for modern summer and party styling, it blends playful detail with a sleek, flattering silhouette. Key Highlights Hand-Beaded Crab Motif Bold, eye-catching design that adds a fun and statement touch Flattering Slim Fit Body-skimming silhouette for a sleek and confident look Soft Ribbed Cotton Blend Breathable, stretchable fabric for all-day comfort Lightweight & Summer-Ready Perfect for warm weather and easy layering Versatile Styling Essential Ideal for casual looks, beach days, or night-out outfits Durable & Easy Care Designed to maintain softness and keep beadwork intact over time Style It Your Way Pair it with jeans for a casual vibe, or style it with skirts and layers for a bold, elevated look. Product Details Neckline: Scoop / Round Neck Sleeves: Sleeveless Fit: Slim Fit Fabric: Ribbed Cotton Blend (Stretchable) Style: Casual | Playful | Party Wear Perfect For Brunch dates, vacations, beach parties, evening outings, and statement summer styling.
-  Updated: 2026-06-06T02:56:46Z
+  Updated: 2026-06-12T04:01:44Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/Vbxt1BDMRwNjDBO._SL1920_QL80_FMwebp.webp?v=1780129477
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/Vbxt1BDMRwNjDBO._SL1920_QL80_FMwebp.webp?v=1781178732
   - [xl](https://cherrypop.in/products/black-cotton-beaded-crab-sleeveless-ribbed-party-tank-top-for-women?variant=47726284701926)
     Availability: Available
     Price: ₹999.00 INR
@@ -479,11 +479,11 @@
     Availability: Available
     Price: ₹999.00 INR
 - [Donut Beaded White Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/donut-beaded-white-rib-tank-top-women): Shop CherryPop's white cotton rib tank top featuring a handcrafted donut beaded motif. Soft, breathable, stylish, and perfect for everyday summer wear.
-  Updated: 2026-06-06T02:56:46Z
+  Updated: 2026-06-12T04:01:44Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/sbxt1hranUlRVSL._QL80_FMwebp.webp?v=1780129479
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/sbxt1hranUlRVSL._QL80_FMwebp.webp?v=1781178740
   - [xl](https://cherrypop.in/products/donut-beaded-white-rib-tank-top-women?variant=47726284865766)
     Availability: Available
     Price: ₹999.00 INR
@@ -497,7 +497,7 @@
     Availability: Available
     Price: ₹999.00 INR
 - [Panda Beaded Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/panda-beaded-rib-tank-top-women): Shop CherryPop's panda hand-beaded rib tank top for women. Made from soft cotton rib fabric with adorable handcrafted beadwork and a flattering fitted fit.
-  Updated: 2026-06-06T02:56:46Z
+  Updated: 2026-06-12T04:01:44Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
@@ -515,7 +515,7 @@
     Availability: Available
     Price: ₹1,199.00 INR
 - [Red Chili Beaded Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/red-chili-beaded-rib-tank-top-women): Shop CherryPop's Red Chili hand-beaded rib tank top for women. Made from soft cotton rib fabric with playful chili pepper artwork and a flattering fit.
-  Updated: 2026-06-06T02:56:46Z
+  Updated: 2026-06-12T04:01:44Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
@@ -533,7 +533,7 @@
     Availability: Available
     Price: ₹899.00 INR
 - [Beaded Girl Motif Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/beaded-girl-motif-rib-tank-top-women): Shop CherryPop's ribbed cotton tank top featuring a handcrafted beaded girl motif. Soft, comfortable, and perfect for casual summer styling.
-  Updated: 2026-06-06T02:56:46Z
+  Updated: 2026-06-12T04:01:45Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
@@ -551,7 +551,7 @@
     Availability: Available
     Price: ₹1,249.00 INR
 - [Watermelon Beaded Rib Tank Top for Women](https://cherrypop.in/products/white-watermelon-beaded-rib-tank-top-women): Shop CherryPop's white cotton rib tank top featuring a handcrafted watermelon motif. Soft, breathable, and perfect for summer outfits and everyday wear.
-  Updated: 2026-06-06T02:56:46Z
+  Updated: 2026-06-12T04:01:45Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
@@ -569,7 +569,7 @@
     Availability: Available
     Price: ₹999.00 INR
 - [White Cherry Beaded Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/white-cherry-beaded-rib-tank-top-women): Shop CherryPop's white cotton rib tank top featuring a handcrafted cherry beaded motif. Soft, comfortable, and perfect for everyday casual styling.
-  Updated: 2026-06-06T02:56:47Z
+  Updated: 2026-06-12T04:01:45Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
@@ -587,7 +587,7 @@
     Availability: Available
     Price: ₹899.00 INR
 - [Mystic Evil Eye Beaded Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/mystic-evil-eye-beaded-rib-tank-top-women): Shop CherryPop's Mystic Evil Eye hand-beaded rib tank top for women. Made from soft cotton rib fabric with intricate handcrafted beadwork and a flattering fit.
-  Updated: 2026-06-06T02:56:47Z
+  Updated: 2026-06-12T04:01:45Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
@@ -605,7 +605,7 @@
     Availability: Available
     Price: ₹999.00 INR
 - [Red Lips Beaded Rib Tank Top for Women](https://cherrypop.in/products/red-kiss-beaded-motif-cotton-tank-top-for-women): Turn heads with the CherryPop Red Lips Hand-Beaded Rib Tank Top. Crafted from premium cotton rib fabric, this sleeveless tank combines everyday comfort with eye-catching handcrafted beadwork. The vibrant red lips motif adds a playful and confident touch, making it perfect for casual outings, brunch dates, vacations, concerts, and weekend styling. Designed with a flattering fitted silhouette and comfortable stretch, this versatile tank top pairs effortlessly with jeans, shorts, skirts, and layered looks. Whether you're embracing a fun Y2K-inspired aesthetic or looking for a unique statement piece, this handcrafted CherryPop tank is made to elevate your everyday style. Product Highlights ✔ Hand-Beaded Red Lips Motif✔ Soft Premium Cotton Rib Fabric✔ Stretchable & Comfortable Fit✔ Lightweight and Breathable✔ Sleeveless Fitted Silhouette✔ Everyday Casual Styling✔ Unique Handcrafted Detail✔ Designed by CherryPop
-  Updated: 2026-06-06T02:56:47Z
+  Updated: 2026-06-12T04:01:46Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
@@ -623,7 +623,7 @@
     Availability: Available
     Price: ₹999.00 INR
 - [White Crab Beaded Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/white-crab-beaded-rib-tank-top-women): Shop CherryPop's white cotton rib tank top featuring a handcrafted crab beaded motif. Soft, comfortable, and perfect for summer, vacations, and everyday wear.
-  Updated: 2026-06-06T02:56:47Z
+  Updated: 2026-06-12T04:01:46Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
@@ -645,7 +645,7 @@
     Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/ibxt1hfmd6l8rhY._SL1920_QL80_FMwebp.webp?v=1780129490
     Price: ₹999.00 INR
 - [Orange Blossom Beaded Tank Top for Women – White | CherryPop](https://cherrypop.in/products/orange-blossom-beaded-rib-tank-top-white): Shop CherryPop's white ribbed tank top featuring a handcrafted orange blossom beaded motif. Soft cotton fabric, comfortable fit, and everyday style.
-  Updated: 2026-06-06T02:56:47Z
+  Updated: 2026-06-12T04:01:46Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
@@ -663,7 +663,7 @@
     Availability: Available
     Price: ₹999.00 INR
 - [Handcrafted Red Bow Beaded Tank Top for Women | CherryPop](https://cherrypop.in/products/handcrafted-red-bow-beaded-rib-tank-top-women): Shop CherryPop's handcrafted red bow beaded rib tank top for women. Made from soft cotton rib fabric with a cute fitted silhouette and artisan beadwork.
-  Updated: 2026-06-06T02:56:47Z
+  Updated: 2026-06-12T04:01:46Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
@@ -681,11 +681,11 @@
     Availability: Available
     Price: ₹1,099.00 INR
 - [Cotton Ribbed Handmade Beaded Tank Top for Women | CherryPop](https://cherrypop.in/products/cotton-ribbed-handmade-beaded-tank-top-women): Shop CherryPop's cotton ribbed tank top featuring handcrafted beadwork artwork. Soft, breathable, and stylish for everyday casual wear.
-  Updated: 2026-06-06T02:56:48Z
+  Updated: 2026-06-12T04:01:46Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/1bxt1xwDE3D_OsQ._SL1920_QL80_FMwebp.webp?v=1780129497
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/1bxt1xwDE3D_OsQ._SL1920_QL80_FMwebp.webp?v=1781178755
   - [l](https://cherrypop.in/products/cotton-ribbed-handmade-beaded-tank-top-women?variant=47726287028454)
     Availability: Available
     Price: ₹1,899.00 INR
@@ -699,7 +699,7 @@
     Availability: Available
     Price: ₹1,899.00 INR
 - [Black Noodle Bowl Beaded Rib Tank Top for Women | CherryPop](https://cherrypop.in/products/black-noodle-bowl-hand-beaded-rib-tank-top-women): Shop CherryPop's black cotton rib tank featuring a hand-beaded noodle bowl motif. Soft, stretchy, and perfect for everyday casual styling.
-  Updated: 2026-06-06T02:56:48Z
+  Updated: 2026-06-12T04:01:46Z
   Vendor: CherryPop
   Product Type: Tank Top
   Availability: Available
@@ -716,33 +716,149 @@
   - [XL](https://cherrypop.in/products/black-noodle-bowl-hand-beaded-rib-tank-top-women?variant=47726287290598)
     Availability: Available
     Price: ₹1,299.00 INR
+- [Black American Girl Graphic Printed T-Shirt for Women | CherryPop](https://cherrypop.in/products/black-american-girl-graphic-printed-t-shirt-women): Shop the Black American Girl Graphic T-Shirt for Women. Soft cotton fabric, stylish fashion print, and everyday comfort. Perfect for casual wear.
+  Updated: 2026-06-12T04:01:46Z
+  Vendor: CherryPop
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/1.jpg?v=1781073872
+  - [XL](https://cherrypop.in/products/black-american-girl-graphic-printed-t-shirt-women?variant=47758554857702)
+    Availability: Available
+    Price: ₹599.00 INR
+  - [L](https://cherrypop.in/products/black-american-girl-graphic-printed-t-shirt-women?variant=47758554890470)
+    Availability: Available
+    Price: ₹599.00 INR
+  - [M](https://cherrypop.in/products/black-american-girl-graphic-printed-t-shirt-women?variant=47758554923238)
+    Availability: Available
+    Price: ₹599.00 INR
+  - [S](https://cherrypop.in/products/black-american-girl-graphic-printed-t-shirt-women?variant=47758554956006)
+    Availability: Available
+    Price: ₹599.00 INR
+- [White Floral Summer Girl Graphic T-Shirt for Women | CherryPop](https://cherrypop.in/products/white-floral-summer-girl-graphic-t-shirt-women): Shop the White Floral Summer Girl Graphic T-Shirt for Women. Soft cotton fabric, artistic floral print, and comfortable fit for everyday style.
+  Updated: 2026-06-12T04:01:47Z
+  Vendor: CherryPop
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/1_73fc67da-1e2f-405a-941f-72780073050e.png?v=1781074600
+  - [XL](https://cherrypop.in/products/white-floral-summer-girl-graphic-t-shirt-women?variant=47758598013158)
+    Availability: Available
+    Price: ₹599.00 INR
+  - [L](https://cherrypop.in/products/white-floral-summer-girl-graphic-t-shirt-women?variant=47758598045926)
+    Availability: Available
+    Price: ₹599.00 INR
+  - [M](https://cherrypop.in/products/white-floral-summer-girl-graphic-t-shirt-women?variant=47758598078694)
+    Availability: Available
+    Price: ₹599.00 INR
+  - [S](https://cherrypop.in/products/white-floral-summer-girl-graphic-t-shirt-women?variant=47758598111462)
+    Availability: Available
+    Price: ₹599.00 INR
+- [Black I See Stupid People Graphic T-Shirt for Women | CherryPop](https://cherrypop.in/products/black-i-see-stupid-people-graphic-t-shirt-women): Shop the Black I See Stupid People Graphic T-Shirt for Women. Soft cotton comfort with a bold statement print for everyday casual style.
+  Updated: 2026-06-12T04:01:47Z
+  Vendor: CherryPop
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/1_ebb89bc1-7e2d-4761-bfc0-3db8871f3631.jpg?v=1781074894
+  - [XL](https://cherrypop.in/products/black-i-see-stupid-people-graphic-t-shirt-women?variant=47758602928358)
+    Availability: Available
+    Price: ₹599.00 INR
+  - [L](https://cherrypop.in/products/black-i-see-stupid-people-graphic-t-shirt-women?variant=47758602961126)
+    Availability: Available
+    Price: ₹599.00 INR
+  - [M](https://cherrypop.in/products/black-i-see-stupid-people-graphic-t-shirt-women?variant=47758602993894)
+    Availability: Available
+    Price: ₹599.00 INR
+  - [S](https://cherrypop.in/products/black-i-see-stupid-people-graphic-t-shirt-women?variant=47758603026662)
+    Availability: Available
+    Price: ₹599.00 INR
+- [Black Love Who You Are Graphic T-Shirt for Women | CherryPop](https://cherrypop.in/products/black-love-who-you-are-graphic-t-shirt-women): Shop the Black Love Who You Are Graphic T-Shirt for Women. Soft cotton comfort with a stylish fashion-girl print and everyday versatility.
+  Updated: 2026-06-12T04:01:47Z
+  Vendor: CherryPop
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/1_c8daa9ca-0ef6-4e42-9c0e-92a90331f4ab.jpg?v=1781075129
+  - [XL](https://cherrypop.in/products/black-love-who-you-are-graphic-t-shirt-women?variant=47758613053670)
+    Availability: Available
+    Price: ₹599.00 INR
+  - [L](https://cherrypop.in/products/black-love-who-you-are-graphic-t-shirt-women?variant=47758613086438)
+    Availability: Available
+    Price: ₹599.00 INR
+  - [M](https://cherrypop.in/products/black-love-who-you-are-graphic-t-shirt-women?variant=47758613119206)
+    Availability: Available
+    Price: ₹599.00 INR
+  - [S](https://cherrypop.in/products/black-love-who-you-are-graphic-t-shirt-women?variant=47758613151974)
+    Availability: Available
+    Price: ₹599.00 INR
+- [White Summer Chic Girl Graphic T-Shirt for Women | CherryPop](https://cherrypop.in/products/white-summer-chic-girl-graphic-t-shirt-women): Shop the White Summer Chic Girl Graphic T-Shirt for Women. Soft cotton comfort, trendy fashion artwork, and effortless everyday style.
+  Updated: 2026-06-12T04:01:47Z
+  Vendor: CherryPop
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0808/1706/2118/files/1_09c9d424-0d5e-493f-a745-75daeaed2d26.png?v=1781079775
+  - [XL](https://cherrypop.in/products/white-summer-chic-girl-graphic-t-shirt-women?variant=47758762115302)
+    Availability: Available
+    Price: ₹599.00 INR
+  - [L](https://cherrypop.in/products/white-summer-chic-girl-graphic-t-shirt-women?variant=47758762148070)
+    Availability: Available
+    Price: ₹599.00 INR
+  - [M](https://cherrypop.in/products/white-summer-chic-girl-graphic-t-shirt-women?variant=47758762180838)
+    Availability: Available
+    Price: ₹599.00 INR
+  - [S](https://cherrypop.in/products/white-summer-chic-girl-graphic-t-shirt-women?variant=47758762213606)
+    Availability: Available
+    Price: ₹599.00 INR
 
 ## Collections
 
 - [Home page](https://cherrypop.in/collections/frontpage)
-  Updated: 2026-06-06T02:56:41Z
+  Updated: 2026-06-12T04:01:40Z
   Total Products: 1
 - [Budget Friendly](https://cherrypop.in/collections/beaded-tank-tops)
-  Updated: 2026-06-06T02:56:41Z
+  Updated: 2026-06-12T04:01:40Z
   Total Products: 8
 - [Top Rated](https://cherrypop.in/collections/top-rated)
-  Updated: 2026-06-06T02:56:41Z
+  Updated: 2026-06-12T04:01:40Z
   Total Products: 8
 - [Latest](https://cherrypop.in/collections/latest)
-  Updated: 2026-06-06T02:56:41Z
+  Updated: 2026-06-12T04:01:40Z
   Total Products: 8
 - [Beaded Tops](https://cherrypop.in/collections/beaded-tops)
-  Updated: 2026-06-06T02:56:42Z
+  Updated: 2026-06-12T04:01:40Z
   Total Products: 38
+- [Graphic Tees](https://cherrypop.in/collections/graphic-tees)
+  Updated: 2026-06-12T04:01:40Z
+  Total Products: 5
+
+## Blogs
+
+- [News](https://cherrypop.in/blogs/news)
+  - [10 Versatile Ways to Style Your Women's Black Ladybug Beadwork Sleeveless Tank Top](https://cherrypop.in/blogs/news/10-versatile-ways-to-style-your-womens-black-ladybug-beadwork-sleeveless-tank-top): 10 Versatile Ways to Style Your Women's Black Ladybug Beadwork Sleeveless Tank Top
+    Updated: 2026-06-11T12:20:31Z
+    Author: CherryPop
+  - [Unveiling the Artistry Behind the CherryPop Handcrafted Noodle Bowl Motif Tank Top](https://cherrypop.in/blogs/news/unveiling-the-artistry-behind-the-cherrypop-handcrafted-noodle-bowl-motif-tank-top): Unveiling the Artistry Behind the CherryPop Handcrafted Noodle Bowl Motif Tank Top
+    Updated: 2026-06-11T11:50:02Z
+    Author: CherryPop
+  - [Exploring the Intricate Beadwork of Women's White Cupcake Tank Tops](https://cherrypop.in/blogs/news/exploring-the-intricate-beadwork-of-womens-white-cupcake-tank-tops): Exploring the Intricate Beadwork of Women's White Cupcake Tank Tops
+    Updated: 2026-06-11T11:50:01Z
+    Author: CherryPop
+  - [Best Tank Tops for Summer 2026 | Cotton Comfort & Style](https://cherrypop.in/blogs/news/best-tank-tops-cotton-summer-2026-10373-53): Best Tank Tops for Summer 2026 | Cotton Comfort & Style
+    Updated: 2026-06-11T12:32:33Z
+    Author: My Store Admin
+  - [Mastering the Art of Styling with the CherryPop White Jellyfish Ribbed Tank Top](https://cherrypop.in/blogs/news/mastering-the-art-of-styling-with-the-cherrypop-white-jellyfish-ribbed-tank-top): Mastering the Art of Styling with the CherryPop White Jellyfish Ribbed Tank Top
+    Updated: 2026-06-12T01:28:51Z
+    Author: CherryPop
+  - [Hand-Beaded Tank Tops for Women: The Fashion Trend That’s Redefining Statement Style in 2026](https://cherrypop.in/blogs/news/hand-beaded-tank-tops-for-women-the-fashion-trend-that-s-redefining-statement-style-in-2026): <p>If you're looking to upgrade your wardrobe with fashion-forward pieces that stand out from ordinary basics, <strong>hand-beaded tank tops for women</strong> are one of the best investments you can make in 2026.</p>
+    Updated: 2026-06-12T06:35:45Z
+    Author: My Store Admin
+    Tags: aesthetic fashion, beaded fashion tops, beaded tank tops for women, black rib tank top, celestial star tank top, CherryPop, crab tank top, cute tank tops, designer tank tops India, evil eye tank top, fashion tank tops, graphic tank tops women, hand beaded tank tops, handcrafted fashion, jellyfish tank top, mom era tank top, party tank tops, premium tank tops, premium women's fashion, resort wear women, ribbed tank tops women, statement tank tops, strawberry tank top, summer tank tops, trendy women's tops, unique women's clothing, vacation outfits women, white rib tank top, women's casual wear, women's tank tops, y2k fashion tops
 
 ## Store Pages
 
 - [Contact Us | CherryPop](https://cherrypop.in/pages/contact-us): We'd Love to Hear from You 💌 Have a question about an order, a product, or just want to say hello? We're here for you! Get in Touch 📧 Email: suppor...
-  Updated: 2026-05-31T07:00:33Z
+  Updated: 2026-06-12T03:00:46Z
 - [Size Chart](https://cherrypop.in/pages/size-chart): Size Bust Waist Hip XS 31–32 24–25 33–34 S 33–34 26–27 35–36 M 35–36 28–29 37–38 L 37–39 30–32 39–41 XL 40–42 33–35 42–44
   Updated: 2026-05-30T10:39:58Z
-- [About Us | CherryPop](https://cherrypop.in/pages/about-us): About UsWelcome to CherryPop! We're passionate about bringing you the best products and experiences. Our story began with a simple idea: to create ...
-  Updated: 2026-06-04T11:12:59Z
+- [About Us | CherryPop](https://cherrypop.in/pages/about-us): Welcome to CherryPop, where fashion meets creativity. CherryPop is an Indian fashion brand dedicated to creating premium graphic tees and hand-bead...
+  Updated: 2026-06-12T02:52:14Z
 - [Store Policies | CherryPop](https://cherrypop.in/pages/store-policies): Store PoliciesAt CherryPop, we want you to shop with confidence. Please read our store policies below.Return & Refund PolicyWe accept returns withi...
   Updated: 2026-06-04T11:12:59Z
 - [Cancellation & Refund Policy | CherryPop](https://cherrypop.in/pages/cancellation-refund): Cancellation & Refund PolicyAt CherryPop, we strive to ensure your complete satisfaction. Please read our cancellation and refund policy carefully....
@@ -753,17 +869,23 @@
   Updated: 2026-06-04T11:12:59Z
 - [FAQs | CherryPop](https://cherrypop.in/pages/faqs): Frequently Asked QuestionsGot questions? We've got answers! If you can't find what you're looking for, feel free to reach out via our Contact Us pa...
   Updated: 2026-06-04T11:12:59Z
+- [Your Privacy Choices](https://cherrypop.in/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
+  Updated: 2026-06-07T07:49:04Z
+- [Shipping Policy](https://cherrypop.in/pages/shipping-policy): CherryPop ke liye ek professional Shipping Policy: At CherryPop, we are committed to delivering your orders safely and on time. Please review our s...
+  Updated: 2026-06-12T03:18:19Z
 
 ## Policies
 
 - [Privacy Policy](https://cherrypop.in/policies/privacy-policy)
   Updated: 2026-05-30T13:46:03+05:30
+- [Shipping Policy](https://cherrypop.in/policies/shipping-policy)
+  Updated: 2026-06-12T09:15:49+05:30
 - [Refund Policy](https://cherrypop.in/policies/refund-policy)
   Updated: 2026-06-05T10:56:08+05:30
 - [Terms of Service](https://cherrypop.in/policies/terms-of-service)
   Updated: 2026-06-05T10:50:50+05:30
 - [Contact Information](https://cherrypop.in/policies/contact-information)
-  Updated: 2026-06-05T10:51:36+05:30
+  Updated: 2026-06-12T09:17:50+05:30
 
 ## Optional
 
