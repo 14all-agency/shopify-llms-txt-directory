@@ -6,19 +6,30 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-05-12T04:06:04Z
 - Contact Email: hello@harroman.com
-- Updated At: 2026-06-07T00:00:27.580Z
+- Updated At: 2026-06-15T00:00:34.556Z
 
 ## Products
 
 - [HARROMAN Shave Stick – 2-in-1 Facial Cleansing & Shaving Soap](https://www.harroman.com/products/harroman-shave-stick-for-cuts-prevent-razor-burn-nicks-ingrown-hairs): Discover the HARROMAN shave stick: softens beard roots, protects skin, moisturizes & soothes. Perfect for travel with creamy, convenient 2-in-1 formula.
-  Updated: 2026-06-04T14:33:35Z
+  Updated: 2026-06-14T19:55:26Z
   Vendor: Harroman
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/6198/5948/files/harroman-shave-stick.jpg?v=1780540471
-  Price: $18.00 USD
+  - [40g / Buy 1  harroman Shave Stick](https://www.harroman.com/products/harroman-shave-stick-for-cuts-prevent-razor-burn-nicks-ingrown-hairs?variant=47049659744412)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0684/6198/5948/files/harroman-shave-stick.jpg?v=1780540471
+    Price: $18.00 USD
+  - [40g / Buy 2  (Free Shipping + $14 each )](https://www.harroman.com/products/harroman-shave-stick-for-cuts-prevent-razor-burn-nicks-ingrown-hairs?variant=45687647240348)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0684/6198/5948/files/harroman-shave-stick.jpg?v=1780540471
+    Price: $28.00 USD
+  - [40g / Buy 3 (Free Shipping + $13 each )](https://www.harroman.com/products/harroman-shave-stick-for-cuts-prevent-razor-burn-nicks-ingrown-hairs?variant=47049339830428)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0684/6198/5948/files/harroman-shave-stick.jpg?v=1780540471
+    Price: $39.00 USD
 - [Harroman 5 Blade Razor – Platinum-Coated Precision Shaver](https://www.harroman.com/products/harroman-razor-5-blade-razor-platinum-coated-razor-premium-shaving-with-blade): Experience smooth shaving with the Harroman 5 blade razor featuring platinum-coated blades for ultimate precision and comfort.
-  Updated: 2026-06-04T14:12:41Z
+  Updated: 2026-06-14T04:35:17Z
   Vendor: HARROMAN
   Product Type: 
   Availability: Available
@@ -28,16 +39,16 @@
 ## Collections
 
 - [home page](https://www.harroman.com/collections/frontpage)
-  Updated: 2026-06-04T11:22:06Z
+  Updated: 2026-06-14T11:20:49Z
   Total Products: 2
 - [APPPlaza - Best Sellers](https://www.harroman.com/collections/appplaza-best-sellers)
-  Updated: 2026-06-04T11:22:06Z
+  Updated: 2026-06-14T11:20:49Z
   Total Products: 2
 - [AVADA - Best Sellers](https://www.harroman.com/collections/avada-best-sellers)
-  Updated: 2026-06-04T11:22:06Z
+  Updated: 2026-06-14T11:20:49Z
   Total Products: 2
 - [All item](https://www.harroman.com/collections/all-item)
-  Updated: 2026-06-04T11:22:06Z
+  Updated: 2026-06-14T11:20:49Z
   Total Products: 2
 
 ## Blogs
@@ -308,6 +319,30 @@
     Author: harroman
   - [Razor Wars Which Shaving Tool Suits You Best](https://www.harroman.com/blogs/blog-post/razor-wars-which-shaving-tool-suits-you-best): Razor Wars Which Shaving Tool Suits You Best
     Updated: 2026-06-06T01:21:05Z
+    Author: harroman
+  - [From Straight Razors to Shave Bars A Historical Exploration](https://www.harroman.com/blogs/blog-post/from-straight-razors-to-shave-bars-a-historical-exploration): From Straight Razors to Shave Bars A Historical Exploration
+    Updated: 2026-06-07T01:06:56Z
+    Author: harroman
+  - [FAQs About Shaving and Choosing the Right Razor for Your Skin](https://www.harroman.com/blogs/blog-post/faqs-about-shaving-and-choosing-the-right-razor-for-your-skin): FAQs About Shaving and Choosing the Right Razor for Your Skin
+    Updated: 2026-06-08T01:05:24Z
+    Author: harroman
+  - [Checklist for the Perfect Shave Razor Shave Bar and More](https://www.harroman.com/blogs/blog-post/checklist-for-the-perfect-shave-razor-shave-bar-and-more): Checklist for the Perfect Shave Razor Shave Bar and More
+    Updated: 2026-06-09T01:11:47Z
+    Author: harroman
+  - [Secret to a Smooth Shave Choosing the Perfect Razor](https://www.harroman.com/blogs/blog-post/secret-to-a-smooth-shave-choosing-the-perfect-razor): Secret to a Smooth Shave Choosing the Perfect Razor
+    Updated: 2026-06-10T01:23:58Z
+    Author: harroman
+  - [Shave Bar 101 Everything You Need to Know about Shaving Aids](https://www.harroman.com/blogs/blog-post/shave-bar-101-everything-you-need-to-know-about-shaving-aids): Shave Bar 101 Everything You Need to Know about Shaving Aids
+    Updated: 2026-06-11T01:11:21Z
+    Author: harroman
+  - [Understanding the Different Types of Razors for Your Shaving Needs](https://www.harroman.com/blogs/blog-post/understanding-the-different-types-of-razors-for-your-shaving-needs): Understanding the Different Types of Razors for Your Shaving Needs
+    Updated: 2026-06-12T01:08:06Z
+    Author: harroman
+  - [How to Maintain Your Razor and Shave Bar for Long-Lasting Use](https://www.harroman.com/blogs/blog-post/how-to-maintain-your-razor-and-shave-bar-for-long-lasting-use): How to Maintain Your Razor and Shave Bar for Long-Lasting Use
+    Updated: 2026-06-13T01:10:24Z
+    Author: harroman
+  - [Essential Tips for a Trouble-Free Shaving Experience](https://www.harroman.com/blogs/blog-post/essential-tips-for-a-trouble-free-shaving-experience): Essential Tips for a Trouble-Free Shaving Experience
+    Updated: 2026-06-14T01:04:55Z
     Author: harroman
 
 ## Store Pages
