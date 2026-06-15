@@ -6,7 +6,7 @@
 - Timezone: America/Port_of_Spain
 - Created At: 2026-05-26T10:56:43Z
 - Contact Email: bridglalsinghrajesh3@gmail.com
-- Updated At: 2026-06-07T00:00:29.119Z
+- Updated At: 2026-06-15T00:00:35.117Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0987/6517/7151/files/f762487d4c8a88b53dc69f8f020d.jpg?v=1780161442
   Price: $24.00 USD
 - [Kick Back Pro Rebound Net – Football Training at Home | Verso](https://verso-10025.myshopify.com/products/kick-back-pro-rebound-net): Practice passing, kicking & ball control at home with the Kick Back Pro Rebound Net. Durable, weather-resistant & adjustable. Shop now at Verso.
-  Updated: 2026-05-31T06:11:10Z
+  Updated: 2026-06-11T06:06:45Z
   Vendor: Verso
   Product Type: 
   Availability: Available
@@ -28,7 +28,7 @@
 ## Collections
 
 - [Fitness & General Exercise Equipment](https://verso-10025.myshopify.com/collections/fitness-general-exercise-equipment)
-  Updated: 2026-05-30T20:43:55Z
+  Updated: 2026-06-11T11:29:00Z
   Total Products: 1
 - [Tech Accessories for Home, Office & Travel | Verso](https://verso-10025.myshopify.com/collections/tech-accessories): Shop Verso's tech accessories — portable fans, smart gadgets & more for home, office, and travel. Free shipping available.
   Updated: 2026-05-30T20:43:55Z
