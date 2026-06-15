@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2026-04-25T15:45:49Z
 - Contact Email: support@vosien.com
-- Updated At: 2026-06-07T00:00:42.140Z
+- Updated At: 2026-06-15T00:00:43.092Z
 
 ## Products
 
