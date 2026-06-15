@@ -8,7 +8,7 @@
 - Timezone: Europe/London
 - Created At: 2026-03-15T11:22:50Z
 - Contact Email: contact.needs@coretelk.com
-- Updated At: 2026-06-08T00:00:40.504Z
+- Updated At: 2026-06-15T00:00:43.147Z
 
 At NEEDs, we provide everything you need — from premium mobile accessories to everyday essentials. We specialise in high-quality products including phone cases, chargers, cables, and accessories, with plans to expand into toys, footwear, bags, clothing, and solar lighting.
 
@@ -643,7 +643,7 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/100102752D-1.jpg?v=1773884572
     Price: £12.96 GBP
 - [Smart Fingerprint Padlock Small Size Padlock Cabinet Fingerprint Lock Mini Fingerprint Lock](https://coretelk.com/products/smart-fingerprint-padlock-small-size-padlock-cabinet-fingerprint-lock-mini-fingerprint-lock): This is an intelligent fingerprint padlock, which can be unlocked only by fingerprints instead of keys. It is suitable for the security of doors, backpacks, suitcases and many kinds of lockers in public places. Equipped with a professional fingerprint module scheme, this product has great stability Lock Head: Made of professional high toughness stainless steel Lock Body: Made of high-density zinc alloy, solid and durable Large Capacity Battery: 180mAh, can stand for 3000 hours after charging USB Charging Port: Suitable for a mobile phone charger and power bank 10 groups of fingerprints can be recorded Low Voltage Alarm Function: Flash for 10 seconds. It is able to be unlocked about 200 times after alarming Solve the problems of key forgetting and  leaking Specifications: Lock body material: zinc alloy Unlocking method: fingerprint recognition unlocking Status prompt: three-color LED + buzzer Number of fingerprints stored: 10 (2 for administrators, 8 for ordinary users) Press times during fingerprint entry: 10 times Charging time: 2-4 hours Charging interface: USB Number of times of unlocking after fully charged: 9000 times Maximum standby time: 1 year Low battery alarm: The red light flashes for 10 seconds after unlocking, indicating that the current is low, and the lock can be unlocked up to 200 times. waterproof grade: IP62 Working ambient temperature: -20℃ to +65℃ Product size: 76*46*13mm Lock beam diameter: 5mm Product net weight: 98 grams Package included 1 x Fingerprint Lock 1 x USB Charging Cable 1 x English and Chinese Users Manual Specifications Color Black Gross Weight 0.151kg Volume Weight 0.038kg Package Length 10.800cm Package Width 7.800cm Package Height 2.000cm
-  Updated: 2026-06-03T11:51:24Z
+  Updated: 2026-06-10T04:26:17Z
   Vendor: Needs
   Product Type: 
   Availability: Available
@@ -651,11 +651,11 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   - [Black](https://coretelk.com/products/smart-fingerprint-padlock-small-size-padlock-cabinet-fingerprint-lock-mini-fingerprint-lock?variant=57506736636278)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/TP10310354469A-1.jpg?v=1773884570
-    Price: £12.27 GBP
+    Price: £11.71 GBP
   - [Silver](https://coretelk.com/products/smart-fingerprint-padlock-small-size-padlock-cabinet-fingerprint-lock-mini-fingerprint-lock?variant=57506736669046)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0984/0122/3030/files/TP10310354469B-1.jpg?v=1773884572
-    Price: £13.37 GBP
+    Price: £11.71 GBP
 - [T268 5 in 1 Magnetic Wireless Charger for iPhone / Apple Watch / AirPods Charging Station](https://coretelk.com/products/t268-5-in-1-magnetic-wireless-charger-for-iphone-apple-watch-airpods-charging-station): 【5-in-1 Multifunctional Charger】Supports wireless charging for your phone, smartwatch, and earphones, along with an ambient light and an extra USB output for added convenience 【Magnetic Fast Charging】Designed with strong magnetic alignment, ensuring secure and efficient wireless charging for iPhone 12-16 series 【Charge Multiple Devices Simultaneously】Power up multiple devices at once, saving both time and space for a clutter-free charging experience 【Adjustable Ambient Light】Built-in soft ambient light with touch control, allowing you to adjust as needed 【Safe & Reliable Protection】Equipped with multiple safety features, including overvoltage, overcurrent, and temperature protection, ensuring secure charging Specifications: Input: 9V/4A 12V/2.5A Output Power: Mobile phone: 5W, 7.5W, 10W, 15W; Watch: 3W; Earphone: 2W Conversion efficiency: less than 80% Transmission distance: <5mm Product size: 175*85*120mm Product material: ABS+zinc alloy Compatible with Universal Models Universal Package included 1 x Magnetic Wireless Charger 1 x English and Chinese User Manual Other items not included Specifications Brand N/A Color Black Packaging Type Colored Box Plug Type (For Supply) N/A Support FOD Function Yes User Manual (Language) English and Chinese Gross Weight 0.339kg Volume Weight 0.492kg Package Length 18.600cm Package Width 12.700cm Package Height 9.300cm
   Updated: 2026-05-30T15:41:37Z
   Vendor: Needs
@@ -1260,37 +1260,37 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
   Updated: 2026-05-26T20:19:43Z
   Total Products: 0
 - [Smart Devices — Smartwatches, Glasses & Car Accessories | NEEDs](https://coretelk.com/collections/smart-device): Shop smart devices at NEEDs. Smartwatches, smart glasses, car accessories, microphones, tripods and more. Fast shipping & secure payment.
-  Updated: 2026-06-03T19:12:40Z
+  Updated: 2026-06-10T10:31:19Z
   Total Products: 125
 - [Wireless Earphones & Earbuds - Noise Cancelling Bluetooth - NEEDs](https://coretelk.com/collections/earphones): Browse wireless earphones and earbuds with ANC, touch control, and Bluetooth. Free shipping available. Shop at NEEDs.
-  Updated: 2026-06-03T19:26:38Z
+  Updated: 2026-06-09T07:27:39Z
   Total Products: 107
 - [AI Smart Glasses with HD Camera & Bluetooth Music - NEEDs](https://coretelk.com/collections/smart-glasses): Shop AI smart glasses with HD recording, Bluetooth calling, and real-time translation. Waterproof options available. Shop at NEEDs.
-  Updated: 2026-06-03T17:30:24Z
+  Updated: 2026-06-09T07:27:40Z
   Total Products: 31
 - [Real-Time Translation Earphones & Headsets 144 Languages - NEEDs](https://coretelk.com/collections/translation-devices): Shop smart translation earphones with real-time voice translation in 144+ languages. Noise reduction & Bluetooth. Shop at NEEDs.
-  Updated: 2026-06-02T21:44:31Z
+  Updated: 2026-06-09T07:27:41Z
   Total Products: 28
 - [Smart Watches with Fitness Tracking & Bluetooth - NEEDs](https://coretelk.com/collections/smart-watches): Browse smart watches with fitness tracking, heart rate monitor, and Bluetooth. Free shipping available. Shop at NEEDs.
-  Updated: 2026-06-03T16:55:27Z
+  Updated: 2026-06-09T07:27:42Z
   Total Products: 18
 - [Security & Cameras – Shop CCTV & Surveillance – NEEDs](https://coretelk.com/collections/security-and-cameras): Shop security cameras, CCTV, and surveillance systems. Keep your home and business safe with our range of security solutions at NEEDs.
-  Updated: 2026-06-03T18:51:35Z
+  Updated: 2026-06-10T09:08:20Z
   Total Products: 26
 - [Car Accessories Dash Cams Chargers & Bluetooth Mounts - NEEDs](https://coretelk.com/collections/car-accessories-shop): Shop car accessories including dash cams, car chargers, Bluetooth transmitters and phone mounts. Free shipping. Shop at NEEDs.
-  Updated: 2026-06-03T19:11:36Z
+  Updated: 2026-06-10T10:31:19Z
   Total Products: 76
 - [Mobile Phone Accessories Cases Chargers & Screen Protectors - NEEDs](https://coretelk.com/collections/mobile-phone-accessories): Shop mobile phone accessories including cases, chargers, screen protectors and cables. Free shipping available. Shop at NEEDs.
-  Updated: 2026-06-03T20:25:36Z
+  Updated: 2026-06-09T07:27:47Z
   Total Products: 799
 - [Studio Microphones & Photography Lighting for Creators - NEEDs](https://coretelk.com/collections/studio-and-microphones): Shop studio microphones, wireless lavalier mics, ring lights and photography lighting for streaming and content creation. Shop at NEEDs.
-  Updated: 2026-06-03T19:12:40Z
+  Updated: 2026-06-09T07:27:58Z
   Total Products: 44
 - [Computer & Laptop Accessories MacBook iPad Surface - NEEDs](https://coretelk.com/collections/computer-laptop-accessories): Shop laptop sleeves, screen protectors, keyboards and accessories for MacBook, iPad, Surface and more. Free shipping at NEEDs.
-  Updated: 2026-06-03T20:24:28Z
+  Updated: 2026-06-10T10:32:19Z
   Total Products: 356
 - [Speakers & Sound Accessories – NEEDs](https://coretelk.com/collections/speakers-and-sound): Shop portable Bluetooth speakers, smart audio, and sound accessories. Premium sound solutions for every lifestyle at NEEDs.
-  Updated: 2026-06-03T18:22:34Z
+  Updated: 2026-06-10T09:08:20Z
   Total Products: 66
 
 ## Blogs
@@ -1340,6 +1340,18 @@ We're committed to fast delivery, competitive pricing, and a seamless shopping e
     Updated: 2026-06-07T19:00:47Z
     Author: NEEDs
     Tags: best charging stations 2026, chargers, digital, digital transformation, efficient charging technology trends, phone chargers, power solutions, technology
+  - [Top Smartwatches for Teens — Reviews & Choices 2026](https://coretelk.com/blogs/news/top-smartwatches-for-teens-reviews-choices-2026): Top Smartwatches for Teens — Reviews & Choices 2026
+    Updated: 2026-06-10T19:03:14Z
+    Author: NEEDs
+    Tags: best smartwatches for kids, digital, gadgets, smartwatch reviews, technology, teen smartwatches, top smartwatches in 2026, wearables for teens
+  - [Essential Smart Glasses Safety Tips — Buyer Guide 2026](https://coretelk.com/blogs/news/essential-smart-glasses-safety-tips-buyer-guide-2026): Essential Smart Glasses Safety Tips — Buyer Guide 2026
+    Updated: 2026-06-12T19:02:36Z
+    Author: NEEDs
+    Tags: 2026 smart glasses guide, buyer guide, digital, essential glasses tips, glasses, safety, smart glasses, transformation tips
+  - [Easy Gadget Organisation — Everyday Tech Essentials 2026](https://coretelk.com/blogs/news/easy-gadget-organisation-everyday-tech-essentials-2026): Easy Gadget Organisation — Everyday Tech Essentials 2026
+    Updated: 2026-06-14T19:00:56Z
+    Author: NEEDs
+    Tags: digital, digital transformation, everyday tech solutions, future gadget management, gadget organization, gadgets, tech, tech essentials
 
 ## Store Pages
 
