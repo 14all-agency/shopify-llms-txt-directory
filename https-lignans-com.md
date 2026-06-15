@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-06-08T01:11:35Z
 - Contact Email: orders@lignans.com
-- Updated At: 2026-06-08T00:00:34.326Z
+- Updated At: 2026-06-15T00:00:37.733Z
 
 ## Products
 
@@ -18,63 +18,63 @@
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/Probiotic-GalleryImage1.jpg?v=1729436591
   Price: $17.99 USD
 - [Buy K9 Select Flaxseed Lignans 20mg For Dogs - Peanut Butter Flavor | Lignans For Life | Buy Lignans Online](https://lignans.com/products/k9-select-sdg-lignan-for-dogs): Is your dog a picky eater or cannot tolerate fiber? Give our chewable K9 Select Peanut Butter Lignans a try! Most dogs eat these SDG tablets like a treat!
-  Updated: 2026-06-04T18:51:36Z
+  Updated: 2026-06-14T14:21:47Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/Flaxseed20mg-GalleryImage1.jpg?v=1733488408
-  Price: $22.99 USD
+  Price: $21.99 USD
 - [Buy K9 Select HMR Lignans 20mg For Dogs - Peanut Butter Flavor | Lignans For Life | Buy Lignans Online](https://lignans.com/products/k9-select-hmr-lignans): Our K9 select HMR lignans tablets help limit oxidative stress in dogs and strengthen their immune system. Comes in peanut butter flavor that your dog will love!
-  Updated: 2026-06-07T20:13:18Z
+  Updated: 2026-06-14T16:12:37Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/HMRLignans20mgPeanutButter-GalleryImage1.jpg?v=1729434536
   Price: $22.99 USD
 - [Buy Sesamin (Sesame Seed Lignans) | Lignans For Life | Buy Lignans Online](https://lignans.com/products/sesamin-sesame-seed-lignans): Lignans for Life Sesame Seed Lignans is one of the best sesamin supplements in the market today! Sesamin blocks fat storage and promotes natural weight loss.
-  Updated: 2026-06-01T13:11:56Z
+  Updated: 2026-06-08T14:46:47Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/Image-01.png?v=1733416693
   Price: $23.99 USD
 - [Buy K9 Select CoQ10 10mg For Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/k9-select-coq10): CoQ10 supplements help support cardiovascular and periodontal health in canines. The K9 Select CoQ10 for dogs is very safe to use under veterinary supervision.
-  Updated: 2026-06-05T23:29:27Z
+  Updated: 2026-06-13T11:02:42Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/COQ10-GalleryImage1.jpg?v=1729435403
-  Price: $13.99 USD
+  Price: $14.99 USD
 - [Buy K9 Select SAMe 200mg For Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/k9-select-same-200mg): SAMe is recommended for dogs with disease that stress the liver, forcing it to work harder. Supplementing with K9 Choice SAMe can be very helpful for sick dogs.
-  Updated: 2026-06-05T06:01:47Z
+  Updated: 2026-06-13T11:02:42Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/SAMe200mg-GalleryImage1.jpg?v=1729436456
-  Price: $25.99 USD
+  Price: $27.99 USD
 - [Buy SAMe 200mg For People | Lignans For Life | Buy Lignans Online](https://lignans.com/products/lignans-for-life-same): Lignans for Life SAMe supplements support a healthy liver by improving metabolism. Our tablets are enteric coated for enhanced bio availability and stability.
-  Updated: 2026-05-26T11:32:57Z
+  Updated: 2026-06-10T21:39:26Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/LFLSAMe-GalleryImage1.jpg?v=1729436544
   Price: $25.99 USD
 - [Buy K9 Choice Milk Thistle For Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/k9-choice-milk-thistle): The new K9 Choice Milk Thistle for dogs can benefit dogs with elevated liver enzymes or in need of extra liver support. Consult your vet for dosage suggestions.
-  Updated: 2026-06-02T03:34:37Z
+  Updated: 2026-06-12T16:01:29Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/K9MilkThistle-GalleryImage1.jpg?v=1733488388
   Price: $16.99 USD
 - [Buy K9 Choice Milk Thistle For Dogs - Beef Flavor | Lignans For Life | Buy Lignans Online](https://lignans.com/products/k9-select-beef-flavored-milk-thistle-for-dogs): Introducing our new liver support for dogs! A delicious beef flavored Milk Thistle chewable that you can give to your dog as a treat or mix with their food!
-  Updated: 2026-06-06T15:28:17Z
+  Updated: 2026-06-13T21:56:27Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/K9MilkThistleBeef-GalleryImage1.jpg?v=1733404431
   Price: $16.99 USD
 - [Buy Milk Thistle Liver Support For People & Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/lignans-for-life-milk-thistle): Lignans for Life 100mg milk thistle supplement is standardized to 80% sylimarin, and safe for use by people and pets in need of extra liver support. Order here.
-  Updated: 2026-06-02T21:29:16Z
+  Updated: 2026-06-12T16:01:29Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
@@ -88,35 +88,35 @@
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/JointSupport-GalleryImage1.jpg?v=1729436171
   Price: $25.99 USD
 - [Buy HMR Lignans 10mg For Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/hmr-lignans-10-mg): Our 10mg HMR lignans for dogs are derived from Norwegian Spruce knots; can help balance hormone levels, limit oxidative stress, and support immune system.
-  Updated: 2026-06-07T12:13:17Z
+  Updated: 2026-06-14T00:01:40Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/HMRLignans10mg-GalleryImage1.jpg?v=1729435709
   Price: $18.99 USD
 - [Buy HMR Lignans 20mg For Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/hmr-lignans-20-mg): Lingans for Life 20mg HMR lignans can help strengthen immune system and balance hormone levels in dogs. Consult your vet before giving your dog new supplements.
-  Updated: 2026-06-07T23:49:58Z
+  Updated: 2026-06-14T09:45:47Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/HMRLignans20mg-GalleryImage1.jpg?v=1729435753
+  Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/hmr_20mg_out_of_stock.png?v=1781283413
   Price: $22.99 USD
 - [Buy HMR Lignans 40mg For People or Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/hmr-lignans-90-capsules-40-mg): Our 40mg HMR lignans are derived from Norway spruce trees. Consistent, daily intake can help prevent or limit oxidative stress and support the immune system.
-  Updated: 2026-06-06T17:12:27Z
+  Updated: 2026-06-14T09:45:46Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/HMRLignans40mg-GalleryImage1.jpg?v=1729435792
+  Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/hmr_40mg_out_of_stock.png?v=1781283378
   Price: $26.99 USD
 - [Buy HMR Lignans 40mg 2-Pack | Lignans For Life | Buy Lignans Online](https://lignans.com/products/hmr-lignans-2-pack-40-mg-hmr-lignans): SPECIAL OFFER: 40mg HMR Lignans 2-pack! Our lignans capsules, made from Norwegian Spruce Pineknots, can help prevent stress and strengthen the immune system.
-  Updated: 2026-06-07T00:11:37Z
+  Updated: 2026-06-13T04:58:41Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/products/HMR-Lignans-40mg-2-pack.png?v=1688703465
+  Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/hmr_40mg_2pack_out_of_stock.png?v=1781283505
   Price: $42.99 USD
 - [Buy Flaxseed Lignans 15mg For People & Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/organic-flaxseed-lignans-15mg): Lignans for Life Concentrated 15mg flaxseed lignans capsules are  organic, derived 100% from flaxseed hulls. Each bottle contains 90 15mg capsules.
-  Updated: 2026-05-30T07:44:46Z
+  Updated: 2026-06-11T19:21:17Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
@@ -144,175 +144,175 @@
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/products/Flaxseed-Lignans-30mg-2-pack-600x600-1.png?v=1688703516
   Price: $49.99 USD
 - [Buy Flaxseed Lignans 25mg For People & Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/sdg-lignans-from-flaxseed-25mg): Each concentrated 25mg sdg flaxseed lignans capsule is a natural source of dietary fiber and Omega 3 and 6 fatty acids which help bolster immunity. Order now!
-  Updated: 2026-06-06T16:36:57Z
+  Updated: 2026-06-13T00:39:26Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/Flaxseed25mg-GalleryImage1.jpg?v=1729434803
   Price: $23.99 USD
 - [Buy Flaxseed Lignans 25mg 2-Pack For People & Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/sdg-lignans-from-flaxseed-25-mg-2-pack): Our Concentrated 25mg SDG Flaxseed Lignans 2-Pack Special contains a total of 180 vegetarian capsules for natural hormone support and a stronger immune system.
-  Updated: 2026-06-05T13:53:09Z
+  Updated: 2026-06-10T09:20:07Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/products/25mg-SDG-Lignans-from-Flaxseed-2-pack-600x600-1.png?v=1688703543
   Price: $35.99 USD
 - [Buy Flaxseed Lignans 35mg 2-Pack For People & Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/sdg-lignans-from-flaxseed-35-mg): LIGNANS FOR LIFE TWO BOTTLE SPECIAL. Double the benefits; double the savings! Avail of our Concentrated 35mg SDG Flaxseed Lignans 2-Pack Promo today!
-  Updated: 2026-06-07T01:35:07Z
+  Updated: 2026-06-13T21:56:28Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/products/35mg-SDG-Lignans-from-Flaxseed-2-pack-600x600-1.png?v=1688703556
   Price: $35.99 USD
 - [Buy Flaxseed Lignans 35mg For People & Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/sdg-lignans-from-flaxseed-35-mg-2): Daily intake of Lignans for Life Concentrated 35 mg SDG Flaxseed Lignans Capsules can help boost the immune system and balance hormone levels in the body.
-  Updated: 2026-06-01T18:57:07Z
+  Updated: 2026-06-10T00:01:27Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/Flaxseed35mg-GalleryImage1.jpg?v=1729434887
   Price: $23.49 USD
 - [Buy Concentrated Flaxseed Hulls Powder For People or Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/flaxseed-hulls-powder-organic-80-mg-7-6-oz-jar): Lignans for Life Flaxseed Hulls Powder help supply the body with valuable Omega 3 and 6 oils and are an excellent source of both soluble and insoluble fiber.
-  Updated: 2026-06-07T03:48:07Z
+  Updated: 2026-06-14T10:48:37Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/FlaxseedBulk-GalleryImage1.jpg?v=1733487569
   Price: $27.99 USD
 - [Buy Flaxseed Hulls Powder 2-Pack For People or Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/flaxseed-hulls-bulk-powder-organic-2-pack): Save more with our Concentrated Flaxseed Hulls 2-pack SPECIAL! Each bottle of contains 7.6 oz of All Natural, Organic bulk flaxseed hulls ground into a powder.
-  Updated: 2026-06-05T18:32:58Z
+  Updated: 2026-06-13T00:01:46Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/products/Flaxseed-Hulls-Powder-2-pack.png?v=1688703596
   Price: $43.99 USD
 - [Buy K9 Choice Melatonin 1mg For Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/melatonin-1mg-180-capsules): Aside from promoting natural sleep-wake cycle, melatonin may also help reduce stress hormone levels in anxious dogs. Shop K9 Choice 1mg melatonin for dogs here.
-  Updated: 2026-05-26T11:32:56Z
+  Updated: 2026-06-13T11:02:42Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/1mg-GalleryImage1.jpg?v=1729436236
-  Price: $13.49 USD
+  Price: $14.49 USD
 - [Buy K9 Select Melatonin 1mg For Dogs - Beef Liver Flavor | Lignans For Life | Buy Lignans Online](https://lignans.com/products/k9-select-chewable-1-mg-melatonin-for-dogs-beef-flavor-180-tabs): Our K9 Select melatonin supplement is now available in a tasty beef-liver-flavored chewables! A bottle contains 180 servings of 1mg beef melatonin for dogs.
-  Updated: 2026-06-04T14:33:48Z
+  Updated: 2026-06-13T11:02:42Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/1mgBeef-GalleryImage1_c3e45523-87a1-4e83-900e-4a698e673df7.jpg?v=1733488463
-  Price: $13.99 USD
+  Price: $14.99 USD
 - [Buy K9 Select Melatonin 3mg For Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/melatonin-3-mg-100-tablets-k9-select-brand-for-dogs): Melatonin is an antioxidant useful in regulating hormones, reducing stress, and promoting better sleep. You can purchase K9 Choice 3mg melatonin for dogs here.
-  Updated: 2026-06-07T23:49:57Z
+  Updated: 2026-06-13T11:02:41Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/3mg-GalleryImage1.jpg?v=1729436276
-  Price: $13.49 USD
+  Price: $13.99 USD
 - [K9 Choice Melatonin for Dogs - 3mg Beef Flavored Chewable Tablets](https://lignans.com/products/k9-select-chewable-3-mg-melatonin-for-dogs-beef-flavor-120-tabs): Like people, dogs produce less melatonin as they age and find it difficult to get quality sleep. With our 3mg melatonin for dogs, your pet will sleep better!
-  Updated: 2026-06-06T12:56:03Z
+  Updated: 2026-06-14T19:48:27Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/3mgBeef-GalleryImage1.jpg?v=1733488488
   Price: $15.49 USD
 - [K9 Select Melatonin For Dogs - 3mg Peanut Butter Flavor](https://lignans.com/products/k9-choice-chewable-3-mg-melatonin-for-dogs-peanut-butter-flavor-120-tabs): The K9 Select 3mg melatonin for dogs also comes in peanut butter flavored chewables that your dog will love! Each bottle contains 120 tablets of 3mg melatonin.
-  Updated: 2026-06-07T18:53:47Z
+  Updated: 2026-06-14T20:16:49Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/3mgPeanut-GalleryImage1.jpg?v=1733488435
-  Price: $14.99 USD
+  Price: $16.49 USD
 - [Buy K9 Select Melatonin 5mg For Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/k9-select-melatonin-5-mg-180-tablets): A daily dose of 5mg melatonin for dogs may help reduce symptoms of stress in canines, including refusal to eat, excessive pacing/panting, and whimpering.
-  Updated: 2026-05-28T15:07:09Z
+  Updated: 2026-06-13T11:02:41Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/5mg-GalleryImage1.jpg?v=1729435138
-  Price: $17.99 USD
+  Price: $18.99 USD
 - [Buy Melatonin 6mg For People & Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/products/lignans-for-life-melatonin-6mg-120-capsules): Our 6mg melatonin capsules is safe for humans and dogs. Melatonin supplements help regulate sleep and hormones, and reduce stress/anxiety in humans and animals.
-  Updated: 2026-06-07T14:42:04Z
+  Updated: 2026-06-14T23:57:00Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/6mg-GalleryImage1.jpg?v=1729435343
-  Price: $14.99 USD
+  Price: $15.99 USD
 - [Buy K9 Select Melatonin 6mg For Dogs - Beef Flavor | Lignans For Life | Buy Lignans Online](https://lignans.com/products/6-mg-melatonin-for-dogs-beef-flavor): K9 Select 6mg melatonin for dogs now come in beef-flavored chewable tablets! However, don't forget to consult your vet before giving melatonin to your dog.
-  Updated: 2026-06-06T15:28:17Z
+  Updated: 2026-06-13T11:02:40Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/Screenshot2024-10-20at16.11.11.png?v=1729437101
-  Price: $18.99 USD
+  Price: $19.99 USD
 - [HMR Multi-Formula 30mg Beef Flavored Tablets](https://lignans.com/products/hmr-multi-formula-30mg-beef): Introducing our new combination HMR product: The K9 Select 30mg beef HMR multi formula in beef and cheddar flavored tablets that your dog will surely love.
-  Updated: 2026-06-04T00:04:59Z
+  Updated: 2026-06-14T16:46:27Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/30Beef-GalleryImage1_dc86eba4-2401-4b28-a67d-7e59c065a56d.jpg?v=1729436066
   Price: $31.99 USD
 - [HMR Multi-Formula 20mg Capsules](https://lignans.com/products/hmr-multi-formula-20mg-capsules): Daily use of K9 Select 20mg HMR multi formula supplements will help regulate hormone levels, strengthen the immune system, and support overall health in dogs.
-  Updated: 2026-06-07T22:58:47Z
+  Updated: 2026-06-13T04:03:28Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/20Unflavored-GalleryImage1.jpg?v=1729436010
   Price: $27.49 USD
 - [HMR Multi-Formula 10mg Tablets Peanut Butter Flavored](https://lignans.com/products/hmr-multi-formula-10mg-peanut-butter): Our K9 Select 10mg peanut butter HMR Multi-Formula supplements are carefully formulated for dogs. Each bottle contains 90 peanut butter flavored tablets.
-  Updated: 2026-06-06T02:47:18Z
+  Updated: 2026-06-08T20:42:08Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/10PeanutButter-GalleryImage1.jpg?v=1729435882
   Price: $19.49 USD
 - [K9 Select SAMe for Dogs - 225 mg Tablets](https://lignans.com/products/k9select-same-225mg): SAMe occurs naturally in the body, but used up quickly when liver is overworked. Supplementing with 225mg K9 Select SAMe can be very helpful for ailing dogs.
-  Updated: 2026-06-03T21:07:47Z
+  Updated: 2026-06-13T11:02:40Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/SAMe225mg-GalleryImage1.jpg?v=1729436493
-  Price: $26.49 USD
+  Price: $26.99 USD
 - [K9 Select SAM-e for Dogs - 90 mg Tablets](https://lignans.com/products/k9select-same-90mg): SAMe provides nutritional support for the liver to help it return to normal function. Our 90mg K9 Select SAMe is packaged w/ nitrogen to keep it fresh for longer.
-  Updated: 2026-05-26T11:32:57Z
+  Updated: 2026-06-13T11:02:40Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/SAMe90mg-GalleryImage1.jpg?v=1729436392
-  Price: $18.99 USD
+  Price: $19.99 USD
 - [K9 Select 6MG Peanut Butter Melatonin for Dogs](https://lignans.com/products/6mg-peanut-butter-melatonin-for-dogs): Melatonin for dogs can help ease anxiety from stress, separation anxiety along with balance out cortisol levels. It's often used in treating Cushing's.
-  Updated: 2026-06-06T06:03:47Z
+  Updated: 2026-06-13T11:02:40Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/6mgPeanut-GalleryImage1.jpg?v=1733488560
-  Price: $19.99 USD
+  Price: $20.99 USD
 - [K9 Select SAMeThistle Pro](https://lignans.com/products/k9-select-samethistle-pro): Lignans for Life Advanced Liver Support for Dogs Comprehensive Formula with SAMe & Milk Thistle Give your dog the best in liver health support with our Advanced Liver Support supplement, specially formulated for dogs of all ages—especially seniors and those with liver challenges. Why Choose Our Advanced Liver Support? Our veterinarian-recommended formula combines two powerful, research-backed ingredients: SAMe (S-Adenosylmethionine): Supports healthy liver function, promotes cell regeneration, and helps maintain normal mood and cognitive health. Milk Thistle Extract (Silybin): A potent antioxidant that protects liver cells from toxins, supports detoxification, and promotes overall liver health. Benefits: Supports and maintains healthy liver function Promotes detoxification and antioxidant activity Helps manage elevated liver enzymes Aids in maintaining healthy cognitive function, especially in aging dogs Easy-to-administer, tasty tablets—perfect for daily use Perfect For: Dogs with elevated liver enzymes or diagnosed liver conditions Aging dogs needing extra support Dogs on long-term medications that may affect liver health Pet owners seeking a holistic approach to wellness Quality You Can Trust Made with premium, third-party tested ingredients Manufactured in the USA in a GMP- facility Free from artificial colors, flavors, and preservatives How to Use: Give tablets based on your dog’s weight, as directed by your veterinarian. Can be given with or without food. For more information on the benefits and comparable products, check out our blog here. For More information on Dosage instructions, check out our blog here Support Your Dog’s Vitality—Naturally At Lignans for Life, we’re dedicated to helping your dog live a happier, healthier life. Our Advanced Liver Support formula is a gentle, effective way to give your pet the care they deserve.
-  Updated: 2026-06-06T05:26:57Z
+  Updated: 2026-06-13T11:02:38Z
   Vendor: Lignans
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/SAMe_Thistle_Pro_3D.png?v=1752659664
-  Price: $27.99 USD
+  Price: $29.99 USD
 - [K9 Prime - 200mg SAMe](https://lignans.com/products/k9-prime-200mg-same): K9 Prime SAMe 200 mg For Dogs Pharmaceutical Grade. 60 tablets. 60 servings. SAMe, also known as S-Adenosyl L-Methionine, is a dietary supplement used for liver support. Our K9 SAMe is designed for dogs. Each bottle contains 60 tablets of 400 mg of S-Adenosyl-L-Methionine Disulfate Tosylate and a net of 200 mg of SAMe per tablet. Our SAMe is enteric coated, which enhances bioavailability and stability. SAMe is often recommended for dogs with Canine Cushing's Disease because this adrenal disorder causes stress on the liver and forces the liver to work harder. Supplementation with SAMe, which is naturally occurring in the body, can be very helpful for ailing dogs because naturally occurring SAMe is used up quickly when the liver is overworked.* SAMe supports a healthy liver by improving metabolism in the liver. SAMe is a nutrient that carries and donates methyl molecules necessary to facilitate the manufacture of DNA and brain neurotransmitters. SAMe boosts hepatic levels of the antioxidant glutamine. It is formed in the body by an enzymatic reaction between adenosine-triphosphate (ADP) and methionine. SAMe works closely with folic acid and vitamin B-12 and functions as a methyl donor for the manufacturing of phosphatidylcholine and L-cystein, both of which are necessary for maintaining liver health. SAMe levels are greatly reduced in the elderly and supplementation can be very beneficial when the liver is stressed over overworked. SAMe contains antioxidants that help reduce oxygen free radicals. SAMe is used for mood support and healthy liver functions. It provides nutritional support for the liver and helps return normal liver function.* Our SAMe is packaged with nitrogen. This reduces the oxygen content in the package, which helps prevent the breakdown of the product and keeps it fresh for a longer period of time. This helps prevent oxidation. Note: Keep product refrigerated How much SAMe should I give my dog? For medium sized dogs 21 lbs to 40 lbs: give 1 tablet per day. For large dogs 41 lbs to 80 lbs: give 2 tablets per day. For very large dogs over 80 lbs: give 3-4 tablets per day. Our SAMe is best for dogs over 20 lbs; however, for small dogs under 20 lbs: give 1/2 tablet per day. When the tablet in cut in half, the second half must be thrown away because when the enteric coating is cut, the product loses bioavailability and stability. SAMe should be ingested whole. It is usually recommend to give SAMe on an empty stomach; however, it can be given to dog in peanut butter, cheese, a pill pocket, a small amount of food, etc. if necessary. If your dog will not take it, you may cut/crush the tablet, but it must be given to dog immediately as it is an enteric coated tablet. Note: Another product to consider is milk thistle for liver support SAMe and Milk Thistle are often used together for added benefits.
-  Updated: 2026-05-04T18:47:45Z
+  Updated: 2026-06-13T11:02:38Z
   Vendor: Lignans for Life
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/Screenshot2025-09-16at13.12.57.png?v=1758560691
-  Price: $25.99 USD
+  Price: $27.99 USD
 - [Kitty Cat Select - 1MG Beef flavored chewable tables - 180 tablets](https://lignans.com/products/kitty-cat-select-1mg-beef): Beef-flavored 1mg melatonin chewables for cats—supports restful sleep, reduces anxiety, and promotes calm. Easy-to-administer, vet-recommended supplement made with premium ingredients and tested for purity. Perfect for travel, stress, and nightly routines.
-  Updated: 2026-05-26T11:32:57Z
+  Updated: 2026-06-13T11:02:38Z
   Vendor: Lignans for Life
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/B0FS26PFVTlisting-01.png?v=1762079454
-  Price: $13.99 USD
+  Price: $14.99 USD
 - [Kitty Cat Select - 10MG HMR lignans](https://lignans.com/products/kitty-cat-select-10mg-hmr-lignans): 10mg HMR lignan supplement for cats—supports hormonal balance, adrenal health, and immune function. Easy-to-administer capsules, third-party tested for purity. Ideal for aging cats or those needing natural hormone support.
-  Updated: 2026-05-26T11:32:57Z
+  Updated: 2026-06-13T11:02:38Z
   Vendor: Lignans for Life
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0771/0362/8570/files/B0FS26D8T8listing-01.png?v=1762080075
-  Price: $18.99 USD
+  Price: $19.99 USD
 - [Flaxseed (SDG) Lignans 40mg | Canine Formula | 90 Vegetarian Capsules](https://lignans.com/products/flaxseed-sdg-lignans-40mg): A concentrated flaxseed SDG lignan supplement for dogs — 40mg of pure lignan per capsule, with no fiber. SDG lignan is a GREAT alternative to HMR lignans.
-  Updated: 2026-06-07T13:30:18Z
+  Updated: 2026-06-14T23:57:02Z
   Vendor: Lignans for Life
   Product Type: 
   Availability: Available
@@ -329,94 +329,94 @@
 ## Collections
 
 - [Shop Our Supplements | Lignans for Life | Buy Now](https://lignans.com/collections/all): Want to balance your dog's hormone health, reduce cholesterol, and more? Browse our products on this page. Call (480) 899-0713 or visit our site to learn more.
-  Updated: 2026-06-07T11:12:53Z
+  Updated: 2026-06-14T11:14:28Z
   Total Products: 48
 - [Uncategorized Products | Lignans For Life | Buy Lignans Online](https://lignans.com/collections/uncategorized): Discover other Lignans For Life Products on this page. Call (480) 899-0713 or visit our website to learn more.
-  Updated: 2026-06-07T11:12:53Z
+  Updated: 2026-06-13T11:13:40Z
   Total Products: 5
 - [Flaxseed Lignans For People | Lignans For Life | Buy Lignans Online](https://lignans.com/collections/people-products): Balance your hormonal health, reduce cholesterol, and more with Lignans For Life's Flaxseed Products for People. Call (480) 899-0713 or visit our website to learn more.
-  Updated: 2026-06-07T11:12:53Z
+  Updated: 2026-06-14T11:14:28Z
   Total Products: 19
 - [HMR Lignans Products | Lignans For Life | Buy Lignans Online](https://lignans.com/collections/hmrlignans): Balance and support you and your dog's hormone levels with Lignans For Life's HMR Products on this page. Call (480) 899-0713 or visit our website to learn more.
-  Updated: 2026-06-07T11:12:53Z
+  Updated: 2026-06-14T11:14:28Z
   Total Products: 11
 - [Natural Remedies For Cushing's Disease in Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/collections/dogs): Improve your dog's overall health and combat Canine Cushing's Disease with our natural remedies here at Lignans For Life. Call (480) 899-0713 or visit our website to learn more.
-  Updated: 2026-06-07T11:12:53Z
+  Updated: 2026-06-14T11:14:28Z
   Total Products: 41
 - [Featured Products | Lignans For Life | Buy Lignans Online](https://lignans.com/collections/featured): Discover Lignans For Life Featured Products on this page. Call (480) 899-0713 or visit our website to learn more.
-  Updated: 2026-06-07T11:12:53Z
+  Updated: 2026-06-14T11:14:28Z
   Total Products: 6
 - [Buy Flaxseeds Online Here | Lignans For Life | Buy Lignans Online](https://lignans.com/collections/flaxseed): Browse Lignans For Life's Flaxseed products and find out how they can improve you and your dog's overall health today. Call (480) 899-0713 or visit our website to learn more.
-  Updated: 2026-06-07T11:12:53Z
+  Updated: 2026-06-14T11:14:28Z
   Total Products: 13
 - [SDG/Flaxseed Lignans Products | Lignans For Life | Buy Lignans Online](https://lignans.com/collections/sdgflaxseedlignans): Browse Lignans For Life's SDG/Flaxseed products and find out how they can improve you and your dog's overall health today. Call (480) 899-0713 or visit our website to learn more.
-  Updated: 2026-06-07T11:12:53Z
+  Updated: 2026-06-14T11:14:28Z
   Total Products: 13
 - [Lignans For Life Products | Lignans For Life | Buy Lignans Online](https://lignans.com/collections/lignans): Browse our Lignans products and find out how they can improve overall health today. Call (480) 899-0713 or visit our website to learn more.
-  Updated: 2026-06-07T11:12:53Z
+  Updated: 2026-06-14T11:14:28Z
   Total Products: 15
 - [Buy Melatonin Products | Lignans For Life | Buy Lignans Online](https://lignans.com/collections/melatonin): Improve you and your dog's sleep, reduce stress and anxiety, regulate hormones, and more with Lignans For Life's Melatonin Products. Call (480) 899-0713 or visit our website to learn more.
-  Updated: 2026-06-07T11:12:53Z
+  Updated: 2026-06-14T11:14:28Z
   Total Products: 13
 - [Liver Support Products | Lignans For Life | Buy Lignans Online](https://lignans.com/collections/liversupport): Achieve a healthy and worry-free liver with Lignans For Life's Liver Support products. Call (480) 899-0713 or visit our website to learn more.
-  Updated: 2026-06-07T11:12:53Z
+  Updated: 2026-06-14T11:14:28Z
   Total Products: 13
 - [Joint Support Products | Lignans For Life | Buy Lignans Online](https://lignans.com/collections/jointsupport): Improve your joint health, stability, and flexibility with Lignans For Life's Joint Support Products. Call (480) 899-0713 or visit our website to learn more.
   Updated: 2026-06-07T11:12:53Z
   Total Products: 2
 - [Other Products | Lignans For Life | Buy Lignans Online](https://lignans.com/collections/other): Discover other Lignans For Life Products on this page.Call (480) 899-0713 or visit our website to learn more.
-  Updated: 2026-06-06T11:13:18Z
+  Updated: 2026-06-13T11:13:40Z
   Total Products: 6
 - [Sesamin Products | Lignans For Life | Buy Lignans Online](https://lignans.com/collections/sesamin): Want to lower cholesterol, stimulate weight loss, break down fatty acids, and more? Browse Lignans For Life's Sesamin products on this page. Call (480) 899-0713 or visit our website to learn more.
   Updated: 2026-06-01T11:13:54Z
   Total Products: 1
 - [Lignans For People Products - Melatonin | Lignans For Life | Buy Lignans Online](https://lignans.com/collections/melatonin-people-products): Get quality sleep with Lignans for Life melatonin sleep aid! This supplement is carefully formulated to promote calm, relaxation, and natural sleep-wake cycle.
-  Updated: 2026-06-07T11:12:53Z
+  Updated: 2026-06-13T11:13:40Z
   Total Products: 1
 - [Lignans For People Products - Liver Support | Lignans For Life | Buy Lignans Online](https://lignans.com/collections/liver-support): Achieve a healthier liver with Lignans for Life’s liver support products! Browse our liver supplements here and feel free to contact us for more information.
-  Updated: 2026-06-03T11:13:35Z
+  Updated: 2026-06-13T11:13:40Z
   Total Products: 2
 - [Joint Support Products For People | Lignans For Life | Buy Lignans Online](https://lignans.com/collections/joint-support): Browse Lignans for Life joint supplements. Our joint support products contain raw nutritional materials necessary to promote joint health, stability and flexibility.
   Updated: 2026-04-02T10:35:39Z
   Total Products: 1
 - [Flaxseed Lignans For People - All Products | Lignans For Life | Buy Lignans Online](https://lignans.com/collections/all-products): Discover the health benefits of flaxseed lignans. We have natural supplements specifically-made for men and women. Shop Lignans for Life People Products here.
-  Updated: 2026-06-07T11:12:53Z
+  Updated: 2026-06-14T11:14:28Z
   Total Products: 17
 - [ For Cushing's Disease In Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/collections/lignans-dogs): Our lignans for dogs products support overall health and promote ideal cortisol levels in dogs. Suitable for dogs with low fiber tolerance. Shop here.
-  Updated: 2026-06-07T11:12:53Z
+  Updated: 2026-06-14T11:14:28Z
   Total Products: 21
 - [Melatonin For Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/collections/melatonin-dogs): Shop K9 Select melatonin for dogs in flavored chewable tablets, carefully formulated to promote calm, relaxation, and natural sleep-wake cycle.
-  Updated: 2026-06-07T11:12:53Z
+  Updated: 2026-06-14T11:14:28Z
   Total Products: 12
 - [Liver Support For Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/collections/liver-support-dogs): Keep your pet’s liver healthy! Browse our selection of liver supplement for dogs. *Consult your vet before giving your dog new supplements.
-  Updated: 2026-06-07T11:12:53Z
+  Updated: 2026-06-14T11:14:28Z
   Total Products: 11
 - [Joint Supports For Dogs | Lignans For Life | Buy Lignans Online](https://lignans.com/collections/joint-support-dogs): Shop joint supplements for dogs. Our products provide the nutrition necessary to promote joint health, stability and flexibility, plus healthier skin and coat.
   Updated: 2026-06-07T11:12:53Z
   Total Products: 1
 - [Dog Products - All Products | Lignans For Life | Buy Lignans Online](https://lignans.com/collections/all-products-dogs): We carry a wide selection of dog supplements to provide your pets with essential nutrients and boost their immune system. Shop our products for dogs here.
-  Updated: 2026-06-07T11:12:53Z
+  Updated: 2026-06-14T11:14:28Z
   Total Products: 40
 - [Lignans For People Products | Lignans For Life | Buy Lignans Online](https://lignans.com/collections/lignans-people-products): Experience the health benefits of Lignans for Life today! We have dietary supplements specifically formulated for men and women. Shop our products here.
-  Updated: 2026-06-07T11:12:53Z
+  Updated: 2026-06-14T11:14:28Z
   Total Products: 14
 - [Milk Thistle for Dogs](https://lignans.com/collections/milk-thistle-for-dogs)
-  Updated: 2026-06-07T11:12:53Z
+  Updated: 2026-06-14T11:14:28Z
   Total Products: 2
 - [AVADA - Best Sellers](https://lignans.com/collections/avada-best-sellers)
-  Updated: 2026-06-07T11:12:53Z
+  Updated: 2026-06-14T11:14:28Z
   Total Products: 48
 - [SamE](https://lignans.com/collections/same): SAMe contains antioxidants that help reduce oxygen free radicals. SAMe is used for mood support and healthy liver functions. It provides nutritional support for the liver and helps return normal liver function.
-  Updated: 2026-06-06T11:13:18Z
+  Updated: 2026-06-13T11:02:43Z
   Total Products: 4
 - [Cat Products](https://lignans.com/collections/cat-products)
-  Updated: 2026-05-22T11:13:59Z
+  Updated: 2026-06-13T11:02:40Z
   Total Products: 2
 - [Melatonin for Cats](https://lignans.com/collections/melatonin-for-cats)
-  Updated: 2026-05-22T11:13:59Z
+  Updated: 2026-06-13T11:02:40Z
   Total Products: 1
 - [Lignans for Cats](https://lignans.com/collections/lignans-for-cats)
-  Updated: 2026-04-15T11:18:32Z
+  Updated: 2026-06-13T11:02:40Z
   Total Products: 1
 
 ## Blogs
