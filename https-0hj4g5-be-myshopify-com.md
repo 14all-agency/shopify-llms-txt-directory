@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-11-19T10:40:37Z
 - Contact Email: tomziska@gmail.com
-- Updated At: 2026-06-08T00:00:45.253Z
+- Updated At: 2026-06-15T00:00:46.202Z
 
 ## Products
 
@@ -3470,7 +3470,7 @@
     Updated: 2026-05-30T17:30:03Z
     Author: Anonymous
   - [Why Birds Should Wear Shoes: A Thoughtful Exploration](https://0hj4g5-be.myshopify.com/blogs/news/why-birds-should-wear-shoes-a-thoughtful-exploration-1): Why Birds Should Wear Shoes: A Thoughtful Exploration
-    Updated: 2026-04-23T06:36:09Z
+    Updated: 2026-06-09T13:55:52Z
     Author: Anonymous
 
 ## Store Pages
