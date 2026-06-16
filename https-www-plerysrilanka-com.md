@@ -6,24 +6,31 @@
 - Timezone: Asia/Colombo
 - Created At: 2026-02-10T02:09:46Z
 - Contact Email: admin@plerysrilanka.com
-- Updated At: 2026-06-07T00:00:44.887Z
+- Updated At: 2026-06-16T00:00:43.393Z
 
 ## Products
 
 - [R602 4G LTE CAT4 AX300 WiFi6 Router (Version 2.0)](https://www.plerysrilanka.com/products/r602-4g-lte-cat4-ax300-wifi6-router-version-2-0): Plery R602 4G LTE WiFi 6 Router with CAT4 high-speed internet. Portable, SIM-ready and ideal for home, office or travel in Sri Lanka.
-  Updated: 2026-06-06T17:40:36Z
+  Updated: 2026-06-15T04:35:44Z
   Vendor: Plery SriLanka
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/6693/2852/files/473449206_122150842472361801_5593426397371235846_n.jpg?v=1770732420
   Price: Rs 10,999.00 LKR
 - [Plery R702 4G LTE Outdoor Router (AX300 WiFi 6) Sri Lanka](https://www.plerysrilanka.com/products/r702-4g-lte-cat4-ax300-wifi6-outdoor-router): Buy Plery R702 4G LTE CAT4 outdoor router in Sri Lanka. Waterproof WiFi 6 (AX300) router ideal for CCTV, warehouses and remote monitoring.
-  Updated: 2026-06-06T07:53:56Z
+  Updated: 2026-06-15T13:51:14Z
   Vendor: Plery SriLanka
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/6693/2852/files/ChatGPTImageMay24_2026_11_53_18PM.png?v=1779647111
   Price: Rs 14,100.00 LKR
+- [OLAX MC80 | CAT 6  4G+  | Unlocked Wifi Router](https://www.plerysrilanka.com/products/olax-mc80-cat-6-4g-unlocked-wifi-router): Buy with KOKO & Payzy Easy installment payment option OLAX MC80 CAT6 4G+ Unlocked WiFi Router High Speed • Dual Band • 5000mAh Battery • All SIM Supported Why Choose OLAX MC80? ✔ 4G+ CAT6 – Up to 300Mbps Download Speed ✔ Dual Band WiFi – 2.4GHz & 5.8GHz ✔ 5000mAh Battery Backup (5–8 Hours) ✔ Supports Any Sri Lankan SIM (Unlocked) ✔ 3 LAN Ports + 1 LAN/WAN Port ✔ 4 High Gain External Antennas ✔ Easy Setup Web Interface ✔ 1 Year Warranty Reliable & Fast Internet for Home or Office The OLAX MC80 CAT6 4G LTE Router is designed to provide stable and fast internet connectivity for homes, offices, CCTV systems, online classes, and gaming. With its powerful 5000mAh battery, the router continues to operate even during power cuts. Technical Specifications FDD: B1/B3/B5/B7/B8/B20/B28/B32✅ TDD: B38/B40/B41✅ WCDMA: B1/B5/B8✅ CA List B1 + B1/B3/B5/B8/B20/B28 B3 + B3/B5/B7/B8/B20/B28 B7 + B5/B7/B8/B20/B28 B20+B32 B38 + B38 B40 + B40 B41 + B41 Feature Details Network Standard IEEE 802.11b/g/n Frequency 2.4GHz & 5.8GHz Download Speed Up to 300Mbps Upload Speed Up to 50Mbps Battery 5000mAh LAN Ports 4 Ports SIM Support Unlocked – All Networks Package Includes 1 × OLAX MC80 Router 1 × USB Charging Cable 1 × User Manual Plery SriLanka Phone: 0779488546 Email: shenzhenbilianelectronic@gmail.com Address: Wekunugoda Road, Galle, Sri Lanka
+  Updated: 2026-06-10T15:09:00Z
+  Vendor: Plery SriLanka
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0977/6693/2852/files/Had1208b0ca7d4484abb63f102354265e3.jpg?v=1772764836
+  Price: Rs 22,899.00 LKR
 - [Plery RE300 Wireless Repeater 300Mbps](https://www.plerysrilanka.com/products/plery-re300-wireless-repeater-300mbps-mt7628kn-chip-2-3dbi-antennas-wpa2-encryption-easy-setup-home-wifi-extension-firewall): Buy with KOKO & Payzy Easy installment payment option Key Features 300Mbps 2.4GHz Wireless Speed IEEE 802.11b/g/n Standard Built-in Firewall and QoS Support 2 × 3dBi External Antennas WPA / WPA2 Security Encryption WPS & Reset Button Ideal for Home & Small Office Use Technical Specifications WiFi Frequency 2.4GHz Wireless Protocol IEEE 802.11b/g/n Transmission Rate 300Mbps Max LAN Data Rate 300Mbps LAN Ports 0 WAN Port 1 Antennas 2 × 3dBi External Antennas TX Power 82mW (19dBm Max) Encryption Type WPA-PSK / WPA2-PSK / WPA / WPA2 Supports WPS Yes Supports WDS No Power Supply 100~240V 50/60Hz Product Status New Place of Origin Guangdong, China Packaging & Delivery  Unit: Single Item Package Size: 18 × 10 × 8 cm Gross Weight: 0.500 kg
   Updated: 2026-06-05T12:40:23Z
   Vendor: Plery SriLanka
@@ -32,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0977/6693/2852/files/41ac3542f4495c14b3a95922675573f3_jpg_720x720q80_jpg.webp?v=1770989339
   Price: Rs 4,500.00 LKR
 - [PLERY M305 4G LTE Portable Mobile WIFI Router – Cat4 150Mbps | WIFI 6 300Mbps | 3000mAh Battery | Pocket Hotspot with SIM Slot](https://www.plerysrilanka.com/products/plery-m305-4g-lte-portable-mobile-wifi-router-cat4-150mbps-wifi-6-300mbps-3000mah-battery-pocket-hotspot-with-sim-slot): Buy with KOKO & Payzy Easy installment payment option Stay connected anywhere with the PLERY M305 4G LTE Portable Mobile WIFI Router, a compact and powerful pocket hotspot designed for fast and reliable internet on the go. Perfect for travel, work, gaming, and home backup internet. Powered by the ZTE Micro ZXCP297520V3T high-performance chipset, the M305 delivers stable connectivity and efficient performance for multiple devices. With 4G LTE Cat.4 technology, enjoy download speeds up to 150Mbps, making it ideal for video streaming, online meetings, browsing, and gaming. The WIFI 6 (2.4GHz) technology provides improved wireless efficiency and speeds up to 300Mbps, ensuring smooth connectivity for smartphones, laptops, tablets, and other smart devices. A 3000mAh built-in battery offers long-lasting usage so you can stay online throughout the day without frequent charging. Key Features ✔ 4G LTE Cat.4 Mobile Hotspot – Up to 150Mbps download speed✔ WIFI 6 Technology – Faster and more stable wireless connection✔ 2.4GHz WIFI up to 300Mbps✔ 3000mAh Battery – Long lasting portable internet✔ ZTE Micro ZXCP297520V3T Chipset – Reliable performance✔ Supports Built-in SIM + External SIM Slot✔ Type-C Wired Connection Support – More stable internet access✔ Compact & Portable Design – Perfect for travel and outdoor use✔ Connect Multiple Devices – Share internet with family or team Perfect For • Travel & Outdoor Use• Work From Anywhere• Backup Internet for Home• Online Classes• Mobile Gaming• CCTV Temporary Connections Package Includes • PLERY M305 Portable WIFI Router• Type-C Charging Cable• User Manual
-  Updated: 2026-06-06T15:07:26Z
+  Updated: 2026-06-08T15:14:47Z
   Vendor: Plery SriLanka
   Product Type: 
   Availability: Available
@@ -70,7 +77,7 @@
 ## Collections
 
 - [Best  Products](https://www.plerysrilanka.com/collections/best--products): 🔥 Customer Favorites – Best  ItemsDiscover our most popular products loved by customers across Sri Lanka. These best sellers are chosen for their quality, performance, and value. Shop the top-rated routers and accessories everyone is talking about before they  out! 🚀📶
-  Updated: 2026-06-06T11:26:35Z
+  Updated: 2026-06-15T11:27:37Z
   Total Products: 11
 
 ## Store Pages
