@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-09-02T12:59:54Z
 - Contact Email: hello@beavida.com
-- Updated At: 2026-06-09T00:00:44.757Z
+- Updated At: 2026-06-16T00:00:44.838Z
 
 Welcome to Beavida
 
