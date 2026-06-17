@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2026-03-23T08:50:54Z
 - Contact Email: contact@aurorejewels.fr
-- Updated At: 2026-06-10T00:00:41.395Z
+- Updated At: 2026-06-17T00:00:45.542Z
 
 Aurorejewels is a premium French jewelry stainless steel elegant rings, 
 necklaces, bracelets and earrings for women. Specializing in fine, 
@@ -686,8 +686,17 @@ Chaîne de main dorée en acier inoxydable
   - [Pourquoi mes bijoux me font-ils réagir ? Allergies et nickel : ce que personne ne vous dit](https://aurorejewels.fr/blogs/actualites/pourquoi-mes-bijoux-me-font-ils-reagir-allergies-nickel): <p>Vous avez la peau qui rougit ou qui démange après avoir porté un bijou ? Ce n'est pas une coïncidence. Découvrez pourquoi le nickel réagit avec votre peau, comment reconnaître les symptômes d'une allergie aux bijoux, et quelles matières privilégier pour ne plus jamais avoir à choisir entre beauté et confort.</p>
     Updated: 2026-05-19T13:46:44Z
     Author: Aurore Pilarski
+  - [Comment entretenir ses bijoux en acier inoxydable ?](https://aurorejewels.fr/blogs/actualites/comment-entretenir-bijoux-acier-inoxydable): <p>L'acier inoxydable est l'une des matières les plus résistantes en bijouterie, mais quelques gestes simples suffisent à le garder impeccable. Découvrez comment nettoyer, entretenir et conserver vos bijoux en acier inoxydable au quotidien, sans produits agressifs ni complications.</p>
+    Updated: 2026-06-16T09:51:52Z
+    Author: Aurore Pilarski
   - [Que signifie le papillon en bijou ?](https://aurorejewels.fr/blogs/actualites/que-signifie-papillon-bijou-symbolique): <p>Le papillon est bien plus qu'un motif décoratif. Il porte en lui des siècles de symbolique : transformation, renaissance, légèreté. Découvrez pourquoi ce symbole universel est l'un des plus choisis en bijouterie, et comment le porter au quotidien.</p>
     Updated: 2026-05-31T06:00:01Z
+    Author: Aurore Pilarski
+  - [Pourquoi les bijoux en acier inoxydable séduisent de plus en plus de femmes : ce que les chiffres révèlent](https://aurorejewels.fr/blogs/actualites/pourquoi-bijoux-acier-inoxydable-duisent-femmes): <p>Les bijoux en acier inoxydable explosent sur le marché mondial. Allergie au nickel, durabilité, prix accessibles : découvrez pourquoi de plus en plus de femmes font ce choix, et ce que les chiffres disent vraiment.</p>
+    Updated: 2026-06-16T10:05:15Z
+    Author: Aurore Pilarski
+  - [Comment éviter les allergies aux bijoux : causes, solutions et matériaux sûrs](https://aurorejewels.fr/blogs/actualites/eviter-allergies-bijoux-causes-solutions): <p>Rougeurs, démangeaisons, peau qui réagit dès que tu mets un bijou ? Tu n'es pas allergique aux bijoux. Tu es allergique au nickel. Quels matériaux éviter et comment porter des bijoux sans souffrir.</p>
+    Updated: 2026-06-16T10:58:04Z
     Author: Aurore Pilarski
 
 ## Store Pages
@@ -708,6 +717,8 @@ Chaîne de main dorée en acier inoxydable
   Updated: 2026-05-08T10:13:07Z
 - [Reviews](https://aurorejewels.fr/pages/reviews): h1.page-title, h1.main-page-title, #MainContent h1 { display: none; }
   Updated: 2026-05-08T10:13:08Z
+- [Droit de rétractation](https://aurorejewels.fr/pages/droit-de-retractation): Votre droit de rétractation Chez Aurore Jewels, vous disposez d'un délai de 14 jours pour changer d'avis sur votre commande, sans avoir à vous just...
+  Updated: 2026-06-15T09:51:18Z
 
 ## Policies
 
@@ -716,7 +727,7 @@ Chaîne de main dorée en acier inoxydable
 - [Shipping Policy](https://aurorejewels.fr/policies/shipping-policy)
   Updated: 2026-06-03T13:32:26+02:00
 - [Refund Policy](https://aurorejewels.fr/policies/refund-policy)
-  Updated: 2026-05-05T13:49:26+02:00
+  Updated: 2026-06-15T11:42:01+02:00
 - [Terms of Service](https://aurorejewels.fr/policies/terms-of-service)
   Updated: 2026-05-05T13:26:15+02:00
 - [Contact Information](https://aurorejewels.fr/policies/contact-information)
