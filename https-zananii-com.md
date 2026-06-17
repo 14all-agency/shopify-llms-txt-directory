@@ -6,7 +6,7 @@
 - Timezone: Asia/Karachi
 - Created At: 2024-09-30T18:36:55Z
 - Contact Email: info@zananii.com
-- Updated At: 2026-06-09T00:00:42.878Z
+- Updated At: 2026-06-17T00:00:45.901Z
 
 ## Products
 
@@ -448,7 +448,7 @@
     Availability: Available
     Price: Rs 9,999.00 PKR
 - [Ajrak Coat & Boho Shalwar – Dam Hama Dam by Zananii](https://zananii.com/products/ajrak-coat-and-mustard-butterfly-shalwar): Experience heritage redefined with our Ajrak Coat & Boho Shalwar. Handcrafted cotton elegance inspired by Sindhi artistry and timeless charm.
-  Updated: 2026-06-08T08:54:37Z
+  Updated: 2026-06-10T08:01:06Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -775,7 +775,7 @@
     Availability: Available
     Price: Rs 4,799.00 PKR
 - [Flapper Pants – Taab Collection by Zananii](https://zananii.com/products/white-flapper-pants): Flapper pants made from soft slub viscose. Light, breathable, and easy to style for a relaxed and comfortable everyday look.
-  Updated: 2026-06-03T08:44:45Z
+  Updated: 2026-06-10T08:43:26Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -876,6 +876,57 @@
   - [XL](https://zananii.com/products/olive-green-kurta-with-white-pants?variant=49570017870017)
     Availability: Available
     Price: Rs 7,800.00 PKR
+- [Ajrak Waistcoat & Boho Shalwar – Dam Hama Dam by Zananii](https://zananii.com/products/ajrak-waistcoat): Shop the signature Dam Hama Dam Ajrak waistcoat with striped Boho Shalwar. Elegant, handcrafted cotton outfit blending culture and modern charm.
+  Updated: 2026-06-10T08:43:16Z
+  Vendor: Zananii by KAH
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0801/3919/0465/files/dhd-01-1.webp?v=1773521405
+  - [Complete Article / XS](https://zananii.com/products/ajrak-waistcoat?variant=49568928956609)
+    Availability: Not Available
+    Price: Rs 14,160.00 PKR
+  - [Complete Article / M](https://zananii.com/products/ajrak-waistcoat?variant=49698858336449)
+    Availability: Not Available
+    Price: Rs 14,160.00 PKR
+  - [Complete Article / L](https://zananii.com/products/ajrak-waistcoat?variant=49698858434753)
+    Availability: Not Available
+    Price: Rs 14,160.00 PKR
+  - [Complete Article / S](https://zananii.com/products/ajrak-waistcoat?variant=49698858533057)
+    Availability: Not Available
+    Price: Rs 14,160.00 PKR
+  - [Complete Article / XL](https://zananii.com/products/ajrak-waistcoat?variant=49698858631361)
+    Availability: Not Available
+    Price: Rs 14,160.00 PKR
+  - [Ajrak Waistcoat / XS](https://zananii.com/products/ajrak-waistcoat?variant=49698858729665)
+    Availability: Not Available
+    Price: Rs 9,760.00 PKR
+  - [Ajrak Waistcoat / M](https://zananii.com/products/ajrak-waistcoat?variant=49698858827969)
+    Availability: Not Available
+    Price: Rs 9,760.00 PKR
+  - [Ajrak Waistcoat / L](https://zananii.com/products/ajrak-waistcoat?variant=49698858926273)
+    Availability: Not Available
+    Price: Rs 9,760.00 PKR
+  - [Ajrak Waistcoat / S](https://zananii.com/products/ajrak-waistcoat?variant=49698859024577)
+    Availability: Not Available
+    Price: Rs 9,760.00 PKR
+  - [Ajrak Waistcoat / XL](https://zananii.com/products/ajrak-waistcoat?variant=49698859122881)
+    Availability: Not Available
+    Price: Rs 9,760.00 PKR
+  - [Stripes Butterfly Shalwar / XS](https://zananii.com/products/ajrak-waistcoat?variant=49698859221185)
+    Availability: Not Available
+    Price: Rs 4,400.00 PKR
+  - [Stripes Butterfly Shalwar / M](https://zananii.com/products/ajrak-waistcoat?variant=49698859319489)
+    Availability: Not Available
+    Price: Rs 4,400.00 PKR
+  - [Stripes Butterfly Shalwar / L](https://zananii.com/products/ajrak-waistcoat?variant=49698859417793)
+    Availability: Not Available
+    Price: Rs 4,400.00 PKR
+  - [Stripes Butterfly Shalwar / S](https://zananii.com/products/ajrak-waistcoat?variant=49698859516097)
+    Availability: Available
+    Price: Rs 4,400.00 PKR
+  - [Stripes Butterfly Shalwar / XL](https://zananii.com/products/ajrak-waistcoat?variant=49698859614401)
+    Availability: Not Available
+    Price: Rs 4,400.00 PKR
 - [Off-White Chicken Kari Set – Laaj Collection by Zananii](https://zananii.com/products/laaj-01): Off-white chicken kari set with mustard embroidery, tassels, and white pants. A timeless piece from Zananii’s Laaj Collection.
   Updated: 2026-06-03T08:27:30Z
   Vendor: Zananii by KAH
@@ -1400,7 +1451,7 @@
     Image: https://cdn.shopify.com/s/files/1/0801/3919/0465/files/3_15c5cf2d-3c97-4e87-810a-7e3edb7556a3.jpg?v=1780664406
     Price: Rs 38,679.00 PKR
 - [Khusbakht Couture KCT-01 – Nude Beige Formal 3-Piece Ensemble](https://zananii.com/products/khusbakht-couture-kct-02): Stunning crimson red formal outfit featuring a long net jacket with inner and silk crush lehenga. Bold, elegant, and perfect for festive or formal occasions. Dry clean only.
-  Updated: 2026-06-05T15:08:45Z
+  Updated: 2026-06-10T11:21:16Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1535,7 +1586,7 @@
     Availability: Available
     Price: Rs 15,895.00 PKR
 - [Khusbakht Couture KCT-07 – Korean Silk Formal 3-Piece Ensemble](https://zananii.com/products/khusbakht-couture-kct-07): Striking Korean silk formal outfit featuring appliqué and organza details, paired with balloon shalwar and Mukesh chiffon dupatta. Perfect for Eid or festive occasions. Dry clean only.
-  Updated: 2026-06-03T08:10:38Z
+  Updated: 2026-06-16T10:48:16Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1602,7 +1653,7 @@
     Image: https://cdn.shopify.com/s/files/1/0801/3919/0465/files/7_25e95f54-a2b0-46ff-8bf0-fbcb3425420c.jpg?v=1780663139
     Price: Rs 24,350.00 PKR
 - [Khusbakht Couture KCT-09 – Grey & Mustard Formal 2-Piece Ensemble](https://zananii.com/products/khusbakht-couture-kct-09): Sophisticated grey formal outfit with mustard accents featuring a sleeveless Korean silk shirt and loose, flared pants. KCT-09 is perfect for festive or formal occasions.
-  Updated: 2026-06-06T03:06:56Z
+  Updated: 2026-06-10T08:20:41Z
   Vendor: Zananii by KAH
   Product Type: 
   Availability: Available
@@ -1654,7 +1705,7 @@
   Updated: 2026-05-14T00:48:18Z
   Total Products: 4
 - [New Arrival](https://zananii.com/collections/new-arrival)
-  Updated: 2026-06-08T11:17:09Z
+  Updated: 2026-06-10T11:22:21Z
   Total Products: 31
 - [Trendy Casual Wear for Any Occasion](https://zananii.com/collections/casual-wear): Discover the latest trends in casual wear for a comfortable and stylish look. Shop now!
   Updated: 2026-05-29T11:20:46Z
@@ -1669,7 +1720,7 @@
   Updated: 2026-05-30T11:58:55Z
   Total Products: 5
 - [Dam Hama Dam by Zananii – Ajrak Inspired Outfits](https://zananii.com/collections/dam-hama-dam): Discover Dam Hama Dam by Zananii, a bold fusion of Ajrak prints and modern cuts. Each piece reflects heritage, artistry, and timeless style.
-  Updated: 2026-06-08T11:17:09Z
+  Updated: 2026-06-10T11:22:21Z
   Total Products: 5
 - [Gohar Collection by Zananii – Grace & Tradition](https://zananii.com/collections/gohar): Discover Gohar by Zananii — soft colors, fine embroidery, and timeless cuts that bring a touch of tradition and charm to your everyday wear.
   Updated: 2026-05-14T12:14:16Z
@@ -1735,7 +1786,7 @@
   Updated: 2026-05-29T11:20:46Z
   Total Products: 2
 - [Exclusive](https://zananii.com/collections/exclusive)
-  Updated: 2026-06-08T11:17:09Z
+  Updated: 2026-06-10T11:22:21Z
   Total Products: 14
 - [Co-ords](https://zananii.com/collections/cords)
   Updated: 2026-05-16T11:28:47Z
@@ -1744,7 +1795,7 @@
   Updated: 2026-05-14T20:01:15Z
   Total Products: 1
 - [Smart Products Filter Index - Do not delete](https://zananii.com/collections/globofilter-best--products-index)
-  Updated: 2026-06-08T11:17:09Z
+  Updated: 2026-06-10T11:22:21Z
   Total Products: 56
 - [Khusbakht Couture – Formal Luxury Collection by Zananii](https://zananii.com/collections/khusbakht-couture): Discover Khusbakht Couture by Zananii, a formal collection featuring elegant Korean silk, embroidered details, flowing silhouettes, and statement dupattas. Perfect for Eid and festive occasions.
   Updated: 2026-05-22T11:21:24Z
@@ -1756,10 +1807,10 @@
   Updated: 2026-05-30T11:58:55Z
   Total Products: 24
 - [AVADA - Best Sellers](https://zananii.com/collections/avada-best-sellers)
-  Updated: 2026-06-08T11:17:09Z
+  Updated: 2026-06-10T11:22:21Z
   Total Products: 56
 - [Qurban Eid ](https://zananii.com/collections/qurban-eid-)
-  Updated: 2026-06-08T11:17:09Z
+  Updated: 2026-06-10T11:22:21Z
   Total Products: 47
 
 ## Store Pages
