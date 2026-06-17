@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-05-01T01:45:12Z
 - Contact Email: eugene@virelo.ag
-- Updated At: 2026-06-08T04:44:00.379Z
+- Updated At: 2026-06-17T00:00:36.883Z
 
 Valley Aerial Ag
 
@@ -67,14 +67,14 @@ Valley Aerial Ag helps California growers and agricultural professionals adopt f
 ## Products
 
 - [Buy DJI Agras T100 Agricultural Spray Drone | Valley Aerial Ag](https://www.valleyaerialag.com/products/dji-agras-t100): DJI Agras T100 precision agricultural sprayer drone for farming. Trusted technology with local service & compliance support. Buy the best farm spray drone today.
-  Updated: 2026-05-29T13:49:00Z
+  Updated: 2026-06-09T05:57:17Z
   Vendor: DJI
   Product Type: Drones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/BareSpec.png?v=1777600267
   Price: $25,456.00 USD
 - [Buy DJI Agras T100 Standard Bundle | Complete Drone Package](https://www.valleyaerialag.com/products/dji-t100-standard-bundle): DJI Agras T100 Standard Bundle with all essentials for agricultural spraying. Complete drone package includes batteries, chargers & accessories for farming.
-  Updated: 2026-05-29T13:49:01Z
+  Updated: 2026-06-09T05:55:17Z
   Vendor: DJI
   Product Type: Drones
   Availability: Available
@@ -123,7 +123,7 @@ Valley Aerial Ag helps California growers and agricultural professionals adopt f
   Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/DJIC10000Chager_800x_44a6b4aa-6afc-4517-9b57-4b92996fe5b9.webp?v=1777851473
   Price: $2,198.90 USD
 - [Buy Agras T100 Spreading System | Farm Equipment](https://www.valleyaerialag.com/products/dji-agras-t100-spreading-system): DJI Agras T100 Spreading System for granular application. Precision agricultural equipment for crop dusting & spreading. Enhance farming productivity today.
-  Updated: 2026-06-07T14:12:39Z
+  Updated: 2026-06-12T02:34:26Z
   Vendor: DJI
   Product Type: Drone accessories
   Availability: Available
@@ -144,21 +144,21 @@ Valley Aerial Ag helps California growers and agricultural professionals adopt f
   Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/ChatGPT_Image_May_12_2026_08_51_50_AM.png?v=1778601119
   Price: $324.50 USD
 - [Buy Orchard Mist Kit | Agras T100 Spraying System](https://www.valleyaerialag.com/products/db1260-intelligent-flight-battery-adapter-cable-copy): DJI Agras T100 Orchard Mist Kit for precision orchard spraying. Specialized agricultural application system for trees & crops. Professional farming equipment.
-  Updated: 2026-06-04T19:37:35Z
+  Updated: 2026-06-12T02:34:27Z
   Vendor: DJI
   Product Type: Drone accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/ChatGPT_Image_May_12_2026_08_54_03_AM.png?v=1778601253
   Price: $2,399.00 USD
 - [Buy DJI WB37 Battery Charging Hub | USB Type-C Charger](https://www.valleyaerialag.com/products/dji-wb37-battery-charging-hub-usb-type-c): DJI WB37 Battery Charging Hub with USB Type-C for agricultural drones. Fast charging solution. Efficient battery management for Agras equipment. Buy now.
-  Updated: 2026-05-29T13:49:03Z
+  Updated: 2026-06-12T02:34:28Z
   Vendor: DJI
   Product Type: Drone accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/WB37ChargingHub.webp?v=1778632523
   Price: $99.00 USD
 - [Buy DJI WB37 Intelligent Battery | Rechargeable LiPo battery](https://www.valleyaerialag.com/products/dji-wb37-intelligent-battery): Shop DJI WB37 Intelligent Battery (4920mAh, 37.39Wh) for CrystalSky monitors & DJI controllers. Long-lasting, reliable power for professional drone operations.
-  Updated: 2026-05-29T13:49:03Z
+  Updated: 2026-06-12T02:34:26Z
   Vendor: DJI
   Product Type: Drone accessories
   Availability: Available
@@ -172,7 +172,7 @@ Valley Aerial Ag helps California growers and agricultural professionals adopt f
   Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/rowcropquadnozzle.png?v=1778642369
   Price: $1,899.00 USD
 - [Buy Agras T100 Generator Bundle | Farm Drone Complete Kit](https://www.valleyaerialag.com/products/dji-agras-t100-standard-bundle-copy): DJI Agras T100 Generator Bundle with power system. Premium agricultural drone package includes generator, batteries & accessories for efficient field operations.
-  Updated: 2026-06-05T07:36:43Z
+  Updated: 2026-06-12T02:34:27Z
   Vendor: DJI
   Product Type: Drones
   Availability: Available
@@ -186,7 +186,7 @@ Valley Aerial Ag helps California growers and agricultural professionals adopt f
   Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/4T_Bundle.png?v=1779743155
   Price: $7,586.00 USD
 - [Buy DJI Matrice 4T Enterprise Thermal Drone | Valley Aerial](https://www.valleyaerialag.com/products/dji-matrice-4t-copy): Shop the DJI Matrice 4T thermal drone for inspections, public safety, search & rescue, utilities, and industrial operations with advanced AI features.
-  Updated: 2026-05-29T13:49:04Z
+  Updated: 2026-06-11T21:31:29Z
   Vendor: DJI
   Product Type: Drones
   Availability: Available
@@ -200,19 +200,12 @@ Valley Aerial Ag helps California growers and agricultural professionals adopt f
   Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/DJIMatrice4EwithDJIRCPlus2Enterprise_NoCare.jpg?v=1779916490
   Price: $4,699.00 USD
 - [Buy DJI Matrice 4T Enterprise Thermal Drone | Valley Aerial](https://www.valleyaerialag.com/products/dji-matrice-4e-copy): Shop the DJI Matrice 4T thermal drone for inspections, public safety, search & rescue, utilities, and industrial operations with advanced AI features.
-  Updated: 2026-05-29T13:49:04Z
+  Updated: 2026-06-08T13:18:09Z
   Vendor: DJI
   Product Type: Drones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/DJIMatrice4TDDronewithRCPlus2EnterpriseController_BundlewithDock3_6xBatteries_AS1Speaker_AL132WSpotlight.jpg?v=1779918605
   Price: $24,899.00 USD
-- [DJI Mavic 3 Enterprise Series Battery Kit](https://www.valleyaerialag.com/products/dji-mavic-3-enterprise-series-battery-kit): Bundle Include: 3x Mavic 3 Enterprise Series Batteries 1x Charging Hub 1x USB Cable
-  Updated: 2026-05-29T13:49:05Z
-  Vendor: DJI
-  Product Type: Drone accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0975/1809/2658/files/Mavic3EntepriseBatteryKit.jpg?v=1779919217
-  Price: $530.00 USD
 - [DJI 100W USB-C Power Adapter](https://www.valleyaerialag.com/products/dji-100w-usb-c-power-adapter): Charger compatible with Matrice 4 Series/ Mavic 3 Series
   Updated: 2026-06-04T19:33:43Z
   Vendor: DJI
@@ -238,19 +231,19 @@ Valley Aerial Ag helps California growers and agricultural professionals adopt f
 ## Collections
 
 - [Agricultural Drones & Equipment | Valley Aerial Ag Shop](https://www.valleyaerialag.com/collections/frontpage): Featured agricultural drones & accessories. DJI Agras T100 solutions, batteries, chargers & parts. Premium farm equipment with local service & support available.
-  Updated: 2026-05-29T13:49:00Z
+  Updated: 2026-06-12T11:26:47Z
   Total Products: 4
 - [Shop Farm Drones For  | DJI Agras T100 | Valley Aerial Ag](https://www.valleyaerialag.com/collections/drones): Shop agricultural drones including DJI Agras T100 bundles. Professional farm drone solutions with complete packages, generators & spreading systems for farming.
-  Updated: 2026-05-29T13:49:00Z
+  Updated: 2026-06-12T11:26:47Z
   Total Products: 3
 - [Shop Drone Accessories & Parts | Agras T100 | Valley Aerial](https://www.valleyaerialag.com/collections/accessories): Buy agricultural drone accessories: batteries, chargers, propellers & generators. Genuine DJI parts for Agras T100. Complete accessory solutions for farm drones.
-  Updated: 2026-06-07T14:12:41Z
+  Updated: 2026-06-12T11:26:47Z
   Total Products: 16
 - [T100 Accessories & Parts | Agras T100 | Valley Aerial Ag](https://www.valleyaerialag.com/collections/t100-accessories): Shop T100 accessories for DJI Agras T100 drones. Batteries, chargers, propellers, generators & complete parts. Genuine replacements for agricultural equipment.
-  Updated: 2026-06-07T14:12:41Z
+  Updated: 2026-06-12T11:26:47Z
   Total Products: 13
 - [Shop Enterprise Drones for Agriculture & Surveying | Valley](https://www.valleyaerialag.com/collections/enterprise-drones): Shop enterprise drones for agriculture, mapping, inspection, and surveying at Valley Aerial Ag. Explore advanced DJI drone solutions for commercial operations.
-  Updated: 2026-05-29T13:49:01Z
+  Updated: 2026-06-12T11:26:47Z
   Total Products: 4
 
 ## Store Pages
@@ -264,7 +257,9 @@ Valley Aerial Ag helps California growers and agricultural professionals adopt f
 - [Our Mission](https://www.valleyaerialag.com/pages/our-mission): Our Mission Agriculture doesn't stop when equipment breaks down, parts are delayed, or support is unavailable. Crops still need to be protected, fi...
   Updated: 2026-06-08T04:13:10Z
 - [How to Become an Unmanned Ag Drone Pilot in California](https://www.valleyaerialag.com/pages/how-to-become-an-unmanned-ag-drone-pilot-in-california): Path to Becoming an Unmanned Ag Pilot in California A practical guide for aspiring agricultural drone pilots Agricultural drones are creating a new...
-  Updated: 2026-06-08T04:28:00Z
+  Updated: 2026-06-09T18:10:15Z
+- [How to Start an Agricultural Drone Business in California](https://www.valleyaerialag.com/pages/how-to-start-an-agricultural-drone-business-in-california): Licensing Requirements for Agricultural Drone Operators in California California has some of the most thorough agricultural regulations in the coun...
+  Updated: 2026-06-09T13:52:26Z
 
 ## Policies
 
