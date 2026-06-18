@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2023-10-09T12:08:55Z
 - Contact Email: flavours@juicyolive.com
-- Updated At: 2026-06-09T00:00:33.979Z
+- Updated At: 2026-06-18T00:00:38.536Z
 
 Boost your health with our high polyphenol, cold pressed extra virgin olive oil. Lab-tested for purity and flavor. Shop our premium collection today!
 
@@ -121,7 +121,7 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-TIN1-TRIPLE-PERSPECTIVE-ORGANIC.jpg?v=1742800180
     Price: ₺5,440.00 TRY
 - [Fruity & Full bodied | Organic Early Harvest Extra Virgin Olive Oil | 2 L Tin | Acidity ≤0.2%](https://juicyolive.com/products/fruity-full-bodied-organic-early-harvest-extra-virgin-olive-oil-2l): Fit for gourmets who want to perfect their food with charming and premium Juicy Olive Squeezed.Due to the premier harvest (1st week of August), it has an intriguingly piquant and elegant flavor with a full-bodied and dense texture. It leaves a pungent and sharp mouthfeel with intense robust aroma notes.Thanks to being rich in phenolic compounds and rare in acidity (0.1% - 0.2%), it reveals precision, freshness, and healthiness on every plate.
-  Updated: 2026-06-04T12:45:45Z
+  Updated: 2026-06-09T13:20:39Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -468,14 +468,14 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
   Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MF-RS-2L-Organic_Logo.jpg?v=1778830357
   Price: ₺7,545.00 TRY
 - [Mild & Flavorous + Fruity & Full-Bodied Duo | 2 L Tin](https://juicyolive.com/products/mild-flavorous-fruity-full-bodied-duo-2-l-tin): Experience the elegance of mild and fruity flavors with our Mild & Flavorous and Fruity & Full-Bodied Duo, crafted for those who appreciate the finest olive oils. Mild & Flavorous- Crafted from olives harvested in late August, this emerald-green oil offers a gentle olive-fruity taste with a well-balanced texture, finishing with delicate fresh notes. Fruity & Full-Bodied – A premier early-August harvest with a piquant flavor, dense texture, and intense aroma. Together, these oils provide a versatile spectrum of robust flavors, ideal for those who appreciate intensity and character in every drop.
-  Updated: 2026-06-04T12:47:53Z
+  Updated: 2026-06-09T13:20:46Z
   Vendor: Juicy Olive Squeezed
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MF_FFT2-Organik.jpg?v=1742800066
   Price: ₺9,380.00 TRY
 - [Fruity & Full-Bodied + Relish & Smooth | 2 L Tin](https://juicyolive.com/products/fruity-full-bodied-relish-smooth-2-l-tin): Elevate your culinary experience with the Fruity & Full-Bodied and Relish & Smooth Duo, a perfect pairing of two exceptional extra virgin olive oils—one smooth and silky, the other rich and full-bodied. Fruity & Full-Bodied – A premier early-August harvest with a piquant flavor, dense texture, and intense aroma. Relish & Smooth – An early autumn harvest with a clean, grassy aroma and a light yet memorable mouthfeel. Its subtle bitterness and smooth texture create a refined tasting experience.
-  Updated: 2026-06-04T12:48:12Z
+  Updated: 2026-06-09T13:20:46Z
   Vendor: Juicy Olive Squeezed
   Product Type: 
   Availability: Available
@@ -517,7 +517,7 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
   Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MFEssentialCollection-Bottle_2L.jpg?v=1742800059
   Price: ₺5,350.00 TRY
 - [Fruity & Full-Bodied Essential Collection | 500 ml Bottle + 2 L Tin](https://juicyolive.com/products/fruity-full-bodied-essential-collection-500-ml-bottle-2-l-tin): Fit for gourmets who want to perfect their food with charming and premium Juicy Olive Squeezed.Due to the premier harvest (1st week of August), it has an intriguingly piquant and elegant flavor with a full-bodied and dense texture. It leaves a pungent and sharp mouthfeel with intense robust aroma notes.Thanks to being rich in phenolic compounds and rare in acidity (0.1% - 0.2%), it reveals precision, freshness, and healthiness on every plate.
-  Updated: 2026-06-04T12:59:33Z
+  Updated: 2026-06-09T13:20:46Z
   Vendor: Juicy Olive Squeezed
   Product Type: 
   Availability: Available
@@ -538,7 +538,7 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
   Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/ThreeFlavours-T1Set.jpg?v=1742800055
   Price: ₺6,805.00 TRY
 - [Three Flavours | 2 L Tin Collection](https://juicyolive.com/products/three-flavours-2-l-tin-collection): Indulge in the full spectrum of premium extra virgin olive oil with our Three Flavors Collection—a carefully curated trio that brings together mild, smooth, and fruity profiles for a truly versatile tasting experience. Fruity & Full-Bodied – A premier early-August harvest with a piquant flavor, dense texture, and intense aroma. Mild & Flavorous- Crafted from olives harvested in late August, this emerald-green oil offers a gentle olive-fruity taste with a well-balanced texture, finishing with delicate fresh notes. Relish & Smooth – An early autumn harvest with a clean, grassy aroma and a light yet memorable mouthfeel. Its subtle bitterness and smooth texture create a refined tasting experience.
-  Updated: 2026-06-04T13:01:59Z
+  Updated: 2026-06-09T13:20:46Z
   Vendor: Juicy Olive Squeezed
   Product Type: 
   Availability: Available
@@ -878,8 +878,8 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
 ## Collections
 
 - [HPLC Lab Tested High Phenolic EVOO | Juicy Olive Squeezed](https://juicyolive.com/collections/shop): Discover premium Turkish DOP Extra Virgin Olive Oil. HPLC lab tested for high phenolic content and cold pressed for purity. Shop our elite 500ml bottle now.
-  Updated: 2026-05-30T11:09:24Z
-  Total Products: 67
+  Updated: 2026-06-17T10:09:57Z
+  Total Products: 68
 - [Special Offers](https://juicyolive.com/collections/special-offers)
   Updated: 2026-05-06T12:35:30Z
   Total Products: 74
