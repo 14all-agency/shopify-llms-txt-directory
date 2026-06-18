@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-16T15:55:12Z
 - Contact Email: admin@hypesinventory.com
-- Updated At: 2026-06-10T00:00:31.277Z
+- Updated At: 2026-06-18T00:00:33.169Z
 
 ## Products
 
@@ -247,7 +247,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-lipstick-07-matte-lipstick-phofay-long-lasting-waterproof-lipstick-35159647551741.webp?v=1775784901
     Price: $16.95 USD
 - [Pressed Powder – PHOFAY Matte Setting Powder Oil-Control Finish](https://hypesinventory.com/products/phofay-matte-setting-pressed-powder): Shop pressed powder by PHOFAY. This pressed powder controls oil, blurs pores, and sets makeup for a smooth, matte, long-lasting finish with lightweight coverage.
-  Updated: 2026-06-09T17:22:08Z
+  Updated: 2026-06-10T03:07:19Z
   Vendor: Hypes Inventory
   Product Type: Setting Powder
   Availability: Available
@@ -273,7 +273,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Pressed-Powder-_-PHOFAY-Matte-Setting-Powder_Hypes-Inventory-34682460.webp?v=1778901499
     Price: $13.99 USD
   - [02](https://hypesinventory.com/products/phofay-matte-setting-pressed-powder?variant=46260558299389)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-setting-powder-04-pressed-powder-phofay-matte-setting-powder-35159644504317.webp?v=1775784818
     Price: $13.99 USD
   - [06](https://hypesinventory.com/products/phofay-matte-setting-pressed-powder?variant=46260558332157)
@@ -311,7 +311,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-loose-powder-03-1pcs-phofay-setting-soft-touch-loose-powder-35159625990397.webp?v=1775784841
     Price: $24.95 USD
 - [Lip Liner Pencil – PHOFAY Waterproof Long-Lasting Lip Liner](https://hypesinventory.com/products/phofay-lip-liner-pencil-waterproof): Shop lip liner pencil by PHOFAY. Waterproof, long-lasting formula defines, shapes, and contours lips for smooth, precise, and fade-resistant wear.
-  Updated: 2026-06-09T17:26:47Z
+  Updated: 2026-06-16T21:12:52Z
   Vendor: Hypes Inventory
   Product Type: Lip Liner
   Availability: Available
@@ -368,13 +368,13 @@
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-eyeliner-black-waterproof-liquid-eyeliner-smudge-proof-eyeliner-pen-phofay-35159643914493.webp?v=1775784925
   Price: $17.68 USD
 - [Volumizing Mascara – PHOFAY Lengthening & Curling Mascara - Hypes](https://hypesinventory.com/products/phofay-volumizing-mascara): Get bold, voluminous lashes with PHOFAY Volumizing Mascara. Curling, lengthening, and buildable formula for dramatic lash definition. 10g.
-  Updated: 2026-06-09T17:16:09Z
+  Updated: 2026-06-17T07:17:18Z
   Vendor: Hypes Inventory
   Product Type: Mascara
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-mascara-set1-volumizing-mascara-phofay-lengthening-curling-mascara-35159646011645.webp?v=1775784936
   - [Set1](https://hypesinventory.com/products/phofay-volumizing-mascara?variant=46260571570429)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-mascara-set1-volumizing-mascara-phofay-lengthening-curling-mascara-35159646011645.webp?v=1775784936
     Price: $24.52 USD
   - [Set2](https://hypesinventory.com/products/phofay-volumizing-mascara?variant=46260571603197)
@@ -464,7 +464,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-liquid-blush-pink-liquid-blush-phofay-mousse-lightweight-blush-35159685595389.webp?v=1775784972
     Price: $19.98 USD
 - [Cream and Powder Blush Duo | PHOFAY Buildable Glow](https://hypesinventory.com/products/phofay-cream-and-powder-blush-duo): Shop cream and powder blush duo by PHOFAY. Buildable cream and powder blush delivers a smooth, radiant glow with long-lasting, lightweight coverage in one compact.
-  Updated: 2026-06-09T17:27:27Z
+  Updated: 2026-06-14T03:22:09Z
   Vendor: Hypes Inventory
   Product Type: Blush Duo
   Availability: Available
@@ -474,15 +474,15 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-blush-duo-set-1pcs-phofay-cream-and-powder-blush-buildable-blush-duo-for-radiant-glow-35159659348221.webp?v=1775784977
     Price: $37.58 USD
   - [04 / 1PCS](https://hypesinventory.com/products/phofay-cream-and-powder-blush-duo?variant=46260579959037)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-blush-duo-set-1pcs-phofay-cream-and-powder-blush-buildable-blush-duo-for-radiant-glow-35159662756093.webp?v=1775784978
     Price: $26.95 USD
   - [03 / 1PCS](https://hypesinventory.com/products/phofay-cream-and-powder-blush-duo?variant=46260579991805)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-blush-duo-set-1pcs-phofay-cream-and-powder-blush-buildable-blush-duo-for-radiant-glow-35159681794301.webp?v=1775784981
     Price: $26.95 USD
   - [01 / 1PCS](https://hypesinventory.com/products/phofay-cream-and-powder-blush-duo?variant=46260580024573)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-blush-duo-set-1pcs-phofay-cream-and-powder-blush-buildable-blush-duo-for-radiant-glow-35159698997501.webp?v=1775784991
     Price: $26.95 USD
   - [02 / 1PCS](https://hypesinventory.com/products/phofay-cream-and-powder-blush-duo?variant=46260580057341)
@@ -1224,7 +1224,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/Women_s-Nylon-Stretch-Zip-Up-Yoga-Jacket-for-Fall-Winter_Hypes-Inventory-34725816.webp?v=1778901532
     Price: $36.95 USD
 - [Seamless Yoga Set Women | Flairé™ High Waist Workout Set](https://hypesinventory.com/products/seamless-yoga-set-women): Shop seamless yoga set women by Flairé™. High-waist, breathable activewear set designed for comfort, flexibility, and a flattering sculpted fit.
-  Updated: 2026-05-16T02:00:16Z
+  Updated: 2026-06-17T23:38:52Z
   Vendor: Hypes Inventory
   Product Type: Activewear Set
   Availability: Available
@@ -1754,7 +1754,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-shapewear-bodysuit-nude-small-seamless-one-piece-shapewear-by-shaper-35801683165437.webp?v=1775785242
     Price: $37.99 USD
 - [One Shoulder Sports Bra | Flairé™ Ribbed Workout Bra](https://hypesinventory.com/products/one-shoulder-sports-bra): Shop one shoulder sports bra by Flairé™. Ribbed, supportive, and breathable design perfect for workouts, yoga, and everyday athleisure style.
-  Updated: 2026-05-16T02:00:14Z
+  Updated: 2026-06-17T23:34:50Z
   Vendor: Hypes Inventory
   Product Type: Sports Bra
   Availability: Available
@@ -2634,7 +2634,7 @@
   Updated: 2026-06-04T03:00:03Z
   Total Products: 11
 - [Bag Charms for Purses & Keychains – Cute Accessories | Hypes Inventory](https://hypesinventory.com/collections/bag-charms-for-purses): Shop bag charms for purses, keychains, and accessories. Cute, trendy, and gift-ready styles to elevate your bags and everyday look.
-  Updated: 2026-06-08T11:01:40Z
+  Updated: 2026-06-16T06:46:35Z
   Total Products: 29
 - [new fashion arrivals | Trending Women’s Fashion Styles](https://hypesinventory.com/collections/new-fashion-arrivals): Shop new fashion arrivals featuring trending women’s activewear, accessories, handbags, jewelry, and stylish everyday fashion.
   Updated: 2026-06-08T11:01:40Z
@@ -2643,10 +2643,10 @@
   Updated: 2026-06-04T04:03:55Z
   Total Products: 35
 - [Bag Edit | Trendy Everyday Bags, Totes & Crossbody Styles](https://hypesinventory.com/collections/bag-edit): Shop The Bag Edit for stylish everyday bags, totes, handbags, and crossbody styles made to elevate your outfits with ease.
-  Updated: 2026-06-08T13:56:46Z
+  Updated: 2026-06-16T06:45:59Z
   Total Products: 32
 - [Mothers Day Gifts | Stylish & Practical Gift Ideas for Mom](https://hypesinventory.com/collections/mothers-day-gifts): Shop mothers day gifts designed for style and everyday use. Discover elegant bags and thoughtful gift ideas perfect for moms.
-  Updated: 2026-06-08T13:56:46Z
+  Updated: 2026-06-16T06:45:59Z
   Total Products: 9
 
 ## Blogs
