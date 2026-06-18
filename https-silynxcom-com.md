@@ -9,7 +9,7 @@
 - Created At: 2026-04-06T10:15:38Z
 - Contact Email: info@silynxcom.com
 - Contact Phone: +1 571-748-7152
-- Updated At: 2026-06-09T09:23:58.012Z
+- Updated At: 2026-06-18T00:00:44.315Z
 
 ## Products
 
@@ -26,7 +26,7 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/Clarusdeserttan_femaleconnectorQDC_DSC0794.jpg?v=1779002100
 - [Silynx MWPTT — Wireless Push-to-Talk for Tactical Radios](https://silynxcom.com/products/mwptt): Silynx MWPTT wireless push-to-talk — -mountable via Picatinny rail, IP68 to 10m dive depth, 6 months battery life. Pairs instantly with any Silynx control box for hands-free comms.
-  Updated: 2026-06-09T08:48:20Z
+  Updated: 2026-06-09T17:59:00Z
   Vendor: Silynx
   Product Type: Wired & wireless PTT
   Availability: Not Available
@@ -333,7 +333,7 @@
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/WirelessKeyFob.jpg?v=1779601065
 - [Silynx MWPTT WR — Wireless + Wired Hybrid PTT](https://silynxcom.com/products/mwptt-wr): The Silynx MWPTT WR pairs wireless -mounted PTT with a 1.2m wired finger PTT — for sniping, off-road, parachuting, and multi-position operations.
-  Updated: 2026-06-09T08:50:44Z
+  Updated: 2026-06-09T18:37:15Z
   Vendor: Silynx
   Product Type: Wired & wireless PTT
   Availability: Not Available
@@ -363,17 +363,17 @@
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/SingleU94PTT_8e605030-9f21-4f41-bd41-28d2fee0e5a0.jpg?v=1779609532
 - [Silynx FORTIS Quad PTT — 4-Network Tactical Headset System](https://silynxcom.com/products/fortis-quad-ptt-set-1): FORTIS Quad PTT — 4-network tactical headset system from Silynx. In-ear hearing protection, MIL-STD-810G, IP68. Built for commanders and signals officers.
-  Updated: 2026-06-08T10:57:23Z
+  Updated: 2026-06-15T09:12:44Z
   Vendor: Silynx
   Product Type: Sound Protection Radio Controllers
   Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/DSC0330.jpg?v=1779187235
+  Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/Fortis_Headset_-_Black_-_DSC0330.jpg?v=1781514571
   - [Black](https://silynxcom.com/products/fortis-quad-ptt-set-1?variant=43274916429927)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/FortisQDConCableleftbuttons_DSC0335.jpg?v=1779187244
   - [Tan](https://silynxcom.com/products/fortis-quad-ptt-set-1?variant=43282511626343)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/FortisCableTan_DSC1292.jpg?v=1779798949
+    Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/FortisCableTan_DSC1292.jpg?v=1781514763
 - [PROTEGO STD — In-Ear Tactical Hearing Protection NRR 31 | Silynx](https://silynxcom.com/products/protego-std): Silynx PROTEGO STD — in-ear hearing protection NRR 31 dB. Hear-Thru, in-ear voice mic, IP68 waterproof. Standard tactical in-ear sound protection headset.
   Updated: 2026-06-08T10:57:24Z
   Vendor: Silynx
@@ -429,7 +429,7 @@
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/Falcon-Side-DSC_0167-HDR-1536x1536.webp?v=1777894623
 - [Silynx Clarus Pro X — Electronic In-Ear Ear Protection for Shooting](https://silynxcom.com/products/silynx-clarus-pro-x): Silynx Clarus Pro X — military-grade electronic in-ear hearing protection for shooting, hunting, and tactical use. NRR 31 dB, Hear-Thru, IP68, 72-hour battery.
-  Updated: 2026-06-08T10:57:24Z
+  Updated: 2026-06-09T21:40:31Z
   Vendor: Silynx
   Product Type: Sound Protection Plugs
   Availability: Not Available
@@ -501,7 +501,7 @@
   Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/3.5mmstereofemalecivilianheadset__DSC3983.jpg?v=1780403180
 - [Motorola APX Series Radio Adaptor | Silynx Communications](https://silynxcom.com/products/motorola-apx-series-radio-adaptor): Silynx Motorola APX series cable adaptor for CLARUS. Connects to APX, XPR7550, MTP6550, SRX2200. Black (CA0117-03) and Tan (CA0117-05).
-  Updated: 2026-06-08T15:25:56Z
+  Updated: 2026-06-14T16:17:46Z
   Vendor: Silynx
   Product Type: Cable Adaptors
   Availability: Not Available
@@ -569,13 +569,13 @@
 
 ## Blogs
 
-- [Tactical Headset News & Insights | Silynx Communications](https://silynxcom.com/blogs/news): tay current on tactical communication and hearing protection. Silynx covers in-ear headset technology, industry trends, and field-tested innovations.
+- [Tactical Headset News & Insights | Silynx Communications](https://silynxcom.com/blogs/news): Stay current on tactical communication and hearing protection. Silynx covers in-ear headset technology, industry trends, and field-tested innovations.
   - [Why Silynx TRUE VOICE Technology Outperforms Bone Conduction Microphones: Crystal-Clear Audio From the First Word](https://silynxcom.com/blogs/news/why-silynx-true-voice-technology-outperforms-bone-conduction-microphones-crystal-clear-audio-from-the-first-word): <p>Discover why Silynx TRUE VOICE technology delivers superior voice clarity compared to bone conduction microphones—with zero latency and up to 72 hours of battery life (over 140 hours with a second AAA battery).</p>
-    Updated: 2026-06-02T11:00:30Z
+    Updated: 2026-06-14T13:12:34Z
     Author: Silynx Communications
     Tags: bone conduction vs in-ear microphone, crystal clear audio, in-ear microphone, low latency audio, microphone, military communication, Silynx, Silynx CLARUS, Silynx microphone, tactical headset, TRUE VOICE, TRUE VOICE technology
   - [The Hidden Crisis: Why Hearing Protection is the Most Important  for Military, Law Enforcement, and Industrial Professionals](https://silynxcom.com/blogs/news/the-hidden-crisis-why-hearing-protection-is-the-most-important--for-military-law-enforcement-and-industrial-professionals): <p><meta charset="utf-8">Tinnitus is the #1 VA disability claim. Over 3.2 million veterans receive compensation for hearing damage. Learn why Silynx hearing protection with Hear-Thru™ technology is essential for military, law enforcement, and industrial professionals.</p>
-    Updated: 2026-06-01T15:45:12Z
+    Updated: 2026-06-14T13:08:27Z
     Author: Silynx Communications
     Tags: hearing defense, hearing protection, military hearing loss, NRR 25, OSHA hearing protection, Silynx hearing protection, situational awareness, tactical hearing protection, tinnitus, veteran hearing loss
 - [Press Releases | Silynxcom Ltd. (NYSE: SYNX) Investor Relations](https://silynxcom.com/blogs/press-releases): SEC press releases and investor relations updates from Silynxcom Ltd. (NYSE American: SYNX). Regulatory filings, financial results, contract announcements, and material disclosures.
@@ -924,13 +924,13 @@
 ## Policies
 
 - [Privacy Policy](https://silynxcom.com/policies/privacy-policy)
-  Updated: 2026-06-02T03:45:19-07:00
+  Updated: 2026-06-09T06:00:09-07:00
 - [Shipping Policy](https://silynxcom.com/policies/shipping-policy)
   Updated: 2026-06-08T05:14:35-07:00
 - [Refund Policy](https://silynxcom.com/policies/refund-policy)
-  Updated: 2026-06-08T05:11:38-07:00
+  Updated: 2026-06-09T05:58:41-07:00
 - [Terms of Service](https://silynxcom.com/policies/terms-of-service)
-  Updated: 2026-06-02T04:33:10-07:00
+  Updated: 2026-06-09T05:59:48-07:00
 - [Contact Information](https://silynxcom.com/policies/contact-information)
   Updated: 2026-05-28T06:28:15-07:00
 
