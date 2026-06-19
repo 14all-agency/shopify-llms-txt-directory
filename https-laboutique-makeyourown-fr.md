@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-09-08T08:53:04Z
 - Contact Email: charline@makeyourown.fr
-- Updated At: 2026-06-09T00:00:27.863Z
+- Updated At: 2026-06-19T00:00:36.664Z
 
 ## Products
 
