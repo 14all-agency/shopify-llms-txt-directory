@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2026-06-12T00:00:48.234Z
+- Updated At: 2026-06-19T04:00:34.568Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -99,7 +99,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/ColorCategoryRecipePages-BreakfastLunchandDinner3-pack-PrintablePlanning.jpg?v=1687202057
   Price: $5.95 USD
 - [Color Category Recipe Pages BUNDLE with Smoothie Recipe Page - Printable](https://printableplanning.com/products/color-category-recipe-pages-bundle-with-smoothie-recipe-page-printable): Color coded Breakfast, Lunch, and Dinner category printable recipe pages for organizing your favorite recipes with a bonus smoothie page. Colorful printable Recipe Pages in a bundle that includes three recipe category options for Breakfast, Lunch, and Dinner, and a bonus Smoothie Recipe Page. Save when you bundle! You can print and use all four colored pages to separate your recipes by category: Yellow for Breakfast, Blue for Lunch, Red for Dinner, and Green for Smoothies. Print as many as you need forever. Recipe Pages categories: Recipe name. Ingredients. Instructions. Preheat temperature (if applicable). Preparation time. How many servings the recipe will make. Smoothie Recipe Page categories: Recipe name. Health benefit. Ingredients. How many servings the recipe will make. This purchase includes your (3) PDF files for your category pages for Breakfast, Lunch, and Dinner compressed into (1) ZIP file/folder that you will need to extract after purchase, and (1) PDF file for your bonus smoothie page. SPECIFICATIONS & BENEFITS: (4) 8.5" x 11" printable PDF pages. (Includes (1) ZIP file containing (3) PDF files, and (1) additinoal PDF file for the smoothie page, not in the ZIP file). 2 Recipes per Page on Breakfast, Lunch, and Dinner pages. 4 Recipes per Page on the Smoothie Recipes Page Offset to the right to allow room for a 3-hole punch. Color coded to separate Breakfast, Lunch, Dinner, and Smoothies. Print new recipe pages when you need more.
-  Updated: 2025-12-28T13:06:25Z
+  Updated: 2026-06-19T00:44:54Z
   Vendor: Artistically Invited
   Product Type: Meal Planning
   Availability: Available
@@ -1093,7 +1093,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/PersonalizedHeartCupcakePinkBlueandPurpleBookmarks5-up-PrintablePlanning.jpg?v=1686328176
   Price: $5.95 USD
 - [Personalized Blank Piano and Vocals Sheet Music - Printable](https://printableplanning.com/products/personalized-blank-piano-and-vocals-sheet-music-printable): A printable page of BLANK sheet music for piano and vocals, that can be personalized every time you print. The editable part of this printable personalized blank piano and vocals music sheet PDF file allows you to change the title or delete the title, and edit the name line as well. The music, notes, and/or vocals must be written in by hand. Print as many sheets as you need, or a new sheet every time you need one. Each page is offset to the right to allow room for a DIY 3-hole punch for binder inclusion. Fonts, font sizes, and colors available only as shown. SPECIFICATIONS: 8.5" x 11" printable PDF page. Full page blank sheet music. Simple and clean. Offset for DIY 3-hole punch. Print a new page of this printable personalized blank piano and vocals music sheet every time you need more sheet music. NOTE: This is NOT a computer program for writing music. This is an editable PDF file for title and attribution only.
-  Updated: 2026-04-24T15:36:56Z
+  Updated: 2026-06-17T15:25:00Z
   Vendor: Artistically Invited
   Product Type: Miscellaneous
   Availability: Available
@@ -1148,35 +1148,28 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Weekly_Meal_Planning_Page_-_Yellow_-_Printable_Planning_3a7ece9e-46ea-4ac9-801c-5f46c99ff1ed.jpg?v=1564501506
   Price: $5.95 USD
-- [Grayscale Weekly Meal Planning Page with Grocery List - Printable](https://printableplanning.com/products/grayscale-weekly-meal-planning-page-with-grocery-list-printable): A convenient printable Grayscale Weekly Meal Planning Page with Grocery List designed with a grayscale color scheme. The days of the week alternate slightly in lightness to visually separate them. Columns include planning for your breakfast, lunch, snacks, and dinner for each day. Stay on top of the week you're planning for with a place to write the date to which your weekly planner applies. The grayscale color scheme is a benefit so that you use less of your color inks in your printer. We've provided a section on the right for a grocery list where you can write the foods and ingredients you'll need for the week. Simply (and carefully) cut the list off of the page to take with you to the Grocery Store and mark the little box on each line to check off the items as you put them in your grocery cart. SPECIFICATIONS: 8.5" x 11" printable PDF page. Days run Sunday through Saturday. Color: Grayscale. Convenient grocery list section. Print a new printable Grayscale Weekly Meal Planning Page with Grocery List for every week.
-  Updated: 2026-04-01T16:57:46Z
-  Vendor: Artistically Invited
-  Product Type: Meal Planning
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1004/0126/products/Weekly_Meal_Planning_Page_-_Grayscale_-_Printable_Planning_90f28896-768e-4a7d-a081-8acc7567d3c8.jpg?v=1564501332
-  Price: $5.95 USD
-[List Continued](https://printableplanning.com/a/llms-agent/llms.txt?shop=printable-planning.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NzQ1Mzg5NTI3OTksImxhc3RfdmFsdWUiOiI3NzQ1Mzg5NTI3OTkifQ%3D%3D)
+[List Continued](https://printableplanning.com/a/llms-agent/llms.txt?shop=printable-planning.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NzQ1Mzg4ODcyNjMsImxhc3RfdmFsdWUiOiI3NzQ1Mzg4ODcyNjMifQ%3D%3D)
 
 ## Collections
 
 - [Frontpage](https://printableplanning.com/collections/frontpage)
-  Updated: 2026-06-02T11:01:24Z
-  Total Products: 407
+  Updated: 2026-06-18T20:38:16Z
+  Total Products: 409
 - [Digital Goods VAT Tax](https://printableplanning.com/collections/digital-goods-vat-tax)
   Updated: 2026-05-29T11:01:00Z
   Total Products: 238
 - [Printable Downloads | Checklists, Planners, Forms, and Trackers](https://printableplanning.com/collections/all): Shop printable downloads for caregiver forms, daily planning, home organization, school helpers, and financial tracking, made to be easy to use.
-  Updated: 2026-06-02T11:01:24Z
-  Total Products: 407
+  Updated: 2026-06-18T20:38:16Z
+  Total Products: 409
 - [Organization Printables | Lists, Logs, and Helpers](https://printableplanning.com/collections/miscellaneous-organization-pages): Everyday organization printables like  lists, call logs, trackers, and simple helpers for keeping daily details in one place.
-  Updated: 2026-06-02T11:01:24Z
+  Updated: 2026-06-18T11:01:19Z
   Total Products: 13
 - [Caregiver Forms | Health Logs and Housekeeping](https://printableplanning.com/collections/caregivers-health-housekeeping): Printable caregiver forms and logs for families and pet care, plus health info sheets and housekeeping checklists to keep routines organized.
-  Updated: 2026-05-29T11:01:00Z
-  Total Products: 42
+  Updated: 2026-06-18T20:38:16Z
+  Total Products: 44
 - [Printable Financial Sheets | Budget, Bills, Savings, and Debt](https://printableplanning.com/collections/financial-sheets): Printable financial sheets to track budgeting, bills, tithing, savings, and debt payoff. Simple pages for monthly planning and everyday money routines.
-  Updated: 2026-05-17T11:02:04Z
-  Total Products: 43
+  Updated: 2026-06-18T20:56:24Z
+  Total Products: 44
 - [Holiday and Occasion Printables | Gift Tags, RSVPs, and More](https://printableplanning.com/collections/holiday-and-occasion-printable-pages): Holiday and occasion printables like gift tags, RSVP and guest list pages, gift planning lists, and more for organized celebrations.
   Updated: 2026-05-21T11:01:22Z
   Total Products: 65
@@ -1205,8 +1198,11 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Updated: 2026-05-30T11:01:23Z
   Total Products: 15
 - [Printable To-Do Lists and Task Checklists | Daily and Weekly](https://printableplanning.com/collections/to-do-lists-and-task-checklists): Printable to-do lists and task checklists for daily planning, weekly routines, and project tracking. Simple pages to keep tasks organized.
-  Updated: 2026-05-29T11:01:00Z
-  Total Products: 26
+  Updated: 2026-06-16T21:27:23Z
+  Total Products: 27
+- [Low-Energy Planning Pages](https://printableplanning.com/collections/low-energy-planning-pages): Explore low-energy planning pages and gentle printable tools for overwhelming days, brain dumps, task sorting, life admin catch-up, home resets, and realistic daily planning.
+  Updated: 2026-06-16T21:27:23Z
+  Total Products: 1
 
 ## Store Pages
 
